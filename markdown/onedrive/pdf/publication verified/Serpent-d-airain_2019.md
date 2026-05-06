@@ -1,0 +1,103 @@
+---
+source: "onedrive"
+sermon_id: "Serpent-d-airain_2019"
+title: "Nehuschtan : Le serpent d'airain ou comment un message ou une instruction de Dieu peut devenir une idole"
+subtitle: "Exhortation de Mai 2019"
+date: "2019-05-22"
+year: 2019
+location: "Muraz"
+preacher: "Stéphane Pouyt"
+summary: "Cette exhortation s'appuie sur les récits bibliques de Nombres 21:4-9 et 2 Rois 18:1-8 pour montrer comment un message ou une instruction de Dieu peut devenir une idole. L'auteur met en garde contre le fait de faire du message du prophète William Branham une idole en le mettant au-dessus de la Parole de Dieu, et appelle à une vie de consécration, de prière et de recherche de la volonté de Dieu pour être prêt pour le retour du Seigneur."
+tags:
+  - "Exhortations"
+  - "2019"
+  - "Idolâtrie"
+  - "Message du prophète"
+  - "Préparation pour le retour de Jésus"
+persons:
+  - "Moïse"
+  - "Ézéchias"
+  - "Jésus-Christ"
+  - "Pierre"
+  - "Jean"
+  - "Paul"
+  - "Job"
+  - "William Branham"
+places:
+  - "Égypte"
+  - "Désert"
+  - "Canaan"
+  - "Jérusalem"
+  - "Lausanne"
+  - "Genève"
+  - "Muraz"
+themes:
+  - "Idolâtrie"
+  - "Obéissance à Dieu"
+  - "Message du prophète"
+  - "Préparation pour le retour de Jésus"
+  - "Vie chrétienne consacrée"
+  - "Examen de soi"
+  - "Prière et jeûne"
+mevar_match:
+  url: "https://mevar.org/nehuschtan-le-serpent-d-airain/"
+  title: "Néhuschtan : le serpent d'airain"
+  similarity: 0.555
+llm_cleaned: true
+---
+## Nehuschtan : Le serpent d'airain ou comment un message ou une instruction de Dieu peut devenir une idole
+
+*Exhortation Spéciale De Mai 2019*
+
+**Textes bibliques : Nombres 21:4-9,2 Rois 18:1-8**
+
+Nous allons lire le premier texte dans Nombres 21:4-9
+
+> **4** Ils partirent de la montagne de Hor par le chemin de la mer Rouge, pour contourner le pays d'Edom. Le peuple s'impatienta en route, **5** et parla contre Dieu et contre Moïse : Pourquoi nous avez-vous fait monter hors d'Egypte, pour que nous mourions dans le désert ? car il n'y a point de pain, et il n'y a point d'eau, et notre âme est dégoûtée de cette misérable nourriture. **6** Alors l'Eternel envoya contre le peuple des serpents brûlants ; ils mordirent le peuple, et il mourut beaucoup de gens en Israël. **7** Le peuple vint à Moïse, et dit : Nous avons péché, car nous avons parlé contre l'Eternel et contre toi. Prie l'Eternel, afin qu'il éloigne de nous ces serpents. Moïse pria pour le peuple. **8** L'Eternel dit à Moïse : Fais-toi un serpent brûlant, et place-le sur une perche ; quiconque aura été mordu, et le regardera, conservera la vie. **9** Moïse fit un serpent d'airain, et le plaça sur une perche ; et quiconque avait été mordu par un serpent, et regardait le serpent d'airain, conservait la vie.
+
+En lisant ce texte, on comprend pourquoi Moïse a dû faire un serpent d'airain. En effet le peuple s'impatienta et parla contre Moïse et contre Dieu. Pourquoi nous avez-vous fait monter hors d'Egypte, pour que nous mourrions dans le désert car il n'y a point d'eau et notre âme est dégoutée de cette misérable nourriture. Ces paroles offensantes envers Moïse et Dieu, ont amené un jugement sur le peuple. Dieu a envoyé des serpents venimeux et un grand nombre de personnes sont mortes. Voyant cela le peuple revint vers Moïse et lui demanda de prier l'Eternel pour qu'Il éloigne les serpents. Et l'Eternel dit à Moïse : fais-toi un serpent brûlant et place-le sur une perche. Quiconque aura été mordu et le regardera, conservera sa vie. Voilà pour l'histoire qui s'est réellement passée lors de la sortie d'Egypte.
+
+Que pouvons-nous tirer de cette histoire pour notre vie de tous les jours ? On peut constater que, bien que le peuple des Hébreux soit sous la conduite d'un véritable homme de Dieu choisi et formé par Dieu lui-même pendant de longues années, bien qu'ils aient vu tous les miracles, les plaies envoyées en Egypte, la sortie du pays, la traversée de la mer rouge, le peuple s'est révolté contre Dieu et son serviteur.
+
+Paul écrit dans 1 Corinthiens 10:6 « Or, ce sont des exemples (ou des types) pour nous, afin que nous n'ayons pas de mauvais désirs, comme ils en ont eu » Qu'en est-il de nous-même ? Avons-nous toujours remercié, loué, obéi à Dieu ? Ne l'avons-nous pas mis de côté ? N'avons-nous pas mis de côté sa Parole, la communion avec Lui, la lecture de la bible ? Ne nous sommes-nous pas focalisés sur des enseignements, sur des messages ou des parties de message que Dieu a donnés à ses serviteurs ? N'avons-nous pas méprisé Dieu en le mettant de côté ? Ces serpents brûlants typifient des attaques ou des liens spirituels dans nos vies. Ils s'appellent orgueil, calomnie, médisance, rejets, non-pardon, dépression, tristesse, etc. Dieu les a envoyés pour faire mourir les impies. La mort physique des Hébreux est un type de la mort spirituelle de ceux qui méprisent Dieu et sa parole ; De ceux qui rejettent les serviteurs que Dieu envoie encore aujourd'hui.
+
+Le serpent d'airain fait par Moïse, n'a aucune valeur ni aucune puissance en lui-même. Placé sur une perche pour être visible par tous, il symbolise la croix du Christ. La puissance de guérison n'est pas dans le « morceau d'airain » mais dans le regard de foi, de l'homme vers le serpent d'airain, et celui de Dieu vers l'homme. Le regard de l'homme vers le serpent d'airain nous montre l'esprit contrit et repentant, comme lors de notre conversion quand nous avons regardé et accepté le sacrifice de Jésus à la croix.
+
+Nous voyons que plus tard, le peuple d'Israël étant arrivé en Canaan, hors de la menace des serpents, ce serpent d'airain n'était plus d'aucune utilité. Mais, qu'ont-ils fait ? Ils ont élevé ce morceau de métal au rang d'idole et lui brûlaient des parfums ! On peut voir que plus tard Ezéchias animé d'un zèle « pur » pour Dieu détruisit toutes ces idoles.
+
+Nous allons lire ce texte dans 2 Rois 18:1-8
+
+> **1** La troisième année d'Osée, fils d'Ela, roi d'Israël, Ezéchias, fils d'Achaz, roi de Juda, régna. **2** Il avait vingt-cinq ans lorsqu'il devint roi, et il régna vingt-neuf ans à Jérusalem. Sa mère s'appelait Abi, fille de Zacharie **3** Il fit ce qui est droit aux yeux de l'Eternel, entièrement comme avait fait David, son père. **4** Il fit disparaître les hauts lieux, brisa les statues, abattit les idoles, et mit en pièces le serpent d'airain que Moïse avait fait, car les enfants d'Israël avaient jusqu'alors brûlé des parfums devant lui : on l'appelait Nehuschtan. **5** Il mit sa confiance en l'Eternel, le Dieu d'Israël ; et parmi tous les rois de Juda qui vinrent après lui ou qui le précédèrent, il n'y en eut point de semblable à lui. **6** Il fut attaché à l'Eternel, il ne se détourna Point de lui, et il observa les commandements que l'Eternel avait prescrits à Moïse. **7** Et l'Eternel fut avec Ezéchias, qui réussit dans toutes ses entreprises. Il se révolta contre le roi d'Assyrie, et ne lui fut plus assujetti. **8** Il battit les Philistins jusqu'à Gaza, et ravagea leur territoire depuis les tours des gardes jusqu'aux villes fortes.
+
+Dans ce texte, nous voyons qu'Ezéchias fit ce qui est droit aux yeux de l'Eternel. Il fit disparaître les hauts lieux, brisa les statues, abattit les idoles, et mit en pièces le serpent d'airain que Moïse avait fait. Pourquoi ? Parce que les enfants d'Israël avaient jusqu'alors brûlé des parfums devant lui. Autrement dit les enfants d'Israël avaient fait une idole du serpent d'airain que Moïse avait élevé dans le désert pour leur salut. On peut comprendre par là qu'une instruction ordonnée par Dieu pour leur délivrance, à savoir construire un serpent d'airain et le mettre sur une perche pour qu'il soit visible de tous, peut au fil du temps devenir une idole dans le cœur des gens. Pour nous aujourd'hui, on peut se poser la question de savoir si nous ne faisons pas des idoles dans notre cœur des messages que Dieu nous a donnés pour notre salut.
+
+Pour notre temps, Dieu nous a envoyé un message par son prophète pour nous ouvrir les yeux, nous faire comprendre véritablement la Parole de Dieu, le plan que Dieu a pour l'humanité afin que nous nous préparions pour son retour. Mais si nous faisons de ce message une idole, en le mettant au-dessus de la Parole de Dieu, en ne lisant plus que des brochures du prophète, en disant que l'on « aime ce message », j'ai bien peur que le message devienne alors une idole dans notre cœur. Pour les hébreux dans le désert, le serpent d'airain fait par Moïse a été une solution momentanée pour les délivrer des serpents brûlants. Il n'était pas appelé à durer dans le temps. Au moment où il n'y avait plus de serpents, il n'était plus d'aucune utilité et peut-être aurait-il dû être détruit. Mais c'est le propre de l'homme de conserver les objets qui ont été utiles et selon les cas d'en faire des reliques que l'on conserve et vénère.
+
+Les serpents brûlants représentent les attaques de Satan dans notre vie. Et même si ces serpents ont été envoyés par Dieu, le retour des hébreux vers Lui a touché le cœur de Dieu qui leur a donné une solution pour être délivrés de ces serpents. Dans notre génération, Dieu a eu compassion de ses enfants et Il nous a envoyé un message par son serviteur pour nous ouvrir les yeux et nous aider à nous mettre en ordre avec Lui et nous préparer pour son retour. Il nous a appelés à sortir de la Babylone spirituelle. Une fois que ce message nous a ouvert les yeux, que l'on a compris ce que le prophète a annoncé et qu'on l'a mis en pratique, ce message reste valable mais n'est plus utile pour nous. Si j'ai compris que Dieu est un et que je dois être baptisé dans le nom du Seigneur Jésus, cela ne sert plus à rien d'y revenir. Je vais prendre un exemple. J'aime bien les balades en montagne. Si lors d'une de ces sorties je me perds et que je croise une personne qui connaît bien la région et qui m'explique où je me trouve et dans quelle direction je dois aller pour aller vers mon but, alors dès que je m'engage sur le chemin indiqué, je peux dire que l'homme qui m'a renseigné ne m'est plus utile. Je peux le remercier de m'avoir aidé, mais après il est devenu inutile pour moi. Ses indications, elles, sont nécessaires, mais une fois comprises et suivies, je peux les oublier car elles sont intégrées. Je suis sur le bon chemin que je peux suivre jusqu'à ma destination finale. De même, si je veux aller de Lausanne à Genève, je vais suivre les panneaux indicateurs et une fois sur l'autoroute, je ne vais pas vérifier tous les dix kilomètres que je suis bien dans la bonne direction ! Je sais que je suis sur la bonne route et je continue sans me poser de question.
+
+J'espère que vous me comprenez. Dieu nous a envoyé un prophète pour nous révéler ce qui était scellé et caché dans la parole de Dieu. Une fois que l'on a compris et mis en pratique le message annoncé, il ne nous est « plus utile ». Cela ne veut pas dire qu'il n'a pas de valeur, qu'il n'est pas encore nécessaire pour ceux qui ne l'ont pas entendu ou compris. Pour revenir à mon exemple, cité plus haut, les indications de l'homme qui me permettent de retrouver le bon chemin, restent valables et utiles, mais une fois dans le bon chemin, je peux les mettre de côté. Pour le message du prophète, c'est la même chose, quand j'ai compris que je devais me repentir, demander pardon à Dieu, mettre ma vie en ordre et me faire baptiser par immersion dans le nom du Seigneur Jésus et que je l'ai fait, ce message ne m'est plus utile. Cela n'enlève rien à sa valeur, sa pertinence pour tous, sa validité. Il doit être encore enseigné à ceux qui ne l'ont pas reçu, mais pour moi, il n'est plus « utile ».
+
+Nous sommes en marche vers notre salut. Nous sommes sur un chemin et dans le Psaumes 119 au verset 105, il est écrit : « Ta parole est une lampe à mes pieds, Et une lumière sur mon sentier ». Nous voyons que cette parole nous accompagne tout au long du sentier de notre vie. La révélation est progressive. Elle n'est pas figée à une certaine époque. Pour atteindre mon but je dois marcher. Dieu nous accompagne dans cette marche. Nous avons parfois des épreuves pour nous faire évoluer ou pour nous faire comprendre certaines vérités qui nous échappent. Comme pour Job, Dieu peut nous arrêter pour nous amener dans une situation spirituelle nouvelle, pour nous amener dans une communion avec Lui plus intense.
+
+Les autres prédications du prophète sont édifiantes et c'est bien clair que personnellement on peut les écouter. Mais, le prophète n'est plus là et la vie continue. Dieu marche toujours avec nous et Il a d'autres révélations, d'autres mises en gardes, d'autres indications sur ce qu'Il est en train de faire pour nous et avec nous aujourd'hui afin que nous comprenions sa volonté et que nous marchions en accord avec elle. Dieu nous appelle à nous préparer pour son retour. Il aimerait que chacun de nous devienne son disciple. Des hommes et des femmes ayant renoncé à eux-mêmes, prêts à s'engager dans le combat contre les puissances occultes, et pour le témoignage de notre Seigneur Jésus-Christ.
+
+On l'a déjà vu, Dieu nous a appelés à sortir de la Babylone religieuse. Babylone représente une forteresse où règne la confusion, Babel. Il y a d'autres Babylone. Il y a des forteresses religieuses, spirituelles, familiales, professionnelles, sociales etc. Dieu nous invite à nous examiner afin que nous fassions de l'ordre dans notre vie. Que tout ce qui prend la première place dans notre vie à la place de Dieu soit remis à la position qui lui convient. Bien sûr que l'on doit travailler, avoir un logement, mais tout cela le Père sait que l'on en a besoin et Il y pourvoit selon sa promesse. Notre vie devrait se concentrer sur notre relation intime avec le Seigneur Jésus. Prier et jeûner pour nous humilier devant Lui et comprendre sa volonté pour nous aujourd'hui, pas prier pour avoir un nouveau job ou une plus belle voiture. Tout ce qui prend la première place dans notre vie peut être qualifié d'idole. La bible nous met en garde contre les idoles et nous savons que les idolâtres n'hériteront pas du royaume de Dieu (1 Corinthiens 6:9-10).
+
+C'est vrai que nous avons reçu ce message de la part de Dieu pour nous mettre sur la bonne voie qui nous mènera au salut. C'est vrai que nous sommes la semence. Cependant, la semence n'est pas destinée à rester une semence et comme le grain de blé, la semence doit tomber dans une bonne terre, mourir et devenir une plante qui portera du fruit. Une semence de blé produira du blé. Par la foi, nous recevons la semence du Christ. Cette semence doit produire Christ en nous. Elle doit nous amener à être semblable à Lui. Nous devons avoir le même caractère que le Seigneur Jésus : être plein d'amour, de compassion pour nos semblables, mort aux désirs du monde, mort aux désirs de la chair. La vie de Christ en nous doit produire les mêmes effets, à savoir une vie entièrement consacrée à notre relation avec Dieu. Nous devons être capable de discerner la volonté de Dieu et de l'accomplir.
+
+Aujourd'hui, Dieu nous prépare à être les témoins de sa gloire et de sa puissance. Il veut nous amener à être comme les premiers disciples, comme Pierre et Jean ou Paul, imprégnés de sa Parole pour la prêcher aux incroyants. Il veut nous envoyer dans le monde pour faire des miracles et des choses encore plus grandes que celles que Lui a faites afin que le monde réalise que Dieu existe. Il veut que, par notre témoignage, un grand nombre soit touché et se convertisse. Et après, viendra l'enlèvement.
+
+Le temps est court. La Parole nous dit de racheter le temps. Le Seigneur prépare son épouse. Il la veut sans tache, ni ride, ni rien de semblable. Il nous invite à nous examiner devant lui avec l'aide de sa Parole. Il nous invite à mettre de l'ordre dans nos vies, à renoncer à nous-même, à nos désirs pour être attentif à sa volonté. Il veut faire de nous les témoins puissants de sa Gloire et de sa Force devant le monde entier avant de nous enlever auprès de Lui. Pour cela, Il a besoin d'hommes et de femmes entièrement consacrés à son service. Nous devons nous tenir devant Lui, dans les jeûnes et la prière pour chercher et comprendre sa volonté et pour mettre notre vie en ordre. Il n'est pas suffisant d'aller à l'église et de revenir à la maison dimanche après dimanche. Nous devons chercher la face de Dieu et être à son écoute. Nous devons prier et être patient en attendant les réponses à nos prières. Nous trouvons dans 2 Pierre 1:3-10, une bonne définition de notre marche :
+
+> **3** Comme sa divine puissance nous a donné tout ce qui contribue à la vie et à la piété, au moyen de la connaissance de celui qui nous a appelés par sa propre gloire et par sa vertu, **4** lesquelles nous assurent de sa part les plus grandes et les plus précieuses promesses, afin que par elles vous deveniez participants de la nature divine, en fuyant la corruption qui existe dans le monde par la convoitise, **5** à cause de cela même, faites tous vos efforts pour joindre à votre foi la vertu, à la vertu la science, **6** à la science la tempérance, à la tempérance la patience, à la patience la piété, **7** à la piété l'amour fraternel, à l'amour fraternel la charité. **8** Car si ces choses sont en vous, et y sont avec abondance, elles ne vous laisseront point oisifs ni stériles pour la connaissance de notre Seigneur Jésus Christ. **9** Mais celui en qui ces choses ne sont point est aveugle, il ne voit pas de loin, et il a mis en oubli la purification de ses anciens péchés. **10** C'est pourquoi, frères, appliquez-vous d'autant plus à affermir votre vocation et votre élection; car, en faisant cela, vous ne broncherez jamais.
+
+Dans ce texte nous avons une marche à suivre pour notre vie chrétienne. On peut voir que cela demande des efforts : … à cause de cela faites tous vos efforts pour joindre à votre foi la vertu, …. La vie chrétienne n'est pas une vie facile, sans effort et sans problème. Dieu ne nous l'a pas dit, par contre nous savons que Dieu marche avec nous comme Il nous l'a promis : Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde (Matthieu 28:20).
+
+Ne soyons pas idolâtres, ne méprisons pas Dieu, ne l'offensons pas par des pratiques religieuses, par une vie partagée entre la vie du monde et notre vie spirituelle. Demandons à Dieu qu'Il nous révèle en quoi nous pouvons l'offenser. Quels sont nos serpents d'airain que nous trimbalons avec nous dans notre marche. Qui ou quoi est à la première place dans ma vie ? Je nous invite à nous examiner sincèrement devant Dieu, à lui demander qu'Il nous révèle quels sont les domaines de notre vie à mettre en ordre.
+
+Dieu est à la porte. Le temps est court. Ne restons pas assis en croyant être arrivés. Relevons la tête et regardons en haut. Bientôt la trompette sonnera et nous serons pour toujours libérés de cette lutte contre l'esprit du monde et de ses désirs et nous entrerons dans le repos, le sabbat du septième jour.
+
+Que Dieu vous inspire et vous bénisse.
+
+*Muraz, le 22 mai 2019*
+*Stéphane Pouyt*

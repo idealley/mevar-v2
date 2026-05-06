@@ -1,0 +1,121 @@
+---
+source: "onedrive"
+sermon_id: "votreheure pdf"
+title: "C'est ici votre heure et la puissance des ténèbres"
+date: "2006-09-30"
+year: 2006
+location: "Soubré"
+preacher: "M'BRA Parfait"
+summary: "Le prédicateur exhorte l'Église à rejeter un évangile sans puissance et à entrer dans un combat spirituel de libération intérieure. Il compare la situation actuelle à l'heure des ténèbres lors de la crucifixion de Jésus, annonçant que cette heure passe pour laisser place à la lumière de la résurrection et du réveil."
+tags:
+  - "Exhortations"
+  - "2006"
+  - "Puissance de Dieu"
+  - "Combat spirituel"
+  - "Réveil"
+persons:
+  - "Jésus-Christ"
+  - "William Branham"
+  - "Élie"
+  - "Tommy Osborn"
+  - "Judas Iscariote"
+  - "Marie de Magdala"
+  - "Jacques"
+  - "Jean"
+  - "Salomé"
+places:
+  - "Soubré"
+  - "Jérusalem"
+  - "Israël"
+  - "Égypte"
+  - "Babylone"
+  - "Indes"
+themes:
+  - "Puissance de Dieu"
+  - "Ténèbres spirituelles"
+  - "Combat spirituel"
+  - "Réveil"
+  - "Libération intérieure"
+  - "Dons de l'Esprit"
+  - "Prière"
+mevar_match:
+  url: "https://mevar.org/est-ici-votre-heure-et-la-puissance-des-tenebres/"
+  title: "C’est ici votre heure et la puissance des ténèbres"
+  similarity: 0.599
+llm_cleaned: true
+---
+# C'est ici votre heure et la puissance des ténèbres
+
+*Prêché à Soubré le 30 septembre 2006*
+
+Comme je l'ai dit, c'est un travail que nous sommes venus faire – c'est comme un bâtiment, il faut mettre une brique l'une après l'autre. Ce sont des touches qu'il faut mettre parce que tout se déroule dans la vie intérieure. Tout à l'heure, j'ai dépeint la situation de l'Eglise et nous avons prié pour cela. Mais vous savez…la prédication du réveil, ce n'est seulement cela…ce n'est pas seulement dépeindre le tableau noir, la situation chaotique qui est devant nous…Il faut aussi donner de l'espoir au peuple de Dieu, parce que dans la Bible, il y a de l'espoir pour nous.
+
+Vous savez frères…ce qui se passe maintenant dans l'Eglise…la première chose qu'on doit faire est qu'on doit prendre conscience que notre situation n'est pas normale…tant qu'on va penser que c'est la volonté de Dieu…tout dépend de Dieu…ce genre de propos frères…c'est dangereux ! Ça ne vient pas de Dieu. La vie de Jésus est dans la Bible, tout à l'heure on va lire quelques passages et je vais vous montrer quelque chose et vous allez voir…Parce que moi je me souviens très bien…parce que je suis dans le Message depuis mon enfance et depuis on a entretenu des pensées. Lorsqu'on va à l'Eglise et qu'on ne sent pas la Puissance de Dieu se manifester, les frères expliquent cela…
+
+On expliquait cela…on expliquait cela. On entendait les explications du genre : vous savez frères, pour nous ça viendra…ce n'est pas maintenant, mais cela viendra…Et moi j'entendais cela, on justifiait cela. J'ai entendu au moins deux fois dans une Assemblée qu'on avait pas besoin des miracles…et que la Parole nous suffisait, comme si les miracles et la puissance de Dieu se trouvaient en dehors de la Parole de Dieu…J'ai entendu que : l'essentiel, c'est la Parole . Or la Parole de Dieu n'est rien sans la Puissance de Dieu.
+
+Lorsque le Seigneur dit : Que la terre soit …et la terre est venue. Que pensez-vous que c'était ? Toi homme prononce la même Parole et tu verras que cela ne produira aucun effet. Ou bien dit ici : Que cette fleur qui est devant moi ici sèche. Dis-le et tu verras si ça va sécher ou pas ! Il y a quelque chose dans ce que Dieu dit et c'est cela qui est la Puissance de Dieu. C'est pourquoi on ne peut pas dissocier la Puissance de Dieu de la Parole de Dieu…ce n'est pas possible. Les deux choses vont ensemble. Lorsque le Seigneur a regardé le figuier et qu'Il a parlé, ça séché, il y avait une Puissance dans cette Parole.
+
+Et nous avons ramené la Puissance de Dieu à ceux qui parlent en langues, au point que lorsqu'on parle de la Puissance de Dieu, on s'y oppose…Mais ce n'est pas seulement cela la Puissance de Dieu…Est-ce que nos vies sont transformées ? Qu'est ce qui transforme la vie d'un chrétien ? C'est la Puissance de Dieu ! C'est la Puissance de Dieu qui est dans la Parole de Dieu…le frère Branham a prêché : le Pouvoir de Dieu pour transformer. C'est Sa Parole – mais une Parole avec la Puissance de Dieu à l'intérieure… j'insiste là-dessus frères, refusez un Evangile sans Puissance – refusez un Message sans Puissance…
+
+Nous les prédicateurs, nous devrons refuser cela…et moi j'ai déjà refusé cela ! J'aspire à la manifestation de la Puissance de Dieu à tous les niveaux.
+
+Que le nom du Seigneur soit béni ! Je voudrais traiter un autre sujet ici que j'intitule : c'est ici votre heure et la puissance des ténèbres. C'est une Parole du Seigneur Jésus lorsque les gens sont venus le prendre. Il a dit : c'est ici votre heure et la puissance des ténèbres…Je voudrais parler de cela...
+
+A minuit, il faut changer de mentalité, il faut changer de manière de faire. A minuit, on doit tout réviser et changer de direction pour aller dans la voie du réveil…Ne pensez jamais frères, que là où nous sommes, nous allons rester comme cela jusqu'à l'enlèvement. Vous savez vous-mêmes qu'il y aura des bouleversements ! Alors allons-y dans les bouleversements…N'ayons pas peur de nous laisser bouleverser. Une sœur m'avait raconté un songe qu'elle avait eu sur l'enlèvement. C'était comme si elle devrait aller en voyage. Et il y avait un hall où les passagers attendaient. Mais pour parvenir au hall d'embarquement, il fallait obligatoirement passer par une grosse machine. Cette machine était terrible parce qu'elle pressait les frères et sœurs. Tous ceux qui entraient là-dedans étaient pressés de toutes parts. C'était une épreuve difficile mais qui faisait beaucoup de bien – cela donnait le ticket pour le voyage…il fallait passer par là. On n'avait mis un frère dans la machine devant elle et ce frère poussait de grands cris qu'elle entendait et elle devrait obligatoirement passer par là.
+
+Frères, nous serons tous bouleverser avant l'enlèvement. Allons-y au bouleversement de notre vie chrétienne – et c'est la Puissance de Dieu qui va bouleverser notre vie chrétienne…Il doit avoir un changement. Le fait qu'on n'arrive pas à jeûner, ce n'est pas normal ! La temps vient où on va le faire ! On dort de 22 heures jusqu'à 6 heures. Ce n'est pas normal ! Un chrétien doit pouvoir se réveiller dans la nuit pour prier. Que Satan le veuille ou non le temps vient où on pourra se réveiller dans la nuit pour prier comme Jésus le faisait ! Et le Royaume de Satan va tomber et il est vaincu !
+
+Je l'ai déjà dit à un frère sur le net dans nos échanges... Ne pensez plus frères que là où nous sommes arrivés, Satan à encore sa main dans l'œuvre de Dieu. Non ! Cela est terminé ! Et c'est de cela que je vais vous parler tout à l'heure. C'est fini ! Amen ! C'est fini frères ! La guerre de libération interne a commencé ! Ça commencé. Il y a une guerre de libération interne de l'Eglise. Quand le frère Branham est venu, il a dit : Sortez de Babylone. Nous étions en Babylone, et le Message dit : Sortez de Babylone ! Nous sommes sortis et en sortant, on a pris les œuvres de Babylone avec nous. Nous sommes venus nous installer dans le Corps de Christ et les œuvres de Babylone ont commencé à se révéler en nous et au milieu de nous, alors que nous ne sommes plus à Babylone.
+
+C'est comme la sortie d'Egypte. Les œuvres de l'Egypte se sont révélées dans le désert, parmi les juifs. Nous aussi, les œuvres de Babylone se sont révélées parmi nous alors que physiquement, nous ne sommes plus à Babylone. Donc, il y a une guerre de libération qui doit se faire parmi nous – entre nous – une délivrance intérieure – une guerre, un affrontement intérieur. C'est de cela que nous parlons. Et chacun doit mener cette guerre de libération à son niveau. Lorsque nous allons finir cela, nous allons nous dresser contre le Royaume de Babylone, parce que l'Eglise doit marcher sur la dépouille de Babylone pour aller au ciel...Et c'est le Seigneur Jésus qui est devant. C'est Lui le chef de guerre. Avec Lui nous ferons tomber Babylone. Voilà de quoi il est question en ce moment dans l'Eglise.
+
+Chacun entre dans la chose en son temps. Le jour que tu comprends tu entres là-dedans. L'épée est là pour nous tous. Les armes sont là. Le jour que tu es enrôlé, tu viens, tu prends ton arme et tu vas combattre. On ne force personne. Ceux qui doivent mener ce combat se connaissent...Ils sont intérieurement interpellés. Le jour que ton temps arrive, tu viens prendre ton arme et tes munitions et tu vas combattre. Chacun en son temps. Nous, nous sommes déjà enrôlés…et c'est Dieu qui nous a mis dans ce combat. Celui qui est concerné se met dedans. C'est pour cette raison que nous avons mis en place la chaîne de prière sur le net.
+
+Et la guerre que nous menons ne peut pas être efficace sans la prière. On ne peut pas faire tomber Satan sans la prière. Ce n'est pas possible. Vous ne pouvez pas faire plier un démon sans la prière. Vous ne pouvez pas faire une œuvre de Dieu avec efficacité sans la prière. Et nos Ministères n'ont pas été soutenus par la prière. C'est cela l'un des maux qu'on a eu dans ce Message. Alors, je vous exhorte à entrer dans le combat spirituel. Parce qu'il y a une guerre de libération qui doit avoir lieu dans l'Eglise. Tout ce que nous voyons parmi nous qui ne vient pas de Dieu doit être mis dehors. Vous savez que dans les choses de Dieu, une seule Parole peut bloquer la vie d'un chrétien. Une seule Parole qui sort de la bouche d'un prédicateur peut bloquer la vie d'un chrétien pour toujours. Lorsqu'on dit : l'essentiel pour nous c'est la Parole…la puissance de Dieu…les dons de l'Esprit, ce n'est pas ça l'essentiel…De quoi est-ce qu'on parle ? Est-ce qu'un frère qui entend une telle Parole peut aspirer à un don ? Non !
+
+On entend les propos du genre : C'est quoi le parler en langue ? Mais le Seigneur a repris un frère parce qu'il méprisait le parler en langue parce que Paul disait que c'était le plus petit des dons. L'histoire s'est passée en Asie dans un réveil. Maintenant le Seigneur lui pose la question suivante : Même si Paul a dit que le parler en langue est le plus petit des dons ! Qui a donné le parler en langue ? Il répond : c'est toi Seigneur. Alors le Seigneur lui dit : toi, tu mépriserais ce que Moi je donne ! Il était confus. Alors le Seigneur lui demande : veux-tu parler en langue. Il dit : oui ! Alors le Seigneur lui ordonne : Parle en langue. Alors, il a commencé à parler en langue. Nous méprisons les dons qui viennent de Dieu Lui-même, parce que nous avons des problèmes avec les dénominations. [Nous croyons que manifester un don c'est ressembler aux dénominations] Nous méprisons les dons de l'Esprit. Dans ce Message, on méprise les dons.
+
+Il y a un qui a dit : on ne prie pas pour les dons. Mais qu'est-ce que Paul a dit : aspirez aux dons ! Comment peut-on aspirer sans demander ? Aspirer c'est prier frères ! Lorsqu'on aspire à quelque chose, c'est une prière qu'on adresse à Dieu. Savez-vous comment Tommy Osborn a obtenu la Puissance qu'il avait. Cet homme avait vu le frère Branham à l'œuvre. Et il a avait dit à Dieu en son cœur qu'il voulait aussi de cette Puissance parce qu'il allait prêcher aux hindous sans Puissance. Il prêchait en Indes. Et les hindous sont des satanistes, des magiciens, des musulmans. Mais qu'est-ce que tu as pour les confondre ? L'Evangile ! Mais un Evangile sans Puissance, tu ne peux pas ? Mais lorsque le frère est allé en Indes. Il a prêché et il a lancé un défi aux musulmans au sujet d'un aveugle. Il leur a demandé de donner le recouvrement de la vue à l'aveugle avec la puissance de leur dieu. Si cela était fait, lui Branham il devenait musulman. Mais ils ne pouvaient pas!
+
+Le stade était rempli et il les a défié ainsi. Personne n'est venu accomplir le miracle. Alors il leur a dit : Mais si moi j'ouvrais les yeux de l'aveugle par la Puissance de Jésus-Christ ! Ils ont répondu qu'ils deviendraient chrétiens. Mais c'est ce qui est arrivé. L'aveugle a recouvré la vue. Alors ils se sont tous levés dans le stade pour donner leur vie à Christ. Vous comprenez frères ! Un Evangile sans Puissance, ça ne marche plus ! On ne veut plus de cela.
+
+L'esprit d'Elie est un esprit de défi. Oui frères ! L'esprit qui est derrière ce Message est un esprit de défi – et l'esprit d'Elie est un esprit de défi ! Elie a défié les prophètes de Baal et d'Achera parce qu'ils étaient en train de troubler Israël. Ils avaient conduit le peuple dans l'idolâtrie. Il leur a dit : prenez vos animaux et nous irons à la montagne pour adorer. Ils sont partis. Ils ont imploré leur dieu pendant des heures sans rien obtenir. Mais quand le tour d'Elie est arrivé, Dieu est descendu. Notre Evangile est un Evangile de défi. L'esprit d'Elie est un esprit de défi. Mais nous sommes dans la confusion – dans le péché – dans les légèretés et on justifie cela. Qui peut démontrer par la Bible que l'Evangile sans Puissance est vrai.
+
+Nous sommes fatigués d'un Evangile sans Puissance. Nous sommes fatigués d'un Message sans Puissance. Et ce Message sans Puissance n'est pas dans la Bible. L'Evangile sans Puissance n'est pas dans la Bible. C'est pourquoi j'en parle sans lire de versets. C'est nous qui avons inventé cela – un Evangile sans Puissance – un Message sans Puissance. Où peut-on prendre le verset pour montrer qu'on peut avoir la Parole de Dieu sans la Puissance de Dieu ! Cela n'existe pas. C'est nous qui avons inventé cela !
+
+Un frère m'a dit : frère M'BRA, depuis que je suis entré parmi vous, je n'ai jamais entendu une prophétie…Jamais. Cela fait des années. Mais pourquoi cela est ainsi ! Mais ailleurs, on entend souvent des prophéties authentiques. Ce n'est pas tout ce qu'on entend chez les autres qui est faux. Les frères ne savent même pas ce que c'est qu'un parler en langue. Si quelqu'un parle en langue ici, il y en a qui vont peut être fuir. Est-ce que cela est normal ? Nous sommes des plaisantins. Satan nous a eu !
+
+Mais tout est écrit dans la Bible ici. Jésus a dit : C'est ici votre heure et la puissance des ténèbres. Jésus a eu un Ministère en trois points. Premier Point, Il a prêché…Il a guéri les malades, Il a chassé les démons, les morts sont ressuscités, les pécheurs venaient à la foi – ils étaient convertis. Je vous ai parlé de la femme pécheresse qui est venu aux pieds de Jésus. Elle était venu pleuré parce qu'elle avait expérimenté la délivrance.
+
+Mais un temps est venu où les ténèbres se sont abattus sur la vie de Jésus à cause de nos péchés. Faites la relation. D'où viennent les ténèbres dans l'Eglise ? Il a dit : c'est ici votre heure et la puissance des ténèbres parce que…Il venait de boire la coupe de nos péchés…les ténèbres l'ont envahi. Et les sacrificateurs, les judas, les trompeurs, les menteurs, les faux scribes, les faux pharisiens, se sont emparés de lui. Et Il leur a dit : C'est ici maintenant votre heure. C'est-à-dire que votre heure est arrivée. J'ai eu une heure où j'ai prêché. J'ai chassé les démons, j'ai guéri les malades. J'ai ressuscité les morts – j'ai fait tous cela. Mais à cause du péché des hommes, votre heure est arrivée où vous allez me prendre parce que les ténèbres sont venues sur moi.
+
+C'était l'heure des démons…Ils ont pris Jérusalem en otage. Ils sont venus – ils ont encerclé la ville. Tout était noir de démons. Et Il leur a dit : c'est votre heure…C'est ici votre heure et la puissance des ténèbres – l'heure des faux pasteurs – l'heure des menteurs – l'heure des méchants – ils ont crucifié la Parole de Dieu – ils ont envoyé le péché dans l'Eglise – les souillures… [Le frère M'BRA fond en larme à la chaire – l'Assemblée entière prie dans les pleurs. La prédication reprend quelque temps après]
+
+Nous lisons :
+
+> **Jésus dit ensuite aux principaux sacrificateurs, aux chefs des gardes du temple, et aux anciens, qui étaient venus contre lui: Vous êtes venus, comme après un brigand, avec des épées et des bâtons. J'étais tous les jours avec vous dans le temple, et vous n'avez pas mis la main sur moi. Mais c'est ici votre heure, et la puissance des ténèbres.** (Luc 22:52-53)
+
+> **Il était déjà environ la sixième heure, et il y eut des ténèbres sur toute la terre, jusqu'à la neuvième heure. Le soleil s'obscurcit, et le voile du temple se déchira par le milieu. Jésus s'écria d'une voix forte: Père, je remets mon esprit entre tes mains. Et, en disant ces paroles, il expira.** (Luc 23:44-46)
+
+> **Lorsque le sabbat fut passé, Marie de Magdala, Marie, mère de Jacques, et Salomé, achetèrent des aromates, afin d'aller embaumer Jésus. Le premier jour de la semaine, elles se rendirent au sépulcre, de grand matin, comme le soleil venait de se lever. Elles disaient entre elles: Qui nous roulera la pierre loin de l'entrée du sépulcre?** (Marc 16:1-3)
+
+Comme je l'ai dit, le Ministère de Jésus a eu trois points essentiels. Il a reçu l'Esprit et Il a commencé à chasser les démons, à guérir les malades, à ressusciter les morts. Il a fait du bien aux hommes. Et les hommes étaient bénis et enrichis par le Seigneur. Il communiquait le salut à ceux qui avaient péché et à ceux qui étaient morts. Ceux qui venaient à Lui avaient le salut. Mais à un certain moment, Sa vie a subi un choc. Et le choc, c'est que les hommes sont allés après Lui pour Le prendre. Les disciples, Judas qui gardait l'argent est allé le vendre et ils sont venus pour le prendre.
+
+Alors, Il leur dit : mais : vous venez après Moi comme après un brigand – autrement dit, je ne suis pas un brigand. J'étais avec vous. Mais si vous pouvez maintenant me prendre, c'est parce que c'est votre heure. C'est votre heure. Jésus est le Soleil de Justice. Il a brillé sur la terre en Israël. Il a brillé parmi les juifs. Il a guéri des malades et a chassé les démons. Et vous lisez par la suite que lorsque les ténèbres sont venues, le Soleil s'est obscurci ! Lui le soleil qui brillait, Il s'est obscurci parce que c'était l'heure des ténèbres – c'était l'heure des démons – c'était l'heure des scribes et des pharisiens – c'était l'heure des religieux – l'heure était venue pour eux de le prendre Lui la Parole de Dieu et de le crucifier.
+
+L'heure était venue pour eux de le fouler aux pieds – de Lui marcher dessus. L'heure était venue pour eux de l'injurier – de Lui cracher dessus – c'était leur heure – une heure de ténèbre. Et Il s'est laissé prendre parce qu'Il avait été vendu à cause de nos péchés. Si les ténèbres l'avaient envahi, c'était à cause de nos péchés. Alors les ténèbres qu'il y a sur l'Eglise aujourd'hui, c'est à cause de nos péchés. Parce que les ténèbres empêchent le rayonnement de la gloire de Dieu dans l'Eglise. Et les ténèbres viennent avec le Sommeil et l'Assoupissement – avec la lourdeur – les ténèbres viennent avec le règne des démons – les ténèbres viennent avec le règne des faux serviteurs de Dieu – des faux Christs – des scribes et des pharisiens religieux. Les ténèbres viennent avec l'esprit religieux.
+
+C'est ici votre heure, et la puissance des ténèbres. A cette heure-ci les guides religieux se sont associés à la puissance des ténèbres, c'est à dire aux démons et à Satan pour crucifier le Seigneur – pour le mettre à mort à la croix. A cette heure, Judas son disciple s'est associé aux démons, aux scribes et aux pharisiens pour crucifier le Seigneur – pour le vendre. C'était l'heure des faux disciples – l'heure des traîtres – l'heure des faux pasteurs – c'était leur heure – une heure de ténèbre dans l'Eglise – une heure de ténèbre sur le Fils de l'homme – une heure de ténèbre sur les frères et sœurs – les vrais. Parce que les disciples avaient été dispersés…les Pierre, les Jean, les Jacques, les Marie… chacun avait fui.
+
+Ce n'était plus leur temps – c'était l'heure des ténèbres. Les ténèbres devraient régner, les démons devraient régner. Et les religieux ont pris la place – les scribes et les pharisiens – les grands sacrificateurs – le Sanhédrin – ils ont commencé à interroger le Seigneur parce que c'était leur heure. Ils ont commencé à l'interroger – à le flageller – Lui le Christ – Lui qui mandate dans le Ministère – Lui par qui ils tiennent leur service en tant que sacrificateurs. Ils se sont associés à Satan et aux ténèbres pour l'humilier – pour lui cracher dessus – pour le juger –Lui le Juge. Mais Tout cela lui est arrivé à cause de nos péchés. On doit le savoir. Sans nos péchés, Il n'y aurait jamais eu de ténèbres dans la vie du Christ.
+
+C'est ici votre heure et la puissance des ténèbres, vous les faux croyants – vous les faux pasteurs, vous les faux anciens – vous les méchants – les prédicateurs de l'Evangile sans Puissance – c'est votre heure ici. C'est votre heure ici ! Faites comme bon vous semble, mais le temps vient où la Lumière va chasser les ténèbres.
+
+Le temps vient où le Christ crucifié va revenir à la vie. Le temps vient où l'Eglise qui s'est enfoncée dans les ténèbres va revenir à la vie – à la résurrection. Ça sera le temps du Soleil – ça sera le temps des anges et non des démons – le temps des vrais frères et non des méchants. Ça sera le temps des vrais Ministres de la Parole – des vrais hommes envoyés de Dieu. Ça sera le temps des vrais disciples et non des Judas, des traîtres. Ça ne sera plus leur temps. Et ce n'est plus leur temps parce que leur temps est en train de passer.
+
+Le temps des ténèbres est train de passer. Nous sommes en transition. Noter cela frères ! C'est ici votre heure vous les anges ! C'est ici votre heure vous les vrais croyants ! C'est ici votre heure, Toi Epouse de Jésus-Christ ! C'est ici votre heure vous les vrais enfants de Dieu ! Vous qui aspirez à la résurrection – à une vie nouvelle – vous qui aspirez au réveil. C'est maintenant votre heure ! Vous qui aspirez à la guérison divine, c'est votre heure ici ! Vous qui aspirez aux dons de l'Esprit, c'est votre heure ici. Vous qui aspirez au baptême de l'Esprit, c'est votre heure. Vous qui aspirez à la victoire en Jésus-Christ, c'est votre heure.
+
+C'est ici votre heure, l'heure de la Lumière – l'heure du Soleil, l'heure de la délivrance – l'heure de la victoire sur les démons, sur le péché. C'est maintenant votre heure. Sortez et allez à la rencontre de Jésus dans les prières et les supplications. Frères et sœurs, les temps ont évolué dans le Message. Nous devrons prendre en main ces choses…Nous devrons savoir que l'Eglise a évolué. Vous voyez ce qui se passe en ce moment, c'est comme l'éclipse. Le soleil a été temporairement couvert par les ténèbres…mais les ténèbres sont en train de se dissiper sur l'Eglise.
+
+Il y a eu un temps de ténèbres dans l'Eglise, mais c'est à cause de nos péchés. Regardez dans la Bible à la résurrection. Il est dit « Comme le Soleil se levait » Le Soleil qui avait été obscurci se levait. C'est le Seigneur…Le frère Branham a prêché le levé du soleil. Et c'était la résurrection… Que le nom du Seigneur soit béni. Celui a des oreilles, qu'il entende ! [L'Assemblée dit Amen !] Prières d'ensemble. Fin.

@@ -8,10 +8,11 @@ node_modules/
 .pilot/
 .pilot-list.json
 
-# Raw source assets (large, regenerable from scripts)
-pdfs/
-audio/
-onedrive/
+# Raw source assets (large, regenerable from scripts) — top-level only,
+# the cleaned markdown counterparts under markdown/onedrive/ etc are kept.
+/pdfs/
+/audio/
+/onedrive/
 mevar.ghost.*.json
 fra.traineddata
 
