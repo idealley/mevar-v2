@@ -1,0 +1,1106 @@
+    SERIE 4 N° 12
+
+
+
+    LA PAROLE PARLEE
+
+    PAR
+
+    WILLIAM MARRION BRANHAM
+
+
+
+
+        LA SEMENCE N’HERITERA
+          PAS AVEC LA BALLE
+(The Seed is not Heir With the Shuck)
+
+
+
+
+        18 février 1965, soir
+Parkview Junior High School Auditorium
+   Jeffersonville — Indiana, U.S.A.
+
+
+
+
+
+
+    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+
+    LA SEMENCE N’HERITERA PAS AVEC LA BALLE    2
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE
+ (The Seed is not Heir With the Shuck)
+
+
+
+         18 février 1965, soir
+ Parkview Junior High School Auditorium
+    Jeffersonville — Indiana, U.S.A.
+
+
+
+
+
+1 Restons debout pour un moment de prière. Inclinons nos têtes.
+2 Dieu bien-aimé, nous estimons que c’est un grand privilège que d’être ici ce soir en cette
+occasion afin d’apporter un Christ vivant à un monde et une génération mourants.
+3 Nous Te demandons, Seigneur de bien vouloir oindre nos paroles et nos efforts, afin qu’ils ne
+retournent pas à Toi sans effet mais qu’ils accomplissent le but pour lequel ils ont été prévus.
+4 Aide chaque homme, chaque femme, chaque garçon ou fille qui se trouve ici ce soir et qui est
+dans le besoin. Et Père, nous savons que nous sommes tous dans le besoin. Et lorsque nous
+partirons ce soir, puissions-nous ressentir dans nos coeurs ce que ressentaient ceux qui revenaient
+d’Emmaüs après avoir été témoins de la résurrection de Christ et qui disaient: “Nos coeurs ne
+brûlaient-ils pas en chemin tandis qu’Il nous parlait?”. Accorde-le Seigneur!
+5 Guéris les malades et les affligés. Puisse-t-il ne plus y avoir aucune personne faible parmi nous
+après le service de ce soir. Et surtout, puisse-t-il ne plus y avoir un seul incroyant, Seigneur.
+Puissent-ils tous croire à la vie éternelle. Car c’est dans ce but que nous sommes assemblés ici.
+6 Ce sont ces bénédictions que nous Te demandons de nous accorder pour l’honneur du
+Royaume de Dieu, au Nom de Jésus-Christ, le Fils de Dieu. Amen. (Vous pouvez vous asseoir.)
+7 Cela fait du bien d’être de retour ici ce soir. Je vois que quelques-uns sont debout là autour et je
+pense que des magnétophones sont maintenant enclenchés dans différentes villes du pays, à San
+Francisco, à Tucson, là-bas à l’Est. Par le moyen du téléphone, nous envoyons des salutations à ces
+auditeurs. Ce soir nous sommes dans l’auditorium. L’auditoire principal est plein ainsi que les ailes du
+bâtiment; beaucoup de gens se tiennent debout contre les murs. Et demain soir, nous pensons
+essayer d’ouvrir le gymnase de ce côté afin d’obtenir une plus grande salle qui pourrait peut-être
+contenir deux mille personnes de plus. Nous espérons pouvoir faire cela demain soir. Puisque ce
+premier soir la salle est pleine, eh bien, nous croyons que demain, il y en aura encore davantage. Je
+vois que même ce soir ils mettent des chaises en plus et tout cela.
+8 Nous nous attendons à de grandes choses; tout d’abord à la venue du Seigneur Jésus, puis au
+salut des âmes perdues qui vont Le recevoir ce soir et qui seront prêtes pour Sa venue lorsqu’Il
+apparaîtra.
+9 J’aimerais particulièrement saluer et accueillir tous ces hommes distingués qui se trouvent sur
+l’estrade et dont j’ai compris que la plupart étaient des pasteurs. Il y en a deux cents ou même
+davantage qui sont installés là, et nous sommes certainement reconnaissants qu’ils soient ici.
+10 Je m’adresse à vous, de quelque endroit du pays que vous veniez. Et je crois que certains
+venaient d’outre-mer. Nous vous sommes donc reconnaissants d’être ici afin de profiter de cette
+communion avec nous, car nous nous attendons à ce que Dieu nous donne de grandes choses
+pendant cette rencontre.
+11 J’ai l’impression que depuis que j’ai eu cette pensée de rentrer pour ces quelques jours de
+réunion, mon coeur est étrangement agité par un puissant sentiment que quelque chose va se
+passer. Je ne sais pas de quoi il s’agit, mais j’espère qu’il s’agit d’une grande révélation venant de
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 3
+Dieu et qui nous préparera à être de meilleurs citoyens de Son Royaume tandis que nous marchons
+dans ce sombre monde de péché et d’incrédulité.
+12 Ce soir, ce terrain, cet endroit même représente une grande chose pour moi. Depuis que j’ai su
+qu’ils avaient construit cet auditoire scolaire ici, j’ai voulu tenir des services dans cet endroit. Je suis
+très reconnaissant à la direction de l’école ainsi qu’aux personnes qui nous ont gracieusement permis
+de venir ici. C’est en cet endroit, exactement là où s’élève cet édifice ce soir, qu’une grande chose est
+arrivée il y une trentaine d’années. En ce temps-là, ce n’était qu’un champ de genêts. Et j’habitais
+dans une petite maison juste au-delà d’ici, à environ deux cents mètres. A l’époque, je me
+préoccupais beaucoup du salut de mon père et de ma mère qui tous deux sont partis maintenant. En
+ce jour-là, j’étais particulièrement préoccupé par mon père.
+13 Je me souviens que je dormais dans la véranda. C’était l’été et il faisait chaud. Je crois que ceci
+est inscrit dans le petit livre intitulé “Jésus-Christ est le même hier, aujourd’hui et éternellement”, à
+moins que ce ne soit dans le petit livre qui s’appelle “Je ne fus pas désobéissant à la vision céleste”.
+14 Et je dormais dans la véranda, lorsque soudain je me réveillai et un fardeau vint sur mon coeur
+pour mon père. Beaucoup d’entre vous de cette ville ici connaissiez mon père; je pense que c’était un
+grand homme bien qu’il était pécheur. Il avait une mauvaise habitude contre laquelle j’ai essayé de
+lutter de toutes mes forces pendant cette période: c’était la boisson. Or cette nuit-là, il buvait. Et je me
+réveillai avec ce grand fardeau sur mon coeur à son sujet. Je me trouvais en pyjama, j’enfilai
+simplement mon pantalon, laissant ma veste de pyjama, je traversai ce champ de genêts pour venir à
+l’endroit où maintenant se trouve cet édifice. Et je m’agenouillai pour prier pour mon père.
+15 Et tandis que je priais et demandais à Dieu de le sauver et de ne pas le laisser mourir pécheur,
+et parce que je l’aimais… Tandis que j’étais en prière, je me levai pour regarder vers l’est et j’eus une
+vision. Le Seigneur Jésus se tenait juste au-dessus de moi (beaucoup parmi vous connaissent la
+vision).
+16 Or je ne suis pas sujet à des illusions, que je sache, les visions sont réelles. Et le Seigneur Jésus
+se tenait là; c’était la première fois que je Le voyais dans une vision de ce type. Il se tenait juste à
+environ dix pieds au-dessus de ma tête, Il était là entre ciel et terre et Il était en train de faire un pas.
+Il portait un vêtement blanc avec des franges sur le côté. Ses cheveux Lui arrivaient aux épaules et Il
+avait l’air de l’homme que décrit la Bible, un homme d’environ trente ans, de corpulence petite et
+mince, Il était très petit. On avait l’impression qu’Il ne pesait pas plus de 65 kilos.
+17 Et comme je regardais, je me disais qu’il devait y avoir quelque chose de faux. Je me frottai donc
+les yeux et regardai de nouveau. Et Il se tenait de côté, on pouvait voir Son profil. Et l’aspect de Son
+visage, qui est celui que j’ai toujours vu dans les visions, est pareil à la tête du Christ à trente ans de
+Hoffman. C’est la raison pour laquelle j’ai cela à la maison, dans mes livres, partout où je peux le
+mettre car c’est le tableau qui Le représente le mieux. Seulement, Il semblait petit.
+18 Et je levai les yeux vers Lui et pensai: «Non, je ne suis certainement pas en train de regarder
+mon Seigneur se tenir là». Et je me trouvais par là, dans cette position, peut-être même exactement à
+l’endroit où se trouve maintenant cette estrade. C’était quelque part dans ces environs, dans un rayon
+d’à peu près 40 ou 50 mètres, d’après ce que je pourrais mesurer de l’endroit où je me trouve.
+19 Et je levai les yeux et Il se tenait là. Je me mordis le doigt pour voir si j’étais réveillé. Vous savez
+comment cela fait, vous avez l’impression qu’il ne peut pas en être ainsi. J’étais encore jeune dans le
+Seigneur, cela faisait environ six mois que je prêchais. Je me mordis le doigt. Je pris un genêt et le
+brisai. Et beaucoup d’entre vous qui vivez à la campagne connaissez cette espèce de cure-dent qui
+se trouve dans le genêt. Je me mis à mâcher cela. Et je dis: «Ce n’est pas possible. Je suis en train
+de rêver. Voici ma maison. Mon père, ma mère et les enfants sont là. Il y a là, près de la vieille
+maison en brique, à environ deux cents mètres d’ici, la mare où j’allais chasser les canards. Et voici
+que je me tenais dans ce champ; c’était donc bien cela».
+20 Je tapai de nouveau du pied par terre, secouai la tête, fis craquer mes doigts et regardai de
+nouveau; et Il se tenait là. Le vent se mit à souffler et je vis que les genêts ondulaient. Lorsque le vent
+se mit à souffler Ses vêtements commencèrent à flotter. Ils commencèrent à claquer comme du linge
+étendu sur une corde.
+21 Il se tenait là. Je regardai cela. Et je pensai: «Si seulement je pouvais jeter un coup d’oeil sur
+Son visage». Il regardait vers l’est, juste comme ceci. Il regardait très attentivement. Je me déplaçai
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 4
+afin de Le contourner pour avoir une vision plus proche de Son visage, mais je ne pouvais toujours
+pas très bien Le voir. Il tenait Ses mains devant Lui et, depuis l’endroit où je me tenais, Il m’était
+plutôt caché.
+22 Je me déplaçai de nouveau et je m’éclaircis la gorge comme ceci; je voulais voir si je pouvais
+attirer Son attention. Mais Il ne bougea pas.
+23 Je pensai alors: «Peut-être devrais-je l’appeler». Lorsque j’eus dit: «Jésus», Il tourna la tête. Et
+lorsqu’Il m’eut regardé, Il étendit simplement les bras. C’est tout ce dont je me souviens. Je suis resté
+presque jusqu’au lever du jour, allongé là quelque part, vers ce qui est maintenant un champ; ma
+veste de pyjama était toute mouillée des larmes que j’avais versées et j’avais perdu connaissance.
+Son visage avait des traits caractéristiques qu’aucun artiste ne pourrait dessiner ni peindre. Personne
+ne pourrait faire cela. Il ressemblait à un homme qui, si vous le regardez, vous ferait pleurer de
+compassion, d’estime et de respect, mais qui aurait assez de puissance pour que Sa parole puisse
+faire se renverser le monde. Ses traits caractéristiques ne pourraient jamais être saisis par un artiste.
+24 Jusqu’à ce jour, je ne savais pas ce que cela signifiait. Mais ce soir, trente ans plus tard, je me
+tiens ici dans une salle dédiée au service du Dieu Tout-Puissant. A l’époque je n’étais qu’un frère laïc,
+un ancien de l’église baptiste dont Roy Davis était alors pasteur. Et maintenant je me tiens ici, dans
+cet endroit bondé et sur ce même terrain, avec sur mes mains, je pense, l’acquisition par le Sang de
+Jésus-Christ Lui-même du Salut, apporté pendant ces quatre jours de message du Seigneur.
+25 Environ six mois plus tard, j’eus mon premier service de baptême là en bas à la rivière, lorsque
+la Lumière descendit juste là à Spring Street. Il se peut que beaucoup parmi vous veuillent descendre
+jeter un coup d’oeil à Spring Street and Water, juste devant la rivière. C’est là que l’Ange du Seigneur
+apparut pour la première fois au public; c’était à deux heures de l’après-midi. Et une Voix vint d’en
+haut et dit: «De même que Jean-Baptiste fut envoyé comme précurseur de la première venue
+de Christ, ton message sera le précurseur de Sa seconde venue».
+26 Nous sommes maintenant trente ans plus tard et je suis toujours ici ce soir, en train de proclamer
+ce message. Et autour de nous le monde est fini, et ce soir je suis content d’être de retour chez moi,
+dans ma ville, afin de prêcher ce Seigneur Jésus-Christ que j’aime toujours de tout mon coeur.
+Chaque jour Il m’est plus doux qu’Il ne l’était le jour d’avant. Je n’ai jamais changé un iota de ma
+doctrine. Je continue de croire à la même chose en laquelle j’ai cru quand j’ai commencé. Il est le
+même hier, aujourd’hui et pour toujours.
+27 J’ai maintenant un message dont je suis responsable. Lorsque le message a commencé, tout le
+monde priait pour les malades, il y avait de grands signes, des merveilles et des miracles qui avaient
+commencé particulièrement dans le peuple pentecôtiste; un réveil universel de campagnes de
+guérisons balaya le monde. Pendant quinze bonnes années il y a sans doute eu des réveils sur
+chaque colline. Des feux de réveils brûlaient. Des millions de gens littéralement ont accepté Christ
+comme leur Sauveur au moyen de cette seule commission. C’est de là que furent inspirés Oral
+Roberts et les autres; puis cela continua ainsi après qu’en ce temps-là l’église pentecôtiste se fut
+effondrée dans la mort.
+28 Ce soir, mes intentions et mes désirs sont de réveiller cette église et de la rendre attentive à la
+proche venue du Seigneur Jésus. Je dois blâmer cette église. Je dois blâmer le péché quel qu’il soit.
+Je n’ai rien contre quelque dénomination que ce soit. Mais j’ai un message.
+29 Maintenant, comme il en fut avec le Seigneur Jésus, il est difficile d’être parrainé par une église;
+car il s’agit de Lui et non de moi. Mais lorsqu’Il prêcha au début, qu’Il guérit les malades, ressuscita
+les morts, purifia les lépreux, chassa les démons, tout le monde Le voulait. Mais il vient un temps
+où toujours un message suivra chaque signe, car un signe a une voix. Donc lorsqu’un jour Il
+s’assit et dit: “Moi et mon Père sommes Un!”, c’était plus qu’ils n’en pouvaient porter.
+30 Il en fut de même lorsqu’Il dit: “A moins que vous ne mangiez la chair du Fils de l’homme et que
+vous n’en buviez Son Sang, vous n’avez pas la vie en vous”.
+31 Eh bien, les docteurs et tous les gens bien-pensants auraient dit: “Cet homme est un vampire, il
+essaye de vous faire manger sa chair et boire son sang”. Il n’a jamais expliqué cela, Il s’est contenté
+de le dire.
+32 Et ce soir, il se peut que pendant la réunion vous entendiez des choses que nous ne sommes
+pas en mesure d’expliquer, mais souvenez-vous que Jésus-Christ est le même hier, aujourd’hui
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 5
+et pour toujours. Nous le croyons!
+33 Maintenant, nous n’avons pas le temps de beaucoup parler, car ici nous avons une certaine
+heure pour commencer et une certaine heure pour partir. Et nous voulons respecter le personnel de
+l’école qui a établi ces horaires à notre intention. Nous voulons faire tout notre possible pour les
+respecter.
+34 Souvenez-vous que chaque fois qu’un pécheur veut venir à Christ, tout ce qu’il a à faire est de
+s’avancer, que je sois en train de prêcher, de chanter ou quoi que ce soit: donnez votre vie à Christ.
+C’est pour cela que nous sommes ici, pour vous aider.
+35 J’aimerais parler à frère Vayle, frère Borders et les frères ici. Je me demande s’ils pourraient
+venir à l’église dans l’après-midi ou un matin, ce serait pour donner des directives au sujet de ceux
+qui cherchent le baptême du Saint-Esprit. Cela vous conviendrait-il, frère Neville, et pourriez-vous
+tous être là, frère Capps?
+36 S’il en est qui veulent être instruits au sujet du baptême du Saint-Esprit, pourquoi ne pas venir au
+Tabernacle (frère Branham se renseigne au sujet de l’heure) un matin vers les dix heures.
+37 Si vous avez une question sur la doctrine, si vous avez une question sur le Message, si vous
+n’avez jamais été enseigné personnellement, si vous voulez qu’on prie pour vous ou s’il y a quoi que
+ce soit que vous vouliez savoir, pourquoi ne feriez-vous pas un saut là-bas à dix heures du matin
+pour voir ces hommes? Un ou plusieurs d’entre eux seront là pour enseigner, prier pour les malades,
+répondre aux questions personnelles. Allez simplement vers eux et ils seront heureux de vous aider
+de quelque manière qui leur soit possible.
+38 Maintenant, avant de nous approcher de la Parole, nous voulons nous approcher de nouveau de
+l’Auteur de la Parole. Il se peut que vous mangiez trop, il se peut que vous buviez trop, que vous riiez
+trop, que vous marchiez trop; mais vous ne prierez jamais trop. “Je veux donc que les hommes prient
+en tout lieu, élevant des mains saintes, sans colère et sans raisonnement” (1 Timothée 2.8). Prions.
+39 Jésus bien-aimé, Toi, l’Auteur de la vie, Toi qui es la Parole de Vie, nous nous approchons
+maintenant solennellement de Toi, après avoir expliqué cette vision que, ô Dieu, Tu m’as authentifiée.
+Seigneur Jésus, je Te prie ce soir d’oindre ces Paroles pour l’entendement de toute oreille qui entend
+le Son divin. Et s’il en est qui écoutent ici ou dans le pays et qui ne sont pas encore prêts, qui ne se
+sont pas préparés à rencontrer le défi de cette heure, le Message venant de Dieu, qui ne se sont pas
+repentis et qui ne sont pas prêts, car le Royaume de Dieu est proche, nous Te prions afin qu’ils le
+fassent ce soir, qu’ils puissent faire face au défi de cette heure.
+40 O Dieu, nous Te prions de nous aider car nous connaissons la responsabilité que nous portons
+et ce qu’elle signifie, et au jour du jugement, je devrai répondre de tout ce que j’ai dit ici et ailleurs.
+Aide-moi à être véritablement sincère, Seigneur, dans tout ce que je fais ou dis de Ta Parole, afin que
+cela puisse porter du fruit. Car la commission que Tu m’as donnée était: “Que ce Livre de la Loi ne
+s’éloigne pas de ta bouche, et médite-Le jour et nuit, afin que tu prennes garde à faire selon tout ce
+qui est écrit; car alors tu feras réussir tes voies, et alors tu prospéreras. Ne t’ai-je pas commandé:
+fortifies-toi et sois ferme? Ne te laisse point terrifier et ne sois point effrayé car l’Eternel, ton Dieu est
+avec toi partout où tu iras” (Josué 1.8). Seigneur Jésus, fais que ce soir, il en soit ainsi. Nous t’en
+prions dans le Nom de Jésus. Amen.
+41 Vendredi et samedi, de 10 à 12h, il y aura au Tabernacle, au 8, Penn Street, des
+enseignements, des réponses à des questions de doctrine et d’autres choses. Venez simplement si
+vous avez des questions ou quoi que ce soit dont vous ayez besoin. Il y aura quelqu’un pour diriger
+cela. Que le Seigneur vous bénisse!
+42 Maintenant, pour le service d’ouverture de ce soir, je ne peux rien faire d’autre que d’aller
+directement à notre message. C’est pour cela que nous sommes ici. Et c’est pour cela que je suis
+revenu. Et dimanche matin, si le Seigneur le permet, j’aimerais faire face au grand défi de ce jour qui
+est: Mariage et Divorce.
+43 Maintenant, j’aimerais lire ces quelques mots dans Galates 4.27 à 31. Car il est écrit: “Réjouis-
+toi, stérile qui n’enfantes point; éclates de joie et pousse des cris, toi qui n’es point en travail d’enfant;
+car les enfants de la délaissée sont plus nombreux que les enfants de celle qui a un mari. Or vous,
+frères, comme Isaac, vous êtes enfants de promesse. Mais, comme alors celui qui était né selon la
+chair persécutait celui qui était né selon l’Esprit, il en est de même aussi maintenant. Mais que dit
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 6
+l’Ecriture? Chasse la servante et son fils, car le fils, de la servante n’héritera point avec le fils de la
+femme libre. Ainsi, frères nous ne sommes pas enfants de la servante, mais de la femme libre”.
+44 Que le Seigneur ajoute Ses bénédictions à la lecture de Sa Parole. Maintenant je crois que le
+texte que j’ai pris là est très étrange et inhabituel. Mais parfois nous trouvons Dieu à des heures
+étranges et inhabituelles, de manière inhabituelle et dans des choses inhabituelles. Car Dieu est
+inhabituel et ceux qui Le servent réellement de tout leur coeur, Le servent d’une manière
+inhabituelle par rapport aux choses ou aux manières de ce monde. Ce texte s’intitule: La
+semence n’hérite pas avec la balle.
+45 Paul parle ici littéralement de la semence des deux fils d’Abraham. C’est avec joie que Paul se
+place lui-même dans la position de celui qui est né de la femme libre.
+46 Or nous savons qu’Abraham a eu deux fils de deux femmes différentes. Dieu lui avait donné la
+promesse qu’au travers de Sara un Fils lui naîtrait et que le monde serait béni au travers de ce Fils.
+Toutes les nations seraient bénies par ce Fils. Et l’on croit communément, surtout parmi les Juifs,
+qu’il s’agissait d’Isaac, mais ce n’était pas cela. Ce Fils promis d’Abraham est Jésus et Il est de la
+semence royale promise à Abraham.
+47 Mais Abraham eut deux fils, dont un qu’il eut d’Agar qui était la servante de sa femme; c’était une
+mignonne et gentille servante égyptienne qu’Abraham lui avait ramené d’Egypte. Et Sara, pensant
+que Dieu ne serait pas capable d’accomplir toute Sa promesse dit à Abraham de prendre Agar sa
+servante, de l’épouser (car la polygamie était légale en ces jours) et de lui amener l’enfant car c’était
+sûrement là ce que Dieu avait prévu, elle ne devait avoir l’enfant qu’au travers d’Agar. Mais nous
+découvrons qu’il n’en était pas ainsi.
+48 Maintenant, nous comprenons aussi que Dieu est parfait en trois. Dieu est parfait en trois. Le
+chiffre de la grâce est cinq. Le chiffre sept est celui de l’achèvement, comme le monde achevé en
+sept jours nous le montre. Dieu est parfait dans le Père, le Fils et le Saint-Esprit. C’est la
+perfection de la divinité. Un seul Dieu lors des trois manifestations de Ses trois attributs, ou encore
+trois fonctions d’une seule Divinité.
+49 Maintenant, dans l’Eglise il y a aussi trois étapes vers la perfection dans la grâce: la justification,
+la sanctification et le baptême du Saint-Esprit. Il s’agit de la nouvelle naissance. Cela est exactement
+typifié par la naissance naturelle. Lorsqu’une femme donne naissance à un enfant, la première chose
+qui sort est l’eau, puis le sang et finalement la vie. Je crois que dans 1 Jean 5.7, la Bible dit: “Car Il y
+en a trois qui rendent témoignage dans le ciel: le Père, la Parole (qui est le Fils) et le Saint-Esprit; et
+les trois sont Un. Et il en a trois qui rendent témoignage sur la terre: l’eau, le sang et l’esprit; et les
+trois sont d’accord pour un même témoignage”.
+50 Maintenant, le Père, le Fils et le Saint-Esprit sont Un. Vous ne pouvez avoir le Père sans avoir
+le Fils; vous ne pouvez avoir le Fils sans avoir le Saint-Esprit. Mais vous pouvez être justifié sans
+être sanctifié. Vous pouvez être sanctifié sans être rempli du Saint-Esprit. Nous montrerons cela en
+nous inspirant de la nature.
+51 Il se peut que je vous paraisse étrange. Je n’ai pas d’instruction, je suis sûr que vous l’avez
+compris. Mais j’enseigne par des types, car le naturel typifie le spirituel.
+52 Nous voyons que la perfection marche par trois. Dieu est parfait en trois. La perfection de la
+semence d’Abraham était Ismaël, Isaac et Jésus. Ismaël venait de la femme esclave, Isaac venait de
+la femme libre et tous deux sont venus par le sexe; mais Christ vint par la vierge et non par le
+sexe.
+53 Il y a là une semence, une seule Semence et non des semences. Les autres n’étaient pas des
+semences d’Abraham car la Semence d’Abraham était la semence de la Foi dont Dieu avait
+parlé; ce n’était pas sa semence naturelle. Car après la mort de Sara, Abraham épousa une autre
+femme et eut sept fils sans compter les filles. Ce n’était donc pas les semences d’Abraham mais LA
+Semence d’Abraham, la seule. C’était la semence de la foi d’Abraham indiquant la Semence royale,
+cette Semence qui devait venir par la foi d’Abraham; il ne s’agissait pas de la vie naturelle
+d’Abraham, mais de sa vie spirituelle. Abraham considérait toute chose contraire à la Parole de
+Dieu comme nulle, il appelait les choses qui n’étaient point comme si elles étaient, croyant Dieu
+contre toute espérance. C’est de la semence réelle que nous parlons.
+54 Nous sommes cependant ici en présence d’une image. La semence de la promesse démarra au
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 7
+milieu du léger doute à l’égard de la promesse originale. Voyez comment le doute s’installa lentement
+dans la promesse originale. Dieu avait promis à Abraham que par Sara il aurait un enfant. Mais
+remarquez que la première semence d’Abraham vint par la femme esclave parce que Sara avait
+douté que cette chose puisse arriver car elle était âgée et avait passé l’âge d’enfanter.
+55 C’est ainsi que commença l’église. C’est ainsi que cela commence toujours. Vous commencez
+depuis le bas. Vous ne commencez pas depuis le haut. Si un homme grimpe à une échelle et qu’il
+veuille aller tout de suite en haut, il se cassera le cou. Vous devez commencer par le bas et grimper
+pour arriver jusqu’en haut. Et c’est ici que nous trouvons le début de la promesse de Dieu rendue
+manifeste au travers d’un léger doute qui interrompit le programme de Dieu.
+56 C’est de la même manière que commença le péché dans le jardin d’Eden. C’est ainsi que la
+mort entra par le péché, lorsqu’une seule parole de Dieu fut déformée ou mise en doute. Vous
+ne pouvez douter d’une seule parole de Dieu ni la placer à faux car c’est AINSI DIT LE SEIGNEUR.
+C’est ainsi avec la Parole.
+57 Et Sara, qui était une femme (ce qui représente l’église) mit en doute le programme original
+de la Parole promise de Dieu et dit: “Abraham, toi mon mari, prends cette belle servante, vis avec
+elle et sois son mari. Et au travers d’elle, Dieu donnera la semence de la promesse; puis je prendrai
+l’enfant”. Vous voyez, simplement le fait de supprimer un petit iota changea tout le programme. C’est
+pour cela que nous devons prendre toute parole de Dieu comme étant le AINSI DIT LE
+SEIGNEUR. Toute Parole de Dieu est vraie.
+58 La semence commença donc avec une promesse dont on avait légèrement douté. Isaac, qui
+était la semence de la femme promise et libre, manifesta la semence naturelle qui avait été promise;
+c’est ce que Paul essaye ici d’expliquer dans Galates. Et il continue en disant ici que les enfants de la
+femme esclave ne peuvent pas hériter avec les enfants de la femme libre car ils viennent de deux
+catégories différentes. C’est vrai. L’incroyant ne peut pas hériter avec le croyant. C’est impossible.
+59 C’est ce qui ne va pas aujourd’hui. Vous ne pouvez amener un poulet dénominationnel à croire
+comme un aigle. Vous ne pouvez tout simplement pas le faire. C’est là que commencent les ennuis.
+Vous devez croire chaque parole de Dieu. Vous n’êtes tout simplement pas cohéritiers; vous ne
+pouvez pas non plus vous joindre à cela. Vous ne pouvez pas faire cela. Vous devez être un aigle ou
+un poulet.
+60 Isaac ne pouvait pas hériter avec Ismaël qui était la semence de la femme esclave et qui était né
+à cause du doute. Sara mit en doute la Parole de Dieu; elle douta que Dieu puisse tenir cette
+Parole. Remarquez qu’Abraham (voyez ce que je prépare pour dimanche prochain) ne douta pas.
+Sara douta. C’est elle qui douta. Ce n’est pas Adam qui douta; ce fut Eve qui douta. Nous en
+verrons encore davantage à ce sujet dimanche matin.
+61 Le naturel ne peut pas davantage hériter avec le spirituel. Pas plus que les enfants d’Ismaël ne
+pouvaient hériter avec les enfants d’Isaac, le charnel ne peut hériter avec le spirituel.
+62 L’église naturelle, l’Eglise spirituelle. Il y a une église naturelle typifiée par ces femmes ici et il y a
+aussi une Eglise spirituelle. L’église naturelle et l’Eglise spirituelle ne peuvent donc pas hériter
+ensemble. Ce sont deux peuples différents vivant à deux époques différentes et sous deux
+alliances différentes.
+63 C’est pour cela que l’Enlèvement sera différent et ne sera que pour la Semence Royale
+d’Abraham. Cet enlèvement ne peut se faire par le naturel, par la semence charnelle de l’église. Ce
+devra être la Semence Royale de la Parole de Dieu venant au travers d’Abraham, la Semence
+Royale. C’est pour cela que l’enlèvement aura lieu en premier, car souvenez-vous que “nous, les
+vivants, qui demeurons jusqu’à la venue du Seigneur, nous ne devancerons aucunement ceux qui se
+sont endormis. Car la trompette de Dieu retentira, les morts en Christ ressusciteront premièrement et
+nous qui sommes en vie et demeurons, serons enlevés ensemble avec eux pour aller à la rencontre
+du Seigneur dans les airs”. Remarquez qu’il est aussi écrit: “Le reste des morts ne revint pas à la vie
+jusqu’à ce que les mille ans fussent accomplis”.
+64 Ils ne seront donc pas héritiers ensemble; ils n’iront pas ensemble dans l’enlèvement. Il n’y a
+absolument qu’une église naturelle et une Eglise spirituelle; une église charnelle et une Eglise
+spirituelle.
+65 Il n’y a pas de jugement pour la Semence Royale spirituelle, la semence prédestinée d’Abraham,
+
+        http://www.cmpp.ch
+
+    LA SEMENCE N’HERITERA PAS AVEC LA BALLE    8
+car elle est prédestinée à la Vie éternelle. Ils ont accepté le sacrifice pour lequel Dieu a pourvu, ce
+Sacrifice qui est Christ, la Parole. “Il n’y a donc maintenant aucune condamnation (c’est dans
+Romains 8.1 si vous voulez voir l’Ecriture) pour ceux qui sont dans le Christ Jésus” car ils ont marché
+non selon la chair, mais selon l’Esprit. Et dans Jean 5.24, il est dit: “Celui qui entend ma Parole (le
+véritable terme est “comprend”. N’importe quel ivrogne peut entendre cela et continuer son chemin).
+Mais celui qui écoute ma Parole, qui comprend ma Parole et croit que celui qui m’a envoyé a la Vie
+éternelle, ne viendra pas en jugement mais il est passé de la mort à la vie”. Certainement! Celui à
+qui ce grand mystère de Dieu a été révélé comprend comment ce Dieu qui était en Christ s’est
+réconcilié Lui-même avec le monde, comment Lui et le Père sont Un. Il comprend
+l’accomplissement des grands mystères de ce Dieu qui se prend et se livre Lui-même, se manifestant
+dans l’âge des êtres humains et dans le cours de leur vie. Il rend manifeste Sa Parole en compagnie
+des êtres humains au jour où le soleil se lève à l’Est comme Il le fait lorsqu’il se couche à l’Ouest, afin
+de se manifester Lui-même ainsi que Sa Parole au travers d’une Eglise-Epouse. “Celui qui comprend
+(c’est-à-dire qui connaît) ce qui lui est révélé de Celui qui m’a envoyé, a la vie Eternelle et ne viendra
+pas en jugement mais il est passé de la mort à la Vie”.
+66 La semence naturelle n’était qu’un porteur de la Semence spirituelle, comme la tige, le
+gland et la balle. Nous avons vu cela auparavant dans un autre message. Mais j’aimerais revoir cela,
+revenir là-dessus juste une minute.
+67 Il y a donc trois étapes pour la semence, ce qui est pour nous une véritable image de la
+semence naturelle sur la terre. Lorsqu’une semence est plantée, elle produit une tige sur laquelle
+bourgeonnent des feuilles, puis vient l’épi où le pollen est suspendu; ensuite vient la balle, puis de
+nouveau la semence.
+68 Observez les étapes de cette parfaite parabole et voyez comme en type cela marche
+exactement, car Dieu est l’Auteur de toute la nature. La nature ne peut donc faillir, pas plus que Dieu
+ne peut faillir, car Il était Celui qui a placé chaque chose dans sa condition, afin que nous puissions
+regarder et observer.
+69 Observez, Agar était la tige; c’était le début de la semence qui se levait. Mais cela ne ressemblait
+absolument pas à la semence. C’était la tige car elle était une esclave; elle ne faisait pas du tout
+partie de la promesse, elle n’avait rien à voir avec la Parole. Elle ne faisait que transporter la
+semence.
+70 Sara était l’épi et elle avait le pollen. Cette nation juive qui sortit d’elle amena Isaac, à travers
+Isaac elle amena Jacob, à travers Jacob elle amena les patriarches et à travers les patriarches elle
+amena une nation.
+71 Par la foi, la vierge Marie produisit la véritable Semence spirituelle, la Parole faite chair.
+Vous voyez? Il y eut trois femmes qui portèrent cette semence. L’une d’elles était en fait adultère, par
+la polygamie. La deuxième était une femme libre et la troisième n’eut rien à faire avec le sexe mais
+par la foi elle crut la Parole de Dieu. Sara et Agar eurent à faire avec le sexe, mais Marie était
+vierge et reçut la Semence par la puissance de la Parole promise de Dieu. C’est juste!
+72 Agar était la tige. Deux femmes doutèrent de la promesse, mais observez ce que cela amena.
+Agar, la deuxième femme d’Abraham, n’était tout simplement qu’une concubine. Elle mit au monde
+un homme. Mais quelle sorte d’homme était-ce? La Bible dit que c’était un homme sauvage. Il vivait
+de son arc et aucun homme ne pouvait l’assujettir. On ne pouvait l’apprivoiser, le convertir, ni le
+régénérer. Il ne pouvait être apprivoisé. C’était un homme sauvage car il était contraire à la Parole de
+Dieu. Et toute chose contraire, tout prédicateur, tout frère laïc, toute église contraire à la Parole de
+Dieu produira un tas d’adultères sauvages, dignes d’une Hollywood mondaine et ne pourra rester
+avec la pure Parole car elle ne fait même pas partie de la promesse. Non!
+73 Comme Sara était l’épi, la vraie femme de la promesse, elle mit au monde un homme vaillant.
+Après son retour d’âge, elle produisit une nation qui servit Dieu. Mais Marie n’eut pas du tout affaire
+au sexe; alors qu’elle était vierge, qu’elle n’avait point connu d’homme, elle crut la Parole promise.
+Et l’Ange du Seigneur vint à sa rencontre et lui dit: “Je te salue, Marie, bénie sois-tu parmi les
+femmes car Dieu est avec toi”.
+74 Et elle dit: “Comment ces choses arriveront-elles?”.
+75 L’Ange dit: “Le Saint-Esprit te couvrira de Son ombre”.
+
+    http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 9
+76 Dans aucun âge on n’avait vu une chose pareille, mais Marie crut Dieu. Et elle dit: “Voici, je suis
+la servante du Seigneur”. Elle crut la Parole. Comment allait-elle avoir ce bébé? Elle savait qu’Agar
+avait eu le bébé après un rapport sexuel avec Abraham et que Sara avait eu le bébé, l’enfant de la
+promesse après un rapport sexuel avec Abraham; l’esclave et la femme libre avaient eu des rapports
+sexuels, mais ici on lui demandait de croire de cette même foi qui était en Abraham et le portait
+à croire des choses impossibles. “Du moment que Dieu a dit qu’il en serait ainsi, c’est que c’est
+juste!”.
+77 Elle crut Dieu sans jamais poser de questions. Elle dit: “Voici la servante du Seigneur. Peu
+importe les critiques que je devrai supporter du monde, qu’il me soit fait selon Ta Parole”. C’est alors
+que fut engendrée la véritable Semence.
+78 Agar ne pouvait pas le faire, parce que c’était le sexe. C’est vrai. Sara ne pouvait pas le faire non
+plus, c’était le sexe; l’église sectaire ne peut pas le faire non plus. Il faut que ce soit une foi vierge
+en la Parole de Dieu pour faire produire un enfant à la promesse. Le sectarisme ne produira
+jamais une église née de nouveau. Il ne peut pas faire cela. Il produira quelque chose qui sera un
+quelconque substitut. Il produira quelque chose qui imitera cela, qui essayera d’y ressembler. Mais
+une véritable Eglise de Dieu née de nouveau croit la Parole de Dieu face à toute chose, quelle
+qu’elle soit, car Elle n’est pas adultérée. C’est par la promesse de Dieu que ces choses arrivent.
+79 Marie, la véritable porteuse, celle qui ne l’est pas par le sexe, dit: “Qu’il me soit fait selon Ta
+Parole. Voici Ta servante”. Et que produisit-elle? Non un homme sauvage, non une nation, mais
+elle produisit la Parole, Dieu Lui-même rendu manifeste dans la chair (amen!), la véritable
+Semence de Dieu qui manifesta chaque promesse que Dieu avait faite dans la Bible. Aucun homme
+ne peut vivre sans Lui. Il était la véritable semence. Marie était l’enveloppe qui produisit le grain.
+80 Les deux autres étaient des porteuses qui n’amenaient à la vie que des semences naturelles.
+Maintenant, ne faites pas de Marie une déesse comme certains essayent de le faire. Elle n’était pas
+une déesse. Certainement pas! Elle n’était qu’une porteuse de la Semence comme les autres étaient
+aussi porteuses de semence.
+81 Mais la foi en la Parole produit quelque chose de plus proche de l’image réelle, comme
+lorsque le grain de maïs ou de blé mûrit. Cela produit d’abord une tige, puis vient le pollen et ensuite
+vient l’enveloppe. Si vous n’observez pas attentivement cette enveloppe, vous aurez l’impression
+qu’elle ressemble exactement au grain véritable. Mais en l’ouvrant vous trouverez le véritable grain à
+l’intérieur. De nouveau, il ne s’agit que d’une porteuse.
+82 Ainsi vous voyez comme Marie, non par le sexe mais par la foi, produisit quelque chose
+d’exactement pareil… Marie n’était pas cette Semence. Marie était une porteuse de la Semence.
+Lui était la Semence véritable de la Foi parce que la Parole de Dieu a été donnée à Abraham par la
+Foi. Et seule la Foi peut produire ce que Dieu a dit qu’Il voulait faire, la Foi en Sa Parole.
+83 Remarquez comme Marie se rapprochait davantage de la chose véritable, elle était comme
+l’enveloppe. La balle enferme la semence en elle-même, la protège et la nourrit jusqu’à ce qu’arrivée
+à maturité elle demeure seule. C’est ainsi que ce troisième âge de l’église de Pentecôte a mûri,
+tenant ce grain jusqu’à ce qu’il soit temps d’ouvrir la balle. Marie, qui était la mère de Christ, n’était
+qu’une incubatrice. Jésus n’était pas du sang de Marie; Il n’était pas du sang des Juifs, Il n’était pas
+du sang des nations. Il était du Sang de Dieu. Dieu créa ce Sang. Ce ne pouvait être par le sexe.
+Jésus (Dieu) n’était ni juif ni gentil.
+84 Le bébé n’a pas une goutte de sang de la mère. Le sang vient du père. Nous savons que
+l’hémoglobine vient du mâle. C’est comme pour les poussins; une poule peut pondre un oeuf, mais si
+elle n’a pas été avec le mâle, avec le coq, il n’éclora jamais. Il est stérile bien qu’ayant tout à fait
+l’apparence de l’oeuf fertile. Il en a toute l’apparence mais Il n’a pas la vie en lui.
+85 C’est ainsi qu’il en est des gens qui se prétendent de Christ. Beaucoup parmi eux ressemblent à
+des chrétiens et essayent d’agir comme des chrétiens, mais vous devez avoir Christ en
+vous-même, car Il est la Parole rendue manifeste, sinon vous ne mûrirez jamais pour devenir un
+chrétien croyant la Bible. Vous serez toujours un “quelque chose” de dénominationnel. Ce “quelque
+chose” ne peut pas vivre car il n’y a aucune vie en lui pour le faire vivre. Si la poule n’a pas été avec
+le mâle, l’oeuf ne peut pas éclore, il pourrira simplement dans le nid.
+86 Il en est de même avec les membres d’une église. Vous pouvez les dorloter, en faire des diacres
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 10
+et toutes ces choses, mais vous aurez un nid rempli d’oeufs pourris à moins qu’ils ne se soient
+unis au mâle. C’est juste!
+87 Le porteur, la balle, nourrit la semence. C’est juste. Puis la semence doit quitter la balle, ou la
+balle doit quitter la semence afin que celle-ci puisse être en présence du soleil pour mûrir. Nous
+voyons tout cela en type.
+88 Voyez maintenant combien l’église des derniers jours tend à ressembler le plus possible à la
+Semence Elle-même. Regardez comme cette dénomination de Pentecôte qui s’est élevée en ces
+derniers jours (nous expliquerons cela un peu plus tard) en est venue à ressembler de manière
+tellement proche à la Semence. Lorsque l’enveloppe se détache d’un grain de blé après que le pollen
+soit tombé lors de la seconde étape, nous entrons dans la troisième étape. Si vous n’observez pas
+vraiment très attentivement, vous ne serez pas capable de dire où se trouve le véritable grain de blé
+là-dedans. Lorsque cette première petite graine apparaît, elle ressemble vraiment au grain. Mais si
+vous vous installez et que vous ouvrez cela, vous découvrirez qu’il n’y a pas de grain du tout. Il ne
+s’agit que de la balle, d’un porteur du grain. Mais c’est de là que sort le grain. Mais souvenez-vous
+qu’après la balle il n’y a plus rien. Souvenez-vous qu’après Marie, aucune Semence promise ne
+devait venir par une femme. Et il ne nous est plus promis de dénominations après celle de Pentecôte.
+Ce sera l’Epouse enlevée sortant de cela, la Semence, la Parole rendue de nouveau manifeste.
+89 Observez combien c’est ressemblant. Dans Matthieu 24.24, il est dit que, dans les derniers jours,
+les deux esprits, l’esprit de l’église et des gens de l’église et l’esprit de l’Epouse et des gens de
+l’Epouse, seraient si proches que cela tromperaient même les élus, si cela était possible. C’est aussi
+proche que cela.
+90 Observez comme la vie passe à travers la tige. Maintenant, observez, ici nous allons voir
+quelque chose qui est un type. Luther, dans l’âge où il produisit la semence de l’Epouse, était le
+même en esprit. Il n’y eut qu’une petite graine de la semence de Luther qui s’éleva; ce fut la
+justification par la foi. Il était le type même d’Agar, la tige. Remarquez que Wesley était un type de
+Sara; c’était l’âge de Philadelphie, l’âge de l’amour qui produisit l’épi. Durant l’âge de Wesley il y eut
+plus de missionnaires que durant n’importe quel autre âge. Ce fut le grand âge missionnaire du
+temps de Wesley.
+91 Mais l’âge de Pentecôte représente Marie, c’est-à-dire la dernière étape. Elle n’était pas la
+Semence bien que la vie de la Semence se trouvât en elle. Cette semence n’était pas encore mûre.
+(Oh, je me sens vraiment rempli de piété.) Elle n’était pas encore mûre. Elle était là mais n’avait pas
+encore mûri. Ainsi en est-il de notre âge de Pentecôte dans lequel nous vivons. Une Parole de Dieu
+doit être produite qui soit en dehors de toute dénomination, hors du domaine de toute
+dénomination.
+92 Luther se dirigea vers la balle par sa première parole: “Le juste vivra par la foi”. Wesley eut deux
+paroles; la première était une parole de sanctification et la seconde définit l’oeuvre de la grâce. La
+Pentecôte apporta la troisième parole, c’est-à-dire la restauration des dons. Mais toute la semence
+devait sortir. Voyez comment ils établirent une dénomination sur une parole, puis sur une autre,
+puis sur une autre. Mais il doit y avoir quelque chose dont on ne peut faire de dénomination. C’est
+la vie dans son intégralité qui doit se trouver là et qui doit se produire elle-même à nouveau
+dans une Epouse. Il ne peut y avoir d’autre âge de l’Eglise après celui-ci. Nous sommes à la fin,
+frères et soeurs. Nous sommes ici, nous sommes arrivés. Grâces soient rendues à Dieu! Amen!
+93 Maintenant, nous voyons que ces choses sont aussi vraies que possible. Nous remarquons alors
+que si Marie, ou Wesley était l’épi, alors la Pentecôte doit être l’enveloppe car c’est l’étape suivante
+de la sortie du grain.
+94 Mais frère, soeur, la tige n’est pas le grain, pas plus que l’épi n’est le grain ni que l’enveloppe
+n’est le grain, bien qu’à chaque fois que la plante mûrit elle ressemble davantage au grain. La tige ne
+ressemble pas au grain. Qu’est-ce donc qui doit sortir? L’épi, c’est-à-dire une grappe de petits bulbes.
+Lesquels ressemblent davantage au grain que les feuilles. Que vient-il ensuite? La balle qui contient
+le grain et le nourrit.
+95 Maintenant retournons à la promesse que Dieu a faite à Abraham au sujet de cette “Semence”,
+ce qui était une manière spirituelle de parler. Nous savons tous cela. Il parlait de Christ, non
+d’Isaac, qui devait venir au travers de la Semence de la foi d’Abraham.
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 11
+96 Remarquez que la première semence vint par une esclave. Cela ne ressemblait pas du tout à
+une promesse. Dieu ne doit jamais retirer Sa Parole pour qui que ce soit. Dieu a dit comment cela
+devait arriver et c’est ainsi que cela arrivera. Mais Sara, qui représentait l’église, qui était un type
+de l’église, dit: “Eh bien, je crois que c’est un peu trop phénoménal. Je ne peux tout simplement pas
+croire cela, tu iras donc vers Agar et tu la prendras pour femme”. Vous voyez cela? Cette tige (Agar)
+ne ressemblait pas du tout à la promesse, puis Sara apparut. Cela semblait très bien. Cela
+ressemblait beaucoup plus à la promesse ici, mais ce n’était pourtant pas encore la véritable
+promesse car, au travers d’Isaac, Israël faillit et renia la véritable Semence lorsqu’Elle vint
+(Alléluia! Ne vous excitez pas; ne courez pas. Cela ne vous fera pas de mal!). Ils renièrent la
+Semence, Le crucifièrent et Le pendirent sur la croix.
+97 Juste comme Paul a dit: “La semence de l’esclave n’a-t-elle pas persécuté la semence de la
+femme libre?”. C’est ainsi que la semence de la dénomination persécute le véritable grain. C’est
+ainsi qu’il doit toujours en être. Ils n’hériteront pas ensemble. Ils ne sont pas associés. Ce sont deux
+promesses absolument différentes, deux époques différentes, en tout cas deux peuples différents.
+L’une est l’Epouse et l’autre est une église. On ne peut absolument pas les comparer.
+98 Mais elles ne sont toujours pas la semence promise qui devait venir. Sara ne l’était pas, Agar
+non plus. Marie non plus n’était pas la Semence. Marie n’était pas la Semence. Elle était une
+porteuse de la Semence. Tout comme la balle du grain, elle avait nourri puis fait sortir la véritable
+Semence de sa matrice. Mais la balle n’est pas la Semence. Elle est ce qui est le plus proche de la
+Semence. Elle enserre la semence. Si nous regardons en bas dans la tige, nous voyons que la vie se
+répand à travers elle. Et lorsqu’on en arrive au pollen, elle s’approche encore davantage. Mais
+lorsqu’on en arrive à la balle, on voit que celle-ci se trouve juste avant la semence et que sa forme
+est presque la même. Jésus nous a dit ce qu’il en serait dans les derniers jours: elle serait si proche
+qu’elle pourrait séduire même les élus si cela était possible. Mais ensuite, la semence sort de là. Et
+alors la vie quitte la balle. La balle est donc un porteur. Et c’est exactement ce qu’ont été nos
+dénominations; Luther, Wesley, les Pentecôtistes ont été des porteurs de la vie et il est maintenant
+temps pour la Semence de sortir de cela.
+99 Maintenant, remarquez simplement que Marie n’était pas la Semence. Il y avait la balle, l’épi, la
+tige, c’est-à-dire des porteurs pour une partie de la Parole et non pour toute la Parole. Luther
+avait la justification. Wesley avait la sanctification. Les Pentecôtistes avaient la restauration des dons.
+Mais lorsque vint la Parole… C’était cela qu’ils pouvaient produire: la justification sauvera l’homme.
+Croyez-vous cela? Certainement. C’est le porteur de la Parole, et je crois également que la tige fait
+partie du blé. Certainement! Mais elle est un porteur. Elle n’est pas la vie. Puis vint la sanctification.
+Combien croient en la sanctification? Certainement! Vous devez croire la Bible. Ensuite vint la
+Pentecôte, la restauration des dons. Ils disaient que le parler en langues était la preuve initiale que
+vous aviez le Saint-Esprit. C’est ce qu’ils appelaient la preuve initiale; et que produisit-elle? La balle.
+Mais ils firent une organisation. Lorsque vous en venez à dire: “Moi et le Père sommes un” et ces
+autres choses, alors la balle s’éloigne de cela. Mais la véritable Epouse-Eglise originelle produit
+l’entière Parole de Dieu dans sa plénitude, car Il est le même hier, aujourd’hui et pour toujours.
+100 Remarquez que la Semence se trouvait dans le sein de Marie. Mais lorsque la Semence fut
+libérée, Elle dit: “Je suis venu pour faire la volonté de Celui qui m’a envoyé. Moi et mon Père sommes
+Un. Si je ne fais pas Ses oeuvres, ne me croyez pas”. C’était la Semence. “Lequel d’entre vous
+peut-il m’accuser du péché d’incrédulité? Ce que la Bible a promis que je ferais, je l’ai fait. Dieu a
+prouvé cela au travers de moi!” a-t-Il dit. La Semence dans le sein de Marie, l’enveloppe, était près
+d’être cela, mais elle n’était pas la Semence. Elle se trouvait toujours dans le sein de Marie.
+101 Remarquez. Il en a toujours été de même que ce soit pendant l’âge pentecôtiste, l’âge luthérien
+ou l’âge wesleyen. Mais lors de l’ouverture du septième sceau dans Apocalypse 10, toute la Parole
+doit renaître, être manifestée de nouveau et être authentifiée par l’Esprit de Dieu dans toute Sa
+force, comme Elle le fut lorsqu’Elle se trouvait sur la terre et qu’Elle fut manifestée de la même
+manière et qu’Elle faisait toutes ces choses. Amen! Hébreux 13.8 dit que Jésus-Christ est le même
+hier, aujourd’hui et pour toujours. Dans Luc 17.30, Jésus dit: “Il en sera dans les derniers jours
+comme aux jours de Sodome et que le Fils de l’Homme se révélera de nouveau Lui-même”.
+102 Le monde se trouve dans une condition sodomique et l’église est entrée avec lui dans Sodome
+tout comme Lot et sa femme. Et je vous dis qu’il y a quelque part dans le monde une Eglise élue
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 12
+qui doit être tirée hors de ces choses et mise à part de ces choses. Son attention a été attirée
+par la manifestation de Dieu. Nous sommes dans les derniers jours.
+103 L’enveloppe a transmis sa force à la graine; toute sa force s’en est allée. Elle a été une bonne
+enveloppe mais elle a fait son temps.
+104 Vous voyez, c’est l’Epouse-Parole de l’Epoux-Parole. La semence naturelle d’Abraham, d’Isaac
+et de Jacob, la semence naturelle d’Isaac et autres, devait être enterrée afin de produire cette autre
+semence, afin de produire Jésus. C’est ainsi qu’il devait en être de toutes ces autres semences. Les
+enveloppes devaient sécher, le pollen devait sécher et tout devait mourir afin que la graine puisse
+se produire elle-même.
+105 C’est ainsi qu’il en a été en chaque âge. Les dénominations ont transporté une partie de la
+graine. Une partie de cela forme la Parole car Elle avait été cachée ou scellée aux sages
+réformateurs jusqu’à ce qu’apparaisse l’âge de l’aigle. C’est ce que dit la Bible. Certainement!
+Car c’est ce qui nous a été promis dans Malachie 4. C’est exactement cela. Il a caché cela aux yeux
+des sages et des intelligents! Et, comme nous venons de le voir dans le livre d’Apocalypse, ces trois
+bêtes qui sortirent typifiaient exactement Luther, alors que les autres, le boeuf et autres animaux de
+la Bible, représentaient successivement les autres âges de l’Eglise. Cela produisit la justification, la
+sanctification et arriva même jusqu’aux Pentecôtismes; mais la quatrième bête était un aigle. C’est
+juste, et pendant cet âge Dieu fit sortir la graine. La semence devait donc traverser cet âge pour
+que tout soit juste. Oui, c’est la promesse de l’aigle de Malachie 4 qui est accomplie.
+106 [Cet alinéa manque, déjà en anglais — N.d.T.]
+107 Jésus n’était pas de Marie, mais Il vint au travers de Marie, tout comme la vie vient au
+travers de l’enveloppe.
+108 Maintenant, beaucoup parmi vous qui êtes ici ce soir et qui êtes de gentils frères et soeurs
+catholiques, pensez peut-être que Marie était la mère de Dieu et vous dites qu’elle l’était. Comment
+pouvait-elle être mère de Dieu alors que Dieu n’a ni commencement ni fin? Vous voyez? Qui donc
+était le père de Dieu si elle était Sa mère? C’est Lui qui était Son créateur et non elle qui était Sa
+créatrice. Il Se créa Lui-même dans le sein de Marie et n’était pas sa création à elle. Il Se créa
+Lui-même. Il ne venait pas d’elle mais elle venait de Lui. C’est juste! La Bible nous enseigne que c’est
+Lui qui a fait toutes choses. Rien n’a été fait si ce n’est par Lui. Comment donc aurait-Il pu avoir
+une mère alors qu’Il était Lui-même Dieu?
+109 Nous voyons ici la véritable révélation du vrai type. Voici trois femmes qui ont porté la semence
+naturelle jusqu’à ce qu’elle mûrisse en Jésus. Nous voyons qu’elle ne pouvait pas venir d’Ismaël car il
+était, comme on dirait aujourd’hui, né hors des liens du mariage; il était le fils d’une femme esclave.
+Ensuite vint Isaac, qui se rapprochait davantage de Lui, de Jésus. Mais ce n’était pas encore lui car il
+était né par des relations sexuelles entre Sara et Abraham. Mais ensuite vint Marie, qui par une
+naissance virginale produisit Jésus-Christ (c’est juste!), Dieu, la Parole faite chair.
+110 Observez maintenant qu’il y avait trois femmes. Ces trois femmes typifient des églises (les
+femmes typifient toujours des églises); elles représentent trois âges dénominationnels, trois
+enveloppes, qui devaient mourir et sécher, tout comme le fait l’enveloppe afin de faire place à la
+semence. La semence ne peut pas mûrir tant que l’enveloppe, la tige et les feuilles ne sont pas
+complètement sèches. Sinon, elles affaiblissent toute la vie qui se trouve en elle. Amen!
+111 C’est maintenant le temps de la semence, ou le temps de l’Epouse. Les enveloppes sont mortes.
+Les enveloppes ont séché. C’est le temps de la Parole vierge qui n’a pas été touchée. C’est une
+vierge. Souvenez-vous que c’est le temps de la Parole vierge. Si vous la mettez entre les mains
+d’une dénomination elle ne sera certainement plus vierge. Vous irez alors vers le temps de la
+manipulation humaine. Mais l’Eglise de Dieu ne doit pas être touchée par une dénomination
+(alléluia!); c’est une vierge née de la Parole de Dieu manifestée, Jésus-Christ, le même hier,
+aujourd’hui et pour toujours. Alléluia! Comme c’est merveilleux! J’aime cela. Je crois ces choses.
+Je sais que c’est la Vérité. Elle ne sera pas touchée. Il n’y aura pas de manipulation humaine et
+dénominationnelles lors de la naissance vierge de l’Epouse. Certainement pas! Dieu lui a
+ordonné de sortir de cela. “Ne touchez pas à ces choses impures, vous deviendriez des vautours”.
+112 Cela me fait penser à quelque chose. Tandis que je rentrais de la réunion de Phoenix l’autre soir
+et que je revenais à Tucson, l’Esprit de Dieu attira mon attention sur quelque chose. J’étais en train
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 13
+de discuter avec ma femme et les enfants étaient endormis à l’arrière de la voiture. Il attira mon
+attention sur un faucon. J’observai attentivement ce faucon et l’étudiai. Il est le type même de l’église
+d’aujourd’hui.
+113 Comme nous le savons tous, le faucon a perdu son identité propre qu’il avait lors de la création
+originelle. C’est parfaitement vrai. Au début, le faucon était semblable à l’aigle, son grand frère. Mais
+maintenant, il ne peut plus voler dans le ciel afin d’y chasser sa manne céleste, il est devenu mou. Il
+ne peut plus voler dans le ciel. Il sautille sur le sol comme un vautour, s’installe sur une cabine
+téléphonique et se met à sautiller en chassant les lapins morts. Le faucon n’était pas fait pour cela.
+Non, il était fait pour être semblable à l’aigle. Il en est exactement de même pour l’église. Elle était
+semblable à l’aigle. Elle devrait prendre place dans les cieux. Mais au lieu de cela elle s’est
+ramollie. Elle ne vole plus dans l’inconnu, dans le ciel bleu. Certainement pas Elle s’appuie sur les
+moyens modernes qu’elle a adoptés, sur l’éducation et la théologie de quelque dénomination faite par
+l’homme; elle sautille sur le sol à la recherche d’un tas de lapins morts, tués par quelqu’un d’autre et
+à moitié pourris. C’est juste Un faucon. Voyez ce que cela signifie. L’aigle n’a absolument pas
+changé. Il reste toujours un aigle.
+114 Le faucon ne s’élève plus dans les cieux pour y attraper sa manne, mais il dépend de ce qu’il
+peut trouver, de ce qui est déjà mort. Un vrai faucon ne dépend pas d’un poteau de clôture pour
+surveiller le sol. Mais observez de nos jours un vieux faucon. Promenez-vous le long de la route et
+vous verrez que les câbles téléphoniques sont remplis de faucon en train de regarder s’ils peuvent
+trouver quelque chose qui a été tué, quelque chose de pourri. C’est ce qu’il doit faire car ses ailes ne
+sont plus suffisantes pour lui permettre de voler. Il s’écraserait immédiatement sur le sol car il est
+devenu tout mou. Il n’a plus utilisé la force que Dieu lui avait donnée.
+115 Il avait été spécialement prévu pour naviguer dans les cieux et observer ce qui se passe depuis
+là-haut. Mais maintenant il reste en bas et ne peut même plus regarder en haut. Il a l’esprit fixé sur
+des lapins morts ou sur ce qu’il peut trouver sur la route, comme des putois, des opossums ou
+quelque chose qu’un automobiliste a écrasé. Ce n’est pas un aigle mais il en a quelque chose. De la
+même manière, l’église dépend de l’éducation et de ces choses pour sa nourriture, une
+nourriture morte depuis des années, qui avait servi pour Luther, Wesley, les Pentecôtistes et qui
+continue à… L’église regarde en arrière, à quelque credo fabriqué par l’homme, au lieu de voler
+dans les cieux de la Parole où toutes choses sont possibles à celui qui croit.
+116 Le faucon a pris les habitudes de la buse. Ces choses mortes étaient laissées pour les vautours,
+c’est à dire le monde. L’instruction et toutes ces choses étaient prévues pour le monde, non
+pas pour l’Eglise. Le faucon n’est plus robuste. Il ne peut plus s’élever dans ces cieux rudes où
+toutes choses sont possibles à ceux qui croient. Il retourne en arrière pour dire: «Eh bien, le docteur
+un tel a dit que… Ma dénomination ne le croit pas de cette manière». Oh, faucon perverti qui a peur
+de se déclarer pour les promesses de Dieu.
+117 Vous dites: «Eh bien, les jours des miracles sont passés». Vous vous êtes ramollis. Vous avez
+peur de prendre vos ailes et de vous envoler vers l’au-delà; vous êtes ramollis au point de ne pouvoir
+assister à une réunion de prière? En êtes-vous arrivés au point d’avoir peur de rester plus de dix
+minutes à l’autel? Vous picorez de-ci de-là tel un vautour en train de manger une charogne par terre.
+Certainement!
+118 Le faucon est trop mou pour pouvoir aller de nouveau dans ces endroits rudes là-bas de l’autre
+côté. Il picore comme un vautour et mange la nourriture du vautour (c’est cela, c’est juste) à tel point
+qu’il commence à ressembler à un vautour. Il agit comme un vautour; il n’a plus rien du faucon. Il
+ressemble davantage à un vautour qu’au faucon. Le faucon est censé voler, non pas s’installer sur
+une cabine téléphonique pour attendre de voir un lapin mort, puis descendre et se mettre à sautiller
+çà et là comme un vautour. Vous voyez?
+119 C’est exactement ainsi que l’église agit aujourd’hui. «A quoi bon aller se mettre à voler là en haut
+alors que je peux avoir des lapins ici?». Mais ils sont morts; ils sont pourris. Ils sont contaminés. Un
+temps, ils ont été bons. De même que la doctrine des Luthériens, des Wesleyens et des
+Pentecôtistes. Pourquoi mangez-vous comme un vautour? Toutes les nuits, de la manne fraîche
+tombait des cieux pour les enfants d’Israël lorsqu’ils voyageaient. Tout ce qui restait était contaminé.
+Dans le pays, nous avions l’habitude de dire que “les vers s’y étaient mis”. Il y a trop de ces vers dans
+nos expériences d’aujourd’hui. Nos religions dépendent de ce qu’un autre a dit et de ce que “la
+
+        http://www.cmpp.ch
+
+    LA SEMENCE N’HERITERA PAS AVEC LA BALLE    14
+promesse est pour quelque autre âge”.
+120 Quelqu’un est venu me voir il n’y a pas très longtemps; c’est un prédicateur baptiste, il est venu
+chez moi et m’a dit: «Vous savez, j’aimerais simplement vous reprendre sur un point».
+     Je dis: «Lequel?».
+     Il dit: «Vous essayez d’enseigner une doctrine apostolique en cet âge alors que l’âge apostolique
+est terminé».
+121 Je dis: «Quand donc? Je peux vous dire quand il a commencé, et vous dites-moi quand il s’est
+terminé». Je dis: «Croyez-vous la Parole?».
+     Il dit: «Oui».
+122 Je dis: «Très bien. Vous croyez que c’est le jour de Pentecôte que l’âge apostolique a
+commencé?».
+     Il dit: «Oui».
+123 Je dis: «Alors souvenez-vous que Jésus a dit: “Quiconque ôtera une parole à ceci ou y ajoutera
+une parole, sa part lui sera retranchés du Livre de Vie”. Il peut très bien s’agir d’un prédicateur ou de
+quelqu’un dont les noms ont été inscrits dans le Livre». Je dis: «Pierre a dit: “Repentez-vous, et que
+chacun soit baptisé au Nom de Jésus-Christ, en rémission des péchés; et vous recevrez le don du
+Saint-Esprit: car à vous est la promesse et à vos enfants, et à tous ceux qui sont au loin, autant que
+le Seigneur notre Dieu en appellera à lui”. Quand est-ce donc sorti? Cela a toujours été là». Il s’agit
+d’un tas de faucons qui se sont transformés en buses et sautillent autour de quelque carcasse morte
+qu’un autre âge a tué pour eux (c’est vrai!); ils ne veulent plus de la manne fraîche venant des cieux.
+124 Ils ne veulent plus cette manne. Ils ne peuvent plus avoir de réunions de prière. Dès le début ce
+n’était pas des aigles; ils sont mous, ils ne sont pas robustes et se contentent de sautiller de-ci,
+de-là. C’est ainsi que nos dénominations s’appuient sur l’instruction et sur quelque théologie humaine
+pour expliquer ces choses. Et ils acceptent cela. Ils ne veulent pas prendre la Parole qui dit que
+Jésus-Christ est le même hier, aujourd’hui et pour toujours. Ils ne veulent pas prendre
+Malachie 4. Et ils ne veulent pas prendre toutes les autres promesses qui appartiennent à ce jour; ils
+ne veulent pas prendre ce qu’a dit le prophète: “Au temps du soir il y aura de la Lumière”. Ils ne
+prennent pas cela; ils veulent sautiller autour de quelque organisation pentecôtiste qui a été tuée il y
+a des centaines d’années et mangent ainsi une manne à demi pourrie. C’est juste! Cela n’est pas
+bon!
+125 Remarquez que l’église est tellement charnelle, se nourrissant d’une charogne terrestre et de
+ces choses mortes du monde, tout comme le fait le vautour. Les dirigeants de l’église ne laissent pas
+la Saint-Esprit envoyer un homme vers une église. Il faut qu’ils aient une politique pour voir si la
+dénomination va recevoir cet homme ou non. C’est juste. Ils aiment le monde. Ils s’habillent
+comme le monde. Ils ressemblent au monde. Ils agissent comme le monde. Ils sont des
+vautours comme le monde. Ils sont paresseux, mous et font des compromis. Voilà où tout cela
+mène. Avez-vous déjà vu un aigle faire des compromis? Certainement pas! Il n’y a pas de compromis
+en lui. Il n’y en a pas non plus dans un chrétien authentique. Il n’est pas mou. Il chassera jusqu’à ce
+qu’il trouve sa nourriture. Amen! Certainement! Il trouvera sa viande. Il veut de la manne fraîche. Il
+descendra là-bas et se mettra à creuser jusqu’à ce qu’il la trouve. Il volera de plus en plus haut. S’il
+n’en trouve pas dans cette vallée, il s’élèvera un peu plus. Plus vous allez haut, plus vous voyez. Il
+est donc temps pour les aigles de ce jour de se mettre à voler plus haut et de creuser dans les
+promesses de Dieu, et non de vivre de cette nourriture de vautour qui a été tuée il y a des années.
+Sortez de cela.
+126 Les politiciens votent ceci, votent cela, disent ceci ou cela, et encore cela. Et le Saint-Esprit n’a
+plus aucun droit dans l’église. Il n’y a plus de réunions de prière, il n’y a plus d’agonie dans la prière
+avec Dieu pour que s’accomplisse Sa Parole. On ne croit plus que la Parole est encore la même
+hier, aujourd’hui et pour toujours. Ils se contentent d’agir comme des vautours, vont dans une
+dénomination, inscrivent leur nom dans le livre, deviennent paresseux et mous et s’installent là,
+avides de corps pourrissants. Et tout cela alors qu’ils sont censés être au moins un faucon, c’est à
+dire un frère proche de l’aigle, le prophète qui a apporté la véritable Parole et qui l’a manifestée.
+127 Ils se confient en une théologie à demi-pourrie, faite par l’homme. Où cela mène-t-il? A quelque
+
+    http://www.cmpp.ch
+
+    LA SEMENCE N’HERITERA PAS AVEC LA BALLE    15
+école du dimanche instituée par l’homme et dont la feuille de programme est quelque chose de mort,
+qu’un éducateur a ramené de quelque séminaire et qui dit: «Les jours des miracles sont passés; une
+chose comme le baptême du Saint-Esprit n’a jamais existé. Tout cela est un non-sens».
+Prétendez-vous me dire qu’un aigle mangerait cela? Il ne pourrait pas le faire. Certainement pas! Pas
+plus qu’un chrétien ne mangera de cette nourriture morte, à moitié pourrie, provenant de ces
+vieille doctrines dénominationnelles et toutes ces choses. Il veut la Parole de Dieu fraîche, la
+promesse de l’heure.
+128 Aux jours de Luther, Dieu a promis des lapins. Aux jours des autres prophètes, Il a promis
+d’autres choses. Mais maintenant, Il nous a promis un plein quartier de viande, le menu complet du
+septième âge, car les sept Sceaux ont été ouverts et tout est prêt pour la parole de Dieu, pour ceux
+qui peuvent La recevoir.
+129 Voyez ces faucons qui sautillent comme des buses. Oh, mon Dieu! Pensez à cela, voyez
+combien cette heure est critique. Tout comme le faucon a depuis longtemps perdu son identité en
+tant que faucon, l’église a depuis longtemps perdu son identité en tant que petit frère de l’aigle,
+que prophètes de Dieu. Une fois qu’elle a porté une parole véritable, la justification, elle porte la
+sanctification, puis le baptême du Saint-Esprit, c’est à dire la restauration des dons. Mais si, tandis
+que les choses avancent, elle reste en arrière et continue de manger cette manne d’un autre jour, elle
+mange quelque chose de pourri. Ce n’est pas bon. Un authentique aigle de ce jour sait que c’était
+très bien avant, mais que nous avons cette chose en plus, jusqu’à ce que Jésus-Christ soit manifesté
+dans la plénitude de Sa puissance, comme Il a promis que cela serait en ce dernier jour.
+130 L’église est maintenant une enveloppe sèche. L’Esprit de Dieu a passé au travers d’elle. C’est
+vrai. Elle n’héritera pas avec une Semence-Parole authentifiée. Certainement pas. Elle ne sera
+pas enlevée. Il s’agira simplement d’un membre d’église, qui participera peut-être à la seconde
+résurrection et sera jugée selon ce qu’elle aura entendu. Si vous êtes ici ce soir simplement en tant
+que membre d’église, comment serez-vous jugé lorsque nous devrons tous nous tenir là-bas et
+témoigner que nous avons entendu la Vérité? Vous voyez? L’église ne vole plus dans les cieux, dans
+l’inconnu, dans le surnaturel, dans ces hauteurs, là où se trouvent les puissances et les
+promesses de la Parole éternelle de Dieu qui a rendu toutes choses possibles à ceux qui
+croient. L’église ne veut pas croire cela. Elle retourne se percher sur son fil de téléphone et dit: «Ma
+dénomination a dit que les lapins étaient bien suffisants». Et cela bien que ces lapins aient des
+asticots; mais ils lui conviennent très bien. Vous voyez? C’est de cela qu’elle dépend.
+131 La Pentecôte est comme son frère dénominationnel, le vautour qui siège maintenant dans le
+grand concile des impies; elle écoute son chef politique mondain et se nourrit d’une nourriture de
+vautour, c’est à dire de lapins morts ou de quelque chose qui est passé depuis cinquante ans. C’est
+cela la condition de l’église pentecôtiste. Oh, mon Dieu.
+132 Tout comme Sara a essayé d’obtenir la promesse surnaturelle en manoeuvrant Agar,
+l’église a essayé d’apporter un grand réveil et aujourd’hui nos grands évangélistes parcourent les
+pays en disant: «Le réveil de notre temps le réveil de notre temps. Vous tous, Méthodistes, Baptistes,
+Pentecôtistes, réunissez-vous tous». Comment pouvez-vous avoir un réveil de manne fraîche sur
+un vieux vautour mort? Comment est-ce possible? «Le réveil de notre temps». Le réveil avait dû
+être tellement petit qu’ils ne s’étaient même pas rendu compte qu’il était déjà arrivé.
+133 Les Pentecôtistes disent: «Oh, une grande chose doit se passer». Elle est en train de se passer
+et ils ne le savent même pas. C’est cela. Vous voyez? Certainement “Car là où se trouve la carcasse,
+là s’assemblent les aigles”. C’est ce qu’il est dit. Qu’est-ce que la carcasse? La Parole. Il est la
+Parole, Il est la carcasse, Il est Christ, Christ en vous, Le même hier, aujourd’hui et pour toujours.
+134 Comme tout cela est vrai; voyez comme Sara essayait d’obtenir les promesses tout accomplies
+(vous voyez?), tout comme l’église d’aujourd’hui qui essaye de faire un grand réveil. Et cela, par quel
+moyen? Par une promesse pervertie. Que comptez-vous faire lorsque vous verrez que Dieu n’a
+jamais béni les organisations. Il ne s’est jamais servi d’une organisation. Lorsqu’un message allait
+de l’avant et qu’ils l’organisaient, ce message mourait là au point où il en était. Je défie n’importe
+quel historien de me montrer où un tel message a pu se relever. Il mourait là et restait au point où il
+en était. Dieu se déplaçait simplement de cette enveloppe pour aller dans une autre; Il sortit des
+Luthériens pour aller chez les Méthodistes, Il sortit des Méthodistes pour aller chez les Pentecôtistes.
+135 Il vient maintenant de sortir des Pentecôtistes pour entrer dans la Semence car l’Eglise
+
+    http://www.cmpp.ch
+
+    LA SEMENCE N’HERITERA PAS AVEC LA BALLE    16
+doit être la Semence. Vous ne pouvez aller contre la nature. Il ne peut rien arriver d’autre que la
+Semence. La Semence se produira donc Elle-même, car Il est le même hier, aujourd’hui et pour
+toujours; Il est la même Colonne de Feu montrant les mêmes signes, la même puissance, les mêmes
+miracles, les mêmes choses. Ce même Dieu authentifie à la lettre la Parole et la Bible. Il est Le
+même hier, aujourd’hui et pour toujours. Ce soir, c’est Lui qui nous conduit. Que Dieu nous
+aide à le voir et à le croire. Certainement!
+136 Voyez Sara, c’est à dire l’église en train de manoeuvrer Agar. Cela n’a pas marché, n’est-ce
+pas? Non! Son groupe manipulé ne marchera pas aujourd’hui, non plus. Tous ces docteurs en ceci et
+en cela, cela ne peut pas marcher. Toutes ces enveloppes ont manqué cela. Luther a manqué cela,
+Agar aussi. Que fit Agar? Agar mit son fils au sein d’une autre femme (est-ce juste?) afin qu’il puisse
+être élevé. Agar fit cela, elle donna son fils, son fils unique, et le plaça sur le sein d’une autre femme,
+une femme qui n’était pas sa mère, pour qu’il soit élevé. Luther fit la même chose lorsqu’il donna
+son fils, la justification, à une dénomination pour qu’elle s’en amuse (c’est exactement cela),
+pour qu’elle l’élève.
+137 Wesley tomba de la même manière que Sara lorsqu’il douta que la naissance surnaturelle était
+le baptême du Saint-Esprit; il douta comme Sara le fit lorsqu’elle était sous le chêne. Lorsque vint
+l’âge pentecôtiste et qu’on présenta à Wesley le parler en langues et toutes ces choses, les
+Wesleyens rirent et se moquèrent de cela. Vous, toute l’église de Christ, vous prétendus Baptistes,
+Presbytériens, vous vous êtes tous détournés de cela et avez fui. C’est vrai! Qu’as-tu fait Wesley? Tu
+as vendu ton enfant à une dénomination et il est mort, il a dépéri. C’est exactement cela.
+138 Mais la Parole, la véritable Parole a continué. Elle n’est pas restée dans cette organisation. Elle
+est entrée directement dans le pentecôtisme et a pris quelque chose de plus là-dedans. C’était alors
+un fils plus proche de la maturité, comme la graine qui tombe dans la matrice. Après cela, la colonne
+vertébrale commence à se former, puis viennent les poumons, la tête, les pieds; il en arrive ensuite
+au point de la naissance. C’est juste! Et c’est ainsi que l’Eglise a mûri, elle a mûri de la même
+manière.
+139 Wesley a douté, tout comme Sara a douté sous l’arbre. L’Ange du Seigneur vint; c’était un ange
+habillé comme un homme, c’était Dieu Lui-même, Elohim, habillé comme un homme. Il se tenait là,
+les vêtements poussiéreux, et il apporta cette promesse alors que Sara avait quatre-vingt-dix-ans et
+Abraham cent ans. Et Sara rit sous cape et dit: “Comment cela se pourrait-il alors qu’Abraham et
+moi-même ne sommes plus des jeunes gens et que nous n’avons plus eu de relations depuis vingt
+ans”. Elle avait presque une centaine d’années. Elle dit: “Comment pourrais-je avoir du plaisir avec
+mon seigneur alors qu’il est vieux et moi aussi. Il n’a plus de sève en lui et ma matrice est desséchée.
+Je n’ai plus de poitrine. Les glandes mammaires ont disparus. Comment pourrais-je avoir un
+enfant?”. Dieu avait dit: “Je l’ai promis. Il viendra de toute manière”.
+140 Wesley fit de même. «Comment pourrons-nous accepter qu’ils parlent en langues, qu’ils aient la
+guérison divine et tout ce fatras. Ce n’est pas pour notre temps».
+141 [Manque, aussi en anglais — N.d.T.]
+142 Dieu dit: “J’ai promis que dans les derniers jours, je déverserai mon Esprit sur toute chair”. Il a
+promis de le faire, Il a continué et l’a fait de toute façon. Et l’église wesleyenne ainsi que toutes ses
+petites soeurs “pollen” que sont les Baptistes, les Presbytériens, l’Eglise de Christ, les Nazaréens, les
+Pèlerins de la Sainteté, les Frères unis et tous les autres moururent avec cela, et l’Eglise continua
+son chemin. Maintenant, que fit la Pentecôte? Elle s’organisa, tout comme la balle. Elle fit la
+même chose. Elle s’organisa, s’installa comme la balle. C’est juste
+143 La Pentecôte fut comme Marie. Regardez ce que fit Marie lors de la fête de Pentecôte. Que fit
+Marie de faux? Un jour, lors d’une fête de Pentecôte, elle fut confrontée à un tas de dignitaires et de
+prêtres lorsqu’elle s’aperçut qu’elle ne pouvait Le retrouver nulle part. Et elle refit en arrière le chemin
+de trois journées de voyage. Elle L’avait laissé en arrière, comme le fait l’église moderne
+d’aujourd’hui depuis 50 à 75 ans.
+144 Elle L’avait laissé lors de la fête de Pentecôte. Marie retourna en arrière avec Joseph et Le
+chercha pendant trois jours. Elle L’avait cherché et ne pouvait pas Le retrouver. Puis elle Le retrouva.
+Que découvrit-elle? Elle Le trouva dans le temple en train de discuter de la Parole de Dieu avec les
+prêtres. Et juste face à ces prêtres, ces dignitaires, Marie laissa tomber le rideau. Elle fit exactement
+
+    http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 17
+la chose qu’elle n’aurait pas dû faire. Elle s’appela la mère de Dieu. Une mère devrait avoir plus
+de sagesse que son fils. Et elle dit: “Ton père et moi t’avons cherché en pleurant jour et nuit”. Par
+cela elle prétendait que la naissance n’était pas surnaturelle, que Joseph était le père de Jésus. Elle
+renia la naissance surnaturelle. La Pentecôte s’empara du parler en langues. Ils renièrent la
+naissance de la Parole. C’est exactement ce qui arriva. Ils en prennent une certaine partie mais ne
+veulent pas en prendre le reste. La Pentecôte renia la naissance de la Parole, tout comme le fit
+Marie.
+145 Mais observez, il n’y aura plus d’organisations après cela. Observez! C’était la Parole Elle-
+même; Il avait à peine douze ans et Il dit: “Ne savez-vous pas que je dois m’occuper des affaires de
+mon Père?”. Juste-là, la Parole corrigeait l’église.
+146 “Pourquoi faites-vous toutes ces choses? Vous savez que vous ne pouvez pas faire cela. Nous
+vous fermerons nos portes. Nous ne vous laisserons pas entrer”.
+147 “Car ne sais-tu pas que je dois m’occuper des affaires de mon Père?”. Oh oui, c’était la
+véritable fascination du surnaturel.
+148 Elle prétendit qu’Il n’était que le fils de Joseph, c’est à dire un simple homme. Or, que fit la
+Pentecôte? Elle prétendit qu’Il n’était que l’un des trois (oh, je sais que cela blesse), mais Il
+était les trois en Un. Mais la Pentecôte dit: «Oh oui, Il est le Fils du Père, du Saint-Esprit». Oh, mon
+Dieu! Mais la véritable Parole parle clairement et dit: “Il n’y en a pas trois, il n’y en a qu’un”. Ils ne
+connaissent pas la Parole de Dieu. N’en faites pas trois, mais un seul.
+149 Remarquez qu’il n’y aura plus de porteuse, plus d’églises mères, plus de dénominations après
+cette enveloppe porteuse-ci, car après la balle, il n’y a plus rien. II ne reste plus rien après cela si
+ce n’est le grain. Est-ce juste? Il doit y avoir le grain. Il doit y avoir la même sorte que celui qui a été
+jeté en terre: Jésus-Christ, le même hier, aujourd’hui et pour toujours.
+150 L’Esprit vint sur l’Epouse afin de faire les mêmes choses qu’Il fit. Vous voyez, il s’agit de
+nouveau de la reproduction du grain.
+151 Bien qu’Elle fût jeune, la Parole parlait pour Elle-même! “Ne sais-tu pas que je dois m’occuper
+des affaires de mon Père?”.
+152 C’est cela le secret du message d’aujourd’hui. Il s’agit exactement des affaires du Père.
+Que sont les affaires du Père? Pouvez-vous imaginer ce qu’étaient les affaires du Père pour Lui?
+C’était d’accomplir ce qu’avait dit Esaïe: “Une vierge concevra”. Il fallait aussi accomplir ces paroles
+d’Esaïe: “Le boiteux sautera comme un cerf”, et toutes ces choses qui devaient arriver. Moïse avait
+dit: “Le Seigneur votre Dieu suscitera d’entre vous un prophète comme moi”. Les affaires du Père
+consistaient à accomplir cette Parole. Eh bien, si cela a pu venir au travers de ces tiges que sont les
+femmes naturelles, que sera-ce avec ces femmes spirituelles, les églises? Les femmes typifient les
+églises. Est-ce juste? Qu’en est-il donc maintenant? “Nous devons nous occuper des affaires du
+Père!”. Le blé, le grain va se mettre à crier. Certainement! Que doit-il faire? Il doit authentifier
+Malachie 4, il doit authentifier Luc 17.30, Hébreux 13.8, Jean 14.12; il doit authentifier toute Sa
+Parole. Il doit authentifier le chapitre 10 d’Apocalypse sur la révélation des sept sceaux. Tous les
+mystères de Dieu, même la semence du serpent, doivent être manifestés: mariage et divorce et tous
+ces autres mystères qui ont été cachés pendant toutes ces années aux théologiens et à tous les
+autres; c’est l’heure maintenant. Ce sont là les affaires du Père. Pensez-vous qu’ils aimeraient le
+recevoir? Ils veulent en imposer et dire: «Notre dénomination ne nous enseigne pas cela!». Mais la
+Bible le fait! C’est juste! Dieu prouve que c’est vrai. Certainement.
+153 Cet âge est en train de s’accomplir alors que les sept sceaux prouvent que les dénominations
+n’ont été que des enveloppes. C’est là une autre des affaires du Père. Aujourd’hui, l’affaire du Père
+est de vous montrer que leurs dénominations ne sont pas de Lui. Ce sont des systèmes faits par les
+hommes et qui renient la Parole. C’est juste
+154 Remarquez! Vous dites: «Eh bien, et Marie, la glorieuse vierge?». A la croix, Il ne l’a jamais
+appelée “mère”; Il l’a appelée “femme”; elle était une enveloppe, non une mère. Certainement, elle
+était l’enveloppe de la Parole, mais elle n’était pas la Parole. Lui était la Parole. Oh, oui!
+155 Remarquez aussi qu’elle ne fut pas identifiée avec Lui dans la résurrection. Il mourut et
+ressuscita car Il était la Parole. Elle était simplement une enveloppe. Elle est morte et se trouve
+toujours dans la tombe. C’est juste! Elle n’était donc qu’une enveloppe, elle n’était pas Sa mère,
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 18
+elle n’était pas Dieu. Elle était simplement une enveloppe comme le sont les églises. C’est juste!
+Tout cela montre qu’elle était simplement une enveloppe et non pas la Parole.
+156 Terminons en disant ceci. Oh, je m’adresse à vous, faucons pentecôtistes qui sautillez de-ci,
+de-là comme des vautours, ne prenant qu’une partie de la Parole comme le font les autres. Vous
+avez une forme de piété suffisante pour tromper même les élus si cela était possible, mais vous en
+reniez la Puissance, comme le dit le prophète ici montrant un parfait exemple de ce que dit Parole de
+Dieu. Elle dit qu’aux derniers jours ce serait l’âge de l’église de Laodicée, une église nue, aveugle,
+misérable, pauvre, malheureuse et ne le sachant pas, mais prétendant être grande, en bonne santé
+et n’ayant besoin de rien. Elle ne sait pas que, du faucon qu’elle était, c’est à dire un frère
+semblable au prophète qui garde droitement la Parole de Dieu, elle est devenue un vautour et
+nourrit son peuple de lapins ecclésiastiques morts. C’est parfaitement juste! Réveillez-vous. Oh,
+comment, pouvez-vous vous attendre à être identifiés avec les aigles et à hériter avec eux,
+alors que de telles choses se passent dans cette heure décisive et que l’enlèvement est si proche?
+157 Oh, chrétien, croyant, si vous n’avez cru qu’en partie, restez encore un petit moment à la
+réunion, voulez-vous? Nous avons quelque chose ici et je crois que le Seigneur veut que vous le
+connaissiez. Il est tard; je ne peux pas continuer. Je dois m’arrêter et je finirai peut-être demain soir.
+Maintenant, inclinons nos têtes juste un moment.
+158 Je ne veux pas que vous fassiez attention à la grammaire que j’emploie, mais j’aimerais que
+pendant une minute, vous preniez garde à ce que j’ai dit. Je suis sûr que c’est suffisamment clair
+pour que vous le compreniez si vous le désirez. Si vous êtes ici ce soir et que vous n’avez pas fait
+cette expérience… Vous dites: «J’ai dansé dans l’Esprit, j’ai sauté de-ci, de-là». Oui, les faucons font
+la même chose, ainsi que les corneilles et les vautours. Ce n’est pas cela que je demande. De quoi
+vous nourrissez-vous? Où allez-vous chercher votre nourriture quotidienne? De quoi vous
+nourrissez-vous? De la Parole de Dieu, ou de quelque vieille viande pourrie qui a été utilisée il
+y a des années et des années? Votre expérience de ce soir repose-telle sur quelque chose que
+vous avez ramassé il y a des années, ou bien est-elle fraîche et neuve de ce soir. Est-ce une manne
+nouvelle qui vient de tomber du Ciel, avec laquelle vous nourrissez votre âme en attendant que
+demain vous apporte quelque chose de mieux, de meilleur? Si ce n’est pas là le chemin que vous
+suivez, adressez cette demande sincère tandis que vos yeux sont fermés, vos têtes et vos coeurs
+inclinés: “O, Dieu, conditionne mon âme et mon esprit de telle manière que je puisse me nourrir
+seulement de la Parole de Dieu”. Faites cette demande non à moi, mais à Dieu. Voulez-vous lever
+votre main en témoignage de ce que vous demandez cela? Levez simplement la main et dites… Dieu
+vous bénisse! Dieu vous bénisse!
+159 Je ne sais pas exactement combien vous êtes ici ce soir. Je ne sais pas apprécier une foule,
+mais je peux dire qu’il y en a au moins un tiers qui ont levé la main pour témoigner de ce qu’ils
+veulent que leur âme soit conditionnée. Souvenons-nous de cela dans la prière tandis que nous
+inclinons maintenant nos têtes.
+160 Dieu bien-aimé, j’ai seulement la responsabilité de dire la Parole. Et, par ces simples paraboles,
+ces types, les gens peuvent voir que l’un n’héritera pas avec l’autre. Et nous savons qu’en ces
+derniers jours il y aura des gens qui seront enlevés dans les cieux. Et certains seront ici lorsque
+Jésus viendra. Et nous nous attendons à ce que Sa venue puisse avoir lieu même ce soir.
+161 Et je me souviens qu’il y a environ trente ou trente-trois ans, je me trouvais agenouillé ici à peu
+près à la même heure, aux alentours de 9h.30 ou 10h. du soir; et je priais pour mon père qui était
+perdu. Ce soir, Seigneur, je prie pour beaucoup de pères, beaucoup de mères, de frères, de soeurs.
+N’auras-tu point miséricorde, Dieu bien-aimé, Il est maintenant trop tard pour que je puisse faire quoi
+que ce soit pour mon père; il est passé de l’autre côté de cette vie. Et bientôt, Seigneur, nous devrons
+tous passer par ce chemin. Je devrai moi aussi passer par ce chemin. Chaque homme, chaque
+femme, chaque garçon, chaque fille ici devra passer par ce chemin. Et nous devrons rendre
+compte de ce que nous aurons fait de la Parole de Dieu.
+162 Combien cet homme qui cracha sur David dut-il lui paraître petit. Combien ces hommes qui
+crachèrent sur Jésus, la Parole, qui Le percèrent, Lui paraîtront-ils petits lorsqu’Il reviendra. Combien
+ces gens qui partirent d’ici se sentiront-ils petits, alors qu’ils avaient pu voir que, non seulement des
+paroles grecques, mais la nature entière parlent de Dieu le Créateur; ils avaient pu voir les
+enveloppes, les porteuses de la Parole, et la Parole Elle-même, et ils savaient que l’heure dans
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE 19
+laquelle nous vivons est le temps de la moisson. Dieu bien-aimé, ne nous laisse pas retourner en
+arrière pour quelque folie du monde, mais laisse-nous Le recevoir ce soir de tout notre coeur.
+163 Seigneur, crée en moi un bon esprit, l’Esprit de Vie, afin que je puisse croire toutes Tes Paroles
+et accepter Jésus, la Parole, qui est Le même hier, aujourd’hui et pour toujours, afin que je puisse
+croire aujourd’hui la portion de Parole qui a été impartie pour cet âge. Accorde-le Seigneur. Je
+Te le demande au Nom de Jésus.
+164 Et maintenant je vais demander à tous ceux qui sont ici et qui pensent sincèrement… Nous
+n’avons pas d’église à laquelle vous puissiez vous joindre. Nous avons un bassin là en bas dans
+lequel vous pouvez être baptisés. “Tous ceux qui crurent furent baptisés”. Vous avez peut-être déjà
+été baptisés d’un baptême chrétien. Il ne s’agit pas de répandre quelques gouttelettes, ni de verser
+un peu d’eau comme cela; il s’agit d’être immergé, non dans les titres de Père, Fils et Saint-Esprit,
+mais dans le Nom de Jésus-Christ. C’est ainsi que l’Eglise entière fut baptisée jusqu’à ce que, en
+303, l’église catholique introduise trois dieux et cette forme de baptême dans la trinité. Si vous
+n’avez pas encore reçu ce baptême, des robes et toutes ces choses vous attendent là en bas demain
+matin à dix heures.
+165 Ne voulez-vous pas venir et vous joindre à Jésus-Christ, non à nous. Nous n’avons même
+pas d’église ici qui puisse prendre soin de vous. Quel que soit l’endroit d’où vous veniez, allez dans
+n’importe quelle église que vous voulez, mais, s’il vous plaît, croyez cette Parole. Si vous croyez cela,
+dites: «Amen!». [L’assemblée répond: «Amen!» — N.d.R.] Que Dieu vous bénisse!
+166 S’il y a quoi que ce soit que nous puissions faire pour vous aider, nous sommes là pour le faire.
+167 Maintenant, je sais qu’il y a des malades ici. Il ne nous reste plus de temps ce soir pour la ligne
+de prière. Mais peut-être aura-t-elle lieu malgré tout. J’aimerais que chacun de vous fasse quelque
+chose pour moi. Posez vos mains sur la personne près de laquelle vous êtes assis. Et ne doutez pas
+c’est sur un aigle que vous posez les mains; il s’agit peut-être d’un aigle qui a mangé de la nourriture
+de vautour quelque part là-bas et qui s’en est rendu malade. Les aigles ne veulent plus de cela. Les
+aigles veulent sortir de cela. Ils s’en sont rendu malades et en sont fatigués. Installez-vous ici ce soir
+et voyez ce que les aigles sont vraiment capables de manger; c’est la Parole qu’ils peuvent
+manger et le Christ vivant peut habiter au milieu d’eux et prouver qu’Il est vivant, qu’Il est le
+même hier, aujourd’hui et pour toujours. Ils ne veulent pas être cohéritiers avec la balle. Celle-ci
+est destinée à être brûlée. La paille doit être brûlée ainsi que toutes ces choses. La moissonneuse
+batteuse va venir faire sortir le grain. Que le Seigneur soit avec vous.
+168 Certains de ces aigles sont malades, certains sont physiquement malades. Je veux donc que
+vous priiez. Vous aigle, priez pour votre frère aigle; soeur aigle ici, priez pour cette personne. Que
+l’Esprit de Dieu vienne sur vous.
+169 Souvenez-vous que c’est de la nourriture d’aigle que je vous donne, la promesse de Dieu. Ses
+prophètes, Il les a appelé des aigles; Il s’appelle Lui-même un Aigle. Il est Jéhovah-Aigle. Tandis que
+vos mains sont posées les uns sur les autres, priez pour eux.
+170 Notre Père céleste, dans Ta Parole, le dernier commandement que Tu donnas à Ton Eglise est:
+“Allez partout dans le monde et monde et prêchez l’Evangile — c’est un ordre général — celui qui
+croira et sera baptisé sera sauvé; celui qui ne croira pas sera condamné. Voici les signes qui
+accompagneront ceux qui auront cru: en Mon nom, ils chasseront les démons, ils parleront de
+nouvelles langues; s’ils boivent ou mangent quelque chose de mortel, ils n’auront point de mal, s’ils
+saisissent des serpents, ils ne leur feront pas de mal et s’ils imposent les mains aux malades, ils
+guériront”. Oh, Jéhovah-Aigle, veuille nourrir tes petits de Ta Parole ce soir. Ils sont dans le besoin.
+C’est de cette nourriture qu’ils ont besoin. C’est de cela qu’ils ont besoin, ils ont besoin de connaître
+ce qu’est cette nourriture, de savoir qu’elle est le AINSI DIT LE SEIGNEUR.
+171 Tu as promis que s’ils s’imposaient les mains les uns aux autres, ils seraient guéris. O Seigneur
+Dieu, ôte maintenant tous les doutes et toutes ces idées de vautour du milieu de nous. Et nous
+voulons solennellement distribuer cette nourriture d’Aigle, la Parole de Dieu.
+172 Que tout esprit impur se trouvant parmi ce peuple, tout esprit de doute, de crainte, toute
+revendication dénominationnelle, toute maladie, tout malaise qui se trouve parmi le peuple
+disparaisse; au Nom de Jésus-Christ, que cet esprit sorte de ce groupe de gens. Puissent-ils être
+libres dès maintenant afin de pouvoir manger cette nourriture d’aigle que nous croyons que Tu nous
+
+        http://www.cmpp.ch
+
+LA SEMENCE N’HERITERA PAS AVEC LA BALLE        20
+as envoyée pendant cette semaine, Seigneur, lorsque Tu as ouvert ces Sceaux et que Tu nous as
+révélés ces mystères qui avaient été cachés dès la fondation du monde, comme Tu l’avais promis.
+Ce sont les Tiens, Père. Au Nom de Jésus-Christ. Amen.
+173  Que tous ceux qui ont cru et accepté se lèvent et disent: «Je crois; j’accepte cela; ce que Dieu
+m’a promis, je le reçois». Que le Seigneur vous bénisse. C’est merveilleux. Tout le monde est debout.
+C’est bien! Faites un accord. «Je l’aime». Chantons-Lui cet hymne maintenant, je L’aime, je L’aime
+parce qu’Il m’a aimé le premier… Tous ensemble maintenant.
+      Je L’aime (si c’est vrai, levez la main!)
+      Je L’aime
+      Parce qu’Il m’a aimé
+      Et acquit mon salut
+      Sur le bois du Calvaire
+174  Oh, n’est-Il pas merveilleux? Serrons-nous la main. Frère aigle, soeur aigle, serrez les mains
+autour de vous tandis que nous chantons.
+      Je L’aime…
+      [Les gens de l’assemblée se saluent les uns les autres — N.d.R]
+      Sur le Bois du Calvaire…
+     Elevons de nouveau nos mains vers Lui.
+      Je L’aime, je L’aime
+      Parce qu’Il m’a aimé (et a fait de nous des aigles!)
+      Et acquit mon salut
+      Sur le Bois du Calvaire.
+175  Comment saurez-vous, comment le monde saura-t-il que vous aimez Jésus? Lorsque nous nous
+aimerons les uns les autres. C’est ainsi que le monde saura. Vous voyez, Dieu voit votre foi et le
+monde voit vos actions. Maintenant, aimez-vous les uns les autres, soyez bons les uns envers les
+autres. Parlez-vous les uns aux autres. Soyez patients les uns avec les autres. Toutes les autres
+instructions que nous pouvons donner sont le baptême et la recherche du Saint-Esprit. Nous n’avons
+pas de pièces ici pour faire cela, vous comprenez. Nous pouvons faire un appel à l’autel; si Dieu vous
+a convaincu que cela est juste, que Jésus-Christ est Le même hier, aujourd’hui et pour toujours et si
+vous voulez vous joindre à Lui, allez et demain soyez baptisé en Son Nom. Il y aura quelqu’un pour
+vous instruire. Tout ce que nous pourrons faire pour vous aider, nous le ferons.
+      Je L’aime, je L’aime,
+      Parce qu’Il… (vous qui êtes branchés sur les téléphones, à Tucson, là-bas en
+      Californie ou dans l’Est, élevez vos mains. Louez-Le!)
+      … et acquit mon salut sur le Bois du Calvaire.
+     Maintenant, je vous laisse à votre pasteur, frère Neville, jusqu’à demain soir.
+
+
+
+
+
+
+
+
+
+
+      http://www.cmpp.ch

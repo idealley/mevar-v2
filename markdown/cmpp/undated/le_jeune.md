@@ -1,0 +1,357 @@
+    LE JEÛNE
+
+   Premièrement, le jeûne est le fait de cesser volontairement de prendre la nourriture, et parfois la
+boisson, nécessaire au corps humain, pour le renouvellement des forces dont il a besoin
+quotidiennement, pour continuer de vivre, d’accomplir les tâches de tous les jours. Il s’agit en fait
+d’un acte d’humiliation envers son corps de chair et son âme, afin de pouvoir mieux s’occuper de
+son âme et son esprit, qui forment l’être intérieur dans lequel Dieu veut habiter. C’est du cœur, de
+l’intérieur, que viennent les paroles et les actions du corps, et c’est cet être intérieur qui a besoin
+de connaître la volonté de Dieu par Son Esprit afin d’accomplir celle-ci dans la joie et la paix. La
+durée du jeûne peut-être d’un à quarante jour comme nous en avons l’exemple avec le Seigneur
+Jésus (Luc 4.2), mais il faut demeurer continuellement sous la conduite de l’Esprit.
+   Tout d’abord, il faut savoir que le jeûne ne doit pas être effectué dans une pensée charnelle,
+c’est-à-dire être accomplie en pensant qu’elle ait une valeur méritoire, qu’une sorte de
+marchandage soit fait avec Dieu, ou que ce soit une tradition religieuse (je jeûne un certain jour,
+une certaine période, pendant un certain temps, etc…). Cette façon d’accomplir un jeûne n’a
+aucune valeur devant Dieu et ne peut être agréée par Lui, car dans la Bible le jeûne agréable à
+Dieu est clairement décrit comme un acte d’humiliation et de prière, comme David le dit dans le
+Psaumes 35, verset 13: “… J’humiliais mon âme par le jeûne, Je priais, la tête penchée sur mon
+sein…”. Nous voyons aussi ce que l’Eternel a dit à Elie: “As-tu vu comment Achab s’est humilié
+devant moi? Parce qu’il s’est humilié devant moi, je ne ferai pas venir le malheur pendant sa
+vie…” (1 Rois 21.29).
+   Nous trouvons dans Ésaïe 58, des paroles précises prononcées par l’Eternel concernant le
+jeûne accompli sans humilité, de manière irresponsable et qui ne peut être agrée par Lui: “Voici,
+vous jeûnez pour disputer et vous quereller, Pour frapper méchamment du poing; Vous ne jeûnez
+pas comme le veut ce jour, Pour que votre voix soit entendue en haut. Est-ce là le jeûne auquel je
+prends plaisir, Un jour où l’homme humilie son âme? Courber la tête comme un jonc, Et se
+coucher sur le sac et la cendre, Est-ce là ce que tu appelleras un jeûne, Un jour agréable à
+l’Eternel?” (v. 4,5).
+   Dans les versets 6 à 12, il est clairement décrit quel est le jeûne agréable à Dieu: “Voici le jeûne
+auquel je prends plaisir:…”. Il est fait mention de toutes sortes d’attitudes à manifester envers son
+prochain, ce qui correspond parfaitement à la Parole qui dit: “Tu aimeras ton prochain comme toi-
+même”. Cette Parole fait partie des commandements donnés par l’Eternel au peuple d’Israël, et qui
+nous est rappelée par Jésus lui-même, ainsi que par les apôtres, où elle est citée dans les
+passages bibliques suivants: Lévitique 19.18; Matthieu 19.19; 22.39; Marc 12.31; Luc 10.27;
+Romains 13.8; Galates 5.14 et Jacques 2.8.
+   Jésus, dans la parabole de Luc 18.9-14 nous montre que le jeûne accompli par simple
+habitude, par coutume ou par désir de mérite, n’a aucun effet devant la face de Dieu: “Il dit encore
+cette parabole, en vue de certaines personnes se persuadant qu’elles étaient justes, et ne faisant
+aucun cas des autres: Deux hommes montèrent au temple pour prier; l’un était pharisien, et l’autre
+publicain. Le pharisien, debout, priait ainsi en lui-même: O Dieu, je te rends grâces de ce que je ne
+suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme
+ce publicain; je jeûne deux fois la semaine, je donne la dîme de tous mes revenus. Le publicain,
+se tenant à distance, n’osait même pas lever les yeux au ciel; mais il se frappait la poitrine, en
+disant: O Dieu, sois apaisé envers moi, qui suis un pécheur. Je vous le dis, celui-ci descendit
+dans sa maison justifié, plutôt que l’autre. Car quiconque s’élève sera abaissé, et celui qui
+s’abaisse sera élevé”.
+   Nous voyons par ces paroles, quelles attitudes et quel état d’esprit ne devrait pas se trouver en
+chaque croyant lorsqu’il est conduit à jeûner.
+   Pour cette raison il est indispensable de déterminer pourquoi et dans quel but nous sommes
+poussés à effectuer un jeûne, et ainsi de se laisser conduire par l’Esprit pour accomplir
+correctement cette chose. Ceci pour se trouver dans la volonté de Dieu, et en accord avec la
+Parole car c’est cela qui Lui est agréable. Jésus Lui-même a montré qu’il fallait prier dans ce sens
+lorsqu’Il enseigna la prière à Ses disciples: “Notre Père qui es aux cieux! Que ton nom soit
+sanctifié; que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel…” (Mat.
+6.9,10) Il est aussi écrit: “Et le monde passe, et sa convoitise aussi; mais celui qui fait la volonté
+
+    http://www.cmpp.ch/jeune.htm
+
+LE JEUNE 2
+de Dieu demeure éternellement” (1 Jean 2.17). Dans Romains 12.2, il est écrit: “Ne vous
+conformez pas au siècle présent, mais soyez transformés par le renouvellement de l’intelligence,
+afin que vous discerniez quelle est la volonté de Dieu, ce qui est bon, agréable et parfait”. C’est
+alors que sans aucun doute, la réponse de Dieu selon Sa volonté ne pourra être que favorable, et
+sera accompagnée par Ses bénédictions selon Ses promesses.
+   Il faut reconnaître que lorsque nous sommes poussés à jeûner, c’est que nous avons
+conscience que la situation dans laquelle nous nous trouvons ou les circonstances qui nous
+touchent, ne correspondent pas ou plus du tout aux promesses se trouvant dans la Parole de
+Dieu. De ce fait l’Esprit de Dieu qui habite en nous, nous pousse à rechercher Sa volonté et cela
+au travers du jeûne et de la prière, afin que ce qui est charnel et vient de l’adversaire puisse laisser
+place à ce qui est spirituel.
+   Premièrement, avant de jeûner, le croyant doit avoir la conscience que ses péchés lui ont été
+pardonnés et qu’il en est purifié par le sacrifice de Jésus, pour ne plus être empêché d’avoir une
+réelle communion avec Dieu, car Dieu exige en tout temps la sainteté, étant un Dieu trois fois
+saint: “Saint, saint, saint est le Seigneur Dieu, le Tout-Puissant, qui était, qui est, et qui vient!”
+(Apocalypse 4.8). C’est au travers du jeûne qu’une attitude de repentance peut avoir lieu, c’est-à-dire
+que des regrets sincères lui viennent de ne pas avoir su demeurer vigilant dans Sa volonté,
+comme le Seigneur le demande à Ses disciples: “Veillez et priez, afin que vous ne tombiez pas
+dans la tentation; l’esprit est bien disposé, mais la chair est faible” (Mat. 26.41; Marc 14.38).
+   Veiller est aussi une forme de jeûne pour le corps, car veiller c’est se priver volontairement du
+sommeil pour se mettre devant la face de Dieu dans la prière. Jésus l’a bien précisé à Ses
+disciples lorsqu’Il parle du temps de Son retour, dans Marc 13.32-37: “Pour ce qui est du jour ou
+de l’heure, personne ne le sait, ni les anges dans le ciel, ni le Fils, mais le Père seul. Prenez
+garde, veillez et priez; car vous ne savez quand ce temps viendra. Il en sera comme d’un homme
+qui, partant pour un voyage, laisse sa maison, remet l’autorité à ses serviteurs, indique à chacun
+sa tâche, et ordonne au portier de veiller. Veillez donc, car vous ne savez quand viendra le maître
+de la maison, ou le soir, ou au milieu de la nuit, ou au chant du coq, ou le matin; craignez qu’il ne
+vous trouve endormis, à son arrivée soudaine. Ce que je vous dis, je le dis à tous: Veillez”.
+   Nous pouvons voir dans la Parole de Dieu, qu’il y a trois manières de jeûner, ainsi que trois
+sortes de situation dans lesquelles nous sommes poussés à pratiquer le jeûne.
+   En ce qui concerne les trois sortes de jeûne, il y a premièrement le jeûne partiel pour lequel il
+ne s’agit pas d’une abstention totale de nourriture, mais d’éviter certains aliments et boissons qui
+ne sont pas réellement saints pour le corps. Nous avons l’exemple lors des jeûnes de Daniel qui
+nous sont mentionnés dans la Bible: “Daniel résolut de ne pas se souiller par les mets du roi et par
+le vin dont le roi buvait, et il pria le chef des eunuques de ne pas l’obliger à se souiller … Eprouve
+tes serviteurs pendant dix jours, et qu’on nous donne des légumes à manger et de l’eau à boire”
+(Daniel 1.8 et 12). “En ce temps-là, moi, Daniel, je fus trois semaines dans le deuil. Je ne mangeai
+aucun mets délicat, il n’entra ni viande ni vin dans ma bouche, et je ne m’oignis point jusqu’à ce
+que les trois semaines fussent accomplies” (Daniel 3.2,3).
+   Secondement, il y a le jeûne que Jésus a pratiqué et que normalement le croyant devrait aussi
+pratiquer, c’est l’abstinence de nourriture, mais pas de boisson. L’exemple qui nous le montre est
+celui de Jésus qui se trouve dans Luc 4.1,2: “Jésus, rempli du Saint Esprit, revint du Jourdain, et il
+fut conduit par l’Esprit dans le désert, où il fut tenté par le diable pendant quarante jours. Il ne
+mangea rien durant ces jours-là, et, après qu’ils furent écoulés, il eut faim”.
+   Troisièmement, il y a le jeûne complet, qui consiste à ne prendre, ni nourriture, ni boissons,
+comme il nous est indiqué dans l’exemple d’Esdras: “Puis Esdras se retira de devant la maison de
+Dieu, et il alla dans la chambre de Jochanan, fils d’Eliaschib; quand il y fut entré, il ne mangea
+point de pain et il ne but point d’eau, parce qu’il était dans la désolation à cause du péché des
+fils de la captivité” (Esdras 10.6). Nous avons aussi l’exemple d’Esther: “Va, rassemble tous les Juifs
+qui se trouvent à Suse, et jeûnez pour moi, sans manger ni boire pendant trois jours, ni la nuit
+ni le jour. Moi aussi, je jeûnerai de même…” (Esther 4.16). Ce jeûne est effectué réellement dans
+des cas de détresse extrême.
+   Maintenant il y a trois sortes de conditions dans lesquelles nous pouvons nous trouver, qui nous
+pousse à effectuer des jeûnes. Il y a le jeûne individuel, le jeûne pour les ministères de Dieu et le
+jeûne collectif.
+
+        http://www.cmpp.ch/jeune.htm
+
+LE JEUNE 3
+   Le jeûne pratiqué individuellement et personnellement par le croyant est en premier nécessaire
+pour prendre du temps (particulièrement pour nous tous qui vivons dans un monde stressé) pour
+nourrir notre âme et chercher à connaître la volonté de Dieu en méditant Sa Parole ou par la
+prière. Il devient encore plus nécessaire de le pratiquer lorsque certaines circonstances ou
+événements importants surviennent dans notre vie. En effet, lors de décisions importantes à
+prendre dans notre vie, (par exemple: les études, le travail, le mariage, etc.), il est important de
+jeûner et prier pour que la volonté de Dieu soit révélée dans notre cœur par le Saint-Esprit, afin de
+l’accomplir. C’est justement en jeûnant et en priant que les désirs et les volontés de la chair sont
+éloignés de nous, et que la volonté de Dieu nous est révélée par Son Esprit. Il y a aussi des
+moments d’épreuves personnelles à traverser, et c’est dans ces moments, que la nature charnelle
+a tendance à attribuer la responsabilité de ces maux à Dieu ou à son prochain. Il faut également
+dire que notre prochain ayant aussi cette attitude charnelle, lui aussi attribue la raison de ces
+épreuves à celui qui est éprouvé (voir l’exemple de Job, lorsque ses amis le pressaient d’avouer
+son péché). Parfois nous sommes poussés par l’Esprit à jeûner pour des besoins de notre
+prochain que nous voyons, et qui nous touchent personnellement.
+   En ce qui concerne les différents ministères de Dieu, parce qu’ils ont une responsabilité de
+conduire et d’édifier le peuple de Dieu dans la Vérité, ils sont aussi appelés à effectuer des jeûnes
+pour premièrement connaître la volonté de Dieu et ensuite recevoir les directives de l’Esprit, et de
+cette manière accomplir le ministère dans lequel ils ont été établi par Dieu. Cela est d’autant plus
+important lorsqu’ils sont conscients que le peuple ne les écoute pas, ou plus du tout, pour prendre
+une mauvaise direction. Tout serviteur de Dieu a un travail difficile à accomplir, particulièrement
+ceux qui sont appelés à voyager pour l’Evangile, comme nous le dit Paul: “Fréquemment en
+voyage, j’ai été en péril sur les fleuves, en péril de la part des brigands, en péril de la part de ceux
+de ma nation, en péril de la part des païens, en péril dans les villes, en péril dans les déserts, en
+péril sur la mer, en péril parmi les faux frères. J’ai été dans le travail et dans la peine, exposé à de
+nombreuses veilles, à la faim et à la soif, à des jeûnes multipliés, au froid et à la nudité. Et, sans
+parler d’autres choses, je suis assiégé chaque jour par les soucis que me donnent toutes les
+Eglises” (2 Corinthiens 11.26-28). C’est bien à cause des soucis que donne l’Eglise et de la
+responsabilité que Dieu leur a donnée, qu’ils sont appelés à jeûner.
+   Au commencement de l’Eglise, nous voyons qu’avec les apôtres c’est par le jeûne et la prière
+que le Saint-Esprit a établi les ministères nécessaires: “Pendant qu’ils servaient le Seigneur dans
+leur ministère et qu’ils jeûnaient, le Saint Esprit dit: Mettez-moi à part Barnabas et Saul pour
+l’oeuvre à laquelle je les ai appelés. Alors, après avoir jeûné et prié, ils leur imposèrent les mains,
+et les laissèrent partir” (Actes 1.1-3). Plus loin nous voyons que c’est aussi par le jeûne et la prière,
+que des anciens furent choisis: “Ils firent nommer des anciens dans chaque Eglise, et, après avoir
+prié et jeûné, ils les recommandèrent au Seigneur, en qui ils avaient cru” (Actes 14.23). Par la
+suite dans l’exercice de son ministère, Paul nous indique clairement que c’est aussi à cause de
+son travail au service de l’Eglise, qu’il a dû effectuer des jeûnes. “Mais nous nous rendons à tous
+égards recommandables, comme serviteurs de Dieu, par beaucoup de patience dans les
+tribulations, dans les calamités, dans les détresses, sous les coups, dans les prisons, dans les
+troubles, dans les travaux, dans les veilles, dans les jeûnes;…”. (2 Corinthiens 6.4,5). C’est pour ces
+raisons que chaque ministère établi par Dieu est appelé à jeûner pour l’exercice de son ministère,
+et cela toujours dans le but de rechercher la volonté de Dieu pour l’édification du Corps de Christ.
+   Le jeûne collectif est accompli lorsqu’un peuple est averti, ou qu’il subit un ou plusieurs
+événements douloureux, alors c’est dans l’urgence qu’un jeûne collectif est publié. C’est là que les
+consciences sont réveillées et que l’esprit de la repentance pousse les croyants à pratiquer un
+jeûne. Nous trouvons plusieurs exemples dans la Parole de Dieu qui nous le montrent.
+   Quand Josaphat fut informé qu’une grande armée s’avançait contre lui, il est dit que “Josaphat
+se disposa à chercher l’Eternel, et il publia un jeûne pour tout Juda” (2 Chron. 20.3 – lire tout le
+chapitre 20).
+   Lorsque dans chaque ville où le peuple Juif prit connaissance de l’édit publié par Haman, écrit
+sous le sceau du roi pour l’extermination du peuple Juif, à cause de cette annonce terrible il est dit
+que les Juifs jeûnaient: “Dans chaque province, partout où arrivaient l’ordre du roi et son édit, il y
+eut une grande désolation parmi les Juifs; ils jeûnaient, pleuraient et se lamentaient, et beaucoup
+se couchaient sur le sac et la cendre” (Esther 4.3). Lorsqu’Esther prit connaissance par Mardochée
+de l’édit publié par le roi concernant l’extermination de son peuple et qu’elle en prit réellement
+
+        http://www.cmpp.ch/jeune.htm
+
+LE JEUNE 4
+conscience, elle dit à son oncle: “Va, rassemble tous les Juifs qui se trouvent à Suse, et jeûnez
+pour moi, sans manger ni boire pendant trois jours, ni la nuit ni le jour. Moi aussi, je jeûnerai de
+même avec mes servantes, puis j’entrerai chez le roi, malgré la loi; et si je dois périr, je périrai”
+(Esther 4.16 – lire tout le chapitre).
+   Nous avons aussi un exemple avec le peuple païen et incrédule de Ninive, qui écouta les
+avertissements et se repentit de ses mauvaises actions lorsque Jonas annonça la destruction de
+leur ville; il est dit que “Les gens de Ninive crurent à Dieu, ils publièrent un jeûne, et se revêtirent
+de sacs, depuis les plus grands jusqu’aux plus petits” (Jonas 3.5 — Lire tout Jonas).
+   Mais nous devons aussi prendre garde au jeûne publié et effectué sans discernement, sans
+que l’on prenne garde à la Parole inspirée par Dieu. Dans Jérémie 36.9,10 il est dit que “La
+cinquième année de Jojakim, fils de Josias, roi de Juda, le neuvième mois, on publia un jeûne
+devant l’Eternel pour tout le peuple de Jérusalem et pour tout le peuple venu des villes de Juda à
+Jérusalem Et Baruc lut dans le livre les paroles de Jérémie, aux oreilles de tout le peuple, dans la
+maison de l’Eternel…”. Nous voyons ici que le roi n’écouta pas les menaces prononcées par
+l’Eternel et que les malheurs annoncés pour tout le peuple eurent lieu: “… Je le châtierai, lui, sa
+postérité, et ses serviteurs, à cause de leur iniquité, et je ferai venir sur eux, sur les habitants de
+Jérusalem et sur les hommes de Juda tous les malheurs dont je les ai menacés, sans qu’ils aient
+voulu m’écouter” (Jérémie 36.31).
+   Il y a aussi des jeûnes collectifs accomplis avec de mauvais desseins, selon des convoitises
+charnelles, dans l’intention de faire un procès, comme nous le montre l’exemple du jeûne publié
+par Jézabel au nom d’Achab, afin de tuer Naboth qui ne voulait pas donner son héritage au roi:
+“Voici ce qu’elle écrivit dans ces lettres: Publiez un jeûne; placez Naboth à la tête du peuple, et
+mettez en face de lui deux méchants hommes qui déposeront ainsi contre lui: Tu as maudit Dieu et
+le roi! Puis menez-le dehors, lapidez-le, et qu’il meure. Les gens de la ville de Naboth, les anciens
+et les magistrats qui habitaient dans la ville, agirent comme Jézabel le leur avait fait dire, d’après
+ce qui était écrit dans les lettres qu’elle leur avait envoyées. Ils publièrent un jeûne, et ils
+placèrent Naboth à la tête du peuple; les deux méchants hommes vinrent se mettre en face de
+lui, et ces méchants hommes déposèrent ainsi devant le peuple contre Naboth: Naboth a maudit
+Dieu et le roi! Puis ils le menèrent hors de la ville, ils le lapidèrent, et il mourut. Et ils envoyèrent
+dire à Jézabel: Naboth a été lapidé, et il est mort” (1 Rois 21.9-14). Nous voyons plus loin dans le
+chapitre, qu’Achab s’est repenti et a effectué un véritable jeûne: “Après avoir entendu les paroles
+d’Elie, Achab déchira ses vêtements, il mit un sac sur son corps, et il jeûna; il couchait avec ce
+sac, et il marchait lentement. Et la parole de l’Eternel fut adressée à Elie, le Thischbite, en ces
+mots: As-tu vu comment Achab s’est humilié devant moi? Parce qu’il s’est humilié devant moi,
+je ne ferai pas venir le malheur pendant sa vie; ce sera pendant la vie de son fils que je ferai venir
+le malheur sur sa maison” (1 Rois 21.27-29).
+   Jésus nous donne un enseignement concernant la manière de le faire, ainsi que la raison pour
+laquelle on l’accomplit, lequel est très explicites: “Lorsque vous jeûnez, ne prenez pas un air triste,
+comme les hypocrites, qui se rendent le visage tout défait, pour montrer aux hommes qu’ils
+jeûnent. Je vous le dis en vérité, ils reçoivent leur récompense. Mais quand tu jeûnes, parfume ta
+tête et lave ton visage, afin de ne pas montrer aux hommes que tu jeûnes, mais à ton Père
+qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra” (Mat. 6.16-18).
+Cela correspond à ce qu’Il a dit précédemment au sujet de la prière: “… Mais quand tu pries, entre
+dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le lieu secret; et ton Père, qui voit
+dans le secret, te le rendra…” (v. 6). Nous voyons bien que la prière et le jeûne sont associés et
+que cela doit être accompli comme un acte de foi envers notre Père céleste et non pour être vu ou
+être glorifié par les hommes à cause de ce que nous le pratiquons.
+   Dans le chapitre 2 de Joël il est clairement parlé du retour de Christ, et aux versets 12 et 13 il
+est dit: “Revenez à moi de tout votre coeur, avec des jeûnes, avec des pleurs et des
+lamentations! Déchirez vos coeurs et non vos vêtements, et revenez à l’Eternel, votre Dieu;
+Car il est compatissant et miséricordieux, Lent à la colère et riche en bonté, Et il se repent des
+maux qu’il envoie…”. Cela nous montre clairement l’attitude adéquate d’une profonde repentance,
+sincère et vraie, dépouillée de toutes circonstances atténuantes envers notre comportement. C’est
+la véritable démonstration de notre prise de conscience de la nécessité d’un changement intérieur,
+dans notre cœur, pour permettre au Saint-Esprit d’accomplir Son œuvre en nous, comme Paul l’a
+expérimenté lorsqu’il nous dit: “J’ai été crucifié avec Christ; et si je vis, ce n’est plus moi qui vis,
+
+        http://www.cmpp.ch/jeune.htm
+
+LE JEUNE 5
+c’est Christ qui vit en moi; si je vis maintenant dans la chair, je vis dans la foi au Fils de Dieu, qui
+m’a aimé et qui s’est livré lui-même pour moi” (Galates 2.20). C’est dans cet état d’esprit de recherche
+que le véritable jeûne doit être effectué par le croyant. Il doit réellement désirer être transformé par
+le Saint-Esprit, en abandonnant ses propres pensées et ses voies charnelles, pour permettre aux
+sentiments se trouvant en Jésus-Christ de se développer en nous-mêmes: “Que chacun de vous,
+au lieu de considérer ses propres intérêts, considère aussi ceux des autres. Ayez en vous les
+sentiments qui étaient en Jésus Christ” (Philippiens 2.4-5).
+   Nous voyons donc que c’est réellement le but principal pour les disciples de Jésus-Christ, être
+transformés à l’image de leur Maître et Seigneur par le Saint-Esprit promis. “Quand le consolateur
+sera venu, l’Esprit de vérité, il vous conduira dans toute la vérité”, car Dieu cherche des adorateurs
+en esprit et en vérité: “Mais l’heure vient, et elle est déjà venue, où les vrais adorateurs adoreront
+le Père en esprit et en vérité; car ce sont là les adorateurs que le Père demande. Dieu est Esprit,
+et il faut que ceux qui l’adorent l’adorent en esprit et en vérité” (Jean 4.22,23), “Or, le Seigneur
+c’est l’Esprit; et là où est l’Esprit du Seigneur, là est la liberté. Nous tous qui, le visage découvert,
+contemplons comme dans un miroir la gloire du Seigneur, nous sommes transformés en la
+même image, de gloire en gloire, comme par le Seigneur, l’Esprit” (2 Corinthiens 3.17-18). C’est pour
+cette raison qu’avec le véritable jeûne, lorsque le cœur est bien disposé, le croyant est transformé
+à l’image du Fils premier-né, notre Seigneur Jésus-Christ. Il est alors puissamment béni et devient
+un instrument de bénédiction pour toute l’humanité, et pour la création entière, car il est écrit:
+“Aussi la création attend-elle avec un ardent désir la révélation des fils de Dieu” (Romains 8.20).
+   Pour les véritables croyants, disciples de Jésus-Christ appelés à former l’Epouse de Christ, il
+s’agit maintenant de bien saisir et de bien comprendre la raison réelle du jeûne dans ce temps de
+la fin, avant le retour de Jésus-Christ. A ce sujet nous devons lire dans Matthieu 9, versets 14 et
+15: “Alors les disciples de Jean vinrent auprès de Jésus, et dirent: Pourquoi nous et les pharisiens
+jeûnons-nous, tandis que tes disciples ne jeûnent point? Jésus leur répondit: Les amis de l’époux
+peuvent-ils s’affliger pendant que l’époux est avec eux? Les jours viendront où l’époux leur
+sera enlevé, et alors ils jeûneront”. (Paroles se trouvant aussi dans Marc 2.18-20 et Luc 5.33-
+35). Dans Jean 15.13-15, Jésus nous dit qui sont les amis de l’époux: “Il n’y a pas de plus grand
+amour que de donner sa vie pour ses amis (ce que Jésus a fait pour nous). Vous êtes mes amis,
+si vous faites ce que je vous commande. Je ne vous appelle plus serviteurs, parce que le
+serviteur ne sait pas ce que fait son maître; mais je vous ai appelés amis, parce que je vous ai
+fait connaître tout ce que j’ai appris de mon Père”.
+   Nous voyons que tant que Jésus était présent physiquement avec Ses disciples sur cette terre il
+n’y avait pas de raison de jeûner. Mais le jour où l’époux leur a été enlevé, alors c’est là qu’ils ont
+commencé à jeûner; nous voyons clairement la réalité de ce fait avec les premiers apôtres et les
+disciples de Jésus-Christ. C’est l’absence physique du Seigneur qui les poussa à jeûner. Il est
+présent par le Saint-Esprit pour nous consoler de Son absence comme Il l’a promis (Jean 14 à 16),
+mais nos yeux languissent de le voir revenir et d’être avec Lui pour l’Eternité. Il nous L’a promis
+dans Jean 14.3: “Et, lorsque je m’en serai allé, et que je vous aurai préparé une place, je
+reviendrai, et je vous prendrai avec moi, afin que là où je suis vous y soyez aussi”. S’Il nous
+prépare une place, il nous est aussi demandé de Lui préparer une place dans notre cœur, afin que
+ce cœur soit le temple du Saint-Esprit, comme il nous est dit dans Ephésiens 3.16-17: “… afin qu’il
+vous donne, selon la richesse de sa gloire, d’être puissamment fortifiés par son Esprit dans
+l’homme intérieur, en sorte que Christ habite dans vos cœurs par la foi…”. Pour cette raison, il
+faut que nos cœurs soient préparés à Sa volonté d’habiter en nous, et que véritablement notre
+trésor soit ce désir de voir notre Seigneur Jésus revenir. “Car là où est ton trésor, là aussi sera ton
+cœur” (Mat. 6.21). Il faut bien comprendre que le retour de Jésus-Christ annoncé dans Actes 1.11,
+“Ce Jésus, qui a été enlevé au ciel du milieu de vous, viendra de la même manière que vous
+l’avez vu allant au ciel”, ce retour est vraiment une réalité pour nous qui vivons dans ce temps de
+fin. Ce prochain retour de Jésus-Christ est destiné à Ses disciples, à ceux qui font partie de ces
+vierges sages, qui sont appelés à former Son Epouse.
+   En ce qui concerne l’Epouse de Christ, avant d’être enlevée pour être avec le Seigneur elle doit
+rendre dans ce monde le témoignage puissant de la vie de Jésus-Christ se manifestant en chaque
+croyant. Nous sommes appelés à faire cela, car Il a dit: “En vérité, en vérité, je vous le dis, celui
+qui croit en moi fera aussi les œuvres que je fais, et il en fera de plus grandes, parce que je
+m’en vais au Père” (Jean 14.12). En ce qui concerne le jeûne, il en est comme pour Jésus, qui
+
+        http://www.cmpp.ch/jeune.htm
+
+LE JEUNE 6
+avant de manifester Son ministère du Fils de l’homme a jeûné 40 jours, comme nous l’avons vu
+précédemment. Pour l’Epouse il en sera de même, car elle est appelée à jeûner pour recevoir la
+puissance du Saint-Esprit dans le but de manifester le ministère qu’Elle doit accomplir, en ce
+temps de la fin. Cela afin d’avoir la puissance et l’autorité de porter ce puissant Evangile du
+royaume des cieux, que Dieu confirmera par les signes et les miracles: “Allez, prêchez, et dites: Le
+royaume des cieux est proche. Guérissez les malades, ressuscitez les morts, purifiez les lépreux,
+chassez les démons. Vous avez reçu gratuitement, donnez gratuitement” (Mat. 10.7,8). Après
+avoir accompli cet ordre, nous voyons quelque temps après ce qui se passa: “Lorsqu’ils furent
+arrivés près de la foule, un homme vint se jeter à genoux devant Jésus, et dit: Seigneur, aie pitié
+de mon fils, qui est lunatique, et qui souffre cruellement; il tombe souvent dans le feu, et souvent
+dans l’eau. Je l’ai amené à tes disciples, et ils n’ont pas pu le guérir”. Jésus le guérit… “Alors les
+disciples s’approchèrent de Jésus, et lui dirent en particulier: Pourquoi n’avons-nous pu chasser ce
+démon? C’est à cause de votre incrédulité, leur dit Jésus. Je vous le dis en vérité, si vous aviez de
+la foi comme un grain de sénevé, vous diriez à cette montagne: Transporte-toi d’ici là, et elle se
+transporterait; rien ne vous serait impossible. Mais cette sorte de démon ne sort que par la
+prière et par le jeûne” (Mat. 17.19-21). Le disciple de Jésus-Christ doit, dans certains cas de
+maladie, se mettre en prière et jeûner pour que le démon soit chassé. Le disciple n’a aucune
+puissance en lui-même, mais s’il s’humilie devant Dieu, alors Dieu peut se manifester dans Sa
+Toute-puissance et donner Son autorité.
+   Jusqu’à présent, les jeûnes ont été pratiqués et ordonnés dans toutes les religions et par les
+diverses dénominations, car toutes croient qu’elles sont la véritable Eglise, l’Epouse de Christ.
+Mais en ce qui concerne les croyants qui ont reçu ce message pour le temps de la fin nécessaire
+et indispensable à la préparation de l’Epouse, ils n’ont pas encore véritablement exercé le jeûne
+auquel le Seigneur prend plaisir, dans le but bien précis de faire avancer la préparation de Son
+retour. Le peuple s’est endormi après avoir entendu parler et vu la manifestation de Dieu au
+travers du ministère particulier de frère Branham. Nous n’avons pas su prendre garde au fait que
+ce ministère était un ministère particulier pour préparer l’Epouse de Christ à l’enlèvement. Frère
+Branham, dans son ministère a beaucoup jeûné et prié pour connaître la volonté de Dieu. Il a
+mentionné dans une prédication, quel était le but de sa vie, le désir de son cœur: «La seule ambition
+que j’aie eue depuis que je vis, depuis que j’étais un petit garçon, c’était de voir Jésus-Christ venir. J’ai donné
+ma vie pour ce but». [Le patriarche Abraham, Série 6 n° 5, § 76] Bien souvent, lorsque la présence
+Divine dans toute sa splendeur se manifestait dans les rencontres, il croyait que cela allait arriver
+sur le champ. Ceci n’était cependant qu’un avant-goût de la manifestation de l’Epouse de Christ
+promise avant Son retour. Frère Branham, lui-même indiquait qu’il fallait jeûner en vue des
+événements qui arrivaient: «Le monde nous assaille. Nos églises se démembrent. Les hommes sont divisés et
+semblent ne plus avoir la foi. Ils coupent les cheveux en quatre au sujet de doctrines insignifiantes. Nous devrions
+nous réunir tous ensemble et prier, jeûner, appeler, jusqu’à ce que Dieu nous envoie le Saint-Esprit afin que
+nous puissions avoir le discernement spirituel. Nous sommes maintenant à la dernière heure. Nous sommes dans
+l’ombre de la venue du Seigneur et l’église ne peut pas le discerner. Il est déjà beaucoup plus tard que nous ne
+pensons!» [Discerner le Corps du Seigneur, Série 1, n° 12]. Que devons-nous dire aujourd’hui?
+C’est pour cette raison que dans ce temps de la fin, un appel nous est adressé, nous demandant
+de nous humilier devant la face de Dieu par le jeûne, car nous n’avons pas effectué ce que nous
+aurions dû accomplir. Cela vient de l’assouplissement et du sommeil survenus dans nos
+consciences. En vérités, nos vies n’ont pas été soumises entièrement à Lui, et le Saint-Esprit ne
+peut pas habiter entièrement dans notre cœur et accomplir Son œuvre en nous. Il est donc
+nécessaire que nos vies soient restaurées par le Saint-Esprit, car c’est dans une pleine
+manifestation de l’Esprit que chaque croyant formant l’Epouse, puisse dire en pleine harmonie ce
+qui est écrit: “l’Esprit et l’épouse disent: Viens”. Nous trouvons cette Parole dans le dernier chapitre
+de l’Apocalypse, où Jésus nous dit: “Oui je viens bientôt”, et alors nous pourrons dire: “Amen (Qu’il
+en soit ainsi!) Viens Seigneur Jésus”.
+   Que le Seigneur vous bénisse tous. Maranatha!
+
+
+
+    Editeur:
+    Centre Missionnaire de la Parole Parlée, Case Postale 5633, 1002 Lausanne (Suisse)
+    Internet: http://www.cmpp.ch / E-Mail: info@cmpp.ch
+
+        http://www.cmpp.ch/jeune.htm

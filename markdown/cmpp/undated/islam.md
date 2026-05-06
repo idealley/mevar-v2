@@ -1,0 +1,579 @@
+    LA RELIGION
+    DE L’ISLAM
+  A LA LUMIERE
+ DES EVENEMENTS
+MONDIAUX ACTUELS
+
+
+
+
+
+
+
+    EWALD FRANK
+
+    LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS    2
+
+      LA RELIGION
+       DE L’ISLAM
+      A LA LUMIERE
+     DES EVENEMENTS
+    MONDIAUX ACTUELS
+
+    Dans ce court exposé je m’en tiendrai à la règle d’or: “Toutes les choses donc que vous
+voulez que les hommes vous fassent, faites-les-leurs, vous aussi, de même…” (Mat. 7.12). En fin
+de compte nous sommes tous à la recherche de la Vérité qui devrait être partagée par tous les
+hommes de bonne volonté. Cependant, la Vérité Elle-même ne se trouve pas chez les hommes,
+mais bien uniquement auprès de Dieu, qui seul est le Véritable (Romains 3.4). Le plus grand
+commandement devrait être de ne pas toucher à l’honneur de Dieu en Lui attribuant des choses
+qui tirent leur origine des hommes et non de Lui. Avec le respect dû envers toute croyance et toute
+religion, le monde a certainement encore le droit, suite aux derniers événements, d’être informé au
+sujet de l’Islam. Il n’y a sur la terre, ou même dans l’univers, rien dont l’existence ne serait justifiée.
+Cela concerne également toutes les religions. Toute la création, bonne ou mauvaise, de même
+que les choses du domaine religieux, doivent être laissées à la responsabilité du Créateur, Lequel
+est le Juge suprême.
+    Depuis le 11 septembre 2001 l’Islam est devenu dans les média, et même sur Internet, le
+thème N° 1. Les livres relatifs à ce sujet furent épuisés en l’espace de quelques jours. Dans
+beaucoup de pays les mosquées, à l’occasion de leur journée «porte ouverte» pour les non-
+musulmans, ont eu un afflux de visiteurs comme jamais auparavant. L’humanité doit se rendre
+compte que, depuis ce jour mémorable, le monde ne sera plus le même. Le trafic aérien est en
+crise dans le monde entier, également les divers secteurs de l’économie qui sont liés entre eux de
+façon internationale. De même le 7 octobre 2001, jour où les Etats-Unis ont lancé leur attaque
+militaire contre l’Afghanistan, entrera également dans l’histoire. Beaucoup de personnes sont
+persuadées qu’il eut été préférable de réagir à la manière de Christ: “Père, pardonne-leur, car ils
+ne savent pas ce qu’ils font” (Luc 23.34). Et: “Ne rendant à personne mal pour mal…ne vous
+vengeant pas vous-mêmes, bien-aimés; mais laissez agir la colère, car il est écrit: A moi la
+vengeance; moi, je rendrai, dit le Seigneur” (Romains 12.17-19). Le 8 octobre 2001 le monde entier
+pouvait voir une vidéo d’Osama Ben Laden et entendre sa déclaration: «La ‹guerre sainte› contre
+les Juifs et les Chrétiens a commencé… Allah a béni un groupe de l’avant-garde
+musulmane pour détruire l’Amérique. Allah le bénisse et lui donne une place dans le ciel».
+Nous ne sommes pas surpris de cela, parce que la «guerre sainte» est réellement annoncée à
+l’avance dans beaucoup de passages des prophéties bibliques. En présence des choses qui sont
+arrivées plusieurs craignent que les événements apocalyptiques n’aient déjà commencés. En
+Allemagne, quelques jours seulement après la terrible attaque sur les Etats-Unis, tous les
+exemplaires du Coran étaient déjà épuisés. Tous veulent s’informer personnellement sur le livre
+saint des Musulmans. Ceux qui réfléchissent un peu plus voudraient aussi en savoir davantage sur
+l’enseignement de Mahomet. En de tels jours, riches en événements, la question définitive doit
+réellement être posée au fondateur de la religion concernée.
+    L’attaque des terroristes sur les Etats-Unis, comme l’attaque contre les terroristes en
+Afghanistan, où ce sont toujours des innocents qui en souffrent, est encore à présent
+incompréhensible, tout simplement inconcevable. Osama Ben Laden et son organisation terroriste
+ont osé détruire le Centre Mondial du Commerce à New York. Les orgueilleux gratte-ciel, en
+l’espace de 105 minutes, furent réduits en débris et en cendres. Dans cet enfer incompréhensible
+moururent des milliers de personnes, provenant d’environ 60 nations. L’objectif principal des
+terroristes, qui était la Maison Blanche, la résidence du président des Etats-Unis d’Amérique, de la
+plus grande nation sur la terre, fut cependant manqué. A seulement quelques mètres de là, l’avion
+se précipita sur le Pentagone entraînant des centaines de militaires et d’employés civils dans la
+mort. L’attaque programmée sur Camp David fut déjouée par les passagers qui attaquèrent ceux
+qui avaient détourné l’avion. Jusqu’à ce jour-là les organisations terroristes islamistes avaient
+dirigé leurs attaques principalement contre Israël. Cependant ils ont à présent trouvé leur chemin
+
+    http://www.cmpp.ch
+
+LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS 3
+au-delà de l’Atlantique, et dès lors le monde entier prend conscience de leur existence réelle. La
+pratique de la terreur en divers pays était certainement connue, pourtant avec l’attaque contre les
+Etats-Unis une nouvelle dimension a été donnée à toutes choses. Le président George W. Bush,
+dans son pacte anti-terrorisme, fait aussi entrer «dans son bateau» de ceux qui sont eux-mêmes
+absolument coupables de terrorisme.
+    Cela marque aussi un tournant dans le processus de paix au Proche-Orient, lequel influence
+les événements du temps de la fin. Ce qui est arrivé le 11 septembre 2001 a fait rester bouche bée
+l’ensemble des têtes pensantes de la terre, et il a introduit une ère nouvelle, tout particulièrement
+en Israël. Qu’avaient donc fait les milliers de personnes innocentes qui chaque jour gagnaient leur
+pain dans le Centre Mondial du Commerce? Qu’ont fait les Etats-Unis à Ben Laden, aux Talibans,
+ou à une des autres nombreuses organisations terroristes islamistes? Tous ceux qui sont au
+courant de l’histoire récente savent qu’après la deuxième guerre mondiale, deux super-puissances
+apparurent. L’Empire Britannique avait disparu, l’Empire Allemand s’était écroulé et l’Europe
+entière s’était retrouvée en ruine. Le monde fut partagé en Est et Ouest: d’un côté l’URSS, de
+l’autre les Etats-Unis. La ligne de séparation s’étendit au travers même de l’Allemagne, et la divisa
+entre l’Allemagne de l’Est et l’Allemagne de l’Ouest. Même Berlin, sa capitale, fut partagée en un
+secteur occidental et un secteur oriental.
+    Evidemment que pendant la «guerre froide» qui suivit, il y eut sans cesse des confrontations
+entre les deux super-puissances, comme par exemple la crise de Cuba et celle de Berlin, en 1960
+et 1961. Lorsque les troupes soviétiques occupèrent l’Afghanistan à la fin décembre 1979, le
+gouvernement des Etats-Unis en juin 1980 trouva nécessaire de décréter un embargo contre
+l’URSS. C’est à ce moment là que la CIA, le service secret des Etats-Unis, pour opposer une
+résistance armée recruta et forma Ben Laden de même que le groupe des Talibans — en tout
+35 000 hommes venant de 43 pays islamiques. Toute l’action était d’abord dirigée contre les
+troupes soviétiques occupant le pays. Ceci coûta au gouvernement des Etats-Unis, dans les
+années 1980 du siècle passé, 3 milliards de dollars.
+    Comment Ben Laden en est-il arrivé à cette position anti-américaine, lui qui certainement
+n’est pas prêt à mourir, mais qui, pourtant, fait former des jeunes gens pour des attentats suicides,
+en leur promettant le paradis, et pour leur famille qu’ils laissent derrière eux il promet la sécurité
+matérielle, avant de les envoyer à la mort? Le premier essai d’attentat se fit en 1998, lorsque les
+ambassades américaines à Nairobi (Kenya) et Dar-es-Salam (Tanzanie) explosèrent dans les airs.
+Cette fois-ci c’est la capitale politique des Etats-Unis et le Centre Mondial du Commerce qui ont
+été les cibles. On ne peut pas se représenter quelle sorte de caractère, et de quelle brutalité il faut
+être animé pour assassiner les pilotes et ensuite diriger l’avion avec tous ses occupants contre les
+tours du Centre Mondial du Commerce. Il faut se représenter cela: des pères et des mères
+innocents se trouvaient dans l’avion et subirent une mort inattendue. Quelle sorte de tourments
+ont-ils dû subir au dernier moment de leur vie? Au total sont restés 15 000 orphelins. Il n’y a pour
+les responsables de telles actions aucune excuse. Les services secrets qui travaillent à plein
+régime ont découvert des documents appartenant à 19 pirates de l’air, dont 11 venaient de l’Arabie
+Saoudite, le pays d’origine de Mahomet et de l’Islam, avec les dernières déclarations motivées par
+leur religion. A la lecture des paroles écrites au cours de leur dernière nuit par les pilotes candidats
+à la mort, comme par exemple: «Cette vie est terrible, mais celle dans le paradis, où nous
+irons demain, est pleine de fleurs, de ruisseaux et de gloire, où nous nous réjouirons pour
+toujours de la vie », surgit cette question justifiée: Qu’est-ce que dit véritablement Mahomet, cet
+homme en qui tous ces meurtriers croient comme étant leur prophète? Qu’enseigne le Coran sur
+le «Djihad» — la «guerre sainte», le sixième et dernier pilier sur lequel l’Islam fonde sa foi?
+    Conformément à la Surate LXVI, 9 les incrédules sont appelés des hypocrites et ils sont la
+cible directe du «Djihad».
+    «O Prophète! Fais la guerre aux infidèles et aux hypocrites, soit sévère à leur égard. La
+géhenne sera leur demeure. Quel détestable séjour!» (Surate LXVI, 9; cfr. IX, 41).
+    Selon la Surate XLIX, 15 la promptitude à combattre pour le «Djihad» est un signe distinctif de
+la véritable piété islamique. Elle est placée sur le même rang que la foi en Allah et dans le
+prophète Mahomet.
+
+        http://www.cmpp.ch
+
+    LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS    4
+    «Les vrais croyants sont ceux qui ont cru en Dieu (Allah) et à son apôtre, et qui ne
+doutent plus, qui combattent de leurs biens et de leur personne dans le sentier de Dieu
+(Allah). Ceux-là sont sincères dans leurs paroles (Surate XLIX, 15).
+    Dans le «dialogue chrétien-islamique» sur Internet, nous trouvons ceci: «La tradition
+également tient le ‹Djihad› en grand estime lorsqu’elle dit: Le ‹Djihad› est une des portes
+pour le paradis», ou encore: «Le ‹Djihad› est un acte de pur don de soi à Allah».
+    La question suivante est: De quelle façon Ben Laden et les conducteurs religieux de l’Islam,
+interprètent-ils et justifient-ils ce qui se trouve dans le Coran?
+
+        LE TEMPS DE MAHOMET
+    Mahomet est né en 570, il a donc vécu presque 600 ans après Christ. En 613 il a commencé
+sa mission à La Mecque. Après sa mort en 632 ses successeurs, et plus particulièrement Abu
+Bakr, commencèrent à répandre de toute leur force les enseignements qu’il avait laissés, car
+l’envoyé prétendait les avoir reçus de l’ange Gabriel. Mahomet lui-même était analphabète, il ne
+pouvait pas davantage lire qu’écrire. A l’âge de vingt-cinq ans il maria une femme âgée de
+quarante années, mais riche, la marchande Khadija. Son premier mari était décédé et son second
+mari l’avait abandonnée. Elle avait eu des enfants des deux maris et c’est ainsi que le relativement
+jeune Mahomet reçu déjà par ce mariage une grande famille.
+    Durant le temps de mon séjour en Egypte, dans les années 1980, j’ai lu le Coran, d’une
+couverture à l’autre. Le texte en arabe se trouve toujours sur la page de droite du livre, et j’ai lu la
+traduction en anglais se trouvant sur la page de gauche. Après avoir lu les 114 Surates —
+chapitres, avec leurs 6.348 versets, ainsi que l’introduction, je dus me poser la question définitive
+que je m’étais déjà souvent posée pendant la lecture: «Où se trouve le Message de Dieu dans ce
+livre?». Sans cesse et toujours, il n’y est relaté que ce que le prophète a dit, mais pas une seule
+fois on n’y trouve une promesse de Dieu en rapport avec la rédemption ou la réconciliation avec
+Lui. Nous devons prendre en considération que déjà à cette époque, le Christianisme copte se
+trouvait largement répandu sur la presqu’île arabique. La foi juive était déjà depuis longtemps
+connue dans toute la région, plus particulièrement à La Mecque et aussi à Médine, qui s’appelait
+auparavant Jathrib.
+    Les rabbins juifs lisaient chaque sabbat la Torah, les cinq livres de Moïse, mais ils
+enseignaient aussi le Talmud. Le Talmud de Jérusalem fut publié en 375 ap. J.-C., et le Talmud de
+Babylone, environ en 500 ap. J.-C. Malheureusement on ne trouve dans aucun des deux la Parole
+de Dieu dans Sa forme originelle, mais uniquement les diverses déclarations et interprétations sur
+la Parole de Dieu, sorties de la bouche ou de la plume des divers rabbins. Ce qui est surprenant,
+c’est que dans les deux Talmuds les événements du Nouveau Testament concernant Jésus-Christ
+n’ont pas été pris en considération. Pas une seule fois n’y est cité le fait que lors de la venue du
+Messie plus de 100 paroles prophétiques de l’Ancien Testament se sont accomplies littéralement.
+Parce que les Juifs n’ont pas accepté Jésus-Christ comme leur Sauveur, ils repoussent le
+Nouveau Testament et ne comprennent pas que dans le Nouveau Testament 845 passages de
+l’Ancien y sont cités. Cependant, les Juifs sont demeurés fidèles à l’enseignement de la Torah et
+croient à l’existence d’un Dieu seul et unique. Le credo — la profession de foi que le Seigneur
+Dieu d’Israël leur a commandé, a pour eux la plus grande priorité. “Ecoute, Israël: L’Eternel,
+notre Dieu, est un seul Eternel. Et tu aimeras l’Eternel, ton Dieu, de tout ton coeur, et de
+toute ton âme, et de toute ta force” (Deutéronome 6.4-5).
+    Au temps de Mahomet, les Juifs ont mis l’accent tout particulièrement sur deux passages
+bibliques. Le premier se trouve dans Deutéronome 18:15: “L’Eternel, ton Dieu, te suscitera un
+prophète comme moi, du milieu de toi, d’entre tes frères, vous l’écouterez…”. Cette promesse se
+rapporte à la venue du Messie, Lequel est encore aujourd’hui attendu ardemment par les Juifs. Le
+deuxième passage se trouve dans Malachie 4.5: “Voici, je vous envoie Elie, le prophète, avant que
+vienne le grand et terrible jour de l’Eternel”. Ce jour est décrit comme étant le jour du jugement, qui
+brûlera comme un four. Le Seigneur Dieu a donné Lui-même cette promesse que nous venons de
+mentionner.
+    Déjà en ce temps-là les Juifs croyaient et vivaient dans l’attente de l’accomplissement de ces
+promesses, qui étaient la venue du prophète Elie comme messager avant celle du Messie.
+
+    http://www.cmpp.ch
+
+    LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS    5
+Mahomet eût comme premier contact religieux les rabbins considérés de la communauté juive de
+La Mecque. Il se familiarisa avec les choses dont ils s’entretenaient, et de ce moment-là il les
+appela «le peuple de l’Ecriture», ou «le peuple du Livre». Tout à coup, l’idée lui vint qu’il pouvait
+être cet envoyé devant entrer en scène avant que n’arrive le grand et terrible jour de l’Eternel,
+événement que les Juifs mettaient en relation avec la venue du Messie. C’est pourquoi il a souvent
+parlé «du dernier jour», du « jour du jugement», du «jour de la résurrection», jusqu’à ce qu’il fasse
+cette déclaration: «Allah est Dieu et je suis son prophète — son envoyé». Il ne savait pas lire
+l’hébreux, et à cause de cela il n’avait aucune connaissance personnelle de ce que Dieu avait
+promis dans l’Ancien Testament. Il n’était pas davantage en mesure de lire le grec, et ainsi il ne
+pouvait pas savoir ce que Dieu, dans le Nouveau Testament, avait accompli selon Ses promesses.
+Il a souvent sorti de sa mémoire des citations des prophètes de l’Ancien Testament, mais aucune
+fois il n’a redonné correctement le verset biblique. Pour un connaisseur et un croyant de la Bible,
+cela fait mal de lire ces déclarations déformées qu’il fit. De même en ce qui concerne les versets
+du Nouveau Testament qu’il cite, aucune fois il ne les a rapportés tels qu’ils étaient réellement
+écrits. Marie, la mère de Jésus, reçoit dans le Coran un certain honneur sous le nom de Miriam.
+Elle est la seule femme dont le nom soit mentionné dans ce livre, et il est même cité trente quatre
+fois. C’est exactement le même nombre de fois qu’un véritable Musulman doit se prosterner,
+durant les cinq prières quotidiennes devant Allah, le visage contre terre et tourné vers La Mecque.
+     Jésus, qui est appelé Isa, est mentionné seulement vingt-cinq fois dans le Coran. Des
+quatorze femmes que Mahomet avait, seulement Khadija, sa première femme, est mentionnée
+dans une introduction. Sa fille Fatima, qui fut mariée avec son neveu Alì, semble avoir été
+importante pour le prophète car son nom apparaît dans d’autres livres de Mahomet, mais pas dans
+le Coran. Khadija y est mentionnée, parce qu’elle a vécu avec lui journellement les hauts et les
+bas de Mahomet. C’est elle qui devait éprouver l’esprit qui venait sur lui. Mahomet se sentait lui-
+même tourmenté par cet esprit. Mais elle déclara que c’était un bon esprit. A part cela toutes les
+autres personnes de son entourage qui lui étaient proches avaient leurs doutes sur ce point. Ceux
+qui le connaissaient le mieux considéraient qu’il avait à faire à des forces magiques, cela
+particulièrement parce que ses trois fils étaient morts d’une manière mystérieuse.
+
+     MAHOMET ET LES CHRETIENS
+
+     Les discussions avec les Chrétiens se présentèrent pour Mahomet sensiblement plus
+difficiles. En ce temps-là, dans l’ensemble de l’Empire Romain, tous ceux qui appartenaient à
+l’Eglise d’Etat, devaient croire au dogme de la Trinité, qui avait été introduite déjà auparavant et
+qui, depuis l’an 380, devint obligatoire pour tous. Ce dogme dit que Dieu existe dans le ciel en trois
+Personnes. On prétend que le Fils fut engendré par le Père et qu’Il devint alors une autre
+Personne à l’intérieur de la Divinité même. L’argument principal de Mahomet était: l’impossibilité
+absolue pour Dieu d’avoir un Fils dans le ciel, qui lui aussi aurait été Dieu. Mahomet, qui avait
+d’abord été en contact avec les enseignements des Juifs, était prêt à croire que Dieu était UN
+SEUL, hors Duquel aucun autre n’existait. Mais, ensuite, il fut confronté à un enseignement
+entièrement différent: qu’il devait exister trois Personnes divines dans le ciel. Dans un état de
+totale confusion à cet égard, il maudit aussi bien les Juifs que les Chrétiens vingt fois, disant que
+dans ce monde aussi bien que dans celui à venir ils seraient punis, et que seuls ceux qui
+accepteraient l’Islam échapperaient au feu de l’enfer. Il partagea l’humanité en quatre catégories:
+les croyants, les Juifs, les Chrétiens et les païens (S. III, 57; S. III, 110; S. IV, 146 — Version en
+allemand du Coran). Selon ses paroles, Allah aurait transformé ceux qu’il a maudit en singes et en
+porcs (Surate V, 65). C’est dans de tels versets du Coran que Ben Laden et ses divers groupes
+trouvent leur légitimation pour commettre leurs attaques terroristes et leurs meurtres. En effet,
+selon leur point de vue il ne s’agit pour «les incrédules» vraiment que «de singes et de porcs» —
+conformément à ce qu’a dit leur prophète. Pour Mahomet, les croyants étaient uniquement ceux
+qui croyaient son enseignement et le suivaient. C’est encore aujourd’hui la conviction de chaque
+Musulman dévoué.
+     L’argument disant que Dieu ne pouvait pas avoir de Fils dans le ciel doit être pris au sérieux.
+Conformément à la Bible, le Fils, en tant que Sauveur, a été promis et annoncé dans tout l’Ancien
+Testament. Lorsque le temps fut accompli, Il fut engendré par le Saint-Esprit et c’est du vase élu
+— la vierge Marie, qu’Il naquit à Bethléem de Juda, comme il était annoncé dans Ésaïe 7.14 et
+
+     http://www.cmpp.ch
+
+LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS 6
+Michée 5.1-3. Les discussions se poursuivirent jusqu’à ce que Mahomet fit cette déclaration
+irresponsable sur Jésus, le Fils de Marie: «Non, ils ne l’ont point tué, ils ne l’ont point crucifié;
+un autre individu qui lui ressemblait lui fut substitué… Ils ne l’ont point tué réellement. Dieu
+(Allah) l’a élevé à lui…» (Surate IV, 156). Une telle affirmation est un blasphème, car elle
+contredit Dieu Lui-même qui a donné les promesses dans tout l’Ancien Testament. La naissance,
+la vie, la mort et la résurrection du Rédempteur se trouvent confirmées dans tout le Nouveau
+Testament. L’apôtre Pierre dit dans sa prédication le jour de Pentecôte: “… Lui, vous l’avez cloué
+à une croix et vous l’avez fait périr par la main d’hommes iniques, lequel Dieu a ressuscité, ayant
+délié les douleurs de la mort, puisqu’il n’était pas possible qu’il fût retenu par elle” (Actes 2.23-28).
+L’apôtre Paul rend ce témoignage: “… que Christ est mort pour nos péchés, selon les écritures, et
+qu’il a été enseveli, et qu’il a été ressuscité le troisième jour, selon les écritures” (1 Corinthiens 15.3-4). Si
+le Rédempteur avait été enlevé au ciel sans accomplir son oeuvre de rédemption, sans vaincre la
+mort et le séjour des morts, nous serions encore aujourd’hui sans Dieu, sans espérance et sans
+Vie éternelle. Nous devons prendre en considération tous les témoins, à commencer par les
+apôtres et les milliers de personnes vivantes lorsque le Seigneur Jésus marchait sur la terre, ainsi
+que ceux qui L’ont vu à la croix.. Même Joseph d’Arimathée pourrait être également appelé
+comme témoin, car il a recueilli Son corps et l’a placé dans son tombeau. Les écrivains des quatre
+Evangiles ont eux aussi rendu témoignage, tout comme les femmes qui sont venues au tombeau
+et tous les autres qui ont vu le tombeau vide après Sa résurrection et ont rencontré le Ressuscité,
+plus particulièrement les disciples avec lesquels Il était pendant quarante jours jusqu’à Son
+ascension (Actes 1.3). Dans Apocalypse 2.8 Il rend Lui-même témoignage: “Voici ce que dit le
+premier et le dernier, qui a été mort et qui a repris vie”.
+     Je vous en prie, que chacun se demande s’il faut croire ce que la Parole de Dieu dit de façon
+claire et compréhensible, c’est-à-dire croire à ce qui est réellement arrivé, ou si nous devons croire
+les paroles d’un homme qui ne connaissait pas davantage l’Ancien que le Nouveau Testament, qui
+n’avait visiblement aucune idée du plan de salut de Dieu, qui a grandi dans le paganisme et n’a pu
+témoigner une seule fois avoir expérimenté une conversion. Chacun peut juger pour lui-même de
+ce qui est le mieux: croire la Bible ou le Coran, croire à Christ ou à Mahomet. Mahomet qui ne
+connaissait pas les Ecritures, ne pouvait également pas savoir que la désignation «Elohim» pour
+Dieu se trouvait employée dans l’Ancien Testament 2 600 fois, et que le Nom de Dieu YAHWEH
+— le Seigneur s’y trouvait écrit 6 828 fois. Mais les érudits chrétiens également ne comprirent pas
+que «Dieu» n’est pas un nom, comme également «Père» n’est point un nom, mais qu’au travers
+de lui est exprimé ce qu’Il est, et que YAHWEH est Son Nom d’alliance, comme cela fut révélé au
+prophète Moïse. Dans l’Ancien Testament Dieu ne s’était pas encore révélé comme Père dans le
+ciel et Fils sur la terre. Son Nom d’alliance du Nouveau Testament «YASHUAH» n’a également
+pas besoin d’être interprété, car il exprime en lui-même ce qu’il signifie: «YAHWEH – Sauveur», de
+même qu’Emmanuel signifie «Dieu avec nous». Jamais dans toute l’histoire de l’humanité
+quelqu’un ne s’est permis de faire ce que Mahomet a fait. Par ses propres déclarations il renie le
+seul et vrai Dieu, tous Ses prophètes, tout l’Ancien Testament; il renie Christ dans Sa mort et Sa
+résurrection telles que les Saintes Ecritures en rendent témoignage, et il renie ce que les apôtres
+ont enseigné dans le Nouveau Testament. Avec une pleine certitude, on peut dire qu’en aucun cas
+il ne peut être considéré comme envoyé de Dieu, car tout ce qu’il dit est opposé à tout ce que les
+prophètes de Dieu et les apôtres du Seigneur ont enseigné et à ce qui est témoigné dans les
+Saintes Ecritures.
+
+        MAHOMET ET ALLAH
+    Ceux qui appartiennent à la religion islamique, c’est-à-dire plus d’un milliard de personnes sur
+la terre, ainsi que le monde entier a droit à une information correcte et clarifiante. Bien longtemps
+avant Mahomet en Arabie on croyait à Allah, le dieu de la lune, qui donnait la fécondité à toute la
+nature. C’est pourquoi aussi le croissant de lune a été choisi dès le début comme symbole de
+l’Islam. Comme en témoignent beaucoup d’auteurs et que l’on peut lire dans un grand nombre
+d’encyclopédies, le dieu de la lune Allah s’est marié avec la déesse soleil, dont il eut trois filles:
+al-Lat, al-Uzza et Manat. Ces trois filles furent adorées comme déesses. Mahomet lui-même
+reconnut plus tard qu’il avait été sous une fausse influence lorsqu’il continua à approuver
+l’adoration païenne. Les trois versets relatifs à cela faisaient originellement partie du Coran,
+comme cela ressort des Surates LII, 19-21 et XXII, 52-53 (Version en allemand du Coran).
+
+        http://www.cmpp.ch
+
+    LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS    7
+     La Ka’aba avec la «pierre noire» également, qui encore aujourd’hui se trouve là-bas, était
+dans les temps anciens un lieu d’adoration païen où beaucoup d’idoles, ainsi que les trois déesses
+au côté d’Allah, le dieu de la lune, étaient honorés. La Ka’aba fut d’abord démolie, mais cependant
+plus tard de nouveau rebâtie. Mahomet lui-même tolérait la «pierre noire» conformément à
+l’ancienne tradition. C’est ainsi que l’ancien culte s’est poursuivit dans la nouvelle religion,
+seulement d’une autre manière. Après que Mahomet ait vaincu ses adversaires par l’épée, il
+déclara qu’Allah était le seul Dieu digne d’être adoré, et il L’appela le Dieu de la création.
+Cependant jusque là, Allah n’était pas le Créateur dont parle la Bible, mais bien l’antique dieu de la
+lune babylonien. C’est la raison pour laquelle c’est une terrible tromperie lorsque plus d’un milliard
+de personnes croit que le Dieu de l’Islam — Allah — est le même Dieu que celui honoré par les
+Juifs et les Chrétiens et présenté par la Bible comme le seul Dieu, comme Elohim–Yahweh,
+comme le seul Créateur, Sauveur et Roi. En leur temps les Juifs et les Chrétiens savaient
+exactement qu’Allah est le dieu de la lune, et c’est pourquoi même sous la menace de la force ils
+ne pouvaient ni l’accepter, ni l’adorer, et préféraient être livrés à la mort.
+     Il faut encore mentionner que c’est aussi une légende quand on prétend qu’Allah aurait
+transporté Mahomet de La Mecque jusque dans le Temple à Jérusalem et que de là Il l’aurait pris
+dans le ciel. Tout d’abord il n’y avait plus de Temple en ce temps-là, car il avait été détruit en l’an
+70 ap. J.-C. En outre, il s’agissait seulement d’un rêve que Mahomet avait fait et raconté. Aux Juifs
+qu’il avait à plusieurs reprises désignés comme étant «le peuple des Ecritures», Mahomet dit:
+«Entre, ô mon peuple, dans la terre sainte que Dieu (Allah) t’a destinée…» (S. V, 24).
+Cependant ses pieds n’ont jamais foulé le sol de la terre
+     sainte.
+     Celui qui connaît l’histoire, sait que la religion de l’Islam a commencé dans la violence et que
+l’épée a été cruellement employée dans le «Djihad». Des villes et des tribus entières, des peuples
+entiers furent assujettis. Quiconque s’opposait à cette nouvelle religion était appelé un incrédule et
+un idolâtre et devait être mis à mort (S. II, 273; S. IV, 90; S. IV, 96; S. IV, 101; S. IX, 5 — Version
+en allemand du Coran). «Combattez-les jusqu’à ce vous n’ayez point à craindre la tentation,
+et que tout culte soit celui du Dieu unique (Allah)» (S. II, 189). Dans 123 versets du Coran il est
+parlé du combat pour Allah. Si c’est nécessaire on peut même tuer pour lui. Ainsi, comme le
+comprenait Mahomet, tout doit être engagé pour la cause d’Allah: ce que l’on possède et
+également sa propre vie. Tout doit être sacrifié pour la «guerre sainte» — le «Djihad», et pour celui
+qui trouve la mort dans la «guerre sainte», le paradis est assuré.
+     En rapport avec le processus de paix entre Israël et l’OLP, Yasser Arafat emploie l’expression
+de «trêve de al-Hudaybiya». Il rappelle par cela le traité conclu par l’Islam en 628 où il s’agissait
+d’une tactique militaire qui consistait à faire la paix avec l’ennemi d’un pied pour le fouler ensuite
+de l’autre!
+     Non seulement toutes les autres religions mondiales sont induites en erreur, mais aussi les
+1,3 milliard de précieuses âmes qui appartiennent à la religion de l’Islam. En général les Juifs ne
+voient pas encore l’accomplissement des prophéties de l’Ancien Testament, et en aucun temps ils
+n’ont essayé de convertir à leur religion d’autres personnes. Dans le Christianisme d’aujourd’hui, si
+le croyant change sa foi, il n’est pas menacé d’avoir les mains et les pieds coupés, ou même d’être
+tué. Si nous prenons en considération que depuis de nombreuses années, en Israël et en
+beaucoup d’autres endroits, les activités terroristes sont effectuées toujours plus par des groupes
+islamiques fanatiques, force est d’arriver à la conclusion que l’Islam n’est pas l’expression d’une
+soumission de foi à Dieu, Lequel n’use certainement que d’amour et de justice, mais bien
+l’expression d’une soumission à ce qu’un homme a enseigné.
+
+        CONCLUSION
+     Les preuves venant de l’ensemble de la littérature et de l’histoire vécue, parlent
+d’elles-mêmes. Celui qui croit ce que Noé, Abraham, Moïse et tous les prophètes envoyés par
+Dieu Lui-même ont dit en parfaite harmonie, ne peut en aucun cas croire les enseignements de
+Mahomet. La Bible contient tout ce que Dieu avait à dire, et à cela rien ne peut y être ajouté. Dans
+l’Ancien Testament Dieu a révélé Sa volonté, au cours du Nouveau Testament Il l’a réalisée. Les
+véritables prophètes de Dieu ont vécu en des temps différents, mais tous se trouvaient sous la
+
+    http://www.cmpp.ch
+
+LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS 8
+même inspiration du Saint-Esprit. Les apôtres, qui vécurent des siècles plus tard, confirmèrent
+l’accomplissement de tout ce que les prophètes avaient annoncé dans l’Ancien Testament. Il n’y a
+pas une seule contradiction entre l’Ancien et le Nouveau Testament. Comment Celui qui connaît
+toutes choses et qui est tout-puissant pourrait-Il changer même une seule de Ses paroles, Son
+plan ou Sa doctrine?
+     Il n’y a pour les personnes dans l’Islam aucune réelle liberté personnelle, toute leur vie est
+soumise à une dictature, à laquelle chaque individu doit se plier dans tous les domaines de la vie.
+Mais Dieu nous a créés, nous les êtres humains, avec le libre arbitre, où chacun par lui-même
+peut décider ce qu’il veut croire et faire.
+     Au XIème siècle commença la conquête du monde non-musulman, connu sous l’expression
+«Dãr al-harb» = le «territoire de la guerre». Al-Mãvardi partagea le monde en deux territoires: le
+«territoire de l’Islam» «Dãr al-Islãm» et le «territoire de la guerre» = «Dãr al-harb». Au «territoire
+de l’Islam» appartiennent toutes les tribus et tous les peuples déjà vaincus, au «territoire de la
+guerre» appartiennent toutes les tribus et tous les peuples qui sont encore à vaincre. Bien que les
+guides religieux de l’Islam disent: «Moïse a donné aux Juifs: la Torah, et Jésus aux Chrétiens:
+l’Evangile», ils croient que Allah, par Mahomet, a donné la dernière révélation. Son enseignement
+serait définitif parce qu’il aurait été le dernier prophète. Peut-on demander quelle est réellement
+la révélation conclusive? Nous ne la trouvons pas dans le Coran. La fausse évaluation
+consiste en ce que celui qui s’oppose à l’Islam est pour eux un incrédule et qu’il est digne de mort,
+parce qu’à leurs yeux il blasphème par cela contre Allah. C’est pourquoi la guerre de conquête, le
+«Djihad», doit être conduite avec grand effort, afin de mettre fin à ce blasphème, car c’est
+seulement lorsque le croissant de lune, la demi-lune de l’Islam, sera devenu une pleine lune que le
+monde aura la paix. Selon les guides islamiques, cela signifie en texte clair: Ce n’est que lorsque
+le monde entier sera soumis à la foi de l’Islam par la guerre sainte, qu’il y aura le repos sur la terre.
+Selon l’éclaircissement du droit islamique, le «Djihad» doit être conduit tout spécialement contre
+les Juifs et les Chrétiens, aussi longtemps qu’ils n’ont pas été tous exterminés et que l’ordre
+islamique soit établi. Celui qui s’est intéressé à la littérature islamique, connaît leurs concepts
+religieux.
+     Il serait à souhaiter qu’au travers de cette publication les yeux de beaucoup de personnes
+dans le monde entier soient ouverts. Puisse les enseignants de l’Islam prendre connaissance que
+Mahomet, dans sa pensée, ses paroles et ses actions a passé loin de Dieu, et que la religion de
+l’Islam, comme toutes les autres religions, a été faite par l’homme! La foi véritable est ancrée
+dans les promesses de Dieu et elle produit une relation personnelle avec Dieu. C’est dans
+l’amour, mais clairement, qu’il doit être dit que Mahomet et sa religion n’ont rien à faire avec le
+Dieu de la Bible, avec le Dieu d’Abraham, d’Isaac et de Jacob. Mahomet ne croyait pas du tout
+que Dieu en tant que notre Père céleste se soit révélé en Son Fils seul engendré, ici sur la terre,
+pour notre salut. En fait la religion de l’Islam est sans aucune espérance, et par cela, comme
+toutes les autres, elle est une religion vaine. Aucune des prétentions d’être la révélation sans
+appel et conclusive n’est fondée sur la Parole de Dieu, et de ce fait elles sont sans valeur. Dieu
+s’est révélé Lui-même suffisamment, ainsi que Son Conseil, comme Il nous l’a laissé clairement
+dans les Saintes Ecritures. Toute autre chose n’est que des prétentions privées de toute légitimité.
+     Il y a de nombreux pays avec un gouvernement islamique, dans lesquels les croyants d’une
+autre foi sont seulement tolérés, parfois ils ne le sont même pas, et toutes les sortes d’activités
+missionnaires y sont punissables. Il existe à peine un pays sur la terre où il n’y ait pas de
+Musulmans. En Allemagne vivent 3,3 millions de Musulmans, et il y a 3 300 mosquées. Dans les
+autres pays d’Europe, ainsi que dans le monde entier, la situation est la même. Dans les pays
+occidentaux, les Musulmans jouissent de tous les droits religieux qu’ils n’accordent pas dans leur
+propre pays aux autres religions ou communautés religieuses. Dans beaucoup de pays islamiques
+les Chrétiens sont tués et leurs églises sont incendiées. Les politiciens se taisent, parce qu’ils ont
+peur de la terreur. Mais, soyez consolés, l’heure de Dieu, l’heure de la Vérité est venue. Dieu a
+permis l’attaque sur les Etats-Unis afin que le monde entier apprenne la vérité sur l’Islam, et
+qu’ainsi il reçoive la possibilité de prendre la décision juste.
+     Le but de ce court exposé est de tendre la main à tous ceux qui ne désirent pas entrer dans
+l’Eternité trompés et conduits dans l’erreur. Celui qui meurt sans Sauveur est perdu pour toujours.
+Nous espérons que tous voient dans cette publication la main tendue, et qu’ils se tourneront vers
+
+        http://www.cmpp.ch
+
+    LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS                               9
+    le seul vrai Dieu, qui dans Son essence est Esprit et s’est révélé personnellement en tant que
+    Sauveur en Jésus-Christ, notre Seigneur. Que tous les habitants de la terre sachent qu’il n’y a
+    point de salut en aucune religion que ce soit, mais uniquement dans le Rédempteur qui nous a
+    apporté le salut. Son Message est le seul véritable message de salut. La Vie éternelle que nous
+    devons avoir pour pouvoir vivre éternellement, se trouve uniquement en Celui qui est l’Eternel. Le
+    chemin de Dieu en Christ vers nous, est notre seul chemin vers Lui. S’il vous plaît, détournez-
+    vous de toute religion, et tournez-vous vers le Dieu tout-puissant, à l’image Duquel nous avons été
+    créés, et qui nous a destinés à un but éternel. Pour avoir part au plan de salut de Dieu nous
+    devons nous tourner vers Lui et nous soumettre à Lui, afin que Sa volonté puisse se faire au
+    travers de nous, maintenant et pour toujours. Dieu Lui-même n’a fondé aucune religion, mais Il a
+    réconcilié les hommes avec Lui-même en Jésus-Christ, notre Seigneur.
+
+     EPILOGUE
+
+    C’est avec la règle d’or que j’ai choisie comme guide dans cet exposé que je veux aussi
+terminer. Moi-même, j’aimerais qu’on me dise la vérité. Moi-même, je voudrais que le chemin juste
+me soit montré, parce que je ne veux pas passer de ce temps dans l’Eternité trompé. Je souhaite
+la même chose à tous ceux qui lisent ce court traité. Dieu veut le bien de nous tous. Chaque
+personne, sans égard à son appartenance religieuse, est née dans ce monde de mensonge et de
+tromperie. Dans ces dernières années, oui, même depuis le siècle des lumières, les crimes
+commis au nom de la religion sont venus à notre connaissance, et plus particulièrement ceux de
+l’époque de la Christianisation forcée. Nous avons entendu parler des huit croisades (1095-1291),
+au cours desquelles 22 millions de personnes ont été massacrées par les chevaliers croisés
+catholiques. Nous avons aussi entendu parler des cruautés exercées par l’Eglise dans le
+Moyen-Age. De l’historiographie nous avons dû prendre acte: ceux qui ne pouvaient pas se
+soumettre à cette religion, étaient considérés comme sorciers et étaient brûlés sur les bûchers —
+lors d’une action concentrée ce furent cinquante mille personnes qui furent brûlées en une seule
+fois. Nous avons entendu parler de l’Inquisition, du massacre des Huguenots et de beaucoup
+d’autres choses encore. Des millions et des millions de personnes furent assassinées sous
+l’impulsion de l’Eglise de Rome, qui était parvenue au pouvoir temporel. La terre est imprégnée du
+sang des martyrs. L’Eglise le fit au Nom de Christ, oui, au Nom de Dieu, les plus grand crimes ont
+été commis sur la terre, et ont été justifié par la religion. Le salut était prêché et le crime était
+exercé. Pour tous ceux qui se sont informés sur elle, l’Eglise est en fait, devenue pour toujours
+indigne de foi. C’est la raison pour laquelle des millions de personnes se détournent du
+Christianisme.
+    Maintenant nous entendons parler de tous les massacres que la religion de l’Islam a perpétré
+dès le commencement et pour lesquels elle devra répondre. Nous expérimentons maintenant
+directement combien de crimes sont commis, sans miséricorde et sans compassion au nom
+d’Allah, «le miséricordieux et plein de grâce». Pour tous ceux qui peuvent voir, il est cependant
+clair que dans les religions exerçant le pouvoir temporel, les choses ne se passent pas avec Dieu,
+mais bien avec Satan, même s’il se revêt de l’apparence d’un ange de lumière. De quel droit les
+religions d’Etat ont-elles asservi des peuples entiers et imposé leur propre religion? Nous avons
+maintenant les nations chrétiennes, les nations de l’Islam, du Bouddhisme, de l’Hindouisme, de
+Confucius, du Shintoïsme, etc. Le monde a été, en fait, divisé en tant de parties par les religions et
+les idéologies politiques. Tous prétendent être sur le chemin juste. J’écris cette brochure en tant
+que personne ayant acquis une connaissance sur toutes ces religions. Depuis environ 40 ans j’ai
+voyagé dans plus de 120 pays de tous les continents. Je ne peux que conseiller à toute personne
+sur la terre de se tourner vers Dieu Lui-même, qui s’est révélé à nous personnellement en
+Jésus-Christ. Les hommes sont trompeurs et ils sont trompés, Dieu seul est véridique.
+    Ce qui s’est passé le 11 septembre 2001, et ce qui s’en est suivi, doit être ordonné
+bibliquement. Des événements importants jettent en avant leur ombre. Ainsi dit le Seigneur:
+“Sonnera-t-on de la trompette dans une ville, et le peuple ne tremblera pas? Y aura-t-il du mal
+dans une ville, et l’Eternel ne l’aura pas fait?” (Amos 3.6). Cela se rapporte aussi aux tragiques
+événements survenus à New York et Washington. Rien n’arrive sans que Dieu ne l’ait permis.
+Maintenant il s’agit de venir à la connaissance de ce que Dieu désire dire, pas seulement aux
+Etats-Unis, mais à nous tous, au travers de cette catastrophe et de ses conséquences. Continuons
+
+     http://www.cmpp.ch
+
+LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS 10
+à lire dans le livre du prophète Amos: “Or le Seigneur, l’Eternel, ne fera rien, qu’il ne révèle son
+secret à ses serviteurs les prophètes” (Amos 3.7). Il faut que nous soit révélé par Dieu Lui-même
+au travers de la Parole prophétique, ce que nous vivons maintenant dans la dernière période de
+temps. Ce qui arrive maintenant doit être considéré à la lumière des prophéties bibliques. Nous le
+ferons, avec l’aide de Dieu, au travers d’autres publications. En réalité, dans les Saintes Ecritures,
+tout nous a été laissé du commencement de la création jusqu’à la fin des temps. Dieu connaissait
+déjà la fin avant le commencement.
+    Le commencement de la fin a été introduit. Les anges de jugement, conformément à
+Apocalypse 9.13 sont jusqu’à maintenant liés sur l’Euphrate pour le jour et l’heure. Dans la grande
+bataille annoncée — qui sera le point culminant de la «guerre sainte» — un tiers de l’humanité
+sera anéanti. Les gouvernements des Etats-Unis ont déjà bombardé en Irak, et par cela, ils ont
+irrité Saddam Hussein depuis longtemps, et maintenant l’Afghanistan aussi est inclus. Ces actions
+militaires sont classées comme étant dirigées directement contre l’Islam. Tout conduit à ce que
+dans peu de temps le monde vivra «la guerre sainte». “Proclamez ceci parmi les nations, préparez
+la guerre, réveillez les hommes forts; qu’ils approchent, qu’ils montent. Tous les hommes de
+guerre!” (Joël 4.9). Comme d’autres passages des Ecritures en témoignent, cette bataille sera
+particulièrement conduite contre Israël, cependant il y aura aussi une grande attaque militaire
+contre les Etats-Unis.
+    Pour ceux qui peuvent le voir, maintenant non seulement l’ordre de mission général
+(Mat. 28.19) doit s’accomplir, mais aussi ce que notre Seigneur a annoncé pour le temps de la fin:
+“Et cet évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage à toutes
+les nations; et alors viendra la fin” (Mat. 24.14). Cela arrive en notre temps, avant que la fin ne
+vienne. Tous les peuples et toutes les langues, de même que les peuples ayant la religion de
+l’Islam ou d’autres religions, ont le droit d’entendre le Message divin du salut afin qu’ils puissent
+prendre la décision juste. L’introduction dans la phase finale du temps de la fin a commencé sur
+tous les plans. Vous tous peuples, écoutez la Parole du Seigneur!
+    La grâce et la paix de Dieu soient avec vous tous au Nom du Seigneur Jésus-Christ!
+
+
+
+
+
+
+
+
+
+
+    Titre original de l’ouvrage:
+    Die Religion des Islam im Licht der gegenwärtigen Weltereignisse
+
+    Auteur:
+    Missionnaire Ewald Frank, Krefeld (Allemagne)
+
+    Copyright © 2001 by
+    Freie Volksmission e.V., Krefeld (Allemagne)
+
+    Traduit de l’allemand. Tout droit de reproduction, même partiel, est réservé.
+
+    Editeur:
+    Centre Missionnaire de la Parole Parlée
+    Case Postale 5633, CH–1002 Lausanne (Suisse)
+    Internet: www.cmpp.ch
+    E-mail: info@cmpp.ch
+
+
+
+
+    http://www.cmpp.ch
+
+    LA RELIGION DE L’ISLAM A LA LUMIERE DES EVENEMENTS MONDIAUX ACTUELS    11
+
+
+
+
+
+
+
+
+
+
+    Pour les Musulmans le lieu le plus sacré est la
+    Ka’aba à La Mecque. Chaque Musulman devrait
+    faire au moins une fois dans sa vie le pèlerinage
+    à La Mecque.
+
+
+
+
+
+
+
+
+
+
+Le monde entier a été témoin de l’attaque terroriste sur le World
+Trade Center à New York. Le 11 septembre 2001 entrera
+également dans l’histoire des Etats-Unis, comme le fit l’attaque sur
+Pearl Harbor du 7 décembre 1941.
+
+
+
+
+
+    http://www.cmpp.ch

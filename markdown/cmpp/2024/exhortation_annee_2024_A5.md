@@ -1,0 +1,78 @@
+chair (Jean 1.14). Alors, si on fait confiance dans la Parole, on doit aussi faire                                   EXHORTATION
+confiance que Jésus-Christ est véritablement Celui qui est venu accomplir la
+Parole de Dieu, afin que nous, nous devenions cette Epouse-Parole. Il a
+accompli, pour Sa part, toute la volonté de Dieu, Il est le bon berger (Psaumes 23) qui                                  ANNEE 2024
+conduit Ses brebis à accomplir, pour notre part, la même chose que Lui-même,
+car Il est notre modèle, et dans notre temps il a été manifesté que de nouveau
+“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8). La                    “Je veux, en effet, que vous sachiez combien est grand le combat que je
+Vérité a été révélée, que c’était Dieu Lui-même, qui est venu accomplir ce qu’Il                soutiens pour vous, et pour ceux qui sont à Laodicée, et pour tous ceux
+avait promis, et que maintenant la victoire nous est donnée par notre                           qui n’ont pas vu mon visage en la chair, afin qu’ils aient le coeur rempli de
+Seigneur Jésus-Christ.                                                                          consolation, qu’ils soient unis dans la charité, et enrichis d’une pleine
+               Cette victoire est acquise pour nous qui arrivons à la fin de l’âge, car nous    intelligence pour connaître le mystère de Dieu, savoir Christ, mystère
+constatons que nos aînés qui ont expérimenté l’action du Saint-Esprit au début                  dans lequel sont cachés tous les trésors de la sagesse et de la science. Je dis
+de cet âge de Laodicée, et qui ont été des véritables témoins du ministère                      cela afin que personne ne vous trompe par des discours séduisants”.
+prophétique, nous quittent les uns après les autres. L’exhortation appelant à                                                                            Colossiens 2.1-4
+nous fortifier et prendre courage, est transmise aux croyants qui sont nés
+dans le désert et qui sont à l’orée du pays promis, afin d’être prêt à l’action                 Chers amis, chers frères et soeurs en Christ,
+véritable du Saint-Esprit. Le Seigneur dit: “Je vous ai dit ces choses, afin que vous          recevez nos salutations dans le précieux nom de notre Seigneur Jésus-Christ.
+ayez la paix en moi. Vous aurez des tribulations dans le monde; mais prenez                     Nous vivons visiblement dans la phase finale du temps de la fin, car nous
+courage, j’ai vaincu le monde” (Jean 16.33).                                                   voyons les prémices des événements eschatologiques annoncés par les
+                  Sortons de toutes ces interprétations religieuses provenant du «message du   prophéties bibliques. La guerre déclarée au peuple d’Israël et sa riposte,
+temps de la fin», et                          revenons uniquement à l’amour pour le Seigneur   indiquent aux croyants que nous sommes fort avancés dans la fin de l’histoire de
+Jésus-Christ. C’est seulement l’amour qui va demeurer éternellement, comme                     l’humanité telle que  nous la connaissons.    Les     véritables disciples    de
+il est clairement écrit: “… quand j’aurais le don de prophétie, la science de tous les         Jésus-Christ, ayant reçu le «message du temps de la fin» utile à la préparation de
+mystères et toute la connaissance, quand j’aurais même toute la foi jusqu’à                    l’Epouse de Jésus-Christ, demeurent malgré tout sobres et sont gardés de toute
+transporter des montagnes, si je n’ai pas la charité, je ne suis rien” car “La                 panique de «fin du monde». Ils vivent normalement, tout en se laissant préparer
+charité ne périt jamais. Les prophéties prendront fin, les langues cesseront, la               à l’intérieur pour le retour du Seigneur Jésus-Christ.
+connaissance disparaîtra”.                                                                      En Israël, la situation actuelle ne concerne que «Gaza», mais selon les
+                         Au point où nous sommes parvenus, nous souhaitons que pendant cette   Ecritures, nous savons que c’est bien sur Jérusalem que le monde aura les yeux
+nouvelle année, nous puissions marcher d’un même pas selon cette parole: “Si donc              fixés laquelle deviendra une pierre d’achoppement comme il est écrit dans
+il y a quelque consolation en Christ, s’il y a quelque soulagement dans la charité, s’il y     Zacharie 12.3. Les nations, malgré toutes les preuves apportées, commencent à
+a quelque union d’esprit, s’il y a quelque compassion et quelque miséricorde,                  s’agiter, à se révolter contre les promesses de la Bible, mais c’est bien l’Eternel
+rendez ma joie parfaite, ayant un même sentiment, un même amour, une même                      qui a donné ce pays aux fils d’Israël. Ils sont tellement devenus aveugles, qu’ils
+âme, une même pensée” (Philippiens 2.1-2), dans le Seigneur (Philippiens 4.2).                             ne croient plus à la vérité, mais sont trompés par les mensonges. Nous pouvons
+                                                                                               relire ce qui a déjà été écrit sur «Gaza», dans la lettre circulaire n° 58 [Nov. 2005 /
+EDITEUR: CENTRE MISSIONNAIRE DE LA PAROLE PARLEE,                                              4ème point], ainsi que la «Lettre ouverte» concernant le pays d’Israël.
+  CASE POSTALE 5633, CH–1002 LAUSANNE (SUISSE),                                                     Au travers de ces événements, les disciples de Jésus-Christ peuvent établir
+           Internet: http://www.cmpp.ch
+    E-Mail: info@cmpp.ch                                                                       des parallèles, car nous savons que l’histoire du peuple d’Israël, a toujours servi
+4                                                                                                                                                                             1
+
+de modèle à l’Eglise de la nouvelle alliance. Selon la Parole, nous sommes notre Seigneur doit être restauré. Déjà au premier âge de l’Eglise, l’âge
+davantage confortés que nous sommes réellement arrivés dans le temps de la d’Ephèse, c’est le reproche qui est fait: “Mais ce que j’ai contre toi, c’est que tu as
+manifestation de l’Epouse de Jésus-Christ et de son enlèvement. abandonné ton premier amour” (Apocalypse 2.4). Dans Matthieu 24.12, le Seigneur
+    Mais, la situation telle qu’elle se présente aujourd’hui au milieu du peuple nous dit “… et parce que l’iniquité prévaudra, l’amour de plusieurs sera
+de Dieu, est comme celle avec Israël lorsqu’il se trouvait paralysé dernièrement refroidi;…”, mais malheureusement certains s’appuient uniquement sur ce
+par des discussions internes sur des sujets controversés. Visiblement, c’est verset pour justifier leur pensée afin d’introduire la culpabilité parmi les
+justement lors de ce laps de temps troublé, que l’ennemi en a grandement disciples, mais ils omettent de dire ce qui est écrit au verset 13: “… mais celui
+profité. Nous savons que lorsque l’Eglise se trouve dans les querelles, et que la qui persévérera jusqu’à la fin, celui-là sera sauvé” (Darby). Ceci est valable
+discorde s’élève parmi le peuple de Dieu, cela les sépare et les paralyse, mais pour chaque croyant individuel formant le corps de l’Epouse de Christ, qui se
+lorsqu’Elle est confrontée à la persécution extérieure, cela a toujours rassemblé prépare dans la persévérance et la patience, pour laquelle il sera possible que le
+les croyants avec le même but divin du combat, comme nous le voyons avec le premier amour soit pleinement rétabli, avant son enlèvement. C’est le combat
+peuple d’Israël. Il nous a déjà été dit que: «Dieu hait la discorde entre les frères» [Esprit de l’Epouse de Jésus-Christ pour la restauration de l’amour pour Christ et Son
+séducteur, Anglais §90 / LC n° 33]. Dans Proverbes 6 il est écrit qu’“Il y a six choses Royaume. Il est nécessaire que l’Evangile, tel qu’il a été apporté au début avec
+que hait l’Eternel, et même sept qu’il a en horreur … Le faux témoin qui dit des zèle, puisse être de nouveau apporté avec une pleine persuasion par les
+mensonges, et celui qui excite des querelles entre frères” (v. 16; 19). disciples, car Il nous a fait la promesse que “… vous recevrez une puissance, le
+    Pour les croyants, c’est le combat afin que nous puissions avancer, car Saint-Esprit survenant sur vous, et vous serez mes témoins à Jérusalem, dans
+l’ennemi veut nous maintenir dans la situation actuelle, c’est-à-dire dans les toute la Judée, dans la Samarie, et jusqu’aux extrémités de la terre” (Actes 1.8).
+interprétations, les querelles, ainsi que tout ce qui empêche l’action du Nous arrivons dans cette phase finale, et ce qui sera manifesté dans l’Epouse de
+Saint-Esprit utile à la préparation de l’Eglise-Epouse. Il est vrai que nous ne Christ c’est cet amour pour Son Epoux, par conséquent pour Son Royaume, et
+sommes pas encore prêts pour le retour de notre Seigneur Jésus-Christ, donc c’est ce qui va permettre au Seigneur de L’enlever, pour premièrement, participer
+nous devons veiller, car il y a des trompeurs qui le contredisent, comme si c’était aux noces de l’Agneau (Apocalypse 19.7-9). Cet amour permettra aux derniers élus
+déjà arrivé, mais nous ne pouvons que dire ce qui est écrit: “Pour ce qui concerne d’entrer dans le salut de Son Royaume, de justice, de paix, de joie, de Lumière, de
+l’avènement de notre Seigneur Jésus-Christ et notre réunion avec lui, nous vous prospérité, et de vie abondante et dans lequel la volonté de Dieu est parfaitement
+prions, frères, de ne pas vous laisser facilement ébranler dans votre bon sens, et accomplie. Les oeuvres du diable seront détruites, car toutes ces puissances
+de ne pas vous laisser troubler, soit par quelque inspiration, soit par quelque diaboliques seront dévoilées et abattues, et souvent ce sont des puissances
+parole, ou par quelque lettre qu’on dirait venir de nous, comme si le jour du religieuses. C’est ce que Paul voulait bien montrer dans le verset du début, car il
+Seigneur était déjà là” (2 Thess. 2.1-2). La rencontre avec le Seigneur se fera savait que le combat était rude contre l’adversaire dans cet âge de Laodicée, et
+dans les airs, et non sur cette terre, comme il est écrit: “… ensuite, nous les cette parole nous conforte qu’elle nous est destinée, car nous vivons ces instants
+vivants, qui serons restés, nous serons tous ensemble enlevés avec eux sur des terribles, mais ô combien glorieux. Il faut être conscient du combat qui arrive, afin
+nuées, à la rencontre du Seigneur dans les airs, et ainsi nous serons toujours que l’unité dans la charité soit manifestée parmi les croyants appelés à former
+avec le Seigneur” (1 Thess. 4.17). D’autres disent sans cesse que l’on n’arrivera l’Epouse de Christ.
+pas à temps et doutent des promesses, mais il est aussi écrit que “Le Seigneur ne Telle est la situation après avoir eu les bénédictions au début de cet âge de
+tarde pas dans l’accomplissement de la promesse, comme quelques-uns le Laodicée, car le Seigneur a suscité un ministère promis de la Parole selon
+croient; mais il use de patience envers vous, ne voulant pas qu’aucun périsse, Malachie 4.5, qui nous a vraiment ramené à la foi dans le Fils, Jésus-Christ, étant
+mais voulant que tous arrivent à la repentance” (2 Pier. 3.9). la postérité promise qui a écrasé la tête du serpent (Genèse 3.15 — Darby). Alors,
+    Nous sommes dans un combat pour que l’adversaire nous rende ce qu’il a la foi, le coeur, l’amour, la consécration du croyant doit être placée entièrement
+pris, car nous avons été volés, dévorés, dépouillés, et ce premier amour pour dans la personne du Seigneur Jésus-Christ, qui d’ailleurs est la Parole faite
+2 3
