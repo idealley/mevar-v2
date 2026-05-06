@@ -1,0 +1,225 @@
+#!/usr/bin/env node
+// English-Bible reference normalizer for the Branham corpus.
+// Same architecture as 65-normalize-bible.mjs, but with English book names + aliases.
+//
+// Output canonical form: "Book chap:verse[-end][,extras]"
+// e.g. "Matt 24:6", "1 Cor. 5,20-21" → "Matthew 24:6", "1 Corinthians 5:20-21"
+//
+// CLI:
+//   node scripts/66-normalize-bible-en.mjs                # process branham markdown
+//   node scripts/66-normalize-bible-en.mjs <path...>      # process specific files/dirs
+//   node scripts/66-normalize-bible-en.mjs --dry          # report only
+
+import fs from "node:fs";
+import path from "node:path";
+
+const root = path.resolve(import.meta.dirname, "..");
+
+// ─── Book dictionary ─────────────────────────────────────────────────────────
+// First entry of each row is the canonical name. Subsequent are accepted variants.
+// Includes both standard and aggressive abbreviations seen in transcribed sermons.
+const BOOKS = [
+  // Old Testament
+  ["Genesis", "Gen", "Gn", "Ge"],
+  ["Exodus", "Exo", "Ex", "Exod"],
+  ["Leviticus", "Lev", "Lv", "Levit"],
+  ["Numbers", "Num", "Nm", "Nb", "Nu"],
+  ["Deuteronomy", "Deut", "Dt", "De"],
+  ["Joshua", "Josh", "Jos", "Js", "Jsh"],
+  ["Judges", "Judg", "Jdg", "Jg", "Jgs"],
+  ["Ruth", "Rt", "Ru"],
+  ["1 Samuel", "1 Sam", "1Sam", "1S", "1Sm", "I Samuel", "I Sam", "First Samuel"],
+  ["2 Samuel", "2 Sam", "2Sam", "2S", "2Sm", "II Samuel", "II Sam", "Second Samuel"],
+  ["1 Kings", "1 Kgs", "1Kgs", "1K", "1Ki", "I Kings", "I Kgs", "First Kings"],
+  ["2 Kings", "2 Kgs", "2Kgs", "2K", "2Ki", "II Kings", "II Kgs", "Second Kings"],
+  ["1 Chronicles", "1 Chr", "1Chr", "1Ch", "I Chronicles", "I Chr", "First Chronicles"],
+  ["2 Chronicles", "2 Chr", "2Chr", "2Ch", "II Chronicles", "II Chr", "Second Chronicles"],
+  ["Ezra", "Ezr"],
+  ["Nehemiah", "Neh", "Ne"],
+  ["Esther", "Est", "Esth"],
+  ["Job", "Jb"],
+  ["Psalms", "Psalm", "Ps", "Psa", "Pss", "Psm"],
+  ["Proverbs", "Prov", "Prv", "Pr", "Pro"],
+  ["Ecclesiastes", "Eccl", "Ecc", "Ec", "Qoh", "Qoheleth"],
+  ["Song of Solomon", "Song of Songs", "Song", "SoS", "Cant", "Canticles"],
+  ["Isaiah", "Isa", "Is"],
+  ["Jeremiah", "Jer", "Jr"],
+  ["Lamentations", "Lam", "Lm", "La"],
+  ["Ezekiel", "Ezek", "Ez", "Eze"],
+  ["Daniel", "Dan", "Dn", "Da"],
+  ["Hosea", "Hos", "Ho"],
+  ["Joel", "Jl"],
+  ["Amos", "Am"],
+  ["Obadiah", "Obad", "Ob"],
+  ["Jonah", "Jon", "Jnh"],
+  ["Micah", "Mic", "Mi"],
+  ["Nahum", "Nah", "Na"],
+  ["Habakkuk", "Hab", "Hb"],
+  ["Zephaniah", "Zeph", "Zep", "Zp"],
+  ["Haggai", "Hag", "Hg"],
+  ["Zechariah", "Zech", "Zec", "Zc"],
+  ["Malachi", "Mal", "Ml"],
+  // New Testament
+  ["Matthew", "Saint Matthew", "St. Matthew", "St Matthew", "Matt", "Math", "Mt"],
+  ["Mark", "Saint Mark", "St. Mark", "St Mark", "Mk", "Mr"],
+  ["Luke", "Saint Luke", "St. Luke", "St Luke", "Lk", "Lu"],
+  ["John", "Saint John", "St. John", "St John", "Jn", "Joh", "Jhn"],
+  ["Acts", "Ac", "Act", "Acts of the Apostles"],
+  ["Romans", "Rom", "Rm", "Ro"],
+  ["1 Corinthians", "1 Cor", "1Cor", "1Co", "1C", "I Corinthians", "I Cor", "First Corinthians"],
+  ["2 Corinthians", "2 Cor", "2Cor", "2Co", "2C", "II Corinthians", "II Cor", "Second Corinthians"],
+  ["Galatians", "Gal", "Ga"],
+  ["Ephesians", "Eph", "Ephes", "Ep"],
+  ["Philippians", "Phil", "Php", "Phl", "Ph"],
+  ["Colossians", "Col", "Cl"],
+  ["1 Thessalonians", "1 Thess", "1Thess", "1 Thes", "1Thes", "1 Th", "1Th", "I Thessalonians", "I Thess", "First Thessalonians"],
+  ["2 Thessalonians", "2 Thess", "2Thess", "2 Thes", "2Thes", "2 Th", "2Th", "II Thessalonians", "II Thess", "Second Thessalonians"],
+  ["1 Timothy", "1 Tim", "1Tim", "1Ti", "1T", "I Timothy", "I Tim", "First Timothy"],
+  ["2 Timothy", "2 Tim", "2Tim", "2Ti", "2T", "II Timothy", "II Tim", "Second Timothy"],
+  ["Titus", "Tit", "Ti"],
+  ["Philemon", "Phlm", "Phm", "Philem"],
+  ["Hebrews", "Heb", "Hbr", "He"],
+  ["James", "Jas", "Jm"],
+  ["1 Peter", "1 Pet", "1Pet", "1 Pt", "1Pt", "1P", "1Pe", "I Peter", "I Pet", "First Peter"],
+  ["2 Peter", "2 Pet", "2Pet", "2 Pt", "2Pt", "2P", "2Pe", "II Peter", "II Pet", "Second Peter"],
+  ["1 John", "1 Jn", "1Jn", "1Jo", "1J", "I John", "I Jn", "First John"],
+  ["2 John", "2 Jn", "2Jn", "2Jo", "2J", "II John", "II Jn", "Second John"],
+  ["3 John", "3 Jn", "3Jn", "3Jo", "3J", "III John", "III Jn", "Third John"],
+  ["Jude", "Jud", "Jd"],
+  ["Revelation", "Revelations", "Rev", "Rv", "Re", "Apoc", "Apocalypse"],
+];
+
+function normForMatch(s) {
+  return s
+    .toLowerCase()
+    .replace(/\./g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+const VARIANT_TO_CANONICAL = new Map();
+for (const row of BOOKS) {
+  const canonical = row[0];
+  for (const v of row) VARIANT_TO_CANONICAL.set(normForMatch(v), canonical);
+}
+
+const ALL_VARIANTS = new Set();
+for (const row of BOOKS) for (const v of row) ALL_VARIANTS.add(v);
+const variantsSorted = [...ALL_VARIANTS]
+  .map((v) => v.trim())
+  .sort((a, b) => b.length - a.length);
+
+function escRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+const BOOK_ALT = variantsSorted.map(escRe).join("|");
+
+const REF_RE = new RegExp(
+  "(?<![\\p{L}])" +
+  "(" + BOOK_ALT + ")" +
+  "\\.?" +
+  "\\s*" +
+  "(\\d{1,3})" +
+  "(?:" +
+  "\\s*[:,]\\s*" +
+  "(\\d{1,3})" +
+  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3}))?" +
+  "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" +
+  ")?" +
+  "(?![\\d])",
+  "giu",
+);
+
+function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
+  let out = `${book} ${chapter}`;
+  if (verseStart !== undefined && verseStart !== null) {
+    out += `:${verseStart}`;
+    if (verseEnd !== undefined && verseEnd !== null) out += `-${verseEnd}`;
+    if (extra) {
+      const parts = extra
+        .split(/\s*[,;]\s*/)
+        .map((p) => p.replace(/\s*[-–—]\s*/g, "-").trim())
+        .filter(Boolean);
+      if (parts.length) out += "," + parts.join(",");
+    }
+  }
+  return out;
+}
+
+function normalize(md) {
+  const found = [];
+  const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
+    const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
+    if (!canonical) return match;
+    const rendered = renderRef({
+      book: canonical,
+      chapter: chap,
+      verseStart: verseStart ?? null,
+      verseEnd: verseEnd ?? null,
+      extra: extra ?? null,
+    });
+    found.push(rendered);
+    return rendered;
+  });
+  return { md: out, refs: [...new Set(found)].sort() };
+}
+
+function* walk(dir) {
+  for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, ent.name);
+    if (ent.isDirectory()) yield* walk(p);
+    else if (ent.isFile() && p.endsWith(".md")) yield p;
+  }
+}
+
+const args = process.argv.slice(2);
+const dryRun = args.includes("--dry");
+const targets = args.filter((a) => !a.startsWith("--"));
+
+const sources = targets.length > 0
+  ? targets.map((t) => path.resolve(t))
+  : [path.join(root, "markdown", "branham")];
+
+const refsByFile = {};
+let totalFiles = 0, totalRefs = 0, modified = 0;
+const refsBySource = {};
+
+for (const sourceDir of sources) {
+  const sourceName = path.basename(sourceDir);
+  refsBySource[sourceName] = { files: 0, refs: 0, unique: new Set() };
+  for (const file of walk(sourceDir)) {
+    totalFiles++;
+    refsBySource[sourceName].files++;
+    const text = fs.readFileSync(file, "utf8");
+    const fmMatch = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
+    const fm = fmMatch ? fmMatch[1] : "";
+    const body = fmMatch ? fmMatch[2] : text;
+    const { md: cleanedBody, refs } = normalize(body);
+    if (refs.length) {
+      totalRefs += refs.length;
+      refsBySource[sourceName].refs += refs.length;
+      for (const r of refs) refsBySource[sourceName].unique.add(r);
+      refsByFile[path.relative(root, file)] = refs;
+    }
+    if (cleanedBody !== body && !dryRun) {
+      fs.writeFileSync(file, fm + cleanedBody);
+      modified++;
+    }
+  }
+}
+
+console.log(`English bible refs normalized:`);
+console.log(`  files scanned: ${totalFiles}`);
+console.log(`  files modified: ${modified}`);
+console.log(`  total ref instances: ${totalRefs}`);
+console.log(`  by source:`);
+for (const [src, s] of Object.entries(refsBySource)) {
+  console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
+}
+
+if (!dryRun) {
+  // Merge with existing bible-refs.json (don't overwrite French refs)
+  const existingPath = path.join(root, "manifests/bible-refs.json");
+  const existing = fs.existsSync(existingPath) ? JSON.parse(fs.readFileSync(existingPath, "utf8")) : {};
+  for (const [k, v] of Object.entries(refsByFile)) existing[k] = v;
+  fs.writeFileSync(existingPath, JSON.stringify(existing, null, 2));
+  console.log(`  merged into manifests/bible-refs.json`);
+}
