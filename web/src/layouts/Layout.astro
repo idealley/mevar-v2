@@ -1,0 +1,57 @@
+---
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+}
+
+const {
+  title = "Mevar — Étude de la Parole pour le temps de la fin",
+  description = "Bibliothèque numérique de prédications, exhortations, études bibliques et livres autour du message du temps de la fin.",
+  image,
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="fr" class="h-full">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/brand/logo.svg" />
+    <link rel="apple-touch-icon" href="/brand/icon-192.png" />
+    <meta name="theme-color" content="#1c1917" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{title}</title>
+    <meta name="description" content={description} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    {image && <meta property="og:image" content={image} />}
+
+    <!-- Sober system-font reading stack — works offline, free, lighter than Google Fonts -->
+    <style is:global>
+      :root {
+        --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+        --font-serif: "Iowan Old Style", "Apple Garamond", Baskerville, "Times New Roman", "Droid Serif", Times, "Source Serif Pro", serif;
+      }
+      html { font-family: var(--font-sans); }
+      .prose-reader { font-family: var(--font-serif); }
+    </style>
+  </head>
+
+  <body class="min-h-full bg-background text-foreground antialiased">
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <footer class="border-t mt-16 py-8 text-center text-sm text-muted-foreground">
+      <p>Mevar &middot; <a href="/about" class="hover:text-foreground transition">À propos</a></p>
+    </footer>
+  </body>
+</html>

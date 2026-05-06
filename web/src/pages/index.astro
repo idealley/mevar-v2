@@ -1,0 +1,85 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "$lib/components/ui/card";
+import { Badge } from "$lib/components/ui/badge";
+import { formatDateFr, deriveKind } from "$lib/utils";
+
+// Featured: most recent posts from mevar (published posts), sorted desc, top 6
+const all = await getCollection("works");
+const featured = all
+  .filter((e) => e.data.source === "mevar" && e.data.status === "published" && e.data.type === "post")
+  .map((e) => ({ ...e, _date: (e.data.published_at as string | null) ?? (e.data.date as string | null) }))
+  .sort((a, b) => (b._date ?? "").localeCompare(a._date ?? ""))
+  .slice(0, 6);
+
+const counts = {
+  total: all.length,
+  sermons: all.filter((e) => deriveKind(e.data) === "sermon").length,
+  books: all.filter((e) => deriveKind(e.data) === "book").length,
+  studies: all.filter((e) => deriveKind(e.data) === "bible_study").length,
+  exhortations: all.filter((e) => deriveKind(e.data) === "exhortation").length,
+};
+---
+
+<Layout>
+  <section class="border-b bg-gradient-to-b from-background to-muted/30">
+    <div class="container mx-auto px-4 py-16 md:py-24 text-center">
+      <h1 class="text-4xl md:text-6xl font-bold tracking-tight mb-6">
+        Étude de la Parole<br /><span class="text-muted-foreground">pour le temps de la fin</span>
+      </h1>
+      <p class="max-w-2xl mx-auto text-lg text-muted-foreground mb-8">
+        Une bibliothèque numérique reliant prédications, exhortations, études bibliques et livres
+        — chaque référence connectée au texte original et aux écrits qui en parlent.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/works" class="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-sm font-medium text-primary-foreground hover:bg-primary/90 transition">
+          Parcourir la bibliothèque
+        </a>
+        <a href="/recherche" class="inline-flex items-center justify-center rounded-md border border-input bg-background px-6 py-3 text-sm font-medium hover:bg-accent hover:text-accent-foreground transition">
+          Recherche par verset
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="border-b">
+    <div class="container mx-auto px-4 py-8">
+      <div class="grid grid-cols-2 md:grid-cols-5 gap-4 text-center">
+        <div><div class="text-2xl font-bold">{counts.total.toLocaleString("fr-FR")}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">documents</div></div>
+        <div><div class="text-2xl font-bold">{counts.sermons.toLocaleString("fr-FR")}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">prédications</div></div>
+        <div><div class="text-2xl font-bold">{counts.exhortations}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">exhortations</div></div>
+        <div><div class="text-2xl font-bold">{counts.studies}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">études bibliques</div></div>
+        <div><div class="text-2xl font-bold">{counts.books}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">livres</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="container mx-auto px-4 py-12">
+    <h2 class="text-2xl font-semibold mb-6 tracking-tight">Récemment publié</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {featured.map((entry) => (
+        <Card class="flex flex-col">
+          {entry.data.local_image && (
+            <div class="aspect-[16/9] overflow-hidden rounded-t-lg bg-muted">
+              <img src={`/${entry.data.local_image}`} alt={entry.data.title ?? entry.id} loading="lazy" class="object-cover w-full h-full" />
+            </div>
+          )}
+          <CardHeader>
+            <div class="flex flex-wrap gap-1 mb-2">
+              {(entry.data.tags ?? []).slice(0, 3).map((t) => <Badge variant="secondary" class="text-xs">{t}</Badge>)}
+            </div>
+            <CardTitle class="text-xl"><a href={`/works/${entry.id}`} class="hover:underline">{entry.data.title ?? entry.id}</a></CardTitle>
+            {entry._date && <CardDescription>{formatDateFr(entry._date)}</CardDescription>}
+          </CardHeader>
+          {entry.data.summary && (
+            <CardContent class="text-sm text-muted-foreground line-clamp-3">{entry.data.summary}</CardContent>
+          )}
+          <CardFooter class="mt-auto">
+            <a href={`/works/${entry.id}`} class="text-sm font-medium hover:underline">Lire →</a>
+          </CardFooter>
+        </Card>
+      ))}
+    </div>
+  </section>
+</Layout>
