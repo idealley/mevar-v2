@@ -1,0 +1,112 @@
+---
+source: "mevar-pdfs"
+sermon_id: "exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait"
+title: "Soyez parfaits comme votre Père céleste est parfait"
+date: "2022-03-01"
+year: 2022
+preacher: "M'BRA Parfait"
+summary: "Cette exhortation de mars 2022 appelle les croyants à aspirer à la perfection comme le Père céleste, en vivant l'Évangile de Christ de manière non rationnelle, par l'amour des ennemis, le pardon et la distinction par la foi au milieu des épreuves."
+tags:
+  - "perfection"
+  - "Évangile"
+  - "sermon sur la montagne"
+  - "foi"
+  - "épreuve"
+persons:
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Noé"
+  - "Daniel"
+  - "Job"
+  - "Anne"
+  - "Lot"
+  - "David"
+  - "Paul"
+  - "Pierre"
+  - "Malchus"
+places:
+  - "Babylone"
+  - "Sodome"
+  - "Gomorrhe"
+themes:
+  - "perfection chrétienne"
+  - "vie selon l'Esprit"
+  - "amour des ennemis"
+  - "épreuve de distinction"
+  - "maturité spirituelle"
+  - "pratique de l'Évangile"
+  - "renoncement à soi"
+pdf_url: "https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
+llm_cleaned: true
+---
+*Exhortation de Mars 2022*
+
+# SOYEZ PARFAITS COMME VOTRE PÈRE CÉLESTE EST PARFAIT
+
+Mes bien-aimés frères et sœurs, je vous salue tous dans le nom précieux de notre Seigneur et Sauveur Jésus-Christ par cette parole de Christ dans le livre de Matthieu, au chapitre 5 : Soyez donc parfaits, comme votre Père céleste est parfait. (Matthieu 5 :48) C’est le sceau à la longue exhortation que le Seigneur adressa à ses disciples qui l’écoutaient dans le sermon sur la montagne. Ce fut dans cette prédication qu’Il redonna un sens spirituel à la loi donnée à Moïse. L’injonction est faite aux disciples d’être parfaits comme le Père céleste est parfait. Cette comparaison avec le Père céleste qui paraît très surréaliste est pourtant l’objectif visé par l’Esprit de Dieu en nous. En effet, nous devons être parfaits comme notre Père céleste – et Jésus-Christ est venu pour nous enseigner le chemin de cette perfection. Non seulement, Il est venu enseigner le Chemin de la perfection, mais Il est Celui qui nous conduit sur cette voie de perfection par le Saint-Esprit. Ce qui nous revient dans cette œuvre de perfectionnement est l’expression de notre volonté.
+
+À ce sujet, on se souvient de l’histoire du jeune homme riche, un disciple qui avait été animé par une très bonne intention – celle d’être parfait. Jésus lui avait dit : « Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans le ciel. Puis viens, et suis-moi. » (Matthieu 19 :21) Ce qui importait ici était l’expression de sa volonté. Il fallait que ce riche disciple accepte de remplir les conditions pour être parfait. Cependant la fin de l’histoire nous apprend que ce disciple retourna le cœur triste car il ne pouvait pas payer le prix de cette perfection. Il ne pouvait pas faire le sacrifice que le Christ lui avait demandé dans son propre intérêt. Au départ, il voulait être parfait – il en avait manifesté le désir, mais il ne pouvait pas remplir les conditions pour atteindre cette perfection. Cela voulait bien dire qu’une chose est de vouloir la perfection, mais qu’une autre est de pouvoir payer le prix attaché à cette perfection.
+
+Mes bien-aimés, nous sommes appelés à être parfaits comme notre père céleste, car nous avons hérité de sa nature divine en Jésus-Christ. Nous ne pouvons pas être à Christ et ne pas aspirer à la perfection, à moins que nous n’ayons pas renoncé à nous-mêmes. Aujourd’hui, beaucoup n’ont pas bien compris l’Évangile, par conséquent, ils traînent encore dans la religion et dans le monde, puisqu’ils n’ont pas d’objectif. Mais ceux qui ont pour objectif d’être parfait comme le Père céleste et qui ont renoncé à eux-mêmes pour emprunter la voie de la perfection, sont prêts à faire tous les sacrifices.
+
+Quand nous lisons le sermon sur la montagne, nous pouvons tout de suite voir la voie de la perfection clairement dépeinte sous nos yeux spirituels. C’est un chemin clairement tracé à travers les enseignements de Jésus. Celui qui l’emprunte arrivera certainement au BUT. Au départ, on ne comprenait pas pourquoi Jésus avait demandé à ses disciples d’être parfait comme le Père céleste. Et on se demandait qui pouvait être parfait. On dit même que la perfection n’est pas de ce monde. Mais ce que le croyant doit comprendre est très simple : la chair et le sang ne peuvent jamais arriver à la perfection, mais dans le royaume de Dieu, la perfection est possible parce que le chrétien est devenu une habitation du Saint-Esprit. C’est l’Esprit de Dieu en nous qui nous conduit dans les chemins de la perfection. Cet Esprit a tous les moyens pour nous amener à comprendre la profondeur de l’Évangile qui a été enseigné par le Seigneur Jésus – lequel est la puissance qui détruit le vieil homme pour laisser apparaître l’homme parfait en Jésus-Christ.
+
+Nous devons savoir qu’il existe une relation étroite entre l’homme parfait en Christ et la foi. Et l’homme parfait est celui que Paul appelle l’homme fait – qui n’est plus un enfant dans la foi, mais une personne mûre, qui a la connaissance et la crainte de Dieu.
+> **Frères**, ne soyez pas des enfants sous le rapport du jugement ; mais pour la malice, soyez enfants, et, à l'égard du jugement, soyez des hommes faits. (1 Corinthiens 14 :20)
+> **Vous**, en effet, qui depuis longtemps devriez être des maîtres, vous avez encore besoin qu'on vous enseigne les premiers rudiments des oracles de Dieu, vous en êtes venus à avoir besoin de lait et non d'une nourriture solide. Or, quiconque en est au lait n'a pas l'expérience de la parole de justice ; car il est un enfant. Mais la nourriture solide est pour les hommes faits, pour ceux dont le jugement est exercé par l'usage à discerner ce qui est bien et ce qui est mal (Hébreux 5 :12-14)
+
+Quand on lit le sermon de Jésus, on comprend qu’Il s’adressait à des hommes faits. Il est clair que les disciples ne comprenaient rien à ce discours, mais ils étaient avec Lui par la foi. C’est pour cette raison qu’Il leur a dit qu’ils ne pouvaient pas comprendre ses paroles, mais que le Saint-Esprit allait venir pour leur rappeler ce qu’ils avaient entendu :
+> **Vous avez entendu qu'il a été dit aux anciens : Tu ne tueras point ; celui qui tuera mérite d'être puni par les juges. Mais moi, je vous dis que quiconque se met en colère contre son frère mérite d'être puni par les juges ; que celui qui dira à son frère : Raca! mérite d'être puni par le sanhédrin; et que celui qui lui dira: Insensé! mérite d'être puni par le feu de la géhenne.**
+
+Comment se fait-t-il qu’en Christ, le meurtrier se trouve être celui qui hait son frère ou son prochain ?
+> **Nous savons que nous sommes passés de la mort à la vie, parce que nous aimons les frères. Celui qui n'aime pas demeure dans la mort. Quiconque hait son frère est un meurtrier, et vous savez qu'aucun meurtrier n'a la vie éternelle demeurant en lui.** (1 Jean 3 :14-15)
+
+Mes bien-aimés, tous les chrétiens ne comprennent pas cette parole de Jésus, et pourtant, c’est la vérité. Après la pentecôte, les disciples ont bien compris les enseignements du Maître, car ils sont devenus parfaits – remplis de la vie et de la puissance de Christ. Voyez comment Jean définit le meurtrier : exactement comme Jésus l’avait décrit dans son sermon. Celui qui est devenu parfait ne peut haïr ou mépriser son prochain, mais il aura de l’amour pour tout le monde.
+
+Le prix à payer ici, c’est le pardon. Pardonner tout – supporter tout et accepter tout. N’est-ce pas ce que Jésus a dit ?
+> **Si donc tu présentes ton offrande à l'autel, et que là tu te souviennes que ton frère a quelque chose contre toi, laisse là ton offrande devant l'autel, et va d'abord te réconcilier avec ton frère ; puis, viens présenter ton offrande.**
+
+Peut-on se réconcilier sans accepter l’inacceptable ? Peut-on se réconcilier sans se pardonner ?
+
+Mes bien-aimés, j’ai personnellement constaté qu’il n’existe rien de rationnel dans l’Évangile de Christ. La vie de Christ est le monde à l’envers comme on le dit. N’est-ce pas pour cette raison que ceux qui aspirent à la perfection ne sont pas nombreux ? Si dans ton cœur, tu as haï quelqu’un, tu l’as tué devant Dieu, par conséquent, tu es appelé à le ramener à la vie dans ton cœur, par l’amour, afin que ton meurtre, dont toi seul et Dieu en avez la connaissance, te soit pardonné et que tu ne sois plus vu par le ciel comme un meurtrier. Quand le cœur qui a commis le meurtre refuse de se repentir, il est lui-même exposé à la mort et au jugement de Dieu, car il subira la condamnation du meurtrier. Ce jugement peut être une maladie ou une souffrance quelconque qui va s’abattre sur lui. Ce sont des choses qu’on peut constater dans la vie des chrétiens qui ont le cœur dur, comme Jésus l’a dit dans Matthieu 19 au sujet du mariage et du divorce :
+> **Vous avez appris qu'il a été dit : Tu ne commettras point d'adultère. Mais moi, je vous dis que quiconque regarde une femme pour la convoiter a déjà commis un adultère avec elle dans son cœur.** versets 27-28.
+
+Voici encore une loi qui s’adresse aux hommes mûrs. Désormais, l’adultère est celui qui a désiré la femme de quelqu’un d’autre dans son cœur, à l’insu de la femme elle-même et de son mari. L’adultère est constaté ici par le Saint-Esprit qui habite en nous et non par une quelconque personne. Qui peut en finir avec les mauvais désirs du cœur ? C’est le parfait – c’est-à-dire celui qui a compris que c’est le Saint-Esprit qui constate maintenant le péché dans le cœur et non les hommes. Voilà pourquoi les yeux des hommes ne sont pas importants dans la marche de la foi. Ceux qui se cachent des hommes pour faire le mal n’ont pas grandi, ni mûri dans la foi. Ils n’ont pas encore compris que nous sommes appelés à être parfait et que notre perfection est liée à notre croissance spirituelle. Dans la loi de Moïse, le coupable était celui qu’on prenait sur les faits – en flagrant délit. Mais dans le royaume de Dieu, le coupable est celui que le Saint-Esprit a pris en flagrant délit, déjà dans ses pensées. C’est pour cette raison que l’adultère et le meurtre sont consommés dans la pensée. Celui qui désire la femme de quelqu’un d’autre dans son cœur est un adultère. Celui qui hait son prochain est un meurtrier :
+> **Il a été dit : Que celui qui répudie sa femme lui donne une lettre de divorce. Mais moi, je vous dis que celui qui répudie sa femme, sauf pour cause d'infidélité, l'expose à devenir adultère, et que celui qui épouse une femme répudiée commet un adultère.** (Matthieu 5 :31-32)
+
+La vraie délivrance du chrétien procède de la bonne compréhension de l’Évangile de Christ – cet Évangile qui n’est pas du tout rationnel pour les hommes. Il est certainement rationnel pour l’homme spirituel qui a expérimenté la nature divine, mais il ne l’est pas pour l’homme animal qui demeure encore dans la logique de ce monde. On peut faire beaucoup de prière pour vous, afin de vous sortir de vos problèmes, mais la compréhension claire et juste de l’Évangile de Christ et son application à notre vie de tous les jours demeure la véritable puissance contre le diable et sa séduction, car celui qui vit l’Évangile est protégé et gardé par la puissance de Dieu.
+> **Vous avez appris qu'il a été dit : œil pour œil, et dent pour dent. Mais moi, je vous dis de ne pas résister au méchant. Si quelqu'un te frappe sur la joue droite, présente-lui aussi l'autre.** versets 38-39
+
+Mes bien-aimés frères et sœurs, où est ce qui est rationnel dans cette déclaration ? Qu’on ne résiste pas au méchant, alors qu’on sait qu’il est en train de nous faire du mal ? Qu’on tende la joue droite quand on vient nous gifler sur la joue gauche ? Où est ce qui est juste ici, alors que la loi disait œil pour œil et dent pour dent, ce qui voulait dire qu’on tue celui qui tue et on frappe celui qui frappe. Pour les chrétiens charnels, l’Évangile n’est pas rationnel, donc ils ne peuvent pas le vivre. Mais pour les parfaits, c’est justement la puissance de Dieu. En Christ, nous avons un rapport différent avec les méchants. Nous n’avons pas le droit de les voir comme les hommes les voient. Nous n’avons pas non plus le droit de nous venger d’eux. Si on le fait, Dieu n’est pas avec nous. On peut constater par exemple que dans le Coran, il existe encore la loi du talion. Celui qui tue doit être tué. C’est la charia, la loi islamique. Un chrétien qui pratique la loi du talion dans la Maison de Dieu est un musulman – un simple religieux qui a abandonné la marche de la perfection. Un tel frère n’a rien compris de l’Évangile de Christ.
+> **Si quelqu'un veut plaider contre toi, et prendre ta tunique, laisse-lui encore ton manteau. Si quelqu'un te force à faire un mille, fais-en deux avec lui.**
+
+Jésus-Christ est venu dans ce monde comme une contradiction. Son enseignement et son comportement n’étaient pas logiques, ni rationnels. Il n’existe aucune logique humaine dans la marche de la foi pour la simple raison que cette marche est spirituelle. Si ce que nous sommes devenus est spirituel, notre comportement ne sera pas logique selon les hommes. C’est par là qu’on voit la différence entre les chrétiens spirituels et les chrétiens charnels. Celui qui a bien compris l’Évangile devient spirituel.
+> **Vous avez appris qu'il a été dit : Tu aimeras ton prochain, et tu haïras ton ennemi. Mais moi, je vous dis : Aimez vos ennemis, bénissez ceux qui vous maudissent, faites du bien à ceux qui vous haïssent, et priez pour ceux qui vous maltraitent et qui vous persécutent, afin que vous soyez fils de votre Père qui est dans les cieux ; car il fait lever son soleil sur les méchants et sur les bons, et il fait pleuvoir sur les justes et sur les injustes.**
+
+Mes bien-aimés, si notre père céleste fait lever son soleil sur les bons et les méchants, et s’Il fait pleuvoir sur les justes et les injustes, pensons-nous qu’il est juste de notre part de mépriser ou de haïr les méchants ? Avons-nous raison de souhaiter le malheur au méchant ? La réalité est que selon l’Évangile de Christ, il ne nous appartient pas de nous venger, ni de haïr le méchant. Il ne nous appartient pas de vouloir du mal du méchant. Ce que j’ai compris est que les méchants subsistent pour éprouver les cœurs des croyants. Car par l’attitude du méchant à ton égard, tu sauras toi-même si tu vis l’Évangile ou pas. Tu comprendras si tu as grandi ou pas dans la foi.
+> **Si vous aimez ceux qui vous aiment, quelle récompense méritez-vous ? Les publicains aussi n'agissent-ils pas de même ?**
+
+Voilà qui est clair ! Notre mérite dans le ciel viendra de notre attitude vis-à-vis du comportement des méchants et des injustes à notre égard. Frères et sœurs, combien de fois est-il important pour nous de comprendre l’Évangile de Christ ? Avons-nous réellement mûri ?
+> **Et si vous saluez seulement vos frères, que faites-vous d’extraordinaire ? Les païens aussi n'agissent-ils pas de même ?**
+
+> **Soyez donc parfaits, comme votre Père céleste est parfait.**
+
+Mes chers frères et sœurs, il faut que les choses soient très claires pour chacun de nous. Aujourd’hui, ce que Dieu attend de nous, c’est que notre foi l’impressionne. Le comportement que Dieu recherche avec nous c’est la pratique de l’Évangile. Le reste n’est que superflu. Si notre attitude ne sort pas de l’ordinaire, quelle récompense et quel mérite avons-nous dans le ciel ? Si nous n’aimons que ceux qui nous aiment – et si nous ne saluons que ceux qui nous saluent, où est notre perfection ou notre maturité ? Si nous ne pouvons pas impressionner Dieu et les hommes par notre foi, qu’avons-nous compris de l’Évangile ? Jésus a dit aux disciples que si leur justice ne dépassait pas celle des pharisiens, ils n’auraient pas de mérite. Si nous avons grandi et mûri, notre foi devrait le démontrer et par cela, impressionner le Seigneur. Il devrait pouvoir nous louer comme Il avait loué plusieurs dans les écritures. On se souvient que Dieu avait loué la justice de Noé, Daniel et Job dans les prophéties – ce n’est pas en vain. (Ézéchiel 14 :14 ;20)
+
+Ce qui a causé le naufrage dans les églises qui ont cru au Message du temps de la fin, c’est que les frères ont mis en avant les révélations contenues dans les prédications du prophète, au lieu de mettre l’accent sur la qualité de la vie chrétienne. Que vaut une révélation divine si elle ne nous transforme pas ? Que vaut une expérience spirituelle si elle n’a pas changé notre vie ? Nous avons entendu assez de prédications de la parole depuis des années. Maintenant, il s’agit pour nous de nous distinguer par notre foi. C’est pour cette raison que nous sommes éprouvés, car l’épreuve nous distingue. Il existe à proprement parler, une épreuve de distinction. Les épreuves que Daniel et ses compagnons ont connu en Babylone étaient des épreuves de distinction. L’épreuve de Job était une épreuve de distinction. L’épreuve de Anne était une épreuve de distinction. Au temps de Noé, la méchanceté et la violence étaient sur la terre, au point que Dieu regretta d’avoir créé les hommes. Cependant il est écrit que Noé trouva grâce aux yeux de Dieu, car son esprit n’était pas associé à la méchanceté des hommes de sa génération. Noé vécut dans une génération dont il n’avait pas l’esprit. C’était une épreuve.
+
+Pareillement, Lot vécut dans une génération dont il n’avait pas l’esprit. Sa génération vivait dans la débauche sexuelle comme notre génération aujourd’hui, mais il n’avait pas l’esprit de cette génération. Vivre dans Sodome et Gomorrhe était une épreuve, à cause du péché, mais Lot se distingua par sa foi. Il n’épousa pas l’esprit de sa génération. C’est là ce que Dieu nous demande maintenant : que notre foi nous distingue de l’esprit de notre génération. Que nous le voulions ou pas, nous y sommes. Les portes du ciel sont grandement ouvertes – nous faisant ainsi entrer dans toutes les grâces de Dieu. Le reste se trouve dans la décision de chacun de se distinguer par ses œuvres et sa consécration.
+
+Toute épreuve qui nous arrive met en exergue notre niveau de foi et de combativité dans la marche. Certes, l’œuvre de réveil nous a relancés dans la course vers l’enlèvement, mais il est clair que tous ne seront pas prêts pour l’enlèvement. Tous les coureurs dans un marathon n’arrivent pas au même moment sur la ligne d’arrivée. Comme le Seigneur l’a dit : Il y a beaucoup d’appelés, mais peu d’élus. Qu’est-ce qui fera la différence entre les nombreux appelés et le peu d’élus ? C’est notre attitude vis-à-vis de l’Évangile de Christ. Comment vivons-nous l’Évangile infaillible de Christ que nous avons reçu ? Pour ceux qui ne le savent pas, sachez-le aujourd’hui : C’est la pratique de l’Évangile qui nous distinguera et nous conduira à la perfection. Si nous disons que nous avons été réveillés par le Cri de Minuit, où sont les fruits de notre réveil spirituel ? Où sont les œuvres de notre réveil ?
+
+Jésus-Christ a marqué le monde par son comportement : sa douceur et la compassion qu’il avait pour les pécheurs et les gens de mauvaise vie ont parlé en sa faveur. L’assistance qu’il apportait aux pauvres a parlé en sa faveur. Son humilité a parlé pour lui. Sa compassion pour les malades et les possédés a parlé en sa faveur. Son zèle pour l’œuvre de Dieu a parlé en sa faveur. Il ne maudissait pas, mais il bénissait. Il ne pensait pas mal des autres et ne souhaitait pas la mort de ses ennemis. Il était patient avec les méchants. Quand les méchants le lapidaient dans un lieu, il allait dans un autre endroit pour faire l’œuvre de Dieu. C’est lui qui remit à sa place, l’oreille de Malchus que Pierre avait tranchée par son épée. Ses adversaires étaient les démons et non les hommes. Il passait son temps à enseigner le peuple de Dieu et à prier pour ceux qui en avaient besoin. Jésus a vécu pour la gloire de notre père céleste. Ce fut par lui que le monde connut le Dieu invisible. Aujourd’hui, ce Jésus est devenu un ESPRIT, et Il demande à vivre en nous, ses disciples qui avons cru en Lui, à son Évangile.
+
+Que faisons-nous pour l’impressionner ? Que faisons-nous pour attirer son attention sur nous ? Les vaillants héros de David avaient chacun, un ou plusieurs exploits à leur actif.
+
+Quand nous lisons Hébreux 11, on peut voir que Paul a raconté en quelques mots, quelques exploits réalisés par nos ancêtres dans la foi. Mais seront-ils les seuls à réaliser des exploits avec Dieu ? Non ! Aussi certainement que Christ est vivant, l’heure est venue pour chacun de nous de réaliser des exploits avec Dieu. Et cela commence par sa recherche, car celui qui n’a pas trouvé Dieu ne peut pas réaliser des exploits avec Lui.
+
+Ma prière est que Dieu nous donne de Le chercher et de Le trouver dans notre génération pour faire avec Lui de grandes choses. Que Sa grâce et Sa paix soient sur chacun de nous. À Lui Seul soient la gloire et les honneurs aux siècles des siècles. AMEN !
+
+En Christ notre Seigneur
+
+Past M’BRA Parfait

@@ -1,0 +1,323 @@
+---
+source: "mevar-pdfs"
+sermon_id: "7_sceaux_3"
+title: "Le Message des 7 Sceaux (4e sceau-1er partie)"
+date: "2019-07-22"
+year: 2019
+location: "Koumassi"
+preacher: "M'BRA Parfait"
+summary: "Le prédicateur explique le 4e sceau de l'Apocalypse, qui correspond au 7e âge de l'Église (Laodicée). Il décrit la stratégie de Satan à travers l'organisation et le mélange religion-politique, et montre que la mort spirituelle et physique règne. Il oppose l'esprit de l'aigle (prophétique) à l'esprit de Jézabel (organisation), et exhorte les croyants à imiter Noé, Job et Daniel pour échapper aux malédictions."
+tags:
+  - "4e sceau"
+  - "7e âge"
+  - "Laodicée"
+  - "esprit prophétique"
+  - "organisation"
+persons:
+  - "Jean"
+  - "Constantin"
+  - "Martin Luther"
+  - "Noé"
+  - "Job"
+  - "Daniel"
+  - "Élie"
+  - "Élisée"
+  - "Jéhu"
+  - "Jézabel"
+  - "Achab"
+  - "Josaphat"
+  - "Michée"
+  - "Trump"
+  - "Netanyahu"
+places:
+  - "Koumassi"
+  - "Côte d'Ivoire"
+  - "Europe"
+  - "États-Unis"
+  - "Soudan"
+  - "Éthiopie"
+  - "Somalie"
+  - "Gabon"
+  - "France"
+  - "Canada"
+  - "Jérusalem"
+  - "Israël"
+themes:
+  - "mort spirituelle"
+  - "organisation religieuse"
+  - "mélange politique-religion"
+  - "esprit prophétique"
+  - "malédiction divine"
+  - "persécution"
+  - "faux prophètes"
+pdf_url: "https://mevar.org/content/files/2022/12/7_sceaux_3.pdf"
+llm_cleaned: true
+---
+Le Message des 7 Sceaux (4e sceau-1er partie)
+
+*Prêché le dimanche 22 Juillet 2019 à Koumassi par le frère M'BRA Parfait*
+
+Aujourd'hui nous sommes à la quatrième séance. J'espère que vous suivez et que vous prenez note. Normalement nous sommes sur le 4e sceau aujourd'hui. Celui qui ne comprend pas quelque chose peut poser des questions. Mais ne vous inquiétez pas, dans tous les cas, nous allons y revenir. Je ferai un rappel sur ce qui a été dit la dernière fois, avant d'aborder le 4e sceau et toutes les connections qui s'y rapportent. On lira probablement le 5e sceau pour lequel il y a peu à dire. Puis nous nous arrêterons là, et verrons comment Dieu va nous conduire. Alors nous lisons Apocalypse chapitre 6 le verset 7 :
+
+> **7** Quand il ouvrit le quatrième sceau, j'entendis la voix du quatrième être vivant qui disait : Viens. **8** Je regardai, et voici, parut un cheval d'une couleur pâle. Celui qui le montait se nommait la mort, et le séjour des morts l'accompagnait. Le pouvoir leur fut donné sur le quart de la terre, pour faire périr les hommes par l'épée, par la famine, par la mortalité, et par les bêtes sauvages de la terre.
+
+Nous venons de lire le 4e sceau. C'est le 7e âge de l'Église, c'est-à-dire le nôtre, qui va avec le 4e sceau. Et il se trouve dans Apocalypse chapitre 3 à partir du verset 14 :
+
+> **14** Ecris à l'ange de l'Église de Laodicée : Voici ce que dit l'Amen, le témoin fidèle et véritable, le commencement de la création de Dieu : **15** Je connais tes œuvres. Je sais que tu n'es ni froid ni bouillant. Puisses-tu être froid ou bouillant ! **16** Ainsi, parce que tu es tiède, et que tu n'es ni froid ni bouillant, je te vomirai de ma bouche. **17** Parce que tu dis : Je suis riche, je me suis enrichi, et je n'ai besoin de rien, et parce que tu ne sais pas que tu es malheureux, misérable, pauvre, aveugle et nu, **18** je te conseille d'acheter de moi de l'or éprouvé par le feu, afin que tu deviennes riche, et des vêtements blancs, afin que tu sois vêtu et que la honte de ta nudité ne paraisse pas, et un collyre pour oindre tes yeux, afin que tu voies. **19** Moi, je reprends et je châtie tous ceux que j'aime. Aie donc du zèle, et repens-toi. **20** Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi. **21** Celui qui vaincra, je le ferai asseoir avec moi sur mon trône, comme moi j'ai vaincu et me suis assis avec mon Père sur son trône. **22** Que celui qui a des oreilles entende ce que l'Esprit dit aux Églises !
+
+Je voudrais aussi lire les deux autres sceaux qu'on avait traités la dernière fois dans Apocalypse chapitre 6 verset 3 :
+
+> **3** Quand il ouvrit le second sceau, j'entendis le second être vivant qui disait : Viens. **4** Et il sortit un autre cheval, roux. Celui qui le montait reçut le pouvoir d'enlever la paix de la terre, afin que les hommes s'égorgeassent les uns les autres ; et une grande épée lui fut donnée. **5** Quand il ouvrit le troisième sceau, j'entendis le troisième être vivant qui disait : Viens. Je regardai, et voici, parut un cheval noir. Celui qui le montait tenait une balance dans sa main. **6** Et j'entendis au milieu des quatre êtres vivants une voix qui disait : Une mesure de blé pour un denier, et trois mesures d'orge pour un denier ; mais ne fais point de mal à l'huile et au vin.
+
+Dimanche passé, nous avions dit que le 2e sceau était en relation avec le 2e et le 3e âge de l'Église et que le 3e sceau était en relation avec le 4e le 5e et le 6e âge de l'Église. Nous avons traité beaucoup d'âges de l'Église. Mais ce qu'il faut retenir c'est, qu'environ un siècle après la pentecôte, les serviteurs de ce 2ème âge étaient les disciples des apôtres choisis par le Christ et de ceux qui étaient entrés dans le ministère après la Pentecôte. Et comme en ce temps-là, la Bible n'était pas écrite ni assemblée comme elle l'est aujourd'hui, il était difficile de faire passer le message. Aujourd'hui, nous avons tous des bibles, il suffit qu'un prédicateur vienne et donne le passage, on le lit et on sait ce qui y est écrit. Mais en ce temps, ce n'était pas comme ainsi. Ce sont des lettres que les apôtres écrivaient pour encourager les frères. Et ce sont ces lettres qui ont été rassemblées aujourd'hui par la grâce de Dieu. Nous pouvons lire et voir la doctrine établie là-dedans. Même lorsque Jean a eu la vision de l'Apocalypse, cela a été écrit et nous, nous l'avons aujourd'hui. Mais en leur temps, ce n'était pas comme ça.
+
+Donc faire passer le message n'était pas facile. Or l'Écriture dit « mon peuple meurt par manque de connaissance ». C'est ainsi que les discussions ont commencé dans l'Église. Entre temps, le Seigneur par l'Esprit avait annoncé un esprit : l'esprit antichrist. Il s'agit du cavalier qui chevauchait le cheval blanc dans le 1er sceau et qui était allé en vainqueur et pour vaincre. Donc quand nous sommes entrés dans le 2e âge, nous avons vu que le Seigneur avait annoncé une persécution de 10 jours. Vous avez vu que déjà dans les Actes des Apôtres, on avait tué Etienne, Jacques, même Paul a été battu plusieurs fois. Donc le diable est entré avec l'esprit de l'organisation pour chasser le Saint-Esprit de l'Église et quand il n'a pas réussi à le faire, il est venu avec la séduction, la persécution. C'est ce qu'a relaté le 2e âge de l'Église. Le Seigneur avait parlé d'une persécution de dix jours, mais nous avons vu que dans l'histoire, il a été question de dix années de persécution. Cela a commencé en l'an 303 et a été aboli en l'an 313. On a donc bien dix années de persécution dans l'empire romain. Et c'étaient des persécutions qui ont eu lieu à la suite de décrets régulièrement pris par les différents rois qui géraient l'empire romain en ce temps-là. C'est ensuite l'empereur Constantin qui, après une bataille, avait fait cesser cette persécution. Il avait été influencé par une vision que Dieu lui avait montrée selon laquelle il gagnerait la guerre qu'il était en train de mener. Effectivement, il a remporté la victoire. Donc comme il a gagné, il s'est rapproché des chrétiens et c'est comme ça qu'il a fait cesser cette persécution.
+
+Il a par la suite invité les chrétiens à se mettre ensemble ; c'était une réforme. Il y a eu donc le concile de Nicée en 325 pendant son règne. Il les a invités à discuter pour qu'ils s'entendent. Et quand ils ont trouvé des points d'accord, puisque Constantin était l'empereur et qu'il était proche des chrétiens, il a fait en sorte que la foi chrétienne et l'empire se mettent ensemble. Vous avez vu ce qui s'est passé ici (ndlr : en Côte d'Ivoire avec Laurent Gbagbo) ! Comme le président élu, sa femme et son environnement étaient proches de la foi chrétienne, alors les pasteurs entraient et sortaient du palais. Comprenez-vous ? Aujourd'hui ceux qui sont en place sont proches de l'Islam donc, à leur tour, les imams entrent et sortent du palais. C'est ce qui s'est passé au temps de Constantin. Or c'était une stratégie de satan ; parce que dans l'évangile tel que Jésus-Christ l'a établi, il a fait une différence nette entre les chrétiens et le monde. On ne doit pas mélanger ces deux choses. Celui qui gouverne, gouverne, celui qui est chrétien fait aussi de son côté son travail. Mais lui, il a mélangé la foi chrétienne avec son pouvoir politique ; et j'ai dit qu'aujourd'hui dans notre génération c'est symbolisé par la femme qui est assise sur la bête. Cette entreprise de l'ennemi a continué jusqu'à nous aujourd'hui. Nous avons lu dans Apocalypse 17, une femme assise sur une bête. Cette femme représente le pouvoir religieux de satan, et la bête c'est le pouvoir politique qu'il a mis en place.
+
+Donc ce mélange entre la religion et la politique ne s'est pas arrêté. Cela a continué jusqu'à nos jours parce que c'est là que le diable se sent fort. Et nous nous sommes rendus compte qu'au fil du temps, c'est le pouvoir religieux qui a commencé a dominer sur le pouvoir politique, car les papes se sont affermis, ainsi que tous ceux qui étaient dans la prêtrise. Ils ont commencé à dominer l'empire romain. La fin de cet empire se situe dans les années 492, mais tous les seigneurs qui étaient en Europe depuis ce temps étaient dominés par l'église. Quand ils ont fait asseoir leur domination sur le pouvoir politique, ils ont commencé alors à imposer au peuple un commerce. Et c'est ce commerce qui est décrit dans le 3e sceau :
+
+> **5** Quand il ouvrit le troisième sceau, j'entendis le troisième être vivant qui disait : Viens. Je regardai, et voici, parut un cheval noir. Celui qui le montait tenait une balance dans sa main. **6** Et j'entendis au milieu des quatre êtres vivants une voix qui disait : Une mesure de blé pour un denier, et trois mesures d'orge pour un denier ; mais ne fais point de mal à l'huile et au vin.
+
+Je vous ai dit que c'est dans le commerce qu'on trouve la balance. Il y a eu un temps dans l'histoire de l'église où on vendait le salut : les indulgences. Pour être sauvé il fallait « acheter » ce salut. Ce sont des doctrines catholiques qui ont fondé cette pratique. Et les peuples, puisqu'ils voulaient être sauvés, donnaient de l'argent pour leur salut, pour le pardon de leurs péchés. Cela a duré comme pendant longtemps et plusieurs sont morts parce qu'ils ne croyaient pas en ces pratiques. On les appelait des « hérétiques » et il y avait des tribunaux pour les juger. C'est-à-dire qu'après la persécution des dix ans, la mort des chrétiens a continué. Des historiens martyrologues parlent de 68 millions de chrétiens morts durant ces âges de l'Église ! Donc tout comme le cheval roux symbolise le sang des croyants, le cheval noir symbolise aussi la mort spirituelle, les ténèbres spirituelles avec toutes ses conséquences sur la foi. En effet, beaucoup croyaient dans ces choses parce qu'ils n'avaient pas de connaissance ! Ce n'était pas tout le monde qui s'opposait, beaucoup y croyaient et faisaient le nécessaire. C'est la stratégie de satan qui a continué comme ainsi.
+
+Au départ, il s'agissait de bloquer l'Esprit de Dieu, donc d'organiser la foi chrétienne et la mélanger avec la mondanité. Pendant un moment, ça n'a pas tenu aussi il a envoyé la persécution. Le diable a vu que malgré la persécution, les chrétiens sont restés toujours aussi fervents. Il a donc fait évoluer sa stratégie en associant les chrétiens avec son pouvoir en place. Et apparemment, c'est ce qui a marché, car on voit beaucoup cela aujourd'hui. Or c'est ce qui est dangereux ! C'est contre ça qu'on doit se prémunir.
+
+Jusqu'au temps de Martin Luther qui a appelé la Réforme en Europe, les choses ont fonctionné ainsi. Martin Luther était un moine catholique et à son époque, dans les années 1500, il y a eu l'invention de l'imprimerie. C'est alors qu'ils ont commencé à imprimer la Bible. Ils ont retrouvé et rassemblé tout ce qu'ils ont pu, comme le Nouveau Testament, et ont imprimé ce qui est devenu la Bible. C'est ainsi que des chrétiens ont commencé à avoir accès à la Bible. Et c'est ainsi également que Martin Luther a eu une Bible en main, qu'il a commencé à la lire et qu'il s'est rendu compte que le salut ne s'achetait pas.
+
+De même pour le pardon des péchés ; si tu pèches et que Dieu te pardonne c'est fini ! Ils ont ainsi découvert beaucoup de pratiques qui se trouvaient dans l'église catholique et qui n'étaient pas bibliques. Martin Luther a énuméré ainsi jusqu'à 95 points avant d'aller les coller sur les murs de l'église. Il a alors été convoqué au Vatican pour s'expliquer mais cela ne l'a pas empêché d'enseigner. C'est ce qui a créé le mouvement des protestants. C'est à cette période-là que sont sortis de l'église catholique ceux que l'on appelle protestants aujourd'hui. Ainsi en Europe vous verrez des temples protestants et des temples catholiques parce que dans cette période, il y a eu un grand réveil. Et ce réveil a permis l'évangélisation et la création de mouvements chrétiens et la construction de nouveaux temples.
+
+Quand les protestants sont sortis de l'église catholique, cela a affaibli l'autorité du pape et de sa communauté et a occasionné un changement au niveau politique en Europe, avec l'avènement des républiques. Avant en Europe, il s'agissait de royaumes, de principautés, on ne parlait pas de nations, ni de république. Mais avec l'avènement du protestantisme et des révolutions, les peuples ont commencé à s'assembler et à se regrouper en États modernes. Ils ont créé la démocratie : le gouvernement du peuple par le peule et les le vote a été instauré pour désigner les gouvernants.
+
+Ce n'était plus des seigneurs, des gens forts qui s'imposaient aux plus faibles. C'est ainsi que l'église a évolué avec l'Europe. Donc l'histoire même de l'Europe est confondue à l'histoire de l'Église. C'est pour cette raison qu'ils sont naturellement chrétiens, mais aujourd'hui c'est en train de changer parce qu'il y a d'autres religions qui ont pénétré en Europe, sinon à l'origine, ce sont des chrétiens. Et c'est cela qu'ils ont exporté aux États-Unis, quand ce continent a été découvert par Christophe Colomb. Ce sont les Européens qui sont allés plus tard peupler les États-Unis, surtout ceux qui fuyaient la persécution parce que l'église catholique persécutait beaucoup les chrétiens. Pour trouver la paix, beaucoup se sont réfugiés aux États-Unis.
+
+C'est de cette manière qu'ils ont formé ce pays, complété par nos frères noirs qui ont été déportés dans ce pays comme des esclaves. C'est comme ça que ça s'est passé. C'est la persécution qui a fait fuir les chrétiens, et qui a fait des Etats-Unis un pays chrétien et beaucoup plus protestant. Avec le temps également ça a changé.
+
+Et maintenant Dieu, pour entrer dans notre siècle, dans notre âge, a suscité un réveil aux Etats-Unis qui a balayé le monde entier jusqu'à ce que la colonisation amène l'évangile en Afrique. C'est le bon côté de la colonisation et je n'en veux pas aux blancs. C'est vrai qu'ils nous maltraitaient mais ils nous ont envoyé ce qui est le plus précieux, l'évangile, la Parole de Dieu. C'est important, frères ! Parce que nos parents, tels qu'ils étaient ici, n'avaient pas accès à la Parole de Dieu. Mais quand les missionnaires chrétiens sont venus, ils nous ont donné la Bible – l'évangile. Nous avons exploité la Bible et nous avons vu que c'est là qu'il y a la vie ! Donc voilà un peu comment les choses se sont passées.
+
+Maintenant nous allons nous focaliser sur notre temps. Je pense que tout le monde est déjà averti sur cela parce que depuis toujours, nous avons parlé longuement sur notre temps, sur ce qui se passe. Donc je pense que vous ne serez pas dépaysé. Nous continuerons avec le 4e sceau qui concerne notre temps. Le cavalier ici, est monté sur un cheval qui a une couleur verdâtre ; d'autres versions parlent d'une couleur pâle. Cette couleur résulte du mélange des couleurs précédentes c'est-à-dire le blanc, le rouge et le noir. C'est en relation avec ce qui se passe actuellement dans l'Église. Car le diable a rassemblé toutes ses stratégies dans notre génération. Dans le 4e sceau, le cavalier a un nom, contrairement aux autres sceaux, là il s'appelle la mort et le séjour des morts l'accompagne. Le séjour des morts c'est le lieu où vont les morts qui ne croient pas en Jésus. Et il est précisé que le pouvoir leur fut donné sur le quart de la terre. C'est-à-dire que si nous avons 1 milliard de personnes sur la terre, il a le pouvoir sur 250 millions de personnes. Aujourd'hui nous sommes 7 milliards (en avril 2019 on est 7,7 milliards), faites le calcul. Et quand Dieu dit le quart, il s'assure toujours que le rapport fasse bien le quart. Parce que les années évoluent ! S'il y a 40 ou 50 ans nous étions peut-être 2 milliards, le rapport se serait fait là-dessus ; aujourd'hui le rapport se fait avec le nombre que nous avons atteint. Et il est dit que le pouvoir lui fut donné pour faire périr les hommes par l'épée, c'est-à-dire les guerres, la famine, la peste et les bêtes sauvages.
+
+C'est un sceau condensé, qui contient beaucoup de révélation et qu'il faut relier avec beaucoup d'autres prophéties pour mieux comprendre les choses. Quand il est simplement présenté ainsi, on ne peut pas comprendre. Il faut le relier à d'autres passages qui concernent notre génération pour mieux comprendre. Dans Matthieu chapitre 24, voici ce que le Seigneur a dit :
+
+> **6** Vous entendrez parler de guerres et de bruits de guerres : gardez-vous d'être troublés, car il faut que ces choses arrivent. Mais ce ne sera pas encore la fin. **7** Une nation s'élèvera contre une nation, et un royaume contre un royaume, et il y aura, en divers lieux, des famines et des tremblements de terre. **8** Tout cela ne sera que le commencement des douleurs.
+
+Dans notre génération, il y a eu deux grandes guerres mondiales. Elles ont fait beaucoup de morts. Aujourd'hui ce sont les guerres entre les pays et les royaumes. Il y a aussi les tremblements de terre mais on ne peut pas compter parce que c'est à tout moment. Je veux mettre l'accent sur les grands évènements qui ont fait le plus de morts. Nous avons aussi les tsunamis qu'on ne connaissait pas bien, les grandes tempêtes, les rebellions. Les bêtes sauvages représentent les rebellions. J'ai vu cela en faisant des recherches dans l'Écriture. Nous avons des rebellions comme le djihadisme, le terrorisme. Tout ça c'est pour tuer des hommes et faire en sorte qu'il y en ait un quart qui meurt. La peste, elle, représente les maladie graves, les pandémies, SIDA, Ébola, etc. Ce sont des maladies fabriquées, ce sont des démons. Aujourd'hui on parle aussi de dengue, de paludisme, de fièvre typhoïde. Il y a tellement de maladies. Il y a ensuite la famine, je la prends à deux niveaux : spirituel et naturel. Mais naturellement les gens ont faim ! Si vous vous intéressez à cela, vous verrez, surtout en Afrique ici. Je dis souvent à mes enfants qu'il y a des gens qui ne mangent pas. Vous les voyez maigres, vous pensez qu'ils sont malades, non ! On le voit au Soudan, en Éthiopie, en Somalie. Ils peuvent rester plusieurs jours sans pouvoir manger. Il y a parfois les Nations-Unis qui, pour les aider, larguent de la nourriture dans le désert, dans les champs, et les pauvres vont prendre pour manger. Mais cela engendre un autre problème car ils sont dans l'incertitude de savoir quand les bienfaiteurs viendront à nouveau larguer de la nourriture. C'est grave, frères !
+
+Jésus a dit que dans notre génération, le cavalier s'appelle « la mort » et il a été mandaté pour tuer les hommes, dans tous les continents, tous les peuples, toutes les races ! Et quand il les prend, c'est pour les envoyer au séjour des morts. Il a été mandaté pour cela, c'est son travail. C'est seulement de cela qu'il est question dans le 4e sceau, il n'y a que la mort. Aujourd'hui si vous observez bien, vous allez voir que les gens meurent, ça devient monnaie courante. Pour des pays comme les Etats-Unis, le Brésil, c'est grave, avec les armes, la drogue, le grand banditisme. Vous pouvez voir une personne le matin et le soir vous apprenez qu'elle est morte. Mais vous devez savoir que c'est écrit dans la Bible. Nous sommes dans son accomplissement. Quand on lit le 4e sceau, le cavalier a pour nom la mort ! Donc aujourd'hui, le phénomène de la mort n'est pas un phénomène naturel. Le diable est en train d'exécuter un mandat, une œuvre, il est dans une stratégie parce qu'il veut amener le maximum de personnes dans le séjour des morts. Il est en train d'effectuer un travail, et tout ce qu'il peut faire pour amener les gens à la mort, il va le faire ! Que ce soit par les famines, par l'épée, par la peste ou par les maladies, il va le faire !
+
+C'est une stratégie. Regardez un pays comme le Soudan, ce ne sont que des affrontements politiques à n'en point finir et il est difficile de trouver une solution. Cet esprit est en train d'entrer en Europe. La violence est en train d'aller en Europe. Certains ont maintenant des armes de guerres dans leur maison avec lesquelles ils se promènent. Un homme a pris une telle arme pour abattre des gens dans un endroit en plein Bruxelles ! Moi j'étais surpris. Et c'est devenu régulier. Aux Etats-Unis c'est la même chose, des enfants de rien du tout de 14, 15, 16 ans ont des armes de guerre. Ils abattent leurs camarades à l'école. Si l'un d'entre eux peut tuer une dizaine de camarades avec son arme avant qu'on ne l'arrête, il le fait. Notre âge, c'est celui de la mort, de la destruction ! Ce cavalier a avec lui le séjour des morts, ce n'est pas le paradis ! C'est pour cela qu'aujourd'hui la mort est devenue tellement familière. Il y a des funérailles partout à tel point que c'est devenu comme la fête. On a même embelli la mort. Vous pouvez voir que les hommes d'aujourd'hui n'ont plus peur de la mort.
+
+Pour soulager la conscience ou pour évacuer plus facilement la peur, on embellit la mort ! Elle est devenue une camarade, une amie. Quand quelqu'un décède, il faut voir ses funérailles ! Les gens mettent le paquet, ce sont des danses partout. Ils se séparent quand ils ont fini et deux jours après ils se retrouvent encore. Dans mon village avant, il y avait ce qu'on appelle les soirées dansantes. C'est-à-dire que chaque génération avait son groupe de danse et quand les fêtes arrivaient, ils se retrouvaient pour danser, s'amuser. Mais cela n'existe plus, ça a été remplacé systématiquement par les funérailles. Les gens n'ont même plus le temps d'organiser quelque chose de jovial où on ne parle pas de la mort ! C'est l'esprit du siècle présent. Et si vous lisez dans d'autres prophéties, vous allez voir que ce n'est pas seulement dans le 4e sceau que le Seigneur a parlé de frapper les hommes par l'épée, la famine et la peste. Il en a parlé ailleurs parce que c'est une malédiction de Dieu. C'est là que je veux attirer votre attention, c'est une malédiction qui vient de Dieu. On lit dans Ézéchiel 14 verset 19 :
+
+> **19** Ou si j'envoyais la peste dans ce pays, si je répandais contre lui ma fureur par la mortalité, pour en exterminer les hommes et les bêtes, **20** et qu'il y eût au milieu de lui Noé, Daniel et Job, je suis vivant! dit le Seigneur, l'Éternel, ils ne sauveraient ni fils ni filles, mais ils sauveraient leur âme par leur justice. **21** Oui, ainsi parle le Seigneur, l'Éternel: Quoique j'envoie contre Jérusalem mes quatre châtiments terribles, l'épée, la famine, les bêtes féroces et la peste, pour en exterminer les hommes et les bêtes, **22** il y aura néanmoins un reste qui échappera, qui en sortira, des fils et des filles.
+
+Vous pouvez lire aussi Jérémie 29 du verset 17 à 20, où il est question des mêmes choses. C'est une malédiction ! Vous avez aussi Deutéronome 28 où vous verrez dans la liste des malédictions, la faim, l'épée, la peste, les bêtes sauvages. Toutes ces choses poursuivent les croyants qui désobéissent à Dieu et prennent d'autres voies, d'autres chemins ! Donc actuellement le monde, toute l'humanité, est déjà sous la malédiction ! C'est pour cela qu'on voit ces choses-là. Et c'est pour cette raison qu'il est vraiment important pour nous, si nous sommes vraiment sauvés, de prier pour nos parents, pour ceux que nous aimons afin qu'ils échappent ! Et cette malédiction n'est pas seulement dans l'humanité, c'est aussi dans l'Église ! Un frère me racontait qu'avant, dans le milieu des chrétiens, on ne mourait pas comme ça. Mais maintenant les frères partagent les mêmes malheurs que les incroyants : ils tombent malades, ils meurent. Cela devient fréquent parmi les frères : des gens qui peuvent maintenant être atteints par les malheurs, les envoûtements, la sorcellerie, etc. Mais pourquoi ? Parce que le monde est entré dans l'Église et l'Eglise est mariée au monde ! C'est ce mélange qui donne la mort qu'on voit partout. En parlant de ce mélange dimanche passé, j'ai évoqué Balak qui est allé s'associer à Balaam un faux prophète, un devin, pour attaquer Israël. C'est aussi l'image des guides religieux et des scribes contre le Christ ; mais ce mélange donne la mort !
+
+Et aujourd'hui effectivement, quand on étudie bien la situation de l'Église, on voit qu'il y a une malédiction. Dans Amos, le Seigneur a parlé de la famine, de la soif d'avoir la Parole de Dieu à la fin des temps, parce que les gens ne connaissent pas les voies de Dieu et ils meurent par manque de connaissance, d'instruction. Et même quand on a reçu le message, on dit à Dieu que nous sommes bien assis, qu'on comprend bien les choses, mais qu'est-ce que l'Esprit dit ? « Tu es misérable, pauvre, aveugle et nu ! Tu penses que tu as la connaissance mais en réalité tu ne connais rien ! Parce que celui qui me connaît ne marche pas comme ça, dans un tel état ! ». Il y a une malédiction sur le monde aujourd'hui. Les gens n'aiment pas entendre parler des châtiments de Dieu : ils mettent cela de côté. Mais le cavalier qui est sorti est déjà en train de faire un travail terrible. On rencontre la mort à tous les coins de rue. Dans le texte que nous avons lu, quand le Seigneur a évoqué ces malheurs, il a donné le nom de Job, de Noé et de Daniel. Il a dit que si dans une période pareille, de tels croyants existent, ils se sauveront par leur justice, leur intégrité, leur foi ! Autrement dit, ils ne seront pas atteints par ces malheurs-là. Le Seigneur a lui-même rendu témoignage de Job en disant à satan : « est-ce que tu as vu mon serviteur Job ? Il me craint, il est juste dans toutes ses voies, il est intègre ». Mais satan a dit que c'est parce que Dieu avait accordé à Job tout ce qu'il avait. Pourtant quand il y a eu la confrontation, Job a eu la victoire et il a été restauré au double ! Pour Noé c'est la même chose, Daniel aussi, c'est pareil.
+
+Mais quand vous regardez Noé et Daniel, qui sont situés dans des périodes précises, il y a une différence qui apparaît. Noé a existé dans une période où il y avait un malheur qui venait sur la terre et Daniel lui, a existé à une période où il y a eu un malheur du fait de la déportation à Babylone. Daniel et ses compagnons savaient qu'ils étaient dans une terre étrangère, donc qu'il fallait avoir un certain comportement. Mais aujourd'hui nous voyons ! La Bible compare notre génération aux temps de ces personnages, et l'écriture dit que nous sommes dans la grande Babylone aujourd'hui. (Apocalypse 17 :5) Donc si nous devons avoir des attitudes, des comportements qui nous éloignent de ces choses-là, c'est le comportement de Daniel et de Noé, frères ! Sans oublier Job, qui est une image parfaite de ce que l'Église vit aujourd'hui, parlant de la restauration et de la restitution après l'épreuve. Que Dieu soit béni.
+
+S'il y a des gens comme Daniel, Job et Noé, ils vont se sauver. Le malheur viendra, mais eux ils vont se sauver de ce châtiment. Ce n'est pas normal que nous partagions aujourd'hui les mêmes malheurs que les incroyants ; sinon ça voudrait dire que nous nous mettons nous-mêmes sous le coup de la malédiction. Sortons de la malédiction frères et sœurs. Ce qu'on doit regarder, c'est l'image de Noé, Job et Daniel. Effectivement nous vivons une grande épreuve, mais il faut avoir le cœur et la foi de Job pour tenir ferme ! Jacques a cité Job comme exemple de patience dans son livre. (Jacques 5 :11) Comment il a été patient en supportant l'épreuve, et comment Dieu l'a restauré. C'est un exemple que nous devons suivre. Daniel, lui, dès qu'il est entré dans la maison du roi, il a dit qu'il ne voulait pas se souiller avec les mets du roi. Il a souhaité un régime spécial, et Dieu l'a aidé car c'était selon Sa volonté. Et cela a joué sur l'avenir, sur la façon dont le Seigneur l'a utilisé, sur sa manière de rester ferme dans ses voies avec ses trois amis. Par leur témoignage, le nom du Seigneur a été grand dans la grande Babylone. Mais ne sommes-nous pas aujourd'hui dans la grande Babylone ? S'il y a un comportement qui devrait nous inspirer, c'est bien celui de ces frères. C'est la Parole de Dieu ! Pour Noé, c'est la même chose. Dans Luc au chapitre 17, le Seigneur a dit que nous sommes au temps de Noé et de Lot. (Luc 17 :26-28)
+
+### La stratégie de Dieu au cours des âges
+
+Il y a une malédiction sur la terre, frères et sœurs. Le 4e cavalier s'appelle la mort. Ici dans ce sceau, la mort spirituelle est encore plus grave. En effet, Jésus a parlé des faux prophètes qui viendront, en rapport avec ce temps, des faux christs, des gens qui vont détourner la foi des chrétiens par des paroles mensongères. Dieu est dans sa Parole ! Tout à l'heure, nous allons entrer dans la stratégie de Dieu. Je n'ai pas voulu mettre l'accent dessus parce que je ne voulais pas surcharger mes interventions, mais ce matin nous allons en parler. L'âge dans lequel nous sommes n'est pas seulement l'âge de la mort ! C'est aussi l'âge de l'aigle ! Vous avez vu que dans Apocalypse chapitre 4, la Bible a parlé de quatre esprits, le lion, le veau, la face d'homme et l'aigle. Nous retrouvons là des images du Seigneur Jésus-Christ. Il est appelé le lion de la tribu de Juda. Il a été présenté aussi comme un agneau immolé qui est représenté par le veau ici. Il a également accompli le sacrifice à la croix en se présentant à nous comme un homme et il y a l'aigle qui est le symbole de l'esprit de prophète. Jésus a été prophète sur la terre. Il a prophétisé des évènements qui sont en train de s'accomplir aujourd'hui ! C'est lui qui est apparu dans Apocalypse chapitre 1 et qui a donné à Jean cette vision-là. Tous ces esprits étaient autour du trône et ils ont eu des manifestations pendant tous les âges de l'Église.
+
+Le premier que Jean a vu ressemblait à un lion, mais c'est en réalité un esprit qui présente la manifestation de Dieu comme un lion. C'est-à-dire qu'aux temps des apôtres, quand l'œuvre a commencé, le Seigneur leur a donné un esprit, qui est une manière de résister au diable pour qu'il ne puisse pas les avoir. L'esprit de lion est un esprit combattif, fort, qui résiste et qui se bat pour demeurer à sa place. Et quand on regarde ce qui animait les apôtres du Seigneur, on voit bien que c'est de cela qu'il s'agit. Les gens ont tué Etienne croyant que ça allait s'arrêter là, mais c'est le contraire qui s'est produit. Ils ont encore tué Jacques, mais ça ne s'est pas arrêté. Les apôtres ont continué et le Seigneur leur avait montré comment ils allaient mourir, comment ils allaient le glorifier. L'esprit lion est aussi l'esprit missionnaire parce qu'à cette époque ils ont beaucoup travaillé ! Ils sont entrés là où l'évangile ne pouvait pas entrer. Ils ont combattu ! Quand vous prenez Paul et son équipe, bien qu'on les ait frappés, qu'on les ait mis en prison, ils ont persévéré, ils ont fait le travail.
+
+Après leur génération, c'est là qu'il y a eu la persécution. J'ai parlé de ces dix années de persécution avec le cheval roux. Cela représente l'esprit de veau qui est l'esprit de sacrifice. Parce que vous voyez que lorsque le Seigneur a été immolé, il n'a pas été présenté comme un lion ! Il a été présenté comme un agneau qu'on mène à la boucherie et ne résistait pas. Est-ce qu'un agneau peut résister à celui qui veut l'égorger ? Il ne peut pas ! Donc comme les disciples allaient être mis à mort pendant des années, Dieu leur a donné un esprit pour tenir ferme, c'est-à-dire accepter de mourir pour la cause de Christ. Ne pas résister à ses bourreaux, ne pas abandonner, mais accepter ce sort pour la cause du Seigneur. Et cela a produit des croyants. Les persécutions multiplient toujours le nombre de croyants.
+
+Aujourd'hui en Côte d'Ivoire, si le gouvernement décide qu'il ne veut plus voir les chrétiens se réunir, et annonce que celui qui sera vu en réunion sera tué, qu'est-ce que tu vas faire ? Tu ne peux rien faire ! Il faut plutôt demander à Dieu de nous donner la force d'accepter de mourir si nous devions être pris un jour. On ne peut pas se lever et prendre les armes humaines pour avoir la victoire, non ! Ça ne marche pas comme ça ! Si Christ et tous ceux qui sont morts pour son Nom ne l'ont pas fait, ce n'est pas toi qui vas le faire. Daniel et ses trois amis également ont eu cet esprit-là. Ils n'ont pas résisté à Nébucadnetsar. Ils lui ont dit que s'il voulait les tuer, qu'il les tue car ils ne pouvaient pas faire autrement. Et Dieu s'est glorifié en les délivrant de la mort. Mais ils auraient pu mourir, ils étaient prêts.
+
+La stratégie suivante, c'était la face d'homme, c'est-à-dire l'esprit des réformateurs, la manifestation des Ministères libres, parce que le catholicisme avait bloqué la manifestation des Ministères de la Parole. C'est cet esprit qui a animé Martin Luther et tous les serviteurs de Dieu qui se sont levés dans cette époque de la réformation et du protestantisme. C'est l'époque qui a précédé notre génération. C'est par lui que la bête a été frappée. Ils se sont engagés dans de vrais ministères, ils ont combattu le diable sur le terrain par la prédication de la Parole. C'est comme ça qu'il y a eu la réforme et Dieu a commencé à partir de là, à élever de grands serviteurs. Moi, je vois cela comme le symbole du ministère, la reprise du ministère de Christ. Les cinq ministères de la Parole que le Seigneur a donnés dans la Bible, ont vraiment repris dans cette période-là. A nouveau, on pouvait voir des apôtres, des prophètes, des docteurs, des évangélistes, qui sont sortis, ont émergé et ont commencé à prêcher partout. Et je vous ai dit que le 6e âge de l'église, celui de Philadelphie, est un âge où une porte a été ouverte pour les ministères. Ils se sont déployés et ils ont fait l'œuvre de Dieu. Et c'est sur leur œuvre, que nous sommes entrés dans le 7e âge.
+
+Dans notre âge alors, la stratégie de Dieu, c'est l'esprit prophétique représenté par l'aigle. C'est ce que Dieu a prévu pour notre génération afin que nous ayons la victoire sur la mort, sur tout ce qui se passe autour de nous : c'est l'esprit de l'aigle, l'esprit prophétique. Si nous n'avons pas compris cela, ce sera difficile. Nous sommes également dans l'âge d'Elie parce qu'il faut mettre en lien ce passage, avec Malachie chapitre 4 et 1 Rois 18 où il y a eu la confrontation entre les faux prophètes de Jézabel et l'esprit d'Elie. Le Seigneur a dit qu'il allait nous ramener l'esprit d'Elie, et il est effectivement revenu dans le ministère du frère Branham avec le Message. Et jusqu'à aujourd'hui, il continue son travail. Elie a porté une onction qu'il a ensuite légué à Élisée. Après Élisée, c'est Jéhu qui en a hérité. N'oublions pas l'action de Jéhu dans la vision prophétique frères. C'est lui qui a tué Jézabel ! Nous qui sommes sortis du ministère d'Elie, notre travail consiste en celui de Jéhu. Nous devons tuer cette femme Jézabel ! Nous sommes dans la vision prophétique de l'heure. Et ceux qui n'ont pas la compréhension de cette vision prophétique dans notre génération meurent !
+
+Ils meurent parce qu'ils souffrent des actions des faux prophètes et des faux christs, d'un évangile mélangé, parce que c'est aussi l'âge du mélange, de l'œcuménisme, des dénominations. L'esprit de Jézabel agit, c'est un esprit d'organisation. Il a donc organisé les choses de telle manière que nous soyons face à des entités spirituelles organisées. Mais Dieu en face développe une stratégie avec l'esprit de l'aigle. C'est un esprit qui voit de loin, qui comprend la vision prophétique, donc il distingue tout de suite là où le serpent passe.
+
+Vous savez, il y a un problème entre l'aigle et le serpent. Les aigles tuent facilement les serpents, ils mangent leur tête. Ainsi l'esprit de l'aigle est en confrontation avec l'esprit de python, de l'organisation, de la dénomination, de Jézabel parce que l'organisation est la force du faux prophète. Nous allons y revenir. J'ai voulu d'abord expliquer la stratégie de Dieu dans notre génération. Elle est symbolisée par l'esprit de l'aigle. Et vous allez voir qu'à chaque fois qu'un sceau est ouvert, c'est l'un des êtres vivants qui appelle Jean pour qu'il vienne voir. C'est de cette manière que Jean a vu le déroulement de tout ce qui s'est passé.
+
+Quand l'écriture parle de la mort, il faut d'abord voir ce que le diable fait. Sa stratégie aujourd'hui consiste en l'organisation, et c'est ce qui caractérise notre temps. Nous sommes dans l'âge de l'organisation. Le monde n'a jamais été aussi organisé que dans notre génération. Sur le plan politique, nous avons l'ONU, qui est l'organisation mondiale créé après la deuxième guerre mondiale. On a l'Union Européenne. En Afrique, on a l'Union Africaine, la CEDEAO, la CEMAC, la SADEC, et beaucoup d'autres organisations par secteur d'activité. La Parole de Dieu est très pratique ! La Bible a déjà dit ce qui va se passer dans le monde, c'est écrit noir sur blanc, ce n'est pas comme les autres livres. Le chrétien doit savoir ce qui se passe et se comporter en fonction de cela.
+
+J'en viens maintenant au niveau religieux. Le diable a vaincu dans ce domaine, de telle manière qu'il y a aujourd'hui beaucoup d'organisations mondiales. Et dans chaque pays aussi, il y a des systèmes comme ça. Et quand on invite un serviteur de Dieu, mondialement reconnu dans un pays, les gouvernements demandent l'avis de ces organisations avant de donner leur accord. S'il n'est pas dans la gamme normale que nous connaissons, ça devient un problème. Mais quand il est recommandé, il peut être invité par les organisations sur place sans problème. C'est un système qui est verrouillé.
+
+Dans notre pays, il y a la FECI (Fédération des Églises de Côte d'Ivoire), et deux autres groupes du même genre. Je parle des églises évangéliques et non de l'église catholique. Il existe énormément d'organisations et, en Afrique centrale c'est plus grave parce que les pasteurs qui viennent d'ailleurs ne peuvent pas entrer dans certains pays. Par exemple, le Gabon ne te laisse pas entrer si dans ton passeport, c'est écrit « pasteur », à moins que tu aies une recommandation spéciale. Ce sont les dispositifs mis en place par le gouvernement parce qu'il semble qu'un pasteur étranger y est allé escroquer des chrétiens qui devraient voyager avec lui. Il a pris leur argent et il a disparu. Moi-même j'ai un jour été bloqué à l'aéroport et pendant que j'attendais, les frères venais me voir. Suite à cela, on m'a dit à la police, « si vous êtes pasteur, on va vous rapatrier rapidement ». C'est plus tard que j'ai compris que les pasteurs étrangers n'entraient pas là-bas. Mais nous, on entre encore dans des pays parce qu'on n'est pas bien connu. En effet, si tu arrives à un certain niveau, tu es connu et tu ne rentres pas dans un pays comme ça parce que c'est un système verrouillé, bloqué, c'est le mélange. C'est comme ça. C'est une stratégie que l'ennemi du Seigneur développe.
+
+Vous voyez que tout le monde suit lorsque l'esprit de contrôle donne une orientation. Au temps de Jézabel, il y avait de nombreux prophètes ! La Bible a parlé de 450 prophètes. Vous avez vu cette histoire où le roi Achab est allé en guerre avec Josaphat qui lui a dit « nous ne pouvons pas aller en guerre sans connaître la Parole de l'Éternel. Il faut appeler les prophètes pour nous dire ce qui va se passer ». C'est ce qu'Achab a fait. Il a fait venir les prophètes qui l'ont encouragé à partir, car il aurait la victoire. Tout le monde disait la même chose. Josaphat a donc demandé qu'on fasse venir un autre prophète de l'Éternel parce que ceux-là étaient des prophètes de Baal. Ils ont donc fait venir Michée, mais Achab a dit à Josaphat que Michée ne prophétisait jamais rien de bon sur lui. Et Michée avait reçu juste avant d'aller devant les rois, le conseil de répéter ce que les autres prophètes de Baal ont dit. C'est donc le conseil qu'il a suivi en disant au roi qu'il pouvait partir car il aurait la victoire. Après avoir entendu Michée, Achab ne croyait pas à sa parole. Il lui a dit : Michée, dis-nous ce que l'Éternel t'a dit. C'est bizarre ! Achab était conscient que Dieu parlait par la bouche de Michée et il le combattait quand même ! Il a dit à Michée de ne pas tourner autour du pot. Michée explique alors qu'il a vu Israël dispersé, et que là où Achab s'en va, il va mourir. Achab ne croyait toujours pas ses paroles et dit à Josaphat « tu vois ? Je t'avais dit qu'il ne prophétise rien de bon sur moi ». Et il a ordonné à ses gens de mettre Michée en prison et de lui donner du pain à manger jusqu'à ce qu'il revienne. Michée lui a dit : Si tu reviens en paix, c'est que ce n'est pas Dieu qui m'a parlé. Et effectivement Achab est mort à la guerre.
+
+Cet esprit de Jézabel, est un esprit d'imitation. Il veut imiter l'aigle, mais il ne peut pas. Cet esprit a une ligne de conduite, où tout le monde doit marcher. Si tu n'y marche pas tu es mis de côté, tu es étiqueté et tu as des problèmes. Ça a été comme ça durant tous les âges et c'est ce qui se passe dans notre génération. Donc le diable travaille par le biais de l'organisation, c'est-à-dire qu'il organise la vie des gens pour mieux les maîtriser. Une fois que vous êtes organisés, vous avez une seule tête, et si elle est corrompue c'est fini, tout le reste est pris ! C'est de cette manière que le diable pratique : il attaque par le haut. Puisque c'est un esprit de contrôle, tout le monde dit amen à tout ce qui vient d'en haut. Ça se voit dans la politique ! Tous les gouvernements que vous voyez sont dirigés par l'ONU. Quand ils prennent des résolutions, elles s'appliquent à tout le monde. Seul Israël ne respecte aucune résolution de l'ONU. Les membres du gouvernement israélien ne respectent rien, et ils savent pourquoi ils le font. Ils n'ont aucune crainte ! Qu'une nation s'attaque à eux, elle verra ! Plusieurs ont essayé de les attaquer mais ils n'ont pas pu résister. Et Dieu a donné un gros protecteur à Israël : les Etats-Unis. Le jour où on apprendra qu'Israël a été mis à terre, c'est que l'Amérique aura été neutralisée. C'est Dieu qui a mis cela en place. Quand Trump a déplacé l'ambassade des États-Unis à Jérusalem, personne n'a pu faire quoi que ce soit. Ils ont parlé mais ça a été effectif. C'est un peuple qui ne respecte rien de l'ONU parce qu'ils connaissent l'esprit qui anime l'ONU ! Et Netanyahu le dit ouvertement quand il va faire ses discours ! Les Etats-Unis aussi ne respectent rien, pourtant ce sont eux qui imposent les lois.
+
+Le monde est dirigé frères depuis les nations unies. Ils ont des membres comme l'Union Africaine. Si l'Union Européenne prend des décisions, les Africains suivent. Si l'UA prend une décision, la CEDEAO suit et ainsi de suite jusqu'en bas. On a vu ça ici, en Côte d'Ivoire ! C'est pareil au niveau religieux, il y a de grandes organisations. Dans un pays comme la France par exemple, il y a des fédérations pour les catholiques et les protestants. Dans chaque pays européen c'est la même chose. Si le gouvernement prend une décision pour autoriser le mariage pour tous, il n'y aura pas une organisation religieuse qui pourra se lever pour s'opposer. Ça n'existe pas, ils sont obligés de suivre ! Les catholiques sont dirigés par le Vatican. Une fois qu'une décision a été prise, qu'ils sont d'accord, tout le monde s'aligne. Toi qui ne veux pas t'aligner, tu sors ! Je me souviens qu'un prêtre a parlé contre l'homosexualité et l'a condamné. Mais imaginez la foudre qui s'est abattue sur lui ! il a rapidement changé de discours. Voyez-vous, il ne pouvait pas se démarquer, exprimer son opinion, son désaccord. La tête de l'Église et ses organisations sont liées aux gouvernements donc ils sont obligés d'accepter les lois promulguées. Et il y a des pays qui sont des églises-États.
+
+C'est donc ça notre temps aujourd'hui. C'est l'âge du contrôle, de l'organisation, de Jézabel, où les fausses doctrines sont soutenues. C'est ce qui as mis le cavalier de la mort en mouvement et qui lui donne la force de faire ce qu'il veut. Nous savons que ceux qui peuvent s'opposer au diable, ce sont les chrétiens par le Saint-Esprit et par la vérité de la Parole ! Mais si les chrétiens sont morts, s'ils acceptent le mensonge et la fausseté et que cela les tue, ils ne peuvent plus rien faire. C'est pour cette raison qu'actuellement, en Europe, il y a tous les problèmes pour prêcher l'évangile ! Tu ne peux pas prêcher ce que tu veux en Europe. Si tu as parlé d'un sujet controversé et que, malheur pour toi, ça sort dans la presse, alors tu es mort ! Ils vont t'arrêter et te forcer à fermer ton église. C'est comme ça. Il n'y a pas longtemps au Canada, un pasteur
+
+congolais a eu un problème. C’est après que j’ai compris cette affaire. Il y avait un flux
+de prédications qui passaient sur WhatsApp où il avait condamné violemment
+l’homosexualité, la débauche, tout ça. Quelques temps après, il y a eu des plaintes contre
+lui pour pédophilie et pour agression sexuelle. Donc je me demandais comment il
+pouvait violemment condamner ces choses et vivre lui-même dans la débauche ? Je me
+posais des questions. Plus tard, un jugement l’a reconnu coupable de ce dont on
+l’accusait. Finalement, j’entends dire que ses problèmes viennent de l’esprit qu’il a
+condamné, et que toutes ces histoires d’agression n’étaient que des mensonges. Les gens
+ont alors manifesté et il semble qu’il a été libéré. J’ai vérifié l’information et quelqu’un
+m’a dit que ces mensonges ont été mis sur son dos à cause de sa position vis-à-vis de
+l’homosexualité et de la débauche. En tout cas la vidéo était très violente. Et comme
+dans ces pays où on approuve l’homosexualité et la débauche, un prédicateur qui prêche
+et dénonce cela a alors de gros soucis.
+
+L’esprit de l’organisation a donc déjà verrouillé le monde, nous devons le savoir.
+Actuellement il y a le calme parce que l’Esprit de Dieu n’a pas encore agité comme
+il se doit les croyants. Le jour où l’Esprit de Dieu va commencer à le faire, surtout
+à agiter les prédicateurs qui vont commencer à se lever pour prêcher la vérité, pour
+ramener les choses à leur place, pour condamner le péché, il y aura beaucoup de
+troubles. Car l’esprit d’Elie est un esprit violent ! Il ne sait pas caresser les choses.
+Regardez la prédication de Jean-Baptiste, il a dit aux hébreux « race de vipères ! qui
+vous a appris à fuir la colère à venir ? Ne dites pas que vous avez pour père Abraham,
+repentez-vous de vos péchés, pratiquez les bonnes œuvres qu’il a pratiquées. Déjà la
+cognée est mise à la racine des arbres. Tout arbre qui ne porte pas de fruits sera coupé,
+jeté et brûlé au feu » ! C’était violent. Les gens écoutaient ça et ils allaient se faire
+baptiser.
+
+C’est le même esprit d’Elie qui s’est opposé à Achab et à Jézabel et nous serons encore
+plus violents frères parce que Jéhu l’a été. Il a dit à ses gens de rassembler les prophètes
+de Baal, car ils allaient organiser une grande fête en l’honneur de Baal. Il leur a dit de
+faire en sorte qu’il n’y en ait pas un seul qui manque. Ils sont venus tout contents pour
+faire la fête. Mais Jéhu a aussi rassemblé ses soldats, leur a donné des épées et leur a
+ordonné de tuer tous les prophètes de baal ; qu’aucun d’eux n’échappe. Et ils ont tous
+été tués. Ensuite, Jéhu est allé chez Jézabel. Elle l’a vu venir de loin et lui a demandé
+« Jéhu, est-ce la paix ? ». Il ne l’a même pas regardée, mais elle s’était bien habillée
+pour l’attendre. Jéhu a remarqué un eunuque costaud à côté d’elle, et lui a demandé de
+prendre Jézabel s’il est avec lui. L’eunuque est allé la prendre et l’a jetée par la fenêtre.
+Les chiens se sont occupés du reste. Ça c’est l’esprit de Jéhu. C’est lui qui a assuré le
+nettoyage par rapport à Baal.
+
+Ainsi l’esprit d’Elie se manifeste en trois phase. C’est ce qu’on voit aujourd’hui ; le
+message a trois temps. Nous sommes dans un temps où l’organisation a pris toute la
+chrétienté. Mais Dieu a envoyé des prophètes pour ouvrir nos yeux, notre intelligence.
+C’est la stratégie de Dieu. Celui qui n’est pas dans l’esprit de la prophétie d’aujourd’hui,
+ne pourra pas comprendre le plan de Dieu ni ce qui se passe. Il ne comprendra rien !
+Celui qui reste dans les églises que les gens fabriquent pour se faire de l’argent ou pour
+s’amuser ne comprendra rien. Il faut avoir l’instruction, la connaissance, parce que
+le peuple de Dieu périt par manque de connaissance. Donc il faut être instruit sur
+la stratégie de satan pour se prémunir. Nous ne sommes pas dans l’organisation,
+dans le mélange frères ! On doit chercher à être des aigles, rechercher la Parole de
+Dieu, la lumière, parce que c’est ça qui va nous prémunir de la séduction. Sinon le
+mélange est déjà consommé. Et c’est une onction qui se répand, j’en ai parlé ici plusieurs
+fois. Une onction de faux prophète est dans le monde aujourd’hui. C’est un esprit de
+python qui se manifeste, qui agite les croyants. Quand il est sur un serviteur de Dieu,
+il veut tout contrôler, tout maîtriser. C’est comme ça que cet esprit agit. Personne
+n’est libre, on ne peut rien faire. Cet esprit c’est Jézabel. Les 450 prophètes disaient la
+même chose et ce qu’ils disaient était faux.
+
+N’oublions pas cela : Nous sommes dans le temps des organisations, dans le temps
+de Jézabel la fausse prophétesse. J’ai parlé ici d’Apocalypse chapitre 17, parlant de
+cette femme qui a réussi à dominer tous les peuples. La bible a dit qu’elle était assise
+sur les eaux, et les eaux symbolisent les nations, les peuples et les langues.
+> (Apocalypse 17 :15)
+C’est le temps de Sodome et de Gomorrhe. Vous le savez car on le
+dit régulièrement ici. C’est le temps de la débauche où le sexe devient une arme de
+destruction de satan. Parce que le diable pousse les gens à faire ce qu’ils veulent du
+sexe. Il y a des hommes qui deviennent des femmes et vice-versa ; des hommes qui se
+marient entre eux, et des femmes qui se marient entre elles. Tout ça, c’est l’esprit de
+l’âge, et c’est la mort ! Ce sont des choses qui ne donnent pas la vie quand tu y entres.
+C’est aussi un cercle où l’argent a pris le dessus : Jézabel rime avec l’argent, le
+pouvoir, la puissance, l’autorité. Les gens pensent qu’avec l’argent ils peuvent faire
+vivre Dieu ! Ce n’est pas quand un pasteur va s’habiller de sorte à briller de la tête aux
+pieds, qu’il va donner Dieu aux gens ! Ce n’est pas sa prospérité matérielle qui va
+influencer le reste de l’église, non frères. La prospérité matérielle ne donne pas la
+puissance de Dieu, ça ne met pas fin aux querelles, ça ne chasse pas les démons,
+rien de tout ça ! Ça ne soulage pas l’âme, rien ! Ce n’est pas en prêchant la prospérité
+tout le temps, en disant aux gens qu’ils deviendront riches, qu’ils seront délivrés de leurs
+problèmes spirituels. Non ! L’argent ne fait rien de tout ça, sinon tous les riches iraient
+au ciel. Ils entreraient même par la grande porte. Mais vous avez vu que c’est une
+séduction de satan ! Dans le 3e âge, c’était ça. « Donnez de l’argent et vous serez
+sauvés », ils l’ont fait mais ça ne les a pas aidés.
+
+Aujourd’hui, le mélange est consommé et ça ne va pas changer, ça va rester ainsi. C’est
+pour cela que la colère de Dieu vient juger le monde. Mais Dieu, à côté de cette
+séduction a suscité un esprit de prophète pour nous expliquer ces choses dans notre
+génération, afin que nous soyons avertis et qu’on adopte la bonne position pour ne
+pas périr. Que Dieu soit béni.
+
+Je pense que je suis en train d’aller vers la fin de mon propos. Après on pourra revenir
+expliquer encore, parce que tout le monde n’a pas un esprit suffisamment mûr pour
+saisir. Le diable a une stratégie dans notre génération. Il a tué les hommes par cette
+stratégie et c’est cet esprit de contrôle qui donne la mort. Quand tu es sous l’influence
+de cet esprit, tu es dominé. C’est pour cela que Laodicée est sous la malédiction parce
+que Laodicée est sous un esprit de contrôle, de faux prophète, de séduction, qui fait
+croire à ce qui n’existe pas, à ce qui n’est pas. Tu crois que tu es sauvé alors que tu ne
+l’es pas. Quand tu demandes à quelqu’un s’il est chrétien, il te dira oui, et ajoutera qu’il
+est des Assemblées de Dieu. Mais si tu es des Assemblées de Dieu, c’est que tu n’es pas
+chrétien. Il est plus juste de dire que tu es des Assemblées de Dieu, Méthodiste ou
+Catholique, mais pas que tu es chrétien. Qui va au ciel ? Ce sont les chrétiens. Mais qui
+sont les chrétiens ? Ce sont ceux qui se sont repentis de leurs péchés, de leur
+ancienne vie, ils ont expérimenté la nouvelle naissance, ils ont reçu la vie de Dieu,
+ils en sont convaincus et ils savent que s’ils meurent, ils iront au ciel. Il n’est pas
+catholique, méthodiste, assemblées de Dieu, pentecôtiste, Christianiste céleste ou frère
+du Message.
+
+Le christianisme n’est pas céleste, il est terrestre. C’est sur la terre que ça se passe ; une
+fois qu’on va au ciel c’est fini. Au ciel, nous sommes avec notre Père, on le loue, on
+l’adore, c’est tout. C’est sur la terre, ici, qu’on marche. Donc il faut avoir expérimenté
+une vraie nouvelle naissance, une vraie conversion, être convaincu de son salut. Jésus a
+dit « en ce temps-là, vous connaîtrez que moi je suis dans le Père, que le Père est en moi
+et que vous aussi vous êtes en moi », et c’est le cas, nous sommes le temple du Saint-
+Esprit. C’est de ça qu’il s’agit. Il faut être en Jésus et Jésus en toi. Il faut être dans le
+Saint-Esprit et le Saint-Esprit est en toi. Tu es dans la Parole et la Parole est en toi,
+tu es dans la vie de Christ et la vie de Christ est en toi. Voilà ! Le Royaume de Dieu
+est en toi et tu es dans le Royaume. C’est ce que le Seigneur a dit. Le royaume de Dieu
+ne vient pas pour frapper les regards, il est auprès de vous, il est en vous. Vous êtes dans
+le royaume et le royaume est en vous. C’est ainsi qu’est le chrétien, il marche avec Dieu
+et Dieu approuve ses voies. Donc, je pense que vous avez compris ce que le diable fait
+aujourd’hui, mais l’esprit de l’aigle est venu pour nous sortir de là.
+
+Je vais finir en vous disant qu’il y a un sentiment naturel, normal qui anime tout ceux
+qui ont cru au Message du temps de la fin. C’est un sentiment qu’on ne voit pas à l’œil
+nu, mais il se manifeste dans le comportement. Et on peut le voir dans la vie d’Elie,
+d’Élisée ou de Jéhu. On n’est pas d’accord avec l’esprit de Jézabel, c’est un rejet
+naturel. L’esprit qui veut encadrer les gens, les bloquer, les contrôler, les surveiller,
+les dominer, naturellement, nous ne sommes pas d’accord avec lui. C’est un mauvais
+esprit et il est entré dans le Message ! Nous, nous avons vécu ce genre de contrôle :
+quand tu veux aller quelque part exercer ton Ministère, on te demande où tu vas. Si tu
+veux sortir visiter des frères, tu dois te signaler et avoir la permission. Ici, nous voulons
+laisser le Saint-Esprit agir en chaque frère et chaque sœur. Vous devez savoir que le
+Saint-Esprit c’est Jésus lui-même, si ce n’est qu’on ne le voit plus à l’œil nu. Il faut lui
+laisser son église, Il va la gérer lui-même. Il ne faut pas essayer de prendre sa place.
+Les âmes sont à lui, il est le souverain Berger, c’est lui qui sauve les gens. S’il t’a
+sauvé, tu lui appartiens et Il t’utilise comme Il l’entend. Donc il faut laisser le Seigneur
+conduire son église. Nous, nous sommes là, et quand Il ouvre nos yeux, on fait ce qu’on
+a à faire et ça s’arrête là. C’est lui qui conduit son église. Il a dit « je serai avec vous
+tous les jours jusqu’à la fin du monde ». Il gère son église, gère chaque frère, chaque
+sœur. Il s’occupe de la compréhension, de l’instruction dans la Parole. Il ouvre
+l’intelligence. C’est lui qui gère les dons.
+
+S’il y a un démon qui se manifeste au milieu de nous, le Seigneur va le démasquer de
+sorte qu’on le voie bien. Quand un fruit n’est pas mûr, on ne le cueille pas. Le Seigneur
+va faire en sorte que le fruit mûrisse bien pour qu’on le distingue correctement. Parce
+que si cela ne se passe pas ainsi et que seuls, deux frères sont éclairés et dénoncent Satan,
+cela risque de créer des disputes : on ne s’en sortira plus et le diable en profitera. C’est
+exactement l’image de la parabole du blé et de l’ivraie. Jésus a dit que c’est au temps de
+la moisson qu’on fera bien la différence entre le blé et l’ivraie. Même ceux qui ne
+cultivent pas, qui ne vont pas au champ verront la différence. Actuellement nous
+sommes dans cette parabole et nous avançons ! Le Seigneur a dit qu’il mettra une nette
+distinction entre ceux qui l’adorent et ceux qui ne l’adorent pas. Pour le moment c’est
+flou, on ne voit pas bien, tout le monde est adorateur. Mais sachez-le frères, la
+différence sortira clairement et tout le monde verra, même ceux qui n’ont pas la
+Bible ou qui ont d’autres livres comme le Coran verront. Ainsi, dans une église, c’est
+la doctrine de Christ qui s’applique, il faut donc laisser l’Esprit de Dieu agir et ne pas
+prendre sa place. Quand on prend la place de Dieu, cela génère des discussions, des
+querelles, des inimitiés. C’est pour cette raison qu’il y a toujours des mésententes dans
+les milieux où règne l’esprit de Jézabel. Il faut laisser l’Esprit agir : c’est lui qui a fondé
+son Église et Il sait comment contrecarrer le diable. Il a déjà tous les éléments, tout le
+pouvoir, toute la puissance, toute l’autorité, Il a toutes les stratégies pour ça. Tout
+ce que nous devons faire c’est de demander au Seigneur de nous prendre et de nous
+conduire, de nous rendre obéissants et soumis.
+
+Voici un sujet de prière que je vous laisse : que le Seigneur nous fasse la grâce de
+sortir de la malédiction qui est dans l’église aujourd’hui. Qu’on ne périsse pas par
+l’épée, la peste, les bêtes sauvages et par tous ces esprits qu’on voit aujourd’hui.
+Qu’il nous fasse sortir de la malédiction de Laodicée. Qu’il nous donne d’identifier
+clairement Jézabel dans ses œuvres, ses manifestations dans notre milieu. Qu’il n’y
+ait pas de fou au milieu de nous mais qu’il y ait la clarté de l’Esprit.
+
+Que Dieu soit béni. Je pense qu’on a fini.

@@ -1,0 +1,95 @@
+---
+source: "mevar-pdfs"
+sermon_id: "holocoste_exhortation_mars_2021"
+title: "HOLOCAUSTE"
+date: "2021-03-01"
+year: 2021
+preacher: "Fr M'BRA Parfait"
+summary: "L'exhortation insiste sur la nécessité de la consécration et du sacrifice de soi (holocauste) pour que Dieu approuve notre foi, à l'exemple d'Abraham, de Daniel et de ses compagnons. Elle appelle l'Église de Laodicée à offrir une foi sans défaut pour manifester la gloire de Dieu dans la génération actuelle."
+tags:
+  - "holocauste"
+  - "foi"
+  - "consécration"
+  - "épreuve"
+  - "Laodicée"
+persons:
+  - "Abraham"
+  - "Isaac"
+  - "Daniel"
+  - "Schadrac"
+  - "Méschac"
+  - "Abed-Nego"
+  - "Job"
+  - "Élie"
+  - "Jean Baptiste"
+  - "Nebucadnetsar"
+  - "Jésus-Christ"
+places:
+  - "Babylone"
+  - "Morijah"
+  - "Jourdain"
+themes:
+  - "sacrifice"
+  - "épreuve de la foi"
+  - "amour de Dieu"
+  - "obéissance"
+  - "restauration"
+  - "baptême de feu"
+  - "premier commandement"
+pdf_url: "https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_2021.pdf"
+llm_cleaned: true
+---
+*Exhortation De Mars 2021*
+
+# HOLOCAUSTE
+
+Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans Son précieux nom qu’Il nous a donné, par lequel nous avons la victoire sur tous nos ennemis. C’est toujours avec plaisir que nous pouvons adresser des paroles d’exhortation au peuple béni de Dieu dans notre génération. Notre marche n’est pas facile, à cause de la séduction des démons dans notre génération. Comme cela est déjà écrit dans les saintes prophéties de nos pères apostoliques, nous pouvons voir la manifestation des démons dans notre génération et dans l’Assemblée de Jésus-Christ, comme si la foi n’existait plus – Or la foi existe, mais comme notre Seigneur l’a dit : trouvera-t-Il la foi sur la terre à son retour ? (Luc 18 :8) La réponse à cette question est très cruciale pour nous tous. De manière générale, il est évident que la foi fait défaut dans l’Église d’aujourd’hui, mais nous sommes obligés d’avoir la foi, car nous n’avons pas le choix. Et notre foi doit être particulière pour relever tous les défis spirituels qui sont devant nous.
+
+Notre adversaire le diable a travaillé à faire perdre la foi à l’Église et nous pouvons dire qu’il a réussi, car on peut constater que l’incrédulité a envahi le peuple de Dieu de plus en plus. Mais de quel côté sommes-nous aujourd’hui mes bien-aimés frères et sœurs ? Du côté de ceux qui ont la foi ou du côté de ceux qui ont perdu l’assurance et la confiance dans le Seigneur ? Cette inquiétude du Seigneur Jésus au sujet de la foi, va ensemble avec ce qu’Il a dit dans Matthieu 24 :12, au sujet du refroidissement de l’amour du plus grand nombre, à cause des progrès de l’iniquité. Si l’amour de Dieu n’habite plus les croyants de la fin des temps, ce n’est pas la foi qui va se manifester dans la vie de l’Église ! Car la Foi et l’Amour vont ensemble. Toutefois, les vainqueurs de l’âge de Laodicée, par la mise en pratique de la parole de restauration et de restitution qu’ils ont entendue, gagneront la Foi et l’Amour – ce qui sera pour eux et pour le monde, comme une oasis dans un désert affreux, une grande lumière qui luit dans les ténèbres de la fin des temps.
+
+Mes bien-aimés frères et sœurs, c’est avec beaucoup de confiance que nous nous attendons au Seigneur notre Dieu et notre Maître, puisque nous Le savons fidèle. Je voudrais nous exhorter à la consécration, à cette heure de la nuit, car nous n’avons pas d’autres choix que de nous consacrer à Dieu. En effet, chaque épreuve que nous traversons à un BUT devant Dieu. Quel objectif Dieu poursuivait-Il dans l’épreuve d’Abraham ? Pourquoi avoir attendu 25 ans avant d’accomplir la promesse qu’Il avait faite à Abraham et Sara ? Nous pouvons aussi nous interroger sur les épreuves de Daniel et de ses frères hébreux en Babylone. Pourquoi Dieu avait-Il permis cela ? La réponse est très claire : C’est pour Sa propre gloire. Dieu éprouve ses enfants pour glorifier son nom. Qu’en est-il de Job qui fut rassasié de douleur ? La réponse aussi est connue : 
+> **1** L'Éternel répondit à Job du milieu de la tempête et dit : **2** Qui est celui qui obscurcit mes desseins Par des discours sans intelligence ? **3** Ceins tes reins comme un vaillant homme ; Je t'interrogerai, et tu m'instruiras. (Job 38 :1-3)
+Certes, Job avait souffert, mais Dieu l’avait permis pour parler à tous les croyants qui venaient après lui. Et Job ne le sachant pas s’était adonné à beaucoup de paroles que le Seigneur avait qualifiées de « Discours sans intelligence. »
+
+Aujourd’hui, l’Église de Laodicée est dans une grande épreuve – celle de la foi, car notre foi a besoin d’être éprouvée pour manifester la gloire de Dieu dans notre génération. Nous pouvons attester que l’Église de Laodicée vit aujourd’hui l’épreuve d’Abraham, de Daniel et de ses amis, ainsi que l’épreuve de Job. Elle connait une grande misère et une grande humiliation comme Job et subit aussi l’épreuve du temps comme Abraham. Avec cette Église, le Seigneur tarde dans l’accomplissement de ses promesses, au point que plusieurs qui ont perdu patience sont tombés dans les solutions de remplacement comme Ismaël. Mais Dieu n’est pas dans les solutions de remplacement, car toute Sa Parole sera accomplie dans son Église – et puisqu’il en est ainsi, Elle aura aussi son temps de restitution et de restauration complète. En effet, de même qu’Abraham eut son fils Isaac après plusieurs années d’espérance, Laodicée verra sa patience récompensée et manifestera le caractère de Christ. Elle connaîtra aussi la restitution et la restauration complète de Job. Laodicée sera complètement restaurée et tous ses biens spirituels dont Dieu l’a béni lui seront rendus.
+
+Nous sommes très avancés dans ce processus et il est important pour nous de comprendre que nous n’avons d’autre choix que de nous consacrer à Dieu pour atteindre l’objectif. Nous devons nous offrir en holocauste à Dieu – c’est ce qu’Il attend de nous. En effet, si nous analysons le comportement de ces témoins dont nous parlons, nous verrons que c’est ce qu’ils furent et Dieu approuva leur foi. Mes bien-aimés, que devons-nous faire pour que Dieu approuve notre FOI ? Est-ce qu’il nous est arrivé de nous poser cette question ? Dieu approuva la foi d’Abraham lorsqu’il prit la décision de sacrifier son fils unique. Déjà, dans Genèse 22 :1 il est écrit : 
+> **1** Or il arriva après ces choses, que Dieu éprouva Abraham…
+Qu’était l’épreuve ? Dieu dit : 
+> **2** Prends maintenant ton fils, ton unique, celui que tu aimes, Isaac, et t'en va au pays de Morijah, et l'offre là en holocauste sur l'une des montagnes que je te dirai.
+Ce fut une nouvelle grave, un message difficile à accepter, mais Abraham devrait obéir à Dieu. Mais, était-il obligé d’obéir ? Je ne le crois pas, mais il obéit à cause de la marche particulière qu’il avait avec Dieu. Il se leva de bon matin et s’en alla avec son fils pour faire le sacrifice. Comme il est écrit aux verset 9 et 10, Abraham résolut en lui-même, d’offrir son fils unique en sacrifice à Dieu : 
+> **9** Et étant arrivés au lieu que Dieu lui avait dit, Abraham bâtit là un autel, et rangea le bois, et ensuite il lia Isaac son fils, et le mit sur l'autel, au-dessus du bois. **10** Puis Abraham avançant sa main, se saisit du couteau pour égorger son fils.
+C’est lorsque Dieu vit sa résolution qu’Il lui adressa la Parole pour l’arrêter, sinon, Abraham aurait égorgé Isaac. Ce fut là précisément que Dieu approuva sa foi. Il lui dit : 
+> **12** Ne mets point ta main sur l'enfant, et ne lui fais rien ; car maintenant j'ai connu que tu crains Dieu, puisque tu n'as point épargné pour moi ton fils, ton unique.
+> **15** Et l'Ange de l'Éternel cria des cieux à Abraham pour la seconde fois, **16** en disant : J'ai juré par moi-même, dit l'Éternel ; parce que tu as fait cette chose-ci, et que tu n'as point épargné ton fils, ton unique, **17** Certainement je te bénirai, et je multiplierai très-abondamment ta postérité comme les étoiles des cieux, et comme le sable qui est sur le bord de la mer ; et ta postérité possédera la porte de ses ennemis. **18** Et toutes les nations de la terre seront bénies en ta semence, parce que tu as obéi à ma voix.
+C’est après avoir fait le sacrifice suprême – l’holocauste, que Dieu approuva la foi d’Abraham.
+
+Quand on en vient à Daniel et à ses amis, on peut voir qu’ils ont fait des sacrifices – ils se sont offerts en holocauste, publiquement en Babylone, pour être tué à cause de leur foi. C’est ce que Dieu leur demanda pour approuver leur foi. Et l’approbation de leur foi suscita un grand témoignage en Babylone, au point que le roi Nébukadnetsar connu Dieu par le témoignage des compagnons de Daniel. L’holocauste est un grand sacrifice, un sacrifice entièrement consumé par le feu. C’est une dédicace de notre vie à Dieu pour qu’Il en fasse ce qu’Il veut. Au départ, nous pouvons dire que nous avons donné notre vie au Seigneur, mais après, Il doit aller dans les détails avec nous pour nous éprouver et nous conduire dans une réelle consécration. On peut voir le témoignage de Nebukadnetsar après la résistance des trois compagnons de Daniel :
+> **28** Nebucadnetsar prit la parole et dit: Béni soit le Dieu de Schadrac, de Méschac et d'Abed-Nego, lequel a envoyé son ange et délivré ses serviteurs qui ont eu confiance en lui, et qui ont violé l'ordre du roi et livré leurs corps plutôt que de servir et d'adorer aucun autre dieu que leur Dieu! **29** Voici maintenant l'ordre que je donne : tout homme, à quelque peuple, nation ou langue qu'il appartienne, qui parlera mal du Dieu de Schadrac, de Méschac et d'Abed-Nego, sera mis en pièces, et sa maison sera réduite en un tas d'immondices, parce qu'il n'y a aucun autre dieu qui puisse délivrer comme lui. (Dan 3 :28-29)
+Le roi Nébukadnetsar rend témoignage de la foi des trois compagnons de Daniel. Il dit effectivement qu’ils se sont offerts en sacrifice pour la gloire de Dieu. Ils avaient livré leur corps pour être tué plutôt que de se compromettre avec une idole. Dieu les poussa dans cette voie parce qu’Il attendait quelque chose d’eux, car il fallait cette confrontation en Babylone pour que la gloire de Dieu éclate et que les babyloniens comprennent qu’il existe un Dieu différent de leurs idoles. Je crois que l’Église de la fin des temps n’échappe pas à cette situation dans Babylone la Grande, où nous sommes (Apoc 17 :5). Notre foi est éprouvée pour la gloire de Dieu. En méditant dans lévitique, nous pouvons comprendre les exigences de Dieu à notre égard. En effet, Dieu avait établi des exigences sur les holocaustes. Il dit :
+> **18** Tout homme de la maison d'Israël ou des étrangers en Israël, qui offrira un holocauste à l'Éternel, soit pour l'accomplissement d'un vœu, soit comme offrande volontaire, **19** prendra un mâle sans défaut parmi les bœufs, les agneaux ou les chèvres, afin que sa victime soit agréée. Vous n'en offrirez aucune qui ait un défaut, car elle ne serait pas agréée. **20** Si un homme offre à l'Éternel du gros ou du menu bétail en sacrifice d'actions de grâces, soit pour l'accomplissement d'un vœu, soit comme offrande volontaire, la victime sera sans défaut, afin qu'elle soit agréée; il n'y aura en elle aucun défaut. **21** Vous n'en offrirez point qui soit aveugle, estropiée, ou mutilée, qui ait des ulcères, la gale ou une dartre ; vous n'en ferez point sur l'autel un sacrifice consumé par le feu devant l'Éternel. (Lév 22:18-20)
+En lisant ces paroles, j’ai compris pourquoi le Seigneur est aussi exigent avec son peuple, appelé à former l’Épouse de Christ. Nous devons être une victime sans défaut pour être agréé de Dieu dans la présentation de notre holocauste. Il s’agit aussi de notre Foi qui doit être sans défaut pour accomplir la volonté de Dieu.
+
+Dans le livre de Malachie nous est relaté des réprimandes de Dieu contre Israël. Il est écrit : 
+> **6** En quoi avons-nous méprisé ton nom ? **7** Vous offrez sur mon autel des aliments impurs, Et vous dites : En quoi t'avons-nous profané ? C'est en disant : La table de l'Éternel est méprisable ! **8** Quand vous offrez en sacrifice une bête aveugle, n'est-ce pas mal ? Quand vous en offrez une boiteuse ou infirme, n'est-ce pas mal ? Offre-la donc à ton gouverneur ! Te recevra-t-il bien, te fera-t-il bon accueil ? Dit l'Éternel des armées. (Mal 1 :7-8)
+Notre sacrifice ne devrait pas se faire avec des aliments impurs. Et nous devons comprendre qu’il s’agit ici de nous qui sommes appelés à présenter des sacrifices à Dieu. Il nous faut aller nous-mêmes au sacrifice et nous offrir nous-mêmes, car c’est de cela qu’il s’agit. Nul qui veut accomplir la volonté de Dieu ne peut échapper à l’holocauste - le sacrifice suprême. Le Seigneur parle ici de son peuple qui lui offre des sacrifices impurs, avec des bêtes remplies de défauts. Imaginez-vous un chrétien aveugle, qui ne connait pas les choses de Dieu ; comment Dieu peut-il approuver sa foi ? Et la bête infirme alors ? Celle qui est spirituellement malade et qui n’arrive pas à marcher, qui est paralysée. Et nos aliments impurs que sont nos pensées qui ne glorifient pas Dieu.
+
+Mes bien-aimés frères et sœurs, notre foi doit être sans défaut. Elle doit être pure et sans tâches de doute, d’incrédulité et de mobile impur. C’est pour cette raison que Dieu l’éprouve, afin de lui donner toutes les vertus nécessaires à sa maturité. L’holocauste appelle le témoignage de Dieu sur nous. Lorsqu’Élie présenta son holocauste, le feu descendit du ciel pour le consumer. La résistance de Daniel et de ses compagnons éleva haut, le nom de l’Éternel Dieu en Babylone, dans le palais royal. Mes chers frères et sœurs, c’est ce que Dieu attend de nous – que notre vie élève son nom dans ce monde de péché et d’idolâtrie. Mais nous ne pouvons pas y arriver sans sacrifice, sans nous livrer à Dieu, à la vie comme à la mort.
+
+De plus en plus, le premier commandement prend de la place dans mes pensées et je dois l’évoquer ici. La question fut posée à Jésus : 
+> **36** Maître, lequel est le grand commandement de la Loi ? **37** Jésus lui dit : tu aimeras le Seigneur ton Dieu de tout ton cœur, et de toute ton âme, et de toute ta pensée. (Matth 22 :36-37)
+Je reste convaincu que ce commandement doit encore s’accomplir dans la vie de ceux qui veulent faire la volonté de Dieu dans notre génération. Certes, Jésus a dit que l’amour du plus grand nombre se refroidira, mais le premier commandement doit aussi s’accomplir dans notre vie. Nous devons aimer Dieu de tout notre cœur, de toute notre âme et de toute notre pensée, avec toutes les implications que cela peut engendrer dans notre vie de tous les jours. L’amour de Dieu doit être une réalité pour chacun de nous. En effet, si Daniel et ses compagnons n’avaient pas obéi au premier commandement, ils n’auraient pas glorifié le nom du Seigneur en Babylone. Par-là, nous pouvons comprendre qu’on ne peut pas faire d’exploits avec Dieu si on ne l’aime pas de l’amour du premier commandement. Car l’amour conduit à la foi et à l’obéissance.
+
+Évidemment, nous pouvons dire que nous aimons Dieu, mais, la bible nous définit déjà ce que c’est que l’amour de Dieu. Jésus a dit 
+> **15** Si vous m’aimez, gardez mes commandements (Jean 14 :15)
+Abraham aimait Dieu et gardait sa Parole, c’est pour cela qu’il fut appelé « ami de Dieu ». Jésus a encore dit : 
+> **10** Si vous gardez mes commandements, vous demeurerez en mon amour ; comme j'ai gardé les commandements de mon Père, et je demeure en son amour. (Jean 15 :10)
+Ici, le Seigneur prend en exemple le fait qu’Il a aimé son Père et a gardé Ses commandements et nous invite à faire la même chose. Nous pouvons dire que nous aimons le Seigneur, mais Jésus lui-même nous a déjà donné la définition de l’amour de Dieu. Notre joie est grande, car dans notre génération, nous accomplirons toute la Parole de Dieu. Si nous avons droit aux épreuves, et si nous tenons fermes, nous aurons aussi droit à la restauration et à la restitution.
+
+Mes chers amis, je dois vous dire que ceux qui ne sont pas éprouvés des épreuves dont nous parlons devraient s’inquiéter pour leur avenir, car ils n’ont pas de place dans l’œuvre à venir de Dieu. N’est-ce pas ce qui arriva au commencement de l’Église ? En effet, après la pentecôte, l’œuvre de Dieu se retrouva dans les mains des disciples de Christ - les guides religieux n’avaient plus rien à faire parce qu’ils n’étaient plus dans la volonté de Dieu. Ils étaient seulement dépassés par les événements et passaient leur temps à menacer les apôtres de Christ. Actuellement, c’est le temps des faux prophètes et des faux Christs qui séduisent beaucoup de gens. (Matth 24 :5) Pendant ce temps, le Seigneur notre Dieu apprête ses instruments, comme Il apprêta Élie et Jean Baptiste en leur temps, dans le désert. Le moment vient et il est déjà là où Il dira à Élie : Va et présente-toi devant Achab. Le moment vient où le Seigneur fera retentir la voix de Jean-Baptiste au bord des eaux du Jourdain, là où le peuple de Dieu ira s’abreuver et se faire baptiser de la puissance du Saint-Esprit.
+
+Avons-nous fait le sacrifice de l’holocauste ? Si nous avons fait ce sacrifice, nous pouvons alors nous attendre à prendre part au baptême de feu qui va avoir lieu dans l’Église de Jésus-Christ, car chaque holocauste est entièrement consumé par le FEU sur l’autel : C’est la loi sur les holocaustes. Toute chair consacrée à Dieu sera salée de feu et entièrement consumée par la puissance du feu de l’Esprit. Mes bien-aimés, il y aura un baptême de feu dans l’Église, certes, mais ce baptême sera pour les vies offertes en holocauste à Dieu. Que la grâce et la paix de notre Seigneur Jésus-Christ soient avec vous. Que son saint nom soit béni au siècle des siècles dans l’Assemblée des saints. AMEN ! ALLÉLOUA !
+
+En Christ notre Seigneur
+
+Fr M’BRA Parfait
