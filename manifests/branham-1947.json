@@ -1,0 +1,317 @@
+[
+  {
+    "source": "branham",
+    "sermon_id": "47-0412",
+    "year": 1947,
+    "date": "1947-04-12",
+    "title": "Faith Is The Substance",
+    "location": "Oakland",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/20b/20b9465ae353de1a2c097385d1fb0d0ebfd2710f940519e097d5c3f113049b994523fabcce17c0dafd562b4506045c395c9f3de95cbc4dda9303f2fd8ee0202a.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/f12/f12255848ca38afa40e9cf138925e2521f23ad3bed77483fe9f9c0f3a4832a3be96e017ccc64634da218a8e8272c4032dcd5153b9465c3be9cf6a214f22d9e2f.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=47-0412",
+    "preacher": "William Branham",
+    "summary": "William Branham teaches on the nature of faith as the sixth sense, using personal anecdotes and biblical references to illustrate that faith is a direct, positive evidence of things unseen. He emphasizes that true faith is not mere hope but a substance that can move objects and bring healing, and he challenges the congregation to move beyond intellectual belief to genuine faith.",
+    "tags": [
+      "faith",
+      "divine healing",
+      "sixth sense",
+      "substance",
+      "evidence"
+    ],
+    "persons": [
+      "William Branham",
+      "Charles Fuller",
+      "Jack Walker",
+      "Morse",
+      "Georgia Carter",
+      "Edith Wright",
+      "Jesus Christ",
+      "Peter",
+      "Abel",
+      "Cain"
+    ],
+    "places": [
+      "Oakland",
+      "Jeffersonville",
+      "Indiana",
+      "Milltown",
+      "Depauw",
+      "New Albany",
+      "Long Beach",
+      "Rocky Mountains",
+      "Canada",
+      "Mexico",
+      "Houston",
+      "Marengo",
+      "Ohio"
+    ],
+    "themes": [
+      "Faith as substance",
+      "Divine healing",
+      "Sixth sense",
+      "Belief vs. hope",
+      "God's power",
+      "Unbelief",
+      "Supernatural"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1947/47-0412.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "47-1100X",
+    "year": 1947,
+    "date": "1947-11-00",
+    "title": "Fellowship",
+    "location": "Arizona",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/a1c/a1cdc04d58c80457bccbef4def26d694cb0b764d816dab4e6c814ed56a922dd91cbf683e263b91662505cdad97556338b42987e52d84a1f95d5e1df1686970a1.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/aba/abac21ad2c6c4c0affb450c70ef7aa0730d0341e1014c67d8e2cb3fb0105d10103fed0d4180372a7f9aeab83329e016b1419c4653c729ce23f16db5ae136f85c.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=47-1100X",
+    "preacher": "William Branham",
+    "summary": "A casual fellowship gathering with music and brief remarks from William Branham, Brother Bosworth, and the McAnallys in Arizona.",
+    "tags": [
+      "fellowship",
+      "music",
+      "Arizona",
+      "hog hunting"
+    ],
+    "persons": [
+      "William Branham",
+      "F. F. Bosworth",
+      "Brother McAnally",
+      "Sister McAnally",
+      "Brother Hooper",
+      "Meda Branham"
+    ],
+    "places": [
+      "Arizona"
+    ],
+    "themes": [
+      "fellowship",
+      "music",
+      "hospitality"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1947/47-1100X.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "47-1102",
+    "year": 1947,
+    "date": "1947-11-02",
+    "title": "The Angel of God",
+    "location": "Phoenix, Arizona",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/db7/db7f4aa539165cbf7ae9ec24772d14f8985da5c01638f918c0c3c431a798034b5ed6ed61fb37f5a5353574911cc716d5e95acbf5e8ffb22c77126d52c46cb99b.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/4fb/4fb994372a83240c45ef4065e3da7386559ff9a71a349463cec10a63459b3179f3b3503b11ba83ebb445e6b082e801ffd2a04ca4e98273f890a378f4b9b8e8ff.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=47-1102",
+    "preacher": "William Branham",
+    "summary": "William Branham speaks about his healing ministry and the Angel of God that appeared to him, describing miracles of healing including a crippled boy and a deaf woman. He emphasizes the need for faith and warns of coming judgment, calling the audience to believe in God's power.",
+    "tags": [
+      "healing",
+      "faith",
+      "angel",
+      "miracles",
+      "revival"
+    ],
+    "persons": [
+      "Moses",
+      "Elisha",
+      "Naaman",
+      "Jesus Christ",
+      "Abraham",
+      "Pharaoh",
+      "Joseph"
+    ],
+    "places": [
+      "Phoenix",
+      "Arizona",
+      "Canada",
+      "Calgary",
+      "Vancouver",
+      "California",
+      "Fresno",
+      "St. Louis",
+      "Vandalia",
+      "Illinois",
+      "Sacramento",
+      "New Mexico",
+      "Minneapolis",
+      "Minnesota"
+    ],
+    "themes": [
+      "Divine healing",
+      "Faith and belief",
+      "The Angel of God",
+      "Spiritual warfare",
+      "God's judgment and mercy"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1947/47-1102.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "47-1123",
+    "year": 1947,
+    "date": "1947-11-23",
+    "title": "The Children of Israel",
+    "location": "Phoenix, Arizona",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/688/6883ea3a571c101f3c9f6f0704fa9e1682535b226cb5a90c381177bbb3ab7910ead5b0bbaee884062eb4c5e5c272f4e535c715dedc497e17ac333fd21b975ad8.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/e37/e3730e84abe0554e3f4b7e094848d3704c97141f41ea2048d4534e03846fb48778325b8a8caa86ff5e9d26f8e8822262387411d9fa86fa6e011a068a34ff2e13.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=47-1123",
+    "preacher": "William Branham",
+    "summary": "William Branham speaks about the importance of faith in healing, recounting recent miracles and emphasizing that healing comes through faith in God, not through the preacher. He draws parallels between the journey of the children of Israel and the spiritual journey of the Church, warning against lukewarmness and urging unity and love among believers.",
+    "tags": [
+      "healing",
+      "faith",
+      "children of Israel",
+      "miracles",
+      "unity"
+    ],
+    "persons": [
+      "William Branham",
+      "Moses",
+      "Aaron",
+      "Balaam",
+      "Balak",
+      "Jesus",
+      "Paul",
+      "Elisha",
+      "Naaman",
+      "Martin Luther",
+      "John Wesley"
+    ],
+    "places": [
+      "Phoenix",
+      "Oregon",
+      "Canada",
+      "Egypt",
+      "Moab",
+      "Jericho"
+    ],
+    "themes": [
+      "divine healing",
+      "faith and belief",
+      "spiritual journey",
+      "unity of believers",
+      "lukewarm church",
+      "God's will"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1947/47-1123.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "47-1207",
+    "year": 1947,
+    "date": "1947-12-07",
+    "title": "Experiences",
+    "location": "Phoenix",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/fe1/fe12646fbcc06398c6b12c6a45d3a247d4b5b7b3dfe6e5b465257eb3c077720bc135d95078943f89ceadf3149c0156fce2a52a345d373a93ba50acc80fd59daf.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/046/04685e7c99ad1c33a98691cdf6342c0f2866f54cb5e4e92cb8debd991aeecfe31d687b32466fbceca4b9806b7f07542978bfeb5b484f31d2b3d7ba38511351e0.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=47-1207",
+    "preacher": "William Branham",
+    "summary": "William Branham shares a personal testimony of a spiritual crisis where he felt God's presence leave him during a healing service, leading to a period of deep repentance and renewal. He describes how the gift of healing returned with greater power, and he emphasizes the importance of unity among churches and trusting in God rather than human efforts.",
+    "tags": [
+      "testimony",
+      "healing",
+      "repentance",
+      "church unity",
+      "spiritual gifts"
+    ],
+    "persons": [
+      "William Branham",
+      "Brother Kidson",
+      "Brother Lindsay",
+      "Brother Sharrit",
+      "Reverend Baxter",
+      "Balaam",
+      "Moses",
+      "Joshua",
+      "Jesus Christ"
+    ],
+    "places": [
+      "Phoenix",
+      "Vandalia, Illinois",
+      "Canada",
+      "San Francisco",
+      "Oregon",
+      "Idaho",
+      "El Dorado"
+    ],
+    "themes": [
+      "Divine healing",
+      "Repentance and restoration",
+      "Church unity",
+      "Obedience to God",
+      "Spiritual gifts",
+      "Faith and humility"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1947/47-1207.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "47-1221",
+    "year": 1947,
+    "date": "1947-12-21",
+    "title": "Experiences",
+    "location": "Phoenix",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/64b/64b0091f062b3b8deac9425f2fc9c6b38c6bbd9a4c74200fbc09237c15b588136626a35f0841546468130cb3447b1fc7a3a832141402b2d22ebe151a6d8688f6.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/403/403b4891c2075b444c03e8cc94f840b36246fd94cc694b7f1df9874302ae36d3144b8eb6fe03862caf71a1b4bc5937c02b8affa6d69ddcbaff385123e7b07fd9.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=47-1221",
+    "preacher": "William Branham",
+    "summary": "William Branham shares personal struggles with physical weakness and mental strain in ministry, reflecting on the difference between preaching by the Word and operating in a gift. He recounts healings, the use of prayer cloths, and encourages unity among believers as end-time confederations form.",
+    "tags": [
+      "healing",
+      "gift",
+      "Holy Spirit",
+      "faith",
+      "prayer cloths"
+    ],
+    "persons": [
+      "William Branham",
+      "F. F. Bosworth",
+      "Elijah",
+      "Gehazi",
+      "Moses",
+      "John the Baptist",
+      "Mary",
+      "Gabriel",
+      "Jesus Christ"
+    ],
+    "places": [
+      "Phoenix",
+      "Miami",
+      "Pensacola",
+      "Kansas City",
+      "Topeka",
+      "Elgin",
+      "Chicago",
+      "Washington",
+      "Canada",
+      "South Africa",
+      "Australia",
+      "Europe",
+      "Sunnyslope",
+      "Tijuana",
+      "Mexico"
+    ],
+    "themes": [
+      "Divine healing",
+      "gift vs. Word",
+      "prayer cloths",
+      "unity of the Church",
+      "end-time confederation",
+      "perseverance in ministry",
+      "authority of Jesus' name"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1947/47-1221.md"
+  }
+]

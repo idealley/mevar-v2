@@ -1,0 +1,10 @@
+{
+  "stats": {
+    "total": 910,
+    "applied": 905,
+    "errored": 0,
+    "missing_cache": 5,
+    "no_change": 0
+  },
+  "errors": []
+}

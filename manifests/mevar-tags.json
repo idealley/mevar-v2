@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Prédications",
+    "slug": "predications",
+    "description": "Or, voyant les foules, il monta sur la montagne; et lorsqu'il se fut assis, ses disciples s'approchèrent de lui; et ayant ouvert sa bouche, il les enseignait, (Matthieu 5:1-2)",
+    "visibility": "public",
+    "post_count": 208
+  },
+  {
+    "name": "Exhortations",
+    "slug": "exhortations",
+    "description": "Ainsi donc ne dormons pas comme les autres, mais veillons et soyons sobres; [...] car Dieu ne nous a pas destinés à la colère, mais à l'acquisition du salut par notre Seigneur Jésus Christ, qui est mort pour nous, afin que, soit que nous veillions, soit que nous dormions, nous vivions ensemble avec lui. C'est pourquoi exhortez-vous l'un l'autre et édifiez-vous l'un l'autre, chacun en particulier, comme aussi vous le faites. (1 Thessaloniciens 5:6-11)",
+    "visibility": "public",
+    "post_count": 109
+  },
+  {
+    "name": "2020",
+    "slug": "2020",
+    "description": null,
+    "visibility": "public",
+    "post_count": 72
+  },
+  {
+    "name": "audio",
+    "slug": "audio",
+    "description": null,
+    "visibility": "public",
+    "post_count": 69
+  },
+  {
+    "name": "Etudes Bibliques",
+    "slug": "etudes-bibliques",
+    "description": "Le coeur de l'homme intelligent acquiert la connaissance, et l'oreille des sages cherche la connaissance. (Proverbes 18:15)",
+    "visibility": "public",
+    "post_count": 47
+  },
+  {
+    "name": "2019",
+    "slug": "2019",
+    "description": null,
+    "visibility": "public",
+    "post_count": 35
+  },
+  {
+    "name": "Koumassi",
+    "slug": "koumassi",
+    "description": null,
+    "visibility": "public",
+    "post_count": 28
+  },
+  {
+    "name": "2015",
+    "slug": "2015",
+    "description": null,
+    "visibility": "public",
+    "post_count": 25
+  },
+  {
+    "name": "2006",
+    "slug": "2006",
+    "description": null,
+    "visibility": "public",
+    "post_count": 19
+  },
+  {
+    "name": "2013",
+    "slug": "2013",
+    "description": null,
+    "visibility": "public",
+    "post_count": 17
+  },
+  {
+    "name": "2021",
+    "slug": "2021",
+    "description": null,
+    "visibility": "public",
+    "post_count": 17
+  },
+  {
+    "name": "2022",
+    "slug": "2022",
+    "description": null,
+    "visibility": "public",
+    "post_count": 17
+  },
+  {
+    "name": "La foi",
+    "slug": "la-foi",
+    "description": null,
+    "visibility": "public",
+    "post_count": 17
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "slug": "cote-divoire",
+    "description": null,
+    "visibility": "public",
+    "post_count": 17
+  },
+  {
+    "name": "2023",
+    "slug": "2023",
+    "description": null,
+    "visibility": "public",
+    "post_count": 16
+  },
+  {
+    "name": "2017",
+    "slug": "2017",
+    "description": null,
+    "visibility": "public",
+    "post_count": 15
+  },
+  {
+    "name": "2007",
+    "slug": "2007",
+    "description": null,
+    "visibility": "public",
+    "post_count": 14
+  },
+  {
+    "name": "2014",
+    "slug": "2014",
+    "description": null,
+    "visibility": "public",
+    "post_count": 14
+  },
+  {
+    "name": "Les complots de Satan",
+    "slug": "les-complots-de-satan",
+    "description": null,
+    "visibility": "public",
+    "post_count": 13
+  },
+  {
+    "name": "2012",
+    "slug": "2012",
+    "description": null,
+    "visibility": "public",
+    "post_count": 11
+  },
+  {
+    "name": "2018",
+    "slug": "2018",
+    "description": null,
+    "visibility": "public",
+    "post_count": 11
+  },
+  {
+    "name": "Le combat spirituel",
+    "slug": "le-combat-spirituel",
+    "description": null,
+    "visibility": "public",
+    "post_count": 11
+  },
+  {
+    "name": "2016",
+    "slug": "2016",
+    "description": null,
+    "visibility": "public",
+    "post_count": 10
+  },
+  {
+    "name": "Publications",
+    "slug": "publications",
+    "description": null,
+    "visibility": "public",
+    "post_count": 8
+  },
+  {
+    "name": "2010",
+    "slug": "2010",
+    "description": null,
+    "visibility": "public",
+    "post_count": 8
+  },
+  {
+    "name": "vidéo",
+    "slug": "video",
+    "description": null,
+    "visibility": "public",
+    "post_count": 8
+  },
+  {
+    "name": "Abidjan",
+    "slug": "abidjan",
+    "description": null,
+    "visibility": "public",
+    "post_count": 8
+  },
+  {
+    "name": "2024",
+    "slug": "2024",
+    "description": null,
+    "visibility": "public",
+    "post_count": 8
+  },
+  {
+    "name": "Y a-t-il quelque chose d'impossible à Dieu?",
+    "slug": "y-a-t-il-quelque-chose-dimpossible-a-dieu",
+    "description": null,
+    "visibility": "public",
+    "post_count": 7
+  },
+  {
+    "name": "2011",
+    "slug": "2011",
+    "description": null,
+    "visibility": "public",
+    "post_count": 7
+  },
+  {
+    "name": "Le Message des Sept Sceaux",
+    "slug": "le-message-des-sept-sceaux",
+    "description": null,
+    "visibility": "public",
+    "post_count": 6
+  },
+  {
+    "name": "Babylone",
+    "slug": "babylone",
+    "description": null,
+    "visibility": "public",
+    "post_count": 6
+  },
+  {
+    "name": "Congo Brazzaville",
+    "slug": "congo-brazzaville",
+    "description": null,
+    "visibility": "public",
+    "post_count": 6
+  },
+  {
+    "name": "2009",
+    "slug": "2009",
+    "description": null,
+    "visibility": "public",
+    "post_count": 6
+  },
+  {
+    "name": "Chaîne de prière",
+    "slug": "chaine-de-priere",
+    "description": null,
+    "visibility": "public",
+    "post_count": 5
+  },
+  {
+    "name": "Pointe Noire",
+    "slug": "pointe-noire",
+    "description": null,
+    "visibility": "public",
+    "post_count": 5
+  },
+  {
+    "name": "2008",
+    "slug": "2008",
+    "description": null,
+    "visibility": "public",
+    "post_count": 4
+  },
+  {
+    "name": "Les signes d’un Ministère ou d’une œuvre authentique de Dieu",
+    "slug": "les-signes-dun-ministere-ou-dune-oeuvre-authentique-de-dieu",
+    "description": null,
+    "visibility": "public",
+    "post_count": 4
+  },
+  {
+    "name": "Lagos",
+    "slug": "lagos",
+    "description": null,
+    "visibility": "public",
+    "post_count": 3
+  },
+  {
+    "name": "Houndé",
+    "slug": "hounde",
+    "description": null,
+    "visibility": "public",
+    "post_count": 2
+  },
+  {
+    "name": "Burkina Fasso",
+    "slug": "burkina-fasso",
+    "description": null,
+    "visibility": "public",
+    "post_count": 2
+  },
+  {
+    "name": "Nigeria",
+    "slug": "nigeria",
+    "description": null,
+    "visibility": "public",
+    "post_count": 2
+  },
+  {
+    "name": "Muraz",
+    "slug": "muraz",
+    "description": null,
+    "visibility": "public",
+    "post_count": 2
+  },
+  {
+    "name": "Suisse",
+    "slug": "suisse",
+    "description": null,
+    "visibility": "public",
+    "post_count": 2
+  },
+  {
+    "name": "Cotonou",
+    "slug": "cotonou",
+    "description": null,
+    "visibility": "public",
+    "post_count": 2
+  },
+  {
+    "name": "Bénin",
+    "slug": "benin",
+    "description": null,
+    "visibility": "public",
+    "post_count": 2
+  },
+  {
+    "name": "2004",
+    "slug": "2004",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "#communication",
+    "slug": "hash-communication",
+    "description": null,
+    "visibility": "internal",
+    "post_count": 1
+  },
+  {
+    "name": "Chantier",
+    "slug": "chantier",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Sinfra",
+    "slug": "sinfra",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Dabou",
+    "slug": "dabou",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "So-Tchanwé",
+    "slug": "so-tchanwe",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Guibéroua",
+    "slug": "guiberoua",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Lausanne",
+    "slug": "lausanne",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Morofé",
+    "slug": "morofe",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "N'douffou",
+    "slug": "ndouffou",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Kouassikro",
+    "slug": "kouassikro",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Bouaké",
+    "slug": "bouake",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Mougnondzi",
+    "slug": "mougnondzi",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Janvier",
+    "slug": "janvier",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Krakro",
+    "slug": "krakro",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Soubré",
+    "slug": "soubre",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Arrah",
+    "slug": "arrah",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Témoignage",
+    "slug": "temoignage",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Duekoué",
+    "slug": "duekoue",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Biasso",
+    "slug": "biasso",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "novembre",
+    "slug": "novembre",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "KouKloubo",
+    "slug": "koukloubo",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "News",
+    "slug": "news",
+    "description": null,
+    "visibility": "public",
+    "post_count": 0
+  },
+  {
+    "name": "#samuel",
+    "slug": "hash-samuel",
+    "description": null,
+    "visibility": "internal",
+    "post_count": 0
+  }
+]

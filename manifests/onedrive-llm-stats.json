@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "total": 339,
+    "applied": 336,
+    "errored": 1,
+    "missing_cache": 0,
+    "no_change": 0
+  },
+  "errors": [
+    {
+      "id": "Un peuple de sacrificateurs",
+      "reason": "chunk 1 failed"
+    }
+  ]
+}

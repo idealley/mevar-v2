@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Parfait M'bra",
+    "slug": "parfait-mbra",
+    "email": "parfait318@gmail.com",
+    "status": "locked",
+    "post_count": 297
+  },
+  {
+    "name": "Samuel Pouyt",
+    "slug": "samuel",
+    "email": "samuel@pou.yt",
+    "status": "active",
+    "post_count": 24
+  },
+  {
+    "name": "Stéphane Pouyt",
+    "slug": "stephane-pouyt",
+    "email": "stepouyt@hotmail.com",
+    "status": "locked",
+    "post_count": 7
+  },
+  {
+    "name": "André Kadjany",
+    "slug": "andre-kadjany",
+    "email": "andreyobouet66@gmail.com",
+    "status": "locked",
+    "post_count": 5
+  },
+  {
+    "name": "Pierre Kouadio",
+    "slug": "pierre-kouadio",
+    "email": "k_pierre2001@yahoo.fr",
+    "status": "locked",
+    "post_count": 2
+  },
+  {
+    "name": "Irié Anderson",
+    "slug": "irie",
+    "email": "irieaigleblanc@gmail.com",
+    "status": "locked",
+    "post_count": 2
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "source": "branham",
+    "sermon_id": "48-0000",
+    "year": 1948,
+    "date": "1948-00-00",
+    "title": "Prayer Line",
+    "location": null,
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/f16/f16ddef7375da076bd18456c58c7a783494c495409f9e9c3ad423849d7eb4a060eefb91699443d885f974bc54874f09366624aa5974cbbbd2f075e3f66f57fd2.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/eed/eedff8dfab02b1e0d7d29a4dabea0b68c9c044b999b301d827ff5feecfc53e54868fe21dd4367f56dec39bd66d0c261c00d6e3e32d235d2cd1ada7fd4d337206.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=48-0000",
+    "preacher": "William Branham",
+    "summary": "William Branham conducts a prayer line, healing various individuals through the power of the Holy Spirit. He casts out deaf and dumb spirits, heals crossed eyes, and delivers people from infirmities, emphasizing faith and the authority of Jesus Christ.",
+    "tags": [
+      "healing",
+      "prayer line",
+      "deliverance",
+      "faith",
+      "Holy Spirit"
+    ],
+    "persons": [
+      "Jesus Christ",
+      "Paul",
+      "Luke"
+    ],
+    "places": [],
+    "themes": [
+      "Divine healing",
+      "Faith",
+      "Authority of Jesus Christ",
+      "Deliverance from evil spirits",
+      "Power of the Holy Spirit"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1948/48-0000.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "48-0302",
+    "year": 1948,
+    "date": "1948-03-02",
+    "title": "Experiences",
+    "location": "Phoenix, Arizona",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/78c/78c22437720b9300cf871b76b213bfbe0e66f52d30c1809b0b1f0e84bca194f895053093ad0cebc6691b97d98a2d5293b4358c6939c71a7ee22683d8afbadf5f.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/7cd/7cd79880da85c35b87d004c978f14f64d9d9315dc537192a8fbc42b45da281d5a2b88cad74c466ff5336d3004df0ba06013d26336b5c99abc524169bb813ade2.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=48-0302",
+    "preacher": "William Branham",
+    "summary": "William Branham shares personal testimonies of miraculous healings, including a vision of a dying boy and a crippled girl, emphasizing the importance of faith and obedience to God's direction. He explains how the gift of healing operates through divine visions and warns against fanaticism.",
+    "tags": [
+      "healing",
+      "faith",
+      "visions",
+      "testimony",
+      "divine guidance"
+    ],
+    "persons": [
+      "William Branham",
+      "John Emmel",
+      "Graham Snelling",
+      "Harold Nail",
+      "G. H. Brown",
+      "Paul Morgan"
+    ],
+    "places": [
+      "Phoenix, Arizona",
+      "Jeffersonville, Indiana",
+      "Utica, Indiana",
+      "Salem, Indiana",
+      "South Boston, Indiana",
+      "Little Rock, Arkansas",
+      "Walnut Ridge, Arkansas",
+      "Memphis, Tennessee"
+    ],
+    "themes": [
+      "Divine healing",
+      "Faith and obedience",
+      "Visions and revelations",
+      "The role of the Holy Spirit",
+      "Warning against fanaticism"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1948/48-0302.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "48-0304",
+    "year": 1948,
+    "date": "1948-03-04",
+    "title": "The Angel of God",
+    "location": "Phoenix, Arizona",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/ec1/ec1698e4b9d0e515712aef20b8344040506426fc0a4abf370fc93373a4214f4557889197301050bf7cf7ac0a81d5b25476924b1dcc24e07b1dd3eb6916f43944.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/9d2/9d2caf560346c63492885cde1b6d3b7808536bb305ab2425285c36bf1fbc0dad0263bafe12817e08efa5eb852af90c42b16f429fcf271af9566eb5e9114e447d.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=48-0304",
+    "preacher": "William Branham",
+    "summary": "William Branham speaks about the Angel of God that appears in his meetings, emphasizing that healing comes through faith in Christ, not through any human power. He urges unity among believers and warns against sin after receiving healing.",
+    "tags": [
+      "Angel of God",
+      "divine healing",
+      "faith",
+      "unity",
+      "Holy Spirit"
+    ],
+    "persons": [
+      "William Branham",
+      "Jesus Christ",
+      "Moses",
+      "Peter",
+      "Paul",
+      "John the Revelator",
+      "Elijah",
+      "Elisha",
+      "Brother Bosworth",
+      "Mrs. Hattie Waldrop",
+      "Sister Garcia"
+    ],
+    "places": [
+      "Jeffersonville",
+      "Phoenix",
+      "Miami",
+      "Cana",
+      "Galilee",
+      "Jerusalem",
+      "Macedonia",
+      "Canada"
+    ],
+    "themes": [
+      "Angel of the Lord",
+      "divine healing",
+      "faith and belief",
+      "unity of the Church",
+      "Holy Spirit baptism",
+      "end times",
+      "repentance"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1948/48-0304.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "48-0305",
+    "year": 1948,
+    "date": "1948-03-05",
+    "title": "At Thy Word, Lord",
+    "location": null,
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/820/82013b9b7878764c78b4f7182d450f8df654175c25f68ac730ce2cb104bd7ce9f0d2b4b47e5425cf5579e7ec1e8b839a3bc5964e297c9ac061fd7b2a4f31a0fc.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/0bb/0bb03625f0511d44ac08c84cd5879f786fef238d66e375f1455ee25a8dba6fa8aa94adfbe054412dee6ccac907d84d4a1585fb992bc916de59211be1ff7088ef.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=48-0305",
+    "preacher": "William Branham",
+    "summary": "William Branham preaches on the importance of taking God at His Word, using biblical examples such as Peter launching out into the deep, the woman with the issue of blood, Jairus's daughter, Lazarus, and the Hebrew children in the fiery furnace. He emphasizes that God is the same yesterday, today, and forever, and that healing and deliverance are available to those who believe and act on God's promises.",
+    "tags": [
+      "faith",
+      "healing",
+      "God's Word",
+      "divine healing",
+      "miracles"
+    ],
+    "persons": [
+      "William Branham",
+      "Jesus Christ",
+      "Simon Peter",
+      "Andrew",
+      "Jairus",
+      "Lazarus",
+      "Shadrach",
+      "Meshach",
+      "Abednego",
+      "Nebuchadnezzar",
+      "David",
+      "Goliath",
+      "Paul",
+      "Moses",
+      "Abraham",
+      "Sarah"
+    ],
+    "places": [
+      "Phoenix",
+      "Douglas",
+      "Tijuana",
+      "Babylon",
+      "Jerusalem",
+      "Gadara",
+      "Mexico"
+    ],
+    "themes": [
+      "faith in God's Word",
+      "divine healing",
+      "God's omnipotence",
+      "perseverance in trials",
+      "the power of belief",
+      "God's faithfulness",
+      "the Holy Spirit"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1948/48-0305.md"
+  }
+]

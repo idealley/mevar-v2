@@ -1,0 +1,107 @@
+[
+  {
+    "source": "branham",
+    "sermon_id": "49-0718",
+    "year": 1949,
+    "date": "1949-07-18",
+    "title": "I Was Not Disobedient To The Heavenly Vision",
+    "location": "Zion, Illinois, U.S.A.",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/fdf/fdf6c7372c2d795e066f60dc325341f7bf72b85c9a0a3b66a4c5935bee33d1b7bcde8c624aa5eebef029d82b1b3a7e0f5a5c752683e0a9f60bec861f53f7c0af.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/644/644cc5e1a77ddf4208a40f72d3d0a3ffaa7d0b4c885be6098d7e6e182379e6ac0a9a7f07f8c6f99f34b8ebf23880e62598c4f19c47fb3a74f4411d1671752d40.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=49-0718",
+    "subtitle": "49-0718",
+    "preacher": "William Branham",
+    "summary": "William Branham speaks at Grace Missionary Church in Zion, Illinois, encouraging the congregation to continue in faith and prayer for revival. He shares testimonies of healings, including a cross-eyed baby and a deaf, dumb, crippled boy, and emphasizes the importance of believing in God's healing power. He also recounts a prophecy by Alexander Dowie about a revival forty years after his death.",
+    "tags": [
+      "healing",
+      "revival",
+      "faith",
+      "prophecy",
+      "divine healing"
+    ],
+    "persons": [
+      "William Branham",
+      "Alexander Dowie",
+      "Ern Baxter",
+      "Jesus Christ"
+    ],
+    "places": [
+      "Zion, Illinois",
+      "Jeffersonville, Indiana",
+      "British Columbia",
+      "Canada",
+      "Finland",
+      "Scandinavian countries"
+    ],
+    "themes": [
+      "Divine healing",
+      "Faith and belief",
+      "Revival and prophecy",
+      "The power of prayer",
+      "The role of the Holy Spirit"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1949/49-0718.md"
+  },
+  {
+    "source": "branham",
+    "sermon_id": "49-1225",
+    "year": 1949,
+    "date": "1949-12-25",
+    "title": "The Deity of Jesus Christ",
+    "location": "Jeffersonville, Indiana (likely)",
+    "duration": null,
+    "pdf_url": "https://d2w09gj4mqt5u.cloudfront.net/repo/5eb/5eb596ca942dc12b77a3ec75a18cf5ae2011e4a3607856dda6786d48f01c8197a7f5530b3e80b46d8d4754457035e371429d651a362a091532ab5734882a6396.pdf",
+    "audio_url": "https://d21kl6o5a7faj0.cloudfront.net/repo/78a/78a6f8f6964518ca87f96ca81df0f34260ba6b26671633e94a3ae9f4697d6f487c17586b79b4371d85f120f77df686b9564dbb2490088e05fd6e47fe44fdeb67.m4a",
+    "stream_url": "https://branham.org/en/messagestream/ENG=49-1225",
+    "preacher": "William Branham",
+    "summary": "William Branham preaches on the deity of Jesus Christ, emphasizing that Christ is not merely a baby in a manger but Almighty God incarnate. He discusses the need for the baptism of the Holy Ghost, the coming revival, and the end-time drama unfolding in the world.",
+    "tags": [
+      "Deity of Christ",
+      "Christmas",
+      "Holy Ghost",
+      "End Times",
+      "Revival"
+    ],
+    "persons": [
+      "William Branham",
+      "Graham Snelling",
+      "Raymond T. Richey",
+      "Bosworth",
+      "Oral Roberts",
+      "Jackson",
+      "Brother Jaggers",
+      "Caesar Augustus",
+      "Moses",
+      "Noah",
+      "Boaz",
+      "Ruth",
+      "Naomi",
+      "Stalin"
+    ],
+    "places": [
+      "Dallas",
+      "Houston",
+      "Texas",
+      "Calgary",
+      "Jerusalem",
+      "Bethlehem",
+      "Galilee",
+      "Nazareth",
+      "Judah",
+      "Egypt"
+    ],
+    "themes": [
+      "Deity of Christ",
+      "Baptism of the Holy Ghost",
+      "End-time Revival",
+      "Kinsman Redeemer",
+      "Christ in You",
+      "Rejection of Christ",
+      "Power of God"
+    ],
+    "llm_cleaned": true,
+    "local_md": "markdown/branham/1949/49-1225.md"
+  }
+]
