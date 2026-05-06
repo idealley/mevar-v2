@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Regenerable caches
+.firecrawl/
+.llm-cache/
+.llm-cache-*/
+.pilot/
+.pilot-list.json
+
+# Raw source assets (large, regenerable from scripts)
+pdfs/
+audio/
+onedrive/
+mevar.ghost.*.json
+fra.traineddata
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+.env
+bible-data/
+
+# SurrealDB persistent data (regenerable from scripts)
+db/
+
+# Claude Code workspace
+.claude/
+
+# Stray
+history.txt
