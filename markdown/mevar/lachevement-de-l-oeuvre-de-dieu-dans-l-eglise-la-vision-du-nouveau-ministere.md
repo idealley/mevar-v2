@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/LA-VISION-DU-NOUVEAU-MINISTE-RE-.pdf"
 source: "mevar"
 sermon_id: "lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere"
 title: "L’achèvement de l'œuvre de Dieu dans l'Église"
@@ -18,6 +19,34 @@ authors:
   - "Parfait M'bra"
 ghost_id: "65303622ebe2d20001226fd6"
 uuid: "7fe2d7e1-6fbd-46d8-bf64-e1e6541e592e"
+stream_url: "https://mevar.org/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere/"
+bible_refs:
+  - "1 Corinthiens 15:51"
+  - "1 Jean 2:15-16"
+  - "1 Jean 5:19"
+  - "2 Corinthiens 5:17"
+  - "2 Pierre 3:11-14"
+  - "Apocalypse 21"
+  - "Colossiens 1:15-17"
+  - "Colossiens 1:18"
+  - "Colossiens 1:18-20"
+  - "Colossiens 2:8-10"
+  - "Jacques 4:4"
+  - "Jean 17:16"
+  - "Jean 3:3-7"
+  - "Luc 5:37-39"
+  - "Luc 9:35"
+  - "Malachie 4:5"
+  - "Matthieu 24:45-47"
+  - "Matthieu 25:5"
+  - "Matthieu 25:6"
+  - "Matthieu 6:9-13"
+  - "Ésaïe 48:6-7"
+  - "Ésaïe 51:15-16"
+  - "Ésaïe 65:16-19"
+  - "Ésaïe 66:10-14"
+  - "Ésaïe 66:22"
+  - "Ézéchiel 47"
 ---
 ## La vision du nouveau ministère
 
@@ -107,19 +136,7 @@ Bien-aimés, n’oublions pas ce que nous avons entendu dès le départ par la 
 
 ### Télécharger la publication complète avec les prédications :
 
-[
-
-La vision du nouveau minitère
-
-L'achèvement de l'oeuvre de Dieu dans l'église.
-
-LA VISION DU NOUVEAU MINISTÈRE .pdf
-
-980 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/LA-VISION-DU-NOUVEAU-MINISTE-RE-.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/LA-VISION-DU-NOUVEAU-MINISTE-RE-.pdf)
 
 ### Prédications individuelles :
 

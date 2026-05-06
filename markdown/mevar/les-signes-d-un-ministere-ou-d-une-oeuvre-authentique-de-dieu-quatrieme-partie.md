@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/4_eprouvez_les_signes_05_01_20.pdf"
 source: "mevar"
 sermon_id: "les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie"
 title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu (4)"
@@ -18,6 +19,15 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f5c"
 uuid: "08a2af20-93fb-497e-b2a7-bde23c1bbdf5"
+stream_url: "https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie/"
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 14"
+  - "1 Jean 4"
+  - "Matthieu 13"
+  - "Matthieu 21"
+  - "Ésaïe 40"
 ---
 ## Ou comment éprouver les signes — quatrième partie
 
@@ -195,14 +205,4 @@ Il y a des frères du message qui ne l’ont pas encore compris. Ils se disent q
 
 ### Télécharger le document
 
-[
-
-Les signes d’un Ministère ou d’une œuvre authentique de Dieu
-
-4\_eprouvez\_les\_signes\_05\_01\_20.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/4_eprouvez_les_signes_05_01_20.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/4_eprouvez_les_signes_05_01_20.pdf)

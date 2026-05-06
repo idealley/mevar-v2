@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
 source: "mevar"
 sermon_id: "l-enjeu-du-combat-contre-goliath-1"
 title: "L’enjeu du combat contre Goliath"
@@ -16,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fae"
 uuid: "7b733b6e-66fc-45c7-9c53-43a805889d21"
+stream_url: "https://mevar.org/l-enjeu-du-combat-contre-goliath-1/"
 ---
 ## Première partie
 
@@ -101,14 +103,4 @@ Vraiment, vraiment
 
 ### Télécharger le document
 
-[
-
-L’enjeu du combat contre Goliath
-
-combattre\_contre\_les\_goliath\_premiere\_partie-23.07.2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf)

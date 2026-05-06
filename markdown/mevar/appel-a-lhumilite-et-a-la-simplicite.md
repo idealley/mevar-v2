@@ -16,6 +16,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fef"
 uuid: "153d8f05-af4f-40d3-8d20-d6137b12f52d"
+stream_url: "https://mevar.org/appel-a-lhumilite-et-a-la-simplicite/"
+bible_refs:
+  - "2 Samuel 15"
+  - "2 Samuel 18"
+  - "Apocalypse 3:21"
+  - "Esdras 1:5"
+  - "Philippiens 2:3-8"
+  - "Philippiens 2:9-12"
+  - "Psaumes 75"
+  - "Psaumes 75:4-11"
 ---
 ## Exhortation de mars 2008
 

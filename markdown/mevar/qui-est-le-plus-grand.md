@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/broch_plusgrand.pdf"
 source: "mevar"
 sermon_id: "qui-est-le-plus-grand"
 title: "Qui est le plus grand ?"
@@ -14,6 +15,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fd6"
 uuid: "300f162b-da06-45c0-8386-aa96e1771438"
+stream_url: "https://mevar.org/qui-est-le-plus-grand/"
+bible_refs:
+  - "1 Corinthiens 3:10"
+  - "1 Corinthiens 3:11-15"
+  - "1 Corinthiens 3:15"
 ---
 ## Introduction
 
@@ -35,14 +41,4 @@ Lorsque nous regardons ce passage, Paul ne parle pas des faux prophètes qui n�
 
 ### Télécharger gratuitement la brochure :
 
-[
-
-Brochure: Qui est le plus grand ?
-
-broch\_plusgrand.pdf
-
-354 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/broch_plusgrand.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/broch_plusgrand.pdf)

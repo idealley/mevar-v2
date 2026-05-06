@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_de_decembre_2021.pdf"
 source: "mevar"
 sermon_id: "le-temps-de-dieu"
 title: "Le Temps de Dieu"
@@ -14,6 +15,31 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fb2"
 uuid: "a356aedf-b583-4d03-a006-d23be1ca0167"
+stream_url: "https://mevar.org/le-temps-de-dieu/"
+bible_refs:
+  - "1 Corinthiens 6:19-20"
+  - "1 Jean 2:15-17"
+  - "2 Rois 11"
+  - "2 Rois 7"
+  - "2 Timothée 3:1-5"
+  - "Apocalypse 19"
+  - "Apocalypse 22"
+  - "Apocalypse 22:14"
+  - "Apocalypse 22:16"
+  - "Apocalypse 3:15-17"
+  - "Colossiens 1:3-6"
+  - "Jacques 4:4"
+  - "Jean 11:45-50"
+  - "Jean 12:9-11"
+  - "Jean 14:18-19"
+  - "Jean 15:1-2"
+  - "Jean 17:15-17"
+  - "Luc 4:25-27"
+  - "Matthieu 10:7-9"
+  - "Matthieu 16:1-3"
+  - "Matthieu 22:13"
+  - "Matthieu 25"
+  - "Ésaïe 35:4-6"
 ---
 ## Exhortation Spéciale de Décembre 2021
 
@@ -127,14 +153,4 @@ Mes chers frères et sœurs, nous sommes dans le temps de Dieu et tous les chang
 
 ### Télécharger le document
 
-[
-
-Le Temps de Dieu
-
-exhortation\_speciale\_de\_decembre\_2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_speciale_de_decembre_2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_de_decembre_2021.pdf)

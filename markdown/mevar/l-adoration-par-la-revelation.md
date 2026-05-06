@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_septembre_2006_l-adoration_par_la_revelation.pdf"
 source: "mevar"
 sermon_id: "l-adoration-par-la-revelation"
 title: "L'adoration par la révélation"
@@ -14,6 +15,26 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ed9"
 uuid: "f91f44c9-bd4d-4553-8063-482a0dae7bb1"
+stream_url: "https://mevar.org/l-adoration-par-la-revelation/"
+bible_refs:
+  - "2 Timothée 4:9"
+  - "Actes 9"
+  - "Apocalypse 3:22"
+  - "Apocalypse 4:7"
+  - "Galates 1:11-12"
+  - "Genèse 22"
+  - "Genèse 28"
+  - "Genèse 35"
+  - "Juges 13"
+  - "Juges 6:11-24"
+  - "Marc 4:23"
+  - "Marc 7:16"
+  - "Matthieu 11"
+  - "Matthieu 11:15"
+  - "Matthieu 13"
+  - "Matthieu 13:1-9"
+  - "Matthieu 13:16-18"
+  - "Matthieu 24:45"
 ---
 ## Exhortation du mois de septembre 2006
 
@@ -257,14 +278,4 @@ Nous allons chanter un cantique d'adoration et puis le Pasteur Flory va s'approc
 
 ### Télécharger le document
 
-[
-
-L'adoration par la révélation
-
-exhortation\_septembre\_2006\_l-adoration\_par\_la\_revelation.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_septembre_2006_l-adoration_par_la_revelation.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_septembre_2006_l-adoration_par_la_revelation.pdf)

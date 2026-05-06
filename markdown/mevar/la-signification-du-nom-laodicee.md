@@ -16,6 +16,15 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f55"
 uuid: "66d61458-86b0-43cf-a645-2692f0af2930"
+stream_url: "https://mevar.org/la-signification-du-nom-laodicee/"
+bible_refs:
+  - "Apocalypse 2"
+  - "Apocalypse 2:13"
+  - "Apocalypse 2:6"
+  - "Apocalypse 3"
+  - "Apocalypse 3:15"
+  - "Apocalypse 3:16"
+  - "Apocalypse 6:2"
 ---
 ## Ecris à l'ange de l'église de Laodicée (Apocalypse 3.14)
 

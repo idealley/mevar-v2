@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/des_hommes_faits_30_10_2016.pdf"
 source: "mevar"
 sermon_id: "des-hommes-faits"
 title: "Des Hommes Faits"
@@ -14,6 +15,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f1d"
 uuid: "b02e6a66-de4c-4a9c-8f00-d338721af8ce"
+stream_url: "https://mevar.org/des-hommes-faits/"
+bible_refs:
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 6"
+  - "Hébreux 5"
+  - "Philippiens 3"
+  - "Éphésiens 4"
 ---
 Que Dieu nous bénisse. Nous rendons grâce au Seigneur pour ce matin. On va écouter la Parole de Dieu et on verra comment Dieu va nous conduire pour la suite du temps. **Des hommes faits**, c’est ce sujet-là que je voudrais qu’on aborde. Ce sont des choses que nous savons déjà ; mais comme j’aime le dire, il est bon de les rappeler pour entretenir notre foi, car la foi doit être entretenue. Amen. Une foi qui n’est pas entretenue fini par mourir, elle fini par s’éteindre et s’affaiblir. Nous lisons dans 1 corinthiens chapitre 14 verset 20 :
 
@@ -113,14 +121,4 @@ Donc quand tu as compris ces choses, tu sais où trouver le Seigneur, tu n’as 
 
 ### Télécharger le document
 
-[
-
-Des Hommes Faits
-
-des\_hommes\_faits\_30\_10\_2016.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/des_hommes_faits_30_10_2016.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/des_hommes_faits_30_10_2016.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_aout_2006_ayez_du_zele_et_non_de_la_paresse.pdf"
 source: "mevar"
 sermon_id: "ayez-du-zele-et-non-de-la-paresse"
 title: "Ayez du zèle et non de la paresse !"
@@ -14,6 +15,58 @@ authors:
   - "Pierre Kouadio"
 ghost_id: "6448fa86db90770001518ed6"
 uuid: "e0ff3e4c-38f9-4be1-9aaf-edad7a678bac"
+stream_url: "https://mevar.org/ayez-du-zele-et-non-de-la-paresse/"
+bible_refs:
+  - "1 Corinthiens 3:9"
+  - "2 Corinthiens 11:27"
+  - "2 Corinthiens 1:24"
+  - "2 Corinthiens 3:17"
+  - "2 Jean 1:8"
+  - "2 Pierre 1:5-10"
+  - "2 Pierre 5:8"
+  - "2 Thessaloniciens 3:10"
+  - "2 Thessaloniciens 3:11-12"
+  - "Actes 18:24-25"
+  - "Actes 18:3"
+  - "Actes 1:14"
+  - "Actes 20:35"
+  - "Actes 20:7-11"
+  - "Apocalypse 2:4"
+  - "Apocalypse 3:14"
+  - "Apocalypse 3:17"
+  - "Apocalypse 3:19"
+  - "Apocalypse 5:8"
+  - "Apocalypse 8:3"
+  - "Daniel 3:15-18"
+  - "Esdras 4:22"
+  - "Exode 30:1"
+  - "Exode 37:25"
+  - "Galates 2:4"
+  - "Galates 5:1"
+  - "Galates 5:13"
+  - "Genèse 3:15"
+  - "Hébreux 2:14,2"
+  - "Hébreux 2:14-15"
+  - "Hébreux 6:10"
+  - "Jacques 3:16"
+  - "Jean 13:1-17"
+  - "Jean 13:17"
+  - "Jean 2:17"
+  - "Jean 4:23-24"
+  - "Jean 5:21"
+  - "Jérémie 48:10"
+  - "Jérémie 4:3"
+  - "Luc 10:41"
+  - "Luc 22:44"
+  - "Luc 2:49"
+  - "Luc 6:12"
+  - "Lévitique 2:16"
+  - "Malachie 3:6"
+  - "Marc 10:45"
+  - "Marc 1:17"
+  - "Marc 6:3"
+  - "Matthieu 11:12"
+  - "Matthieu 13:22"
 ---
 ## Exhortation spéciale du mois d'août 2006
 
@@ -217,14 +270,4 @@ Votre Frère en Christ par le Sang de l'Agneau.
 
 ### Télécharger le document
 
-[
-
-Ayez du zèle et non de la paresse !
-
-exhortation\_aout\_2006\_ayez\_du\_zele\_et\_non\_de\_la\_paresse.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_aout_2006_ayez_du_zele_et_non_de_la_paresse.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_aout_2006_ayez_du_zele_et_non_de_la_paresse.pdf)

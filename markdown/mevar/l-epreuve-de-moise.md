@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Epreuve_de_Moise_1.pdf"
 source: "mevar"
 sermon_id: "l-epreuve-de-moise"
 title: "L’épreuve de Moïse (1)"
@@ -16,6 +17,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f39"
 uuid: "227b6f92-9d6f-4f82-ad7f-c5c253c92dd1"
+stream_url: "https://mevar.org/l-epreuve-de-moise/"
+bible_refs:
+  - "1 Corinthiens 10"
+  - "Jacques 1:19-21"
+  - "Jean 3:16"
 ---
 ## Première partie
 
@@ -153,14 +159,4 @@ On va se remettre entre les mains du Seigneur, dire merci à Dieu, qui peut nous
 
 ### Télécharger le document
 
-[
-
-L’épreuve de Moïse
-
-Epreuve\_de\_Moise\_1.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Epreuve_de_Moise_1.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Epreuve_de_Moise_1.pdf)

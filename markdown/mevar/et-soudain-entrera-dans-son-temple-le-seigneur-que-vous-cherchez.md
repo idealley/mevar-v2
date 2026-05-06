@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf"
 source: "mevar"
 sermon_id: "et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez"
 title: "Et soudain entrera dans son temple, le Seigneur que vous cherchez"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f13"
 uuid: "f7ac7fd3-70aa-4d98-9bd7-24b0fff3bb71"
+stream_url: "https://mevar.org/et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez/"
+bible_refs:
+  - "Matthieu 24"
+  - "Matthieu 25"
 ---
 Que Dieu nous bénisse, je pense qu’il y a déjà des choses qui ont été dites. Nous allons lire dans proverbe 24, le verset 30 à 34
 
@@ -79,14 +84,4 @@ Nous sommes dans un grand combat, nous sommes dans une œuvre particulière et i
 
 ### Télécharger le document
 
-[
-
-Et soudain entrera dans son temple, le Seigneur que vous cherchez
-
-Et\_soudain\_entrera\_dans\_son\_temple\_le\_Seigneur\_que\_vous\_cherchez\_16\_12\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf)

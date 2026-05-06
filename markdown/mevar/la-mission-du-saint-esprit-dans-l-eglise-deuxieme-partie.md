@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_mission_du_st-esprit_deuxieme_partie_21_01_2017.pdf"
 source: "mevar"
 sermon_id: "la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie"
 title: "La mission du Saint-Esprit dans l’Eglise (2)"
@@ -15,6 +16,15 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f21"
 uuid: "f779926f-5c45-4402-9a9e-cdf258f1a7b9"
+stream_url: "https://mevar.org/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie/"
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 12:1"
+  - "1 Corinthiens 13"
+  - "2 Pierre 1:5"
+  - "Actes 19"
+  - "Jean 14"
+  - "Marc 16"
 ---
 ## Deuxième partie
 
@@ -136,14 +146,4 @@ Que Dieu nous bénisse et que vraiment sa grâce soit avec nous. Je pense que j�
 
 ### Télécharger le document
 
-[
-
-La mission du Saint-Esprit dans l’Eglise
-
-la\_mission\_du\_st-esprit\_deuxieme\_partie\_21\_01\_2017.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_mission_du_st-esprit_deuxieme_partie_21_01_2017.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_mission_du_st-esprit_deuxieme_partie_21_01_2017.pdf)

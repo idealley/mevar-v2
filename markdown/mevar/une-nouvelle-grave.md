@@ -15,5 +15,6 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fa3"
 uuid: "cb8f99d3-eda3-40e4-90fd-b4e1506c47da"
+stream_url: "https://mevar.org/une-nouvelle-grave/"
 ---
 

@@ -16,6 +16,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fdc"
 uuid: "d798e006-7983-45db-88d4-279b07ef993c"
+stream_url: "https://mevar.org/la-derniere-priere-des-saints/"
+bible_refs:
+  - "Apocalypse 22"
+  - "Ésaïe 62"
 ---
 Béni sois-Tu Seigneur notre Dieu. Nous voulons Te dire merci pour ce rassemblement des saints. Nous sommes là encore au devant de Toi Seigneur avec nos faiblesses, avec nos épreuves, nos insuffisances Seigneur. Nous crions à Toi ce soir afin que Tu nous visites particulièrement dans nos cœurs par Ton Esprit Saint Au Nom de Jésus-Christ. \[L’Assemblée répond : Amen ! Réd.\]
 

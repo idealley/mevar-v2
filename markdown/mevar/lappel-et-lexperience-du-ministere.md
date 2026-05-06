@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/le_ministere_anders.pdf"
 source: "mevar"
 sermon_id: "lappel-et-lexperience-du-ministere"
 title: "L'appel et l'expérience du ministère"
@@ -14,6 +15,58 @@ authors:
   - "Irié Anderson"
 ghost_id: "6448fa86db90770001518fca"
 uuid: "40756a72-d37c-4415-ada7-de731314db31"
+stream_url: "https://mevar.org/lappel-et-lexperience-du-ministere/"
+bible_refs:
+  - "1 Corinthiens 14:22"
+  - "1 Corinthiens 15:10"
+  - "1 Corinthiens 4:7"
+  - "1 Pierre 5:12"
+  - "1 Rois 17:1"
+  - "1 Samuel 3:7"
+  - "1 Timothée 1"
+  - "1 Timothée 4:15"
+  - "2 Corinthiens 11:24-33"
+  - "2 Corinthiens 12:6-7"
+  - "2 Corinthiens 4:16-18"
+  - "2 Corinthiens 4:8-13"
+  - "2 Samuel 24:5-8"
+  - "2 Timothée 2:19-2"
+  - "2 Timothée 2:3"
+  - "2 Timothée 4:6"
+  - "Actes 13"
+  - "Actes 14:12"
+  - "Actes 15"
+  - "Actes 16"
+  - "Actes 16:10"
+  - "Actes 26"
+  - "Amos 3:7"
+  - "Apocalypse 12"
+  - "Apocalypse 19"
+  - "Cantique des cantiques 6:10"
+  - "Colossiens 4:10"
+  - "Ecclésiaste 5:2"
+  - "Exode 12:1-27"
+  - "Exode 17:8-13"
+  - "Exode 4:24-26"
+  - "Galates 1:15"
+  - "Galates 2:12"
+  - "Genèse 15:12-17"
+  - "Genèse 5"
+  - "Genèse 5:21-24"
+  - "Hébreux 13:8"
+  - "Jacques 1:17"
+  - "Jean 1:1"
+  - "Jean 5:19"
+  - "Jean 8:45"
+  - "Job 33:14-15"
+  - "Jude 14"
+  - "Juges 13:25"
+  - "Juges 13:30-40"
+  - "Jérémie 1:12"
+  - "Jérémie 1:5"
+  - "Luc 16"
+  - "Luc 17"
+  - "Luc 17:7-10"
 ---
 ## Introduction
 
@@ -379,14 +432,4 @@ En conclusion, je ne crois pas avoir tout dit dans ce petit exposé. C’est tou
 
 * * *
 
-[
-
-Le ministere anders
-
-le\_ministere\_anders.pdf
-
-346 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/le_ministere_anders.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/le_ministere_anders.pdf)

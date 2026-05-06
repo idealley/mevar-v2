@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/7_sceaux_2.pdf"
 source: "mevar"
 sermon_id: "le-cheval-roux-et-le-cheval-noir"
 title: "Le Cheval Roux et le Cheval Noir"
@@ -17,6 +18,15 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f43"
 uuid: "6694bb3d-b09c-4d42-8161-3076e8f6f946"
+stream_url: "https://mevar.org/le-cheval-roux-et-le-cheval-noir/"
+bible_refs:
+  - "1 Corinthiens 12:13,14"
+  - "Apocalypse 16"
+  - "Apocalypse 17"
+  - "Apocalypse 19"
+  - "Apocalypse 2"
+  - "Apocalypse 3"
+  - "Apocalypse 6"
 ---
 ## Le deuxième et le troisième sceaux
 
@@ -206,14 +216,4 @@ Autre représentation de la femme chevauchant la bête
 
 ### Télécharger le document
 
-[
-
-Le Cheval Roux et le Cheval Noir
-
-7\_sceaux\_2.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/7_sceaux_2.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/7_sceaux_2.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_aout_2017_une_porte_ouverte.pdf"
 source: "mevar"
 sermon_id: "une-porte-ouverte"
 title: "Une porte ouverte"
@@ -14,6 +15,29 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f29"
 uuid: "b820e7b9-ca7a-4d8b-91da-ad21f2cbddf7"
+stream_url: "https://mevar.org/une-porte-ouverte/"
+bible_refs:
+  - "1 Corinthiens 12:27"
+  - "1 Corinthiens 16:8-9"
+  - "1 Corinthiens 6:15-16"
+  - "1 Corinthiens 6:17"
+  - "2 Thessaloniciens 2:1-9"
+  - "Actes 18:9-11"
+  - "Actes 9:15-16"
+  - "Amos 8:11"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14-22"
+  - "Apocalypse 3:8"
+  - "Apocalypse 4:1-3"
+  - "Hébreux 12:15-17"
+  - "Jacques 1:23"
+  - "Luc 7:30"
+  - "Matthieu 17:5"
+  - "Matthieu 22"
+  - "Matthieu 25"
+  - "Matthieu 25:5"
+  - "Ésaïe 48:20"
+  - "Ésaïe 59:1-2"
 ---
 ## Exhortation fin août 2017
 
@@ -130,14 +154,4 @@ Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et
 
 ### Télécharger le document
 
-[
-
-Une porte ouverte
-
-exhortation\_fin\_aout\_2017\_une\_porte\_ouverte.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2017_une_porte_ouverte.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2017_une_porte_ouverte.pdf)

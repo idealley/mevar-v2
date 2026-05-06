@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf"
 source: "mevar"
 sermon_id: "otons-nos-vetements"
 title: "Ôtons nos vêtements"
@@ -16,6 +17,9 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f60"
 uuid: "af551933-65c9-4ed2-ba2c-79d0a2acf937"
+stream_url: "https://mevar.org/otons-nos-vetements/"
+bible_refs:
+  - "Romains 15"
 ---
 Nous allons lire dans Jean chapitre 13 à partir du 1er verset :
 
@@ -137,14 +141,4 @@ Vaut mieux que mille ailleurs
 
 ### Télécharger le document
 
-[
-
-Ôtons nos vêtements
-
-Le\_lavage\_des\_pieds\_17\_fevrier\_2020\_Lausanne.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf)

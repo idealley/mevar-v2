@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2014_tu_demandes_une_chose_difficile.pdf"
 source: "mevar"
 sermon_id: "tu-demandes-une-chose-difficile"
 title: "Tu demandes une chose difficile"
@@ -14,6 +15,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ef5"
 uuid: "cd659127-57ad-41fc-8eb5-3ad9d1bd1148"
+stream_url: "https://mevar.org/tu-demandes-une-chose-difficile/"
+bible_refs:
+  - "2 Rois 2:1-14"
+  - "Apocalypse 12"
+  - "Apocalypse 17"
+  - "Genèse 1"
+  - "Jean 15:16"
+  - "Jean 5"
+  - "Luc 9:54-56"
+  - "Ésaïe 9"
 ---
 ## Exhortations de février 2014
 
@@ -103,14 +114,4 @@ Fr M’BRA Parfait
 
 ### Télécharger le document
 
-[
-
-Tu demandes une chose difficile
-
-exhortation\_de\_fevrier\_2014\_tu\_demandes\_une\_chose\_difficile.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2014_tu_demandes_une_chose_difficile.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2014_tu_demandes_une_chose_difficile.pdf)

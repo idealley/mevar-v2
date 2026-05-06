@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f8a"
 uuid: "152a8c8e-827c-455e-82f0-fb92caf57042"
+stream_url: "https://mevar.org/les-complots-de-satan-1/"
 ---
 ## Le combat spirituel
 

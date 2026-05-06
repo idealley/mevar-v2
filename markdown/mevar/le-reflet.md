@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_reflet_11_10_2015.pdf"
 source: "mevar"
 sermon_id: "le-reflet"
 title: "Le reflet"
@@ -14,6 +15,9 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f12"
 uuid: "2307fbe4-d2e5-4cb1-a6e7-4d7af6a038b9"
+stream_url: "https://mevar.org/le-reflet/"
+bible_refs:
+  - "1 Jean 4"
 ---
 Paul a dit que notre foi doit reposer sur la puissance de Dieu. La puissance de Dieu c’est la puissance extrême et suprême. Après cela, il n’y en a plus d’autre. Si tu dépasses la puissance de Dieu, tu ne trouveras pas autre chose. C’est ce qu’il y a. Rien d’autre n’existe. Donc, il faut que notre foi soit basée sur la puissance de Dieu. Et la prière, c’est la manifestation de la foi. Amen. Normalement, celui qui prie, c’est celui qui a la foi. Ceux qui n’ont pas la foi ne prient pas. C’est pour cette raison que la prière n’est pas quelque chose de religieux. Ce n’est pas un rite. La prière n’est pas un rite. Il y a des églises où la prière est un rite : on récite le « notre Père », on récite des prières écrites dans des documents, des livres de prières. On récite selon les circonstances comme par exemple les cérémonies funèbres. Il y a toutes sortes de prières qui sont cataloguées. La prière n’est pas un rite. Amen. Même chez nos frères musulmans il y a des heures particulières de prières. **La prière n’est pas un rite religieux, c’est une inspiration qui vient de Dieu sur le moment.** Est-ce que vous comprenez ? Il y a un moment où Dieu t’inspire pour prier pour quelque chose. Cela vient par inspiration, ce n’est pas un rite. **Et c’est celui qui a la foi qui prie. Si tu pries sans avoir la foi, ta prière est alors une prière religieuse.** Elle n’a pas de teneur devant Dieu et cela n’agit pas comme il se doit. Amen.
 
@@ -73,14 +77,4 @@ Dans cette position, le diable ne pourra pas vous atteindre. Par où va-t-il pas
 
 ### Télécharger le document
 
-[
-
-Le reflet
-
-le\_reflet\_11\_10\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_reflet_11_10_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_reflet_11_10_2015.pdf)

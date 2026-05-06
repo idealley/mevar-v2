@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation-la-fin-d-une-epoque-novembre-2022.pdf"
 source: "mevar"
 sermon_id: "la-fin-d-une-epoque"
 title: "La fin d'une époque"
@@ -15,6 +16,46 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fc0"
 uuid: "b7f21227-04af-433e-841b-7ca6592dbfa5"
+stream_url: "https://mevar.org/la-fin-d-une-epoque/"
+bible_refs:
+  - "1 Corinthiens 13:13"
+  - "1 Pierre 1:14"
+  - "1 Pierre 4:7-8"
+  - "1 Pierre 5:8-9"
+  - "1 Thessaloniciens 5:1-5"
+  - "1 Thessaloniciens 5:6-9"
+  - "Apocalypse 13"
+  - "Apocalypse 13:1-9"
+  - "Apocalypse 17:5"
+  - "Daniel 9"
+  - "Daniel 9:1-3"
+  - "Deutéronome 28"
+  - "Deutéronome 30:1-5"
+  - "Esdras 1"
+  - "Jean 8:12"
+  - "Jérémie 1:13"
+  - "Jérémie 1:15"
+  - "Jérémie 32:37-40"
+  - "Luc 21"
+  - "Luc 21:21-24"
+  - "Luc 21:34-36"
+  - "Luc 22:37-38"
+  - "Luc 2:26"
+  - "Luc 2:36"
+  - "Matthieu 13:16"
+  - "Matthieu 24"
+  - "Matthieu 24:6-8"
+  - "Matthieu 25"
+  - "Romains 11:25-28"
+  - "Romains 11:28"
+  - "Zacharie 12:12"
+  - "Zacharie 12:9-11"
+  - "Zacharie 13:1-2"
+  - "Ésaïe 27"
+  - "Ésaïe 27:12"
+  - "Ésaïe 27:13"
+  - "Ézéchiel 36:24-27"
+  - "Ézéchiel 37:21-23"
 ---
 ## Exhortation Spéciale de Novembre 2022
 
@@ -216,14 +257,4 @@ Mes chers frères et sœurs, nous sommes très avancés dans la progression de l
 
 ### Télécharger le document
 
-[
-
-La fin d'une époque
-
-exhortation-la-fin-d-une-epoque-novembre-2022.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation-la-fin-d-une-epoque-novembre-2022.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation-la-fin-d-une-epoque-novembre-2022.pdf)

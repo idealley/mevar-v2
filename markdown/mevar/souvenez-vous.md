@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_juin_2006_Souvenez-vous.pdf"
 source: "mevar"
 sermon_id: "souvenez-vous"
 title: "Souvenez-vous!"
@@ -14,6 +15,35 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ed2"
 uuid: "548839b4-c3c3-4150-b841-8316d85cb6f3"
+stream_url: "https://mevar.org/souvenez-vous/"
+bible_refs:
+  - "1 Corinthiens 11:25-30"
+  - "1 Timothée 4:13"
+  - "2 Corinthiens 5:20-21"
+  - "2 Timothée 2:8-18"
+  - "Actes 2"
+  - "Actes 20:1"
+  - "Actes 3"
+  - "Actes 4:32"
+  - "Actes 5"
+  - "Actes 5:12-16"
+  - "Actes 8:39"
+  - "Actes 9:31-43"
+  - "Aggée 2:3-5"
+  - "Apocalypse 14"
+  - "Apocalypse 20:11-15"
+  - "Daniel 10:20-21"
+  - "Deutéronome 32:7-8"
+  - "Esdras 3:10-13"
+  - "Exode 13"
+  - "Exode 13:1-6"
+  - "Hébreux 13:8"
+  - "Jean 16:13-14"
+  - "Jérémie 2:31-32"
+  - "Luc 22:19-20"
+  - "Malachie 4:5"
+  - "Psaumes 78"
+  - "Psaumes 78:40-50"
 ---
 ## Exhortation de Juin 2006
 
@@ -109,14 +139,4 @@ Fr. M'BRA Parfait
 
 ### Télécharger le document
 
-[
-
-Souvenez-vous!
-
-exhortation\_juin\_2006\_Souvenez-vous.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_juin_2006_Souvenez-vous.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_juin_2006_Souvenez-vous.pdf)

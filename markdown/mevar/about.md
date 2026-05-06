@@ -11,6 +11,7 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448f9e9db90770001518cd2"
 uuid: "041d2664-a4d3-4b6d-84b2-a71c230f22f4"
+stream_url: "https://mevar.org/about/"
 ---
 Mevar is an independent publication launched in April 2023 by Samuel Pouyt. If you subscribe today, you'll get full access to the website as well as email newsletters about new content when it's available. Your subscription makes this site possible, and allows Mevar to continue to exist. Thank you!
 

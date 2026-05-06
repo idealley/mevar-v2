@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/l_appel_la_victoire_06_08_2018.pdf"
 source: "mevar"
 sermon_id: "l-appel-a-la-victoire"
 title: "L’ Appel à la victoire"
@@ -14,6 +15,21 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f35"
 uuid: "c3bba635-c546-4378-9a60-e5b5c3446f76"
+stream_url: "https://mevar.org/l-appel-a-la-victoire/"
+bible_refs:
+  - "1 Jean 4:4"
+  - "1 Jean 5"
+  - "Apocalypse 2"
+  - "Apocalypse 2:11"
+  - "Apocalypse 2:17"
+  - "Apocalypse 2:25-28"
+  - "Apocalypse 2:7"
+  - "Apocalypse 3:21-22"
+  - "Apocalypse 3:5-6"
+  - "Apocalypse 4"
+  - "Deutéronome 28"
+  - "Luc 17"
+  - "Matthieu 13"
 ---
 Nous lisons dans Apocalypse chapitre 2. Je vais lire tous les appels à la victoire qui ont été adressés aux différents âges de l’Eglise. Nous avons 7 âges de l’Eglise et c’est Apocalypse 2 et 3 qui les relatent. Je lirai uniquement les différents appels à la victoire.
 
@@ -177,14 +193,4 @@ il iront voir autre chose que les affaires de Dieu. A l’école, on ne parle pa
 
 ### Télécharger le document
 
-[
-
-L’ Appel à la victoire
-
-l\_appel\_la\_victoire\_06\_08\_2018.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/l_appel_la_victoire_06_08_2018.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_appel_la_victoire_06_08_2018.pdf)

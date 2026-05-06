@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
 source: "mevar"
 sermon_id: "si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde"
 title: "Si vous aviez de la foi comme un grain de moutarde"
@@ -18,6 +19,19 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518fbf"
 uuid: "1e8f75e1-b6b1-43d0-940f-3ca715d34ca5"
+stream_url: "https://mevar.org/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde/"
+bible_refs:
+  - "Genèse 3:15"
+  - "Hébreux 11:5-6"
+  - "Jean 12:23-24"
+  - "Luc 18:7-8"
+  - "Matthieu 13:31-32"
+  - "Matthieu 17:14-21"
+  - "Matthieu 17:5"
+  - "Matthieu 3:17"
+  - "Michée 5:1-4"
+  - "Romains 10:17"
+  - "Ésaïe 53:1-3"
 ---
 > 31 Il leur proposa une autre parabole, disant : **Le royaume des cieux est semblable à un grain de moutarde qu'un homme prit et sema dans son champ**: 32 lequel est, il est vrai, plus petit que toutes les semences; mais quand il a pris sa croissance, il est plus grand que les herbes et devient un arbre, de sorte que les oiseaux du ciel viennent et demeurent dans ses branches. (Matthieu 13:31-32)
 
@@ -124,14 +138,4 @@ Après la parabole du juge inique Jésus se demande s’il trouvera la foi sur l
 
 ### Télécharger le document
 
-[
-
-Si vous aviez de la foi comme un grain de moutarde
-
-si\_vous\_aviez\_de\_la\_foi\_comme\_un\_grain\_de\_moutarde-samuel-august-2022.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf)

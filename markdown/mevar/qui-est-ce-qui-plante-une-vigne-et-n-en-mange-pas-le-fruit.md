@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Qui_est-ce_qui_plante_une_vigne_et_n_en_mange_pas_le_fruit_exhortation_de_Mai_2015.pdf"
 source: "mevar"
 sermon_id: "qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit"
 title: "Qui est-ce qui plante une vigne et n’en mange pas le fruit ?"
@@ -16,6 +17,43 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f08"
 uuid: "5a51d456-97a8-4a0a-8540-15acf9f45a3a"
+stream_url: "https://mevar.org/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit/"
+bible_refs:
+  - "1 Corinthiens 16"
+  - "1 Corinthiens 16:1-3"
+  - "1 Corinthiens 9"
+  - "1 Corinthiens 9:8-10"
+  - "1 Corinthiens 9:9"
+  - "1 Timothée 5:18"
+  - "2 Corinthiens 11:7-9"
+  - "2 Corinthiens 8"
+  - "2 Corinthiens 8:1-5"
+  - "2 Corinthiens 9"
+  - "2 Rois 4:40-42"
+  - "2 Thessaloniciens 3:8-12"
+  - "2 Timothée 2:4"
+  - "2 Timothée 2:6-7"
+  - "Actes 13:1-4"
+  - "Actes 24:32-35"
+  - "Deutéronome 25:4"
+  - "Galates 6:6"
+  - "Genèse 14"
+  - "Genèse 28:21-22"
+  - "Hébreux 7"
+  - "Luc 13:6"
+  - "Luc 18:10-12"
+  - "Luc 18:22-25"
+  - "Luc 19:8-10"
+  - "Luc 21"
+  - "Luc 21:1-4"
+  - "Lévitique 7"
+  - "Malachie 3:1-3"
+  - "Marc 8:34-37"
+  - "Matthieu 10:37-40"
+  - "Matthieu 17:25-27"
+  - "Nombres 18:19-24"
+  - "Nombres 3:12-13"
+  - "Philippiens 4:19"
 ---
 ## Exhortation fin mai 2015
 
@@ -249,14 +287,4 @@ Mes bien-aimés frères et sœurs, je vous aime de tout mon cœur, vous qui me c
 
 ### Télécharger le document
 
-[
-
-Qui est-ce qui plante une vigne et n’en mange pas le fruit&nbsp;?
-
-Qui\_est-ce\_qui\_plante\_une\_vigne\_et\_n\_en\_mange\_pas\_le\_fruit\_exhortation\_de\_Mai\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Qui_est-ce_qui_plante_une_vigne_et_n_en_mange_pas_le_fruit_exhortation_de_Mai_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Qui_est-ce_qui_plante_une_vigne_et_n_en_mange_pas_le_fruit_exhortation_de_Mai_2015.pdf)

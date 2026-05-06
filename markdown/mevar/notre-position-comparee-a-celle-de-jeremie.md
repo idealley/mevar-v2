@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/notre_position-comparee_a_celle_de_jeremie_23_12_2015.pdf"
 source: "mevar"
 sermon_id: "notre-position-comparee-a-celle-de-jeremie"
 title: "Notre position comparée à celle de Jérémie"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f15"
 uuid: "0d33c335-d4b0-4934-94e3-368118929353"
+stream_url: "https://mevar.org/notre-position-comparee-a-celle-de-jeremie/"
+bible_refs:
+  - "Jérémie 1"
+  - "Malachie 4"
 ---
 Alléluia ! Que le nom du Seigneur soit béni ! Nous allons encore écouter la parole du Seigneur. Comme je l’ai dit, nous prêchons sur la foi. Nous demeurons toujours sur le même sujet parce que c’est un sujet important. Ma prière c’est que chacun de nous comprenne de quoi il est question. Nous allons lire dans Jérémie 1 à partir du premier verset.
 
@@ -85,14 +90,4 @@ N’ignorons pas nos droits. Nous ne devons pas ignorer ce que Dieu a fait de no
 
 ### Télécharger le document
 
-[
-
-Notre position comparée à celle de Jérémie
-
-notre\_position-comparee\_a\_celle\_de\_jeremie\_23\_12\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/notre_position-comparee_a_celle_de_jeremie_23_12_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/notre_position-comparee_a_celle_de_jeremie_23_12_2015.pdf)

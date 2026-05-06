@@ -15,6 +15,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "651be26230c1cf0001c92712"
 uuid: "398a47fc-adbc-4627-af6e-b0a7d0cc88e3"
+stream_url: "https://mevar.org/la-toilette-du-chretien/"
+bible_refs:
+  - "1 Rois 17"
+  - "2 Corinthiens 11:2"
+  - "2 Thessaloniciens 5:23"
+  - "Apocalypse 3:14"
+  - "Hébreux 10:10"
+  - "Jean 5:35"
+  - "Lévitique 10:1-3"
+  - "Zacharie 10:1"
 ---
 Que le nom du Seigneur soit béni ! Comme le frère l’a dit, nous sommes venu à Arrah pour soutenir notre frère Ebrotié qui a perdu son père. Mais nous sommes des serviteurs de Dieu, des prédicateurs de la Parole de Dieu. Et là où des portes s’ouvrent, nous apportons le Message divin. Et il s’agit chaque jour d’écouter la Parole de Dieu, parce que le Dieu que nous servons est le Dieu du présent…Dieu nous parle toujours au présent et au futur. Et chaque jour, Il a une Parole pour nous. C’est en cela que nous pouvons être sanctifiés. 
 

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/La-foi-la-mer-et-les-tempetes.pdf"
 source: "mevar"
 sermon_id: "la-foi-la-mer-et-les-tempetes"
 title: "​La foi, la mer et les tempêtes"
@@ -19,6 +20,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "64779cd1c6dd100001090175"
 uuid: "46942f6a-3a2d-4318-8662-39ad0ba8f1b9"
+stream_url: "https://mevar.org/la-foi-la-mer-et-les-tempetes/"
+bible_refs:
+  - "Marc 16:15-20"
+  - "Marc 4:35-41"
 ---
 Que la grâce et la paix du Seigneur soient sur nous. Nous allons lire dans Marc :
 
@@ -94,14 +99,4 @@ _Chant : Anangaman ti min yôbuê…_
 
 * * *
 
-[
-
-La foi, la mer et les tempetes
-
-La-foi-la-mer-et-les-tempetes.pdf
-
-172 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/La-foi-la-mer-et-les-tempetes.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/La-foi-la-mer-et-les-tempetes.pdf)

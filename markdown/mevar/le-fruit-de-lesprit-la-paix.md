@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-paix-14.07.2024.pdf"
 source: "mevar"
 sermon_id: "le-fruit-de-lesprit-la-paix"
 title: "Le fruit de l’Esprit – La paix"
@@ -19,6 +20,20 @@ authors:
   - "Parfait M'bra"
 ghost_id: "68307d24a21b7c0001857303"
 uuid: "dbb67f38-7050-4cfd-9de2-8466c772a9e2"
+stream_url: "https://mevar.org/le-fruit-de-lesprit-la-paix/"
+bible_refs:
+  - "Colossiens 1:19-23"
+  - "Galates 5:22"
+  - "Genèse 3:23"
+  - "Jérémie 17:8"
+  - "Luc 18"
+  - "Matthieu 10"
+  - "Psaumes 1"
+  - "Psaumes 1:1-3"
+  - "Éphésiens 2:1-8"
+  - "Éphésiens 2:13-18"
+  - "Ésaïe 9"
+  - "Ésaïe 9:5"
 ---
 Gloire à Dieu. Que Dieu nous bénisse. Nous allons continuer ce qu'on a commencé il y a déjà quelques temps. Et je pense qu'on va se laisser conduire par l’Esprit de Dieu et nous allons lire quelques Écritures. Le passage de base que nous connaissons déjà, c'est Galates chapitre 5, verset 22 :
 
@@ -256,17 +271,7 @@ Christ achève en nous son œuvre. Et ça implique la souffrance, ça implique l
 
 * * *
 
-[
-
-le-fruit-de-l-esprit-la-paix-14.07.2024
-
-le-fruit-de-l-esprit-la-paix-14.07.2024.pdf
-
-319 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-paix-14.07.2024.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-paix-14.07.2024.pdf)
 
 * * *
 

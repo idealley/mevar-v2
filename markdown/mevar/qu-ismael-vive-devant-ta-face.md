@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/exho_-juillet_2013.pdf"
 source: "mevar"
 sermon_id: "qu-ismael-vive-devant-ta-face"
 title: "Qu'Ismaël vive devant ta face"
@@ -14,6 +15,24 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fe6"
 uuid: "5f9edfcc-a4a4-4e28-8265-7b6ac26a9a1e"
+stream_url: "https://mevar.org/qu-ismael-vive-devant-ta-face/"
+bible_refs:
+  - "1 Timothée 4:1"
+  - "2 Pierre 1:19"
+  - "2 Timothée 3:1"
+  - "Apocalypse 12"
+  - "Apocalypse 17"
+  - "Apocalypse 22:16"
+  - "Apocalypse 3:21"
+  - "Exode 2:11-12"
+  - "Galates 4:22-31"
+  - "Galates 5:1"
+  - "Genèse 17:16-22"
+  - "Jacques 5:7-8"
+  - "Malachie 4:5-6"
+  - "Marc 13:33-37"
+  - "Romains 4:18-22"
+  - "Romains 8:19"
 ---
 ## Exhortation de juillet 2013
 
@@ -167,14 +186,4 @@ Nous sommes dans ce processus mes frères. Il faut persévérer jusqu’à l’�
 
 * * *
 
-[
-
-Exho juillet 2013
-
-exho\_ juillet\_2013.pdf
-
-170 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/exho_-juillet_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/exho_-juillet_2013.pdf)

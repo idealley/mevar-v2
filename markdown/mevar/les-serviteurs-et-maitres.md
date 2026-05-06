@@ -16,6 +16,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f8b"
 uuid: "1f752eb8-21ce-4d2f-b9c0-eacabae0255e"
+stream_url: "https://mevar.org/les-serviteurs-et-maitres/"
 ---
 ## Le combat spirituel
 

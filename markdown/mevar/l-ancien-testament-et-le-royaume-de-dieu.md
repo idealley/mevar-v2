@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf"
 source: "mevar"
 sermon_id: "l-ancien-testament-et-le-royaume-de-dieu"
 title: "L’ Ancien Testament et le Royaume de Dieu"
@@ -14,6 +15,34 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fa5"
 uuid: "32337807-8c15-4c7d-a532-b5efbbec8a2b"
+stream_url: "https://mevar.org/l-ancien-testament-et-le-royaume-de-dieu/"
+bible_refs:
+  - "1 Corinthiens 7"
+  - "1 Rois 20:35-38"
+  - "Actes 19"
+  - "Actes 20"
+  - "Actes 28"
+  - "Apocalypse 5"
+  - "Genèse 20"
+  - "Jean 3"
+  - "Lévitique 18"
+  - "Marc 10"
+  - "Marc 10:6-9"
+  - "Matthieu 10"
+  - "Matthieu 11"
+  - "Matthieu 13"
+  - "Matthieu 25"
+  - "Matthieu 3"
+  - "Matthieu 4"
+  - "Michée 5"
+  - "Osée 1"
+  - "Romains 14"
+  - "Éphésiens 1"
+  - "Éphésiens 4"
+  - "Éphésiens 4:11"
+  - "Ésaïe 40"
+  - "Ésaïe 8"
+  - "Ézéchiel 36"
 ---
 Je vais revenir et continuer sur ce qu’on a commencé dimanche passé : L’Ancien Testament et le Royaume de Dieu. C’est un enseignement sur lequel je vais aller tranquillement pour qu’on se comprenne, parce que ce sont des choses auxquelles on ne fait pas souvent attention.
 
@@ -191,14 +220,4 @@ Je vais m’arrêter là. S’il y a d’autres notions, nous aurons le temps de
 
 ### Télécharger le document
 
-[
-
-L’ Ancien Testament et le Royaume de Dieu
-
-l\_ancien\_testament\_et\_le\_royaume\_de\_dieu\_koumassi\_28\_fevrier\_2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf)

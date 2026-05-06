@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/suis-moi-samuel.pdf"
 source: "mevar"
 sermon_id: "suis-moi"
 title: "Suis-moi"
@@ -17,6 +18,58 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f59"
 uuid: "d1fac105-b79b-4627-af21-59d056876da1"
+stream_url: "https://mevar.org/suis-moi/"
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 6:17"
+  - "1 Corinthiens 6:19-20"
+  - "1 Corinthiens 7:21-24"
+  - "1 Jean 2:15-17"
+  - "1 Jean 4:8"
+  - "1 Jean 5:5"
+  - "1 Pierre 5:6-7"
+  - "2 Pierre 3:9"
+  - "Actes 7:54-60"
+  - "Apocalypse 21:8"
+  - "Colossiens 1:16-18"
+  - "Colossiens 3:4"
+  - "Exode 1"
+  - "Genèse 1:27"
+  - "Genèse 22"
+  - "Hébreux 1:9"
+  - "Hébreux 2:3-4"
+  - "Jacques 4:4"
+  - "Jacques 5:16"
+  - "Jean 10:27"
+  - "Jean 14:12"
+  - "Jean 14:6"
+  - "Jean 3:16"
+  - "Jean 6:44"
+  - "Luc 14:26"
+  - "Luc 16:13"
+  - "Luc 23:34"
+  - "Luc 5:27"
+  - "Luc 6:27"
+  - "Luc 6:40"
+  - "Marc 10:17-27"
+  - "Marc 16:15-18"
+  - "Matthieu 10:24"
+  - "Matthieu 10:28"
+  - "Matthieu 10:37-39"
+  - "Matthieu 10:39"
+  - "Matthieu 13:10"
+  - "Matthieu 16:17"
+  - "Matthieu 22:37"
+  - "Matthieu 22:39"
+  - "Matthieu 4:18-22"
+  - "Matthieu 6:19-21"
+  - "Matthieu 6:24"
+  - "Matthieu 6:24-26"
+  - "Matthieu 6:31-34"
+  - "Matthieu 8:18-22"
+  - "Matthieu 9:9"
+  - "Psaumes 45:7"
+  - "Psaumes 5:5"
 ---
 ## Comment devenir un disciple de Christ
 
@@ -204,14 +257,4 @@ Dieu étant au ciel, Il promet de faire, à travers nous qui sommes sur la terre
 
 ### Télécharger le document
 
-[
-
-Suis-moi
-
-suis-moi-samuel.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/suis-moi-samuel.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/suis-moi-samuel.pdf)

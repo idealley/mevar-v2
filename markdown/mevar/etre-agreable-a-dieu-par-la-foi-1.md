@@ -19,6 +19,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ffb"
 uuid: "eb7397b1-92d3-4e14-91bd-6438fc347561"
+stream_url: "https://mevar.org/etre-agreable-a-dieu-par-la-foi-1/"
+bible_refs:
+  - "Hébreux 11"
+  - "Hébreux 11:5-6"
+  - "Hébreux 11:6"
 ---
 ### Première partie
 

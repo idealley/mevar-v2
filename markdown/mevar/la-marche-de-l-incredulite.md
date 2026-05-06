@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_marche_de_l_incredulite_01_12_2016.pdf"
 source: "mevar"
 sermon_id: "la-marche-de-l-incredulite"
 title: "La marche de l’incrédulité"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f1e"
 uuid: "6dd1a1bf-ab54-4b16-b00a-10b62e7ec825"
+stream_url: "https://mevar.org/la-marche-de-l-incredulite/"
+bible_refs:
+  - "Nombres 13"
+  - "Nombres 14"
 ---
 Que le Seigneur soit béni. Je vous salue dans le nom du Seigneur Jésus. On avait déjà eu une réunion ici et comme le frère l’a dit, on est allé tenir des réunions à Cocotomé et le Seigneur nous donne encore l’occasion de revenir. Je vous ai déjà dit que je vous dirai toujours les mêmes choses quand je serai devant vous. Amen!
 
@@ -101,14 +106,4 @@ Par le passé on a entendu la Parole, on ne l’a pas pratiquée. C’est pour c
 
 ### Télécharger le document
 
-[
-
-La marche de l’incrédulité
-
-la\_marche\_de\_l\_incredulite\_01\_12\_2016.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_marche_de_l_incredulite_01_12_2016.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_marche_de_l_incredulite_01_12_2016.pdf)

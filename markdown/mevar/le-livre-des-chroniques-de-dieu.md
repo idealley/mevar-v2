@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2017_le_livre_des_chroniques_de_dieu.pdf"
 source: "mevar"
 sermon_id: "le-livre-des-chroniques-de-dieu"
 title: "Le livre des chroniques de Dieu"
@@ -14,6 +15,40 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f23"
 uuid: "4c72ab94-ffd8-49c3-9ab0-04b13a2600a8"
+stream_url: "https://mevar.org/le-livre-des-chroniques-de-dieu/"
+bible_refs:
+  - "1 Corinthiens 15"
+  - "2 Pierre 2"
+  - "2 Pierre 2:9"
+  - "Actes 10:1-6"
+  - "Actes 10:21-22"
+  - "Apocalypse 14:13"
+  - "Apocalypse 19:7-8"
+  - "Apocalypse 20:12"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14"
+  - "Apocalypse 6"
+  - "Apocalypse 6:7-8"
+  - "Colossiens 3:23-24"
+  - "Colossiens 3:5"
+  - "Esther 6:1-14"
+  - "Esther 7:9"
+  - "Galates 6:9-10"
+  - "Hébreux 12:11"
+  - "Hébreux 12:5-6"
+  - "Hébreux 12:7-8"
+  - "Jacques 5:10-11"
+  - "Luc 12:48"
+  - "Luc 21:34"
+  - "Malachie 3:1"
+  - "Malachie 4:5-6"
+  - "Marc 13:33"
+  - "Matthieu 10:42"
+  - "Matthieu 24"
+  - "Matthieu 24:6-7"
+  - "Matthieu 25:10"
+  - "Romains 8:13"
+  - "Ésaïe 40:1-4"
 ---
 Mes bien-aimés frères et sœurs, je voudrais vous saluer encore par cette parole de Jésus adressée aux disciples au sujet de Jean-Baptiste : _12 **Depuis le temps de Jean-Baptiste jusqu’à présent, le royaume des cieux est forcé, et ce sont les violents qui s’en emparent.**_ (Mattieu 11 :12) Comme vous le savez, nous sommes à nouveau au temps d’Elie dans notre génération. Le prophète William Branham qui a reçu le Message du Temps de la Fin qui nous a été adressé dans notre génération avait expliqué le fondement de son Ministère par la prophétie de Malachie 4:5-6 : _**Voici, je vous enverrai Elie, le prophète, Avant que le jour de l’Eternel arrive, Ce jour grand et redoutable. 6 Il ramènera le cœur des pères à leurs enfants, Et le cœur des enfants à leurs pères, De peur que je ne vienne frapper le pays d’interdit.**_ L’esprit d’Elie qui avait animé William Branham et qui continu encore d’animer tous les Ministères suscités après lui, a un travail de **restitution et de restauration à faire dans l’Eglise** qui a répondu à l’appel de Dieu à travers le Message. En cela, le Ministère de frère Branham marque un grand tournant dans l’histoire du salut dans notre génération.
 
@@ -149,14 +184,4 @@ Mes bien-aimés frères et sœurs, pratiquons la parole de Dieu que nous avons e
 
 ### Télécharger le document
 
-[
-
-Le livre des chroniques de Dieu
-
-exhortation\_fin\_fevrier\_2017\_le\_livre\_des\_chroniques\_de\_dieu.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2017_le_livre_des_chroniques_de_dieu.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2017_le_livre_des_chroniques_de_dieu.pdf)

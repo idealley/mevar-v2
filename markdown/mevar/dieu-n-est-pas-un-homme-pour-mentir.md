@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/dieu_n_est_pas_un_homme_pour_mentir_05_09_2015.pdf"
 source: "mevar"
 sermon_id: "dieu-n-est-pas-un-homme-pour-mentir"
 title: "Dieu n'est pas un homme pour mentir"
@@ -15,6 +16,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f10"
 uuid: "46dab7ea-5e8e-4c41-8775-6f6c5b105e12"
+stream_url: "https://mevar.org/dieu-n-est-pas-un-homme-pour-mentir/"
+bible_refs:
+  - "1 Samuel 9"
+  - "Matthieu 22"
 ---
 Ce soir, j’ai des paroles à lire ici pour chacun d’entre nous et nous devons effectivement prêter attention à la parole de Dieu parce que c’est la parole de Dieu qui nous conduit. Nous marchons par la parole du Seigneur. Le peuple de Dieu ne peut pas marcher s’il n’a pas la parole. Amen.
 
@@ -128,14 +133,4 @@ Les enfants d’Israël sont entrés en Canaan. Dieu a dit : _tuez tout le monde
 
 ### Télécharger le document
 
-[
-
-Dieu n'est pas un homme pour mentir
-
-dieu\_n\_est\_pas\_un\_homme\_pour\_mentir\_05\_09\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/dieu_n_est_pas_un_homme_pour_mentir_05_09_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/dieu_n_est_pas_un_homme_pour_mentir_05_09_2015.pdf)

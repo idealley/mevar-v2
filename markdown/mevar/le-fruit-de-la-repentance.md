@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_fruit_de_la_repentance_4_08_2013.pdf"
 source: "mevar"
 sermon_id: "le-fruit-de-la-repentance"
 title: "Le fruit de la repentance"
@@ -14,6 +15,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eeb"
 uuid: "0007f7dd-cdcf-448e-99cb-2c8a4c1f864d"
+stream_url: "https://mevar.org/le-fruit-de-la-repentance/"
+bible_refs:
+  - "Apocalypse 6"
+  - "Luc 17"
+  - "Matthieu 24"
 ---
 La question de la repentance est devenue un sujet de prière ces derniers temps en cellule et ce matin je voudrais qu’on en parle un peu plus. Normalement cela devrait être un sujet de révision pour nous tous. Amen ! Cela devrait être une révision, mais ce n’est pas une révision. Normalement, on est supposé savoir ce que c’est que la repentance. Mais quand je vais commencer à parler, que celui qui se sent indexé dans son cœur par l’Esprit ait le courage d’aller plus en avant devant Dieu pour se repentir. Amen !
 
@@ -153,14 +159,4 @@ Prions le Seigneur. Séance de prière.
 
 ### Télécharger le document
 
-[
-
-Le fruit de la repentance
-
-le\_fruit\_de\_la\_repentance\_4\_08\_2013.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_fruit_de_la_repentance_4_08_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_fruit_de_la_repentance_4_08_2013.pdf)

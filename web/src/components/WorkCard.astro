@@ -1,0 +1,90 @@
+---
+// Reusable card for any "work" entry.
+// Renders an image-led variant if local_image/feature_image is set,
+// otherwise falls back to a typography-led variant with a colored
+// gradient header derived from the kind.
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "$lib/components/ui/card";
+import { Badge } from "$lib/components/ui/badge";
+import { formatDateFr, deriveKind } from "$lib/utils";
+
+interface Props {
+  entry: {
+    id: string;
+    data: Record<string, any>;
+  };
+}
+
+const { entry } = Astro.props;
+const fm = entry.data;
+const kind = deriveKind(fm);
+const date = formatDateFr(fm.date ?? fm.published_at ?? null);
+const image = fm.local_image ?? fm.feature_image ?? null;
+const summary = fm.summary ?? fm.excerpt ?? null;
+// Tags shown on cards: max 3, hide noisy import-style ones
+const visibleTags = (fm.tags ?? [])
+  .filter((t: string) => !/^#?Import\b/i.test(t))
+  .slice(0, 3);
+
+// No-image fallback: pick a stable hue per kind for variety
+const KIND_GRADIENT: Record<string, string> = {
+  sermon:       "from-stone-50 to-stone-200/60",
+  exhortation:  "from-amber-50 to-stone-200/60",
+  bible_study:  "from-emerald-50 to-stone-200/60",
+  book:         "from-indigo-50 to-stone-200/60",
+  chapter:      "from-indigo-50/50 to-stone-200/60",
+  article:      "from-stone-50 to-stone-200/60",
+  testimony:    "from-rose-50 to-stone-200/60",
+  communique:   "from-sky-50 to-stone-200/60",
+};
+const gradient = KIND_GRADIENT[kind] ?? KIND_GRADIENT.sermon;
+
+const KIND_LABEL: Record<string, string> = {
+  sermon: "Prédication",
+  exhortation: "Exhortation",
+  bible_study: "Étude biblique",
+  book: "Livre",
+  chapter: "Chapitre",
+  article: "Article",
+  testimony: "Témoignage",
+  communique: "Communiqué",
+};
+---
+
+<Card class="flex flex-col overflow-hidden h-full transition hover:shadow-md">
+  {image ? (
+    <a href={`/works/${entry.id}`} class="block aspect-[16/9] overflow-hidden bg-muted">
+      <img
+        src={image.startsWith("http") ? image : `/${image}`}
+        alt={fm.title ?? entry.id}
+        loading="lazy"
+        class="object-cover w-full h-full transition-transform hover:scale-105 duration-500"
+      />
+    </a>
+  ) : (
+    <a href={`/works/${entry.id}`} class={`block aspect-[16/9] bg-gradient-to-br ${gradient} flex items-center justify-center p-6`}>
+      <span class="text-xs uppercase tracking-widest text-muted-foreground/70 font-medium">
+        {KIND_LABEL[kind] ?? kind}
+      </span>
+    </a>
+  )}
+
+  <CardHeader class="pb-3">
+    <div class="flex flex-wrap gap-1 mb-2 min-h-[1.5rem]">
+      {visibleTags.map((t: string) => <Badge variant="secondary" class="text-[10px] uppercase tracking-wide font-normal">{t}</Badge>)}
+    </div>
+    <CardTitle class="text-lg leading-snug">
+      <a href={`/works/${entry.id}`} class="hover:underline decoration-2 underline-offset-4">{fm.title ?? entry.id}</a>
+    </CardTitle>
+    {date && <CardDescription class="text-xs">{date}</CardDescription>}
+  </CardHeader>
+
+  {summary && (
+    <CardContent class="text-sm text-muted-foreground line-clamp-3 pb-3">
+      {summary}
+    </CardContent>
+  )}
+
+  <CardFooter class="mt-auto pt-2 text-sm">
+    <a href={`/works/${entry.id}`} class="font-medium text-primary hover:underline">Lire →</a>
+  </CardFooter>
+</Card>

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la-grande-trompette-qui-sonne-27-28-02-2020.pdf"
 source: "mevar"
 sermon_id: "la-grande-trompette-qui-sonne"
 title: "La grande trompette qui sonne"
@@ -16,6 +17,20 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f62"
 uuid: "16b3c114-e20e-4f21-a2d8-9aac3357d500"
+stream_url: "https://mevar.org/la-grande-trompette-qui-sonne/"
+bible_refs:
+  - "1 Timothée 4:2"
+  - "Jean 1:32-37"
+  - "Jean 4"
+  - "Luc 1"
+  - "Luc 17"
+  - "Luc 1:16-17"
+  - "Malachie 4"
+  - "Marc 13"
+  - "Matthieu 17"
+  - "Matthieu 24"
+  - "Matthieu 24:31"
+  - "Nombres 10"
 ---
 ## Prêché par le fr M’BRA Parfait à Facobly, les 27 et 28 Février 2020
 
@@ -259,14 +274,4 @@ Le Message nous ramène au Seigneur Jésus-Christ. Alléluia ! C’est un Messag
 
 ### Télécharger le document
 
-[
-
-La grande trompette qui sonne
-
-la-grande-trompette-qui-sonne-27-28-02-2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la-grande-trompette-qui-sonne-27-28-02-2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la-grande-trompette-qui-sonne-27-28-02-2020.pdf)

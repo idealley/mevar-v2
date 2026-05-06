@@ -14,6 +14,19 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518feb"
 uuid: "2f132c32-afa0-4cd6-89a5-4766e98d2cdd"
+stream_url: "https://mevar.org/le-jeune-homme-riche/"
+bible_refs:
+  - "Apocalypse 3:17"
+  - "Jean 3:16"
+  - "Luc 14:25-27"
+  - "Luc 18:18-23"
+  - "Marc 10:17-22"
+  - "Matthieu 11:11"
+  - "Matthieu 16:24-25"
+  - "Matthieu 19:16-22"
+  - "Matthieu 24:12"
+  - "Matthieu 25:6"
+  - "Philippiens 2:5-8"
 ---
 ## Exhortation de février 2009
 

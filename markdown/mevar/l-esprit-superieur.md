@@ -14,6 +14,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fd0"
 uuid: "8d0c0dac-5832-464c-8c43-ccbf9dd3c4c9"
+stream_url: "https://mevar.org/l-esprit-superieur/"
+bible_refs:
+  - "1 Jean 4:4"
+  - "Daniel 5:11"
+  - "Deutéronome 28:1"
+  - "Deutéronome 28:13"
+  - "Jacques 1:17"
 ---
 ## Exhortation d'avril 2012
 

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/3_LA-FOI-ET-LA-BENEDICTION_22-01-23.pdf"
 source: "mevar"
 sermon_id: "faire-front-par-la-foi-deuxieme-partie"
 title: "Faire front par la foi  — deuxième partie"
@@ -18,6 +19,14 @@ authors:
   - "Parfait M'bra"
 ghost_id: "685d4de436cbb90001f67eef"
 uuid: "b191e2ca-879c-49f8-96da-f2d58a8bc953"
+stream_url: "https://mevar.org/faire-front-par-la-foi-deuxieme-partie/"
+bible_refs:
+  - "2 Samuel 6"
+  - "Hébreux 11"
+  - "Hébreux 11:31-36"
+  - "Jean 15"
+  - "Luc 19:30"
+  - "Marc 11"
 ---
 Nous allons continuer et achever ce que nous avions commencé, parlant de la foi. C’est le deuxième point : _La foi et la bénédiction_. Cela rentre dans [le cadre de la première prédication](https://mevar.org/faire-front-par-la-foi-premiere-partie/) et aussi d’[une série de prédications que nous sommes en train de donner ces temps-ci](https://mevar.org/la-foi/). Après nous allons mettre tout cela dans un document et le relier pour le peuple de Dieu.
 
@@ -141,17 +150,7 @@ _Chant : Je suis dans la joie lorsqu’on me dit allons à la maison de l’Ét
 
 * * *
 
-[
-
-3\_LA FOI ET LA BENEDICTION\_22-01-23
-
-3\_LA FOI ET LA BENEDICTION\_22-01-23.pdf
-
-247 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/3_LA-FOI-ET-LA-BENEDICTION_22-01-23.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/3_LA-FOI-ET-LA-BENEDICTION_22-01-23.pdf)
 
 * * *
 

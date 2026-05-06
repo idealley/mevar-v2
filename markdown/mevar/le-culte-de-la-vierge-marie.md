@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_culte_de_la_vierge_marie_l_abomaniation_des_ivoiriens_april_2017.pdf"
 source: "mevar"
 sermon_id: "le-culte-de-la-vierge-marie"
 title: "Le culte de la vierge Marie"
@@ -16,6 +17,58 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f26"
 uuid: "e39b509d-82f6-4ca3-b628-f466a2ab070c"
+stream_url: "https://mevar.org/le-culte-de-la-vierge-marie/"
+bible_refs:
+  - "1 Corinthiens 3:16-17"
+  - "1 Corinthiens 6:19"
+  - "1 Corinthiens 6:9-10"
+  - "1 Jean 2:1"
+  - "1 Jean 4"
+  - "1 Rois 3:5"
+  - "1 Timothée 2:5-6"
+  - "2 Chroniques 7:12"
+  - "2 Corinthiens 11:14"
+  - "2 Corinthiens 13:5"
+  - "2 Corinthiens 6:15-18"
+  - "2 Rois 17:9-11"
+  - "2 Samuel 7:16"
+  - "2 Thessaloniciens 2"
+  - "2 Timothée 4:2-4"
+  - "Actes 1:3"
+  - "Actes 2"
+  - "Actes 23:11"
+  - "Actes 7:47-49"
+  - "Actes 7:48-50"
+  - "Actes 9:10"
+  - "Apocalypse 12"
+  - "Apocalypse 12:1-6"
+  - "Apocalypse 12:1-8"
+  - "Apocalypse 21:5-8"
+  - "Apocalypse 21:8"
+  - "Apocalypse 22"
+  - "Apocalypse 22:15"
+  - "Colossiens 2:9"
+  - "Colossiens 4:10"
+  - "Deutéronome 16:21"
+  - "Deutéronome 27:15"
+  - "Deutéronome 4:15-18"
+  - "Deutéronome 7:24-26"
+  - "Exode 20:4"
+  - "Exode 3:1-3"
+  - "Exode 6:3"
+  - "Galates 1:19"
+  - "Galates 2:9"
+  - "Genèse 12:7"
+  - "Genèse 17:1-6"
+  - "Genèse 18:1-5"
+  - "Genèse 26:24-25"
+  - "Genèse 3:20"
+  - "Habacuc 2:18-20"
+  - "Hébreux 7"
+  - "Hébreux 7:19-20"
+  - "Hébreux 9:7-11"
+  - "Jean 14:12-14"
+  - "Jean 14:19"
 ---
 ## L'abomination des ivoiriens
 
@@ -481,14 +534,4 @@ En conclusion, je voudrais vous laisser avec cette parole de Josué au peuple d�
 
 ### Télécharger le document
 
-[
-
-Le culte de la vierge Marie
-
-le\_culte\_de\_la\_vierge\_marie\_l\_abomaniation\_des\_ivoiriens\_april\_2017.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_culte_de_la_vierge_marie_l_abomaniation_des_ivoiriens_april_2017.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_culte_de_la_vierge_marie_l_abomaniation_des_ivoiriens_april_2017.pdf)

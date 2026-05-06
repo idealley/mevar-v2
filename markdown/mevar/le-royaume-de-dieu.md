@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_royaume_de_dieu_kadjani.pdf"
 source: "mevar"
 sermon_id: "le-royaume-de-dieu"
 title: "Le royaume de Dieu"
@@ -15,6 +16,10 @@ authors:
   - "André Kadjany"
 ghost_id: "6448fa86db90770001518fbd"
 uuid: "3b5ae794-824c-4ab7-82ec-13f8773fe5ed"
+stream_url: "https://mevar.org/le-royaume-de-dieu/"
+bible_refs:
+  - "Luc 17:21"
+  - "Matthieu 13:10-12"
 ---
 ## Comprendre ses principes et son fonctionnement
 
@@ -42,14 +47,4 @@ Pasteur et Missionnaire, appelé par le Seigneur Jésus-Christ afin de prendre p
 
 ### Télécharger le document
 
-[
-
-Le royaume de Dieu
-
-le\_royaume\_de\_dieu\_kadjani.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_royaume_de_dieu_kadjani.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_royaume_de_dieu_kadjani.pdf)

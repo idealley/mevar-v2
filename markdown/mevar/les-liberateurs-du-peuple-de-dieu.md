@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/les_liberateurs_du_peuple_de_dieu_13_07_2014.pdf"
 source: "mevar"
 sermon_id: "les-liberateurs-du-peuple-de-dieu"
 title: "Les libérateurs du peuple de Dieu"
@@ -16,6 +17,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518efb"
 uuid: "66283a96-4e09-4ea2-ab6b-976abbbbbfdf"
+stream_url: "https://mevar.org/les-liberateurs-du-peuple-de-dieu/"
+bible_refs:
+  - "Abdias 1:20-21"
+  - "Actes 7:35"
+  - "Juges 3:8"
 ---
 Nous lisons Juges 3:8:
 
@@ -121,14 +127,4 @@ La pluie dévoile beaucoup de choses et cela m’a fait réfléchir. J’ai comp
 
 ### Télécharger le document
 
-[
-
-Les libérateurs du peuple de Dieu
-
-les\_liberateurs\_du\_peuple\_de\_dieu\_13\_07\_2014.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/les_liberateurs_du_peuple_de_dieu_13_07_2014.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_liberateurs_du_peuple_de_dieu_13_07_2014.pdf)

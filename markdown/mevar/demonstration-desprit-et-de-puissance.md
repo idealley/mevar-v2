@@ -16,6 +16,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fdb"
 uuid: "56ac97e5-7c2f-4096-891b-95b7bdd0bb88"
+stream_url: "https://mevar.org/demonstration-desprit-et-de-puissance/"
+bible_refs:
+  - "Marc 5"
+  - "Marc 5:25-34"
 ---
 Que le nom du Seigneur soit béni. Nous sommes encore reconnaissant au Seigneur ce matin. J’ai écouté les paroles de votre pasteur, et j’ai été moi-même touché par cela. Amen ! Le désir de nous tous est que nous soyons tous sauvés. C’est le vœu d’un pasteur normal. Que ceux qu’il dirige soient conduits dans l’enlèvement. Qu’il n’y ait pas de vierges folles parmi vous. Que le nom du Seigneur soit béni. J’ai passé du temps à vous prêcher la vision céleste que j’ai reçue de la part du Seigneur : c’est à dire aller plus en détail sur les actions à mener pour parvenir au réveil.
 

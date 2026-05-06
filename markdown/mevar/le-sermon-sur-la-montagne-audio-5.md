@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Bonne%20vision%20de%20la%20sanctification.pdf"
 source: "mevar"
 sermon_id: "le-sermon-sur-la-montagne-audio-5"
 title: "Le Sermon sur la Montagne (5)"
@@ -18,6 +19,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f6f"
 uuid: "513abe86-bc54-451b-9c69-427a2114d86a"
+stream_url: "https://mevar.org/le-sermon-sur-la-montagne-audio-5/"
+bible_refs:
+  - "Apocalypse 3"
+  - "Jacques 1"
+  - "Matthieu 6"
+  - "Matthieu 7"
 ---
 ## La bonne vision de la sanctification - cinquième partie
 
@@ -139,14 +146,4 @@ Que Dieu vous bénisse et que sa grâce et sa paix soient sur vous.
 
 ### Télécharger le document
 
-[
-
-Le Sermon sur la Montagne \[audio\] (5)
-
-Bonne vision de la sanctification.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Bonne%20vision%20de%20la%20sanctification.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Bonne%20vision%20de%20la%20sanctification.pdf)

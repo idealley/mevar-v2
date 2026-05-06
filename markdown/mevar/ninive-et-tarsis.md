@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/ninive_et_tarsis_28_06_2015.pdf"
 source: "mevar"
 sermon_id: "ninive-et-tarsis"
 title: "Ninive et Tarsis"
@@ -14,6 +15,21 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f0b"
 uuid: "b0cdab5b-5a5d-4a69-8800-1d1a6467eb9d"
+stream_url: "https://mevar.org/ninive-et-tarsis/"
+bible_refs:
+  - "Amos 3"
+  - "Apocalypse 12"
+  - "Apocalypse 20"
+  - "Apocalypse 20:1"
+  - "Apocalypse 20:8-10"
+  - "Apocalypse 21"
+  - "Exode 14:13-31"
+  - "Jonas 1:1-15"
+  - "Jonas 8"
+  - "Malachie 4"
+  - "Éphésiens 4:11"
+  - "Ésaïe 27:12-13"
+  - "Ésaïe 65"
 ---
 inive et Tarsis, c’est une histoire qui se trouve dans le livre de Jonas 1:1-15:
 
@@ -215,14 +231,4 @@ J’ai été long excusez-moi. Ce n’est pas dans mes habitudes, mais je voulai
 
 ### Télécharger le document
 
-[
-
-Ninive et Tarsis
-
-ninive\_et\_tarsis\_28\_06\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/ninive_et_tarsis_28_06_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/ninive_et_tarsis_28_06_2015.pdf)

@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f76"
 uuid: "ae291afd-9582-47d1-9de5-28b4314e3bfe"
+stream_url: "https://mevar.org/la-parabole-des-talents-audio-1/"
 ---
 ## Première partie - Les talents à la fin des temps
 

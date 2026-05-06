@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_mars_2017_la_foi_pour_manger_le_lait_et_le_miel.pdf"
 source: "mevar"
 sermon_id: "la-foi-pour-manger-le-lait-et-le-miel"
 title: "La foi pour manger le lait et le miel"
@@ -15,6 +16,36 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f24"
 uuid: "bbb80bd0-6159-4dc4-a249-054f4df9c8e1"
+stream_url: "https://mevar.org/la-foi-pour-manger-le-lait-et-le-miel/"
+bible_refs:
+  - "1 Corinthiens 15:50"
+  - "1 Corinthiens 3:16"
+  - "1 Corinthiens 3:17"
+  - "1 Corinthiens 6"
+  - "1 Corinthiens 6:12"
+  - "1 Corinthiens 6:19"
+  - "1 Corinthiens 6:9-11"
+  - "2 Corinthiens 10"
+  - "2 Corinthiens 10:4-6"
+  - "2 Corinthiens 5:7"
+  - "2 Corinthiens 6:16"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 2:20"
+  - "Daniel 10:12-14"
+  - "Exode 3:7-8"
+  - "Galates 5:19-21"
+  - "Genèse 17:1"
+  - "Hébreux 4"
+  - "Jean 2:14"
+  - "Luc 10"
+  - "Luc 10:17-20"
+  - "Luc 10:19"
+  - "Luc 11:21-22"
+  - "Luc 9:1"
+  - "Marc 16:15-18"
+  - "Matthieu 7"
+  - "Matthieu 7:21-23"
+  - "Ésaïe 54:14-17"
 ---
 ## Exhortation de mars 2017
 
@@ -184,14 +215,4 @@ Ma prière est que chacun de nous comprenne ce qui se passe réellement dans l�
 
 ### Télécharger le document
 
-[
-
-La foi pour manger le lait et le miel
-
-exhortation\_de\_mars\_2017\_la\_foi\_pour\_manger\_le\_lait\_et\_le\_miel.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_mars_2017_la_foi_pour_manger_le_lait_et_le_miel.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_mars_2017_la_foi_pour_manger_le_lait_et_le_miel.pdf)

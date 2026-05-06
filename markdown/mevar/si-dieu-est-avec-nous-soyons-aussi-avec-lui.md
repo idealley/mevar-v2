@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_septembre_2017_si_dieu_est_avec_nous_soyons_aussi_avec_lui.pdf"
 source: "mevar"
 sermon_id: "si-dieu-est-avec-nous-soyons-aussi-avec-lui"
 title: "Si Dieu est avec nous - soyons aussi avec lui"
@@ -14,6 +15,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f2b"
 uuid: "06cf3073-7d16-4117-9171-993e1b00e582"
+stream_url: "https://mevar.org/si-dieu-est-avec-nous-soyons-aussi-avec-lui/"
+bible_refs:
+  - "2 Rois 13:14-19"
+  - "Deutéronome 7:9,1"
+  - "Jean 14:16-18"
+  - "Jean 14:19"
+  - "Jean 16:16"
+  - "Jean 3:5"
+  - "Josué 1:1-9"
+  - "Juges 1:19"
+  - "Juges 6:12-14"
+  - "Marc 11"
+  - "Marc 9:23"
+  - "Matthieu 26:41"
+  - "Romains 8:28"
+  - "Tite 3:5"
 ---
 ## Exhortation de fin septembre 2017
 
@@ -123,14 +140,4 @@ Que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec 
 
 ### Télécharger le document
 
-[
-
-Si Dieu est avec nous - soyons aussi avec lui
-
-exhortation\_fin\_septembre\_2017\_si\_dieu\_est\_avec\_nous\_soyons\_aussi\_avec\_lui.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_fin_septembre_2017_si_dieu_est_avec_nous_soyons_aussi_avec_lui.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_septembre_2017_si_dieu_est_avec_nous_soyons_aussi_avec_lui.pdf)

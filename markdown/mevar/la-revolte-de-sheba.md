@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_aout_2014_la_revolte_de_sheba.pdf"
 source: "mevar"
 sermon_id: "la-revolte-de-sheba"
 title: "La révolte de Shéba"
@@ -14,6 +15,26 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518efc"
 uuid: "f783f482-accc-4235-bedf-f747f64a09bf"
+stream_url: "https://mevar.org/la-revolte-de-sheba/"
+bible_refs:
+  - "1 Corinthiens 15:49"
+  - "1 Corinthiens 5:13"
+  - "1 Jean 2:15"
+  - "2 Corinthiens 3:18"
+  - "2 Corinthiens 5:17"
+  - "2 Pierre 1:1-9"
+  - "Apocalypse 12"
+  - "Colossiens 1:15"
+  - "Genèse 1:26-27"
+  - "Genèse 5:3"
+  - "Hébreux 10:25-29"
+  - "Jacques 1:23-25"
+  - "Jean 5:19"
+  - "Luc 16:13"
+  - "Matthieu 16:26"
+  - "Romains 8"
+  - "Romains 8:29"
+  - "Ésaïe 62:1"
 ---
 ## Exhortation fin août 2014
 
@@ -99,14 +120,4 @@ Mes bien-aimés frères et sœurs, ne nous contentons pas d’un faux réveil pa
 
 ### Télécharger le document
 
-[
-
-La révolte de Shéba
-
-exhortation\_fin\_aout\_2014\_la\_revolte\_de\_sheba.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2014_la_revolte_de_sheba.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2014_la_revolte_de_sheba.pdf)

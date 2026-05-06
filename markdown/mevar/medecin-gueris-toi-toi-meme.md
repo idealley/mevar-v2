@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/medecin_gueris-toi_toi-meme_15_02_2015.pdf"
 source: "mevar"
 sermon_id: "medecin-gueris-toi-toi-meme"
 title: "Médecin, guéris-toi toi-même"
@@ -13,6 +14,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f00"
 uuid: "be8f8e95-540e-4ff9-839d-76965d5ca142"
+stream_url: "https://mevar.org/medecin-gueris-toi-toi-meme/"
+bible_refs:
+  - "Luc 4:23"
+  - "Matthieu 9:10-13"
 ---
 C’est un sujet pour poursuivre un peu tout ce dont nous avons parlé dimanche passé. Amen ! Nous lisons dans Luc 4:23. _Jésus leur dit : sans doute vous m’appliquerez ce proverbe : Médecin guéris-toi toi-même ; et vous me direz : fais ici dans ta patrie, tout ce que nous avons appris que tu as fait à Capernaüm._
 
@@ -102,14 +107,4 @@ J’ai commencé à réfléchir et je me suis dit que toutes ces affaires qui pr
 
 ### Télécharger le document
 
-[
-
-Médecin, guéris-toi toi-même
-
-medecin\_gueris-toi\_toi-meme\_15\_02\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/medecin_gueris-toi_toi-meme_15_02_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/medecin_gueris-toi_toi-meme_15_02_2015.pdf)

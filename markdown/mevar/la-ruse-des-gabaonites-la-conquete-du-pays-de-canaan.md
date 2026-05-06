@@ -15,6 +15,7 @@ authors:
   - "Stéphane Pouyt"
 ghost_id: "6448fa86db90770001518ee8"
 uuid: "5650f8c6-63a6-4fd3-8770-ac7ec238cd2f"
+stream_url: "https://mevar.org/la-ruse-des-gabaonites-la-conquete-du-pays-de-canaan/"
 ---
 ## La conquête du pays de Canaan
 

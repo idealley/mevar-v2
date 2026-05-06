@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_mars_2014_l_amour_et_la_connaissance.pdf"
 source: "mevar"
 sermon_id: "l-amour-et-la-connaissance"
 title: "L'amour et la connaissance"
@@ -14,6 +15,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ef7"
 uuid: "f9b31d7d-78e1-4d79-9bfd-93f3eda3e7a6"
+stream_url: "https://mevar.org/l-amour-et-la-connaissance/"
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 8:1-3"
+  - "Actes 22:3"
+  - "Actes 5:34"
+  - "Osée 4:6"
+  - "Osée 6"
+  - "Osée 6:6"
 ---
 ## Exhortation de Mars 2014
 
@@ -79,14 +90,4 @@ Mes frères, recherchons ensemble l’Amour qui édifie, au moment où nous avon
 
 ### Télécharger le document
 
-[
-
-L'amour et la connaissance
-
-exhortation\_mars\_2014\_l\_amour\_et\_la\_connaissance.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_mars_2014_l_amour_et_la_connaissance.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_mars_2014_l_amour_et_la_connaissance.pdf)

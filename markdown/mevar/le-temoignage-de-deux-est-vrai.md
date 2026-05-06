@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf"
 source: "mevar"
 sermon_id: "le-temoignage-de-deux-est-vrai"
 title: "Le témoignage de deux est vrai"
@@ -14,6 +15,24 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fbe"
 uuid: "50562bb9-3b41-4128-9395-96660142d4ed"
+stream_url: "https://mevar.org/le-temoignage-de-deux-est-vrai/"
+bible_refs:
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 3:11-17"
+  - "1 Corinthiens 3:13"
+  - "1 Pierre 1:6-7"
+  - "1 Pierre 4:12-13"
+  - "1 Pierre 4:14-16"
+  - "Hébreux 11:5"
+  - "Jacques 1:1-4"
+  - "Jacques 5:11"
+  - "Jacques 5:13"
+  - "Jean 8:12"
+  - "Jean 8:14"
+  - "Jean 8:17"
+  - "Job 1:8"
+  - "Matthieu 7"
+  - "Éphésiens 6:13"
 ---
 ## Exhortation de fin Mai 2022
 
@@ -63,14 +82,4 @@ Mes chers amis, j’ai voulu par cette courte exhortation nous rappeler que nous
 
 ### Télécharger le document
 
-[
-
-Le témoignage de deux est vrai
-
-exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf)

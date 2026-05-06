@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/5_FAIRE-MULTIPLIER-NOTRE-FOI_21-10-23.pdf"
 source: "mevar"
 sermon_id: "faire-multiplier-notre-foi"
 title: "Faire multiplier notre foi"
@@ -17,6 +18,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "685a620136cbb90001f67c3e"
 uuid: "74cc577e-c049-48d5-a0c7-b42215830460"
+stream_url: "https://mevar.org/faire-multiplier-notre-foi/"
+bible_refs:
+  - "Luc 19"
+  - "Luc 19:30-31"
+  - "Marc 11"
 ---
 Le Seigneur dit dans Luc 19 :
 
@@ -56,17 +62,7 @@ Que Dieu nous bénisse et que sa grâce et sa paix soient sur nous.
 
 * * *
 
-[
-
-5\_FAIRE MULTIPLIER NOTRE FOI\_21-10-23
-
-5\_FAIRE MULTIPLIER NOTRE FOI\_21-10-23.pdf
-
-178 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/5_FAIRE-MULTIPLIER-NOTRE-FOI_21-10-23.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/5_FAIRE-MULTIPLIER-NOTRE-FOI_21-10-23.pdf)
 
 * * *
 

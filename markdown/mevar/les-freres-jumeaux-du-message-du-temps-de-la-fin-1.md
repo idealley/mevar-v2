@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/JUMEAUX1%20.pdf"
 source: "mevar"
 sermon_id: "les-freres-jumeaux-du-message-du-temps-de-la-fin-1"
 title: "Les frères jumeaux du Message du Temps de la Fin (1)"
@@ -18,6 +19,24 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f74"
 uuid: "865bec89-6311-42ab-923d-5a5cb6cdde09"
+stream_url: "https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-1/"
+bible_refs:
+  - "Apocalypse 2"
+  - "Galates 3"
+  - "Genèse 22"
+  - "Genèse 25"
+  - "Genèse 49"
+  - "Joël 1"
+  - "Joël 2"
+  - "Luc 1"
+  - "Luc 17"
+  - "Luc 21"
+  - "Malachie 4"
+  - "Marc 13"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Romains 9"
+  - "Ésaïe 40"
 ---
 ## Première Partie
 
@@ -162,14 +181,4 @@ Que Dieu nous bénisse.
 
 ### Télécharger le document
 
-[
-
-Les frères jumeaux du Message du Temps de la Fin \[audio\] (1)
-
-JUMEAUX1 .pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/JUMEAUX1%20.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/JUMEAUX1%20.pdf)

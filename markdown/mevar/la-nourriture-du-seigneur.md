@@ -15,5 +15,6 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518fb5"
 uuid: "c87dba3c-9bde-44c2-9b3f-38466834226f"
+stream_url: "https://mevar.org/la-nourriture-du-seigneur/"
 ---
 

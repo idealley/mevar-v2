@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_aout_2018.pdf"
 source: "mevar"
 sermon_id: "la-maison-du-tresor"
 title: "La Maison du Trésor"
@@ -14,6 +15,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f36"
 uuid: "979dd029-23c2-48ab-9791-287f0616fad8"
+stream_url: "https://mevar.org/la-maison-du-tresor/"
+bible_refs:
+  - "1 Corinthiens 15"
+  - "1 Thessaloniciens 4:17"
+  - "Apocalypse 19:8"
+  - "Jean 14:13-14"
+  - "Jean 16:24"
+  - "Luc 14"
+  - "Luc 14:22-24"
+  - "Luc 17:5-6"
+  - "Malachie 3:10"
+  - "Marc 4:19-21"
+  - "Marc 4:30-32"
+  - "Matthieu 22:1-14"
+  - "Matthieu 6:20-21"
+  - "Matthieu 7:21-23"
 ---
 ## Exhortation août 2018
 
@@ -93,14 +110,4 @@ Mes chers frères et sœurs, si Dieu a des problèmes avec une attitude chez les
 
 ### Télécharger le document
 
-[
-
-La Maison du Trésor
-
-exhortation\_aout\_2018.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_aout_2018.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_aout_2018.pdf)

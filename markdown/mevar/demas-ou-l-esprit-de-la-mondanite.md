@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/demas_ou_l_esprit_de_la_mondanite_16_03_2016.pdf"
 source: "mevar"
 sermon_id: "demas-ou-l-esprit-de-la-mondanite"
 title: "Démas, ou l’esprit de la mondanité"
@@ -14,6 +15,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f17"
 uuid: "c960dee2-378a-47db-a01f-5dd7929b5562"
+stream_url: "https://mevar.org/demas-ou-l-esprit-de-la-mondanite/"
+bible_refs:
+  - "Ecclésiaste 1"
+  - "Luc 11:31"
+  - "Malachie 22"
 ---
 Je voudrais parler de la mondanité ce matin. C’est un sujet que les chrétiens pensent maîtriser parce que lorsqu’on parle du monde, on a une manière légère de voir les choses. Amen. Nous allons commencer à lire dans 2 Timothée chapitre 4 verset 6 à 10:
 
@@ -151,14 +157,4 @@ Prions ensemble.
 
 ### Télécharger le document
 
-[
-
-Démas, ou l’esprit de la mondanité
-
-demas\_ou\_l\_esprit\_de\_la\_mondanite\_16\_03\_2016.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/demas_ou_l_esprit_de_la_mondanite_16_03_2016.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/demas_ou_l_esprit_de_la_mondanite_16_03_2016.pdf)

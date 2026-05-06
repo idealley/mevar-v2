@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_1_aout_2006_prenez_courage.pdf"
 source: "mevar"
 sermon_id: "prenez-courage"
 title: "Prenez courage"
@@ -14,6 +15,44 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ed4"
 uuid: "6663337a-7c45-44c0-8c6d-df098b7bb821"
+stream_url: "https://mevar.org/prenez-courage/"
+bible_refs:
+  - "1 Rois 18:41-45"
+  - "2 Samuel 10:9-11"
+  - "Actes 1:12-14"
+  - "Actes 23:11"
+  - "Apocalypse 3:14"
+  - "Apocalypse 3:14-22"
+  - "Colossiens 3:17"
+  - "Deutéronome 31:6"
+  - "Hébreux 13:8"
+  - "Jacques 4:8-12"
+  - "Jean 16:33"
+  - "Jonas 3:5-10"
+  - "Josué 1:6-7"
+  - "Josué 1:9"
+  - "Josué 7:24-26"
+  - "Josué 7:6-10"
+  - "Lamentations 3:39-44"
+  - "Luc 12:49-50"
+  - "Luc 6:43-49"
+  - "Malachie 3:8-11"
+  - "Marc 10:49"
+  - "Marc 7:18-23"
+  - "Néhémie 10:30-32"
+  - "Néhémie 9:1-3"
+  - "Psaumes 60:12"
+  - "Zacharie 10:1-2"
+  - "Ésaïe 58"
+  - "Ésaïe 58:3-4"
+  - "Ésaïe 58:5"
+  - "Ésaïe 58:6"
+  - "Ésaïe 58:6-7"
+  - "Ésaïe 58:8-10"
+  - "Ésaïe 59:16"
+  - "Ésaïe 62:1"
+  - "Ésaïe 62:6-7"
+  - "Ézéchiel 22:26-30"
 ---
 ## Exhortation spéciale d'août 2006 (Première exhortation du mois)
 
@@ -213,14 +252,4 @@ En Christ notre Seigneur !
 
 ### Télécharger le document
 
-[
-
-Prenez courage
-
-exhortation\_speciale\_1\_aout\_2006\_prenez\_courage.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_speciale_1_aout_2006_prenez_courage.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_1_aout_2006_prenez_courage.pdf)

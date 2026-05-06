@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_septembre_2006_dieu_fuyant_le_peche.pdf"
 source: "mevar"
 sermon_id: "dieu-fuyant-le-peche"
 title: "Dieu fuyant le péché"
@@ -15,6 +16,19 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ed8"
 uuid: "9b93b1d4-7e51-4eef-857e-d46fd9c78656"
+stream_url: "https://mevar.org/dieu-fuyant-le-peche/"
+bible_refs:
+  - "1 Samuel 2:22"
+  - "2 Chroniques 7"
+  - "2 Thessaloniciens 2"
+  - "Actes 3:19"
+  - "Apocalypse 2"
+  - "Jérémie 27:6"
+  - "Jérémie 27:6-7"
+  - "Luc 18"
+  - "Luc 21"
+  - "Matthieu 24:45"
+  - "Ésaïe 27"
 ---
 ## Exhortation du Mois de Septembre 2006
 
@@ -190,14 +204,4 @@ Prière de l'ancien de l'assemblée
 
 ### Télécharger le document
 
-[
-
-Dieu fuyant le péché
-
-exhortation\_septembre\_2006\_dieu\_fuyant\_le\_peche.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_septembre_2006_dieu_fuyant_le_peche.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_septembre_2006_dieu_fuyant_le_peche.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf"
 source: "mevar"
 sermon_id: "voici-je-me-tiens-a-la-porte-et-je-frappe"
 title: "Voici, je me tiens à la porte, et je frappe"
@@ -14,6 +15,19 @@ authors:
   - "Stéphane Pouyt"
 ghost_id: "6448fa86db90770001518f4f"
 uuid: "83d8d051-5998-4295-8b59-eafd7ed93d29"
+stream_url: "https://mevar.org/voici-je-me-tiens-a-la-porte-et-je-frappe/"
+bible_refs:
+  - "2 Rois 2:8"
+  - "Actes 9:5"
+  - "Apocalypse 12"
+  - "Apocalypse 19:8"
+  - "Apocalypse 3:14-22"
+  - "Apocalypse 3:20"
+  - "Galates 5:22"
+  - "Nombres 20:25-26"
+  - "Psaumes 119"
+  - "Ésaïe 55"
+  - "Ésaïe 6:1-8"
 ---
 > Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi. (Apocalypse 3:20)
 
@@ -197,14 +211,4 @@ Stéphane Pouyt
 
 ### Télécharger le document
 
-[
-
-Voici, je me tiens à la porte, et je frappe
-
-je\_me\_tiens\_a\_la\_porte\_et\_je\_frappe\_07\_11\_2019.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf)

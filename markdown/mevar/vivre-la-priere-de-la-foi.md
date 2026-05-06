@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/1_VIVRE-LA-PRIERE-DE-LA-FOI_03-10-21.pdf"
 source: "mevar"
 sermon_id: "vivre-la-priere-de-la-foi"
 title: "Vivre la prière de la Foi"
@@ -18,6 +19,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "685a598336cbb90001f677a8"
 uuid: "8bf966f1-db91-4fc0-acf6-fd30f7a3713b"
+stream_url: "https://mevar.org/vivre-la-priere-de-la-foi/"
+bible_refs:
+  - "Marc 11"
+  - "Marc 11:12-15"
+  - "Marc 11:20-26"
+  - "Matthieu 14"
+  - "Matthieu 14:25-32"
 ---
 « Vivre la prière » est une parole d’exhortation sur la foi. Nous devons la vivre. La prière ne doit pas être séparée de notre attitude. Quand nous prions, nous devons avoir un comportement qui l’accompagne.
 
@@ -77,17 +85,7 @@ _Chant : Je suis vainqueur, alléluia_
 
 * * *
 
-[
-
-1\_VIVRE LA PRIERE DE LA FOI\_03-10-21
-
-1\_VIVRE LA PRIERE DE LA FOI\_03-10-21.pdf
-
-165 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/1_VIVRE-LA-PRIERE-DE-LA-FOI_03-10-21.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/1_VIVRE-LA-PRIERE-DE-LA-FOI_03-10-21.pdf)
 
 * * *
 

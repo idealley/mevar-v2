@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
 source: "mevar"
 sermon_id: "pourquoi-ne-sommes-nous-pas-exauces"
 title: "Pourquoi ne sommes-nous pas exaucés ?"
@@ -14,6 +15,17 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f49"
 uuid: "d3c7886e-e7b9-4a82-9a61-5497c6abc4b4"
+stream_url: "https://mevar.org/pourquoi-ne-sommes-nous-pas-exauces/"
+bible_refs:
+  - "2 Corinthiens 11"
+  - "2 Rois 8:9"
+  - "Deutéronome 16:16"
+  - "Jacques 4"
+  - "Luc 8:1-3"
+  - "Lévitique 7:11-13"
+  - "Proverbes 16"
+  - "Proverbes 21"
+  - "Ésaïe 55"
 ---
 ## Première partie
 
@@ -151,14 +163,4 @@ Que Dieu soit béni. Nous allons poursuivre une prochaine fois concernant le mar
 
 ### Télécharger le document
 
-[
-
-Pourquoi ne sommes-nous pas exaucés&nbsp;?
-
-pourquoi\_nous\_ne\_sommes\_pas\_exauces\_premiere\_partie\_23\_09\_2019.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf)

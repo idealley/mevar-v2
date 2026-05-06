@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f8d"
 uuid: "48405a67-b5de-4982-8d31-f0dc6f560ec6"
+stream_url: "https://mevar.org/le-complot-contre-les-apotres-a-jerusalem/"
 ---
 ## Les complots de Satan (4) - Le combat spirituel
 

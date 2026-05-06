@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Epreuve_de_Moise_2.pdf"
 source: "mevar"
 sermon_id: "l-epreuve-de-moise-deuxieme-partie"
 title: "L’épreuve de Moïse (2)"
@@ -16,6 +17,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f3a"
 uuid: "5214e5a3-f8b2-4bfb-b722-db7bbefae327"
+stream_url: "https://mevar.org/l-epreuve-de-moise-deuxieme-partie/"
+bible_refs:
+  - "1 Corinthiens 10"
+  - "Ecclésiaste 9"
 ---
 ## Deuxième partie
 
@@ -119,14 +124,4 @@ J’espère qu’on peut entrer dans la nouvelle année avec ces paroles. **L’
 
 ### Télécharger le document
 
-[
-
-L’épreuve de Moïse
-
-Epreuve\_de\_Moise\_2.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Epreuve_de_Moise_2.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Epreuve_de_Moise_2.pdf)

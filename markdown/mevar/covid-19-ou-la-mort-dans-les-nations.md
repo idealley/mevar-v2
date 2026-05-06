@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf"
 source: "mevar"
 sermon_id: "covid-19-ou-la-mort-dans-les-nations"
 title: "COVID-19 ou la mort dans les nations"
@@ -16,6 +17,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f66"
 uuid: "278689cb-31a1-40a8-806d-d34cded7cb80"
+stream_url: "https://mevar.org/covid-19-ou-la-mort-dans-les-nations/"
+bible_refs:
+  - "2 Pierre 3:5-7"
+  - "Apocalypse 12:1-5"
+  - "Apocalypse 12:9"
+  - "Apocalypse 17"
+  - "Apocalypse 6:7-8"
+  - "Apocalypse 6:8"
+  - "Esther 3:13-15"
+  - "Exode 1:22"
+  - "Genèse 2:16-17"
+  - "Genèse 6:5-8"
+  - "Matthieu 2:14-15"
+  - "Matthieu 2:16-18"
+  - "Romains 6:23"
+  - "Ézéchiel 28"
 ---
 ## Exhortation de Mars 2020
 
@@ -81,14 +98,4 @@ Que se passera-t-il alors le jour de l’enlèvement ? Que deviendra le monde lo
 
 ### Télécharger le document
 
-[
-
-COVID-19 ou la mort dans les nations
-
-COVID-19\_ou\_la\_mort\_dans\_les\_nations-exhortation-mars-2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf)

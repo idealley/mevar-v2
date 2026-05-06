@@ -14,6 +14,21 @@ authors:
   - "André Kadjany"
 ghost_id: "6448fa86db90770001518fe2"
 uuid: "d0e55e09-fec9-40cb-b9c1-8f347bc9da6a"
+stream_url: "https://mevar.org/lenjeu/"
+bible_refs:
+  - "1 Pierre 2"
+  - "2 Chroniques 20"
+  - "Exode 19"
+  - "Exode 31"
+  - "Genèse 6"
+  - "Job 1:6"
+  - "Job 2"
+  - "Luc 14:26"
+  - "Romains 8"
+  - "Ésaïe 14"
+  - "Ésaïe 35"
+  - "Ézéchiel 28:1-2"
+  - "Ézéchiel 28:12-17"
 ---
 Ce matin je voudrais traiter ici un sujet avec la grâce de Dieu : **l’ENJEU**. L’enjeu si on veut le définir, représente ce que **l’on risque de gagner ou de perdre dans une partie, dans une compétition ou un conflit. C’est pourquoi l’enjeu détermine le degré d’engagement et le niveau de sacrifice à consentir.** Lorsqu’il y a un match de football, c’est l’enjeu qui détermine le niveau d’engagement de l’équipe. Si c’est un match amical, c’est de l’amusement : des joueurs, de l’entraîneur jusqu’aux dirigeants, on peut se permettre beaucoup de choses parce que c’est un match sans enjeu. Mais si c’est un match dont l’enjeu est la coupe du monde, tout le monde est mobilisé. Toute la nation est mobilisée **parce que l’enjeu engage tout le pays.** C’est l’enjeu qui détermine le degré d’engagement. Donc l’enjeu c’est ce qu’on risque de perdre ou de gagner dans une partie, dans une guerre. **Et il y a un enjeu dans la vie chrétienne. Cela veut dire qu’il y a quelque chose qu’on peut gagner ou qu’on risque de perdre si on n’est pas engagé.**
 

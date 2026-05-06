@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/un_jour_pour_le_seigneur_29_03_2015.pdf"
 source: "mevar"
 sermon_id: "un-jour-pour-le-seigneur"
 title: "Un jour pour le Seigneur"
@@ -14,6 +15,14 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f02"
 uuid: "16af51f7-7d0d-4711-9a2a-a4760a94e3a7"
+stream_url: "https://mevar.org/un-jour-pour-le-seigneur/"
+bible_refs:
+  - "Actes 8:39-40"
+  - "Luc 12"
+  - "Malachie 3:16-18"
+  - "Malachie 4:1-6"
+  - "Ésaïe 2:11-19"
+  - "Ésaïe 30:26"
 ---
 Un jour pour le Seigneur. Que Dieu soit béni ! Je voudrais revenir un peu sur la Parole prophétique. Ce sont des paroles d’exhortation et d’encouragement qui sont liées aux prophéties bibliques. Nous allons lire dans Esaïe chapitre 2, à partir du verset 11.
 
@@ -129,14 +138,4 @@ C’est comme quelqu’un qu’on voit en train de prêcher ici à Koumassi dans
 
 ### Télécharger le document
 
-[
-
-Un jour pour le Seigneur
-
-un\_jour\_pour\_le\_seigneur\_29\_03\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/un_jour_pour_le_seigneur_29_03_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/un_jour_pour_le_seigneur_29_03_2015.pdf)

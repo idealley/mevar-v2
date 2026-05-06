@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_parabole_des_talents_5-=1_2014.pdf"
 source: "mevar"
 sermon_id: "la-parabole-des-talents"
 title: "La parabole des talents"
@@ -13,6 +14,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ef2"
 uuid: "930c3ee2-25bc-4e56-8047-3f3c6e4fb9fa"
+stream_url: "https://mevar.org/la-parabole-des-talents/"
+bible_refs:
+  - "Galates 5:6"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Nombres 10"
 ---
 Alors on remercie le Seigneur pour le rassemblement de ce matin. Je voudrais qu’on s’entretienne sur la parabole des talents. C’est un sujet que j’ai déjà évoqué ici une année, il y a longtemps. Je voudrais revenir là-dessus avec de nouvelles pensées. Amen ! Donc nous allons déjà lire dans Mathieu chapitre 24 le verset 9 :
 
@@ -164,14 +171,4 @@ Donc frères, notre marche est ainsi. Les démons qui s’opposent, qui attaquen
 
 ### Télécharger le document
 
-[
-
-La parabole des talents
-
-la\_parabole\_des\_talents\_5-=1\_2014.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_parabole_des_talents_5-=1_2014.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_parabole_des_talents_5-=1_2014.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/12/le-chant-du-coq-et-les-sons-de-la-grande-trompette_exhortation-speciale-novembre-2024.pdf"
 source: "mevar"
 sermon_id: "le-chant-du-coq-et-les-sons-de-la-grande-trompette"
 title: "Le chant du coq et les sons de la grande trompette"
@@ -18,6 +19,58 @@ authors:
   - "Parfait M'bra"
 ghost_id: "674b1e9e9769f6000122e4ff"
 uuid: "c11d93cf-850d-4419-b3d2-731c12c73c49"
+stream_url: "https://mevar.org/le-chant-du-coq-et-les-sons-de-la-grande-trompette/"
+bible_refs:
+  - "2 Thessaloniciens 2"
+  - "2 Thessaloniciens 2:1-4"
+  - "Actes 21:10-11"
+  - "Apocalypse 11"
+  - "Apocalypse 12:5"
+  - "Apocalypse 18:1-3"
+  - "Apocalypse 18:5"
+  - "Apocalypse 3:14-17"
+  - "Apocalypse 6"
+  - "Apocalypse 6:1-2"
+  - "Apocalypse 6:3-4"
+  - "Apocalypse 6:5-8"
+  - "Daniel 12:3"
+  - "Genèse 18:1-2"
+  - "Genèse 18:10"
+  - "Genèse 27:32-36"
+  - "Genèse 29:18"
+  - "Hébreux 12:15-17"
+  - "Jean 8:56"
+  - "Joël 1:1-7"
+  - "Joël 2:1-2"
+  - "Joël 2:15-16"
+  - "Joël 3:9-11"
+  - "Jérémie 18"
+  - "Jérémie 6:17-18"
+  - "Jérémie 6:18-19"
+  - "Luc 19:41-44"
+  - "Malachie 3:18"
+  - "Malachie 4"
+  - "Malachie 4:1-3"
+  - "Marc 13:12"
+  - "Marc 13:34-35"
+  - "Matthieu 13:39"
+  - "Matthieu 22:11-14"
+  - "Matthieu 24:31"
+  - "Matthieu 25:5-6"
+  - "Matthieu 25:8-9"
+  - "Michée 4:14"
+  - "Nombres 10:1-3"
+  - "Nombres 10:5-6"
+  - "Nombres 10:9"
+  - "Proverbes 1:20"
+  - "Psaumes 89"
+  - "Psaumes 89:16-17"
+  - "Romains 10:15"
+  - "Zacharie 14"
+  - "Zacharie 14:6-7"
+  - "Zacharie 14:7"
+  - "Ésaïe 11:11-12"
+  - "Ésaïe 18:1-3"
 ---
 ### Exhortation spéciale de Novembre 2024
 
@@ -275,17 +328,7 @@ Missionnaire**
 
 * * *
 
-[
-
-Le chant du coq et les sons de la grande trompette
-
-le-chant-du-coq-et-les-sons-de-la-grande-trompette\_exhortation-speciale-novembre-2024.pdf
-
-343 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/12/le-chant-du-coq-et-les-sons-de-la-grande-trompette_exhortation-speciale-novembre-2024.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/12/le-chant-du-coq-et-les-sons-de-la-grande-trompette_exhortation-speciale-novembre-2024.pdf)
 
 * * *
 

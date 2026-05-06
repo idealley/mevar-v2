@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf"
 source: "mevar"
 sermon_id: "face-a-face-avec-les-realites-de-la-foi"
 title: "Face à face avec les réalités de la foi"
@@ -15,6 +16,37 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fbc"
 uuid: "25d2d199-5e68-42b5-a8fd-dc4c01d2c5d0"
+stream_url: "https://mevar.org/face-a-face-avec-les-realites-de-la-foi/"
+bible_refs:
+  - "1 Corinthiens 10:1-6"
+  - "1 Corinthiens 3:16-17"
+  - "1 Corinthiens 6:19-20"
+  - "1 Samuel 27"
+  - "1 Samuel 27:1-3"
+  - "2 Corinthiens 6"
+  - "2 Thessaloniciens 2"
+  - "2 Thessaloniciens 2:1-9"
+  - "2 Timothée 1:15"
+  - "2 Timothée 2:17-18"
+  - "2 Timothée 3:12"
+  - "2 Timothée 4:10"
+  - "Apocalypse 17:5"
+  - "Apocalypse 6:7-8"
+  - "Genèse 41:41-45"
+  - "Hébreux 5:5-10"
+  - "Jean 10:31"
+  - "Jean 17:15-18"
+  - "Luc 17"
+  - "Luc 17:28"
+  - "Luc 17:32-34"
+  - "Marc 13"
+  - "Matthieu 11:4-5"
+  - "Matthieu 24:15"
+  - "Matthieu 25:5"
+  - "Matthieu 26:37-39"
+  - "Matthieu 27:50"
+  - "Matthieu 7:13-14"
+  - "Philippiens 4:11-12"
 ---
 ## Exhortation de fin Avril 2022
 
@@ -108,14 +140,4 @@ Mes bien-aimés frères et sœurs, nous faisons face à toutes les réalités de
 
 ### Télécharger le document
 
-[
-
-Face à face avec les réalités de la foi
-
-face\_a\_face\_avec\_les\_realite\_de\_la\_foi\_exhortation\_fin\_Avril\_2022.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf)

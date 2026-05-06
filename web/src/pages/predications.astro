@@ -1,0 +1,15 @@
+---
+import Layout from "../layouts/Layout.astro";
+import CategoryGrid from "../components/CategoryGrid.astro";
+import { worksByKind } from "$lib/works";
+
+const entries = await worksByKind("sermon");
+---
+
+<Layout title="Prédications — Mevar" description={`${entries.length} prédications dans la bibliothèque Mevar`}>
+  <CategoryGrid
+    title="Prédications"
+    description="Les prédications du Message du temps de la fin — sermons de William Branham, du frère M'BRA Parfait, et d'autres serviteurs de Dieu."
+    entries={entries}
+  />
+</Layout>

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf"
 source: "mevar"
 sermon_id: "les-liens-spirituels"
 title: "Les liens spirituels (1)"
@@ -18,6 +19,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f6b"
 uuid: "d37b7572-a224-4e0b-a5d6-44e0a5277964"
+stream_url: "https://mevar.org/les-liens-spirituels/"
+bible_refs:
+  - "Luc 13"
+  - "Luc 6"
 ---
 ## Première partie
 
@@ -117,14 +122,4 @@ Que Dieu nous bénisse et que sa grâce et sa paix soient sur nous. Qu’Il nous
 
 ### Télécharger le document
 
-[
-
-Les liens spirituels \[audio\] (1)
-
-les\_liens\_spirituels\_1\_et\_2-6\_avril\_2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf)

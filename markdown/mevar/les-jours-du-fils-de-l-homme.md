@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/les_jours_du_fils_de_l_home_26_11_2006.pdf"
 source: "mevar"
 sermon_id: "les-jours-du-fils-de-l-homme"
 title: "Les jours du fils de l'homme"
@@ -14,6 +15,23 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518edb"
 uuid: "23b2033a-8a36-4928-8528-c058bc558cdb"
+stream_url: "https://mevar.org/les-jours-du-fils-de-l-homme/"
+bible_refs:
+  - "Actes 13"
+  - "Apocalypse 18"
+  - "Apocalypse 2"
+  - "Apocalypse 3"
+  - "Apocalypse 7"
+  - "Exode 19"
+  - "Genèse 37"
+  - "Luc 17"
+  - "Marc 13"
+  - "Marc 13:34-37"
+  - "Zacharie 10"
+  - "Zacharie 14"
+  - "Ésaïe 30"
+  - "Ésaïe 33:13-14"
+  - "Ésaïe 42:18-19"
 ---
 Que notre Seigneur soit béni Amen… Aujourd’hui on a chanté longtemps, sinon j’aurais fini de prêcher depuis longtemps – vous n’auriez rien écouté ! Venez à l’heure quand on fixe une heure pour les réunions de prière. Il faut être à l’heure… c’est important frère, le retard n’est pas bon ! Si vous n’apprenez pas à être ponctuels dans votre vie chrétienne, je veux dire que si vous n’êtes pas ponctuel et qu’il n’y a pas de raison, c'est-à-dire que vous avez la possibilité de venir à l’heure et vous ne venez pas à l’heure, mais vous pouvez rater l’enlèvement… **parce que quand le fait de ne pas venir à l’heure est en toi, le jour où le Christ viendra, tu ne seras pas à l’heure, tu viendras en retard. Il faut qu’on apprenne à être à l’heure...**
 
@@ -179,14 +197,4 @@ Prière et chant : Jésus brisa mes chaînes… il me libéra… je chante allé
 
 ### Télécharger le document
 
-[
-
-Les jours du fils de l'homme
-
-les\_jours\_du\_fils\_de\_l\_home\_26\_11\_2006.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/les_jours_du_fils_de_l_home_26_11_2006.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_jours_du_fils_de_l_home_26_11_2006.pdf)

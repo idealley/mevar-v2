@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f90"
 uuid: "31571e18-e9e5-4116-840f-a6edc806f546"
+stream_url: "https://mevar.org/complots-contre-corinthe-les-complots-de-satain-6/"
 ---
 ## Les complots de Satan (6) - Le combat spirituel
 

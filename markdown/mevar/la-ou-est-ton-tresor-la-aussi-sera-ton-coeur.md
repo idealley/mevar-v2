@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/La_ou_est_ton_tresor_09-03-19.pdf"
 source: "mevar"
 sermon_id: "la-ou-est-ton-tresor-la-aussi-sera-ton-coeur"
 title: "Là où est ton trésor, là aussi sera ton cœur"
@@ -14,6 +15,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f3c"
 uuid: "801edf01-f54a-4be9-9bea-0a9f54fbbb9a"
+stream_url: "https://mevar.org/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur/"
+bible_refs:
+  - "Luc 13"
+  - "Malachie 4"
+  - "Matthieu 24:12"
 ---
 ## Première partie
 
@@ -138,14 +144,4 @@ Que Dieu nous bénisse. J’ai voulu compléter ce matin pour que cela reste dan
 
 ### Télécharger le document
 
-[
-
-Là où est ton trésor, là aussi sera ton cœur
-
-La\_ou\_est\_ton\_tresor\_09-03-19.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/La_ou_est_ton_tresor_09-03-19.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/La_ou_est_ton_tresor_09-03-19.pdf)

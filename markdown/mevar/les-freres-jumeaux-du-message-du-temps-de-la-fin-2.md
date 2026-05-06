@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/JUMEAUX%202.pdf"
 source: "mevar"
 sermon_id: "les-freres-jumeaux-du-message-du-temps-de-la-fin-2"
 title: "Les frères jumeaux du Message du Temps de la Fin (2)"
@@ -18,6 +19,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f73"
 uuid: "d048e412-53c3-4fce-97d4-5b4c3b71c445"
+stream_url: "https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-2/"
+bible_refs:
+  - "Lévitique 10"
+  - "Matthieu 24"
+  - "Matthieu 24:45"
+  - "Matthieu 25"
+  - "Éphésiens 4"
 ---
 ## Deuxième partie
 
@@ -138,14 +146,4 @@ Que Dieu nous bénisse, que sa grâce et sa paix soient sur nous. Je vous donne 
 
 ### Télécharger le document
 
-[
-
-Les frères jumeaux du Message du Temps de la Fin \[audio\] (2)
-
-JUMEAUX 2.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/JUMEAUX%202.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/JUMEAUX%202.pdf)

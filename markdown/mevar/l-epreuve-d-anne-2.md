@@ -18,6 +18,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f9f"
 uuid: "90d71f7e-718e-4493-9c58-e5e21cba3632"
+stream_url: "https://mevar.org/l-epreuve-d-anne-2/"
 ---
 ## Deuxième partie
 

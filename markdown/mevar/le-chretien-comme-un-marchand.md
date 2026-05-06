@@ -15,5 +15,6 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f7b"
 uuid: "c89132d8-9faa-45c8-845a-06df5710335b"
+stream_url: "https://mevar.org/le-chretien-comme-un-marchand/"
 ---
 

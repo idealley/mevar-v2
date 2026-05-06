@@ -15,6 +15,19 @@ authors:
   - "Parfait M'bra"
 ghost_id: "651be92530c1cf0001c92771"
 uuid: "32cf9ec3-0603-42c1-a978-1b4729114663"
+stream_url: "https://mevar.org/le-temoignage-final/"
+bible_refs:
+  - "1 Rois 17"
+  - "1 Rois 18"
+  - "1 Rois 18:20-40"
+  - "Amos 8:11"
+  - "Apocalypse 17"
+  - "Apocalypse 17:1-5"
+  - "Luc 1"
+  - "Malachie 4:5-6"
+  - "Matthieu 24"
+  - "Matthieu 24:11-14"
+  - "Matthieu 24:14"
 ---
 Ce matin, je voudrais parler du témoignage final. C’est un thème qui a sa base dans Matthieu 24 le verset 11. 
 

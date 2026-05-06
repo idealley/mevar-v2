@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/07/depart-a-la-maison-du-servirteur-fidele-et-prudent-exhortation_speciale_juin_2024_v2.pdf"
 source: "mevar"
 sermon_id: "le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit"
 title: "Le départ du serviteur fidèle et prudent à la maison et la dernière action de l'Esprit"
@@ -17,6 +18,58 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6683e5024c9dd40001d7e4fe"
 uuid: "70e7156c-a852-4260-af5d-4cb240503889"
+stream_url: "https://mevar.org/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit/"
+bible_refs:
+  - "1 Corinthiens 14:8"
+  - "1 Rois 19:15-16"
+  - "1 Rois 19:15-17"
+  - "1 Rois 19:19"
+  - "1 Thessaloniciens 4"
+  - "1 Thessaloniciens 4:16"
+  - "2 Rois 8:8-16"
+  - "2 Rois 9:1-6"
+  - "2 Timothée 2:20-21"
+  - "Actes 15:39"
+  - "Aggée 2:9"
+  - "Apocalypse 10:6-7"
+  - "Apocalypse 10:9-10"
+  - "Apocalypse 12"
+  - "Apocalypse 12:5"
+  - "Apocalypse 14"
+  - "Apocalypse 14:14-16"
+  - "Apocalypse 17"
+  - "Apocalypse 3"
+  - "Apocalypse 3:17"
+  - "Apocalypse 3:19"
+  - "Apocalypse 8:1"
+  - "Cantique des cantiques 2:11-14"
+  - "Deutéronome 34:7-8"
+  - "Genèse 18:1-2"
+  - "Jean 14:1-2"
+  - "Jean 2:10"
+  - "Josué 1:1-2"
+  - "Joël 1"
+  - "Joël 1:13-14"
+  - "Joël 1:2-4"
+  - "Joël 2"
+  - "Joël 2:12-14"
+  - "Joël 2:15"
+  - "Joël 2:15-17"
+  - "Joël 2:19"
+  - "Joël 2:24-31"
+  - "Jérémie 23:16-19"
+  - "Luc 12:49-50"
+  - "Malachie 4"
+  - "Malachie 4:1-3"
+  - "Matthieu 13"
+  - "Matthieu 13:39-42"
+  - "Matthieu 20:25-28"
+  - "Matthieu 24:14"
+  - "Matthieu 24:6"
+  - "Matthieu 25"
+  - "Matthieu 25:3"
+  - "Matthieu 25:5"
+  - "Matthieu 25:6"
 ---
 Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous. Je vous salue de la part du Seigneur Jésus-Christ notre Dieu, par cette Parole du prophète Ésaïe « **Consolez, consolez mon peuple, Dit votre Dieu**. » (Ésaïe 40:1), et aussi par celle du Seigneur à ses disciples au moment de la séparation. « **Que votre cœur ne se trouble point. Croyez en Dieu, et croyez en moi »** (Jean 14:1-2) C’est avec beaucoup d’émotion et de reconnaissance au Maître que nous avons tous appris la nouvelle du rappel à Dieu de notre bien-aimé frère Frank, **le samedi 8 juin 2024**, à l’âge de 90 ans. Nous sommes reconnaissants au Seigneur pour la vie de frère Frank et surtout pour la position qu’Il lui a donnée dans le royaume de Dieu durant toutes ces années. N’eût été sa présence et son travail acharné parmi nous qui avons reconnu son ministère, nous nous serions certainement égarés comme plusieurs avec ce beau message de la fin des temps.
 
@@ -322,17 +375,7 @@ C’est avec cette déclaration riche de sens du Seigneur Jésus-Christ que je v
 
 * * *
 
-[
-
-Départ du serviteur fidèle et prudent à la maison et la dernière action de l'Esp
-
-depart-a-la-maison-du-servirteur-fidele-et-prudent-exhortation\_speciale\_juin\_2024\_v2.pdf
-
-444 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/07/depart-a-la-maison-du-servirteur-fidele-et-prudent-exhortation_speciale_juin_2024_v2.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/07/depart-a-la-maison-du-servirteur-fidele-et-prudent-exhortation_speciale_juin_2024_v2.pdf)
 
 * * *
 

@@ -16,6 +16,17 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ffa"
 uuid: "4cdd69f3-3792-48f7-9eb2-ee98f18f47b9"
+stream_url: "https://mevar.org/la-chute-deutychus/"
+bible_refs:
+  - "1 Timothée 4:14-15"
+  - "2 Pierre 1:3-10"
+  - "Actes 20:6-12"
+  - "Hébreux 13:17-18"
+  - "Jacques 3:1"
+  - "Jean 6:51"
+  - "Matthieu 18:23"
+  - "Matthieu 25"
+  - "Matthieu 25:19"
 ---
 ## Exhortation de septembre 2011
 

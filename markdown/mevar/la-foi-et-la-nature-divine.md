@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_25_07_2015.pdf"
 source: "mevar"
 sermon_id: "la-foi-et-la-nature-divine"
 title: "La foi et la nature divine (1)"
@@ -17,6 +18,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f0c"
 uuid: "81fd3135-d4dd-4898-86fd-7f20021b163f"
+stream_url: "https://mevar.org/la-foi-et-la-nature-divine/"
+bible_refs:
+  - "Hébreux 11"
+  - "Josué 10"
 ---
 ## Première partie
 
@@ -136,14 +141,4 @@ Prions ensemble.
 
 ### Télécharger le document
 
-[
-
-La foi et la nature divine
-
-la\_foi\_et\_la\_nature\_divine\_25\_07\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_25_07_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_25_07_2015.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Jesus_et_Marie_21_mai_2018.pdf"
 source: "mevar"
 sermon_id: "jesus-et-marie"
 title: "Jésus et Marie"
@@ -16,6 +17,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f32"
 uuid: "567d2209-86da-4ec0-8750-f6c5592a1232"
+stream_url: "https://mevar.org/jesus-et-marie/"
+bible_refs:
+  - "Jacques 14"
+  - "Jean 19"
+  - "Luc 2"
+  - "Marc 6:3"
 ---
 Je voudrais parler de Marie. Pas de la vierge Marie des catholiques. Je voudrais parler de Marie, la servante du Seigneur. Marie la mère de Jésus. Je voudrais parler d’elle. Et en parlant d’elle, je veux m’appuyer sur tout ce qui s’est passé avec elle et aussi avec Jésus pour nous exhorter et pour nous encourager. Amen. **L’esprit de Dieu a attiré mon attention sur cette sœur, cette femme, et sur le comportement qu’elle a eu durant toute l’existence de son fils, de celui qui a été appelé son fils, qui est devenu par la suite son Seigneur, son maître, celui dont elle est devenue le disciple et qui, à la fin, est devenu son Dieu**. Amen.
 
@@ -121,14 +128,4 @@ Prions le Seigneur
 
 ### Télécharger le document
 
-[
-
-Jesus et Marie
-
-Jesus\_et\_Marie\_21\_mai\_2018.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Jesus_et_Marie_21_mai_2018.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Jesus_et_Marie_21_mai_2018.pdf)

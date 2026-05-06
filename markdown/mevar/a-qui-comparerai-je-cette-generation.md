@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_octobre_2015_a_qui_comparerai-je_cette_generation.pdf"
 source: "mevar"
 sermon_id: "a-qui-comparerai-je-cette-generation"
 title: "A qui comparerai-je cette génération?"
@@ -16,6 +17,32 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f11"
 uuid: "48d765b3-5f45-46fa-9d2b-dcb93c1c09d2"
+stream_url: "https://mevar.org/a-qui-comparerai-je-cette-generation/"
+bible_refs:
+  - "1 Jean 4"
+  - "1 Timothée 4"
+  - "2 Pierre 2"
+  - "2 Thessaloniciens 2"
+  - "2 Thessaloniciens 2:9"
+  - "2 Timothée 3"
+  - "Amos 8:11"
+  - "Apocalypse 6"
+  - "Deutéronome 5:33"
+  - "Jean 3"
+  - "Lamentations 2:14"
+  - "Luc 12"
+  - "Luc 12:42"
+  - "Luc 12:47-48"
+  - "Luc 17"
+  - "Luc 21"
+  - "Marc 13"
+  - "Matthieu 11:21-24"
+  - "Matthieu 24"
+  - "Matthieu 24:24"
+  - "Matthieu 24:45"
+  - "Matthieu 7:6"
+  - "Psaumes 25:4"
+  - "Ésaïe 55:8-9"
 ---
 ## vExhortation d'octobre 2015
 
@@ -113,14 +140,4 @@ Mes bien-aimés frères et sœurs, à qui est-ce que Jésus peut-Il comparer les
 
 ### Télécharger le document
 
-[
-
-A qui comparerai-je cette génération?
-
-exhortation\_de\_octobre\_2015\_a\_qui\_comparerai-je\_cette\_generation.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_octobre_2015_a_qui_comparerai-je_cette_generation.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_octobre_2015_a_qui_comparerai-je_cette_generation.pdf)

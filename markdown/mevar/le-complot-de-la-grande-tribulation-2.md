@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f96"
 uuid: "635c37d0-3c62-4fd5-a65b-2fd4f79485f2"
+stream_url: "https://mevar.org/le-complot-de-la-grande-tribulation-2/"
 ---
 ## Deuxième partie - Les complots de Satan (13)
 

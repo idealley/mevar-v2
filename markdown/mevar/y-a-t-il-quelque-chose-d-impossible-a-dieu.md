@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Quelque_chose_d_impossible_a_Dieu-11-10-2020.pdf"
 source: "mevar"
 sermon_id: "y-a-t-il-quelque-chose-d-impossible-a-dieu"
 title: "Y a-t-il quelque chose d'Impossible à Dieu?"
@@ -17,6 +18,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f98"
 uuid: "93b17ee8-26c2-479d-a7b8-079aff4f3005"
+stream_url: "https://mevar.org/y-a-t-il-quelque-chose-d-impossible-a-dieu/"
+bible_refs:
+  - "Genèse 15"
+  - "Genèse 17"
 ---
 ## La foi
 
@@ -172,14 +177,4 @@ Que le nom du Seigneur soit béni et que sa grâce et sa paix soient sur nous.
 
 ### Télécharger le document
 
-[
-
-Y a-t-il quelque chose d'Impossible à Dieu?
-
-Quelque\_chose\_d\_impossible\_a\_Dieu-11-10-2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Quelque_chose_d_impossible_a_Dieu-11-10-2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Quelque_chose_d_impossible_a_Dieu-11-10-2020.pdf)

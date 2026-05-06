@@ -17,6 +17,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fea"
 uuid: "3c9275ab-7374-463b-a8a0-7c55ad8aa2db"
+stream_url: "https://mevar.org/appel-a-la-guerre-appel-au-combat-contre-babylone/"
+bible_refs:
+  - "Exode 5:5-9"
+  - "Luc 21:34-36"
+  - "Matthieu 6:24"
+  - "Matthieu 6:25-34"
 ---
 ## Exhortation de décembre 2007
 

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/l_appel_de_1933_21_06_2015.pdf"
 source: "mevar"
 sermon_id: "l-appel-de-1933"
 title: "L' Appel de 1933"
@@ -14,6 +15,21 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f0a"
 uuid: "e7fc7399-b2a1-485b-bf69-d293224402ea"
+stream_url: "https://mevar.org/l-appel-de-1933/"
+bible_refs:
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 12"
+  - "Apocalypse 19"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14-22"
+  - "Apocalypse 6"
+  - "Luc 1:15"
+  - "Luc 21"
+  - "Luc 4:23"
+  - "Marc 13"
+  - "Marc 13:35"
+  - "Matthieu 25"
+  - "Psaumes 90:10"
 ---
 On aura un moment de prière mercredi et jeudi, et le vendredi, on aura une veillée. Nous faisons notre travail et en tant que Pasteur, c’est notre travail de convoquer souvent l’église à des moments de prière et de jeûne ; à des moments de combats spirituels. Amen ! Mais dans une église, chacun de nous doit être responsable de sa foi et c’est ce qui fait la liberté en Jésus-Christ. Dans la religion, on donne des directives et on tient à ce que les gens obéissent. On les maintient dans une sorte de domination, de servitude, mais ça, ce n’est pas la vie chrétienne. **Le principe qui fonde la foi chrétienne, c’est la liberté et ce n’est pas n’importe quelle liberté, c’est la liberté du Saint-Esprit.** Amen ! Ce qui veut dire que chacun de nous doit parvenir à se laisser conduire par l’Esprit de Dieu. Et quand Dieu te conduit, tu es un homme libre. Comprenez-vous ? Si l’Esprit de Dieu te conduit, tu es un homme libre, parce que l’Esprit de Dieu est venu pour habiter en nous.
 
@@ -181,16 +197,6 @@ C’est toujours comme ça. Est-ce que vous comprenez ? Alors, celui qui pense q
 
 ### Télécharger le document
 
-[
-
-L' Appel de 1933
-
-l\_appel\_de\_1933\_21\_06\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/l_appel_de_1933_21_06_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_appel_de_1933_21_06_2015.pdf)
 
 [Médecin, guéris-toi toi-mêmeC’est un sujet pour poursuivre un peu tout ce dont nous avons parlé dimanche passé. Amen ! Nous lisons dans Luc 4:23. Jésus leur dit : sans doute vous m’appliquerez ce proverbe : Médecin guéris-toi toi-même ; et vous me direz : fais ici dans ta patrie, tout ce que nous avonsMEVARParfait M’bra](https://mevar.org/medecin-gueris-toi-toi-meme/)[Ébranlez les prisons !Alléluia ! [Ass : Amen ! Réd.] Que Le Nom du Seigneur soit béni ! Nous allons prier. Seigneur notre Dieu, que Ton Nom soit béni, que Ton Nom soit glorifié ce matin. Nous Te sommes reconnaissants parce que Tu nous a rassemblés pour T’adorer et Te magnifier. Et ce matin, c’estMEVARParfait M’bra](https://mevar.org/ebranlez-les-prisons/)

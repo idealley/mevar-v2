@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_restitution_31_05_2015.pdf"
 source: "mevar"
 sermon_id: "la-restitution"
 title: "La restitution"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f03"
 uuid: "e2738d76-860d-4dea-a33e-9085a9259407"
+stream_url: "https://mevar.org/la-restitution/"
+bible_refs:
+  - "Apocalypse 6"
+  - "Joël 1:1-15"
 ---
 Nous allons lire dans le livre de Joël, au premier chapitre. _La parole de l’Eternel qui fut adressée à Joël, fils de Pethuel. 2 Ecoutez ceci, vieillards ! Prêtez l’oreille, vous tous, habitants du pays ! Rien de pareil est-il arrivé de votre temps, Ou du temps de vos pères ? 3 Racontez-le à vos enfants, Et que vos enfants le racontent à leurs enfants, Et leurs enfants à la génération qui suivra ! 4 Ce qu’a laissé le gazam, la sauterelle l’a dévoré ; Ce qu’a laissé la sauterelle, le jélek l’a dévoré ; Ce qu’a laissé le jélek, le hasil l’a dévoré._
 
@@ -137,14 +142,4 @@ Tu cris Jésus, Jésus, Jésus et puis quand tu regardes souvent les choses qui 
 
 ### Télécharger le document
 
-[
-
-La restitution
-
-la\_restitution\_31\_05\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_restitution_31_05_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_restitution_31_05_2015.pdf)

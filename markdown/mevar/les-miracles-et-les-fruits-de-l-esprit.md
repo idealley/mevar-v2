@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
 source: "mevar"
 sermon_id: "les-miracles-et-les-fruits-de-l-esprit"
 title: "Les miracles et les fruits de l’Esprit"
@@ -14,6 +15,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518faf"
 uuid: "a466e196-50d7-4748-87a0-1b108257bd66"
+stream_url: "https://mevar.org/les-miracles-et-les-fruits-de-l-esprit/"
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "2 Pierre 1"
+  - "Apocalypse 3"
+  - "Galates 5:22"
 ---
 On va lire Mathieu chapitre 7 à partir du verset 15 :
 
@@ -165,14 +173,4 @@ Ce qu’on va présenter à Dieu, ce ne sont pas les miracles, ni les prophétie
 
 ### Télécharger le document
 
-[
-
-Les miracles et les fruits de l’Esprit
-
-Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf)

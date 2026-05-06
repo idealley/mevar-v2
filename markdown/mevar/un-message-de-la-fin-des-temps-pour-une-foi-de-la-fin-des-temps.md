@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_mi_aout_2016_un_message_de_la_fin_des_temps_pour_une_foi_de_la_fin_des_temps.pdf"
 source: "mevar"
 sermon_id: "un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps"
 title: "Un message de la fin des temps pour une foi de la fin des temps"
@@ -14,6 +15,29 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f1b"
 uuid: "a32a04b4-e919-46f9-bb29-cd0bc51994a6"
+stream_url: "https://mevar.org/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps/"
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 2"
+  - "1 Corinthiens 2:15-16"
+  - "1 Timothée 4:7-8"
+  - "2 Pierre 1"
+  - "2 Pierre 1:2-9"
+  - "Jean 10:15-16"
+  - "Joël 1:1-2"
+  - "Jérémie 1:2"
+  - "Luc 18:8"
+  - "Matthieu 15:24-28"
+  - "Matthieu 15:28"
+  - "Matthieu 21"
+  - "Matthieu 21:40-46"
+  - "Matthieu 8:10"
+  - "Matthieu 8:11-12"
+  - "Osée 1:1"
+  - "Romains 10"
+  - "Romains 10:14-15"
+  - "Romains 10:16-17"
+  - "Éphésiens 5:27"
 ---
 ## Exhortation de mi août 2016
 
@@ -119,14 +143,4 @@ Mes chers amis, que la grâce et la paix de notre Seigneur Jésus-Christ soient 
 
 ### Télécharger le document
 
-[
-
-Un message de la fin des temps pour une foi de la fin des temps
-
-exhortation\_mi\_aout\_2016\_un\_message\_de\_la\_fin\_des\_temps\_pour\_une\_foi\_de\_la\_fin\_des\_temps.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_mi_aout_2016_un_message_de_la_fin_des_temps_pour_une_foi_de_la_fin_des_temps.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_mi_aout_2016_un_message_de_la_fin_des_temps_pour_une_foi_de_la_fin_des_temps.pdf)

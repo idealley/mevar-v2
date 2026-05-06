@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_septieme_sceau_premiere_partie_6_09_2019.pdf"
 source: "mevar"
 sermon_id: "le-septieme-sceau"
 title: "Le septième sceau"
@@ -17,6 +18,39 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f48"
 uuid: "b1f22a90-3da5-422f-8d93-2218c24cf12e"
+stream_url: "https://mevar.org/le-septieme-sceau/"
+bible_refs:
+  - "1 Thessaloniciens 4"
+  - "Actes 19"
+  - "Apocalypse 10"
+  - "Apocalypse 11"
+  - "Apocalypse 11:15"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 13:11"
+  - "Apocalypse 13:3"
+  - "Apocalypse 13:5"
+  - "Apocalypse 17"
+  - "Apocalypse 17:9-11"
+  - "Apocalypse 20"
+  - "Apocalypse 3"
+  - "Apocalypse 6"
+  - "Apocalypse 8"
+  - "Apocalypse 8:1-13"
+  - "Apocalypse 9"
+  - "Apocalypse 9:1-21"
+  - "Exode 4:22"
+  - "Malachie 4"
+  - "Matthieu 13"
+  - "Matthieu 23"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Matthieu 25:6"
+  - "Matthieu 2:15"
+  - "Osée 11:1"
+  - "Osée 11:1-2"
+  - "Ésaïe 13"
+  - "Ézéchiel 38"
 ---
 ## Première partie
 
@@ -210,14 +244,4 @@ Nous devons comprendre que la situation de l’Église a évolué et va continue
 
 ### Télécharger le document
 
-[
-
-Le septième sceau
-
-le\_septieme\_sceau\_premiere\_partie\_6\_09\_2019.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_septieme_sceau_premiere_partie_6_09_2019.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_septieme_sceau_premiere_partie_6_09_2019.pdf)

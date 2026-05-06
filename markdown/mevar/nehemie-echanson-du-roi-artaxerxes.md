@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2015_nehemie_echanson_du_roi_artaxerxes.pdf"
 source: "mevar"
 sermon_id: "nehemie-echanson-du-roi-artaxerxes"
 title: "Néhémie - Echanson du Roi Artaxerxés"
@@ -14,6 +15,26 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f01"
 uuid: "8a82c790-8130-4e5e-8001-75febf758afa"
+stream_url: "https://mevar.org/nehemie-echanson-du-roi-artaxerxes/"
+bible_refs:
+  - "1 Corinthiens 7:35"
+  - "2 Corinthiens 11:27"
+  - "2 Corinthiens 6:5"
+  - "2 Timothée 2:3-4"
+  - "Actes 13:1-4"
+  - "Actes 14:23"
+  - "Apocalypse 10:9-11"
+  - "Colossiens 4:2"
+  - "Ecclésiaste 10:19"
+  - "Josué 2:8-11"
+  - "Joël 2:25-28"
+  - "Jérémie 29:10-14"
+  - "Malachie 3:16-18"
+  - "Matthieu 26"
+  - "Matthieu 26:29"
+  - "Nombres 17"
+  - "Néhémie 1:1-8"
+  - "Psaumes 104:15"
 ---
 ## Exhortation de fin février 2015
 
@@ -121,14 +142,4 @@ Mes frères et sœurs, la foi de Rahab avait franchi la muraille de Jéricho. C�
 
 ### Télécharger le document
 
-[
-
-Néhémie - Echanson du Roi Artaxerxés
-
-exhortation\_fin\_fevrier\_2015\_nehemie\_echanson\_du\_roi\_artaxerxes.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2015_nehemie_echanson_du_roi_artaxerxes.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2015_nehemie_echanson_du_roi_artaxerxes.pdf)

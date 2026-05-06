@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
 source: "mevar"
 sermon_id: "le-sermon-sur-la-montagne-matthieu-5-17-24"
 title: "Le sermon sur la montagne (3)"
@@ -18,6 +19,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f69"
 uuid: "406e5c1d-5936-4b24-a765-e1ee4276d779"
+stream_url: "https://mevar.org/le-sermon-sur-la-montagne-matthieu-5-17-24/"
+bible_refs:
+  - "Actes 3"
+  - "Deutéronome 18"
+  - "Jean 1"
+  - "Marc 12"
+  - "Matthieu 5"
+  - "Matthieu 5:17-24"
+  - "Romains 3"
+  - "Ézéchiel 36"
 ---
 ## Troisième Partie
 
@@ -120,14 +131,4 @@ Que Dieu nous bénisse, que sa paix et sa grâce soient sur nous et qu’il nous
 
 ### Télécharger le document
 
-[
-
-Le sermon sur la montagne \[audio\] (3)
-
-etude\_biblique\_le\_sermon\_sur\_la\_montagne\_3\_et\_4-3\_avril\_2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
 source: "mevar"
 sermon_id: "le-sermon-sur-la-montagne-4"
 title: "Le Sermon sur la Montagne (4)"
@@ -18,6 +19,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f6a"
 uuid: "f8aa068b-27b5-496a-990a-2781b1a68ea8"
+stream_url: "https://mevar.org/le-sermon-sur-la-montagne-4/"
+bible_refs:
+  - "1 Corinthiens 7"
+  - "Actes 21"
+  - "Galates 5"
+  - "Genèse 49"
+  - "Hébreux 7"
+  - "Matthieu 5"
+  - "Matthieu 9"
+  - "Romains 2"
 ---
 ## Quatrième partie
 
@@ -147,14 +158,4 @@ Que Dieu vous bénisse, que sa grâce et sa paix soient sur vous et que le confi
 
 ### Télécharger le document
 
-[
-
-Le Sermon sur la Montagne \[audio\] (4)
-
-etude\_biblique\_le\_sermon\_sur\_la\_montagne\_3\_et\_4-3\_avril\_2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf)

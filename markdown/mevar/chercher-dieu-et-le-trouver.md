@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf"
 source: "mevar"
 sermon_id: "chercher-dieu-et-le-trouver"
 title: "Chercher Dieu et le trouver!"
@@ -14,6 +15,24 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fb7"
 uuid: "6da11c29-837d-49eb-8c2f-adc0921cba53"
+stream_url: "https://mevar.org/chercher-dieu-et-le-trouver/"
+bible_refs:
+  - "1 Chroniques 21"
+  - "1 Chroniques 21:10-12"
+  - "1 Chroniques 28:9"
+  - "1 Corinthiens 1:5-8"
+  - "1 Corinthiens 3:16,1"
+  - "2 Timothée 4:14"
+  - "Actes 12:23"
+  - "Actes 13:49-51"
+  - "Actes 13:6-8"
+  - "Marc 16"
+  - "Marc 16:15"
+  - "Matthieu 10"
+  - "Matthieu 10:14-15"
+  - "Matthieu 10:21-22"
+  - "Matthieu 22"
+  - "Matthieu 22:14"
 ---
 ## Exhortation de Février 2022
 
@@ -91,14 +110,4 @@ La vérité est que le chrétien est protégé contre les puissances des ténèb
 
 ### Télécharger le document
 
-[
-
-Chercher Dieu et le trouver!
-
-exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf)

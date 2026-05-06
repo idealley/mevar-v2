@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_octobre_2017_les_coeurs_durs.pdf"
 source: "mevar"
 sermon_id: "les-coeurs-durs"
 title: "Les coeurs durs"
@@ -14,6 +15,37 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f2c"
 uuid: "1ebcb221-8c4b-4293-a026-b5c760ba525f"
+stream_url: "https://mevar.org/les-coeurs-durs/"
+bible_refs:
+  - "1 Corinthiens 7"
+  - "1 Jean 4:8"
+  - "1 Jean 5:19"
+  - "1 Timothée 1:12-14"
+  - "2 Corinthiens 6"
+  - "Actes 17:30"
+  - "Actes 7:60"
+  - "Colossiens 3:1-2"
+  - "Colossiens 3:13"
+  - "Deutéronome 24:1-2"
+  - "Esdras 10"
+  - "Jacques 1:20"
+  - "Jean 3:3-7"
+  - "Jean 8"
+  - "Luc 17:12-18"
+  - "Luc 23:34"
+  - "Luc 6:36"
+  - "Matthieu 10:34-36"
+  - "Matthieu 11:29"
+  - "Matthieu 19"
+  - "Matthieu 1:19"
+  - "Matthieu 5:7"
+  - "Matthieu 9:13"
+  - "Romains 12:18"
+  - "Romains 7:12-14"
+  - "Romains 7:14"
+  - "Romains 8:31-32"
+  - "Romains 8:35"
+  - "Ézéchiel 36:24-26"
 ---
 ## Exhortation d'octobre 2017
 
@@ -147,14 +179,4 @@ Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et
 
 ### Télécharger le document
 
-[
-
-Les coeurs durs
-
-exhortation\_octobre\_2017\_les\_coeurs\_durs.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_octobre_2017_les_coeurs_durs.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_octobre_2017_les_coeurs_durs.pdf)

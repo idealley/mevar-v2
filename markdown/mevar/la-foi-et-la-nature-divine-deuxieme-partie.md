@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_suite_26_07_2015.pdf"
 source: "mevar"
 sermon_id: "la-foi-et-la-nature-divine-deuxieme-partie"
 title: "La foi et la nature divine (2)"
@@ -17,6 +18,17 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f0d"
 uuid: "9ef40a72-0ec3-4c6d-957b-d2cd9ddfbfeb"
+stream_url: "https://mevar.org/la-foi-et-la-nature-divine-deuxieme-partie/"
+bible_refs:
+  - "1 Corinthiens 3"
+  - "1 Corinthiens 3:21-23"
+  - "1 Jean 2"
+  - "1 Pierre 1"
+  - "2 Pierre 1"
+  - "Esther 1"
+  - "Hébreux 13"
+  - "Proverbes 16"
+  - "Psaumes 82"
 ---
 ## Deuxième partie
 
@@ -140,14 +152,4 @@ Que Dieu nous bénisse. On va se remettre entre les mains du Seigneur.
 
 ### Télécharger le document
 
-[
-
-La foi et la nature divine
-
-la\_foi\_et\_la\_nature\_divine\_suite\_26\_07\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_suite_26_07_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_suite_26_07_2015.pdf)

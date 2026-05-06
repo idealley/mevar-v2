@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_juillet_2014_le_depart_du_dioscures.pdf"
 source: "mevar"
 sermon_id: "le-depart-du-dioscures"
 title: "Le départ du Dioscures"
@@ -14,6 +15,42 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518efa"
 uuid: "825310b1-57bd-4e44-a3b8-7ddad7a3e346"
+stream_url: "https://mevar.org/le-depart-du-dioscures/"
+bible_refs:
+  - "1 Corinthiens 1"
+  - "1 Corinthiens 15"
+  - "1 Jean 3"
+  - "1 Jean 5"
+  - "1 Timothée 3:16"
+  - "2 Corinthiens 4:5"
+  - "Actes 27:1-2"
+  - "Apocalypse 4"
+  - "Cantique des cantiques 2:11-14"
+  - "Colossiens 1"
+  - "Hébreux 1"
+  - "Hébreux 2"
+  - "Jean 11"
+  - "Jean 12"
+  - "Jean 14:8-9"
+  - "Jean 17"
+  - "Jean 17:24"
+  - "Jean 17:6"
+  - "Jean 1:18"
+  - "Jean 2:19"
+  - "Jean 4"
+  - "Jean 4:2"
+  - "Jean 5"
+  - "Jean 8"
+  - "Luc 11:29-30"
+  - "Marc 1:10,11"
+  - "Michée 7"
+  - "Osée 6:3"
+  - "Philippiens 2"
+  - "Philippiens 2:9-11"
+  - "Romains 8"
+  - "Zacharie 10:1"
+  - "Ésaïe 46:10"
+  - "Ésaïe 53"
 ---
 ## Exhortation de juillet 2014
 
@@ -153,14 +190,4 @@ Alors mes bien-aimés, qu’en est-il de notre piété ? Qu’en est-il de notre
 
 ### Télécharger le document
 
-[
-
-Le départ du Dioscures
-
-exhortation\_de\_juillet\_2014\_le\_depart\_du\_dioscures.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_juillet_2014_le_depart_du_dioscures.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_juillet_2014_le_depart_du_dioscures.pdf)

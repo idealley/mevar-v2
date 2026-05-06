@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_deuxieme_partie_30_08_2015.pdf"
 source: "mevar"
 sermon_id: "ceux-de-la-grande-tribulation-deuxieme-partie"
 title: "Ceux de la grande tribulation (2)"
@@ -14,6 +15,20 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f0f"
 uuid: "89a05957-6172-48ad-840e-cb6878ed3557"
+stream_url: "https://mevar.org/ceux-de-la-grande-tribulation-deuxieme-partie/"
+bible_refs:
+  - "1 Corinthiens 14:29"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 14"
+  - "Apocalypse 17"
+  - "Apocalypse 17:1"
+  - "Apocalypse 7"
+  - "Genèse 6"
+  - "Luc 21:28"
+  - "Éphésiens 2:20"
+  - "Ésaïe 18"
+  - "Ésaïe 27"
 ---
 ## Deuxième partie
 
@@ -204,14 +219,4 @@ En approchant du nouveau millénaire, tous les signes nous montrent que le retou
 
 ### Télécharger le document
 
-[
-
-Ceux de la grande tribulation
-
-ceux\_de\_la\_grande\_tribulation\_deuxieme\_partie\_30\_08\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_deuxieme_partie_30_08_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_deuxieme_partie_30_08_2015.pdf)

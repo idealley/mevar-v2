@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf"
 source: "mevar"
 sermon_id: "les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie"
 title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu (1)"
@@ -18,6 +19,25 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f50"
 uuid: "7c6af23e-e65a-4ef3-b3ae-2e57c4a0b275"
+stream_url: "https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie/"
+bible_refs:
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 14"
+  - "2 Timothée 2:21"
+  - "Actes 11:27"
+  - "Actes 13"
+  - "Actes 15"
+  - "Actes 21:9"
+  - "Actes 5"
+  - "Marc 16"
+  - "Matthieu 13:58"
+  - "Éphésiens 4"
+  - "Éphésiens 4:11"
+  - "Ésaïe 35"
 ---
 ## Première Partie
 
@@ -191,14 +211,4 @@ Tout cela fait que, les signes au milieu de nous, ce n’est pas facile parce qu
 
 ### Télécharger le document
 
-[
-
-Les signes d’un Ministère ou d’une œuvre authentique de Dieu
-
-1\_signes\_d\_un\_ministere\_authentique\_de\_dieu\_08\_11\_2019.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf)

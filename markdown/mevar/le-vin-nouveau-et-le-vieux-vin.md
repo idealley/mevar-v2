@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_07_2018_le_vin_nouveau_et_le_vieux_vin.pdf"
 source: "mevar"
 sermon_id: "le-vin-nouveau-et-le-vieux-vin"
 title: "Le vin nouveau et le vieux vin"
@@ -14,6 +15,39 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f34"
 uuid: "156b0456-409d-4ec3-ad8c-cc868d63b27f"
+stream_url: "https://mevar.org/le-vin-nouveau-et-le-vieux-vin/"
+bible_refs:
+  - "1 Corinthiens 3:16"
+  - "1 Corinthiens 6:19"
+  - "1 Corinthiens 6:20"
+  - "1 Jean 2:28"
+  - "1 Jean 4:4"
+  - "1 Jean 5:4"
+  - "1 Thessaloniciens 5:23"
+  - "2 Corinthiens 5:20"
+  - "2 Pierre 2:7"
+  - "2 Pierre 2:7-10"
+  - "Amos 8:11"
+  - "Apocalypse 3:21"
+  - "Colossiens 2:9"
+  - "Exode 3:14"
+  - "Genèse 18:20-21"
+  - "Genèse 19:13"
+  - "Genèse 6"
+  - "Genèse 6:5-6"
+  - "Jean 14:17"
+  - "Jean 14:20"
+  - "Jean 16:33"
+  - "Luc 17"
+  - "Luc 4"
+  - "Luc 4:18-19"
+  - "Luc 5:37-39"
+  - "Malachie 6"
+  - "Marc 2:21"
+  - "Marc 9:7"
+  - "Matthieu 25"
+  - "Matthieu 5:18"
+  - "Philippiens 2:5-9"
 ---
 ## Exhortation de juillet 2018
 
@@ -119,14 +153,4 @@ Comme dans les âges passés, le diable ne voudra pas que ce fruit soit manifest
 
 ### Télécharger le document
 
-[
-
-Le vin nouveau et le vieux vin
-
-exhortation\_07\_2018\_le\_vin\_nouveau\_et\_le\_vieux\_vin.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_07_2018_le_vin_nouveau_et_le_vieux_vin.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_07_2018_le_vin_nouveau_et_le_vieux_vin.pdf)

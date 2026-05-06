@@ -12,6 +12,12 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518fc4"
 uuid: "f72cefda-2199-4bc7-82db-af4ef5ef4450"
+stream_url: "https://mevar.org/courage-soldat-de-christ/"
+bible_refs:
+  - "Apocalypse 14:8"
+  - "Apocalypse 18:1-3"
+  - "Apocalypse 18:2"
+  - "Ésaïe 21:9"
 ---
 ### Appel à la guerre – appel au combat contre Babylone
 

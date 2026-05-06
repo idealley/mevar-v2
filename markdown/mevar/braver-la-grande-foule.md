@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_septembre_2019_braver_la_grande_foule.pdf"
 source: "mevar"
 sermon_id: "braver-la-grande-foule"
 title: "Braver la Grande Foule"
@@ -14,6 +15,18 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f52"
 uuid: "0365b5df-8782-46f1-87ea-2d7f2a2077d1"
+stream_url: "https://mevar.org/braver-la-grande-foule/"
+bible_refs:
+  - "1 Corinthiens 10:29"
+  - "2 Timothée 3:4"
+  - "Jean 16:33"
+  - "Luc 18:35"
+  - "Luc 5"
+  - "Marc 5"
+  - "Marc 5:27-28"
+  - "Matthieu 15"
+  - "Matthieu 9:18-26"
+  - "Psaumes 42:1"
 ---
 ## Exhortation de Septembre 2019
 
@@ -91,14 +104,4 @@ Mes chers amis, qu’en est-il de nous ? Qu’en est-il ne notre foi ? **Marchon
 
 ### Télécharger le document
 
-[
-
-Braver la Grande Foule
-
-exhortation\_septembre\_2019\_braver\_la\_grande\_foule.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_septembre_2019_braver_la_grande_foule.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_septembre_2019_braver_la_grande_foule.pdf)

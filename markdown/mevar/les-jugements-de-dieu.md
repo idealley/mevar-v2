@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/jugements_de_dieu_22_aout_2020.pdf"
 source: "mevar"
 sermon_id: "les-jugements-de-dieu"
 title: "Les jugements de Dieu"
@@ -15,6 +16,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f99"
 uuid: "0f88ecef-a6cd-4cbb-9b7f-09e1fdd76b43"
+stream_url: "https://mevar.org/les-jugements-de-dieu/"
+bible_refs:
+  - "Apocalypse 18"
+  - "Apocalypse 19"
+  - "Psaumes 68"
+  - "Ésaïe 27"
+  - "Ézéchiel 26:27"
 ---
 ## Première partie
 
@@ -171,14 +179,4 @@ Vous voyez ! Dieu a fait pousser ce ricin en un jour, en une nuit. C’est du ja
 
 ### Télécharger le document
 
-[
-
-Les jugements de Dieu
-
-jugements\_de\_dieu\_22\_aout\_2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/jugements_de_dieu_22_aout_2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/jugements_de_dieu_22_aout_2020.pdf)

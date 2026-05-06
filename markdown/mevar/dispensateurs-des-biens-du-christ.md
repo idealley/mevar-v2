@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/dispensateurs_des_biens_de_christ_11_02_2016.pdf"
 source: "mevar"
 sermon_id: "dispensateurs-des-biens-du-christ"
 title: "Dispensateurs des biens du Christ"
@@ -16,6 +17,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f16"
 uuid: "8899b202-8bdb-4420-8dc3-3b07ee714a56"
+stream_url: "https://mevar.org/dispensateurs-des-biens-du-christ/"
+bible_refs:
+  - "1 Corinthiens 4:1"
+  - "1 Pierre 4:9"
+  - "Luc 16"
 ---
 Nous lisons dans Luc 16 à partir du premier verset.
 
@@ -105,14 +111,4 @@ Mais quand ça murmure, est-ce que ça c’est bon ? Ce n’est pas bon ! Et il 
 
 ### Télécharger le document
 
-[
-
-Dispensateurs des biens du Christ
-
-dispensateurs\_des\_biens\_de\_christ\_11\_02\_2016.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/dispensateurs_des_biens_de_christ_11_02_2016.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/dispensateurs_des_biens_de_christ_11_02_2016.pdf)

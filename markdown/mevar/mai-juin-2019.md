@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/sujets_de_priere_fin_mai_juin_2019.pdf"
 source: "mevar"
 sermon_id: "mai-juin-2019"
 title: "Mai - Juin 2019"
@@ -14,6 +15,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f3e"
 uuid: "feac8218-8c19-4f85-8e97-0c8e5fbd0956"
+stream_url: "https://mevar.org/mai-juin-2019/"
 ---
 ## Sujets de prière
 
@@ -31,14 +33,4 @@ Nous aurons notre moment de prière du **27 au 31 Mai 2019**. Que notre Dieu soi
 
 ### Télécharger le document
 
-[
-
-Mai - Juin 2019
-
-sujets\_de\_priere\_fin\_mai\_juin\_2019.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/sujets_de_priere_fin_mai_juin_2019.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/sujets_de_priere_fin_mai_juin_2019.pdf)

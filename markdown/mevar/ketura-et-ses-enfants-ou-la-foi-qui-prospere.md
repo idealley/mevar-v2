@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/07/6_KETURA-ET-SES-ENFANTS-OU-LA-FOI-QUI-PROSPRE_18-02-24--1-.pdf"
 source: "mevar"
 sermon_id: "ketura-et-ses-enfants-ou-la-foi-qui-prospere"
 title: "Kétura et ses enfants ou la foi qui prospère"
@@ -18,6 +19,9 @@ authors:
   - "Parfait M'bra"
 ghost_id: "686834d6c4b0450001ca2337"
 uuid: "e6a56cab-3714-4030-a3d3-7f06ca1c0870"
+stream_url: "https://mevar.org/ketura-et-ses-enfants-ou-la-foi-qui-prospere/"
+bible_refs:
+  - "Marc 11"
 ---
 Nous allons lire dans Genèse chapitre 25 :
 
@@ -89,17 +93,7 @@ Que le Nom du Seigneur soit béni. Nous allons nous remettre entre les mains du 
 
 * * *
 
-[
-
-6\_KETURA ET SES ENFANTS OU LA FOI QUI PROSPRE\_18-02-24
-
-6\_KETURA ET SES ENFANTS OU LA FOI QUI PROSPRE\_18-02-24 (1).pdf
-
-179 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/07/6_KETURA-ET-SES-ENFANTS-OU-LA-FOI-QUI-PROSPRE_18-02-24--1-.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/07/6_KETURA-ET-SES-ENFANTS-OU-LA-FOI-QUI-PROSPRE_18-02-24--1-.pdf)
 
 * * *
 

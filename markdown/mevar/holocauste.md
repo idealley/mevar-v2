@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_2021.pdf"
 source: "mevar"
 sermon_id: "holocauste"
 title: "Holocauste"
@@ -16,6 +17,19 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fa7"
 uuid: "dae8a9ac-2e0a-41f5-a70a-0284bddbbff4"
+stream_url: "https://mevar.org/holocauste/"
+bible_refs:
+  - "Apocalypse 17:5"
+  - "Daniel 3:28-29"
+  - "Jean 14:15"
+  - "Jean 15:10"
+  - "Job 38:1-3"
+  - "Luc 18:8"
+  - "Lévitique 22:18-20"
+  - "Malachie 1:7-8"
+  - "Matthieu 22:36-37"
+  - "Matthieu 24:12"
+  - "Matthieu 24:5"
 ---
 ## Exhortation de Mars 2021
 
@@ -67,14 +81,4 @@ De plus en plus, le premier commandement prend de la place dans mes pensées et 
 
 ### Télécharger le document
 
-[
-
-Holocauste
-
-holocoste-exhortation\_mars\_2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_2021.pdf)

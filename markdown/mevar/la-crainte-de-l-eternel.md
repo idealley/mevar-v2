@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_crainte_de_l_eternel_samuel.pdf"
 source: "mevar"
 sermon_id: "la-crainte-de-l-eternel"
 title: "La Crainte de l’Eternel"
@@ -15,6 +16,27 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f58"
 uuid: "46b929d1-7773-4a68-b1ad-a1d669c2d8c1"
+stream_url: "https://mevar.org/la-crainte-de-l-eternel/"
+bible_refs:
+  - "1 Jean 5:3"
+  - "2 Pierre 3:9"
+  - "Apocalypse 21:8"
+  - "Deutéronome 10:12-22"
+  - "Hébreux 10:26-31"
+  - "Hébreux 1:9"
+  - "Luc 12:5"
+  - "Nombres 21"
+  - "Osée 4:6"
+  - "Proverbes 1:7"
+  - "Proverbes 8:13"
+  - "Psaumes 19:8-11"
+  - "Psaumes 45:7"
+  - "Psaumes 5:5"
+  - "Romains 11:11"
+  - "Romains 11:21"
+  - "Romains 11:7"
+  - "Romains 2:28-29"
+  - "Romains 6:23"
 ---
 Le chapitre 10 de Deutéronome du verset douze à vingt-deux résume les demandes que l’Eternel fait à son peuple. Ce texte résume qu’elle est la volonté de Dieu pour Son peuple.
 
@@ -78,14 +100,4 @@ C’est pour cela que nous devons respecter les ordonnances de Dieu, respecter s
 
 ### Télécharger le document
 
-[
-
-La Crainte de l’Eternel
-
-la\_crainte\_de\_l\_eternel\_samuel.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_crainte_de_l_eternel_samuel.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_crainte_de_l_eternel_samuel.pdf)

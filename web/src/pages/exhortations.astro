@@ -1,0 +1,15 @@
+---
+import Layout from "../layouts/Layout.astro";
+import CategoryGrid from "../components/CategoryGrid.astro";
+import { worksByKind } from "$lib/works";
+
+const entries = await worksByKind("exhortation");
+---
+
+<Layout title="Exhortations — Mevar" description={`${entries.length} exhortations dans la bibliothèque Mevar`}>
+  <CategoryGrid
+    title="Exhortations"
+    description="Paroles d'exhortation publiées chaque mois pour affermir les croyants dans la foi."
+    entries={entries}
+  />
+</Layout>

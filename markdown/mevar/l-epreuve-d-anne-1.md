@@ -18,6 +18,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fa0"
 uuid: "b5f78be9-eb20-43db-a558-82248e410d3b"
+stream_url: "https://mevar.org/l-epreuve-d-anne-1/"
 ---
 ## Première partie
 

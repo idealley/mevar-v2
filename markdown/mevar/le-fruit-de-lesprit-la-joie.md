@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-joie-07.07.2024.pdf"
 source: "mevar"
 sermon_id: "le-fruit-de-lesprit-la-joie"
 title: "Le fruit de l’Esprit – La joie"
@@ -19,6 +20,17 @@ authors:
   - "Parfait M'bra"
 ghost_id: "68307c1ca21b7c00018572df"
 uuid: "e7e3da31-bad7-49d8-9e38-3a3489fca951"
+stream_url: "https://mevar.org/le-fruit-de-lesprit-la-joie/"
+bible_refs:
+  - "1 Thessaloniciens 5:16"
+  - "Galates 5:22"
+  - "Galates 5:22-23"
+  - "Matthieu 25"
+  - "Matthieu 25:22-23"
+  - "Philippiens 4"
+  - "Philippiens 4:4"
+  - "Psaumes 126"
+  - "Psaumes 126:5-6"
 ---
 Gloire à Dieu ! L’ancien évangile, c’est l’évangile qui a été prêché par Jésus et qui continue d’être prêché par le Saint-Esprit. Ce n’est pas l’évangile de la prospérité qu'on voit dans le monde aujourd'hui, dans le monde des religieux dans les églises fondées par les hommes où, quand tu arrives, on met l'accent sur l’évangile de prospérité matérielle, un évangile qui t'amène à avoir davantage d'argent, davantage de position dans la société présente, un évangile qui t'amène à aimer tout ce qui est dans le monde : argent, voiture, maison et tout le reste, l'autorité, la dignité, enfin tout ce que vous pouvez imaginer. Il y a un évangile pour ça. Et c'est prêché et ça marche bien mais ce n'est pas cet évangile-là que nous prêchons. Nous disons que celui qui a l'ancien évangile peut avoir tout le reste. Le Seigneur a dit qu’il aura tout le reste si tu as l’ancien évangile, que ça marche bien dans ta vie, tu auras tout le reste, tout le reste que les gens cherchent d'autres manières, toi tu l'auras simplement.
 
@@ -212,17 +224,7 @@ Quelqu'un dirait qu'il est devenu un criminel ce jour-là. Ce n’est pas une af
 
 * * *
 
-[
-
-le-fruit-de-l-esprit-la-joie-07.07.2024
-
-le-fruit-de-l-esprit-la-joie-07.07.2024.pdf
-
-311 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-joie-07.07.2024.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-joie-07.07.2024.pdf)
 
 * * *
 

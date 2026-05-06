@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf"
 source: "mevar"
 sermon_id: "les-teraphims-et-la-mort-de-rachel"
 title: "Les téraphim et la mort de Rachel"
@@ -14,6 +15,58 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f5d"
 uuid: "570fd35c-5bae-4010-8646-8633108a8b42"
+stream_url: "https://mevar.org/les-teraphims-et-la-mort-de-rachel/"
+bible_refs:
+  - "1 Thessaloniciens 4:17"
+  - "2 Corinthiens 11:27"
+  - "2 Corinthiens 3:5-6"
+  - "2 Pierre 1:19"
+  - "2 Pierre 2:7-9"
+  - "2 Thessaloniciens 2"
+  - "2 Thessaloniciens 2:11"
+  - "2 Timothée 2:17-18,1"
+  - "2 Timothée 3:8"
+  - "2 Timothée 4:10"
+  - "Actes 12"
+  - "Actes 20"
+  - "Actes 26:15-18"
+  - "Apocalypse 17"
+  - "Apocalypse 3:18"
+  - "Apocalypse 3:19"
+  - "Apocalypse 6"
+  - "Daniel 12:10"
+  - "Ecclésiaste 10:5-7"
+  - "Genèse 18:24-32"
+  - "Genèse 29:18-19"
+  - "Genèse 29:31-33"
+  - "Genèse 31:16"
+  - "Genèse 31:19-31"
+  - "Genèse 31:3"
+  - "Genèse 31:30-33"
+  - "Genèse 35:16-20"
+  - "Jean 6:29"
+  - "Jean 6:41"
+  - "Jean 9:4"
+  - "Luc 12"
+  - "Luc 12:35"
+  - "Luc 12:36"
+  - "Luc 17:26-33"
+  - "Luc 21:36"
+  - "Malachie 4:3"
+  - "Marc 13:35"
+  - "Matthieu 16:1-3"
+  - "Matthieu 22"
+  - "Matthieu 24"
+  - "Matthieu 24:12"
+  - "Matthieu 24:37-39"
+  - "Matthieu 24:4,10,24"
+  - "Matthieu 24:45-47"
+  - "Matthieu 25:5-6"
+  - "Matthieu 25:8"
+  - "Matthieu 5:15"
+  - "Matthieu 7:20"
+  - "Proverbes 29:2"
+  - "Zacharie 14:7"
 ---
 ## Exhortation de Novembre – Décembre 2019
 
@@ -121,14 +174,4 @@ Au moment où nous entrons dans cette nouvelle phase de l’œuvre de Dieu, que 
 
 ### Télécharger le document
 
-[
-
-Les téraphim et la mort de Rachel
-
-exhortation\_fin\_2019\_les\_teraphim\_et\_la\_mort\_de\_rachel.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf)

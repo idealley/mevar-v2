@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf"
 source: "mevar"
 sermon_id: "le-processus-de-la-maturation-du-fils-de-l-eglise"
 title: "Le Processus de la maturation du fils de l’Église"
@@ -14,6 +15,15 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f14"
 uuid: "36cc59fe-05a7-441d-9871-7b2d4a27869a"
+stream_url: "https://mevar.org/le-processus-de-la-maturation-du-fils-de-l-eglise/"
+bible_refs:
+  - "Apocalypse 12"
+  - "Apocalypse 12:1-6"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14"
+  - "Luc 17"
+  - "Matthieu 24"
+  - "Matthieu 25"
 ---
 Que Dieu nous bénisse ! Nous allons lire dans **Apocalypse 12:1-6 : _« Un grand signe parut dans le ciel : une femme enveloppée du soleil, la lune sous ses pieds, et une couronne de douze étoiles sur sa tête. Elle était enceinte, et elle criait, étant en travail et dans les douleurs de l’enfantement. Un autre signe parut encore dans le ciel, et voici, c’était un grand dragon rouge, ayant sept têtes et dix cornes, et sur ses têtes sept diadèmes. Sa queue entraînait le tiers des étoiles du ciel, et les jetait sur la terre. Le dragon se tint devant la femme qui allait enfanter, afin de dévorer son enfant, lorsqu’elle aurait enfanté. Elle enfanta un fils, qui doit paître toutes les nations avec une verge de fer. Et son enfant fut enlevé vers Dieu et vers son trône. Et la femme s’enfuit dans le désert, ou elle avait un lieu préparé par Dieu, afin qu’elle y fut nourrie pendant mille deux cent soixante jours. »_**
 
@@ -89,14 +99,4 @@ Au moment où je vous parle cela fait 10 ans que ça s’est passé : c’était
 
 ### Télécharger le document
 
-[
-
-Le Processus de la maturation du fils de l’Église
-
-Le\_processus\_de\_la\_maturation\_du\_Fils\_de\_l\_Eglise.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf)

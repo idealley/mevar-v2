@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/Exho_octobre-2014.pdf"
 source: "mevar"
 sermon_id: "le-fils-male-lanon-prophetique"
 title: "Le fils mâle — l'ânon prophétique"
@@ -16,6 +17,43 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ff4"
 uuid: "a5571c5f-8a7b-449b-82c9-7a5aee6a8ac2"
+stream_url: "https://mevar.org/le-fils-male-lanon-prophetique/"
+bible_refs:
+  - "1 Corinthiens 12:27"
+  - "1 Corinthiens 14:1"
+  - "1 Corinthiens 14:12"
+  - "1 Pierre 1:10-11"
+  - "2 Corinthiens 11:2"
+  - "2 Pierre 2:20-22"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 12"
+  - "Exode 2:24"
+  - "Exode 34:14"
+  - "Galates 2:17-19"
+  - "Genèse 15:18"
+  - "Genèse 6:18"
+  - "Habacuc 2:1"
+  - "Jean 14:11"
+  - "Josué 24:19"
+  - "Luc 14:26"
+  - "Luc 14:33"
+  - "Luc 18:8"
+  - "Luc 23:8-9"
+  - "Luc 9:23"
+  - "Malachie 4:5-6"
+  - "Marc 13:35"
+  - "Matthieu 10:37"
+  - "Matthieu 16:4"
+  - "Matthieu 21:1-17"
+  - "Matthieu 24:24"
+  - "Matthieu 24:42"
+  - "Matthieu 25:13"
+  - "Matthieu 25:5-6"
+  - "Matthieu 26:38"
+  - "Matthieu 26:41"
+  - "Psaumes 137"
+  - "Romains 10:13-16"
+  - "Zacharie 9:9"
 ---
 ## Exhortation d'octobre 2014
 
@@ -263,16 +301,4 @@ Mes frères et sœurs, entrons dans une réelle méditation sur notre relation a
 
 * * *
 
-[
-
-Exho octobre 2014
-
-Le fils mâle - l'ânon prophétique
-
-Exho\_octobre-2014.pdf
-
-207 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/Exho_octobre-2014.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/Exho_octobre-2014.pdf)

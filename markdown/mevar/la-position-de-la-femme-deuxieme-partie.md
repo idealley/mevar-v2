@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f84"
 uuid: "d7d2df72-954c-45d7-8726-b90469d54467"
+stream_url: "https://mevar.org/la-position-de-la-femme-deuxieme-partie/"
 ---
 ## Deuxième partie
 

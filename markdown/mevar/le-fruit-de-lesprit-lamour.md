@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/fruit-de-l-esprit-l-amour-30.06.2024.pdf"
 source: "mevar"
 sermon_id: "le-fruit-de-lesprit-lamour"
 title: "Le fruit de l’Esprit - L'amour"
@@ -19,6 +20,20 @@ authors:
   - "Parfait M'bra"
 ghost_id: "68307630a21b7c00018572bd"
 uuid: "ea652f81-0c5c-4c0c-a1e7-812874fb0672"
+stream_url: "https://mevar.org/le-fruit-de-lesprit-lamour/"
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 13:1-9"
+  - "1 Jean 3"
+  - "1 Jean 3:18"
+  - "1 Jean 4"
+  - "1 Jean 4:1"
+  - "Galates 5:22"
+  - "Galates 5:22-26"
+  - "Jean 13"
+  - "Jean 13:34-35"
+  - "Jean 5"
+  - "Romains 13:8"
 ---
 On va commencer une série d'enseignements sur le fruit de l'Esprit. C'est un enseignement de façon générale sur le fruit de l'Esprit mais, je vais mettre des particularités à chaque fois. Aujourd'hui, on mettra l'accent sur l'amour. Puis, on va prendre les autres fruits qu’on va mettre en exergue et essayer d'expliquer un peu. Le texte de base, on le retrouve dans Galates. C'est un texte que nous connaissons, mais il y a des explications qui sont importantes qu'on va donner ce matin. Dans Galates chapitre 5, on lira à partir du verset 22 :
 
@@ -273,16 +288,6 @@ M’anime de l’Esprit. »
 
 * * *
 
-[
-
-fruit-de-l-esprit-l-amour-30.06.2024
-
-fruit-de-l-esprit-l-amour-30.06.2024.pdf
-
-316 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/fruit-de-l-esprit-l-amour-30.06.2024.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/fruit-de-l-esprit-l-amour-30.06.2024.pdf)
 
 [Le fruit de l’Esprit – La paixGloire à Dieu. Que Dieu nous bénisse. Nous allons continuer ce qu’on a commencé il y a déjà quelques temps. Et je pense qu’on va se laisser conduire par l’Esprit de Dieu et nous allons lire quelques Écritures. Le passage de base que nous connaissons déjà, c’est Galates chapitreMEVARParfait M’bra](https://mevar.org/le-fruit-de-lesprit-la-paix/)[Le fruit de l’Esprit – La joieGloire à Dieu ! L’ancien évangile, c’est l’évangile qui a été prêché par Jésus et qui continue d’être prêché par le Saint-Esprit. Ce n’est pas l’évangile de la prospérité qu’on voit dans le monde aujourd’hui, dans le monde des religieux dans les églises fondées parMEVARParfait M’bra](https://mevar.org/le-fruit-de-lesprit-la-joie/)

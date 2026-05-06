@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/2_FAIRE-FRONT-PAR-LA-FOI_08-01-23.pdf"
 source: "mevar"
 sermon_id: "faire-front-par-la-foi-premiere-partie"
 title: "Faire front par la Foi - première partie"
@@ -18,6 +19,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "685a5a8736cbb90001f67988"
 uuid: "d77c280c-aade-4145-bf26-c41aed6d2691"
+stream_url: "https://mevar.org/faire-front-par-la-foi-premiere-partie/"
+bible_refs:
+  - "2 Corinthiens 5"
+  - "Hébreux 11"
+  - "Hébreux 11:1-2"
+  - "Marc 11"
+  - "Marc 11:22-24"
+  - "Matthieu 22"
+  - "Matthieu 24"
+  - "Romains 8"
 ---
 « Faire front par la foi » est un sujet que je vais aborder en deux temps. Certainement qu’on ne pourra pas finir aujourd’hui. On aura le temps de revenir là-dessus. Mais on va déjà commencer. Nous lisons Marc 11 à partir du verset 22 :
 
@@ -159,17 +170,7 @@ On n’a pas à lutter contre la chair et le sang. Celui qui a la foi, il en a f
 
 * * *
 
-[
-
-2\_FAIRE FRONT PAR LA FOI\_08-01-23
-
-2\_FAIRE FRONT PAR LA FOI\_08-01-23.pdf
-
-281 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/2_FAIRE-FRONT-PAR-LA-FOI_08-01-23.pdf "Download")
+[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/2_FAIRE-FRONT-PAR-LA-FOI_08-01-23.pdf)
 
 * * *
 

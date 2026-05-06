@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/ange_de_la_marche.pdf"
 source: "mevar"
 sermon_id: "lange-de-la-marche"
 title: "L’Ange de la marche"
@@ -18,6 +19,14 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fc8"
 uuid: "5a9d58a9-6900-41ea-939d-9dab10582413"
+stream_url: "https://mevar.org/lange-de-la-marche/"
+bible_refs:
+  - "1 Corinthiens 10"
+  - "2 Corinthiens 11:1-2"
+  - "Apocalypse 18"
+  - "Exode 17"
+  - "Exode 23"
+  - "Ésaïe 21"
 ---
 Asseyez-vous. Alléluia ! \[Amen ! Réd\] Vous m’entendez ! Bon que Dieu vous bénisse. Comme le frère l’a dit, je suis déjà venu ici ; mais pour ceux qui ne me connaissent pas, je suis le frère M’BRA Parfait, je viens de la Côte d’Ivoire. Et je suis avec vous à Pointe Noire ce soir, c’est le Seigneur qui m’a mis à cœur de revenir ici et le Seigneur m’a donné des messages pour vous. C’est au fur et à mesure que je vais me tenir ici que je vais vous les livrer. Je vous apporte les salutations des frères et sœurs de la Côte d’Ivoire. Je vous apporte aussi les salutations du frère Rigobert. C’est le pasteur qui est à Cotonou, c’est un ami de votre pasteur et ils se sont connus à la convention \[1ère convention en fév. 2007. Réd.\] Donc, tout à l’heure je l’avais appelé et il m’a dit qu’il saluait tous les frères.
 
@@ -101,14 +110,4 @@ Et je le dis toujours aux frères : moi je ne marche pas avec un homme. Nous som
 
 * * *
 
-[
-
-Ange de la marche
-
-ange\_de\_la\_marche.pdf
-
-87 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/ange_de_la_marche.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/ange_de_la_marche.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf"
 source: "mevar"
 sermon_id: "l-oeuvre-de-dieu-un-investissement"
 title: "L’œuvre de Dieu – un investissement"
@@ -14,6 +15,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fb0"
 uuid: "747d736c-7d1d-43f5-8471-9ecbde1883f3"
+stream_url: "https://mevar.org/l-oeuvre-de-dieu-un-investissement/"
 ---
 Amen, gloire à Dieu. C’est vrai, il y a beaucoup de souffrance dans l’œuvre de Dieu mais celui qui tient ferme sera récompensé. C’est ce que nous allons lire dans Mathieu chapitre 19 au verset 27 :
 
@@ -93,14 +95,4 @@ Que Dieu soit béni et qu’il nous aide. Nous travaillons parce que nous savons
 
 ### Télécharger le document
 
-[
-
-L’œuvre de Dieu – un investissement
-
-l\_oeuvre\_de\_dieu-un\_investissement-abidjan-12.08.2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf)

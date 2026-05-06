@@ -47,11 +47,45 @@ const {
 
   <body class="min-h-full bg-background text-foreground antialiased">
     <Header />
-    <main>
+    <main class="min-h-[60vh]">
       <slot />
     </main>
-    <footer class="border-t mt-16 py-8 text-center text-sm text-muted-foreground">
-      <p>Mevar &middot; <a href="/about" class="hover:text-foreground transition">À propos</a></p>
+    <footer class="border-t mt-20 bg-muted/30">
+      <div class="container mx-auto px-4 py-12">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+          <div class="md:col-span-2">
+            <a href="/" class="flex items-center gap-2 mb-3">
+              <img src="/brand/logo.svg" alt="Mevar" class="h-8 w-auto" />
+              <span class="font-semibold text-lg tracking-tight">Mevar</span>
+            </a>
+            <p class="text-sm text-muted-foreground max-w-md">
+              Mission d'Évangélisation et de Réveil. Bibliothèque numérique pour
+              l'étude de la Parole et la marche dans l'Esprit en ce temps de la fin.
+            </p>
+          </div>
+          <nav>
+            <h3 class="text-sm font-semibold mb-3 tracking-wide uppercase">Bibliothèque</h3>
+            <ul class="space-y-2 text-sm text-muted-foreground">
+              <li><a href="/predications" class="hover:text-foreground transition">Prédications</a></li>
+              <li><a href="/exhortations" class="hover:text-foreground transition">Exhortations</a></li>
+              <li><a href="/publications" class="hover:text-foreground transition">Publications</a></li>
+              <li><a href="/etudes-bibliques" class="hover:text-foreground transition">Études bibliques</a></li>
+            </ul>
+          </nav>
+          <nav>
+            <h3 class="text-sm font-semibold mb-3 tracking-wide uppercase">Découvrir</h3>
+            <ul class="space-y-2 text-sm text-muted-foreground">
+              <li><a href="/auteurs" class="hover:text-foreground transition">Auteurs</a></li>
+              <li><a href="/themes" class="hover:text-foreground transition">Thèmes</a></li>
+              <li><a href="/recherche" class="hover:text-foreground transition">Recherche</a></li>
+              <li><a href="/a-propos" class="hover:text-foreground transition">À propos</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="border-t pt-6 text-xs text-muted-foreground text-center">
+          <p>© {new Date().getFullYear()} MEVAR — Mission d'Évangélisation et de Réveil</p>
+        </div>
+      </div>
     </footer>
   </body>
 </html>

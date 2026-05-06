@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_choix_samuel_15_09_2017.pdf"
 source: "mevar"
 sermon_id: "le-choix"
 title: "Le Choix"
@@ -16,6 +17,40 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f2a"
 uuid: "47e2e2cc-dc58-4508-828a-3aee33c8e17e"
+stream_url: "https://mevar.org/le-choix/"
+bible_refs:
+  - "1 Pierre 1:6-9"
+  - "Apocalypse 19:10"
+  - "Apocalypse 3:16"
+  - "Apocalypse 3:18"
+  - "Apocalypse 3:19"
+  - "Apocalypse 6"
+  - "Deutéronome 9:21"
+  - "Ecclésiaste 11:1-2"
+  - "Exode 30:35"
+  - "Exode 32:1-4"
+  - "Exode 32:27-28"
+  - "Exode 32:5"
+  - "Exode 6:16-20"
+  - "Genèse 15:16"
+  - "Genèse 49:18-19"
+  - "Hébreux 11:6"
+  - "Jacques 2:5"
+  - "Jean 4:22"
+  - "Luc 12:47-56"
+  - "Malachie 4"
+  - "Malachie 4:5"
+  - "Matthieu 12:30"
+  - "Matthieu 22"
+  - "Matthieu 22:5-7"
+  - "Matthieu 22:7"
+  - "Matthieu 24:45-51"
+  - "Matthieu 25:5"
+  - "Matthieu 25:5-7"
+  - "Matthieu 25:6"
+  - "Michée 5:5-6"
+  - "Nombres 13:16"
+  - "Nombres 14:28-33"
 ---
 > C'est lui qui ramènera la paix. Lorsque l'Assyrien viendra dans notre pays, Et qu'il pénétrera dans nos palais, Nous ferons lever contre lui sept pasteurs Et huit princes du peuple. Ils feront avec l'épée leur pâture du pays d'Assyrie Et du pays de Nimrod au dedans de ses portes. Il nous délivrera ainsi de l'Assyrien, Lorsqu'il viendra dans notre pays, Et qu'il pénétrera sur notre territoire. (Michée 5:5-6)
 
@@ -183,14 +218,4 @@ Que la grâce et la paix du Seigneur soient sur les lecteurs.
 
 ### Télécharger le document
 
-[
-
-Le Choix
-
-le\_choix\_samuel\_15\_09\_2017.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_choix_samuel_15_09_2017.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_choix_samuel_15_09_2017.pdf)

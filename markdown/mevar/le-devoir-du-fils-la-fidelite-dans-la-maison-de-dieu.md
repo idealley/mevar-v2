@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_mi_avril_2017_le_devoir_du_fils_la_fidelite_dans_la_maison_de_dieu.pdf"
 source: "mevar"
 sermon_id: "le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu"
 title: "Le devoir du fils - la fidélité dans la maison de Dieu"
@@ -14,6 +15,19 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f27"
 uuid: "2909ca35-3155-4e22-8607-81dad4082d47"
+stream_url: "https://mevar.org/le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu/"
+bible_refs:
+  - "Galates 4:1"
+  - "Hébreux 10:7"
+  - "Hébreux 3"
+  - "Hébreux 3:1-6"
+  - "Jean 8:34-36"
+  - "Luc 15:11-32"
+  - "Luc 2:42-50"
+  - "Matthieu 21:28-32"
+  - "Matthieu 7:6"
+  - "Romains 8"
+  - "Romains 8:15"
 ---
 ## Exhortation de mi-avril 2017
 
@@ -113,14 +127,4 @@ Mes chers amis, notre devoir vis-à-vis de Celui qui nous a aimés et qui nous a
 
 ### Télécharger le document
 
-[
-
-Le devoir du fils - la fidélité dans la maison de Dieu
-
-exhortation\_mi\_avril\_2017\_le\_devoir\_du\_fils\_la\_fidelite\_dans\_la\_maison\_de\_dieu.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_mi_avril_2017_le_devoir_du_fils_la_fidelite_dans_la_maison_de_dieu.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_mi_avril_2017_le_devoir_du_fils_la_fidelite_dans_la_maison_de_dieu.pdf)

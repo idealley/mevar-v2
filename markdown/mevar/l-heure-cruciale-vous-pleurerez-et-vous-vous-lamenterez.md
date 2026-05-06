@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2015_l_heure_crutiales_vous_pleurerez_et_vous_vous_lamenterez.pdf"
 source: "mevar"
 sermon_id: "l-heure-cruciale-vous-pleurerez-et-vous-vous-lamenterez"
 title: "L' Heure cruciale - vous pleurerez et vous vous lamenterez"
@@ -14,6 +15,24 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518efe"
 uuid: "3fd52304-19ed-4d5d-9d83-216eac515bdb"
+stream_url: "https://mevar.org/l-heure-cruciale-vous-pleurerez-et-vous-vous-lamenterez/"
+bible_refs:
+  - "1 Corinthiens 3"
+  - "Galates 6:7-9"
+  - "Genèse 17:1"
+  - "Genèse 6:9"
+  - "Jean 16:20-23"
+  - "Job 1:1"
+  - "Luc 22:53"
+  - "Luc 23:26-31"
+  - "Matthieu 10"
+  - "Matthieu 10:35-36"
+  - "Matthieu 19:21"
+  - "Matthieu 27:52"
+  - "Matthieu 5:38-48"
+  - "Matthieu 5:48"
+  - "Michée 7:7-10"
+  - "Nombres 17"
 ---
 ## Exhortation de janvier 2015
 
@@ -105,14 +124,4 @@ C’est en Jésus-Christ notre Seigneur que je vous ai adressé cette Parole d�
 
 ### Télécharger le document
 
-[
-
-L' Heure cruciale - vous pleurerez et vous vous lamenterez
-
-exhortation\_de\_janvier\_2015\_l\_heure\_crutiales\_vous\_pleurerez\_et\_vous\_vous\_lamenterez.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2015_l_heure_crutiales_vous_pleurerez_et_vous_vous_lamenterez.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2015_l_heure_crutiales_vous_pleurerez_et_vous_vous_lamenterez.pdf)

@@ -19,5 +19,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f71"
 uuid: "129c60dc-4b8c-44d0-bad0-f057fcfc0ebe"
+stream_url: "https://mevar.org/l-election-par-les-oeuvres-de-la-foi/"
+bible_refs:
+  - "Matthieu 22"
+  - "Matthieu 24"
+  - "Romains 8"
 ---
 Etude basée sur Romains 8, Matthieu 22 et Matthieu 24. Que Signifie être appelé ou élu dans la Bible?

@@ -18,6 +18,14 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6530269febe2d20001226f23"
 uuid: "96fe99df-2404-41e8-9c22-34bf76d36079"
+stream_url: "https://mevar.org/le-nouveau-ministere/"
+bible_refs:
+  - "1 Corinthiens 3:16,1"
+  - "2 Timothée 3"
+  - "Apocalypse 1:8"
+  - "Jean 14:17"
+  - "Jean 17:20-21"
+  - "Ézéchiel 47"
 ---
 Gloire à Dieu. Gloire au Seigneur Jésus-Christ. Que Dieu nous bénisse. **Ce matin, je voudrais dire certaines choses concernant l’avenir de l’œuvre de Dieu.** Ce sont des déclarations qu’on a eu à faire çà et là mais, ce matin, je vais être plus précis et plus clair pour chacun de nous. Et comme vous le savez, je l’ai déjà dit quelque part dans mes déplacements, que le Seigneur s’appelle **l’Alpha et l’Oméga**. Amen.
 

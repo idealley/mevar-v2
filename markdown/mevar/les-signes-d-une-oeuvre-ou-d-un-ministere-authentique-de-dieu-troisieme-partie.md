@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/3_signes_d_un_ministere_01_12_19.pdf"
 source: "mevar"
 sermon_id: "les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie"
 title: "Les signes d’une œuvre ou d’un Ministère authentique de Dieu (3)"
@@ -18,6 +19,19 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f54"
 uuid: "aac1f6f5-450b-4d58-8ffc-023bfe327efe"
+stream_url: "https://mevar.org/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie/"
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "1 Timothée 4:14"
+  - "2 Pierre 1"
+  - "Esther 1"
+  - "Galates 5:22"
+  - "Jean 14"
+  - "Jérémie 1:17"
+  - "Marc 11"
+  - "Matthieu 14"
+  - "Matthieu 7"
 ---
 ## La condition des porteurs de signes — troisième partie
 
@@ -167,14 +181,4 @@ Donc les signes d’un ministère ou d’une œuvre authentique, nous les avons 
 
 ### Télécharger le document
 
-[
-
-Les signes d’une œuvre ou d’un Ministère authentique de Dieu
-
-3\_signes\_d\_un\_ministere\_01\_12\_19.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/3_signes_d_un_ministere_01_12_19.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/3_signes_d_un_ministere_01_12_19.pdf)

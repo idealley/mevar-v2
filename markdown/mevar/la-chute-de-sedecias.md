@@ -17,6 +17,9 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f6e"
 uuid: "f50a00b0-fcb0-4d20-9063-a1ae61f5d8af"
+stream_url: "https://mevar.org/la-chute-de-sedecias/"
+bible_refs:
+  - "Jérémie 38"
 ---
 Jérémie 38 et 39
 

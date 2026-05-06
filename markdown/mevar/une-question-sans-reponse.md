@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/question_sans_reponse_25_octobre_2020.pdf"
 source: "mevar"
 sermon_id: "une-question-sans-reponse"
 title: "Une question sans réponse"
@@ -14,6 +15,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f9e"
 uuid: "7619e89a-dec5-4fe0-9840-41f2885d97a6"
+stream_url: "https://mevar.org/une-question-sans-reponse/"
 ---
 Une question sans réponse, est-ce que ça peut exister ? On va lire dans 1 Rois chapitre 18. Le chantre m’a devancé en parlant d’Elie et les prophètes de Baal. Pour les personnes qui nous rendent visite, soyez les bienvenues. Ici ce n’est pas la nouvelle Jérusalem comme j’aime le dire. Nous sommes dans une salle de classe. Il y a des enfants qui viennent ici pour apprendre. La foi chrétienne se trouve dans le cœur, ça se passe dans le cœur. Amen ! Nous ne sommes pas la super église, nous sommes des gens avec des problèmes. Nous avons des difficultés.
 
@@ -97,14 +99,4 @@ Que Dieu soit béni. On va se remettre entre les mains du Seigneur. Qu’Il soit
 
 ### Télécharger le document
 
-[
-
-Une question sans réponse
-
-question\_sans\_reponse\_25\_octobre\_2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/question_sans_reponse_25_octobre_2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/question_sans_reponse_25_octobre_2020.pdf)

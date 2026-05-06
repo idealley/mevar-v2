@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/l_objet_de_la_foi_11_12_2017.pdf"
 source: "mevar"
 sermon_id: "l-objet-de-la-foi"
 title: "L'objet de la foi"
@@ -15,6 +16,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f2d"
 uuid: "d0a55293-3ab5-4f48-9841-3454e2c26a3e"
+stream_url: "https://mevar.org/l-objet-de-la-foi/"
+bible_refs:
+  - "1 Corinthiens 15"
+  - "1 Corinthiens 15:35"
+  - "Apocalypse 12"
+  - "Colossiens 1:24-29"
+  - "Deutéronome 28"
+  - "Hébreux 10"
+  - "Hébreux 10:1-10"
+  - "Hébreux 11"
+  - "Hébreux 11:32-40"
+  - "Marc 16"
+  - "Matthieu 6"
+  - "Matthieu 7"
+  - "Matthieu 7:15-23"
+  - "Éphésiens 4:20-23"
 ---
 Ce matin je voudrais revenir sur l’objet de la Foi, et quand je parle de l’objet de la foi, je veux parler du mobile, c’est-à-dire **ce pour quoi on devient croyant**, mais je voudrais surtout aller dans les détails pour que chacun de nous comprenne. Le dimanche passé, parlant de l’épreuve, j’ai présenté cela comme **un piège de Dieu**, c’est-à-dire que Dieu utilise souvent l’épreuve comme un piège, non pas dans le mauvais sens, mais plutôt pour voir **la réaction de ses serviteurs**. Et c’est dans le même sens que je vais parler ce matin. Amen ! Donc nous lisons dans Hébreux chapitre 10 à partir du verset premier :
 
@@ -175,14 +192,4 @@ C’est comme les rois d’avant, pour peu, ils peuvent ordonner qu’on te coup
 
 ### Télécharger le document
 
-[
-
-L'objet de la foi
-
-l\_objet\_de\_la\_foi\_11\_12\_2017.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/l_objet_de_la_foi_11_12_2017.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_objet_de_la_foi_11_12_2017.pdf)

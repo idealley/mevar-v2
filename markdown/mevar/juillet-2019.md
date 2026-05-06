@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/sujets_de_priere_juillet_2019.pdf"
 source: "mevar"
 sermon_id: "juillet-2019"
 title: "Juillet 2019"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f42"
 uuid: "028b5777-0f04-41c3-98da-7a754cee58c8"
+stream_url: "https://mevar.org/juillet-2019/"
+bible_refs:
+  - "Luc 23:41"
+  - "Matthieu 5:43-45"
 ---
 ## Sujets de prière
 
@@ -38,14 +43,4 @@ Par les écritures, nous savons que c’est Jésus-Christ qui est Le Sauveur. Si
 
 ### Télécharger le document
 
-[
-
-Juillet 2019
-
-sujets\_de\_priere\_juillet\_2019.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/sujets_de_priere_juillet_2019.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/sujets_de_priere_juillet_2019.pdf)

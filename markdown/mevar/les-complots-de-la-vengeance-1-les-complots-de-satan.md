@@ -19,6 +19,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f93"
 uuid: "4f06f740-5a77-43c0-a710-bcc5eb8397d7"
+stream_url: "https://mevar.org/les-complots-de-la-vengeance-1-les-complots-de-satan/"
 ---
 ## Les complots de Satan (10) - Le combat spirituel
 

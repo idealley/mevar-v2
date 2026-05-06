@@ -18,6 +18,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f65"
 uuid: "6cca748d-11e1-403e-bd62-33fe46e31c2d"
+stream_url: "https://mevar.org/le-sermon-sur-la-montagne-matthieu-5-1-12/"
+bible_refs:
+  - "Matthieu 5"
+  - "Matthieu 5:1-12"
 ---
 ## Première partie (Matthieu 5:1-12)
 

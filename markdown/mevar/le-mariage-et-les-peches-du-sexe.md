@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/le_mariae_et_les_peches_du_sexe.pdf"
 source: "mevar"
 sermon_id: "le-mariage-et-les-peches-du-sexe"
 title: "Le mariage et les péchés du sexe"
@@ -13,6 +14,34 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fce"
 uuid: "36fa4199-679f-432b-98fe-a308aa72d87c"
+stream_url: "https://mevar.org/le-mariage-et-les-peches-du-sexe/"
+bible_refs:
+  - "1 Corinthiens 6:16"
+  - "1 Jean 3:12"
+  - "Deutéronome 22"
+  - "Deutéronome 2:22"
+  - "Deutéronome 7:3"
+  - "Exode 20:14-17"
+  - "Exode 25:40"
+  - "Exode 26:30"
+  - "Genèse 1"
+  - "Genèse 1:26-27"
+  - "Genèse 2"
+  - "Genèse 2:22"
+  - "Genèse 2:24"
+  - "Genèse 2:25"
+  - "Genèse 3"
+  - "Genèse 3:1"
+  - "Genèse 4:1-8,5"
+  - "Genèse 4:19"
+  - "Lévitique 18:1-4"
+  - "Lévitique 18:23"
+  - "Lévitique 20:10-20"
+  - "Marc 10:9"
+  - "Matthieu 19:4-6"
+  - "Ézéchiel 28"
+  - "Ézéchiel 28:12-14"
+  - "Ézéchiel 28:17"
 ---
 ## Introduction Générale
 
@@ -113,14 +142,4 @@ Puisque Dieu le créateur n’a pas pu apporter l’application de Sa doctrine e
 
 Lire la suite en téléchargeant gratuitement le livre _Le mariage et les péchés du sexe_:
 
-[
-
-Le mariae et les peches du sexe
-
-le\_mariae\_et\_les\_peches\_du\_sexe.pdf
-
-805 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/le_mariae_et_les_peches_du_sexe.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/le_mariae_et_les_peches_du_sexe.pdf)

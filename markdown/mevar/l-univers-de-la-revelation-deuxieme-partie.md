@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/l_univers_de_la_revelation_2_29.10.2018.pdf"
 source: "mevar"
 sermon_id: "l-univers-de-la-revelation-deuxieme-partie"
 title: "L’ Univers de la révélation (2)"
@@ -14,6 +15,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f38"
 uuid: "398c2254-4a8e-4573-a9d5-d20f872c55bd"
+stream_url: "https://mevar.org/l-univers-de-la-revelation-deuxieme-partie/"
+bible_refs:
+  - "1 Rois 13"
+  - "2 Thessaloniciens 2"
+  - "Jérémie 1"
+  - "Jérémie 28"
+  - "Luc 17"
 ---
 ## Deuxième partie
 
@@ -145,14 +153,4 @@ On est dans une onction frères, n’oubliez pas cela. Et cette onction dans laq
 
 ### Télécharger le document
 
-[
-
-L’ Univers de la révélation
-
-l\_univers\_de\_la\_revelation\_2\_29.10.2018.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/l_univers_de_la_revelation_2_29.10.2018.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_univers_de_la_revelation_2_29.10.2018.pdf)

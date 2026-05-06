@@ -18,6 +18,15 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fe3"
 uuid: "a8f39a18-08a6-4c6a-9a8f-4b5e7519ff88"
+stream_url: "https://mevar.org/l-epreuve-de-jean-baptiste/"
+bible_refs:
+  - "1 Thessaloniciens 5:19"
+  - "Jean 1"
+  - "Jean 1:19-34"
+  - "Juges 6:25-29"
+  - "Malachie 3"
+  - "Matthieu 11:3-6"
+  - "Ésaïe 40"
 ---
 Parler en langue, puis interprétation : _J’honore ceux qui m’honorent, J’honore le sacrifice de ceux qui m’honorent. Si vous croyez, vous verrez Ma gloire, si vous m’obéissez, vous verrez Ma gloire. Si vous êtes patients, vous verrez Ma gloire. J’honore ceux qui m’honorent. J’honore le sacrifice de ceux qui m’honorent._
 

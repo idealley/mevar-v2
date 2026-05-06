@@ -15,6 +15,7 @@ authors:
   - "Stéphane Pouyt"
 ghost_id: "6448fa86db90770001518ee6"
 uuid: "27409ee5-03d4-4f71-a0be-e8d0a70a6b0f"
+stream_url: "https://mevar.org/le-passage-du-jourdain-laconquete-du-pays-de-canaan/"
 ---
 ## La conquête du pays de Canaan
 

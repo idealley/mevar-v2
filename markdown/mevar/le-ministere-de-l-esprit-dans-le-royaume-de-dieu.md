@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf"
 source: "mevar"
 sermon_id: "le-ministere-de-l-esprit-dans-le-royaume-de-dieu"
 title: "Le ministère de l’Esprit dans le royaume de Dieu"
@@ -14,6 +15,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fa6"
 uuid: "0386eb25-f280-4ef6-996c-5a5114ce39a2"
+stream_url: "https://mevar.org/le-ministere-de-l-esprit-dans-le-royaume-de-dieu/"
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Rois 19"
+  - "2 Corinthiens 3"
+  - "Jean 15"
 ---
 Est-ce qu’il y a des gens qui nous rendent visite pour la première fois ce matin ? Non ? Amen ! Le ministère de l’Esprit dans le royaume de Dieu. Est-ce que dans l’Ancien Testament, il y avait le ministère de l’Esprit ? Dimanche passé, de quoi avons-nous parlé ? Nous avons parlé de « **l’ancien testament et le royaume de Dieu »**. Et qu’est-ce qu’on a dit ? Vous savez, quand on prêche, retenez la pensée de Dieu et faites une petite conclusion de ce que vous pouvez retenir de votre compréhension. On ne peut pas aller dans les petits détails. **Dans le royaume de Dieu, le chrétien est régénéré par la parole de Dieu et il devient le temple du Saint-Esprit, Dieu en nous**. Être chrétien, veut dire que Dieu vit en toi par le Saint-Esprit. Dans l’Ancien Testament, cela n’existait pas. Et pourquoi ? Parce que dans la nouvelle alliance en Jésus-Christ, il y a ce qu’on appelle la nouvelle naissance, c’est-à-dire, la régénération de l’homme intérieure qui a chuté dans le jardin d’Éden. En Christ, il a été relevé, donc il a été régénéré par la puissance de Dieu.
 
@@ -163,14 +170,4 @@ Que le Seigneur soit avec chacun de nous et qu’Il nous aide à comprendre ses 
 
 ### Télécharger le document
 
-[
-
-Le ministère de l’Esprit dans le royaume de Dieu
-
-ministere\_de\_l\_esprit\_dans\_le\_royaume\_de\_dieu\_koumassi\_7\_mars\_2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf)

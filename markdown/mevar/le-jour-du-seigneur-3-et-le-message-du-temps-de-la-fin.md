@@ -15,6 +15,23 @@ authors:
   - "Parfait M'bra"
 ghost_id: "664c9a875f06290001fc7ede"
 uuid: "688284bc-1082-41f2-a9be-d65bbaf067b7"
+stream_url: "https://mevar.org/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin/"
+bible_refs:
+  - "Actes 2"
+  - "Apocalypse 11:18-19"
+  - "Apocalypse 11:3-11"
+  - "Apocalypse 17"
+  - "Apocalypse 19"
+  - "Apocalypse 6"
+  - "Apocalypse 6:9-11"
+  - "Apocalypse 7"
+  - "Apocalypse 7:12-7"
+  - "Apocalypse 7:2-4"
+  - "Apocalypse 7:9"
+  - "Apocalypse 8"
+  - "Daniel 12"
+  - "Malachie 3"
+  - "Malachie 4"
 ---
 **Prêché à Koumassi, le 12 novembre 2023**
 

@@ -11,6 +11,7 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518ed0"
 uuid: "3c325588-1c9c-452a-8f03-01f9834268a1"
+stream_url: "https://mevar.org/a-propos/"
 ---
   
 Nous vivons à une époque dans laquelle les chrétiens se sont endormis et ne marchent plus avec Dieu, préférant suivre leur propre désir. Tout comme le monde qui ne connait pas Dieu, ils courent aussi à leur perte.

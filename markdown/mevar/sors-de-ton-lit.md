@@ -14,6 +14,9 @@ authors:
   - "Parfait M'bra"
 ghost_id: "651beed230c1cf0001c927cb"
 uuid: "05c8ec9f-4d3d-4904-8a3a-2bca575d72ec"
+stream_url: "https://mevar.org/sors-de-ton-lit/"
+bible_refs:
+  - "Matthieu 25"
 ---
 Nous allons lire Matthieu Chapitre 9 à partir du premier verset : \[le frère écrit le titre de la prédication sur le tableau Réd.\] « Jésus, étant monté dans une barque, traversa la mer, et alla dans sa ville. Et voici, on lui amena un paralytique couché sur un lit. Jésus, voyant leur foi, dit au paralytique: Prends courage, mon enfant, tes péchés te sont pardonnés. Sur quoi, quelques scribes dirent au dedans d'eux: Cet homme blasphème. Et Jésus, connaissant leurs pensées, dit: Pourquoi avez-vous de mauvaises pensées dans vos cœurs? Car, lequel est le plus aisé, de dire: Tes péchés sont pardonnés, ou de dire: Lève-toi, et marche? Or, afin que vous sachiez que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés: Lève-toi, dit-il au paralytique, prends ton lit, et va dans ta maison. Et il se leva, et s'en alla dans sa maison. Quand la foule vit cela, elle fut saisie de crainte, et elle glorifia Dieu, qui a donné aux hommes un tel pouvoir ». Amen ! 
 

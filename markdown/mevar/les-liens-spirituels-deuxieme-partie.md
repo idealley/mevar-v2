@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf"
 source: "mevar"
 sermon_id: "les-liens-spirituels-deuxieme-partie"
 title: "Les liens spirituels (2)"
@@ -18,6 +19,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f6c"
 uuid: "360b1714-4a68-4fe6-966f-b319e8b61a93"
+stream_url: "https://mevar.org/les-liens-spirituels-deuxieme-partie/"
+bible_refs:
+  - "Actes 1"
+  - "Actes 1:16-18"
+  - "Colossiens 3:5-7"
+  - "Jean 6:70"
+  - "Luc 13"
+  - "Luc 22"
+  - "Matthieu 12:34"
+  - "Matthieu 23"
+  - "Matthieu 23:33"
+  - "Matthieu 24"
+  - "Matthieu 27"
+  - "Matthieu 3:7"
+  - "Matthieu 6:24"
+  - "Ésaïe 40:2"
 ---
 ## Deuxième partie
 
@@ -153,14 +170,4 @@ Que Dieu nous bénisse. J’ai été un peu long, mais je voulais quand même ê
 
 ### Télécharger le document
 
-[
-
-Les liens spirituels \[audio\] (2)
-
-les\_liens\_spirituels\_1\_et\_2-6\_avril\_2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf)

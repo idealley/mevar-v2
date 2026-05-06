@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_intercesseurs_de_minuit.pdf"
 source: "mevar"
 sermon_id: "les-intercesseurs-de-minuit"
 title: "Les intercesseurs de Minuit"
@@ -15,6 +16,21 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ed5"
 uuid: "924539b9-0276-424a-b438-730ab4d29511"
+stream_url: "https://mevar.org/les-intercesseurs-de-minuit/"
+bible_refs:
+  - "2 Chroniques 5:14"
+  - "2 Chroniques 7:1-3"
+  - "Actes 3"
+  - "Actes 4:32"
+  - "Actes 5"
+  - "Actes 5:12-16"
+  - "Actes 8:39"
+  - "Actes 9:31-43"
+  - "Apocalypse 21"
+  - "Apocalypse 21:9-11"
+  - "Exode 24:17"
+  - "Ésaïe 62:1"
+  - "Ésaïe 62:6-7"
 ---
 ## Exhortation spéciale du mois d'août 2006
 
@@ -97,14 +113,4 @@ En Christ notre Seigneur
 
 ### Télécharger le document
 
-[
-
-Les intercesseurs de Minuit
-
-exhortation\_speciale\_aout\_2006\_intercesseurs\_de\_minuit.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_intercesseurs_de_minuit.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_intercesseurs_de_minuit.pdf)

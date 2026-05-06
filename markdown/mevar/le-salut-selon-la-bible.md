@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_salut_selon_la_bible.pdf"
 source: "mevar"
 sermon_id: "le-salut-selon-la-bible"
 title: "Le salut selon la Bible"
@@ -14,6 +15,39 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f5b"
 uuid: "6cb87188-e625-425f-9507-7687f1f234c1"
+stream_url: "https://mevar.org/le-salut-selon-la-bible/"
+bible_refs:
+  - "1 Corinthiens 6:9"
+  - "1 Corinthiens 9:24-27"
+  - "1 Jean 1:9"
+  - "1 Jean 3:14"
+  - "1 Jean 4:1"
+  - "1 Thessaloniciens 5:23-24"
+  - "1 Timothée 4:1-2"
+  - "2 Corinthiens 11:14"
+  - "2 Timothée 2:20-22"
+  - "2 Timothée 4:7"
+  - "Galates 1:8"
+  - "Genèse 3:1"
+  - "Hébreux 12:1"
+  - "Jacques 2:19"
+  - "Jean 10:27"
+  - "Jean 14:21"
+  - "Jean 14:6"
+  - "Jean 3:18"
+  - "Jean 3:21"
+  - "Jean 3:3"
+  - "Jean 3:6"
+  - "Luc 13:3"
+  - "Luc 5:32"
+  - "Marc 16:14"
+  - "Matthieu 22"
+  - "Matthieu 22:37-39"
+  - "Matthieu 22:40"
+  - "Matthieu 24:24-25"
+  - "Matthieu 6:14-15"
+  - "Matthieu 7:21-23"
+  - "Psaumes 103:2"
 ---
 De nombreuses traditions, toutes les religions, toutes les sectes ont leur compréhension de ce qu’est le salut, mais que dit la Bible, que dit la Parole de Dieu. Que devons-nous faire ou pas pour être sauvé, pour être réconcilié avec Dieu, pour pouvoir être des fils de Dieu. Voici ce que nous pensons être nécessaire en accord avec la Bible pour être sauvé. Tous les versets cités le sont de la Bible Martin 1744
 
@@ -185,14 +219,4 @@ Il nous faut donc nous tourner vers Dieu, vers Jésus Christ qui est Le seul qui
 
 ### Télécharger le document
 
-[
-
-Le salut selon la Bible
-
-le\_salut\_selon\_la\_bible.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_salut_selon_la_bible.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_salut_selon_la_bible.pdf)

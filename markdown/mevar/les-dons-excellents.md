@@ -14,6 +14,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fde"
 uuid: "d9cc2019-6183-400f-a339-90a83fc19960"
+stream_url: "https://mevar.org/les-dons-excellents/"
+bible_refs:
+  - "1 Jean 2"
+  - "2 Pierre 1:5-11"
+  - "Philippiens 4:11-12"
+  - "Proverbes 14"
 ---
 Amen! Vous savez mes frères, quand l'Esprit de Dieu s'exprime, écoutez ce qu’Il dit. C'est très important. Quand vous lisez dans Apocalypse, dans toutes les adresses qui ont été faites aux âges de l'Eglise, vers la fin, le Seigneur a toujours dit « _**Que celui qui a des oreilles écoute ce que l'Esprit dit aux églises**_ ».
 

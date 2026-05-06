@@ -1,25 +1,10 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { getCollection } from "astro:content";
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "$lib/components/ui/card";
-import { Badge } from "$lib/components/ui/badge";
-import { formatDateFr, deriveKind } from "$lib/utils";
+import WorkCard from "../components/WorkCard.astro";
+import { recentMevar, corpusCounts } from "$lib/works";
 
-// Featured: most recent posts from mevar (published posts), sorted desc, top 6
-const all = await getCollection("works");
-const featured = all
-  .filter((e) => e.data.source === "mevar" && e.data.status === "published" && e.data.type === "post")
-  .map((e) => ({ ...e, _date: (e.data.published_at as string | null) ?? (e.data.date as string | null) }))
-  .sort((a, b) => (b._date ?? "").localeCompare(a._date ?? ""))
-  .slice(0, 6);
-
-const counts = {
-  total: all.length,
-  sermons: all.filter((e) => deriveKind(e.data) === "sermon").length,
-  books: all.filter((e) => deriveKind(e.data) === "book").length,
-  studies: all.filter((e) => deriveKind(e.data) === "bible_study").length,
-  exhortations: all.filter((e) => deriveKind(e.data) === "exhortation").length,
-};
+const featured = await recentMevar(6);
+const counts = await corpusCounts();
 ---
 
 <Layout>
@@ -33,7 +18,7 @@ const counts = {
         — chaque référence connectée au texte original et aux écrits qui en parlent.
       </p>
       <div class="flex flex-wrap justify-center gap-3">
-        <a href="/works" class="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-sm font-medium text-primary-foreground hover:bg-primary/90 transition">
+        <a href="/predications" class="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-sm font-medium text-primary-foreground hover:bg-primary/90 transition">
           Parcourir la bibliothèque
         </a>
         <a href="/recherche" class="inline-flex items-center justify-center rounded-md border border-input bg-background px-6 py-3 text-sm font-medium hover:bg-accent hover:text-accent-foreground transition">
@@ -46,40 +31,37 @@ const counts = {
   <section class="border-b">
     <div class="container mx-auto px-4 py-8">
       <div class="grid grid-cols-2 md:grid-cols-5 gap-4 text-center">
-        <div><div class="text-2xl font-bold">{counts.total.toLocaleString("fr-FR")}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">documents</div></div>
-        <div><div class="text-2xl font-bold">{counts.sermons.toLocaleString("fr-FR")}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">prédications</div></div>
-        <div><div class="text-2xl font-bold">{counts.exhortations}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">exhortations</div></div>
-        <div><div class="text-2xl font-bold">{counts.studies}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">études bibliques</div></div>
-        <div><div class="text-2xl font-bold">{counts.books}</div><div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">livres</div></div>
+        <a href="/predications" class="group">
+          <div class="text-2xl font-bold group-hover:text-primary transition">{counts.sermons.toLocaleString("fr-FR")}</div>
+          <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">prédications</div>
+        </a>
+        <a href="/exhortations" class="group">
+          <div class="text-2xl font-bold group-hover:text-primary transition">{counts.exhortations}</div>
+          <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">exhortations</div>
+        </a>
+        <a href="/etudes-bibliques" class="group">
+          <div class="text-2xl font-bold group-hover:text-primary transition">{counts.studies}</div>
+          <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">études bibliques</div>
+        </a>
+        <a href="/publications" class="group">
+          <div class="text-2xl font-bold group-hover:text-primary transition">{(counts.books + counts.articles).toLocaleString("fr-FR")}</div>
+          <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">publications</div>
+        </a>
+        <div>
+          <div class="text-2xl font-bold">{counts.total.toLocaleString("fr-FR")}</div>
+          <div class="text-xs uppercase tracking-wide text-muted-foreground mt-1">total</div>
+        </div>
       </div>
     </div>
   </section>
 
   <section class="container mx-auto px-4 py-12">
-    <h2 class="text-2xl font-semibold mb-6 tracking-tight">Récemment publié</h2>
+    <div class="flex items-baseline justify-between mb-6">
+      <h2 class="text-2xl font-semibold tracking-tight">Récemment publié</h2>
+      <a href="/predications" class="text-sm text-muted-foreground hover:text-foreground transition">Tout voir →</a>
+    </div>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {featured.map((entry) => (
-        <Card class="flex flex-col">
-          {entry.data.local_image && (
-            <div class="aspect-[16/9] overflow-hidden rounded-t-lg bg-muted">
-              <img src={`/${entry.data.local_image}`} alt={entry.data.title ?? entry.id} loading="lazy" class="object-cover w-full h-full" />
-            </div>
-          )}
-          <CardHeader>
-            <div class="flex flex-wrap gap-1 mb-2">
-              {(entry.data.tags ?? []).slice(0, 3).map((t) => <Badge variant="secondary" class="text-xs">{t}</Badge>)}
-            </div>
-            <CardTitle class="text-xl"><a href={`/works/${entry.id}`} class="hover:underline">{entry.data.title ?? entry.id}</a></CardTitle>
-            {entry._date && <CardDescription>{formatDateFr(entry._date)}</CardDescription>}
-          </CardHeader>
-          {entry.data.summary && (
-            <CardContent class="text-sm text-muted-foreground line-clamp-3">{entry.data.summary}</CardContent>
-          )}
-          <CardFooter class="mt-auto">
-            <a href={`/works/${entry.id}`} class="text-sm font-medium hover:underline">Lire →</a>
-          </CardFooter>
-        </Card>
-      ))}
+      {featured.map((entry) => <WorkCard entry={entry} />)}
     </div>
   </section>
 </Layout>

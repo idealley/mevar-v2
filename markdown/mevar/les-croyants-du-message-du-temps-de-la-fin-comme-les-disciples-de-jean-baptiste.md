@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste_31_08_2019.pdf"
 source: "mevar"
 sermon_id: "les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste"
 title: "Les croyants du Message du Temps de la Fin comme les disciples de Jean-Baptiste"
@@ -17,6 +18,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f47"
 uuid: "e72e386b-aa20-41b1-895c-6ebce812c2ce"
+stream_url: "https://mevar.org/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste/"
+bible_refs:
+  - "Actes 19:1-7"
+  - "Actes 2"
+  - "Joël 2"
+  - "Luc 3:1-7"
+  - "Matthieu 25"
 ---
 ## Convention de Kpèbo
 
@@ -140,14 +148,4 @@ C’est ce qui s’est passé à un moment donné dans le Message : des frères 
 
 ### Télécharger le document
 
-[
-
-Les croyants du Message du Temps de la Fin comme les disciples de Jean-Baptiste
-
-les\_disciples\_de\_jean\_baptiste\_31\_08\_2019.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste_31_08_2019.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste_31_08_2019.pdf)

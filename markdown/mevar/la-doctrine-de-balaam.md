@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_doctrine_de_Balaam.pdf"
 source: "mevar"
 sermon_id: "la-doctrine-de-balaam"
 title: "La doctrine de Balaam"
@@ -16,6 +17,29 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f22"
 uuid: "64440052-60c1-4f06-a68e-4ad1475a9b58"
+stream_url: "https://mevar.org/la-doctrine-de-balaam/"
+bible_refs:
+  - "2 Pierre 2:15"
+  - "Apocalypse 19:15"
+  - "Apocalypse 2:12-17"
+  - "Apocalypse 2:14"
+  - "Deutéronome 23:3-4"
+  - "Deutéronome 23:4"
+  - "Deutéronome 7:3"
+  - "Jacques 1:17"
+  - "Josué 13:22"
+  - "Matthieu 7:21-23"
+  - "Matthieu 7:24-27"
+  - "Nombres 22"
+  - "Nombres 22:20"
+  - "Nombres 22:4-6"
+  - "Nombres 23:19"
+  - "Nombres 25:1-3"
+  - "Nombres 31:16"
+  - "Nombres 31:8"
+  - "Psaumes 5:5"
+  - "Romains 11:29"
+  - "Romains 6:23"
 ---
 La parole de Dieu est riche en exemples et enseignements pour nous aider dans notre marche avec Dieu. Ce qui s’est passé peut être compris comme type, l’ombre des choses à venir, mais aussi comme avertissement. L’histoire de Balaam est riche d’enseignements pour les gens de notre époque, car Balaam est le type même du croyant qui a connu Dieu, qui a reçu des dons de Dieu, mais qui suit son propre chemin, et non la voie que Dieu lui montre. Balaam est un “vrai faux” prophète, qui trouve la mort, car il a désobéi à Dieu et a été séduit par le monde.
 
@@ -171,14 +195,4 @@ Soyons donc prudent et écoutons ce que Dieu nous dit et surtout mettons le en p
 
 ### Télécharger le document
 
-[
-
-La doctrine de Balaam
-
-la\_doctrine\_de\_Balaam.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_doctrine_de_Balaam.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_doctrine_de_Balaam.pdf)

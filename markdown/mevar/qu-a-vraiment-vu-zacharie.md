@@ -16,6 +16,19 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f5a"
 uuid: "011953ca-4786-4f03-9c74-d7f2add1e18b"
+stream_url: "https://mevar.org/qu-a-vraiment-vu-zacharie/"
+bible_refs:
+  - "1 Rois 7:23"
+  - "Apocalypse 20:9"
+  - "Apocalypse 21:16"
+  - "Daniel 12:4"
+  - "Esther 6"
+  - "Jérémie 52:21"
+  - "Zacharie 5"
+  - "Zacharie 5:1"
+  - "Zacharie 5:2"
+  - "Éphésiens 3:18"
+  - "Ésaïe 17"
 ---
 ## Le rouleau et l'épha - étude du chapitre 5 de Zacharie
 

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2014_la_nuit_et_le_jour_des_esprits.pdf"
 source: "mevar"
 sermon_id: "la-nuit-et-le-jour-des-esprits"
 title: "La Nuit et le Jour des Esprits"
@@ -14,6 +15,40 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ef4"
 uuid: "108b8b33-d72d-4b08-9d6b-b762c5327b97"
+stream_url: "https://mevar.org/la-nuit-et-le-jour-des-esprits/"
+bible_refs:
+  - "1 Corinthiens 11:27"
+  - "2 Pierre 1:19"
+  - "2 Pierre 1:19-21"
+  - "2 Pierre 2:1-2"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 16:13"
+  - "Apocalypse 17"
+  - "Apocalypse 4:7"
+  - "Apocalypse 6"
+  - "Genèse 4:6-7"
+  - "Hébreux 5:12-13"
+  - "Jean 12:6"
+  - "Jean 13:26-30"
+  - "Jean 6:51"
+  - "Luc 17"
+  - "Luc 22:53"
+  - "Malachie 4:5"
+  - "Marc 14:10"
+  - "Matthieu 24"
+  - "Matthieu 24:31"
+  - "Matthieu 24:9-13"
+  - "Matthieu 25"
+  - "Matthieu 25:6"
+  - "Matthieu 26:31"
+  - "Matthieu 27:3-5"
+  - "Matthieu 7:6"
+  - "Nombres 10"
+  - "Romains 13:11-14"
+  - "Ésaïe 21"
+  - "Ésaïe 21:12"
+  - "Ésaïe 27:12-13"
+  - "Ésaïe 40"
 ---
 ## Exhortations de Janvier 2014
 
@@ -151,14 +186,4 @@ Frères, c’est avec beaucoup de joie, de paix et de vie que nous continuons la
 
 ### Télécharger le document
 
-[
-
-La Nuit et le Jour des Esprits
-
-exhortation\_de\_janvier\_2014\_la\_nuit\_et\_le\_jour\_des\_esprits.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2014_la_nuit_et_le_jour_des_esprits.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2014_la_nuit_et_le_jour_des_esprits.pdf)

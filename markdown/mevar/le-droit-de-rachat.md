@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_droit_de_rachat_12_01_2014.pdf"
 source: "mevar"
 sermon_id: "le-droit-de-rachat"
 title: "Le droit de rachat"
@@ -14,6 +15,12 @@ authors:
   - "André Kadjany"
 ghost_id: "6448fa86db90770001518ef3"
 uuid: "0a90f84a-cee8-4ad2-a611-46e9ba131bef"
+stream_url: "https://mevar.org/le-droit-de-rachat/"
+bible_refs:
+  - "Apocalypse 5:8"
+  - "Luc 24"
+  - "Nombres 36"
+  - "Ruth 3"
 ---
 Nous allons lire dans Nombre 27:
 
@@ -151,14 +158,4 @@ Aujourd’hui, les hommes sont menés par milliers ou même par millions à la m
 
 ### Télécharger le document
 
-[
-
-Le droit de rachat
-
-le\_droit\_de\_rachat\_12\_01\_2014.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_droit_de_rachat_12_01_2014.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_droit_de_rachat_12_01_2014.pdf)

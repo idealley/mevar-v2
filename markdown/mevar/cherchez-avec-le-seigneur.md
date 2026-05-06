@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf"
 source: "mevar"
 sermon_id: "cherchez-avec-le-seigneur"
 title: "Cherchez avec le Seigneur"
@@ -14,6 +15,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f4a"
 uuid: "b5429493-9b49-4021-a39b-8c2f1bd9d887"
+stream_url: "https://mevar.org/cherchez-avec-le-seigneur/"
+bible_refs:
+  - "2 Corinthiens 1:20"
+  - "Actes 26:18"
+  - "Hébreux 11:1"
+  - "Jean 11:42"
+  - "Jean 14"
+  - "Jean 14:1"
+  - "Jean 5:19"
+  - "Josué 1"
+  - "Josué 7"
+  - "Luc 1:18-20"
+  - "Luc 5"
+  - "Marc 11:22"
+  - "Matthieu 7:7"
+  - "Éphésiens 6:14-18"
 ---
 ## Exhortation d’octobre 2019
 
@@ -77,14 +94,4 @@ En effet, pour être combattant djihadiste, il faut être musulman mais pour êt
 
 ### Télécharger le document
 
-[
-
-Cherchez avec le Seigneur
-
-exhortation\_2\_0ctober\_2019\_cherchez\_avec\_le\_seigneur.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf)

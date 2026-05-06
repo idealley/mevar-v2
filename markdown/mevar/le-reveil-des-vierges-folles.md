@@ -17,5 +17,6 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f78"
 uuid: "58fe2726-28f9-4771-af8c-1507b57ddd79"
+stream_url: "https://mevar.org/le-reveil-des-vierges-folles/"
 ---
 

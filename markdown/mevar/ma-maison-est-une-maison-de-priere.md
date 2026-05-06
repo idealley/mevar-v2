@@ -15,5 +15,6 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fb8"
 uuid: "60efdd38-10dd-4eb8-bea4-d68fe20af9cf"
+stream_url: "https://mevar.org/ma-maison-est-une-maison-de-priere/"
 ---
 

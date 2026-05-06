@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf"
 source: "mevar"
 sermon_id: "le-croyant-semblable-au-marchand-de-perles"
 title: "Le croyant semblable au marchand de perles"
@@ -14,6 +15,42 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f5e"
 uuid: "596d222e-be64-4215-8863-46759de4d4ea"
+stream_url: "https://mevar.org/le-croyant-semblable-au-marchand-de-perles/"
+bible_refs:
+  - "1 Corinthiens 12:4-11"
+  - "1 Corinthiens 14:1"
+  - "1 Corinthiens 2:6-10"
+  - "1 Corinthiens 7:5"
+  - "1 Thessaloniciens 5:23"
+  - "1 Timothée 4:8-9"
+  - "2 Pierre 1"
+  - "Apocalypse 19"
+  - "Apocalypse 19:7-8"
+  - "Apocalypse 19:9"
+  - "Apocalypse 21:27"
+  - "Apocalypse 22"
+  - "Apocalypse 22:15"
+  - "Ecclésiaste 9:14-18"
+  - "Galates 5:22"
+  - "Jacques 3:2-10"
+  - "Jean 11:9-10"
+  - "Jean 13:17"
+  - "Jean 3:5"
+  - "Luc 17:20-21"
+  - "Matthieu 13"
+  - "Matthieu 13:11"
+  - "Matthieu 13:45-46"
+  - "Matthieu 4:17"
+  - "Matthieu 7:6"
+  - "Philippiens 4:8"
+  - "Proverbes 16:16"
+  - "Proverbes 16:32"
+  - "Proverbes 25:28"
+  - "Proverbes 27:17"
+  - "Proverbes 8:12"
+  - "Romains 13:13"
+  - "Éphésiens 6"
+  - "Éphésiens 6:13-17"
 ---
 ## Exhortation de Janvier 2020
 
@@ -101,14 +138,4 @@ Mes chers amis, le Royaume des cieux est semblable à un marchand qui cherche de
 
 ### Télécharger le document
 
-[
-
-Le croyant semblable au marchand de perles
-
-exhortation\_de\_janvier\_2020\_le\_croyant\_semblable\_au\_marchand\_de\_perles.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf)

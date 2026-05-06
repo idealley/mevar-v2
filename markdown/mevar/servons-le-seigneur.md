@@ -17,5 +17,6 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fb9"
 uuid: "a987c674-210a-494a-a4cf-932aad1563a3"
+stream_url: "https://mevar.org/servons-le-seigneur/"
 ---
 

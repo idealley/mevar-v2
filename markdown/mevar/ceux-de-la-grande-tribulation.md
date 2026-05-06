@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_premier_partie_23_08_2015.pdf"
 source: "mevar"
 sermon_id: "ceux-de-la-grande-tribulation"
 title: "Ceux de la grande tribulation (1)"
@@ -14,6 +15,25 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f0e"
 uuid: "c49b71d2-bd96-4df3-80db-9b06b71e9c1a"
+stream_url: "https://mevar.org/ceux-de-la-grande-tribulation/"
+bible_refs:
+  - "Apocalypse 11"
+  - "Apocalypse 11:3"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 13:1-10"
+  - "Apocalypse 20"
+  - "Apocalypse 4"
+  - "Apocalypse 7"
+  - "Colossiens 2:9"
+  - "Genèse 11"
+  - "Jean 3:16"
+  - "Matthieu 24"
+  - "Nombres 18"
+  - "Zacharie 12"
+  - "Zacharie 12:10-14"
+  - "Zacharie 13:1"
+  - "Ésaïe 27:12-13"
 ---
 ## Première partie
 
@@ -236,14 +256,4 @@ A la fin, je voudrais indiquer que ceux qui auront péri dans la grande tribulat
 
 ### Télécharger le document
 
-[
-
-Ceux de la grande tribulation
-
-ceux\_de\_la\_grande\_tribulation\_premier\_partie\_23\_08\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_premier_partie_23_08_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_premier_partie_23_08_2015.pdf)

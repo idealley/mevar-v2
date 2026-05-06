@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_reveil_selon_william_branham_17_11_2012.pdf"
 source: "mevar"
 sermon_id: "le-reveil-de-la-fin-des-temps-selon-william-branham"
 title: "Le réveil de la Fin des Temps selon William Branham"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ee3"
 uuid: "1b95622b-de2c-466f-9a09-28268ea9b366"
+stream_url: "https://mevar.org/le-reveil-de-la-fin-des-temps-selon-william-branham/"
+bible_refs:
+  - "2 Chroniques 7:14"
+  - "2 Rois 2"
 ---
 Nous lisons dans 2 Rois 2, le texte que notre frère a lu dans la prédication que nous venons d’écouter. Un homme appelé de Dieu.
 
@@ -91,14 +96,4 @@ Que le péché ne domine pas sur nous. Que le monde ne domine pas sur nous. Nous
 
 ### Télécharger le document
 
-[
-
-Le réveil de la Fin des Temps selon William Branham
-
-le\_reveil\_selon\_william\_branham\_17\_11\_2012.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_reveil_selon_william_branham_17_11_2012.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_reveil_selon_william_branham_17_11_2012.pdf)

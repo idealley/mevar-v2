@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_foi_saisit_l_invisible_4_01_2015.pdf"
 source: "mevar"
 sermon_id: "la-foi-voit-l-invisible"
 title: "La Foi voit l’invisible"
@@ -15,6 +16,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eff"
 uuid: "287fb236-db6f-4569-808b-1f4a83b4add9"
+stream_url: "https://mevar.org/la-foi-voit-l-invisible/"
+bible_refs:
+  - "2 Corinthiens 11"
+  - "2 Corinthiens 4:17"
+  - "Colossiens 1:15"
+  - "Hébreux 11"
 ---
 Alléluia ! Bonne année la foi. Si on te fait bonne année la foi, c’est bon. C’est comme ceux qui disent «\* bonne année beaucoup d’argent\* ». J’ai dit ici que nous, notre monnaie c’est la foi ! Dans le monde spirituel, notre monnaie c’est la foi. Donc je vais te souhaiter ce matin beaucoup d’argent en esprit. Amen ! La foi c’est beaucoup d’argent. Celui qui a la foi est un milliardaire ; c’est même un multi millionnaire parce qu’il peut tout acheter avec sa foi. Amen ! Et il peut entrer dans les magasins du ciel et dans les trésors du ciel et prendre tout ce qu’il veut tranquillement. Amen ! Tu peux aller faire ton marché comme tout le monde. Si tu as un besoin, tu fais ton marché. Alléluia ! Donc c’est important.
 
@@ -138,14 +145,4 @@ Que Dieu nous bénisse ! Nous allons nous remettre entre les mains de Dieu…
 
 ### Télécharger le document
 
-[
-
-La Foi voit l’invisible
-
-la\_foi\_saisit\_l\_invisible\_4\_01\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_foi_saisit_l_invisible_4_01_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_foi_saisit_l_invisible_4_01_2015.pdf)

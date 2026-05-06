@@ -18,6 +18,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fe0"
 uuid: "966dba54-3fbb-430a-9e98-25f1ef2ca40c"
+stream_url: "https://mevar.org/ebranlez-les-prisons/"
+bible_refs:
+  - "Actes 16"
+  - "Actes 8"
+  - "Matthieu 23:13"
+  - "Matthieu 24"
+  - "Ésaïe 6"
 ---
 _Alléluia ! \[Ass : Amen ! Réd.\] Que Le Nom du Seigneur soit béni ! Nous allons prier. Seigneur notre Dieu, que Ton Nom soit béni, que Ton Nom soit glorifié ce matin. Nous Te sommes reconnaissants parce que Tu nous a rassemblés pour T’adorer et Te magnifier. Et ce matin, c’est avec des cœurs dans la joie que nous Te chantons, que nous Te louons, que nous T’exaltons, parce que nous reconnaissons que Tu es notre Seul et Vrai Dieu. **En dehors de Toi dans le monde, il n’y a plus de Dieu, Seigneur. Avant Toi, il n’y a pas de Dieu, après Toi, il n’y aura pas de Dieu.** Et il n’y aura jamais après Toi, Seigneur, parce que Tu es l’Eternel Dieu Tout-Puissant, Celui qui règne d’éternité en éternité. Merci à Toi ce matin pour ce rassemblement. Bénis notre communion avec Toi Seigneur parce que nous sommes venus pour Te rencontrer. Béni notre communion avec Toi. Que Ta grâce et Ta paix soient avec nous. Que Ton onction soit répandue dans la vie de chacun d’entre nous, dans l’esprit de chacun d’entre nous, et que Ta Parole vienne en abondance pour nous édifier, pour nous fortifier, pour nous encourager Seigneur, à demeurer ferme attaché à Toi au Nom de Jésus-Christ !_
 

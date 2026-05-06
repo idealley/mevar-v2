@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_chemin_le_plus_long_02_05_2015.pdf"
 source: "mevar"
 sermon_id: "le-chemin-le-plus-long"
 title: "Le chemin le plus long"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f05"
 uuid: "2795d51d-5bb5-4933-9eb9-c5e9dd778d72"
+stream_url: "https://mevar.org/le-chemin-le-plus-long/"
+bible_refs:
+  - "Actes 17:4-7"
+  - "Exode 13:17-22"
 ---
 Que Dieu soit béni ! Nous lisons dans Exode le chapitre 13. _Lorsque Pharaon laissa aller le peuple, Dieu ne le conduisit point par le chemin du pays des Philistins, quoique le plus proche ; car Dieu dit :_
 
@@ -85,14 +90,4 @@ Saül a vu la guerre avec le peuple et ils avaient peur de Goliath. Mais quand D
 
 ### Télécharger le document
 
-[
-
-Le chemin le plus long
-
-le\_chemin\_le\_plus\_long\_02\_05\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_chemin_le_plus_long_02_05_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_chemin_le_plus_long_02_05_2015.pdf)

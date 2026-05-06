@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f88"
 uuid: "a5d68e1d-0bb6-401f-a973-1430fe012c82"
+stream_url: "https://mevar.org/la-position-du-mari-1/"
 ---
 ## Première partie
 

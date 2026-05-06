@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/les_cinq_ministeres_de_la_parole.pdf"
 source: "mevar"
 sermon_id: "les-5-ministeres-de-la-parole"
 title: "Les 5 ministères de la Parole"
@@ -15,6 +16,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fcd"
 uuid: "36bb6bc2-e4a4-42d4-8eee-38ca32c75059"
+stream_url: "https://mevar.org/les-5-ministeres-de-la-parole/"
+bible_refs:
+  - "1 Corinthiens 2:4-5"
+  - "Jean 7:16-18"
+  - "Éphésiens 4"
+  - "Éphésiens 4:13"
 ---
 La question de l’exercice des cinq Ministères de la Parole dans l’Église est l’un des thèmes les plus importants pour notre époque. Comme le précise Éphésiens 4 dans les versets 10 à 13, le but des cinq Ministères est d’amener à la perfection les enfants de Dieu par le moyen de la prédication.
 
@@ -82,14 +89,4 @@ Dans cet exposé, j’apporte à l’ensemble des saints, ma petite expérience 
 
 Télécharger le livre _Les cinq ministères de la parole:_
 
-[
-
-Les cinq ministeres de la parole
-
-les\_cinq\_ministeres\_de\_la\_parole.pdf
-
-2 MB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/les_cinq_ministeres_de_la_parole.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/les_cinq_ministeres_de_la_parole.pdf)

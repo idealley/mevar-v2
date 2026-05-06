@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_voeu_de_jephte_06_octobre_2013.pdf"
 source: "mevar"
 sermon_id: "le-voeux-de-jephte"
 title: "Le vœux de Jephté"
@@ -16,6 +17,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eec"
 uuid: "af68408b-5c76-43f2-b3ff-8ea0a9e2b360"
+stream_url: "https://mevar.org/le-voeux-de-jephte/"
+bible_refs:
+  - "Apocalypse 12"
+  - "Apocalypse 4"
+  - "Apocalypse 6"
+  - "Juges 11"
+  - "Nombres 30"
 ---
 Que le Seigneur vous bénisse ! Nous remercions le Seigneur ce matin. Nous sommes venus écouter la parole de Dieu. Nous étions là déjà hier et nous l’avons écouté. Hier nous avons dit qu’il fallait regarder le but du message. **Parce que le message du temps de la fin a été donné dans un but. Et c’est le but qui est le plus important. Celui qui manque le but du message est égaré**. Il y a des frères qui souvent pensent que l’égarement concerne seulement les tonnerres, ou ceux qui vivent dans les grâces infinies...**L’égarement s’explique de plusieurs manières.** **Si tu manques le but de Dieu, tu es égaré**. Les sept sceaux ont été révélés pour un but. La semence du serpent a été révélée pour un but. Tout le livre d’Apocalypse, du premier chapitre au dernier chapitre a été révélé pour un but.
 
@@ -121,14 +129,4 @@ Que Dieu nous bénisse ! Je vais m’arrêter là. Que la grâce et la paix du S
 
 ### Télécharger le document
 
-[
-
-Le vœux de Jephté
-
-le\_voeu\_de\_jephte\_06\_octobre\_2013.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_voeu_de_jephte_06_octobre_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_voeu_de_jephte_06_octobre_2013.pdf)

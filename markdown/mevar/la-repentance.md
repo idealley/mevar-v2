@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_repentance_17_07_2016.pdf"
 source: "mevar"
 sermon_id: "la-repentance"
 title: "La repentance"
@@ -14,6 +15,32 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f19"
 uuid: "255ab2fd-3b93-4f3a-a5bc-36aa9d1b307e"
+stream_url: "https://mevar.org/la-repentance/"
+bible_refs:
+  - "1 Samuel 2:22"
+  - "1 Timothée 4"
+  - "Actes 10:43"
+  - "Actes 19"
+  - "Actes 19:1-6"
+  - "Actes 2:38"
+  - "Hébreux 10"
+  - "Hébreux 3"
+  - "Hébreux 6"
+  - "Jacques 5:16"
+  - "Jean 16"
+  - "Jean 4"
+  - "Lamentations 13"
+  - "Marc 3:29"
+  - "Matthieu 13:22"
+  - "Matthieu 1:4-5"
+  - "Nombres 25"
+  - "Romains 11"
+  - "Romains 2"
+  - "Ruth 1"
+  - "Ruth 1:15-19"
+  - "Tite 3"
+  - "Ésaïe 53"
+  - "Ésaïe 53:4-6"
 ---
 Je vous ai dit qu’on allait faire des révisions. Nous avons révisé un peu la question de l’enlèvement. Amen. Comme je l’ai dit, nous sommes des serviteurs de Dieu, des prédicateurs. Nous devons à chaque fois nous assurer que nous comprenons toutes les notions, surtout les notions les plus importantes, car si on ne comprend pas les notions les plus importantes, surtout pour les nouveaux croyants, c’est difficile. Avec le temps qu’on a passé dans la foi, on s’est rendu compte qu’il y a des notions qu’on n’a pas bien saisies en venant à la foi. Et par moments, cela nous a fatigués. Quand vous venez au Seigneur et qu’il y a des notions assez importantes que vous ne comprenez pas, dans la pratique ça fatigue jusqu’à ce qu’un jour Dieu ouvre vos yeux. Amen.
 
@@ -257,14 +284,4 @@ Je ne suis plus sur la terre. Je réfléchis… Quand je vais rencontrer le Seig
 
 ### Télécharger le document
 
-[
-
-La repentance
-
-la\_repentance\_17\_07\_2016.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_repentance_17_07_2016.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_repentance_17_07_2016.pdf)

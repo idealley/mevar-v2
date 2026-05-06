@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf"
 source: "mevar"
 sermon_id: "la-guerre-spirituelle-actuelle-nous-triompherons"
 title: "La guerre spirituelle actuelle - nous triompherons"
@@ -16,6 +17,35 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f7d"
 uuid: "6d8ba311-ba67-4ead-809f-383473814a06"
+stream_url: "https://mevar.org/la-guerre-spirituelle-actuelle-nous-triompherons/"
+bible_refs:
+  - "1 Chroniques 11"
+  - "1 Corinthiens 15:32"
+  - "2 Corinthiens 10:3-5"
+  - "2 Samuel 23"
+  - "2 Timothée 2:2-5"
+  - "Actes 16"
+  - "Actes 17"
+  - "Actes 18"
+  - "Actes 19"
+  - "Apocalypse 13"
+  - "Apocalypse 17:1-5"
+  - "Apocalypse 18:1-3"
+  - "Daniel 2:32-33"
+  - "Daniel 2:34-35"
+  - "Daniel 2:44-45"
+  - "Exode 13"
+  - "Exode 13:17-18"
+  - "Exode 17"
+  - "Genèse 15:1"
+  - "Luc 23:31"
+  - "Nombres 13:14"
+  - "Nombres 21:13-15"
+  - "Psaumes 62:12"
+  - "Romains 16:20"
+  - "Éphésiens 6:10-12"
+  - "Éphésiens 6:13-15"
+  - "Éphésiens 6:18"
 ---
 ## Exhortation fin avril 2020
 
@@ -91,14 +121,4 @@ Mes bien-aimés, quel combat mena Abraham ? Il alla libérer son neveu Lot qui a
 
 ### Télécharger le document
 
-[
-
-La guerre spirituelle actuelle - nous triompherons
-
-La\_guerre\_spirituelle\_actuelle\_nous\_triompherons-exhortation\_fin\_avril\_2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf)

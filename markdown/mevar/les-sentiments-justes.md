@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/les-sentiments-justes-exhortation-fevrier-2020.pdf"
 source: "mevar"
 sermon_id: "les-sentiments-justes"
 title: "Les sentiments justes"
@@ -14,6 +15,32 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f5f"
 uuid: "410994e2-356c-4a9a-9c4f-a6609931a69c"
+stream_url: "https://mevar.org/les-sentiments-justes/"
+bible_refs:
+  - "1 Corinthiens 6:15-17"
+  - "1 Corinthiens 6:19"
+  - "Actes 8"
+  - "Exode 34:5-7"
+  - "Jacques 4:8"
+  - "Jean 8:12"
+  - "Luc 24:1-7"
+  - "Luc 7:11-15"
+  - "Matthieu 10:16"
+  - "Matthieu 14:14"
+  - "Matthieu 15:29-31"
+  - "Matthieu 15:32-33"
+  - "Matthieu 18:25-28"
+  - "Matthieu 5:12-16"
+  - "Matthieu 8:14-17"
+  - "Matthieu 9"
+  - "Matthieu 9:36-38"
+  - "Psaumes 103"
+  - "Psaumes 86:16"
+  - "Romains 12"
+  - "Romains 12:1-2"
+  - "Romains 12:3-5"
+  - "Romains 12:5"
+  - "Romains 12:6-8"
 ---
 ## Exhortation de Février 2020
 
@@ -111,14 +138,4 @@ Mes bien-aimés, si nous devons avoir les mêmes sentiments, cela veut dire qu�
 
 ### Télécharger le document
 
-[
-
-Les sentiments justes
-
-les-sentiments-justes-exhortation-fevrier-2020.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/les-sentiments-justes-exhortation-fevrier-2020.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/les-sentiments-justes-exhortation-fevrier-2020.pdf)

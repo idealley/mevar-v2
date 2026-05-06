@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_fils_prodigue_09_11_2013.pdf"
 source: "mevar"
 sermon_id: "le-fils-prodigue"
 title: "Le fils prodigue"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eef"
 uuid: "e43aecc2-1a63-4797-83fa-778a8ea0ccdd"
+stream_url: "https://mevar.org/le-fils-prodigue/"
+bible_refs:
+  - "1 Pierre 2"
+  - "Luc 17"
 ---
 Que Dieu nous bénisse! Nous remercions le Seigneur pour ce moment. Je garde un bon souvenir de mon passage ici l'année passée. Nous avons été bien reçus et nous avons gardé un bon souvenir de votre communauté. Ma prière c'est qu'on puisse se voir plus régulièrement, mais pour le moment, Dieu ne le permet pas, comme je suis très loin d'ici. Et généralement, je fais des tournées et je viens en Suisse une fois par année et ça fait maintenant un an que je suis passé par ici. Que Dieu soit béni! Et comme mon frère l'a dit, nous sommes heureux de rencontrer d'autres frères parce que le royaume de Dieu est grand. Amen. Le royaume de Dieu est très grand. Partout sur la terre, il y a des enfants de Dieu et il est toujours bien de nous rencontrer dans le Seigneur, surtout pour partager Sa Parole.
 
@@ -111,14 +116,4 @@ Ne soyons pas comme ce fils qui ne voulait plus de l'autorité de son père. Nou
 
 ### Télécharger le document
 
-[
-
-Le fils prodigue
-
-le\_fils\_prodigue\_09\_11\_2013.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_fils_prodigue_09_11_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_fils_prodigue_09_11_2013.pdf)

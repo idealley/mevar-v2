@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/l_offrande_sallee_15_01_2017.pdf"
 source: "mevar"
 sermon_id: "l-offrande-salee"
 title: "L’Offrande salée"
@@ -14,6 +15,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f1f"
 uuid: "8f258caa-8e1c-4f74-ba3c-00568e36c8fd"
+stream_url: "https://mevar.org/l-offrande-salee/"
+bible_refs:
+  - "1 Corinthiens 13"
+  - "Jean 3"
+  - "Matthieu 24:14"
 ---
 Nous lisons Lévitique chapitre 2, le verset 13.
 
@@ -83,14 +89,4 @@ Quand on pleure à cause du Seigneur, c’est du sel qu’on répand sur notre o
 
 ### Télécharger le document
 
-[
-
-L’Offrande salée
-
-l\_offrande\_sallee\_15\_01\_2017.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/l_offrande_sallee_15_01_2017.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_offrande_sallee_15_01_2017.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/afin_que_les_oeuvres_soient_accomplies.pdf"
 source: "mevar"
 sermon_id: "afin-que-les-oeuvres-de-dieu-soient-accomplies"
 title: "Afin que les œuvres de Dieu soient accomplies"
@@ -17,6 +18,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fc6"
 uuid: "e8ba4ef1-4943-43c1-963d-d285004002d0"
+stream_url: "https://mevar.org/afin-que-les-oeuvres-de-dieu-soient-accomplies/"
+bible_refs:
+  - "Jean 11"
+  - "Job 42"
+  - "Luc 1"
+  - "Malachie 4"
 ---
 Que Dieu soit béni ! Nous allons lire. On va commencer la lecture dans Jean chapitre 9. Alors on a entendu beaucoup de paroles, je pense que nous les gardons parce qu’il ne faut pas oublier les prédications. Amen ! On les emmagasine et puis quand il y a un problème, l’Esprit fait ressortir cela pour nous aider. Celui qui ne garde pas la parole, s’il a un problème, il n’a pas de ressources. **Mais** **quand** **tu** **sais** **garder** **la** **parole** **dans** **ton** **cœur,** **quand** **tu** **as** **un** **problème,** **l’Esprit** **remue** **cela,** **il** **fait** **ressortir** **cela.** **Il** **te** **rappelle** **cela** **dans** **les** **moments** **difficiles.** **Amen** **!**
 
@@ -188,14 +195,4 @@ Cantique d’adoration.
 
 * * *
 
-[
-
-Afin que les oeuvres soient accomplies
-
-afin\_que\_les\_oeuvres\_soient\_accomplies.pdf
-
-206 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/afin_que_les_oeuvres_soient_accomplies.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/afin_que_les_oeuvres_soient_accomplies.pdf)

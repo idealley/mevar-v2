@@ -18,6 +18,9 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f67"
 uuid: "972e3ebf-2ef9-40aa-9f3e-0ecadcd8e1ca"
+stream_url: "https://mevar.org/le-sermon-sur-la-montagne-deuxieme-partie/"
+bible_refs:
+  - "Matthieu 5"
 ---
 ## Deuxième partie
 

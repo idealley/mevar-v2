@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_decembre_2013.pdf"
 source: "mevar"
 sermon_id: "la-solution-a-la-souffrance"
 title: "La Solution à la Souffrance"
@@ -14,6 +15,19 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ef1"
 uuid: "de7898fe-8b07-4075-84d6-e692b0010fe6"
+stream_url: "https://mevar.org/la-solution-a-la-souffrance/"
+bible_refs:
+  - "1 Corinthiens 7:28"
+  - "1 Timothée 2:8"
+  - "2 Samuel 16:5-13"
+  - "Exode 20:2-6"
+  - "Jacques 4:8-10"
+  - "Jacques 5:13"
+  - "Job 17:9"
+  - "Psaumes 75"
+  - "Ésaïe 53"
+  - "Ésaïe 53:10"
+  - "Ésaïe 53:3"
 ---
 ## Exhortaion décembre 2013
 
@@ -101,14 +115,4 @@ Mes frères, je nous exhorte à la simplicité et à l’humilité. Quelqu’un 
 
 ### Télécharger le document
 
-[
-
-La Solution à la Souffrance
-
-exhortation\_decembre\_2013.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_decembre_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_decembre_2013.pdf)

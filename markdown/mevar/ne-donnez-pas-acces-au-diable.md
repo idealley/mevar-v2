@@ -16,6 +16,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f61"
 uuid: "7e768017-0bf5-44ca-9d7b-4c7f8630c7c1"
+stream_url: "https://mevar.org/ne-donnez-pas-acces-au-diable/"
+bible_refs:
+  - "1 Corinthiens 12:1"
+  - "Proverbes 24"
 ---
 Nous allons lire Éphésiens chapitre 4 à partir du verset 25. Le frère Branham a comparé le livre d’Éphésiens au livre de Josué, vu l’esprit du combat spirituel qui est présenté dans le chapitre 4 :
 

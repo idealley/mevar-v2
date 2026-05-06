@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf"
 source: "mevar"
 sermon_id: "le-baton-de-dieu"
 title: "Le bâton de Dieu"
@@ -14,6 +15,19 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ed7"
 uuid: "288c589d-c30b-4ccf-972f-a630db3da93a"
+stream_url: "https://mevar.org/le-baton-de-dieu/"
+bible_refs:
+  - "2 Samuel 23"
+  - "Apocalypse 12"
+  - "Apocalypse 12:7-12"
+  - "Apocalypse 17"
+  - "Apocalypse 17:9-14"
+  - "Daniel 10"
+  - "Exode 3:1-4"
+  - "Exode 4"
+  - "Joël 3:9-10"
+  - "Luc 22:39-53"
+  - "Nombres 17"
 ---
 ## Exhortation spéciale du Mois d'Août 2006
 
@@ -165,14 +179,4 @@ Prière d'ensemble
 
 ### Télécharger le document
 
-[
-
-Le bâton de Dieu
-
-exhortation\_speciale\_aout\_2006\_le\_baton\_de\_dieu.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf)

@@ -18,6 +18,9 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f68"
 uuid: "94d16719-afb6-4749-8557-8473369a0cc4"
+stream_url: "https://mevar.org/la-femme-de-sunem/"
+bible_refs:
+  - "2 Rois 4"
 ---
 Exhortation basée sur 2 Rois 4. Quelles sont les vertues que l'Eglise doit avoir?
 

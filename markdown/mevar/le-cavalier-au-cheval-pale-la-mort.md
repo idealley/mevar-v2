@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/7_sceaux_3.pdf"
 source: "mevar"
 sermon_id: "le-cavalier-au-cheval-pale-la-mort"
 title: "Le Cavalier au Cheval Pâle: La Mort"
@@ -17,6 +18,18 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f45"
 uuid: "84e45095-47e9-4336-b438-b2e344e0b635"
+stream_url: "https://mevar.org/le-cavalier-au-cheval-pale-la-mort/"
+bible_refs:
+  - "1 Rois 18"
+  - "Apocalypse 17"
+  - "Apocalypse 17:15"
+  - "Apocalypse 17:5"
+  - "Deutéronome 28"
+  - "Esther 7:7"
+  - "Jacques 5:11"
+  - "Jérémie 29"
+  - "Luc 17:26-28"
+  - "Ézéchiel 14"
 ---
 ## Le quatrième sceau
 
@@ -149,14 +162,4 @@ Que Dieu soit béni. Je pense qu’on a fini.
 
 ### Télécharger le document
 
-[
-
-Le Cavalier au Cheval Pâle: La Mort
-
-7\_sceaux\_3.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/7_sceaux_3.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/7_sceaux_3.pdf)

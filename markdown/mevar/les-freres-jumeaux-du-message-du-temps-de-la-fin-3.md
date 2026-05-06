@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/JUMEAUX%203.pdf"
 source: "mevar"
 sermon_id: "les-freres-jumeaux-du-message-du-temps-de-la-fin-3"
 title: "Les frères jumeaux du Message du Temps de la Fin (3)"
@@ -19,6 +20,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f75"
 uuid: "1d19507c-dace-4909-b6a0-fea7b0fb80e2"
+stream_url: "https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-3/"
+bible_refs:
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 10:1"
+  - "1 Rois 19:15-16"
+  - "1 Samuel 8"
+  - "Hébreux 12"
+  - "Matthieu 24"
+  - "Matthieu 24:45-47"
+  - "Matthieu 25"
 ---
 ## Troisième partie
 
@@ -137,14 +148,4 @@ Je vous donne rendez-vous pour une quatrième séance parce que le Saint-Esprit 
 
 ### Télécharger le document
 
-[
-
-Les frères jumeaux du Message du Temps de la Fin \[audio\] (3)
-
-JUMEAUX 3.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/JUMEAUX%203.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/JUMEAUX%203.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
 source: "mevar"
 sermon_id: "le-temoignage-de-dieu"
 title: "Le témoignage de Dieu"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fb6"
 uuid: "28bff33a-2e14-46c7-8454-f40e008c9f1b"
+stream_url: "https://mevar.org/le-temoignage-de-dieu/"
+bible_refs:
+  - "Actes 2"
+  - "Ézéchiel 14"
 ---
 ue le nom du Seigneur soit béni. Nous allons commencer notre lecture dans Ézéchiel chapitre 14 à partir du verset 12 :
 
@@ -124,14 +129,4 @@ Le cri de Minuit est venu pour que nous sortions de ce lot de gens séduits qui 
 
 ### Télécharger le document
 
-[
-
-Le témoignage de Dieu
-
-Le\_temoignage\_de\_Dieu\_15\_janvier\_2022.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvier_2022.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvier_2022.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_vision_prophetique_16_06_2013.pdf"
 source: "mevar"
 sermon_id: "la-vision-prophetique-fait-la-difference"
 title: "La vision prophétique fait la différence"
@@ -14,6 +15,17 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eea"
 uuid: "f4fb0532-2386-4808-91e8-e7607b153d4b"
+stream_url: "https://mevar.org/la-vision-prophetique-fait-la-difference/"
+bible_refs:
+  - "2 Thessaloniciens 2"
+  - "Actes 2"
+  - "Apocalypse 6"
+  - "Esther 95"
+  - "Malachie 4:5-6"
+  - "Matthieu 24"
+  - "Éphésiens 5:26-27"
+  - "Ésaïe 27"
+  - "Ésaïe 27:12-13"
 ---
 Alors la vision prophétique fait la différence est un sujet que je voudrais aborder ce matin. Il y a longtemps que je l’ai. Depuis l’année passée, mais je n’ai pas eu le temps d’en parler. Ce matin on va en parler. Amen ! **La vision prophétique fait la différence. Il y en a qui se demandent qu’est-ce qui fait la différence entre nous et les autres églises.** Il y en a qui se posent cette question. Quelle est la différence entre nous et les autres églises. Ici, on parle de réveil, du Message du temps de la fin. Quelle est la différence entre nous et les catholiques, les Assemblées de Dieu, les pentecôtistes et toutes ces églises que vous connaissez ? Amen ! N’est-ce pas ? Il y a beaucoup qui viennent et qui ne savent pas beaucoup de choses. Amen ! **Mais c’est la vision prophétique qui fait la différence.**
 
@@ -155,14 +167,4 @@ Cantiques d’adoration.
 
 ### Télécharger le document
 
-[
-
-La vision prophétique fait la différence
-
-la\_vision\_prophetique\_16\_06\_2013.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_vision_prophetique_16_06_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_vision_prophetique_16_06_2013.pdf)

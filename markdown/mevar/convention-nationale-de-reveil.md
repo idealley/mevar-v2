@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/prophetie_convention_lakota_2018.pdf"
 source: "mevar"
 sermon_id: "convention-nationale-de-reveil"
 title: "Convention Nationale de Réveil"
@@ -15,6 +16,18 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f30"
 uuid: "e5150079-a472-498c-8118-78a53e3c1727"
+stream_url: "https://mevar.org/convention-nationale-de-reveil/"
+bible_refs:
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 14:1-3"
+  - "1 Jean 4"
+  - "1 Thessaloniciens 5:20-21"
+  - "Actes 11:28"
+  - "Actes 21:10-11"
+  - "Jean 15:16"
+  - "Luc 13"
+  - "Psaumes 119"
+  - "Psaumes 119:59"
 ---
 ## Du 30 mars au 1er avril 2018
 
@@ -178,14 +191,4 @@ Vous êtes de puissants vainqueurs, vous êtes vainqueurs. Alléluia ! Vous ête
 
 ### Télécharger le document
 
-[
-
-Convention Nationale de Réveil
-
-prophetie\_convention\_lakota\_2018.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/prophetie_convention_lakota_2018.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/prophetie_convention_lakota_2018.pdf)

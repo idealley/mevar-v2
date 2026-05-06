@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_juin_2017_le_deguisement_de_la_femme_de_jeroboam.pdf"
 source: "mevar"
 sermon_id: "le-deguisement-de-la-femme-de-jeroboam"
 title: "Le déguisement de la femme de Jéroboam"
@@ -16,6 +17,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f28"
 uuid: "57fc2045-9337-451a-a8df-3ee51225ccd2"
+stream_url: "https://mevar.org/le-deguisement-de-la-femme-de-jeroboam/"
+bible_refs:
+  - "1 Jean 5:19"
+  - "1 Rois 12:26-32"
+  - "1 Rois 14:1-15"
+  - "1 Rois 15:1-5"
+  - "2 Corinthiens 3:18"
+  - "Colossiens 1:9-10"
+  - "Daniel 30"
+  - "Daniel 31"
+  - "Jacques 1:22-23"
+  - "Jean 3:20"
+  - "Luc 10:21-24"
+  - "Matthieu 25"
+  - "Nombres 17"
+  - "Ésaïe 53"
 ---
 ## Exhortation de Juin 2017
 
@@ -117,14 +134,4 @@ Mes chers amis, nous ne sommes pas dans le royaume de Jéroboam, mais bien dans 
 
 ### Télécharger le document
 
-[
-
-Le déguisement de la femme de Jéroboam
-
-exhortation\_juin\_2017\_le\_deguisement\_de\_la\_femme\_de\_jeroboam.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_juin_2017_le_deguisement_de_la_femme_de_jeroboam.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_juin_2017_le_deguisement_de_la_femme_de_jeroboam.pdf)

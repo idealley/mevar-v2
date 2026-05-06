@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/7_Sceaux_1.pdf"
 source: "mevar"
 sermon_id: "le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse"
 title: "Le Cavalier au Cheval Blanc d'Apocalypse"
@@ -16,6 +17,14 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f41"
 uuid: "a683978e-8a77-48ed-9f73-f475bb0e26c7"
+stream_url: "https://mevar.org/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse/"
+bible_refs:
+  - "1 Jean 4"
+  - "Apocalypse 2"
+  - "Apocalypse 7"
+  - "Matthieu 24:28"
+  - "Matthieu 24:31"
+  - "Ésaïe 46"
 ---
 ## Premier Sceau
 
@@ -194,12 +203,4 @@ Les enfants d’Israël ont commis cette erreur, et cette même erreur a été c
 
 ### Télécharger le document
 
-[
-
-Le Cavalier au Cheval Blanc d'Apocalypse 7\_Sceaux\_1.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/7_Sceaux_1.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/7_Sceaux_1.pdf)

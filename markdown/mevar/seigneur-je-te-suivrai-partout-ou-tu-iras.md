@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2018_seigneur_je_te_suivrai_partout_ou_tu_iras.pdf"
 source: "mevar"
 sermon_id: "seigneur-je-te-suivrai-partout-ou-tu-iras"
 title: "Seigneur, Je te suivrai, partout ou tu iras"
@@ -14,6 +15,20 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f2f"
 uuid: "35fe73f8-d864-4d3b-9585-eb83f41c7eb0"
+stream_url: "https://mevar.org/seigneur-je-te-suivrai-partout-ou-tu-iras/"
+bible_refs:
+  - "Apocalypse 1"
+  - "Apocalypse 12"
+  - "Apocalypse 1:8"
+  - "Apocalypse 21:6"
+  - "Apocalypse 22:13"
+  - "Jean 12:24"
+  - "Jean 13:14-15"
+  - "Jean 14:6"
+  - "Jean 2:5"
+  - "Luc 5:15"
+  - "Luc 9"
+  - "Malachie 3:17-18"
 ---
 ## Exhortation de mars 2018
 
@@ -122,14 +137,4 @@ Mes bien-aimés frères et sœurs, serviteurs de Jésus-Christ, voulons-nous sui
 
 ### Télécharger le document
 
-[
-
-Seigneur, Je te suivrai, partout ou tu iras
-
-exhortation\_de\_fevrier\_2018\_seigneur\_je\_te\_suivrai\_partout\_ou\_tu\_iras.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2018_seigneur_je_te_suivrai_partout_ou_tu_iras.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2018_seigneur_je_te_suivrai_partout_ou_tu_iras.pdf)

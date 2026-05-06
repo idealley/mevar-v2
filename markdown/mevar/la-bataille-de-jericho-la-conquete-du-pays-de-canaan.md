@@ -17,6 +17,7 @@ authors:
   - "Stéphane Pouyt"
 ghost_id: "6448fa86db90770001518ee7"
 uuid: "3ca0f283-ed0c-4570-8287-ddc865f5db8b"
+stream_url: "https://mevar.org/la-bataille-de-jericho-la-conquete-du-pays-de-canaan/"
 ---
 ## La conquête du pays de Canaan
 

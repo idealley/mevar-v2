@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Aux_jours_du_saint_esprit.pdf"
 source: "mevar"
 sermon_id: "aux-jours-du-saint-esprit"
 title: "Aux Jours du Saint-Esprit"
@@ -16,6 +17,14 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ed1"
 uuid: "29f9f06e-685a-49af-926f-792b9f88ef1a"
+stream_url: "https://mevar.org/aux-jours-du-saint-esprit/"
+bible_refs:
+  - "Actes 19"
+  - "Actes 19:1-5"
+  - "Jean 14"
+  - "Luc 18"
+  - "Luc 9:58"
+  - "Matthieu 25:6"
 ---
 SHALOM ! Ce mot je l’ai encore mieux apprécié ici au Congo. Généralement à Abidjan on est habitué à dire : « frère, que Dieu te bénisse ! ». Ici, j’entends beaucoup SHALOM ! Amen ! \[L’Assemblée répond : amen ! Rédaction\]. C’est un vrai mot. C’est un mot qui vient de Dieu. Que Le Nom du Seigneur soit béni !
 
@@ -185,14 +194,4 @@ _Plus près de Toi ». \[Réd.\]_
 
 ### Télécharger le document
 
-[
-
-Aux Jours du Saint-Esprit
-
-Aux\_jours\_du\_saint\_esprit.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Aux_jours_du_saint_esprit.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Aux_jours_du_saint_esprit.pdf)

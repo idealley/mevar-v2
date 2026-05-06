@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f77"
 uuid: "d0950c5c-ddbe-4e47-9acb-32a023fc78d9"
+stream_url: "https://mevar.org/la-parabole-des-talents-2/"
 ---
 ## Deuxième partie
 

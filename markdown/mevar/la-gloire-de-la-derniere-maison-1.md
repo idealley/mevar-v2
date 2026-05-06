@@ -16,6 +16,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fa2"
 uuid: "e81aa440-ef4d-4bdb-9290-4b72158c04bc"
+stream_url: "https://mevar.org/la-gloire-de-la-derniere-maison-1/"
 ---
 ## Première partie
 

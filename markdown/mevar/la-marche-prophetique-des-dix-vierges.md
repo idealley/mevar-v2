@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_marche_des_vierges_29_11_2013.pdf"
 source: "mevar"
 sermon_id: "la-marche-prophetique-des-dix-vierges"
 title: "La marche prophétique des dix vierges"
@@ -14,6 +15,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eee"
 uuid: "479ebc33-3b19-4f11-9350-1451698ed4d3"
+stream_url: "https://mevar.org/la-marche-prophetique-des-dix-vierges/"
+bible_refs:
+  - "2 Corinthiens 11"
+  - "2 Timothée 2"
+  - "Apocalypse 12"
+  - "Apocalypse 19"
+  - "Apocalypse 3"
+  - "Malachie 4:5"
+  - "Matthieu 13"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Psaumes 119:105"
+  - "Psaumes 119:130"
+  - "Zacharie 14:7"
+  - "Ésaïe 40"
+  - "Ésaïe 55"
 ---
 Que le Seigneur soit béni. Je vous salue au nom du Seigneur Jésus. Ce soir, je voudrais réaliser une étude biblique avec vous sur la marche prophétique des dix vierges. Il est vrai que j'ai souvent abordé la question des vierges ici, mais ce soir, je voudrais avec méthode qu'on puisse expliquer cette parabole de Matthieu 25 qui, on doit le dire, est une parabole à controverse, parce que beaucoup de gens, beaucoup de prédicateurs parlent de Matthieu 25 et c'est aussi un sujet épineux parmi les croyants du Message du temps de la fin. Mais avec le temps et aussi avec la révélation du Seigneur, on a compris que c'est un texte qui s'explique lui-même. Et le fait d'avoir la compréhension exacte des prophéties de la Bible illumine notre esprit, notre intelligence spirituelle et nous pouvons mieux considérer le temps dans lequel on vit et marcher…
 
@@ -198,14 +215,4 @@ Quand tu lis et comprend mieux les versets de la Bible qui parlent de toi, je pe
 
 ### Télécharger le document
 
-[
-
-La marche prophétique des dix vierges
-
-la\_marche\_des\_vierges\_29\_11\_2013.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_marche_des_vierges_29_11_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_marche_des_vierges_29_11_2013.pdf)

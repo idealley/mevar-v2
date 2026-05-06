@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_petit_troupeau_de_la_fin_des_temps_8_11_2012.pdf"
 source: "mevar"
 sermon_id: "le-petit-troupeau-de-la-fin-des-temps"
 title: "Le petit troupeau de la fin des temps"
@@ -14,6 +15,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ee2"
 uuid: "0f24b651-7c27-4fc0-b745-efd82c75c76b"
+stream_url: "https://mevar.org/le-petit-troupeau-de-la-fin-des-temps/"
 ---
 Que Dieu vous bénisse! Nous remercions le Seigneur pour cette occasion qu'Il nous donne de nous retrouver en Europe parmi vous ici. Vous savez que nous sommes très loin d'ici, mais par la grâce de Dieu et avec la puissance de l'industrialisation, en quelques heures, on peut arriver en Europe en prenant l'avion. Avant c'était plus difficile. Les gens allaient à pieds, après avec les animaux et puis maintenant on est arrivé aux avions.
 
@@ -143,14 +145,4 @@ Cantique d'adoration.
 
 ### Télécharger le document
 
-[
-
-Le petit troupeau de la fin des temps
-
-le\_petit\_troupeau\_de\_la\_fin\_des\_temps\_8\_11\_2012.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_petit_troupeau_de_la_fin_des_temps_8_11_2012.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_petit_troupeau_de_la_fin_des_temps_8_11_2012.pdf)

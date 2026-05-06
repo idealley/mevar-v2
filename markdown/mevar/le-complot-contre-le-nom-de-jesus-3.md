@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f8c"
 uuid: "7abfee4a-e14c-4eb2-8bf8-3994ce984781"
+stream_url: "https://mevar.org/le-complot-contre-le-nom-de-jesus-3/"
 ---
 ## Les complots de Satan (3) - Le combat spirituel
 

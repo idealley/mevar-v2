@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_juillet_2006_reveillez-vous_et_preparez_la_guerre.pdf"
 source: "mevar"
 sermon_id: "reveillez-vous-et-preparez-la-guerre"
 title: "Réveillez-vous et préparez la guerre"
@@ -14,6 +15,51 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ed3"
 uuid: "2bd235d3-176d-4d8d-8e93-0dee84c01fcc"
+stream_url: "https://mevar.org/reveillez-vous-et-preparez-la-guerre/"
+bible_refs:
+  - "1 Corinthiens 14:33"
+  - "1 Corinthiens 1:10-13"
+  - "1 Corinthiens 5:1-6"
+  - "1 Corinthiens 5:6-8"
+  - "1 Thessaloniciens 2:17-18"
+  - "1 Thessaloniciens 5:17"
+  - "2 Samuel 1"
+  - "2 Samuel 21:1-9"
+  - "2 Samuel 23:8-39"
+  - "2 Thessaloniciens 3:1"
+  - "2 Timothée 2:3-6"
+  - "Actes 12"
+  - "Actes 16"
+  - "Actes 16:6-10"
+  - "Actes 17:13-15"
+  - "Actes 4:32-33"
+  - "Actes 9:31"
+  - "Apocalypse 14"
+  - "Apocalypse 14:8"
+  - "Apocalypse 17:12-14"
+  - "Genèse 3"
+  - "Jean 17:20-21"
+  - "Job 1:12-22"
+  - "Josué 17:8-16"
+  - "Josué 1:1-10"
+  - "Josué 5:13-15"
+  - "Josué 9:1-19"
+  - "Joël 3:9-10"
+  - "Juges 11"
+  - "Juges 13:24"
+  - "Juges 2:7-10"
+  - "Juges 6"
+  - "Marc 14:38"
+  - "Matthieu 12:25-30"
+  - "Nombres 25:1-5"
+  - "Nombres 25:9"
+  - "Nombres 31:16-18"
+  - "Romains 12:18"
+  - "Éphésiens 4:1-6"
+  - "Éphésiens 5:11"
+  - "Éphésiens 6:10-18"
+  - "Ésaïe 21:9-10"
+  - "Ésaïe 30:1-2"
 ---
 ## Exhortation de juillet 2006
 
@@ -176,14 +222,4 @@ Fr. M’BRA Parfait
 
 ### Télécharger le document
 
-[
-
-Réveillez-vous et préparez la guerre
-
-exhortation\_juillet\_2006\_reveillez-vous\_et\_preparez\_la\_guerre.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_juillet_2006_reveillez-vous_et_preparez_la_guerre.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_juillet_2006_reveillez-vous_et_preparez_la_guerre.pdf)

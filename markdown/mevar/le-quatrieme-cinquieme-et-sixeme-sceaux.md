@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/7_sceaux_4.pdf"
 source: "mevar"
 sermon_id: "le-quatrieme-cinquieme-et-sixeme-sceaux"
 title: "Le quatrième, cinquième et sixème sceaux"
@@ -17,6 +18,29 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f44"
 uuid: "21b4c6d4-c28a-4f78-9284-f33ab07a58d7"
+stream_url: "https://mevar.org/le-quatrieme-cinquieme-et-sixeme-sceaux/"
+bible_refs:
+  - "1 Corinthiens 3:16"
+  - "1 Corinthiens 6:19-20"
+  - "1 Samuel 2:22"
+  - "2 Corinthiens 6:14"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 11:7-14"
+  - "Apocalypse 12"
+  - "Apocalypse 20:4-5"
+  - "Apocalypse 3"
+  - "Apocalypse 6"
+  - "Apocalypse 6:12-17"
+  - "Apocalypse 6:9-11"
+  - "Apocalypse 7"
+  - "Apocalypse 7:1-3"
+  - "Apocalypse 8:5"
+  - "Jean 4:6"
+  - "Malachie 4"
+  - "Malachie 4:1-6"
+  - "Malachie 4:5"
+  - "Matthieu 24"
+  - "Matthieu 24:12"
 ---
 Le message des sept sceaux. Nous sommes dans la deuxième partie du quatrième sceau. _**Apocalypse 6,**_ nous lisons, le quatrième sceau se trouvent au \*\*\*verset 7 : \*\*\*
 
@@ -189,14 +213,4 @@ L’esprit religieux est au milieu. Quand vous voyez Jésus d’un côté et Sat
 
 ### Télécharger le document
 
-[
-
-Le quatrième, cinquième et sixème sceaux
-
-7\_sceaux\_4.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/7_sceaux_4.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/7_sceaux_4.pdf)

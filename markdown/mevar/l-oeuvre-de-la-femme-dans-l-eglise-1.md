@@ -17,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f86"
 uuid: "e5f1f32f-af89-4069-bfa4-892741085811"
+stream_url: "https://mevar.org/l-oeuvre-de-la-femme-dans-l-eglise-1/"
 ---
 ## Première partie
 

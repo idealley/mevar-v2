@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/les_prisonniers_de_la_religion_24_03_2007.pdf"
 source: "mevar"
 sermon_id: "les-prisonniers-de-la-religion"
 title: "Les prisonniers de la religion"
@@ -16,6 +17,16 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518edc"
 uuid: "96d15d11-3f17-4399-b416-c00d735744e0"
+stream_url: "https://mevar.org/les-prisonniers-de-la-religion/"
+bible_refs:
+  - "Actes 12"
+  - "Actes 2"
+  - "Genèse 18"
+  - "Jean 1"
+  - "Jean 3"
+  - "Matthieu 18:19-20"
+  - "Ésaïe 55:6"
+  - "Ésaïe 7:14"
 ---
 Mes biens aimés, je vous salue tous dans le nom du Seigneur Jésus-Christ. Que la grâce et la paix du Seigneur soient sur vous. Je suis vraiment heureux d’être avec vous et je crois que c’est le Seigneur qui m’a conduit jusqu’ici. La bible dit qu’il n’appartient pas à l’homme de diriger ses propres voies. Celui qui a reçu Dieu est conduit par son Esprit. Et Dieu l’envoi où Il veut l’envoyer. Je crois que c’est le Seigneur qui m’a envoyé ici et je vois que vos cœurs sont bien disposés à écouter la parole de Dieu.
 
@@ -159,14 +170,4 @@ C’est un symbole. C’est pour nous exhorter à la délivrance ; nous exhorter
 
 ### Télécharger le document
 
-[
-
-Les prisonniers de la religion
-
-les\_prisonniers\_de\_la\_religion\_24\_03\_2007.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/les_prisonniers_de_la_religion_24_03_2007.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_prisonniers_de_la_religion_24_03_2007.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
 source: "mevar"
 sermon_id: "soyez-parfaits-comme-votre-pere-celeste-est-parfait"
 title: "Soyez parfaits comme votre Père Céleste est parfait"
@@ -14,6 +15,18 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fba"
 uuid: "4744b4c6-97da-4e74-b83f-bbd6992200ca"
+stream_url: "https://mevar.org/soyez-parfaits-comme-votre-pere-celeste-est-parfait/"
+bible_refs:
+  - "1 Corinthiens 14:20"
+  - "1 Jean 3:14-15"
+  - "Hébreux 11"
+  - "Hébreux 5:12-14"
+  - "Matthieu 19:21"
+  - "Matthieu 19:27-28"
+  - "Matthieu 5:31-32"
+  - "Matthieu 5:38-39"
+  - "Matthieu 5:48"
+  - "Ézéchiel 14:14,20"
 ---
 ## Exhortation du mois de mars 2022
 
@@ -77,14 +90,4 @@ Quand nous lisons Hébreux 11, on peut voir que Paul a raconté en quelques mots
 
 ### Télécharger le document
 
-[
-
-Soyez parfaits comme votre Père Céleste est parfait
-
-exhortation\_de\_Mars\_2022\_soyez\_parfait\_comme\_votre\_pere\_celeste\_est\_parfait.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf)

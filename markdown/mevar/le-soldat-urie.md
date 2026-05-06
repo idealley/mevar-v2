@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_avril_2014_le_soldat_urie.pdf"
 source: "mevar"
 sermon_id: "le-soldat-urie"
 title: "Le Soldat Urie"
@@ -14,6 +15,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ef8"
 uuid: "26c5fda8-de78-42f0-a6d8-7ee0a6c2e53e"
+stream_url: "https://mevar.org/le-soldat-urie/"
+bible_refs:
+  - "2 Samuel 11:1-26"
+  - "2 Thessaloniciens 2"
 ---
 ## Exhortation d'avril 2014
 
@@ -85,14 +90,4 @@ Mes bien-aimés, que la grâce et la paix de notre Seigneur et Sauveur soient av
 
 ### Télécharger le document
 
-[
-
-Le Soldat Urie
-
-exhortation\_avril\_2014\_le\_soldat\_urie.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_avril_2014_le_soldat_urie.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_avril_2014_le_soldat_urie.pdf)

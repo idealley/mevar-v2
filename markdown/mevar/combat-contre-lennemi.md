@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2023/01/combat_contre_l_ennemi_2012_burkina.pdf"
 source: "mevar"
 sermon_id: "combat-contre-lennemi"
 title: "Combat contre l'ennemi"
@@ -16,6 +17,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fd9"
 uuid: "e9aa0114-0b81-40f6-9c8a-5e8836860adb"
+stream_url: "https://mevar.org/combat-contre-lennemi/"
 ---
 Amen ! Nous combattons le Diable. Le Diable est notre ennemi. C’est notre ennemi juré. Un chrétien doit avoir un ennemi. On n’a pas deux, trois ennemis. Un chrétien a un seul ennemi : c’est le Diable. Amen ! Et frères, quand tu deviens chrétien, tu dois avoir cet ennemi. **Tu dois l’avoir comme ton ennemi. Tu dois réaliser que c’est ton ennemi. C’est ton ennemi, ton ennemi juré.** Amen ! Il n’y en a pas d’autre. On ne voit pas dans la chair.
 
@@ -115,14 +117,4 @@ Séance de prière.
 
 * * *
 
-[
-
-Combat contre l ennemi 2012 burkina
-
-combat\_contre\_l\_ennemi\_2012\_burkina.pdf
-
-145 KB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2023/01/combat_contre_l_ennemi_2012_burkina.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2023/01/combat_contre_l_ennemi_2012_burkina.pdf)

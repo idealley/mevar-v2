@@ -16,6 +16,18 @@ authors:
   - "Parfait M'bra"
 ghost_id: "659594c5bed6f40001882e2d"
 uuid: "20aeb1dd-e1e7-46a8-8023-40ec8e7966b6"
+stream_url: "https://mevar.org/sentinelle-que-dis-tu-de-la-nuit/"
+bible_refs:
+  - "1 Samuel 2:22"
+  - "2 Rois 5:20-21"
+  - "Daniel 2:34"
+  - "Daniel 4:30"
+  - "Ecclésiaste 3:1"
+  - "Genèse 4:7"
+  - "Hébreux 11:24"
+  - "Hébreux 12:2"
+  - "Jean 15:19"
+  - "Joël 2:26"
 ---
 ## **Exhortation de fin d’année 2023**
 

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_chemin_de_saul_21_aout_2021.pdf"
 source: "mevar"
 sermon_id: "le-chemin-de-saul"
 title: "Le chemin de Saül"
@@ -14,6 +15,7 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fb1"
 uuid: "260bca62-77b3-4d9e-9921-5b4970fab08a"
+stream_url: "https://mevar.org/le-chemin-de-saul/"
 ---
 Nous allons lire dans 1 Samuel chapitre 9, versets 1 à 24 :
 
@@ -77,14 +79,4 @@ Donc, ce soir, on va prier. Nous sommes venus par la foi. Celui qui sait que Die
 
 ### Télécharger le document
 
-[
-
-Le chemin de Saül
-
-le\_chemin\_de\_saul\_21\_aout\_2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_chemin_de_saul_21_aout_2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_chemin_de_saul_21_aout_2021.pdf)

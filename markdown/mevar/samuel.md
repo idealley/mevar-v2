@@ -20,6 +20,23 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518ffc"
 uuid: "b22c6ac0-5aa8-4e30-ad21-4aedcb069c7d"
+stream_url: "https://mevar.org/samuel/"
+bible_refs:
+  - "1 Samuel 15:32-33"
+  - "1 Samuel 2:29-30"
+  - "1 Samuel 2:35"
+  - "2 Pierre 1:5-7"
+  - "Apocalypse 12"
+  - "Apocalypse 17:4"
+  - "Apocalypse 19:10"
+  - "Apocalypse 19:16-19"
+  - "Apocalypse 1:6"
+  - "Apocalypse 20"
+  - "Apocalypse 20:4"
+  - "Apocalypse 20:4-6"
+  - "Exode 19:6"
+  - "Juges 21:25"
+  - "Matthieu 7:1-5"
 ---
 J'ai reçu cette prédication, en Suisse, avant mon voyage pour la Côte d'Ivoire et je savais qu'elle était pour notre passage à Bouaké. Comme Dieu gère toute chose, un des textes dont je voulais parler est le même texte que notre frère Georges a utilisé pour sa prédication.
 

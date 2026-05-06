@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/des_noms_sous_les_propheties_06.06.2021.pdf"
 source: "mevar"
 sermon_id: "des-noms-sous-les-propheties"
 title: "Des noms sous les prophéties"
@@ -14,6 +15,24 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fad"
 uuid: "fcbebb9e-b2e3-443e-ad1c-5ea7d1b594fa"
+stream_url: "https://mevar.org/des-noms-sous-les-propheties/"
+bible_refs:
+  - "Genèse 3"
+  - "Genèse 3:14-15"
+  - "Genèse 3:15"
+  - "Jean 8:44"
+  - "Malachie 4"
+  - "Malachie 4:5"
+  - "Matthieu 12:34"
+  - "Matthieu 24"
+  - "Matthieu 24:45"
+  - "Matthieu 25"
+  - "Matthieu 3:7-9"
+  - "Michée 6:4"
+  - "Éphésiens 2:2-5"
+  - "Ésaïe 46"
+  - "Ésaïe 53"
+  - "Ésaïe 53:9"
 ---
 Nous allons lire quelques versets. Des noms sous les prophéties. Comme je l’ai dit dimanche passé, c’est une inspiration que j’ai reçue, mais il faut dire, qu’au-delà de l’inspiration, on voit les faits bibliques et ce qui se passe dans notre génération aujourd’hui. Tout est écrit dans la bible. Et la bible est un livre mystérieux. Amen. Il y a des gens qui prennent la bible simplement, mais la bible est un livre mystérieux. Ce n’est pas un livre simple. A partir du moment où la bible a été écrite par l’inspiration venant de l’Esprit de Dieu, ce n’est pas un livre simple. Maintenant, il y a des gens qui veulent utiliser la bible pour faire ce qu’ils veulent mais Dieu, en poussant ses prophètes à écrire la bible, avait déjà des choses à dire, des choses à montrer, des choses à voiler, à cacher. Amen. La bible est un livre mystérieux.
 
@@ -163,14 +182,4 @@ Ils n’étaient pas des rabbins, ni des pharisiens. **On ne les considérait pa
 
 ### Télécharger le document
 
-[
-
-Des noms sous les prophéties
-
-des\_noms\_sous\_les\_propheties\_06.06.2021.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/des_noms_sous_les_propheties_06.06.2021.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/des_noms_sous_les_propheties_06.06.2021.pdf)

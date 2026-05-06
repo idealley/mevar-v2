@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/le_repose_en_christ_20_10_2013.pdf"
 source: "mevar"
 sermon_id: "le-repos-en-christ"
 title: "Le repos en Christ"
@@ -14,6 +15,13 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eed"
 uuid: "01d8229c-1874-40fd-8f7c-887380b7900d"
+stream_url: "https://mevar.org/le-repos-en-christ/"
+bible_refs:
+  - "1 Corinthiens 1"
+  - "2 Corinthiens 4"
+  - "Hébreux 12:4"
+  - "Hébreux 4"
+  - "Luc 21"
 ---
 Alléluia ! Que Dieu soit béni. Alors, ce matin, je voudrais qu’on s’entretienne sur un sujet. C’est un sujet très important. Le repos en christ. C’est une inspiration que j’ai reçue pendant ma tournée en RDC. J’en ai déjà parlé là-bas. Je voudrais qu’on s’entretienne là-dessus ce matin. Et vous savez que nous avons reçu un renouvellement d’onction dans le temps prophétique où on se trouve ; ça fait que quand on aborde un sujet biblique, on est dans une évolution. Amen ! On aborde les sujets toujours dans une évolution spirituelle. Donc il faut avoir suffisamment d’hauteur spirituelle pour comprendre le fond des choses… **Parce que le souci de Dieu aujourd’hui, c’est de nous ramener à Sa pensée originelle**.
 
@@ -151,14 +159,4 @@ Donc frères, travaillons dans l’esprit de nous reposer. Celui qui travaille s
 
 ### Télécharger le document
 
-[
-
-Le repos en Christ
-
-le\_repose\_en\_christ\_20\_10\_2013.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/le_repose_en_christ_20_10_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_repose_en_christ_20_10_2013.pdf)

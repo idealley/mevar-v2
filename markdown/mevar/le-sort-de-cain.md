@@ -15,6 +15,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "651becd930c1cf0001c927b0"
 uuid: "bb075f30-c801-488d-9dcd-7da4d7e08602"
+stream_url: "https://mevar.org/le-sort-de-cain/"
+bible_refs:
+  - "Apocalypse 3"
+  - "Hébreux 11"
+  - "Ésaïe 53"
 ---
 Genèse chapitre 4. Le sort de Caïn. C’est là que nous allons lire. Genèse chapitre 4 à partir du premier verset : Amen ! Que Dieu soit béni ! Le sort de Caïn. C’est le sujet sur lequel je voudrais qu’on s’entretienne ce matin. Frères et sœurs, je pense que nous avons fait du chemin dans cette église. Pour ceux qui ont l’habitude de venir ici, qui depuis quelques années marchent en écoutant cette parole que Dieu nous a adressée…Alors ce matin encore je voudrais revenir sur certaines choses. Je pense que Dieu va nous conduire par son Esprit pour que nous puissions donner de la part du Seigneur ce qui est nécessaire d’entendre aujourd’hui. Amen ! 
 

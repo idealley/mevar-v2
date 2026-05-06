@@ -17,6 +17,10 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fc9"
 uuid: "df6847f7-b038-42b0-bbb6-d0d5d4b27ecb"
+stream_url: "https://mevar.org/anne-et-simeon/"
+bible_refs:
+  - "Luc 2"
+  - "Matthieu 21"
 ---
 Nous remercions le Seigneur parce qu’IL nous accorde Sa grâce encore ce soir Alléluia \[l’assemblée répond Amen\]. Nous allons encore prêcher la Parole de Dieu. Tout le temps que je vais passer ici, je vais prêcher dans le sens du réveil. Parce que c’est à cela que j’ai été appelé. Il faut qu’on vous apporte des Paroles qui vous incitent à entrer en communion avec Dieu. Parce que dans les temps où nous sommes parvenus, il s’agit pour chacun d’entre nous d’entrer en communion avec Dieu. Ce n’est pas que par le passé on n’avait pas communion avec Dieu ! Mais dans les temps où nous sommes parvenus, on doit rechercher Dieu plus que par le passé. Dans les temps de réveil, les chrétiens doivent rechercher Dieu de manière particulière. **Le réveil va ensemble avec la recherche de Dieu**. Et il y a une manière de rechercher Dieu qui est dans la bible – c’est par les jeûnes et les prières. **A Minuit, celui qui ne cherche pas Dieu de manière particulière ne sera pas enlevé. A Minuit, les chrétiens doivent se réengager avec le Seigneur dans les jeûnes et les prières.** Il ne faut pas seulement écouter les prédications. Mais il faut les pratiquer. **Les temps de réveil sont des temps d’action. Parce que c’est dans les temps de réveil que le peuple de Dieu cherche à conquérir les promesses de Dieu**. Et dans les temps de conquête, on doit **AGIR**.
 

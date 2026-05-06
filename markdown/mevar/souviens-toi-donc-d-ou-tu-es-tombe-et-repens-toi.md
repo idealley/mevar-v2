@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf"
 source: "mevar"
 sermon_id: "souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi"
 title: "Souviens-toi donc d'où tu es tombé et repens-toi"
@@ -16,6 +17,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fc1"
 uuid: "46eb2811-e62f-4b8b-b711-d22c4c08772e"
+stream_url: "https://mevar.org/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi/"
+bible_refs:
+  - "Apocalypse 2:4-5"
+  - "Jean 8:12"
+  - "Matthieu 24:12"
+  - "Psaumes 23"
 ---
 ## Exhortation de fin d'année 2022
 
@@ -67,14 +74,4 @@ Que la grâce et la paix de notre Seigneur Jésus-Christ soient avec chacun de n
 
 ### Télécharger le document
 
-[
-
-Souviens-toi donc d'où tu es tombé et repens-toi
-
-souviens-toi-d-ou\_tu\_es\_tombe\_et\_repens\_toi-exhortation\_de\_decembre\_2022.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf)

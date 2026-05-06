@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_aout_08_2016_toutes_choses_s_accompliront.pdf"
 source: "mevar"
 sermon_id: "toutes-choses-s-accompliront"
 title: "Toutes choses s'accompliront"
@@ -14,6 +15,58 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f1a"
 uuid: "660a0a98-bfa2-42c4-b698-15c8ceda0287"
+stream_url: "https://mevar.org/toutes-choses-s-accompliront/"
+bible_refs:
+  - "1 Corinthiens 15"
+  - "1 Corinthiens 15:26"
+  - "1 Corinthiens 15:50-55"
+  - "1 Corinthiens 15:51-52"
+  - "1 Corinthiens 1:5-8"
+  - "1 Corinthiens 5:4-5"
+  - "1 Pierre 1:10-11"
+  - "1 Pierre 1:6-9"
+  - "1 Pierre 4:12-14"
+  - "1 Thessaloniciens 4:15-18"
+  - "1 Thessaloniciens 4:17"
+  - "2 Corinthiens 3:6"
+  - "2 Pierre 3:5-12"
+  - "2 Thessaloniciens 1:6-10"
+  - "Actes 1"
+  - "Actes 10"
+  - "Actes 10:34-35"
+  - "Actes 10:9-18"
+  - "Actes 17"
+  - "Actes 19:4"
+  - "Actes 8"
+  - "Amos 9:11"
+  - "Apocalypse 12"
+  - "Apocalypse 14"
+  - "Apocalypse 16"
+  - "Apocalypse 16:1"
+  - "Cantique des cantiques 2:11-14"
+  - "Cantique des cantiques 2:13"
+  - "Colossiens 3:9-11"
+  - "Exode 19:3-6"
+  - "Exode 20"
+  - "Galates 3:25-29"
+  - "Galates 4:24-25"
+  - "Genèse 17:16"
+  - "Genèse 6:1-3"
+  - "Hébreux 11"
+  - "Hébreux 12:18-21"
+  - "Hébreux 8"
+  - "Hébreux 8:7"
+  - "Hébreux 8:7-12"
+  - "Hébreux 9:14"
+  - "Jean 11"
+  - "Jean 11:47-51"
+  - "Jean 1:20"
+  - "Jean 1:23"
+  - "Jean 1:29"
+  - "Jean 6:39"
+  - "Jean 6:40"
+  - "Jean 6:44"
+  - "Jean 6:54"
 ---
 ## Exhortation spéciale d'août 2016
 
@@ -323,14 +376,4 @@ La grâce d’être Ministre de l’Evangile a été faite aux croyants juifs et
 
 ### Télécharger le document
 
-[
-
-Toutes choses s'accompliront
-
-exhortation\_speciale\_aout\_08\_2016\_toutes\_choses\_s\_accompliront.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_08_2016_toutes_choses_s_accompliront.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_08_2016_toutes_choses_s_accompliront.pdf)

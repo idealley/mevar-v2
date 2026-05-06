@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/David_et_Goliath_le_cri_de_minuit.pdf"
 source: "mevar"
 sermon_id: "david-et-goliath"
 title: "David et Goliath"
@@ -16,6 +17,33 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f25"
 uuid: "a8881358-7132-48c8-b3a6-5bdedf426602"
+stream_url: "https://mevar.org/david-et-goliath/"
+bible_refs:
+  - "1 Samuel 16:13"
+  - "1 Samuel 17:1-3"
+  - "1 Samuel 17:11"
+  - "1 Samuel 17:12-14"
+  - "1 Samuel 17:14-17"
+  - "1 Samuel 17:17-22"
+  - "1 Samuel 17:22-28"
+  - "1 Samuel 17:28-30"
+  - "1 Samuel 17:30-37"
+  - "1 Samuel 17:38-40"
+  - "1 Samuel 17:4-10"
+  - "1 Samuel 17:41-47"
+  - "1 Samuel 17:48-52"
+  - "Apocalypse 12"
+  - "Apocalypse 2:3"
+  - "Apocalypse 3:17"
+  - "Apocalypse 3:19"
+  - "Apocalypse 5"
+  - "Apocalypse 6"
+  - "Lévitique 16:7-10"
+  - "Malachie 5:5"
+  - "Matthieu 25"
+  - "Matthieu 25:6"
+  - "Michée 5:2-4"
+  - "Proverbes 6:20-30"
 ---
 ## Le cri de minuit
 
@@ -157,14 +185,4 @@ Laissons-nous corriger par Dieu, écoutons la correction, et achetons de l’or 
 
 ### Télécharger le document
 
-[
-
-David et Goliath
-
-David\_et\_Goliath\_le\_cri\_de\_minuit.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/David_et_Goliath_le_cri_de_minuit.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/David_et_Goliath_le_cri_de_minuit.pdf)

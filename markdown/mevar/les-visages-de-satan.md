@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_juin_2018_les_visages_de_satan.pdf"
 source: "mevar"
 sermon_id: "les-visages-de-satan"
 title: "Les visages de Satan"
@@ -14,6 +15,17 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f33"
 uuid: "ec98a98b-9461-4e29-857b-2e825a96e461"
+stream_url: "https://mevar.org/les-visages-de-satan/"
+bible_refs:
+  - "1 Pierre 4:1"
+  - "Apocalypse 3:10"
+  - "Jacques 5:11"
+  - "Jacques 5:8"
+  - "Job 42:7-9"
+  - "Job 9"
+  - "Luc 17:26-32"
+  - "Matthieu 16:23"
+  - "Éphésiens 6:13"
 ---
 ## Exhortation de juin 2018
 
@@ -101,14 +113,4 @@ Comme le dit Apocalypse, si nous sommes fidèles, Dieu nous gardera dans l’ép
 
 ### Télécharger le document
 
-[
-
-Les visages de Satan
-
-exhortation\_de\_juin\_2018\_les\_visages\_de\_satan.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_de_juin_2018_les_visages_de_satan.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_juin_2018_les_visages_de_satan.pdf)

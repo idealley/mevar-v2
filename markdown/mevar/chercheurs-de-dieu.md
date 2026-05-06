@@ -15,6 +15,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fd7"
 uuid: "a6c2687e-b038-47a2-9664-f9042e8ee5c2"
+stream_url: "https://mevar.org/chercheurs-de-dieu/"
+bible_refs:
+  - "Apocalypse 3"
+  - "Apocalypse 3:14-22"
+  - "Hébreux 11:32-35"
+  - "Matthieu 7:7-11"
 ---
 Comme le frère l’a dit, c’est la dernière séance ici aujourd’hui. On avait promis de revenir ici le dimanche soir – je ne sais pas si ça tient encore. \[Le pasteur confirme que le programme tient toujours\] Donc si cela plaît au Seigneur, le dimanche soir, je viendrai vous dire au revoir. Mais je pense que ça ne sera pas la dernière fois que je vais venir ici au Bénin ! Ça ne fait que commencer. Pour l’heure, je pense que vous avez compris les prédications que j’ai apportées ici. Il y a des prédications pour ouvrir l’intelligence. Il y a des prédications pour dire aux frères et sœurs ce que Dieu veut qu’on fasse maintenant. Quand je voyage, ce que je prêche, c’est pour dire aux frères, ce que Dieu veut qu’on fasse maintenant. C’est ce qu’on appelle **la Vision**. Il faut que le peuple de Dieu comprenne ce que Dieu veut qu’on fasse maintenant. **C’est celui qui sait ce que Dieu veut qu’on fasse maintenant qui est dans la volonté de Dieu.**
 

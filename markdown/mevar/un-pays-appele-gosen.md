@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/un_pays_appele_gosen_19_mai_2013.pdf"
 source: "mevar"
 sermon_id: "un-pays-appele-gosen"
 title: "Un pays appelé Gosen"
@@ -14,6 +15,12 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518ee9"
 uuid: "00c7e52a-9521-4439-bdfe-6325b3b17e4c"
+stream_url: "https://mevar.org/un-pays-appele-gosen/"
+bible_refs:
+  - "1 Corinthiens 15"
+  - "Exode 8"
+  - "Jean 14"
+  - "Ésaïe 40"
 ---
 Nous lisons dans Genèse chapitre 47.
 
@@ -151,14 +158,4 @@ Cantique de louange.
 
 ### Télécharger le document
 
-[
-
-Un pays appelé Gosen
-
-un\_pays\_appele\_gosen\_19\_mai\_2013.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/un_pays_appele_gosen_19_mai_2013.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/un_pays_appele_gosen_19_mai_2013.pdf)

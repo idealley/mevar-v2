@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/on_l_appelera_samuel_exhortation_fin_fevrier_2010.pdf"
 source: "mevar"
 sermon_id: "on-l-appellera-samuel"
 title: "On l’appellera Samuel"
@@ -17,6 +18,58 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518edf"
 uuid: "ca09981a-aa29-4b05-a8d2-e9c6fb094ea1"
+stream_url: "https://mevar.org/on-l-appellera-samuel/"
+bible_refs:
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 14:6"
+  - "1 Jean 4:6"
+  - "1 Pierre 1:18-20"
+  - "1 Samuel 1:1-7"
+  - "1 Samuel 1:13-18"
+  - "1 Samuel 1:9-12"
+  - "2 Corinthiens 12:19-21"
+  - "2 Corinthiens 5:17-20"
+  - "2 Timothée 3:10-14"
+  - "2 Timothée 3:2"
+  - "Actes 7:60"
+  - "Aggée 2:9"
+  - "Apocalypse 1"
+  - "Apocalypse 12"
+  - "Apocalypse 12:1-5"
+  - "Apocalypse 12:7-13"
+  - "Apocalypse 1:1"
+  - "Apocalypse 3:15-17"
+  - "Colossiens 3:20"
+  - "Daniel 12:1"
+  - "Genèse 11:30"
+  - "Genèse 25:21"
+  - "Genèse 30:6"
+  - "Hébreux 11"
+  - "Hébreux 11:32-40"
+  - "Jacques 1:18"
+  - "Jean 12"
+  - "Jean 12:46"
+  - "Jean 14:27"
+  - "Jean 14:5-6"
+  - "Jean 1:14"
+  - "Jean 8:12"
+  - "Joël 2:26"
+  - "Joël 2:27"
+  - "Juges 13:12-14"
+  - "Juges 13:2-3"
+  - "Luc 11"
+  - "Luc 11:34-35"
+  - "Luc 11:4"
+  - "Luc 17:4"
+  - "Luc 1:36"
+  - "Luc 1:41-55"
+  - "Luc 1:7"
+  - "Luc 23:34"
+  - "Luc 6:26-28"
+  - "Luc 6:32-33"
+  - "Luc 6:35-36"
+  - "Luc 6:40"
+  - "Luc 9:23"
 ---
 ## Exhortation spéciale fin Février 2010
 
@@ -327,14 +380,4 @@ A vous tous qui êtes près et au loin, je dis Maranatha ! Jésus-Christ revient
 
 ### Télécharger le document
 
-[
-
-On l’appellera Samuel
-
-on\_l\_appelera\_samuel\_exhortation\_fin\_fevrier\_2010.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/on_l_appelera_samuel_exhortation_fin_fevrier_2010.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/on_l_appelera_samuel_exhortation_fin_fevrier_2010.pdf)

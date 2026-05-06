@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/l_univers_de_la_revelations_1_22.10.2018.pdf"
 source: "mevar"
 sermon_id: "l-univers-de-la-revelation"
 title: "L’Univers de la révélation (1)"
@@ -14,6 +15,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f37"
 uuid: "f9ec443d-17b1-47f0-ab13-7d9104b90507"
+stream_url: "https://mevar.org/l-univers-de-la-revelation/"
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
+  - "1 Jean 4"
 ---
 ## Première partie
 
@@ -215,14 +221,4 @@ Mon âme est à Jésus Bis
 
 ### Télécharger le document
 
-[
-
-L’Univers de la révélation
-
-l\_univers\_de\_la\_revelations\_1\_22.10.2018.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/l_univers_de_la_revelations_1_22.10.2018.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_univers_de_la_revelations_1_22.10.2018.pdf)

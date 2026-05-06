@@ -1,29 +1,43 @@
 ---
-// Simple top-of-page nav — minimal markup, expandable to mobile drawer later.
+// Site header — content-type-led navigation matching mevar.org's structure.
+// "En savoir plus" dropdown groups secondary links (auteurs, à propos, etc.)
 ---
 
 <header class="border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 sticky top-0 z-40">
   <div class="container mx-auto flex h-16 items-center justify-between px-4">
-    <a href="/" class="flex items-center gap-2">
+    <a href="/" class="flex items-center gap-2 shrink-0">
       <img src="/brand/logo.svg" alt="Mevar" class="h-8 w-auto" />
       <span class="font-semibold text-lg tracking-tight">Mevar</span>
     </a>
 
     <nav class="hidden md:flex items-center gap-6 text-sm font-medium">
-      <a href="/works" class="text-muted-foreground hover:text-foreground transition">Bibliothèque</a>
-      <a href="/themes" class="text-muted-foreground hover:text-foreground transition">Thèmes</a>
-      <a href="/recherche" class="text-muted-foreground hover:text-foreground transition">Recherche</a>
-      <a href="/about" class="text-muted-foreground hover:text-foreground transition">À propos</a>
+      <a href="/predications" class="text-muted-foreground hover:text-foreground transition">Prédications</a>
+      <a href="/exhortations" class="text-muted-foreground hover:text-foreground transition">Exhortations</a>
+      <a href="/publications" class="text-muted-foreground hover:text-foreground transition">Publications</a>
+      <a href="/etudes-bibliques" class="text-muted-foreground hover:text-foreground transition">Études bibliques</a>
+
+      <details class="relative group">
+        <summary class="text-muted-foreground hover:text-foreground transition cursor-pointer list-none flex items-center gap-1">
+          En savoir plus
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transition-transform group-open:rotate-180"><polyline points="6 9 12 15 18 9"/></svg>
+        </summary>
+        <div class="absolute right-0 top-full mt-2 w-56 rounded-md border bg-popover text-popover-foreground shadow-lg p-1">
+          <a href="/auteurs" class="block px-3 py-2 text-sm rounded-sm hover:bg-accent">Auteurs</a>
+          <a href="/themes" class="block px-3 py-2 text-sm rounded-sm hover:bg-accent">Thèmes</a>
+          <a href="/courage-soldat-de-christ" class="block px-3 py-2 text-sm rounded-sm hover:bg-accent">Courage soldats du Christ</a>
+          <a href="/recherche" class="block px-3 py-2 text-sm rounded-sm hover:bg-accent">Recherche</a>
+          <div class="border-t my-1"></div>
+          <a href="/a-propos" class="block px-3 py-2 text-sm rounded-sm hover:bg-accent">À propos</a>
+        </div>
+      </details>
     </nav>
 
-    <div class="flex items-center gap-2">
-      <a
-        href="/recherche"
-        aria-label="Rechercher"
-        class="md:hidden inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground h-9 w-9"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-      </a>
-    </div>
+    <a
+      href="/recherche"
+      aria-label="Rechercher"
+      class="md:hidden inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground h-9 w-9"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+    </a>
   </div>
 </header>

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/la_vision_du_souverain_berger_01_04_2018.pdf"
 source: "mevar"
 sermon_id: "la-vision-du-bon-berger"
 title: "La vision du bon Berger"
@@ -14,6 +15,17 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f31"
 uuid: "e3c6c7f7-d30b-4e3a-b04e-4b06de2af9e6"
+stream_url: "https://mevar.org/la-vision-du-bon-berger/"
+bible_refs:
+  - "1 Pierre 5:1-6"
+  - "2 Pierre 1:5"
+  - "Apocalypse 12"
+  - "Galates 5"
+  - "Galates 5:22"
+  - "Jean 15"
+  - "Luc 13"
+  - "Luc 13:6"
+  - "Psaumes 23"
 ---
 ## Convention de Lakota
 
@@ -126,14 +138,4 @@ Si tu ignores les autres Ministères, ton Assemblée ne sera pas arrosée. Allé
 
 ### Télécharger le document
 
-[
-
-La vision du bon Berger
-
-la\_vision\_du\_souverain\_berger\_01\_04\_2018.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/la_vision_du_souverain_berger_01_04_2018.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_vision_du_souverain_berger_01_04_2018.pdf)

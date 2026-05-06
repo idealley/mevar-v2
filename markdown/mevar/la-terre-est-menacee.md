@@ -18,6 +18,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "653032bcebe2d20001226f95"
 uuid: "617501eb-3e2d-436a-8bb2-cc901a7de5bb"
+stream_url: "https://mevar.org/la-terre-est-menacee/"
+bible_refs:
+  - "1 Corinthiens 15"
+  - "2 Corinthiens 5:17"
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Apocalypse 21:1"
+  - "Jean 17"
+  - "Jean 17:20-24"
+  - "Marc 12:5"
+  - "Ésaïe 65"
+  - "Ésaïe 65:17"
+  - "Ésaïe 65:18"
+  - "Ésaïe 65:19"
+  - "Ésaïe 65:20"
+  - "Ézéchiel 47"
 ---
 Que Dieu soit béni. Nous allons lire dans Ésaïe chapitre 65 à partir du verset 17 :
 

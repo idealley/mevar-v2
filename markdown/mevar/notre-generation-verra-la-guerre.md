@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/notre-generation-verra-la-guerre-exhortation_fin_avril_2015.pdf"
 source: "mevar"
 sermon_id: "notre-generation-verra-la-guerre"
 title: "Notre génération verra la guerre"
@@ -16,6 +17,24 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f04"
 uuid: "1466fac8-b8e2-4645-9e4f-61947230c52b"
+stream_url: "https://mevar.org/notre-generation-verra-la-guerre/"
+bible_refs:
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 15"
+  - "1 Corinthiens 1:12"
+  - "1 Corinthiens 3:4-6"
+  - "Actes 26:27"
+  - "Apocalypse 22:9"
+  - "Exode 13:17-22"
+  - "Exode 23:23"
+  - "Luc 1:70"
+  - "Luc 24"
+  - "Malachie 3:14-15"
+  - "Matthieu 24"
+  - "Nombres 14"
+  - "Nombres 14:1-10"
+  - "Psaumes 126:5"
+  - "Éphésiens 2:20"
 ---
 ## Exhortation Fin Avril 2015
 
@@ -113,14 +132,4 @@ Mes chers amis, c’est ici la petite inspiration que j’ai reçue du Seigneur 
 
 ### Télécharger le document
 
-[
-
-Notre génération verra la guerre
-
-notre-generation-verra-la-guerre-exhortation\_fin\_avril\_2015.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/notre-generation-verra-la-guerre-exhortation_fin_avril_2015.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/notre-generation-verra-la-guerre-exhortation_fin_avril_2015.pdf)

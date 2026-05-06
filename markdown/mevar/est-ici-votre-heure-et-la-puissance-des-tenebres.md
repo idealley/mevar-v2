@@ -17,6 +17,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "651bde6c30c1cf0001c926e3"
 uuid: "69f8be43-e36f-4ef6-a0cb-c37eadb9dbf0"
+stream_url: "https://mevar.org/est-ici-votre-heure-et-la-puissance-des-tenebres/"
+bible_refs:
+  - "Luc 22:52-53"
+  - "Luc 23:44-46"
+  - "Marc 16:1-3"
 ---
 Comme je l’ai dit, c’est un travail que nous sommes venus faire – c’est comme un bâtiment, il faut mettre une brique l’une après l’autre. Ce sont des touches qu’il faut mettre parce que tout se déroule dans la vie intérieure. Tout à l’heure, j’ai dépeint la situation de l’Église et nous avons prié pour cela. Mais vous savez… La prédication du réveil, ce n’est seulement cela… Ce n’est pas seulement dépeindre le tableau noir, la situation chaotique qui est devant nous…Il faut aussi donner de l’espoir au peuple de Dieu, parce que dans la Bible, il y a de l’espoir pour nous. 
 

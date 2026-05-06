@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/C_est_ici_votre_heure_et_la_puissance_des_tenebres.pdf"
 source: "mevar"
 sermon_id: "c-est-ici-votre-heure-et-la-puissance-des-tenebres"
 title: "C’est ici votre heure et la puissance des ténèbres"
@@ -14,6 +15,11 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518eda"
 uuid: "efa56208-4f4f-497e-8905-9ac635bea3a6"
+stream_url: "https://mevar.org/c-est-ici-votre-heure-et-la-puissance-des-tenebres/"
+bible_refs:
+  - "Luc 22:52-53"
+  - "Luc 23:44-46"
+  - "Marc 16:1-3"
 ---
 Comme je l’ai dit, c’est un travail que nous sommes venus faire – **c’est comme un bâtiment, il faut mettre une brique l’une après l’autre. Ce sont des touches qu’il faut mettre parce que tout se déroule dans la vie intérieure.** Tout à l’heure, j’ai dépeint la situation de l’Eglise et nous avons prié pour cela. **Mais vous savez, la prédication du réveil, ce n’est pas seulement dépeindre le tableau noir, la situation chaotique qui est devant nous, mais il faut aussi donner de l’espoir au peuple de Dieu, parce que dans la Bible, il y a de l’espoir pour nous.**
 
@@ -87,14 +93,4 @@ C’est ici votre heure, **l’heure de la Lumière, l’heure du Soleil, l’he
 
 ### Télécharger le document
 
-[
-
-C’est ici votre heure et la puissance des ténèbres
-
-C\_est\_ici\_votre\_heure\_et\_la\_puissance\_des\_tenebres.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/C_est_ici_votre_heure_et_la_puissance_des_tenebres.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/C_est_ici_votre_heure_et_la_puissance_des_tenebres.pdf)

@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_mars_2022_la_peur_de_satan.pdf"
 source: "mevar"
 sermon_id: "la-peur-de-satan"
 title: "La peur de Satan"
@@ -14,6 +15,27 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518fbb"
 uuid: "cf23f236-6a03-4614-8ffd-18db3053ed04"
+stream_url: "https://mevar.org/la-peur-de-satan/"
+bible_refs:
+  - "1 Samuel 17"
+  - "1 Samuel 28:5-6"
+  - "2 Timothée 1:7"
+  - "Actes 4:19,5"
+  - "Colossiens 1:16-19"
+  - "Daniel 3:17-19,6"
+  - "Genèse 3"
+  - "Genèse 3:10"
+  - "Genèse 3:14-15"
+  - "Hébreux 11"
+  - "Jacques 2:19"
+  - "Marc 16:17-18"
+  - "Matthieu 10:8"
+  - "Matthieu 18:18"
+  - "Matthieu 27:14"
+  - "Matthieu 28:19"
+  - "Matthieu 8:31"
+  - "Romains 5:6-10"
+  - "Éphésiens 2:12-13"
 ---
 ## Exhortation fin mars 2022
 
@@ -73,14 +95,4 @@ Soyez bénis au nom de Jésus-Christ notre Seigneur, car c’est en Lui que je v
 
 ### Télécharger le document
 
-[
-
-La peur de Satan
-
-exhortation\_fin\_mars\_2022\_la\_peur\_de\_satan.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_fin_mars_2022_la_peur_de_satan.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_mars_2022_la_peur_de_satan.pdf)

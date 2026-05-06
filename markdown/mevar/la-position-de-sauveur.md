@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Exhortation_de_Juillet_2019.pdf"
 source: "mevar"
 sermon_id: "la-position-de-sauveur"
 title: "La position de sauveur"
@@ -14,6 +15,35 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f46"
 uuid: "d0337150-7558-4fbc-a2ed-d7e56720e8df"
+stream_url: "https://mevar.org/la-position-de-sauveur/"
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Jean 5:4"
+  - "1 Pierre 2:11"
+  - "2 Thessaloniciens 2"
+  - "Actes 12"
+  - "Apocalypse 17"
+  - "Apocalypse 6:7,8"
+  - "Daniel 12:10"
+  - "Ecclésiaste 10:5-7"
+  - "Hébreux 11:13"
+  - "Jean 14:15"
+  - "Jean 15:10"
+  - "Jean 3:14-16"
+  - "Luc 21:17-19"
+  - "Luc 21:36"
+  - "Malachie 4:3"
+  - "Matthieu 16:1-3"
+  - "Matthieu 22"
+  - "Matthieu 22:36-40"
+  - "Matthieu 24"
+  - "Matthieu 24:11-12"
+  - "Matthieu 24:12"
+  - "Matthieu 5:13"
+  - "Matthieu 5:38-41"
+  - "Matthieu 5:43-46"
+  - "Matthieu 7:20"
+  - "Proverbes 29:2"
 ---
 ## Exhortation de Juillet 2019
 
@@ -111,14 +141,4 @@ Mes bien-aimés, c’est vraiment le temps de prendre la position du sauveur pou
 
 ### Télécharger le document
 
-[
-
-La position de sauveur
-
-Exhortation\_de\_Juillet\_2019.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Exhortation_de_Juillet_2019.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Exhortation_de_Juillet_2019.pdf)

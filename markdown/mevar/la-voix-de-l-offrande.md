@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_aout_2016_la_voix_de_l_offrande.pdf"
 source: "mevar"
 sermon_id: "la-voix-de-l-offrande"
 title: "La voix de l'offrande"
@@ -14,6 +15,22 @@ authors:
   - "Parfait M'bra"
 ghost_id: "6448fa86db90770001518f1c"
 uuid: "ffb07ac1-4ebb-459f-ac6d-85d14c5a783f"
+stream_url: "https://mevar.org/la-voix-de-l-offrande/"
+bible_refs:
+  - "1 Jean 2:9-11"
+  - "1 Jean 3:9-16"
+  - "Ecclésiaste 5:1-4"
+  - "Exode 23:19"
+  - "Exode 34:22"
+  - "Galates 5:19-21"
+  - "Genèse 4:1-16"
+  - "Hébreux 11"
+  - "Hébreux 5"
+  - "Nombres 18:17"
+  - "Nombres 23:19"
+  - "Osée 12:4-5"
+  - "Romains 8:5-9"
+  - "Ésaïe 1:10-13"
 ---
 ## Exhortation de septembre 2016
 
@@ -117,14 +134,4 @@ L’assistance ne connaissait pas Celui qui exprimait le point de vue de la Foi.
 
 ### Télécharger le document
 
-[
-
-La voix de l'offrande
-
-exhortation\_fin\_aout\_2016\_la\_voix\_de\_l\_offrande.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2016_la_voix_de_l_offrande.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2016_la_voix_de_l_offrande.pdf)

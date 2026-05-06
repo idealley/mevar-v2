@@ -1,4 +1,5 @@
 ---
+pdf_download: "https://mevar.org/content/files/2022/12/Un%20peuple%20de%20sacrificateurs.pdf"
 source: "mevar"
 sermon_id: "un-peuple-de-sacrificateurs"
 title: "Un Peuple de Sacrificateurs"
@@ -16,6 +17,58 @@ authors:
   - "Samuel Pouyt"
 ghost_id: "6448fa86db90770001518f4b"
 uuid: "ea45de97-733b-4ac2-991c-0829718bb0ff"
+stream_url: "https://mevar.org/un-peuple-de-sacrificateurs/"
+bible_refs:
+  - "1 Jean 5:7-8"
+  - "1 Rois 7:23"
+  - "1 Thessaloniciens 4:16"
+  - "Amos 3:14"
+  - "Apocalypse 1"
+  - "Apocalypse 12"
+  - "Apocalypse 19:7-8"
+  - "Apocalypse 1:3-8"
+  - "Apocalypse 3:17"
+  - "Apocalypse 3:18"
+  - "Apocalypse 4:6"
+  - "Apocalypse 6"
+  - "Apocalypse 6:9"
+  - "Apocalypse 7:12,20"
+  - "Apocalypse 9:13-15"
+  - "Exode 19"
+  - "Exode 19:11"
+  - "Exode 19:16-20"
+  - "Exode 19:4"
+  - "Exode 19:4-6"
+  - "Exode 19:8"
+  - "Exode 21:13"
+  - "Exode 22:1"
+  - "Exode 24:18"
+  - "Exode 24:3"
+  - "Exode 24:7"
+  - "Exode 24:8-16"
+  - "Exode 25"
+  - "Exode 28"
+  - "Exode 28:1"
+  - "Exode 29"
+  - "Exode 29:1-3"
+  - "Exode 29:10-13"
+  - "Exode 29:13-14"
+  - "Exode 29:15-20"
+  - "Exode 29:21"
+  - "Exode 29:22-28"
+  - "Exode 29:29-34"
+  - "Exode 29:4-9"
+  - "Exode 29:43-46"
+  - "Exode 29:9"
+  - "Exode 31"
+  - "Exode 32"
+  - "Exode 32:3"
+  - "Genèse 3:15"
+  - "Hébreux 11:6,1"
+  - "Jean 10:34-36"
+  - "Jean 5:19-20"
+  - "Jérémie 3:8"
+  - "Lévitique 10:1"
 ---
 > Heureux celui qui lit et ceux qui entendent les paroles de la prophétie, et qui gardent les choses qui y sont écrites! Car le temps est proche. Jean aux sept Églises qui sont en Asie: que la grâce et la paix vous soient données de la part de celui qui est, qui était, et qui vient, et de la part des sept esprits qui sont devant son trône, et de la part de Jésus-Christ, le témoin fidèle, le premier-né des morts, et le prince des rois de la terre! A celui qui nous aime, qui nous a délivrés de nos péchés par son sang, et qui a fait de nous un royaume, des sacrificateurs pour Dieu son Père, à lui soient la gloire et la puissance, aux siècles des siècles! Amen! Voici, il vient avec les nuées. Et tout oeil le verra, même ceux qui l'ont percé; et toutes les tribus de la terre se lamenteront à cause de lui. Oui. Amen! Je suis l'alpha et l'oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout-Puissant. (Apocalypse 1:3-8).
 
@@ -285,14 +338,4 @@ Pouyt Samuel
 
 ### Télécharger le document
 
-[
-
-Un Peuple de Sacrificateurs
-
-Un peuple de sacrificateurs.pdf
-
-0 Byte
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle
-
-](https://mevar.org/content/files/2022/12/Un%20peuple%20de%20sacrificateurs.pdf "Download")
+[Télécharger le PDF](https://mevar.org/content/files/2022/12/Un%20peuple%20de%20sacrificateurs.pdf)
