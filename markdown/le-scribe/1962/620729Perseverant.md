@@ -48,6 +48,31 @@ themes:
   - "organisation religieuse"
 pdf_url: "http://le-scribe.org/pdfiles/620729Perseverant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 3:20"
+  - "1 Rois 21:19-21"
+  - "1 Rois 22"
+  - "2 Rois 4:8-37"
+  - "2 Timothée 3:5"
+  - "Apocalypse 17"
+  - "Apocalypse 17:5"
+  - "Exode 15:26"
+  - "Hébreux 11:1"
+  - "Jean 11:21-22"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 3:3"
+  - "Jude 4"
+  - "Juges 15:15"
+  - "Luc 16:8"
+  - "Luc 17:26"
+  - "Marc 5:30"
+  - "Marc 7:28-29"
+  - "Matthieu 15:21-28"
+  - "Psaumes 103:3"
+  - "Romains 4:20"
+  - "Romains 4:21"
+  - "Ésaïe 55:11"
 ---
 *Persévérant (ou Persévérance)*
 *29 juillet 1962, dimanche après-midi, Victoria (British Columbia, Canada)*

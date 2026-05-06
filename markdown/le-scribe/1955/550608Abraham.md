@@ -60,6 +60,18 @@ themes:
   - "résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/550608Abraham.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 2:24"
+  - "2 Samuel 5:24"
+  - "Actes 3:4"
+  - "Daniel 7:15"
+  - "Genèse 15"
+  - "Genèse 22:7,8"
+  - "Hébreux 13:8"
+  - "Jean 15:16"
+  - "Jean 6:44"
+  - "Marc 9:24"
+  - "Romains 9:16"
 ---
 **1.** Sa grâce m’a sauvé d’une vie de péché et m’a donné l’occasion d’annoncer l’Evangile. Le frère Moore n’est pas là. Cela m’oblige à ne pas me cantonner à la prière pour les malades, or ce sont deux onctions différentes. Ce serait bien de pouvoir prier pour chacun. Nous attendons quelque chose qui permettra cela [NDT : allusion à la vision de la tente]. Si vous saviez ce que signifie être dans une vision ! Je n’y suis pour rien. C’est entrer dans un autre monde, parfois trente ans en arrière dans la vie d’une personne, dans un autre pays, et vous savez cependant que les gens d’ici vous entendent.
 

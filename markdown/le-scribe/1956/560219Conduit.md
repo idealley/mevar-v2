@@ -46,6 +46,11 @@ themes:
   - "petit reste"
 pdf_url: "http://le-scribe.org/pdfiles/560219Conduit.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Daniel 7:15,8"
+  - "Luc 2:25"
+  - "Matthieu 6:6"
+  - "Éphésiens 1:4"
 ---
 **1.** Vous avez suivi plusieurs réunions aujourd'hui, et vous devez être fatigués. Je ne dirai donc que quelques mots avant de prier pour les malades. Je vous invite à lire dans “Look” l'article écrit sur Billy Graham qui fait un travail formidable. Nous sommes dans sa ville. Nous prions pour lui. Notre prochaine réunion aura lieu à Sioux Falls. Moore a prévu un voyage en Suisse, en Allemagne, en Autriche, puis en Afrique du Sud, au Tanganyika, puis en Inde, etc.
 

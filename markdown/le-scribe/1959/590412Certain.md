@@ -40,6 +40,10 @@ themes:
   - "Confiance en la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/590412Certain.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 17:1-16"
+  - "Hébreux 12:14"
+  - "Jean 15:7"
 ---
 *“Comptez sur Dieu” (12 avril 1959)*
 

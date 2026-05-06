@@ -46,6 +46,24 @@ themes:
   - "Actes de foi"
   - "Ténacité dans le combat spirituel"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15-17"
+  - "1 Pierre 2:1-5"
+  - "2 Corinthiens 11"
+  - "2 Corinthiens 4"
+  - "2 Corinthiens 4:16-18"
+  - "Apocalypse 12"
+  - "Apocalypse 12:5"
+  - "Genèse 3"
+  - "Hébreux 11"
+  - "Hébreux 11:24-27"
+  - "Hébreux 11:6"
+  - "Jacques 4:4-5"
+  - "Josué 10:12-15"
+  - "Matthieu 13:55"
+  - "Matthieu 17:5"
+  - "Osée 11:1"
+  - "Romains 8:17-18"
 ---
 ## Des hommes et des actes de foi
 

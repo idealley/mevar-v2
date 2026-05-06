@@ -40,6 +40,28 @@ themes:
   - "L'Église des Gentils au temps de la fin"
 pdf_url: "http://le-scribe.org/pdfiles/580523Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:19"
+  - "Actes 10"
+  - "Actes 2"
+  - "Actes 8"
+  - "Deutéronome 18:15"
+  - "Exode 28:30"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 12:20"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 14:19"
+  - "Jean 15:5"
+  - "Jean 16:28"
+  - "Jean 5:19"
+  - "Jean 6:44"
+  - "Jean 8:58"
+  - "Marc 3:28-29"
+  - "Nombres 27:21,1"
+  - "Psaumes 103:3"
+  - "Zacharie 14:7"
 ---
 **Résumé de : “Nous voudrions voir Jésus” (23 mai 1958, soir)**
 

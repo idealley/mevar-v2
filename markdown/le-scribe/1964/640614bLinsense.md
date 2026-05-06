@@ -47,6 +47,13 @@ themes:
   - "rejet des dénominations"
 pdf_url: "http://le-scribe.org/pdfiles/640614bLinsense.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 1:18-25"
+  - "2 Corinthiens 12:11"
+  - "Jacques 5:15"
+  - "Jean 10:35"
+  - "Jean 8:48"
+  - "Éphésiens 4:11-12"
 ---
 *Résumé de!: “L'insensé” (14 juin 1964, soir)*
 

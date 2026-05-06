@@ -32,6 +32,12 @@ themes:
   - "nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/631118Funerailles.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 4:13-18"
+  - "Jean 11:25"
+  - "Jean 3:3"
+  - "Job 14:1-22"
+  - "Job 19:25"
 ---
 *Service funèbre de Garnett Peake*
 *18 novembre 1963, lundi après-midi, Campbellsville (Kentucky)*

@@ -38,6 +38,14 @@ themes:
   - "Présence du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/580518Foi-eprouvee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Exode 2:12"
+  - "Hébreux 11:1"
+  - "Marc 11:22"
+  - "Marc 11:22-23"
+  - "Matthieu 8"
+  - "Ésaïe 53"
+  - "Ésaïe 53:5"
 ---
 **UNE FOI EPROUVEE DONNE DE BONS FRUITS**
 

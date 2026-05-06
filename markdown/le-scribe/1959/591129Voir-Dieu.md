@@ -54,6 +54,23 @@ themes:
   - "Prophétie"
 pdf_url: "http://le-scribe.org/pdfiles/591129Voir-Dieu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:19"
+  - "2 Rois 4:32-37"
+  - "Actes 5:15"
+  - "Apocalypse 4:3"
+  - "Hébreux 13:8"
+  - "Hébreux 3:1"
+  - "Jacques 5:14"
+  - "Jean 11:33"
+  - "Jean 14:1-8"
+  - "Jean 14:12"
+  - "Jean 1:1,2,14"
+  - "Job 38:1-3"
+  - "Luc 10:30-37"
+  - "Luc 19:40"
+  - "Marc 11:24"
+  - "Psaumes 42:7"
 ---
 **Résumé de!: “Fais-nous voir Dieu” (29 novembre 1959, après-midi)**
 

@@ -37,6 +37,14 @@ themes:
   - "persévérance"
 pdf_url: "http://le-scribe.org/pdfiles/570303Pourquoi-si-dur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55,57"
+  - "2 Timothée 4:7-8"
+  - "Galates 2:20"
+  - "Hébreux 1:1-2"
+  - "Juges 16:3"
+  - "Zacharie 4:6"
+  - "Ézéchiel 36:26-27"
 ---
 **Résumé de : “ Pourquoi tant de chrétiens trouvent-ils si difficile de vivre une vie chrétienne” (3.3.1957)**
 

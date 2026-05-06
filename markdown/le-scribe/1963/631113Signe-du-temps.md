@@ -41,6 +41,19 @@ themes:
   - "Saint-Esprit dans l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/631113Signe-du-temps.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 3:19"
+  - "2 Chroniques 6:25"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
+  - "Jean 15:26"
+  - "Jean 6:44"
+  - "Luc 8:48"
+  - "Marc 16:17"
+  - "Matthieu 12:38"
+  - "Romains 10:17"
+  - "Ésaïe 49:15-16"
+  - "Ésaïe 59:19"
 ---
 **LE SIGNE DE NOTRE TEMPS**
 

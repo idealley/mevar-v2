@@ -41,6 +41,24 @@ themes:
   - "médiation de Christ"
 pdf_url: "http://le-scribe.org/pdfiles/640319Faire-venir.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:19"
+  - "Hébreux 11:1"
+  - "Hébreux 3:1"
+  - "Jean 10:38"
+  - "Jean 11:42"
+  - "Jean 14:12"
+  - "Jean 3:16"
+  - "Jean 5:19"
+  - "Jean 5:39"
+  - "Jean 6:53"
+  - "Jean 6:62"
+  - "Jean 6:68"
+  - "Jean 7:46"
+  - "Luc 17:28,30"
+  - "Malachie 4"
+  - "Marc 4:36-41"
+  - "Marc 5:30"
 ---
 *Résumé de!: “Faire entrer Jésus sur scène” (19 mars 1963, soir)*
 

@@ -48,6 +48,10 @@ themes:
   - "Le danger de la foi intellectuelle"
 pdf_url: "http://le-scribe.org/pdfiles/560213Vie-cachee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 10:19-23"
+  - "Matthieu 8"
+  - "Ésaïe 53"
 ---
 **1.** [Chant, prière]. J'ai appris que le frère Allen est en prison. Je ne connais pas son cas. Le frère Jack Coe a été incarcéré la semaine dernière à Miami, pour avoir ôté l'appareil de la jambe d'un enfant. Prions pour eux. [Prière pour ces deux frères]. Si j'étais à leur place, j'aimerais que l'on prie pour moi.
 

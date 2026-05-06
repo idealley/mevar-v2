@@ -43,6 +43,12 @@ themes:
   - "jugement"
 pdf_url: "http://le-scribe.org/pdfiles/510722Histoire-vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 3:2"
+  - "Hébreux 11:10"
+  - "Hébreux 13:10-14"
+  - "Jean 5:24"
+  - "Matthieu 24"
 ---
 *Histoire de ma vie*
 *Life Story*

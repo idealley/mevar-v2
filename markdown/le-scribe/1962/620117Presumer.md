@@ -43,6 +43,16 @@ themes:
   - "Séparation du monde"
 pdf_url: "http://le-scribe.org/pdfiles/620117Presumer.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18:16-40"
+  - "Deutéronome 18"
+  - "Deutéronome 18:15,19,21,22"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Joël 2:28"
+  - "Marc 16:17"
+  - "Nombres 14:41"
+  - "Ésaïe 28:11"
 ---
 *Présumer*
 *17 janvier 1962, mercredi soir, Phœnix (Arizona)*

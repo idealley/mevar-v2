@@ -39,6 +39,27 @@ themes:
   - "Enlèvement de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/640126Quid-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:5"
+  - "Actes 2:38-39"
+  - "Apocalypse 17:1,5"
+  - "Apocalypse 19:7-9"
+  - "Apocalypse 3:17"
+  - "Deutéronome 18:15-19"
+  - "Genèse 15:13-14"
+  - "Jean 14:12"
+  - "Jean 1:1,14"
+  - "Jean 5:36"
+  - "Jean 5:39"
+  - "Luc 12:32"
+  - "Malachie 4:5-6"
+  - "Marc 16:17"
+  - "Matthieu 27:11-26"
+  - "Nombres 13:33"
+  - "Ésaïe 27:3"
+  - "Ésaïe 29:18"
+  - "Ésaïe 55:11"
+  - "Ésaïe 7:14"
 ---
 *Que ferons-nous de ce Jésus qu'on appelle Christ ?* (26 Janvier 1964, après-midi)
 

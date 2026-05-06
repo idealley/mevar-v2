@@ -37,6 +37,27 @@ themes:
   - "Expérience du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/620408Presumer.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 5:7"
+  - "1 Samuel 8:5"
+  - "2 Timothée 3:12"
+  - "Daniel 5:3"
+  - "Exode 12:23"
+  - "Hébreux 6:4-6"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 3:18"
+  - "Jean 6:63"
+  - "Josué 1:3"
+  - "Josué 7:1"
+  - "Josué 7:21"
+  - "Malachie 4"
+  - "Marc 16:17"
+  - "Marc 7:9"
+  - "Nombres 13:31"
+  - "Nombres 14:11"
+  - "Nombres 14:37"
+  - "Ésaïe 28:10"
 ---
 **Résumé de!: “Présumer” (8 avril 1962, matin)**
 

@@ -41,6 +41,12 @@ themes:
   - "hospitalité"
 pdf_url: "http://le-scribe.org/pdfiles/631226Ordre-ds-eglise.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:26-28"
+  - "1 Corinthiens 14:32"
+  - "1 Jean 2:19"
+  - "Actes 6:3"
+  - "Matthieu 17:27"
 ---
 **Résumé de!: “L'ordre dans l'église” (26 décembre 1963 soir)**
 

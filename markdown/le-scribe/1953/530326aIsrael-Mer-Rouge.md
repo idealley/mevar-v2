@@ -41,6 +41,24 @@ themes:
   - "Rejet du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/530326aIsrael-Mer-Rouge.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17"
+  - "Exode 2"
+  - "Exode 3"
+  - "Exode 3:14"
+  - "Exode 4:24"
+  - "Genèse 50:25"
+  - "Jean 3:18"
+  - "Jean 5:24"
+  - "Jean 6:35"
+  - "Jean 6:37"
+  - "Jean 6:54"
+  - "Jean 7:38"
+  - "Jean 8:58"
+  - "Job 19:25,26"
+  - "Job 33:24"
+  - "Luc 21:28"
+  - "Romains 8:1"
 ---
 **“Israël à la Mer Rouge (a)”**
 

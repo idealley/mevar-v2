@@ -41,6 +41,18 @@ themes:
   - "autorité spirituelle"
   - "fidélité à la mission"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 9:7"
+  - "2 Corinthiens 11:23-29"
+  - "2 Timothée 2:3-4"
+  - "Daniel 10"
+  - "Daniel 10:12-14"
+  - "Jérémie 44:16-17"
+  - "Jérémie 50:46"
+  - "Néhémie 6"
+  - "Ésaïe 13:1-5"
+  - "Ésaïe 21:6-12"
+  - "Ésaïe 62:6-7"
 ---
 ## Exhortation spéciale fin Août 2007
 

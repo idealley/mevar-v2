@@ -39,6 +39,12 @@ themes:
   - "Mort des saints"
 pdf_url: "http://le-scribe.org/pdfiles/620621Chemin-vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 2:12"
+  - "Hébreux 11:26"
+  - "Psaumes 116:15"
+  - "Psaumes 16"
+  - "Zacharie 14:7"
 ---
 **Résumé de!: “Le chemin de la Vie” (21 juin 1962, matin)**
 

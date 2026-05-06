@@ -37,6 +37,21 @@ themes:
   - "autorité du croyant"
 pdf_url: "http://le-scribe.org/pdfiles/550227Position.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Timothée 2:14"
+  - "Galates 4:1-5"
+  - "Galates 5:22"
+  - "Hébreux 10:1"
+  - "Hébreux 10:14-15"
+  - "Hébreux 9:11-12"
+  - "Matthieu 7:23"
+  - "Romains 8:1"
+  - "Éphésiens 1:1"
+  - "Éphésiens 1:2-3"
+  - "Éphésiens 1:4"
+  - "Éphésiens 1:4-5"
+  - "Ésaïe 53:5"
 ---
 *Résumé de : “Position d’un croyant en Christ” (27 février 1955, après-midi)*
 

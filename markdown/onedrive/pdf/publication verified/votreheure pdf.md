@@ -43,6 +43,10 @@ mevar_match:
   title: "C’est ici votre heure et la puissance des ténèbres"
   similarity: 0.599
 llm_cleaned: true
+bible_refs:
+  - "Luc 22:52-53"
+  - "Luc 23:44-46"
+  - "Marc 16:1-3"
 ---
 # C'est ici votre heure et la puissance des ténèbres
 

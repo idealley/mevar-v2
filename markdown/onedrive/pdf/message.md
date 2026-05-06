@@ -41,6 +41,22 @@ themes:
   - "Combat spirituel"
   - "Violence spirituelle"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:8"
+  - "1 Corinthiens 6:13"
+  - "1 Corinthiens 6:18"
+  - "1 Timothée 1:18"
+  - "2 Timothée 4:7"
+  - "Exode 20:14"
+  - "Josué 7"
+  - "Joël 2"
+  - "Joël 2:12-17"
+  - "Luc 7:36-50"
+  - "Lévitique 20:10"
+  - "Matthieu 16"
+  - "Matthieu 16:4"
+  - "Éphésiens 5:3"
+  - "Ézéchiel 23:37"
 ---
 ## Exhortation du Mois d'octobre 2006
 

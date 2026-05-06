@@ -38,6 +38,21 @@ themes:
   - "Verge de fer"
   - "Préparation à l'enlèvement"
 llm_cleaned: true
+bible_refs:
+  - "2 Chroniques 22:10"
+  - "2 Chroniques 22:10-12"
+  - "Actes 4"
+  - "Apocalypse 11:15"
+  - "Apocalypse 12:1-6"
+  - "Apocalypse 17"
+  - "Apocalypse 17:1-6"
+  - "Apocalypse 18:7"
+  - "Jérémie 33:1-18"
+  - "Psaumes 2"
+  - "Psaumes 2:1-9"
+  - "Psaumes 68:31"
+  - "Sophonie 3:10"
+  - "Ésaïe 18"
 ---
 La semence royale, prêchée le dimanche 13 Novembre 2011 à Koumassi par le frère M’BRA Parfait
 

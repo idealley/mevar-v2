@@ -35,6 +35,11 @@ themes:
   - "salut"
 pdf_url: "http://le-scribe.org/pdfiles/560513Enseig-Moise.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 2:5"
+  - "Marc 8:34-37"
+  - "Matthieu 16:25"
+  - "Psaumes 34:8"
 ---
 **Résumé de!: “Enseignement sur Moïse” (13 mai 1956, matin)**
 

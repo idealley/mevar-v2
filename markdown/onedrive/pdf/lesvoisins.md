@@ -41,6 +41,17 @@ themes:
   - "Distractions"
   - "Réveil"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12"
+  - "Apocalypse 6"
+  - "Exode 23:23-33"
+  - "Exode 32"
+  - "Genèse 35"
+  - "Hébreux 11"
+  - "Juges 1"
+  - "Juges 2"
+  - "Juges 2:20"
+  - "Tite 2"
 ---
 ## Les voisins
 

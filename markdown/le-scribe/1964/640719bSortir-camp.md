@@ -41,6 +41,22 @@ themes:
   - "la résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/640719bSortir-camp.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38-39"
+  - "Apocalypse 3:17"
+  - "Genèse 15:13"
+  - "Hébreux 13:10"
+  - "Jean 11:25"
+  - "Jean 14:12"
+  - "Jean 3:2"
+  - "Jean 5:39"
+  - "Jean 5:43"
+  - "Jean 6:53"
+  - "Jean 6:62"
+  - "Jean 6:68"
+  - "Marc 16:17"
+  - "Nombres 16"
+  - "Ésaïe 9:5"
 ---
 **1.** [Prière]. Avant de venir, je demande toujours à Dieu un passage qui vous soit utile. Bien des gens viennent me demander un “Ainsi dit le Seigneur” pour leurs bien-aimés, mais je ne peux pas le faire s'il ne m'a pas parlé auparavant. Cela ne doit pas se faire sur un élan, sinon je ne serais plus crédible. Par contre, je peux prier. Beaucoup de pasteurs sont venus ces derniers temps se faire rebaptiser au Nom du Seigneur Jésus-Christ. C'est le vrai baptême au Nom “du Père, Fils et Saint-Esprit”, car ce Nom, c'est le “Seigneur Jésus-Christ”. Je m'en tiens à la Parole, ma Haute Retraite, même si j'ai perdu beaucoup d'amis à cause de cela. Lui aussi a été traité de démon.
 

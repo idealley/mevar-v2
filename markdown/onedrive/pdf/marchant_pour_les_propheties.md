@@ -49,6 +49,16 @@ themes:
   - "Retour d'Israël"
   - "Réveil spirituel"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12"
+  - "Genèse 15"
+  - "Genèse 37"
+  - "Malachie 4:5"
+  - "Marc 13"
+  - "Matthieu 24:14"
+  - "Matthieu 25:5-6"
+  - "Ésaïe 27"
+  - "Ésaïe 27:13-14"
 ---
 Marchant pour les prophéties, prêché le Dimanche 27 Mai 2012, par le frère M'BRA Parfait à Koumassi (Abidjan)
 

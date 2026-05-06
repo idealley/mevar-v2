@@ -41,6 +41,21 @@ mevar_match:
   title: "La voix de l'offrande"
   similarity: 0.64
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:9-11"
+  - "1 Jean 3:9-16"
+  - "Ecclésiaste 5:1-4"
+  - "Exode 23:19"
+  - "Exode 34:22"
+  - "Galates 5:19-21"
+  - "Genèse 4:1-16"
+  - "Hébreux 11"
+  - "Hébreux 5"
+  - "Nombres 18:17"
+  - "Nombres 23:19"
+  - "Osée 12:4-5"
+  - "Romains 8:5-9"
+  - "Ésaïe 1:10-13"
 ---
 ## Exhortation Septembre 2016
 

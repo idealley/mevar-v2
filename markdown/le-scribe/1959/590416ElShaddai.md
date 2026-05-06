@@ -38,6 +38,33 @@ themes:
   - "Jugement imminent"
 pdf_url: "http://le-scribe.org/pdfiles/590416ElShaddai.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:20"
+  - "Apocalypse 13:8"
+  - "Apocalypse 19:7"
+  - "Apocalypse 3:18"
+  - "Esther 8:8"
+  - "Genèse 11"
+  - "Genèse 17"
+  - "Genèse 18:9"
+  - "Jean 12:32"
+  - "Jean 14:19"
+  - "Jean 15:7"
+  - "Jean 5:39"
+  - "Joël 1:4"
+  - "Joël 2:25"
+  - "Jude 3"
+  - "Luc 14:21-23"
+  - "Luc 17:28"
+  - "Luc 19:42"
+  - "Marc 16:16-18"
+  - "Matthieu 10:25"
+  - "Matthieu 11:25"
+  - "Matthieu 23:37"
+  - "Matthieu 28:20"
+  - "Romains 2:29"
+  - "Romains 3:10-12,23"
+  - "Romains 4:20"
 ---
 “El-Shaddaï” (16.04.1959)
 

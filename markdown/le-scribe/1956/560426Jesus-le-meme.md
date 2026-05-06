@@ -41,6 +41,18 @@ themes:
   - "Foi et incrédulité"
 pdf_url: "http://le-scribe.org/pdfiles/560426Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Colossiens 1:27"
+  - "Daniel 3:17-18"
+  - "Exode 28:30"
+  - "Hébreux 13:8"
+  - "Jean 12:20-21"
+  - "Jean 12:21"
+  - "Jean 1:47"
+  - "Jean 5:19"
+  - "Marc 16"
+  - "Matthieu 11:25"
+  - "Psaumes 22:6"
 ---
 **Résumé de : “Jésus-Christ le même” (26 avril 1956)**
 

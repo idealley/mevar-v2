@@ -37,6 +37,12 @@ themes:
   - "persévérance"
 pdf_url: "http://le-scribe.org/pdfiles/560722Tout-possible.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 5:19"
+  - "Marc 11:24"
+  - "Marc 9:23"
+  - "Matthieu 8:16-17"
+  - "Ésaïe 53"
 ---
 **1.** J'ai prié tout l'après-midi, et je suis venu directement ici pour prêcher
 [Enregistrement interrompu]… les visions ne sont pas aussi claires, car il y a deux sortes d'onction. Celle de la prédication de la Parole remplit de joie, mais celle des visions affaiblit. Dans un cas, c'est Dieu qui donne au travers de la Parole, dans l'autre c'est vous qui tirez de Dieu ce que vous désirez. Lisons Marc 9:23

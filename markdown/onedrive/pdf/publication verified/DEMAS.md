@@ -46,6 +46,9 @@ mevar_match:
   title: "Démas, ou l’esprit de la mondanité"
   similarity: 0.85
 llm_cleaned: true
+bible_refs:
+  - "Ecclésiaste 1"
+  - "Luc 11:31"
 ---
 ## Démas, ou l’esprit de la mondanité
 

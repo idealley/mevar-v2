@@ -52,6 +52,35 @@ mevar_match:
   title: "La foi pour manger le lait et le miel"
   similarity: 0.595
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:50"
+  - "1 Corinthiens 3:16"
+  - "1 Corinthiens 3:17"
+  - "1 Corinthiens 6"
+  - "1 Corinthiens 6:12"
+  - "1 Corinthiens 6:19"
+  - "1 Corinthiens 6:9-11"
+  - "2 Corinthiens 10"
+  - "2 Corinthiens 10:4-6"
+  - "2 Corinthiens 5:7"
+  - "2 Corinthiens 6:16"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 2:20"
+  - "Daniel 10:12-14"
+  - "Exode 3:7-8"
+  - "Galates 5:19-21"
+  - "Genèse 17:1"
+  - "Hébreux 4"
+  - "Jean 2:14"
+  - "Luc 10"
+  - "Luc 10:17-20"
+  - "Luc 10:19"
+  - "Luc 11:21-22"
+  - "Luc 9:1"
+  - "Matthieu 7"
+  - "Matthieu 7:21-23"
+  - "Nombres 18"
+  - "Ésaïe 54:14-17"
 ---
 ## LA FOI POUR MANGER LE LAIT ET LE MIEL
 

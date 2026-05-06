@@ -47,6 +47,14 @@ mevar_match:
   title: "Les prisonniers de la religion"
   similarity: 0.53
 llm_cleaned: true
+bible_refs:
+  - "Actes 12"
+  - "Actes 2"
+  - "Genèse 18"
+  - "Jean 1"
+  - "Matthieu 18:19-20"
+  - "Ésaïe 55:6"
+  - "Ésaïe 7:14"
 ---
 Les prisonniers de la religion, prêché le 24 Mars 2007 à Houndé, Burkina faso
 par le frère M’BRA Parfait

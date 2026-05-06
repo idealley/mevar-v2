@@ -41,6 +41,25 @@ themes:
   - "La manifestation de Dieu par la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/630119Chemin-prophete.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:35"
+  - "2 Chroniques 26:19"
+  - "2 Timothée 3:4-5"
+  - "Amos 2:4"
+  - "Amos 3:1"
+  - "Amos 3:3"
+  - "Amos 3:8"
+  - "Apocalypse 13:14-15"
+  - "Genèse 18"
+  - "Hébreux 12:14"
+  - "Hébreux 13:8"
+  - "Jean 6:37"
+  - "Luc 17:28"
+  - "Malachie 4:5-6"
+  - "Marc 16:18"
+  - "Nombres 22"
+  - "Proverbes 18:10"
+  - "Ézéchiel 16"
 ---
 **Résumé de!: “Le chemin d’un vrai prophète” (19 Janvier1963)**
 

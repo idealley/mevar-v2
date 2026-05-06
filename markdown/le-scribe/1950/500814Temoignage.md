@@ -37,6 +37,10 @@ themes:
   - "prière pour les malades"
 pdf_url: "http://le-scribe.org/pdfiles/500814Temoignage.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 4:46"
+  - "Luc 17:26"
+  - "Marc 9:14-29"
 ---
 **TÉMOIGNAGE**
 

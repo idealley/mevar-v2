@@ -37,6 +37,9 @@ themes:
   - "rencontre divine"
 pdf_url: "http://le-scribe.org/pdfiles/500715Conduit.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 4:8-37"
+  - "Matthieu 9:27"
 ---
 **CONDUIT PAR L'ESPRIT**
 *LED BY THE SPIRIT*

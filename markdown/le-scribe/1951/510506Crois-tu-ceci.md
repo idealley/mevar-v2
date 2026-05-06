@@ -53,6 +53,12 @@ themes:
   - "persévérance"
 pdf_url: "http://le-scribe.org/pdfiles/510506Crois-tu-ceci.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Daniel 3"
+  - "Jean 11:20-27"
+  - "Luc 1:13"
+  - "Proverbes 30:8-9"
+  - "Psaumes 121:1-2"
 ---
 **CROIS-TU CECI ?**
 *BELIEVEST THOU THIS ?*

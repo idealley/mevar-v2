@@ -43,6 +43,11 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/500820aHistoire-vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 11:10"
+  - "Hébreux 11:13"
+  - "Hébreux 13:10-14"
+  - "Job 38:4,7"
 ---
 **HISTOIRE DE MA VIE**
 *LIFE STORY*

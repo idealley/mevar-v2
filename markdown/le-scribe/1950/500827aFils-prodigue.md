@@ -35,6 +35,9 @@ themes:
   - "foi"
 pdf_url: "http://le-scribe.org/pdfiles/500827aFils-prodigue.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "Luc 15:11"
 ---
 **LE FILS PRODIGUE**
 

@@ -40,6 +40,24 @@ mevar_match:
   title: "Les porteurs du royaume de Dieu"
   similarity: 0.608
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:18"
+  - "1 Jean 5:16"
+  - "2 Pierre 3:8"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 3"
+  - "Jacques 5:16"
+  - "Jacques 5:19-20"
+  - "Luc 5:18-25"
+  - "Marc 13:14"
+  - "Marc 13:20"
+  - "Marc 3:29"
+  - "Matthieu 24"
+  - "Matthieu 6:6"
+  - "Romains 16:20"
+  - "Ésaïe 26:20"
+  - "Ésaïe 40:27-31"
+  - "Ésaïe 53"
 ---
 ## Exhortation Décembre 2012
 

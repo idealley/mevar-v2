@@ -34,6 +34,29 @@ themes:
   - "Enlèvement de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/571002Hebreux-Q&R-2.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Jean 5:7"
+  - "Actes 2:27"
+  - "Actes 4:12"
+  - "Actes 7:55"
+  - "Apocalypse 7"
+  - "Daniel 9:24"
+  - "Deutéronome 23:25"
+  - "Exode 33:23"
+  - "Exode 3:15"
+  - "Genèse 18"
+  - "Jean 14:9"
+  - "Jean 1:18"
+  - "Jean 5:24"
+  - "Jean 8:58"
+  - "Luc 21:29-31"
+  - "Marc 14:62"
+  - "Psaumes 16:10"
+  - "Romains 11"
+  - "Romains 8:1,4"
+  - "Éphésiens 1:10"
+  - "Ésaïe 9:5"
 ---
 **303-320** Merci d'avoir prié pour ma femme qui a eu une forte fièvre pendant quelques jours. Le frère Bosworth, qui est presque centenaire, me demande d'aller lui rendre visite. Il a été un père pour moi, et je pense qu'il veut m'imposer les mains avant de quitter cette terre.
 Certains se demandent pourquoi je pars précipitamment après les réunions : c'est pour ne pas être trop accaparé et rejoindre mon épouse le plus rapidement possible.

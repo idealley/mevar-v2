@@ -41,6 +41,27 @@ themes:
   - "restauration de l'Épouse"
 pdf_url: "http://le-scribe.org/pdfiles/621125Convaincu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 17"
+  - "2 Pierre 3:9"
+  - "2 Rois 4"
+  - "2 Timothée 3:8-9"
+  - "Actes 2:25"
+  - "Deutéronome 18:22"
+  - "Genèse 22:17"
+  - "Jean 11:21-22"
+  - "Jean 14:6"
+  - "Jean 1:26"
+  - "Jean 1:35-42"
+  - "Jean 3:19"
+  - "Jean 6:44"
+  - "Jean 6:63"
+  - "Jean 8:44"
+  - "Jean 9:25"
+  - "Juges 3:31"
+  - "Luc 10:19"
+  - "Luc 8:41-56"
+  - "Psaumes 16:8-11"
 ---
 **1.** [Prière]. Nous avons écouté ce frère qui était aux réunions d’Azusa Street [NDT : berceau du grand réveil de 1906], et qui à l’époque voulait se cacher sous les bancs. Devenons humbles pour que ces choses se produisent à nouveau. C’est Dieu qui fait cela. Je salue le frère Welch Evans et sa famille de Tifton, Georgie. Il parcourt 1 500 miles tous les dimanches pour venir m’écouter au Tabernacle. Je l’ai rencontré la première fois à Philadelphie. Le matin, une vision m’avait montré un sportif dissimulant son poisson à trois reprises à l’approche d’un garde, dans un bayou. Je lui ai demandé de me conduire pêcher dans ce même endroit ! Nous étions armés à cause des alligators. Vers onze heures du matin, j’ai attrapé un poisson énorme, et, pour m’aider, Welch a sauté dans l’eau. Un serpent l’a mordu, il sentait le froid envahir ses os et il souffrait. Le Seigneur m’a rappelé ce verset : “Je vous ai donné le pouvoir de marcher sur les serpents et les scorpions” [Luc 10:19]. J’ai placé ma main sur la blessure, et j’ai prié. La douleur a cessé, il s’est mis à rire et nous avons continué. Le soir à onze heures, nous étions de retour au motel, et son frère voulait le conduire à l’hôpital, mais Welch a refusé.
 

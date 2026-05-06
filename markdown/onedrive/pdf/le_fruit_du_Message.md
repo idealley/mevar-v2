@@ -40,6 +40,8 @@ themes:
   - "Réveil de Minuit"
   - "Élus et appelés"
 llm_cleaned: true
+bible_refs:
+  - "Ésaïe 40"
 ---
 ## Le fruit du Message
 

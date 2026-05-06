@@ -50,6 +50,24 @@ themes:
   - "martyre"
 pdf_url: "http://le-scribe.org/pdfiles/620908Stade-actuel.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:37"
+  - "1 Rois 17:6"
+  - "1 Rois 18:16-40"
+  - "1 Rois 19:18"
+  - "1 Rois 19:3"
+  - "2 Rois 2"
+  - "2 Rois 2:23"
+  - "2 Timothée 4"
+  - "2 Timothée 4:20"
+  - "Actes 13:11"
+  - "Actes 9:33"
+  - "Daniel 3"
+  - "Daniel 6"
+  - "Jean 6:66"
+  - "Luc 4:18-19"
+  - "Ésaïe 40:31"
+  - "Ésaïe 61"
 ---
 **Résumé de!: “Le stade présent de mon ministère” (8 septembre 1962, soir)**
 

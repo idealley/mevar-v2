@@ -41,6 +41,15 @@ themes:
   - "jugement à venir"
 pdf_url: "http://le-scribe.org/pdfiles/640531Linsense.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 2:9"
+  - "1 Rois 19:18"
+  - "2 Corinthiens 12:11"
+  - "Colossiens 3:16"
+  - "Hébreux 13:15"
+  - "Malachie 3:1"
+  - "Matthieu 24:24"
+  - "Éphésiens 5:19"
 ---
 **L'INSENSE**
 

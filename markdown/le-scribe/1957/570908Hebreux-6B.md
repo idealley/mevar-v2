@@ -42,6 +42,26 @@ themes:
   - "la semence d'Abraham"
 pdf_url: "http://le-scribe.org/pdfiles/570908Hebreux-6B.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 4:3"
+  - "1 Samuel 31:4"
+  - "2 Samuel 1:9-10"
+  - "Galates 3:16"
+  - "Galates 3:17-20"
+  - "Galates 3:29"
+  - "Galates 5:22"
+  - "Genèse 20"
+  - "Hébreux 10:26-29"
+  - "Hébreux 6:11-14"
+  - "Hébreux 6:4"
+  - "Hébreux 6:7,8"
+  - "Hébreux 6:7-10"
+  - "Jean 3:18"
+  - "Jean 5:24"
+  - "Jean 6:37"
+  - "Romains 11:29"
+  - "Romains 9:13"
+  - "Éphésiens 4:30"
 ---
 **Résumé de!: “Hébreux, chapitre 6, deuxième partie” (8 septembre 1957, soir)**
 

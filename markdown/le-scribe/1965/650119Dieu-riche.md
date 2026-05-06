@@ -41,6 +41,20 @@ themes:
   - "la foi qui sauve"
 pdf_url: "http://le-scribe.org/pdfiles/650119Dieu-riche.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 18:4"
+  - "Actes 2:38-39"
+  - "Exode 19:4"
+  - "Exode 33:23"
+  - "Jean 17:7"
+  - "Jean 3:14-15"
+  - "Jean 5:2-4"
+  - "Luc 17:28,30"
+  - "Luc 8:43-48"
+  - "Malachie 4:6"
+  - "Matthieu 21:21"
+  - "Nombres 21:4-9"
+  - "Ésaïe 53:5"
 ---
 **Résumé de : “Le Dieu qui est riche en miséricorde” (19 Janvier 1965, soir)**
 

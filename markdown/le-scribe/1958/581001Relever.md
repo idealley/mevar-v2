@@ -38,6 +38,13 @@ themes:
   - "puissance de la prière"
 pdf_url: "http://le-scribe.org/pdfiles/581001Relever.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18:17"
+  - "2 Timothée 3:1-5"
+  - "Hébreux 13:8"
+  - "Marc 9:14-32"
+  - "Psaumes 121:4"
+  - "Psaumes 23:4"
 ---
 **1.** Je vais bientôt partir outre-mer. Il y a quelque temps, j’ai eu la vision d’une énorme tente [décembre 1955 ; vision décrite dans "Le voile intérieur" du 1.1.1956, §42 et s.; dans "Visions et prophéties" du 8.4.1956, §69 et s.]. Je venais de parler, et beaucoup d’âmes étaient en pleurs, mains levées autour de l’autel. Un aimable présentateur est venu déclarer sur l’estrade : “ La ligne de prière va être formée pendant que le frère Branham se prépare”. La ligne de prière était sur ma gauche. Il y avait une foule alignée sur la longueur d’un pâté d’immeubles. A l’intérieur de la tente, il y avait une petite construction en bois, et un homme et une femme se tenaient là pour noter les noms, et les gens venaient de l’autre côté sur des civières, avec des béquilles. Je me suis demandé ce qui allait se passer, et l’Ange du Seigneur dont vous avez vu la photo m’a quitté pour aller se tenir au-dessus de la petite construction. Et une Voix a dit : “Je te rencontrerai en cet endroit”. J’attends depuis ce jour-là. Samedi et dimanche, j’ai un peu secoué l’église pour aller de l’avant.
 

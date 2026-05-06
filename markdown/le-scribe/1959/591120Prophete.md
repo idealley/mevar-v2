@@ -43,6 +43,12 @@ themes:
   - "Seconde venue de Jésus"
 pdf_url: "http://le-scribe.org/pdfiles/591120Prophete.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Hébreux 12:1"
+  - "Marc 6:45"
+  - "Psaumes 46:2"
+  - "Ésaïe 40:31"
 ---
 “Un prophète comme Moïse” (20.11.1959)
 

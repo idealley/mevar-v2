@@ -42,6 +42,27 @@ themes:
   - "manifestation du Fils de l'homme"
 pdf_url: "http://le-scribe.org/pdfiles/650425Lieu-adoration.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Thessaloniciens 4:16"
+  - "Actes 4:12"
+  - "Colossiens 2:9"
+  - "Deutéronome 16:1-6"
+  - "Jean 10:35"
+  - "Jean 10:7"
+  - "Jean 14:12"
+  - "Jean 2:19"
+  - "Jean 4:23"
+  - "Jean 5:43"
+  - "Jean 8:46,1"
+  - "Malachie 4:6"
+  - "Nombres 18:15"
+  - "Romains 8:1"
+  - "Romains 8:11"
+  - "Zacharie 14:7"
+  - "Éphésiens 3:5"
+  - "Éphésiens 4:30"
+  - "Ésaïe 7:14"
 ---
 **Résumé de : “Le lieu d'adoration que Dieu a choisi” (25 avril 1965, après-midi)**
 

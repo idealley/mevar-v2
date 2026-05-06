@@ -40,6 +40,19 @@ themes:
   - "séparation d'avec les credos"
 pdf_url: "http://le-scribe.org/pdfiles/650117Paradoxe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 10"
+  - "Apocalypse 6"
+  - "Exode 19"
+  - "Hébreux 11:3"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
+  - "Jean 14:19"
+  - "Josué 10:1"
+  - "Josué 10:12"
+  - "Luc 22:17"
+  - "Malachie 4"
+  - "Marc 11:22"
 ---
 *Un paradoxe* (17 janvier 1965, après-midi)
 

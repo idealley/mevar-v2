@@ -48,6 +48,28 @@ themes:
   - "guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/620407Signe-venue.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:4"
+  - "2 Timothée 3:5"
+  - "Actes 2:39"
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Apocalypse 22:18-19"
+  - "Apocalypse 3"
+  - "Deutéronome 13:1"
+  - "Deutéronome 18:15-19"
+  - "Genèse 15:13-16"
+  - "Hébreux 2:4"
+  - "Jean 10:27"
+  - "Jean 15:5"
+  - "Joël 2:25"
+  - "Jérémie 10:2"
+  - "Luc 17:28,30"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Romains 4:20"
+  - "Zacharie 14:7"
+  - "Ézéchiel 4:4-7"
 ---
 **LE SIGNE DE SA VENUE**
 *THE SIGN OF HIS COMING*

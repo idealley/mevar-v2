@@ -41,6 +41,10 @@ mevar_match:
   title: "Un pays appelé Gosen"
   similarity: 0.565
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15"
+  - "Exode 8"
+  - "Ésaïe 40"
 ---
 ## Un pays appelé Gosen
 

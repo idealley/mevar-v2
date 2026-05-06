@@ -40,6 +40,22 @@ themes:
   - "salut"
 pdf_url: "http://le-scribe.org/pdfiles/6405LeeVayle.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 9"
+  - "Actes 16:17"
+  - "Deutéronome 18:15"
+  - "Exode 20:19"
+  - "Genèse 22:13"
+  - "Hébreux 4"
+  - "Hébreux 4:12"
+  - "Jean 10:35"
+  - "Luc 17"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Marc 11:23"
+  - "Matthieu 11"
+  - "Nombres 12"
+  - "Nombres 12:14"
 ---
 **1.** Il faut faire comprendre aux lecteurs en quelle heure nous vivons. S’ils ne voient que le passé, il n’y a plus d’espoir. Ils doivent voir le temps présent. Dieu a envoyé un prophète dans le temps présent.
 

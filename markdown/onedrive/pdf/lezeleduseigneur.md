@@ -54,6 +54,16 @@ themes:
   - "Pardon et miséricorde"
   - "Foi et persévérance"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 9"
+  - "Actes 22:1-5"
+  - "Actes 8"
+  - "Apocalypse 12"
+  - "Galates 1:13-17"
+  - "Nombres 25"
+  - "Romains 10"
+  - "Romains 12:11"
+  - "Ésaïe 37:31"
 ---
 ## Le zèle pour l'Eternel
 

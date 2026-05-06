@@ -33,6 +33,11 @@ themes:
   - "Témoignage vivant"
 pdf_url: "http://le-scribe.org/pdfiles/640321Passer-par-ici.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18:44"
+  - "Jean 12:32"
+  - "Luc 19:1-10"
+  - "Luc 19:40"
 ---
 **IL DOIT PASSER PAR CI**
 

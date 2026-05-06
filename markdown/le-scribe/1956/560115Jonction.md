@@ -36,6 +36,13 @@ themes:
   - "jugement et miséricorde"
 pdf_url: "http://le-scribe.org/pdfiles/560115Jonction.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:8"
+  - "Actes 2:15"
+  - "Apocalypse 11"
+  - "Joël 2:28"
+  - "Luc 17:26"
+  - "Luc 21:28"
 ---
 **LE CARREFOUR DU TEMPS**
 

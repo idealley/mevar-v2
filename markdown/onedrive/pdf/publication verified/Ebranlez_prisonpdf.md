@@ -39,6 +39,12 @@ themes:
   - "Vierges sages"
   - "Babylone"
 llm_cleaned: true
+bible_refs:
+  - "Actes 16"
+  - "Actes 8"
+  - "Matthieu 23:13"
+  - "Matthieu 24"
+  - "Ésaïe 6"
 ---
 ## EBRANLEZ LES PRISONS !
 

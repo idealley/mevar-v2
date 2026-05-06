@@ -41,6 +41,29 @@ themes:
   - "Puissance de la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/631103Reveiller-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 3:21"
+  - "1 Pierre 4:12,1"
+  - "Amos 3:7"
+  - "Deutéronome 18:15"
+  - "Genèse 18:13"
+  - "Hébreux 13:8"
+  - "Hébreux 4:12"
+  - "Hébreux 4:15"
+  - "Jean 10:37-38"
+  - "Jean 14:12"
+  - "Jean 14:12,11"
+  - "Jean 16:13"
+  - "Jean 3:18"
+  - "Jean 5:24"
+  - "Jean 5:39"
+  - "Luc 17:28"
+  - "Luc 1:40"
+  - "Luc 8:46"
+  - "Marc 16:17"
+  - "Matthieu 8:23-27"
+  - "Psaumes 23:4"
+  - "Éphésiens 2:6"
 ---
 **Aller réveiller Jésus**
 

@@ -40,6 +40,19 @@ themes:
   - "témoignage"
 pdf_url: "http://le-scribe.org/pdfiles/510718Ange-Seigneur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "1 Rois 18:19"
+  - "2 Corinthiens 3:6"
+  - "Exode 13:21"
+  - "Hébreux 10:7"
+  - "Jean 5:19"
+  - "Jean 6:37,7"
+  - "Job 39:33"
+  - "Joël 2:30"
+  - "Marc 5:34"
+  - "Marc 6:3-5"
+  - "Ésaïe 53:5"
 ---
 **1.** Merci à cette sœur de Cleveland pour son témoignage de guérison. Vous avez cru ce que j’avais dit, sinon vous seriez morte. Dieu ne se trompe jamais. Après les réunions de New-York, je partirai pour l’Afrique. Je serai à Johannesburg le 4 octobre. J’espère être à Jérusalem vers Noël. Les églises scandinaves ont envoyé un million de Nouveaux Testaments à ces Juifs qui disent : “Montrez ce Jésus faire le signe du prophète, et nous l’accepterons comme Messie”.
 

@@ -35,6 +35,15 @@ themes:
   - "Persévérance"
 pdf_url: "http://le-scribe.org/pdfiles/570418Communion.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:7"
+  - "Exode 12:1"
+  - "Hébreux 11:26"
+  - "Hébreux 12:8"
+  - "Hébreux 7:1"
+  - "Jean 6:44"
+  - "Matthieu 26:27"
+  - "Psaumes 51:7"
 ---
 **Résumé de!: “La Communion” (18 avril 1957)**
 

@@ -37,6 +37,31 @@ themes:
   - "jugement"
 pdf_url: "http://le-scribe.org/pdfiles/620705aJehova.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 8"
+  - "2 Corinthiens 6:17"
+  - "2 Rois 4:29"
+  - "Actes 19:12"
+  - "Apocalypse 13:8"
+  - "Exode 19"
+  - "Exode 2:24"
+  - "Genèse 12"
+  - "Genèse 12:1-4,15"
+  - "Genèse 12:5-13"
+  - "Genèse 14:18-20"
+  - "Genèse 15"
+  - "Genèse 22:16"
+  - "Genèse 22:7-14"
+  - "Hébreux 6:17-18"
+  - "Joël 2:23-25"
+  - "Malachie 3"
+  - "Malachie 4:3"
+  - "Malachie 4:5"
+  - "Malachie 4:5-6"
+  - "Romains 4:16-25"
+  - "Romains 8:30"
+  - "Zacharie 14:7"
+  - "Ésaïe 52:11"
 ---
 **Résumé de!: “Jehova-Jiré . Première partie” (5 juillet 1962, soir)**
 

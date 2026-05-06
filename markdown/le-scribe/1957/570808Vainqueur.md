@@ -45,6 +45,14 @@ themes:
   - "Appel à la conversion"
 pdf_url: "http://le-scribe.org/pdfiles/570808Vainqueur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 9"
+  - "Apocalypse 6:1-2"
+  - "Genèse 6:3"
+  - "Jean 11"
+  - "Matthieu 27:52-53"
+  - "Nombres 14:18"
+  - "Psaumes 24:8-10"
 ---
 **1.** Merci frère Sothmann. [Courte prière].
 

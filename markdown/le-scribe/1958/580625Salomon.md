@@ -38,6 +38,20 @@ themes:
   - "Jugement et miséricorde"
 pdf_url: "http://le-scribe.org/pdfiles/580625Salomon.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:29"
+  - "1 Rois 8:38-39"
+  - "2 Rois 2:24"
+  - "Actes 19:12"
+  - "Hébreux 11:6"
+  - "Jean 10:37-38"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Jean 5:39"
+  - "Jude 4"
+  - "Matthieu 12:42"
+  - "Nombres 20:11"
+  - "Romains 8:28"
 ---
 **IL Y A ICI PLUS QUE SALOMON**
 

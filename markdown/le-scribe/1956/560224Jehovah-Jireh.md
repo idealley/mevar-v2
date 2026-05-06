@@ -37,6 +37,19 @@ themes:
   - "Adoption"
 pdf_url: "http://le-scribe.org/pdfiles/560224Jehovah-Jireh.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "2 Corinthiens 5:1"
+  - "2 Corinthiens 5:18"
+  - "Genèse 22:7"
+  - "Genèse 25:1-2"
+  - "Jean 13:3"
+  - "Jean 6:54"
+  - "Joël 2:28"
+  - "Luc 9:24"
+  - "Luc 9:35"
+  - "Éphésiens 4:30"
+  - "Ésaïe 53:5"
 ---
 *Résumé de : "Jéhovah Jireh" (24 février soir 1956)*
 

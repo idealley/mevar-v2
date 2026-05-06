@@ -44,6 +44,27 @@ themes:
   - "la persévérance dans la foi"
 pdf_url: "http://le-scribe.org/pdfiles/510727Eglise-vivante.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "2 Rois 18:4"
+  - "Actes 19:13-17"
+  - "Actes 9:40"
+  - "Hébreux 11:6"
+  - "Hébreux 13:8"
+  - "Hébreux 3:1"
+  - "Jacques 2:26"
+  - "Jean 14:10"
+  - "Jean 14:12,16"
+  - "Jean 14:19"
+  - "Jean 14:19-20"
+  - "Jean 5:1-9"
+  - "Jean 5:19-20"
+  - "Luc 12:8"
+  - "Luc 14:26"
+  - "Luc 8:51"
+  - "Marc 16:15-18"
+  - "Marc 7:33"
+  - "Psaumes 103:3"
 ---
 **UNE SEULE VERITABLE EGLISE VIVANTE**
 *ONLY ONE TRUE LIVING CHURCH*

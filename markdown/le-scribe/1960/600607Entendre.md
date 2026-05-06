@@ -47,6 +47,28 @@ themes:
   - "Discernement"
 pdf_url: "http://le-scribe.org/pdfiles/600607Entendre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "2 Timothée 3:12"
+  - "Actes 27"
+  - "Actes 2:17"
+  - "Actes 2:38-39"
+  - "Jacques 1:2-3"
+  - "Jean 14:17,19"
+  - "Jean 5:19"
+  - "Jean 6:37"
+  - "Job 1:8"
+  - "Luc 21:25"
+  - "Marc 11:24"
+  - "Matthieu 10:25"
+  - "Matthieu 16:15-16"
+  - "Matthieu 16:17-18"
+  - "Matthieu 18:20"
+  - "Matthieu 3:10"
+  - "Matthieu 3:9"
+  - "Psaumes 81:16"
+  - "Romains 9:10-13"
+  - "Éphésiens 4:30"
 ---
 Résumé de “Entendre, accepter, et agir” (le 7 juin 1960)
 

@@ -45,6 +45,18 @@ themes:
   - "Filiation divine"
 pdf_url: "http://le-scribe.org/pdfiles/570309Jehovah.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 22:14"
+  - "Genèse 37:28"
+  - "Hébreux 11:1"
+  - "Hébreux 11:19"
+  - "Jean 10:35"
+  - "Job 13:15"
+  - "Job 14:7-9"
+  - "Luc 14:34"
+  - "Matthieu 18:20"
+  - "Nombres 12:6"
+  - "Romains 4:20"
 ---
 **1 à 2-** [Prière]. J’avais oublié qu’il y aurait une ligne de prière ce soir, et je vais donc changer le sujet de ma prédication. Nous avons eu une excellente communion ce matin. Nos livres sont encore en vente ce soir, car nous ne vendons rien le dimanche. Ils ne nous rapportent rien, nous les achetons à Mr. Lindsay. Le but est de répandre le message. Cette campagne se terminera demain soir.
 

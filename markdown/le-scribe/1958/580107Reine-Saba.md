@@ -38,6 +38,20 @@ themes:
   - "humilité de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/580107Reine-Saba.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 10:1-10"
+  - "Apocalypse 3:17"
+  - "Hébreux 13:8"
+  - "Hébreux 1:1-2"
+  - "Jacques 5:17"
+  - "Jean 10:37-38"
+  - "Jean 5:19"
+  - "Jean 6:44"
+  - "Jean 8:44"
+  - "Luc 19:42"
+  - "Marc 3:29"
+  - "Matthieu 12:42"
+  - "Romains 9:16"
 ---
 *Résumé de : “La reine de Saba” (7 janvier 1958, soir)*
 

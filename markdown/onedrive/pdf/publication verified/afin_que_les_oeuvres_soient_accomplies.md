@@ -48,6 +48,10 @@ mevar_match:
   title: "Afin que les œuvres de Dieu soient accomplies"
   similarity: 0.67
 llm_cleaned: true
+bible_refs:
+  - "Jean 11"
+  - "Luc 1"
+  - "Malachie 4"
 ---
 # Afin que les œuvres de Dieu soient accomplies
 

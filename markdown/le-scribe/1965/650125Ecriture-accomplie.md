@@ -33,6 +33,13 @@ themes:
   - "Signes de la fin des temps"
 pdf_url: "http://le-scribe.org/pdfiles/650125Ecriture-accomplie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 16:20-21"
+  - "Jean 17:21"
+  - "Luc 17:28,30"
+  - "Luc 17:30"
+  - "Luc 4:16-21"
+  - "Ésaïe 61:1-2"
 ---
 Résumé de : “Aujourd'hui cette Ecriture est accomplie” (25 Janvier 1965, soir)
 

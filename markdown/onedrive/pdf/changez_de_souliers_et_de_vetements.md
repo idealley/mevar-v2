@@ -42,6 +42,26 @@ themes:
   - "Sanctification"
   - "Obéissance au Saint-Esprit"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:2-3"
+  - "Colossiens 3:12"
+  - "Exode 17:9"
+  - "Exode 24:13"
+  - "Exode 2:11-12"
+  - "Exode 32:17-18"
+  - "Exode 33"
+  - "Exode 3:4-6"
+  - "Josué 5:15"
+  - "Philippiens 2:13"
+  - "Romains 13:14"
+  - "Zacharie 3:3-5"
+  - "Zacharie 3:7"
+  - "Éphésiens 4"
+  - "Éphésiens 4:12"
+  - "Ésaïe 1:1"
+  - "Ésaïe 27:2-5"
+  - "Ésaïe 42:6-7"
+  - "Ésaïe 5:1-6"
 ---
 ## Changez de souliers et de vêtements
 

@@ -32,6 +32,19 @@ themes:
   - "puissance de l'Évangile"
 pdf_url: "http://le-scribe.org/pdfiles/570421Conquerant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55"
+  - "Apocalypse 1:17"
+  - "Apocalypse 1:18"
+  - "Jean 11:25,40"
+  - "Jean 1:19"
+  - "Jean 3:16"
+  - "Matthieu 28:7"
+  - "Psaumes 51:7"
+  - "Romains 1:16"
+  - "Romains 3:12"
+  - "Romains 8:37"
+  - "Ésaïe 35:8"
 ---
 *Résumé de!: “Le grand et puissant Conquérant” (21 avril 1957, matin)*
 

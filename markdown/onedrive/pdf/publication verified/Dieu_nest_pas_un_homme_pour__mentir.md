@@ -79,6 +79,9 @@ mevar_match:
   title: "Dieu n'est pas un homme pour mentir"
   similarity: 0.6
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 9"
+  - "Matthieu 22"
 ---
 ## Dieu n'est pas un homme pour mentir
 

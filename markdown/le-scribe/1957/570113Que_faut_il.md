@@ -45,6 +45,12 @@ themes:
   - "Amour et paix"
 pdf_url: "http://le-scribe.org/pdfiles/570113Que_faut_il.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 10:18"
+  - "Luc 5:37"
+  - "Matthieu 7:22-23"
+  - "Psaumes 103:3"
+  - "Ézéchiel 1:16"
 ---
 **1.** J'avais promis au frère Joseph de venir aujourd'hui, et j'ai dû rouler tôt sous la neige, après avoir inauguré une église hier soir. Je viens d'apprendre que je dois être à Minneapolis du 10 au 17 février, et je ne pourrai pas rencontrer la veuve de Jack Coe comme prévu. Je n'ai pas de station radio ou télé, et je peux donc aller vers les petites églises. Oral Roberts ne peut pas le faire. Pour ces ministères célèbres, une assemblée de 1500 membres est trop petite, pour pouvoir couvrir leurs charges financières.
 

@@ -42,6 +42,17 @@ themes:
   - "Retour à la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/570306Dieu-garde-A.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "2 Timothée 3:8"
+  - "Esther 7"
+  - "Galates 1:8"
+  - "Jean 14:35"
+  - "Jean 17:17"
+  - "Jean 5:24"
+  - "Matthieu 24:26"
+  - "Matthieu 24:26-27"
+  - "Matthieu 7:222-3"
 ---
 Résumé de : “ Dieu est fidèle à sa Parole - 1” (6.03.1957)
 

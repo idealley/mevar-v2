@@ -39,6 +39,15 @@ themes:
   - "présence du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/560428Alliance.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:12"
+  - "Genèse 22:14"
+  - "Hébreux 3:1"
+  - "Jean 11:21"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Luc 8:51"
+  - "Marc 8:23"
 ---
 **1.** [Prière]. Le Seigneur voulant, j'espère revenir avec une grande tente [allusion à la vision de la Tente de décembre 1955], et ainsi rester plus longtemps. A la réunion des Hommes d'Affaires du Plein Evangile, j'ai eu le plaisir de revoir les frères Arganbright, Gardner, Lee Braxton.
 

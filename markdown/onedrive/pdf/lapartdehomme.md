@@ -42,6 +42,10 @@ themes:
   - "Paresse spirituelle"
   - "Veiller et prier"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 16"
+  - "Apocalypse 19"
+  - "Luc 17"
 ---
 ## La part de l'homme dans le plan de Dieu
 

@@ -46,6 +46,24 @@ themes:
   - "prédestination"
 pdf_url: "http://le-scribe.org/pdfiles/621216Ecroulement.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Apocalypse 17"
+  - "Galates 5:1"
+  - "Hébreux 12:25"
+  - "Hébreux 12:28"
+  - "Hébreux 13:8"
+  - "Jean 17:16"
+  - "Jean 18:36"
+  - "Jean 8:44"
+  - "Jean 8:46"
+  - "Luc 7:36-50"
+  - "Marc 7:13"
+  - "Michée 1:2-4"
+  - "Romains 8:29-30"
+  - "Éphésiens 2:6"
+  - "Éphésiens 4:11"
+  - "Ésaïe 40:8"
 ---
 **Résumé de!: “L’écroulement du monde” (16 Décembre1962, matin)**
 

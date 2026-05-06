@@ -47,6 +47,27 @@ themes:
   - "Faux prophètes"
   - "Maturité chrétienne"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:6-7"
+  - "1 Pierre 4:12-13"
+  - "Deutéronome 13:1-3"
+  - "Exode 15:22-26"
+  - "Genèse 22"
+  - "Genèse 22:1-3"
+  - "Jacques 1:13"
+  - "Jacques 1:19-20"
+  - "Jacques 1:2-4"
+  - "Jérémie 23:25"
+  - "Jérémie 27:15"
+  - "Jérémie 27:16"
+  - "Nombres 14"
+  - "Nombres 14:22-24"
+  - "Nombres 20"
+  - "Nombres 20:7-12"
+  - "Psaumes 139"
+  - "Psaumes 139:23-24"
+  - "Psaumes 26"
+  - "Psaumes 26:2"
 ---
 ## L'ULTIME EPREUVE
 

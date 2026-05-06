@@ -43,6 +43,11 @@ mevar_match:
   title: "Le fruit de la repentance"
   similarity: 0.595
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 6"
+  - "Luc 17"
+  - "Matthieu 24"
+  - "Matthieu 25"
 ---
 Le fruit de la repentance
 

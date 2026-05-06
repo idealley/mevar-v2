@@ -31,6 +31,14 @@ themes:
   - "unité des croyants"
 pdf_url: "http://le-scribe.org/pdfiles/580611Soif-de-Vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 19"
+  - "Apocalypse 4:2"
+  - "Esdras 9:8"
+  - "Psaumes 42:2"
+  - "Psaumes 63"
+  - "Ésaïe 28:8"
+  - "Ézéchiel 9:4"
 ---
 **1.** [Prière]. Mes associés Mr. Mercier et Mr. Goad s'occupent des enregistrements et les vendent au tiers d'un prix normal. Nous le faisons pour aider les gens, et non pour vendre Jésus-Christ. Quant au livre "Un homme envoyé de Dieu", nous l'achetons au frère Lindsay et les revendons à prix réduit. Ce matin au restaurant un pasteur m'a dit que j'avais prié pour sa fille qui souffrait de crises d'épilepsie, et que depuis lors elle n'avait plus eu de crise. J'avais envoyé un mouchoir à un de ses voisins dont deux valvules cardiaques étaient obturées, et il va bien.
 

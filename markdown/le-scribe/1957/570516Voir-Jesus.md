@@ -47,6 +47,18 @@ themes:
   - "L'unité du Corps de Christ"
 pdf_url: "http://le-scribe.org/pdfiles/570516Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 17:30"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 12:20-21"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 15:1-5"
+  - "Jean 3:18"
+  - "Jean 4"
+  - "Éphésiens 4:8"
+  - "Ésaïe 28:8"
 ---
 Résumé de : “Nous voudrions voir Jésus ” (16.05.1957)
 

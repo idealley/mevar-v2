@@ -43,6 +43,26 @@ themes:
   - "Nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/640409Christ-identifie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:19"
+  - "2 Timothée 3:5"
+  - "Deutéronome 18:15"
+  - "Deutéronome 18:21-22"
+  - "Genèse 41:43"
+  - "Hébreux 13:1"
+  - "Hébreux 1:1-2"
+  - "Hébreux 4:12"
+  - "Hébreux 4:15"
+  - "Jean 14:12"
+  - "Jean 15:5"
+  - "Jean 1:1,14"
+  - "Jean 5:39"
+  - "Jean 5:46"
+  - "Luc 17"
+  - "Luc 2:48"
+  - "Malachie 4"
+  - "Marc 7:9,13"
+  - "Nombres 12:6"
 ---
 *Le Christ de tous les âges identifié*
 *9 avril 1964, jeudi soir, Birmingham (Alabama)*

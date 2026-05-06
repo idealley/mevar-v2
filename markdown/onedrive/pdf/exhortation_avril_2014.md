@@ -37,6 +37,9 @@ mevar_match:
   title: "Le Soldat Urie"
   similarity: 0.69
 llm_cleaned: true
+bible_refs:
+  - "2 Samuel 11:1-26"
+  - "2 Thessaloniciens 2"
 ---
 *Exhortation d'Avril 2014*
 

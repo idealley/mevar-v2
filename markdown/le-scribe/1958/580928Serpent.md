@@ -45,6 +45,29 @@ themes:
   - "jugement final"
 pdf_url: "http://le-scribe.org/pdfiles/580928Serpent.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 2:5"
+  - "2 Timothée 3:5"
+  - "Actes 2:38"
+  - "Actes 2:39"
+  - "Apocalypse 17"
+  - "Genèse 3:1-7"
+  - "Genèse 3:15"
+  - "Genèse 6:2"
+  - "Genèse 6:4"
+  - "Hébreux 13:8"
+  - "Hébreux 7:9"
+  - "Jacques 4:8"
+  - "Jean 5:24"
+  - "Jean 6:65,47,10"
+  - "Jean 8:44"
+  - "Job 38:7"
+  - "Nombres 24:9"
+  - "Psaumes 32:2"
+  - "Romains 8:28"
+  - "Romains 9:18"
+  - "Romains 9:20"
+  - "Zacharie 4:6"
 ---
 *“La semence du serpent” (28 septembre 1958, soir)*
 

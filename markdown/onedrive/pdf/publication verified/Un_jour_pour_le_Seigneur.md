@@ -52,6 +52,10 @@ mevar_match:
   title: "Un jour pour le Seigneur"
   similarity: 0.57
 llm_cleaned: true
+bible_refs:
+  - "Actes 8:39-40"
+  - "Luc 12:49"
+  - "Ésaïe 30:26"
 ---
 ## Un jour pour le Seigneur
 

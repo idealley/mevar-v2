@@ -52,6 +52,22 @@ themes:
   - "préparation de la seconde venue"
 pdf_url: "http://le-scribe.org/pdfiles/600210Temoignage.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "Actes 16:16-17"
+  - "Genèse 15:13"
+  - "Genèse 18:10"
+  - "Hébreux 13:8"
+  - "Jean 13:35"
+  - "Jean 16:28"
+  - "Jean 6:37,39"
+  - "Jean 6:44,10"
+  - "Jean 8:58"
+  - "Jérémie 1:5"
+  - "Luc 10:12"
+  - "Matthieu 5:18"
+  - "Romains 11:29"
+  - "Zacharie 14:7"
 ---
 **1.** C’est un privilège pour moi de me présenter devant tous ces pasteurs pour exposer l’espérance qui est en moi. Lors d’une précédente venue dans cette île, j’avais prêché devant les Hommes d’Affaires du Plein Evangile. J’ai toujours pensé qu’une campagne doit être placée sous les auspices d’une association pastorale, pour un emploi des dons de Dieu selon la norme biblique, en vue de l’unité et de la communion des croyants. Je crois que dans toutes les églises il y a des saints de Dieu, et que nous ne devrions pas être divisés. Le plan de Dieu est que nous soyons un. “A ceci tous connaîtront que vous êtes mes disciples, si vous avez de l'amour les uns pour les autres.” [Jean 13:35].
 

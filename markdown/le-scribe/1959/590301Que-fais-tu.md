@@ -34,6 +34,18 @@ themes:
   - "La communion avec Christ"
 pdf_url: "http://le-scribe.org/pdfiles/590301Que-fais-tu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:23-32"
+  - "1 Corinthiens 13:1-3"
+  - "1 Rois 19:4-7"
+  - "1 Rois 19:9-13"
+  - "1 Samuel 15:22"
+  - "1 Samuel 16:4-13"
+  - "2 Corinthiens 5:17"
+  - "2 Timothée 3:12"
+  - "Joël 1:4"
+  - "Joël 2:25"
+  - "Ézéchiel 9:4"
 ---
 **Résumé de!: “Que fais-tu ici ?” (1er mars 1959, soir)**
 

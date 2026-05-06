@@ -42,6 +42,18 @@ themes:
   - "prophétie de Joël"
 pdf_url: "http://le-scribe.org/pdfiles/570309Restaure.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 1:12"
+  - "Actes 20:29"
+  - "Apocalypse 12:11"
+  - "Genèse 45:5,50"
+  - "Jean 13:35"
+  - "Joël 1:4"
+  - "Joël 2:38"
+  - "Matthieu 18:20"
+  - "Philippiens 1:17"
+  - "Romains 8"
 ---
 *Je restaurerai* (9.03.1957)
 

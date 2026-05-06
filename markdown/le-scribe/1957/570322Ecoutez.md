@@ -40,6 +40,25 @@ themes:
   - "Appel à la sainteté personnelle"
 pdf_url: "http://le-scribe.org/pdfiles/570322Ecoutez.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "2 Pierre 1:18"
+  - "2 Timothée 4:4"
+  - "Apocalypse 13"
+  - "Hébreux 10:25"
+  - "Hébreux 13:8"
+  - "Jean 12:32"
+  - "Jean 14"
+  - "Jean 14:20"
+  - "Jean 17:17"
+  - "Jean 5:19"
+  - "Matthieu 17:1-5"
+  - "Matthieu 4:4"
+  - "Matthieu 5:13"
+  - "Matthieu 5:28"
+  - "Nombres 19:1-22"
+  - "Éphésiens 1:5"
+  - "Ézéchiel 9:4"
 ---
 **1.** [Prière, salutations]. Après le séisme ressenti aujourd'hui, ce serait bien de parler de la seconde venue de Christ, mais il y en aura d'autres, et cela nous rappelle que Jésus est vivant et que sa Parole est véridique.
 

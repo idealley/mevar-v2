@@ -37,6 +37,8 @@ themes:
   - "incrédulité"
 pdf_url: "http://le-scribe.org/pdfiles/550817Jehovah.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 22:14"
 ---
 **1.** Quand nous devenons vieux, Dieu ne nous oublie pas, et il nous aime. Nous n'avons pas à nous inquiéter. Nous reviendrons sur terre rajeunis. Il ne nous abandonnera jamais. Il est avec nous jusqu'à la fin du monde. Je regrette toujours de ne pas pouvoir rester plus longtemps dans un lieu ou je commence à avoir des amis. En attendant le jour où nous ne dirons plus “au revoir”, nous avons la Parole. Partout où il y a des chrétiens, ils s'aiment.
 

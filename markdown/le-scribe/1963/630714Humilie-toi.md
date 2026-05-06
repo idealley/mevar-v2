@@ -33,6 +33,12 @@ themes:
   - "Guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/630714Humilie-toi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13:3"
+  - "Apocalypse 22:11"
+  - "Jacques 5:13-15"
+  - "Marc 16"
+  - "Marc 16:15-20"
 ---
 *Humilie-toi*
 

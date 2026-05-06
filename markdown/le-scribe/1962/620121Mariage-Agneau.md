@@ -37,6 +37,15 @@ themes:
   - "Unité avec Christ"
 pdf_url: "http://le-scribe.org/pdfiles/620121Mariage-Agneau.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "2 Timothée 3:1-5"
+  - "Apocalypse 19:1"
+  - "Esther 2:15"
+  - "Hébreux 12:1"
+  - "Josué 1:3"
+  - "Lévitique 14:1-7"
+  - "Proverbes 18:10"
 ---
 **LES NOCES DE L'AGNEAU**
 *MARRIAGE OF THE LAMB*

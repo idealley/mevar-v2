@@ -44,6 +44,13 @@ themes:
   - "Le Saint-Esprit comme sceau"
 pdf_url: "http://le-scribe.org/pdfiles/561208Abraham.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19"
+  - "Genèse 12"
+  - "Hébreux 12:1-2"
+  - "Jean 5:24"
+  - "Psaumes 103:3"
+  - "Romains 4:17"
 ---
 Résumé de : “Abraham” (8 décembre 1956)
 __________________________________

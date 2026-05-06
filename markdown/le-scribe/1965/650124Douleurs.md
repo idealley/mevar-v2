@@ -40,6 +40,20 @@ themes:
   - "sortie du système dénominationnel"
 pdf_url: "http://le-scribe.org/pdfiles/650124Douleurs.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 5:7"
+  - "Actes 24:14"
+  - "Genèse 19:11"
+  - "Jean 16:20-21"
+  - "Jean 16:21"
+  - "Jean 17:21"
+  - "Luc 17:26"
+  - "Luc 17:28,30"
+  - "Luc 2:25-32"
+  - "Luc 2:36-38"
+  - "Malachie 3:1"
+  - "Malachie 4:5-6"
+  - "Ésaïe 52:11"
 ---
 **Résumé de : “Les douleurs de l'enfantement” (24 Janvier 1965, après-midi)**
 

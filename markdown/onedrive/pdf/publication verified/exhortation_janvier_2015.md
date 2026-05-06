@@ -42,6 +42,22 @@ mevar_match:
   title: "L' Heure cruciale - vous pleurerez et vous vous lamenterez"
   similarity: 0.595
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 3"
+  - "Galates 6:7-9"
+  - "Genèse 17:1"
+  - "Genèse 6:9"
+  - "Jean 16:20-23"
+  - "Job 1:1"
+  - "Luc 22:53"
+  - "Luc 23:26-31"
+  - "Matthieu 10"
+  - "Matthieu 10:35-36"
+  - "Matthieu 19:21"
+  - "Matthieu 27:52"
+  - "Matthieu 5:38-48"
+  - "Matthieu 5:48"
+  - "Michée 7:7-10"
 ---
 ## L'HEURE CRUCIALE - VOUS PLEUREREZ ET VOUS VOUS LAMENTEREZ
 

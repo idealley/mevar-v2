@@ -44,6 +44,17 @@ themes:
   - "La nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/551113Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 10:11"
+  - "Actes 12:7"
+  - "Actes 27:23"
+  - "Actes 2:22"
+  - "Hébreux 13:8"
+  - "Jean 15:7"
+  - "Jean 5:19"
+  - "Jude 3"
+  - "Marc 16"
+  - "Ésaïe 53:5"
 ---
 *Résumé de : “Jésus-Christ le même hier, aujourd'hui, et éternellement” (13 novembre 1955, après-midi)*
 

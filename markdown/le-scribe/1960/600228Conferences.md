@@ -40,6 +40,18 @@ themes:
   - "Jugement à venir"
 pdf_url: "http://le-scribe.org/pdfiles/600228Conferences.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:2-3"
+  - "Actes 2:38"
+  - "Actes 3:2"
+  - "Actes 4"
+  - "Actes 4:31"
+  - "Apocalypse 21:1"
+  - "Exode 3:5"
+  - "Hébreux 12:1"
+  - "Marc 11:23"
+  - "Ésaïe 1:18"
+  - "Ézéchiel 9:4"
 ---
 **1.** Merci, frère Williams … [Salutations] … j’ai été heureux, en revenant de Porto Rico, d’apprendre que la réunion suivante se tiendrait ici. J’ai toujours aimé revenir ici après avoir affronté la neige des montagnes, ou les déserts, au moment où les fleurs s’ouvrent. C’est un petit coin du Ciel. Je devais avoir 16 ou 17 ans lors de ma première venue à Phoenix. Je venais au centre-ville depuis Henshaw, c’était alors le désert, par une route gravillonnée.
 

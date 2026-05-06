@@ -49,6 +49,32 @@ themes:
   - "Persécution des croyants"
 pdf_url: "http://le-scribe.org/pdfiles/591216Qu-est-St-Esp.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:12-13"
+  - "1 Jean 2:1-2"
+  - "Actes 10:44"
+  - "Actes 19"
+  - "Actes 24:14"
+  - "Actes 2:1-3"
+  - "Actes 2:16-21"
+  - "Actes 3:4,5"
+  - "Actes 4:23"
+  - "Actes 4:27-28"
+  - "Actes 4:29-31"
+  - "Actes 7:1-8"
+  - "Actes 8:5-17"
+  - "Galates 3:16,28-29"
+  - "Hébreux 4:8,10"
+  - "Jean 14:10-14"
+  - "Jean 14:15-19"
+  - "Jean 16:7-11"
+  - "Joël 2:28-32"
+  - "Luc 17:28"
+  - "Luc 24:49"
+  - "Nombres 18:20,21,26"
+  - "Éphésiens 4:30"
+  - "Ésaïe 28:10-12"
+  - "Ésaïe 28:8-9"
 ---
 **Résumé de!: “Qu'est-ce que le Saint-Esprit ?” (16 décembre 1959, soir)**
 

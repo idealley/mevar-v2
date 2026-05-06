@@ -40,6 +40,14 @@ themes:
   - "espérance céleste"
 pdf_url: "http://le-scribe.org/pdfiles/5002xxHistoire-vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Deutéronome 5:16"
+  - "Hébreux 11:10"
+  - "Hébreux 11:13,1"
+  - "Hébreux 13:10-14"
+  - "Job 38:4,7"
+  - "Luc 16:23-24"
+  - "Éphésiens 6:2"
 ---
 **1.** Lisons Hébreux 13:10-14
     “Nous avons un autel dont ceux qui font le service au tabernacle n’ont pas le pouvoir de manger. –

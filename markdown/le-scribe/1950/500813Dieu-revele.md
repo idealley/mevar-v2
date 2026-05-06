@@ -37,6 +37,9 @@ themes:
   - "semence de la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/500813Dieu-revele.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 7"
+  - "Exode 3:1"
 ---
 **1.** Nous sommes réunis afin de prier pour les malades. Lisons Exode 3:1 à 2
     “Moïse faisait paître le troupeau de Jéthro, son beau-père, sacrificateur de Madian ; et il mena le

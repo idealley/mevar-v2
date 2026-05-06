@@ -34,6 +34,13 @@ themes:
   - "humilité du serviteur"
 pdf_url: "http://le-scribe.org/pdfiles/560408Visions.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 12:7"
+  - "Jean 14:12"
+  - "Jean 5:19"
+  - "Luc 8:46"
+  - "Éphésiens 4:11"
 ---
 *Résumé de : “Qu’est-ce qu’une vision ?” (8 avril 1956)*
 

@@ -39,6 +39,22 @@ themes:
   - "puissance du Saint-Esprit"
   - "sortie de Babylone"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 3:17"
+  - "2 Thessaloniciens 2:1-11"
+  - "Actes 12:1-12"
+  - "Actes 19"
+  - "Apocalypse 14:8"
+  - "Apocalypse 18:2-4"
+  - "Apocalypse 3:14"
+  - "Galates 5:1"
+  - "Joël 3:9-10"
+  - "Matthieu 15:1-9"
+  - "Néhémie 6"
+  - "Osée 1:2"
+  - "Osée 4:12"
+  - "Ésaïe 13:1-5"
+  - "Ésaïe 21:6-12"
 ---
 ## Appel à la guerre – Appel au combat contre Babylone
 

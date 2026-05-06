@@ -38,6 +38,24 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/590423Abraham_semence.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Chroniques 7:14"
+  - "Apocalypse 13:8"
+  - "Apocalypse 22:18-19"
+  - "Apocalypse 4:3"
+  - "Genèse 15:12"
+  - "Genèse 15:17"
+  - "Genèse 17"
+  - "Genèse 3:9"
+  - "Hébreux 11:6"
+  - "Hébreux 6:13-14"
+  - "Jean 14:20"
+  - "Jean 6:44"
+  - "Lévitique 27:26"
+  - "Matthieu 26:29"
+  - "Nombres 18:16-16"
+  - "Psaumes 103:3"
+  - "Romains 4:17"
 ---
 **LA SEMENCE D'ABRAHAM**
 *23 avril 1959, jeudi après-midi, San Jose (Californie). 65 minutes.*

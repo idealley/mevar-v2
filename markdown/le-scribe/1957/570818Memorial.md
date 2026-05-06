@@ -37,6 +37,19 @@ themes:
   - "Parole éternelle"
 pdf_url: "http://le-scribe.org/pdfiles/570818Memorial.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:7"
+  - "2 Corinthiens 12:10"
+  - "Deutéronome 18:15"
+  - "Exode 19:15"
+  - "Jean 5:24"
+  - "Jean 6:44"
+  - "Josué 1:11"
+  - "Josué 3:5"
+  - "Luc 9:62"
+  - "Marc 10:38"
+  - "Matthieu 24:35"
+  - "Matthieu 3:9"
 ---
 **1.** … Je suis revenu à la maison pour chasser l'écureuil à cette époque de l'année. J'ai besoin de me reposer. Depuis notre dernière réunion, je suis passé de 75 kg à 67 kg, et je flotte dans mes vêtements ! Une sœur désirait perdre autant de poids : je lui ai conseillé de prêcher ! Mais nous en aurons bientôt fini avec les épreuves.
 

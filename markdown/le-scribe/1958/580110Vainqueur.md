@@ -54,6 +54,9 @@ themes:
   - "Espérance de la résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/580110Vainqueur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 6:1"
+  - "Jean 5:19"
 ---
 **LE PUISSANT VAINQUEUR**
 *THE MIGHTY CONQUEROR*

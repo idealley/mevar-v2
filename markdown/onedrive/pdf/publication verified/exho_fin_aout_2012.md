@@ -40,6 +40,14 @@ mevar_match:
   title: "Une prophétie sur William Branham"
   similarity: 0.542
 llm_cleaned: true
+bible_refs:
+  - "Colossiens 3:6"
+  - "Job 22:28"
+  - "Luc 13:23-29"
+  - "Matthieu 7:13-14"
+  - "Proverbes 29:18"
+  - "Psaumes 119"
+  - "Psaumes 119:130"
 ---
 ## Une prophétie sur William Branham
 

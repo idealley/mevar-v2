@@ -45,6 +45,13 @@ mevar_match:
   title: "Présence démoniaque dans les mariages"
   similarity: 0.575
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 7"
+  - "1 Rois 3"
+  - "Genèse 2"
+  - "Genèse 34"
+  - "Matthieu 12:34"
+  - "Matthieu 3:7"
 ---
 Présence démoniaque dans les mariages, prêché le dimanche 07 Juin 2015 à Koumassi
 

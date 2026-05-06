@@ -48,6 +48,17 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/620128Paradoxe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 21:17-24"
+  - "1 Rois 22:17"
+  - "Exode 17:6"
+  - "Hébreux 11:3"
+  - "Jean 14:12"
+  - "Jean 14:19,17"
+  - "Jean 20:21"
+  - "Josué 10:12"
+  - "Marc 11:23"
+  - "Ésaïe 55:11"
 ---
 *Paradoxe*
 *28 janvier 1962, dimanche après-midi, Phœnix (Arizona)*

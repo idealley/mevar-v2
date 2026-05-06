@@ -34,6 +34,21 @@ themes:
   - "séparation du péché"
 pdf_url: "http://le-scribe.org/pdfiles/620506Possedant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:23-33"
+  - "1 Corinthiens 15:5"
+  - "2 Corinthiens 6:7"
+  - "2 Samuel 6:14"
+  - "Actes 13:22"
+  - "Actes 2:29"
+  - "Colossiens 3:3"
+  - "Exode 15:20"
+  - "Genèse 14:18"
+  - "Genèse 18:1-15"
+  - "Hébreux 7:2-3"
+  - "Jean 6:47"
+  - "Romains 8:28"
+  - "Éphésiens 2:6"
 ---
 *Possédant toutes choses* (6 mai 1962, soir)
 

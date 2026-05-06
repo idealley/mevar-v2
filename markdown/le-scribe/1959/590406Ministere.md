@@ -39,6 +39,12 @@ themes:
   - "souveraineté de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/590406Ministere.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Daniel 8:27"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Luc 8:43-50"
+  - "Marc 5:30"
 ---
 “Un nouveau ministère” (6 avril 1959)
 

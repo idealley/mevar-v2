@@ -46,6 +46,29 @@ themes:
   - "foi en la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/640320Dieu-identifie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:8"
+  - "2 Corinthiens 5:19"
+  - "2 Pierre 1:21"
+  - "Deutéronome 18:15"
+  - "Deutéronome 18:22"
+  - "Hébreux 11:10"
+  - "Hébreux 13:8"
+  - "Hébreux 1:1"
+  - "Hébreux 1:1-3"
+  - "Hébreux 4:12"
+  - "Jean 10:37"
+  - "Jean 10:37-38"
+  - "Jean 14:12"
+  - "Jean 6:32-35"
+  - "Jean 9:28,5"
+  - "Luc 17:28,30"
+  - "Luc 2:49"
+  - "Malachie 4"
+  - "Marc 8:18"
+  - "Nombres 12:6"
+  - "Romains 4:20-21"
+  - "Ésaïe 7:14"
 ---
 **1.** J’ai été surpris en voyant mon ami Joseph Boze ! Lisons Hébreux 1:1-3
     “Après avoir autrefois, à plusieurs reprises et de plusieurs manières, parlé à nos pères par les prophètes, - Dieu, dans ces derniers temps, nous a parlé par le Fils, qu'il a établi héritier de toutes choses, par lequel il a aussi créé le monde, - et qui, étant le reflet de sa gloire et l'empreinte de sa personne, et soutenant toutes choses par sa parole puissante, a fait la purification des péchés et s'est assis à la droite de la majesté divine dans les lieux très hauts”.

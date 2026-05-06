@@ -41,6 +41,22 @@ mevar_match:
   title: "Les jours du fils de l'homme"
   similarity: 0.625
 llm_cleaned: true
+bible_refs:
+  - "Actes 13"
+  - "Apocalypse 18"
+  - "Apocalypse 2"
+  - "Apocalypse 3"
+  - "Apocalypse 7"
+  - "Exode 19"
+  - "Genèse 37"
+  - "Luc 17"
+  - "Marc 13"
+  - "Marc 13:34-37"
+  - "Zacharie 10"
+  - "Zacharie 14"
+  - "Ésaïe 30"
+  - "Ésaïe 33"
+  - "Ésaïe 42"
 ---
 LES JOURS DU FILS DE L’HOMME
 

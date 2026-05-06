@@ -38,6 +38,24 @@ themes:
   - "Verdict divin"
   - "Restauration"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 6:4-10"
+  - "1 Jean 5:9"
+  - "Apocalypse 12"
+  - "Apocalypse 12:10"
+  - "Deutéronome 31:27-29"
+  - "Deutéronome 9:23-24"
+  - "Hébreux 3:7-12"
+  - "Hébreux 4:14"
+  - "Hébreux 4:2"
+  - "Joël 2:26-27"
+  - "Luc 4:12-13"
+  - "Matthieu 24:45-47"
+  - "Matthieu 25:6"
+  - "Nombres 14:27-29"
+  - "Nombres 17:1-5"
+  - "Nombres 17:7-10"
+  - "Ésaïe 41:17-20"
 ---
 ## LE TEMOIGNAGE DE DIEU
 

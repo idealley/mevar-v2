@@ -38,6 +38,18 @@ mevar_match:
   title: "La Solution à la Souffrance"
   similarity: 0.682
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 7:28"
+  - "1 Timothée 2:8"
+  - "2 Samuel 16:5-13"
+  - "Exode 20:2-6"
+  - "Jacques 4:8-10"
+  - "Jacques 5:13"
+  - "Job 17:9"
+  - "Psaumes 75"
+  - "Ésaïe 53"
+  - "Ésaïe 53:10"
+  - "Ésaïe 53:3"
 ---
 ## LA SOLUTION A LA SOUFFRANCE
 

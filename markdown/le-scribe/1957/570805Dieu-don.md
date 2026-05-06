@@ -42,6 +42,23 @@ themes:
   - "appel à la repentance"
 pdf_url: "http://le-scribe.org/pdfiles/570805Dieu-don.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:5"
+  - "Actes 3:4"
+  - "Actes 7:52"
+  - "Daniel 8:27"
+  - "Genèse 46:34"
+  - "Hébreux 11:37"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Luc 9:26"
+  - "Marc 8:38"
+  - "Matthieu 12:42"
+  - "Matthieu 12:8-9"
+  - "Matthieu 16:4"
+  - "Matthieu 23:29"
+  - "Nombres 20:7-12"
+  - "Romains 10:17"
 ---
 **1.** [Prière]. Lisons Matthieu 12:42
       “La reine du Midi se lèvera, au jour du jugement, avec cette génération et la condamnera, parce qu'elle vint des extrémités de la terre pour entendre la sagesse de Salomon, et voici, il y a ici plus que Salomon.”

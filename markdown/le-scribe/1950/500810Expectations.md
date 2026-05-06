@@ -44,6 +44,10 @@ themes:
   - "libération de la foi"
 pdf_url: "http://le-scribe.org/pdfiles/500810Expectations.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 8"
+  - "Luc 2:25-30"
+  - "Marc 11:24"
 ---
 **1 à 3**- Beaucoup ont été guéris mais ne le savent pas encore. Sous l'onction de l'Esprit, je sens cette sorte de tourbillon, je sens la foi de la personne qui tire quelque chose de moi, et je pourrais dire qui est guéri dans l'auditoire … [Enregistrement interrompu] … Un homme qui portait un corset depuis 30 ans m'a raconté que quelque chose était venu sur lui pendant la réunion, et, rentré chez lui, il s'était demandé ce que cela signifiait. Il s'est couché, et alors il a rêvé qu'il était à nouveau à la réunion, et il a vu le Seigneur montrer son corset. Il s'est réveillé, a ôté son corset, et il était guéri. Une femme souffrant de l'estomac était retournée chez elle sans avoir pu aller dans la ligne de prière, mais elle avait cru. Le lendemain, tandis qu'elle faisait la vaisselle, elle a senti du froid en elle, et s'est mise à pleurer. Elle est allé boire du lait sucré qu'elle vomissait habituellement. Elle s'est sentie bien, et est partie raconter cela à sa voisine. Cette dernière venait d'être guérie d'un problème gynécologique au même instant ! L'Ange de Dieu avait vu la foi de cette femme, et il confirmait sa Parole dans tout le voisinage.
 

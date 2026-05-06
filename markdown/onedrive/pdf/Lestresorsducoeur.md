@@ -33,6 +33,9 @@ themes:
   - "Tentation"
   - "Sanctification"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 12"
+  - "Luc 6:43-45"
 ---
 ## Les trésors du cœur
 

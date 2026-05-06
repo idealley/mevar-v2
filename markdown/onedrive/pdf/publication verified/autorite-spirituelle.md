@@ -45,6 +45,10 @@ mevar_match:
   title: "L’autorité spirituelle"
   similarity: 0.69
 llm_cleaned: true
+bible_refs:
+  - "Actes 4"
+  - "Jean 19"
+  - "Matthieu 18"
 ---
 ## L'autorité spirituelle
 

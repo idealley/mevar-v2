@@ -36,6 +36,20 @@ themes:
   - "Alliance éternelle"
 pdf_url: "http://le-scribe.org/pdfiles/570922Hebreux-7B.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 3:24"
+  - "Actes 19"
+  - "Actes 2:38"
+  - "Actes 9"
+  - "Genèse 15:8"
+  - "Hébreux 10:26"
+  - "Hébreux 6:4"
+  - "Hébreux 7:15"
+  - "Hébreux 7:18"
+  - "Jean 6:44"
+  - "Proverbes 14:12"
+  - "Romains 9:13"
+  - "Ésaïe 53:5"
 ---
 *Résumé de!: “Hébreux, chapitre 7, deuxième partie” (22 septembre 1957, soir)*
 

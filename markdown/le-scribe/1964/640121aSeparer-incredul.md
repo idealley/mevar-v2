@@ -53,6 +53,29 @@ themes:
   - "Présence de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/640121aSeparer-incredul.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 4:19"
+  - "Genèse 13:5-15"
+  - "Genèse 18:1-15"
+  - "Genèse 1:3"
+  - "Genèse 1:9-10"
+  - "Hébreux 13:8"
+  - "Hébreux 7:26"
+  - "Jean 14:12"
+  - "Jean 1:14"
+  - "Jean 5:17"
+  - "Jean 5:19"
+  - "Jean 5:39"
+  - "Jean 8:46"
+  - "Luc 17:28"
+  - "Luc 2:48"
+  - "Luc 7:6-7"
+  - "Luc 8:43-48"
+  - "Luc 8:46"
+  - "Marc 16:17"
+  - "Nombres 6"
+  - "Romains 3:4"
+  - "Ésaïe 9:5"
 ---
 **Résumé de!: “La Parole de Dieu demande une séparation totale d’avec l'incrédulité”**
 *(21 Janvier 1964, matin)*

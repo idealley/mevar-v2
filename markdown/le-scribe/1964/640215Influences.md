@@ -41,6 +41,19 @@ themes:
   - "Influence chrétienne"
 pdf_url: "http://le-scribe.org/pdfiles/640215Influences.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Chroniques 26:1"
+  - "2 Chroniques 26:19"
+  - "2 Corinthiens 3:3-4"
+  - "Actes 2:38"
+  - "Hébreux 12:1"
+  - "Jean 1:27"
+  - "Jean 9"
+  - "Luc 5:4-11"
+  - "Marc 16"
+  - "Marc 16:19"
+  - "Psaumes 16:8"
+  - "Ésaïe 6:1-8"
 ---
 **INFLUENCES**
 

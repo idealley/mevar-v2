@@ -36,6 +36,25 @@ themes:
   - "Foi et grâce"
 pdf_url: "http://le-scribe.org/pdfiles/560621Loi-ombre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 6:12"
+  - "Amos 8:11"
+  - "Genèse 2:7"
+  - "Hébreux 10"
+  - "Hébreux 10:1"
+  - "Hébreux 10:10"
+  - "Hébreux 10:2"
+  - "Hébreux 11"
+  - "Hébreux 6:4-6"
+  - "Jean 10:39"
+  - "Jean 3:18"
+  - "Jean 5:24"
+  - "Jean 6:44"
+  - "Matthieu 28:20"
+  - "Matthieu 5:48"
+  - "Psaumes 23"
+  - "Romains 4:17"
+  - "Romains 8:1"
 ---
 **Résumé de : “La Loi était l'ombre des choses” (21 juin 1956)**
 

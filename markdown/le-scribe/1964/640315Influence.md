@@ -48,6 +48,24 @@ themes:
   - "obéissance à la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/640315Influence.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 19:9-13"
+  - "1 Timothée 2:5"
+  - "2 Chroniques 26:1"
+  - "2 Corinthiens 3:3"
+  - "2 Timothée 3:5"
+  - "Actes 2:22"
+  - "Apocalypse 18:4"
+  - "Jean 14:12"
+  - "Jean 15:5"
+  - "Jean 3:18"
+  - "Jean 5:1-16"
+  - "Jean 5:19"
+  - "Luc 5:1-11"
+  - "Luc 7:1-10"
+  - "Psaumes 16:8"
+  - "Psaumes 51:7"
+  - "Ésaïe 6:1-8"
 ---
 **Résumé de : “Influence” (15 mars 1964, après-midi)**
 

@@ -48,6 +48,24 @@ themes:
   - "La foi qui touche Christ"
 pdf_url: "http://le-scribe.org/pdfiles/580515Jesus-le-meme%20.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 2:5"
+  - "Colossiens 2:9"
+  - "Hébreux 11:26"
+  - "Hébreux 13:8"
+  - "Hébreux 3:1"
+  - "Hébreux 4:15"
+  - "Jean 12:20"
+  - "Jean 13:35"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 14:19,20"
+  - "Jean 15:5"
+  - "Jean 5:19"
+  - "Jean 6:44"
+  - "Jean 8:58"
+  - "Luc 17:28,30"
+  - "Ésaïe 53:5"
 ---
 *Jésus-Christ est le même hier, aujourd'hui et éternellement*
 *15 mai 1958, jeudi soir, Fairfield (Maine)*

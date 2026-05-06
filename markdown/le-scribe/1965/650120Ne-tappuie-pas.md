@@ -46,6 +46,29 @@ themes:
   - "La venue du Fils de l'homme"
 pdf_url: "http://le-scribe.org/pdfiles/650120Ne-tappuie-pas.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "1 Samuel 17"
+  - "2 Timothée 3:5"
+  - "Actes 2:17"
+  - "Apocalypse 17:5"
+  - "Apocalypse 3:17-18"
+  - "Jean 10:4"
+  - "Jean 10:5"
+  - "Jean 4"
+  - "Jean 5:36,10"
+  - "Jean 5:39"
+  - "Jean 6:44"
+  - "Jean 9"
+  - "Josué 10:12"
+  - "Josué 6"
+  - "Joël 2:28"
+  - "Juges 15:15"
+  - "Luc 17:26"
+  - "Luc 17:28,30"
+  - "Luc 1:38"
+  - "Nombres 13"
+  - "Proverbes 3:1-6"
 ---
 **Résumé de : “Ne t'appuie pas sur ton intelligence” (20 Janvier 1965, soir)**
 

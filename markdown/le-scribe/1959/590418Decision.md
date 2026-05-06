@@ -48,6 +48,26 @@ themes:
   - "temps du soir"
 pdf_url: "http://le-scribe.org/pdfiles/590418Decision.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 4:17"
+  - "Actes 19:12"
+  - "Actes 19:13-16"
+  - "Actes 2:1-4"
+  - "Actes 3:2"
+  - "Deutéronome 18:15,19"
+  - "Genèse 15:2"
+  - "Genèse 24:3"
+  - "Genèse 24:48"
+  - "Genèse 24:63"
+  - "Hébreux 11"
+  - "Jean 14:12"
+  - "Jean 5:19"
+  - "Matthieu 10:6"
+  - "Matthieu 24:56"
+  - "Psaumes 37:5"
+  - "Romains 3:4"
+  - "Éphésiens 5:18"
+  - "Ésaïe 35:8"
 ---
 **1.** [Prière] …
 

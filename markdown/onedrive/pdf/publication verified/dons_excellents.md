@@ -39,6 +39,12 @@ mevar_match:
   title: "Les dons excellents"
   similarity: 0.51
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2"
+  - "1 Jean 2:15-16"
+  - "2 Pierre 1:5-11"
+  - "Philippiens 4:11-12"
+  - "Proverbes 14"
 ---
 Les dons excellents, prêché le 24 Novembre 2013 à Koumassi par le frère M’BRA Parfait
 

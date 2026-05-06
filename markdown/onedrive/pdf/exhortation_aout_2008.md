@@ -33,6 +33,15 @@ themes:
   - "jugement"
   - "repentance"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:1-6"
+  - "Apocalypse 3:14-22"
+  - "Luc 17:25-36"
+  - "Luc 21"
+  - "Luc 21:34-36"
+  - "Marc 13"
+  - "Matthieu 24"
+  - "Matthieu 24:4-12"
 ---
 ## Prenez garde à vous-mêmes
 

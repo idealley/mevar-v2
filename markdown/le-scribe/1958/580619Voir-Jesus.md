@@ -44,6 +44,21 @@ themes:
   - "La colonne de feu comme manifestation de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/580619Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 12:7"
+  - "Actes 9:5"
+  - "Hébreux 13:8"
+  - "Jean 1"
+  - "Jean 10:37-38"
+  - "Jean 12:20"
+  - "Jean 14:10"
+  - "Jean 14:19"
+  - "Jean 16:28"
+  - "Jean 5:19"
+  - "Jean 8:58"
+  - "Néhémie 1"
+  - "Zacharie 13:7"
+  - "Ésaïe 53:5"
 ---
 **Pouvons-nous voir Jésus ?**
 

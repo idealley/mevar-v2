@@ -37,6 +37,15 @@ themes:
   - "Prédestination"
 pdf_url: "http://le-scribe.org/pdfiles/621209Memoire.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:23-25"
+  - "Exode 17:6"
+  - "Genèse 16:13"
+  - "Genèse 21:14-19"
+  - "Jean 3:16"
+  - "Psaumes 42:2"
+  - "Romains 8:29-30"
+  - "Ésaïe 49:15"
 ---
 **1.** Il y a un instant j’ai été appelé à prier pour un malade, or il faut aller le plus vite possible auprès d’un malade. Les démarches pour le nouveau tabernacle sont enfin terminées. Ma fille Becky [Rebekah] veut abandonner le piano, mais je crois que sa sœur Sarah a un don musical. Personnellement, j’aime les cantiques joués à la trompette.
 

@@ -34,6 +34,22 @@ themes:
   - "Discipline et consécration du serviteur"
   - "Combats spirituels"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 4"
+  - "1 Timothée 6:12-13"
+  - "2 Corinthiens 12:1-2"
+  - "Actes 10:3-5"
+  - "Actes 10:9-10"
+  - "Actes 12:5"
+  - "Actes 12:7-12"
+  - "Actes 16:26-27"
+  - "Actes 16:9-10"
+  - "Apocalypse 14"
+  - "Apocalypse 14:6"
+  - "Apocalypse 22"
+  - "Daniel 10:10-11"
+  - "Daniel 10:13"
+  - "Luc 22"
 ---
 ## LES ANGES DE LA PREDICATION ET DE LA PRIERE
 

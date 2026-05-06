@@ -46,6 +46,15 @@ themes:
   - "Discernement spirituel"
 pdf_url: "http://le-scribe.org/pdfiles/570125Ecoutez.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 1"
+  - "Apocalypse 4:3"
+  - "Galates 1:8"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Jean 6:44"
+  - "Matthieu 17:1"
+  - "Romains 3:4"
 ---
 **1.** Bonsoir. En pensant aujourd’hui au ministère qui m’a été donné, je me demandais pourquoi il n’est pas compris en Amérique. A cause des enseignements dénominationnels et de l’opposition de certaines églises, les gens ne savent pas que faire. J’ai parlé plus de 2 heures au petit déjeuner pastoral ce matin, et nous avons eu un bon moment de communion. Pourquoi les gens en Amérique ne saisissent-ils pas aussi vite qu’outremer ? Malgré les réunions sur réunions, seule une minorité comprend.
 

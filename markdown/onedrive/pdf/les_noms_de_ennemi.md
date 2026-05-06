@@ -36,6 +36,15 @@ themes:
   - "soumission"
   - "armure de Dieu"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Jean 10"
+  - "Jean 7:43"
+  - "Jean 9:16-17"
+  - "Luc 12:51"
+  - "Matthieu 10:35"
 ---
 Les noms de l’ennemi, prêché le dimanche 11 Mars 2012 par le frère M’BRA Parfait à Koumassi, Abidjan
 

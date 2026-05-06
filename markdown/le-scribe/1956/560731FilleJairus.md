@@ -48,6 +48,13 @@ themes:
   - "signe du Messie"
 pdf_url: "http://le-scribe.org/pdfiles/560731FilleJairus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38-39"
+  - "Apocalypse 22:11"
+  - "Hébreux 13:8"
+  - "Jean 5:19"
+  - "Luc 8:48"
+  - "Ésaïe 53:5"
 ---
 **1.** Je prierai pour les malades selon le don que le Seigneur m'a fait, et la prédication sera aussi courte que possible. Je veux garder le plus d'énergie possible car l'onction du Saint-Esprit m'épuise. Nous sommes indignes de toutes ces grâces. L'aimez-vous ? J'étais fatigué hier soir en arrivant, à cause de cette chaleur. Vous y êtes habitués, alors que dans le nord nous aimons le froid : j'ai prêché devant des Indiens attentifs, enveloppés d'une simple couverture dans l'air glacial. Mais les gens du Sud sont les plus aimables qui soient.
 

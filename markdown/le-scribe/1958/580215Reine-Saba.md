@@ -39,6 +39,18 @@ themes:
   - "jugement dernier"
 pdf_url: "http://le-scribe.org/pdfiles/580215Reine-Saba.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 10:1-10"
+  - "Hébreux 4:15"
+  - "Jean 14:10,5"
+  - "Jean 14:19,17,12"
+  - "Jean 4:29"
+  - "Jean 6:44"
+  - "Luc 9:26"
+  - "Marc 5:30"
+  - "Matthieu 12:42"
+  - "Romains 10:17"
+  - "Romains 8:30"
 ---
 Résumé de : “La reine de Saba” (15 février 1958, soir)
 

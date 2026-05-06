@@ -46,6 +46,17 @@ themes:
   - "foi"
 pdf_url: "http://le-scribe.org/pdfiles/640726Citernes.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Exode 17:6"
+  - "Genèse 21:19"
+  - "Jean 14:26"
+  - "Jean 16:14"
+  - "Jean 4:13"
+  - "Jean 7:37-38"
+  - "Jérémie 2:12-13"
+  - "Jérémie 2:13"
+  - "Psaumes 36:10"
+  - "Zacharie 13:1"
 ---
 **Résumé de!: “Des citernes crevassées” (26 juillet 1964 soir)**
 

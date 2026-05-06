@@ -42,6 +42,9 @@ themes:
   - "grâce"
 pdf_url: "http://le-scribe.org/pdfiles/550807Orgueil.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Luc 7:36"
+  - "Psaumes 2:12"
 ---
 *Résumé de : "L'orgueil" (7 août 1955, après-midi)*
 

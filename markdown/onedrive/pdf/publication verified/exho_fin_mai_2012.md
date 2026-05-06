@@ -44,6 +44,26 @@ mevar_match:
   title: "La parabole du pain"
   similarity: 0.697
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 3:14-15"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 17:1"
+  - "Apocalypse 17:15"
+  - "Apocalypse 1:20"
+  - "Apocalypse 2"
+  - "Apocalypse 3:12"
+  - "Ecclésiaste 11:1-6"
+  - "Galates 2:9"
+  - "Hébreux 3:6"
+  - "Jean 12:24"
+  - "Jean 6:31-35"
+  - "Jean 6:48"
+  - "Jean 6:50-51"
+  - "Matthieu 25"
+  - "Michée 3"
+  - "Michée 5"
+  - "Michée 5:1-5"
+  - "Proverbes 9:1-4"
 ---
 ## LA PARABOLE DU PAIN
 

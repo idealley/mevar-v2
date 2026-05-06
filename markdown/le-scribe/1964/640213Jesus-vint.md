@@ -42,6 +42,19 @@ themes:
   - "La manifestation de Dieu dans la chair"
 pdf_url: "http://le-scribe.org/pdfiles/640213Jesus-vint.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 4:8-37"
+  - "Jean 10:35"
+  - "Jean 11:15"
+  - "Jean 11:18"
+  - "Jean 11:40"
+  - "Jean 13:3"
+  - "Jean 14:19-20,16"
+  - "Jean 5:19"
+  - "Job 19:25"
+  - "Luc 8:42"
+  - "Marc 10:47"
+  - "Marc 9:23"
 ---
 **Résumé de!: “Alors Jésus vint et appela” (13 février 1964, soir)**
 

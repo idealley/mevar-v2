@@ -37,6 +37,14 @@ themes:
   - "Persévérance dans la foi"
 pdf_url: "http://le-scribe.org/pdfiles/560415Profondeur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 2:5"
+  - "Actes 19"
+  - "Apocalypse 4:3"
+  - "Jean 5:19"
+  - "Luc 2:25-31"
+  - "Psaumes 42:7"
+  - "Ésaïe 53:4-6"
 ---
 **Résumé de : "La profondeur appelle la profondeur" (15 avril 1956)**
 

@@ -49,6 +49,10 @@ mevar_match:
   title: "L’Eglise comme Obed-Edom"
   similarity: 0.584
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 11"
+  - "Hébreux 5"
+  - "Ésaïe 53"
 ---
 ## L’Eglise comme Obed-Edom
 

@@ -36,6 +36,17 @@ mevar_match:
   title: "Je lui ferai une aide semblable"
   similarity: 0.534
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:4,1"
+  - "1 Corinthiens 7"
+  - "1 Pierre 3"
+  - "Actes 21"
+  - "Ecclésiaste 7"
+  - "Genèse 2"
+  - "Joël 2:28"
+  - "Matthieu 19"
+  - "Romains 12"
+  - "Éphésiens 5"
 ---
 JE LUI FERAI UNE AIDE SEMBLABLE…
 

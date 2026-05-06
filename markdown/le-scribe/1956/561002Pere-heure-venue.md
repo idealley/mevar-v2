@@ -36,6 +36,17 @@ themes:
   - "La séparation d'avec le péché"
 pdf_url: "http://le-scribe.org/pdfiles/561002Pere-heure-venue.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Chroniques 18:22-27"
+  - "2 Samuel 5:24"
+  - "Hébreux 11:4"
+  - "Jean 17:1"
+  - "Jude 12"
+  - "Luc 24:49"
+  - "Marc 16"
+  - "Marc 8:18"
+  - "Matthieu 5:28"
+  - "Ésaïe 40"
 ---
 **Père, l'heure est venue**
 

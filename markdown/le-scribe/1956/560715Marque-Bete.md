@@ -45,6 +45,18 @@ themes:
   - "nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/560715Marque-Bete.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Jean 3:4"
+  - "Apocalypse 13:11"
+  - "Apocalypse 14:6"
+  - "Apocalypse 7"
+  - "Hébreux 10:1"
+  - "Luc 4:18-19"
+  - "Lévitique 21"
+  - "Zacharie 14:7"
+  - "Ésaïe 5"
+  - "Ésaïe 61"
 ---
 Résumé de : “La marque de la Bête” (15 juillet 1956)
 

@@ -33,6 +33,17 @@ themes:
   - "Préparation de l'Épouse"
   - "Conflit entre ancienne et nouvelle onction"
 llm_cleaned: true
+bible_refs:
+  - "Exode 29"
+  - "Jean 2"
+  - "Luc 14:28-30"
+  - "Luc 4"
+  - "Luc 5"
+  - "Luc 5:37"
+  - "Marc 16"
+  - "Matthieu 10"
+  - "Matthieu 25"
+  - "Romains 10"
 ---
 ## Le vieux vin et le vin nouveau dans le Message du temps de la fin
 

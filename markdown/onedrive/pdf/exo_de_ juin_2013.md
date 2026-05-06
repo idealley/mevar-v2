@@ -34,6 +34,24 @@ themes:
   - "Intégrité"
   - "Revêtement de puissance"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:17"
+  - "Galates 5:1"
+  - "Galates 6:15"
+  - "Jacques 2:12-13"
+  - "Jacques 5:11"
+  - "Job 1:6-9"
+  - "Job 27:5-6"
+  - "Job 38:2"
+  - "Job 42:10"
+  - "Job 42:12-17"
+  - "Job 42:5"
+  - "Luc 24:49"
+  - "Luc 4:14"
+  - "Malachie 9"
+  - "Matthieu 24:14"
+  - "Romains 13:14"
+  - "Ésaïe 42"
 ---
 ## LE TEMPS DE LA RESTITUTION
 

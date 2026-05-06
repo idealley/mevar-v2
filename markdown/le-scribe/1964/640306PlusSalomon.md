@@ -44,6 +44,30 @@ themes:
   - "jugement"
 pdf_url: "http://le-scribe.org/pdfiles/640306PlusSalomon.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 10"
+  - "1 Rois 10:3"
+  - "1 Samuel 28:6"
+  - "Actes 2:38-39"
+  - "Deutéronome 18:15,19"
+  - "Esdras 2:63"
+  - "Exode 19"
+  - "Exode 28:30"
+  - "Genèse 32:24-32"
+  - "Jean 14:11"
+  - "Jean 14:20,15"
+  - "Jean 15:6"
+  - "Jean 1:11"
+  - "Jean 6:37"
+  - "Jean 6:37,44"
+  - "Jean 6:53-55"
+  - "Jean 6:61-62"
+  - "Jean 6:68"
+  - "Luc 8:43-48"
+  - "Matthieu 12:38-42"
+  - "Nombres 16:21"
+  - "Philippiens 3:13-14"
+  - "Romains 9:16"
 ---
 **Résumé de!: “Il y a maintenant ici plus que Salomon” (6 mars 1964, soir)**
 

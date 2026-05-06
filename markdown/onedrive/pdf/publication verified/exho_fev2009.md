@@ -36,6 +36,18 @@ mevar_match:
   title: "Le jeune homme riche"
   similarity: 0.72
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 3:17"
+  - "Jean 3:16"
+  - "Luc 14:25-27"
+  - "Luc 18:18-23"
+  - "Marc 10:17-22"
+  - "Matthieu 11:11"
+  - "Matthieu 16:24-25"
+  - "Matthieu 19:16-22"
+  - "Matthieu 24:12"
+  - "Matthieu 25:6"
+  - "Philippiens 2:5-8"
 ---
 *Exhortation de Février 2009*
 

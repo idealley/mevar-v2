@@ -42,6 +42,29 @@ themes:
   - "discernement"
 pdf_url: "http://le-scribe.org/pdfiles/600807Langues.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 12:10"
+  - "1 Corinthiens 12:29-30"
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 14:13,27-28,39"
+  - "1 Corinthiens 14:5,11,28"
+  - "1 Timothée 2:5"
+  - "Actes 10:44"
+  - "Actes 10:47"
+  - "Actes 10:49"
+  - "Actes 19:5"
+  - "Actes 2"
+  - "Actes 2:38"
+  - "Actes 2:4"
+  - "Actes 2:7"
+  - "Actes 2:8"
+  - "Actes 2:9-10"
+  - "Actes 4:31"
+  - "Actes 8:17"
+  - "Actes 8:26-39"
+  - "Apocalypse 22:19"
+  - "Galates 1:8"
 ---
 *Débat sur le parler en langues*
 *7 août 1960, dimanche matin, Yakima (Washington)*

@@ -43,6 +43,22 @@ themes:
   - "appel à la repentance"
 pdf_url: "http://le-scribe.org/pdfiles/630113bPerseverance.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 17"
+  - "2 Timothée 3:8"
+  - "Actes 2:38-39"
+  - "Exode 2:11-15"
+  - "Exode 7:11"
+  - "Genèse 6:3"
+  - "Hébreux 11:1"
+  - "Jean 1:29"
+  - "Jean 20:29"
+  - "Josué 2:10"
+  - "Juges 15:15"
+  - "Luc 18:1-8"
+  - "Matthieu 15:21-28"
+  - "Romains 10:17"
+  - "Romains 4:20-21"
 ---
 *Persévérance* (13 Janvier 1963, après-midi)
 

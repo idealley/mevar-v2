@@ -38,6 +38,19 @@ themes:
   - "Retour de Jésus"
 pdf_url: "http://le-scribe.org/pdfiles/580520Signe-temps.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 4:21"
+  - "2 Corinthiens 6:17,18"
+  - "Apocalypse 3:17"
+  - "Daniel 5:25"
+  - "Jean 10:18"
+  - "Jean 14:12"
+  - "Jean 16:16"
+  - "Luc 17:26"
+  - "Luc 21:25,26"
+  - "Luc 4:5-9"
+  - "Proverbes 30:8"
+  - "Zacharie 14:7"
 ---
 *Le signe du temps* (20 mai 1958, soir)
 

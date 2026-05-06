@@ -42,6 +42,9 @@ themes:
   - "traverser le Jourdain"
 pdf_url: "http://le-scribe.org/pdfiles/561125Tunique.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 2:12"
+  - "Marc 11:24"
 ---
 **UNE TUNIQUE DE SECONDE MAIN**
 

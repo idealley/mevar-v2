@@ -32,6 +32,11 @@ themes:
   - "Jugement"
   - "Réveil"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 19"
+  - "Deutéronome 28"
+  - "Matthieu 22"
+  - "Ésaïe 53"
 ---
 ## Le figuier stérile
 

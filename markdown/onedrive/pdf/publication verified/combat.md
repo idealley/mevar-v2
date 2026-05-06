@@ -51,6 +51,12 @@ mevar_match:
   title: "Combat contre le péché"
   similarity: 0.67
 llm_cleaned: true
+bible_refs:
+  - "Genèse 18"
+  - "Genèse 19"
+  - "Juges 19"
+  - "Juges 20:14-48"
+  - "Luc 17:28-37"
 ---
 Combat contre le péché, prêché à Lagos, Mankoko, le 21 Janvier 2007 par le frère M'BRA
 

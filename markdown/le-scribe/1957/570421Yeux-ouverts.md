@@ -42,6 +42,23 @@ themes:
   - "blasphème contre le Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/570421Yeux-ouverts.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:1"
+  - "2 Corinthiens 5:17"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
+  - "Jean 14:19,17"
+  - "Jean 1:48"
+  - "Jean 20:17"
+  - "Jean 3:7"
+  - "Jean 4:18"
+  - "Jean 4:26"
+  - "Jean 5:19"
+  - "Jude 4"
+  - "Luc 24:13"
+  - "Luc 24:30,31"
+  - "Psaumes 34:8"
+  - "Éphésiens 4:11"
 ---
 Résumé de!: “Quand leurs yeux s'ouvrirent ils le reconnurent” (21 avril 1957, soir)
 

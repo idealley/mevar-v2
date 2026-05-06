@@ -43,6 +43,15 @@ themes:
   - "Restitution"
   - "Cri de Minuit"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17:5-6"
+  - "Apocalypse 2:20"
+  - "Apocalypse 3"
+  - "Genèse 12"
+  - "Genèse 26:1-5"
+  - "Luc 4:1-2"
+  - "Matthieu 25"
+  - "Ruth 1"
 ---
 ## MEDITONS LA PROPHETIE DE JOEL
 

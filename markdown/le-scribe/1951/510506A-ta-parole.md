@@ -37,6 +37,10 @@ themes:
   - "derniers jours"
 pdf_url: "http://le-scribe.org/pdfiles/510506A-ta-parole.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 10:18"
+  - "Jean 14:12"
+  - "Jean 4:46-54"
 ---
 **SUR TA PAROLE**
 *AT THY WORD*

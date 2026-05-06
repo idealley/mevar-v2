@@ -55,6 +55,26 @@ themes:
   - "Communion avec Christ"
 pdf_url: "http://le-scribe.org/pdfiles/650221bMelchisedec.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 3:9"
+  - "1 Samuel 28"
+  - "1 Timothée 3:16"
+  - "1 Timothée 6:15-16"
+  - "2 Corinthiens 5:1"
+  - "2 Corinthiens 5:17"
+  - "2 Rois 5:3"
+  - "Apocalypse 10:1-7"
+  - "Apocalypse 13:8"
+  - "Deutéronome 18:15"
+  - "Exode 33:23"
+  - "Hébreux 7:1-3"
+  - "Jean 5:36"
+  - "Jean 6:37,39"
+  - "Luc 17:28,30"
+  - "Marc 5:30"
+  - "Marc 9:23"
+  - "Romains 8:1"
+  - "Romains 9:16"
 ---
 **1.** Nous remercions Dieu pour la révélation qu'il a donnée de lui-même en ces derniers jours. Je n'ai même pas le temps de prier pour les bébés, alors que David, mon petit-fils [fils de Billy Paul], devait être consacré aujourd'hui. Ma belle-fille Loyce était stérile, mais le Seigneur lui a dit qu'elle aurait un fils, et, neuf mois plus tard, Paul est né. Deux mois avant la naissance de Paul, j'ai eu une vision de Billy Paul donnant à manger à Paul, et de Loyce nourrissant un bébé dans une couverture bleue. Onze mois plus tard, David naissait.
 

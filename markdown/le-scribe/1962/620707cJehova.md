@@ -46,6 +46,28 @@ themes:
   - "Préparation pour l'Enlèvement"
 pdf_url: "http://le-scribe.org/pdfiles/620707cJehova.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17:5"
+  - "Genèse 15:1-21"
+  - "Genèse 15:13"
+  - "Genèse 19:26"
+  - "Genèse 22:14"
+  - "Genèse 22:8"
+  - "Genèse 25:1"
+  - "Genèse 2:5-6"
+  - "Hébreux 11:19"
+  - "Hébreux 12:1"
+  - "Hébreux 12:8"
+  - "Hébreux 13:8"
+  - "Jean 14:20"
+  - "Jean 15:7"
+  - "Jean 5:19"
+  - "Luc 4:18-19"
+  - "Luc 8:43-48"
+  - "Nombres 13"
+  - "Proverbes 12:4"
+  - "Romains 10:17"
+  - "Ésaïe 61"
 ---
 **Résumé de!: “Jehova-Jiré . Troisième partie” (7 juillet 1962, soir)**
 

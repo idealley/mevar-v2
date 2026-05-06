@@ -39,6 +39,20 @@ themes:
   - "Enlèvement"
 pdf_url: "http://le-scribe.org/pdfiles/620128Incredulite.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:19"
+  - "2 Timothée 4:8"
+  - "Apocalypse 3:20"
+  - "Jean 14:10"
+  - "Jean 14:13"
+  - "Jean 16:16"
+  - "Jean 8:12"
+  - "Josué 10:12"
+  - "Joël 2:28"
+  - "Luc 12"
+  - "Romains 10:17"
+  - "Romains 3:3"
+  - "Ésaïe 28:8"
 ---
 **Résumé de!: “L'incrédulité n'arrête pas Dieu” [28 janvier 1962]**
 

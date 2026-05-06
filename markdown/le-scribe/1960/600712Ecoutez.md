@@ -36,6 +36,25 @@ themes:
   - "Écouter Jésus seul"
 pdf_url: "http://le-scribe.org/pdfiles/600712Ecoutez.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 4:17"
+  - "Galates 4:5"
+  - "Jean 14:13"
+  - "Jean 14:14"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Jean 6:68"
+  - "Marc 11:23"
+  - "Matthieu 11:23"
+  - "Matthieu 16:13"
+  - "Matthieu 16:22-23"
+  - "Matthieu 17"
+  - "Matthieu 17:2"
+  - "Matthieu 3:9"
+  - "Matthieu 5:13"
+  - "Matthieu 6:26"
+  - "Romains 8:19"
+  - "Éphésiens 4:8"
 ---
 **Résumé de : "Ecoutez-le" (le 12 juillet 1960)**
 

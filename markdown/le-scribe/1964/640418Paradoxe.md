@@ -44,6 +44,22 @@ themes:
   - "Résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/640418Paradoxe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 2:4"
+  - "2 Corinthiens 5:19"
+  - "2 Timothée 3:8"
+  - "Actes 4:13"
+  - "Colossiens 2:9"
+  - "Deutéronome 11:24"
+  - "Hébreux 11:3"
+  - "Jean 10:30"
+  - "Jean 12:24"
+  - "Josué 10:12"
+  - "Josué 1:3"
+  - "Marc 11:23"
+  - "Marc 16"
+  - "Ézéchiel 9:4"
 ---
 **Résumé de!: “Paradoxe” (18 avril 1964, matin)**
 

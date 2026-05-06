@@ -54,6 +54,27 @@ themes:
   - "Fidélité conjugale"
   - "Conséquences de l'insoumission"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 3"
+  - "1 Pierre 3"
+  - "1 Pierre 4"
+  - "1 Samuel 1"
+  - "1 Timothée 3"
+  - "1 Timothée 5"
+  - "2 Samuel 6"
+  - "2 Timothée 2"
+  - "Actes 1"
+  - "Actes 23"
+  - "Actes 26"
+  - "Esther 1"
+  - "Exode 34"
+  - "Matthieu 6"
+  - "Nombres 12"
+  - "Proverbes 10"
+  - "Proverbes 19"
+  - "Romains 13"
 ---
 ## Le silence de la femme
 

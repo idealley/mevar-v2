@@ -43,6 +43,18 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/510413oeuvres.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 6:7"
+  - "2 Rois 20:6"
+  - "2 Rois 3"
+  - "Jacques 2:17"
+  - "Jean 10:22"
+  - "Jean 13:35,1"
+  - "Jean 4:20"
+  - "Jean 4:46"
+  - "Marc 9:38"
+  - "Nombres 20:11"
+  - "Psaumes 42:2"
 ---
 **LES ŒUVRES QUE JE FAIS RENDENT TÉMOIGNAGE DE MOI**
 *WORKS THAT I DO BEAR WITNESS OF ME*

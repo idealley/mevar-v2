@@ -38,6 +38,24 @@ themes:
   - "Guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/630803bInfluence.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 4:18"
+  - "2 Chroniques 26"
+  - "2 Corinthiens 3:2-3"
+  - "Apocalypse 14:13"
+  - "Colossiens 3:3"
+  - "Daniel 4:30"
+  - "Hébreux 9:27"
+  - "Jean 14:12"
+  - "Jean 9"
+  - "Luc 5:8"
+  - "Marc 12:40"
+  - "Marc 5:30"
+  - "Psaumes 139:1-5"
+  - "Psaumes 16:8"
+  - "Psaumes 23:4"
+  - "Psaumes 34:8"
+  - "Ésaïe 6:1-8"
 ---
 *Résumé de!: “Influence” (3 Août 1963, soir)*
 

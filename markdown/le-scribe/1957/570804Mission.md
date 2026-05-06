@@ -40,6 +40,24 @@ themes:
   - "retour de Jésus"
 pdf_url: "http://le-scribe.org/pdfiles/570804Mission.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 10:5"
+  - "Actes 2:41"
+  - "Apocalypse 3:18"
+  - "Daniel 6:8"
+  - "Esther 10"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 3:18"
+  - "Jean 5:14"
+  - "Jean 5:24"
+  - "Marc 16:14"
+  - "Matthieu 24:14"
+  - "Matthieu 24:35"
+  - "Psaumes 103:3"
+  - "Psaumes 98:4"
+  - "Zacharie 14:7"
+  - "Ésaïe 53:5"
 ---
 Résumé de : “Le grand ordre de mission” (4.08.1957)
 

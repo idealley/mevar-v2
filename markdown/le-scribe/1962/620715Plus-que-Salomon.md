@@ -46,6 +46,19 @@ themes:
   - "présence du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/620715Plus-que-Salomon.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 8:48"
+  - "Deutéronome 23:25"
+  - "Jean 10:37"
+  - "Jean 10:37-38"
+  - "Jean 20:29"
+  - "Jean 4:19"
+  - "Jean 4:26"
+  - "Jean 6:37"
+  - "Luc 17:28-30"
+  - "Marc 7:9,13"
+  - "Matthieu 12:38"
+  - "Ésaïe 9:6"
 ---
 Résumé de!: “Voici, il y a ici un plus grand que tout autre” (15 juillet 1962, après-midi)
 

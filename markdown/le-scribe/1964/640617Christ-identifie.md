@@ -43,6 +43,25 @@ themes:
   - "Foi"
 pdf_url: "http://le-scribe.org/pdfiles/640617Christ-identifie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 22"
+  - "Apocalypse 3:21"
+  - "Deutéronome 18:15"
+  - "Hébreux 13:8"
+  - "Hébreux 1:1-2"
+  - "Hébreux 4:12"
+  - "Hébreux 4:15"
+  - "Jean 10:32"
+  - "Jean 10:35"
+  - "Jean 1:12"
+  - "Jean 1:49"
+  - "Jean 5:39"
+  - "Jean 8:58"
+  - "Luc 17:28-30"
+  - "Luc 2:48"
+  - "Malachie 3"
+  - "Malachie 3:6"
+  - "Zacharie 14:7"
 ---
 Résumé de : “Le Christ identifié en tous les âges” (17 juin 1964, soir)
 

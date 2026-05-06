@@ -42,6 +42,19 @@ themes:
   - "discernement"
 pdf_url: "http://le-scribe.org/pdfiles/590813Pourquoi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55"
+  - "2 Timothée 4:7-8"
+  - "Actes 2:37"
+  - "Actes 2:39"
+  - "Daniel 10:13"
+  - "Exode 15:26"
+  - "Hébreux 4:15"
+  - "Jacques 5:15"
+  - "Jean 14:17"
+  - "Jérémie 8:22"
+  - "Marc 11:24"
+  - "Marc 5:6"
 ---
 “Pourquoi ?” (13 août 1959)
 

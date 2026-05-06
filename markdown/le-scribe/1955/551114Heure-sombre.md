@@ -38,6 +38,10 @@ themes:
   - "Guérison de Georgie Carter"
 pdf_url: "http://le-scribe.org/pdfiles/551114Heure-sombre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 11:21"
+  - "Jean 11:28"
+  - "Ésaïe 53:5"
 ---
 **Résumé de : “Jésus vient à l'heure la plus sombre” (14 novembre 1955, soir)**
 

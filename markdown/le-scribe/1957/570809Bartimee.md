@@ -44,6 +44,12 @@ themes:
   - "vie éternelle"
 pdf_url: "http://le-scribe.org/pdfiles/570809Bartimee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 5:24"
+  - "Jean 5:24,6"
+  - "Luc 18:42"
+  - "Matthieu 10:42"
+  - "Romains 8:35"
 ---
 Résumé de : “L’aveugle Bartimée” (9.08.1957)
 

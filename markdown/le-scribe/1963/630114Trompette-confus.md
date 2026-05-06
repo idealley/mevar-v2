@@ -45,6 +45,32 @@ themes:
   - "Foi et obéissance"
 pdf_url: "http://le-scribe.org/pdfiles/630114Trompette-confus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:8"
+  - "Actes 2:38"
+  - "Actes 2:39"
+  - "Hébreux 13:8"
+  - "Jacques 5:15"
+  - "Jean 10:28"
+  - "Jean 10:4"
+  - "Jean 11:25"
+  - "Jean 14:12"
+  - "Jean 5:24"
+  - "Jean 6:37"
+  - "Jean 6:44"
+  - "Jean 8:58"
+  - "Job 19:25"
+  - "Josué 1:3"
+  - "Josué 1:7"
+  - "Joël 2:28-30"
+  - "Luc 24:19"
+  - "Luc 2:26"
+  - "Marc 16:15,17"
+  - "Marc 16:17-18"
+  - "Psaumes 103:3"
+  - "Psaumes 42:2"
+  - "Romains 4:20"
+  - "Ésaïe 28:10-12"
 ---
 **Résumé de!: “Une trompette rend un son confus” (14 Janvier 1963)**
 

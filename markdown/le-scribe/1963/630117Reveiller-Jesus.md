@@ -50,6 +50,32 @@ themes:
   - "réveil"
 pdf_url: "http://le-scribe.org/pdfiles/630117Reveiller-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:7"
+  - "Actes 2:38-39"
+  - "Colossiens 2:9"
+  - "Daniel 4:17"
+  - "Deutéronome 18:18-19"
+  - "Exode 14:10"
+  - "Exode 15:24"
+  - "Habacuc 4:15"
+  - "Hébreux 13:8"
+  - "Jean 10:37"
+  - "Jean 14:12"
+  - "Jean 14:20,17"
+  - "Jean 1:42"
+  - "Jean 4"
+  - "Jean 5:39"
+  - "Jean 6:48"
+  - "Jean 6:51"
+  - "Jean 6:54"
+  - "Jean 7:46"
+  - "Jean 8:46"
+  - "Jean 8:58"
+  - "Jérémie 28:1-4"
+  - "Matthieu 8:23-27"
+  - "Nombres 12:6"
+  - "Zacharie 14:7"
 ---
 **Résumé de!: “Réveiller Jésus” (17 Janvier 1963)**
 

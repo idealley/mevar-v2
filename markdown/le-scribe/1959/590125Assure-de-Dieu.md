@@ -36,6 +36,22 @@ themes:
   - "sacrifice"
 pdf_url: "http://le-scribe.org/pdfiles/590125Assure-de-Dieu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 17:1-16"
+  - "1 Rois 22"
+  - "Actes 2:38"
+  - "Daniel 3:17-18"
+  - "Hébreux 13:8"
+  - "Jacques 5:14-16"
+  - "Jean 10:4"
+  - "Jean 4:24"
+  - "Job 2:10,1"
+  - "Job 2:9"
+  - "Luc 4:25"
+  - "Marc 16:17-18"
+  - "Psaumes 42:2"
+  - "Ésaïe 1:18"
+  - "Ésaïe 40:31"
 ---
 *Résumé de!: “Comptez sur Dieu” (25 janvier 1959, matin)*
 

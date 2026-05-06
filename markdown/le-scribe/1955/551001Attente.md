@@ -37,6 +37,11 @@ themes:
   - "combat spirituel"
 pdf_url: "http://le-scribe.org/pdfiles/551001Attente.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 5:19"
+  - "Luc 2:25"
+  - "Matthieu 4:4"
+  - "Nombres 24:17"
 ---
 Résumé de : “Dans l'attente ” (1er octobre 1955, soir)
 

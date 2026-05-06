@@ -39,6 +39,14 @@ themes:
   - "le Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/551007Decision.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:7"
+  - "2 Rois 3:15"
+  - "Actes 2:38-39"
+  - "Hébreux 12:1"
+  - "Jean 3:16"
+  - "Nombres 13:30"
+  - "Ésaïe 53:5"
 ---
 **LE POUVOIR DE DECISION-**
 *THE POWER OF DECISION*

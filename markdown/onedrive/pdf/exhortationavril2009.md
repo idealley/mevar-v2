@@ -30,6 +30,10 @@ themes:
   - "Enlèvement"
   - "Témoignage final"
 llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 4:1"
+  - "Matthieu 24:14"
+  - "Matthieu 25"
 ---
 ## PROGRESSEZ ENCORE !
 

@@ -50,6 +50,27 @@ mevar_match:
   title: "Un message de la fin des temps pour une foi de la fin des temps"
   similarity: 0.665
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 2"
+  - "1 Corinthiens 2:15-16"
+  - "1 Timothée 4:7-8"
+  - "2 Pierre 1"
+  - "Jean 10:15-16"
+  - "Joël 1:1-2"
+  - "Jérémie 1:2"
+  - "Luc 18:8"
+  - "Matthieu 15:21-28"
+  - "Matthieu 15:28"
+  - "Matthieu 21"
+  - "Matthieu 21:40-46"
+  - "Matthieu 8:10"
+  - "Matthieu 8:11-12"
+  - "Osée 1:1"
+  - "Romains 10"
+  - "Romains 10:14-15"
+  - "Romains 10:16-17"
+  - "Éphésiens 5:27"
 ---
 ## Exhortation Mi-Août 2016
 

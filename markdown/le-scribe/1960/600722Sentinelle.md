@@ -38,6 +38,20 @@ themes:
   - "Préparation pour la venue du Christ"
 pdf_url: "http://le-scribe.org/pdfiles/600722Sentinelle.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:12"
+  - "Actes 20:28"
+  - "Jean 13:3,16"
+  - "Jean 14:12"
+  - "Jean 14:17"
+  - "Jean 5:19"
+  - "Jean 8:32"
+  - "Jean 8:58"
+  - "Luc 17:28"
+  - "Marc 16:18"
+  - "Matthieu 24:37-39"
+  - "Ésaïe 21:11-12"
+  - "Ésaïe 53:5"
 ---
 **1.** J’ai craint d’être en retard à cause d’une urgence à l’hôpital. Combien de malades ont senti une nette amélioration de leur état après l’exercice de ce nouveau ministère hier soir ? … C’est bien. Je crois que l’homme qui s’est levé de sa chaise roulante hier est présent dans l’auditoire … le voilà ! … Gloire au Seigneur ! Cela montre ce qu’une petite foi peut faire.
 

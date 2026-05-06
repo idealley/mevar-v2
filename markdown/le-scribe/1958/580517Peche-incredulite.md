@@ -37,6 +37,17 @@ themes:
   - "guérison par la foi"
 pdf_url: "http://le-scribe.org/pdfiles/580517Peche-incredulite.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 13:8"
+  - "Jean 15:5"
+  - "Jean 15:7"
+  - "Jean 5:19"
+  - "Jean 5:39"
+  - "Jean 8:58"
+  - "Marc 3:29"
+  - "Matthieu 12:42"
+  - "Romains 4:21"
+  - "Ésaïe 53:5"
 ---
 *Le péché d’incrédulité* (17 mai 1958, soir)
 

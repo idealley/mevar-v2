@@ -49,6 +49,17 @@ themes:
   - "Combat spirituel"
   - "Influence des esprits"
 llm_cleaned: true
+bible_refs:
+  - "Daniel 10"
+  - "Deutéronome 29"
+  - "Exode 20"
+  - "Genèse 17"
+  - "Genèse 19:33-37"
+  - "Genèse 49"
+  - "Jean 14:14-16"
+  - "Jean 3"
+  - "Jean 3:14"
+  - "Juges 6:25"
 ---
 *Les héritages démoniaques, prêché le 1er Juin 2019 par le frère M'BRA Parfait*
 

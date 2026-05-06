@@ -40,6 +40,10 @@ themes:
   - "élection"
   - "perfection"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12"
+  - "Apocalypse 17:14"
+  - "Luc 21"
 ---
 Le fruit utile, prêché à Koumassi le dimanche 26 Juin 2011, par le frère M'BRA Parfait
 

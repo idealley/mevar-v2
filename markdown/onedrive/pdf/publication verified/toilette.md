@@ -47,6 +47,15 @@ mevar_match:
   title: "La toilette du chrétien"
   similarity: 0.52
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 17"
+  - "2 Corinthiens 11:2"
+  - "2 Thessaloniciens 5:23"
+  - "Apocalypse 3:14"
+  - "Hébreux 10:10"
+  - "Jean 5:35"
+  - "Lévitique 10:1-3"
+  - "Zacharie 10:1"
 ---
 ## La toilette du chrétien
 

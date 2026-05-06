@@ -44,6 +44,27 @@ themes:
   - "Nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/620718Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:18"
+  - "Amos 3:7"
+  - "Deutéronome 18:15"
+  - "Genèse 18"
+  - "Hébreux 11:26"
+  - "Hébreux 13:8"
+  - "Hébreux 1:1-2"
+  - "Hébreux 4:12"
+  - "Hébreux 4:15"
+  - "Jean 12:20-21"
+  - "Jean 14:10,5"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 5:39,10"
+  - "Jean 8:44"
+  - "Luc 17:28,30"
+  - "Marc 5:30"
+  - "Marc 7:9,13"
+  - "Romains 4:21"
+  - "Ésaïe 59:19"
 ---
 **1.** Nous sommes étrangers au monde, et notre héritage est là-haut, mais j'ai connu de beaux moments ici, il y a deux ans environ. Je suis un peu fatigué car c'est ma 9e réunion d'affilée, et cinq réunions sont encore prévues. Nous sommes là non seulement pour nous rencontrer, mais surtout pour faire quelque chose pour le Royaume. Les laïcs ont l'occasion de prendre part au ministère. Chacun peut prêcher et faire venir les pécheurs. Nous semons la semence de Dieu, et nous prions pour une pluie du Saint-Esprit durant ces réunions. Notre but est d'abord de sauver des âmes, puis de fortifier l'Église, puis de prier pour les malades et d'alléger les fardeaux. Lors des deux dernières réunions, presque toutes les personnes sur des chaises roulantes ont été délivrées. Il y a eu de nombreux sauvés. Merci de m'avoir invité. Chaque église a son filet, et je suis venu joindre le mien aux vôtres. Merci à l'officier qui nous a permis d'utiliser cette salle.
 

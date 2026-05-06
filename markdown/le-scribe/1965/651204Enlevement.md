@@ -45,6 +45,33 @@ themes:
   - "séparation du blé et de l'ivraie"
 pdf_url: "http://le-scribe.org/pdfiles/651204Enlevement.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 12:3"
+  - "1 Corinthiens 14:29"
+  - "1 Jean 3:12"
+  - "1 Thessaloniciens 4"
+  - "2 Pierre 3:3-6"
+  - "2 Timothée 3:1-6"
+  - "2 Timothée 3:8"
+  - "Amos 3:7"
+  - "Apocalypse 10:7"
+  - "Apocalypse 11:11-12"
+  - "Apocalypse 3:17-20"
+  - "Deutéronome 16:1-6"
+  - "Esther 13"
+  - "Exode 7:11"
+  - "Jean 10:37"
+  - "Jean 11:38-44"
+  - "Jean 5:36"
+  - "Jude 14"
+  - "Luc 17:28,30"
+  - "Malachie 4:5"
+  - "Psaumes 24:9-10"
+  - "Psaumes 27:1-5"
+  - "Zacharie 14:7"
+  - "Éphésiens 4:8"
+  - "Ésaïe 7:14"
 ---
 *L'Enlèvement*
 

@@ -49,6 +49,19 @@ themes:
   - "Accomplissement des prophéties"
   - "Amour de l'avènement du Seigneur"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:33"
+  - "1 Jean 2:18"
+  - "2 Timothée 4:7-8"
+  - "Apocalypse 20:1-2"
+  - "Exode 8:22"
+  - "Exode 9:26"
+  - "Genèse 1:26-28"
+  - "Genèse 47:27"
+  - "Genèse 47:4"
+  - "Luc 17"
+  - "Proverbes 30:11-14"
+  - "Romains 16:20"
 ---
 ## LA PARABOLE DES DEUX FILS
 

@@ -37,6 +37,26 @@ themes:
   - "résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/570323Dieu-dans-Parole.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55"
+  - "1 Jean 3:9"
+  - "2 Corinthiens 5:19"
+  - "Actes 2:38-39"
+  - "Actes 5:15"
+  - "Apocalypse 12:11"
+  - "Apocalypse 4:3"
+  - "Jean 10:18"
+  - "Jean 14:19-20"
+  - "Jean 14:20"
+  - "Jean 14:8"
+  - "Jean 1:1,14"
+  - "Jean 20:21"
+  - "Jean 5:19"
+  - "Job 19:25-26"
+  - "Job 1:21"
+  - "Luc 19:40"
+  - "Psaumes 42:7"
+  - "Romains 10:17"
 ---
 **1.** Demain après-midi, notre thème sera : “pourquoi certains chrétiens sont-ils victorieux”. Mr. Arganbright et mon fils souhaitent s’entretenir avec le secrétaire du Révérend Rasmusson au sujet de la réunion de Tacoma.
 

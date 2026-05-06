@@ -39,6 +39,11 @@ themes:
   - "nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/551117Jehovah-Jireh.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 22:14"
+  - "Genèse 22:7"
+  - "Hébreux 11:6"
+  - "Jean 5:19"
 ---
 *Résumé de : “Jéhovah Jiré” (17 novembre 1955, soir)*
 

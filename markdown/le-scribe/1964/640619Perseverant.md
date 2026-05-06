@@ -43,6 +43,15 @@ themes:
   - "La guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/640619Perseverant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 21:19"
+  - "1 Rois 22"
+  - "2 Rois 4:1-37"
+  - "Exode 3:6"
+  - "Genèse 15:13"
+  - "Jean 11:21"
+  - "Jean 9"
+  - "Marc 7:24"
 ---
 **Résumé de : “Persévérant” (19 juin 1964, soir)**
 

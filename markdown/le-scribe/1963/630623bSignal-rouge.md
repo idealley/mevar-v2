@@ -38,6 +38,25 @@ themes:
   - "baptême au nom de Jésus"
 pdf_url: "http://le-scribe.org/pdfiles/630623bSignal-rouge.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 19:18"
+  - "2 Timothée 4:2-5"
+  - "Actes 19"
+  - "Actes 20:27"
+  - "Actes 20:9-12"
+  - "Exode 20:14"
+  - "Galates 1:8"
+  - "Galates 5:22"
+  - "Genèse 6:1-5"
+  - "Genèse 6:12"
+  - "Hébreux 13:8"
+  - "Jean 5:24"
+  - "Jude 7"
+  - "Luc 17:26-27"
+  - "Luc 17:27-30"
+  - "Matthieu 24:32"
+  - "Ésaïe 3:16"
+  - "Ésaïe 5:1-7"
 ---
 **Résumé de!: “Le clignotant rouge de sa venue” (23 juin 1963 soir)**
 

@@ -50,6 +50,14 @@ themes:
   - "test de la foi"
 pdf_url: "http://le-scribe.org/pdfiles/551118Foi-Abraham.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55,57"
+  - "1 Pierre 1:7"
+  - "Genèse 22:8,14"
+  - "Genèse 24:7"
+  - "Hébreux 11:19"
+  - "Matthieu 27:52"
+  - "Ésaïe 53:5"
 ---
 **LA FOI D'ABRAHAM**
 *18 novembre 1955, vendredi soir, San Fernando (Californie)*

@@ -45,6 +45,12 @@ themes:
   - "Saint-Esprit comme guide"
   - "Idolâtrie des hommes de Dieu"
 llm_cleaned: true
+bible_refs:
+  - "2 Chroniques 20:20"
+  - "Apocalypse 3:15"
+  - "Deutéronome 28"
+  - "Marc 13"
+  - "Psaumes 146"
 ---
 ## LA MALEDICTION DE LA CHAIR
 

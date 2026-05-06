@@ -38,6 +38,13 @@ themes:
   - "préparation pour la venue du Seigneur"
 pdf_url: "http://le-scribe.org/pdfiles/631128aTemoignage.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 24"
+  - "2 Corinthiens 9:14-15"
+  - "Hébreux 4:12"
+  - "Marc 11:23"
+  - "Nombres 12:1-16"
+  - "Psaumes 23"
 ---
 **Résumé de!: “Témoignage” (28 novembre 1963 matin)**
 

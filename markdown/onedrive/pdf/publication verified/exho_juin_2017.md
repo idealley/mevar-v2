@@ -42,6 +42,21 @@ mevar_match:
   title: "Le déguisement de la femme de Jéroboam"
   similarity: 0.655
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 5:19"
+  - "1 Rois 12:26-32"
+  - "1 Rois 14:1-15"
+  - "1 Rois 15:1-5"
+  - "2 Corinthiens 3:18"
+  - "Colossiens 1:9-10"
+  - "Daniel 30"
+  - "Daniel 31"
+  - "Jacques 1:22-23"
+  - "Jean 3:20"
+  - "Luc 10:21-24"
+  - "Matthieu 25"
+  - "Nombres 17"
+  - "Ésaïe 53"
 ---
 ## LE DEGUISEMENT DE LA FEMME DE JEROBOAM
 

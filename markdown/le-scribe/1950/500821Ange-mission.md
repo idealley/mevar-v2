@@ -39,6 +39,19 @@ themes:
   - "guérison sans discernement"
 pdf_url: "http://le-scribe.org/pdfiles/500821Ange-mission.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 12:8-10"
+  - "2 Rois 20:5"
+  - "2 Rois 2:23-24"
+  - "Actes 16:17"
+  - "Daniel 7:15"
+  - "Jean 4:46-53"
+  - "Jean 5:19"
+  - "Jean 9:1-3"
+  - "Marc 4:38"
+  - "Matthieu 4:23-25"
+  - "Nombres 20:11"
 ---
 **L'ANGE ET SON ORDRE DE MISSION**
 *THE ANGEL AND THE COMMISSION*

@@ -45,6 +45,23 @@ themes:
   - "Unité de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/630628Plus-que-Salomon.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 10:1-10"
+  - "1 Rois 8:48"
+  - "Actes 2"
+  - "Deutéronome 33:8,1"
+  - "Esdras 2:63"
+  - "Exode 28:30"
+  - "Hébreux 13:8"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 14:12,16"
+  - "Jonas 2:5"
+  - "Marc 5:25-34"
+  - "Marc 9:23"
+  - "Matthieu 12:38"
+  - "Nombres 27:21"
+  - "Ésaïe 49:15-16"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (28 Juin 1963, soir)*
 

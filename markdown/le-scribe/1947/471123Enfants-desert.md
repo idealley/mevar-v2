@@ -42,6 +42,22 @@ themes:
   - "volonté permissive de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/471123Enfants-desert.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 2:9"
+  - "1 Rois 22"
+  - "2 Corinthiens 3:2-3"
+  - "Actes 3:2"
+  - "Hébreux 13:15"
+  - "Jean 13:35"
+  - "Jean 14:1-3"
+  - "Nombres 13"
+  - "Nombres 20"
+  - "Nombres 21"
+  - "Nombres 22"
+  - "Nombres 22:22"
+  - "Nombres 22:24"
+  - "Nombres 22:8"
+  - "Philémon 10"
 ---
 **LES ENFANTS DANS LE DESERT**
 *CHILDREN IN THE WILDERNESS*

@@ -39,6 +39,24 @@ themes:
   - "Rejet de la Lumière"
 pdf_url: "http://le-scribe.org/pdfiles/640401Christ-identifie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Amos 3:7"
+  - "Deutéronome 18:15"
+  - "Genèse 15:13"
+  - "Hébreux 13:1"
+  - "Hébreux 4:12"
+  - "Hébreux 4:15"
+  - "Jean 14:12"
+  - "Jean 1:42"
+  - "Jean 1:49"
+  - "Jean 5:39,46"
+  - "Jean 8:44"
+  - "Luc 17"
+  - "Luc 2:48"
+  - "Malachie 3:6"
+  - "Malachie 4"
+  - "Marc 5:25-34"
+  - "Zacharie 14:7"
 ---
 *Résumé de : “Le Christ de tous les âges identifié” (1er avril 1964, soir)*
 

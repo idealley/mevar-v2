@@ -44,6 +44,9 @@ mevar_match:
   title: "La marche de l’incrédulité"
   similarity: 0.555
 llm_cleaned: true
+bible_refs:
+  - "Nombres 13"
+  - "Nombres 14"
 ---
 Que le Seigneur soit béni. Je vous salue dans le nom du Seigneur Jésus. On avait déjà eu une réunion ici et comme le frère l'a dit, on est allé tenir des réunions à Cocotomé et le Seigneur nous donne encore l'occasion de revenir. Je vous ai déjà dit que je vous dirai toujours les mêmes choses quand je serai devant vous. Amen! C'est toujours pour vous parler du réveil parce que c'est le temps où on doit insister sur ces choses. C'est ce qui est important. Chaque heure a son Message. Chaque heure a sa prédication et nous sommes arrivés dans un temps où on doit vous prêcher le réveil. C'est de cela qu'on doit vous parler. C'est la prédication qui conduit l'œuvre de Dieu. C'est ce que l'Esprit nous dit qui nous conduit. Quand on écoute et qu'on accepte, Dieu se révèle à nous. Si vous avez l'occasion d'entendre la prédication du réveil, si vous l'acceptez, si vous la croyez, le réveil sera révélé en vous. C'est pour ça que ce soir, je voudrais vous parler de l'incrédulité et aussi de la foi.
 

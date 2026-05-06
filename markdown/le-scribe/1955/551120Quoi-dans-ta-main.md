@@ -35,6 +35,19 @@ themes:
   - "La victoire sur le diable par la foi"
 pdf_url: "http://le-scribe.org/pdfiles/551120Quoi-dans-ta-main.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:12"
+  - "Actes 19"
+  - "Actes 20:29"
+  - "Colossiens 1:27"
+  - "Exode 4:1-2"
+  - "Hébreux 13:8"
+  - "Jean 1:1,14"
+  - "Jean 5:24"
+  - "Luc 17:17"
+  - "Romains 1:16"
+  - "Zacharie 14:7"
+  - "Ésaïe 53:5"
 ---
 **Résumé de : "Qu'y a-t-il dans ta main ?" (20 novembre 1955, après-midi)**
 

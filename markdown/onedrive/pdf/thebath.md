@@ -51,6 +51,12 @@ themes:
   - "L'Esprit Saint"
   - "L'Église de Laodicée"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 11:2"
+  - "2 Thessaloniciens 5:23"
+  - "Jean 5:35"
+  - "Lévitique 10:1-3"
+  - "Zacharie 10:1"
 ---
 # The bath of the Christian
 

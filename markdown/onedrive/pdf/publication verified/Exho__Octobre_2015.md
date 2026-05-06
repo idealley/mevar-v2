@@ -46,6 +46,30 @@ mevar_match:
   title: "A qui comparerai-je cette génération?"
   similarity: 0.502
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 4"
+  - "1 Timothée 4"
+  - "2 Pierre 2"
+  - "2 Thessaloniciens 2"
+  - "2 Thessaloniciens 2:9"
+  - "2 Timothée 3"
+  - "Amos 8:11"
+  - "Apocalypse 6"
+  - "Deutéronome 5:33"
+  - "Jean 3"
+  - "Lamentations 2:14"
+  - "Luc 12"
+  - "Luc 12:42"
+  - "Luc 12:47-48"
+  - "Luc 17"
+  - "Luc 21"
+  - "Marc 13"
+  - "Matthieu 24"
+  - "Matthieu 24:24"
+  - "Matthieu 24:45"
+  - "Matthieu 7:6"
+  - "Psaumes 25:4"
+  - "Ésaïe 55:8-9"
 ---
 ## A QUI COMPARERAI-JE CETTE GENERATION ?
 

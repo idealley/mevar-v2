@@ -44,6 +44,26 @@ themes:
   - "Parole de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/630803Investissements.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:16"
+  - "1 Corinthiens 2:4"
+  - "Actes 19"
+  - "Actes 2:17,21"
+  - "Actes 9:5"
+  - "Actes 9:6"
+  - "Exode 13:21"
+  - "Jean 13:3"
+  - "Jean 15:7"
+  - "Jean 3:7"
+  - "Jean 6:44"
+  - "Jean 6:63"
+  - "Joël 2:28"
+  - "Luc 16:26"
+  - "Luc 17:28"
+  - "Luc 24:49"
+  - "Luc 4:8"
+  - "Marc 10:17"
+  - "Psaumes 73:3"
 ---
 **1.** [Prière]. Quand je suis fatigué, j'aime écouter les chants du frère Mel Johnson.
 

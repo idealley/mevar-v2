@@ -50,6 +50,21 @@ themes:
   - "Parole de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/620719Perseverant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 19:12"
+  - "1 Rois 21:19-21"
+  - "1 Rois 22"
+  - "2 Rois 4:8-37"
+  - "Genèse 7:11"
+  - "Hébreux 4:12"
+  - "Hébreux 4:15"
+  - "Jean 11:21-22"
+  - "Jean 11:25-27"
+  - "Jean 9"
+  - "Josué 1:3"
+  - "Luc 17:26"
+  - "Marc 7:24-30"
+  - "Matthieu 15:21-28"
 ---
 *Persévérant (ou Persévérance)*
 *19 juillet 1962, jeudi soir, Salem (Oregon)*

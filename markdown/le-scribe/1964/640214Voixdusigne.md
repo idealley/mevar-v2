@@ -37,6 +37,28 @@ themes:
   - "prédestination"
 pdf_url: "http://le-scribe.org/pdfiles/640214Voixdusigne.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 22:13,24"
+  - "2 Timothée 3:4-5"
+  - "Actes 3:4"
+  - "Amos 3:7"
+  - "Deutéronome 19:22"
+  - "Exode 2:24,6"
+  - "Exode 4:1-8"
+  - "Genèse 15:13-16"
+  - "Jean 12:37"
+  - "Jean 3:12"
+  - "Jean 6:44"
+  - "Jean 6:62"
+  - "Jean 6:68"
+  - "Jérémie 1:5"
+  - "Luc 17:28"
+  - "Luc 2:48"
+  - "Luc 2:49"
+  - "Malachie 4"
+  - "Marc 16:15-18"
+  - "Nombres 12:6"
+  - "Ésaïe 6:9-10"
 ---
 *La Voix du Signe* (14 février 1964, après-midi)
 

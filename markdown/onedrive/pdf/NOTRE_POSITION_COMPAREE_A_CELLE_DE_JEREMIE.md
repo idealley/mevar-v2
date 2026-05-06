@@ -46,6 +46,9 @@ mevar_match:
   title: "Notre position comparée à celle de Jérémie"
   similarity: 0.655
 llm_cleaned: true
+bible_refs:
+  - "Jérémie 1"
+  - "Malachie 4"
 ---
 ## Notre position comparée à celle de Jérémie
 

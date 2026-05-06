@@ -40,6 +40,9 @@ mevar_match:
   title: "Le fils prodigue"
   similarity: 0.58
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 2"
+  - "Luc 17"
 ---
 ## Le fils prodigue
 

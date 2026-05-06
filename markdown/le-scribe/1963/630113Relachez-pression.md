@@ -34,6 +34,21 @@ themes:
   - "Dénominations"
 pdf_url: "http://le-scribe.org/pdfiles/630113Relachez-pression.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Exode 12:13"
+  - "Exode 12:7"
+  - "Genèse 26:20-21"
+  - "Genèse 26:22"
+  - "Jean 14:6"
+  - "Jean 15:7"
+  - "Job 14:14"
+  - "Job 38:7"
+  - "Luc 9:62"
+  - "Nombres 11:5"
+  - "Nombres 35:6"
+  - "Proverbes 18:10"
+  - "Psaumes 103:5"
+  - "Ésaïe 32:1-2"
 ---
 **Résumé de!: “Relâchez la pression” (13 Janvier 1963, matin)**
 

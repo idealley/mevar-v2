@@ -45,6 +45,27 @@ themes:
   - "retour de Jésus"
 pdf_url: "http://le-scribe.org/pdfiles/620610Convaincu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 17"
+  - "2 Samuel 5:24"
+  - "Actes 2:27"
+  - "Daniel 3"
+  - "Genèse 22:17"
+  - "Genèse 32"
+  - "Hébreux 13:8"
+  - "Jean 11:21-22"
+  - "Jean 1:26"
+  - "Jean 1:35-42"
+  - "Jean 2:19"
+  - "Jean 4"
+  - "Jean 9:25"
+  - "Juges 15:16"
+  - "Juges 3:31"
+  - "Luc 8:41-56"
+  - "Marc 11:24"
+  - "Psaumes 16:10"
+  - "Romains 8:37"
+  - "Ésaïe 40:3"
 ---
 **Résumé de!: “Convaincu, puis impliqué” (10 juin 1962, soir)**
 

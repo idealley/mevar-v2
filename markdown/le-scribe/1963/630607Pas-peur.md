@@ -47,6 +47,14 @@ themes:
   - "présence de l'Ange du Seigneur"
 pdf_url: "http://le-scribe.org/pdfiles/630607Pas-peur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 10:37-38"
+  - "Jean 3:18"
+  - "Marc 16:17-18"
+  - "Matthieu 14:22"
+  - "Romains 8:1"
+  - "Ésaïe 720"
+  - "Ézéchiel 16"
 ---
 **Résumé de!: “N’ayez pas peur” (7 Juin 1963, soir)**
 

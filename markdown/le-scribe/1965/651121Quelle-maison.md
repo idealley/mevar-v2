@@ -37,6 +37,9 @@ themes:
   - "fidélité au message"
 pdf_url: "http://le-scribe.org/pdfiles/651121Quelle-maison.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 7:44"
+  - "Psaumes 10:5"
 ---
 **Résumé de : “Quelle maison me bâtirez-vous?” (21 novembre 1965, matin)**
 

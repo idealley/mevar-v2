@@ -34,6 +34,9 @@ themes:
   - "rencontre avec les croyants défunts"
 pdf_url: "http://le-scribe.org/pdfiles/600924Stadsklev.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 12:6"
+  - "Job 1:21"
 ---
 **1.** J’envoie ce message en ce 24 septembre au soir aux cœurs brisés là-bas en Allemagne : au frère Julius Stadsklev, à la sœur Stadsklev, à David, à Deborah, aux grands-parents. Je vous ai téléphonée il y a si peu de temps, et il me semble impossible que les choses aient pu se dérouler si vite. Mais Jésus nous a demandé d’être toujours prêts, car nous ne savons ni le jour, ni l’heure.
 

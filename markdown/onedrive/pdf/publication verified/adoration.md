@@ -55,6 +55,24 @@ mevar_match:
   title: "L'adoration par la révélation"
   similarity: 0.52
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 4:9"
+  - "Actes 9"
+  - "Apocalypse 3:22"
+  - "Apocalypse 4:7"
+  - "Galates 1:11-12"
+  - "Genèse 22"
+  - "Genèse 28"
+  - "Genèse 35"
+  - "Juges 13"
+  - "Juges 6:11-24"
+  - "Marc 4:23"
+  - "Marc 7:16"
+  - "Matthieu 11"
+  - "Matthieu 11:15"
+  - "Matthieu 13"
+  - "Matthieu 24:45"
+  - "Éphésiens 1:15-18"
 ---
 ## L'adoration par la révélation
 

@@ -51,6 +51,31 @@ themes:
   - "Église sans tache"
 pdf_url: "http://le-scribe.org/pdfiles/630801Paradoxe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:52"
+  - "1 Rois 21:19"
+  - "1 Rois 22"
+  - "1 Samuel 17:26"
+  - "2 Corinthiens 5:17"
+  - "2 Corinthiens 5:19"
+  - "Actes 24:14"
+  - "Colossiens 2:9"
+  - "Daniel 3"
+  - "Galates 6:15"
+  - "Genèse 18:12-13"
+  - "Hébreux 11:3"
+  - "Jacques 2:19"
+  - "Jean 15:7"
+  - "Jean 6:44"
+  - "Jean 8:58"
+  - "Josué 10:12"
+  - "Josué 1:5"
+  - "Juges 14:6"
+  - "Juges 15:16"
+  - "Marc 11:24"
+  - "Philippiens 1:21"
+  - "Romains 4:20-21"
+  - "Éphésiens 5:27"
 ---
 **1.** J’ai beaucoup apprécié ce cantique. Il y a une puissance dans un chant, et l’armée de Dieu avance en chantant pour porter l’arche, et avant le combat. Nous sommes réunis ce soir pour la bataille, avec le Nom de Jésus-Christ sur nos bannières. Lisons Josué 10:12 à 14
 

@@ -37,6 +37,15 @@ themes:
   - "fidélité"
   - "jugement"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 19"
+  - "Apocalypse 3"
+  - "Esther 10:15"
+  - "Luc 1"
+  - "Luc 3"
+  - "Nombres 14"
+  - "Psaumes 33"
+  - "Ésaïe 40"
 ---
 Les fils du désert, prêché à Koumassi
 

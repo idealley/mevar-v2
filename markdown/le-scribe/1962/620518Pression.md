@@ -38,6 +38,21 @@ themes:
   - "Fin des temps"
 pdf_url: "http://le-scribe.org/pdfiles/620518Pression.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 5:7"
+  - "2 Corinthiens 6:17"
+  - "2 Rois 4:17-37"
+  - "2 Timothée 3:5"
+  - "2 Timothée 4:8"
+  - "Jean 11:21-22"
+  - "Jean 11:25-26"
+  - "Jean 3:18"
+  - "Jean 5:24,6"
+  - "Proverbes 18:10"
+  - "Romains 4:20"
+  - "Romains 5:10"
+  - "Ésaïe 32:1-2"
+  - "Ésaïe 40:31"
 ---
 **1.** [Prière]. Que les anges de Dieu prennent position au milieu de nous. J’ai entendu des frères Pentecôtistes annoncer la venue d’un grand réveil. Le réveil que nous avons connu a cessé, mais quelque chose de glorieux doit venir. Après une longue étude des Ecritures, je commence à croire que vient le temps de la récolte pour les fruits du soir. Rome a coupé l’Arbre parfait porteur de fruits parfaits, et l’a pendu à un bois fait de main d’homme. Mais au troisième jour, il est ressuscité. L’Arbre de l’Epouse est venu est a été coupé lui aussi par l’ennemi au Moyen Age, mais Dieu avait promis de restaurer. Il a été émondé avec Luther, puis avec les Méthodistes, puis avec les Pentecôtistes, mais sous la Lumière du soir le fruit mûrit à son sommet. Lisons Proverbes 18:10
 

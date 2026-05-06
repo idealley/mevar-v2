@@ -35,6 +35,15 @@ themes:
   - "séparation du monde"
 pdf_url: "http://le-scribe.org/pdfiles/500823Temoignage-vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "2 Timothée 3:5"
+  - "Actes 16:17"
+  - "Actes 19:12"
+  - "Jean 3:3"
+  - "Luc 4:33"
+  - "Marc 1:24"
+  - "Matthieu 9:18"
 ---
 *23 août 1950, mercredi soir, Cleveland (Ohio)*
 

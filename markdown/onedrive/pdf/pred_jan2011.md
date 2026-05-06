@@ -47,6 +47,10 @@ themes:
   - "Enlèvement"
   - "Persévérance dans l'épreuve"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12"
+  - "Jérémie 33"
+  - "Romains 8"
 ---
 # L'accomplissement de la bonne Parole
 

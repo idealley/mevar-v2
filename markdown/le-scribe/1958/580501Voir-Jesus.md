@@ -36,6 +36,21 @@ themes:
   - "Signes des temps"
 pdf_url: "http://le-scribe.org/pdfiles/580501Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 3:3"
+  - "Actes 9:3"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 12:20"
+  - "Jean 14:10"
+  - "Jean 16:28"
+  - "Jean 20:21"
+  - "Jean 5:19"
+  - "Jean 8:58"
+  - "Joël 1:4"
+  - "Luc 8:43-48"
+  - "Marc 16"
+  - "Marc 3:28-29"
 ---
 *1er mai 1958, jeudi soir, New York (New York)*
 

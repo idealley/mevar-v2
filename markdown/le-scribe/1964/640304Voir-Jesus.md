@@ -44,6 +44,30 @@ themes:
   - "L'Église doit voir le même signe qu'Abraham"
 pdf_url: "http://le-scribe.org/pdfiles/640304Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 22:6"
+  - "2 Corinthiens 5:1"
+  - "Deutéronome 18:15"
+  - "Genèse 18:1-2"
+  - "Genèse 18:12-15"
+  - "Genèse 19:11"
+  - "Genèse 6:2"
+  - "Hébreux 4:15"
+  - "Jean 10:34-36"
+  - "Jean 12:20-21"
+  - "Jean 14:10,20"
+  - "Jean 16:16,17"
+  - "Jean 1:42"
+  - "Jean 4:1-26"
+  - "Jean 5:19"
+  - "Jean 5:39"
+  - "Luc 17:26,30"
+  - "Luc 17:27"
+  - "Luc 8:43-48"
+  - "Matthieu 28:20"
+  - "Psaumes 103:3"
+  - "Psaumes 82:6"
+  - "Romains 10:17"
 ---
 **Résumé de!: “Messieurs, nous voudrions voir Jésus” (4 mars1964, soir)**
 

@@ -45,6 +45,24 @@ themes:
   - "Consécration"
 pdf_url: "http://le-scribe.org/pdfiles/591227Super-Signe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 3:16"
+  - "Actes 19"
+  - "Daniel 5:5"
+  - "Genèse 18"
+  - "Jean 10:30"
+  - "Jean 10:37-38"
+  - "Jean 14:11"
+  - "Jean 1:12"
+  - "Jean 20:21"
+  - "Jean 5:36"
+  - "Luc 17:28,30"
+  - "Luc 2:34"
+  - "Luc 2:49"
+  - "Marc 16:17"
+  - "Romains 5:19"
+  - "Zacharie 14:7"
+  - "Ésaïe 7:10-16"
 ---
 *Un Super-Signe*
 *A Super Sign*

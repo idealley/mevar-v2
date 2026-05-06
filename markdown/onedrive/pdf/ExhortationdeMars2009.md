@@ -38,6 +38,28 @@ themes:
   - "Jeûne et prière"
   - "Restauration de l'Église"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 9:23-27"
+  - "1 Timothée 3:14-15"
+  - "2 Corinthiens 11"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 12:10-16"
+  - "Apocalypse 21"
+  - "Apocalypse 21:2"
+  - "Apocalypse 21:6-11"
+  - "Galates 1:15-18"
+  - "Luc 1:80"
+  - "Luc 3:1-3"
+  - "Luc 4:1-2"
+  - "Luc 4:13-21"
+  - "Marc 13"
+  - "Marc 13:34-35"
+  - "Nombres 14:28-31"
+  - "Osée 2:12-16"
+  - "Romains 8:13"
+  - "Ésaïe 40"
+  - "Ésaïe 40:1-5"
 ---
 ## LES FILS DU DESERT
 

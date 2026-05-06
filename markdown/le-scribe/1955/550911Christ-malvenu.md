@@ -36,6 +36,9 @@ themes:
   - "la persécution des vrais croyants"
 pdf_url: "http://le-scribe.org/pdfiles/550911Christ-malvenu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Luc 7:36"
+  - "Psaumes 2:12"
 ---
 **1.** Je vous dis quelques mots sur mes voyages à l'étranger. Beaucoup d'âmes ont été sauvées. Le plus important, ce sont des âmes sauvées et nées dans le Royaume. L'Evangile perturbe, et nous avons eu quelques problèmes en quittant Zurich. Le premier Réformateur a été Luther. Le second, Zwingli, est allé en Suisse, mais il niait la naissance virginale. La première traduction de la Bible a été faite à son initiative à Zurich. Billy Graham était venu là, un jour avant moi, et ils se sont moqués de lui, de sa mise en plis de vendeur de savonnettes américain, de son parfum. Il ne méritait pas cela.
 

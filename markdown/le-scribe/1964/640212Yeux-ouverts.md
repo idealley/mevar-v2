@@ -39,6 +39,32 @@ themes:
   - "discernement des esprits"
 pdf_url: "http://le-scribe.org/pdfiles/640212Yeux-ouverts.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 1:20"
+  - "2 Rois 7:3-10"
+  - "2 Timothée 3:4-5"
+  - "Actes 2:17-18"
+  - "Actes 2:27"
+  - "Amos 3:7"
+  - "Deutéronome 18:15"
+  - "Genèse 6:1-2"
+  - "Hébreux 13:8"
+  - "Hébreux 4:12"
+  - "Jean 14:12"
+  - "Jean 14:19-20,16"
+  - "Jean 2:19"
+  - "Jean 5:39"
+  - "Joël 1:4"
+  - "Joël 2:25"
+  - "Luc 17"
+  - "Luc 17:26-30"
+  - "Luc 17:30"
+  - "Luc 24:13"
+  - "Malachie 3:1"
+  - "Malachie 4"
+  - "Malachie 4:3"
+  - "Psaumes 16:10"
+  - "Ésaïe 40:3"
 ---
 **Résumé de!: “Quand leurs yeux furent ouverts” (12 février 1964, soir)**
 

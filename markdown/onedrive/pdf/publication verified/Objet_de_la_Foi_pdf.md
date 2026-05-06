@@ -43,6 +43,17 @@ mevar_match:
   title: "L'objet de la foi"
   similarity: 0.7
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15"
+  - "Apocalypse 12"
+  - "Colossiens 1"
+  - "Deutéronome 28"
+  - "Hébreux 10"
+  - "Hébreux 11"
+  - "Marc 16"
+  - "Matthieu 6"
+  - "Matthieu 7"
+  - "Éphésiens 4:20-23"
 ---
 L'Objet de la foi, prêché à Koumassi le dimanche 11 décembre 2017, par le frère M'BRA Parfait
 

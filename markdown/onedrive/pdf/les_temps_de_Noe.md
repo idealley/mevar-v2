@@ -42,6 +42,9 @@ themes:
   - "Crainte de Dieu"
   - "Soumission et amour dans le mariage"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 6:5"
+  - "Romains 12:21"
 ---
 ## Les temps de Noé
 

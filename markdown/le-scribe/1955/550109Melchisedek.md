@@ -46,6 +46,25 @@ themes:
   - "alliance abrahamique"
 pdf_url: "http://le-scribe.org/pdfiles/550109Melchisedek.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 14:16-18"
+  - "Genèse 14:19"
+  - "Hébreux 11"
+  - "Hébreux 11:13"
+  - "Hébreux 11:40"
+  - "Hébreux 12:1-2"
+  - "Hébreux 6:13"
+  - "Hébreux 6:14"
+  - "Hébreux 6:15"
+  - "Hébreux 6:16"
+  - "Hébreux 6:17-18"
+  - "Hébreux 6:19"
+  - "Hébreux 6:20"
+  - "Hébreux 7:1-3"
+  - "Jean 6:44"
+  - "Marc 16:17"
+  - "Romains 4:20"
+  - "Ésaïe 53:5"
 ---
 **1.** La semaine prochaine, nous débuterons un nouveau tour du monde : Chicago, Lubbock, Phoenix, puis la Californie, Honolulu. Merci de prier pour ma santé. Je dépends de vos prières quand je pars. Nous prions ici pour les malades, mais nous n'annonçons jamais de réunion de guérisons, car il n'y a pas de salle assez grande par ici, et il y a peu d'églises du plein Evangile dans la région.
 

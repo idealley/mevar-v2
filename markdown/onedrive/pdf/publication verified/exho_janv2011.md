@@ -45,6 +45,31 @@ mevar_match:
   title: "Le juste jugement de Dieu - l'affaire d'Urie contre David"
   similarity: 0.66
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 13:14"
+  - "2 Samuel 11:1-5"
+  - "2 Samuel 11:7-14"
+  - "2 Samuel 12:1-4"
+  - "2 Samuel 13:22-29"
+  - "2 Samuel 13:8-15"
+  - "2 Samuel 16:21-22"
+  - "2 Samuel 16:5-11"
+  - "2 Timothée 4:8"
+  - "Apocalypse 21:27"
+  - "Apocalypse 22"
+  - "Apocalypse 22:15"
+  - "Exode 19:15-16"
+  - "Exode 20:16"
+  - "Exode 23:1"
+  - "Exode 23:2-3"
+  - "Galates 6:7"
+  - "Jean 7:50-51"
+  - "Jérémie 11:20"
+  - "Psaumes 32"
+  - "Psaumes 32:2-4"
+  - "Psaumes 7:11"
+  - "Psaumes 9:4"
+  - "Romains 13:6"
 ---
 ## LE JUSTE JUGEMENT DE DIEU – AFFAIRE URIE CONTRE DAVID
 

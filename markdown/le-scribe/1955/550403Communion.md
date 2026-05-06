@@ -43,6 +43,18 @@ themes:
   - "persévérance dans l'épreuve"
 pdf_url: "http://le-scribe.org/pdfiles/550403Communion.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:1"
+  - "Apocalypse 6:10"
+  - "Apocalypse 6:11"
+  - "Ecclésiaste 12:13"
+  - "Hébreux 9:11-12"
+  - "Jean 14:2"
+  - "Jean 6:44"
+  - "Job 19:23"
+  - "Job 1:21"
+  - "Nombres 19"
+  - "Ésaïe 1:18"
 ---
 **1.** J’ai eu 5 semaines de réunions de suite, surtout de la prédication, plutôt que de la guérison. Cela m’a épuisé. Il y a quelques années, une sœur m’a félicité pour ma prédication, et un frère m’a dit qu’il n’aurait pas aimé qu’on le flatte ainsi. J’ai répondu que moi j’avais aimé cela et que, contrairement à lui, je disais la vérité ! Dimanche matin nous aurons une réunion ordinaire de guérison. Un jour, il y avait ici une jeune fille sur une chaise roulante depuis 17 ans, et je lui ai dit qu’elle n’avait pas écouté un appel de Dieu. Et elle a été guérie instantanément. Un homme décharné étendu sur l’estrade et qui n’avait pas marché depuis longtemps s’était relevé et avait marché.
 

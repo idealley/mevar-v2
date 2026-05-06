@@ -47,6 +47,23 @@ themes:
   - "baptême du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/620611Ne-crains-pas.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55"
+  - "Actes 2:38"
+  - "Deutéronome 18:15-19"
+  - "Genèse 26:22"
+  - "Hébreux 13:8"
+  - "Hébreux 7:25"
+  - "Jean 14:12"
+  - "Jean 5:19"
+  - "Jean 8:42"
+  - "Luc 17:28,30"
+  - "Marc 16:17-18"
+  - "Marc 5:25-34"
+  - "Matthieu 14:22"
+  - "Philippiens 2:12"
+  - "Proverbes 18:10"
+  - "Psaumes 61:4"
 ---
 *C'est Moi, n'ayez pas peur* (11 juin 1962, soir)
 

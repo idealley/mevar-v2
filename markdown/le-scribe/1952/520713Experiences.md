@@ -41,6 +41,19 @@ themes:
   - "Unité des croyants"
 pdf_url: "http://le-scribe.org/pdfiles/520713Experiences.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15"
+  - "Actes 16:17"
+  - "Actes 16:18"
+  - "Actes 19"
+  - "Actes 24:14"
+  - "Actes 27:21"
+  - "Josué 1:5-6"
+  - "Jérémie 1:4-5"
+  - "Nombres 16:3"
+  - "Romains 27:21"
+  - "Romains 3:4"
+  - "Ésaïe 35:8"
 ---
 **“Premières expériences spirituelles” (13 juillet 1952)**
 

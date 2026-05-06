@@ -45,6 +45,9 @@ mevar_match:
   title: "A Moi la rétribution - à moi la vengeance"
   similarity: 0.535
 llm_cleaned: true
+bible_refs:
+  - "Proverbes 11"
+  - "Ésaïe 35"
 ---
 # A Moi la rétribution - à moi la vengeance
 

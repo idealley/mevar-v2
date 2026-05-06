@@ -46,6 +46,9 @@ themes:
   - "Puissances mondiales et fin des temps"
 pdf_url: "http://le-scribe.org/pdfiles/471214bExperiences.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:12"
+  - "Jean 4:46-54"
 ---
 *Expériences - 2*
 *14 décembre 1947, dimanche après-midi, Phœnix (Arizona)*

@@ -41,6 +41,13 @@ themes:
   - "préparation"
   - "sanctification"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:21-22"
+  - "2 Corinthiens 10:3-6"
+  - "2 Corinthiens 6:14-17"
+  - "Nombres 25"
+  - "Ésaïe 41"
+  - "Ésaïe 42"
 ---
 ## VAINQUEURS DANS LE MAUVAIS JOUR
 

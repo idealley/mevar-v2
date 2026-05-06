@@ -44,6 +44,26 @@ themes:
   - "Collaboration"
   - "Respect"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:29"
+  - "1 Corinthiens 16:10"
+  - "1 Corinthiens 16:10-11"
+  - "1 Corinthiens 3:13-15"
+  - "1 Timothée 4"
+  - "1 Timothée 4:12"
+  - "2 Corinthiens 5:16"
+  - "2 Timothée 2"
+  - "2 Timothée 2:22"
+  - "2 Timothée 4"
+  - "Actes 16:1-2"
+  - "Actes 17"
+  - "Actes 1:8"
+  - "Apocalypse 2"
+  - "Josué 1:1"
+  - "Jérémie 20"
+  - "Tite 2:10"
+  - "Tite 2:15"
+  - "Tite 3:13-14"
 ---
 TRAITE : QUE PERSONNE NE MEPRISE TA JEUNESSE
 

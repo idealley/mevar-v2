@@ -44,6 +44,15 @@ themes:
   - "Les signes de la fin"
 pdf_url: "http://le-scribe.org/pdfiles/620531Dieu-contre-satan.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Genèse 6:1-2"
+  - "Genèse 6:3-4"
+  - "Jean 5:24"
+  - "Jean 6:63"
+  - "Josué 24:14-15"
+  - "Proverbes 18:10"
+  - "Psaumes 91:7"
 ---
 *Résumé de!: “La guerre entre Dieu et Satan” (31 mai 1962, soir)*
 

@@ -46,6 +46,12 @@ themes:
   - "Témoignage au monde"
   - "Œcuménisme"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 13"
+  - "Apocalypse 13:12-14"
+  - "Apocalypse 17"
+  - "Ésaïe 40"
+  - "Ésaïe 48"
 ---
 Mes chers amis,
 

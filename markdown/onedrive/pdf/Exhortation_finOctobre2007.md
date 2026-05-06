@@ -43,6 +43,17 @@ themes:
   - "Consécration"
   - "Préparation pour l'enlèvement"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 6:14-19"
+  - "Daniel 10"
+  - "Deutéronome 20:1-4"
+  - "Jean 14:1"
+  - "Jérémie 1:10"
+  - "Jérémie 1:17-19"
+  - "Nombres 14:6-9"
+  - "Ésaïe 36:13-20"
+  - "Ésaïe 36:14-20"
+  - "Ésaïe 37:5-6"
 ---
 ## Appel à la guerre – Appel au combat contre Babylone
 

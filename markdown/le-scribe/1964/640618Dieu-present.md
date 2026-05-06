@@ -42,6 +42,18 @@ themes:
   - "Parole de Dieu pour chaque âge"
 pdf_url: "http://le-scribe.org/pdfiles/640618Dieu-present.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 10:1-10"
+  - "Amos 3:7"
+  - "Deutéronome 18:15"
+  - "Jean 14:12"
+  - "Jean 19:11"
+  - "Luc 11:31"
+  - "Luc 11:52"
+  - "Luc 17:26-27"
+  - "Luc 17:34"
+  - "Luc 7:36-50"
+  - "Matthieu 12:38"
 ---
 *Dieu présent mais non identifié* (18 juin 1964, soir)
 

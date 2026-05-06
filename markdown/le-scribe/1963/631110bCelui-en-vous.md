@@ -62,6 +62,29 @@ themes:
   - "la prière de foi"
 pdf_url: "http://le-scribe.org/pdfiles/631110bCelui-en-vous.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 1:18"
+  - "1 Jean 4:4"
+  - "1 Samuel 24:5"
+  - "Actes 3:6"
+  - "Galates 2:20"
+  - "Jean 14:12"
+  - "Jean 1:42"
+  - "Jean 1:45-49"
+  - "Jean 4"
+  - "Jean 5:17,19"
+  - "Job 19:25-27"
+  - "Josué 10:12"
+  - "Luc 8:43-48"
+  - "Marc 10:46-53"
+  - "Marc 11:12-26"
+  - "Marc 11:24"
+  - "Marc 6:5-6"
+  - "Matthieu 28:20"
+  - "Romains 8:37"
+  - "Romains 9:16"
+  - "Éphésiens 2:2"
+  - "Ésaïe 14:12"
 ---
 **1.** [Prière].
 

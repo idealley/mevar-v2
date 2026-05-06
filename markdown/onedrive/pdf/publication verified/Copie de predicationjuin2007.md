@@ -47,6 +47,13 @@ themes:
   - "Ministère de l'Épouse"
   - "Sortie de Babylone"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 3:17"
+  - "Actes 12:1-12"
+  - "Actes 19"
+  - "Apocalypse 3:14"
+  - "Galates 5:1"
+  - "Matthieu 15:1-9"
 ---
 ## Les prisonniers de la religion
 

@@ -42,6 +42,17 @@ themes:
   - "la persévérance dans la foi"
 pdf_url: "http://le-scribe.org/pdfiles/550123Combattre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 5:18"
+  - "Actes 2:22"
+  - "Jean 13:13-15"
+  - "Jean 13:8"
+  - "Jean 3:2"
+  - "Jean 5:19"
+  - "Jean 6:38"
+  - "Jude 3"
+  - "Luc 24:49"
+  - "Luc 4:23"
 ---
 **Résumé de :** *“Combattre avec force pour la foi” (23 janvier 1955, soir)*
 

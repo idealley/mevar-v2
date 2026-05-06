@@ -33,6 +33,25 @@ themes:
   - "présence du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/510508Trouverai-je-foi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13:1-3"
+  - "1 Corinthiens 15:53"
+  - "1 Jean 3:2"
+  - "1 Pierre 2:9,5"
+  - "2 Rois 20:7"
+  - "Galates 5:22"
+  - "Hébreux 11:1"
+  - "Hébreux 13:15"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 3:14"
+  - "Jean 4:23"
+  - "Jean 9:6"
+  - "Luc 18:8"
+  - "Marc 16:14"
+  - "Marc 5:30"
+  - "Éphésiens 4:30"
+  - "Ésaïe 53:5"
 ---
 **TROUVERAI-JE LA FOI QUAND JE REVIENDRAI ?**
 *WILL I FIND FAITH WHEN I RETURN ?*

@@ -45,6 +45,28 @@ mevar_match:
   title: "Une porte ouverte"
   similarity: 0.66
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:27"
+  - "1 Corinthiens 16:8-9"
+  - "1 Corinthiens 6:15-16"
+  - "1 Corinthiens 6:17"
+  - "2 Thessaloniciens 2:1-9"
+  - "Actes 18:9-11"
+  - "Actes 9:15-16"
+  - "Amos 8:11"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14-22"
+  - "Apocalypse 3:8"
+  - "Apocalypse 4:1-3"
+  - "Hébreux 12:15-17"
+  - "Jacques 1:23"
+  - "Luc 7:30"
+  - "Matthieu 17:5"
+  - "Matthieu 22"
+  - "Matthieu 25"
+  - "Matthieu 25:5"
+  - "Ésaïe 48:20"
+  - "Ésaïe 59:1-2"
 ---
 ## UNE PORTE OUVERTE
 

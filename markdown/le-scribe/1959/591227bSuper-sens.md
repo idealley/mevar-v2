@@ -47,6 +47,16 @@ themes:
   - "rejet des doutes"
 pdf_url: "http://le-scribe.org/pdfiles/591227bSuper-sens.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:27"
+  - "Actes 2:39"
+  - "Hébreux 11:1-7"
+  - "Jean 11:21-22"
+  - "Jean 11:25-26"
+  - "Jean 11:27"
+  - "Jean 2:19"
+  - "Psaumes 46:2"
+  - "Romains 4:17"
 ---
 **Résumé de!: “Un Super-Sens” (27 décembre 1959, soir)**
 

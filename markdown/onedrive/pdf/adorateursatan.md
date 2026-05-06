@@ -46,6 +46,12 @@ themes:
   - "Plan satanique"
   - "Sincérité du cœur"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 16"
+  - "1 Samuel 2:22-26"
+  - "2 Thessaloniciens 2"
+  - "Exode 32:1-10"
+  - "Jérémie 44:15-22"
 ---
 Les adorateurs de Satan, prêché à Koumassi par le frère M'BRA Parfait
 

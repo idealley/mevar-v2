@@ -37,6 +37,19 @@ themes:
   - "Nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/530329Israel-son-pays.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 6:10"
+  - "2 Rois 2:23-25"
+  - "Apocalypse 17"
+  - "Exode 17"
+  - "Genèse 3:15"
+  - "Hébreux 12:2"
+  - "Josué 2"
+  - "Josué 5:13"
+  - "Matthieu 6:21"
+  - "Nombres 21"
+  - "Nombres 22"
+  - "Ésaïe 59:19"
 ---
 *Israël dans son pays (29. 03. 1953)*
 

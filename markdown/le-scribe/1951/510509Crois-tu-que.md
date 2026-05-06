@@ -49,6 +49,16 @@ themes:
   - "humilité"
 pdf_url: "http://le-scribe.org/pdfiles/510509Crois-tu-que.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:13-16"
+  - "Daniel 7:15"
+  - "Jean 14:12"
+  - "Jean 1:48"
+  - "Jean 4:14"
+  - "Jean 5:19"
+  - "Jean 5:19,14"
+  - "Jean 5:36"
+  - "Matthieu 9:27"
 ---
 **CROIS-TU QUE JE PUISSE FAIRE CELA ?**
 *BELIEVE YE THAT I CAN DO THIS ?*

@@ -55,6 +55,14 @@ mevar_match:
   title: "Jésus-Christ est le même hier, aujourd’hui et éternellement"
   similarity: 0.71
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "Hébreux 11"
+  - "Hébreux 11:35"
+  - "Hébreux 13"
+  - "Hébreux 13:7-8"
+  - "Hébreux 13:8"
+  - "Éphésiens 6"
 ---
 ## Jésus-Christ est le même hier – Aujourd’hui et éternellement
 

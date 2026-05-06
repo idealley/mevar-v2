@@ -41,6 +41,10 @@ mevar_match:
   title: "L’Univers de la révélation (1)"
   similarity: 0.559
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
+  - "1 Jean 4"
 ---
 # L’Univers de la révélation 1
 

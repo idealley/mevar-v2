@@ -37,6 +37,29 @@ themes:
   - "jugement"
 pdf_url: "http://le-scribe.org/pdfiles/wmbch23.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 5:8"
+  - "2 Pierre 3:3"
+  - "2 Rois 13:14"
+  - "2 Samuel 12:1"
+  - "2 Samuel 7:3"
+  - "2 Timothée 1:15"
+  - "Actes 2:20"
+  - "Apocalypse 15"
+  - "Daniel 2:31"
+  - "Deutéronome 18:20"
+  - "Exode 20:19"
+  - "Genèse 18"
+  - "Genèse 24:11"
+  - "Hébreux 4:12"
+  - "Jean 5:17,19"
+  - "Joël 1:1"
+  - "Joël 2:31"
+  - "Luc 3:15"
+  - "Matthieu 24:29"
+  - "Matthieu 25:21,23"
+  - "Matthieu 26:29"
+  - "Ésaïe 13:10"
 ---
 **CHAPITRE VINGT-TROIS**
 

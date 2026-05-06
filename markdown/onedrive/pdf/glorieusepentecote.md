@@ -45,6 +45,10 @@ themes:
   - "Sortie de Babylone"
   - "Chambre haute"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2"
+  - "Actes 2:1-20"
+  - "Hébreux 12:25"
 ---
 *Glorieuse Pentecôte, prêché le dimanche 18 Janvier 2009 à Koumassi, par le frère M’BRA Parfait*
 

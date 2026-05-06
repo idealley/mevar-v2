@@ -36,6 +36,18 @@ themes:
   - "Autorité prophétique"
 pdf_url: "http://le-scribe.org/pdfiles/wmbch20.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 1:16"
+  - "Apocalypse 1:7"
+  - "Apocalypse 5:1"
+  - "Apocalypse 6:1"
+  - "Hébreux 4:12"
+  - "Jean 12:23"
+  - "Luc 12:56"
+  - "Matthieu 16:3"
+  - "Matthieu 24:30,31"
+  - "Philippiens 6:17"
+  - "Psaumes 1"
 ---
 **CHAPITRE VINGT**
 

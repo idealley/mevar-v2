@@ -39,6 +39,25 @@ themes:
   - "amour de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/550724Esprit-seduction.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "1 Jean 4:20"
+  - "1 Rois 21:17"
+  - "1 Rois 22"
+  - "1 Rois 22:9"
+  - "2 Samuel 6:14"
+  - "Actes 2:38"
+  - "Daniel 4:33"
+  - "Galates 5:22"
+  - "Jean 17:17"
+  - "Jean 17:19"
+  - "Luc 14:31"
+  - "Luc 15:8"
+  - "Marc 10:13"
+  - "Marc 11:22,24"
+  - "Psaumes 126:5,6"
+  - "Psaumes 51:19"
+  - "Ésaïe 6:7"
 ---
 Résumé de!: “Esprits séducteurs ou Parole de Dieu” (24 juillet 1955, matin)
 

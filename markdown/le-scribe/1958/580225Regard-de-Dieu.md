@@ -39,6 +39,15 @@ themes:
   - "Colonne de Feu"
 pdf_url: "http://le-scribe.org/pdfiles/580225Regard-de-Dieu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 13:3"
+  - "Jean 14:12"
+  - "Jean 15:5"
+  - "Jean 5:19"
+  - "Jean 8:58"
+  - "Psaumes 32"
 ---
 *Résumé de : "Le regard de Dieu" (25 février 1958, soir)*
 

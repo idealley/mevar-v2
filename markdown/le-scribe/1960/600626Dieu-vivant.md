@@ -46,6 +46,33 @@ themes:
   - "foi et œuvres"
 pdf_url: "http://le-scribe.org/pdfiles/600626Dieu-vivant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 12:3"
+  - "1 Corinthiens 2:1"
+  - "Actes 19"
+  - "Actes 2:38"
+  - "Apocalypse 17:5"
+  - "Apocalypse 3:1"
+  - "Exode 4:8"
+  - "Galates 1:8"
+  - "Genèse 1:28"
+  - "Jacques 2:18"
+  - "Jean 10:34-36"
+  - "Jean 14:20"
+  - "Jean 4:14"
+  - "Jean 5:46"
+  - "Jean 6"
+  - "Jean 6:37"
+  - "Job 19:25-26"
+  - "Luc 21:33"
+  - "Matthieu 16:19,18"
+  - "Matthieu 5:6"
+  - "Philippiens 4:6"
+  - "Romains 8:30"
+  - "Romains 9:16"
+  - "Ésaïe 28:11"
+  - "Ésaïe 6:8"
 ---
 **1.** Je dois être cet après-midi aux obsèques de l’épouse de mon cousin Henry Branham à Breedings, Kentucky, à 250 km d’ici. Demain je pars à Tulsa, Oklahoma. Nous serons de retour pour samedi. Nous partirons avec la famille le dimanche suivant vers l’Ouest, et nous serons de retour en automne. Que l’église prie pour moi.
 

@@ -39,6 +39,9 @@ mevar_match:
   title: "La dernière prière des saints"
   similarity: 0.567
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 22"
+  - "Ésaïe 62"
 ---
 ## LA DERNIERE PRIERE DES SAINTS
 

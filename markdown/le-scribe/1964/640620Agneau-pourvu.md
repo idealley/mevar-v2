@@ -36,6 +36,14 @@ themes:
   - "reconnaissance spirituelle"
 pdf_url: "http://le-scribe.org/pdfiles/640620Agneau-pourvu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 4:8-37"
+  - "Actes 2:38-39"
+  - "Deutéronome 18:15"
+  - "Jean 14:12"
+  - "Jean 15:5"
+  - "Josué 5:13-15"
+  - "Marc 10:46"
 ---
 **Résumé de!: "Dieu a pourvu un Agneau" (20 juin 1964, soir)**
 

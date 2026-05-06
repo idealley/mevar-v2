@@ -46,6 +46,29 @@ themes:
   - "Persévérance"
   - "Amour du monde"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 4"
+  - "1 Corinthiens 4:8-14"
+  - "1 Thessaloniciens 3:6-8"
+  - "2 Corinthiens 11:23-33"
+  - "2 Corinthiens 1:7"
+  - "2 Corinthiens 7:4"
+  - "2 Corinthiens 7:6-7"
+  - "2 Thessaloniciens 3:10"
+  - "2 Timothée 1:16"
+  - "2 Timothée 4:10"
+  - "Aggée 2:4"
+  - "Exode 29:40"
+  - "Jean 6:27"
+  - "Luc 12:16-21"
+  - "Luc 12:22-34"
+  - "Marc 2:22"
+  - "Nombres 15:8-10"
+  - "Philippiens 2:12"
+  - "Philippiens 2:17"
+  - "Romains 12:1-2"
+  - "Ésaïe 55"
+  - "Ésaïe 55:2"
 ---
 *Exhortation de Juin 2009*
 

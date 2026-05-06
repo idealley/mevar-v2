@@ -41,6 +41,10 @@ mevar_match:
   title: "Le sort de Caïn"
   similarity: 0.62
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 3"
+  - "Hébreux 11"
+  - "Ésaïe 53"
 ---
 *Le sort de Caïn, prêché le dimanche 13 février 2013 à Abidjan Koumassi, par le frère M'BRA Parfait*
 

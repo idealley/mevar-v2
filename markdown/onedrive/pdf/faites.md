@@ -31,6 +31,27 @@ themes:
   - "Fruit de l'Esprit"
   - "Hypocrisie"
 llm_cleaned: true
+bible_refs:
+  - "Colossiens 1:16"
+  - "Joël 2:17-27"
+  - "Luc 10:25-37"
+  - "Luc 3:11"
+  - "Luc 3:8-14"
+  - "Lévitique 19:13-14"
+  - "Lévitique 19:15"
+  - "Lévitique 19:16-18"
+  - "Lévitique 19:19"
+  - "Lévitique 19:23-25"
+  - "Lévitique 19:26-31"
+  - "Lévitique 19:32-33"
+  - "Lévitique 19:35-36"
+  - "Lévitique 19:37"
+  - "Lévitique 19:9-10"
+  - "Lévitique 19:9-37"
+  - "Matthieu 21:18"
+  - "Matthieu 23:23"
+  - "Matthieu 25:33-46"
+  - "Matthieu 5:22"
 ---
 ## FAITES-VOUS UN CŒUR NOUVEAU ET UN ESPRIT NOUVEAU, POURQUOI MOURRIEZ-VOUS MAISON D’ISRAËL ?
 

@@ -36,6 +36,30 @@ themes:
   - "jugement"
 pdf_url: "http://le-scribe.org/pdfiles/600608Conferences.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:9"
+  - "1 Timothée 3:16"
+  - "Actes 19:2"
+  - "Actes 1:4,1"
+  - "Actes 2:38-39"
+  - "Actes 3:6"
+  - "Actes 4:25-30"
+  - "Actes 4:31"
+  - "Apocalypse 22:17"
+  - "Exode 12:13"
+  - "Jacques 4:8"
+  - "Jean 14:20"
+  - "Jean 5:24"
+  - "Marc 12:8"
+  - "Marc 16:17-18"
+  - "Matthieu 10:32"
+  - "Matthieu 16:19"
+  - "Matthieu 18:6"
+  - "Psaumes 105:15"
+  - "Psaumes 116:15"
+  - "Ésaïe 1:16"
+  - "Ésaïe 35:8"
+  - "Ézéchiel 9:4"
 ---
 **Résumé de “Tenir des conférences” (le 8 juin 1960)**
 

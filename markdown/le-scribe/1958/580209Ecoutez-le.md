@@ -36,6 +36,23 @@ themes:
   - "Obéissance à la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/580209Ecoutez-le.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:20,21"
+  - "1 Jean 2:15"
+  - "2 Samuel 6:14-16"
+  - "Actes 2:22"
+  - "Apocalypse 19:9,17"
+  - "Jean 12:2,13"
+  - "Jean 14:14"
+  - "Jean 14:2"
+  - "Jérémie 16:23"
+  - "Luc 11:38"
+  - "Luc 14:16,22"
+  - "Marc 15:30"
+  - "Marc 6:21"
+  - "Marc 9:42,16"
+  - "Matthieu 17:1"
+  - "Romains 8:1,9"
 ---
 Résumé de : “Ecoutez-le” (9 février 1958, après-midi)
 

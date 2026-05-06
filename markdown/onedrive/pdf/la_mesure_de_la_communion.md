@@ -29,6 +29,17 @@ themes:
   - "Persévérance dans la prière"
   - "Justice de Dieu"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 9:6"
+  - "2 Rois 4:1-7"
+  - "Apocalypse 22"
+  - "Galates 6:7-8"
+  - "Luc 6"
+  - "Marc 12"
+  - "Marc 12:41-44"
+  - "Matthieu 25:10"
+  - "Psaumes 126:5-6"
+  - "Ésaïe 33:14-16"
 ---
 La Mesure de la Communion
 

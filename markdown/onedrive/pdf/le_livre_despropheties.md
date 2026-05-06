@@ -38,6 +38,18 @@ themes:
   - "Iniquité dans l'Église"
   - "Sagesse prophétique"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 1:19"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 16"
+  - "Jérémie 36"
+  - "Jérémie 36:1"
+  - "Jérémie 5"
+  - "Jérémie 7"
+  - "Luc 17"
+  - "Luc 21"
+  - "Malachie 4:5"
+  - "Marc 13"
 ---
 Le livre des prophéties de Dieu, prêché le dimanche 03 février 2013
 par le frère M’BRA Parfait à Koumassi

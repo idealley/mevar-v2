@@ -36,6 +36,17 @@ themes:
   - "obstacles de la théologie"
 pdf_url: "http://le-scribe.org/pdfiles/550113Fondement-foi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Colossiens 2:9"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
+  - "Jean 14:19"
+  - "Jean 15:5"
+  - "Jean 15:7"
+  - "Jean 1:1,14"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Marc 16:17"
 ---
 **Résumé de!: “Le fondement essentiel de la foi” (13 janvier 1955, soir)**
 

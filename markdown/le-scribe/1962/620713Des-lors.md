@@ -37,6 +37,21 @@ themes:
   - "rejet du raisonnement"
 pdf_url: "http://le-scribe.org/pdfiles/620713Des-lors.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:10"
+  - "2 Pierre 2:22"
+  - "Jean 14:2"
+  - "Jean 5:19"
+  - "Jean 6:37"
+  - "Jean 6:54"
+  - "Josué 1:3"
+  - "Luc 1:35"
+  - "Marc 10:46-53"
+  - "Marc 1:40,41"
+  - "Marc 5:1-20"
+  - "Matthieu 4:17"
+  - "Romains 3:4"
+  - "Romains 4:20"
 ---
 **Résumé de!: “Dès ce moment” (13 juillet 1962, soir)**
 

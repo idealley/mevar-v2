@@ -44,6 +44,29 @@ themes:
   - "vision prophétique"
 pdf_url: "http://le-scribe.org/pdfiles/640705Chef-oeuvre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:17"
+  - "Apocalypse 10:7"
+  - "Apocalypse 3:20"
+  - "Daniel 2:34-35"
+  - "Exode 33:23"
+  - "Genèse 3:15"
+  - "Jean 12:24"
+  - "Jean 14:9"
+  - "Jean 1:1"
+  - "Joël 2:25"
+  - "Luc 17:28,30"
+  - "Malachie 3:6"
+  - "Malachie 4:5"
+  - "Malachie 4:6"
+  - "Marc 9:7"
+  - "Romains 1:17"
+  - "Romains 8:28"
+  - "Zacharie 14:7"
+  - "Éphésiens 5:27"
+  - "Ésaïe 53:1"
+  - "Ésaïe 53:3,7"
+  - "Ésaïe 53:4-5"
 ---
 **Résumé de!: “Le chef-d'œuvre” (5 juillet 1964, après-midi)**
 

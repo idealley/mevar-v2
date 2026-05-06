@@ -31,6 +31,17 @@ themes:
   - "Obéissance à la Parole"
   - "Sodome et Gomorrhe"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 5"
+  - "1 Corinthiens 5:1-9"
+  - "1 Corinthiens 7"
+  - "2 Corinthiens 12"
+  - "2 Corinthiens 12:20-21"
+  - "Genèse 38"
+  - "Genèse 38:6-11"
+  - "Juges 19"
+  - "Matthieu 18"
 ---
 ## La femme étrangère
 

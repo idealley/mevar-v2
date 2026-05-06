@@ -37,6 +37,10 @@ themes:
   - "prière"
   - "délivrance"
 llm_cleaned: true
+bible_refs:
+  - "Jérémie 7"
+  - "Matthieu 26"
+  - "Zacharie 12"
 ---
 Les pleurs de la délivrance
 

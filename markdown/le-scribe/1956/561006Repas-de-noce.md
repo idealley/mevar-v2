@@ -47,6 +47,18 @@ themes:
   - "signe du Messie"
 pdf_url: "http://le-scribe.org/pdfiles/561006Repas-de-noce.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 12:1-2"
+  - "Jean 14:2"
+  - "Jean 5:19"
+  - "Jean 6:44"
+  - "Matthieu 22:12-14"
+  - "Matthieu 22:4"
+  - "Matthieu 24:37"
+  - "Psaumes 1"
+  - "Romains 3:4"
+  - "Romains 8:30"
+  - "Zacharie 14:7"
 ---
 Résumé de : “Un repas de noces” (6 octobre1956)
 

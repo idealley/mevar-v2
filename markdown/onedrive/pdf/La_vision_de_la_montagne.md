@@ -35,6 +35,9 @@ themes:
   - "Soumission à Dieu"
   - "Construction spirituelle"
 llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 28"
+  - "Matthieu 24"
 ---
 ## La vision de la montagne
 

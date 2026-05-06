@@ -35,6 +35,23 @@ themes:
   - "retour à la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/630724Avert-Jugemt.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:51-55"
+  - "1 Jean 3:2"
+  - "1 Rois 21:19,22"
+  - "1 Rois 21:23,2"
+  - "1 Rois 22:1-28"
+  - "2 Chroniques 32:24-26,2"
+  - "2 Timothée 4:8"
+  - "Actes 2:38-39"
+  - "Genèse 15:13-16"
+  - "Jean 5:24"
+  - "Luc 17:26-27"
+  - "Marc 11:23"
+  - "Romains 8:28"
+  - "Ésaïe 11:9,65"
+  - "Ésaïe 38:1"
+  - "Ésaïe 65:21-22"
 ---
 **1.** J'apprécie toutes ces sœurs ici, vêtues décemment, les cheveux longs. Ce matin j'ai été informé que le frère Dauch, âgé de 91 ans, venait de tomber, et qu'il respirait à peine. J'ai prié au pied de mon lit. J'ai pu prendre contact avec cet esprit, et il est revenu à la vie.
 

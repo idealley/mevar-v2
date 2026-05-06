@@ -38,6 +38,13 @@ mevar_match:
   title: "Démonstration d'Esprit et de Puissance"
   similarity: 0.692
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:3-5"
+  - "Hébreux 11:1-2"
+  - "Jacques 2:14-22"
+  - "Marc 5"
+  - "Marc 5:25-34"
+  - "Ésaïe 55:1-2"
 ---
 ## Démonstration d'Esprit et de Puissance
 

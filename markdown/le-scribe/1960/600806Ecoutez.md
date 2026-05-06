@@ -44,6 +44,30 @@ themes:
   - "la manifestation des fils de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/600806Ecoutez.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 13:1"
+  - "Actes 2:39"
+  - "Actes 2:45"
+  - "Hébreux 11"
+  - "Hébreux 11:4"
+  - "Hébreux 13:8"
+  - "Jean 10:34-36"
+  - "Jean 10:37-38"
+  - "Jean 14:12"
+  - "Jean 14:2"
+  - "Jean 15:7"
+  - "Jérémie 8:22"
+  - "Luc 19:40"
+  - "Luc 3:5"
+  - "Matthieu 11:28"
+  - "Matthieu 17:1-7"
+  - "Matthieu 23:12"
+  - "Matthieu 5:13"
+  - "Matthieu 5:41"
+  - "Psaumes 114:4,6"
+  - "Romains 8:19"
+  - "Ésaïe 1:18"
+  - "Ésaïe 53:5"
 ---
 **1.** [Prière et actions de grâces] … nous avons appris qu’il y a eu des guérisons au cours des jours précédents. Une tumeur a disparu, et des gens ont été guéris après application de mouchoirs. Deux ou trois personnes venues en fauteuils roulants se sont senties mieux une fois revenues chez elles, et marchaient un ou deux jours plus tard … [Prière sur des mouchoirs et pour la suite de la réunion] …
 

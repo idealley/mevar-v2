@@ -66,6 +66,23 @@ mevar_match:
   title: "L'esprit babylonien"
   similarity: 0.569
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 12"
+  - "2 Rois 17"
+  - "Actes 1"
+  - "Actes 16:5-7"
+  - "Apocalypse 17"
+  - "Apocalypse 18"
+  - "Apocalypse 3:14"
+  - "Apocalypse 4:7"
+  - "Apocalypse 6"
+  - "Daniel 3"
+  - "Daniel 4:29-33"
+  - "Galates 3:1-3"
+  - "Genèse 11"
+  - "Jérémie 51:6"
+  - "Luc 17"
+  - "Matthieu 25:5"
 ---
 ## L'ESPRIT BABYLONIEN
 

@@ -41,6 +41,10 @@ themes:
   - "puissance du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/490718Desobeissant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 5:19"
+  - "Matthieu 4:23-24"
+  - "Ésaïe 53:5"
 ---
 **1.** [Prière]. Je remercie Dieu qui vient juste de guérir une jeune fille qui souffrait terriblement, et qui demandait seulement un contact de ma main. Elle a été guérie instantanément. Lisons Matthieu 4:23-24
 > “Jésus parcourait toute la Galilée, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple. – Sa renommée se répandit dans toute la Syrie, et on lui amenait tous ceux qui souffraient de maladies et de douleurs de divers genres, des démoniaques, des lunatiques, des paralytiques ; et il les guérissait”.

@@ -39,6 +39,15 @@ themes:
   - "signes des temps"
 pdf_url: "http://le-scribe.org/pdfiles/560420Yeux-ouverts.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 13:20"
+  - "Jean 14:10"
+  - "Jean 5:19"
+  - "Luc 24:31"
+  - "Matthieu 25:40"
+  - "Néhémie 6"
 ---
 **Résumé de : "Quand leurs yeux furent ouverts" (20 avril 1956)**
 

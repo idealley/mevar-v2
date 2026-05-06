@@ -42,6 +42,27 @@ themes:
   - "Ministère"
   - "Unité du Corps de Christ"
 llm_cleaned: true
+bible_refs:
+  - "Actes 9:36-42"
+  - "Apocalypse 3:14"
+  - "Esther 6:1-3"
+  - "Galates 2:16"
+  - "Jacques 2:14"
+  - "Jacques 2:17-18"
+  - "Jacques 2:20-26"
+  - "Jean 15"
+  - "Jean 3:16"
+  - "Luc 6:31-36"
+  - "Malachie 3:16"
+  - "Matthieu 20"
+  - "Matthieu 24:14"
+  - "Matthieu 25:6"
+  - "Nombres 18:6"
+  - "Philippiens 2:3-8"
+  - "Proverbes 12:4"
+  - "Romains 12:5-15"
+  - "Tite 1:16"
+  - "Tite 2:6-8"
 ---
 ## Tabitha, Servante du Seigneur Jésus-Christ
 

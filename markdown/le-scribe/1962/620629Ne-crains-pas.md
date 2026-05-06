@@ -59,6 +59,18 @@ themes:
   - "la restauration de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/620629Ne-crains-pas.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4-5"
+  - "2 Rois 20:1-11"
+  - "Hébreux 4:15"
+  - "Jean 14:12"
+  - "Jean 1:48"
+  - "Jean 5:19"
+  - "Joël 1:4"
+  - "Luc 10:19"
+  - "Luc 17:28-30"
+  - "Luc 8:40-56"
+  - "Matthieu 14:22"
 ---
 *Résumé de!: “N’ayez pas peur, c’est Moi” (29 juin 1962, soir)*
 

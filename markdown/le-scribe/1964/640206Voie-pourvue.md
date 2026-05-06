@@ -43,6 +43,21 @@ themes:
   - "rejet des traditions"
 pdf_url: "http://le-scribe.org/pdfiles/640206Voie-pourvue.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "1 Corinthiens 14:8"
+  - "2 Rois 5"
+  - "Deutéronome 11:24"
+  - "Genèse 15:13-14"
+  - "Genèse 1:11"
+  - "Genèse 22:7-8"
+  - "Jacques 2:19"
+  - "Jean 14:12"
+  - "Job 19:25,26"
+  - "Josué 1:3"
+  - "Luc 17:28"
+  - "Philippiens 3:10"
+  - "Psaumes 1:3"
 ---
 **Résumé de!: “La voie de Dieu pourvue en ce jour” (6 février 1964, soir)**
 

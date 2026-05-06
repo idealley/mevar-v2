@@ -42,6 +42,22 @@ themes:
   - "Pentecôte"
 pdf_url: "http://le-scribe.org/pdfiles/591125Commencement.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "Actes 2:39"
+  - "Apocalypse 22:17"
+  - "Genèse 5:22"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
+  - "Jean 14:19"
+  - "Jean 15:5"
+  - "Jean 5:19"
+  - "Luc 17:30"
+  - "Luc 21:33"
+  - "Marc 7:13"
+  - "Matthieu 15:9"
+  - "Matthieu 16:18"
+  - "Matthieu 19:8"
 ---
 “Il n’en était pas ainsi au commencement” (25 novembre 1959)
 

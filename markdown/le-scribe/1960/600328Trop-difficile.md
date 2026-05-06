@@ -36,6 +36,11 @@ themes:
   - "Foi et attente"
 pdf_url: "http://le-scribe.org/pdfiles/600328Trop-difficile.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 18:14"
+  - "Hébreux 12:1-2"
+  - "Marc 8:18"
+  - "Romains 8:28"
 ---
 **1.** [Cantique. Prière] …
 

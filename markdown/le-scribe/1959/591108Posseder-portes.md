@@ -43,6 +43,24 @@ themes:
   - "victoire sur l'ennemi"
 pdf_url: "http://le-scribe.org/pdfiles/591108Posseder-portes.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55"
+  - "1 Jean 1:7"
+  - "1 Pierre 1:7"
+  - "Deutéronome 18:15-19"
+  - "Genèse 22:15"
+  - "Genèse 22:17"
+  - "Genèse 24:56"
+  - "Jean 14:13"
+  - "Jean 16:16"
+  - "Jean 1:43"
+  - "Jean 1:46-52"
+  - "Jean 4:6-30"
+  - "Jean 5:19"
+  - "Jean 6:44"
+  - "Marc 16:17"
+  - "Nombres 14"
+  - "Nombres 24:9"
 ---
 *Résumé de!: “Possédant les portes de l'ennemi” (8 novembre 1959, matin)*
 

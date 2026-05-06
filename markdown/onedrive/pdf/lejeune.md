@@ -36,6 +36,16 @@ themes:
   - "Réveil"
   - "Intercession"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15"
+  - "1 Corinthiens 2"
+  - "Daniel 9:3"
+  - "Esther 4:3"
+  - "Joël 2:13"
+  - "Matthieu 11:21"
+  - "Matthieu 25:6"
+  - "Osée 6"
+  - "Ésaïe 58:5"
 ---
 ## Pourquoi jeûner ?
 

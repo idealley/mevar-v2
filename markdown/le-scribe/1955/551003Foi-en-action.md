@@ -42,6 +42,13 @@ themes:
   - "persévérance"
 pdf_url: "http://le-scribe.org/pdfiles/551003Foi-en-action.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:3"
+  - "2 Rois 13:14-19"
+  - "Jacques 4:3"
+  - "Jean 14:10"
+  - "Jean 14:13"
+  - "Romains 4:19-21"
 ---
 **LA FOI EN ACTION**
 

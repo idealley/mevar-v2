@@ -48,6 +48,28 @@ themes:
   - "Parole de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/621230aAbsolu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "1 Rois 21"
+  - "1 Rois 22"
+  - "2 Rois 4:8-37"
+  - "Actes 23:11"
+  - "Actes 26:15-20"
+  - "Actes 2:27"
+  - "Actes 2:38"
+  - "Amos 3:7"
+  - "Jean 11:25"
+  - "Jean 14:12"
+  - "Jean 14:26"
+  - "Jean 5:19"
+  - "Jean 8:46"
+  - "Job 19:25"
+  - "Juges 17:6"
+  - "Luc 7:11-17"
+  - "Malachie 3:1"
+  - "Malachie 4"
+  - "Psaumes 16:10"
+  - "Romains 4:20"
 ---
 **Résumé de!: “L’Absolu” (30 décembre 1962, matin)**
 

@@ -43,6 +43,31 @@ themes:
   - "discernement des esprits"
 pdf_url: "http://le-scribe.org/pdfiles/620728Voie-pourvue.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "2 Timothée 3:8"
+  - "Actes 1:8"
+  - "Deutéronome 18:15"
+  - "Genèse 22:7-8"
+  - "Hébreux 13:8"
+  - "Hébreux 4:12"
+  - "Hébreux 4:15"
+  - "Jean 10:37"
+  - "Jean 12:32"
+  - "Jean 14:12"
+  - "Jean 4"
+  - "Jean 5:39"
+  - "Job 14:7"
+  - "Job 19:25"
+  - "Job 19:25,26"
+  - "Joël 2:25"
+  - "Luc 17:28,30"
+  - "Luc 7:39"
+  - "Malachie 4"
+  - "Marc 3:29"
+  - "Romains 1:16"
+  - "Zacharie 14:7"
+  - "Ésaïe 35:8"
 ---
 *Dieu a pourvu un Chemin* (28 juillet 1962, soir)
 

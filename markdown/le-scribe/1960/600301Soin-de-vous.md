@@ -37,6 +37,26 @@ themes:
   - "Témoignage personnel"
 pdf_url: "http://le-scribe.org/pdfiles/600301Soin-de-vous.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:29"
+  - "1 Corinthiens 14:23-25"
+  - "1 Jean 2:15"
+  - "1 Pierre 5:5"
+  - "Actes 2:38-39"
+  - "Hébreux 10"
+  - "Hébreux 10:26-27"
+  - "Hébreux 11:10"
+  - "Jean 14:1"
+  - "Jean 14:16"
+  - "Jean 14:19"
+  - "Jean 14:26"
+  - "Jean 14:26,16"
+  - "Jean 15:26"
+  - "Jean 16:13"
+  - "Matthieu 24:35"
+  - "Matthieu 4:9"
+  - "Psaumes 23:4"
+  - "Zacharie 14:7"
 ---
 **1.** *Lui-même prend soin de vous* (1er mars 1960)
 

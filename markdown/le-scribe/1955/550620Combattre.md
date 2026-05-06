@@ -37,6 +37,11 @@ themes:
   - "autorité spirituelle"
 pdf_url: "http://le-scribe.org/pdfiles/550620Combattre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 13:8"
+  - "Jean 5:19"
+  - "Jude 3"
+  - "Marc 6:5-6"
 ---
 **1.** Lisons Jude 3 :
 > "Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes."

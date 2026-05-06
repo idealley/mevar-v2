@@ -39,6 +39,21 @@ themes:
   - "Purification par l'Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/620204Communion.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:23-33"
+  - "1 Rois 21:19,22"
+  - "Apocalypse 21:6"
+  - "Galates 2:20"
+  - "Hébreux 12:1-2"
+  - "Jean 10:4-5"
+  - "Jean 14:27"
+  - "Jean 15:7"
+  - "Jean 4:20"
+  - "Jean 6:47-59"
+  - "Jean 6:54"
+  - "Jean 6:57"
+  - "Proverbes 18:10"
+  - "Ésaïe 40:2"
 ---
 **Résumé de!: “Communion” [4 février 1962, soir]**
 

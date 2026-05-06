@@ -26,6 +26,8 @@ themes:
   - "Grâce"
   - "Combat spirituel"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12"
 ---
 ## Parler en langue traduit du dimanche 03 novembre 2014
 

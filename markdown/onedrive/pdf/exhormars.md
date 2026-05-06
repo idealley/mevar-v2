@@ -36,6 +36,16 @@ themes:
   - "Message de minuit"
   - "Faux réveil"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 5:19"
+  - "1 Thessaloniciens 4:3"
+  - "2 Corinthiens 7:1"
+  - "Apocalypse 3:14-22"
+  - "Apocalypse 3:7-13"
+  - "Daniel 10:13"
+  - "Galates 3:1-5"
+  - "Matthieu 25"
+  - "Psaumes 60"
 ---
 ## LE MESSAGE DE LA SANCTIFICATION
 

@@ -46,6 +46,30 @@ themes:
   - "Présence de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/570115Dieu_garde.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3"
+  - "2 Timothée 3:8"
+  - "Actes 19"
+  - "Actes 2:13"
+  - "Actes 2:15-16"
+  - "Apocalypse 22:18-19"
+  - "Deutéronome 23:24-25"
+  - "Genèse 37:20-22"
+  - "Hébreux 13:8"
+  - "Hébreux 3:1"
+  - "Jean 12:35"
+  - "Jean 14:12"
+  - "Jean 14:14"
+  - "Jean 5:19"
+  - "Jude 4"
+  - "Luc 24:49"
+  - "Luc 6:1"
+  - "Matthieu 18:19"
+  - "Matthieu 18:20"
+  - "Matthieu 8"
+  - "Matthieu 8:17"
+  - "Éphésiens 4:30"
+  - "Ésaïe 9:6"
 ---
 **1.** Nous sommes heureux d’être au service d’un tel Roi dans cette petite église qui n’arbore pas un nom de dénomination mais un titre : “Eglise pour tous, porte ouverte, maison de prière”. Cela ne veut pas dire qu’elle est pire ou meilleure que les autres églises. Le directeur d’un Institut luthérien de Minneapolis m’a écrit une lettre incendiaire de 22 pages. Il avait bravé une tempête de neige pour aller m’écouter, et “n’avait vu qu’un diseur de bonne aventure, à la théologie défaillante, et prétendant que le diable ne guérissait pas.” Il ajoutait que si j’avais 25 ans de ministère, il prêchait déjà avant que je ne vienne au monde.
 

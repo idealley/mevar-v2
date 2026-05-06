@@ -46,6 +46,15 @@ themes:
   - "acceptation personnelle du salut"
 pdf_url: "http://le-scribe.org/pdfiles/520720Qui-a-cru.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:12"
+  - "Actes 3:6"
+  - "Actes 5:15"
+  - "Jean 1:49"
+  - "Jean 5:19"
+  - "Matthieu 8:17"
+  - "Ésaïe 53"
+  - "Ésaïe 53:1"
 ---
 **“Qui a cru notre à ce qui nous était annoncé ?” (20.07.1952)**
 

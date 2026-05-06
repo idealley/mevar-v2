@@ -42,6 +42,20 @@ themes:
   - "rejet des dénominations"
 pdf_url: "http://le-scribe.org/pdfiles/570807Ecoutez.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 17:2"
+  - "1 Corinthiens 14:23-25"
+  - "1 Corinthiens 15:6"
+  - "Actes 1:4,8"
+  - "Actes 2:38-39"
+  - "Exode 15:26"
+  - "Jean 10:4-5"
+  - "Jean 14"
+  - "Malachie 3:10"
+  - "Matthieu 16:28"
+  - "Matthieu 17:1"
+  - "Psaumes 37:23"
+  - "Romains 1:16"
 ---
 Résumé de : “Ecoutez-le” (7.08.1957)
 

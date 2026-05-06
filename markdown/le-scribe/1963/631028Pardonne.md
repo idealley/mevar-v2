@@ -43,6 +43,26 @@ themes:
   - "sincérité"
 pdf_url: "http://le-scribe.org/pdfiles/631028Pardonne.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Samuel 6:12-23"
+  - "2 Timothée 3:1-5"
+  - "Actes 2:39"
+  - "Genèse 3:7"
+  - "Hébreux 10:1-2"
+  - "Jean 11:25"
+  - "Jean 14:12"
+  - "Jean 3:14"
+  - "Jean 3:5"
+  - "Jean 6:44"
+  - "Jean 7:37-39"
+  - "Jean 8:44"
+  - "Luc 8:52"
+  - "Psaumes 126:6"
+  - "Romains 8:1,4"
+  - "Romains 8:28"
+  - "Romains 8:29"
+  - "Ésaïe 1:11"
+  - "Ésaïe 53:5"
 ---
 **Résumé de!: “Etre pardonné” (28 Octobre 1963)**
 

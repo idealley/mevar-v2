@@ -40,6 +40,13 @@ themes:
   - "Résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/560816Oeuvres-SE.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 15:17"
+  - "Genèse 17"
+  - "Genèse 18"
+  - "Genèse 18:14"
+  - "Psaumes 37:25"
+  - "Romains 4:17"
 ---
 **1.** Demain soir, ce sera la fin de cette courte campagne. Ces réunions sont ouvertes à tous. Quand Jacob, harcelé par les Philistins, a creusé un troisième puits, il l'a appelé : “Il y a de la place pour tous.” C'est le genre de puits où nous buvons ce soir. Comme le dit un vieux cantique, “il y a une place pour moi à la Source.” Mais ne perdons pas de temps, car il me faudrait des années pour raconter tout ce que le Seigneur a fait.
 

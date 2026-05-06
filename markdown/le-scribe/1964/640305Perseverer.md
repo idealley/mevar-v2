@@ -46,6 +46,32 @@ themes:
   - "l'Église des derniers jours"
 pdf_url: "http://le-scribe.org/pdfiles/640305Perseverer.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:10,14"
+  - "1 Rois 22:1-28"
+  - "2 Rois 4:30"
+  - "2 Rois 4:8-37"
+  - "2 Timothée 3:8"
+  - "Exode 7:10-12"
+  - "Genèse 18:12-15"
+  - "Genèse 1:11-12"
+  - "Genèse 32:26"
+  - "Jean 11:1-46"
+  - "Jean 11:21-22"
+  - "Jean 11:35"
+  - "Jean 14:12"
+  - "Jean 14:13"
+  - "Jean 1:26"
+  - "Jean 1:42"
+  - "Jean 4:1-42"
+  - "Jean 5:19"
+  - "Jean 9"
+  - "Juges 15:14-15"
+  - "Jérémie 1:5"
+  - "Luc 18:1-8"
+  - "Luc 8:43-48"
+  - "Matthieu 15:21-28"
+  - "Ésaïe 40:3"
 ---
 **Résumé de!: “Persévérer” (5 mars 1964, soir)**
 

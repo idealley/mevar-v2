@@ -37,6 +37,30 @@ themes:
   - "Présence du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/620609Pression.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "Actes 2:38"
+  - "Actes 4:12"
+  - "Colossiens 3:17"
+  - "Deutéronome 18:15-19"
+  - "Exode 12:13"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 14:12"
+  - "Jean 14:12,19,20"
+  - "Jean 15:16,16"
+  - "Jean 15:5"
+  - "Jean 15:7"
+  - "Jean 5:24"
+  - "Josué 20"
+  - "Luc 19:40"
+  - "Malachie 4:2"
+  - "Marc 16:17-18"
+  - "Marc 5:25-34"
+  - "Proverbes 18:10"
+  - "Zacharie 14:7"
+  - "Ésaïe 32:1-2"
+  - "Ésaïe 32:2"
 ---
 *Relâcher la pression* (9 juin 1962, soir)
 

@@ -42,6 +42,17 @@ themes:
   - "présence de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/580125Reine-Saba.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 10:1-10"
+  - "2 Rois 2:12"
+  - "Daniel 8:27"
+  - "Hébreux 12:1"
+  - "Jean 10:37"
+  - "Jean 14:12,16"
+  - "Jean 6:44"
+  - "Jean 8:44"
+  - "Jonas 4:3"
+  - "Matthieu 12:42"
 ---
 **1.** [Prière]. Nous sommes en retard à cause de la neige. Vous êtes venus malgré le mauvais temps car l'Evangile du Seigneur Jésus attire les gens. Demain, dimanche matin, vous serez les bienvenus dans n'importe laquelle des églises représentées par ces pasteurs sur l'estrade. Demain après-midi, je donnerai un message d'évangélisation. Nous ne voulons pas vous distraire de votre travail dans votre église, mais aider cette église à grandir. Nous prierons donc pour les malades le soir, et vous pourrez donc venir après avoir demandé la permission de votre pasteur.
 

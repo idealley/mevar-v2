@@ -45,6 +45,22 @@ themes:
   - "le même hier, aujourd'hui et éternellement"
 pdf_url: "http://le-scribe.org/pdfiles/631130Appeler-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:22"
+  - "Hébreux 13:8"
+  - "Jacques 4:2"
+  - "Jean 10:37-38"
+  - "Jean 11:25"
+  - "Jean 14:12"
+  - "Jean 14:16-20"
+  - "Jean 3:2"
+  - "Jean 5:39"
+  - "Jean 6:60-62"
+  - "Jean 7:46"
+  - "Luc 17:28"
+  - "Marc 4:35-41"
+  - "Matthieu 28:20"
+  - "Romains 10:17"
 ---
 **Résumé de!: “Aller réveiller Jésus” (30 novembre 1963 soir)**
 

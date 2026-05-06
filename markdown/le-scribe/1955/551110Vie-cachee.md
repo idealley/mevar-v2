@@ -40,6 +40,10 @@ themes:
   - "Unité du Corps de Christ"
 pdf_url: "http://le-scribe.org/pdfiles/551110Vie-cachee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38-39"
+  - "Hébreux 10:19-20"
+  - "Ésaïe 28:10"
 ---
 **1.** [Chant par Einar Ekberg]. Ekberg et Waermo viennent de Scandinavie. Cette réunion a été planifiée en Allemagne, où nous avons reçu un accueil chaleureux. Nous sommes allés aussi en Suisse, un morceau d'Allemagne. Des dizaines de milliers de gens sont venus. J'ai connu autrefois des réunions de guérison où il n'y avait plus un seul malade. Les premiers jours, j'essaie de conduire les gens à ce qui est nécessaire. Je ne suis pas instruit, mais, si je ne connais pas bien la Bible, j'en connais l'Auteur. L'Amérique a eu de nombreuses occasions, mais la situation empire, et je suis inquiet. J'aimerais voir un grand réveil, et chacun a son rôle à jouer.
 

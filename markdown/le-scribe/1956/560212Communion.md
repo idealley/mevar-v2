@@ -35,6 +35,14 @@ themes:
   - "Unité des croyants"
 pdf_url: "http://le-scribe.org/pdfiles/560212Communion.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 3:15"
+  - "Hébreux 10:1-10"
+  - "Hébreux 4:12"
+  - "Jean 10:27,5"
+  - "Matthieu 11:28"
+  - "Nombres 19:1-9"
+  - "Psaumes 103"
 ---
 **1.** C'est une joie d'être dans la Maison de l'Eternel pour communier et servir le Roi. La neige n'a pas facilité mon voyage hier. Je suis heureux de voir que dans cette ville ceux qui sont appelés par Son Nom se réunissent, car Dieu entend alors les prières. C'est la seule façon d'avoir un réveil. J'ai entendu deux pasteurs mettre en doute les miracles de Jésus, et ils pensaient qu'il s'agissait sans doute d'une action psychique. Mais tous les deux croyaient au miracle du salut qui est bien au-dessus de toute guérison.
 

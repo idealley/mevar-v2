@@ -38,6 +38,18 @@ themes:
   - "puissance de Dieu"
   - "délivrance"
 llm_cleaned: true
+bible_refs:
+  - "2 Samuel 23:8"
+  - "Apocalypse 12"
+  - "Apocalypse 12:7-12"
+  - "Apocalypse 17"
+  - "Apocalypse 17:9-14"
+  - "Daniel 10"
+  - "Exode 3:1-4"
+  - "Exode 4"
+  - "Joël 3:9-10"
+  - "Luc 22:39-53"
+  - "Nombres 17"
 ---
 ## Le bâton de Dieu
 

@@ -31,6 +31,12 @@ themes:
   - "Jérusalem céleste"
   - "Pentecôte"
 llm_cleaned: true
+bible_refs:
+  - "Actes 3:19-21"
+  - "Michée 2:10"
+  - "Ésaïe 62"
+  - "Ésaïe 62:1-4"
+  - "Ésaïe 62:6-7"
 ---
 ## Persévérez dans la prière et l'intercession
 

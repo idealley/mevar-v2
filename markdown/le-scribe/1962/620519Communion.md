@@ -39,6 +39,13 @@ themes:
   - "Séparation du monde"
 pdf_url: "http://le-scribe.org/pdfiles/620519Communion.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 1:7"
+  - "2 Pierre 1:20"
+  - "Hébreux 13:12"
+  - "Jacques 5:11"
+  - "Job 19:25-27"
+  - "Nombres 19"
 ---
 *19 mai 1962, samedi soir, Green Lake (Wisconsin)*
 

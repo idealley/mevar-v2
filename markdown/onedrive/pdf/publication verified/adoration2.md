@@ -52,6 +52,17 @@ themes:
   - "Unité de l'Eglise"
   - "Réveil spirituel"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 4:9"
+  - "Actes 9"
+  - "Galates 1:11-12"
+  - "Genèse 22"
+  - "Genèse 28"
+  - "Genèse 35"
+  - "Juges 13"
+  - "Juges 6:11-24"
+  - "Matthieu 24:45"
+  - "Éphésiens 1:15-18"
 ---
 L’ADORATION PAR LA REVELATION
 

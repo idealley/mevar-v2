@@ -42,6 +42,20 @@ themes:
   - "jugement"
 pdf_url: "http://le-scribe.org/pdfiles/550311Sceau-antichrist.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "1 Jean 4:3"
+  - "1 Samuel 25:29"
+  - "2 Corinthiens 5:19"
+  - "Apocalypse 14:11"
+  - "Colossiens 2:9"
+  - "Exode 21:5-6"
+  - "Galates 5:22"
+  - "Hébreux 10:26-27"
+  - "Jean 17:12"
+  - "Matthieu 24:24"
+  - "Matthieu 7:22"
+  - "Romains 1:16"
 ---
 **1.** [Prière]. Depuis notre dernière rencontre, le Seigneur a fait des choses glorieuses au cours de nos déplacements, des guérisons et des conversions. Je viens de saluer le fils du Dr. Keeford. Dix réunions sont prévues, et nous remettons tout au Seigneur. Elles sont soutenues par les Hommes d'Affaires du Plein Evangile, la seule organisation dont je fasse partie. Je travaille dans les Affaires du Seigneur ! J'appartiens aussi à la Pastorale de Louisville et à d'autres petites choses, mais pas à une dénomination, car nous sommes tous frères.
 

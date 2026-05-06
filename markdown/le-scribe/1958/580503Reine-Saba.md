@@ -32,6 +32,20 @@ themes:
   - "jugement"
 pdf_url: "http://le-scribe.org/pdfiles/580503Reine-Saba.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "1 Rois 10:1-10"
+  - "1 Rois 8:38-39"
+  - "2 Rois 4"
+  - "Hébreux 3:1"
+  - "Hébreux 4:15"
+  - "Jean 11:21"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Jean 6:44"
+  - "Jean 8:44"
+  - "Marc 11:24"
+  - "Matthieu 12:42"
 ---
 *La reine de Saba* (3 mai 1958, soir)
 

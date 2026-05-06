@@ -42,6 +42,26 @@ themes:
   - "unité de la Parole et de l'Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/570307Dieu-garde-B.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 22"
+  - "Actes 20:27"
+  - "Actes 20:29-30"
+  - "Actes 5:36"
+  - "Actes 8:37"
+  - "Galates 1:8"
+  - "Jean 13:19"
+  - "Jean 14:12"
+  - "Jean 16:13,14"
+  - "Jean 1:23"
+  - "Jean 20:29"
+  - "Jean 2:19"
+  - "Jean 5:24"
+  - "Jérémie 33:11"
+  - "Luc 24:25"
+  - "Matthieu 24:27"
+  - "Matthieu 24:35"
+  - "Matthieu 3:2"
+  - "Romains 9:22,1"
 ---
 Résumé de : “ Dieu est fidèle à sa Parole - 2” (7.03.1957)
 

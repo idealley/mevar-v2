@@ -47,6 +47,28 @@ themes:
   - "la fin de l'âge des Nations"
 pdf_url: "http://le-scribe.org/pdfiles/631112Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:1,4-5"
+  - "2 Corinthiens 3:3"
+  - "2 Corinthiens 5:18"
+  - "Actes 4:13"
+  - "Deutéronome 18:15"
+  - "Deutéronome 18:22"
+  - "Genèse 19:11"
+  - "Genèse 20:2"
+  - "Hébreux 13:8"
+  - "Hébreux 4:12"
+  - "Jean 12:20-21"
+  - "Jean 14:12"
+  - "Jean 14:26"
+  - "Jean 1:42"
+  - "Jean 1:45-50"
+  - "Jean 5:19"
+  - "Jean 5:39"
+  - "Jean 6:44"
+  - "Jean 8:44"
+  - "Luc 17:28"
+  - "Romains 14:17"
 ---
 **Résumé de!: “Nous voudrions voir Jésus” (12 novembre 1963, soir)**
 

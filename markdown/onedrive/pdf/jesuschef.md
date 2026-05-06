@@ -40,6 +40,12 @@ themes:
   - "Révélation et illumination"
   - "Service dévoué"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 11:15"
+  - "Jacques 2:6-7"
+  - "Jean 6"
+  - "Luc 13:32"
+  - "Matthieu 20"
 ---
 Jésus-Christ le Chef, prêché le dimanche 7 Août 2011 par le frère M’BRA Parfait à Koumassi
 

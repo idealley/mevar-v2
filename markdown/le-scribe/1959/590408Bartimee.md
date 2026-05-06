@@ -37,6 +37,16 @@ themes:
   - "accomplissement des promesses"
 pdf_url: "http://le-scribe.org/pdfiles/590408Bartimee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 14:9"
+  - "Deutéronome 11:24"
+  - "Josué 1:3"
+  - "Josué 5:14"
+  - "Luc 11:13"
+  - "Luc 18:1-8"
+  - "Luc 18:37-38"
+  - "Marc 10:46-53"
+  - "Psaumes 103"
 ---
 **“L’aveugle Bartimée” (8 avril 1959)**
 

@@ -51,6 +51,31 @@ themes:
   - "fin des temps"
 pdf_url: "http://le-scribe.org/pdfiles/600221Entendre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "1 Rois 18:16-40"
+  - "1 Rois 22"
+  - "Daniel 2"
+  - "Deutéronome 15:12-17"
+  - "Exode 21:1-6"
+  - "Exode 3:5"
+  - "Genèse 15:13"
+  - "Hébreux 10:26-28"
+  - "Hébreux 11:4"
+  - "Hébreux 13:8"
+  - "Hébreux 6:6"
+  - "Jean 10:4"
+  - "Jean 3:3"
+  - "Jean 5:19"
+  - "Jean 6:44"
+  - "Luc 17:26-27"
+  - "Luc 17:28"
+  - "Lévitique 25"
+  - "Romains 1:16"
+  - "Romains 4:22-26"
+  - "Romains 9:11"
+  - "Zacharie 14:7"
+  - "Éphésiens 4:30"
 ---
 **Résumé de!: “Entendre, reconnaître, mettrre en œuvre la Parole de Dieu” (21 février 1960, matin)**
 

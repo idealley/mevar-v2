@@ -43,6 +43,10 @@ themes:
   - "Mort et résurrection"
   - "Distraction de Satan"
 llm_cleaned: true
+bible_refs:
+  - "Actes 17"
+  - "Apocalypse 3:14"
+  - "Esther 14"
 ---
 *Le culte des Athéniens, prêché le Lundi 28 Septembre 2009 à l’Assemblée de Mamayemo, Kinshasa (RDC) par le frère M’BRA Parfait*
 

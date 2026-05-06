@@ -45,6 +45,31 @@ mevar_match:
   title: "Plusieurs me diront : Seigneur ! Seigneur !"
   similarity: 0.55
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 5:1"
+  - "2 Timothée 2:12"
+  - "Actes 5:33-41"
+  - "Aggée 1:3-11"
+  - "Apocalypse 20:6"
+  - "Apocalypse 22:1-5"
+  - "Apocalypse 5:11-13"
+  - "Job 38"
+  - "Job 38:1-2"
+  - "Luc 12:47-48"
+  - "Luc 16:10-13"
+  - "Luc 3:16"
+  - "Luc 6:46"
+  - "Matthieu 21:28-31"
+  - "Matthieu 25"
+  - "Matthieu 25:21-23"
+  - "Matthieu 6:9-10"
+  - "Matthieu 7"
+  - "Matthieu 7:21"
+  - "Matthieu 7:22"
+  - "Ésaïe 55:10-11"
+  - "Ésaïe 62"
+  - "Ésaïe 62:1"
+  - "Ésaïe 62:6-7"
 ---
 ## Plusieurs me diront : Seigneur ! Seigneur !
 

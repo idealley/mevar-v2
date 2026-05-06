@@ -43,6 +43,16 @@ themes:
   - "Surnaturel dans l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/510414Anges&pulls.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 4:2-3"
+  - "1 Samuel 9"
+  - "2 Timothée 3:12"
+  - "Actes 12:7"
+  - "Deutéronome 18:21-22"
+  - "Hébreux 6:4-6"
+  - "Jean 14:12"
+  - "Jean 2:48"
+  - "Jean 5:19"
 ---
 **L'ANGE ET LES TROIS "PULLS"**
 *THE ANGEL AND THREE PULLS*

@@ -41,6 +41,11 @@ themes:
   - "Réveil de Matthieu 25:6"
   - "Obéissance à la Parole"
 llm_cleaned: true
+bible_refs:
+  - "Luc 18"
+  - "Matthieu 24:45"
+  - "Matthieu 25"
+  - "Matthieu 25:6"
 ---
 ## Le choix de Dieu
 

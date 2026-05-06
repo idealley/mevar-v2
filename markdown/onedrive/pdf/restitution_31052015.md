@@ -48,6 +48,9 @@ mevar_match:
   title: "La restitution"
   similarity: 0.685
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 6"
+  - "Joël 1:1-15"
 ---
 La restitution, prêchée le dimanche 31 Mai 2015 à Koumassi par le frère M'BRA Parfait
 

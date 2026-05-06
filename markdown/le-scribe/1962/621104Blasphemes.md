@@ -40,6 +40,26 @@ themes:
   - "Interprétation des songes"
 pdf_url: "http://le-scribe.org/pdfiles/621104Blasphemes.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Jean 3:9"
+  - "1 Timothée 2:13"
+  - "2 Pierre 1:5-7"
+  - "2 Timothée 4"
+  - "2 Timothée 4:9,16"
+  - "Actes 13:11"
+  - "Apocalypse 17:1-3"
+  - "Apocalypse 22:16"
+  - "Hébreux 11:40"
+  - "Jean 10:34"
+  - "Jean 14:10,11,20"
+  - "Jean 15:5"
+  - "Jean 20:20-22"
+  - "Jean 3:1-13"
+  - "Jean 6:44,37"
+  - "Jean 8:46,10"
+  - "Éphésiens 1:5"
+  - "Éphésiens 4:30"
 ---
 **Résumé de!: “Des noms de blasphème” (4 Novembre 1962, matin)**
 

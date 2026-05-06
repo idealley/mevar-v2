@@ -43,6 +43,15 @@ themes:
   - "Guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/591121Ta-semence.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55,57"
+  - "Apocalypse 20:6"
+  - "Genèse 18:9"
+  - "Genèse 22:15"
+  - "Genèse 24:56"
+  - "Hébreux 11:33"
+  - "Matthieu 11:23"
+  - "Ésaïe 53:5"
 ---
 “Ta postérité possédera la porte de ses ennemis” (21 novembre 1959)
 

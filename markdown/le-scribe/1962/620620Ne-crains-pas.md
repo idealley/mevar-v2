@@ -45,6 +45,25 @@ themes:
   - "le rejet du Messie par les Juifs et l'acceptation par les Samaritains"
 pdf_url: "http://le-scribe.org/pdfiles/620620Ne-crains-pas.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 10:35"
+  - "Deutéronome 18:15"
+  - "Genèse 18"
+  - "Hébreux 4:15"
+  - "Jean 10:37-38"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 14:13"
+  - "Jean 1:48"
+  - "Jean 4:10"
+  - "Jean 5:19"
+  - "Jean 8:57-58"
+  - "Joël 1:4"
+  - "Luc 17:28-30"
+  - "Marc 16:17-18"
+  - "Marc 5:25-34"
+  - "Matthieu 14:22"
+  - "Zacharie 14:7"
 ---
 **Résumé de!: “N’ayez pas peur” (20 juin 1962, soir)**
 

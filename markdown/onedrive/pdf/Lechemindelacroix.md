@@ -35,6 +35,8 @@ themes:
   - "Vie éternelle"
   - "Discipulat"
 llm_cleaned: true
+bible_refs:
+  - "Matthieu 11"
 ---
 ## Le chemin de la croix
 

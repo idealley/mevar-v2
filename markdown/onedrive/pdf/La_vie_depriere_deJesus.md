@@ -43,6 +43,17 @@ themes:
   - "Prière ordinaire"
   - "Prière de puissance"
 llm_cleaned: true
+bible_refs:
+  - "Job 33"
+  - "Luc 11"
+  - "Luc 11:1-13"
+  - "Luc 5"
+  - "Luc 6:12"
+  - "Luc 9:18"
+  - "Luc 9:22-36"
+  - "Malachie 3:16"
+  - "Marc 1"
+  - "Osée 2"
 ---
 # La vie de prière de Jésus
 

@@ -49,6 +49,29 @@ themes:
   - "rejet des traditions"
 pdf_url: "http://le-scribe.org/pdfiles/620124Moi-qui-tenvoie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 4:12"
+  - "1 Rois 18:19-40"
+  - "2 Corinthiens 3:3"
+  - "2 Rois 2:14"
+  - "2 Rois 4"
+  - "Actes 1:8"
+  - "Actes 3:6"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
+  - "Job 9:9,38"
+  - "Jonas 2:5"
+  - "Joël 2:28"
+  - "Juges 6:12-14"
+  - "Juges 6:21"
+  - "Juges 6:7-10"
+  - "Marc 16:15"
+  - "Marc 16:17"
+  - "Psaumes 9:10"
+  - "Romains 6:23"
+  - "Ésaïe 28:19"
+  - "Ésaïe 40:31"
+  - "Ésaïe 55:11"
 ---
 **Résumé de!: “N’est-ce pas moi qui t’envoie!?” (24 janvier 1962, soir)**
 

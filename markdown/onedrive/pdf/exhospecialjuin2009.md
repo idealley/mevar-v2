@@ -47,6 +47,20 @@ themes:
   - "Sortie de la caverne"
   - "Vengeance divine"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 16:30-33"
+  - "1 Rois 18:36-40"
+  - "1 Rois 19:1-5"
+  - "1 Rois 19:5-8"
+  - "1 Rois 19:9-18"
+  - "2 Rois 9:23-26"
+  - "2 Rois 9:7-10"
+  - "Apocalypse 17"
+  - "Apocalypse 17:1-6"
+  - "Apocalypse 18:6-7"
+  - "Apocalypse 3:14-22"
+  - "Luc 17"
+  - "Malachie 4:5-6"
 ---
 ## LA DESOLATION D'ELIE
 

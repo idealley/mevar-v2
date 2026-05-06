@@ -45,6 +45,30 @@ mevar_match:
   title: "La repentance"
   similarity: 0.535
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 2:22"
+  - "1 Timothée 4"
+  - "Actes 10:43"
+  - "Actes 19"
+  - "Actes 19:1-6"
+  - "Actes 2:38"
+  - "Hébreux 10"
+  - "Hébreux 3"
+  - "Hébreux 6"
+  - "Jacques 5:16"
+  - "Jean 16"
+  - "Jean 4"
+  - "Lamentations 13"
+  - "Marc 3:29"
+  - "Matthieu 13:22"
+  - "Nombres 25"
+  - "Romains 11"
+  - "Romains 2"
+  - "Ruth 1"
+  - "Ruth 1:15-19"
+  - "Tite 3"
+  - "Ésaïe 53"
+  - "Ésaïe 53:4-6"
 ---
 ## La repentance
 

@@ -37,6 +37,23 @@ themes:
   - "vie de Christ en nous"
 pdf_url: "http://le-scribe.org/pdfiles/631222Dons-appropries.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Samuel 23:13-17"
+  - "Hébreux 13:8"
+  - "Jean 10:34-36"
+  - "Jean 10:37"
+  - "Jean 12:1-8"
+  - "Jean 14:12"
+  - "Jean 19:39"
+  - "Jean 1:14"
+  - "Jean 20:21"
+  - "Jean 3:16"
+  - "Jean 5:19"
+  - "Luc 17:26"
+  - "Lévitique 2:1-2"
+  - "Matthieu 26:6-13"
+  - "Matthieu 2:1-12"
+  - "Romains 12:1"
 ---
 **1.** Quand un sujet de prédication me vient à l'esprit, je le note aussitôt sur un carnet, et plus tard je l'utilise. J'ai ainsi reçu le thème de ce soir il y a peu de temps au Colorado.
 

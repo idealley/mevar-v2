@@ -37,6 +37,26 @@ mevar_match:
   title: "Le semeur de minuit"
   similarity: 0.612
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 3:16-17"
+  - "1 Pierre 2:20-24"
+  - "1 Pierre 5:6-8"
+  - "2 Corinthiens 11:26-28"
+  - "2 Corinthiens 6:16"
+  - "Amos 3:4-8"
+  - "Amos 8"
+  - "Amos 8:11"
+  - "Apocalypse 13"
+  - "Colossiens 2:9-10"
+  - "Hébreux 5:5-10"
+  - "Jacques 5:10-11"
+  - "Jean 14"
+  - "Jean 14:23-24"
+  - "Luc 21:34"
+  - "Matthieu 13:3-9"
+  - "Matthieu 6"
+  - "Proverbes 24"
+  - "Proverbes 24:30-34"
 ---
 ## LE SEMEUR DE MINUIT
 

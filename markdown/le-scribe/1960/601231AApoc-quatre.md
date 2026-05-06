@@ -34,6 +34,25 @@ themes:
   - "Fidélité de Dieu à ses promesses"
 pdf_url: "http://le-scribe.org/pdfiles/601231AApoc-quatre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 1:21"
+  - "2 Corinthiens 12:2"
+  - "Actes 2:38"
+  - "Apocalypse 19:7"
+  - "Apocalypse 19:7-9"
+  - "Apocalypse 1:10"
+  - "Apocalypse 3:8"
+  - "Apocalypse 4"
+  - "Apocalypse 4:1"
+  - "Apocalypse 4:2"
+  - "Apocalypse 4:3"
+  - "Jean 10:7"
+  - "Jean 21:22"
+  - "Jean 7:2-5"
+  - "Matthieu 16"
+  - "Philippiens 3:14"
+  - "Ésaïe 40:3"
 ---
 Résumé de!: “Apocalypse, chapitre quatre – première partie” (31 décembre 1960, soir)
 

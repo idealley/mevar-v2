@@ -53,6 +53,12 @@ mevar_match:
   title: "Le vœux de Jephté"
   similarity: 0.65
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12"
+  - "Apocalypse 4"
+  - "Apocalypse 6"
+  - "Juges 11"
+  - "Nombres 30"
 ---
 ## Le vœu de Jephté
 

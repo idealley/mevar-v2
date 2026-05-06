@@ -43,6 +43,17 @@ themes:
   - "Présence du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/620725Plus-que-Salomon.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "1 Rois 10:1-13"
+  - "1 Rois 10:8"
+  - "1 Rois 8:38"
+  - "2 Rois 2:24"
+  - "Jean 3:16"
+  - "Jonas 2:5"
+  - "Marc 7:13"
+  - "Matthieu 12:41"
+  - "Psaumes 103:3"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (25 juillet 1962, soir)*
 

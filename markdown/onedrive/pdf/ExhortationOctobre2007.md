@@ -44,6 +44,15 @@ themes:
   - "Unité de l'Église"
   - "Réveil"
 llm_cleaned: true
+bible_refs:
+  - "2 Samuel 15"
+  - "2 Timothée 2:3-4"
+  - "Jean 6:53-71"
+  - "Josué 10:1-5"
+  - "Luc 10:1"
+  - "Luc 9:1"
+  - "Matthieu 25:5"
+  - "Ésaïe 30:26"
 ---
 ## LA VISION DE L'EPOUSE
 

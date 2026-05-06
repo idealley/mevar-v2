@@ -48,6 +48,20 @@ themes:
   - "persévérance des saints"
 pdf_url: "http://le-scribe.org/pdfiles/560404Infaillibilite.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 7:56-57"
+  - "Exode 15:26"
+  - "Genèse 28:12"
+  - "Jacques 2:21"
+  - "Jean 14:13"
+  - "Jean 1:50"
+  - "Jean 6:37"
+  - "Jean 6:44"
+  - "Matthieu 17:5"
+  - "Romains 4:3"
+  - "Romains 8:30"
+  - "Ésaïe 28:16"
+  - "Ésaïe 40:3"
 ---
 **1.** [Prière]. J'ai tout mélangé ce matin avec une mauvaise indication du lieu de la réunion, mais sans conséquences. Je ne suis pas digne des compliments qui m'ont été adressés en introduction. Je ne suis qu'un serviteur du Seigneur. Nous sommes heureux d'avoir un Dieu capable de nous bénir. Qu'en serait-il si nous n'avions pas un Père céleste ? Nous devrions être toujours heureux. Dieu ne veut pas que vous soyez triste. Un mauvais caractère est horrible. Cela provoque le cancer. 60% des maladies viennent de là. C'est vous qui paierez. Restez joyeux.
 

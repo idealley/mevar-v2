@@ -42,6 +42,21 @@ themes:
   - "prière pour les malades"
 pdf_url: "http://le-scribe.org/pdfiles/600713Bartimee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:23"
+  - "Actes 19"
+  - "Exode 4:8"
+  - "Jacques 5:16"
+  - "Jean 5:19"
+  - "Jean 6:44,37"
+  - "Jérémie 1:4"
+  - "Luc 18:37-38"
+  - "Luc 19:40"
+  - "Marc 9:23"
+  - "Matthieu 18:20"
+  - "Proverbes 14:12"
+  - "Romains 4:20"
+  - "Ésaïe 53:5"
 ---
 **Résumé de : "L'aveugle Bartimée" (le 13 juillet 1960)**
 

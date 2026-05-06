@@ -35,6 +35,21 @@ themes:
   - "La victoire sur l'ennemi"
 pdf_url: "http://le-scribe.org/pdfiles/640207Abraham.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 15:22"
+  - "Actes 19:22"
+  - "Genèse 18:13"
+  - "Genèse 22:15"
+  - "Hébreux 4:15"
+  - "Jacques 4:7"
+  - "Jean 15:7"
+  - "Jean 5:19"
+  - "Josué 10"
+  - "Marc 3:29"
+  - "Marc 5:30"
+  - "Nombres 13"
+  - "Proverbes 14:12"
+  - "Romains 8:37"
 ---
 *Le patriarche Abraham* (7 février 1964, soir)
 

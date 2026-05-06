@@ -48,6 +48,16 @@ themes:
   - "autorité de Christ"
 pdf_url: "http://le-scribe.org/pdfiles/580329Vainqueur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55"
+  - "2 Rois 6:15-17"
+  - "Apocalypse 6:1"
+  - "Daniel 2:34"
+  - "Marc 5:9"
+  - "Psaumes 24:7"
+  - "Psaumes 24:8"
+  - "Psaumes 34:8"
+  - "Romains 8:37"
 ---
 **1.** [Prière]. C’est le dernier jour où nous vendons nos enregistrements, car nous ne vendons rien le dimanche par principe. Mr. Mercier et Goad se chargent de la vente. Ils avaient mené une enquête pour savoir si les visions se produisaient aussi chez moi. Vous n’en voyez ici qu’une petite partie, et c’est le résultat de votre foi, mais, quand je suis à la maison ou à la pêche, c’est Dieu qui agit. Quant aux livres écrits par Lindsay et Stadsklev, nous ne sommes que des intermédiaires. Les pasteurs qui coopèrent avec nous seront heureux de vous accueillir demain dans leurs églises.
 

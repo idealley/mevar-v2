@@ -40,6 +40,11 @@ themes:
   - "promesse"
 pdf_url: "http://le-scribe.org/pdfiles/510930Expectation.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jude 4"
+  - "Luc 17:26"
+  - "Luc 2:25-30"
+  - "Matthieu 4:23"
 ---
 **1 à 7**- Comme souvent, je dois partir avant que les résultats de cette campagne ne soient manifestés. Merci pour cette offrande. Mais je ne la mérite pas, et je n’en demande jamais. Notre famille vit modestement, et cela nous suffit. Tout sera utilisé pour les missions à l’étranger. [W.M. Branham présente à l’auditoire son épouse Meda, sa fille Rebekah, née le 21 mars 1946, son fils Billy Paul, né le 13 septembre 1935]. J’ai laissé Sarah [née le 19 mars 1951] à la maison. Priez pour eux pendant que je serai en Afrique. J’ai prié pour que Dieu guérisse partout dans l’auditoire en ce dernier soir, et je crois qu’il va le faire. Il a toujours répondu à mes prières sincères. Prier pour des motifs égoïstes ne servirait à rien.
 

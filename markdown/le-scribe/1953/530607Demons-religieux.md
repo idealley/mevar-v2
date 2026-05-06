@@ -42,6 +42,27 @@ themes:
   - "jugement et miséricorde"
 pdf_url: "http://le-scribe.org/pdfiles/530607Demons-religieux.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:30"
+  - "1 Corinthiens 14:31"
+  - "1 Corinthiens 5:5"
+  - "1 Rois 13"
+  - "1 Samuel 19:23"
+  - "1 Samuel 28"
+  - "Actes 11:27,28,21"
+  - "Deutéronome 24:4"
+  - "Genèse 12"
+  - "Hébreux 13:8"
+  - "Hébreux 6"
+  - "Jacques 2:19"
+  - "Jean 5:24"
+  - "Lévitique 20:6"
+  - "Marc 13:22"
+  - "Marc 1:24"
+  - "Marc 5:7"
+  - "Nombres 16"
+  - "Romains 11:29"
+  - "Éphésiens 4:8"
 ---
 **1.** [Prière].
 

@@ -40,6 +40,23 @@ themes:
   - "écouter Jésus seul"
 pdf_url: "http://le-scribe.org/pdfiles/580328Ecoutez-le.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "2 Pierre 1:20"
+  - "2 Rois 1:10,12"
+  - "Actes 2:22"
+  - "Galates 4"
+  - "Hébreux 13:8"
+  - "Jean 13:35"
+  - "Jean 14:14"
+  - "Jean 14:2"
+  - "Jean 5:19"
+  - "Jérémie 16:23"
+  - "Luc 8:51"
+  - "Marc 15:30"
+  - "Marc 9:42,16"
+  - "Matthieu 17:1"
+  - "Ézéchiel 9:4"
 ---
 *Résumé de : “Ecoutez-le” (28 mars 1958, soir)*
 

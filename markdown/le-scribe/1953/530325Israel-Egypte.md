@@ -36,6 +36,27 @@ themes:
   - "Alliance inconditionnelle"
 pdf_url: "http://le-scribe.org/pdfiles/530325Israel-Egypte.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:5"
+  - "2 Timothée 3:8"
+  - "Actes 7"
+  - "Apocalypse 13:11"
+  - "Genèse 12:1"
+  - "Genèse 15:7"
+  - "Genèse 45"
+  - "Jean 17:12"
+  - "Jean 17:17"
+  - "Jean 3:5"
+  - "Jean 6:37,54"
+  - "Jude 4"
+  - "Luc 10:20"
+  - "Luc 22:32"
+  - "Nombres 19:2"
+  - "Romains 4:11"
+  - "Romains 9:11,12"
+  - "Romains 9:15,16"
+  - "Romains 9:6-7"
+  - "Romains 9:9"
 ---
 *Israël en Egypte* (25 mars 1953, soir)
 

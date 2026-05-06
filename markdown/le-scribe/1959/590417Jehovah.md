@@ -39,6 +39,24 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/590417Jehovah.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:24-25"
+  - "2 Chroniques 7:14"
+  - "2 Pierre 2:8"
+  - "Genèse 19:22"
+  - "Genèse 20:17-18"
+  - "Genèse 21:17"
+  - "Genèse 22:14"
+  - "Genèse 22:18"
+  - "Genèse 22:5"
+  - "Genèse 23:1"
+  - "Genèse 24"
+  - "Genèse 25:1-2"
+  - "Hébreux 11:19"
+  - "Jean 5:24"
+  - "Matthieu 7:9-10"
+  - "Romains 4:20"
+  - "Ésaïe 9:6"
 ---
 **1.** [Prière] … Il a dit : “Si mon peuple sur qui est invoqué mon nom se rassemble et prie, je l'exaucerai des cieux” [cf. 2 Chroniques 7:14]. Quelle promesse !
 

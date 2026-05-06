@@ -50,6 +50,32 @@ mevar_match:
   title: "La révolte de Shéba"
   similarity: 0.67
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:49"
+  - "1 Corinthiens 5:13"
+  - "1 Jean 2:15"
+  - "1 Jean 5:19"
+  - "2 Corinthiens 3:18"
+  - "2 Corinthiens 5:17"
+  - "2 Pierre 1:1-9"
+  - "2 Pierre 1:5-9"
+  - "2 Samuel 20:1"
+  - "2 Samuel 20:1-2"
+  - "2 Samuel 20:14-15"
+  - "2 Samuel 20:16-19"
+  - "2 Samuel 20:20-22"
+  - "2 Samuel 20:4-7"
+  - "Apocalypse 12"
+  - "Colossiens 1:15"
+  - "Genèse 1:26-27"
+  - "Genèse 5:3"
+  - "Hébreux 10:25-29"
+  - "Jacques 1:23-25"
+  - "Luc 16:13"
+  - "Matthieu 16:26"
+  - "Romains 8"
+  - "Romains 8:29"
+  - "Ésaïe 62:1"
 ---
 ## LA REVOLTE DE SCHEBA
 

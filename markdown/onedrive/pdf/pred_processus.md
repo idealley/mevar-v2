@@ -56,6 +56,23 @@ themes:
   - "Noces de l'Agneau"
   - "Règne millénaire"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 11"
+  - "Apocalypse 11:3-4"
+  - "Apocalypse 12:6"
+  - "Daniel 9"
+  - "Daniel 9:26-27"
+  - "Luc 17"
+  - "Luc 19:41-44"
+  - "Luc 21"
+  - "Luc 21:29-31"
+  - "Marc 13"
+  - "Matthieu 24"
+  - "Matthieu 24:14"
+  - "Matthieu 25"
+  - "Zacharie 14"
+  - "Zacharie 7:14"
+  - "Ésaïe 65:25"
 ---
 ## Le processus de la fin des temps
 

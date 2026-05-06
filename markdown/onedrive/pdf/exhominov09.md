@@ -43,6 +43,9 @@ themes:
   - "Comparaison à Jésus"
   - "Unité de l'Église"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 4"
+  - "1 Timothée 4:12-16"
 ---
 ## Le manteau de l'humilité
 

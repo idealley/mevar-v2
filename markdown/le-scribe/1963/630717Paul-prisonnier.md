@@ -42,6 +42,24 @@ themes:
   - "derniers jours"
 pdf_url: "http://le-scribe.org/pdfiles/630717Paul-prisonnier.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 2:22"
+  - "Actes 14:8-9"
+  - "Actes 16:16-18"
+  - "Actes 22:9"
+  - "Actes 27:23-26"
+  - "Actes 9:1-22,22"
+  - "Actes 9:16"
+  - "Actes 9:7"
+  - "Exode 4:10"
+  - "Galates 1:10"
+  - "Galates 1:17-18"
+  - "Genèse 37:5-10"
+  - "Genèse 41:14"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Marc 11:23"
+  - "Matthieu 13:45-46"
 ---
 **Résumé de!: “Paul, prisonnier de Christ” (17 juillet 1963 soir)**
 

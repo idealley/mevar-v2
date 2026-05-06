@@ -36,6 +36,14 @@ mevar_match:
   title: "Approchez-vous de Dieu et Il s’approchera de vous"
   similarity: 0.57
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 9:24"
+  - "Apocalypse 11"
+  - "Luc 16:15"
+  - "Luc 17"
+  - "Luc 17:7-10"
+  - "Matthieu 22"
+  - "Matthieu 25"
 ---
 Hier soir, nous avons prêché sur la place publique et ce matin, nous nous retrouvons pour écouter encore la parole de Dieu. Je crois que nous sommes déjà engagés dans la marche de la foi ; et Dieu a toujours une parole à adresser à ceux qui sont déjà engagés dans la marche. Dieu nous parle frères et sœurs, et il est important qu’on écoute la parole de Dieu. Et c’est en écoutant la parole de Dieu qu’on peut mieux L’adorer. C’est quand notre intelligence s’ouvre, qu’on peut mieux comprendre la parole de Dieu. Aussi, quand nous avons compris la parole, il faut l’appliquer à notre cœur. Nous allons lire dans Jacques chapitre 4. Ce matin, je voudrais nous parler de notre manière de nous approcher de Dieu.
 

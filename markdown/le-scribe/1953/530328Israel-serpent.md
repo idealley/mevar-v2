@@ -32,6 +32,31 @@ themes:
   - "séparation de l'église organisée"
 pdf_url: "http://le-scribe.org/pdfiles/530328Israel-serpent.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18"
+  - "2 Rois 4:38-41"
+  - "Actes 2:18-19"
+  - "Actes 2:38,39"
+  - "Apocalypse 3:14-22"
+  - "Genèse 3:14"
+  - "Hébreux 13:8"
+  - "Jean 3:14"
+  - "Jean 5:24"
+  - "Jean 6:37"
+  - "Jean 6:44"
+  - "Jean 6:54"
+  - "Marc 16:16"
+  - "Nombres 13"
+  - "Nombres 13:1,2"
+  - "Nombres 13:27"
+  - "Nombres 14:13-19"
+  - "Nombres 20:1"
+  - "Nombres 21:5"
+  - "Nombres 21:5-9"
+  - "Romains 8:1"
+  - "Romains 8:30"
+  - "Ésaïe 38:1-8"
+  - "Ésaïe 53:5"
 ---
 **1.** ISRAEL ET L'EGLISE - 4 : ISRAEL DEVANT LE SERPENT D'AIRAIN (ou ISRAEL A KADES BARNEA)
 

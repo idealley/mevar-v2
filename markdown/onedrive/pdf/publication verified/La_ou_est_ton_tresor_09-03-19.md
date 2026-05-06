@@ -42,6 +42,10 @@ mevar_match:
   title: "Là où est ton trésor, là aussi sera ton cœur"
   similarity: 0.629
 llm_cleaned: true
+bible_refs:
+  - "Luc 13"
+  - "Malachie 4"
+  - "Matthieu 24:12"
 ---
 *Là où est ton trésor, là aussi sera ton cœur - 1, prêché le 9 Mars 2019 à Kouassikro par le frère M'BRA Parfait*
 

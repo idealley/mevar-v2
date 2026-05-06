@@ -35,6 +35,13 @@ themes:
   - "Combat spirituel"
   - "Veille et prière"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 5:8"
+  - "Jacques 5:16-18"
+  - "Luc 21:36"
+  - "Marc 14:38"
+  - "Marc 9"
+  - "Matthieu 17"
 ---
 ## LA POSITION DU JUSTE DANS LA PRIERE EFFICACE
 

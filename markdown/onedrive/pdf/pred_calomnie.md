@@ -37,6 +37,16 @@ themes:
   - "responsabilité"
   - "jugement de Dieu"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 17:1"
+  - "Colossiens 3:15"
+  - "Exode 23"
+  - "Lévitique 19"
+  - "Lévitique 19:16"
+  - "Malachie 4"
+  - "Nombres 12:2"
+  - "Romains 3:8"
+  - "Éphésiens 4:31"
 ---
 Les calomnies
 

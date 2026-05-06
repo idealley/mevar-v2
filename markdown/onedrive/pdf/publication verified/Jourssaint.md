@@ -42,6 +42,13 @@ mevar_match:
   title: "Aux Jours du Saint-Esprit"
   similarity: 0.529
 llm_cleaned: true
+bible_refs:
+  - "Actes 19"
+  - "Actes 19:1-5"
+  - "Jean 14"
+  - "Luc 18"
+  - "Luc 9:58"
+  - "Matthieu 25:6"
 ---
 ## AUX JOURS DU SAINT-ESPRIT
 

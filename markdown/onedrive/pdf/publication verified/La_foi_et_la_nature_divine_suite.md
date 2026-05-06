@@ -46,6 +46,16 @@ mevar_match:
   title: "La foi et la nature divine (2)"
   similarity: 0.708
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 3"
+  - "1 Corinthiens 3:21-23"
+  - "1 Jean 2"
+  - "1 Pierre 1"
+  - "2 Pierre 1"
+  - "Esther 1"
+  - "Hébreux 13"
+  - "Proverbes 16"
+  - "Psaumes 82"
 ---
 ## La Foi et la nature divine (SUITE)
 

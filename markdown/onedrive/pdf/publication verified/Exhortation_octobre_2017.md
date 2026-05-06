@@ -43,6 +43,36 @@ mevar_match:
   title: "Les coeurs durs"
   similarity: 0.595
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 7"
+  - "1 Jean 4:8"
+  - "1 Jean 5:19"
+  - "1 Timothée 1:12-14"
+  - "2 Corinthiens 6"
+  - "Actes 17:30"
+  - "Actes 7:60"
+  - "Colossiens 3:1-2"
+  - "Colossiens 3:13"
+  - "Deutéronome 24:1-2"
+  - "Esdras 10"
+  - "Jacques 1:20"
+  - "Jean 3:3-7"
+  - "Jean 8"
+  - "Luc 17:12-18"
+  - "Luc 23:34"
+  - "Luc 6:36"
+  - "Matthieu 10:34-36"
+  - "Matthieu 11:29"
+  - "Matthieu 19"
+  - "Matthieu 1:19"
+  - "Matthieu 5:7"
+  - "Matthieu 9:13"
+  - "Romains 12:18"
+  - "Romains 7:12-14"
+  - "Romains 7:14"
+  - "Romains 8:31-32"
+  - "Romains 8:35"
+  - "Ézéchiel 36:24-26"
 ---
 ## LES CŒURS DURS
 

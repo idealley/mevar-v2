@@ -41,6 +41,28 @@ themes:
   - "Shékinah"
 pdf_url: "http://le-scribe.org/pdfiles/600709Communion.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:26"
+  - "1 Corinthiens 15:55,57"
+  - "1 Corinthiens 2:1,4"
+  - "1 Jean 1:7"
+  - "1 Jean 2:15"
+  - "Actes 19:2"
+  - "Actes 6:15"
+  - "Actes 7:51"
+  - "Colossiens 2:9"
+  - "Esther 7"
+  - "Hébreux 13:12"
+  - "Hébreux 9"
+  - "Jean 10:35"
+  - "Jean 5:24"
+  - "Jean 6:27"
+  - "Job 13:15-16"
+  - "Nombres 19"
+  - "Nombres 19:3-6"
+  - "Psaumes 133:1-2"
+  - "Romains 5:1"
+  - "Éphésiens 5:25-26"
 ---
 **1.** [Prière de consécration] …
 

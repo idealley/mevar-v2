@@ -39,6 +39,30 @@ themes:
   - "Combat spirituel"
   - "Apostasie"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 16:13"
+  - "1 Corinthiens 6:19"
+  - "1 Pierre 5:8"
+  - "1 Rois 13"
+  - "1 Samuel 2:22-23"
+  - "1 Timothée 2:9-10"
+  - "2 Pierre 2"
+  - "2 Thessaloniciens 2"
+  - "Colossiens 4:2"
+  - "Hébreux 12:15"
+  - "Hébreux 12:4"
+  - "Jean 1:18"
+  - "Josué 23:11"
+  - "Luc 17"
+  - "Luc 21:36"
+  - "Marc 13:33"
+  - "Marc 14:38"
+  - "Matthieu 13"
+  - "Matthieu 13:41"
+  - "Matthieu 23:28"
+  - "Matthieu 7"
+  - "Romains 8:30"
+  - "Éphésiens 3"
 ---
 ## Le mystère de l'iniquité
 

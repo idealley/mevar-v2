@@ -37,6 +37,18 @@ themes:
   - "Vie chrétienne"
   - "Mise en garde contre le dérèglement"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 14:13"
+  - "Apocalypse 19"
+  - "Genèse 15"
+  - "Genèse 15:4-6"
+  - "Genèse 15:6"
+  - "Hébreux 10"
+  - "Hébreux 3:12-15"
+  - "Jean 3:16"
+  - "Matthieu 25"
+  - "Matthieu 28:19-20"
+  - "Romains 4"
 ---
 La Grâce et la Vérité, prêché par le frère M’BRA Parfait à Koumassi le dimanche 23 octobre 2011
 

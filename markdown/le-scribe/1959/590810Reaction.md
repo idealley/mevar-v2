@@ -37,6 +37,22 @@ themes:
   - "réception du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/590810Reaction.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 3:21"
+  - "1 Rois 17:14"
+  - "Apocalypse 22:17"
+  - "Hébreux 12:6"
+  - "Jean 1:1,14"
+  - "Jean 4:23"
+  - "Jean 6:37"
+  - "Job 19:25-26"
+  - "Matthieu 10:32"
+  - "Matthieu 4:4"
+  - "Matthieu 5:6"
+  - "Matthieu 6:33"
+  - "Proverbes 28:13"
+  - "Psaumes 46:1"
+  - "Ésaïe 40:31"
 ---
 **1.** …Nous prierons pour les malades demain soir et les jours suivants. J’ai ressenti que c’était en accord avec la volonté de Dieu. Les cartes de prière seront distribuées demain à 6 heures ½. Ce serait bien qu’il y ait des réunions de prière toute la journée, car on ne peut rien obtenir de Dieu sans s’approcher de lui.
 

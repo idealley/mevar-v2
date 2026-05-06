@@ -33,6 +33,20 @@ themes:
   - "guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/650427Dieu-change.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 6:17"
+  - "Actes 2:38-39"
+  - "Hébreux 11:4"
+  - "Jean 14:12"
+  - "Jérémie 8:22"
+  - "Luc 17"
+  - "Malachie 4"
+  - "Marc 16:17"
+  - "Nombres 22:31"
+  - "Nombres 23:9"
+  - "Nombres 24:8"
+  - "Proverbes 14:12"
+  - "Romains 9:13"
 ---
 *Résumé de : "Dieu change-t-il d'avis ?" (27 avril 1965, soir)*
 

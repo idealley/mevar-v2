@@ -43,6 +43,27 @@ themes:
   - "résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/651031aTransform.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13:1"
+  - "1 Jean 2:15"
+  - "Apocalypse 3:18"
+  - "Daniel 3"
+  - "Esther 13"
+  - "Genèse 1:26-27"
+  - "Genèse 2:4"
+  - "Genèse 2:7"
+  - "Genèse 4:16-26"
+  - "Genèse 4:7"
+  - "Genèse 6:2"
+  - "Hébreux 10:26-27"
+  - "Jean 11:25-26"
+  - "Jean 5:25"
+  - "Luc 14:33"
+  - "Matthieu 16:24"
+  - "Psaumes 84:11"
+  - "Romains 12:1-2"
+  - "Ésaïe 14:12-14"
+  - "Ésaïe 7:14"
 ---
 **Résumé de : “La puissance de transformation” (31 octobre 1965, matin)**
 

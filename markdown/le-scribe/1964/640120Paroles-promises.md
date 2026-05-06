@@ -39,6 +39,13 @@ themes:
   - "persécution à venir"
 pdf_url: "http://le-scribe.org/pdfiles/640120Paroles-promises.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Deutéronome 18:22"
+  - "Genèse 15:13-14"
+  - "Luc 10:23"
+  - "Matthieu 24:32-35"
+  - "Nombres 12:11-16"
+  - "Éphésiens 5:27"
 ---
 *Ses infaillibles paroles de promesses*
 *His Unfailing Words of Promise*

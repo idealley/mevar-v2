@@ -39,6 +39,12 @@ themes:
   - "Retour de Christ"
 pdf_url: "http://le-scribe.org/pdfiles/560429Jehova-Jire.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 22"
+  - "Genèse 22:14"
+  - "Hébreux 13:8"
+  - "Jean 5:19"
+  - "Jean 8:57-58"
 ---
 **JEHOVAH JIREH**
 

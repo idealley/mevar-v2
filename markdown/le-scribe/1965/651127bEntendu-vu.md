@@ -49,6 +49,32 @@ themes:
   - "patience"
 pdf_url: "http://le-scribe.org/pdfiles/651127bEntendu-vu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 3:20"
+  - "2 Rois 20:1-7"
+  - "Amos 3:7"
+  - "Daniel 3"
+  - "Exode 14:13-14"
+  - "Genèse 15:13-16"
+  - "Genèse 17"
+  - "Hébreux 11:6"
+  - "Jacques 5:11"
+  - "Jean 3:18"
+  - "Job 19:25-26"
+  - "Job 1:21"
+  - "Job 2:3"
+  - "Job 42:1-6"
+  - "Job 42:5"
+  - "Josué 10:12"
+  - "Luc 17:28,30"
+  - "Luc 17:30"
+  - "Luc 17:39"
+  - "Luc 2:26"
+  - "Malachie 4"
+  - "Marc 11:23"
+  - "Marc 7:25-30"
+  - "Ésaïe 53:5"
+  - "Ésaïe 9:5"
 ---
 *J'avais entendu, mais maintenant je vois*
 *I Have Heard But Now I See*

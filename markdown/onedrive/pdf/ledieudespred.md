@@ -40,6 +40,20 @@ themes:
   - "Foi dans les promesses"
   - "Liberté en Christ"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 1:19"
+  - "Apocalypse 22"
+  - "Luc 21"
+  - "Malachie 4:5-6"
+  - "Marc 13"
+  - "Matthieu 24:45"
+  - "Matthieu 25:6"
+  - "Matthieu 26"
+  - "Psaumes 89:15"
+  - "Zacharie 14:7"
+  - "Ésaïe 44"
+  - "Ésaïe 46"
+  - "Ésaïe 48"
 ---
 ## Le Dieu des prédictions
 

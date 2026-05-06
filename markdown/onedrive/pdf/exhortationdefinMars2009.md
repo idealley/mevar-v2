@@ -25,6 +25,10 @@ themes:
   - "enlèvement"
   - "discipline du corps"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 9:26-27"
+  - "2 Corinthiens 11"
+  - "Romains 8:13"
 ---
 ## JE TRAITE DUREMENT MON CORPS
 

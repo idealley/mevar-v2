@@ -37,6 +37,28 @@ themes:
   - "présence de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/590812Discerner.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "1 Corinthiens 11:23-29"
+  - "1 Corinthiens 11:5-6"
+  - "1 Corinthiens 3:16-17"
+  - "2 Timothée 3:1-5"
+  - "Actes 24:14"
+  - "Actes 2:39"
+  - "Daniel 11:32"
+  - "Daniel 5:27"
+  - "Deutéronome 22:5"
+  - "Hébreux 10:25"
+  - "Jean 14:12"
+  - "Jean 6:35"
+  - "Jean 8:58"
+  - "Jean 9:4"
+  - "Luc 12:57,19"
+  - "Luc 16:8"
+  - "Matthieu 18:6"
+  - "Matthieu 4:4"
+  - "Matthieu 8:8"
+  - "Proverbes 13:24"
 ---
 “Discerner le Corps du Seigneur” (12 août 1959)
 

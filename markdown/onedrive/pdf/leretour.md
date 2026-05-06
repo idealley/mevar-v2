@@ -46,6 +46,24 @@ themes:
   - "réveil"
   - "règne millénaire"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 17:1"
+  - "1 Rois 18"
+  - "Actes 8:5-24"
+  - "Apocalypse 12"
+  - "Apocalypse 17"
+  - "Apocalypse 20:1-2"
+  - "Apocalypse 3"
+  - "Apocalypse 4"
+  - "Apocalypse 6"
+  - "Jacques 5:17-18"
+  - "Jean 8:12"
+  - "Malachie 4:5"
+  - "Nombres 17"
+  - "Zacharie 14:7"
+  - "Ésaïe 40"
+  - "Ésaïe 55:6"
+  - "Ésaïe 62"
 ---
 ## Le retour des cœurs au Seigneur
 

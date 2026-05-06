@@ -38,6 +38,11 @@ themes:
   - "Humilité et obéissance"
 pdf_url: "http://le-scribe.org/pdfiles/590211Simeon-Anne.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Luc 2:25-35"
+  - "Luc 2:36-38"
+  - "Romains 8:14"
+  - "Ésaïe 49:15"
 ---
 **Résumé de : “Siméon et Anne” (11 février 1959, soir)**
 

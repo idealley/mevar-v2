@@ -38,6 +38,26 @@ themes:
   - "Mise en garde contre l'orgueil et les credo"
 pdf_url: "http://le-scribe.org/pdfiles/621013Influence.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Chroniques 26:1-4"
+  - "2 Chroniques 26:16-21"
+  - "Actes 1:8"
+  - "Actes 9:4"
+  - "Exode 3:5"
+  - "Hébreux 13:8"
+  - "Jacques 4:10"
+  - "Jacques 4:2"
+  - "Jean 14:12"
+  - "Jean 15:5"
+  - "Jean 16:24"
+  - "Jean 1:27"
+  - "Jean 9:25"
+  - "Luc 24:49"
+  - "Marc 9:23"
+  - "Psaumes 16:8"
+  - "Psaumes 34:8"
+  - "Éphésiens 4:11-12"
+  - "Ésaïe 6:1-8"
 ---
 **Résumé de!: “L’influence d’un autre” (13 Octobre1962, soir)**
 

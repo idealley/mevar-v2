@@ -48,6 +48,8 @@ mevar_match:
   title: "Suivons le Seigneur"
   similarity: 0.515
 llm_cleaned: true
+bible_refs:
+  - "Jean 3"
 ---
 *Suivons le Seigneur, prêché le jeudi 10 novembre 2016 à Duekoué par le frère M'BRA Parfait*
 

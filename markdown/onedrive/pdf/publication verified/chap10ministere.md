@@ -23,6 +23,18 @@ themes:
   - "Service chrétien"
   - "Jugement"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 7"
+  - "2 Corinthiens 12"
+  - "2 Timothée 1"
+  - "2 Timothée 2"
+  - "Actes 17"
+  - "Actes 5"
+  - "Marc 16"
+  - "Romains 12"
+  - "Éphésiens 4"
+  - "Ésaïe 42"
 ---
 ## LA PARABOLE DES TALENTS
 

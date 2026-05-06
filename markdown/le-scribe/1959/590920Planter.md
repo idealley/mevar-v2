@@ -39,6 +39,30 @@ themes:
   - "Accomplissement des Écritures"
 pdf_url: "http://le-scribe.org/pdfiles/590920Planter.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 15:55"
+  - "1 Samuel 4:21"
+  - "1 Thessaloniciens 5:21"
+  - "2 Corinthiens 6:17"
+  - "2 Timothée 3:2-5"
+  - "2 Timothée 3:8"
+  - "Actes 2:16-17"
+  - "Actes 2:38"
+  - "Actes 2:38-39"
+  - "Deutéronome 12:11"
+  - "Exode 20:3"
+  - "Jean 14:12"
+  - "Jean 14:20"
+  - "Jean 15:5"
+  - "Jean 1:10"
+  - "Jean 3:14"
+  - "Jean 4:21-24"
+  - "Jean 5:24"
+  - "Psaumes 1"
+  - "Psaumes 80:1-8"
+  - "Psaumes 80:8"
+  - "Ésaïe 53:5"
 ---
 “Planter une vigne et où la planter” (le 20 septembre 1959)
 

@@ -38,6 +38,23 @@ themes:
   - "grâce"
 pdf_url: "http://le-scribe.org/pdfiles/630126Investissements.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 22"
+  - "1 Samuel 8:6-7"
+  - "Actes 2:22-23"
+  - "Actes 6:15"
+  - "Daniel 5:25"
+  - "Hébreux 1:26"
+  - "Jean 1:29"
+  - "Jean 1:48"
+  - "Jean 5:39"
+  - "Jean 6:37,44"
+  - "Jean 6:60"
+  - "Joël 2:28"
+  - "Jérémie 28"
+  - "Luc 16:19-31"
+  - "Luc 16:27"
+  - "Matthieu 19:16"
 ---
 **Résumé de!: “Investissements” (26 Janvier 1963, matin)**
 

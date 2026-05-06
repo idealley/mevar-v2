@@ -55,6 +55,32 @@ themes:
   - "Pensée originelle de Dieu"
   - "Faux prédicateurs"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13:1-8"
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 15"
+  - "1 Jean 4:6"
+  - "1 Pierre 1"
+  - "2 Corinthiens 11:15"
+  - "2 Corinthiens 5:17"
+  - "Actes 10:43"
+  - "Actes 2:38"
+  - "Apocalypse 18"
+  - "Apocalypse 21"
+  - "Galates 4"
+  - "Jean 13"
+  - "Jean 3:16"
+  - "Jérémie 7"
+  - "Marc 13:34"
+  - "Marc 16"
+  - "Matthieu 13:34"
+  - "Matthieu 20"
+  - "Matthieu 23:8-12"
+  - "Matthieu 25:14"
+  - "Matthieu 25:6"
+  - "Matthieu 3"
+  - "Philippiens 2"
 ---
 LA VISION DU ROYAUME DE DIEU
 

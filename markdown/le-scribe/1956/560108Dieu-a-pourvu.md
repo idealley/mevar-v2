@@ -43,6 +43,11 @@ themes:
   - "épreuve de la foi"
 pdf_url: "http://le-scribe.org/pdfiles/560108Dieu-a-pourvu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 22:7-8"
+  - "Hébreux 12:1"
+  - "Luc 10:30-35"
+  - "Ésaïe 53:5"
 ---
 **Résumé de : "Dieu a pourvu un chemin" (8 janvier 1956)**
 

@@ -37,6 +37,25 @@ themes:
   - "rejet des traditions humaines"
 pdf_url: "http://le-scribe.org/pdfiles/581005Ecoutez-voix.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:38"
+  - "1 Jean 3:2"
+  - "1 Samuel 3:1-10"
+  - "Actes 10:14"
+  - "Actes 10:48"
+  - "Actes 19"
+  - "Actes 19:5-6"
+  - "Actes 2:38"
+  - "Apocalypse 18:4,2"
+  - "Galates 1:8"
+  - "Jean 10:4"
+  - "Jean 5:19"
+  - "Jean 5:28-29"
+  - "Jérémie 50:8,51"
+  - "Luc 2:49"
+  - "Romains 8:28"
+  - "Tite 1:14"
+  - "Ésaïe 48:20"
 ---
 **1.** Je ne condamne pas les autres églises, mais les enseignements contraires aux Ecritures, et les choses qu'elles permettent. Je ne condamne pas les Catholiques, mais la doctrine de leur église, tout comme dans les dénominations Protestantes. Dieu apprécie la loyauté et la sincérité. Tout homme, même un coureur de jupons, apprécie une vraie femme loyale. Si vous êtes fidèles à ce que vous croyez, alors vous aurez foi en ce que vous dites.
 

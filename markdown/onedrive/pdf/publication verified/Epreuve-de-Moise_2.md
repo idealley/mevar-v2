@@ -39,6 +39,9 @@ mevar_match:
   title: "L’épreuve de Moïse (2)"
   similarity: 0.653
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10"
+  - "Ecclésiaste 9"
 ---
 L'épreuve de Moïse 2, prêché le 7 Janvier 2019 à Koumassi par le frère M'BRA Parfait
 

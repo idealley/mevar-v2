@@ -34,6 +34,19 @@ themes:
   - "Fondement de l'Église"
   - "Administration des mystères de Dieu"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 4"
+  - "1 Timothée 3"
+  - "Actes 18"
+  - "Esdras 7"
+  - "Galates 1"
+  - "Jean 3"
+  - "Jean 7"
+  - "Luc 2"
+  - "Luc 24"
+  - "Matthieu 13"
+  - "Éphésiens 3"
+  - "Ésaïe 28"
 ---
 ## LE MINISTERE DE DOCTEUR
 

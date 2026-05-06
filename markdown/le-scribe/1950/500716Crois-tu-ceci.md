@@ -45,6 +45,16 @@ themes:
   - "persévérance"
 pdf_url: "http://le-scribe.org/pdfiles/500716Crois-tu-ceci.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 11:20-27"
+  - "Jean 12:32"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 5:19"
+  - "Job 14:15"
+  - "Marc 16"
+  - "Romains 8:28"
+  - "Éphésiens 5:27"
 ---
 **CROIS-TU CELA ?**
 *BELIEVEST THOU THIS ?*

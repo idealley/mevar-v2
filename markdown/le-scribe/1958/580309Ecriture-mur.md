@@ -36,6 +36,19 @@ themes:
   - "souveraineté de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/580309Ecriture-mur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "1 Timothée 5:6"
+  - "2 Timothée 3:2-4"
+  - "Actes 10:35"
+  - "Daniel 5:25"
+  - "Daniel 5:6"
+  - "Jean 14:12"
+  - "Luc 21:25"
+  - "Osée 1:1"
+  - "Proverbes 14:12,16"
+  - "Romains 3:23"
+  - "Ésaïe 3:16"
 ---
 **1.** Le sujet de ce soir sera : “L’Eglise part-elle avant la grande tribulations ?”. Il y a un débat à ce sujet. Les cartes de prière seront distribuées à 18 heures 30. [Prière]. Lisons Daniel 5:25 :
 

@@ -37,6 +37,11 @@ mevar_match:
   title: "Chercheurs de Dieu"
   similarity: 0.545
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 3"
+  - "Apocalypse 3:14-22"
+  - "Hébreux 11:32-35"
+  - "Matthieu 7:7-11"
 ---
 ## Chercheurs de Dieu
 

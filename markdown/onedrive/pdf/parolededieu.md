@@ -47,6 +47,25 @@ themes:
   - "Réveil"
   - "Engagement"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Apocalypse 10"
+  - "Apocalypse 18"
+  - "Apocalypse 21:27"
+  - "Apocalypse 22:15"
+  - "Jacques 1:23-25"
+  - "Jérémie 1"
+  - "Jérémie 23"
+  - "Jérémie 7"
+  - "Luc 24"
+  - "Luc 8:12-14"
+  - "Malachie 4:5"
+  - "Matthieu 13"
+  - "Matthieu 24:45"
+  - "Matthieu 25"
+  - "Matthieu 25:6"
+  - "Psaumes 119"
+  - "Zacharie 14"
 ---
 ## La Parole de Dieu
 

@@ -38,6 +38,15 @@ themes:
   - "La persévérance dans l'épreuve"
 pdf_url: "http://le-scribe.org/pdfiles/600305Pas-peur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Daniel 5:5,25"
+  - "Exode 12:13"
+  - "Jean 10:37-38"
+  - "Jean 1:48"
+  - "Jean 4:10"
+  - "Jean 5:19"
+  - "Matthieu 14:22"
+  - "Ésaïe 66:1"
 ---
 **1.** [Prière] …
 

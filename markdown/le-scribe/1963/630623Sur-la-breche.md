@@ -39,6 +39,18 @@ themes:
   - "Unité de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/630623Sur-la-breche.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 2:4"
+  - "Actes 9:3-17,26"
+  - "Apocalypse 3:16-17"
+  - "Exode 8:20"
+  - "Jean 16:28,13"
+  - "Jean 8:58"
+  - "Matthieu 19:13-14"
+  - "Nombres 16:3-4"
+  - "Romains 8:38-39"
+  - "Éphésiens 2:20"
+  - "Éphésiens 4:5"
 ---
 **Résumé de!: “Se tenir sur la brèche” (23 juin1963 matin)**
 

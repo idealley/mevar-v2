@@ -39,6 +39,9 @@ themes:
   - "seconde venue"
 pdf_url: "http://le-scribe.org/pdfiles/550621Centenier.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Luc 19:44"
+  - "Ésaïe 53:5"
 ---
 **1.** [Prière ; lecture inaudible d’un passage des Ecritures]. Nous prierons demain pour les malades. Venez entre 6 et 7 heures pour avoir une carte de prière. Ce centenier était un Gentil, peu au courant de la religion juive. Mais il avait entendu parler de Jésus, et il avait foi en lui. Notez son attitude : “Seigneur, je ne suis pas digne que tu entres sous mon toit ; mais dis seulement un mot, et mon serviteur sera guéri.” (Mat. 8:8). L’arrogance n’obtient rien de Dieu. Il faut venir avec respect et humilité. Ce Romain savait ce que signifiait l’autorité. Il avait vu que la maladie obéissait à Jésus, de même que les soldats lui obéissaient sous peine de mort. Il a ainsi parlé car il avait reconnu la même autorité en Jésus.
 

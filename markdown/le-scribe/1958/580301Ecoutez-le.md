@@ -41,6 +41,20 @@ themes:
   - "amour de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/580301Ecoutez-le.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Daniel 5"
+  - "Galates 4:5"
+  - "Hébreux 13:8"
+  - "Jean 14:10"
+  - "Jean 14:2"
+  - "Jean 5:19"
+  - "Jean 6:44"
+  - "Matthieu 17:1"
+  - "Psaumes 103:3"
+  - "Romains 8:17"
+  - "Romains 8:23,9"
+  - "Éphésiens 1:5"
+  - "Ésaïe 53:5"
 ---
 *Résumé de : “Ecoutez-le” (1er mars 1958, soir)*
 

@@ -40,6 +40,9 @@ themes:
   - "Test et épreuve"
 pdf_url: "http://le-scribe.org/pdfiles/551009comment-communion.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 1:7"
+  - "1 Jean 4:18"
 ---
 **1.** [Chant, prière]. C'était émouvant pour moi de rencontrer le peuple de Dieu de Chicago, et de voir des gens guéris ces jours-ci. [Remerciements pour différents cadeaux]. On a offert un fusil à mon fils l'autre jour. J'apprécie toujours un cadeau, et je les conserve tous, même un coquillage, car ils viennent de quelqu'un. Gypsy Smith avait été mis à la porte de l'Armée du Salut pour avoir accepté une montre en cadeau. Il a répondu que cela avait été donné du fond du cœur. Ces braves gens auront leur récompense pour avoir aidé cet homme. Un jour, une fillette pauvre lui a offert une sucette entamée. C'était tout ce qu'elle avait. Celui qui a vu la veuve donner son dernier sou, de quoi acheter deux moineaux, a vu cette fillette. Merci à tous.
 

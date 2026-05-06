@@ -34,6 +34,9 @@ themes:
   - "Épreuves"
   - "Terre promise"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10"
+  - "Deutéronome 8"
 ---
 ## Les souvenirs du désert
 

@@ -35,6 +35,10 @@ themes:
   - "autorité sur la nature"
 pdf_url: "http://le-scribe.org/pdfiles/550610Croyez-vous.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:12"
+  - "Jean 16:29"
+  - "Ésaïe 49:15-16"
 ---
 Résumé de : “Croyez-vous maintenant ?” (10 juin 1955, soir)
 

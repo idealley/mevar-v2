@@ -42,6 +42,25 @@ themes:
   - "La foi individuelle active la puissance de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/580207Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Rois 18:36"
+  - "Exode 15:26"
+  - "Exode 28:30"
+  - "Hébreux 13:8"
+  - "Jean 11:42"
+  - "Jean 12:20"
+  - "Jean 12:29"
+  - "Jean 14:10,5"
+  - "Jean 14:12"
+  - "Jean 15:5"
+  - "Jean 5:19"
+  - "Jean 5:6"
+  - "Luc 16:23"
+  - "Marc 5:28-30"
+  - "Nombres 27:21,1"
+  - "Psaumes 103:3"
+  - "Ésaïe 59:19"
 ---
 **1.** [Prière]. Il y a une vingtaine d'années, alors que j'étais jeune pasteur baptiste, je suis passé près d'ici, à Mishawaka, au retour d'une partie de pêche à Dowagiac, Michigan. Ce fut ma première rencontre avec des Pentecôtistes. Leur comportement m'a étonné, ils frappaient des mains, tombaient à terre. Ils m'ont demandé de prêcher, alors que j'étais en T-shirt. J'ai prêché sur le riche qui a levé les yeux en enfer [Luc 16:23]. Il pleurait parce que Dieu n'y était pas. Il pleurait parce qu'il n'y avait là ni enfant, ni prédicateur. J'ai pleuré, et l'Esprit m'a saisi. J'ai alors su que j'étais l'un d'eux. Je suis heureux d'être avec votre pasteur, le frère Summerhall.
 

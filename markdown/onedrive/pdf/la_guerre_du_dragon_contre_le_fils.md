@@ -49,6 +49,9 @@ mevar_match:
   title: "La guerre du Dragon contre le Fils de l’Eglise"
   similarity: 0.62
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12"
+  - "Matthieu 24"
 ---
 ## La guerre du Dragon contre le Fils de l'Eglise
 

@@ -49,6 +49,38 @@ mevar_match:
   title: "La Nuit et le Jour des Esprits"
   similarity: 0.667
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:27"
+  - "2 Pierre 1:19"
+  - "2 Pierre 1:19-21"
+  - "2 Pierre 2:1-2"
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 16:13"
+  - "Apocalypse 17"
+  - "Apocalypse 4:7"
+  - "Apocalypse 6"
+  - "Genèse 4:6-7"
+  - "Hébreux 5:12-13"
+  - "Jean 12:6"
+  - "Jean 13:26-30"
+  - "Jean 6:51"
+  - "Luc 17"
+  - "Luc 22:53"
+  - "Malachie 4:5"
+  - "Marc 14:10"
+  - "Matthieu 24"
+  - "Matthieu 24:31"
+  - "Matthieu 24:9-13"
+  - "Matthieu 25"
+  - "Matthieu 25:6"
+  - "Matthieu 26:31"
+  - "Matthieu 27:3-5"
+  - "Matthieu 7:6"
+  - "Romains 13:11-14"
+  - "Ésaïe 21"
+  - "Ésaïe 21:12"
+  - "Ésaïe 27:12-13"
+  - "Ésaïe 40"
 ---
 ## LA NUIT ET LE JOUR DES ESPRITS
 

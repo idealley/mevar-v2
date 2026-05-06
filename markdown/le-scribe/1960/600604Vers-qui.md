@@ -40,6 +40,25 @@ themes:
   - "parole de connaissance"
 pdf_url: "http://le-scribe.org/pdfiles/600604Vers-qui.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Thessaloniciens 5:5"
+  - "2 Corinthiens 5:1"
+  - "Jean 10"
+  - "Jean 14:12"
+  - "Jean 14:12,4"
+  - "Jean 14:19"
+  - "Jean 14:27"
+  - "Jean 3:19"
+  - "Jean 5:19"
+  - "Jean 6:44"
+  - "Jean 6:54"
+  - "Jean 6:66-69"
+  - "Matthieu 16:18"
+  - "Matthieu 18:20"
+  - "Matthieu 22:11-13"
+  - "Matthieu 28:20"
+  - "Proverbes 14:12"
 ---
 **1.** Je suis heureux de la présence du frère Ruddell et de son église. Il est comme un fils. J’ai travaillé avec son père. Après avoir suivi l’école biblique, cela n’a pas été facile pour lui à cause de sa timidité, et maintenant on voit le fruit de ses efforts, et ce n’est encore qu’un début.
 

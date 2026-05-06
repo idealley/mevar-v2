@@ -39,6 +39,19 @@ themes:
   - "humilité"
 pdf_url: "http://le-scribe.org/pdfiles/580323Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Exode 28:30"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 12:20-21"
+  - "Jean 14:12"
+  - "Jean 14:19,20"
+  - "Jean 16:30"
+  - "Luc 8:53"
+  - "Nombres 27:21,1"
+  - "Psaumes 103:3"
+  - "Ésaïe 42:2"
+  - "Ésaïe 53:5"
 ---
 *Résumé de : “Jésus-Christ est le même hier, aujourd’hui et éternellement” (23 mars 1958, soir)*
 

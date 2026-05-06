@@ -38,6 +38,19 @@ themes:
   - "l'action de Satan et de Jésus"
 pdf_url: "http://le-scribe.org/pdfiles/510415Heure-venue.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 7"
+  - "2 Timothée 3:4"
+  - "Actes 9:40"
+  - "Daniel 3"
+  - "Jean 14:12"
+  - "Jean 17:1"
+  - "Jean 5:19"
+  - "Marc 11:24"
+  - "Marc 5:28"
+  - "Marc 6:5-6"
+  - "Matthieu 4:23-25"
+  - "Psaumes 34:8"
 ---
 **L'HEURE EST VENUE**
 *THE HOUR IS COME*

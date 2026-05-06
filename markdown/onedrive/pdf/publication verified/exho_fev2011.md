@@ -46,6 +46,33 @@ mevar_match:
   title: "Un nouveau ciel — une nouvelle terre — un nouveau peuple"
   similarity: 0.611
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 3:12"
+  - "Apocalypse 17:13"
+  - "Apocalypse 21:1"
+  - "Apocalypse 3:10"
+  - "Apocalypse 6:7"
+  - "Colossiens 2:13"
+  - "Daniel 2:44"
+  - "Exode 12:11"
+  - "Genèse 11"
+  - "Jean 3:19"
+  - "Luc 12:35"
+  - "Luc 12:51"
+  - "Luc 21:29"
+  - "Luc 4:5"
+  - "Matthieu 24"
+  - "Matthieu 24:35"
+  - "Matthieu 24:42"
+  - "Matthieu 28:18"
+  - "Matthieu 5:11"
+  - "Michée 7:11"
+  - "Ésaïe 11"
+  - "Ésaïe 11:10"
+  - "Ésaïe 28:16"
+  - "Ésaïe 51:12"
+  - "Ésaïe 65:17"
+  - "Ésaïe 66:22"
 ---
 *Exhortation de Février 2011*
 

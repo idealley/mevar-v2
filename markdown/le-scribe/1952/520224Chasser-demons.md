@@ -32,6 +32,16 @@ themes:
   - "obstacles à la guérison"
 pdf_url: "http://le-scribe.org/pdfiles/520224Chasser-demons.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18:41-46"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Marc 16"
+  - "Marc 16:17"
+  - "Romains 4:18,19"
+  - "Romains 4:20"
+  - "Ésaïe 53:5"
 ---
 **Résumé de!: “Croire en Dieu” (24.2.52!; parfois daté à tort le 26. 08. 1951)**
 

@@ -49,6 +49,11 @@ themes:
   - "eau comme type du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/550228Separer.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 3:14-15"
+  - "Jean 5:19"
+  - "Marc 16"
+  - "Marc 6:3-6"
 ---
 **Résumé de : “Se séparer de l’incrédulité” (28 février 1955, soir)**
 

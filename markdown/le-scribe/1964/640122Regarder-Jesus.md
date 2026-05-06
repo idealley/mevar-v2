@@ -47,6 +47,27 @@ themes:
   - "unité des croyants"
 pdf_url: "http://le-scribe.org/pdfiles/640122Regarder-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 4:33-36"
+  - "2 Rois 6:8-17"
+  - "Daniel 2:34-35,45"
+  - "Daniel 3:25"
+  - "Deutéronome 18:15"
+  - "Exode 12:13"
+  - "Exode 3:14"
+  - "Jean 5:19,14"
+  - "Jean 5:39"
+  - "Jean 5:46"
+  - "Jean 9:28"
+  - "Luc 8:40-56"
+  - "Marc 16:18"
+  - "Marc 9:23"
+  - "Nombres 21:9"
+  - "Romains 4:20-21"
+  - "Ésaïe 45:22"
+  - "Ésaïe 6"
+  - "Ésaïe 9:5"
+  - "Ézéchiel 1:16"
 ---
 *Regarder à Jésus* (22 janvier 1964, soir)
 

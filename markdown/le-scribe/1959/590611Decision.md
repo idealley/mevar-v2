@@ -37,6 +37,13 @@ themes:
   - "présence de l'Ange"
 pdf_url: "http://le-scribe.org/pdfiles/590611Decision.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 4:7-8"
+  - "Actes 12:7"
+  - "Actes 27:22-23"
+  - "Genèse 24:58"
+  - "Jean 15:7"
+  - "Marc 11:24"
 ---
 **1.** … [Prière pour la réunion, pour que les pasteurs repartent avec une vision renouvelée, pour les grands malades qui téléphonent depuis les hôpitaux de la région, etc.] …
 

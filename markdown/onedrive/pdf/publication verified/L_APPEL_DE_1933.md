@@ -39,6 +39,17 @@ mevar_match:
   title: "L' Appel de 1933"
   similarity: 0.539
 llm_cleaned: true
+bible_refs:
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 12"
+  - "Apocalypse 19"
+  - "Apocalypse 3"
+  - "Apocalypse 6"
+  - "Luc 1"
+  - "Luc 21"
+  - "Marc 13"
+  - "Matthieu 25"
+  - "Psaumes 90:10"
 ---
 ## L'APPEL DE 1933
 

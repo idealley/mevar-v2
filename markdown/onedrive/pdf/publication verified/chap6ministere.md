@@ -35,6 +35,23 @@ themes:
   - "Intercession"
   - "Faux pasteurs"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Samuel 13"
+  - "1 Samuel 17"
+  - "Actes 13"
+  - "Actes 14"
+  - "Apocalypse 7"
+  - "Exode 32"
+  - "Jean 10"
+  - "Jean 10:2"
+  - "Jean 21"
+  - "Luc 9"
+  - "Nombres 12"
+  - "Psaumes 23"
+  - "Ésaïe 40"
+  - "Ésaïe 53"
+  - "Ézéchiel 34"
 ---
 ## LE MINISTERE DE PASTEUR (Jean 10)
 

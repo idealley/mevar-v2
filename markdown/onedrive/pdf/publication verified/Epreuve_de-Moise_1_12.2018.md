@@ -51,6 +51,10 @@ mevar_match:
   title: "L’épreuve de Moïse (1)"
   similarity: 0.69
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10"
+  - "Jacques 1:19-21"
+  - "Jean 3:16"
 ---
 ## L'épreuve de Moïse
 

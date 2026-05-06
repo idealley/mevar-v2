@@ -38,6 +38,24 @@ themes:
   - "Saint-Esprit dans le croyant"
 pdf_url: "http://le-scribe.org/pdfiles/630804Faire-venir.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Chroniques 7:1-3"
+  - "Actes 9:3"
+  - "Colossiens 1:15"
+  - "Colossiens 3:3"
+  - "Galates 2:20"
+  - "Jean 10:1"
+  - "Jean 10:37,25"
+  - "Jean 10:38,14"
+  - "Jean 14:19,17,12"
+  - "Jean 3:13"
+  - "Jean 5:24"
+  - "Marc 16"
+  - "Marc 4:35-41"
+  - "Matthieu 1:18,20"
+  - "Psaumes 23:4"
+  - "Éphésiens 4:30"
+  - "Ésaïe 9:5"
 ---
 *Résumé de!: “Faire entrer Jésus sur scène” (4 août 1963, soir)*
 

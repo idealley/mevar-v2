@@ -50,6 +50,12 @@ mevar_match:
   title: "Babylone : la grande ville"
   similarity: 0.62
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17"
+  - "Apocalypse 18"
+  - "Esther 11"
+  - "Matthieu 24"
+  - "Ésaïe 58"
 ---
 ## Babylone : la grande ville
 

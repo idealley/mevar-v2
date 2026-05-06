@@ -45,6 +45,20 @@ mevar_match:
   title: "Les intercesseurs de Minuit"
   similarity: 0.705
 llm_cleaned: true
+bible_refs:
+  - "Actes 3"
+  - "Actes 4:32"
+  - "Actes 5"
+  - "Actes 5:12-16"
+  - "Actes 8:39"
+  - "Actes 9:31-43"
+  - "Apocalypse 21"
+  - "Apocalypse 21:9-11"
+  - "Exode 24:17"
+  - "Ésaïe 62:1"
+  - "Ésaïe 62:6-7"
+  - "Ézéchiel 22:23-30"
+  - "Ézéchiel 43:2-4"
 ---
 ## Les intercesseurs de Minuit
 

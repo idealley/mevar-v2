@@ -52,6 +52,17 @@ themes:
   - "vie après la mort"
 pdf_url: "http://le-scribe.org/pdfiles/600716Des-lors.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:9"
+  - "Galates 3:29"
+  - "Genèse 15:4-17"
+  - "Genèse 17"
+  - "Jean 14:19"
+  - "Jean 5:19"
+  - "Matthieu 4:17"
+  - "Psaumes 51:5-6,58"
+  - "Romains 4:20"
+  - "Ésaïe 9:5"
 ---
 Résumé de : “Dès ce moment” (le 16 juillet 1960)
 

@@ -44,6 +44,18 @@ mevar_match:
   title: "L'Enjeu"
   similarity: 0.576
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 2"
+  - "2 Chroniques 20"
+  - "Exode 19"
+  - "Exode 31"
+  - "Genèse 6"
+  - "Job 1"
+  - "Job 2"
+  - "Luc 14"
+  - "Romains 8"
+  - "Ésaïe 14"
+  - "Ésaïe 35"
 ---
 L’ENJEU, prêché par le frère KADJANY à Koumassi
 

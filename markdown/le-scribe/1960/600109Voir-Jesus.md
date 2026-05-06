@@ -37,6 +37,23 @@ themes:
   - "La foi fondée sur la Parole de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/600109Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Deutéronome 18:15"
+  - "Genèse 18"
+  - "Hébreux 13:7-8"
+  - "Hébreux 4:15"
+  - "Jean 1"
+  - "Jean 12:20-21"
+  - "Jean 14:11"
+  - "Jean 14:12"
+  - "Jean 5:19"
+  - "Jean 8:28-29"
+  - "Jean 8:57"
+  - "Jean 8:58"
+  - "Luc 17:28"
+  - "Malachie 3:10"
+  - "Psaumes 103"
+  - "Zacharie 14:7"
 ---
 “Nous voudrions voir Jésus” (le 9 janvier 1960)
 

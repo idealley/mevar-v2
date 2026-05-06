@@ -43,6 +43,25 @@ themes:
   - "Royaume de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/631115Monde-effondre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 1:18"
+  - "1 Corinthiens 2:5"
+  - "1 Jean 2:15"
+  - "1 Timothée 3:16"
+  - "2 Timothée 3:2,4"
+  - "Actes 2:39"
+  - "Amos 4:10"
+  - "Apocalypse 6:12"
+  - "Colossiens 3:3"
+  - "Hébreux 11:10"
+  - "Hébreux 12:25"
+  - "Hébreux 1:1"
+  - "Jean 14:10,20"
+  - "Jean 5:43"
+  - "Jean 8:44"
+  - "Jérémie 6:20"
+  - "Marc 7:13"
+  - "Ésaïe 1:11"
 ---
 **1.** [Prière et chant]. La journée a été dure avec 75 entretiens, et plusieurs appels d'urgence de différentes villes. Et je ne peux pas satisfaire tout le monde. Cela me rend nerveux. Les gens inspirés passent souvent pour des malades mentaux. Jésus et Paul ont été traités de fous. Il en va de même avec les poètes. Ils s'élèvent là où ne vont pas les autres. Interrogez ceux qui m'accompagnent à la fin des réunions : parfois je ne sais plus si je suis dans une vision ou dans la réalité. Ce qui me fatigue, c'est quand les gens me poussent à cela : c'est comme un enfant qui doit se hisser pour voir ce qui se passe derrière le rideau. Mais si un adulte le prend dans ses bras pour le soulever, il n'est pas fatigué. Jésus aussi a senti une force sortir de lui quand la femme a touché son vêtement : elle s'est servi du Don de Dieu. Mais, devant le tombeau de Lazare, il savait ce qui allait se passer, et aucune force n'est sortie de lui. C'était alors Dieu qui utilisait son Don. Une vision ne se fabrique pas. C'est parfois votre foi qui agit. Mais quand c'est Dieu qui agit, cela peut durer des heures, et cela ne me pose aucun problème.
 

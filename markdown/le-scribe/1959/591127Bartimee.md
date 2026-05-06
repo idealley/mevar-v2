@@ -34,6 +34,13 @@ themes:
   - "sacrifice de l'Agneau"
 pdf_url: "http://le-scribe.org/pdfiles/591127Bartimee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 16:28"
+  - "Jean 5:19"
+  - "Luc 18:37-38"
+  - "Éphésiens 4:30"
+  - "Ésaïe 40:31"
+  - "Ésaïe 53:5"
 ---
 **1.** Je viens de parler avec le photographe qui suit cette campagne. La puissance de Dieu l'avait guéri de la tuberculose en 1948 à l'hôpital.
 

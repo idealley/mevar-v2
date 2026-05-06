@@ -43,6 +43,15 @@ themes:
   - "Signes des temps"
 pdf_url: "http://le-scribe.org/pdfiles/591004Qui-est-ce.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 10:37"
+  - "Jean 16:13"
+  - "Luc 19:40"
+  - "Marc 11:23"
+  - "Matthieu 18:20"
+  - "Matthieu 21:1-11"
+  - "Nombres 20:8,11"
+  - "Psaumes 34:19"
 ---
 **1.** … Chacune de ses promesses est vraie, et nous attendons son apparition. Alors que ce moment approche, nous voulons vérifier où nous en sommes. Nous voulons prier pour notre frère Rogers, mon ami, qui se meurt d’un cancer : je vais lui rendre visite cette semaine, à Milltown, Indiana. C’est un ancien de la 1ère Guerre. Il a été opéré récemment, mais le chirurgien l’a recousu car l’opération ne servait à rien, et il l’a appris samedi dernier.
 

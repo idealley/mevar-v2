@@ -39,6 +39,23 @@ themes:
   - "Vraie adoration"
   - "Mise en pratique de la Parole"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 6:19"
+  - "2 Corinthiens 5:16"
+  - "2 Pierre 1:16"
+  - "2 Timothée 3:1-8"
+  - "Exode 20:4"
+  - "Jean 10:1"
+  - "Jean 10:30"
+  - "Jean 14:19"
+  - "Jean 14:21"
+  - "Jean 14:23"
+  - "Jean 4:29"
+  - "Jean 5:19"
+  - "Jean 7:16-17"
+  - "Matthieu 10"
+  - "Matthieu 10:8"
+  - "Ésaïe 40:25"
 ---
 ## JESUS-CHRIST – LE BON SAMARITAIN
 

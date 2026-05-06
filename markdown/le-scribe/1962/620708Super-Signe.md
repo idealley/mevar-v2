@@ -57,6 +57,13 @@ themes:
   - "derniers temps"
 pdf_url: "http://le-scribe.org/pdfiles/620708Super-Signe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 2:15"
+  - "Genèse 22:17"
+  - "Genèse 24:60"
+  - "Hébreux 13:8"
+  - "Malachie 4:5"
+  - "Ésaïe 7:14"
 ---
 **1.** [Prière]. Ma femme a remarqué au cours des derniers jours sur vos visages que vous buviez mes paroles, et c'est pourquoi nous avons eu des réunions extraordinaires. Une offrande m'a été faite, mais je ne suis pas venu pour cela, car je reçois un salaire de cent $ par semaine. Je consacre donc toutes les offrandes aux missions. J'espère aller prêcher un jour en Israël. Cela a failli avoir lieu alors que j'étais en Egypte, mais une demi-heure avant le départ de l'avion, le Saint-Esprit m'a dit : "Ce n'est pas encore l'heure pour les Juifs". Toute la nation d'Israël sera sauvée d'un seul coup, car Dieu s'occupe d'Israël en tant que nation. Or nous voyons les Juifs revenir dans leur pays pour attendre le Messie, et quand l'Evangile atteindra Israël, ce sera la fin pour les Nations, la porte sera fermée. Ils savent que le Messie montrera le signe du Prophète. Nous arrivons à la fin.
 

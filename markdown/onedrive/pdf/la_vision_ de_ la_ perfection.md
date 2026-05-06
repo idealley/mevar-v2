@@ -32,6 +32,13 @@ themes:
   - "Formation spirituelle"
   - "Libre arbitre"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 3"
+  - "1 Jean 3:1-3"
+  - "Apocalypse 21"
+  - "Jérémie 18:1-6"
+  - "Romains 9"
+  - "Romains 9:20-26"
 ---
 La vision de la perfection, prêchée le 21 Juin 2009
 

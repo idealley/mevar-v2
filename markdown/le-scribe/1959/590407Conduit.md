@@ -45,6 +45,22 @@ themes:
   - "prière d'intercession"
 pdf_url: "http://le-scribe.org/pdfiles/590407Conduit.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 2:5"
+  - "2 Timothée 3:12"
+  - "Hébreux 4:15"
+  - "Jean 3:18"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Luc 2:25"
+  - "Luc 2:29-30"
+  - "Luc 2:37"
+  - "Matthieu 18:20,19"
+  - "Matthieu 5:1"
+  - "Psaumes 42:7"
+  - "Romains 8:14"
+  - "Ésaïe 49:15-16"
+  - "Ésaïe 9:6"
 ---
 “Conduit par l’Esprit” (7 avril 1959)
 

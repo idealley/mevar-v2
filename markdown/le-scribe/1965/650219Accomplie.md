@@ -69,6 +69,22 @@ themes:
   - "jugement et grâce"
 pdf_url: "http://le-scribe.org/pdfiles/650219Accomplie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Apocalypse 10"
+  - "Deutéronome 18:15"
+  - "Jean 16:20-21"
+  - "Jean 17:21"
+  - "Jean 5:19"
+  - "Joël 2:38"
+  - "Luc 17"
+  - "Luc 17:28,30"
+  - "Luc 4:16-21"
+  - "Malachie 4:6"
+  - "Marc 5:25-34"
+  - "Osée 11:1"
+  - "Zacharie 14:7"
+  - "Ésaïe 61:1-2"
 ---
 **AUJOURD'HUI CETTE ECRITURE EST ACCOMPLIE**
 *THIS DAY THIS SCRIPTURE IS FULFILLED*

@@ -41,6 +41,17 @@ themes:
   - "La nécessité d'un réveil authentique"
 pdf_url: "http://le-scribe.org/pdfiles/620711Ecoutez-le.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 1:18"
+  - "2 Timothée 3:4-5"
+  - "Deutéronome 22:5"
+  - "Exode 19"
+  - "Hébreux 11:10"
+  - "Hébreux 12:4-8"
+  - "Jean 14:12"
+  - "Jean 14:2"
+  - "Jean 5:19"
+  - "Matthieu 17:1"
 ---
 **1.** S'il ne vient pas aujourd'hui, je l'attendrai demain. Un jour, notre attente s'achèvera. Nous attendons une Cité dont Dieu est l'architecte et le constructeur [Hébreux 11:10]. Nous sommes des pèlerins, et nous avons abandonné ce que cherchent les incroyants : l'argent, la popularité, les droits de ce monde. Je crois que Dieu jugera le monde par la Bible. Je suis d'une famille catholique. Je savais que Dieu existait et j'ai été appelé dès mon enfance. Il m'a parlé et demandé de ne pas boire, ni fumer, ni souiller mon corps en aucune manière. Vers 18 ou 20 ans, je suis allé à l'église où on m'a dit que Dieu jugerait le monde par l'église, mais il existe environ 900 dénominations ! Si Dieu jugeait par l'une d'elles, les autres seraient rejetées. Dieu jugera par la Parole, et c'est ce qu'il a donné à l'homme dès le commencement pour le protéger du péché. Tout ce qui raisonne contre la Parole est l'ennemi.
 

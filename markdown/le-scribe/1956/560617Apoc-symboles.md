@@ -35,6 +35,23 @@ themes:
   - "Unité de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/560617Apoc-symboles.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 10:1"
+  - "Apocalypse 10:4"
+  - "Apocalypse 1:18"
+  - "Apocalypse 1:2"
+  - "Apocalypse 1:3"
+  - "Apocalypse 1:4"
+  - "Apocalypse 5:3"
+  - "Cantique des cantiques 2:1"
+  - "Daniel 8:26"
+  - "Hébreux 13:8"
+  - "Jean 5:24"
+  - "Jean 5:39"
+  - "Jean 6:44"
+  - "Marc 7:24"
+  - "Psaumes 34:8"
+  - "Romains 8:38,39"
 ---
 *Résumé de!: “Le livre de l'Apocalypse est écrit en symboles” (17 juin 1956, matin)*
 

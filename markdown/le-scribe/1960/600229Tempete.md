@@ -42,6 +42,25 @@ themes:
   - "avertissement divin"
 pdf_url: "http://le-scribe.org/pdfiles/600229Tempete.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 12:3"
+  - "2 Corinthiens 3:2-3"
+  - "Actes 7:56"
+  - "Apocalypse 22:20"
+  - "Apocalypse 6:5-6"
+  - "Apocalypse 6:8"
+  - "Apocalypse 9:4"
+  - "Hébreux 11:10"
+  - "Jean 3:18"
+  - "Jean 5:24"
+  - "Jean 6:37"
+  - "Jean 8:44"
+  - "Matthieu 24:32-33"
+  - "Matthieu 7:24"
+  - "Nombres 32:23"
+  - "Psaumes 91:7"
+  - "Romains 11:8,10"
 ---
 “La tempête annoncée” (le 28 février 1960)
 

@@ -40,6 +40,16 @@ mevar_match:
   title: "La chute d'Eutychus"
   similarity: 0.682
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 4:14-15"
+  - "2 Pierre 1:3-10"
+  - "Actes 20:6-12"
+  - "Hébreux 13:17-18"
+  - "Jacques 3:1"
+  - "Jean 6:51"
+  - "Matthieu 18:23"
+  - "Matthieu 25"
+  - "Matthieu 25:19"
 ---
 ## LA CHUTE D'EUTYCHUS
 

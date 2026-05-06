@@ -39,6 +39,25 @@ themes:
   - "bénédiction sans changement de pensée"
 pdf_url: "http://le-scribe.org/pdfiles/650418bDieu-change.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 3:20"
+  - "1 Samuel 15:22"
+  - "1 Timothée 4:14"
+  - "2 Rois 20:1-7"
+  - "Apocalypse 17"
+  - "Apocalypse 2:14"
+  - "Exode 17:1-7"
+  - "Exode 19"
+  - "Jean 6:44"
+  - "Luc 12:32"
+  - "Matthieu 28:19"
+  - "Nombres 13"
+  - "Nombres 16:3"
+  - "Nombres 20:2-13"
+  - "Nombres 22:31"
+  - "Nombres 22:6"
+  - "Nombres 25:1-9"
+  - "Romains 4:12"
 ---
 *Arrive-t-il à Dieu de changer sa pensée au sujet de sa Parole?* (18 avril 1965, soir)
 

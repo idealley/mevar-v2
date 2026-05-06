@@ -38,6 +38,17 @@ themes:
   - "présence du Christ aujourd'hui"
 pdf_url: "http://le-scribe.org/pdfiles/621124Toutes-choses.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:29"
+  - "2 Corinthiens 3:6"
+  - "2 Pierre 1:7"
+  - "2 Timothée 3:5"
+  - "Hébreux 9:14"
+  - "Jean 8:36"
+  - "Romains 11:16-24"
+  - "Romains 8:32"
+  - "Ésaïe 1"
+  - "Ésaïe 53:5"
 ---
 *Résumé de!: “Toutes choses” (24 novembre 1962, soir)*
 

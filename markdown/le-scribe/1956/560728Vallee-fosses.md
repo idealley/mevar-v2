@@ -42,6 +42,8 @@ themes:
   - "fidélité à la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/560728Vallee-fosses.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 3:16"
 ---
 *Résumé de : “Remplissez de fosses la vallée” (28 juillet 1956)*
 

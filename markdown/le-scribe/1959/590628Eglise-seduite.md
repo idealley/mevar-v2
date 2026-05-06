@@ -35,6 +35,13 @@ themes:
   - "Fidélité"
 pdf_url: "http://le-scribe.org/pdfiles/590628Eglise-seduite.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "Apocalypse 2:21-23"
+  - "Exode 33:18-23"
+  - "Jacques 4:4"
+  - "Jean 14:12"
+  - "Juges 16:10-20"
 ---
 *Résumé de!: “Une église séduite par le monde” (28 juin 1959, matin)*
 

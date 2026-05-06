@@ -43,6 +43,20 @@ themes:
   - "guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/591122Qui-est-ce.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 24:14"
+  - "Apocalypse 22:18-19"
+  - "Daniel 11:32"
+  - "Jean 4:24"
+  - "Jean 5:24"
+  - "Joël 2:23,28"
+  - "Jérémie 5:21"
+  - "Luc 19:40"
+  - "Matthieu 21:10-11"
+  - "Matthieu 24:35"
+  - "Proverbes 28:13"
+  - "Zacharie 9:9"
+  - "Ésaïe 6:10"
 ---
 **1.** Je suis encore dans la joie de ce qui s’est passé hier soir. En me levant ce matin, je me sentais comme au sommet du monde. Je crois que c’est le début d’un nouveau ministère, et, en venant hier, j’ai senti l’opposition de Satan, Il fera tout pour m’en empêcher. Ce ministère est sur le point de se manifester. J’en parlerai demain soir.
 

@@ -41,6 +41,21 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/590424Abraham_fidele.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:1-5"
+  - "2 Timothée 3:5-7"
+  - "Actes 19"
+  - "Galates 3:13"
+  - "Genèse 17"
+  - "Genèse 18:1-5"
+  - "Genèse 22"
+  - "Genèse 22:14"
+  - "Jean 5:24"
+  - "Jean 6:44"
+  - "Matthieu 11:25"
+  - "Matthieu 27:46"
+  - "Psaumes 22:1"
+  - "Ésaïe 59:19"
 ---
 “La foi d’Abraham” (24 avril 1959)
 

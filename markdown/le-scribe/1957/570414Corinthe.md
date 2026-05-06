@@ -44,6 +44,22 @@ themes:
   - "séduction"
 pdf_url: "http://le-scribe.org/pdfiles/570414Corinthe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:1-2"
+  - "1 Corinthiens 10:4-5"
+  - "1 Corinthiens 10:6"
+  - "1 Corinthiens 10:8-10"
+  - "1 Corinthiens 13:1-2"
+  - "1 Corinthiens 1:1-2"
+  - "Hébreux 6"
+  - "Hébreux 6:4-8"
+  - "Jean 3:16"
+  - "Matthieu 15:9"
+  - "Matthieu 24:26"
+  - "Matthieu 7:21"
+  - "Matthieu 7:23"
+  - "Proverbes 14:12,16"
+  - "Psaumes 1"
 ---
 **1.** Je suis enroué après 4 mois de prédication sans interruption, et j’ai prévenu le frère Neville que je parlerai peu ce matin. Nous avons reçu de nombreux appels téléphoniques, et j’ai vu que mon jeune fils était en train de manger des billes de verre. Cela nous a occupé une bonne partie de la nuit. Après ces réunions, je pars au Canada, puis outremer.
 

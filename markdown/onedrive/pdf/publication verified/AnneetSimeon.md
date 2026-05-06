@@ -49,6 +49,9 @@ mevar_match:
   title: "Anne et Siméon"
   similarity: 0.515
 llm_cleaned: true
+bible_refs:
+  - "Luc 2"
+  - "Matthieu 21"
 ---
 ## Anne et Siméon
 

@@ -51,6 +51,15 @@ themes:
   - "Possession de Dieu"
   - "Laodicée"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Amos 4:12"
+  - "Apocalypse 17"
+  - "Apocalypse 3:14"
+  - "Genèse 11"
+  - "Jacques 3"
+  - "Jérémie 1"
+  - "Matthieu 25"
 ---
 ## Exhortation du Mois de Décembre 2006
 

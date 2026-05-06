@@ -37,6 +37,15 @@ themes:
   - "signes du Messie"
 pdf_url: "http://le-scribe.org/pdfiles/560414Bartimee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:12"
+  - "Jean 1:47"
+  - "Jean 5:18"
+  - "Jean 5:24"
+  - "Luc 18:42"
+  - "Marc 11:24"
+  - "Marc 16"
+  - "Matthieu 26:39"
 ---
 **Résumé de : ”L’aveugle Bartimée” (14 avril 1956)**
 

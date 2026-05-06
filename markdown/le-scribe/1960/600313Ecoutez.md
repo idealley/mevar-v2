@@ -38,6 +38,23 @@ themes:
   - "Unité de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/600313Ecoutez.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 5:21"
+  - "2 Timothée 3:5"
+  - "Daniel 3:17"
+  - "Deutéronome 18:15,18"
+  - "Genèse 5:22"
+  - "Hébreux 11:5"
+  - "Hébreux 13:8"
+  - "Jean 14:2"
+  - "Jean 14:20"
+  - "Jean 5:19"
+  - "Jean 8:29"
+  - "Marc 11:23"
+  - "Matthieu 16:28"
+  - "Matthieu 17:1"
+  - "Matthieu 3:9"
+  - "Ésaïe 28:11-12"
 ---
 **1.** Que les frères s'approchent pour que nous imposions les mains sur ces linges. On nous demande souvent de les oindre, mais si on examine les Ecritures, Paul ne les oignait pas : ils avaient seulement touché son corps. Nous allons donc prier sur eux. Priez avec nous. [Prière] …
 

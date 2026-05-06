@@ -48,6 +48,19 @@ themes:
   - "préparation de l'Épouse"
 pdf_url: "http://le-scribe.org/pdfiles/wmbch17.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18"
+  - "1 Rois 18:31"
+  - "1 Thessaloniciens 2:19"
+  - "Apocalypse 13:16"
+  - "Genèse 1:11"
+  - "Jean 5:19"
+  - "Joël 2:25"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Matthieu 17:10"
+  - "Matthieu 24"
+  - "Ésaïe 9:5"
 ---
 **CHAPITRE DIX-SEPT**
 

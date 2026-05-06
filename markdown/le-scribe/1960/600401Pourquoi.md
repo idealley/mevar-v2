@@ -34,6 +34,11 @@ themes:
   - "obéissance à la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/600401Pourquoi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38-39"
+  - "Jérémie 8:22"
+  - "Matthieu 15:9"
+  - "Psaumes 16:10"
 ---
 “Pourquoi ?” (le 1er avril 1960)
 

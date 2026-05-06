@@ -37,6 +37,19 @@ themes:
   - "Jésus-Christ le même hier, aujourd'hui et éternellement"
 pdf_url: "http://le-scribe.org/pdfiles/630606Montre-nous.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 4:8-37"
+  - "Actes 19:12"
+  - "Jean 10:30"
+  - "Jean 11:23-24"
+  - "Jean 14:11,5"
+  - "Jean 14:12"
+  - "Jean 14:7-8"
+  - "Jean 14:9"
+  - "Jean 16:16"
+  - "Marc 5:24-34"
+  - "Marc 7:13"
+  - "Ésaïe 35:8"
 ---
 **Résumé de!: “Montre-nous le Père” (6 Juin 1963, soir)**
 

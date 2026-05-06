@@ -46,6 +46,13 @@ themes:
   - "fin de l'âge des Gentils"
 pdf_url: "http://le-scribe.org/pdfiles/580530Foi-eprouvee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 11:1"
+  - "Jean 20:21"
+  - "Jean 5:19"
+  - "Marc 11:22"
+  - "Marc 11:22-23"
+  - "Psaumes 23:4"
 ---
 Résumé de : “Une foi éprouvée par le temps” (30 mai 1958, soir)
 

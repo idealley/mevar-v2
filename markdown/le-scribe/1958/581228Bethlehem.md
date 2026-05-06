@@ -50,6 +50,18 @@ themes:
   - "Pain de Vie"
 pdf_url: "http://le-scribe.org/pdfiles/581228Bethlehem.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 16:1"
+  - "Jean 15:1"
+  - "Jean 19:30"
+  - "Jean 6:50"
+  - "Luc 12:32"
+  - "Luc 2:11"
+  - "Michée 5:1"
+  - "Psaumes 23"
+  - "Ruth 1:16"
+  - "Ruth 1:22"
+  - "Ruth 4:20"
 ---
 **Résumé de : “Pourquoi la petite Bethléhem ?” (28 décembre 1958)**
 

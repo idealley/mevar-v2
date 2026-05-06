@@ -32,6 +32,11 @@ themes:
   - "Transformation spirituelle"
   - "Héritage spirituel"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 28:13"
+  - "Genèse 28:13-15"
+  - "Genèse 32"
+  - "Romains 5"
 ---
 ## La lutte de Jacob
 

@@ -42,6 +42,22 @@ mevar_match:
   title: "L’ Appel à la victoire"
   similarity: 0.572
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 4:4"
+  - "1 Jean 5"
+  - "1 Jean 5:3"
+  - "Apocalypse 2"
+  - "Apocalypse 2:11"
+  - "Apocalypse 2:17"
+  - "Apocalypse 2:25-28"
+  - "Apocalypse 2:7"
+  - "Apocalypse 3:12-13"
+  - "Apocalypse 3:21-22"
+  - "Apocalypse 3:5-6"
+  - "Apocalypse 4"
+  - "Deutéronome 28"
+  - "Luc 17"
+  - "Matthieu 13"
 ---
 L'Appel à la victoire (première partie), prêché le dimanche 6 août 2018 à Koumassi par le frère M'BRA Parfait
 

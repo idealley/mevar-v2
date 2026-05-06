@@ -40,6 +40,31 @@ themes:
   - "Foi éprouvée"
   - "Préparation de l'Épouse"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 3:15"
+  - "2 Pierre 3:9"
+  - "Apocalypse 19:7-8"
+  - "Apocalypse 3:19-20"
+  - "Daniel 6:22"
+  - "Deutéronome 6:5"
+  - "Genèse 22:1-2"
+  - "Genèse 32:26-28"
+  - "Genèse 37:33-35"
+  - "Hébreux 11"
+  - "Hébreux 11:1-2"
+  - "Hébreux 11:35-40"
+  - "Jacques 1:2-4"
+  - "Jacques 5"
+  - "Jacques 5:7-11"
+  - "Jean 1"
+  - "Jean 12"
+  - "Jérémie 20:2"
+  - "Luc 10:38-42"
+  - "Luc 2:25-32"
+  - "Philippiens 3:8"
+  - "Psaumes 119"
+  - "Psaumes 119:57"
+  - "Romains 10:1-2"
 ---
 ## LA BONNE PART QUI NE NOUS SERA JAMAIS OTEE
 

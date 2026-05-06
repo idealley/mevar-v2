@@ -48,6 +48,33 @@ mevar_match:
   title: "L'éveil de l'homme spirituel pour le combat spirituel"
   similarity: 0.653
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 3:8"
+  - "1 Jean 3:9"
+  - "1 Jean 5"
+  - "1 Pierre 2"
+  - "2 Corinthiens 5:16"
+  - "2 Rois 17"
+  - "Apocalypse 17"
+  - "Apocalypse 17:14"
+  - "Apocalypse 3"
+  - "Apocalypse 3:21"
+  - "Genèse 2"
+  - "Genèse 3:16"
+  - "Jean 1"
+  - "Jean 12:31"
+  - "Jean 16"
+  - "Jean 1:29"
+  - "Jean 3"
+  - "Jean 5"
+  - "Malachie 3"
+  - "Matthieu 1:20-21"
+  - "Michée 5:1-2"
+  - "Romains 16:20"
+  - "Romains 3:23"
+  - "Zacharie 9"
+  - "Zacharie 9:9"
+  - "Éphésiens 2"
 ---
 ## L’EVEIL DE L’HOMME SPIRITUEL POUR LE COMBAT SPIRITUEL
 

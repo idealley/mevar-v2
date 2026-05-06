@@ -45,6 +45,29 @@ themes:
   - "signe des temps"
 pdf_url: "http://le-scribe.org/pdfiles/640318Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:28"
+  - "2 Pierre 2:8"
+  - "2 Timothée 3:1-5"
+  - "Amos 3:7"
+  - "Apocalypse 3:20"
+  - "Deutéronome 18:15"
+  - "Genèse 18:13"
+  - "Hébreux 13:8"
+  - "Hébreux 4:12"
+  - "Jean 10:35"
+  - "Jean 12:12-22"
+  - "Jean 16:16,14"
+  - "Jean 1:1,14"
+  - "Jean 1:49"
+  - "Jean 5:39"
+  - "Jean 5:46"
+  - "Jean 9:29"
+  - "Luc 17:28,30"
+  - "Malachie 3:1"
+  - "Nombres 12:6"
+  - "Philippiens 3:13-14"
+  - "Éphésiens 4:11"
 ---
 **Résumé de!: “Messieurs, nous voudrions voir Jésus” (4 mars1964, soir)**
 

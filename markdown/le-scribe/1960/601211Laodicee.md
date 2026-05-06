@@ -34,6 +34,30 @@ themes:
   - "organisation ecclésiastique"
 pdf_url: "http://le-scribe.org/pdfiles/601211Laodicee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 3:17"
+  - "1 Rois 19:4"
+  - "Apocalypse 13"
+  - "Apocalypse 2:14"
+  - "Apocalypse 3:14"
+  - "Apocalypse 3:14-22"
+  - "Apocalypse 3:15-16"
+  - "Apocalypse 3:17"
+  - "Apocalypse 3:18"
+  - "Apocalypse 3:20-22"
+  - "Jacques 5:1-2"
+  - "Luc 12:32"
+  - "Luc 1:14"
+  - "Luc 7:36-50"
+  - "Malachie 4"
+  - "Malachie 4:2"
+  - "Malachie 4:5"
+  - "Matthieu 17"
+  - "Matthieu 2:15"
+  - "Osée 11:1"
+  - "Proverbes 12:4"
+  - "Romains 11:15-27"
+  - "Romains 11:20"
 ---
 **L'AGE DE L'EGLISE DE LAODICEE**
 *THE LAODICEAN CHURCH AGE*

@@ -42,6 +42,14 @@ themes:
   - "Pèlerinage chrétien"
 pdf_url: "http://le-scribe.org/pdfiles/550123Approche.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 1:7"
+  - "Actes 16:31"
+  - "Hébreux 12:5-11"
+  - "Hébreux 9:22"
+  - "Jean 6:44"
+  - "Psaumes 65"
+  - "Romains 8:39"
 ---
 *Venir dans la Présence de Dieu* (23 janvier 1955, après-midi)
 

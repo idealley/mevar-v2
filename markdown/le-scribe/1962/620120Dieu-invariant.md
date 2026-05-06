@@ -46,6 +46,27 @@ themes:
   - "signe du Messie"
 pdf_url: "http://le-scribe.org/pdfiles/620120Dieu-invariant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 19:1-13"
+  - "2 Corinthiens 5:19"
+  - "Actes 1:8"
+  - "Hébreux 11"
+  - "Hébreux 11:10"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 10:37"
+  - "Jean 14:12"
+  - "Jean 14:13"
+  - "Jean 16:14"
+  - "Jean 7:37"
+  - "Luc 17:29-31"
+  - "Luc 21:33"
+  - "Malachie 3:6"
+  - "Marc 11:23"
+  - "Marc 9:23"
+  - "Zacharie 14:7"
+  - "Ésaïe 40:8"
+  - "Ésaïe 9:5,7"
 ---
 *Un Dieu qui ne varie pas mais qui agit de façon inattendue* (20 janvier 1962, soir)
 

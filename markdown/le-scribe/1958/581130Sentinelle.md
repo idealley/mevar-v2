@@ -33,6 +33,19 @@ themes:
   - "discernement spirituel"
 pdf_url: "http://le-scribe.org/pdfiles/581130Sentinelle.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 4:7-8"
+  - "Actes 2:17"
+  - "Actes 2:27"
+  - "Joël 1:4"
+  - "Joël 2:25"
+  - "Luc 18:8"
+  - "Luc 21:11,25,26"
+  - "Luc 21:28"
+  - "Luc 21:30-32"
+  - "Marc 12:42"
+  - "Ésaïe 21"
+  - "Ésaïe 53:5"
 ---
 *Résumé de : “Sentinelle, que dis-tu de la nuit?” (30 novembre 1958, matin)*
 

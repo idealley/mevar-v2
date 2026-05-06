@@ -41,6 +41,15 @@ themes:
   - "persévérance"
 pdf_url: "http://le-scribe.org/pdfiles/500822Foi-sans-oeuvre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 3:1"
+  - "Jacques 2:21"
+  - "Jean 10:10"
+  - "Jean 14:12"
+  - "Jean 5:19"
+  - "Luc 12:8"
+  - "Marc 11:24"
+  - "Romains 4"
 ---
 **LA FOI SANS LES ŒUVRES EST MORTE**
 *FAITH WITHOUT WORKS IS DEAD*

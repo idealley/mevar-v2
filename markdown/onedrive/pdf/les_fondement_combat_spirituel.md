@@ -28,6 +28,18 @@ themes:
   - "Malédiction et bénédiction"
   - "Intercession"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:30-31"
+  - "1 Jean 2:1"
+  - "2 Corinthiens 5:17"
+  - "Apocalypse 1:8"
+  - "Colossiens 2:15"
+  - "Deutéronome 28"
+  - "Esther 3:13"
+  - "Esther 9:1"
+  - "Hébreux 4:15"
+  - "Luc 4"
+  - "Matthieu 5:18"
 ---
 ## Appel au combat spirituel – Appel à la prière
 

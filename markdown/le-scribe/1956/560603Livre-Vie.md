@@ -36,6 +36,22 @@ themes:
   - "Jugement et grâce"
 pdf_url: "http://le-scribe.org/pdfiles/560603Livre-Vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 13:1-3"
+  - "Apocalypse 12:1-2"
+  - "Apocalypse 13:16"
+  - "Apocalypse 13:8"
+  - "Apocalypse 19:20"
+  - "Galates 5:22"
+  - "Hébreux 10:1"
+  - "Hébreux 6:4-6"
+  - "Jean 6:44"
+  - "Matthieu 10:5-7"
+  - "Matthieu 5:10-12"
+  - "Matthieu 5:48"
+  - "Romains 8:1"
+  - "Romains 8:30"
 ---
 **1.** Je devais être dans le Kentucky, mais j'ai dû venir à cause du frère Lyle et du fils de Mrs. Ferguson très gravement malades. J'irai néanmoins prier pour les malades à New Albany, mais je préfère jeûner trois jours avant une réunion de ce genre. J'attends de grandes choses de la réunion à Indianapolis. Je suis parfois épuisé, mais, après deux jours de repos, quelque chose me pousse à nouveau en avant. Nous sommes ici pour servir le Seigneur. Je n'ai rien préparé faute de temps, et je viens de choisir quelques versets, et j'ai pris la Bible Collins écrite en caractères plus grands, car j'ai plus de 40 ans.
 

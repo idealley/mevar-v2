@@ -45,6 +45,16 @@ themes:
   - "séparation du monde"
 pdf_url: "http://le-scribe.org/pdfiles/650217Homme-fuyant.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Samuel 16:5-8"
+  - "Amos 3:8"
+  - "Jean 10:30"
+  - "Jean 14:12"
+  - "Jean 6:53-54"
+  - "Jonas 1:1-3"
+  - "Luc 17:30"
+  - "Malachie 4:5-6"
+  - "Marc 12:42"
 ---
 **1.** [Prière]. Il y a une réponse à toute question, y compris au sujet du mariage et du divorce [NDT : allusion à la future prédication du 21 février suivant sur ce thème]. J'ai prié plusieurs jours à ce sujet. Le Seigneur m'a alors rencontré, quelque chose s'est passé, et j'ai hâte de vous en parler. Dieu m'a donné la réponse juste. Le plateau des offrandes va passer. Mais nous ne pressons jamais les gens à donner, c'est seulement un geste religieux. Donner fait partie de notre devoir. J'aurais empêché la veuve de donner le peu qu'elle avait [Marc 12:42], mais Jésus ne l'a pas arrêtée. Il lui réservait autre chose à l'arrivée. Quand les gens veulent donner, il faut donc leur donner l'occasion de le faire.
 

@@ -38,6 +38,21 @@ themes:
   - "La présence du Saint-Esprit dans l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/570226Voir-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 3:4"
+  - "Apocalypse 3:21"
+  - "Hébreux 13:8"
+  - "Jean 1"
+  - "Jean 12:20-21"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Jean 6"
+  - "Jean 6:44,37"
+  - "Jean 8:57-58"
+  - "Éphésiens 4:11"
+  - "Ésaïe 53:5"
 ---
 *Nous voudrions voir Jésus* (26.02.1957)
 

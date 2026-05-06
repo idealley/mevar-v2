@@ -45,6 +45,14 @@ themes:
   - "Songes et visions"
   - "Foi"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 4"
+  - "2 Timothée 3"
+  - "Actes 19"
+  - "Jean 14"
+  - "Jean 16"
+  - "Luc 17"
+  - "Matthieu 12"
 ---
 QUEL EST TON BESOIN ?
 

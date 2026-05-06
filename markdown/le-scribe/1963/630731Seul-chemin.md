@@ -47,6 +47,23 @@ themes:
   - "Séparation du monde"
 pdf_url: "http://le-scribe.org/pdfiles/630731Seul-chemin.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 4:21"
+  - "Actes 16:18"
+  - "Actes 2:38"
+  - "Actes 2:39"
+  - "Exode 3"
+  - "Genèse 15:14,16"
+  - "Genèse 6:2"
+  - "Jean 12:32"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 8:46"
+  - "Jude 3"
+  - "Luc 17:28,30"
+  - "Malachie 4:24"
+  - "Marc 16:17-18"
+  - "Marc 7:13"
 ---
 *Résumé de!: “Dieu n’a pourvu qu’un seul chemin en toutes choses”, (31 Juillet 1963, soir)*
 

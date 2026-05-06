@@ -36,6 +36,9 @@ themes:
   - "résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/510928A-ta-parole.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18:36"
+  - "Hébreux 11:6"
 ---
 **SUR TA PAROLE, SEIGNEUR**
 *AT THY WORD LORD*

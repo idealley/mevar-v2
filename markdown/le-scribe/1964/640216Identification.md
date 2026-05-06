@@ -41,6 +41,19 @@ themes:
   - "unité avec Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/640216Identification.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 1:15"
+  - "Actes 2:38"
+  - "Apocalypse 3:5,9"
+  - "Galates 1:8"
+  - "Jean 14:11,20"
+  - "Jean 14:12"
+  - "Jean 3:2"
+  - "Jean 5:46"
+  - "Jean 6:68"
+  - "Luc 16:19-31"
+  - "Philippiens 2:5-11"
+  - "Ésaïe 9:5,7"
 ---
 *Identification* (16 février 1964, soir)
 

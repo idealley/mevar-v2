@@ -39,6 +39,18 @@ themes:
   - "puissance de la résurrection"
 pdf_url: "http://le-scribe.org/pdfiles/570324Pourquoi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13:8"
+  - "2 Pierre 3:9"
+  - "Hébreux 1:1"
+  - "Luc 11:24"
+  - "Matthieu 11:28"
+  - "Matthieu 13:47"
+  - "Matthieu 21:42"
+  - "Matthieu 7:22-23"
+  - "Matthieu 9:17"
+  - "Romains 11:29"
+  - "Ézéchiel 36:26-27"
 ---
 **1.** Je dois être vendredi à Wichita, Kansas. Je ne peux prendre la route du Nord à cause de la neige. Nous parlions de la date du départ, et j'ai pensé au cantique "Crois seulement" qui m'accompagne, depuis dix ans, quand je viens sur l'estrade. Si je dois partir avant la venue de Jésus, il est prévu que je serai enseveli avec ce chant !
 

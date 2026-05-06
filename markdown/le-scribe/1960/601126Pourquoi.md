@@ -40,6 +40,29 @@ themes:
   - "Incréduité"
 pdf_url: "http://le-scribe.org/pdfiles/601126Pourquoi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Daniel 2:43"
+  - "Daniel 2:45"
+  - "Deutéronome 13:1-3"
+  - "Deutéronome 22:5"
+  - "Genèse 18:12-13"
+  - "Hébreux 13:8"
+  - "Jean 10:37"
+  - "Jean 12:24"
+  - "Jean 14:17,19"
+  - "Jean 16:28"
+  - "Jean 1:42"
+  - "Jean 1:49"
+  - "Jérémie 8:20-22"
+  - "Jérémie 8:22"
+  - "Luc 17:28"
+  - "Malachie 4:2"
+  - "Matthieu 10:25"
+  - "Matthieu 13:58"
+  - "Matthieu 28:20"
+  - "Psaumes 103:3"
+  - "Zacharie 14:7"
 ---
 **1.** [Prière] …
 **2.** Nous n’avons pas distribué de cartes de prière en prévision d’une séance de baptêmes

@@ -43,6 +43,15 @@ themes:
   - "retour à la foi primitive"
 pdf_url: "http://le-scribe.org/pdfiles/550611Dans-ta-main.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Exode 4:2-4"
+  - "Jean 14:10"
+  - "Jean 3:5"
+  - "Jean 5:19"
+  - "Juges 3:31"
+  - "Marc 16"
+  - "Romains 11:29"
+  - "Ésaïe 53:5"
 ---
 Résumé de : “Qu’y a-t-il dans ta main ?” (11 juin 1955, soir)
 

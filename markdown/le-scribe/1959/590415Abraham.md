@@ -43,6 +43,26 @@ themes:
   - "autorité de la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/590415Abraham.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12:11"
+  - "Colossiens 6:17"
+  - "Exode 13:13"
+  - "Genèse 14:18-20"
+  - "Genèse 15"
+  - "Genèse 15:2"
+  - "Genèse 15:9"
+  - "Hébreux 7:3"
+  - "Jean 14:12"
+  - "Jean 14:13"
+  - "Jean 14:19"
+  - "Jean 15:5"
+  - "Jean 6:44"
+  - "Matthieu 28:20"
+  - "Matthieu 3:17"
+  - "Psaumes 103:3"
+  - "Romains 4:17-18"
+  - "Ésaïe 52:11,2"
+  - "Ésaïe 53:5"
 ---
 **LA FOI D'ABRAHAM**
 *FAITHFUL ABRAHAM*

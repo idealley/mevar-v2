@@ -47,6 +47,15 @@ themes:
   - "la guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/620608Perseverance.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 21:19"
+  - "1 Rois 22:1-28"
+  - "Deutéronome 18:15-19"
+  - "Genèse 15:13-16"
+  - "Jean 11:21-22"
+  - "Jean 11:24"
+  - "Jean 6:44"
+  - "Matthieu 15:21-28"
 ---
 **Résumé de!: “Persévérance” (8 juin 1963, soir)**
 

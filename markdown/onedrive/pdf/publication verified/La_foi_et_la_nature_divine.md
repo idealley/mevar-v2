@@ -43,6 +43,9 @@ mevar_match:
   title: "La foi et la nature divine (1)"
   similarity: 0.564
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 11"
+  - "Josué 10"
 ---
 *Prêché à Lausanne le 25 juillet 2015 par le Fr M'BRA Parfait*
 

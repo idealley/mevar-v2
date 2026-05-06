@@ -37,6 +37,17 @@ themes:
   - "incrédulité comme péché"
 pdf_url: "http://le-scribe.org/pdfiles/620621Confirmation.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Colossiens 3:3"
+  - "Galates 3:16"
+  - "Hébreux 11:1"
+  - "Hébreux 11:3"
+  - "Hébreux 6:13"
+  - "Jean 14:2-3"
+  - "Jean 15:7"
+  - "Jean 5:19"
+  - "Marc 5:25-34"
+  - "Romains 4:20"
 ---
 **Résumé de!: “Confirmation et preuve” (21 juin 1962, soir)**
 

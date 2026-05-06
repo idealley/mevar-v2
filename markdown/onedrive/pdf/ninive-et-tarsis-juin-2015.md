@@ -44,6 +44,19 @@ mevar_match:
   title: "Ninive et Tarsis"
   similarity: 0.637
 llm_cleaned: true
+bible_refs:
+  - "Amos 3"
+  - "Apocalypse 12"
+  - "Apocalypse 20"
+  - "Apocalypse 20:8-10"
+  - "Apocalypse 21"
+  - "Exode 14"
+  - "Jonas 1"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Éphésiens 4:11"
+  - "Ésaïe 27:12-13"
+  - "Ésaïe 65"
 ---
 ## Ninive et Tarsis
 

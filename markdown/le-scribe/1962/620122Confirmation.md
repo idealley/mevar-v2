@@ -43,6 +43,22 @@ themes:
   - "Lumière du soir"
 pdf_url: "http://le-scribe.org/pdfiles/620122Confirmation.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 1:1"
+  - "2 Rois 1:9-16"
+  - "2 Timothée 3:5"
+  - "Actes 24:14"
+  - "Hébreux 11:26"
+  - "Jean 10:37-38"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 5:19"
+  - "Jean 9:25"
+  - "Marc 16"
+  - "Marc 16:14"
+  - "Marc 5:25-34"
+  - "Zacharie 14:8"
+  - "Éphésiens 4:30"
 ---
 **Résumé de!: “Confirmation de l’ordre de mission” (22 janvier 1962, soir)**
 

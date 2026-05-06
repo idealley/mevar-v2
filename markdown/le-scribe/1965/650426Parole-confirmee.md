@@ -44,6 +44,28 @@ themes:
   - "Trois groupes de croyants"
 pdf_url: "http://le-scribe.org/pdfiles/650426Parole-confirmee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:12"
+  - "Actes 5:15"
+  - "Apocalypse 19:13"
+  - "Hébreux 13:8"
+  - "Hébreux 4:12-13"
+  - "Hébreux 4:15"
+  - "Jean 14:12"
+  - "Jean 1:1"
+  - "Jean 5:36"
+  - "Jean 5:46"
+  - "Jean 8:46"
+  - "Jean 9:3"
+  - "Josué 10:12"
+  - "Josué 5:13-15"
+  - "Luc 8:40-56"
+  - "Malachie 3:1"
+  - "Malachie 4"
+  - "Marc 11:23"
+  - "Matthieu 11:10"
+  - "Romains 4:20"
+  - "Ésaïe 7:14"
 ---
 **LA PAROLE CONFIRMEE DE DIEU**
 

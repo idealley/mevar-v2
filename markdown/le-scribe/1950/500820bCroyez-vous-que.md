@@ -40,6 +40,12 @@ themes:
   - "onction du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/500820bCroyez-vous-que.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 12:32"
+  - "Luc 13:16"
+  - "Luc 19:40"
+  - "Marc 9:22,25"
+  - "Matthieu 9:27"
 ---
 *20 août 1950, dimanche soir, Cleveland (Ohio)*
 

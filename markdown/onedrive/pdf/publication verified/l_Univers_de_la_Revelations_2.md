@@ -48,6 +48,12 @@ mevar_match:
   title: "L’ Univers de la révélation (2)"
   similarity: 0.614
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 13"
+  - "2 Thessaloniciens 2"
+  - "Jérémie 1"
+  - "Jérémie 28"
+  - "Luc 17"
 ---
 # L'univers de la révélation 2
 

@@ -28,6 +28,13 @@ themes:
   - "Prière"
   - "Réveil"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 6:10-11"
+  - "2 Corinthiens 8:9"
+  - "Apocalypse 3:17"
+  - "Jean 10:10"
+  - "Jean 10:7-8"
+  - "Proverbes 24:33-34"
 ---
 ## La vie en abondance
 

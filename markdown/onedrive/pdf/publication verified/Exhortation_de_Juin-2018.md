@@ -46,6 +46,18 @@ mevar_match:
   title: "Les visages de Satan"
   similarity: 0.68
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 4:1"
+  - "Apocalypse 3:10"
+  - "Jacques 5:11"
+  - "Jacques 5:8"
+  - "Job 42:7-9"
+  - "Job 8"
+  - "Job 9"
+  - "Luc 17:26-32"
+  - "Malachie 9"
+  - "Matthieu 16:23"
+  - "Éphésiens 6:13"
 ---
 ## LES VISAGES DE SATAN
 

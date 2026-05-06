@@ -45,6 +45,17 @@ mevar_match:
   title: "Convention Nationale de Réveil"
   similarity: 0.685
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 14:1-3"
+  - "1 Jean 4"
+  - "1 Thessaloniciens 5:20-21"
+  - "Actes 11:28"
+  - "Actes 21:10-11"
+  - "Jean 15:16"
+  - "Luc 13"
+  - "Psaumes 119"
+  - "Psaumes 119:59"
 ---
 ## CONVENTION NATIONALE DE REVEIL
 *Lakota les 30-31 Mars et 1er Avril 2018*

@@ -35,6 +35,23 @@ themes:
   - "dons spirituels"
 pdf_url: "http://le-scribe.org/pdfiles/580928Nom-de-Jesus.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:7"
+  - "Actes 2:38"
+  - "Actes 8:17,10"
+  - "Apocalypse 13:8,17"
+  - "Apocalypse 17"
+  - "Apocalypse 3:8"
+  - "Galates 1:8"
+  - "Galates 5:22"
+  - "Jacques 4:4,1"
+  - "Jean 14:6,6"
+  - "Jean 2:15"
+  - "Jean 5:24"
+  - "Jean 6:37,44"
+  - "Matthieu 28:19"
+  - "Romains 3:4"
+  - "Éphésiens 4:11"
 ---
 **1.** N'oubliez pas que ce n'est pas votre frère qui a mal agi, mais le diable. C'est donc le diable qu'il faut accuser, et non pas le frère. [Prière]. Comme hier, cette réunion est consacrée à l'étude de ce que cette assemblée croit.
 

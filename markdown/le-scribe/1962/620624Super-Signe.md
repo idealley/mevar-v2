@@ -38,6 +38,19 @@ themes:
   - "guérison"
 pdf_url: "http://le-scribe.org/pdfiles/620624Super-Signe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17"
+  - "Genèse 22:17"
+  - "Jean 5:19"
+  - "Juges 3:31"
+  - "Luc 8:41"
+  - "Malachie 3"
+  - "Malachie 3:1"
+  - "Malachie 4"
+  - "Malachie 4:6"
+  - "Matthieu 11:10"
+  - "Zacharie 14:7"
+  - "Ésaïe 7:10-14"
 ---
 **Résumé de!: “Le Super Signe” (24 juin 1962, après-midi)**
 

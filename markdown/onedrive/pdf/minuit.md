@@ -42,6 +42,29 @@ themes:
   - "Message de Minuit"
   - "Vases d'honneur"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 11:27-33"
+  - "2 Pierre 2:17-19"
+  - "2 Thessaloniciens 3"
+  - "2 Timothée 2:20-21"
+  - "Apocalypse 3:14"
+  - "Colossiens 2:1-3"
+  - "Esther 2"
+  - "Exode 19"
+  - "Exode 19:10-20"
+  - "Hébreux 12"
+  - "Hébreux 12:14"
+  - "Hébreux 13"
+  - "Jean 8:34"
+  - "Marc 2:18-22"
+  - "Matthieu 13"
+  - "Matthieu 24:45"
+  - "Matthieu 25"
+  - "Matthieu 25:1-13"
+  - "Néhémie 2:18-20"
+  - "Psaumes 42:7-8"
+  - "Ésaïe 42:19"
+  - "Ésaïe 58"
 ---
 *Exhortation spéciale du Mois de Décembre 2006*
 

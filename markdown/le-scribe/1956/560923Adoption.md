@@ -36,6 +36,13 @@ themes:
   - "Foi et obéissance"
 pdf_url: "http://le-scribe.org/pdfiles/560923Adoption.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Exode 19"
+  - "Jean 10:4-5"
+  - "Matthieu 17:1"
+  - "Matthieu 18:20"
+  - "Psaumes 121:1-2"
 ---
 **1.** Merci, frère Neville. A propos des chevaux, ils savent que c'est le moment du travail quand on leur passe le harnais, et on n'est jamais trop fatigué pour faire quelque chose pour le Seigneur, si c'est notre part de le faire. J'ai été très occupé ces derniers jours. J'ai voyagé 53 heures pour arriver en Californie à 2 heures du matin. A 5 heures il y avait une émission à la radio, puis j'ai prêché à la réunion des Hommes d'Affaires, puis j'ai prêché l'après-midi à l'Assemblée baptiste. Puis j'ai prêché le soir, et cela a continué jusqu'à lundi soir. J'ai pris le train à 11 heures, et j'étais chez moi 64 heures plus tard avant-hier.
 

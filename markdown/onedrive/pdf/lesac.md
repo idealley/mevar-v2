@@ -47,6 +47,15 @@ themes:
   - "Amour fraternel"
   - "Puissance du Saint-Esprit"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "Apocalypse 12"
+  - "Daniel 9:1-4"
+  - "Jean 3:16"
+  - "Malachie 4"
+  - "Matthieu 24"
+  - "Ésaïe 40"
+  - "Ésaïe 62:6"
 ---
 # Le Sac et la Cendre
 

@@ -47,6 +47,24 @@ themes:
   - "discernement"
 pdf_url: "http://le-scribe.org/pdfiles/510717Manifestation-Esprit.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 20:1-11"
+  - "2 Rois 6:17"
+  - "Actes 12:7"
+  - "Actes 16:17"
+  - "Actes 27:23"
+  - "Actes 8:26"
+  - "Apocalypse 22:8-9"
+  - "Exode 23:20"
+  - "Hébreux 3:1"
+  - "Jean 11:41"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 1:49"
+  - "Jérémie 1:5"
+  - "Marc 11:24"
+  - "Éphésiens 5:27"
+  - "Ésaïe 53:5"
 ---
 **MANIFESTATION DE L’ESPRIT**
 *MANIFESTATION OF THE SPIRIT*

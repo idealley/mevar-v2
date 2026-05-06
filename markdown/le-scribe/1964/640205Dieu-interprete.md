@@ -36,6 +36,28 @@ themes:
   - "semence d'Abraham"
 pdf_url: "http://le-scribe.org/pdfiles/640205Dieu-interprete.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 1:15-21"
+  - "2 Pierre 2:8"
+  - "2 Pierre 3:12"
+  - "2 Timothée 3:5"
+  - "Deutéronome 18:15-19"
+  - "Genèse 18"
+  - "Genèse 19:11"
+  - "Genèse 1:3"
+  - "Jean 14:12"
+  - "Jean 1:1,14"
+  - "Jean 1:42"
+  - "Jean 1:47"
+  - "Jean 3:2"
+  - "Jean 4:1-42"
+  - "Jean 5:39"
+  - "Jean 5:46"
+  - "Jean 8:46"
+  - "Luc 17:28"
+  - "Luc 8:46"
+  - "Marc 6:5-6"
+  - "Ésaïe 7:14"
 ---
 *Dieu est son propre interprète* (5 février 1964, soir)
 

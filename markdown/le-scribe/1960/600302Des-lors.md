@@ -39,6 +39,16 @@ themes:
   - "fin des temps"
 pdf_url: "http://le-scribe.org/pdfiles/600302Des-lors.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55,57"
+  - "Actes 1:26"
+  - "Apocalypse 12:17"
+  - "Hébreux 13:2"
+  - "Jean 5:19"
+  - "Matthieu 12:42"
+  - "Matthieu 3:9"
+  - "Matthieu 4:16-17"
+  - "Ésaïe 53:5"
 ---
 “Dès ce moment” (le 2 mars 1960)
 

@@ -46,6 +46,25 @@ themes:
   - "marque de la Bête"
 pdf_url: "http://le-scribe.org/pdfiles/651207Conduite.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 5:7"
+  - "2 Samuel 6:1-11"
+  - "Amos 3:7"
+  - "Apocalypse 22:19"
+  - "Apocalypse 3:20"
+  - "Apocalypse 9"
+  - "Deutéronome 18:19"
+  - "Hébreux 11:24"
+  - "Jean 10:4"
+  - "Jean 14:26,16"
+  - "Jean 5:46"
+  - "Jean 6:31,49"
+  - "Jean 6:37"
+  - "Jean 6:53"
+  - "Luc 16:11-31"
+  - "Malachie 4:5"
+  - "Marc 10"
+  - "Marc 10:17-22"
 ---
 **1.** Il est facile de bâtir un mur droit, mais nous bâtissons une maison, et construire les angles est difficile. [Prière]. Lisons Marc 10:17-22
 

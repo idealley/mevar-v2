@@ -40,6 +40,24 @@ themes:
   - "séparation"
 pdf_url: "http://le-scribe.org/pdfiles/480304ange-de-Dieu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 2:9-14"
+  - "2 Rois 7:1-5"
+  - "Actes 12:7-10"
+  - "Actes 1:8"
+  - "Actes 27:24"
+  - "Apocalypse 22:11"
+  - "Apocalypse 22:9"
+  - "Hébreux 13:8"
+  - "Jean 14:10"
+  - "Jean 4:48"
+  - "Jean 4:50-54"
+  - "Jean 5:19"
+  - "Luc 8:45"
+  - "Marc 10:38"
+  - "Marc 6:5"
+  - "Matthieu 4:23-24"
+  - "Ésaïe 53:5"
 ---
 *Résumé de!: “L’Ange de Dieu” (4 mars 1948, soir)*
 

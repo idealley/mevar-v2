@@ -42,6 +42,23 @@ themes:
   - "Unité du Corps de Christ"
 pdf_url: "http://le-scribe.org/pdfiles/590707Baume_Galaad.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:3"
+  - "Actes 19:2"
+  - "Actes 2:38-39"
+  - "Apocalypse 11:15,12"
+  - "Hébreux 10:2"
+  - "Hébreux 4:15"
+  - "Jean 14:13,15"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Jean 6:44"
+  - "Jean 7:37"
+  - "Jérémie 1:5"
+  - "Jérémie 8:22"
+  - "Matthieu 3:17"
+  - "Psaumes 103:3"
+  - "Ésaïe 53:5"
 ---
 “Un Baume en Galaad” (7 juillet 1959)
 

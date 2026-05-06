@@ -40,6 +40,12 @@ themes:
   - "autorité de la Parole"
 pdf_url: "http://le-scribe.org/pdfiles/510505Commission.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 3:1"
+  - "Jacques 2:21"
+  - "Jean 5:19"
+  - "Luc 22:10"
+  - "Ésaïe 53:5"
 ---
 **1.** La guérison l’autre soir de la femme aveugle a été une bénédiction pour moi [cf. “Je serai avec toi comme j’ai été avec Moïse” le 3.5.1951, §49-51]. J’ai reçu une lettre m’informant que l’Ange est entré chez une femme totalement sourde, et qu’elle a été guérie. Je ne voulais pas nuire aux réunions du frère Freeman, mais j’ai reçu une note et tout va bien. Il y a de la place pour tous en Californie et beaucoup de malades. Dieu bénira les deux réunions. Soyons prêts, et gardons-nous purs, car nous ne savons pas quand il faudra rentrer à la maison. Je prêcherai demain après-midi. Je reçois beaucoup d’invitations à dîner, mais je ne peux pas en accepter une, de peur de froisser les autres personnes. Nous mangerons ensemble un jour, et le Roi prendra place à la table : “Entre dans la joie de ton Maître, tu as combattu le bon combat”.
 

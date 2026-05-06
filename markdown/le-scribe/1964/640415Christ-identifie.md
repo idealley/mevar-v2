@@ -45,6 +45,29 @@ themes:
   - "la foi qui touche Christ"
 pdf_url: "http://le-scribe.org/pdfiles/640415Christ-identifie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 3:16"
+  - "2 Corinthiens 5:19"
+  - "2 Pierre 1:20"
+  - "Amos 3:7"
+  - "Deutéronome 18:15"
+  - "Genèse 18"
+  - "Hébreux 12:7"
+  - "Hébreux 13:5"
+  - "Hébreux 1:1-3"
+  - "Hébreux 1:2"
+  - "Hébreux 4:12"
+  - "Hébreux 4:5"
+  - "Jean 10:30,14"
+  - "Jean 1:1,14"
+  - "Jean 1:23"
+  - "Jean 5:19"
+  - "Jean 5:39,46"
+  - "Jean 8:58"
+  - "Luc 17:28-30"
+  - "Luc 2:48"
+  - "Philippiens 3:13"
+  - "Zacharie 14:7"
 ---
 *Christ est identifié en tous les âges comme étant le même*
 *15 avril 1964, mercredi soir, Tampa (Floride)*

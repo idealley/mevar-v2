@@ -44,6 +44,18 @@ themes:
   - "Puissance du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/550222Jehovah.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 1:3"
+  - "Exode 15:26"
+  - "Exode 17:15"
+  - "Genèse 22:14"
+  - "Genèse 22:7,8,14"
+  - "Hébreux 1:1-2"
+  - "Jean 5:19"
+  - "Juges 6:24"
+  - "Jérémie 23:6,33"
+  - "Lévitique 20:8,21"
+  - "Psaumes 23:1"
 ---
 *JEHOVAH JIREH*
 *22 février 1955, mardi soir, Phoenix (Arizona)*

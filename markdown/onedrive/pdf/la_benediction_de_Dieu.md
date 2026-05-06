@@ -46,6 +46,9 @@ themes:
   - "Conquête de Canaan"
   - "Laodicée"
 llm_cleaned: true
+bible_refs:
+  - "Deutéronome 28"
+  - "Esther 2"
 ---
 ## La bénédiction de Dieu
 

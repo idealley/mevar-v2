@@ -55,6 +55,17 @@ themes:
   - "témoignage"
 pdf_url: "http://le-scribe.org/pdfiles/510501Exhortation.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "Hébreux 6:7"
+  - "Jean 16:33"
+  - "Jean 5:19"
+  - "Jean 9:6"
+  - "Marc 16:15,18"
+  - "Marc 7:33"
+  - "Matthieu 4:23-25"
+  - "Romains 10:17"
+  - "Romains 8:28"
 ---
 **1.** *Exhortation au sujet de la guérison* (1er mai 1951, soir)
 

@@ -40,6 +40,25 @@ themes:
   - "guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/640322Possederportes.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "1 Corinthiens 15:54"
+  - "Deutéronome 11:24"
+  - "Exode 15:26"
+  - "Genèse 18"
+  - "Genèse 20:1"
+  - "Genèse 22:15-18"
+  - "Hébreux 11:19"
+  - "Hébreux 4:15"
+  - "Jacques 4:7"
+  - "Jean 11:25"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 6:31,49"
+  - "Josué 1:3"
+  - "Marc 16:18,9"
+  - "Romains 8:37"
+  - "Éphésiens 4:30"
 ---
 **Résumé de!: “Possédant les portes de l’ennemi après l’épreuve” (22 mars 1964)**
 

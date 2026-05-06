@@ -40,6 +40,20 @@ themes:
   - "consécration des enfants"
 pdf_url: "http://le-scribe.org/pdfiles/590329Bapteme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 10:44"
+  - "Actes 19"
+  - "Actes 19:2"
+  - "Actes 19:4"
+  - "Actes 2:37-39"
+  - "Actes 2:38,8"
+  - "Actes 4:12"
+  - "Apocalypse 22:1-19"
+  - "Galates 1:8"
+  - "Marc 16:15-17"
+  - "Matthieu 19:14"
+  - "Matthieu 1:18"
+  - "Matthieu 28:19"
 ---
 **1.** Toutes nos actions doivent être fondées sur les Ecritures. Selon les catholiques, l’église catholique a été établie par Jésus-Christ, avec les apôtres comme premiers prêtres, et Pierre comme premier Pape. La Bible aurait été écrite par cette première église catholique, et cette église a le pouvoir de tout changer comme elle veut.
 

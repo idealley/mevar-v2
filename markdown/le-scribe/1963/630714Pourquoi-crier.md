@@ -46,6 +46,32 @@ themes:
   - "parole de foi"
 pdf_url: "http://le-scribe.org/pdfiles/630714Pourquoi-crier.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 5:8"
+  - "1 Samuel 7"
+  - "Actes 3:1-11"
+  - "Actes 5:15"
+  - "Exode 13:21"
+  - "Exode 14:10"
+  - "Exode 3"
+  - "Exode 3:12"
+  - "Exode 4:1-5"
+  - "Exode 4:6-7"
+  - "Genèse 15:13"
+  - "Jean 11:1-46"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 4:17-19"
+  - "Jean 6:37"
+  - "Jean 6:44"
+  - "Josué 10:12-13"
+  - "Juges 15:15"
+  - "Juges 16:3"
+  - "Marc 11:24"
+  - "Marc 16:17-18"
+  - "Marc 9:23"
+  - "Matthieu 17:14-21"
+  - "Philippiens 3:8"
 ---
 **Résumé de!: “Pourquoi crier ? Parle !” (14 juillet 1963, matin)**
 

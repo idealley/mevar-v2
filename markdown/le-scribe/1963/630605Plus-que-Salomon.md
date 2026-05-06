@@ -38,6 +38,20 @@ themes:
   - "amour sacrificiel"
 pdf_url: "http://le-scribe.org/pdfiles/630605Plus-que-Salomon.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "1 Rois 8:48"
+  - "Actes 12:7"
+  - "Hébreux 11:6"
+  - "Jean 10:37-38"
+  - "Jean 14:10,5"
+  - "Jean 14:12"
+  - "Jean 5:39"
+  - "Jonas 2:5"
+  - "Luc 22:64"
+  - "Marc 5:24-34"
+  - "Matthieu 12:38"
+  - "Ésaïe 49:15-16"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (5 Juin 1963, soir)*
 

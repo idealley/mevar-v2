@@ -43,6 +43,10 @@ themes:
   - "imminence du retour du Christ"
 pdf_url: "http://le-scribe.org/pdfiles/580618Ecriture-mur.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 3:22"
+  - "Daniel 5:25"
+  - "Luc 17:26-30"
 ---
 **L'écriture sur le mur**
 

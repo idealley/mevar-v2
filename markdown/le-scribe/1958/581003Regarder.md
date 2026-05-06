@@ -42,6 +42,19 @@ themes:
   - "unité de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/581003Regarder.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 6:8"
+  - "Actes 2:39"
+  - "Actes 9:5"
+  - "Hébreux 11:26"
+  - "Hébreux 13:8"
+  - "Jean 13:3"
+  - "Jean 14:19,20"
+  - "Jean 15:2"
+  - "Jean 5:19"
+  - "Jean 7:37"
+  - "Psaumes 34:8"
+  - "Romains 4:20"
 ---
 **REGARDER A L'INVISIBLE**
 

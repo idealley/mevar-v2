@@ -40,6 +40,30 @@ themes:
   - "Fidélité"
 pdf_url: "http://le-scribe.org/pdfiles/631127Monde-ecroule.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 2:22"
+  - "2 Timothée 3:5"
+  - "Actes 2:17,18"
+  - "Actes 2:22-23"
+  - "Actes 2:38"
+  - "Apocalypse 13:3"
+  - "Colossiens 2:6"
+  - "Deutéronome 18:15,19"
+  - "Deutéronome 4:7"
+  - "Hébreux 12:25"
+  - "Hébreux 12:28"
+  - "Hébreux 13:8"
+  - "Hébreux 1:3"
+  - "Jean 15:26,16"
+  - "Jean 1:1"
+  - "Jean 5:39"
+  - "Luc 17:26"
+  - "Lévitique 1:9"
+  - "Malachie 3:1"
+  - "Marc 7:13"
+  - "Romains 3:4"
+  - "Éphésiens 4:30"
+  - "Ésaïe 9:5"
 ---
 **Résumé de!: “Le monde s'effondre” (27 novembre 1963 soir)**
 

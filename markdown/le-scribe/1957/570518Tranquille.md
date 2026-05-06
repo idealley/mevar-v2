@@ -41,6 +41,21 @@ themes:
   - "Discernement spirituel"
 pdf_url: "http://le-scribe.org/pdfiles/570518Tranquille.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 1:5"
+  - "Actes 19:12"
+  - "Actes 2:38-39"
+  - "Exode 14:13-14"
+  - "Genèse 26"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Jean 5:8"
+  - "Luc 12:8"
+  - "Marc 16"
+  - "Matthieu 10:32"
+  - "Nombres 13:30"
+  - "Romains 8:28"
+  - "Ésaïe 38:1-8"
 ---
 **1.** Rappelez-moi de prier sur ces mouchoirs avant la prière pour les malades. Vous pouvez nous écrire à Jeffersonville si vous désirez recevoir un bout de tissu. Nous en envoyons gratuitement un millier par semaine. Vous pouvez garder ce petit tissu dans votre Bible. Ce n’est pas un moyen de collecter des adresses pour ensuite demander de l’argent, car nous n’avons pas de programme radio ou télé à financer. C’est conforme à Actes 19:12.
 

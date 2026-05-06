@@ -30,6 +30,23 @@ themes:
   - "Réveil spirituel"
   - "Droits des croyants"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 3:12"
+  - "1 Pierre 4:7"
+  - "1 Timothée 2:1-2"
+  - "Colossiens 4:3"
+  - "Hébreux 5:7-8"
+  - "Jacques 5:17-18"
+  - "Luc 10:2"
+  - "Luc 18:1-8"
+  - "Luc 21"
+  - "Luc 21:34-36"
+  - "Luc 6:28"
+  - "Malachie 4:5-6"
+  - "Marc 14:38"
+  - "Philippiens 4:6"
+  - "Psaumes 33:16-19"
+  - "Éphésiens 6:11-13"
 ---
 ## LE JUGE INIQUE - LA PARTIE ADVERSE
 

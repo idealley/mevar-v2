@@ -43,6 +43,11 @@ mevar_match:
   title: "Notre Volonté"
   similarity: 0.55
 llm_cleaned: true
+bible_refs:
+  - "Galates 6"
+  - "Genèse 2"
+  - "Hébreux 5:8"
+  - "Proverbes 25"
 ---
 ## Notre volonté
 

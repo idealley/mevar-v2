@@ -36,6 +36,31 @@ themes:
   - "Restoration de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/620610Presumer.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 4:3-5"
+  - "Actes 19"
+  - "Actes 19:1-7"
+  - "Actes 2:38"
+  - "Deutéronome 18:22"
+  - "Galates 1:8"
+  - "Hébreux 6:8"
+  - "Jean 14:12"
+  - "Jean 4:29"
+  - "Jean 6:37"
+  - "Jean 8:58"
+  - "Job 19:25"
+  - "Josué 7:1-21"
+  - "Joël 1:4"
+  - "Joël 2:28"
+  - "Jude 3"
+  - "Marc 16:17"
+  - "Nombres 14:41"
+  - "Romains 16:3-4"
+  - "Zacharie 14:7"
+  - "Éphésiens 1:5"
+  - "Éphésiens 5:27"
+  - "Ésaïe 28:10"
+  - "Ésaïe 28:10-11"
 ---
 **Résumé de!: “Présumer” (8 avril 1962, matin)**
 

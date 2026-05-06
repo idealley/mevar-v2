@@ -45,6 +45,27 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/640416Yeux-ouverts.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 20:38-42"
+  - "2 Pierre 3:9"
+  - "Hébreux 12:8"
+  - "Hébreux 13:8"
+  - "Jean 10:30"
+  - "Jean 10:37"
+  - "Jean 10:37-38"
+  - "Jean 11:21-22"
+  - "Jean 14:12"
+  - "Jean 14:17,19,20"
+  - "Jean 6:53"
+  - "Jean 6:62"
+  - "Jean 6:68"
+  - "Jean 8:44"
+  - "Luc 17:27-28"
+  - "Luc 24:13"
+  - "Malachie 4"
+  - "Marc 16:18"
+  - "Psaumes 16:10"
+  - "Ésaïe 7:14"
 ---
 **Résumé de!:** “Quand leurs yeux furent ouverts ils le reconnurent” (16 avril 1964, soir)
 

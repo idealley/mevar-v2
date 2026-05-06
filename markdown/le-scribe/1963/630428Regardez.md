@@ -34,6 +34,28 @@ themes:
   - "la foi qui voit l'invisible"
 pdf_url: "http://le-scribe.org/pdfiles/630428Regardez.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18:41-45"
+  - "1 Rois 18:46"
+  - "Actes 2:38"
+  - "Deutéronome 28:23,1"
+  - "Genèse 15:13-16"
+  - "Hébreux 11:1"
+  - "Hébreux 13:8"
+  - "Hébreux 9:24"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 16:17"
+  - "Jean 3:14"
+  - "Jean 5:1-16"
+  - "Jean 6:14"
+  - "Jean 8:46"
+  - "Jean 8:58"
+  - "Job 19:25"
+  - "Jonas 2:5,8"
+  - "Marc 7:24-30"
+  - "Romains 4:18,20"
+  - "Zacharie 14:7"
 ---
 **REGARDEZ**
 

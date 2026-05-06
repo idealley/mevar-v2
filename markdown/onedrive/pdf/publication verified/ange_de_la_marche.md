@@ -47,6 +47,13 @@ mevar_match:
   title: "L’Ange de la marche"
   similarity: 0.61
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10"
+  - "2 Corinthiens 11:1-2"
+  - "Apocalypse 18"
+  - "Exode 17"
+  - "Exode 23"
+  - "Ésaïe 21"
 ---
 ## L'Ange de la marche
 

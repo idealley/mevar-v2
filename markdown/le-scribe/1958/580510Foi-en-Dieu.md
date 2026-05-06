@@ -48,6 +48,16 @@ themes:
   - "Colonne de Feu"
 pdf_url: "http://le-scribe.org/pdfiles/580510Foi-en-Dieu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19"
+  - "Actes 1:8"
+  - "Hébreux 11:1"
+  - "Jean 5:19"
+  - "Jean 8:58"
+  - "Marc 11:20-22"
+  - "Marc 11:22"
+  - "Romains 4:17"
+  - "Romains 4:21"
 ---
 *Ayez foi en Dieu* (10 mai 1958, soir)
 

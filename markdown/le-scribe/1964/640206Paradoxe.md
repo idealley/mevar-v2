@@ -39,6 +39,31 @@ themes:
   - "Le fruit de l'Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/640206Paradoxe.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "1 Rois 21:21-24"
+  - "1 Rois 22:14"
+  - "Actes 26:19"
+  - "Actes 2:38-39"
+  - "Amos 3:7"
+  - "Apocalypse 17:5"
+  - "Genèse 22:8"
+  - "Genèse 2:5"
+  - "Hébreux 11:3"
+  - "Jean 10:20"
+  - "Jean 5:35"
+  - "Jean 5:39"
+  - "Jean 6:35"
+  - "Jean 6:51"
+  - "Jean 6:53"
+  - "Josué 10:12"
+  - "Luc 17:26"
+  - "Luc 2:49"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Marc 11:22"
+  - "Philippiens 2:9"
+  - "Ésaïe 7:14,9"
 ---
 *Un paradoxe* (6 février 1964, matin)
 

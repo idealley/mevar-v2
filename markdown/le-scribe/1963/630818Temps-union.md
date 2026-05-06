@@ -36,6 +36,20 @@ themes:
   - "Sceaux"
 pdf_url: "http://le-scribe.org/pdfiles/630818Temps-union.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 11:30,12"
+  - "Apocalypse 10"
+  - "Apocalypse 10:4-7"
+  - "Apocalypse 3:3"
+  - "Jean 14:20"
+  - "Jean 15:7"
+  - "Jean 9:20-22"
+  - "Jude 3"
+  - "Luc 21:20"
+  - "Malachie 4:5-6"
+  - "Matthieu 16:1-3"
+  - "Michée 1:8"
+  - "Psaumes 86:1"
 ---
 **LE TEMPS ET LE SIGNE DE L'UNION**
 *THE SIGN OF THE UNITING TIME*

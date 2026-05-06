@@ -49,6 +49,27 @@ themes:
   - "Les imitateurs et le mélange"
 pdf_url: "http://le-scribe.org/pdfiles/530327bIsrael-Mer-Rouge.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 5"
+  - "Actes 2:38"
+  - "Exode 12"
+  - "Exode 12:1-6"
+  - "Exode 12:11"
+  - "Exode 12:38"
+  - "Exode 12:7-10"
+  - "Exode 15:25"
+  - "Jean 3:3"
+  - "Jean 5:24"
+  - "Jean 6:37"
+  - "Jean 6:44"
+  - "Jean 6:54"
+  - "Nombres 20:7-11"
+  - "Psaumes 119:89"
+  - "Romains 8:1"
+  - "Éphésiens 1:4"
+  - "Éphésiens 4:30"
+  - "Ésaïe 28:8,9"
+  - "Ésaïe 28:9-13"
 ---
 **“Israël et la Mer Rouge (b)”** - *(27 mars 1953, soir)*
 

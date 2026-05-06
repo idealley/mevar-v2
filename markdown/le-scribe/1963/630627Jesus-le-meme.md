@@ -56,6 +56,33 @@ themes:
   - "blasphème contre le Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/630627Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "1 Corinthiens 14:24"
+  - "2 Corinthiens 5:19"
+  - "Actes 3:2-11"
+  - "Actes 4:13"
+  - "Amos 3:7"
+  - "Deutéronome 13:1-6"
+  - "Deutéronome 18:15"
+  - "Genèse 18"
+  - "Genèse 18:3"
+  - "Hébreux 4:12"
+  - "Hébreux 4:15"
+  - "Jean 10:18,16"
+  - "Jean 12:20-21"
+  - "Jean 14:10"
+  - "Jean 15:7"
+  - "Jean 16:16"
+  - "Jean 1:49"
+  - "Jean 5:19"
+  - "Jean 8:46"
+  - "Jean 8:58"
+  - "Luc 17:28,30"
+  - "Marc 10:46-52"
+  - "Marc 5:23"
+  - "Marc 5:25-34"
+  - "Romains 8:17"
 ---
 *Résumé de!: “Jésus-Christ est le même hier, aujourd’hui et éternellement” (27 Juin 1963, soir)*
 

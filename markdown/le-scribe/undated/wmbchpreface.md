@@ -41,6 +41,13 @@ themes:
   - "enlèvement des croyants"
 pdf_url: "http://le-scribe.org/pdfiles/wmbchpreface.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 13:1"
+  - "2 Rois 23:17"
+  - "Jean 14:12"
+  - "Luc 12:48"
+  - "Matthieu 25"
+  - "Romains 3:4"
 ---
 **PREFACE**
 

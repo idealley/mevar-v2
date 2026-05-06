@@ -39,6 +39,28 @@ themes:
   - "Parole de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/650220Lieu-adoration.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "2 Corinthiens 3:3"
+  - "2 Rois 4:40"
+  - "Actes 2:38"
+  - "Actes 4:12"
+  - "Apocalypse 4:7"
+  - "Colossiens 3:17"
+  - "Deutéronome 16:1-2"
+  - "Exode 12:3-6"
+  - "Exode 3:14"
+  - "Jean 14:6"
+  - "Jean 5:43"
+  - "Jean 8:58"
+  - "Luc 17:30"
+  - "Luc 1:31"
+  - "Malachie 3:1"
+  - "Malachie 4:5-6"
+  - "Romains 11:26"
+  - "Romains 6:23"
+  - "Romains 8:1,9"
+  - "Éphésiens 3:15"
 ---
 **Résumé de : “Le lieu d'adoration que Dieu a choisi” (20 février 1965, soir)**
 

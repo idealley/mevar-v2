@@ -44,6 +44,21 @@ themes:
   - "La fin des temps et la moisson"
 pdf_url: "http://le-scribe.org/pdfiles/580214Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:4"
+  - "Daniel 7:15,10"
+  - "Exode 28:30"
+  - "Hébreux 3:1"
+  - "Jean 12:20"
+  - "Jean 14:12"
+  - "Jean 14:19,20"
+  - "Jean 15:5"
+  - "Jean 5:19"
+  - "Jude 3"
+  - "Nombres 27:21,1"
+  - "Romains 5:17"
+  - "Éphésiens 1:5"
+  - "Ésaïe 53:5"
 ---
 *Jésus-Christ est le même hier, aujourd'hui et éternellement (ou : Nous voudrions voir Jésus)*
 *14 février 1958, vendredi soir, Terre Haute (Indiana)*

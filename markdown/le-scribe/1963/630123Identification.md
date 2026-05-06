@@ -43,6 +43,30 @@ themes:
   - "jugement et salut"
 pdf_url: "http://le-scribe.org/pdfiles/630123Identification.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:37"
+  - "1 Pierre 2:9"
+  - "2 Timothée 4:10"
+  - "Actes 3:6"
+  - "Apocalypse 3:17"
+  - "Deutéronome 18:15,18"
+  - "Galates 1:8"
+  - "Hébreux 11:26"
+  - "Jean 10:30"
+  - "Jean 10:38"
+  - "Jean 14:12"
+  - "Jean 1:1"
+  - "Jean 3:16"
+  - "Jean 3:2"
+  - "Jean 4"
+  - "Jean 5:19"
+  - "Jean 5:39"
+  - "Jean 8:46"
+  - "Jean 9:25"
+  - "Luc 16:24"
+  - "Marc 16:18"
+  - "Philippiens 2:5"
+  - "Éphésiens 2:6"
 ---
 **Résumé de!: “Identification” (23 Janvier 1963, soir)**
 

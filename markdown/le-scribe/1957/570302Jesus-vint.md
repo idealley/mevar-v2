@@ -40,6 +40,13 @@ themes:
   - "La guérison par la foi"
 pdf_url: "http://le-scribe.org/pdfiles/570302Jesus-vint.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38-39"
+  - "Hébreux 4:15"
+  - "Jean 11:17"
+  - "Jean 16:2"
+  - "Jean 5:19"
+  - "Zacharie 14:7"
 ---
 **1.** [Cantique, prière]. Je crois que la foi vient de ce qui est écrit, et que Dieu garde sa Parole. Lisons Jean 11:17 “Jésus, étant arrivé, trouva que Lazare était déjà depuis quatre jours dans le sépulcre.”
 

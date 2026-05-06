@@ -42,6 +42,17 @@ mevar_match:
   title: "Dieu fuyant le péché"
   similarity: 0.73
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 2:22"
+  - "2 Thessaloniciens 2"
+  - "Actes 3:19"
+  - "Apocalypse 2"
+  - "Jérémie 27:6"
+  - "Jérémie 27:6-7"
+  - "Luc 18"
+  - "Luc 21"
+  - "Matthieu 24:45"
+  - "Ésaïe 27"
 ---
 *Exhortation spéciale du Mois de Septembre 2006*
 

@@ -39,6 +39,21 @@ mevar_match:
   title: "Si Dieu est avec nous - soyons aussi avec lui"
   similarity: 0.565
 llm_cleaned: true
+bible_refs:
+  - "2 Rois 13:14-19"
+  - "Deutéronome 7:9,1"
+  - "Jean 14:16-18"
+  - "Jean 14:19"
+  - "Jean 16:16"
+  - "Jean 3:5"
+  - "Josué 1:1-9"
+  - "Juges 1:19"
+  - "Juges 6:12-14"
+  - "Marc 11"
+  - "Marc 9:23"
+  - "Matthieu 26:41"
+  - "Romains 8:28"
+  - "Tite 3:5"
 ---
 ## SI DIEU EST AVEC NOUS – SOYONS AUSSI AVEC LUI
 

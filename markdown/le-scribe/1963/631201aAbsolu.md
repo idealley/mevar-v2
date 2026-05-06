@@ -47,6 +47,33 @@ themes:
   - "Prédestination"
 pdf_url: "http://le-scribe.org/pdfiles/631201aAbsolu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:2"
+  - "1 Thessaloniciens 4:17"
+  - "1 Timothée 3:16"
+  - "Actes 26:24"
+  - "Actes 2:30"
+  - "Actes 4:12"
+  - "Actes 9:5"
+  - "Deutéronome 6:6,8"
+  - "Jacques 5:17"
+  - "Jean 11:25"
+  - "Jean 14:20"
+  - "Jean 15:7"
+  - "Jean 16:28"
+  - "Jean 1:33"
+  - "Job 14"
+  - "Job 19:25-26"
+  - "Josué 10:13"
+  - "Matthieu 24:35"
+  - "Matthieu 4:4"
+  - "Philippiens 1:19-22"
+  - "Philippiens 1:21"
+  - "Psaumes 23:4"
+  - "Romains 5:1"
+  - "Romains 8:35-39"
+  - "Éphésiens 2:6"
+  - "Éphésiens 4:14"
 ---
 **1.** [Prière]. Que le Seigneur brise pour nous ce matin le Pain de Vie, qui est la révélation de Jésus-Christ. Il y a un instant, le Saint-Esprit a ôté le cancer d'une femme venue du Texas. Il y a aussi une femme de pasteur qui est venue. Elle était si nerveuse qu'elle avait du mal à respirer. Le Seigneur me l'avait montrée en vision assise ici. J'ai vu aussi que son mari avait un ulcère parce qu'il était préoccupé par sa femme. Dieu a apaisé cette femme, et je peux dire que cet ulcère est terminé.
 

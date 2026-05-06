@@ -40,6 +40,22 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/500819Montre-nous.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "2 Corinthiens 5:19"
+  - "Actes 5:15"
+  - "Actes 6:15"
+  - "Actes 7:51"
+  - "Apocalypse 8:11"
+  - "Daniel 3"
+  - "Jean 14:1"
+  - "Jean 4:22"
+  - "Jean 7:46"
+  - "Jean 9:7"
+  - "Job 19:25-26"
+  - "Josué 5:14"
+  - "Luc 19:40"
+  - "Marc 11:24"
 ---
 **MONTRE-NOUS LE PÈRE**
 *SHOW US THE FATHER*

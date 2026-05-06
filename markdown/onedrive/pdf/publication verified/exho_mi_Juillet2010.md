@@ -40,6 +40,38 @@ mevar_match:
   title: "L'aveugle Bartimée"
   similarity: 0.74
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:1-2"
+  - "Apocalypse 3"
+  - "Apocalypse 3:15-17"
+  - "Apocalypse 3:18-19"
+  - "Deutéronome 28"
+  - "Deutéronome 28:27-29"
+  - "Exode 4"
+  - "Exode 4:10-11"
+  - "Galates 5:7-9"
+  - "Genèse 19:11"
+  - "Jean 10:9"
+  - "Jean 12:37-40"
+  - "Jean 14:6"
+  - "Jean 15:4"
+  - "Jean 9:38-41"
+  - "Job 12:23-25"
+  - "Luc 13:24"
+  - "Luc 4:18-20"
+  - "Luc 8:20-21"
+  - "Lévitique 8"
+  - "Marc 10:46-53"
+  - "Matthieu 22:14"
+  - "Matthieu 23:1-6"
+  - "Matthieu 7:13-16"
+  - "Psaumes 119:130"
+  - "Psaumes 22:28"
+  - "Psaumes 33:10"
+  - "Psaumes 47:6-8"
+  - "Psaumes 68:31-3"
+  - "Sophonie 3:10-12"
+  - "Ésaïe 61:1-2"
 ---
 ## L'AVEUGLE BARTIMEE
 

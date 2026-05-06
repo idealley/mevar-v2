@@ -58,6 +58,9 @@ mevar_match:
   title: "Le chemin le plus long"
   similarity: 0.6
 llm_cleaned: true
+bible_refs:
+  - "Actes 17:4-7"
+  - "Exode 13:17-22"
 ---
 ## Le chemin le plus long
 

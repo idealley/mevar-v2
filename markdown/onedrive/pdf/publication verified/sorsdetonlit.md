@@ -37,6 +37,8 @@ mevar_match:
   title: "Sors de ton lit!"
   similarity: 0.615
 llm_cleaned: true
+bible_refs:
+  - "Matthieu 25"
 ---
 ## SORS DE TON LIT !
 

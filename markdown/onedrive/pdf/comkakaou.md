@@ -33,6 +33,17 @@ themes:
   - "vierges sages et folles"
   - "autorité de la Bible"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:2-4"
+  - "2 Thessaloniciens 2:9-12"
+  - "Apocalypse 16"
+  - "Apocalypse 16:13"
+  - "Jean 4:1"
+  - "Jean 4:5-6"
+  - "Matthieu 24:11-12"
+  - "Matthieu 25"
+  - "Matthieu 25:1-7"
+  - "Matthieu 25:6"
 ---
 ## Communiqué du Pasteur M'BRA Parfait relatif aux activités du faux prophète Kacou Philippe en Côte d'Ivoire
 

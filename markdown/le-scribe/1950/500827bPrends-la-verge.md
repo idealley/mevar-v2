@@ -36,6 +36,15 @@ themes:
   - "autorité sur les démons"
 pdf_url: "http://le-scribe.org/pdfiles/500827bPrends-la-verge.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:4"
+  - "1 Corinthiens 12"
+  - "Exode 17:6"
+  - "Jean 14:1"
+  - "Jean 9:6"
+  - "Marc 5:25"
+  - "Nombres 20:7-8"
+  - "Ésaïe 53:5"
 ---
 *27 août 1950, dimanche soir, Cleveland (Ohio)*
 

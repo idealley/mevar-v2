@@ -42,6 +42,15 @@ mevar_match:
   title: "Jésus-Christ : architecte et constructeur"
   similarity: 0.649
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 15"
+  - "1 Samuel 15:22-24"
+  - "Apocalypse 21"
+  - "Hébreux 11"
+  - "Matthieu 16"
+  - "Matthieu 16:16-18"
+  - "Matthieu 7"
+  - "Matthieu 7:24-27"
 ---
 ## JESUS-CHRIST : ARCHITECTE ET CONSTRUCTEUR
 

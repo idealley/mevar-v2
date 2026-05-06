@@ -47,6 +47,13 @@ mevar_match:
   title: "La douleur d’un prophète"
   similarity: 0.76
 llm_cleaned: true
+bible_refs:
+  - "Esther 70"
+  - "Jérémie 1"
+  - "Jérémie 12"
+  - "Jérémie 29"
+  - "Jérémie 7"
+  - "Lamentations 4"
 ---
 ## La douleur d'un prophète
 

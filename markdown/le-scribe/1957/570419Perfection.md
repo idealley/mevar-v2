@@ -35,6 +35,15 @@ themes:
   - "Nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/570419Perfection.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "Hébreux 10:1"
+  - "Hébreux 10:12"
+  - "Hébreux 10:14"
+  - "Lévitique 17:14"
+  - "Matthieu 5:47,48"
+  - "Romains 8:1"
+  - "Romains 8:30"
 ---
 **Résumé de!: “La perfection” (19 avril 1957, soir)**
 

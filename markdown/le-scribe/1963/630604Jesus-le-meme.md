@@ -42,6 +42,23 @@ themes:
   - "Seconde venue"
 pdf_url: "http://le-scribe.org/pdfiles/630604Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Daniel 8:27"
+  - "Deutéronome 13:2-6"
+  - "Deutéronome 18:15"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 12:20-21"
+  - "Jean 14:12"
+  - "Jean 1:42"
+  - "Jean 1:48"
+  - "Jean 4:16"
+  - "Jean 5:19"
+  - "Jean 8:46"
+  - "Luc 17:28"
+  - "Marc 5:25-34"
+  - "Marc 5:30"
+  - "Romains 10:17"
 ---
 **Résumé de!: “Jésus-Christ est le même, hier, aujourd’hui et éternellement” (4 Juin 1963, soir )**
 

@@ -34,6 +34,19 @@ themes:
   - "Appel à sortir"
   - "Combat spirituel"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 18"
+  - "Apocalypse 18:5-8"
+  - "Apocalypse 2:20"
+  - "Apocalypse 3:14-17"
+  - "Apocalypse 3:18-19"
+  - "Daniel 2:44-46"
+  - "Daniel 5:1-7"
+  - "Daniel 5:25-30"
+  - "Jérémie 50:28"
+  - "Jérémie 50:29"
+  - "Jérémie 50:46"
+  - "Ésaïe 48:20"
 ---
 ## L'ECRITURE SUR LA MURAILLE DE BABYLONE
 

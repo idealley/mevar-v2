@@ -35,6 +35,20 @@ themes:
   - "Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/631201bEncore-une-fois.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Pierre 2:22"
+  - "2 Timothée 3:2-5"
+  - "2 Timothée 3:8"
+  - "Actes 2:38"
+  - "Apocalypse 17:5"
+  - "Hébreux 13:8"
+  - "Jean 15:7"
+  - "Jean 5:24"
+  - "Jean 7:37"
+  - "Juges 15:15"
+  - "Juges 16:27-28"
+  - "Juges 16:3"
+  - "Juges 16:30"
 ---
 **Résumé de!: “Juste encore une fois, Seigneur” (1er décembre 1963 soir)**
 

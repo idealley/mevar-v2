@@ -47,6 +47,21 @@ themes:
   - "présence de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/600417Allez-dire.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:8"
+  - "1 Corinthiens 4:20,2"
+  - "Exode 4:8"
+  - "Galates 1:8"
+  - "Hébreux 13:8"
+  - "Jean 10:18"
+  - "Jean 14:12"
+  - "Jean 20:21"
+  - "Marc 11:23"
+  - "Marc 16:1"
+  - "Marc 16:15-18"
+  - "Matthieu 15:26"
+  - "Matthieu 16:18"
+  - "Matthieu 28:18"
 ---
 **1.** [Cantique, prière].
 

@@ -38,6 +38,14 @@ themes:
   - "Signes du Messie"
 pdf_url: "http://le-scribe.org/pdfiles/570310Ecoutez.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:23"
+  - "Jean 14"
+  - "Jean 5:19"
+  - "Matthieu 17:1-5"
+  - "Néhémie 5"
+  - "Psaumes 37:23"
+  - "Romains 8:19-23"
 ---
 **Résumé de : “Ecoutez-le” (10.03.1957)**
 

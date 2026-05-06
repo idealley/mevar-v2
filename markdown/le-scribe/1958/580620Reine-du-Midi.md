@@ -44,6 +44,13 @@ themes:
   - "unité de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/580620Reine-du-Midi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 8:38-39"
+  - "2 Rois 4"
+  - "Jean 11:21-22"
+  - "Jean 14:19,12"
+  - "Matthieu 12:42"
+  - "Romains 8:28"
 ---
 *Résumé de : "La reine du Midi" (20 juin 1958, soir)*
 

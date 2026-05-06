@@ -45,6 +45,9 @@ mevar_match:
   title: "La Foi d'Enoch"
   similarity: 0.535
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 11"
+  - "Luc 17"
 ---
 ## La Foi d'Enoch
 

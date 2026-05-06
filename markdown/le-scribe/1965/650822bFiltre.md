@@ -39,6 +39,18 @@ themes:
   - "Unité du Corps de Christ"
 pdf_url: "http://le-scribe.org/pdfiles/650822bFiltre.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:15"
+  - "1 Pierre 3:4"
+  - "Genèse 6:2"
+  - "Jean 2:15"
+  - "Jean 6:37"
+  - "Malachie 4:6"
+  - "Matthieu 24:24"
+  - "Nombres 19"
+  - "Nombres 19:9"
+  - "Nombres 25:1"
+  - "Psaumes 119:11"
 ---
 *Le filtre d'un homme qui réfléchit* (22 août 1965, soir)
 

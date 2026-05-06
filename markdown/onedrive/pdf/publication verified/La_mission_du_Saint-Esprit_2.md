@@ -43,6 +43,14 @@ mevar_match:
   title: "La mission du Saint-Esprit dans l’Eglise (2)"
   similarity: 0.642
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 12:1"
+  - "1 Corinthiens 13"
+  - "2 Pierre 1:5"
+  - "Actes 19"
+  - "Jean 14"
+  - "Marc 16"
 ---
 ## La mission du Saint-Esprit dans l’Eglise
 

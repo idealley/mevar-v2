@@ -35,6 +35,16 @@ themes:
   - "la condamnation du monde"
 pdf_url: "http://le-scribe.org/pdfiles/640418Jesustient.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:5"
+  - "Actes 2:38-39"
+  - "Apocalypse 3:16"
+  - "Deutéronome 18:15"
+  - "Hébreux 13:8"
+  - "Jacques 5:16"
+  - "Luc 23:8"
+  - "Luc 7:36"
+  - "Marc 7:9,13"
 ---
 *Jésus tient tous ses engagements* (18 avril 1964, soir)
 

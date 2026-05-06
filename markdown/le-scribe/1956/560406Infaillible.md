@@ -49,6 +49,27 @@ themes:
   - "Signe du Messie"
 pdf_url: "http://le-scribe.org/pdfiles/560406Infaillible.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "1 Corinthiens 12:3"
+  - "2 Timothée 4:8"
+  - "Actes 2"
+  - "Deutéronome 18:21-22"
+  - "Hébreux 13:8"
+  - "Jacques 5:15"
+  - "Jean 14:10"
+  - "Jean 14:12"
+  - "Jean 14:19"
+  - "Jean 5:19"
+  - "Jean 5:24"
+  - "Jean 6:37"
+  - "Luc 3:4-5"
+  - "Matthieu 16:18"
+  - "Matthieu 24:26-27"
+  - "Matthieu 24:34-35"
+  - "Matthieu 28:20"
+  - "Matthieu 8"
+  - "Ésaïe 53"
 ---
 **Résumé de : “La Parole infaillible de Dieu” (6 avril 1956)**
 

@@ -38,6 +38,13 @@ themes:
   - "Amour de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/570127Imitation.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:38"
+  - "Joël 1:4"
+  - "Juges 16:3"
+  - "Luc 5:37"
+  - "Matthieu 11:29-30"
+  - "Ézéchiel 36:26"
 ---
 *Résumé de : “L’imitation du christianisme” (27 janvier 1957)*
 

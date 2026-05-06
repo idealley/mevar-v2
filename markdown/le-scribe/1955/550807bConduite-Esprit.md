@@ -36,6 +36,14 @@ themes:
   - "présence du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/550807bConduite-Esprit.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 5:19"
+  - "Luc 2:25-30"
+  - "Nombres 24:17"
+  - "Romains 8:14"
+  - "Zacharie 14:7"
+  - "Ésaïe 21:11"
+  - "Ésaïe 53:5"
 ---
 **1.** Lisons Luc 2:25-30
 

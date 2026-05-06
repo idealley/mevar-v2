@@ -38,6 +38,13 @@ themes:
   - "unité de l'Église"
 pdf_url: "http://le-scribe.org/pdfiles/590525Image-Christ.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13:2"
+  - "1 Thessaloniciens 4:14-17"
+  - "Jean 13:1"
+  - "Jean 3:3"
+  - "Jean 6:44"
+  - "Zacharie 4:6"
 ---
 “Des images de Christ” (25 mai 1959)
 

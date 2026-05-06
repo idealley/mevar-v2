@@ -44,6 +44,27 @@ themes:
   - "rejet des credo humains"
 pdf_url: "http://le-scribe.org/pdfiles/650410Sceau-Paque.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:1"
+  - "1 Rois 17:6"
+  - "2 Rois 2:8"
+  - "Actes 7:51"
+  - "Actes 7:56"
+  - "Actes 8:26-40"
+  - "Apocalypse 1:17-18"
+  - "Galates 1:8"
+  - "Jean 10:4-5"
+  - "Jean 14:12"
+  - "Jean 14:19-20"
+  - "Jean 2:19"
+  - "Jean 5:19,14"
+  - "Jean 5:24"
+  - "Jean 6:37,44"
+  - "Job 19:25"
+  - "Job 1:21"
+  - "Marc 16:15,17"
+  - "Matthieu 28:1-10"
+  - "Romains 8:11"
 ---
 Résumé de : “Le Sceau de Pâque” [10 avril 1965, matin)
 

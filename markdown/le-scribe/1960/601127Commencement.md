@@ -41,6 +41,22 @@ themes:
   - "nouvelle naissance"
 pdf_url: "http://le-scribe.org/pdfiles/601127Commencement.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:13"
+  - "Actes 19"
+  - "Actes 2"
+  - "Apocalypse 2:15"
+  - "Apocalypse 2:6"
+  - "Deutéronome 23:2"
+  - "Genèse 1"
+  - "Genèse 1:11"
+  - "Jean 13:35"
+  - "Marc 11:22"
+  - "Marc 16:17-18"
+  - "Marc 7:13"
+  - "Matthieu 15:9"
+  - "Matthieu 19:1-8"
+  - "Éphésiens 2:9-10"
 ---
 **IL N’EN ETAIT PAS AINSI AU COMMENCEMENT**
 *27 novembre 1960, dimanche matin, Shreveport (Louisiane). 49 minutes.*

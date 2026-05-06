@@ -42,6 +42,22 @@ themes:
   - "Réveil"
   - "Vierges sages"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 13"
+  - "1 Samuel 18:1-4"
+  - "1 Samuel 18:10"
+  - "1 Samuel 18:11"
+  - "1 Samuel 18:12"
+  - "1 Samuel 18:7"
+  - "1 Samuel 18:8"
+  - "1 Samuel 18:8-9"
+  - "1 Samuel 27:1-4"
+  - "1 Samuel 29:1-9"
+  - "1 Samuel 30:1"
+  - "1 Samuel 30:1-6"
+  - "2 Samuel 3"
+  - "2 Samuel 3:1"
+  - "Marc 2:21"
 ---
 ## Exhortation fin Décembre 2011
 ## LA GUERRE DES DEUX MAISONS – SAÜL CONTRE DAVID

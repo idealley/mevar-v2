@@ -44,6 +44,15 @@ mevar_match:
   title: "Néhuschtan : le serpent d'airain"
   similarity: 0.555
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:6"
+  - "1 Corinthiens 6:9-10"
+  - "2 Pierre 1:3-10"
+  - "2 Rois 18:1-8"
+  - "Matthieu 28:20"
+  - "Nombres 21:4-9"
+  - "Nombres 21:4-9,2"
+  - "Psaumes 119"
 ---
 ## Nehuschtan : Le serpent d'airain ou comment un message ou une instruction de Dieu peut devenir une idole
 

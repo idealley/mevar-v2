@@ -37,6 +37,9 @@ themes:
   - "Préparation à l'enlèvement"
   - "Sortir de Babylone"
 llm_cleaned: true
+bible_refs:
+  - "Jonas 1:1-3"
+  - "Malachie 4:5"
 ---
 ## Le péché de Jonas
 

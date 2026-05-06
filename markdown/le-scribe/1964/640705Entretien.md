@@ -27,6 +27,8 @@ themes:
   - "guérison divine"
 pdf_url: "http://le-scribe.org/pdfiles/640705Entretien.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Jean 5:24"
 ---
 *Entretien avec la sœur Bruce* (5 juillet 1964, matin)
 

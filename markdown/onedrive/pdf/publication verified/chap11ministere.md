@@ -25,6 +25,14 @@ themes:
   - "Récompense et jugement"
   - "Discernement spirituel"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 1"
+  - "Actes 13"
+  - "Apocalypse 1"
+  - "Jean 1"
+  - "Jean 5"
+  - "Jean 8"
+  - "Marc 4"
 ---
 ## LA PARABOLE DE LA LAMPE
 

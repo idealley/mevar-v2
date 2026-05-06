@@ -38,6 +38,23 @@ themes:
   - "rédemption éternelle"
 pdf_url: "http://le-scribe.org/pdfiles/600611Communion.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55,57"
+  - "1 Jean 5:7"
+  - "1 Jean 5:8"
+  - "Actes 19:2"
+  - "Hébreux 8:10"
+  - "Hébreux 9:6"
+  - "Jean 17:19"
+  - "Job 1:13-22"
+  - "Job 1:21"
+  - "Job 1:5"
+  - "Job 2:9"
+  - "Jérémie 31:33"
+  - "Matthieu 27:42"
+  - "Nombres 19"
+  - "Nombres 19:6,18"
+  - "Romains 5"
 ---
 **1.** [Cantique, puis courte prière] …
 

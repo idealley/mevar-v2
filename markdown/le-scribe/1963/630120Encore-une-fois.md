@@ -43,6 +43,25 @@ themes:
   - "Parole confirmée"
 pdf_url: "http://le-scribe.org/pdfiles/630120Encore-une-fois.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 17:34-35"
+  - "1 Samuel 17:39"
+  - "2 Timothée 3:5"
+  - "Actes 1:8"
+  - "Actes 2:38"
+  - "Apocalypse 17"
+  - "Apocalypse 3:17"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jacques 5:14"
+  - "Jean 12:24"
+  - "Jean 14:12"
+  - "Jean 14:19"
+  - "Jean 3:16"
+  - "Juges 14:5-6"
+  - "Juges 15:13-14,16"
+  - "Juges 15:15"
+  - "Juges 16:27"
 ---
 **Résumé de!: “Juste encore une fois Seigneur” (20 janvier 1963)**
 

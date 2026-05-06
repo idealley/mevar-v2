@@ -38,6 +38,14 @@ themes:
   - "autorité sur les démons"
 pdf_url: "http://le-scribe.org/pdfiles/550116Jesus-le-meme.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 13:18"
+  - "Jean 16:16"
+  - "Jean 5:19"
+  - "Jean 5:20"
+  - "Marc 16"
+  - "Marc 5:1"
+  - "Ésaïe 53:5"
 ---
 **1.** [Prière ; remerciements]. Plusieurs d'entre vous ont soutenu notre voyage en Inde, où des milliers de gens ont ainsi connu le Seigneur Jésus-Christ [NDT : en septembre 1954]. Cette soirée sera consacrée à la guérison, ce qui prendra du temps. C'est votre foi en Dieu qui guérit, je n'y suis pour rien, et j'essaie seulement de hisser votre foi jusque là où vous pouvez être guéris.
 

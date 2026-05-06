@@ -34,6 +34,12 @@ themes:
   - "Guérison divine par la foi"
 pdf_url: "http://le-scribe.org/pdfiles/550626aHistoire-vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 13:10-14"
+  - "Marc 9:23"
+  - "Matthieu 9:22"
+  - "Matthieu 9:29"
+  - "Proverbes 13:15"
 ---
 Résumé de : “Histoire de ma vie” (26 juin 1955, après-midi)
 

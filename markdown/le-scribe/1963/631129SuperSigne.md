@@ -42,6 +42,30 @@ themes:
   - "Église de Laodicée"
 pdf_url: "http://le-scribe.org/pdfiles/631129SuperSigne.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 21:11"
+  - "1 Rois 21:19"
+  - "1 Rois 22"
+  - "Genèse 22:17"
+  - "Jean 14:26"
+  - "Jean 1:14"
+  - "Jean 1:33"
+  - "Jean 1:42"
+  - "Jean 1:48"
+  - "Jean 4:18"
+  - "Jean 5:39"
+  - "Jean 6:44"
+  - "Luc 17:28"
+  - "Luc 8:41"
+  - "Malachie 3:1"
+  - "Malachie 4:6"
+  - "Matthieu 16:3"
+  - "Matthieu 17:10-12"
+  - "Matthieu 18:20"
+  - "Matthieu 3:9-11"
+  - "Matthieu 8:8"
+  - "Éphésiens 4:11-12"
+  - "Ésaïe 7:10-14"
 ---
 **Résumé de!: “Le Super Signe” (29 novembre 1963 soir)**
 

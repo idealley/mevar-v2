@@ -38,6 +38,13 @@ themes:
   - "humilité et amour"
 pdf_url: "http://le-scribe.org/pdfiles/551006Vie-cachee.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 2:9"
+  - "Actes 2:38-39"
+  - "Apocalypse 2:17"
+  - "Galates 4:4"
+  - "Hébreux 10:19"
+  - "Nombres 17:8"
 ---
 **1.** [Prière]. Nous remercions Dieu pour notre Président [NDT : Eisenhower] dont on dit qu'il est chrétien. Il a conduit les discussions de paix avec la Russie, et il vient d'avoir une crise cardiaque. Je me sens comme un enfant devant certains pasteurs ici présents. Je remercie la Philadelphian Church et le frère Joseph. La moralité d'un pays est sa colonne vertébrale.
 

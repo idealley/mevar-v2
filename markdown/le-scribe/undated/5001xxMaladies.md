@@ -34,6 +34,9 @@ themes:
   - "témoignages de guérison"
 pdf_url: "http://le-scribe.org/pdfiles/5001xxMaladies.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Hébreux 11:1"
+  - "Psaumes 103:1"
 ---
 **1.** Dimanche après-midi je ferai une prédication d’évangélisation [le 8 janvier sans doute, enregistrement non disponible]. Nous nous attendons à de grandes choses cette semaine. Notre système de cartes de prières est ce que nous avons trouvé de mieux après trois années d’essais. Si nous laissons les gens s’aligner comme ils veulent, c’est la cohue, et il faut alors m’évacuer. Nous avons aussi essayé d’envoyer un lot de cartes aux pasteurs, mais chacun voulait que son groupe passe tout entier en premier, et il n’y avait plus de temps pour les autres. Nous avons aussi essayé de nous limiter aux gens de l’assemblée locale, mais des gens viennent de très loin. C’est pourquoi nous distribuons une cinquantaine de cartes de prière. Mais parfois l’Esprit m’a conduit vers les gens sans tenir compte des cartes. Il m’est ainsi arrivé de perdre conscience de moi-même dès l’appel de la première personne et de continuer ainsi. Tous ceux qui sont venus sur l’estrade ont été guéris, et certains cas étaient affreux.
 

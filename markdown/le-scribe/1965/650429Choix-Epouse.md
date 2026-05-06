@@ -63,6 +63,17 @@ themes:
   - "Parole ointe"
 pdf_url: "http://le-scribe.org/pdfiles/650429Choix-Epouse.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18:21"
+  - "1 Samuel 16:7"
+  - "1 Samuel 4:21"
+  - "2 Timothée 3:5"
+  - "Apocalypse 21:9"
+  - "Apocalypse 3:17-18"
+  - "Daniel 5"
+  - "Genèse 24:12-14"
+  - "Proverbes 31:30"
+  - "Ésaïe 53:2"
 ---
 *Résumé de : “Le choix d'une Epouse” (29 avril 1965, après-midi)*
 

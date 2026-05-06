@@ -39,6 +39,8 @@ themes:
   - "unité de l'église"
 pdf_url: "http://le-scribe.org/pdfiles/59xxxxDiacres.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Timothée 3:8-13"
 ---
 Résumé de!:  “Ordination de diacres” (?!?!?!?!?!?)
 ___________________________________________

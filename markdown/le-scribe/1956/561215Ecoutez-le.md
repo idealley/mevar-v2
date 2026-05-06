@@ -40,6 +40,16 @@ themes:
   - "Présence du Saint-Esprit et dons spirituels"
 pdf_url: "http://le-scribe.org/pdfiles/561215Ecoutez-le.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Exode 20:5"
+  - "Jean 1"
+  - "Jean 14:20"
+  - "Jean 5:24"
+  - "Jean 6:44"
+  - "Matthieu 10"
+  - "Matthieu 14:58"
+  - "Matthieu 17:1-5"
+  - "Ésaïe 49:15-16"
 ---
 Résumé de : “Ecoutez-le” (15 décembre 1956)
 

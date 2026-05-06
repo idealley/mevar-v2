@@ -31,6 +31,11 @@ themes:
   - "Jésus-Christ image de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/620313Expressions.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2:26-27"
+  - "Jean 5:24"
+  - "Job 14:1-16"
+  - "Job 19:26"
 ---
 *Résumé de!: “Expressions” (13 mars 1962, après-midi)*
 

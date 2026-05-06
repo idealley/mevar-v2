@@ -56,6 +56,11 @@ themes:
   - "Unité des croyants"
 pdf_url: "http://le-scribe.org/pdfiles/510728Trois-temoins.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3:5"
+  - "Jean 1:43"
+  - "Jean 4:14"
+  - "Jean 5:36"
 ---
 **1.** J’ai beaucoup apprécié ce chant. Je m’imagine être un jour sous un arbre, de l’autre côté, écoutant les chœurs angéliques. C’est l’une de mes dernières réunions en Amérique. Lors de ma première venue en Pennsylvanie, le frère Oral Roberts, après avoir vu ce qui s’est passé, m’a demandé : “Crois-tu que Dieu fera cela pour moi ?” – “Que veux-tu dire ?” – “Répondre à la prière.” – “Il le fera pour n’importe qui”.
 

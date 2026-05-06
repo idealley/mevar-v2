@@ -46,6 +46,11 @@ mevar_match:
   title: "Appel à la guerre — appel au combat contre Babylone"
   similarity: 0.682
 llm_cleaned: true
+bible_refs:
+  - "Exode 5:5-9"
+  - "Luc 21:34-36"
+  - "Matthieu 6:24"
+  - "Matthieu 6:25-34"
 ---
 ## Appel à la guerre – Appel au combat contre Babylone
 

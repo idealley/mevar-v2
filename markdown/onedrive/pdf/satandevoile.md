@@ -43,6 +43,13 @@ themes:
   - "Délivrance"
   - "Héritage en Christ"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Jean 3"
+  - "Jean 8"
+  - "Jean 8:12"
+  - "Marc 16"
+  - "Ésaïe 28"
 ---
 Satan dévoilé, prêché le dimanche 30 Août 2009 par le frère M’BRA Parfait à Koumassi, Abidjan
 

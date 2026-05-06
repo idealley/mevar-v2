@@ -49,6 +49,23 @@ themes:
   - "Prédication de la Parole"
   - "Choses nouvelles"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Jean 4:20"
+  - "1 Jean 4:8"
+  - "2 Thessaloniciens 2"
+  - "Actes 2:40-43"
+  - "Jean 2"
+  - "Matthieu 10"
+  - "Matthieu 22"
+  - "Matthieu 22:14"
+  - "Matthieu 22:7-10"
+  - "Matthieu 24:12"
+  - "Matthieu 5:13"
+  - "Matthieu 5:14"
+  - "Philippiens 2:14-16"
+  - "Romains 8:35"
+  - "Ésaïe 43:18-21"
 ---
 ## Exhortation Janvier 2013
 

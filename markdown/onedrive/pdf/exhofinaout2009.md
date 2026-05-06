@@ -56,6 +56,26 @@ themes:
   - "Sanctification"
   - "Combattre le culte de la personnalité"
 llm_cleaned: true
+bible_refs:
+  - "1 Jean 3:2"
+  - "1 Jean 5:14-15"
+  - "1 Rois 18:43-44"
+  - "1 Samuel 17:34-37"
+  - "1 Samuel 17:46-47"
+  - "2 Corinthiens 5:16"
+  - "2 Samuel 12:13"
+  - "Actes 7:47-50"
+  - "Daniel 10:12-13"
+  - "Esther 2:15-17"
+  - "Jean 7:38"
+  - "Marc 11:22-26"
+  - "Marc 2:20-22"
+  - "Matthieu 25:6"
+  - "Psaumes 23"
+  - "Psaumes 23:1-6"
+  - "Psaumes 51"
+  - "Psaumes 51:1-6"
+  - "Ésaïe 43:1-4"
 ---
 ## LE PASTEUR INVISIBLE
 

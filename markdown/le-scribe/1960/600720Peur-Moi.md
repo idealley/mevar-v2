@@ -43,6 +43,28 @@ themes:
   - "La venue du Seigneur"
 pdf_url: "http://le-scribe.org/pdfiles/600720Peur-Moi.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12:3"
+  - "1 Jean 4:7"
+  - "2 Corinthiens 5:1"
+  - "Actes 10:44"
+  - "Actes 2:38"
+  - "Actes 8:15-17"
+  - "Genèse 17:15"
+  - "Hébreux 13:8"
+  - "Hébreux 4:15"
+  - "Jean 14:12"
+  - "Jean 5:19"
+  - "Jérémie 1:5"
+  - "Luc 17:26"
+  - "Luc 17:28-30"
+  - "Matthieu 14:22-27"
+  - "Matthieu 16:13-18"
+  - "Matthieu 16:19"
+  - "Matthieu 18:20"
+  - "Romains 8:34"
+  - "Ésaïe 1:18"
+  - "Ésaïe 53:3"
 ---
 **1.** [Salutations]. J'ai découvert ce matin le tarif du motel, et j'ai changé d'endroit. J'ai expliqué au frère Folst que l'église ne doit pas faire une telle dépense, ce n'est pas chrétien. Je devrais être en Allemagne, mais il y a eu des problèmes.
 

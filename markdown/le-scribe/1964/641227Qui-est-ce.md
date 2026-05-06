@@ -50,6 +50,21 @@ themes:
   - "Jugement"
 pdf_url: "http://le-scribe.org/pdfiles/641227Qui-est-ce.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 18:19"
+  - "1 Rois 22"
+  - "Amos 3:4-6"
+  - "Deutéronome 5:23-33"
+  - "Exode 4:8"
+  - "Jean 17:22"
+  - "Jean 5:39"
+  - "Jean 6:44"
+  - "Jean 7:14"
+  - "Luc 17:26-27"
+  - "Luc 19:40"
+  - "Matthieu 21:10-11"
+  - "Nombres 25:1-3"
+  - "Nombres 25:6-13"
 ---
 **Résumé de : “Qui est-ce selon vous ?” (27 décembre 1964, matin)**
 

@@ -43,6 +43,27 @@ themes:
   - "repentance et réveil"
 pdf_url: "http://le-scribe.org/pdfiles/640411Amnesie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Samuel 8"
+  - "Actes 2:38-39"
+  - "Amos 3:1"
+  - "Apocalypse 3:17"
+  - "Daniel 4:33"
+  - "Deutéronome 18:15"
+  - "Genèse 18:13"
+  - "Hébreux 13:8"
+  - "Jean 14:12"
+  - "Jean 14:12,17,19"
+  - "Jean 15:7"
+  - "Jean 3:18"
+  - "Jean 8:44"
+  - "Job 38:7"
+  - "Luc 17:28,30"
+  - "Marc 11:23"
+  - "Matthieu 28:20"
+  - "Romains 6:23"
+  - "Ésaïe 7:14"
+  - "Ézéchiel 16:6,9"
 ---
 *L'amnésie spirituelle* (11 avril 1964, soir)
 

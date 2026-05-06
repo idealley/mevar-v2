@@ -40,6 +40,24 @@ themes:
   - "Résurrection spirituelle"
 pdf_url: "http://le-scribe.org/pdfiles/630120aVoix-de-Dieu.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Rois 22:6"
+  - "1 Samuel 3:1"
+  - "2 Timothée 3:12"
+  - "2 Timothée 3:5"
+  - "Actes 10:15"
+  - "Genèse 3:8"
+  - "Hébreux 11:37"
+  - "Hébreux 3:7-8"
+  - "Jean 11:43"
+  - "Jean 1:11-12"
+  - "Jean 5:25"
+  - "Marc 13:16-17"
+  - "Matthieu 24:24"
+  - "Matthieu 5:18"
+  - "Matthieu 7:22-23"
+  - "Osée 4:6"
+  - "Ésaïe 40:1-5"
 ---
 *La voix de Dieu en ces derniers jours*
 *20 janvier 1963, dimanche matin, Phoenix (Arizona)*

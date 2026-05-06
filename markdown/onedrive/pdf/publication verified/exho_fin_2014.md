@@ -52,6 +52,33 @@ mevar_match:
   title: "Nous avons vu son étoile"
   similarity: 0.644
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:28-31"
+  - "1 Corinthiens 2"
+  - "2 Timothée 2:1"
+  - "Actes 4:36-37"
+  - "Apocalypse 12"
+  - "Deutéronome 28"
+  - "Exode 23:23-26"
+  - "Genèse 3"
+  - "Genèse 3:14-16"
+  - "Genèse 3:20"
+  - "Luc 1:26-35"
+  - "Luc 2:8-12"
+  - "Marc 13:35"
+  - "Matthieu 12:34"
+  - "Matthieu 23:33"
+  - "Matthieu 24:14"
+  - "Matthieu 24:42"
+  - "Matthieu 25:13"
+  - "Matthieu 26:41"
+  - "Matthieu 2:1-2"
+  - "Matthieu 3:7"
+  - "Éphésiens 2:1-3"
+  - "Ésaïe 53:10"
+  - "Ésaïe 7"
+  - "Ésaïe 7:13-15"
+  - "Ésaïe 9:5-6"
 ---
 ## NOUS AVONS VU SON ETOILE
 

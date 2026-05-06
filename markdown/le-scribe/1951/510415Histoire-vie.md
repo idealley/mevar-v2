@@ -33,6 +33,11 @@ themes:
   - "Obéissance à Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/510415Histoire-vie.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:13-16"
+  - "Hébreux 13:14,11"
+  - "Job 38:4"
+  - "Luc 16:24"
 ---
 *Histoire de ma vie*
 *Life Story*

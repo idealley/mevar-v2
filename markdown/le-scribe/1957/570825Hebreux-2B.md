@@ -43,6 +43,32 @@ themes:
   - "Primauté de Dieu"
 pdf_url: "http://le-scribe.org/pdfiles/570825Hebreux-2B.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15:55"
+  - "1 Pierre 3:19"
+  - "1 Rois 17"
+  - "Actes 10:48"
+  - "Actes 13:11"
+  - "Actes 19:5"
+  - "Actes 2:22"
+  - "Actes 2:32-36"
+  - "Actes 2:37-38"
+  - "Actes 7:48"
+  - "Actes 8:17"
+  - "Hébreux 10:5"
+  - "Hébreux 11:10"
+  - "Hébreux 1:1"
+  - "Hébreux 1:13"
+  - "Hébreux 2:10"
+  - "Hébreux 2:17"
+  - "Hébreux 2:18"
+  - "Hébreux 2:4"
+  - "Hébreux 2:5-7"
+  - "Hébreux 2:8,9"
+  - "Matthieu 28:19"
+  - "Psaumes 24:7"
+  - "Psaumes 8:4-6"
+  - "Ruth 3:2"
 ---
 **Résumé de!: “Hébreux, chapitre 2, seconde partie” (25 août 1957 soir)**
 

@@ -45,6 +45,13 @@ mevar_match:
   title: "La drachme perdue"
   similarity: 0.655
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 13:13"
+  - "Hébreux 11:1-3"
+  - "Hébreux 6:17-20"
+  - "Luc 15"
+  - "Luc 15:3-10"
 ---
 *La drachme perdue, prêché à Muraz en Suisse, le 25 juin 2010*
 

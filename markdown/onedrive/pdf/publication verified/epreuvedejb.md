@@ -48,6 +48,15 @@ mevar_match:
   title: "L'épreuve de Jean-Baptiste"
   similarity: 0.629
 llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 5"
+  - "Jean 1"
+  - "Jean 1:19-34"
+  - "Juges 6:25-29"
+  - "Malachie 3"
+  - "Matthieu 11"
+  - "Matthieu 11:3-6"
+  - "Ésaïe 40"
 ---
 *L'épreuve de Jean Baptiste, prêché à Koumassi par le frère M'BRA Parfait*
 
