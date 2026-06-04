@@ -1,0 +1,30 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getEntry, render } from "astro:content";
+
+interface Props {
+  slug: string;
+  fallbackTitle?: string;
+}
+
+const { slug, fallbackTitle } = Astro.props;
+const entry = await getEntry("works", `mevar/${slug}`);
+if (!entry) {
+  return new Response(`Mevar page "${slug}" missing — run the Ghost ingest first.`, { status: 500 });
+}
+const { Content } = await render(entry);
+const fm = entry.data;
+const title = fm.title ?? fallbackTitle ?? slug;
+---
+
+<Layout title={`${title} — Mevar`} description={fm.summary ?? title}>
+  <article class="container mx-auto px-4 py-12 md:py-16 max-w-2xl">
+    <header class="mb-8">
+      <h1 class="text-3xl md:text-4xl font-bold tracking-tight">{title}</h1>
+      {fm.subtitle && <p class="text-xl text-muted-foreground italic mt-2">{fm.subtitle}</p>}
+    </header>
+    <div class="prose-reader text-lg leading-relaxed [&_p]:mb-4 [&_h2]:text-2xl [&_h2]:font-semibold [&_h2]:mt-8 [&_h2]:mb-4 [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3 [&_blockquote]:border-l-4 [&_blockquote]:border-primary [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-muted-foreground [&_blockquote]:my-4 [&_a]:text-primary [&_a]:underline [&_a]:decoration-2 [&_a]:underline-offset-4 hover:[&_a]:decoration-primary/50">
+      <Content />
+    </div>
+  </article>
+</Layout>
