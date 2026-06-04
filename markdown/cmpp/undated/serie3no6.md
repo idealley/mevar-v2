@@ -1,564 +1,170 @@
-    SERIE 3 N° 6
+---
+source: "cmpp"
+sermon_id: "serie3no6"
+title: "IL PREND SOIN. ET VOUS?"
+subtitle: "21 juillet 1963, matin"
+date: "1963-07-21"
+year: 1963
+location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le thème 'Il prend soin. Et vous?' à partir de 1 Pierre 5 et Hébreux 2. Il encourage les croyants à se décharger de leurs soucis sur Dieu, qui prend soin d'eux. Il aborde la consolation du Saint-Esprit, la foi absolue, et met en garde contre les fausses consolations du monde. Il illustre son propos par des témoignages de guérison et de délivrance."
+tags:
+  - "soin de Dieu"
+  - "consolation"
+  - "Saint-Esprit"
+  - "foi"
+  - "guérison"
+  - "sincérité"
+persons:
+  - "William Marrion Branham"
+  - "Jésus-Christ"
+  - "Jean-Baptiste"
+  - "Martin Luther King"
+  - "Roy Davis"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "États-Unis"
+  - "Shreveport"
+  - "Afrique"
+  - "Arizona"
+themes:
+  - "la providence divine"
+  - "la consolation du Saint-Esprit"
+  - "la foi absolue"
+  - "la confession sincère"
+  - "la décadence morale"
+  - "la guérison divine"
+  - "l'unité des croyants"
+pdf_url: "http://cmpp.ch/serie3no6.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Timothée 3"
+  - "Apocalypse 17"
+  - "Genèse 6"
+  - "Hébreux 2"
+  - "Hébreux 4"
+  - "Jean 15"
+  - "Jean 5"
+---
+SERIE 3 N° 6
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
+WILLIAM MARRION BRANHAM
 
 IL PREND SOIN. ET VOUS?
 (He cares. Do You care?)
 
-
-
-
-     21 juillet 1963, matin
-       Branham Tabernacle
+21 juillet 1963, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    IL PREND SOIN. ET VOUS?    2
+IL PREND SOIN. ET VOUS? 2
 
 IL PREND SOIN. ET VOUS?
 (He Cares. Do You care?)
 
-
-     21 juillet 1963, matin
-       Branham Tabernacle
+21 juillet 1963, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+[Le verbe «to care» qui a été traduit en général par «prendre soin» ou «se soucier» a en réalité une signification bien plus étendue: «se soucier, s’inquiéter, s’occuper, prendre soin, aimer, avoir un penchant pour…» qui est presque toujours présente dans cette prédication — N.d.T.]
 
+1 Merci frère. Maintenant restons encore un moment debout pour prier. Gardons nos têtes baissées. Si des requêtes ont été présentées en les exprimant ou simplement en levant la main, veuillez lever la main pour présenter votre requête.
+2 Notre Père céleste, nous nous approchons encore une fois de Toi pour Te présenter ces requêtes: vois ces mains levées. Et ce matin, Seigneur, ils sont dans le besoin pour bien des choses. Tu connais les pensées de leur coeur car Tu es la Parole et la Parole discerne les pensées et les intentions du coeur. Et je Te prie, ô Dieu plein de grâce, de répondre à chacun d’eux selon leurs besoins, sachant que Tu feras selon leur foi. Donne-nous la foi quand nous annoncerons Ta Parole, Seigneur, qu’Elle puisse leur apporter la foi. Aide-moi à annoncer Ta Parole (car Ta Parole est la vérité) afin qu’Elle puisse amener une foi telle que Tu puisses répondre à leurs requêtes. Seigneur, il y en a peut-être ici quelques-uns qui sont sortis du chemin étroit et qui ne marchent pas dans la vérité du chemin. Nous Te prions, Père, que quelque chose soit fait aujourd’hui et révélé afin qu’ils reviennent vite sur ce chemin de communion avec Christ. Il se fait tard, le mal est partout, il y a une grande apostasie. Et nous Te prions, Père, de Te faire connaître à nous aujourd’hui par la guérison des malades qui sont au milieu de nous et en faisant des miracles. Ce n’est pas que Tu sois obligé, Seigneur, de nous faire connaître que Tu es Dieu, mais c’est parce que Tu l’as promis. Et nous savons que Tu nous accorderas Tes promesses si seulement nous les croyons et que nous connaissons qu’elles sont la vérité. Nous demandons ces faveurs au Nom de Jésus-Christ. Amen. Vous pouvez vous asseoir.
+3 Je vais juste prendre un moment pour lire quelques-unes des requêtes qui ont été déposées ici (il y en a deux ou trois dont l’une est une demande de prière). Il y a bien sûr quantité de mouchoirs posés ici sur lesquels nous nous réjouissons de pouvoir prier dans un moment, quand nous sentirons que la présence du Saint-Esprit est à son sommet. C’est alors que j’essaie de prier sur ces mouchoirs quand toute l’assemblée, quand tous sont oints de Sa présence.
+4 Nous sommes vraiment désolés qu’il y en ait tant qui doivent rester debout parce qu’il n’y a pas assez de place pour que tous puissent s’asseoir. Et nous sommes dans les jours les plus chauds de l’année; la chaleur est à son maximum! Quand il fait pas loin de quarante degrés et qu’avec cela l’humidité est voisine de cent pour cent, cela donne un temps très chaud et moite.
+5 Ce matin j’ai annoncé un service de guérison. La raison pour laquelle je fais ces services de guérison, c’est que je mets ma foi dans ce qu’Il a promis. Vous voyez? Je ne peux pas dire simplement qu’Il le fera, mais je crois qu’après avoir entendu Sa Parole et pouvant ainsi fonder notre foi sur ce qu’Il a promis, nous avons le droit de réclamer Ses promesses de guérison exactement comme nous le faisons pour Ses promesses de salut.
+6 Pour ces requêtes, je ne sais pas s’ils ont mis les enregistreurs en marche. Cela pourrait être bien de le faire. Eh bien, je crois que ce sera très bien pour ceux de l’extérieur, pour ceux qui écouteront ces bandes d’entendre cela. Voici une requête.
 
-
-     [Le verbe «to care» qui a été traduit en général par «prendre soin» ou «se soucier» a en
-     réalité une signification bien plus étendue: «se soucier, s’inquiéter, s’occuper, prendre
-     soin, aimer, avoir un penchant pour…» qui est presque toujours présente dans cette
-     prédication — N.d.T.]
-
-1 Merci frère. Maintenant restons encore un moment debout pour prier. Gardons nos têtes
-baissées. Si des requêtes ont été présentées en les exprimant ou simplement en levant la main,
-veuillez lever la main pour présenter votre requête.
-2 Notre Père céleste, nous nous approchons encore une fois de Toi pour Te présenter ces
-requêtes: vois ces mains levées. Et ce matin, Seigneur, ils sont dans le besoin pour bien des
-choses. Tu connais les pensées de leur coeur car Tu es la Parole et la Parole discerne les
-pensées et les intentions du coeur. Et je Te prie, ô Dieu plein de grâce, de répondre à chacun
-d’eux selon leurs besoins, sachant que Tu feras selon leur foi. Donne-nous la foi quand nous
-annoncerons Ta Parole, Seigneur, qu’Elle puisse leur apporter la foi. Aide-moi à annoncer Ta
-Parole (car Ta Parole est la vérité) afin qu’Elle puisse amener une foi telle que Tu puisses
-répondre à leurs requêtes. Seigneur, il y en a peut-être ici quelques-uns qui sont sortis du chemin
-étroit et qui ne marchent pas dans la vérité du chemin. Nous Te prions, Père, que quelque chose
-soit fait aujourd’hui et révélé afin qu’ils reviennent vite sur ce chemin de communion avec Christ. Il
-se fait tard, le mal est partout, il y a une grande apostasie. Et nous Te prions, Père, de Te faire
-connaître à nous aujourd’hui par la guérison des malades qui sont au milieu de nous et en faisant
-des miracles. Ce n’est pas que Tu sois obligé, Seigneur, de nous faire connaître que Tu es Dieu,
-mais c’est parce que Tu l’as promis. Et nous savons que Tu nous accorderas Tes promesses si
-seulement nous les croyons et que nous connaissons qu’elles sont la vérité. Nous demandons ces
-faveurs au Nom de Jésus-Christ. Amen. Vous pouvez vous asseoir.
-3 Je vais juste prendre un moment pour lire quelques-unes des requêtes qui ont été déposées
-ici (il y en a deux ou trois dont l’une est une demande de prière). Il y a bien sûr quantité de
-mouchoirs posés ici sur lesquels nous nous réjouissons de pouvoir prier dans un moment, quand
-nous sentirons que la présence du Saint-Esprit est à son sommet. C’est alors que j’essaie de prier
-sur ces mouchoirs quand toute l’assemblée, quand tous sont oints de Sa présence.
-4 Nous sommes vraiment désolés qu’il y en ait tant qui doivent rester debout parce qu’il n’y a
-pas assez de place pour que tous puissent s’asseoir. Et nous sommes dans les jours les plus
-chauds de l’année; la chaleur est à son maximum! Quand il fait pas loin de quarante degrés et
-qu’avec cela l’humidité est voisine de cent pour cent, cela donne un temps très chaud et moite.
-5 Ce matin j’ai annoncé un service de guérison. La raison pour laquelle je fais ces services de
-guérison, c’est que je mets ma foi dans ce qu’Il a promis. Vous voyez? Je ne peux pas dire
-simplement qu’Il le fera, mais je crois qu’après avoir entendu Sa Parole et pouvant ainsi fonder
-notre foi sur ce qu’Il a promis, nous avons le droit de réclamer Ses promesses de guérison
-exactement comme nous le faisons pour Ses promesses de salut.
-6 Pour ces requêtes, je ne sais pas s’ils ont mis les enregistreurs en marche. Cela pourrait être
-bien de le faire. Eh bien, je crois que ce sera très bien pour ceux de l’extérieur, pour ceux qui
-écouteront ces bandes d’entendre cela. Voici une requête.
-
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 IL PREND SOIN. ET VOUS? 3
-     Avez-vous prophétisé qu’il y aurait un million de Noirs qui seraient tués ou avez-vous
-     simplement annoncé qu’il en serait ainsi?
-7 Oh, vous voyez, je vous ai toujours demandé de faire très attention à ce que vous écoutez.
-Vous comprenez? Là-dedans il y a tellement qui n’est que le côté humain! Mais chaque fois que
-quelque chose sortira, cela sera annoncé comme étant «Ainsi dit le Seigneur», pour les visions
-comme pour tout le reste. Les visions que l’on a sur la plate-forme, et dans l’auditoire, on les
-produit soi-même. Ce n’est pas Dieu: c’est vous. Vous voyez? Ce n’est pas Dieu qui produit cette
-vision, c’est vous-même par votre foi dans un don divin.
-8 C’est comme cette femme qui toucha Son vêtement: Il ne savait pas qui elle était ou ce qu’elle
-avait, mais elle, elle le savait. Vous voyez? Ce n’était pas AINSI DIT LE SEIGNEUR. Mais ce fut
-AINSI DIT LE SEIGNEUR lorsque Jésus lui répondit et lui dit que sa foi l’avait sauvée. Vous voyez,
-vous devez faire attention.
-9 Non, je parlais simplement de Martin Luther King et de cette grande calamité qui bouleverse
-les gens de couleur dans le Sud. Je disais: «Si ces gens étaient des esclaves, je prendrais mon
-assemblée et nous irions dans le Sud pour les aider à sortir de l’esclavage». Je le ferais
-certainement parce que ce n’est pas Dieu qui a fait les esclaves, c’est l’homme. Nous sommes
-tous du même sang. Nous venons tous d’un même arbre: Adam. Dieu, par un seul sang, a fait
-toutes les nations. Et que notre peau soit brune, noire, jaune, rouge ou de n’importe quelle autre
-couleur, nous sommes tous des créatures du Tout-Puissant, vous voyez, et il ne devrait y avoir
-aucune différence entre nous.
-10 Là-bas la question est la ségrégation dans les écoles. J’étais là-bas lors des premiers
-soulèvements, j’ai vu ce qui s’est passé et je sais de quoi je parle. Les gens de couleur ont de
-belles écoles, des écoles souvent bien meilleures que les autres. Par exemple à Shreveport, les
-écoles des noirs sont meilleures que les écoles des blancs. Mais quelqu’un leur a donné l’idée
-qu’ils devaient se mélanger ensemble. Moi je pense que c’est très bien, mais s’il y en a qui s’y
-opposent parmi les gens du Sud, de toute manière quelle différence cela fait-il?
-11 Je pense que Martin Luther King est inspiré par des idées communistes, ce qui va conduire
-sûrement un million de gens vers un piège mortel. Vous voyez? Je ne dis pas que c’est le
-Seigneur qui me l’a dit. C’est moi qui crois cela. Et je crois qu’il ne faudrait pas faire cela. Je pense
-que ces gens devraient être des chrétiens et se reconnaître mutuellement comme étant frères.
-12 Et maintenant le gouvernement des Etats-Unis me dit que je n’ai même pas le droit de signer
-un chèque qui m’est adressé personnellement! Vous voyez? Mes droits constitutionnels me sont
-ôtés, mais qu’y puis-je? Allons simplement de l’avant, c’est tout. Vous voyez? Et il faut passer par
-un autre système avant que moi, citoyen des Etats-Unis, puisse encaisser un chèque; il faut que
-cela passe par cette église, sinon je ne peux pas l’encaisser. Vous voyez? Ce n’est pas juste.
-C’est contraire à la constitution. Mais qu’y puis-je? Rien! C’est le receveur des contributions
-lui-même qui me l’a dit: c’est donc ainsi. Si c’est ainsi alors tant pis, laissons tomber!
-13 Je pense que ce devrait être pareil pour mes frères et soeurs de couleur dans le Sud; ils ne
-devraient pas prendre les armes contre leurs frères et faire tout cela pour une chose de si peu
-d’importance. Frères, quelle différence cela fait-il si vous allez dans telle ou telle école? J’ai vu ce
-matin une brave femme de couleur qui m’a parlé de cette révolte qu’il y a eu là-bas à Shreveport
-quand ce vieux pasteur noir s’avança vers la milice et leur dit: «Laissez-moi leur parler». Alors ce
-pieux vieillard alla vers ceux de sa race et leur dit: «Je n’ai jamais eu honte de ma couleur. Mon
-Créateur m’a fait comme je suis et je n’en ai jamais eu honte jusqu’à ce matin. Mais, mon peuple,
-lorsque je vous vois agir ainsi, c’est alors que j’ai honte d’être un homme de couleur». La milice
-avait été appelée et on le hua pour le faire taire.
-14 Alors une femme de couleur d’une grande distinction se leva et dit: «Je vous dis tout de suite
-que je ne veux pas que mes enfants soient enseignés par une femme blanche!».
-     On lui demanda: «Pourquoi?».
-15 Elle répondit: «Parce qu’elle ne s’intéressera pas à mes enfants comme le ferait une
-institutrice de couleur. D’ailleurs regardez nos écoles ici. De quoi vous plaignez-vous? Nous avons
-des piscines et tout ce qu’il faut dans nos écoles. Eux n’ont pas tout cela! De quoi vous
-plaignez-vous?». Mais les gens la huèrent et la firent taire, vous voyez.
-16 Ces gens sont mal inspirés, vous voyez. C’est la raison pour laquelle je dis cela et non pas
-parce qu’il y aurait une prophétie quelconque à leur sujet. Je n’ai rien reçu du Seigneur les
 
-        http://www.cmpp.ch
+Avez-vous prophétisé qu’il y aurait un million de Noirs qui seraient tués ou avez-vous simplement annoncé qu’il en serait ainsi?
+7 Oh, vous voyez, je vous ai toujours demandé de faire très attention à ce que vous écoutez. Vous comprenez? Là-dedans il y a tellement qui n’est que le côté humain! Mais chaque fois que quelque chose sortira, cela sera annoncé comme étant «Ainsi dit le Seigneur», pour les visions comme pour tout le reste. Les visions que l’on a sur la plate-forme, et dans l’auditoire, on les produit soi-même. Ce n’est pas Dieu: c’est vous. Vous voyez? Ce n’est pas Dieu qui produit cette vision, c’est vous-même par votre foi dans un don divin.
+8 C’est comme cette femme qui toucha Son vêtement: Il ne savait pas qui elle était ou ce qu’elle avait, mais elle, elle le savait. Vous voyez? Ce n’était pas AINSI DIT LE SEIGNEUR. Mais ce fut AINSI DIT LE SEIGNEUR lorsque Jésus lui répondit et lui dit que sa foi l’avait sauvée. Vous voyez, vous devez faire attention.
+9 Non, je parlais simplement de Martin Luther King et de cette grande calamité qui bouleverse les gens de couleur dans le Sud. Je disais: «Si ces gens étaient des esclaves, je prendrais mon assemblée et nous irions dans le Sud pour les aider à sortir de l’esclavage». Je le ferais certainement parce que ce n’est pas Dieu qui a fait les esclaves, c’est l’homme. Nous sommes tous du même sang. Nous venons tous d’un même arbre: Adam. Dieu, par un seul sang, a fait toutes les nations. Et que notre peau soit brune, noire, jaune, rouge ou de n’importe quelle autre couleur, nous sommes tous des créatures du Tout-Puissant, vous voyez, et il ne devrait y avoir aucune différence entre nous.
+10 Là-bas la question est la ségrégation dans les écoles. J’étais là-bas lors des premiers soulèvements, j’ai vu ce qui s’est passé et je sais de quoi je parle. Les gens de couleur ont de belles écoles, des écoles souvent bien meilleures que les autres. Par exemple à Shreveport, les écoles des noirs sont meilleures que les écoles des blancs. Mais quelqu’un leur a donné l’idée qu’ils devaient se mélanger ensemble. Moi je pense que c’est très bien, mais s’il y en a qui s’y opposent parmi les gens du Sud, de toute manière quelle différence cela fait-il?
+11 Je pense que Martin Luther King est inspiré par des idées communistes, ce qui va conduire sûrement un million de gens vers un piège mortel. Vous voyez? Je ne dis pas que c’est le Seigneur qui me l’a dit. C’est moi qui crois cela. Et je crois qu’il ne faudrait pas faire cela. Je pense que ces gens devraient être des chrétiens et se reconnaître mutuellement comme étant frères.
+12 Et maintenant le gouvernement des Etats-Unis me dit que je n’ai même pas le droit de signer un chèque qui m’est adressé personnellement! Vous voyez? Mes droits constitutionnels me sont ôtés, mais qu’y puis-je? Allons simplement de l’avant, c’est tout. Vous voyez? Et il faut passer par un autre système avant que moi, citoyen des Etats-Unis, puisse encaisser un chèque; il faut que cela passe par cette église, sinon je ne peux pas l’encaisser. Vous voyez? Ce n’est pas juste. C’est contraire à la constitution. Mais qu’y puis-je? Rien! C’est le receveur des contributions lui-même qui me l’a dit: c’est donc ainsi. Si c’est ainsi alors tant pis, laissons tomber!
+13 Je pense que ce devrait être pareil pour mes frères et soeurs de couleur dans le Sud; ils ne devraient pas prendre les armes contre leurs frères et faire tout cela pour une chose de si peu d’importance. Frères, quelle différence cela fait-il si vous allez dans telle ou telle école? J’ai vu ce matin une brave femme de couleur qui m’a parlé de cette révolte qu’il y a eu là-bas à Shreveport quand ce vieux pasteur noir s’avança vers la milice et leur dit: «Laissez-moi leur parler». Alors ce pieux vieillard alla vers ceux de sa race et leur dit: «Je n’ai jamais eu honte de ma couleur. Mon Créateur m’a fait comme je suis et je n’en ai jamais eu honte jusqu’à ce matin. Mais, mon peuple, lorsque je vous vois agir ainsi, c’est alors que j’ai honte d’être un homme de couleur». La milice avait été appelée et on le hua pour le faire taire.
+14 Alors une femme de couleur d’une grande distinction se leva et dit: «Je vous dis tout de suite que je ne veux pas que mes enfants soient enseignés par une femme blanche!».
+On lui demanda: «Pourquoi?».
+15 Elle répondit: «Parce qu’elle ne s’intéressera pas à mes enfants comme le ferait une institutrice de couleur. D’ailleurs regardez nos écoles ici. De quoi vous plaignez-vous? Nous avons des piscines et tout ce qu’il faut dans nos écoles. Eux n’ont pas tout cela! De quoi vous plaignez-vous?». Mais les gens la huèrent et la firent taire, vous voyez.
+16 Ces gens sont mal inspirés, vous voyez. C’est la raison pour laquelle je dis cela et non pas parce qu’il y aurait une prophétie quelconque à leur sujet. Je n’ai rien reçu du Seigneur les concernant. Maintenant c’est moi qui vous parle. Mais quand c’est Lui qui parle, je vous dis: «Ce n’est pas moi, c’est AINSI DIT LE SEIGNEUR». Et je ne peux pas le dire tant qu’Il ne me le dit pas. Peut-être que je me trompe complètement au sujet de Martin Luther King. Je ne sais pas, je ne peux rien dire. C’est simplement mon opinion. Toutes ces choses qui causent des troubles, c’est ce qui doit arriver dans les derniers jours. Et tout cela est inspiré par Satan afin de détruire la chose publique et tout ce que nous avons: c’est le but de tous ces soulèvements. Mais je suis pour ces gens là-bas; ne pensez pas que je suis contre eux! Je suis pour la liberté et toutes ces choses, mais ces gens ne sont pas dans l’esclavage. Mais je crois que ce qui va se passer si personne ne l’arrête, c’est que cela déclenchera une nouvelle révolution. Vous comprenez, ce sont les communistes qui agissent parmi ces gens.
+17 J’étais en Afrique lorsqu’ils firent la même chose. Vous voyez? Et je sais que des communistes étaient venus dire à ces gens de couleur: «Oh, vous êtes ceci et cela! Vous êtes ceci et cela!». Et le premier résultat fut la mort de milliers de personnes. Où cela les a-t-il menés? Nulle part. Vous voyez, nulle part!
+18 J’aime la vie de l’homme. Servons le Seigneur! Notre royaume est d’En-Haut; nous n’avons rien dans les choses d’ici-bas. Du moment que nous avons à manger et à boire et les choses nécessaires à la vie d’ici-bas, que pouvons-nous désirer de plus? Vous comprenez? Je sais ce que cela donne: je me rends compte que cela ne fait que causer du trouble. Mais voici encore une autre question:
+Pourquoi, lorsque Jésus rencontra Jean-Baptiste au Jourdain, Il lui dit: “Laisse faire maintenant, car il est convenable que nous accomplissions ainsi tout ce qui est juste?”. Qu’est-ce que cela signifie?
+19 Cela me rappelle un ami personnel, le docteur Roy Davis qui me baptisa la seule fois où j’aie jamais été baptisé. Je me rappelle que dans leurs écoles ils enseignent que Jean était conscient qu’il n’avait jamais été baptisé lui-même, alors il permit d’abord que Jésus le baptisât. En cela je ne suis pas d’accord avec ce grand docteur.
+20 Je ne veux pas susciter de controverse, mais pour l’amour de la vérité je dois dire ceci. Il y avait là deux hommes, les deux chefs spirituels de l’heure: le Messie et Son prophète. Ils se rencontrèrent dans l’eau. Rappelez-vous maintenant que Jean ne baptisait pas pour la rémission des péchés mais pour la repentance. Il ne baptisait pas pour la rémission des péchés parce que l’offrande n’avait pas encore été faite, vous comprenez, il n’y avait pas encore de sacrifice. Et le Sacrifice vint à lui dans l’eau. Maintenant remarquez ceci: Jean, levant les yeux et voyant Jésus dit: “C’est moi qui ai besoin d’être baptisé par Toi et Tu viens à moi!”.
+21 Mais Jésus lui répondit: “Laisse faire maintenant, car il est convenable que nous accomplissions ainsi tout ce qui est juste”. Or Jean était un prophète à qui la Parole de Dieu venait, car Elle ne vient qu’au prophète. C’est pourquoi Jean, étant prophète, comprit que c’était là le Sacrifice. Et selon la loi le sacrifice devait être lavé avant d’être présenté. C’est la raison pour laquelle il baptisa Jésus. Vous comprenez? Il dit: “Il est convenable que nous accomplissions tout ce qui est juste”. Le Sacrifice (ce qu’Il était) devait être lavé dans le bassin avant d’être présenté pour être sacrifié. Jésus était le Sacrifice et Jean le savait; Il savait qu’Il devait être lavé avant d’être présenté. Et immédiatement après, Il fut présenté au public pour le jugement et fut le Sacrifice pour toute vie humaine. Que le Seigneur vous bénisse.
+22 Maintenant nous allons vous donner un court petit message en croyant que le Seigneur nous accordera Ses bénédictions. La semaine prochaine je vais m’en aller dans les montagnes avec les enfants pour prendre quelques vacances. Si je reviens à temps, nous parlerons ici dimanche prochain, si Dieu le permet et si le pasteur le veut bien. Nous le ferons savoir par lettre dans le courant de la semaine à ceux de l’extérieur. Je voudrais parler sur ce sujet: Pourquoi exactement croyons-nous les choses que nous croyons au sujet de Christ, pourquoi cela doit-il être ainsi et que cela ne peut pas être autrement. Vous voyez? Et nous le prouverons par les Ecritures. Donc si le Seigneur le permet. Si ce n’est pas possible, j’essaierai de vous voir cet hiver ou l’été prochain quand nous rentrerons, si le Seigneur tarde jusque-là. Nous allons maintenant rentrer en Arizona pour ramener les enfants à l’école.
+23 Ce matin, avant de prier pour les malades, nous allons lire un peu de la Parole de Dieu. Nous savons que sans cette Parole, c’est impossible, rien ne peut se faire. Et seule la Parole peut produire ces bénédictions que nous demandons pour les malades et les nécessiteux. Je veux lire un passage dans 1 Pierre au chapitre 5. Nous commencerons au premier verset. Nous lirons ensuite dans le Livre des Hébreux. Nous lirons Hébreux 2.2-4.
+> “Voici les exhortations que j’adresse aux anciens qui sont parmi vous, moi, ancien comme eux, témoin des souffrances de Christ, et participant de la gloire qui doit être manifestée: Paissez le troupeau de Dieu qui est sous votre garde, non par contrainte, mais volontairement, selon Dieu: non pour un gain sordide, mais avec dévouement; non comme dominant sur ceux qui vous sont échus en partage, mais en étant les modèles du troupeau. Et lorsque le souverain pasteur paraîtra, vous obtiendrez la couronne incorruptible de la gloire.
+> De même, vous qui êtes jeunes, soyez soumis aux anciens. Et tous, dans vos rapports mutuels, revêtez-vous d’humilité; car Dieu résiste aux orgueilleux, mais il fait grâce aux humbles. Humiliez-vous donc sous la puissante main de Dieu, afin qu’il vous élève au temps convenable; et déchargez-vous sur lui de tous vos soucis, car lui-même prend soin de vous.”
+24 C’est de là que je tirerai le titre de ma prédication: Déchargez-vous sur Lui de tous vos soucis. Mon sujet sera: Il prend soin. Et vous? Nous allons maintenant lire dans Hébreux au chapitre 2.1-4 afin que vous puissiez bien comprendre la signification de ces mots, de ce sujet.
+> “C’est pourquoi nous devons d’autant plus nous attacher aux choses que nous avons entendues, de peur que nous ne soyons emportés loin d’elles. Car si la parole annoncée par des anges a eu son effet, et si toute transgression et toute désobéissance a reçu une juste rétribution, comment échapperons-nous en négligeant un si grand salut qui, annoncé d’abord par le Seigneur, nous a été confirmé par ceux qui l’ont entendu, Dieu appuyant leur témoignage par des signes, des prodiges et divers miracles, et par les dons du Saint-Esprit distribués selon sa volonté?”.
+25 Je voudrais parler sur ce sujet: Il prend soin. Et vous? Quand Il était ici sur terre Il prenait soin des gens. Cette pensée m’est venue à l’esprit juste avant de commencer la prière pour les malades, ne sachant pas quel genre de ligne de prière nous allions avoir.
+26 Pour commencer et pour s’approcher de cela, l’assemblée doit être ointe de foi. Vous-mêmes si vous n’avez pas la foi, il ne sert à rien de venir pour que l’on prie pour vous parce qu’il faut qu’il y ait votre foi et ma foi ensemble. Ma foi pour croire en Lui, votre foi pour croire en Lui. C’est pourquoi nous n’oublierons pas cela tandis que je parlerai. Nous avons besoin de quelque chose d’évident sur quoi fonder notre foi dans ce que nous allons faire. Parce que si un homme veut entreprendre ce qu’il désire faire sans une foi suffisante, il ne peut rencontrer qu’un échec. Par contre, s’il peut entreprendre quelque chose avec une foi suffisante, il ne peut avoir que du succès si c’est conforme à la volonté et au plan de Dieu.
+27 Je pensais à la manière dont Il prend soin de nous. Hier soir, je fus conduit d’une manière étrange par le Saint-Esprit. J’attendais quelques personnes qui devaient venir pour aider le frère Wood à accrocher à son camion une roulotte qu’il avait construite. Je ne savais pas pourquoi je me mis à la recherche de mon cher ami, frère Evans, et je partis sur la route. Ma femme et ma famille qui sont assis là-bas au fond savent que c’est vrai. Sans bien comprendre pourquoi je fis demi-tour et retournai à un endroit où il y avait un motel.
+28 Et oh, comme cela fit tressaillir mon coeur de joie lorsque je vis se rassembler là des amis en si grand nombre qu’au bout de deux minutes au plus tous les passages étaient encombrés de voitures au point que personne ne pouvait plus passer. Tous ces gens étaient de vrais amis qui avaient roulé des centaines de miles, venant de Géorgie, de Tennessee, de l’Alabama et de partout pour assister à la réunion. Alors une pensée me vint à l’esprit: «Que vais-je dire à ces gens sachant que le jour du jugement j’aurai à répondre de ce que je leur aurai dit?». Moi aussi j’aime cette vie glorieuse qui doit venir et je désire être là.
+29 Assez étrangement, au lieu d’aller là directement, j’ai fait un détour. Mes phares éclairèrent deux jeunes femmes qui se tenaient à l’extérieur. Il n’y avait pas longtemps que j’avais célébré leur mariage à deux jeunes pasteurs, de braves gens. Mais Satan s’était attaqué à l’un d’eux. Un de ces deux pasteurs s’était uni à sa compagne pour la vie ici même à cet autel. Ils étaient partis heureux en voyage de noce et c’est là que l’ennemi assaillit ce jeune homme. Si je vous dis tout cela c’est pour illustrer mon sujet: «Est-ce qu’Il prend soin de nous?». D’une manière ou d’une autre, avec une foi qui ne voulait pas répondre «non» à cette question, ils avaient fait demi-tour et étaient revenus ici (ils avaient été jusque dans l’Est du pays), interrompant leur lune de miel. Ils étaient assis là et attendaient. En entrant je vis ce brave jeune homme; sa femme était assise dehors, toute en pleurs, avec sa compagne. Alors arrivèrent l’autre homme et l’autre frère qui était un ami de ce jeune homme et ils me dirent: «Oh, frère Branham, il est arrivé telle ou telle chose».
+30 Je voyais ce brave jeune homme assis là; il était au point culminent de sa vie, c’était un chef parmi les jeunes gens, et il était là, assis, et Satan l’avait lié. Il ne remarqua pas que je lui serrai la main droite dans ma main gauche pour voir si quelque maladie l’avait frappé. Mais je ne ressentis aucun signe de vibration. Je venais de sortir de la pièce après avoir prié et jeûné, m’attendant au Seigneur; l’onction du Saint-Esprit était là et c’est pourquoi Elle nous conduisit, vous voyez. Alors je vis cette ombre de ténèbres au-dessus de lui. Je ne lui dis pas ce que j’étais en train de faire, mais en quelques instants tout fut terminé, le froid de ses mains s’était dissipé et il criait et louait Dieu. En quelques minutes il s’était retrouvé. Ils sont ici ce matin, assis dans cette salle. Vous voyez comment Satan essaya de renverser ce jeune homme en lui parlant de quelque complexe qui allait revenir; mais le Saint-Esprit connaissait cela et je le vis dans une vision que me donna le Seigneur. Dieu aimait cet homme. Dieu avait pris soin de ce jeune homme.
+31 Il y a juste quelques instants une dame est entrée (je vois qu’elle a pu trouver une place et s’asseoir). Elle m’a dit: «Neuf ans, frère Branham!». Il y a neuf ans que j’essaie de vous atteindre! Je suis désespérée! Je suis venue en retard et je n’ai même pas pu obtenir une carte de prière pour être dans la ligne!».
+32 Bien sûr, Billy a reçu l’ordre de faire en sorte que je ne sois pas dérangé. Ne lui en voulez pas, il a été chargé par le conseil de l’église de faire ce qu’il fait. S’il ne le faisait pas, je ne pourrais même pas entrer et m’approcher de la ligne de prière. Vous comprenez bien cela. Il faut bien que nous fassions les choses un peu systématiquement. Nous devons faire ainsi. Mais lui me dit: «Viens, papa, dépêche-toi!».
+33 La dame revint en arrière et dit: «Frère Branham, juste un mot!». Comme je me tenais là, une vision me vint. Je vis une jeune femme de belle apparence; je vis qu’il y avait un fardeau sur son coeur. Elle essayait de travailler pour vivre. Une chose importante lui était arrivée du temps où elle vivait encore avec ses parents; le Seigneur Jésus me le révéla et me montra de quoi il s’agissait. Et à l’instant même Il l’ôta de cette femme. Elle s’en alla dans la joie. Et maintenant elle est assise ici dans cette salle, elle se réjouit, ses larmes coulent et elle s’essuie les yeux car elle sait que la vérité au sujet de cette chose a été révélée. Cette pauvre femme névrosée qui était si nerveuse qu’elle ne savait plus que faire d’elle-même, qui pensait qu’elle était perdue, qu’il n’y avait pas de Saint-Esprit et que ce jour était son dernier jour! Elle avait essayé pendant neuf ans et elle avait touché le fond du désespoir. Mais Dieu prit soin de cette femme dont personne ne voulait prendre soin. Vous voyez? Quel jour glorieux! Dieu prend soin de nous!
+34 Quand Il était ici sur cette terre, comme je l’ai déjà dit, Il aimait tellement les gens qu’Il guérissait les malades, réconfortait les coeurs et leur disait qu’Il allait leur préparer une place et qu’Il reviendrait pour les recevoir auprès de Lui. Il prenait soin d’eux, Il les aimait tellement que, sachant qu’Il allait devoir les quitter pour nous donner cette chose glorieuse, Il dit: “Je ne vous laisserai pas sans consolation, mais Je vous enverrai le Saint-Esprit et Il continuera Mes soins pour vous”, et ceci jusqu’à Son retour. Personne n’aime et ne prend soin comme Jésus, sachant que Son Corps, en tant que Souverain sacrificateur dans l’oeuvre médiatrice qu’Il est en train d’accomplir maintenant, que ce Corps doit être dans la Présence de Dieu en tout temps pour faire l’intercession, afin que Dieu ne puisse pas voir le péché du pécheur mais qu’Il voie seulement le Sang de Son propre Fils. Sachant cela, Il a envoyé le Saint-Esprit pour continuer à réconforter Son peuple. Prend-Il soin de nous? Certainement! Or Il allait continuer à prendre soin de Son peuple, Son peuple qui est ici sur la terre, de la même manière qu’Il s’occupa d’eux quand Il était ici. Parce qu’Il l’a dit dans Jean au chapitre 15. Si vous voulez le noter, c’est dans Jean 15.26,27.
+35 Je vois que vous êtes nombreux à noter les passages de l’Ecriture. Il vaut donc la peine que je vous cite les références bibliques si vous ne les connaissez pas. Je note les passages de l’Ecriture dont je parle, ainsi je sais d’où viennent ces passages parce que tout vient de la Parole de Dieu. Vous comprenez?
+36 Il dit que lorsque serait venu le Saint-Esprit que le Père enverrait en Son Nom, Il lui rendrait témoignage. En d’autres termes, Il ferait la même chose que ce qu’Il avait fait alors. Le Saint-Esprit viendrait faire Son oeuvre au travers d’un tabernacle sanctifié par Lui et ferait les mêmes oeuvres que Lui. Oh, que cela ne devrait-il pas nous faire! C’est pourquoi nous savons qu’au milieu de nous aujourd’hui nous avons le même Consolateur, le Seigneur Jésus sous la forme du Saint-Esprit, une autre fonction dans laquelle Dieu Lui-même agit.
+37 Il était un Consolateur pour Israël quand le peuple pouvait lever les yeux et regarder vers la Colonne de feu et entendre le prophète annoncer des paroles de vérité que Dieu confirmait. Il était leur Consolateur.
+38 Il était un Consolateur quand Il était ici sur terre en tant qu’homme, Dieu fait chair, Dieu Se représentant Lui-même et S’exprimant au travers d’un homme, Jésus-Christ, qui avait fait cette promesse: “Les oeuvres que Je fais, vous les ferez aussi. Et Je m’en vais au Père, et Je vous enverrai le Saint-Esprit qui sera Moi sous forme d’Esprit. Et Je serai avec vous et Je demeurerai en vous. Et les choses mêmes que J’ai faites ici, le Saint-Esprit les fera de nouveau en Mon Nom lorsqu’Il viendra”. Vous comprenez? C’est pourquoi Il a dit: “Parler contre cela après que l’expiation aura été faite est un péché impardonnable: c’est blasphémer contre le Saint-Esprit”.
+39 Et Il l’a fait de la même manière afin que nous sachions si c’est une consolation donnée d’un point de vue terrestre, si c’est une consolation qui vient d’une personne d’âge mûr qui nous serrerait dans ses bras et nous donnerait un sentiment de réconfort, si c’est une consolation venant par un terme théologique quelconque d’une dénomination qui nous dirait: «Maintenant vous appartenez à notre groupe et nous avons la vérité. N’appartenez jamais aux autres, car ils ne l’ont pas!».
+40 Vous voyez, Il nous a donné quelque chose de parfaitement sûr: “Il parlera en Mon Nom. Lorsqu’Il sera venu, vous ferez aussi les oeuvres que Je fais”. Vous voyez, Il nous consolera de la même manière en nous pardonnant tous nos péchés, en guérissant toutes nos maladies et en nous parlant de la consolation d’un Royaume à venir. Vous voyez, Il Se confirmera au milieu de nous comme Dieu S’est confirmé au milieu de nous par Jésus-Christ. Dans 1 Timothée 3.16 il est écrit ceci: “Sans contredit le mystère de la piété est grand: Dieu qui a été manifesté en chair…”. Nous avons vu Dieu dans la chair. C’est cela la consolation de Dieu: savoir qu’Il nous aimait tant qu’Il S’est abaissé jusqu’à devenir l’un de nous; c’est ainsi qu’Il a pris soin de nous. Ce n’était pas simplement une autre personne, mais Dieu Lui-même!
+41 Et pour S’approcher d’un pas encore, Il envoie le Saint-Esprit pour veiller à ce que nous soyons consolés, et Il demeure EN nous. Oh, comme Il prend soin de nous!
+42 Maintenant, pour étayer cela, nous devons encore voir un autre passage de l’Ecriture, une autre pensée. Avant d’aller plus loin je devrais dire ceci: tous n’ont pas ce Consolateur. Il y en a qui ne L’ont pas. La raison pour laquelle ils ne L’ont pas est qu’ils ne L’acceptent pas. Il est pour eux, mais ils ne L’acceptent pas. J’espère que vous êtes assez spirituels pour comprendre ce que je vous dis. Vous voyez? Je suis en train de parler à un groupe de gens pour qui nous devrons prier dans quelques minutes. Et nous avons cette consolation dans le Saint-Esprit qui a envoyé le Consolateur, mais tous ne veulent pas Le recevoir. Ils n’y croient pas. Vous comprenez? Pour leur consolation ils ont d’autres ressources, d’autres moyens. S’ils n’acceptent pas le Consolateur fourni par Dieu il faut qu’ils aient alors quelque autre consolateur: vous ne pouvez en effet vivre sans quelque chose pour quoi vous vivez.
+43 J’espère que chacun de vous comprend cela, particulièrement vous les malades pour qui nous allons bientôt prier, vous qui êtes dans une situation si inconfortable ce matin et dont quelques-uns peut-être souffrent de maladies pour lesquelles les médecins ne peuvent rien faire.
+44 Nous croyons que les médecins aident les gens. Je crois que Dieu guérit au moyen de la médecine. Que Dieu guérit par la chirurgie. Dieu guérit par la compréhension. Dieu guérit par l’amour. Juste un tout petit peu d’amour peut faire beaucoup. Si quelqu’un est tout sens dessus-dessous, montrez-lui simplement que vous vous souciez de lui. Vous voyez? Dieu guérit par l’amour. Dieu guérit par la prière. Dieu guérit par les miracles. Dieu guérit par Sa Parole. Dieu guérit! Quelle que soit la source à laquelle vous puisez, Dieu guérit par elle. C’est Dieu qui guérit car Il a dit: “Je suis le Seigneur qui guérit toutes tes maladies”. C’est pourquoi tous devraient agir ensemble; les hommes dans les différents ministères devraient travailler ensemble à cela. Vous comprenez? Mais ils ne le font pas parce que quelquefois il leur est interdit de prendre certaines positions sur la Parole de Dieu; en effet certaines dénominations ne leur permettent pas de faire cela. Mais de toute façon cela n’arrête pas la vérité et Dieu continue à guérir pareillement.
+45 Ils essaient donc de tirer leur consolation d’autres sources. Parlons de l’âme pour commencer.
 
-    IL PREND SOIN. ET VOUS?    4
-concernant. Maintenant c’est moi qui vous parle. Mais quand c’est Lui qui parle, je vous dis: «Ce
-n’est pas moi, c’est AINSI DIT LE SEIGNEUR». Et je ne peux pas le dire tant qu’Il ne me le dit pas.
-Peut-être que je me trompe complètement au sujet de Martin Luther King. Je ne sais pas, je ne
-peux rien dire. C’est simplement mon opinion. Toutes ces choses qui causent des troubles, c’est
-ce qui doit arriver dans les derniers jours. Et tout cela est inspiré par Satan afin de détruire la
-chose publique et tout ce que nous avons: c’est le but de tous ces soulèvements. Mais je suis pour
-ces gens là-bas; ne pensez pas que je suis contre eux! Je suis pour la liberté et toutes ces choses,
-mais ces gens ne sont pas dans l’esclavage. Mais je crois que ce qui va se passer si personne ne
-l’arrête, c’est que cela déclenchera une nouvelle révolution. Vous comprenez, ce sont les
-communistes qui agissent parmi ces gens.
-17 J’étais en Afrique lorsqu’ils firent la même chose. Vous voyez? Et je sais que des
-communistes étaient venus dire à ces gens de couleur: «Oh, vous êtes ceci et cela! Vous êtes ceci
-et cela!». Et le premier résultat fut la mort de milliers de personnes. Où cela les a-t-il menés? Nulle
-part. Vous voyez, nulle part!
-18 J’aime la vie de l’homme. Servons le Seigneur! Notre royaume est d’En-Haut; nous n’avons
-rien dans les choses d’ici-bas. Du moment que nous avons à manger et à boire et les choses
-nécessaires à la vie d’ici-bas, que pouvons-nous désirer de plus? Vous comprenez? Je sais ce
-que cela donne: je me rends compte que cela ne fait que causer du trouble. Mais voici encore une
-autre question:
-     Pourquoi, lorsque Jésus rencontra Jean-Baptiste au Jourdain, Il lui dit: “Laisse faire maintenant,
-     car il est convenable que nous accomplissions ainsi tout ce qui est juste?”. Qu’est-ce que cela
-     signifie?
-19 Cela me rappelle un ami personnel, le docteur Roy Davis qui me baptisa la seule fois où j’aie
-jamais été baptisé. Je me rappelle que dans leurs écoles ils enseignent que Jean était conscient
-qu’il n’avait jamais été baptisé lui-même, alors il permit d’abord que Jésus le baptisât. En cela je
-ne suis pas d’accord avec ce grand docteur.
-20 Je ne veux pas susciter de controverse, mais pour l’amour de la vérité je dois dire ceci. Il y
-avait là deux hommes, les deux chefs spirituels de l’heure: le Messie et Son prophète. Ils se
-rencontrèrent dans l’eau. Rappelez-vous maintenant que Jean ne baptisait pas pour la rémission
-des péchés mais pour la repentance. Il ne baptisait pas pour la rémission des péchés parce que
-l’offrande n’avait pas encore été faite, vous comprenez, il n’y avait pas encore de sacrifice. Et le
-Sacrifice vint à lui dans l’eau. Maintenant remarquez ceci: Jean, levant les yeux et voyant Jésus
-dit: “C’est moi qui ai besoin d’être baptisé par Toi et Tu viens à moi!”.
-21 Mais Jésus lui répondit: “Laisse faire maintenant, car il est convenable que nous
-accomplissions ainsi tout ce qui est juste”. Or Jean était un prophète à qui la Parole de Dieu
-venait, car Elle ne vient qu’au prophète. C’est pourquoi Jean, étant prophète, comprit que c’était là
-le Sacrifice. Et selon la loi le sacrifice devait être lavé avant d’être présenté. C’est la raison pour
-laquelle il baptisa Jésus. Vous comprenez? Il dit: “Il est convenable que nous accomplissions tout
-ce qui est juste”. Le Sacrifice (ce qu’Il était) devait être lavé dans le bassin avant d’être présenté
-pour être sacrifié. Jésus était le Sacrifice et Jean le savait; Il savait qu’Il devait être lavé avant
-d’être présenté. Et immédiatement après, Il fut présenté au public pour le jugement et fut le
-Sacrifice pour toute vie humaine. Que le Seigneur vous bénisse.
-22 Maintenant nous allons vous donner un court petit message en croyant que le Seigneur nous
-accordera Ses bénédictions. La semaine prochaine je vais m’en aller dans les montagnes avec les
-enfants pour prendre quelques vacances. Si je reviens à temps, nous parlerons ici dimanche
-prochain, si Dieu le permet et si le pasteur le veut bien. Nous le ferons savoir par lettre dans le
-courant de la semaine à ceux de l’extérieur. Je voudrais parler sur ce sujet: Pourquoi exactement
-croyons-nous les choses que nous croyons au sujet de Christ, pourquoi cela doit-il être ainsi et
-que cela ne peut pas être autrement. Vous voyez? Et nous le prouverons par les Ecritures. Donc si
-le Seigneur le permet. Si ce n’est pas possible, j’essaierai de vous voir cet hiver ou l’été prochain
-quand nous rentrerons, si le Seigneur tarde jusque-là. Nous allons maintenant rentrer en Arizona
-pour ramener les enfants à l’école.
-23 Ce matin, avant de prier pour les malades, nous allons lire un peu de la Parole de Dieu. Nous
-savons que sans cette Parole, c’est impossible, rien ne peut se faire. Et seule la Parole peut
-produire ces bénédictions que nous demandons pour les malades et les nécessiteux. Je veux lire
-
-        http://www.cmpp.ch
-
-IL PREND SOIN. ET VOUS? 5
-un passage dans 1 Pierre au chapitre 5. Nous commencerons au premier verset. Nous lirons
-ensuite dans le Livre des Hébreux. Nous lirons Hébreux 2.2-4.
-     “Voici les exhortations que j’adresse aux anciens qui sont parmi vous, moi, ancien
-     comme eux, témoin des souffrances de Christ, et participant de la gloire qui doit être
-     manifestée: Paissez le troupeau de Dieu qui est sous votre garde, non par contrainte,
-     mais volontairement, selon Dieu: non pour un gain sordide, mais avec dévouement; non
-     comme dominant sur ceux qui vous sont échus en partage, mais en étant les modèles du
-     troupeau. Et lorsque le souverain pasteur paraîtra, vous obtiendrez la couronne
-     incorruptible de la gloire.
-     De même, vous qui êtes jeunes, soyez soumis aux anciens. Et tous, dans vos rapports
-     mutuels, revêtez-vous d’humilité; car Dieu résiste aux orgueilleux, mais il fait grâce aux
-     humbles. Humiliez-vous donc sous la puissante main de Dieu, afin qu’il vous élève au
-     temps convenable; et déchargez-vous sur lui de tous vos soucis, car lui-même prend soin
-     de vous”.
-24 C’est de là que je tirerai le titre de ma prédication: Déchargez-vous sur Lui de tous vos soucis.
-Mon sujet sera: Il prend soin. Et vous? Nous allons maintenant lire dans Hébreux au chapitre 2.1-4
-afin que vous puissiez bien comprendre la signification de ces mots, de ce sujet.
-     “C’est pourquoi nous devons d’autant plus nous attacher aux choses que nous avons
-     entendues, de peur que nous ne soyons emportés loin d’elles. Car si la parole annoncée
-     par des anges a eu son effet, et si toute transgression et toute désobéissance a reçu une
-     juste rétribution, comment échapperons-nous en négligeant un si grand salut qui,
-     annoncé d’abord par le Seigneur, nous a été confirmé par ceux qui l’ont entendu, Dieu
-     appuyant leur témoignage par des signes, des prodiges et divers miracles, et par les
-     dons du Saint-Esprit distribués selon sa volonté?”.
-25 Je voudrais parler sur ce sujet: Il prend soin. Et vous? Quand Il était ici sur terre Il prenait soin
-des gens. Cette pensée m’est venue à l’esprit juste avant de commencer la prière pour les
-malades, ne sachant pas quel genre de ligne de prière nous allions avoir.
-26 Pour commencer et pour s’approcher de cela, l’assemblée doit être ointe de foi. Vous-mêmes
-si vous n’avez pas la foi, il ne sert à rien de venir pour que l’on prie pour vous parce qu’il faut qu’il
-y ait votre foi et ma foi ensemble. Ma foi pour croire en Lui, votre foi pour croire en Lui. C’est
-pourquoi nous n’oublierons pas cela tandis que je parlerai. Nous avons besoin de quelque chose
-d’évident sur quoi fonder notre foi dans ce que nous allons faire. Parce que si un homme veut
-entreprendre ce qu’il désire faire sans une foi suffisante, il ne peut rencontrer qu’un échec. Par
-contre, s’il peut entreprendre quelque chose avec une foi suffisante, il ne peut avoir que du succès
-si c’est conforme à la volonté et au plan de Dieu.
-27 Je pensais à la manière dont Il prend soin de nous. Hier soir, je fus conduit d’une manière
-étrange par le Saint-Esprit. J’attendais quelques personnes qui devaient venir pour aider le frère
-Wood à accrocher à son camion une roulotte qu’il avait construite. Je ne savais pas pourquoi je
-me mis à la recherche de mon cher ami, frère Evans, et je partis sur la route. Ma femme et ma
-famille qui sont assis là-bas au fond savent que c’est vrai. Sans bien comprendre pourquoi je fis
-demi-tour et retournai à un endroit où il y avait un motel.
-28 Et oh, comme cela fit tressaillir mon coeur de joie lorsque je vis se rassembler là des amis en
-si grand nombre qu’au bout de deux minutes au plus tous les passages étaient encombrés de
-voitures au point que personne ne pouvait plus passer. Tous ces gens étaient de vrais amis qui
-avaient roulé des centaines de miles, venant de Géorgie, de Tennessee, de l’Alabama et de
-partout pour assister à la réunion. Alors une pensée me vint à l’esprit: «Que vais-je dire à ces gens
-sachant que le jour du jugement j’aurai à répondre de ce que je leur aurai dit?». Moi aussi j’aime
-cette vie glorieuse qui doit venir et je désire être là.
-29 Assez étrangement, au lieu d’aller là directement, j’ai fait un détour. Mes phares éclairèrent
-deux jeunes femmes qui se tenaient à l’extérieur. Il n’y avait pas longtemps que j’avais célébré leur
-mariage à deux jeunes pasteurs, de braves gens. Mais Satan s’était attaqué à l’un d’eux. Un de
-ces deux pasteurs s’était uni à sa compagne pour la vie ici même à cet autel. Ils étaient partis
-heureux en voyage de noce et c’est là que l’ennemi assaillit ce jeune homme. Si je vous dis tout
-cela c’est pour illustrer mon sujet: «Est-ce qu’Il prend soin de nous?». D’une manière ou d’une
-autre, avec une foi qui ne voulait pas répondre «non» à cette question, ils avaient fait demi-tour et
-étaient revenus ici (ils avaient été jusque dans l’Est du pays), interrompant leur lune de miel. Ils
-
-        http://www.cmpp.ch
-
-IL PREND SOIN. ET VOUS? 6
-étaient assis là et attendaient. En entrant je vis ce brave jeune homme; sa femme était assise
-dehors, toute en pleurs, avec sa compagne. Alors arrivèrent l’autre homme et l’autre frère qui était
-un ami de ce jeune homme et ils me dirent: «Oh, frère Branham, il est arrivé telle ou telle chose».
-30 Je voyais ce brave jeune homme assis là; il était au point culminent de sa vie, c’était un chef
-parmi les jeunes gens, et il était là, assis, et Satan l’avait lié. Il ne remarqua pas que je lui serrai la
-main droite dans ma main gauche pour voir si quelque maladie l’avait frappé. Mais je ne ressentis
-aucun signe de vibration. Je venais de sortir de la pièce après avoir prié et jeûné, m’attendant au
-Seigneur; l’onction du Saint-Esprit était là et c’est pourquoi Elle nous conduisit, vous voyez. Alors
-je vis cette ombre de ténèbres au-dessus de lui. Je ne lui dis pas ce que j’étais en train de faire,
-mais en quelques instants tout fut terminé, le froid de ses mains s’était dissipé et il criait et louait
-Dieu. En quelques minutes il s’était retrouvé. Ils sont ici ce matin, assis dans cette salle. Vous
-voyez comment Satan essaya de renverser ce jeune homme en lui parlant de quelque complexe
-qui allait revenir; mais le Saint-Esprit connaissait cela et je le vis dans une vision que me donna le
-Seigneur. Dieu aimait cet homme. Dieu avait pris soin de ce jeune homme.
-31 Il y a juste quelques instants une dame est entrée (je vois qu’elle a pu trouver une place et
-s’asseoir). Elle m’a dit: «Neuf ans, frère Branham!». Il y a neuf ans que j’essaie de vous atteindre!
-Je suis désespérée! Je suis venue en retard et je n’ai même pas pu obtenir une carte de prière
-pour être dans la ligne!».
-32 Bien sûr, Billy a reçu l’ordre de faire en sorte que je ne sois pas dérangé. Ne lui en voulez
-pas, il a été chargé par le conseil de l’église de faire ce qu’il fait. S’il ne le faisait pas, je ne pourrais
-même pas entrer et m’approcher de la ligne de prière. Vous comprenez bien cela. Il faut bien que
-nous fassions les choses un peu systématiquement. Nous devons faire ainsi. Mais lui me dit:
-«Viens, papa, dépêche-toi!».
-33 La dame revint en arrière et dit: «Frère Branham, juste un mot!». Comme je me tenais là, une
-vision me vint. Je vis une jeune femme de belle apparence; je vis qu’il y avait un fardeau sur son
-coeur. Elle essayait de travailler pour vivre. Une chose importante lui était arrivée du temps où elle
-vivait encore avec ses parents; le Seigneur Jésus me le révéla et me montra de quoi il s’agissait.
-Et à l’instant même Il l’ôta de cette femme. Elle s’en alla dans la joie. Et maintenant elle est assise
-ici dans cette salle, elle se réjouit, ses larmes coulent et elle s’essuie les yeux car elle sait que la
-vérité au sujet de cette chose a été révélée. Cette pauvre femme névrosée qui était si nerveuse
-qu’elle ne savait plus que faire d’elle-même, qui pensait qu’elle était perdue, qu’il n’y avait pas de
-Saint-Esprit et que ce jour était son dernier jour! Elle avait essayé pendant neuf ans et elle avait
-touché le fond du désespoir. Mais Dieu prit soin de cette femme dont personne ne voulait prendre
-soin. Vous voyez? Quel jour glorieux! Dieu prend soin de nous!
-34 Quand Il était ici sur cette terre, comme je l’ai déjà dit, Il aimait tellement les gens qu’Il
-guérissait les malades, réconfortait les coeurs et leur disait qu’Il allait leur préparer une place et
-qu’Il reviendrait pour les recevoir auprès de Lui. Il prenait soin d’eux, Il les aimait tellement que,
-sachant qu’Il allait devoir les quitter pour nous donner cette chose glorieuse, Il dit: “Je ne vous
-laisserai pas sans consolation, mais Je vous enverrai le Saint-Esprit et Il continuera Mes soins
-pour vous”, et ceci jusqu’à Son retour. Personne n’aime et ne prend soin comme Jésus, sachant
-que Son Corps, en tant que Souverain sacrificateur dans l’oeuvre médiatrice qu’Il est en train
-d’accomplir maintenant, que ce Corps doit être dans la Présence de Dieu en tout temps pour faire
-l’intercession, afin que Dieu ne puisse pas voir le péché du pécheur mais qu’Il voie seulement le
-Sang de Son propre Fils. Sachant cela, Il a envoyé le Saint-Esprit pour continuer à réconforter Son
-peuple. Prend-Il soin de nous? Certainement! Or Il allait continuer à prendre soin de Son peuple,
-Son peuple qui est ici sur la terre, de la même manière qu’Il s’occupa d’eux quand Il était ici. Parce
-qu’Il l’a dit dans Jean au chapitre 15. Si vous voulez le noter, c’est dans Jean 15.26,27.
-35 Je vois que vous êtes nombreux à noter les passages de l’Ecriture. Il vaut donc la peine que
-je vous cite les références bibliques si vous ne les connaissez pas. Je note les passages de
-l’Ecriture dont je parle, ainsi je sais d’où viennent ces passages parce que tout vient de la Parole
-de Dieu. Vous comprenez?
-36 Il dit que lorsque serait venu le Saint-Esprit que le Père enverrait en Son Nom, Il lui rendrait
-témoignage. En d’autres termes, Il ferait la même chose que ce qu’Il avait fait alors. Le Saint-Esprit
-viendrait faire Son oeuvre au travers d’un tabernacle sanctifié par Lui et ferait les mêmes oeuvres
-que Lui. Oh, que cela ne devrait-il pas nous faire! C’est pourquoi nous savons qu’au milieu de
-
-        http://www.cmpp.ch
-
-    IL PREND SOIN. ET VOUS?                     7
-nous aujourd’hui nous avons le même Consolateur, le Seigneur Jésus sous la forme du Saint-
-Esprit, une autre fonction dans laquelle Dieu Lui-même agit.
-37 Il était un Consolateur pour Israël quand le peuple pouvait lever les yeux et regarder vers la
-Colonne de feu et entendre le prophète annoncer des paroles de vérité que Dieu confirmait. Il était
-leur Consolateur.
-38 Il était un Consolateur quand Il était ici sur terre en tant qu’homme, Dieu fait chair, Dieu Se
-représentant Lui-même et S’exprimant au travers d’un homme, Jésus-Christ, qui avait fait cette
-promesse: “Les oeuvres que Je fais, vous les ferez aussi. Et Je m’en vais au Père, et Je vous
-enverrai le Saint-Esprit qui sera Moi sous forme d’Esprit. Et Je serai avec vous et Je demeurerai
-en vous. Et les choses mêmes que J’ai faites ici, le Saint-Esprit les fera de nouveau en Mon Nom
-lorsqu’Il viendra”. Vous comprenez? C’est pourquoi Il a dit: “Parler contre cela après que
-l’expiation aura été faite est un péché impardonnable: c’est blasphémer contre le Saint-Esprit”.
-39 Et Il l’a fait de la même manière afin que nous sachions si c’est une consolation donnée d’un
-point de vue terrestre, si c’est une consolation qui vient d’une personne d’âge mûr qui nous
-serrerait dans ses bras et nous donnerait un sentiment de réconfort, si c’est une consolation
-venant par un terme théologique quelconque d’une dénomination qui nous dirait: «Maintenant
-vous appartenez à notre groupe et nous avons la vérité. N’appartenez jamais aux autres, car ils ne
-l’ont pas!».
-40 Vous voyez, Il nous a donné quelque chose de parfaitement sûr: “Il parlera en Mon Nom.
-Lorsqu’Il sera venu, vous ferez aussi les oeuvres que Je fais”. Vous voyez, Il nous consolera de la
-même manière en nous pardonnant tous nos péchés, en guérissant toutes nos maladies et en
-nous parlant de la consolation d’un Royaume à venir. Vous voyez, Il Se confirmera au milieu de
-nous comme Dieu S’est confirmé au milieu de nous par Jésus-Christ. Dans 1 Timothée 3.16 il est
-écrit ceci: “Sans contredit le mystère de la piété est grand: Dieu qui a été manifesté en chair…”.
-Nous avons vu Dieu dans la chair. C’est cela la consolation de Dieu: savoir qu’Il nous aimait tant
-qu’Il S’est abaissé jusqu’à devenir l’un de nous; c’est ainsi qu’Il a pris soin de nous. Ce n’était pas
-simplement une autre personne, mais Dieu Lui-même!
-41 Et pour S’approcher d’un pas encore, Il envoie le Saint-Esprit pour veiller à ce que nous
-soyons consolés, et Il demeure EN nous. Oh, comme Il prend soin de nous!
-42 Maintenant, pour étayer cela, nous devons encore voir un autre passage de l’Ecriture, une
-autre pensée. Avant d’aller plus loin je devrais dire ceci: tous n’ont pas ce Consolateur. Il y en a
-qui ne L’ont pas. La raison pour laquelle ils ne L’ont pas est qu’ils ne L’acceptent pas. Il est pour
-eux, mais ils ne L’acceptent pas. J’espère que vous êtes assez spirituels pour comprendre ce que
-je vous dis. Vous voyez? Je suis en train de parler à un groupe de gens pour qui nous devrons
-prier dans quelques minutes. Et nous avons cette consolation dans le Saint-Esprit qui a envoyé le
-Consolateur, mais tous ne veulent pas Le recevoir. Ils n’y croient pas. Vous comprenez? Pour leur
-consolation ils ont d’autres ressources, d’autres moyens. S’ils n’acceptent pas le Consolateur
-fourni par Dieu il faut qu’ils aient alors quelque autre consolateur: vous ne pouvez en effet vivre
-sans quelque chose pour quoi vous vivez.
-43 J’espère que chacun de vous comprend cela, particulièrement vous les malades pour qui
-nous allons bientôt prier, vous qui êtes dans une situation si inconfortable ce matin et dont
-quelques-uns peut-être souffrent de maladies pour lesquelles les médecins ne peuvent rien faire.
-44 Nous croyons que les médecins aident les gens. Je crois que Dieu guérit au moyen de la
-médecine. Que Dieu guérit par la chirurgie. Dieu guérit par la compréhension. Dieu guérit par
-l’amour. Juste un tout petit peu d’amour peut faire beaucoup. Si quelqu’un est tout sens
-dessus-dessous, montrez-lui simplement que vous vous souciez de lui. Vous voyez? Dieu guérit
-par l’amour. Dieu guérit par la prière. Dieu guérit par les miracles. Dieu guérit par Sa Parole. Dieu
-guérit! Quelle que soit la source à laquelle vous puisez, Dieu guérit par elle. C’est Dieu qui guérit
-car Il a dit: “Je suis le Seigneur qui guérit toutes tes maladies”. C’est pourquoi tous devraient agir
-ensemble; les hommes dans les différents ministères devraient travailler ensemble à cela. Vous
-comprenez? Mais ils ne le font pas parce que quelquefois il leur est interdit de prendre certaines
-positions sur la Parole de Dieu; en effet certaines dénominations ne leur permettent pas de faire
-cela. Mais de toute façon cela n’arrête pas la vérité et Dieu continue à guérir pareillement.
-45 Ils essaient donc de tirer leur consolation d’autres sources. Parlons de l’âme pour
-commencer.
-
-                               http://www.cmpp.ch
+http://www.cmpp.ch
 
 IL PREND SOIN. ET VOUS? 8
-46 Nous savons que bien des gens cherchent une consolation dans la boisson. Il y a un fait bien
-connu aujourd’hui, c’est que de nombreux prédicateurs boivent quelquefois avant de monter en
-chaire. Ils boivent une bonne quantité d’alcool qui les enivre. On a vu des prédicateurs monter en
-chaire en titubant sous l’influence de l’alcool. Cela ne devrait pas se passer. Cela ne devrait pas
-exister. Cela vient de ce que nous condamnons souvent l’homme au lieu de chercher ce qui le
-tourmente. Beaucoup d’entre eux sont des alcooliques convertis. S’ils se conduisent ainsi, c’est
-une honte et un opprobre. Mais pas plus que s’ils mentaient, volaient, convoitaient les femmes ou
-quoi que ce soit d’autre qui est condamné dans le commandement. Vous comprenez? Si un
-homme naît avec beaucoup de tempérament, lorsqu’il voit toutes ces strip-teaseuses dans la rue,
-cela le trouble continuellement. Comprenez-vous cela? L’homme, lui, est né ainsi. Ce qu’il devrait
-faire, le prédicateur qui boit, ce qu’elle devrait faire, la femme qui fume ou qui…
-47 Elle s’habille immoralement, essayant de tirer une consolation du fait qu’elle est si bien faite;
-elle essaie de faire en sorte que les hommes la regardent. Il n’y a pas d’autre raison. Elle est
-partiellement aliénée. Aucune femme normale ne voudrait se déshabiller devant un homme si elle
-est dans son bon sens. Vous comprenez? Elle n’aurait aucune raison de le faire. Mais ces toutes
-jeunes filles qui se promènent dans la rue aujourd’hui, ce qu’elles essaient de faire… ce sont de
-vraies… pardonnez-moi l’expression. Et rappelez-vous que cette bande n’est pas seulement pour
-les gens d’ici mais qu’elle va aller dans le monde entier. Vous comprenez?
-48 Une femme se dévêt parce qu’elle pense qu’il fait trop chaud. Elle sort nue au soleil puis elle
-sort en ville vêtue. Lequel des deux est le plus frais? Chez les Indiens Papagos et Navajos,
-spécialement chez les Papagos, là-bas dans les réserves, leurs femmes se couvrent de grandes
-couvertures tissées et s’asseyent au soleil pour se rafraîchir. Pourquoi font-elles cela? Elles
-transpirent et le vent en soufflant leur fait un conditionnement d’air, vous comprenez. Mais pour ce
-qui est de nos femmes blanches, elles n’ont pas d’autre raison que… elles ne le voient pas, elles
-ne s’en rendent pas compte. Je ne dis pas qu’elles s’en rendent compte! Beaucoup d’entre elles
-sont de très braves femmes et je ne dis pas ces choses pour être dur avec elles. Je le fais pour
-essayer de les réveiller, vous comprenez?
-49 Tout cela ne vient que de Satan, vous voyez. Tout cela a une telle influence sur l’autre sexe,
-sur les hommes, que cela leur fait donner de grands coups de frein bruyants et émettre de longs
-sifflements admiratifs. Pourquoi font-ils cela? Les femmes font tout ce qu’il faut pour les faire se
-comporter ainsi. Pourquoi sortez-vous à quatre heures de l’après-midi en pleine chaleur pour
-tondre votre gazon, à l’heure même où les hommes rentrent du travail? Cela démontre un esprit
-d’insanité! J’en connais qui ont un quotient intellectuel infiniment supérieur au mien, mais moi,
-c’est avec la Parole de Dieu que je mesure votre quotient intellectuel pour voir ce qu’il donne.
-Vous comprenez? Ce quotient intellectuel est quelque chose de moderne, mais ce qui compte, ce
-sont le témoignage et les fruits de la vie. Mais voilà pourquoi elles essaient de trouver une
-consolation.
-50 Beaucoup diront: «Oh, moi je ne fais pas cela!». Mais vous vous habillez de manière à être
-plus à la mode que la femme qui s’assiéra à côté de vous dimanche prochain, vous tâcherez de
-porter un plus beau chapeau ou des vêtements un peu mieux qu’elle parce que vous, vous en
-avez les moyens. Vous comprenez? Vous voyez, le péché descend jusque là. Elles essaient de
-trouver une consolation en faisant ainsi.
-51 Les choses en sont arrivées à un point tel que toute notre nation est touchée par cet état
-d’esprit et non seulement notre nation, mais le monde entier. Je pourrais dire encore bien des
-choses, mais à cause du service de guérison nous devons gagner du temps. Je pourrais parler
-longuement là-dessus, mais je ne le ferai pas. Je suis sûr que vous comprenez ce que je veux
-dire. Cet esprit a frappé le monde politique, la vie politique, la vie sociale et la vie morale de tout le
-pays et de tous les peuples de la terre. Cela est arrivé à un point tel qu’un homme ne veut plus
-être politicien que pour avoir le titre d’être un politicien. Avec l’argent qu’ils ont ils peuvent attirer
-les votes, louer des machines, etc. et dépenser des millions de dollars juste pour avoir le nom
-d’être un grand politicien. On a dit assez de choses là-dessus et vous savez de quoi je parle.
-52 Et pour ce qui est de la vie sociale! Les gens essaient de se rassembler dans cette vie sociale
-démente. N’allez pas me dire que le monde n’est pas fou de faire les choses comme il les fait!
-C’est certain. C’est un monde névrosé. Et la grâce de Dieu est le seul moyen pour nous d’y
-échapper. Remarquez que dans la vie sociale les gens en sont arrivés à se grouper par petits
-clans où chacun dit: «Notre groupe est mieux que l’autre!». Vous voyez? C’est ainsi que cela se
 
-        http://www.cmpp.ch
+46 Nous savons que bien des gens cherchent une consolation dans la boisson. Il y a un fait bien connu aujourd’hui, c’est que de nombreux prédicateurs boivent quelquefois avant de monter en chaire. Ils boivent une bonne quantité d’alcool qui les enivre. On a vu des prédicateurs monter en chaire en titubant sous l’influence de l’alcool. Cela ne devrait pas se passer. Cela ne devrait pas exister. Cela vient de ce que nous condamnons souvent l’homme au lieu de chercher ce qui le tourmente. Beaucoup d’entre eux sont des alcooliques convertis. S’ils se conduisent ainsi, c’est une honte et un opprobre. Mais pas plus que s’ils mentaient, volaient, convoitaient les femmes ou quoi que ce soit d’autre qui est condamné dans le commandement. Vous comprenez? Si un homme naît avec beaucoup de tempérament, lorsqu’il voit toutes ces strip-teaseuses dans la rue, cela le trouble continuellement. Comprenez-vous cela? L’homme, lui, est né ainsi. Ce qu’il devrait faire, le prédicateur qui boit, ce qu’elle devrait faire, la femme qui fume ou qui…
+47 Elle s’habille immoralement, essayant de tirer une consolation du fait qu’elle est si bien faite; elle essaie de faire en sorte que les hommes la regardent. Il n’y a pas d’autre raison. Elle est partiellement aliénée. Aucune femme normale ne voudrait se déshabiller devant un homme si elle est dans son bon sens. Vous comprenez? Elle n’aurait aucune raison de le faire. Mais ces toutes jeunes filles qui se promènent dans la rue aujourd’hui, ce qu’elles essaient de faire… ce sont de vraies… pardonnez-moi l’expression. Et rappelez-vous que cette bande n’est pas seulement pour les gens d’ici mais qu’elle va aller dans le monde entier. Vous comprenez?
+48 Une femme se dévêt parce qu’elle pense qu’il fait trop chaud. Elle sort nue au soleil puis elle sort en ville vêtue. Lequel des deux est le plus frais? Chez les Indiens Papagos et Navajos, spécialement chez les Papagos, là-bas dans les réserves, leurs femmes se couvrent de grandes couvertures tissées et s’asseyent au soleil pour se rafraîchir. Pourquoi font-elles cela? Elles transpirent et le vent en soufflant leur fait un conditionnement d’air, vous comprenez. Mais pour ce qui est de nos femmes blanches, elles n’ont pas d’autre raison que… elles ne le voient pas, elles ne s’en rendent pas compte. Je ne dis pas qu’elles s’en rendent compte! Beaucoup d’entre elles sont de très braves femmes et je ne dis pas ces choses pour être dur avec elles. Je le fais pour essayer de les réveiller, vous comprenez?
+49 Tout cela ne vient que de Satan, vous voyez. Tout cela a une telle influence sur l’autre sexe, sur les hommes, que cela leur fait donner de grands coups de frein bruyants et émettre de longs sifflements admiratifs. Pourquoi font-ils cela? Les femmes font tout ce qu’il faut pour les faire se comporter ainsi. Pourquoi sortez-vous à quatre heures de l’après-midi en pleine chaleur pour tondre votre gazon, à l’heure même où les hommes rentrent du travail? Cela démontre un esprit d’insanité! J’en connais qui ont un quotient intellectuel infiniment supérieur au mien, mais moi, c’est avec la Parole de Dieu que je mesure votre quotient intellectuel pour voir ce qu’il donne. Vous comprenez? Ce quotient intellectuel est quelque chose de moderne, mais ce qui compte, ce sont le témoignage et les fruits de la vie. Mais voilà pourquoi elles essaient de trouver une consolation.
+50 Beaucoup diront: «Oh, moi je ne fais pas cela!». Mais vous vous habillez de manière à être plus à la mode que la femme qui s’assiéra à côté de vous dimanche prochain, vous tâcherez de porter un plus beau chapeau ou des vêtements un peu mieux qu’elle parce que vous, vous en avez les moyens. Vous comprenez? Vous voyez, le péché descend jusque là. Elles essaient de trouver une consolation en faisant ainsi.
+51 Les choses en sont arrivées à un point tel que toute notre nation est touchée par cet état d’esprit et non seulement notre nation, mais le monde entier. Je pourrais dire encore bien des choses, mais à cause du service de guérison nous devons gagner du temps. Je pourrais parler longuement là-dessus, mais je ne le ferai pas. Je suis sûr que vous comprenez ce que je veux dire. Cet esprit a frappé le monde politique, la vie politique, la vie sociale et la vie morale de tout le pays et de tous les peuples de la terre. Cela est arrivé à un point tel qu’un homme ne veut plus être politicien que pour avoir le titre d’être un politicien. Avec l’argent qu’ils ont ils peuvent attirer les votes, louer des machines, etc. et dépenser des millions de dollars juste pour avoir le nom d’être un grand politicien. On a dit assez de choses là-dessus et vous savez de quoi je parle.
+52 Et pour ce qui est de la vie sociale! Les gens essaient de se rassembler dans cette vie sociale démente. N’allez pas me dire que le monde n’est pas fou de faire les choses comme il les fait! C’est certain. C’est un monde névrosé. Et la grâce de Dieu est le seul moyen pour nous d’y échapper. Remarquez que dans la vie sociale les gens en sont arrivés à se grouper par petits clans où chacun dit: «Notre groupe est mieux que l’autre!». Vous voyez? C’est ainsi que cela se passe. Et cela a atteint la moralité du peuple à un point tel que, mes amis, je ne crois pas que dans le monde le sens du mot «moralité» soit aujourd’hui connu de plus de dix pour cent de la population. Le monde ne sait même pas ce que signifie le terme «moralité». Il en a perdu le sens: il y a eu une telle tromperie dans la morale!
+53 Satan est très subtil, vous savez. Il rend les choses si aisées, si subtiles, un petit peu ici, un petit peu là, et il laisse les choses suivre leur cours. Il a tout le temps! Alors il pousse un petit peu ici et un petit peu là et petit à petit les gens entrent dans ces choses. Lorsque j’étais un garçon de seize ans, que serait-il arrivé à une femme qui se serait promenée dans la rue en faisant son strip-tease comme elles le font aujourd’hui? On l’aurait mise en prison! Si c’était mal autrefois, c’est encore mal aujourd’hui. Vous comprenez? Mais vous voyez, Satan a juste commencé par raccourcir les jupes un petit peu, puis il a abaissé le haut un petit peu jusqu’à ce que quelqu’un finisse par créer quelque chose qui aille encore plus loin que le bikini et revienne à la simple feuille de figuier. Souvenez-vous bien de cela! C’est vrai, cela reviendra comme au commencement. D’ailleurs nous y sommes pratiquement maintenant.
+54 Et nous voyons que toutes ces choses arrivent parce que les gens cherchent une consolation. Ils essaient de trouver quelque chose qui les… Rappelez-vous que votre consolation, c’est elle qui est votre religion, et que vous faites de ces choses votre religion. Vous comprenez? Quel dommage quand vous réalisez que la mort est juste devant vous, vous voyez? Cela est arrivé au point qu’il semble qu’il ne reste plus à ce peuple le moindre fondement solide sur lequel bâtir quoi que ce soit.
+55 Permettez-moi de vous demander quelque chose. On ne peut pratiquement rien croire d’autre que la Bible. Nous avons toujours Christ, que Dieu en soit loué! Vous comprenez? On ne peut pas croire n’importe quoi. Quand vous allumez votre télévision (ceux qui en ont une) et que vous voyez la publicité, eh bien, si quelqu’un essayait d’appliquer ne serait-ce qu’un centième de ce qu’ils disent, il mourrait dans la semaine! On ne pourrait pas faire cela. Un certain fabricant vante un certain produit et dit: «Achetez celui-ci et pas celui-là!». Mais c’est la même maison qui le fabrique… et dans une autre émission on entend l’inverse! Et tout le peuple américain tombe dans le piège, et cela à un point tel que tout est pourri et qu’il n’y a plus aucun espoir. Plus personne ne sait plus ce qu’il faut croire. Mais dans quelques instants, si vous désirez une consolation et si le Seigneur le permet, je vous dirai où la trouver.
+56 Les gens mentent, trichent, volent au point que vous êtes presque obligé de donner une caution pour emprunter cinq dollars à quelqu’un. Vous savez, la Bible dit que dans les derniers temps il n’y aurait plus d’amour, si ce n’est parmi le peuple élu. C’est vrai. L’Ecriture en parle, disant que le mari se dresserait contre sa femme et la femme contre son mari, que les enfants se dresseraient contre leurs parents, etc. Il ne restera plus d’amour que parmi les élus du Seigneur.
+57 Les églises ont suivi la même voie: elles l’ont empruntée à la vie sociale. Elles ont introduit dans l’église leur vie sociale, leur politique et tout le reste jusqu’à ce qu’il y ait une telle confusion dans l’église qu’elle ne sait plus que faire. Ils ont introduit la politique dans l’église. Ils ont introduit leur vie sociale dans l’église, leurs activités sociales, lotos et autres, leurs soupers et leurs danses et tout le reste, tout cela dans la maison du Seigneur. C’est une pitié! Ils vous répondront: «Nous ne le faisons pas dans l’église, mais dans L’ANNEXE!».
+58 Rappelez-vous que c’est aussi dans l’annexe que Jésus frappa les marchands et les chassa avec leur marchandise en leur disant: “Il est écrit: Ma maison sera une maison de prière, mais vous, vous en avez fait une caverne de voleurs!”. Vous comprenez? C’est mal, et peu importe qui le fait! L’église n’est pas tellement la salle mais plutôt les gens qui sont dans la salle. Et si ces gens se réjouissent dans ces pratiques, c’est mal. Mais ce sont eux qui les ont introduites.
+59 Nous voyons que les églises aussi promettent toujours quelque chose comme le fait la télévision, mais elles ne tiennent jamais ce qu’elles ont promis. J’ai souvent cité ce vieux dicton: «L’homme est toujours en train de louer Dieu pour ce qu’Il a fait, de louer Dieu pour ce qu’Il fera (se réjouissant de ce qu’Il va faire), mais il méconnaît ce qu’Il est en train de faire». Vous voyez, ils passent à côté. C’est ainsi qu’ils entrent bientôt dans l’histoire comme des gens souillés parce qu’ils ont manqué de reconnaître le moment présent. Vous pouvez parler de la consolation que Christ donna autrefois et de celle qu’Il donnera dans les âges à venir, mais refuser la consolation qu’Il a préparée pour vous ici maintenant. Vous comprenez? Et c’est sur cette même base que nous avons découvert ces choses qui sont devenues quelque chose de glorieux.
 
-IL PREND SOIN. ET VOUS? 9
-passe. Et cela a atteint la moralité du peuple à un point tel que, mes amis, je ne crois pas que
-dans le monde le sens du mot «moralité» soit aujourd’hui connu de plus de dix pour cent de la
-population. Le monde ne sait même pas ce que signifie le terme «moralité». Il en a perdu le sens:
-il y a eu une telle tromperie dans la morale!
-53 Satan est très subtil, vous savez. Il rend les choses si aisées, si subtiles, un petit peu ici, un
-petit peu là, et il laisse les choses suivre leur cours. Il a tout le temps! Alors il pousse un petit peu
-ici et un petit peu là et petit à petit les gens entrent dans ces choses. Lorsque j’étais un garçon de
-seize ans, que serait-il arrivé à une femme qui se serait promenée dans la rue en faisant son
-strip-tease comme elles le font aujourd’hui? On l’aurait mise en prison! Si c’était mal autrefois,
-c’est encore mal aujourd’hui. Vous comprenez? Mais vous voyez, Satan a juste commencé par
-raccourcir les jupes un petit peu, puis il a abaissé le haut un petit peu jusqu’à ce que quelqu’un
-finisse par créer quelque chose qui aille encore plus loin que le bikini et revienne à la simple feuille
-de figuier. Souvenez-vous bien de cela! C’est vrai, cela reviendra comme au commencement.
-D’ailleurs nous y sommes pratiquement maintenant.
-54 Et nous voyons que toutes ces choses arrivent parce que les gens cherchent une consolation.
-Ils essaient de trouver quelque chose qui les… Rappelez-vous que votre consolation, c’est elle qui
-est votre religion, et que vous faites de ces choses votre religion. Vous comprenez? Quel
-dommage quand vous réalisez que la mort est juste devant vous, vous voyez? Cela est arrivé au
-point qu’il semble qu’il ne reste plus à ce peuple le moindre fondement solide sur lequel bâtir quoi
-que ce soit.
-55 Permettez-moi de vous demander quelque chose. On ne peut pratiquement rien croire d’autre
-que la Bible. Nous avons toujours Christ, que Dieu en soit loué! Vous comprenez? On ne peut pas
-croire n’importe quoi. Quand vous allumez votre télévision (ceux qui en ont une) et que vous voyez
-la publicité, eh bien, si quelqu’un essayait d’appliquer ne serait-ce qu’un centième de ce qu’ils
-disent, il mourrait dans la semaine! On ne pourrait pas faire cela. Un certain fabricant vante un
-certain produit et dit: «Achetez celui-ci et pas celui-là!». Mais c’est la même maison qui le
-fabrique… et dans une autre émission on entend l’inverse! Et tout le peuple américain tombe dans
-le piège, et cela à un point tel que tout est pourri et qu’il n’y a plus aucun espoir. Plus personne ne
-sait plus ce qu’il faut croire. Mais dans quelques instants, si vous désirez une consolation et si le
-Seigneur le permet, je vous dirai où la trouver.
-56 Les gens mentent, trichent, volent au point que vous êtes presque obligé de donner une
-caution pour emprunter cinq dollars à quelqu’un. Vous savez, la Bible dit que dans les derniers
-temps il n’y aurait plus d’amour, si ce n’est parmi le peuple élu. C’est vrai. L’Ecriture en parle,
-disant que le mari se dresserait contre sa femme et la femme contre son mari, que les enfants se
-dresseraient contre leurs parents, etc. Il ne restera plus d’amour que parmi les élus du
-Seigneur.
-57 Les églises ont suivi la même voie: elles l’ont empruntée à la vie sociale. Elles ont introduit
-dans l’église leur vie sociale, leur politique et tout le reste jusqu’à ce qu’il y ait une telle confusion
-dans l’église qu’elle ne sait plus que faire. Ils ont introduit la politique dans l’église. Ils ont introduit
-leur vie sociale dans l’église, leurs activités sociales, lotos et autres, leurs soupers et leurs danses
-et tout le reste, tout cela dans la maison du Seigneur. C’est une pitié! Ils vous répondront: «Nous
-ne le faisons pas dans l’église, mais dans L’ANNEXE!».
-58 Rappelez-vous que c’est aussi dans l’annexe que Jésus frappa les marchands et les chassa
-avec leur marchandise en leur disant: “Il est écrit: Ma maison sera une maison de prière, mais
-vous, vous en avez fait une caverne de voleurs!”. Vous comprenez? C’est mal, et peu importe qui
-le fait! L’église n’est pas tellement la salle mais plutôt les gens qui sont dans la salle. Et si ces
-gens se réjouissent dans ces pratiques, c’est mal. Mais ce sont eux qui les ont introduites.
-59 Nous voyons que les églises aussi promettent toujours quelque chose comme le fait la
-télévision, mais elles ne tiennent jamais ce qu’elles ont promis. J’ai souvent cité ce vieux dicton:
-«L’homme est toujours en train de louer Dieu pour ce qu’Il a fait, de louer Dieu pour ce qu’Il fera
-(se réjouissant de ce qu’Il va faire), mais il méconnaît ce qu’Il est en train de faire». Vous voyez, ils
-passent à côté. C’est ainsi qu’ils entrent bientôt dans l’histoire comme des gens souillés parce
-qu’ils ont manqué de reconnaître le moment présent. Vous pouvez parler de la consolation que
-Christ donna autrefois et de celle qu’Il donnera dans les âges à venir, mais refuser la
-consolation qu’Il a préparée pour vous ici maintenant. Vous comprenez? Et c’est sur cette
-même base que nous avons découvert ces choses qui sont devenues quelque chose de glorieux.
+http://www.cmpp.ch
 
-        http://www.cmpp.ch
+IL PREND SOIN. ET VOUS? 10
 
-    IL PREND SOIN. ET VOUS?    10
-60 Et cela a été jusque dans les églises de Pentecôte. Cela est devenu le domaine de la
-Pentecôte: ils sont toujours en train de promettre quelque chose à quoi ils ne peuvent jamais
-parvenir. Chacun a des sensations différentes et juge si c’est scripturaire ou non, et ils promettent
-des choses qu’ils ne peuvent jamais tenir; cela va jusqu’au point où il semble qu’il n’y ait plus la
-moindre sincérité. Les gens ne peuvent pas aller jusqu’au fond de la sincérité. Le mot sincérité
-lui-même a perdu sa valeur pour les gens. Ou plutôt ce sont les gens qui, par leur manière de
-vivre, lui ont fait perdre son sens. Mais ils ne semblent pas le comprendre.
-61 Cela se retrouve jusqu’à notre confession! Maintenant je voudrais que tous, que vous soyez
-ici ou que vous écoutiez l’enregistrement, vous écoutiez très attentivement ce que je vais dire.
-62 A moins que vous ne soyez profondément sincère (et vous ne pouvez pas être sincère à
-moins de comprendre parfaitement), si vous présumez, supposez ou espérez il ne peut y avoir la
-profondeur de sincérité que Dieu requiert. La foi n’est pas un «j’espère que» ou un «peut-être que
-c’est juste». Cela doit être un «amen!» absolu. C’est votre absolu. C’est la chose à laquelle vous
-êtes lié. Vous comprenez? Vous devez arriver jusqu’à votre absolu qui vous dit que «c’est la vérité
-et rien que la vérité et il faut qu’il en soit ainsi». Et quand vous réalisez cela dans votre pensée,
-vous devez vous en approcher de toute votre vie, de toute votre âme, de tout votre corps, de tout
-ce qui est en vous et tout vendre pour cela. Jésus dans Sa grâce nous a parlé de l’homme qui
-avait trouvé une perle d’un grand prix et qui vendit tout le reste pour l’obtenir. Toutes les vérités et
-tout ce qu’il avait, bien que ce fussent de bonnes perles… mais celle-là était tout pour lui. Et quand
-vous découvrez l’Absolu de Dieu, Sa Parole qui vous fait une promesse pour quelque chose, vous
-devez savoir premièrement que c’est la Parole de Dieu et que la chose que vous voyez en train de
-se faire vient de Dieu. Il n’y a pas de «peut-être que… il est possible que… il semble que cela
-pourrait bien être…». Non: «C’est Dieu!». Alors quand vous en arrivez à ce point, quand vous
-voyez qu’il y a là la Perle d’un grand prix, vous devez vous séparer de tout ce que l’on vous dira de
-contraire à Cela. Vous ne devez pas regarder à ce que l’homme a accompli. Vous devez regarder
-à ce que Dieu a dit et à ce qu’Il a promis et Le voir l’accomplir: voilà votre absolu. Et tout ce que
-vous êtes, tout ce que vous avez été, tout ce que vous espérez être, tout cela doit être placé sur
-cette Chose comme s’il s’agissait pour vous d’une question de vie ou de mort à cet instant même.
-63 Je crois que ce qui empêche les gens d’être guéris, c’est un manque de confession, un
-manque de confession sincère. Je vais vous donner un exemple qui vous semblera peut-être un
-peu mauvais, mais je ne voudrais quand même pas que ce soit le cas. Si j’allais vers une autre
-femme, que je la prenne dans mes bras et que je me mette à lui conter fleurette, je saurais après
-cela que j’aurais fait quelque chose de mal, de très mal. Bien sûr, mon Consolateur me gardera de
-faire une chose pareille, vous comprenez? Mais je fais une hypothèse, disant: si je faisais cela ou
-quelque chose de semblable, je sais que la première chose à faire serait de le confesser à ma
-femme, avant même de le confesser à Dieu en disant: «Pardonne-moi!». Parce que c’est contre
-elle que j’ai péché. Si vous venez à l’autel et que vous vous souvenez qu’il y a quelque chose,
-mettez cela en ordre avant de faire votre offrande. C’est pourquoi je devrais d’abord aller vers ma
-femme. Je crois que la confession c’est mettre les choses au point. Autrement ce n’est pas une
-vraie confession.
-64 Que diriez-vous si je disais: «Je vais confesser que j’ai fait le mal. Je dirai: Bon Seigneur,
-ô mon meilleur Ami, Tu sais que je Te connais très bien. Dieu soit loué! Alléluia! Je pense que Tu
-es un bien brave Ami. Pardonne-moi! Tu sais, mon cher vieil Ami, je ne voulais pas faire cela!».
-Vous voyez?
-65 Vous diriez: «C’est un langage sacrilège!». C’est vrai! Faire une telle confession serait un
-sacrilège.
-66 Et si je disais: «Seigneur, je n’avais pas l’intention de faire cela, aide-moi et je ne le ferai
-plus». Il refuserait mon sacrifice jusqu’à ce que j’aie mis les choses en ordre avec ma femme.
-67 Et si j’allais vers ma femme avec le même manque d’égards et que je lui dise: «Ma chère
-petite femme, mère de mes enfants, nous sommes de vieux amis. Que dirais-tu si je prenais une
-autre femme dans mes bras? Qu’est-ce que tu penserais de cela? Est-ce que tu me
-pardonnerais?».
-68 Je peux m’imaginer son attitude! Elle penserait: «Qu’est-il arrivé à mon mari?». Vous
-comprenez? Elle commencerait par se demander si je plaisante.
-69 Ce n’est pas ainsi que l’on va se confesser à son frère ou à Dieu. On y va avec une profonde
-sincérité, avec la sainte affliction que nous cause notre péché. Il faut pour commencer que vous
-
-        http://www.cmpp.ch
+60 Et cela a été jusque dans les églises de Pentecôte. Cela est devenu le domaine de la Pentecôte: ils sont toujours en train de promettre quelque chose à quoi ils ne peuvent jamais parvenir. Chacun a des sensations différentes et juge si c’est scripturaire ou non, et ils promettent des choses qu’ils ne peuvent jamais tenir; cela va jusqu’au point où il semble qu’il n’y ait plus la moindre sincérité. Les gens ne peuvent pas aller jusqu’au fond de la sincérité. Le mot sincérité lui-même a perdu sa valeur pour les gens. Ou plutôt ce sont les gens qui, par leur manière de vivre, lui ont fait perdre son sens. Mais ils ne semblent pas le comprendre.
+61 Cela se retrouve jusqu’à notre confession! Maintenant je voudrais que tous, que vous soyez ici ou que vous écoutiez l’enregistrement, vous écoutiez très attentivement ce que je vais dire.
+62 A moins que vous ne soyez profondément sincère (et vous ne pouvez pas être sincère à moins de comprendre parfaitement), si vous présumez, supposez ou espérez il ne peut y avoir la profondeur de sincérité que Dieu requiert. La foi n’est pas un «j’espère que» ou un «peut-être que c’est juste». Cela doit être un «amen!» absolu. C’est votre absolu. C’est la chose à laquelle vous êtes lié. Vous comprenez? Vous devez arriver jusqu’à votre absolu qui vous dit que «c’est la vérité et rien que la vérité et il faut qu’il en soit ainsi». Et quand vous réalisez cela dans votre pensée, vous devez vous en approcher de toute votre vie, de toute votre âme, de tout votre corps, de tout ce qui est en vous et tout vendre pour cela. Jésus dans Sa grâce nous a parlé de l’homme qui avait trouvé une perle d’un grand prix et qui vendit tout le reste pour l’obtenir. Toutes les vérités et tout ce qu’il avait, bien que ce fussent de bonnes perles… mais celle-là était tout pour lui. Et quand vous découvrez l’Absolu de Dieu, Sa Parole qui vous fait une promesse pour quelque chose, vous devez savoir premièrement que c’est la Parole de Dieu et que la chose que vous voyez en train de se faire vient de Dieu. Il n’y a pas de «peut-être que… il est possible que… il semble que cela pourrait bien être…». Non: «C’est Dieu!». Alors quand vous en arrivez à ce point, quand vous voyez qu’il y a là la Perle d’un grand prix, vous devez vous séparer de tout ce que l’on vous dira de contraire à Cela. Vous ne devez pas regarder à ce que l’homme a accompli. Vous devez regarder à ce que Dieu a dit et à ce qu’Il a promis et Le voir l’accomplir: voilà votre absolu. Et tout ce que vous êtes, tout ce que vous avez été, tout ce que vous espérez être, tout cela doit être placé sur cette Chose comme s’il s’agissait pour vous d’une question de vie ou de mort à cet instant même.
+63 Je crois que ce qui empêche les gens d’être guéris, c’est un manque de confession, un manque de confession sincère. Je vais vous donner un exemple qui vous semblera peut-être un peu mauvais, mais je ne voudrais quand même pas que ce soit le cas. Si j’allais vers une autre femme, que je la prenne dans mes bras et que je me mette à lui conter fleurette, je saurais après cela que j’aurais fait quelque chose de mal, de très mal. Bien sûr, mon Consolateur me gardera de faire une chose pareille, vous comprenez? Mais je fais une hypothèse, disant: si je faisais cela ou quelque chose de semblable, je sais que la première chose à faire serait de le confesser à ma femme, avant même de le confesser à Dieu en disant: «Pardonne-moi!». Parce que c’est contre elle que j’ai péché. Si vous venez à l’autel et que vous vous souvenez qu’il y a quelque chose, mettez cela en ordre avant de faire votre offrande. C’est pourquoi je devrais d’abord aller vers ma femme. Je crois que la confession c’est mettre les choses au point. Autrement ce n’est pas une vraie confession.
+64 Que diriez-vous si je disais: «Je vais confesser que j’ai fait le mal. Je dirai: Bon Seigneur, ô mon meilleur Ami, Tu sais que je Te connais très bien. Dieu soit loué! Alléluia! Je pense que Tu es un bien brave Ami. Pardonne-moi! Tu sais, mon cher vieil Ami, je ne voulais pas faire cela!». Vous voyez?
+65 Vous diriez: «C’est un langage sacrilège!». C’est vrai! Faire une telle confession serait un sacrilège.
+66 Et si je disais: «Seigneur, je n’avais pas l’intention de faire cela, aide-moi et je ne le ferai plus». Il refuserait mon sacrifice jusqu’à ce que j’aie mis les choses en ordre avec ma femme.
+67 Et si j’allais vers ma femme avec le même manque d’égards et que je lui dise: «Ma chère petite femme, mère de mes enfants, nous sommes de vieux amis. Que dirais-tu si je prenais une autre femme dans mes bras? Qu’est-ce que tu penserais de cela? Est-ce que tu me pardonnerais?».
+68 Je peux m’imaginer son attitude! Elle penserait: «Qu’est-il arrivé à mon mari?». Vous comprenez? Elle commencerait par se demander si je plaisante.
+69 Ce n’est pas ainsi que l’on va se confesser à son frère ou à Dieu. On y va avec une profonde sincérité, avec la sainte affliction que nous cause notre péché. Il faut pour commencer que vous
 
 IL PREND SOIN. ET VOUS? 11
 soyez vraiment affligé. Je dois aller lui parler et lui dire: «Ma chérie, écoute-moi; ce que je vais te
@@ -701,7 +307,7 @@ Votre vie doit être purifiée, vous devez remplir les conditions, vous devez r�
 «Oui, je crois!». Et cela doit venir de votre coeur. Alors personne n’aura besoin de vous traiter
 comme un bébé et vous dire: «Cher frère, chère soeur, vous devriez faire ceci, vous devriez faire
 cela!». Vous êtes un croyant et personne ne peut ôter cela de vous. Peu vous importe ce que
-diront les gens et les consolations qu’ils vous donneront, peu importe ce que dira le médecin,
+ diront les gens et les consolations qu’ils vous donneront, peu importe ce que dira le médecin,
 l’hôpital, le diagnostic: ce n’est pas cela que vous croirez. Vous connaissez la Parole! Il n’y a pas
 besoin de vous dire quoi que ce soit parce que vous La connaissez. C’est cela la réalité.
 87 Il y a tellement d’imitations de toutes choses! Il faut d’ailleurs qu’il en soit ainsi. Que cela ne
@@ -741,7 +347,7 @@ le prouvait scientifiquement! Vous voyez? Est-ce que vous pensez que la science 
 IL PREND SOIN. ET VOUS? 14
 93 Pensons à ceci maintenant: nous aimerions tous dire: «J’aimerais pouvoir prouver cela
 scientifiquement!». C’est ce qu’un grand nombre de dénominations et de gens religieux disent
-aujourd’hui. Ils veulent une preuve scientifique. Je pourrais me retourner contre eux et leur dire:
+eaujourd’hui. Ils veulent une preuve scientifique. Je pourrais me retourner contre eux et leur dire:
 «Prouvez-moi scientifiquement que Dieu est dans votre assemblée! Donnez-moi des preuves
 scientifiques que toutes ces choses sont réelles! Prouvez-le-moi!».
 94 Qu’est-ce qui est réel? La vie! J’aimerais que vous me donniez ne serait-ce que pour quatre
@@ -780,7 +386,7 @@ que j’avais prophétisé (il y a des années de cela) quand nous n’avions ic
 «Il arrivera des choses dans les derniers jours: n’habitez pas dans une vallée et ne mangez pas
 d’oeufs». Cela est écrit dans mon livre. Je pensais qu’il y avait quelque chose à tirer de cela et j’ai
 regardé: «Ne pas manger d’oeufs». C’était en 1933! Il y a quelque chose dans les oeufs
-aujourd’hui et la science dit qu’un homme ne devrait plus manger d’oeufs à partir de cinquante ans
+eaujourd’hui et la science dit qu’un homme ne devrait plus manger d’oeufs à partir de cinquante ans
 parce qu’il n’y a rien de pire pour son coeur. Maladies!
 100 Autrefois le lait était notre aliment le plus équilibré. Mais aujourd’hui les médecins disent: «N’y
 touchez pas!». Cela donne la sinusite et toutes sortes de maladies. Les mêmes êtres humains en
@@ -926,7 +532,7 @@ la Parole et nous le croyons.
 accomplisse exactement ce qu’Il a promis d’accomplir et nous le croirons. Vous voyez? Il y a des
 preuves de cela.
 120 Comment agit le Virus lorsqu’Il frappe un homme? “Ces signes accompagneront ceux qui
-auront cru…” dit-Il. Si le Virus produit ce résultat, c’est bien, vous voyez?
+ auront cru…” dit-Il. Si le Virus produit ce résultat, c’est bien, vous voyez?
 121 Cela nous amène, pour conclure, à parler pendant quelques instants d’Abel et de Caïn
 jusqu’au jugement du temps de Noé et jusqu’à ces jours de Noé qui sont tout près d’arriver.
 Maintenant, avant que nous fassions la ligne de prière, soyez très attentifs pendant que je
@@ -934,7 +540,7 @@ parcours encore quelques passages des Ecritures en traitant ce petit sujet.
 122 Nous voyons qu’après que le monde eut adopté cette conception intellectuelle de la Parole,
 ces hommes devinrent de grands hommes, des hommes de renom. C’est la Bible qui le dit
 (Genèse 6.4). Ces hommes de renom poursuivaient les jolies femmes comme cela se passe
-aujourd’hui dans le monde entier. J’en ai parlé dans Le signal rouge de Sa venue; nous avons vu
+eaujourd’hui dans le monde entier. J’en ai parlé dans Le signal rouge de Sa venue; nous avons vu
 l’autre soir comment les femmes deviendraient de plus en plus belles dans les derniers jours et
 que les hommes de renom… comme ces scandales qu’il y a eu en Angleterre et aux Etats-Unis. Et
 on en découvrira encore un de ces jours. Vous ne savez pas ce qui en est de ces «call-girls» et de
@@ -1032,9 +638,7 @@ années dans le désert, quarante ans. N’est-ce pas vrai? Cette colonne de feu
 sommes dans notre trente-troisième année; il en manque sept pour que ce soit pareil au type.
 Donc une colonne de feu les conduisait. Il prit soin d’eux. Il prit soin d’eux à un point tel qu’Il leur fit
 
-        http://www.cmpp.ch
-
-    IL PREND SOIN. ET VOUS?                      19
+IL PREND SOIN. ET VOUS?                      19
 savoir que ce n’était pas quelque manifestation scientifique ou une erreur quelconque, mais Il
 confirma le message en le prouvant.
 133 Il a même pris soin d’une femme qui était une étrangère et non pas une Israélite. Elle
@@ -1135,7 +739,7 @@ la synagogue. Mais il demanda: “D’où vient tout ce bruit?” On lui répond
 Nazareth qui passe, c’est un prophète”.
 147 Alors il cria: “Jésus, Fils de David!”. Quelle réprimande pour son pasteur et pour les prêtres
 qui se tenaient là! Mais peu lui importait ce que pasteur, prêtre ou autre disait, son intérêt s’était
-éveillé! Il se souciait suffisamment de recouvrer la vue, c’est pourquoi il cria. Et quand cet aveugle
+réveillé! Il se souciait suffisamment de recouvrer la vue, c’est pourquoi il cria. Et quand cet aveugle
 fut prêt et qu’il se soucia assez pour crier, Jésus se soucia assez de lui pour le guérir. Il est le
 même hier, aujourd’hui et éternellement. Il prend soin de vous quand vous vous souciez de Lui,
 mais vous devez le faire premièrement. Vous devez prouver que vous vous souciez.
@@ -1265,7 +869,7 @@ de nous. Adressez-Lui vos requêtes. Croyez-vous qu’Il vous exaucera? J’éta
 mais comme vous le voyez je me suis un peu éloigné de mon sujet.
 162 Que tout le monde se lève. Nous allons de toute façon prier pour tout le monde. Commençons
 par le numéro 1. [Frère Branham appelle les malades jusqu’au numéro 10 — N.d.T.] … Bien, petit
-garçon.
+ garçon.
 
                                http://www.cmpp.ch
 
@@ -1489,8 +1093,8 @@ demander que tout mal vous quitte tandis que vous passez sous ce point d’oncti
 L’onction qui est là-bas est la même que celle qui est ici. Mais c’est pour votre foi que je dis cela.
 Que chacun prie maintenant.
 199 Au Nom de Jésus, que ce petit garçon soit guéri. Amen! O Dieu, au Nom de Jésus-Christ, que
-notre frère soit guéri. Au Nom de Jésus-Christ. J’obéis à Ton commandement, Seigneur. Tu as dit:
-“Ces signes accompagneront ceux qui auront cru…”. Tous deux sont des croyants. “S’ils posent
+notre frère soit guéri. Au Nom de Jésus-Christ. J’obéis à Ton commandement, Seigneur. Tu as
+dit: “Ces signes accompagneront ceux qui auront cru…”. Tous deux sont des croyants. “S’ils posent
 leurs mains sur les malades, ceux-ci seront guéris”. Au Nom de Jésus, c’est ce que je fais. Au
 Nom de Jésus-Christ je pose les mains sur ce frère. Amen. Au Nom de Jésus-Christ je pose les
 mains sur notre frère pour sa guérison. Amen.
@@ -1562,7 +1166,7 @@ est revenu après la réunion et m’a fait remettre les choses à leur place. N
 
         http://www.cmpp.ch
 
-    IL PREND SOIN. ET VOUS?    28
+IL PREND SOIN. ET VOUS?    28
 prend soin? Et vous, vous souciez-vous de Lui? Vous souciez-vous assez pour dire: «A partir de
 maintenant quelque chose dans mon coeur me dit que mes tourments sont terminés. Je vais bien.
 Je vais être en bonne santé». Le croyez-vous? Levez la main et dites: «Je le crois!». Que Dieu
@@ -1604,9 +1208,6 @@ les ténèbres, Il prend toujours soin de vous. Il a pris soin de vous. Vous sou
 Dites: «Oui, Seigneur, je Te promets de me soucier de Toi; dès maintenant et dorénavant je veux
 me soucier de mon témoignage». [Frère Branham continue à fredonner: Il prend soin de vous —
 N.d.R.] Il a pris soin de vous. Frère Edwards…
-
-
-
 
 
 

@@ -1,612 +1,276 @@
-    SOIF    1
+---
+source: "cmpp"
+sermon_id: "serie6no3"
+title: "SOIF"
+subtitle: "19 septembre 1965, soir"
+date: "1965-09-19"
+year: 1965
+location: "Tucson, Arizona, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la soif spirituelle, comparant la soif naturelle d'eau à la soif de Dieu. Il explique que la soif est une alarme divine pour nos besoins, et que tout être humain a une soif naturelle de Dieu. Il encourage les croyants à persévérer malgré les obstacles du diable."
+tags:
+  - "soif"
+  - "désir de Dieu"
+  - "Saint-Esprit"
+  - "persévérance"
+  - "combat spirituel"
+persons:
+  - "David"
+  - "Paul"
+  - "Jésus"
+  - "Elisée"
+  - "Elie"
+  - "F.F. Bosworth"
+  - "Lee Vayle"
+  - "Pearry Green"
+  - "Mack"
+  - "Koontz"
+  - "Blair"
+  - "Mercier"
+  - "Williams"
+  - "Dauch"
+  - "McKinney"
+  - "Brown"
+places:
+  - "Tucson"
+  - "Arizona"
+  - "Californie"
+  - "New York"
+  - "Texas"
+  - "Maine"
+  - "Jeffersonville"
+  - "Indiana"
+  - "Ohio"
+  - "Canada"
+  - "Afrique"
+  - "Mozambique"
+  - "Beira"
+themes:
+  - "soif spirituelle"
+  - "nature humaine"
+  - "combat entre la chair et l'esprit"
+  - "persévérance dans la foi"
+  - "présence de Dieu"
+  - "fin des temps"
+  - "guérison divine"
+pdf_url: "http://cmpp.ch/serie6no3.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Jean 2"
+  - "1 Timothée 2"
+  - "Apocalypse 22"
+  - "Hébreux 13"
+  - "Jean 4"
+  - "Jean 6"
+  - "Marc 16"
+  - "Matthieu 24"
+  - "Matthieu 5"
+  - "Psaumes 18"
+  - "Psaumes 42"
+  - "Romains 7"
+---
+SERIE 6, N° 3
 
+LA PAROLE PARLEE
 
+PAR
 
-    SERIE 6, N° 3
+WILLIAM MARRION BRANHAM
 
-    LA PAROLE PARLEE
+# SOIF
 
-        PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
-  SOIF
 (Thirst)
 
-
-
-
-   19 septembre 1965, soir
+19 septembre 1965, soir
 Assemblée de Dieu de Grantway
-   Tucson — Arizona, U.S.A.
+Tucson — Arizona, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+http://www.cmpp.ch
 
+---
 
+1 Bonsoir mes amis. C’est un privilège d’être ici ce soir. C’est la seconde fois que je viens ici, dans cette Assemblée de Grantway, avec mon cher frère Mack, toute sa précieuse équipe et des chrétiens qui sont venus de différentes églises. Avec frère Lee Vayle, nous venons de rencontrer un frère qui est un proche ami de frère Bosworth, et nous ne savions même pas que frère F.F. Bosworth avait rejoint le Seigneur. J’ai dit: «Je me sentais avec lui comme Elisée qui versait l’eau sur les mains d’Elie» lorsqu’ils étaient à l’étranger. Et je ne savais même pas que frère Bosworth avait rejoint le Seigneur à 84 ans.
 
+2 Ce soir, j’aimerais saluer les gens qui nous écoutent grâce à la transmission téléphonique, à travers toute la nation, depuis la Californie jusqu’à New York, le Texas et les différentes parties de la nation, depuis le Maine jusqu’à la Californie. C’est une grande bénédiction que d’avoir ce système de transmission téléphonique. Et maintenant, nous avons appris, par notre bon ami frère Pearry Green, qu’ils ont un petit dispositif qu’ils peuvent mettre sur leur téléviseur et ils ont ainsi non seulement la voix, mais l’image sera aussi retransmise directement dans le poste de télévision. Et maintenant ils sont près à le voir.
 
+3 Soeur Mack, je suis heureux de vous voir en bonne forme, assise ce soir à l’orgue ainsi que beaucoup de mes amis que je rencontre à Sierra Vista, et frère Borders… ou plutôt frère Roberson, de l’Indiana et beaucoup d’autres. J’aimerais dire aux gens qui se trouvent au Tabernacle ce soir qu’il semble que la moitié d’entre eux se trouve ici alors que l’autre moitié est au Tabernacle à Jeffersonville.
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+4 A mon ami ici, frère Koontz, que vous avez mentionné à propos de cette requête de guérison… Je prie pour cela, frère Koontz. Ayez seulement la foi. Ne vous faites pas de souci. Tout se passera bien.
 
+5 Et ici en bas, au Texas, frère Blair, si vous êtes à l’écoute ce soir, mon frère, rappelez-vous simplement ceci; Dieu Qui vous a fait sortir la première fois, peut vous faire sortir une deuxième fois. Nous croyons que Dieu vous le donnera. Et n’accordez pas foi aux mensonges du diable. Rappelez-vous simplement que Dieu est Dieu et qu’il y a… et qu’Il demeure le même hier, aujourd’hui et éternellement. Nous L’aimons et nous Le croyons et nous prions pour vous.
 
-    http://www.cmpp.ch
+6 Et nous sommes certainement reconnaissants à tous nos amis de Californie et à frère Mercier et à ceux qui sont en Arizona et dans bien d’autres endroits, à Phoenix, à frère Williams et à vous tous qui êtes reliés avec nous ce soir; nous sommes certainement reconnaissants pour chacun d’entre vous. Que le Seigneur vous bénisse.
 
-    SOIF    2
+7 J’ai le sentiment d’une réelle bienvenue ici ce soir, dans cette belle église, l’Assemblée de Dieu ici à Grantway avec mon bon ami, frère Mack. Dieu avait béni frère Mack… Je me rappelle qu’une fois au Canada il était… Je remontais une piste, à dos de cheval, vers les jungles et le Saint-Esprit m’a demandé de descendre de cheval et de prier pour frère Mack. A ce moment, il était dans une situation d’urgence et le Seigneur l’a guéri. Je suis tellement reconnaissant pour cela et aussi d’être là avec lui ce soir pour louer le Seigneur dans cette belle Vérité.
 
-  SOIF
-(Thirst)
+8 Un homme assis derrière moi sur cette plate-forme a dit: «Je suppose que vous ne me reconnaissez pas. Vous m’avez pris en auto-stop une fois, je ne me rappelle plus, quelque part à Boston ou Détroit».
 
+9 Et j’ai dit: «Eh bien, j’essaie d’habitude de tendre la main à ceux qui sont dans le besoin, si je peux».
 
-   19 septembre 1965, soir
-Assemblée de Dieu de Grantway
-   Tucson — Arizona, U.S.A.
+10 Et ainsi ce soir, nous sommes tous dans le besoin. Et nous prions pour que Dieu nous tende la main ce soir, une main d’aide, de bénédictions et qu’Il nous donne Sa grâce et Sa miséricorde.
 
+11 Maintenant, j’aime toujours parler longtemps, mais j’essaierai de ne pas faire cela ce soir parce que les gens de l’Ohio viennent d’appeler. Madame Dauch et le groupe là-haut, frère Mc Kinney et frère Brown et tous ceux qui sont à l’écoute du téléphone en Ohio, nous vous envoyons aussi nos salutations. Il est tard à New York. Je suppose qu’il doit être onze heures ou minuit en ce moment à New York. Les assemblées sont venues et ont attendu jusqu’à cette heure, juste pour le service. Nous sommes reconnaissants pour ces bons amis de partout.
 
+12 Maintenant, avant que nous ouvrions la Parole, pendant que nous inclinons nos têtes, parlons un instant à l’Auteur.
 
+13 Cher Père céleste, nous sommes… nos coeurs sont remplis de joie pour le privilège que nous avons d’être vivants ici ce soir et rassemblés avec Ton peuple et ceux qui croient pour vivre toujours. Nous possédons maintenant la Vie Eternelle parce que “Tu as donné Ton Fils seul engendré et que quiconque croit en Lui ne périra pas mais aura la Vie Eternelle”. Lors de Son pèlerinage, ici sur terre, Il nous a enseigné que: “Celui qui écoute Ma Parole et croit en Celui qui m’a envoyé, a la Vie Eternelle; et il ne viendra pas en jugement, mais a passé de la mort à la Vie parce que nous croyons au seul Fils engendré de Dieu”. Combien nous pouvons Te remercier pour ce glorieux Sauveur! Et nous prions ce soir pour que Sa glorieuse Présence nous bénisse tous ensemble quand nous lirons dans Sa Parole et que nous en parlerons. Laissons le Saint-Esprit amener cela à chaque coeur au travers de la nation, Seigneur, où que soient rassemblés les gens.
 
+14 Bénis les autres ministres qui sont à la chaire. Nous prions, Père, pour que tu bénisses cette Assemblée de Grantway; son pasteur, sa femme, ses enfants, les diacres, les administrateurs et tous ceux qui ont une charge. Et Père, que nous puissions tous ensemble, travailler pour le Royaume de Dieu pendant qu’il y a encore assez de Lumière alors que nous nous approchons de l’heure où plus aucun homme ne pourra travailler. Père, puissions-nous racheter le temps pendant que nous avons ce privilège. Que cela nous soit accordé, Seigneur. Guéris le malade et l’affligé au travers de tout le pays. Que la Présence de Dieu puisse être sentie dans chaque coin et recoin de la nation ce soir.
 
-1 Bonsoir mes amis. C’est un privilège d’être ici ce soir. C’est la seconde fois que je viens ici,
-dans cette Assemblée de Grantway, avec mon cher frère Mack, toute sa précieuse équipe et des
-chrétiens qui sont venus de différentes églises. Avec frère Lee Vayle, nous venons de rencontrer
-un frère qui est un proche ami de frère Bosworth, et nous ne savions même pas que frère F.F.
-Bosworth avait rejoint le Seigneur. J’ai dit: «Je me sentais avec lui comme Elisée qui versait l’eau
-sur les mains d’Elie» lorsqu’ils étaient à l’étranger. Et je ne savais même pas que frère Bosworth
-avait rejoint le Seigneur à 84 ans.
-2 Ce soir, j’aimerais saluer les gens qui nous écoutent grâce à la transmission téléphonique, à
-travers toute la nation, depuis la Californie jusqu’à New York, le Texas et les différentes parties de
-la nation, depuis le Maine jusqu’à la Californie. C’est une grande bénédiction que d’avoir ce
-système de transmission téléphonique. Et maintenant, nous avons appris, par notre bon ami frère
-Pearry Green, qu’ils ont un petit dispositif qu’ils peuvent mettre sur leur téléviseur et ils ont ainsi
-non seulement la voix, mais l’image sera aussi retransmise directement dans le poste de
-télévision. Et maintenant ils sont près à le voir.
-3 Soeur Mack, je suis heureux de vous voir en bonne forme, assise ce soir à l’orgue ainsi que
-beaucoup de mes amis que je rencontre à Sierra Vista, et frère Borders… ou plutôt frère
-Roberson, de l’Indiana et beaucoup d’autres. J’aimerais dire aux gens qui se trouvent au
-Tabernacle ce soir qu’il semble que la moitié d’entre eux se trouve ici alors que l’autre moitié est
-au Tabernacle à Jeffersonville.
-4 A mon ami ici, frère Koontz, que vous avez mentionné à propos de cette requête de
-guérison… Je prie pour cela, frère Koontz. Ayez seulement la foi. Ne vous faites pas de souci.
-Tout se passera bien.
-5 Et ici en bas, au Texas, frère Blair, si vous êtes à l’écoute ce soir, mon frère, rappelez-vous
-simplement ceci; Dieu Qui vous a fait sortir la première fois, peut vous faire sortir une deuxième
-fois. Nous croyons que Dieu vous le donnera. Et n’accordez pas foi aux mensonges du diable.
-Rappelez-vous simplement que Dieu est Dieu et qu’il y a… et qu’Il demeure le même hier,
-aujourd’hui et éternellement. Nous L’aimons et nous Le croyons et nous prions pour vous.
-6 Et nous sommes certainement reconnaissants à tous nos amis de Californie et à frère
-Mercier et à ceux qui sont en Arizona et dans bien d’autres endroits, à Phoenix, à frère Williams et
-à vous tous qui êtes reliés avec nous ce soir; nous sommes certainement reconnaissants pour
-chacun d’entre vous. Que le Seigneur vous bénisse.
-7 J’ai le sentiment d’une réelle bienvenue ici ce soir, dans cette belle église, l’Assemblée de
-Dieu ici à Grantway avec mon bon ami, frère Mack. Dieu avait béni frère Mack… Je me rappelle
-qu’une fois au Canada il était… Je remontais une piste, à dos de cheval, vers les jungles et le
-Saint-Esprit m’a demandé de descendre de cheval et de prier pour frère Mack. A ce moment, il
-était dans une situation d’urgence et le Seigneur l’a guéri. Je suis tellement reconnaissant pour
-cela et aussi d’être là avec lui ce soir pour louer le Seigneur dans cette belle Vérité.
-8 Un homme assis derrière moi sur cette plate-forme a dit: «Je suppose que vous ne me
-reconnaissez pas. Vous m’avez pris en auto-stop une fois, je ne me rappelle plus, quelque part à
-Boston ou Détroit».
+15 Nous réalisons que le jugement frappe. De grandes erreurs sont commises et la nation est secouée par des tremblements de terre dans divers endroits. Les grandes choses historiques que nous avons entendues dans la bible dans les jours passés du jugement, nous les voyons se répéter à nouveau aujourd’hui. La prophétie qui dit: “Comme cela fut le cas dans les jours de Noé, il en sera ainsi lors de la venue du Fils de l’homme; et comme ce fut le cas dans les jours de Lot, ainsi il en sera lors de la venue du Fils de l’homme”. Nous le voyons s’accomplir maintenant. “Le coeur des hommes défaille, perplexité et détresse sont parmi les nations”. Dieu, nous savons que nous sommes à la fin des temps.
 
-        http://www.cmpp.ch
+16 Aide-nous, Seigneur, à apporter le Message dans chaque coin et recoin, à chaque enfant que Tu as appelé à la Vie. Permets-le, Seigneur. Nous le demandons dans le Nom de Jésus. Amen. Seigneur, bénis maintenant la lecture de Ta Parole.
 
-SOIF 3
-9 Et j’ai dit: «Eh bien, j’essaie d’habitude de tendre la main à ceux qui sont dans le besoin, si je
-peux».
-10 Et ainsi ce soir, nous sommes tous dans le besoin. Et nous prions pour que Dieu nous
-tende la main ce soir, une main d’aide, de bénédictions et qu’Il nous donne Sa grâce et Sa
-miséricorde.
-11 Maintenant, j’aime toujours parler longtemps, mais j’essaierai de ne pas faire cela ce soir
-parce que les gens de l’Ohio viennent d’appeler. Madame Dauch et le groupe là-haut, frère Mc
-Kinney et frère Brown et tous ceux qui sont à l’écoute du téléphone en Ohio, nous vous envoyons
-aussi nos salutations. Il est tard à New York. Je suppose qu’il doit être onze heures ou minuit en
-ce moment à New York. Les assemblées sont venues et ont attendu jusqu’à cette heure, juste
-pour le service. Nous sommes reconnaissants pour ces bons amis de partout.
-12 Maintenant, avant que nous ouvrions la Parole, pendant que nous inclinons nos têtes, parlons
-un instant à l’Auteur.
-13 Cher Père céleste, nous sommes… nos coeurs sont remplis de joie pour le privilège que nous
-avons d’être vivants ici ce soir et rassemblés avec Ton peuple et ceux qui croient pour vivre
-toujours. Nous possédons maintenant la Vie Eternelle parce que “Tu as donné Ton Fils seul
-engendré et que quiconque croit en Lui ne périra pas mais aura la Vie Eternelle”. Lors de
-Son pèlerinage, ici sur terre, Il nous a enseigné que: “Celui qui écoute Ma Parole et croit en Celui
-qui m’a envoyé, a la Vie Eternelle; et il ne viendra pas en jugement, mais a passé de la mort à la
-Vie parce que nous croyons au seul Fils engendré de Dieu”. Combien nous pouvons Te remercier
-pour ce glorieux Sauveur! Et nous prions ce soir pour que Sa glorieuse Présence nous bénisse
-tous ensemble quand nous lirons dans Sa Parole et que nous en parlerons. Laissons le Saint-
-Esprit amener cela à chaque coeur au travers de la nation, Seigneur, où que soient rassemblés
-les gens.
-14 Bénis les autres ministres qui sont à la chaire. Nous prions, Père, pour que tu bénisses cette
-Assemblée de Grantway; son pasteur, sa femme, ses enfants, les diacres, les administrateurs et
-tous ceux qui ont une charge. Et Père, que nous puissions tous ensemble, travailler pour le
-Royaume de Dieu pendant qu’il y a encore assez de Lumière alors que nous nous approchons de
-l’heure où plus aucun homme ne pourra travailler. Père, puissions-nous racheter le temps pendant
-que nous avons ce privilège. Que cela nous soit accordé, Seigneur. Guéris le malade et l’affligé
-au travers de tout le pays. Que la Présence de Dieu puisse être sentie dans chaque coin et recoin
-de la nation ce soir.
-15 Nous réalisons que le jugement frappe. De grandes erreurs sont commises et la nation est
-secouée par des tremblements de terre dans divers endroits. Les grandes choses historiques que
-nous avons entendues dans la bible dans les jours passés du jugement, nous les voyons se
-répéter à nouveau aujourd’hui. La prophétie qui dit: “Comme cela fut le cas dans les jours de Noé,
-il en sera ainsi lors de la venue du Fils de l’homme; et comme ce fut le cas dans les jours de Lot,
-ainsi il en sera lors de la venue du Fils de l’homme”. Nous le voyons s’accomplir maintenant. “Le
-coeur des hommes défaille, perplexité et détresse sont parmi les nations”. Dieu, nous savons
-que nous sommes à la fin des temps.
-16 Aide-nous, Seigneur, à apporter le Message dans chaque coin et recoin, à chaque
-enfant que Tu as appelé à la Vie. Permets-le, Seigneur. Nous le demandons dans le Nom de
-Jésus. Amen. Seigneur, bénis maintenant la lecture de Ta Parole.
-17 Maintenant, combien d’entre vous aiment regarder dans la Bible, à l’endroit où le ministre est
-en train de lire. Je veux vous lire ce soir quelques versets… trois versets dans les Psaumes.
-Psaumes 42, juste pour avoir un texte et j’ai quelques Ecritures notées ici et j’aimerais m’y référer
-si je peux, au fur et à mesure que nous parlerons de ce sujet, dans les prochaines minutes…Les
-psaumes de David… David a écrit les Psaumes 18 Maintenant, pendant que vous tournez les pages, je pourrais relever que beaucoup de gens
-disent: «Est-ce que les Psaumes sont inspirés?». Certainement ils le sont. Ils le sont.
-19 Tout ce qui est écrit dans la Bible est inspiré, qu’il s’agisse de l’histoire ou des chants.
-Quoi qu’il s’agisse, c’est inspiré. Jésus a dit: “Avez-vous lu ce que David a dit dans les
-Psaumes?”. Et alors je pense…Psaumes, bien entendu que ce sont des chants. Et si les chants
+17 Maintenant, combien d’entre vous aiment regarder dans la Bible, à l’endroit où le ministre est en train de lire. Je veux vous lire ce soir quelques versets… trois versets dans les Psaumes. Psaumes 42, juste pour avoir un texte et j’ai quelques Ecritures notées ici et j’aimerais m’y référer si je peux, au fur et à mesure que nous parlerons de ce sujet, dans les prochaines minutes… Les psaumes de David… David a écrit les Psaumes 18 Maintenant, pendant que vous tournez les pages, je pourrais relever que beaucoup de gens disent: «Est-ce que les Psaumes sont inspirés?». Certainement ils le sont. Ils le sont.
 
-        http://www.cmpp.ch
+19 Tout ce qui est écrit dans la Bible est inspiré, qu’il s’agisse de l’histoire ou des chants. Quoi qu’il s’agisse, c’est inspiré. Jésus a dit: “Avez-vous lu ce que David a dit dans les Psaumes?”. Et alors je pense… Psaumes, bien entendu que ce sont des chants. Et si les chants sont inspirés de Dieu, ce que je crois, ils sont aussi prophétiques. J’espère que je serai debout lorsque ce chant se réalisera:
 
-SOIF 4
-sont inspirés de Dieu, ce que je crois, ils sont aussi prophétiques. J’espère que je serai debout
-lorsque ce chant se réalisera:
-        Il y aura un rassemblement dans les airs,
-        Dans ce doux avenir, doux avenir;
-        Pour aller te rencontrer et te saluer là-haut;
-        Dans cette Demeure au-delà du ciel;
-        Un tel chant, jamais entendu, jamais entendu
-        Par une oreille mortelle,
-        Cela sera glorieux, je le déclare!
-        Et le Fils de Dieu même sera Celui qui conduit
-        Lors du rassemblement dans les airs.
-     Oh, je veux être là à ce moment!
+> Il y aura un rassemblement dans les airs,
+> Dans ce doux avenir, doux avenir;
+> Pour aller te rencontrer et te saluer là-haut;
+> Dans cette Demeure au-delà du ciel;
+> Un tel chant, jamais entendu, jamais entendu
+> Par une oreille mortelle,
+> Cela sera glorieux, je le déclare!
+> Et le Fils de Dieu même sera Celui qui conduit
+> Lors du rassemblement dans les airs.
+> Oh, je veux être là à ce moment!
+
 20 Maintenant, Psaumes 42.
-        “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi, ô
-     Dieu! Mon âme a soif de Dieu, du Dieu vivant. Quand viendrai-je et paraîtrai-je devant
-     Dieu? Mes larmes ont été mon pain, jour et nuit, quand on me disait tout le jour: Où est
-     ton Dieu?”.
-21 Je crois que David devait être dans la détresse lorsqu’il a écrit ce Psaume. Et en général, la
-détresse est nécessaire pour tirer le meilleur d’un homme. C’est vraiment à ce moment-là que
-Dieu descend. C’est comme lorsque nous jeûnons plusieurs fois pour nous mettre dans une
-position où l’homme lui-même est mis hors du chemin. Et je crois que lorsque David allait
-dans ces endroits, il commençait alors à méditer sur le Seigneur et commençait à réfléchir à ces
-choses.
-22 Bien des fois, Dieu nous met dans des encoignures étroites pour nous forcer à regarder en
-haut. Parfois, nous devons nous allonger sur le dos à l’hôpital ou ailleurs, afin de regarder en haut
-pour voir d’où viennent les grandes bénédictions de Dieu.
-23 Maintenant le mot dont j’aimerais parler ce soir, un seul mot tiré de la Bible qui se trouve dans
-le deuxième verset: «Soif». Le mot: Soif. Alors que je regardais dans le dictionnaire, j’ai vu ce mot.
-24 Je pensai à un sermon que j’ai prêché une fois: «La Soif de la Vie». Et je l’ai aussi tiré des
-Psaumes quand David disait: “Tes commandements”, je crois, “… me sont plus précieux que la
-vie”.
-25 Je regardai et pensai à ce mot «soif». Alors, j’ai regardé dans le dictionnaire pour voir ce qu’il
-signifiait. Et ici, ce que Webster dit: «C’est un désir douloureux». Douloureux. Vous désirez
-quelque chose de tellement fort que cela en devient douloureux pour vous.
-26 Maintenant, ce n’est pas que cela ne soit pas naturel d’avoir soif. La soif est quelque chose
-de naturel. Dieu nous a simplement donné cela afin que nous ayons un désir pour quelque chose.
-Parfois aussi, Dieu vous donne une tour de contrôle. Quelque chose qui est à l’intérieur de vous,
-qui contrôle ces différents désirs. Et cette soif, cette tour de contrôle qui est dans le coeur d’un
-homme, est quelque chose que Dieu lui a donné pour l’avertir de désirer des choses qui lui
-sont nécessaires.
-27 Maintenant, il y a deux sortes de soif. Il y a la soif physique et il y a aussi la soif spirituelle.
-J’aimerais à nouveau vous lire ceci, ce que David a dit: “Mon âme a soif de Dieu, du Dieu
-vivant…”.
-28 Pas de quelque chose d’historique ou de quelque chose qui s’était passé il y a des années ou
-de quelque conte que quelqu’un a raconté; mais «pour le Dieu vivant», un Dieu qui est
-toujours présent. Et son âme avait soif de ce Dieu, pas de quelque chose d’historique.
-29 Maintenant, nous trouvons que Dieu vous a donné cette tour de contrôle dans le but de vous
-donner les choses dont vous avez besoin. Cette tour de contrôle en vous, c’est ce qui vous dirige.
-Et cette soif coule dans cette tour de contrôle et vous dit ce dont vous avez besoin, spirituellement
-parlant. La tour de contrôle est dans le corps et aussi dans l’âme. Il y a une tour de contrôle dans
-le corps qui vous indique ce dont votre corps a besoin et cela vous est apporté par la soif. Il y a
-aussi une tour de contrôle dans votre âme qui vous indique les choses spirituelles dont
 
-        http://www.cmpp.ch
+> “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi, ô Dieu! Mon âme a soif de Dieu, du Dieu vivant. Quand viendrai-je et paraîtrai-je devant Dieu? Mes larmes ont été mon pain, jour et nuit, quand on me disait tout le jour: Où est ton Dieu?”.
 
-SOIF 5
-vous avez besoin. Quelque chose dans votre esprit qui vous indique quelle sorte de vie vous
-contrôle.
-30 Lorsque vous pouvez voir quels sont vos désirs, alors, vous pouvez dire par cela, quelle sorte
-de chose en vous crée ce désir que vous avez. Vous voyez, il y a une certaine chose pour laquelle
-vous avez soif. Par la nature de la soif que vous avez, cela peut vous indiquer, dans votre âme,
-ce qu’est ce désir. J’espère que vous comprenez cela.
-31 Il y a une tour de contrôle pour l’âme et une pour le corps. Chaque tour est une alarme pour
-les besoins de l’un et de l’autre. Chacune appelle le besoin pour lequel l’alarme sonne. Elle envoie
-une onde d’alarme.
-32 Par exemple, la chair a soif pour satisfaire les désirs qui sont dans le corps et l’esprit a soif
-pour satisfaire les désirs qui sont dans l’âme. Ce sont des désirs et bien des fois, ils se bagarrent
-l’un contre l’autre. Nous voyons ici ce qui est une grande difficulté aujourd’hui, trop de gens sont
-partagés entre ces deux désirs, car l’un d’entre eux est attiré par les choses du monde et l’autre
-par les choses du Ciel.
-33 Comme Paul disait, en le décrivant dans Romains 7.21: “Je trouve donc cette loi en moi:
-quand je veux faire le bien, le mal est attaché à moi”. Chrétiens, vous en faites l’expérience
-lorsque vous l’essayez. Lorsque vous essayez de faire quelque chose qui en vaut la peine,
-lorsque vous allez faire un effort pour faire quelque chose de bien, alors vous découvrez qu’il y a
-le diable, dans chaque main, juste pour vous bouleverser dans ce que vous voulez faire. Et cela,
-c’est une bonne chose à dire et les chrétiens devraient le savoir. Lorsque vous commencez à faire
-quelque chose, alors il y a toujours quelque chose qui essaie de vous déranger quand vous le
-faites. Faites-le de toute façon. Il y a le diable là-dessous, essayant de vous empêcher de faire
-ce qui est juste.
-34 Maintenant, bien des fois je rencontre des gens qui ont tendance à être un peu nerveux.
-Lorsqu’ils essaient de faire quelque chose et qu’ils découvrent que quelque chose les bloque des
-deux côtés, ils disent: «Cela pourrait ne pas être la volonté du Seigneur». Vous voyez, ne laissez
-pas le diable vous mentir comme cela.
-35 La première chose est de savoir si c’est la volonté de Dieu ou pas. Et si vous voulez
-savoir si c’est la volonté de Dieu, regardez dans la Bible. Là, il y a la chose qui vous met d’aplomb,
-c’est la Parole de Dieu; et alors, si vous la voyez dans la Parole de Dieu, c’est à vous de la faire.
-36 Comme par exemple, la recherche du baptême du Saint-Esprit. Bien des fois, je rencontre
-des gens qui disent: «Eh bien, j’ai cherché le Saint-Esprit, mais je n’ai simplement pas pu Le
-recevoir. Je ne crois pas que cela soit pour moi. Chaque fois que je chute, j’en suis malade. Si je
-prie ou si je jeûne, je deviens malade. Et si j’essaie de rester debout ou de tenir la nuit, je me sens
-si fatigué que je ne peux pas rester debout». Rappelez-vous, ceci c’est le diable car Dieu a
-l’intention de vous donner le Saint-Esprit. C’est pour quiconque le désire.
-37 Bien des fois lorsqu’on prie pour vous dans une réunion, pour une guérison divine, le jour
-suivant vous remarquerez que le diable vous fera deux fois pire que le jour précédent. Vous
-voyez? Mais, rappelez-vous que satan essaie simplement de vous éloigner des bénédictions
-que Dieu a pour vous. N’écoutez pas ce qu’il vous dit. Allez toujours de l’avant.
-38 J’ai fait une expérience similaire, récemment sur le chemin de l’Afrique. S’il y a bien une fois
-où le diable a fait pression comme jamais sur moi, c’était lorsque je devais aller en Afrique cette
-dernière fois. Cela fut l’une des plus belles réunions et l’un des meilleurs moments que j’ai jamais
-eus outre-mer. Pendant que j’étais là-bas, je crois que j’ai accompli plus de choses dans cette
-courte période, que jamais à aucun moment, à part ma partie de chasse. J’avais toujours pensé
-que ces églises ne me voulaient pas là-bas et j’ai découvert… J’avais reçu une lettre de quelqu’un
-qui disait qu’aucune association ne me voulait là-bas… et j’ai découvert qu’il s’agissait d’un
-homme, avec le papier à lettre d’une organisation, qui disait: «Nous ne vous voulons pas». Vous
-voyez? Aussi, lorsque je suis arrivé là-bas, c’était juste lui et sa famille, pas du tout les autres
-personnes. Et maintenant c’est un grand champ qui nous est ouvert.
+21 Je crois que David devait être dans la détresse lorsqu’il a écrit ce Psaume. Et en général, la détresse est nécessaire pour tirer le meilleur d’un homme. C’est vraiment à ce moment-là que Dieu descend. C’est comme lorsque nous jeûnons plusieurs fois pour nous mettre dans une position où l’homme lui-même est mis hors du chemin. Et je crois que lorsque David allait dans ces endroits, il commençait alors à méditer sur le Seigneur et commençait à réfléchir à ces choses.
+
+22 Bien des fois, Dieu nous met dans des encoignures étroites pour nous forcer à regarder en haut. Parfois, nous devons nous allonger sur le dos à l’hôpital ou ailleurs, afin de regarder en haut pour voir d’où viennent les grandes bénédictions de Dieu.
+
+23 Maintenant le mot dont j’aimerais parler ce soir, un seul mot tiré de la Bible qui se trouve dans le deuxième verset: «Soif». Le mot: Soif. Alors que je regardais dans le dictionnaire, j’ai vu ce mot.
+
+24 Je pensai à un sermon que j’ai prêché une fois: «La Soif de la Vie». Et je l’ai aussi tiré des Psaumes quand David disait: “Tes commandements”, je crois, “… me sont plus précieux que la vie”.
+
+25 Je regardai et pensai à ce mot «soif». Alors, j’ai regardé dans le dictionnaire pour voir ce qu’il signifiait. Et ici, ce que Webster dit: «C’est un désir douloureux». Douloureux. Vous désirez quelque chose de tellement fort que cela en devient douloureux pour vous.
+
+26 Maintenant, ce n’est pas que cela ne soit pas naturel d’avoir soif. La soif est quelque chose de naturel. Dieu nous a simplement donné cela afin que nous ayons un désir pour quelque chose. Parfois aussi, Dieu vous donne une tour de contrôle. Quelque chose qui est à l’intérieur de vous, qui contrôle ces différents désirs. Et cette soif, cette tour de contrôle qui est dans le coeur d’un homme, est quelque chose que Dieu lui a donné pour l’avertir de désirer des choses qui lui sont nécessaires.
+
+27 Maintenant, il y a deux sortes de soif. Il y a la soif physique et il y a aussi la soif spirituelle. J’aimerais à nouveau vous lire ceci, ce que David a dit: “Mon âme a soif de Dieu, du Dieu vivant…”.
+
+28 Pas de quelque chose d’historique ou de quelque chose qui s’était passé il y a des années ou de quelque conte que quelqu’un a raconté; mais «pour le Dieu vivant», un Dieu qui est toujours présent. Et son âme avait soif de ce Dieu, pas de quelque chose d’historique.
+
+29 Maintenant, nous trouvons que Dieu vous a donné cette tour de contrôle dans le but de vous donner les choses dont vous avez besoin. Cette tour de contrôle en vous, c’est ce qui vous dirige. Et cette soif coule dans cette tour de contrôle et vous dit ce dont vous avez besoin, spirituellement parlant. La tour de contrôle est dans le corps et aussi dans l’âme. Il y a une tour de contrôle dans le corps qui vous indique ce dont votre corps a besoin et cela vous est apporté par la soif. Il y a aussi une tour de contrôle dans votre âme qui vous indique les choses spirituelles dont vous avez besoin. Quelque chose dans votre esprit qui vous indique quelle sorte de vie vous contrôle.
+
+30 Lorsque vous pouvez voir quels sont vos désirs, alors, vous pouvez dire par cela, quelle sorte de chose en vous crée ce désir que vous avez. Vous voyez, il y a une certaine chose pour laquelle vous avez soif. Par la nature de la soif que vous avez, cela peut vous indiquer, dans votre âme, ce qu’est ce désir. J’espère que vous comprenez cela.
+
+31 Il y a une tour de contrôle pour l’âme et une pour le corps. Chaque tour est une alarme pour les besoins de l’un et de l’autre. Chacune appelle le besoin pour lequel l’alarme sonne. Elle envoie une onde d’alarme.
+
+32 Par exemple, la chair a soif pour satisfaire les désirs qui sont dans le corps et l’esprit a soif pour satisfaire les désirs qui sont dans l’âme. Ce sont des désirs et bien des fois, ils se bagarrent l’un contre l’autre. Nous voyons ici ce qui est une grande difficulté aujourd’hui, trop de gens sont partagés entre ces deux désirs, car l’un d’entre eux est attiré par les choses du monde et l’autre par les choses du Ciel.
+
+33 Comme Paul disait, en le décrivant dans Romains 7.21: “Je trouve donc cette loi en moi: quand je veux faire le bien, le mal est attaché à moi”. Chrétiens, vous en faites l’expérience lorsque vous l’essayez. Lorsque vous essayez de faire quelque chose qui en vaut la peine, lorsque vous allez faire un effort pour faire quelque chose de bien, alors vous découvrez qu’il y a le diable, dans chaque main, juste pour vous bouleverser dans ce que vous voulez faire. Et cela, c’est une bonne chose à dire et les chrétiens devraient le savoir. Lorsque vous commencez à faire quelque chose, alors il y a toujours quelque chose qui essaie de vous déranger quand vous le faites. Faites-le de toute façon. Il y a le diable là-dessous, essayant de vous empêcher de faire ce qui est juste.
+
+34 Maintenant, bien des fois je rencontre des gens qui ont tendance à être un peu nerveux. Lorsqu’ils essaient de faire quelque chose et qu’ils découvrent que quelque chose les bloque des deux côtés, ils disent: «Cela pourrait ne pas être la volonté du Seigneur». Vous voyez, ne laissez pas le diable vous mentir comme cela.
+
+35 La première chose est de savoir si c’est la volonté de Dieu ou pas. Et si vous voulez savoir si c’est la volonté de Dieu, regardez dans la Bible. Là, il y a la chose qui vous met d’aplomb, c’est la Parole de Dieu; et alors, si vous la voyez dans la Parole de Dieu, c’est à vous de la faire.
+
+36 Comme par exemple, la recherche du baptême du Saint-Esprit. Bien des fois, je rencontre des gens qui disent: «Eh bien, j’ai cherché le Saint-Esprit, mais je n’ai simplement pas pu Le recevoir. Je ne crois pas que cela soit pour moi. Chaque fois que je chute, j’en suis malade. Si je prie ou si je jeûne, je deviens malade. Et si j’essaie de rester debout ou de tenir la nuit, je me sens si fatigué que je ne peux pas rester debout». Rappelez-vous, ceci c’est le diable car Dieu a l’intention de vous donner le Saint-Esprit. C’est pour quiconque le désire.
+
+37 Bien des fois lorsqu’on prie pour vous dans une réunion, pour une guérison divine, le jour suivant vous remarquerez que le diable vous fera deux fois pire que le jour précédent. Vous voyez? Mais, rappelez-vous que satan essaie simplement de vous éloigner des bénédictions que Dieu a pour vous. N’écoutez pas ce qu’il vous dit. Allez toujours de l’avant.
+
+38 J’ai fait une expérience similaire, récemment sur le chemin de l’Afrique. S’il y a bien une fois où le diable a fait pression comme jamais sur moi, c’était lorsque je devais aller en Afrique cette dernière fois. Cela fut l’une des plus belles réunions et l’un des meilleurs moments que j’ai jamais eus outre-mer. Pendant que j’étais là-bas, je crois que j’ai accompli plus de choses dans cette courte période, que jamais à aucun moment, à part ma partie de chasse. J’avais toujours pensé que ces églises ne me voulaient pas là-bas et j’ai découvert… J’avais reçu une lettre de quelqu’un qui disait qu’aucune association ne me voulait là-bas… et j’ai découvert qu’il s’agissait d’un homme, avec le papier à lettre d’une organisation, qui disait: «Nous ne vous voulons pas». Vous voyez? Aussi, lorsque je suis arrivé là-bas, c’était juste lui et sa famille, pas du tout les autres personnes. Et maintenant c’est un grand champ qui nous est ouvert.
+
 39 Vous voyez, quand Paul disait: “Quand je veux faire le bien, le mal est avec moi”.
-40 Si vous laissez un jeune converti venir à l’autel, ici dans ce tabernacle ou ailleurs dans la
-nation, rappelez-vous juste que demain sa mère sera plus fâchée qu’elle ne l’a jamais été, que
-son père et tous les enfants de l’école seront dérangés. Et tout ira de travers parce que satan
 
-        http://www.cmpp.ch
+40 Si vous laissez un jeune converti venir à l’autel, ici dans ce tabernacle ou ailleurs dans la nation, rappelez-vous juste que demain sa mère sera plus fâchée qu’elle ne l’a jamais été, que son père et tous les enfants de l’école seront dérangés. Et tout ira de travers parce que satan essaie de vous faire retourner en arrière. Il essaie de vous faire sortir du Chemin. “Quand je veux faire le bien, le mal est avec moi”.
 
-SOIF 6
-essaie de vous faire retourner en arrière. Il essaie de vous faire sortir du Chemin. “Quand je veux
-faire le bien, le mal est avec moi”.
-41 Maintenant, regardons à la soif et voyons si vraiment la soif est une chose naturelle. J’ai eu
-des gens qui m’ont dit: «Oh, je n’ai jamais eu soif. Je crois que c’est juste pour des gens qui
-veulent être chrétiens». Oh, non, c’est faux. C’est quelque chose qui est véritablement associé
-à chaque être humain. C’est une vérité certaine. Au commencement, lorsque nous sommes
-venus dans ce pays, nous avons trouvé des indiens ici. Et les indiens, même s’ils étaient des
-païens à cette époque, adoraient le soleil ou quelque chose d’autre. Aussi longtemps qu’ils sont
-humains, il y a quelque chose en eux, une soif naturelle, qui les appelle quelque part à
-chercher Dieu.
-42 Alors que nous étions de retour dans les jungles, car nous y sommes retournés récemment, à
-480 miles de la civilisation la plus proche, nous avons trouvé des natifs qui n’avaient même jamais
-vu un homme blanc. C’était à Beira, une petite ville de 3’000 habitants environ, au Mozambique.
-J’ai trouvé une native; elle n’avait aucun habit — tous ne portaient pratiquement pas d’habits — et
-elle était assise en haut sur un arbre. J’étais en train de traquer le lion lorsque j’ai entendu
-quelque chose comme un être humain qui pleurait. Cette fille gémissait, elle tenait un enfant. Et
-elle avait peur de… sa seule protection contre un lion, un léopard ou un autre animal, c’était de
-monter sur un arbre. Elle avait vu et entendu qu’il s’agissait d’un être humain, mais lorsqu’elle a
-regardé et qu’elle a vu un homme blanc, elle a été effrayée! Elle n’avait jamais vu un tel homme
-de sa vie, vous voyez et elle était terrorisée.
-43 Même lorsque nous avons trouvé ces gens là-bas, dans cette condition primitive, ils étaient
-en train d’adorer. Avant que nous nous mettions en ligne d’attaque, ils ont versé une sorte de pâte
-farineuse (c’est ce qu’ils mangent) sur une petite feuille et ont frappé des mains et appelé l’esprit
-de quelque grand quelque chose dont ils ne savaient pas où il était (comme un saint patron chez
-les catholiques), pour les protéger, pour les empêcher d’être tués lors de la charge de ce lion.
-44 Vous voyez, c’est quelque chose de naturel. Ce n’est pas une chose anormale que d’avoir
-soif de Dieu. C’est une chose naturelle. C’est juste quelque chose que vous devriez faire. Dieu
-vous a fait de cette manière. Et ce n’est pas un super-humain, c’est juste un être humain
-commun. Ce n’est pas quelque chose de spécial pour quelques personnes seulement.
-45 Ils disent: «Eh bien, j’ai vu des gens vivre une telle vie victorieuse qu’ils étaient constamment
-dans les hauteurs spirituelles, louant Dieu. J’aimerais bien me sentir de cette manière». Eh bien,
-la raison pour laquelle vous vous sentez comme cela, c’est la soif en vous. C’est juste une chose
-naturelle, c’est pour chaque personne d’être assoiffée de Dieu.
-46 Maintenant, prenons premièrement la soif naturelle. Prenons par exemple la soif d’eau.
-Comme David l’a dit ici, avoir “soif d’eau”. Avoir soif d’eau… Le corps a besoin d’eau et si vous
-n’étanchez pas cette soif, vous périssez. Vous vous déshydraterez et vous ne vivrez pas. Si
-vous ne pouvez pas trouver d’eau pour étancher la soif de votre corps naturel, vous mourrez
-bientôt. Vous ne vivrez pas longtemps. Vous pouvez vivre sans nourriture plus longtemps que
-sans eau parce que je suppose que, vous pouvez jeûner pendant quarante jours sans nourriture
-(Jésus l’a fait), mais vous ne pourriez pas rester aussi longtemps sans eau. Vous sécheriez
-simplement et mourriez. Vous devez avoir de l’eau. Et pourquoi la soif vient-elle en vous? C’est
-pour signaler que le corps a besoin de quelque chose pour le maintenir en vie. Et la soif
-dont le corps a besoin doit être celle de l’eau afin de rester en vie. De toute façon, vous êtes
-constitué de plus de 80% d’eau et de pétrole et vous avez besoin d’emmagasiner ces sources
-pour rester en vie. Comme je l’ai dit, si vous le négligez, vous périrez.
-47 La soif est aussi une alarme. Cette soif est une alarme. L’esprit déclenche l’alarme, un petit
-bourdonnement à l’intérieur de vous qui vous dit que la mort rôde tout près. Cela étant, si vous ne
-trouvez pas rapidement de l’eau, vous allez mourir. L’alarme devient de plus en plus forte jusqu’à
-ce que vous l’arrêtiez. Et si vous ne le faites pas, vous mourrez, parce que c’est une alarme.
-48 Comme David l’a décrit ici, dans les Psaumes: “Comme le cerf brame après les courants
-d’eau, ainsi mon âme crie après toi, ô Dieu”. Comme le cerf brame après les courants d’eau!
-49 J’ai toujours pensé, en lisant cela de David, que David était un homme des forêts, un
-chasseur. Et bien entendu, il chassait le daim. Beaucoup d’entre nous les chassent aussi,
-aujourd’hui. Le cerf est un daim.
+41 Maintenant, regardons à la soif et voyons si vraiment la soif est une chose naturelle. J’ai eu des gens qui m’ont dit: «Oh, je n’ai jamais eu soif. Je crois que c’est juste pour des gens qui veulent être chrétiens». Oh, non, c’est faux. C’est quelque chose qui est véritablement associé à chaque être humain. C’est une vérité certaine. Au commencement, lorsque nous sommes venus dans ce pays, nous avons trouvé des indiens ici. Et les indiens, même s’ils étaient des païens à cette époque, adoraient le soleil ou quelque chose d’autre. Aussi longtemps qu’ils sont humains, il y a quelque chose en eux, une soif naturelle, qui les appelle quelque part à chercher Dieu.
 
-        http://www.cmpp.ch
+42 Alors que nous étions de retour dans les jungles, car nous y sommes retournés récemment, à 480 miles de la civilisation la plus proche, nous avons trouvé des natifs qui n’avaient même jamais vu un homme blanc. C’était à Beira, une petite ville de 3’000 habitants environ, au Mozambique. J’ai trouvé une native; elle n’avait aucun habit — tous ne portaient pratiquement pas d’habits — et elle était assise en haut sur un arbre. J’étais en train de traquer le lion lorsque j’ai entendu quelque chose comme un être humain qui pleurait. Cette fille gémissait, elle tenait un enfant. Et elle avait peur de… sa seule protection contre un lion, un léopard ou un autre animal, c’était de monter sur un arbre. Elle avait vu et entendu qu’il s’agissait d’un être humain, mais lorsqu’elle a regardé et qu’elle a vu un homme blanc, elle a été effrayée! Elle n’avait jamais vu un tel homme de sa vie, vous voyez et elle était terrorisée.
+
+43 Même lorsque nous avons trouvé ces gens là-bas, dans cette condition primitive, ils étaient en train d’adorer. Avant que nous nous mettions en ligne d’attaque, ils ont versé une sorte de pâte farineuse (c’est ce qu’ils mangent) sur une petite feuille et ont frappé des mains et appelé l’esprit de quelque grand quelque chose dont ils ne savaient pas où il était (comme un saint patron chez les catholiques), pour les protéger, pour les empêcher d’être tués lors de la charge de ce lion.
+
+44 Vous voyez, c’est quelque chose de naturel. Ce n’est pas une chose anormale que d’avoir soif de Dieu. C’est une chose naturelle. C’est juste quelque chose que vous devriez faire. Dieu vous a fait de cette manière. Et ce n’est pas un super-humain, c’est juste un être humain commun. Ce n’est pas quelque chose de spécial pour quelques personnes seulement.
+
+45 Ils disent: «Eh bien, j’ai vu des gens vivre une telle vie victorieuse qu’ils étaient constamment dans les hauteurs spirituelles, louant Dieu. J’aimerais bien me sentir de cette manière». Eh bien, la raison pour laquelle vous vous sentez comme cela, c’est la soif en vous. C’est juste une chose naturelle, c’est pour chaque personne d’être assoiffée de Dieu.
+
+46 Maintenant, prenons premièrement la soif naturelle. Prenons par exemple la soif d’eau. Comme David l’a dit ici, avoir “soif d’eau”. Avoir soif d’eau… Le corps a besoin d’eau et si vous n’étanchez pas cette soif, vous périssez. Vous vous déshydraterez et vous ne vivrez pas. Si vous ne pouvez pas trouver d’eau pour étancher la soif de votre corps naturel, vous mourrez bientôt. Vous ne vivrez pas longtemps. Vous pouvez vivre sans nourriture plus longtemps que sans eau parce que je suppose que, vous pouvez jeûner pendant quarante jours sans nourriture (Jésus l’a fait), mais vous ne pourriez pas rester aussi longtemps sans eau. Vous sécheriez simplement et mourriez. Vous devez avoir de l’eau. Et pourquoi la soif vient-elle en vous? C’est pour signaler que le corps a besoin de quelque chose pour le maintenir en vie. Et la soif dont le corps a besoin doit être celle de l’eau afin de rester en vie. De toute façon, vous êtes constitué de plus de 80% d’eau et de pétrole et vous avez besoin d’emmagasiner ces sources pour rester en vie. Comme je l’ai dit, si vous le négligez, vous périrez.
+
+47 La soif est aussi une alarme. Cette soif est une alarme. L’esprit déclenche l’alarme, un petit bourdonnement à l’intérieur de vous qui vous dit que la mort rôde tout près. Cela étant, si vous ne trouvez pas rapidement de l’eau, vous allez mourir. L’alarme devient de plus en plus forte jusqu’à ce que vous l’arrêtiez. Et si vous ne le faites pas, vous mourrez, parce que c’est une alarme.
+
+48 Comme David l’a décrit ici, dans les Psaumes: “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi, ô Dieu”. Comme le cerf brame après les courants d’eau!
+
+49 J’ai toujours pensé, en lisant cela de David, que David était un homme des forêts, un chasseur. Et bien entendu, il chassait le daim. Beaucoup d’entre nous les chassent aussi, aujourd’hui. Le cerf est un daim.
 
 SOIF 7
-50 Et nous savons, si jamais vous avez vu des chiens, que les chiens sauvages attaquent le
-daim. Et habituellement, ils l’attrapent, comme le coyote, avec leurs crocs. Il peut attraper le daim
-droit au-dessus de l’oreille, ici et y jette tout son poids. Il coupe la gorge du daim et le daim n’a
-alors plus aucune chance. Mais parfois, le chien, comme en Afrique, le chien sauvage attrape le
-daim dans les flancs. S’il manque la gorge, il attaque la seconde fois au flanc. Et si le daim est
-assez fort et rapide, il peut éjecter le chien.
-51 Le daim est bien plus rapide. Le chien l’approche lorsqu’il ne le regarde pas et lorsqu’il est
-contre le vent. Le daim ne sait pas que le chien est proche.
-52 Et alors, lorsque le chien sauvage l’attaque, s’il est vraiment rapide, le daim peut le rejeter.
-Mais lorsque le chien sort du flanc, il a sa gueule pleine de la chair de l’animal ou s’il l’attrape à la
-gorge, parfois il coupe tout près de la veine jugulaire et la rate. Et si le daim le secoue, le chien
-arrachera un gros morceau de chair de sa gorge. Alors, le sang commence à couler.
-53 Et alors le chien vient droit derrière lui, suivant les traces de ce sang. Et comme la vie du
-daim commence à diminuer, car le sang qui est la vie s’en va… comme cela commence à
-diminuer, le daim devient plus faible. Et le chien, ou le loup est juste derrière lui.
-54 Maintenant, si ce daim ne peut pas trouver d’eau… L’eau a quelque chose en elle qui fait
-que lorsque le daim boit de l’eau, cela stoppe le saignement. Mais s’il ne trouve pas d’eau
-pour le rafraîchir, le sang continue à sortir, toujours plus vite car il court, forçant son coeur à
-pomper. Mais si jamais il peut trouver de l’eau, le daim vivra.
-55 Maintenant, il y a ici une grande leçon. Vous voyez! David dit ici: “Comme le cerf brame après
-les courants d’eau, ainsi mon âme crie après toi O Dieu”.
-56 Maintenant, ce daim sait qu’il est perdu s’il ne trouve pas d’eau. Il ne peut simplement
-pas vivre. Je les ai suivis bien des fois après qu’ils aient été blessés. Lorsqu’il trouve un courant
-d’eau, il le traverse, boit un coup et monte sur la colline; puis revient en bas, le traverse à
-nouveau, boit de l’eau et remonte. Vous ne réussirez jamais à l’attraper, aussi longtemps qu’il
-suit le courant. Mais lorsqu’il quitte ce cours d’eau, s’il ne peut pas trouver un autre courant
-quelque part, vous l’attraperez de toute façon. Et le daim le sait, aussi, il restera près du courant
-d’eau, où il peut y avoir accès rapidement. Maintenant, pouvez-vous imaginer un daim, avec son
-museau en l’air? Il a été attrapé quelque part où il n’y a pas d’eau.
-57 Et David dit: “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi, ô
-Dieu”. A moins que je ne Te trouve Seigneur, je périrai! Je ne peux pas continuer avant que
-je ne Te trouve! Et lorsqu’un homme ou une femme, un garçon ou une fille a cette sorte de soif, il
-va trouver quelque chose. Vous voyez?
-58 Mais lorsque nous arrivons à mi-chemin, nous nous disons: «Je m’agenouillerai et verrai ce
-que le Seigneur va faire». Vous voyez? Vous n’avez pas encore vraiment soif. Cela doit être une
-soif entre la vie et la mort et seulement alors, quelque chose se passera.
-59 Le daim ici… Nous découvrons qu’il a encore un autre sens, le sens de l’odorat qui le met en
-garde lorsque l’ennemi est proche. Cette petite créature possède un sens pour se protéger
-elle-même. Et le daim a en lui une petite alarme, un petit quelque chose qui chatouille son nez
-lorsque l’ennemi est proche. Si l’ennemi est dans le vent, le daim le sait et il s’en va. Parfois à une
-distance d’un demi mile ou à plus d’un mile, il peut vous sentir et s’en aller… ou sentir un loup ou
-un autre danger. Il peut vous sentir parce qu’il a été fait de cette façon. Il est un daim par nature.
-Et ce sens qu’il a en lui est un sens que Dieu lui a donné pour qu’il vive.
-60 Et j’ai pensé, en comparant le daim à un homme, à ce qu’est cette soif pour Dieu avant que
-l’ennemi vienne. Il y a quelque chose de particulier en ce qui concerne un enfant de Dieu, une fois
-qu’il est né dans l’Esprit de Dieu, qu’il a reçu le Saint-Esprit… Il y a quelque chose au sujet de la
-personne qui peut sentir l’ennemi… Prenez un homme qui prend l’Ecriture, lit l’Ecriture et
-essaie d’injecter dans cette Ecriture quelque chose qui lui est contraire… Un homme qui
-est rempli du Saint-Esprit le sent, immédiatement [Frère Branham claque des doigts —
-N.d.R.]. Il y a quelque chose qui ne colle pas. Lorsqu’il va dans un endroit… Ce certain petit
-sens à l’intérieur, est là pour protéger votre vie. Vous ne devez, vous ne devez jamais accepter
-quelque chose à moins que ce ne soit exactement la Parole de Dieu. Vous devez rester
-exactement avec cette Parole. Et maintenant, nous sommes protégés par ce sens aussi
-longtemps que nous sommes dans le Saint-Esprit.
+50 Et nous savons, si jamais vous avez vu des chiens, que les chiens sauvages attaquent le daim. Et habituellement, ils l’attrapent, comme le coyote, avec leurs crocs. Il peut attraper le daim droit au-dessus de l’oreille, ici et y jette tout son poids. Il coupe la gorge du daim et le daim n’a alors plus aucune chance. Mais parfois, le chien, comme en Afrique, le chien sauvage attrape le daim dans les flancs. S’il manque la gorge, il attaque la seconde fois au flanc. Et si le daim est assez fort et rapide, il peut éjecter le chien.
+51 Le daim est bien plus rapide. Le chien l’approche lorsqu’il ne le regarde pas et lorsqu’il est contre le vent. Le daim ne sait pas que le chien est proche.
+52 Et alors, lorsque le chien sauvage l’attaque, s’il est vraiment rapide, le daim peut le rejeter. Mais lorsque le chien sort du flanc, il a sa gueule pleine de la chair de l’animal ou s’il l’attrape à la gorge, parfois il coupe tout près de la veine jugulaire et la rate. Et si le daim le secoue, le chien arrachera un gros morceau de chair de sa gorge. Alors, le sang commence à couler.
+53 Et alors le chien vient droit derrière lui, suivant les traces de ce sang. Et comme la vie du daim commence à diminuer, car le sang qui est la vie s’en va… comme cela commence à diminuer, le daim devient plus faible. Et le chien, ou le loup est juste derrière lui.
+54 Maintenant, si ce daim ne peut pas trouver d’eau… L’eau a quelque chose en elle qui fait que lorsque le daim boit de l’eau, cela stoppe le saignement. Mais s’il ne trouve pas d’eau pour le rafraîchir, le sang continue à sortir, toujours plus vite car il court, forçant son coeur à pomper. Mais si jamais il peut trouver de l’eau, le daim vivra.
+55 Maintenant, il y a ici une grande leçon. Vous voyez! David dit ici: “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi O Dieu”.
+56 Maintenant, ce daim sait qu’il est perdu s’il ne trouve pas d’eau. Il ne peut simplement pas vivre. Je les ai suivis bien des fois après qu’ils aient été blessés. Lorsqu’il trouve un courant d’eau, il le traverse, boit un coup et monte sur la colline; puis revient en bas, le traverse à nouveau, boit de l’eau et remonte. Vous ne réussirez jamais à l’attraper, aussi longtemps qu’il suit le courant. Mais lorsqu’il quitte ce cours d’eau, s’il ne peut pas trouver un autre courant quelque part, vous l’attraperez de toute façon. Et le daim le sait, aussi, il restera près du courant d’eau, où il peut y avoir accès rapidement. Maintenant, pouvez-vous imaginer un daim, avec son museau en l’air? Il a été attrapé quelque part où il n’y a pas d’eau.
+57 Et David dit: “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi, ô Dieu”. A moins que je ne Te trouve Seigneur, je périrai! Je ne peux pas continuer avant que je ne Te trouve! Et lorsqu’un homme ou une femme, un garçon ou une fille a cette sorte de soif, il va trouver quelque chose. Vous voyez?
+58 Mais lorsque nous arrivons à mi-chemin, nous nous disons: «Je m’agenouillerai et verrai ce que le Seigneur va faire». Vous voyez? Vous n’avez pas encore vraiment soif. Cela doit être une soif entre la vie et la mort et seulement alors, quelque chose se passera.
+59 Le daim ici… Nous découvrons qu’il a encore un autre sens, le sens de l’odorat qui le met en garde lorsque l’ennemi est proche. Cette petite créature possède un sens pour se protéger elle-même. Et le daim a en lui une petite alarme, un petit quelque chose qui chatouille son nez lorsque l’ennemi est proche. Si l’ennemi est dans le vent, le daim le sait et il s’en va. Parfois à une distance d’un demi mile ou à plus d’un mile, il peut vous sentir et s’en aller… ou sentir un loup ou un autre danger. Il peut vous sentir parce qu’il a été fait de cette façon. Il est un daim par nature. Et ce sens qu’il a en lui est un sens que Dieu lui a donné pour qu’il vive.
+60 Et j’ai pensé, en comparant le daim à un homme, à ce qu’est cette soif pour Dieu avant que l’ennemi vienne. Il y a quelque chose de particulier en ce qui concerne un enfant de Dieu, une fois qu’il est né dans l’Esprit de Dieu, qu’il a reçu le Saint-Esprit… Il y a quelque chose au sujet de la personne qui peut sentir l’ennemi… Prenez un homme qui prend l’Ecriture, lit l’Ecriture et essaie d’injecter dans cette Ecriture quelque chose qui lui est contraire… Un homme qui est rempli du Saint-Esprit le sent, immédiatement [Frère Branham claque des doigts — N.d.R.]. Il y a quelque chose qui ne colle pas. Lorsqu’il va dans un endroit… Ce certain petit sens à l’intérieur, est là pour protéger votre vie. Vous ne devez, vous ne devez jamais accepter quelque chose à moins que ce ne soit exactement la Parole de Dieu. Vous devez rester exactement avec cette Parole. Et maintenant, nous sommes protégés par ce sens aussi longtemps que nous sommes dans le Saint-Esprit.
 
         http://www.cmpp.ch
 
 SOIF 8
-61 Vous pouvez aller lire par exemple… Je vais lire dans Marc 16.17: “Et ce sont ici les signes
-qui accompagneront ceux qui auront cru: en mon nom ils chasseront les démons; ils parleront de
-nouvelles langues; ils prendront des serpents; et quand ils auront bu quelque chose de mortel,
-cela ne leur nuira point; ils imposeront les mains aux infirmes, et ceux-ci se porteront bien”.
-62 A ce moment-là, vous trouverez une personne qui se lève et dit: «Cela, c’était pour l’âge
-apostolique». Maintenant, immédiatement, si vous avez reçu le Saint-Esprit, vous avez été
-doté de ce sens et cela vous alarme. Il y a quelque chose de faux là-dedans! Vous voyez? Ils
-essaient d’expliquer que c’est pour un autre jour, qu’aujourd’hui vous n’avez plus vraiment besoin
-de ces choses. Mais Jésus a dit: “Ce sont ici les signes qui accompagneront ceux qui auront
-cru”. Vous voyez, il y a un petit quelque chose en vous qui vous alarme, un petit bourdonnement
-qui vous fait savoir que c’est faux et que c’est le chemin qui mène à la mort.
-63 Car Jésus a dit: “Si nous ajoutons une parole à la Bible ou si nous Lui retranchons une
-parole, notre nom est retranché du Livre de Vie”. Vous voyez, pas un mot. Nous devons juste La
-prendre de la manière dont Elle est écrite. Et Dieu veille sur Sa Parole pour L’accomplir; et
-nous savons qu’Elle doit être simplement exacte.
-64 Aussi, c’est pourquoi si vous êtes nés de l’Esprit de Dieu, vous devenez une partie de la
-Bible, qu’importe ce que peut bien dire une église ou quelqu’un d’autre! Dieu a dit à Ezéchiel, qui
-était un prophète: “Prends ce rouleau et mange-le”. Alors le prophète et le rouleau sont devenus
-partie intégrante l’un de l’autre. Et c’est ce qu’est le croyant lorsqu’il reçoit le Saint-Esprit; le
-Saint-Esprit a écrit la Bible et l’Esprit de Dieu est la Parole de Dieu. “Mes Paroles sont Esprit… Au
-commencement était la Parole, et la Parole était auprès de Dieu et la Parole était Dieu. Et la
-Parole devint chair et habita au milieu de nous” et dans Hébreux 13.8: “Jésus-Christ est le même,
-hier, aujourd’hui et éternellement”. Et lorsque vous faites partie de cette Parole, oh, laissez venir
-quelque chose de contraire à cette Parole et alors [Frère Branham claque des doigts plusieurs fois
-— N.d.R.] il y a un petit bourdonnement qui vous alarme instantanément. Vous voyez, c’est pour
-vous avertir que la mort est sur le chemin. Nous ne devrions jamais faire cela.
-65 Ces soifs sont simplement naturelles. Elles sont naturelles pour le chrétien. Elles sont
-naturelles pour l’être humain.
-66 Il y a aussi une soif pour le succès. Il y a beaucoup de gens aujourd’hui qui cherchent à être
-enseignés dans cette soif. Nous avons remarqué qu’ils ont commencé d’abord à l’université. Et
-pour aller là-bas, les gens dépensent des milliers de dollars. Pour envoyer leurs enfants dans ces
-écoles, dans les universités, les collèges etc… pour avoir une éducation. «Avoir du succès!»,
-ajoutant: «dans la vie». Maintenant, je n’ai rien contre cela, c’est bien. Mais pour moi, vous
-pourriez avoir toute l’éducation du monde, mais sans pour autant avoir trouvé le véritable succès.
-C’est vrai, parce que cela va vous rendre temporairement la vie juste un peu plus facile ici bas…
-Mais lorsque vous mourrez, vous laissez tout cela derrière vous, toute cette civilisation dans
-laquelle nous vivons.
-67 Je le disais l’autre jour à Phoenix, je me tenais debout et j’ai dit à nouveau: «Toute cette
-civilisation moderne, tous ces programmes d’éducation, tous ces programmes scientifiques, tout
-est contraire à la Parole de Dieu et à Sa volonté». La civilisation est absolument… Il n’y aura
-aucune civilisation comme celle-ci dans le monde à venir. C’est une civilisation pervertie. Dieu
-avait Sa première civilisation sur terre lorsqu’Il prononça Sa Parole et lorsqu’Elle se réalisa.
-Chaque semence produisit selon sa propre espèce et dans cette civilisation, il n’y avait pas de
-mort, de maladie, de peine. Et maintenant, nous prenons les choses qui sont dans le monde
-scientifique, qui avaient été mises là pour soutenir le tout, et nous les pervertissons en quelque
-chose qui apporte la mort.
-68 C’est comme la bombe atomique. Je ne connais pas la formule de toutes ces choses et je
-pourrais en parler d’une mauvaise manière. Ils prennent de l’uranium pour le diviser en molécules
-et les molécules brisées pour en faire des atomes. Et que se passe-t-il alors? Cela annihile, détruit
-presque tout ce que nous faisons!
-69 Nous prenons la médecine, mettons cette formule-ci avec cette formule-là pour guérir cela et
-nous nous l’administrons. Et que faisons-nous? Nous détruisons quelque chose d’autre.
-70 Maintenant, je crois que vous avez le Reader’s Digest du mois passé. Il est dit que: «Dans
-l’époque où nous vivons, des jeunes hommes et jeunes femmes atteignent leur maturité entre
+61 Vous pouvez aller lire par exemple… Je vais lire dans Marc 16.17: “Et ce sont ici les signes qui accompagneront ceux qui auront cru: en mon nom ils chasseront les démons; ils parleront de nouvelles langues; ils prendront des serpents; et quand ils auront bu quelque chose de mortel, cela ne leur nuira point; ils imposeront les mains aux infirmes, et ceux-ci se porteront bien”.
+62 A ce moment-là, vous trouverez une personne qui se lève et dit: «Cela, c’était pour l’âge apostolique». Maintenant, immédiatement, si vous avez reçu le Saint-Esprit, vous avez été doté de ce sens et cela vous alarme. Il y a quelque chose de faux là-dedans! Vous voyez? Ils essaient d’expliquer que c’est pour un autre jour, qu’aujourd’hui vous n’avez plus vraiment besoin de ces choses. Mais Jésus a dit: “Ce sont ici les signes qui accompagneront ceux qui auront cru”. Vous voyez, il y a un petit quelque chose en vous qui vous alarme, un petit bourdonnement qui vous fait savoir que c’est faux et que c’est le chemin qui mène à la mort.
+63 Car Jésus a dit: “Si nous ajoutons une parole à la Bible ou si nous Lui retranchons une parole, notre nom est retranché du Livre de Vie”. Vous voyez, pas un mot. Nous devons juste La prendre de la manière dont Elle est écrite. Et Dieu veille sur Sa Parole pour L’accomplir; et nous savons qu’Elle doit être simplement exacte.
+64 Aussi, c’est pourquoi si vous êtes nés de l’Esprit de Dieu, vous devenez une partie de la Bible, qu’importe ce que peut bien dire une église ou quelqu’un d’autre! Dieu a dit à Ezéchiel, qui était un prophète: “Prends ce rouleau et mange-le”. Alors le prophète et le rouleau sont devenus partie intégrante l’un de l’autre. Et c’est ce qu’est le croyant lorsqu’il reçoit le Saint-Esprit; le Saint-Esprit a écrit la Bible et l’Esprit de Dieu est la Parole de Dieu. “Mes Paroles sont Esprit… Au commencement était la Parole, et la Parole était auprès de Dieu et la Parole était Dieu. Et la Parole devint chair et habita au milieu de nous” et dans Hébreux 13.8: “Jésus-Christ est le même, hier, aujourd’hui et éternellement”. Et lorsque vous faites partie de cette Parole, oh, laissez venir quelque chose de contraire à cette Parole et alors [Frère Branham claque des doigts plusieurs fois — N.d.R.] il y a un petit bourdonnement qui vous alarme instantanément. Vous voyez, c’est pour vous avertir que la mort est sur le chemin. Nous ne devrions jamais faire cela.
+65 Ces soifs sont simplement naturelles. Elles sont naturelles pour le chrétien. Elles sont naturelles pour l’être humain.
+66 Il y a aussi une soif pour le succès. Il y a beaucoup de gens aujourd’hui qui cherchent à être enseignés dans cette soif. Nous avons remarqué qu’ils ont commencé d’abord à l’université. Et pour aller là-bas, les gens dépensent des milliers de dollars. Pour envoyer leurs enfants dans ces écoles, dans les universités, les collèges etc… pour avoir une éducation. «Avoir du succès!», ajoutant: «dans la vie». Maintenant, je n’ai rien contre cela, c’est bien. Mais pour moi, vous pourriez avoir toute l’éducation du monde, mais sans pour autant avoir trouvé le véritable succès. C’est vrai, parce que cela va vous rendre temporairement la vie juste un peu plus facile ici bas… Mais lorsque vous mourrez, vous laissez tout cela derrière vous, toute cette civilisation dans laquelle nous vivons.
+67 Je le disais l’autre jour à Phoenix, je me tenais debout et j’ai dit à nouveau: «Toute cette civilisation moderne, tous ces programmes d’éducation, tous ces programmes scientifiques, tout est contraire à la Parole de Dieu et à Sa volonté». La civilisation est absolument… Il n’y aura aucune civilisation comme celle-ci dans le monde à venir. C’est une civilisation pervertie. Dieu avait Sa première civilisation sur terre lorsqu’Il prononça Sa Parole et lorsqu’Elle se réalisa. Chaque semence produisit selon sa propre espèce et dans cette civilisation, il n’y avait pas de mort, de maladie, de peine. Et maintenant, nous prenons les choses qui sont dans le monde scientifique, qui avaient été mises là pour soutenir le tout, et nous les pervertissons en quelque chose qui apporte la mort.
+68 C’est comme la bombe atomique. Je ne connais pas la formule de toutes ces choses et je pourrais en parler d’une mauvaise manière. Ils prennent de l’uranium pour le diviser en molécules et les molécules brisées pour en faire des atomes. Et que se passe-t-il alors? Cela annihile, détruit presque tout ce que nous faisons!
+69 Nous prenons la médecine, mettons cette formule-ci avec cette formule-là pour guérir cela et nous nous l’administrons. Et que faisons-nous? Nous détruisons quelque chose d’autre.
+70 Maintenant, je crois que vous avez le Reader’s Digest du mois passé. Il est dit que: «Dans l’époque où nous vivons, des jeunes hommes et jeunes femmes atteignent leur maturité entre
 
         http://www.cmpp.ch
 
 SOIF 9
-vingt et vingt-cinq ans». Pensez à cela. Des jeunes filles en ménopause à vingt, vingt-deux,
-vingt-trois ans. Vous voyez ce qui est fait, c’est à cause de cette nourriture hybride et de
-toutes ces choses que nous mangeons. Vous voyez, ces choses, cette nourriture et la vie que
-nous menons! Les scientifiques nous l’ont apportée et en le faisant, ils nous tuent.
-71 Je suis allé en Afrique où j’ai vu des garçons qui n’avaient jamais reçu une dose de
-médicament de toute leur vie. Ils mangeaient de la viande qui avait des asticots à l’intérieur. Ils
-buvaient de l’eau d’une mare dont on aurait pu pensé qu’elle aurait pu tuer un boeuf. Je visais une
-cible à deux cents yards et je pouvais à peine la voir avec une paire de jumelles 75… Et un
-homme de mon âge se tenait là, me disant à l’oeil nu où la cible avait été atteinte. Maintenant, si
-toute cette culture moderne a fait quelque chose… Je me suis dit que si j’avais ses yeux et son
-estomac, je serais vraiment un homme accompli. Oui.
-72 Mais nous en sommes là. Vous voyez, nous sommes détruits par la science, l’éducation et la
-civilisation. Nous nous détruisons nous-mêmes. Cela a commencé dans le jardin d’Eden et cela a
-continué jusqu’à aujourd’hui, cependant nous avons toujours soif de succès! Et aussi, soif de
-communion. Nous allons, désirant une communion.
-73 C’est comme un jeune homme et une jeune femme. Maintenant, ce n’est pas nécessaire… Je
-veux dire ce n’est pas contre nature pour un jeune homme d’aimer une jeune femme, de s’aimer
-l’un l’autre. C’est la soif de l’amour. C’est de leur âge. Et ils s’aiment l’un et l’autre. Ce n’est pas
-contre nature, c’est juste une chose naturelle pour eux de le faire.
-74 Maintenant, dans la vie de notre corps naturel, nous découvrons plusieurs choses après
-lesquelles nous avons soif. C’est juste quelque chose qui est en nous. C’est quelque chose que
-nous voulons faire, que nous ressentons comme une absolue nécessité. Et c’est nécessaire que
-nous le fassions.
-75 Nous voyons que de nos jours, beaucoup de femmes ont soif de beauté. Maintenant, il n’y a
-pas une femme… Pour une femme, c’est une chose naturelle que d’avoir soif d’être jolie. C’est
-l’instinct que Dieu lui a donné. C’est la beauté que Dieu lui a donnée pour son compagnon.
-Maintenant, nous voyons que les femmes veulent être de cette façon. Pourquoi cela? C’est juste
-parce que c’est quelque chose que Dieu leur a donné. Et il n’y a rien de mal pour une femme que
-d’être jolie. Elle devrait l’être.
-76 Et vous le savez, ce sont les seules créatures femelles qui sont plus jolies que leurs mâles.
-C’est dans la race humaine. Tous les autres animaux… Prenez la vache en comparaison du
-taureau, la biche et le cerf, la poule et le coq, l’oiseau femelle et l’oiseau mâle, vous trouverez
-toujours que le mâle est grand et beau. Mais dans la race humaine là où la perversion est
-venue, c’est le contraire; la femme est la plus jolie. Et elle est avide d’être belle.
-77 Pas comme quelques-unes de ces créatures bizarres que nous voyons dans les rues
-aujourd’hui; non, non, pas ce type de beauté. Non. Ce sont les choses les plus horribles que j’aie
-jamais vues de ma vie. Certainement. Cela, c’est la perversion pervertissant la véritable soif.
-78 Maintenant, la véritable soif qu’une femme devrait avoir, devrait être selon 1 Timothée 2.9:
-“De même aussi, que les femmes se parent d’un costume décent, avec pudeur et modestie…” et
-qu’elles aient le même Esprit que Christ. C’est cette soif que la femme devrait avoir. Maintenant, si
-vous voulez être jolie, c’est de cette façon que vous serez jolie. Vous voyez, avoir un esprit
-comme Christ et être parée d’un costume décent.
-79 Oh, mes amis, quand on voit ces gens dans les rues aujourd’hui! Vous ne pouvez pas voir la
-différence entre un homme et une femme et c’est la plus horrible chose à voir… Je n’ai jamais vu
-de pareille perversion que celle des êtres humains. Cela va au-delà de l’humain. Des yeux
-maquillés comme cela, vous savez leurs drôles d’yeux en forme de lézard et avec leurs drôles
-d’habits… Et pourquoi cela… Tout cela n’a aucune forme et elles ne ressemblent même pas à des
-êtres humains. Et quelques-uns des garçons, avec leurs cheveux gominés et avec les bigoudis de
-leurs soeurs sur le devant, ici: Savez-vous pourquoi? C’est une complète perversion! C’est vrai.
-C’est satan, satan le pervertisseur.
-80 Lorsque Dieu a créé toute chose dans le jardin d’Eden, tout était beau. Alors satan est
-venu et a tout perverti. Satan ne peut pas créer quelque chose. Il n’y a qu’un seul Créateur, c’est
-Dieu. Mais satan a perverti la création originelle. Et maintenant, il en arrive à pervertir la soif de
-la création originelle. C’est cela dont je veux parler ce soir.
+vingt et vingt-cinq ans». Pensez à cela. Des jeunes filles en ménopause à vingt, vingt-deux, vingt-trois ans. Vous voyez ce qui est fait, c’est à cause de cette nourriture hybride et de toutes ces choses que nous mangeons. Vous voyez, ces choses, cette nourriture et la vie que nous menons! Les scientifiques nous l’ont apportée et en le faisant, ils nous tuent.
+71 Je suis allé en Afrique où j’ai vu des garçons qui n’avaient jamais reçu une dose de médicament de toute leur vie. Ils mangeaient de la viande qui avait des asticots à l’intérieur. Ils buvaient de l’eau d’une mare dont on aurait pu pensé qu’elle aurait pu tuer un boeuf. Je visais une cible à deux cents yards et je pouvais à peine la voir avec une paire de jumelles 75… Et un homme de mon âge se tenait là, me disant à l’oeil nu où la cible avait été atteinte. Maintenant, si toute cette culture moderne a fait quelque chose… Je me suis dit que si j’avais ses yeux et son estomac, je serais vraiment un homme accompli. Oui.
+72 Mais nous en sommes là. Vous voyez, nous sommes détruits par la science, l’éducation et la civilisation. Nous nous détruisons nous-mêmes. Cela a commencé dans le jardin d’Eden et cela a continué jusqu’à aujourd’hui, cependant nous avons toujours soif de succès! Et aussi, soif de communion. Nous allons, désirant une communion.
+73 C’est comme un jeune homme et une jeune femme. Maintenant, ce n’est pas nécessaire… Je veux dire ce n’est pas contre nature pour un jeune homme d’aimer une jeune femme, de s’aimer l’un l’autre. C’est la soif de l’amour. C’est de leur âge. Et ils s’aiment l’un et l’autre. Ce n’est pas contre nature, c’est juste une chose naturelle pour eux de le faire.
+74 Maintenant, dans la vie de notre corps naturel, nous découvrons plusieurs choses après lesquelles nous avons soif. C’est juste quelque chose qui est en nous. C’est quelque chose que nous voulons faire, que nous ressentons comme une absolue nécessité. Et c’est nécessaire que nous le fassions.
+75 Nous voyons que de nos jours, beaucoup de femmes ont soif de beauté. Maintenant, il n’y a pas une femme… Pour une femme, c’est une chose naturelle que d’avoir soif d’être jolie. C’est l’instinct que Dieu lui a donné. C’est la beauté que Dieu lui a donnée pour son compagnon. Maintenant, nous voyons que les femmes veulent être de cette façon. Pourquoi cela? C’est juste parce que c’est quelque chose que Dieu leur a donné. Et il n’y a rien de mal pour une femme que d’être jolie. Elle devrait l’être.
+76 Et vous le savez, ce sont les seules créatures femelles qui sont plus jolies que leurs mâles. C’est dans la race humaine. Tous les autres animaux… Prenez la vache en comparaison du taureau, la biche et le cerf, la poule et le coq, l’oiseau femelle et l’oiseau mâle, vous trouverez toujours que le mâle est grand et beau. Mais dans la race humaine là où la perversion est venue, c’est le contraire; la femme est la plus jolie. Et elle est avide d’être belle.
+77 Pas comme quelques-unes de ces créatures bizarres que nous voyons dans les rues aujourd’hui; non, non, pas ce type de beauté. Non. Ce sont les choses les plus horribles que j’aie jamais vues de ma vie. Certainement. Cela, c’est la perversion pervertissant la véritable soif.
+78 Maintenant, la véritable soif qu’une femme devrait avoir, devrait être selon 1 Timothée 2.9: “De même aussi, que les femmes se parent d’un costume décent, avec pudeur et modestie…” et qu’elles aient le même Esprit que Christ. C’est cette soif que la femme devrait avoir. Maintenant, si vous voulez être jolie, c’est de cette façon que vous serez jolie. Vous voyez, avoir un esprit comme Christ et être parée d’un costume décent.
+79 Oh, mes amis, quand on voit ces gens dans les rues aujourd’hui! Vous ne pouvez pas voir la différence entre un homme et une femme et c’est la plus horrible chose à voir… Je n’ai jamais vu de pareille perversion que celle des êtres humains. Cela va au-delà de l’humain. Des yeux maquillés comme cela, vous savez leurs drôles d’yeux en forme de lézard et avec leurs drôles d’habits… Et pourquoi cela… Tout cela n’a aucune forme et elles ne ressemblent même pas à des êtres humains. Et quelques-uns des garçons, avec leurs cheveux gominés et avec les bigoudis de leurs soeurs sur le devant, ici: Savez-vous pourquoi? C’est une complète perversion! C’est vrai. C’est satan, satan le pervertisseur.
+80 Lorsque Dieu a créé toute chose dans le jardin d’Eden, tout était beau. Alors satan est venu et a tout perverti. Satan ne peut pas créer quelque chose. Il n’y a qu’un seul Créateur, c’est Dieu. Mais satan a perverti la création originelle. Et maintenant, il en arrive à pervertir la soif de la création originelle. C’est cela dont je veux parler ce soir.
 
         http://www.cmpp.ch
 
 SOIF 10
-81 Maintenant, comme je l’ai dit avant, une femme souhaite être belle. Il y a quelque chose en
-elle qui est féminin et elle veut être belle.
-82 Mais celles qui sont aujourd’hui dans la rue, avec leurs cheveux coupés, comme les hommes
-et avec leurs vêtements d’homme…et les hommes font le contraire, portent des vêtements de
-femme et portent les cheveux longs comme les femmes. Vous voyez, toute cette chose, c’est de
-la perversion! Votre nourriture est pervertie. Votre vie est pervertie. Votre soif est pervertie.
-Vos désirs sont pervertis. C’est un jour de perversion!
-83 Je parlais ici, sur l’Eden de satan, il n’y a pas si longtemps. Dieu a mis six mille ans pour faire
-un jardin d’Eden parfait. Satan est venu, a vaporisé sur les semences et les a déformées.
-Maintenant, après six mille ans il a son propre Eden scientifique par la perversion de ce qui était
-juste.
-84 Et c’est l’âge de l’hybridation, hybridation! Ils ont même touché les églises, à un point tel
-qu’elles sont hybrides aujourd’hui. C’est vrai. Ils y sont arrivés, ils vont à l’église… C’est une loge
-plutôt qu’une église. Une église est une place où les gens se rassemblent pour adorer Dieu
-en Esprit et en Vérité. Et aujourd’hui, c’est une loge. Nous allons là-bas et passons un moment à
-serrer les mains et à être en communion autour d’un café noir à l’arrière du bâtiment. Ensuite,
-nous retournons à la maison jusqu’à la semaine suivante et nous avons fait notre devoir religieux.
-85 Maintenant, c’est un âge perverti. Et satan pervertit ces soifs que Dieu avait mises en
-vous pour qu’Il y réponde. Satan les pervertit. Maintenant, si vous voulez connaître la véritable
-perversion…
-86 Vous, les femmes, si vous voulez être belles, prenez 1 Timothée 2.9: “De même aussi, que
-les femmes se parent d’un costume décent, avec pudeur et modestie, et non pas de tresse et d’or
-ou de perles ou d’habillement somptueux, mais de bonnes oeuvres, ce qui sied à des femmes qui
-font profession de servir Dieu…” sont assujetties à leur mari et ainsi de suite. C’est ainsi que
-vous devriez vous parer dans la vie que vous menez.
-87 Il pervertit la véritable nature de Dieu et la véritable soif de Dieu, du corps et de l’âme, par le
-désir du péché. Le péché est une perversion! Maintenant, nous voyons aujourd’hui la manière
-dont ils ont pris cette perversion. Une personne aujourd’hui, au lieu d’avoir la soif de Dieu, a la soif
-d’être belle et de toutes ces autres soifs, parce qu’elle se satisfait en buvant de cette eau-là.
-La soif de la joie; chacun veut avoir de la joie; la soif de la communion; toutes ces grandes soifs
-que Dieu a mises en nous afin que nous puissions avoir soif de Lui. Dieu vous a fait avoir soif de
-Lui et nous essayons de satisfaire cette soif par une perversion de la vraie soif. Voyez comment
-cela se passe dans le monde naturel! Regardez comment cela se passe dans le monde spirituel!
-Nous pensons qu’en joignant une église, cela règle le problème et que c’est tout ce que nous
-avons à faire. Eh bien non! C’est absolument faux.
-88 Dieu veut que nous ayons soif de Lui! “Comme la biche soupire après les courants d’eau,
-mon âme soupire après toi, ô Dieu”. Vous voyez?
-89 Maintenant, si quelqu’un vient à côté de cette biche qui soupire après les courants d’eau et lui
-dit: «Eh, je vais te dire ce que tu pourrais faire. Je connais un trou plein de boue par là». Eh bien,
-la biche ne voudra pas de cela car elle sait que cela ne lui fera pas du bien.
-90 Et il n’y a rien qui ne puisse satisfaire cette soif qui est dans l’être humain jusqu’à ce que
-Dieu entre en lui. Il doit L’avoir ou mourir. Et personne n’a le droit d’essayer de taire cette soif ou
-de satisfaire cette sainte soif qui est en lui par les choses du monde. Certainement pas. C’est
-impie de faire cela. Et si vous avez soif de Dieu, ne serrez pas la main du prédicateur et
-n’inscrivez pas votre nom dans leur registre. Si vous avez soif de Dieu, il n’y a qu’une seule
-possibilité pour la satisfaire. C’est de rencontrer Dieu. Si vous avez soif de Dieu, le seul
-chemin, c’est de Le rencontrer. Faites cela.
-91 Et alors là, il y a aussi un grand danger, si vous ne regardez pas ce que vous faites à ce
-moment-là. Si vous avez soif de Dieu, soyez certain que c’est Dieu que vous trouverez. Soyez
-certain que c’est votre soif qui est satisfaite. Mais si satan a réussi à vous pervertir, et il le fait s’il
-le peut, il essaiera simplement de satisfaire vos appétits naturels.
-92 Qu’est-ce qui rend soûl un homme qui sort? C’est parce qu’il est en souci et qu’il est déchiré
-intérieurement. Il y a quelque chose qui manque en lui.
+81 Maintenant, comme je l’ai dit avant, une femme souhaite être belle. Il y a quelque chose en elle qui est féminin et elle veut être belle.
+82 Mais celles qui sont aujourd’hui dans la rue, avec leurs cheveux coupés, comme les hommes et avec leurs vêtements d’homme…et les hommes font le contraire, portent des vêtements de femme et portent les cheveux longs comme les femmes. Vous voyez, toute cette chose, c’est de la perversion! Votre nourriture est pervertie. Votre vie est pervertie. Votre soif est pervertie. Vos désirs sont pervertis. C’est un jour de perversion!
+83 Je parlais ici, sur l’Eden de satan, il n’y a pas si longtemps. Dieu a mis six mille ans pour faire un jardin d’Eden parfait. Satan est venu, a vaporisé sur les semences et les a déformées. Maintenant, après six mille ans il a son propre Eden scientifique par la perversion de ce qui était juste.
+84 Et c’est l’âge de l’hybridation, hybridation! Ils ont même touché les églises, à un point tel qu’elles sont hybrides aujourd’hui. C’est vrai. Ils y sont arrivés, ils vont à l’église… C’est une loge plutôt qu’une église. Une église est une place où les gens se rassemblent pour adorer Dieu en Esprit et en Vérité. Et aujourd’hui, c’est une loge. Nous allons là-bas et passons un moment à serrer les mains et à être en communion autour d’un café noir à l’arrière du bâtiment. Ensuite, nous retournons à la maison jusqu’à la semaine suivante et nous avons fait notre devoir religieux.
+85 Maintenant, c’est un âge perverti. Et satan pervertit ces soifs que Dieu avait mises en vous pour qu’Il y réponde. Satan les pervertit. Maintenant, si vous voulez connaître la véritable perversion…
+86 Vous, les femmes, si vous voulez être belles, prenez 1 Timothée 2.9: “De même aussi, que les femmes se parent d’un costume décent, avec pudeur et modestie, et non pas de tresse et d’or ou de perles ou d’habillement somptueux, mais de bonnes oeuvres, ce qui sied à des femmes qui font profession de servir Dieu…” sont assujetties à leur mari et ainsi de suite. C’est ainsi que vous devriez vous parer dans la vie que vous menez.
+87 Il pervertit la véritable nature de Dieu et la véritable soif de Dieu, du corps et de l’âme, par le désir du péché. Le péché est une perversion! Maintenant, nous voyons aujourd’hui la manière dont ils ont pris cette perversion. Une personne aujourd’hui, au lieu d’avoir la soif de Dieu, a la soif d’être belle et de toutes ces autres soifs, parce qu’elle se satisfait en buvant de cette eau-là. La soif de la joie; chacun veut avoir de la joie; la soif de la communion; toutes ces grandes soifs que Dieu a mises en nous afin que nous puissions avoir soif de Lui. Dieu vous a fait avoir soif de Lui et nous essayons de satisfaire cette soif par une perversion de la vraie soif. Voyez comment cela se passe dans le monde naturel! Regardez comment cela se passe dans le monde spirituel! Nous pensons qu’en joignant une église, cela règle le problème et que c’est tout ce que nous avons à faire. Eh bien non! C’est absolument faux.
+88 Dieu veut que nous ayons soif de Lui! “Comme la biche soupire après les courants d’eau, mon âme soupire après toi, ô Dieu”. Vous voyez?
+89 Maintenant, si quelqu’un vient à côté de cette biche qui soupire après les courants d’eau et lui dit: «Eh, je vais te dire ce que tu pourrais faire. Je connais un trou plein de boue par là». Eh bien, la biche ne voudra pas de cela car elle sait que cela ne lui fera pas du bien.
+90 Et il n’y a rien qui ne puisse satisfaire cette soif qui est dans l’être humain jusqu’à ce que Dieu entre en lui. Il doit L’avoir ou mourir. Et personne n’a le droit d’essayer de taire cette soif ou de satisfaire cette sainte soif qui est en lui par les choses du monde. Certainement pas. C’est impie de faire cela. Et si vous avez soif de Dieu, ne serrez pas la main du prédicateur et n’inscrivez pas votre nom dans leur registre. Si vous avez soif de Dieu, il n’y a qu’une seule possibilité pour la satisfaire. C’est de rencontrer Dieu. Si vous avez soif de Dieu, le seul chemin, c’est de Le rencontrer. Faites cela.
+91 Et alors là, il y a aussi un grand danger, si vous ne regardez pas ce que vous faites à ce moment-là. Si vous avez soif de Dieu, soyez certain que c’est Dieu que vous trouverez. Soyez certain que c’est votre soif qui est satisfaite. Mais si satan a réussi à vous pervertir, et il le fait s’il le peut, il essaiera simplement de satisfaire vos appétits naturels.
+92 Qu’est-ce qui rend soûl un homme qui sort? C’est parce qu’il est en souci et qu’il est déchiré intérieurement. Il y a quelque chose qui manque en lui.
 
         http://www.cmpp.ch
 
 SOIF 11
-93 Je suis allé à la clinique Mayo il n’y a pas si longtemps. J’étais là-bas pour un interview. Et
-nous avons parlé de la boisson et je leur ai dit que mon père buvait. Le docteur a dit: «Qu’est ce
-qui le faisait boire?». J’ai répondu: «Je ne sais pas».
-94 Il a dit: «Est-ce que c’est parce qu’il y avait quelque chose qu’il n’arrivait pas à satisfaire et
-qu’il pensait qu’en buvant cela libérerait son esprit?».
-95 Je l’ai compris à ce moment-là. Vous voyez! La seule chose qui pouvait satisfaire cette soif,
-c’était vraiment Dieu. Dieu Lui-même est la seule chose qui puisse satisfaire cette soif humaine.
-Accepter Dieu.
-96 Maintenant, comme je l’ai dit, satan prend les choses pour les pervertir. Alors, si vous êtes…
-Si vous ne voulez pas donner à cette soif sa juste place dans votre vie et si vous ne voulez pas
-avoir soif de ces choses que Dieu a prévues pour stopper cette soif, pour l’étancher, alors
-satan vous conduira vers une de ces fosses sceptiques stagnantes de ce monde. Vous devez
-l’obtenir quelque part. Si vous ne trouviez pas de nourriture, est-ce que vous mangeriez des
-détritus? Mais si vous ne trouviez pas d’eau, vous accepteriez de boire à n’importe quelle mare
-parce que vous êtes en train de périr.
-97 Mais il n’y a aucune raison pour cela lorsque vous avez soif de Dieu parce que Dieu est le
-Dieu vivant, pas un quelque chose historique. “Mon âme soupire après Toi, le Dieu vivant”.
-Quelqu’un qui donne des eaux de vie, Quelque chose qui satisfait.
-98 Il y a une autre chose naturelle, c’est la soif naturelle, c’est la soif de notre âme. Vous
-pourriez dire: «Frère Branham, est-ce que la soif de l’âme est naturelle?». Oui, c’est naturel pour
-une âme d’avoir soif. Et c’est Dieu qui vous a fait de cette manière afin que vous ayez soif de Lui.
-Il veut que vous ayez soif de Lui. Maintenant, Dieu vous fait comme cela. Il n’avait pas besoin de
-vous faire comme cela, mais Il l’a fait. Et s’Il ne vous avait pas fait comme cela, pour avoir cette
-soif, vous auriez une excuse à la barre du jugement! Vous auriez pu dire: «Je n’ai jamais eu soif
-de Dieu». Mais il n’y a aucune excuse pour que vous le fassiez! Vous essayez cependant de
-répondre à cette soif avec votre femme, avec votre voiture, avec n’importe quoi. Vous pouviez
-aller à l’église pour essayer de la satisfaire. Et je n’ai rien contre le fait que vous alliez à l’église,
-mais ce n’est pas par cela que vous allez satisfaire cette soif. C’est en trouvant Dieu, le Dieu
-vivant, le Dieu du ciel dans votre âme qui satisfait cette soif et cette attente que vous avez
-maintenant.
-99 Car Il vous a fait ainsi afin que vous puissiez avoir soif de Lui, de la communion avec Lui.
-Maintenant, il y a une véritable soif pour la communion. Nous aimons nous rencontrer. Nous
-faisons cela ce soir. Nous nous réunissons ici ce soir parce que nous voulons avoir communion
-les uns avec les autres. Pourquoi faisons-nous cela? Parce qu’il y a quelque chose en nous qui
-veut que nous nous rencontrions. C’est simplement naturel. Et maintenant ici, nous sommes sur
-un lieu commun parce que nous avons tous soif de Dieu. Vous voyez? Et ensuite, nous nous
-rencontrons ici conventionnellement sur cette base mutuelle de la communion. Ici, ce soir dans
-cette église, nous pouvons avoir bien des vues dénominationnelles différentes et ainsi de suite,
-mais lorsqu’on en vient à cette soif, nous nous retrouvons sur un terrain commun, un seul terrain:
-nous avons tous soif. Quelques-uns peuvent croire à l’aspersion, d’autres dans le baptême ou
-d’autres encore à l’arrosage et ainsi de suite. Mais lorsqu’on en vient à la soif de Dieu, nous
-sommes en terrain commun. Et Dieu nous a fait ainsi afin que nous éprouvions cela, avoir soif
-de Lui et rechercher Sa communion. Je ne connais rien…
-100 Je me rappelle que lorsque j’étais un petit garçon, j’ai été élevé dans une famille très pauvre.
-Et je me rappelle que bien des fois, je voulais sortir avec des copains. Je ne pouvais pas
-m’habiller décemment comme eux pour aller dans cet endroit. Mais il y avait quelque chose que
-j’aimais à propos des gens. J’aimais être avec les gens. Mais j’étais plus ou moins ce que nous
-appelons un mouton noir. Et quand j’ai été sauvé, j’ai trouvé ce Quelque chose dont mon
-intérieur avait soif: un Ami. Quelqu’un qui serait un ami pour moi, Quelqu’un à qui je pourrais
-faire confiance. Quelqu’un avec qui vous pouvez vous arrêter et parler de vos difficultés. J’ai
-trouvé cette réelle, véritable satisfaction lorsque j’ai rencontré Jésus-Christ, ce réel et véritable
-«Tout Suffisant» qui enlève tout, qui étanche toutes les soifs et qui vous donne quelque
-chose dont il semble que rien d’autre ne puisse prendre Sa place.
-101 Et maintenant, de quelle façon satan essaie-t-il de pervertir cette satisfaction de l’âme? Il
-essaie de tout vous donner pour la satisfaire. Et il est tellement trompeur en ces jours de
+93 Je suis allé à la clinique Mayo il n’y a pas si longtemps. J’étais là-bas pour un interview. Et nous avons parlé de la boisson et je leur ai dit que mon père buvait. Le docteur a dit: «Qu’est ce qui le faisait boire?». J’ai répondu: «Je ne sais pas».
+94 Il a dit: «Est-ce que c’est parce qu’il y avait quelque chose qu’il n’arrivait pas à satisfaire et qu’il pensait qu’en buvant cela libérerait son esprit?».
+95 Je l’ai compris à ce moment-là. Vous voyez! La seule chose qui pouvait satisfaire cette soif, c’était vraiment Dieu. Dieu Lui-même est la seule chose qui puisse satisfaire cette soif humaine. Accepter Dieu.
+96 Maintenant, comme je l’ai dit, satan prend les choses pour les pervertir. Alors, si vous êtes… Si vous ne voulez pas donner à cette soif sa juste place dans votre vie et si vous ne voulez pas avoir soif de ces choses que Dieu a prévues pour stopper cette soif, pour l’étancher, alors satan vous conduira vers une de ces fosses sceptiques stagnantes de ce monde. Vous devez l’obtenir quelque part. Si vous ne trouviez pas de nourriture, est-ce que vous mangeriez des détritus? Mais si vous ne trouviez pas d’eau, vous accepteriez de boire à n’importe quelle mare parce que vous êtes en train de périr.
+97 Mais il n’y a aucune raison pour cela lorsque vous avez soif de Dieu parce que Dieu est le Dieu vivant, pas un quelque chose historique. “Mon âme soupire après Toi, le Dieu vivant”. Quelqu’un qui donne des eaux de vie, Quelque chose qui satisfait.
+98 Il y a une autre chose naturelle, c’est la soif naturelle, c’est la soif de notre âme. Vous pourriez dire: «Frère Branham, est-ce que la soif de l’âme est naturelle?». Oui, c’est naturel pour une âme d’avoir soif. Et c’est Dieu qui vous a fait de cette manière afin que vous ayez soif de Lui. Il veut que vous ayez soif de Lui. Maintenant, Dieu vous fait comme cela. Il n’avait pas besoin de vous faire comme cela, mais Il l’a fait. Et s’Il ne vous avait pas fait comme cela, pour avoir cette soif, vous auriez une excuse à la barre du jugement! Vous auriez pu dire: «Je n’ai jamais eu soif de Dieu». Mais il n’y a aucune excuse pour que vous le fassiez! Vous essayez cependant de répondre à cette soif avec votre femme, avec votre voiture, avec n’importe quoi. Vous pouviez aller à l’église pour essayer de la satisfaire. Et je n’ai rien contre le fait que vous alliez à l’église, mais ce n’est pas par cela que vous allez satisfaire cette soif. C’est en trouvant Dieu, le Dieu vivant, le Dieu du ciel dans votre âme qui satisfait cette soif et cette attente que vous avez maintenant.
+99 Car Il vous a fait ainsi afin que vous puissiez avoir soif de Lui, de la communion avec Lui. Maintenant, il y a une véritable soif pour la communion. Nous aimons nous rencontrer. Nous faisons cela ce soir. Nous nous réunissons ici ce soir parce que nous voulons avoir communion les uns avec les autres. Pourquoi faisons-nous cela? Parce qu’il y a quelque chose en nous qui veut que nous nous rencontrions. C’est simplement naturel. Et maintenant ici, nous sommes sur un lieu commun parce que nous avons tous soif de Dieu. Vous voyez? Et ensuite, nous nous rencontrons ici conventionnellement sur cette base mutuelle de la communion. Ici, ce soir dans cette église, nous pouvons avoir bien des vues dénominationnelles différentes et ainsi de suite, mais lorsqu’on en vient à cette soif, nous nous retrouvons sur un terrain commun, un seul terrain: nous avons tous soif. Quelques-uns peuvent croire à l’aspersion, d’autres dans le baptême ou d’autres encore à l’arrosage et ainsi de suite. Mais lorsqu’on en vient à la soif de Dieu, nous sommes en terrain commun. Et Dieu nous a fait ainsi afin que nous éprouvions cela, avoir soif de Lui et rechercher Sa communion. Je ne connais rien…
+100 Je me rappelle que lorsque j’étais un petit garçon, j’ai été élevé dans une famille très pauvre. Et je me rappelle que bien des fois, je voulais sortir avec des copains. Je ne pouvais pas m’habiller décemment comme eux pour aller dans cet endroit. Mais il y avait quelque chose que j’aimais à propos des gens. J’aimais être avec les gens. Mais j’étais plus ou moins ce que nous appelons un mouton noir. Et quand j’ai été sauvé, j’ai trouvé ce Quelque chose dont mon intérieur avait soif: un Ami. Quelqu’un qui serait un ami pour moi, Quelqu’un à qui je pourrais faire confiance. Quelqu’un avec qui vous pouvez vous arrêter et parler de vos difficultés. J’ai trouvé cette réelle, véritable satisfaction lorsque j’ai rencontré Jésus-Christ, ce réel et véritable «Tout Suffisant» qui enlève tout, qui étanche toutes les soifs et qui vous donne quelque chose dont il semble que rien d’autre ne puisse prendre Sa place.
+101 Et maintenant, de quelle façon satan essaie-t-il de pervertir cette satisfaction de l’âme? Il essaie de tout vous donner pour la satisfaire. Et il est tellement trompeur en ces jours de
 
         http://www.cmpp.ch
 
@@ -901,291 +565,79 @@ pu rétrograder dans la honte. Aussi, certainement, elle n’a pas été bâtie 
             http://www.cmpp.ch
 
 SOIF 17
-«petite pierre». Les protestants disent: «Il l’a bâtie sur Lui-même, Jésus-Christ». Ce n’est pas pour
-être différent, mais je ne suis pas d’accord avec eux. Il ne l’a jamais bâtie sur l’un ou sur l’autre.
-151 Il l’a bâtie sur la révélation de Qui Il était. Il a dit: “Béni sois-tu Simon, fils de Jonas, ce
-n’est pas la chair et le sang qui t’ont révélé cela, mais c’est Mon Père qui est dans les Cieux qui
-te l’a révélé”. Pas par la connaissance! Vous ne l’avez pas appris par les livres. Vous ne l’avez
-pas appris en joignant une église. Vous ne l’avez pas appris dans les boutiques. Vous ne l’avez
-pas appris ainsi! Mais le Saint-Esprit Lui-même vous a amené à la Personne de Jésus-Christ.
-Alors “sur ce Roc, je bâtirai mon église et les portes de l’enfer ne prévaudront point contre elle”.
-Cette sainte soif a été satisfaite dans la Personne de Jésus-Christ. Nous y voilà. C’est la
-chose que nous voulons chercher afin de satisfaire avec cela cette soif. D’accord? Nous estimons
-que nous devons le faire.
-152 La connaissance? Oh, mes amis, la connaissance, c’est une grande chose qui nous remplit.
-Et aujourd’hui, nous en sommes remplis. Mais vous savez, la connaissance… comme je le disais
-l’autre jour, lorsque je parlais à propos de la connaissance, il y avait un homme qui se tenait
-dehors et qui parlait à l’un de mes amis et qui disait: «Si un homme ne croit pas dans l’éducation,
-alors, pourquoi lit-il la Bible?».
-153 J’ai pensé: «Eh bien, ils n’ont pas compris ce que le Seigneur Jésus disait, comment vont-ils
-laisser un idiot comme moi dire ce que je dis?». Ils ne pouvaient même pas Le comprendre, aussi
-clair qu’Il fut!
-154 Il a dit là-bas un jour: “A moins que vous ne mangiez la Chair et que vous ne buviez le Sang
-du Fils de l’homme, vous n’avez pas la Vie en vous”. Il ne L’a pas expliqué. Il a passé Son
-chemin. C’est vrai. Vous voyez?
-155 Eh bien, ils ont dit: “Cet homme est un cannibale. Il veut que nous mangions Son corps et
-que nous buvions Son sang. C’est un vampire. Vous voyez. Il veut que nous devenions des
-vampires”. Vous voyez ces intellectuels!
-156 Mais Il a dit: “Mes brebis entendent Ma Voix”. “Elle sera entendue de Mes Elus”. Dieu les a
-élus par prescience. “Et ceux que le Père… Personne ne peut venir à Moi, si ce n’est le Père qui
-l’attire. Et tous ceux que le Père m’a donnés viendront et La comprendront”.
-157 Ses disciples ne pouvaient pas La comprendre, mais ils La croyaient. Vous voyez, c’est vrai si
-vous La croyez! Il y a beaucoup de choses que je ne peux pas comprendre. Je La crois, de
-toute façon, parce que Dieu a dit que c’était ainsi.
-158 Le savoir, vous savez que l’évangile de satan, c’est le savoir. Saviez-vous cela? Il l’a prêché à
-Eve dans le jardin d’Eden et elle a été trompée par son évangile du savoir. Maintenant, il a
-pollué toute la race humaine avec cela. C’est l’exacte vérité. Ils ont pris les programmes
-éducationnels et les ont mis dans l’église. Cela passe bien là-dehors, mais pas dans la Parole de
-Dieu. Certainement pas. Vous ne connaissez pas Dieu au moyen de l’éducation. Vous ne
-connaissez pas Dieu en apprenant comment faire les mathématiques ou comment prononcer de
-grands mots.
-159 Paul était un homme intelligent. Mais lorsqu’il vint à Christ et qu’il reçut le Saint-Esprit, il est
-allé chez les Corinthiens et a dit: “Et moi-même, quand je suis allé auprès de vous, frères, je ne
-suis pas allé avec excellence de parole ou de sagesse humaine”, alors qu’il aurait bien pu le faire.
-Il a dit: “… et ma parole et ma prédication n’ont pas été en paroles persuasives de sagesse, mais
-en démonstration de l’Esprit et de puissance, afin que votre foi ne repose pas sur la
-sagesse des hommes, mais sur la puissance de Dieu”.
-160 Maintenant, ils font parfois des programmes pour les églises; ils font des appels pour leurs
-pasteurs. Les membres d’église vont voter pour leur pasteur. Ils disent: «Eh bien, ce pasteur, il a
-deux licences du collège. Il a étudié la psychologie pendant quatre ans. L’autre a fait ceci et cela».
-Et ils votent pour cette sorte d’homme. Pourquoi? Au lieu de choisir un pasteur qui croit en la
-Parole de Dieu, étant inspiré par Dieu et qui prêche la Parole sans tenir compte de ce que les
-gens ressentent à son sujet.
-161 Dieu, vous savez, a donné l’ordre à Ezéchiel: “Prêche la Parole, qu’ils La croient ou non. Tu
-La prêcheras de toute façon”. Vous voyez, exactement. Qu’ils L’acceptent ou non, c’est du pareil
-au même. Ils n’ont pas accepté Jésus mais Il a continué à La prêcher de la même manière.
-
+«petite pierre». Les protestants disent: «Il l’a bâtie sur Lui-même, Jésus-Christ». Ce n’est pas pour être différent, mais je ne suis pas d’accord avec eux. Il ne l’a jamais bâtie sur l’un ou sur l’autre.
+151 Il l’a bâtie sur la révélation de Qui Il était. Il a dit: “Béni sois-tu Simon, fils de Jonas, ce n’est pas la chair et le sang qui t’ont révélé cela, mais c’est Mon Père qui est dans les Cieux qui te l’a révélé”. Pas par la connaissance! Vous ne l’avez pas appris par les livres. Vous ne l’avez pas appris en joignant une église. Vous ne l’avez pas appris dans les boutiques. Vous ne l’avez pas appris ainsi! Mais le Saint-Esprit Lui-même vous a amené à la Personne de Jésus-Christ. Alors “sur ce Roc, je bâtirai mon église et les portes de l’enfer ne prévaudront point contre elle”. Cette sainte soif a été satisfaite dans la Personne de Jésus-Christ. Nous y voilà. C’est la chose que nous voulons chercher afin de satisfaire avec cela cette soif. D’accord? Nous estimons que nous devons le faire.
+152 La connaissance? Oh, mes amis, la connaissance, c’est une grande chose qui nous remplit. Et aujourd’hui, nous en sommes remplis. Mais vous savez, la connaissance… comme je le disais l’autre jour, lorsque je parlais à propos de la connaissance, il y avait un homme qui se tenait dehors et qui parlait à l’un de mes amis et qui disait: «Si un homme ne croit pas dans l’éducation, alors, pourquoi lit-il la Bible?».
+153 J’ai pensé: «Eh bien, ils n’ont pas compris ce que le Seigneur Jésus disait, comment vont-ils laisser un idiot comme moi dire ce que je dis?». Ils ne pouvaient même pas Le comprendre, aussi clair qu’Il fut!
+154 Il a dit là-bas un jour: “A moins que vous ne mangiez la Chair et que vous ne buviez le Sang du Fils de l’homme, vous n’avez pas la Vie en vous”. Il ne L’a pas expliqué. Il a passé Son chemin. C’est vrai. Vous voyez?
+155 Eh bien, ils ont dit: “Cet homme est un cannibale. Il veut que nous mangions Son corps et que nous buvions Son sang. C’est un vampire. Vous voyez. Il veut que nous devenions des vampires”. Vous voyez ces intellectuels!
+156 Mais Il a dit: “Mes brebis entendent Ma Voix”. “Elle sera entendue de Mes Elus”. Dieu les a élus par prescience. “Et ceux que le Père… Personne ne peut venir à Moi, si ce n’est le Père qui l’attire. Et tous ceux que le Père m’a donnés viendront et La comprendront”.
+157 Ses disciples ne pouvaient pas La comprendre, mais ils La croyaient. Vous voyez, c’est vrai si vous La croyez! Il y a beaucoup de choses que je ne peux pas comprendre. Je La crois, de toute façon, parce que Dieu a dit que c’était ainsi.
+158 Le savoir, vous savez que l’évangile de satan, c’est le savoir. Saviez-vous cela? Il l’a prêché à Eve dans le jardin d’Eden et elle a été trompée par son évangile du savoir. Maintenant, il a pollué toute la race humaine avec cela. C’est l’exacte vérité. Ils ont pris les programmes éducationnels et les ont mis dans l’église. Cela passe bien là-dehors, mais pas dans la Parole de Dieu. Certainement pas. Vous ne connaissez pas Dieu au moyen de l’éducation. Vous ne connaissez pas Dieu en apprenant comment faire les mathématiques ou comment prononcer de grands mots.
+159 Paul était un homme intelligent. Mais lorsqu’il vint à Christ et qu’il reçut le Saint-Esprit, il est allé chez les Corinthiens et a dit: “Et moi-même, quand je suis allé auprès de vous, frères, je ne suis pas allé avec excellence de parole ou de sagesse humaine”, alors qu’il aurait bien pu le faire. Il a dit: “… et ma parole et ma prédication n’ont pas été en paroles persuasives de sagesse, mais en démonstration de l’Esprit et de puissance, afin que votre foi ne repose pas sur la sagesse des hommes, mais sur la puissance de Dieu”.
+160 Maintenant, ils font parfois des programmes pour les églises; ils font des appels pour leurs pasteurs. Les membres d’église vont voter pour leur pasteur. Ils disent: «Eh bien, ce pasteur, il a deux licences du collège. Il a étudié la psychologie pendant quatre ans. L’autre a fait ceci et cela». Et ils votent pour cette sorte d’homme. Pourquoi? Au lieu de choisir un pasteur qui croit en la Parole de Dieu, étant inspiré par Dieu et qui prêche la Parole sans tenir compte de ce que les gens ressentent à son sujet.
+161 Dieu, vous savez, a donné l’ordre à Ezéchiel: “Prêche la Parole, qu’ils La croient ou non. Tu La prêcheras de toute façon”. Vous voyez, exactement. Qu’ils L’acceptent ou non, c’est du pareil au même. Ils n’ont pas accepté Jésus mais Il a continué à La prêcher de la même manière.
 
     http://www.cmpp.ch
 
 SOIF 18
-162 Au lieu d’un véritable pasteur qui prêche vraiment la Parole et croit en Dieu, ils essaient
-d’apporter l’intellectuel, l’homme qui a la meilleure éducation; l’homme qui peut se tenir à la chaire
-sans prendre beaucoup de temps, peut-être juste quinze minutes, ainsi ils peuvent rentrer
-rapidement à la maison et faire quelque chose d’autre. Ricky peut prendre sa belle voiture et
-démarrer. Ils peuvent aller twister dans les parties et tout cela. Oh, ce n’est rien d’autre qu’une
-éducation hybride qui pollue. C’est vrai. C’est exactement ce que c’est. C’est vrai. Mais qu’est-ce
-que cela fait? Cela satisfait leur goût, vous voyez. Cela satisfait le goût d’un membre d’une église
-mondaine. Cela ne satisfait pas le goût d’un saint. Il prendrait la Parole à chaque fois!
-163 Mais ils disent: «Eh bien, ces gens sont juste un peu hors de leur sens. Vous voyez, ils ne le
-comprennent pas. Ils essaient de vivre dans un jour passé».
-164 N’est-ce pas étrange? Lorsque je viens dans l’Ouest, je trouve qu’ils essaient de vivre comme
-dans les jours anciens, ils veulent toujours vivre comme au temps des cow-boys. Et lorsque je
-viens dans le Kentucky, comme dans les jours du «Hillbilly». Ils veulent faire comme cela, ont des
-programmes comme cela. Mais lorsqu’on en vient à la bonne vieille religion, ils ne veulent rien
-savoir à ce sujet.
-165 Au bon vieux temps? Je suis venu ici au moment du rodéo. J’ai vu là une grosse femme avec
-cette peinture verte sous les yeux et ses cheveux coupés, une cigarette dans la bouche.
-Pourquoi? S’ils avaient vu cela dans le passé, ils auraient pensé qu’il lui manquait quelque chose
-quelque part. Ils l’auraient enfermée. Que se serait-il passé si votre mère était sortie habillée
-comme vous et votre fille aujourd’hui? Que se serait-il passé? Ils l’auraient mise dans un asile de
-fou. C’est certain. C’est comme si elle était sortie sans mettre sa jupe. Eh bien, rappelez-vous que
-c’est la même chose aujourd’hui.
-166 L’homme est en train de pourrir dans sa chair. S’ils ont déjà la ménopause ou l’andropause
-entre vingt et vingt cinq ans, c’est que les cellules de leur cerveau se dégénèrent également. Les
-gens sont arrivés au point où ils n’ont pas assez de compréhension. Ils ne savent pas ce que le
-mot décence veut dire. Ils ne connaissent pas la différence entre ce qui est juste et ce qui
-est faux. Et avec leurs programmes éducationnels, ils…
-167 Saviez-vous que l’éducation vient du diable? Je peux vous le prouver. Non pas lire ou écrire,
-je veux dire lorsqu’ils mettent leur façon de faire dans votre église.
-168 Sur quelles bases repose le communisme? La science, l’éducation, c’est cela leur dieu. Vous
-voyez, satan a introduit cela auprès d’Eve. C’est ce à quoi ils s’accrochent encore.
-169 Maintenant, c’est arrivé dans nos églises, cela a passé chez les baptistes, les méthodistes et
-les presbytériens, les pentecôtistes et dans toutes les dénominations. Une éducation intellectuelle,
-quelques grands «ceci et cela» et quelque chose comme cela qui vous jette encore plus loin de
-Dieu. C’est faux. Certainement. Maintenant, nous découvrons que cela satisfait leurs désirs.
-Lorsqu’une église en vient à voter pour quelque chose comme cela, cela montre ce que l’église a
-en tête, ce que leurs désirs sont et quelle est la soif qu’ils essaient d’étancher. Ils aiment dire:
-«Notre pasteur est large d’esprit. Cela ne lui fait rien que nous ayons des bains mixtes, et il vient
-avec nous».
-170 Une petite fille a dit l’autre jour à ma Sarah que son pasteur était allé en Afrique et lorsqu’il
-est revenu, elle a dansé le watusi pour lui, pour l’amuser, du fait qu’il était allé en Afrique. Ce
-soir-là, elle avait enlevé ses habits et avait dansé avec une paire de collants. Les Watusis sont
-une tribu de là-bas, vous savez. Ah, mes amis, j’aimerais voir une de mes filles, dans mon
-assemblée, essayer de faire quelque chose comme cela, danser le watusi!!
-171 Vous voyez, on en vient au spectacle! Et un pasteur s’assied et regarde à l’une des petites
-filles de son assemblée (seize ou dix-huit ans), enlevant ses habits comme cela et la laissant
-continuer à se dénuder. Cela montre qu’il vient lui-même d’une fosse sceptique. C’est certain. Un
-homme de Dieu faisant une chose pareille!
-172 Cela semble banal, mais je réalise que je prêche aussi à travers la nation. Mais vous savez
-cela aussi, frères et soeurs. Laissez-moi vous dire que c’est la Vérité.
-173 Un vautour veut des choses mortes. C’est vrai. Et cela, c’est la mort! C’est vraiment la
-vérité. Cela montre pleinement, cela montre clairement ici qui est leur tête et quelle est leur tour
-de contrôle. Ce qu’elle leur donne. Vous voyez, ce qui est dans leur âme. Leur âme se languit de
-telles choses.
+162 Au lieu d’un véritable pasteur qui prêche vraiment la Parole et croit en Dieu, ils essaient d’apporter l’intellectuel, l’homme qui a la meilleure éducation; l’homme qui peut se tenir à la chaire sans prendre beaucoup de temps, peut-être juste quinze minutes, ainsi ils peuvent rentrer rapidement à la maison et faire quelque chose d’autre. Ricky peut prendre sa belle voiture et démarrer. Ils peuvent aller twister dans les parties et tout cela. Oh, ce n’est rien d’autre qu’une éducation hybride qui pollue. C’est vrai. C’est exactement ce que c’est. C’est vrai. Mais qu’est-ce que cela fait? Cela satisfait leur goût, vous voyez. Cela satisfait le goût d’un membre d’une église mondaine. Cela ne satisfait pas le goût d’un saint. Il prendrait la Parole à chaque fois!
+163 Mais ils disent: «Eh bien, ces gens sont juste un peu hors de leur sens. Vous voyez, ils ne le comprennent pas. Ils essaient de vivre dans un jour passé».
+164 N’est-ce pas étrange? Lorsque je viens dans l’Ouest, je trouve qu’ils essaient de vivre comme dans les jours anciens, ils veulent toujours vivre comme au temps des cow-boys. Et lorsque je viens dans le Kentucky, comme dans les jours du «Hillbilly». Ils veulent faire comme cela, ont des programmes comme cela. Mais lorsqu’on en vient à la bonne vieille religion, ils ne veulent rien savoir à ce sujet.
+165 Au bon vieux temps? Je suis venu ici au moment du rodéo. J’ai vu là une grosse femme avec cette peinture verte sous les yeux et ses cheveux coupés, une cigarette dans la bouche. Pourquoi? S’ils avaient vu cela dans le passé, ils auraient pensé qu’il lui manquait quelque chose quelque part. Ils l’auraient enfermée. Que se serait-il passé si votre mère était sortie habillée comme vous et votre fille aujourd’hui? Que se serait-il passé? Ils l’auraient mise dans un asile de fou. C’est certain. C’est comme si elle était sortie sans mettre sa jupe. Eh bien, rappelez-vous que c’est la même chose aujourd’hui.
+166 L’homme est en train de pourrir dans sa chair. S’ils ont déjà la ménopause ou l’andropause entre vingt et vingt cinq ans, c’est que les cellules de leur cerveau se dégénèrent également. Les gens sont arrivés au point où ils n’ont pas assez de compréhension. Ils ne savent pas ce que le mot décence veut dire. Ils ne connaissent pas la différence entre ce qui est juste et ce qui est faux. Et avec leurs programmes éducationnels, ils…
+167 Saviez-vous que l’éducation vient du diable? Je peux vous le prouver. Non pas lire ou écrire, je veux dire lorsqu’ils mettent leur façon de faire dans votre église.
+168 Sur quelles bases repose le communisme? La science, l’éducation, c’est cela leur dieu. Vous voyez, satan a introduit cela auprès d’Eve. C’est ce à quoi ils s’accrochent encore.
+169 Maintenant, c’est arrivé dans nos églises, cela a passé chez les baptistes, les méthodistes et les presbytériens, les pentecôtistes et dans toutes les dénominations. Une éducation intellectuelle, quelques grands «ceci et cela» et quelque chose comme cela qui vous jette encore plus loin de Dieu. C’est faux. Certainement. Maintenant, nous découvrons que cela satisfait leurs désirs. Lorsqu’une église en vient à voter pour quelque chose comme cela, cela montre ce que l’église a en tête, ce que leurs désirs sont et quelle est la soif qu’ils essaient d’étancher. Ils aiment dire: «Notre pasteur est large d’esprit. Cela ne lui fait rien que nous ayons des bains mixtes, et il vient avec nous».
+170 Une petite fille a dit l’autre jour à ma Sarah que son pasteur était allé en Afrique et lorsqu’il est revenu, elle a dansé le watusi pour lui, pour l’amuser, du fait qu’il était allé en Afrique. Ce soir-là, elle avait enlevé ses habits et avait dansé avec une paire de collants. Les Watusis sont une tribu de là-bas, vous savez. Ah, mes amis, j’aimerais voir une de mes filles, dans mon assemblée, essayer de faire quelque chose comme cela, danser le watusi!!
+171 Vous voyez, on en vient au spectacle! Et un pasteur s’assied et regarde à l’une des petites filles de son assemblée (seize ou dix-huit ans), enlevant ses habits comme cela et la laissant continuer à se dénuder. Cela montre qu’il vient lui-même d’une fosse sceptique. C’est certain. Un homme de Dieu faisant une chose pareille!
+172 Cela semble banal, mais je réalise que je prêche aussi à travers la nation. Mais vous savez cela aussi, frères et soeurs. Laissez-moi vous dire que c’est la Vérité.
+173 Un vautour veut des choses mortes. C’est vrai. Et cela, c’est la mort! C’est vraiment la vérité. Cela montre pleinement, cela montre clairement ici qui est leur tête et quelle est leur tour de contrôle. Ce qu’elle leur donne. Vous voyez, ce qui est dans leur âme. Leur âme se languit de telles choses.
 
         http://www.cmpp.ch
 
 SOIF 19
-174 Leur âme se languit d’une grande église intellectuelle, où les gens s’habillent finement et où
-le pasteur prend quinze ou vingt minutes. Et s’il dépasse ce temps, ils le font venir devant le
-conseil des diacres. Il ne doit rien dire à propos du péché. Il ne doit rien dire à propos des shorts,
-et ne doit rien dire au sujet des gens qui font ceci ou cela ou d’autres choses. Il ne doit rien
-mentionner du tout de cela. S’il le fait, le conseil le jettera dehors. Vous voyez ce que c’est? C’est
-leur filtre d’un homme qui pense.
-175 La Bible dit, dans 1 Jean 2.15: “N’aimez pas le monde, ni les choses qui sont dans le monde:
-si quelqu’un aime le monde, l’amour du Père n’est pas en lui”.
-176 Maintenant, qu’en est-il aujourd’hui de tout ce qu’ils ont apporté ou fait, au nom de l’église: la
-pratique des danses dans l’église, le bunco… le bingo, les parties, le rock-and-roll des jeunes, les
-twists et toutes ces choses! Regardez Elvis Presley, c’est le diable qui se tient dans ses souliers!
-Pat Boone, Ricky Nelson, la plus grande entrave que cette nation ait jamais eue! C’est vrai. Ils
-disent: «Oh, ils sont très religieux, ils chantent des chants chrétiens». Ils ne devraient pas.
-L’église ne devrait même pas permettre une chose comme cela. Quelques-uns de ces
-hommes viennent ici, et un soir ils sont dans une hôtellerie en bordure de route, dansant et jouant
-de la musique et toutes ces choses. Et le lendemain soir, ils viennent à l’autel et pleurent et le soir
-suivant, ils jouent de la musique sur l’estrade. Oh, mon Dieu! Comme la saleté peut aller loin.
-Jusqu’où pourrait-elle aller? Il doit premièrement prouver qu’il est un homme de Dieu.
-Certainement. Pas toutes ces autres choses, parce que simplement il peut jouer sur une vieille
-guitare ou sur un autre instrument.
-177 Par vos désirs, vous pouvez dire qui est sur le trône de votre coeur. Par ce que vous
-aimez, vous le montrez. Vous, vous dites: «Eh bien, je pense que ces choses sont en ordre,
-frère Branham». Eh bien, rappelez-vous juste maintenant que vous savez ce qui est dans votre
-coeur. Certainement. Votre âme se languit de ce que vous lui donnez à manger et vous pouvez
-voir qu’elle s’en satisfait; si ce n’est pas cette Parole, alors, il y a quelque chose de faux parce que
-le Saint-Esprit vit seulement de la Parole. Vous voyez?
-178 Je veux que vous compreniez un autre grand danger, juste avant que nous finissions. Si vous
-ne vous sentez coupable d’aucune de ces choses que j’ai mentionnées, c’est là le danger de
-négliger une soif. Vous voyez? Vous dites «J’ai une soif sainte. Mais je ne suis pas coupable, frère
-Branham, si je me joins juste à une église et à ces choses-là». Mais, vous voyez, négliger une
-soif… Si vous négligez de satisfaire une soif d’eau ou une faim de nourriture, vous mourrez.
-Et si vous négligez cette soif de Dieu en vous, vous mourrez spirituellement.
-179 Vous demandez des réveils. Vous attendez que l’église ait un réveil. Eh bien, ce n’est pas un
-réveil pour vous. Lorsque vous commencez à avoir soif de Dieu, le réveil devrait commencer
-directement en vous. Il pourrait bien ne pas y avoir d’autres membres de l’église qui veuillent de
-ce réveil-là. S’il éclate en vous, il éclatera aussi dans d’autres places. Mais vous voyez, vous
-négligez cette soif.
-180 Si vous négligez de traire la vache lorsque la mamelle est pleine de lait…Si vous laissez la
-vache dans cet état, elle va ne plus produire de lait. C’est l’exacte vérité. Si vous négligez de
-prendre un verre d’eau et que vous dites: «Je vais simplement ne plus en boire», alors vous
-mourrez. Si vous négligez de manger, vous mourrez.
+174 Leur âme se languit d’une grande église intellectuelle, où les gens s’habillent finement et où le pasteur prend quinze ou vingt minutes. Et s’il dépasse ce temps, ils le font venir devant le conseil des diacres. Il ne doit rien dire à propos du péché. Il ne doit rien dire à propos des shorts, et ne doit rien dire au sujet des gens qui font ceci ou cela ou d’autres choses. Il ne doit rien mentionner du tout de cela. S’il le fait, le conseil le jettera dehors. Vous voyez ce que c’est? C’est leur filtre d’un homme qui pense.
+175 La Bible dit, dans 1 Jean 2.15: “N’aimez pas le monde, ni les choses qui sont dans le monde: si quelqu’un aime le monde, l’amour du Père n’est pas en lui”.
+176 Maintenant, qu’en est-il aujourd’hui de tout ce qu’ils ont apporté ou fait, au nom de l’église: la pratique des danses dans l’église, le bunco… le bingo, les parties, le rock-and-roll des jeunes, les twists et toutes ces choses! Regardez Elvis Presley, c’est le diable qui se tient dans ses souliers! Pat Boone, Ricky Nelson, la plus grande entrave que cette nation ait jamais eue! C’est vrai. Ils disent: «Oh, ils sont très religieux, ils chantent des chants chrétiens». Ils ne devraient pas. L’église ne devrait même pas permettre une chose comme cela. Quelques-uns de ces hommes viennent ici, et un soir ils sont dans une hôtellerie en bordure de route, dansant et jouant de la musique et toutes ces choses. Et le lendemain soir, ils viennent à l’autel et pleurent et le soir suivant, ils jouent de la musique sur l’estrade. Oh, mon Dieu! Comme la saleté peut aller loin. Jusqu’où pourrait-elle aller? Il doit premièrement prouver qu’il est un homme de Dieu. Certainement. Pas toutes ces autres choses, parce que simplement il peut jouer sur une vieille guitare ou sur un autre instrument.
+177 Par vos désirs, vous pouvez dire qui est sur le trône de votre coeur. Par ce que vous aimez, vous le montrez. Vous, vous dites: «Eh bien, je pense que ces choses sont en ordre, frère Branham». Eh bien, rappelez-vous juste maintenant que vous savez ce qui est dans votre coeur. Certainement. Votre âme se languit de ce que vous lui donnez à manger et vous pouvez voir qu’elle s’en satisfait; si ce n’est pas cette Parole, alors, il y a quelque chose de faux parce que le Saint-Esprit vit seulement de la Parole. Vous voyez?
+178 Je veux que vous compreniez un autre grand danger, juste avant que nous finissions. Si vous ne vous sentez coupable d’aucune de ces choses que j’ai mentionnées, c’est là le danger de négliger une soif. Vous voyez? Vous dites «J’ai une soif sainte. Mais je ne suis pas coupable, frère Branham, si je me joins juste à une église et à ces choses-là». Mais, vous voyez, négliger une soif… Si vous négligez de satisfaire une soif d’eau ou une faim de nourriture, vous mourrez. Et si vous négligez cette soif de Dieu en vous, vous mourrez spirituellement.
+179 Vous demandez des réveils. Vous attendez que l’église ait un réveil. Eh bien, ce n’est pas un réveil pour vous. Lorsque vous commencez à avoir soif de Dieu, le réveil devrait commencer directement en vous. Il pourrait bien ne pas y avoir d’autres membres de l’église qui veuillent de ce réveil-là. S’il éclate en vous, il éclatera aussi dans d’autres places. Mais vous voyez, vous négligez cette soif.
+180 Si vous négligez de traire la vache lorsque la mamelle est pleine de lait…Si vous laissez la vache dans cet état, elle va ne plus produire de lait. C’est l’exacte vérité. Si vous négligez de prendre un verre d’eau et que vous dites: «Je vais simplement ne plus en boire», alors vous mourrez. Si vous négligez de manger, vous mourrez.
 181 Aussi, si vous négligez de donner au Saint-Esprit la Parole de Dieu, vous mourrez.
-182 Vous les chrétiens, vous les baptistes, les méthodistes, les presbytériens, les pentecôtistes,
-les assemblées de Dieu, les unitaires, les bi-unitaires, les trinitaires, qui que vous soyez, cela
-m’importe peu. Cela n’a aucune importance à mes yeux et je crois que c’est la même chose pour
-Dieu. Vous voyez, vous êtes un individu. Vous êtes une unité. Vous n’irez jamais au Ciel en tant
-qu’église ou dénomination. Vous irez au Ciel en tant que personne individuelle. C’est entre
-vous et Dieu. C’est tout. Je n’attache aucune importance à l’église à laquelle vous appartenez.
-183 Et si vous négligez de lire la Bible et de croire la Bible afin de nourrir le Saint-Esprit,
-vous mourrez. Jésus a dit dans Luc… 4.4, j’ai l’Ecriture juste ici… Jésus a dit cela: “L’homme ne
-se nourrira pas de pain seulement, mais de toute Parole de Dieu”. Pas seulement d’une partie.
-Vous voyez?
-184 Ils prennent un petit bout ici. Je les appelle les auto-stoppeurs de la Bible. Ils disent: «Eh
-bien, je crois ceci, mais maintenant, allons là-bas. Vous voyez?».
+182 Vous les chrétiens, vous les baptistes, les méthodistes, les presbytériens, les pentecôtistes, les assemblées de Dieu, les unitaires, les bi-unitaires, les trinitaires, qui que vous soyez, cela m’importe peu. Cela n’a aucune importance à mes yeux et je crois que c’est la même chose pour Dieu. Vous voyez, vous êtes un individu. Vous êtes une unité. Vous n’irez jamais au Ciel en tant qu’église ou dénomination. Vous irez au Ciel en tant que personne individuelle. C’est entre vous et Dieu. C’est tout. Je n’attache aucune importance à l’église à laquelle vous appartenez.
+183 Et si vous négligez de lire la Bible et de croire la Bible afin de nourrir le Saint-Esprit, vous mourrez. Jésus a dit dans Luc… 4.4, j’ai l’Ecriture juste ici… Jésus a dit cela: “L’homme ne se nourrira pas de pain seulement, mais de toute Parole de Dieu”. Pas seulement d’une partie. Vous voyez?
+184 Ils prennent un petit bout ici. Je les appelle les auto-stoppeurs de la Bible. Ils disent: «Eh bien, je crois ceci, mais maintenant, allons là-bas. Vous voyez?».
 
         http://www.cmpp.ch
 
 SOIF 20
-185 Vous devez La prendre, Mot pour Mot. Jésus a dit: “L’homme vivra de chaque Parole qui sort
-de la bouche de Dieu”. Saviez-vous cela? [L’assemblée répond: «Amen.» — N.d.R.].
-186 Et vous savez ce que nous avons fait, ce que nous avons fait de ce jour dans lequel nous
-vivons… Nous avons fait de ce jour une perversion religieuse.
-187 Ma fille est venue, il n’y a pas si longtemps et m’a dit: «Papa, viens ici, de l’autre côté de la
-maison, nous allons regarder un programme religieux». C’était un chant, un hymne et il y avait un
-petit Ricky qui mimait. Et si je n’avais jamais vu une telle imitation sacrilège, c’était bien celle-là!
-Ces garçons et ces gens… Cela ressemblait plus à un spectacle. Cela était supposé être une tribu
-indienne et ils sautaient et se boxaient l’un l’autre.
-188 Pourquoi? Où est passée la sincérité? Où sont passés nos bons vieux hymnes que nous
-avions l’habitude de chanter en nous réjouissant dans l’Esprit de Dieu, avec des larmes coulant le
-long de nos joues? Et maintenant, nous essayons de retenir notre respiration jusqu’à ce que nous
-n’ayons plus d’air en nous, jusqu’à ce que nous devenions tout bleu, pour essayer de montrer que
-nous sommes telle sorte de chanteur. Vous voyez, nous avons copié cela d’Hollywood et de tous
-ces programmes que nous voyons au travers de cet hymne intellectuel et de ces voix artificielles.
-J’aime entendre un bon chant; j’aime entendre un bon chant pentecôtiste qui vient du coeur. Mais
-une chose est certaine, je hais ces espèces de piaillements qu’ils appellent chant aujourd’hui.
-C’est vrai. Je crois que c’est la chose la plus ridicule. C’est une perversion. C’est vrai.
-189 J’aime voir un homme lorsqu’il est un homme. Je déteste voir l’un d’entre eux portant les
-sous-vêtements de sa femme qui sortent ici et qui tombent le long du côté. Ils ont de ces rouleaux
-qui pendent du front sur le devant, avec deux mèches de cheveux qui tombent en avant. Je ne
-peux pas appeler cela un homme. Il ne sait pas de quel côté de la race il se tient. Vous voyez,
-c’est vrai. Prenez une femme, regardez, la femme essaie de se couper les cheveux comme un
-homme; l’homme essaie de se coiffer comme une femme. L’homme porte les sous-vêtements de
-la femme; elle porte ses salopettes. Vous voyez, c’est juste une perversion. Tout le contraire.
-190 Et c’est la même chose avec la nation, avec les gens, avec les églises, avec toute chose. O
-Dieu! Où est la fin des choses? La venue du Seigneur Jésus-Christ, c’est la fin de tout cela.
-191 Ainsi, si vous négligez de nourrir le Saint-Esprit avec la Parole de Dieu… Jésus a dit:
-“Chaque Parole doit être donnée par le Saint-Esprit”. Et écoutez maintenant. Si vous essayez de
-Le nourrir avec la mauvaise chose, et si c’est le véritable Saint-Esprit en vous, Il connaîtra la
-différence. Maintenant, rappelez-vous que la Parole de Dieu est ce dont le Saint-Esprit se
-nourrit. Il ne se nourrit pas d’enthousiasme, Il ne se nourrit pas d’éducation. Il ne se nourrit pas
-d’aller à l’église. Il ne se nourrit pas de théologie. Il y a une grande différence entre quelque
-chose d’inspiré et quelque chose qui vient d’un point de vue théologique.
-192 Mes amis, tous ces théologiens du temps de Jésus, avaient tout devant eux, mot par mot,
-page par page. Le Messie devait venir de telle façon! C’est exactement comme cela. Et ils L’ont
-tous manqué, chacun d’entre eux. Vous savez ce que Jésus a dit lorsqu’Il est venu? “Vous êtes de
-votre père le diable, et ce sont ses oeuvres que vous faites”.
-193 Ce que la véritable Parole était, cela ne leur avait pas été révélé. Vous voyez, ils ont manqué
-tous ces petits coins, tout comme ils le font aujourd’hui. «Si vous appartenez à ceci ou à cela,
-vous êtes en ordre». Ne croyez pas cela. Vous devez appartenir à Christ. Si toutefois il y a
-Quelque chose en vous qui a faim de Christ!
-194 Rappelez-vous que vous étiez dans les reins de votre père. Vous étiez avec lui alors. Mais
-votre père ne vous connaissait pas et vous ne connaissiez pas votre père. Vous deviez
-venir et naître. Dieu a trouvé un chemin au travers de votre mère, comme terrain de la semence
-et c’est ainsi que cela se passe. Et vous devenez un homme ou une femme, qu’importe. Vous
-reconnaissez ensuite votre père et votre père peut avoir communion avec vous.
-195 Maintenant, rappelez-vous que si vous avez la Vie Eternelle, votre Vie était en Dieu au
-commencement. Et, la Vie, Dieu, est la Parole. Et ensuite, lorsque la Parole a été faite chair en
-Jésus-Christ, Dieu descendant dans Son Propre corps s’est fait Lui-même Fils de Dieu.
-Parce que Dieu est descendu pour habiter dans le Fils, vous étiez en Lui lorsqu’Il fut crucifié. Et
-vous avez été crucifié avec Lui sur le Calvaire. Vous avez été enseveli avec Lui dans la montagne.
-Et vous êtes ressuscité avec Lui le matin de Pâques. Et maintenant, vous êtes assis avec Lui
-dans les lieux célestes, en Lui et vous avez communion avec Lui. Vous voyez?
+185 Vous devez La prendre, Mot pour Mot. Jésus a dit: “L’homme vivra de chaque Parole qui sort de la bouche de Dieu”. Saviez-vous cela? [L’assemblée répond: «Amen.» — N.d.R.].
+186 Et vous savez ce que nous avons fait, ce que nous avons fait de ce jour dans lequel nous vivons… Nous avons fait de ce jour une perversion religieuse.
+187 Ma fille est venue, il n’y a pas si longtemps et m’a dit: «Papa, viens ici, de l’autre côté de la maison, nous allons regarder un programme religieux». C’était un chant, un hymne et il y avait un petit Ricky qui mimait. Et si je n’avais jamais vu une telle imitation sacrilège, c’était bien celle-là! Ces garçons et ces gens… Cela ressemblait plus à un spectacle. Cela était supposé être une tribu indienne et ils sautaient et se boxaient l’un l’autre.
+188 Pourquoi? Où est passée la sincérité? Où sont passés nos bons vieux hymnes que nous avions l’habitude de chanter en nous réjouissant dans l’Esprit de Dieu, avec des larmes coulant le long de nos joues? Et maintenant, nous essayons de retenir notre respiration jusqu’à ce que nous n’ayons plus d’air en nous, jusqu’à ce que nous devenions tout bleu, pour essayer de montrer que nous sommes telle sorte de chanteur. Vous voyez, nous avons copié cela d’Hollywood et de tous ces programmes que nous voyons au travers de cet hymne intellectuel et de ces voix artificielles. J’aime entendre un bon chant; j’aime entendre un bon chant pentecôtiste qui vient du coeur. Mais une chose est certaine, je hais ces espèces de piaillements qu’ils appellent chant aujourd’hui. C’est vrai. Je crois que c’est la chose la plus ridicule. C’est une perversion. C’est vrai.
+189 J’aime voir un homme lorsqu’il est un homme. Je déteste voir l’un d’entre eux portant les sous-vêtements de sa femme qui sortent ici et qui tombent le long du côté. Ils ont de ces rouleaux qui pendent du front sur le devant, avec deux mèches de cheveux qui tombent en avant. Je ne peux pas appeler cela un homme. Il ne sait pas de quel côté de la race il se tient. Vous voyez, c’est vrai. Prenez une femme, regardez, la femme essaie de se couper les cheveux comme un homme; l’homme essaie de se coiffer comme une femme. L’homme porte les sous-vêtements de la femme; elle porte ses salopettes. Vous voyez, c’est juste une perversion. Tout le contraire.
+190 Et c’est la même chose avec la nation, avec les gens, avec les églises, avec toute chose. O Dieu! Où est la fin des choses? La venue du Seigneur Jésus-Christ, c’est la fin de tout cela.
+191 Ainsi, si vous négligez de nourrir le Saint-Esprit avec la Parole de Dieu… Jésus a dit: “Chaque Parole doit être donnée par le Saint-Esprit”. Et écoutez maintenant. Si vous essayez de Le nourrir avec la mauvaise chose, et si c’est le véritable Saint-Esprit en vous, Il connaîtra la différence. Maintenant, rappelez-vous que la Parole de Dieu est ce dont le Saint-Esprit se nourrit. Il ne se nourrit pas d’enthousiasme, Il ne se nourrit pas d’éducation. Il ne se nourrit pas d’aller à l’église. Il ne se nourrit pas de théologie. Il y a une grande différence entre quelque chose d’inspiré et quelque chose qui vient d’un point de vue théologique.
+192 Mes amis, tous ces théologiens du temps de Jésus, avaient tout devant eux, mot par mot, page par page. Le Messie devait venir de telle façon! C’est exactement comme cela. Et ils L’ont tous manqué, chacun d’entre eux. Vous savez ce que Jésus a dit lorsqu’Il est venu? “Vous êtes de votre père le diable, et ce sont ses oeuvres que vous faites”.
+193 Ce que la véritable Parole était, cela ne leur avait pas été révélé. Vous voyez, ils ont manqué tous ces petits coins, tout comme ils le font aujourd’hui. «Si vous appartenez à ceci ou à cela, vous êtes en ordre». Ne croyez pas cela. Vous devez appartenir à Christ. Si toutefois il y a Quelque chose en vous qui a faim de Christ!
+194 Rappelez-vous que vous étiez dans les reins de votre père. Vous étiez avec lui alors. Mais votre père ne vous connaissait pas et vous ne connaissiez pas votre père. Vous deviez venir et naître. Dieu a trouvé un chemin au travers de votre mère, comme terrain de la semence et c’est ainsi que cela se passe. Et vous devenez un homme ou une femme, qu’importe. Vous reconnaissez ensuite votre père et votre père peut avoir communion avec vous.
+195 Maintenant, rappelez-vous que si vous avez la Vie Eternelle, votre Vie était en Dieu au commencement. Et, la Vie, Dieu, est la Parole. Et ensuite, lorsque la Parole a été faite chair en Jésus-Christ, Dieu descendant dans Son Propre corps s’est fait Lui-même Fils de Dieu. Parce que Dieu est descendu pour habiter dans le Fils, vous étiez en Lui lorsqu’Il fut crucifié. Et vous avez été crucifié avec Lui sur le Calvaire. Vous avez été enseveli avec Lui dans la montagne. Et vous êtes ressuscité avec Lui le matin de Pâques. Et maintenant, vous êtes assis avec Lui dans les lieux célestes, en Lui et vous avez communion avec Lui. Vous voyez?
 
         http://www.cmpp.ch
 
     SOIF                21
-196 Dieu Lui-même est devenu l’un d’entre nous. “Aucun homme n’a vu le Père, Seul le Fils
-Bien-aimé l’a fait connaître”. Cela, c’est Dieu devenu un homme, ainsi Il pouvait avoir
-communion avec vous en tant qu’homme. Vous voyez? Et maintenant, vous êtes chair et Il est
-chair. Dieu a été fait chair parmi nous dans la Personne de Son Fils, Jésus-Christ. Et en Lui était
-Dieu. Il était Dieu, pas plus petit que Dieu. Il était Dieu. “Dieu manifesté dans le Fils
-Jésus-Christ”, ce qui a fait de Lui Emmanuel, tout comme le prophète a dit que cela serait.
-197 Maintenant, vous voyez que vous deviez être avant même que le monde fut formé: que votre
-nom devait être mis dans le Livre de Vie de l’Agneau. Et alors, que pouvez-vous manger? Le
-Saint-Esprit vit par la Parole de Dieu. Et maintenant, dans Apocalypse 22.19, la Bible dit: “Si
-quelqu’un ôte quelque chose des paroles du livre de cette prophétie, Dieu ôtera sa part de l’arbre
-de vie et de la sainte cité”. Vous voyez comme c’est profond? Vous ne pouvez pas, le Saint-Esprit
-ne peut pas vivre des choses de ce monde.
-198 C’est comme une colombe et un corbeau. Un corbeau est un grand hypocrite. Un corbeau, ce
-gars qui peut sortir et qui peut manger du blé toute la journée; et ensuite s’envoler là-bas et voler
-sur une vieille carcasse morte et la manger aussi. Il peut s’asseoir dans le champ et manger le blé
-avec la colombe et aller là-bas et manger la carcasse morte.
-199 La colombe peut manger du blé toute la journée, mais elle ne peut pas manger la
-carcasse morte parce que c’est une colombe. Les colombes n’ont pas de bile. Une seule
-bouchée de la carcasse morte suffirait à tuer la colombe. Vous voyez, elle n’a pas de vésicule
-biliaire. Et c’est comme cela que les choses sont, pas d’amertume.
-200 Et il en est ainsi d’un véritable chrétien. Il ne veut pas des choses du monde. Il veut
-seulement manger la Parole de Dieu. Et seulement cela, ce qui est propre. Le Filtre de l’homme
-qui pense. Vous voyez, il vient au travers de Cela et seulement de Cela. Les choses mortes du
-monde lui sont en mauvaise odeur.
-201 Regardez au vieux corbeau, aux jours de la destruction antédiluvienne, volant de corps en
-corps, mangeant les vieilles carcasses mortes. Il n’est pas revenu à l’arche. Mais la colombe ne
-pouvait pas trouver de repos pour ses pattes et elle est revenue dans l’arche là où elle pouvait
-avoir du grain. Et c’est de cette manière que nous faisons, nous vivons par la Parole de Dieu.
-202 Dans le Psaumes 42… David doit avoir écrit ce Psaume lorsqu’il était fugitif, il a dit: “Comme le
-cerf brame après les courants d’eau, ainsi mon âme crie après toi, ô Dieu”. Regarde! David a crié.
-David était un fugitif. Il avait reçu l’onction d’huile, il savait qu’il devait être roi. Maintenant,
-remarquez, là il était au sommet de la montagne, il avait quelques soldats avec lui, des gentils
-etc… Sa propre cité bien-aimée était entourée de garnisons de philistins à cause de ses péchés.
-David, en ce jour de canicule, cela devait l’être, écrivit ce psaume: “Comme le cerf brame après
-les courants d’eau”.
-203 Remarquez David dans cette condition. Il a regardé en bas, il a regardé à sa cité bien-aimée
-et il s’est rappelé que lorsqu’il était un petit enfant, il avait l’habitude d’amener ses brebis là-bas,
-près d’un certain étang. Là-bas, c’était un pays qui avait beaucoup, beaucoup d’eau et beaucoup
-de pain. Véritablement, Bethlehem, veut dire: «La maison du pain de Dieu». Et alors, David se
-rappelait lorsqu’il était là-bas et qu’il buvait cette bonne eau fraîche et maintenant, il était étendu,
-ici en haut, un fugitif loin de son propre peuple. Il n’avait aucun lieu où aller et son âme devait crier
-après cette bonne eau fraîche.
-204 Il avait là quelques serviteurs avec lui… Le moindre de ses désirs était un ordre et trois
-d’entre eux se sont frayés un chemin au travers des lignes des philistins, quinze miles… sept
-miles ou quelque chose comme cela, aller et retour, se taillant un chemin pour lui apporter de
-l’eau à boire. Mais la soif de l’âme…
-205 Son corps, lorsqu’il était là-haut… Il devait probablement boire de tout ce qu’il trouvait, d’une
-outre en vieille peau de chèvre ou de n’importe quoi… de l’eau chaude, dans une journée chaude.
-Il pensait: “Si seulement je pouvais juste être allongé et étancher cette soif que j’ai! Si je pouvais
-juste aller là-bas à Bethléem m’allonger près de cette source et boire!”.
-206 Et lorsqu’ils sont descendus pour chercher de l’eau et en ramener, la soif de son âme était
-encore bien plus grande, pas pour Bethléem, mais pour Jérusalem; son âme était… Aussi, il a
-renoncé à l’eau. Il a dit: «Je ne veux même pas en boire» et il l’a versée sur le sol en libation.
+196 Dieu Lui-même est devenu l’un d’entre nous. “Aucun homme n’a vu le Père, Seul le Fils Bien-aimé l’a fait connaître”. Cela, c’est Dieu devenu un homme, ainsi Il pouvait avoir communion avec vous en tant qu’homme. Vous voyez? Et maintenant, vous êtes chair et Il est chair. Dieu a été fait chair parmi nous dans la Personne de Son Fils, Jésus-Christ. Et en Lui était Dieu. Il était Dieu, pas plus petit que Dieu. Il était Dieu. “Dieu manifesté dans le Fils Jésus-Christ”, ce qui a fait de Lui Emmanuel, tout comme le prophète a dit que cela serait.
+197 Maintenant, vous voyez que vous deviez être avant même que le monde fut formé: que votre nom devait être mis dans le Livre de Vie de l’Agneau. Et alors, que pouvez-vous manger? Le Saint-Esprit vit par la Parole de Dieu. Et maintenant, dans Apocalypse 22.19, la Bible dit: “Si quelqu’un ôte quelque chose des paroles du livre de cette prophétie, Dieu ôtera sa part de l’arbre de vie et de la sainte cité”. Vous voyez comme c’est profond? Vous ne pouvez pas, le Saint-Esprit ne peut pas vivre des choses de ce monde.
+198 C’est comme une colombe et un corbeau. Un corbeau est un grand hypocrite. Un corbeau, ce gars qui peut sortir et qui peut manger du blé toute la journée; et ensuite s’envoler là-bas et voler sur une vieille carcasse morte et la manger aussi. Il peut s’asseoir dans le champ et manger le blé avec la colombe et aller là-bas et manger la carcasse morte.
+199 La colombe peut manger du blé toute la journée, mais elle ne peut pas manger la carcasse morte parce que c’est une colombe. Les colombes n’ont pas de bile. Une seule bouchée de la carcasse morte suffirait à tuer la colombe. Vous voyez, elle n’a pas de vésicule biliaire. Et c’est comme cela que les choses sont, pas d’amertume.
+200 Et il en est ainsi d’un véritable chrétien. Il ne veut pas des choses du monde. Il veut seulement manger la Parole de Dieu. Et seulement cela, ce qui est propre. Le Filtre de l’homme qui pense. Vous voyez, il vient au travers de Cela et seulement de Cela. Les choses mortes du monde lui sont en mauvaise odeur.
+201 Regardez au vieux corbeau, aux jours de la destruction antédiluvienne, volant de corps en corps, mangeant les vieilles carcasses mortes. Il n’est pas revenu à l’arche. Mais la colombe ne pouvait pas trouver de repos pour ses pattes et elle est revenue dans l’arche là où elle pouvait avoir du grain. Et c’est de cette manière que nous faisons, nous vivons par la Parole de Dieu.
+202 Dans le Psaumes 42… David doit avoir écrit ce Psaume lorsqu’il était fugitif, il a dit: “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi, ô Dieu”. Regarde! David a crié. David était un fugitif. Il avait reçu l’onction d’huile, il savait qu’il devait être roi. Maintenant, remarquez, là il était au sommet de la montagne, il avait quelques soldats avec lui, des gentils etc… Sa propre cité bien-aimée était entourée de garnisons de philistins à cause de ses péchés. David, en ce jour de canicule, cela devait l’être, écrivit ce psaume: “Comme le cerf brame après les courants d’eau”.
+203 Remarquez David dans cette condition. Il a regardé en bas, il a regardé à sa cité bien-aimée et il s’est rappelé que lorsqu’il était un petit enfant, il avait l’habitude d’amener ses brebis là-bas, près d’un certain étang. Là-bas, c’était un pays qui avait beaucoup, beaucoup d’eau et beaucoup de pain. Véritablement, Bethlehem, veut dire: «La maison du pain de Dieu». Et alors, David se rappelait lorsqu’il était là-bas et qu’il buvait cette bonne eau fraîche et maintenant, il était étendu, ici en haut, un fugitif loin de son propre peuple. Il n’avait aucun lieu où aller et son âme devait crier après cette bonne eau fraîche.
+204 Il avait là quelques serviteurs avec lui… Le moindre de ses désirs était un ordre et trois d’entre eux se sont frayés un chemin au travers des lignes des philistins, quinze miles… sept miles ou quelque chose comme cela, aller et retour, se taillant un chemin pour lui apporter de l’eau à boire. Mais la soif de l’âme…
+205 Son corps, lorsqu’il était là-haut… Il devait probablement boire de tout ce qu’il trouvait, d’une outre en vieille peau de chèvre ou de n’importe quoi… de l’eau chaude, dans une journée chaude. Il pensait: “Si seulement je pouvais juste être allongé et étancher cette soif que j’ai! Si je pouvais juste aller là-bas à Bethléem m’allonger près de cette source et boire!”.
+206 Et lorsqu’ils sont descendus pour chercher de l’eau et en ramener, la soif de son âme était encore bien plus grande, pas pour Bethléem, mais pour Jérusalem; son âme était… Aussi, il a renoncé à l’eau. Il a dit: «Je ne veux même pas en boire» et il l’a versée sur le sol en libation.
 
         http://www.cmpp.ch
 
@@ -1542,9 +994,6 @@ apostolique, si je ne l’ai jamais su. C’est vrai.
         Elle vient là où les perles de rosée de la miséricorde brillent,
         Eh bien, elles brillent tout autour, de jour et de nuit,
         Jésus, la Lumière du monde.
-
-
-
 
 
 

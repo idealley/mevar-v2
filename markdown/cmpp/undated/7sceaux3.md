@@ -1,561 +1,299 @@
+---
+source: "cmpp"
+sermon_id: "7sceaux3"
+title: "Révélation des Sept Sceaux"
+subtitle: "Premier Sceau"
+date: "1963-03-18"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham expose la révélation du premier sceau de l'Apocalypse, identifiant le cavalier sur le cheval blanc comme un esprit d'antichrist qui séduit l'Église. Il souligne que seul l'Agneau peut ouvrir les sceaux et que ces mystères sont révélés à la fin des temps pour préparer l'Épouse à l'enlèvement."
+tags:
+  - "premier sceau"
+  - "cheval blanc"
+  - "antichrist"
+  - "révélation"
+  - "enlèvement"
+  - "Épouse"
+  - "séduction"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Jean"
+  - "Paul"
+  - "Adam"
+  - "Noé"
+  - "Salomon"
+  - "Judas Iscariot"
+places:
+  - "Patmos"
+  - "Jeffersonville"
+  - "Krefeld"
+themes:
+  - "révélation des mystères"
+  - "séduction spirituelle"
+  - "enlèvement de l'Épouse"
+  - "jugement"
+  - "rédemption"
+  - "prédestination"
+  - "intercession de Christ"
+pdf_url: "http://cmpp.ch/7sceaux3.pdf"
+llm_cleaned: true
+bible_refs:
+  - "2 Thessaloniciens 2"
+  - "Actes 2"
+  - "Apocalypse 10"
+  - "Apocalypse 11"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Apocalypse 18"
+  - "Apocalypse 19"
+  - "Apocalypse 5"
+  - "Apocalypse 6"
+  - "Daniel 11"
+  - "Daniel 9"
+  - "Hébreux 4"
+  - "Jean 12"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Matthieu 10"
+  - "Matthieu 11"
+  - "Matthieu 24"
+  - "Matthieu 28"
+---
 BROCHURE N° 3
 
-
-
-
-REVELATION
-DES
-SEPT SCEAUX
+RÉVÉLATION DES SEPT SCEAUX
 
 PAR
 
 WILLIAM MARRION BRANHAM
 
-
-
-
-
-
-
-
-
+---
 
 PREMIER SCEAU
 
-    REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU    2
+**RÉVÉLATION DES SEPT SCEAUX / LE PREMIER SCEAU**
 
-LE PREMIER SCEAU
-(The First Seal)
+**LE PREMIER SCEAU**
+*(The First Seal)*
 
+*18 mars 1963, soir*
+*Branham Tabernacle*
+*Jeffersonville — Indiana, U.S.A.*
 
+1 Courbons maintenant la tête pour la prière. Notre Père céleste, nous Te remercions ce soir pour cette nouvelle occasion de venir T’adorer. Nous Te remercions d’être vivants et d’avoir cette glorieuse révélation de la Vie Éternelle qui demeure en nous. Nous venons ce soir, Père, pour étudier ensemble Ta Parole, ces grands mystères qui ont été cachés depuis la fondation du monde et que l’Agneau est le seul à pouvoir nous révéler. Je prie qu’Il vienne au milieu de nous ce soir, qu’Il prenne Sa Parole et nous La révèle afin que nous puissions savoir comment devenir pour Lui de meilleurs serviteurs dans ces temps de la fin. O notre Dieu! Comme nous voyons que nous sommes arrivés au temps de la fin, aide-nous à connaître notre position, Seigneur, la fragilité de notre être et la certitude de la prochaine venue du Seigneur. Nous le demandons au Nom de Jésus. Amen.
 
-       18 mars 1963, soir
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
+2 Je crois que c’est David qui disait: “Je suis dans la joie quand on me dit: Allons à la maison de l’Éternel!”. C’est toujours un grand privilège de venir; l’étude en commun de la Parole nous donne cette merveilleuse espérance.
 
+3 Il y a beaucoup de monde debout; j’irai aussi vite que possible. J’ai l’assurance que vous avez apprécié comme moi la présence du Saint-Esprit dans ces quelques dernières réunions. Aujourd’hui il m’est arrivé quelque chose que je n’avais pas expérimenté depuis longtemps alors que j’étudiais cette révélation, cette ouverture des Sceaux.
 
+4 Il y a quelques années (environ vingt ans je crois) que j’ai traité ce sujet ici, mais cela ne m’avait jamais satisfait totalement. Il me semblait y avoir quelque chose, en particulier dans ces Sceaux, parce que ces Sceaux sont le Livre tout entier. C’est le Livre. Le Livre tout entier est un Livre scellé.
 
+5 Je vais vous montrer par un exemple ce que je veux dire. Voici un sceau. C’est ainsi qu’il était enroulé. On l’enroule de cette manière et au bout il y a un petit morceau qui dépasse comme ceci. C’est le premier sceau, c’est la première partie du livre. Ensuite le sceau suivant est enroulé de cette façon, juste à côté de l’autre, et ici il y a un autre petit bout qui dépasse. Nous avons maintenant deux sceaux. Et c’est ainsi que la Bible entière a été écrite: en rouleaux. Ainsi donc, en brisant ces Sceaux on ouvre les mystères du Livre.
 
-1 Courbons maintenant la tête pour la prière. Notre Père céleste, nous Te remercions ce soir
-pour cette nouvelle occasion de venir T’adorer. Nous Te remercions d’être vivants et d’avoir cette
-glorieuse révélation de la Vie Eternelle qui demeure en nous. Nous venons ce soir, Père, pour
-étudier ensemble Ta Parole, ces grands mystères qui ont été cachés depuis la fondation du
-monde et que l’Agneau est le seul à pouvoir nous révéler. Je prie qu’Il vienne au milieu de nous ce
-soir, qu’Il prenne Sa Parole et nous La révèle afin que nous puissions savoir comment devenir
-pour Lui de meilleurs serviteurs dans ces temps de la fin. O notre Dieu! Comme nous voyons que
-nous sommes arrivés au temps de la fin, aide-nous à connaître notre position, Seigneur, la fragilité
-de notre être et la certitude de la prochaine venue du Seigneur. Nous le demandons au Nom de
-Jésus. Amen.
-2 Je crois que c’est David qui disait: “Je suis dans la joie quand on me dit: Allons à la maison de
-l’Eternel!”. C’est toujours un grand privilège de venir; l’étude en commun de la Parole nous donne
-cette merveilleuse espérance.
-3 Il y a beaucoup de monde debout; j’irai aussi vite que possible. J’ai l’assurance que vous avez
-apprécié comme moi la présence du Saint-Esprit dans ces quelques dernières réunions.
-Aujourd’hui il m’est arrivé quelque chose que je n’avais pas expérimenté depuis longtemps alors
-que j’étudiais cette révélation, cette ouverture des Sceaux.
-4 Il y a quelques années (environ vingt ans je crois) que j’ai traité ce sujet ici, mais cela ne
-m’avait jamais satisfait totalement. Il me semblait y avoir quelque chose, en particulier dans ces
-Sceaux, parce que ces Sceaux sont le Livre tout entier. C’est le Livre. Le Livre tout entier est un
-Livre scellé.
-5 Je vais vous montrer par un exemple ce que je veux dire. Voici un sceau. C’est ainsi qu’il était
-enroulé. On l’enroule de cette manière et au bout il y a un petit morceau qui dépasse comme ceci.
-C’est le premier sceau, c’est la première partie du livre. Ensuite le sceau suivant est enroulé de
-cette façon, juste à côté de l’autre, et ici il y a un autre petit bout qui dépasse. Nous avons
-maintenant deux sceaux. Et c’est ainsi que la Bible entière a été écrite: en rouleaux. Ainsi donc, en
-brisant ces Sceaux on ouvre les mystères du Livre.
-6 Avez-vous étudié comment Jérémie a écrit cela? Beaucoup parmi vous ont pris des notes hier
-soir. De quelle manière ces Sceaux furent-ils écrits et conservés jusqu’à la fin des soixante-dix ans
-de captivité? Il revint et réclama son bien. Et j’aimerais dire ceci: il n’est pas possible d’exprimer
-tout cela parce qu’il s’agit d’une Parole éternelle. C’est un Livre éternel.
-7 C’est pourquoi nous devons nous limiter aux passages essentiels. En étudiant ces choses
-aujourd’hui j’ai noté de nombreux passages des Ecritures afin que vous puissiez les étudier
-vous-mêmes. De même les bandes vous révéleront beaucoup de choses lorsque vous les
-étudierez.
-8 Il y a tellement de choses! Si je pouvais révéler ici du haut de la chaire toutes ces choses
-comme elles m’ont été révélées dans ma chambre, oh frères, ce serait merveilleux! Mais quand
-nous sommes ici nous sommes pressés par le temps, ce qui fait que nous devons sauter bien des
-choses, faisant de notre mieux pour vous apporter au moins le principal afin que vous puissiez le
-voir.
+6 Avez-vous étudié comment Jérémie a écrit cela? Beaucoup parmi vous ont pris des notes hier soir. De quelle manière ces Sceaux furent-ils écrits et conservés jusqu’à la fin des soixante-dix ans de captivité? Il revint et réclama son bien. Et j’aimerais dire ceci: il n’est pas possible d’exprimer tout cela parce qu’il s’agit d’une Parole éternelle. C’est un Livre éternel.
 
-        http://www.cmpp.ch
+7 C’est pourquoi nous devons nous limiter aux passages essentiels. En étudiant ces choses aujourd’hui j’ai noté de nombreux passages des Écritures afin que vous puissiez les étudier vous-mêmes. De même les bandes vous révéleront beaucoup de choses lorsque vous les étudierez.
 
-REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 3
-9 J’aime beaucoup ce cantique que le frère Ungren vient de chanter: Descendu de Sa Gloire.
-S’Il n’était pas descendu de Sa gloire, où serions-nous ce soir? C’est pourquoi nous Lui sommes
-reconnaissants de ce qu’Il est descendu pour nous aider.
-10 Maintenant, comme beaucoup sont debout, nous irons aussi vite que possible. Je ne dis pas
-que nous étudierons ces choses hâtivement, mais nous allons commencer aussi vite que possible.
-11 Nous avons déjà vu les chapitres un, deux, trois, quatre et hier soir le chapitre cinq. Ce soir,
-nous commencerons le sixième chapitre de l’Apocalypse. En étudiant ce chapitre nous nous
-référerons à divers passages de l’Ancien et du Nouveau Testament parce que le Livre tout
-entier est la révélation de Jésus-Christ. C’est la révélation tout entière du Seigneur Jésus, la
-révélation de Jésus-Christ. C’est Dieu qui Se révèle dans ce Livre, qui se révèle au moyen de
-Christ. Christ est la révélation de Dieu. Il est venu pour révéler Dieu parce que Lui et Dieu
-sont une seule et même chose. Dieu était en Christ, réconciliant le monde avec Lui-même.
-12 En d’autres termes vous n’auriez jamais connu ce qu’était Dieu s’Il ne s’était pas révélé
-Lui-même au moyen de Christ; alors vous pouvez Le voir.
-13 Il y a quelques années je pensais que Dieu était peut-être fâché contre moi mais que Christ
-m’aimait. Mais j’ai fini par découvrir qu’ils sont une seule et même Personne. Christ est le coeur
-même de Dieu.
-14 Les trois premiers chapitres de l’Apocalypse que nous avons étudiés de très près sont les
-âges de l’Eglise, les sept âges de l’Eglise. Il y a sept âges de l’Eglise, sept Sceaux, sept
-trompettes, sept coupes, sept esprits impurs semblables à des grenouilles; tout cela va ensemble.
-Oh combien j’aimerais avoir un grand tableau noir pour dessiner toutes ces choses comme je les
-vois, montrant comment chacune d’elles prend sa place. Je l’ai dessiné sur un petit bout de papier
-et jusqu’à présent tout est parfaitement juste. Les temps et les âges sont venus et ont passé, et
-tout cela se joint parfaitement. Peut-être que ce n’est pas totalement juste, mais c’est en tout cas
-au mieux de ma connaissance. Je sais que si je fais une erreur en essayant de faire de mon
-mieux, Dieu me pardonnera sûrement cette erreur, si je me suis trompé.
-15 Donc ces trois premiers chapitres sont les sept âges de l’Eglise; dans le quatrième chapitre
-nous voyons que Jean est enlevé en haut. Il n’est pas dit grand’chose au sujet des âges de
-l’Eglise. C’est là que je pense que les gens vont avoir bien des surprises! Ils appliquent les voies
-de l’église jusque dans la tribulation à ces choses qui sont arrivées. Et comme je le disais hier
-dimanche, les tribulations commenceront et vous vous demanderez alors pourquoi la première
-venue n’était pas l’enlèvement. Mais il aura déjà eu lieu: il sera passé et vous ne vous en serez
-pas aperçus!
-16 Il n’y a pas beaucoup de promesses pour cette Eglise, cette Eglise des nations, l’Epouse.
-17 Mais je voudrais que vous compreniez bien qu’il y a une église et une Epouse. Vous devez
-toujours considérer que les choses vont par trois (quatre est faux). Trois, sept, dix, douze,
-vingt-quatre, quarante et cinquante: ce sont des nombres significatifs. Dieu dirige Ses messages
-par les nombres de la Bible, dans ces nombres. Si vous trouvez quelque chose qui ne
-corresponde pas à l’un de ces nombres, faites attention car ce ne sera plus juste: vous devez
-revenir à votre point de départ.
-18 L’autre jour nous parlions avec le frère Lee Vayle (je pense qu’il est ici) sur cette question de
-quitter la bonne voie; c’est comme tirer à la cible: si le fusil est parfaitement équilibré, dirigé et
-pointé il doit atteindre la cible, à moins que le canon ne bouge, ne dévie ou ne vibre, ou qu’il n’y ait
-une rafale de vent. Quelque soit la direction que vous ayez prise il n’y a qu’une chose à faire si
-vous voulez toucher le but: c’est retourner au point où vous avez perdu la piste et faire un nouveau
-départ. Autrement, on n’atteint pas la cible.
-19 Je crois que c’est ainsi qu’il faut étudier l’Ecriture. Si nous partons sur quelque chose mais
-que cela ne donne rien de juste, c’est que nous avons fait une erreur quelque part. Il faut alors
-revenir en arrière. Vous ne comprendrez jamais rien à ces choses avec votre pensée. Nous
-venons de voir par l’Ecriture qu’il n’y avait aucun homme dans le Ciel, sur la terre ou sous la terre
-qui ait jamais été ou qui sera jamais capable de le faire. Seul l’Agneau peut le faire. C’est pourquoi
-les explications des séminaires quelles qu’elles puissent être ne valent rien. Il faut que ce soit
-l’Agneau qui le révèle. C’est tout. C’est pourquoi nous avons l’assurance que c’est Lui qui nous
-aidera.
+8 Il y a tellement de choses! Si je pouvais révéler ici du haut de la chaire toutes ces choses comme elles m’ont été révélées dans ma chambre, oh frères, ce serait merveilleux! Mais quand nous sommes ici nous sommes pressés par le temps, ce qui fait que nous devons sauter bien des choses, faisant de notre mieux pour vous apporter au moins le principal afin que vous puissiez le voir.
 
-        http://www.cmpp.ch
+9 J’aime beaucoup ce cantique que le frère Ungren vient de chanter: Descendu de Sa Gloire. S’Il n’était pas descendu de Sa gloire, où serions-nous ce soir? C’est pourquoi nous Lui sommes reconnaissants de ce qu’Il est descendu pour nous aider.
 
-REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 4
-20 Au quatrième chapitre, Jean fut enlevé au Ciel afin de voir les choses qui étaient, qui sont et
-qui seront. Mais l’Eglise arrive à sa fin au quatrième chapitre; Christ enlève l’Eglise; elle est
-emportée dans les airs à Sa rencontre et elle n’apparaît plus avant le chapitre dix-neuf, où Il
-revient avec Son Eglise comme Roi des rois et Seigneur des seigneurs. J’espère qu’un jour
-avant Sa venue nous pourrons approfondir ces choses; sinon de toute façon nous les verrons;
-ainsi donc cela n’a pas d’importance.
-21 Le sixième chapitre est l’ouverture des Sceaux. Nous lirons d’abord le premier Sceau. Pour
-donner un meilleur fondement, répétons ce que nous avons dit hier soir. Jean regarda et vit que le
-Livre se trouvait encore dans les mains de son Propriétaire originel, Dieu. Vous rappelez-vous
-comment cela avait été perdu? Par Adam. Il abandonna le Livre de Vie pour la connaissance de
-Satan et perdit ainsi son héritage. Il perdit tout et il n’avait aucun moyen de rédemption.
-22 Alors Dieu, s’étant fait semblable à un homme, descendit et devint notre Rédempteur afin de
-nous racheter. Nous voyons maintenant que ces choses qui étaient mystérieuses dans les jours du
-passé doivent nous être dévoilées dans les derniers jours.
-23 Nous avons vu également qu’aussitôt que Jean entendit la proclamation annonçant que le
-Parent Rédempteur allait s’avancer pour faire valoir Ses droits, il n’y avait aucun homme qui
-pouvait le faire. Personne dans le Ciel, sur la terre ou sous la terre, personne n’était digne, ne
-serait-ce que de regarder le Livre. Pensez-y! Pas une seule personne né fut trouvée digne, ne
-serait-ce que de regarder le Livre. Alors Jean se mit à pleurer.
-24 Il comprit qu’il n’y avait aucune possibilité de rédemption. Tout allait manquer, mais nous
-voyons bientôt que ses pleurs cessèrent rapidement parce qu’un des vingt-quatre anciens lui dit:
-“Ne pleure pas, Jean, car le Lion de la tribu de Juda a vaincu et a conquis!”.
-25 Se tournant, Jean vit un Agneau qui s’avançait. Il devait être ensanglanté, meurtri et blessé. Il
-avait été immolé. C’était un Agneau qui avait été immolé et qui naturellement était encore couvert
-de sang. C’est comme si vous aviez égorgé et mis à mort un agneau. C’est ainsi qu’était l’Agneau:
-immolé sur une croix, une lance dans le côté, des clous dans les mains et les pieds, le front
-déchiré par des épines. Il était dans un état effroyable. Et cet Agneau sortit et s’avança vers Celui
-qui était assis sur le Trône et qui tenait le titre complet de propriété de la Rédemption; l’Agneau
-alla prendre le Livre de ta main de Celui qui était assis sur le Trône; Il le prit, en brisa les
-Sceaux et ouvrit le Livre.
-26 Quand cela arriva, nous avons compris que quelque chose de glorieux a dû se passer dans le
-Ciel car les vingt-quatre anciens, les être vivants et tout dans le Ciel se mit à crier: “Tu es digne!”.
-Alors vinrent les anges qui versèrent les coupes remplies des prières des saints. Les saints sous
-l’autel s’écrièrent alors: “Tu es digne, ô Agneau, car Tu nous as rachetés, et Tu as fait de nous des
-rois et des sacrificateurs et nous régnerons sur la terre”. Oh, frères, c’est ce qui arriva lorsqu’Il
-ouvrit le Livre.
-27 Vous voyez, le plan du Livre fut établi avant la fondation du monde. Ce Livre, la Bible, fut en
-réalité écrit avant la fondation du monde. Et Christ, étant l’Agneau, fut immolé avant la
-fondation du monde. Et les noms des membres de Son Epouse furent écrits dans le Livre
-de Vie de l’Agneau avant la fondation du monde; mais ce Livre avait été scellé! Mais
-maintenant il est en train d’être révélé ainsi que les noms de ceux qui y étaient inscrits, et tout ce
-qui s’y rapporte. Comme c’est glorieux! Quand Jean vit cela il dit que tout ce qui était dans le Ciel,
-tout ce qui était sous la terre, tout l’entendit proclamer: “Amen! Louange et honneur!”. Ce fut pour
-lui un moment glorieux, parce que l’Agneau était digne!
-28 Maintenant au moment où nous entrons dans ce sixième chapitre, l’Agneau se tient ici ce soir.
-Il tient le Livre dans Sa main et va commencer à Le révéler; j’espère que vous êtes spirituels.
-J’aurais commis une erreur terrible à ce sujet si aujourd’hui, vers midi, le Saint-Esprit n’était pas
-venu dans ma chambre pour corriger sur un point ce que j’étais en train d’écrire pour la prédication
-de ce soir.
-29 J’étais en train de tirer mon exposé d’anciennes notes. Je n’avais rien sur ce sujet. Je ne sais
-d’ailleurs rien du tout du deuxième Sceau, mais j’ai des notes sur ce que j’ai dit il y a quelques
-années. J’avais rassemblé ces notes d’après le livre du Dr Smith et d’autres grands érudits qui
-croyaient ces choses, c’est pourquoi je les avais notées. Je me disais: «Eh bien, je vais étudier
-cela à partir de ce point de vue». Mais vers midi le Saint-Esprit se glissa simplement dans la pièce
+10 Maintenant, comme beaucoup sont debout, nous irons aussi vite que possible. Je ne dis pas que nous étudierons ces choses hâtivement, mais nous allons commencer aussi vite que possible.
 
-        http://www.cmpp.ch
+11 Nous avons déjà vu les chapitres un, deux, trois, quatre et hier soir le chapitre cinq. Ce soir, nous commencerons le sixième chapitre de l’Apocalypse. En étudiant ce chapitre nous nous référerons à divers passages de l’Ancien et du Nouveau Testament parce que le Livre tout entier est la révélation de Jésus-Christ. C’est la révélation tout entière du Seigneur Jésus, la révélation de Jésus-Christ. C’est Dieu qui Se révèle dans ce Livre, qui se révèle au moyen de Christ. Christ est la révélation de Dieu. Il est venu pour révéler Dieu parce que Lui et Dieu sont une seule et même chose. Dieu était en Christ, réconciliant le monde avec Lui-même.
 
-REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 5
-et m’ouvrit le tout et voilà, le premier Sceau était ouvert!
-30 Aussi vrai que je me trouve ici ce soir, ce que je vais vous montrer ce soir est la Vérité de
-l’Evangile. Je le sais! Parce que si une révélation est contraire à la Parole, ce n’est pas une
-révélation. Et vous savez qu’il y a des choses qui peuvent paraître absolument vraies et qui
-cependant ne le sont pas. Elles en ont l’air, mais ne le sont pas.
-31 Nous voyons maintenant l’Agneau qui tient le Livre et nous lisons dans le sixième chapitre: “Et
-je vis, lorsque l’Agneau ouvrit l’un des sept Sceaux, et j’entendis l’un des quatre animaux disant
-comme une voix de tonnerre: Viens et vois. Et je vis: et voici un cheval blanc, et celui qui était
-assis dessus ayant un arc; et une couronne lui fut donnée, et il sortit en vainqueur et pour vaincre”.
-32 Ceci est le premier Sceau, celui que nous allons essayer d’expliquer ce soir par la grâce de
-Dieu. Nous le ferons de notre mieux, mais je me rends compte qu’un homme qui essaie
-d’expliquer cela marche sur un terrain dangereux s’il ne sait pas ce qu’il est en train de faire.
-33 C’est pourquoi si cela me vient par révélation je vous le dirai. Si cela vient de mes propres
-pensées je vous le préciserai avant d’en parler. Mais aussi sûr que je me tiens devant vous ce
-soir, cela m’a été donné aujourd’hui par une révélation toute fraîche du Tout-Puissant. Je ne
-suis pas enclin à dire de pareilles choses quand elles se rapportent à cette partie de l’Ecriture. Je
-pense que vous comprenez ce que je veux dire.
-34 Vous ne pouvez pas dire des choses qui doivent se trouver là-dedans avant qu’elles
-n’arrivent. Vous ne pouvez pas les dire avant que quelque chose ne le place là, vous voyez?
-Etes-vous en train de lire? Ecoutez-vous quelque chose?
-35 Le Livre enroulé et scellé de sept Sceaux est maintenant délié par l’Agneau. C’est de cet
-événement que nous nous approchons ce soir. Que Dieu nous vienne en aide! Tandis que les
-Sceaux sont brisés et le Livre délié, les mystères de ce Livre sont révélés. Vous voyez que ce
-Livre est un Livre scellé. Nous le croyons, n’est-ce pas? Nous croyons que c’est un Livre scellé.
-Nous ne le savions pas auparavant, mais c’est ainsi. Il est scellé de sept Sceaux, c’est-à-dire que
-le dos du Livre est scellé de sept Sceaux.
-36 S’il s’agissait d’un livre semblable à nos livres actuels, c’est comme si nous le fermions par
-sept rubans. Mais ce n’est pas de ce genre de livre qu’il s’agit: c’est d’un rouleau. Alors lorsqu’un
-des rouleaux est déroulé cela fait un; à l’intérieur de ce rouleau il y en a un deuxième où le
-contenu est écrit, mais c’est un mystère. Nous avons bien essayé de le sonder, mais
-rappelez-vous que le Livre est scellé: c’est un Livre de mystère et de révélation. C’est la révélation
-de Jésus-Christ, c’est un Livre de révélation. Or vous savez que tout au long des âges les hommes
-l’ont sondé et ont essayé de comprendre. Nous l’avons fait!
-37 Cela me rappelle un souvenir au sujet de M. Bohannon (au cas où lui ou un membre de sa
-famille serait présent, je précise bien qu’il n’est pas dans mon intention de l’insulter). C’est un très
-cher ami. Il était en ce temps-là chef de service dans le service public où je travaillais. Après avoir
-été sauvé, je l’invitai à lire l’Apocalypse. M. Bohannon était un homme bon, membre de l’église,
-mais il me répondit: «J’ai essayé de lire ces choses, mais je pense que ce soir-là l’apôtre Jean
-avait dû manger des piments et qu’il était allé coucher avec un estomac bien rempli».
-38 Bien que cela eût pu me coûter ma place je lui répondis: «N’avez-vous pas honte de parler
-ainsi de la Parole de Dieu?». Cependant je n’étais qu’un jeune homme de vingt-et-un ans au plus,
-le travail était rare et nous étions en pleine crise. Mais j’étais effrayé d’entendre injurier la Parole
-de Dieu. Elle est la Vérité, toute la Vérité!
-39 Ce n’était pas un rêve ni un cauchemar! Cela ne venait pas de ce que Jean avait mangé. Il
-était sur l’île de Patmos parce qu’il essayait de mettre la Parole de Dieu sous forme de livre et qu’il
-avait été exilé là par le gouvernement de Rome; il était sur l’île au Jour du Seigneur et il entendit
-derrière lui une voix qui était comme une voix de grandes eaux; il se retourna pour regarder et vit
-sept chandeliers d’or; au milieu se tenait le Fils de Dieu.
-40 Dans le Livre il y a une révélation; une révélation, c’est quelque chose que l’on fait connaître
-au sujet de quelque chose, c’est quelque chose qui a été révélé, Remarquez-le bien maintenant
-afin de ne pas l’oublier: il est fermé jusqu’au temps de la fin. Le mystère entier de cela est caché
-jusqu’au temps de la fin; nous trouvons cela ici dans l’Ecriture.
-41 Ainsi les mystères du Livre sont révélés quand les Sceaux sont brisés. Et quand les Sceaux
+12 En d’autres termes vous n’auriez jamais connu ce qu’était Dieu s’Il ne s’était pas révélé Lui-même au moyen de Christ; alors vous pouvez Le voir.
 
-        http://www.cmpp.ch
+13 Il y a quelques années je pensais que Dieu était peut-être fâché contre moi mais que Christ m’aimait. Mais j’ai fini par découvrir qu’ils sont une seule et même Personne. Christ est le coeur même de Dieu.
 
-REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 6
-sont complètement brisés, le temps de la rédemption est terminé, parce que l’Agneau quitte le lieu
-d’intercession pour aller prendre possession de ses droits. Entre-temps Il est un Médiateur, mais
-quand la véritable révélation des Sceaux se fait tandis qu’ils commencent à être brisés, l’Agneau
-est en train de sortir du Sanctuaire. C’est en accord avec la Parole, nous l’avons lu hier soir. Il vint
-et prit le Livre. Ainsi Il n’est plus un Médiateur parce qu’on L’a appelé un Lion, ce qui signifie le Roi,
-et maintenant Il n’est plus un Médiateur.
-42 Bien que les acteurs de ces Sceaux commencent à entrer en scène au premier âge de
-l’Eglise… souvenez-vous-en, afin d’en saisir aussi complètement que possible le sens profond.
-Les acteurs… je les appelle ainsi parce qu’un acteur est un homme qui change de masque.
-43 Dans l’acte qui va se jouer ce soir nous allons voir Satan changer de masque. Et tous les
-acteurs… Christ a joué Son rôle quand Il passa de l’état d’Esprit à celui d’homme. Il revêt
-alors simplement Son costume d’acteur (une chair humaine) et descend sous la forme d’un
-homme afin d’être un Parent Rédempteur.
-44 Vous voyez, c’est simplement sous la forme d’un jeu d’acteurs; c’est pour cette raison que
-tout est donné en paraboles et que les personnages sont présentés ici comme des êtres vivants,
-des animaux et ainsi de suite. C’est une représentation. Et ces acteurs commencent au premier
-âge de l’Eglise. Comprenez-vous? Très bien! C’est Christ se révélant aux sept âges de l’Eglise.
-Ensuite tout au long de ces âges se produit une grande confusion. Puis, à la fin des âges de
-l’Eglise, le message du septième ange doit recueillir l’ensemble de ces mystères perdus et les
-donner à l’Eglise. C’est ce que nous remarquerons.
-45 Mais ce n’était pas encore révélé dans son état réel. Du temps de la Bible les mystères
-étaient là et ils virent ces choses arriver de la même manière que Jean les vit ici. Ainsi lorsqu’il dit:
-“Il y a un cavalier sur un cheval blanc…”. Il y avait un mystère au sujet de ce cavalier. Ce que
-c’était ils ne le savaient pas. Mais cela va être révélé. Cela doit être révélé après que l’Agneau
-aura quitté le Trône du Père, le siège de Son intercession en tant que Parent Rédempteur.
-46 Maintenant je vais glisser quelque chose ici en passant. Tout homme a le droit de parler selon
-ses convictions. Mais si un pasteur ne veut pas de cela dans son assemblée, alors il faut lui dire
-de ne pas prendre ces bandes. Mais ceci est fait au milieu des gens auxquels j’ai été envoyé pour
-leur parler, c’est pourquoi je dois leur révéler ce qui est la Vérité.
-47 Ainsi l’Agneau, alors qu’Il était encore dans le temps de l’intercession, savait qu’il y avait des
-noms dans ce Livre qui y avaient été inscrits dès la fondation du monde, et comme ces noms n’ont
-jamais encore été manifestés jusqu’à présent, il a fallu qu’Il se trouve là comme intercesseur.
-Comprenez-vous cela? Parfaitement, c’est la prédestination!
-48 Bien! Il avait dû rester là parce qu’Il était venu mourir pour ceux que Dieu avait ordonnés à la
-Vie Eternelle. Il les avait vus par Sa prescience et non par Sa propre volonté. Sa volonté était
-qu’aucun ne périsse, mais par Sa prescience Il savait qui périrait et qui ne périrait pas.
-49 Par conséquent aussi longtemps qu’il reste un nom qui n’a pas encore été proclamé sur la
-terre, Christ doit demeurer là comme Intercesseur pour prendre soin de ce nom. Mais aussitôt
-que ce dernier nom aura été plongé dans ce décolorant, les jours de Son intercession
-seront terminés: “Que celui qui est souillé se souille encore, que celui qui est saint se sanctifie
-encore”. Alors Il quitte le sanctuaire qui devient maintenant un trône de jugement. Malheur à
-ceux qui seront alors en dehors de Christ à ce moment-là!
-50 Mais remarquez ceci: Il faut que soit révélé quand l’Agneau quitte Son lieu d’intercession
-auprès du Père (Apocalypse 5). Il prend alors le Livre des Sceaux ou plutôt le Livre scellé par les
-Sceaux, brise ces Sceaux et les montre à la fin de l’âge, après que l’intercession est terminée; les
-âges de l’Eglise sont maintenant terminés. Il est venu dans le premier âge, l’âge d’Ephèse, a
-révélé et envoyé le messager. Remarquez ce qui va se passer tandis que nous avançons.
-51 Voici le plan de cela: Quand la première chose arrive, il y a premièrement une annonce
-faite dans le Ciel. Qu’est-il arrivé? Un Sceau est ouvert. Qu’est-ce que c’est? Un mystère est
-révélé. Et quand un mystère est révélé, une trompette sonne. Elle déclare une guerre. Une
-plaie tombe et un âge d’Eglise s’ouvre. Vous voyez? Pourquoi cette guerre? L’ange de l’Eglise
-saisit le mystère de Dieu qui n’est pas encore révélé entièrement; il saisit ce mystère de Dieu, puis
-va vers le peuple après que le mystère lui ait été donné. Il va vers le peuple. Que va-t-il faire
-là-bas? Il commence à proclamer ce message; et que suscite ce message? Une guerre! Une
+14 Les trois premiers chapitres de l’Apocalypse que nous avons étudiés de très près sont les âges de l’Église, les sept âges de l’Église. Il y a sept âges de l’Église, sept Sceaux, sept trompettes, sept coupes, sept esprits impurs semblables à des grenouilles; tout cela va ensemble. Oh combien j’aimerais avoir un grand tableau noir pour dessiner toutes ces choses comme je les vois, montrant comment chacune d’elles prend sa place. Je l’ai dessiné sur un petit bout de papier et jusqu’à présent tout est parfaitement juste. Les temps et les âges sont venus et ont passé, et tout cela se joint parfaitement. Peut-être que ce n’est pas totalement juste, mais c’est en tout cas au mieux de ma connaissance. Je sais que si je fais une erreur en essayant de faire de mon mieux, Dieu me pardonnera sûrement cette erreur, si je me suis trompé.
 
-        http://www.cmpp.ch
+15 Donc ces trois premiers chapitres sont les sept âges de l’Église; dans le quatrième chapitre nous voyons que Jean est enlevé en haut. Il n’est pas dit grand’chose au sujet des âges de l’Église. C’est là que je pense que les gens vont avoir bien des surprises! Ils appliquent les voies de l’église jusque dans la tribulation à ces choses qui sont arrivées. Et comme je le disais hier dimanche, les tribulations commenceront et vous vous demanderez alors pourquoi la première venue n’était pas l’enlèvement. Mais il aura déjà eu lieu: il sera passé et vous ne vous en serez pas aperçus!
 
-REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 7
-guerre spirituelle.
-52 Ensuite Dieu prend Son messager avec les élus de cet âge et les fait reposer à l’écart dans le
-sommeil. Puis Il fait tomber une plaie sur ceux qui l’ont rejeté, un jugement temporaire.
-53 Quand c’est terminé ils continuent, s’organisent et introduisent des dénominations; ils partent
-de l’oeuvre d’hommes comme Wesley et les autres et tout retombe dans la confusion. Ensuite un
-autre mystère apparaît. Alors que se passe-t-il? Un autre messager arrive sur la terre pour un
-nouvel âge de l’Eglise.
-54 Quand il arrive, la trompette sonne. Il déclare la guerre. Et ensuite que se passe-t-il? Le
-messager est finalement enlevé. Puis quand il est envoyé à l’écart dans le repos, une plaie tombe
-et les détruit. La mort spirituelle frappe l’église et ce groupe est mort. Puis cela recommence.
-55 Oh, c’est un plan glorieux qui se réalise jusqu’à l’arrivée du dernier ange. Celui-ci n’a pas un
-mystère particulier, mais rassemble tout ce qui a été perdu dans les autres âges, toutes les vérités
-qui n’étaient pas encore véritablement révélées dans le cours de la révélation. Ensuite il révèle ces
-choses en son jour. Si vous voulez lire cela, voyez Apocalypse 10.1-4. Bien!
-56 L’Agneau prend le Livre des Sceaux, les brise et montre le septième ange, car cela seul est le
-ministère du septième ange, de révéler les mystères de Dieu. Nous sommes maintenant parvenus
-au bout des âges de l’Eglise; l’histoire elle-même le prouve. C’est le message de l’ange de la
-septième Eglise.
+16 Il n’y a pas beaucoup de promesses pour cette Église, cette Église des nations, l’Épouse.
+
+17 Mais je voudrais que vous compreniez bien qu’il y a une église et une Épouse. Vous devez toujours considérer que les choses vont par trois (quatre est faux). Trois, sept, dix, douze, vingt-quatre, quarante et cinquante: ce sont des nombres significatifs. Dieu dirige Ses messages par les nombres de la Bible, dans ces nombres. Si vous trouvez quelque chose qui ne corresponde pas à l’un de ces nombres, faites attention car ce ne sera plus juste: vous devez revenir à votre point de départ.
+
+18 L’autre jour nous parlions avec le frère Lee Vayle (je pense qu’il est ici) sur cette question de quitter la bonne voie; c’est comme tirer à la cible: si le fusil est parfaitement équilibré, dirigé et pointé il doit atteindre la cible, à moins que le canon ne bouge, ne dévie ou ne vibre, ou qu’il n’y ait une rafale de vent. Quelque soit la direction que vous ayez prise il n’y a qu’une chose à faire si vous voulez toucher le but: c’est retourner au point où vous avez perdu la piste et faire un nouveau départ. Autrement, on n’atteint pas la cible.
+
+19 Je crois que c’est ainsi qu’il faut étudier l’Écriture. Si nous partons sur quelque chose mais que cela ne donne rien de juste, c’est que nous avons fait une erreur quelque part. Il faut alors revenir en arrière. Vous ne comprendrez jamais rien à ces choses avec votre pensée. Nous venons de voir par l’Écriture qu’il n’y avait aucun homme dans le Ciel, sur la terre ou sous la terre qui ait jamais été ou qui sera jamais capable de le faire. Seul l’Agneau peut le faire. C’est pourquoi les explications des séminaires quelles qu’elles puissent être ne valent rien. Il faut que ce soit l’Agneau qui le révèle. C’est tout. C’est pourquoi nous avons l’assurance que c’est Lui qui nous aidera.
+
+20 Au quatrième chapitre, Jean fut enlevé au Ciel afin de voir les choses qui étaient, qui sont et qui seront. Mais l’Église arrive à sa fin au quatrième chapitre; Christ enlève l’Église; elle est emportée dans les airs à Sa rencontre et elle n’apparaît plus avant le chapitre dix-neuf, où Il revient avec Son Église comme Roi des rois et Seigneur des seigneurs. J’espère qu’un jour avant Sa venue nous pourrons approfondir ces choses; sinon de toute façon nous les verrons; ainsi donc cela n’a pas d’importance.
+
+21 Le sixième chapitre est l’ouverture des Sceaux. Nous lirons d’abord le premier Sceau. Pour donner un meilleur fondement, répétons ce que nous avons dit hier soir. Jean regarda et vit que le Livre se trouvait encore dans les mains de son Propriétaire originel, Dieu. Vous rappelez-vous comment cela avait été perdu? Par Adam. Il abandonna le Livre de Vie pour la connaissance de Satan et perdit ainsi son héritage. Il perdit tout et il n’avait aucun moyen de rédemption.
+
+22 Alors Dieu, s’étant fait semblable à un homme, descendit et devint notre Rédempteur afin de nous racheter. Nous voyons maintenant que ces choses qui étaient mystérieuses dans les jours du passé doivent nous être dévoilées dans les derniers jours.
+
+23 Nous avons vu également qu’aussitôt que Jean entendit la proclamation annonçant que le Parent Rédempteur allait s’avancer pour faire valoir Ses droits, il n’y avait aucun homme qui pouvait le faire. Personne dans le Ciel, sur la terre ou sous la terre, personne n’était digne, ne serait-ce que de regarder le Livre. Pensez-y! Pas une seule personne ne fut trouvée digne, ne serait-ce que de regarder le Livre. Alors Jean se mit à pleurer.
+
+24 Il comprit qu’il n’y avait aucune possibilité de rédemption. Tout allait manquer, mais nous voyons bientôt que ses pleurs cessèrent rapidement parce qu’un des vingt-quatre anciens lui dit: “Ne pleure pas, Jean, car le Lion de la tribu de Juda a vaincu et a conquis!”.
+
+25 Se tournant, Jean vit un Agneau qui s’avançait. Il devait être ensanglanté, meurtri et blessé. Il avait été immolé. C’était un Agneau qui avait été immolé et qui naturellement était encore couvert de sang. C’est comme si vous aviez égorgé et mis à mort un agneau. C’est ainsi qu’était l’Agneau: immolé sur une croix, une lance dans le côté, des clous dans les mains et les pieds, le front déchiré par des épines. Il était dans un état effroyable. Et cet Agneau sortit et s’avança vers Celui qui était assis sur le Trône et qui tenait le titre complet de propriété de la Rédemption; l’Agneau alla prendre le Livre de la main de Celui qui était assis sur le Trône; Il le prit, en brisa les Sceaux et ouvrit le Livre.
+
+26 Quand cela arriva, nous avons compris que quelque chose de glorieux a dû se passer dans le Ciel car les vingt-quatre anciens, les êtres vivants et tout dans le Ciel se mit à crier: “Tu es digne!”. Alors vinrent les anges qui versèrent les coupes remplies des prières des saints. Les saints sous l’autel s’écrièrent alors: “Tu es digne, ô Agneau, car Tu nous as rachetés, et Tu as fait de nous des rois et des sacrificateurs et nous régnerons sur la terre”. Oh, frères, c’est ce qui arriva lorsqu’Il ouvrit le Livre.
+
+27 Vous voyez, le plan du Livre fut établi avant la fondation du monde. Ce Livre, la Bible, fut en réalité écrit avant la fondation du monde. Et Christ, étant l’Agneau, fut immolé avant la fondation du monde. Et les noms des membres de Son Épouse furent écrits dans le Livre de Vie de l’Agneau avant la fondation du monde; mais ce Livre avait été scellé! Mais maintenant il est en train d’être révélé ainsi que les noms de ceux qui y étaient inscrits, et tout ce qui s’y rapporte. Comme c’est glorieux! Quand Jean vit cela il dit que tout ce qui était dans le Ciel, tout ce qui était sous la terre, tout l’entendit proclamer: “Amen! Louange et honneur!”. Ce fut pour lui un moment glorieux, parce que l’Agneau était digne!
+
+28 Maintenant au moment où nous entrons dans ce sixième chapitre, l’Agneau se tient ici ce soir. Il tient le Livre dans Sa main et va commencer à Le révéler; j’espère que vous êtes spirituels. J’aurais commis une erreur terrible à ce sujet si aujourd’hui, vers midi, le Saint-Esprit n’était pas venu dans ma chambre pour corriger sur un point ce que j’étais en train d’écrire pour la prédication de ce soir.
+
+29 J’étais en train de tirer mon exposé d’anciennes notes. Je n’avais rien sur ce sujet. Je ne sais d’ailleurs rien du tout du deuxième Sceau, mais j’ai des notes sur ce que j’ai dit il y a quelques années. J’avais rassemblé ces notes d’après le livre du Dr Smith et d’autres grands érudits qui croyaient ces choses, c’est pourquoi je les avais notées. Je me disais: «Eh bien, je vais étudier cela à partir de ce point de vue». Mais vers midi le Saint-Esprit se glissa simplement dans la pièce et m’ouvrit le tout et voilà, le premier Sceau était ouvert!
+
+30 Aussi vrai que je me trouve ici ce soir, ce que je vais vous montrer ce soir est la Vérité de l’Évangile. Je le sais! Parce que si une révélation est contraire à la Parole, ce n’est pas une révélation. Et vous savez qu’il y a des choses qui peuvent paraître absolument vraies et qui cependant ne le sont pas. Elles en ont l’air, mais ne le sont pas.
+
+31 Nous voyons maintenant l’Agneau qui tient le Livre et nous lisons dans le sixième chapitre: “Et je vis, lorsque l’Agneau ouvrit l’un des sept Sceaux, et j’entendis l’un des quatre animaux disant comme une voix de tonnerre: Viens et vois. Et je vis: et voici un cheval blanc, et celui qui était assis dessus ayant un arc; et une couronne lui fut donnée, et il sortit en vainqueur et pour vaincre”.
+
+32 Ceci est le premier Sceau, celui que nous allons essayer d’expliquer ce soir par la grâce de Dieu. Nous le ferons de notre mieux, mais je me rends compte qu’un homme qui essaie d’expliquer cela marche sur un terrain dangereux s’il ne sait pas ce qu’il est en train de faire.
+
+33 C’est pourquoi si cela me vient par révélation je vous le dirai. Si cela vient de mes propres pensées je vous le préciserai avant d’en parler. Mais aussi sûr que je me tiens devant vous ce soir, cela m’a été donné aujourd’hui par une révélation toute fraîche du Tout-Puissant. Je ne suis pas enclin à dire de pareilles choses quand elles se rapportent à cette partie de l’Écriture. Je pense que vous comprenez ce que je veux dire.
+
+34 Vous ne pouvez pas dire des choses qui doivent se trouver là-dedans avant qu’elles n’arrivent. Vous ne pouvez pas les dire avant que quelque chose ne le place là, vous voyez? Êtes-vous en train de lire? Écoutez-vous quelque chose?
+
+35 Le Livre enroulé et scellé de sept Sceaux est maintenant délié par l’Agneau. C’est de cet événement que nous nous approchons ce soir. Que Dieu nous vienne en aide! Tandis que les Sceaux sont brisés et le Livre délié, les mystères de ce Livre sont révélés. Vous voyez que ce Livre est un Livre scellé. Nous le croyons, n’est-ce pas? Nous croyons que c’est un Livre scellé. Nous ne le savions pas auparavant, mais c’est ainsi. Il est scellé de sept Sceaux, c’est-à-dire que le dos du Livre est scellé de sept Sceaux.
+
+36 S’il s’agissait d’un livre semblable à nos livres actuels, c’est comme si nous le fermions par sept rubans. Mais ce n’est pas de ce genre de livre qu’il s’agit: c’est d’un rouleau. Alors lorsqu’un des rouleaux est déroulé cela fait un; à l’intérieur de ce rouleau il y en a un deuxième où le contenu est écrit, mais c’est un mystère. Nous avons bien essayé de le sonder, mais rappelez-vous que le Livre est scellé: c’est un Livre de mystère et de révélation. C’est la révélation de Jésus-Christ, c’est un Livre de révélation. Or vous savez que tout au long des âges les hommes l’ont sondé et ont essayé de comprendre. Nous l’avons fait!
+
+37 Cela me rappelle un souvenir au sujet de M. Bohannon (au cas où lui ou un membre de sa famille serait présent, je précise bien qu’il n’est pas dans mon intention de l’insulter). C’est un très cher ami. Il était en ce temps-là chef de service dans le service public où je travaillais. Après avoir été sauvé, je l’invitai à lire l’Apocalypse. M. Bohannon était un homme bon, membre de l’église, mais il me répondit: «J’ai essayé de lire ces choses, mais je pense que ce soir-là l’apôtre Jean avait dû manger des piments et qu’il était allé coucher avec un estomac bien rempli».
+
+38 Bien que cela eût pu me coûter ma place je lui répondis: «N’avez-vous pas honte de parler ainsi de la Parole de Dieu?». Cependant je n’étais qu’un jeune homme de vingt-et-un ans au plus, le travail était rare et nous étions en pleine crise. Mais j’étais effrayé d’entendre injurier la Parole de Dieu. Elle est la Vérité, toute la Vérité!
+
+39 Ce n’était pas un rêve ni un cauchemar! Cela ne venait pas de ce que Jean avait mangé. Il était sur l’île de Patmos parce qu’il essayait de mettre la Parole de Dieu sous forme de livre et qu’il avait été exilé là par le gouvernement de Rome; il était sur l’île au Jour du Seigneur et il entendit derrière lui une voix qui était comme une voix de grandes eaux; il se retourna pour regarder et vit sept chandeliers d’or; au milieu se tenait le Fils de Dieu.
+
+40 Dans le Livre il y a une révélation; une révélation, c’est quelque chose que l’on fait connaître au sujet de quelque chose, c’est quelque chose qui a été révélé. Remarquez-le bien maintenant afin de ne pas l’oublier: il est fermé jusqu’au temps de la fin. Le mystère entier de cela est caché jusqu’au temps de la fin; nous trouvons cela ici dans l’Écriture.
+
+41 Ainsi les mystères du Livre sont révélés quand les Sceaux sont brisés. Et quand les Sceaux sont complètement brisés, le temps de la rédemption est terminé, parce que l’Agneau quitte le lieu d’intercession pour aller prendre possession de ses droits. Entre-temps Il est un Médiateur, mais quand la véritable révélation des Sceaux se fait tandis qu’ils commencent à être brisés, l’Agneau est en train de sortir du Sanctuaire. C’est en accord avec la Parole, nous l’avons lu hier soir. Il vint et prit le Livre. Ainsi Il n’est plus un Médiateur parce qu’on L’a appelé un Lion, ce qui signifie le Roi, et maintenant Il n’est plus un Médiateur.
+
+42 Bien que les acteurs de ces Sceaux commencent à entrer en scène au premier âge de l’Église… souvenez-vous-en, afin d’en saisir aussi complètement que possible le sens profond. Les acteurs… je les appelle ainsi parce qu’un acteur est un homme qui change de masque.
+
+43 Dans l’acte qui va se jouer ce soir nous allons voir Satan changer de masque. Et tous les acteurs… Christ a joué Son rôle quand Il passa de l’état d’Esprit à celui d’homme. Il revêt alors simplement Son costume d’acteur (une chair humaine) et descend sous la forme d’un homme afin d’être un Parent Rédempteur.
+
+44 Vous voyez, c’est simplement sous la forme d’un jeu d’acteurs; c’est pour cette raison que tout est donné en paraboles et que les personnages sont présentés ici comme des êtres vivants, des animaux et ainsi de suite. C’est une représentation. Et ces acteurs commencent au premier âge de l’Église. Comprenez-vous? Très bien! C’est Christ se révélant aux sept âges de l’Église. Ensuite tout au long de ces âges se produit une grande confusion. Puis, à la fin des âges de l’Église, le message du septième ange doit recueillir l’ensemble de ces mystères perdus et les donner à l’Église. C’est ce que nous remarquerons.
+
+45 Mais ce n’était pas encore révélé dans son état réel. Du temps de la Bible les mystères étaient là et ils virent ces choses arriver de la même manière que Jean les vit ici. Ainsi lorsqu’il dit: “Il y a un cavalier sur un cheval blanc…”. Il y avait un mystère au sujet de ce cavalier. Ce que c’était ils ne le savaient pas. Mais cela va être révélé. Cela doit être révélé après que l’Agneau aura quitté le Trône du Père, le siège de Son intercession en tant que Parent Rédempteur.
+
+46 Maintenant je vais glisser quelque chose ici en passant. Tout homme a le droit de parler selon ses convictions. Mais si un pasteur ne veut pas de cela dans son assemblée, alors il faut lui dire de ne pas prendre ces bandes. Mais ceci est fait au milieu des gens auxquels j’ai été envoyé pour leur parler, c’est pourquoi je dois leur révéler ce qui est la Vérité.
+
+47 Ainsi l’Agneau, alors qu’Il était encore dans le temps de l’intercession, savait qu’il y avait des noms dans ce Livre qui y avaient été inscrits dès la fondation du monde, et comme ces noms n’ont jamais encore été manifestés jusqu’à présent, il a fallu qu’Il se trouve là comme intercesseur. Comprenez-vous cela? Parfaitement, c’est la prédestination!
+
+48 Bien! Il avait dû rester là parce qu’Il était venu mourir pour ceux que Dieu avait ordonnés à la Vie Éternelle. Il les avait vus par Sa prescience et non par Sa propre volonté. Sa volonté était qu’aucun ne périsse, mais par Sa prescience Il savait qui périrait et qui ne périrait pas.
+
+49 Par conséquent aussi longtemps qu’il reste un nom qui n’a pas encore été proclamé sur la terre, Christ doit demeurer là comme Intercesseur pour prendre soin de ce nom. Mais aussitôt que ce dernier nom aura été plongé dans ce décolorant, les jours de Son intercession seront terminés: “Que celui qui est souillé se souille encore, que celui qui est saint se sanctifie encore”. Alors Il quitte le sanctuaire qui devient maintenant un trône de jugement. Malheur à ceux qui seront alors en dehors de Christ à ce moment-là!
+
+50 Mais remarquez ceci: Il faut que soit révélé quand l’Agneau quitte Son lieu d’intercession auprès du Père (Apocalypse 5). Il prend alors le Livre des Sceaux ou plutôt le Livre scellé par les Sceaux, brise ces Sceaux et les montre à la fin de l’âge, après que l’intercession est terminée; les âges de l’Église sont maintenant terminés. Il est venu dans le premier âge, l’âge d’Éphèse, a révélé et envoyé le messager. Remarquez ce qui va se passer tandis que nous avançons.
+
+51 Voici le plan de cela: Quand la première chose arrive, il y a premièrement une annonce faite dans le Ciel. Qu’est-il arrivé? Un Sceau est ouvert. Qu’est-ce que c’est? Un mystère est révélé. Et quand un mystère est révélé, une trompette sonne. Elle déclare une guerre. Une plaie tombe et un âge d’Église s’ouvre. Vous voyez? Pourquoi cette guerre? L’ange de l’Église saisit le mystère de Dieu qui n’est pas encore révélé entièrement; il saisit ce mystère de Dieu, puis va vers le peuple après que le mystère lui ait été donné. Il va vers le peuple. Que va-t-il faire là-bas? Il commence à proclamer ce message; et que suscite ce message? Une guerre! Une guerre spirituelle.
+
+52 Ensuite Dieu prend Son messager avec les élus de cet âge et les fait reposer à l’écart dans le sommeil. Puis Il fait tomber une plaie sur ceux qui l’ont rejeté, un jugement temporaire.
+
+53 Quand c’est terminé ils continuent, s’organisent et introduisent des dénominations; ils partent de l’oeuvre d’hommes comme Wesley et les autres et tout retombe dans la confusion. Ensuite un autre mystère apparaît. Alors que se passe-t-il? Un autre messager arrive sur la terre pour un nouvel âge de l’Église.
+
+54 Quand il arrive, la trompette sonne. Il déclare la guerre. Et ensuite que se passe-t-il? Le messager est finalement enlevé. Puis quand il est envoyé à l’écart dans le repos, une plaie tombe et les détruit. La mort spirituelle frappe l’église et ce groupe est mort. Puis cela recommence.
+
+55 Oh, c’est un plan glorieux qui se réalise jusqu’à l’arrivée du dernier ange. Celui-ci n’a pas un mystère particulier, mais rassemble tout ce qui a été perdu dans les autres âges, toutes les vérités qui n’étaient pas encore véritablement révélées dans le cours de la révélation. Ensuite il révèle ces choses en son jour. Si vous voulez lire cela, voyez Apocalypse 10.1-4. Bien!
+
+56 L’Agneau prend le Livre des Sceaux, les brise et montre le septième ange, car cela seul est le ministère du septième ange, de révéler les mystères de Dieu. Nous sommes maintenant parvenus au bout des âges de l’Église; l’histoire elle-même le prouve. C’est le message de l’ange de la septième Église.
+
 57 Il révèle donc tous les mystères du passé, toutes les choses du passé, voyez Apocalypse 10.1-7. C’est ce qui doit arriver.
-58 Rappelez-vous qu’au jour du septième ange, lorsqu’il sonnerait la Trompette de l’Evangile, il
-terminerait tous les mystères de Dieu. Exactement comme dans les premiers âges de l’Eglise
-(nous le verrons un peu plus tard) une doctrine s’établit. Ce fut d’abord une opinion, quelque chose
-dont on parlait, puis ce fut une doctrine; ensuite cela devint des statuts, puis une église. Cela
-continua jusqu’à la fin de l’âge des ténèbres. De cette période sortit la première réforme avec
-Luther. Il apporta avec lui toutes sortes de choses mystérieuses qui arrivèrent pendant l’âge de
-l’Eglise de ce temps-là, mais il n’acheva pas ces choses.
-59 Ensuite vint Wesley avec la sanctification. Il apporta quelque chose de plus mais lui non plus
-n’acheva pas ces choses. Ils laissèrent partout des choses en suspens telles que l’aspersion d’eau
-au lieu du baptême, et Luther disait: “Père, Fils, Saint-Esprit” au lieu de “Seigneur Jésus-Christ” et
-toutes ces diverses choses.
-60 Puis vint l’âge de Pentecôte avec le Baptême du Saint-Esprit. Mais là aussi ils ont manqué le
-but. Or il ne peut plus y avoir d’autres âges. Il n’y a rien de plus, c’est l’âge de Laodicée. Mais alors
-nous découvrons en étudiant l’Ecriture que le messager de l’âge arrive chaque fois juste à la fin de
-l’âge. Paul est venu à la fin de l’âge, de même qu’Irénée et Martin. Luther est venu à la fin de l’âge
-catholique; Wesley à la fin de l’âge luthérien; et la Pentecôte à la fin de l’âge de la sanctification
-avec le Baptême du Saint-Esprit.
-61 A la fin de l’âge de Pentecôte, selon la Parole (et que Dieu m’aide ce soir à vous le montrer
-par la Parole), nous devons recevoir un messager qui prendra tous ces points restés en
-suspens et révélera le secret de Dieu tout entier pour l’enlèvement de l’Eglise.
-62 Ensuite viennent sept mystérieux tonnerres qui ne sont même pas du tout écrits. C’est
-vrai. Je crois que par le moyen de ces sept tonnerres seront révélées dans ces derniers jours les
-choses nécessaires au rassemblement de l’Epouse en vue de la foi pour l’enlèvement; en effet,
-avec ce que nous avons maintenant, nous ne serions pas capables d’y avoir part. Quelque chose
-doit encore venir avant, car actuellement c’est tout juste si nous avons assez de foi pour la
-guérison divine. Nous devons avoir assez de foi pour être changés en un instant et enlevés
-de cette terre. Dieu voulant, nous trouverons tout à l’heure l’endroit où cela est écrit.
-63 Ensuite tous les jugements viendront sur ces malfaiteurs. Remarquez le déroulement des
-âges au fur et à mesure que ces Sceaux sont brisés, jusqu’au jour où le dernier sera brisé. Tandis
-qu’ils ont observé ces Sceaux, présumant simplement ce que ceux-ci feraient, maintenant à la fin
-des âges de l’Eglise, tous ces malfaiteurs prendront leur position et s’achemineront vers la
-tribulation.
-64 Tous ces malfaiteurs des sept Sceaux ont agi mystérieusement dans l’Eglise et nous verrons
 
-        http://www.cmpp.ch
+58 Rappelez-vous qu’au jour du septième ange, lorsqu’il sonnerait la Trompette de l’Évangile, il terminerait tous les mystères de Dieu. Exactement comme dans les premiers âges de l’Église (nous le verrons un peu plus tard) une doctrine s’établit. Ce fut d’abord une opinion, quelque chose dont on parlait, puis ce fut une doctrine; ensuite cela devint des statuts, puis une église. Cela continua jusqu’à la fin de l’âge des ténèbres. De cette période sortit la première réforme avec Luther. Il apporta avec lui toutes sortes de choses mystérieuses qui arrivèrent pendant l’âge de l’Église de ce temps-là, mais il n’acheva pas ces choses.
 
-    REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU    8
-dans une minute qu’il l’ont même fait au nom d’une église. Ils se nomment eux-mêmes l’Eglise.
-Vous verrez si ce n’est pas vrai! Rien d’étonnant à ce que je me sois pareillement opposé aux
-dénominations, sans même savoir pourquoi!
-65 Cela a commencé sous une forme bénigne au début, puis est allé de plus en plus mal. Et les
-gens entrent tout droit dans cela, disant: «Oh, oui! c’est vraiment bien!». Mais aux derniers jours
-ces choses seront dévoilées. Pour finir ils se corrompent tellement qu’ils entreront tout droit dans
-la tribulation.
-66 Comment peut-on dire que l’Epouse de Christ doit passer par la tribulation? Je ne peux le
-comprendre! Elle est soustraite à la tribulation! Si l’Eglise a été jugée, s’ils se sont jugés
-eux-mêmes et ont accepté le Sang, comment Dieu peut-Il juger un homme qui est
-parfaitement et totalement sans péché? Vous direz: «Une telle personne n’existe pas!».
-Chaque croyant né de nouveau, chaque vrai croyant est parfaitement et absolument sans
-péché devant Dieu. Il ne se confie pas en ses propres oeuvres, mais par sa confession, il a
-plongé ses péchés dans le Sang de Jésus. C’est la Bible qui le dit.
-67 “Celui qui est né de Dieu ne commet pas de péché parce qu’il ne peut pas pécher”. Comment
-pouvez-vous faire d’un homme un pécheur quand le décolorant du Sang de Jésus-Christ est entre
-lui et Dieu? Cela disperse le péché au point qu’il n’en reste plus rien. Comment le Sang pur de
-Christ pourrait-Il laisser passer un seul péché? Il ne le peut pas!
-68 Jésus disait: “Soyez parfaits comme votre Père céleste est parfait”. Comment pourrions-nous
-même commencer à avoir la pensée d’être parfaits? Cependant Jésus l’a exigé. Et si Jésus l’a
-exigé, il fallait qu’Il en donne le moyen, ce qu’il a fait: c’est Son propre Sang.
-69 Il révèle maintenant tous les mystères qui subsistaient dans le passé. Il y a ici la pensée qu’au
-temps de la fin les mystères qui avaient commencé il y a longtemps dans les premiers âges et qui
-avaient passé à travers tous les âges de l’Eglise, doivent à l’ouverture des Sceaux être révélés ici
-dans le dernier âge. A ce moment-là. Le temps de l’intercession est sur le point de s’achever.
-70 Ensuite les jugements attendent ceux qui sont restés en arrière. C’est là-dedans qu’ils
-entreront. Cela se passe après que l’Epouse ait été retirée de la scène. Lisons simplement
-l’Ecriture! Vous aimez tous noter des références, n’est-ce pas? Prenons un instant
-2 Thessaloniciens 2.7. Il y a là une si belle image; j’aime cela! 2 Thessaloniciens 2.7. Je tremblais
-en notant ce passage! “Car le mystère d’iniquité opère déjà; seulement celui qui retient
-maintenant, le fera jusqu’à ce qu’il soit loin”.
-71 Qui est celui qui le retient? C’est un mystère, le mystère d’iniquité qui est déjà ici dans le
-premier âge de l’Eglise. A cet endroit c’est Paul qui écrit, disant que le mystère d’iniquité…
-Qu’est-ce que l’iniquité? L’iniquité est quelque chose que vous savez ne pas devoir faire mais
-que vous faites quand même. Paul dit qu’il y a aujourd’hui sur la terre des ouvriers d’iniquité.
-Lisons ce passage en partant du verset 3: “Que personne ne vous séduise en aucune manière, car
-ce jour-là ne viendra pas que l’apostasie ne soit arrivée auparavant et que l’homme de péché
-(L’HOMME) n’ait été révélé, le fils de perdition (c’est vrai), qui s’oppose et s’élève contre tout ce
-qui est appelé Dieu ou qui est un objet de vénération, en sorte que lui-même s’assiéra au temple
-de Dieu, se présentant lui-même comme étant Dieu (en remettant les péchés). Ne vous
-souvenez-vous pas que, quand j’étais encore auprès de vous, je vous disais ces choses? (J’aurais
-aimé être assis à l’écoute de quelques-uns de ses enseignements. Pas vous?) Et maintenant vous
-savez ce qui retient pour qu’il soit révélé en son propre temps”.
-72 Non pas à ce moment-là, mais “en son temps”. Vous voyez, à l’ouverture de ce Sceau. Nous
-savons exactement ce que c’était. Qui est cet homme d’iniquité? Qui est cet homme de péché, cet
-ouvrier d’iniquité qui doit être révélé en son temps? “Car le mystère d’iniquité opère déjà (ces
-séducteurs qui séduisent le peuple d’une manière ou d’une autre); seulement celui (Dieu) qui
-retient maintenant le fera jusqu’à ce qu’il (Christ, l’Eglise, l’Epouse) soit loin. Et alors sera révélé
-l’inique (à l’ouverture du Sceau, à la fin des temps. Paul dit: “Non pas de mon temps mais au
-temps où il sera révélé”. Vous comprenez?), que le seigneur Jésus consumera par le souffle de sa
-bouche (nous allons voir cela dans un instant) … par le souffle de sa bouche (considérez ce que
-c’est) et qu’il anéantira par l’apparition de sa venue; duquel la venue est selon l’opération de Satan
-(c’est un homme dont les oeuvres se font par le pouvoir de Satan) en toute sorte de miracles et
-signes et prodiges de mensonge, et en toute séduction d’injustice (séduisant les gens par
+59 Ensuite vint Wesley avec la sanctification. Il apporta quelque chose de plus mais lui non plus n’acheva pas ces choses. Ils laissèrent partout des choses en suspens telles que l’aspersion d’eau au lieu du baptême, et Luther disait: “Père, Fils, Saint-Esprit” au lieu de “Seigneur Jésus-Christ” et toutes ces diverses choses.
 
-    http://www.cmpp.ch
+60 Puis vint l’âge de Pentecôte avec le Baptême du Saint-Esprit. Mais là aussi ils ont manqué le but. Or il ne peut plus y avoir d’autres âges. Il n’y a rien de plus, c’est l’âge de Laodicée. Mais alors nous découvrons en étudiant l’Écriture que le messager de l’âge arrive chaque fois juste à la fin de l’âge. Paul est venu à la fin de l’âge, de même qu’Irénée et Martin. Luther est venu à la fin de l’âge catholique; Wesley à la fin de l’âge luthérien; et la Pentecôte à la fin de l’âge de la sanctification avec le Baptême du Saint-Esprit.
 
-REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 9
-l’injustice) pour ceux qui périssent (non point cette Epouse, mais ceux qui recherchent ces choses)
-parce qu’ils n’ont pas reçu l’amour de la vérité (et Christ est la Vérité, Christ est la Parole, mais ils
-préfèrent un credo) pour être sauvés. Et à cause de cela, Dieu leur envoie une énergie d’erreur
-pour qu’ils croient au mensonge (“AU mensonge” et non pas à UN mensonge: c’est le même
-mensonge qu’il dit à Eve), afin que tous ceux-là soient jugés qui n’ont pas cru la vérité, mais qui
-ont pris plaisir à l’injustice”.
-73 Quelle déclaration! Oh, frères! Après l’enlèvement de l’Epouse se révélera cet homme de
-péché. La vraie Epouse de Christ a été élue dans chaque âge de l’Eglise.
-74 L’autre jour je vous ai déclaré que l’Epouse pourrait aller à la maison sans que vous vous en
-aperceviez. C’est vrai! Quelqu’un dira: «Mais, frère Branham, ce serait un bien petit groupe».
-Jésus dit: “De même qu’il en était aux jours de Noé”, questionnez-Le à ce sujet! “un petit nombre
-de personnes, c’est-à-dire huit, furent sauvées à travers l’eau; ainsi en sera-t-il à la venue du Fils
-de l’homme”.
-75 S’il y en avait huit cents qui s’en iraient dans l’enlèvement ce soir, vous n’entendriez pas un
-mot à ce sujet demain, ni le jour suivant, ni jamais. Ils auraient disparu et vous n’en sauriez rien.
-Ce serait comme si de rien n’était.
-76 Qu’est-ce que j’essaie de dire? Je n’essaie pas de vous effrayer ou de vous inquiéter.
-J’aimerais que vous soyez vigilants. Soyez prêts, veillant à chaque instant. Abandonnez vos
-sottises. Mettez-vous à la tâche avec Dieu, parce qu’il est plus tard que vous ne le pensez.
-77 Rappelez-vous qu’il y a une fausse épouse. Nous la trouvons dans Apocalypse 18.7. Elle dit:
-“Je suis assise en reine, et je ne suis point veuve et je ne verrai point de deuil”. Elle est assise sur
-une bête de couleur écarlate, mais la véritable Epouse sera faite de millions de gens; ce sera
-l’Elue prise dans chaque âge de l’Eglise. Chaque fois qu’un message était donné et que le peuple
-le croyait et l’acceptait dans toute sa lumière, ils étaient scellés et mis à part pour le jour de la
-rédemption.
-78 Jésus n’enseignait-Il pas la même chose quand Il disait: “Le cri retentit à la septième veille”? Il
-s’agit du dernier âge de l’Eglise, comprenez-vous? Il cria: “Voici l’époux, sortez à sa rencontre!”.
-79 Alors la vierge folle se leva, se frotta les yeux et dit: “Il me semble que je devrais acheter un
-peu de cette huile, moi aussi; il vaut peut-être mieux en avoir”.
-80 La véritable Epouse dit: “J’en ai juste assez pour moi-même. J’en ai juste assez pour entrer
-moi-même. Je ne peux rien te donner; si tu en veux, va prier pour en avoir”.
-81 Mais pendant qu’elle est partie l’Epoux vient et l’Epouse entre. Alors le reste, les autres qui
-étaient aussi parfaitement vertueuses, l’église, fut laissée dehors! Il dit: “Il y aura des pleurs et des
-grincements de dents”. Vous voyez? C’est cela les élus. Et quand retentit l’appel: “Voici, l’Epoux
-vient!” tous ceux qui avaient dormi tout au long des âges se réveillèrent; tous!
-82 Comprenez bien que ce n’est pas Dieu, comme nous le pensons, qui ira récolter quelques
-milliers de gens dans cet âge-ci et les enlèvera. Il prendra les Elus mêmes de chaque âge! C’est la
-raison pour laquelle Christ doit rester sur le trône de médiation en tant qu’Intercesseur jusqu’à ce
-qu’entre le dernier élu du dernier âge. Et ces révélations de ce que cela a été sont données aux
-gens et ils voient ce qui est arrivé. Comprenez-vous maintenant?
-83 Remarquez que les autres morts (les membres d’église) ne revinrent point à la vie
-jusqu’à ce que les mille ans fussent accomplis. Les membres d’église (les chrétiens,
-l’église) ne revinrent point à la vie avant la fin des mille ans; alors ils s’avancent pour se
-tenir devant l’Epouse. C’est vrai: ils se tiennent devant le Roi et la Reine. Gloire à Dieu!
-84 Aujourd’hui il y a une église qui se donne le nom de “Reine du Ciel “! La Reine du Ciel, c’est
-l’Epouse choisie par Christ et elle vient avec Lui.
-85 Daniel la vit quand il dit: “Mille milliers Le servaient”. Observez ce qui est écrit dans Daniel! Le
-jugement commença et les livres furent ouverts.
-86 Mais rappelez-vous que lorsqu’Il vint, Il vint avec Son Epouse. La femme s’occupe de son
-mari. Et mille milliers Le servaient”. Le jugement commença et les livres furent ouverts, puis un
-autre Livre fut ouvert, qui était le Livre de Vie. Il ne s’agit pas du tout de l’Epouse! Elle a été
-enlevée et elle revient ici pour le jugement des générations qui ont refusé le message de
+61 A la fin de l’âge de Pentecôte, selon la Parole (et que Dieu m’aide ce soir à vous le montrer par la Parole), nous devons recevoir un messager qui prendra tous ces points restés en suspens et révélera le secret de Dieu tout entier pour l’enlèvement de l’Église.
 
-        http://www.cmpp.ch
+62 Ensuite viennent sept mystérieux tonnerres qui ne sont même pas du tout écrits. C’est vrai. Je crois que par le moyen de ces sept tonnerres seront révélées dans ces derniers jours les choses nécessaires au rassemblement de l’Épouse en vue de la foi pour l’enlèvement; en effet, avec ce que nous avons maintenant, nous ne serions pas capables d’y avoir part. Quelque chose doit encore venir avant, car actuellement c’est tout juste si nous avons assez de foi pour la guérison divine. Nous devons avoir assez de foi pour être changés en un instant et enlevés de cette terre. Dieu voulant, nous trouverons tout à l’heure l’endroit où cela est écrit.
 
-REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 10
-l’Evangile.
-87 Jésus ne disait-Il pas que la reine du Midi se lèverait au jour du jugement avec cette
-génération et qu’elle la condamnerait parce qu’elle était venue des extrémités de la terre pour
-entendre la sagesse de Salomon et que voici, il y avait ici plus grand que Salomon?
-88 Là se tient le jugement; la reine de Séba (la reine du Midi) se tiendra là au jour du jugement
-avec son propre témoignage. Les Juifs ne montèrent même pas avec cette génération qui était
-juive. Ils étaient aveugles et L’ont manqué; pourtant ils Le recherchaient! Mais Il vint si simplement
-qu’ils passèrent complètement à côté de Lui; mais cette grande reine, elle, s’humilia, vint et
-accepta le message. “Elle se lèvera au jour du jugement, dit-Il, et condamnera cette génération”.
-89 Vous remarquerez toujours ces trois catégories. Il y avait d’abord le livre d’après lequel les
-morts furent jugés; puis un autre livre, le Livre de Vie, ceux dont le nom était écrit dans le Livre de
-Vie. Vous direz: «Si mon nom est dans le Livre de Vie tout va bien, n’est-ce pas?». Pas du tout!
-Judas Iscariot avait son nom dans le Livre de Vie. Osez dire que ce n’est pas vrai: Jésus, dans
-Matthieu 10, leur donna le pouvoir de chasser les démons et les envoya guérir les malades,
-purifier les lépreux et ressusciter les morts. Ils partirent et revinrent, Judas étant avec eux; ils
-chassèrent les démons et firent toutes sortes de miracles puis revinrent en disant: “Même les
-démons nous sont soumis!”.
-90 Jésus leur répondit: “Ne vous réjouissez pas de ce que les démons vous sont soumis; mais
-réjouissez-vous de ce que vos noms sont écrits dans les Cieux”; Judas était avec eux! Mais
-qu’est-il arrivé? Quand vint pour le groupe élu le moment de se rassembler lors de la Pentecôte et
-de recevoir réellement le Saint-Esprit, Judas montra ses couleurs. Il sera là au jour du jugement!
-Ainsi donc, les livres furent ouverts, et le Livre de Vie fut ouvert et chaque homme fut jugé. A ce
-moment-là l’Epouse se tient avec Christ pour juger le monde.
-91 Paul ne dit-il pas en parlant à l’Epouse: “Quelqu’un de vous, lorsqu’il a un différend avec un
-autre, ose-t-il plaider devant les injustes et non devant les saints? Ne savez-vous pas que les
-saints jugeront le monde?”. Voilà! Les saints jugeront la terre et prendront le pouvoir. C’est vrai!
-Vous dites: «Comment cela se peut-il avec un si petit groupe?». Je ne sais pas comment cela se
-fera mais Il a dit que cela se fera; pour moi, pour autant que je le sache, cela règle la question.
-92 Remarquez que le reste des morts (les membres d’église morts) ne revinrent pas à la vie
-avant la fin des mille ans; mais à la fin des mille ans ils furent rassemblés et il y eut une autre
-résurrection qui est la seconde résurrection. Christ et l’Epouse étaient là (pas l’église, l’Epouse),
-Christ et la Reine (pas l’église). Christ et l’Epouse se tenaient là, séparés des autres comme les
-brebis le sont des chèvres. C’est vrai. C’est alors que les membres d’église comparaissent. S’ils
-ont entendu la Vérité et L’ont rejetée, que leur dira-t-on alors que tout sera exposé sur le grand
-écran et que même vos propres pensées (ce que vous pensez de ces choses) y seront? Comment
-échapperez-vous quand ce sera exposé là sur le grand écran des Cieux et que sur la grande
-télévision de Dieu seront exposées vos propres pensées rebelles, vos propres pensées qui
-parleront contre vous en cette heure?
-93 Si donc vous dites une chose et que vous en pensiez une autre, vous feriez mieux de ne plus
-le faire. Mettez vos pensées en Dieu. Gardez-les pures, restez exactement dans cette position et
-dites toujours la même chose. Ne dites pas: «Eh bien, je dirai que j’y crois, mais je vérifierai tout de
-même». Croyez-le! Amen!
-94 La raison pour laquelle ils meurent, qu’ils passent par les épreuves purificatrices de la
-tribulation est qu’ils ne sont pas véritablement sous le Sang. Ils disent y être mais n’y sont
-pas. Comment pourraient-ils passer par une épreuve de purification si le Sang purificateur
-de Jésus-Christ a ôté tout symptôme de péché et tout le reste? Vous êtes déjà morts et
-votre vie est cachée en Christ par Dieu et scellée là par le Saint-Esprit; alors pour quelle
-raison serez-vous jugés? Où allez-vous obtenir votre purification? De quoi devez-vous être
-purifiés quand vous êtes parfaitement en Christ? Vous êtes sans péché. Quelle est la raison du
-jugement? Mais c’est ce groupe des vierges folles que les gens n’arrivent pas à distinguer.
-95 Pendant des années ils n’ont pas pu le faire, mais voici l’heure de la révélation où les choses
-doivent être révélées. Cela se passe juste au moment de la venue de l’Epoux. C’est le
-dénouement final, les dernières choses sont en train d’arriver. Chers amis, je crois que ces choses
-arrivent à leur terme. Quand? Je n’en sais rien! Je ne peux pas vous le dire; cependant je veux
+63 Ensuite tous les jugements viendront sur ces malfaiteurs. Remarquez le déroulement des âges au fur et à mesure que ces Sceaux sont brisés, jusqu’au jour où le dernier sera brisé. Tandis qu’ils ont observé ces Sceaux, présumant simplement ce que ceux-ci feraient, maintenant à la fin des âges de l’Église, tous ces malfaiteurs prendront leur position et s’achemineront vers la tribulation.
 
-        http://www.cmpp.ch
+64 Tous ces malfaiteurs des sept Sceaux ont agi mystérieusement dans l’Église et nous verrons dans une minute qu’ils l’ont même fait au nom d’une église. Ils se nomment eux-mêmes l’Église. Vous verrez si ce n’est pas vrai! Rien d’étonnant à ce que je me sois pareillement opposé aux dénominations, sans même savoir pourquoi!
 
-    REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU    11
+65 Cela a commencé sous une forme bénigne au début, puis est allé de plus en plus mal. Et les gens entrent tout droit dans cela, disant: «Oh, oui! c’est vraiment bien!». Mais aux derniers jours ces choses seront dévoilées. Pour finir ils se corrompent tellement qu’ils entreront tout droit dans la tribulation.
+
+66 Comment peut-on dire que l’Épouse de Christ doit passer par la tribulation? Je ne peux le comprendre! Elle est soustraite à la tribulation! Si l’Église a été jugée, s’ils se sont jugés eux-mêmes et ont accepté le Sang, comment Dieu peut-Il juger un homme qui est parfaitement et totalement sans péché? Vous direz: «Une telle personne n’existe pas!». Chaque croyant né de nouveau, chaque vrai croyant est parfaitement et absolument sans péché devant Dieu. Il ne se confie pas en ses propres oeuvres, mais par sa confession, il a plongé ses péchés dans le Sang de Jésus. C’est la Bible qui le dit.
+
+67 “Celui qui est né de Dieu ne commet pas de péché parce qu’il ne peut pas pécher”. Comment pouvez-vous faire d’un homme un pécheur quand le décolorant du Sang de Jésus-Christ est entre lui et Dieu? Cela disperse le péché au point qu’il n’en reste plus rien. Comment le Sang pur de Christ pourrait-Il laisser passer un seul péché? Il ne le peut pas!
+
+68 Jésus disait: “Soyez parfaits comme votre Père céleste est parfait”. Comment pourrions-nous même commencer à avoir la pensée d’être parfaits? Cependant Jésus l’a exigé. Et si Jésus l’a exigé, il fallait qu’Il en donne le moyen, ce qu’il a fait: c’est Son propre Sang.
+
+69 Il révèle maintenant tous les mystères qui subsistaient dans le passé. Il y a ici la pensée qu’au temps de la fin les mystères qui avaient commencé il y a longtemps dans les premiers âges et qui avaient passé à travers tous les âges de l’Église, doivent à l’ouverture des Sceaux être révélés ici dans le dernier âge. A ce moment-là. Le temps de l’intercession est sur le point de s’achever.
+
+70 Ensuite les jugements attendent ceux qui sont restés en arrière. C’est là-dedans qu’ils entreront. Cela se passe après que l’Épouse ait été retirée de la scène. Lisons simplement l’Écriture! Vous aimez tous noter des références, n’est-ce pas? Prenons un instant 2 Thessaloniciens 2.7. Il y a là une si belle image; j’aime cela! 2 Thessaloniciens 2.7. Je tremblais en notant ce passage! “Car le mystère d’iniquité opère déjà; seulement celui qui retient maintenant, le fera jusqu’à ce qu’il soit loin”.
+
+71 Qui est celui qui le retient? C’est un mystère, le mystère d’iniquité qui est déjà ici dans le premier âge de l’Église. A cet endroit c’est Paul qui écrit, disant que le mystère d’iniquité… Qu’est-ce que l’iniquité? L’iniquité est quelque chose que vous savez ne pas devoir faire mais que vous faites quand même. Paul dit qu’il y a aujourd’hui sur la terre des ouvriers d’iniquité. Lisons ce passage en partant du verset 3: “Que personne ne vous séduise en aucune manière, car ce jour-là ne viendra pas que l’apostasie ne soit arrivée auparavant et que l’homme de péché (L’HOMME) n’ait été révélé, le fils de perdition (c’est vrai), qui s’oppose et s’élève contre tout ce qui est appelé Dieu ou qui est un objet de vénération, en sorte que lui-même s’assiéra au temple de Dieu, se présentant lui-même comme étant Dieu (en remettant les péchés). Ne vous souvenez-vous pas que, quand j’étais encore auprès de vous, je vous disais ces choses? (J’aurais aimé être assis à l’écoute de quelques-uns de ses enseignements. Pas vous?) Et maintenant vous savez ce qui retient pour qu’il soit révélé en son propre temps”.
+
+72 Non pas à ce moment-là, mais “en son temps”. Vous voyez, à l’ouverture de ce Sceau. Nous savons exactement ce que c’était. Qui est cet homme d’iniquité? Qui est cet homme de péché, cet ouvrier d’iniquité qui doit être révélé en son temps? “Car le mystère d’iniquité opère déjà (ces séducteurs qui séduisent le peuple d’une manière ou d’une autre); seulement celui (Dieu) qui retient maintenant le fera jusqu’à ce qu’il (Christ, l’Église, l’Épouse) soit loin. Et alors sera révélé l’inique (à l’ouverture du Sceau, à la fin des temps. Paul dit: “Non pas de mon temps mais au temps où il sera révélé”. Vous comprenez?), que le seigneur Jésus consumera par le souffle de sa bouche (nous allons voir cela dans un instant) … par le souffle de sa bouche (considérez ce que c’est) et qu’il anéantira par l’apparition de sa venue; duquel la venue est selon l’opération de Satan (c’est un homme dont les oeuvres se font par le pouvoir de Satan) en toute sorte de miracles et signes et prodiges de mensonge, et en toute séduction d’injustice (séduisant les gens par l’injustice) pour ceux qui périssent (non point cette Épouse, mais ceux qui recherchent ces choses) parce qu’ils n’ont pas reçu l’amour de la vérité (et Christ est la Vérité, Christ est la Parole, mais ils préfèrent un credo) pour être sauvés. Et à cause de cela, Dieu leur envoie une énergie d’erreur pour qu’ils croient au mensonge (“AU mensonge” et non pas à UN mensonge: c’est le même mensonge qu’il dit à Ève), afin que tous ceux-là soient jugés qui n’ont pas cru la vérité, mais qui ont pris plaisir à l’injustice”.
+
+73 Quelle déclaration! Oh, frères! Après l’enlèvement de l’Épouse se révélera cet homme de péché. La vraie Épouse de Christ a été élue dans chaque âge de l’Église.
+
+74 L’autre jour je vous ai déclaré que l’Épouse pourrait aller à la maison sans que vous vous en aperceviez. C’est vrai! Quelqu’un dira: «Mais, frère Branham, ce serait un bien petit groupe». Jésus dit: “De même qu’il en était aux jours de Noé”, questionnez-Le à ce sujet! “un petit nombre de personnes, c’est-à-dire huit, furent sauvées à travers l’eau; ainsi en sera-t-il à la venue du Fils de l’homme”.
+
+75 S’il y en avait huit cents qui s’en iraient dans l’enlèvement ce soir, vous n’entendriez pas un mot à ce sujet demain, ni le jour suivant, ni jamais. Ils auraient disparu et vous n’en sauriez rien. Ce serait comme si de rien n’était.
+
+76 Qu’est-ce que j’essaie de dire? Je n’essaie pas de vous effrayer ou de vous inquiéter. J’aimerais que vous soyez vigilants. Soyez prêts, veillant à chaque instant. Abandonnez vos sottises. Mettez-vous à la tâche avec Dieu, parce qu’il est plus tard que vous ne le pensez.
+
+77 Rappelez-vous qu’il y a une fausse épouse. Nous la trouvons dans Apocalypse 18.7. Elle dit: “Je suis assise en reine, et je ne suis point veuve et je ne verrai point de deuil”. Elle est assise sur une bête de couleur écarlate, mais la véritable Épouse sera faite de millions de gens; ce sera l’Élue prise dans chaque âge de l’Église. Chaque fois qu’un message était donné et que le peuple le croyait et l’acceptait dans toute sa lumière, ils étaient scellés et mis à part pour le jour de la rédemption.
+
+78 Jésus n’enseignait-Il pas la même chose quand Il disait: “Le cri retentit à la septième veille”? Il s’agit du dernier âge de l’Église, comprenez-vous? Il cria: “Voici l’époux, sortez à sa rencontre!”.
+
+79 Alors la vierge folle se leva, se frotta les yeux et dit: “Il me semble que je devrais acheter un peu de cette huile, moi aussi; il vaut peut-être mieux en avoir”.
+
+80 La véritable Épouse dit: “J’en ai juste assez pour moi-même. J’en ai juste assez pour entrer moi-même. Je ne peux rien te donner; si tu en veux, va prier pour en avoir”.
+
+81 Mais pendant qu’elle est partie l’Époux vient et l’Épouse entre. Alors le reste, les autres qui étaient aussi parfaitement vertueuses, l’église, fut laissée dehors! Il dit: “Il y aura des pleurs et des grincements de dents”. Vous voyez? C’est cela les élus. Et quand retentit l’appel: “Voici, l’Époux vient!” tous ceux qui avaient dormi tout au long des âges se réveillèrent; tous!
+
+82 Comprenez bien que ce n’est pas Dieu, comme nous le pensons, qui ira récolter quelques milliers de gens dans cet âge-ci et les enlèvera. Il prendra les Élus mêmes de chaque âge! C’est la raison pour laquelle Christ doit rester sur le trône de médiation en tant qu’Intercesseur jusqu’à ce qu’entre le dernier élu du dernier âge. Et ces révélations de ce que cela a été sont données aux gens et ils voient ce qui est arrivé. Comprenez-vous maintenant?
+
+83 Remarquez que les autres morts (les membres d’église) ne revinrent point à la vie jusqu’à ce que les mille ans fussent accomplis. Les membres d’église (les chrétiens, l’église) ne revinrent point à la vie avant la fin des mille ans; alors ils s’avancent pour se tenir devant l’Épouse. C’est vrai: ils se tiennent devant le Roi et la Reine. Gloire à Dieu!
+
+84 Aujourd’hui il y a une église qui se donne le nom de “Reine du Ciel “! La Reine du Ciel, c’est l’Épouse choisie par Christ et elle vient avec Lui.
+
+85 Daniel la vit quand il dit: “Mille milliers Le servaient”. Observez ce qui est écrit dans Daniel! Le jugement commença et les livres furent ouverts.
+
+86 Mais rappelez-vous que lorsqu’Il vint, Il vint avec Son Épouse. La femme s’occupe de son mari. Et mille milliers Le servaient”. Le jugement commença et les livres furent ouverts, puis un autre Livre fut ouvert, qui était le Livre de Vie. Il ne s’agit pas du tout de l’Épouse! Elle a été enlevée et elle revient ici pour le jugement des générations qui ont refusé le message de l’Évangile.
+
+87 Jésus ne disait-Il pas que la reine du Midi se lèverait au jour du jugement avec cette génération et qu’elle la condamnerait parce qu’elle était venue des extrémités de la terre pour entendre la sagesse de Salomon et que voici, il y avait ici plus grand que Salomon?
+
+88 Là se tient le jugement; la reine de Séba (la reine du Midi) se tiendra là au jour du jugement avec son propre témoignage. Les Juifs ne montèrent même pas avec cette génération qui était juive. Ils étaient aveugles et L’ont manqué; pourtant ils Le recherchaient! Mais Il vint si simplement qu’ils passèrent complètement à côté de Lui; mais cette grande reine, elle, s’humilia, vint et accepta le message. “Elle se lèvera au jour du jugement, dit-Il, et condamnera cette génération”.
+
+89 Vous remarquerez toujours ces trois catégories. Il y avait d’abord le livre d’après lequel les morts furent jugés; puis un autre livre, le Livre de Vie, ceux dont le nom était écrit dans le Livre de Vie. Vous direz: «Si mon nom est dans le Livre de Vie tout va bien, n’est-ce pas?». Pas du tout! Judas Iscariot avait son nom dans le Livre de Vie. Osez dire que ce n’est pas vrai: Jésus, dans Matthieu 10, leur donna le pouvoir de chasser les démons et les envoya guérir les malades, purifier les lépreux et ressusciter les morts. Ils partirent et revinrent, Judas étant avec eux; ils chassèrent les démons et firent toutes sortes de miracles puis revinrent en disant: “Même les démons nous sont soumis!”.
+
+90 Jésus leur répondit: “Ne vous réjouissez pas de ce que les démons vous sont soumis; mais réjouissez-vous de ce que vos noms sont écrits dans les Cieux”; Judas était avec eux! Mais qu’est-il arrivé? Quand vint pour le groupe élu le moment de se rassembler lors de la Pentecôte et de recevoir réellement le Saint-Esprit, Judas montra ses couleurs. Il sera là au jour du jugement! Ainsi donc, les livres furent ouverts, et le Livre de Vie fut ouvert et chaque homme fut jugé. A ce moment-là l’Épouse se tient avec Christ pour juger le monde.
+
+91 Paul ne dit-il pas en parlant à l’Épouse: “Quelqu’un de vous, lorsqu’il a un différend avec un autre, ose-t-il plaider devant les injustes et non devant les saints? Ne savez-vous pas que les saints jugeront le monde?”. Voilà! Les saints jugeront la terre et prendront le pouvoir. C’est vrai! Vous dites: «Comment cela se peut-il avec un si petit groupe?». Je ne sais pas comment cela se fera mais Il a dit que cela se fera; pour moi, pour autant que je le sache, cela règle la question.
+
+92 Remarquez que le reste des morts (les membres d’église morts) ne revinrent pas à la vie avant la fin des mille ans; mais à la fin des mille ans ils furent rassemblés et il y eut une autre résurrection qui est la seconde résurrection. Christ et l’Épouse étaient là (pas l’église, l’Épouse), Christ et la Reine (pas l’église). Christ et l’Épouse se tenaient là, séparés des autres comme les brebis le sont des chèvres. C’est vrai. C’est alors que les membres d’église comparaissent. S’ils ont entendu la Vérité et L’ont rejetée, que leur dira-t-on alors que tout sera exposé sur le grand écran et que même vos propres pensées (ce que vous pensez de ces choses) y seront? Comment échapperez-vous quand ce sera exposé là sur le grand écran des Cieux et que sur la grande télévision de Dieu seront exposées vos propres pensées rebelles, vos propres pensées qui parleront contre vous en cette heure?
+
+93 Si donc vous dites une chose et que vous en pensiez une autre, vous feriez mieux de ne plus le faire. Mettez vos pensées en Dieu. Gardez-les pures, restez exactement dans cette position et dites toujours la même chose. Ne dites pas: «Eh bien, je dirai que j’y crois, mais je vérifierai tout de même». Croyez-le! Amen!
+
+94 La raison pour laquelle ils meurent, qu’ils passent par les épreuves purificatrices de la tribulation est qu’ils ne sont pas véritablement sous le Sang. Ils disent y être mais n’y sont pas. Comment pourraient-ils passer par une épreuve de purification si le Sang purificateur de Jésus-Christ a ôté tout symptôme de péché et tout le reste? Vous êtes déjà morts et votre vie est cachée en Christ par Dieu et scellée là par le Saint-Esprit; alors pour quelle raison serez-vous jugés? Où allez-vous obtenir votre purification? De quoi devez-vous être purifiés quand vous êtes parfaitement en Christ? Vous êtes sans péché. Quelle est la raison du jugement? Mais c’est ce groupe des vierges folles que les gens n’arrivent pas à distinguer.
+
+95 Pendant des années ils n’ont pas pu le faire, mais voici l’heure de la révélation où les choses doivent être révélées. Cela se passe juste au moment de la venue de l’Époux. C’est le dénouement final, les dernières choses sont en train d’arriver. Chers amis, je crois que ces choses arrivent à leur terme. Quand? Je n’en sais rien! Je ne peux pas vous le dire; cependant je veux
+
 vivre ce soir comme si cela devait arriver ce soir, je veux être prêt. Il pourrait venir ce soir, comme
 Il peut ne pas venir avant vingt ans. Je ne sais pas quand Il viendra mais quel que soit le
 moment… ma vie pourrait être terminée ce soir. Alors tout ce que j’aurai fait ici sera terminé à
 cette heure-là. Je devrai Le rencontrer au jugement pour la façon dont j’ai vécu ici-bas. L’arbre
 tombe du côté où il penche.
+
 96 Rappelez-vous quand elles sont allées acheter de l’huile. «Oh, direz-vous, attendez une
 minute, frère Branham, à ce sujet je n’en sais rien…». Elles allèrent acheter de l’huile mais
 lorsqu’elles revinrent, l’Epouse était partie et la porte fermée; elles frappèrent et dirent:
 “Laisse-nous entrer, laisse-nous entrer!” mais elles furent laissées dehors dans les ténèbres.
+
 97 Si vous voulez un type de cela écoutez ce que dit Jésus: “Ce qui arriva du temps de Noé…”. Il
 s’est référé à cela. Du temps de Noé ils entrèrent dans l’arche et furent enlevés au-dessus du
 jugement pendant la durée de celui-ci. Mais ce n’était pas un type de l’Epouse de Christ: le type de
 l’Epouse est Enoch.
+
 98 Noé passa par la tribulation; il souffrit, s’enivra et mourut. Mais Enoch marcha avec Dieu
 pendant trois cents ans et eut un témoignage; il plut à Dieu ayant cette foi pour être enlevé; il
 commença simplement à marcher, passa à travers les cieux et alla à la maison sans avoir du tout
 goûté à la mort. Il ne passa pas du tout par la mort!
+
 99 C’est un type de cette Parole: “Nous les vivants, restés pour l’avènement du Seigneur, nous
 ne devancerons pas ceux qui sont morts”. (1 Thess. 4.15). Ils se sont endormis à cause des limites
 de la vie humaine et de son état. Ils moururent en ce temps-là mais ils ne sont pas morts: ils
@@ -566,6 +304,7 @@ ressusciteront premièrement; ensuite, nous qui sommes vivants et qui restons, n
 enlevés ensemble avec eux et nous rencontrerons le Seigneur dans les airs. Mais le reste des
 morts ne reviendra pas à la vie avant mille ans. Voilà! Ils traverseront la période de tribulation. Que
 se passera-t-il avec les premiers? Ce sera comme avec Enoch.
+
 100 Vous savez que Noé prit garde à Enoch car lorsqu’Enoch vint à disparaître, Noé sut que le
 jugement était à la porte. Il se mit à rester à proximité de l’arche mais ne fut pas enlevé. Il fut élevé
 juste un peu et passa au-dessus des tribulations. Il fut transporté à travers la période de la
@@ -574,15 +313,18 @@ enlevé sans passer par la mort; c’est un type de l’Eglise qui est enlevée 
 endormis et qui ira à la rencontre du Seigneur dans les airs. Mais le reste de l’église est transporté
 à travers la période de la tribulation. Pour ma part, je ne peux pas comprendre ces choses
 autrement. Enoch fut enlevé sans passer par la mort.
+
 101 Maintenant commençons à étudier un peu. Si nous nous attardons là-dessus nous
 n’arriverons jamais à ces Sceaux. Commençons maintenant car cela va durer longtemps
 (peut-être encore demain soir). Nous examinerons aussi de temps en temps une des trompettes
 parce que la trompette sonne en même temps que l’ouverture des Sceaux. C’est exactement
 pareil à ce qui se passe lors de l’ouverture des âges de l’église; c’est exactement pareil.
+
 102 Une trompette marque toujours une guerre ou une agitation politique. C’est ce que fait la
 trompette. Une agitation politique provoque la guerre. Quand il y a un tel chaos en matière de
 politique et que tout est dans la confusion comme c’est le cas maintenant, faites attention: la
 guerre est à la porte!
+
 103 Vous voyez cependant que le royaume appartient toujours à Satan. Il est toujours dans sa
 main. Il est bien racheté par Christ mais le Sauveur occupe toujours la position de Parent
 Rédempteur retirant Ses sujets jusqu’à ce que le dernier nom écrit dans le Livre ait été reçu, scellé
@@ -590,8 +332,10 @@ et mis de côté. Comprenez-vous? Alors Il se lève de Son Trône, le Trône de 
 prend le Livre de la main de Dieu qui est sur le Trône et fait valoir Ses droits. La première chose
 qu’Il fait est de réclamer Son Epouse. Amen! Ensuite que prend-Il? Il prend Son adversaire, Satan,
 le lie et le jette dans le feu avec toute sa suite.
+
 104 Rappelez-vous que ce n’est pas la Russie! Non, l’antichrist est un individu rusé. Voyez
 combien il est rusé! Il est astucieux. Bien sûr! Il n’y a que le Saint-Esprit qui puisse le surpasser.
+
 105 Remarquez que les trompettes signifient: agitation politique, guerre. Jésus en parlait dans
 
     http://www.cmpp.ch
@@ -601,31 +345,40 @@ Matthieu 24. Il dit: “Vous entendrez parler de guerres et de bruits de guerres
 pareil du commencement jusqu’à la fin. Rappelez-vous que c’est Jésus qui le dit! Guerres et bruits
 de guerres, guerres et bruits de guerres. Continuellement jusqu’à la fin. C’est une trompette qui
 résonne.
+
 106 Quand nous étudierons ces trompettes nous retournerons en arrière pour considérer chacune
 de ces guerres et nous vous montrerons qu’elles suivent ces églises. Nous vous montrerons
 qu’elles suivent ces Sceaux. Guerres et bruits de guerres! Si la trompette indique des troubles
 politiques, les Sceaux, eux, traitent de troubles religieux.
+
 107 Un Sceau est ouvert, un message est donné. Cependant l’église est chaque fois tellement
 établie dans sa propre politique, tous ses dignitaires et tout ce qui s’en suit, que lorsque le vrai
 message est donné d’En-haut et que ce messager s’avance, il la réduit en pièces. C’est vrai:
 lorsqu’un Sceau est ouvert il y a des désordres religieux. C’est ce qui est arrivé.
+
 108 Ils prennent toutes leurs aises en Sion. L’église s’est installée et dit: “Nous avons fait tout ce
 qu’il faut!”. C’est ainsi que fit l’église d’Angleterre; ils étaient bien établis. L’église catholique était
 bien établie, mais lorsque vint Luther il y eut des troubles religieux. C’est certain! Puis l’église
 continua avec Zwingli, et de Zwingli passa par différentes étapes jusqu’à Calvin. Au bout de
 quelque temps l’église anglicane s’installa et se mit bien à son aise. Alors vint Wesley et il y eut
 des troubles religieux. Vous voyez, cela signifie toujours des troubles religieux.
-109 Maintenant passons au Sceau proprement dit. Lisons juste un petit passage. Apocalypse 6.1.“Et je vis, lorsque l’Agneau ouvrit l’un des sept sceaux (qu’arriva-t-il?) et j’entendis comme une
+
+109 Maintenant passons au Sceau proprement dit. Lisons juste un petit passage. Apocalypse 6.1.-
+“Et je vis, lorsque l’Agneau ouvrit l’un des sept sceaux (qu’arriva-t-il?) et j’entendis comme une
 voix de tonnerre…”.
+
 110 Oh, j’aimerais m’attarder quelques minutes là-dessus! J’espère maintenant que tous ceux qui
 connaissent ces choses et attendent la consolation du Seigneur vont étudier cela de très près et
 que tous ceux qui écouteront les bandes y réfléchiront. Quand cet Agneau ouvrit le premier Sceau,
 un tonnerre gronda.
+
 111 Ceci a une signification, cela a un sens. Rien n’arrive sans que cela ait un sens. Un tonnerre
 gronda. Je me demande ce qu’était ce tonnerre.
+
 112 Lisons Jean 12.23 et étudions cela une minute. Faites bien attention et vous ne vous
 demanderez plus ce que c’est!
         “Jésus leur répondit: L’heure est venue où le Fils de l’homme doit être glorifié”.
+
 113 Vous voyez, nous sommes ici à la fin d’un âge. Son ministère est terminé. “L’heure est venue
 où le Fils de l’homme doit être glorifié”. Qu’en est-il de l’heure qui vient où Son Epouse doit être
 enlevée, ou de l’heure qui vient où il n’y aura plus de délai? L’Ange qui a un arc-en-ciel au-dessus
@@ -638,6 +391,7 @@ C’est une déclaration faite sous serment à l’Eglise. “L’heure est venu
      monde la conservera pour la vie éternelle. Si quelqu’un me sert, qu’il me suive; et là où je
      suis, là aussi sera mon serviteur. Si quelqu’un me sert, le Père l’honorera. Maintenant,
      mon âme est troublée…”.
+
 114 Vous direz: «Comment? Le voici arrivant au terme de la route et Il est troublé?». Qu’est-ce
 que cela vous fait penser quand arrive quelque grande chose spirituelle qui vous trouble? Oh, mes
 frères!
@@ -645,6 +399,7 @@ frères!
      heure?… Mais c’est pour cela que je suis venu jusqu’à cette heure. Père, glorifie ton
      nom! Et une voix vint du ciel: Je l’ai glorifié et je le glorifierai encore. La foule qui était là,
      et qui avait entendu, disait que c’était un tonnerre”.
+
 115 Puis quand l’Agneau prit le Livre et brisa ce premier Sceau, Dieu parla de Son Trône éternel
 pour dire que ce Sceau allait être révélé. Mais quand il fut placé devant Jean c’était sous
 forme de symbole. Quand Jean le vit, c’était encore un mystère. Pourquoi? Il ne fut même
@@ -654,34 +409,42 @@ pas révélé à ce moment-là. Il ne peut être révélé avant qu’il ait par
 
 REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 13
 Mais cela est venu sous forme de symbole.
+
 116 Quand il tonna… Rappelez-vous que le bruit d’un fort coup de tonnerre est la Voix de Dieu.
 C’est ce que dit la Bible: un coup de tonnerre. Ils pensèrent que c’était un tonnerre, mais c’était
 Dieu. Jean le comprit car cela lui fut révélé. C’était un tonnerre.
+
 117 Notez que lorsque le premier Sceau fut ouvert sous forme d’un symbole, il tonna. Alors
 qu’est-ce que ce sera quand il sera ouvert sous sa forme réelle?
+
 118 Il tonna aussitôt que l’Agneau brisa le Sceau; et que révéla-t-il? Il ne se révéla pas
 complètement. Pour commencer ce fut Dieu; ensuite c’est sous forme d’un symbole, enfin c’est
 révélé: trois choses. Cela s’avance en venant du Trône. Premièrement cela ne peut être ni vu, ni
 entendu, ni quoi que ce soit d’autre. C’est scellé. Mais le Sang de l’Agneau a payé le prix. Il y eut
 un tonnerre quand Il s’exprima. Et quand Il le fit un cavalier sortit sur un cheval blanc. Mais ce
 n’était toujours qu’un symbole!
+
 119 Maintenant faites bien attention! Il dit que ce serait connu dans les derniers jours, mais cela
 s’est avancé comme un symbole d’église. O église, comprends-tu cela? Cela vient sous forme
 d’un symbole d’église car ils savent qu’il y a un Sceau, mais ce qu’il est réellement, ils ne le savent
 pas parce que ce symbole est un cavalier sur un cheval blanc.
+
 120 Et cela ne doit être révélé que dans les derniers jours, quand ce Sceau lui-même est brisé.
 Brisé pour qui? Pas pour Christ mais pour l’Eglise! Oh, cela me fait trembler! J’espère que l’Eglise,
 c’est-à-dire vous, comprenez véritablement ce que je veux dire; je vais vous appeler “EPOUSE”.
 Comprenez-vous cela?
+
 121 La voix est un tonnerre. D’où venait cette Voix? Du Trône que l’Agneau venait juste de quitter
 en tant qu’Intercesseur. Maintenant Il se tient là pour prendre Sa position et réclamer ce qui Lui
 appartient. Mais le tonnerre est sorti de l’intérieur du Trône et s’est mis à tonner. Et l’Agneau se
 tenait là dehors. Le tonnerre vint d’où l’Agneau était parti. Il quitta le Trône du Père pour prendre
 Son propre Trône. Gloire à Dieu! ne manquez pas cela, chers amis!
+
 122 Comme chrétiens, nous savons tous que Dieu jura à David qu’Il ressusciterait Christ pour le
 faire asseoir sur Son Trône et Lui donner un royaume sans fin sur la terre. C’est ce qu’Il a fait. Et
 Jésus dit: “Celui qui vaincra l’antichrist et toutes les choses du monde s’assiéra avec moi sur mon
 trône, comme moi j’ai vaincu et me suis assis avec mon Père sur Son trône”.
+
 123 Un jour, Il se lèvera du Trône du Père et ira prendre Son propre Trône. Maintenant Il
 s’avance pour appeler Ses sujets; comment va-t-Il les réclamer? Il a déjà le Livre de
 Rédemption dans Sa main. Gloire à Dieu! J’ai envie de chanter un cantique:
@@ -691,11 +454,13 @@ Rédemption dans Sa main. Gloire à Dieu! J’ai envie de chanter un cantique:
         Ce sera un tableau glorieux,
         Tous les saints seront vêtus de blanc immaculé;
         Et avec Jésus nous nous réjouirons éternellement!
+
 124 Oh, mes frères! Etre assis dans les lieux célestes! Que sera-ce alors si nous pouvons déjà
 maintenant ressentir les choses ainsi et en jouir tandis que nous sommes ici sur terre dans cette
 situation où nous nous trouvons maintenant avant l’enlèvement, quand nous devons rester debout
 contre les murs ou dehors à la pluie pour écouter cela! Que sera-ce quand nous Le verrons assis
 là! Oh, frères, ce sera un moment glorieux!
+
 125 Il a quitté le Trône du Père. Son Fils s’est avancé, Il est le Fils de David. C’est ce qu’Israël
 pensait qu’Il ferait alors. Souvenez-vous de la femme syrophénicienne disant: “O Toi, Fils de
 David!”. Souvenez-vous de l’aveugle Bartimée disant: “O Toi, Fils de David!”. Jésus savait ce
@@ -704,6 +469,7 @@ Pilate le Lui demanda. Mais Il dit: “Si mon royaume était de ce monde, mes su
 pour moi. Mais mon royaume est d’en haut”. Il disait aussi: “Quand vous priez, dites: Que Ton
 règne vienne, que Ta volonté soit faite sur la terre comme au Ciel”. Amen! Oh, que tout cela est
 glorieux!
+
 126 Il a quitté le Trône du Père pour prendre Son propre Trône. Il quitte maintenant Son oeuvre
 d’intercession afin de réclamer Son propre Trône et Ses sujets rachetés. C’est pour faire cela qu’Il
 
@@ -716,28 +482,34 @@ Etes-vous en train de lire cela?
      animaux disant comme une voix de tonnerre…”. [Au lieu de quatre animaux, la version
      Panin dit: quatre êtres vivants, forme que nous garderons car nous croyons que c’est la
      plus conforme aux autres prophéties de la Bible à ce sujet — N.d.T.]
+
 127 Vous savez ce que sont ces êtres vivants. Nous l’avons déjà considéré. L’un était semblable à
 un lion, l’autre à un veau, l’autre à un homme et le dernier à un aigle. Remarquez qu’il y a chaque
 fois un être vivant différent jusqu’à ce que les quatre cavaliers soient passés. Il y a quatre êtres
 vivants et il y a quatre cavaliers.
+
 128 Notez que chacun de ces êtres vivants annonce l’un Matthieu, l’autre Marc, l’autre Luc et le
-dernier Jean. Nous allons revoir cela et montrer lequel est Matthieu, lequel est Marc, lequel est
+derrier Jean. Nous allons revoir cela et montrer lequel est Matthieu, lequel est Marc, lequel est
 Jean au fur et à mesure qu’ils passent.
+
 129 Ainsi, l’un des êtres vivants dit: “Viens et vois!”. Jean entendit le bruit du tonnerre et l’un des
 êtres vivants dit: “Viens et vois maintenant!”. En d’autres termes il y a l’Agneau ici et Jean se tient
 là-bas, regardant ces choses. L’Agneau se lève du Trône comme immolé; Il est couvert de sang. Il
 était Celui qui avait été trouvé digne, et quand Il tendit la main et prit le Livre, tout alors commença
 à pousser des cris, des acclamations et tout le reste parce qu’ils surent alors que le prix de la
 rédemption avait été payé.
+
 130 Il est donc venu pour réclamer les Siens. Il prend le Livre, se tenant devant Jean. Il prend le
 Livre, en brise le Sceau et ôte le Sceau. Quand Il ôte le Sceau, un coup de tonnerre retentit d’un
 bout à l’autre de ce lieu. Ce coup de tonnerre doit avoir fait sursauter Jean! Ensuite l’un des quatre
 êtres vivants dit: “Viens et vois maintenant ce que c’est, ce qui est révélé là-dessous. (Oh, mes
 frères!) Jean, écris ce que tu vois”.
+
 131 Alors Jean va voir ce que c’est. Jean va voir ce qu’a dit le tonnerre. C’est alors que cet être
 vivant lui dit: “Viens et vois ce qu’est le mystère qui se trouve sous le premier Sceau”. C’est le
 tonnerre, la Voix du Créateur qui avait prononcé cela. Et si quelqu’un devait savoir ce qu’il y avait
 là, c’était Lui. Oh, mes frères!
+
 132 Jean écrivait ces choses, mais quand il commença à écrire ces sept autres tonnerres, il
 lui fut dit: “Ne l’écris pas!”. Il avait été chargé d’écrire tout ce qu’il voyait. Mais quand les
 sept tonnerres qui étaient là-bas dans Apocalypse 10 se mirent à parler, il lui fut dit: “Ne les
@@ -752,16 +524,20 @@ j’imagine que, lorsque ces mystères commencèrent à s’avancer, Dieu dit: �
 maintenant. Attends une minute. Je les révèlerai en ce jour. Ne les écris pas du tout, Jean,
 parce que les gens chancelleraient en voyant ces choses. Laisse cela; je le leur révélerai le
 jour où ils auront sujet de les voir”.
+
 133 Mais ce n’est pas pour rien qu’ils ont parlé! Rappelez-vous que c’est comme avec la petite
 goutte d’encre: il y a un dessein à tout; chaque chose a sa raison d’être. Le Créateur a parlé, Jean
 a entendu cette voix et il est allé voir.
+
 134 Mais maintenant c’est dans des symboles conformes au langage de l’Ecriture destiné à
 l’Eglise (pour que l’Eglise connaisse cela) que l’Agneau montre à Jean ce qu’il doit écrire. Il dit: “Ne
 dis pas ce que c’est! Jean, ne va pas dire: c’est ceci ou cela; ne dis pas ce qu’il y a sous le
 septième Sceau! Car je te le dis, le plan tout entier serait bouleversé d’un bout à l’autre des âges.
 C’est un secret!”.
+
 135 “Personne ne saura quand je viens; je viens simplement”. C’est tout! Ce n’est pas mon
 affaire de connaître quand; je dois simplement être prêt, vous voyez?
+
 136 La Parole dit qu’ensuite Jean s’avança. Il pensa: “Je vais voir ces choses, maintenant”. Et que
 
         http://www.cmpp.ch
@@ -770,24 +546,30 @@ REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 15
 vit-il? Quand Jean s’avance, que doit-il faire? Il doit écrire ces choses aux âges de l’Eglise. C’est
 ce qu’il doit faire: écrire cela aux âges de l’Eglise. Il doit écrire ce qu’il voit de ces sept chandeliers
 d’or au commencement, écrire cela à l’Eglise et le lui dire.
+
 137 Bien. Un tonnerre retentit. Jean savait que c’était la Voix de Dieu. Puis l’être vivant semblable
 à un lion dit: “Viens et vois ce que c’est!”. Jean s’avança, prenant la plume pour écrire ce qu’il allait
 voir.
+
 138 Or Jean ne vit jamais exactement ce que c’était. Il ne le comprit pas; ce qu’il vit, c’était ce que
 Dieu envoyait à l’Eglise pour un temps. Et comme toujours, Il le fait comprendre quand c’est le
 moment où cela doit être compris. Il ne l’expliqua pas à ce moment-là. Pourquoi? Parce qu’Il allait
 garder cela secret jusqu’aux derniers jours; alors le message du dernier ange sonnerait de
 la trompette pour rassembler ces mystères et les rendre clairs.
+
 139 Mais Jean ne vit qu’un cheval blanc qui sortait, monté par un cavalier; c’est donc cela qu’il
 écrivit. C’est pour voir cela qu’il lui fut dit: “Viens et vois!”. C’est pourquoi Jean alla regarder ce qu’il
 pourrait voir et écrire à l’Eglise. Quand il le fit, il vit un cheval blanc; celui qui le montait avait un arc
 et partait en vainqueur et pour vaincre, et une couronne lui fut donnée. Et voilà, c’est tout ce que
 Jean vit, c’est pourquoi il écrivit simplement cela.
+
 140 Vous voyez, c’est montré sous forme de symboles. C’est de cette façon que l’Eglise l’a reçu,
 mais avec la promesse qu’au dernier jour Il révélerait cela, qu’Il montrerait ce que c’est. Que Dieu
 nous aide à le comprendre!
+
 141 Mais ces choses ne sont pas pleinement révélées aux âges de l’Eglise tant que n’est pas
 venu le septième message, celui du dernier âge de l’Eglise.
+
 142 Remarquez que le messager de ce septième âge ne fonde pas de dénomination comme l’ont
 fait tous les autres. Non! Vous découvrirez qu’il y est opposé. Elie y était-il opposé? Certainement!
 Jean-Baptiste (qui avait l’esprit d’Elie) y était-il opposé? Quel genre d’esprit reposait sur Elie?
@@ -795,6 +577,7 @@ Personne ne connaît grand’chose d’Elie. Il n’était qu’un homme mais c�
 haï. Oh, mes amis, à quelle époque s’est-il levé? Au moment même de la popularité d’Israël,
 quand ils tombèrent dans la mondanité. C’est à ce moment qu’il sortit du désert. C’était quelqu’un
 qui n’aimait pas les femmes! Certainement pas! Il aimait le désert. C’était sa nature.
+
 143 Ces gens auraient dû discerner la venue de cet homme, Jean-Baptiste, qui avait en lui le
 même esprit. Il n’était pas habillé comme les grands, ainsi que je l’ai dit hier soir. Ceux-ci
 embrassent les bébés, font des mariages et des ensevelissement, etc. mais cet homme-là est sorti
@@ -803,6 +586,7 @@ haïssait les dénominations! Il disait: “Ne venez pas me dire: Nous apparteno
 car je vous déclare que, de ces pierres-ci, Dieu est capable de susciter des enfants à Abraham”.
 Ce n’était pas un faiseur de compromis. Jésus a dit: “Qu’êtes-vous allés voir au désert? Un roseau
 agité par le vent?”. Ce n’était pas ce qu’était Jean! Oh non!
+
 144 Que fit-il encore? Il parla à Hérodias comme Elie le fit à Jézabel. Il alla à Hérode et lui dit en
 face: “La loi ne te permet pas de l’avoir pour femme”. Ils lui coupèrent la tête à cause de cela!
 Jézabel essaya de s’emparer d’Elie, le même esprit qui était en Jézabel était en cette femme.
@@ -810,6 +594,7 @@ C’est la même chose qui se trouve dans l’église-Jézabel aujourd’hui. La
 quelle grande leçon nous avons là! Il semble que ces gens auraient dû savoir! Jean commença à
 crier contre ces gens et il semble qu’ils auraient dû reconnaître que c’était l’esprit d’Elie. Ils
 auraient dû comprendre cela! C’est ce que c’était.
+
 145 Nous voyons donc que, d’un bout à l’autre des âges de l’Eglise, il nous est promis
 conformément aux Ecritures un retour de cet esprit juste avant le temps de la fin. N’est-ce
 pas vrai? Prenez garde à sa nature! Il ne commencera pas un autre âge de l’Eglise comme Luther,
@@ -818,6 +603,7 @@ l’Eglise qui doit venir. Il n’y en aura plus! C’est pourquoi il doit être
 esprit sera exactement le même que celui d’autrefois, ce sera le même esprit. Comme je le disais
 hier soir: “Il a plu à Dieu de l’utiliser trois fois”. Trois est Son nombre; non pas deux, mais trois. Il l’a
 déjà utilisé deux fois. Il va maintenant l’utiliser de nouveau. C’est Lui qui l’a dit. Il l’a promis.
+
 146 Remarquez maintenant quand Il fait cela. Il ne fondera pas de dénomination parce que l’âge
 de l’Eglise de Laodicée est le dernier âge et que le septième ange, qui est le septième
 messager pour le septième âge de l’Eglise, est la personne qui révélera par le Saint-Esprit
@@ -828,18 +614,22 @@ messager pour le septième âge de l’Eglise, est la personne qui révélera pa
 toutes ces choses mystérieuses qui seront révélées. Combien étaient ici hier soir? Veuillez
 lever la main. Il n’est donc pas nécessaire que je le lise, vous savez que c’est dans le dixième
 chapitre, n’est-ce pas?
+
 147 Chaque réformateur est venu pour réformer l’âge de l’Eglise déchu qui l’avait précédé. Puis
 après être venus et avoir réformé l’âge de l’Eglise en le ramenant d’où il était tombé, ils
 retournèrent dans le monde et commencèrent un nouvel âge de l’Eglise. C’est ce qu’ils ont
 toujours fait. Toujours. Nous l’avons déjà vu. Vous comprenez?
+
 148 En d’autres termes, il y a eu un âge de l’église catholique, l’âge de l’église catholique romaine.
 Puis vint Luther, un réformateur. Il est appelé un réformateur. Que fit-il? Il commença à frapper à
 grands coups, protestant contre les hérésies de l’église. Mais que fit-il bientôt? Il se mit à établir
 quelque chose de semblable à ce qu’il était venu chasser: une autre église! Alors commença un
 autre âge de l’Eglise.
+
 149 Mais voilà que cet âge de l’Eglise tombe lui aussi dans une grande confusion. Alors arrive
 John Wesley, un autre réformateur. Il établit un autre âge de l’Eglise. Comprenez-vous ce que je
 veux dire? Un autre âge d’Eglise est établi. Tous étaient des réformateurs.
+
 150 Mais remarquez ceci: Ce dernier messager du dernier âge de l’Eglise n’est pas un
 réformateur; c’est un PROPHETE! Ce n’est pas un réformateur. Montrez-moi où un prophète a
 commencé un âge de l’Eglise! Ce n’est pas un réformateur, c’est un prophète. D’autres furent des
@@ -850,22 +640,27 @@ Malgré tout c’étaient de grands hommes de Dieu qui voyaient les besoins de l
 laquelle ils vivaient. Dieu les avait oints, ils furent envoyés et mirent en pièces ces choses. Mais la
 pleine Parole de Dieu ne vint pas à eux car ils n’étaient pas prophètes: ils étaient
 réformateurs.
+
 151 Dans les derniers jours il faudra que ce soit un prophète qui prenne les mystères de Dieu
 parce que les mystères ne sont connus que des prophètes. C’est pourquoi il faut que ce soit ce
 genre d’homme qui vienne. Voyez-vous ce que je veux dire maintenant? Il ne peut pas être un
 réformateur, il doit être un prophète parce qu’il faut que ce soit quelqu’un qui ait ce don, et
 c’est ce don en lui qui saisit la Parole.
+
 152 Les réformateurs savaient bien que quelque chose n’allait pas. Luther savait que le pain
 n’était pas réellement le corps de Christ, c’est pourquoi il prêcha: “Le juste vivra par la foi”. Ce fut
 son message.
+
 153 Quand John Wesley vint, il vit qu’il y avait la sanctification, c’est pourquoi il prêcha la
 sanctification. Ce fut son message.
+
 154 Les Pentecôtistes apportèrent le message du Saint-Esprit et ainsi de suite. Mais dans les
 derniers jours, dans ce dernier âge, le messager ne commencera aucune réforme; il prendra tous
 les mystères que ces réformateurs avaient laissés de côté pour les rassembler et en apporter la
 solution au peuple. Lisons-le de nouveau. Cela me semble une bonne chose et j’aime le relire, “Et
 je vis un autre ange puissant descendant du ciel, revêtu d’une nuée, et l’arc-en-ciel sur sa tête, et
 son visage comme le soleil, et ses pieds comme des colonnes de feu;…”.
+
 155 Nous avons déjà vu la même chose, c’était Christ. Et nous savons que Christ est toujours
 le Messager pour l’Eglise. Il est appelé la Colonne de feu, l’Ange de l’Alliance, etc. “… et il avait
 dans sa main un petit livre ouvert (ici, les Sceaux ont déjà été brisés. Nous sommes maintenant en
@@ -878,6 +673,7 @@ et jura par celui qui vit aux siècles des siècles, lequel a créé le ciel et 
 terre et les choses qui y sont, et la mer et les choses qui y sont, qu’il n’y aurait plus de délai (faites
 attention! N’oubliez pas cela tandis que nous continuons) mais qu’aux jours de la voix du septième
 ange…”.
+
 156 Le dernier ange est un ange terrestre. Mais cet autre Ange, Lui, descend du Ciel. Ce n’est pas
 
     http://www.cmpp.ch
@@ -888,12 +684,15 @@ messager, tout le monde sait cela. C’est un messager pour l’âge de l’Egli
 la voix du septième ange, quand il sera sur le point de sonner de la trompette, le mystère de Dieu
 (les sept Sceaux, tous les mystères) aussi sera terminé, comme il en a annoncé la bonne nouvelle
 à ses esclaves les prophètes” (Apocalypse 10.1-7).
+
 157 Le mystère tout entier est dévoilé; c’est cela, le ministère de cet ange. C’est si simple que les
 gens passent par-dessus. Mais il sera parfaitement confirmé partout. Il sera confirmé parfaitement!
 Quiconque désire le voir peut le voir. C’est vrai. Lorsqu’Il vint, Jésus a dit: “Comme l’a dit Esaïe:
 Vous avez des yeux et ne pouvez pas voir. Vous avez des oreilles et ne pouvez pas entendre”.
+
 158 Oh, j’ai eu peur! en regardant l’horloge j’ai cru qu’il était déjà 10 heures; mais heureusement
 qu’il est à peine 9 heures. Continuons.
+
 159 Remarquez (j’aime cela) que les autres étaient des réformateurs qui, étant de grands hommes
 de Dieu, virent les besoins du moment et apportèrent la réformation. Mais Apocalypse 10 dit que le
 message de cet ange est de révéler (non pas de réformer), de révéler les secrets. C’est la Parole
@@ -904,27 +703,33 @@ l’église a tout lié et embrouillé, il s’avancera avec la Parole de Dieu e
 parce qu’il vient pour ramener la foi des enfants aux pères. La foi biblique originelle doit
 être restaurée par le septième ange. Oh, combien j’aime cela! Tous les mystères des Sceaux
 que les réformateurs n’avaient jamais compris complètement!
+
 160 Voyons Malachie 4 juste un instant. Veuillez le noter. C’est un prophète qui restaure la foi
 originelle des pères. C’est pourquoi nous nous attendons à l’entrée en scène de cet homme. Il
 sera si humble que sur dix millions de fois dix millions, seul un petit groupe comprendra ce qui se
 passe.
+
 161 Rappelez-vous l’autre jour quand nous avons vu que lorsque Jean devait venir, il fut
 prophétisé qu’un messager viendrait avant la venue de Christ, une voix de quelqu’un criant dans le
 désert; Malachie l’avait vu. Vous voyez, le troisième chapitre de Malachie est celui de la venue
 d’Elie qui devait venir préparer la première venue de Christ. Vous me direz: «Je ne sais pas, frère
 Branham. Pour moi c’est plutôt le quatrième chapitre». Je vous demande pardon! Jésus a dit que
 c’était le troisième chapitre.
+
 162 Prenez Matthieu 11.10. Jésus dit en parlant de Jean: “… C’est celui dont il est écrit: Voici,
 j’envoie mon messager devant ma face”. Lisez Malachie 3.1.
+
 163 Quelques-uns essaient de l’appliquer à Malachie 4. Non, ce n’est pas cela! Remarquez que
 dans Malachie 4, aussitôt que le messager s’en va, le monde est complètement brûlé et les justes
 entrent dans le Millénium en marchant sur les cendres des méchants. Ainsi vous voyez que si
 vous appliquez cela au premier passage de l’Ecriture, la Bible dit quelque chose qui n’est pas
 juste. Deux mille ans ont déjà passé sans que le monde ait brûlé et les justes y vivent. Cela doit
 donc se passer dans le futur.
+
 164 Oh, frères, si vous ouvrez l’Apocalypse et que vous regardiez ce que doit faire ce messager à
 la fin de cet âge, vous comprendrez ce que c’est. Il doit être un prophète; il doit prendre ces
 choses laissées en suspens que les réformateurs n’ont pas vues et les mettre à leur place.
+
 165 Comment peut-on comparer Matthieu 28.19 avec Actes 2.38 sans la révélation spirituelle de
 Dieu? Comment ces gens peuvent-ils dire que les jours des miracles sont passés et d’autres
 choses semblables? C’est parce qu’ils n’ont pas la révélation de Dieu! La révélation est le seul
@@ -932,6 +737,7 @@ moyen de reconnaître si c’est vrai ou faux, vous voyez? Mais ils ont passé p
 J’espère avoir le temps d’entrer dans ce sujet. Maintenant je veux me hâter parce que je ne veux
 pas vous garder ici plus d’une semaine pour l’ouverture de ces Sceaux. J’aimerais si possible
 réserver un jour pour prier pour les malades.
+
 166 Maintenant voyez ce que dit Malachie 4: Ce sera un prophète qui restaurera la foi originelle
 des pères. Au temps de la fin vient la période de la tribulation. Il y a ici quelque chose sur quoi
 nous allons revenir un instant. Il y a là ces trois ans et demi des soixante-dix semaines de Daniel
@@ -943,39 +749,49 @@ combien se souviennent d’avoir vu cela dans les âges de l’Eglise? Soixante-
     REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU    18
 été déterminées (voyez comme c’était parfait!) puis viendra le Messie, et Il sera retranché pour
 être offert en sacrifice au milieu de la semaine, puis le sacrifice perpétuel cessera.
+
 167 Il reste donc en réserve trois ans et demi pour que la doctrine messianique soit apportée aux
 Juifs car Dieu ne s’occupe pas des Juifs et des nations en même temps. Il s’occupe d’Israël en
-tant que nation et des nations en tant qu’individus. Il ne prend pas les nations comme Epouse, Il
+ tant que nation et des nations en tant qu’individus. Il ne prend pas les nations comme Epouse, Il
 prend un peuple parmi les nations. Actuellement Il traite avec Israël en tant que nation, car Israël
 existe actuellement en tant que nation.
+
 168 Aujourd’hui j’ai reçu une lettre de Paul Boyd dans laquelle il me dit: «Frère Branham, comme il
 est vrai que ces Juifs éprouvent encore des sentiments curieux envers les nations, quoi qu’il ait pu
 arriver!». C’est certain, c’est normal!
+
 169 Martin Luther fit la proclamation que tous les Juifs devraient être chassés et leurs maisons
 brûlées parce qu’ils étaient des antichrists! Vous voyez? Martin Luther fit lui-même cette
 déclaration dans ses écrits.
+
 170 Or Hitler a accompli exactement ce que Martin Luther avait dit. Pourquoi Martin Luther
 avait-t-il dit ça? Parce qu’il était un réformateur et non un prophète. Dieu prend un prophète pour
 bénir Israël. Il avait dit: “Ceux qui te béniront seront bénis et ceux qui te maudiront seront maudits”.
 Comment un prophète pourrait-il se lever et contredire ce qu’un autre prophète a dit? Il ne le peut
 pas!
+
 171 Tout doit être en harmonie. L’Allemagne est censée être une nation chrétienne, voyez
 pourtant la façon dont elle a traité Israël! Ils portent encore la marque du châtiment sur leurs
 épaules; vous ne pouvez pas les blâmer! Mais s’il y a ici quelques Juifs, souvenez-vous de ceci:
 «Ne vous en faites pas, votre jour arrive!». Dieu ne peut pas les oublier. Ils ont été aveuglés à
 cause de nous.
+
 172 Le prophète s’écria: “Oublieras-tu Israël?”.
+
 173 Dieu lui dit: “Prends ce bâton à mesurer: dis-moi quelle est la hauteur du ciel et quelle est la
 profondeur de la mer”.
+
 174 Il répondit: “Je ne peux pas mesurer cela”. Dieu reprit: “De même je ne pourrai jamais oublier
 Israël”. C’est Son peuple, Ses serviteurs. Et parmi les nations Il n’en a pris que quelques-uns pour
 en faire Son Epouse. C’est parfaitement vrai! C’est l’Epouse.
+
 175 Ces soixante-dix semaines furent déterminées parfaitement comme l’a dit Daniel en
 annonçant que le Messie viendrait et serait retranché au milieu de la semaine. Jésus prophétisa
 pendant trois ans et demi et, comme le prédit Daniel, au milieu de cette dernière semaine (trois
 ans et demi), Il fut retranché. Or la dernière partie est la période de tribulation où l’Eglise des
 nations (Oh, que c’est glorieux! Ne le manquez pas!), l’Epouse, entre avec son Epoux. Ensuite,
 après le Millénium, elle sort et foule aux pieds les cendres des méchants.
+
 176 Je veux vous montrer quelque chose. Tandis que nous avons ces choses à l’esprit, je veux
 vous montrer ce que dit la Bible; et nous ne pouvons pas nier qu’Elle est la Parole de Dieu! Si
 nous le faisons, nous sommes des infidèles; nous devons La croire. Vous direz: «Je ne La
@@ -984,6 +800,7 @@ comprends pas!». Moi non plus, mais je m’attends à Lui pour qu’Il La rév�
         “Car voici, le jour vient, ardent comme une fournaise. Tous les hautains (comme les
      Américains, etc.) et tous les méchants seront comme du chaume (cela va brûler!); le jour
      qui vient les embrasera, dit l’Eternel des armées, il ne leur laissera ni racine ni rameau”.
+
 177 Où trouvez-vous là-dedans un enfer éternel? Il s’agit des derniers jours, des temps où ces
 choses sont révélées. Il n’y a aucun endroit dans la Bible où il est dit que l’enfer soit éternel.
 [L’anglais a deux mots: 1) éternal qui signifie qui n’a ni commencement ni fin et 2) everlasting qui
@@ -1000,14 +817,17 @@ Et quand cela arrivera, il ne restera ni racine, ni rameau.
 REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 19
      vous foulerez les méchants, car ils seront comme de la cendre sous la plante de vos
      pieds, au jour que je prépare, dit l’Eternel des armées”.
+
 178 Que vont devenir les méchants après la tribulation? Des cendres!
         “Souvenez-vous de la loi de Moïse, mon serviteur, auquel j’ai prescrit en Horeb, pour
      tout Israël, des préceptes et des ordonnances. Voici, je vous enverrai Elie, le prophète,
      avant que le jour de l’Eternel arrive, ce jour grand et redoutable”.
+
 179 Amen! C’est ainsi que l’Ancien Testament se termine et le Nouveau Testament se termine
 exactement de la même manière. Comment pouvez-vous négliger cela? Voyez ceci: “Je vous
 enverrai Elie, le prophète, AVANT que ce jour arrive”. “Et il ramènera le coeur des pères à leurs
 enfants, et le coeur des enfants à leurs pères, de peur que je ne vienne frapper le pays d’interdit”.
+
 180 Voilà. C’est la Parole de Dieu. Il l’a promis. Cela doit arriver. Et maintenant si vous remarquez
 comment cela arrive… c’est beau comme Dieu fait cela! L’Epouse s’avance avec l’Epoux et après
 cela les méchants sont brûlés dans un feu inextinguible. Ensuite, après que le monde ait été
@@ -1019,18 +839,23 @@ l’encre à sa création originelle. Ainsi le feu de Dieu sera si ardent qu’i
 souillées à leur état premier; cela arrivera quand Satan et tout le péché sera consumé ainsi que
 toutes choses. Alors, la terre redeviendra aussi belle qu’elle l’était dans le jardin d’Eden. C’est vrai!
 Oh, quelle heure glorieuse est devant nous!
+
 181 Voici ce que je voudrais que vous notiez maintenant, une petite chose que j’ai relevée en
 passant. Pendant cette période de tribulation, après que l’Epouse a été enlevée et que l’église
 traverse la tribulation, les 144 000 sont appelés par les deux témoins d’Apocalypse 11. Vous
 voyez, ils prophétiseront mille deux cent soixante jours, vêtus de sacs.
+
 182 D’après notre calendrier romain, nous avons des mois de 28, 30 et 31 jours; mais le véritable
 calendrier ne comprend que des mois de 30 jours et si vous divisez mille deux cent soixante jours
 par trente, vous obtenez exactement trois ans et demi; c’est le temps accordé pour prêcher le
 message messianique à Israël, comme cela fut déjà fait une première fois.
+
 183 Lorsqu’Il revient et se fait connaître Lui-même sous forme d’un symbole…
+
 184 Lorsque Joseph fut emmené par ses frères et rejeté, c’est parce qu’il était un homme spirituel
 qui avait des visions et pouvait interpréter les songes. Lorsqu’il le fit il fut emmené dans les
 champs et vendu pour environ vingt sicles d’argent.
+
 185 Il était le portrait exact de Christ parce que c’était l’Esprit de Christ en lui. Remarquez ce qui
 arriva alors. Et remarquez que quand cela lui arriva il fut jeté en prison, et là un homme fut sauvé
 et un autre perdu. Exactement comme Jésus quand Il fut mis en prison sur la croix. Un voleur fut
@@ -1038,12 +863,15 @@ sauvé et l’autre perdu. Exactement! Joseph fut jeté dans une fosse et fut co
 fit sortir et il fut élevé à la droite de Pharaon en sorte que personne ne pouvait voir Pharaon sans
 voir d’abord Joseph. Jésus est assis à la droite de Dieu et aucun homme ne peut venir au Père si
 ce n’est par le Fils! C’est vrai!
+
 186 Et remarquez que chaque fois que Joseph se levait de la droite de ce trône, que se passait-il?
 Gloire à Dieu! Joseph était assis à la droite de Pharaon et lorsqu’il se levait pour quitter ce trône la
 trompette sonnait: “Tout le monde à genoux! Joseph vient!”.
+
 187 Lorsque cet Agneau quittera le Trône, là-haut, ainsi que Son oeuvre de médiation, lorsqu’Il
 quittera le Trône, prendra ce Livre de rédemption et s’avancera, tout genou fléchira! Le voici qui
 vient!
+
 188 Remarquez qu’il fut donné une épouse des nations à Joseph après qu’il eut été rejeté par ses
 frères. Pharaon lui donna une épouse venant des nations, et elle lui donna des enfants, à moitié
 des nations et à moitié juifs. Nous avons là un glorieux symbole de ce qui se passa lorsque Jacob
@@ -1068,8 +896,8 @@ reconnut tout de suite. Or Joseph était le fils de la prospérité; où qu’il
 Attendez que Lui, notre Joseph vienne sur la terre! Le désert fleurira comme une rose et le Soleil
 de Justice se lèvera avec la guérison sous Ses ailes. Oh, frères, tous ces cactus de l’Arizona
 s’épanouiront alors en de beaux arbres! Ce sera magnifique!
-192 Ainsi Joseph vient et leur joue un petit tour. Il se tient devant eux et leur demande: “Votre père
-vit-il encore?”. Vous voyez, il voulait savoir si le père de ces hommes était encore vivant. Ils dirent:
+192 Ainsi Joseph vient et leur joue un petit tour. Il se tient devant eux et leur demande: “Votre
+père vit-il encore?”. Vous voyez, il voulait savoir si le père de ces hommes était encore vivant. Ils dirent:
 “Oui”. (Joseph savait que c’étaient ses frères.)
 193 Mais avez-vous remarqué ceci? Quand il fut prêt à se révéler à ses frères et qu’il trouva le
 petit Benjamin né depuis qu’il était parti (celui-ci représente les Juifs, ces 144 000 qui se
@@ -1302,8 +1130,8 @@ Oh, gloire à Dieu!
 236 Remarquez que lorsque ce Saint-Esprit que nous avons s’incarne en nous et que Celui
 qui est au milieu de nous maintenant sous la forme du Saint-Esprit s’incarne en nous dans
 la Personne de Jésus-Christ, nous Le couronnerons Roi des rois! C’est vrai!
-237 Rappelez-vous ceci: à peu près au moment où Christ est venu sur le Trône, l’antichrist vint lui
-aussi sur le trône, c’était Judas. Et à peu près en même temps que Christ quitta la terre, Judas
+237 Rappelez-vous ceci: à peu près au moment où Christ est venu sur le Trône, l’antichrist vint
+lui aussi sur le trône, c’était Judas. Et à peu près en même temps que Christ quitta la terre, Judas
 quitta la terre. Presque au même moment où le Saint-Esprit est revenu, l’antichrist aussi est
 revenu.
 238 Vous savez que Jean a dit: “Petits enfants, je ne voudrais pas que vous ignoriez que
@@ -1475,7 +1303,7 @@ Catholiques et Juifs détiennent les richesses de ce monde.
 Le baron von Blumberg me l’avait obtenue pour un mercredi après-midi à 3 heures. Lorsque j’avais
 été conduit auprès d’un roi, on m’avait alors coupé les revers de mon pantalon. Parfaitement! Ils
 m’avaient dit de ne jamais lui tourner le dos en le quittant. Tout cela est très bien. Je dis: «Mais
-alors, que dois-je faire devant ce personnage?».
+ alors, que dois-je faire devant ce personnage?».
 272 Ils me répondirent: «Entrez simplement, fléchissez le genou devant lui et baisez-lui le doigt».
 273 Je dis: «C’est absolument exclu! J’appellerais n’importe qui un frère, s’il veut être un frère. Je
 l’appelerais révérend, s’il veut avoir ce titre, mais adorer un homme, non, cela n’appartient qu’à
@@ -1561,8 +1389,6 @@ l’église catholique. Le pape était le prophète de la fausse Parole, ce qui 
 prophète.
 290 La troisième étape est la Bête. C’est un homme qui est couronné dans les derniers jours,
 ayant reçu tout le pouvoir que la Rome païenne eût jamais eu parce que la bête aux sept têtes, le
-
-        http://www.cmpp.ch
 
 REVELATION DES SEPT SCEAUX / LE PREMIER SCEAU 29
 dragon, a été chassé du Ciel et s’est incarné dans le faux prophète. Ici le dragon a sept couronnes
@@ -1728,9 +1554,6 @@ arrive ici devant et se dévoile à nous aussi parfaitement qu’il est possible
 Maintenant nous ne serons plus séduits à ce sujet. Maintenant vos yeux sont ouverts. Tenez-vous
 éloignés de ces bêtises. Aimez le Seigneur de tout votre coeur et demeurez fermement attachés à
 Lui. Certainement. Sortez de Babylone!
-
-
-
 
 
 

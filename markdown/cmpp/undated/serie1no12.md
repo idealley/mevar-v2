@@ -1,559 +1,281 @@
-    SERIE 1 N° 12
+---
+source: "cmpp"
+sermon_id: "serie1no12"
+title: "Discerner le Corps du Seigneur"
+date: "1959-08-12"
+year: 1959
+location: "Middletown, Ohio, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur l'importance de discerner le Corps du Seigneur, c'est-à-dire l'Église des croyants, en se basant sur 1 Corinthiens 11. Il critique le manque de discernement spirituel dans l'Église moderne, qui conduit à la faiblesse, la maladie et la mort spirituelle. Il exhorte les croyants à vivre selon la Parole de Dieu et à reconnaître les signes des temps."
+tags:
+  - "discernement"
+  - "Corps du Seigneur"
+  - "communion"
+  - "sainteté"
+  - "derniers temps"
+persons:
+  - "William Marrion Branham"
+  - "Jésus-Christ"
+  - "Paul"
+  - "Abraham"
+  - "Lot"
+  - "Billy Graham"
+places:
+  - "Middletown"
+  - "Ohio"
+  - "U.S.A."
+  - "Sodome"
+  - "New York"
+themes:
+  - "discernement spirituel"
+  - "sainteté personnelle"
+  - "signes des temps"
+  - "unité de l'Église"
+  - "jugement"
+pdf_url: "http://cmpp.ch/serie1no12.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "Actes 2"
+  - "Amos 5"
+  - "Galates 1"
+  - "Jean 18"
+  - "Luc 22"
+  - "Ésaïe 1"
+  - "Ésaïe 28"
+---
+SERIE 1 N° 12
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
+WILLIAM MARRION BRANHAM
 
-    WILLIAM MARRION BRANHAM
-
-
-    DISCERNER
-    LE CORPS DU SEIGNEUR
-    (Discerning the Body of The Lord)
-
-    12 août 1959, soir
-Middletown — Ohio, U.S.A.
-
-   LE REPAS DU SEIGNEUR
-       (Communion)
-
- 12 décembre 1965, soir
-Tucson — Arizona, U.S.A.
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    DISCERNER LE CORPS DU SEIGNEUR    2
-
-
-  DISCERNER LE CORPS DU SEIGNEUR
+DISCERNER LE CORPS DU SEIGNEUR
 (Discerning the Body of The Lord)
 
+12 août 1959, soir
+Middletown — Ohio, U.S.A.
 
+LE REPAS DU SEIGNEUR
+(Communion)
 
-        12 août 1959, soir
-    Middletown — Ohio, U.S.A.
+12 décembre 1965, soir
+Tucson — Arizona, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+DISCERNER LE CORPS DU SEIGNEUR
 
+Bonsoir, chers amis. Veuillez vous asseoir. Je suis heureux d’être ici ce soir, parmi tous ces bons chrétiens. Et nous nous attendons ce soir à ce que Dieu fasse encore beaucoup plus que nous ne saurions penser ou imaginer. Nous savons qu’Il est réel.
 
+Combien d’entre vous sentent qu’ils ont été guéris, après les services de guérison d’hier soir?… C’est magnifique! Nous pensons que le reste d’entre vous pourra être guéri ce soir. Je pense qu’il nous reste encore quelques cartes de prière. Billy m’a dit qu’il n’en a pas distribué, parce que nous n’en avons pris que quelques-unes, hier soir. Et il pourrait y avoir quelques personnes qui voudraient venir dans la ligne de prière plus tard dans la soirée, ou qui voudraient venir dans la ligne où est exercé le don de discernement.
 
-   Bonsoir, chers amis. Veuillez vous asseoir. Je suis heureux d’être ici ce soir, parmi tous ces
-bons chrétiens. Et nous nous attendons ce soir à ce que Dieu fasse encore beaucoup plus que
-nous ne saurions penser ou imaginer. Nous savons qu’Il est réel.
-   Combien d’entre vous sentent qu’ils ont été guéris, après les services de guérison d’hier soir?…
-C’est magnifique! Nous pensons que le reste d’entre vous pourra être guéri ce soir. Je pense qu’il
-nous reste encore quelques cartes de prière. Billy m’a dit qu’il n’en a pas distribué, parce que nous
-n’en avons pris que quelques-unes, hier soir. Et il pourrait y avoir quelques personnes qui
-voudraient venir dans la ligne de prière plus tard dans la soirée, ou qui voudraient venir dans la
-ligne où est exercé le don de discernement.
-   Ce n’est pas le discernement qui guérit. Il ne fait que placer la personne dans des conditions
-telles qu’elle puisse s’examiner et accepter la guérison que Jésus-Christ a déjà acquise pour elle.
-Vous voyez, l’imposition des mains est une chose excellente, car elle est conforme à l’Ecriture,
-mais ce n’est pas le moyen choisi pour apporter la guérison aux nations.
-   Dans la Bible, il est dit qu’un Juif avait une fille très malade qui mourut. Il dit à Jésus: “Ma fille
-est près de mourir, mais si tu viens et poses les mains sur elle, alors elle sera guérie”.
-   Mais, lorsque le centurion romain, le païen, l’homme venant des nations, eut un serviteur
-malade, il dit: “Je ne suis pas digne que tu viennes sous mon toit. Prononce simplement une
-Parole!”. C’est cela qui émut le coeur de Jésus. Il n’avait pas besoin qu’on lui imposât les mains; il
-avait simplement besoin d’entendre la Parole.
-   Vous savez, j’aime cette histoire, parce que le Romain reconnut qu’Il était un homme ayant une
-autorité. Et si lui-même disait à un homme: “Fais ceci!” ou “Fais cela!”, il le faisait. Il reconnut la
-même autorité dans le Seigneur Jésus. Car ce centurion savait que si Jésus disait à l’un de Ses
-disciples: “Va!” ou “Viens!”, il devait Lui obéir. Il savait aussi que toutes les maladies étaient
-soumises à l’autorité du Seigneur Jésus. Il n’avait par conséquent pas besoin d’imposer les mains
-au serviteur du centurion — “Prononce une Parole, et mon serviteur vivra!”.
-   Jésus fut étonné et dit: “Je n’ai pas trouvé une telle foi en Israël”. Oh! j’aimerais bien vivre assez
-longtemps pour voir le jour où les Américains auront ce genre de foi! — “Prononce simplement une
-Parole, Seigneur, et mon serviteur vivra!”. Oh, ce sera un jour glorieux!
-   Quelquefois, lorsque l’onction est très profonde… Si parfois je n’ai pas l’occasion de faire un
-appel, alors frère Sullivan ou quelqu’un d’autre le fera à ma place. Quelques-uns pourront dire que
-nous insistons trop sur la guérison divine. Mais la guérison divine est comme la pêche. Vous ne
-montrez jamais l’hameçon au poisson. Vous lui montrez l’appât. Il se jette sur l’appât et s’enferre à
-l’hameçon. Il en va de même de la guérison divine. Elle attire, parce qu’elle démontre qu’il y a un
-Dieu vivant qui s’intéresse à vous. Et l’incrédule peut le voir. Son oeil peut rapidement le constater
-et voir qu’il y a un Dieu Vivant, et alors, il s’engage dans la voie du salut. Alors, Dieu peut exercer
-Son action sur lui et l’amener à Lui. Voilà pourquoi il y a des services de guérison divine.
-   Il y a ici des frères qui ont quelques bandes, les livres, les disques, etc. et qui ont créé un petit
-centre de distribution dont ils s’occupent eux-mêmes. Pour ma part, je possède quelques-uns de
-ces livres, et les autres, il faut que je les achète. Quelques-uns sont de moi — les prédications.
-J’achète les autres à frère Lindsay. Il y a L’histoire de ma Vie, et un autre, Un prophète visite
-l’Afrique. Je crois qu’il y a encore trois ou quatre prédications de moi. Ils sont ici, non pas pour que
+Ce n’est pas le discernement qui guérit. Il ne fait que placer la personne dans des conditions telles qu’elle puisse s’examiner et accepter la guérison que Jésus-Christ a déjà acquise pour elle. Vous voyez, l’imposition des mains est une chose excellente, car elle est conforme à l’Ecriture, mais ce n’est pas le moyen choisi pour apporter la guérison aux nations.
 
-        http://www.cmpp.ch
+Dans la Bible, il est dit qu’un Juif avait une fille très malade qui mourut. Il dit à Jésus: “Ma fille est près de mourir, mais si tu viens et poses les mains sur elle, alors elle sera guérie”.
 
-    DISCERNER LE CORPS DU SEIGNEUR                      3
-nous puissions gagner de l’argent par leur moyen, mais simplement afin que le message puisse
-être propagé. C’est cela qui compte.
-   Propagez le message, parce qu’il est beaucoup plus tard que nous ne pensions! Nous sommes
-à la fin de cet âge, et l’église est dans un état épouvantable. Nous essayons simplement
-d’apporter un rayon de soleil parmi les peuples. Nous n’essayons pas de les convertir à nos
-propres croyances, mais de les amener à vivre plus près du Seigneur Jésus, et à croire en Lui.
-Nous ne voulons pas retirer des membres d’une église pour les amener à une autre église, mais
-ce que nous désirons, c’est d’amener plus de membres à l’Eglise.
-   Encore un mot avant d’ouvrir la Parole pour le message de ce soir, qui sera court. Nous ne
-voulons pas vous garder trop longtemps, parce que beaucoup d’entre vous viennent de loin, et
-vous devez encore rentrer chez vous pour reprendre votre travail. Nous attendrons donc samedi
-soir pour vous garder plus longtemps. Et le dimanche, vous n’avez pas besoin d’être à l’école du
-dimanche avant 9h30. Maintenant, inclinons nos têtes un moment, pour quelques paroles de
-prière.
-   Seigneur, nous sommes reconnaissants au-delà de toute expression, pour l’occasion que nous
-avons de venir et d’incliner nos têtes devant le Dieu Vivant, sachant que nous avons reçu la
-promesse de Son Saint Fils, le Seigneur Jésus, que nous pouvons recevoir ce que nous
-demandons, si nous le demandons au Père, au Nom du Seigneur Jésus, Son Fils. Et nous avons
-reçu l’assurance que nous serons entendus si nous venons au Nom de Jésus. Car Il a dit:
-“Demandez au Père ce que vous voudrez en Mon Nom, et vous le recevrez”. Nous sommes
-absolument sûrs ce soir qu’Il nous entend, et que ce que nous Lui demandons nous sera accordé,
-parce que nous sentons que ce que nous demandons est conforme à la volonté de Dieu. Car Il a
-dit quelque part: «Vous ne recevez pas, parce que vous ne demandez pas, parce que vous ne
-croyez pas». Seigneur, la raison pour laquelle nous venons ici est que nous croyons, et nous
-croyons que tu répondras, et que nos prières ne sont pas seulement entendues par les hommes,
-mais nous croyons que Tu écoutes, et nous sommes certains que Tu répondras, parce que Tu
-nous l’as promis. Nous ne voulons demander rien d’autre que: «… Ta volonté soit faite!».
-Seigneur, qu’ici ce soir, chaque pécheur qui ne Te connaît pas comme son Sauveur… que ce soir,
-quelque chose puisse être dit ou fait qui les fasse T’accepter comme leur Sauveur.
-   Que ceux qui n’ont pas reçu le Saint-Esprit et qui attendent de tout leur coeur que les écailles
-leur tombent des yeux, puissent Le recevoir ce soir. Oh, Seigneur, que le Saint-Esprit puisse
-remplir tous les coeurs ce soir. Que l’Esprit de Dieu Se manifeste de telle manière que leurs âmes
-en soient ébranlées jusqu’au point où tous les doutes et les superstitions les quittent, et que le
-Saint-Esprit entre dans leur vie et les scelle pour le Royaume de Dieu.
-   Seigneur, accorde-nous ce soir qu’il n’y ait pas une seule personne malade parmi nous, à la fin
-de ce service. Que chacun puisse être guéri. Nous ne voulons pas oublier que les hôpitaux et les
-prisons sont pleins de gens qui ont grandement besoin de Ta miséricorde. Oh, Seigneur, sois avec
-eux.
-   Et lorsque nous nous en irons ce soir, puissions-nous dire comme les disciples: “Nous avons vu
-aujourd’hui des choses merveilleuses!”. Et puissent nos coeurs brûler au-dedans de nous, quand
-nous rentrerons à la maison. Nous mettons notre confiance en Toi, notre Sauveur, pour que Tu
-nous accordes ces choses selon Ta promesse, et Ta promesse est encore et toujours Ta volonté.
-Nous le demandons au Nom de Jésus. Amen.
-   Si vous désirez vous pencher sur les textes sacrés, je vous propose de lire dans la première
-épître aux Corinthiens, chapitre 11. Nous commencerons au verset 23:
-     “Car j’ai reçu du Seigneur ce que je vous ai enseigné; c’est que le Seigneur Jésus, dans
-   la nuit où il fut livré, prit du pain et, après avoir rendu grâces, le rompit, et dit: Ceci est mon
-   corps, qui est rompu pour vous; faites ceci en mémoire de moi. De même, après avoir soupé,
-   il prit la coupe, et dit: Cette coupe est la nouvelle alliance en mon sang; faites ceci en
-   mémoire de moi toutes les fois que vous en boirez. Car toutes les fois que vous mangez ce
-   pain et que vous buvez cette coupe, vous annoncez la mort du Seigneur, jusqu’à ce qu’il
-   vienne.
-     C’est pourquoi, celui qui mangera le pain ou boira la coupe du Seigneur indignement,
-   sera coupable envers le corps et le sang du Seigneur” (Je prendrai le sujet de ma
-   prédication dans le verset 29).
+Mais, lorsque le centurion romain, le païen, l’homme venant des nations, eut un serviteur malade, il dit: “Je ne suis pas digne que tu viennes sous mon toit. Prononce simplement une Parole!”. C’est cela qui émut le coeur de Jésus. Il n’avait pas besoin qu’on lui imposât les mains; il avait simplement besoin d’entendre la Parole.
 
-                                      http://www.cmpp.ch
+Vous savez, j’aime cette histoire, parce que le Romain reconnut qu’Il était un homme ayant une autorité. Et si lui-même disait à un homme: “Fais ceci!” ou “Fais cela!”, il le faisait. Il reconnut la même autorité dans le Seigneur Jésus. Car ce centurion savait que si Jésus disait à l’un de Ses disciples: “Va!” ou “Viens!”, il devait Lui obéir. Il savait aussi que toutes les maladies étaient soumises à l’autorité du Seigneur Jésus. Il n’avait par conséquent pas besoin d’imposer les mains au serviteur du centurion — “Prononce une Parole, et mon serviteur vivra!”.
 
-DISCERNER LE CORPS DU SEIGNEUR 4
-      “C’est pourquoi, celui qui mangera le pain ou boira la coupe du Seigneur indignement
-   sera coupable envers le corps du Seigneur” (Attendez, je l’ai mal lu).
-      “… car celui qui mange et boit sans discerner le corps du Seigneur mange et boit un
-   jugement contre lui-même” (J’ai pleuré sur cette Bible, et il y a quelques passages effacés).
-   Ce soir, le sujet de ma prédication sera: Discerner le Corps du Seigneur.
-   Notre destinée éternelle n’est pas du tout déterminée par ce que nous voyons et ce que
-nous entendons, mais par le discernement que nous recevons concernant ce que nous
-voyons et ce que nous entendons.
-   Paul ne leur reprochait pas le fait de prendre la communion. Leur acte était juste, mais leur
-discernement était faux. En effet, prendre le Repas du Seigneur est un commandement du
-Seigneur, mais le prendre indignement, sans discerner le Corps du Seigneur, est quelque chose
-de mal.
-   Ces chrétiens prenaient le Repas du Seigneur, mais ne vivaient pas la Vie chrétienne. Etre
-chrétien est une expérience et une manière de vivre. Et ces chrétiens vivaient n’importe comment,
-donnant un piteux exemple de leur foi. Et Paul dit: “C’est pour cela que plusieurs sont faibles et
-malades parmi vous, et qu’un assez grand nombre dorment” (Darby), ce qui signifie qu’ils sont
-morts, parce qu’ils n’ont pas discerné le Corps du Seigneur.
-   Et nous qui nous donnons le nom de chrétiens, nous n’avons pas le droit de prendre le Repas
-du Seigneur, à moins que nous vivions sans reproche, face au monde — nous n’en avons pas le
-droit. Le Repas du Seigneur est pour ceux qui vivent selon la justice, étant des chrétiens
-exemplaires.
-   La pire chose qu’il puisse y avoir au monde, est quelqu’un qui essaie d’imiter quelque chose
-frauduleusement, et il y en a beaucoup trop dans le monde actuel. Aujourd’hui, nous ne sommes
-pas seulement coupables du même crime que celui pour lequel Paul réprimanda l’église de
-Corinthe, mais encore d’essayer de faire quelque chose que le Seigneur a commandé, sans
-discerner le Corps du Seigneur; et le Corps du Seigneur est l’ensemble des croyants. Mais
-aujourd’hui, nous faisons des choses sans discerner aucune des Paroles de Dieu. Nous devrions
-avoir le discernement pour chaque chose que nous faisons. Tout ce que nous faisons devrait être
-mesuré selon les critères de la Parole de Dieu. Tout ce que les chrétiens font et disent devrait être
-mesuré selon la Parole de Dieu.
-   Aujourd’hui, les gens ont bien changé, et quelquefois ils se fient plus à ce que dit l’église qu’à
-ce que dit la Parole. Ils croient ainsi que l’église a, plus que la Parole de Dieu, le droit de prescrire
-nos goûts. Voici un exemple. L’église peut dire: «Le temps des miracles est passé», et beaucoup
-de gens le croiront, parce qu’ils pensent que l’église en connaît plus à ce sujet que le Saint-Esprit
-qui a écrit la Parole. Ainsi donc, nous ne sommes pas capables de discerner les choses de Dieu.
-   Jésus a dit: “Si un homme ne naît de nouveau, il ne peut voir le Royaume de Dieu”, ou le
-comprendre. En d’autres termes, vous ne pouvez discerner le Royaume de Dieu, à moins que
-vous ne soyez né de nouveau!
-   Il y a des gens qui viendront nous dire que ceux qui ont accepté l’expérience du baptême du
-Saint-Esprit sont des fanatiques, ou bien ils recevront un nom blasphématoire que le diable a
-donné à l’église, et on les traitera d’exaltés. J’ai prêché dans le monde entier, et je n’ai encore
-jamais vu l’un de ces «exaltés». C’est un nom que le diable a attaché à l’Eglise du Dieu Vivant.
-   Quelquefois, les gens n’ont pas le juste discernement. Ils en ont peur. Ne savez-vous pas
-que le Seigneur fut accusé publiquement de folie? Les Pharisiens et les scribes disaient: “Cet
-homme n’a pas tout son bon sens. Il a un démon; il est fou!”. Et s’ils dirent de Lui qu’Il était fou, à
-combien plus forte raison le diront-ils de Ses disciples!
-   Paul dit à Agrippa: “J’adore le Dieu de nos pères de cette manière qu’on nomme hérésie
-(folie)”. Je suis tellement heureux ce soir de pouvoir lui tendre la main! C’est de cette manière —
-que l’église moderne nomme “fanatisme!” — que j’adore Dieu!
-   Ils les traitèrent d’hérétiques, parce qu’eux-mêmes ne discernaient pas le Corps du Seigneur,
-qui est l’Eglise du Dieu Vivant.
-   Et ils traitent l’Eglise de folle, parce qu’ils n’ont pas, eux, le discernement! Si un homme est né
-de nouveau… si vous me dites que vous êtes né de nouveau et que vous ne croyez pas que la
-guérison divine est une promesse de Dieu, et que le Baptême du Saint-Esprit est pour le peuple
-aujourd’hui, alors je ne pourrai dire qu’une chose, c’est que votre naissance ne vient pas du bon
+Jésus fut étonné et dit: “Je n’ai pas trouvé une telle foi en Israël”. Oh! j’aimerais bien vivre assez longtemps pour voir le jour où les Américains auront ce genre de foi! — “Prononce simplement une Parole, Seigneur, et mon serviteur vivra!”. Oh, ce sera un jour glorieux!
 
-        http://www.cmpp.ch
+Quelquefois, lorsque l’onction est très profonde… Si parfois je n’ai pas l’occasion de faire un appel, alors frère Sullivan ou quelqu’un d’autre le fera à ma place. Quelques-uns pourront dire que nous insistons trop sur la guérison divine. Mais la guérison divine est comme la pêche. Vous ne montrez jamais l’hameçon au poisson. Vous lui montrez l’appât. Il se jette sur l’appât et s’enferre à l’hameçon. Il en va de même de la guérison divine. Elle attire, parce qu’elle démontre qu’il y a un Dieu vivant qui s’intéresse à vous. Et l’incrédule peut le voir. Son oeil peut rapidement le constater et voir qu’il y a un Dieu Vivant, et alors, il s’engage dans la voie du salut. Alors, Dieu peut exercer Son action sur lui et l’amener à Lui. Voilà pourquoi il y a des services de guérison divine.
 
-    DISCERNER LE CORPS DU SEIGNEUR    5
-Esprit! Car le Saint-Esprit a dit que la promesse est pour vous et vos enfants, et pour tous ceux qui
-sont au loin, en aussi grand nombre que le Seigneur les appellera! Vous acceptez cela par votre
-intelligence. Les gens acceptent cela selon ce que dit quelqu’un d’autre, mais non par le
-discernement. Ils ne peuvent pas discerner entre ce qui est juste et ce qui est faux.
-   Je pense à beaucoup de ces géants intellectuels — mais nous n’en sommes pas: le peuple de
-Dieu n’a jamais été formé de grands intellectuels. La Bible dit que les enfants des ténèbres sont
-plus sages dans ce monde que les enfants de la Lumière. Dieu a comparé Ses enfants à des
-brebis. Ces animaux ne sont ni rusés, ni intelligents. Il les garde ainsi, afin de pouvoir les conduire!
-Si vous essayez d’utiliser votre propre pensée intellectuelle, alors aussitôt, vous rejetez Dieu. Les
-fils de Dieu sont conduits par l’Esprit de Dieu! Mais aujourd’hui, nous vivons dans les jours de
-l’intellectualisme.
-   Comme vous avez pu le lire dans les journaux, il y a eu un procès à New York, il y a quelques
-mois. Deux modestes prédicateurs qui s’étaient sentis guidés par le Seigneur (des gens un peu
-semblables à moi, qui savent tout juste lire et écrire), avaient été dans le Bowery, où ils avaient
-acheté un certain bâtiment. Là, ils prêchaient l’Evangile à leurs frères dans le péché. Une grande
-entreprise vint pour acheter ces terrains et tous les autres vendirent, excepté eux. Ils avaient reçu
-la révélation que le Seigneur voulait qu’ils restent là. Aussi gardèrent-ils leur propriété; mais les
-autorités les traînèrent devant un tribunal.
-   Elles louèrent les services d’un de ces géants intellectuels, l’avocat Greenwall. Celui-ci mit ces
-deux pauvres prédicateurs dans l’embarras. Il parla tellement bien, il était d’une telle distinction,
-que ces deux pauvres prédicateurs ne savaient pas comment lui répondre. Il était un géant
-d’intelligence, l’un des, meilleurs juristes de New York. Et il plongea ces deux pauvres hommes
-dans une telle confusion, qu’ils ne savaient plus quoi dire. Finalement, il frappa sur la table, et dit:
-«Qu’avez-vous à dire pour votre défense?»
-   L’un d’eux se leva et dit, tenant son compagnon par la main: «Monsieur, la seule chose que
-nous sachions, c’est que le Seigneur nous a dit de prendre ce bâtiment».
-   Mais l’avocat Greenwall répliqua: «Silence! Nous ne voulons pas de Seigneur dans cette
-affaire!». Environ deux semaines plus tard, un avion essaya de passer sous le pont, mais plongea
-dans les eaux glacées, et voilà l’avocat Greenwall se débattant mourant dans le fleuve! Je me
-demande si, à ce moment-là, il n’aurait pas désiré la présence de Dieu!
-   Que s’était-il passé? Il n’avait pas discerné le Corps du Seigneur, car ces deux
-prédicateurs étaient oints par le Saint-Esprit et faisaient la volonté de Dieu! Nous n’avons
-pas besoin d’être des géants d’intelligence. Nous devons être d’humbles serviteurs du Seigneur et
-discerner Son Corps! Avec toute son intelligence, sa ruse, son instruction… Vous connaissez ce
-que dit la Bible: “Il vaudrait mieux pour vous que l’on vous attachât une meule au cou, et que l’on
-vous jetât dans la mer, que de vous laisser faire du mal à l’un de mes oints”. Je suppose qu’il
-aurait eu tout le temps d’appeler le Seigneur, mais il ne discerna pas le Corps du Seigneur.
-   Quelquefois, je me demande si nous autres, Américains intellectuels, avons assez de
-discernement pour distinguer le mal du bien. Les tribunaux pour mineurs nous montrent en tout
-cas que nous ne l’avons pas en ce qui concerne nos enfants, et ils ont à ce sujet une bonne
-réponse de psychologue. Voici un exemple. Fiston vient vers son papa, se met à taper du pied et à
-secouer la tête, en criant: «Papa, ce que tu dis m’est égal, je veux ce jouet!». (C’est une scène
-typiquement américaine).
-   Alors, le père répond: «Très bien, fiston, je vais te l’acheter».
-   Vous pourriez dire à ce père: «Pourquoi avez-vous fait cela?». — «Oh! c’est parce que je l’aime
-tellement!».
-   Mais rappelez-vous ceci, cher papa, c’est que fiston va un jour devenir adulte, il se mariera et
-aura une famille. Que Dieu vienne en aide à la femme qui devra vivre avec un homme qui aura été
-élevé de cette façon et ayant pu obtenir tout ce qu’il voulait. Il ne sait pas discerner ce qui est bon
-de ce qui est mauvais. Cela n’est pas l’amour, c’est de l’ignorance pure. La Bible a raison: “Celui
-qui ménage sa verge hait son fils…”.
-   La petite Fannie vient vers sa mère pour lui demander d’aller à l’un de ces «rock and roll».
-Maman le lui défend. — «Maman, tu es méchante!». — Bien sûr, vous aimez Fannie, et vous la
-laissez aller. Elle se trouvera là-bas au milieu d’une bande de voyous… Après cela, elle rentrera
-et, faisant la moue de ses lèvres maquillées, elle vous dira un mensonge — vous disant qu’il n’y a
+Il y a ici des frères qui ont quelques bandes, les livres, les disques, etc. et qui ont créé un petit centre de distribution dont ils s’occupent eux-mêmes. Pour ma part, je possède quelques-uns de ces livres, et les autres, il faut que je les achète. Quelques-uns sont de moi — les prédications. J’achète les autres à frère Lindsay. Il y a L’histoire de ma Vie, et un autre, Un prophète visite l’Afrique. Je crois qu’il y a encore trois ou quatre prédications de moi. Ils sont ici, non pas pour que nous puissions gagner de l’argent par leur moyen, mais simplement afin que le message puisse être propagé. C’est cela qui compte.
 
-        http://www.cmpp.ch
+Propagez le message, parce qu’il est beaucoup plus tard que nous ne pensions! Nous sommes à la fin de cet âge, et l’église est dans un état épouvantable. Nous essayons simplement d’apporter un rayon de soleil parmi les peuples. Nous n’essayons pas de les convertir à nos propres croyances, mais de les amener à vivre plus près du Seigneur Jésus, et à croire en Lui. Nous ne voulons pas retirer des membres d’une église pour les amener à une autre église, mais ce que nous désirons, c’est d’amener plus de membres à l’Eglise.
 
-DISCERNER LE CORPS DU SEIGNEUR 6
-aucun mal dans tout cela. Dieu ait pitié de l’homme qui prendra pour femme quelqu’un de
-semblable! — Discerner le bon du mauvais. Nous ne pouvons même pas exercer ce discernement
-pour les nôtres!
-   Je me demande quelquefois si nous sommes capables de discerner le bon du mauvais
-en ce qui concerne notre propre corps — en particulier le Corps du Seigneur. Nous ne
-discernons pas le bon du mauvais pour notre corps. Jour après jour, semaine après semaine, mois
-après mois, année après année, des savants travaillent dans les laboratoires, font de grands
-panneaux et autres pour mettre en garde le peuple au sujet du cancer. Environ deux cent
-soixante-dix mille Américains mourront cette année parce qu’ils fument la cigarette, et vous
-continuez à fumer! Si nous ne pouvons même pas avoir le discernement en ce qui concerne notre
-propre corps, comment pourrons-nous discerner le Saint-Esprit dans le Corps du Seigneur?
-   Avez-vous lu cet article l’autre jour, où ce savant a donné le résultat de ses recherches? Il
-disait: «Les cigarettes ne vous donneront pas seulement le cancer, mais vous avez encore
-cinquante pour cent de chances supplémentaires d’attraper d’autres maladies». — Et vous
-continuez à fumer!
-   Il y a quelque temps de cela, après que j’eus parlé avec beaucoup de force contre la fumée,
-une femme (une grande fumeuse) s’approcha de moi et me mit un papier dans la poche en disant:
-«Lisez ceci à la maison».
-   Je lui dis: «Merci, je vais le lire tout de suite», et je commençai.
-   Elle me dit: «Il n’est pas poli de la part d’un prédicateur de parler du haut de la chaire contre la
-fumée. Cela ne vous regarde pas».
-   Je répondis: «C’est mon devoir de parler contre tout ce qui est mauvais!». Que Dieu vienne en
-aide au prédicateur qui ne peut discerner par le Saint-Esprit les besoins de son assemblée! Dieu a
-dit: “Ce Corps est le temple du Saint-Esprit. Si vous le souillez, Je le détruirai!”. Nous devons
-prêcher contre ces choses. Le malheur est qu’il y a trop de prédicateurs qui fument eux-mêmes.
-C’est cela qui ne va pas. Et ils n’osent pas en parler dans leur assemblée, parce qu’ils savent
-qu’ils sont eux-mêmes coupables!
-   Discerner correctement; faire la part des choses correctement. Le whisky, l’alcool… Ils disent:
-«Pourquoi est-ce mauvais?». Vous voyez cela sur votre écran de télévision, sur chaque panneau
-d’affichage. Dans les journaux, vous voyez de belles jeunes femmes buvant de la bière. Cela vous
-montre le point de départ. Regardez un peu plus tard comment elles deviennent! Cela intoxique
-leur esprit. Il y a un accroissement terrible des troubles mentaux. Cela crée l’immoralité parmi les
-jeunes. Les églises elles-mêmes prêchent et pratiquent ces choses, disant: «Buvez
-modérément!». Vous savez que c’est la vérité. Ils disent aux jeunes et aux parents: «Faites boire
-vos enfants! Ils boiront de toute façon, alors, enseignez-leur à boire modérément». La Bible
-condamne cela! Ce n’est pas juste! Que Dieu vienne en aide à l’homme, ou à l’église qui n’a pas
-plus de discernement que cela. Ils ne savent pas discerner le bien du mal!
-   Oh, nous vivons des jours terribles. Discerner le Corps du Seigneur! Dans nos églises, dans
-nos paroisses, c’est une telle honte de voir comment les femmes se comportent! Beaucoup portent
-des vêtements immoraux. Ces shorts! C’est un péché!
-   Une dame m’a dit (comme d’ailleurs beaucoup d’entre elles): «Billy, vous devriez arrêter de
-parler de cela!». Eh bien non! Même si je dois parler aux murs, je continuerai à dire la Vérité! C’est
-exact! C’est mal, c’est du péché!
-   Une dame me dit: «Je ne porte pas de shorts, mais seulement des pantalons longs».
-   Je lui répondis: «C’est pire! La Bible dit: C’est une abomination devant Dieu pour une femme de
-porter des vêtements d’homme». C’est la vérité. Mais l’alibi est là: «On ne peut plus trouver
-d’autres vêtements». — Pourtant, on fait encore des machines à coudre et on vend toujours du
-tissu!
-   Une femme qui s’habille ainsi sera considérée comme coupable d’adultère au jour du
-jugement. Vous pourriez être aussi pure qu’un lis envers votre mari ou votre fiancé, mais Jésus
-dit: “Quiconque regarde une femme pour la convoiter a déjà commis adultère avec elle dans son
-cœur”. Ainsi donc, vous pourriez n’avoir rien fait de mal en réalité, mais lorsque vous vous habillez
-ainsi, vous vous offrez à l’homme, et il devra répondre à l’accusation d’avoir commis adultère, et
-c’est vous qui êtes fautive! Et l’église permet cela! Elle ne discerne pas le Corps du Seigneur.
-Quelle pitié!
+Encore un mot avant d’ouvrir la Parole pour le message de ce soir, qui sera court. Nous ne voulons pas vous garder trop longtemps, parce que beaucoup d’entre vous viennent de loin, et vous devez encore rentrer chez vous pour reprendre votre travail. Nous attendrons donc samedi soir pour vous garder plus longtemps. Et le dimanche, vous n’avez pas besoin d’être à l’école du dimanche avant 9h30. Maintenant, inclinons nos têtes un moment, pour quelques paroles de prière.
 
-        http://www.cmpp.ch
+Seigneur, nous sommes reconnaissants au-delà de toute expression, pour l’occasion que nous avons de venir et d’incliner nos têtes devant le Dieu Vivant, sachant que nous avons reçu la promesse de Son Saint Fils, le Seigneur Jésus, que nous pouvons recevoir ce que nous demandons, si nous le demandons au Père, au Nom du Seigneur Jésus, Son Fils. Et nous avons reçu l’assurance que nous serons entendus si nous venons au Nom de Jésus. Car Il a dit: “Demandez au Père ce que vous voudrez en Mon Nom, et vous le recevrez”. Nous sommes absolument sûrs ce soir qu’Il nous entend, et que ce que nous Lui demandons nous sera accordé, parce que nous sentons que ce que nous demandons est conforme à la volonté de Dieu. Car Il a dit quelque part: «Vous ne recevez pas, parce que vous ne demandez pas, parce que vous ne croyez pas». Seigneur, la raison pour laquelle nous venons ici est que nous croyons, et nous croyons que tu répondras, et que nos prières ne sont pas seulement entendues par les hommes, mais nous croyons que Tu écoutes, et nous sommes certains que Tu répondras, parce que Tu nous l’as promis. Nous ne voulons demander rien d’autre que: «… Ta volonté soit faite!». Seigneur, qu’ici ce soir, chaque pécheur qui ne Te connaît pas comme son Sauveur… que ce soir, quelque chose puisse être dit ou fait qui les fasse T’accepter comme leur Sauveur.
 
-DISCERNER LE CORPS DU SEIGNEUR 7
-   Elles coupent leurs cheveux. La Bible dit que lorsqu’une femme coupe ses cheveux, son mari a
-le droit de la répudier, parce qu’elle est infidèle. La Bible dit qu’elle déshonore son chef. N’est-ce
-pas vrai? Et l’homme est le chef de la femme.
-   Je sais que cela est sévère, mais nous avons besoin de discernement. Nous avons
-besoin de discerner par la Parole. La Parole a raison. Prenez la Parole! La Parole de Dieu a
-toujours raison.
-   Nous ne pouvons discerner par ce que pensent les gens, par ce que nous disent les
-intellectuels et les psychologues. Nous devons nous baser sur ce que dit Dieu! “L’homme ne vivra
-pas de pain seulement, mais de toute Parole qui sort de la bouche de Dieu!”. “Ne discernant pas le
-Corps du Seigneur, beaucoup sont faibles et malades, beaucoup dorment”. — c’est-à-dire sont
-spirituellement morts. La dernière plaie d’Egypte fut la mort. La dernière plaie qui a frappé l’église
-est la mort spirituelle. Ce dont nous avons besoin aujourd’hui, c’est d’un réveil spirituel, un
-réveil spirituel pour recevoir le discernement.
-   Ils peuvent bien avoir fait ces choses avec de bonnes intentions. Cet homme, dans le Sud, ce
-médecin qui donna à son patient de l’acide sulfurique et causa ainsi sa mort, il avait de bonnes
-intentions. Il pensait avoir raison, mais son discernement était mauvais. Il ne sut pas discerner un
-médicament d’un poison.
-   Une petite fille trouva dans la rue un chaton tout mouillé et frigorifié. Elle le prit, et le mit dans le
-four pour le sécher. Ses intentions étaient bonnes, mais elle manquait de discernement! Si nous
-ne prenons pas garde, nous allons nous aussi «rôtir le petit chat» avec notre discernement
-intellectuel.
-   Le communisme nous assaille. Le monde nous assaille. Nos églises se démembrent. Les
-hommes sont divisés et semblent ne plus avoir la foi. Ils coupent les cheveux en quatre au sujet de
-doctrines insignifiantes. Nous devrions nous réunir tous ensemble et prier, jeûner, appeler, jusqu’à
-ce que Dieu nous envoie le Saint-Esprit afin que nous puissions avoir le discernement spirituel.
-   Nous sommes maintenant à la dernière heure. Nous sommes dans l’ombre de la venue du
-Seigneur et l’église ne peut pas le discerner. Il est déjà beaucoup plus tard que nous ne pensons!
-   Si Paul pouvait ressusciter ce soir même dans cette ville de Middletown, quel feu dévorant ce
-serait! Avant le lever du jour, il aurait été jeté en prison, comme un fou furieux ou un homme
-dangereux! Cet homme, rempli du Saint-Esprit, voyant comment les choses se passent, et sachant
-que le temps est si proche… il y aurait un réveil, ou alors on viendrait l’écouter dans sa prison.
-C’est vrai!
-   Mais Jésus a dit, et la Bible dit que dans les derniers jours, il y aurait de grands signes et des
-miracles sur la terre. Et vous savez que l’église est tellement morte dans sa théologie, et dans
-toutes sortes d’enseignements, de programmes et de systèmes d’instruction, qu’elle ne peut plus
-discerner ces choses!
-   Jésus n’a-t-Il pas dit à l’église: “Vous savez discerner l’aspect du ciel, mais les signes des
-temps, eux, vous ne savez les discerner, car si vous m’aviez connu, vous auriez connu mon jour”.
-L’heure de la délivrance de l’Eglise approche, et ils ne peuvent pas le discerner!
-   Il y a quelque chose qui ne marche pas. Je parle de l’église dans son ensemble, de tous ceux
-qui se nomment eux-mêmes chrétiens. Dieu peut bien commencer à faire se produire des
-événements spirituels; des gens sont sauvés et remplis du Saint-Esprit. Mais il y a des milliers
-d’hommes, qui se nomment eux-mêmes chrétiens, qui s’éloigneront de ces choses, et diront: «Ce
-sont des fanatiques!». Alors, vous n’avez pas le discernement spirituel, car tout ce que fait le
-Saint-Esprit est écrit dans la Bible! Jugez toutes choses par les Ecritures!
-   C’est ainsi que nous pouvons discerner si notre discernement est juste. Si la Bible dit: “Jésus
-est le même hier, aujourd’hui et éternellement”, alors, je le crois. Si la Bible… si Jésus dit: “Vous
-ferez aussi les choses que Je fais”, alors, je le crois. Et si la Bible dit que le Saint-Esprit a été
-donné à chaque génération, à tous les hommes, en aussi grand nombre que le Seigneur notre
-Dieu en appellera, je ne crois pas qu’une poignée de mains puisse le remplacer. Je crois que c’est
-toujours le même Saint-Esprit, manifestant les mêmes signes et les mêmes miracles!
-   La meilleure preuve que nous avons le Saint-Esprit est le fait que notre esprit rend témoignage
-à la Parole. Si nous nous disons chrétiens, et affirmons être remplis de l’Esprit qui a été versé par
-le Baptême du Saint-Esprit sur les croyants de tous les âges, et que notre esprit nous dit que cela
-était valable pour un autre âge, alors nous sommes dans l’erreur. C’est vrai!
+Que ceux qui n’ont pas reçu le Saint-Esprit et qui attendent de tout leur coeur que les écailles leur tombent des yeux, puissent Le recevoir ce soir. Oh, Seigneur, que le Saint-Esprit puisse remplir tous les coeurs ce soir. Que l’Esprit de Dieu Se manifeste de telle manière que leurs âmes en soient ébranlées jusqu’au point où tous les doutes et les superstitions les quittent, et que le Saint-Esprit entre dans leur vie et les scelle pour le Royaume de Dieu.
 
-        http://www.cmpp.ch
+Seigneur, accorde-nous ce soir qu’il n’y ait pas une seule personne malade parmi nous, à la fin de ce service. Que chacun puisse être guéri. Nous ne voulons pas oublier que les hôpitaux et les prisons sont pleins de gens qui ont grandement besoin de Ta miséricorde. Oh, Seigneur, sois avec eux.
 
-    DISCERNER LE CORPS DU SEIGNEUR    8
-   Quand la Bible dit que Jésus-Christ est le même hier, aujourd’hui et éternellement, et si notre
-esprit dit: «Non, Il est mort, Il s’en est allé», alors, il y a quelque chose qui ne va pas. Jésus a dit:
-“Vous ferez aussi les oeuvres que Je fais. Je suis avec vous tous les jours, jusqu’à la fin du
-monde”. Si notre esprit rejette cela, alors nous n’aurons pas le Saint-Esprit. Car le Saint-Esprit dit
-«Amen»! à chaque Parole qu’Il a écrite.
-   La connaissance intellectuelle vous éloignera de cela, mais le Saint-Esprit dira «Amen!» à Sa
-propre Parole. Il le fera certainement! Et Il cherche, Il essaie de trouver quelqu’un en qui Il puisse
-venir. Il a un grand désir de le trouver.
-   Ne pensez pas que vous pourrez épuiser Sa bonté. Pourriez-vous imaginer un petit poisson,
-long d’un centimètre, disant au milieu de l’océan Pacifique: «Il ne faut pas que je boive trop de
-cette eau, car elle pourrait finir par manquer»? Ce serait aussi stupide que de penser que vous
-pourriez épuiser la bonté de Dieu. Demandez beaucoup, afin que votre joie soit parfaite. Croyez
-en Dieu pour tout ce qu’Il a promis. C’est pour vous!
-   Les prophètes de l’Ancien Testament — Daniel et les autres — ont dit: “Dans les derniers jours,
-ceux qui connaîtront leur Dieu feront de grands exploits!”. Quelle promesse! Quand les
-intellectuels voient ces exploits, ils disent: «C’est de la psychologie, de la télépathie, c’est l’oeuvre
-du diable!», mais le Saint-Esprit leur répondra: «Amen! c’est la Vérité!». Le vrai discernement! Ils
-l’ont promis! Jésus l’a promis. Il a dit: “Les oeuvres que je fais, vous les ferez aussi; vous en ferez
-même de plus grandes, car je vais au Père”.
-   Paul a annoncé par le Saint-Esprit que, dans les derniers jours, l’église tomberait — que des
-millions tomberaient. “Sache que, dans les derniers jours, il y aura des temps difficiles. Car les
-hommes seront égoïstes, amis de l’argent, fanfarons, hautains, blasphémateurs, rebelles à leurs
-parents, ingrats, irréligieux, insensibles, déloyaux, calomniateurs, intempérants, cruels, ennemis
-des gens de bien, traîtres, emportés, enflés d’orgueil, aimant le plaisir plus que Dieu…”. Ils
-n’auront pas le vrai discernement.
-   «Oh!», direz-vous, «il s’agit là des communistes!». — Non, il s’agit de soi-disant chrétiens.
-Voyez le verset suivant: “… ayant l’apparence de la piété, mais reniant ce qui en fait la force”. —
-N’ayant pas le discernement spirituel. Si vous avez le discernement spirituel et que le Saint-Esprit
-est en vous, alors vous avez le discernement spirituel qui dit «Amen!» à chaque promesse de
-Dieu. Paul l’a dit!
-   Nous en sommes là, et si nous regardons, nous pouvons le voir. Nous entendons partout parler
-de ces choses, et que faisons-nous? Cela devrait nous rassembler! La Bible dit:
-“Réunissons-nous, et ceci d’autant plus que vous voyez s’approcher le jour”. Il faudrait qu’il y ait un
-réveil après l’autre, que ce soit comme des feux d’artifices de la gloire de Dieu dans chaque église,
-en tous lieux. Un grand rassemblement où toutes les églises, d’un même coeur et d’un même
-accord, se rassemblent, oubliant leur théologie humaine, et criant à Dieu pour recevoir la
-puissance spirituelle et le discernement spirituel. C’est cela dont nous avons besoin.
-   Je pourrais encore dire ceci, c’est que Jésus nous a donné un jour (comme je vous l’ai dit
-hier soir) pour nous permettre de reconnaître le temps de la fin. Jésus a dit: “Comme il en fut
-au jour de Lot, il en sera au jour du Fils de l’homme”. Votre esprit discerne-t-il cela correctement?
-“Comme il en fut au jour de Lot…”. Rappelez-vous que Lot est un type de l’Amérique. Nous en
-avons la preuve. Quel était le péché de Sodome? — la perversion. Dans notre Amérique actuelle,
-la femme est tombée dans une telle dégradation que les voies naturelles de l’homme s’en sont
-trouvées perverties.
-   Lorsque j’étais à Los Angeles, il y a quelques semaines, à une rencontre des Hommes
-d’Affaires Chrétiens, je lus dans l’un de leurs journaux un article qui montrait que la perversion et
-l’homosexualité avaient augmenté de vingt pour cent, par rapport à l’année précédente.
-   Jésus dit: “Comme il en fut aux jours de Sodome…”. La police et la brigade criminelle sont
-constamment en chasse pour séparer des couples d’hommes vivant comme mari et femme; les
-femmes font la même chose. Ils sont pervertis! Leur esprit est souillé, car ils n’ont pas le
-discernement spirituel. Tout cela n’est que débauche et souillure, et ils ne peuvent se satisfaire
-ensemble. Ils ne se marient même pas. Ils vivent simplement ensemble jusqu’à ce que… ils sont
-pervertis! Jésus dit que cela se passerait dans les derniers jours, et voilà où nous en sommes!
-   Rappelez-vous qu’aux jours de Sodome… je pense que tous les pasteurs et étudiants en
-théologie seront d’accord avec ceci. Le docteur Scofield et les autres, la plupart des professeurs,
+Et lorsque nous nous en irons ce soir, puissions-nous dire comme les disciples: “Nous avons vu aujourd’hui des choses merveilleuses!”. Et puissent nos coeurs brûler au-dedans de nous, quand nous rentrerons à la maison. Nous mettons notre confiance en Toi, notre Sauveur, pour que Tu nous accordes ces choses selon Ta promesse, et Ta promesse est encore et toujours Ta volonté. Nous le demandons au Nom de Jésus. Amen.
 
-        http://www.cmpp.ch
+Si vous désirez vous pencher sur les textes sacrés, je vous propose de lire dans la première épître aux Corinthiens, chapitre 11. Nous commencerons au verset 23:
 
-    DISCERNER LE CORPS DU SEIGNEUR    9
-Charles Fuller, tous les grands érudits de ce pays seront d’accord que Abraham représentait
-l’Eglise spirituelle. Lot, lui, représentait l’église charnelle ou naturelle. Il vivait à Sodome au milieu
-du péché, et pourtant, il y avait en lui de la justice, mais il faisait des compromis avec le péché. Et
-rappelez-vous ces deux prédicateurs intellectuels qui allèrent prêcher à Sodome. Ils ne firent pas
-de miracles, mais se contentèrent d’aveugler les gens. La prédication de la Croix aveugle
-l’incrédule. C’est ce qu’ont fait ces grands rassemblements de Billy Graham et des autres. Ils ont
-rendu l’homme pire qu’avant!
-   Vous avez tous entendu Billy Graham dire il y a quelques semaines qu’étant en Angleterre, il
-dut sortir avec sa femme d’un parc où il devait tenir une grande réunion, parce qu’il y avait là des
-hommes et des femmes commettant des actes sexuels en public, là où devait se tenir la réunion.
-   Ce ne sont pas les prédications intellectuelles qui y apporteront le moindre remède. Il faudrait
-faire descendre la colère de Dieu et le Feu Sacré du Ciel pour apporter un changement dans le
-monde, mais cela n’arrivera pas. Les gens attendent la venue d’un grand «quelque chose»,
-mais vous êtes à la fin de ce qui est déjà venu! Les derniers signes ont été donnés à l’église
-des nations. Les Juifs les auront après que l’Eglise sera enlevée, mais maintenant, nous sommes
-à la fin de l’âge des nations.
-   Avant de clore, je pourrais dire encore ceci. Avez-vous remarqué quel genre de personne resta
-en arrière pour parler à l’Eglise spirituelle? Il était assis, tournant le dos à la tente, et Lui, un
-étranger, dit: “Où est Sara, ta femme?”.
-   Abraham répondit: “Elle est dans la tente”. L’Ange dit alors: “Je viendrai te voir, Abraham, selon
-la promesse que je t’ai faite”. Et Sara, dans la tente, se mit à rire en elle-même.
-   Alors, l’Ange demanda: “POURQUOI A-T-ELLE RI?”.
-   Jésus a dit: “Comme il en était aux jours de Sodome, il en sera de même au jour du Fils de
-l’homme”.
-   Comprenez-vous maintenant? Comprenez-vous pourquoi un tel ministère ne peut atteindre que
-des gens du plein Evangile? Voyez-vous où cela nous conduit? J’ai reçu mon instruction religieuse
-dans une église Baptiste, et j’ai été consacré Prédicateur Missionnaire Baptiste, mais quand
-quelque chose frappa mon coeur, alors j’eus le discernement me permettant de voir que c’était la
-Parole de Dieu! Il La manifesta.
-   Ils me dirent: «Tu vas devenir un de ces exaltés, Billy. Personne n’écoutera des choses
-pareilles!».
-   Je dis: «Si c’est Dieu qui m’a envoyé, Il a promis dans Sa Bible qu’Il susciterait quelqu’un pour
-m’écouter!». C’est vrai!
-   Discernons le Corps du Seigneur. Discernons le temps dans lequel nous vivons. Nous
-mourrons spirituellement, si nous ne le faisons pas. Et si ces choses sont vraies, alors cela
-veut dire que le Saint-Esprit est avec nous, et que nous avons reçu le dernier signe de la venue du
-Seigneur, avant qu’Il vienne. Rappelez-vous que tout se passa juste avant que Sodome ne fût
-consumée par le feu! — juste quelques heures avant qu’elle ne s’embrasât.
-   Je crois aujourd’hui… Beaucoup d’entre vous ont entendu ce qu’a dit Krouchtchev aux
-Américains, l’autre jour. Vous l’avez lu dans vos journaux. Voici sa déclaration. Vous pourrez la
-comprendre avec votre discernement naturel. Il a dit: «S’il y a un Dieu, Il va balayer le temple et le
-nettoyer en vous chassant tous, vous les changeurs d’argent capitalistes!». Vous comprenez ce
-que cela veut dire, n’est-ce pas? Et il a raison! Un païen, un démon, un imposteur comme lui doit
-proférer ces menaces! Malgré tout, ils continuent à dormir — pêchant, buvant, ignorant tout cela,
-parce qu’ils n’ont pas le discernement spirituel du Corps du Seigneur… Dans quels jours ne
-vivons-nous pas!
-   Chers frères et soeurs, vous tous mes bien-aimés… je ne veux pas être partial. Je vous dis
-simplement la Vérité. Je suis simplement responsable devant la Bible, et je vous dis ceci: Si vous
-croyez que je suis Son prophète ou Son serviteur, alors croyez que je vous dis la Vérité! La fin est
-proche! A quel point elle est proche, cela, je l’ignore, et personne ne le sait, mais ce que je sais,
-c’est que nous vivons à l’ombre du jour de Sa venue!
-   N’entendez-vous pas ces menaces? Voyez-vous ce qu’ils font? La nation tout entière est en
-train de boire pour les conjurer; elle essaie de rire pour les conjurer; vous ne devez pas faire cela!
-si vous le faites, c’est parce que vous voulez éviter de recevoir ce discernement spirituel venant de
-Dieu et qui pourrait vous montrer ce que la main écrit sur la muraille. Nous savons que nous
+> “Car j’ai reçu du Seigneur ce que je vous ai enseigné; c’est que le Seigneur Jésus, dans la nuit où il fut livré, prit du pain et, après avoir rendu grâces, le rompit, et dit: Ceci est mon corps, qui est rompu pour vous; faites ceci en mémoire de moi. De même, après avoir soupé, il prit la coupe, et dit: Cette coupe est la nouvelle alliance en mon sang; faites ceci en mémoire de moi toutes les fois que vous en boirez. Car toutes les fois que vous mangez ce pain et que vous buvez cette coupe, vous annoncez la mort du Seigneur, jusqu’à ce qu’il vienne.
+> C’est pourquoi, celui qui mangera le pain ou boira la coupe du Seigneur indignement, sera coupable envers le corps et le sang du Seigneur” (Je prendrai le sujet de ma prédication dans le verset 29).
+> “C’est pourquoi, celui qui mangera le pain ou boira la coupe du Seigneur indignement sera coupable envers le corps du Seigneur” (Attendez, je l’ai mal lu).
+> “… car celui qui mange et boit sans discerner le corps du Seigneur mange et boit un jugement contre lui-même” (J’ai pleuré sur cette Bible, et il y a quelques passages effacés).
 
-    http://www.cmpp.ch
+Ce soir, le sujet de ma prédication sera: Discerner le Corps du Seigneur.
 
-DISCERNER LE CORPS DU SEIGNEUR 10
-sommes en ce temps-là. Vous pouvez vous débarrasser de cette pensée par la plaisanterie, les
-distractions de Hollywood, ou la télévision, et tout le reste avec cela, si vous le voulez, mais un
-homme ou une femme réellement né de nouveau, ayant reçu le discernement de l’Esprit
-Saint, trouvera sa place dans l’Eglise, adorant, suppliant et faisant tout son possible pour
-essayer d’amener des pécheurs à la repentance. Certainement! Si cela vient de Dieu… Vous
-devriez le faire de tout votre coeur, si vous avez le discernement. Agissez! Ne vous contentez pas
-de dire simplement: «Oui, je crois à ces choses. C’est la Vérité. C’est très bien. Amen!» et de
-rentrer sans plus à la maison. Mettez-vous à l’ouvrage! Vous avez le discernement. Travaillez
-pendant qu’il fait jour, car la nuit vient ou personne ne peut travailler. Travaillez pendant que
-les portes sont ouvertes. Travaillez pendant que nous pouvons encore avoir des réunions comme
-celle-ci. Faites entrer nos bien-aimés. Amenez-les à l’Evangile! Amenez vos amis, vos voisins!
-Dieu est mort pour ces gens-là, et nous devrions nous sentir suffisamment concernés pour
-travailler jusqu’à ce que nos mains saignent! Nous entrerons les mains vides, si nous ne le faisons
-pas.
-   Pour illustrer cela, je vais vous raconter l’histoire de cette petite fille qui mourut récemment dans
-une région reculée du Kentucky. Il y avait environ huit enfants dans cette famille; ils étaient tous
-plus paresseux les uns que les autres. Ils ne voulaient rien faire, malgré que leur mère fût
-couchée, mourant peu à peu de la tuberculose. Et cette petite fille, qui pouvait avoir douze ans,
-s’occupait seule de la cuisine, du ménage et de la lessive, et prenait encore soin de sa mère,
-pendant que les autres jouaient, nageaient et flânaient aux alentours.
-   Enfin, leur mère mourut, et la petite fille dut continuer, parce qu’aucun des autres ne voulait
-travailler. Elle travailla et travailla, tant et si bien qu’elle devint elle-même malade. Les privations, le
-travail, etc., eurent peu à peu raison de son organisme. Bientôt, elle fut mourante.
-   Une monitrice d’école du dimanche vint la trouver et lui demanda: «Es-tu chrétienne?».
-   L’enfant répondit: «Oui».
-   — «A quelle dénomination appartiens-tu?».
-   — «Je n’appartiens à aucune dénomination».
-   — «Alors, comment feras-tu quand tu rencontreras Jésus? Qu’auras-tu à Lui montrer, pour qu’Il
-voie à quelle église tu appartiens?».
-   — «Je lui montrerai simplement mes mains. Il comprendra!».
-   Eh bien, je crois qu’après toutes ces réunions ce sont nos mains qu’Il regardera! Il
-regardera nos mains pour voir ce que nous avons fait. Le discernement spirituel… Ne pas
-discerner le Corps du Seigneur!…
-   Prions. Si ces mains devaient être au travail (et vous savez qu’elles doivent l’être), ne
-voulez-vous pas les élever vers Dieu, et Lui demander de les sanctifier pour Son service, pendant
-que nous prions? Levez vos mains!
-   Seigneur, regarde toutes ces mains! Regarde aussi les miennes. Je désire venir avec les mains
-couvertes de cicatrices du vieux soldat. Je ne veux pas venir les mains vides. Je veux prêcher
-jusqu’au jour de ma mort. Je veux attirer, implorer, jeûner et prier, car je sais que les ombres de la
-nuit tombent et que l’heure est bientôt là. Seigneur, ouvre mes yeux afin que je voie encore plus
-de signes de Ta venue. Embrase ce soir le coeur de ces gens, par les glorieuses merveilles que
-Tu as promises.
-   Quand nous voyons les prédictions se réaliser dans le monde, et l’homme pécheur crier: «Il va
-balayer Son temple!»… Nous sommes bien conscients que nous avons ici toutes les bombes
-nécessaires pour que ces choses se réalisent. Il suffirait qu’un fanatique pressât sur le bouton!
-Mais Tu répands encore Ta miséricorde jusqu’à ce que Ton Eglise ait été préparée. Seigneur, ici
-ce soir, prépare-nous! Prends nos coeurs à Ton service. Montre-nous Ta présence, car nous
-croyons que Tu es ressuscité d’entre les morts, et notre esprit discerne que Tu es le même Jésus
-hier, aujourd’hui et éternellement. Tu es ici présent sous la forme du Saint-Esprit, afin d’agir au
-travers de Ton Eglise, de guérir et de sauver. Ecoute nos prières, O Seigneur, alors que je Te
-confie tous ces gens et moi-même, au Nom de Jésus, le Fils de Dieu. Amen!
-   Oh! s’il n’y avait pas Sa miséricorde; s’il n’y avait pas Sa bonté! Je me sens fatigué. Mais j’avais
-cela sur le coeur. Il fallait que je le dise. J’espère que je n’ai pas blessé mes amis Méthodistes,
-Baptistes ou Pentecôtistes. Si je l’ai fait, c’était sans le vouloir. Je désire vous réveiller, vous
-secouer un peu. Nous arrivons à la fin! Et nous n’avons pas le discernement du Corps du
+Notre destinée éternelle n’est pas du tout déterminée par ce que nous voyons et ce que nous entendons, mais par le discernement que nous recevons concernant ce que nous voyons et ce que nous entendons.
 
-        http://www.cmpp.ch
+Paul ne leur reprochait pas le fait de prendre la communion. Leur acte était juste, mais leur discernement était faux. En effet, prendre le Repas du Seigneur est un commandement du Seigneur, mais le prendre indignement, sans discerner le Corps du Seigneur, est quelque chose de mal.
+
+Ces chrétiens prenaient le Repas du Seigneur, mais ne vivaient pas la Vie chrétienne. Etre chrétien est une expérience et une manière de vivre. Et ces chrétiens vivaient n’importe comment, donnant un piteux exemple de leur foi. Et Paul dit: “C’est pour cela que plusieurs sont faibles et malades parmi vous, et qu’un assez grand nombre dorment” (Darby), ce qui signifie qu’ils sont morts, parce qu’ils n’ont pas discerné le Corps du Seigneur.
+
+Et nous qui nous donnons le nom de chrétiens, nous n’avons pas le droit de prendre le Repas du Seigneur, à moins que nous vivions sans reproche, face au monde — nous n’en avons pas le droit. Le Repas du Seigneur est pour ceux qui vivent selon la justice, étant des chrétiens exemplaires.
+
+La pire chose qu’il puisse y avoir au monde, est quelqu’un qui essaie d’imiter quelque chose frauduleusement, et il y en a beaucoup trop dans le monde actuel. Aujourd’hui, nous ne sommes pas seulement coupables du même crime que celui pour lequel Paul réprimanda l’église de Corinthe, mais encore d’essayer de faire quelque chose que le Seigneur a commandé, sans discerner le Corps du Seigneur; et le Corps du Seigneur est l’ensemble des croyants. Mais aujourd’hui, nous faisons des choses sans discerner aucune des Paroles de Dieu. Nous devrions avoir le discernement pour chaque chose que nous faisons. Tout ce que nous faisons devrait être mesuré selon les critères de la Parole de Dieu. Tout ce que les chrétiens font et disent devrait être mesuré selon la Parole de Dieu.
+
+Aujourd’hui, les gens ont bien changé, et quelquefois ils se fient plus à ce que dit l’église qu’à ce que dit la Parole. Ils croient ainsi que l’église a, plus que la Parole de Dieu, le droit de prescrire nos goûts. Voici un exemple. L’église peut dire: «Le temps des miracles est passé», et beaucoup de gens le croiront, parce qu’ils pensent que l’église en connaît plus à ce sujet que le Saint-Esprit qui a écrit la Parole. Ainsi donc, nous ne sommes pas capables de discerner les choses de Dieu.
+
+Jésus a dit: “Si un homme ne naît de nouveau, il ne peut voir le Royaume de Dieu”, ou le comprendre. En d’autres termes, vous ne pouvez discerner le Royaume de Dieu, à moins que vous ne soyez né de nouveau!
+
+Il y a des gens qui viendront nous dire que ceux qui ont accepté l’expérience du baptême du Saint-Esprit sont des fanatiques, ou bien ils recevront un nom blasphématoire que le diable a donné à l’église, et on les traitera d’exaltés. J’ai prêché dans le monde entier, et je n’ai encore jamais vu l’un de ces «exaltés». C’est un nom que le diable a attaché à l’Eglise du Dieu Vivant.
+
+Quelquefois, les gens n’ont pas le juste discernement. Ils en ont peur. Ne savez-vous pas que le Seigneur fut accusé publiquement de folie? Les Pharisiens et les scribes disaient: “Cet homme n’a pas tout son bon sens. Il a un démon; il est fou!”. Et s’ils dirent de Lui qu’Il était fou, à combien plus forte raison le diront-ils de Ses disciples!
+
+Paul dit à Agrippa: “J’adore le Dieu de nos pères de cette manière qu’on nomme hérésie (folie)”. Je suis tellement heureux ce soir de pouvoir lui tendre la main! C’est de cette manière — que l’église moderne nomme “fanatisme!” — que j’adore Dieu!
+
+Ils les traitèrent d’hérétiques, parce qu’eux-mêmes ne discernaient pas le Corps du Seigneur, qui est l’Eglise du Dieu Vivant.
+
+Et ils traitent l’Eglise de folle, parce qu’ils n’ont pas, eux, le discernement! Si un homme est né de nouveau… si vous me dites que vous êtes né de nouveau et que vous ne croyez pas que la guérison divine est une promesse de Dieu, et que le Baptême du Saint-Esprit est pour le peuple aujourd’hui, alors je ne pourrai dire qu’une chose, c’est que votre naissance ne vient pas du bon Esprit! Car le Saint-Esprit a dit que la promesse est pour vous et vos enfants, et pour tous ceux qui sont au loin, en aussi grand nombre que le Seigneur les appellera! Vous acceptez cela par votre intelligence. Les gens acceptent cela selon ce que dit quelqu’un d’autre, mais non par le discernement. Ils ne peuvent pas discerner entre ce qui est juste et ce qui est faux.
+
+Je pense à beaucoup de ces géants intellectuels — mais nous n’en sommes pas: le peuple de Dieu n’a jamais été formé de grands intellectuels. La Bible dit que les enfants des ténèbres sont plus sages dans ce monde que les enfants de la Lumière. Dieu a comparé Ses enfants à des brebis. Ces animaux ne sont ni rusés, ni intelligents. Il les garde ainsi, afin de pouvoir les conduire! Si vous essayez d’utiliser votre propre pensée intellectuelle, alors aussitôt, vous rejetez Dieu. Les fils de Dieu sont conduits par l’Esprit de Dieu! Mais aujourd’hui, nous vivons dans les jours de l’intellectualisme.
+
+Comme vous avez pu le lire dans les journaux, il y a eu un procès à New York, il y a quelques mois. Deux modestes prédicateurs qui s’étaient sentis guidés par le Seigneur (des gens un peu semblables à moi, qui savent tout juste lire et écrire), avaient été dans le Bowery, où ils avaient acheté un certain bâtiment. Là, ils prêchaient l’Evangile à leurs frères dans le péché. Une grande entreprise vint pour acheter ces terrains et tous les autres vendirent, excepté eux. Ils avaient reçu la révélation que le Seigneur voulait qu’ils restent là. Aussi gardèrent-ils leur propriété; mais les autorités les traînèrent devant un tribunal.
+
+Elles louèrent les services d’un de ces géants intellectuels, l’avocat Greenwall. Celui-ci mit ces deux pauvres prédicateurs dans l’embarras. Il parla tellement bien, il était d’une telle distinction, que ces deux pauvres prédicateurs ne savaient pas comment lui répondre. Il était un géant d’intelligence, l’un des meilleurs juristes de New York. Et il plongea ces deux pauvres hommes dans une telle confusion, qu’ils ne savaient plus quoi dire. Finalement, il frappa sur la table, et dit: «Qu’avez-vous à dire pour votre défense?»
+
+L’un d’eux se leva et dit, tenant son compagnon par la main: «Monsieur, la seule chose que nous sachions, c’est que le Seigneur nous a dit de prendre ce bâtiment».
+
+Mais l’avocat Greenwall répliqua: «Silence! Nous ne voulons pas de Seigneur dans cette affaire!». Environ deux semaines plus tard, un avion essaya de passer sous le pont, mais plongea dans les eaux glacées, et voilà l’avocat Greenwall se débattant mourant dans le fleuve! Je me demande si, à ce moment-là, il n’aurait pas désiré la présence de Dieu!
+
+Que s’était-il passé? Il n’avait pas discerné le Corps du Seigneur, car ces deux prédicateurs étaient oints par le Saint-Esprit et faisaient la volonté de Dieu! Nous n’avons pas besoin d’être des géants d’intelligence. Nous devons être d’humbles serviteurs du Seigneur et discerner Son Corps! Avec toute son intelligence, sa ruse, son instruction… Vous connaissez ce que dit la Bible: “Il vaudrait mieux pour vous que l’on vous attachât une meule au cou, et que l’on vous jetât dans la mer, que de vous laisser faire du mal à l’un de mes oints”. Je suppose qu’il aurait eu tout le temps d’appeler le Seigneur, mais il ne discerna pas le Corps du Seigneur.
+
+Quelquefois, je me demande si nous autres, Américains intellectuels, avons assez de discernement pour distinguer le mal du bien. Les tribunaux pour mineurs nous montrent en tout cas que nous ne l’avons pas en ce qui concerne nos enfants, et ils ont à ce sujet une bonne réponse de psychologue. Voici un exemple. Fiston vient vers son papa, se met à taper du pied et à secouer la tête, en criant: «Papa, ce que tu dis m’est égal, je veux ce jouet!». (C’est une scène typiquement américaine).
+
+Alors, le père répond: «Très bien, fiston, je vais te l’acheter».
+
+Vous pourriez dire à ce père: «Pourquoi avez-vous fait cela?». — «Oh! c’est parce que je l’aime tellement!».
+
+Mais rappelez-vous ceci, cher papa, c’est que fiston va un jour devenir adulte, il se mariera et aura une famille. Que Dieu vienne en aide à la femme qui devra vivre avec un homme qui aura été élevé de cette façon et ayant pu obtenir tout ce qu’il voulait. Il ne sait pas discerner ce qui est bon de ce qui est mauvais. Cela n’est pas l’amour, c’est de l’ignorance pure. La Bible a raison: “Celui qui ménage sa verge hait son fils…”.
+
+La petite Fannie vient vers sa mère pour lui demander d’aller à l’un de ces «rock and roll». Maman le lui défend. — «Maman, tu es méchante!». — Bien sûr, vous aimez Fannie, et vous la laissez aller. Elle se trouvera là-bas au milieu d’une bande de voyous… Après cela, elle rentrera et, faisant la moue de ses lèvres maquillées, elle vous dira un mensonge — vous disant qu’il n’y a aucun mal dans tout cela. Dieu ait pitié de l’homme qui prendra pour femme quelqu’un de semblable! — Discerner le bon du mauvais. Nous ne pouvons même pas exercer ce discernement pour les nôtres!
+
+Je me demande quelquefois si nous sommes capables de discerner le bon du mauvais en ce qui concerne notre propre corps — en particulier le Corps du Seigneur. Nous ne discernons pas le bon du mauvais pour notre corps. Jour après jour, semaine après semaine, mois après mois, année après année, des savants travaillent dans les laboratoires, font de grands panneaux et autres pour mettre en garde le peuple au sujet du cancer. Environ deux cent soixante-dix mille Américains mourront cette année parce qu’ils fument la cigarette, et vous continuez à fumer! Si nous ne pouvons même pas avoir le discernement en ce qui concerne notre propre corps, comment pourrons-nous discerner le Saint-Esprit dans le Corps du Seigneur?
+
+Avez-vous lu cet article l’autre jour, où ce savant a donné le résultat de ses recherches? Il disait: «Les cigarettes ne vous donneront pas seulement le cancer, mais vous avez encore cinquante pour cent de chances supplémentaires d’attraper d’autres maladies». — Et vous continuez à fumer!
+
+Il y a quelque temps de cela, après que j’eus parlé avec beaucoup de force contre la fumée, une femme (une grande fumeuse) s’approcha de moi et me mit un papier dans la poche en disant: «Lisez ceci à la maison».
+
+Je lui dis: «Merci, je vais le lire tout de suite», et je commençai.
+
+Elle me dit: «Il n’est pas poli de la part d’un prédicateur de parler du haut de la chaire contre la fumée. Cela ne vous regarde pas».
+
+Je répondis: «C’est mon devoir de parler contre tout ce qui est mauvais!». Que Dieu vienne en aide au prédicateur qui ne peut discerner par le Saint-Esprit les besoins de son assemblée! Dieu a dit: “Ce Corps est le temple du Saint-Esprit. Si vous le souillez, Je le détruirai!”. Nous devons prêcher contre ces choses. Le malheur est qu’il y a trop de prédicateurs qui fument eux-mêmes. C’est cela qui ne va pas. Et ils n’osent pas en parler dans leur assemblée, parce qu’ils savent qu’ils sont eux-mêmes coupables!
+
+Discerner correctement; faire la part des choses correctement. Le whisky, l’alcool… Ils disent: «Pourquoi est-ce mauvais?». Vous voyez cela sur votre écran de télévision, sur chaque panneau d’affichage. Dans les journaux, vous voyez de belles jeunes femmes buvant de la bière. Cela vous montre le point de départ. Regardez un peu plus tard comment elles deviennent! Cela intoxique leur esprit. Il y a un accroissement terrible des troubles mentaux. Cela crée l’immoralité parmi les jeunes. Les églises elles-mêmes prêchent et pratiquent ces choses, disant: «Buvez modérément!». Vous savez que c’est la vérité. Ils disent aux jeunes et aux parents: «Faites boire vos enfants! Ils boiront de toute façon, alors, enseignez-leur à boire modérément». La Bible condamne cela! Ce n’est pas juste! Que Dieu vienne en aide à l’homme, ou à l’église qui n’a pas plus de discernement que cela. Ils ne savent pas discerner le bien du mal!
+
+Oh, nous vivons des jours terribles. Discerner le Corps du Seigneur! Dans nos églises, dans nos paroisses, c’est une telle honte de voir comment les femmes se comportent! Beaucoup portent des vêtements immoraux. Ces shorts! C’est un péché!
+
+Une dame m’a dit (comme d’ailleurs beaucoup d’entre elles): «Billy, vous devriez arrêter de parler de cela!». Eh bien non! Même si je dois parler aux murs, je continuerai à dire la Vérité! C’est exact! C’est mal, c’est du péché!
+
+Une dame me dit: «Je ne porte pas de shorts, mais seulement des pantalons longs».
+
+Je lui répondis: «C’est pire! La Bible dit: C’est une abomination devant Dieu pour une femme de porter des vêtements d’homme». C’est la vérité. Mais l’alibi est là: «On ne peut plus trouver d’autres vêtements». — Pourtant, on fait encore des machines à coudre et on vend toujours du tissu!
+
+Une femme qui s’habille ainsi sera considérée comme coupable d’adultère au jour du jugement. Vous pourriez être aussi pure qu’un lis envers votre mari ou votre fiancé, mais Jésus dit: “Quiconque regarde une femme pour la convoiter a déjà commis adultère avec elle dans son cœur”. Ainsi donc, vous pourriez n’avoir rien fait de mal en réalité, mais lorsque vous vous habillez ainsi, vous vous offrez à l’homme, et il devra répondre à l’accusation d’avoir commis adultère, et c’est vous qui êtes fautive! Et l’église permet cela! Elle ne discerne pas le Corps du Seigneur. Quelle pitié!
+
+Elles coupent leurs cheveux. La Bible dit que lorsqu’une femme coupe ses cheveux, son mari a le droit de la répudier, parce qu’elle est infidèle. La Bible dit qu’elle déshonore son chef. N’est-ce pas vrai? Et l’homme est le chef de la femme.
+
+Je sais que cela est sévère, mais nous avons besoin de discernement. Nous avons besoin de discerner par la Parole. La Parole a raison. Prenez la Parole! La Parole de Dieu a toujours raison.
+
+Nous ne pouvons discerner par ce que pensent les gens, par ce que nous disent les intellectuels et les psychologues. Nous devons nous baser sur ce que dit Dieu! “L’homme ne vivra pas de pain seulement, mais de toute Parole qui sort de la bouche de Dieu!”. “Ne discernant pas le Corps du Seigneur, beaucoup sont faibles et malades, beaucoup dorment”. — c’est-à-dire sont spirituellement morts. La dernière plaie d’Egypte fut la mort. La dernière plaie qui a frappé l’église est la mort spirituelle. Ce dont nous avons besoin aujourd’hui, c’est d’un réveil spirituel, un réveil spirituel pour recevoir le discernement.
+
+Ils peuvent bien avoir fait ces choses avec de bonnes intentions. Cet homme, dans le Sud, ce médecin qui donna à son patient de l’acide sulfurique et causa ainsi sa mort, il avait de bonnes intentions. Il pensait avoir raison, mais son discernement était mauvais. Il ne sut pas discerner un médicament d’un poison.
+
+Une petite fille trouva dans la rue un chaton tout mouillé et frigorifié. Elle le prit, et le mit dans le four pour le sécher. Ses intentions étaient bonnes, mais elle manquait de discernement! Si nous ne prenons pas garde, nous allons nous aussi «rôtir le petit chat» avec notre discernement intellectuel.
+
+Le communisme nous assaille. Le monde nous assaille. Nos églises se démembrent. Les hommes sont divisés et semblent ne plus avoir la foi. Ils coupent les cheveux en quatre au sujet de doctrines insignifiantes. Nous devrions nous réunir tous ensemble et prier, jeûner, appeler, jusqu’à ce que Dieu nous envoie le Saint-Esprit afin que nous puissions avoir le discernement spirituel.
+
+Nous sommes maintenant à la dernière heure. Nous sommes dans l’ombre de la venue du Seigneur et l’église ne peut pas le discerner. Il est déjà beaucoup plus tard que nous ne pensons!
+
+Si Paul pouvait ressusciter ce soir même dans cette ville de Middletown, quel feu dévorant ce serait! Avant le lever du jour, il aurait été jeté en prison, comme un fou furieux ou un homme dangereux! Cet homme, rempli du Saint-Esprit, voyant comment les choses se passent, et sachant que le temps est si proche… il y aurait un réveil, ou alors on viendrait l’écouter dans sa prison. C’est vrai!
+
+Mais Jésus a dit, et la Bible dit que dans les derniers jours, il y aurait de grands signes et des miracles sur la terre. Et vous savez que l’église est tellement morte dans sa théologie, et dans toutes sortes d’enseignements, de programmes et de systèmes d’instruction, qu’elle ne peut plus discerner ces choses!
+
+Jésus n’a-t-Il pas dit à l’église: “Vous savez discerner l’aspect du ciel, mais les signes des temps, eux, vous ne savez les discerner, car si vous m’aviez connu, vous auriez connu mon jour”. L’heure de la délivrance de l’Eglise approche, et ils ne peuvent pas le discerner!
+
+Il y a quelque chose qui ne marche pas. Je parle de l’église dans son ensemble, de tous ceux qui se nomment eux-mêmes chrétiens. Dieu peut bien commencer à faire se produire des événements spirituels; des gens sont sauvés et remplis du Saint-Esprit. Mais il y a des milliers d’hommes, qui se nomment eux-mêmes chrétiens, qui s’éloigneront de ces choses, et diront: «Ce sont des fanatiques!». Alors, vous n’avez pas le discernement spirituel, car tout ce que fait le Saint-Esprit est écrit dans la Bible! Jugez toutes choses par les Ecritures!
+
+C’est ainsi que nous pouvons discerner si notre discernement est juste. Si la Bible dit: “Jésus est le même hier, aujourd’hui et éternellement”, alors, je le crois. Si la Bible… si Jésus dit: “Vous ferez aussi les choses que Je fais”, alors, je le crois. Et si la Bible dit que le Saint-Esprit a été donné à chaque génération, à tous les hommes, en aussi grand nombre que le Seigneur notre Dieu en appellera, je ne crois pas qu’une poignée de mains puisse le remplacer. Je crois que c’est toujours le même Saint-Esprit, manifestant les mêmes signes et les mêmes miracles!
+
+La meilleure preuve que nous avons le Saint-Esprit est le fait que notre esprit rend témoignage à la Parole. Si nous nous disons chrétiens, et affirmons être remplis de l’Esprit qui a été versé par le Baptême du Saint-Esprit sur les croyants de tous les âges, et que notre esprit nous dit que cela était valable pour un autre âge, alors nous sommes dans l’erreur. C’est vrai!
+
+Quand la Bible dit que Jésus-Christ est le même hier, aujourd’hui et éternellement, et si notre esprit dit: «Non, Il est mort, Il s’en est allé», alors, il y a quelque chose qui ne va pas. Jésus a dit: “Vous ferez aussi les oeuvres que Je fais. Je suis avec vous tous les jours, jusqu’à la fin du monde”. Si notre esprit rejette cela, alors nous n’aurons pas le Saint-Esprit. Car le Saint-Esprit dit «Amen»! à chaque Parole qu’Il a écrite.
+
+La connaissance intellectuelle vous éloignera de cela, mais le Saint-Esprit dira «Amen!» à Sa propre Parole. Il le fera certainement! Et Il cherche, Il essaie de trouver quelqu’un en qui Il puisse venir. Il a un grand désir de le trouver.
+
+Ne pensez pas que vous pourrez épuiser Sa bonté. Pourriez-vous imaginer un petit poisson, long d’un centimètre, disant au milieu de l’océan Pacifique: «Il ne faut pas que je boive trop de cette eau, car elle pourrait finir par manquer»? Ce serait aussi stupide que de penser que vous pourriez épuiser la bonté de Dieu. Demandez beaucoup, afin que votre joie soit parfaite. Croyez en Dieu pour tout ce qu’Il a promis. C’est pour vous!
+
+Les prophètes de l’Ancien Testament — Daniel et les autres — ont dit: “Dans les derniers jours, ceux qui connaîtront leur Dieu feront de grands exploits!”. Quelle promesse! Quand les intellectuels voient ces exploits, ils disent: «C’est de la psychologie, de la télépathie, c’est l’oeuvre du diable!», mais le Saint-Esprit leur répondra: «Amen! c’est la Vérité!». Le vrai discernement! Ils l’ont promis! Jésus l’a promis. Il a dit: “Les oeuvres que je fais, vous les ferez aussi; vous en ferez même de plus grandes, car je vais au Père”.
+
+Paul a annoncé par le Saint-Esprit que, dans les derniers jours, l’église tomberait — que des millions tomberaient. “Sache que, dans les derniers jours, il y aura des temps difficiles. Car les hommes seront égoïstes, amis de l’argent, fanfarons, hautains, blasphémateurs, rebelles à leurs parents, ingrats, irréligieux, insensibles, déloyaux, calomniateurs, intempérants, cruels, ennemis des gens de bien, traîtres, emportés, enflés d’orgueil, aimant le plaisir plus que Dieu…”. Ils n’auront pas le vrai discernement.
+
+«Oh!», direz-vous, «il s’agit là des communistes!». — Non, il s’agit de soi-disant chrétiens. Voyez le verset suivant: “… ayant l’apparence de la piété, mais reniant ce qui en fait la force”. — N’ayant pas le discernement spirituel. Si vous avez le discernement spirituel et que le Saint-Esprit est en vous, alors vous avez le discernement spirituel qui dit «Amen!» à chaque promesse de Dieu. Paul l’a dit!
+
+Nous en sommes là, et si nous regardons, nous pouvons le voir. Nous entendons partout parler de ces choses, et que faisons-nous? Cela devrait nous rassembler! La Bible dit: “Réunissons-nous, et ceci d’autant plus que vous voyez s’approcher le jour”. Il faudrait qu’il y ait un réveil après l’autre, que ce soit comme des feux d’artifices de la gloire de Dieu dans chaque église, en tous lieux. Un grand rassemblement où toutes les églises, d’un même coeur et d’un même accord, se rassemblent, oubliant leur théologie humaine, et criant à Dieu pour recevoir la puissance spirituelle et le discernement spirituel. C’est cela dont nous avons besoin.
+
+Je pourrais encore dire ceci, c’est que Jésus nous a donné un jour (comme je vous l’ai dit hier soir) pour nous permettre de reconnaître le temps de la fin. Jésus a dit: “Comme il en fut au jour de Lot, il en sera au jour du Fils de l’homme”. Votre esprit discerne-t-il cela correctement? “Comme il en fut au jour de Lot…”. Rappelez-vous que Lot est un type de l’Amérique. Nous en avons la preuve. Quel était le péché de Sodome? — la perversion. Dans notre Amérique actuelle, la femme est tombée dans une telle dégradation que les voies naturelles de l’homme s’en sont trouvées perverties.
+
+Lorsque j’étais à Los Angeles, il y a quelques semaines, à une rencontre des Hommes d’Affaires Chrétiens, je lus dans l’un de leurs journaux un article qui montrait que la perversion et l’homosexualité avaient augmenté de vingt pour cent, par rapport à l’année précédente.
+
+Jésus dit: “Comme il en fut aux jours de Sodome…”. La police et la brigade criminelle sont constamment en chasse pour séparer des couples d’hommes vivant comme mari et femme; les femmes font la même chose. Ils sont pervertis! Leur esprit est souillé, car ils n’ont pas le discernement spirituel. Tout cela n’est que débauche et souillure, et ils ne peuvent se satisfaire ensemble. Ils ne se marient même pas. Ils vivent simplement ensemble jusqu’à ce que… ils sont pervertis! Jésus dit que cela se passerait dans les derniers jours, et voilà où nous en sommes!
+
+Rappelez-vous qu’aux jours de Sodome… je pense que tous les pasteurs et étudiants en théologie seront d’accord avec ceci. Le docteur Scofield et les autres, la plupart des professeurs, Charles Fuller, tous les grands érudits de ce pays seront d’accord que Abraham représentait l’Eglise spirituelle. Lot, lui, représentait l’église charnelle ou naturelle. Il vivait à Sodome au milieu du péché, et pourtant, il y avait en lui de la justice, mais il faisait des compromis avec le péché. Et rappelez-vous ces deux prédicateurs intellectuels qui allèrent prêcher à Sodome. Ils ne firent pas de miracles, mais se contentèrent d’aveugler les gens. La prédication de la Croix aveugle l’incrédule. C’est ce qu’ont fait ces grands rassemblements de Billy Graham et des autres. Ils ont rendu l’homme pire qu’avant!
+
+Vous avez tous entendu Billy Graham dire il y a quelques semaines qu’étant en Angleterre, il dut sortir avec sa femme d’un parc où il devait tenir une grande réunion, parce qu’il y avait là des hommes et des femmes commettant des actes sexuels en public, là où devait se tenir la réunion.
+
+Ce ne sont pas les prédications intellectuelles qui y apporteront le moindre remède. Il faudrait faire descendre la colère de Dieu et le Feu Sacré du Ciel pour apporter un changement dans le monde, mais cela n’arrivera pas. Les gens attendent la venue d’un grand «quelque chose», mais vous êtes à la fin de ce qui est déjà venu! Les derniers signes ont été donnés à l’église des nations. Les Juifs les auront après que l’Eglise sera enlevée, mais maintenant, nous sommes à la fin de l’âge des nations.
+
+Avant de clore, je pourrais dire encore ceci. Avez-vous remarqué quel genre de personne resta en arrière pour parler à l’Eglise spirituelle? Il était assis, tournant le dos à la tente, et Lui, un étranger, dit: “Où est Sara, ta femme?”.
+
+Abraham répondit: “Elle est dans la tente”. L’Ange dit alors: “Je viendrai te voir, Abraham, selon la promesse que je t’ai faite”. Et Sara, dans la tente, se mit à rire en elle-même.
+
+Alors, l’Ange demanda: “POURQUOI A-T-ELLE RI?”.
+
+Jésus a dit: “Comme il en était aux jours de Sodome, il en sera de même au jour du Fils de l’homme”.
+
+Comprenez-vous maintenant? Comprenez-vous pourquoi un tel ministère ne peut atteindre que des gens du plein Evangile? Voyez-vous où cela nous conduit? J’ai reçu mon instruction religieuse dans une église Baptiste, et j’ai été consacré Prédicateur Missionnaire Baptiste, mais quand quelque chose frappa mon coeur, alors j’eus le discernement me permettant de voir que c’était la Parole de Dieu! Il La manifesta.
+
+Ils me dirent: «Tu vas devenir un de ces exaltés, Billy. Personne n’écoutera des choses pareilles!».
+
+Je dis: «Si c’est Dieu qui m’a envoyé, Il a promis dans Sa Bible qu’Il susciterait quelqu’un pour m’écouter!». C’est vrai!
+
+Discernons le Corps du Seigneur. Discernons le temps dans lequel nous vivons. Nous mourrons spirituellement, si nous ne le faisons pas. Et si ces choses sont vraies, alors cela veut dire que le Saint-Esprit est avec nous, et que nous avons reçu le dernier signe de la venue du Seigneur, avant qu’Il vienne. Rappelez-vous que tout se passa juste avant que Sodome ne fût consumée par le feu! — juste quelques heures avant qu’elle ne s’embrasât.
+
+Je crois aujourd’hui… Beaucoup d’entre vous ont entendu ce qu’a dit Krouchtchev aux Américains, l’autre jour. Vous l’avez lu dans vos journaux. Voici sa déclaration. Vous pourrez la comprendre avec votre discernement naturel. Il a dit: «S’il y a un Dieu, Il va balayer le temple et le nettoyer en vous chassant tous, vous les changeurs d’argent capitalistes!». Vous comprenez ce que cela veut dire, n’est-ce pas? Et il a raison! Un païen, un démon, un imposteur comme lui doit proférer ces menaces! Malgré tout, ils continuent à dormir — pêchant, buvant, ignorant tout cela, parce qu’ils n’ont pas le discernement spirituel du Corps du Seigneur… Dans quels jours ne vivons-nous pas!
+
+Chers frères et soeurs, vous tous mes bien-aimés… je ne veux pas être partial. Je vous dis simplement la Vérité. Je suis simplement responsable devant la Bible, et je vous dis ceci: Si vous croyez que je suis Son prophète ou Son serviteur, alors croyez que je vous dis la Vérité! La fin est proche! A quel point elle est proche, cela, je l’ignore, et personne ne le sait, mais ce que je sais, c’est que nous vivons à l’ombre du jour de Sa venue!
+
+N’entendez-vous pas ces menaces? Voyez-vous ce qu’ils font? La nation tout entière est en train de boire pour les conjurer; elle essaie de rire pour les conjurer; vous ne devez pas faire cela! si vous le faites, c’est parce que vous voulez éviter de recevoir ce discernement spirituel venant de Dieu et qui pourrait vous montrer ce que la main écrit sur la muraille. Nous savons que nous sommes en ce temps-là. Vous pouvez vous débarrasser de cette pensée par la plaisanterie, les distractions de Hollywood, ou la télévision, et tout le reste avec cela, si vous le voulez, mais un homme ou une femme réellement né de nouveau, ayant reçu le discernement de l’Esprit Saint, trouvera sa place dans l’Eglise, adorant, suppliant et faisant tout son possible pour essayer d’amener des pécheurs à la repentance. Certainement! Si cela vient de Dieu… Vous devriez le faire de tout votre coeur, si vous avez le discernement. Agissez! Ne vous contentez pas de dire simplement: «Oui, je crois à ces choses. C’est la Vérité. C’est très bien. Amen!» et de rentrer sans plus à la maison. Mettez-vous à l’ouvrage! Vous avez le discernement. Travaillez pendant qu’il fait jour, car la nuit vient ou personne ne peut travailler. Travaillez pendant que les portes sont ouvertes. Travaillez pendant que nous pouvons encore avoir des réunions comme celle-ci. Faites entrer nos bien-aimés. Amenez-les à l’Evangile! Amenez vos amis, vos voisins! Dieu est mort pour ces gens-là, et nous devrions nous sentir suffisamment concernés pour travailler jusqu’à ce que nos mains saignent! Nous entrerons les mains vides, si nous ne le faisons pas.
+
+Pour illustrer cela, je vais vous raconter l’histoire de cette petite fille qui mourut récemment dans une région reculée du Kentucky. Il y avait environ huit enfants dans cette famille; ils étaient tous plus paresseux les uns que les autres. Ils ne voulaient rien faire, malgré que leur mère fût couchée, mourant peu à peu de la tuberculose. Et cette petite fille, qui pouvait avoir douze ans, s’occupait seule de la cuisine, du ménage et de la lessive, et prenait encore soin de sa mère, pendant que les autres jouaient, nageaient et flânaient aux alentours.
+
+Enfin, leur mère mourut, et la petite fille dut continuer, parce qu’aucun des autres ne voulait travailler. Elle travailla et travailla, tant et si bien qu’elle devint elle-même malade. Les privations, le travail, etc., eurent peu à peu raison de son organisme. Bientôt, elle fut mourante.
+
+Une monitrice d’école du dimanche vint la trouver et lui demanda: «Es-tu chrétienne?».
+
+L’enfant répondit: «Oui».
+
+— «A quelle dénomination appartiens-tu?».
+
+— «Je n’appartiens à aucune dénomination».
+
+— «Alors, comment feras-tu quand tu rencontreras Jésus? Qu’auras-tu à Lui montrer, pour qu’Il voie à quelle église tu appartiens?».
+
+— «Je lui montrerai simplement mes mains. Il comprendra!».
+
+Eh bien, je crois qu’après toutes ces réunions ce sont nos mains qu’Il regardera! Il regardera nos mains pour voir ce que nous avons fait. Le discernement spirituel… Ne pas discerner le Corps du Seigneur!…
+
+Prions. Si ces mains devaient être au travail (et vous savez qu’elles doivent l’être), ne voulez-vous pas les élever vers Dieu, et Lui demander de les sanctifier pour Son service, pendant que nous prions? Levez vos mains!
+
+Seigneur, regarde toutes ces mains! Regarde aussi les miennes. Je désire venir avec les mains couvertes de cicatrices du vieux soldat. Je ne veux pas venir les mains vides. Je veux prêcher jusqu’au jour de ma mort. Je veux attirer, implorer, jeûner et prier, car je sais que les ombres de la nuit tombent et que l’heure est bientôt là. Seigneur, ouvre mes yeux afin que je voie encore plus de signes de Ta venue. Embrase ce soir le coeur de ces gens, par les glorieuses merveilles que Tu as promises.
+
+Quand nous voyons les prédictions se réaliser dans le monde, et l’homme pécheur crier: «Il va balayer Son temple!»… Nous sommes bien conscients que nous avons ici toutes les bombes nécessaires pour que ces choses se réalisent. Il suffirait qu’un fanatique pressât sur le bouton! Mais Tu répands encore Ta miséricorde jusqu’à ce que Ton Eglise ait été préparée. Seigneur, ici ce soir, prépare-nous! Prends nos coeurs à Ton service. Montre-nous Ta présence, car nous croyons que Tu es ressuscité d’entre les morts, et notre esprit discerne que Tu es le même Jésus hier, aujourd’hui et éternellement. Tu es ici présent sous la forme du Saint-Esprit, afin d’agir au travers de Ton Eglise, de guérir et de sauver. Ecoute nos prières, O Seigneur, alors que je Te confie tous ces gens et moi-même, au Nom de Jésus, le Fils de Dieu. Amen!
+
+Oh! s’il n’y avait pas Sa miséricorde; s’il n’y avait pas Sa bonté! Je me sens fatigué. Mais j’avais cela sur le coeur. Il fallait que je le dise. J’espère que je n’ai pas blessé mes amis Méthodistes, Baptistes ou Pentecôtistes. Si je l’ai fait, c’était sans le vouloir. Je désire vous réveiller, vous secouer un peu. Nous arrivons à la fin! Et nous n’avons pas le discernement du Corps du Seigneur!
 
 DISCERNER LE CORPS DU SEIGNEUR 11
 Seigneur, pour nous mettre à part et nous tenir dans la foi. S’il y a jamais eu un temps où
@@ -762,9 +484,6 @@ comme Celui qui vous guérit personnellement. Levez-vous, vous qui êtes dans ce
 roulantes, sur ces civières, etc.! Levez-vous! Croyez en Dieu! Au Nom du Seigneur Jésus-Christ,
 soyez guéris! — Ils se lèvent de leurs chaises roulantes et de leurs civières!
    — A vous, frère Sullivan!
-
-
-
 
 
 
@@ -1124,40 +843,51 @@ ordonnance que Dieu nous a imposée. Je crois aussi que le baptême d’eau est 
 
     http://www.cmpp.ch
 
-    LE REPAS DU SEIGNEUR    21
+LE REPAS DU SEIGNEUR    21
 qui nous a été imposée. Jésus a accompli toutes ces choses, et Il a lavé les pieds de Ses disciples
 à titre d’exemple pour nous.
-      “De même, après avoir soupé, il prit la coupe, et dit: Cette coupe est la nouvelle alliance
+
+> “De même, après avoir soupé, il prit la coupe, et dit: Cette coupe est la nouvelle alliance
    en mon sang; faites ceci en mémoire de moi toutes les fois que vous en boirez. Car toutes
    les fois que vous mangez ce pain et que vous buvez cette coupe, vous annoncez la mort du
    Seigneur. C’est pourquoi, celui qui mangera le pain ou boira la coupe du Seigneur
    indignement, sera coupable envers le corps et le sang du Seigneur” (1 Corinthiens 11.25-27).
-   Arrêtons-nous un instant. La raison pour laquelle Paul dit ceci est expliquée au verset 21:
-      “… car, quand on se met à table, chacun commence par prendre son propre repas, et l’un
+
+Arrêtons-nous un instant. La raison pour laquelle Paul dit ceci est expliquée au verset 21:
+
+> “… car, quand on se met à table, chacun commence par prendre son propre repas, et l’un
    a faim, tandis que l’autre est ivre”.
-   Ils n’avaient pas compris ces choses, comme aujourd’hui encore les gens ne les comprennent
+
+Ils n’avaient pas compris ces choses, comme aujourd’hui encore les gens ne les comprennent
 pas. Ils vivent n’importe comment, et vont ensuite prendre le Repas du Seigneur! Paul leur dit
 qu’ils pouvaient manger à la maison, mais que cela, c’était une ordonnance qu’il fallait respecter:
-      “Que chacun donc s’éprouve soi-même, et qu’ainsi il mange du pain et boive de la coupe;
+
+> “Que chacun donc s’éprouve soi-même, et qu’ainsi il mange du pain et boive de la coupe;
    car celui qui mange et boit sans discerner le corps du Seigneur, mange et boit un jugement
    contre lui-même” (1 Corinthiens 11.28,29).
-   Qu’êtes-vous? Etes-vous un Chrétien? Votre vie est-elle devant tous celle d’un Chrétien? Si
+
+Qu’êtes-vous? Etes-vous un Chrétien? Votre vie est-elle devant tous celle d’un Chrétien? Si
 vous prenez part au Repas du Seigneur, et que vous ne viviez pas comme un Chrétien, alors vous
 ne discernez pas le Corps du Seigneur. Vous mettez une pierre d’achoppement sur le chemin de
 quelqu’un d’autre. Ils vous voient prendre le Repas du Seigneur, alors que vous ne vivez pas la vie
 que vous devriez vivre. Vous ne discernez pas le Corps du Seigneur. Voyons maintenant quelle
 malédiction est attachée à cela.
-      “C’est pour cela que plusieurs sont faibles et malades parmi vous, et qu’un assez grand
+
+> “C’est pour cela que plusieurs sont faibles et malades parmi vous, et qu’un assez grand
    nombre dorment” (Darby).
-   «dorment» veut dire: «sont morts». Beaucoup sont morts!
-      “Si nous nous jugions nous-mêmes, nous ne serions pas jugés. Mais quand nous
+
+«dorment» veut dire: «sont morts». Beaucoup sont morts!
+
+> “Si nous nous jugions nous-mêmes, nous ne serions pas jugés. Mais quand nous
    sommes jugés, nous sommes châtiés par le Seigneur, afin que nous ne soyons pas
    condamnés avec le monde.
-      Ainsi, mes frères, lorsque vous vous réunissez pour le repas, attendez-vous les uns les
+> 
+> Ainsi, mes frères, lorsque vous vous réunissez pour le repas, attendez-vous les uns les
    autres. Si quelqu’un a faim, qu’il mange chez lui, afin que vous ne vous réunissiez pas pour
    attirer un jugement sur vous. Je réglerai les autres choses quand je serai arrivé”
    (1 Corinthiens 11.31,34).
-   En d’autres termes, ne prenez pas le Repas du Seigneur pour un rite quelconque, ainsi que le
+
+En d’autres termes, ne prenez pas le Repas du Seigneur pour un rite quelconque, ainsi que le
 faisaient les Juifs avec leurs sacrifices, comme je l’ai montré plus haut. Leur rite était merveilleux.
 Il avait été ordonné par Dieu, mais il arriva un moment où il ne fut plus observé sincèrement, dans
 le respect et l’ordre; il devint alors une puanteur aux narines de Dieu. Or, cela s’applique
@@ -1173,11 +903,11 @@ le sait, et m’en rend témoignage, et devant vous, je prends part à Son Corps
 ne suis pas condamné avec le monde». — Voilà! Alors, cela devient une bénédiction. Ne l’oubliez
 pas! Je pourrais donner de nombreux témoignages à ce sujet. Je l’ai souvent expliqué à des
 malades et les ai vus être guéris!
-   Rappelez-vous qu’Israël est le type de cela. Lorsqu’ils voyagèrent pendant quarante ans dans
+
+Rappelez-vous qu’Israël est le type de cela. Lorsqu’ils voyagèrent pendant quarante ans dans
 le désert, leurs habits ne s’usèrent point, et aucun d’eux n’était faible, quand ils sortirent; et ils
 étaient trois millions. Et ce n’était qu’un type! Alors, que va-t-il se passer avec l’original? Si le corps
 d’un animal sacrifié a fait cela pour eux, que doit faire le corps de Jésus-Christ, Emmanuel, pour
 nous? Approchons-nous de la table du Seigneur, aussi respectueusement que nous le pouvons.
-
 
     http://www.cmpp.ch

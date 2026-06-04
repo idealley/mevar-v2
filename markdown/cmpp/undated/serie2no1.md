@@ -1,316 +1,242 @@
-    SERIE 2 N° 1
+---
+source: "cmpp"
+sermon_id: "serie2no1"
+title: "LE SIGNE"
+subtitle: "1er septembre 1963, matin"
+date: "1963-09-01"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le thème du signe (token) à partir d'Exode 12.12-13, expliquant que le sang de l'agneau était le signe de la rédemption pour Israël en Égypte, et que pour l'Église aujourd'hui, le Saint-Esprit est le signe que Dieu requiert. Il insiste sur l'identification du croyant avec le sacrifice de Christ et l'urgence d'appliquer ce signe avant le jugement."
+tags:
+  - "signe"
+  - "sang"
+  - "agneau"
+  - "rédemption"
+  - "Saint-Esprit"
+  - "identification"
+persons:
+  - "William Marrion Branham"
+  - "Jésus-Christ"
+  - "Jean-Baptiste"
+  - "Caïn"
+  - "Adam"
+  - "Ève"
+places:
+  - "Égypte"
+  - "Jeffersonville"
+  - "Indiana"
+  - "Kentucky"
+  - "New York"
+  - "Shreveport"
+  - "Phoenix"
+  - "Norvège"
+  - "Afrique"
+themes:
+  - "signe de la rédemption"
+  - "sang de l'agneau"
+  - "Saint-Esprit comme signe"
+  - "identification avec Christ"
+  - "urgence spirituelle"
+  - "sacrifice substitutif"
+  - "prédestination"
+pdf_url: "http://cmpp.ch/serie2no1.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 15"
+  - "Actes 16"
+  - "Actes 19"
+  - "Genèse 4"
+  - "Hébreux 10"
+  - "Hébreux 11"
+  - "Hébreux 12"
+  - "Hébreux 13"
+  - "Hébreux 6"
+  - "Hébreux 9"
+  - "Jean 14"
+  - "Romains 8"
+---
+SERIE 2 N° 1
 
+LA PAROLE PARLEE
 
+PAR
 
-    LA PAROLE PARLEE
+WILLIAM MARRION BRANHAM
 
-    PAR
+LE SIGNE
 
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
-  LE SIGNE
-(The Thoken)
-
-
-
-
-   1ᵉʳ septembre 1963, matin
-       Branham Tabernacle
+1er septembre 1963, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+LE SIGNE
 
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    LE SIGNE    2
-
-  LE SIGNE
-(The Token)
-
-
-   1ᵉʳ septembre 1963, matin
-       Branham Tabernacle
+1er septembre 1963, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+Bonjour à tous. Je suis heureux d’être encore une fois ici ce matin, pour le service du Seigneur. Je ne savais pas si nous serions de retour, mais le Seigneur a pourvu, et nous sommes revenus pour le culte d’aujourd’hui.
 
+Nous nous attendons à de grandes choses aujourd’hui, lors de cette leçon d’école du dimanche où nous étudierons la Parole. Ce soir, il y aura de nouveau un service de guérison, et ensuite, nous prendrons la Communion.
 
+Je crois qu’aujourd’hui, nous avons un service de consécration d’un enfant. Frère Neville vient de me dire qu’un couple désirait que leur enfant soit consacré. S’ils veulent bien apporter leur enfant maintenant, et qu’un frère reste au piano… Qu’ils apportent le bébé, afin que nous puissions procéder au service de consécration, et alors nous pourrons commencer le plus tôt possible à lire la Parole.
 
-   Bonjour à tous. Je suis heureux d’être encore une fois ici ce matin, pour le service du Seigneur.
-Je ne savais pas si nous serions de retour, mais le Seigneur a pourvu, et nous sommes revenus
-pour le culte d’aujourd’hui.
-   Nous nous attendons à de grandes choses aujourd’hui, lors de cette leçon d’école du dimanche
-où nous étudierons la Parole. Ce soir, il y aura de nouveau un service de guérison, et ensuite,
-nous prendrons la Communion.
-   Je crois qu’aujourd’hui, nous avons un service de consécration d’un enfant. Frère Neville vient
-de me dire qu’un couple désirait que leur enfant soit consacré. S’ils veulent bien apporter leur
-enfant maintenant, et qu’un frère reste au piano… Qu’ils apportent le bébé, afin que nous
-puissions procéder au service de consécration, et alors nous pourrons commencer le plus tôt
-possible à lire la Parole.
-   Parce que nous aimons méditer la Parole. C’est cela le principal: donner fidèlement notre
-temps à la Parole du Seigneur. C’est pourquoi nous sommes reconnaissants de nous rencontrer
-tous aujourd’hui pour ce culte.
-   J’ai dû faire une erreur… Soeur, je vous demande pardon. Peut-être que c’était simplement une
-erreur… bien!… Je crois que quelque chose m’a été mal transmis…
-   Bon! Est-ce que chacun se sent à son aise? Ah! voilà le petit enfant… [consécration d’un enfant
-— frère Branham parle aux parents. L’assemblée chante: «Amenez-les…» — N.d.R.]
-   C’est merveilleux! Parmi ceux pour lesquels on a prié dimanche passé, combien sentent-ils les
-résultats, et sentent qu’ils sont guéris? Levez la main et louez le Seigneur! Eh bien, ils sont
-nombreux!
-   — Oui, monsieur, je dois le faire. Je désirais seulement… Quelque chose est en train de se
-produire; je vous en parlerai plus tard. C’est quelque chose de glorieux et de merveilleux, et nous
-en parlerons pendant une autre rencontre, une autre fois. Cela commence juste à se produire, et
-nous sommes tellement reconnaissants pour cela.
-   Je suis allé au Kentucky, comme chaque année. Quelques-uns de mes amis là-bas… Ce n’est
-pas uniquement pour chasser l’écureuil, comme vous le savez. Nous avons passé des moments
-merveilleux, et nous en sommes reconnaissants au Seigneur.
-   Après cette réunion, il faut que je rentre chez moi. Ensuite, je traverserai de nouveau le pays
-pour aller à New-York, pour une réunion. Et si nous pouvons nous arrêter un peu ici, nous serons
-heureux d’avoir encore une réunion ici au tabernacle.
-   Ensuite, il faut que je rentre pour aller à Shreveport. Ensuite, nous retournerons à la maison, et,
-si le Seigneur le permet, nous passerons les vacances ici avec la famille. Ensuite, j’ai une réunion
-à Phoenix, en janvier! (c’est la rencontre annuelle des Hommes d’Affaires Chrétiens.) Une
-semaine, ou dix jours avant cette rencontre, j’essaierai de louer cette immense salle (celle de
-l’assemblée du Nom de Jésus, dont s’occupe le frère espagnol Garcia). C’est une très belle salle.
-Ils l’ont construite exprès. Cette salle peut contenir plusieurs milliers de personnes, mais leur
-assemblée est très petite. Ils m’ont dit que je pourrais la louer n’importe quand.
-   Au lieu d’aller d’église en église dans toute la vallée, je pense que je ferai tout dans une grande
-rencontre là-bas où tous pourront venir. Nous pouvons louer le temple (nous verrons si c’est
-possible), et ensuite avoir la Convention des Hommes d’Affaires Chrétiens.
+Parce que nous aimons méditer la Parole. C’est cela le principal: donner fidèlement notre temps à la Parole du Seigneur. C’est pourquoi nous sommes reconnaissants de nous rencontrer tous aujourd’hui pour ce culte.
 
-        http://www.cmpp.ch
+J’ai dû faire une erreur… Soeur, je vous demande pardon. Peut-être que c’était simplement une erreur… bien!… Je crois que quelque chose m’a été mal transmis…
 
-LE SIGNE 3
-   En attendant que les voyages à l’étranger se préparent, nous allons essayer de tenir des
-réunions dans les états du Sud pendant les mois de janvier, février et mars. Ceci, parce que si
-nous allons en Afrique à Noël, pour eux c’est comme le 4 juillet [fête nationale — N.d.T.]. Chez
-eux, le temps est mauvais et pluvieux en cette saison, et nous ne pouvons pas y aller. Il est donc
-préférable d’y aller plus tard.
-   Nous désirons commencer notre tournée par la Norvège, si c’est possible, et ensuite, nous
-parcourrons le monde jusqu’en Afrique, où nous nous arrêterons, si le Seigneur le permet.
-   Mais priez pour nous déjà maintenant. Nous vous aimons; vous le savez. Ainsi, nous nous
-attendons à recevoir du Seigneur, avec une abondance et une plénitude dépassant tout ce que
-nous pourrions faire ou penser.
-   Je crois que ce soir, il y aura un merveilleux service de guérison. Je crois que… Je ne parlerai
-que très peu, car il y aura un service de Communion. Je me limiterai donc à vingt ou trente
-minutes; ensuite, nous aurons la prière pour les malades, et immédiatement après, nous
-prendrons le Repas du Seigneur.
-   Nous vous invitons cordialement à rester avec nous, et nous serons heureux… Nous ne
-prenons pas le Repas du Seigneur exclusivement entre nous. Nous invitons chaque croyant,
-chaque croyant.
-   Avant de lire l’Ecriture, je pense que nous pourrions incliner nos têtes un moment. Je
-demanderai à mon cher ami le frère Lee Vayle de bien vouloir nous conduire dans quelques
-paroles de prière afin que Dieu bénisse Sa Parole. Frère Vayle, voulez-vous faire cela pour nous?
-   [Frère Vayle prie — N.d.R.]
-   Maintenant, nous nous approchons de la Parole avec respect. Ce matin, je désire lire Exode,
-chapitre 12, versets 12 et 13. Dans le verset 11 sont décrits la préparation et le Repas avant le
-départ.
-   “Cette nuit-là, je passerai dans le pays d’Egypte, et je frapperai tous les premiers-nés du
-   pays d’Egypte, depuis les hommes jusqu’aux animaux, et j’exercerai des jugements contre
-   tous les dieux de l’Egypte. Je suis l’Eternel.
-   Le sang vous servira de signe sur les maisons où vous serez; je verrai le sang, et je passerai
-   par-dessus vous, et il n’y aura point de plaie qui vous détruise, quand je frapperai le pays
-   d’Egypte”.
-   Puisse le Seigneur bénir Sa Parole.
-   Je désire tirer mon sujet de ce passage. Je prendrai un petit mot de cinq lettres: Signe. Le
-Signe. Je veux parler, où donner cette leçon d’école du dimanche sur ce mot de Signe. Et la Bible
-dit: “Le sang vous servira de signe”.
-   Bien, je ne sais pas… quand je regarde l’horloge et que je vois que l’heure avance… J’ai noté
-un grand nombre de passages. Ne sachant pas pendant combien de temps je serai loin de vous…
-Ne sera-ce pas pour certains d’entre vous la dernière fois que nous nous rencontrerons?
-   Ainsi donc, approchons-nous de la Parole avec tout le respect qui Lui est dû. Je sais que c’est
-difficile. Le Seigneur nous a donné une belle matinée pour ce culte — une belle matinée. Et
-essayons maintenant de nous concentrer sur tout ce dont nous allons parler, afin que s’il y a là
-quelque chose que le Seigneur voudrait vous faire connaître, cela puisse vous être donné.
-   Nous ne sommes pas ici simplement pour être vus. Nous ne sommes pas venus ici pour que
-les autres puissent admirer nos vêtements ou… Nous sommes venus dans un but, comme l’a dit
-notre frère dans sa prière: «Nous sommes ici pour écouter la Parole, la Parole venant à nous».
-C’est ce que nous désirons, car c’est cela qui aura pour nous une signification, la signification de
-ce qui est substantiel, de ce qui peut venir à notre secours.
-   Nous sommes un peuple à l’agonie. Tous les hommes se dirigent vers l’éternité. Et alors…
-Nous avons un certain temps pour prendre une décision, pour savoir quel chemin nous voulons
-prendre. Le chemin est devant nous. Nous pouvons prendre le côté que nous désirons choisir.
-C’est ainsi qu’Il a placé Adam et Eve, et c’est ainsi qu’Il nous place.
-   Nous devons nous rappeler que, quoi que nous fassions ou quelque succès que nous ayons,
-dans notre vie, sans Christ, nous avons tout perdu.
-   Ainsi donc, s’Il est tout ce que nous devons rechercher, nous serions les gens les plus stupides
-qui soient, si nous n’acceptions pas et n’aimions pas Sa Parole. Il ne suffit pas de L’accepter, il
+Bon! Est-ce que chacun se sent à son aise? Ah! voilà le petit enfant… [consécration d’un enfant — frère Branham parle aux parents. L’assemblée chante: «Amenez-les…» — N.d.R.]
 
-        http://www.cmpp.ch
+C’est merveilleux! Parmi ceux pour lesquels on a prié dimanche passé, combien sentent-ils les résultats, et sentent qu’ils sont guéris? Levez la main et louez le Seigneur! Eh bien, ils sont nombreux!
 
-LE SIGNE 4
-faut faire quelque chose de plus grand. Après que vous L’ayez reçue, ne vous contentez pas de
-La poser sur une étagère — mettez-la en pratique!
-   C’est comme si vous allez chez le médecin, que vous receviez un médicament et que vous le
-posiez sans autre sur une étagère. Si vous devez prendre un médicament, prenez-le! Si une
-maladie vous tourmente, et que ce médicament est censé vous soulager, prenez ce qu’il peut vous
-donner. Et prenez-le exactement quand le médecin vous dit de le prendre, parce que quelques
-petites minutes peuvent faire une grande différence, pour ce qui est du résultat.
-   Comment pouvons-nous savoir si, aujourd’hui, l’instant de votre décision ne va pas déterminer
-votre destinée éternelle? Prenez-Le au moment même où Il vous Le tend!
-   Un signe… “Le sang vous servira de signe…”. Mais, pour commencer, qu’est-ce qu’un signe?
-[Le mot anglais pour «signe» est «token», qui peut avoir le sens indiqué ci-dessous — N.d.T.]. Je
-vous enseigne que ce mot décrit quelque chose qui nous indique que le prix de quelque chose a
-été payé (comme le prix d’un billet de chemin de fer).
-   Quand vous payez votre passage, on vous donne un signe. Et ce signe ne peut être utilisé sur
-rien d’autre que sur une ligne de chemin de fer déterminée. C’est pour la compagnie de chemin de
-fer, un signe que vous avez payé votre passage. C’est un signe, et vous ne pouvez l’utiliser pour
-rien d’autre. Il n’est valable sur aucune autre ligne. Il est valable uniquement pour cette ligne-là.
-C’est un signe.
-   Pour revenir à ce dont nous parlions, Dieu dit à Israël: “Le sang de l’agneau vous servira de
-signe”.
-   L’agneau immolé d’Israël était le signe requis par Jéhovah. Ce devait être le sang. Aucun autre
-signe n’aurait eu le moindre effet. Il ne pouvait être reconnu.
-   Pour le monde, tout cela n’est qu’un tas de sottises, mais pour Dieu, c’est l’UNIQUE moyen. Ce
-signe est la seule chose qu’Il requière; il doit être là, et vous ne pouvez pas avoir le signe tant
-que le prix n’est pas payé.
-   Alors, vous êtes le possesseur du Signe qui vous donne le privilège d’un libre passage. “Je
-verrai le Sang, et Je passerai par-dessus vous”.
-   Quel privilège que de savoir que vous avez avec vous le “passeport” — “Quand Je verrai le
-Sang, Je passerai par-dessus vous”.
-   C’est la seule chose qu’Il reconnaîtra. Rien d’autre ne peut prendre sa place — aucun
-substitut, aucune dénomination, rien d’autre.
-   Dieu dit: “Je Le verrai”.
-   Peu importe combien ils étaient justes, combien ils étaient bons, quelle était leur instruction,
-comment ils s’habillaient, seul comptait le Signe. “Je verrai le Sang, et je passerai par-dessus
-vous”.
-   Le sang était un signe montrant que les exigences de Jéhovah étaient remplies, que tout était
-accompli. Le sang était un Signe. Le sang était le Signe. Comprenez-vous?
-   Il y avait une vie dont Dieu avait dit: “Le jour où vous en mangerez, vous mourrez”. Une vie
-avait été prise, étant un substitut pour la vie du croyant. Dieu, dans Sa grâce, acceptait un
-substitut pour la vie de la personne souillée.
-   Quand Son enfant s’est souillé Lui-même en commettant le péché d’incrédulité à la Parole,
-Dieu, dans la richesse de Sa grâce, établit un substitut; quelque chose devait mourir à la place
-du pécheur. Rien d’autre ne pouvait agir.
-   C’est pourquoi les pommes et les pêches de Caïn n’avaient aucune valeur. Il fallait que ce fût
-une vie qui eût du sang en elle, et que cette vie s’en allât par le sacrifice. Le sang était le signe
-que le commandement de Dieu avait été exécuté.
-   Qu’est-ce que Dieu voulait? — la vie. Le sang montrait qu’une vie avait dû être retranchée,
-que quelque chose était mort. Selon le commandement de Dieu, une vie avait été livrée, et le sang
-avait été répandu. Et le sang était le signe montrant que la vie s’en était allée. La vie de l’animal
-que Dieu avait ordonné de prendre… Le sang leur était un signe.
-   Celui qui adorait Dieu, le croyant, était identifié avec son sacrifice par le signe.
+— Oui, monsieur, je dois le faire. Je désirais seulement… Quelque chose est en train de se produire; je vous en parlerai plus tard. C’est quelque chose de glorieux et de merveilleux, et nous en parlerons pendant une autre rencontre, une autre fois. Cela commence juste à se produire, et nous sommes tellement reconnaissants pour cela.
 
-        http://www.cmpp.ch
+Je suis allé au Kentucky, comme chaque année. Quelques-uns de mes amis là-bas… Ce n’est pas uniquement pour chasser l’écureuil, comme vous le savez. Nous avons passé des moments merveilleux, et nous en sommes reconnaissants au Seigneur.
 
-LE SIGNE 5
-   Je ne voudrais pas m’étendre trop longuement sur le petit passage que je viens de citer (je
-pourrais faire une prédication entière sur l’un d’entre eux), mais je voudrais quand même m’arrêter
-un moment sur ce passage pour montrer que le croyant devait être identifié avec son sacrifice.
-   S’il avait offert le sacrifice n’importe où, au dehors de chez lui, il l’aurait bien sûr offert. Mais il
-fallait que le croyant fût identifié en lui. Il devait premièrement poser ses mains sur le sacrifice,
-afin de s’identifier avec lui. Ensuite, le sang devait être placé là où il pourrait se tenir sous le sang.
-   Le sang devait être au-dessus de lui, et ceci était un signe montrant qu’il s’était reconnu
-coupable, et qu’un substitut innocent avait pris sa place.
-   Quelle belle image! Un racheté! Justice avait été faite, et les exigences de la Sainte Justice de
-Dieu avaient été remplies. Or, Dieu avait dit: “Ce que je veux, c’est ta vie!”.
-   Ainsi donc, lorsque la vie avait péché, un substitut innocent prenait sa place. C’était une bête
-ayant du sang, et non pas une pomme ou une pêche.
-   Cela devrait rendre cette semence du serpent absolument claire pour chacun: Il fallait que ce
-fût du sang, et ce sang, qui ne pouvait pas provenir d’un fruit, fut versé par un substitut innocent.
-Cette vie s’en était allée à sa place, et le sang était un symbole montrant que la bête était morte, et
-que le sang était sorti d’elle.
-   Le croyant, appliquant le sang au-dessus de lui, montrait qu’il était identifié à la rédemption,
-parce qu’il s’identifiait avec le sacrifice, établissant une relation entre lui et le sacrifice, et le
-sang était le signe témoignant de cela. Comme c’est merveilleux! Quelle image! C’est le type
-parfait de Christ. Exactement!
-   Le croyant, aujourd’hui, se tenant sous le Sang répandu, identifié au Sacrifice — tout cela est
-absolument parfait!
-   Et comme Christ, n’étant pas un animal… vous voyez, l’animal mourait; c’était ce que nous
-avions de plus innocent, je pense, et le plus innocent de tous était l’agneau. Lorsque Dieu
-voulut identifier Jésus-Christ, Il L’identifia à un agneau. Et lorsqu’Il désirait S’identifier
-Lui-même, Il S’identifiait à un oiseau, à une colombe. La colombe est l’oiseau le plus innocent et
-le plus pur, et l’agneau est l’animal le plus innocent et le plus pur.
-   Voyez ce qui arriva lorsque Jésus fut baptisé par Jean. La Bible dit: “… il vit l’Esprit de Dieu
-descendre comme une colombe et venir sur lui”.
-   Si cela avait été un loup, ou n’importe quel autre animal, … la nature de la colombe n’aurait pas
-pu s’accorder avec celle du loup. Elle n’aurait pas pu s’accorder mieux avec n’importe quel autre
-animal, excepté l’agneau. Et ces deux natures s’unirent. Il pouvait y avoir une entente entre
-elles.
-   Discernez-vous la prédestination? C’était un agneau qui vint parmi nous. C’était un agneau.
-Il naquit comme un agneau et fut élevé comme un agneau.
-   C’est pourquoi, cela, c’est le seul vrai Esprit pouvant recevoir la Parole — pouvant recevoir
-Christ. Les autres essaieront. Ils essaieront, et feront venir l’Esprit de Dieu sur un loup, vous
-comprenez? — sur de la colère, de la méchanceté, de l’ignominie. Il n’y restera pas. Le Saint-
-Esprit s’enfuira immédiatement. Il ne veut pas de cela.
-   Que se serait-il passé si la Colombe était descendue sur un autre animal qu’un Agneau? Elle se
-serait enfuie à tire-d’ailes, et serait retournée d’où elle était venue. Mais lorsqu’Elle trouva cette
-nature avec laquelle Elle pouvait s’accorder, Elle devint Une avec Lui. Alors, la Colombe
-conduisit l’Agneau. Remarquez qu’Elle conduisit l’Agneau au sacrifice.
-   Or, l’Agneau était soumis à la Colombe. Peu importe où Elle Le conduisait, Il acceptait d’y aller.
-   Aujourd’hui, je me demande, quand Dieu nous conduit à une vie de complète soumission à
-Son service, je me demande si, parfois, notre esprit ne se rebelle pas… je me demande si nous
-sommes réellement des agneaux!
-   Un agneau est soumis. Un agneau se sacrifie. Il ne réclame rien pour lui. Vous pouvez l’étendre
-sur le sol et lui tondre toute sa laine (c’est tout ce qu’il possède) — il ne se plaindra pas, il sacrifie
-tout ce qu’il possède. C’est un agneau. Il donne tout, il abandonne tout ce qu’il possède. C’est
-ainsi qu’est la vie d’un vrai Chrétien. Il se sacrifie lui-même, n’ayant aucun souci du monde,
-mais donnant à Dieu tout ce qu’il a.
+Après cette réunion, il faut que je rentre chez moi. Ensuite, je traverserai de nouveau le pays pour aller à New-York, pour une réunion. Et si nous pouvons nous arrêter un peu ici, nous serons heureux d’avoir encore une réunion ici au tabernacle.
 
-        http://www.cmpp.ch
+Ensuite, il faut que je rentre pour aller à Shreveport. Ensuite, nous retournerons à la maison, et, si le Seigneur le permet, nous passerons les vacances ici avec la famille. Ensuite, j’ai une réunion à Phoenix, en janvier! (c’est la rencontre annuelle des Hommes d’Affaires Chrétiens.) Une semaine, ou dix jours avant cette rencontre, j’essaierai de louer cette immense salle (celle de l’assemblée du Nom de Jésus, dont s’occupe le frère espagnol Garcia). C’est une très belle salle. Ils l’ont construite exprès. Cette salle peut contenir plusieurs milliers de personnes, mais leur assemblée est très petite. Ils m’ont dit que je pourrais la louer n’importe quand.
 
-LE SIGNE 6
-   Christ, Lui, fut un Agneau parfait. En Egypte, le sang fut versé par le moyen d’un agneau
-naturel. Et cela était un signe. Mais alors, quelle pouvait bien être la raison pour laquelle le Sang
-de l’Agneau fut versé? — c’est le signe que nous sommes morts à nous-mêmes et identifiés
-avec notre Sacrifice. Alors l’Agneau, le Sang et la personne s’identifient — le Sacrifice et le
-croyant.
-   Vous êtes identifiés dans votre vie par votre Sacrifice. C’est cela qui fait que vous êtes ce que
-vous êtes. Ainsi donc, le sang était un signe d’identification. Le sang indiquait que l’adorateur avait
-sacrifié l’agneau, qu’il l’avait accepté et avait appliqué le signe à lui-même, qu’il n’en avait pas
-honte. Peu lui importait qui le voyait. Il désirait que tout le monde le vît! Et il était placé de telle
-manière que tous ceux qui passaient devant sa maison pouvaient voir ce signe.
-   Vous voyez, beaucoup de gens désirent être des Chrétiens, mais veulent l’être en secret, afin
-que personne dans leur entourage ne sache qu’ils sont Chrétiens. Certains pensent ceci:
-«J’aimerais bien être un Chrétien, mais je ne tiens pas qu’Untel en sache rien».
-   Voyez-vous, ce n’est pas agir en Chrétien. Le Chrétien doit montrer le signe publiquement,
-dans la vie publique, au bureau, dans la rue, quand il y a des troubles, dans l’église, et partout.
-   Le Sang est le Signe, et le Signe doit être appliqué, ou alors l’alliance n’a aucun effet. Le
-sang était un signe ou une identification, identifiant le fait que la personne avait été rachetée.
-   Ils auraient pu dire… Ils avaient été rachetés avant que quoi que ce soit n’arrive. C’est par la foi
-qu’ils avaient appliqué le sang. Avant même qu’arrivât quelque chose, ils appliquèrent le sang
-par la foi, croyant que ces choses arriveraient.
-   Avant que la colère de Dieu ne parcourût le pays, le sang devait être appliqué. Lorsque la
-colère fut tombée sur le pays, il était trop tard.
-   Nous avons ici quelque chose qui devrait nous faire tous réfléchir: avant que ces choses
-n’arrivent. Un temps où vous n’aurez plus la possibilité d’appliquer le sang.
-   L’agneau fut immolé le soir, après avoir été gardé jusqu’au quatorzième jour. Ensuite, l’agneau
-fut immolé, et son sang fut appliqué le soir. Comprenez-vous cela?
-   Le signe ne se manifesta pas avant le soir. Et nous vivons maintenant au soir de cet âge.
-C’est le soir de l’Eglise. C’est le soir pour moi. Pour mon message, c’est aussi le soir. Je vais
-mourir. Je vais m’en aller. Je vais m’en aller au soir du temps de l’Evangile.
-   Nous avons passé par la justification, etc., mais nous sommes maintenant au temps où le Signe
-doit être appliqué. Dimanche passé, je vous ai dit que je voulais vous parler de quelque chose:
-c’est de cela. Nous vivons un temps où vous ne pouvez pas jouer avec ces choses. Il faut agir! Ce
-qui doit être fait doit être fait maintenant ou jamais, parce que nous savons que la colère va se
-répandre sur le pays, et tout ce qui n’est pas sous le Signe périra. Le Sang vous a identifié.
-   Remarquez que la vie de l’animal ne pouvait pas revenir et entrer dans l’être humain. Quand le
-sang était répandu, la vie sortait, bien sûr, parce qu’ils étaient un. Et lorsque la vie du sang était
-partie, la vie étant quelque chose de différent du sang… Or, le sang est la chimie de la vie, mais la
-vie est quelque chose de différent du sang. La vie est dans le sang. Et la vie d’un animal ne
-pouvait pas revenir sur le croyant. Lorsqu’il répandait le sang de l’agneau, il devait appliquer le
-corps chimique, parce que la vie s’en était allée et ne pouvait pas revenir. Elle ne pouvait pas
-revenir sur l’être humain, car la vie animale ne contient pas d’âme. L’animal ne sait pas qu’il est
-nu, et ne peut simplement pas concevoir le péché. Il n’en connaît aucun. Ainsi donc, c’est un
-être vivant, mais pas une âme vivante (1 Corinthiens 15.45). La vie animale ne pouvait donc pas
-revenir sur une vie humaine, parce qu’il n’y avait pas d’âme dans cette vie.
-   Or, il y a une vie… un sang, une vie, et une âme dans la vie. L’âme est la nature de la vie. Par
-conséquent, la bête n’a aucune nature particulière. C’est un animal. Ainsi donc, le sang était un
-signe montrant que la vie avait été livrée.
-   Mais maintenant, sous la Nouvelle Alliance, il y a une différence entre le Sang et la Vie. Pour le
-croyant d’aujourd’hui, le Signe est le Saint-Esprit, et non pas un sang, un produit chimique
-quelconque. C’est le Saint-Esprit de Dieu. C’est le Signe que Dieu requiert aujourd’hui pour
-Son Eglise. Dieu doit voir ce Signe. Il doit le voir dans chacun de nous.
-   Ainsi donc, lorsque s’allongent les ombres du soir, et que la colère est prête à déferler
-d’En-haut sur les nations impies et sur les hommes impies, sur ceux qui confessent, mais ne
+Au lieu d’aller d’église en église dans toute la vallée, je pense que je ferai tout dans une grande rencontre là-bas où tous pourront venir. Nous pouvons louer le temple (nous verrons si c’est possible), et ensuite avoir la Convention des Hommes d’Affaires Chrétiens.
 
-        http://www.cmpp.ch
+En attendant que les voyages à l’étranger se préparent, nous allons essayer de tenir des réunions dans les états du Sud pendant les mois de janvier, février et mars. Ceci, parce que si nous allons en Afrique à Noël, pour eux c’est comme le 4 juillet [fête nationale — N.d.T.]. Chez eux, le temps est mauvais et pluvieux en cette saison, et nous ne pouvons pas y aller. Il est donc préférable d’y aller plus tard.
+
+Nous désirons commencer notre tournée par la Norvège, si c’est possible, et ensuite, nous parcourrons le monde jusqu’en Afrique, où nous nous arrêterons, si le Seigneur le permet.
+
+Mais priez pour nous déjà maintenant. Nous vous aimons; vous le savez. Ainsi, nous nous attendons à recevoir du Seigneur, avec une abondance et une plénitude dépassant tout ce que nous pourrions faire ou penser.
+
+Je crois que ce soir, il y aura un merveilleux service de guérison. Je crois que… Je ne parlerai que très peu, car il y aura un service de Communion. Je me limiterai donc à vingt ou trente minutes; ensuite, nous aurons la prière pour les malades, et immédiatement après, nous prendrons le Repas du Seigneur.
+
+Nous vous invitons cordialement à rester avec nous, et nous serons heureux… Nous ne prenons pas le Repas du Seigneur exclusivement entre nous. Nous invitons chaque croyant, chaque croyant.
+
+Avant de lire l’Ecriture, je pense que nous pourrions incliner nos têtes un moment. Je demanderai à mon cher ami le frère Lee Vayle de bien vouloir nous conduire dans quelques paroles de prière afin que Dieu bénisse Sa Parole. Frère Vayle, voulez-vous faire cela pour nous?
+
+[Frère Vayle prie — N.d.R.]
+
+Maintenant, nous nous approchons de la Parole avec respect. Ce matin, je désire lire Exode, chapitre 12, versets 12 et 13. Dans le verset 11 sont décrits la préparation et le Repas avant le départ.
+
+> “Cette nuit-là, je passerai dans le pays d’Egypte, et je frapperai tous les premiers-nés du pays d’Egypte, depuis les hommes jusqu’aux animaux, et j’exercerai des jugements contre tous les dieux de l’Egypte. Je suis l’Eternel.
+> Le sang vous servira de signe sur les maisons où vous serez; je verrai le sang, et je passerai par-dessus vous, et il n’y aura point de plaie qui vous détruise, quand je frapperai le pays d’Egypte”.
+
+Puisse le Seigneur bénir Sa Parole.
+
+Je désire tirer mon sujet de ce passage. Je prendrai un petit mot de cinq lettres: Signe. Le Signe. Je veux parler, où donner cette leçon d’école du dimanche sur ce mot de Signe. Et la Bible dit: “Le sang vous servira de signe”.
+
+Bien, je ne sais pas… quand je regarde l’horloge et que je vois que l’heure avance… J’ai noté un grand nombre de passages. Ne sachant pas pendant combien de temps je serai loin de vous… Ne sera-ce pas pour certains d’entre vous la dernière fois que nous nous rencontrerons?
+
+Ainsi donc, approchons-nous de la Parole avec tout le respect qui Lui est dû. Je sais que c’est difficile. Le Seigneur nous a donné une belle matinée pour ce culte — une belle matinée. Et essayons maintenant de nous concentrer sur tout ce dont nous allons parler, afin que s’il y a là quelque chose que le Seigneur voudrait vous faire connaître, cela puisse vous être donné.
+
+Nous ne sommes pas ici simplement pour être vus. Nous ne sommes pas venus ici pour que les autres puissent admirer nos vêtements ou… Nous sommes venus dans un but, comme l’a dit notre frère dans sa prière: «Nous sommes ici pour écouter la Parole, la Parole venant à nous». C’est ce que nous désirons, car c’est cela qui aura pour nous une signification, la signification de ce qui est substantiel, de ce qui peut venir à notre secours.
+
+Nous sommes un peuple à l’agonie. Tous les hommes se dirigent vers l’éternité. Et alors… Nous avons un certain temps pour prendre une décision, pour savoir quel chemin nous voulons prendre. Le chemin est devant nous. Nous pouvons prendre le côté que nous désirons choisir. C’est ainsi qu’Il a placé Adam et Eve, et c’est ainsi qu’Il nous place.
+
+Nous devons nous rappeler que, quoi que nous fassions ou quelque succès que nous ayons, dans notre vie, sans Christ, nous avons tout perdu.
+
+Ainsi donc, s’Il est tout ce que nous devons rechercher, nous serions les gens les plus stupides qui soient, si nous n’acceptions pas et n’aimions pas Sa Parole. Il ne suffit pas de L’accepter, il faut faire quelque chose de plus grand. Après que vous L’ayez reçue, ne vous contentez pas de La poser sur une étagère — mettez-la en pratique!
+
+C’est comme si vous allez chez le médecin, que vous receviez un médicament et que vous le posiez sans autre sur une étagère. Si vous devez prendre un médicament, prenez-le! Si une maladie vous tourmente, et que ce médicament est censé vous soulager, prenez ce qu’il peut vous donner. Et prenez-le exactement quand le médecin vous dit de le prendre, parce que quelques petites minutes peuvent faire une grande différence, pour ce qui est du résultat.
+
+Comment pouvons-nous savoir si, aujourd’hui, l’instant de votre décision ne va pas déterminer votre destinée éternelle? Prenez-Le au moment même où Il vous Le tend!
+
+Un signe… “Le sang vous servira de signe…”. Mais, pour commencer, qu’est-ce qu’un signe? [Le mot anglais pour «signe» est «token», qui peut avoir le sens indiqué ci-dessous — N.d.T.]. Je vous enseigne que ce mot décrit quelque chose qui nous indique que le prix de quelque chose a été payé (comme le prix d’un billet de chemin de fer).
+
+Quand vous payez votre passage, on vous donne un signe. Et ce signe ne peut être utilisé sur rien d’autre que sur une ligne de chemin de fer déterminée. C’est pour la compagnie de chemin de fer, un signe que vous avez payé votre passage. C’est un signe, et vous ne pouvez l’utiliser pour rien d’autre. Il n’est valable sur aucune autre ligne. Il est valable uniquement pour cette ligne-là. C’est un signe.
+
+Pour revenir à ce dont nous parlions, Dieu dit à Israël: “Le sang de l’agneau vous servira de signe”.
+
+L’agneau immolé d’Israël était le signe requis par Jéhovah. Ce devait être le sang. Aucun autre signe n’aurait eu le moindre effet. Il ne pouvait être reconnu.
+
+Pour le monde, tout cela n’est qu’un tas de sottises, mais pour Dieu, c’est l’UNIQUE moyen. Ce signe est la seule chose qu’Il requière; il doit être là, et vous ne pouvez pas avoir le signe tant que le prix n’est pas payé.
+
+Alors, vous êtes le possesseur du Signe qui vous donne le privilège d’un libre passage. “Je verrai le Sang, et Je passerai par-dessus vous”.
+
+Quel privilège que de savoir que vous avez avec vous le “passeport” — “Quand Je verrai le Sang, Je passerai par-dessus vous”.
+
+C’est la seule chose qu’Il reconnaîtra. Rien d’autre ne peut prendre sa place — aucun substitut, aucune dénomination, rien d’autre.
+
+Dieu dit: “Je Le verrai”.
+
+Peu importe combien ils étaient justes, combien ils étaient bons, quelle était leur instruction, comment ils s’habillaient, seul comptait le Signe. “Je verrai le Sang, et je passerai par-dessus vous”.
+
+Le sang était un signe montrant que les exigences de Jéhovah étaient remplies, que tout était accompli. Le sang était un Signe. Le sang était le Signe. Comprenez-vous?
+
+Il y avait une vie dont Dieu avait dit: “Le jour où vous en mangerez, vous mourrez”. Une vie avait été prise, étant un substitut pour la vie du croyant. Dieu, dans Sa grâce, acceptait un substitut pour la vie de la personne souillée.
+
+Quand Son enfant s’est souillé Lui-même en commettant le péché d’incrédulité à la Parole, Dieu, dans la richesse de Sa grâce, établit un substitut; quelque chose devait mourir à la place du pécheur. Rien d’autre ne pouvait agir.
+
+C’est pourquoi les pommes et les pêches de Caïn n’avaient aucune valeur. Il fallait que ce fût une vie qui eût du sang en elle, et que cette vie s’en allât par le sacrifice. Le sang était le signe que le commandement de Dieu avait été exécuté.
+
+Qu’est-ce que Dieu voulait? — la vie. Le sang montrait qu’une vie avait dû être retranchée, que quelque chose était mort. Selon le commandement de Dieu, une vie avait été livrée, et le sang avait été répandu. Et le sang était le signe montrant que la vie s’en était allée. La vie de l’animal que Dieu avait ordonné de prendre… Le sang leur était un signe.
+
+Celui qui adorait Dieu, le croyant, était identifié avec son sacrifice par le signe.
+
+Je ne voudrais pas m’étendre trop longuement sur le petit passage que je viens de citer (je pourrais faire une prédication entière sur l’un d’entre eux), mais je voudrais quand même m’arrêter un moment sur ce passage pour montrer que le croyant devait être identifié avec son sacrifice.
+
+S’il avait offert le sacrifice n’importe où, au dehors de chez lui, il l’aurait bien sûr offert. Mais il fallait que le croyant fût identifié en lui. Il devait premièrement poser ses mains sur le sacrifice, afin de s’identifier avec lui. Ensuite, le sang devait être placé là où il pourrait se tenir sous le sang.
+
+Le sang devait être au-dessus de lui, et ceci était un signe montrant qu’il s’était reconnu coupable, et qu’un substitut innocent avait pris sa place.
+
+Quelle belle image! Un racheté! Justice avait été faite, et les exigences de la Sainte Justice de Dieu avaient été remplies. Or, Dieu avait dit: “Ce que je veux, c’est ta vie!”.
+
+Ainsi donc, lorsque la vie avait péché, un substitut innocent prenait sa place. C’était une bête ayant du sang, et non pas une pomme ou une pêche.
+
+Cela devrait rendre cette semence du serpent absolument claire pour chacun: Il fallait que ce fût du sang, et ce sang, qui ne pouvait pas provenir d’un fruit, fut versé par un substitut innocent. Cette vie s’en était allée à sa place, et le sang était un symbole montrant que la bête était morte, et que le sang était sorti d’elle.
+
+Le croyant, appliquant le sang au-dessus de lui, montrait qu’il était identifié à la rédemption, parce qu’il s’identifiait avec le sacrifice, établissant une relation entre lui et le sacrifice, et le sang était le signe témoignant de cela. Comme c’est merveilleux! Quelle image! C’est le type parfait de Christ. Exactement!
+
+Le croyant, aujourd’hui, se tenant sous le Sang répandu, identifié au Sacrifice — tout cela est absolument parfait!
+
+Et comme Christ, n’étant pas un animal… vous voyez, l’animal mourait; c’était ce que nous avions de plus innocent, je pense, et le plus innocent de tous était l’agneau. Lorsque Dieu voulut identifier Jésus-Christ, Il L’identifia à un agneau. Et lorsqu’Il désirait S’identifier Lui-même, Il S’identifiait à un oiseau, à une colombe. La colombe est l’oiseau le plus innocent et le plus pur, et l’agneau est l’animal le plus innocent et le plus pur.
+
+Voyez ce qui arriva lorsque Jésus fut baptisé par Jean. La Bible dit: “… il vit l’Esprit de Dieu descendre comme une colombe et venir sur lui”.
+
+Si cela avait été un loup, ou n’importe quel autre animal, … la nature de la colombe n’aurait pas pu s’accorder avec celle du loup. Elle n’aurait pas pu s’accorder mieux avec n’importe quel autre animal, excepté l’agneau. Et ces deux natures s’unirent. Il pouvait y avoir une entente entre elles.
+
+Discernez-vous la prédestination? C’était un agneau qui vint parmi nous. C’était un agneau. Il naquit comme un agneau et fut élevé comme un agneau.
+
+C’est pourquoi, cela, c’est le seul vrai Esprit pouvant recevoir la Parole — pouvant recevoir Christ. Les autres essaieront. Ils essaieront, et feront venir l’Esprit de Dieu sur un loup, vous comprenez? — sur de la colère, de la méchanceté, de l’ignominie. Il n’y restera pas. Le Saint-Esprit s’enfuira immédiatement. Il ne veut pas de cela.
+
+Que se serait-il passé si la Colombe était descendue sur un autre animal qu’un Agneau? Elle se serait enfuie à tire-d’ailes, et serait retournée d’où elle était venue. Mais lorsqu’Elle trouva cette nature avec laquelle Elle pouvait s’accorder, Elle devint Une avec Lui. Alors, la Colombe conduisit l’Agneau. Remarquez qu’Elle conduisit l’Agneau au sacrifice.
+
+Or, l’Agneau était soumis à la Colombe. Peu importe où Elle Le conduisait, Il acceptait d’y aller.
+
+Aujourd’hui, je me demande, quand Dieu nous conduit à une vie de complète soumission à Son service, je me demande si, parfois, notre esprit ne se rebelle pas… je me demande si nous sommes réellement des agneaux!
+
+Un agneau est soumis. Un agneau se sacrifie. Il ne réclame rien pour lui. Vous pouvez l’étendre sur le sol et lui tondre toute sa laine (c’est tout ce qu’il possède) — il ne se plaindra pas, il sacrifie tout ce qu’il possède. C’est un agneau. Il donne tout, il abandonne tout ce qu’il possède. C’est ainsi qu’est la vie d’un vrai Chrétien. Il se sacrifie lui-même, n’ayant aucun souci du monde, mais donnant à Dieu tout ce qu’il a.
+
+Christ, Lui, fut un Agneau parfait. En Egypte, le sang fut versé par le moyen d’un agneau naturel. Et cela était un signe. Mais alors, quelle pouvait bien être la raison pour laquelle le Sang de l’Agneau fut versé? — c’est le signe que nous sommes morts à nous-mêmes et identifiés avec notre Sacrifice. Alors l’Agneau, le Sang et la personne s’identifient — le Sacrifice et le croyant.
+
+Vous êtes identifiés dans votre vie par votre Sacrifice. C’est cela qui fait que vous êtes ce que vous êtes. Ainsi donc, le sang était un signe d’identification. Le sang indiquait que l’adorateur avait sacrifié l’agneau, qu’il l’avait accepté et avait appliqué le signe à lui-même, qu’il n’en avait pas honte. Peu lui importait qui le voyait. Il désirait que tout le monde le vît! Et il était placé de telle manière que tous ceux qui passaient devant sa maison pouvaient voir ce signe.
+
+Vous voyez, beaucoup de gens désirent être des Chrétiens, mais veulent l’être en secret, afin que personne dans leur entourage ne sache qu’ils sont Chrétiens. Certains pensent ceci: «J’aimerais bien être un Chrétien, mais je ne tiens pas qu’Untel en sache rien».
+
+Voyez-vous, ce n’est pas agir en Chrétien. Le Chrétien doit montrer le signe publiquement, dans la vie publique, au bureau, dans la rue, quand il y a des troubles, dans l’église, et partout.
+
+Le Sang est le Signe, et le Signe doit être appliqué, ou alors l’alliance n’a aucun effet. Le sang était un signe ou une identification, identifiant le fait que la personne avait été rachetée.
+
+Ils auraient pu dire… Ils avaient été rachetés avant que quoi que ce soit n’arrive. C’est par la foi qu’ils avaient appliqué le sang. Avant même qu’arrivât quelque chose, ils appliquèrent le sang par la foi, croyant que ces choses arriveraient.
+
+Avant que la colère de Dieu ne parcourût le pays, le sang devait être appliqué. Lorsque la colère fut tombée sur le pays, il était trop tard.
+
+Nous avons ici quelque chose qui devrait nous faire tous réfléchir: avant que ces choses n’arrivent. Un temps où vous n’aurez plus la possibilité d’appliquer le sang.
+
+L’agneau fut immolé le soir, après avoir été gardé jusqu’au quatorzième jour. Ensuite, l’agneau fut immolé, et son sang fut appliqué le soir. Comprenez-vous cela?
+
+Le signe ne se manifesta pas avant le soir. Et nous vivons maintenant au soir de cet âge. C’est le soir de l’Eglise. C’est le soir pour moi. Pour mon message, c’est aussi le soir. Je vais mourir. Je vais m’en aller. Je vais m’en aller au soir du temps de l’Evangile.
+
+Nous avons passé par la justification, etc., mais nous sommes maintenant au temps où le Signe doit être appliqué. Dimanche passé, je vous ai dit que je voulais vous parler de quelque chose: c’est de cela. Nous vivons un temps où vous ne pouvez pas jouer avec ces choses. Il faut agir! Ce qui doit être fait doit être fait maintenant ou jamais, parce que nous savons que la colère va se répandre sur le pays, et tout ce qui n’est pas sous le Signe périra. Le Sang vous a identifié.
+
+Remarquez que la vie de l’animal ne pouvait pas revenir et entrer dans l’être humain. Quand le sang était répandu, la vie sortait, bien sûr, parce qu’ils étaient un. Et lorsque la vie du sang était partie, la vie étant quelque chose de différent du sang… Or, le sang est la chimie de la vie, mais la vie est quelque chose de différent du sang. La vie est dans le sang. Et la vie d’un animal ne pouvait pas revenir sur le croyant. Lorsqu’il répandait le sang de l’agneau, il devait appliquer le corps chimique, parce que la vie s’en était allée et ne pouvait pas revenir. Elle ne pouvait pas revenir sur l’être humain, car la vie animale ne contient pas d’âme. L’animal ne sait pas qu’il est nu, et ne peut simplement pas concevoir le péché. Il n’en connaît aucun. Ainsi donc, c’est un être vivant, mais pas une âme vivante (1 Corinthiens 15.45). La vie animale ne pouvait donc pas revenir sur une vie humaine, parce qu’il n’y avait pas d’âme dans cette vie.
+
+Or, il y a une vie… un sang, une vie, et une âme dans la vie. L’âme est la nature de la vie. Par conséquent, la bête n’a aucune nature particulière. C’est un animal. Ainsi donc, le sang était un signe montrant que la vie avait été livrée.
+
+Mais maintenant, sous la Nouvelle Alliance, il y a une différence entre le Sang et la Vie. Pour le croyant d’aujourd’hui, le Signe est le Saint-Esprit, et non pas un sang, un produit chimique quelconque. C’est le Saint-Esprit de Dieu. C’est le Signe que Dieu requiert aujourd’hui pour Son Eglise. Dieu doit voir ce Signe. Il doit le voir dans chacun de nous.
+
+Ainsi donc, lorsque s’allongent les ombres du soir, et que la colère est prête à déferler d’En-haut sur les nations impies et sur les hommes impies, sur ceux qui confessent, mais ne
 
 LE SIGNE 7
 possèdent rien, sur tout cela… J’ai essayé de m’expliquer et de vivre droitement au milieu de vous,
@@ -598,291 +524,101 @@ colère de Dieu.
         http://www.cmpp.ch
 
 LE SIGNE 12
-   Vous pourriez être un croyant. Vous pourriez être en chaire et prêcher l’Evangile, “Plusieurs me
-diront en ce jour-là: Seigneur, Seigneur, n’avons-nous pas prophétisé par Ton Nom? N’avons-nous
-pas chassé des démons par Ton Nom?… N’avons-nous pas prêché en Ton Nom?…” (cela est
-aussi valable pour les Méthodistes que pour les Baptistes ou les Pentecôtistes). Mais Jésus leur
-répondra: “Je ne vous ai jamais connus, retirez-vous de moi, vous qui commettez l’iniquité”.
-   Mais “quand Je verrai le Signe, Je passerai par-dessus vous”. C’est cela que Dieu exige pour
-l’heure. Le Message du soir enseigne à appliquer le Signe.
-   Satan sèmera toutes sortes de contrefaçons, de cérémonies, etc: N’EN TENEZ AUCUN
-COMPTE! L’heure du Signe Lui-même est arrivée, et non plus l’heure d’une contrefaçon, d’un
-succédané quelconque. L’heure est venue où le Signe Lui-même L’identifie parmi nous, prouvant
-qu’Il est le même Jésus hier, aujourd’hui et éternellement, et qu’Il est en accord avec la Parole.
-   Le Signe doit être appliqué. Qu’en est-il d’un homme qui prétend avoir le Signe et qui renie la
-Parole? Vous ne pouvez pas faire cela! Le Signe doit être là! “Le Sang vous servira de Signe!”.
-   Or, le Saint-Esprit… la Vie qui était dans le Sang est un Signe pour vous. Je vais arriver à cela
-dans un instant. Le Saint-Esprit est le Signe. Alors, l’affaire est classée.
-   Rappelez-vous bien ceci: Peu importe ce que vous êtes; que vous soyez un homme de bien,
-que vous sautilliez de-ci, de-là; que vous ayez fréquenté un grand nombre d’églises; que vous
-ayez fait de nombreuses bonnes oeuvres. Cela ne vous servira à rien, si vous n’avez pas le Signe.
-Nous sommes au temps du soir!
-   Tout cela convenait très bien au temps de Luther. Tout cela convenait très bien au temps de
-Wesley. Mais cela ne convient plus aujourd’hui. Non!
-   … garder l’agneau était une bonne chose à faire. Pour ceux qui moururent avant que le Sang
-fût appliqué, c’était différent. Oui! Ils s’en allèrent avec une bonne conscience. Ils seraient jugés…
-S’ils étaient prédestinés, ils avaient été touchés. Autrement pas. Tout est là. Tout cela vient de
-Dieu.
-   Il justifie qui Il veut, exerce Sa miséricorde sur qui Il veut, et condamne qui Il veut. Il est Dieu.
-C’est tout. Il fait miséricorde à qui Il fait miséricorde, et condamne qui Il veut condamner. Un Juif
-pouvait clairement montrer par la circoncision qu’il était un croyant.
-   Il y a beaucoup d’hommes, les fondamentalistes, qui peuvent prendre cette Bible et dire: «Je
-suis un croyant!».
+   Vous pourriez être un croyant. Vous pourriez être en chaire et prêcher l’Evangile, “Plusieurs me diront en ce jour-là: Seigneur, Seigneur, n’avons-nous pas prophétisé par Ton Nom? N’avons-nous pas chassé des démons par Ton Nom?… N’avons-nous pas prêché en Ton Nom?…” (cela est aussi valable pour les Méthodistes que pour les Baptistes ou les Pentecôtistes). Mais Jésus leur répondra: “Je ne vous ai jamais connus, retirez-vous de moi, vous qui commettez l’iniquité”.
+   Mais “quand Je verrai le Signe, Je passerai par-dessus vous”. C’est cela que Dieu exige pour l’heure. Le Message du soir enseigne à appliquer le Signe.
+   Satan sèmera toutes sortes de contrefaçons, de cérémonies, etc: N’EN TENEZ AUCUN COMPTE! L’heure du Signe Lui-même est arrivée, et non plus l’heure d’une contrefaçon, d’un succédané quelconque. L’heure est venue où le Signe Lui-même L’identifie parmi nous, prouvant qu’Il est le même Jésus hier, aujourd’hui et éternellement, et qu’Il est en accord avec la Parole.
+   Le Signe doit être appliqué. Qu’en est-il d’un homme qui prétend avoir le Signe et qui renie la Parole? Vous ne pouvez pas faire cela! Le Signe doit être là! “Le Sang vous servira de Signe!”.
+   Or, le Saint-Esprit… la Vie qui était dans le Sang est un Signe pour vous. Je vais arriver à cela dans un instant. Le Saint-Esprit est le Signe. Alors, l’affaire est classée.
+   Rappelez-vous bien ceci: Peu importe ce que vous êtes; que vous soyez un homme de bien, que vous sautilliez de-ci, de-là; que vous ayez fréquenté un grand nombre d’églises; que vous ayez fait de nombreuses bonnes oeuvres. Cela ne vous servira à rien, si vous n’avez pas le Signe. Nous sommes au temps du soir!
+   Tout cela convenait très bien au temps de Luther. Tout cela convenait très bien au temps de Wesley. Mais cela ne convient plus aujourd’hui. Non!
+   … garder l’agneau était une bonne chose à faire. Pour ceux qui moururent avant que le Sang fût appliqué, c’était différent. Oui! Ils s’en allèrent avec une bonne conscience. Ils seraient jugés… S’ils étaient prédestinés, ils avaient été touchés. Autrement pas. Tout est là. Tout cela vient de Dieu.
+   Il justifie qui Il veut, exerce Sa miséricorde sur qui Il veut, et condamne qui Il veut. Il est Dieu. C’est tout. Il fait miséricorde à qui Il fait miséricorde, et condamne qui Il veut condamner. Un Juif pouvait clairement montrer par la circoncision qu’il était un croyant.
+   Il y a beaucoup d’hommes, les fondamentalistes, qui peuvent prendre cette Bible et dire: «Je suis un croyant!».
    Et Jésus a dit: “Vous serez sauvés par la foi”.
-   Certains disent: «Je suis un croyant, mais le baptême du Saint-Esprit est un non-sens». Alors,
-le Signe n’est pas appliqué. Quelle que soit sa foi, elle est annulée.
-   C’est comme la circoncision pour les Juifs. Le Juif disait: «Je suis un Juif. Pourquoi devrais-je
-agir comme cette bande de fanatiques?».
-   Moïse parcourut les rues, disant: “Le message du soir est là! Le quatorzième jour, vous vous
-assemblerez pour immoler l’agneau. Toute l’assemblée d’Israël l’immolera et posera ses mains sur
-lui, s’identifiant avec lui. Le sang sera appliqué sur le linteau et les poteaux de la porte. Et quand
-Je verrai le sang, Je passerai par-dessus vous, car c’est un signe que vous avez accepté la
-mort de l’agneau qui vous a été donné”.
-   Le sang était le Signe. Maintenant, c’est l’Esprit qui est le Signe. “Dans peu de jours, vous
-serez remplis du Saint-Esprit”. Et quand le Sang fut répandu, le Signe fut envoyé le jour de
-Pentecôte, semblable à un vent mugissant…
-   Cela, c’était le thème de chaque apôtre: “Avez-vous reçu le Saint-Esprit, après avoir cru?”.
-“Repentez-vous, chacun de vous, et soyez baptisés au Nom de Jésus-Christ pour la rémission des
-péchés, et vous recevrez le don du Saint-Esprit, car c’est un Signe (Amen!) que vous êtes
-passés de la mort à la Vie”. Voilà!
-   Lorsque l’Eglise Juive disparut, ce sont les nations qui prirent la relève, au milieu de toute cette
-perversion. Maintenant, un reste de cette Eglise des nations sortira pour la Gloire de Son Nom:
-l’Epouse. Comprenez-vous ce que je veux dire? Comprenez-vous de quoi parle l’Ecriture ici? Si le
-Signe n’était pas appliqué, l’alliance restait sans effet. Il faut qu’il en soit ainsi, parce que si vous
-dites que vous croyez et que vous ne suiviez pas les instructions de la Parole, alors vous
-ne croyez pas.
+   Certains disent: «Je suis un croyant, mais le baptême du Saint-Esprit est un non-sens». Alors, le Signe n’est pas appliqué. Quelle que soit sa foi, elle est annulée.
+   C’est comme la circoncision pour les Juifs. Le Juif disait: «Je suis un Juif. Pourquoi devrais-je agir comme cette bande de fanatiques?».
+   Moïse parcourut les rues, disant: “Le message du soir est là! Le quatorzième jour, vous vous assemblerez pour immoler l’agneau. Toute l’assemblée d’Israël l’immolera et posera ses mains sur lui, s’identifiant avec lui. Le sang sera appliqué sur le linteau et les poteaux de la porte. Et quand Je verrai le sang, Je passerai par-dessus vous, car c’est un signe que vous avez accepté la mort de l’agneau qui vous a été donné”.
+   Le sang était le Signe. Maintenant, c’est l’Esprit qui est le Signe. “Dans peu de jours, vous serez remplis du Saint-Esprit”. Et quand le Sang fut répandu, le Signe fut envoyé le jour de Pentecôte, semblable à un vent mugissant…
+   Cela, c’était le thème de chaque apôtre: “Avez-vous reçu le Saint-Esprit, après avoir cru?”. “Repentez-vous, chacun de vous, et soyez baptisés au Nom de Jésus-Christ pour la rémission des péchés, et vous recevrez le don du Saint-Esprit, car c’est un Signe (Amen!) que vous êtes passés de la mort à la Vie”. Voilà!
+   Lorsque l’Eglise Juive disparut, ce sont les nations qui prirent la relève, au milieu de toute cette perversion. Maintenant, un reste de cette Eglise des nations sortira pour la Gloire de Son Nom: l’Epouse. Comprenez-vous ce que je veux dire? Comprenez-vous de quoi parle l’Ecriture ici? Si le Signe n’était pas appliqué, l’alliance restait sans effet. Il faut qu’il en soit ainsi, parce que si vous dites que vous croyez et que vous ne suiviez pas les instructions de la Parole, alors vous ne croyez pas.
 
         http://www.cmpp.ch
 
 LE SIGNE 13
-   Vous pouvez bien être circoncis. Vous pouvez joindre une église et être baptisé. Vous pouvez
-faire toutes ces choses. Pourtant, tout cela n’est pas le Signe, le Saint-Esprit.
-   Je continuai à parler à ce théologien que j’ai mentionné plus haut. Il me dit: «Billy, Abraham eut
-foi en Dieu, et cela lui fut imputé à justice. Qu’aurait-il pu faire de plus que croire en Dieu?».
-   Je répondis: «C’est vrai, monsieur. C’est vrai. Il crut en Dieu. C’est la Bible qui le dit. Vous avez
-raison. Jusque là, vous avez raison. Aussi longtemps que les espions marchèrent en Canaan, tout
-était en ordre, mais en arrivant à la frontière, alors ils abandonnèrent!». Je lui dis encore: «Vous
-autres Baptistes, êtes tout-à-fait en règle jusqu’au point où vous êtes allés, mais avez-vous reçu
-le Saint-Esprit, après avoir cru? Rappelez-vous que Dieu a reconnu la foi d’Abraham. Il croyait
-en Dieu, et cela lui fut imputé à justice. Cela est vrai. Mais ensuite, Dieu lui donna le sceau de la
-circoncision comme signe. Ce fut un signe, pour lui. Cela ne veut pas dire que la circoncision de
-sa chair ait eu un rapport quelconque avec son âme, mais cela fut un signe par lequel Dieu
-reconnut sa foi. Et à nous, Il nous donne le Signe du Saint-Esprit, nous reconnaissant ainsi
-comme croyants. Car il est dit: “Repentez-vous et soyez baptisés au Nom de Jésus-Christ pour la
-rémission des péchés, et vous recevrez le don du Saint-Esprit. Car la promesse est pour vous…”».
-Comprenez-vous cela, maintenant?
-   Pour les Juifs, peu importait qu’ils pussent prouver leur circoncision, le signe devait être
-appliqué. Autrement leur alliance restait sans effet. Aujourd’hui, il en va de même. Peu importe ce
-que vous faites, peu importe que vous puissiez expliquer la Bible (vous pourriez étudier la Bible et
-être…); vous pourriez dire: «Je suis un croyant», et tout ce que vous voudrez — mais néanmoins,
-le Signe est exigé.
-   … Vous pouvez dire: «J’étais quelqu’un de bien, frère Branham». «Les gens peuvent dire ce
-qu’ils veulent, il n’y a pas d’homme meilleur que lui. Je ne l’ai jamais vu faire quelque chose de mal
-dans sa vie». Cela n’a absolument rien à voir avec Dieu. Une seule chose est requise, une seule.
-Vous ne pouvez pas appliquer le sang sur le linteau de la porte, vous ne pouvez pas appliquer
-le signe, si l’agneau n’est pas mort. Et le sang était un signe positif, témoignant que l’agneau
-était mort. Il ne pouvait y avoir de contrefaçon. L’agneau était bien mort.
-   Le Saint-Esprit est un Signe que votre Agneau est mort et que vous avez reçu ce Signe sur
-vous-même, car Sa Vie Elle-même est en vous. Vous comprenez? Il n’y a pas de contrefaçon
-possible ou d’imitation. Il est là. Vous le savez. Le monde le sait. Ce Signe est là.
-   Peu importe la bonté de la personne. Qu’elle soit quelqu’un qui fasse des études de théologie,
-ou que ce soit un bon membre d’église, quelqu’un de bien, un chef de dénomination, un membre
-de la hiérarchie Romaine, etc. Peu importe la personne, tout cela ne vaut rien du tout.
-   Mais Israël… Tous ceux qui étudient la Bible savent qu’Israël était un type de l’Eglise qui sera
-conduite au Pays de la Promesse. Et c’est dans cette direction qu’elle est en train de voyager.
-Mais pendant le voyage, lorsque vint le soir, il y eut un commandement solennel; peu importait
-qu’ils fussent Juifs, qu’ils prissent soin de leurs récoltes, qu’ils eussent des égards pour leurs
-voisins, qu’ils fussent de bons membres de l’assemblée, qu’ils payassent beaucoup de dîmes; tout
-cela était très bien: ils étaient des hommes de bien, reconnus comme tels parmi les leurs. Malgré
-tout, sans le signe du sang, ils auraient péri.
-   Oh, que Dieu me vienne en aide, afin que je puisse bien faire comprendre cela dans cette salle,
-et par les bandes! Vous pourriez avoir prêché l’Evangile, chassé des démons, parlé en langues,
-crié, dansé dans l’Esprit — sans le Signe…
+   Vous pouvez bien être circoncis. Vous pouvez joindre une église et être baptisé. Vous pouvez faire toutes ces choses. Pourtant, tout cela n’est pas le Signe, le Saint-Esprit.
+   Je continuai à parler à ce théologien que j’ai mentionné plus haut. Il me dit: «Billy, Abraham eut foi en Dieu, et cela lui fut imputé à justice. Qu’aurait-il pu faire de plus que croire en Dieu?».
+   Je répondis: «C’est vrai, monsieur. C’est vrai. Il crut en Dieu. C’est la Bible qui le dit. Vous avez raison. Jusque là, vous avez raison. Aussi longtemps que les espions marchèrent en Canaan, tout était en ordre, mais en arrivant à la frontière, alors ils abandonnèrent!». Je lui dis encore: «Vous autres Baptistes, êtes tout-à-fait en règle jusqu’au point où vous êtes allés, mais avez-vous reçu le Saint-Esprit, après avoir cru? Rappelez-vous que Dieu a reconnu la foi d’Abraham. Il croyait en Dieu, et cela lui fut imputé à justice. Cela est vrai. Mais ensuite, Dieu lui donna le sceau de la circoncision comme signe. Ce fut un signe, pour lui. Cela ne veut pas dire que la circoncision de sa chair ait eu un rapport quelconque avec son âme, mais cela fut un signe par lequel Dieu reconnut sa foi. Et à nous, Il nous donne le Signe du Saint-Esprit, nous reconnaissant ainsi comme croyants. Car il est dit: “Repentez-vous et soyez baptisés au Nom de Jésus-Christ pour la rémission des péchés, et vous recevrez le don du Saint-Esprit. Car la promesse est pour vous…”». Comprenez-vous cela, maintenant?
+   Pour les Juifs, peu importait qu’ils pussent prouver leur circoncision, le signe devait être appliqué. Autrement leur alliance restait sans effet. Aujourd’hui, il en va de même. Peu importe ce que vous faites, peu importe que vous puissiez expliquer la Bible (vous pourriez étudier la Bible et être…); vous pourriez dire: «Je suis un croyant», et tout ce que vous voudrez — mais néanmoins, le Signe est exigé.
+   … Vous pouvez dire: «J’étais quelqu’un de bien, frère Branham». «Les gens peuvent dire ce qu’ils veulent, il n’y a pas d’homme meilleur que lui. Je ne l’ai jamais vu faire quelque chose de mal dans sa vie». Cela n’a absolument rien à voir avec Dieu. Une seule chose est requise, une seule. Vous ne pouvez pas appliquer le sang sur le linteau de la porte, vous ne pouvez pas appliquer le signe, si l’agneau n’est pas mort. Et le sang était un signe positif, témoignant que l’agneau était mort. Il ne pouvait y avoir de contrefaçon. L’agneau était bien mort.
+   Le Saint-Esprit est un Signe que votre Agneau est mort et que vous avez reçu ce Signe sur vous-même, car Sa Vie Elle-même est en vous. Vous comprenez? Il n’y a pas de contrefaçon possible ou d’imitation. Il est là. Vous le savez. Le monde le sait. Ce Signe est là.
+   Peu importe la bonté de la personne. Qu’elle soit quelqu’un qui fasse des études de théologie, ou que ce soit un bon membre d’église, quelqu’un de bien, un chef de dénomination, un membre de la hiérarchie Romaine, etc. Peu importe la personne, tout cela ne vaut rien du tout.
+   Mais Israël… Tous ceux qui étudient la Bible savent qu’Israël était un type de l’Eglise qui sera conduite au Pays de la Promesse. Et c’est dans cette direction qu’elle est en train de voyager. Mais pendant le voyage, lorsque vint le soir, il y eut un commandement solennel; peu importait qu’ils fussent Juifs, qu’ils prissent soin de leurs récoltes, qu’ils eussent des égards pour leurs voisins, qu’ils fussent de bons membres de l’assemblée, qu’ils payassent beaucoup de dîmes; tout cela était très bien: ils étaient des hommes de bien, reconnus comme tels parmi les leurs. Malgré tout, sans le signe du sang, ils auraient péri.
+   Oh, que Dieu me vienne en aide, afin que je puisse bien faire comprendre cela dans cette salle, et par les bandes! Vous pourriez avoir prêché l’Evangile, chassé des démons, parlé en langues, crié, dansé dans l’Esprit — sans le Signe…
    Vous direz: «Est-ce possible?».
-   Paul dit que c’est possible. “Si je parle les langues des hommes et des anges; si je donne tous
-mes biens aux pauvres; si mon corps est brûlé en sacrifice; si j’ai la foi qui déplace les montagnes,
-etc… Avec tout cela, je ne suis rien du tout!”. Ne mettez pas votre confiance en ces choses! Ce
-qui compte, c’est le signe! Peu importe le bien que vous ayez pu faire, peu importe que vous
-soyez un homme de bien. Quand la colère de Dieu éclatera, la seule chose qu’elle reconnaîtra,
-c’est le Signe!
-   C’est ce qui est exigé: un Signe montrant que le prix a été payé. Le prix payé fut la Vie de
-Jésus-Christ, qui donna Sa Vie; et Son Esprit est revenu sur vous; comme étant le Signe
-manifestant que vous avez été agréé.
-   Alors, vous portez le Signe sur vous, jour et nuit, et non pas seulement le dimanche. Il est
-là tout le temps. Vous avez le Signe sur vous.
+   Paul dit que c’est possible. “Si je parle les langues des hommes et des anges; si je donne tous mes biens aux pauvres; si mon corps est brûlé en sacrifice; si j’ai la foi qui déplace les montagnes, etc… Avec tout cela, je ne suis rien du tout!”. Ne mettez pas votre confiance en ces choses! Ce qui compte, c’est le signe! Peu importe le bien que vous ayez pu faire, peu importe que vous soyez un homme de bien. Quand la colère de Dieu éclatera, la seule chose qu’elle reconnaîtra, c’est le Signe!
+   C’est ce qui est exigé: un Signe montrant que le prix a été payé. Le prix payé fut la Vie de Jésus-Christ, qui donna Sa Vie; et Son Esprit est revenu sur vous; comme étant le Signe manifestant que vous avez été agréé.
+   Alors, vous portez le Signe sur vous, jour et nuit, et non pas seulement le dimanche. Il est là tout le temps. Vous avez le Signe sur vous.
 
         http://www.cmpp.ch
 
 LE SIGNE 14
-   Le Sang vous servira de Signe. Vous dites: «Je crois; je suis un croyant». C’est très bien,
-mais si vous rejetez le Signe, alors comment pouvez-vous être un croyant? Il vous accuse! Il
-parle contre votre témoignage! Que vous soyez un étudiant en théologie, un homme de bien, un
-membre d’église ou quoi que ce soit, cela n’a aucune valeur. Parfaitement!
-   Votre père peut être un prédicateur et votre mère une sainte. C’est très bien! Mais ils seront
-responsables pour eux-mêmes.
-   Comme je l’ai déjà dit, certaines personnes essaient de faire de Dieu un bon vieux grand-père
-un peu gâteux, Ses petits-enfants étant une bande de «Rickys» et de «Elvis»; et Lui-même étant
-quelqu’un de pas bien féroce. Non! Dieu n’a pas de petits-enfants. Dieu est un Père! Vous devez
-naître de nouveau! Il n’est pas un bon gros vieillard radotant. Il est le Dieu du jugement. C’est la
-Bible qui le dit — Sa colère est terrible!
-   Ne méprisez pas ces choses, vous attendant à ce que la bonté de Dieu vous prenne un jour
-dans votre péché, et vous conduise au Ciel. S’Il avait agi de cette manière, Il aurait excusé tout ce
-qui se passe ici-bas… Vous devez croire Sa Parole, ou périr. Et quand vous croirez! Sa Parole,
-le Signe sera sur vous.
-   Cette nuit-là, la mort était prête à frapper l’Egypte à n’importe quel moment. Ce fut un moment
-terrible. Leurs cérémonies, leurs fêtes, leurs jeûnes… Dieu les avait visités. Il avait montré de
-grands signes et de grands miracles au milieu d’eux.
-   Arrêtons-nous un moment à cela. Dieu leur avait manifesté Sa Grâce. Il leur donna une
-chance. Ils ne pouvaient pas la méconnaître. Mais ils dirent: “Tout cela n’est rien. C’est
-simplement quelque chose qui s’est passé là-haut, dans les cataractes. C’est de la boue qui a
-teinté le fleuve en route. C’est pourquoi le fleuve a la couleur du sang”.
-   Ensuite vint la grêle; puis, les grenouilles — Dieu avait préparé un endroit et mis Sa Parole
-dans la bouche d’un prophète, et quand il parlait, cela arrivait. Et ils virent ces choses, et ne
-purent les nier.
-   Ce que Moïse disait, c’est ce qu’il recevait de Dieu, parce qu’il ne prononçait rien d’autre que la
-Parole de Dieu. Dieu dit: “Je ferai de toi un dieu”.
-   Moïse était un dieu pour eux. Ils ne voyaient pas la différence, aussi lui dit-Il: “Tu seras un dieu,
-et Aaron sera ton prophète”. “Tu seras comme un dieu. Car Je prendrai ta personne, ta voix, et je
-créerai au travers de toi. Je parlerai, et le peuple ne pourra le renier, car cela se passera ainsi. Ce
-que tu diras arrivera”.
-   Oh, mon Dieu! Je veux vous montrer ces choses. L’Egypte les vit. Ils les virent, juste avant que
-le soir n’arrivât, juste au temps du soir.
+   Le Sang vous servira de Signe. Vous dites: «Je crois; je suis un croyant». C’est très bien, mais si vous rejetez le Signe, alors comment pouvez-vous être un croyant? Il vous accuse! Il parle contre votre témoignage! Que vous soyez un étudiant en théologie, un homme de bien, un membre d’église ou quoi que ce soit, cela n’a aucune valeur. Parfaitement!
+   Votre père peut être un prédicateur et votre mère une sainte. C’est très bien! Mais ils seront responsables pour eux-mêmes.
+   Comme je l’ai déjà dit, certaines personnes essaient de faire de Dieu un bon vieux grand-père un peu gâteux, Ses petits-enfants étant une bande de «Rickys» et de «Elvis»; et Lui-même étant quelqu’un de pas bien féroce. Non! Dieu n’a pas de petits-enfants. Dieu est un Père! Vous devez naître de nouveau! Il n’est pas un bon gros vieillard radotant. Il est le Dieu du jugement. C’est la Bible qui le dit — Sa colère est terrible!
+   Ne méprisez pas ces choses, vous attendant à ce que la bonté de Dieu vous prenne un jour dans votre péché, et vous conduise au Ciel. S’Il avait agi de cette manière, Il aurait excusé tout ce qui se passe ici-bas… Vous devez croire Sa Parole, ou périr. Et quand vous croirez! Sa Parole, le Signe sera sur vous.
+   Cette nuit-là, la mort était prête à frapper l’Egypte à n’importe quel moment. Ce fut un moment terrible. Leurs cérémonies, leurs fêtes, leurs jeûnes… Dieu les avait visités. Il avait montré de grands signes et de grands miracles au milieu d’eux.
+   Arrêtons-nous un moment à cela. Dieu leur avait manifesté Sa Grâce. Il leur donna une chance. Ils ne pouvaient pas la méconnaître. Mais ils dirent: “Tout cela n’est rien. C’est simplement quelque chose qui s’est passé là-haut, dans les cataractes. C’est de la boue qui a teinté le fleuve en route. C’est pourquoi le fleuve a la couleur du sang”.
+   Ensuite vint la grêle; puis, les grenouilles — Dieu avait préparé un endroit et mis Sa Parole dans la bouche d’un prophète, et quand il parlait, cela arrivait. Et ils virent ces choses, et ne purent les nier.
+   Ce que Moïse disait, c’est ce qu’il recevait de Dieu, parce qu’il ne prononçait rien d’autre que la Parole de Dieu. Dieu dit: “Je ferai de toi un dieu”.
+   Moïse était un dieu pour eux. Ils ne voyaient pas la différence, aussi lui dit-Il: “Tu seras un dieu, et Aaron sera ton prophète”. “Tu seras comme un dieu. Car Je prendrai ta personne, ta voix, et je créerai au travers de toi. Je parlerai, et le peuple ne pourra le renier, car cela se passera ainsi. Ce que tu diras arrivera”.
+   Oh, mon Dieu! Je veux vous montrer ces choses. L’Egypte les vit. Ils les virent, juste avant que le soir n’arrivât, juste au temps du soir.
    Il leur montra Sa bonté. Il leur montra qu’Il pouvait guérir.
-   Les magiciens essayèrent de faire comme lui. C’étaient des imposteurs. Vous les trouvez
-partout. Il y avait là Jannès et Jambrès. Mais lorsqu’il s’agit de la chose réelle, ils ne purent rien
-faire. C’est vrai. Ils purent suivre jusqu’à un certain point, mais après, leur folie fut rendue
-manifeste.
-   La Bible ne dit-elle pas que cela arrivera également aux derniers jours? “… de même que
-Jannès et Jambrès résistèrent à Moïse…”. — mais leur folie fut rendue manifeste. Il en sera de
-même, à nouveau.
-   Hommes à l’esprit perverti, réprouvés en ce qui concerne la Vérité… Ils peuvent tenir de belles
-assemblées, faire de grandes choses de belle apparence, mais l’heure va bientôt venir. GARDEZ
-FERMEMENT LE SIGNE! C’est ce que Dieu nous demande.
-   La mort se mit à frapper. Dieu avait eu pitié d’eux, et leur avait montré Sa puissance et Ses
-signes.
-   TENEZ-VOUS EN A CETTE PAROLE! NE VOUS EN ELOIGNEZ PAS! GARDEZ-LA
-FIDELEMENT! C’est la Bible qui le dit.
-   Arrêtons-nous un moment pour considérer l’horloge du temps. Repassons dans notre esprit ce
-qu’Il a promis qui arriverait les derniers jours. Je me demande s’il ne serait pas grand temps de
-nous examiner nous-mêmes, nous aussi.
-   Dieu fit toutes ces choses, et malgré cela, ils ne voulurent pas. Bien que ces choses eussent
-été manifestées devant eux, sans aucune ambiguïté…
+   Les magiciens essayèrent de faire comme lui. C’étaient des imposteurs. Vous les trouvez partout. Il y avait là Jannès et Jambrès. Mais lorsqu’il s’agit de la chose réelle, ils ne purent rien faire. C’est vrai. Ils purent suivre jusqu’à un certain point, mais après, leur folie fut rendue manifeste.
+   La Bible ne dit-elle pas que cela arrivera également aux derniers jours? “… de même que Jannès et Jambrès résistèrent à Moïse…”. — mais leur folie fut rendue manifeste. Il en sera de même, à nouveau.
+   Hommes à l’esprit perverti, réprouvés en ce qui concerne la Vérité… Ils peuvent tenir de belles assemblées, faire de grandes choses de belle apparence, mais l’heure va bientôt venir. GARDEZ FERMEMENT LE SIGNE! C’est ce que Dieu nous demande.
+   La mort se mit à frapper. Dieu avait eu pitié d’eux, et leur avait montré Sa puissance et Ses signes.
+   TENEZ-VOUS EN A CETTE PAROLE! NE VOUS EN ELOIGNEZ PAS! GARDEZ-LA FIDELEMENT! C’est la Bible qui le dit.
+   Arrêtons-nous un moment pour considérer l’horloge du temps. Repassons dans notre esprit ce qu’Il a promis qui arriverait les derniers jours. Je me demande s’il ne serait pas grand temps de nous examiner nous-mêmes, nous aussi.
+   Dieu fit toutes ces choses, et malgré cela, ils ne voulurent pas. Bien que ces choses eussent été manifestées devant eux, sans aucune ambiguïté…
 
         http://www.cmpp.ch
 
     LE SIGNE            15
-   Quand vous voyez arriver de telles choses, c’est un signe que le jugement est proche. Le
-jugement suivra ces choses. Cela a toujours été le cas, et il n’y aura pas d’exception. Le jugement
-suit la grâce. Quand la grâce est méprisée, il ne reste que le jugement. C’est la raison pour
-laquelle il suivra toujours.
-   Voyons maintenant la scène. Chaque événement spirituel est un signe de Dieu. Notez bien
-cela! Chaque événement spirituel! Tout ce qui arrive est un signe. Nous ne sommes pas ici par
-hasard. Toutes ces choses n’arrivent pas par hasard. Elles sont un signe. Elles sont un signe nous
-montrant que nous devons nous dépêcher de nous mettre à l’abri.
-   Noé fut un signe pour sa génération. Elie fut un signe pour la sienne. Jean fut un signe pour la
-sienne. Tout… le message de l’heure est un signe. Observez-le! Voyez ce qu’il opère! C’est un
-signe! Tout a une signification.
-   A aucun autre moment, un message comme celui-ci n’aurait pu être proclamé. Il n’aurait pas pu
-venir au temps de Luther, ni en celui de Wesley. Il n’aurait même pas, pu venir pendant le réveil de
-Pentecôte. C’eût été impossible. Cela n’est jamais arrivé. Mais tout cela a été promis dans la
-Bible. Nous sommes à la fin. Il n’aurait pu arriver avant aujourd’hui, et il arrive comme un signe,
-comme un miracle. Qu’est-ce qu’un signe? Oh, petit troupeau, mes frères, mes soeurs,
-mettez-vous promptement sous le Signe. Ne vous contentez pas d’un substitut. Ne faites
-jamais cela! Jamais!
-   N’imaginez rien. Restez où vous êtes, jusqu’au moment où le Signe est appliqué! Jusqu’à ce
-que l’Esprit qui était en Christ soit en vous; jusqu’à ce que toute la folie du monde soit sortie de
-vous, jusqu’à ce que le seul désir de votre coeur soit Lui! C’est alors que vous connaîtrez que
-quelque chose est en train de se passer!
-   Jésus a dit: “Ces signes accompagneront ceux qui auront cru…”. — pas les imposteurs, mais
-les croyants.
-   Nous voulons ne prendre aucun risque. Nous ne le devons pas! Le message de l’heure est un
-signe pour les églises. C’est un signe pour le monde.
-   Comprenez-vous ces choses? J’espère qu’avec les bandes magnétiques, ils vont faire la même
-chose dans le monde entier. Le signe de l’heure est là! Il y a un Signe qui doit être appliqué! Il
-n’aurait pu venir à aucun autre moment.
-   Remarquez comment Dieu prépare ce temps. Comme nous le savons, la Bible dit que toutes
-ces choses se sont produites afin de nous servir d’exemples. Lorsque Dieu fut sur le point
-d’exercer Son jugement sur l’Egypte, Il les prépara. Que fit-Il en premier? (Il ne change jamais Sa
-façon de faire.) La première chose qu’Il fit pour préparer Son peuple fut d’envoyer un
-prophète avec un message.
-   Ensuite, afin d’identifier Son prophète, Il envoya une colonne de Feu comme signe
-d’identification.
-   La troisième chose qu’Il envoya fut le Signe. C’est exact! Le Signe… Que signifie le Signe?
-— l’assurance!
-   Premièrement, Son prophète vint avec un message. Il S’identifia Lui-même avec Son prophète
-au milieu de… au moyen de la Colonne de Feu. Ensuite, Il envoya un Signe à l’homme, afin qu’il
-se plaçât sous le Sang, qu’il acceptât ce substitut; cette mort qui eut lieu à la place de la
-sienne. Alors, le Sang fut un Signe montrant qu’Il vous avait regardé. Vous avez entendu le
-message, cru à la Colonne de Feu, et accepté le substitut qu’Il avait établi pour vous. Et vous
-étiez placé sous le Sang, sous ce corps chimique de la Vie qui sortit pour vous.
-   Comme cela est parfait! Vous êtes sous le Sang. Maintenant, vous êtes sous l’Esprit, sous
-le Saint-Esprit. Vous croyez le message du jour. Vous croyez à la puissance, à la Colonne de
-Feu. Vous croyez cela, et maintenant…
-   Mais, vous voyez, croire simplement ne suffit pas. Tourner autour des choses ne suffit pas.
-Cela ne fait que vous rendre pire. “Car celui qui connaît ce qui est bien et qui ne le fait pas
-demeure dans le péché!”.
-   Ces croyants marginaux… Jésus en a parlé dans Hébreux 6.4-6: “Car il est impossible que
-ceux qui ont été une fois éclairés, qui ont goûté le don céleste, qui ont eu part au Saint-Esprit, qui
-ont goûté la bonne parole de Dieu et les puissances du siècle à venir, et qui sont tombés, soient
-encore renouvelés et amenés à la repentance, puisqu’ils crucifient pour leur part le Fils de Dieu…”.
+   Quand vous voyez arriver de telles choses, c’est un signe que le jugement est proche. Le jugement suivra ces choses. Cela a toujours été le cas, et il n’y aura pas d’exception. Le jugement suit la grâce. Quand la grâce est méprisée, il ne reste que le jugement. C’est la raison pour laquelle il suivra toujours.
+   Voyons maintenant la scène. Chaque événement spirituel est un signe de Dieu. Notez bien cela! Chaque événement spirituel! Tout ce qui arrive est un signe. Nous ne sommes pas ici par hasard. Toutes ces choses n’arrivent pas par hasard. Elles sont un signe. Elles sont un signe nous montrant que nous devons nous dépêcher de nous mettre à l’abri.
+   Noé fut un signe pour sa génération. Elie fut un signe pour la sienne. Jean fut un signe pour la sienne. Tout… le message de l’heure est un signe. Observez-le! Voyez ce qu’il opère! C’est un signe! Tout a une signification.
+   A aucun autre moment, un message comme celui-ci n’aurait pu être proclamé. Il n’aurait pas pu venir au temps de Luther, ni en celui de Wesley. Il n’aurait même pas, pu venir pendant le réveil de Pentecôte. C’eût été impossible. Cela n’est jamais arrivé. Mais tout cela a été promis dans la Bible. Nous sommes à la fin. Il n’aurait pu arriver avant aujourd’hui, et il arrive comme un signe, comme un miracle. Qu’est-ce qu’un signe? Oh, petit troupeau, mes frères, mes soeurs, mettez-vous promptement sous le Signe. Ne vous contentez pas d’un substitut. Ne faites jamais cela! Jamais!
+   N’imaginez rien. Restez où vous êtes, jusqu’au moment où le Signe est appliqué! Jusqu’à ce que l’Esprit qui était en Christ soit en vous; jusqu’à ce que toute la folie du monde soit sortie de vous, jusqu’à ce que le seul désir de votre coeur soit Lui! C’est alors que vous connaîtrez que quelque chose est en train de se passer!
+   Jésus a dit: “Ces signes accompagneront ceux qui auront cru…”. — pas les imposteurs, mais les croyants.
+   Nous voulons ne prendre aucun risque. Nous ne le devons pas! Le message de l’heure est un signe pour les églises. C’est un signe pour le monde.
+   Comprenez-vous ces choses? J’espère qu’avec les bandes magnétiques, ils vont faire la même chose dans le monde entier. Le signe de l’heure est là! Il y a un Signe qui doit être appliqué! Il n’aurait pu venir à aucun autre moment.
+   Remarquez comment Dieu prépare ce temps. Comme nous le savons, la Bible dit que toutes ces choses se sont produites afin de nous servir d’exemples. Lorsque Dieu fut sur le point d’exercer Son jugement sur l’Egypte, Il les prépara. Que fit-Il en premier? (Il ne change jamais Sa façon de faire.) La première chose qu’Il fit pour préparer Son peuple fut d’envoyer un prophète avec un message.
+   Ensuite, afin d’identifier Son prophète, Il envoya une colonne de Feu comme signe d’identification.
+   La troisième chose qu’Il envoya fut le Signe. C’est exact! Le Signe… Que signifie le Signe? — l’assurance!
+   Premièrement, Son prophète vint avec un message. Il S’identifia Lui-même avec Son prophète au milieu de… au moyen de la Colonne de Feu. Ensuite, Il envoya un Signe à l’homme, afin qu’il se plaçât sous le Sang, qu’il acceptât ce substitut; cette mort qui eut lieu à la place de la sienne. Alors, le Sang fut un Signe montrant qu’Il vous avait regardé. Vous avez entendu le message, cru à la Colonne de Feu, et accepté le substitut qu’Il avait établi pour vous. Et vous étiez placé sous le Sang, sous ce corps chimique de la Vie qui sortit pour vous.
+   Comme cela est parfait! Vous êtes sous le Sang. Maintenant, vous êtes sous l’Esprit, sous le Saint-Esprit. Vous croyez le message du jour. Vous croyez à la puissance, à la Colonne de Feu. Vous croyez cela, et maintenant…
+   Mais, vous voyez, croire simplement ne suffit pas. Tourner autour des choses ne suffit pas. Cela ne fait que vous rendre pire. “Car celui qui connaît ce qui est bien et qui ne le fait pas demeure dans le péché!”.
+   Ces croyants marginaux… Jésus en a parlé dans Hébreux 6.4-6: “Car il est impossible que ceux qui ont été une fois éclairés, qui ont goûté le don céleste, qui ont eu part au Saint-Esprit, qui ont goûté la bonne parole de Dieu et les puissances du siècle à venir, et qui sont tombés, soient encore renouvelés et amenés à la repentance, puisqu’ils crucifient pour leur part le Fils de Dieu…”.
 
         http://www.cmpp.ch
 
 LE SIGNE 16
-Ils méprisent l’alliance du Sang, par laquelle ils avaient été sanctifiés. Sanctifiés… cela n’est pas
-le Signe.
-   Ce n’est pas le Sang qui est le Signe; le Signe, c’est la Vie. La Vie ne pouvait pas revenir,
-parce que c’était une vie animale. Le signe était ce corps chimique. Il fallait que ce fût du vrai sang
-qui fût appliqué sur la porte; mais maintenant, il y a le Saint-Esprit. Nous allons démontrer cela
-dans un instant.
-   C’est la Vie qui est le Signe. Votre vie a disparu. Vous êtes caché avec Christ en Dieu, scellé
-en Lui par le Saint-Esprit. La Pensée qui était en Christ est en vous; et Christ, la Bible et la
-Parole sont une seule et même chose.
-   “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu”. Ainsi
-vous, la Parole, Dieu et Christ êtes une seule et même chose. “Si vous demeurez en moi, et
-que mes paroles demeurent en vous, alors, demandez tout ce que vous voudrez, cela vous sera
-accordé”.
-   Il mit la puissance dans la bouche de Moïse afin qu’il sortît avec Sa Parole. Il parla — et les
-grenouilles vinrent! Il parla — et les grenouilles s’en allèrent. Il parla — et les poux vinrent! Il
-parla — et les poux s’en allèrent! Amen!
-   Ainsi donc, le signe était obligatoire pour tout Israël. Tout Israël devait appliquer le signe —
-“Quand Je verrai le signe, Je passerai par-dessus vous”. Oh, mon Dieu! quelle assurance.
-   La sortie d’Egypte du peuple d’Israël est un type de la réalité d’aujourd’hui; l’EGYPTE
-REPRESENTE L’EGLISE. AINSI, L’EPOUSE SORT DE L’EGLISE. Il y a là quelque chose dont
-elle doit sortir, et elle doit en sortir. Ainsi donc, si cela était le type, nous voyons que l’église est
-en Egypte, dans le monde et dans le péché, et qu’elle ne s’inquiète pas le moins du monde du
-Signe. Elle n’y croit même pas. Mais Israël aimait ce Signe, car il représentait pour lui le salut.
-   Oh, cela devrait nous faire… notre coeur devrait… Oh, Eglise, applique le Signe! Ne l’oublie
-pas! Pourquoi ne le fais-tu pas? N’attends pas que le soleil soit couché! Ne te repose ni jour ni
-nuit! Ne prends aucun risque! Autrement, cela ne marchera pas! VOUS DEVEZ AVOIR LE
-SIGNE!
+Ils méprisent l’alliance du Sang, par laquelle ils avaient été sanctifiés. Sanctifiés… cela n’est pas le Signe.
+   Ce n’est pas le Sang qui est le Signe; le Signe, c’est la Vie. La Vie ne pouvait pas revenir, parce que c’était une vie animale. Le signe était ce corps chimique. Il fallait que ce fût du vrai sang qui fût appliqué sur la porte; mais maintenant, il y a le Saint-Esprit. Nous allons démontrer cela dans un instant.
+   C’est la Vie qui est le Signe. Votre vie a disparu. Vous êtes caché avec Christ en Dieu, scellé en Lui par le Saint-Esprit. La Pensée qui était en Christ est en vous; et Christ, la Bible et la Parole sont une seule et même chose.
+   “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu”. Ainsi vous, la Parole, Dieu et Christ êtes une seule et même chose. “Si vous demeurez en moi, et que mes paroles demeurent en vous, alors, demandez tout ce que vous voudrez, cela vous sera accordé”.
+   Il mit la puissance dans la bouche de Moïse afin qu’il sortît avec Sa Parole. Il parla — et les grenouilles vinrent! Il parla — et les grenouilles s’en allèrent. Il parla — et les poux vinrent! Il parla — et les poux s’en allèrent! Amen!
+   Ainsi donc, le signe était obligatoire pour tout Israël. Tout Israël devait appliquer le signe — “Quand Je verrai le signe, Je passerai par-dessus vous”. Oh, mon Dieu! quelle assurance.
+   La sortie d’Egypte du peuple d’Israël est un type de la réalité d’aujourd’hui; l’EGYPTE REPRESENTE L’EGLISE. AINSI, L’EPOUSE SORT DE L’EGLISE. Il y a là quelque chose dont elle doit sortir, et elle doit en sortir. Ainsi donc, si cela était le type, nous voyons que l’église est en Egypte, dans le monde et dans le péché, et qu’elle ne s’inquiète pas le moins du monde du Signe. Elle n’y croit même pas. Mais Israël aimait ce Signe, car il représentait pour lui le salut.
+   Oh, cela devrait nous faire… notre coeur devrait… Oh, Eglise, applique le Signe! Ne l’oublie pas! Pourquoi ne le fais-tu pas? N’attends pas que le soleil soit couché! Ne te repose ni jour ni nuit! Ne prends aucun risque! Autrement, cela ne marchera pas! VOUS DEVEZ AVOIR LE SIGNE!
    Vous pouvez bien dire: «Je crois, oui… Je crois au message!».
-   C’est très bien! MAIS VOUS DEVEZ AVOIR LE SIGNE! Entends-tu, Branham Tabernacle?
-VOUS DEVEZ MANIFESTER LE SIGNE! Sans cela, toute votre foi est vaine! Vous vivez la vie
-d’un homme de bien. Vous écoutez ce que dit la Parole. Vous allez à l’église. Vous essayez de
-vivre selon la Justice. Tout cela est très bien, mais cela n’est pas le plus important.
-   “Quand Je verrai le Sang…”. — c’est cela, le Signe, et le Signe n’est pas… Il voulait voir le
-corps chimique parce que la vie était sortie du sang. C’était un animal. Mais ensuite, ce fut Sa
-propre Vie qui fut dans le Sang, et le corps chimique n’était qu’un signe de sanctification. Mais
-le Signe, c’est la Vie Elle-même.
-   Car sans la circoncision, sans le Signe, vous n’êtes même pas dans l’alliance. Tout va de
-pair.
-   Si vous dites que vous êtes circoncis par la Parole, par Elle seulement, alors vous croirez la
-Parole. Si vous croyez la Parole, alors le Signe viendra. Car Il a dit: “Repentez-vous, et que
-chacun de vous soit baptisé au Nom de Jésus-Christ pour la rémission des péchés, et vous
-recevrez le don du Saint-Esprit”. Voilà!
-   Remarquez comment tout a été préparé pour le peuple du pays de la promesse. Remarquez ce
-qu’Il a fait. Premièrement, Il avait un peuple, pour lequel Il prépara un pays. Il leur avait préparé un
-pays. Ensuite, Il envoya ce qu’il fallait pour les préparer, afin de pouvoir entrer dans le pays de la
-promesse. Cela n’était valable que pour ceux qui étaient prédestinés à entrer dans la terre
-promise.
-   Comment fit-Il? Il envoya un prophète porteur d’un message, confirmé par une Colonne de Feu,
-et leur donna un signe qui pût les assurer que cela était vrai. C’était vrai. Ce fut pour eux une
-consolation.
-   La sortie d’Egypte du peuple d’Israël était un type. C’est le type de l’Eglise sortant des
-dénominations, je veux dire l’Epouse. Certains groupes indépendants ou personnes
-indépendantes sont aussi mauvais que les dénominations, ou même pires, en ce qui concerne
-l’application du Signe.
+   C’est très bien! MAIS VOUS DEVEZ AVOIR LE SIGNE! Entends-tu, Branham Tabernacle? VOUS DEVEZ MANIFESTER LE SIGNE! Sans cela, toute votre foi est vaine! Vous vivez la vie d’un homme de bien. Vous écoutez ce que dit la Parole. Vous allez à l’église. Vous essayez de vivre selon la Justice. Tout cela est très bien, mais cela n’est pas le plus important.
+   “Quand Je verrai le Sang…”. — c’est cela, le Signe, et le Signe n’est pas… Il voulait voir le corps chimique parce que la vie était sortie du sang. C’était un animal. Mais ensuite, ce fut Sa propre Vie qui fut dans le Sang, et le corps chimique n’était qu’un signe de sanctification. Mais le Signe, c’est la Vie Elle-même.
+   Car sans la circoncision, sans le Signe, vous n’êtes même pas dans l’alliance. Tout va de pair.
+   Si vous dites que vous êtes circoncis par la Parole, par Elle seulement, alors vous croirez la Parole. Si vous croyez la Parole, alors le Signe viendra. Car Il a dit: “Repentez-vous, et que chacun de vous soit baptisé au Nom de Jésus-Christ pour la rémission des péchés, et vous recevrez le don du Saint-Esprit”. Voilà!
+   Remarquez comment tout a été préparé pour le peuple du pays de la promesse. Remarquez ce qu’Il a fait. Premièrement, Il avait un peuple, pour lequel Il prépara un pays. Il leur avait préparé un pays. Ensuite, Il envoya ce qu’il fallait pour les préparer, afin de pouvoir entrer dans le pays de la promesse. Cela n’était valable que pour ceux qui étaient prédestinés à entrer dans la terre promise.
+   Comment fit-Il? Il envoya un prophète porteur d’un message, confirmé par une Colonne de Feu, et leur donna un signe qui pût les assurer que cela était vrai. C’était vrai. Ce fut pour eux une consolation.
+   La sortie d’Egypte du peuple d’Israël était un type. C’est le type de l’Eglise sortant des dénominations, je veux dire l’Epouse. Certains groupes indépendants ou personnes indépendantes sont aussi mauvais que les dénominations, ou même pires, en ce qui concerne l’application du Signe.
 
         http://www.cmpp.ch
 
@@ -1727,7 +1463,7 @@ empiler tous les livres que cela ferait. Il a accompli plus de choses dans mon m
 Sien! Rappelez-vous cela: Il a eu plus de succès que moi dans mon ministère — c’est Lui, et non
 pas moi. Gloire à Dieu! Alléluia! Il a eu plus de succès à Jeffersonville qu’à Nazareth! C’est vrai!
 Dans cette méchante cité! Amen! Gloire à Dieu! Là-bas, Il ne put pas faire de miracles, mais ici,
-oui! Il a quand même fini par pouvoir pénétrer ici! Il a pu le faire!
+ oui! Il a quand même fini par pouvoir pénétrer ici! Il a pu le faire!
    Il se peut qu’Il ait dû prendre des gens de l’extérieur, mais Il y est arrivé malgré tout. Et Il a eu
 plus de succès ici qu’a Capernaüm ou Nazareth ou… Il a fait plus de miracles ici, dans ce
 tabernacle, qu’il n’en a fait partout ailleurs dans le monde. C’est vrai!
@@ -1735,7 +1471,7 @@ tabernacle, qu’il n’en a fait partout ailleurs dans le monde. C’est vrai!
 a fait, et non pas ce que moi j’ai fait; parce que moi, je n’ai rien fait. Je n’ai fait que L’aimer et me
 soumettre à Lui, et dire ce qu’Il a dit. Le Saint-Esprit est aussi descendu sur d’autres personnes;
 elles ont cru ce qu’Il a dit, et alors, Il a pu accomplir l’oeuvre. C’est tout!
-   S’il peut faire en sorte que nous croyons tous… Que ferait-Il en ce moment-même, s’Il pouvait
+   S’il peut faire en sorte que nous croyions tous… Que ferait-Il en ce moment-même, s’Il pouvait
 nous amener tous à croire? Il n’y aurait plus un seul malade dans tout le pays! — s’Il pouvait
 nous amener tous à croire. Tout serait alors terminé.
    Déployez votre Signe au-dessus de la foi inébranlable que vous avez en la Promesse de Sa
@@ -1763,7 +1499,7 @@ signe. Il l’honore encore de nos jours. Il honore Son Signe.
 Signe, et seulement lui. Il nous montre ainsi qu’Il honore toujours ce qu’Il fait et ce qu’Il dit. Nous
 respectons cela. Je le respecte.
    Il attend aussi de nous que nous étendions Son Signe au-dessus de notre foi, face à
-Satan et à tous ses cultes d’incrédulité et à ses dénominations — que nous croyons que Sa
+Satan et à tous ses cultes d’incrédulité et à ses dénominations — que nous croyions que Sa
 promesse est vraie, et qu’Il fera ce qu’Il a promis de faire. C’est cela, l’Eglise!
    Il n’est pas étonnant qu’ils ne fassent pas le moindre progrès, et qu’ils retombent sans cesse
 dans leurs dénominations, formant une bande d’intellectuels instruits, cultivés et bien habillés.
@@ -1905,9 +1641,6 @@ Sang, Je passerai par-dessus vous”.
 Signe que le Sang a été appliqué. S’il n’a pas été appliqué, le Signe ne viendra pas! Si vous le
 comprenez, dites «Amen!». Le Sang doit être appliqué, et alors le Signe viendra. C’est le signe
 que le Sang de la rédemption a été appliqué, et que le prix a été payé! Que Dieu vous bénisse!
-
-
-
 
 
 

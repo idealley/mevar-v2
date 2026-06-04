@@ -1,10 +1,98 @@
+---
+source: "cmpp"
+sermon_id: "impact"
+title: "L'IMPACT DE LA REVELATION"
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Cette brochure examine le plan de Dieu à travers les âges, en mettant l'accent sur la révélation prophétique et le ministère de William Branham comme précurseur de la seconde venue de Christ. Elle souligne l'importance de reconnaître la voix de Dieu pour notre temps et de revenir à la Parole originale, loin des interprétations humaines."
+tags:
+  - "révélation"
+  - "prophétie"
+  - "William Branham"
+  - "restauration"
+  - "fin des temps"
+persons:
+  - "Ewald Frank"
+  - "William Branham"
+  - "Noé"
+  - "Abraham"
+  - "Moïse"
+  - "Elie"
+  - "Jean-Baptiste"
+  - "Jésus-Christ"
+  - "Paul"
+  - "Pierre"
+places:
+  - "Krefeld"
+  - "Sodome"
+  - "Gomorrhe"
+  - "Egypte"
+  - "Israël"
+  - "Palestine"
+themes:
+  - "révélation divine"
+  - "ministère prophétique"
+  - "restauration de l'Église"
+  - "accomplissement des prophéties"
+  - "discernement spirituel"
+  - "préparation pour le retour de Christ"
+pdf_url: "http://cmpp.ch/impact.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 2"
+  - "1 Rois 18"
+  - "1 Timothée 3"
+  - "2 Chroniques 18"
+  - "2 Chroniques 36"
+  - "2 Corinthiens 1"
+  - "2 Corinthiens 6"
+  - "2 Pierre 1"
+  - "2 Samuel 5"
+  - "2 Thessaloniciens 2"
+  - "2 Timothée 2"
+  - "2 Timothée 3"
+  - "Actes 10"
+  - "Actes 12"
+  - "Actes 2"
+  - "Actes 20"
+  - "Actes 27"
+  - "Actes 3"
+  - "Actes 8"
+  - "Aggée 1"
+  - "Amos 3"
+  - "Amos 8"
+  - "Apocalypse 1"
+  - "Apocalypse 10"
+  - "Apocalypse 12"
+  - "Apocalypse 18"
+  - "Apocalypse 19"
+  - "Apocalypse 2"
+  - "Apocalypse 4"
+  - "Apocalypse 5"
+  - "Daniel 12"
+  - "Daniel 8"
+  - "Deutéronome 4"
+  - "Genèse 1"
+  - "Genèse 15"
+  - "Genèse 18"
+  - "Genèse 2"
+  - "Genèse 3"
+  - "Genèse 32"
+  - "Genèse 6"
+  - "Habacuc 1"
+  - "Habacuc 2"
+  - "Hébreux 1"
+  - "Hébreux 4"
+  - "Jean 1"
+  - "Jean 10"
+  - "Jean 14"
+  - "Jean 15"
+  - "Jean 16"
+---
 L’IMPACT
 DE LA
 REVELATION
-
-
-
-
 
 EWALD FRANK
 
@@ -196,8 +284,8 @@ de ce que tu les as révélées aux enfants. Oui, Père, je te loue de ce que tu
 Son peuple. Ces révélations produisent en lui une grande joie et des louanges envers le Dieu des
 Cieux pour tout ce qu’Il a fait “… car ce ne sont pas la chair et le sang qui t’ont révélé cela, mais
 c’est mon Père qui est dans les cieux” (Mat. 16.17). Le plan entier du salut repose sur la révélation
-spirituelle, source de la foi véritable en l’unique vrai Dieu. Abel avait la révélation qu’il devait y
-avoir effusion du sang de l’agneau, et non présentation des fruits des champs pour être réconcilié
+spirituelle, source de la foi véritable en l’unique vrai Dieu. Abel avait la révélation qu’il devait
+y avoir effusion du sang de l’agneau, et non présentation des fruits des champs pour être réconcilié
 avec Dieu. Par la foi, il apporta un plus excellent sacrifice que Caïn. Les vrais enfants de Dieu ont
 toujours été sous l’impact de la révélation, et ont reconnu leur “aujourd'hui”, et ont perçu la voix
 de Dieu. Dans Hébreux 4.7, nous lisons: “… Aujourd’hui, si vous entendez sa voix, n’endurcissez
@@ -395,7 +483,7 @@ prophétie, la lumière éclata. Les enfants de Dieu furent ramenés à la foi d
    Les élus de tous les âges étaient instruits de leur “aujourd’hui”, et pouvaient dire de tout leur
 coeur avec Salomon: “Béni soit l’Eternel, qui a donné du repos à son peuple d’Israël, selon toutes
 ses promesses! De toutes les bonnes paroles qu’il avait prononcées par Moïse, son serviteur,
-aucune n’est restée sans effet”. On n’insistera jamais avec assez de force sur l’importance de ce
+ aucune n’est restée sans effet”. On n’insistera jamais avec assez de force sur l’importance de ce
 que signifie la révélation de la Parole de Dieu.
    Tous les vrais prophètes ne pouvaient dire “AINSI DIT LE SEIGNEUR!” qu’après que Dieu leur
 eût parlé. Aucune personne, qu’elle soit roi, ministre ou prêtre, ni aucune circonstance que ce soit,
@@ -522,8 +610,6 @@ cours entier de l’histoire de l’église, et nous donne une vue profonde du s
 l’accomplissement de l’oeuvre de Dieu. Il s’ouvre par ces mots: “Révélation de Jésus-Christ, que
 Dieu lui a donnée (à Jean) pour montrer à ses serviteurs les choses qui doivent arriver bientôt…”.
 
-        http://www.cmpp.ch
-
 L’IMPACT DE LA REVELATION 11
    Ici même, nous sommes amenés dans le Saint des saints, pour recevoir la révélation finale de
 Jésus-Christ. Oh, quel saisissement ce sera pour tous ceux qui verront Jésus dans Sa glorieuse
@@ -577,7 +663,6 @@ témoignage, celui qu’Il nous a donné de Lui-même et qui suffit pleinement �
 l’alpha et l’oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout-Puissant”
 (Apocalypse 1.8). Le témoignage de Jésus est en plein accord avec la parole prophétique et est le
 témoignage pour tous les croyants.
-
 
 
 
@@ -781,7 +866,7 @@ manifestations.
 Saint-Esprit…” (Mat. 28.19).
    Pierre et tous les autres apôtres étaient présents. Ils entendirent et comprirent correctement ce
 que voulait dire leur Sauveur. Jésus ne leur donna pas cet ordre au pluriel: “… les baptisant aux
-noms…”, mais au singulier “… au nom…”. Il n’a pas dit “… au nom du Père, au nom du Fils et au
+noms…”, mais au singulier “… au nom …”. Il n’a pas dit “… au nom du Père, au nom du Fils et au
 nom du Saint-Esprit…”, parce qu’alors, il faudrait chercher trois différents noms. Le Maître ne parle
 que d’un seul “nom”, celui du Père, Fils et Saint-Esprit.
    Quel est ce seul nom? “Père” est un titre, “Fils” est un titre, et “Saint-Esprit” est l’Esprit Saint.
@@ -916,14 +1001,9 @@ tous.
 
 
 
-
-
-
     http://www.cmpp.ch
 
     L’IMPACT DE LA REVELATION    18
-
-
 
 
 
@@ -945,9 +1025,6 @@ photographie dans son numéro du 17 mai 1963, avec un article. Cette nuée lumin
 dans un ciel bleu, à une altitude où aucune humidité ne se trouve pour former de nuages. Cela est
 certainement une confirmation du Tout-Puissant qui, dans Son amour, est également venu à la
 rencontre de ceux qui ne peuvent pas croire sans voir.
-
-
-
 
 
 

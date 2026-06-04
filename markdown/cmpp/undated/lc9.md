@@ -1,352 +1,136 @@
-    “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
+---
+source: "cmpp"
+sermon_id: "lc9"
+title: "Lettre Circulaire 9"
+subtitle: "Novembre 1976"
+date: "1976-11-01"
+year: 1976
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Cette lettre circulaire encourage les croyants à s'appuyer sur la Parole de Dieu et à accomplir l'œuvre de Dieu avec foi et courage, en s'inspirant de David et Salomon. Elle aborde la nécessité de l'unité dans le Corps de Christ, la préparation pour la venue du Seigneur, et met en garde contre les divisions et les spéculations sur les dates."
+tags:
+  - "foi"
+  - "unité"
+  - "parole de Dieu"
+  - "préparation"
+  - "venue de Christ"
+persons:
+  - "David"
+  - "Salomon"
+  - "Paul"
+  - "Jésus-Christ"
+  - "William Branham"
+places:
+  - "Krefeld"
+  - "Genève"
+  - "États-Unis"
+themes:
+  - "Foi en Dieu"
+  - "Unité du Corps de Christ"
+  - "Accomplissement de la Parole"
+  - "Préparation pour la venue du Seigneur"
+  - "Mise en garde contre les divisions"
+pdf_url: "http://cmpp.ch/lc9.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 28"
+  - "1 Corinthiens 3"
+  - "Colossiens 1"
+  - "Exode 25"
+  - "Galates 4"
+  - "Hébreux 13"
+  - "Hébreux 2"
+  - "Jean 14"
+  - "Jean 4"
+  - "Marc 11"
+  - "Romains 3"
+  - "Romains 8"
+---
+> “Jésus-Christ est le même hier, aujourd’hui, et éternellement” (Hébreux 13.8).
 
+# LETTRE CIRCULAIRE 9
 
+## NOVEMBRE 1976
 
-    LETTRE CIRCULAIRE 9
+Je vous salue tous affectueusement dans le précieux Nom de notre Seigneur Jésus-Christ par les paroles de 1 Chroniques 28.20:
+> “Fortifie-toi, prends courage et agis; ne crains point, et ne t’effraie point. Car l’Eternel Dieu, mon Dieu, sera avec toi; il ne te délaissera point; il ne t’abandonnera point, jusqu’à ce que tout l’ouvrage pour le service de la maison de l’Eternel soit achevé”.
 
-    NOVEMBRE 1976
+Lorsque l’on a reçu directement de Dieu une tâche à accomplir, on peut se mettre courageusement à l’oeuvre. C’est là que réside à proprement parler tout le mystère du Royaume de Dieu; car le Seigneur, dès avant la fondation du monde, avait déjà conçu tous Ses desseins. Lorsque le temps est venu où quelque chose de particulier doit avoir lieu sur la terre, Il le fait alors savoir aux Siens. Lorsque David transmit sa tâche à son fils, il pouvait dire que le Seigneur lui avait donné des instructions claires sur ce qui devait arriver. Nous lisons, au verset 19: “C’est par un écrit de sa main, dit David, que l’Eternel m’a donné l’intelligence de tout cela, de tous les ouvrages de ce modèle”.
 
+En ce temps-ci, nous avons besoin d’une claire intelligence de l’Ecriture, Laquelle est “un écrit de Sa main”, et nous donne de façon directe des éclaircissements sur tout ce qui se rapporte au Royaume de Dieu. Tant de choses sont écrites qui ne proviennent pas de la main du Seigneur, et c’est pour cette raison que ces écrits font connaître les desseins des hommes, et non la volonté de Dieu. Celui qui veut connaître les intentions de Dieu doit examiner le Livre de Dieu, recevoir l’illumination et l’intelligence divines, et respecter un ministère venu de Dieu.
 
+Dans le Royaume de Dieu, chacun ne peut pas faire ce qui lui semble bon. Si quelqu’un est un serviteur de Dieu, le Seigneur lui attribuera une tâche à accomplir, et lui dira ce qu’il doit faire. De tout temps, Dieu a fait connaître à Ses serviteurs quels étaient Ses desseins. David avait le désir de bâtir un temple pour le Seigneur. Il était éclairé par l’Esprit de Dieu, et il lui avait été donné une vue d’ensemble de la construction, avec tous les détails. Ce n’était pas sa représentation à Lui, ni sa propre planification, mais c’étaient bien les instructions divines provenant d’un écrit de la main du Seigneur. De notre temps, nous pouvons nous référer aux Saintes Ecritures, et prier notre Dieu de nous donner la clarté sur ce qui doit être fait. Seul, ce qui est dans la volonté de Dieu pourra subsister devant Lui.
 
+De même que David pouvait dire à son fils Salomon, lequel surveillait les travaux: “Fortifie-toi, prends courage et agis!”, ainsi, dans ce temps, nous pouvons être encouragés nous aussi, et nous approcher de l’oeuvre de Dieu avec la pleine assurance qu’Il l’achèvera. Nous n’avons pas besoin de craindre, mais nous pouvons aller de l’avant hardiment. La raison pour laquelle David était sûr de la réussite de ce projet était, comme il le dit, que “… l’Eternel Dieu, mon Dieu, sera avec toi”. David montre bien qu’il ne parlait pas “d’un Dieu”, mais il insiste en disant: “mon Dieu”. Il avait des rapports et des liens personnels avec Dieu, Lequel avait parlé par Son Esprit de diverses manières avec lui, et au travers de lui. Si Dieu est notre Dieu, alors Il sera aussi pour nous Emmanuel, Dieu avec nous. “Il ne nous délaissera point, il ne nous abandonnera point, jusqu’à ce que tout l’ouvrage pour l’assemblée du Seigneur soit achevé”.
 
-   Je vous salue tous affectueusement dans le précieux Nom de notre Seigneur Jésus-Christ par
-les paroles de 1 Chroniques 28.20:
-   “Fortifie-toi, prends courage et agis; ne crains point, et ne t’effraie point. Car l’Eternel Dieu,
-   mon Dieu, sera avec toi; il ne te délaissera point; il ne t’abandonnera point, jusqu’à ce que
-   tout l’ouvrage pour le service de la maison de l’Eternel soit achevé”.
-   Lorsque l’on a reçu directement de Dieu une tâche à accomplir, on peut se mettre
-courageusement à l’oeuvre. C’est là que réside à proprement parler tout le mystère du Royaume
-de Dieu; car le Seigneur, dès avant la fondation du monde, avait déjà conçu tous Ses desseins.
-Lorsque le temps est venu où quelque chose de particulier doit avoir lieu sur la terre, Il le fait alors
-savoir aux Siens. Lorsque David transmit sa tâche à son fils, il pouvait dire que le Seigneur lui
-avait donné des instructions claires sur ce qui devait arriver. Nous lisons, au verset 19: “C’est par
-un écrit de sa main, dit David, que l’Eternel m’a donné l’intelligence de tout cela, de tous les
-ouvrages de ce modèle”.
-   En ce temps-ci, nous avons besoin d’une claire intelligence de l’Ecriture, Laquelle est “un écrit
-de Sa main”, et nous donne de façon directe des éclaircissements sur tout ce qui se rapporte au
-Royaume de Dieu. Tant de choses sont écrites qui ne proviennent pas de la main du Seigneur, et
-c’est pour cette raison que ces écrits font connaître les desseins des hommes, et non la volonté de
-Dieu. Celui qui veut connaître les intentions de Dieu doit examiner le Livre de Dieu, recevoir
-l’illumination et l’intelligence divines, et respecter un ministère venu de Dieu.
-   Dans le Royaume de Dieu, chacun ne peut pas faire ce qui lui semble bon. Si quelqu’un est un
-serviteur de Dieu, le Seigneur lui attribuera une tâche à accomplir, et lui dira ce qu’il doit faire. De
-tout temps, Dieu a fait connaître à Ses serviteurs quels étaient Ses desseins. David avait le désir
-de bâtir un temple pour le Seigneur. Il était éclairé par l’Esprit de Dieu, et il lui avait été donné une
-vue d’ensemble de la construction, avec tous les détails. Ce n’était pas sa représentation à Lui, ni
-sa propre planification, mais c’étaient bien les instructions divines provenant d’un écrit de la main
-du Seigneur. De notre temps, nous pouvons nous référer aux Saintes Ecritures, et prier notre Dieu
-de nous donner la clarté sur ce qui doit être fait. Seul, ce qui est dans la volonté de Dieu pourra
-subsister devant Lui.
-   De même que David pouvait dire à son fils Salomon, lequel surveillait les travaux: “Fortifie-toi,
-prends courage et agis!”, ainsi, dans ce temps, nous pouvons être encouragés nous aussi, et nous
-approcher de l’oeuvre de Dieu avec la pleine assurance qu’Il l’achèvera. Nous n’avons pas besoin
-de craindre, mais nous pouvons aller de l’avant hardiment. La raison pour laquelle David était sûr
-de la réussite de ce projet était, comme il le dit, que “… l’Eternel Dieu, mon Dieu, sera avec toi”.
-David montre bien qu’il ne parlait pas “d’un Dieu”, mais il insiste en disant: “mon Dieu”. Il avait des
-rapports et des liens personnels avec Dieu, Lequel avait parlé par Son Esprit de diverses manières
-avec lui, et au travers de lui. Si Dieu est notre Dieu, alors Il sera aussi pour nous Emmanuel, Dieu
-avec nous. “Il ne nous délaissera point, il ne nous abandonnera point, jusqu’à ce que tout
-l’ouvrage pour l’assemblée du Seigneur soit achevé”.
-   Paul écrit, dans 1 Corinthiens 3.10: “Selon la grâce de Dieu qui m’a été donnée, j’ai posé le
-fondement comme un sage architecte, et un autre bâtit dessus. Mais que chacun prenne garde à
-la manière dont il bâtit dessus”. Il ne s’agit pas de bâtir sur ce divin fondement selon des principes
-humains, mais nous devons nous en tenir au contraire à la manière de bâtir donnée aux apôtres et
-aux prophètes pour l’édification de l’Assemblée du Dieu Vivant. Tous les apôtres et prophètes
+Paul écrit, dans 1 Corinthiens 3.10: “Selon la grâce de Dieu qui m’a été donnée, j’ai posé le fondement comme un sage architecte, et un autre bâtit dessus. Mais que chacun prenne garde à la manière dont il bâtit dessus”. Il ne s’agit pas de bâtir sur ce divin fondement selon des principes humains, mais nous devons nous en tenir au contraire à la manière de bâtir donnée aux apôtres et aux prophètes pour l’édification de l’Assemblée du Dieu Vivant. Tous les apôtres et prophètes agirent exactement comme Dieu leur en avait donné l’ordre. Salomon agit comme David le lui avait commandé, sur la base des instructions de Dieu. Paul continue ses exhortations en disant que l’oeuvre de chacun sera éprouvée par le feu. Si notre ouvrage est “l’oeuvre de l’homme”, au lieu d’être “l’oeuvre de Dieu”, le feu du jugement n’en laissera rien.
 
-        http://www.cmpp.ch
+> “Le jour du Seigneur viendra comme un voleur; en ce jour, les cieux passeront avec fracas, les éléments embrasés se dissoudront, et la terre avec les oeuvres qu’elle renferme sera consumée” (2 Pier. 3.10).
 
-LETTRE CIRCULAIRE 9 — NOVEMBRE 1976 2
-agirent exactement comme Dieu leur en avait donné l’ordre. Salomon agit comme David le lui avait
-commandé, sur la base des instructions de Dieu. Paul continue ses exhortations en disant que
-l’oeuvre de chacun sera éprouvée par le feu. Si notre ouvrage est “l’oeuvre de l’homme”, au lieu
-d’être “l’oeuvre de Dieu”, le feu du jugement n’en laissera rien.
-   “Le jour du Seigneur viendra comme un voleur; en ce jour, les cieux passeront avec fracas, les
-éléments embrasés se dissoudront, et la terre avec les oeuvres qu’elle renferme sera consumée”
-(2 Pier. 3.10). Si nous voulons subsister devant Dieu avec nos oeuvres, nous devons être certains
-qu’elles sont faites selon Sa Parole. Le Seigneur Jésus a dit: “Ma nourriture est de faire la volonté
-de celui qui m’a envoyé, et d’accomplir son oeuvre” (Jean 4.34). Le Seigneur Lui-même a
-commencé Son oeuvre, et c’est Lui qui l’achèvera.
-   Nous devons reconnaître de quelle manière Il agit dans ce temps, au milieu de Son Eglise, et
-de quelle manière Il l’amène à son achèvement. Il existe des promesses qui parlent de ce qui doit
-avoir lieu, pour finir, dans l’Eglise du Nouveau Testament. Nous avons bien souvent entendu dire
-que tout ce qui avait été perdu devait être restitué, que tout ce qui était tordu devait être redressé,
-que tous lieux raboteux devaient être aplanis, et que toutes choses devaient être ramenées à leur
-juste place.
-   Le Seigneur Jésus, par Son ministère sur cette terre, a été manifesté avec puissance comme
-Fils de Dieu, et nous aussi devons être révélés comme fils et filles de Dieu. Il est écrit: “Aussi, la
-création attend-elle avec un ardent désir la révélation des fils de Dieu” (Romains 8.19). Nous ne
-devons pas rester plus longtemps des enfants mineurs, mais bien plutôt croître jusqu’à la mesure
-de la stature parfaite de Christ, et recueillir notre héritage divin. Paul dit: “Or, aussi longtemps que
-l’héritier est enfant, je dis qu’il ne diffère en rien d’un esclave, quoiqu’il soit le maître de tout”
-(Galates 4.1).
-   En rapport avec la délivrance acquise par Jésus-Christ, il est dit: “… afin qu’il rachetât ceux qui
-étaient sous la loi, afin que nous reçussions l’adoption” (Galates 4.5). Il ne s’agit pas seulement de
-devenir enfants de Dieu, mais en tant qu’héritiers de Dieu majeurs, il importe que nous prenions
-notre position spirituelle. Un héritier qui est encore mineur peut être millionnaire, et cependant ne
-pouvoir disposer de rien jusqu’à ce qu’il ait atteint sa majorité, et soit établi dans la totalité de sa
-possession.
-   Si nous partons de cette certitude que Le Seigneur Jésus n’a pu dire que ce qu’Il pensait, et
-qu’Il pensait réellement ce qu’Il disait, il reste alors, pour l’Eglise du Dieu Vivant, une charge
-importante à accomplir. Il a fait cette promesse: “En vérité, en vérité, je vous le dis, celui qui croit
-en moi fera aussi les oeuvres que je fais, et il en fera de plus grandes…” (Jean 14.12).
-   Nous avons le droit de croire ce que le Seigneur a dit, car ce n’est pas la promesse d’un
-homme, mais bien la promesse de la Parole de Dieu. En ce temps-là, le Seigneur disait, pour
-justifier Sa mission: “Croyez-moi, je suis dans le Père, et le Père est en moi; croyez du moins à
-cause de ces oeuvres” (Jean 14.11). Et juste avant cette parole, Il disait à Ses disciples: “Si vous
-me connaissiez, vous connaîtriez aussi mon Père. Et dès maintenant, vous le connaissez, et vous
-l’avez vu” (Jean 14.7). Philippe avait demandé au Seigneur de leur montrer le Père, et Jésus lui
-répondit: “Celui qui m’a vu a vu le Père”. C’est pour cela qu’Il présentait les oeuvres qui
-s’accomplissaient par Lui comme preuve de ce qu’Il était. Les paroles seules ne suffisent pas. Il
-faut que des actes divins et des oeuvres divines soient manifestés.
-   Nous trouvons notre leçon dans Marc 11.22: “Jésus prit la parole, et leur dit: Ayez foi en Dieu.
-Je vous le dis en vérité (ce n’est pas un prédicateur, ni un évangéliste, qui dit cela, mais le
-Seigneur de gloire!), si quelqu’un dit à cette montagne: Ote-toi de là, et jette-toi dans la mer, et s’il
-ne doute point en son coeur, mais croit que ce qu’il dit arrive, il le verra s’accomplir”. Si nous
-voulons saisir ce que le Seigneur Jésus a dit, nous devons considérer le contexte de cela. C’est
-alors seulement, que nous comprendrons toute la signification de Sa déclaration. Dans les Saintes
-Ecritures, la volonté de Dieu S’est fait connaître. Le Seigneur a promis de nous donner la force
-nécessaire pour accomplir ce qu’Il nous commande. Avant que nous ne puissions exprimer au
-Nom du Seigneur ce qui doit arriver, nous devons attendre Ses directives. A l’occasion du premier
-miracle qu’Il fit à Cana, en Galilée, cette recommandation avait été donnée: “Faites ce qu’il vous
-dira”. C’est ainsi que s’accomplissent les miracles de Dieu. Nous devons attendre jusqu’à ce que
-le Seigneur nous dise ce que nous devons faire, ou quelle parole nous devons prononcer. Alors,
-cela s’accomplira sans aucun doute.
+Si nous voulons subsister devant Dieu avec nos oeuvres, nous devons être certains qu’elles sont faites selon Sa Parole. Le Seigneur Jésus a dit: “Ma nourriture est de faire la volonté de celui qui m’a envoyé, et d’accomplir son oeuvre” (Jean 4.34). Le Seigneur Lui-même a commencé Son oeuvre, et c’est Lui qui l’achèvera.
 
-        http://www.cmpp.ch
+Nous devons reconnaître de quelle manière Il agit dans ce temps, au milieu de Son Eglise, et de quelle manière Il l’amène à son achèvement. Il existe des promesses qui parlent de ce qui doit avoir lieu, pour finir, dans l’Eglise du Nouveau Testament. Nous avons bien souvent entendu dire que tout ce qui avait été perdu devait être restitué, que tout ce qui était tordu devait être redressé, que tous lieux raboteux devaient être aplanis, et que toutes choses devaient être ramenées à leur juste place.
 
-LETTRE CIRCULAIRE 9 — NOVEMBRE 1976 3
-   Les disciples avaient entendu le Seigneur dire à un arbre qui n’avait pas de fruits: “Que jamais
-personne ne mange de ton fruit!”. Pour Lui, le cas était réglé; et Il poursuivi Son chemin vers
-Jérusalem. Comme nous le savons, c’est à cette occasion qu’Il fit de l’ordre dans le Temple, et
-prononça cette parole: “N’est-il pas écrit: Ma maison sera appelée une maison de prière pour
-toutes les nations? Mais vous, vous en avez fait une caverne de voleurs”. Le lendemain, alors qu’Il
-revenait, ce fut Pierre qui vit l’arbre, et dit: “Rabbi, regarde, le figuier que tu as maudit a séché”.
-C’est alors que le Seigneur prononça cette parole que nous voulons maintenant considérer: “Ayez
-foi en Dieu”.
-   Il y a donc, avant tout, la foi en Dieu. Cette foi n’est pas la profession d’une religion morte, ou
-celle d’autres religions. Ici, il s’agit de la vraie foi dans le “Dieu de la Bible”, tel qu’Il S’est fait
-connaître dès le commencement comme le Tout-Puissant. Il est le Créateur qui, par la parole de
-Son omnipotence, a appelé toutes choses à l’existence. Il veut nous amener à prononcer Ses
-ordres sous la direction du Saint-Esprit, dans la puissance du Nom de Jésus-Christ, selon ce qu’Il
-a déterminé qui arriverait.
-   Lorsque nous lisons aussi bien l’Ancien que le Nouveau Testament, nous rencontrons toujours
-à nouveau le même Dieu Tout-puissant, qui a fait de grands miracles. Les hommes qui avaient
-une relation directe avec Dieu ne prêchaient pas sur les miracles seulement, mais ils en faisaient
-l’expérience. Celui que nous voyons devant nous est le Dieu Vivant qui a appelé l’univers entier du
-néant à l’existence, qui a fendu les eaux de la mer Rouge, fait jaillir les eaux du rocher, et nourri le
-peuple d’Israël pendant quarante ans de la nourriture du ciel. Le Nom du Seigneur est exalté bien
-haut, et Sa puissance est bel et bien démontrée et confirmée à toutes Ses créatures.
-   Lorsque le Seigneur Jésus dit: “Ayez foi en Dieu!” nous devons bien saisir tout ce que
-comprend cette expression. Nous n’avons pas foi en nous-mêmes, ou dans nos capacités, mais
-bien dans le Dieu Tout-puissant, Lequel dispose de toutes choses, et peut faire toutes choses.
-Mais maintenant, la question est de savoir comment l’on devient des fils et des filles de Dieu
-adultes, qui puissent être établis dans cet héritage divin, pour en exercer l’administration, car ce
-n’est que de cette manière que toutes choses sont possibles. Le Seigneur Lui-même a dit: “Toutes
-choses sont possibles à celui qui croit”. Non pas à celui qui croit ce qu’il veut, mais bien à celui qui
-croit comme le dit l’Ecriture. Seule, une telle foi est ancrée dans le Dieu Vivant.
-   C’est en rapport avec cela que le Seigneur a prononcé ces paroles: “Je vous le dis en vérité, si
-quelqu’un dit à cette montagne: Ote-toi de là et jette-toi dans la mer, et s’il ne doute point en son
-coeur, mais croit que ce qu’il dit arrive, il le verra s’accomplir”. Avant que, dans la foi, nous
-puissions exprimer quelque chose, cela doit nous être accordé par une instruction divine.
-   Tous les serviteurs de Dieu ont attendu aussi longtemps qu’il le fallait jusqu’à ce que le
-Seigneur leur parle. Alors seulement, ils agirent sur l’ordre de Dieu, et expérimentèrent la
-confirmation de la parole qu’ils avaient prononcée. Ce n’est pas la parole de l’homme qui sera
-confirmée, mais bien “la Parole de Dieu”. Lorsque Dieu dit: “Que la lumière soit!”, l’apparition de la
-lumière fut une confirmation directe de Sa Parole. Lorsqu’Il dit: “Que la terre produise de la
-verdure, de l’herbe, etc…”, cela s’accomplit comme confirmation de la Parole de Dieu. Lorsque le
-Seigneur Jésus dit à un lépreux: “Je le veux, sois pur!”, alors, cela s’accomplit. Lorsque ce qui a
-été dit est arrivé, c’est la confirmation de la Parole.
-   Le Seigneur dit à Moïse: “S’il y a un prophète au milieu de vous, c’est moi, le Seigneur, qui lui
-parle. Et si ce qu’il dit s’accomplit, c’est moi, le Seigneur, qui ai parlé par lui. Sinon, le prophète a
-parlé par témérité”. Il n’est pas question ici qu’une personne ou une communauté soit confirmée,
-mais bien que la Parole de Dieu soit confirmée.
-   En premier lieu, nous devons reconnaître ce que Dieu a promis dans Sa Parole, et savoir ce
-qu’Il désire faire maintenant. Après qu’en ce temps-ci, nous ayons non seulement lu la Parole
-écrite, mais que nous ayons entendu la Parole parlée, nous devons en arriver là où le Seigneur fait
-connaître Sa volonté, là où Sa Parole a été placée à sa juste place. Dans Exode 25, il nous est dit
-comment l’Arche de l’Alliance était préparée, et comment elle était placée à sa juste place. Puis,
-aux versets 21 et 22, Dieu dit à Moïse: “… et tu mettras dans l’arche le témoignage, que je te
-donnerai. C’est là que je me rencontrerai avec toi; du haut du propitiatoire, entre les deux
-chérubins placés sur l’arche du témoignage, je te donnerai tous mes ordres pour les enfants
-d’Israël”. Le témoignage (les tables de la loi) était placé dans l’Arche de l’Alliance; toutefois, le
-Seigneur parlait là où Sa Parole était conservée. Il donnait dans ce lieu des instructions et des
+Le Seigneur Jésus, par Son ministère sur cette terre, a été manifesté avec puissance comme Fils de Dieu, et nous aussi devons être révélés comme fils et filles de Dieu. Il est écrit: “Aussi, la création attend-elle avec un ardent désir la révélation des fils de Dieu” (Romains 8.19). Nous ne devons pas rester plus longtemps des enfants mineurs, mais bien plutôt croître jusqu’à la mesure de la stature parfaite de Christ, et recueillir notre héritage divin. Paul dit: “Or, aussi longtemps que l’héritier est enfant, je dis qu’il ne diffère en rien d’un esclave, quoiqu’il soit le maître de tout” (Galates 4.1).
 
-        http://www.cmpp.ch
+En rapport avec la délivrance acquise par Jésus-Christ, il est dit: “… afin qu’il rachetât ceux qui étaient sous la loi, afin que nous reçussions l’adoption” (Galates 4.5). Il ne s’agit pas seulement de devenir enfants de Dieu, mais en tant qu’héritiers de Dieu majeurs, il importe que nous prenions notre position spirituelle. Un héritier qui est encore mineur peut être millionnaire, et cependant ne pouvoir disposer de rien jusqu’à ce qu’il ait atteint sa majorité, et soit établi dans la totalité de sa possession.
 
-LETTRE CIRCULAIRE 9 — NOVEMBRE 1976 4
-ordres au peuple d’Israël, lequel, après avoir été sauvé et libéré, était pour le Seigneur une
-propriété particulière.
-   De la même manière, nous voyons très souvent, et cela dès le début du Nouveau Testament,
-que partout où la Parole de Dieu a été mise à sa juste place, et publiée de la bonne façon, le
-Seigneur S’est manifesté comme étant Le Vivant et Le Ressuscité, en confirmant la Parole qui
-était prêchée selon Son ordre. C’est ce que nous lisons dans Hébreux 2.4: “… Dieu appuyant leur
-témoignage par des signes, des prodiges, et divers miracles, et par les dons du Saint-Esprit,
-distribués selon sa volonté”.
-   Dans le christianisme du début, nous ne trouvons pas de prédication intellectuelle, ni
-l’élaboration d’un exposé desséchant. Non! Il y avait là des hommes remplis du Saint-Esprit, qui
-parlaient au Nom du Seigneur, et par lesquels Dieu agissait d’une manière surnaturelle, et dans le
-ministère desquels Sa Parole était confirmée de diverses manières. Ainsi, à la fin du temps de la
-grâce, l’achèvement de l’Eglise du Seigneur doit se manifester pareillement.
-   Il faut que, pendant la prédication de la Parole, l’Esprit de Dieu puisse parler à nos coeurs, de
-telle sorte que nous sachions ce que nous avons ensuite à demander à Dieu dans nos prières.
-C’est pour cela qu’il est écrit, dans Marc 11.24: “C’est pourquoi je vous dis: Tout ce que vous
-demanderez en priant, croyez que vous l’avez reçu, et vous le verrez s’accomplir”. Toute chose
-doit trouver sa juste place dans l’Eglise du Seigneur; que ce soit la prédication de la Parole, la
-prière ou l’expression de tout ce que nous pouvons demander à Dieu dans la foi. C’est une foi
-produite par Dieu, que la prédication de la Parole de Dieu a fait naître, et c’est par cela que la
-Parole est confirmée.
-   Lorsque toutes choses seront arrivées à leur achèvement, c’est alors que les rachetés
-chanteront: “Tes oeuvres sont grandes et admirables, Seigneur Dieu tout-puissant! Tes voies sont
-justes et véritables, roi des nations!”. Nous plaçons notre espérance sur le Seigneur seul, et nous
-savons qu’Il amènera Son oeuvre jusqu’à son plein achèvement.
-        Agissant de la part du Seigneur.
+Si nous partons de cette certitude que Le Seigneur Jésus n’a pu dire que ce qu’Il pensait, et qu’Il pensait réellement ce qu’Il disait, il reste alors, pour l’Eglise du Dieu Vivant, une charge importante à accomplir. Il a fait cette promesse: “En vérité, en vérité, je vous le dis, celui qui croit en moi fera aussi les oeuvres que je fais, et il en fera de plus grandes…” (Jean 14.12).
 
+Nous avons le droit de croire ce que le Seigneur a dit, car ce n’est pas la promesse d’un homme, mais bien la promesse de la Parole de Dieu. En ce temps-là, le Seigneur disait, pour justifier Sa mission: “Croyez-moi, je suis dans le Père, et le Père est en moi; croyez du moins à cause de ces oeuvres” (Jean 14.11). Et juste avant cette parole, Il disait à Ses disciples: “Si vous me connaissiez, vous connaîtriez aussi mon Père. Et dès maintenant, vous le connaissez, et vous l’avez vu” (Jean 14.7). Philippe avait demandé au Seigneur de leur montrer le Père, et Jésus lui répondit: “Celui qui m’a vu a vu le Père”. C’est pour cela qu’Il présentait les oeuvres qui s’accomplissaient par Lui comme preuve de ce qu’Il était. Les paroles seules ne suffisent pas. Il faut que des actes divins et des oeuvres divines soient manifestés.
 
+Nous trouvons notre leçon dans Marc 11.22: “Jésus prit la parole, et leur dit: Ayez foi en Dieu. Je vous le dis en vérité (ce n’est pas un prédicateur, ni un évangéliste, qui dit cela, mais le Seigneur de gloire!), si quelqu’un dit à cette montagne: Ote-toi de là, et jette-toi dans la mer, et s’il ne doute point en son coeur, mais croit que ce qu’il dit arrive, il le verra s’accomplir”. Si nous voulons saisir ce que le Seigneur Jésus a dit, nous devons considérer le contexte de cela. C’est alors seulement, que nous comprendrons toute la signification de Sa déclaration. Dans les Saintes Ecritures, la volonté de Dieu S’est fait connaître. Le Seigneur a promis de nous donner la force nécessaire pour accomplir ce qu’Il nous commande. Avant que nous ne puissions exprimer au Nom du Seigneur ce qui doit arriver, nous devons attendre Ses directives. A l’occasion du premier miracle qu’Il fit à Cana, en Galilée, cette recommandation avait été donnée: “Faites ce qu’il vous dira”. C’est ainsi que s’accomplissent les miracles de Dieu. Nous devons attendre jusqu’à ce que le Seigneur nous dise ce que nous devons faire, ou quelle parole nous devons prononcer. Alors, cela s’accomplira sans aucun doute.
 
+Les disciples avaient entendu le Seigneur dire à un arbre qui n’avait pas de fruits: “Que jamais personne ne mange de ton fruit!”. Pour Lui, le cas était réglé; et Il poursuivit Son chemin vers Jérusalem. Comme nous le savons, c’est à cette occasion qu’Il fit de l’ordre dans le Temple, et prononça cette parole: “N’est-il pas écrit: Ma maison sera appelée une maison de prière pour toutes les nations? Mais vous, vous en avez fait une caverne de voleurs”. Le lendemain, alors qu’Il revenait, ce fut Pierre qui vit l’arbre, et dit: “Rabbi, regarde, le figuier que tu as maudit a séché”. C’est alors que le Seigneur prononça cette parole que nous voulons maintenant considérer: “Ayez foi en Dieu”.
 
+Il y a donc, avant tout, la foi en Dieu. Cette foi n’est pas la profession d’une religion morte, ou celle d’autres religions. Ici, il s’agit de la vraie foi dans le “Dieu de la Bible”, tel qu’Il S’est fait connaître dès le commencement comme le Tout-Puissant. Il est le Créateur qui, par la parole de Son omnipotence, a appelé toutes choses à l’existence. Il veut nous amener à prononcer Ses ordres sous la direction du Saint-Esprit, dans la puissance du Nom de Jésus-Christ, selon ce qu’Il a déterminé qui arriverait.
 
+Lorsque nous lisons aussi bien l’Ancien que le Nouveau Testament, nous rencontrons toujours à nouveau le même Dieu Tout-puissant, qui a fait de grands miracles. Les hommes qui avaient une relation directe avec Dieu ne prêchaient pas sur les miracles seulement, mais ils en faisaient l’expérience. Celui que nous voyons devant nous est le Dieu Vivant qui a appelé l’univers entier du néant à l’existence, qui a fendu les eaux de la mer Rouge, fait jaillir les eaux du rocher, et nourri le peuple d’Israël pendant quarante ans de la nourriture du ciel. Le Nom du Seigneur est exalté bien haut, et Sa puissance est bel et bien démontrée et confirmée à toutes Ses créatures.
 
+Lorsque le Seigneur Jésus dit: “Ayez foi en Dieu!” nous devons bien saisir tout ce que comprend cette expression. Nous n’avons pas foi en nous-mêmes, ou dans nos capacités, mais bien dans le Dieu Tout-puissant, Lequel dispose de toutes choses, et peut faire toutes choses. Mais maintenant, la question est de savoir comment l’on devient des fils et des filles de Dieu adultes, qui puissent être établis dans cet héritage divin, pour en exercer l’administration, car ce n’est que de cette manière que toutes choses sont possibles. Le Seigneur Lui-même a dit: “Toutes choses sont possibles à celui qui croit”. Non pas à celui qui croit ce qu’il veut, mais bien à celui qui croit comme le dit l’Ecriture. Seule, une telle foi est ancrée dans le Dieu Vivant.
 
+C’est en rapport avec cela que le Seigneur a prononcé ces paroles: “Je vous le dis en vérité, si quelqu’un dit à cette montagne: Ote-toi de là et jette-toi dans la mer, et s’il ne doute point en son coeur, mais croit que ce qu’il dit arrive, il le verra s’accomplir”. Avant que, dans la foi, nous puissions exprimer quelque chose, cela doit nous être accordé par une instruction divine.
 
+Tous les serviteurs de Dieu ont attendu aussi longtemps qu’il le fallait jusqu’à ce que le Seigneur leur parle. Alors seulement, ils agirent sur l’ordre de Dieu, et expérimentèrent la confirmation de la parole qu’ils avaient prononcée. Ce n’est pas la parole de l’homme qui sera confirmée, mais bien “la Parole de Dieu”. Lorsque Dieu dit: “Que la lumière soit!”, l’apparition de la lumière fut une confirmation directe de Sa Parole. Lorsqu’Il dit: “Que la terre produise de la verdure, de l’herbe, etc…”, cela s’accomplit comme confirmation de la Parole de Dieu. Lorsque le Seigneur Jésus dit à un lépreux: “Je le veux, sois pur!”, alors, cela s’accomplit. Lorsque ce qui a été dit est arrivé, c’est la confirmation de la Parole.
 
-EDITORIAL
-   Les lignes suivantes sont l’adaptation d’une partie de la prédication apportée par
-   notre frère Frank à la rencontre de Genève, le 28 août 1976.
+Le Seigneur dit à Moïse: “S’il y a un prophète au milieu de vous, c’est moi, le Seigneur, qui lui parle. Et si ce qu’il dit s’accomplit, c’est moi, le Seigneur, qui ai parlé par lui. Sinon, le prophète a parlé par témérité”. Il n’est pas question ici qu’une personne ou une communauté soit confirmée, mais bien que la Parole de Dieu soit confirmée.
 
-   Nous croyons de tout notre coeur que la venue de notre Seigneur Jésus-Christ est très proche,
-et nous voulons nous souvenir que la Bible ne dit pas que “ceux qui connaissaient le temps furent
-enlevés”. Elle dit plutôt, en parlant des vierges: “… celles qui étaient prêtes entrèrent avec lui dans
-la salle des noces”. (Mat. 25.10). Ce n’est donc pas la connaissance du temps exact de Sa venue
-qui importe, mais bien le fait d’être prêts à tout moment pour cet événement glorieux. C’est dans
-ce but que notre Père céleste a envoyé un Message par le ministère de notre frère Branham. Nous
-devions être ramenés aux enseignements originaux de l’Eglise du début, et il n’y a pas de
-différence entre le message de l’heure et la Parole de Dieu. En fait, le Message de l’heure est la
-Parole de Dieu révélée, et nous croyons cela de tout notre coeur.
-   Notre propos, ici, n’est pas de parler de frère Branham, mais bien de parler du Seigneur Jésus-
-Christ. Il est le Premier, et Il est aussi le Dernier; Il est la Pierre angulaire principale, et Il est aussi
-la Pierre du faîte. Pour commencer un édifice, on pose la pierre angulaire, et toutes les mesures à
-prendre pour la pose des pierres suivantes se font en rapport avec cette pierre d’angle. Nous
-savons que la Nouvelle Jérusalem est édifiée en forme de pyramide, et, dans ce genre de
-construction, non seulement la pierre d’angle (celle qui donne la base des mesures) est d’une
+En premier lieu, nous devons reconnaître ce que Dieu a promis dans Sa Parole, et savoir ce qu’Il désire faire maintenant. Après qu’en ce temps-ci, nous ayons non seulement lu la Parole écrite, mais que nous ayons entendu la Parole parlée, nous devons en arriver là où le Seigneur fait connaître Sa volonté, là où Sa Parole a été placée à sa juste place. Dans Exode 25, il nous est dit comment l’Arche de l’Alliance était préparée, et comment elle était placée à sa juste place. Puis, aux versets 21 et 22, Dieu dit à Moïse: “… et tu mettras dans l’arche le témoignage, que je te donnerai. C’est là que je me rencontrerai avec toi; du haut du propitiatoire, entre les deux chérubins placés sur l’arche du témoignage, je te donnerai tous mes ordres pour les enfants d’Israël”. Le témoignage (les tables de la loi) était placé dans l’Arche de l’Alliance; toutefois, le Seigneur parlait là où Sa Parole était conservée. Il donnait dans ce lieu des instructions et des ordres au peuple d’Israël, lequel, après avoir été sauvé et libéré, était pour le Seigneur une propriété particulière.
 
-        http://www.cmpp.ch
+De la même manière, nous voyons très souvent, et cela dès le début du Nouveau Testament, que partout où la Parole de Dieu a été mise à sa juste place, et publiée de la bonne façon, le Seigneur S’est manifesté comme étant Le Vivant et Le Ressuscité, en confirmant la Parole qui était prêchée selon Son ordre. C’est ce que nous lisons dans Hébreux 2.4: “… Dieu appuyant leur témoignage par des signes, des prodiges, et divers miracles, et par les dons du Saint-Esprit, distribués selon sa volonté”.
 
-    LETTRE CIRCULAIRE 9 — NOVEMBRE 1976    5
-grande importance, mais également la pierre du faîte, vers laquelle convergent toutes les lignes de
-la construction. Toutes les corrections données en cours de construction de l’édifice sont faites en
-rapport avec ces deux pierres. Nous comprenons donc combien il est important que notre attention
-soit fixée sur Jésus-Christ, le Même à la fin qu’au commencement. S’Il est l’Alpha, Il est aussi
-l’Oméga, et Son Corps s’édifie en accord parfait avec la Parole de Dieu ayant trait au fondement
-de la foi en Christ, comme à l’achèvement des paroles prophétiques qui Le concernent.
-   Si nous donnons au Seigneur Jésus la place correcte qui Lui revient en tant qu’Alpha et Oméga
-dans l’édifice de Dieu, Il nous donnera aussi la place correcte qui nous revient dans le Corps de
-Christ. C’est Jésus-Christ qui a la prééminence en toutes choses dans l’Eglise du Dieu Vivant.
-   Partout où le Message de la fin des temps est parvenu, les mêmes questions nous sont
-posées: «Combien de temps nous reste-t-il?», «Qu’est-ce que le 7ème Sceau?», «Que sont les 7
-tonnerres?», «Qu’est-ce que le 3ème Pull?», et d’autres encore. Nous savons bien que de
-nombreuses déclarations de frère Branham sont devenues le sujet d’une controverse parmi les
-croyants, et cela peut même aller jusqu’à créer des divisions entre frères ayant reçu ce précieux
-Message du temps de la fin. C’est pourquoi nous aimerions rappeler que frère Branham a dit lui-
-même: «Ramenez toujours cela à la Parole. Quoi que nous disions, cela doit se trouver dans
-la Parole de Dieu». Ce fut toujours la ruse de l’ennemi de mettre l’accent sur certaines
-déclarations de vrais serviteurs de Dieu, pour éloigner les croyants de la Parole de Dieu, et les
-engager à constituer des clans, se sanctifiant eux-mêmes autour de “leur révélation”. Nous
-n’avons pas à nous laisser accaparer par la recherche de ces “mystères”, car si Christ est en
-nous, Il est aussi l’Alpha et l’Oméga de tous les mystères de Dieu (Colossiens 1.24-29). Notre Père veut
-que nous restions avec Sa Parole, et si nous nous égarons, Il nous ramènera toujours à Sa
-Parole, et à Son Fils Bien-aimé, en qui Il a trouvé tout Son plaisir.
-   Ainsi, mes frères et soeurs bien-aimés, quelles que soient les choses que vous puissiez
-entendre sur différents sujets qui n’édifient pas le Corps de Christ, mais le divisent plutôt, n’y
-prêtez pas attention. Simplement, faites le point; considérez la Pierre angulaire, le fondement posé
-une fois pour toutes, puis regardez aussi à la Pierre du faîte qui est sur le point de Se poser sur
-l’édifice, et gardez votre place en Christ, dans la Parole de Dieu. Alors, Dieu vous conduira plus
-loin, jusqu’à ce que, finalement, vous receviez cette puissance de Dieu. Cette puissance sera
-manifestée au travers de nos corps mortels, et les oeuvres de Jésus-Christ s’accompliront selon
-ce que dit la Parole prophétique. Simplement, n’ayez pas peur! Croyez seulement! Dieu a Sa
-façon de faire jusqu’à la fin. Ce ne sera pas ma façon de faire, ou votre façon de faire qui
-prévaudra. Dieu veille sur Sa Parole, et Il l’accomplira à Sa manière. Il ne donnera pas Sa gloire à
-un autre qu’à Son Fils Bien-aimé, et Il prouvera que Son Nom est au-dessus de tout nom, et que
-Sa Puissance est la même au travers des disciples des derniers temps que dans ceux du premier
-âge de l’Eglise. C’est cela que nous attendons.
-   Mais nous devons atteindre cette position spirituelle, ce lieu d’adoration choisi par Dieu en
-Christ. Nous devons être UN dans la doctrine, dans les oeuvres, et en toutes choses. Nous
-devons prier les uns pour les autres, demandant à notre Père céleste le secours de Son Esprit
-pour qu’en chacun des membres du Corps de Christ, Son Nom soit sanctifié, que Son règne
-vienne, et que Sa volonté soit faite sur la terre comme au ciel. Nous devons nous aimer les uns les
-autres, avec un véritable amour venant de Dieu par le Saint-Esprit qui nous a été donné. Toutes
-ces choses qui produisent des séparations dans le Corps de Christ ne viennent pas de Dieu. Nous
-savons que le Message de la fin des temps est un message de séparation; mais de séparation
-d’avec l’incrédulité, de séparation d’avec les doctrines des dénominations, et de celles en
-circulation ici et là. C’est la séparation d’avec ce monde; la séparation d’avec le péché; mais non
-pas la séparation des disciples de Jésus-Christ les uns d’avec les autres. Nous nous rassemblons
-sous le même Message, celui envoyé à notre génération, sous la même Parole de Dieu, Celle
-révélée dans ce dernier âge de l’Eglise, et sous la même Puissance de Dieu, celle qui a été
-manifestée dans le ministère de notre frère Branham. Mais ne perdons plus notre temps. Il ne
-s’agit pas de se ranger au côté d’un frère, mais de se ranger au coté de Jésus-Christ.
-Rangez-vous au côté de la Parole de Dieu, et priez simplement que tous les frères servent dans
-l’unité, ayant en vue l’édification du Corps de Christ. Nous devons être UN en Christ, et je crois de
-tout mon coeur que si nous avons un ministère de Dieu, il peut s’exercer dans cette pensée-là. S’il
-y a deux ou trois frères qui ont un ministère de la Parole dans une assemblée locale, il y a
-suffisamment de place pour que chacun exerce son ministère. Mais les frères ne doivent pas avoir
+Dans le christianisme du début, nous ne trouvons pas de prédication intellectuelle, ni l’élaboration d’un exposé desséchant. Non! Il y avait là des hommes remplis du Saint-Esprit, qui parlaient au Nom du Seigneur, et par lesquels Dieu agissait d’une manière surnaturelle, et dans le ministère desquels Sa Parole était confirmée de diverses manières. Ainsi, à la fin du temps de la grâce, l’achèvement de l’Eglise du Seigneur doit se manifester pareillement.
 
-                         http://www.cmpp.ch
+Il faut que, pendant la prédication de la Parole, l’Esprit de Dieu puisse parler à nos coeurs, de telle sorte que nous sachions ce que nous avons ensuite à demander à Dieu dans nos prières. C’est pour cela qu’il est écrit, dans Marc 11.24: “C’est pourquoi je vous dis: Tout ce que vous demanderez en priant, croyez que vous l’avez reçu, et vous le verrez s’accomplir”. Toute chose doit trouver sa juste place dans l’Eglise du Seigneur; que ce soit la prédication de la Parole, la prière ou l’expression de tout ce que nous pouvons demander à Dieu dans la foi. C’est une foi produite par Dieu, que la prédication de la Parole de Dieu a fait naître, et c’est par cela que la Parole est confirmée.
 
-LETTRE CIRCULAIRE 9 — NOVEMBRE 1976 6
-de motifs égoïstes, pensant: «Si je peux avoir une église à moi, je serai le patron! Je ferai ce que
-je voudrai, je n’aurai pas besoin de me soumettre à mes frères, et tous devront faire comme je
-veux!». Frères, si vous pensez comme cela, vous n’avez en aucune façon reçu un appel de Dieu.
-Si vous ne pensez pas au Corps de Christ, si vous ne servez pas Dieu en toute circonstance, si
-vous voulez seulement Le servir lorsque votre propre volonté s’accomplit, ce n’est pas la façon
-correcte. Vous n’avez pas la pensée de Christ.
-   Nous sommes dans une grande attente que Dieu agira d’une façon puissante dans un futur tout
-proche. Mais, avant que cela puisse arriver, nous devons être UN en Jésus-Christ. Nous ne
-devons pas être plus longtemps divisés. Le jour de Pentecôte, ils étaient d’un même coeur et
-d’une même âme. Ils ne discutaient pas, ils priaient. Et alors, le bâtiment lui-même se mit à
-trembler par la grande puissance du Dieu Tout-puissant, parce qu’ils étaient UN en Jésus-Christ.
-Ensuite, la main du Seigneur s’étendit pour que soient manifestés de puissants signes et miracles,
-parce que la puissance de Dieu était au milieu d’eux.
-   L’année 1976 touche à sa fin, et l’année importante de 1977 va bientôt commencer. Il y a en ce
-moment des gens pour qui 1977 sera l’année de la venue de Jésus-Christ. Mais, mes chers frères
-et soeurs, nous ne pouvons pas dire cela! Nous pouvons seulement dire que Jésus-Christ viendra!
-Mais nous ne pouvons pas dire quel sera le jour et l’heure. Nous ne savons pas; et, parce que
-nous ne savons pas, nous devons attendre jusqu’à ce que ce moment-là arrive. Nous croyons que
-l’année 1977 sera très importante, et frère Branham a fait certaines déclarations qui doivent être
-considérées. Lorsque frère Branham a parlé sur les 7 Ages de l’Eglise, il s’est référé à trois
-reprises à l’année 1977, et il a dit: «Je ne prophétise pas, je prédis…». Il a dit: «Je peux me
-tromper d’une année, de vingt ans ou de cent ans, parce que personne ne connaît le temps…».
-Ainsi, nous devons prendre toutes ses déclarations, trouver notre équilibre dans la Parole de Dieu,
-et attendre jusqu’au moment où le Seigneur Jésus-Christ viendra effectivement. Mais en tout cela,
-le Seigneur Jésus-Christ a Sa manière de faire avec Son peuple. Dieu a toujours eu Sa manière
-de faire avec Son peuple, et il en ira toujours ainsi, jusqu’à la fin.
-   Frère Branham a fait d’étonnantes déclarations. Il a dit. «Aucune démocratie n’a duré plus de
-200 ans!». Et, en parlant des Etats-Unis, il dit: «Même celle-ci n’y arrivera pas!». Cependant, le 4
-juillet de cette année, le bicentenaire de cette nation a été célébré. Alors, des frères se sont mis à
-publier qu’il n’y avait plus de démocratie aux Etats-Unis, parce que les deux derniers présidents
-n’avaient pas été élus, mais simplement désignés. Mais ceci est un mensonge, car les deux
-présidents désignés l’ont été dans la période des élections. C’est simplement une partie de la
-démocratie, comme les élections qui ont lieu périodiquement. Ainsi, parce que certains frères
-veulent que frère Branham soit reconnu pour être juste dans toutes ses déclarations, ils ne veulent
-dire que ce qui est dans le Message, et ils sont prêts à dire un mensonge, plutôt que de dire la
-vérité. Cependant, comme le dit Romains 3.4: “Que Dieu, au contraire, soit reconnu pour vrai, et
-tout homme pour menteur…”. Nous n’avons pas besoin de nous inquiéter au sujet de frère
-Branham et de ses déclarations. S’il a parlé en tant que prophète de Dieu, sous l’inspiration du
-Saint-Esprit, alors Dieu prendra soin de cette parole. Mais s’il a parlé en tant que frère Branham, il
-était un homme comme tous les autres hommes. Nous pourrions indiquer de nombreuses
-déclarations comme celle-ci, mais si nous nous tenons aux déclarations de la Parole de Dieu, si
-nous revenons au Seigneur Jésus-Christ, nous sommes alors unis les uns aux autres pour former
-un seul Corps de Christ, et le même Saint-Esprit nous oint tous. Nous ne nous égarons pas dans
-telle ou telle direction, mais nous gardons la paix de Christ, qui est l’Auteur et le Consommateur de
-notre foi.
-   Nous ne pouvons pas dire: «Parce que ceci ou cela n’est pas arrivé, le Seigneur ne peut pas
-revenir!». Nous ne savons pas ce qui en est de la venue de Christ, mais je sais que si je vis
-encore en janvier 1978, je prêcherai comme je le fais aujourd’hui. Même, je croirai plus que je ne
-le fais aujourd’hui, étant convaincu que Jésus-Christ viendra. Restons simples et sobres, et levons
-les yeux, car notre rédemption approche. Mais ne dites pas qu’elle viendra à tel ou tel moment;
-attendez simplement jusqu’à ce que le Seigneur vienne, et alors, Il nous prendra là-haut!
-   Bénissons Son Saint Nom! Amen!
+Lorsque toutes choses seront arrivées à leur achèvement, c’est alors que les rachetés chanteront: “Tes oeuvres sont grandes et admirables, Seigneur Dieu tout-puissant! Tes voies sont justes et véritables, roi des nations!”. Nous plaçons notre espérance sur le Seigneur seul, et nous savons qu’Il amènera Son oeuvre jusqu’à son plein achèvement.
 
+Agissant de la part du Seigneur.
 
+---
 
+## EDITORIAL
 
+Les lignes suivantes sont l’adaptation d’une partie de la prédication apportée par notre frère Frank à la rencontre de Genève, le 28 août 1976.
 
-    http://www.cmpp.ch
+Nous croyons de tout notre coeur que la venue de notre Seigneur Jésus-Christ est très proche, et nous voulons nous souvenir que la Bible ne dit pas que “ceux qui connaissaient le temps furent enlevés”. Elle dit plutôt, en parlant des vierges: “… celles qui étaient prêtes entrèrent avec lui dans la salle des noces”. (Mat. 25.10). Ce n’est donc pas la connaissance du temps exact de Sa venue qui importe, mais bien le fait d’être prêts à tout moment pour cet événement glorieux. C’est dans ce but que notre Père céleste a envoyé un Message par le ministère de notre frère Branham. Nous devions être ramenés aux enseignements originaux de l’Eglise du début, et il n’y a pas de différence entre le message de l’heure et la Parole de Dieu. En fait, le Message de l’heure est la Parole de Dieu révélée, et nous croyons cela de tout notre coeur.
+
+Notre propos, ici, n’est pas de parler de frère Branham, mais bien de parler du Seigneur Jésus-Christ. Il est le Premier, et Il est aussi le Dernier; Il est la Pierre angulaire principale, et Il est aussi la Pierre du faîte. Pour commencer un édifice, on pose la pierre angulaire, et toutes les mesures à prendre pour la pose des pierres suivantes se font en rapport avec cette pierre d’angle. Nous savons que la Nouvelle Jérusalem est édifiée en forme de pyramide, et, dans ce genre de construction, non seulement la pierre d’angle (celle qui donne la base des mesures) est d’une grande importance, mais également la pierre du faîte, vers laquelle convergent toutes les lignes de la construction. Toutes les corrections données en cours de construction de l’édifice sont faites en rapport avec ces deux pierres. Nous comprenons donc combien il est important que notre attention soit fixée sur Jésus-Christ, le Même à la fin qu’au commencement. S’Il est l’Alpha, Il est aussi l’Oméga, et Son Corps s’édifie en accord parfait avec la Parole de Dieu ayant trait au fondement de la foi en Christ, comme à l’achèvement des paroles prophétiques qui Le concernent.
+
+Si nous donnons au Seigneur Jésus la place correcte qui Lui revient en tant qu’Alpha et Oméga dans l’édifice de Dieu, Il nous donnera aussi la place correcte qui nous revient dans le Corps de Christ. C’est Jésus-Christ qui a la prééminence en toutes choses dans l’Eglise du Dieu Vivant.
+
+Partout où le Message de la fin des temps est parvenu, les mêmes questions nous sont posées: «Combien de temps nous reste-t-il?», «Qu’est-ce que le 7ème Sceau?», «Que sont les 7 tonnerres?», «Qu’est-ce que le 3ème Pull?», et d’autres encore. Nous savons bien que de nombreuses déclarations de frère Branham sont devenues le sujet d’une controverse parmi les croyants, et cela peut même aller jusqu’à créer des divisions entre frères ayant reçu ce précieux Message du temps de la fin. C’est pourquoi nous aimerions rappeler que frère Branham a dit lui-même: «Ramenez toujours cela à la Parole. Quoi que nous disions, cela doit se trouver dans la Parole de Dieu». Ce fut toujours la ruse de l’ennemi de mettre l’accent sur certaines déclarations de vrais serviteurs de Dieu, pour éloigner les croyants de la Parole de Dieu, et les engager à constituer des clans, se sanctifiant eux-mêmes autour de “leur révélation”. Nous n’avons pas à nous laisser accaparer par la recherche de ces “mystères”, car si Christ est en nous, Il est aussi l’Alpha et l’Oméga de tous les mystères de Dieu (Colossiens 1.24-29). Notre Père veut que nous restions avec Sa Parole, et si nous nous égarons, Il nous ramènera toujours à Sa Parole, et à Son Fils Bien-aimé, en qui Il a trouvé tout Son plaisir.
+
+Ainsi, mes frères et soeurs bien-aimés, quelles que soient les choses que vous puissiez entendre sur différents sujets qui n’édifient pas le Corps de Christ, mais le divisent plutôt, n’y prêtez pas attention. Simplement, faites le point; considérez la Pierre angulaire, le fondement posé une fois pour toutes, puis regardez aussi à la Pierre du faîte qui est sur le point de Se poser sur l’édifice, et gardez votre place en Christ, dans la Parole de Dieu. Alors, Dieu vous conduira plus loin, jusqu’à ce que, finalement, vous receviez cette puissance de Dieu. Cette puissance sera manifestée au travers de nos corps mortels, et les oeuvres de Jésus-Christ s’accompliront selon ce que dit la Parole prophétique. Simplement, n’ayez pas peur! Croyez seulement! Dieu a Sa façon de faire jusqu’à la fin. Ce ne sera pas ma façon de faire, ou votre façon de faire qui prévaudra. Dieu veille sur Sa Parole, et Il l’accomplira à Sa manière. Il ne donnera pas Sa gloire à un autre qu’à Son Fils Bien-aimé, et Il prouvera que Son Nom est au-dessus de tout nom, et que Sa Puissance est la même au travers des disciples des derniers temps que dans ceux du premier âge de l’Eglise. C’est cela que nous attendons.
+
+Mais nous devons atteindre cette position spirituelle, ce lieu d’adoration choisi par Dieu en Christ. Nous devons être UN dans la doctrine, dans les oeuvres, et en toutes choses. Nous devons prier les uns pour les autres, demandant à notre Père céleste le secours de Son Esprit pour qu’en chacun des membres du Corps de Christ, Son Nom soit sanctifié, que Son règne vienne, et que Sa volonté soit faite sur la terre comme au ciel. Nous devons nous aimer les uns les autres, avec un véritable amour venant de Dieu par le Saint-Esprit qui nous a été donné. Toutes ces choses qui produisent des séparations dans le Corps de Christ ne viennent pas de Dieu. Nous savons que le Message de la fin des temps est un message de séparation; mais de séparation d’avec l’incrédulité, de séparation d’avec les doctrines des dénominations, et de celles en circulation ici et là. C’est la séparation d’avec ce monde; la séparation d’avec le péché; mais non pas la séparation des disciples de Jésus-Christ les uns d’avec les autres. Nous nous rassemblons sous le même Message, celui envoyé à notre génération, sous la même Parole de Dieu, Celle révélée dans ce dernier âge de l’Eglise, et sous la même Puissance de Dieu, celle qui a été manifestée dans le ministère de notre frère Branham. Mais ne perdons plus notre temps. Il ne s’agit pas de se ranger au côté d’un frère, mais de se ranger au coté de Jésus-Christ. Rangez-vous au côté de la Parole de Dieu, et priez simplement que tous les frères servent dans l’unité, ayant en vue l’édification du Corps de Christ. Nous devons être UN en Christ, et je crois de tout mon coeur que si nous avons un ministère de Dieu, il peut s’exercer dans cette pensée-là. S’il y a deux ou trois frères qui ont un ministère de la Parole dans une assemblée locale, il y a suffisamment de place pour que chacun exerce son ministère. Mais les frères ne doivent pas avoir de motifs égoïstes, pensant: «Si je peux avoir une église à moi, je serai le patron! Je ferai ce que je voudrai, je n’aurai pas besoin de me soumettre à mes frères, et tous devront faire comme je veux!». Frères, si vous pensez comme cela, vous n’avez en aucune façon reçu un appel de Dieu. Si vous ne pensez pas au Corps de Christ, si vous ne servez pas Dieu en toute circonstance, si vous voulez seulement Le servir lorsque votre propre volonté s’accomplit, ce n’est pas la façon correcte. Vous n’avez pas la pensée de Christ.
+
+Nous sommes dans une grande attente que Dieu agira d’une façon puissante dans un futur tout proche. Mais, avant que cela puisse arriver, nous devons être UN en Jésus-Christ. Nous ne devons pas être plus longtemps divisés. Le jour de Pentecôte, ils étaient d’un même coeur et d’une même âme. Ils ne discutaient pas, ils priaient. Et alors, le bâtiment lui-même se mit à trembler par la grande puissance du Dieu Tout-puissant, parce qu’ils étaient UN en Jésus-Christ. Ensuite, la main du Seigneur s’étendit pour que soient manifestés de puissants signes et miracles, parce que la puissance de Dieu était au milieu d’eux.
+
+L’année 1976 touche à sa fin, et l’année importante de 1977 va bientôt commencer. Il y a en ce moment des gens pour qui 1977 sera l’année de la venue de Jésus-Christ. Mais, mes chers frères et soeurs, nous ne pouvons pas dire cela! Nous pouvons seulement dire que Jésus-Christ viendra! Mais nous ne pouvons pas dire quel sera le jour et l’heure. Nous ne savons pas; et, parce que nous ne savons pas, nous devons attendre jusqu’à ce que ce moment-là arrive. Nous croyons que l’année 1977 sera très importante, et frère Branham a fait certaines déclarations qui doivent être considérées. Lorsque frère Branham a parlé sur les 7 Ages de l’Eglise, il s’est référé à trois reprises à l’année 1977, et il a dit: «Je ne prophétise pas, je prédis…». Il a dit: «Je peux me tromper d’une année, de vingt ans ou de cent ans, parce que personne ne connaît le temps…». Ainsi, nous devons prendre toutes ses déclarations, trouver notre équilibre dans la Parole de Dieu, et attendre jusqu’au moment où le Seigneur Jésus-Christ viendra effectivement. Mais en tout cela, le Seigneur Jésus-Christ a Sa manière de faire avec Son peuple. Dieu a toujours eu Sa manière de faire avec Son peuple, et il en ira toujours ainsi, jusqu’à la fin.
+
+Frère Branham a fait d’étonnantes déclarations. Il a dit. «Aucune démocratie n’a duré plus de 200 ans!». Et, en parlant des Etats-Unis, il dit: «Même celle-ci n’y arrivera pas!». Cependant, le 4 juillet de cette année, le bicentenaire de cette nation a été célébré. Alors, des frères se sont mis à publier qu’il n’y avait plus de démocratie aux Etats-Unis, parce que les deux derniers présidents n’avaient pas été élus, mais simplement désignés. Mais ceci est un mensonge, car les deux présidents désignés l’ont été dans la période des élections. C’est simplement une partie de la démocratie, comme les élections qui ont lieu périodiquement. Ainsi, parce que certains frères veulent que frère Branham soit reconnu pour être juste dans toutes ses déclarations, ils ne veulent dire que ce qui est dans le Message, et ils sont prêts à dire un mensonge, plutôt que de dire la vérité. Cependant, comme le dit Romains 3.4: “Que Dieu, au contraire, soit reconnu pour vrai, et tout homme pour menteur…”. Nous n’avons pas besoin de nous inquiéter au sujet de frère Branham et de ses déclarations. S’il a parlé en tant que prophète de Dieu, sous l’inspiration du Saint-Esprit, alors Dieu prendra soin de cette parole. Mais s’il a parlé en tant que frère Branham, il était un homme comme tous les autres hommes. Nous pourrions indiquer de nombreuses déclarations comme celle-ci, mais si nous nous tenons aux déclarations de la Parole de Dieu, si nous revenons au Seigneur Jésus-Christ, nous sommes alors unis les uns aux autres pour former un seul Corps de Christ, et le même Saint-Esprit nous oint tous. Nous ne nous égarons pas dans telle ou telle direction, mais nous gardons la paix de Christ, qui est l’Auteur et le Consommateur de notre foi.
+
+Nous ne pouvons pas dire: «Parce que ceci ou cela n’est pas arrivé, le Seigneur ne peut pas revenir!». Nous ne savons pas ce qui en est de la venue de Christ, mais je sais que si je vis encore en janvier 1978, je prêcherai comme je le fais aujourd’hui. Même, je croirai plus que je ne le fais aujourd’hui, étant convaincu que Jésus-Christ viendra. Restons simples et sobres, et levons les yeux, car notre rédemption approche. Mais ne dites pas qu’elle viendra à tel ou tel moment; attendez simplement jusqu’à ce que le Seigneur vienne, et alors, Il nous prendra là-haut!
+
+Bénissons Son Saint Nom! Amen!

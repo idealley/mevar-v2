@@ -1,323 +1,214 @@
-    SERIE 1 N° 6
+---
+source: "cmpp"
+sermon_id: "serie1no6"
+title: "Dieu Dévoilé"
+subtitle: "14 juin 1964, matin"
+date: "1964-06-14"
+year: 1964
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la révélation de Dieu à travers les âges, expliquant comment Dieu s'est voilé dans une colonne de feu, puis en Jésus-Christ, et maintenant par l'Esprit dans l'homme. Il utilise des exemples bibliques et des expériences personnelles pour montrer que Dieu se dévoile à ses élus."
+tags:
+  - "révélation de Dieu"
+  - "voile"
+  - "colonne de feu"
+  - "Jésus-Christ"
+  - "Esprit Saint"
+  - "foi"
+  - "Parole de Dieu"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Élisée"
+  - "Job"
+  - "Paul"
+  - "Pierre"
+  - "Banks Wood"
+  - "Roy Borders"
+  - "Roy Roberson"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Alaska"
+  - "Fairbanks"
+  - "Mont-Sunset"
+  - "Tucson"
+  - "Athènes"
+  - "Dothan"
+themes:
+  - "Dieu se cache et se révèle"
+  - "Transformation de Dieu en homme"
+  - "La foi au-delà de l'explication"
+  - "La Parole comme semence"
+  - "Le jugement et la miséricorde"
+pdf_url: "http://cmpp.ch/serie1no6.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Jean 1"
+  - "2 Corinthiens 12"
+  - "2 Corinthiens 3"
+  - "2 Rois 2"
+  - "2 Rois 6"
+  - "2 Samuel 16"
+  - "Actes 2"
+  - "Actes 26"
+  - "Actes 4"
+  - "Apocalypse 10"
+  - "Apocalypse 19"
+  - "Apocalypse 22"
+  - "Apocalypse 3"
+  - "Colossiens 2"
+  - "Deutéronome 18"
+  - "Deutéronome 8"
+  - "Exode 19"
+  - "Exode 20"
+  - "Exode 34"
+  - "Exode 4"
+  - "Genèse 1"
+  - "Genèse 18"
+  - "Genèse 19"
+  - "Genèse 3"
+  - "Hébreux 1"
+  - "Hébreux 10"
+  - "Hébreux 12"
+  - "Hébreux 13"
+  - "Hébreux 9"
+  - "Jean 1"
+  - "Jean 10"
+  - "Jean 12"
+  - "Jean 14"
+  - "Jean 2"
+  - "Jean 3"
+  - "Jean 4"
+  - "Jean 5"
+  - "Jean 6"
+  - "Joël 2"
+  - "Luc 17"
+  - "Malachie 4"
+  - "Marc 14"
+  - "Marc 16"
+  - "Marc 6"
+  - "Matthieu 11"
+  - "Matthieu 24"
+  - "Matthieu 27"
+  - "Matthieu 28"
+  - "Matthieu 3"
+---
+SERIE 1 N° 6
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
+DIEU DEVOILE
+(Unveiling of God)
 
 
-
-
-
-
-    DIEU DEVOILE
-    (Unveiling of God)
-
-
-
-      14 juin 1964, matin
-       Branham Tabernacle
+14 juin 1964, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    DIEU DEVOILE    2
+DIEU DEVOILE 2
 
 
-   DIEU DEVOILE
+DIEU DEVOILE
 (Unveiling of God)
 
-
-
 14 juin 1964, matin
- Branham Tabernacle
-    Jeffersonville — Indiana U.S.A.
+Branham Tabernacle
+Jeffersonville — Indiana U.S.A.
 
 
 
+Levons-nous quelques instants et inclinons nos têtes pour prier.
+«Notre Seigneur bien-aimé, en vérité, nous te sommes reconnaissants, ce matin, pour le privilège que nous avons de pouvoir nous rassembler ensemble sur cette terre, avant la venue du Seigneur! Puissions-nous aujourd’hui examiner nos coeurs au travers de Ta Parole, pour voir si nous sommes dans la foi, afin que nous puissions être prêts à l’heure de Ton retour; et afin que nous puissions être, comme le dit l’Ecriture, enlevés tous ensemble avec ceux qui sont endormis, pour rencontrer le Seigneur dans les airs, et pour demeurer avec Lui, à jamais!
+Nous Te remercions pour le véritable Esprit chrétien qui se manifeste encore dans le monde, parmi Ton Peuple, et par lequel il croit toujours en Toi, et en Ta Parole! Aujourd’hui, nous Te demandons de nous bénir tous abondamment, de répandre sur chacun de nous ce dont nous avons besoin; afin que nous puissions être abreuvés de Ta Parole, et devenir entre Tes mains des instruments de travail utiles. Nous Te le demandons dans le Nom du Seigneur Jésus-Christ, notre grand Berger, dont nous attendons le retour parmi nous. AMEN!».
+Vous pouvez vous asseoir. Je veux vous dire que, pour moi, c’est un grand privilège, ce matin, de me retrouver parmi vous. Je regrette fort de ne pouvoir vous offrir une salle plus confortable. Ce soir, nous allons essayer de tenir un service de guérison, et de prier pour les malades.
+Il semble un peu difficile, ce matin, de tenir ce service de guérison, car je voudrais enregistrer ce message dont le Seigneur m’a entretenu, durant ces deux derniers mois. Il est long, et je n’aurais pas la possibilité de le prêcher dans une réunion où il faudrait consacrer trente ou quarante minutes pour le service. C’est pourquoi, en raison de ceux qui travaillent, j’ai pensé qu’il est préférable de donner un message qui ne soit pas trop long. Nous ne disposons pas, dans nos campagnes, du temps nécessaire pour l’enregistrement de ce message. Voilà pourquoi je profite de ma présence dans ce Tabernacle pour l’enregistrer ici.
+Nous sommes persuadé que le Seigneur bénira chacun de vous. Je sais que vos coeurs sont remplis de joie, dans l’attente du retour du Seigneur. Mon coeur déborde également, à la vue de tous ces signes avant-coureurs de Son retour — les querelles sur le plan national et l’état dans lequel se trouve l’Eglise, aussi bien au point de vue matériel que spirituel. Nous savons donc que le temps de Son retour est très proche. Nos coeurs sont remplis de joie de savoir qu’un de ces prochains jours, des créatures que nous sommes maintenant, nous allons être changés.
+Je pense que les téléphones qui nous relient aux autres régions du pays sont bien en place. Ce message sera donc entendu à Phoenix, en Arizona, et au travers de toute la nation, par téléphone. Nous espérons que tous ceux qui nous entendrons jouissent d’une santé parfaite, et nous savons que la gloire du Seigneur est sur eux tous.
+Si nous sommes assemblés ici, c’est pour nous réjouir et pour réaliser ce que nous sommes. Il n’y a personne qui soit venu dans cette salle surchauffée dans le seul désir de s’y trouver. Nous sommes ici pour un but, et c’est pour une marche plus intime avec Dieu. Tout ce que nous pouvons faire est de croire que le Seigneur Jésus est avec nous, ici-même, et que nous sommes ici pour marcher avec Lui.
+Je désire que cette bande ne soit pas diffusée dans le public avant que je l’entende moi-même, si possible.
 
-
-   Levons-nous quelques instants et inclinons nos têtes pour prier.
-   «Notre Seigneur bien-aimé, en vérité, nous te sommes reconnaissants, ce matin, pour le
-privilège que nous avons de pouvoir nous rassembler ensemble sur cette terre, avant la venue du
-Seigneur! Puissions-nous aujourd’hui examiner nos coeurs au travers de Ta Parole, pour voir si
-nous sommes dans la foi, afin que nous puissions être prêts à l’heure de Ton retour; et afin que
-nous puissions être, comme le dit l’Ecriture, enlevés tous ensemble avec ceux qui sont endormis,
-pour rencontrer le Seigneur dans les airs, et pour demeurer avec Lui, à jamais!
-   Nous Te remercions pour le véritable Esprit chrétien qui se manifeste encore dans le monde,
-parmi Ton Peuple, et par lequel il croit toujours en Toi, et en Ta Parole! Aujourd’hui, nous Te
-demandons de nous bénir tous abondamment, de répandre sur chacun de nous ce dont nous
-avons besoin; afin que nous puissions être abreuvés de Ta Parole, et devenir entre Tes
-mains des instruments de travail utiles. Nous Te le demandons dans le Nom du Seigneur
-Jésus-Christ, notre grand Berger, dont nous attendons le retour parmi nous. AMEN!».
-   Vous pouvez vous asseoir. Je veux vous dire que, pour moi, c’est un grand privilège, ce matin,
-de me retrouver parmi vous. Je regrette fort de ne pouvoir vous offrir une salle plus confortable. Ce
-soir, nous allons essayer de tenir un service de guérison, et de prier pour les malades.
-   Il semble un peu difficile, ce matin, de tenir ce service de guérison, car je voudrais enregistrer
-ce message dont le Seigneur m’a entretenu, durant ces deux derniers mois. Il est long, et je
-n’aurais pas la possibilité de le prêcher dans une réunion où il faudrait consacrer trente ou
-quarante minutes pour le service. C’est pourquoi, en raison de ceux qui travaillent, j’ai pensé qu’il
-est préférable de donner un message qui ne soit pas trop long. Nous ne disposons pas, dans nos
-campagnes, du temps nécessaire pour l’enregistrement de ce message. Voilà pourquoi je profite
-de ma présence dans ce Tabernacle pour l’enregistrer ici.
-   Nous sommes persuadé que le Seigneur bénira chacun de vous. Je sais que vos coeurs sont
-remplis de joie, dans l’attente du retour du Seigneur. Mon coeur déborde également, à la vue de
-tous ces signes avant-coureurs de Son retour — les querelles sur le plan national et l’état dans
-lequel se trouve l’Eglise, aussi bien au point de vue matériel que spirituel. Nous savons donc que
-le temps de Son retour est très proche. Nos coeurs sont remplis de joie de savoir qu’un de ces
-prochains jours, des créatures que nous sommes maintenant, nous allons être changés.
-   Je pense que les téléphones qui nous relient aux autres régions du pays sont bien en place. Ce
-message sera donc entendu à Phoenix, en Arizona, et au travers de toute la nation, par téléphone.
-Nous espérons que tous ceux qui nous entendrons jouissent d’une santé parfaite, et nous savons
-que la gloire du Seigneur est sur eux tous.
-   Si nous sommes assemblés ici, c’est pour nous réjouir et pour réaliser ce que nous sommes. Il
-n’y a personne qui soit venu dans cette salle surchauffée dans le seul désir de s’y trouver. Nous
-sommes ici pour un but, et c’est pour une marche plus intime avec Dieu. Tout ce que nous
-pouvons faire est de croire que le Seigneur Jésus est avec nous, ici-même, et que nous sommes
-ici pour marcher avec Lui.
-   Je désire que cette bande ne soit pas diffusée dans le public avant que je l’entende moi-même,
-si possible.
-
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 DIEU DEVOILE 3
-   Et maintenant, prenons connaissance de la Parole, sans plus tarder. Comme toile de fond au
-message proprement dit, je vais ce matin vous lire deux passages de l’Ecriture. Je lirai Philippiens 2.1-8, et 2 Corinthiens 3.6-18 et 4.1. Avant cette lecture, prions:
-   «Seigneur Jésus, Ta Parole est la Vérité. Et en cette heure troublée, nous voyons qu’une nation
-s’élève contre une autre nation, qu’il y a partout des épidémies, des tremblements de terre, et les
-coeurs des hommes tremblent de frayeur. Voilà pourquoi nous voyons sur la muraille cette écriture
-tracée par Ta main. Dans le domaine naturel, tout le monde peut le constater. Mais il existe aussi
-un royaume spirituel, dans lequel nous voyons tous ces grands “événements”. C’est de cela que
-nous voulons parler aujourd’hui!
-   Que Ta Parole soit bénie dans nos coeurs. Nous savons que, dans le ciel ou sur la terre, il
-n’existe aucun homme digne de prendre ce Livre et d’en briser les Sceaux. Personne, même, n’est
-digne de regarder ce Livre. Mais voici il y en eut Un qui apparut comme un Agneau égorgé et
-sanglant.
-   Il vint et prit le Livre; Il était digne et capable de l’ouvrir. Oh, Agneau de Dieu, ouvre Ta
-Parole à nos coeurs, aujourd’hui, pour les réconforter. Nous sommes Tes serviteurs. Pardonne
-nos péchés, Seigneur; pardonne tout ce qui pourrait empêcher la Parole de pénétrer avec une
-grande puissance et une grande influence dans nos vies. Fais disparaître, Seigneur, tout ce qui
-pourrait nous empêcher d’accéder pleinement à toutes les bénédictions que tu nous as
-promises par Ta Parole. Nous Te le demandons dans le Nom de Jésus. AMEN!».
-   Lisons maintenant Philippiens 2 versets 1 à 8:
-      “S’il y a donc quelque consolation en Christ, s’il y a quelque soulagement dans la charité,
-   s’il y a quelque union d’esprit, s’il y a quelque compassion et quelque miséricorde, rendez
-   ma joie parfaite, ayant un même sentiment, un même amour, une même âme, une même
-   pensée. Ne faites rien par esprit de parti ou par vaine gloire, mais que l’humilité vous fasse
-   regarder les autres comme étant au-dessus de vous-mêmes. Que chacun de vous, au lieu
-   de considérer ses propres intérêts, considère aussi ceux des autres. Ayez en vous les
-   sentiments qui étaient en Jésus-Christ, lequel, existant en forme de Dieu, n’a point regardé
-   comme une proie à arracher d’être égal avec Dieu, mais s’est dépouillé lui-même, en prenant
-   une forme de serviteur, en devenant semblable aux hommes; et ayant paru comme un
-   simple homme, il s’est humilié lui-même, se rendant obéissant jusqu’à la mort, même jusqu’à
-   la mort de la croix”.
-   Et voici l’autre Ecriture, 2 Corinthiens 3.6-18 et 4.1:
-      “Il (Dieu) nous a aussi rendus capables d’être ministres d’une nouvelle alliance, non de la
-   lettre, mais de l’esprit; car la lettre tue, mais l’esprit vivifie.
-      Or, si le ministère de la mort, gravé avec des lettres sur des pierres, a été glorieux, au
-   point que les fils d’Israël ne pouvaient fixer les regards sur le visage de Moïse, à cause de la
-   gloire de son visage, bien que cette gloire fût passagère, combien le ministère de l’esprit ne
-   sera-t-il pas plus glorieux! Si le ministère de la condamnation a été glorieux, le ministère de
-   la justice est de beaucoup supérieur en gloire. Et, sous ce rapport, ce qui a été glorieux ne
-   l’a point été, à cause de cette gloire qui lui est supérieure. En effet, si ce qui était passager a
-   été glorieux, ce qui est permanent est bien plus glorieux.
-      Ayant donc cette espérance, nous usons d’une grande liberté, et nous ne faisons pas
-   comme Moïse, qui mettait un voile sur son visage, pour que les fils d’Israël ne fixassent pas
-   les regards sur la fin de ce qui était passager. Mais ils sont devenus durs d’entendement.
-   Car jusqu’à ce jour, le même voile demeure, quand ils font la lecture de l’Ancien Testament,
-   et il ne se lève pas, parce que c’est en Christ qu’il disparaît. Jusqu’à ce jour, quand on lit
-   Moïse, un voile est jeté sur leurs coeurs; mais lorsque les coeurs se convertissent au
-   Seigneur, le voile est ôté. Or, le Seigneur, c’est l’Esprit; et là où est l’Esprit du Seigneur, là
-   est la liberté. Nous tous qui, le visage découvert, contemplons comme dans un miroir la
-   gloire du Seigneur, nous sommes transformés en la même image, de gloire en gloire,
-   comme par le Seigneur, l’Esprit. C’est pourquoi, ayant ce ministère, selon la miséricorde qui
-   nous a été faite, nous ne perdons pas courage”.
-   Que le Seigneur ajoute Ses bénédictions à la lecture de la Parole. Or, j’ai confiance que Dieu
-révélera cela.
-   Chaque fois que vous écoutez les bandes, j’espère et je crois que vous possédez une
+Et maintenant, prenons connaissance de la Parole, sans plus tarder. Comme toile de fond au message proprement dit, je vais ce matin vous lire deux passages de l’Ecriture. Je lirai Philippiens 2.1-8, et 2 Corinthiens 3.6-18 et 4.1. Avant cette lecture, prions:
+«Seigneur Jésus, Ta Parole est la Vérité. Et en cette heure troublée, nous voyons qu’une nation s’élève contre une autre nation, qu’il y a partout des épidémies, des tremblements de terre, et les coeurs des hommes tremblent de frayeur. Voilà pourquoi nous voyons sur la muraille cette écriture tracée par Ta main. Dans le domaine naturel, tout le monde peut le constater. Mais il existe aussi un royaume spirituel, dans lequel nous voyons tous ces grands “événements”. C’est de cela que nous voulons parler aujourd’hui!
+Que Ta Parole soit bénie dans nos coeurs. Nous savons que, dans le ciel ou sur la terre, il n’existe aucun homme digne de prendre ce Livre et d’en briser les Sceaux. Personne, même, n’est digne de regarder ce Livre. Mais voici il y en eut Un qui apparut comme un Agneau égorgé et sanglant.
+Il vint et prit le Livre; Il était digne et capable de l’ouvrir. Oh, Agneau de Dieu, ouvre Ta Parole à nos coeurs, aujourd’hui, pour les réconforter. Nous sommes Tes serviteurs. Pardonne nos péchés, Seigneur; pardonne tout ce qui pourrait empêcher la Parole de pénétrer avec une grande puissance et une grande influence dans nos vies. Fais disparaître, Seigneur, tout ce qui pourrait nous empêcher d’accéder pleinement à toutes les bénédictions que tu nous as promises par Ta Parole. Nous Te le demandons dans le Nom de Jésus. AMEN!».
+Lisons maintenant Philippiens 2 versets 1 à 8:
+> “S’il y a donc quelque consolation en Christ, s’il y a quelque soulagement dans la charité, s’il y a quelque union d’esprit, s’il y a quelque compassion et quelque miséricorde, rendez ma joie parfaite, ayant un même sentiment, un même amour, une même âme, une même pensée. Ne faites rien par esprit de parti ou par vaine gloire, mais que l’humilité vous fasse regarder les autres comme étant au-dessus de vous-mêmes. Que chacun de vous, au lieu de considérer ses propres intérêts, considère aussi ceux des autres. Ayez en vous les sentiments qui étaient en Jésus-Christ, lequel, existant en forme de Dieu, n’a point regardé comme une proie à arracher d’être égal avec Dieu, mais s’est dépouillé lui-même, en prenant une forme de serviteur, en devenant semblable aux hommes; et ayant paru comme un simple homme, il s’est humilié lui-même, se rendant obéissant jusqu’à la mort, même jusqu’à la mort de la croix”.
+Et voici l’autre Ecriture, 2 Corinthiens 3.6-18 et 4.1:
+> “Il (Dieu) nous a aussi rendus capables d’être ministres d’une nouvelle alliance, non de la lettre, mais de l’esprit; car la lettre tue, mais l’esprit vivifie.
+> Or, si le ministère de la mort, gravé avec des lettres sur des pierres, a été glorieux, au point que les fils d’Israël ne pouvaient fixer les regards sur le visage de Moïse, à cause de la gloire de son visage, bien que cette gloire fût passagère, combien le ministère de l’esprit ne sera-t-il pas plus glorieux! Si le ministère de la condamnation a été glorieux, le ministère de la justice est de beaucoup supérieur en gloire. Et, sous ce rapport, ce qui a été glorieux ne l’a point été, à cause de cette gloire qui lui est supérieure. En effet, si ce qui était passager a été glorieux, ce qui est permanent est bien plus glorieux.
+> Ayant donc cette espérance, nous usons d’une grande liberté, et nous ne faisons pas comme Moïse, qui mettait un voile sur son visage, pour que les fils d’Israël ne fixassent pas les regards sur la fin de ce qui était passager. Mais ils sont devenus durs d’entendement. Car jusqu’à ce jour, le même voile demeure, quand ils font la lecture de l’Ancien Testament, et il ne se lève pas, parce que c’est en Christ qu’il disparaît. Jusqu’à ce jour, quand on lit Moïse, un voile est jeté sur leurs coeurs; mais lorsque les coeurs se convertissent au Seigneur, le voile est ôté. Or, le Seigneur, c’est l’Esprit; et là où est l’Esprit du Seigneur, là est la liberté. Nous tous qui, le visage découvert, contemplons comme dans un miroir la gloire du Seigneur, nous sommes transformés en la même image, de gloire en gloire, comme par le Seigneur, l’Esprit. C’est pourquoi, ayant ce ministère, selon la miséricorde qui nous a été faite, nous ne perdons pas courage”.
+Que le Seigneur ajoute Ses bénédictions à la lecture de la Parole. Or, j’ai confiance que Dieu révélera cela.
+Chaque fois que vous écoutez les bandes, j’espère et je crois que vous possédez une
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 DIEU DEVOILE 4
-connaissance spirituelle de ce que Dieu a essayé de faire comprendre à l’Eglise, sans le dire
-ouvertement. Nous avons à présenter les choses de telle manière que le nombre des disciples
-s’amenuise, et que cela oblige même certains à nous quitter, et d’autres à réfléchir à ces choses.
-Mais ceci n’est pas fait sans intention.
-   Quelques-uns diraient peut-être: «Voulez-vous dire que Dieu ferait de telles choses à dessein,
-pour que certains s’en aillent?». Certainement, Il l’a fait et Il le fait encore. Un jour, quand Jésus
-avait autour de Lui des milliers de personnes, Il dit: “A moins que vous ne mangiez la chair du Fils
-de l’homme, et que vous ne buviez son sang, vous n’avez point la vie en vous-mêmes”. A votre
-avis, quelle serait la réaction d’un médecin, d’une infirmière, ou de toute personne intellectuelle,
-qui entendrait un pareil exposé, donné par un homme revêtu d’un aussi puissant ministère qu’était
-le sien? Ils diraient: “Quoi? manger de la chair humaine, mais c’est du cannibalisme! Boire du sang
-humain? C’est être un vampire! En d’autres termes, Il veut que nous devenions des cannibales et
-des vampires!”. Alors, tout l’auditoire s’éloignerait de Lui.
-   Jésus avait choisi un groupe de soixante-dix disciples, qui formaient une communauté de
-prédicateurs. Il se tourna vers eux, et leur dit: “Que penseriez-vous si vous voyiez le Fils de
-l’homme monter où Il était auparavant?” (Jean 6.62). Voyez-vous, Il n’a pas expliqué comment
-cela se passerait, quoique Paul le fit plus tard. Jésus le dit simplement ainsi.
-   Sans aucun doute, ces hommes disaient: “Un moment, je vous prie! Nous avons mangé avec
-Lui, nous avons lancé nos filets avec Lui, nous avons couché auprès de Lui. Nous savons où Il est
-né. Nous avons vu la crèche dans laquelle Il fut bercé. C’est une parole dure!”.
-   Jésus n’a-t-Il pas dit aux douze: “N’est-ce pas moi qui vous ai choisis, vous, les douze? Et l’un
-de vous est un démon!” (Jean 6.70).
-   Personne ne pouvait expliquer ce que Jésus venait de leur dire. Comment pourraient-ils
-manger Sa chair et boire Son sang? Comment pouvait-Il dire qu’Il était “venu d’En Haut”, alors que
-chacun savait qu’Il était né ici-même, sur cette terre? Ils ne pouvaient comprendre cela. Mais
-quand Il se tourna vers Ses apôtres, et dit: “Et vous, ne voulez-vous pas aussi vous en aller?”,
-c’est alors que l’apôtre Pierre fit cette étonnante déclaration: “Seigneur, à qui irions-nous? Car
-nous sommes convaincus; nous savons assurément que c’est Toi, et Toi seul, qui as la
-Parole de Vie pour cette heure”.
-   Ils ne pouvaient l’expliquer. Pourquoi? Parce que la foi ne s’explique pas. C’est quelque chose
-que vous croyez. Et cela est si solide que rien d’autre ne peut la remplacer. Ils savaient que
-Jésus accomplissait exactement la Parole qui avait été écrite pour leur âge, l’Age
-messianique. Que pouvaient-ils faire d’autre? Ils ne pouvaient plus retourner vers ces églises
-froides et formalistes d’où ils étaient sortis. Ils dirent alors: “Où irions-nous, puisque nous sommes
-pleinement persuadés que Tu as la Parole de Vie?”.
-   Ils ne pouvaient l’expliquer, mais ils le croyaient. Jésus fit tout cela, afin de “sarcler” (éprouver)
-la foule qui Le suivait, et de rallier à Lui Son groupe. De toute cette multitude, il ne restait que
-onze personnes qui comprirent véritablement qui Il était. Ils savaient qu’Il était Dieu, et Dieu
-seul. Ce matin, le but de ma prédication est de révéler — ou de dévoiler ce Dieu.
-   Dans chaque âge, Dieu s’est toujours caché derrière un voile; mais, tout ce temps, Il est
-demeuré Dieu. Il s’est tenu Lui-même caché du monde, mais Il s’est révélé à Ses élus,
-comme ce fut le cas au temps des apôtres, qui, en Christ, entendaient Dieu parler.
-   L’homme a toujours cherché à voir Dieu sous une forme physique. Il a toujours voulu se Le
-représenter ainsi. L’homme a essayé de façonner des créatures qui puissent Lui ressembler.
-Les Indiens ont façonné le soleil. En Afrique, nous avons remarqué que l’on adore des animaux
-sous différentes formes. En Alaska, ils ont sculpté des “totem” de diverses formes, qui sont censés
-représenter Dieu.
-   A Athènes, sur la colline de Mars, Paul s’est un jour entretenu avec les Grecs qui, superstitieux,
-adoraient le “Dieu inconnu”. Ils savaient qu’il existait bien un Dieu qu’ils ne connaissaient pas
-encore. Aucun être humain, en possession de toutes ses facultés, ne peut ignorer que, quelque
-part, existe quelque chose.
-   Job savait qu’un Dieu existait, et il voulait Lui parler. Je voudrais bien que vous notiez la forme
-choisie par Dieu, lorsqu’il s’entretint avec Job (chap. 38.1). Dieu se voila Lui-même, et descendit
-dans un tourbillon de vent. Croyez-vous que, de nos jours, Dieu puisse encore se manifester
-dans un tourbillon afin de se dévoiler Lui-même?
+connaissance spirituelle de ce que Dieu a essayé de faire comprendre à l’Eglise, sans le dire ouvertement. Nous avons à présenter les choses de telle manière que le nombre des disciples s’amenuise, et que cela oblige même certains à nous quitter, et d’autres à réfléchir à ces choses. Mais ceci n’est pas fait sans intention.
+Quelques-uns diraient peut-être: «Voulez-vous dire que Dieu ferait de telles choses à dessein, pour que certains s’en aillent?». Certainement, Il l’a fait et Il le fait encore. Un jour, quand Jésus avait autour de Lui des milliers de personnes, Il dit: “A moins que vous ne mangiez la chair du Fils de l’homme, et que vous ne buviez son sang, vous n’avez point la vie en vous-mêmes”. A votre avis, quelle serait la réaction d’un médecin, d’une infirmière, ou de toute personne intellectuelle, qui entendrait un pareil exposé, donné par un homme revêtu d’un aussi puissant ministère qu’était le sien? Ils diraient: “Quoi? manger de la chair humaine, mais c’est du cannibalisme! Boire du sang humain? C’est être un vampire! En d’autres termes, Il veut que nous devenions des cannibales et des vampires!”. Alors, tout l’auditoire s’éloignerait de Lui.
+Jésus avait choisi un groupe de soixante-dix disciples, qui formaient une communauté de prédicateurs. Il se tourna vers eux, et leur dit: “Que penseriez-vous si vous voyiez le Fils de l’homme monter où Il était auparavant?” (Jean 6.62). Voyez-vous, Il n’a pas expliqué comment cela se passerait, quoique Paul le fit plus tard. Jésus le dit simplement ainsi.
+Sans aucun doute, ces hommes disaient: “Un moment, je vous prie! Nous avons mangé avec Lui, nous avons lancé nos filets avec Lui, nous avons couché auprès de Lui. Nous savons où Il est né. Nous avons vu la crèche dans laquelle Il fut bercé. C’est une parole dure!”.
+Jésus n’a-t-Il pas dit aux douze: “N’est-ce pas moi qui vous ai choisis, vous, les douze? Et l’un de vous est un démon!” (Jean 6.70).
+Personne ne pouvait expliquer ce que Jésus venait de leur dire. Comment pourraient-ils manger Sa chair et boire Son sang? Comment pouvait-Il dire qu’Il était “venu d’En Haut”, alors que chacun savait qu’Il était né ici-même, sur cette terre? Ils ne pouvaient comprendre cela. Mais quand Il se tourna vers Ses apôtres, et dit: “Et vous, ne voulez-vous pas aussi vous en aller?”, c’est alors que l’apôtre Pierre fit cette étonnante déclaration: “Seigneur, à qui irions-nous? Car nous sommes convaincus; nous savons assurément que c’est Toi, et Toi seul, qui as la Parole de Vie pour cette heure”.
+Ils ne pouvaient l’expliquer. Pourquoi? Parce que la foi ne s’explique pas. C’est quelque chose que vous croyez. Et cela est si solide que rien d’autre ne peut la remplacer. Ils savaient que Jésus accomplissait exactement la Parole qui avait été écrite pour leur âge, l’Age messianique. Que pouvaient-ils faire d’autre? Ils ne pouvaient plus retourner vers ces églises froides et formalistes d’où ils étaient sortis. Ils dirent alors: “Où irions-nous, puisque nous sommes pleinement persuadés que Tu as la Parole de Vie?”.
+Ils ne pouvaient l’expliquer, mais ils le croyaient. Jésus fit tout cela, afin de “sarcler” (éprouver) la foule qui Le suivait, et de rallier à Lui Son groupe. De toute cette multitude, il ne restait que onze personnes qui comprirent véritablement qui Il était. Ils savaient qu’Il était Dieu, et Dieu seul. Ce matin, le but de ma prédication est de révéler — ou de dévoiler ce Dieu.
+Dans chaque âge, Dieu s’est toujours caché derrière un voile; mais, tout ce temps, Il est demeuré Dieu. Il s’est tenu Lui-même caché du monde, mais Il s’est révélé à Ses élus, comme ce fut le cas au temps des apôtres, qui, en Christ, entendaient Dieu parler.
+L’homme a toujours cherché à voir Dieu sous une forme physique. Il a toujours voulu se Le représenter ainsi. L’homme a essayé de façonner des créatures qui puissent Lui ressembler. Les Indiens ont façonné le soleil. En Afrique, nous avons remarqué que l’on adore des animaux sous différentes formes. En Alaska, ils ont sculpté des “totem” de diverses formes, qui sont censés représenter Dieu.
+A Athènes, sur la colline de Mars, Paul s’est un jour entretenu avec les Grecs qui, superstitieux, adoraient le “Dieu inconnu”. Ils savaient qu’il existait bien un Dieu qu’ils ne connaissaient pas encore. Aucun être humain, en possession de toutes ses facultés, ne peut ignorer que, quelque part, existe quelque chose.
+Job savait qu’un Dieu existait, et il voulait Lui parler. Je voudrais bien que vous notiez la forme choisie par Dieu, lorsqu’il s’entretint avec Job (chap. 38.1). Dieu se voila Lui-même, et descendit dans un tourbillon de vent. Croyez-vous que, de nos jours, Dieu puisse encore se manifester dans un tourbillon afin de se dévoiler Lui-même?
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 DIEU DEVOILE 5
-   Ici dans cette assemblée, il y a plusieurs personnes qui m’accompagnaient, ce soir-là, lorsqu’Il
-se manifesta dans un tourbillon de vent. Ce sont les frères Roy Borders, Banks Wood et plusieurs
-autres, qui étaient également présents. Cela se passait sur la montagne, à moins d’un kilomètre
-de l’endroit où les sept anges apparurent. Cela s’est passé quand, en revenant ici, je vous ai parlé
-des sept sceaux.
-   La veille, alors que je me trouvais avec le frère Banks Wood, le Seigneur me parla, et Il me dit:
-«Prends ce gros caillou, lance-le en l’air et dis: ‹Ainsi parle le Seigneur: Tu verras quelque chose
-se produire à l’instant même›». Je pris ce gros caillou où nous nous trouvions là-bas, au sommet
-de la montagne, et je le lançai en l’air. Le remous provoqué par sa chute produisit un tourbillon.
-   Voyez-vous, vous devez faire quelque chose pour qu’il s’ensuive autre chose. Jésus prit
-une miche de pain, Il la rompit, puis Il multiplia ce pain en d’innombrables morceaux
-(Marc 6.41-44). Jésus fit verser de l’eau dans un vase de pierre (Jean 2.7). Dans 2 Rois 2.20-22,
-Elisée prit du sel, et le versa dans un plat neuf. Le même Elisée coupa un morceau de bois et le
-lança sur l’eau (2 Rois 6.6). Ce sont tous là des symboles, exactement comme le fait de choisir ce
-morceau de rocher et de le jeter en l’air. Dès qu’il retomba sur le sol, le tourbillon se déclencha.
-   Le lendemain, un prédicateur qui nous avait accompagnés à cette partie de chasse s’approcha
-de moi, et il me dit: «Frère Branham, le Seigneur vous donne-t-Il comme cela des visions, quand
-vous êtes dehors?». Je lui répondis: «Oui, mais habituellement, je viens ici pour me reposer». Et
-aussitôt la vision se manifesta. Je dis alors à ce frère: «Vous avez une allergie à votre oeil. Les
-médecins, depuis deux ans, ont essayé d’y mettre fin, mais sans succès. Ils vous ont dit que vous
-alliez perdre cet oeil; mais ne craignez rien: le Seigneur Jésus a honoré votre foi». Du coup, il
-laissa tomber son fusil. Je lui parlai alors de sa mère, et qui elle était, et de quoi elle souffrait. Il me
-dit: «Tout cela est vrai».
-   Le frère Roy Roberson, de cette communauté, était là. Je suppose que vous le connaissez
-tous. C’était un vétéran; et, sachant ce qui allait se passer, je mis ma main sur son épaule et je lui
-dis: «Frère Roberson, prends garde. Sois attentif, car quelque chose va se produire ici».
-   Je pris la place où je devais me trouver et, soudain, un violent tourbillon de vent descendit d’en
-haut, s’engouffrant dans la gorge. Il était si puissant, à son sommet, qu’il arracha, du haut de la
-colline, des rochers de vingt à vingt-cinq centimètres de large, qui tombèrent autour de nous dans
-un rayon de près de deux cents mètres. Ce tourbillon rugit à trois reprises, puis une voix se fit
-entendre de ce coup de vent, tandis que tous ces hommes se tenaient là, debout.
-   Le frère Banks Wood s’approcha de moi et il me dit: «Est-ce de cela que tu m’as parlé hier?».
-— «Oui, certainement, c’est bien de cela». — «Alors, me dit-il, que t’a-t-Il dit?». — «Pour le
-moment, je dois être seul à le savoir, frère Banks, sinon les gens seraient alarmés».
-   Ce qu’Il me dit est arrivé; car quelques jours après, se déplaçant vers le nord, ceci frappa
-l’océan Pacifique. Vous avez tous vu ce qui est arrivé en Alaska, aux environs de Fairbanks. Ce
-fut un signe de jugement.
-   Voyez-vous, si j’avais annoncé cela, j’aurais provoqué la panique. Cela devait arriver juste de
-cette façon.
-   Moïse, une fois, désirait voir Dieu, et Dieu lui dit de se tenir sur le rocher. Moïse se tint sur le
-rocher et vit passer Dieu à côté de lui; et Son dos ressemblait à celui d’un homme. Dieu se trouvait
-dans un tourbillon.
-   Je pense que vous avez tous vu cette photographie, qui fut prise là-haut, sur le Mont-Sunset,
-l’autre jour, alors que je me tenais près de ce même rocher. Il y avait là cette lumière, l’ange du
-Seigneur.
-   Jéhovah de l’Ancien Testament est Jésus du Nouveau Testament. C’est le même Dieu;
-seule, son apparence a changé.
-   L’autre jour, à Tucson, un prédicateur baptiste me dit: «Comment pouvez-vous affirmer que
-Jésus et Dieu peuvent être la même Personne?».
-   Je lui dis: «Eh bien, c’est très facile; si seulement vous vouliez vous séparer de votre pensée
-propre et ne penser à cela qu’en termes bibliques. Ils sont tous deux absolument le même,
-identique. Dieu est un Esprit, et Jésus est le corps dans lequel Il était caché (voilé)». Je dis:
-«Voyez-vous, c’est comme chez moi, à la maison: pour ma femme, je suis son mari. J’ai une fille,
-Rebecca: je suis son père. J’ai aussi un petit-fils, et il s’appelle Paul: je suis son grand-père. Ainsi
-donc, je suis le mari, le père, et le grand-père. A l’égard de ma qualité de père ou de grand-père,
+Ici dans cette assemblée, il y a plusieurs personnes qui m’accompagnaient, ce soir-là, lorsqu’Il se manifesta dans un tourbillon de vent. Ce sont les frères Roy Borders, Banks Wood et plusieurs autres, qui étaient également présents. Cela se passait sur la montagne, à moins d’un kilomètre de l’endroit où les sept anges apparurent. Cela s’est passé quand, en revenant ici, je vous ai parlé des sept sceaux.
+La veille, alors que je me trouvais avec le frère Banks Wood, le Seigneur me parla, et Il me dit: «Prends ce gros caillou, lance-le en l’air et dis: ‹Ainsi parle le Seigneur: Tu verras quelque chose se produire à l’instant même›». Je pris ce gros caillou où nous nous trouvions là-bas, au sommet de la montagne, et je le lançai en l’air. Le remous provoqué par sa chute produisit un tourbillon.
+Voyez-vous, vous devez faire quelque chose pour qu’il s’ensuive autre chose. Jésus prit une miche de pain, Il la rompit, puis Il multiplia ce pain en d’innombrables morceaux (Marc 6.41-44). Jésus fit verser de l’eau dans un vase de pierre (Jean 2.7). Dans 2 Rois 2.20-22, Elisée prit du sel, et le versa dans un plat neuf. Le même Elisée coupa un morceau de bois et le lança sur l’eau (2 Rois 6.6). Ce sont tous là des symboles, exactement comme le fait de choisir ce morceau de rocher et de le jeter en l’air. Dès qu’il retomba sur le sol, le tourbillon se déclencha.
+Le lendemain, un prédicateur qui nous avait accompagnés à cette partie de chasse s’approcha de moi, et il me dit: «Frère Branham, le Seigneur vous donne-t-Il comme cela des visions, quand vous êtes dehors?». Je lui répondis: «Oui, mais habituellement, je viens ici pour me reposer». Et aussitôt la vision se manifesta. Je dis alors à ce frère: «Vous avez une allergie à votre oeil. Les médecins, depuis deux ans, ont essayé d’y mettre fin, mais sans succès. Ils vous ont dit que vous alliez perdre cet oeil; mais ne craignez rien: le Seigneur Jésus a honoré votre foi». Du coup, il laissa tomber son fusil. Je lui parlai alors de sa mère, et qui elle était, et de quoi elle souffrait. Il me dit: «Tout cela est vrai».
+Le frère Roy Roberson, de cette communauté, était là. Je suppose que vous le connaissez tous. C’était un vétéran; et, sachant ce qui allait se passer, je mis ma main sur son épaule et je lui dis: «Frère Roberson, prends garde. Sois attentif, car quelque chose va se produire ici».
+Je pris la place où je devais me trouver et, soudain, un violent tourbillon de vent descendit d’en haut, s’engouffrant dans la gorge. Il était si puissant, à son sommet, qu’il arracha, du haut de la colline, des rochers de vingt à vingt-cinq centimètres de large, qui tombèrent autour de nous dans un rayon de près de deux cents mètres. Ce tourbillon rugit à trois reprises, puis une voix se fit entendre de ce coup de vent, tandis que tous ces hommes se tenaient là, debout.
+Le frère Banks Wood s’approcha de moi et il me dit: «Est-ce de cela que tu m’as parlé hier?». — «Oui, certainement, c’est bien de cela». — «Alors, me dit-il, que t’a-t-Il dit?». — «Pour le moment, je dois être seul à le savoir, frère Banks, sinon les gens seraient alarmés».
+Ce qu’Il me dit est arrivé; car quelques jours après, se déplaçant vers le nord, ceci frappa l’océan Pacifique. Vous avez tous vu ce qui est arrivé en Alaska, aux environs de Fairbanks. Ce fut un signe de jugement.
+Voyez-vous, si j’avais annoncé cela, j’aurais provoqué la panique. Cela devait arriver juste de cette façon.
+Moïse, une fois, désirait voir Dieu, et Dieu lui dit de se tenir sur le rocher. Moïse se tint sur le rocher et vit passer Dieu à côté de lui; et Son dos ressemblait à celui d’un homme. Dieu se trouvait dans un tourbillon.
+Je pense que vous avez tous vu cette photographie, qui fut prise là-haut, sur le Mont-Sunset, l’autre jour, alors que je me tenais près de ce même rocher. Il y avait là cette lumière, l’ange du Seigneur.
+Jéhovah de l’Ancien Testament est Jésus du Nouveau Testament. C’est le même Dieu; seule, son apparence a changé.
+L’autre jour, à Tucson, un prédicateur baptiste me dit: «Comment pouvez-vous affirmer que Jésus et Dieu peuvent être la même Personne?».
+Je lui dis: «Eh bien, c’est très facile; si seulement vous vouliez vous séparer de votre pensée propre et ne penser à cela qu’en termes bibliques. Ils sont tous deux absolument le même, identique. Dieu est un Esprit, et Jésus est le corps dans lequel Il était caché (voilé)». Je dis: «Voyez-vous, c’est comme chez moi, à la maison: pour ma femme, je suis son mari. J’ai une fille, Rebecca: je suis son père. J’ai aussi un petit-fils, et il s’appelle Paul: je suis son grand-père. Ainsi donc, je suis le mari, le père, et le grand-père. A l’égard de ma qualité de père ou de grand-père,
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 DIEU DEVOILE 6
-ma femme n’a aucun droit sur moi; elle a des droits sur moi uniquement à l’égard de ma qualité
-d’époux. Ma qualité de mari ou de grand-père ne donne à ma fille aucun droit sur moi, car elle
-n’est que mon enfant. Néanmoins, sous ces trois aspects, je suis toujours la même
-personne».
-   C’est ce que Dieu est: Il est à la fois le Père, le Fils et le Saint-Esprit. C’est seulement un titre
-différent pour chaque dispensation. Dieu reste Dieu, mais Il apparaît sous différents aspects, en
-changeant de forme.
-   Relisez Philippiens 2.6,7: “Lequel, existant en forme de Dieu, n’a point regardé comme une
-proie à arracher d’être égal avec Dieu, mais s’est dépouillé lui-même, en prenant une forme de
-serviteur, en devenant semblable aux hommes; et ayant paru comme un simple homme”. Or le mot
-grec employé ici en regard de “forme” est “EN MORPHE”. Cela signifie qu’Il se changea
-Lui-même, et qu’il existait là quelque chose qu’on ne pouvait pas voir auparavant; pourtant, c’était
-bien là. Mais alors, quand cela est changé, l’oeil peut le percevoir.
-   C’est comme lorsqu’Elisée se trouva à Dothan, et que le serviteur ne pouvait voir les anges
-camper autour d’eux. Dieu n’avait pas fait descendre les anges vers eux, mais Il modifia la scène
-pour le serviteur. Là, tout autour de Son prophète, la montagne se trouvait couverte d’anges,
-avec des chevaux de feu et des chars de feu.
-   Voyez-vous, Dieu a changé le décor, mais toutes ces choses étaient déjà là. C’est ce que
-j’essaie de vous faire voir. Dieu, qui a toujours été, est ici maintenant. La seule chose qu’Il fit,
-lorsqu’Il devint homme, fut de changer Son masque — en morphe. De ce qu’Il était, Il s’est
-transformé Lui-même en ce qu’Il est.
-   Il en est de même, dans la tragédie de Shakespeare “Macbeth” — dont je vous ai parlé
-précédemment — écrite pour le roi Jacques d’Angleterre. Shakespeare lui-même ne croyait pas
-aux sorcières, mais bien le roi; il dut donc les inclure dans son drame. Ma fille Becky joua dans
-cette pièce à l’école, où elle terminait ses études. Une personne jouait trois ou quatre différents
-rôles dans cette pièce. Elle devait pour cela changer de masque pour représenter les différents
-caractères. Elle apparaissait sur la scène dans un rôle particulier, et la fois suivante, elle entrait de
-nouveau, mais avec un autre rôle; cependant, chaque fois, c’était la même personne.
-   Dieu procède toujours de la même manière. Il se transforma d’une colonne de feu en un
-homme, puis Il se transforma de nouveau en Esprit, afin qu’Il pût demeurer en l’homme.
-Maintenant voici, c’est Dieu agissant en l’homme; c’est ce qu’Il est, en fait.
-   Jésus-Christ était Dieu présent dans un homme. Il se transforma de la colonne de feu — qui
-était un voile Le dissimulant aux yeux du peuple d’Israël au désert. Moïse vit la forme de Son
-corps, mais en réalité, Jésus était caché derrière la colonne de feu, qui était le Logos (la Parole)
-venant de Dieu.
-   Depuis le jour de la Pentecôte, Dieu opère au travers de l’homme. Voyez, Il a agi au travers
-d’un homme: Jésus. Actuellement, Il agit au travers de l’homme qu’Il a choisi dans ce but: Dieu
-dans la forme d’un homme. Il se changea Lui-même de la forme de Dieu en une forme d’homme.
-   Il vint en trois noms, trois noms de Fils. Il vint dans le nom du Fils de l’homme, du Fils de
-David, et du Fils de Dieu — les trois noms du Fils.
-   Il vint tout d’abord comme Fils de l’homme, parce qu’Il était un prophète. Souvenez-vous que
-Jéhovah Lui-même appelait Ezéchiel et les prophètes “fils de l’homme” (Ezé. 12.2), Jésus ne s’est
-jamais appelé Lui-même Fils de Dieu. Il se désigna toujours comme étant le Fils de l’homme,
-parce que les Ecritures ne peuvent pas être brisées. Rien dans les Ecritures ne peut être brisé.
-Chaque mot doit demeurer tel quel. C’est de cette manière que je crois la Parole. C’est ainsi
-qu’elle doit être crue. Non parce que moi, je crois ainsi, mais parce que c’est la Parole de Dieu.
-   Or, si vous regardez au commencement de la Bible, dans la Genèse, toutes les maladies,
-toutes les tristesses, tous les chagrins du coeur, et tout ce qui arriva jamais à l’être humain, eurent
-pour seule cause qu’une personne mit en doute une seule parole. L’incrédulité causa tous ces
-malheurs. Et ceci est relaté au début de la Bible.
-   Dans la dernière partie de la Bible, en Apocalypse 22.18,19, ce même Dieu dit:
-      “Je le déclare à quiconque entend les paroles de la prophétie de ce livre: si quelqu’un y
-   rajoute quelque chose, Dieu le frappera des fléaux décrits dans ce livre. Et si quelqu’un
-   retranche quelque chose des paroles du livre de cette prophétie, Dieu retranchera sa part de
+ma femme n’a aucun droit sur moi; elle a des droits sur moi uniquement à l’égard de ma qualité d’époux. Ma qualité de mari ou de grand-père ne donne à ma fille aucun droit sur moi, car elle n’est que mon enfant. Néanmoins, sous ces trois aspects, je suis toujours la même personne».
+C’est ce que Dieu est: Il est à la fois le Père, le Fils et le Saint-Esprit. C’est seulement un titre différent pour chaque dispensation. Dieu reste Dieu, mais Il apparaît sous différents aspects, en changeant de forme.
+Relisez Philippiens 2.6,7: “Lequel, existant en forme de Dieu, n’a point regardé comme une proie à arracher d’être égal avec Dieu, mais s’est dépouillé lui-même, en prenant une forme de serviteur, en devenant semblable aux hommes; et ayant paru comme un simple homme”. Or le mot grec employé ici en regard de “forme” est “EN MORPHE”. Cela signifie qu’Il se changea Lui-même, et qu’il existait là quelque chose qu’on ne pouvait pas voir auparavant; pourtant, c’était bien là. Mais alors, quand cela est changé, l’oeil peut le percevoir.
+C’est comme lorsqu’Elisée se trouva à Dothan, et que le serviteur ne pouvait voir les anges camper autour d’eux. Dieu n’avait pas fait descendre les anges vers eux, mais Il modifia la scène pour le serviteur. Là, tout autour de Son prophète, la montagne se trouvait couverte d’anges, avec des chevaux de feu et des chars de feu.
+Voyez-vous, Dieu a changé le décor, mais toutes ces choses étaient déjà là. C’est ce que j’essaie de vous faire voir. Dieu, qui a toujours été, est ici maintenant. La seule chose qu’Il fit, lorsqu’Il devint homme, fut de changer Son masque — en morphe. De ce qu’Il était, Il s’est transformé Lui-même en ce qu’Il est.
+Il en est de même, dans la tragédie de Shakespeare “Macbeth” — dont je vous ai parlé précédemment — écrite pour le roi Jacques d’Angleterre. Shakespeare lui-même ne croyait pas aux sorcières, mais bien le roi; il dut donc les inclure dans son drame. Ma fille Becky joua dans cette pièce à l’école, où elle terminait ses études. Une personne jouait trois ou quatre différents rôles dans cette pièce. Elle devait pour cela changer de masque pour représenter les différents caractères. Elle apparaissait sur la scène dans un rôle particulier, et la fois suivante, elle entrait de nouveau, mais avec un autre rôle; cependant, chaque fois, c’était la même personne.
+Dieu procède toujours de la même manière. Il se transforma d’une colonne de feu en un homme, puis Il se transforma de nouveau en Esprit, afin qu’Il pût demeurer en l’homme. Maintenant voici, c’est Dieu agissant en l’homme; c’est ce qu’Il est, en fait.
+Jésus-Christ était Dieu présent dans un homme. Il se transforma de la colonne de feu — qui était un voile Le dissimulant aux yeux du peuple d’Israël au désert. Moïse vit la forme de Son corps, mais en réalité, Jésus était caché derrière la colonne de feu, qui était le Logos (la Parole) venant de Dieu.
+Depuis le jour de la Pentecôte, Dieu opère au travers de l’homme. Voyez, Il a agi au travers d’un homme: Jésus. Actuellement, Il agit au travers de l’homme qu’Il a choisi dans ce but: Dieu dans la forme d’un homme. Il se changea Lui-même de la forme de Dieu en une forme d’homme.
+Il vint en trois noms, trois noms de Fils. Il vint dans le nom du Fils de l’homme, du Fils de David, et du Fils de Dieu — les trois noms du Fils.
+Il vint tout d’abord comme Fils de l’homme, parce qu’Il était un prophète. Souvenez-vous que Jéhovah Lui-même appelait Ezéchiel et les prophètes “fils de l’homme” (Ezé. 12.2), Jésus ne s’est jamais appelé Lui-même Fils de Dieu. Il se désigna toujours comme étant le Fils de l’homme, parce que les Ecritures ne peuvent pas être brisées. Rien dans les Ecritures ne peut être brisé. Chaque mot doit demeurer tel quel. C’est de cette manière que je crois la Parole. C’est ainsi qu’elle doit être crue. Non parce que moi, je crois ainsi, mais parce que c’est la Parole de Dieu.
+Or, si vous regardez au commencement de la Bible, dans la Genèse, toutes les maladies, toutes les tristesses, tous les chagrins du coeur, et tout ce qui arriva jamais à l’être humain, eurent pour seule cause qu’une personne mit en doute une seule parole. L’incrédulité causa tous ces malheurs. Et ceci est relaté au début de la Bible.
+Dans la dernière partie de la Bible, en Apocalypse 22.18,19, ce même Dieu dit:
+> “Je le déclare à quiconque entend les paroles de la prophétie de ce livre: si quelqu’un y rajoute quelque chose, Dieu le frappera des fléaux décrits dans ce livre. Et si quelqu’un retranche quelque chose des paroles du livre de cette prophétie, Dieu retranchera sa part de
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 DIEU DEVOILE 7
    l’arbre de la vie et de la ville sainte, décrits dans ce livre”.
@@ -613,7 +504,7 @@ attendue de nouveau pour manifester le Fils de l’homme, pour montrer la Parole
 
         http://www.cmpp.ch
 
-    DIEU DEVOILE          12
+DIEU DEVOILE          12
 traditions seront balayées, et les dénominations seront extirpées. Rien ne pourra arrêter cela, et il
 en sera ainsi.
    Quelle sorte d’Esprit y parviendra? Ce sera exactement comme ce fut le cas la première fois.
@@ -680,8 +571,8 @@ manière exacte qu’Il l’avait promis.
 L’église est trop aveugle pour voir ce que c’est, mais cela restera sur leurs coeurs, exactement
 comme ce le fut en ce temps-là. Vous devez pénétrer au travers de ce voile.
    Comment Dieu pourrait-Il faire grâce à ceux qui Le rejettent? Souvenez-vous de ce qui s’est
-passé: Dieu avait révélé, manifesté ce qui se trouvait derrière ce voile — la Parole. Mais où donc
-se trouvait-elle? Elle se trouvait dans l’Arche [de l’alliance — N.d.R.]. Ce que masquait ce voile,
+passé: Dieu avait révélé, manifesté ce qui se trouvait derrière ce voile — la Parole. Mais où
+donc se trouvait-elle? Elle se trouvait dans l’Arche [de l’alliance — N.d.R.]. Ce que masquait ce voile,
 c’était la Parole. Jésus était cette Parole, et Il est toujours cette Parole.
    De nos jours, le voile de la tradition cache une fois de plus la Parole. Quand les traditions
 disent: «Ce n’est pas ainsi!», Dieu rend témoignage du contraire, en se manifestant Lui-même
@@ -907,8 +798,6 @@ en feu. C’était Dieu démontrant que le message qu’il avait était juste. T
 pour eux, en un exode, Dieu ayant voilé Son prophète pour ce peuple de l’exode.
    Le peuple vit bien que quelque chose était arrivé à Moïse. Il fut tout de suite différent du reste
 
-        http://www.cmpp.ch
-
 DIEU DEVOILE 17
 des Israélites. Il était autre, et son message était autre. Moïse était différent des autres prêtres,
 et il était différent de n’importe lequel d’entre eux. Il était une personne différente.
@@ -1118,7 +1007,7 @@ la vérité. Les yeux des uns seront fermés, et les yeux des autres seront ouve
    Voyez-vous? Jésus parla à Simon, en lui disant: “Ton nom est Simon, et le nom de ton père est
 Jonas”.
    A Nathanaël, Il dit: “En vérité, voici un Israélite en qui il n’y a pas de fraude!”. — “Rabbi,
-répondit Nathanaël, quand m’as-tu connu?”. Jésus répondit: “Avant que Philippe t’appelât, quand
+répendit Nathanaël, quand m’as-tu connu?”. Jésus répondit: “Avant que Philippe t’appelât, quand
 tu étais sous le figuier, je t’ai vu!”. — “Rabbi, lui dit-il, tu es le Fils de Dieu, Tu es le roi d’Israël!”
 (Jean 1.48,49).
    Mais il y en avait d’autres qui disaient, en ce lieu même: “Il est Béelzébul”.
@@ -1131,8 +1020,8 @@ Samaritains que les Juifs attendaient le Messie. Elle disait: “Il doit bientô
 que lorsqu’Il viendra, Il fera ces choses, et Il nous les enseignera”.
    Jésus lui répondit: “Je le suis”.
    Ses yeux s’ouvrirent, mais ceux du prêtre étaient aveugles. C’est l’action de l’Evangile: il ouvre
-les yeux de certains et leur révèle la vérité, tandis qu’il aveugle les yeux des autres. Il a une double
-portée. Certains peuvent regarder directement le soleil et être aveuglés, mais d’autres le
+les yeux de certains et leur révèle la vérité, tandis qu’il aveugle les yeux des autres. Il a une
+double portée. Certains peuvent regarder directement le soleil et être aveuglés, mais d’autres le
 supportent et marchent avec lui: c’est là toute la différence.
    Comme cela fut le cas dans chaque âge, la divinité s’est voilée dans une chair humaine.
 La divinité était dans les prophètes, voilée comme la Parole de Dieu dans une chair humaine. Ils
@@ -1500,7 +1389,6 @@ ressemblait pas au réveil précédent. Puis vint le réveil de la Pentecôte, q
 
         http://www.cmpp.ch
 
-DIEU DEVOILE 27
 Saint-Esprit. Que se passa-t-il alors? Nous commençâmes à voir surgir une excroissance sur l’épi,
 et cela parut faux, car cela ne ressemblait pas à la Parole. Ce n’est pas comme la graine originale
 qui fut semée. Mais Dieu est toujours là. Que se passe-t-il? Nous retrouvons à nouveau la graine
@@ -1732,7 +1620,6 @@ verra plus. Mais vous, vous me verrez”. Veuille Te révéler Toi-même parmi n
 comme Tu l’as déjà fait. Reste toujours ainsi, jusqu’à ce que nous Te voyions face à face. Que
 Tu te changes “en morphe”, que Tu redeviennes le Fils de l’homme, le Fils de David. Accorde-le,
 Seigneur, dans le Nom de Jésus-Christ.
-
 
 
 

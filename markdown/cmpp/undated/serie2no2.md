@@ -1,542 +1,261 @@
-    SERIE 2 N° 2
+---
+source: "cmpp"
+sermon_id: "serie2no2"
+title: "Poussés à bout"
+date: "1963-09-01"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur l'urgence spirituelle des derniers temps, en utilisant l'image de la Pâque et de Jacob pour montrer que les croyants doivent être poussés à bout pour agir avec foi et amour. Il insiste sur le Signe du Saint-Esprit comme preuve que le Sang a été appliqué, et exhorte l'Église à se préparer pour la venue du Seigneur."
+tags:
+  - "Signe"
+  - "Saint-Esprit"
+  - "Pâque"
+  - "foi"
+  - "amour"
+  - "urgence"
+  - "derniers temps"
+persons:
+  - "William Marrion Branham"
+  - "Jésus-Christ"
+  - "Jacob"
+  - "Ésaü"
+  - "Paul"
+  - "Jack Moore"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "États-Unis"
+  - "Babylone"
+  - "Jérusalem"
+  - "Égypte"
+themes:
+  - "Le Signe du Saint-Esprit"
+  - "L'urgence spirituelle"
+  - "La foi agissante par l'amour"
+  - "La Pâque comme type"
+  - "La préparation pour la venue du Seigneur"
+pdf_url: "http://cmpp.ch/serie2no2.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "Exode 12"
+  - "Galates 5"
+  - "Jacques 5"
+  - "Jean 14"
+  - "Jérémie 29"
+  - "Luc 16"
+  - "Matthieu 5"
+  - "Ésaïe 712"
+---
+SERIE 2 N° 2
 
+LA PAROLE PARLEE
 
+PAR
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
+WILLIAM MARRION BRANHAM
 
 POUSSES A BOUT
 (Desperation)
 
-
-
-
-    1ᵉʳ septembre 1963, soir
-       Branham Tabernacle
+1ᵉʳ septembre 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
-
-
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    POUSSES A BOUT    2
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
 POUSSES A BOUT
 (Desperation)
 
-
-
-    1ᵉʳ septembre 1963, soir
-       Branham Tabernacle
+1ᵉʳ septembre 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+Restons debout pendant que nous inclinons nos têtes.
+Seigneur Jésus, nous croyons simplement. Tu nous as dit de croire, et maintenant, nous croyons. Nous Te rendons grâces et Te louons pour ce que nous avons déjà entendu; cela consolide notre foi. Nous Te remercions pour cette nouvelle occasion que Tu nous offres de venir nous occuper de ceux qui sont dans le besoin. Je Te prie, ô Dieu, de subvenir à nos besoins, ce soir, selon Ta Promesse. Nous Te le demandons au Nom de Jésus. Amen!
 
+Nous sommes heureux du privilège que nous avons de pouvoir encore venir ce soir dans ce tabernacle, avec l’Evangile du Seigneur Jésus ressuscité. Je suis un peu en retard. J’avais une affaire urgente à traiter avec des gens du Michigan. Le Seigneur vient de faire quelque chose de merveilleux pour nous. Comme Il connaît toutes choses! Il n’est pas nécessaire de Lui dire quoi que ce soit. Il sait exactement ce qu’il faut faire. Nous Lui en sommes très reconnaissants. Ces gens sont venus en voiture jusqu’ici. Nous les en remercions chaleureusement.
 
+N’oubliez pourtant pas… [frère Branham parle à frère Neville — N.d.R.] N’oubliez pas les réunions de cette semaine, celles de mercredi soir, de dimanche matin et de dimanche soir. Si vous êtes dans les environs, nous serons heureux de vous accueillir ici.
 
-   Restons debout pendant que nous inclinons nos têtes.
-   Seigneur Jésus, nous croyons simplement. Tu nous as dit de croire, et maintenant, nous
-croyons. Nous Te rendons grâces et Te louons pour ce que nous avons déjà entendu; cela
-consolide notre foi. Nous Te remercions pour cette nouvelle occasion que Tu nous offres de venir
-nous occuper de ceux qui sont dans le besoin. Je Te prie, ô Dieu, de subvenir à nos besoins, ce
-soir, selon Ta Promesse. Nous Te le demandons au Nom de Jésus. Amen!
-   Nous sommes heureux du privilège que nous avons de pouvoir encore venir ce soir dans ce
-tabernacle, avec l’Evangile du Seigneur Jésus ressuscité. Je suis un peu en retard. J’avais une
-affaire urgente à traiter avec des gens du Michigan. Le Seigneur vient de faire quelque chose de
-merveilleux pour nous. Comme Il connaît toutes choses! Il n’est pas nécessaire de Lui dire quoi
-que ce soit. Il sait exactement ce qu’il faut faire. Nous Lui en sommes très reconnaissants. Ces
-gens sont venus en voiture jusqu’ici. Nous les en remercions chaleureusement.
-   N’oubliez pourtant pas… [frère Branham parle à frère Neville — N.d.R.] N’oubliez pas les
-réunions de cette semaine, celles de mercredi soir, de dimanche matin et de dimanche soir. Si
-vous êtes dans les environs, nous serons heureux de vous accueillir ici.
-   Priez aussi pour moi quand je prendrai la route. J’espère être bientôt de retour.
-   Je désire vous remercier pour votre gentillesse et pour tout ce que vous avez fait pour moi. Un
-frère d’une petite assemblée de Georgie vient de m’envoyer un nouveau complet. C’est
-merveilleux! Je remercie également ces gens du Kentucky, chez qui j’ai passé la dernière semaine
-de mes vacances. Le Seigneur a fait là-bas beaucoup de choses, et nous avons pu voir l’action de
-Sa main puissante.
-   Je pense que nous nous reverrons bientôt, dès que je pourrai, lorsque j’irai à New York pour
-une réunion qui aura lieu à la Stone Church, avec frère Vick. Je crois que ce sera le 12 novembre.
-Nous passerons d’abord quelques jours ici. En revenant, nous nous arrêterons encore une fois ici,
-avant d’aller à Shreveport en Louisiane, chez le frère Jack Moore. Cela se passera pendant la
-semaine du Thanksgiving [dernier jeudi de novembre — N.d.T.], où je dois être à Shreveport. Je
-pense que tout cela doit être indiqué sur le panneau d’affichage.
-   Ensuite, nous espérons pouvoir passer les fêtes de Noël avec quelques amis des états du Sud.
-En janvier, nous serons à Phoenix. Nous attendrons ensuite les appels d’outre-mer afin de nous
-préparer pour cela. On y travaille, et frère Borders organise un tour du monde que nous
-commencerons dès que possible. Mais nous devons encore attendre.
-   Les foules sont tellement nombreuses là-bas, que nous ne pouvons pas les recevoir dans des
-salles. Nous devons les réunir à l’extérieur. Quelquefois, leur nombre est presque incroyable. Il en
-est venu jusqu’à 500’000 (un demi-million) dans une seule réunion, non pas en plusieurs jours,
-mais en un seul jour! Vous savez, d’habitude, les évangélistes évaluent le nombre de ceux qui
-sont venus sur une période de six semaines. Nous, nous comptons seulement par jour, par
-réunion. Quelquefois, il n’y a pas assez de sièges. Alors, on les fait asseoir par terre. C’est pour
-cela que nous devons attendre la saison sèche. Ces pauvres gens dehors… J’ai vu des gens bien
-habillés, des femmes dont les cheveux dégoulinaient sous la pluie pendant toute une journée! Ils
+Priez aussi pour moi quand je prendrai la route. J’espère être bientôt de retour.
 
-        http://www.cmpp.ch
+Je désire vous remercier pour votre gentillesse et pour tout ce que vous avez fait pour moi. Un frère d’une petite assemblée de Georgie vient de m’envoyer un nouveau complet. C’est merveilleux! Je remercie également ces gens du Kentucky, chez qui j’ai passé la dernière semaine de mes vacances. Le Seigneur a fait là-bas beaucoup de choses, et nous avons pu voir l’action de Sa main puissante.
 
-POUSSES A BOUT 3
-étaient là, et il pleuvait, tonnait, il y avait des éclairs, le vent soufflait, mais les gens étaient là,
-serrés les uns contre les autres, attendant leur tour dans la ligne de prière. Vous savez, Dieu
-honore une telle foi! C’est vrai!
-   Vous devez faire quelque chose que Dieu puisse honorer. Vous comprenez? Vous devez Lui
-montrer… Si les gens reçoivent tout sans faire le moindre effort, ils ne l’apprécient en général pas.
-Le don est gratuit, c’est vrai, mais vous devez…
-   Vous savez ce que l’on dit: si vous avez reçu une cuillère en argent le jour de votre naissance,
-vous ne l’appréciez pas. Mais si vous devez travailler pour l’acquérir, alors, vous en apprécierez la
-valeur.
-   Maintenant, je m’adresse à ceux qui écouteront les bandes. Le message de ce matin fut pour
-moi un des sommets de mon ministère. Un jour, je vous dirai pourquoi. Je sais que tout a
-concouru pendant des mois et des mois pour que je puisse donner ce message en cet endroit.
-Mais c’était ce matin qu’il fallait le donner.
-   J’espère que vous comprenez maintenant l’importance du Signe! Le Signe montre que le
-Sang a été appliqué, que le prix a été payé, le prix exigé par Dieu Lui-même. Jésus a payé le
-prix en répandant Son Propre Sang. C’est ce qu’Il a fait! De Sa Vie est venu le Saint-Esprit. Et
-quand le Sang est appliqué sur vous, alors le Saint-Esprit est le Signe manifestant que le Prix
-a été payé. Dieu vous a agréé, et c’est cela, le Signe — rappelez-vous que c’est cela, le Signe!
-   Il y a beaucoup de gens qui ne savent pas ce qu’est ce Signe; c’est pourquoi il faut faire comme
-si personne ne le connaissait, afin que tous puissent le comprendre. C’est comme lorsque nous
-prêchons le salut. Nous devons le prêcher de telle manière que tout le monde… comme s’il était
-pour tout le monde, malgré que nous sachions bien que ce n’est pas le cas. Nous devons prêcher
-la guérison Divine à tout le monde, bien que nous sachions qu’elle n’est pas pour tout le monde.
-Vous comprenez? Jésus est venu pour sauver ceux qui avaient été inscrits dans le Livre de
-la Rédemption dès avant la fondation du monde. Ce sont les seuls qu’Il soit venu sauver.
-Qui sont-ils, je n’en sais rien! Mais personne ne peut avoir la foi, si cela ne lui a pas été donné.
-Personne ne peut venir, si Dieu ne l’a pas appelé. C’est la vérité!
-   Ainsi donc, beaucoup ne seront pas sauvés. Nous le savons. Dieu savait avant la fondation du
-monde qu’ils ne seraient pas sauvés. Il y en a beaucoup qui ne seront pas guéris. Ils ne peuvent
-simplement pas saisir cette guérison; ils ne savent pas ce que c’est. Ils seront nombreux! Mais
-nous prêchons comme si cela était pour tout le monde, car nous ne savons pas qui l’acceptera.
-Nous ne le savons pas. Mais c’est pour quiconque… il y a des gens qui ne peuvent tout
-simplement pas recevoir cette foi.
-   Il en va de même du Signe. Nous avons parlé abondamment du Signe, mais il faut maintenant
-manifester le Signe. Vous comprenez?
-   Les Luthériens disent que le Signe, c’est accepter la Parole, c’est accepter Jésus comme son
-Sauveur personnel. Les Méthodistes disent: «Quand vous devenez heureux au point de vous
-mettre à pousser des cris, alors, vous avez le Signe». Les Pentecôtistes disent: «Vous L’avez
-quand vous vous mettez à parler en langues». Nous avons découvert que tout cela était faux.
-Vous voyez? Le Signe est le Signe! C’est vous et Christ en une seule personne! C’est le
-Saint-Esprit, Sa Vie agissant en vous, Sa Vie en vous. Cela, c’est valable pour le riche comme
-pour le pauvre, pour tous ceux qui Le reçoivent.
-   Rappelez-vous. Le Signe est ce que… Vous allez à la gare chercher votre billet. Il faut payer un
-prix, mettons 50 cents, pour aller en bus ou en chemin de fer d’ici à Charleston, Indiana. La
-compagnie donne un signe… Vous allez à la gare, et là, quelqu’un achète pour vous votre droit de
-passage pour 50 cents. Alors, il vous donne le billet, un signe qui vous confère le droit de monter
-dans ce train et d’y rester jusqu’à votre destination. Vous avez un signe.
-   Dans notre cas, c’est le sang qui était le signe. Il fallait l’appliquer littéralement, parce que
-ce n’était qu’un corps chimique; c’était le sang d’un agneau, d’un animal. Ainsi donc, la vie qui était
-dans le sang… le sang était répandu. La vie s’en allait, mais elle ne pouvait revenir sur l’homme,
-parce que c’était la vie d’un animal. Ce sang n’était que le témoignage de la bonne conscience de
-celui qui attendait la venue du Sacrifice Parfait. Et pour que ce Sacrifice fût parfait, le Juge
-Lui-même, le Dieu du Ciel, devint le Sacrifice, le Juge, le Jury et l’Avocat. Comprenez-vous
+Je pense que nous nous reverrons bientôt, dès que je pourrai, lorsque j’irai à New York pour une réunion qui aura lieu à la Stone Church, avec frère Vick. Je crois que ce sera le 12 novembre. Nous passerons d’abord quelques jours ici. En revenant, nous nous arrêterons encore une fois ici, avant d’aller à Shreveport en Louisiane, chez le frère Jack Moore. Cela se passera pendant la semaine du Thanksgiving [dernier jeudi de novembre — N.d.T.], où je dois être à Shreveport. Je pense que tout cela doit être indiqué sur le panneau d’affichage.
 
-        http://www.cmpp.ch
+Ensuite, nous espérons pouvoir passer les fêtes de Noël avec quelques amis des états du Sud. En janvier, nous serons à Phoenix. Nous attendrons ensuite les appels d’outre-mer afin de nous préparer pour cela. On y travaille, et frère Borders organise un tour du monde que nous commencerons dès que possible. Mais nous devons encore attendre.
 
-POUSSES A BOUT 4
-cela? Il devint Lui-même le Sacrifice, et quand la Vie qui était Dieu s’en alla… La Parole nous dit
-ce qui arrive: “Je leur donnerai la Vie Eternelle…”. Dans le texte grec… (je parle maintenant aux
-érudits; j’en vois deux ou trois ici); en grec, le mot est Zoe, Z-o-e, ce qui signifie: «La Vie de Dieu
-Lui-même». “Je lui donnerai Ma Zoe, Ma propre Vie”. Christ et Dieu étaient Un.
-   La Vie qui était en Christ est le Saint-Esprit, qui n’est pas la troisième Personne, mais la même
-Personne sous la forme du Saint-Esprit venant sur vous comme un Signe montrant que votre
-vie a été rachetée, que le prix a été payé. Vous avez été agréé. Jusqu’à ce que vous ayez reçu le
-Signe, vous n’avez pas le droit de vous mettre en chemin. Vous n’avez pas le droit d’entrer dans le
-bus. Vous n’avez pas le droit d’entrer, si vous ne pouvez pas présenter le Signe, et ce Signe
-montre que le prix a été payé. Ce Signe montre que le Sang a été répandu, vous a été
-appliqué; le prix a été payé pour vous, et vous avez le Signe montrant que le Sang vous a été
-appliqué et que vous êtes agréé. Comprenez-vous cela?
-   Il n’y a pas… il n’y a pas de preuve certaine. Vous pensez (je le sens dans votre esprit): «Frère
-Branham, comment le saurai-je?». Qu’étiez-vous? et qu’êtes-vous maintenant? C’est ainsi
-que vous pouvez le savoir. Comment étiez-vous, avant que ce Signe fût appliqué?
-Comment êtes-vous, après qu’il ait été appliqué? Quelles étaient vos aspirations avant, et
-que sont-elles maintenant? C’est ainsi que vous savez si oui ou non le Signe a été appliqué.
-Et tout le reste va automatiquement avec cela.
-   Si vous dites: «Le parler en langues est la preuve…». — quand vous achetez une paire de
-souliers, ils ont une patte, une languette [frère Branham fait un jeu de mots. En anglais, langue, et
-patte ou languette se traduisent par le même mot: tongue — N.d.T.]. Mais la languette n’est pas le
-soulier. Elle appartient au soulier. Elle fait partie du soulier. Vous comprenez? Il en va de même du
-Signe. Le Signe est Christ. Mais parler en langues, chasser les démons et tout le reste, prêcher,
-etc.: cela, ce sont des manifestations; ce n’est pas le Signe. C’est un don venant du Signe.
-   Si vous me dites: «C’est vous que je veux, frère Branham!» et que je vous fasse un cadeau, eh
-bien, ce n’est pas moi que vous recevez, c’est mon cadeau. Les langues sont un don du
-Saint-Esprit. Ce n’est pas le Saint-Esprit. C’est un don du Saint-Esprit.
-   Et le diable peut imiter ces choses! Mais il ne peut pas être le Saint-Esprit. Il peut imiter tous
-ces dons, mais il ne peut pas être le Saint-Esprit. Et le Saint-Esprit est le Signe montrant que le
-Sang a été appliqué, parce qu’Il accompagne le Sang depuis le jour où le Livre de la Rédemption
-a été écrit. Comprenez-vous? C’était cela, le but de Sa venue. C’est cela qu’Il accompagna dans
-chaque âge. Il fit en sorte que, dans chaque âge, le Signe fût manifesté. Et eux ne pourront
-être rendus parfaits sans nous. Et maintenant, le Saint-Esprit visite l’Eglise, manifestant Dieu
-dans la chair de l’homme, comme Il le fit avant la destruction de Sodome, qui en était un type;
-alors, Il apparut à Abraham.
-   Tout ce qu’Il n’a pas fait au cours des âges, dans les âges de l’église, Il le fait maintenant.
-C’est le retour à la Parole, parce que tous ces messages doivent aboutir à la Parole tout
-entière. Et, dans les derniers jours, les Sept Sceaux ont été ouverts afin d’amener les derniers
-retardataires et de les réunir tous au glorieux Corps de l’Epouse, afin que ceux qui vécurent
-auparavant ne soient pas parfaits avant que l’église, cette Epouse des derniers jours, ne soit
-parachevée. Alors, tous seront rassemblés pour être enlevés ensemble.
-   Le Signe, Jésus-Christ, le Saint-Esprit, est au milieu de nous. Nous devrions avoir du respect
-pour cela! Nous ne pourrons jamais assez nous humilier. L’important n’est pas d’enlever ses
-souliers ou de s’agenouiller (cela ne suffirait pas); mais nous devons vivre une vie qui produit les
-fruits de l’Esprit…
-   Quels sont les fruits de l’Esprit? — l’amour, la joie, la paix…
-   Vous souvenez-vous de ce que j’ai dit ce matin? Pour les préparer, Il envoya le messager
-avec le message. Après cela, Il envoya la Colonne de Feu, afin de le confirmer. Enfin vint la
-consolation. Comme vous saviez que c’était la vérité, vous avez trouvé la paix. Nous avons la
-paix avec Dieu par le Seigneur Jésus-Christ. Ce soir, nous allons prier pour les malades. Je
-pense qu’il y aura aussi le Repas du Seigneur. [Frère Branham parle à frère Neville — N.d.R.].
-Y aura-t-il des baptêmes?… le Repas du Seigneur — seulement le Repas du Seigneur. Nous
+Les foules sont tellement nombreuses là-bas, que nous ne pouvons pas les recevoir dans des salles. Nous devons les réunir à l’extérieur. Quelquefois, leur nombre est presque incroyable. Il en est venu jusqu’à 500’000 (un demi-million) dans une seule réunion, non pas en plusieurs jours, mais en un seul jour! Vous savez, d’habitude, les évangélistes évaluent le nombre de ceux qui sont venus sur une période de six semaines. Nous, nous comptons seulement par jour, par réunion. Quelquefois, il n’y a pas assez de sièges. Alors, on les fait asseoir par terre. C’est pour cela que nous devons attendre la saison sèche. Ces pauvres gens dehors… J’ai vu des gens bien habillés, des femmes dont les cheveux dégoulinaient sous la pluie pendant toute une journée! Ils étaient là, et il pleuvait, tonnait, il y avait des éclairs, le vent soufflait, mais les gens étaient là, serrés les uns contre les autres, attendant leur tour dans la ligne de prière. Vous savez, Dieu honore une telle foi! C’est vrai!
 
-        http://www.cmpp.ch
+Vous devez faire quelque chose que Dieu puisse honorer. Vous comprenez? Vous devez Lui montrer… Si les gens reçoivent tout sans faire le moindre effort, ils ne l’apprécient en général pas. Le don est gratuit, c’est vrai, mais vous devez…
 
-    POUSSES A BOUT        5
-aimerions que vous puissiez rester pour prendre le Repas avec nous. Nous aurons fini dans
-trente-cinq à quarante minutes, et alors nous serons prêts à prendre le Repas du Seigneur.
-   Et comme demain est la Journée des travailleurs, vous vous reposer! Je vous ai dit quelles
-étaient nos intentions. Je voudrais être sûr que vous sachiez ces choses.
-   Ce matin, nous avons eu un message de deux ou trois heures. J’avais pensé l’interrompre pour
-continuer ce soir, mais il était trop extraordinaire pour que je l’interrompe. Je ne sais pas si les
-gens l’ont compris. Je l’espère. J’espère qu’il a été enregistré, afin que les gens sachent que ce
-message était un message particulier, ne faisant pas partie de mon ministère ordinaire,
-mais qu’il était un message semblable aux Sept Sceaux, etc. — une Parole venant
-directement de Dieu. Je crois que celui-là était nécessaire pour faire suite aux Sept Sceaux.
-   Voyez ce qui se passe après la révélation des Sept Sceaux: les gens se rassemblent, les
-signes se manifestent, la lumière rouge s’allume pour nous avertir que nous sommes dans les
-derniers jours; il y a le signe des femmes qui deviennent de plus en plus belles; le signe de ce que
-l’homme est capable d’accomplir; tous ces signes montrent l’autorité du Saint-Esprit. Et voici ce
-message qui vient couronner tous les autres, depuis les Sept Sceaux. Le Signe est la preuve
-finale que nous sommes en ordre. Est-ce que vous comprenez cela? Examinez-vous, et voyez
-si vous êtes dans la foi.
-   Que le Seigneur vous bénisse! Avant de lire la Bible… prier pour les malades… Je voudrais
-vous demander ceci: Pour qui avons-nous prié, dimanche soir passé? Tous ceux qui ont été guéris
-dans le courant de cette semaine… presque tout le monde lève la main! Cela s’est passé à la
-réunion de dimanche soir. C’est quelque chose… vous comprenez… c’est quelque chose que
-j’aimerais savoir pour moi.
-   Une dame, une certaine Mme Peckenpaugh, est venue de Chicago avec un petit garçon. C’était
-une grande chrétienne. Je crois que ce petit garçon avait été abandonné par les médecins, qui
-n’arrivaient même pas à déterminer sa maladie. Ses poumons étaient en si mauvais état qu’il ne
-pouvait plus aller à l’école ou faire quoi que ce soit. Il était au plus mal. Juste après le message, le
-Saint-Esprit parla à cet enfant, l’appela par son nom, lui dit l’état dans lequel il se trouvait, et
-proclama sa guérison. Et cette semaine, on le conduisit chez le médecin, qui dit que cet enfant
-avait deux poumons tout neufs! Je crois que les parents nous ont téléphoné afin de le faire savoir
-à l’assemblée.
-   Dieu, le Créateur, peut créer une nouvelle paire de poumons! Je crois sincèrement que nous
-sommes sur le point de vivre les choses les plus extraordinaires qui se soient jamais produites sur
-la terre depuis…?… Mais nous ne pourrons le reconnaître que par… ce sera quelque chose de si
-humble! Ce que l’homme appelle sagesse, Dieu dit que c’est une abomination. Mais ce que
-l’homme appelle folie, cela, Dieu l’appelle sagesse. Cela se fera d’une manière si peu éclatante,
-que vous manquerez tout, si vous n’avez pas le Signe pour vous permettre de le voir.
-   Qui aurait pensé que les montagnes sauteraient de joie comme des béliers, et que les feuilles
-battraient des mains quand un prophète sortit du désert, selon ce qu’avait dit Ésaïe 712 ans
-auparavant de cet homme barbu, vêtu d’une peau de mouton, n’ayant même pas une chaire où
-prêcher, excommunié de toutes les églises, se tenant sur les rives du Jourdain et criant:
-“Repentez-vous!”. Il traitait les gens de race de vipères. Mais Dieu dit que lorsqu’Il viendrait, les
-montagnes sauteraient comme des béliers. Comprenez-vous cela? Les humbles virent ces
-choses et en furent heureux.
-   Comment pouvaient-ils comprendre que ce glorieux Messie qui avait été annoncé par des
-prophéties dès le début du Livre dans la Genèse elle-même, que ce Sauveur… Tout, les
-sacrifices, les prophètes, tout avait annoncé Sa venue. Et il vint comme un enfant illégitime! Ses
-parents n’étaient pas encore mariés. Et la femme devint enceinte, portant cet Enfant avant même
-d’être mariée! En plus de cela, il est dit dans la Bible qu’Il naquit dans une étable. Mais en ce
-temps-là, une étable n’était qu’une excavation dans un rocher. J’ai vu ce genre d’étable lorsque
-j’allais chasser en Arizona. Elle était au pied d’une paroi de rochers. C’est ainsi que Jésus naquit,
-dans une petite étable, dans une crèche où il y avait du foin ou de la paille, une étable où il y avait
-du bétail.
-   Il apprit ensuite le métier de charpentier. Comment cela aurait-il pu être le puissant Jéhovah?
-Pourtant, c’était Lui. C’était Quelqu’un de singulier. Tout enfant déjà, Il étonnait les sacrificateurs
+Vous savez ce que l’on dit: si vous avez reçu une cuillère en argent le jour de votre naissance, vous ne l’appréciez pas. Mais si vous devez travailler pour l’acquérir, alors, vous en apprécierez la valeur.
 
-        http://www.cmpp.ch
+Maintenant, je m’adresse à ceux qui écouteront les bandes. Le message de ce matin fut pour moi un des sommets de mon ministère. Un jour, je vous dirai pourquoi. Je sais que tout a concouru pendant des mois et des mois pour que je puisse donner ce message en cet endroit. Mais c’était ce matin qu’il fallait le donner.
 
-    POUSSES A BOUT       6
-par Sa connaissance de la Parole, et pourquoi cela? — parce qu’Il était la Parole! Vous
-comprenez? Il était la Parole! Il n’a jamais écrit de Livre. Je pense que les seuls mots qu’Il ait
-jamais écrits furent ceux qu’Il écrivit lors de l’épisode de la femme adultère, et qu’Il effaça aussitôt
-après. Il n’a jamais écrit un seul mot. Pourquoi? — parce qu’Il était la Parole! Il était la Parole. Il
-n’avait pas besoin de L’écrire; Il La vécut. Il était la Parole. “Si Je ne fais pas les oeuvres de
-mon Père, alors, ne me croyez pas!”. Vous comprenez? “Si Je ne fais pas exactement ce que la
-Parole a dit que Je ferais, alors Je ne suis pas la Parole”. Mais si… c’est cela qu’Il voulait dire
-— Il est la Parole.
-   Veuillez vous préparer maintenant pour le service de guérison et le Repas du Seigneur. Nous
-serions heureux de vous accueillir parmi nous, si vous pouviez rester. Si vous ne le pouvez pas,
-nous vous laisserons partir avant.
-   N’oubliez pas de prier pour moi et pour ma femme, qui est la meilleure femme au monde, et
-pour mes enfants. Je les revendique tous, chacun d’eux, pour le Seigneur Jésus.
-   Becky est maintenant juste à l’âge de ces petites “Ricketta”, c’est ce que nous appelons une
-“teenager”. C’est une très gentille fille, et je remercie le Seigneur pour cela. Elle ne fume pas, ne
-boit pas, et ne sort pas n’importe où. Mais elle est à cet âge où… Elle est à l’âge de
-l’insouciance. Elle n’aime pas venir à l’église, et si elle le fait, elle se tient au fond et mâche du
-chewing-gum; elle reste là un moment, puis se lève et sort. Vous comprenez? J’aimerais la voir
-remplie du Saint-Esprit.
-   J’aimerais que Joseph… lorsque je ne pourrai plus monter en chaire, j’aimerais prendre cette
-vieille Bible usée, et La lui remettre en disant: «Joseph, mon fils, garde-la et écoute-la!». Alors, je
-serai prêt à m’en aller. J’aimerais entendre un vent souffler quelque part, regarder en haut, faire un
-signe de la main et m’élever vers le Ciel.
-   Prions. O Dieu notre Père, notre vie tout entière est contenue dans cette Parole, car Tu es la
-Parole, et cette Parole est pour nous la Vie. Mais, Seigneur, il y en a plusieurs ici qui ont ce Signe
-et qui sont malades malgré tout. Je désire parler ce soir afin de les encourager à prendre ces
-droits que Dieu leur a donnés. Ils ont le droit de vaincre le diable. Il est déjà vaincu, mais il
-essaie de leur faire croire le contraire. Je les réclame pour Toi, ô Père!
-   Aide-moi à bien apporter la Parole. Tu parles au travers de moi, Seigneur, au moyen de ces
-quelques notes que j’ai prises et de ces quelques passages des Saintes Ecritures. Je prie que Tu
-m’aides, Seigneur, à leur faire recevoir la Parole, et que Tu leur donnes la foi pour rendre
-gloire à Dieu. Je Te le demande au Nom de Jésus. Amen.
-   J’aimerais lire dans la Parole le livre de Jérémie, chapitre 29. Que vous le lisiez ou non avec
-moi, notez-le. Jérémie 29, nous commencerons au verset 10. Nous lirons ensuite Luc 16 depuis le
-verset 14.
-   Pendant que vous cherchez, je vous donne le titre de cette prédication. C’est: Poussés à bout.
-Vous savez ce que cela signifie? Lisons maintenant Jérémie 29.10-14.
-      “Car voici ce que dit l’ETERNEL: dès que soixante et dix ans seront écoulés pour
-   Babylone, je me souviendrai de vous, et j’accomplirai à votre égard ma bonne parole, en
-   vous ramenant dans ce lieu.
-      Car je connais les projets que j’ai formés sur vous,… (n’est-ce pas merveilleux?) … dit
-   l’ETERNEL, projets de paix et non de malheur, afin de vous donner un avenir et de
-   l’espérance.
-      Vous m’invoquerez, et vous partirez; vous me prierez, et je vous exaucerai. Vous me
-   chercherez, et vous me trouverez, si vous me cherchez de tout votre coeur.
-      Je me laisserai trouver par vous, dit l’ETERNEL, et je ramènerai vos captifs; je vous
-   rassemblerai de toutes les nations et de tous lieux où je vous ai chassés, dit l’ETERNEL, et
-   je vous ramènerai dans le lieu d’où je vous ai fait aller en captivité”. (Le retour à la
-   Pentecôte! — cela, je le dis de moi-même. Ce n’est pas écrit dans ce passage. Mais c’est
-   ce que je voulais dire à l’Eglise.)
-    Maintenant, lisons Luc 16.16.
+J’espère que vous comprenez maintenant l’importance du Signe! Le Signe montre que le Sang a été appliqué, que le prix a été payé, le prix exigé par Dieu Lui-même. Jésus a payé le prix en répandant Son Propre Sang. C’est ce qu’Il a fait! De Sa Vie est venu le Saint-Esprit. Et quand le Sang est appliqué sur vous, alors le Saint-Esprit est le Signe manifestant que le Prix a été payé. Dieu vous a agréé, et c’est cela, le Signe — rappelez-vous que c’est cela, le Signe!
 
-        http://www.cmpp.ch
+Il y a beaucoup de gens qui ne savent pas ce qu’est ce Signe; c’est pourquoi il faut faire comme si personne ne le connaissait, afin que tous puissent le comprendre. C’est comme lorsque nous prêchons le salut. Nous devons le prêcher de telle manière que tout le monde… comme s’il était pour tout le monde, malgré que nous sachions bien que ce n’est pas le cas. Nous devons prêcher la guérison Divine à tout le monde, bien que nous sachions qu’elle n’est pas pour tout le monde. Vous comprenez? Jésus est venu pour sauver ceux qui avaient été inscrits dans le Livre de la Rédemption dès avant la fondation du monde. Ce sont les seuls qu’Il soit venu sauver. Qui sont-ils, je n’en sais rien! Mais personne ne peut avoir la foi, si cela ne lui a pas été donné. Personne ne peut venir, si Dieu ne l’a pas appelé. C’est la vérité!
 
-POUSSES A BOUT 7
-      “La loi et les prophètes ont subsisté jusqu’à Jean; depuis lors, le royaume de Dieu est
-   annoncé, et chacun use de violence pour y entrer”. (N’entre pas simplement, mais use de
-   violence. Il faut user de violence.)
-      “Si vous Me cherchez de tout votre coeur, vous Me trouverez”. Et Il promit qu’à la fin des
-   soixante-dix ans, Il reviendrait pour ramener à Jérusalem Son peuple dispersé sur toute la
-   terre. C’est ce qu’Il a fait. C’est vrai!
-   Maintenant, nous allons parler un moment sur ce sujet: Poussés à bout. En général, il faut que
-des circonstances critiques se présentent pour que nous soyons poussés à bout. Vous
-comprenez? Il est malheureux qu’il en soit ainsi, mais l’homme est tellement négligent, son
-esprit est si paresseux qu’il a réellement besoin d’être poussé à bout. Une situation surgit qui
-vous pousse à cette extrémité. Et c’est alors que vous montrez réellement ce que vous avez en
-vous. C’est dans une situation extrême que vous montrez de quoi vous êtes faits. En général, c’est
-ce qui fait apparaître ce qu’il y a de bon en vous.
-   J’ai vu des gens sur leur lit de mort essayer de rassembler toutes leurs forces pour confesser
-des secrets qu’ils avaient gardés pendant leur vie entière et qu’ils voulaient révéler, sachant qu’ils
-allaient mourir. Ils disent: [Frère Branham imite la voix de quelqu’un à l’agonie — N.d.R.]: «Prenez
-ceci… mettez cela en ordre. Allez!… Je vous en supplie!… Allez!… faites-le!…». Ils sont à bout. Ils
-auraient dû mettre ces choses en ordre auparavant, ne pas attendre la dernière minute. —
-«Voulez-vous faire ceci et cela pour moi?». L’extrémité à laquelle nous sommes réduits nous
-pousse à bout, et nous force à faire ce que nous aurions dû faire au moment opportun, en
-dehors de toute urgence.
-   Remarquez que ce soir, nous utilisons le symbole de la Pâque. La Pâque fut prise en des
-temps extrêmes où les Israélites avaient été poussés à bout.
-   Remarquez ce qui est dit dans Exode 12.11. “Quand vous le mangerez, vous aurez vos reins
-ceints, vos souliers aux pieds, et votre bâton à la main…”. — Vous mangez à la hâte, car c’est un
-instant critique!
-   Ils avaient vu la glorieuse Main de Dieu. Ils avaient vu tous les miracles qu’Il avait accomplis, et
-ils étaient venus se placer sous le signe. Et pendant qu’ils étaient sous le signe, ils avaient
-pris le Repas à la hâte, car ils savaient qu’à cette heure, Dieu allait frapper l’Egypte par Son
-jugement.
-   Ce fut une heure où l’on trembla, où chaque homme s’examina, parce que la Parole du
-prophète n’avait jamais manqué de s’accomplir. Ils avaient eu la preuve qu’Elle était la vérité. Tout
-ce qu’il disait arrivait exactement comme il l’avait dit. La Colonne de Feu était toujours là. Le
-prophète leur avait dit que Dieu ne passerait par-dessus eux que s’Il voyait le signe sur la porte.
-L’heure était critique!
-   Je peux m’imaginer la réaction des enfants, lorsqu’ils virent descendre du ciel ces grandes ailes
-noires qui s’étendirent sur la ville comme une fumée; les cris dans chaque maison, les enfants qui
-disaient: “Papa, es-tu bien sûr que nous sommes sous le signe?”.
-   Alors, le père les conduisait vers la porte et leur disait, montrant les poteaux et le linteau: “J’ai
-fait cela conformément à Sa Parole!”.
-   — “Papa, n’oublie pas que je suis ton fils aîné! Papa, es-tu sûr de ce que tu dis?”.
-   — “J’en suis sûr! C’est ce que nous a dit le prophète, et il a la Parole de Dieu. Il a dit: ‘Quand
-Je verrai le sang, Je passerai par-dessus vous… Prenez un agneau pour chaque maison’.
-Vous tous, mes enfants, je vous ai fait entrer. Toi, tu es mon aîné, mon premier-né, et ce sont les
-premiers-nés qui mourront là-bas. — Mais il y a le sang. C’est cela, le AINSI DIT LE SEIGNEUR!
-C’est pourquoi, sois en paix, mon fils, car Dieu a fait la promesse”. — Vous comprenez?
-   — “Papa, pourquoi as-tu mis tes souliers? Pourquoi tiens-tu ton bâton à la main? Pourquoi
-tiens-tu un morceau de pain dans une main, et d’agneau dans l’autre? Pourquoi y a-t-il ces herbes
-amères et tout le reste? Pourquoi manges-tu cela? Pourquoi la sueur couvre-t-elle ton front?”.
-   — “Mon fils, la mort va frapper!”. Vous voyez, l’heure était critique, il n’y avait plus à hésiter!
-   Je crois que nous vivons des jours où… les jours que nous vivons devraient mettre
-l’Eglise en état d’urgence. Le message de ce matin, message venu de Dieu et non pas de moi,
+Ainsi donc, beaucoup ne seront pas sauvés. Nous le savons. Dieu savait avant la fondation du monde qu’ils ne seraient pas sauvés. Il y en a beaucoup qui ne seront pas guéris. Ils ne peuvent simplement pas saisir cette guérison; ils ne savent pas ce que c’est. Ils seront nombreux! Mais nous prêchons comme si cela était pour tout le monde, car nous ne savons pas qui l’acceptera. Nous ne le savons pas. Mais c’est pour quiconque… il y a des gens qui ne peuvent tout simplement pas recevoir cette foi.
 
-        http://www.cmpp.ch
+Il en va de même du Signe. Nous avons parlé abondamment du Signe, mais il faut maintenant manifester le Signe. Vous comprenez?
 
-POUSSES A BOUT 8
-devrait pousser à bout toute l’assemblée, parce que nous nous sommes attardés assez
-longtemps! Il y a assez longtemps que nous nous contentons d’aller à l’église! Il faut faire
-quelque chose!
-   Nous pouvons voir des grands signes et des miracles chez les autres, mais qu’en est-il de
-nous? Cela devrait nous acculer de telle manière que nous nous déterminions, devant Dieu, à…
-Les signes de Sa venue devraient amener l’assemblée tout entière, après avoir lu ces choses
-dans la Parole… Le Saint-Esprit nous a dit: «Allez à tel et tel endroit, où telle et telle chose va
-arriver». Il ne nous dit pas ce qui va arriver, mais que cela va arriver. Nous y allons, et cela arrive.
-Les journaux le publient, et nous pouvons voir les photos. Nous revenons ici, et nous voyons se
-dévoiler ces glorieux mystères cachés de la Bible qui nous ouvrent de nouveaux horizons
-que nous ne soupçonnions pas auparavant, et tout cela est en parfait accord avec les signes
-de la prochaine venue du Seigneur Jésus.
-   Ensuite, à la fin des messages, nous avons pu voir l’action glorieuse du Saint-Esprit. Nous
-L’avons vu Se rendre visible à plusieurs. On a même pu en prendre des photographies. On peut
-Le voir à l’oeuvre, démontrant qu’il ne s’agit pas d’un homme, d’un prédicateur, qu’il ne s’agit pas
-non plus d’une certaine assemblée, mais que cela, c’est la manifestation du Saint-Esprit qui nous
-montre les mêmes choses que ce qu’Il montra, lorsqu’Il entra dans le Corps de Jésus-Christ.
-Maintenant, Il entre dans le Corps de Son Epouse. Cela devrait nous précipiter dans cet état
-d’urgence.
-   Ces gens avaient pu voir la main de Dieu. Et le soir où ils prirent le Repas, ils le prirent à la
-hâte, parce qu’ils savaient que quelque chose allait se passer. Et rappelez-vous ceci, c’est que,
-lors de la venue du Seigneur, le départ sera soudain, et se fera en secret. Il viendra et prendra
-Son Epouse comme un voleur qui vient pendant la nuit. Quand nous pensons… Tout à coup, des
-membres de votre famille disparaîtront, et vous, vous resterez en arrière. Cela devrait nous faire
-nous précipiter à prendre la Grâce de Dieu, de manière à ne pas rester en arrière. Et s’il y a
-bien quelque chose qui… Seigneur, ne me laisse pas en arrière!
-   L’autre jour, j’ai entendu Mel Johnson chanter ce chant:
-      Souviens-Toi de moi quand mes larmes coulent.
-      Souviens-Toi de moi quand je suis solitaire.
-      Quand je traverserai le Jourdain,
-      Quand Tu appelleras les Tiens, souviens-Toi de moi.
-   Je désire que mon nom soit inscrit dans le Livre de Vie. Je désire qu’Il se souvienne de moi
-quand Il appellera Son peuple. Et cela me donne envie de me hâter, de me précipiter, comme Paul
-qui disait: “…de peur d’être moi-même rejeté, après avoir prêché aux autres”. Cela pourrait arriver!
-C’est cela qui me rend conscient de l’urgence de la situation: de penser qu’après toutes ces
-années passées à prêcher l’Evangile, je pourrais en arriver à manquer Sa venue. Que dois-je
-faire? Quelle est l’étape suivante? Me demander sans cesse ce que je dois faire me rend anxieux!
-Cela me fait passer sans cesse par des hauts et des bas. C’est difficile, parce que, lorsque je suis
-avec les gens, il faut que je me consacre à eux, afin de pouvoir en gagner quelques-uns à Christ,
-tout en gardant toujours ce Signe devant les yeux. Vous comprenez?
-   Et je vois que des choses vont arriver, et je ne peux pas en parler aux gens. Je vois toutes
-sortes de choses dont il m’est interdit de parler. Ces visions qu’ils demandent!… Ils seraient
-quelquefois bien malheureux, si je les leur racontais. Il vaut mieux ne rien dire. Peu à peu, les
-choses vont si loin que tout devient visions, et cela éprouve vos nerfs. Vous finissez par vous
-demander: «Est-ce que je suis en train d’avoir une vision?». Comme si j’étais ici en chaire, me
-demandant: «Suis-je en train d’avoir une vision? ou alors, où suis-je en réalité?». Vous vous
-surmenez, vous dépassez les limites de votre résistance. Vous découvrez, concernant les gens,
-des choses que vous préféreriez ne pas connaître. Ceux qui veulent avoir des visions, qui veulent
-connaître ces choses, ne savent pas ce que ce genre de ministère leur coûtera! Vous ne savez
-pas ce qui accompagne un tel ministère. Cela vous pousse à bout, vous jette dans cet état
-d’urgence: «Seigneur Dieu, je sais que j’aurai à répondre…».
-   Jack Moore me dit un jour: «Je n’aimerais pas devoir répondre à votre place au jour du
-jugement! Dieu a mis toutes ces âmes entre vos mains, et vous devrez rendre compte pour
-chacune d’elles. Vous devrez répondre au sujet de votre ministère». Il m’a dit cela il y a quinze ou
+Les Luthériens disent que le Signe, c’est accepter la Parole, c’est accepter Jésus comme son Sauveur personnel. Les Méthodistes disent: «Quand vous devenez heureux au point de vous mettre à pousser des cris, alors, vous avez le Signe». Les Pentecôtistes disent: «Vous L’avez quand vous vous mettez à parler en langues». Nous avons découvert que tout cela était faux. Vous voyez? Le Signe est le Signe! C’est vous et Christ en une seule personne! C’est le Saint-Esprit, Sa Vie agissant en vous, Sa Vie en vous. Cela, c’est valable pour le riche comme pour le pauvre, pour tous ceux qui Le reçoivent.
 
-        http://www.cmpp.ch
+Rappelez-vous. Le Signe est ce que… Vous allez à la gare chercher votre billet. Il faut payer un prix, mettons 50 cents, pour aller en bus ou en chemin de fer d’ici à Charleston, Indiana. La compagnie donne un signe… Vous allez à la gare, et là, quelqu’un achète pour vous votre droit de passage pour 50 cents. Alors, il vous donne le billet, un signe qui vous confère le droit de monter dans ce train et d’y rester jusqu’à votre destination. Vous avez un signe.
 
-POUSSES A BOUT 9
-dix-huit ans. Depuis ce temps-là, je ressens cette urgence! Que vais-je faire? Seigneur, que je
-puisse ne rien annoncer d’autre que Ta Parole! Que je puisse leur dire la vérité, ou alors
-que je me taise! C’est cela qui me donne ce sentiment d’urgence!
-   Ensuite, nous voyons apparaître tous ces signes: le Saint-Esprit qui m’enlève pour me révéler
-ces Sceaux et vous les apporter, pour me révéler les Ages de l’Eglise, et vous les apporter…
-ensuite vient cette grande Colonne de Feu où Il Se révèle Lui-même. — Il y eut ces sept Sceaux
-révélés, ces signes qui furent même décrits dans les journaux; il y eut aussi les Anges de Dieu,
-ces sept Anges avec leurs sept messages qui confirment exactement ce que dit la Bible. Pendant
-ce temps, il y a ces Sceaux, ces signes de la fin des temps, toutes ces choses apportées et
-révélées aux gens, le Seigneur manifestant ainsi Sa présence; ensuite, ce matin même, il y eut
-cette prédication où nous avons vu la nécessité de la présence du Signe sur chaque
-personne. Vous êtes les miens, ma famille. Vous êtes ceux que j’aime, vous tous qui êtes ici, et
-tous ceux qui écoutent les bandes. Vous pouvez ainsi comprendre un peu mon angoisse!
-   Poussés à bout… Les signes de Sa venue devraient jeter chaque membre de Christ dans cet
-état maintenant, et nous devrions nous préoccuper en toute hâte de notre âme, de notre
-bien-être dans l’Au-delà. A quoi cela nous servira-t-il de gagner le monde entier? Quel est le but
-de notre vie? Pourquoi travaillons-nous? Pourquoi mangeons-nous? Pourquoi combattons-nous?
-— Pour vivre! Et quelle est la raison de votre vie? — de mourir! Vous ne pouvez pas vivre
-aussi longtemps que vous n’êtes pas prêts à mourir à vous-mêmes. C’est vrai!
-   Lorsque nous voyons toutes ces guérisons miraculeuses, cela devrait nous faire comprendre
-pleinement l’urgence de la situation!
-   Si ce petit garçon… cette dame est-elle Mme Peckenpaugh? Etes-vous la dame qui avait
-amené ici ce petit garçon? Oui, voilà la dame dont je vous avais parlé tout-à-l’heure. Je viens de la
-voir.
-   Si Dieu peut faire cela pour ce petit garçon, alors, vous devriez ressentir cette urgence! Il y a
-peut-être ici cet homme de New Albany, un ami de frère Roberson. Il avait un petit garçon. Sa
-femme avait été guérie d’un cancer. Ce petit garçon lui-même souffrait d’un asthme tellement fort
-qu’il était au plus mal. C’est comme s’il avait eu un cancer dans le cou. Aussi son père l’amena-t-il
-un matin (je le vois qui lève la main! il est au fond de la salle), afin que l’on priât pour lui. Vous
-voyez? — une situation désespérée, un état d’urgence!
-   Lorsque sa femme fut sur le point de mourir du cancer, il sut que Dieu pouvait la guérir. Si Dieu
-avait pu guérir sa femme, alors Il pouvait aussi guérir son enfant: Ainsi, Il fut poussé dans ses
-derniers retranchements. Vous comprenez? Vous devez aller jusqu’au point où vous êtes
-poussé a bout, où vous êtes mis dans cet état d’urgence, de détresse, et c’est alors que
-Dieu peut vous écouter. Mais si vous êtes négligent, si cela vous est égal qu’Il agisse ou non,
-alors, c’est différent! Vous dites que vous croyez, mais il faut cette situation désespérée pour agir.
-   Je crois que la raison pour laquelle nous n’avons pas ce sentiment est parce que nous
-manquons d’amour, d’amour pour Dieu. Je crois que l’amour pour Dieu crée cette urgence en
-nous. Si Dieu est en vous, si le Signe est en vous et que vous comprenez dans quel temps
-nous vivons, et que vous voyez le monde vautré dans le péché, cela vous donnera ce sentiment
-d’urgence. C’est certain!
-   Or, la Parole dit clairement (si vous voulez le noter) dans Galates 5.6, que la foi est agissante
-par l’amour. La seule façon pour vous d’avoir la foi, c’est d’avoir l’amour. Parce qu’en définitive, la
-foi est la manifestation de l’amour. C’est exactement cela. La foi se manifeste par l’amour. Vous
-ne pouvez avoir la foi si vous n’avez pas l’amour.
-   Comment pouvez-vous avoir confiance en votre femme, si vous ne l’aimez pas? Et cela, c’est
-l’amour Phileo. Alors, qu’en est-il de l’amour Agapao pour Dieu? Que pouvez-vous faire si vous
-n’aimez pas Dieu? Si vous aimez votre femme, mais que vous ne le lui dites jamais, si vous ne lui
-faites jamais la cour, si vous ne l’embrassez jamais, ne la serrez jamais dans vos bras, si vous ne
-lui dites jamais qu’elle est la meilleure cuisinière de tout le pays, et tout le reste, qu’elle est la plus
-belle, et combien vous l’aimez… Si vous ne le lui dites pas, elle ne le saura jamais. Si vous
-l’aimez, vous devez exprimer ce sentiment.
+Dans notre cas, c’est le sang qui était le signe. Il fallait l’appliquer littéralement, parce que ce n’était qu’un corps chimique; c’était le sang d’un agneau, d’un animal. Ainsi donc, la vie qui était dans le sang… le sang était répandu. La vie s’en allait, mais elle ne pouvait revenir sur l’homme, parce que c’était la vie d’un animal. Ce sang n’était que le témoignage de la bonne conscience de celui qui attendait la venue du Sacrifice Parfait. Et pour que ce Sacrifice fût parfait, le Juge Lui-même, le Dieu du Ciel, devint le Sacrifice, le Juge, le Jury et l’Avocat. Comprenez-vous cela? Il devint Lui-même le Sacrifice, et quand la Vie qui était Dieu s’en alla… La Parole nous dit ce qui arrive: “Je leur donnerai la Vie Eternelle…”. Dans le texte grec… (je parle maintenant aux érudits; j’en vois deux ou trois ici); en grec, le mot est Zoe, Z-o-e, ce qui signifie: «La Vie de Dieu Lui-même». “Je lui donnerai Ma Zoe, Ma propre Vie”. Christ et Dieu étaient Un.
 
-        http://www.cmpp.ch
+La Vie qui était en Christ est le Saint-Esprit, qui n’est pas la troisième Personne, mais la même Personne sous la forme du Saint-Esprit venant sur vous comme un Signe montrant que votre vie a été rachetée, que le prix a été payé. Vous avez été agréé. Jusqu’à ce que vous ayez reçu le Signe, vous n’avez pas le droit de vous mettre en chemin. Vous n’avez pas le droit d’entrer dans le bus. Vous n’avez pas le droit d’entrer, si vous ne pouvez pas présenter le Signe, et ce Signe montre que le prix a été payé. Ce Signe montre que le Sang a été répandu, vous a été appliqué; le prix a été payé pour vous, et vous avez le Signe montrant que le Sang vous a été appliqué et que vous êtes agréé. Comprenez-vous cela?
 
-POUSSES A BOUT 10
-   C’est ainsi que nous agissons avec Dieu. Lorsque nous L’aimons, nous le Lui disons. Nous
-L’adorons, nous Lui rendons un culte… c’est l’amour qui nous entraîne à faire cela.
-   Maintenant, que se passe-t-il si votre femme a besoin que vous fassiez absolument quelque
-chose pour elle? Vous n’avez de cesse que cela soit fait. Que va-t-il se passer si l’on vous dit que
-votre femme a le cancer ou la tuberculose, et qu’elle va mourir? Vous ferez n’importe quoi. Cela
-vous poussera à bout.
-   C’est la même chose! Nous devons avoir l’amour, avant de pouvoir avoir la foi, et la foi…
-Que se passe-t-il, lorsque nous avons vraiment l’amour? Cela entraîne notre foi au plus fort de
-la mêlée sur le champ de bataille de Dieu. Le véritable amour divin pour Dieu, pour Sa Parole et
-pour Son peuple entraîne la foi jusque là. L’amour s’empare de la foi et… «allons-y!». Il se met en
-campagne, car c’est cela qu’accomplit l’amour.
-   Jésus dit dans Jean 14.23: “Si quelqu’un m’aime, il gardera ma Parole”. Mais vous ne pouvez
-pas garder Sa Parole, si vous n’avez pas foi en ce qu’Il dit! Ainsi donc, vous voyez que celui qui
-aime Dieu garde la Parole de Dieu. Si Dieu dit: “Je suis l’Eternel qui te guéris”, il le croit. L’amour
-fait qu’il le croit, parce que l’amour domine tout. “Quand je parlerais les langues des hommes et
-des anges, si je n’ai pas l’amour, je ne suis rien”. Vous voyez? “Quand j’aurais toute la foi jusqu’à
-transporter les montagnes, si je n’ai pas l’amour, je ne suis rien”. L’amour dirige tout, parce que
-Dieu est amour. Dieu est un Dieu d’amour. Oui! Jésus a dit: “Si quelqu’un m’aime, il gardera ma
-Parole”…
-   Nous savons qu’il est vrai que Dieu se laissera trouver par l’âme en détresse. Nous le savons
-tous. Mais il faut en général quelque chose de spécial pour nous pousser dans cette détresse,
-dans cette urgence.
-   Nous voyons dans Jacques 5.16 que la Bible dit que la prière fervente (c’est-à-dire faite dans
-un état, dans un sentiment d’urgence) du juste a une grande efficace. Lorsqu’un juste, un homme
-de bien, met son âme en activité fervente, lorsqu’elle s’anime d’une ardeur fiévreuse, lorsque c’est
-la prière fervente d’un homme qui peut manifester le Signe, alors quelque chose se passe. Vous
-comprenez?
-   Remarquez ce qui est encore dit dans Jacques 5.16: “Confessez donc vos péchés les uns aux
-autres…”. Ne pas avoir de péchés… Demandez aux frères de prier pour vous, confessez vos
-fautes les uns aux autres, et priant les uns pour les autres… Avec assez d’amour pour avoir
-confiance, je peux vous confesser mes fautes. Vous pouvez, vous, me confesser vos fautes,
-et je vous aime assez pour prier pour vous; et vous, priez pour moi. Et nous resterons ainsi
-dans une prière fervente et efficace, jusqu’à ce qu’il y soit répondu. C’est cela, être poussés à
-bout. Nous devrions être toujours comme cela.
-   Prenons pour cela quelques exemples dans l’Ecriture, et nous examinerons ces choses
-pendant environ un quart d’heure, si le Seigneur le permet.
-   Jacob était un homme sans beaucoup de scrupules. Le droit d’aînesse avait une grande
-importance pour lui, aussi chercha-t-il à se l’approprier par n’importe quel moyen. Après qu’il s’en
-fût emparé, il pensa que tout était résolu puisqu’il l’avait obtenu. Il pensait que l’affaire était réglée.
-Esaü vint vers son frère. La journée avait été longue. Il avait travaillé dans les champs et chassé
-toute la journée. Il était affamé et avait grand besoin d’une bonne assiette de potage aux lentilles.
-Cela dut être bien tentant pour lui de voir ce pot de lentilles, lui qui avait couru toute la journée. Il
-dit à Jacob: «Je vais m’évanouir. Donne-moi un peu de ce potage!».
-   Jacob lui répondit: «Si tu me jures de me céder ton droit d’aînesse!». Peu lui importait comment
-il pouvait l’obtenir! Ce qui comptait pour lui, c’était de le posséder! Quand il s’en fut emparé, il
-pensa que l’affaire était terminée, et que tout était en ordre.
-   Pentecôtistes, c’est là que vous avez failli! Vous pensiez que, parce que vous étiez nés de
-l’Esprit, nés de l’esprit de Dieu, que vous auriez acquis le droit d’aînesse et que cela suffirait. Mais
-ce n’est que le point de départ! Vous vous souvenez de ce message: “Ecoutez-Le!”. J’avais dit
-que l’enfant, après qu’il fût né dans la famille, devenait un fils. Il avait les droits découlant de son
-droit d’aînesse, mais il devait être éprouvé et instruit. Ensuite, s’il arrivait qu’il ne fût pas un fils
-obéissant, et soumis à la volonté de son père, alors il perdait son héritage. Il avait beau être un fils,
-il n’héritait pas. Il n’héritait rien, s’il ne s’occupait pas des affaires de son père.
+Il n’y a pas… il n’y a pas de preuve certaine. Vous pensez (je le sens dans votre esprit): «Frère Branham, comment le saurai-je?». Qu’étiez-vous? et qu’êtes-vous maintenant? C’est ainsi que vous pouvez le savoir. Comment étiez-vous, avant que ce Signe fût appliqué? Comment êtes-vous, après qu’il ait été appliqué? Quelles étaient vos aspirations avant, et que sont-elles maintenant? C’est ainsi que vous savez si oui ou non le Signe a été appliqué. Et tout le reste va automatiquement avec cela.
 
-        http://www.cmpp.ch
+Si vous dites: «Le parler en langues est la preuve…». — quand vous achetez une paire de souliers, ils ont une patte, une languette [frère Branham fait un jeu de mots. En anglais, langue, et patte ou languette se traduisent par le même mot: tongue — N.d.T.]. Mais la languette n’est pas le soulier. Elle appartient au soulier. Elle fait partie du soulier. Vous comprenez? Il en va de même du Signe. Le Signe est Christ. Mais parler en langues, chasser les démons et tout le reste, prêcher, etc.: cela, ce sont des manifestations; ce n’est pas le Signe. C’est un don venant du Signe.
+
+Si vous me dites: «C’est vous que je veux, frère Branham!» et que je vous fasse un cadeau, eh bien, ce n’est pas moi que vous recevez, c’est mon cadeau. Les langues sont un don du Saint-Esprit. Ce n’est pas le Saint-Esprit. C’est un don du Saint-Esprit.
+
+Et le diable peut imiter ces choses! Mais il ne peut pas être le Saint-Esprit. Il peut imiter tous ces dons, mais il ne peut pas être le Saint-Esprit. Et le Saint-Esprit est le Signe montrant que le Sang a été appliqué, parce qu’Il accompagne le Sang depuis le jour où le Livre de la Rédemption a été écrit. Comprenez-vous? C’était cela, le but de Sa venue. C’est cela qu’Il accompagna dans chaque âge. Il fit en sorte que, dans chaque âge, le Signe fût manifesté. Et eux ne pourront être rendus parfaits sans nous. Et maintenant, le Saint-Esprit visite l’Eglise, manifestant Dieu dans la chair de l’homme, comme Il le fit avant la destruction de Sodome, qui en était un type; alors, Il apparut à Abraham.
+
+Tout ce qu’Il n’a pas fait au cours des âges, dans les âges de l’église, Il le fait maintenant. C’est le retour à la Parole, parce que tous ces messages doivent aboutir à la Parole tout entière. Et, dans les derniers jours, les Sept Sceaux ont été ouverts afin d’amener les derniers retardataires et de les réunir tous au glorieux Corps de l’Epouse, afin que ceux qui vécurent auparavant ne soient pas parfaits avant que l’église, cette Epouse des derniers jours, ne soit parachevée. Alors, tous seront rassemblés pour être enlevés ensemble.
+
+Le Signe, Jésus-Christ, le Saint-Esprit, est au milieu de nous. Nous devrions avoir du respect pour cela! Nous ne pourrons jamais assez nous humilier. L’important n’est pas d’enlever ses souliers ou de s’agenouiller (cela ne suffirait pas); mais nous devons vivre une vie qui produit les fruits de l’Esprit…
+
+Quels sont les fruits de l’Esprit? — l’amour, la joie, la paix…
+
+Vous souvenez-vous de ce que j’ai dit ce matin? Pour les préparer, Il envoya le messager avec le message. Après cela, Il envoya la Colonne de Feu, afin de le confirmer. Enfin vint la consolation. Comme vous saviez que c’était la vérité, vous avez trouvé la paix. Nous avons la paix avec Dieu par le Seigneur Jésus-Christ. Ce soir, nous allons prier pour les malades. Je pense qu’il y aura aussi le Repas du Seigneur. [Frère Branham parle à frère Neville — N.d.R.]. Y aura-t-il des baptêmes?… le Repas du Seigneur — seulement le Repas du Seigneur. Nous aimerions que vous puissiez rester pour prendre le Repas avec nous. Nous aurons fini dans trente-cinq à quarante minutes, et alors nous serons prêts à prendre le Repas du Seigneur.
+
+Et comme demain est la Journée des travailleurs, vous vous reposer! Je vous ai dit quelles étaient nos intentions. Je voudrais être sûr que vous sachiez ces choses.
+
+Ce matin, nous avons eu un message de deux ou trois heures. J’avais pensé l’interrompre pour continuer ce soir, mais il était trop extraordinaire pour que je l’interrompe. Je ne sais pas si les gens l’ont compris. Je l’espère. J’espère qu’il a été enregistré, afin que les gens sachent que ce message était un message particulier, ne faisant pas partie de mon ministère ordinaire, mais qu’il était un message semblable aux Sept Sceaux, etc. — une Parole venant directement de Dieu. Je crois que celui-là était nécessaire pour faire suite aux Sept Sceaux.
+
+Voyez ce qui se passe après la révélation des Sept Sceaux: les gens se rassemblent, les signes se manifestent, la lumière rouge s’allume pour nous avertir que nous sommes dans les derniers jours; il y a le signe des femmes qui deviennent de plus en plus belles; le signe de ce que l’homme est capable d’accomplir; tous ces signes montrent l’autorité du Saint-Esprit. Et voici ce message qui vient couronner tous les autres, depuis les Sept Sceaux. Le Signe est la preuve finale que nous sommes en ordre. Est-ce que vous comprenez cela? Examinez-vous, et voyez si vous êtes dans la foi.
+
+Que le Seigneur vous bénisse! Avant de lire la Bible… prier pour les malades… Je voudrais vous demander ceci: Pour qui avons-nous prié, dimanche soir passé? Tous ceux qui ont été guéris dans le courant de cette semaine… presque tout le monde lève la main! Cela s’est passé à la réunion de dimanche soir. C’est quelque chose… vous comprenez… c’est quelque chose que j’aimerais savoir pour moi.
+
+Une dame, une certaine Mme Peckenpaugh, est venue de Chicago avec un petit garçon. C’était une grande chrétienne. Je crois que ce petit garçon avait été abandonné par les médecins, qui n’arrivaient même pas à déterminer sa maladie. Ses poumons étaient en si mauvais état qu’il ne pouvait plus aller à l’école ou faire quoi que ce soit. Il était au plus mal. Juste après le message, le Saint-Esprit parla à cet enfant, l’appela par son nom, lui dit l’état dans lequel il se trouvait, et proclama sa guérison. Et cette semaine, on le conduisit chez le médecin, qui dit que cet enfant avait deux poumons tout neufs! Je crois que les parents nous ont téléphoné afin de le faire savoir à l’assemblée.
+
+Dieu, le Créateur, peut créer une nouvelle paire de poumons! Je crois sincèrement que nous sommes sur le point de vivre les choses les plus extraordinaires qui se soient jamais produites sur la terre depuis…?… Mais nous ne pourrons le reconnaître que par… ce sera quelque chose de si humble! Ce que l’homme appelle sagesse, Dieu dit que c’est une abomination. Mais ce que l’homme appelle folie, cela, Dieu l’appelle sagesse. Cela se fera d’une manière si peu éclatante, que vous manquerez tout, si vous n’avez pas le Signe pour vous permettre de le voir.
+
+Qui aurait pensé que les montagnes sauteraient de joie comme des béliers, et que les feuilles battraient des mains quand un prophète sortit du désert, selon ce qu’avait dit Ésaïe 712 ans auparavant de cet homme barbu, vêtu d’une peau de mouton, n’ayant même pas une chaire où prêcher, excommunié de toutes les églises, se tenant sur les rives du Jourdain et criant: “Repentez-vous!”. Il traitait les gens de race de vipères. Mais Dieu dit que lorsqu’Il viendrait, les montagnes sauteraient comme des béliers. Comprenez-vous cela? Les humbles virent ces choses et en furent heureux.
+
+Comment pouvaient-ils comprendre que ce glorieux Messie qui avait été annoncé par des prophéties dès le début du Livre dans la Genèse elle-même, que ce Sauveur… Tout, les sacrifices, les prophètes, tout avait annoncé Sa venue. Et il vint comme un enfant illégitime! Ses parents n’étaient pas encore mariés. Et la femme devint enceinte, portant cet Enfant avant même d’être mariée! En plus de cela, il est dit dans la Bible qu’Il naquit dans une étable. Mais en ce temps-là, une étable n’était qu’une excavation dans un rocher. J’ai vu ce genre d’étable lorsque j’allais chasser en Arizona. Elle était au pied d’une paroi de rochers. C’est ainsi que Jésus naquit, dans une petite étable, dans une crèche où il y avait du foin ou de la paille, une étable où il y avait du bétail.
+
+Il apprit ensuite le métier de charpentier. Comment cela aurait-il pu être le puissant Jéhovah? Pourtant, c’était Lui. C’était Quelqu’un de singulier. Tout enfant déjà, Il étonnait les sacrificateurs par Sa connaissance de la Parole, et pourquoi cela? — parce qu’Il était la Parole! Vous comprenez? Il était la Parole! Il n’a jamais écrit de Livre. Je pense que les seuls mots qu’Il ait jamais écrits furent ceux qu’Il écrivit lors de l’épisode de la femme adultère, et qu’Il effaça aussitôt après. Il n’a jamais écrit un seul mot. Pourquoi? — parce qu’Il était la Parole! Il était la Parole. Il n’avait pas besoin de L’écrire; Il La vécut. Il était la Parole. “Si Je ne fais pas les oeuvres de mon Père, alors, ne me croyez pas!”. Vous comprenez? “Si Je ne fais pas exactement ce que la Parole a dit que Je ferais, alors Je ne suis pas la Parole”. Mais si… c’est cela qu’Il voulait dire — Il est la Parole.
+
+Veuillez vous préparer maintenant pour le service de guérison et le Repas du Seigneur. Nous serions heureux de vous accueillir parmi nous, si vous pouviez rester. Si vous ne le pouvez pas, nous vous laisserons partir avant.
+
+N’oubliez pas de prier pour moi et pour ma femme, qui est la meilleure femme au monde, et pour mes enfants. Je les revendique tous, chacun d’eux, pour le Seigneur Jésus.
+
+Becky est maintenant juste à l’âge de ces petites “Ricketta”, c’est ce que nous appelons une “teenager”. C’est une très gentille fille, et je remercie le Seigneur pour cela. Elle ne fume pas, ne boit pas, et ne sort pas n’importe où. Mais elle est à cet âge où… Elle est à l’âge de l’insouciance. Elle n’aime pas venir à l’église, et si elle le fait, elle se tient au fond et mâche du chewing-gum; elle reste là un moment, puis se lève et sort. Vous comprenez? J’aimerais la voir remplie du Saint-Esprit.
+
+J’aimerais que Joseph… lorsque je ne pourrai plus monter en chaire, j’aimerais prendre cette vieille Bible usée, et La lui remettre en disant: «Joseph, mon fils, garde-la et écoute-la!». Alors, je serai prêt à m’en aller. J’aimerais entendre un vent souffler quelque part, regarder en haut, faire un signe de la main et m’élever vers le Ciel.
+
+Prions. O Dieu notre Père, notre vie tout entière est contenue dans cette Parole, car Tu es la Parole, et cette Parole est pour nous la Vie. Mais, Seigneur, il y en a plusieurs ici qui ont ce Signe et qui sont malades malgré tout. Je désire parler ce soir afin de les encourager à prendre ces droits que Dieu leur a donnés. Ils ont le droit de vaincre le diable. Il est déjà vaincu, mais il essaie de leur faire croire le contraire. Je les réclame pour Toi, ô Père!
+
+Aide-moi à bien apporter la Parole. Tu parles au travers de moi, Seigneur, au moyen de ces quelques notes que j’ai prises et de ces quelques passages des Saintes Ecritures. Je prie que Tu m’aides, Seigneur, à leur faire recevoir la Parole, et que Tu leur donnes la foi pour rendre gloire à Dieu. Je Te le demande au Nom de Jésus. Amen.
+
+J’aimerais lire dans la Parole le livre de Jérémie, chapitre 29. Que vous le lisiez ou non avec moi, notez-le. Jérémie 29, nous commencerons au verset 10. Nous lirons ensuite Luc 16 depuis le verset 14.
+
+Pendant que vous cherchez, je vous donne le titre de cette prédication. C’est: Poussés à bout. Vous savez ce que cela signifie? Lisons maintenant Jérémie 29.10-14.
+
+> “Car voici ce que dit l’ETERNEL: dès que soixante et dix ans seront écoulés pour Babylone, je me souviendrai de vous, et j’accomplirai à votre égard ma bonne parole, en vous ramenant dans ce lieu.
+> Car je connais les projets que j’ai formés sur vous,… (n’est-ce pas merveilleux?) … dit l’ETERNEL, projets de paix et non de malheur, afin de vous donner un avenir et de l’espérance.
+> Vous m’invoquerez, et vous partirez; vous me prierez, et je vous exaucerai. Vous me chercherez, et vous me trouverez, si vous me cherchez de tout votre coeur.
+> Je me laisserai trouver par vous, dit l’ETERNEL, et je ramènerai vos captifs; je vous rassemblerai de toutes les nations et de tous lieux où je vous ai chassés, dit l’ETERNEL, et je vous ramènerai dans le lieu d’où je vous ai fait aller en captivité”. (Le retour à la Pentecôte! — cela, je le dis de moi-même. Ce n’est pas écrit dans ce passage. Mais c’est ce que je voulais dire à l’Eglise.)
+
+Maintenant, lisons Luc 16.16.
+
+> “La loi et les prophètes ont subsisté jusqu’à Jean; depuis lors, le royaume de Dieu est annoncé, et chacun use de violence pour y entrer”. (N’entre pas simplement, mais use de violence. Il faut user de violence.)
+
+“Si vous Me cherchez de tout votre coeur, vous Me trouverez”. Et Il promit qu’à la fin des soixante-dix ans, Il reviendrait pour ramener à Jérusalem Son peuple dispersé sur toute la terre. C’est ce qu’Il a fait. C’est vrai!
+
+Maintenant, nous allons parler un moment sur ce sujet: Poussés à bout. En général, il faut que des circonstances critiques se présentent pour que nous soyons poussés à bout. Vous comprenez? Il est malheureux qu’il en soit ainsi, mais l’homme est tellement négligent, son esprit est si paresseux qu’il a réellement besoin d’être poussé à bout. Une situation surgit qui vous pousse à cette extrémité. Et c’est alors que vous montrez réellement ce que vous avez en vous. C’est dans une situation extrême que vous montrez de quoi vous êtes faits. En général, c’est ce qui fait apparaître ce qu’il y a de bon en vous.
+
+J’ai vu des gens sur leur lit de mort essayer de rassembler toutes leurs forces pour confesser des secrets qu’ils avaient gardés pendant leur vie entière et qu’ils voulaient révéler, sachant qu’ils allaient mourir. Ils disent: [Frère Branham imite la voix de quelqu’un à l’agonie — N.d.R.]: «Prenez ceci… mettez cela en ordre. Allez!… Je vous en supplie!… Allez!… faites-le!…». Ils sont à bout. Ils auraient dû mettre ces choses en ordre auparavant, ne pas attendre la dernière minute. — «Voulez-vous faire ceci et cela pour moi?». L’extrémité à laquelle nous sommes réduits nous pousse à bout, et nous force à faire ce que nous aurions dû faire au moment opportun, en dehors de toute urgence.
+
+Remarquez que ce soir, nous utilisons le symbole de la Pâque. La Pâque fut prise en des temps extrêmes où les Israélites avaient été poussés à bout.
+
+Remarquez ce qui est dit dans Exode 12.11. “Quand vous le mangerez, vous aurez vos reins ceints, vos souliers aux pieds, et votre bâton à la main…”. — Vous mangez à la hâte, car c’est un instant critique!
+
+Ils avaient vu la glorieuse Main de Dieu. Ils avaient vu tous les miracles qu’Il avait accomplis, et ils étaient venus se placer sous le signe. Et pendant qu’ils étaient sous le signe, ils avaient pris le Repas à la hâte, car ils savaient qu’à cette heure, Dieu allait frapper l’Egypte par Son jugement.
+
+Ce fut une heure où l’on trembla, où chaque homme s’examina, parce que la Parole du prophète n’avait jamais manqué de s’accomplir. Ils avaient eu la preuve qu’Elle était la vérité. Tout ce qu’il disait arrivait exactement comme il l’avait dit. La Colonne de Feu était toujours là. Le prophète leur avait dit que Dieu ne passerait par-dessus eux que s’Il voyait le signe sur la porte. L’heure était critique!
+
+Je peux m’imaginer la réaction des enfants, lorsqu’ils virent descendre du ciel ces grandes ailes noires qui s’étendirent sur la ville comme une fumée; les cris dans chaque maison, les enfants qui disaient: “Papa, es-tu bien sûr que nous sommes sous le signe?”.
+
+Alors, le père les conduisait vers la porte et leur disait, montrant les poteaux et le linteau: “J’ai fait cela conformément à Sa Parole!”.
+
+— “Papa, n’oublie pas que je suis ton fils aîné! Papa, es-tu sûr de ce que tu dis?”.
+
+— “J’en suis sûr! C’est ce que nous a dit le prophète, et il a la Parole de Dieu. Il a dit: ‘Quand Je verrai le sang, Je passerai par-dessus vous… Prenez un agneau pour chaque maison’. Vous tous, mes enfants, je vous ai fait entrer. Toi, tu es mon aîné, mon premier-né, et ce sont les premiers-nés qui mourront là-bas. — Mais il y a le sang. C’est cela, le AINSI DIT LE SEIGNEUR! C’est pourquoi, sois en paix, mon fils, car Dieu a fait la promesse”. — Vous comprenez?
+
+— “Papa, pourquoi as-tu mis tes souliers? Pourquoi tiens-tu ton bâton à la main? Pourquoi tiens-tu un morceau de pain dans une main, et d’agneau dans l’autre? Pourquoi y a-t-il ces herbes amères et tout le reste? Pourquoi manges-tu cela? Pourquoi la sueur couvre-t-elle ton front?”.
+
+— “Mon fils, la mort va frapper!”. Vous voyez, l’heure était critique, il n’y avait plus à hésiter!
+
+Je crois que nous vivons des jours où… les jours que nous vivons devraient mettre l’Eglise en état d’urgence. Le message de ce matin, message venu de Dieu et non pas de moi, devrait pousser à bout toute l’assemblée, parce que nous nous sommes attardés assez longtemps! Il y a assez longtemps que nous nous contentons d’aller à l’église! Il faut faire quelque chose!
+
+Nous pouvons voir des grands signes et des miracles chez les autres, mais qu’en est-il de nous? Cela devrait nous acculer de telle manière que nous nous déterminions, devant Dieu, à… Les signes de Sa venue devraient amener l’assemblée tout entière, après avoir lu ces choses dans la Parole… Le Saint-Esprit nous a dit: «Allez à tel et tel endroit, où telle et telle chose va arriver». Il ne nous dit pas ce qui va arriver, mais que cela va arriver. Nous y allons, et cela arrive. Les journaux le publient, et nous pouvons voir les photos. Nous revenons ici, et nous voyons se dévoiler ces glorieux mystères cachés de la Bible qui nous ouvrent de nouveaux horizons que nous ne soupçonnions pas auparavant, et tout cela est en parfait accord avec les signes de la prochaine venue du Seigneur Jésus.
+
+Ensuite, à la fin des messages, nous avons pu voir l’action glorieuse du Saint-Esprit. Nous L’avons vu Se rendre visible à plusieurs. On a même pu en prendre des photographies. On peut Le voir à l’oeuvre, démontrant qu’il ne s’agit pas d’un homme, d’un prédicateur, qu’il ne s’agit pas non plus d’une certaine assemblée, mais que cela, c’est la manifestation du Saint-Esprit qui nous montre les mêmes choses que ce qu’Il montra, lorsqu’Il entra dans le Corps de Jésus-Christ. Maintenant, Il entre dans le Corps de Son Epouse. Cela devrait nous précipiter dans cet état d’urgence.
+
+Ces gens avaient pu voir la main de Dieu. Et le soir où ils prirent le Repas, ils le prirent à la hâte, parce qu’ils savaient que quelque chose allait se passer. Et rappelez-vous ceci, c’est que, lors de la venue du Seigneur, le départ sera soudain, et se fera en secret. Il viendra et prendra Son Epouse comme un voleur qui vient pendant la nuit. Quand nous pensons… Tout à coup, des membres de votre famille disparaîtront, et vous, vous resterez en arrière. Cela devrait nous faire nous précipiter à prendre la Grâce de Dieu, de manière à ne pas rester en arrière. Et s’il y a bien quelque chose qui… Seigneur, ne me laisse pas en arrière!
+
+L’autre jour, j’ai entendu Mel Johnson chanter ce chant:
+
+Souviens-Toi de moi quand mes larmes coulent.
+Souviens-Toi de moi quand je suis solitaire.
+Quand je traverserai le Jourdain,
+Quand Tu appelleras les Tiens, souviens-Toi de moi.
+
+Je désire que mon nom soit inscrit dans le Livre de Vie. Je désire qu’Il se souvienne de moi quand Il appellera Son peuple. Et cela me donne envie de me hâter, de me précipiter, comme Paul qui disait: “…de peur d’être moi-même rejeté, après avoir prêché aux autres”. Cela pourrait arriver! C’est cela qui me rend conscient de l’urgence de la situation: de penser qu’après toutes ces années passées à prêcher l’Evangile, je pourrais en arriver à manquer Sa venue. Que dois-je faire? Quelle est l’étape suivante? Me demander sans cesse ce que je dois faire me rend anxieux! Cela me fait passer sans cesse par des hauts et des bas. C’est difficile, parce que, lorsque je suis avec les gens, il faut que je me consacre à eux, afin de pouvoir en gagner quelques-uns à Christ, tout en gardant toujours ce Signe devant les yeux. Vous comprenez?
+
+Et je vois que des choses vont arriver, et je ne peux pas en parler aux gens. Je vois toutes sortes de choses dont il m’est interdit de parler. Ces visions qu’ils demandent!… Ils seraient quelquefois bien malheureux, si je les leur racontais. Il vaut mieux ne rien dire. Peu à peu, les choses vont si loin que tout devient visions, et cela éprouve vos nerfs. Vous finissez par vous demander: «Est-ce que je suis en train d’avoir une vision?». Comme si j’étais ici en chaire, me demandant: «Suis-je en train d’avoir une vision? ou alors, où suis-je en réalité?». Vous vous surmenez, vous dépassez les limites de votre résistance. Vous découvrez, concernant les gens, des choses que vous préféreriez ne pas connaître. Ceux qui veulent avoir des visions, qui veulent connaître ces choses, ne savent pas ce que ce genre de ministère leur coûtera! Vous ne savez pas ce qui accompagne un tel ministère. Cela vous pousse à bout, vous jette dans cet état d’urgence: «Seigneur Dieu, je sais que j’aurai à répondre…».
+
+Jack Moore me dit un jour: «Je n’aimerais pas devoir répondre à votre place au jour du jugement! Dieu a mis toutes ces âmes entre vos mains, et vous devrez rendre compte pour chacune d’elles. Vous devrez répondre au sujet de votre ministère». Il m’a dit cela il y a quinze ou dix-huit ans. Depuis ce temps-là, je ressens cette urgence! Que vais-je faire? Seigneur, que je puisse ne rien annoncer d’autre que Ta Parole! Que je puisse leur dire la vérité, ou alors que je me taise! C’est cela qui me donne ce sentiment d’urgence!
+
+Ensuite, nous voyons apparaître tous ces signes: le Saint-Esprit qui m’enlève pour me révéler ces Sceaux et vous les apporter, pour me révéler les Ages de l’Eglise, et vous les apporter… ensuite vient cette grande Colonne de Feu où Il Se révèle Lui-même. — Il y eut ces sept Sceaux révélés, ces signes qui furent même décrits dans les journaux; il y eut aussi les Anges de Dieu, ces sept Anges avec leurs sept messages qui confirment exactement ce que dit la Bible. Pendant ce temps, il y a ces Sceaux, ces signes de la fin des temps, toutes ces choses apportées et révélées aux gens, le Seigneur manifestant ainsi Sa présence; ensuite, ce matin même, il y eut cette prédication où nous avons vu la nécessité de la présence du Signe sur chaque personne. Vous êtes les miens, ma famille. Vous êtes ceux que j’aime, vous tous qui êtes ici, et tous ceux qui écoutent les bandes. Vous pouvez ainsi comprendre un peu mon angoisse!
+
+Poussés à bout… Les signes de Sa venue devraient jeter chaque membre de Christ dans cet état maintenant, et nous devrions nous préoccuper en toute hâte de notre âme, de notre bien-être dans l’Au-delà. A quoi cela nous servira-t-il de gagner le monde entier? Quel est le but de notre vie? Pourquoi travaillons-nous? Pourquoi mangeons-nous? Pourquoi combattons-nous? — Pour vivre! Et quelle est la raison de votre vie? — de mourir! Vous ne pouvez pas vivre aussi longtemps que vous n’êtes pas prêts à mourir à vous-mêmes. C’est vrai!
+
+Lorsque nous voyons toutes ces guérisons miraculeuses, cela devrait nous faire comprendre pleinement l’urgence de la situation!
+
+Si ce petit garçon… cette dame est-elle Mme Peckenpaugh? Etes-vous la dame qui avait amené ici ce petit garçon? Oui, voilà la dame dont je vous avais parlé tout-à-l’heure. Je viens de la voir.
+
+Si Dieu peut faire cela pour ce petit garçon, alors, vous devriez ressentir cette urgence! Il y a peut-être ici cet homme de New Albany, un ami de frère Roberson. Il avait un petit garçon. Sa femme avait été guérie d’un cancer. Ce petit garçon lui-même souffrait d’un asthme tellement fort qu’il était au plus mal. C’est comme s’il avait eu un cancer dans le cou. Aussi son père l’amena-t-il un matin (je le vois qui lève la main! il est au fond de la salle), afin que l’on priât pour lui. Vous voyez? — une situation désespérée, un état d’urgence!
+
+Lorsque sa femme fut sur le point de mourir du cancer, il sut que Dieu pouvait la guérir. Si Dieu avait pu guérir sa femme, alors Il pouvait aussi guérir son enfant: Ainsi, Il fut poussé dans ses derniers retranchements. Vous comprenez? Vous devez aller jusqu’au point où vous êtes poussé a bout, où vous êtes mis dans cet état d’urgence, de détresse, et c’est alors que Dieu peut vous écouter. Mais si vous êtes négligent, si cela vous est égal qu’Il agisse ou non, alors, c’est différent! Vous dites que vous croyez, mais il faut cette situation désespérée pour agir.
+
+Je crois que la raison pour laquelle nous n’avons pas ce sentiment est parce que nous manquons d’amour, d’amour pour Dieu. Je crois que l’amour pour Dieu crée cette urgence en nous. Si Dieu est en vous, si le Signe est en vous et que vous comprenez dans quel temps nous vivons, et que vous voyez le monde vautré dans le péché, cela vous donnera ce sentiment d’urgence. C’est certain!
+
+Or, la Parole dit clairement (si vous voulez le noter) dans Galates 5.6, que la foi est agissante par l’amour. La seule façon pour vous d’avoir la foi, c’est d’avoir l’amour. Parce qu’en définitive, la foi est la manifestation de l’amour. C’est exactement cela. La foi se manifeste par l’amour. Vous ne pouvez avoir la foi si vous n’avez pas l’amour.
+
+Comment pouvez-vous avoir confiance en votre femme, si vous ne l’aimez pas? Et cela, c’est l’amour Phileo. Alors, qu’en est-il de l’amour Agapao pour Dieu? Que pouvez-vous faire si vous n’aimez pas Dieu? Si vous aimez votre femme, mais que vous ne le lui dites jamais, si vous ne lui faites jamais la cour, si vous ne l’embrassez jamais, ne la serrez jamais dans vos bras, si vous ne lui dites jamais qu’elle est la meilleure cuisinière de tout le pays, et tout le reste, qu’elle est la plus belle, et combien vous l’aimez… Si vous ne le lui dites pas, elle ne le saura jamais. Si vous l’aimez, vous devez exprimer ce sentiment.
+
+C’est ainsi que nous agissons avec Dieu. Lorsque nous L’aimons, nous le Lui disons. Nous L’adorons, nous Lui rendons un culte… c’est l’amour qui nous entraîne à faire cela.
+
+Maintenant, que se passe-t-il si votre femme a besoin que vous fassiez absolument quelque chose pour elle? Vous n’avez de cesse que cela soit fait. Que va-t-il se passer si l’on vous dit que votre femme a le cancer ou la tuberculose, et qu’elle va mourir? Vous ferez n’importe quoi. Cela vous poussera à bout.
+
+C’est la même chose! Nous devons avoir l’amour, avant de pouvoir avoir la foi, et la foi… Que se passe-t-il, lorsque nous avons vraiment l’amour? Cela entraîne notre foi au plus fort de la mêlée sur le champ de bataille de Dieu. Le véritable amour divin pour Dieu, pour Sa Parole et pour Son peuple entraîne la foi jusque là. L’amour s’empare de la foi et… «allons-y!». Il se met en campagne, car c’est cela qu’accomplit l’amour.
+
+Jésus dit dans Jean 14.23: “Si quelqu’un m’aime, il gardera ma Parole”. Mais vous ne pouvez pas garder Sa Parole, si vous n’avez pas foi en ce qu’Il dit! Ainsi donc, vous voyez que celui qui aime Dieu garde la Parole de Dieu. Si Dieu dit: “Je suis l’Eternel qui te guéris”, il le croit. L’amour fait qu’il le croit, parce que l’amour domine tout. “Quand je parlerais les langues des hommes et des anges, si je n’ai pas l’amour, je ne suis rien”. Vous voyez? “Quand j’aurais toute la foi jusqu’à transporter les montagnes, si je n’ai pas l’amour, je ne suis rien”. L’amour dirige tout, parce que Dieu est amour. Dieu est un Dieu d’amour. Oui! Jésus a dit: “Si quelqu’un m’aime, il gardera ma Parole”…
+
+Nous savons qu’il est vrai que Dieu se laissera trouver par l’âme en détresse. Nous le savons tous. Mais il faut en général quelque chose de spécial pour nous pousser dans cette détresse, dans cette urgence.
+
+Nous voyons dans Jacques 5.16 que la Bible dit que la prière fervente (c’est-à-dire faite dans un état, dans un sentiment d’urgence) du juste a une grande efficace. Lorsqu’un juste, un homme de bien, met son âme en activité fervente, lorsqu’elle s’anime d’une ardeur fiévreuse, lorsque c’est la prière fervente d’un homme qui peut manifester le Signe, alors quelque chose se passe. Vous comprenez?
+
+Remarquez ce qui est encore dit dans Jacques 5.16: “Confessez donc vos péchés les uns aux autres…”. Ne pas avoir de péchés… Demandez aux frères de prier pour vous, confessez vos fautes les uns aux autres, et priant les uns pour les autres… Avec assez d’amour pour avoir confiance, je peux vous confesser mes fautes. Vous pouvez, vous, me confesser vos fautes, et je vous aime assez pour prier pour vous; et vous, priez pour moi. Et nous resterons ainsi dans une prière fervente et efficace, jusqu’à ce qu’il y soit répondu. C’est cela, être poussés à bout. Nous devrions être toujours comme cela.
+
+Prenons pour cela quelques exemples dans l’Ecriture, et nous examinerons ces choses pendant environ un quart d’heure, si le Seigneur le permet.
+
+Jacob était un homme sans beaucoup de scrupules. Le droit d’aînesse avait une grande importance pour lui, aussi chercha-t-il à se l’approprier par n’importe quel moyen. Après qu’il s’en fût emparé, il pensa que tout était résolu puisqu’il l’avait obtenu. Il pensait que l’affaire était réglée. Esaü vint vers son frère. La journée avait été longue. Il avait travaillé dans les champs et chassé toute la journée. Il était affamé et avait grand besoin d’une bonne assiette de potage aux lentilles. Cela dut être bien tentant pour lui de voir ce pot de lentilles, lui qui avait couru toute la journée. Il dit à Jacob: «Je vais m’évanouir. Donne-moi un peu de ce potage!».
+
+Jacob lui répondit: «Si tu me jures de me céder ton droit d’aînesse!». Peu lui importait comment il pouvait l’obtenir! Ce qui comptait pour lui, c’était de le posséder! Quand il s’en fut emparé, il pensa que l’affaire était terminée, et que tout était en ordre.
+
+Pentecôtistes, c’est là que vous avez failli! Vous pensiez que, parce que vous étiez nés de l’Esprit, nés de l’esprit de Dieu, que vous auriez acquis le droit d’aînesse et que cela suffirait. Mais ce n’est que le point de départ! Vous vous souvenez de ce message: “Ecoutez-Le!”. J’avais dit que l’enfant, après qu’il fût né dans la famille, devenait un fils. Il avait les droits découlant de son droit d’aînesse, mais il devait être éprouvé et instruit. Ensuite, s’il arrivait qu’il ne fût pas un fils obéissant, et soumis à la volonté de son père, alors il perdait son héritage. Il avait beau être un fils, il n’héritait pas. Il n’héritait rien, s’il ne s’occupait pas des affaires de son père.
 
 POUSSES A BOUT 11
    Lorsque le Saint-Esprit descendit sur les Pentecôtistes et qu’Il commença à restaurer les dons
@@ -682,7 +401,7 @@ cela se passe), parlant de ce qui se passait à la ferme… Anne, elle, ne faisa
 la foule, et vint droit à l’autel. Elle avait jeûné. Elle désirait que son opprobre lui fût ôté. Quelle
 différence, aujourd’hui! C’est presque un opprobre que d’avoir un enfant. En ce temps-là, c’était le
 fait de ne pas avoir d’enfants qui était un opprobre. Elle se mit à genoux, sans remarquer le moins
-du monde la beauté de l’architecture du temple. Elle ne remarqua pas plus l’allure majestueuse du
+ du monde la beauté de l’architecture du temple. Elle ne remarqua pas plus l’allure majestueuse du
 sacrificateur alors qu’il sortait. Elle était dans la détresse, et les larmes inondaient son visage; elle
 cria à Dieu, disant: “O Dieu, donne-moi un fils! donne-moi un fils!”.
    Remarquez encore qu’elle n’était pas égoïste. Quand Dieu entendit sa prière et l’exauça, lui
@@ -714,7 +433,7 @@ l’entendit prophétiser, et ce qu’il avait prophétisé arrivait. Il était 
 POUSSES A BOUT 14
 Elle dit à son mari: “Je sens que cet homme qui habite ici avec nous est un saint”. Elle, la
 maîtresse de maison, savait qu’il était un saint. Elle lui fit bâtir une petite chambre haute à
-l’extérieur, afin qu’il se sentît chez lui. Il pourrait ainsi entrer et sortir quand il le voudrait. Elle
+extérieur, afin qu’il se sentît chez lui. Il pourrait ainsi entrer et sortir quand il le voudrait. Elle
 meubla cette chambre, y mit un lit et de l’eau, afin qu’il pût se laver et boire, etc. Elle envoyait
 probablement aussi un serviteur pour lui donner de la nourriture, et venait elle-même lui rendre
 visite de temps en temps.
@@ -1309,7 +1028,7 @@ Blair?
  Maintenant, soeur, si vous voulez jouer à l’orgue le cantique: Une source pleine de Sang. Bien.
 Veuillez rester silencieux un moment.
  [Frère Branham parle avec une soeur — N.d.R.]
- Bien! Frère Neville va lire maintenant un texte concernant le Repas du Seigneur. Ensuite, les
+ Bien! Frère Neville va maintenant lire un texte concernant le Repas du Seigneur. Ensuite, les
 diacres entreront et (je dis ceci à l’intention de ceux qui ne connaîtraient pas notre manière de
 procéder) conduiront successivement chaque rangée de chaque colonne à la table de communion.
  Restons maintenant dans le recueillement. Rappelez-vous qu’Israël mangea la Pâque à la hâte,
@@ -1363,8 +1082,6 @@ reçoivent ce soir la force nécessaire pour continuer le voyage. Accorde-le nou
 puissent recevoir la force et la santé, et être remplis de Ton Esprit jusqu’au jour de la venue de
 Jésus. Amen!
     [L’assemblée s’approche de l’autel pour prendre le Repas du Seigneur — N.d.R.]
-
-
 
 
 

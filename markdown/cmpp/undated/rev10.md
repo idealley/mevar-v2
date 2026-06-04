@@ -1,296 +1,122 @@
+---
+source: "cmpp"
+sermon_id: "rev10"
+title: "La Révélation de Jésus-Christ — Église de Laodicée"
+date: "1960-12-11"
+year: 1960
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Branham"
+summary: "William Branham conclut la série sur les sept âges de l'Église en abordant l'âge de Laodicée. Il partage des témoignages de dons spirituels, met en garde contre l'orgueil, et prédit la fin de cet âge vers 1977, avec l'enlèvement imminent. Il insiste sur l'importance de l'amour et de l'humilité."
+tags:
+  - "âge de Laodicée"
+  - "dons spirituels"
+  - "prophétie"
+  - "enlèvement"
+  - "amour"
+persons:
+  - "William Branham"
+  - "Fred Sothmann"
+  - "Rosella"
+  - "Junie Jackson"
+  - "frère Higginbotham"
+  - "frère Neville"
+  - "Patty Creech"
+  - "Russel Creech"
+  - "Roosevelt"
+  - "Mussolini"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Canada"
+  - "Géorgie"
+  - "Afrique"
+  - "Pologne"
+  - "Allemagne"
+  - "Russie"
+  - "Éthiopie"
+themes:
+  - "dons spirituels"
+  - "humilité"
+  - "amour fraternel"
+  - "prophétie des temps"
+  - "apostasie"
+  - "enlèvement"
+  - "unité de l'Église"
+pdf_url: "http://cmpp.ch/rev10.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 3"
+  - "Jacques 5"
+  - "Jean 19"
+  - "Jean 95"
+  - "Luc 1"
+  - "Malachie 4"
+  - "Matthieu 17"
+  - "Matthieu 2"
+  - "Osée 11"
+---
 WILLIAM MARRION BRANHAM
 
+La Révélation de Jésus-Christ
 
-La Révélation
-de
-Jésus-Christ
+10 Age de Laodicée
 
-
-
-
-10    Age de Laodicée
-
-    LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE    2
-
- LA REVELATION DE JESUS-CHRIST
-
-       EGLISE DE LAODICEE
+LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE
 
 11 décembre 1960, dimanche soir
-       Branham Tabernacle
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
-
-
-
-1 Il n’a jamais terminé cela. Je me disais: «Je suis né un peu en retard, je suis arrivé un peu en
-retard à mon mariage; si je pouvais seulement être en retard à mon enterrement!». C’est là où
-j’aimerais bien être en retard, très en retard!
-2 Il y a eu des appels téléphoniques chez moi, et je n’ai pas pu partir. Ma femme et les autres
-venaient de partir, mais j’avais encore tant de choses à faire. Et il y avait ces gens venant de
-différents endroits pour prier; ils entrent juste maintenant; la révélation du Seigneur est venue pour
-un frère; il y a une soeur, là-bas au fond, qui était malade. Vous comprenez, il faut toujours aller,
-aller, aller, aller… Et je n’ai même pas eu le temps d’aller serrer la main de quelques-uns de mes
-amis venus de Géorgie et d’ailleurs, venus même du Canada! Cela me met très mal à l’aise de ne
-pas avoir pu vous serrer la main.
-3 A propos, où est Fred Sothmann? Fred, vous souvenez-vous de cette fois où vous m’avez
-téléphoné du Canada que vous alliez venir, et où je vous ai dit de ne pas venir, et où je vous ai dit
-de ne pas venir en voiture? Vous êtes quand même venu, et vous avez eu un accident qui a
-presque complètement démoli votre voiture, presque tué votre femme et votre famille; vous avez
-eu le nez cassé, et vous vous êtes tous retrouvés à l’hôpital!
-4 Vers midi, alors que je m’apprêtais à partir, frère Ben se tenait dehors et vint vers moi. Et
-Rosella vint, elle aussi, et me dit: «Je rentre à la maison».
-     Je lui dis: «Rosella!».
-     — «Qu’y a-t-il, frère Branham?».
-     — «Je me sens tout drôle maintenant que vous m’avez dit cela!».
-     Elle me demanda: «Est-ce que quelque chose va arriver?».
-     — «Je ne sais pas. Il me semble que quelque chose m’a mis en garde».
-5 Et voilà qu’elle vient de me téléphoner il y a quelques instants: elle a eu un accident.
-Personne n’a été blessé, c’est la main du Seigneur. A Indianapolis, elle a dérapé (tout est verglacé
-dans le nord), et la voiture a traversé la route à toute vitesse. Alors, elle a crié: «O Seigneur,
-aide-moi!». La voiture a de nouveau fait un tête-à-queue comme cela. Elle est revenue, et est
-repartie sur la bonne voie. Elle se dit: «Oh, comme je suis reconnaissante de m’en être tirée, parce
-que d’autres voitures arrivaient juste sur la même voie, à toute vitesse!». Un peu plus loin, elle
-s’arrêta pour prendre une tasse de café ou quelque chose de chaud. Et juste avant qu’elle sorte de
-sa voiture, une autre voiture la heurta en plein à l’arrière, puis une autre derrière celle qui l’avait
-heurtée, et encore une autre: c’était une collision en chaîne. Elle me dit qu’elle fut un peu secouée,
-mais qu’elle n’a pas de mal. Elle voulait remercier le Seigneur et téléphoner pour dire à l’église de
-remercier le Seigneur qu’elle n’ait pas été blessée, et nous demander aussi de continuer à prier
-pour qu’elle puisse arriver à la maison. Elle est nouvelle conductrice, elle vient juste d’avoir son
-permis. C’est pourquoi je suis tellement reconnaissant pour elle.
-6 Il vaut toujours la peine de prendre au sérieux ces avertissements du Seigneur. Elle disait:
-«Mais je vais manquer une journée de travail!». Qu’est-ce qu’une journée de travail? La réparation
-de sa voiture va de toute manière lui coûter beaucoup plus cher! C’est pourquoi il vaut mieux
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 3
-rester avec le Seigneur, n’est-ce pas? S’Il nous dit quelque chose, il vaut mieux que nous nous y
-tenions, parce qu’Il a toujours raison, n’est-ce pas? Il a toujours raison!
-7 Oh, cette semaine a été tellement merveilleuse! Je ne sais vraiment pas comment exprimer
-mes sentiments à Dieu et à vous pour cette merveilleuse semaine! Ces huit jours ont été parmi les
-plus merveilleux de toute ma vie de prédicateur. C’est la vérité. J’ai tellement appris du Seigneur et
-de Sa tendre miséricorde! Quand je pense à tout ce qu’Il a fait pour nous et que je vois Son Esprit
-agissant de nouveau dans l’Eglise! Et je suis si heureux de voir les dons recommencer à opérer
-dans l’église!
-8 Une fois qu’on en est là, on dirait que quelqu’un veut réellement essayer d’entrer pour souiller
-cela et faire n’importe quoi. Et si vous déshonorez ces dons, Dieu vous déshonorera! Vous voyez?
-C’est vrai! Vous devez les employer correctement. Et ce que nous voulons, c’est simplement que
-cela soit fait correctement, comme pour ces parlers en langues. Il ne s’agit pas simplement de citer
-des passages de l’Ecriture, mais de dire quelque chose qui va arriver. Si nous avons vraiment le
-respect de ces choses… Si, dans l’église, quelqu’un se met à sortir du droit chemin, le Saint-Esprit
-le dira à haute voix, et dira qui c’est. Et il se sentira châtié et ira à l’autel. C’est à cela que servent
-ces dons.
-9 Quand je vois notre pasteur d’ici, frère Neville; c’était un homme timide et effacé. Et c’est moi
-qui vous le dis, on aurait dit qu’il ne serait jamais arrivé à prendre sa position lorsqu’il s’agit de
-l’expérience de Pentecôte. Mais quand je le vois se lever pour interpréter les langues et
-prophétiser, je peux vous dire qu’il est venu de loin! C’est vrai! Prions pour notre pasteur!
-10 Vous voyez, les dons commencent à venir dans l’église. Et je voudrais encore vous parler
-d’un autre frère humble qui doit être quelque part dans cette salle. Je pense qu’il est là; il est
-toujours là! C’est un petit homme très humble. Il fut l’un des administrateurs de notre église. C’est
-notre frère Higginbotham, un brave homme, un homme pieux. Il a reçu un don de parler en
-langues! Qui aurait jamais pensé que notre frère Higginbotham aurait fait cela? Un homme timide
-et effacé, qui ne voulait pas être reconnu, qui ne disait jamais rien et restait toujours en arrière.
-Mais vous voyez, Dieu peut prendre un homme comme cela et l’utiliser, parce que cet homme ne
-désire pas faire cela. S’il voulait le faire, il pourrait devenir orgueilleux. Mais tant que ce n’est pas
-sa volonté de faire cela, peut-être que Dieu peut l’utiliser ainsi.
+1 Il n’a jamais terminé cela. Je me disais: «Je suis né un peu en retard, je suis arrivé un peu en retard à mon mariage; si je pouvais seulement être en retard à mon enterrement!». C’est là où j’aimerais bien être en retard, très en retard!
+2 Il y a eu des appels téléphoniques chez moi, et je n’ai pas pu partir. Ma femme et les autres venaient de partir, mais j’avais encore tant de choses à faire. Et il y avait ces gens venant de différents endroits pour prier; ils entrent juste maintenant; la révélation du Seigneur est venue pour un frère; il y a une soeur, là-bas au fond, qui était malade. Vous comprenez, il faut toujours aller, aller, aller, aller… Et je n’ai même pas eu le temps d’aller serrer la main de quelques-uns de mes amis venus de Géorgie et d’ailleurs, venus même du Canada! Cela me met très mal à l’aise de ne pas avoir pu vous serrer la main.
+3 A propos, où est Fred Sothmann? Fred, vous souvenez-vous de cette fois où vous m’avez téléphoné du Canada que vous alliez venir, et où je vous ai dit de ne pas venir, et où je vous ai dit de ne pas venir en voiture? Vous êtes quand même venu, et vous avez eu un accident qui a presque complètement démoli votre voiture, presque tué votre femme et votre famille; vous avez eu le nez cassé, et vous vous êtes tous retrouvés à l’hôpital!
+4 Vers midi, alors que je m’apprêtais à partir, frère Ben se tenait dehors et vint vers moi. Et Rosella vint, elle aussi, et me dit: «Je rentre à la maison».
+    Je lui dis: «Rosella!».
+    — «Qu’y a-t-il, frère Branham?».
+    — «Je me sens tout drôle maintenant que vous m’avez dit cela!».
+    Elle me demanda: «Est-ce que quelque chose va arriver?».
+    — «Je ne sais pas. Il me semble que quelque chose m’a mis en garde».
+5 Et voilà qu’elle vient de me téléphoner il y a quelques instants: elle a eu un accident. Personne n’a été blessé, c’est la main du Seigneur. A Indianapolis, elle a dérapé (tout est verglacé dans le nord), et la voiture a traversé la route à toute vitesse. Alors, elle a crié: «O Seigneur, aide-moi!». La voiture a de nouveau fait un tête-à-queue comme cela. Elle est revenue, et est repartie sur la bonne voie. Elle se dit: «Oh, comme je suis reconnaissante de m’en être tirée, parce que d’autres voitures arrivaient juste sur la même voie, à toute vitesse!». Un peu plus loin, elle s’arrêta pour prendre une tasse de café ou quelque chose de chaud. Et juste avant qu’elle sorte de sa voiture, une autre voiture la heurta en plein à l’arrière, puis une autre derrière celle qui l’avait heurtée, et encore une autre: c’était une collision en chaîne. Elle me dit qu’elle fut un peu secouée, mais qu’elle n’a pas de mal. Elle voulait remercier le Seigneur et téléphoner pour dire à l’église de remercier le Seigneur qu’elle n’ait pas été blessée, et nous demander aussi de continuer à prier pour qu’elle puisse arriver à la maison. Elle est nouvelle conductrice, elle vient juste d’avoir son permis. C’est pourquoi je suis tellement reconnaissant pour elle.
+6 Il vaut toujours la peine de prendre au sérieux ces avertissements du Seigneur. Elle disait: «Mais je vais manquer une journée de travail!». Qu’est-ce qu’une journée de travail? La réparation de sa voiture va de toute manière lui coûter beaucoup plus cher! C’est pourquoi il vaut mieux rester avec le Seigneur, n’est-ce pas? S’Il nous dit quelque chose, il vaut mieux que nous nous y tenions, parce qu’Il a toujours raison, n’est-ce pas? Il a toujours raison!
+7 Oh, cette semaine a été tellement merveilleuse! Je ne sais vraiment pas comment exprimer mes sentiments à Dieu et à vous pour cette merveilleuse semaine! Ces huit jours ont été parmi les plus merveilleux de toute ma vie de prédicateur. C’est la vérité. J’ai tellement appris du Seigneur et de Sa tendre miséricorde! Quand je pense à tout ce qu’Il a fait pour nous et que je vois Son Esprit agissant de nouveau dans l’Eglise! Et je suis si heureux de voir les dons recommencer à opérer dans l’église!
+8 Une fois qu’on en est là, on dirait que quelqu’un veut réellement essayer d’entrer pour souiller cela et faire n’importe quoi. Et si vous déshonorez ces dons, Dieu vous déshonorera! Vous voyez? C’est vrai! Vous devez les employer correctement. Et ce que nous voulons, c’est simplement que cela soit fait correctement, comme pour ces parlers en langues. Il ne s’agit pas simplement de citer des passages de l’Ecriture, mais de dire quelque chose qui va arriver. Si nous avons vraiment le respect de ces choses… Si, dans l’église, quelqu’un se met à sortir du droit chemin, le Saint-Esprit le dira à haute voix, et dira qui c’est. Et il se sentira châtié et ira à l’autel. C’est à cela que servent ces dons.
+9 Quand je vois notre pasteur d’ici, frère Neville; c’était un homme timide et effacé. Et c’est moi qui vous le dis, on aurait dit qu’il ne serait jamais arrivé à prendre sa position lorsqu’il s’agit de l’expérience de Pentecôte. Mais quand je le vois se lever pour interpréter les langues et prophétiser, je peux vous dire qu’il est venu de loin! C’est vrai! Prions pour notre pasteur!
+10 Vous voyez, les dons commencent à venir dans l’église. Et je voudrais encore vous parler d’un autre frère humble qui doit être quelque part dans cette salle. Je pense qu’il est là; il est toujours là! C’est un petit homme très humble. Il fut l’un des administrateurs de notre église. C’est notre frère Higginbotham, un brave homme, un homme pieux. Il a reçu un don de parler en langues! Qui aurait jamais pensé que notre frère Higginbotham aurait fait cela? Un homme timide et effacé, qui ne voulait pas être reconnu, qui ne disait jamais rien et restait toujours en arrière. Mais vous voyez, Dieu peut prendre un homme comme cela et l’utiliser, parce que cet homme ne désire pas faire cela. S’il voulait le faire, il pourrait devenir orgueilleux. Mais tant que ce n’est pas sa volonté de faire cela, peut-être que Dieu peut l’utiliser ainsi.
 11 Je crois que Junie est ici, derrière le pilier, à côté de lui.
-12 Je voudrais dire ceci: J’ai entendu beaucoup de gens parler en langues. Je pense que tout
-cela vient de Dieu, parce que vous ne pouvez pas produire un seul son sans qu’il signifie quelque
-chose pour quelqu’un quelque part. Vous le savez, c’est la Bible qui le dit: “Il n’y a aucun son qui
-n’ait un sens”. C’est-à-dire qu’il n’y a aucun son qui ne veuille dire quelque chose. Vous ne pouvez
-émettre un son quelconque sans qu’il signifie quelque chose. Je me suis souvent demandé
-comment c’était possible. Mais depuis que je suis allé en Afrique, j’ai entendu toutes sortes de
-sons qui se sont révélés être la voix de quelqu’un qui parlait. Parfois, c’est une voix angélique, etc.
-13 Il y a aussi Junie Jackson, un petit prédicateur de campagne, timide, effacé, qui vient d’une
-église Méthodiste près d’Elizabeth, dans les forêts de l’Indiana; il se tient tranquille, ne dit rien, est
-d’un caractère effacé. Quelquefois, en le voyant, j’aurais voulu le secouer, lui dire: «Dis quelque
-chose, Junie, cesse de te tenir là à me regarder comme ça!».
-14 Nous nous asseyions sur une souche dans les bois, et il me disait: «Euh… je pense que…
-oui, c’est vrai…».
-15 Je lui disais: «Junie, j’aimerais le dire pour toi, tu comprends. Tu es trop lent pour moi!». Mais
-Dieu lui a donné un don de parler en langues, et de ma vie, je n’ai entendu un langage aussi
-distinct!
-16 Observez le Saint-Esprit agir dans l’église! Vous vous rappelez cette femme qui a parlé en
-langues ce matin, sans connaître l’autre femme? Aucune ne connaissait l’autre! Elle parla dans
-une certaine tonalité de voix, et quand ce fut interprété, on entendit la même tonalité, les mêmes
-voyelles, la même ponctuation. C’était exactement la même chose qui revenait. Et le message à
-l’église était parfait. Comprenez-vous comment cela se passe? Nous devrions rendre grâces à
-Dieu pour cela! Mais oh, ne bombez pas le torse! Si vous le faites, vous vous enorgueillirez et le
-diable s’emparera de vous. Soyez humbles, et dites: «O Seigneur, retiens-moi, ne me laisse pas
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 4
-me lever avant le temps!».
-17 Il ne vous laissera jamais faire des choses qui ne sont pas en ordre. Si cela vous arrive
-parfois, cela n’a pas d’importance. Si vous le faites, le pasteur vous le dira! Les dons ne doivent
-pas se manifester quand on prêche. Généralement, si les dons commencent à se manifester
-convenablement dans l’église, vous devriez vous rencontrer longtemps avant la réunion suivante.
-Laissez le Seigneur agir avec vous pendant ce temps-là, en sorte que, dans cette partie-ci, il n’y ait
-aucune interruption. Pendant que vous êtes dans l’assemblée, peut-être que vous devrez vous
-retenir et garder le silence pendant un certain temps. Mais si Dieu a un message à donner, Il le
-donnera d’une manière ou d’une autre! Laissez-Le S’en occuper, mais faites cela selon
-l’enseignement biblique. Peut-être que frère Neville nous enseignera sur ces choses, et nous
-essayerons de faire ainsi. J’essaierai de l’aider autant que possible, et nous tâcherons tous les
-deux de vous montrer comme cela doit être employé.
-18 Vous sentez-vous mieux, mon frère polonais? C’est parfait. Oh, comme le Seigneur l’a béni! Il
-y a huit ans, il lui fut dit que quelque chose allait se passer. Il était strictement trinitaire, et il était
-complètement désorienté. L’autre jour, le Seigneur m’a dit: «Un homme va venir, il a les cheveux
-noirs, les yeux bruns et il est corpulent. Ne le renvoie pas, car c’est Moi qui te l’envoie». Je choisis
-un passage de l’Ecriture qui correspondait exactement au point sur lequel il était dans la confusion.
-Je le notai sur un morceau de papier et je le laissai là. Peu après, il arriva. Ma femme me dit: «Il y
-a un homme qui veut te voir!». — «C’est lui, fais-le entrer», répondis-Jean 19 Il me raconta ce qui lui avait été dit sous l’inspiration du Saint-Esprit. Il avait toujours cru le
-message et avait tenu ferme parmi les siens; malgré les critiques, il était resté ferme. Il me raconta
-qu’il y a quelque temps, lors d’une réunion, je lui avais parlé, et que j’avais dit son nom. Comment
-j’en suis arrivé à citer ce nom, je n’en sais rien! Il me dit que j’avais dû l’épeler, c’était pendant une
-réunion… Il me raconta qu’il tenait dans ses bras un bébé qui avait une éruption sur le visage et
-que le petit bébé en avait été complètement débarrassé. Et comment le Seigneur…
-20 Je dis: «Ce dont vous avez besoin, maintenant, c’est d’aller à l’église vous faire baptiser au
-Nom de Jésus-Christ!».
-21 Je l’ai rencontré il y a quelque temps au sommet de la montagne, parce qu’il est venu et a été
-baptisé au Nom de Jésus-Christ. Maintenant, il est tout à fait heureux, il se sent bien et va rentrer
-chez lui. J’espère qu’il sera un de ces jours mon interprète en Pologne, en Allemagne, et dans tous
-ces pays là-bas. Que le Seigneur vous bénisse, mon frère!
-22 Le Seigneur accomplit des choses tellement grandioses! Voyez simplement Sa miséricorde,
-et comment Il fait venir Ses chers enfants de l’est, de l’ouest, du nord et du sud; ils se rassemblent,
-se purifient, ôtent le mal du milieu d’eux. Il y aurait tant à dire!
-23 Maintenant, n’oubliez pas dimanche prochain! Si le Seigneur le permet, nous aurons un
-service de guérison. Si je vous dis: dimanche matin, c’est parce qu’il y aura peut-être plus de gens
-que nous ne pourrons en prendre, alors nous terminerons dimanche soir; mais j’espère pouvoir
-terminer dimanche matin.
-24 Mercredi soir, c’est la réunion de prière du milieu de la semaine. Pour vous qui habitez aux
-alentours, venez à la réunion de prière! Ne la manquez pas, restez fidèles! Priez, cherchez à vous
-rapprocher de Dieu! Ne laissez pas le fanatisme s’installer parmi vous. Il y a trop de vrai pour
-accepter le faux, n’allez pas du mauvais côté! Restez là.
-25 J’ai entendu un «Amen!» qui m’est familier et que je n’ai pas entendu depuis des années:
-c’est celui de frère Russel Creech. On m’a dit que Patty était celle qui avait parlé en langues l’autre
-soir. Patty, où es-tu? Es-tu là? Je ne l’aurais jamais reconnue si je l’avais vue! Je crois que c’est ici
-même que j’ai tenu cette enfant dans mes bras pour la consacrer au Seigneur! Meda m’a dit:
-«Maintenant, c’est une belle jeune fille!». Elle a la puissance du Saint-Esprit sur elle, elle parle en
-langues… Russel, tu es un homme riche! Oui, c’est vrai!
-26 Où est soeur Creech? Je ne l’ai pas vue. Est-elle ici? Oui, au fond. Soeur Creech, comme je
-suis reconnaissant que Dieu vous ait donné une telle enfant, vous ne pouvez pas comprendre à
-quel point j’en suis reconnaissant! Elle est à l'âge où les adolescentes ricanent, font les sottes,
-courent après les garçons, se coiffent en «canard», et tout le reste; mais cette jeune fille est ici,
-pénétrée de la puissance du Saint-Esprit et parlant en langues!
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 5
-27 Oh! ce soir, combien d’hommes, de prédicateurs Pentecôtistes, donneraient leur vie tout
-entière pour voir leurs filles venir ici, au lieu d’aller à ces soirées de rock’n’roll!
-28 Appréciez cela, frère! Je connais le travail que vous faites à la compagnie “Interstate”, je l’ai
-fait moi-même. J’ai souvent travaillé très dur, mais, frère, nous faisions cela pour élever nos
-enfants! Mais rappelez-vous que Dieu est fidèle. C’est Lui qui récompense, c’est certain! “Je
-rendrai à chacun selon ses oeuvres”.
-29 Que Dieu te bénisse, Patty. Ma petite, je ne crois pas que je t’aurais jamais reconnue.
-N’abandonne jamais ce sentier étroit, mon enfant. Ne laisse jamais le diable mettre quelque chose
-en toi qui te semblerait être une jolie pomme dorée, parce qu’en réalité, ce serait un citron! Jette
-cette chose et restes-en là! Garde les yeux fixés sur Christ, fixés sur la Croix, et va de l’avant, car
-l’heure est proche!
-30 Il y a tant de paroles d’exhortations que je pourrais donner, qui sont des bénédictions de Dieu!
-Je n’ai pas pu voir beaucoup de gens, et pendant toute cette semaine, je n’ai pas prié pour plus de
-cinquante personnes, je crois; il y a eu toutes ces allées et venues, les urgences et tout ce qui se
-présente, etc., et j’étais occupé à étudier. Mais dimanche prochain, nous prierons pour les gens;
-nous demanderons à Dieu de descendre, de nous donner cette grande puissance et de Se
-manifester parmi nous — dimanche prochain, le matin, si le Seigneur le veut.
-31 Oh, je n’aime vraiment pas commencer cet âge de l’église, parce que c’est le dernier, celui
-dans lequel se fait le dénouement des sept âges de l’église. Avez-vous eu du plaisir à écouter
-cela? [L’auditoire répond: «Amen!» — N.d.R.] Maintenant, rappelez-vous bien ceci, je le dis à la fin
-comme je l’ai déjà dit au commencement: il peut y avoir beaucoup de choses sur lesquelles vous
-pouvez être carrément en désaccord avec moi, mais ne m’en veuillez pas! Aimez-moi de toute
-façon, parce que, quoi que vous fassiez ou que vous disiez, cela ne fait aucune différence pour
-moi: je continuerai à avoir la même opinion de vous; et j’aurai plutôt tendance à avoir une plus
-haute opinion de vous. Je vous aime, Dieu le sait; il n’y a pas un homme qui prononce le Nom de
-Jésus-Christ sans que je l’aime!
-32 Et je ne voudrais pas qu’il y ait de l’amertume ou de l’indifférence, même si nous sommes en
-complet désaccord. Si nous étions assis à une table, l’un mangeant une tarte d’une certaine sorte
-et l’autre d’une autre sorte, ce serait la même chose! Quand nous avons communion les uns avec
-les autres, nous nous aimons les uns les autres. Et si nous ne le faisons pas, alors nous devrions
-le faire. Et nous n’irons jamais plus loin en Dieu avant que nous le fassions.
-33 N’oubliez pas, n’oubliez pas que le plus grand de tous les dons, c’est l’amour! “Quand je
-parlerais les langues des hommes et des anges, quand je livrerais mon corps pour être brûlé en
-sacrifice, je ne suis rien. Mais quand ce qui est parfait, c’est-à-dire l’amour…”. Si tous les dons
-spirituels ne sont pas cimentés ensemble par l’amour, cela ne tiendra pas! Tout autre ciment
-s’émiettera, mais l’amour demeure à toujours. Vous pouvez lire cela dans 1 Corinthiens 13.
-34 Ce soir, nous abordons ce grand âge de l’église. Peut-être que nous terminerons vers neuf
-heures et quart. Je suis vraiment désolé que nous n’ayons pas assez de place pour faire asseoir
-tout le monde, mais nous n’en avons vraiment pas! Peut-être qu’un jour, nous aurons davantage
-de place.
-35 Maintenant, je désire vous demander de m’accorder une faveur. Vous connaissez ma position
-et vous savez ce que cela me coûtera un jour, et l’heure est proche. Vous comprenez? Je voudrais
-que vous fassiez ceci: priez toujours pour moi. Rappelez-vous que j’ai toujours été honnête au
-mieux de ma conscience. Je me rends compte que je ne suis plus un gamin: j’ai cinquante et un
-ans! Je ne peux aller nulle part avant que Dieu ne m’appelle. Je suivrai le chemin qu’Il veut que je
-suive, et c’est tout. Mais je dois être honnête et dire la Vérité sans faire de concessions. Je sais
-que c’est parfois une marche solitaire, mais tant qu’Il est avec moi, quelle importance cela a-t-il?
-36 Maintenant, avant que nous entrions dans ce grand âge de l’église, pourrions-nous nous lever
-pour prier un moment? Cela vous permettra aussi d’allonger vos jambes et vous serez plus à
-l’aise. Comme c’est notre dernière réunion, combien y en a-t-il ici qui voudraient que l’on intercède
-pour eux devant Dieu? Levez les mains vers Dieu: «Souviens-Toi de moi, ô Seigneur, à la fin de
-cet âge. Quand toute vie sera terminée, souviens-Toi de moi!».
-37 Notre Père céleste, nous n’avons pas assez de mots pour exprimer notre gratitude pour la
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 6
-Présence du Dieu Vivant qui a été au milieu de nous cette semaine, pour les choses que nous
-avons apprises de Toi, pour la manière dont Tu T’es révélé pendant tout ce temps, et parce que
-Tu as rendu Ta Parole si claire pour nous. Combien nous avons compté sur Toi, combien nous
-avons essayé d’exprimer notre amour, mais nous n’avons pas réussi à le faire, Seigneur, parce
-que des langues de chair ne le peuvent pas; parce que Tu nous as sauvés, et que Tu nous as
-donné faim de Toi. Car il est écrit dans la Parole: “Heureux ceux qui ont faim (avoir simplement
-faim, c’est une bénédiction!), faim et soif de justice…”. Ensuite, Tu as fait cette glorieuse
-déclaration: “… car ils seront rassasiés!”. Nous croyons cela, Seigneur! Pardonne-nous nos
-manquements.
-38 Ce soir, nous entrons dans ce dernier âge de l’église, celui de Laodicée, après avoir vu que
-les Ecritures et l’histoire coïncident chaque fois parfaitement. C’est pourquoi, Père, nous savons
-que l’expression de cette glorieuse prophétie qui concerne ce dernier âge sera exactement comme
-celle des six autres âges. Père, je Te prie de laisser le Saint-Esprit venir à nous ce soir, et nous
-bénir, tandis que nous continuons à nous attendre à Toi. Au Nom de Jésus. Amen. Vous pouvez
-vous asseoir.
-39 Si le Seigneur le veut, le livre sera prêt dès que possible. Frère Lee est en train de
-sténographier les enregistrements pour préparer le texte dactylographié qui ira à l’imprimerie.
-40 Par la même occasion, je vous annonce la prochaine parution du livre de Rosella: Une
-alcoolique sauvée. Vous vous souvenez tous de son histoire, comment le Saint-Esprit l’a appelée
-lors de la réunion. Elle avait été abandonnée par quatre des plus grandes institutions pour
-alcooliques, ainsi que par les hôpitaux de Chicago. Mais le Seigneur Jésus, en un seul instant, la
-débarrassa de tous ses maux! Ensuite, elle alla dans les prisons et ailleurs, racontant aux gens
-comment Dieu peut délivrer, parlant aux alcooliques et autres. Par son témoignage, elle a gagné
-beaucoup de personnes à Christ.
-41 Pouvez-vous me dire maintenant quel était le premier âge de l’église? Ephèse. Le second?
-Smyrne. Le troisième? Pergame. Le quatrième? Thyatire. Le cinquième? Sardes. Le sixième?
-Philadelphie. Le septième? Laodicée!
-42 Le premier, celui d’Ephèse, s’étendit de 55 à 170. Smyrne, de 170 à 312. Pergame, de 312 à
-606. Thyatire, de 606 à 1520. Sardes, de 1520 à 1750. Philadelphie, de 1750 à 1906; alors
-commence l'âge de Laodicée qui le chevauche, et hier soir, nous avons étudié ce chevauchement.
-Ce soir, nous allons voir la fin de l'âge de Laodicée.
-43 Nous croyons que l’église de Laodicée a commencé en 1906. Je prédis… Rappelez-vous bien
-ceci: «Je prédis», — surtout vous qui écoutez les enregistrements. Je ne dis pas que ce sera ainsi,
-mais je prédis qu’il se terminera vers 1977, que l’église entrera complètement dans l’apostasie et
-qu’elle sera rejetée de la bouche de Dieu. Et la seconde venue, ou l’enlèvement par Christ, peut
-arriver à tout instant. Je peux me tromper d’un an, de vingt ans, de cent ans! Je ne sais pas quand
-cela… Mais je prédis simplement d’après une vision qu’Il m’a donnée et en considérant les temps
-et la manière dont les choses évoluent, que cela se passera à un certain moment entre 1933 et
-1977. En tout cas, cette grande nation se lancera dans une guerre qui la réduira en cendres. Tout
-cela est très proche, terriblement proche. Mais je puis me tromper, parce que je ne fais que
-prédire. Que ceux qui comprennent cela disent: «Amen!» [L’auditoire répond: «Amen!» — N.d.R.]
-Vous voyez?
-44 En 1933, le Seigneur m’a montré en vision cette grande femme puissante; j’ai noté cela. Et
-aussi comment Roosevelt contribuerait au déclenchement de la guerre mondiale; et comment
-Mussolini entreprendrait sa première invasion de l’Ethiopie et la prendrait, mais qu’il aurait une fin
-ignominieuse; et comment les trois ismes (nazisme, facisme et communisme) se réuniraient tous
-dans le communisme. Combien ici s’en souviennent, lorsque je vous avais fait rester debout et
-dire: «Observez la Russie! Observez la Russie, le roi du Nord! Observez la Russie, le roi du Nord!
-Observez la Russie, le roi du Nord!». Combien m’ont entendu dire cela, et le répéter encore et
-encore? En tout cas les vétérans, lorsque je le dis dans l’ancienne partie de cette église! Je me
-tenais là, et je répétais: «Observez la Russie, le roi du Nord! Voyez ce qu’il va faire, car tous ces
-ismes vont se rassembler en Russie».
-45 Puis je dis que notre nation entrerait finalement en guerre avec l’Allemagne. Et que
-l’Allemagne bâtirait un mur de béton. Ce fut la ligne Siegfried, dont je parlai onze ans avant qu’on
-
-        http://www.cmpp.ch
+12 Je voudrais dire ceci: J’ai entendu beaucoup de gens parler en langues. Je pense que tout cela vient de Dieu, parce que vous ne pouvez pas produire un seul son sans qu’il signifie quelque chose pour quelqu’un quelque part. Vous le savez, c’est la Bible qui le dit: “Il n’y a aucun son qui n’ait un sens”. C’est-à-dire qu’il n’y a aucun son qui ne veuille dire quelque chose. Vous ne pouvez émettre un son quelconque sans qu’il signifie quelque chose. Je me suis souvent demandé comment c’était possible. Mais depuis que je suis allé en Afrique, j’ai entendu toutes sortes de sons qui se sont révélés être la voix de quelqu’un qui parlait. Parfois, c’est une voix angélique, etc.
+13 Il y a aussi Junie Jackson, un petit prédicateur de campagne, timide, effacé, qui vient d’une église Méthodiste près d’Elizabeth, dans les forêts de l’Indiana; il se tient tranquille, ne dit rien, est d’un caractère effacé. Quelquefois, en le voyant, j’aurais voulu le secouer, lui dire: «Dis quelque chose, Junie, cesse de te tenir là à me regarder comme ça!».
+14 Nous nous asseyions sur une souche dans les bois, et il me disait: «Euh… je pense que… oui, c’est vrai…».
+15 Je lui disais: «Junie, j’aimerais le dire pour toi, tu comprends. Tu es trop lent pour moi!». Mais Dieu lui a donné un don de parler en langues, et de ma vie, je n’ai entendu un langage aussi distinct!
+16 Observez le Saint-Esprit agir dans l’église! Vous vous rappelez cette femme qui a parlé en langues ce matin, sans connaître l’autre femme? Aucune ne connaissait l’autre! Elle parla dans une certaine tonalité de voix, et quand ce fut interprété, on entendit la même tonalité, les mêmes voyelles, la même ponctuation. C’était exactement la même chose qui revenait. Et le message à l’église était parfait. Comprenez-vous comment cela se passe? Nous devrions rendre grâces à Dieu pour cela! Mais oh, ne bombez pas le torse! Si vous le faites, vous vous enorgueillirez et le diable s’emparera de vous. Soyez humbles, et dites: «O Seigneur, retiens-moi, ne me laisse pas me lever avant le temps!».
+17 Il ne vous laissera jamais faire des choses qui ne sont pas en ordre. Si cela vous arrive parfois, cela n’a pas d’importance. Si vous le faites, le pasteur vous le dira! Les dons ne doivent pas se manifester quand on prêche. Généralement, si les dons commencent à se manifester convenablement dans l’église, vous devriez vous rencontrer longtemps avant la réunion suivante. Laissez le Seigneur agir avec vous pendant ce temps-là, en sorte que, dans cette partie-ci, il n’y ait aucune interruption. Pendant que vous êtes dans l’assemblée, peut-être que vous devrez vous retenir et garder le silence pendant un certain temps. Mais si Dieu a un message à donner, Il le donnera d’une manière ou d’une autre! Laissez-Le S’en occuper, mais faites cela selon l’enseignement biblique. Peut-être que frère Neville nous enseignera sur ces choses, et nous essayerons de faire ainsi. J’essaierai de l’aider autant que possible, et nous tâcherons tous les deux de vous montrer comme cela doit être employé.
+18 Vous sentez-vous mieux, mon frère polonais? C’est parfait. Oh, comme le Seigneur l’a béni! Il y a huit ans, il lui fut dit que quelque chose allait se passer. Il était strictement trinitaire, et il était complètement désorienté. L’autre jour, le Seigneur m’a dit: «Un homme va venir, il a les cheveux noirs, les yeux bruns et il est corpulent. Ne le renvoie pas, car c’est Moi qui te l’envoie». Je choisis un passage de l’Ecriture qui correspondait exactement au point sur lequel il était dans la confusion. Je le notai sur un morceau de papier et je le laissai là. Peu après, il arriva. Ma femme me dit: «Il y a un homme qui veut te voir!». — «C’est lui, fais-le entrer», répondis-Jean 19 Il me raconta ce qui lui avait été dit sous l’inspiration du Saint-Esprit. Il avait toujours cru le message et avait tenu ferme parmi les siens; malgré les critiques, il était resté ferme. Il me raconta qu’il y a quelque temps, lors d’une réunion, je lui avais parlé, et que j’avais dit son nom. Comment j’en suis arrivé à citer ce nom, je n’en sais rien! Il me dit que j’avais dû l’épeler, c’était pendant une réunion… Il me raconta qu’il tenait dans ses bras un bébé qui avait une éruption sur le visage et que le petit bébé en avait été complètement débarrassé. Et comment le Seigneur…
+20 Je dis: «Ce dont vous avez besoin, maintenant, c’est d’aller à l’église vous faire baptiser au Nom de Jésus-Christ!».
+21 Je l’ai rencontré il y a quelque temps au sommet de la montagne, parce qu’il est venu et a été baptisé au Nom de Jésus-Christ. Maintenant, il est tout à fait heureux, il se sent bien et va rentrer chez lui. J’espère qu’il sera un de ces jours mon interprète en Pologne, en Allemagne, et dans tous ces pays là-bas. Que le Seigneur vous bénisse, mon frère!
+22 Le Seigneur accomplit des choses tellement grandioses! Voyez simplement Sa miséricorde, et comment Il fait venir Ses chers enfants de l’est, de l’ouest, du nord et du sud; ils se rassemblent, se purifient, ôtent le mal du milieu d’eux. Il y aurait tant à dire!
+23 Maintenant, n’oubliez pas dimanche prochain! Si le Seigneur le permet, nous aurons un service de guérison. Si je vous dis: dimanche matin, c’est parce qu’il y aura peut-être plus de gens que nous ne pourrons en prendre, alors nous terminerons dimanche soir; mais j’espère pouvoir terminer dimanche matin.
+24 Mercredi soir, c’est la réunion de prière du milieu de la semaine. Pour vous qui habitez aux alentours, venez à la réunion de prière! Ne la manquez pas, restez fidèles! Priez, cherchez à vous rapprocher de Dieu! Ne laissez pas le fanatisme s’installer parmi vous. Il y a trop de vrai pour accepter le faux, n’allez pas du mauvais côté! Restez là.
+25 J’ai entendu un «Amen!» qui m’est familier et que je n’ai pas entendu depuis des années: c’est celui de frère Russel Creech. On m’a dit que Patty était celle qui avait parlé en langues l’autre soir. Patty, où es-tu? Es-tu là? Je ne l’aurais jamais reconnue si je l’avais vue! Je crois que c’est ici même que j’ai tenu cette enfant dans mes bras pour la consacrer au Seigneur! Meda m’a dit: «Maintenant, c’est une belle jeune fille!». Elle a la puissance du Saint-Esprit sur elle, elle parle en langues… Russel, tu es un homme riche! Oui, c’est vrai!
+26 Où est soeur Creech? Je ne l’ai pas vue. Est-elle ici? Oui, au fond. Soeur Creech, comme je suis reconnaissant que Dieu vous ait donné une telle enfant, vous ne pouvez pas comprendre à quel point j’en suis reconnaissant! Elle est à l'âge où les adolescentes ricanent, font les sottes, courent après les garçons, se coiffent en «canard», et tout le reste; mais cette jeune fille est ici, pénétrée de la puissance du Saint-Esprit et parlant en langues!
+27 Oh! ce soir, combien d’hommes, de prédicateurs Pentecôtistes, donneraient leur vie tout entière pour voir leurs filles venir ici, au lieu d’aller à ces soirées de rock’n’roll!
+28 Appréciez cela, frère! Je connais le travail que vous faites à la compagnie “Interstate”, je l’ai fait moi-même. J’ai souvent travaillé très dur, mais, frère, nous faisions cela pour élever nos enfants! Mais rappelez-vous que Dieu est fidèle. C’est Lui qui récompense, c’est certain! “Je rendrai à chacun selon ses oeuvres”.
+29 Que Dieu te bénisse, Patty. Ma petite, je ne crois pas que je t’aurais jamais reconnue. N’abandonne jamais ce sentier étroit, mon enfant. Ne laisse jamais le diable mettre quelque chose en toi qui te semblerait être une jolie pomme dorée, parce qu’en réalité, ce serait un citron! Jette cette chose et restes-en là! Garde les yeux fixés sur Christ, fixés sur la Croix, et va de l’avant, car l’heure est proche!
+30 Il y a tant de paroles d’exhortations que je pourrais donner, qui sont des bénédictions de Dieu! Je n’ai pas pu voir beaucoup de gens, et pendant toute cette semaine, je n’ai pas prié pour plus de cinquante personnes, je crois; il y a eu toutes ces allées et venues, les urgences et tout ce qui se présente, etc., et j’étais occupé à étudier. Mais dimanche prochain, nous prierons pour les gens; nous demanderons à Dieu de descendre, de nous donner cette grande puissance et de Se manifester parmi nous — dimanche prochain, le matin, si le Seigneur le veut.
+31 Oh, je n’aime vraiment pas commencer cet âge de l’église, parce que c’est le dernier, celui dans lequel se fait le dénouement des sept âges de l’église. Avez-vous eu du plaisir à écouter cela? [L’auditoire répond: «Amen!» — N.d.R.] Maintenant, rappelez-vous bien ceci, je le dis à la fin comme je l’ai déjà dit au commencement: il peut y avoir beaucoup de choses sur lesquelles vous pouvez être carrément en désaccord avec moi, mais ne m’en veuillez pas! Aimez-moi de toute façon, parce que, quoi que vous fassiez ou que vous disiez, cela ne fait aucune différence pour moi: je continuerai à avoir la même opinion de vous; et j’aurai plutôt tendance à avoir une plus haute opinion de vous. Je vous aime, Dieu le sait; il n’y a pas un homme qui prononce le Nom de Jésus-Christ sans que je l’aime!
+32 Et je ne voudrais pas qu’il y ait de l’amertume ou de l’indifférence, même si nous sommes en complet désaccord. Si nous étions assis à une table, l’un mangeant une tarte d’une certaine sorte et l’autre d’une autre sorte, ce serait la même chose! Quand nous avons communion les uns avec les autres, nous nous aimons les uns les autres. Et si nous ne le faisons pas, alors nous devrions le faire. Et nous n’irons jamais plus loin en Dieu avant que nous le fassions.
+33 N’oubliez pas, n’oubliez pas que le plus grand de tous les dons, c’est l’amour! “Quand je parlerais les langues des hommes et des anges, quand je livrerais mon corps pour être brûlé en sacrifice, je ne suis rien. Mais quand ce qui est parfait, c’est-à-dire l’amour…”. Si tous les dons spirituels ne sont pas cimentés ensemble par l’amour, cela ne tiendra pas! Tout autre ciment s’émiettera, mais l’amour demeure à toujours. Vous pouvez lire cela dans 1 Corinthiens 13.
+34 Ce soir, nous abordons ce grand âge de l’église. Peut-être que nous terminerons vers neuf heures et quart. Je suis vraiment désolé que nous n’ayons pas assez de place pour faire asseoir tout le monde, mais nous n’en avons vraiment pas! Peut-être qu’un jour, nous aurons davantage de place.
+35 Maintenant, je désire vous demander de m’accorder une faveur. Vous connaissez ma position et vous savez ce que cela me coûtera un jour, et l’heure est proche. Vous comprenez? Je voudrais que vous fassiez ceci: priez toujours pour moi. Rappelez-vous que j’ai toujours été honnête au mieux de ma conscience. Je me rends compte que je ne suis plus un gamin: j’ai cinquante et un ans! Je ne peux aller nulle part avant que Dieu ne m’appelle. Je suivrai le chemin qu’Il veut que je suive, et c’est tout. Mais je dois être honnête et dire la Vérité sans faire de concessions. Je sais que c’est parfois une marche solitaire, mais tant qu’Il est avec moi, quelle importance cela a-t-il?
+36 Maintenant, avant que nous entrions dans ce grand âge de l’église, pourrions-nous nous lever pour prier un moment? Cela vous permettra aussi d’allonger vos jambes et vous serez plus à l’aise. Comme c’est notre dernière réunion, combien y en a-t-il ici qui voudraient que l’on intercède pour eux devant Dieu? Levez les mains vers Dieu: «Souviens-Toi de moi, ô Seigneur, à la fin de cet âge. Quand toute vie sera terminée, souviens-Toi de moi!».
+37 Notre Père céleste, nous n’avons pas assez de mots pour exprimer notre gratitude pour la Présence du Dieu Vivant qui a été au milieu de nous cette semaine, pour les choses que nous avons apprises de Toi, pour la manière dont Tu T’es révélé pendant tout ce temps, et parce que Tu as rendu Ta Parole si claire pour nous. Combien nous avons compté sur Toi, combien nous avons essayé d’exprimer notre amour, mais nous n’avons pas réussi à le faire, Seigneur, parce que des langues de chair ne le peuvent pas; parce que Tu nous as sauvés, et que Tu nous as donné faim de Toi. Car il est écrit dans la Parole: “Heureux ceux qui ont faim (avoir simplement faim, c’est une bénédiction!), faim et soif de justice…”. Ensuite, Tu as fait cette glorieuse déclaration: “… car ils seront rassasiés!”. Nous croyons cela, Seigneur! Pardonne-nous nos manquements.
+38 Ce soir, nous entrons dans ce dernier âge de l’église, celui de Laodicée, après avoir vu que les Ecritures et l’histoire coïncident chaque fois parfaitement. C’est pourquoi, Père, nous savons que l’expression de cette glorieuse prophétie qui concerne ce dernier âge sera exactement comme celle des six autres âges. Père, je Te prie de laisser le Saint-Esprit venir à nous ce soir, et nous bénir, tandis que nous continuons à nous attendre à Toi. Au Nom de Jésus. Amen. Vous pouvez vous asseoir.
+39 Si le Seigneur le veut, le livre sera prêt dès que possible. Frère Lee est en train de sténographier les enregistrements pour préparer le texte dactylographié qui ira à l’imprimerie.
+40 Par la même occasion, je vous annonce la prochaine parution du livre de Rosella: Une alcoolique sauvée. Vous vous souvenez tous de son histoire, comment le Saint-Esprit l’a appelée lors de la réunion. Elle avait été abandonnée par quatre des plus grandes institutions pour alcooliques, ainsi que par les hôpitaux de Chicago. Mais le Seigneur Jésus, en un seul instant, la débarrassa de tous ses maux! Ensuite, elle alla dans les prisons et ailleurs, racontant aux gens comment Dieu peut délivrer, parlant aux alcooliques et autres. Par son témoignage, elle a gagné beaucoup de personnes à Christ.
+41 Pouvez-vous me dire maintenant quel était le premier âge de l’église? Ephèse. Le second? Smyrne. Le troisième? Pergame. Le quatrième? Thyatire. Le cinquième? Sardes. Le sixième? Philadelphie. Le septième? Laodicée!
+42 Le premier, celui d’Ephèse, s’étendit de 55 à 170. Smyrne, de 170 à 312. Pergame, de 312 à 606. Thyatire, de 606 à 1520. Sardes, de 1520 à 1750. Philadelphie, de 1750 à 1906; alors commence l'âge de Laodicée qui le chevauche, et hier soir, nous avons étudié ce chevauchement. Ce soir, nous allons voir la fin de l'âge de Laodicée.
+43 Nous croyons que l’église de Laodicée a commencé en 1906. Je prédis… Rappelez-vous bien ceci: «Je prédis», — surtout vous qui écoutez les enregistrements. Je ne dis pas que ce sera ainsi, mais je prédis qu’il se terminera vers 1977, que l’église entrera complètement dans l’apostasie et qu’elle sera rejetée de la bouche de Dieu. Et la seconde venue, ou l’enlèvement par Christ, peut arriver à tout instant. Je peux me tromper d’un an, de vingt ans, de cent ans! Je ne sais pas quand cela… Mais je prédis simplement d’après une vision qu’Il m’a donnée et en considérant les temps et la manière dont les choses évoluent, que cela se passera à un certain moment entre 1933 et 1977. En tout cas, cette grande nation se lancera dans une guerre qui la réduira en cendres. Tout cela est très proche, terriblement proche. Mais je puis me tromper, parce que je ne fais que prédire. Que ceux qui comprennent cela disent: «Amen!» [L’auditoire répond: «Amen!» — N.d.R.] Vous voyez?
+44 En 1933, le Seigneur m’a montré en vision cette grande femme puissante; j’ai noté cela. Et aussi comment Roosevelt contribuerait au déclenchement de la guerre mondiale; et comment Mussolini entreprendrait sa première invasion de l’Ethiopie et la prendrait, mais qu’il aurait une fin ignominieuse; et comment les trois ismes (nazisme, facisme et communisme) se réuniraient tous dans le communisme. Combien ici s’en souviennent, lorsque je vous avais fait rester debout et dire: «Observez la Russie! Observez la Russie, le roi du Nord! Observez la Russie, le roi du Nord! Observez la Russie, le roi du Nord!». Combien m’ont entendu dire cela, et le répéter encore et encore? En tout cas les vétérans, lorsque je le dis dans l’ancienne partie de cette église! Je me tenais là, et je répétais: «Observez la Russie, le roi du Nord! Voyez ce qu’il va faire, car tous ces ismes vont se rassembler en Russie».
+45 Puis je dis que notre nation entrerait finalement en guerre avec l’Allemagne. Et que l’Allemagne bâtirait un mur de béton. Ce fut la ligne Siegfried, dont je parlai onze ans avant qu’on
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 7
 ne commence à la construire! Onze ans! Et je dis: «Les Américains subiront une terrible défaite sur
@@ -575,7 +401,6 @@ devons en attendre un autre”. C’est exactement ce qu’Elie avait fait, exac
 
     http://www.cmpp.ch
 
-LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 12
 103 Vous voyez, c’était un personnage d’humeur changeante. C’est pourquoi nous le plaignons:
 nous savons ce que c’est!
 104 Ce puissant Elie que Dieu nous enverra se fera connaître comme Elie autrefois; à ce moment,
@@ -858,285 +683,88 @@ faire!». Alors, il alla dire à sa belle-mère: «Maman, je voudrais vous dire 
         http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 17
-170 Ils y allèrent donc. Ils la laissèrent partir la première, parce qu’ils avaient honte d’elle. Elle
-traversa la rue dans ce vêtement désuet, sa Bible sous le bras. Frères, elle n’avait peut-être pas
-son nom dans le répertoire des célébrités, mais j’ai l’impression que son nom était inscrit dans le
-Livre de Vie de l’Agneau. C’était l’essentiel!
-171 Elle entra dans l’église et s’installa au fond; elle ouvrit sa Bible, se mit à lire. Tout le monde
-commençait à se retourner en se demandant d’où venait cette espèce d’antiquité. Ils se
-retournaient comme cela, avec des «oh, là, là!». Avec tous leurs beaux vêtements, leurs belles
-robes, vous savez, c’était la Laodicée typique. Ils se retournèrent pour voir cette petite dame
-assise là au fond, lisant sa Bible, un sourire rayonnant sur son visage.
-172 Après tous leurs préliminaires, il ne restait plus au pasteur que quinze minutes pour prêcher. Il
-se leva et dit: «Le Seigneur est bon!».
-173 Alors, la petite vieille s’écria: «Loué soit Dieu! c’est vrai! Alléluia!». Tous les gens se
-retournèrent, tendant le cou comme des oies, se demandant: «Qui est-ce?».
-174 Le pasteur se racla la gorge: «Hem, hem, hem!» et dit: «En tout temps, les chrétiens devraient
-être courageux, de bons et nobles chrétiens!» — ou quelque chose de ce genre.
+170 Ils y allèrent donc. Ils la laissèrent partir la première, parce qu’ils avaient honte d’elle. Elle traversa la rue dans ce vêtement désuet, sa Bible sous le bras. Frères, elle n’avait peut-être pas son nom dans le répertoire des célébrités, mais j’ai l’impression que son nom était inscrit dans le Livre de Vie de l’Agneau. C’était l’essentiel!
+171 Elle entra dans l’église et s’installa au fond; elle ouvrit sa Bible, se mit à lire. Tout le monde commençait à se retourner en se demandant d’où venait cette espèce d’antiquité. Ils se retournaient comme cela, avec des «oh, là, là!». Avec tous leurs beaux vêtements, leurs belles robes, vous savez, c’était la Laodicée typique. Ils se retournèrent pour voir cette petite dame assise là au fond, lisant sa Bible, un sourire rayonnant sur son visage.
+172 Après tous leurs préliminaires, il ne restait plus au pasteur que quinze minutes pour prêcher. Il se leva et dit: «Le Seigneur est bon!».
+173 Alors, la petite vieille s’écria: «Loué soit Dieu! c’est vrai! Alléluia!». Tous les gens se retournèrent, tendant le cou comme des oies, se demandant: «Qui est-ce?».
+174 Le pasteur se racla la gorge: «Hem, hem, hem!» et dit: «En tout temps, les chrétiens devraient être courageux, de bons et nobles chrétiens!» — ou quelque chose de ce genre.
 175 Elle s’écria: «Dieu soit loué! c’est vrai!». Tout le monde se retourna de nouveau.
 176 Le pasteur fit de nouveau: «Hem, hem!» et jeta un regard significatif vers les diacres.
-177 Enfin, un diacre comprit. Il alla vers la vieille dame, la prit par le bras et la conduisit dehors en
-disant: «Vous interrompez le pasteur!».
-178 Vous êtes mort, et vous ne le savez pas! Oui! A quoi vous servent vos vitraux et vos sièges
-rembourrés? Et que sont toutes vos grandes assemblées? Vous allez tout droit vers l’enfer,
-comme la martre à son trou! Car si vous n’avez pas l’Esprit de Dieu, vous êtes perdu! Si vous
-n’êtes pas né de nouveau, vous ne pouvez voir le Royaume de Dieu!
-179 C’est quelque chose d’amer à avaler! C’est comme quand je prenais de l’huile de ricin. Je
-disais: «Maman, je ne peux pas la supporter!».
-180 Elle me répondait: «Si cela ne te rend pas malade, alors cela ne te servira à rien». Je crois
-que c’est également vrai pour ces choses-ci.
-181 Oh, si jamais vous voulez leur parler… Ils ont de beaux et grands bâtiments, et tout le reste.
-Si vous allez à leur église et que vous leur demandiez: «Etes-vous Pentecôtistes?», ils vous
-répondront: «Oh oui, bien sûr, nous sommes Pentecôtistes!».
+177 Enfin, un diacre comprit. Il alla vers la vieille dame, la prit par le bras et la conduisit dehors en disant: «Vous interrompez le pasteur!».
+178 Vous êtes mort, et vous ne le savez pas! Oui! A quoi vous servent vos vitraux et vos sièges rembourrés? Et que sont toutes vos grandes assemblées? Vous allez tout droit vers l’enfer, comme la martre à son trou! Car si vous n’avez pas l’Esprit de Dieu, vous êtes perdu! Si vous n’êtes pas né de nouveau, vous ne pouvez voir le Royaume de Dieu!
+179 C’est quelque chose d’amer à avaler! C’est comme quand je prenais de l’huile de ricin. Je disais: «Maman, je ne peux pas la supporter!».
+180 Elle me répondait: «Si cela ne te rend pas malade, alors cela ne te servira à rien». Je crois que c’est également vrai pour ces choses-ci.
+181 Oh, si jamais vous voulez leur parler… Ils ont de beaux et grands bâtiments, et tout le reste. Si vous allez à leur église et que vous leur demandiez: «Etes-vous Pentecôtistes?», ils vous répondront: «Oh oui, bien sûr, nous sommes Pentecôtistes!».
      — «Croyez-vous en la nouvelle naissance?».
      — «Bien sûr!».
      — «Eh bien, je voudrais vous montrer quelque chose». Mais ils vous coupent la parole!
-182 — «Regardez ce bâtiment! Savez-vous combien il a coûté? Trois quarts de million de dollars!
-Vous savez, autrefois, nous n’avions pas cela: nous allions prêcher dans la rue!». Où que vous
-portiez vos regards, vous voyez leurs richesses. C’est vrai! Et eux disent: «Vous voyez toutes ces
-grandes choses que nous avons!». Mais ils n’ont pas sur leur coeur le fardeau des âmes
-perdues! Ils veulent toujours vous montrer combien de bâtiments ils ont. «Regardez notre registre
-d’école du dimanche, comme il est grand». “Je suis riche, je me suis enrichi, et je n’ai besoin de
-rien”.
-183 C’est pour cela qu’Il a dit: “C’est ce que vous croyez, mais vous ne savez pas que vous êtes
-pauvres, malheureux, misérables, aveugles, et nus. Vous ne le savez pas!”. Vous voyez? C’est
-ainsi!
-184 Ils disent, bien sûr: «Vous savez, la petite église que nous avions autrefois là-bas est devenue
-cette grande église-ci!». Mais, comme je vous le dis, ils n’ont pas le fardeau des âmes, mais leur
-fardeau, c’est l’entretien de ces grands bâtiments! L’entr’aide féminine et tout le reste, il faut bien
-s’en occuper, mais ils n’ont pas le fardeau des âmes! Oh, dans quel triste état cette église est
-tombée!
-185 Ils n’avaient pas le fardeau des âmes, mais celui de leur richesse. C’est vrai! Ils portaient le
-mauvais fardeau. Ils avaient le fardeau de leur richesse, mais pas le fardeau des âmes perdues.
-L’Ecriture dit: “Ils ne savaient pas qu’ils étaient malheureux, misérables, aveugles!”.
+182 — «Regardez ce bâtiment! Savez-vous combien il a coûté? Trois quarts de million de dollars! Vous savez, autrefois, nous n’avions pas cela: nous allions prêcher dans la rue!». Où que vous portiez vos regards, vous voyez leurs richesses. C’est vrai! Et eux disent: «Vous voyez toutes ces grandes choses que nous avons!». Mais ils n’ont pas sur leur coeur le fardeau des âmes perdues! Ils veulent toujours vous montrer combien de bâtiments ils ont. «Regardez notre registre d’école du dimanche, comme il est grand». “Je suis riche, je me suis enrichi, et je n’ai besoin de rien”.
+183 C’est pour cela qu’Il a dit: “C’est ce que vous croyez, mais vous ne savez pas que vous êtes pauvres, malheureux, misérables, aveugles, et nus. Vous ne le savez pas!”. Vous voyez? C’est ainsi!
+184 Ils disent, bien sûr: «Vous savez, la petite église que nous avions autrefois là-bas est devenue cette grande église-ci!». Mais, comme je vous le dis, ils n’ont pas le fardeau des âmes, mais leur fardeau, c’est l’entretien de ces grands bâtiments! L’entr’aide féminine et tout le reste, il faut bien s’en occuper, mais ils n’ont pas le fardeau des âmes! Oh, dans quel triste état cette église est tombée!
+185 Ils n’avaient pas le fardeau des âmes, mais celui de leur richesse. C’est vrai! Ils portaient le mauvais fardeau. Ils avaient le fardeau de leur richesse, mais pas le fardeau des âmes perdues. L’Ecriture dit: “Ils ne savaient pas qu’ils étaient malheureux, misérables, aveugles!”.
 
         http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 18
-186 Ils croyaient pouvoir amasser de l’argent et convertir le monde. «Oh, si seulement nous
-pouvions faire un programme pour recueillir beaucoup d’argent, je crois que nous pourrions
-convertir le monde entier! Frère Branham, si nous pouvions décider quelques-uns des riches de
-notre église, je crois que nous pourrions créer une société qui pourrait aller partout et convertir le
-monde entier. Nous prendrions des avions, et pourrions semer de la littérature sur le territoire de
-l’Afrique tout entière et faire des choses comme cela. Si nous avions seulement un peu d’argent!».
-187 Frères, ce n’est pas l’argent qui convertira le monde. Le monde sera converti par la
-prédication puissante du Saint-Esprit, et la Croix sera la seule chose qui convertira le
-monde. Le programme de Dieu, ce n’est pas l’argent. C’est le Saint-Esprit! Voilà ce qu’est le
-programme de Dieu pour l’âge de l’église de Laodicée, comme d’ailleurs pour tous les
-autres âges de l’église. Certainement!
-188 Ce dont ils ont besoin, c’est du Saint-Esprit! Ils disent: «Nous avons de l’or». Bien sûr que
-c’est de l’or, mais pas de la bonne sorte. Ils avaient de l’or en quantité, mais pas de la bonne sorte!
-C’est pourquoi ils furent repris par Jésus qui leur dit:
-     “Parce que tu dis: Je suis riche, et je me suis enrichi, et je n’ai besoin de rien… je te
-     conseille d’acheter de moi de l’or passé au feu…” (une sorte d’or différente, un or qui a
-     été éprouvé dans une fournaise ardente, qui a passé par le feu de la mort, qui a passé
-     par le Calvaire et en est sorti).
-189 Une grande partie de cet or que vous avez maintenant est terni, il va se corrompre et se
-rouiller. Si vous voulez le noter, cela se trouve dans Jacques 5.1,2; alors, vous comprendrez ce
-que cela veut dire: “A vous, maintenant, riches! Pleurez et gémissez à cause des malheurs qui
-viendront sur vous. Vos richesses sont pourries et vos vêtements rongés par les teignes!”. Vous
-voyez, voilà la sorte d’or qui se corrompt!
-190 Mais l’or que Jésus donne, c’est le Saint-Esprit, l’Huile dorée de l’Esprit, qu’il déverse dans
-votre coeur. Et Il nous donne un conseil: “Je te conseille d’acheter de moi de l’or passé au feu, afin
-que tu deviennes riche…”. Oh, oui!
-191 Ils étaient aussi aveugles. C’est un triste état que celui de l’aveugle! Mais je pense que ces
-chrétiens étaient plutôt myopes qu’aveugles. Je crois qu’ils étaient myopes. Les seules choses
-qu’ils pouvaient voir, c’étaient leurs grandes assemblées, leurs belles chorales avec leurs belles
-robes de choeur et toutes ces choses-là. Je pense qu’ils étaient simplement myopes et pouvaient
-à peine voir plus loin que le bout de leur nez. Je ne pense pas qu’ils étaient aveugles, ils étaient
-seulement myopes. Tout ce qu’ils pouvaient voir c’était: “Comment, vous ne le savez pas? Nous
-appartenons à ceci et à cela!”. — à leurs grandes dénominations, avec leurs grandes foules, leurs
-nombreux membres, leurs écoles du dimanche, leurs beaux bâtiments!
-192 “Mais ce dont ils avaient besoin, c’était du Saint-Esprit”, dit Jésus. Ils avaient besoin du
-Saint-Esprit! C’est pourquoi le Seigneur leur dit: “Tes yeux sont si mauvais, tu es si myope que tu
-ne peux rien voir que ta grande église, ta grande et belle assemblée, le maire de la ville et les
-autres notables qui viennent à ton église, et tu as chez toi des célébrités. Mais Moi, tu M’as
-oublié!”. “… pauvre, aveugle et nu: je te conseille d’acheter de moi… un collyre pour oindre tes
-yeux, afin que tu voies”.
-193 Il est étrange que ces docteurs en théologie n’en aient point, n’est-ce pas? Ils ont beaucoup
-de parfum, beaucoup de théologie. Mais ils ont besoin d’un collyre, le Saint-Esprit de Dieu, afin
-d’oindre leurs yeux, en sorte qu’ils puissent considérer la venue du Seigneur, considérer la Bible,
-considérer la Parole. Ils savent comment dire «â-â-mène!» à la perfection! Ils ont tous les parfums
-et tous les onguents. Mais la Bible dit qu’ils ont besoin d’un collyre. Elle dit: “Tu as besoin d’un
-collyre pour oindre tes yeux, et cela les ouvrira”.
-194 Autrefois, quand j’étais petit garçon… je crois que je l’ai déjà dit ici, dans cette église, mais
-cela me vient à l’esprit maintenant. J’ai été élevé là-bas dans les montagnes du Kentucky, du
-moins en partie, et nous vivions dans une vieille baraque en planches. Il y avait une petite pièce à
-l’étage dans laquelle nous avions nos paillasses. Et, sur cette paillasse, il y avait un sac garni de
-plumes. Je ne sais pas si vous savez ou non ce qu’est un sac de plumes, ou une paillasse; nous
-étions trop pauvres pour avoir un lit. Papa et maman avaient le lit en bas. Nous grimpions par une
-petite échelle dans la pièce du haut, et parfois, maman étendait un morceau de toile par-dessus
-les couvertures et tout. Lorsque nous étions couchés, nous pouvions compter les étoiles entre ces
+186 Ils croyaient pouvoir amasser de l’argent et convertir le monde. «Oh, si seulement nous pouvions faire un programme pour recueillir beaucoup d’argent, je crois que nous pourrions convertir le monde entier! Frère Branham, si nous pouvions décider quelques-uns des riches de notre église, je crois que nous pourrions créer une société qui pourrait aller partout et convertir le monde entier. Nous prendrions des avions, et pourrions semer de la littérature sur le territoire de l’Afrique tout entière et faire des choses comme cela. Si nous avions seulement un peu d’argent!».
+187 Frères, ce n’est pas l’argent qui convertira le monde. Le monde sera converti par la prédication puissante du Saint-Esprit, et la Croix sera la seule chose qui convertira le monde. Le programme de Dieu, ce n’est pas l’argent. C’est le Saint-Esprit! Voilà ce qu’est le programme de Dieu pour l’âge de l’église de Laodicée, comme d’ailleurs pour tous les autres âges de l’église. Certainement!
+188 Ce dont ils ont besoin, c’est du Saint-Esprit! Ils disent: «Nous avons de l’or». Bien sûr que c’est de l’or, mais pas de la bonne sorte. Ils avaient de l’or en quantité, mais pas de la bonne sorte! C’est pourquoi ils furent repris par Jésus qui leur dit:
+     “Parce que tu dis: Je suis riche, et je me suis enrichi, et je n’ai besoin de rien… je te conseille d’acheter de moi de l’or passé au feu…” (une sorte d’or différente, un or qui a été éprouvé dans une fournaise ardente, qui a passé par le feu de la mort, qui a passé par le Calvaire et en est sorti).
+189 Une grande partie de cet or que vous avez maintenant est terni, il va se corrompre et se rouiller. Si vous voulez le noter, cela se trouve dans Jacques 5.1,2; alors, vous comprendrez ce que cela veut dire: “A vous, maintenant, riches! Pleurez et gémissez à cause des malheurs qui viendront sur vous. Vos richesses sont pourries et vos vêtements rongés par les teignes!”. Vous voyez, voilà la sorte d’or qui se corrompt!
+190 Mais l’or que Jésus donne, c’est le Saint-Esprit, l’Huile dorée de l’Esprit, qu’il déverse dans votre coeur. Et Il nous donne un conseil: “Je te conseille d’acheter de moi de l’or passé au feu, afin que tu deviennes riche…”. Oh, oui!
+191 Ils étaient aussi aveugles. C’est un triste état que celui de l’aveugle! Mais je pense que ces chrétiens étaient plutôt myopes qu’aveugles. Je crois qu’ils étaient myopes. Les seules choses qu’ils pouvaient voir, c’étaient leurs grandes assemblées, leurs belles chorales avec leurs belles robes de choeur et toutes ces choses-là. Je pense qu’ils étaient simplement myopes et pouvaient à peine voir plus loin que le bout de leur nez. Je ne pense pas qu’ils étaient aveugles, ils étaient seulement myopes. Tout ce qu’ils pouvaient voir c’était: “Comment, vous ne le savez pas? Nous appartenons à ceci et à cela!”. — à leurs grandes dénominations, avec leurs grandes foules, leurs nombreux membres, leurs écoles du dimanche, leurs beaux bâtiments!
+192 “Mais ce dont ils avaient besoin, c’était du Saint-Esprit”, dit Jésus. Ils avaient besoin du Saint-Esprit! C’est pourquoi le Seigneur leur dit: “Tes yeux sont si mauvais, tu es si myope que tu ne peux rien voir que ta grande église, ta grande et belle assemblée, le maire de la ville et les autres notables qui viennent à ton église, et tu as chez toi des célébrités. Mais Moi, tu M’as oublié!”. “… pauvre, aveugle et nu: je te conseille d’acheter de moi… un collyre pour oindre tes yeux, afin que tu voies”.
+193 Il est étrange que ces docteurs en théologie n’en aient point, n’est-ce pas? Ils ont beaucoup de parfum, beaucoup de théologie. Mais ils ont besoin d’un collyre, le Saint-Esprit de Dieu, afin d’oindre leurs yeux, en sorte qu’ils puissent considérer la venue du Seigneur, considérer la Bible, considérer la Parole. Ils savent comment dire «â-â-mène!» à la perfection! Ils ont tous les parfums et tous les onguents. Mais la Bible dit qu’ils ont besoin d’un collyre. Elle dit: “Tu as besoin d’un collyre pour oindre tes yeux, et cela les ouvrira”.
+194 Autrefois, quand j’étais petit garçon… je crois que je l’ai déjà dit ici, dans cette église, mais cela me vient à l’esprit maintenant. J’ai été élevé là-bas dans les montagnes du Kentucky, du moins en partie, et nous vivions dans une vieille baraque en planches. Il y avait une petite pièce à l’étage dans laquelle nous avions nos paillasses. Et, sur cette paillasse, il y avait un sac garni de plumes. Je ne sais pas si vous savez ou non ce qu’est un sac de plumes, ou une paillasse; nous étions trop pauvres pour avoir un lit. Papa et maman avaient le lit en bas. Nous grimpions par une petite échelle dans la pièce du haut, et parfois, maman étendait un morceau de toile par-dessus les couvertures et tout. Lorsque nous étions couchés, nous pouvions compter les étoiles entre ces
 
         http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 19
-vieilles planches. Nous étions éclairés par la lumière de la lune, vous savez, car il y avait des trous
-gros comme cela dans le toit.
-195 S’il se mettait à neiger ou à pleuvoir, nous les petits, nous nous blottissions sous cette toile
-afin de ne pas être mouillés. Parfois, à cause du vent qui soufflait à travers ces trous, nous
-attrapions des rhumes, et nos yeux restaient collés. Vous savez, ils étaient fermés par le froid.
-Quand maman nous appelait le matin pour descendre, je disais: «Je ne peux pas venir, maman,
-parce que mes yeux sont tout collés!». J’avais cette chose dans les yeux, vous savez, à cause du
-froid. Je ne pouvais plus les ouvrir. Un des petits était encore couché, et moi et Humpy et les
-autres, essayions de lui ouvrir les yeux, mais nous n’y arrivions pas.
-196 Mon grand-père était trappeur, il trappait le raton laveur. Chez nous, la graisse de raton laveur
-était une panacée. On cirait les chaussures avec la graisse de raton laveur. Lorsqu’on avait le
-croup, ma mère y mêlait de la térébenthine, et nous faisait avaler cela.
-197 Quand nos paupières étaient collées, maman courait à la cuisine prendre son grand bol de
-graisse de raton laveur qu’elle mettait chauffer. Quand la graisse était bien chaude, maman
-montait et nous massait les yeux jusqu’à ce que la graisse ait bien pénétré. Au bout d’un moment,
-je pouvais ouvrir les yeux. La graisse les avait ouverts.
-198 Je vous le dis, nous avons eu de terribles vagues de froid! Une vague de froid a balayé le
-pays! Les Baptistes disent: «Le temps des miracles est passé. Le Saint-Esprit, cela n’existe pas, ni
-le parler en langues. Il n’y a pas de baptême au Nom du Seigneur Jésus!». Oh, il y a eu toutes
-sortes de courants froids, et beaucoup d’yeux ont été fermés par une sorte de froid spirituel. Il
-faudra plus que de la graisse de raton laveur pour leur ouvrir les yeux, frères! Il faudra un nouveau
-baptême du Saint-Esprit qui massera leurs yeux et les nettoiera, et vous guérira de votre myopie,
-afin que vous puissiez voir que la Parole de Dieu est la Vérité. C’est vrai! “Je te conseille d’acheter
-de Moi un collyre”. Quelque chose pour oindre vos yeux, vous comprenez!
-199 Les docteurs en théologie ont leur propre théologie, leurs parfums et tout cela, mais il faut
-plus que cela. Seul le Saint-Esprit peut donner la vision spirituelle qui permet de voir les
-puissances célestes en action. Le Saint-Esprit, le collyre du Saint-Esprit! Un collyre, c’est une huile
-chaude, nous le savons, et le Saint-Esprit est l’Huile de Dieu.
-200 Tous ces parfums des théologies! — «Cher frère, ce que vous faites est très bien! Il n’y a rien
-à redire en ce qui vous concerne. Tout est en ordre! Et nous avons la plus grande église de la
-ville!». Ce parfum-là n’a pas d’effet. Non! Cela vous conduira tout droit à la myopie, et vous direz:
-«Oui, nous avons la plus grande église!». Mais qu’arrivera-t-il au jour du Jugement qui vient,
-lorsque Dieu vous demandera des comptes à vous, membres de l’église de Laodicée?
-201 Ce n’est pas tellement pour cette assemblée-ci que je parle, mais ce que je dis est enregistré
-et va dans le monde entier, vous comprenez, c’est pourquoi, en ce moment, je parle en réalité à
-plusieurs millions de personnes.
-202 Nous voyons donc où nous en sommes. Laodicée! Elle est tiède, rétrograde, myope et je ne
-sais quoi d’autre! Ce sont des mules! Une mule est une hybride, elle n’a pas le moindre bon-sens.
-Si vous lui parlez, elle dresse ses grandes oreilles et se met à braire: “Hi han! hi han!”. Il n’y a
-aucune douceur en elle. C’est une hybride qui est à mi-chemin entre le cheval et l’âne. C’est cela
-le problème, aujourd’hui: vous mettez ensemble le Nicolaïsme et Laodicée, et vous obtenez de
-nouveau une mule! Ils ne le savent pas! Vous leur parlez de la guérison divine, du baptême au
-Nom de Jésus, etc., et ils disent: «Hi han! mon pasteur ne croit pas… Hi han! nous ne croyons pas
-cela, nous les Presbytériens». Ignorants! C’est bien le mot qui leur convient! Que sont-ils?
-203 Je déteste les mules. Mais combien j’aime un bon cheval de race! On peut lui apprendre
-quelque chose! On peut lui apprendre à saluer, il peut travailler dans les cirques, il agit presque
-comme un être humain, parce qu’il sait quelque chose. Il a un pedigree. Une mule ne sait pas qui
-étaient son père ou sa mère, et elle ne peut se reproduire. C’est le cas de certaines de ces vieilles
-dénominations froides et formalistes: elles ne peuvent plus jamais se relever. C’est pourquoi
-l’église devient une dénomination: elle est morte! Elle ne ressuscitera jamais plus. Qu’est-ce que
-c’est? Une hybride!
-204 Les Luthériens étaient très bien, mais quand ils s’organisèrent, que firent-ils? Les Méthodistes
-étaient très bien, mais quand ils s’organisèrent, que firent-ils? Le Pentecôtisme était très bien,
+vieilles planches. Nous étions éclairés par la lumière de la lune, vous savez, car il y avait des trous gros comme cela dans le toit.
+195 S’il se mettait à neiger ou à pleuvoir, nous les petits, nous nous blottissions sous cette toile afin de ne pas être mouillés. Parfois, à cause du vent qui soufflait à travers ces trous, nous attrapions des rhumes, et nos yeux restaient collés. Vous savez, ils étaient fermés par le froid. Quand maman nous appelait le matin pour descendre, je disais: «Je ne peux pas venir, maman, parce que mes yeux sont tout collés!». J’avais cette chose dans les yeux, vous savez, à cause du froid. Je ne pouvais plus les ouvrir. Un des petits était encore couché, et moi et Humpy et les autres, essayions de lui ouvrir les yeux, mais nous n’y arrivions pas.
+196 Mon grand-père était trappeur, il trappait le raton laveur. Chez nous, la graisse de raton laveur était une panacée. On cirait les chaussures avec la graisse de raton laveur. Lorsqu’on avait le croup, ma mère y mêlait de la térébenthine, et nous faisait avaler cela.
+197 Quand nos paupières étaient collées, maman courait à la cuisine prendre son grand bol de graisse de raton laveur qu’elle mettait chauffer. Quand la graisse était bien chaude, maman montait et nous massait les yeux jusqu’à ce que la graisse ait bien pénétré. Au bout d’un moment, je pouvais ouvrir les yeux. La graisse les avait ouverts.
+198 Je vous le dis, nous avons eu de terribles vagues de froid! Une vague de froid a balayé le pays! Les Baptistes disent: «Le temps des miracles est passé. Le Saint-Esprit, cela n’existe pas, ni le parler en langues. Il n’y a pas de baptême au Nom du Seigneur Jésus!». Oh, il y a eu toutes sortes de courants froids, et beaucoup d’yeux ont été fermés par une sorte de froid spirituel. Il faudra plus que de la graisse de raton laveur pour leur ouvrir les yeux, frères! Il faudra un nouveau baptême du Saint-Esprit qui massera leurs yeux et les nettoiera, et vous guérira de votre myopie, afin que vous puissiez voir que la Parole de Dieu est la Vérité. C’est vrai! “Je te conseille d’acheter de Moi un collyre”. Quelque chose pour oindre vos yeux, vous comprenez!
+199 Les docteurs en théologie ont leur propre théologie, leurs parfums et tout cela, mais il faut plus que cela. Seul le Saint-Esprit peut donner la vision spirituelle qui permet de voir les puissances célestes en action. Le Saint-Esprit, le collyre du Saint-Esprit! Un collyre, c’est une huile chaude, nous le savons, et le Saint-Esprit est l’Huile de Dieu.
+200 Tous ces parfums des théologies! — «Cher frère, ce que vous faites est très bien! Il n’y a rien à redire en ce qui vous concerne. Tout est en ordre! Et nous avons la plus grande église de la ville!». Ce parfum-là n’a pas d’effet. Non! Cela vous conduira tout droit à la myopie, et vous direz: «Oui, nous avons la plus grande église!». Mais qu’arrivera-t-il au jour du Jugement qui vient, lorsque Dieu vous demandera des comptes à vous, membres de l’église de Laodicée?
+201 Ce n’est pas tellement pour cette assemblée-ci que je parle, mais ce que je dis est enregistré et va dans le monde entier, vous comprenez, c’est pourquoi, en ce moment, je parle en réalité à plusieurs millions de personnes.
+202 Nous voyons donc où nous en sommes. Laodicée! Elle est tiède, rétrograde, myope et je ne sais quoi d’autre! Ce sont des mules! Une mule est une hybride, elle n’a pas le moindre bon-sens. Si vous lui parlez, elle dresse ses grandes oreilles et se met à braire: “Hi han! hi han!”. Il n’y a aucune douceur en elle. C’est une hybride qui est à mi-chemin entre le cheval et l’âne. C’est cela le problème, aujourd’hui: vous mettez ensemble le Nicolaïsme et Laodicée, et vous obtenez de nouveau une mule! Ils ne le savent pas! Vous leur parlez de la guérison divine, du baptême au Nom de Jésus, etc., et ils disent: «Hi han! mon pasteur ne croit pas… Hi han! nous ne croyons pas cela, nous les Presbytériens». Ignorants! C’est bien le mot qui leur convient! Que sont-ils?
+203 Je déteste les mules. Mais combien j’aime un bon cheval de race! On peut lui apprendre quelque chose! On peut lui apprendre à saluer, il peut travailler dans les cirques, il agit presque comme un être humain, parce qu’il sait quelque chose. Il a un pedigree. Une mule ne sait pas qui étaient son père ou sa mère, et elle ne peut se reproduire. C’est le cas de certaines de ces vieilles dénominations froides et formalistes: elles ne peuvent plus jamais se relever. C’est pourquoi l’église devient une dénomination: elle est morte! Elle ne ressuscitera jamais plus. Qu’est-ce que c’est? Une hybride!
+204 Les Luthériens étaient très bien, mais quand ils s’organisèrent, que firent-ils? Les Méthodistes étaient très bien, mais quand ils s’organisèrent, que firent-ils? Le Pentecôtisme était très bien,
 
         http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 20
-mais quand vous l’avez organisé, qu’avez-vous fait? Vous avez hybridé cela, vous l’avez croisé
-avec l’église Catholique nicolaïte. C’est exactement ce que vous avez fait! Vous avez pris sa forme
-de baptême, vous avez pris ses manières et ses façons, et la Bible dit: “Tu es une fille de
-prostituée, une prostituée! une fille de prostituée!”. C’est parfaitement vrai!
-205 Un bon cheval de pure race est doux. C’est un bon cheval, comme je les aime. Il pose sa tête
-sur votre épaule, il est affectueux. Pourquoi? Il sait qui est son père, qui est son grand-père, il sait
-qui était le grand-père de son père. Il peut remonter dans sa généalogie, il a un pedigree!
-206 Et j’aime voir un véritable chrétien pur sang! Non pas comme ceux qui collectionnent les
-lettres d’adhésion, Méthodistes la semaine passée, Baptistes cette semaine, Pentecôtistes la
-semaine prochaine, et Pèlerins de la Sainteté la semaine suivante! Ils ne connaissent ni père, ni
-mère. Mais permettez-moi de vous dire qu’un homme né de l’Esprit de Dieu peut vous ramener
-tout droit au jour de Pentecôte: il a un pedigree, celui de Pentecôte! Amen! Je veux être de
-Pentecôte du sommet de la tête à la plante des pieds! Je ne parle pas de la dénomination
-Pentecôtisme, mais de la véritable puissance du Christ ressuscité, de la véritable bénédiction de
-Pentecôte.
-207 Un collyre pour ouvrir vos yeux, afin que vous puissiez regarder en arrière et voir d’où l’église
-est venue. Vous regardez seulement ce que l’église est aujourd’hui! Regardez en arrière et voyez
-d’où elle vient! Continuez d’avancer vers Dieu et vous vous éloignerez de l’église actuelle.
-Certainement!
-208 Bien, j’ai encore noté autre chose; il est dit: “Ils sont nus”. “Tu ne connais pas que toi, tu es…
-nu (c’est certain!)”.
-209 Oh, ils sont nus et ne le savent pas! Quelle triste situation que celle de l’homme malheureux,
-aveugle, misérable et nu! S’il le sait, il se sortira de là; mais s’il ne le sait pas, le pauvre être n’a
-plus son bon sens! N’est-ce pas vrai? Oh! le Seigneur ne mâche pas Ses mots! Cet homme n’a
-plus son bon sens, il n’en sait pas assez pour s’en sortir.
-210 Si vous voyez dans la rue quelqu’un qui est pauvre, misérable, aveugle, malheureux et nu, et
-que vous lui dites: «Frère, tu es nu!», il s’écriera: «Oh, c’est vrai? Oh, frère, faites-moi entrer
-quelque part, aidez-moi à m’habiller!».
-211 Mais si vous allez leur demander: «Dites, avez-vous reçu le Saint-Esprit depuis que vous avez
-cru?», ils vous répondront:
-212 «N’êtes-vous pas un de ces exaltés? Que prétendez-vous me dire? Ne me parlez pas ainsi!
-Je suis Presbytérien… je suis Baptiste… je suis ceci… je suis cela!…».
-213 Ils sont nus et ne le savent pas! Ce n’est pas moi qui ai dit cela, c’est la Bible, lorsqu’Elle parle
-de cet âge: “… tu ne connais pas que toi, tu es nu. Je te conseille d’acheter de moi… des
-vêtements blancs…”. Il a dit: “des vêtements blancs”. Ils sont pour les saints, c’est la justice des
-saints. Vous voyez?
-214 Nus? Bien sûr! Certainement! Vous pouvez bien dire: «Frère Branham, il ne s’agit pas de
-notre église! C’est l’église la mieux habillée de toute la ville!». Je n’en doute pas! Vous êtes à la
-dernière mode, vos vêtements sont coupés dans les meilleurs tissus, vous êtes à la dernière mode
-des stars d’Hollywood, vous êtes si provoquantes que vous attirez l’attention de tous les hommes
-dans la rue! C’est vrai!
-215 Une dame m’a dit: «Frère Branham, que pouvons-nous faire d’autre? Nous achetons ces
-robes dans les magasins: c’est tout ce que nous trouvons».
-216 Mais je lui dis: «On vend encore du tissu et des machines à coudre! Vous n’avez pas
-d’excuse!».
-217 La Bible dit: “Quiconque regarde une femme pour la convoiter a déjà commis adultère avec
-elle”. N’est-ce pas vrai? Alors, si la femme s’habille de façon provoquante et s’exhibe devant un
-homme, qui mérite le blâme? Elle! C’est elle qui a commencé! C’est l’exacte vérité!
-218 Vous pouvez être aussi pure qu’un lis envers votre mari, vous pouvez être une jeune fille qui
-n’a jamais rien fait de mal dans sa vie, être vierge le jour de votre mariage, mais si vous vous
-habillez comme cela et incitez les hommes à vous regarder ainsi, ils ont déjà commis adultère
-avec vous dans leur coeur. Ce pécheur vous a regardée! En tant que chrétienne, vous pouvez
+mais quand vous l’avez organisé, qu’avez-vous fait? Vous avez hybridé cela, vous l’avez croisé avec l’église Catholique nicolaïte. C’est exactement ce que vous avez fait! Vous avez pris sa forme de baptême, vous avez pris ses manières et ses façons, et la Bible dit: “Tu es une fille de prostituée, une prostituée! une fille de prostituée!”. C’est parfaitement vrai!
+205 Un bon cheval de pure race est doux. C’est un bon cheval, comme je les aime. Il pose sa tête sur votre épaule, il est affectueux. Pourquoi? Il sait qui est son père, qui est son grand-père, il sait qui était le grand-père de son père. Il peut remonter dans sa généalogie, il a un pedigree!
+206 Et j’aime voir un véritable chrétien pur sang! Non pas comme ceux qui collectionnent les lettres d’adhésion, Méthodistes la semaine passée, Baptistes cette semaine, Pentecôtistes la semaine prochaine, et Pèlerins de la Sainteté la semaine suivante! Ils ne connaissent ni père, ni mère. Mais permettez-moi de vous dire qu’un homme né de l’Esprit de Dieu peut vous ramener tout droit au jour de Pentecôte: il a un pedigree, celui de Pentecôte! Amen! Je veux être de Pentecôte du sommet de la tête à la plante des pieds! Je ne parle pas de la dénomination Pentecôtisme, mais de la véritable puissance du Christ ressuscité, de la véritable bénédiction de Pentecôte.
+207 Un collyre pour ouvrir vos yeux, afin que vous puissiez regarder en arrière et voir d’où l’église est venue. Vous regardez seulement ce que l’église est aujourd’hui! Regardez en arrière et voyez d’où elle vient! Continuez d’avancer vers Dieu et vous vous éloignerez de l’église actuelle. Certainement!
+208 Bien, j’ai encore noté autre chose; il est dit: “Ils sont nus”. “Tu ne connais pas que toi, tu es… nu (c’est certain!)”.
+209 Oh, ils sont nus et ne le savent pas! Quelle triste situation que celle de l’homme malheureux, aveugle, misérable et nu! S’il le sait, il se sortira de là; mais s’il ne le sait pas, le pauvre être n’a plus son bon sens! N’est-ce pas vrai? Oh! le Seigneur ne mâche pas Ses mots! Cet homme n’a plus son bon sens, il n’en sait pas assez pour s’en sortir.
+210 Si vous voyez dans la rue quelqu’un qui est pauvre, misérable, aveugle, malheureux et nu, et que vous lui dites: «Frère, tu es nu!», il s’écriera: «Oh, c’est vrai? Oh, frère, faites-moi entrer quelque part, aidez-moi à m’habiller!».
+211 Mais si vous allez leur demander: «Dites, avez-vous reçu le Saint-Esprit depuis que vous avez cru?», ils vous répondront:
+212 «N’êtes-vous pas un de ces exaltés? Que prétendez-vous me dire? Ne me parlez pas ainsi! Je suis Presbytérien… je suis Baptiste… je suis ceci… je suis cela!…».
+213 Ils sont nus et ne le savent pas! Ce n’est pas moi qui ai dit cela, c’est la Bible, lorsqu’Elle parle de cet âge: “… tu ne connais pas que toi, tu es nu. Je te conseille d’acheter de moi… des vêtements blancs…”. Il a dit: “des vêtements blancs”. Ils sont pour les saints, c’est la justice des saints. Vous voyez?
+214 Nus? Bien sûr! Certainement! Vous pouvez bien dire: «Frère Branham, il ne s’agit pas de notre église! C’est l’église la mieux habillée de toute la ville!». Je n’en doute pas! Vous êtes à la dernière mode, vos vêtements sont coupés dans les meilleurs tissus, vous êtes à la dernière mode des stars d’Hollywood, vous êtes si provoquantes que vous attirez l’attention de tous les hommes dans la rue! C’est vrai!
+215 Une dame m’a dit: «Frère Branham, que pouvons-nous faire d’autre? Nous achetons ces robes dans les magasins: c’est tout ce que nous trouvons».
+216 Mais je lui dis: «On vend encore du tissu et des machines à coudre! Vous n’avez pas d’excuse!».
+217 La Bible dit: “Quiconque regarde une femme pour la convoiter a déjà commis adultère avec elle”. N’est-ce pas vrai? Alors, si la femme s’habille de façon provoquante et s’exhibe devant un homme, qui mérite le blâme? Elle! C’est elle qui a commencé! C’est l’exacte vérité!
+218 Vous pouvez être aussi pure qu’un lis envers votre mari, vous pouvez être une jeune fille qui n’a jamais rien fait de mal dans sa vie, être vierge le jour de votre mariage, mais si vous vous habillez comme cela et incitez les hommes à vous regarder ainsi, ils ont déjà commis adultère avec vous dans leur coeur. Ce pécheur vous a regardée! En tant que chrétienne, vous pouvez
 
         http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE LAODICEE 21
-avoir les plus beaux habits de toute la ville et les meilleurs lainages, mais il ne convient pas à une
-sainte de Dieu de s’habiller ainsi. C’est vrai!
+avoir les plus beaux habits de toute la ville et les meilleurs lainages, mais il ne convient pas à une sainte de Dieu de s’habiller ainsi. C’est vrai!
 219 [Partie non enregistrée — N.d.R.] … c’est vrai! ce n’est pas digne d’une enfant de Dieu!
-220 Elles disent: «Dans notre église…». Etes-vous bien habillées? Elles disent que oui! “Je suis
-riche… je n’ai besoin de rien”. Bien sûr! Ils disent: «Même notre pasteur porte une belle grande
-robe, et tous les choristes ont de grandes robes de choeur!». Mais là-dessous, c’est le diable qui
-se cache! Oui, c’est vrai! Mais je préfère ne rien dire de plus à ce sujet…
-221 Oh, toutes ces grandes choses! Des choristes vêtues de longues robes, des choeurs qui se
-font payer pour chanter! Il faut donner tant au prédicateur, sinon il prendra une autre charge qui lui
-rapportera un peu plus. Il rassemblera le conseil d’administration de l’église pour leur dire: «Frères,
-vous avez été très bons avec moi, vous m’avez donné tant par semaine. Mais dans l’autre église
-Presbytérienne… (appelez-la Pentecôtiste ou comme vous voudrez) …de là-bas, ils ont promis de
-me donner tant de plus que vous…».
-222 Alors, que peut recevoir un pauvre saint? Quelle chance a-t-il? Une pauvre petite église
-remplie du Saint-Esprit, quelle chance a-t-elle? Elle n’aura jamais les moyens de s’offrir cela! C’est
-pourquoi, le Seigneur nous suscite quelqu’un (amen!), quelqu’un qu’Il a cueilli de Sa propre main:
-Il le remplit du Saint-Esprit et l’établit comme surveillant général. Il l’envoie et lui dit: “Je te conseille
-d’acheter de Lui des vêtements blancs”. La Bible dit: “Les vêtements blancs sont la justice des
-saints”.
-223 Maintenant, je crois que nous arrivons au verset 20, pour autant que je sache; oui, et nous
-terminerons là-dessus. Ecoutez attentivement, dans le silence, tandis que nous le lirons. Ecoutez:
-     “Voici, je me tiens à la porte et je frappe: si quelqu’un entend ma voix et qu’il ouvre la
-     porte, j’entrerai chez lui et je souperai avec lui, et lui avec moi. Celui qui vaincra, je lui
-     donnerai de s’asseoir avec moi sur mon trône, comme moi aussi j’ai vaincu, et je me suis
-     assis avec mon Père sur son trône. Que celui qui a des oreilles écoute ce que l’Esprit dit
-     aux assemblées”.
-224 Voilà l’une des déclarations les plus importantes que j’aie jamais vues dans le Nouveau
-Testament. Je voudrais que vous remarquiez cette phrase: “Je me tiens à la porte et je frappe”. Ce
-verset est généralement utilisé comme un appel aux pécheurs. N’est-ce pas? Nous disons aux
-pécheurs: «Jésus est à la porte, et Il frappe». Mais ici, Il frappe à la porte de l’église, car autrefois,
-Il a marché avec elle, mais avec son organisation, sa mondanité et sa froideur, elle L’a rejeté. Il est
-en dehors de l’église.
-225 Avant que nous terminions, rappelez-vous que dans le premier des âges de l’église, Il
-marchait au milieu de sept lampes d’or (n’est-ce pas?), au milieu des sept âges de l'église. Et ici, à
-la fin, nous Le trouvons en dehors de quelle église? Celle de Laodicée, en dehors de l’église de
-Laodicée! Ils L’ont mis dehors, ils L’ont exclu. Et Le voilà qui Se tient dehors et qui essaie d’entrer!
-Quelle image lamentable! Le Sauveur du monde reste en dehors de l’église qu’Il a rachetée par
-Son propre Sang! Honte à elle!
-226 “Je me tiens à la porte et je frappe”. Après avoir été exclu, mis dehors, Il essaie de rentrer! Il
-revient en suppliant et frappe à la porte. C’est le passage le plus frappant de tout le Nouveau
-Testament. Je pense qu’il ne peut rien y avoir de plus triste que de voir le Sauveur du monde
-rejeté hors de Sa propre église, dans cet âge de Laodicée. Après qu’Il leur eut montré ce qu’ils
-avaient fait, ce qu’était leur richesse, dans quel état ils étaient, combien ils étaient tièdes… Il n’a
-pas eu besoin de les vomir: ce sont eux qui L’ont vomi, Lui! Mais malgré tout, Il continue de frapper
-à la porte et essaie de rentrer. Pour quoi faire? Pour leur donner la Vie Eternelle! Il essaie de
-sauver l’âme de ceux-là mêmes qui L’ont fait mourir au Calvaire! C’est le tableau le plus pathétique
-que j’aie jamais vu de ma vie.
-227 Ils L’ont exclu! De quoi a-t-Il été exclu? Ecoutez bien maintenant, mes amis! N’est-ce pas
-frappant? Essayez de bien vous représenter ce tableau et gravez-le dans votre coeur! Notre
-Sauveur, quand Il était sur terre, fut exclu de Sa propre nation. Il fut rejeté, exclu. Le monde L’a
-exclu et crucifié. Et maintenant, c’est de Sa propre église qu’Il est exclu. On ne veut plus de Lui
-nulle part, on n’a plus besoin de Lui. Il sont une dénomination, ils n’ont pas besoin de Lui. Ils ont
-un pape, pourquoi donc auraient-ils encore besoin de Lui? Ils ont un archevêque, un surveillant
+220 Elles disent: «Dans notre église…». Etes-vous bien habillées? Elles disent que oui! “Je suis riche… je n’ai besoin de rien”. Bien sûr! Ils disent: «Même notre pasteur porte une belle grande robe, et tous les choristes ont de grandes robes de choeur!». Mais là-dessous, c’est le diable qui se cache! Oui, c’est vrai! Mais je préfère ne rien dire de plus à ce sujet…
+221 Oh, toutes ces grandes choses! Des choristes vêtues de longues robes, des choeurs qui se font payer pour chanter! Il faut donner tant au prédicateur, sinon il prendra une autre charge qui lui rapportera un peu plus. Il rassemblera le conseil d’administration de l’église pour leur dire: «Frères, vous avez été très bons avec moi, vous m’avez donné tant par semaine. Mais dans l’autre église Presbytérienne… (appelez-la Pentecôtiste ou comme vous voudrez) …de là-bas, ils ont promis de me donner tant de plus que vous…».
+222 Alors, que peut recevoir un pauvre saint? Quelle chance a-t-il? Une pauvre petite église remplie du Saint-Esprit, quelle chance a-t-elle? Elle n’aura jamais les moyens de s’offrir cela! C’est pourquoi, le Seigneur nous suscite quelqu’un (amen!), quelqu’un qu’Il a cueilli de Sa propre main: Il le remplit du Saint-Esprit et l’établit comme surveillant général. Il l’envoie et lui dit: “Je te conseille d’acheter de Lui des vêtements blancs”. La Bible dit: “Les vêtements blancs sont la justice des saints”.
+223 Maintenant, je crois que nous arrivons au verset 20, pour autant que je sache; oui, et nous terminerons là-dessus. Ecoutez attentivement, dans le silence, tandis que nous le lirons. Ecoutez:
+     “Voici, je me tiens à la porte et je frappe: si quelqu’un entend ma voix et qu’il ouvre la porte, j’entrerai chez lui et je souperai avec lui, et lui avec moi. Celui qui vaincra, je lui donnerai de s’asseoir avec moi sur mon trône, comme moi aussi j’ai vaincu, et je me suis assis avec mon Père sur son trône. Que celui qui a des oreilles écoute ce que l’Esprit dit aux assemblées”.
+224 Voilà l’une des déclarations les plus importantes que j’aie jamais vues dans le Nouveau Testament. Je voudrais que vous remarquiez cette phrase: “Je me tiens à la porte et je frappe”. Ce verset est généralement utilisé comme un appel aux pécheurs. N’est-ce pas? Nous disons aux pécheurs: «Jésus est à la porte, et Il frappe». Mais ici, Il frappe à la porte de l’église, car autrefois, Il a marché avec elle, mais avec son organisation, sa mondanité et sa froideur, elle L’a rejeté. Il est en dehors de l’église.
+225 Avant que nous terminions, rappelez-vous que dans le premier des âges de l’église, Il marchait au milieu de sept lampes d’or (n’est-ce pas?), au milieu des sept âges de l'église. Et ici, à la fin, nous Le trouvons en dehors de quelle église? Celle de Laodicée, en dehors de l’église de Laodicée! Ils L’ont mis dehors, ils L’ont exclu. Et Le voilà qui Se tient dehors et qui essaie d’entrer! Quelle image lamentable! Le Sauveur du monde reste en dehors de l’église qu’Il a rachetée par Son propre Sang! Honte à elle!
+226 “Je me tiens à la porte et je frappe”. Après avoir été exclu, mis dehors, Il essaie de rentrer! Il revient en suppliant et frappe à la porte. C’est le passage le plus frappant de tout le Nouveau Testament. Je pense qu’il ne peut rien y avoir de plus triste que de voir le Sauveur du monde rejeté hors de Sa propre église, dans cet âge de Laodicée. Après qu’Il leur eut montré ce qu’ils avaient fait, ce qu’était leur richesse, dans quel état ils étaient, combien ils étaient tièdes… Il n’a pas eu besoin de les vomir: ce sont eux qui L’ont vomi, Lui! Mais malgré tout, Il continue de frapper à la porte et essaie de rentrer. Pour quoi faire? Pour leur donner la Vie Eternelle! Il essaie de sauver l’âme de ceux-là mêmes qui L’ont fait mourir au Calvaire! C’est le tableau le plus pathétique que j’aie jamais vu de ma vie.
+227 Ils L’ont exclu! De quoi a-t-Il été exclu? Ecoutez bien maintenant, mes amis! N’est-ce pas frappant? Essayez de bien vous représenter ce tableau et gravez-le dans votre coeur! Notre Sauveur, quand Il était sur terre, fut exclu de Sa propre nation. Il fut rejeté, exclu. Le monde L’a exclu et crucifié. Et maintenant, c’est de Sa propre église qu’Il est exclu. On ne veut plus de Lui nulle part, on n’a plus besoin de Lui. Il sont une dénomination, ils n’ont pas besoin de Lui. Ils ont un pape, pourquoi donc auraient-ils encore besoin de Lui? Ils ont un archevêque, un surveillant
 
         http://www.cmpp.ch
 
@@ -1663,9 +1291,6 @@ Seigneur! C’est comme le Ciel!».
     Quand les tentations t’environnent,
     Murmure simplement ce Saint Nom dans la prière.
     Précieux Nom, Nom si doux!
-
-
-
 
 
 

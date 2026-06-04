@@ -1,301 +1,192 @@
+---
+source: "cmpp"
+sermon_id: "rev11"
+title: "La Révélation de Jésus-Christ — Apocalypse, Chapitre Quatre"
+date: "1960-12-31"
+year: 1960
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Branham"
+summary: "William Branham prêche sur Apocalypse chapitre 4 lors d'un service du Nouvel An. Il introduit le chapitre en rappelant les âges de l'Église, en particulier Laodicée où Jésus est rejeté de son Église. Il souligne l'importance de la prière et de l'humilité, contrastant avec le spectacle religieux."
+tags:
+  - "Apocalypse"
+  - "révélation"
+  - "Église"
+  - "Laodicée"
+  - "Nouvel An"
+  - "prière"
+  - "humilité"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Jean"
+  - "Paul"
+  - "Siméon"
+  - "Anne"
+  - "Jean-Baptiste"
+  - "Esaïe"
+  - "Barabbas"
+places:
+  - "Patmos"
+  - "Jeffersonville"
+  - "Indiana"
+  - "Jourdain"
+  - "Jérusalem"
+  - "Sodome"
+  - "Gomorrhe"
+themes:
+  - "rejet de Christ"
+  - "prière de foi"
+  - "humilité"
+  - "préparation pour la nouvelle année"
+  - "jugement"
+  - "grâce"
+pdf_url: "http://cmpp.ch/rev11.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 4"
+  - "2 Corinthiens 12"
+  - "Apocalypse 1"
+  - "Apocalypse 19"
+  - "Apocalypse 3"
+  - "Apocalypse 4"
+  - "Apocalypse 45"
+  - "Apocalypse 57"
+  - "Jean 10"
+  - "Jean 21"
+  - "Matthieu 16"
+---
 WILLIAM MARRION BRANHAM
 
+La Révélation de Jésus-Christ
 
-La Révélation
-de
-Jésus-Christ
+# Chapitre Quatre
 
+## LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE
 
-
-
-11    Chapitre Quatre
-
-    LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE    2
-
- LA REVELATION DE JESUS-CHRIST
-
-  APOCALYPSE, CHAPITRE QUATRE
-
- 31 décembre 1960, samedi soir
-       Branham Tabernacle
+31 décembre 1960, samedi soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 … Et je crois que c’est l’attitude de beaucoup de gens. C’est très gentil de la part de cette jeune soeur, ce dernier verset. J’apprécie beaucoup cela. Et comme nous entrons dans la nuit de Nouvel An, je ne pense pas qu’on puisse chanter quelque chose de mieux, de plus approprié à cette nuit.
 
+2 Cette année a l’air de bien commencer: il y a de la neige et de la boue, un vrai temps d’Indiana à cette époque de l’année! C’est la même chose pour vous qui venez de la Georgie et de l’Ohio. Vous, frère et soeur Dauche, vous savez ce que c’est parce que, dans l’Ohio, c’est pareil. Mais nous allons vers un Pays où il n’y aura rien de tout cela. Vous voyez, c’est cela l’important.
 
+3 Nous sommes au soir de Nouvel-An. Comme d’habitude, tout le monde a fait un voeu et noté un engagement par écrit pour la nouvelle année, mais il ne se passera pas deux jours que tous ces voeux et engagements soient rompus! C’est ainsi chaque année: on tourne une nouvelle page, mais le jour suivant on recommence à faire les mêmes choses.
 
+4 Mais il y a juste une chose que je voudrais dire comme l’apôtre Paul: “Oubliant ce qui est en arrière, et me portant vers ce qui est en avant, je cours vers le but, pour remporter le prix de la vocation céleste de Dieu en Jésus-Christ”. Les seuls regrets que j’aie, ce sont mes erreurs de l’année dernière et ma vie passée; je Lui demande simplement et avec humilité la grâce de courir vers le but de la vocation céleste. Je suis certain que c’est le témoignage de nous tous; nous pensons tous ainsi.
 
-1 … Et je crois que c’est l’attitude de beaucoup de gens. C’est très gentil de la part de cette
-jeune soeur, ce dernier verset. J’apprécie beaucoup cela. Et comme nous entrons dans la nuit de
-Nouvel An, je ne pense pas qu’on puisse chanter quelque chose de mieux, de plus approprié à
-cette nuit.
-2 Cette année a l’air de bien commencer: il y a de la neige et de la boue, un vrai temps
-d’Indiana à cette époque de l’année! C’est la même chose pour vous qui venez de la Georgie et de
-l’Ohio. Vous, frère et soeur Dauche, vous savez ce que c’est parce que, dans l’Ohio, c’est pareil.
-Mais nous allons vers un Pays où il n’y aura rien de tout cela. Vous voyez, c’est cela l’important.
-3 Nous sommes au soir de Nouvel-An. Comme d’habitude, tout le monde a fait un voeu et noté
-un engagement par écrit pour la nouvelle année, mais il ne se passera pas deux jours que tous
-ces voeux et engagements soient rompus! C’est ainsi chaque année: on tourne une nouvelle page,
-mais le jour suivant on recommence à faire les mêmes choses.
-4 Mais il y a juste une chose que je voudrais dire comme l’apôtre Paul: “Oubliant ce qui est en
-arrière, et me portant vers ce qui est en avant, je cours vers le but, pour remporter le prix de la
-vocation céleste de Dieu en Jésus-Christ”. Les seuls regrets que j’aie, ce sont mes erreurs de
-l’année dernière et ma vie passée; je Lui demande simplement et avec humilité la grâce de courir
-vers le but de la vocation céleste. Je suis certain que c’est le témoignage de nous tous; nous
-pensons tous ainsi.
-5 Je regrette qu’il fasse si mauvais temps ce soir et que des gens n’aient pas pu venir. J’ai
-téléphoné à frère Neville: je ne savais même pas s’il pourrait venir! Frère Skaggs est venu du
-Kentucky où il y a un mètre de neige. «Il y en a à peu près haut comme cela», m’a-t-il dit, et il a
-fallu qu’un paysan le tire avec son tracteur jusqu’au sommet de la colline. Aussi je pensais: «Tant
-qu’il n’y en a qu’une dizaine de centimètres, cela ne nous gêne pas». Les routes sont praticables
-et tout le monde peut passer.
-6 Dans une soirée comme celle-ci, il vient un grand nombre de prédicateurs de toutes sortes. Et
-ce soir, il y en aura qui seront venus de tous les coins du pays que nous entendrons jusqu’à
-minuit. Je crois qu’ils viennent veiller avec nous pour terminer cette année et commencer la
-nouvelle. D’habitude, ils viennent se rassembler autour de l’autel pour prier et faire des voeux à
-Dieu ou renouveler leurs voeux.
-7 J’ai téléphoné à frère Neville pour voir s’il pourrait venir; je lui ai dit: «Si vous ne venez pas,
-j’essaierai de conduire la réunion du mieux que je peux». S’il ne peut pas être ici demain matin, je
-continuerai à faire tout ce que je pourrai tant qu’il ne sera pas là. Je lui ai dit que j’allais essayer ce
-soir, pensant n’avoir qu’un message d’une quinzaine de minutes. Je vois d’ailleurs qu’il y a
-plusieurs autres prédicateurs assis ici qui attendent.
-8 Je pensais continuer dans le livre de l’Apocalypse, en suivant, prenant pour commencer le
-chapitre 4. Si nous ne le terminons pas cette fois, nous finirons la prochaine fois. Puis nous
-prendrons le cinquième chapitre, le sixième, et ainsi de suite tant que nous le pourrons. Que le
-Seigneur nous aide pour cela!
-9 Avant de commencer, je voudrais mentionner la présence parmi nous d’un couple de
+5 Je regrette qu’il fasse si mauvais temps ce soir et que des gens n’aient pas pu venir. J’ai téléphoné à frère Neville: je ne savais même pas s’il pourrait venir! Frère Skaggs est venu du Kentucky où il y a un mètre de neige. «Il y en a à peu près haut comme cela», m’a-t-il dit, et il a fallu qu’un paysan le tire avec son tracteur jusqu’au sommet de la colline. Aussi je pensais: «Tant qu’il n’y en a qu’une dizaine de centimètres, cela ne nous gêne pas». Les routes sont praticables et tout le monde peut passer.
 
-        http://www.cmpp.ch
+6 Dans une soirée comme celle-ci, il vient un grand nombre de prédicateurs de toutes sortes. Et ce soir, il y en aura qui seront venus de tous les coins du pays que nous entendrons jusqu’à minuit. Je crois qu’ils viennent veiller avec nous pour terminer cette année et commencer la nouvelle. D’habitude, ils viennent se rassembler autour de l’autel pour prier et faire des voeux à Dieu ou renouveler leurs voeux.
 
-    LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE    3
-visiteurs, frère Drummond Thoms et sa femme. Il y a le père et la mère de sa femme qui sont ici ce
-soir. Ils viennent juste de rentrer d’Afrique où ils ont eu de grandes réunions pour le salut des
-âmes et des réunions de guérison Divine. Je crois que cette dame a pris la place de sa
-grand-mère, l’autre jour, pour visiter les prisons. Et les pécheurs viennent au Seigneur. C’est
-vraiment merveilleux comme Dieu utilise ce jeune couple. Ils sont maintenant en Amérique pour
-quelque temps pour faire un peu d’évangélisation.
-10 Si l’un des pasteurs qui sont ici… Je veux écrire à frère Drummond… Drummond… j’ai
-complètement embrouillé son nom! Pourquoi n’a-t-il pas simplement un nom bien anglais? On va
-lui donner un numéro, n’est-ce pas, parce que je ne peux pas m’en souvenir! Je ne pense pas que
-la moitié d’entre nous y arrivent! «Drummont», je crois que c’est la façon correcte de le prononcer;
-et il y a aussi soeur Charlotte. Si l’un de vous désirait les avoir chez eux, cela me ferait bien plaisir
-d’entendre dire qu’ils sont allés dans votre église!
-11 Cette dame, soeur Charlotte, est encore presque une enfant. Il y a quelque temps, elle a
-donné à Meda son témoignage sur les expériences qu’ils ont faites en Afrique. Billy, cela me
-rappelle le bon vieux temps! on dirait qu’on entend parler des Africains du Sud. Vous voyez, la
-bataille se poursuit là-bas aussi bien qu’ici.
-12 Si quelqu’un désire avoir frère Drummond et soeur Charlotte pour une campagne dans son
-église, téléphonez simplement au frère Tony Zable au numéro MELrose 7-3945. Si vous voulez le
-noter, vous les pasteurs qui êtes ici; je recommande vraiment ce frère, car c’est un bon
-prédicateur, un homme sincère qui a vraiment besoin d’être lancé. Il est courageux, c’est un bon
-garçon, et je l’aime beaucoup. Rappelez-vous ce numéro: MELrose 7-3945. Je vais laisser cette
-petite carte ici; c’est leur carte de visite. Si vous n’avez pas pu noter ce numéro, eh bien, vous
-pouvez venir le relever n’importe quand pendant les interruptions entre les différents services de
-ce soir. Notez leur numéro et téléphonez-leur, si vous voulez les avoir dans votre église pour une
-réunion ou pour le communiquer à quelqu’un dont vous savez qu’il aimerait les recevoir, parce
-qu’ils sont en train de faire une croisade au travers du continent américain.
-13 C’est quelque chose, cela, n’est-ce pas? L’Afrique doit nous envoyer des missionnaires ici en
-Amérique! Voilà où nous en avons besoin! ici même, parce que c’est pire que là-bas!
-14 Combien sont heureux et joyeux d’avoir encore été gardés pendant une année par le
-Seigneur? Nous voici entrain d’arriver au bout de la route, et je prie Dieu qu’Il nous pardonne tous
-nos péchés et nos manquements.
-15 Maintenant, je veux encore dire ceci avant de commencer: je souhaite à chacun de vous la
-nouvelle année la plus réussie et la plus bénie, et la meilleure santé que je puisse vous souhaiter.
-Que Dieu soit avec vous! Puissiez-vous croître à la fois physiquement, spirituellement,
-financièrement et matériellement. Tout ce que Dieu peut vous apporter, je prie qu’Il le fasse.
-16 Moi aussi, j’ai devant moi une nouvelle année: Dieu seul sait ce que nous réserve le futur. Et
-nos décisions doivent être prises tout de suite. Toutes nos affaires sont prêtes pour la nouvelle
-salle de gymnastique. Tout est prêt maintenant pour les invitations et tout le reste, et cela pour le
-monde entier, et nous attendons de voir où le Seigneur nous conduira. Je réclame vraiment vos
-prières; je vous demande de prier, de tout votre coeur, que Dieu ne me laisse jamais m’égarer. Et
-maintenant, je vous souhaite une bonne année!
-17 Souvent, les gens se méprennent. Ils disent: «Frère Branham, vous n’allez plus aux endroits
-où vous aviez l’habitude d’aller. Vous ne faites pas comme ces autres prédicateurs qui ont…». J’ai
-appris une chose, un enseignement de notre Bible et de notre Seigneur: c’est que Jésus n’était
-pas un metteur en scène. Il n’avait pas ce talent, il Lui manquait le sens de la mise en scène. Vous
-voyez, Il n’était pas du tout un homme de théâtre. Et je ne crois pas que Ses disciples aient du
-talent pour la mise en scène. Jamais ils ne se sont donnés en spectacle.
-18 C’est sur ce point, je pense, que beaucoup manquent le coche aujourd’hui (peut-être est-ce
-seulement une idée personnelle?). S’il nous faut tout annoncer à grand bruit, je crois que cela
-ressemble plus à un spectacle qu’à une chose sacrée.
-19 Avez-vous remarqué qui sont ceux qui ont réellement reçu le Seigneur lors de Sa première
-venue? Il y eut Siméon. Personne n’avait jamais entendu parler de lui, mais il attendait le
-Seigneur. Il y eut Anne, l’aveugle, dans le temple, et Jean-Baptiste, dans le désert.
-20 Jean partit au désert à l’âge de neuf ans; il n’en revint qu’à l’âge de trente ans. Il vécut dans le
+7 J’ai téléphoné à frère Neville pour voir s’il pourrait venir; je lui ai dit: «Si vous ne venez pas, j’essaierai de conduire la réunion du mieux que je peux». S’il ne peut pas être ici demain matin, je continuerai à faire tout ce que je pourrai tant qu’il ne sera pas là. Je lui ai dit que j’allais essayer ce soir, pensant n’avoir qu’un message d’une quinzaine de minutes. Je vois d’ailleurs qu’il y a plusieurs autres prédicateurs assis ici qui attendent.
 
-    http://www.cmpp.ch
+8 Je pensais continuer dans le livre de l’Apocalypse, en suivant, prenant pour commencer le chapitre 4. Si nous ne le terminons pas cette fois, nous finirons la prochaine fois. Puis nous prendrons le cinquième chapitre, le sixième, et ainsi de suite tant que nous le pourrons. Que le Seigneur nous aide pour cela!
 
-    LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE    4
-désert. C’étaient des hommes dont la foi était secrète, qui restaient humbles et attendaient la
-venue du Seigneur. Ils ne firent jamais de publicité à grand tapage pour leurs réunions, ils ne
-mettaient pas de grandes affiches indiquant l’heure et le jour ni ne faisaient d’annonces à la
-télévision et tout le reste. C’est très bien pour ceux qui veulent le faire de cette façon, mais je
-trouve que cela ne ressemble pas à ce que faisait Christ.
-21 Je sais qu’une fois, Ses frères Lui dirent: “Toi qui fais ces miracles et ces choses, pourquoi ne
-vas-Tu pas à Jérusalem? Nous allons partir pour la fête de la Pâque; appelle Caïphe, le nouveau
-sacrificateur, et les autres, et fais-leur connaître ce que Tu fais. Fais-le devant eux afin qu’ils
-puissent voir Tes oeuvres. Pourquoi perds-Tu ton temps près de la rivière avec une bande de
-pêcheurs et de ces gens du bas peuple? Pourquoi ne vas-Tu pas là-bas pour que tout le monde
-puisse voir?”. Vous voyez?
-22 Mais Jésus leur répondit: “Il est toujours temps pour vous, mais Mon heure n’est pas encore
-venue”.
-23 L’Ecriture a parlé de la venue de Jean-Baptiste. Esaïe dit, environ sept cent douze ans avant
-sa naissance: “Une voix criera dans le désert”. Il dit: “Toutes les montagnes sauteront comme des
-agneaux, toutes les feuilles frapperont des mains, les lieux élevés seront abaissés, les lieux bas
-seront élevés”.
-24 Faire de telles prophéties! Que pensez-vous qu’aient pu dire les prédicateurs de ce temps-là
-en considérant ces prophéties? Ils ont sûrement dit: “Oh, quand ce grand prophète viendra, tout le
-monde le saura! Dieu ouvrira les rideaux du ciel, les allées des cieux s’abaisseront, un char de feu
-descendra et une fanfare d’anges l’escortera vers la terre”.
-25 Mais quand il vint, ce n’était qu’un prédicateur barbu vêtu d’une peau de brebis, une ceinture
-de cuir autour des reins. Il ne se baignait probablement que tous les trois ou quatre mois. Il
-apparut là-bas, dans le désert, se tenant dans la boue jusqu’aux genoux et prêchant:
-“Repentez-vous, car le Royaume des Cieux est proche!”. Il n’alla jamais dans une ville. Si
-quelqu’un voulait l’entendre, il devait aller au bord du Jourdain. Mais ils ne voulaient pas y aller.
-Qu’a-t-il fait? Il secoua le pays, il secoua le monde entier.
-26 Une secousse vint sur ce peuple, mais il ne s’aperçut de rien. Lorsque Jésus vint, Il ne Se
-montra pas parmi les grands. Il vint vers les Siens, vers ceux qui Le cherchaient. C’est alors que
-vint la secousse. C’est encore ce qu’Il fait aujourd’hui. Le Saint-Esprit vient vers ceux que Dieu a
-appelés. Il y a une grande secousse parmi les élus. Quelque chose de puissant et de glorieux se
-passe, mais le monde n’y voit rien.
-27 Ils pensent que toute cette grande machine, les émissions dans le monde entier, les
-programmes télévisés, ces bâtiments valant des millions de dollars et tout le reste, c’est cela qu’il
-faut, c’est cela qui est glorieux. Mais c’est une folie aux yeux de Dieu! Dieu ne regarde pas aux
-grandes choses. Ce que les hommes appellent folie, Dieu l’appelle grand; et ce que les hommes
-appellent grand, Dieu l’appelle folie. — “Il Lui a plu de sauver ceux qui étaient perdus par la folie
-de la prédication”.
-28 Voyons Jean maintenant. Que pensez-vous que les gens dirent? — “Il y a là-bas un vieux
-fanatique barbu qui vient du désert, vêtu d’une peau de brebis. Il se tient nu-pieds dans la boue au
-bord du Jourdain et reste là à raconter des histoires. Qui a jamais entendu une chose pareille?”.
-29 Quand Jésus vint, on dit de Lui: “Un Messie né dans une étable, sur un tas de paille, au milieu
-du bétail meuglant tout autour? Quant à Sa mère… Il n’est qu’un enfant illégitime, puisque Sa
-mère était enceinte avant d’être mariée! Il est né hors du lien conjugal! Çà, le Messie?”. Vous
-voyez! C’était pourtant quelque chose de grand, mais ils ne s’en aperçurent pas! Ils n’y comprirent
-rien!
-30 C’est ainsi qu’est l’Evangile aujourd’hui: Il est glorieux! Et l’Evangile secoue comme Il ne l’a
-jamais fait auparavant, mais Il secoue au milieu du petit reste. C’est vrai, Il fait cela pour les
-préparer.
-31 Il est venu vers les Siens, mais les Siens ne L’ont pas reçu. Il dit à Ses disciples: “N’allez pas
-vers les nations, mais allez plutôt vers les brebis perdues d’Israël. Et quand vous irez, celui qui
-vous recevra Me recevra. Si vous entrez dans une ville et qu’ils ne vous reçoivent pas, secouez la
-poussière de vos pieds et partez. En vérité, Je vous le dis, Sodome et Gomorrhe seront traités
-moins sévèrement que cette ville-là le jour du jugement”. Toutes ces villes qui ont repoussé ces
+9 Avant de commencer, je voudrais mentionner la présence parmi nous d’un couple de visiteurs, frère Drummond Thoms et sa femme. Il y a le père et la mère de sa femme qui sont ici ce soir. Ils viennent juste de rentrer d’Afrique où ils ont eu de grandes réunions pour le salut des âmes et des réunions de guérison Divine. Je crois que cette dame a pris la place de sa grand-mère, l’autre jour, pour visiter les prisons. Et les pécheurs viennent au Seigneur. C’est vraiment merveilleux comme Dieu utilise ce jeune couple. Ils sont maintenant en Amérique pour quelque temps pour faire un peu d’évangélisation.
 
-     http://www.cmpp.ch
+10 Si l’un des pasteurs qui sont ici… Je veux écrire à frère Drummond… Drummond… j’ai complètement embrouillé son nom! Pourquoi n’a-t-il pas simplement un nom bien anglais? On va lui donner un numéro, n’est-ce pas, parce que je ne peux pas m’en souvenir! Je ne pense pas que la moitié d’entre nous y arrivent! «Drummont», je crois que c’est la façon correcte de le prononcer; et il y a aussi soeur Charlotte. Si l’un de vous désirait les avoir chez eux, cela me ferait bien plaisir d’entendre dire qu’ils sont allés dans votre église!
 
-    LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE    5
-hommes ne sont plus que des cendres aujourd’hui. Toutes celles qui L’ont reçu tiennent encore
-aussi ferme que les étoiles. C’est vrai! Il Lui faut du temps pour répondre, mais Dieu répond, ne
-vous en faites pas! Je ne vais pas me lancer là-dessus, sinon je ne pourrai jamais aborder
-l’Apocalypse.
-        Je désire Le voir, Le voir face à face,
-        Et pour toujours contempler Sa divine Grâce,
-        Dans les rues pavées d’or,
-        Elever ma voix:
-        Les soucis sont finis,
-        Je suis à l’abri.
-32 J’aime cela! Levons-nous et courbons nos têtes pour un instant de prière. La Bible dit: “Quand
-vous vous levez pour prier, pardonnez”. Combien ici ont une requête à présenter? Faites-le
-simplement connaître en levant la main. Rappelez-vous que Dieu le voit et qu’Il sait tout à ce sujet.
-33 Notre Père céleste, nous nous approchons de Ta sainteté divine au Nom du Seigneur Jésus,
-ce Nom entièrement suffisant qui a été donné ici parmi les hommes afin que toutes les familles des
-Cieux et de la terre portent le Nom de Jésus.
-34 Nous Te prions, Seigneur, de bien vouloir recevoir nos actions de grâces. Tout d’abord, il y a
-cette année qui va se terminer pendant le service de ce soir dans la louange, dans l’étude de Ta
-Parole, et en sachant ce que signifie le “Ainsi dit le Seigneur”. Quelle liste de sujets de
-reconnaissance nous pourrions mettre sur le papier! Ces dangers auxquels nous avons échappé
-de justesse cette année, alors que Satan essayait de nous ôter la vie… mais Tu n’as pas encore
-terminé avec nous! C’est pourquoi nous continuons. Nous croyons, Seigneur, que nous sommes
-nés et avons grandi dans ce monde uniquement pour T’honorer et Te glorifier.
-35 Nous Te demandons, Père, de nous pardonner toutes les transgressions et toutes les erreurs
-que nous avons commises durant ce voyage. Oublions nos erreurs ce soir, tandis que nous les
-confessons, les ensevelissant dans l’océan de l’oubli au Nom du Seigneur Jésus; nous ne voulons
-plus les ramener à la surface, mais nous courons vers le but, vers cet Homme parfait,
-Jésus-Christ. Accorde-le nous ce soir, ô Seigneur.
-36 Lorsque chacun de Tes serviteurs parlera, veuille les oindre de l’Esprit de Vie, et qu’ils
-prêchent comme jamais auparavant pour apporter ce soir le message à l’église.
-37 Nous sommes rassemblés sous ce toit pour lequel nous Te sommes reconnaissants,
-Seigneur. Nous sommes reconnaissants d’avoir un bon feu auprès duquel nous asseoir, d’avoir un
-toit au-dessus de nos têtes: c’est tout ce qui est nécessaire.
-38 Car nos trésors ne sont pas dans ce monde, ils sont dans le monde à venir. O Dieu, nous
-nous tenons là où nous croyons que les voleurs ne peuvent pénétrer et dérober, où la teigne ne
-peut détruire, car notre trésor, c’est la Vie éternelle. Et nous Te prions, Père, de nous permettre de
-chérir cela tous les jours de notre vie.
-39 Fais de nous des serviteurs accomplis. Enlève tout mal de nous, Seigneur, tout le passé. Que
-toutes les racines de la malice et de l’amertume soient ôtées de notre vie et que nous soyons
-humbles et doux devant Toi. Accorde-le, ô Seigneur! Que cette année qui vient soit pour nous
-l’année la plus glorieuse que nous ayons jamais eue. Accorde-le nous! Donne-nous ce soir Ta
-Parole, tandis que nous attendons encore Tes messages. Nous le demandons au Nom de Jésus.
-Amen! Vous pouvez vous asseoir.
-40 J’ai un peu de peine à voir cette horloge là-bas, et je ne voudrais pas faire attendre mes
-frères, aussi vais-je essayer de me hâter le plus possible et de terminer cette première partie. Si
-nous n’arrivons pas à terminer, alors demain matin, nous essaierons peut-être de continuer, le
-Seigneur voulant. Et si frère Neville ne vient pas, eh bien j’essaierai, si le Seigneur le permet,
-d’être ici pour conduire le service d’école du dimanche.
+11 Cette dame, soeur Charlotte, est encore presque une enfant. Il y a quelque temps, elle a donné à Meda son témoignage sur les expériences qu’ils ont faites en Afrique. Billy, cela me rappelle le bon vieux temps! on dirait qu’on entend parler des Africains du Sud. Vous voyez, la bataille se poursuit là-bas aussi bien qu’ici.
+
+12 Si quelqu’un désire avoir frère Drummond et soeur Charlotte pour une campagne dans son église, téléphonez simplement au frère Tony Zable au numéro MELrose 7-3945. Si vous voulez le noter, vous les pasteurs qui êtes ici; je recommande vraiment ce frère, car c’est un bon prédicateur, un homme sincère qui a vraiment besoin d’être lancé. Il est courageux, c’est un bon garçon, et je l’aime beaucoup. Rappelez-vous ce numéro: MELrose 7-3945. Je vais laisser cette petite carte ici; c’est leur carte de visite. Si vous n’avez pas pu noter ce numéro, eh bien, vous pouvez venir le relever n’importe quand pendant les interruptions entre les différents services de ce soir. Notez leur numéro et téléphonez-leur, si vous voulez les avoir dans votre église pour une réunion ou pour le communiquer à quelqu’un dont vous savez qu’il aimerait les recevoir, parce qu’ils sont en train de faire une croisade au travers du continent américain.
+
+13 C’est quelque chose, cela, n’est-ce pas? L’Afrique doit nous envoyer des missionnaires ici en Amérique! Voilà où nous en avons besoin! ici même, parce que c’est pire que là-bas!
+
+14 Combien sont heureux et joyeux d’avoir encore été gardés pendant une année par le Seigneur? Nous voici entrain d’arriver au bout de la route, et je prie Dieu qu’Il nous pardonne tous nos péchés et nos manquements.
+
+15 Maintenant, je veux encore dire ceci avant de commencer: je souhaite à chacun de vous la nouvelle année la plus réussie et la plus bénie, et la meilleure santé que je puisse vous souhaiter. Que Dieu soit avec vous! Puissiez-vous croître à la fois physiquement, spirituellement, financièrement et matériellement. Tout ce que Dieu peut vous apporter, je prie qu’Il le fasse.
+
+16 Moi aussi, j’ai devant moi une nouvelle année: Dieu seul sait ce que nous réserve le futur. Et nos décisions doivent être prises tout de suite. Toutes nos affaires sont prêtes pour la nouvelle salle de gymnastique. Tout est prêt maintenant pour les invitations et tout le reste, et cela pour le monde entier, et nous attendons de voir où le Seigneur nous conduira. Je réclame vraiment vos prières; je vous demande de prier, de tout votre coeur, que Dieu ne me laisse jamais m’égarer. Et maintenant, je vous souhaite une bonne année!
+
+17 Souvent, les gens se méprennent. Ils disent: «Frère Branham, vous n’allez plus aux endroits où vous aviez l’habitude d’aller. Vous ne faites pas comme ces autres prédicateurs qui ont…». J’ai appris une chose, un enseignement de notre Bible et de notre Seigneur: c’est que Jésus n’était pas un metteur en scène. Il n’avait pas ce talent, il Lui manquait le sens de la mise en scène. Vous voyez, Il n’était pas du tout un homme de théâtre. Et je ne crois pas que Ses disciples aient du talent pour la mise en scène. Jamais ils ne se sont donnés en spectacle.
+
+18 C’est sur ce point, je pense, que beaucoup manquent le coche aujourd’hui (peut-être est-ce seulement une idée personnelle?). S’il nous faut tout annoncer à grand bruit, je crois que cela ressemble plus à un spectacle qu’à une chose sacrée.
+
+19 Avez-vous remarqué qui sont ceux qui ont réellement reçu le Seigneur lors de Sa première venue? Il y eut Siméon. Personne n’avait jamais entendu parler de lui, mais il attendait le Seigneur. Il y eut Anne, l’aveugle, dans le temple, et Jean-Baptiste, dans le désert.
+
+20 Jean partit au désert à l’âge de neuf ans; il n’en revint qu’à l’âge de trente ans. Il vécut dans le désert. C’étaient des hommes dont la foi était secrète, qui restaient humbles et attendaient la venue du Seigneur. Ils ne firent jamais de publicité à grand tapage pour leurs réunions, ils ne mettaient pas de grandes affiches indiquant l’heure et le jour ni ne faisaient d’annonces à la télévision et tout le reste. C’est très bien pour ceux qui veulent le faire de cette façon, mais je trouve que cela ne ressemble pas à ce que faisait Christ.
+
+21 Je sais qu’une fois, Ses frères Lui dirent: “Toi qui fais ces miracles et ces choses, pourquoi ne vas-Tu pas à Jérusalem? Nous allons partir pour la fête de la Pâque; appelle Caïphe, le nouveau sacrificateur, et les autres, et fais-leur connaître ce que Tu fais. Fais-le devant eux afin qu’ils puissent voir Tes oeuvres. Pourquoi perds-Tu ton temps près de la rivière avec une bande de pêcheurs et de ces gens du bas peuple? Pourquoi ne vas-Tu pas là-bas pour que tout le monde puisse voir?”. Vous voyez?
+
+22 Mais Jésus leur répondit: “Il est toujours temps pour vous, mais Mon heure n’est pas encore venue”.
+
+23 L’Ecriture a parlé de la venue de Jean-Baptiste. Esaïe dit, environ sept cent douze ans avant sa naissance: “Une voix criera dans le désert”. Il dit: “Toutes les montagnes sauteront comme des agneaux, toutes les feuilles frapperont des mains, les lieux élevés seront abaissés, les lieux bas seront élevés”.
+
+24 Faire de telles prophéties! Que pensez-vous qu’aient pu dire les prédicateurs de ce temps-là en considérant ces prophéties? Ils ont sûrement dit: “Oh, quand ce grand prophète viendra, tout le monde le saura! Dieu ouvrira les rideaux du ciel, les allées des cieux s’abaisseront, un char de feu descendra et une fanfare d’anges l’escortera vers la terre”.
+
+25 Mais quand il vint, ce n’était qu’un prédicateur barbu vêtu d’une peau de brebis, une ceinture de cuir autour des reins. Il ne se baignait probablement que tous les trois ou quatre mois. Il apparut là-bas, dans le désert, se tenant dans la boue jusqu’aux genoux et prêchant: “Repentez-vous, car le Royaume des Cieux est proche!”. Il n’alla jamais dans une ville. Si quelqu’un voulait l’entendre, il devait aller au bord du Jourdain. Mais ils ne voulaient pas y aller. Qu’a-t-il fait? Il secoua le pays, il secoua le monde entier.
+
+26 Une secousse vint sur ce peuple, mais il ne s’aperçut de rien. Lorsque Jésus vint, Il ne Se montra pas parmi les grands. Il vint vers les Siens, vers ceux qui Le cherchaient. C’est alors que vint la secousse. C’est encore ce qu’Il fait aujourd’hui. Le Saint-Esprit vient vers ceux que Dieu a appelés. Il y a une grande secousse parmi les élus. Quelque chose de puissant et de glorieux se passe, mais le monde n’y voit rien.
+
+27 Ils pensent que toute cette grande machine, les émissions dans le monde entier, les programmes télévisés, ces bâtiments valant des millions de dollars et tout le reste, c’est cela qu’il faut, c’est cela qui est glorieux. Mais c’est une folie aux yeux de Dieu! Dieu ne regarde pas aux grandes choses. Ce que les hommes appellent folie, Dieu l’appelle grand; et ce que les hommes appellent grand, Dieu l’appelle folie. — “Il Lui a plu de sauver ceux qui étaient perdus par la folie de la prédication”.
+
+28 Voyons Jean maintenant. Que pensez-vous que les gens dirent? — “Il y a là-bas un vieux fanatique barbu qui vient du désert, vêtu d’une peau de brebis. Il se tient nu-pieds dans la boue au bord du Jourdain et reste là à raconter des histoires. Qui a jamais entendu une chose pareille?”.
+
+29 Quand Jésus vint, on dit de Lui: “Un Messie né dans une étable, sur un tas de paille, au milieu du bétail meuglant tout autour? Quant à Sa mère… Il n’est qu’un enfant illégitime, puisque Sa mère était enceinte avant d’être mariée! Il est né hors du lien conjugal! Çà, le Messie?”. Vous voyez! C’était pourtant quelque chose de grand, mais ils ne s’en aperçurent pas! Ils n’y comprirent rien!
+
+30 C’est ainsi qu’est l’Evangile aujourd’hui: Il est glorieux! Et l’Evangile secoue comme Il ne l’a jamais fait auparavant, mais Il secoue au milieu du petit reste. C’est vrai, Il fait cela pour les préparer.
+
+31 Il est venu vers les Siens, mais les Siens ne L’ont pas reçu. Il dit à Ses disciples: “N’allez pas vers les nations, mais allez plutôt vers les brebis perdues d’Israël. Et quand vous irez, celui qui vous recevra Me recevra. Si vous entrez dans une ville et qu’ils ne vous reçoivent pas, secouez la poussière de vos pieds et partez. En vérité, Je vous le dis, Sodome et Gomorrhe seront traités moins sévèrement que cette ville-là le jour du jugement”. Toutes ces villes qui ont repoussé ces hommes ne sont plus que des cendres aujourd’hui. Toutes celles qui L’ont reçu tiennent encore aussi ferme que les étoiles. C’est vrai! Il Lui faut du temps pour répondre, mais Dieu répond, ne vous en faites pas! Je ne vais pas me lancer là-dessus, sinon je ne pourrai jamais aborder l’Apocalypse.
+
+> Je désire Le voir, Le voir face à face,
+> Et pour toujours contempler Sa divine Grâce,
+> Dans les rues pavées d’or,
+> Elever ma voix:
+> Les soucis sont finis,
+> Je suis à l’abri.
+
+32 J’aime cela! Levons-nous et courbons nos têtes pour un instant de prière. La Bible dit: “Quand vous vous levez pour prier, pardonnez”. Combien ici ont une requête à présenter? Faites-le simplement connaître en levant la main. Rappelez-vous que Dieu le voit et qu’Il sait tout à ce sujet.
+
+33 Notre Père céleste, nous nous approchons de Ta sainteté divine au Nom du Seigneur Jésus, ce Nom entièrement suffisant qui a été donné ici parmi les hommes afin que toutes les familles des Cieux et de la terre portent le Nom de Jésus.
+
+34 Nous Te prions, Seigneur, de bien vouloir recevoir nos actions de grâces. Tout d’abord, il y a cette année qui va se terminer pendant le service de ce soir dans la louange, dans l’étude de Ta Parole, et en sachant ce que signifie le “Ainsi dit le Seigneur”. Quelle liste de sujets de reconnaissance nous pourrions mettre sur le papier! Ces dangers auxquels nous avons échappé de justesse cette année, alors que Satan essayait de nous ôter la vie… mais Tu n’as pas encore terminé avec nous! C’est pourquoi nous continuons. Nous croyons, Seigneur, que nous sommes nés et avons grandi dans ce monde uniquement pour T’honorer et Te glorifier.
+
+35 Nous Te demandons, Père, de nous pardonner toutes les transgressions et toutes les erreurs que nous avons commises durant ce voyage. Oublions nos erreurs ce soir, tandis que nous les confessons, les ensevelissant dans l’océan de l’oubli au Nom du Seigneur Jésus; nous ne voulons plus les ramener à la surface, mais nous courons vers le but, vers cet Homme parfait, Jésus-Christ. Accorde-le nous ce soir, ô Seigneur.
+
+36 Lorsque chacun de Tes serviteurs parlera, veuille les oindre de l’Esprit de Vie, et qu’ils prêchent comme jamais auparavant pour apporter ce soir le message à l’église.
+
+37 Nous sommes rassemblés sous ce toit pour lequel nous Te sommes reconnaissants, Seigneur. Nous sommes reconnaissants d’avoir un bon feu auprès duquel nous asseoir, d’avoir un toit au-dessus de nos têtes: c’est tout ce qui est nécessaire.
+
+38 Car nos trésors ne sont pas dans ce monde, ils sont dans le monde à venir. O Dieu, nous nous tenons là où nous croyons que les voleurs ne peuvent pénétrer et dérober, où la teigne ne peut détruire, car notre trésor, c’est la Vie éternelle. Et nous Te prions, Père, de nous permettre de chérir cela tous les jours de notre vie.
+
+39 Fais de nous des serviteurs accomplis. Enlève tout mal de nous, Seigneur, tout le passé. Que toutes les racines de la malice et de l’amertume soient ôtées de notre vie et que nous soyons humbles et doux devant Toi. Accorde-le, ô Seigneur! Que cette année qui vient soit pour nous l’année la plus glorieuse que nous ayons jamais eue. Accorde-le nous! Donne-nous ce soir Ta Parole, tandis que nous attendons encore Tes messages. Nous le demandons au Nom de Jésus. Amen! Vous pouvez vous asseoir.
+
+40 J’ai un peu de peine à voir cette horloge là-bas, et je ne voudrais pas faire attendre mes frères, aussi vais-je essayer de me hâter le plus possible et de terminer cette première partie. Si nous n’arrivons pas à terminer, alors demain matin, nous essaierons peut-être de continuer, le Seigneur voulant. Et si frère Neville ne vient pas, eh bien j’essaierai, si le Seigneur le permet, d’être ici pour conduire le service d’école du dimanche.
+
 41 N’oubliez pas ceci:
-        Prier, prier, c’est la seule façon
-        D’atteindre une position plus haute.
-        Prier, prier, la prière de la foi
-        Fera descendre les bénédictions de Dieu.
-42 C’est la seule manière d’y arriver. Chantons cela tous ensemble. Ecoutez bien, nous avons
+> Prier, prier, c’est la seule façon
+> D’atteindre une position plus haute.
+> Prier, prier, la prière de la foi
+> Fera descendre les bénédictions de Dieu.
 
-     http://www.cmpp.ch
+42 C’est la seule manière d’y arriver. Chantons cela tous ensemble. Ecoutez bien, nous avons tout le temps:
+> Prier, prier, c’est la seule façon
+> D’atteindre une position plus haute.
+> Prier, prier, la prière de la foi
+> Fera descendre les bénédictions de Dieu.
 
-LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE 6
-tout le temps:
-        Prier, prier, c’est la seule façon
-        D’atteindre une position plus haute.
-        Prier, prier, la prière de la foi
-        Fera descendre les bénédictions de Dieu.
-43 Si la prière de la foi fait descendre les bénédictions de Dieu, persévérons dans la prière! Nous
-sommes si heureux ce soir de voir dans le Royaume de Dieu de nouveaux visages qui n’étaient
-pas là l’an passé. Je continue simplement à prier pour qu’un nombre de plus en plus grand soit
-ajouté tout le temps. Et la moitié n’a jamais entendu parler de ce qui adviendra de l’autre côté.
-44 Maintenant, nous allons lire le chapitre 4 de l’Apocalypse 45 Quelqu’un a-t-il besoin d’une Bible? Nous avons quelques Bibles, si vous voulez suivre. Bien!
-Que l’un des diacres vienne en chercher, nous avons toute une pile de Bibles. Frère Zable; un
-autre encore. Si vous voulez vous occuper des deux côtés, nous irons vers les ailes. Et si
-quelqu’un désire une Bible pour suivre avec nous, alors qu’il la prenne simplement; donnez-en à
-tous ceux qui en demandent.
+43 Si la prière de la foi fait descendre les bénédictions de Dieu, persévérons dans la prière! Nous sommes si heureux ce soir de voir dans le Royaume de Dieu de nouveaux visages qui n’étaient pas là l’an passé. Je continue simplement à prier pour qu’un nombre de plus en plus grand soit ajouté tout le temps. Et la moitié n’a jamais entendu parler de ce qui adviendra de l’autre côté.
+
+44 Maintenant, nous allons lire le chapitre 4 de l’Apocalypse 45 Quelqu’un a-t-il besoin d’une Bible? Nous avons quelques Bibles, si vous voulez suivre. Bien! Que l’un des diacres vienne en chercher, nous avons toute une pile de Bibles. Frère Zable; un autre encore. Si vous voulez vous occuper des deux côtés, nous irons vers les ailes. Et si quelqu’un désire une Bible pour suivre avec nous, alors qu’il la prenne simplement; donnez-en à tous ceux qui en demandent.
+
 46 Nous vous prions de bien vouloir ouvrir votre Bible à Apocalypse, chapitre 4.
-47 Si vous êtes assis au fond et que vous vouliez avancer, il y a toute la place qu’il faut ici.
-Installez-vous confortablement.
-48 Combien se sont réjouis de l’étude que nous venons d’avoir, cette étude de huit jours sur les
-sept âges de l’Eglise? Merci! Cela me fait du bien, parce que j’en ai tiré moi-même une grande
-bénédiction.
-49 Ce soir, nous abordons le chapitre 4. Jean a fini de parler à l’âge de Laodicée. De tous les
-âges de l’église, celui de Laodicée fut celui où régna la plus grande confusion.
-50 Nous avons vu qu’à la fin de cet âge, la chose la plus pathétique fut que Jésus Se tenait en
-dehors de Sa propre église, d’où Il avait été expulsé, frappant à la porte, essayant d’y rentrer.
-N’est-ce pas du péché? Je pense que c’est l’un des passages les plus pathétiques que j’aie jamais
-lus. Jésus à l’extérieur de Sa propre porte! Et c’est Son église qui L’a mis dehors! S’Il essaie de
-rentrer, c’est seulement pour les sauver! “Celui qui ouvrira, qui Me laissera revenir dans Ma propre
-maison, Je souperai avec lui, et lui avec Moi”. N’est-ce pas pathétique? Le Dieu des Cieux rejeté
-de Sa propre église par leurs credo et leurs dénominations et par leurs agissements! Ils L’ont
-rejeté de l’église et ont accepté leurs credo!
-51 C’est exactement ce qui se passa le jour où Jésus fut crucifié. Ils acceptèrent Barabbas, un
-meurtrier, et crucifièrent Jésus. Ils lâchèrent au milieu d’eux un meurtrier, un brigand confirmé, et
-rejetèrent Jésus-Christ, le Seul qui pouvait leur donner la Vie!
-52 C’est exactement ce que font aujourd’hui toutes les dénominations, y compris la dénomination
-Pentecôtiste. Ils prennent leur nourriture à ces dénominations et meurent dès qu’ils s’organisent
-eux-mêmes en dénomination. Il n’y en a jamais eu une seule (c’est historique) qui se soit
-organisée et qui ait fait autre chose que mourir aussitôt. Tous les signes, les prodiges, les dons et
-le reste les quittent dès qu’ils font une dénomination. Au lieu d’accepter que le Seigneur Jésus leur
-donne la Vie, ils rétrogradent aussitôt et lâchent Barabbas au milieu d’eux. N’est-ce pas une chose
-terrible? Il n’est pas étonnant que Dieu ait été rejeté de Son église et qu’Il Se tienne là, frappant à
-la porte, essayant de rentrer: dans le dernier âge.
-53 Nous trouvons que l’Apocalypse est partagé en trois parties. La première est constituée par
-les trois premiers chapitres et se rapporte à l’Eglise: c’est le message aux anges de l’Eglise. Puis
-l’Eglise disparaît au chapitre 3 et n’apparaît plus avant le chapitre 19; au chapitre 19, elle apparaît
-de nouveau. Pendant ce temps, Dieu S’occupe des Juifs. A partir de ce moment, c’est le temps
-entre la venue de la glorieuse Nouvelle Jérusalem et le scellement, la mise à part du peuple
-d’Israël, etc., au temps de la fin.
-54 Sur l’île de Patmos, Jean vit… Combien se souviennent de la distance qu’il y avait entre
-Patmos et la terre ferme? Environ trente miles! Et quel était le périmètre de Patmos? Vous
-souvenez-vous de votre géographie? Environ quinze miles. Et elle servait de terre d’exil pour les
-Romains qui y déportaient les prisonniers. Et pourquoi Jean était-il là-bas? Qu’avait-il fait? Avait-il
-dérobé quelque chose? Non! L’ont-ils mis là-bas parce qu’il dérangeait les gens et faisait quelque
-chose de mal? Non! Pourquoi était-il là-bas? A cause de la Parole de Dieu et de son témoignage,
 
-        http://www.cmpp.ch
+47 Si vous êtes assis au fond et que vous vouliez avancer, il y a toute la place qu’il faut ici. Installez-vous confortablement.
+
+48 Combien se sont réjouis de l’étude que nous venons d’avoir, cette étude de huit jours sur les sept âges de l’Eglise? Merci! Cela me fait du bien, parce que j’en ai tiré moi-même une grande bénédiction.
+
+49 Ce soir, nous abordons le chapitre 4. Jean a fini de parler à l’âge de Laodicée. De tous les âges de l’église, celui de Laodicée fut celui où régna la plus grande confusion.
+
+50 Nous avons vu qu’à la fin de cet âge, la chose la plus pathétique fut que Jésus Se tenait en dehors de Sa propre église, d’où Il avait été expulsé, frappant à la porte, essayant d’y rentrer. N’est-ce pas du péché? Je pense que c’est l’un des passages les plus pathétiques que j’aie jamais lus. Jésus à l’extérieur de Sa propre porte! Et c’est Son église qui L’a mis dehors! S’Il essaie de rentrer, c’est seulement pour les sauver! “Celui qui ouvrira, qui Me laissera revenir dans Ma propre maison, Je souperai avec lui, et lui avec Moi”. N’est-ce pas pathétique? Le Dieu des Cieux rejeté de Sa propre église par leurs credo et leurs dénominations et par leurs agissements! Ils L’ont rejeté de l’église et ont accepté leurs credo!
+
+51 C’est exactement ce qui se passa le jour où Jésus fut crucifié. Ils acceptèrent Barabbas, un meurtrier, et crucifièrent Jésus. Ils lâchèrent au milieu d’eux un meurtrier, un brigand confirmé, et rejetèrent Jésus-Christ, le Seul qui pouvait leur donner la Vie!
+
+52 C’est exactement ce que font aujourd’hui toutes les dénominations, y compris la dénomination Pentecôtiste. Ils prennent leur nourriture à ces dénominations et meurent dès qu’ils s’organisent eux-mêmes en dénomination. Il n’y en a jamais eu une seule (c’est historique) qui se soit organisée et qui ait fait autre chose que mourir aussitôt. Tous les signes, les prodiges, les dons et le reste les quittent dès qu’ils font une dénomination. Au lieu d’accepter que le Seigneur Jésus leur donne la Vie, ils rétrogradent aussitôt et lâchent Barabbas au milieu d’eux. N’est-ce pas une chose terrible? Il n’est pas étonnant que Dieu ait été rejeté de Son église et qu’Il Se tienne là, frappant à la porte, essayant de rentrer: dans le dernier âge.
+
+53 Nous trouvons que l’Apocalypse est partagé en trois parties. La première est constituée par les trois premiers chapitres et se rapporte à l’Eglise: c’est le message aux anges de l’Eglise. Puis l’Eglise disparaît au chapitre 3 et n’apparaît plus avant le chapitre 19; au chapitre 19, elle apparaît de nouveau. Pendant ce temps, Dieu S’occupe des Juifs. A partir de ce moment, c’est le temps entre la venue de la glorieuse Nouvelle Jérusalem et le scellement, la mise à part du peuple d’Israël, etc., au temps de la fin.
+
+54 Sur l’île de Patmos, Jean vit… Combien se souviennent de la distance qu’il y avait entre Patmos et la terre ferme? Environ trente miles! Et quel était le périmètre de Patmos? Vous souvenez-vous de votre géographie? Environ quinze miles. Et elle servait de terre d’exil pour les Romains qui y déportaient les prisonniers. Et pourquoi Jean était-il là-bas? Qu’avait-il fait? Avait-il dérobé quelque chose? Non! L’ont-ils mis là-bas parce qu’il dérangeait les gens et faisait quelque chose de mal? Non! Pourquoi était-il là-bas? A cause de la Parole de Dieu et de son témoignage.
 
 LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE 7
 parce qu’il prêchait l’Evangile!
@@ -761,7 +652,7 @@ l’avant-première. Il la vit exactement comme s’il avait vécu sur terre et 
         http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE 15
-aucun autre, mais à Jean; même Paul n’a pu le voir: il ne lui a rien été dit. Jésus avait dit: “Si Je
+ aucun autre, mais à Jean; même Paul n’a pu le voir: il ne lui a rien été dit. Jésus avait dit: “Si Je
 veux qu’il demeure jusqu’à ce que Je vienne, que t’importe?”.
 146 Il avait simplement choisi Jean, qu’Il enleva et à qui Il montra toutes ces choses avant qu’il
 meure, exactement comme s’il avait vécu tous ces événements. Il lui montra ce qui serait! Vous
@@ -874,12 +765,12 @@ montagnes elles-mêmes chercheront un endroit où se cacher. Et nous, où nous t
 
         http://www.cmpp.ch
 
-    LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE    17
+LA REVELATION DE JESUS-CHRIST — APOCALYPSE, CHAPITRE QUATRE    17
 jour-là?
-        Oh, précieux est ce flot
-        Qui me rend blanc comme neige!
-        Je ne connais pas d’autre source
-        Que le Sang de Jésus.
+    Oh, précieux est ce flot
+    Qui me rend blanc comme neige!
+    Je ne connais pas d’autre source
+    Que le Sang de Jésus.
 170 Oh, quelle leçon! Ce n’était pas un son confus! Et Son trône! Il était assis sur Son trône (il
 n’est plus en bas).
 171 Voilà encore quelque chose qui nous prouve que l’Eglise est enlevée avant la grande
@@ -1007,8 +898,6 @@ respect pour entendre Ta Voix. Accorde-le nous.
 nouvelles pensées, de nouvelles révélations, une nouvelle puissance et tout cela. Seigneur, que
 Tes bénédictions et Tes promesses nous soient renouvelées. Avec notre prière, nous nous
 remettons entre Tes mains. Au Nom de Jésus-Christ. Amen! Merci, frères et soeurs.
-
-
 
 
 

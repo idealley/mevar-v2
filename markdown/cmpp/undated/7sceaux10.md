@@ -1,541 +1,191 @@
+---
+source: "cmpp"
+sermon_id: "7sceaux10"
+title: "Révélation des Sept Sceaux"
+subtitle: "Le Septième Sceau"
+date: "1963-03-24"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "Prédication sur le septième sceau de l'Apocalypse, où un silence d'une demi-heure se fait dans le ciel. Branham explique l'intervalle entre le sixième et le septième sceau, l'appel des 144 000 Juifs, et la nécessité d'un prophète pour Israël. Il souligne que le septième sceau reste un mystère parfait de Dieu."
+tags:
+  - "sept sceaux"
+  - "apocalypse"
+  - "silence au ciel"
+  - "144000"
+  - "Israël"
+  - "prophète"
+  - "tribulation"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Élie"
+  - "Daniel"
+  - "Agabus"
+  - "Jean"
+  - "Pierre"
+  - "Paul"
+  - "Achab"
+  - "Jézabel"
+  - "Russell"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Tucson"
+  - "Arizona"
+  - "Albuquerque"
+  - "Nouveau Mexique"
+  - "Southern Pines"
+  - "Caroline du Nord"
+  - "Little Rock"
+  - "Arkansas"
+  - "Hot Springs"
+  - "Benton Harbor"
+  - "Louisville"
+themes:
+  - "révélation divine"
+  - "mystère de Dieu"
+  - "jugement"
+  - "rédemption"
+  - "Église"
+  - "antichrist"
+  - "prophétie"
+pdf_url: "http://cmpp.ch/7sceaux10.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Rois 12"
+  - "Apocalypse 10"
+  - "Apocalypse 11"
+  - "Apocalypse 14"
+  - "Apocalypse 7"
+  - "Deutéronome 29"
+  - "Esther 176"
+  - "Matthieu 24"
+  - "Ésaïe 9"
+---
 BROCHURE N° 10
 
+REVELATION DES SEPT SCEAUX
 
-
-
-REVELATION
-DES
-SEPT SCEAUX
-
-PAR
-
-WILLIAM MARRION BRANHAM
-
-
-
-
-
-
-
-
-
+PAR WILLIAM MARRION BRANHAM
 
 SEPTIEME SCEAU
 
-    REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU    2
+LE SEPTIEME SCEAU
 
-    LE SEPTIEME SCEAU
-
-
-
-       24 mars 1963, soir
-       Branham Tabernacle
+24 mars 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 Restons debout pendant que nous prions. Dieu Tout-puissant, Auteur de la Vie et donateur de tous ces précieux dons spirituels, nous sommes vraiment reconnaissants pour ces moments extraordinaires où nous pouvons avoir une communion tellement merveilleuse en Ta présence. C’est un point culminant de notre vie, Seigneur, un moment que nous n’oublierons jamais, quel que soit le temps que nous passerons encore ici-bas.
+2 Et nous Te prions, ô Dieu, qu’en cette dernière soirée… Nous avons lu dans les Ecritures que Jésus, le dernier jour de la fête, se tint au milieu de la foule et cria: “Si quelqu’un a soif, qu’il vienne à moi!”. Et je Te prie, Père céleste, que ce soir encore cela se répète et que nous puissions entendre la Voix de notre Seigneur nous appeler à Son service dans une marche de plus en plus proche. Nous sentons bien que nous avons déjà entendu Sa Voix au début de l’ouverture de ces Sceaux nous disant que nous étions au dernier jour et que le temps est proche, à la porte. Accorde-nous ces bénédictions que nous Te demandons, Père, au Nom de Jésus-Christ et pour Sa gloire. Amen. Vous pouvez vous asseoir.
+3 J’aimerais encore ajouter ceci, c’est que de toutes les réunions que j’ai tenues jusqu’à ce jour, je crois que cette semaine a été la plus glorieuse période de ma vie au service de Dieu. J’ai déjà vu, bien sûr, s’accomplir de grands miracles dans des services de guérison, mais cela va au-delà. Un des points culminants de ma vie a été d’être ici et aussi de voir ce petit tabernacle prendre un autre aspect. Non seulement l’extérieur, mais l’intérieur a lui aussi pris un aspect différent.
+4 J’ai demandé à Billy… Il lui a fallu tellement de temps pour venir me chercher. Il m’a dit que cette semaine il y a encore eu un groupe de gens qui se sont fait baptiser (cela fait plus d’une centaine); ils ont été baptisés au Nom de notre Seigneur Jésus-Christ, c’est pourquoi nous sommes reconnaissants. Que Dieu vous bénisse.
+5 Maintenant s’il n’y a pas d’église chez vous, nous vous invitons à venir ici et à avoir communion avec nous. Rappelez-vous simplement que l’église est ouverte. Nous ne sommes pas une dénomination. J’espère et j’ai confiance qu’elle ne sera jamais une dénomination, mais simplement une communion où hommes et femmes, garçons et filles puissent se réunir autour de la table du Seigneur et avoir communion autour de la Parole; nous avons ici toutes choses en commun.
+6 Nous avons un excellent pasteur, un véritable homme de Dieu. J’en suis tellement reconnaissant. Rappelez-vous cette vision que j’ai eue l’année dernière où je vis toute cette nourriture emmagasinée à cet endroit. C’est l’exacte vérité! Et maintenant nous avons la place adéquate pour les classes d’école du dimanche de chaque âge, et nous sommes très reconnaissants d’avoir pu le faire. Quelques-uns ont demandé une fois s’il ne serait pas possible d’avoir ces classes d’école du dimanche où ils pourraient envoyez leurs enfants. Maintenant nous en avons, alors venez simplement chez nous et soyez avec nous si vous n’avez pas d’église chez vous. Bien entendu, si vous avez une bonne église chez vous où vous pouvez aller et où l’on prêche l’Evangile, alors ce n’est qu’un autre groupe semblable au nôtre. Mais si vous n’avez rien chez vous…
+7 Je sais que plusieurs d’entre vous ont déménagé de différentes parties du pays pour venir habiter ici afin que cette église-ci soit l’église de leur foyer. C’est de bon coeur que nous vous accueillons ici pour écouter la Parole du Seigneur. Je me rappelle… Je crois que, quand je suis parti, je vous ai dit qu’en ce qui me concerne les réunions auraient désormais lieu ici au tabernacle. Je ne sais pas ce que le Seigneur a encore en réserve pour moi dans le futur. J’ai confiance en Sa main (et non pas en quelque superstition ou autre); j’attends simplement jour par jour qu’Il me conduise à l’endroit où je puis Lui être le plus utile. Et quand Il aura terminé avec moi, je crois qu’Il me recevra en paix dans Sa Maison.
+8 Je suis également très reconnaissant de la coopération des gens de ce tabernacle. Comme Billy me le disait cette semaine, je pense que chaque famille de par ici qui vient au tabernacle a accueilli des gens. Chacun a ouvert sa maison et a reçu ceux qui n’avaient pas pu trouver d’endroit où se loger. Cela, c’est vraiment agir en chrétiens! Chez certains, la maison a été bourrée jusqu’au dernier petit coin afin de loger des gens. Nous sommes dans une période difficile parce qu’il y a une grande manifestation sportive (basketball, ou quelque chose comme cela) et que tout a été réservé. En plus de cela, dans cette petite église sont représentés vingt-huit ou trente états, plus encore deux pays étrangers; ainsi donc cette petite réunion de réveil prend déjà pas mal de place par elle-même.
+9 Aujourd’hui je demandai à des gens: “Il ne semble pas qu’il y ait beaucoup de gens de Jeffersonville à ces réunions”.
+10 Quelqu’un me dit: “Nous ne pouvons pas entrer!”. Voilà la raison! Quelques personnes de la police et autres auraient voulu venir aux réunions mais ne purent entrer. Tout était déjà plein avant qu’elles ne puissent entrer. Elles pourront peut-être venir à une autre occasion, c’est pourquoi elles ne sont pas venues et qu’il y a tout ce monde venant d’ailleurs. Nous en sommes très reconnaissants!
+11 Maintenant il y a quelque chose que je ne sais pas. Après ce message, devrait suivre normalement un message sur les sept trompettes. Mais dans les Sceaux il y a pratiquement tout. Les âges de l’Eglise sont venus et nous les avons placés en premier, car c’était le message le plus important pour ce temps-là, mais l’ouverture des Sceaux montre où va l’église et comment elle finit. Je pense que notre Père céleste nous a accordé une grâce certaine en nous faisant voir ce que nous avons vu.
+12 En regardant d’anciennes notes sur lesquelles j’avais prêché il y a de nombreuses années, je me suis aperçu que je n’avais fait qu’effleurer le sujet, disant ce que je pensais être juste et continuant sans m’arrêter. J’étais bien loin du compte! J’avais fait des quatre premiers Sceaux une petite prédication d’environ vingt minutes! Oh, les quatre cavaliers de l’Apocalypse, je les avais tous mis ensemble, disant simplement: «Un cheval vint; il était blanc». Je disais: «Peut-être qu’il s’agit des premiers âges. Le cheval suivant apporte une famine», et ainsi de suite.
+13 Oh, mes frères, mais lorsque la Parole fut vraiment ouverte, je m’aperçus combien c’était loin de cela! C’est pourquoi il est convenable que nous observions et attendions. Peut-être que c’était ce qu’il fallait faire en ce temps-là. Beaucoup de choses peuvent avoir été dites avec lesquelles les autres gens peuvent ne pas être d’accord, mais je crois que lorsque viendra le temps du grand rassemblement où nous rencontrerons notre Seigneur, vous découvrirez que c’était juste. C’est vraiment juste!
+14 Et vous tous qui n’êtes pas d’ici, qui venez de différents endroits, de différents états et nations, comme j’apprécie votre sincérité! Vous avez fait tout ce trajet, vous avez pris ce temps sur vos vacances, certains d’entre vous ne saviez même pas où loger ou n’avaient même pas d’argent pour se nourrir. Je le sais parce que j’ai pu aider moi-même quelques personnes à trouver un logement. Il y en a qui n’avaient même pas assez d’argent pour manger, mais sont venus malgré tout, s’attendant à ce que quelque chose se passe pour prendre soin de cela. Ils ont eu une si grande foi que peu leur importait de ne pas pouvoir manger ou se loger, ce qu’ils désiraient, c’était de pouvoir entendre ces choses de toute façon. C’est très courageux, vous savez! Et tout le monde a été parfaitement bien.
+15 Dernièrement, j’ai rencontré mon beau-frère. C’est lui qui a réalisé la maçonnerie de cette église, et je lui dis combien j’appréciais son travail. Je ne suis pas maçon et ne connais rien à ce métier, mais je sais ce que c’est qu’un angle droit et je sais s’il est bien fait.
+16 Il me dit: “Je vais te dire quelque chose; je n’ai jamais vu régner une telle harmonie parmi des gens qui doivent travailler ensemble”. Frère Wood, frère Roberson et tous les autres faisaient chacun son travail. Un frère a installé la sonorisation dans l’église. Ils disaient: “Tout marche très bien”. Quand on avait besoin de quelque chose il y avait toujours l’homme qu’il fallait pour le faire. C’est ainsi que Dieu fut présent dans tout le programme. Nous en sommes très reconnaissants.
+17 Beaucoup ont fait des dons importants qui nous ont aidés dans cette réalisation, tels que frère et soeur Dauch qui sont ici et encore beaucoup d’autres qui ont fortement contribué à cette cause. Et maintenant tout est pratiquement payé. Nous en sommes reconnaissants.
+18 Rappelez-vous que c’est votre église car vous êtes des serviteurs de Christ. C’est pour cela qu’elle a été construite. C’est une porte ouverte pour susciter des serviteurs. Quant à ceux qui sont déjà serviteurs de Christ, ils peuvent aussi entrer et se réjouir ensemble dans la communion de Jésus-Christ. Nous voudrions que vous sachiez que chacun est le bienvenu.
+19 Maintenant si, quand je suis sous l’onction, vous m’entendez en quelque sorte arracher le rideau des organisations, cela ne veut pas dire que je parle contre votre pasteur ou contre quelque frère ou quelque soeur que ce soit dans votre église, parce qu’après tout Dieu a des gens dans chaque organisation. Mais ce qu’Il n’accepte pas, c’est l’organisation. Il accepte l’individu qui se trouve dans une organisation. Ce n’est d’ailleurs pas seulement quand il y a une organisation, mais quand les gens demeurent tellement attachés à une organisation qu’ils ne peuvent rien voir d’autre que ce que cette église dit. Cela les empêche d’avoir communion avec les autres; c’est un système qui ne plaît pas à Dieu, c’est une affaire du monde qui n’est pas instituée par Dieu.
+20 Ainsi donc, je ne parle pas des individus, Catholiques, Juifs, Méthodistes, Baptistes, Presbytériens ou qui que ce soit, qu’ils viennent ou non d’organisations, qu’ils soient dénominationnels ou non, Dieu a de Ses enfants dans ces groupes. Et je crois toujours qu’ils sont là dans un but, qui est de donner la Lumière, attirant au-dehors ceux qui sont prédestinés et qui viennent de partout. Et en ce jour glorieux que nous verrons alors, l’Eglise du Seigneur Jésus-Christ sera appelée au grand rassemblement dans les airs et nous monterons à Sa rencontre. Je me réjouis dans l’attente de cette heure!
+21 Il y a tellement de choses à dire, et ce soir est le dernier. Dans un service de guérison, je trouve que l’attente de ces choses glorieuses qui vont se produire crée une tension et nous rend nerveux. Je m’aperçois que c’est pareil ce soir. Chacun est dans l’attente de voir… Cela a été ainsi chaque soir pour l’ouverture de ces Sceaux.
+22 Maintenant je voudrais bien mettre les choses au point. Chaque fois, chaque fois qu’il a été question de ces Sceaux, tout ce que j’ai cru à leur sujet ainsi que tout ce que j’ai lu venant d’autres gens était contraire à ce qui m’a été révélé dans ma chambre. Et ma pensée, en de tels moments… La raison pour laquelle j’ai fait ce service de guérison ce matin est que ma pensée humaine s’éloigne tellement de ma propre manière de penser. J’ai essayé de rester dans ma chambre avec les volets fermés et la lumière allumée (c’est aujourd’hui le huitième jour); je n’ai même pas pris ma voiture pour aller quelque part.
+23 J’ai dû aller avec quelques frères à la banque pour signer des papiers au sujet d’argent qui avait été emprunté pour construire l’église, mais je suis revenu immédiatement dans ma chambre pour étudier. Et, chose étrange, il n’y a eu personne qui ait dit quoi que ce soit. D’habitude, il y a toujours des gens qui frappent, qui vont et viennent. Cette fois il n’y a eu personne. C’est vraiment exceptionnel.
+24 Je mange chez frère Wood; d’habitude c’est toujours plein de voitures et il y a toujours huit ou dix personnes qui séjournent chez lui pendant ce temps, mais cette fois personne n’est venu.
+25 Et ce matin… jamais je n’oublierai la grâce de notre Sauveur envers Son serviteur épuisé! En répondant à la question d’une pauvre personne au mieux de ma pensée, pensant que je l’avais fait correctement, tout à coup ce fut comme si je venais de voler quelque chose à un enfant. Je sentais une telle condamnation, mais je ne comprenais pas pourquoi! Je pensai: “Peut-être que c’est parce que je me dépêche pour arriver à ce service de guérison. Peut-être que quelqu’un est dans un état désespéré et que je devrais prier pour lui immédiatement”. Je posai la question à l’auditoire. Cela me fut révélé au bout de quelques minutes. Quelqu’un demanda: “Ne voudriez-vous pas relire votre question?”. Je pris le bout de papier et relus la question pour voir ce qui était écrit, puis je consultai le Livre et je m’aperçus que je ne répondais pas du tout à la question.
+26 Puis-je vous communiquer quelque chose? Lorsque le surnaturel entre, c’est la pensée de Christ. Vous vous éloignez tellement de votre propre manière de penser que dans votre propre pensée… Ne me demandez pas d’essayer de vous l’expliquer parce que je n’y arriverais pas. C’est impossible. Personne ne peut le faire. Comment cet homme, Elie, se tenant sous cette onction sur la montagne en présence de Dieu put-il faire tomber le feu du Ciel, faire venir la pluie immédiatement après le feu, fermer le ciel afin qu’il ne plût pas pendant trois ans et six mois et rappeler la pluie qui se remit à tomber le jour même, et sous l’onction s’emparer de quatre cents prêtres et les mettre à mort, et ensuite s’enfuir dans le désert à la menace d’une femme, Jézabel, qui avait juré de lui ôter la vie? C’est alors qu’Achab et tous les autres purent voir la présence de Dieu et l’accomplissement d’un grand miracle.
+27 Vous voyez, l’Esprit l’avait quitté. Dans sa manière naturelle de penser il ne savait pas que penser! Il ne pouvait pas penser par lui-même. Mais rappelez-vous qu’après avoir dormi et s’être reposé, l’ange le réveilla et lui donna quelques gâteaux à manger et le laissa tomber dans le sommeil encore une fois pour qu’il se repose. Ensuite l’ange le réveilla de nouveau et lui donna encore quelques gâteaux. Ensuite nous ne savons pas ce qui lui arriva pendant ces quarante jours. Il avait été placé quelque part dans une caverne où Dieu l’appela.
+28 N’essayez pas d’expliquer le surnaturel: vous ne le pouvez pas; la seule chose à faire est d’aller simplement de l’avant. J’essaie de m’expliquer et d’être aussi clair que possible, mais je pense qu’à partir de maintenant je n’essaierai plus jamais. Vous croyez totalement ou pas du tout. Vous verrez pourquoi un peu plus tard.
+29 J’ai essayé d’être honnête, Dieu le sait. Et au sujet de la question de ce matin, j’ai essayé d’y répondre aussi honnêtement que possible. Je n’avais lu que la première partie du verset et cela n’aurait pas été juste. Mais le Saint-Esprit, comprenant que ma pensée… Voyez ce qui s’est passé ces deux ou trois derniers jours. Vous voyez, j’avais dit sept cents au lieu de sept mille ce matin-là, mais les gens l’ont remarqué, ce qui montre que vous étiez attentifs.
+30 Une autre fois je voulais dire “la colombe” et j’ai dit “l’agneau” mais je me suis repris immédiatement. Quant à cette autre question où je ne me suis pas rendu compte de mon erreur tout de suite, le Saint-Esprit m’y a ramené immédiatement. C’est une double confirmation que ces choses sont véritables. Dieu veille à ce que ce soit juste. C’est vrai. Il veut que vous sachiez que c’est la Vérité. Il est Celui qui envoie ces choses car elles sont un enseignement aussi bien pour moi que pour vous.
+31 Ainsi je suis très reconnaissant pour cette connaissance que j’ai maintenant et qui me vient du Seigneur, laquelle me montre dans quel temps nous vivons. Nous vivons au temps de la fin avant le départ de l’Eglise. Maintenant que nous avons parlé un moment, demandons encore une fois Sa bénédiction sur Sa Parole.
+32 Notre Père céleste, nous voici au début de cette glorieuse soirée, de cette heure glorieuse où quelque chose de glorieux s’est produit. Cela a été partout au milieu des gens. Et Père, je Te prie que ce soir ce soit révélé au coeur et à la pensée des gens, et qu’ils sachent sans l’ombre d’un doute que Dieu se tient encore sur le Trône et qu’Il aime encore Son peuple, et que l’heure que le monde a attendu de voir depuis si longtemps approche car il crie pour la rédemption.
+33 Nous pouvons voir les éléments qui vont rétablir toutes choses. Nous pouvons distinguer les éléments de ce qui est prêt à emmener l’Eglise dans la Présence de Christ. Nous pouvons voir l’Epouse prendre forme, revêtir le vêtement des noces, se préparer. Nous pouvons voir les lumières vaciller. Nous savons que nous sommes à la fin.
+34 Et maintenant, Père céleste, nous allons prêcher ce soir sur ce puissant et glorieux événement qui a eu lieu dans la gloire il y a environ deux mille ans et qui a été communiqué à Jean, Ton grand disciple bien-aimé. C’est de cela que nous parlerons ce soir.
+35 Que le Saint-Esprit s’avance maintenant dans Sa grande puissance de révélation afin qu’Il puisse nous révéler ces choses qu’Il veut que nous connaissions comme Il l’a fait ces derniers soirs. Nous nous en remettons à Toi avec le secours de la Parole, au Nom de Jésus. Amen.
+36 Si vous voulez consulter vos Bibles, nous allons simplement lire un verset très court de l’Ecriture, c’est le dernier Sceau. Hier soir nous avons parlé du sixième Sceau. Le premier Sceau fut la présentation de l’antichrist. Son temps s’est écoulé et nous avons vu comment il est sorti, comment l’être vivant, introduit par la puissance de Dieu, s’avance contre la puissance de l’antichrist pour la combattre. Je ne crois pas que personne ait de questions à poser à ce sujet.
+37 Nous voyons ensuite immédiatement après les âges de l’Eglise que le décor a complètement changé. Il ne vient plus d’êtres vivants, vous voyez, mais nous entrons maintenant dans la période de tribulation après que l’Eglise soit sortie. Comme tout concorde bien avec les âges de l’Eglise! Je ne vois pas le moindre iota, pas la moindre petite chose qui ne corresponde pas parfaitement. Les âges, les temps et toutes ces choses, tout correspond. Pensez-y! Cela nous montre bien qu’il fallait que ce soit Dieu qui fasse cela. La pensée humaine ne pourrait sonder cela.
+38 Ensuite nous avons découvert quelque chose. Le Seigneur nous a fait prendre l’Ecriture, la Sainte Ecriture, et nous avons vu ce que Jésus dit qui devrait arriver. Comment aurions-nous jamais trouvé cela? Mais Le voilà qui vient révéler ces choses exactement dans Sa prédication, répondant et décrivant point par point les six premiers Sceaux, mais omettant le septième.
+39 Quand les Sceaux furent ouverts, Dieu, remarquez bien cela, ne révéla pas même le moindre symbole concernant le septième. C’est un secret parfait de Dieu. On trouve cela dans le chapitre 8.
 
+> “Et lorsqu’il ouvrit le septième sceau, il se fit un silence au ciel d’environ une demi-heure”. (C’est tout ce que nous savons à ce sujet).
 
-
-1 Restons debout pendant que nous prions. Dieu Tout-puissant, Auteur de la Vie et donateur de
-tous ces précieux dons spirituels, nous sommes vraiment reconnaissants pour ces moments
-extraordinaires où nous pouvons avoir une communion tellement merveilleuse en Ta présence.
-C’est un point culminant de notre vie, Seigneur, un moment que nous n’oublierons jamais, quel
-que soit le temps que nous passerons encore ici-bas.
-2 Et nous Te prions, ô Dieu, qu’en cette dernière soirée… Nous avons lu dans les Ecritures que
-Jésus, le dernier jour de la fête, se tint au milieu de la foule et cria: “Si quelqu’un a soif, qu’il vienne
-à moi!”. Et je Te prie, Père céleste, que ce soir encore cela se répète et que nous puissions
-entendre la Voix de notre Seigneur nous appeler à Son service dans une marche de plus en plus
-proche. Nous sentons bien que nous avons déjà entendu Sa Voix au début de l’ouverture de ces
-Sceaux nous disant que nous étions au dernier jour et que le temps est proche, à la porte.
-Accorde-nous ces bénédictions que nous Te demandons, Père, au Nom de Jésus-Christ et pour
-Sa gloire. Amen. Vous pouvez vous asseoir.
-3 J’aimerais encore ajouter ceci, c’est que de toutes les réunions que j’ai tenues jusqu’à ce jour,
-je crois que cette semaine a été la plus glorieuse période de ma vie au service de Dieu. J’ai déjà
-vu, bien sûr, s’accomplir de grands miracles dans des services de guérison, mais cela va au-delà.
-Un des points culminants de ma vie a été d’être ici et aussi de voir ce petit tabernacle prendre un
-autre aspect. Non seulement l’extérieur, mais l’intérieur a lui aussi pris un aspect différent.
-4 J’ai demandé à Billy… Il lui a fallu tellement de temps pour venir me chercher. Il m’a dit que
-cette semaine il y a encore eu un groupe de gens qui se sont fait baptiser (cela fait plus d’une
-centaine); ils ont été baptisés au Nom de notre Seigneur Jésus-Christ, c’est pourquoi nous
-sommes reconnaissants. Que Dieu vous bénisse.
-5 Maintenant s’il n’y a pas d’église chez vous, nous vous invitons à venir ici et à avoir
-communion avec nous. Rappelez-vous simplement que l’église est ouverte. Nous ne sommes pas
-une dénomination. J’espère et j’ai confiance qu’elle ne sera jamais une dénomination, mais
-simplement une communion où hommes et femmes, garçons et filles puissent se réunir
-autour de la table du Seigneur et avoir communion autour de la Parole; nous avons ici toutes
-choses en commun.
-6 Nous avons un excellent pasteur, un véritable homme de Dieu. J’en suis tellement
-reconnaissant. Rappelez-vous cette vision que j’ai eue l’année dernière où je vis toute cette
-nourriture emmagasinée à cet endroit. C’est l’exacte vérité! Et maintenant nous avons la place
-adéquate pour les classes d’école du dimanche de chaque âge, et nous sommes très
-reconnaissants d’avoir pu le faire. Quelques-uns ont demandé une fois s’il ne serait pas possible
-d’avoir ces classes d’école du dimanche où ils pourraient envoyez leurs enfants. Maintenant nous
-en avons, alors venez simplement chez nous et soyez avec nous si vous n’avez pas d’église chez
-vous. Bien entendu, si vous avez une bonne église chez vous où vous pouvez aller et où l’on
-prêche l’Evangile, alors ce n’est qu’un autre groupe semblable au nôtre. Mais si vous n’avez rien
-chez vous…
-7 Je sais que plusieurs d’entre vous ont déménagé de différentes parties du pays pour venir
-habiter ici afin que cette église-ci soit l’église de leur foyer. C’est de bon coeur que nous vous
-accueillons ici pour écouter la Parole du Seigneur. Je me rappelle… Je crois que, quand je suis
-
-        http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU 3
-parti, je vous ai dit qu’en ce qui me concerne les réunions auraient désormais lieu ici au
-tabernacle. Je ne sais pas ce que le Seigneur a encore en réserve pour moi dans le futur. J’ai
-confiance en Sa main (et non pas en quelque superstition ou autre); j’attends simplement jour par
-jour qu’Il me conduise à l’endroit où je puis Lui être le plus utile. Et quand Il aura terminé avec moi,
-je crois qu’Il me recevra en paix dans Sa Maison.
-8 Je suis également très reconnaissant de la coopération des gens de ce tabernacle. Comme
-Billy me le disait cette semaine, je pense que chaque famille de par ici qui vient au tabernacle a
-accueilli des gens. Chacun a ouvert sa maison et a reçu ceux qui n’avaient pas pu trouver
-d’endroit où se loger. Cela, c’est vraiment agir en chrétiens! Chez certains, la maison a été bourrée
-jusqu’au dernier petit coin afin de loger des gens. Nous sommes dans une période difficile parce
-qu’il y a une grande manifestation sportive (basketball, ou quelque chose comme cela) et que tout
-a été réservé. En plus de cela, dans cette petite église sont représentés vingt-huit ou trente états,
-plus encore deux pays étrangers; ainsi donc cette petite réunion de réveil prend déjà pas mal de
-place par elle-même.
-9 Aujourd’hui je demandai à des gens: “Il ne semble pas qu’il y ait beaucoup de gens de
-Jeffersonville à ces réunions”.
-10 Quelqu’un me dit: “Nous ne pouvons pas entrer!”. Voilà la raison! Quelques personnes de la
-police et autres auraient voulu venir aux réunions mais ne purent entrer. Tout était déjà plein avant
-qu’elles ne puissent entrer. Elles pourront peut-être venir à une autre occasion, c’est pourquoi elles
-ne sont pas venues et qu’il y a tout ce monde venant d’ailleurs. Nous en sommes très
-reconnaissants!
-11 Maintenant il y a quelque chose que je ne sais pas. Après ce message, devrait suivre
-normalement un message sur les sept trompettes. Mais dans les Sceaux il y a pratiquement
-tout. Les âges de l’Eglise sont venus et nous les avons placés en premier, car c’était le message
-le plus important pour ce temps-là, mais l’ouverture des Sceaux montre où va l’église et
-comment elle finit. Je pense que notre Père céleste nous a accordé une grâce certaine en nous
-faisant voir ce que nous avons vu.
-12 En regardant d’anciennes notes sur lesquelles j’avais prêché il y a de nombreuses années, je
-me suis aperçu que je n’avais fait qu’effleurer le sujet, disant ce que je pensais être juste et
-continuant sans m’arrêter. J’étais bien loin du compte! J’avais fait des quatre premiers Sceaux une
-petite prédication d’environ vingt minutes! Oh, les quatre cavaliers de l’Apocalypse, je les avais
-tous mis ensemble, disant simplement: «Un cheval vint; il était blanc». Je disais: «Peut-être qu’il
-s’agit des premiers âges. Le cheval suivant apporte une famine», et ainsi de suite.
-13 Oh, mes frères, mais lorsque la Parole fut vraiment ouverte, je m’aperçus combien c’était loin
-de cela! C’est pourquoi il est convenable que nous observions et attendions. Peut-être que c’était
-ce qu’il fallait faire en ce temps-là. Beaucoup de choses peuvent avoir été dites avec lesquelles les
-autres gens peuvent ne pas être d’accord, mais je crois que lorsque viendra le temps du grand
-rassemblement où nous rencontrerons notre Seigneur, vous découvrirez que c’était juste. C’est
-vraiment juste!
-14 Et vous tous qui n’êtes pas d’ici, qui venez de différents endroits, de différents états et
-nations, comme j’apprécie votre sincérité! Vous avez fait tout ce trajet, vous avez pris ce temps sur
-vos vacances, certains d’entre vous ne saviez même pas où loger ou n’avaient même pas d’argent
-pour se nourrir. Je le sais parce que j’ai pu aider moi-même quelques personnes à trouver un
-logement. Il y en a qui n’avaient même pas assez d’argent pour manger, mais sont venus malgré
-tout, s’attendant à ce que quelque chose se passe pour prendre soin de cela. Ils ont eu une si
-grande foi que peu leur importait de ne pas pouvoir manger ou se loger, ce qu’ils désiraient, c’était
-de pouvoir entendre ces choses de toute façon. C’est très courageux, vous savez! Et tout le
-monde a été parfaitement bien.
-15 Dernièrement, j’ai rencontré mon beau-frère. C’est lui qui a réalisé la maçonnerie de cette
-église, et je lui dis combien j’appréciais son travail. Je ne suis pas maçon et ne connais rien à ce
-métier, mais je sais ce que c’est qu’un angle droit et je sais s’il est bien fait.
-16 Il me dit: “Je vais te dire quelque chose; je n’ai jamais vu régner une telle harmonie parmi des
-gens qui doivent travailler ensemble”. Frère Wood, frère Roberson et tous les autres faisaient
-chacun son travail. Un frère a installé la sonorisation dans l’église. Ils disaient: “Tout marche très
-
-        http://www.cmpp.ch
-
-    REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU    4
-bien”. Quand on avait besoin de quelque chose il y avait toujours l’homme qu’il fallait pour le faire.
-C’est ainsi que Dieu fut présent dans tout le programme. Nous en sommes très reconnaissants.
-17 Beaucoup ont fait des dons importants qui nous ont aidés dans cette réalisation, tels que frère
-et soeur Dauch qui sont ici et encore beaucoup d’autres qui ont fortement contribué à cette cause.
-Et maintenant tout est pratiquement payé. Nous en sommes reconnaissants.
-18 Rappelez-vous que c’est votre église car vous êtes des serviteurs de Christ. C’est pour cela
-qu’elle a été construite. C’est une porte ouverte pour susciter des serviteurs. Quant à ceux qui sont
-déjà serviteurs de Christ, ils peuvent aussi entrer et se réjouir ensemble dans la communion de
-Jésus-Christ. Nous voudrions que vous sachiez que chacun est le bienvenu.
-19 Maintenant si, quand je suis sous l’onction, vous m’entendez en quelque sorte arracher le
-rideau des organisations, cela ne veut pas dire que je parle contre votre pasteur ou contre quelque
-frère ou quelque soeur que ce soit dans votre église, parce qu’après tout Dieu a des gens dans
-chaque organisation. Mais ce qu’Il n’accepte pas, c’est l’organisation. Il accepte l’individu qui
-se trouve dans une organisation. Ce n’est d’ailleurs pas seulement quand il y a une organisation,
-mais quand les gens demeurent tellement attachés à une organisation qu’ils ne peuvent rien voir
-d’autre que ce que cette église dit. Cela les empêche d’avoir communion avec les autres; c’est un
-système qui ne plaît pas à Dieu, c’est une affaire du monde qui n’est pas instituée par Dieu.
-20 Ainsi donc, je ne parle pas des individus, Catholiques, Juifs, Méthodistes, Baptistes,
-Presbytériens ou qui que ce soit, qu’ils viennent ou non d’organisations, qu’ils soient
-dénominationnels ou non, Dieu a de Ses enfants dans ces groupes. Et je crois toujours qu’ils sont
-là dans un but, qui est de donner la Lumière, attirant au-dehors ceux qui sont prédestinés et qui
-viennent de partout. Et en ce jour glorieux que nous verrons alors, l’Eglise du Seigneur
-Jésus-Christ sera appelée au grand rassemblement dans les airs et nous monterons à Sa
-rencontre. Je me réjouis dans l’attente de cette heure!
-21 Il y a tellement de choses à dire, et ce soir est le dernier. Dans un service de guérison, je
-trouve que l’attente de ces choses glorieuses qui vont se produire crée une tension et nous rend
-nerveux. Je m’aperçois que c’est pareil ce soir. Chacun est dans l’attente de voir… Cela a été ainsi
-chaque soir pour l’ouverture de ces Sceaux.
-22 Maintenant je voudrais bien mettre les choses au point. Chaque fois, chaque fois qu’il a été
-question de ces Sceaux, tout ce que j’ai cru à leur sujet ainsi que tout ce que j’ai lu venant d’autres
-gens était contraire à ce qui m’a été révélé dans ma chambre. Et ma pensée, en de tels
-moments… La raison pour laquelle j’ai fait ce service de guérison ce matin est que ma pensée
-humaine s’éloigne tellement de ma propre manière de penser. J’ai essayé de rester dans ma
-chambre avec les volets fermés et la lumière allumée (c’est aujourd’hui le huitième jour); je n’ai
-même pas pris ma voiture pour aller quelque part.
-23 J’ai dû aller avec quelques frères à la banque pour signer des papiers au sujet d’argent qui
-avait été emprunté pour construire l’église, mais je suis revenu immédiatement dans ma chambre
-pour étudier. Et, chose étrange, il n’y a eu personne qui ait dit quoi que ce soit. D’habitude, il y a
-toujours des gens qui frappent, qui vont et viennent. Cette fois il n’y a eu personne. C’est vraiment
-exceptionnel.
-24 Je mange chez frère Wood; d’habitude c’est toujours plein de voitures et il y a toujours huit ou
-dix personnes qui séjournent chez lui pendant ce temps, mais cette fois personne n’est venu.
-25 Et ce matin… jamais je n’oublierai la grâce de notre Sauveur envers Son serviteur épuisé! En
-répondant à la question d’une pauvre personne au mieux de ma pensée, pensant que je l’avais fait
-correctement, tout à coup ce fut comme si je venais de voler quelque chose à un enfant. Je sentais
-une telle condamnation, mais je ne comprenais pas pourquoi! Je pensai: “Peut-être que c’est
-parce que je me dépêche pour arriver à ce service de guérison. Peut-être que quelqu’un est dans
-un état désespéré et que je devrais prier pour lui immédiatement”. Je posai la question à
-l’auditoire. Cela me fut révélé au bout de quelques minutes. Quelqu’un demanda: “Ne
-voudriez-vous pas relire votre question?”. Je pris le bout de papier et relus la question pour voir ce
-qui était écrit, puis je consultai le Livre et je m’aperçus que je ne répondais pas du tout à la
-question.
-26 Puis-je vous communiquer quelque chose? Lorsque le surnaturel entre, c’est la pensée de
-Christ. Vous vous éloignez tellement de votre propre manière de penser que dans votre propre
-
-     http://www.cmpp.ch
-
-    REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU    5
-pensée… Ne me demandez pas d’essayer de vous l’expliquer parce que je n’y arriverais pas.
-C’est impossible. Personne ne peut le faire. Comment cet homme, Elie, se tenant sous cette
-onction sur la montagne en présence de Dieu put-il faire tomber le feu du Ciel, faire venir la pluie
-immédiatement après le feu, fermer le ciel afin qu’il ne plût pas pendant trois ans et six mois et
-rappeler la pluie qui se remit à tomber le jour même, et sous l’onction s’emparer de quatre cents
-prêtres et les mettre à mort, et ensuite s’enfuir dans le désert à la menace d’une femme, Jézabel,
-qui avait juré de lui ôter la vie? C’est alors qu’Achab et tous les autres purent voir la présence de
-Dieu et l’accomplissement d’un grand miracle.
-27 Vous voyez, l’Esprit l’avait quitté. Dans sa manière naturelle de penser il ne savait pas que
-penser! Il ne pouvait pas penser par lui-même. Mais rappelez-vous qu’après avoir dormi et s’être
-reposé, l’ange le réveilla et lui donna quelques gâteaux à manger et le laissa tomber dans le
-sommeil encore une fois pour qu’il se repose. Ensuite l’ange le réveilla de nouveau et lui donna
-encore quelques gâteaux. Ensuite nous ne savons pas ce qui lui arriva pendant ces quarante
-jours. Il avait été placé quelque part dans une caverne où Dieu l’appela.
-28 N’essayez pas d’expliquer le surnaturel: vous ne le pouvez pas; la seule chose à faire est
-d’aller simplement de l’avant. J’essaie de m’expliquer et d’être aussi clair que possible, mais je
-pense qu’à partir de maintenant je n’essaierai plus jamais. Vous croyez totalement ou pas du
-tout. Vous verrez pourquoi un peu plus tard.
-29 J’ai essayé d’être honnête, Dieu le sait. Et au sujet de la question de ce matin, j’ai essayé d’y
-répondre aussi honnêtement que possible. Je n’avais lu que la première partie du verset et cela
-n’aurait pas été juste. Mais le Saint-Esprit, comprenant que ma pensée… Voyez ce qui s’est passé
-ces deux ou trois derniers jours. Vous voyez, j’avais dit sept cents au lieu de sept mille ce matin-là,
-mais les gens l’ont remarqué, ce qui montre que vous étiez attentifs.
-30 Une autre fois je voulais dire “la colombe” et j’ai dit “l’agneau” mais je me suis repris
-immédiatement. Quant à cette autre question où je ne me suis pas rendu compte de mon erreur
-tout de suite, le Saint-Esprit m’y a ramené immédiatement. C’est une double confirmation que ces
-choses sont véritables. Dieu veille à ce que ce soit juste. C’est vrai. Il veut que vous sachiez que
-c’est la Vérité. Il est Celui qui envoie ces choses car elles sont un enseignement aussi bien pour
-moi que pour vous.
-31 Ainsi je suis très reconnaissant pour cette connaissance que j’ai maintenant et qui me vient du
-Seigneur, laquelle me montre dans quel temps nous vivons. Nous vivons au temps de la fin avant
-le départ de l’Eglise. Maintenant que nous avons parlé un moment, demandons encore une fois Sa
-bénédiction sur Sa Parole.
-32 Notre Père céleste, nous voici au début de cette glorieuse soirée, de cette heure glorieuse où
-quelque chose de glorieux s’est produit. Cela a été partout au milieu des gens. Et Père, je Te prie
-que ce soir ce soit révélé au coeur et à la pensée des gens, et qu’ils sachent sans l’ombre d’un
-doute que Dieu se tient encore sur le Trône et qu’Il aime encore Son peuple, et que l’heure que le
-monde a attendu de voir depuis si longtemps approche car il crie pour la rédemption.
-33 Nous pouvons voir les éléments qui vont rétablir toutes choses. Nous pouvons distinguer les
-éléments de ce qui est prêt à emmener l’Eglise dans la Présence de Christ. Nous pouvons voir
-l’Epouse prendre forme, revêtir le vêtement des noces, se préparer. Nous pouvons voir les
-lumières vaciller. Nous savons que nous sommes à la fin.
-34 Et maintenant, Père céleste, nous allons prêcher ce soir sur ce puissant et glorieux
-événement qui a eu lieu dans la gloire il y a environ deux mille ans et qui a été communiqué à
-Jean, Ton grand disciple bien-aimé. C’est de cela que nous parlerons ce soir.
-35 Que le Saint-Esprit s’avance maintenant dans Sa grande puissance de révélation afin qu’Il
-puisse nous révéler ces choses qu’Il veut que nous connaissions comme Il l’a fait ces derniers
-soirs. Nous nous en remettons à Toi avec le secours de la Parole, au Nom de Jésus. Amen.
-36 Si vous voulez consulter vos Bibles, nous allons simplement lire un verset très court de
-l’Ecriture, c’est le dernier Sceau. Hier soir nous avons parlé du sixième Sceau. Le premier Sceau
-fut la présentation de l’antichrist. Son temps s’est écoulé et nous avons vu comment il est
-sorti, comment l’être vivant, introduit par la puissance de Dieu, s’avance contre la
-puissance de l’antichrist pour la combattre. Je ne crois pas que personne ait de questions à
-poser à ce sujet.
-
-                                    http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU 6
-37 Nous voyons ensuite immédiatement après les âges de l’Eglise que le décor a complètement
-changé. Il ne vient plus d’êtres vivants, vous voyez, mais nous entrons maintenant dans la période
-de tribulation après que l’Eglise soit sortie. Comme tout concorde bien avec les âges de l’Eglise!
-Je ne vois pas le moindre iota, pas la moindre petite chose qui ne corresponde pas parfaitement.
-Les âges, les temps et toutes ces choses, tout correspond. Pensez-y! Cela nous montre bien qu’il
-fallait que ce soit Dieu qui fasse cela. La pensée humaine ne pourrait sonder cela.
-38 Ensuite nous avons découvert quelque chose. Le Seigneur nous a fait prendre l’Ecriture, la
-Sainte Ecriture, et nous avons vu ce que Jésus dit qui devrait arriver. Comment aurions-nous
-jamais trouvé cela? Mais Le voilà qui vient révéler ces choses exactement dans Sa prédication,
-répondant et décrivant point par point les six premiers Sceaux, mais omettant le septième.
-39 Quand les Sceaux furent ouverts, Dieu, remarquez bien cela, ne révéla pas même le
-moindre symbole concernant le septième. C’est un secret parfait de Dieu. On trouve cela
-dans le chapitre 8.
-        “Et lorsqu’il ouvrit le septième sceau, il se fit un silence au ciel d’environ une
-     demi-heure”. (C’est tout ce que nous savons à ce sujet).
-40 Maintenant nous essaierons de ne pas vous retenir trop longtemps à cause de ceux qui
-doivent rentrer ce soir par la route. J’avais pensé faire de nouveau un service de guérison ce
-matin, ce qui vous aurait permis de partir dans la matinée (vous n’auriez pas eu besoin d’attendre).
-Moi aussi, cela m’arrangerait parce que je dois rentrer à Tucson en Arizona où j’habite maintenant.
-J’aimerais bien revenir ici, si le Seigneur le permet… ma famille aimerait revenir quelques jours en
-juin. Peut-être que je pourrai vous voir à ce moment-là lors d’une réunion.
-41 Mes prochaines réunions se tiendront à Albuquerque au Nouveau Mexique; je crois que ce
-sera les 9, 10 et 11. J’y serai Jeudi et Vendredi-Saint. J’ai dû tout grouper et j’ai eu d’autres
-rencontres jusqu’à ce jour, c’est pourquoi je pourrai aller jeudi et vendredi soir à Albuquerque au
-Nouveau Mexique.
-42 Ensuite la prochaine rencontre aura lieu en principe (je n’en suis pas encore sûr) avec mes
-bons amis du groupe “l’Appel de Minuit” à Southern Pines en Caroline du Nord. Ils sont d’ailleurs
-reliés en ce moment même avec nous par téléphone, ce qu’ils ont annoncé par télégramme. Ils se
-sont rapprochés d’un autre groupe, les gens du “Nom de Jésus” de LittIe Rock, avec lesquels j’ai
-eu une rencontre au Cow Palace l’été dernier. Ils tiennent maintenant leur convention à Little Rock
-en Arkansas. Et depuis l’année dernière ils auraient bien aimé que je vienne à leur convention. Ils
-auraient voulu que je vienne pour toute la convention, mais étaient d’accord que je vienne même
-une seule soirée.
-43 C’est pourquoi je leur ai dit, ne sachant pas exactement que faire, de faire une annonce de
-principe qu’ils confirmeraient plus tard. [Frère Branham parle avec quelqu’un au sujet de cette
-rencontre — N.d.R] (C’est à Hot Springs? Alors je me suis trompé. Le 24 mai? Du 24 au 28 juin.)
-Voilà! L’annonce de principe est faite. C’est-à-dire si c’est la volonté du Seigneur.
-44 Voici la raison pour laquelle j’aime faire ces choses. Vous l’apprendrez un peu plus tard.
-Lorsque je vais quelque part, j’aime poser le pied là en sachant que Dieu m’a dit: “Vas-y!”. Alors si
-l’ennemi veut s’élever contre moi, où que ce soit, je dis: “Je suis ici au Nom du Seigneur Jésus;
-retire-toi!”. Et ainsi on est sûr du terrain sur lequel on se tient, vous voyez.
-45 Où qu’Il vous envoie, Il prendra soin de vous. Mais si vous y allez sur une simple supposition,
-alors je n’en sais rien. Il pourrait ne pas être là. C’est pourquoi j’aime être aussi certain que
-possible. J’ai pris de nombreux engagements qu’Il ne m’a pas dit expressément de prendre, mais
-j’aime être aussi sûr que possible. Que le Seigneur vous bénisse tous maintenant.
-46 Comme nous avons pu remarquer qu’il n’y a ici qu’un seul verset, j’aimerais faire quelque
-chose avant de commencer. Vous avez remarqué que nous avons sauté le septième chapitre. Le
-sixième chapitre finit le sixième Sceau, mais entre le 6ème Sceau et le septième Sceau, il y a
-quelque chose qui se passe, vous voyez? Et comme c’est merveilleusement placé juste à sa
-bonne place, entre le sixième et le huitième chapitre.
-47 Maintenant remarquez qu’entre le sixième Sceau et le septième Sceau il y a un intervalle, un
-intervalle entre le sixième et le huitième chapitre de l’Apocalypse. C’est entre le sixième et le
-septième Sceau qu’il y a cet intervalle. Il est nécessaire que nous le remarquions. Il est très
-
-        http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU 7
-important que nous prenions garde à cette petite période.
-48 Rappelez-vous aussi qu’après le quatrième chapitre de l’Apocalypse, l’Eglise est partie.
-Après que les quatre cavaliers soient sortis, l’Eglise est partie. Vous voyez? Tout ce qui est
-arrivé à l’Eglise se termine au premier verset du quatrième chapitre de l’Apocalypse. Tout ce
-qui est arrivé dans les mouvements de l’antichrist va jusqu’au quatrième chapitre, et le quatrième
-Sceau de la Révélation (aussi bien pour l’antichrist que pour Christ) se termine là. L’antichrist vient
-en jugement avec son armée et Christ vient Lui aussi avec Son armée.
-49 C’est une vieille bataille qui a commencé dans la nuit des temps, et Satan et ses anges furent
-chassés. Ils vinrent alors sur la terre où la bataille recommença parce qu’Eve avait brisé la
-barrière de la Parole de Dieu derrière laquelle elle était isolée. Et dès cette heure-là, Satan
-gagna la bataille contre la Parole de Dieu parce qu’un des sujets de Dieu, le plus faible, a laissé
-tomber la barrière de la Parole.
-50 Et c’est exactement ainsi qu’il a gagné chaque fois la bataille, parce que l’un de ses sujets a
-abaissé la barrière de la Parole. Et c’est ce qui s’est passé dans le dernier âge de l’Eglise par le
-moyen du système de l’organisation, parce que la Sainte Eglise réelle et authentique du Dieu
-Vivant de l’âge du Lion n’a pas voulu accepter la Parole et a détourné l’église de la Parole vers les
-dogmes.
-51 Combien d’entre vous savent que c’est sur des dogmes que l’église catholique romaine
-est établie? L’admettent-ils? Absolument! Ils l’admettent, c’est sûr et certain! Le dire aux
-Catholiques ne blesse pas le moins du monde leurs sentiments car ils le savent. D’ailleurs ils
-viennent justement d’en rajouter un il n’y a pas longtemps qui prétend que Marie est ressuscitée.
-Vous vous rappelez que cela s’est passé il y a environ dix ans. Combien parmi vous s’en
-souviennent? Les journaux… oui, c’est un nouveau dogme. Tout cela, ce sont des dogmes et
-non pas la Parole.
+40 Maintenant nous essaierons de ne pas vous retenir trop longtemps à cause de ceux qui doivent rentrer ce soir par la route. J’avais pensé faire de nouveau un service de guérison ce matin, ce qui vous aurait permis de partir dans la matinée (vous n’auriez pas eu besoin d’attendre). Moi aussi, cela m’arrangerait parce que je dois rentrer à Tucson en Arizona où j’habite maintenant. J’aimerais bien revenir ici, si le Seigneur le permet… ma famille aimerait revenir quelques jours en juin. Peut-être que je pourrai vous voir à ce moment-là lors d’une réunion.
+41 Mes prochaines réunions se tiendront à Albuquerque au Nouveau Mexique; je crois que ce sera les 9, 10 et 11. J’y serai Jeudi et Vendredi-Saint. J’ai dû tout grouper et j’ai eu d’autres rencontres jusqu’à ce jour, c’est pourquoi je pourrai aller jeudi et vendredi soir à Albuquerque au Nouveau Mexique.
+42 Ensuite la prochaine rencontre aura lieu en principe (je n’en suis pas encore sûr) avec mes bons amis du groupe “l’Appel de Minuit” à Southern Pines en Caroline du Nord. Ils sont d’ailleurs reliés en ce moment même avec nous par téléphone, ce qu’ils ont annoncé par télégramme. Ils se sont rapprochés d’un autre groupe, les gens du “Nom de Jésus” de LittIe Rock, avec lesquels j’ai eu une rencontre au Cow Palace l’été dernier. Ils tiennent maintenant leur convention à Little Rock en Arkansas. Et depuis l’année dernière ils auraient bien aimé que je vienne à leur convention. Ils auraient voulu que je vienne pour toute la convention, mais étaient d’accord que je vienne même une seule soirée.
+43 C’est pourquoi je leur ai dit, ne sachant pas exactement que faire, de faire une annonce de principe qu’ils confirmeraient plus tard. [Frère Branham parle avec quelqu’un au sujet de cette rencontre — N.d.R] (C’est à Hot Springs? Alors je me suis trompé. Le 24 mai? Du 24 au 28 juin.) Voilà! L’annonce de principe est faite. C’est-à-dire si c’est la volonté du Seigneur.
+44 Voici la raison pour laquelle j’aime faire ces choses. Vous l’apprendrez un peu plus tard. Lorsque je vais quelque part, j’aime poser le pied là en sachant que Dieu m’a dit: “Vas-y!”. Alors si l’ennemi veut s’élever contre moi, où que ce soit, je dis: “Je suis ici au Nom du Seigneur Jésus; retire-toi!”. Et ainsi on est sûr du terrain sur lequel on se tient, vous voyez.
+45 Où qu’Il vous envoie, Il prendra soin de vous. Mais si vous y allez sur une simple supposition, alors je n’en sais rien. Il pourrait ne pas être là. C’est pourquoi j’aime être aussi certain que possible. J’ai pris de nombreux engagements qu’Il ne m’a pas dit expressément de prendre, mais j’aime être aussi sûr que possible. Que le Seigneur vous bénisse tous maintenant.
+46 Comme nous avons pu remarquer qu’il n’y a ici qu’un seul verset, j’aimerais faire quelque chose avant de commencer. Vous avez remarqué que nous avons sauté le septième chapitre. Le sixième chapitre finit le sixième Sceau, mais entre le 6ème Sceau et le septième Sceau, il y a quelque chose qui se passe, vous voyez? Et comme c’est merveilleusement placé juste à sa bonne place, entre le sixième et le huitième chapitre.
+47 Maintenant remarquez qu’entre le sixième Sceau et le septième Sceau il y a un intervalle, un intervalle entre le sixième et le huitième chapitre de l’Apocalypse. C’est entre le sixième et le septième Sceau qu’il y a cet intervalle. Il est nécessaire que nous le remarquions. Il est très important que nous prenions garde à cette petite période.
+48 Rappelez-vous aussi qu’après le quatrième chapitre de l’Apocalypse, l’Eglise est partie. Après que les quatre cavaliers soient sortis, l’Eglise est partie. Vous voyez? Tout ce qui est arrivé à l’Eglise se termine au premier verset du quatrième chapitre de l’Apocalypse. Tout ce qui est arrivé dans les mouvements de l’antichrist va jusqu’au quatrième chapitre, et le quatrième Sceau de la Révélation (aussi bien pour l’antichrist que pour Christ) se termine là. L’antichrist vient en jugement avec son armée et Christ vient Lui aussi avec Son armée.
+49 C’est une vieille bataille qui a commencé dans la nuit des temps, et Satan et ses anges furent chassés. Ils vinrent alors sur la terre où la bataille recommença parce qu’Eve avait brisé la barrière de la Parole de Dieu derrière laquelle elle était isolée. Et dès cette heure-là, Satan gagna la bataille contre la Parole de Dieu parce qu’un des sujets de Dieu, le plus faible, a laissé tomber la barrière de la Parole.
+50 Et c’est exactement ainsi qu’il a gagné chaque fois la bataille, parce que l’un de ses sujets a abaissé la barrière de la Parole. Et c’est ce qui s’est passé dans le dernier âge de l’Eglise par le moyen du système de l’organisation, parce que la Sainte Eglise réelle et authentique du Dieu Vivant de l’âge du Lion n’a pas voulu accepter la Parole et a détourné l’église de la Parole vers les dogmes.
+51 Combien d’entre vous savent que c’est sur des dogmes que l’église catholique romaine est établie? L’admettent-ils? Absolument! Ils l’admettent, c’est sûr et certain! Le dire aux Catholiques ne blesse pas le moins du monde leurs sentiments car ils le savent. D’ailleurs ils viennent justement d’en rajouter un il n’y a pas longtemps qui prétend que Marie est ressuscitée. Vous vous rappelez que cela s’est passé il y a environ dix ans. Combien parmi vous s’en souviennent? Les journaux… oui, c’est un nouveau dogme. Tout cela, ce sont des dogmes et non pas la Parole.
 52 Dernièrement, lors d’une entrevue, un prêtre m’a dit:
-     — «Monsieur Branham, Dieu est dans Son église».
-     Je répondis: «Dieu est dans Sa Parole!».
-     Il me dit: «Nous ne discuterons pas ce sujet».
-53 Je lui dis: «Je ne discute pas, j’affirme simplement». Dieu est dans Sa Parole; c’est vrai.
-“Quiconque ôtera ou ajoutera quoi que ce soit à la Parole…” c’est la Parole qui le dit.
-54 Il me dit: «Pourtant Christ donna à Son église une puissance et leur dit que tout ce qu’ils
-lieraient sur la terre serait lié dans le Ciel».
-     Je dis: «C’est l’exacte vérité».
-     Il me répondit: «C’est en nous fondant sur ce principe que nous avons le pouvoir de délivrer
-du péché».
-55 Je lui dis: «Si vous le faites de la manière qui a été donnée à l’Eglise et de la manière qu’ils le
-firent, je l’accepte. Si vous l’acceptez, il y a ici de l’eau pour que vous soyez baptisé au Nom du
-Seigneur Jésus-Christ pour la rémission de vos péchés. Et ce ne sera pas simplement quelqu’un
-qui vous dira que vos péchés sont remis». C’est exactement cela.
-56 Observez Pierre tenant les clefs le jour de Pentecôte! Rappelez-vous qu’il a les clefs dont il
-est parlé. Les gens avaient demandé: “Hommes frères, que devons-nous faire pour être sauvés?”.
+    — «Monsieur Branham, Dieu est dans Son église».
+    Je répondis: «Dieu est dans Sa Parole!».
+    Il me dit: «Nous ne discuterons pas ce sujet».
+53 Je lui dis: «Je ne discute pas, j’affirme simplement». Dieu est dans Sa Parole; c’est vrai. “Quiconque ôtera ou ajoutera quoi que ce soit à la Parole…” c’est la Parole qui le dit.
+54 Il me dit: «Pourtant Christ donna à Son église une puissance et leur dit que tout ce qu’ils lieraient sur la terre serait lié dans le Ciel».
+    Je dis: «C’est l’exacte vérité».
+    Il me répondit: «C’est en nous fondant sur ce principe que nous avons le pouvoir de délivrer du péché».
+55 Je lui dis: «Si vous le faites de la manière qui a été donnée à l’Eglise et de la manière qu’ils le firent, je l’accepte. Si vous l’acceptez, il y a ici de l’eau pour que vous soyez baptisé au Nom du Seigneur Jésus-Christ pour la rémission de vos péchés. Et ce ne sera pas simplement quelqu’un qui vous dira que vos péchés sont remis». C’est exactement cela.
+56 Observez Pierre tenant les clefs le jour de Pentecôte! Rappelez-vous qu’il a les clefs dont il est parlé. Les gens avaient demandé: “Hommes frères, que devons-nous faire pour être sauvés?”.
 57 Pierre dit: “Repentez-vous, et que chacun de vous soit baptisé AU NOM de Jésus-Christ”.
-     — “Pourquoi?”.
-58 “Pour la rémission des péchés; ensuite vous recevrez le don du Saint-Esprit. Car la promesse
-est pour vous, pour vos enfants et pour tous ceux qui sont au loin, en aussi grand nombre que le
-Seigneur notre Dieu les appellera”. C’est vrai. Cela règle la chose pour toujours. C’est fini. Cela a
-été fait.
-59 Mais vous voyez, l’antichrist est entré comme nous l’avons décrit et montré. Quelle révélation!
-Oh, mes frères! Quand je pense à toutes ces années pendant lesquelles nous l’avons vu monter,
-et où cela est absolument AINSI DIT LE SEIGNEUR!
-60 Nous avons donc vu qu’il y avait un intervalle entre le sixième et le huitième chapitre. Or, le
+    — “Pourquoi?”.
+58 “Pour la rémission des péchés; ensuite vous recevrez le don du Saint-Esprit. Car la promesse est pour vous, pour vos enfants et pour tous ceux qui sont au loin, en aussi grand nombre que le Seigneur notre Dieu les appellera”. C’est vrai. Cela règle la chose pour toujours. C’est fini. Cela a été fait.
+59 Mais vous voyez, l’antichrist est entré comme nous l’avons décrit et montré. Quelle révélation! Oh, mes frères! Quand je pense à toutes ces années pendant lesquelles nous l’avons vu monter, et où cela est absolument AINSI DIT LE SEIGNEUR!
+60 Nous avons donc vu qu’il y avait un intervalle entre le sixième et le huitième chapitre. Or, le septième chapitre de l’Apocalypse nous révèle un événement. Il n’est pas là pour rien. Il n’a pas été placé là pour rien, vous voyez. Il est là dans un but et c’est une révélation qui nous révèle quelque chose.
+61 Remarquez comme c’est mystérieux et comme cela s’emboîte mathématiquement dans les Ecritures. Exactement. Croyez-vous à la mathématique de Dieu? Si vous n’y croyez pas vous êtes certainement perdu parce que vous vous perdrez certainement dans la Parole. Si vous commencez à ajouter un quatre ou un six, ou n’importe quoi aux mots mathématiques qui sont tous dans un ordre parfait, vous verrez bientôt une vache brouter au sommet d’un arbre! Vous vous y perdrez parce que toute la Parole de Dieu est écrite entièrement sur une base mathématique. C’est sûr! Parfaitement! Aucun autre livre n’est écrit ainsi avec une telle perfection mathématique.
+62 Ce chapitre huit ne fait que révéler la scène du septième Sceau où rien d’autre n’est révélé. Rien n’est révélé dans le septième Sceau. Mais il n’y a aucun rapport avec le septième chapitre de l’Apocalypse. Cette révélation du septième Sceau est parfaitement muette. Si seulement j’avais le temps (j’essaierai avec quelques passages) de vous montrer qu’il est parlé de ce septième Sceau dès la Genèse! Dès le début de la Genèse on voit apparaître ces Sceaux.
+63 Ne pouvez-vous pas vous rappeler comment ces choses ont été apportées ce matin? Observez cela ce soir tandis que nous les apportons et vous découvrirez que quand nous arrivons à ce septième Sceau il y a une interruption. Jésus-Christ Lui-même, parlant des temps de la fin, décrivit les six premiers Sceaux. Mais quand Il arriva au septième Sceau, Il s’arrêta. C’est ainsi, vous voyez. C’est quelque chose de glorieux!
+64 Nous allons maintenant parler de ce septième chapitre pendant un moment, afin d’établir un pont entre le sixième et le septième Sceau parce que c’est là tout le matériel dont nous disposons en ce moment pour avancer. Entre le sixième et le septième Sceau il y a l’appel d’Israël.
+65 Parmi ceux qui sont ici ce soir j’ai de nombreux amis qui sont d’anciens Témoins de Jéhovah. Peut-être quelques-uns le sont-ils encore. Comme monsieur Russel, ils ont toujours considéré ces 144 000 comme étant dans l’Epouse surnaturelle de Christ, vous voyez? Ce n’est pas cela. Ils n’ont rien à faire du tout dans les âges de l’Eglise. Il s’agit absolument d'Israël. D’ailleurs nous allons lire cela dans quelques minutes. Maintenant cet intervalle entre le sixième… Dans le septième chapitre sont appelés et scellés les 144 000 Juifs qui ont été appelés dans la période de tribulation après le départ de l’Eglise. Vous voyez? Cela n’a pas le moindre rapport avec les âges de l’Eglise. Ils sont appelés en parfaite harmonie avec les Ecritures (les derniers trois jours et demi alloués au peuple de Daniel, vous voyez). Il ne s’agit pas des nations mais du peuple de Daniel, car Daniel était juif.
+66 Notez encore ceci: Israël ne croit que ses prophètes, et seulement après qu’ils aient été confirmés. Jamais dans les âges de l’Eglise, même si l’on remonte à la première église apostolique, l’église protestante n’a eu de prophète. Sinon montrez-le moi et dites-moi qui il était. Jamais. Il y en eut un dans le premier âge apostolique, un nommé Agabus qui était un prophète confirmé. Mais quand les nations entrèrent dans l’héritage de Dieu, quand Paul se tourna vers les nations après que Pierre (comme nous l’avons lu hier soir) eût reçu du Seigneur l’ordre de susciter parmi les nations un peuple qui portât Son Nom (Son Epouse), on ne voit jamais dans les pages de l’histoire un prophète des nations.
+67 Vous pouvez essayer de chercher dans l’histoire! Pourquoi cela? Parce qu’autrement, ce serait exactement contraire à la Parole. Exactement! Quand le premier être vivant s’avança, c’était un lion. C’était un prophète de la Parole. Ensuite ce fut l’oeuvre, le sacrifice, qui s’avança. Ensuite vint l’intelligence, la ruse de l’homme. Mais il nous a été promis que dans les derniers jours cela viendrait de nouveau à l’église afin de redresser tout ce qui avait dévié et qui avait été laissé inachevé, car il a été prédit ici que le message du septième ange achèverait les mystères de Dieu. Nous avons vu tout cela. Nous avons vu que c’était en parfaite harmonie avec les Ecritures. Voilà la raison.
+68 Pouvez-vous imaginer ce qui se passera quand cet homme entrera en scène? Quand il viendra, souvenez-vous-en, ce sera si humble que les églises le manqueront complètement. Peut-on imaginer que les églises (qui sont encore sous la tradition des réformateurs) recevront jamais un prophète venant de Dieu qui s’opposerait fermement à leurs enseignements et organisations?
+69 Il n’y a qu’une seule personne qui pourrait accomplir cela. Je ne connais qu’un seul esprit qui a déjà été sur la terre: il faudrait que ce soit un Elie comme il l’était de son temps. Et il nous a été prédit que cela serait, ce qui n’est rien d’autre que l’Esprit de Christ. Quand Christ vint, Il était la plénitude. Il était un prophète. Il était le Dieu des prophètes, vous voyez?
+70 Christ. Voyez comme ils L’ont haï. Pourtant, Il est venu exactement de la manière que la Parole a dit qu’Il viendrait. Mais étant donné qu’Il était prophète, ces hommes s’exclurent eux-mêmes du Royaume de Dieu par leur blasphème consistant à traiter l’Esprit de Dieu (qui exerçait le discernement, etc.) d’esprit impur. Ils dirent qu’Il était un diseur de bonne aventure ou un démon. En effet, un devin est un démon, vous voyez, c’est un esprit de démon. Certainement. Saviez-vous cela? Absolument! La divination est une imitation de la prophétie, ce qui est absolument un blasphème devant Dieu.
+71 Remarquez comme tout cela est en parfaite harmonie avec les Saintes Ecritures concernant les derniers trois ans et demi de Daniel. Remarquez bien qu’il avait été dit dans l’Ancien Testament aux croyants d’Israël de croire leurs prophètes après que ceux-ci aient été confirmés. “S’il y a parmi vous quelqu’un de spirituel ou un prophète, moi, le Seigneur ton Dieu, je me ferai connaître à lui, et je lui parlerai par des visions et des songes”. Il interprétera les songes.
+72 Si quelqu’un a un songe, le prophète sera capable de l’interpréter. Et s’il a une vision, il la racontera: “Je me ferai connaître à lui par des visions et des songes. Je me ferai connaître moi-même. Et si ce qu’il dit arrive, alors écoutez ce prophète car je suis avec lui. Si cela n’arrive pas, n’ayez aucune crainte de lui”. C’est vrai. “Eloignez-vous de lui! Laissez cela tranquille!”. Vous voyez?
+73 Ainsi donc Israël croira toujours cela. Ne comprenez-vous pas pourquoi? J’aimerais que vous saisissiez bien cette leçon ce soir. Pourquoi cela? Parce que c’est un ordre que Dieu leur a donné. Peu importent les brochures et les prospectus que leur enverront les nations! Vous aurez beau aller parcourir Israël en long et en large avec votre Bible sous le bras, essayant de leur prouver ceci ou cela! Ils ne recevront jamais rien d’autre qu’un prophète. C’est l’exacte vérité, Car seul un prophète peut prendre la Parole divine et la mettre à sa place, et être un prophète confirmé. C’est cela qu’ils croiront. C’est vrai!
+74 J’eus l’occasion de parler avec un Juif à Benton Harbor lorsque John Ryan, qui avait été aveugle presque toute sa vie, recouvra la vue. Ils me conduisirent là-haut à cette Maison de David. Un rabbin à longue barbe sortit à ma rencontre et me dit: “Par quelle autorité avez-vous rendu la vue à John Ryan?”.
+    Je lui dis: “Au Nom de Jésus-Christ, le Fils de Dieu!”.
+75 Il me répondit: “Loin de moi la pensée que Dieu ait un Fils! Vous autres ne pourrez jamais couper Dieu en trois morceaux et faire accepter cela à un Juif, faisant trois dieux de Lui! Vous n’êtes qu’une bande de païens!”.
+76 Je lui dis: “Je ne coupe pas Dieu en trois morceaux! Rabbi, cela ne vous semblerait-il pas étrange de croire qu’un de vos prophètes ait dit quelque chose de faux?”.
+    Il me dit: “Nos prophètes ne disent rien de faux!”.
+    Je lui répondis: “De qui Ésaïe 9.6 parle-t-il?”.
+    Il me dit: “Du Messie!”.
+    Je dis: “Donc le Messie sera un homme-prophète, n’est-ce pas?”.
+    Il me dit: “Oui monsieur, c’est vrai”.
+77 Je dis alors: “Montrez-moi où Jésus a failli à cela. Quelle relation y aura-t-il entre le prophète-Messie et Dieu?”.
+    Il répondit: “Il sera Dieu!”.
+78 Je dis: “C’est vrai. Ainsi vous voyez que c’est écrit dans la Parole!”. Que Dieu me juge si je mens! Les larmes se mirent à couler sur les joues de ce Juif qui se tenait là et il dit: “Je viendrai vous écouter plus tard”.
+    Je dis: “Rabbi, croyez-vous à cela?”.
+79 Il me dit: “Vous voyez, de ces pierres, Dieu est capable de susciter des enfants à Abraham”. (Je savais qu’il était maintenant dans le Nouveau Testament.)
+    Je dis: “C’est juste, Rabbi; alors, que ferez-vous?”.
+80 Il me dit: “Si je me mets à prêcher cela, je me retrouverai là en bas (vous savez que leur synagogue se trouve au sommet de la colline) dans la rue où je n’aurai plus qu’à mendier mon pain”.
+81 Je dis: “Je préfèrerais devoir aller dans la rue mendier mon pain (ce Juif était encore attaché à l’argent, vous comprenez, et son nom était inscrit là en lettres d’or)… J’aimerais mieux être là en bas à manger des biscuits secs et boire de l’eau du robinet, sachant que je suis en harmonie avec Dieu et approuvé, que d’être ici avec mon nom écrit en lettres d’or sur cette maison, tout en sachant très bien que je suis loin de Dieu”. Il ne voulut plus rien entendre de moi.
+82 Alors il rentra. Voilà! Vous ne pouvez pas couper Dieu en deux ou trois morceaux appelés Père, Fils et Saint-Esprit, faire de cela trois dieux et donner cela à un Juif. Son commandement même est: “Tu n’auras pas d’autres dieux devant ma face. Je suis le Seigneur, ton Dieu”. Que dit Jésus? Jésus dit: “Ecoute, ô Israël! Je suis le Seigneur ton Dieu! Un Dieu et non pas trois!”. Vous ne pourrez jamais leur donner cela. Aucun prophète ne parlera jamais de trois dieux. Vous n’entendrez jamais cela! Non! C’est du paganisme, et d’ailleurs cela vient du paganisme. C’est certain!
+83 Remarquez bien que ces prophètes viendront, les prophètes d’Apocalypse 11. Nous avons lu quelque chose à ce sujet et j’aimerais que vous le lisiez tandis que vous l’étudiez en écoutant les bandes. Ce sont des prophètes absolument confirmés par les signes des prophètes. Alors cela, Israël l’écoutera.
+84 Maintenant, chers amis Témoins de Jéhovah, comprenez bien que ces 144 000 n’ont aucun rapport avec l’Epouse. Il n’y a aucun passage de l’Ecriture pour soutenir cela. Non, ils ne le sont certainement pas. Ce sont des Juifs, les élus qui sont appelés pendant les derniers trois ans et demi des soixante-dix semaines de Daniel. Vous savez, si je reviens toujours là-dessus, ce n’est pas tant pour vous qui êtes ici, mais vous savez que ces bandes vont partout. Vous, vous comprenez cela. Si vous m’entendez toujours parler de cela, c’est pour cette raison.
+85 Comprenez-vous maintenant pourquoi Dieu dut aveugler les juifs afin de les empêcher de reconnaître Jésus? S’ils savaient, s’ils savaient seulement qui Il est! Voyant les signes qu’Il accomplissait, s’ils avaient été dans une période semblable à celle où ils étaient, sous la loi, quand Dieu leur donna le commandement au sujet des prophètes, voyant Jésus faire ces choses ils auraient dit: “C’est le Messie!”. Pourquoi était-ce le Messie?
+86 Dans ces temps-là, ceux dont le nom était inscrit dans le Livre de Vie de l’Agneau, Ses apôtres et d’autres encore virent cela et le reconnurent. Pourquoi pas les autres? Parce qu’ils avaient été aveuglés! Ils ne pouvaient voir cela, ils ne le voient toujours pas! Et ils ne le verront pas tant qu’Israël ne sera pas né en une seule fois en tant que nation. La Parole ne peut faillir! Rappelez-vous que la Parole ne peut faillir! Peu importe combien de sensations vous avez et ce qui se passe, cette Parole ne peut faillir. Ce sera exactement de la manière que Dieu l’a dite!
+87 Nous réalisons que ces choses doivent arriver. Et c’est la raison pour laquelle ils ne reconnurent pas Jésus, alors même qu’Il s’était identifié parfaitement comme étant le Prophète. Il l’était même pour la femme samaritaine qui se tenait près du puits. Il n’avait encore jamais été en Samarie. Il se leva simplement et dit qu’Il devait aller dans cette direction. Il y alla et cette femme était là. Et elle, dans son état, était dans une meilleure position pour recevoir l’Evangile que tous les prêtres et gens religieux de ce jour. C’est ce qu’elle fit. Certainement! Et pourtant, vous voyez, malgré leur rejet, un des plus élevés parmi eux admit qu’ils savaient que Jésus était un docteur envoyé de Dieu.
+88 Je parlais il n’y a pas longtemps avec un des meilleurs médecins qu’il y ait dans les états du sud. J’étais dans son bureau. C’est un grand spécialiste de Louisville, un homme vraiment très bien. Je lui dis: “Docteur, je voudrais vous poser une question”.
+    Il me répondit: “Très bien!”.
+89 Je dis: “J’ai remarqué l’enseigne de votre profession, votre emblème. C’est un serpent enroulé”.
 
-        http://www.cmpp.ch
-
-    REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU    8
-septième chapitre de l’Apocalypse nous révèle un événement. Il n’est pas là pour rien. Il n’a pas
-été placé là pour rien, vous voyez. Il est là dans un but et c’est une révélation qui nous révèle
-quelque chose.
-61 Remarquez comme c’est mystérieux et comme cela s’emboîte mathématiquement dans les
-Ecritures. Exactement. Croyez-vous à la mathématique de Dieu? Si vous n’y croyez pas vous êtes
-certainement perdu parce que vous vous perdrez certainement dans la Parole. Si vous
-commencez à ajouter un quatre ou un six, ou n’importe quoi aux mots mathématiques qui sont
-tous dans un ordre parfait, vous verrez bientôt une vache brouter au sommet d’un arbre! Vous
-vous y perdrez parce que toute la Parole de Dieu est écrite entièrement sur une base
-mathématique. C’est sûr! Parfaitement! Aucun autre livre n’est écrit ainsi avec une telle perfection
-mathématique.
-62 Ce chapitre huit ne fait que révéler la scène du septième Sceau où rien d’autre n’est révélé.
-Rien n’est révélé dans le septième Sceau. Mais il n’y a aucun rapport avec le septième chapitre
-de l’Apocalypse. Cette révélation du septième Sceau est parfaitement muette. Si seulement
-j’avais le temps (j’essaierai avec quelques passages) de vous montrer qu’il est parlé de ce
-septième Sceau dès la Genèse! Dès le début de la Genèse on voit apparaître ces Sceaux.
-63 Ne pouvez-vous pas vous rappeler comment ces choses ont été apportées ce matin?
-Observez cela ce soir tandis que nous les apportons et vous découvrirez que quand nous arrivons
-à ce septième Sceau il y a une interruption. Jésus-Christ Lui-même, parlant des temps de la fin,
-décrivit les six premiers Sceaux. Mais quand Il arriva au septième Sceau, Il s’arrêta. C’est ainsi,
-vous voyez. C’est quelque chose de glorieux!
-64 Nous allons maintenant parler de ce septième chapitre pendant un moment, afin d’établir un
-pont entre le sixième et le septième Sceau parce que c’est là tout le matériel dont nous disposons
-en ce moment pour avancer. Entre le sixième et le septième Sceau il y a l’appel d’Israël.
-65 Parmi ceux qui sont ici ce soir j’ai de nombreux amis qui sont d’anciens Témoins de Jéhovah.
-Peut-être quelques-uns le sont-ils encore. Comme monsieur Russel, ils ont toujours considéré ces
-144 000 comme étant dans l’Epouse surnaturelle de Christ, vous voyez? Ce n’est pas cela. Ils
-n’ont rien à faire du tout dans les âges de l’Eglise. Il s’agit absolument d'Israël. D’ailleurs nous
-allons lire cela dans quelques minutes. Maintenant cet intervalle entre le sixième… Dans le
-septième chapitre sont appelés et scellés les 144 000 Juifs qui ont été appelés dans la période de
-tribulation après le départ de l’Eglise. Vous voyez? Cela n’a pas le moindre rapport avec les âges
-de l’Eglise. Ils sont appelés en parfaite harmonie avec les Ecritures (les derniers trois jours et demi
-alloués au peuple de Daniel, vous voyez). Il ne s’agit pas des nations mais du peuple de Daniel,
-car Daniel était juif.
-66 Notez encore ceci: Israël ne croit que ses prophètes, et seulement après qu’ils aient été
-confirmés. Jamais dans les âges de l’Eglise, même si l’on remonte à la première église
-apostolique, l’église protestante n’a eu de prophète. Sinon montrez-le moi et dites-moi qui il était.
-Jamais. Il y en eut un dans le premier âge apostolique, un nommé Agabus qui était un prophète
-confirmé. Mais quand les nations entrèrent dans l’héritage de Dieu, quand Paul se tourna vers les
-nations après que Pierre (comme nous l’avons lu hier soir) eût reçu du Seigneur l’ordre de susciter
-parmi les nations un peuple qui portât Son Nom (Son Epouse), on ne voit jamais dans les pages
-de l’histoire un prophète des nations.
-67 Vous pouvez essayer de chercher dans l’histoire! Pourquoi cela? Parce qu’autrement, ce
-serait exactement contraire à la Parole. Exactement! Quand le premier être vivant s’avança, c’était
-un lion. C’était un prophète de la Parole. Ensuite ce fut l’oeuvre, le sacrifice, qui s’avança. Ensuite
-vint l’intelligence, la ruse de l’homme. Mais il nous a été promis que dans les derniers jours
-cela viendrait de nouveau à l’église afin de redresser tout ce qui avait dévié et qui avait été
-laissé inachevé, car il a été prédit ici que le message du septième ange achèverait les
-mystères de Dieu. Nous avons vu tout cela. Nous avons vu que c’était en parfaite harmonie avec
-les Ecritures. Voilà la raison.
-68 Pouvez-vous imaginer ce qui se passera quand cet homme entrera en scène? Quand il
-viendra, souvenez-vous-en, ce sera si humble que les églises le manqueront complètement.
-Peut-on imaginer que les églises (qui sont encore sous la tradition des réformateurs) recevront
-jamais un prophète venant de Dieu qui s’opposerait fermement à leurs enseignements et
-
-     http://www.cmpp.ch
-
-    REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU    9
-organisations?
-69 Il n’y a qu’une seule personne qui pourrait accomplir cela. Je ne connais qu’un seul esprit qui
-a déjà été sur la terre: il faudrait que ce soit un Elie comme il l’était de son temps. Et il nous a été
-prédit que cela serait, ce qui n’est rien d’autre que l’Esprit de Christ. Quand Christ vint, Il était la
-plénitude. Il était un prophète. Il était le Dieu des prophètes, vous voyez?
-70 Christ. Voyez comme ils L’ont haï. Pourtant, Il est venu exactement de la manière que la
-Parole a dit qu’Il viendrait. Mais étant donné qu’Il était prophète, ces hommes s’exclurent
-eux-mêmes du Royaume de Dieu par leur blasphème consistant à traiter l’Esprit de Dieu
-(qui exerçait le discernement, etc.) d’esprit impur. Ils dirent qu’Il était un diseur de bonne
-aventure ou un démon. En effet, un devin est un démon, vous voyez, c’est un esprit de démon.
-Certainement. Saviez-vous cela? Absolument! La divination est une imitation de la prophétie, ce
-qui est absolument un blasphème devant Dieu.
-71 Remarquez comme tout cela est en parfaite harmonie avec les Saintes Ecritures concernant
-les derniers trois ans et demi de Daniel. Remarquez bien qu’il avait été dit dans l’Ancien
-Testament aux croyants d’Israël de croire leurs prophètes après que ceux-ci aient été confirmés.
-“S’il y a parmi vous quelqu’un de spirituel ou un prophète, moi, le Seigneur ton Dieu, je me ferai
-connaître à lui, et je lui parlerai par des visions et des songes”. Il interprétera les songes.
-72 Si quelqu’un a un songe, le prophète sera capable de l’interpréter. Et s’il a une vision, il la
-racontera: “Je me ferai connaître à lui par des visions et des songes. Je me ferai connaître
-moi-même. Et si ce qu’il dit arrive, alors écoutez ce prophète car je suis avec lui. Si cela n’arrive
-pas, n’ayez aucune crainte de lui”. C’est vrai. “Eloignez-vous de lui! Laissez cela tranquille!”. Vous
-voyez?
-73 Ainsi donc Israël croira toujours cela. Ne comprenez-vous pas pourquoi? J’aimerais que vous
-saisissiez bien cette leçon ce soir. Pourquoi cela? Parce que c’est un ordre que Dieu leur a donné.
-Peu importent les brochures et les prospectus que leur enverront les nations! Vous aurez beau
-aller parcourir Israël en long et en large avec votre Bible sous le bras, essayant de leur prouver
-ceci ou cela! Ils ne recevront jamais rien d’autre qu’un prophète. C’est l’exacte vérité, Car seul un
-prophète peut prendre la Parole divine et la mettre à sa place, et être un prophète confirmé.
-C’est cela qu’ils croiront. C’est vrai!
-74 J’eus l’occasion de parler avec un Juif à Benton Harbor lorsque John Ryan, qui avait été
-aveugle presque toute sa vie, recouvra la vue. Ils me conduisirent là-haut à cette Maison de David.
-Un rabbin à longue barbe sortit à ma rencontre et me dit: “Par quelle autorité avez-vous rendu la
-vue à John Ryan?”.
-     Je lui dis: “Au Nom de Jésus-Christ, le Fils de Dieu!”.
-75 Il me répondit: “Loin de moi la pensée que Dieu ait un Fils! Vous autres ne pourrez jamais
-couper Dieu en trois morceaux et faire accepter cela à un Juif, faisant trois dieux de Lui! Vous
-n’êtes qu’une bande de païens!”.
-76 Je lui dis: “Je ne coupe pas Dieu en trois morceaux! Rabbi, cela ne vous semblerait-il pas
-étrange de croire qu’un de vos prophètes ait dit quelque chose de faux?”.
-     Il me dit: “Nos prophètes ne disent rien de faux!”.
-     Je lui répondis: “De qui Ésaïe 9.6 parle-t-il?”.
-     Il me dit: “Du Messie!”.
-     Je dis: “Donc le Messie sera un homme-prophète, n’est-ce pas?”.
-     Il me dit: “Oui monsieur, c’est vrai”.
-77 Je dis alors: “Montrez-moi où Jésus a failli à cela. Quelle relation y aura-t-il entre le
-prophète-Messie et Dieu?”.
-     Il répondit: “Il sera Dieu!”.
-78 Je dis: “C’est vrai. Ainsi vous voyez que c’est écrit dans la Parole!”. Que Dieu me juge si je
-mens! Les larmes se mirent à couler sur les joues de ce Juif qui se tenait là et il dit: “Je viendrai
-vous écouter plus tard”.
-     Je dis: “Rabbi, croyez-vous à cela?”.
-
-    http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU 10
-79 Il me dit: “Vous voyez, de ces pierres, Dieu est capable de susciter des enfants à Abraham”.
-(Je savais qu’il était maintenant dans le Nouveau Testament.)
-     Je dis: “C’est juste, Rabbi; alors, que ferez-vous?”.
-80 Il me dit: “Si je me mets à prêcher cela, je me retrouverai là en bas (vous savez que leur
-synagogue se trouve au sommet de la colline) dans la rue où je n’aurai plus qu’à mendier mon
-pain”.
-81 Je dis: “Je préfèrerais devoir aller dans la rue mendier mon pain (ce Juif était encore attaché à
-l’argent, vous comprenez, et son nom était inscrit là en lettres d’or)… J’aimerais mieux être là en
-bas à manger des biscuits secs et boire de l’eau du robinet, sachant que je suis en harmonie avec
-Dieu et approuvé, que d’être ici avec mon nom écrit en lettres d’or sur cette maison, tout en
-sachant très bien que je suis loin de Dieu”. Il ne voulut plus rien entendre de moi.
-82 Alors il rentra. Voilà! Vous ne pouvez pas couper Dieu en deux ou trois morceaux appelés
-Père, Fils et Saint-Esprit, faire de cela trois dieux et donner cela à un Juif. Son commandement
-même est: “Tu n’auras pas d’autres dieux devant ma face. Je suis le Seigneur, ton Dieu”. Que dit
-Jésus? Jésus dit: “Ecoute, ô Israël! Je suis le Seigneur ton Dieu! Un Dieu et non pas trois!”. Vous
-ne pourrez jamais leur donner cela. Aucun prophète ne parlera jamais de trois dieux. Vous
-n’entendrez jamais cela! Non! C’est du paganisme, et d’ailleurs cela vient du paganisme. C’est
-certain!
-83 Remarquez bien que ces prophètes viendront, les prophètes d’Apocalypse 11. Nous avons lu
-quelque chose à ce sujet et j’aimerais que vous le lisiez tandis que vous l’étudiez en écoutant les
-bandes. Ce sont des prophètes absolument confirmés par les signes des prophètes. Alors cela,
-Israël l’écoutera.
-84 Maintenant, chers amis Témoins de Jéhovah, comprenez bien que ces 144 000 n’ont aucun
-rapport avec l’Epouse. Il n’y a aucun passage de l’Ecriture pour soutenir cela. Non, ils ne le sont
-certainement pas. Ce sont des Juifs, les élus qui sont appelés pendant les derniers trois ans
-et demi des soixante-dix semaines de Daniel. Vous savez, si je reviens toujours là-dessus, ce
-n’est pas tant pour vous qui êtes ici, mais vous savez que ces bandes vont partout. Vous, vous
-comprenez cela. Si vous m’entendez toujours parler de cela, c’est pour cette raison.
-85 Comprenez-vous maintenant pourquoi Dieu dut aveugler les juifs afin de les empêcher de
-reconnaître Jésus? S’ils savaient, s’ils savaient seulement qui Il est! Voyant les signes qu’Il
-accomplissait, s’ils avaient été dans une période semblable à celle où ils étaient, sous la loi, quand
-Dieu leur donna le commandement au sujet des prophètes, voyant Jésus faire ces choses ils
-auraient dit: “C’est le Messie!”. Pourquoi était-ce le Messie?
-86 Dans ces temps-là, ceux dont le nom était inscrit dans le Livre de Vie de l’Agneau, Ses
-apôtres et d’autres encore virent cela et le reconnurent. Pourquoi pas les autres? Parce qu’ils
-avaient été aveuglés! Ils ne pouvaient voir cela, ils ne le voient toujours pas! Et ils ne le
-verront pas tant qu’Israël ne sera pas né en une seule fois en tant que nation. La Parole ne
-peut faillir! Rappelez-vous que la Parole ne peut faillir! Peu importe combien de sensations vous
-avez et ce qui se passe, cette Parole ne peut faillir. Ce sera exactement de la manière que Dieu l’a
-dite!
-87 Nous réalisons que ces choses doivent arriver. Et c’est la raison pour laquelle ils ne
-reconnurent pas Jésus, alors même qu’Il s’était identifié parfaitement comme étant le
-Prophète. Il l’était même pour la femme samaritaine qui se tenait près du puits. Il n’avait encore
-jamais été en Samarie. Il se leva simplement et dit qu’Il devait aller dans cette direction. Il y alla et
-cette femme était là. Et elle, dans son état, était dans une meilleure position pour recevoir
-l’Evangile que tous les prêtres et gens religieux de ce jour. C’est ce qu’elle fit. Certainement! Et
-pourtant, vous voyez, malgré leur rejet, un des plus élevés parmi eux admit qu’ils savaient que
-Jésus était un docteur envoyé de Dieu.
-88 Je parlais il n’y a pas longtemps avec un des meilleurs médecins qu’il y ait dans les états du
-sud. J’étais dans son bureau. C’est un grand spécialiste de Louisville, un homme vraiment très
-bien. Je lui dis: “Docteur, je voudrais vous poser une question”.
-     Il me répondit: “Très bien!”.
-89 Je dis: “J’ai remarqué l’enseigne de votre profession, votre emblème. C’est un serpent enroulé
-
-        http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU 11
 autour d’un bâton. Que signifie-t-il?”.
      Il me dit: “Je n’en sais rien!”.
 90 Je lui répondis: “C’est un symbole de la guérison divine, quand Moïse éleva le serpent d’airain
@@ -995,7 +645,7 @@ parce que cela arrivera mais quand les sept tonnerres…
 REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU 19
 tonnerre. Lorsqu’Israël fut rassemblé, il y eut une trompette. Quand il n’y aura plus de temps, ce
 sera la dernière trompette. Un seul tonnerre… Mais maintenant nous avons sept tonnerres l’un
-derrière l’autre. Un, deux, trois, quatre, cinq, six, sept! [Fin de la première piste — N.d.R.]
+ derrière l’autre. Un, deux, trois, quatre, cinq, six, sept! [Fin de la première piste — N.d.R.]
 Maintenant pourquoi? Si Satan s’en emparait cela pourrait causer de grands dommages. Mais
 il y a une chose qu’il ne connaît pas. Il peut interpréter tout ce qu’il veut et imiter n’importe
 quelle sorte de don (j’espère que vous apprenez quelque chose!) mais il ne peut connaître
@@ -1033,7 +683,7 @@ loin que là!””.
 quand j’avais essayé de vous expliquer quelque chose au sujet de ce petit soulier, comment l’âme
 se trouve près de ceci, de cette conscience intérieure, et toutes ces choses qui ont donné le départ
 à toute une série d’imitations qui sont venues après. Il fallait prendre la main de la personne, la
-tenir et recevoir la vibration. Alors chacun se mit à ressentir des vibrations dans la main! Mais
+ tenir et recevoir la vibration. Alors chacun se mit à ressentir des vibrations dans la main! Mais
 rappelez-vous quand Il me prit là-haut et dit: “Voici le troisième Pull. Personne ne le connaîtra”.
 Vous souvenez-vous de cela? Les visions ne faillissent jamais! Elles sont parfaitement vraies.
 172 Vous souvenez-vous aussi de la vision de la constellation? Charlie, nous y voilà! Quelque
@@ -1319,8 +969,8 @@ jamais connus. Dieu les oublie; ils n’ont même jamais été commis! Tant que 
 trouve là, faisant l’expiation pour nous, c’est tout ce qu’il faut. Nous ne sommes plus pécheurs.
 Nous sommes des chrétiens par la grâce de Dieu.
 215 Rappelez-vous qu’à l’intérieur de nous-mêmes nous serions probablement toujours aussi
-mauvais, mais vous voyez, la grâce de Dieu nous est apparue et c’est ce qui a fait de nous ce que
-nous sommes aujourd’hui, des frères et des soeurs chrétiens.
+mauvais, mais vous voyez, la grâce de Dieu nous est apparue et c’est ce qui a fait de nous ce
+que nous sommes aujourd’hui, des frères et des soeurs chrétiens.
 216 Pour moi, cette semaine a été extraordinaire. Je suis fatigué; mon esprit est fatigué parce que
 j’ai fait tout ce que j’ai pu. Il s’est passé quelque chose d’étrange chaque jour. Lorsque je marchais
 dans ma chambre, je m’étonnais toujours de voir après quelques minutes quelque chose qui me
@@ -1571,7 +1221,7 @@ dit: “Instruisez-vous par une comparaison tirée du figuier. Dès qu’il comm
 
         http://www.cmpp.ch
 
-    REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU    29
+REVELATION DES SEPT SCEAUX / LE SEPTIEME SCEAU    29
 bourgeons, eh bien vous savez que le printemps est proche. De même quand vous verrez ces
 choses arriver, sachez que le temps est proche.
 256 Vous voyez Israël se rassembler dans sa propre patrie. Mais vous avez remarqué qu’Il a omis
@@ -1654,9 +1304,6 @@ de vous. Amen!
         Parce qu’Il m’aima le premier
         Et acquit mon salut
         Sur le bois du Calvaire.
-
-
-
 
 
 

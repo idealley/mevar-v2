@@ -1,548 +1,174 @@
-    SERIE 5, N° 5
+---
+source: "cmpp"
+sermon_id: "serie5no5"
+title: "Rendre un service à Dieu en dehors de Sa volonté"
+date: "1965-07-18"
+year: 1965
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le danger de servir Dieu avec de bonnes intentions mais en dehors de Sa volonté, en prenant l'exemple de David qui voulut ramener l'arche sans consulter Dieu selon Sa méthode. Il souligne que Dieu révèle Sa Parole en Sa saison et à qui Il choisit, et que la sincérité ne suffit pas sans obéissance à la Parole."
+tags:
+  - "volonté de Dieu"
+  - "obéissance"
+  - "révélation"
+  - "saison de Dieu"
+  - "David"
+  - "arche de l'alliance"
+persons:
+  - "William Marrion Branham"
+  - "David"
+  - "Nathan"
+  - "Achab"
+  - "Josaphat"
+  - "Michée"
+  - "Jésus-Christ"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "U.S.A."
+  - "Los Angeles"
+  - "Californie"
+  - "Tucson"
+  - "San Diego"
+  - "Israël"
+  - "Ramoth en Galaad"
+themes:
+  - "souveraineté de Dieu"
+  - "obéissance à la Parole"
+  - "révélation progressive"
+  - "danger des bonnes intentions"
+  - "consultation de Dieu"
+  - "réveil selon Dieu"
+pdf_url: "http://cmpp.ch/serie5no5.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 13"
+  - "1 Chroniques 15"
+  - "Amos 3"
+  - "Apocalypse 10"
+  - "Deutéronome 4"
+  - "Joël 2"
+  - "Luc 17"
+  - "Malachie 4"
+  - "Malachie 85"
+  - "Marc 7"
+  - "Matthieu 15"
+---
+SERIE 5, N° 5
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
+WILLIAM MARRION BRANHAM
 
-    WILLIAM MARRION BRANHAM
+RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE
+(Doing God a Service Without his Will)
 
-
-
-
-
-RENDRE UN SERVICE A DIEU
-EN DEHORS DE SA VOLONTE
-   (Doing God a Service Without his Will)
-
-
-
-
-     18 juillet 1965, matin
-       Branham Tabernacle
+18 juillet 1965, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE    2
+RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE
 
 Rendre un service à Dieu en dehors de Sa Volonté
-     (Doing God a Service Without his Will)
+(Doing God a Service Without his Will)
 
-             18 Juillet 1965, matin
-               Branham Tabernacle
-        Jeffersonville — Indiana, U.S.A.
+18 Juillet 1965, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
-
-
-
-
-     Restons maintenant un moment debout tandis que nous prions. Inclinons nos têtes.
-1 Seigneur, ce matin nous sommes heureux d’être de retour dans la maison de Dieu pour un
-autre service. Et nous Te prions ô Dieu, afin que ce matin, Tu nous corriges de toutes nos erreurs.
-Montre-nous les sentiers dans lesquels Tu nous as ordonné de marcher, et accorde-nous Ta
-grâce et Ton amour afin que nous puissions suivre ces sentiers et ces instructions de tout notre
-coeur et afin qu’en ce jour nous puissions être trouvés sans reproche en Christ, car nous croyons,
-Seigneur, que Sa venue est proche.
-2 Nous voyons que tous les signes qu’Il a dit devoir arriver juste avant Sa venue sont
-maintenant en train de s’accomplir. Et c’est avec joie que nous attendons ce moment. Autrefois,
-Abraham attendait ce fils promis; et lorsqu’il vit ces derniers signes de Dieu descendre sur terre, il
-sut qu’il ne s’écoulerait pas longtemps avant que le fils n’arrive. Et nous voyons maintenant que
-cela se répète. Jésus nous a dit que lorsque ces choses commenceraient à arriver — perplexité
-de temps, détresse dans les nations, tremblements de terre en divers endroits, rugissement de la
-mer, coeur de l’homme défaillant de crainte — , nous devions relever la tête car notre rédemption
-serait proche.
-3 Et nous réalisons que nous nous trouvons en cette heure dans laquelle les nations ne savent
-que faire. Il semble qu’une autre guerre se prépare. Quelle chose horrible ce serait. La terre est
-en train de se fissurer. Les hommes de science disent que quelque chose de terrible est proche.
-Nous voyons que la Bible parle de cela. Alors, Seigneur, aide-nous aujourd’hui à nous tenir dans
-cette maison de correction et à recevoir nos ordres de notre Dieu afin d’avancer vers cette heure
-de ténèbres pour faire briller la Lumière, car il se peut que ce soit notre dernière occasion de le
-faire. Nous le demandons au Nom de Jésus et pour Sa gloire. Amen. (Asseyez-vous.)
-4 Je suis très certainement reconnaissant pour ce grand privilège d’être ici dans ce tabernacle
-ce matin. Je suis désolé que nous n’ayons pas assez de places assises pour vous là-autour. Les
-places sont occupées et les gens se tiennent debout partout là-dehors. Vous qui vous trouvez
-là-dehors maintenant, vous pouvez écouter cela sur votre radio. Je ne sais plus quelle… [Frère
-Neville indique à frère Branham sur quelle fréquence on peut écouter — N.d.R.] C’est de 55 à 57.
-Vous qui vous trouvez là-dehors, sur les parkings, et vous tous qui vous trouvez dans les rues
-là-autour, vous pouvez écouter cela sur votre radio en sélectionnant les fréquences entre 55 et 57.
-5 Je suis revenu ici pour essayer d’avoir dix jours de rencontres afin de parler sur le sujet des
-Sept Coupes; car entre ces Coupes se trouvent les Trompettes. Et je vous ai dit que lorsque je
-prêcherai sur les Sept Trompettes, je les introduirais avec les Sceaux et les Plaies. Et j’ai pensé
-que ce serait le bon moment. Je viens de rentrer d’Afrique et les enfants n’ont pas eu leur
-vacances. Mon petit garçon Joseph a eu besoin de quelques semaines d’étude en lecture. Il avait
-très bien réussi mais sa lecture n’était pas au point, nous l’avons donc gardé à Tucson, et pendant
-que j’étais en Afrique il a continué avec sa lecture et a rattrapé tout cela avec quelques jours
-d’école. Puis nous sommes revenus. Et j’ai pensé que pendant que les enfants auraient leurs
-vacances, je pourrais avoir une petite rencontre ici avec les gens pour prêcher sur ces sujets.
-Mais en arrivant ici nous nous sommes aperçus que nous ne pouvions pas obtenir l’auditorium de
-l’école.
-6 Et je savais que le tabernacle n’était pas assez grand pour asseoir tous les gens de manière
-qu’ils soient à l’aise, comme ils le devraient lorsque je donnerais ce message. C’est pourquoi nous
-
-        http://www.cmpp.ch
-
-RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 3
-avons dû nous arranger autrement. Ainsi au lieu de faire des réunions pendant les dix soirées
-comme nous avions prévu de le faire, eh bien, je ferais simplement deux services dimanche
-prochain et le dimanche suivant. Nous n’avons pas fait de publicité pour cela. Alors s’il y en a qui
-ont entendu dire que les rencontres devaient commencer, Dieu voulant, le 28 à l’auditorium
-scolaire et qui ont effectué ainsi que leurs amis des réservations dans les motels, je crois qu’ils
-devraient annuler cela, car nous n’avons pas la possibilité d’avoir cela, nous n’avons pas pu avoir
-l’auditorium scolaire.
-7 Maintenant, dimanche matin, j’aimerais avoir simplement un service évangélique. Et samedi
-soir, je veux prier pour les malades. Et nous avons confiance que Dieu viendra à votre rencontre,
-vous qui êtes malades. Je ne sais pas comment Billy va s’occuper de vous. Je suppose qu’il vous
-donnera des cartes de prière ou qu’il trouvera un moyen de s’occuper de l’assemblée. Mais nous
-ferons tout notre possible pour prier pour chacun pendant ces trois prochaines semaines pendant
-lesquelles nous avons l’intention d’avoir des services, si c’est la volonté du Seigneur.
-8 Maintenant, il y a souvent des entretiens particuliers, il arrive que quelqu’un veuille vous voir
-une minute au sujet d’une chose ou d’une autre. Combien ici aimeraient avoir un entretien
-particulier, levez la main. Ouh! Qui, plutôt, n’en veut pas?
-9 Ce sera difficile de les obtenir; écrivez donc votre question et remettez-la à Billy et ainsi je
-pourrai les avoir. Et je crois que, chaque fois que les cartes de prière seront distribuées, il fera une
-annonce.
-10 Combien de nos frères prédicateurs sont ici ce matin? Nous n’avons pas eu l’occasion de
-nous voir, je pense. En avez-vous reconnu? Combien de prédicateurs sont ici ce matin?
-Voulez-vous simplement lever la main, ou vous lever? Voyons combien de prédicateurs sont dans
-l’assemblée ce matin. C’est bien! Remercions le Seigneur pour ces hommes. J’aimerais que nous
-ayons du temps pour reconnaître chacun d’entre eux, mais je suis sûr que vous les voyez et Dieu
-les connaît dans leur service; nous prions Dieu de les bénir richement. Certainement que
-beaucoup d’entre eux ont dû annuler leur service pour venir ici, comme frère Junior Jackson et
-frère Don Ruddell, je crois. Et cet enregistrement est diffusé dans leurs églises. Il est aussi diffusé
-dans New York et d’autres endroits dans le pays ainsi que dans chaque église ce matin au moyen
-du téléphone privé.
-11 Je suis content de voir frère Richard Blair assis là. Je viens de lire une lettre racontant une
-chose glorieuse que Dieu a faite parmi le peuple là-bas. L’autre jour, d’après ce que j’ai compris (il
-se peut que je me trompe, frère Blair; si c’est le cas, corrige-moi), il était en train de travailler. Il
-aidait un homme à mettre le courant dans une caravane ou quelque chose comme cela; je crois
-que c’est cela. (J’ai lu la lettre.) Et ils ont inversé quelque chose et le courant est parti dans un
-baquet d’eau où se trouvait un petit garçon (un des petits garçons de l’homme a qui appartient la
-caravane, un tout petit garçon), et le petit garçon a été tué. Son estomac s’est mis à enfler et…
-Nous savons ce qu’est un choc électrique et ce qui arrive lorsqu’on en meurt. Les petits yeux sont
-restés fixes et les dents se sont serrées.
-12 Les frères ont été tellement secoués. Frère Blair dit qu’il pensa essayer de me joindre
-quelque part afin que je prie pour cela, mais il se souvint qu’il est dit que “partout où deux ou trois
-sont assemblés en mon Nom, je suis au milieu d’eux”. Et le père essaya d’introduire ses doigts
-dans la bouche du petit garçon pour l’ouvrir. Ils s’agenouillèrent et commencèrent à prier sur le
-petit garçon, et il revint à la vie.
-13 Est-ce juste, frère Blair? C’est un de nos fidèles frères ici. Oh, le petit garçon est ici. Eh bien,
-que le Seigneur soit remercié! C’est bien. Nous aimerions que tu te lèves, Sonny. Maintenant,
-nous remercions notre bien-aimé Seigneur pour cela. Est-ce le père du petit garçon? Etes-vous le
-père? C’est juste. Et voici frère Richard Blair. Notre Dieu est capable de tout faire. Certainement. Il
-l’a promis. Nous vivons dans la divine présence de ce grand et glorieux Père céleste. Et toutes
-choses sont possibles si nous pouvons simplement le croire.
-14 Vous voyez ce que cela fait, combien cela a été bénéfique pour la vie de cet homme de croire
-cela? Cela a sauvé son petit garçon. Les fidèles serviteurs de Dieu, frère Blair et les autres, se
-trouvaient là pour prier pour le petit garçon lorsqu’il se trouvait dans cet état. Oui, souvenez-vous
-que quoi qu’il arrive, vous êtes les enfants du Dieu vivant. “Partout où deux ou davantage sont
-assemblés en mon Nom, je suis là”. Et il est aussi écrit: “Il est un secours toujours présent en
-
-        http://www.cmpp.ch
-
-RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 4
-période de difficulté”. Et c’était bien un temps de difficulté que le moment où ce petit garçon était
-allongé là par terre, mort suite à un choc électrique. Ce matin nous sommes donc reconnaissants
-de tout notre coeur au Seigneur pour ces choses qu’Il a faites pour nous.
-15 Que Dieu bénisse aussi ces hommes fidèles. Lorsqu’il y a urgence, c’est le moment de
-regarder à Dieu; mais avant que l’urgence ne se présente il faut déjà avoir regardé à Lui et L’avoir
-pour ami. Nous savons cela: si nous sommes agréables à Dieu, nous pouvons tout Lui demander
-comme nous le ferions à n’importe quel autre ami; Il est un secours toujours présent en période de
-difficulté.
-16 Hier, j’ai rencontré la soeur de frère John Martin dans la rue. Quelqu’un m’avait arrêté dans la
-rue et une personne est passée à côté de moi en agitant la main. Vous savez, lorsque je rentre à
-la maison, il y a des gens partout qui s’arrêtent pour me serrer la main. Et je me souviens qu’il n’y
-a pas longtemps on m’avait appelé pour cette dame; elle avait été heurtée par derrière en voiture
-et sa colonne vertébrale avait été touchée. Elle devait être paralysée pour le restant de ses jours.
-Ce matin elle se trouve à la réunion, se réjouissant de la présence de Dieu. Je viens de lui parler
-dans la pièce; j’aimerais prier de nouveau avec elle. Elle est ici quelque part. Je pense qu’elle n’a
-pas pu retourner à l’intérieur. Mais, voilà! Je suis sûr qu’elle est ici parmi nous. C’est juste.
-Voulez-vous vous lever une minute, soeur, afin que les gens puissent… C’est cette dame au sujet
-de laquelle le docteur a dit il y a quelques jours qu’elle ne pourrait jamais remarcher, que sa
-colonne vertébrale avait été endommagée, tout cela suite à un accident; et là voici qui se tient ici,
-en bonne santé. Vous savez que la Bible a dit: “Et ils ne purent rien dire contre cela car l’homme
-se tenait au milieu d’eux”. C’est juste. Voici le petit garçon qui a été ramené d’entre les morts, et
-voici une femme, dont la colonne vertébrale avait été endommagée, qui se tient au milieu de nous.
-Cela vient d’arriver. Il est donc le même hier, aujourd’hui et pour toujours. Béni soit le Nom du
-Seigneur! Comme nous devrions être heureux de vivre maintenant en Sa présence et de savoir
-qu’Il est précisément ce secours toujours présent en temps de trouble. Je suis heureux ce matin
-de voir frère Vayle, frère Martin et tant d’autres. Frères, que le Seigneur vous bénisse richement.
-17 Je sais qu’il ne fait pas vraiment frais là-dedans avec cette foule; mais lorsque je suis parti de
-Tucson l’autre jour, il faisait environ 37°-38°, et vers minuit, il faisait 35°, ainsi ici j’ai l’impression
-qu’il fait vraiment bon. Et à Parker, ils ont dit qu’il faisait plus de 60°; c’était vendredi avant qu’on
-ne parte. Vous pouvez vous imaginer quelle chaleur il faisait! Bien sûr, c’est dans le désert.
-18 Et maintenant pendant ces trois prochains dimanches… Aujourd’hui, nous sommes le quinze,
-je crois; c’est juste? Ou bien le seize? Nous sommes le quinze, n’est-ce pas? [Quelqu’un répond:
-«le dix-huit». — N.d.R.] Le dix-huit. Ce sera donc le vingt-huit et le premier août. Est-ce juste?
-[Quelqu’un répond et donne les bonnes dates — N.d.R.] Le dix-huit, le vingt-cinq et le premier, il y
-aura des services au Tabernacle.
-19 Maintenant, je suis ici pour rassembler les diacres. J’essaye en quelque sorte de tout mettre
-en place afin d’organiser une rencontre lorsque je me sentirai conduit à le faire. Je crois que je
-vais leur demander si je peux installer notre tente, la monter ici et rester simplement ici. Nous
-pourrions aller dans un terrain de sport ou dans une ferme et nous déplacer de place en place
-comme le Seigneur nous conduira. Et je sens que c’est ce qu’Il va faire. Vous savez qu’il y a une
-vision à ce sujet. Et je crois que c’est pour cela que cette chose est arrivée… Maintenant, vous
-savez, nous pensons souvent que c’est horrible lorsque certaines choses arrivent, mais il se peut
-que ce soit Dieu qui nous conduise dans ces choses. Lorsqu’Il dit quelque chose, Il l’accomplit.
-20 Il y a quelque temps, c’était un soir, environ un mois avant que je n’aille en Afrique, beaucoup
-d’entre vous… Beaucoup d’entre vous (parmi ceux qui ont les enregistrements) ont
-l’enregistrement sur “le choix d’une Epouse”. Ce sujet a été prêché en Californie. Et pendant les
-dernières minutes de cet enregistrement, l’Esprit du Seigneur est venu d’une telle manière que je
-ne me souviens même pas que j’étais là. J’avais condamné leur manière de vivre et d’agir après
-que l’Evangile eût été prêché et que toutes ces choses leur aient été déclarées. Et tout d’un coup,
-le Saint-Esprit se mit à parler et dit: «Caphernaüm (vous voyez?), toi qui t’appelles du nom des
-anges (c’est Los Angeles), tu as été élevée jusqu’au ciel, mais tu seras abaissée jusqu’en enfer!».
-Vous voyez? Après cela, ce fut terminé, je me retrouvais dehors. Il y avait frère Mosley et Billy
-avec moi et ils dirent… Je retournai et regardai, et la salle était remplie de gens et de prédicateurs
-en train de pleurer.
-
-
-    http://www.cmpp.ch
-
-    RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE    5
-21 Je pris l’Ecriture et dis: «Il y a quelque chose à ce sujet dans la Bible». Il s’agissait de Jésus
-qui réprimandait Caphernaüm et toutes ces villes de la côte qu’Il avait visitées. Il disait:
-“Caphernaüm, toi qui as été élevée jusqu’au ciel, tu seras abaissée jusqu’en enfer”. Il dit: “Car si
-les oeuvres qui ont été accomplies au milieu de toi avaient été accomplies au milieu de Sodome et
-Gomorrhe, elles subsisteraient encore aujourd’hui”. Or, à ce moment-là, Sodome et Gomorrhe se
-trouvaient au fond de la mer. Et peu de temps après, peut-être environ une centaine d’années
-après la prophétie de Jésus, Caphernaüm, cette ville de la côte qu’Il avait visitée, sombra dans la
-mer suite à un tremblement de terre. Vous savez, c’était une réponse directe pour la Californie,
-pour Los Angeles.
-22 Puis l’autre jour, à Tucson, juste quand je revenais, un grand tremblement de terre se
-produisit là-bas. Les scientifiques ont montré cela à la télévision. Dans les journaux, ils ont dit que
-la faille était partie depuis l’Alaska, avait contourné les îles Aléoutiennes, avait continué sur
-environ deux cents miles dans la mer, était revenue sur San Diego, contourné Los Angeles pour
-finalement ressortir à San Diego. Cette faille atteignait une largeur de plusieurs centimètres. Des
-maisons s’étaient écroulées; des motels s’étaient affaissés. Et on demanda au scientifique qui se
-trouvait là: «Eh, bien se pourrait-il que tout cela tombe un jour?».
-23 Il dit: «Pourrait? Cela arrivera!». Et il employa des termes scientifiques pour expliquer
-comment la lave… C’est ce qui a provoqué ces tremblements de terre tout autour de San Diego et
-par là-bas dans tous ces lieux crevassés. Et maintenant tout cela commence à s’écrouler comme
-du sable. Puis on ne voit plus que l’écorce terrestre et cette faille de plusieurs centimètres de
-large. Ils ont pu utiliser un radar et toutes ces choses pour suivre la faille, la marquer afin de voir
-où elle en était. Et l’autre jour, juste après que cette prophétie ait été donnée, elle s’est encore
-élargie de plusieurs centimètres, peut-être cinq ou six. Et un de ceux qui interrogeaient le
-scientifique dit: «Eh bien, cela n’arrivera sûrement pas pendant notre âge».
-24 Il dit: «Cela pourrait arriver dans cinq minutes comme dans cinq ans, mais cela sombrera de
-toute façon».
-25 Je ne crois pas que Madame Simson soit avec nous ce matin; je vois que frère Fred est assis
-là mais je ne sais pas où est Madame Simpson. Elle a retrouvé une prophétie que j’avais faite en
-1935 ou quelque chose comme cela disant: «Le temps viendra (c’est écrit quelque part dans un
-livre) où la mer se frayera un chemin dans le désert». Observez ce qui arrive. Si ces milliers de
-mètres carrés sombrent dans la lave de la terre et y sont enfouis, des millions de gens mourront à
-la fois. En cela va provoquer un terrible raz-de-marée. Souvenez-vous que le Salten Sea se trouve
-à environ quarante ou cinquante mètres en dessous du niveau de la mer. Cette eau va
-probablement parvenir presque jusqu’à Tucson lorsque ce raz-de-marée parviendra là-bas. Et la
-mer se frayera un chemin dans le désert.
+Restons maintenant un moment debout tandis que nous prions. Inclinons nos têtes.
+1 Seigneur, ce matin nous sommes heureux d’être de retour dans la maison de Dieu pour un autre service. Et nous Te prions ô Dieu, afin que ce matin, Tu nous corriges de toutes nos erreurs. Montre-nous les sentiers dans lesquels Tu nous as ordonné de marcher, et accorde-nous Ta grâce et Ton amour afin que nous puissions suivre ces sentiers et ces instructions de tout notre coeur et afin qu’en ce jour nous puissions être trouvés sans reproche en Christ, car nous croyons, Seigneur, que Sa venue est proche.
+2 Nous voyons que tous les signes qu’Il a dit devoir arriver juste avant Sa venue sont maintenant en train de s’accomplir. Et c’est avec joie que nous attendons ce moment. Autrefois, Abraham attendait ce fils promis; et lorsqu’il vit ces derniers signes de Dieu descendre sur terre, il sut qu’il ne s’écoulerait pas longtemps avant que le fils n’arrive. Et nous voyons maintenant que cela se répète. Jésus nous a dit que lorsque ces choses commenceraient à arriver — perplexité de temps, détresse dans les nations, tremblements de terre en divers endroits, rugissement de la mer, coeur de l’homme défaillant de crainte — , nous devions relever la tête car notre rédemption serait proche.
+3 Et nous réalisons que nous nous trouvons en cette heure dans laquelle les nations ne savent que faire. Il semble qu’une autre guerre se prépare. Quelle chose horrible ce serait. La terre est en train de se fissurer. Les hommes de science disent que quelque chose de terrible est proche. Nous voyons que la Bible parle de cela. Alors, Seigneur, aide-nous aujourd’hui à nous tenir dans cette maison de correction et à recevoir nos ordres de notre Dieu afin d’avancer vers cette heure de ténèbres pour faire briller la Lumière, car il se peut que ce soit notre dernière occasion de le faire. Nous le demandons au Nom de Jésus et pour Sa gloire. Amen. (Asseyez-vous.)
+4 Je suis très certainement reconnaissant pour ce grand privilège d’être ici dans ce tabernacle ce matin. Je suis désolé que nous n’ayons pas assez de places assises pour vous là-autour. Les places sont occupées et les gens se tiennent debout partout là-dehors. Vous qui vous trouvez là-dehors maintenant, vous pouvez écouter cela sur votre radio. Je ne sais plus quelle… [Frère Neville indique à frère Branham sur quelle fréquence on peut écouter — N.d.R.] C’est de 55 à 57. Vous qui vous trouvez là-dehors, sur les parkings, et vous tous qui vous trouvez dans les rues là-autour, vous pouvez écouter cela sur votre radio en sélectionnant les fréquences entre 55 et 57.
+5 Je suis revenu ici pour essayer d’avoir dix jours de rencontres afin de parler sur le sujet des Sept Coupes; car entre ces Coupes se trouvent les Trompettes. Et je vous ai dit que lorsque je prêcherai sur les Sept Trompettes, je les introduirais avec les Sceaux et les Plaies. Et j’ai pensé que ce serait le bon moment. Je viens de rentrer d’Afrique et les enfants n’ont pas eu leur vacances. Mon petit garçon Joseph a eu besoin de quelques semaines d’étude en lecture. Il avait très bien réussi mais sa lecture n’était pas au point, nous l’avons donc gardé à Tucson, et pendant que j’étais en Afrique il a continué avec sa lecture et a rattrapé tout cela avec quelques jours d’école. Puis nous sommes revenus. Et j’ai pensé que pendant que les enfants auraient leurs vacances, je pourrais avoir une petite rencontre ici avec les gens pour prêcher sur ces sujets. Mais en arrivant ici nous nous sommes aperçus que nous ne pouvions pas obtenir l’auditorium de l’école.
+6 Et je savais que le tabernacle n’était pas assez grand pour asseoir tous les gens de manière qu’ils soient à l’aise, comme ils le devraient lorsque je donnerais ce message. C’est pourquoi nous avons dû nous arranger autrement. Ainsi au lieu de faire des réunions pendant les dix soirées comme nous avions prévu de le faire, eh bien, je ferais simplement deux services dimanche prochain et le dimanche suivant. Nous n’avons pas fait de publicité pour cela. Alors s’il y en a qui ont entendu dire que les rencontres devaient commencer, Dieu voulant, le 28 à l’auditorium scolaire et qui ont effectué ainsi que leurs amis des réservations dans les motels, je crois qu’ils devraient annuler cela, car nous n’avons pas la possibilité d’avoir cela, nous n’avons pas pu avoir l’auditorium scolaire.
+7 Maintenant, dimanche matin, j’aimerais avoir simplement un service évangélique. Et samedi soir, je veux prier pour les malades. Et nous avons confiance que Dieu viendra à votre rencontre, vous qui êtes malades. Je ne sais pas comment Billy va s’occuper de vous. Je suppose qu’il vous donnera des cartes de prière ou qu’il trouvera un moyen de s’occuper de l’assemblée. Mais nous ferons tout notre possible pour prier pour chacun pendant ces trois prochaines semaines pendant lesquelles nous avons l’intention d’avoir des services, si c’est la volonté du Seigneur.
+8 Maintenant, il y a souvent des entretiens particuliers, il arrive que quelqu’un veuille vous voir une minute au sujet d’une chose ou d’une autre. Combien ici aimeraient avoir un entretien particulier, levez la main. Ouh! Qui, plutôt, n’en veut pas?
+9 Ce sera difficile de les obtenir; écrivez donc votre question et remettez-la à Billy et ainsi je pourrai les avoir. Et je crois que, chaque fois que les cartes de prière seront distribuées, il fera une annonce.
+10 Combien de nos frères prédicateurs sont ici ce matin? Nous n’avons pas eu l’occasion de nous voir, je pense. En avez-vous reconnu? Combien de prédicateurs sont ici ce matin? Voulez-vous simplement lever la main, ou vous lever? Voyons combien de prédicateurs sont dans l’assemblée ce matin. C’est bien! Remercions le Seigneur pour ces hommes. J’aimerais que nous ayons du temps pour reconnaître chacun d’entre eux, mais je suis sûr que vous les voyez et Dieu les connaît dans leur service; nous prions Dieu de les bénir richement. Certainement que beaucoup d’entre eux ont dû annuler leur service pour venir ici, comme frère Junior Jackson et frère Don Ruddell, je crois. Et cet enregistrement est diffusé dans leurs églises. Il est aussi diffusé dans New York et d’autres endroits dans le pays ainsi que dans chaque église ce matin au moyen du téléphone privé.
+11 Je suis content de voir frère Richard Blair assis là. Je viens de lire une lettre racontant une chose glorieuse que Dieu a faite parmi le peuple là-bas. L’autre jour, d’après ce que j’ai compris (il se peut que je me trompe, frère Blair; si c’est le cas, corrige-moi), il était en train de travailler. Il aidait un homme à mettre le courant dans une caravane ou quelque chose comme cela; je crois que c’est cela. (J’ai lu la lettre.) Et ils ont inversé quelque chose et le courant est parti dans un baquet d’eau où se trouvait un petit garçon (un des petits garçons de l’homme a qui appartient la caravane, un tout petit garçon), et le petit garçon a été tué. Son estomac s’est mis à enfler et… Nous savons ce qu’est un choc électrique et ce qui arrive lorsqu’on en meurt. Les petits yeux sont restés fixes et les dents se sont serrées.
+12 Les frères ont été tellement secoués. Frère Blair dit qu’il pensa essayer de me joindre quelque part afin que je prie pour cela, mais il se souvint qu’il est dit que “partout où deux ou trois sont assemblés en mon Nom, je suis au milieu d’eux”. Et le père essaya d’introduire ses doigts dans la bouche du petit garçon pour l’ouvrir. Ils s’agenouillèrent et commencèrent à prier sur le petit garçon, et il revint à la vie.
+13 Est-ce juste, frère Blair? C’est un de nos fidèles frères ici. Oh, le petit garçon est ici. Eh bien, que le Seigneur soit remercié! C’est bien. Nous aimerions que tu te lèves, Sonny. Maintenant, nous remercions notre bien-aimé Seigneur pour cela. Est-ce le père du petit garçon? Etes-vous le père? C’est juste. Et voici frère Richard Blair. Notre Dieu est capable de tout faire. Certainement. Il l’a promis. Nous vivons dans la divine présence de ce grand et glorieux Père céleste. Et toutes choses sont possibles si nous pouvons simplement le croire.
+14 Vous voyez ce que cela fait, combien cela a été bénéfique pour la vie de cet homme de croire cela? Cela a sauvé son petit garçon. Les fidèles serviteurs de Dieu, frère Blair et les autres, se trouvaient là pour prier pour le petit garçon lorsqu’il se trouvait dans cet état. Oui, souvenez-vous que quoi qu’il arrive, vous êtes les enfants du Dieu vivant. “Partout où deux ou davantage sont assemblés en mon Nom, je suis là”. Et il est aussi écrit: “Il est un secours toujours présent en période de difficulté”. Et c’était bien un temps de difficulté que le moment où ce petit garçon était allongé là par terre, mort suite à un choc électrique. Ce matin nous sommes donc reconnaissants de tout notre coeur au Seigneur pour ces choses qu’Il a faites pour nous.
+15 Que Dieu bénisse aussi ces hommes fidèles. Lorsqu’il y a urgence, c’est le moment de regarder à Dieu; mais avant que l’urgence ne se présente il faut déjà avoir regardé à Lui et L’avoir pour ami. Nous savons cela: si nous sommes agréables à Dieu, nous pouvons tout Lui demander comme nous le ferions à n’importe quel autre ami; Il est un secours toujours présent en période de difficulté.
+16 Hier, j’ai rencontré la soeur de frère John Martin dans la rue. Quelqu’un m’avait arrêté dans la rue et une personne est passée à côté de moi en agitant la main. Vous savez, lorsque je rentre à la maison, il y a des gens partout qui s’arrêtent pour me serrer la main. Et je me souviens qu’il n’y a pas longtemps on m’avait appelé pour cette dame; elle avait été heurtée par derrière en voiture et sa colonne vertébrale avait été touchée. Elle devait être paralysée pour le restant de ses jours. Ce matin elle se trouve à la réunion, se réjouissant de la présence de Dieu. Je viens de lui parler dans la pièce; j’aimerais prier de nouveau avec elle. Elle est ici quelque part. Je pense qu’elle n’a pas pu retourner à l’intérieur. Mais, voilà! Je suis sûr qu’elle est ici parmi nous. C’est juste. Voulez-vous vous lever une minute, soeur, afin que les gens puissent… C’est cette dame au sujet de laquelle le docteur a dit il y a quelques jours qu’elle ne pourrait jamais remarcher, que sa colonne vertébrale avait été endommagée, tout cela suite à un accident; et là voici qui se tient ici, en bonne santé. Vous savez que la Bible a dit: “Et ils ne purent rien dire contre cela car l’homme se tenait au milieu d’eux”. C’est juste. Voici le petit garçon qui a été ramené d’entre les morts, et voici une femme, dont la colonne vertébrale avait été endommagée, qui se tient au milieu de nous. Cela vient d’arriver. Il est donc le même hier, aujourd’hui et pour toujours. Béni soit le Nom du Seigneur! Comme nous devrions être heureux de vivre maintenant en Sa présence et de savoir qu’Il est précisément ce secours toujours présent en temps de trouble. Je suis heureux ce matin de voir frère Vayle, frère Martin et tant d’autres. Frères, que le Seigneur vous bénisse richement.
+17 Je sais qu’il ne fait pas vraiment frais là-dedans avec cette foule; mais lorsque je suis parti de Tucson l’autre jour, il faisait environ 37°-38°, et vers minuit, il faisait 35°, ainsi ici j’ai l’impression qu’il fait vraiment bon. Et à Parker, ils ont dit qu’il faisait plus de 60°; c’était vendredi avant qu’on ne parte. Vous pouvez vous imaginer quelle chaleur il faisait! Bien sûr, c’est dans le désert.
+18 Et maintenant pendant ces trois prochains dimanches… Aujourd’hui, nous sommes le quinze, je crois; c’est juste? Ou bien le seize? Nous sommes le quinze, n’est-ce pas? [Quelqu’un répond: «le dix-huit». — N.d.R.] Le dix-huit. Ce sera donc le vingt-huit et le premier août. Est-ce juste? [Quelqu’un répond et donne les bonnes dates — N.d.R.] Le dix-huit, le vingt-cinq et le premier, il y aura des services au Tabernacle.
+19 Maintenant, je suis ici pour rassembler les diacres. J’essaye en quelque sorte de tout mettre en place afin d’organiser une rencontre lorsque je me sentirai conduit à le faire. Je crois que je vais leur demander si je peux installer notre tente, la monter ici et rester simplement ici. Nous pourrions aller dans un terrain de sport ou dans une ferme et nous déplacer de place en place comme le Seigneur nous conduira. Et je sens que c’est ce qu’Il va faire. Vous savez qu’il y a une vision à ce sujet. Et je crois que c’est pour cela que cette chose est arrivée… Maintenant, vous savez, nous pensons souvent que c’est horrible lorsque certaines choses arrivent, mais il se peut que ce soit Dieu qui nous conduise dans ces choses. Lorsqu’Il dit quelque chose, Il l’accomplit.
+20 Il y a quelque temps, c’était un soir, environ un mois avant que je n’aille en Afrique, beaucoup d’entre vous… Beaucoup d’entre vous (parmi ceux qui ont les enregistrements) ont l’enregistrement sur “le choix d’une Epouse”. Ce sujet a été prêché en Californie. Et pendant les dernières minutes de cet enregistrement, l’Esprit du Seigneur est venu d’une telle manière que je ne me souviens même pas que j’étais là. J’avais condamné leur manière de vivre et d’agir après que l’Evangile eût été prêché et que toutes ces choses leur aient été déclarées. Et tout d’un coup, le Saint-Esprit se mit à parler et dit: «Caphernaüm (vous voyez?), toi qui t’appelles du nom des anges (c’est Los Angeles), tu as été élevée jusqu’au ciel, mais tu seras abaissée jusqu’en enfer!». Vous voyez? Après cela, ce fut terminé, je me retrouvais dehors. Il y avait frère Mosley et Billy avec moi et ils dirent… Je retournai et regardai, et la salle était remplie de gens et de prédicateurs en train de pleurer.
+21 Je pris l’Ecriture et dis: «Il y a quelque chose à ce sujet dans la Bible». Il s’agissait de Jésus qui réprimandait Caphernaüm et toutes ces villes de la côte qu’Il avait visitées. Il disait: “Caphernaüm, toi qui as été élevée jusqu’au ciel, tu seras abaissée jusqu’en enfer”. Il dit: “Car si les oeuvres qui ont été accomplies au milieu de toi avaient été accomplies au milieu de Sodome et Gomorrhe, elles subsisteraient encore aujourd’hui”. Or, à ce moment-là, Sodome et Gomorrhe se trouvaient au fond de la mer. Et peu de temps après, peut-être environ une centaine d’années après la prophétie de Jésus, Caphernaüm, cette ville de la côte qu’Il avait visitée, sombra dans la mer suite à un tremblement de terre. Vous savez, c’était une réponse directe pour la Californie, pour Los Angeles.
+22 Puis l’autre jour, à Tucson, juste quand je revenais, un grand tremblement de terre se produisit là-bas. Les scientifiques ont montré cela à la télévision. Dans les journaux, ils ont dit que la faille était partie depuis l’Alaska, avait contourné les îles Aléoutiennes, avait continué sur environ deux cents miles dans la mer, était revenue sur San Diego, contourné Los Angeles pour finalement ressortir à San Diego. Cette faille atteignait une largeur de plusieurs centimètres. Des maisons s’étaient écroulées; des motels s’étaient affaissés. Et on demanda au scientifique qui se trouvait là: «Eh, bien se pourrait-il que tout cela tombe un jour?».
+23 Il dit: «Pourrait? Cela arrivera!». Et il employa des termes scientifiques pour expliquer comment la lave… C’est ce qui a provoqué ces tremblements de terre tout autour de San Diego et par là-bas dans tous ces lieux crevassés. Et maintenant tout cela commence à s’écrouler comme du sable. Puis on ne voit plus que l’écorce terrestre et cette faille de plusieurs centimètres de large. Ils ont pu utiliser un radar et toutes ces choses pour suivre la faille, la marquer afin de voir où elle en était. Et l’autre jour, juste après que cette prophétie ait été donnée, elle s’est encore élargie de plusieurs centimètres, peut-être cinq ou six. Et un de ceux qui interrogeaient le scientifique dit: «Eh bien, cela n’arrivera sûrement pas pendant notre âge».
+24 Il dit: «Cela pourrait arriver dans cinq minutes comme dans cinq ans, mais cela sombrera de toute façon».
+25 Je ne crois pas que Madame Simson soit avec nous ce matin; je vois que frère Fred est assis là mais je ne sais pas où est Madame Simpson. Elle a retrouvé une prophétie que j’avais faite en 1935 ou quelque chose comme cela disant: «Le temps viendra (c’est écrit quelque part dans un livre) où la mer se frayera un chemin dans le désert». Observez ce qui arrive. Si ces milliers de mètres carrés sombrent dans la lave de la terre et y sont enfouis, des millions de gens mourront à la fois. En cela va provoquer un terrible raz-de-marée. Souvenez-vous que le Salten Sea se trouve à environ quarante ou cinquante mètres en dessous du niveau de la mer. Cette eau va probablement parvenir presque jusqu’à Tucson lorsque ce raz-de-marée parviendra là-bas. Et la mer se frayera un chemin dans le désert.
         Les nations se disloquent; Israël se réveille,
         Ce sont les signes que nos prophètes avaient prédits;
         Les jours des nations sont comptés,
         Ils sont accablés d’horreurs,
         Retourne, ô peuple dispersé, vers les tiens.
-26 Nous sommes au temps de la fin. Maintenant, que le Seigneur vous bénisse richement. J’ai
-commencé par cela et j’ai oublié l’heure. De tout façon, nous allons parvenir rapidement dans
-l’éternité.
-27 Voyons maintenant dans Marc au chapitre 7 et au verset 7 afin d’avoir un texte de base pour
-le sujet que nous avons lu dans 1 Chroniques 13. J’aimerais lire dans Marc 7.7 pour avoir un texte
-de base: “… ils m’honorent en vain, enseignant, comme doctrines, des commandements
-d’hommes”.
-28 Maintenant, je ne connais rien d’autre que le Message que le Seigneur m’a donné et je ne
-peux parler que de cela. Ce matin, je vais parler d’un sujet que j’ai trouvé bon. Et ce soir, si le
-Seigneur le permet, j’aimerais parler sur “La nourriture spirituelle au temps convenable, et
-comment La recevoir”. Maintenant, pour ce matin, ce sera: “Essayer de rendre un service à Dieu
-sans que ce soit la volonté de Dieu”.
-29 Dieu est souverain. Et nous voyons ici dans l’Ecriture, en lisant 1 Chroniques 13 ce qu’a fait
-David. Ses intentions étaient bonnes. Mais nous n’avons pas de mérite aux yeux de Dieu pour les
+26 Nous sommes au temps de la fin. Maintenant, que le Seigneur vous bénisse richement. J’ai commencé par cela et j’ai oublié l’heure. De tout façon, nous allons parvenir rapidement dans l’éternité.
+27 Voyons maintenant dans Marc au chapitre 7 et au verset 7 afin d’avoir un texte de base pour le sujet que nous avons lu dans 1 Chroniques 13. J’aimerais lire dans Marc 7.7 pour avoir un texte de base: “… ils m’honorent en vain, enseignant, comme doctrines, des commandements d’hommes”.
+28 Maintenant, je ne connais rien d’autre que le Message que le Seigneur m’a donné et je ne peux parler que de cela. Ce matin, je vais parler d’un sujet que j’ai trouvé bon. Et ce soir, si le Seigneur le permet, j’aimerais parler sur “La nourriture spirituelle au temps convenable, et comment La recevoir”. Maintenant, pour ce matin, ce sera: “Essayer de rendre un service à Dieu sans que ce soit la volonté de Dieu”.
+29 Dieu est souverain. Et nous voyons ici dans l’Ecriture, en lisant 1 Chroniques 13 ce qu’a fait David. Ses intentions étaient bonnes. Mais nous n’avons pas de mérite aux yeux de Dieu pour les bonnes intentions. Il n’y a qu’une seule manière de servir Dieu; c’est de faire Sa volonté lorsqu’Il l’ordonne. Dieu étant souverain, il n’y a personne qui puisse Lui dire ce qu’Il doit faire ni comment Il doit le faire; Il le fait comme… Il connaît la bonne manière de le faire. Et c’est cela qui fait que je me sens bien. Et cela devrait faire que tous nous sentions bien; je suis sûr qu’il en est ainsi. Sinon, il y en aurait un qui voudrait agir comme ceci, un autre qui voudrait agir comme cela, et un troisième d’une autre manière encore…
+30 Mais de nouveau, ce qu’il y a de glorieux au sujet de Dieu, c’est que maintenant, Il ne va pas nous laisser sans nous faire connaître ce qu’est la Vérité et sans savoir comment l’appliquer. Il ne voudrait pas nous punir pour avoir fait quelque chose; Il ne voudrait pas nous laisser faire quelque chose, alors que nous ne savons pas de quelle manière cela doit être fait, pour nous laisser ensuite trébucher sur quelque chose. Il n’est pas cette sorte de Dieu. Il est un Dieu qui dit une parole et qui s’attend à ce que Ses enfants la croient. Il sait donc ce qu’il y a de mieux, quand le faire et comment le faire. Nous avons nos propres idées à ce sujet, mais Lui sait.
+31 Si donc Il avait établi un système dans lequel Il saurait ce qu’Il va faire mais qu’Il ne nous dirait pas ce qui va arriver, ni de quelle manière, et que le fait que nous trébuchions puis essayions de faire quelque chose suffirait à nous justifier, alors tout le monde serait justifié. Mais il n’y a pas d’autre moyen que Sa Parole.
+32 Nous voyons encore autre chose ici avec David; nous voyons que dans son coeur, il voulait faire quelque chose qui était bon. Il n’avait pas de mauvaise motivation ni de mauvais objectif; la maison, l’arche du Seigneur était loin du peuple et il voulut ramener l’arche de Dieu à sa place afin que le peuple puisse consulter Dieu au sujet des choses qu’Il voulait.
+33 Que serait-il arrivé si frère Blair et le père de ce petit garçon avaient dit: «Eh bien, c’est trop tard; l’enfant vient d’être frappé, il a été tué. Je crois que c’est ce qui vient d’arriver»? Mais ils allèrent tout de suite vers Dieu.
+34 Prenez le cas de cette dame et de son mari, un prédicateur de l’Evangile, lorsqu’elle a eu cet accident il y a quelques jours et que sa colonne vertébrale a été endommagée. Le docteur avait dit: «Elle sera paralysée pour le reste de sa vie». Que serait-il arrivé si son mari avait dit: «Eh bien, chérie, nous tâcherons de nous consoler de cela»? Mais ils firent rapidement quelque chose à ce sujet; ils allèrent à Dieu. A combien de choses de la Bible pourrions-nous nous référer qui nous montrent comment lorsque les gens étaient dans la difficulté, ils allaient à Dieu.
+35 En ce temps-là, ils n’avaient qu’un seul lieu de rencontre où ils pouvaient rencontrer Dieu, et c’était l’arche qui se trouvait sous le sang. C’est toujours le seul lieu de rencontre, sous le Sang. Le siège de la grâce était aspergé afin que lorsque l’adorateur ou celui qui venait demander quelque chose à Dieu reçoive la grâce. Et Dieu avait une manière spéciale à ce sujet et Il n’acceptait rien d’autre. Il n’acceptait aucune autre disposition que celle qu’Il avait fixée.
+36 J’ai prêché récemment un message (beaucoup le connaissent) au sujet de ce seul lieu auquel Dieu avait pourvu pour y rencontrer l’adorateur, de ce lieu dont Il a dit: “J’y mettrai Mon Nom”. Si nous pouvons trouver une église dans laquelle Il a mis Son Nom, alors nous avons le lieu. Il a dit: “Ce n’est pas dans toutes les portes que je vous bénirai mais seulement dans la porte où j’ai mis mon Nom. Je le mettrai dans un seul lieu et c’est là que vous devrez me rencontrer; c’est la seule place où je vous rencontrerai”. Et nous avons découvert où Il a mis Son Nom. Et c’est le seul lieu où Il rencontre l’adorateur; Son Nom était Jésus-Christ. Le Nom de Dieu est Jésus-Christ.
+37 Jésus a dit: “Je viens au Nom de mon Père”. N’importe quel fils vient au nom de son père. Et Il vint au Nom du Père. Il n’y a aucun autre nom sous les cieux qui ait été donné parmi les hommes, que ce soient des Méthodistes, des Baptistes, des Presbytériens, qu’ils appartiennent à l’Eglise de Christ ou quoi que ce soit; il n’y a qu’un seul lieu de rencontre où Dieu rencontre l’homme, et c’est lorsqu’il est en Jésus-Christ, c’est le seul lieu. Et toutes ces choses anciennes de l’Ancien Testament typifient cela. Je veux que vous compreniez clairement cela. Il s’agit maintenant d’une leçon d’école du dimanche. J’ai des passages de l’Ecriture et des notes ici que j’ai prise. Et j’ai pensé que cela pourrait vous aider à comprendre, car toutes ces choses anciennes sont arrivées pour nous servir d’exemples.
+38 Nous découvrons maintenant que Dieu avait une manière de faire les choses, mais David, qui venait d’être béni de Dieu puisqu’il était devenu roi, pensa qu’il pouvait bien faire quelque chose pour Dieu. Mais il ne le fit absolument pas de la bonne manière.
+39 Nous remarquons que Dieu révèle Sa Parole dans la saison qu’Il a Lui-même prédestinée. Comment Martin Luther aurait-il pu connaître le message d’aujourd’hui? Comment les Catholiques auraient-ils pu connaître le message de Martin Luther? Comment John Wesley aurait-il pu connaître le message de Pentecôte? Ou comment les Pentecôtistes auraient-ils pu connaître ce message? Vous voyez? Il le révèle en Sa saison, car c’est une semence; et tandis qu’elle grandit et mûrit, Il se révèle Lui-même.
+40 C’est comme la chaleur du soleil qui fait s’ouvrir la graine. Essayez de sortir la semence du sol et d’exposer ses feuilles au soleil pendant une période qui n’est pas la bonne. Si c’est la période de maturation, le soleil brûlant va la tuer. C’est pourquoi Il adapte le soleil et règle la nature afin qu’ils puissent rencontrer Sa Parole. Il règle l’Eglise, celle qui a été prédestinée, l’Epouse, afin qu’Elle puisse s’adapter à la saison dans laquelle Elle vit.
+41 La nature elle-même nous parle, alors que nous voyons les nations se disloquer; la terre est en train de sombrer et nous pouvons voir la main écrire sur la muraille. Nous voyons l’église et dans quel état elle se trouve. Nous voyons l’Epouse et dans quel état Elle se trouve. Et nous savons au travers de la nature que l’Eglise se prépare à partir. Quel temps glorieux! C’est après ce temps, après cette heure que tous les prophètes ont soupiré.
+42 Il ne révèle Sa Parole qu’en Sa saison. Martin Luther lisait la même Bible que nous. Wesley lisait la même Bible que Martin Luther. Les Pentecôtistes lisent la même Bible que nous. Jésus lisait la même Bible que les Pharisiens, mais eux avaient… Ils ont essayé de garder le blé à un stade plus précoce, alors qu’il était en train de mûrir et ils ont manqué de voir leur heure.
+43 Or David a fait ici la même chose. Dieu révèle cette Parole en Sa saison et à qui Il choisit de le faire. Dieu choisit à qui Il La révèle. Il a choisi cela avant la fondation du monde. Tout ce qu’Il a fait Lui était connu d’avance; cela était caché aux yeux de l’homme. Il le révèle simplement comme Il le veut. C’est la saison qu’Il a choisie, la personne qu’Il a choisie. Et jamais Il n’a choisi un groupe ou une secte; Il choisit une personne. C’est ainsi qu’Il agit.
+44 Qui osera Le reprendre et dire: “Maintenant, Seigneur, Tu as fait une erreur en mettant cet homme dans le ministère. Cet homme ne croit pas comme nous croyons”? Qui va dire à Dieu qu’Il a tort d’agir ainsi? Il faudrait être plus pécheur que je ne le suis pour aller Lui dire cela. Il sait ce qu’Il fait. Il sait qui choisir et qui ne pas choisir; Il sait que faire et quand le faire. Peu importe que nous pensions que telle personne est qualifiée pour faire tel travail; c’est Dieu qui sait qui est qualifié, quel est le temps et la saison, et Il connaît le temps convenable pour le faire.
+45 Et le vrai, le véritable chrétien, le véritable croyant de Dieu s’attend au Seigneur pour ces choses. Attendez que votre ministère se manifeste. Si vous sentez un appel, assurez-vous qu’il vient de Dieu. Assurez-vous que c’est juste. Assurez-vous que ce que vous dites est à propos. La Bible dit: “Ceux qui s’attendent au Seigneur renouvellent leur force. Ils s’élèveront avec des ailes comme les aigles. Ils courront et ne se lasseront pas. Ils marcheront et ne faibliront pas”.
+46 Remarquez David, roi d’Israël alors qu’il vient d’être oint. Samuel a versé l’huile sur lui et il fut choisi par Dieu pour être roi d’Israël. Et David eut cette révélation qui lui disait de faire monter l’arche du Seigneur jusque dans la cité de David. Maintenant, il n’y avait là rien de faux mais David s’y prit de la mauvaise manière.
+47 Maintenant cela me fait penser à un homme qui aurait une révélation, un grand homme comme ce roi qui avait été choisi par Dieu (car je crois que David fut le plus grand roi qui ait vécu sur terre à part Christ, puisque Christ est un Fils de David)… Maintenant ce grand homme, qui vient juste d’être oint, vient de se trouver en présence de Dieu; il a eu une révélation lui disant qu’il devait faire quelque chose pour Dieu et il veut faire cela pour Dieu, mais la révélation était fausse. Maintenant, c’est là une chose très importante. Venons-en donc à notre sujet: “Essayer de rendre un service à Dieu sans avoir été appelé à le faire”.
+48 Remarquez que David a eu une révélation. Remarquez aussi que ce n’est pas le prophète Nathan qui a eu la révélation; ce fut David, le roi, qui a eu la révélation. Nathan ne fut pas non plus consulté à ce sujet. David n’a rien demandé à Nathan. Mais avez-vous vu ici dans 1 Chroniques qu’il a consulté les capitaines de milliers et les capitaines de centaines? Jamais il n’a consulté Nathan. Il a consulté le peuple, il a aussi consulté les prêtres et les théologiens de l’époque; il a consulté les scribes et les théologiens. Tout d’abord David a consulté en disant: “Si cela vient de Dieu, descendons et ramenons l’arche de l’alliance de notre Dieu dans la ville; consultons Dieu avant de faire quelque chose”.
+49 Il est dit que du temps de Saül, ils cessèrent de consulter Dieu auprès de l’arche, auprès de l’Urimm et du Thummim. Ils cessèrent de faire cela. Et David dit: “Maintenant, retournons à Dieu, retournons tous. Retournons vers ce qui est juste. Descendons chercher l’arche et ramenons-la ici (en d’autres termes, il fallait la ramener en présence de Dieu, dans la ville). Ayons un réveil. Ramenons le peuple”. Il eut une révélation qui semblait bonne, mais ce n’était pas la volonté de Dieu.
+50 Au lieu d’aller vers la source à laquelle il aurait dû s’adresser, il consulta ses capitaines, parce qu’il venait de devenir roi et qu’il continuait à suivre cette ligne de pensée et croyait que ses capitaines et ses grands hommes…
+51 Puis il entra dans l’église officielle et demanda s’ils pouvaient avoir un réveil: il consulta les prêtres, les scribes, les capitaines de milliers, les capitaines de centaines: “Etait-ce la volonté du Seigneur?”. Et ils dirent que oui. Mais, voyez-vous, il oublia de s’adresser à la source principale avec laquelle Dieu avait toujours traité; il oublia d’y aller.
+52 Or son intention était bonne. Son motif était bon. Son objectif était bon; il voulait apporter un réveil dans la ville, il voulait ramener les gens à Dieu. Mais il n’a pas consulté selon la manière que Dieu lui avait dit de faire. Vous voyez?
+53 Les prêtres et tout le peuple furent d’accord pour dire que le roi avait raison. Ils avaient besoin que l’arche revienne dans la ville. Ils avaient besoin de la présence de Dieu. Ils avaient besoin du réveil. Mais ce n’était pas la saison où Dieu avait promis de révéler Sa Parole aux peuples. Il n’avait jamais promis de révéler Sa Parole au roi en sa saison. Et Dieu ne change absolument pas. Il n’a jamais promis de faire cela.
+54 Peu importe la sincérité, les bons motifs, les bons objectifs, peu importe combien les gens veulent ces choses et en voient la nécessité, c’est la volonté de Dieu qui doit être manifestée dans ces choses. C’est de cela que je veux vous rapprocher. Je veux faire en sorte que vous soyiez obligés de voir si l’Esprit de Dieu habite en vous. Et c’est pour cela que je m’attarde autant là-dessus. Ce n’est pas que je veuille prendre le temps des gens qui sont au téléphone ou reliés par relais radiophonique, mais c’est parce que je veux que vous voyiez bien cela. Si vous manquez de temps, vous pourrez obtenir l’enregistrement.
+55 Peu importe combien c’était une nécessité, peu importe combien tout le monde était d’accord que c’était une nécessité, peu importe combien c’était la vérité, il y a encore une chose à découvrir: est-ce la volonté de Dieu? Maintenant Dieu n’a jamais promis de révéler Ses secrets aux rois; c’est à Son peuple qu’Il révèle Ses secrets.
+56 C’est quelque chose comme du temps de Michée, fils d’Imlah. Quittons ce texte pour un moment afin de vous rendre la chose plus réelle pour que vous ne la manquiez pas.
+57 Michée était un homme pauvre qui venait d’une famille pauvre. Achab, roi d’Israël, cette nation qui était dirigée par Dieu, avait établi une école à part pour y instruire des prophètes soigneusement sélectionnés; il en avait quatre cents dans cette école. C’étaient de grands hommes. Ce n’étaient pas simplement des faux prophètes. C’étaient des prophètes hébreux, des hommes véritables. Et c’était au travers de ces hommes que l’on consultait le Seigneur. Ils prophétisaient réellement. Mais voyez-vous, quand vint le moment du réel dénouement, ils se trouvèrent tous en dehors de la volonté de Dieu et de Sa Parole.
+58 Lorsque Josaphat descendit de Jérusalem pour aller à la rencontre du roi Achab, ils revêtirent leurs habits et se tinrent aux portes de la ville puis ils firent venir les prophètes devant eux. Achab commença par dire: “Il y a une place ici à Ramoth en Galaad qui, en fait, nous appartient”. Maintenant, c’est le AINSI DIT LE SEIGNEUR. Josué avait partagé cet héritage pour le donner au peuple, mais les Philistins s’en étaient emparés. Achab dit donc: “Voici, nos enfants ont besoin de pain et nous n’avons pas assez de terre pour pouvoir produire du pain; et nos ennemis, ces païens de Philistins nourrissent leurs enfants de cette terre même que Jéhovah Dieu nous a donnée”. C’était très juste. Et il dit: “Voici que nous, le peuple de Dieu, nous nous trouvons ici avec nos enfants qui sont dans le besoin; et nos ennemis nourrissent leurs enfants de cette terre que le Seigneur nous a donnée après nous avoir fait sortir d’Egypte”. C’est ce qu’aurait déclaré un théologien, n’est-ce pas? Il dit: “Ne monterons-nous pas prendre nos terres que le Seigneur nous a données?”.
+59 Josaphat dit: “Oui, je vais vous aider. Nous sommes frères. Vous êtes de Juda et je suis de Jérusalem” (ou bien était-ce le contraire? Je crois que… Non, c’est cela, je crois que Josaphat…) Ce qui est sûr, c’est que Josaphat était un homme de bien, un roi, un homme juste qui aimait le Seigneur. Achab, lui, était un croyant tiède. Ils descendirent donc et Josaphat dit: “Ecoute, consultons d’abord le Seigneur. Il nous faut voir ce qui en est à ce sujet”. (Je ne sais si David aurait fait ce que fit Josaphat…) Il dit: “Ne devrions-nous pas faire cela?”. Et comme Achab était un Israélite, il se dépêcha de répondre: “Certainement, j’ai là quatre cents Hébreux comme nous, quatre cents prophètes de notre propre organisation. Et je vais les consulter. Ce sont des prophètes”.
+60 Maintenant, vous dites: «Il y a là quelque chose qui me trouble, Frère Branham. Des prophètes?». Oh, oui! Quelqu’un du temps de Jérémie a dit qu’ils ne resteraient là que pendant deux ans; le Seigneur avait dit à Jérémie que ce serait soixante-dix ans. Il avait placé un joug sur son cou et le prophète Hanania le brisa. Mais vous savez ce qui lui arriva. Oh, oui, vous devez demeurer avec la Parole. Ces prophètes sont donc descendus, ont prophétisé en disant: “Montez, le Seigneur est avec vous”.
+61 Et l’un d’eux, je crois que c’est… J’ai oublié son nom, maintenant; c’était le chef, je crois que c’était Sédécias, prit deux cornes d’airain et dit: “Ainsi dit le Seigneur (maintenant, cet homme était sincère), c’est avec cela que vous repousserez vos ennemis jusque sur leurs terres et que vous prendrez ce qui appartient à Dieu; cela vous a été donné”. Je ne crois pas que c’était un hypocrite. Je crois que c’était un homme de bien. Je crois que tous ces prophètes étaient des hommes de bien.
+62 Vous dites: «Des prophètes?». Oui! Souvenez-vous que l’homme même qui consentit à tuer Jésus avait prophétisé, car c’était là sa tâche. C’était le souverain sacrificateur de cette année, et en tant que tel, il avait ce service à accomplir et l’Esprit de Dieu venait sur lui. Cela ne signifie pas qu’il fût sauvé ni quoi que ce soit à ce sujet. Mais Caïphe prophétisa parce que c’était son ministère.
+63 Et comme c’était leur devoir de prophétiser, tous ces prophètes prophétisèrent; l’Esprit de Dieu vint sur eux, sur les hommes qui avaient reçu les dons de l’Esprit.
+64 Je réalise que je suis en train de parler à des gens dont quatre-vingt dix neuf pour cent sont pentecôtistes. Il arrive souvent que Dieu puisse traiter avec des hommes, leur accorder un don et ces hommes vont ensuite essayer de s’imposer aux gens. Si cet homme ou cette femme n’est pas réellement appelé et envoyé par Dieu, ils seront poussés à dire quelque chose qui n’est pas Sa volonté car ils s’y sentent obligés par les gens.
+65 Maintenant j’ai dû reprendre notre propre pasteur ici à ce sujet. Je me trouvai un matin dans les bois, c’était environ trois heures du matin, lorsque Dieu me dit: «Va parler à frère Neville!». Et je suis venu vers vous, n’est-ce pas, frère Neville?
+66 Tout le monde lui disait: «Frère Neville, prophétisez à mon sujet. Dites-moi ceci ou cela». Vous voyez? Vous en arriveriez alors à lui faire dire des choses qui n’arrivent pas. Il faut que les gens attendent afin de découvrir ce que Dieu veut faire. Vous voyez?
+67 Ainsi ces hommes voyaient cela au sens propre: “Cela nous appartient”. Mais, voyez-vous, ils n’avaient pas découvert la Parole et la volonté de Dieu.
+68 Puis, Michée descendit et eut une vision. Et il commença par l’examiner. Vous remarquez? Il dit: “Attendez. Donnez-moi jusqu’à ce soir. Laissez-moi découvrir ce qui en est et demain, je pourrai peut-être vous répondre”. Il ne se dépêcha pas de dire: “AINSI DIT LE SEIGNEUR”, comme pour être d’accord avec les autres prophètes; il dit: “Je ne dirai que ce que Dieu dit”. Et nous découvrons que le lendemain Dieu lui dit ce qui arriverait. Et c’était absolument le contraire de ce qu’avaient dit les autres. C’était contraire à toute l’école. Et même l’un d’eux se leva pour aller le gifler pour cela. Mais vous voyez, il attendit. Lorsqu’il fit cela, il compara sa prophétie, sa vision, avec la Parole écrite et c’était en accord avec la Parole.
+69 Si quelqu’un dit qu’il a eu la révélation de baptiser les gens au Nom du Père, Fils et Saint-Esprit, c’est contraire à la Parole. Aucun des autres ne l’a jamais fait. Lorsque les gens disent: «Oh, nous allons soutenir…», lorsqu’ils disent ceci, cela et encore autre chose, c’est contraire à la Parole. Lorsqu’ils disent qu’ils ne croient pas à la semence du serpent, c’est contraire à la Parole. Cela doit être en accord avec la Parole et en sa saison.
+70 Si seulement David avait fait cela. L’arche devait venir mais pas à ce moment-là. Il n’y avait pas de place pour elle.
+71 Maintenant remarquez que lorsqu’ils descendirent chercher l’arche, tous les dignitaires dirent: “C’est cela qu’il faut faire, David. Gloire à Dieu! Nous avons besoin d’un réveil”. Ce sont les vrais Pentecôtistes, Baptistes, Presbytériens d’aujourd’hui. “David, tu es notre roi; il y aura à notre réunion le capitaine Untel, le major Untel et le général Untel. Et ils ont dit que c’était exactement ce qu’il fallait faire, David. Tout le pays est avec toi”. C’est ce qui ne va pas aujourd’hui! Ce n’est pas le pays que je veux. C’est Dieu que je veux, même s’il n’y a personne d’autre pour soutenir cela.
+72 David avait tous les capitaines pour lui. Il avait le soutien des forces militaires. Il avait le soutien de toutes les dénominations, de tous les théologiens; tout le monde était d’accord avec lui. C’est aussi ce qui arriva avec Achab et d’autres dans l’Ecriture; mais David n’avait pas Dieu car il était en dehors de la volonté de Dieu. J’espère que vous saisissez cela!
+73 Remarquez! Ils ont fait toutes les choses religieuses possibles; ils ont sûrement fait de la publicité et toutes ces choses: “C’est le Grand Réveil, l’arche va être ramenée. Nous allons avoir un réveil! Voilà ce que nous allons faire”.
+74 Remarquez qu’il envoya des chanteurs. Il envoya des gens avec des harpes, des trompettes et ils firent toutes les choses religieuses qu’ils connaissaient; et pourtant Dieu n’était pas là-dedans! C’est en quelque sorte ce qui est en train de se répéter, n’est-ce pas?
+75 Ils firent venir tous les chanteurs. Ils firent venir les joueurs de harpes, les trompettistes, les femmes, les hommes, tous ceux qui chantaient. Ils les firent tous descendre là-bas, et ils allèrent dans tous les mouvements religieux. Ce n’est pas que je veuille dire cela mais il faut que je le dise: «C’est ainsi qu’agissent les dénominations d’aujourd’hui, les Pentecôtistes et tous les autres; ils vont dans tous les mouvements religieux ou l’on chante et crie».
+76 Remarquez que David cria de toute sa force, il pleura, sauta et il alla dans tous les mouvements religieux qu’il y avait; mais Dieu n’était toujours pas là-dedans. Son motif, son objectif, tout était juste, mais il s’y prit de la mauvaise manière. Vous voyez? Il alla dans tous les mouvements religieux: il cria, chanta, il eut des crieurs particuliers et tout le reste. Ils dansèrent dans l’Esprit. Ils firent tout ce qui était religieux.
+77 C’est un peu comme les grandes croisades de notre temps. On voulait gagner le monde à Christ. De telles chose n’existent pas! De grands réveils qui emportent tout, de grandes choses se passent; oh, si seulement ils pouvaient réaliser que ce jour-là est passé. Elle est maudite! Mais ils mettent au point des croisades, des organisations et tout cela; mais le résultat est exactement comme il en fut du temps de David: cela n’avait pas marché.
+78 Nous allons avoir un réveil. Certains de nos grands évangélistes d’aujourd’hui disent qu’en six semaines, ils ont trente mille convertis; seulement lorsqu’ils reviennent une année plus tard, ils n’en retrouvent même pas trente. Il y a quelque chose qui ne va pas. De quoi s’agit-il? C’est tout simplement la même chose que ce que fit David. De grands dignitaires, de grands hommes, de grands prédicateurs, de grandes écoles, une grande autorité, mais ils continuent de consulter une vieille organisation au lieu de regarder en face la Parole de Dieu et de voir quelle est la saison en cours. Il y a certaines nourritures que vous ne pouvez faire pousser qu’à certaines périodes de l’année.
+79 Voyons maintenant ce qui arriva. Leur émotion religieuse et tout ce fatras étaient grands, leurs intentions étaient grandes, leur croisade était grande, leurs chants étaient glorieux, leurs danses étaient glorieuses, leurs cris étaient puissants, leur musique était grande et ils avaient l’arche. A quoi leur servait l’arche sans Dieu? Ce n’est qu’une boîte de bois et deux tables de pierre. Mais Dieu n’était pas là-dedans. Et c’est là que le bât blesse. Vous pouvez avoir toute la religion du monde, mais si Dieu n’est pas dans cette religion, elle ne sert à rien. Il faut que Dieu soit dans ce que vous faites. Et pour que Dieu soit dans ce que vous faites, il faut que ce soit Sa volonté, et non la vôtre. C’est pourquoi je dis: “Rendre un service à Dieu en dehors de Sa volonté, c’est comme offrir un sacrifice sans feu. Cela ne monte pas jusqu’à Lui.”
+80 Maintenant, je vais conclure. David apprit sa leçon. Après qu’Uzza eut été frappé pour avoir touché l’arche, David eut peur et dit: “Comment l’arche de l’Eternel entrerait-elle chez moi?”. Il la laissa dans la maison d’Obed-Edom. Et trois mois plus tard, quand il vit que Dieu bénissait Obed-Edom à cause de l’arche, il comprit que ce n’était pas l’arche qui était le problème, mais la manière dont il s’y était pris. Alors il consulta Dieu selon l’ordre prescrit: les Lévites devaient porter l’arche sur leurs épaules avec des barres, comme Dieu l’avait ordonné. Et cette fois, cela réussit.
+81 Ainsi, mes frères, ne vous précipitez pas pour faire quelque chose pour Dieu simplement parce que c’est une bonne idée. Attendez que Dieu vous montre Sa volonté. Consultez-Le par Sa Parole et par l’Esprit. Et lorsque vous êtes sûrs que c’est Lui, alors agissez. Mais si vous agissez en dehors de Sa volonté, même avec les meilleures intentions, vous risquez de causer la mort spirituelle autour de vous. Que Dieu nous aide à être sensibles à Sa voix et à obéir à Sa Parole, en son temps et selon Sa méthode. Amen.
 
-     http://www.cmpp.ch
-
-RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 6
-bonnes intentions. Il n’y a qu’une seule manière de servir Dieu; c’est de faire Sa volonté
-lorsqu’Il l’ordonne. Dieu étant souverain, il n’y a personne qui puisse Lui dire ce qu’Il doit faire ni
-comment Il doit le faire; Il le fait comme… Il connaît la bonne manière de le faire. Et c’est cela qui
-fait que je me sens bien. Et cela devrait faire que tous nous sentions bien; je suis sûr qu’il en est
-ainsi. Sinon, il y en aurait un qui voudrait agir comme ceci, un autre qui voudrait agir comme cela,
-et un troisième d’une autre manière encore…
-30 Mais de nouveau, ce qu’il y a de glorieux au sujet de Dieu, c’est que maintenant, Il ne va pas
-nous laisser sans nous faire connaître ce qu’est la Vérité et sans savoir comment
-l’appliquer. Il ne voudrait pas nous punir pour avoir fait quelque chose; Il ne voudrait pas nous
-laisser faire quelque chose, alors que nous ne savons pas de quelle manière cela doit être fait,
-pour nous laisser ensuite trébucher sur quelque chose. Il n’est pas cette sorte de Dieu. Il est un
-Dieu qui dit une parole et qui s’attend à ce que Ses enfants la croient. Il sait donc ce qu’il y a
-de mieux, quand le faire et comment le faire. Nous avons nos propres idées à ce sujet, mais Lui
-sait.
-31 Si donc Il avait établi un système dans lequel Il saurait ce qu’Il va faire mais qu’Il ne nous
-dirait pas ce qui va arriver, ni de quelle manière, et que le fait que nous trébuchions puis
-essayions de faire quelque chose suffirait à nous justifier, alors tout le monde serait justifié. Mais il
-n’y a pas d’autre moyen que Sa Parole.
-32 Nous voyons encore autre chose ici avec David; nous voyons que dans son coeur, il voulait
-faire quelque chose qui était bon. Il n’avait pas de mauvaise motivation ni de mauvais objectif; la
-maison, l’arche du Seigneur était loin du peuple et il voulut ramener l’arche de Dieu à sa place afin
-que le peuple puisse consulter Dieu au sujet des choses qu’Il voulait.
-33 Que serait-il arrivé si frère Blair et le père de ce petit garçon avaient dit: «Eh bien, c’est trop
-tard; l’enfant vient d’être frappé, il a été tué. Je crois que c’est ce qui vient d’arriver»? Mais ils
-allèrent tout de suite vers Dieu.
-34 Prenez le cas de cette dame et de son mari, un prédicateur de l’Evangile, lorsqu’elle a eu cet
-accident il y a quelques jours et que sa colonne vertébrale a été endommagée. Le docteur avait
-dit: «Elle sera paralysée pour le reste de sa vie». Que serait-il arrivé si son mari avait dit: «Eh
-bien, chérie, nous tâcherons de nous consoler de cela»? Mais ils firent rapidement quelque chose
-à ce sujet; ils allèrent à Dieu. A combien de choses de la Bible pourrions-nous nous référer qui
-nous montrent comment lorsque les gens étaient dans la difficulté, ils allaient à Dieu.
-35 En ce temps-là, ils n’avaient qu’un seul lieu de rencontre où ils pouvaient rencontrer Dieu, et
-c’était l’arche qui se trouvait sous le sang. C’est toujours le seul lieu de rencontre, sous le
-Sang. Le siège de la grâce était aspergé afin que lorsque l’adorateur ou celui qui venait demander
-quelque chose à Dieu reçoive la grâce. Et Dieu avait une manière spéciale à ce sujet et Il
-n’acceptait rien d’autre. Il n’acceptait aucune autre disposition que celle qu’Il avait fixée.
-36 J’ai prêché récemment un message (beaucoup le connaissent) au sujet de ce seul lieu auquel
-Dieu avait pourvu pour y rencontrer l’adorateur, de ce lieu dont Il a dit: “J’y mettrai Mon Nom”. Si
-nous pouvons trouver une église dans laquelle Il a mis Son Nom, alors nous avons le lieu. Il a dit:
-“Ce n’est pas dans toutes les portes que je vous bénirai mais seulement dans la porte où j’ai mis
-mon Nom. Je le mettrai dans un seul lieu et c’est là que vous devrez me rencontrer; c’est la seule
-place où je vous rencontrerai”. Et nous avons découvert où Il a mis Son Nom. Et c’est le seul
-lieu où Il rencontre l’adorateur; Son Nom était Jésus-Christ. Le Nom de Dieu est Jésus-Christ.
-37 Jésus a dit: “Je viens au Nom de mon Père”. N’importe quel fils vient au nom de son père. Et
-Il vint au Nom du Père. Il n’y a aucun autre nom sous les cieux qui ait été donné parmi les
-hommes, que ce soient des Méthodistes, des Baptistes, des Presbytériens, qu’ils appartiennent à
-l’Eglise de Christ ou quoi que ce soit; il n’y a qu’un seul lieu de rencontre où Dieu rencontre
-l’homme, et c’est lorsqu’il est en Jésus-Christ, c’est le seul lieu. Et toutes ces choses
-anciennes de l’Ancien Testament typifient cela. Je veux que vous compreniez clairement cela. Il
-s’agit maintenant d’une leçon d’école du dimanche. J’ai des passages de l’Ecriture et des notes ici
-que j’ai prise. Et j’ai pensé que cela pourrait vous aider à comprendre, car toutes ces choses
-anciennes sont arrivées pour nous servir d’exemples.
-
-        http://www.cmpp.ch
-
-RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 7
-38 Nous découvrons maintenant que Dieu avait une manière de faire les choses, mais David, qui
-venait d’être béni de Dieu puisqu’il était devenu roi, pensa qu’il pouvait bien faire quelque chose
-pour Dieu. Mais il ne le fit absolument pas de la bonne manière.
-39 Nous remarquons que Dieu révèle Sa Parole dans la saison qu’Il a Lui-même
-prédestinée. Comment Martin Luther aurait-il pu connaître le message d’aujourd’hui? Comment
-les Catholiques auraient-ils pu connaître le message de Martin Luther? Comment John Wesley
-aurait-il pu connaître le message de Pentecôte? Ou comment les Pentecôtistes auraient-ils pu
-connaître ce message? Vous voyez? Il le révèle en Sa saison, car c’est une semence; et
-tandis qu’elle grandit et mûrit, Il se révèle Lui-même.
-40 C’est comme la chaleur du soleil qui fait s’ouvrir la graine. Essayez de sortir la semence du
-sol et d’exposer ses feuilles au soleil pendant une période qui n’est pas la bonne. Si c’est la
-période de maturation, le soleil brûlant va la tuer. C’est pourquoi Il adapte le soleil et règle la
-nature afin qu’ils puissent rencontrer Sa Parole. Il règle l’Eglise, celle qui a été prédestinée,
-l’Epouse, afin qu’Elle puisse s’adapter à la saison dans laquelle Elle vit.
-41 La nature elle-même nous parle, alors que nous voyons les nations se disloquer; la terre est
-en train de sombrer et nous pouvons voir la main écrire sur la muraille. Nous voyons l’église et
-dans quel état elle se trouve. Nous voyons l’Epouse et dans quel état Elle se trouve. Et nous
-savons au travers de la nature que l’Eglise se prépare à partir. Quel temps glorieux! C’est après
-ce temps, après cette heure que tous les prophètes ont soupiré.
-42 Il ne révèle Sa Parole qu’en Sa saison. Martin Luther lisait la même Bible que nous. Wesley
-lisait la même Bible que Martin Luther. Les Pentecôtistes lisent la même Bible que nous. Jésus
-lisait la même Bible que les Pharisiens, mais eux avaient… Ils ont essayé de garder le blé à un
-stade plus précoce, alors qu’il était en train de mûrir et ils ont manqué de voir leur heure.
-43 Or David a fait ici la même chose. Dieu révèle cette Parole en Sa saison et à qui Il choisit de
-le faire. Dieu choisit à qui Il La révèle. Il a choisi cela avant la fondation du monde. Tout ce qu’Il a
-fait Lui était connu d’avance; cela était caché aux yeux de l’homme. Il le révèle simplement
-comme Il le veut. C’est la saison qu’Il a choisie, la personne qu’Il a choisie. Et jamais Il n’a choisi
-un groupe ou une secte; Il choisit une personne. C’est ainsi qu’Il agit.
-44 Qui osera Le reprendre et dire: “Maintenant, Seigneur, Tu as fait une erreur en mettant cet
-homme dans le ministère. Cet homme ne croit pas comme nous croyons”? Qui va dire à Dieu qu’Il
-a tort d’agir ainsi? Il faudrait être plus pécheur que je ne le suis pour aller Lui dire cela. Il sait ce
-qu’Il fait. Il sait qui choisir et qui ne pas choisir; Il sait que faire et quand le faire. Peu
-importe que nous pensions que telle personne est qualifiée pour faire tel travail; c’est Dieu qui sait
-qui est qualifié, quel est le temps et la saison, et Il connaît le temps convenable pour le faire.
-45 Et le vrai, le véritable chrétien, le véritable croyant de Dieu s’attend au Seigneur pour ces
-choses. Attendez que votre ministère se manifeste. Si vous sentez un appel, assurez-vous qu’il
-vient de Dieu. Assurez-vous que c’est juste. Assurez-vous que ce que vous dites est à propos. La
-Bible dit: “Ceux qui s’attendent au Seigneur renouvellent leur force. Ils s’élèveront avec des ailes
-comme les aigles. Ils courront et ne se lasseront pas. Ils marcheront et ne faibliront pas”.
-46 Remarquez David, roi d’Israël alors qu’il vient d’être oint. Samuel a versé l’huile sur lui et il fut
-choisi par Dieu pour être roi d’Israël. Et David eut cette révélation qui lui disait de faire monter
-l’arche du Seigneur jusque dans la cité de David. Maintenant, il n’y avait là rien de faux mais David
-s’y prit de la mauvaise manière.
-47 Maintenant cela me fait penser à un homme qui aurait une révélation, un grand homme
-comme ce roi qui avait été choisi par Dieu (car je crois que David fut le plus grand roi qui ait vécu
-sur terre à part Christ, puisque Christ est un Fils de David)… Maintenant ce grand homme, qui
-vient juste d’être oint, vient de se trouver en présence de Dieu; il a eu une révélation lui disant qu’il
-devait faire quelque chose pour Dieu et il veut faire cela pour Dieu, mais la révélation était fausse.
-Maintenant, c’est là une chose très importante. Venons-en donc à notre sujet: “Essayer de rendre
-un service à Dieu sans avoir été appelé à le faire”.
-48 Remarquez que David a eu une révélation. Remarquez aussi que ce n’est pas le prophète
-Nathan qui a eu la révélation; ce fut David, le roi, qui a eu la révélation. Nathan ne fut pas non plus
-consulté à ce sujet. David n’a rien demandé à Nathan. Mais avez-vous vu ici dans 1 Chroniques
-
-        http://www.cmpp.ch
-
-RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 8
-qu’il a consulté les capitaines de milliers et les capitaines de centaines? Jamais il n’a consulté
-Nathan. Il a consulté le peuple, il a aussi consulté les prêtres et les théologiens de l’époque; il a
-consulté les scribes et les théologiens. Tout d’abord David a consulté en disant: “Si cela vient de
-Dieu, descendons et ramenons l’arche de l’alliance de notre Dieu dans la ville; consultons Dieu
-avant de faire quelque chose”.
-49 Il est dit que du temps de Saül, ils cessèrent de consulter Dieu auprès de l’arche, auprès de
-l’Urimm et du Thummim. Ils cessèrent de faire cela. Et David dit: “Maintenant, retournons à Dieu,
-retournons tous. Retournons vers ce qui est juste. Descendons chercher l’arche et ramenons-la ici
-(en d’autres termes, il fallait la ramener en présence de Dieu, dans la ville). Ayons un réveil.
-Ramenons le peuple”. Il eut une révélation qui semblait bonne, mais ce n’était pas la volonté de
-Dieu.
-50 Au lieu d’aller vers la source à laquelle il aurait dû s’adresser, il consulta ses capitaines, parce
-qu’il venait de devenir roi et qu’il continuait à suivre cette ligne de pensée et croyait que ses
-capitaines et ses grands hommes…
-51 Puis il entra dans l’église officielle et demanda s’ils pouvaient avoir un réveil: il consulta les
-prêtres, les scribes, les capitaines de milliers, les capitaines de centaines: “Etait-ce la volonté du
-Seigneur?”. Et ils dirent que oui. Mais, voyez-vous, il oublia de s’adresser à la source principale
-avec laquelle Dieu avait toujours traité; il oublia d’y aller.
-52 Or son intention était bonne. Son motif était bon. Son objectif était bon; il voulait apporter un
-réveil dans la ville, il voulait ramener les gens à Dieu. Mais il n’a pas consulté selon la manière que
-Dieu lui avait dit de faire. Vous voyez?
-53 Les prêtres et tout le peuple furent d’accord pour dire que le roi avait raison. Ils avaient
-besoin que l’arche revienne dans la ville. Ils avaient besoin de la présence de Dieu. Ils avaient
-besoin du réveil. Mais ce n’était pas la saison où Dieu avait promis de révéler Sa Parole aux
-peuples. Il n’avait jamais promis de révéler Sa Parole au roi en sa saison. Et Dieu ne change
-absolument pas. Il n’a jamais promis de faire cela.
-54 Peu importe la sincérité, les bons motifs, les bons objectifs, peu importe combien les gens
-veulent ces choses et en voient la nécessité, c’est la volonté de Dieu qui doit être manifestée dans
-ces choses. C’est de cela que je veux vous rapprocher. Je veux faire en sorte que vous soyiez
-obligés de voir si l’Esprit de Dieu habite en vous. Et c’est pour cela que je m’attarde autant là-
-dessus. Ce n’est pas que je veuille prendre le temps des gens qui sont au téléphone ou reliés par
-relais radiophonique, mais c’est parce que je veux que vous voyiez bien cela. Si vous manquez de
-temps, vous pourrez obtenir l’enregistrement.
-55 Peu importe combien c’était une nécessité, peu importe combien tout le monde était d’accord
-que c’était une nécessité, peu importe combien c’était la vérité, il y a encore une chose à
-découvrir: est-ce la volonté de Dieu? Maintenant Dieu n’a jamais promis de révéler Ses secrets
-aux rois; c’est à Son peuple qu’Il révèle Ses secrets.
-56 C’est quelque chose comme du temps de Michée, fils d’Imlah. Quittons ce texte pour un
-moment afin de vous rendre la chose plus réelle pour que vous ne la manquiez pas.
-57 Michée était un homme pauvre qui venait d’une famille pauvre. Achab, roi d’Israël, cette
-nation qui était dirigée par Dieu, avait établi une école à part pour y instruire des prophètes
-soigneusement sélectionnés; il en avait quatre cents dans cette école. C’étaient de grands
-hommes. Ce n’étaient pas simplement des faux prophètes. C’étaient des prophètes hébreux, des
-hommes véritables. Et c’était au travers de ces hommes que l’on consultait le Seigneur. Ils
-prophétisaient réellement. Mais voyez-vous, quand vint le moment du réel dénouement, ils se
-trouvèrent tous en dehors de la volonté de Dieu et de Sa Parole.
-58 Lorsque Josaphat descendit de Jérusalem pour aller à la rencontre du roi Achab, ils revêtirent
-leurs habits et se tinrent aux portes de la ville puis ils firent venir les prophètes devant eux. Achab
-commença par dire: “Il y a une place ici à Ramoth en Galaad qui, en fait, nous appartient”.
-Maintenant, c’est le AINSI DIT LE SEIGNEUR. Josué avait partagé cet héritage pour le donner au
-peuple, mais les Philistins s’en étaient emparés. Achab dit donc: “Voici, nos enfants ont besoin de
-pain et nous n’avons pas assez de terre pour pouvoir produire du pain; et nos ennemis, ces
-païens de Philistins nourrissent leurs enfants de cette terre même que Jéhovah Dieu nous a
-
-        http://www.cmpp.ch
-
-RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 9
-donnée”. C’était très juste. Et il dit: “Voici que nous, le peuple de Dieu, nous nous trouvons ici avec
-nos enfants qui sont dans le besoin; et nos ennemis nourrissent leurs enfants de cette terre que le
-Seigneur nous a donnée après nous avoir fait sortir d’Egypte”. C’est ce qu’aurait déclaré un
-théologien, n’est-ce pas? Il dit: “Ne monterons-nous pas prendre nos terres que le Seigneur nous
-a données?”.
-59 Josaphat dit: “Oui, je vais vous aider. Nous sommes frères. Vous êtes de Juda et je suis de
-Jérusalem” (ou bien était-ce le contraire? Je crois que… Non, c’est cela, je crois que Josaphat…)
-Ce qui est sûr, c’est que Josaphat était un homme de bien, un roi, un homme juste qui aimait le
-Seigneur. Achab, lui, était un croyant tiède. Ils descendirent donc et Josaphat dit: “Ecoute,
-consultons d’abord le Seigneur. Il nous faut voir ce qui en est à ce sujet”. (Je ne sais si David
-aurait fait ce que fit Josaphat…) Il dit: “Ne devrions-nous pas faire cela?”. Et comme Achab était
-un Israélite, il se dépêcha de répondre: “Certainement, j’ai là quatre cents Hébreux comme nous,
-quatre cents prophètes de notre propre organisation. Et je vais les consulter. Ce sont des
-prophètes”.
-60 Maintenant, vous dites: «Il y a là quelque chose qui me trouble, Frère Branham. Des
-prophètes?». Oh, oui! Quelqu’un du temps de Jérémie a dit qu’ils ne resteraient là que pendant
-deux ans; le Seigneur avait dit à Jérémie que ce serait soixante-dix ans. Il avait placé un joug sur
-son cou et le prophète Hanania le brisa. Mais vous savez ce qui lui arriva. Oh, oui, vous devez
-demeurer avec la Parole. Ces prophètes sont donc descendus, ont prophétisé en disant:
-“Montez, le Seigneur est avec vous”.
-61 Et l’un d’eux, je crois que c’est… J’ai oublié son nom, maintenant; c’était le chef, je crois que
-c’était Sédécias, prit deux cornes d’airain et dit: “Ainsi dit le Seigneur (maintenant, cet homme était
-sincère), c’est avec cela que vous repousserez vos ennemis jusque sur leurs terres et que vous
-prendrez ce qui appartient à Dieu; cela vous a été donné”. Je ne crois pas que c’était un hypocrite.
-Je crois que c’était un homme de bien. Je crois que tous ces prophètes étaient des hommes de
-bien.
-62 Vous dites: «Des prophètes?». Oui! Souvenez-vous que l’homme même qui consentit à tuer
-Jésus avait prophétisé, car c’était là sa tâche. C’était le souverain sacrificateur de cette année, et
-en tant que tel, il avait ce service à accomplir et l’Esprit de Dieu venait sur lui. Cela ne signifie pas
-qu’il fût sauvé ni quoi que ce soit à ce sujet. Mais Caïphe prophétisa parce que c’était son
-ministère.
-63 Et comme c’était leur devoir de prophétiser, tous ces prophètes prophétisèrent; l’Esprit de
-Dieu vint sur eux, sur les hommes qui avaient reçu les dons de l’Esprit.
-64 Je réalise que je suis en train de parler à des gens dont quatre-vingt dix neuf pour cent sont
-pentecôtistes. Il arrive souvent que Dieu puisse traiter avec des hommes, leur accorder un don et
-ces hommes vont ensuite essayer de s’imposer aux gens. Si cet homme ou cette femme n’est pas
-réellement appelé et envoyé par Dieu, ils seront poussés à dire quelque chose qui n’est pas Sa
-volonté car ils s’y sentent obligés par les gens.
-65 Maintenant j’ai dû reprendre notre propre pasteur ici à ce sujet. Je me trouvai un matin dans
-les bois, c’était environ trois heures du matin, lorsque Dieu me dit: «Va parler à frère Neville!». Et
-je suis venu vers vous, n’est-ce pas, frère Neville?
-66 Tout le monde lui disait: «Frère Neville, prophétisez à mon sujet. Dites-moi ceci ou cela».
-Vous voyez? Vous en arriveriez alors à lui faire dire des choses qui n’arrivent pas. Il faut que les
-gens attendent afin de découvrir ce que Dieu veut faire. Vous voyez?
-67 Ainsi ces hommes voyaient cela au sens propre: “Cela nous appartient”. Mais, voyez-vous,
-ils n’avaient pas découvert la Parole et la volonté de Dieu.
-68 Puis, Michée descendit et eut une vision. Et il commença par l’examiner. Vous remarquez? Il
-dit: “Attendez. Donnez-moi jusqu’à ce soir. Laissez-moi découvrir ce qui en est et demain, je
-pourrai peut-être vous répondre”. Il ne se dépêcha pas de dire: “AINSI DIT LE SEIGNEUR”,
-comme pour être d’accord avec les autres prophètes; il dit: “Je ne dirai que ce que Dieu dit”. Et
-nous découvrons que le lendemain Dieu lui dit ce qui arriverait. Et c’était absolument le contraire
-de ce qu’avaient dit les autres. C’était contraire à toute l’école. Et même l’un d’eux se leva pour
-
-        http://www.cmpp.ch
-
-RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 10
-aller le gifler pour cela. Mais vous voyez, il attendit. Lorsqu’il fit cela, il compara sa prophétie,
-sa vision, avec la Parole écrite et c’était en accord avec la Parole.
-69 Si quelqu’un dit qu’il a eu la révélation de baptiser les gens au Nom du Père, Fils et Saint-
-Esprit, c’est contraire à la Parole. Aucun des autres ne l’a jamais fait. Lorsque les gens disent:
-«Oh, nous allons soutenir…», lorsqu’ils disent ceci, cela et encore autre chose, c’est contraire à la
-Parole. Lorsqu’ils disent qu’ils ne croient pas à la semence du serpent, c’est contraire à la Parole.
-Cela doit être en accord avec la Parole et en sa saison.
-70 Si seulement David avait fait cela. L’arche devait venir mais pas à ce moment-là. Il n’y avait
-pas de place pour elle.
-71 Maintenant remarquez que lorsqu’ils descendirent chercher l’arche, tous les dignitaires dirent:
-“C’est cela qu’il faut faire, David. Gloire à Dieu! Nous avons besoin d’un réveil”. Ce sont les vrais
-Pentecôtistes, Baptistes, Presbytériens d’aujourd’hui. “David, tu es notre roi; il y aura à notre
-réunion le capitaine Untel, le major Untel et le général Untel. Et ils ont dit que c’était exactement
-ce qu’il fallait faire, David. Tout le pays est avec toi”. C’est ce qui ne va pas aujourd’hui! Ce n’est
-pas le pays que je veux. C’est Dieu que je veux, même s’il n’y a personne d’autre pour
-soutenir cela.
-72 David avait tous les capitaines pour lui. Il avait le soutien des forces militaires. Il avait le
-soutien de toutes les dénominations, de tous les théologiens; tout le monde était d’accord avec lui.
-C’est aussi ce qui arriva avec Achab et d’autres dans l’Ecriture; mais David n’avait pas Dieu car il
-était en dehors de la volonté de Dieu. J’espère que vous saisissez cela!
-73 Remarquez! Ils ont fait toutes les choses religieuses possibles; ils ont sûrement fait de la
-publicité et toutes ces choses: “C’est le Grand Réveil, l’arche va être ramenée. Nous allons avoir
-un réveil! Voilà ce que nous allons faire”.
-74 Remarquez qu’il envoya des chanteurs. Il envoya des gens avec des harpes, des trompettes
-et ils firent toutes les choses religieuses qu’ils connaissaient; et pourtant Dieu n’était pas là-
-dedans! C’est en quelque sorte ce qui est en train de se répéter, n’est-ce pas?
-75 Ils firent venir tous les chanteurs. Ils firent venir les joueurs de harpes, les trompettistes, les
-femmes, les hommes, tous ceux qui chantaient. Ils les firent tous descendre là-bas, et ils allèrent
-dans tous les mouvements religieux. Ce n’est pas que je veuille dire cela mais il faut que je le
-dise: «C’est ainsi qu’agissent les dénominations d’aujourd’hui, les Pentecôtistes et tous les autres;
-ils vont dans tous les mouvements religieux ou l’on chante et crie».
-76 Remarquez que David cria de toute sa force, il pleura, sauta et il alla dans tous les
-mouvements religieux qu’il y avait; mais Dieu n’était toujours pas là-dedans. Son motif, son
-objectif, tout était juste, mais il s’y prit de la mauvaise manière. Vous voyez? Il alla dans tous les
-mouvements religieux: il cria, chanta, il eut des crieurs particuliers et tout le reste. Ils dansèrent
-dans l’Esprit. Ils firent tout ce qui était religieux.
-77 C’est un peu comme les grandes croisades de notre temps. On voulait gagner le monde à
-Christ. De telles chose n’existent pas! De grands réveils qui emportent tout, de grandes choses se
-passent; oh, si seulement ils pouvaient réaliser que ce jour-là est passé. Elle est maudite!
-Mais ils mettent au point des croisades, des organisations et tout cela; mais le résultat est
-exactement comme il en fut du temps de David: cela n’avait pas marché.
-78 Nous allons avoir un réveil. Certains de nos grands évangélistes d’aujourd’hui disent qu’en six
-semaines, ils ont trente mille convertis; seulement lorsqu’ils reviennent une année plus tard, ils
-n’en retrouvent même pas trente. Il y a quelque chose qui ne va pas. De quoi s’agit-il? C’est tout
-simplement la même chose que ce que fit David. De grands dignitaires, de grands hommes, de
-grands prédicateurs, de grandes écoles, une grande autorité, mais ils continuent de consulter
-une vieille organisation au lieu de regarder en face la Parole de Dieu et de voir quelle est la
-saison en cours. Il y a certaines nourritures que vous ne pouvez faire pousser qu’à certaines
-périodes de l’année.
-79 Voyons maintenant ce qui arriva. Leur émotion religieuse et tout ce fatras étaient grands,
-leurs intentions étaient grandes, leur croisade était grande, leurs chants étaient glorieux, leurs
-danses étaient glorieuses, leurs cris étaient puissants, leur musique était grande et ils avaient
-l’arche. A quoi leur servait l’arche sans Dieu? Ce n’est qu’une boîte de bois et deux tables de
-
-        http://www.cmpp.ch
-
-    RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE    11
+RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE    11
 pierre. C’est comme le fait d’être baptisé, de prendre la communion. A quoi sert-il d’être baptisé si
 vous ne vous êtes pas d’abord repenti? A quoi sert-il de prendre la Communion pour devenir
 hypocrite et ne pas croire le reste de la Parole de Dieu ni vivre la Vie de cette Parole? Si
@@ -595,7 +221,6 @@ vous aviez connu Moïse, vous m’auriez connu, car Moïse a dit que je venais�
 religieux. “A moins que vous ne croyiez que je suis, vous mourrez dans vos péchés”. Mais ils ne le
 firent pas. Ils étaient tellement établis dans leur manière d’agir. Il fallait qu’ils agissent ainsi.
 
-
     http://www.cmpp.ch
 
     RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE    12
@@ -613,7 +238,7 @@ entrer et se révéler Lui-même. Et s’Il se révèle en accord avec la Parole
 Sinon, c’est que ce n’est pas Dieu. Ce doit être la Parole pour cette saison.
      Certainement, un pharisien pouvait dire: “Qui a dit que nous ne pouvions pas faire ceci et
 cela? C’est Moïse qui nous a donné ces ordres”. Mais Moïse avait aussi dit…
-     Satan dit: “Eh bien, il est écrit qu’il ordonnera…”.
+     Satan dit: “Eh bien, il est écrit qu’il ordonnera…”.”
 92 “Et il est aussi écrit…” dit Jésus.
      La saison, le temps. “Si vous aviez connu Moïse… Il y en a un qui vous accuse, c’est Moïse.
 Si vous aviez connu Moïse, vous m’auriez connu,” dit-Il “car Moïse a écrit à mon sujet: Le
@@ -961,8 +586,8 @@ promesse de ce jour. Voyez dans quelle saison nous vivons.
 licencié en lettres. J’ai fait ceci et cela». C’est très bien, je n’ai rien contre cela. C’est aussi ce qu’a
 fait David; c’est aussi ce qu’ont fait les prêtres de ce jour, c’est aussi ce qu’ont fait les théologiens,
 mais c’était contraire à la Parole.
-152 Dieu a dit comment Il agirait aujourd’hui, comment Il restaurerait toutes choses, ce qu’Il ferait
-de nouveau. Il a promis de restaurer. C’est absolument vrai. Dans Joël 2.25, il a promis de
+152 Dieu a dit comment Il agirait aujourd’hui, comment Il restaurerait toutes choses, ce qu’Il
+ferait de nouveau. Il a promis de restaurer. C’est absolument vrai. Dans Joël 2.25, il a promis de
 restaurer: “Je restaurerai, dit le Seigneur, toutes les années qui ont été détruites par les chenilles”.
 Vous voyez, c’est le même ver, mais à un stade différent de la vie. Et lorsque les Catholiques ont
 commencé à manger, puis les Luthériens, les Méthodistes, les Pentecôtistes et tous les autres, Il
@@ -1047,190 +672,65 @@ Messie identifié par la Parole de Dieu. Alors elle dit: “C’est cela que nou
         http://www.cmpp.ch
 
 RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 20
-quatre cents ans. Nous n’avons pas eu de prophète ni quoi que ce soit. Le voici et Il dit Lui-même
-qu’Il est ce Messie”. [Espace blanc sur la bande. — N.d.R.] “Venez voir un homme qui m’a dit les
-choses que j’ai faites”. Mais les prêtres voulurent Le tuer, et c’est ce qu’ils firent finalement. Vous
-voyez? Mais aujourd’hui, ils ne peuvent pas tuer Son Esprit. C’est juste! Non, ils ne peuvent
-pas Le tuer. Cet Esprit se trouvait là pour nous amener à Lui, c’est pour cela que nous sommes
-reconnaissants.
-165 Remarquez comme Dieu est grand, comme Ses oeuvres sont grandes. Remarquez qu’Il ne
-peut jamais faillir. Maintenant, Dieu a pourvu une manière originelle de faire les choses, et Il
-ne fera jamais le contraire de cela.
-166 Maintenant, Il a promis de faire ces choses dans les derniers jours. Il nous a envoyé un
-message, et ce message devait avoir la même identification que ceux d’Elie, d’Elisée et de
-Jean-Baptiste avaient eu. Et Il devait faire revenir le coeur des gens, non celui des dénominations,
-vers les pères originaux, apostoliques; Il devait les faire revenir à la Parole. Voyez comme ces
-choses ont été authentifiées. Voyez ce qui arrive lorsque sonne le dernier ange dans Apocalypse 10: au jour du septième ange, ces mystères qui avaient été… Pourquoi les Méthodistes font-ils
-ceci, ainsi que les Baptistes, l’Eglise de Christ, les Témoins de Jéhovah; pourquoi font-ils tous
-cela? Tous ces mystères seront révélés dans les derniers jours lorsque le message du septième
-ange commencera à être proclamé (et non lorsque le septième ange commencera à faire cela).
-Ce ne sera pas pendant les années de préparation que cela arrivera, mais lorsqu’il commencera à
-proclamer ce Message, c’est alors que ces mystères seront révélés. Et voici ces gens que je ne
-connais pas sont témoins de cela. Et dans ce grand observatoire (afin que le monde soit plongé
-dans le doute), ils sont encore là en train de se demander ce qui s’est passé.
-167 Ces grands observatoires à Tucson ont photographié cette chose là-haut, et ils se demandent
-encore ce qui s’est passé. Qu’est-ce donc? Ils écrivent encore dans les journaux: «Y a-t-il
-quelqu’un qui connaisse quelque chose à ce sujet? Qu’est-ce donc? Comment cela a-t-il pu
-arriver?». Il n’y a pas de brume là-haut, il n’y a pas d’air, il n’y a pas d’humidité à cinquante
-kilomètres de haut. «Oh, mon Dieu!». Il y aura des signes dans le Ciel. Et lorsque ces choses
-arriveront, qu’il y aura ces tremblements de terre en différents endroits, alors dans le Ciel
-apparaîtra le signe du Fils de l’homme. En ce jour (Luc) le Fils de l’homme se révélera
-Lui-même; Il sera révélé. Et le monde ressemblera à Sodome et Gomorrhe. Oh, mes frères,
-ne soyez pas ignorants des choses spirituelles. Vous voyez? Sondez les Ecritures car c’est en
-Elles que vous avez la Vie Eternelle, et ce sont Elles qui témoignent de la Parole. Ce sont Elles
-qui témoignent de la Vérité, des choses que Dieu est en train de faire en cette heure.
-168 Et maintenant, observez! Ceux qui ont l’Esprit de Dieu s’attendent à ces choses. Et lorsqu’ils
-voient ces choses, ils croient ces choses. Jésus a dit: “Personne ne peut venir à Moi si mon Père
-ne l’attire, et tous ceux que le Père m’a donnés (Il est la Parole), viendront à Moi; ils viendront à
-Moi”.
-169 Ce matin j’ai été assez rude. Vous voyez? Ils s’attendent au Seigneur, ils attendent; et en
-faisant cela ils voient cette promesse du jour être authentifiée et cela renouvelle leur foi dans Sa
-Parole, car Il a promis de faire cela et Il est en train de le faire. Alors, il n’y a aucun doute. Dieu
-parle; Sa Parole parle d’abord puis l’Esprit qui apporte cette Parole accomplit la chose que
-cette Parole a dit qu’Il ferait. Oh, nous avons beaucoup d’imitations. Nous en aurons encore
-beaucoup; des hommes au coeur sincère essayent de faire les choses de cette manière-ci ou de
-cette manière-là, mais observez ce qui arrive. Les gens vont poser leurs mains sur cela et vont
-mourir. Vous voyez?
-170 Remarquez, aucun schéma de dénomination humaine ne marchera jamais. Ils ont fabriqué
-des membres pour l’arche dénominationnelle qu’ils ont faite eux-mêmes. Dieu n’a jamais eu de
-dénomination. Il n’aura jamais de dénomination. C’est quelque chose de fait par l’homme.
-171 Et aujourd’hui je me demande si, en attirant tous ces gens, en faisant ces grandes croisades
-et ces réveils, nous n’avons pas rempli l’arche baptiste, l’arche presbytérienne. Qu’en est-il de
-l’Arche de Christ, de la Parole? Si l’Epouse doit être la Parole, alors elle doit être de Christ; elle
-doit faire partie de l’Epoux, Elle doit être la Parole, non la Parole pour le jour de Jésus, mais la
-Parole de ce jour, la Parole qu’Il a promis d’accomplir en ce jour. Il a dit qu’Il enverrait Sa
-Parole pour façonner Son Epouse et la former. J’espère que vous voyez cela. Ne vous fabriquez
+quatre cents ans. Nous n’avons pas eu de prophète ni quoi que ce soit. Le voici et Il dit Lui-même qu’Il est ce Messie”. [Espace blanc sur la bande. — N.d.R.] “Venez voir un homme qui m’a dit les choses que j’ai faites”. Mais les prêtres voulurent Le tuer, et c’est ce qu’ils firent finalement. Vous voyez? Mais aujourd’hui, ils ne peuvent pas tuer Son Esprit. C’est juste! Non, ils ne peuvent pas Le tuer. Cet Esprit se trouvait là pour nous amener à Lui, c’est pour cela que nous sommes reconnaissants.
+
+165 Remarquez comme Dieu est grand, comme Ses oeuvres sont grandes. Remarquez qu’Il ne peut jamais faillir. Maintenant, Dieu a pourvu une manière originelle de faire les choses, et Il ne fera jamais le contraire de cela.
+
+166 Maintenant, Il a promis de faire ces choses dans les derniers jours. Il nous a envoyé un message, et ce message devait avoir la même identification que ceux d’Elie, d’Elisée et de Jean-Baptiste avaient eu. Et Il devait faire revenir le coeur des gens, non celui des dénominations, vers les pères originaux, apostoliques; Il devait les faire revenir à la Parole. Voyez comme ces choses ont été authentifiées. Voyez ce qui arrive lorsque sonne le dernier ange dans Apocalypse 10: au jour du septième ange, ces mystères qui avaient été… Pourquoi les Méthodistes font-ils ceci, ainsi que les Baptistes, l’Eglise de Christ, les Témoins de Jéhovah; pourquoi font-ils tous cela? Tous ces mystères seront révélés dans les derniers jours lorsque le message du septième ange commencera à être proclamé (et non lorsque le septième ange commencera à faire cela). Ce ne sera pas pendant les années de préparation que cela arrivera, mais lorsqu’il commencera à proclamer ce Message, c’est alors que ces mystères seront révélés. Et voici ces gens que je ne connais pas sont témoins de cela. Et dans ce grand observatoire (afin que le monde soit plongé dans le doute), ils sont encore là en train de se demander ce qui s’est passé.
+
+167 Ces grands observatoires à Tucson ont photographié cette chose là-haut, et ils se demandent encore ce qui s’est passé. Qu’est-ce donc? Ils écrivent encore dans les journaux: «Y a-t-il quelqu’un qui connaisse quelque chose à ce sujet? Qu’est-ce donc? Comment cela a-t-il pu arriver?». Il n’y a pas de brume là-haut, il n’y a pas d’air, il n’y a pas d’humidité à cinquante kilomètres de haut. «Oh, mon Dieu!». Il y aura des signes dans le Ciel. Et lorsque ces choses arriveront, qu’il y aura ces tremblements de terre en différents endroits, alors dans le Ciel apparaîtra le signe du Fils de l’homme. En ce jour (Luc) le Fils de l’homme se révélera Lui-même; Il sera révélé. Et le monde ressemblera à Sodome et Gomorrhe. Oh, mes frères, ne soyez pas ignorants des choses spirituelles. Vous voyez? Sondez les Ecritures car c’est en Elles que vous avez la Vie Eternelle, et ce sont Elles qui témoignent de la Parole. Ce sont Elles qui témoignent de la Vérité, des choses que Dieu est en train de faire en cette heure.
+
+168 Et maintenant, observez! Ceux qui ont l’Esprit de Dieu s’attendent à ces choses. Et lorsqu’ils voient ces choses, ils croient ces choses. Jésus a dit: “Personne ne peut venir à Moi si mon Père ne l’attire, et tous ceux que le Père m’a donnés (Il est la Parole), viendront à Moi; ils viendront à Moi”.
+
+169 Ce matin j’ai été assez rude. Vous voyez? Ils s’attendent au Seigneur, ils attendent; et en faisant cela ils voient cette promesse du jour être authentifiée et cela renouvelle leur foi dans Sa Parole, car Il a promis de faire cela et Il est en train de le faire. Alors, il n’y a aucun doute. Dieu parle; Sa Parole parle d’abord puis l’Esprit qui apporte cette Parole accomplit la chose que cette Parole a dit qu’Il ferait. Oh, nous avons beaucoup d’imitations. Nous en aurons encore beaucoup; des hommes au coeur sincère essayent de faire les choses de cette manière-ci ou de cette manière-là, mais observez ce qui arrive. Les gens vont poser leurs mains sur cela et vont mourir. Vous voyez?
+
+170 Remarquez, aucun schéma de dénomination humaine ne marchera jamais. Ils ont fabriqué des membres pour l’arche dénominationnelle qu’ils ont faite eux-mêmes. Dieu n’a jamais eu de dénomination. Il n’aura jamais de dénomination. C’est quelque chose de fait par l’homme.
+
+171 Et aujourd’hui je me demande si, en attirant tous ces gens, en faisant ces grandes croisades et ces réveils, nous n’avons pas rempli l’arche baptiste, l’arche presbytérienne. Qu’en est-il de l’Arche de Christ, de la Parole? Si l’Epouse doit être la Parole, alors elle doit être de Christ; elle doit faire partie de l’Epoux, Elle doit être la Parole, non la Parole pour le jour de Jésus, mais la Parole de ce jour, la Parole qu’Il a promis d’accomplir en ce jour. Il a dit qu’Il enverrait Sa Parole pour façonner Son Epouse et la former. J’espère que vous voyez cela. Ne vous fabriquez
 
         http://www.cmpp.ch
 
 RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 21
-pas d’idées personnelles et ne prenez pas l’idée de quelqu’un d’autre. Prenez ici la Parole
-authentifiée, la Bible. Dieu a promis dans Sa Parole qu’Il choisirait Son Epouse en ce dernier
-jour. Saviez-vous cela? Il a promis de faire cela par Son plan originel qu’Il a utilisé pour choisir
-Christ, pour choisir le temps, pour choisir la saison. Il ne peut pas manquer cela avec son Epouse
-car Elle est une partie de cette Parole. Il ne peut pas la choisir dans une dénomination car Il n’a
-pas choisi Christ dans une dénomination. Christ est-Il venu à une dénomination? Est-Il venu par
-une dénomination? Non! Elles L’ont rejeté. Voilà ce qu’ont fait les dénominations, ainsi lorsqu’Il
-choisit une Epouse, peut-Il s’y prendre d’une autre manière? Comment a-t-Il amené Christ ici? Par
-la Parole des prophètes. Est-ce juste? Comment amènera-t-Il Son Epouse ici? Par la Parole
-des prophètes. Comment s’est-Il identifié lorsqu’Il est venu? Par un homme du désert sur lequel
-descendit l’esprit d’Elie. Comment va-t-Il identifier Son Epouse? Dans Malachie 4, Il a promis de
-faire la même chose avant de détruire la terre comme cela arriva aux jours de Sodome.
-172 Souvenez-vous que Sodome a été brûlée. Est-ce juste? Eh bien, ce monde doit brûler. C’est
-ce que Jésus a dit. Et cela se fera au temps que Luc a dit au chapitre 17 et au verset 30: Lorsque
-les jours seront comme du temps de Sodome et Gomorrhe, alors le Fils de l’homme sera
-révélé. Et alors qu’arrivera-t-il? Selon Malachie, Il brûlera de nouveau la terre, et dans le
-Millénium, les justes marcheront sur les cendres des méchants. Est-ce juste? Vous voyez? Nous
-sommes donc vraiment à la fin des temps. Nous nous trouvons ici à la porte, attendant qu’Il
-vienne.
-173 Remarquez que Dieu a promis dans Sa Parole qu’Il choisirait Son Epouse selon la manière
-originelle par laquelle Il a choisi l’Epoux. Il avait prédit cela par les prophètes et envoyé un
-prophète pour identifier cela. Le prophète qui se tenait sur les rives du Jourdain dit: “Voici!”.
+pas d’idées personnelles et ne prenez pas l’idée de quelqu’un d’autre. Prenez ici la Parole authentifiée, la Bible. Dieu a promis dans Sa Parole qu’Il choisirait Son Epouse en ce dernier jour. Saviez-vous cela? Il a promis de faire cela par Son plan originel qu’Il a utilisé pour choisir Christ, pour choisir le temps, pour choisir la saison. Il ne peut pas manquer cela avec son Epouse car Elle est une partie de cette Parole. Il ne peut pas la choisir dans une dénomination car Il n’a pas choisi Christ dans une dénomination. Christ est-Il venu à une dénomination? Est-Il venu par une dénomination? Non! Elles L’ont rejeté. Voilà ce qu’ont fait les dénominations, ainsi lorsqu’Il choisit une Epouse, peut-Il s’y prendre d’une autre manière? Comment a-t-Il amené Christ ici? Par la Parole des prophètes. Est-ce juste? Comment amènera-t-Il Son Epouse ici? Par la Parole des prophètes. Comment s’est-Il identifié lorsqu’Il est venu? Par un homme du désert sur lequel descendit l’esprit d’Elie. Comment va-t-Il identifier Son Epouse? Dans Malachie 4, Il a promis de faire la même chose avant de détruire la terre comme cela arriva aux jours de Sodome.
+
+172 Souvenez-vous que Sodome a été brûlée. Est-ce juste? Eh bien, ce monde doit brûler. C’est ce que Jésus a dit. Et cela se fera au temps que Luc a dit au chapitre 17 et au verset 30: Lorsque les jours seront comme du temps de Sodome et Gomorrhe, alors le Fils de l’homme sera révélé. Et alors qu’arrivera-t-il? Selon Malachie, Il brûlera de nouveau la terre, et dans le Millénium, les justes marcheront sur les cendres des méchants. Est-ce juste? Vous voyez? Nous sommes donc vraiment à la fin des temps. Nous nous trouvons ici à la porte, attendant qu’Il vienne.
+
+173 Remarquez que Dieu a promis dans Sa Parole qu’Il choisirait Son Epouse selon la manière originelle par laquelle Il a choisi l’Epoux. Il avait prédit cela par les prophètes et envoyé un prophète pour identifier cela. Le prophète qui se tenait sur les rives du Jourdain dit: “Voici!”.
      Ils dirent: “Tu es le Messie, n’est-ce pas?”.
      Il dit: “Non, je ne suis pas le Messie”.
      “Tu dois être le Messie”.
-174 “Je ne suis pas le Messie, mais Il se tient au milieu de vous. Et je ne suis pas digne de
-délacer Ses chaussures. Lorsqu’Il viendra, Il se fera connaître Lui-même”. Et aujourd’hui, Il se
-tient au milieu de nous en la Personne du Saint-Esprit, Il se manifeste Lui-même de plus en
-plus, Il vient dans Son Eglise et se fait connaître Lui-même; car Lui, l’Epoux, sera un avec
-l’Epouse et Il se fera connaître Lui-même. Et un jour vous verrez que Celui que vous avez senti
-dans votre coeur et que vous avez vu identifié sera personnalisé devant vous. Alors Lui et vous
-serez un. Vous avez été unis par la Parole; et la Parole qui était au commencement
-retournera à ce commencement qui est Dieu. “Et ce jour-là, vous saurez que je suis dans le
-Père et que le Père est en moi, que je suis en vous et que vous êtes en moi”. Alléluia! Nous y
-sommes! Alléluia! Je suis tellement heureux de Le voir se personnifier Lui-même au milieu de
-nous et de voir ce qu’Il a promis par Sa Parole, non par les émotions de quelqu’un, par des
-chants, des sauts et des danses, mais par Sa Parole (Amen!). Il se fait connaître Lui-même.
-175 Remarquez que lorsqu’ils construisirent le temple et y apportèrent l’arche, Dieu entra là avec
-une Colonne de feu. Amen! Alors qu’ils étaient en-dehors de la volonté de Dieu, David sautait et
-criait. Tous les chanteurs et les prêtres continuèrent à faire de même. Mais lorsque Dieu identifia
-l’arche à sa place et dans sa position, et cela avant qu’ils n’aient fait entrer l’arche, la Colonne de
-feu vint montrer le chemin, juste au-dessus des ailes des chérubins et derrière le Saint des Saints;
-ce fut la Colonne de Feu qui montra le lieu. Et la gloire de Dieu resta encore là jusqu’à ce que…
-ils ne pouvaient même pas faire leur service. Amen! Les yeux de tous les théologiens seront
-fermés lorsqu’Il viendra chercher Son Epouse. Elle sera enlevée au milieu de la nuit comme
-il en fut de leur temps. Ils ne La verront même pas partir. Oh, loué soit Dieu!
-176 Remarquez. Dieu a promis qu’Il ferait sortir Son Epouse, c’est ce qu’Il devait faire: il devait
-y avoir une semence; il devait y avoir une Lumière au temps du soir. Il a promis qu’Il ferait
-toutes ces choses exactement selon la manière originelle qu’Il avait prévue dans l’Ancien et le
-Nouveau Testament; et cela ne se fera pas au travers de dénominations. Cela ne doit pas se faire
-par le système que nous utilisons aujourd’hui. Nous ne faisons que provoquer la mort. Les gens
-appuient leur main sur cela et en meurent. Vous voyez?
+174 “Je ne suis pas le Messie, mais Il se tient au milieu de vous. Et je ne suis pas digne de délier Ses chaussures. Lorsqu’Il viendra, Il se fera connaître Lui-même”. Et aujourd’hui, Il se tient au milieu de nous en la Personne du Saint-Esprit, Il se manifeste Lui-même de plus en plus, Il vient dans Son Eglise et se fait connaître Lui-même; car Lui, l’Epoux, sera un avec l’Epouse et Il se fera connaître Lui-même. Et un jour vous verrez que Celui que vous avez senti dans votre coeur et que vous avez vu identifié sera personnalisé devant vous. Alors Lui et vous serez un. Vous avez été unis par la Parole; et la Parole qui était au commencement retournera à ce commencement qui est Dieu. “Et ce jour-là, vous saurez que je suis dans le Père et que le Père est en moi, que je suis en vous et que vous êtes en moi”. Alléluia! Nous y sommes! Alléluia! Je suis tellement heureux de Le voir se personnifier Lui-même au milieu de nous et de voir ce qu’Il a promis par Sa Parole, non par les émotions de quelqu’un, par des chants, des sauts et des danses, mais par Sa Parole (Amen!). Il se fait connaître Lui-même.
+
+175 Remarquez que lorsqu’ils construisirent le temple et y apportèrent l’arche, Dieu entra là avec une Colonne de feu. Amen! Alors qu’ils étaient en-dehors de la volonté de Dieu, David sautait et criait. Tous les chanteurs et les prêtres continuèrent à faire de même. Mais lorsque Dieu identifia l’arche à sa place et dans sa position, et cela avant qu’ils n’aient fait entrer l’arche, la Colonne de feu vint montrer le chemin, juste au-dessus des ailes des chérubins et derrière le Saint des Saints; ce fut la Colonne de Feu qui montra le lieu. Et la gloire de Dieu resta encore là jusqu’à ce que… ils ne pouvaient même pas faire leur service. Amen! Les yeux de tous les théologiens seront fermés lorsqu’Il viendra chercher Son Epouse. Elle sera enlevée au milieu de la nuit comme il en fut de leur temps. Ils ne La verront même pas partir. Oh, loué soit Dieu!
+
+176 Remarquez. Dieu a promis qu’Il ferait sortir Son Epouse, c’est ce qu’Il devait faire: il devait y avoir une semence; il devait y avoir une Lumière au temps du soir. Il a promis qu’Il ferait toutes ces choses exactement selon la manière originelle qu’Il avait prévue dans l’Ancien et le Nouveau Testament; et cela ne se fera pas au travers de dénominations. Cela ne doit pas se faire par le système que nous utilisons aujourd’hui. Nous ne faisons que provoquer la mort. Les gens appuient leur main sur cela et en meurent. Vous voyez?
 
         http://www.cmpp.ch
 
 RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 22
-177 La Parole, le message du soir, doit produire des résultats du soir. Le message du soir doit
-semer des semences du soir et non des semences du matin. Est-ce juste? Ce qui a été semé
-entre deux était les semences des dénominations. Cela mourut, cela périt. Mais le message du
-temps du soir montrera la Lumière du temps du soir; Il montrera les résultats du temps du
-soir. Le temps de Jésus, le message de midi montrait les résultats de midi. Le message du
-commencement montrait les résultats du commencement: c’était la création. C’est à midi qu’Il fit
-Son Fils selon Sa propre image. Au temps du soir, Il lui fait une Epouse. Vous voyez? Par
-quoi? Par Sa Parole. Comment forma-t-Il la terre? Comment fit-Il pour l’appeler à l’existence par la
-parole? Par Sa Parole! Qui était Son Fils? La Parole! “Au commencement était la Parole, et la
-Parole était avec Dieu… Et la Parole fut faite chair et habita…”. Comment va-t-Il prendre Son
-Epouse? Par la Parole et non sur un char neuf ni selon quelque idée de théologien; c’est selon
-Sa Parole qu’Il va L’identifier. N’y ajoutez pas une chose et n’en retranchez rien maintenant.
-Laissez-La comme Elle est. Vous voyez?
-178 Il a promis qu’au temps du soir Il révélerait, c’est-à-dire ouvrirait, ces Sept Sceaux et qu’Il
-montrerait ce que ces églises ont manqué en restant en arrière. Dans Apocalypse 10, Malachie 4
-et Luc 17.30, Il a dit que c’est ce qu’Il ferait, ainsi n’embrouillons pas tout cela. Gardons-le
-exactement comme cela.
-179 Il faut que je termine. Il est presque midi moins le quart; laissez-moi terminer en disant ceci:
-mes amis, écoutez cela dans le Nom du Seigneur Jésus; ces choses sont trop simples pour que
-vous ne les croyiez pas. C’est trop évident pour que vous ne le voyiez pas. Vous pouvez
-certainement le voir. Le monde pourrait certainement le voir. Ne vous laissez pas influencer par
-ces pièges miroitants et toutes ces choses qu’ils ont aujourd’hui. Peu m’importe combien ces
-hommes peuvent être bons, combien ils sont sincères; s’ils ne parlent pas selon la Loi et les
-Prophètes, la Bible dit qu’il n’y a pas de Vie en eux.
-180 David pensait avoir raison; il était sincère. Ces prêtres pensaient avoir raison; ils étaient
-sincères. Mais ils ont simplement omis de consulter Dieu à ce sujet. Et comment ont-ils pu faire
-cela? Peut-être ont-ils dit: “Nous avons prié”. Mais ce n’était pas la manière d’agir de Dieu. Il a
-promis qu’Il ne ferait rien sans l’avoir d’abord révélé à Ses serviteurs les prophètes. Or Nathan se
-trouvait là au milieu d’eux et ils ne l’ont absolument pas consulté.
-181 Maintenant lisez les quelques chapitres suivants dans Chroniques et vous découvrirez que
-lorsque David s’installa dans la maison, il dit: “Est-ce juste (Nathan se trouvait avec lui) que
-j’habite dans une maison en bois de cèdre alors que l’arche de Dieu se trouve là-dehors sous une
-tente?”. Et Nathan alla s’enquérir auprès du Seigneur de ce qu’il devait lui dire.
-182 Et David était dans l’erreur, aussi Dieu dit: “Va dire à mon serviteur David que je l’aime. J’ai
-rendu son nom semblable à celui des grands hommes de la terre mais je ne peux pas le laisser
-faire cela (vous voyez?); il ne m’a pas écouté. Je ne peux pas le laisser faire cela. Je vais élever
-un homme: ce sera son fils et c’est lui qui construira la maison éternelle de Dieu”. Et David était
-certainement typifié par Salomon, mais ce dernier faillit. Tout homme doit faillir. Tout être humain
-doit faillir. Dieu est le Seul qui ne peut pas faillir. Il ne peut pas rater Son but. Il y a une chose
-que Dieu ne peut pas faire, c’est faillir. Et Dieu est la Parole. Et la Parole… Même si on a
-l’impression que cela va se passer d’une autre manière, cela se passera exactement selon la
-manière que la Parole a dite.
-183 Maintenant, souvenez-vous que vous devez suivre la saison, le temps. Vous voyez? Et quelle
-que soit la saison dans laquelle vous vous trouvez, quel que soit le temps, vous verrez que tout
-est authentifié car c’est exactement la Vérité.
-184 Prenez maintenant tous ces impératifs comme la Parole, les types et toutes ces choses et
-regardez où vous en êtes. Pensez à l’heure dans laquelle nous vivons. Presque un dixième de la
-terre est prêt à sombrer. C’est la science qui dit cela. Ils regardent l’horloge. Il y a quelques
-années ils ont dit: «Il ne reste que trois minutes avant minuit». Il se peut qu’il ne reste plus qu’une
-ou plus qu’une demi-minute maintenant. Ils disent: «Cela ne va pas arriver dans notre
-génération!».
-185 «Il se peut que cela arrive dans cinq minutes». Et observez qu’ensuite il a dit: «cinq ans».
-Maintenant, moi, je ne l’ai jamais dit, c’est lui, le scientifique qui l’a dit. Ils s’enfuient de la
+177 La Parole, le message du soir, doit produire des résultats du soir. Le message du soir doit semer des semences du soir et non des semences du matin. Est-ce juste? Ce qui a été semé entre deux était les semences des dénominations. Cela mourut, cela périt. Mais le message du temps du soir montrera la Lumière du temps du soir; Il montrera les résultats du temps du soir. Le temps de Jésus, le message de midi montrait les résultats de midi. Le message du commencement montrait les résultats du commencement: c’était la création. C’est à midi qu’Il fit Son Fils selon Sa propre image. Au temps du soir, Il lui fait une Epouse. Vous voyez? Par quoi? Par Sa Parole. Comment forma-t-Il la terre? Comment fit-Il pour l’appeler à l’existence par la parole? Par Sa Parole! Qui était Son Fils? La Parole! “Au commencement était la Parole, et la Parole était avec Dieu… Et la Parole fut faite chair et habita…”. Comment va-t-Il prendre Son Epouse? Par la Parole et non sur un char neuf ni selon quelque idée de théologien; c’est selon Sa Parole qu’Il va L’identifier. N’y ajoutez pas une chose et n’en retranchez rien maintenant. Laissez-La comme Elle est. Vous voyez?
+
+178 Il a promis qu’au temps du soir Il révélerait, c’est-à-dire ouvrirait, ces Sept Sceaux et qu’Il montrerait ce que ces églises ont manqué en restant en arrière. Dans Apocalypse 10, Malachie 4 et Luc 17.30, Il a dit que c’est ce qu’Il ferait, ainsi n’embrouillons pas tout cela. Gardons-le exactement comme cela.
+
+179 Il faut que je termine. Il est presque midi moins le quart; laissez-moi terminer en disant ceci: mes amis, écoutez cela dans le Nom du Seigneur Jésus; ces choses sont trop simples pour que vous ne les croyiez pas. C’est trop évident pour que vous ne le voyiez pas. Vous pouvez certainement le voir. Le monde pourrait certainement le voir. Ne vous laissez pas influencer par ces pièges miroitants et toutes ces choses qu’ils ont aujourd’hui. Peu m’importe combien ces hommes peuvent être bons, combien ils sont sincères; s’ils ne parlent pas selon la Loi et les Prophètes, la Bible dit qu’il n’y a pas de Vie en eux.
+
+180 David pensait avoir raison; il était sincère. Ces prêtres pensaient avoir raison; ils étaient sincères. Mais ils ont simplement omis de consulter Dieu à ce sujet. Et comment ont-ils pu faire cela? Peut-être ont-ils dit: “Nous avons prié”. Mais ce n’était pas la manière d’agir de Dieu. Il a promis qu’Il ne ferait rien sans l’avoir d’abord révélé à Ses serviteurs les prophètes. Or Nathan se trouvait là au milieu d’eux et ils ne l’ont absolument pas consulté.
+
+181 Maintenant lisez les quelques chapitres suivants dans Chroniques et vous découvrirez que lorsque David s’installa dans la maison, il dit: “Est-ce juste (Nathan se trouvait avec lui) que j’habite dans une maison en bois de cèdre alors que l’arche de Dieu se trouve là-dehors sous une tente?”. Et Nathan alla s’enquérir auprès du Seigneur de ce qu’il devait lui dire.
+
+182 Et David était dans l’erreur, aussi Dieu dit: “Va dire à mon serviteur David que je l’aime. J’ai rendu son nom semblable à celui des grands hommes de la terre mais je ne peux pas le laisser faire cela (vous voyez?); il ne m’a pas écouté. Je ne peux pas le laisser faire cela. Je vais élever un homme: ce sera son fils et c’est lui qui construira la maison éternelle de Dieu”. Et David était certainement typifié par Salomon, mais ce dernier faillit. Tout homme doit faillir. Tout être humain doit faillir. Dieu est le Seul qui ne peut pas faillir. Il ne peut pas rater Son but. Il y a une chose que Dieu ne peut pas faire, c’est faillir. Et Dieu est la Parole. Et la Parole… Même si on a l’impression que cela va se passer d’une autre manière, cela se passera exactement selon la manière que la Parole a dite.
+
+183 Maintenant, souvenez-vous que vous devez suivre la saison, le temps. Vous voyez? Et quelle que soit la saison dans laquelle vous vous trouvez, quel que soit le temps, vous verrez que tout est authentifié car c’est exactement la Vérité.
+
+184 Prenez maintenant tous ces impératifs comme la Parole, les types et toutes ces choses et regardez où vous en êtes. Pensez à l’heure dans laquelle nous vivons. Presque un dixième de la terre est prêt à sombrer. C’est la science qui dit cela. Ils regardent l’horloge. Il y a quelques années ils ont dit: «Il ne reste que trois minutes avant minuit». Il se peut qu’il ne reste plus qu’une ou plus qu’une demi-minute maintenant. Ils disent: «Cela ne va pas arriver dans notre génération!».
+185 «Il se peut que cela arrive dans cinq minutes». Et observez qu’ensuite il a dit: «cinq ans». Maintenant, moi, je ne l’ai jamais dit, c’est lui, le scientifique qui l’a dit. Ils s’enfuient de la
 
         http://www.cmpp.ch
 
     RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE    23
-Californie comme des mouches. Vous voyez? Eh bien, lorsque Lot sortit de Sodome, le même jour
-il s’est mis à pleuvoir du feu sur la terre. Un de ces jours, Dieu va prendre notre message et
-nous allons partir d’ici. Alors il est absolument certain qu’il se passera quelque chose
-lorsque l’Eglise, c’est-à-dire Son corps, Son Epouse sera partie.
-186 Maintenant j’aimerais vous lire un passage de l’Ecriture et je veux que vous le lisiez avec moi.
-J’aimerais que pour terminer vous preniez Deutéronome 4. Je pense qu’il en a été dit
-suffisamment pour que vous compreniez. Deutéronome 4. Je vais lire dans deux endroits. Je
-m’adresse à cette église ainsi qu’aux gens qui écoutent les enregistrements ou qui sont reliés par
-le téléphone dans d’autres régions du pays: je veux que vous écoutiez cela très attentivement et
-que vous ne le manquiez pas. Deutéronome au chapitre 4. Je vais commencer au premier verset.
-Je veux lire le premier verset puis je lirai les versets 25 et 26. Vous pouvez le lire en entier quand
-vous serez à la maison, mais je veux gagner du temps pour que nous puissions sortir à l’heure car
-je dois de nouveau revenir ce soir si le Seigneur le veut. Ecoutez parler ce prophète. Il se tenait en
-la présence de Dieu. Il savait de quoi il parlait. Ecoutez:
+Californie comme des mouches. Vous voyez? Eh bien, lorsque Lot sortit de Sodome, le même jour il s’est mis à pleuvoir du feu sur la terre. Un de ces jours, Dieu va prendre notre message et nous allons partir d’ici. Alors il est absolument certain qu’il se passera quelque chose lorsque l’Eglise, c’est-à-dire Son corps, Son Epouse sera partie.
+
+186 Maintenant j’aimerais vous lire un passage de l’Ecriture et je veux que vous le lisiez avec moi. J’aimerais que pour terminer vous preniez Deutéronome 4. Je pense qu’il en a été dit suffisamment pour que vous compreniez. Deutéronome 4. Je vais lire dans deux endroits. Je m’adresse à cette église ainsi qu’aux gens qui écoutent les enregistrements ou qui sont reliés par le téléphone dans d’autres régions du pays: je veux que vous écoutiez cela très attentivement et que vous ne le manquiez pas. Deutéronome au chapitre 4. Je vais commencer au premier verset. Je veux lire le premier verset puis je lirai les versets 25 et 26. Vous pouvez le lire en entier quand vous serez à la maison, mais je veux gagner du temps pour que nous puissions sortir à l’heure car je dois de nouveau revenir ce soir si le Seigneur le veut. Ecoutez parler ce prophète. Il se tenait en la présence de Dieu. Il savait de quoi il parlait. Ecoutez:
         “Et maintenant, Israël, écoute les statuts et les ordonnances que je vous enseigne,
     pour les pratiquer, afin que vous viviez, et que vous entriez dans le pays que l’Eternel, le
     Dieu de vos pères, vous donne. (Cela typifie notre millénium.)
@@ -1252,150 +752,57 @@ la présence de Dieu. Il savait de quoi il parlait. Ecoutez:
     cieux et la terre, que vous périrez bientôt entièrement de dessus le pays où, en passant
     le Jourdain, vous entrez afin de le posséder; vous n’y prolongerez pas vos jours, car
     vous serez entièrement détruits”.
-187 C’est ainsi que Moïse parla à Israël après qu’il eût été authentifié par Dieu au moyen de la
-Colonne de feu et qu’il sut qu’il avait été prouvé qu’il était le serviteur de Dieu qui devait les faire
-sortir. Et avant qu’ils n’entrent dans le pays, Moïse dit: “Maintenant que je vous ai dit ces paroles,
-j’appelle à témoin contre vous le ciel et la terre. Si vous y ajoutez une chose ou si vous en
-retranchez une parole, vous ne resterez pas dans le pays que le Seigneur Dieu vous a donné”.
-Ainsi je vous le dis dans le Nom de Jésus-Christ: n’ajoutez pas une seule chose. N’y mettez pas
-vos propres idées. Dites simplement ce qui est dit sur ces enregistrements. Faites exactement ce
-que le Seigneur Dieu a ordonné de faire. N’y ajoutez rien.
-188 Comme toujours Il garde Sa promesse envers nous. Chaque promesse qu’Il a faite, Il l’a
-tenue. Vous a-t-Il dit que quelque chose devait arriver et que cela ne soit pas arrivé? Aujourd’hui
-j’appelle devant vous le ciel et la terre à témoin: Dieu a-t-Il jamais dit quoi que ce soit qu’Il n’ait pas
-accompli et fait exactement comme Il a dit qu’Il le ferait pour nous? L’a-t-Il fait de la manière qu’Il a
-dit qu’Il le ferait? C’est exact! Il continuera donc à le faire. N’y ajoutez simplement rien. N’en
-retranchez rien. Croyez-le simplement et marchez humblement devant le Seigneur votre
-Dieu, car nous approchons du moment où nous entrerons dans le pays. Alors vous ne
-pourrez pas retourner. Vous ne pourrez pas retourner à ce genre de vie. Vous reviendrez en tant
-qu’être immortel. Vous reviendrez lorsque le péché aura disparu, lorsque Satan sera lié. Et
-pendant mille ans vous vivrez sur cette terre que le Seigneur votre Dieu vous a donnée. “Car les
-débonnaires hériteront la terre. Béni soit celui qui fait tous Ses commandements, afin qu’il ait le
+
+187 C’est ainsi que Moïse parla à Israël après qu’il eût été authentifié par Dieu au moyen de la Colonne de feu et qu’il sut qu’il avait été prouvé qu’il était le serviteur de Dieu qui devait les faire sortir. Et avant qu’ils n’entrent dans le pays, Moïse dit: “Maintenant que je vous ai dit ces paroles, j’appelle à témoin contre vous le ciel et la terre. Si vous y ajoutez une chose ou si vous en retranchez une parole, vous ne resterez pas dans le pays que le Seigneur Dieu vous a donné”. Ainsi je vous le dis dans le Nom de Jésus-Christ: n’ajoutez pas une seule chose. N’y mettez pas vos propres idées. Dites simplement ce qui est dit sur ces enregistrements. Faites exactement ce que le Seigneur Dieu a ordonné de faire. N’y ajoutez rien.
+
+188 Comme toujours Il garde Sa promesse envers nous. Chaque promesse qu’Il a faite, Il l’a tenue. Vous a-t-Il dit que quelque chose devait arriver et que cela ne soit pas arrivé? Aujourd’hui j’appelle devant vous le ciel et la terre à témoin: Dieu a-t-Il jamais dit quoi que ce soit qu’Il n’ait pas accompli et fait exactement comme Il a dit qu’Il le ferait pour nous? L’a-t-Il fait de la manière qu’Il a dit qu’Il le ferait? C’est exact! Il continuera donc à le faire. N’y ajoutez simplement rien. N’en retranchez rien. Croyez-le simplement et marchez humblement devant le Seigneur votre Dieu, car nous approchons du moment où nous entrerons dans le pays. Alors vous ne pourrez pas retourner. Vous ne pourrez pas retourner à ce genre de vie. Vous reviendrez en tant qu’être immortel. Vous reviendrez lorsque le péché aura disparu, lorsque Satan sera lié. Et pendant mille ans vous vivrez sur cette terre que le Seigneur votre Dieu vous a donnée. “Car les débonnaires hériteront la terre. Béni soit celui qui fait tous Ses commandements, afin qu’il ait le
 
     http://www.cmpp.ch
 
 RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 24
-droit d’entrer dans la Cité, car il n’y aura ni sorciers, ni menteurs, ni fornicateurs, ni chiens; il n’y
-entreront pas”. Elle est réservée aux rachetés et à ceux qui marchent selon Ses commandements.
-189 Ne prenez pas de nouvelle chose. Il en vole de partout et il en viendra encore bien plus. Mais
-ne prenez pas ces nouvelles choses. Le Seigneur votre Dieu vous a déclaré ce qu’est la Vérité. Le
-Seigneur votre Dieu a authentifié par Sa Parole et par Son Esprit ce qu’est la Vérité. “Non
-par la puissance, non par le pouvoir, mais par mon Esprit”. Et l’Esprit… Dieu cherche ceux qui
-L’adorent en Esprit et en Vérité. “Ta Parole est la Vérité”. Et Il a soigneusement prouvé que
-Jésus-Christ est le même hier, aujourd’hui et pour toujours. Il vous a montré la semence du soir. Il
-vous l’a révélée dans Sa Parole. Il vous l’a prouvé par Son Esprit.
-190 N’essayez jamais de faire une organisation. N’essayez pas de construire sur quelque chose
-de nouveau, mais restez humble devant le Seigneur votre Dieu, car il semble que c’est bientôt
-que les portes vont s’ouvrir sur le pays promis. Entrons alors avec des chants et une joie véritable,
-lorsque l’Epouse et l’Epoux prendront place sur le trône.
-191 Vivez humblement; vivez dans l’amour. Aimez-vous les uns les autres. Qu’il n’y ait jamais rien
-entre vous. Si vous sentez que quelque chose monte dans votre coeur contre quelqu’un, faites-le
-sortir immédiatement. Car Satan va faire de son mieux pour s’introduire au milieu de vous. Ne
-laissez pas cela arriver. Il se peut qu’un gars à la langue habile vienne essayer de vous arracher à
-cela. Pensez-vous qu’ils auraient pu influencer Moïse pour le faire partir de la présence de Dieu,
-alors qu’il se tenait là et la voyait? Non, certainement pas! Non, nous n’y ajoutons rien et n’en
-retranchons rien. Gardons-La simplement de la manière que le Seigneur dit. Nous ne voulons pas
-de dénomination; nous ne voulons pas d’organisation. Nous ne voulons pas de malice, nous ne
-voulons pas de conflit; nous voulons Dieu et Il est la Parole. Maintenant inclinons nos têtes.
-192 Oh, Dieu, je regarde autour de moi avec des yeux spirituels; j’essaye de voir ce qui se passe.
-Je vois Ta Parole, je vois de quelle manière Elle a été authentifiée, prouvée. Je pense à tout ce
-chemin parcouru depuis ce jour où je me tenais au bord de la rivière il y a trente-trois ans; je
-pense à ce que Tu as dit. Et nous voici trente-trois ans plus tard et Tu es en train de faire
-exactement ce que Tu avais dit. Tu as fait exactement ce que Tu avais dit. Seigneur, loin de nous
-la pensée de vouloir essayer de minimiser ou d’augmenter ce que Tu as fait. Nous voulons
-simplement Le garder de la manière que Tu L’as fait. Nous voulons simplement marcher dans
-l’humilité et Te suivre.
-193 Seigneur, ils sont là ceux que Tu as consacrés au ministère; il y a aussi tous ceux qui
-dorment à travers le pays et tout autour du monde. Il y en a beaucoup dans les cimetières qui
-attendent, ce sont des saints qui ont été bénis. Mais comme il a été dit, ceux qui sont vivants ne
-devanceront pas ceux qui dorment. La trompette sonnera, les morts ressusciteront premièrement;
-puis nous serons enlevés avec eux. Lorsque la gloire de Dieu sera sur la terre, elle cachera
-l’Eglise aux yeux du monde. Le monde ne verra même pas lorsqu’Elle s’en ira.
-194 O Dieu notre Père, garde-les dans Tes mains. Ils sont à Toi. Je Te prie, ô Dieu afin que nous
-marchions tous humblement devant Toi. Nous ne savons pas pour combien de temps. Nous ne
-désirons pas savoir pour combien de temps; ce n’est pas notre affaire. C’est Ton affaire. Ce n’est
-pas notre volonté de savoir quand Tu viendras; c’est Ta volonté, Seigneur, de nous garder
-humbles jusqu’à ce que Tu viennes afin que nous marchions avec Toi. C’est notre désir,
-Père, que Tu te fasses simplement connaître au milieu de nous afin que nous puissions voir que
-nous marchons toujours avec Toi.
-195 Pardonne-nous nos péchés passés. Guide-nous et protège-nous contre tous les pièges futurs
-du diable. Dirige-nous et conduis-nous, ô Dieu notre Père. Pardonne-nous nos péchés et aide-
-nous à être Tes enfants. Nous sommes une classe de gens pauvres. Nous sommes bannis par
-les sociétés de ce monde, par les dénominations des églises. Nous voyons la fin et nous Te
-remercions pour la vision spirituelle qui nous permet, au travers de Ta Parole, de voir le
-temps de la fin. Car toutes ces choses aboutiront à cette grande lapidation du ciel. Aide-nous,
-Seigneur, à ne pas être là en ce jour, mais à être partis pour être en Ta présence, à nous être
-envolés dans Ton sein.
-196 Guéris les malades et les affligés, Seigneur. Ce soir, nous Te prions afin que Tu nous rendes
-ce grand service; puisse-t-il, par Ta présence, Seigneur, ne pas y avoir une seule personne faible
+droit d’entrer dans la Cité, car il n’y aura ni sorciers, ni menteurs, ni fornicateurs, ni chiens; il n’y entreront pas”. Elle est réservée aux rachetés et à ceux qui marchent selon Ses commandements.
+
+189 Ne prenez pas de nouvelle chose. Il en vole de partout et il en viendra encore bien plus. Mais ne prenez pas ces nouvelles choses. Le Seigneur votre Dieu vous a déclaré ce qu’est la Vérité. Le Seigneur votre Dieu a authentifié par Sa Parole et par Son Esprit ce qu’est la Vérité. “Non par la puissance, non par le pouvoir, mais par mon Esprit”. Et l’Esprit… Dieu cherche ceux qui L’adorent en Esprit et en Vérité. “Ta Parole est la Vérité”. Et Il a soigneusement prouvé que Jésus-Christ est le même hier, aujourd’hui et pour toujours. Il vous a montré la semence du soir. Il vous l’a révélée dans Sa Parole. Il vous l’a prouvé par Son Esprit.
+
+190 N’essayez jamais de faire une organisation. N’essayez pas de construire sur quelque chose de nouveau, mais restez humble devant le Seigneur votre Dieu, car il semble que c’est bientôt que les portes vont s’ouvrir sur le pays promis. Entrons alors avec des chants et une joie véritable, lorsque l’Epouse et l’Epoux prendront place sur le trône.
+
+191 Vivez humblement; vivez dans l’amour. Aimez-vous les uns les autres. Qu’il n’y ait jamais rien entre vous. Si vous sentez que quelque chose monte dans votre coeur contre quelqu’un, faites-le sortir immédiatement. Car Satan va faire de son mieux pour s’introduire au milieu de vous. Ne laissez pas cela arriver. Il se peut qu’un gars à la langue habile vienne essayer de vous arracher à cela. Pensez-vous qu’ils auraient pu influencer Moïse pour le faire partir de la présence de Dieu, alors qu’il se tenait là et la voyait? Non, certainement pas! Non, nous n’y ajoutons rien et n’en retranchons rien. Gardons-La simplement de la manière que le Seigneur dit. Nous ne voulons pas de dénomination; nous ne voulons pas d’organisation. Nous ne voulons pas de malice, nous ne voulons pas de conflit; nous voulons Dieu et Il est la Parole. Maintenant inclinons nos têtes.
+
+192 Oh, Dieu, je regarde autour de moi avec des yeux spirituels; j’essaye de voir ce qui se passe. Je vois Ta Parole, je vois de quelle manière Elle a été authentifiée, prouvée. Je pense à tout ce chemin parcouru depuis ce jour où je me tenais au bord de la rivière il y a trente-trois ans; je pense à ce que Tu as dit. Et nous voici trente-trois ans plus tard et Tu es en train de faire exactement ce que Tu avais dit. Tu as fait exactement ce que Tu avais dit. Seigneur, loin de nous la pensée de vouloir essayer de minimiser ou d’augmenter ce que Tu as fait. Nous voulons simplement Le garder de la manière que Tu L’as fait. Nous voulons simplement marcher dans l’humilité et Te suivre.
+
+193 Seigneur, ils sont là ceux que Tu as consacrés au ministère; il y a aussi tous ceux qui dorment à travers le pays et tout autour du monde. Il y en a beaucoup dans les cimetières qui attendent, ce sont des saints qui ont été bénis. Mais comme il a été dit, ceux qui sont vivants ne devanceront pas ceux qui dorment. La trompette sonnera, les morts ressusciteront premièrement; puis nous serons enlevés avec eux. Lorsque la gloire de Dieu sera sur la terre, elle cachera l’Eglise aux yeux du monde. Le monde ne verra même pas lorsqu’Elle s’en ira.
+
+194 O Dieu notre Père, garde-les dans Tes mains. Ils sont à Toi. Je Te prie, ô Dieu afin que nous marchions tous humblement devant Toi. Nous ne savons pas pour combien de temps. Nous ne désirons pas savoir pour combien de temps; ce n’est pas notre affaire. C’est Ton affaire. Ce n’est pas notre volonté de savoir quand Tu viendras; c’est Ta volonté, Seigneur, de nous garder humbles jusqu’à ce que Tu viennes afin que nous marchions avec Toi. C’est notre désir, Père, que Tu te fasses simplement connaître au milieu de nous afin que nous puissions voir que nous marchons toujours avec Toi.
+
+195 Pardonne-nous nos péchés passés. Guide-nous et protège-nous contre tous les pièges futurs du diable. Dirige-nous et conduis-nous, ô Dieu notre Père. Pardonne-nous nos péchés et aide-nous à être Tes enfants. Nous sommes une classe de gens pauvres. Nous sommes bannis par les sociétés de ce monde, par les dénominations des églises. Nous voyons la fin et nous Te remercions pour la vision spirituelle qui nous permet, au travers de Ta Parole, de voir le temps de la fin. Car toutes ces choses aboutiront à cette grande lapidation du ciel. Aide-nous, Seigneur, à ne pas être là en ce jour, mais à être partis pour être en Ta présence, à nous être envolés dans Ton sein.
+
+196 Guéris les malades et les affligés, Seigneur. Ce soir, nous Te prions afin que Tu nous rendes ce grand service; puisse-t-il, par Ta présence, Seigneur, ne pas y avoir une seule personne faible
 
         http://www.cmpp.ch
 
 RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 25
-au milieu de nous. Puissent nos coeurs être constamment tournés vers Toi. Et nous savons,
-Seigneur, que l’argent, la possession, les choses du monde n’ont pas de signification; ce sont
-simplement des chose temporelles. Elles vont toutes partir. Notre travail, notre place, nos amis,
-tout va partir. Peu importe que nous soyons riche, pauvre, populaire ou impopulaire, tout cela va
-partir. Mais il n’y a qu’une seule chose autour de laquelle notre être est centré: c’est Jésus-Christ.
-Ainsi, ô Dieu, aide-nous à laisser de côté tout ce qui est secondaire et à nous en tenir à Lui;
-Il est la Parole (accorde-nous cela, Seigneur!), la Parole authentifiée de l’heure.
-197 La Parole qui a été authentifiée au jour de Moïse fut Jésus. La Parole qui a été authentifiée
-au jour d’Esaïe, d’Elie, de Jean et de tous les autres fut Jésus. Et la Parole authentifiée pour
-aujourd’hui est Jésus, le même hier, aujourd’hui et pour toujours. Aide-nous, Seigneur, à croire
-cela, à le voir et à marcher selon cela. Nous le demandons au Nom de Jésus.
-198 Tandis que nous avons nos têtes inclinées, je me demande s’il y a ici quelqu’un qui n’a jamais
-réellement fait ce grand… Vous le croyez; mais de simplement y croire n’est pas suffisant. Je sais
-que ma femme était une fille bien. Je connaissais son père et sa mère. Cela fait des années et
-des années que je la connais. Elle a eu une vie droite. Je savais que c’était une femme bien; mais
-elle n’était pas mienne pour autant. Elle n’est devenue mienne que lorsque je l’eus acceptée et
-qu’elle m’eut accepté. Maintenant, Jésus veut vous accepter. Ne voulez-vous pas L’accepter et
-devenir une partie de Sa Parole? Si vous ne l’avez pas fait, je crois que tandis que nous avons
-nos têtes et nos coeurs inclinés…
-199 Nous n’avons pas assez de place pour faire un appel à l’autel. De toute façon, je ne suis pas
-tellement pour cela. Je crois que Dieu vous visite là où vous êtes. Voulez-vous levez les mains et
-dire: «Frère Branham, souvenez-vous de moi dans la prière. Je veux faire cela». Dieu vous
-bénisse… Dieu vous bénisse. Oh, mon Dieu, il y a des mains levées partout. «Je veux être
-comme cela». Dieu vous bénisse, frère; Dieu vous bénisse, frère et vous tous là autour. «C’est ce
-que je veux être». Dieu vous bénisse. «C’est réellement ce que je veux être». Maintenant,
-regardez mes amis, il se peut qu’il y ait un petit quelque chose… Si vous n’êtes pas encore
-comme cela, c’est qu’il y a quelque chose d’autre sur laquelle vous êtes centré. Vous en
-êtes tellement proche. Vous le regardez. Vous le voyez. Cela fait des années que vous le voyez
-bouger. Maintenant vous le voyez parvenir à maturité. Pour nous cela veut tout dire et rien d’autre
-ne va demeurer que cela; alors pourquoi ne pas simplement détourner la tête de cette chose que
-vous avez regardée jusqu’à présent pour vous centrer sur Lui qui est le Centre de toute vie;
-tout ce qui vient au-delà, c’est Lui. Ne voulez-vous pas faire cela tandis que nous prions
-ensemble?
-200 O Dieu bien-aimé, il y a des mains d’hommes, de femmes, de garçons, de filles, même de
-pasteurs; ils ont levé la main. Ils veulent dire qu’ils veulent être centrés exactement sur le
-Seigneur Jésus mais ils ont l’impression qu’Ils ne peuvent pas le faire; il y a quelque chose qui les
-tire ici ou là: il se peut que ce soit une dénomination, il se peut que ce soit une personne, il se peut
-que ce soit un péché; il se peut que ce soit quelque chose qu’ils cachent dans leur coeur. Je ne le
-sais pas, Seigneur; Toi Tu le sais. Quoi que ce soit, puisses-Tu, alors que Tu en appelles
-d’autres… Tu les as réellement appelés; ils sont à Toi. Et tandis que Tu les appelles, puissent-ils
-se détacher de ce péché qui les harcèle; comme le dit la Bible: “Détournons-nous de ce péché qui
-nous environne si facilement afin que nous puissions courir avec patience la course qui est
-ouverte devant nous”. A quoi faut-il regarder? A notre travail? A une dénomination? A ce à quoi
-nous sommes affiliés? Aux conciles? Non. A Christ, l’auteur et le consommateur de la foi que
-nous avons en Lui. Père, fais-le aujourd’hui pour nous. Car nous le demandons en Son Nom et
-pour Sa gloire.
-201 Ils sont à Toi, maintenant, Seigneur; agis avec eux comme Tu le juges bon. Agis avec nous
-comme Tu le juges bon; nous sommes à Toi. Au Nom de Jésus. Amen.
+au milieu de nous. Puissent nos coeurs être constamment tournés vers Toi. Et nous savons, Seigneur, que l’argent, la possession, les choses du monde n’ont pas de signification; ce sont simplement des chose temporelles. Elles vont toutes partir. Notre travail, notre place, nos amis, tout va partir. Peu importe que nous soyons riche, pauvre, populaire ou impopulaire, tout cela va partir. Mais il n’y a qu’une seule chose autour de laquelle notre être est centré: c’est Jésus-Christ. Ainsi, ô Dieu, aide-nous à laisser de côté tout ce qui est secondaire et à nous en tenir à Lui; Il est la Parole (accorde-nous cela, Seigneur!), la Parole authentifiée de l’heure.
+
+197 La Parole qui a été authentifiée au jour de Moïse fut Jésus. La Parole qui a été authentifiée au jour d’Esaïe, d’Elie, de Jean et de tous les autres fut Jésus. Et la Parole authentifiée pour aujourd’hui est Jésus, le même hier, aujourd’hui et pour toujours. Aide-nous, Seigneur, à croire cela, à le voir et à marcher selon cela. Nous le demandons au Nom de Jésus.
+
+198 Tandis que nous avons nos têtes inclinées, je me demande s’il y a ici quelqu’un qui n’a jamais réellement fait ce grand… Vous le croyez; mais de simplement y croire n’est pas suffisant. Je sais que ma femme était une fille bien. Je connaissais son père et sa mère. Cela fait des années et des années que je la connais. Elle a eu une vie droite. Je savais que c’était une femme bien; mais elle n’était pas mienne pour autant. Elle n’est devenue mienne que lorsque je l’eus acceptée et qu’elle m’eut accepté. Maintenant, Jésus veut vous accepter. Ne voulez-vous pas L’accepter et devenir une partie de Sa Parole? Si vous ne l’avez pas fait, je crois que tandis que nous avons nos têtes et nos coeurs inclinés…
+
+199 Nous n’avons pas assez de place pour faire un appel à l’autel. De toute façon, je ne suis pas tellement pour cela. Je crois que Dieu vous visite là où vous êtes. Voulez-vous levez les mains et dire: «Frère Branham, souvenez-vous de moi dans la prière. Je veux faire cela». Dieu vous bénisse… Dieu vous bénisse. Oh, mon Dieu, il y a des mains levées partout. «Je veux être comme cela». Dieu vous bénisse, frère; Dieu vous bénisse, frère et vous tous là autour. «C’est ce que je veux être». Dieu vous bénisse. «C’est réellement ce que je veux être». Maintenant, regardez mes amis, il se peut qu’il y ait un petit quelque chose… Si vous n’êtes pas encore comme cela, c’est qu’il y a quelque chose d’autre sur laquelle vous êtes centré. Vous en êtes tellement proche. Vous le regardez. Vous le voyez. Cela fait des années que vous le voyez bouger. Maintenant vous le voyez parvenir à maturité. Pour nous cela veut tout dire et rien d’autre ne va demeurer que cela; alors pourquoi ne pas simplement détourner la tête de cette chose que vous avez regardée jusqu’à présent pour vous centrer sur Lui qui est le Centre de toute vie; tout ce qui vient au-delà, c’est Lui. Ne voulez-vous pas faire cela tandis que nous prions ensemble?
+
+200 O Dieu bien-aimé, il y a des mains d’hommes, de femmes, de garçons, de filles, même de pasteurs; ils ont levé la main. Ils veulent dire qu’ils veulent être centrés exactement sur le Seigneur Jésus mais ils ont l’impression qu’Ils ne peuvent pas le faire; il y a quelque chose qui les tire ici ou là: il se peut que ce soit une dénomination, il se peut que ce soit une personne, il se peut que ce soit un péché; il se peut que ce soit quelque chose qu’ils cachent dans leur coeur. Je ne le sais pas, Seigneur; Toi Tu le sais. Quoi que ce soit, puisses-Tu, alors que Tu en appelles d’autres… Tu les as réellement appelés; ils sont à Toi. Et tandis que Tu les appelles, puissent-ils se détacher de ce péché qui les harcèle; comme le dit la Bible: “Détournons-nous de ce péché qui nous environne si facilement afin que nous puissions courir avec patience la course qui est ouverte devant nous”. A quoi faut-il regarder? A notre travail? A une dénomination? A ce à quoi nous sommes affiliés? Aux conciles? Non. A Christ, l’auteur et le consommateur de la foi que nous avons en Lui. Père, fais-le aujourd’hui pour nous. Car nous le demandons en Son Nom et pour Sa gloire.
+
+201 Ils sont à Toi, maintenant, Seigneur; agis avec eux comme Tu le juges bon. Agis avec nous comme Tu le juges bon; nous sommes à Toi. Au Nom de Jésus. Amen.
         Je L’aime, je L’aime,
         Parce qu’Il m’a aimé le premier
         Et acquis mon salut
         Sur le bois du Calvaire.
-202 Avez-vous oublié le dîner? Avez-vous oublié de vous demander si tout allait bien pour les
-enfants dans la voiture là-dehors? Avez-vous tout oublié au sujet du passé et réalisé ce que vous
+
+202 Avez-vous oublié le dîner? Avez-vous oublié de vous demander si tout allait bien pour les enfants dans la voiture là-dehors? Avez-vous tout oublié au sujet du passé et réalisé ce que vous
 
         http://www.cmpp.ch
 
 RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 26
-ressentez juste maintenant? Cela se matérialise devant vous jour après jour. Vous voyez? Que
-cela soit le centre de tout… Que toutes les autres choses s’en aillent; elles vont périr de toute
-façon. Oh, continuez simplement à Le suivre. De même qu’Elisée a suivi Elie, suivons-Le. Car
-un jour, nous serons enlevés. Nous avons vu ce chariot de feu qui L’a élevé hors de la tombe.
-Maintenant nous sentons cela au milieu de nous. Un jour, Il va venir détacher les chevaux des
-buissons. Nous monterons. Ne voulez-vous pas L’aimer?
+ressentez juste maintenant? Cela se matérialise devant vous jour après jour. Vous voyez? Que cela soit le centre de tout… Que toutes les autres choses s’en aillent; elles vont périr de toute façon. Oh, continuez simplement à Le suivre. De même qu’Elisée a suivi Elie, suivons-Le. Car un jour, nous serons enlevés. Nous avons vu ce chariot de feu qui L’a élevé hors de la tombe. Maintenant nous sentons cela au milieu de nous. Un jour, Il va venir détacher les chevaux des buissons. Nous monterons. Ne voulez-vous pas L’aimer?
     … [Il y a un blanc sur la bande — N.d.R.] …
         Et acquis mon salut
         Sur le bois du Calvaire.
@@ -1405,73 +812,23 @@ buissons. Nous monterons. Ne voulez-vous pas L’aimer?
         Parce qu’Il m’a aimé,
         Et acquis mon salut
         Sur le bois du Calvaire.
-203 Chaque fois que je rentre à la maison, quelqu’un est parti. Je vais m’en aller quelques mois et
-lorsque je reviendrai, quelqu’un sera parti. Je suis triste chaque fois que je rentre. L’autre jour j’ai
-rencontré dans la rue un garçon avec qui j’allais à l’école; il m’a dit: «Salut, Billy».
-204 Je l’ai regardé; c’était un beau garçon aux cheveux d’un beau noir brillant coiffés en arrière.
-Maintenant il est aussi blanc que la neige. Il se tenait tellement droit, et là il avait pris du ventre. Je
-dis: «Salut, Jim». Je le regardai et sentis mon coeur se serrer; je pensai: «Mon Dieu, ce garçon et
-moi; cet homme et moi sommes du même âge». Je sus alors que mes jours sont comptés. Je sais
-que cela ne peut pas durer beaucoup plus longtemps. Je regardai autour de moi et pensai: «Que
-puis-je faire, Seigneur? Aide-moi. Je ne veux pas aller devant Toi. Je veux rester juste derrière
-Toi. Tu montres le chemin». Et je pensai: «J’ai cinquante six ans; oh, il ne peut pas y en avoir pour
-beaucoup plus longtemps».
-205 Je peux voir mon bon ami Bill Dauch assis là; il a soixante-douze ou soixante-treize ans. Et
-en regardant autour de moi je peux voir tous ces garçons qui pensent sûrement: «Attendons de
-voir si je deviens aussi vieux que frère Branham». Mes chers amis, il se peut que vous n’y arriviez
-jamais. Je doute vraiment que vous y arriviez. Vous voyez? Mais pensez simplement que si frère
-Bill Dauch a vécu jusqu’à ce jour, il a vécu plus longtemps que des centaines de jeunes gens de
-quinze ou seize ans. Il en meurt chaque heure. Ainsi l’âge que vous avez, quelle différence cela
-fait-il? Qu’en est-il de l’heure dans laquelle vous vivez? Que faites-vous pour Jésus en ce
-moment? Vous voyez? Oh, je veux Le voir! Je veux atteindre cette heure dans laquelle je verrai
-tous ces vieux corps transformés; je les verrai changés en un instant, en un clin d’oeil. S’il n’en est
-pas ainsi, alors nous sommes complètement fous; nous mangeons, nous buvons, nous nous
-réjouissons car demain nous allons mourir. Vous voyez, vous êtes simplement comme un animal;
-vous mourez et retournez à la poussière et c’est tout. Mais, frère, il y a en vous une âme
-immortelle. Nous avons vraiment entendu parler du Ciel. Nous avons vu que cela a été prouvé.
-Nous savons qu’Il est Celui qui est et qu’Il récompensera ceux qui L’auront cherché avec
-diligence. Maintenant, vous les membres du Corps de Christ, tandis que nous chantons de
-nouveau, je veux que vous restiez simplement assis à votre place en serrant la main de votre
-voisin:
+
+203 Chaque fois que je rentre à la maison, quelqu’un est parti. Je vais m’en aller quelques mois et lorsque je reviendrai, quelqu’un sera parti. Je suis triste chaque fois que je rentre. L’autre jour j’ai rencontré dans la rue un garçon avec qui j’allais à l’école; il m’a dit: «Salut, Billy».
+204 Je l’ai regardé; c’était un beau garçon aux cheveux d’un beau noir brillant coiffés en arrière. Maintenant il est aussi blanc que la neige. Il se tenait tellement droit, et là il avait pris du ventre. Je dis: «Salut, Jim». Je le regardai et sentis mon coeur se serrer; je pensai: «Mon Dieu, ce garçon et moi; cet homme et moi sommes du même âge». Je sus alors que mes jours sont comptés. Je sais que cela ne peut pas durer beaucoup plus longtemps. Je regardai autour de moi et pensai: «Que puis-je faire, Seigneur? Aide-moi. Je ne veux pas aller devant Toi. Je veux rester juste derrière Toi. Tu montres le chemin». Et je pensai: «J’ai cinquante six ans; oh, il ne peut pas y en avoir pour beaucoup plus longtemps».
+205 Je peux voir mon bon ami Bill Dauch assis là; il a soixante-douze ou soixante-treize ans. Et en regardant autour de moi je peux voir tous ces garçons qui pensent sûrement: «Attendons de voir si je deviens aussi vieux que frère Branham». Mes chers amis, il se peut que vous n’y arriviez jamais. Je doute vraiment que vous y arriviez. Vous voyez? Mais pensez simplement que si frère Bill Dauch a vécu jusqu’à ce jour, il a vécu plus longtemps que des centaines de jeunes gens de quinze ou seize ans. Il en meurt chaque heure. Ainsi l’âge que vous avez, quelle différence cela fait-il? Qu’en est-il de l’heure dans laquelle vous vivez? Que faites-vous pour Jésus en ce moment? Vous voyez? Oh, je veux Le voir! Je veux atteindre cette heure dans laquelle je verrai tous ces vieux corps transformés; je les verrai changés en un instant, en un clin d’oeil. S’il n’en est pas ainsi, alors nous sommes complètement fous; nous mangeons, nous buvons, nous nous réjouissons car demain nous allons mourir. Vous voyez, vous êtes simplement comme un animal; vous mourez et retournez à la poussière et c’est tout. Mais, frère, il y a en vous une âme immortelle. Nous avons vraiment entendu parler du Ciel. Nous avons vu que cela a été prouvé. Nous savons qu’Il est Celui qui est et qu’Il récompensera ceux qui L’auront cherché avec diligence. Maintenant, vous les membres du Corps de Christ, tandis que nous chantons de nouveau, je veux que vous restiez simplement assis à votre place en serrant la main de votre voisin:
         Je L’aime… (serrez simplement la main de votre frère, de votre soeur)
         Parcequ’Il… (Richard!) m’a aimé
         Et acquis mon salut
         Sur le bois du Calvaire.
-206 L’aimez-vous? Dites: «Amen». [L’assemblée dit: «Amen». — N.d.R.] Aimez-vous Sa Parole?
-Dites «Amen». (Amen.) Aimez-vous Sa cause? Dites «Amen». (Amen.) Aimez-vous Son Corps?
-Dites: «Amen». (Amen.) Alors, aimez-vous les uns les autres. Amen! C’est juste. “C’est à cela que
-tous les hommes reconnaîtront que vous êtes mes disciples, lorsque vous vous aimerez les uns
-les autres”. Maintenant j’ai posé les mains sur ces mouchoirs ainsi vous pourrez les reprendre
-avant ce soir.
+
+206 L’aimez-vous? Dites: «Amen». [L’assemblée dit: «Amen». — N.d.R.] Aimez-vous Sa Parole? Dites «Amen». (Amen.) Aimez-vous Sa cause? Dites «Amen». (Amen.) Aimez-vous Son Corps? Dites: «Amen». (Amen.) Alors, aimez-vous les uns les autres. Amen! C’est juste. “C’est à cela que tous les hommes reconnaîtront que vous êtes mes disciples, lorsque vous vous aimerez les uns les autres”. Maintenant j’ai posé les mains sur ces mouchoirs ainsi vous pourrez les reprendre avant ce soir.
 
         http://www.cmpp.ch
 
 RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE 27
-207 Je vais demander à frère Richard Blair de… Dieu a répondu à Sa prière ainsi qu’à celle des
-frères qui se trouvaient là l’autre jour et qui priaient pour ramener à la vie ce petit garçon qui se
-trouve aujourd’hui parmi nous, qui est vivant grâce à leur foi en Dieu. Et maintenant dans un petit
-moment, je vais lui demander de nous congédier par une parole de prière afin que nous puissions
-revenir demain soir. D’après cette horloge il est environ midi cinq. Si ce soir vous vous trouvez
-dans les environs, vous pouvez revenir. Si vous devez rentrer à la maison, puisse Dieu vous
-diriger sur votre chemin, qu’Il vous aide et vous protège. Si vous pouvez rester et que vous le
-désiriez, vous êtes les bienvenus. Que Dieu soit avec vous.
+207 Je vais demander à frère Richard Blair de… Dieu a répondu à Sa prière ainsi qu’à celle des frères qui se trouvaient là l’autre jour et qui priaient pour ramener à la vie ce petit garçon qui se trouve aujourd’hui parmi nous, qui est vivant grâce à leur foi en Dieu. Et maintenant dans un petit moment, je vais lui demander de nous congédier par une parole de prière afin que nous puissions revenir demain soir. D’après cette horloge il est environ midi cinq. Si ce soir vous vous trouvez dans les environs, vous pouvez revenir. Si vous devez rentrer à la maison, puisse Dieu vous diriger sur votre chemin, qu’Il vous aide et vous protège. Si vous pouvez rester et que vous le désiriez, vous êtes les bienvenus. Que Dieu soit avec vous.
         Jusqu’à ce que nous nous rencontrions!
         Jusqu’à ce que…(élevons nos mains vers Lui) nous nous rencontrions aux
         pieds de Jésus;
         Jusqu’à ce que nous nous rencontrions!
-    Que Dieu soit avec vous jusqu’à ce que nous nous rencontrions. [Frère Branham commence
-à fredonner «Que Dieu soit avec vous». — N.d.R.] C’est ainsi que nous devons quitter la maison
-de Dieu, en prière et dans l’humilité, dans la confiance de nous retrouver ce soir. Sinon «Que Dieu
-soit avec vous jusqu’à ce que nous nous rencontrions!». Inclinons nos têtes maintenant. Frère
-Blair…
-
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch
+    Que Dieu soit avec vous jusqu’à ce que nous nous rencontrions. [Frère Branham commence à fredonner «Que Dieu soit avec vous». — N.d.R.] C’est ainsi que nous devons quitter la maison de Dieu, en prière et dans l’humilité, dans la confiance de nous retrouver ce soir. Sinon «Que Dieu soit avec vous jusqu’à ce que nous nous rencontrions!». Inclinons nos têtes maintenant. Frère Blair…

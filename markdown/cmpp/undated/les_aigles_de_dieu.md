@@ -1,10 +1,54 @@
-    LA PAROLE PARLEE
+---
+source: "cmpp"
+sermon_id: "les_aigles_de_dieu"
+title: "Les Aigles de Dieu"
+subtitle: "4 mars 1960, après-midi — Tulsa, Oklahoma, U.S.A."
+date: "1960-03-04"
+year: 1960
+location: "Tulsa, Oklahoma, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham utilise l'image de l'aigle pour illustrer la vie chrétienne, la liberté en Christ et la puissance du Saint-Esprit. Il raconte des expériences personnelles dans la nature et au zoo pour montrer comment Dieu prépare son Église à s'élever au-dessus des limitations humaines et des dénominations."
+tags:
+  - "aigle"
+  - "liberté"
+  - "Saint-Esprit"
+  - "guérison divine"
+  - "révélation"
+  - "Église"
+  - "nature"
+persons:
+  - "Abraham Lincoln"
+  - "Jésus-Christ"
+  - "Pierre"
+  - "Paul"
+  - "Buddy Robinson"
+places:
+  - "Tulsa"
+  - "Oklahoma"
+  - "Colorado"
+  - "rivière Troublesome"
+  - "Cincinnati"
+  - "mont Palomar"
+themes:
+  - "liberté en Christ"
+  - "révélation spirituelle"
+  - "puissance du Saint-Esprit"
+  - "guérison divine"
+  - "Église des derniers jours"
+  - "renouvellement"
+  - "foi"
+pdf_url: "http://cmpp.ch/les_aigles_de_dieu.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Deutéronome 32"
+  - "Jean 8"
+  - "Matthieu 16"
+---
+LA PAROLE PARLEE
 
-    PAR
+PAR
 
-    WILLIAM MARRION BRANHAM
-
-
+WILLIAM MARRION BRANHAM
 
 
 
@@ -13,12 +57,8 @@ LES AIGLES DE DIEU
 
 
 
-
 4 mars 1960, après-midi
 Tulsa — Oklahoma, U.S.A.
-
-
-
 
 
 
@@ -31,7 +71,6 @@ Tulsa — Oklahoma, U.S.A.
 
 4 mars 1960, après-midi
 Tulsa — Oklahoma, U.S.A.
-
 
 
    Prière:
@@ -540,520 +579,222 @@ trouve au-dessous des circonstances. Les gens ont peur de la nouvelle naissance.
 
     http://www.cmpp.ch
 
-    LES AIGLES DE DIEU    11
+## LES AIGLES DE DIEU 11
+
 crucial. Ils ont peur de naître de nouveau!
-   Chacun sait ceci: Toute naissance est une circonstance difficile. Que celle-ci ait lieu dans une
-étable, que cela ait lieu dans une demeure modeste ou, au contraire, dans une chambre d’hôpital
-riche et bien décorée, dans tous les cas une naissance semble tout d’abord être comme une sorte
-de gâchis. Or les gens ne veulent pas être mêlés à un gâchis, mais je vous le dis: «Je ne désire
-pas rencontrer Dieu selon mon idée. Je désire avoir part à la nouvelle naissance selon le plan de
-Dieu. Peu m’importe si je dois crier, hurler, parler en langues, ou faire quoi que ce soit. Je ne veux
-même pas savoir combien de voisins parlent à mon sujet, je veux simplement naître de nouveau.
-Peu m’importe dans quelles conditions et si je dois faire fi de toute réputation, de toute façon je
-n’en ai pas à défendre. Pour ma part, je n’avais rien de tel à laisser de côté, car je n’avais ni
-prestige, ni réputation et je n’avais littéralement rien à moi lorsque j’ai commencé. Mais malgré tout
-je ne m’inquiète de rien, je suis prêt à perdre toutes choses et même à devenir un insensé pour la
-cause du royaume de Dieu. Que l’on m’appelle mômier ou spiritualiste, démon ou faiseur de
-transmission de pensées, je ne m’inquiète pas de ce qu’ils disent, je ne désire que Jésus. C’est
-mon seul but et je désire Le rencontrer sur Son plan à Lui. Non par rapport à ce que je pense être
-juste ou que d’autres pensent être juste, mais je désire être là où Dieu lui-même dit que c’est juste.
-Et s’Il dit qu’Il est le même hier, et aujourd’hui, et éternellement, je désire Le voir sur ce plan-là.
-Même si j’avais à prêcher l’Evangile à un rassemblement de gens très bien, et moi-même n’ayant
-à manger que des biscuits de mer secs et que de l’eau claire à boire, je resterais malgré tout fidèle
-à l’Evangile. Je désire apporter Christ sur le plan où Il se tient Lui-même».
-   Cette mère s’affaire donc dans son nid çà et là et elle jette par-dessus bord tout ce qui en faisait
-la douceur. Ainsi, chaque fois que ces petits aigles cherchent à se coucher au fond de leur nid, ils
-ne rencontrent plus que des brindilles dures et des bouts de branches peu confortables. Ils sont en
-train d’apprendre une autre leçon.
-   — Oh! dites-moi, est-ce vous qui avez accepté le salut l’autre soir?
-   — Oui, oui, en effet, c’est bien moi.
-   — Oh! comme j’en suis heureux!
-   Mais au moment où vous commencez à vivre réellement cette vie, immédiatement vous
-entendez dire autour de vous: «Ah! voilà de nouveau un mômier. Oh! je vois bien à quel groupe
-vous vous rattachez…», etc.
-   Ainsi vous le voyez, Il vous laisse vous blesser quelque peu, car Il ne désire pas que vous vous
-accoutumiez aux manières de ce monde. Tout comme cette mère aigle ne désirant pas avoir des
-aiglons élevés comme des poulets. Elle désire, au contraire, les voir bientôt capables de sortir de
-ce nid. Peu importe en définitive qu’ils soient sur un roc ou quelque endroit très bien en lui-même,
-elle a encore quelque chose de mieux en réserve pour eux. Dieu aussi a quelque chose de
-meilleur en vue pour l’Eglise. Ne vous contentez pas simplement de vous persuader vous-mêmes:
-«Je suis quelqu’un de la Pentecôte».
-   Un jour, quelqu’un m’a dit: «Frère Branham…». c’était un homme d’un certain âge, de
-l’Arkansas, qui avait été guéri. Auparavant, il vendait des crayons et des porte-plumes dans les
-rues des années durant et voici, l’autre jour, on le vit se promener de long en large avec ses
-béquilles qui lui étaient devenues inutiles et avec un grand écriteau où il était écrit: «Je n’en ai plus
-besoin depuis que j’ai rencontré Jésus». Cet homme vint donc un soir à la réunion et là, dans
-l’auditorium Robinson à Little Rock, il m’interrompit alors que j’étais en train de prêcher: «Pardon,
-juste une minute frère Branham. Vous savez que lorsque vous prêchez (il était de la secte des
-nazaréens), vous prêchez tout à fait comme un nazaréen et pourtant j’ai remarqué que la plupart
-des gens qui sont ici sont des pentecôtistes; or voici quelqu’un qui me dit que vous êtes baptiste.
-Alors je ne comprends plus!». «Oh!», lui répondis-je, «c’est bien facile, je suis un
-pentecôtiste-nazaréen-baptiste». Oui, c’est exactement cela, parfaitement!
-   Oh! frères, je voudrais maintenant vous parler de ces marques faites au fer rouge que porte le
-bétail dans les ranches. Lorsque nous avions conduit le bétail sur la montagne, j’avais ensuite
-l’habitude de m’asseoir sur une vieille selle en corne et j’observais le garde forestier qui surveillait
-l’arrivée des troupeaux. Nos bêtes étaient marquées avec un signe à trois branches et celles de
-Grimes l’étaient avec un signe en forme de T. Beaucoup de bêtes avec différentes sortes de
-marques passèrent. Le garde ne faisait pas tellement attention à la forme de la marque, mais bien
 
-        http://www.cmpp.ch
+Chacun sait ceci: Toute naissance est une circonstance difficile. Que celle-ci ait lieu dans une étable, que cela ait lieu dans une demeure modeste ou, au contraire, dans une chambre d’hôpital riche et bien décorée, dans tous les cas une naissance semble tout d’abord être comme une sorte de gâchis. Or les gens ne veulent pas être mêlés à un gâchis, mais je vous le dis: «Je ne désire pas rencontrer Dieu selon mon idée. Je désire avoir part à la nouvelle naissance selon le plan de Dieu. Peu m’importe si je dois crier, hurler, parler en langues, ou faire quoi que ce soit. Je ne veux même pas savoir combien de voisins parlent à mon sujet, je veux simplement naître de nouveau. Peu m’importe dans quelles conditions et si je dois faire fi de toute réputation, de toute façon je n’en ai pas à défendre. Pour ma part, je n’avais rien de tel à laisser de côté, car je n’avais ni prestige, ni réputation et je n’avais littéralement rien à moi lorsque j’ai commencé. Mais malgré tout je ne m’inquiète de rien, je suis prêt à perdre toutes choses et même à devenir un insensé pour la cause du royaume de Dieu. Que l’on m’appelle mômier ou spiritualiste, démon ou faiseur de transmission de pensées, je ne m’inquiète pas de ce qu’ils disent, je ne désire que Jésus. C’est mon seul but et je désire Le rencontrer sur Son plan à Lui. Non par rapport à ce que je pense être juste ou que d’autres pensent être juste, mais je désire être là où Dieu lui-même dit que c’est juste. Et s’Il dit qu’Il est le même hier, et aujourd’hui, et éternellement, je désire Le voir sur ce plan-là. Même si j’avais à prêcher l’Evangile à un rassemblement de gens très bien, et moi-même n’ayant à manger que des biscuits de mer secs et que de l’eau claire à boire, je resterais malgré tout fidèle à l’Evangile. Je désire apporter Christ sur le plan où Il se tient Lui-même».
 
-LES AIGLES DE DIEU 12
+Cette mère s’affaire donc dans son nid çà et là et elle jette par-dessus bord tout ce qui en faisait la douceur. Ainsi, chaque fois que ces petits aigles cherchent à se coucher au fond de leur nid, ils ne rencontrent plus que des brindilles dures et des bouts de branches peu confortables. Ils sont en train d’apprendre une autre leçon.
+
+— Oh! dites-moi, est-ce vous qui avez accepté le salut l’autre soir?
+— Oui, oui, en effet, c’est bien moi.
+— Oh! comme j’en suis heureux!
+
+Mais au moment où vous commencez à vivre réellement cette vie, immédiatement vous entendez dire autour de vous: «Ah! voilà de nouveau un mômier. Oh! je vois bien à quel groupe vous vous rattachez…», etc.
+
+Ainsi vous le voyez, Il vous laisse vous blesser quelque peu, car Il ne désire pas que vous vous accoutumiez aux manières de ce monde. Tout comme cette mère aigle ne désirant pas avoir des aiglons élevés comme des poulets. Elle désire, au contraire, les voir bientôt capables de sortir de ce nid. Peu importe en définitive qu’ils soient sur un roc ou quelque endroit très bien en lui-même, elle a encore quelque chose de mieux en réserve pour eux. Dieu aussi a quelque chose de meilleur en vue pour l’Eglise. Ne vous contentez pas simplement de vous persuader vous-mêmes: «Je suis quelqu’un de la Pentecôte».
+
+Un jour, quelqu’un m’a dit: «Frère Branham…». c’était un homme d’un certain âge, de l’Arkansas, qui avait été guéri. Auparavant, il vendait des crayons et des porte-plumes dans les rues des années durant et voici, l’autre jour, on le vit se promener de long en large avec ses béquilles qui lui étaient devenues inutiles et avec un grand écriteau où il était écrit: «Je n’en ai plus besoin depuis que j’ai rencontré Jésus». Cet homme vint donc un soir à la réunion et là, dans l’auditorium Robinson à Little Rock, il m’interrompit alors que j’étais en train de prêcher: «Pardon, juste une minute frère Branham. Vous savez que lorsque vous prêchez (il était de la secte des nazaréens), vous prêchez tout à fait comme un nazaréen et pourtant j’ai remarqué que la plupart des gens qui sont ici sont des pentecôtistes; or voici quelqu’un qui me dit que vous êtes baptiste. Alors je ne comprends plus!». «Oh!», lui répondis-je, «c’est bien facile, je suis un pentecôtiste-nazaréen-baptiste». Oui, c’est exactement cela, parfaitement!
+
+Oh! frères, je voudrais maintenant vous parler de ces marques faites au fer rouge que porte le bétail dans les ranches. Lorsque nous avions conduit le bétail sur la montagne, j’avais ensuite l’habitude de m’asseoir sur une vieille selle en corne et j’observais le garde forestier qui surveillait l’arrivée des troupeaux. Nos bêtes étaient marquées avec un signe à trois branches et celles de Grimes l’étaient avec un signe en forme de T. Beaucoup de bêtes avec différentes sortes de marques passèrent. Le garde ne faisait pas tellement attention à la forme de la marque, mais bien
+
+http://www.cmpp.ch
+
+## LES AIGLES DE DIEU 12
+
 plutôt à ce que les bêtes aient effectivement cette marque de sang sur leur peau.
-   C’est aussi ce à quoi Dieu regarde. Il veille à la marque du sang, mais ne prête pas tellement
-attention au genre de marque que vous portez. Pourquoi? Rien ne pouvait entrer dans ce pâturage
-sauf les bêtes reconnues comme pur sang, ce qui était attesté par leur marque.
-   Et ne pourront franchir les portes des cieux que ceux nés de nouveau par le sang de
-Jésus-Christ. Je ne me préoccupe pas de ce que vous faites, de votre capacité intellectuelle, si
-vous êtes un bon prédicateur ou un bon membre d’Eglise, car à moins que vous ne soyez né par
-le sang de Jésus-Christ, avec une marque de sang sur vous, vous n’entrerez jamais. C’EST LA
-SEULE CHOSE A AVOIR, MAIS ELLE EST INDISPENSABLE. “Quand je verrai le sang, je
-passerai par-dessus”. C’est tout. Il ne vous laissera entrer que si la marque du sang est en ordre.
-Dieu prendra garde à ce que le sang de Son propre Fils soit sur l’Eglise.
-   Ainsi, la vieille mère aigle est vigilante envers ses petits aigles et pourtant ils ne peuvent même
-plus se reposer: partout il n’y a plus que des épines, des épines, et encore des épines. Mais il y a
-encore une autre chose qui doit être faite avec cette Eglise de Pentecôte dans ce nid-là, afin qu’ils
-ne se sentent pas comme liés au nid. Une fois encore, ce n’est pas pour le plaisir de jeter la pierre
-contre les organisations — et je voudrais que vous le compreniez — bien mais j’essaie simplement
-de dire: «Faites en sorte que ce ne soit pas un lieu qui vous arrête dans votre marche». Vous êtes
-braves et, en un sens, j’aime bien les organisations et je suis de coeur avec elles… Oui,
-parfaitement, car c’est dans leur milieu que je suis né, moi aussi. Seulement ne vous arrêtez pas à
-cela, ne vous laissez pas entraver par cette organisation. Continuez simplement avec Dieu
-jusqu’au point où vous pourrez faire votre premier vol.
-   Savez-vous quelle prochaine chose a décidé la vieille mère aigle avant de faire faire une petite
-expérience à ses enfants? Alors qu’ils pensaient se rattacher à une Eglise ou à quelque chose de
-bien, voilà que cela commence à crocher, quelque chose ne va pas. La vieille mère aigle s’est
-plantée sur le bord de son nid et, considérant ses jeunes depuis là-haut, elle constate qu’ils ont
-une quantité de leurs toutes premières plumes — celles du premier âge — qui tombent et sont
-mêlées aux autres. Elle sait que si elle prend ses petits avec elle dans les airs avec ces plumes
-folles, ils se briseront la nuque. Et moi je vous dis que si l’Eglise de la Pentecôte ne reçoit pas un
-bon coup de balayage, ses membres risquent également de se casser le cou eux aussi.
-Souvenez-vous bien de cela: il y a beaucoup trop de ces plumes folles, d’où proviennent bien des
-ennuis!
-   Savez-vous ce qu’elle fait? Elle se place sur un point élevé du nid et elle commence à battre
-vigoureusement l’air de ses deux grandes ailes. Ce qui fait un peu le même effet que si vous vous
-trouviez derrière un avion à réaction avant son décollage… Par ce violent courant d’air, toutes ces
-plumes folles sont vigoureusement chassées du plumage des jeunes aiglons. Je vous le répète
-encore, l’Eglise a un urgent besoin aujourd’hui que le nid soit secoué par un vent puissant qui
-emporte toutes les choses du monde hors de l’Eglise de la Pentecôte, afin que le vol individuel
-puisse avoir lieu.
-   Nous avons besoin d’un autre Evangile, celui du bon vieux temps, du Saint-Esprit, d’un réveil
-venant de Dieu et envoyé par Lui, c’est parfaitement exact. Nous n’avons pas besoin d’un nouveau
-président. Nous en avons déjà eu un, présentant bien. Nous n’avons pas davantage besoin de
-nouveaux maires dans nos cités, ce qu’ils nous faut ce sont des ministres de l’Evangile capables
-d’apporter un message à l’Eglise et de la ramener à nouveau à la Pentecôte, de la ramener tout à
-nouveau à l’expérience de cet aigle. Voilà ce dont l’Eglise a besoin. Vous ne désirez pourtant pas
-être des poulets! Vous êtes des aigles et devez prendre une nourriture d’aigle.
-   Ainsi elle se tient là, s’efforçant d’éloigner absolument toutes ces vieilles petites plumes de
-bébé de leurs corps avant qu’ils puissent prendre leur vrai premier vol. Seulement après, elle se
-lève et commence à lancer des cris, s’apprêtant à leur faire accomplir leur première expérience.
-Elle étend ses larges ailes de 14 pieds vers le fond du nid et alors ses petits aiglons s’accrochent à
-ses plumes et montent sur son dos: par son cri elle leur parlait, ils ont entendu et compris sa voix.
-Ils ont aussi appris à avoir confiance en elle.
-   «Attention, enfants, je m’en vais maintenant vous donner votre premier vol individuel». Chacun
-d’eux est donc monté, a pris sa place et par ses petites pattes s’accrochent vigoureusement aux
-fortes plumes de son corps. Ils s’y accrochent d’ailleurs même avec leur bec, de toutes leurs
 
-        http://www.cmpp.ch
+C’est aussi ce à quoi Dieu regarde. Il veille à la marque du sang, mais ne prête pas tellement attention au genre de marque que vous portez. Pourquoi? Rien ne pouvait entrer dans ce pâturage sauf les bêtes reconnues comme pur sang, ce qui était attesté par leur marque.
 
-LES AIGLES DE DIEU 13
-forces. Ces plumes sont fixées si solidement à son corps que nul ne peut les en arracher, ainsi les
-petits ne risquent rien. La vieille mère donne ensuite quelques coups d’ailes et s’envole du rocher.
-Elle s’en va, cinglant loin dans la profondeur de l’azur, toujours plus haut. Les petits sont
-maintenant dans une situation qu’ils n’avaient encore jamais connue. Pour eux ce sont vraiment
-des instants merveilleux et exaltants.
-   Cependant, quelle chose inattendue va-t-elle faire maintenant? Elle va se retourner d’un coup
-et, par quelques secousses supplémentaires, les précipiter dans le vide! Ils sont des aigles et
-doivent savoir voler. Oui, réellement, après une bonne secousse, ils se trouvent comme livrés à
-eux-mêmes. Mais elle leur crie seulement: «Tout est bien, mes enfants, vous êtes des aigles,
-volez!».
-   Tant que vous direz: «Pour moi tout va bien, j’appartiens à cette Eglise et je ne comprends rien
-du tout à ce que vous me racontez», jamais vous ne serez capable de voler. Vous avez besoin
-d’être une bonne fois comme éjecté dans les airs. Et voici que ces petits d’aigle commencent à
-voler. Leur mère leur crie encore: «Enfants, ouvrez vos ailes. Développez votre petite foi, montez
-et descendez. Vous êtes assez haut pour n’avoir pas à craindre de heurter le sol».
-   Elle les surveille de loin en planant en long et en large, et eux sont aussi heureux que des
-chrétiens pendant un réveil de Pentecôte. Ils volent de droite et de gauche, puis l’un au-dessus de
-l’autre et mettent toute leur énergie dans leurs premiers exercices de vol. Ils sont sans crainte, car
-ils ont une confiance suprême en leur mère qui veille attentivement sur eux.
-   Si l’un de ces petits aigles perd son assurance et se trouve en détresse, elle s’élance juste
-au-dessous de lui, le rattrape et, le replaçant sur son dos, elle le porte comme tout à nouveau dans
-la grâce — en fait il ne s’agit pas ici d’un enseignement baptiste, mais c’est la Bible qui dit cela —
-elle le ramène donc en haut puis, se retournant encore une fois elle lui communique un nouveau
-départ. Amen!
-   Ces aigles ont une grande confiance en leur mère, une confiance suprême, car ils savent
-qu’elle est prête à les aider et à les ramener à nouveau en haut. Portés sur des ailes d’aigle,
-amenés là-haut, puis secoués loin de leur support pour pouvoir reprendre un nouveau départ. «Si
-j’ai trébuché ou si j’ai failli, ô Seigneur, relève-moi, afin que je puisse recommencer à nouveau!».
-   Repartir à nouveau. Oui, Dieu veut vous élever derechef et vous prendre un moment là-haut,
-vers Lui. Ensuite vous aurez l’impression d’être comme rejetés une fois encore, mais essayez
-alors de prendre votre équilibre vous-mêmes, essayez de planer jusqu’à ce que vous ayez appris
-à voler. Oh! mais vous, pauvres poulets, vous ne connaissez sûrement rien de semblable à cela.
-En effet, un poulet ne peut rien connaître de tel parce qu’il n’a jamais été porté aussi haut, ni
-aucun de ses ancêtres d’ailleurs. Voici tout ce qu’il connaît: «Joignez-vous à une Eglise et
-asseyez-vous… dans le poulailler». Il n’en sait pas beaucoup plus que ce qu’il voit autour de lui.
-   Un jour, un homme décida de faire couver une poule, mais il estimait qu’il n’y avait pas assez
-d’oeufs sous elle. Au cours d’une de ses promenades, il avait trouvé un nid d’aigle et, en y
-pénétrant pendant l’absence de la mère, il en prit un oeuf. Il l’ajouta à ceux qui étaient sous la
-poule. Quand les oeufs furent éclos et que les poussins sortirent, ce petit aiglon était vraiment
-drôle à voir au milieu des autres poussins. Et ça se passe aussi de cette manière-là dans les
-communautés: quelqu’un se trouve différent des autres. C’était vraiment un drôle de compagnon. Il
-ne comprenait pas les gloussements de la poule, tantôt sur le tas de fumier, tantôt dans la cour de
-la ferme… «Nous pensons organiser un grand souper collectif pour ce soir. Nous allons faire ceci
-et cela». Oui, c’est réellement ainsi : «cotte, cotte, cotte» — le temps des miracles est passé —
-des choses telles que la guérison divine ce n’est plus pour aujourd’hui — «cotte, cotte, cotte».
-Ainsi ils mangent toute la journée cette nourriture souillée, parsemée de parties de plaisirs et de
-sorties en groupes, en tenue légère, le tout assaisonné de spectacles divers, télévision et autres,
-etc. Mais ce petit-là était un aigle et toutes ces choses ne lui convenaient pas du tout, son coeur se
-soulevait à leur odeur.
-   «Oh! jamais je ne pourrai le faire» et il marchait en rond de-ci, de-là. Oui, il avait l’air d’être un
-bien curieux compagnon et lui-même pensait: «J’ai sûrement l’air de passer pour un canard un peu
-fou au milieux de ceux-ci».
-   Mais moi je vous dis une chose, frères: Lorsqu’un homme est né pour être un enfant de Dieu,
-les vieux credo et les dénominations ne lui donneront jamais satisfaction, absolument pas. Et
+Et ne pourront franchir les portes des cieux que ceux nés de nouveau par le sang de Jésus-Christ. Je ne me préoccupe pas de ce que vous faites, de votre capacité intellectuelle, si vous êtes un bon prédicateur ou un bon membre d’Eglise, car à moins que vous ne soyez né par le sang de Jésus-Christ, avec une marque de sang sur vous, vous n’entrerez jamais. C’EST LA SEULE CHOSE A AVOIR, MAIS ELLE EST INDISPENSABLE. “Quand je verrai le sang, je passerai par-dessus”. C’est tout. Il ne vous laissera entrer que si la marque du sang est en ordre. Dieu prendra garde à ce que le sang de Son propre Fils soit sur l’Eglise.
 
-        http://www.cmpp.ch
+Ainsi, la vieille mère aigle est vigilante envers ses petits aigles et pourtant ils ne peuvent même plus se reposer: partout il n’y a plus que des épines, des épines, et encore des épines. Mais il y a encore une autre chose qui doit être faite avec cette Eglise de Pentecôte dans ce nid-là, afin qu’ils ne se sentent pas comme liés au nid. Une fois encore, ce n’est pas pour le plaisir de jeter la pierre contre les organisations — et je voudrais que vous le compreniez — bien mais j’essaie simplement de dire: «Faites en sorte que ce ne soit pas un lieu qui vous arrête dans votre marche». Vous êtes braves et, en un sens, j’aime bien les organisations et je suis de coeur avec elles… Oui, parfaitement, car c’est dans leur milieu que je suis né, moi aussi. Seulement ne vous arrêtez pas à cela, ne vous laissez pas entraver par cette organisation. Continuez simplement avec Dieu jusqu’au point où vous pourrez faire votre premier vol.
 
-    LES AIGLES DE DIEU                      14
-toutes ces choses du monde que les Eglises modernes d’aujourd’hui mêlent à leur activité (sports,
-musique, récréations les plus diverses) finissent dans la tristesse, car on se demande: «Où est
-Dieu là-dedans». En effet Dieu, attristé, se retire d’eux de plus en plus. Parfaitement, c’est l’exacte
-vérité! Les poulets aiment ce genre de choses, mais pas les aigles, car ce n’est pas une nourriture
-d’aigle.
-   Pour notre jeune compagnon, les jours se succédaient, tous pareils, chacun regardait autour de
-lui et la mère poule grattait de-ci, de-là. Sitôt une chose déterrée, les voilà qui se précipitaient tous
-dessus: «Oh! très bien, viens avec nous, joins-toi à nous». Mais lui, il est une personne séparée,
-oui parfaitement, toute cette nourriture dégoûtante ne lui dit vraiment plus rien du tout. Elle n’a
-pour lui aucune saveur ni même une odeur agréable et dans cette atmosphère qu’il sent autour de
-lui il ne se sent pas à l’aise. Il l’aime de moins en ni moins.
-   Or voici qu’apparut un jour la vieille mère aigle qui était toujours à sa recherche — elle avait
-bien remarqué un jour qu’on lui avait volé un de ses oeufs. Elle volait au-dessus du poulailler,
-regardant là-dedans. Voyant l’un de ses petits elle jeta son cri en s’exclamant: «Eh! mon enfant, tu
-n’es pas un poussin, tu es à Moi». Aussi lorsqu’il entendit cette voix-là, il regarda en haut. Voici
-enfin un son agréable à son oreille, car sa nature était celle d’un aigle. Sa nature…
-   “Jésus-Christ le même hier, et aujourd’hui, et éternellement”.
-   “N’aimez pas le monde, ni les choses qui sont dans le monde, car si vous le faites, l’amour de
-Dieu n’est point en vous”.
-   — Amen! répondit-il. Voilà qui sonne très bien…
-   — Quand je reviendrai, mon bien-aimé, tu pourras t’élancer. La seule chose que tu aies à faire
-est d’ouvrir tes petites ailes de foi et cela suffira pour t’entraîner.
-   — Mais comment pourrais-je sortir d’ici?
-   — Ouvre simplement tes ailes, c’est tout ce qu’il faut. Fais simplement agir ta foi, élance-toi
-simplement au-dehors et attends-toi à pouvoir voler, parce que tu es un aigle dès le
-commencement. Ouvre tes ailes.
-   Elle tournait donc en volant au-dessus de la cour. «Tu as bien l’air d’un des miens, lors même
-que tu te trouves là», lui dit-elle encore. Alors le jeune aiglon sauta sur ses pattes en se balançant
-quatre ou cinq fois d’avant en arrière tout en battant des ailes. Puis, tout à coup, ses pieds
-quittèrent le sol. Mais voilà que le petit aigle au lieu de poursuivre son vol se posa sur le sommet
-d’un toit au milieu du poulailler comme s’il voulait considérer une fois encore cette grande
-dénomination. Alors la mère aigle fit à nouveau un vol circulaire et, le voyant encore tout
-éclaboussé de la boue du poulailler (d’autres par ailleurs ont sur eux également les éclaboussures
-du monde dans leur aspect extérieur, cheveux, habits ou visage, etc.) lui dit: «Mon cher, tu
-ressembles plus à un busard de Pentecôte qu’à un aigle de Pentecôte. Il faudra que tu te nettoies
-un peu mieux que ça si tu veux que je puisse m’approcher de toi». Tout cela est exact.
-   Je ne voudrais pas vous bousculer dans vos sentiments, mais j’aimerais pourtant essayer de
-tailler et arracher quelque chose de vous. Laissez-moi vous le dire, frères, ce dont une Eglise de
-Pentecôte a besoin c’est d’une purification complète qui puisse se propager depuis la chaire
-jusqu’au dernier banc. C’est pourtant vrai, car nous laissons souvent de côté ce qui est le plus
-important. Il n’est pas étonnant que nous ne puissions pas avoir de réveil alors que nous
-mangeons de la nourriture bonne pour les vautours, demeurant chez nous le soir à regarder notre
-émission favorite à la télévision, au lieu de nous joindre à ceux qui se réunissent pour prier selon le
-Seigneur. Encore une fois, et au risque de me répéter, je persiste à soutenir: tant que les femmes
-continueront à porter ces vêtements-là et que les hommes ne renonceront pas à leurs parties de
-plaisir où ils boivent ensemble en faisant des plaisanteries douteuses et d’autres choses
-semblables, Dieu ne se manifestera jamais au milieu de gens ayant un tel état d’esprit.
-   Vous pouvez faire partie de la plus grande Eglise qu’il y ait dans ce pays et avoir à votre
-disposition le plus d’argent possible, tout cela n’a pas d’importance. Vous pouvez également
-essayer de vous associer avec ce que l’on nomme «des gens d’un certain niveau intellectuel»,
-porter des habits d’un genre plus distingué mais, frères, ce que Dieu désire ce sont un coeur et
-des mains purs. Il désire également une Eglise purifiée, car alors seulement Il peut se montrer tel
-qu’Il est. Lorsque Dieu étend Ses grandes ailes et montre par Sa puissance qu’Il est le même hier,
+Savez-vous quelle prochaine chose a décidé la vieille mère aigle avant de faire faire une petite expérience à ses enfants? Alors qu’ils pensaient se rattacher à une Eglise ou à quelque chose de bien, voilà que cela commence à crocher, quelque chose ne va pas. La vieille mère aigle s’est plantée sur le bord de son nid et, considérant ses jeunes depuis là-haut, elle constate qu’ils ont une quantité de leurs toutes premières plumes — celles du premier âge — qui tombent et sont mêlées aux autres. Elle sait que si elle prend ses petits avec elle dans les airs avec ces plumes folles, ils se briseront la nuque. Et moi je vous dis que si l’Eglise de la Pentecôte ne reçoit pas un bon coup de balayage, ses membres risquent également de se casser le cou eux aussi. Souvenez-vous bien de cela: il y a beaucoup trop de ces plumes folles, d’où proviennent bien des ennuis!
 
-                          http://www.cmpp.ch
+Savez-vous ce qu’elle fait? Elle se place sur un point élevé du nid et elle commence à battre vigoureusement l’air de ses deux grandes ailes. Ce qui fait un peu le même effet que si vous vous trouviez derrière un avion à réaction avant son décollage… Par ce violent courant d’air, toutes ces plumes folles sont vigoureusement chassées du plumage des jeunes aiglons. Je vous le répète encore, l’Eglise a un urgent besoin aujourd’hui que le nid soit secoué par un vent puissant qui emporte toutes les choses du monde hors de l’Eglise de la Pentecôte, afin que le vol individuel puisse avoir lieu.
 
-LES AIGLES DE DIEU 15
-et aujourd’hui, et éternellement, alors les aigles de Sa propre race diront aussi: «Oui Seigneur,
-c’est aussi ce que je désire. Je combats pour cela et je veux y arriver». Certainement, Il est le
-même hier, et aujourd’hui, et éternellement.
-   Une fois encore, ce dont l’Eglise de Pentecôte a besoin c’est d’être complètement purifiée. Si
-vous aimez le monde ou les choses qui sont dans le monde, l’amour de Dieu n’est point en vous.
-Je le sais, frères, certains sont malades d’entendre cela et peut-être en est-il de même pour vous.
-   Je me rappelle encore très bien, alors que nous étions petits et habitions dans le sud, ma mère
-nous préparait, tous les samedis soirs, un bain dans une vieille et grande seille en bois de cèdre.
-Après y avoir versé de l’eau, elle nous appelait les uns après les autres pour nous donner notre
-bain. Comme j’étais le dernier des dix et que nous étions pauvres, la même eau servait pour tous;
-on la réchauffait juste de temps en temps un petit peu. Comme nous étions très pauvres, au lieu
-d’avoir des galettes avec des morceaux de lard dessus, nous devions nous contenter d’une sorte
-de pain fait avec de la farine pétrie avec de la graisse bon marché. Avec cela, nous avions comme
-légumes des pois noirâtres, des navets de couleur verte et du pain noir. Quand nous avions des
-troubles d’une sorte ou d’une autre, chaque samedi soir, notre mère nous donnait, en outre, une
-ration d’huile de castor. Maintenant encore lorsque je sens une telle odeur je ne peux pas y tenir.
-Comme je m’approchais en me pinçant le nez et que je disais: «Maman, ne me la donne pas, non
-je ne peux vraiment pas la supporter!», elle me répondait, bien à sa façon: «Mon fils, si cela ne te
-rend pas malade, cela ne te fera aucun bien».
-   C’est aussi la manière dont je dois prêcher cette parole. Elle semble d’abord vous faire plus de
-mal que de bien, mais elle s’apprête à faire bien fonctionner votre appareil gastronomique spirituel,
-sinon cela ne vous fera aucun bien. C’est exact, car la Parole vous rend libres, réellement libres.
-   Le croyez-vous? L’Eglise a besoin d’un réveil du Saint-Esprit. Il y a un urgent besoin que la
-maison soit nettoyée. Or, ceux-là sont des aigles et ne les nourrissez pas avec la nourriture bonne
-pour des poulets. Il faut qu’ils sortent et aillent là où ils peuvent voler, sinon ils mourront. C’est tout.
-Et Dieu veillera sur Son héritage. Il n’est jamais trop éloigné, mais suffisamment proche pour vous
-élever plus haut. Croyez-vous cela?
-   Inclinons maintenant nos têtes pour un moment de prière. Combien d’entre vous voudraient
-réfléchir en cet instant et dire: «Seigneur, aie pitié de moi. Donne-moi des pensées et des désirs
-dignes d’un aigle. Donne-moi la vie de l’aigle. Laisse-moi voler dans l’air bleu, là-haut, Seigneur, là
-où toutes choses sont possibles pour celui qui croit. Suscite la foi en moi et que mes ailes puissent
-croître ainsi que les muscles qui les font se mouvoir, jusqu’à ce que je puisse réellement voir
-Jésus». Oh! que Dieu vous bénisse!
-   «O! Père céleste, le message peut avoir un caractère critique. Tu le sais, je ne cherchais pas
-cela, mais j’ai voulu faire connaître à ces gens ce que Tu essaies de faire, je le crois, pour secouer
-l’Eglise, ce grand héritage des Tiens, cette grande Eglise de la Pentecôte. Mais aussi grande
-qu’elle soit, je sais que Tu as répandu Tes dons tout autour d’elle avec toutes sortes de signes et
-de miracles, mais pourtant ils restent assis en arrière, ayant l’air d’être parfois comme des poulets.
-O! Seigneur, fais-leur voir qu’ils sont des aigles, qu’ils peuvent voler, qu’ils ont à faire agir leur foi
-et à s’envoler loin de tout cela, de toutes ces vieilles redites telles que: ‹Ça ne peut plus se
-produire ainsi actuellement, il n’y a rien du tout là-dedans…›».
-   «O! Dieu, bénis je Te prie chaque personne qui se trouve ici cet après-midi et fais que chacun
-se trouve comme étroitement protégé sous les ailes de Jéhova. Accorde-le moi, Père, je Te le
-demande au Nom de Ton Fils Jésus. Amen».
-   Nous aurons maintenant notre chaîne de prière, afin que nous puissions sortir à l’heure. Je
-désire que vous ayez part au rassemblement de l’Eglise ce soir. Que Dieu vous bénisse, car je
-sais que vous aimez le Seigneur, n’est-ce pas? Chantons encore une fois ce refrain comme je l’ai
-entendu à Tulsa dans un important groupement:
-      Oh! je l’aime, oh! je l’aime,
-      Car Il m’a aimé le premier.
-      Il pourvut à mon salut sur le bois du Calvaire.
-   Restons dans l’adoration devant Lui et inclinons nos têtes en élevant nos mains pendant que
-les gens se rassemblent en silence maintenant [frère Branham fait l’appel de la ligne de prière —
-N.d.E.].
+Nous avons besoin d’un autre Evangile, celui du bon vieux temps, du Saint-Esprit, d’un réveil venant de Dieu et envoyé par Lui, c’est parfaitement exact. Nous n’avons pas besoin d’un nouveau président. Nous en avons déjà eu un, présentant bien. Nous n’avons pas davantage besoin de nouveaux maires dans nos cités, ce qu’ils nous faut ce sont des ministres de l’Evangile capables d’apporter un message à l’Eglise et de la ramener à nouveau à la Pentecôte, de la ramener tout à nouveau à l’expérience de cet aigle. Voilà ce dont l’Eglise a besoin. Vous ne désirez pourtant pas être des poulets! Vous êtes des aigles et devez prendre une nourriture d’aigle.
 
-        http://www.cmpp.ch
+Ainsi elle se tient là, s’efforçant d’éloigner absolument toutes ces vieilles petites plumes de bébé de leurs corps avant qu’ils puissent prendre leur vrai premier vol. Seulement après, elle se lève et commence à lancer des cris, s’apprêtant à leur faire accomplir leur première expérience. Elle étend ses larges ailes de 14 pieds vers le fond du nid et alors ses petits aiglons s’accrochent à ses plumes et montent sur son dos: par son cri elle leur parlait, ils ont entendu et compris sa voix. Ils ont aussi appris à avoir confiance en elle.
 
-LES AIGLES DE DIEU 16
-   Combien de groupes de gens y a-t-il, spirituellement parlant, actuellement sur la terre? Il y en a
-trois: Sem, Cham et Japhet ou comme on peut les désigner aussi: les Juifs, les Gentils et les
-Samaritains qui sont à moitié Juifs et Gentils. Avez-vous déjà remarqué cela? Combien
-d’entre-vous savent que Jésus donna les clés de la Pentecôte à Pierre? C’est pourtant vrai. Avec
-ces clés, il ouvrit premièrement, à Jérusalem, le royaume aux Juifs. Est-ce exact?
-   Puis Philippe fut envoyé et baptisa des gens à Samarie. Ceux-ci reçurent le Saint-Esprit, mais
-s’il vint sur eux, c’est parce que Pierre avait les clés: il avait été envoyé vers eux et leur imposa les
-mains. Et après, là, dans la maison de Corneille, qui fut à nouveau appelé à se tenir vers eux? De
-nouveau Pierre. Depuis lors, il n’est plus fait mention de quoi que ce soit à ce sujet-là dans les
-Actes des Apôtres. Vous voyez que toutes les générations, toutes tribus de la terre, avaient reçu
-l’Evangile ouvertement, typifiées en cela par Sem, Cham et Japhet.
-   Maintenant faites attention, je voudrais encore vous faire remarquer quelque chose.
-Actuellement, il y a deux classes de gens, comme deux tribus cherchant un Messie. Qui sont-ils?
-Jadis, ce furent les Juifs et les Samaritains. Nous, Anglo-Saxons, faisions partie des Gentils. Avant
-d’avoir reçu l’Evangile, jadis nous formions un groupe de peuples adorateurs d’idoles, mais nous
-ne cherchions ni n’attendions aucun Messie. C’est aussi la raison pour laquelle il n’en est venu
-aucun à nous. En effet, il apparut à ceux qui Le cherchaient, qui L’attendaient. Combien parmi
-vous croient cela?
-   Ensuite ils rejetèrent leur Messie, mais souvenez-vous qu’Il vint d’abord vers les Juifs. Quel
-signe par excellence leur montra-t-Il? Il connaissait le secret de leurs coeurs. Mais que dit alors
-l’Eglise orthodoxe de son temps à Son sujet? “C’est Béelzébul, un diseur de bonne aventure, un
-devin”. Jésus avait dit: “Je vous pardonne ces paroles, mais un jour le Saint-Esprit viendra pour
-faire ces mêmes choses, mais à qui parlera contre Lui, il ne sera jamais pardonné ni dans ce
-monde, ni dans le monde à venir”. Est-ce exact?
-   Maintenant j’attire encore votre attention. Il accomplit ce signe devant les Juifs et également
-devant les Samaritains, mais Il ne l’accomplit jamais devant les Gentils. Vous ne trouverez
-nulle part mention d’un seul cas semblable, absolument pas. Cependant, avant de les quitter, Il
-parla à la Samaritaine — cette femme que nous appelons prostituée. Mais elle en savait plus au
-sujet de Dieu que la moitié de tous les prédicateurs des Etats-Unis. Ils sont tellement intellectuels
-qu’il n’y a même plus de place en eux pour un Esprit surnaturel. Et pourtant beaucoup d’entre eux
-sont réellement de bons chrétiens, des frères exceptionnels. Mais un plus grand nombre encore
-sont comme des poulets.
-   Ainsi cette femme était là, vers le puits. Il avait renvoyé ses disciples et Il s’était assis là parce
-que les gens de Samarie attendaient quelque chose. Combien d’entre vous savent que les
-Samaritains attendaient le Messie? Vous ne le croyez pas? Eh bien, relisez encore une fois
-attentivement l’Evangile de Jean au chapitre 4. Une femme de Samarie était venue à ce puits et Il
-lui dit… [pendant la prédication, frère Branham s’interrompt de temps en temps pour appeler un
-nom dans la ligne de prière des personnes qui se sont avancées, puis il reprend le développement
-du message — N.d.T.].
-   … Ainsi, Il était assis au bord du puits alors que ses disciples s’en étaient allés et voici qu’une
-femme d’aspect encore agréable s’approcha ayant une cruche sur sa tête. Alors qu’elle avait
-attaché une corde à son récipient et qu’elle le faisait descendre pour avoir de l’eau, elle entendit
-quelqu’un lui dire: “Donne-moi à boire”. Regardant autour d’elle, elle vit un Juif. Il avait juste trente
-ans, mais l’Ecriture dit qu’il paraissait en avoir cinquante. Combien d’entre vous ont déjà pensé à
-cela?
-   “Tu n’es pas un homme âgé de plus de cinquante ans et tu prétends avoir vu Abraham”. Il
-répondit: “Avant qu’Abraham fût, JE SUIS”. C’est pourtant vrai, ils ont bien dit: “Tu n’es pas âgé de
-plus de cinquante ans” (Jean 8.58).
-   Ainsi je les vois comme dans un tableau, assis sur le bord de ce puits et Il lui dit: “Donne-moi à
-boire”. Là aussi régnait une sorte de ségrégation telle que nous la connaissons chez nous entre
-gens de couleur et les blancs. Elle lui dit: “Ce n’est pourtant pas la coutume que toi, Juif, tu me
-demandes à moi, femme de Samarie…”.
-   — Femme, lui répondit-Il (attention, écoutez bien) si tu connaissais qui est Celui qui te parle, si
-tu Le connaissais, tu m’aurais toi-même demandé à boire et je t’aurais donné de l’eau, en sorte
+«Attention, enfants, je m’en vais maintenant vous donner votre premier vol individuel». Chacun d’eux est donc monté, a pris sa place et par ses petites pattes s’accrochent vigoureusement aux fortes plumes de son corps. Ils s’y accrochent d’ailleurs même avec leur bec, de toutes leurs
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
-    LES AIGLES DE DIEU    17
+## LES AIGLES DE DIEU 13
+
+forces. Ces plumes sont fixées si solidement à son corps que nul ne peut les en arracher, ainsi les petits ne risquent rien. La vieille mère donne ensuite quelques coups d’ailes et s’envole du rocher. Elle s’en va, cinglant loin dans la profondeur de l’azur, toujours plus haut. Les petits sont maintenant dans une situation qu’ils n’avaient encore jamais connue. Pour eux ce sont vraiment des instants merveilleux et exaltants.
+
+Cependant, quelle chose inattendue va-t-elle faire maintenant? Elle va se retourner d’un coup et, par quelques secousses supplémentaires, les précipiter dans le vide! Ils sont des aigles et doivent savoir voler. Oui, réellement, après une bonne secousse, ils se trouvent comme livrés à eux-mêmes. Mais elle leur crie seulement: «Tout est bien, mes enfants, vous êtes des aigles, volez!».
+
+Tant que vous direz: «Pour moi tout va bien, j’appartiens à cette Eglise et je ne comprends rien du tout à ce que vous me racontez», jamais vous ne serez capable de voler. Vous avez besoin d’être une bonne fois comme éjecté dans les airs. Et voici que ces petits d’aigle commencent à voler. Leur mère leur crie encore: «Enfants, ouvrez vos ailes. Développez votre petite foi, montez et descendez. Vous êtes assez haut pour n’avoir pas à craindre de heurter le sol».
+
+Elle les surveille de loin en planant en long et en large, et eux sont aussi heureux que des chrétiens pendant un réveil de Pentecôte. Ils volent de droite et de gauche, puis l’un au-dessus de l’autre et mettent toute leur énergie dans leurs premiers exercices de vol. Ils sont sans crainte, car ils ont une confiance suprême en leur mère qui veille attentivement sur eux.
+
+Si l’un de ces petits aigles perd son assurance et se trouve en détresse, elle s’élance juste au-dessous de lui, le rattrape et, le replaçant sur son dos, elle le porte comme tout à nouveau dans la grâce — en fait il ne s’agit pas ici d’un enseignement baptiste, mais c’est la Bible qui dit cela — elle le ramène donc en haut puis, se retournant encore une fois elle lui communique un nouveau départ. Amen!
+
+Ces aigles ont une grande confiance en leur mère, une confiance suprême, car ils savent qu’elle est prête à les aider et à les ramener à nouveau en haut. Portés sur des ailes d’aigle, amenés là-haut, puis secoués loin de leur support pour pouvoir reprendre un nouveau départ. «Si j’ai trébuché ou si j’ai failli, ô Seigneur, relève-moi, afin que je puisse recommencer à nouveau!».
+
+Repartir à nouveau. Oui, Dieu veut vous élever derechef et vous prendre un moment là-haut, vers Lui. Ensuite vous aurez l’impression d’être comme rejetés une fois encore, mais essayez alors de prendre votre équilibre vous-mêmes, essayez de planer jusqu’à ce que vous ayez appris à voler. Oh! mais vous, pauvres poulets, vous ne connaissez sûrement rien de semblable à cela. En effet, un poulet ne peut rien connaître de tel parce qu’il n’a jamais été porté aussi haut, ni aucun de ses ancêtres d’ailleurs. Voici tout ce qu’il connaît: «Joignez-vous à une Eglise et asseyez-vous… dans le poulailler». Il n’en sait pas beaucoup plus que ce qu’il voit autour de lui.
+
+Un jour, un homme décida de faire couver une poule, mais il estimait qu’il n’y avait pas assez d’oeufs sous elle. Au cours d’une de ses promenades, il avait trouvé un nid d’aigle et, en y pénétrant pendant l’absence de la mère, il en prit un oeuf. Il l’ajouta à ceux qui étaient sous la poule. Quand les oeufs furent éclos et que les poussins sortirent, ce petit aiglon était vraiment drôle à voir au milieu des autres poussins. Et ça se passe aussi de cette manière-là dans les communautés: quelqu’un se trouve différent des autres. C’était vraiment un drôle de compagnon. Il ne comprenait pas les gloussements de la poule, tantôt sur le tas de fumier, tantôt dans la cour de la ferme… «Nous pensons organiser un grand souper collectif pour ce soir. Nous allons faire ceci et cela». Oui, c’est réellement ainsi : «cotte, cotte, cotte» — le temps des miracles est passé — des choses telles que la guérison divine ce n’est plus pour aujourd’hui — «cotte, cotte, cotte». Ainsi ils mangent toute la journée cette nourriture souillée, parsemée de parties de plaisirs et de sorties en groupes, en tenue légère, le tout assaisonné de spectacles divers, télévision et autres, etc. Mais ce petit-là était un aigle et toutes ces choses ne lui convenaient pas du tout, son coeur se soulevait à leur odeur.
+
+«Oh! jamais je ne pourrai le faire» et il marchait en rond de-ci, de-là. Oui, il avait l’air d’être un bien curieux compagnon et lui-même pensait: «J’ai sûrement l’air de passer pour un canard un peu fou au milieux de ceux-ci».
+
+Mais moi je vous dis une chose, frères: Lorsqu’un homme est né pour être un enfant de Dieu, les vieux credo et les dénominations ne lui donneront jamais satisfaction, absolument pas. Et
+
+http://www.cmpp.ch
+
+## LES AIGLES DE DIEU 14
+
+toutes ces choses du monde que les Eglises modernes d’aujourd’hui mêlent à leur activité (sports, musique, récréations les plus diverses) finissent dans la tristesse, car on se demande: «Où est Dieu là-dedans». En effet Dieu, attristé, se retire d’eux de plus en plus. Parfaitement, c’est l’exacte vérité! Les poulets aiment ce genre de choses, mais pas les aigles, car ce n’est pas une nourriture d’aigle.
+
+Pour notre jeune compagnon, les jours se succédaient, tous pareils, chacun regardait autour de lui et la mère poule grattait de-ci, de-là. Sitôt une chose déterrée, les voilà qui se précipitaient tous dessus: «Oh! très bien, viens avec nous, joins-toi à nous». Mais lui, il est une personne séparée, oui parfaitement, toute cette nourriture dégoûtante ne lui dit vraiment plus rien du tout. Elle n’a pour lui aucune saveur ni même une odeur agréable et dans cette atmosphère qu’il sent autour de lui il ne se sent pas à l’aise. Il l’aime de moins en ni moins.
+
+Or voici qu’apparut un jour la vieille mère aigle qui était toujours à sa recherche — elle avait bien remarqué un jour qu’on lui avait volé un de ses oeufs. Elle volait au-dessus du poulailler, regardant là-dedans. Voyant l’un de ses petits elle jeta son cri en s’exclamant: «Eh! mon enfant, tu n’es pas un poussin, tu es à Moi». Aussi lorsqu’il entendit cette voix-là, il regarda en haut. Voici enfin un son agréable à son oreille, car sa nature était celle d’un aigle. Sa nature…
+
+“Jésus-Christ le même hier, et aujourd’hui, et éternellement”.
+
+“N’aimez pas le monde, ni les choses qui sont dans le monde, car si vous le faites, l’amour de Dieu n’est point en vous”.
+
+— Amen! répondit-il. Voilà qui sonne très bien…
+— Quand je reviendrai, mon bien-aimé, tu pourras t’élancer. La seule chose que tu aies à faire est d’ouvrir tes petites ailes de foi et cela suffira pour t’entraîner.
+— Mais comment pourrais-je sortir d’ici?
+— Ouvre simplement tes ailes, c’est tout ce qu’il faut. Fais simplement agir ta foi, élance-toi simplement au-dehors et attends-toi à pouvoir voler, parce que tu es un aigle dès le commencement. Ouvre tes ailes.
+
+Elle tournait donc en volant au-dessus de la cour. «Tu as bien l’air d’un des miens, lors même que tu te trouves là», lui dit-elle encore. Alors le jeune aiglon sauta sur ses pattes en se balançant quatre ou cinq fois d’avant en arrière tout en battant des ailes. Puis, tout à coup, ses pieds quittèrent le sol. Mais voilà que le petit aigle au lieu de poursuivre son vol se posa sur le sommet d’un toit au milieu du poulailler comme s’il voulait considérer une fois encore cette grande dénomination. Alors la mère aigle fit à nouveau un vol circulaire et, le voyant encore tout éclaboussé de la boue du poulailler (d’autres par ailleurs ont sur eux également les éclaboussures du monde dans leur aspect extérieur, cheveux, habits ou visage, etc.) lui dit: «Mon cher, tu ressembles plus à un busard de Pentecôte qu’à un aigle de Pentecôte. Il faudra que tu te nettoies un peu mieux que ça si tu veux que je puisse m’approcher de toi». Tout cela est exact.
+
+Je ne voudrais pas vous bousculer dans vos sentiments, mais j’aimerais pourtant essayer de tailler et arracher quelque chose de vous. Laissez-moi vous le dire, frères, ce dont une Eglise de Pentecôte a besoin c’est d’une purification complète qui puisse se propager depuis la chaire jusqu’au dernier banc. C’est pourtant vrai, car nous laissons souvent de côté ce qui est le plus important. Il n’est pas étonnant que nous ne puissions pas avoir de réveil alors que nous mangeons de la nourriture bonne pour les vautours, demeurant chez nous le soir à regarder notre émission favorite à la télévision, au lieu de nous joindre à ceux qui se réunissent pour prier selon le Seigneur. Encore une fois, et au risque de me répéter, je persiste à soutenir: tant que les femmes continueront à porter ces vêtements-là et que les hommes ne renonceront pas à leurs parties de plaisir où ils boivent ensemble en faisant des plaisanteries douteuses et d’autres choses semblables, Dieu ne se manifestera jamais au milieu de gens ayant un tel état d’esprit.
+
+Vous pouvez faire partie de la plus grande Eglise qu’il y ait dans ce pays et avoir à votre disposition le plus d’argent possible, tout cela n’a pas d’importance. Vous pouvez également essayer de vous associer avec ce que l’on nomme «des gens d’un certain niveau intellectuel», porter des habits d’un genre plus distingué mais, frères, ce que Dieu désire ce sont un coeur et des mains purs. Il désire également une Eglise purifiée, car alors seulement Il peut se montrer tel qu’Il est. Lorsque Dieu étend Ses grandes ailes et montre par Sa puissance qu’Il est le même hier,
+
+http://www.cmpp.ch
+
+## LES AIGLES DE DIEU 15
+
+et aujourd’hui, et éternellement, alors les aigles de Sa propre race diront aussi: «Oui Seigneur, c’est aussi ce que je désire. Je combats pour cela et je veux y arriver». Certainement, Il est le même hier, et aujourd’hui, et éternellement.
+
+Une fois encore, ce dont l’Eglise de Pentecôte a besoin c’est d’être complètement purifiée. Si vous aimez le monde ou les choses qui sont dans le monde, l’amour de Dieu n’est point en vous. Je le sais, frères, certains sont malades d’entendre cela et peut-être en est-il de même pour vous.
+
+Je me rappelle encore très bien, alors que nous étions petits et habitions dans le sud, ma mère nous préparait, tous les samedis soirs, un bain dans une vieille et grande seille en bois de cèdre. Après y avoir versé de l’eau, elle nous appelait les uns après les autres pour nous donner notre bain. Comme j’étais le dernier des dix et que nous étions pauvres, la même eau servait pour tous; on la réchauffait juste de temps en temps un petit peu. Comme nous étions très pauvres, au lieu d’avoir des galettes avec des morceaux de lard dessus, nous devions nous contenter d’une sorte de pain fait avec de la farine pétrie avec de la graisse bon marché. Avec cela, nous avions comme légumes des pois noirâtres, des navets de couleur verte et du pain noir. Quand nous avions des troubles d’une sorte ou d’une autre, chaque samedi soir, notre mère nous donnait, en outre, une ration d’huile de castor. Maintenant encore lorsque je sens une telle odeur je ne peux pas y tenir. Comme je m’approchais en me pinçant le nez et que je disais: «Maman, ne me la donne pas, non je ne peux vraiment pas la supporter!», elle me répondait, bien à sa façon: «Mon fils, si cela ne te rend pas malade, cela ne te fera aucun bien».
+
+C’est aussi la manière dont je dois prêcher cette parole. Elle semble d’abord vous faire plus de mal que de bien, mais elle s’apprête à faire bien fonctionner votre appareil gastronomique spirituel, sinon cela ne vous fera aucun bien. C’est exact, car la Parole vous rend libres, réellement libres.
+
+Le croyez-vous? L’Eglise a besoin d’un réveil du Saint-Esprit. Il y a un urgent besoin que la maison soit nettoyée. Or, ceux-là sont des aigles et ne les nourrissez pas avec la nourriture bonne pour des poulets. Il faut qu’ils sortent et aillent là où ils peuvent voler, sinon ils mourront. C’est tout. Et Dieu veillera sur Son héritage. Il n’est jamais trop éloigné, mais suffisamment proche pour vous élever plus haut. Croyez-vous cela?
+
+Inclinons maintenant nos têtes pour un moment de prière. Combien d’entre vous voudraient réfléchir en cet instant et dire: «Seigneur, aie pitié de moi. Donne-moi des pensées et des désirs dignes d’un aigle. Donne-moi la vie de l’aigle. Laisse-moi voler dans l’air bleu, là-haut, Seigneur, là où toutes choses sont possibles pour celui qui croit. Suscite la foi en moi et que mes ailes puissent croître ainsi que les muscles qui les font se mouvoir, jusqu’à ce que je puisse réellement voir Jésus». Oh! que Dieu vous bénisse!
+
+«O! Père céleste, le message peut avoir un caractère critique. Tu le sais, je ne cherchais pas cela, mais j’ai voulu faire connaître à ces gens ce que Tu essaies de faire, je le crois, pour secouer l’Eglise, ce grand héritage des Tiens, cette grande Eglise de la Pentecôte. Mais aussi grande qu’elle soit, je sais que Tu as répandu Tes dons tout autour d’elle avec toutes sortes de signes et de miracles, mais pourtant ils restent assis en arrière, ayant l’air d’être parfois comme des poulets. O! Seigneur, fais-leur voir qu’ils sont des aigles, qu’ils peuvent voler, qu’ils ont à faire agir leur foi et à s’envoler loin de tout cela, de toutes ces vieilles redites telles que: ‹Ça ne peut plus se produire ainsi actuellement, il n’y a rien du tout là-dedans…›».
+
+«O! Dieu, bénis je Te prie chaque personne qui se trouve ici cet après-midi et fais que chacun se trouve comme étroitement protégé sous les ailes de Jéhova. Accorde-le moi, Père, je Te le demande au Nom de Ton Fils Jésus. Amen».
+
+Nous aurons maintenant notre chaîne de prière, afin que nous puissions sortir à l’heure. Je désire que vous ayez part au rassemblement de l’Eglise ce soir. Que Dieu vous bénisse, car je sais que vous aimez le Seigneur, n’est-ce pas? Chantons encore une fois ce refrain comme je l’ai entendu à Tulsa dans un important groupement:
+
+Oh! je l’aime, oh! je l’aime,
+Car Il m’a aimé le premier.
+Il pourvut à mon salut sur le bois du Calvaire.
+
+Restons dans l’adoration devant Lui et inclinons nos têtes en élevant nos mains pendant que les gens se rassemblent en silence maintenant [frère Branham fait l’appel de la ligne de prière — N.d.E.].
+
+http://www.cmpp.ch
+
+## LES AIGLES DE DIEU 16
+
+Combien de groupes de gens y a-t-il, spirituellement parlant, actuellement sur la terre? Il y en a trois: Sem, Cham et Japhet ou comme on peut les désigner aussi: les Juifs, les Gentils et les Samaritains qui sont à moitié Juifs et Gentils. Avez-vous déjà remarqué cela? Combien d’entre-vous savent que Jésus donna les clés de la Pentecôte à Pierre? C’est pourtant vrai. Avec ces clés, il ouvrit premièrement, à Jérusalem, le royaume aux Juifs. Est-ce exact?
+
+Puis Philippe fut envoyé et baptisa des gens à Samarie. Ceux-ci reçurent le Saint-Esprit, mais s’il vint sur eux, c’est parce que Pierre avait les clés: il avait été envoyé vers eux et leur imposa les mains. Et après, là, dans la maison de Corneille, qui fut à nouveau appelé à se tenir vers eux? De nouveau Pierre. Depuis lors, il n’est plus fait mention de quoi que ce soit à ce sujet-là dans les Actes des Apôtres. Vous voyez que toutes les générations, toutes tribus de la terre, avaient reçu l’Evangile ouvertement, typifiées en cela par Sem, Cham et Japhet.
+
+Maintenant faites attention, je voudrais encore vous faire remarquer quelque chose. Actuellement, il y a deux classes de gens, comme deux tribus cherchant un Messie. Qui sont-ils? Jadis, ce furent les Juifs et les Samaritains. Nous, Anglo-Saxons, faisions partie des Gentils. Avant d’avoir reçu l’Evangile, jadis nous formions un groupe de peuples adorateurs d’idoles, mais nous ne cherchions ni n’attendions aucun Messie. C’est aussi la raison pour laquelle il n’en est venu aucun à nous. En effet, il apparut à ceux qui Le cherchaient, qui L’attendaient. Combien parmi vous croient cela?
+
+Ensuite ils rejetèrent leur Messie, mais souvenez-vous qu’Il vint d’abord vers les Juifs. Quel signe par excellence leur montra-t-Il? Il connaissait le secret de leurs coeurs. Mais que dit alors l’Eglise orthodoxe de son temps à Son sujet? “C’est Béelzébul, un diseur de bonne aventure, un devin”. Jésus avait dit: “Je vous pardonne ces paroles, mais un jour le Saint-Esprit viendra pour faire ces mêmes choses, mais à qui parlera contre Lui, il ne sera jamais pardonné ni dans ce monde, ni dans le monde à venir”. Est-ce exact?
+
+Maintenant j’attire encore votre attention. Il accomplit ce signe devant les Juifs et également devant les Samaritains, mais Il ne l’accomplit jamais devant les Gentils. Vous ne trouverez nulle part mention d’un seul cas semblable, absolument pas. Cependant, avant de les quitter, Il parla à la Samaritaine — cette femme que nous appelons prostituée. Mais elle en savait plus au sujet de Dieu que la moitié de tous les prédicateurs des Etats-Unis. Ils sont tellement intellectuels qu’il n’y a même plus de place en eux pour un Esprit surnaturel. Et pourtant beaucoup d’entre eux sont réellement de bons chrétiens, des frères exceptionnels. Mais un plus grand nombre encore sont comme des poulets.
+
+Ainsi cette femme était là, vers le puits. Il avait renvoyé ses disciples et Il s’était assis là parce que les gens de Samarie attendaient quelque chose. Combien d’entre vous savent que les Samaritains attendaient le Messie? Vous ne le croyez pas? Eh bien, relisez encore une fois attentivement l’Evangile de Jean au chapitre 4. Une femme de Samarie était venue à ce puits et Il lui dit… [pendant la prédication, frère Branham s’interrompt de temps en temps pour appeler un nom dans la ligne de prière des personnes qui se sont avancées, puis il reprend le développement du message — N.d.T.].
+
+… Ainsi, Il était assis au bord du puits alors que ses disciples s’en étaient allés et voici qu’une femme d’aspect encore agréable s’approcha ayant une cruche sur sa tête. Alors qu’elle avait attaché une corde à son récipient et qu’elle le faisait descendre pour avoir de l’eau, elle entendit quelqu’un lui dire: “Donne-moi à boire”. Regardant autour d’elle, elle vit un Juif. Il avait juste trente ans, mais l’Ecriture dit qu’il paraissait en avoir cinquante. Combien d’entre vous ont déjà pensé à cela?
+
+“Tu n’es pas un homme âgé de plus de cinquante ans et tu prétends avoir vu Abraham”. Il répondit: “Avant qu’Abraham fût, JE SUIS”. C’est pourtant vrai, ils ont bien dit: “Tu n’es pas âgé de plus de cinquante ans” (Jean 8.58).
+
+Ainsi je les vois comme dans un tableau, assis sur le bord de ce puits et Il lui dit: “Donne-moi à boire”. Là aussi régnait une sorte de ségrégation telle que nous la connaissons chez nous entre gens de couleur et les blancs. Elle lui dit: “Ce n’est pourtant pas la coutume que toi, Juif, tu me demandes à moi, femme de Samarie…”.
+
+— Femme, lui répondit-Il (attention, écoutez bien) si tu connaissais qui est Celui qui te parle, si tu Le connaissais, tu m’aurais toi-même demandé à boire et je t’aurais donné de l’eau, en sorte
+
+http://www.cmpp.ch
+
+## LES AIGLES DE DIEU 17
+
 que tu ne viennes plus puiser ici.
-   — Mais, dit-elle, le puits est profond et tu n’as rien pour puiser… Et la conversation continua. Or
-que fit-il donc?
-   Il contacta son esprit à elle. C’est d’ailleurs un peu la même chose que je suis en train de faire
-ce soir avec vous tous, essayant ainsi de capter votre attention. Puis il continua: “Donne-moi à
-boire”. Et la conversation reprit jusqu’à ce qu’Il mette en évidence le point caché qui la tourmentait.
-Combien d’entre vous savent ce que c’était? Elle vivait dans l’adultère. Il lui dit: “Femme, va
-chercher ton mari et viens ici”.
-   — Mais, je n’ai pas de mari!
-   — C’est exact, tu en as eu cinq et celui avec qui tu vis maintenant n’est pas ton mari.
-   Or cette femme, dans la condition qui était la sienne (étant une prostituée elle était un objet
-d’infamie parmi le peuple) entendit résonner en elle la voix de l’Ecriture. Elle ne lui donna pas le
-titre que les prédicateurs, docteurs de la loi blessés dans leur amour-propre lui décernèrent:
-“Béelzébul, diseur de bonne aventure, démon”. Chacun parmi nous sait que dire la bonne aventure
-(ou divination) vient du diable. Or qu’est-ce qu’un diseur de bonne aventure? C’est un homme
-perverti.
-   Le diable ne peut pas créer quoi que ce soit. S’il était un créateur, il aurait pu se créer un
-monde pour lui-même. Mais la seule chose qu’il ait faite c’est de pervertir ce que Dieu avait créé.
-Pouvez-vous saisir cela? Ce que je dis peut paraître bizarre à un auditoire non averti. Un homme
-peut épouser une femme et vivre avec elle comme étant sa femme, et le lit conjugal est pur. Mais
-le même acte commis avec une autre femme porte en lui une souillure. C’est la perversion d’une
-chose qui était juste à l’origine. Ainsi vous comprenez ce que j’entends quand je dis que Satan
-pervertit, ou agit en pervertisseur. Un diseur de bonne aventure est un voyant de Dieu perverti —
-perverti dans le domaine de Satan.
-   Ainsi, notons-le, la femme ne L’a jamais appelé de cette façon. Au contraire, elle lui dit:
-“Seigneur, je vois que Tu es un prophète”. Combien d’entre vous savent qu’elle a réellement dit
-cela? C’est une chose bien différente de ce que les prédicateurs de ce temps-là disaient. Elle
-continua encore, disant: “Nous, Samaritains, savons (car on nous l’a enseigné) que lorsque le
-Messie viendra il fera effectivement ces choses-là. Mais toi, qui es-tu?”. Jésus lui répondit: “Je le
-suis moi qui te parle”.
-   Alors elle retourna dans la ville en courant et dit aux habitants: “Venez voir un homme qui m’a
-dit toutes les choses que j’avais faites. Ne serait-ce pas réellement le Messie?”.
-   Mais ce qu’Il fit là, Il ne l’a jamais accompli parmi les Gentils. Mais n’a-t-Il pas promis qu’Il le
-ferait aussi parmi les Gentils? En effet, nous-mêmes, nous avons eu deux mille ans pour nous y
-préparer, tout comme les Juifs et les Samaritains l’ont eu. Une préparation, presque un
-entraînement, pour rechercher le Messie.
-   D’autre part, Jésus a dit: “Comme il en était aux jours de Lot et de Sodome, il en sera de même
-à la venue du Fils de l’homme”. Mais, notons-le, aux jours de Sodome il y a eu un réveil parmi les
-intellectuels avec Lot. En quelque sorte un Billy Graham de ce temps s’en vint vers eux et leur
-prêcha l’Evangile qui, d’ailleurs, ne fit que les aveugler davantage. Mais considérons d’autre part
-qu’Abraham (l’Eglise élue, la vraie Pentecôte) était séparé des choses du monde. Or,
-actuellement, il peut y avoir de la Pentecôte dans l’Eglise méthodiste ou dans l’Eglise baptiste car
-la Pentecôte n’est pas une dénomination, mais une expérience que peut faire quiconque le désire.
-La dénomination de Pentecôte n’a pas nécessairement les bénédictions de la Pentecôte. Des
-catholiques même peuvent l’avoir. Ainsi vous n’êtes de la Pentecôte que parce que vous avez reçu
-une bénédiction de Pentecôte dans votre coeur.
-   Abraham était donc celui qui était “appelé hors de” [Grec: «ekklesia» – traduit en français par
-«Eglise». — N.d.T.]. Et l’ange qui était assis là avec lui (donc l’un des trois anges qui était là et qui
-s’entretint avec lui après que les deux autres furent partis), il l’appela: Seigneur — Elohim.
-   Combien d’entre vous savent que Elohim était le grand Dieu Jéhova, l’Eternel Dieu? Et c’est Lui
-qui, s’adressant à Abraham dit: “Abraham, où est ton épouse Sara?”. Or Il était comme un étranger
-venant là pour la première fois. Comment donc savait-Il qu’Abraham avait une épouse et que son
-nom était Sara? Abraham Lui répondit (nous dit la Bible) qu’elle était dans la tente, derrière Lui. Il
+— Mais, dit-elle, le puits est profond et tu n’as rien pour puiser… Et la conversation continua. Or que fit-il donc?
 
-    http://www.cmpp.ch
+Il contacta son esprit à elle. C’est d’ailleurs un peu la même chose que je suis en train de faire ce soir avec vous tous, essayant ainsi de capter votre attention. Puis il continua: “Donne-moi à boire”. Et la conversation reprit jusqu’à ce qu’Il mette en évidence le point caché qui la tourmentait. Combien d’entre vous savent ce que c’était? Elle vivait dans l’adultère. Il lui dit: “Femme, va chercher ton mari et viens ici”.
+— Mais, je n’ai pas de mari!
+— C’est exact, tu en as eu cinq et celui avec qui tu vis maintenant n’est pas ton mari.
 
-LES AIGLES DE DIEU 18
-reprit: “Abraham, je viens te faire visite pendant cette période de ta vie. Je t’avais promis que tu
-aurais ce fils et voici venu le temps où tu vas le recevoir”. Or Sara, mais d’une manière tout à fait
-silencieuse, rit au-dedans d’elle-même. Et l’ange, le dos tourné à la tente s’écria: “Pourquoi Sara
-a-t-elle donc ri?”. Voyez-vous cela? Or Jésus a dit que ceci se passerait également parmi les
-Gentils, juste avant le temps de la fin. Le Messie se manifesterait sous la forme du Saint-Esprit.
-   Quelle fut la première chose que le Messie accomplit après qu’Il eût été baptisé au Jourdain
-avec le Saint-Esprit? Que fit-Il? Il s’en alla guérir les malades. Quel fut Son dernier signe, le signe
-qu’Il accomplit avant de les quitter? C’est justement le même signe qu’ici. Que nous apporta le
-réveil de la Pentecôte? La guérison des malades, des miracles et des signes. Quelle est la
-dernière chose? Eh bien, nous y voici!
-   Combien parmi vous sont-ils malades et n’ont pas de carte de prière? Voulez-vous lever votre
-main s’il vous plaît? Ayez la foi et croyez.
-   Quelqu’un a dit: «Qu’est-ce que ceci, frère Branham?». L’Esprit de Dieu, Celui qui a fait la
-promesse, ne peut faillir à Sa promesse.
-   Vous qui n’avez pas de carte de prière et qui vous trouvez derrière moi, priez. Et si Dieu est
-Dieu et que Sa réponse est vraie, si je vous ai dit la vérité au cours des rencontres de cette
-semaine, que ceci est le signe qu’Il va apparaître prochainement…
-   Tout être civilisé normal sait que nous arrivons à la fin de quelque chose. Cette civilisation n’en
-a plus pour longtemps; elle paraît secouée et agitée comme les vagues de la mer. Mais
-qu’attend-Il donc? C’est un temps qui s’écoule, comme il en était aux jours de Noé — temps de la
-patience. C’est un temps qui devrait être passé sur les genoux, à cause des élus, temps d’attente
-de Dieu pour avoir Son Eglise en ordre. Il attend sur vous et sur moi. Puisse-t-Il répandre ses
-bénédictions — Priez!
-   Vous qui êtes dans la file de prière, croyez comme cette femme dans la Bible qui toucha le bord
-de Son vêtement. Sitôt qu’elle l’eut fait, Il regarda autour de lui et dit: “Qui m’a touché?”. Alors tous
-s’écrièrent: “Mais tout le monde T’a touché”. Pierre lui-même Le reprit en Lui disant: “Tout le
-monde Te touche, comment peux-Tu donc dire une telle chose?”. Mais Jésus répondit: “J’ai perçu
-que je devenais faible” (ceci est la traduction rigoureuse). En d’autres termes: une force est sortie
-de moi. Alors Il regarda autour de Lui parmi la foule jusqu’à ce qu’Il trouve cette humble femme; et
-Il lui annonça que sa perte de sang était arrêtée, car sa foi lui avait rendu la santé. Est-ce vrai? La
-Bible dit qu’Il est maintenant un souverain sacrificateur, capable d’être touché par le sentiment de
-nos infirmités. Pouvez-vous, comme tout à nouveau, croire cela?
-   Imaginez qu’Il se tienne ici, portant ce revêtement spirituel qu’Il me donna. Il ne pourrait même
-pas vous guérir. Si vous veniez ici sur cette plate-forme en disant: «Seigneur, veux-tu me guérir?»
-savez-vous ce qu’Il vous répondrait? «Je l’ai déjà fait, car j’ai été blessé pour vos transgressions et
-par mes meurtrissures vous avez été guéris. Le salut et la guérison sont choses accomplies, c’est
-à vous de les prendre par la foi et à les accepter».
-   Or Il voudrait en fait vous prouver qu’Il est bien le Messie, mais attention, ces choses-là ne
-prouvent pas que moi je suis le Messie. Tout comme vous, je suis un pécheur sauvé par grâce et
-peu importe de quelle manière et avec quelle abondance Dieu m’a oint. Il désire également vous
-oindre, vous aussi. Il n’oeuvre pas seulement avec moi en particulier, mais Il désire que vous
-participiez aussi à Son oeuvre. Peu importe quelle portion du Saint-Esprit Il m’a départi, il est dans
-Son plan que vous en ayez votre part vous aussi. Il est un souverain sacrificateur qui peut être
-touché par nos besoins dans nos infirmités — et la Bible affirme qu’Il est le même hier, et
-aujourd’hui, et éternellement — alors Il agira de même. Il est ici, en nous. Le croyez-vous?
-   Que chacun d’entre vous regagne sa place dans le respect et prie.
-   Seigneur, je Te prie pour ces gens que Tu as placés sur mon coeur. Tu sais dans quel but je
-suis ici et je Te prie pour que Tu leur fasses voir comme tout à nouveau que Ta venue, Seigneur,
-est très proche. Seigneur, mène-les plus haut, sur Tes ailes, afin que tout cela ne me soit pas
-attribué. Tu as répandu Ton Esprit dans ce but et Tu l’as dit ainsi. Confirme-le, Seigneur. J’ai parlé
-pour Toi, parle maintenant pour moi Seigneur, afin que mes paroles soient reconnues comme
-vraies car elles viennent de Toi. Je Te le demande au Nom de Jésus. Amen.
-   Soyez attentifs à votre appel, recevez-le et ne manquez pas votre jour. Combien, dans toute
+Or cette femme, dans la condition qui était la sienne (étant une prostituée elle était un objet d’infamie parmi le peuple) entendit résonner en elle la voix de l’Ecriture. Elle ne lui donna pas le titre que les prédicateurs, docteurs de la loi blessés dans leur amour-propre lui décernèrent: “Béelzébul, diseur de bonne aventure, démon”. Chacun parmi nous sait que dire la bonne aventure (ou divination) vient du diable. Or qu’est-ce qu’un diseur de bonne aventure? C’est un homme perverti.
 
-        http://www.cmpp.ch
+Le diable ne peut pas créer quoi que ce soit. S’il était un créateur, il aurait pu se créer un monde pour lui-même. Mais la seule chose qu’il ait faite c’est de pervertir ce que Dieu avait créé. Pouvez-vous saisir cela? Ce que je dis peut paraître bizarre à un auditoire non averti. Un homme peut épouser une femme et vivre avec elle comme étant sa femme, et le lit conjugal est pur. Mais le même acte commis avec une autre femme porte en lui une souillure. C’est la perversion d’une chose qui était juste à l’origine. Ainsi vous comprenez ce que j’entends quand je dis que Satan pervertit, ou agit en pervertisseur. Un diseur de bonne aventure est un voyant de Dieu perverti — perverti dans le domaine de Satan.
 
-LES AIGLES DE DIEU 19
-cette ligne de prière, sont-ils des inconnus pour moi? Levez votre main vous tous qui ne me
-connaissez pas. Je crois que je ne connais personne ici, à part peut-être Gene Goad et Pat Tyler
-assises là-bas. A l’exception de mon fils qui se tient là-bas, ce sont réellement les seules
-personnes que je connaisse.
-   Vous madame, là-bas, qui avez un chapeau rouge dont le bord vous cache juste les yeux et qui
-êtes assise, croyez-vous que Jésus vous a entendue lorsque vous Lui avez demandé de vous
-guérir des maux de tête résultant de cette sinusite? Croyez-vous qu’Il vous a entendue? Vous
-venez de prier à ce sujet n’est-ce pas? Si c’est exact, voulez-vous vous lever s’il vous plaît et lever
-votre main? Si je ne vous connais pas et que vous-même ne me connaissiez pas, veuillez lever
-votre autre main. Peut-être avez-vous participé à quelques-unes de mes campagnes auparavant,
-mais de toute façon je ne sais rien de vous. Maintenant vous pouvez rentrer chez vous, vous serez
-de nouveau en bonne santé.
-   A présent je voudrais encore vous demander quelque chose, à vous qui êtes ici. Qu’a donc
-touché cette femme? Une fois encore, je ne sais pas qui elle est, la seule chose que je sache c’est
-que vous êtes dans une réunion et qu’elle a touché quelque chose. Il y a quelques instants, j’ai
-parlé de cette colonne de feu et, pour moi, cela ressemble à la Colonne de Feu et à la Vie qui est
-en elle. Qui donc la produit cette Vie? Pas moi, mais Elle. Elle produit les mêmes oeuvres qu’Elle
-accomplissait alors qu’Elle était dans le Fils de Dieu. Et maintenant Elle est dans les fils et les filles
-de Dieu par adoption et ceci est dû à la grâce du Fils de Dieu.
-   Et vous monsieur, là-bas, vous désirez que les troubles de votre coeur cessent? Croyez-vous
-que Dieu va vous rétablir en pleine santé? Alors levez-vous. Pendant que vous regardiez autour
-de vous avec étonnement tout à coup un étrange sentiment s’est emparé de vous. Est-ce juste?
-Pour moi je ne vous connais pas et vous-même ne me connaissez pas. Est-ce exact? Dans ce
-cas, levez votre main. Croyez maintenant que les troubles de votre coeur ont disparu. Levez votre
-main. Très bien, alors ils ont disparu.
-   Et voici une dame assise là-bas. Pouvez-vous voir cette lumière au-dessus de cette femme?
-Elle a des troubles de la vésicule biliaire, mais ils sont près de disparaître par la grâce de Dieu.
-Mademoiselle Small, croyez-vous que Dieu veut vous guérir des troubles de votre vésicule biliaire?
-Alors levez-vous sur vos pieds. Vous avez plus de foi que vous ne le pensiez. Je ne connais pas
-cette femme. Tout ceci n’est dû qu’à la grâce de Dieu. Si nous sommes étrangers l’un à l’autre
-élevez vos mains comme ceci. Je ne vous connais pas, mais ce que je vous dis est la vérité.
-Levez votre main! C’est en ordre, alors ayez la foi, rentrez chez vous et soyez en bonne santé —
-croyez-le.
-   Il y a là-bas une dame assise et qui souffre de troubles abdominaux. Oui, Effie est votre nom.
-Levez-vous, Effie! N’était-ce pas ce dont vous souffriez? Je ne vous connais pas, mais si c’est vrai
-levez votre main. C’est la première fois de ma vie que je vous vois, mais Dieu dans les cieux
-connaît tout. Rentrez chez vous, tout cela est passé, et que Dieu vous bénisse.
-   Si vous mourez clans vos péchés ce ne sera pas la faute de Dieu. Vous pouvez aller
-sincèrement dans une église, mais un pécheur est un incrédule, ayez donc foi en Dieu.
-   Les gens rassemblés ici maintenant forment une ligne de prière afin que nous puissions
-imposer les mains aux malades. Etes-vous prêts à croire sans voir? Bien qu’il y ait des gens sans
-carte de prière, que le reste d’entre vous continue de croire et ne vous dispersez pas dans tous les
-sens. Voyez, chacun de nous est un esprit, chacun d’entre vous est un esprit, saviez-vous cela? Si
-ce n’était pas le cas, vous seriez mort, c’est de votre esprit que je parle, non de vous. Venez ici…
+Ainsi, notons-le, la femme ne L’a jamais appelé de cette façon. Au contraire, elle lui dit: “Seigneur, je vois que Tu es un prophète”. Combien d’entre vous savent qu’elle a réellement dit cela? C’est une chose bien différente de ce que les prédicateurs de ce temps-là disaient. Elle continua encore, disant: “Nous, Samaritains, savons (car on nous l’a enseigné) que lorsque le Messie viendra il fera effectivement ces choses-là. Mais toi, qui es-tu?”. Jésus lui répondit: “Je le suis moi qui te parle”.
 
+Alors elle retourna dans la ville en courant et dit aux habitants: “Venez voir un homme qui m’a dit toutes les choses que j’avais faites. Ne serait-ce pas réellement le Messie?”.
 
+Mais ce qu’Il fit là, Il ne l’a jamais accompli parmi les Gentils. Mais n’a-t-Il pas promis qu’Il le ferait aussi parmi les Gentils? En effet, nous-mêmes, nous avons eu deux mille ans pour nous y préparer, tout comme les Juifs et les Samaritains l’ont eu. Une préparation, presque un entraînement, pour rechercher le Messie.
 
+D’autre part, Jésus a dit: “Comme il en était aux jours de Lot et de Sodome, il en sera de même à la venue du Fils de l’homme”. Mais, notons-le, aux jours de Sodome il y a eu un réveil parmi les intellectuels avec Lot. En quelque sorte un Billy Graham de ce temps s’en vint vers eux et leur prêcha l’Evangile qui, d’ailleurs, ne fit que les aveugler davantage. Mais considérons d’autre part qu’Abraham (l’Eglise élue, la vraie Pentecôte) était séparé des choses du monde. Or, actuellement, il peut y avoir de la Pentecôte dans l’Eglise méthodiste ou dans l’Eglise baptiste car la Pentecôte n’est pas une dénomination, mais une expérience que peut faire quiconque le désire. La dénomination de Pentecôte n’a pas nécessairement les bénédictions de la Pentecôte. Des catholiques même peuvent l’avoir. Ainsi vous n’êtes de la Pentecôte que parce que vous avez reçu une bénédiction de Pentecôte dans votre coeur.
 
+Abraham était donc celui qui était “appelé hors de” [Grec: «ekklesia» – traduit en français par «Eglise». — N.d.T.]. Et l’ange qui était assis là avec lui (donc l’un des trois anges qui était là et qui s’entretint avec lui après que les deux autres furent partis), il l’appela: Seigneur — Elohim.
 
+Combien d’entre vous savent que Elohim était le grand Dieu Jéhova, l’Eternel Dieu? Et c’est Lui qui, s’adressant à Abraham dit: “Abraham, où est ton épouse Sara?”. Or Il était comme un étranger venant là pour la première fois. Comment donc savait-Il qu’Abraham avait une épouse et que son nom était Sara? Abraham Lui répondit (nous dit la Bible) qu’elle était dans la tente, derrière Lui. Il
 
+http://www.cmpp.ch
 
+## LES AIGLES DE DIEU 18
 
+reprit: “Abraham, je viens te faire visite pendant cette période de ta vie. Je t’avais promis que tu aurais ce fils et voici venu le temps où tu vas le recevoir”. Or Sara, mais d’une manière tout à fait silencieuse, rit au-dedans d’elle-même. Et l’ange, le dos tourné à la tente s’écria: “Pourquoi Sara a-t-elle donc ri?”. Voyez-vous cela? Or Jésus a dit que ceci se passerait également parmi les Gentils, juste avant le temps de la fin. Le Messie se manifesterait sous la forme du Saint-Esprit.
 
+Quelle fut la première chose que le Messie accomplit après qu’Il eût été baptisé au Jourdain avec le Saint-Esprit? Que fit-Il? Il s’en alla guérir les malades. Quel fut Son dernier signe, le signe qu’Il accomplit avant de les quitter? C’est justement le même signe qu’ici. Que nous apporta le réveil de la Pentecôte? La guérison des malades, des miracles et des signes. Quelle est la dernière chose? Eh bien, nous y voici!
 
-    http://www.cmpp.ch
+Combien parmi vous sont-ils malades et n’ont pas de carte de prière? Voulez-vous lever votre main s’il vous plaît? Ayez la foi et croyez.
+
+Quelqu’un a dit: «Qu’est-ce que ceci, frère Branham?». L’Esprit de Dieu, Celui qui a fait la promesse, ne peut faillir à Sa promesse.
+
+Vous qui n’avez pas de carte de prière et qui vous trouvez derrière moi, priez. Et si Dieu est Dieu et que Sa réponse est vraie, si je vous ai dit la vérité au cours des rencontres de cette semaine, que ceci est le signe qu’Il va apparaître prochainement…
+
+Tout être civilisé normal sait que nous arrivons à la fin de quelque chose. Cette civilisation n’en a plus pour longtemps; elle paraît secouée et agitée comme les vagues de la mer. Mais qu’attend-Il donc? C’est un temps qui s’écoule, comme il en était aux jours de Noé — temps de la patience. C’est un temps qui devrait être passé sur les genoux, à cause des élus, temps d’attente de Dieu pour avoir Son Eglise en ordre. Il attend sur vous et sur moi. Puisse-t-Il répandre ses bénédictions — Priez!
+
+Vous qui êtes dans la file de prière, croyez comme cette femme dans la Bible qui toucha le bord de Son vêtement. Sitôt qu’elle l’eut fait, Il regarda autour de lui et dit: “Qui m’a touché?”. Alors tous s’écrièrent: “Mais tout le monde T’a touché”. Pierre lui-même Le reprit en Lui disant: “Tout le monde Te touche, comment peux-Tu donc dire une telle chose?”. Mais Jésus répondit: “J’ai perçu que je devenais faible” (ceci est la traduction rigoureuse). En d’autres termes: une force est sortie de moi. Alors Il regarda autour de Lui parmi la foule jusqu’à ce qu’Il trouve cette humble femme; et Il lui annonça que sa perte de sang était arrêtée, car sa foi lui avait rendu la santé. Est-ce vrai? La Bible dit qu’Il est maintenant un souverain sacrificateur, capable d’être touché par le sentiment de nos infirmités. Pouvez-vous, comme tout à nouveau, croire cela?
+
+Imaginez qu’Il se tienne ici, portant ce revêtement spirituel qu’Il me donna. Il ne pourrait même pas vous guérir. Si vous veniez ici sur cette plate-forme en disant: «Seigneur, veux-tu me guérir?» savez-vous ce qu’Il vous répondrait? «Je l’ai déjà fait, car j’ai été blessé pour vos transgressions et par mes meurtrissures vous avez été guéris. Le salut et la guérison sont choses accomplies, c’est à vous de les prendre par la foi et à les accepter».
+
+Or Il voudrait en fait vous prouver qu’Il est bien le Messie, mais attention, ces choses-là ne prouvent pas que moi je suis le Messie. Tout comme vous, je suis un pécheur sauvé par grâce et peu importe de quelle manière et avec quelle abondance Dieu m’a oint. Il désire également vous oindre, vous aussi. Il n’oeuvre pas seulement avec moi en particulier, mais Il désire que vous participiez aussi à Son oeuvre. Peu importe quelle portion du Saint-Esprit Il m’a départi, il est dans Son plan que vous en ayez votre part vous aussi. Il est un souverain sacrificateur qui peut être touché par nos besoins dans nos infirmités — et la Bible affirme qu’Il est le même hier, et aujourd’hui, et éternellement — alors Il agira de même. Il est ici, en nous. Le croyez-vous?
+
+Que chacun d’entre vous regagne sa place dans le respect et prie.
+
+Seigneur, je Te prie pour ces gens que Tu as placés sur mon coeur. Tu sais dans quel but je suis ici et je Te prie pour que Tu leur fasses voir comme tout à nouveau que Ta venue, Seigneur, est très proche. Seigneur, mène-les plus haut, sur Tes ailes, afin que tout cela ne me soit pas attribué. Tu as répandu Ton Esprit dans ce but et Tu l’as dit ainsi. Confirme-le, Seigneur. J’ai parlé pour Toi, parle maintenant pour moi Seigneur, afin que mes paroles soient reconnues comme vraies car elles viennent de Toi. Je Te le demande au Nom de Jésus. Amen.
+
+Soyez attentifs à votre appel, recevez-le et ne manquez pas votre jour. Combien, dans toute
+
+http://www.cmpp.ch
+
+## LES AIGLES DE DIEU 19
+
+cette ligne de prière, sont-ils des inconnus pour moi? Levez votre main vous tous qui ne me connaissez pas. Je crois que je ne connais personne ici, à part peut-être Gene Goad et Pat Tyler assises là-bas. A l’exception de mon fils qui se tient là-bas, ce sont réellement les seules personnes que je connaisse.
+
+Vous madame, là-bas, qui avez un chapeau rouge dont le bord vous cache juste les yeux et qui êtes assise, croyez-vous que Jésus vous a entendue lorsque vous Lui avez demandé de vous guérir des maux de tête résultant de cette sinusite? Croyez-vous qu’Il vous a entendue? Vous venez de prier à ce sujet n’est-ce pas? Si c’est exact, voulez-vous vous lever s’il vous plaît et lever votre main? Si je ne vous connais pas et que vous-même ne me connaissiez pas, veuillez lever votre autre main. Peut-être avez-vous participé à quelques-unes de mes campagnes auparavant, mais de toute façon je ne sais rien de vous. Maintenant vous pouvez rentrer chez vous, vous serez de nouveau en bonne santé.
+
+A présent je voudrais encore vous demander quelque chose, à vous qui êtes ici. Qu’a donc touché cette femme? Une fois encore, je ne sais pas qui elle est, la seule chose que je sache c’est que vous êtes dans une réunion et qu’elle a touché quelque chose. Il y a quelques instants, j’ai parlé de cette colonne de feu et, pour moi, cela ressemble à la Colonne de Feu et à la Vie qui est en elle. Qui donc la produit cette Vie? Pas moi, mais Elle. Elle produit les mêmes oeuvres qu’Elle accomplissait alors qu’Elle était dans le Fils de Dieu. Et maintenant Elle est dans les fils et les filles de Dieu par adoption et ceci est dû à la grâce du Fils de Dieu.
+
+Et vous monsieur, là-bas, vous désirez que les troubles de votre coeur cessent? Croyez-vous que Dieu va vous rétablir en pleine santé? Alors levez-vous. Pendant que vous regardiez autour de vous avec étonnement tout à coup un étrange sentiment s’est emparé de vous. Est-ce juste? Pour moi je ne vous connais pas et vous-même ne me connaissez pas. Est-ce exact? Dans ce cas, levez votre main. Croyez maintenant que les troubles de votre coeur ont disparu. Levez votre main. Très bien, alors ils ont disparu.
+
+Et voici une dame assise là-bas. Pouvez-vous voir cette lumière au-dessus de cette femme? Elle a des troubles de la vésicule biliaire, mais ils sont près de disparaître par la grâce de Dieu. Mademoiselle Small, croyez-vous que Dieu veut vous guérir des troubles de votre vésicule biliaire? Alors levez-vous sur vos pieds. Vous avez plus de foi que vous ne le pensiez. Je ne connais pas cette femme. Tout ceci n’est dû qu’à la grâce de Dieu. Si nous sommes étrangers l’un à l’autre élevez vos mains comme ceci. Je ne vous connais pas, mais ce que je vous dis est la vérité. Levez votre main! C’est en ordre, alors ayez la foi, rentrez chez vous et soyez en bonne santé — croyez-le.
+
+Il y a là-bas une dame assise et qui souffre de troubles abdominaux. Oui, Effie est votre nom. Levez-vous, Effie! N’était-ce pas ce dont vous souffriez? Je ne vous connais pas, mais si c’est vrai levez votre main. C’est la première fois de ma vie que je vous vois, mais Dieu dans les cieux connaît tout. Rentrez chez vous, tout cela est passé, et que Dieu vous bénisse.
+
+Si vous mourez clans vos péchés ce ne sera pas la faute de Dieu. Vous pouvez aller sincèrement dans une église, mais un pécheur est un incrédule, ayez donc foi en Dieu.
+
+Les gens rassemblés ici maintenant forment une ligne de prière afin que nous puissions imposer les mains aux malades. Etes-vous prêts à croire sans voir? Bien qu’il y ait des gens sans carte de prière, que le reste d’entre vous continue de croire et ne vous dispersez pas dans tous les sens. Voyez, chacun de nous est un esprit, chacun d’entre vous est un esprit, saviez-vous cela? Si ce n’était pas le cas, vous seriez mort, c’est de votre esprit que je parle, non de vous. Venez ici…
+
+http://www.cmpp.ch

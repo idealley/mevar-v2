@@ -1,687 +1,207 @@
-    SERIE 4 N° 8
+---
+source: "cmpp"
+sermon_id: "serie4no8"
+title: "Allant au-delà du camp"
+subtitle: "19 juillet 1964, soir"
+date: "1964-07-19"
+year: 1964
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur Hébreux 13.10-14, exhortant les croyants à sortir du camp des traditions et des dénominations pour aller vers Christ, la Parole vivante. Il compare l'expérience d'Israël sortant d'Égypte à l'appel actuel à quitter les systèmes religieux humains pour vivre dans la présence de Dieu, confirmée par Sa Parole et Ses signes."
+tags:
+  - "sortir du camp"
+  - "Parole de Dieu"
+  - "sanctification"
+  - "dénominations"
+  - "foi"
+  - "obéissance"
+  - "présence de Dieu"
+persons:
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Abraham"
+  - "Noé"
+  - "Pierre"
+  - "Jacques"
+  - "Jean"
+  - "Pharaon"
+  - "Abimélec"
+  - "Samson"
+  - "Malachie"
+  - "Jean-Baptiste"
+places:
+  - "Égypte"
+  - "désert"
+  - "Guérar"
+  - "mont de la Transfiguration"
+  - "Jeffersonville"
+themes:
+  - "sortir du camp religieux"
+  - "la Parole comme fondement"
+  - "sanctification par le sang"
+  - "rejet des traditions humaines"
+  - "présence de Dieu authentifiée"
+  - "persécution des prophètes"
+  - "retour à la Parole"
+pdf_url: "http://cmpp.ch/serie4no8.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Actes 19"
+  - "Apocalypse 3"
+  - "Hébreux 13"
+  - "Matthieu 17"
+---
+SERIE 4 N° 8
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
- ALLANT AU-DELA DU CAMP
+ALLANT AU-DELA DU CAMP
 (Going beyond the Camp)
 
 
-
-
-     19 juillet 1964, soir
-       Branham Tabernacle
+19 juillet 1964, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+ALLANT AU-DELA DU CAMP 2
 
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    ALLANT AU-DELA DU CAMP    2
-
- ALLANT AU-DELA DU CAMP
+ALLANT AU-DELA DU CAMP
 (Going beyond the Camp)
 
 
-     19 juillet 1964, soir
-       Branham Tabernacle
+19 juillet 1964, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
-
-
-1 Restons debout juste un moment. Dieu bien-aimé, nous Te sommes reconnaissants pour ce
-privilège que Tu nous accordes à nouveau de nous tenir dans la maison de Dieu et d’adorer le
-Dieu vivant. Nous sommes tellement reconnaissants que Tu nous accordes encore ce privilège sur
-la terre. Et, Seigneur, nous sommes également reconnaissants pour ces gens fidèles dont la
-plupart sont venus de centaines et de centaines de kilomètres à la ronde. Et certains d’entre eux
-tenteront ce soir de se frayer leur chemin de retour sur ces grandes routes battues de la tempête.
-O Dieu, je Te prie d’être avec eux et de les aider. Père, sois leur guide.
-2 Nous Te remercions pour cette petite averse qui rafraîchit momentanément l’atmosphère. Et
-Père, nous Te prions de venir ce soir à notre rencontre au travers de Ta Parole, car c’est pour cela
-que nous nous sommes assemblés, Seigneur: pour Te rencontrer au travers de Ta Parole.
-Aide-nous, Seigneur, afin que notre rencontre soit bénéfique pour Ton Royaume; puissions-nous
-être aidés et en aider d’autres. Accorde-nous ces choses que nous Te demandons dans le Nom
-de Jésus. Amen. (Vous pouvez vous asseoir.)
-3 Je viens d’avoir ici quelques entretiens en privé. Et juste avant que la réunion ne commence,
-Billy m’en a donné une telle liste que je sais à peine par où commencer. Mais nous prions Dieu de
-vous bénir car vous avez fait l’effort de rester pour la réunion du soir.
-4 Maintenant, si Dieu le permet, j’aurai de nouveau un service dimanche prochain. Je viens de
-parler au pasteur, et pour eux tout va bien.
-5 Maintenant, j’aurais aimé avoir le temps de reconnaître chacun des bons amis que j’ai ici,
-mais je sais que vous attendez. Il fait très chaud. Je passerai donc par-dessus cela et dirai
-simplement ceci: «Dieu vous bénisse!».
-6 Vous savez, je ne connais pas de plus grande chose que l’on puisse demander pour moi que
-celle-ci: «Que Dieu vous bénisse!». Vous voyez? S’Il fait cela, c’est tout ce dont j’ai besoin. Je
-pense que c’est la plus grande parole de notre langue: «Dieu vous bénisse!». Et je sais qu’Il le fait.
-7 Comme je le disais il y a quelques instants à ma femme: j’essayais de prendre un bain et ne
-parvenais pas à me sécher. Je me séchais, puis j’étais tout de suite de nouveau mouillé. Je me
-séchais mais je n’arrivais même pas à enfiler ma chemise. A Tucson, c’est un peu différent. Il fait
-environ deux fois plus chaud qu’ici mais vous ne transpirez pas. Il n’y a pas cette humidité de l’air,
-aussi tout est sec dès que vous sortez. Vous posez un seau d’eau là dehors et tout s’évapore.
-Vous ne pouvez transpirer car la sueur s’évapore avant même que vous ne puissiez transpirer.
-Vous transpirez bien, seulement vous ne vous en apercevez jamais. Alors qu’ici j’ai passé un
-mauvais quart d’heure à essayer de me sécher. Et maintenant, je suis trempé de sueur.
-8 Lorsque je suis revenu dans la pièce ici, nous avions sept ou huit personnes qui avaient des
-besoins urgents et dont il fallait s’occuper immédiatement.
-9 Maintenant, si je vous ai demandé de rester par là pour revenir ici ce soir, c’est que j’ai le
-sentiment que cela nous serait bénéfique. Autrement, mes amis, je n’aurais pas fait cela. J’ai trop
-de considération envers vous pour vous faire venir simplement entendre quelqu’un ou écouter ce
-que j’ai à vous dire, ou quelque chose ainsi. Je ne ferais pas cela. Ce ne serait pas juste. Je ne
-montrerais pas mon amour pour vous en vous faisant venir simplement ainsi. Et je ne crois pas
-que vous viendriez, bien que je sache que vous m’aimez autant que je vous aime. Ainsi je sais que
-        http://www.cmpp.ch
-
-ALLANT AU-DELA DU CAMP 3
-vous ne feriez pas ce que vous faites. J’ai donc suffisamment de considération envers vous pour
-ne pas vous faire venir dans cette chaleur et toutes ces choses si je ne pensais pas que c’est
-quelque chose qui vous aide.
-10 Ainsi avant de venir ici, j’essaye de faire de mon mieux devant Dieu pour choisir un petit
-quelque chose, un passage de l’Ecriture, et la dernière chose que je fais avant de partir est de
-demander qu’Il me guide: «Seigneur, aide-moi et tout ce que Tu peux, donne-le à ces gens que
-j’aime». Et je crois et j’espère que je vivrai toujours avec vous. Je crois qu’il s’agit là des plus
-courts moments que nous passions ensemble. Nous serons ensemble dans l’éternité. Vous
-voyez? Je le crois et je veux vous aider. Si je dis quelque chose de faux, notre Père céleste sait
-que ce n’est pas parce que j’en avais l’intention mais parce que je ne le savais pas; je l’ai fait sans
-le savoir.
-11 Ainsi, comme je sais que vous êtes sous ma responsabilité et que l’Evangile vous place entre
-mes mains, je veux garder constamment vos pensées justes dans les pages de cette Bible.
-Souvent des gens viennent à moi et disent: «Frère Branham, si vous pouviez simplement venir et
-dire: Ainsi dit le Seigneur à mon petit enfant qui est malade, cela serait très bien. Venez donc et
-dites simplement: Cela ira bien. C’est tout ce que je veux que vous fassiez».
-12 Maintenant, c’est loyal et charmant; combien j’apprécie cela. Mais vous savez, je ne peux pas
-faire cela avant qu’Il ne me l’ait dit premièrement. Vous voyez? Je peux prier pour l’enfant, faire
-tout ce qui est en mon pouvoir. Mais que se passerait-il si je disais une chose pareille sous
-l’influence de l’enthousiasme? Vous voyez? Si je disais: «Ainsi dit le Seigneur», ce serait vraiment
-sous l’influence de mon enthousiasme. Cela pourrait se réaliser comme cela pourrait très bien ne
-pas se réaliser. Mais que se passerait-il si cette même personne se trouvait sous l’influence de
-mon enthousiasme et que cela n’arriverait pas? Cette personne pourrait se trouver entre la vie et
-la mort. Où mettrait-elle alors sa confiance? Elle craindrait que je n’agisse de nouveau par
-enthousiasme, vous voyez. Ainsi quand je dis cela, je veux être absolument sûr que cela concorde
-exactement avec tout ce que je connais. Et quand Il me parle, je ne peux dire que ce qu’Il m’a
-montré. Je dois le dire, que cela soit bon ou mauvais. Il n’est parfois pas agréable de dire ces
-choses aux gens; pourtant je suis tout aussi contraint d’annoncer aux gens les mauvaises choses
-qui vont leur arriver que les bonnes choses.
-13 Nous voulons la volonté du Seigneur avant tout. La volonté du Seigneur est parfois
-contraire à nos désirs. Et pourtant si nous voulons la volonté du Seigneur, il nous est tout aussi
-précieux de savoir qu’il nous arrivera de mauvaises choses, si c’est la volonté du Seigneur. Que
-cela soit bon ou mauvais, nous voulons que la volonté du Seigneur s’accomplisse. Et je sais
-que c’est ainsi que nous considérons la chose.
-14 Maintenant, je sais que les frères ici ont l’habitude d’avoir un message de vingt ou trente
-minutes le dimanche soir. Je ne sais pas si je pourrai faire cela ou pas, j’essaierai donc de faire du
-mieux que je peux.
-15 Je crois qu’il y aura un service de baptême juste après cela. J’ai entendu dire que ce matin ils
-ont baptisé un important groupe de gens. Constamment des baptêmes ont lieu ici. Des pasteurs,
-méthodistes, baptistes, presbytériens, luthériens, des gens de l’Eglise de Dieu et d’autres viennent
-pour être baptisés dans le Nom du Seigneur Jésus-Christ. Et lorsque je me tiendrai à la barre du
-jugement devant Dieu, j’aurai à répondre de cela. Et si je pensais que toutes choses dans ma vie
-sont aussi clairement justifiées que cela, je serais prêt pour l’enlèvement juste maintenant. Car je
-sais que c’est la vérité de l’Evangile. Vous voyez? C’est la vérité.
-16 Il n’y a pas un seul passage de la Bible indiquant qu’une personne fût baptisée d’une autre
-manière qu’au Nom de Jésus-Christ. L’ordre de mission: Père, Fils et Saint-Esprit est donné
-uniquement ainsi: “Allez, enseignez les nations et baptisez-les pour le Nom du Père, Fils et
-Saint-Esprit”. Il n’est pas dit d’invoquer ce titre sur eux mais de les baptiser pour le Nom du Père,
-Fils et Saint-Esprit, c’est-à-dire du Seigneur Jésus-Christ.
-17 Tous dans la Bible furent baptisés pour le Nom de Jésus-Christ: et la Bible dit que quiconque
-ôte un mot de cette Bible ou en ajoute un d’une quelconque manière, qu’il soit maudit! Ainsi je
-n’aurai jamais trop de crainte d’ajouter ou de retrancher quelque chose de l’Ecriture. Cela me
-cause souvent beaucoup de souci, mais je m’en tiens à cela. Il est ma défense. Cela a provoqué
-ma séparation d’avec plus d’un ami. Ils se sont séparés de moi à cause de cela. Mais tant que je
-garde cet Ami qui se trouve ici, le Seigneur Jésus… Et Il est la Parole! Peu importe combien le
-        http://www.cmpp.ch
-
-ALLANT AU-DELA DU CAMP 4
-sentier est raboteux, combien le chemin est dur, Il continue à venir de la même manière. Et s’ils
-appelèrent le Maître de la maison Béelzébul, à combien plus forte raison appelleront-ils Ses
-disciples ainsi.
-18 Maintenant, que le Seigneur soit avec vous tous et vous bénisse tout au long de cette
-semaine; ma prière est qu’Il vous donne le meilleur.
-19 A présent, nous allons lire dans la précieuse Parole. Et je vous rappelle à nouveau que
-mercredi soir… [Frère Branham parle à frère Neville au sujet des services — N.d.R.]. Lundi soir et
-mardi soir, il y aura des réunions de prière dans les maisons. Je pense que les gens le savent.
-20 Frère Junior Jackson est-il dans la salle? Il est ici. Très bien. Il y a aussi un autre frère
-Jackson. Et frère Don Ruddel est-il ici dans la salle ce soir? Frère Don? Il est là-bas. Et beaucoup
-d’autres frères. Je vois qu’il y a les frères d’Arkansas et de Louisiane et de différents endroits du
-pays.
-21 Et j’ai aussi un frère aîné ce soir ici. Frère Thomas Kidd est assis là-bas sur la droite; dans
-quelques jours il aura quatre-vingt-quatre ans. Et il y a environ deux ou trois ans, il a été opéré de
-la prostate et il mourait du cancer. Le docteur l’avait simplement abandonné et il devait mourir. Et
-c’est pour me rendre auprès de lui dans l’Ohio que j’ai abîmé ma vieille voiture. Et le Seigneur l’a
-guéri complètement et ce soir il se trouve ici avec sa petite compagne. Beaucoup parmi vous les
-connaissent; peut-être que certains ne les connaissent pas. Voici un homme et sa femme qui
-prêchaient l’Evangile avant que je ne naisse. Pensez-y. Or je suis un vieil homme. Vous voyez? Et
-maintenant je les regarde et je vois qu’ils persévèrent et cela me donne du courage.
-22 Nous connaissons tous frère Billy Dauch qui est assis là dans ce coin. Oh, combien nous
-sommes reconnaissants à Dieu pour Ses grandes bénédictions! Puisse-t-il en être toujours ainsi
-avec nous jusqu’à ce que la dernière trompette sonne. Et alors, vous savez, nous serons tous
-enlevés ensemble pour rencontrer le Seigneur dans les airs. Pensez-y! Les gens qui sont partis ne
-peuvent plus vous voir, mais vous irez à la rencontre du reste du groupe. “Ceux qui seront vivants
-et resteront jusqu’à la venue du Seigneur n’empêcheront pas (ou ne retarderont pas, c’est le mot)
-ceux qui dorment”. Non pas les morts: les chrétiens ne meurent pas. Ils prennent simplement un
-peu de repos, c’est tout, vous voyez. Oh, mon Dieu! Et la trompette de Dieu sonnera et les morts
-en Christ se lèveront premièrement, apparaîtront à beaucoup. Et tout d’un coup vous vous
-trouverez debout en train de regarder et de dire: «Eh bien, voici un frère…». Et vous savez que ce
-ne sera pas long. En quelques minutes, en un moment, en un clin d’oeil, nous serons changés et,
-tous ensemble avec ceux qui ne sont plus sur cette terre, nous serons enlevés pour aller à la
-rencontre du Seigneur dans les airs.
-23 Et songez que tout ce que nous avons vu dans les Ecritures ainsi que les preuves évidentes
-de l’heure dans laquelle nous vivons nous permettent de penser que ceci pourrait arriver avant la
-fin de ce service! Pensez simplement à cela ce soir. Après avoir vu ces choses, nous pouvons
-nous approcher de Sa Parole. Nous allons voir Hébreux, chapitre 13 et nous lirons depuis le verset
-10, ou plutôt, excusez-moi, ce sera Hébreux 13, versets 10 à 14.
-24 Maintenant, comme je l’ai dit, quand nous prêtons serment de fidélité devant notre drapeau
-(ce qui est très bien), nous nous tenons toujours debout par respect pour notre nation que nous
-saluons. Et quand ils jouent “The Star Spangled banner”, l’hymne national, nous nous tenons
-debout et écoutons. Ainsi, en tant que soldats du Christ, tenons-nous debout et écoutons tandis
-que nous lisons la Parole de Dieu.
-25 Ecoutons attentivement la lecture de la Parole. La raison pour laquelle j’aime La lire, c’est
-parce que mes mots peuvent faillir, mais Sa Parole ne le fera pas. Si donc je ne lis que Sa Parole,
-vous serez bénis. Prenons le verset 10 dans Hébreux, chapitre 13:
-     “Nous avons un autel dont ceux qui servent le tabernacle n’ont pas le droit de manger,
-     car les corps des animaux dont le sang est porté, pour le péché, dans les lieux saints, par
-     le souverain sacrificateur, sont brûlés hors du camp. C’est pourquoi aussi Jésus, afin qu’il
-     sanctifiât le peuple par son propre sang, a souffert hors de la porte. Ainsi donc, sortons
-     vers lui hors du camp, portant son opprobre; car nous n’avons pas ici de cité
-     permanente, mais nous recherchons celle qui est à venir”.
-26 O Seigneur Dieu, Toi qui portes la responsabilité de cette Parole et celle d’en prendre soin
-tout au long des âges, Tu veilles à ce qu’Elle nous parvienne sans mélange… Cette Parole de
-Dieu est une vierge pure. C’est ainsi qu’en ce moment nous La chérissons dans notre coeur.
-        http://www.cmpp.ch
-
-ALLANT AU-DELA DU CAMP 5
-Ouvre ce texte, Seigneur, et développes-en le contenu pour nous ce soir afin que nous, les
-enfants de l’homme, puissions comprendre l’ordre du Seigneur. Nous le demandons au Nom de
-Jésus. Amen.
-27 Mon sujet de ce soir sera: Aller au-delà du camp. C’est vraiment un petit sujet, il est un peu
-étrange. Mais vous savez qu’habituellement nous trouvons Dieu dans des choses étranges. Le
-monde s’est tellement installé dans les choses traditionnelles, que dès que quelque chose s’écarte
-de la tendance générale, cela devient étrange; j’ai prêché là-dessus ici au Tabernacle il y a
-quelques jours, c’était sur L’original. Le fermier est un original pour l’homme d’affaires, l’homme
-d’affaires est un original pour le fermier, le chrétien est un original pour l’incroyant et ainsi de suite.
-Vous êtes forcément le fou de quelqu’un.
-28 Si vous faites quelque chose d’inhabituel, vous devenez en quelque sorte un fou pour ceux
-qui suivent la tendance générale. C’est pourquoi le peuple de Dieu, Ses prophètes et Ses
-messagers qui, à partir de la Parole ont porté Son Message à travers les âges, ont été considérés
-comme fous par les gens de l’extérieur.
-29 Noé était un fou pour le grand monde intellectuel auquel il prêchait. Moïse était certainement
-un fou pour Pharaon: alors qu’il avait un pied sur le trône, il y renonça pour ce qu’ils pensaient
-n’être qu’un tas d’esclaves boueux. Et Jésus était un fou pour le peuple. Et tous les autres qui
-travaillèrent et vécurent pour Dieu furent considérés comme des fous. Ils durent aller au-delà du
-camp dans lequel ils se trouvaient.
-30 Je suis de plus en plus porté à croire que les gens ne viennent pas à Christ. Mais je suis ici
-afin de faire mon possible pour aider de quelque manière que ce soit et pour rendre mes
-déclarations aussi claires que je suis capable de le faire. Et en quelque sorte vous souffrez avec
-moi.
-31 Tandis que je prêche dans tout le pays et que j’observe les gens, je suis entièrement
-persuadé qu’ils ne viennent pas à Christ. Et je crois que c’est l’ennemi qui dresse des obstacles…
-La raison pour laquelle je crois cela, c’est que les gens n’ont pas été dirigés vers Lui. Ils ont été
-dirigés soit vers un dogme ou une doctrine, soit vers une partie de plaisir ou expérience, ou
-une sensation, ou quelque chose de la sorte, au lieu d’être dirigés vers Christ, la Parole.
-C’est pourquoi je crois que les gens font reposer leur destination éternelle sur quelque dogme ou
-quelque sensation; ils disent: «J’ai dansé dans L’Esprit » ou «J’ai parlé en langues!», «J’ai senti un
-feu me parcourir!». Et savez-vous que toutes ces choses peuvent être imitées par le diable? Il n’y
-a qu’une chose qu’il ne peut pas imiter: c’est la Parole!
-32 Lors de son débat avec Jésus, Jésus le battit à chaque fois en disant: “Il est écrit!”. C’était la
-Parole. Et la raison pour laquelle je crois qu’aujourd’hui les gens ne viennent pas à Christ
-est que la plupart d’entre eux sont dirigés vers une dénomination. «Venez vous joindre à
-notre église!» ou «Lisez notre catéchisme!» ou «Croyez notre doctrine!» ou quelque système de la
-sorte. Ils sont dirigés de la mauvaise manière! Et leurs actions ainsi que leur vie, qu’ils mènent
-sans Christ, prouvent et confirment exactement cela dans leur propre vie.
-33 Je ne veux blesser les sentiments de personne, mais par exemple j’ai condamné à travers
-tout le pays les femmes portant des cheveux courts. C’est la Bible. J’ai condamné les femmes
-portant des shorts, se maquillant; et cela empire chaque année. Cela montre qu’il y a quelque
-part un autre doigt leur indiquant un autre chemin. Et ils n’arrivent pas à se frayer un
-chemin jusqu’à Christ.
-34 Et ils disent: «Nous appartenons à une église; notre église ne dit pas que…». Ce que croit
-votre église ne fait aucune différence; Dieu a dit: “C’est faux!”. Et si vraiment ils allaient à Christ, ils
-arrêteraient de faire cela, et non pas seulement cela, mais s’il allait à Christ, chaque homme
-prendrait sa position et serait contre ces choses. Les maris ne laisseraient pas leurs femmes agir
-ainsi. Un homme véritable ne veut pas que sa femme agisse de la sorte.
-35 L’autre jour, ici dans la ville, un jeune homme a voulu tuer deux jeunes garçons. Ils se
-trouvaient à une certaine station-service (vous qui êtes de Jeffersonville l’avez vu dans le journal),
-lorsque cette jeune fille est entrée là et elle était presque nue. Et les deux jeunes gens qui étaient
-installés là firent une remarque, et son compagnon voulut tuer les deux garçons; on l’arrêta pour
-cela et il comparut devant le tribunal. Et le juge lui demanda: «Pourquoi était-elle habillée ainsi?».
-     Il dit: «Je trouve qu’ainsi, elle a l’air mignonne!».
-
-        http://www.cmpp.ch
-
-ALLANT AU-DELA DU CAMP 6
-36 Maintenant, il y a quelque chose qui ne va pas avec cet homme. Peu importe qu’il soit… S’il
-est un pécheur, c’est que quelque chose ne va pas avec lui. Son amour pour cette femme ne peut
-être véritable lorsqu’il la livre ainsi en appât pour les chiens. Quelque chose ne va pas. Les
-hommes ont-ils jamais réussi à comprendre qu’ils ont la possibilité de juger ce qui est juste
-et ce qui est faux?
-37 Avez-vous vu les nouveaux maillots de bains qu’ils ont sortis? Savez-vous qu’il y a trente-trois
-ans, j’avais prédit que les femmes en viendraient à porter des feuilles de figuier? Et maintenant ils
-ont réussi à leur faire porter des feuilles de figuier et des jupes transparentes. La Parole du
-Seigneur ne faillit jamais. Et c’est ce qui devait arriver juste avant la fin des temps, elles devaient
-revenir à la feuille de figuier. Je lisais cela dans le Life Magazine. Cela a été dit il y a trente-trois
-ans avant que les femmes n’amorcent leur chute. Il fut dit comment elles agiraient en ce jour,
-comment elles porteraient des vêtements d’hommes et comment leur immoralité s’insinuerait dans
-cette nation. Il n’y a pas de nation au monde qui soit tombée plus bas que cette Amérique. Elle est
-la plus dégoûtante de toutes. Ceci est en accord avec les statistiques.
-38 Le taux de mariages et de divorces est plus haut dans cette nation que partout ailleurs dans le
-monde. Nous avions coutume de prendre modèle sur la France, nous importions l’obscénité et la
-souillure de cette nation, et maintenant ce sont les gens de cette nation qui veulent s’habiller
-comme nous. Nous sommes allés au-delà de leurs normes.
-39 Je sais qu’il y a certaines raisons pour lesquelles les gens ne viennent pas à Christ. Jésus
-souffrit hors des portes afin de pouvoir sanctifier Son peuple par Son propre Sang. Le mot
-“sanctification” est un mot composé d’origine grecque signifiant: “Nettoyé et mis à part pour le
-service”. Et quand Dieu nettoie Son peuple avec le Sang de Jésus, Il le nettoie de la saleté du
-monde et le met à part pour le service. “C’est pourquoi aussi Jésus, afin qu’il sanctifiât le peuple
-par son propre sang, a souffert hors de la porte” (Hébreux 13.12).
-40 Même dans le plein Evangile, des gens sont retournés dans cette ornière dont ils étaient
-sortis. Qu’était l’église pentecôtiste il y a quarante ou cinquante ans? Ils maudirent, condamnèrent
-et ridiculisèrent les églises et les dénominations dont ils étaient sortis. Puis que firent-ils? Tout
-comme un chien qui retourne à ce qu’il a vomi et une truie à sa fange, ils retournèrent tout droit à
-ce lieu dont ils avaient été tirés. Et à présent, leurs églises sont tout aussi impures que les autres.
-41 C’est un peu comme ce que j’ai dit ce matin. Les gens sont comme ce que disait Pierre dans
-Matthieu 17.4: “Il est bon que nous soyons ici, dressons trois tentes”.
-42 Mais l’Esprit leur ordonna de ne pas le faire et Il dit: “Celui-ci est mon Fils bien-aimé,
-écoutez-le!”. Et Il est la Parole. C’est à Lui que nous devons regarder, à Lui la Parole, non à notre
-enthousiasme ni à quelque autre chose. “Il est ma Parole, écoutez-Le”. Et que virent-ils après que
-la Voix leur eut parlé? Même Moïse et Elie n’étaient pas présents, il n’y avait pas non plus de
-credo; il n’y avait rien d’autre que Jésus. Et Il est la Parole. C’est tout ce qu’ils virent.
-43 Maintenant, sortant hors du camp… Nous voyons que ce grand événement eut lieu sur le
-mont de la Transfiguration, ou comme Pierre l’appela plus tard: “la sainte montagne”; ce fut là qu’Il
-les rencontra. Maintenant, je ne crois pas que l’apôtre ait voulu dire que la montagne était sainte. Il
-voulait dire qu’il y avait un Dieu saint sur la montagne. Il n’y a pas de sainte église, il n’y a pas de
-peuple saint; il y a l’Esprit Saint dans le peuple. L’Esprit est saint. Il est votre directeur et votre
-conducteur.
-44 Et nous voyons que sur ce petit camp là-haut sur la montagne de la Transfiguration, lorsqu’ils
-reçurent l’ordre d’écouter… La seule chose qu’ils avaient à faire était d’écouter la Parole! La seule
-chose qu’ils voyaient n’était pas un credo; ils ne virent rien d’autre que Jésus; et Il est la Parole
-faite chair. Quelle merveilleuse comparaison avec le même camp qui se trouvait dans le jardin
-d’Eden. Lorsque Dieu fortifia Son Eglise dans le jardin d’Eden, Son peuple avait un mur derrière
-lequel il devait rester: c’était la Parole. Ils avaient un bouclier, une armure, une seule chose car
-Dieu savait ce qui vaincrait le diable: c’était la Parole!
-45 Jésus fit la même chose: “C’est la Parole, il est écrit”. Et Satan essaya de maquiller cette
-Parole, non de la citer mais de la maquiller. Et Jésus dit: “Et il est aussi écrit”. Maintenant, nous
-devons rester avec cette Parole!
-46 Et dans ce petit camp que Pierre, Jacques et Jean avaient monté, il y avait aussi Jésus,
-Moïse et Elie. Et au milieu de leur camp ils virent l’Hôte Céleste de cette Colonne de Feu qui se
-tenait dans ce nuage et transfigurait le Seigneur Jésus. Et alors qu’ils étaient prêts à faire une
-        http://www.cmpp.ch
-
-ALLANT AU-DELA DU CAMP 7
-dénomination, une pour la loi, une pour les prophètes et ainsi de suite, la Voix dit: “Celui-ci est
-mon Fils bien-aimé, écoutez-Le!”. L’ordre qu’ils avaient reçu était exactement le même qu’en
-Eden: “Restez avec la Parole!”. C’est le Camp de Dieu pour Son peuple.
-47 Il semble qu’aujourd’hui ce soit un jour où les gens vont au-delà du camp en toutes choses. Ils
-vont au-delà.
-48 Il y a quelque temps, vous savez, on m’a dit que maintenant ils ont un avion à réaction: c’est
-cela qui fait tout ce bruit là autour et qui fait trembler les vitres. C’est lorsque l’avion a atteint une
-vitesse donnée, qu’il a dépassé sa propre vitesse du son, c’est ce qu’on appelle le mur du son. Et
-lorsqu’il dépasse le mur du son, ses capacités sont presque illimitées. Et je crois que ceci nous
-donne une leçon. Lorsque nous allons au-delà de notre propre mur du son dans la Parole de
-Dieu, alors il n’y a pas de limite à ce que Dieu peut faire avec nous, avec un homme qui est
-prêt à aller au-delà du camp, c’est-à-dire de l’homme.
-49 Nous voyons maintenant ce que signifie aller au-delà du camp. Je vois que Satan lui aussi
-emmène son peuple au-delà du camp de la raison, au-delà du camp du bon sens. Satan a
-emmené son peuple de l’autre côté, au-delà du camp; Dieu a emmené Son peuple au-delà du
-camp, mais par cet autre chemin. Et Satan a emmené son peuple au-delà du camp de la décence
-élémentaire. Lorsque cela en arrive à un point tel que le peuple peut agir, faire ces choses, et se
-laisser aller comme ils le font en ce qui concerne la morale… Cela dépasse mon entendement de
-voir qu’un homme peut laisser sa femme sortir habillée ainsi, puis gifler quelqu’un pour l’avoir
-insultée. Cela dépasse le sens commun. Il devrait savoir agir mieux que cela. C’est hors de la
-décence élémentaire.
-50 Où cela va-t-il s’arrêter? Je pourrais demander cela à un homme ou une femme de mon âge.
-Que serait-il arrivé il y a cinquante ans si ma mère ou votre mère était sortie dans la rue en portant
-un de ces shorts ou bikinis comme vous les appelez? La loi aurait ordonné qu’on les arrête
-immédiatement pour les mettre dans un asile de fous. Si une femme sortait de la maison sans ses
-vêtements du haut, on la mettait dans un asile, car en elle quelque chose n’allait pas mentalement.
-Et si ce n’était pas normal alors d’agir ainsi, et que c’était certainement un signe de folie, il s’agit
-encore aujourd’hui d’une déficience mentale. La personne est allée au-delà de la raison, c’est de
-la corruption morale.
-51 Et lorsqu’un homme peut fumer des cigarettes, alors que les médecins lui ont prouvé que des
-milliers de gens en meurent chaque année, et qu’il continue à jeter en l’air des bouffées de fumée
-de cigarettes, cela donne l’impression que quelque chose ne va pas avec son esprit. Or lorsqu’un
-homme a un choc mental et qu’il ne s’en sort pas tout seul, il fera le tour de tous les médecins du
-pays pour découvrir ce qui ne va pas avec lui. Mais ensuite, il se tiendra au bar, ou dans sa voiture
-et boira jusqu’à en devenir complètement fou; il dépensera tout son argent pour se fourrer
-là-dedans. Et s’il ne va pas s’intoxiquer avec des liqueurs, alors il dépensera chaque centime qu’il
-pourra trouver pour que le médecin essaie de découvrir ce qui ne va pas avec lui. Cela n’a pas de
-sens.
-52 Si un jeune faucon venait à survoler la ville et que je prenne mon fusil, sorte dans mon jardin
-et tire sur ce faucon, je me retrouverais en prison en moins de dix minutes. Ils m’arrêteraient pour
-conduite désordonnée, maniement d’armes en ville, mise en danger de la vie des gens avec un
-fusil en tirant en l’air sur un faucon. Ils diraient que j’aurais pu tuer quelqu’un. Je devrais être mis
-en prison. Et d’un autre côté, ils vendront à un homme suffisamment de liqueur pour le rendre ivre
-et le fourreront dans une voiture qui pourrait tuer une famille entière; et lorsqu’on l’attrapera, il aura
-une amende de cinq dollars plus les frais. C’est un meurtre prémédité! Qu’est-ce qui ne va pas
-avec le monde? Quelque chose ne va pas quelque part.
-53 Aller au-delà du camp, au-delà de la décence, au-delà de la raison. Remarquez que nos
-hommes politiques d’aujourd’hui ne parleront pas de lire la Bible à l’école. Ils ont peur, ils ne
-savent pas de quel côté va souffler le vent. Ils ne savent pas s’ils perdront ou non un vote.
-54 Nous avons besoin d’un autre Abraham Lincoln; nous avons besoin d’un autre John Quincy
-Adams; nous avons besoin de quelqu’un qui se tienne là sans regarder d’où souffle le vent et qui
-dise quelle est sa réelle conviction. Aujourd’hui, bien que vous lui montriez la vérité de la Parole,
-un prédicateur dénominationnel ne sait pas que faire. Il a peur de perdre son ticket de repas.
-Aujourd’hui, nous avons besoin d’hommes et de femmes qui brûlent du feu de l’Evangile, nous
-avons besoin de personnes qui se tiennent là et disent leurs convictions, qui montrent ce qui est
-        http://www.cmpp.ch
-
-ALLANT AU-DELA DU CAMP 8
-juste et ce qui est faux, qui montrent si c’est la Parole de Dieu qui est juste, ou bien la
-dénomination.
-55 Jésus dit: “Que toute parole d’un homme soit reconnue menteuse et la mienne véridique. Le
-ciel et la terre passeront, mais ma Parole ne passera pas!”. Vous voyez donc qu’ils vont au-delà
-du camp de la Parole de Dieu pour trouver leur réponse.
-56 Qu’est-ce qui les a persuadés de sortir du camp de la Parole de Dieu? Ce qu’il fit pour Eve
-dans le jardin d’Eden, Satan l’a fait également aujourd’hui. Très bien. C’est ce que nous
-découvrons. Les gens ont été persuadés de sortir du camp pour aller dans le camp de leurs
-dogmes et de leurs credo. Ils ont aussi un camp et ils se tiennent dans son camp. Le camp de
-Satan est celui de l’éducation, de la théologie, des oeuvres, des diplômes de docteurs, de
-l’instruction, de la personnalité, de tout ce qui est contre le camp de la Parole de Dieu. Dieu a un
-camp pour Son peuple. La dénomination a son propre camp.
-57 Il y a trois mille ans, un homme pouvait rencontrer Dieu presque n’importe où. C’était quelque
-chose de courant pour un homme de rencontrer Dieu. Mais pourquoi ne Le rencontrent-ils pas
-aujourd’hui? Il y a beaucoup plus de gens; il y a des milliers, des millions de fois plus de gens qu’il
-y en avait il y a trois mille ans. Et pourtant Dieu est considéré comme une chose ancienne dont on
-avait l’habitude de parler, c’est de l’histoire ancienne. Les gens ne rencontrent pas Dieu en
-personne comme ils le faisaient il y a bien longtemps, il y a environ trois mille ans, ainsi que je l’ai
-dit, il n’est plus courant pour un homme de rencontrer Dieu. Si un homme parle de cela on le
-considère comme un fou, comme quelqu’un qui a perdu l’esprit. Cela est tellement peu courant
-pour eux.
-58 Dans le cas d’Abraham et de son camp, eh bien, Abraham avait presque chaque jour
-l’occasion de rencontrer Dieu. Il Lui parlait. Et non seulement cela, mais nous découvrons que
-lorsqu’ils allèrent séjourner à Guérar, Dieu se trouvait dans le camp d’un Philistin, Abimélec.
-C’était une chose très courante. Ils vivaient en Sa présence dans le camp. Aujourd’hui ils vivent
-dans leur propre camp, et ils n’ont rien à faire avec le Camp de Dieu. Ils ne veulent rien avoir à
-faire avec Lui car pour tout le monde c’est du fanatisme. Mais souvenez-vous que lorsque Dieu
-installa le premier camp pour Son peuple, Il les fortifia par Sa Parole. C’est ce qu’Il fait toujours.
-Mais dans leurs camps d’aujourd’hui, ce n’est pas ainsi qu’ils font. C’est la raison pour laquelle
-vous n’entendez pas beaucoup parler de Dieu.
-59 Maintenant, je crois que le camp… Nous voyons comment Dieu rencontra Moïse dans le
-désert. Moïse avait un camp là-bas, de l’autre côté du désert, où il faisait paître le troupeau de son
-beau-père, Jéthro. Et il arriva un jour que ce vieux berger de quatre-vingts ans vit une lumière ou
-une colonne de feu brûler dans un buisson. Et il rencontra Dieu, lui, un homme qui s’enfuyait loin
-de Dieu. Le lendemain… Parfois, le fait de rencontrer Dieu vous pousse à faire des choses
-inhabituelles. Le lendemain, Moïse n’avait pas son comportement habituel. Il fit asseoir sa femme
-à califourchon sur une mule, elle prit son bébé sur la hanche; on pouvait le voir, lui, avec sa longue
-barbe pendante et un bâton noueux à la main, descendre en Egypte afin de prendre possession
-de la nation. Quel spectacle ridicule c’était! “Où vas-tu, Moïse?”.
-     — “Je vais en Egypte”.
-     — “Pourquoi?”.
-60 — “Pour prendre le pouvoir”. Il avait rencontré Dieu. Une invasion faite par un seul homme!
-Cela semblait terriblement étrange. Mais le plus étrange fut qu’il l’accomplit et cela parce qu’il avait
-rencontré Dieu! Tout comme une personne qui irait prendre possession de la Russie; c’est tout ce
-dont vous avez besoin: d’une personne qui soit dans la volonté de Dieu. Moïse était dans la
-volonté de Dieu; c’était un bâton noueux qu’il avait à la main et non une épée, un bâton. Dieu fait
-de ces choses inhabituelles.
-61 Mais souvenez-vous que, pour faire cela, Moïse dut sortir du camp dans lequel il avait
-vécu, car s’il avait été là-bas avec toute une armée, il n’aurait pas pu le faire. Il n’aurait pas pu le
-faire avec toutes les armées d’Egypte. Mais un jour, Dieu l’invita dans Son camp. Moïse dit: “Qui
-es-Tu?”.
-62 Dieu dit: “Je suis CELUI QUI SUIS!”. Non pas j’étais, ni je serai, mais au présent: JE SUIS.
-“Je suis le Dieu d’Abraham, d’Isaac et de Jacob. J’ai entendu les cris de mon peuple et je me
-souviens de ma promesse. Et maintenant le temps est venu pour que cette promesse soit
-accomplie. Moïse, je t’envoie là-bas avec ce bâton qui est dans ta main”. Qu’était-ce?
-
-        http://www.cmpp.ch
-
-ALLANT AU-DELA DU CAMP 9
-63 Le peuple pensa alors qu’il était fou, mais qu’avait-il fait? Il était sorti de son propre camp.
-Pharaon l’avait éduqué pendant quarante ans dans l’école de son camp, et il échoua. Et il fallut à
-Dieu quarante autres années pour lui ôter cela. Il dut lui ôter toute son éducation et toute sa
-théologie dont il avait été enseigné. Il fallut quarante ans pour le débarrasser de cela, puis Dieu
-utilisa pendant quarante ans.
-64 Dieu a beaucoup de mal pour préparer Ses hommes. Mais voyez-vous, Il n’aurait jamais pu
-utiliser Moïse avant que celui-ci ne sorte de son propre camp fait par des hommes. Moïse devait
-abandonner cette manière militaire d’agir, il devait abandonner sa manière naturelle d’agir au
-profit de la manière surnaturelle. Alors seulement, lorsqu’il serait dans ce camp, Dieu pourrait
-l’utiliser.
-65 Maintenant, nous découvrons que dans ce désert… Nous remarquons que lorsqu’ils eurent
-pris position et sortirent d’Egypte pour aller dans le camp de Dieu, lorsqu’ils furent sortis du camp
-des prêtres qui leur disaient: “Considérez-vous comme étant des esclaves jusqu’à la fin des
-temps!…”. Lorsque le prophète Moïse descendit et donna la preuve que la Parole de Dieu était
-près de s’accomplir, que le Dieu qui avait fait la promesse était là pour délivrer le peuple, ils
-partirent du camp où ils étaient pour aller dans le camp de la Parole de Dieu promise pour
-l’heure. Ils crurent ce prophète car le signe de l’authentification prouvait qu’il s’agissait exactement
-de la Parole de Dieu. Et les choses qu’il fit prouvèrent que c’était juste, et la Colonne de Feu qui le
-suivait prouvait que c’était la Parole de Dieu.
-66 Maintenant, dans ce camp il y avait des miracles, des signes et des merveilles. Ils sortirent
-dans le désert. Ils laissèrent leur camp naturel; ils laissèrent leur camp de boue; ils laissèrent leur
-camp fait de paille et de briques pour demeurer dans des tentes là-bas dans le désert où il n’y
-avait pas de blé ni rien d’autre. Parfois Dieu nous demande de faire des choses qui paraissent
-insensées à notre pensée. Et si jamais vous quittez le camp de votre propre raison, c’est
-alors que vous trouverez Dieu.
-67 Remarquez que tandis qu’ils sortirent dans le désert pour aller dans ce camp, il y eut des
-miracles et des signes. Maintenant, souvenez-vous qu’ils quittèrent le camp de l’Egypte et partirent
-dans le désert, dans le camp de Dieu. Comment savez-vous qu’il en fut ainsi? Dieu dit: “Ton
-peuple séjournera là pendant quatre cents ans, mais je l’en ramènerai avec une main puissante et
-je lui donnerai cette terre ici”. Et sur leur chemin, ils furent conduits par une Lumière authentifiée,
-par un prophète authentifié; des signes et des merveilles authentifiaient la présence de Dieu dans
-leur camp tout le long du chemin. Ils avaient une Colonne de Feu, ils avaient un prophète, ils
-avaient la manne, ils avaient l’eau vive. Amen! Ils avaient changé de campement. Ils devaient le
-faire; ils n’auraient pas pu voir ces choses en Egypte. Ils devaient changer de campement afin de
-voir le surnaturel.
-68 De même, les gens d’aujourd’hui doivent quitter le camp de leurs dénominations qui disent:
-«Le temps des miracles est passé. Une chose comme le baptême du Saint-Esprit n’existe plus.
-Toutes ces Ecritures sont fausses, c’était pour un autre âge!». Vous devez changer de
-campement. Aller au-delà de ce camp, là où toutes choses sont possibles.
-69 Toutes ces choses authentifiaient la présence de Dieu dans le camp. Maintenant remarquez.
-Après la mort de Moïse, ils organisèrent un camp fait de traditions et de credo humains. Mais Dieu
-avait traité avec ce peuple pendant de nombreuses années. Dieu n’est plus dans leur camp car
-ils se sont fabriqué eux-mêmes un camp.
-70 Souvenez-vous que lorsqu’ils furent appelés hors d’Egypte, Dieu les pourvut d’un prophète, Il
-les pourvut d’un agneau de sacrifice, Il les pourvut de tout ce dont ils avaient besoin: une parole,
-un signe, un miracle, un prophète pour les conduire, une expiation qui prendrait soin d’eux, une
-Colonne de Feu pour les diriger; et lorsqu’ils sortirent dans le désert, ils n’étaient toujours pas
-satisfaits. Ils voulaient quelque chose qu’ils auraient à faire eux-mêmes. La grâce de Dieu avait
-pourvu pour toutes ces choses; maintenant ils voulaient faire eux-mêmes quelque chose, ils
-voulaient se faire une organisation, ils voulaient faire des tas d’histoires et se bagarrer pour
-savoir qui serait grand-prêtre et qui serait ceci ou cela. Un jour Dieu dit: “Moïse, sépare-toi
-d’eux ” et Il les engloutit tout simplement dans les contradictions de Koré.
-71 Maintenant remarquez: tous ces signes et merveilles authentifiaient Sa présence. Puis les
-hommes se firent eux-mêmes un camp, un camp de credo et de traditions, non un camp avec la
-Parole de Dieu mais leur propre camp. Il dut les quitter car Il est la Parole. Il ne peut rester avec
-        http://www.cmpp.ch
-
-ALLANT AU-DELA DU CAMP 10
-des gens à qui l’on enseigne à quitter cette Parole. Dieu ne peut rester dans ce camp. Il ne peut
-pas faire cela! Il ne l’a jamais fait. Il doit rester exactement où se trouve Sa Parole.
-72 Lorsqu’Il dut quitter le camp de toute cette assemblée de gens qu’Il avait fait sortir d’Egypte, Il
-demeura seulement dans Ses prophètes à qui Sa Parole venait. La Parole venait au
-prophète pour authentifier l’heure. Il habita parmi les prophètes et leur révéla de quelle manière
-le peuple avait maudit cette chose. Et Dieu leur enseigna Ses commandements et de quelle
-manière ils devaient vivre. Et le peuple était toujours contre cela et il persécutait le prophète
-jusqu’à finalement s’en débarrasser en le lapidant ou en le sciant en morceaux.
-73 Jésus dit: “Lequel d’entre les prophètes vos pères n’ont-ils pas mis à mort? Lequel ne
-tuèrent-ils pas parmi ces justes qui leur furent envoyés et leur dirent: “Vous faites les mêmes
-oeuvres que votre père!”… Ce n’est pas aux communistes qu’Il parlait; Il parlait aux prêtres, aux
-gens des dénominations, aux pharisiens et aux sadducéens. Je suppose que ce soir Sa voix ne
-changerait pas beaucoup, peut-être leur parlerait-elle même un peu plus durement.
-74 Nous découvrons qu’Il demeura alors parmi Ses prophètes. Il devint pourtant un étranger pour
-eux, car Il demeure seulement dans Sa Parole afin de La confirmer. La Bible dit qu’Il veille sur Sa
-Parole afin de La confirmer. Il essaie de troubler quelqu’un qui… S’Il peut seulement obtenir un
-homme au coeur partagé comme Samson… Samson soumit sa force à Dieu mais il donna son
-coeur à Delila. C’est ainsi que nous agissons souvent aujourd’hui: nous donnons quelque chose à
-Dieu mais pas tout. Mais Dieu veut tout.
-75 C’est comme avec une police d’assurance. Lorsque vous prenez une police d’assurance,
-vous feriez bien de prendre une assurance tous risques. Et c’est ce que cette Assurance bénie fait
-pour nous. Elle couvre tout ce dont nous avons besoin ici dans cette vie, elle couvre aussi notre
-résurrection et la Vie éternelle; elle comprend tout.
-76 Remarquez! Dieu resta ensuite hors de leur camp pendant quatre cents ans. Pourquoi
-cela? Il n’avait plus de prophètes. Depuis le prophète Malachie au prophète Jean, il s’écoula
-quatre cents ans et Israël n’avança pas d’un pas. Dieu était hors du camp. Par leurs credo, leur
-égoïsme et leur écart d’avec la Parole, ils Le mirent dehors. Quatre cents ans sans la Parole! Il
-voyagea d’un prophète à l’autre jusqu’au dernier prophète, lequel fut Malachie; puis il n’y eut plus
-d’autre prophète pendant quatre cents ans.
-77 Puis Dieu vint de nouveau sur scène. Un jour, Il marcha de nouveau parmi eux; mais leurs
-traditions avaient tellement pris la place de Dieu parmi eux qu’Il leur fut étranger. La tradition des
-pères avait… Il y avait certains récipients pour se laver, ils devaient arranger leurs cheveux d’une
-certaine manière, ils devaient porter certains boutons sur leur vêtement et les prêtres portaient
-certainement des robes doublées de fourrure. Les uns étaient des pharisiens à toute épreuve, les
-autres des sadducéens; et c’est cela qui avait pris la place de la Parole parmi ces hommes, au
-point que lorsque Dieu les visita, Il leur fut étranger.
-78 Puissé-je dire cela avec amour et respect pour ramener les gens à la maison, C’est la même
-chose aujourd’hui! Cela n’a absolument pas changé! Quand Il vient au milieu du peuple avec Sa
-puissance et des manifestations afin de prouver que Sa Parole est la même hier, aujourd’hui et
-pour toujours (car Il est la Parole), les gens disent: “C’est un diseur de bonne aventure, un
-Béelzebul, un Jésus seul!” ou quelque chose comme cela. Ils vous classent quelque part. Mais il
-doit en être ainsi. Vous voyez, cela fait maintenant bientôt deux mille ans que nous n’avons pas eu
-de prophète. Vous savez que les nations n’en ont pas eu. Il en avait été promis un à la fin. Nous
-savons cela par l’Ecriture. Par l’histoire nous savons aussi que cela nous avait été promis.
-79 Après quatre cents ans, Dieu marcha un jour directement au milieu d’eux. Selon l’Ecriture, Il
-devait être fait chair et demeurer parmi eux. “Son Nom sera Conseiller, Prince de la Paix, Dieu
-puissant, Père éternel”. Et lorsqu’Il vint parmi le peuple, ils dirent: “Nous ne voulons pas que cet
-homme règne sur nous! Quelle carte de membre possède-t-il? Quelle dénomination l’envoie?”. Il
-ne coopérait avec personne; chaque église vers laquelle Il allait Le jetait dehors. Ils n’avaient rien
-à faire avec Lui car Il n’était pas l’un d’eux. Et comme il en fut alors, de même en est-il maintenant!
-La Bible dit que l’église de Laodicée Le mettrait dehors et qu’Il frapperait à la porte pour essayer
-d’entrer. Quelque chose est faux quelque part.
-80 Maintenant, pourquoi cela? Parce qu’ils avaient fait leur propre camp. S’ils avaient connu la
-Parole, ils auraient su qui Il était. Jésus dit: “Sondez les Ecritures car c’est en Elles que vous
-pensez avoir la Vie éternelle; ce sont Elles qui vous diront Qui je suis!”. Voilà ce que disaient les
-        http://www.cmpp.ch
+1 Restons debout juste un moment. Dieu bien-aimé, nous Te sommes reconnaissants pour ce privilège que Tu nous accordes à nouveau de nous tenir dans la maison de Dieu et d’adorer le Dieu vivant. Nous sommes tellement reconnaissants que Tu nous accordes encore ce privilège sur la terre. Et, Seigneur, nous sommes également reconnaissants pour ces gens fidèles dont la plupart sont venus de centaines et de centaines de kilomètres à la ronde. Et certains d’entre eux tenteront ce soir de se frayer leur chemin de retour sur ces grandes routes battues de la tempête. O Dieu, je Te prie d’être avec eux et de les aider. Père, sois leur guide.
+2 Nous Te remercions pour cette petite averse qui rafraîchit momentanément l’atmosphère. Et Père, nous Te prions de venir ce soir à notre rencontre au travers de Ta Parole, car c’est pour cela que nous nous sommes assemblés, Seigneur: pour Te rencontrer au travers de Ta Parole. Aide-nous, Seigneur, afin que notre rencontre soit bénéfique pour Ton Royaume; puissions-nous être aidés et en aider d’autres. Accorde-nous ces choses que nous Te demandons dans le Nom de Jésus. Amen. (Vous pouvez vous asseoir.)
+3 Je viens d’avoir ici quelques entretiens en privé. Et juste avant que la réunion ne commence, Billy m’en a donné une telle liste que je sais à peine par où commencer. Mais nous prions Dieu de vous bénir car vous avez fait l’effort de rester pour la réunion du soir.
+4 Maintenant, si Dieu le permet, j’aurai de nouveau un service dimanche prochain. Je viens de parler au pasteur, et pour eux tout va bien.
+5 Maintenant, j’aurais aimé avoir le temps de reconnaître chacun des bons amis que j’ai ici, mais je sais que vous attendez. Il fait très chaud. Je passerai donc par-dessus cela et dirai simplement ceci: «Dieu vous bénisse!».
+6 Vous savez, je ne connais pas de plus grande chose que l’on puisse demander pour moi que celle-ci: «Que Dieu vous bénisse!». Vous voyez? S’Il fait cela, c’est tout ce dont j’ai besoin. Je pense que c’est la plus grande parole de notre langue: «Dieu vous bénisse!». Et je sais qu’Il le fait.
+7 Comme je le disais il y a quelques instants à ma femme: j’essayais de prendre un bain et ne parvenais pas à me sécher. Je me séchais, puis j’étais tout de suite de nouveau mouillé. Je me séchais mais je n’arrivais même pas à enfiler ma chemise. A Tucson, c’est un peu différent. Il fait environ deux fois plus chaud qu’ici mais vous ne transpirez pas. Il n’y a pas cette humidité de l’air, aussi tout est sec dès que vous sortez. Vous posez un seau d’eau là dehors et tout s’évapore. Vous ne pouvez transpirer car la sueur s’évapore avant même que vous ne puissiez transpirer. Vous transpirez bien, seulement vous ne vous en apercevez jamais. Alors qu’ici j’ai passé un mauvais quart d’heure à essayer de me sécher. Et maintenant, je suis trempé de sueur.
+8 Lorsque je suis revenu dans la pièce ici, nous avions sept ou huit personnes qui avaient des besoins urgents et dont il fallait s’occuper immédiatement.
+9 Maintenant, si je vous ai demandé de rester par là pour revenir ici ce soir, c’est que j’ai le sentiment que cela nous serait bénéfique. Autrement, mes amis, je n’aurais pas fait cela. J’ai trop de considération envers vous pour vous faire venir simplement entendre quelqu’un ou écouter ce que j’ai à vous dire, ou quelque chose ainsi. Je ne ferais pas cela. Ce ne serait pas juste. Je ne montrerais pas mon amour pour vous en vous faisant venir simplement ainsi. Et je ne crois pas que vous viendriez, bien que je sache que vous m’aimez autant que je vous aime. Ainsi je sais que vous ne feriez pas ce que vous faites. J’ai donc suffisamment de considération envers vous pour ne pas vous faire venir dans cette chaleur et toutes ces choses si je ne pensais pas que c’est quelque chose qui vous aide.
+10 Ainsi avant de venir ici, j’essaye de faire de mon mieux devant Dieu pour choisir un petit quelque chose, un passage de l’Ecriture, et la dernière chose que je fais avant de partir est de demander qu’Il me guide: «Seigneur, aide-moi et tout ce que Tu peux, donne-le à ces gens que j’aime». Et je crois et j’espère que je vivrai toujours avec vous. Je crois qu’il s’agit là des plus courts moments que nous passions ensemble. Nous serons ensemble dans l’éternité. Vous voyez? Je le crois et je veux vous aider. Si je dis quelque chose de faux, notre Père céleste sait que ce n’est pas parce que j’en avais l’intention mais parce que je ne le savais pas; je l’ai fait sans le savoir.
+11 Ainsi, comme je sais que vous êtes sous ma responsabilité et que l’Evangile vous place entre mes mains, je veux garder constamment vos pensées justes dans les pages de cette Bible. Souvent des gens viennent à moi et disent: «Frère Branham, si vous pouviez simplement venir et dire: Ainsi dit le Seigneur à mon petit enfant qui est malade, cela serait très bien. Venez donc et dites simplement: Cela ira bien. C’est tout ce que je veux que vous fassiez».
+12 Maintenant, c’est loyal et charmant; combien j’apprécie cela. Mais vous savez, je ne peux pas faire cela avant qu’Il ne me l’ait dit premièrement. Vous voyez? Je peux prier pour l’enfant, faire tout ce qui est en mon pouvoir. Mais que se passerait-il si je disais une chose pareille sous l’influence de l’enthousiasme? Vous voyez? Si je disais: «Ainsi dit le Seigneur», ce serait vraiment sous l’influence de mon enthousiasme. Cela pourrait se réaliser comme cela pourrait très bien ne pas se réaliser. Mais que se passerait-il si cette même personne se trouvait sous l’influence de mon enthousiasme et que cela n’arriverait pas? Cette personne pourrait se trouver entre la vie et la mort. Où mettrait-elle alors sa confiance? Elle craindrait que je n’agisse de nouveau par enthousiasme, vous voyez. Ainsi quand je dis cela, je veux être absolument sûr que cela concorde exactement avec tout ce que je connais. Et quand Il me parle, je ne peux dire que ce qu’Il m’a montré. Je dois le dire, que cela soit bon ou mauvais. Il n’est parfois pas agréable de dire ces choses aux gens; pourtant je suis tout aussi contraint d’annoncer aux gens les mauvaises choses qui vont leur arriver que les bonnes choses.
+13 Nous voulons la volonté du Seigneur avant tout. La volonté du Seigneur est parfois contraire à nos désirs. Et pourtant si nous voulons la volonté du Seigneur, il nous est tout aussi précieux de savoir qu’il nous arrivera de mauvaises choses, si c’est la volonté du Seigneur. Que cela soit bon ou mauvais, nous voulons que la volonté du Seigneur s’accomplisse. Et je sais que c’est ainsi que nous considérons la chose.
+14 Maintenant, je sais que les frères ici ont l’habitude d’avoir un message de vingt ou trente minutes le dimanche soir. Je ne sais pas si je pourrai faire cela ou pas, j’essaierai donc de faire du mieux que je peux.
+15 Je crois qu’il y aura un service de baptême juste après cela. J’ai entendu dire que ce matin ils ont baptisé un important groupe de gens. Constamment des baptêmes ont lieu ici. Des pasteurs, méthodistes, baptistes, presbytériens, luthériens, des gens de l’Eglise de Dieu et d’autres viennent pour être baptisés dans le Nom du Seigneur Jésus-Christ. Et lorsque je me tiendrai à la barre du jugement devant Dieu, j’aurai à répondre de cela. Et si je pensais que toutes choses dans ma vie sont aussi clairement justifiées que cela, je serais prêt pour l’enlèvement juste maintenant. Car je sais que c’est la vérité de l’Evangile. Vous voyez? C’est la vérité.
+16 Il n’y a pas un seul passage de la Bible indiquant qu’une personne fût baptisée d’une autre manière qu’au Nom de Jésus-Christ. L’ordre de mission: Père, Fils et Saint-Esprit est donné uniquement ainsi: “Allez, enseignez les nations et baptisez-les pour le Nom du Père, Fils et Saint-Esprit”. Il n’est pas dit d’invoquer ce titre sur eux mais de les baptiser pour le Nom du Père, Fils et Saint-Esprit, c’est-à-dire du Seigneur Jésus-Christ.
+17 Tous dans la Bible furent baptisés pour le Nom de Jésus-Christ: et la Bible dit que quiconque ôte un mot de cette Bible ou en ajoute un d’une quelconque manière, qu’il soit maudit! Ainsi je n’aurai jamais trop de crainte d’ajouter ou de retrancher quelque chose de l’Ecriture. Cela me cause souvent beaucoup de souci, mais je m’en tiens à cela. Il est ma défense. Cela a provoqué ma séparation d’avec plus d’un ami. Ils se sont séparés de moi à cause de cela. Mais tant que je garde cet Ami qui se trouve ici, le Seigneur Jésus… Et Il est la Parole! Peu importe combien le sentier est raboteux, combien le chemin est dur, Il continue à venir de la même manière. Et s’ils appelèrent le Maître de la maison Béelzébul, à combien plus forte raison appelleront-ils Ses disciples ainsi.
+18 Maintenant, que le Seigneur soit avec vous tous et vous bénisse tout au long de cette semaine; ma prière est qu’Il vous donne le meilleur.
+19 A présent, nous allons lire dans la précieuse Parole. Et je vous rappelle à nouveau que mercredi soir… [Frère Branham parle à frère Neville au sujet des services — N.d.R.]. Lundi soir et mardi soir, il y aura des réunions de prière dans les maisons. Je pense que les gens le savent.
+20 Frère Junior Jackson est-il dans la salle? Il est ici. Très bien. Il y a aussi un autre frère Jackson. Et frère Don Ruddel est-il ici dans la salle ce soir? Frère Don? Il est là-bas. Et beaucoup d’autres frères. Je vois qu’il y a les frères d’Arkansas et de Louisiane et de différents endroits du pays.
+21 Et j’ai aussi un frère aîné ce soir ici. Frère Thomas Kidd est assis là-bas sur la droite; dans quelques jours il aura quatre-vingt-quatre ans. Et il y a environ deux ou trois ans, il a été opéré de la prostate et il mourait du cancer. Le docteur l’avait simplement abandonné et il devait mourir. Et c’est pour me rendre auprès de lui dans l’Ohio que j’ai abîmé ma vieille voiture. Et le Seigneur l’a guéri complètement et ce soir il se trouve ici avec sa petite compagne. Beaucoup parmi vous les connaissent; peut-être que certains ne les connaissent pas. Voici un homme et sa femme qui prêchaient l’Evangile avant que je ne naisse. Pensez-y. Or je suis un vieil homme. Vous voyez? Et maintenant je les regarde et je vois qu’ils persévèrent et cela me donne du courage.
+22 Nous connaissons tous frère Billy Dauch qui est assis là dans ce coin. Oh, combien nous sommes reconnaissants à Dieu pour Ses grandes bénédictions! Puisse-t-il en être toujours ainsi avec nous jusqu’à ce que la dernière trompette sonne. Et alors, vous savez, nous serons tous enlevés ensemble pour rencontrer le Seigneur dans les airs. Pensez-y! Les gens qui sont partis ne peuvent plus vous voir, mais vous irez à la rencontre du reste du groupe. “Ceux qui seront vivants et resteront jusqu’à la venue du Seigneur n’empêcheront pas (ou ne retarderont pas, c’est le mot) ceux qui dorment”. Non pas les morts: les chrétiens ne meurent pas. Ils prennent simplement un peu de repos, c’est tout, vous voyez. Oh, mon Dieu! Et la trompette de Dieu sonnera et les morts en Christ se lèveront premièrement, apparaîtront à beaucoup. Et tout d’un coup vous vous trouverez debout en train de regarder et de dire: «Eh bien, voici un frère…». Et vous savez que ce ne sera pas long. En quelques minutes, en un moment, en un clin d’oeil, nous serons changés et, tous ensemble avec ceux qui ne sont plus sur cette terre, nous serons enlevés pour aller à la rencontre du Seigneur dans les airs.
+23 Et songez que tout ce que nous avons vu dans les Ecritures ainsi que les preuves évidentes de l’heure dans laquelle nous vivons nous permettent de penser que ceci pourrait arriver avant la fin de ce service! Pensez simplement à cela ce soir. Après avoir vu ces choses, nous pouvons nous approcher de Sa Parole. Nous allons voir Hébreux, chapitre 13 et nous lirons depuis le verset 10, ou plutôt, excusez-moi, ce sera Hébreux 13, versets 10 à 14.
+24 Maintenant, comme je l’ai dit, quand nous prêtons serment de fidélité devant notre drapeau (ce qui est très bien), nous nous tenons toujours debout par respect pour notre nation que nous saluons. Et quand ils jouent “The Star Spangled banner”, l’hymne national, nous nous tenons debout et écoutons. Ainsi, en tant que soldats du Christ, tenons-nous debout et écoutons tandis que nous lisons la Parole de Dieu.
+25 Ecoutons attentivement la lecture de la Parole. La raison pour laquelle j’aime La lire, c’est parce que mes mots peuvent faillir, mais Sa Parole ne le fera pas. Si donc je ne lis que Sa Parole, vous serez bénis. Prenons le verset 10 dans Hébreux, chapitre 13:
+> “Nous avons un autel dont ceux qui servent le tabernacle n’ont pas le droit de manger, car les corps des animaux dont le sang est porté, pour le péché, dans les lieux saints, par le souverain sacrificateur, sont brûlés hors du camp. C’est pourquoi aussi Jésus, afin qu’il sanctifiât le peuple par son propre sang, a souffert hors de la porte. Ainsi donc, sortons vers lui hors du camp, portant son opprobre; car nous n’avons pas ici de cité permanente, mais nous recherchons celle qui est à venir”.
+26 O Seigneur Dieu, Toi qui portes la responsabilité de cette Parole et celle d’en prendre soin tout au long des âges, Tu veilles à ce qu’Elle nous parvienne sans mélange… Cette Parole de Dieu est une vierge pure. C’est ainsi qu’en ce moment nous La chérissons dans notre coeur. Ouvre ce texte, Seigneur, et développes-en le contenu pour nous ce soir afin que nous, les enfants de l’homme, puissions comprendre l’ordre du Seigneur. Nous le demandons au Nom de Jésus. Amen.
+27 Mon sujet de ce soir sera: Aller au-delà du camp. C’est vraiment un petit sujet, il est un peu étrange. Mais vous savez qu’habituellement nous trouvons Dieu dans des choses étranges. Le monde s’est tellement installé dans les choses traditionnelles, que dès que quelque chose s’écarte de la tendance générale, cela devient étrange; j’ai prêché là-dessus ici au Tabernacle il y a quelques jours, c’était sur L’original. Le fermier est un original pour l’homme d’affaires, l’homme d’affaires est un original pour le fermier, le chrétien est un original pour l’incroyant et ainsi de suite. Vous êtes forcément le fou de quelqu’un.
+28 Si vous faites quelque chose d’inhabituel, vous devenez en quelque sorte un fou pour ceux qui suivent la tendance générale. C’est pourquoi le peuple de Dieu, Ses prophètes et Ses messagers qui, à partir de la Parole ont porté Son Message à travers les âges, ont été considérés comme fous par les gens de l’extérieur.
+29 Noé était un fou pour le grand monde intellectuel auquel il prêchait. Moïse était certainement un fou pour Pharaon: alors qu’il avait un pied sur le trône, il y renonça pour ce qu’ils pensaient n’être qu’un tas d’esclaves boueux. Et Jésus était un fou pour le peuple. Et tous les autres qui travaillèrent et vécurent pour Dieu furent considérés comme des fous. Ils durent aller au-delà du camp dans lequel ils se trouvaient.
+30 Je suis de plus en plus porté à croire que les gens ne viennent pas à Christ. Mais je suis ici afin de faire mon possible pour aider de quelque manière que ce soit et pour rendre mes déclarations aussi claires que je suis capable de le faire. Et en quelque sorte vous souffrez avec moi.
+31 Tandis que je prêche dans tout le pays et que j’observe les gens, je suis entièrement persuadé qu’ils ne viennent pas à Christ. Et je crois que c’est l’ennemi qui dresse des obstacles… La raison pour laquelle je crois cela, c’est que les gens n’ont pas été dirigés vers Lui. Ils ont été dirigés soit vers un dogme ou une doctrine, soit vers une partie de plaisir ou expérience, ou une sensation, ou quelque chose de la sorte, au lieu d’être dirigés vers Christ, la Parole. C’est pourquoi je crois que les gens font reposer leur destination éternelle sur quelque dogme ou quelque sensation; ils disent: «J’ai dansé dans L’Esprit » ou «J’ai parlé en langues!», «J’ai senti un feu me parcourir!». Et savez-vous que toutes ces choses peuvent être imitées par le diable? Il n’y a qu’une chose qu’il ne peut pas imiter: c’est la Parole!
+32 Lors de son débat avec Jésus, Jésus le battit à chaque fois en disant: “Il est écrit!”. C’était la Parole. Et la raison pour laquelle je crois qu’aujourd’hui les gens ne viennent pas à Christ est que la plupart d’entre eux sont dirigés vers une dénomination. «Venez vous joindre à notre église!» ou «Lisez notre catéchisme!» ou «Croyez notre doctrine!» ou quelque système de la sorte. Ils sont dirigés de la mauvaise manière! Et leurs actions ainsi que leur vie, qu’ils mènent sans Christ, prouvent et confirment exactement cela dans leur propre vie.
+33 Je ne veux blesser les sentiments de personne, mais par exemple j’ai condamné à travers tout le pays les femmes portant des cheveux courts. C’est la Bible. J’ai condamné les femmes portant des shorts, se maquillant; et cela empire chaque année. Cela montre qu’il y a quelque part un autre doigt leur indiquant un autre chemin. Et ils n’arrivent pas à se frayer un chemin jusqu’à Christ.
+34 Et ils disent: «Nous appartenons à une église; notre église ne dit pas que…». Ce que croit votre église ne fait aucune différence; Dieu a dit: “C’est faux!”. Et si vraiment ils allaient à Christ, ils arrêteraient de faire cela, et non pas seulement cela, mais s’il allait à Christ, chaque homme prendrait sa position et serait contre ces choses. Les maris ne laisseraient pas leurs femmes agir ainsi. Un homme véritable ne veut pas que sa femme agisse de la sorte.
+35 L’autre jour, ici dans la ville, un jeune homme a voulu tuer deux jeunes garçons. Ils se trouvaient à une certaine station-service (vous qui êtes de Jeffersonville l’avez vu dans le journal), lorsque cette jeune fille est entrée là et elle était presque nue. Et les deux jeunes gens qui étaient installés là firent une remarque, et son compagnon voulut tuer les deux garçons; on l’arrêta pour cela et il comparut devant le tribunal. Et le juge lui demanda: «Pourquoi était-elle habillée ainsi?». Il dit: «Je trouve qu’ainsi, elle a l’air mignonne!».
+36 Maintenant, il y a quelque chose qui ne va pas avec cet homme. Peu importe qu’il soit… S’il est un pécheur, c’est que quelque chose ne va pas avec lui. Son amour pour cette femme ne peut être véritable lorsqu’il la livre ainsi en appât pour les chiens. Quelque chose ne va pas. Les hommes ont-ils jamais réussi à comprendre qu’ils ont la possibilité de juger ce qui est juste et ce qui est faux?
+37 Avez-vous vu les nouveaux maillots de bains qu’ils ont sortis? Savez-vous qu’il y a trente-trois ans, j’avais prédit que les femmes en viendraient à porter des feuilles de figuier? Et maintenant ils ont réussi à leur faire porter des feuilles de figuier et des jupes transparentes. La Parole du Seigneur ne faillit jamais. Et c’est ce qui devait arriver juste avant la fin des temps, elles devaient revenir à la feuille de figuier. Je lisais cela dans le Life Magazine. Cela a été dit il y a trente-trois ans avant que les femmes n’amorcent leur chute. Il fut dit comment elles agiraient en ce jour, comment elles porteraient des vêtements d’hommes et comment leur immoralité s’insinuerait dans cette nation. Il n’y a pas de nation au monde qui soit tombée plus bas que cette Amérique. Elle est la plus dégoûtante de toutes. Ceci est en accord avec les statistiques.
+38 Le taux de mariages et de divorces est plus haut dans cette nation que partout ailleurs dans le monde. Nous avions coutume de prendre modèle sur la France, nous importions l’obscénité et la souillure de cette nation, et maintenant ce sont les gens de cette nation qui veulent s’habiller comme nous. Nous sommes allés au-delà de leurs normes.
+39 Je sais qu’il y a certaines raisons pour lesquelles les gens ne viennent pas à Christ. Jésus souffrit hors des portes afin de pouvoir sanctifier Son peuple par Son propre Sang. Le mot “sanctification” est un mot composé d’origine grecque signifiant: “Nettoyé et mis à part pour le service”. Et quand Dieu nettoie Son peuple avec le Sang de Jésus, Il le nettoie de la saleté du monde et le met à part pour le service. “C’est pourquoi aussi Jésus, afin qu’il sanctifiât le peuple par son propre sang, a souffert hors de la porte” (Hébreux 13.12).
+40 Même dans le plein Evangile, des gens sont retournés dans cette ornière dont ils étaient sortis. Qu’était l’église pentecôtiste il y a quarante ou cinquante ans? Ils maudirent, condamnèrent et ridiculisèrent les églises et les dénominations dont ils étaient sortis. Puis que firent-ils? Tout comme un chien qui retourne à ce qu’il a vomi et une truie à sa fange, ils retournèrent tout droit à ce lieu dont ils avaient été tirés. Et à présent, leurs églises sont tout aussi impures que les autres.
+41 C’est un peu comme ce que j’ai dit ce matin. Les gens sont comme ce que disait Pierre dans Matthieu 17.4: “Il est bon que nous soyons ici, dressons trois tentes”.
+42 Mais l’Esprit leur ordonna de ne pas le faire et Il dit: “Celui-ci est mon Fils bien-aimé, écoutez-le!”. Et Il est la Parole. C’est à Lui que nous devons regarder, à Lui la Parole, non à notre enthousiasme ni à quelque autre chose. “Il est ma Parole, écoutez-Le”. Et que virent-ils après que la Voix leur eut parlé? Même Moïse et Elie n’étaient pas présents, il n’y avait pas non plus de credo; il n’y avait rien d’autre que Jésus. Et Il est la Parole. C’est tout ce qu’ils virent.
+43 Maintenant, sortant hors du camp… Nous voyons que ce grand événement eut lieu sur le mont de la Transfiguration, ou comme Pierre l’appela plus tard: “la sainte montagne”; ce fut là qu’Il les rencontra. Maintenant, je ne crois pas que l’apôtre ait voulu dire que la montagne était sainte. Il voulait dire qu’il y avait un Dieu saint sur la montagne. Il n’y a pas de sainte église, il n’y a pas de peuple saint; il y a l’Esprit Saint dans le peuple. L’Esprit est saint. Il est votre directeur et votre conducteur.
+44 Et nous voyons que sur ce petit camp là-haut sur la montagne de la Transfiguration, lorsqu’ils reçurent l’ordre d’écouter… La seule chose qu’ils avaient à faire était d’écouter la Parole! La seule chose qu’ils voyaient n’était pas un credo; ils ne virent rien d’autre que Jésus; et Il est la Parole faite chair. Quelle merveilleuse comparaison avec le même camp qui se trouvait dans le jardin d’Eden. Lorsque Dieu fortifia Son Eglise dans le jardin d’Eden, Son peuple avait un mur derrière lequel il devait rester: c’était la Parole. Ils avaient un bouclier, une armure, une seule chose car Dieu savait ce qui vaincrait le diable: c’était la Parole!
+45 Jésus fit la même chose: “C’est la Parole, il est écrit”. Et Satan essaya de maquiller cette Parole, non de la citer mais de la maquiller. Et Jésus dit: “Et il est aussi écrit”. Maintenant, nous devons rester avec cette Parole!
+46 Et dans ce petit camp que Pierre, Jacques et Jean avaient monté, il y avait aussi Jésus, Moïse et Elie. Et au milieu de leur camp ils virent l’Hôte Céleste de cette Colonne de Feu qui se tenait dans ce nuage et transfigurait le Seigneur Jésus. Et alors qu’ils étaient prêts à faire une dénomination, une pour la loi, une pour les prophètes et ainsi de suite, la Voix dit: “Celui-ci est mon Fils bien-aimé, écoutez-Le!”. L’ordre qu’ils avaient reçu était exactement le même qu’en Eden: “Restez avec la Parole!”. C’est le Camp de Dieu pour Son peuple.
+47 Il semble qu’aujourd’hui ce soit un jour où les gens vont au-delà du camp en toutes choses. Ils vont au-delà.
+48 Il y a quelque temps, vous savez, on m’a dit que maintenant ils ont un avion à réaction: c’est cela qui fait tout ce bruit là autour et qui fait trembler les vitres. C’est lorsque l’avion a atteint une vitesse donnée, qu’il a dépassé sa propre vitesse du son, c’est ce qu’on appelle le mur du son. Et lorsqu’il dépasse le mur du son, ses capacités sont presque illimitées. Et je crois que ceci nous donne une leçon. Lorsque nous allons au-delà de notre propre mur du son dans la Parole de Dieu, alors il n’y a pas de limite à ce que Dieu peut faire avec nous, avec un homme qui est prêt à aller au-delà du camp, c’est-à-dire de l’homme.
+49 Nous voyons maintenant ce que signifie aller au-delà du camp. Je vois que Satan lui aussi emmène son peuple au-delà du camp de la raison, au-delà du camp du bon sens. Satan a emmené son peuple de l’autre côté, au-delà du camp; Dieu a emmené Son peuple au-delà du camp, mais par cet autre chemin. Et Satan a emmené son peuple au-delà du camp de la décence élémentaire. Lorsque cela en arrive à un point tel que le peuple peut agir, faire ces choses, et se laisser aller comme ils le font en ce qui concerne la morale… Cela dépasse mon entendement de voir qu’un homme peut laisser sa femme sortir habillée ainsi, puis gifler quelqu’un pour l’avoir insultée. Cela dépasse le sens commun. Il devrait savoir agir mieux que cela. C’est hors de la décence élémentaire.
+50 Où cela va-t-il s’arrêter? Je pourrais demander cela à un homme ou une femme de mon âge. Que serait-il arrivé il y a cinquante ans si ma mère ou votre mère était sortie dans la rue en portant un de ces shorts ou bikinis comme vous les appelez? La loi aurait ordonné qu’on les arrête immédiatement pour les mettre dans un asile de fous. Si une femme sortait de la maison sans ses vêtements du haut, on la mettait dans un asile, car en elle quelque chose n’allait pas mentalement. Et si ce n’était pas normal alors d’agir ainsi, et que c’était certainement un signe de folie, il s’agit encore aujourd’hui d’une déficience mentale. La personne est allée au-delà de la raison, c’est de la corruption morale.
+51 Et lorsqu’un homme peut fumer des cigarettes, alors que les médecins lui ont prouvé que des milliers de gens en meurent chaque année, et qu’il continue à jeter en l’air des bouffées de fumée de cigarettes, cela donne l’impression que quelque chose ne va pas avec son esprit. Or lorsqu’un homme a un choc mental et qu’il ne s’en sort pas tout seul, il fera le tour de tous les médecins du pays pour découvrir ce qui ne va pas avec lui. Mais ensuite, il se tiendra au bar, ou dans sa voiture et boira jusqu’à en devenir complètement fou; il dépensera tout son argent pour se fourrer là-dedans. Et s’il ne va pas s’intoxiquer avec des liqueurs, alors il dépensera chaque centime qu’il pourra trouver pour que le médecin essaie de découvrir ce qui ne va pas avec lui. Cela n’a pas de sens.
+52 Si un jeune faucon venait à survoler la ville et que je prenne mon fusil, sorte dans mon jardin et tire sur ce faucon, je me retrouverais en prison en moins de dix minutes. Ils m’arrêteraient pour conduite désordonnée, maniement d’armes en ville, mise en danger de la vie des gens avec un fusil en tirant en l’air sur un faucon. Ils diraient que j’aurais pu tuer quelqu’un. Je devrais être mis en prison. Et d’un autre côté, ils vendront à un homme suffisamment de liqueur pour le rendre ivre et le fourreront dans une voiture qui pourrait tuer une famille entière; et lorsqu’on l’attrapera, il aura une amende de cinq dollars plus les frais. C’est un meurtre prémédité! Qu’est-ce qui ne va pas avec le monde? Quelque chose ne va pas quelque part.
+53 Aller au-delà du camp, au-delà de la décence, au-delà de la raison. Remarquez que nos hommes politiques d’aujourd’hui ne parleront pas de lire la Bible à l’école. Ils ont peur, ils ne savent pas de quel côté va souffler le vent. Ils ne savent pas s’ils perdront ou non un vote.
+54 Nous avons besoin d’un autre Abraham Lincoln; nous avons besoin d’un autre John Quincy Adams; nous avons besoin de quelqu’un qui se tienne là sans regarder d’où souffle le vent et qui dise quelle est sa réelle conviction. Aujourd’hui, bien que vous lui montriez la vérité de la Parole, un prédicateur dénominationnel ne sait pas que faire. Il a peur de perdre son ticket de repas. Aujourd’hui, nous avons besoin d’hommes et de femmes qui brûlent du feu de l’Evangile, nous avons besoin de personnes qui se tiennent là et disent leurs convictions, qui montrent ce qui est juste et ce qui est faux, qui montrent si c’est la Parole de Dieu qui est juste, ou bien la dénomination.
+55 Jésus dit: “Que toute parole d’un homme soit reconnue menteuse et la mienne véridique. Le ciel et la terre passeront, mais ma Parole ne passera pas!”. Vous voyez donc qu’ils vont au-delà du camp de la Parole de Dieu pour trouver leur réponse.
+56 Qu’est-ce qui les a persuadés de sortir du camp de la Parole de Dieu? Ce qu’il fit pour Eve dans le jardin d’Eden, Satan l’a fait également aujourd’hui. Très bien. C’est ce que nous découvrons. Les gens ont été persuadés de sortir du camp pour aller dans le camp de leurs dogmes et de leurs credo. Ils ont aussi un camp et ils se tiennent dans son camp. Le camp de Satan est celui de l’éducation, de la théologie, des oeuvres, des diplômes de docteurs, de l’instruction, de la personnalité, de tout ce qui est contre le camp de la Parole de Dieu. Dieu a un camp pour Son peuple. La dénomination a son propre camp.
+57 Il y a trois mille ans, un homme pouvait rencontrer Dieu presque n’importe où. C’était quelque chose de courant pour un homme de rencontrer Dieu. Mais pourquoi ne Le rencontrent-ils pas aujourd’hui? Il y a beaucoup plus de gens; il y a des milliers, des millions de fois plus de gens qu’il y en avait il y a trois mille ans. Et pourtant Dieu est considéré comme une chose ancienne dont on avait l’habitude de parler, c’est de l’histoire ancienne. Les gens ne rencontrent pas Dieu en personne comme ils le faisaient il y a bien longtemps, il y a environ trois mille ans, ainsi que je l’ai dit, il n’est plus courant pour un homme de rencontrer Dieu. Si un homme parle de cela on le considère comme un fou, comme quelqu’un qui a perdu l’esprit. Cela est tellement peu courant pour eux.
+58 Dans le cas d’Abraham et de son camp, eh bien, Abraham avait presque chaque jour l’occasion de rencontrer Dieu. Il Lui parlait. Et non seulement cela, mais nous découvrons que lorsqu’ils allèrent séjourner à Guérar, Dieu se trouvait dans le camp d’un Philistin, Abimélec. C’était une chose très courante. Ils vivaient en Sa présence dans le camp. Aujourd’hui ils vivent dans leur propre camp, et ils n’ont rien à faire avec le Camp de Dieu. Ils ne veulent rien avoir à faire avec Lui car pour tout le monde c’est du fanatisme. Mais souvenez-vous que lorsque Dieu installa le premier camp pour Son peuple, Il les fortifia par Sa Parole. C’est ce qu’Il fait toujours. Mais dans leurs camps d’aujourd’hui, ce n’est pas ainsi qu’ils font. C’est la raison pour laquelle vous n’entendez pas beaucoup parler de Dieu.
+59 Maintenant, je crois que le camp… Nous voyons comment Dieu rencontra Moïse dans le désert. Moïse avait un camp là-bas, de l’autre côté du désert, où il faisait paître le troupeau de son beau-père, Jéthro. Et il arriva un jour que ce vieux berger de quatre-vingts ans vit une lumière ou une colonne de feu brûler dans un buisson. Et il rencontra Dieu, lui, un homme qui s’enfuyait loin de Dieu. Le lendemain… Parfois, le fait de rencontrer Dieu vous pousse à faire des choses inhabituelles. Le lendemain, Moïse n’avait pas son comportement habituel. Il fit asseoir sa femme à califourchon sur une mule, elle prit son bébé sur la hanche; on pouvait le voir, lui, avec sa longue barbe pendante et un bâton noueux à la main, descendre en Egypte afin de prendre possession de la nation. Quel spectacle ridicule c’était! “Où vas-tu, Moïse?”. — “Je vais en Egypte”. — “Pourquoi?”.
+60 — “Pour prendre le pouvoir”. Il avait rencontré Dieu. Une invasion faite par un seul homme! Cela semblait terriblement étrange. Mais le plus étrange fut qu’il l’accomplit et cela parce qu’il avait rencontré Dieu! Tout comme une personne qui irait prendre possession de la Russie; c’est tout ce dont vous avez besoin: d’une personne qui soit dans la volonté de Dieu. Moïse était dans la volonté de Dieu; c’était un bâton noueux qu’il avait à la main et non une épée, un bâton. Dieu fait de ces choses inhabituelles.
+61 Mais souvenez-vous que, pour faire cela, Moïse dut sortir du camp dans lequel il avait vécu, car s’il avait été là-bas avec toute une armée, il n’aurait pas pu le faire. Il n’aurait pas pu le faire avec toutes les armées d’Egypte. Mais un jour, Dieu l’invita dans Son camp. Moïse dit: “Qui es-Tu?”.
+62 Dieu dit: “Je suis CELUI QUI SUIS!”. Non pas j’étais, ni je serai, mais au présent: JE SUIS. “Je suis le Dieu d’Abraham, d’Isaac et de Jacob. J’ai entendu les cris de mon peuple et je me souviens de ma promesse. Et maintenant le temps est venu pour que cette promesse soit accomplie. Moïse, je t’envoie là-bas avec ce bâton qui est dans ta main”. Qu’était-ce?
+63 Le peuple pensa alors qu’il était fou, mais qu’avait-il fait? Il était sorti de son propre camp. Pharaon l’avait éduqué pendant quarante ans dans l’école de son camp, et il échoua. Et il fallut à Dieu quarante autres années pour lui ôter cela. Il dut lui ôter toute son éducation et toute sa théologie dont il avait été enseigné. Il fallut quarante ans pour le débarrasser de cela, puis Dieu utilisa pendant quarante ans.
+64 Dieu a beaucoup de mal pour préparer Ses hommes. Mais voyez-vous, Il n’aurait jamais pu utiliser Moïse avant que celui-ci ne sorte de son propre camp fait par des hommes. Moïse devait abandonner cette manière militaire d’agir, il devait abandonner sa manière naturelle d’agir au profit de la manière surnaturelle. Alors seulement, lorsqu’il serait dans ce camp, Dieu pourrait l’utiliser.
+65 Maintenant, nous découvrons que dans ce désert… Nous remarquons que lorsqu’ils eurent pris position et sortirent d’Egypte pour aller dans le camp de Dieu, lorsqu’ils furent sortis du camp des prêtres qui leur disaient: “Considérez-vous comme étant des esclaves jusqu’à la fin des temps!…”. Lorsque le prophète Moïse descendit et donna la preuve que la Parole de Dieu était près de s’accomplir, que le Dieu qui avait fait la promesse était là pour délivrer le peuple, ils partirent du camp où ils étaient pour aller dans le camp de la Parole de Dieu promise pour l’heure. Ils crurent ce prophète car le signe de l’authentification prouvait qu’il s’agissait exactement de la Parole de Dieu. Et les choses qu’il fit prouvèrent que c’était juste, et la Colonne de Feu qui le suivait prouvait que c’était la Parole de Dieu.
+66 Maintenant, dans ce camp il y avait des miracles, des signes et des merveilles. Ils sortirent dans le désert. Ils laissèrent leur camp naturel; ils laissèrent leur camp de boue; ils laissèrent leur camp fait de paille et de briques pour demeurer dans des tentes là-bas dans le désert où il n’y avait pas de blé ni rien d’autre. Parfois Dieu nous demande de faire des choses qui paraissent insensées à notre pensée. Et si jamais vous quittez le camp de votre propre raison, c’est alors que vous trouverez Dieu.
+67 Remarquez que tandis qu’ils sortirent dans le désert pour aller dans ce camp, il y eut des miracles et des signes. Maintenant, souvenez-vous qu’ils quittèrent le camp de l’Egypte et partirent dans le désert, dans le camp de Dieu. Comment savez-vous qu’il en fut ainsi? Dieu dit: “Ton peuple séjournera là pendant quatre cents ans, mais je l’en ramènerai avec une main puissante et je lui donnerai cette terre ici”. Et sur leur chemin, ils furent conduits par une Lumière authentifiée, par un prophète authentifié; des signes et des merveilles authentifiaient la présence de Dieu dans leur camp tout le long du chemin. Ils avaient une Colonne de Feu, ils avaient un prophète, ils avaient la manne, ils avaient l’eau vive. Amen! Ils avaient changé de campement. Ils devaient le faire; ils n’auraient pas pu voir ces choses en Egypte. Ils devaient changer de campement afin de voir le surnaturel.
+68 De même, les gens d’aujourd’hui doivent quitter le camp de leurs dénominations qui disent: «Le temps des miracles est passé. Une chose comme le baptême du Saint-Esprit n’existe plus. Toutes ces Ecritures sont fausses, c’était pour un autre âge!». Vous devez changer de campement. Aller au-delà de ce camp, là où toutes choses sont possibles.
+69 Toutes ces choses authentifiaient la présence de Dieu dans le camp. Maintenant remarquez. Après la mort de Moïse, ils organisèrent un camp fait de traditions et de credo humains. Mais Dieu avait traité avec ce peuple pendant de nombreuses années. Dieu n’est plus dans leur camp car ils se sont fabriqué eux-mêmes un camp.
+70 Souvenez-vous que lorsqu’ils furent appelés hors d’Egypte, Dieu les pourvut d’un prophète, Il les pourvut d’un agneau de sacrifice, Il les pourvut de tout ce dont ils avaient besoin: une parole, un signe, un miracle, un prophète pour les conduire, une expiation qui prendrait soin d’eux, une Colonne de Feu pour les diriger; et lorsqu’ils sortirent dans le désert, ils n’étaient toujours pas satisfaits. Ils voulaient quelque chose qu’ils auraient à faire eux-mêmes. La grâce de Dieu avait pourvu pour toutes ces choses; maintenant ils voulaient faire eux-mêmes quelque chose, ils voulaient se faire une organisation, ils voulaient faire des tas d’histoires et se bagarrer pour savoir qui serait grand-prêtre et qui serait ceci ou cela. Un jour Dieu dit: “Moïse, sépare-toi d’eux ” et Il les engloutit tout simplement dans les contradictions de Koré.
+71 Maintenant remarquez: tous ces signes et merveilles authentifiaient Sa présence. Puis les hommes se firent eux-mêmes un camp, un camp de credo et de traditions, non un camp avec la Parole de Dieu mais leur propre camp. Il dut les quitter car Il est la Parole. Il ne peut rester avec des gens à qui l’on enseigne à quitter cette Parole. Dieu ne peut rester dans ce camp. Il ne peut pas faire cela! Il ne l’a jamais fait. Il doit rester exactement où se trouve Sa Parole.
+72 Lorsqu’Il dut quitter le camp de toute cette assemblée de gens qu’Il avait fait sortir d’Egypte, Il demeura seulement dans Ses prophètes à qui Sa Parole venait. La Parole venait au prophète pour authentifier l’heure. Il habita parmi les prophètes et leur révéla de quelle manière le peuple avait maudit cette chose. Et Dieu leur enseigna Ses commandements et de quelle manière ils devaient vivre. Et le peuple était toujours contre cela et il persécutait le prophète jusqu’à finalement s’en débarrasser en le lapidant ou en le sciant en morceaux.
+73 Jésus dit: “Lequel d’entre les prophètes vos pères n’ont-ils pas mis à mort? Lequel ne tuèrent-ils pas parmi ces justes qui leur furent envoyés et leur dirent: “Vous faites les mêmes oeuvres que votre père!”… Ce n’est pas aux communistes qu’Il parlait; Il parlait aux prêtres, aux gens des dénominations, aux pharisiens et aux sadducéens. Je suppose que ce soir Sa voix ne changerait pas beaucoup, peut-être leur parlerait-elle même un peu plus durement.
+74 Nous découvrons qu’Il demeura alors parmi Ses prophètes. Il devint pourtant un étranger pour eux, car Il demeure seulement dans Sa Parole afin de La confirmer. La Bible dit qu’Il veille sur Sa Parole afin de La confirmer. Il essaie de troubler quelqu’un qui… S’Il peut seulement obtenir un homme au coeur partagé comme Samson… Samson soumit sa force à Dieu mais il donna son coeur à Delila. C’est ainsi que nous agissons souvent aujourd’hui: nous donnons quelque chose à Dieu mais pas tout. Mais Dieu veut tout.
+75 C’est comme avec une police d’assurance. Lorsque vous prenez une police d’assurance, vous feriez bien de prendre une assurance tous risques. Et c’est ce que cette Assurance bénie fait pour nous. Elle couvre tout ce dont nous avons besoin ici dans cette vie, elle couvre aussi notre résurrection et la Vie éternelle; elle comprend tout.
+76 Remarquez! Dieu resta ensuite hors de leur camp pendant quatre cents ans. Pourquoi cela? Il n’avait plus de prophètes. Depuis le prophète Malachie au prophète Jean, il s’écoula quatre cents ans et Israël n’avança pas d’un pas. Dieu était hors du camp. Par leurs credo, leur égoïsme et leur écart d’avec la Parole, ils Le mirent dehors. Quatre cents ans sans la Parole! Il voyagea d’un prophète à l’autre jusqu’au dernier prophète, lequel fut Malachie; puis il n’y eut plus d’autre prophète pendant quatre cents ans.
+77 Puis Dieu vint de nouveau sur scène. Un jour, Il marcha de nouveau parmi eux; mais leurs traditions avaient tellement pris la place de Dieu parmi eux qu’Il leur fut étranger. La tradition des pères avait… Il y avait certains récipients pour se laver, ils devaient arranger leurs cheveux d’une certaine manière, ils devaient porter certains boutons sur leur vêtement et les prêtres portaient certainement des robes doublées de fourrure. Les uns étaient des pharisiens à toute épreuve, les autres des sadducéens; et c’est cela qui avait pris la place de la Parole parmi ces hommes, au point que lorsque Dieu les visita, Il leur fut étranger.
+78 Puissé-je dire cela avec amour et respect pour ramener les gens à la maison, C’est la même chose aujourd’hui! Cela n’a absolument pas changé! Quand Il vient au milieu du peuple avec Sa puissance et des manifestations afin de prouver que Sa Parole est la même hier, aujourd’hui et pour toujours (car Il est la Parole), les gens disent: “C’est un diseur de bonne aventure, un Béelzebul, un Jésus seul!” ou quelque chose comme cela. Ils vous classent quelque part. Mais il doit en être ainsi. Vous voyez, cela fait maintenant bientôt deux mille ans que nous n’avons pas eu de prophète. Vous savez que les nations n’en ont pas eu. Il en avait été promis un à la fin. Nous savons cela par l’Ecriture. Par l’histoire nous savons aussi que cela nous avait été promis.
+79 Après quatre cents ans, Dieu marcha un jour directement au milieu d’eux. Selon l’Ecriture, Il devait être fait chair et demeurer parmi eux. “Son Nom sera Conseiller, Prince de la Paix, Dieu puissant, Père éternel”. Et lorsqu’Il vint parmi le peuple, ils dirent: “Nous ne voulons pas que cet homme règne sur nous! Quelle carte de membre possède-t-il? Quelle dénomination l’envoie?”. Il ne coopérait avec personne; chaque église vers laquelle Il allait Le jetait dehors. Ils n’avaient rien à faire avec Lui car Il n’était pas l’un d’eux. Et comme il en fut alors, de même en est-il maintenant! La Bible dit que l’église de Laodicée Le mettrait dehors et qu’Il frapperait à la porte pour essayer d’entrer. Quelque chose est faux quelque part.
+80 Maintenant, pourquoi cela? Parce qu’ils avaient fait leur propre camp. S’ils avaient connu la Parole, ils auraient su qui Il était. Jésus dit: “Sondez les Ecritures car c’est en Elles que vous pensez avoir la Vie éternelle; ce sont Elles qui vous diront Qui je suis!”. Voilà ce que disaient les Ecritures. Mais ils ne connaissaient pas les Ecritures. Ils connaissaient leur credo, ils connaissaient leur dénomination, ils connaissaient leur catéchisme, mais ils ne connaissaient pas la Parole. Et c’est pourquoi ils ne purent Le reconnaître.
+81 Maintenant, nous arrivons à la fin. Nous avons un autel dont ceux qui servent le tabernacle n’ont pas le droit de manger. Nous avons un autel. Quel autel? L’autel du sacrifice. L’autel de la croix. Et ceux qui servent le tabernacle, c’est-à-dire ceux qui sont dans les dénominations, qui suivent les traditions, n’ont pas le droit de manger de cet autel. Pourquoi? Parce qu’ils n’ont pas accepté le sacrifice. Ils ont accepté leur propre justice, leurs propres oeuvres, leurs propres credo. Mais nous, nous avons un autel. Et sur cet autel, il y a un sacrifice: Jésus-Christ, le Fils de Dieu, qui a souffert hors de la porte, hors du camp, pour sanctifier le peuple par Son propre sang.
+82 C’est pourquoi, sortons vers Lui hors du camp, portant Son opprobre. Car nous n’avons pas ici de cité permanente, mais nous recherchons celle qui est à venir. Aller au-delà du camp, c’est quitter le camp des traditions, des dénominations, des credo humains, pour aller vers Christ, la Parole vivante. C’est accepter l’opprobre, le mépris, le rejet, comme Lui-même l’a fait. C’est être considéré comme fou par le monde, mais c’est là que nous trouvons Dieu.
+83 Prions.
+84 Seigneur Dieu, nous Te remercions pour Ta Parole. Aide-nous à sortir du camp de nos propres pensées, de nos propres traditions, pour aller vers Toi, la Parole éternelle. Donne-nous le courage de porter Ton opprobre, de suivre Tes traces, jusqu’à ce que nous arrivions à la cité permanente, celle qui est à venir. Au Nom de Jésus. Amen.
 
 ALLANT AU-DELA DU CAMP 11
-Ecritures. “Elles témoignent de moi. Et si je ne fais pas les oeuvres qu’on avait promis que je
-ferais; si je ne fais pas les oeuvres que mon Père, que la Parole… Au commencement était la
-Parole; et la Parole était avec Dieu; et la Parole était Dieu… Et la Parole devint chair et habita au
-milieu de nous… Maintenant, si je suis cette Personne, sondez les Ecritures et voyez ce que je
-suis censé faire. Et si je ne suis pas qualifié pour faire cela, si mes oeuvres qui devraient être
-authentifiées par la Parole ne prouvent pas qui je suis, si le Père ne témoigne pas de moi, alors
-c’est que j’ai tort (c’est vrai!). Si vous ne pouvez me croire, croyez la Parole”. Il a dit: “Les oeuvres
-que produit la Parole”.
-81 Vous voyez, Il était un étranger parmi eux. Ils ne Le connaissaient pas. “Nous n’avons rien à
-faire avec cet individu! C’est tout simplement un drôle d’individu qui est né là-bas quelque part
-dans une étable”. Et ils croyaient que ce Bébé était un bébé illégitime. Ils croyaient qu’avant la
-naissance du bébé, elle était partie pour épouser Joseph et qu’il avait fait cela simplement pour
-ôter cet opprobre de dessus elle, et que cet enfant était devenu un drôle de bonhomme car il était
-un enfant illégitime; voilà la raison de tout cela. Et que fit-Il lorsqu’il sortit? Il mit en pièces leurs
-credo, Il renversa leurs tables, Il les chassa de l’endroit et dit: “Il est écrit!”. Amen! Cela devrait
-indiquer qui Il était. “Il est écrit!”.
-82 Eh bien, ils n’avaient rien à faire avec un tel individu. Mais, au plus profond de leur coeur, ils
-savaient qui Il était car Nicodème avait clairement déclaré ceci: “Rabbi, nous (les pharisiens)
-savons que Tu es un maître venant de la part de Dieu, car aucun homme ne pourrait faire les
-choses que Tu fais si Dieu n’était pas avec Lui!”. Pourquoi alors ne se sont-ils pas réclamés de
-Lui? C’est parce que leur camp avait établi ses frontières et ne voulait pas Le laisser venir à
-l’intérieur, et ils ne voulaient laisser personne sortir pour aller vers Lui. Ils avaient leur propre
-camp. Nicodème vint de nuit alors que les portes étaient vraiment fermées, mais il découvrit qu’il
-pouvait de toute manière Le rencontrer.
-83 Oui, c’est la même chose aujourd’hui! Jésus est devenu un étranger. Ils ne comprennent pas
-et disent: «Pourquoi ceci?» et: «Pourquoi serait-ce cela? alors que la Parole Elle-même témoigne
-que c’est exactement ce qui est censé être fait en ce jour. Maintes et maintes fois nous avons
-passé par-dessus, mais c’est la vérité».
-84 Dans leur camp, Il était pour eux un fanatique. Il brisait leur tradition, Il bouleversait leurs
-églises, ce n’était qu’un diseur de bonne aventure, un spirite nommé Béelzebul. Voilà ce qu’Il était.
-Et je crois que si aujourd’hui Il venait au milieu de nous, Il serait pour nous la même chose car
-nous avons la tradition, nous avons les dénominations. Nous ne pouvons même pas nous
-accorder avec une autre dénomination. Pourquoi cela? Il n’y a qu’un seul endroit sous lequel
-les hommes puissent s’accorder: c’est sous le Sang versé. Et le Sang fut versé comme le
-germe d’une vie afin de faire germer cette semence, la Parole. Hors de cela, nos barrières
-dénominationnelles retiendront toujours les gens au loin.
-85 Aujourd’hui, Il serait un étranger; on L’appellerait de la même façon. On Le mettrait en dehors
-du camp. Et saviez-vous que cette même Bible a dit: “Car Il a été rejeté par l’homme; c’était un
-homme de douleur, habitué à la souffrance, et ils L’ont rejeté; et nous L’avons considéré comme
-puni, frappé de Dieu”. Même le prophète s’était lamenté: “Mon Dieu, mon Dieu, pourquoi m’as-Tu
-abandonné? Ils me regardent tous. Il me percent les mains et les pieds!”. Alors qu’ils chantaient
-cet hymne dans leur église, pensant servir leur Dieu, ils crucifiaient leur Sacrifice. Ainsi en est-il
-aujourd’hui. Ce Dieu même…
-86 Voyez ce que le prophète Amos a dit lorsqu’il entra dans Samarie. Et ses petits yeux se
-plissaient tandis qu’il allait là-bas et voyait cette ville pécheresse, ces femmes couchées dans les
-rues avec des hommes — une Amérique moderne. Lorsqu’il regarda ceci, il fronça les sourcils…
-Et il n’avait personne pour le soutenir; il n’avait pas de carte de membre: Dieu l’avait envoyé. Les
-gens entendraient-ils son message? Non, ils ne l’entendraient pas. Mais il prophétisa et dit: “Ce
-Dieu même que vous prétendez servir vous détruira!”. Et, au Nom de Jésus-Christ, je dis que ce
-Dieu même, que cette nation (qui se dit religieuse) prétend servir, la détruira dans son
-iniquité. Il détruira chaque dénomination de la surface de la terre, bien qu’elles prétendent
-Le servir.
-87 Ainsi, remarquez, Il les blâmait et ils Le mirent hors de leur camp. Jésus souffrit hors du
-camp. Ils Le mirent hors du camp, à l’extérieur, bien au-delà de leur camp.
+Ecritures. “Elles témoignent de moi. Et si je ne fais pas les oeuvres qu’on avait promis que je ferais; si je ne fais pas les oeuvres que mon Père, que la Parole… Au commencement était la Parole; et la Parole était avec Dieu; et la Parole était Dieu… Et la Parole devint chair et habita au milieu de nous… Maintenant, si je suis cette Personne, sondez les Ecritures et voyez ce que je suis censé faire. Et si je ne suis pas qualifié pour faire cela, si mes oeuvres qui devraient être authentifiées par la Parole ne prouvent pas qui je suis, si le Père ne témoigne pas de moi, alors c’est que j’ai tort (c’est vrai!). Si vous ne pouvez me croire, croyez la Parole”. Il a dit: “Les oeuvres que produit la Parole”.
+81 Vous voyez, Il était un étranger parmi eux. Ils ne Le connaissaient pas. “Nous n’avons rien à faire avec cet individu! C’est tout simplement un drôle d’individu qui est né là-bas quelque part dans une étable”. Et ils croyaient que ce Bébé était un bébé illégitime. Ils croyaient qu’avant la naissance du bébé, elle était partie pour épouser Joseph et qu’il avait fait cela simplement pour ôter cet opprobre de dessus elle, et que cet enfant était devenu un drôle de bonhomme car il était un enfant illégitime; voilà la raison de tout cela. Et que fit-Il lorsqu’il sortit? Il mit en pièces leurs credo, Il renversa leurs tables, Il les chassa de l’endroit et dit: “Il est écrit!”. Amen! Cela devrait indiquer qui Il était. “Il est écrit!”.
+82 Eh bien, ils n’avaient rien à faire avec un tel individu. Mais, au plus profond de leur coeur, ils savaient qui Il était car Nicodème avait clairement déclaré ceci: “Rabbi, nous (les pharisiens) savons que Tu es un maître venant de la part de Dieu, car aucun homme ne pourrait faire les choses que Tu fais si Dieu n’était pas avec Lui!”. Pourquoi alors ne se sont-ils pas réclamés de Lui? C’est parce que leur camp avait établi ses frontières et ne voulait pas Le laisser venir à l’intérieur, et ils ne voulaient laisser personne sortir pour aller vers Lui. Ils avaient leur propre camp. Nicodème vint de nuit alors que les portes étaient vraiment fermées, mais il découvrit qu’il pouvait de toute manière Le rencontrer.
+83 Oui, c’est la même chose aujourd’hui! Jésus est devenu un étranger. Ils ne comprennent pas et disent: «Pourquoi ceci?» et: «Pourquoi serait-ce cela? alors que la Parole Elle-même témoigne que c’est exactement ce qui est censé être fait en ce jour. Maintes et maintes fois nous avons passé par-dessus, mais c’est la vérité».
+84 Dans leur camp, Il était pour eux un fanatique. Il brisait leur tradition, Il bouleversait leurs églises, ce n’était qu’un diseur de bonne aventure, un spirite nommé Béelzebul. Voilà ce qu’Il était. Et je crois que si aujourd’hui Il venait au milieu de nous, Il serait pour nous la même chose car nous avons la tradition, nous avons les dénominations. Nous ne pouvons même pas nous accorder avec une autre dénomination. Pourquoi cela? Il n’y a qu’un seul endroit sous lequel les hommes puissent s’accorder: c’est sous le Sang versé. Et le Sang fut versé comme le germe d’une vie afin de faire germer cette semence, la Parole. Hors de cela, nos barrières dénominationnelles retiendront toujours les gens au loin.
+85 Aujourd’hui, Il serait un étranger; on L’appellerait de la même façon. On Le mettrait en dehors du camp. Et saviez-vous que cette même Bible a dit: “Car Il a été rejeté par l’homme; c’était un homme de douleur, habitué à la souffrance, et ils L’ont rejeté; et nous L’avons considéré comme puni, frappé de Dieu”. Même le prophète s’était lamenté: “Mon Dieu, mon Dieu, pourquoi m’as-Tu abandonné? Ils me regardent tous. Il me percent les mains et les pieds!”. Alors qu’ils chantaient cet hymne dans leur église, pensant servir leur Dieu, ils crucifiaient leur Sacrifice. Ainsi en est-il aujourd’hui. Ce Dieu même…
+86 Voyez ce que le prophète Amos a dit lorsqu’il entra dans Samarie. Et ses petits yeux se plissaient tandis qu’il allait là-bas et voyait cette ville pécheresse, ces femmes couchées dans les rues avec des hommes — une Amérique moderne. Lorsqu’il regarda ceci, il fronça les sourcils… Et il n’avait personne pour le soutenir; il n’avait pas de carte de membre: Dieu l’avait envoyé. Les gens entendraient-ils son message? Non, ils ne l’entendraient pas. Mais il prophétisa et dit: “Ce Dieu même que vous prétendez servir vous détruira!”. Et, au Nom de Jésus-Christ, je dis que ce Dieu même, que cette nation (qui se dit religieuse) prétend servir, la détruira dans son iniquité. Il détruira chaque dénomination de la surface de la terre, bien qu’elles prétendent Le servir.
+87 Ainsi, remarquez, Il les blâmait et ils Le mirent hors de leur camp. Jésus souffrit hors du camp. Ils Le mirent hors du camp, à l’extérieur, bien au-delà de leur camp.
 88 Nous découvrons que la Bible dit qu’en ce dernier jour, lors de l’âge de Laodicée, ils feraient
         http://www.cmpp.ch
 
 ALLANT AU-DELA DU CAMP 12
-la même chose. Ils Le mettraient hors du camp (maintenant, pour terminer, observez ce qu’Il dit de
-faire), ils Le mettraient hors du camp où l’on brûlait les sacrifices. C’est là qu’Il devait être; Il était
-un Sacrifice.
-89 Maintenant, frère, soeur, savez-vous que chacun d’entre vous doit faire des sacrifices,
-que vous devez être le sacrifice de Dieu, que vous devez sacrifier les choses du monde, que
-vous devez sacrifier vos propres plaisirs de ce monde et devez sacrifier les choses du monde?
-Connaissez-vous la raison pour laquelle les gens ne veulent pas le faire?
-90 Vous savez, un mouton n’a qu’une chose à offrir, et c’est la laine. On ne lui demande pas de
-produire ou de fabriquer de la laine pour cette année; on lui demande de porter de la laine. Nous
-n’avons pas à fabriquer quelque chose; nous avons à porter le fruit de l’Esprit. C’est ce qui
-est à l’intérieur du mouton qui produit la laine à l’extérieur. Et lorsqu’un homme possède
-Christ à l’intérieur, c’est cela qui le fait ressembler à Christ à l’extérieur et non quelque
-artifice qu’il revêtirait.
-91 Eh bien, lorsque Christ revient, comment est-Il traité? Exactement de la même manière qu’il
-en fut au commencement. Il en a toujours été ainsi.
-92 Ainsi, Il les blâma tellement qu’ils Le mirent hors de Son camp et en firent un pécheur. C’est
-ainsi qu’Il devint péché pour nous.
-93 Maintenant, après des centaines d’années, oui, après presque deux mille ans, Il visite de
-nouveau leur camp selon Sa Parole promise qui disait qu’Il le ferait en ces derniers jours. Il visite
-de nouveau le camp. Il visite le camp afin de manifester Sa Parole aujourd’hui, tout comme en
-ce jour, au jour de Moïse Il visita le camp. Ce n’était pas Moïse qui faisait cela car il était un
-homme; c’était Christ qui faisait cela.
-94 Observez la vie de Joseph: il était aimé de son père et haï de ses frères car il était un
-voyant. Et ils le haïssaient sans cause. Il n’y avait que cette raison pour laquelle ils le haïssaient.
-Cela est exactement un type parfait pour aujourd’hui. De nouveau l’église hait les choses
-spirituelles. Et nous découvrons qu’il fut vendu pour environ trente pièces d’argent, il fut laissé
-pour mort, ramassé et mis en prison, et comme pour Jésus sur la croix, il y eut un homme perdu,
-et un homme sauvé; puis on le sortit de cette prison pour le placer à la droite de Pharaon. C’est
-exactement de cette manière que Jésus fut traité.
-95 Lorsque David, le roi qui avait été rejeté, errait par les chemins en pleurant, qu’il se trouvait
-sur la montagne et sanglotait sur Jérusalem, ce n’était pas lui qui faisait cela. Quelques centaines
-d’années plus tard, ce fut le Fils de David qui s’installa sur la même colline et sanglota car Il était
-un Roi rejeté parmi Son propre peuple. C’est toujours Christ. Et lorsque de nos jours il est
-prophétisé que Christ doit venir dans le camp, savez vous ce qui arrive? Il en est exactement
-comme il en fut alors. Il doit en être ainsi afin d’accomplir ce que la Parole ici promet qu’Il fera.
-96 Maintenant, souvenez-vous que Christ existait dans l’âge de Noé. C’était Christ, Jésus-Christ
-Le même hier, aujourd’hui et pour toujours, c’était la Parole de l’heure qui avait été rejetée.
-97 Remarquez. Dans Apocalypse 3, Sa prophétie a révélé qu’Il viendrait en ce dernier jour. Et
-dans quel état trouva-t-Il l’église pendant l’âge de Laodicée? Elle était riche, n’avait besoin de rien,
-elle était assise comme une reine, elle n’avait aucune affliction; elle Le mit hors de l’église car elle
-n’avait pas besoin de Lui. De nouveau Il sortit du camp. Mais elle ne savait pas qu’elle était nue,
-aveugle et misérable.
-98 Et s’Il revenait de la même manière qu’Il vint en ce temps-là, Il blâmerait chaque femme qui
-porte des shorts. Il blâmerait chaque femme aux cheveux courts, chaque femme au visage
-maquillé, chaque homme assez faible pour laisser sa femme faire cela. Puis Il mettrait en pièces
-chaque dénomination et chaque credo existants. Croyez-vous qu’Il ferait cela? Certainement!
-C’est juste!
-99 Que feraient-ils de Lui? Ils Le mettraient hors du camp. Ils ne coopéreraient sûrement pas
-avec Lui. Non, certainement pas!
-100 Maintenant, nous découvrons qu’aujourd’hui Il est de nouveau mis hors du camp, comme la
-Bible le dit. Car Il demeure toujours Le même hier, aujourd’hui et toujours.
-101 Ils ne veulent pas de Lui. Ils L’ont de nouveau rejeté avec leur concile. Aujourd’hui ils agiraient
-plutôt comme ils le firent lorsqu’Il fut mis en jugement. Et qu’arrive-t-il aujourd’hui alors que la
-Parole est jugée? Ils L’ont de nouveau rejeté comme ils le firent alors pour accepter un Barabbas,
+la même chose. Ils Le mettraient hors du camp (maintenant, pour terminer, observez ce qu’Il dit de faire), ils Le mettraient hors du camp où l’on brûlait les sacrifices. C’est là qu’Il devait être; Il était un Sacrifice.
+89 Maintenant, frère, soeur, savez-vous que chacun d’entre vous doit faire des sacrifices, que vous devez être le sacrifice de Dieu, que vous devez sacrifier les choses du monde, que vous devez sacrifier vos propres plaisirs de ce monde et devez sacrifier les choses du monde? Connaissez-vous la raison pour laquelle les gens ne veulent pas le faire?
+90 Vous savez, un mouton n’a qu’une chose à offrir, et c’est la laine. On ne lui demande pas de produire ou de fabriquer de la laine pour cette année; on lui demande de porter de la laine. Nous n’avons pas à fabriquer quelque chose; nous avons à porter le fruit de l’Esprit. C’est ce qui est à l’intérieur du mouton qui produit la laine à l’extérieur. Et lorsqu’un homme possède Christ à l’intérieur, c’est cela qui le fait ressembler à Christ à l’extérieur et non quelque artifice qu’il revêtirait.
+91 Eh bien, lorsque Christ revient, comment est-Il traité? Exactement de la même manière qu’il en fut au commencement. Il en a toujours été ainsi.
+92 Ainsi, Il les blâma tellement qu’ils Le mirent hors de Son camp et en firent un pécheur. C’est ainsi qu’Il devint péché pour nous.
+93 Maintenant, après des centaines d’années, oui, après presque deux mille ans, Il visite de nouveau leur camp selon Sa Parole promise qui disait qu’Il le ferait en ces derniers jours. Il visite de nouveau le camp. Il visite le camp afin de manifester Sa Parole aujourd’hui, tout comme en ce jour, au jour de Moïse Il visita le camp. Ce n’était pas Moïse qui faisait cela car il était un homme; c’était Christ qui faisait cela.
+94 Observez la vie de Joseph: il était aimé de son père et haï de ses frères car il était un voyant. Et ils le haïssaient sans cause. Il n’y avait que cette raison pour laquelle ils le haïssaient. Cela est exactement un type parfait pour aujourd’hui. De nouveau l’église hait les choses spirituelles. Et nous découvrons qu’il fut vendu pour environ trente pièces d’argent, il fut laissé pour mort, ramassé et mis en prison, et comme pour Jésus sur la croix, il y eut un homme perdu, et un homme sauvé; puis on le sortit de cette prison pour le placer à la droite de Pharaon. C’est exactement de cette manière que Jésus fut traité.
+95 Lorsque David, le roi qui avait été rejeté, errait par les chemins en pleurant, qu’il se trouvait sur la montagne et sanglotait sur Jérusalem, ce n’était pas lui qui faisait cela. Quelques centaines d’années plus tard, ce fut le Fils de David qui s’installa sur la même colline et sanglota car Il était un Roi rejeté parmi Son propre peuple. C’est toujours Christ. Et lorsque de nos jours il est prophétisé que Christ doit venir dans le camp, savez vous ce qui arrive? Il en est exactement comme il en fut alors. Il doit en être ainsi afin d’accomplir ce que la Parole ici promet qu’Il fera.
+96 Maintenant, souvenez-vous que Christ existait dans l’âge de Noé. C’était Christ, Jésus-Christ Le même hier, aujourd’hui et pour toujours, c’était la Parole de l’heure qui avait été rejetée.
+97 Remarquez. Dans Apocalypse 3, Sa prophétie a révélé qu’Il viendrait en ce dernier jour. Et dans quel état trouva-t-Il l’église pendant l’âge de Laodicée? Elle était riche, n’avait besoin de rien, elle était assise comme une reine, elle n’avait aucune affliction; elle Le mit hors de l’église car elle n’avait pas besoin de Lui. De nouveau Il sortit du camp. Mais elle ne savait pas qu’elle était nue, aveugle et misérable.
+98 Et s’Il revenait de la même manière qu’Il vint en ce temps-là, Il blâmerait chaque femme qui porte des shorts. Il blâmerait chaque femme aux cheveux courts, chaque femme au visage maquillé, chaque homme assez faible pour laisser sa femme faire cela. Puis Il mettrait en pièces chaque dénomination et chaque credo existants. Croyez-vous qu’Il ferait cela? Certainement! C’est juste!
+99 Que feraient-ils de Lui? Ils Le mettraient hors du camp. Ils ne coopéreraient sûrement pas avec Lui. Non, certainement pas!
+100 Maintenant, nous découvrons qu’aujourd’hui Il est de nouveau mis hors du camp, comme la Bible le dit. Car Il demeure toujours Le même hier, aujourd’hui et toujours.
+101 Ils ne veulent pas de Lui. Ils L’ont de nouveau rejeté avec leur concile. Aujourd’hui ils agiraient plutôt comme ils le firent lorsqu’Il fut mis en jugement. Et qu’arrive-t-il aujourd’hui alors que la Parole est jugée? Ils L’ont de nouveau rejeté comme ils le firent alors pour accepter un Barabbas,
         http://www.cmpp.ch
 
     ALLANT AU-DELA DU CAMP    13
-un meurtrier au lieu de Christ. Le concile veut faire la même chose. Et aujourd’hui, parce qu’ils
-ont rejeté la Parole et la parfaite authentification de l’heure, ils ont tout vendu et préféré un
-Barabbas, un conseil mondial des églises, meurtrier de la Parole.
-102 Ils nient Sa Parole, ils nient Son baptême, ils nient Son pouvoir, ils nient Ses signes; et ils
-essaient de faire des bonnes oeuvres au travers de credo, de traditions; ils portent des faux-cols à
-l’envers et toutes ces choses, ils se fabriquent des credo et autres choses. Dès le commencement
-ils n’étaient pas prédestinés pour la Vie. Ils n’avaient rien pour croire. “Celui qui me connaît,
-connaît mon Père Comme le Père m’a envoyé, je vous envoie!”. Le Dieu qui avait envoyé Jésus
-vint dans Jésus, et le Jésus qui vous envoie vient en vous. “Celui qui croit en moi, les oeuvres
-que je fais, il les fera aussi. Allez dans le monde entier et prêchez L’Evangile à chaque créature
-(noire, jaune, blanche, brune, quelle qu’elle soit). Ces signes accompagneront ceux qui auront
-cru”. Pourquoi cela? Pour le monde entier et pour toute créature.
-103 Il n’y a pas très longtemps à Tucson, un pasteur baptiste vint vers moi et me dit: «Frère
-Branham, voici ce qui ne va pas avec vous. Vous essayez de faire de cet âge un âge
-apostolique». Il dit encore: «Aujourd’hui, il n’y a pas de chose telle qu’un âge apostolique. L’âge
-apostolique est terminé».
+un meurtrier au lieu de Christ. Le concile veut faire la même chose. Et aujourd’hui, parce qu’ils ont rejeté la Parole et la parfaite authentification de l’heure, ils ont tout vendu et préféré un Barabbas, un conseil mondial des églises, meurtrier de la Parole.
+102 Ils nient Sa Parole, ils nient Son baptême, ils nient Son pouvoir, ils nient Ses signes; et ils essaient de faire des bonnes oeuvres au travers de credo, de traditions; ils portent des faux-cols à l’envers et toutes ces choses, ils se fabriquent des credo et autres choses. Dès le commencement ils n’étaient pas prédestinés pour la Vie. Ils n’avaient rien pour croire. “Celui qui me connaît, connaît mon Père Comme le Père m’a envoyé, je vous envoie!”. Le Dieu qui avait envoyé Jésus vint dans Jésus, et le Jésus qui vous envoie vient en vous. “Celui qui croit en moi, les oeuvres que je fais, il les fera aussi. Allez dans le monde entier et prêchez L’Evangile à chaque créature (noire, jaune, blanche, brune, quelle qu’elle soit). Ces signes accompagneront ceux qui auront cru”. Pourquoi cela? Pour le monde entier et pour toute créature.
+103 Il n’y a pas très longtemps à Tucson, un pasteur baptiste vint vers moi et me dit: «Frère Branham, voici ce qui ne va pas avec vous. Vous essayez de faire de cet âge un âge apostolique». Il dit encore: «Aujourd’hui, il n’y a pas de chose telle qu’un âge apostolique. L’âge apostolique est terminé».
 104 Je dis: «Il est terminé? Je ne le savais pas».
     Il dit alors: «Mais oui, il est terminé!».
     Je dis: «Vous en êtes sûr?».
@@ -689,215 +209,71 @@ apostolique est terminé».
     Je dis: «Qu’est-ce qui vous fait penser qu’il est terminé?». Il dit: «C’était pour les apôtres».
 105 Je dis: «Le jour de Pentecôte, Pierre… Croyez-vous cette parole?».
     — «Certainement!».
-106 Pierre dit: “Repentez-vous et que chacun de vous soit baptisé au Nom de Jésus-Christ; car
-cette promesse est pour vous, pour vos enfants et pour les enfants de vos enfants, et pour tous
-ceux qui viendront de loin, en aussi grand nombre que le Seigneur notre Dieu les appellera”. C’est
-à cette même promesse que nous devons revenir!
-107 Le docteur Simon Pierre écrivit une ordonnance. Dans la Bible il est dit: “N’y a-t-il pas de
-baume en Galaad, n’y a-t-il pas de docteur là-bas? Eh bien, vous savez, si vous prenez
-l’ordonnance d’un médecin… Lorsqu’il découvre une maladie dans votre corps et qu’il écrit une
-ordonnance, vous feriez mieux de la suivre, l’apportant à quelque véritable pharmacien qui
-l’exécutera de la manière dont elle est écrite, car il doit y mettre tant de poison et tant d’antidote,
-selon ce que votre système doit prendre. Cela a déjà été essayé et prouvé et vous devez prendre
-cette ordonnance. Si vous ne le faites pas et que vous alliez bêtement vers quelque charlatan qui
-ne sache pas bien mesurer ces médicaments, il vous tuera. Et si la dose est trop faible, cela ne
-vous fera aucun bien.
-108 Et c’est ce qui ne va pas avec beaucoup d’entre vous, docteurs. Vous jouez avec cette
-ordonnance. Pierre dit: “Je vous donnerai une ordonnance éternelle, pour vous et pour vos
-enfants et pour tous ceux qui viendront de loin, en aussi grand nombre que le Seigneur notre Dieu
-les appellera”. Il n’a pas dit: “Venez et joignez-vous à nous!” mais: “Repentez-vous et que chacun
-de vous soit baptisé au Nom de Jésus-Christ pour la rémission de ses péchés, et vous recevrez le
-Saint-Esprit (voilà les résultats, amen!); ceci est la promesse et cette ordonnance est pour vous et
-pour vos enfants”. Maintenant, vous docteurs charlatans, arrêtez d’écrire ces ordonnances
-truquées; vous tuez vos patients. C’est la raison pour laquelle ils ne peuvent obtenir ce qui est
-véritable. Oui, c’est cela!
-109 Au sujet de cette ordonnance, vous savez comment le médecin trouve son médicament. Les
-savants essaient de mettre quelque chose au point, puis ils le donnent à un cobaye pour voir si
-cela le tue ou non. Et vous savez, c’est ainsi que le médicament a une chance de prendre. Vous
-pouvez tout aussi bien aller mieux comme il peut vous tuer, car tout le monde n’est pas comme
-des cobayes. Mais ce qu’il y a au sujet de cette ordonnance-ci, c’est qu’elle est valable pour
-tous.
-110 N’importe quel véritable bon médecin qui n’a pas grande confiance dans son propre
-médicament ne demandera pas à quelqu’un d’autre… Mais certains ont peu de courage et
+106 Pierre dit: “Repentez-vous et que chacun de vous soit baptisé au Nom de Jésus-Christ; car cette promesse est pour vous, pour vos enfants et pour les enfants de vos enfants, et pour tous ceux qui viendront de loin, en aussi grand nombre que le Seigneur notre Dieu les appellera”. C’est à cette même promesse que nous devons revenir!
+107 Le docteur Simon Pierre écrivit une ordonnance. Dans la Bible il est dit: “N’y a-t-il pas de baume en Galaad, n’y a-t-il pas de docteur là-bas? Eh bien, vous savez, si vous prenez l’ordonnance d’un médecin… Lorsqu’il découvre une maladie dans votre corps et qu’il écrit une ordonnance, vous feriez mieux de la suivre, l’apportant à quelque véritable pharmacien qui l’exécutera de la manière dont elle est écrite, car il doit y mettre tant de poison et tant d’antidote, selon ce que votre système doit prendre. Cela a déjà été essayé et prouvé et vous devez prendre cette ordonnance. Si vous ne le faites pas et que vous alliez bêtement vers quelque charlatan qui ne sache pas bien mesurer ces médicaments, il vous tuera. Et si la dose est trop faible, cela ne vous fera aucun bien.
+108 Et c’est ce qui ne va pas avec beaucoup d’entre vous, docteurs. Vous jouez avec cette ordonnance. Pierre dit: “Je vous donnerai une ordonnance éternelle, pour vous et pour vos enfants et pour tous ceux qui viendront de loin, en aussi grand nombre que le Seigneur notre Dieu les appellera”. Il n’a pas dit: “Venez et joignez-vous à nous!” mais: “Repentez-vous et que chacun de vous soit baptisé au Nom de Jésus-Christ pour la rémission de ses péchés, et vous recevrez le Saint-Esprit (voilà les résultats, amen!); ceci est la promesse et cette ordonnance est pour vous et pour vos enfants”. Maintenant, vous docteurs charlatans, arrêtez d’écrire ces ordonnances truquées; vous tuez vos patients. C’est la raison pour laquelle ils ne peuvent obtenir ce qui est véritable. Oui, c’est cela!
+109 Au sujet de cette ordonnance, vous savez comment le médecin trouve son médicament. Les savants essaient de mettre quelque chose au point, puis ils le donnent à un cobaye pour voir si cela le tue ou non. Et vous savez, c’est ainsi que le médicament a une chance de prendre. Vous pouvez tout aussi bien aller mieux comme il peut vous tuer, car tout le monde n’est pas comme des cobayes. Mais ce qu’il y a au sujet de cette ordonnance-ci, c’est qu’elle est valable pour tous.
+110 N’importe quel véritable bon médecin qui n’a pas grande confiance dans son propre médicament ne demandera pas à quelqu’un d’autre… Mais certains ont peu de courage et
         http://www.cmpp.ch
 
 ALLANT AU-DELA DU CAMP 14
-prennent un condamné à mort pour lui faire prendre cette ordonnance, puis le libérer s’il survit.
-Mais nous, au lieu de cela, nous avons un véritable Médecin: Il est venu et a pris Lui-même
-l’ordonnance.
-111 Dieu a dit: “Je suis”, non pas: “Je serai!”. “Je suis la Résurrection et la Vie… Celui qui croit en
-moi vivra, bien qu’il soit mort. Et quiconque vit et croit en moi ne mourra jamais!”. “Crois-tu cela?”
-a-t-Il dit à Marthe.
-112 Elle dit: “Oui, Seigneur, je crois que Tu es le Christ qui devait venir dans le monde. Peu
-importe comment les autres T’appellent, je l’ai réellement vu”.
-113 Au Calvaire, Il reçut Lui-même l’injection. Et le matin de Pâques, la mort n’avait pas de prise
-sur Lui, car Il avait dit: “Je suis la Résurrection et la Vie”. Ils injectèrent la mort en Lui, mais Il se
-releva victorieux sur la mort, l’enfer et la tombe. Il reçut Lui-même l’injection, et Il envoya des
-médecins qui avaient la révélation de qui Il était afin qu’ils écrivent l’ordonnance. Il avait dit: “Qui
-dit-on que je suis moi, le Fils de l’homme?”.
+prennent un condamné à mort pour lui faire prendre cette ordonnance, puis le libérer s’il survit. Mais nous, au lieu de cela, nous avons un véritable Médecin: Il est venu et a pris Lui-même l’ordonnance.
+111 Dieu a dit: “Je suis”, non pas: “Je serai!”. “Je suis la Résurrection et la Vie… Celui qui croit en moi vivra, bien qu’il soit mort. Et quiconque vit et croit en moi ne mourra jamais!”. “Crois-tu cela?” a-t-Il dit à Marthe.
+112 Elle dit: “Oui, Seigneur, je crois que Tu es le Christ qui devait venir dans le monde. Peu importe comment les autres T’appellent, je l’ai réellement vu”.
+113 Au Calvaire, Il reçut Lui-même l’injection. Et le matin de Pâques, la mort n’avait pas de prise sur Lui, car Il avait dit: “Je suis la Résurrection et la Vie”. Ils injectèrent la mort en Lui, mais Il se releva victorieux sur la mort, l’enfer et la tombe. Il reçut Lui-même l’injection, et Il envoya des médecins qui avaient la révélation de qui Il était afin qu’ils écrivent l’ordonnance. Il avait dit: “Qui dit-on que je suis moi, le Fils de l’homme?”.
 114 Pierre dit: “Tu es le Christ, le Fils du Dieu vivant!”.
-115 Il dit: “Tu es bienheureux, Simon. Maintenant tu as compris. Je te donne les clefs du
-Royaume. Tout ce que tu lieras sur terre, je le lierai dans le ciel. Ce que tu délieras sur terre, je le
-délierai dans le ciel”.
-116 Et le jour de Pentecôte, lorsqu’ils virent que tout ceci continuait, les gens dirent: “Que
-pouvons-nous faire pour obtenir cette inoculation?”.
-117 Alors il se mit à lire l’ordonnance et dit: “Maintenant, je vais écrire une ordonnance qui sera
-pour vous, pour vos enfants et pour tous ceux qui viendront de loin, en aussi grand nombre que le
-Seigneur notre Dieu les appellera!”. Ne jouez pas avec l’ordonnance: vous mourriez! Aujourd’hui,
-ils en ont fait quelque chose de tellement faible que ce n’est plus qu’une eau dénominationnelle
-(c’est juste!), quelque fluide qui embaume et qu’ils injectent à un homme mort pour le rendre
-encore plus mort. Mais, oh frères, il existe une onction véritable! A Galaad, il y a un Baume:
-c’est pour la guérison de l’âme. Mais ne jouez pas avec l’ordonnance. Prenez l’ordonnance telle
-qu’elle est écrite, car Dieu est engagé envers Sa Parole, Il n’est pas engagé envers un credo, ni
-un dogme ou une dénomination; Il est engagé envers Sa Parole. Suivez l’ordonnance; c’est là le
-point de départ. Commencez par cela, alors vous serez inscrit et vous serez prêt à aller au travail.
-118 Remarquez qu’Il était hors du camp! Aujourd’hui ils ont choisi un Barabbas. Lorsque
-l’Evangile est allé de-ci, de-là tout autour du monde, de grands signes et merveilles ont suivi le
-réveil, mais au lieu d’entrer pour faire cela, ils se sont joints à Barabbas. “Nous ne voulons pas de
-ce non-sens et toutes ces choses dans notre église. Nous serons classiques comme les autres”.
-Maintenant, Rome et tous les autres se sont joints en une seule dénomination et ont préféré
-Barabbas.
-119 Remarquez que nous sommes alors dans ce grand camp. “… C’est pourquoi aussi Jésus, afin
-qu’il sanctifiât le peuple par son propre sang, a souffert hors de la porte. Ainsi donc, sortons vers
-lui hors du camp (écoutez bien) portant son opprobre…” (Hébreux 13.12,13).
-120 Que Lui reprochait-on? On ne Lui reprochait pas d’être un Baptiste ou un Méthodiste, je peux
-vous l’assurer On ne Lui reprochait pas d’être un Pharisien ou un Sadducéen. On Lui reprochait
-d’être la Parole authentifiée.
-121 Il supportait les reproches… Pourquoi cela? C’était la Parole authentifiée. C’est juste! C’est
-ce qu’Il fit. Il dit: “Si je ne fais pas les oeuvres de mon Père, ne me croyez pas. Si je ne suis pas la
-réponse à toutes les questions des Ecritures…”.
-122 Le Jésus du Nouveau Testament était le Jéhovah de l’Ancien Testament. C’est absolument
-vrai! Comme je vous le disais ici, à moins que ce ne soit ailleurs, il y a quelque temps lors d’une
-réunion: le Jéhovah de l’Ancien Testament est le Jésus du Nouveau. Vous vous souvenez de ce
-matin où j’avais été à la chasse aux écureuils. C’est alors qu’il y eut trois grands arc-en-ciel qui
-apparurent juste là sur la montagne et qui se fondirent en un seul; et je me tenais là en train de
-regarder cela. Je m’approchai davantage, ôtai mon chapeau et posai mon fusil. Je montai là-haut
-et il y eut une Voix qui fit trembler les bois; Elle disait: «Le Jésus du Nouveau Testament est le
-Jéhovah de l’Ancien Testament. Reste fidèle!». Cela arriva juste en dessous de l’endroit où
-étaient apparus les écureuils, où ils étaient venus à l’existence alors que là il n’y en avait aucun.
-Vous voyez? C’est vrai! Dieu devant qui je me tiens sait que c’est la vérité. C’est juste, c’est la
+115 Il dit: “Tu es bienheureux, Simon. Maintenant tu as compris. Je te donne les clefs du Royaume. Tout ce que tu lieras sur terre, je le lierai dans le ciel. Ce que tu délieras sur terre, je le délierai dans le ciel”.
+116 Et le jour de Pentecôte, lorsqu’ils virent que tout ceci continuait, les gens dirent: “Que pouvons-nous faire pour obtenir cette inoculation?”.
+117 Alors il se mit à lire l’ordonnance et dit: “Maintenant, je vais écrire une ordonnance qui sera pour vous, pour vos enfants et pour tous ceux qui viendront de loin, en aussi grand nombre que le Seigneur notre Dieu les appellera!”. Ne jouez pas avec l’ordonnance: vous mourriez! Aujourd’hui, ils en ont fait quelque chose de tellement faible que ce n’est plus qu’une eau dénominationnelle (c’est juste!), quelque fluide qui embaume et qu’ils injectent à un homme mort pour le rendre encore plus mort. Mais, oh frères, il existe une onction véritable! A Galaad, il y a un Baume: c’est pour la guérison de l’âme. Mais ne jouez pas avec l’ordonnance. Prenez l’ordonnance telle qu’elle est écrite, car Dieu est engagé envers Sa Parole, Il n’est pas engagé envers un credo, ni un dogme ou une dénomination; Il est engagé envers Sa Parole. Suivez l’ordonnance; c’est là le point de départ. Commencez par cela, alors vous serez inscrit et vous serez prêt à aller au travail.
+118 Remarquez qu’Il était hors du camp! Aujourd’hui ils ont choisi un Barabbas. Lorsque l’Evangile est allé de-ci, de-là tout autour du monde, de grands signes et merveilles ont suivi le réveil, mais au lieu d’entrer pour faire cela, ils se sont joints à Barabbas. “Nous ne voulons pas de ce non-sens et toutes ces choses dans notre église. Nous serons classiques comme les autres”. Maintenant, Rome et tous les autres se sont joints en une seule dénomination et ont préféré Barabbas.
+119 Remarquez que nous sommes alors dans ce grand camp. “… C’est pourquoi aussi Jésus, afin qu’il sanctifiât le peuple par son propre sang, a souffert hors de la porte. Ainsi donc, sortons vers lui hors du camp (écoutez bien) portant son opprobre…” (Hébreux 13.12,13).
+120 Que Lui reprochait-on? On ne Lui reprochait pas d’être un Baptiste ou un Méthodiste, je peux vous l’assurer On ne Lui reprochait pas d’être un Pharisien ou un Sadducéen. On Lui reprochait d’être la Parole authentifiée.
+121 Il supportait les reproches… Pourquoi cela? C’était la Parole authentifiée. C’est juste! C’est ce qu’Il fit. Il dit: “Si je ne fais pas les oeuvres de mon Père, ne me croyez pas. Si je ne suis pas la réponse à toutes les questions des Ecritures…”.
+122 Le Jésus du Nouveau Testament était le Jéhovah de l’Ancien Testament. C’est absolument vrai! Comme je vous le disais ici, à moins que ce ne soit ailleurs, il y a quelque temps lors d’une réunion: le Jéhovah de l’Ancien Testament est le Jésus du Nouveau. Vous vous souvenez de ce matin où j’avais été à la chasse aux écureuils. C’est alors qu’il y eut trois grands arc-en-ciel qui apparurent juste là sur la montagne et qui se fondirent en un seul; et je me tenais là en train de regarder cela. Je m’approchai davantage, ôtai mon chapeau et posai mon fusil. Je montai là-haut et il y eut une Voix qui fit trembler les bois; Elle disait: «Le Jésus du Nouveau Testament est le Jéhovah de l’Ancien Testament. Reste fidèle!». Cela arriva juste en dessous de l’endroit où étaient apparus les écureuils, où ils étaient venus à l’existence alors que là il n’y en avait aucun. Vous voyez? C’est vrai! Dieu devant qui je me tiens sait que c’est la vérité. C’est juste, c’est la
         http://www.cmpp.ch
 
     ALLANT AU-DELA DU CAMP    15
 vérité.
-123 C’était dans le Kentucky. Certaines personnes qui sont ici ce soir étaient présentes lorsque
-ceci arriva de nouveau. Oui, nous savons que c’est la vérité. Le Jésus du Nouveau Testament…
-124 C’est comme pour les Chinois lorsqu’ils vinrent ici pour la première fois; ils ne savaient ni lire
-ni écrire notre langue, mais c’étaient d’habiles blanchisseurs. Et vous savez comment cela se
-passe lorsque l’on va dans ces blanchisseries chinoises. Le patron prend simplement une vieille
-feuille de papier nette et blanche, il ne sait pas lire et il sait que vous ne pourriez pas lire s’il
-écrivait quelque chose dessus. Ainsi lorsque vous venez, il prend simplement cette feuille de
-papier blanche (c’est quelque chose comme cela, disons comme cette feuille ici) et il la déchire
-d’une certaine manière comme ceci. Puis il vous donne un des morceaux de papier et il garde
-l’autre. Et lorsque vous revenez chercher votre linge, il dit: «Montrez-moi votre morceau de
-papier». Puis il prend les deux morceaux de papier; s’ils correspondent, c’est bon. Il vous redonne
-alors votre linge sale nettoyé.
-125 Et la vie de Jésus concordait avec chaque prophétie, chaque dessein de Dieu. Le
-Jéhovah de l’Ancien Testament est le Jésus du Nouveau Testament. Il était en accord avec toute
-chose. Laissez-moi dire cela avec une crainte pieuse et respectueuse, mais aussi avec amour et
-sincérité, sachant où j’en suis, sachant que le Message de cette heure concorde avec tout ce dont
-la Bible a parlé au sujet de cette heure. Si maintenant vous avez des vêtements sales,
-apportez-les. Etes-vous lavés dans le Sang de l’Agneau?
-126 Remarquez qu’Il supporta le blâme car Il était la Parole authentifiée. Et il en est
-aujourd’hui comme il en fut alors. Il est le même hier, aujourd’hui comme il en fut alors. Il est Le
-même hier, aujourd’hui et pour toujours; nous trouvons cela dans Hébreux 13.8.
-127 En portant Son opprobre à cause de l’Evangile, c’était Son Nom qu’Il portait. Il dit: “Je suis
-venu au Nom de mon Père”. Quel est le Nom du Père? Il vint au Nom de Son Père. Il dit: “Je suis
-venu au Nom de mon Père et vous ne m’avez pas reçu”. Bien, quel est le Nom du Père? Je
-suppose que vous devriez le savoir. Vous voyez? Il portait l’opprobre de la Parole. Cela avait
-toujours été rejeté à l’extérieur de leurs camps: ils avaient toujours chassé cela. On se moquera de
-vous, on vous ridiculisera.
-128 Aujourd’hui je pense au jour où j’ai commencé à parcourir cette nation; ce n’est pas pour
-parler de moi; je vous en prie, ne croyez pas que c’est quelque chose de personnel! Mais ce soir
-mon temps est déjà écoulé et j’ai encore une dizaine de pages ici. Vous pouvez voir ce qu’il reste.
-129 Mais écoutez ceci. Aviez-vous remarqué que lorsque Jésus commença, les gens dirent de
-Lui: “Oh, ce jeune Maître! Oh, quel homme merveilleux! Viens vers nous, viens nous prêcher!”.
-130 Mais un jour, Il s’installa vers eux et leur dit: “A moins que vous ne mangiez la chair du Fils de
-l’homme et que vous ne buviez Son sang, vous n’avez pas de vie en vous-mêmes”.
-131 Que croyez-vous que les intellectuels et les docteurs de la foule pensèrent? “Cet homme est
-un vampire”. Vous voyez? Il veut que vous buviez du sang humain. C’est trop pour nous. Eloignez-
-vous de… Je crois que les prêtres dirent qu’Il était fou. Et la Bible dit qu’ils s’en allèrent.
-132 Il avait donc soixante-dix prêtres ordonnés. Il dit: “Je ne peux me faire comprendre d’eux”.
-C’est pourquoi, du regard, Il en fit le tour et dit: “Eh bien, que direz-vous lorsque vous verrez le Fils
-de l’homme s’élever dans le ciel d’où Il est venu?”. Mais Il ne leur expliqua jamais ces choses. Il
-les laissa tranquilles, tout simplement. Vous voyez?
-133 Et ils dirent: “Fils de l’homme? Qu’est-ce donc? Nous mangeons avec cet homme, nous
-pêchons avec lui. Nous sommes avec lui sur le rivage. Nous avons vu le berceau dans lequel il a
-été bercé. Nous connaissons sa mère; nous connaissons ses frères. Qui peut accepter une chose
-pareille?”. Et la Bible dit qu’ils n’allèrent plus avec Lui.
-134 Puis Il se tourna vers Pierre et les autres et dit: “Je vous ai choisis, vous les douze…”.
-Maintenant, de milliers qu’Il avait au départ, Il est descendu à douze. Il dit: “J’en ai choisi douze;
-l’un de vous est un démon; je le savais depuis le commencement”. Il dit: “Maintenant vous tous, ne
-voulez-vous pas vous en aller avec eux?”. Il n’avait pas à les dorloter ni à les choyer et leur dire:
-“Je ferai de vous un diacre si vous vous joignez à l’église”. Il ne travaillait pas par intérêt
-personnel. Il ne l’expliqua jamais. Les disciples non plus ne pouvaient pas l’expliquer, mais
-souvenez-vous qu’Il leur dit simplement: “Dès avant la fondation du monde je vous connaissais, et
-je vous avais prédestinés à être heureux avec moi”. Vous voyez? C’était cela, ils étaient
+123 C’était dans le Kentucky. Certaines personnes qui sont ici ce soir étaient présentes lorsque ceci arriva de nouveau. Oui, nous savons que c’est la vérité. Le Jésus du Nouveau Testament…
+124 C’est comme pour les Chinois lorsqu’ils vinrent ici pour la première fois; ils ne savaient ni lire ni écrire notre langue, mais c’étaient d’habiles blanchisseurs. Et vous savez comment cela se passe lorsque l’on va dans ces blanchisseries chinoises. Le patron prend simplement une vieille feuille de papier nette et blanche, il ne sait pas lire et il sait que vous ne pourriez pas lire s’il écrivait quelque chose dessus. Ainsi lorsque vous venez, il prend simplement cette feuille de papier blanche (c’est quelque chose comme cela, disons comme cette feuille ici) et il la déchire d’une certaine manière comme ceci. Puis il vous donne un des morceaux de papier et il garde l’autre. Et lorsque vous revenez chercher votre linge, il dit: «Montrez-moi votre morceau de papier». Puis il prend les deux morceaux de papier; s’ils correspondent, c’est bon. Il vous redonne alors votre linge sale nettoyé.
+125 Et la vie de Jésus concordait avec chaque prophétie, chaque dessein de Dieu. Le Jéhovah de l’Ancien Testament est le Jésus du Nouveau Testament. Il était en accord avec toute chose. Laissez-moi dire cela avec une crainte pieuse et respectueuse, mais aussi avec amour et sincérité, sachant où j’en suis, sachant que le Message de cette heure concorde avec tout ce dont la Bible a parlé au sujet de cette heure. Si maintenant vous avez des vêtements sales, apportez-les. Etes-vous lavés dans le Sang de l’Agneau?
+126 Remarquez qu’Il supporta le blâme car Il était la Parole authentifiée. Et il en est aujourd’hui comme il en fut alors. Il est le même hier, aujourd’hui comme il en fut alors. Il est Le même hier, aujourd’hui et pour toujours; nous trouvons cela dans Hébreux 13.8.
+127 En portant Son opprobre à cause de l’Evangile, c’était Son Nom qu’Il portait. Il dit: “Je suis venu au Nom de mon Père”. Quel est le Nom du Père? Il vint au Nom de Son Père. Il dit: “Je suis venu au Nom de mon Père et vous ne m’avez pas reçu”. Bien, quel est le Nom du Père? Je suppose que vous devriez le savoir. Vous voyez? Il portait l’opprobre de la Parole. Cela avait toujours été rejeté à l’extérieur de leurs camps: ils avaient toujours chassé cela. On se moquera de vous, on vous ridiculisera.
+128 Aujourd’hui je pense au jour où j’ai commencé à parcourir cette nation; ce n’est pas pour parler de moi; je vous en prie, ne croyez pas que c’est quelque chose de personnel! Mais ce soir mon temps est déjà écoulé et j’ai encore une dizaine de pages ici. Vous pouvez voir ce qu’il reste.
+129 Mais écoutez ceci. Aviez-vous remarqué que lorsque Jésus commença, les gens dirent de Lui: “Oh, ce jeune Maître! Oh, quel homme merveilleux! Viens vers nous, viens nous prêcher!”.
+130 Mais un jour, Il s’installa vers eux et leur dit: “A moins que vous ne mangiez la chair du Fils de l’homme et que vous ne buviez Son sang, vous n’avez pas de vie en vous-mêmes”.
+131 Que croyez-vous que les intellectuels et les docteurs de la foule pensèrent? “Cet homme est un vampire”. Vous voyez? Il veut que vous buviez du sang humain. C’est trop pour nous. Eloignez-vous de… Je crois que les prêtres dirent qu’Il était fou. Et la Bible dit qu’ils s’en allèrent.
+132 Il avait donc soixante-dix prêtres ordonnés. Il dit: “Je ne peux me faire comprendre d’eux”. C’est pourquoi, du regard, Il en fit le tour et dit: “Eh bien, que direz-vous lorsque vous verrez le Fils de l’homme s’élever dans le ciel d’où Il est venu?”. Mais Il ne leur expliqua jamais ces choses. Il les laissa tranquilles, tout simplement. Vous voyez?
+133 Et ils dirent: “Fils de l’homme? Qu’est-ce donc? Nous mangeons avec cet homme, nous pêchons avec lui. Nous sommes avec lui sur le rivage. Nous avons vu le berceau dans lequel il a été bercé. Nous connaissons sa mère; nous connaissons ses frères. Qui peut accepter une chose pareille?”. Et la Bible dit qu’ils n’allèrent plus avec Lui.
+134 Puis Il se tourna vers Pierre et les autres et dit: “Je vous ai choisis, vous les douze…”. Maintenant, de milliers qu’Il avait au départ, Il est descendu à douze. Il dit: “J’en ai choisi douze; l’un de vous est un démon; je le savais depuis le commencement”. Il dit: “Maintenant vous tous, ne voulez-vous pas vous en aller avec eux?”. Il n’avait pas à les dorloter ni à les choyer et leur dire: “Je ferai de vous un diacre si vous vous joignez à l’église”. Il ne travaillait pas par intérêt personnel. Il ne l’expliqua jamais. Les disciples non plus ne pouvaient pas l’expliquer, mais souvenez-vous qu’Il leur dit simplement: “Dès avant la fondation du monde je vous connaissais, et je vous avais prédestinés à être heureux avec moi”. Vous voyez? C’était cela, ils étaient
         http://www.cmpp.ch
 
     ALLANT AU-DELA DU CAMP                    16
 prédestinés dès avant la fondation du monde.
-135 Ces apôtres se tenaient là fermement. Ils n’auraient pas pu expliquer comment ils allaient
-manger Sa chair et boire Son sang! Ils ne pouvaient comprendre comment Il était descendu du
-Ciel alors qu’Il s’était toujours trouvé avec eux. Il ne pouvait pas le leur expliquer. Les gens ne
-pouvaient pas l’expliquer, personne ne pouvait l’expliquer. Mais Pierre eut ces paroles
-remarquables. Il n’est pas étonnant qu’Il lui ait donné les clefs. Il dit: “Seigneur, à qui irions-nous?
-Nous sommes persuadés, nous savons que Toi et Toi seul es la confirmation de la Parole promise
-pour ce jour. Nous savons que Toi seul as la Parole de Vie. Nous ne pouvons pas expliquer ces
-choses mais nous les croyons de toute manière!”.
-136 La petite Marthe dit: “Mon frère est mort. Il repose dans la tombe; son corps s’est décomposé
-et sent mauvais. Seigneur, si Tu avais été ici, mon frère ne serait pas mort. Mais même
-maintenant, quoi que Tu demandes à Dieu, Il Te le donnera”. Oh, mon Dieu!
-137 Il dit: “Je suis la Résurrection et la Vie. Celui qui croit en moi vivra bien qu’il soit mort.
-Quiconque vit et croit en moi ne mourra jamais. Crois-tu cela?”.
-138 Elle dit: “Oui, Seigneur. Je ne peux l’expliquer, mais je le crois. Je crois que Tu es le Christ qui
-devait venir dans le monde. Par la Parole écrite, je crois que Tu remplis les conditions de
-qualification de la Parole écrite.
+135 Ces apôtres se tenaient là fermement. Ils n’auraient pas pu expliquer comment ils allaient manger Sa chair et boire Son sang! Ils ne pouvaient comprendre comment Il était descendu du Ciel alors qu’Il s’était toujours trouvé avec eux. Il ne pouvait pas le leur expliquer. Les gens ne pouvaient pas l’expliquer, personne ne pouvait l’expliquer. Mais Pierre eut ces paroles remarquables. Il n’est pas étonnant qu’Il lui ait donné les clefs. Il dit: “Seigneur, à qui irions-nous? Nous sommes persuadés, nous savons que Toi et Toi seul es la confirmation de la Parole promise pour ce jour. Nous savons que Toi seul as la Parole de Vie. Nous ne pouvons pas expliquer ces choses mais nous les croyons de toute manière!”.
+136 La petite Marthe dit: “Mon frère est mort. Il repose dans la tombe; son corps s’est décomposé et sent mauvais. Seigneur, si Tu avais été ici, mon frère ne serait pas mort. Mais même maintenant, quoi que Tu demandes à Dieu, Il Te le donnera”. Oh, mon Dieu!
+137 Il dit: “Je suis la Résurrection et la Vie. Celui qui croit en moi vivra bien qu’il soit mort. Quiconque vit et croit en moi ne mourra jamais. Crois-tu cela?”.
+138 Elle dit: “Oui, Seigneur. Je ne peux l’expliquer, mais je le crois. Je crois que Tu es le Christ qui devait venir dans le monde. Par la Parole écrite, je crois que Tu remplis les conditions de qualification de la Parole écrite.
 139 Il dit: “Où L’avez-vous enterré?”.
-140 Oh, mon Dieu! Quelque chose doit se passer. Tous les rouages s’emboîtent au temps
-convenable. Vous voyez? Il descendit au tombeau. La Bible dit: “Son aspect n’avait rien pour nous
-plaire”. C’était probablement un homme aux épaules voûtées; Il se tenait là, les épaules
-tombantes, fatigué et lassé d’avoir marché. Il dit: “Lazare, lève-toi!”. Et un homme qui avait été
-mort pendant quatre jours se leva sur ses pieds.
-141 Une femme de la Science Chrétienne… Excusez-moi si je blesse vos sentiments, ce n’est pas
-mon intention de le faire. Une femme de la Science Chrétienne, venant de cette église, m’a
-rencontré un jour là dehors et a dit: «Monsieur Branham, j’aime votre façon de prêcher, mais il y a
-une chose sur laquelle vous appuyez trop!».
+140 Oh, mon Dieu! Quelque chose doit se passer. Tous les rouages s’emboîtent au temps convenable. Vous voyez? Il descendit au tombeau. La Bible dit: “Son aspect n’avait rien pour nous plaire”. C’était probablement un homme aux épaules voûtées; Il se tenait là, les épaules tombantes, fatigué et lassé d’avoir marché. Il dit: “Lazare, lève-toi!”. Et un homme qui avait été mort pendant quatre jours se leva sur ses pieds.
+141 Une femme de la Science Chrétienne… Excusez-moi si je blesse vos sentiments, ce n’est pas mon intention de le faire. Une femme de la Science Chrétienne, venant de cette église, m’a rencontré un jour là dehors et a dit: «Monsieur Branham, j’aime votre façon de prêcher, mais il y a une chose sur laquelle vous appuyez trop!».
      Je dis: «Qu’est-ce donc?».
      Elle dit: «Vous vantez trop Jésus».
 142 Je dis: «J’espère que c’est là tout ce qu’Il a contre moi». Vous voyez?
-143 Elle dit: «Vous en faites un dieu». Vous voyez, ils ne croient pas qu’Il était divin. Ils croient
-que c’était simplement un homme ordinaire, un bon professeur, un philosophe. Elle dit: «Vous en
-faites un dieu et il n’en était pas un».
+143 Elle dit: «Vous en faites un dieu». Vous voyez, ils ne croient pas qu’Il était divin. Ils croient que c’était simplement un homme ordinaire, un bon professeur, un philosophe. Elle dit: «Vous en faites un dieu et il n’en était pas un».
 144 Je dis: «Oh, certainement qu’Il l’était!».
      Elle dit: «Si je vous prouve par votre propre Bible qu’Il n’était pas divin, le croirez-vous?».
 145 — «Ma Bible dit qu’Il est divin. Je crois la Parole. C’est ce qu’Il est».
-     Et elle dit: «Dans Jean au chapitre 11, lorsque Jésus descendit dans le tombeau de Lazare, la
-Bible dit qu’Il pleura».
+     Et elle dit: «Dans Jean au chapitre 11, lorsque Jésus descendit dans le tombeau de Lazare, la Bible dit qu’Il pleura».
      Je dis: «Quel rapport y a-t-il avec cela?».
      Elle dit: «Eh bien, cela montre qu’Il n’était pas divin».
-146 Je dis: «Vous avez tout simplement oublié de voir Qui était cet homme. Il était à la fois
-Dieu et homme. C’était un homme qui pleurait lorsqu’Il pleura à cause de leur affliction; mais Il se
-tint là et dit: Lazare, sors! Et un homme qui avait été mort pendant quatre jours se tint de nouveau
-sur ses pieds. Il y avait là plus qu’un homme!». Certainement! Oui, vraiment!
-147 Et j’ai souvent fait la remarque que lorsqu’Il descendit cette nuit-là de la montagne et qu’Il
-était affamé, Il était un homme. Le lendemain matin, Il avait faim. Il était un homme. Mais lorsqu’Il
-prit deux pains et cinq poissons, qu’Il en nourrit cinq mille personnes et qu’ils en remportèrent sept
-paniers pleins, il y avait là plus qu’un homme. Oui, certainement! C’était un homme, sur la croix,
-lorsqu’Il cria: “Mon Dieu, mon Dieu, pourquoi m’as-Tu abandonné?”. C’était un homme lorsqu’Il
-cria: “Donnez-moi à boire!” et qu’ils Lui donnèrent du vinaigre. C’était un homme qui criait, mais
-le matin de Pâques, lorsqu’Il brisa tous les sceaux de la mort, de l’enfer et de la tombe et
-qu’Il se leva, Il était plus qu’un homme.
+146 Je dis: «Vous avez tout simplement oublié de voir Qui était cet homme. Il était à la fois Dieu et homme. C’était un homme qui pleurait lorsqu’Il pleura à cause de leur affliction; mais Il se tint là et dit: Lazare, sors! Et un homme qui avait été mort pendant quatre jours se tint de nouveau sur ses pieds. Il y avait là plus qu’un homme!». Certainement! Oui, vraiment!
+147 Et j’ai souvent fait la remarque que lorsqu’Il descendit cette nuit-là de la montagne et qu’Il était affamé, Il était un homme. Le lendemain matin, Il avait faim. Il était un homme. Mais lorsqu’Il prit deux pains et cinq poissons, qu’Il en nourrit cinq mille personnes et qu’ils en remportèrent sept paniers pleins, il y avait là plus qu’un homme. Oui, certainement! C’était un homme, sur la croix, lorsqu’Il cria: “Mon Dieu, mon Dieu, pourquoi m’as-Tu abandonné?”. C’était un homme lorsqu’Il cria: “Donnez-moi à boire!” et qu’ils Lui donnèrent du vinaigre. C’était un homme qui criait, mais le matin de Pâques, lorsqu’Il brisa tous les sceaux de la mort, de l’enfer et de la tombe et qu’Il se leva, Il était plus qu’un homme.
 
                               http://www.cmpp.ch
 
 ALLANT AU-DELA DU CAMP 17
-148 Il était un homme, certaine nuit où Il se trouvait avec les disciples à l’arrière de ce petit bateau
-et qu’Il se reposait. Dix mille démons de la mer avaient juré de Le noyer. Il se trouvait là-bas dans
-ce vieux petit bateau, ballotté comme un bouchon. Il était tellement fatigué qu’Il ne se réveilla
-même pas. Il était un homme lorsqu’Il était allé dormir, mais lorsqu’Il posa le pied sur le bord du
-bateau, qu’Il leva les yeux et dit: “Paix! Faites silence!” et que le vent et les vagues Lui obéirent, il
-y avait là plus qu’un homme; c’était Dieu! Il n’est pas étonnant que le poète ait dit:
+148 Il était un homme, certaine nuit où Il se trouvait avec les disciples à l’arrière de ce petit bateau et qu’Il se reposait. Dix mille démons de la mer avaient juré de Le noyer. Il se trouvait là-bas dans ce vieux petit bateau, ballotté comme un bouchon. Il était tellement fatigué qu’Il ne se réveilla même pas. Il était un homme lorsqu’Il était allé dormir, mais lorsqu’Il posa le pied sur le bord du bateau, qu’Il leva les yeux et dit: “Paix! Faites silence!” et que le vent et les vagues Lui obéirent, il y avait là plus qu’un homme; c’était Dieu! Il n’est pas étonnant que le poète ait dit:
      Vivant, Il m’aima; mourant, Il me sauva
      Ressuscité, Il me prouva librement qu’un jour
      Il viendrait pour toujours — oh! quel glorieux jour!
@@ -907,131 +283,37 @@ y avait là plus qu’un homme; c’était Dieu! Il n’est pas étonnant que le
      Jusqu’à ce la mort me libère;
      Alors j’irai à la maison et porterai une couronne
      Car une couronne est préparée pour moi.
-150 Pour terminer, je dirai ceci… Il y a quelque temps je lisais une histoire, c’était à propos d’un
-juge. C’était un homme juste, un homme bon qui était aimé. Et il y avait dans la ville un groupe de
-gens qui pensaient qu’ils pourraient s’en sortir en faisant n’importe quoi. Ils ouvrirent donc une
-maison mal famée; ils dirigèrent un commerce de liqueurs et de choses ainsi, ce qui est illégal. Et
-ils furent attrapés par la loi, par un employé fédéral qui les traduisit en justice. Et tous les gens de
-la petite ville s’assemblèrent; ils savaient que cet homme qui dirigeait cet endroit mal famé avait
-fait beaucoup d’autres choses. Le jury déclara que l’homme était coupable car il avait été pris sur
-le fait. Le juge déclara donc que cet homme était coupable et il lui infligea une peine de plusieurs
-années de prison. Il n’y eut pas de caution ni d’appel ni rien, mais il le condamna, car c’était
-l’application de la loi.
-151 Une fois sortis du tribunal, les gens rattrapèrent le juge et lui dirent: «Savez-vous que
-maintenant dans la ville tout le monde va vous haïr!». Ils ajoutèrent: «Ils vont vous haïr pour avoir
-pris cette décision au sujet de cet homme». Eux-mêmes étaient tous adonnés au jeu. Et ils dirent:
-«Nous allons tous vous haïr! Nous ne vous réélirons jamais. Il n’y en a plus aucun parmi nous qui
-votera pour vous!», lui dirent-ils en le huant tandis qu’il allait dans la rue.
-152 Il s’arrêta et dit: «Attendez une minute! Laissez-moi dire quelque chose! J’ai fait exactement
-ce qu’était mon devoir. Cet homme était coupable, peu importe qui il était. Et je devais le
-condamner selon la loi que j’ai juré de maintenir!».
+150 Pour terminer, je dirai ceci… Il y a quelque temps je lisais une histoire, c’était à propos d’un juge. C’était un homme juste, un homme bon qui était aimé. Et il y avait dans la ville un groupe de gens qui pensaient qu’ils pourraient s’en sortir en faisant n’importe quoi. Ils ouvrirent donc une maison mal famée; ils dirigèrent un commerce de liqueurs et de choses ainsi, ce qui est illégal. Et ils furent attrapés par la loi, par un employé fédéral qui les traduisit en justice. Et tous les gens de la petite ville s’assemblèrent; ils savaient que cet homme qui dirigeait cet endroit mal famé avait fait beaucoup d’autres choses. Le jury déclara que l’homme était coupable car il avait été pris sur le fait. Le juge déclara donc que cet homme était coupable et il lui infligea une peine de plusieurs années de prison. Il n’y eut pas de caution ni d’appel ni rien, mais il le condamna, car c’était l’application de la loi.
+151 Une fois sortis du tribunal, les gens rattrapèrent le juge et lui dirent: «Savez-vous que maintenant dans la ville tout le monde va vous haïr!». Ils ajoutèrent: «Ils vont vous haïr pour avoir pris cette décision au sujet de cet homme». Eux-mêmes étaient tous adonnés au jeu. Et ils dirent: «Nous allons tous vous haïr! Nous ne vous réélirons jamais. Il n’y en a plus aucun parmi nous qui votera pour vous!», lui dirent-ils en le huant tandis qu’il allait dans la rue.
+152 Il s’arrêta et dit: «Attendez une minute! Laissez-moi dire quelque chose! J’ai fait exactement ce qu’était mon devoir. Cet homme était coupable, peu importe qui il était. Et je devais le condamner selon la loi que j’ai juré de maintenir!».
      Ils dirent: «On vous hait dans cette ville!».
 153 Il dit: «Mais à la maison, mes gens m’aiment beaucoup!».
-154 Si vous me pardonnez l’expression, nous pourrions penser la même chose. Je tiens à faire ce
-pour quoi j’ai été sauvé; je maintiens cette Parole de Dieu! Je sais que les dénominations me
-haïssent à cause de ce que je dis, mais dans Sa Maison, parmi Son peuple, je suis profondément
-aimé. Prions!
-155 Seigneur Jésus, il se peut que le monde nous haïsse, mais nous sommes aimés du Père.
-Aide-nous, ô Dieu bien-aimé. Aide ces gens, aide chacun d’eux, Seigneur, afin que Tes
-bénédictions reposent sur eux. Allons maintenant au-delà du camp. Allons au-delà de notre propre
-pensée. Marchons selon la pensée de Dieu. La Bible dit ceci: “Que l’Esprit qui était en Christ soit
-en vous”. Ainsi, pensons Ses pensées et non pas nos propres pensées, car la plupart du temps
-nous avons tort. Soyons donc sûrs que Sa pensée repose en nous. Et Sa pensée était de faire la
-volonté du Père, et la volonté du Père est Sa Parole promise.
-156 Ce soir, allons au-delà du camp, Seigneur, et trouvons Jésus. Nous ne Le trouverons jamais
-en nous joignant à une église; nous ne Le trouverons jamais en serrant la main de quelque
-pasteur, ni en signant quelque credo, ni en promettant d’aller tant de jours par an à l’école du
-dimanche. Nous Le trouverons seulement dans la Parole car Il est la Parole.
-157 Et comme nous avons vu qu’il a été promis qu’en ce jour Il serait mis hors du camp, qu’on Le
-rejetterait de nouveau, allons au-delà du camp, préparons-nous à supporter Son opprobre, à être
-haïs de ce monde mais aimés de Celui qui nous a invités dans le camp. Accorde-le, Seigneur.
+154 Si vous me pardonnez l’expression, nous pourrions penser la même chose. Je tiens à faire ce pour quoi j’ai été sauvé; je maintiens cette Parole de Dieu! Je sais que les dénominations me haïssent à cause de ce que je dis, mais dans Sa Maison, parmi Son peuple, je suis profondément aimé. Prions!
+155 Seigneur Jésus, il se peut que le monde nous haïsse, mais nous sommes aimés du Père. Aide-nous, ô Dieu bien-aimé. Aide ces gens, aide chacun d’eux, Seigneur, afin que Tes bénédictions reposent sur eux. Allons maintenant au-delà du camp. Allons au-delà de notre propre pensée. Marchons selon la pensée de Dieu. La Bible dit ceci: “Que l’Esprit qui était en Christ soit en vous”. Ainsi, pensons Ses pensées et non pas nos propres pensées, car la plupart du temps nous avons tort. Soyons donc sûrs que Sa pensée repose en nous. Et Sa pensée était de faire la volonté du Père, et la volonté du Père est Sa Parole promise.
+156 Ce soir, allons au-delà du camp, Seigneur, et trouvons Jésus. Nous ne Le trouverons jamais en nous joignant à une église; nous ne Le trouverons jamais en serrant la main de quelque pasteur, ni en signant quelque credo, ni en promettant d’aller tant de jours par an à l’école du dimanche. Nous Le trouverons seulement dans la Parole car Il est la Parole.
+157 Et comme nous avons vu qu’il a été promis qu’en ce jour Il serait mis hors du camp, qu’on Le rejetterait de nouveau, allons au-delà du camp, préparons-nous à supporter Son opprobre, à être haïs de ce monde mais aimés de Celui qui nous a invités dans le camp. Accorde-le, Seigneur.
 158 S’il en est ici qui ne Le connaissent pas et qui n’ont jamais été au-delà du camp, au-delà de
         http://www.cmpp.ch
 
 ALLANT AU-DELA DU CAMP 18
-quelque affiliation à une église, et qui prétendent malgré tout être chrétiens… Mais lorsque vous
-dites des choses comme: «Je crois que c’était pour un autre jour», cela montre que ce n’est pas le
-Saint-Esprit. Comment un homme rempli du Saint-Esprit peut-il être baptisé au Nom du Père, Fils
-et Saint-Esprit alors que Paul, le grand apôtre, dit: “Si un ange venant du ciel…”. Il se peut que
-vous l’ayez fait une fois ne connaissant pas autre chose. Dans Actes 19, ces gens ne
-connaissaient rien d’autre. Mais Paul dit: “Si un ange prêche autre chose, qu’il soit anathème”.
-Comment pouvez-vous accepter quelque credo ou quelque isme ou quelque chose d’autre quand
-la Bible dit que la promesse est pour vous, que c’est cela le vrai baptême du Saint-Esprit…?
-159 Comment le Saint-Esprit qui écrivit la Parole peut-Il renier cette Parole en vous? Comment
-peut-Il La renier, alors que ce Saint-Esprit Lui-même a dit: “Si quelqu’un ajoute un seul mot à cette
-Parole ou en retranche un seul mot, je retrancherai sa part du Livre de Vie”? Comment le
-Saint-Esprit peut-Il donc retrancher quelque chose à cette Parole ou y ajouter quelque
-chose?
-160 Mon ami qui te trouves ici, ou quelque part dans ce monde qui nous est invisible maintenant
-mais où ira cet enregistrement, que l’enseignement que tu as reçu du message de ce matin
-pénètre profondément dans ton coeur. Si tu n’as pas encore reçu cette ordonnance dont j’ai parlé
-il y a un moment, ne veux-tu pas la recevoir? Nous sommes ici pour faire tout ce que nous
-pouvons pour t’aider.
-161 Je ne suis qu’un témoin; je ne suis qu’un électeur, comme ceux que nous avons dans la
-Convention Démocrate du Kentucky à Louisville; ils construisent les plateformes pour que leur
-homme soit élu. Moi aussi je construis une plateforme pour mon Seigneur. Ne voulez-vous pas Le
-recevoir ce soir comme étant le Vôtre?
-162 Tandis que nos têtes et nos coeurs sont inclinés en ce moment, voulez-vous simplement lever
-les mains et dire à Dieu (non à moi, je ne suis qu’un homme): «O Dieu, sois miséricordieux envers
-moi. Je désire véritablement toutes ces choses dont j’ai entendu parler. Je veux aller au-delà du
-camp. Peu m’importe ce que les autres disent!…». Que Dieu vous bénisse! Oh, mon Dieu, toutes
-ces mains, toutes ces mains! «Je veux aller au-delà du camp. Peu m’importe ce que cela me
-coûtera, je prendrai ma croix et la porterai chaque jour. J’irai au-delà du camp. Peu importe ce que
-les gens diront de moi, je veux Le suivre hors du camp. Je suis prêt à partir».
-163 Père céleste, tu as vu ces mains. Il y a une centaine de personnes ou peut-être davantage
-dans cette salle qui ont levé la main. Seigneur, quelque chose est près d’eux maintenant, il y a
-quelque autre Personne, la Personne de Christ, invisible à l’oeil naturel et qui leur a fait prendre
-une décision. Ils ont regardé leur propre vie dans un miroir afin de se connaître; ils se sont aperçus
-que quelque chose manquait et ils veulent que leur vie soit formée selon la promesse de Dieu.
-C’est avec une profonde sincérité qu’ils ont levé la main. Aide-les, Seigneur, afin que ce soir ils
-passent cette grande Porte conduisant au bercail. Puissent-ils entrer doucement et humblement.
-Accorde-le! Ils sont à Toi, Seigneur, occupe-Toi d’eux.
-164 Maintenant, ils n’auraient pas pu prendre cette décision, ils n’auraient pas pu lever la main si
-ce n’était avec le secours de quelque chose de surnaturel. Cela montre qu’il y a une vie quelque
-part là; car selon la science, la gravitation devrait attirer nos mains vers le bas. Mais quelque
-chose a frappé leur esprit, leur a fait défier les lois de la gravitation et lever les mains vers le
-Créateur qui leur a donné ces mains. «Oui, je veux parcourir tout le chemin; ce soir je veux aller
-au-delà du camp».
-165 Seigneur, le bassin est prêt pour le premier pas à faire après la repentance, c’est-à-dire le
-baptême, puis la promesse de recevoir le Saint-Esprit. En ces derniers jours, il y a un retour à la
-foi originale, à l’ordonnance originale. Nous voyons trop de gens s’éloigner de Christ et mourir à
-cause d’autres ordonnances faites par les hommes. Il se peut que ces ordonnances soient
-valables dans leurs dénominations mais, Seigneur, c’est Ton ordonnance que je veux. Tu es notre
-Médecin; il y a ici un Médecin; à Galaad il y a un baume; ce soir, il y a un Médecin qui peut guérir
-chaque âme malade du péché, Il peut guérir physiquement chaque être. O glorieux Médecin de
-tous les temps, glorieux Créateur des cieux et de la terre, viens maintenant parmi nous et
-parle-nous! Au Nom de Jésus-Christ.
-166 Que chacun prie dans son coeur et dise: «Seigneur Jésus, maintenant aide-moi!…». Et si
-vous n’avez jamais été baptisé (je n’ai pas prêché sur le baptême) et que vous êtes convaincu que
-vous devriez être baptisé du baptême chrétien, qui est le seul que tout chrétien…
+quelque affiliation à une église, et qui prétendent malgré tout être chrétiens… Mais lorsque vous dites des choses comme: «Je crois que c’était pour un autre jour», cela montre que ce n’est pas le Saint-Esprit. Comment un homme rempli du Saint-Esprit peut-il être baptisé au Nom du Père, Fils et Saint-Esprit alors que Paul, le grand apôtre, dit: “Si un ange venant du ciel…”. Il se peut que vous l’ayez fait une fois ne connaissant pas autre chose. Dans Actes 19, ces gens ne connaissaient rien d’autre. Mais Paul dit: “Si un ange prêche autre chose, qu’il soit anathème”. Comment pouvez-vous accepter quelque credo ou quelque isme ou quelque chose d’autre quand la Bible dit que la promesse est pour vous, que c’est cela le vrai baptême du Saint-Esprit…?
+159 Comment le Saint-Esprit qui écrivit la Parole peut-Il renier cette Parole en vous? Comment peut-Il La renier, alors que ce Saint-Esprit Lui-même a dit: “Si quelqu’un ajoute un seul mot à cette Parole ou en retranche un seul mot, je retrancherai sa part du Livre de Vie”? Comment le Saint-Esprit peut-Il donc retrancher quelque chose à cette Parole ou y ajouter quelque chose?
+160 Mon ami qui te trouves ici, ou quelque part dans ce monde qui nous est invisible maintenant mais où ira cet enregistrement, que l’enseignement que tu as reçu du message de ce matin pénètre profondément dans ton coeur. Si tu n’as pas encore reçu cette ordonnance dont j’ai parlé il y a un moment, ne veux-tu pas la recevoir? Nous sommes ici pour faire tout ce que nous pouvons pour t’aider.
+161 Je ne suis qu’un témoin; je ne suis qu’un électeur, comme ceux que nous avons dans la Convention Démocrate du Kentucky à Louisville; ils construisent les plateformes pour que leur homme soit élu. Moi aussi je construis une plateforme pour mon Seigneur. Ne voulez-vous pas Le recevoir ce soir comme étant le Vôtre?
+162 Tandis que nos têtes et nos coeurs sont inclinés en ce moment, voulez-vous simplement lever les mains et dire à Dieu (non à moi, je ne suis qu’un homme): «O Dieu, sois miséricordieux envers moi. Je désire véritablement toutes ces choses dont j’ai entendu parler. Je veux aller au-delà du camp. Peu m’importe ce que les autres disent!…». Que Dieu vous bénisse! Oh, mon Dieu, toutes ces mains, toutes ces mains! «Je veux aller au-delà du camp. Peu m’importe ce que cela me coûtera, je prendrai ma croix et la porterai chaque jour. J’irai au-delà du camp. Peu importe ce que les gens diront de moi, je veux Le suivre hors du camp. Je suis prêt à partir».
+163 Père céleste, tu as vu ces mains. Il y a une centaine de personnes ou peut-être davantage dans cette salle qui ont levé la main. Seigneur, quelque chose est près d’eux maintenant, il y a quelque autre Personne, la Personne de Christ, invisible à l’oeil naturel et qui leur a fait prendre une décision. Ils ont regardé leur propre vie dans un miroir afin de se connaître; ils se sont aperçus que quelque chose manquait et ils veulent que leur vie soit formée selon la promesse de Dieu. C’est avec une profonde sincérité qu’ils ont levé la main. Aide-les, Seigneur, afin que ce soir ils passent cette grande Porte conduisant au bercail. Puissent-ils entrer doucement et humblement. Accorde-le! Ils sont à Toi, Seigneur, occupe-Toi d’eux.
+164 Maintenant, ils n’auraient pas pu prendre cette décision, ils n’auraient pas pu lever la main si ce n’était avec le secours de quelque chose de surnaturel. Cela montre qu’il y a une vie quelque part là; car selon la science, la gravitation devrait attirer nos mains vers le bas. Mais quelque chose a frappé leur esprit, leur a fait défier les lois de la gravitation et lever les mains vers le Créateur qui leur a donné ces mains. «Oui, je veux parcourir tout le chemin; ce soir je veux aller au-delà du camp».
+165 Seigneur, le bassin est prêt pour le premier pas à faire après la repentance, c’est-à-dire le baptême, puis la promesse de recevoir le Saint-Esprit. En ces derniers jours, il y a un retour à la foi originale, à l’ordonnance originale. Nous voyons trop de gens s’éloigner de Christ et mourir à cause d’autres ordonnances faites par les hommes. Il se peut que ces ordonnances soient valables dans leurs dénominations mais, Seigneur, c’est Ton ordonnance que je veux. Tu es notre Médecin; il y a ici un Médecin; à Galaad il y a un baume; ce soir, il y a un Médecin qui peut guérir chaque âme malade du péché, Il peut guérir physiquement chaque être. O glorieux Médecin de tous les temps, glorieux Créateur des cieux et de la terre, viens maintenant parmi nous et parle-nous! Au Nom de Jésus-Christ.
+166 Que chacun prie dans son coeur et dise: «Seigneur Jésus, maintenant aide-moi!…». Et si vous n’avez jamais été baptisé (je n’ai pas prêché sur le baptême) et que vous êtes convaincu que vous devriez être baptisé du baptême chrétien, qui est le seul que tout chrétien…
 
         http://www.cmpp.ch
 
 ALLANT AU-DELA DU CAMP 19
-167 Qu’arriverait-il si vous veniez ici pour être baptisé d’une autre manière alors que Jésus
-Lui-même a dit: “Quiconque ajoutera un mot ou retranchera un mot, sa part sera retranchée du
-Livre de Vie!”? Jésus a dit cela et Il a aussi dit: “Toute l’Ecriture est inspirée et doit être accomplie”.
-Maintenant, vous avez une meilleure connaissance. Qu’allez-vous faire?
-168 Si vous n’avez qu’une sensation ou quelque chose ainsi… Je crois aux sentiments. Si vous
-avez seulement dansé en Esprit, parlé en langues… Je crois aussi en ces choses. Mais si cela ne
-va pas plus loin et que votre esprit vous dise de ne pas suivre la Parole alors que vous savez
-qu’Elle est juste, c’est qu’il y a quelque chose qui ne va pas avec cet esprit. Ce n’est pas le
-Saint-Esprit. Cela ne se peut pas. Vous voyez? Il devrait identifier Sa propre Parole, vous savez
-cela. Vous pouvez vous préparer à venir maintenant, tandis que nous prions.
-169 Jésus de Nazareth, approche-Toi maintenant et parle à chaque coeur. Je Te les confie,
-puissent-ils… Toutes ces mains levées sont des trophées du Message, Seigneur, cela vient de Toi
-et de Ton auguste présence qui se trouve parmi nous maintenant. N’importe quel homme sensible
-à l’Esprit peut dire que Tu es ici en sentant cette grande sainteté. Accorde-le maintenant,
-Seigneur. Au Nom de Jésus-Christ.
-170 Maintenant, tandis que nos têtes sont inclinées, s’il y a ici un homme qui aimerait être baptisé
-au Nom de Jésus-Christ, qui aimerait se repentir, qui aimerait rechercher le baptême du
-Saint-Esprit, il y a une pièce libre à ma gauche. Pour les femmes, cela se trouve à droite. Il y aura
-quelqu’un pour vous renseigner. Des robes de baptême sont préparées, tout est prêt. Maintenant,
-tandis que nos têtes sont inclinées, chantons:
+167 Qu’arriverait-il si vous veniez ici pour être baptisé d’une autre manière alors que Jésus Lui-même a dit: “Quiconque ajoutera un mot ou retranchera un mot, sa part sera retranchée du Livre de Vie!”? Jésus a dit cela et Il a aussi dit: “Toute l’Ecriture est inspirée et doit être accomplie”. Maintenant, vous avez une meilleure connaissance. Qu’allez-vous faire?
+168 Si vous n’avez qu’une sensation ou quelque chose ainsi… Je crois aux sentiments. Si vous avez seulement dansé en Esprit, parlé en langues… Je crois aussi en ces choses. Mais si cela ne va pas plus loin et que votre esprit vous dise de ne pas suivre la Parole alors que vous savez qu’Elle est juste, c’est qu’il y a quelque chose qui ne va pas avec cet esprit. Ce n’est pas le Saint-Esprit. Cela ne se peut pas. Vous voyez? Il devrait identifier Sa propre Parole, vous savez cela. Vous pouvez vous préparer à venir maintenant, tandis que nous prions.
+169 Jésus de Nazareth, approche-Toi maintenant et parle à chaque coeur. Je Te les confie, puissent-ils… Toutes ces mains levées sont des trophées du Message, Seigneur, cela vient de Toi et de Ton auguste présence qui se trouve parmi nous maintenant. N’importe quel homme sensible à l’Esprit peut dire que Tu es ici en sentant cette grande sainteté. Accorde-le maintenant, Seigneur. Au Nom de Jésus-Christ.
+170 Maintenant, tandis que nos têtes sont inclinées, s’il y a ici un homme qui aimerait être baptisé au Nom de Jésus-Christ, qui aimerait se repentir, qui aimerait rechercher le baptême du Saint-Esprit, il y a une pièce libre à ma gauche. Pour les femmes, cela se trouve à droite. Il y aura quelqu’un pour vous renseigner. Des robes de baptême sont préparées, tout est prêt. Maintenant, tandis que nos têtes sont inclinées, chantons:
     J’entends l’appel de mon Sauveur…
-
-
-
 
 
 
@@ -1042,9 +324,6 @@ tandis que nos têtes sont inclinées, chantons:
     http://www.cmpp.ch
 
 ALLANT AU-DELA DU CAMP    20
-
-
-
 
 
 

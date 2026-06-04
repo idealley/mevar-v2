@@ -1,312 +1,143 @@
-    WILLIAM BRANHAM
+---
+source: "cmpp"
+sermon_id: "william"
+title: "William Branham — Un Prophète Envoyé par Dieu"
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Ewald Frank témoigne de sa connaissance personnelle de William Branham et présente son ministère prophétique, confirmé par des signes surnaturels et des guérisons, en s'appuyant sur les Écritures pour établir sa légitimité."
+tags:
+  - "William Branham"
+  - "prophète"
+  - "guérison divine"
+  - "signes et prodiges"
+  - "ministère prophétique"
+persons:
+  - "William Branham"
+  - "Ewald Frank"
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Élie"
+  - "Jean-Baptiste"
+  - "Pierre"
+  - "Paul"
+  - "Gordon Lindsay"
+  - "David Duplessis"
+  - "Demos Shakarian"
+  - "Roy Davis"
+places:
+  - "États-Unis"
+  - "Afrique du Sud"
+  - "Inde"
+  - "Allemagne"
+  - "Suisse"
+  - "Finlande"
+  - "Angleterre"
+  - "Dallas (Texas)"
+  - "Buckingham Palace"
+themes:
+  - "Appel divin"
+  - "Confirmation surnaturelle"
+  - "Prophétie biblique"
+  - "Guérison divine"
+  - "Signes des temps"
+  - "Révélation"
+  - "Discernement des esprits"
+pdf_url: "http://cmpp.ch/william.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 1"
+  - "1 Rois 19"
+  - "Actes 3"
+  - "Amos 3"
+  - "Deutéronome 18"
+  - "Exode 4"
+  - "Hébreux 1"
+  - "Hébreux 12"
+  - "Hébreux 2"
+  - "Jean 1"
+  - "Jean 14"
+  - "Jean 3"
+  - "Jean 4"
+  - "Jean 5"
+  - "Job 38"
+  - "Malachie 4"
+  - "Marc 16"
+  - "Romains 1"
+  - "Ésaïe 43"
+---
+WILLIAM BRANHAM
 
-  UN PROPHETE
-ENVOYE PAR DIEU
+UN PROPHETE ENVOYE PAR DIEU
 
+EWALD FRANK
 
+INTRODUCTION
 
+Au cours de mes voyages pour la publication de la Parole de Dieu, il m’a souvent été demandé de faire paraître quelque chose sur William M. Branham. Je l’ai connu personnellement pendant exactement 10 ans (1955–1965) et j’ai été avec lui aussi bien en Europe qu’aux Etats-Unis. Nous avons mangé à la même table et avons voyagé dans la même voiture. Je l’ai vu vivre en tant qu’homme et en tant que serviteur de Dieu. Il m’a été accordé le privilège d’être un témoin oculaire et auriculaire du ministère exceptionnel que Dieu lui avait donné. Ainsi je puis parler et écrire à son sujet avec une connaissance personnelle et approfondie. Je suis également en possession de plus de trois cents de ses prédications, et j’ai pu de cette manière me faire une opinion générale de sa manière de prêcher la Parole de Dieu, de son apostolat hors du commun et du Message que Dieu lui a accordé de porter.
 
+Au cours de sa vie, ainsi qu’après son départ dans la patrie céleste, en décembre 1965, il a été particulièrement apprécié des uns, alors qu’il était formellement rejeté des autres. Dans des périodiques chrétiens il a été jugé très négativement par des auteurs qui ne l’avaient pas personnellement connu, non plus que son ministère. Par contre la presse officielle en général a parlé de lui positivement. Il est bien connu que les personnalités publiques sont en majeure partie jugées très différemment. Mais le sort réservé à ceux qui sortent des habitudes traditionnelles est particulièrement mauvais.
 
+Depuis toujours on a employé la notion de “prophètes” et de “prophétesses” à l’égard des hommes et des femmes qui se sont présentés avec une révélation. Nous trouvons cette expression déjà dans les Saintes Ecritures. Abraham, Moïse, Elie, ainsi que beaucoup d’autres, étaient des prophètes confirmés par Dieu. Par ce mot de “prophète” la pensée doit exprimer le fait que ce n’est pas l’homme qui parle, mais bien Dieu Lui-même au travers de l’homme. En tant que bouche de Dieu sur la terre, le prophète devait être Son porte-voix; c’est la raison pour laquelle nous trouvons dans la bouche de ces hommes envoyés par Dieu, lesquels ont réellement parlé au Nom du Seigneur, le “AINSI DIT LE SEIGNEUR”. C’est uniquement après que le Seigneur Dieu leur ait parlé de bouche à oreille, c’est à dire d’une manière audible, que ces hommes pouvaient dire: “AINSI A DIT LE SEIGNEUR!”.
 
+De plus ils voyaient certains événements en vision et c’est pourquoi ils étaient aussi appelés des “voyants”. L’inspiration de l’Esprit venait s’ajouter à ce qu’ils avaient vu, et de cette manière ce qui avait été vu et révélé était exprimé, puis écrit en tant que Parole de Dieu.
 
+Le prophète le plus connu de l’Ancien Testament est Moïse. L’Invisible Se révélait à lui de façon visible sous la forme d’un homme et lui parlait face à face. Le voyant et prophète le plus connu du Nouveau Testament est l’apôtre Jean. Il relate dans le dernier livre de la Bible ce qu’il a vu et entendu. Il vit le cours de l’histoire de l’humanité se dérouler devant lui jusqu’à la fin, conformément au plan du salut divin. Il vit même les nouveaux Cieux et la nouvelle terre, c’est à dire le nouveau commencement. “Or le Seigneur, l’Eternel, ne fera rien, qu’il ne révèle son secret ses serviteurs les prophètes” (Amos 3.7).
 
+On peut a juste titre se poser la question de savoir comment différencier un vrai prophète d’un faux, car il en est beaucoup qui prétendent être envoyés de Dieu. En tout temps il y eut de vrais et de faux prophètes. Le Seigneur Lui-même nous a prévenus, disant que beaucoup de faux prophètes se lèveraient dans les derniers jours, mais Il a aussi fait la promesse d’envoyer un prophète à l’exemple d’Elie avant que vienne le grand et terrible jour de l’Eternel (Malachie 4.5; Mat.17.11).
 
-    EWALD FRANK
+Il existe cependant un critère sûr et constant, un étalon qui doit être employé pour éprouver les prophètes: C’est la Parole de Dieu infaillible, Laquelle demeure éternellement et conserve toute sa valeur. L’Ancien et le Nouveau Testament renferment le plan parfait et définitif, conçu par Dieu, du salut révélé. La personne qui se lève, prétendant être prophète ou prophétesse, doit être prêt à soumettre ce qu’il enseigne, révèle ou pratique, à l’épreuve du témoignage d’ensemble des saintes Ecritures. D’un seul coup et instantanément la personne en cause se trouve disqualifiée par le moindre rajout ou déviation, le moindre retrait ou transformation qu’elle aurait effectué. Celui qui parle de la part de Dieu, c’est à dire celui par lequel Dieu parle effectivement, celui-ci ne peut dire que ce qui a déjà été dit. L’Ancien et le Nouveau Testament, renferment ensembles toutes les doctrines, la connaissance et les révélations, et c’est la raison pour laquelle intervient la menace du châtiment définitif porté dans le dernier chapitre de la Bible contre ceux qui ajoutent ou retranchent quelque chose à la Parole écrite de Dieu. De toute façon Dieu demeure souverain en ce qu’Il fait. Il dit: “Voici, je fais une chose nouvelle…” (Ésaïe 43.19). Il fait ce qui Lui plaît sans en avoir fait connaître les détails auparavant.
 
-    WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU    2
+William Branham n’est pas venu avec de nouvelles révélations; son ministère consistait uniquement à remettre sur le chandelier ce qui était déjà attesté de la Parole et nous avait été transmis par les prophètes et les apôtres. Au travers du ministère qui lui avait été confié, Dieu fit d’une part quelque chose de nouveau, et d’autre part Il fit arriver ce qui était déjà arrivé auparavant. Celui qui reçoit un tel prophète envoyé de Dieu, recevra aussi la récompense d’un prophète (Mat. 10.41).
 
+Il est vrai qu’en apportant une prédication absolument biblique il se mettait en contradiction avec les interprétations traditionnelles ayant cours dans les églises officielles ou libres. Cependant, l’accord impressionnant qu’il y avait entre les Saintes Ecritures, ses doctrines et ce qu’il pratiquait, oblige tout homme sincère, qu’il soit d’un clergé ou qu’il soit simple laïque, à éprouver l’enseignement et la pratique qui lui sont propres. A tout chercheur sincère de la Vérité il ne reste alors plus qu’à se soumettre au seul témoignage valable devant Dieu, celui des Ecritures. C’est sur la base de ce fondement inébranlable, le fondement sur lequel l’Eglise primitive a été bâtie, que le jugement doit être entrepris.
 
-        INTRODUCTION
-   Au cours de mes voyages pour la publication de la Parole de Dieu, il m’a souvent été demandé
-de faire paraître quelque chose sur William M. Branham. Je l’ai connu personnellement pendant
-exactement 10 ans (1955–1965) et j’ai été avec lui aussi bien en Europe qu’aux Etats-Unis. Nous
-avons mangé à la même table et avons voyagé dans la même voiture. Je l’ai vu vivre en tant
-qu’homme et en tant que serviteur de Dieu. Il m’a été accordé le privilège d’être un témoin oculaire
-et auriculaire du ministère exceptionnel que Dieu lui avait donné. Ainsi je puis parler et écrire à son
-sujet avec une connaissance personnelle et approfondie. Je suis également en possession de plus
-de trois cents de ses prédications, et j’ai pu de cette manière me faire une opinion générale de sa
-manière de prêcher la Parole de Dieu, de son apostolat hors du commun et du Message que Dieu
-lui a accordé de porter.
-   Au cours de sa vie, ainsi qu’après son départ dans la patrie céleste, en décembre 1965, il a été
-particulièrement apprécié des uns, alors qu’il était formellement rejeté des autres. Dans des
-périodiques chrétiens il a été jugé très négativement par des auteurs qui ne l’avaient pas
-personnellement connu, non plus que son ministère. Par contre la presse officielle en général a
-parlé de lui positivement. Il est bien connu que les personnalités publiques sont en majeure partie
-jugées très différemment. Mais le sort réservé à ceux qui sortent des habitudes traditionnelles est
-particulièrement mauvais.
-   Depuis toujours on a employé la notion de “prophètes” et de “prophétesses” à l’égard des
-hommes et des femmes qui se sont présentés avec une révélation. Nous trouvons cette
-expression déjà dans les Saintes Ecritures. Abraham, Moïse, Elie, ainsi que beaucoup d’autres,
-étaient des prophètes confirmés par Dieu. Par ce mot de “prophète” la pensée doit exprimer le fait
-que ce n’est pas l’homme qui parle, mais bien Dieu Lui-même au travers de l’homme. En tant que
-bouche de Dieu sur la terre, le prophète devait être Son porte-voix; c’est la raison pour laquelle
-nous trouvons dans la bouche de ces hommes envoyés par Dieu, lesquels ont réellement parlé au
-Nom du Seigneur, le “AINSI DIT LE SEIGNEUR”. C’est uniquement après que le Seigneur Dieu
-leur ait parlé de bouche à oreille, c’est à dire d’une manière audible, que ces hommes pouvaient
-dire: “AINSI A DIT LE SEIGNEUR!”.
-   De plus ils voyaient certains événements en vision et c’est pourquoi ils étaient aussi appelés
-des “voyants”. L’inspiration de l’Esprit venait s’ajouter à ce qu’ils avaient vu, et de cette manière ce
-qui avait été vu et révélé était exprimé, puis écrit en tant que Parole de Dieu.
-   Le prophète le plus connu de l’Ancien Testament est Moïse. L’Invisible Se révélait à lui de façon
-visible sous la forme d’un homme et lui parlait face à face. Le voyant et prophète le plus connu du
-Nouveau Testament est l’apôtre Jean. Il relate dans le dernier livre de la Bible ce qu’il a vu et
-entendu. Il vit le cours de l’histoire de l’humanité se dérouler devant lui jusqu’à la fin,
-conformément au plan du salut divin. Il vit même les nouveaux Cieux et la nouvelle terre, c’est à
-dire le nouveau commencement. “Or le Seigneur, l’Eternel, ne fera rien, qu’il ne révèle son secret
-ses serviteurs les prophètes” (Amos 3.7).
-   On peut a juste titre se poser la question de savoir comment différencier un vrai prophète d’un
-faux, car il en est beaucoup qui prétendent être envoyés de Dieu. En tout temps il y eut de vrais et
-de faux prophètes. Le Seigneur Lui-même nous a prévenus, disant que beaucoup de faux
-prophètes se lèveraient dans les derniers jours, mais Il a aussi fait la promesse d’envoyer un
-prophète à l’exemple d’Elie avant que vienne le grand et terrible jour de l’Eternel (Malachie 4.5;
-Mat.17.11).
-   Il existe cependant un critère sûr et constant, un étalon qui doit être employé pour éprouver les
-prophètes: C’est la Parole de Dieu infaillible, Laquelle demeure éternellement et conserve toute sa
-valeur. L’Ancien et le Nouveau Testament renferment le plan parfait et définitif, conçu par Dieu, du
-salut révélé. La personne qui se lève, prétendant être prophète ou prophétesse, doit être prêt à
-soumettre ce qu’il enseigne, révèle ou pratique, à l’épreuve du témoignage d’ensemble des
-saintes Ecritures. D’un seul coup et instantanément la personne en cause se trouve disqualifiée
-par le moindre rajout ou déviation, le moindre retrait ou transformation qu’elle aurait effectué. Celui
-qui parle de la part de Dieu, c’est à dire celui par lequel Dieu parle effectivement, celui-ci ne peut
+CONFIRMATION SURNATURELLE
 
-http://www.cmpp.ch
+De tous temps les hommes envoyés par Dieu ont été légitimés sur terre par un témoignage venu du ciel. Lors du christianisme primitif la poursuite du ministère commencé par Jésus, le Christ du Dieu Vivant, se fit après la résurrection du Rédempteur au travers des rachetés. Après l’effusion du Saint-Esprit le jour de Pentecôte, la prédication apostolique fut accompagnée de la coopération du Seigneur, qui de cette manière confirmait la prédication. C’est l’Eglise primitive qui en toutes circonstances est l’exemple valable pour toute la durée du temps de la grâce. “Le Seigneur donc, après leur avoir parlé, fut élevé en haut dans le ciel, et s’assit la droite de Dieu. Et eux, étant partis prêchèrent partout, le Seigneur coopérant avec eux et confirmant la parole par les signes qui l’accompagnaient” (Marc 16.19,20). “Comment échapperons-nous, si nous négligeons un si grand salut, qui, ayant commencé par être annoncé par le Seigneur, nous a été confirmé par ceux qui l’avaient entendu, Dieu rendant témoignage avec eux par des signes et des prodiges, et par divers miracles et distribution de l’Esprit Saint, selon sa propre volonté?” (Hébreux 2.3,4).
 
-    WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU                                                         3
+Quiconque lit les Actes des apôtres et les épîtres constatera sans cesse que le Seigneur Dieu confirmait Sa Parole d’une manière surnaturelle. Des signes et des miracles se produisaient en ceux qui croyaient. L’Evangile du Seigneur crucifié et ressuscité victorieusement comprenait ces deux choses: la bonne nouvelle du salut qui libère et rend heureux, et la force de Dieu se démontrant envers les croyants (Romains 1.16,17; 1 Corinthiens 1.18).
 
-dire que ce qui a déjà été dit. L’Ancien et le Nouveau Testament, renferment ensembles toutes les
-doctrines, la connaissance et les révélations, et c’est la raison pour laquelle intervient la menace
-du châtiment définitif porté dans le dernier chapitre de la Bible contre ceux qui ajoutent ou
-retranchent quelque chose à la Parole écrite de Dieu. De toute façon Dieu demeure souverain en
-ce qu’Il fait. Il dit: “Voici, je fais une chose nouvelle…” (Ésaïe 43.19). Il fait ce qui Lui plaît sans en
-avoir fait connaître les détails auparavant.
-   William Branham n’est pas venu avec de nouvelles révélations; son ministère consistait
-uniquement à remettre sur le chandelier ce qui était déjà attesté de la Parole et nous avait été
-transmis par les prophètes et les apôtres. Au travers du ministère qui lui avait été confié, Dieu fit
-d’une part quelque chose de nouveau, et d’autre part Il fit arriver ce qui était déjà arrivé
-auparavant. Celui qui reçoit un tel prophète envoyé de Dieu, recevra aussi la récompense d’un
-prophète (Mat. 10.41).
-   Il est vrai qu’en apportant une prédication absolument biblique il se mettait en contradiction
-avec les interprétations traditionnelles ayant cours dans les églises officielles ou libres. Cependant,
-l’accord impressionnant qu’il y avait entre les Saintes Ecritures, ses doctrines et ce qu’il pratiquait,
-oblige tout homme sincère, qu’il soit d’un clergé ou qu’il soit simple laïque, à éprouver
-l’enseignement et la pratique qui lui sont propres. A tout chercheur sincère de la Vérité il ne reste
-alors plus qu’à se soumettre au seul témoignage valable devant Dieu, celui des Ecritures. C’est
-sur la base de ce fondement inébranlable, le fondement sur lequel l’Eglise primitive a été bâtie,
-que le jugement doit être entrepris.
+L’homme était vraiment entièrement libéré, de telle sorte que le salut de l’âme, la libération de l’esprit et la guérison du corps étaient choses normales lors des cultes de l’Eglise primitive; il nous est même relaté la résurrection de morts au milieu d’eux. Ainsi précisément, ce qui par l’Esprit de Dieu a été manifesté dans le ministère de notre Seigneur Jésus-Christ puis dans l’Eglise primitive est arrivé réellement, et cela à maintes reprises dans le ministère de William Branham, et dans une mesure encore plus grande. Il y a des millions de témoins oculaires de ces faits, et, comme nous l’avons déjà mentionné, le témoignage des prédications enregistrées.
 
-                                   CONFIRMATION SURNATURELLE
-    De tous temps les hommes envoyés par Dieu ont été légitimés sur terre par un témoignage
-    venu du ciel. Lors du christianisme primitif la poursuite du ministère commencé par Jésus, le Christ
-    du Dieu Vivant, se fit après la résurrection du Rédempteur au travers des rachetés. Après
-    l’effusion du Saint-Esprit le jour de Pentecôte, la prédication apostolique fut accompagnée de la
-    coopération du Seigneur, qui de cette manière confirmait la prédication. C’est l’Eglise primitive qui
-    en toutes circonstances est l’exemple valable pour toute la durée du temps de la grâce. “Le
-    Seigneur donc, après leur avoir parlé, fut élevé en haut dans le ciel, et s’assit la droite de Dieu. Et
-    eux, étant partis prêchèrent partout, le Seigneur coopérant avec eux et confirmant la parole par les
-    signes qui l’accompagnaient” (Marc 16.19,20). “Comment échapperons-nous, si nous négligeons
-    un si grand salut, qui, ayant commencé par être annoncé par le Seigneur, nous a été confirmé par
-    ceux qui l’avaient entendu, Dieu rendant témoignage avec eux par des signes et des prodiges, et
-    par divers miracles et distribution de l’Esprit Saint, selon sa propre volonté?” (Hébreux 2.3,4).
-              Quiconque lit les Actes des apôtres et les épîtres constatera sans cesse que le Seigneur Dieu
-    confirmait Sa Parole d’une manière surnaturelle. Des signes et des miracles se produisaient en
-    ceux qui croyaient. L’Evangile du Seigneur crucifié et ressuscité victorieusement comprenait ces
-    deux choses: la bonne nouvelle du salut qui libère et rend heureux, et la force de Dieu se
-    démontrant envers les croyants (Romains 1.16,17; 1 Corinthiens 1.18).
-          L’homme était vraiment entièrement libéré, de telle sorte que le salut de l’âme, la libération de
-    l’esprit et la guérison du corps étaient choses normales lors des cultes de l’Eglise primitive; il nous
-    est même relaté la résurrection de morts au milieu d’eux. Ainsi précisément, ce qui par l’Esprit de
-    Dieu a été manifesté dans le ministère de notre Seigneur Jésus-Christ puis dans l’Eglise primitive
-    est arrivé réellement, et cela à maintes reprises dans le ministère de William Branham, et dans
-    une mesure encore plus grande. Il y a des millions de témoins oculaires de ces faits, et, comme
-    nous l’avons déjà mentionné, le témoignage des prédications enregistrées.
-                    Celui qui veut comparer cet homme de Dieu à ces évangélistes bien connus, pour lesquels
-    toutes les méthodes sont bonnes, par exemple soutirer l’argent des auditeurs et employer tous les
-    moyens de spectacle possibles, fait tort à ce véritable homme de Dieu. Si vous interrogiez ces
-    prédicateurs, aucun d’eux ne pourrait apporter la preuve d’un appel céleste comme c’est le cas de
-    tout homme véritablement envoyé par Dieu, jusqu’à et y compris William Branham.
-                 Le Révérend Gordon Lindsay a écrit le livre “Un homme envoyé de Dieu”. Nous pouvons y lire
-    que tous, qu’ils soient amis ou adversaires de cet homme de Dieu, durent reconnaître que dans ce
+Celui qui veut comparer cet homme de Dieu à ces évangélistes bien connus, pour lesquels toutes les méthodes sont bonnes, par exemple soutirer l’argent des auditeurs et employer tous les moyens de spectacle possibles, fait tort à ce véritable homme de Dieu. Si vous interrogiez ces prédicateurs, aucun d’eux ne pourrait apporter la preuve d’un appel céleste comme c’est le cas de tout homme véritablement envoyé par Dieu, jusqu’à et y compris William Branham.
 
-                                   http://www.cmpp.ch
+Le Révérend Gordon Lindsay a écrit le livre “Un homme envoyé de Dieu”. Nous pouvons y lire que tous, qu’ils soient amis ou adversaires de cet homme de Dieu, durent reconnaître que dans ce cas il ne s’agissait pas d’un homme, mais bien que Dieu Lui-même était à l’oeuvre au travers de l’homme. Après que cet homme simple ait reçu, le 7 mai 1946, la confirmation de son appel et de son envoi par Dieu, il commença à tenir des campagnes d’évangélisation d’un ordre particulier. Dans les années 1946 à 1949 eut lieu la percée décisive du plein Evangile des temps modernes d’après le modèle du christianisme primitif. Les confirmations de ce ministère et les miracles de guérisons étaient si puissants que des personnes de toutes les dénominations et de tous les pays affluaient dans les rassemblements. Des politiciens et des hommes d’affaires, même des personnes siégeant au Congrès à Washington recherchèrent cet homme de Dieu pour qu’il prie pour eux.
 
-WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU 4
+Dans la première moitié des années cinquante ses voyages missionnaires le conduisirent à travers l’Afrique, les Indes et l’Europe. A Durban, en Afrique du Sud, on estimait le nombre d’auditeurs se pressants dans les stades à quelques centaines de milliers. A Bombay, en Inde, la foule fut évaluée à 400 000 personnes. En Allemagne et en Suisse, selon l’endroit, entre 10 000 et 20 000 personnes vinrent aux rencontres. Dans les pays scandinaves s’accomplirent de grands signes et miracles, et cela particulièrement en Finlande où même eut lieu la résurrection d’un garçon tué lors d’un accident. Le roi George VI d’Angleterre demanda à William Branham de prier pour lui. Ceci eut lieu à Buckingham Palace, alors qu’il passait à Londres, entre deux vols, en route pour la Finlande.
 
-cas il ne s’agissait pas d’un homme, mais bien que Dieu Lui-même était à l’oeuvre au travers de
-l’homme. Après que cet homme simple ait reçu, le 7 mai 1946, la confirmation de son appel et de
-son envoi par Dieu, il commença à tenir des campagnes d’évangélisation d’un ordre particulier.
-Dans les années 1946 à 1949 eut lieu la percée décisive du plein Evangile des temps modernes
-d’après le modèle du christianisme primitif. Les confirmations de ce ministère et les miracles de
-guérisons étaient si puissants que des personnes de toutes les dénominations et de tous les pays
-affluaient dans les rassemblements. Des politiciens et des hommes d’affaires, même des
-personnes siégeant au Congrès à Washington recherchèrent cet homme de Dieu pour qu’il prie
-pour eux.
-   Dans la première moitié des années cinquante ses voyages missionnaires le conduisirent à
-travers l’Afrique, les Indes et l’Europe. A Durban, en Afrique du Sud, on estimait le nombre
-d’auditeurs se pressants dans les stades à quelques centaines de milliers. A Bombay, en Inde, la
-foule fut évaluée à 400 000 personnes. En Allemagne et en Suisse, selon l’endroit, entre 10 000 et
-20 000 personnes vinrent aux rencontres. Dans les pays scandinaves s’accomplirent de grands
-signes et miracles, et cela particulièrement en Finlande où même eut lieu la résurrection d’un
-garçon tué lors d’un accident. Le roi George VI d’Angleterre demanda à William Branham de prier
-pour lui. Ceci eut lieu à Buckingham Palace, alors qu’il passait à Londres, entre deux vols, en
-route pour la Finlande.
-   Tous ceux qui se levèrent aux Etats Unis après la deuxième guerre mondiale, ainsi que ceux
-qui se levèrent plus tard dans d’autres pays et devinrent des évangélistes connus lui sont
-directement ou indirectement redevables de leur ministère, parce qu’ils virent l’action surnaturelle
-de Dieu dans la vie de William Branham. Celui qui s’est fait connaître dans le monde entier comme
-“M. Pentecôte”, feu David Duplessis, fut si profondément impressionné lors des réunions en
-Afrique du Sud, qu’il décida de suivre William Branham aux Etats-Unis. Je l’ai rencontré
-personnellement à l’occasion des conférences internationales de la foi organisées en juin 1958 par
-Gordon Lindsay à Dallas, Texas, dans lesquelles William Branham était le prédicateur principal.
-On pourrait énumérer beaucoup de personnes que je connais personnellement, y compris Demos
-Shakarian, le président mondial des hommes d’affaires du plein Evangile, qui pourraient, s’ils
-vivent encore et en ont le courage, témoigner de ce ministère à caractère unique dont ils ont
-bénéficié.
-   Ce que notre Seigneur a dit de Lui-même se rapporte également à la lettre à cet homme de
-Dieu. “C’est un autre qui rend témoignage de moi; et je sais que le témoignage qu’il rend de moi
-est vrai… Mais moi, j’ai un témoignage plus grand que celui de Jean; car les oeuvres que le Père
-m’a données pour les accomplir ces oeuvres mêmes que je fais rendent témoignage de moi, que
-le Père m’a envoyé. Et le Père qui m’a envoyé, lui, a rendu témoignage de moi” (Jean 5.32-37). Là
-où Dieu parle et agit, le témoignage lui-même a pleine autorité.
-   Les oeuvres opérées par Dieu de façon surnaturelle sont la preuve qu’il y a là, en rapport avec
-la prédication de l’Evangile de Jésus-Christ, une personne divinement envoyée. Ce sont ces
-oeuvres qui à proprement parler constituent la légitimation irréfutable et convaincante pour tous les
-homme. Notre Seigneur disait: “Croyez-moi, que je suis dans le Père, et que le Père est en moi;
-sinon, croyez-moi cause des oeuvres elles-mêmes. En vérité, en vérité, je vous dis: Celui qui croit
-en moi fera, lui aussi; les oeuvres que moi je fait, et il en fera de plus grandes que celles-ci…”
-(Jean 14.11,12). Dieu Lui-même a confirmé dans le ministère de William Branham cette Parole
-comme étant véritable, de telle sorte qu’il n’y a pas besoin de l’avis des hommes. Moïse et Elie,
-Pierre et Paul, bien sûr, tous les hommes que Dieu a envoyés ont été confirmés par Lui. La même
-chose peut être dite à l’égard de notre frère Branham. De cette manière celui qui a de la peine à
-croire en un homme a ainsi la possibilité de croire Dieu. “… car personne ne peut faire ces
-miracles que toi tu fais, si Dieu n’est avec lui” (Jean 3.2).
+Tous ceux qui se levèrent aux Etats Unis après la deuxième guerre mondiale, ainsi que ceux qui se levèrent plus tard dans d’autres pays et devinrent des évangélistes connus lui sont directement ou indirectement redevables de leur ministère, parce qu’ils virent l’action surnaturelle de Dieu dans la vie de William Branham. Celui qui s’est fait connaître dans le monde entier comme “M. Pentecôte”, feu David Duplessis, fut si profondément impressionné lors des réunions en Afrique du Sud, qu’il décida de suivre William Branham aux Etats-Unis. Je l’ai rencontré personnellement à l’occasion des conférences internationales de la foi organisées en juin 1958 par Gordon Lindsay à Dallas, Texas, dans lesquelles William Branham était le prédicateur principal. On pourrait énumérer beaucoup de personnes que je connais personnellement, y compris Demos Shakarian, le président mondial des hommes d’affaires du plein Evangile, qui pourraient, s’ils vivent encore et en ont le courage, témoigner de ce ministère à caractère unique dont ils ont bénéficié.
 
-        DES L’ENFANCE…
-   La présence surnaturelle de Dieu accompagna cet homme dès son enfance. Il y a réellement
-des hommes destinés à une tâche particulière dès leur enfance, et William Branham en fait partie.
-Ces hommes ne se sont pas, à un certain moment, désignés eux-mêmes à cette tâche, se faisant
-appeler prophètes, mais c’est en vertu d’un appel céleste direct qu’ils ont été établis par Dieu
+Ce que notre Seigneur a dit de Lui-même se rapporte également à la lettre à cet homme de Dieu. “C’est un autre qui rend témoignage de moi; et je sais que le témoignage qu’il rend de moi est vrai… Mais moi, j’ai un témoignage plus grand que celui de Jean; car les oeuvres que le Père m’a données pour les accomplir ces oeuvres mêmes que je fais rendent témoignage de moi, que le Père m’a envoyé. Et le Père qui m’a envoyé, lui, a rendu témoignage de moi” (Jean 5.32-37). Là où Dieu parle et agit, le témoignage lui-même a pleine autorité.
 
-        http://www.cmpp.ch
+Les oeuvres opérées par Dieu de façon surnaturelle sont la preuve qu’il y a là, en rapport avec la prédication de l’Evangile de Jésus-Christ, une personne divinement envoyée. Ce sont ces oeuvres qui à proprement parler constituent la légitimation irréfutable et convaincante pour tous les homme. Notre Seigneur disait: “Croyez-moi, que je suis dans le Père, et que le Père est en moi; sinon, croyez-moi cause des oeuvres elles-mêmes. En vérité, en vérité, je vous dis: Celui qui croit en moi fera, lui aussi; les oeuvres que moi je fait, et il en fera de plus grandes que celles-ci…” (Jean 14.11,12). Dieu Lui-même a confirmé dans le ministère de William Branham cette Parole comme étant véritable, de telle sorte qu’il n’y a pas besoin de l’avis des hommes. Moïse et Elie, Pierre et Paul, bien sûr, tous les hommes que Dieu a envoyés ont été confirmés par Lui. La même chose peut être dite à l’égard de notre frère Branham. De cette manière celui qui a de la peine à croire en un homme a ainsi la possibilité de croire Dieu. “… car personne ne peut faire ces miracles que toi tu fais, si Dieu n’est avec lui” (Jean 3.2).
 
-WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU 5
+DES L’ENFANCE…
 
-même. Déjà dans son enfance William Branham eut la vision d’événements qui se sont tous
-accomplis souvent bien des années plus tard.
-   A l’âge de sept ans il entendit une voix provenant d’un tourbillon de vent semblant se manifester
-dans la couronne d’un arbre, alors que partout ailleurs il n’y avait pas de vent. Il lui fut dit: «Ne bois
-ni ne fume jamais, ne souille ton corps d’aucune manière, car tu auras une oeuvre à accomplir
-pour Moi lorsque tu seras plus âgé». Plusieurs fois dans sa jeunesse il fut incité par des amis à
-boire ou à fumer. Ils le traitèrent de lâche, et c’est précisément ce qu’il ne voulait pas être car
-finalement, en tant que boxeur, il manifesta qu’il n’en était pas un. Il semble que chaque fois qu’il
-essaya de boire ou de fumer il entendait à nouveau le même bruit de vent et la même Voix qui lui
-avait défendu de faire ces choses. C’est ainsi qu’il fut gardé de la désobéissance. Nous savons
-qu’Elie a tout d’abord entendu la tempête avant que le Seigneur l’Eternel ne lui parle à la
-montagne d’Horeb (1 Rois 19). Job entendit la Voix du Seigneur directement du milieu de la
-tempête (Job 38.1). “Celui qui fait de ses anges des vents…” (Hébreux 1.7). Ces choses sont encore
-valables aujourd’hui.
-   Alors que William Branham était jeune homme il fut ordonné ministre d’une église baptiste par
-le Dr Roy Davis. Peu de temps après cela il commença un ministère non attaché à une confession
-particulière, car il se savait appelé à être au service de tous.
-   En juin 1933 plusieurs choses de grande importance eurent lieu. Il tint sa première campagne
-d’évangélisation. A la fin de cette série de réunions un service de baptême eut lieu, le dimanche
-11 juin 1933, dans le fleuve Ohio selon le modèle des premiers chrétiens. Quelques centaines de
-nouveaux convertis se firent baptiser. Lorsque le jeune prédicateur était sur le point de baptiser la
-dix-septième personne il pria, disant: «Père, de même que je les baptise dans l’eau, veuille Toi
-aussi, me baptiser ainsi du Saint-Esprit». C’est à cet instant que la chose arriva: du ciel descendit
-une Lumière brillante semblable à une étoile, laquelle s’arrêta au-dessus de lui. De cette Lumière
-retentit une Voix disant: «De même que Jean-Baptiste a été envoyé comme avant-coureur de la
-première venue de Christ, ainsi seras-tu envoyé avec un Message qui sera avant-coureur de la
-deuxième venue de Christ». En avril 1966, à l’occasion d’une rencontre aux Etats-Unis, j’ai
-rencontré personnellement environ 12 personnes ayant été présentes lors de cet événement
-survenu en juin 1933.
-   La réaction des quelque 4’000 personnes qui assistèrent à cet événement fut diverse. Les uns
-priaient, d’autres tombèrent sans connaissance, d’autres encore demandèrent ce que cela pouvait
-bien signifier, alors que quelques-uns ne prirent pas garde à cet événement. L’Associated Press
-des Etats-Unis et du Canada, particulièrement, rendirent compte de cet événement extraordinaire.
-A cause des événements extraordinaires qui encore par la suite se succédèrent dans la vie de cet
-homme de Dieu, et plus particulièrement en ce qui concerne les 7 visions reçues en 1933 sur la
-développement mondial devant s’accomplir jusqu’à la fin, firent que les autres prédicateurs se
-distancèrent de plus en plus de lui. Même ceux parmi les plus proches de lui admettaient bien que
-de tels événements aient eu lieu dans les temps bibliques, mais ils nièrent qu’ils puissent avoir lieu
-encore maintenant.
-   Parce que le Seigneur avait dit à Son jeune serviteur qu’il serait envoyé dans le monde entier et
-qu’il prierait pour des rois et des chefs de gouvernement, le Dr Roy Davis lui dit: «Billy, mais qui
-voudra donc bien t’écouter? Toi qui n’as reçu qu’un enseignement primaire… Tu prêcheras aux
-colonnes de la chapelle et à des chaises vides. Les gens ne viendront pas t’écouter». Sa réponse
-fut simple: «… Si c’est Dieu qui m’envoie, c’est aussi Lui qui enverra les gens à qui je
-prêcherai…».
-   Le 7 mai 1946 William Branham reçut réellement une visitation céleste. Dans l’Ancien comme
-dans le Nouveau Testament nous trouvons beaucoup de récits où des anges apparaissent lors
-d’événements particuliers. Nous voyons cela d’Abraham à Daniel, et de Zacharie à Marie. Les
-armées célestes apparurent dans les champs de Bethléem, et c’est un ange qui apporta la plus
-glorieuse nouvelle de tous les temps, c’est à dire l’annonce de la naissance du Rédempteur. Paul,
-ainsi que Jean, qui avait été exilé sur l’île de Patmos, rendent témoignage de visitations
-angéliques. Lisons ceci au sujet des anges, dans Hébreux 1: “Ne sont-ils pas tous des esprits
-administrateurs, envoyés pour servir en faveur de ceux qui vont hériter du salut?” (v. 1).
+La présence surnaturelle de Dieu accompagna cet homme dès son enfance. Il y a réellement des hommes destinés à une tâche particulière dès leur enfance, et William Branham en fait partie. Ces hommes ne se sont pas, à un certain moment, désignés eux-mêmes à cette tâche, se faisant appeler prophètes, mais c’est en vertu d’un appel céleste direct qu’ils ont été établis par Dieu même. Déjà dans son enfance William Branham eut la vision d’événements qui se sont tous accomplis souvent bien des années plus tard.
 
-        http://www.cmpp.ch
+A l’âge de sept ans il entendit une voix provenant d’un tourbillon de vent semblant se manifester dans la couronne d’un arbre, alors que partout ailleurs il n’y avait pas de vent. Il lui fut dit: «Ne bois ni ne fume jamais, ne souille ton corps d’aucune manière, car tu auras une oeuvre à accomplir pour Moi lorsque tu seras plus âgé». Plusieurs fois dans sa jeunesse il fut incité par des amis à boire ou à fumer. Ils le traitèrent de lâche, et c’est précisément ce qu’il ne voulait pas être car finalement, en tant que boxeur, il manifesta qu’il n’en était pas un. Il semble que chaque fois qu’il essaya de boire ou de fumer il entendait à nouveau le même bruit de vent et la même Voix qui lui avait défendu de faire ces choses. C’est ainsi qu’il fut gardé de la désobéissance. Nous savons qu’Elie a tout d’abord entendu la tempête avant que le Seigneur l’Eternel ne lui parle à la montagne d’Horeb (1 Rois 19). Job entendit la Voix du Seigneur directement du milieu de la tempête (Job 38.1). “Celui qui fait de ses anges des vents…” (Hébreux 1.7). Ces choses sont encore valables aujourd’hui.
 
-    WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU    6
+Alors que William Branham était jeune homme il fut ordonné ministre d’une église baptiste par le Dr Roy Davis. Peu de temps après cela il commença un ministère non attaché à une confession particulière, car il se savait appelé à être au service de tous.
 
-   Au soir du 7 mai 1946 William Branham se trouvait dans une pièce où il avait déjà passé
-quelque temps dans la prière et la lecture de la Bible. Subitement, vers 23h, vint d’en haut une
-Lumière entrant dans cette pièce; Elle s’étendit de plus en plus et s’intensifia. Ecoutons ce que
-William Branham dit lui-même de cet événement: «… Lorsque je regardai je vis cette grande étoile
-suspendue. Toutefois elle n’avait pas cinq pointes, mais elle ressemblait davantage à une boule
-de feu qui rayonnait, et elle éclairait le sol. Puis j’entendis quelqu’un marcher. La frayeur me saisit
-encore davantage, car je savais que personne ne serait venu dans ce lieu excepté moi-même.
-Dans cette Lumière je vis venir à moi un homme aussi naturellement que vous venez vers moi.
-J’estimais que cet homme devait peser dans les 85 kilos, et il portait un vêtement blanc. Son
-visage était lisse, sans barbe, ses cheveux noirs descendaient jusqu’aux épaules, son teint était
-plutôt foncé, et il avait une apparence très agréable. Il s’approcha encore davantage et nos
-regards se croisèrent. Il vit ma frayeur et me dit: ‹Ne crains pas. J’ai été envoyé de la présence du
-Dieu Tout-puissant pour te dire que ta vie particulière et le chemin mal compris qui est le tien
-indiquent que Dieu t’a envoyé vers les peuples de la terre avec un don de guérison divine. Si tu es
-sincère et arrives à faire en sorte que des gens te croient, aucune maladie ne pourra résister à ta
-prière, même pas le cancer›. Les mots me manquent pour exprimer ce que je ressentis à ce
-moment-là».
-   L’expression: “Ne crains pas!” a aussi été employée par l’Ange lorsqu’il visita Daniel, Zacharie
-et Marie. Notre Seigneur Jésus l’employa également, et souvent Il dit: “Ne crains point”.
-   L’Ange dit encore à William Branham: «De la même manière que deux signes ont été donnés à
-Moïse (Exode 4), ainsi deux signes te seront donnés. S’ils ne croient pas le premier, ils croiront le
-deuxième». Presque les mêmes paroles se retrouvent dans Exode 4.8: “Et il arrivera que, s’ils ne
-te croient pas et n’écoutent pas la voix du premier signe, ils croiront la voix de l’autre signe”. Les
-hommes ayant reçu un appel particulier de Dieu reçoivent aussi des signes particuliers de Lui, afin
-que par ces choses les gens prennent conscience du fait que dans ce cas spécial c’est Dieu
-Lui-même qui parle et qui agit.
-   Puis l’Ange lui expliqua le premier signe. Après la prédication de la Parole et la prière avec ceux
-qui consacreraient alors leur vie au Seigneur, il devrait prier pour les malades. Le premier signe
-consisterait en ce qu’il prendrait la main du patient dans sa propre main; sur le dos de sa main se
-présenterait alors à ses yeux de quoi souffrirait littéralement la personne, la maladie se
-manifestant par des changements de couleur et certaines conformations de la peau. Ensuite
-suivrait la prière pour la guérison. Le patient devait suivre l’événement en observant la main.
-Lorsque la prière avait été exaucée, et que Dieu avait effectué la guérison, le signe identifiant la
-maladie disparaissait sous les yeux du malade. Cette manière d’annoncer l’Evangile fut confirmée
-des milliers de fois, et cela plus particulièrement dans les années 1946 à 1949. Beaucoup de
-personnes guéries au moyen d’un tel miracle de Dieu le ressentaient dans leur corps et voyaient
-cette guérison s’accomplir sous leurs yeux, et très nombreuses étaient les personnes qui criaient à
-haute voix tant elles étaient saisies par cette oeuvre de Dieu.
-   Puis l’Ange lui expliqua l’usage du deuxième don, et cela en citant plusieurs passages
-bibliques. Il se rapporta au ministère de notre Seigneur Jésus, lui expliquant plus particulièrement
-Jean 5.19,20, à savoir que Jésus en tant que Fils de l’homme avait agi comme un prophète, qu’Il
-avait des visions Lui montrant ce que Dieu voulait faire. “En vérité en vérité, je vous dis: Le Fils ne
-peut rien faire de lui-même, à moins qu’il ne voie faire une chose au Père quelque chose que
-celui-ci fasse, cela, le Fils aussi de même Je fait. Car le Père, aime le Fils, et lui montre toutes les
-choses qu’il fait lui-même…” (Jean 5.19,20). Conformément à cette parole, le Fils de l’homme n’a
-exercé son ministère que suivant ce qui lui était montré en vision. L’Ange mentionna les deux
-événements de Jean 1, concernant Pierre et Nathanaël. Nous lisons que lorsque André conduisit
-son frère Simon à Jésus: “Jésus, l’ayant regardé dit: Tu es Simon, le fils de Jonas; tu seras appelé
-Céphas (qui est interprété Pierre)” (v. 43). Il n’avait jamais vu Pierre auparavant, et cependant Il
-connaissait son nom et le nom de son père. La même chose arriva avec Nathanaël, que Philippe
-conduisit au Seigneur: “Voici un vrai Israélite, en qui il n’y a pas de fraude… Avant que Philippe
-t’eût appelé, quand tu étais sous le figuier, je te voyais” (v. 48,49). Tous peuvent lire combien
-Nathanaël fut saisi par cette révélation, et de quelle manière il réagit.
-   L’Ange poursuivit en se référant à Jean 4 et il évoqua la conversation ayant eu lieu entre le
-Seigneur Jésus et la Samaritaine au puits de Jacob. Par révélation, et conformément à ce qui lui
+En juin 1933 plusieurs choses de grande importance eurent lieu. Il tint sa première campagne d’évangélisation. A la fin de cette série de réunions un service de baptême eut lieu, le dimanche 11 juin 1933, dans le fleuve Ohio selon le modèle des premiers chrétiens. Quelques centaines de nouveaux convertis se firent baptiser. Lorsque le jeune prédicateur était sur le point de baptiser la dix-septième personne il pria, disant: «Père, de même que je les baptise dans l’eau, veuille Toi aussi, me baptiser ainsi du Saint-Esprit». C’est à cet instant que la chose arriva: du ciel descendit une Lumière brillante semblable à une étoile, laquelle s’arrêta au-dessus de lui. De cette Lumière retentit une Voix disant: «De même que Jean-Baptiste a été envoyé comme avant-coureur de la première venue de Christ, ainsi seras-tu envoyé avec un Message qui sera avant-coureur de la deuxième venue de Christ». En avril 1966, à l’occasion d’une rencontre aux Etats-Unis, j’ai rencontré personnellement environ 12 personnes ayant été présentes lors de cet événement survenu en juin 1933.
 
-    http://www.cmpp.ch
+La réaction des quelque 4’000 personnes qui assistèrent à cet événement fut diverse. Les uns priaient, d’autres tombèrent sans connaissance, d’autres encore demandèrent ce que cela pouvait bien signifier, alors que quelques-uns ne prirent pas garde à cet événement. L’Associated Press des Etats-Unis et du Canada, particulièrement, rendirent compte de cet événement extraordinaire. A cause des événements extraordinaires qui encore par la suite se succédèrent dans la vie de cet homme de Dieu, et plus particulièrement en ce qui concerne les 7 visions reçues en 1933 sur la développement mondial devant s’accomplir jusqu’à la fin, firent que les autres prédicateurs se distancèrent de plus en plus de lui. Même ceux parmi les plus proches de lui admettaient bien que de tels événements aient eu lieu dans les temps bibliques, mais ils nièrent qu’ils puissent avoir lieu encore maintenant.
 
-WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU 7
+Parce que le Seigneur avait dit à Son jeune serviteur qu’il serait envoyé dans le monde entier et qu’il prierait pour des rois et des chefs de gouvernement, le Dr Roy Davis lui dit: «Billy, mais qui voudra donc bien t’écouter? Toi qui n’as reçu qu’un enseignement primaire… Tu prêcheras aux colonnes de la chapelle et à des chaises vides. Les gens ne viendront pas t’écouter». Sa réponse fut simple: «… Si c’est Dieu qui m’envoie, c’est aussi Lui qui enverra les gens à qui je prêcherai…».
+
+Le 7 mai 1946 William Branham reçut réellement une visitation céleste. Dans l’Ancien comme dans le Nouveau Testament nous trouvons beaucoup de récits où des anges apparaissent lors d’événements particuliers. Nous voyons cela d’Abraham à Daniel, et de Zacharie à Marie. Les armées célestes apparurent dans les champs de Bethléem, et c’est un ange qui apporta la plus glorieuse nouvelle de tous les temps, c’est à dire l’annonce de la naissance du Rédempteur. Paul, ainsi que Jean, qui avait été exilé sur l’île de Patmos, rendent témoignage de visitations angéliques. Lisons ceci au sujet des anges, dans Hébreux 1: “Ne sont-ils pas tous des esprits administrateurs, envoyés pour servir en faveur de ceux qui vont hériter du salut?” (v. 1).
+
+Au soir du 7 mai 1946 William Branham se trouvait dans une pièce où il avait déjà passé quelque temps dans la prière et la lecture de la Bible. Subitement, vers 23h, vint d’en haut une Lumière entrant dans cette pièce; Elle s’étendit de plus en plus et s’intensifia. Ecoutons ce que William Branham dit lui-même de cet événement: «… Lorsque je regardai je vis cette grande étoile suspendue. Toutefois elle n’avait pas cinq pointes, mais elle ressemblait davantage à une boule de feu qui rayonnait, et elle éclairait le sol. Puis j’entendis quelqu’un marcher. La frayeur me saisit encore davantage, car je savais que personne ne serait venu dans ce lieu excepté moi-même. Dans cette Lumière je vis venir à moi un homme aussi naturellement que vous venez vers moi. J’estimais que cet homme devait peser dans les 85 kilos, et il portait un vêtement blanc. Son visage était lisse, sans barbe, ses cheveux noirs descendaient jusqu’aux épaules, son teint était plutôt foncé, et il avait une apparence très agréable. Il s’approcha encore davantage et nos regards se croisèrent. Il vit ma frayeur et me dit: ‹Ne crains pas. J’ai été envoyé de la présence du Dieu Tout-puissant pour te dire que ta vie particulière et le chemin mal compris qui est le tien indiquent que Dieu t’a envoyé vers les peuples de la terre avec un don de guérison divine. Si tu es sincère et arrives à faire en sorte que des gens te croient, aucune maladie ne pourra résister à ta prière, même pas le cancer›. Les mots me manquent pour exprimer ce que je ressentis à ce moment-là».
+
+L’expression: “Ne crains pas!” a aussi été employée par l’Ange lorsqu’il visita Daniel, Zacharie et Marie. Notre Seigneur Jésus l’employa également, et souvent Il dit: “Ne crains point”.
+
+L’Ange dit encore à William Branham: «De la même manière que deux signes ont été donnés à Moïse (Exode 4), ainsi deux signes te seront donnés. S’ils ne croient pas le premier, ils croiront le deuxième». Presque les mêmes paroles se retrouvent dans Exode 4.8: “Et il arrivera que, s’ils ne te croient pas et n’écoutent pas la voix du premier signe, ils croiront la voix de l’autre signe”. Les hommes ayant reçu un appel particulier de Dieu reçoivent aussi des signes particuliers de Lui, afin que par ces choses les gens prennent conscience du fait que dans ce cas spécial c’est Dieu Lui-même qui parle et qui agit.
+
+Puis l’Ange lui expliqua le premier signe. Après la prédication de la Parole et la prière avec ceux qui consacreraient alors leur vie au Seigneur, il devrait prier pour les malades. Le premier signe consisterait en ce qu’il prendrait la main du patient dans sa propre main; sur le dos de sa main se présenterait alors à ses yeux de quoi souffrirait littéralement la personne, la maladie se manifestant par des changements de couleur et certaines conformations de la peau. Ensuite suivrait la prière pour la guérison. Le patient devait suivre l’événement en observant la main. Lorsque la prière avait été exaucée, et que Dieu avait effectué la guérison, le signe identifiant la maladie disparaissait sous les yeux du malade. Cette manière d’annoncer l’Evangile fut confirmée des milliers de fois, et cela plus particulièrement dans les années 1946 à 1949. Beaucoup de personnes guéries au moyen d’un tel miracle de Dieu le ressentaient dans leur corps et voyaient cette guérison s’accomplir sous leurs yeux, et très nombreuses étaient les personnes qui criaient à haute voix tant elles étaient saisies par cette oeuvre de Dieu.
+
+Puis l’Ange lui expliqua l’usage du deuxième don, et cela en citant plusieurs passages bibliques. Il se rapporta au ministère de notre Seigneur Jésus, lui expliquant plus particulièrement Jean 5.19,20, à savoir que Jésus en tant que Fils de l’homme avait agi comme un prophète, qu’Il avait des visions Lui montrant ce que Dieu voulait faire. “En vérité en vérité, je vous dis: Le Fils ne peut rien faire de lui-même, à moins qu’il ne voie faire une chose au Père quelque chose que celui-ci fasse, cela, le Fils aussi de même Je fait. Car le Père, aime le Fils, et lui montre toutes les choses qu’il fait lui-même…” (Jean 5.19,20). Conformément à cette parole, le Fils de l’homme n’a exercé son ministère que suivant ce qui lui était montré en vision. L’Ange mentionna les deux événements de Jean 1, concernant Pierre et Nathanaël. Nous lisons que lorsque André conduisit son frère Simon à Jésus: “Jésus, l’ayant regardé dit: Tu es Simon, le fils de Jonas; tu seras appelé Céphas (qui est interprété Pierre)” (v. 43). Il n’avait jamais vu Pierre auparavant, et cependant Il connaissait son nom et le nom de son père. La même chose arriva avec Nathanaël, que Philippe conduisit au Seigneur: “Voici un vrai Israélite, en qui il n’y a pas de fraude… Avant que Philippe t’eût appelé, quand tu étais sous le figuier, je te voyais” (v. 48,49). Tous peuvent lire combien Nathanaël fut saisi par cette révélation, et de quelle manière il réagit.
+
+L’Ange poursuivit en se référant à Jean 4 et il évoqua la conversation ayant eu lieu entre le Seigneur Jésus et la Samaritaine au puits de Jacob. Par révélation, et conformément à ce qui lui
 
 avait été montré, Jésus lui dit: “… car tu as eu cinq maris, et celui que tu as maintenant n’est pas
 ton mari” (v. 18). A la fin de la conversation la femme s’écria: “Je sais que le Messie qui est appelé
@@ -427,7 +258,8 @@ Leurs ailes se touchaient l’une l’autre. L’Ange qui se trouvait le plus à
 
 WILLIAM BRANHAM — UN PROPHETE ENVOYE PAR DIEU 9
 
-dernier de la constellation, lui fit une impression toute particulière, et c’est Lui qui lui adressa la
+der
+nier de la constellation, lui fit une impression toute particulière, et c’est Lui qui lui adressa la
 parole. Là sur la montagne, du sein de cette nuée, cet ordre lui fut donné: «Retourne à
 Jeffersonville d’où tu es venu, car le temps est venu d’ouvrir les Sept Sceaux!». C’est du 17 au 23
 mars 1963 qu’il parla concernant les Sept Sceaux de l’Apocalypse.
@@ -492,16 +324,13 @@ avec certitude que nous vivons maintenant à la fin du temps de la grâce et que
 Jésus-Christ est proche. Les signes du temps de la fin sont reconnus très clairement par tous les
 croyants bibliques. Nous pouvons lever la tête, car nous savons que notre délivrance approche.
 Puisse le Message biblique qui nous a été confié servir à faire sortir tout véritable croyant de toute
-erreur, afin que chacun puisse travailler à sa préparation en vue du glorieux jour du retour de
+ erreur, afin que chacun puisse travailler à sa préparation en vue du glorieux jour du retour de
 Jésus-Christ.
    “Et cet évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage
-toutes les nations; et alors viendra la fin” (Mat. 24.14).
+à toutes les nations; et alors viendra la fin” (Mat. 24.14).
    “Prenez garde que vous ne refusiez pas celui qui parle: car si ceux-là n’ont pas échappé qui
 refusèrent celui qui parlait en oracles sur la terre, combien moins échapperons-nous, si nous nous
 détournons de celui qui parle ainsi des cieux” (Hébreux 12.25).
-
-
-
 
 
 
@@ -570,7 +399,6 @@ doublement exposé.
 
 
 
-
    Le 28 février 1963 cette nuée surnaturelle apparut
 sur la montagne de Sunset, au nord de Tucson, en
 Arizona, comme cela avait été montré au Révérend
@@ -605,9 +433,6 @@ ni soumis à une double exposition, ni n’est le produit d’un
 montage photographique. De plus, je suis parfaitement convaincu
 que le trait de lumière apparaissant sur la tête a été causé par la
 lumière impressionnant le négatif».
-
-
-
 
 
 

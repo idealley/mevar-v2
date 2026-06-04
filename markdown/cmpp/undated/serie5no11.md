@@ -1,7 +1,66 @@
+---
+source: "cmpp"
+sermon_id: "serie5no11"
+title: "L'Union Invisible de l'Epouse de Christ"
+subtitle: "25 novembre 1965, soir"
+date: "1965-11-25"
+year: 1965
+location: "Shreveport, Louisiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur l'union invisible de l'Épouse de Christ, utilisant Romains 7 comme texte de base. Il compare la relation de l'Église avec Christ à un mariage, soulignant que l'Église ne peut être mariée à la fois à Christ et au monde. Il aborde la pureté de l'Épouse, la sanctification, et la nécessité de se séparer des dénominations et des credo pour être fidèle à la Parole de Dieu."
+tags:
+  - "Épouse de Christ"
+  - "mariage spirituel"
+  - "Romains 7"
+  - "séparation du monde"
+  - "derniers temps"
+persons:
+  - "William Branham"
+  - "Paul"
+  - "Eve"
+  - "Marie"
+  - "Martin Luther"
+  - "John Wesley"
+  - "Dwight Moody"
+places:
+  - "Shreveport"
+  - "Louisiane"
+  - "États-Unis"
+themes:
+  - "Union invisible de l'Épouse"
+  - "Mariage et divorce spirituel"
+  - "Loi et grâce"
+  - "Pureté de l'Église"
+  - "Séparation d'avec le monde"
+  - "Fidélité à la Parole"
+pdf_url: "http://cmpp.ch/serie5no11.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Jean 2"
+  - "1 Jean 3"
+  - "Actes 2"
+  - "Apocalypse 10"
+  - "Apocalypse 17"
+  - "Apocalypse 3"
+  - "Daniel 143"
+  - "Daniel 5"
+  - "Esther 101"
+  - "Genèse 4"
+  - "Jean 14"
+  - "Joël 2"
+  - "Luc 17"
+  - "Luc 23"
+  - "Malachie 4"
+  - "Marc 16"
+  - "Matthieu 24"
+  - "Romains 3"
+  - "Romains 5"
+  - "Romains 7"
+  - "Ésaïe 9"
+---
 SERIE 5, N° 11
 
-
-            LA PAROLE PARLEE
+LA PAROLE PARLEE
 
 PAR
 Il est écrit…
@@ -12,532 +71,107 @@ L’UNION INVISIBLE
 DE L’EPOUSE DE CHRIST
 (Invisible Union of the Bride of Christ)
 
-
-
-
-           25 novembre 1965, soir
-              Life Tabernacle
-Ewald Frank
-       Shreveport — Louisiana, U.S.A.
+25 novembre 1965, soir
+Life Tabernacle
+Shreveport — Louisiana, U.S.A.
 
 Ewald Frank
 «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-    L’UNION INVISIBLE DE L’EPOUSE DE CHRIST    2
-
 L’UNION INVISIBLE DE L’EPOUSE DE CHRIST
+
 (Invisible Union of the Bride of Christ)
 
+25 novembre 1965, soir
+Life Tabernacle
+Shreveport — Louisiana, U.S.A.
 
-         25 novembre 1965, soir
-            Life Tabernacle
-     Shreveport — Louisiana, U.S.A.
+1 J’ai annulé le voyage de chasse afin que je puisse servir le Seigneur… Nous sommes heureux d’être ici. Je crois que je vous ai dit ici la dernière fois, que chaque fois que nous venons il y a quelqu’un qui manque. Et si nous revenons l’an prochain, et si le Seigneur tarde, il y aura encore quelqu’un qui manquera.
+2 Il y en a un qui était très, très proche de moi en coeur et esprit — c’était frère Lyle. J’ai toujours eu un accueil de bienvenue, en arrivant, me tenant là-bas dans le bureau de frère Jack et écoutant chanter le vieux quatuor. Ils chantent ce soir dans la Gloire. Eh bien, il y avait une de ces voix déjà là-bas, attendant les trois autres. Je pense que je ne l’entendrai plus jamais sur cette terre. Mais j’attends certainement avec impatience de pouvoir les entendre à nouveau, frère et soeur Moore et eux, dans le pays où ne manquera jamais la Lumière.
+3 Frère Palmer était un grand serviteur de Christ. Je peux me rappeler frère Jack me parlant de sa vie dévouée à Dieu. Ils étaient charpentiers tous les deux et il m’a dit que lorsqu’il mangeait son déjeuner il avait son sandwich dans sa main, et il lisait sa Bible. Vous voyez, il faisait de puissantes et grandes choses, frère Palmer le faisait. Il était un bon charpentier; un bon père pour ses enfants; il avait une gentille famille. Il les a tous élevés pour servir le Seigneur. Pour autant que je sache, ils sont tous sauvés et remplis du Saint-Esprit. Et cela est une grande contribution de la part de n’importe quel homme dans ces jours pour les garçons ou les filles. Mais nous comprenons que tout ce qu’ils ont fait ne sert pas à grand chose jusqu’à ce qu’ils servent Dieu — à moins que vous ne serviez Dieu; et ce soir, je voudrais dire qu’après avoir fait ici sur la terre, ses bonnes actions, il est parti vers sa récompense, pour être avec eux. Que Dieu accorde le repos à l’âme de notre frère. Je sais qu’aussi longtemps que ceci ici est un tabernacle, je sais que sa voix sera encore ici.
+4 Soeur Annajeanne et sa soeur jouant de l’orgue et du piano n’avaient jamais à attendre. Frère Palmer se tenait juste ici, il choisissait simplement un chant, le commençait et elles attrapaient la mélodie. J’attendais avec impatience le moment où il allait conduire les chants. A ses enfants, à son épouse et à frère Jack, son ami intime; amis pendant toutes ces années. Frère Brown, soeur Brown et vous tous au Tabernacle, que Dieu vous bénisse. Il me manque aussi. Que Dieu accorde le repos à cette vaillante âme jusqu’à ce que nous le rencontrions dans la paix. Inclinons nos têtes.
+5 Gracieux Père Céleste, en parlant justement de ce grand serviteur, il me manque ce soir, lorsqu’il me serrait la main avec ce petit sourire entendu qu’il avait toujours en disant quand nous entrions par la porte: «Que Dieu vous bénisse, frère Branham». Je sais qu’il est venu dans Ta Maison ce soir. Aussi, je prie, cher Dieu, que Tu permettes que les fruits et les oeuvres qui l’ont suivi, soient grandes et continuent avec ses enfants et son épouse. Nous prions pour que Tu la bénisses, Seigneur. Tu as dit que Tu serais un mari pour les veuves, qui étaient vraiment des veuves. Je prie pour notre soeur Palmer et pour tous les enfants, maintenant. Je sais comment partager la douleur dans les deux cas, ayant perdu un compagnon et aussi un père.
+6 Aussi, Père pendant que nous sommes ici ce soir, nous prions pour que Tu prépares aussi nos coeurs pour cette heure. Nous ne savons pas. Elle peut venir aussi soudainement qu’elle est venue pour lui. Nous ne savons pas quand elle viendra, mais nous savons qu’elle doit venir. Aussi, nous prions, Dieu, que tu sondes chaque coeur se trouvant ici ce soir. Dieu, n’oublie pas le mien. Sonde aussi le mien et éprouve-moi. Seigneur, s’il y a le moindre mal en nous, sors-le. Nous voulons Te servir. Ceci est notre plein objectif: Te servir. Déverse Ton esprit sur nous ce soir et le reste de la semaine.
+7 Bénis ce Tabernacle qui porte le nom de Tabernacle de Vie. Puisse-t-il recevoir les pleines bénédictions de ce nom et être cette semaine plein de la Vie de Dieu. Sauve chaque âme perdue; remplis de Saint-Esprit chaque croyant; et Seigneur renouvelle l’espérance qui est en nous.
+8 Nous prions pour que Tu guérisses tous les malades et les affligés qui viennent parmi nous. Puisse Ton glorieux Saint-Esprit être ici, Seigneur, guéris simplement et oins chacun pour qu’il croie. Accorde ces choses, Père.
+9 Dieu, aide-moi maintenant, comme c’est à mon tour d’apporter le message. Je prie, Dieu, que Tu laisses se mettre de côté l’homme charnel; puisse le Saint-Esprit venir et se mouvoir sur nous, Seigneur; puisse le Saint-Esprit saisir cette réunion, Seigneur. Nous savons que nous sommes si insuffisants. Nous ne pourrions pas le faire, aucun de nous. Nous ne prétendons pas être capables de le faire. Seigneur, nous savons que Tu es le Seul. Aussi, nous regardons à toi Seigneur. Agis, Esprit de Dieu et viens à nouveau nous rafraîchir. Nous le demandons dans le Nom de Jésus. Amen.
+10 Maintenant, je veux saluer, par le moyen du relais radiophonique, les églises dans tous les états. Le relais radiophonique est un excellent petit système qui nous permet d’atteindre notre frère Pearry Green, de Beaumont, Texas. A travers tous les Etats-Unis, les églises écoutent ce soir le message par le moyen du relais radiophonique.
+11 Nous adressons nos salutations du haut en bas de la côte ouest — de Vancouver à Tijuana, Mexico; en passant par San José, Los Angeles, tous les groupes là-bas, nous vous saluons de Shreveport; aussi, jusqu’à Prescott, Arizona, au groupe qui attend sur le Seigneur, nous adressons nos salutations; et à Tucson, aussi de Sierra Vista à New York, d’un bout à l’autre, à travers toute la nation. Le Seigneur vous bénit, chacun d’entre vous. J’aimerais que vous soyez ici ce soir dans ce magnifique vieil état de Louisiane, qui semble être mon second chez moi.
+12 Vous savez, vous les gens de New York, vous savez que je ris un peu de vous, avec votre manière de parler. Je suis comme à la maison ce soir. Chacun ici, vous savez, dit: «Hello, cher frère Branham. Amenez soeur Branham et tous les jeunes, et venez ici nous voir». Tout cela fait que je me sens bien. Pour moi, c’est du véritable anglais. Ce n’est pas un manque de respect envers vous, gens de l’est et du nord et d’autres places, mais vous savez, je suppose que je suis juste né «vieil original» et dois le rester. Je l’aime bien moi-même. C’est de l’anglais véritable.
+13 J’étais au déjeuner des «Hommes d’Affaires Chrétiens» ici, il n’y a pas très longtemps et ils ont dit: «Nous nous lèverons maintenant et chanterons l’hymne national». Je me suis levé et j’ai dit: «Pour mon vieil Kentucky si lointain…». Eh bien, pour moi c’était l’hymne national! C’est tout ce que je savais à ce propos. Ainsi, nous vous adressons nos salutations.
+14 Et maintenant je crois qu’ils vont essayer de passer à la radio le déjeuner des «Hommes d’Affaires Chrétiens» le samedi matin. Frère Green vous le dira. Il est aux micros là-bas maintenant. Aussi, il vous dira à quelle heure commencera le déjeuner et à quelle heure chaque soir vous pourrez l’écouter. Nous vous remercions chaleureusement de prier pour nous.
+15 Maintenant, ici à l’assemblée locale et au Tabernacle de frère Jack, je vais juste vous demander une faveur ce soir. Comme je vais donner ce soir mon message de «Thanksgiving» à nos églises locales qui suivent le message à travers la nation, je serai peut-être un peu long et puis c’est encore possible que je prêche quelque doctrine. [«Thanksgiving Day»: Journée de remerciements célébrée en Amérique le dernier jeudi de novembre — N.d.T.] Aussi si vous n’êtes pas d’accord avec cela — comme je l’ai toujours dit à propos de manger une tarte aux cerises: quand je tombe sur un noyau, je ne jette pas toute la tarte, je jette le noyau et je continue à manger la tarte. Aussi, si je mentionne quelque chose ce soir… Il y a une raison pour laquelle j’ai accepté d’être ici pour apporter mon message de «Thanksgiving» aux groupes à travers le pays, c’est parce que frère Jack ouvre toujours si librement ses portes et dit: «Prêche ce qui est sur ton coeur». Aussi, je me sens réellement à la maison. Il y a peut-être ici, dans l’assemblée locale de frère Jack, des ministres de la Parole ou des gens qui ne sont pas d’accord avec la doctrine. D’habitude j’ai la politesse de ne pas mentionner la doctrine au pupitre d’un homme qui m’a invité à parler pour lui. Ainsi, après ce soir, je suppose que je prierai simplement pour les malades et ferai un service religieux normal; mais j’ai pensé vous faire savoir à l’avance que si je dis quelque chose que vous ne pouvez agréer, eh bien, vous pouvez le mettre sur le compte de mon ignorance, je suppose que je ne sais pas mieux dire et priez pour moi.
+16 Maintenant, tournons-nous vers la Parole, vers un chapitre ici auquel je désire me référer en plusieurs endroits ce soir parce que j’ai plusieurs passages de l’Ecriture et des petites notes écrites là sur un bloc-note.
+17 Je me rappelle la première fois que je suis monté sur la plate-forme au Tabernacle de Vie (il y a vingt ans), je n’avais pas besoin de noter les passages de l’Ecriture et les références. J’étais alors vingt ans plus jeune. Mais maintenant, la seconde fois, vingt-cinq ans ont passé, c’est pourquoi je ne me rappelle pas aussi bien qu’autrefois. Je dois écrire mes passages de l’Ecriture sur le papier et parfois écrire d’autres choses auxquelles je désire me référer. Et maintenant, que le Seigneur nous bénisse lorsque nous lisons la Parole de Dieu et le livre des Romains, chapitre 7.
+18 Maintenant, j’aimerais vous enseigner comme je le fais pour une leçon d’école du Dimanche. Je sais qu’il y a des gens debout et normalement au Tabernacle, à Jeffersonville — nous voulons aussi tous vous saluer ce soir; nous savons que vous faites aussi partie du relais radiophonique, là-bas au Tabernacle. Il semble que c’est comme au Tabernacle ce soir, comme si vous étiez ici… Les gens massés le long des murs. Je suppose que vous êtes aussi comme cela, vous tous dans cette partie du pays qui êtes venus pour le message.
+19 Maintenant nous allons utiliser cela comme à l’école du dimanche. Et cela n’est pas dirigé contre quelque chose, quelqu’un, ou n’importe quoi d’autre — juste pour l’Eglise, le Corps de Christ, que nous essayons de conduire vers de plus profondes pensées et de plus grands objectifs, croyant que la venue du Seigneur Jésus est très proche. Nous le croyons d’autant plus que c’est vingt ans plus près que lors de ma première venue à Shreveport. Oh, tant de choses se sont passées depuis ce temps-là! Maintenant, nous attendons avec impatience la venue du Seigneur, dans notre génération. Je n’attends pas un réveil dans notre génération, dans notre génération j’attends la venue du Seigneur.
+20 Maintenant, dans Romains 7 — confiant que vous avez vos Bibles ouvertes partout dans le pays — nous voulons lire attentivement. Maintenant ce message tiré de là semble être à propos du mariage et du divorce; mais cela ne l’est pas vraiment. Pour moi, c’est une prophétie pour l’église des derniers temps. Lisons.
 
+> “Ignorez-vous, frères, (car je parle à des gens qui entendent ce que c’est que la loi,) que la loi a autorité sur l’homme aussi longtemps qu’il vit? Car la femme qui est soumise à un mari, est liée à son mari par la loi, tant qu’il vit; mais si le mari meurt, elle est déliée de la loi du mari. Ainsi donc, le mari étant vivant, elle sera appelée adultère si elle est à un autre homme; mais si le mari meurt, elle est libre de la loi, de sorte qu’elle n’est pas adultère en étant à un autre homme. C’est pourquoi, mes frères, vous aussi, vous avez été mis à mort à la loi par le corps du Christ, pour être à un autre, à celui qui est ressuscité d’entre les morts, afin que nous portions du fruit pour Dieu. Car, quant nous étions dans la chair, les passions des péchés, lesquelles sont par la loi, agissaient dans nos membres pour porter du fruit pour la mort; mais maintenant nous avons été déliés de la loi, étant morts dans ce en quoi nous étions tenus, en sorte que nous servions en nouveauté d’esprit, et non pas en vieillesse de lettre” (Romains 7.1-6).
 
-
-
-1 J’ai annulé le voyage de chasse afin que je puisse servir le Seigneur… Nous sommes
-heureux d’être ici. Je crois que je vous ai dit ici la dernière fois, que chaque fois que nous venons
-il y a quelqu’un qui manque. Et si nous revenons l’an prochain, et si le Seigneur tarde, il y aura
-encore quelqu’un qui manquera.
-2 Il y en a un qui était très, très proche de moi en coeur et esprit — c’était frère Lyle. J’ai
-toujours eu un accueil de bienvenue, en arrivant, me tenant là-bas dans le bureau de frère Jack et
-écoutant chanter le vieux quatuor. Ils chantent ce soir dans la Gloire. Eh bien, il y avait une de ces
-voix déjà là-bas, attendant les trois autres. Je pense que je ne l’entendrai plus jamais sur cette
-terre. Mais j’attends certainement avec impatience de pouvoir les entendre à nouveau, frère et
-soeur Moore et eux, dans le pays où ne manquera jamais la Lumière.
-3 Frère Palmer était un grand serviteur de Christ. Je peux me rappeler frère Jack me parlant de
-sa vie dévouée à Dieu. Ils étaient charpentiers tous les deux et il m’a dit que lorsqu’il mangeait son
-déjeuner il avait son sandwich dans sa main, et il lisait sa Bible. Vous voyez, il faisait de
-puissantes et grandes choses, frère Palmer le faisait. Il était un bon charpentier; un bon père pour
-ses enfants; il avait une gentille famille. Il les a tous élevés pour servir le Seigneur. Pour autant
-que je sache, ils sont tous sauvés et remplis du Saint-Esprit. Et cela est une grande contribution
-de la part de n’importe quel homme dans ces jours pour les garçons ou les filles. Mais nous
-comprenons que tout ce qu’ils ont fait ne sert pas à grand chose jusqu’à ce qu’ils servent Dieu —
-à moins que vous ne serviez Dieu; et ce soir, je voudrais dire qu’après avoir fait ici sur la terre, ses
-bonnes actions, il est parti vers sa récompense, pour être avec eux. Que Dieu accorde le repos à
-l’âme de notre frère. Je sais qu’aussi longtemps que ceci ici est un tabernacle, je sais que sa voix
-sera encore ici.
-4 Soeur Annajeanne et sa soeur jouant de l’orgue et du piano n’avaient jamais à attendre.
-Frère Palmer se tenait juste ici, il choisissait simplement un chant, le commençait et elles
-attrapaient la mélodie. J’attendais avec impatience le moment où il allait conduire les chants. A
-ses enfants, à son épouse et à frère Jack, son ami intime; amis pendant toutes ces années. Frère
-Brown, soeur Brown et vous tous au Tabernacle, que Dieu vous bénisse. Il me manque aussi.
-Que Dieu accorde le repos à cette vaillante âme jusqu’à ce que nous le rencontrions dans la paix.
-Inclinons nos têtes.
-5 Gracieux Père Céleste, en parlant justement de ce grand serviteur, il me manque ce soir,
-lorsqu’il me serrait la main avec ce petit sourire entendu qu’il avait toujours en disant quand nous
-entrions par la porte: «Que Dieu vous bénisse, frère Branham». Je sais qu’il est venu dans Ta
-Maison ce soir. Aussi, je prie, cher Dieu, que Tu permettes que les fruits et les oeuvres qui l’ont
-suivi, soient grandes et continuent avec ses enfants et son épouse. Nous prions pour que Tu la
-bénisses, Seigneur. Tu as dit que Tu serais un mari pour les veuves, qui étaient vraiment des
-veuves. Je prie pour notre soeur Palmer et pour tous les enfants, maintenant. Je sais comment
-partager la douleur dans les deux cas, ayant perdu un compagnon et aussi un père.
-6 Aussi, Père pendant que nous sommes ici ce soir, nous prions pour que Tu prépares aussi
-nos coeurs pour cette heure. Nous ne savons pas. Elle peut venir aussi soudainement qu’elle est
-venue pour lui. Nous ne savons pas quand elle viendra, mais nous savons qu’elle doit venir. Aussi,
-nous prions, Dieu, que tu sondes chaque coeur se trouvant ici ce soir. Dieu, n’oublie pas le mien.
-Sonde aussi le mien et éprouve-moi. Seigneur, s’il y a le moindre mal en nous, sors-le. Nous
-
-        http://www.cmpp.ch
-
-    L’UNION INVISIBLE DE L’EPOUSE DE CHRIST    3
-voulons Te servir. Ceci est notre plein objectif: Te servir. Déverse Ton esprit sur nous ce soir et le
-reste de la semaine.
-7 Bénis ce Tabernacle qui porte le nom de Tabernacle de Vie. Puisse-t-il recevoir les pleines
-bénédictions de ce nom et être cette semaine plein de la Vie de Dieu. Sauve chaque âme perdue;
-remplis de Saint-Esprit chaque croyant; et Seigneur renouvelle l’espérance qui est en nous.
-8 Nous prions pour que Tu guérisses tous les malades et les affligés qui viennent parmi nous.
-Puisse Ton glorieux Saint-Esprit être ici, Seigneur, guéris simplement et oins chacun pour qu’il
-croie. Accorde ces choses, Père.
-9 Dieu, aide-moi maintenant, comme c’est à mon tour d’apporter le message. Je prie, Dieu, que
-Tu laisses se mettre de côté l’homme charnel; puisse le Saint-Esprit venir et se mouvoir sur nous,
-Seigneur; puisse le Saint-Esprit saisir cette réunion, Seigneur. Nous savons que nous sommes si
-insuffisants. Nous ne pourrions pas le faire, aucun de nous. Nous ne prétendons pas être
-capables de le faire. Seigneur, nous savons que Tu es le Seul. Aussi, nous regardons à toi
-Seigneur. Agis, Esprit de Dieu et viens à nouveau nous rafraîchir. Nous le demandons dans le
-Nom de Jésus. Amen.
-10 Maintenant, je veux saluer, par le moyen du relais radiophonique, les églises dans tous les
-états. Le relais radiophonique est un excellent petit système qui nous permet d’atteindre notre
-frère Pearry Green, de Beaumont, Texas. A travers tous les Etats-Unis, les églises écoutent ce
-soir le message par le moyen du relais radiophonique.
-11 Nous adressons nos salutations du haut en bas de la côte ouest — de Vancouver à Tijuana,
-Mexico; en passant par San José, Los Angeles, tous les groupes là-bas, nous vous saluons de
-Shreveport; aussi, jusqu’à Prescott, Arizona, au groupe qui attend sur le Seigneur, nous
-adressons nos salutations; et à Tucson, aussi de Sierra Vista à New York, d’un bout à l’autre, à
-travers toute la nation. Le Seigneur vous bénit, chacun d’entre vous. J’aimerais que vous soyez ici
-ce soir dans ce magnifique vieil état de Louisiane, qui semble être mon second chez moi.
-12 Vous savez, vous les gens de New York, vous savez que je ris un peu de vous, avec votre
-manière de parler. Je suis comme à la maison ce soir. Chacun ici, vous savez, dit: «Hello, cher
-frère Branham. Amenez soeur Branham et tous les jeunes, et venez ici nous voir». Tout cela fait
-que je me sens bien. Pour moi, c’est du véritable anglais. Ce n’est pas un manque de respect
-envers vous, gens de l’est et du nord et d’autres places, mais vous savez, je suppose que je suis
-juste né «vieil original» et dois le rester. Je l’aime bien moi-même. C’est de l’anglais véritable.
-13 J’étais au déjeuner des «Hommes d’Affaires Chrétiens» ici, il n’y a pas très longtemps et ils
-ont dit: «Nous nous lèverons maintenant et chanterons l’hymne national». Je me suis levé et j’ai
-dit: «Pour mon vieil Kentucky si lointain…». Eh bien, pour moi c’était l’hymne national! C’est tout
-ce que je savais à ce propos. Ainsi, nous vous adressons nos salutations.
-14 Et maintenant je crois qu’ils vont essayer de passer à la radio le déjeuner des «Hommes
-d’Affaires Chrétiens» le samedi matin. Frère Green vous le dira. Il est aux micros là-bas
-maintenant. Aussi, il vous dira à quelle heure commencera le déjeuner et à quelle heure chaque
-soir vous pourrez l’écouter. Nous vous remercions chaleureusement de prier pour nous.
-15 Maintenant, ici à l’assemblée locale et au Tabernacle de frère Jack, je vais juste vous
-demander une faveur ce soir. Comme je vais donner ce soir mon message de «Thanksgiving» à
-nos églises locales qui suivent le message à travers la nation, je serai peut-être un peu long et
-puis c’est encore possible que je prêche quelque doctrine. [«Thanksgiving Day»: Journée de
-remerciements célébrée en Amérique le dernier jeudi de novembre — N.d.T.] Aussi si vous n’êtes
-pas d’accord avec cela — comme je l’ai toujours dit à propos de manger une tarte aux cerises:
-quand je tombe sur un noyau, je ne jette pas toute la tarte, je jette le noyau et je continue à
-manger la tarte. Aussi, si je mentionne quelque chose ce soir… Il y a une raison pour laquelle j’ai
-accepté d’être ici pour apporter mon message de «Thanksgiving» aux groupes à travers le pays,
-c’est parce que frère Jack ouvre toujours si librement ses portes et dit: «Prêche ce qui est sur ton
-coeur». Aussi, je me sens réellement à la maison. Il y a peut-être ici, dans l’assemblée locale de
-frère Jack, des ministres de la Parole ou des gens qui ne sont pas d’accord avec la doctrine.
-D’habitude j’ai la politesse de ne pas mentionner la doctrine au pupitre d’un homme qui m’a invité
-à parler pour lui. Ainsi, après ce soir, je suppose que je prierai simplement pour les malades et
-ferai un service religieux normal; mais j’ai pensé vous faire savoir à l’avance que si je dis quelque
-
-    http://www.cmpp.ch
-
-L’UNION INVISIBLE DE L’EPOUSE DE CHRIST 4
-chose que vous ne pouvez agréer, eh bien, vous pouvez le mettre sur le compte de mon
-ignorance, je suppose que je ne sais pas mieux dire et priez pour moi.
-16 Maintenant, tournons-nous vers la Parole, vers un chapitre ici auquel je désire me référer en
-plusieurs endroits ce soir parce que j’ai plusieurs passages de l’Ecriture et des petites notes
-écrites là sur un bloc-note.
-17 Je me rappelle la première fois que je suis monté sur la plate-forme au Tabernacle de Vie (il y
-a vingt ans), je n’avais pas besoin de noter les passages de l’Ecriture et les références. J’étais
-alors vingt ans plus jeune. Mais maintenant, la seconde fois, vingt-cinq ans ont passé, c’est
-pourquoi je ne me rappelle pas aussi bien qu’autrefois. Je dois écrire mes passages de l’Ecriture
-sur le papier et parfois écrire d’autres choses auxquelles je désire me référer. Et maintenant, que
-le Seigneur nous bénisse lorsque nous lisons la Parole de Dieu et le livre des Romains, chapitre 7.
-18 Maintenant, j’aimerais vous enseigner comme je le fais pour une leçon d’école du Dimanche.
-Je sais qu’il y a des gens debout et normalement au Tabernacle, à Jeffersonville — nous voulons
-aussi tous vous saluer ce soir; nous savons que vous faites aussi partie du relais radiophonique,
-là-bas au Tabernacle. Il semble que c’est comme au Tabernacle ce soir, comme si vous étiez ici…
-Les gens massés le long des murs. Je suppose que vous êtes aussi comme cela, vous tous dans
-cette partie du pays qui êtes venus pour le message.
-19 Maintenant nous allons utiliser cela comme à l’école du dimanche. Et cela n’est pas dirigé
-contre quelque chose, quelqu’un, ou n’importe quoi d’autre — juste pour l’Eglise, le Corps de
-Christ, que nous essayons de conduire vers de plus profondes pensées et de plus grands
-objectifs, croyant que la venue du Seigneur Jésus est très proche. Nous le croyons d’autant plus
-que c’est vingt ans plus près que lors de ma première venue à Shreveport. Oh, tant de choses se
-sont passées depuis ce temps-là! Maintenant, nous attendons avec impatience la venue du
-Seigneur, dans notre génération. Je n’attends pas un réveil dans notre génération, dans notre
-génération j’attends la venue du Seigneur.
-20 Maintenant, dans Romains 7 — confiant que vous avez vos Bibles ouvertes partout dans le
-pays — nous voulons lire attentivement. Maintenant ce message tiré de là semble être à propos
-du mariage et du divorce; mais cela ne l’est pas vraiment. Pour moi, c’est une prophétie pour
-l’église des derniers temps. Lisons.
-   “Ignorez-vous, frères, (car je parle à des gens qui entendent ce que c’est que la loi,) que la
-   loi a autorité sur l’homme aussi longtemps qu’il vit? Car la femme qui est soumise à un mari,
-   est liée à son mari par la loi, tant qu’il vit; mais si le mari meurt, elle est déliée de la loi du
-   mari. Ainsi donc, le mari étant vivant, elle sera appelée adultère si elle est à un autre
-   homme; mais si le mari meurt, elle est libre de la loi, de sorte qu’elle n’est pas adultère en
-   étant à un autre homme. C’est pourquoi, mes frères, vous aussi, vous avez été mis à mort à
-   la loi par le corps du Christ, pour être à un autre, à celui qui est ressuscité d’entre les morts,
-   afin que nous portions du fruit pour Dieu. Car, quant nous étions dans la chair, les passions
-   des péchés, lesquelles sont par la loi, agissaient dans nos membres pour porter du fruit pour
-   la mort; mais maintenant nous avons été déliés de la loi, étant morts dans ce en quoi nous
-   étions tenus, en sorte que nous servions en nouveauté d’esprit, et non pas en vieillesse de
-   lettre” (Romains 7.1-6).
-21 Et maintenant prions. Cher Dieu, nous avons juste lu ce que nous croyons être la Parole
-sacrée de Dieu. Et c’est ce que nous croyons: que pas iota ou un trait de la lettre ne passera
-jusqu’à ce que tout soit accompli. Et nous croyons que notre Seigneur nous a dit dans
-Apocalypse, chapitre 22, que quiconque ajoutera ou retranchera une parole du Livre sera ôté du
-Livre de Vie.
-22 Et nous voyons que par une mauvaise représentation de cette Parole que Satan a dénaturée
-auprès d’Eve, la faisant douter d’un mot — juste d’un mot, toute la race humaine a été jetée dans
-une chute, dans un chaos. Ensuite, nous voyons dans le milieu du Livre la venue de notre
-Seigneur et Sauveur qui donne cette citation: “L’homme ne vivra pas de pain seulement, mais de
-toute parole qui sort de la bouche de Dieu”. Puis cet avertissement solennel dans le dernier livre
-de l’Apocalypse: “Quiconque ajoutera ou retranchera une parole du Livre sera ôté du Livre de
-Vie”.
-
-        http://www.cmpp.ch
-
-L’UNION INVISIBLE DE L’EPOUSE DE CHRIST 5
-23 Oh, Dieu, sachant et voyant comme nous sommes fragiles, sachant que nous marchons sur
-les fils ténus de cette vie mortelle, sans savoir quand nous serons appelés pour répondre au
-Très-Haut, laisse-nous, ô Seigneur, mettre de côté toute chose dans nos coeurs, toute chose
-dans notre esprit et regarder ce soir droit à Ta Parole. Et Toi, viens pour L’interpréter avec l’Oracle
-Vivant.
-24 Accorde-le nous. Puisse Ton Esprit tomber sur nous et oindre les Paroles dans nos coeurs,
-que nous puissions partir d’ici ce soir étant de meilleures personnes que nous le sommes
-maintenant; que nous puissions avoir un meilleur aperçu de Jésus-Christ. Accorde-le nous
-Seigneur, afin que nous puissions avoir une meilleure compréhension du jour dans lequel nous
-vivons et de la manière que Dieu prépare Son peuple dans cette heure — ce grand et crucial
-temps de ténèbres dans lequel nous vivons maintenant.
-25 Dieu, oins-nous, pas seulement celui qui parle, mais aussi ceux qui écoutent, et ensemble
-fais trembler nos coeurs à Ta Parole. Car “la crainte de Dieu est le commencement de la
-sagesse”. Accorde-nous ces choses, Père, car nous te le demandons dans le Nom de Jésus.
-Amen.
-26 J’aimerais mettre un titre à ces quelques remarques que je vais faire ici et aux quelques
-Ecritures que je suivrai avec attention, si le Seigneur le veut, pour le message du «Thanksgiving»
-— L’Union Invisible de l’Epouse de Christ.
-27 Cela ne sonne pas comme un message de «Thanksgiving». Quelle que soit l’Ecriture… nous
-sommes reconnaissants pour Sa totalité. Je suis reconnaissant à Dieu de vivre dans ce temps des
-dernières scènes de l’histoire de ce monde. Je ne sais pas, si j’aurais eu un mot à dire ainsi avant
-la fondation de ce monde, si Dieu avait mis devant moi tout le programme et dit: , j’aurais choisi
-cet âge, car je pense que celui-ci est l’Age d’Or.
-28 J’aurais certainement aimé avoir été ici durant Sa visite sur terre, mais je pense quand même
-que ce temps, maintenant, est un temps plus grand, parce que c’est un temps où Il vient pour
-prendre les personnes qu’Il a rachetées. Ce temps nous rapproche de la résurrection, où tous les
-rachetés s’avanceront dans la résurrection. Quelle glorieuse opportunité nous avons de parler à
-un peuple mourant — glorieux temps!
-29 Nous sommes enthousiasmés à ce propos et nous savons que l’histoire est en train de se
-terminer. L’histoire du monde sera bientôt terminée. Alors, nous allons entrer dans un jour
-nouveau — dans le grand Millenium. En tant que croyant, je crois à un Millenium, un Règne de
-mille ans sur terre avec Christ: le retour physique du Seigneur Jésus pour prendre un peuple
-physique, glorifié par Son Sang qui purifie.
-30 Paul donne ici une illustration dans notre Ecriture au sujet de la Loi et de la Grâce, de la
-même façon que «Mariage et Divorce». Ce passage est très rarement prêché, parce qu’il a plus
-ou moins de rapport avec le mariage et le divorce, mais il a aussi une plus grande portée que
-mariage et divorce et il essaie ici d’y mettre de l’ordre. De même, en tant qu’église, nous ne
-pouvons plus jamais être mariés au monde et à Christ en même temps, être légal et dans la
-légitimité à ce propos, au même titre qu’une femme ne peut vivre avec un mari alors qu’elle a
-encore un mari vivant.
-31 J’ai mes propres pensées à ce sujet, et je crois que ce que la Bible dit est la Vérité. Mais je
-crois aussi que cela révèle un des grands mystères de la prophétie. J’espère que le Seigneur
-nous aidera ce soir, lorsque nous transmettrons ceci à nos gens qui attendent au travers de la
-nation.
-32 Cela a été dit une fois… Je l’ai lu quand j’étais en train d’écrire une note à ce sujet. Je ne
-pouvais pas me rappeler exactement dans quel livre c’était, mais je suis sûr que c’est juste: c’est
-l’un des livres que je lisais au sujet de monsieur Moody, Dwight Moody, à Chicago. (Nous avons
-aussi ce soir une grande église qui écoute à Chicago.) Ce monsieur Moody, après avoir lu
-Romains 7, courut dans les rues et au premier homme qu’il rencontra lui dit: [Grâce en anglais se
-traduit par «Grace», qui est aussi un prénom — N.d.T.]
-   Et l’homme répondit: «Grace qui?».
-   Monsieur Moody dit: «La grâce de Dieu».
-
-        http://www.cmpp.ch
-
-L’UNION INVISIBLE DE L’EPOUSE DE CHRIST 6
-33 Il était tout excité d’avoir vu que la grâce nous avait séparé de la loi, et quel rôle la grâce avait
-joué. J’aimerais être ainsi toute une nuit. J’ai toujours dit aux gens: quand je franchirai la ligne de
-l’autre côté, j’aimerais me tenir debout et chanter: «Etonnante grâce! Qui a sauvé une épave
-comme moi! Quel doux son». Grâce, précieuse grâce, à connaître davantage, car c’est par la
-grâce que nous sommes sauvés; pas par ce que nous pouvons faire, car quoique nous fassions,
-cela ne nous est pas compté. C’est la grâce qui nous sauve. “Par grâce vous êtes sauvés au
-travers de la foi”.
-34 Puis-je ajouter quelque chose au sujet de cette femme, Grâce. Puis-je La placer dans la Bible
-aussi, comme Elle est appelée la Dame élue — cette Mademoiselle Grâce dont je vais parler.
-Vous savez, la Bible déclare: “La Dame élue…”. Si vous remarquez, élue vient de la parole: Dame
-élue. Une Dame parmi toutes les autres dames a été élue comme la vierge devant donner
-naissance au corps de Dieu sur la terre. Elle était une femme élue. Dieu choisit Marie. Et Dieu a
-aussi choisi une Dame élue, qui est Son Epouse. Elle est élue. J’espère que nous sommes
-membres de cela ce soir au travers de la nation.
-35 L’illustration ici montre la relation de l’Epouse à Christ — la Dame élue — comment Elle serait
-amenée à Lui, d’où Elle viendrait, comment Elle serait amenée à Lui. L’Eglise ici, dans l’illustration
-que nous avons sous les yeux, est typifiée par une femme; laquelle femme est toujours un type de
-l’Eglise, parce que l’Eglise est considérée comme une Epouse — une Epouse. Elle est l’Epouse
-du Seigneur Jésus, le Fils de Dieu.
-36 Si vous regardez… Regardez toujours la condition et la conduite des femmes et vous verrez
-où en est l’Eglise. Maintenant, certaines de ces remarques peuvent paraître étranges à quelques-
-uns d’entre vous, mais elles sont complémentaires au message que j’ai reçu du Seigneur et que
-j’essaie d’apporter aux gens. Vous voyez, vous regardez chaque chose dans le naturel, comme
-cela se passe dans la nature et vous l’observez. Cela est aussi vrai avec le spirituel.
-37 Maintenant, si vous regardez la conduite des femmes dans le monde d’aujourd’hui…
-Observez la conduite de l’église charnelle d’aujourd’hui. Observez simplement. Naturellement,
-maintenant, il y a aussi la conduite de l’Epouse spirituelle, l’Eglise. Observez cela aussi, parce que
-la soi-disant naturelle, revendique être l’Epouse.
-38 Maintenant, s’il vous plaît, laissez-moi le dire à nouveau à l’assemblée locale: Ne vous sentez
-pas mal maintenant. J’adresse à tous ceux qui sont à travers de la nation, ce que je pense de la
-Dame élue. Aussi, s’il y a des ministres de la parole ici qui ne sont pas d’accord, gardez
-simplement votre calme pour un petit moment.
-39 Remarquez ce caractère, quand vous voyez les femmes entrer dans une colère noire et faire
-juste ce qu’elles veulent faire, remarquez, l’église est en train de faire la même chose. Observez!
-Mais regardez l’Epouse spirituelle quand Elle commence à avoir un réveil, quand Elle commence
-à revenir et à s’aligner Elle-même avec la Parole de Dieu, observez alors à nouveau, vous verrez
-comment un Message sortira des Ecritures de façon majestueuse, à ce moment, pour attraper
-cette Epouse — attraper cette femme, l’Elue. C’est comme avec monde, Satan le trompeur
-induisit en erreur la première épouse pour la faire pêcher contre Dieu en la faisant ne pas croire à
-Sa Parole.
-40 Aujourd’hui, quand nous voyons l’église naturelle, dans son évangile intellectuel, s’éloignant
-de plus en plus loin de la Parole dans «l’évangile social», nous trouvons que les femmes du
-monde dans les rues, membres de telles églises, sont elles-mêmes emportées par la même
-atmosphère. Vous ne pouvez rien leur dire. Elles ont perdu tout sens commun de la décence; les
-gens l’ont perdu. C’est la manière dont l’église l’a perdu. Vous pouvez la voir directement aller au
-Conseil oecuménique, aussi sûr que les choses de ce monde, droit à Rome et de toutes ses
-forces. Vous voyez? Parce que c’est prophétisé et c’est là qu’elle se trouve. C’est son
-comportement.
-41 Mais alors, regardez de nouveau à l’Eglise spirituelle; comment se comporte ce groupe de
-gens «appelés hors de», les Elus de chaque réveil. Avec Martin Luther, lors de la Réformation,
-cela s’est passé de la même manière. Au temps de John Wesley, cela s’est passé de la même
-manière. Quand la Pentecôte a premièrement commencé, cela s’est passé de la même manière.
-Ils ont ramené leurs femmes en arrière, en ligne avec la Parole, mais ils sont ensuite allés à la
-
-        http://www.cmpp.ch
-
-L’UNION INVISIBLE DE L’EPOUSE DE CHRIST 7
-dérive. Et, à ce moment-là, elle est retournée droit en arrière dans le chaos; mais alors au temps
-où les gens sont prêts à s’aligner, il y a un message qui sort, et ils s’alignent avec lui.
-42 Luther était le messager du jour de la justification; quelques-uns d’entre l’église se sont
-alignés droit avec cela — le reste a continué. Wesley est venu avec la sanctification; l’Eglise s’est
-alignée droit avec cela. La Pentecôte est venue avec la restauration des dons; l’Eglise s’est
-alignée tout droit avec cela. L’Elue de ce jour… Et alors elle a fané; elle est retournée droit en
-arrière dans le dénominationnel, dehors avec le reste des autres — tous les autres, droit en bas le
-long de la ligne.
-43 Maintenant, vous remarquerez que quand les gens commencent à essayer de s’aligner avec
-la Parole, voici que vient droit auprès d’eux un message tout frais de la Parole de Dieu; c’est ce
-qui garde ce message aligné — chaque fois. C’est seulement en Dieu que nous atteignons cela.
-44 Nous avons des familles. Chaque famille ici est habituée à cela. Parfois cela va bien pour
-vous pendant des années. Soudainement, un coup du sort vous frappe — nous disons cela
-souvent ici dans le sud, «quand il pleut, cela verse» et tout va de travers. Vous passez au travers
-de la nuit. Ensuite il y a la pointe du jour; ensuite la nuit. Chaque chose avance en continuité.
-45 Le prophète Paul dit ici qu’une femme ne peut pas se remarier avant que son premier mari ne
-soit mort. Elle ne peut pas se remarier aussi longtemps que son mari est en vie. Dans absolument
-aucune circonstance. Elle doit rester seule aussi longtemps que son mari est en vie. Et si elle
-devait commettre un tel péché, elle serait appelée adultère… (Je parle maintenant de la naturelle
-pour typifier la spirituelle.) Si cette femme voulait commettre un tel péché, elle serait alors qualifiée
-d’adultère — si elle a deux maris vivants au même moment. Elle a donc été déchue de ses droits
-en faisant cela aux yeux de Dieu et du Ciel, certainement elle l’a été. Elle est une exclue de l’ordre
-de Dieu, en accord avec les Ecritures que j’ai lues.
-46 Il en est ainsi de l’église quand elle essaie de mélanger les credo et les dénominations avec
-la Parole de Dieu. Elle ne peut pas être mariée à une dénomination et être l’Epouse de Christ en
-même temps. Elle doit être morte pour l’une ou pour l’autre. La loi dit cela, ici. Il y a beaucoup de
-lois dans la Parole de Dieu, et c’est Sa loi. Paul parle de la même chose ici. Elle ne peut pas être
-mariée à une église qui a un credo du monde et être l’Epouse de Christ, parce que l’une est
-contraire à l’autre.
-47 Maintenant, rappelez-vous, vous dites: «Eh bien, nous croyons ceci, mais nous ne croyons
-pas cela». Si vous êtes mariés à Christ, Christ est la Parole de Dieu. Dans Jean, au premier
-chapitre, il est dit: “Au commencement était la Parole; et la Parole était auprès de Dieu; et la
-Parole était Dieu… Et la Parole devint chair et habita au milieu de nous”. Christ était la Parole
-vivante. Il a toujours été la Parole; Il est toujours la Parole; Il sera toujours la Parole.
-48 Il était seulement la manifestation des attributs de Dieu, car Il était le Fils de Dieu et n’importe
-quel fils a les attributs de son père. Et tout comme vous étiez dans les gênes de votre père, dans
-son corps quand il était un jeune homme, vous étiez en lui, mais il ne pouvait pas avoir
-communion avec vous parce qu’il ne vous connaissait pas. Mais au travers du sein de votre mère,
-vous êtes nés sur terre et devenus à l’image de votre père. Alors il pouvait avoir communion avec
-vous; et ainsi vous étiez des fils et des filles de Dieu, avant même qu’il y ait une lune ou une étoile
-ou une molécule — vous étiez des fils et des filles de Dieu. Parce que vous êtes seulement les
-manifestations physiques des attributs qui étaient en Dieu au commencement. Parce qu’il y a
-seulement une forme de Vie Eternelle, et cela existait avant vous…vous ne savez rien à ce sujet;
-pas plus que vous ne le saviez lorsque vous étiez dans votre père terrestre. Mais vous êtes
-manifestés en Son image — à l’image de Dieu vous êtes faits et vous avez été manifestés pour la
-gloire et la communion avec Dieu.
-49 Et c’est pourquoi, aussi sûr que vos gènes devaient être dans votre père avant votre
-naissance naturelle, vos gènes spirituels devaient être en Dieu, parce que vous êtes une
-expression des attributs de Ses pensées avant la fondation du monde. Il n’y a pas d’autre moyen.
-C’est vrai.
-50 Maintenant nous remarquons que cette Vie était en vous — la Vie de Dieu était en vous
-depuis la fondation du monde. Vous ne pouvez pas mélanger le credo dénominationnel avec la
-Parole, parce qu’ils sont trop contraires l’un à l’autre. Cela est exactement ce que Satan a essayé
-de faire à Eve avec ses conceptions intellectuelles. Il a dit… Il a admis que Dieu l’avait dit, mais il
-
-        http://www.cmpp.ch
-
-L’UNION INVISIBLE DE L’EPOUSE DE CHRIST 8
-a dit: “Sûrement vous ne mourrez pas”. Vous voyez, et ils ont cru cela, et c’est cela que le credo a
-fait ce soir. La dénomination a séparé les gens de la Parole de Dieu. Jésus n’a-t-il pas dit, lorsqu’il
-est venu: “Vous, avec vos traditions, vous avez rendu le commandement de Dieu sans effet pour
-les gens”? Et à travers nos credo, nous nous sommes éloignés de la communion du Saint-Esprit
-qui oint la Parole de Dieu qui doit enlacer notre génération. Nous avons séparé les gens par les
-dénominations pour qu’ils n’aient pas une chance de voir cela. Maintenant, Dieu dans chaque
-génération ajoute une nouvelle partie à Son Livre. Tout cela va ensemble de la même manière
-que mon corps a été assemblé. Il m’a été dit que cela commençait par la colonne vertébrale, mais
-que ce n’était pas toute la colonne vertébrale. Cela allait vers les côtes et les poumons, vers les
-mains, les bras, les pieds et ainsi de suite, pour devenir la personne que je suis.
-51 Et c’est ainsi que Dieu fut manifesté au commencement. Finalement, Il apparut comme
-Jéhovah, Dieu le Père. Ensuite Il apparut comme Dieu, le Fils en Jésus-Christ. Maintenant, il
-apparaît comme Dieu, le Saint-Esprit — tout le temps le même Dieu — trois manifestations du
-même Dieu.
-52 Maintenant, nous trouvons dans cela que Dieu a assigné Sa Parole dans chaque génération
-depuis le commencement, exactement comme s’opérait l’évolution; exactement comme — la
-première chose que Dieu créa fut probablement… Disons qu’Il a créé la vie botanique; ensuite la
-vie animale; ensuite Il créa la vie humaine — une sorte d’évolution, s’élevant toujours plus haut.
-53 Il en fut de même pour l’Eglise en Dieu: la justification sous Luther. C’était tirer dehors Son
-Epouse; maintenant, Il crée Son Epouse. La justification vint sous Luther, la sanctification sous
-Wesley, et ainsi de suite, vous voyez. L’évolution de l’Esprit, étant distribué de plus en plus car le
-Corps, le Corps de Christ se construit, venant vers la Tête, Laquelle est Christ.
-54 Maintenant, Elle, en tant que femme, si Elle est mariée à Christ la Parole, Elle ne peut pas
-être mariée à une église dénominationnelle en même temps car Elle est liée à Elle (la Parole). Elle
-ne peut pas vivre avec deux maris en même temps. Ils sont contraires l’un à l’autre. L’une est
-envoyée de Dieu et l’autre est fabriquée par l’homme. Ainsi elles sont contraires. Il a dit: “Que
-Dieu au contraire soit reconnu pour vrai et tout homme pour menteur”. Romains 3.4 (Segond)
-Dieu a dit cela. Tout autant contraire l’une à l’autre que la loi l’était à la grâce — comme Paul le dit
-ici.
-55 L’une doit être morte afin d’appartenir à l’autre. Et si elle essaie de les mélanger, elle sera
-appelée une adultère. Oh, pensez à cela! A New York, en Arizona, à travers la nation, pensez-y!
-Dieu a dit que si elle essayait d’être mariée aux deux en même temps, elle devait être appelée
-adultère. Quelle femme adultère pourrait entrer au Ciel? Est-ce que Dieu marierait une femme
-adultère? Certainement pas. Il nous a demandé de ne pas le faire. Elle devrait être appelée
-adultère.
-56 Ensuite ses enfants, si elle est une adultère, ses enfants sont illégitimes. Illégitimes!
-Illégitimes envers quoi? Pas envers l’église, mais envers la Parole. Elle est illégitime.
-57 Quelle image de l’Apocalypse 3 ici, des derniers jours de l’église de Laodicée! Quel groupe
-illégitime! Quelle pagaille dénominationnelle! Continuez!… Ils sont tièdes, ils s’appellent
-eux-mêmes chrétiens et nient la Parole de Dieu; ayant une forme de piété, mais niant Sa
-puissance — comme le prophète a dit qu’ils le seraient.
-58 Le mariage est l’institution la plus ancienne du monde. Le mariage a été accompli en premier
-et institué dans le jardin d’Eden.
-59 Une femme a reçu certaines caractéristiques qu’elle ne doit pas souiller. Une femme est
-dépositaire de cela. Il n’y a pas une créature semblable à la femme sur terre. Il n’y a pas de
-chienne, ou une femelle d’aucune sorte qui ait reçu les caractéristiques confiées à la femme. La
-femme n’existait même pas au début de la création, parce que Dieu savait qu’elle chuterait.
-Aucune autre femelle ne pouvait commettre l’adultère. Elle est la seule à pouvoir commettre
-l’adultère. Si elle avait été faite comme création originel, cela n’aurait pas correspondu à la grande
-sagesse de Dieu. Vous voyez, elle a été faite dérivé de l’homme; mais parce qu’elle a été tirée de
-son côté, elle a aussi reçu un dépôt sacré de Dieu pour la rédemption. Elle a des caractéristiques
-qu’elle ne doit pas souiller. Si elle gâte ses particularités, elle est souillée pour la vie. Aucune
-importance combien de fois elle est pardonnée, elle ne peut pas être justifiée. Je touche à cela
-dans un petit instant. J’ai une Ecriture à ce sujet dans quelques minutes. Elle peut être pardonnée
-
-        http://www.cmpp.ch
-
-L’UNION INVISIBLE DE L’EPOUSE DE CHRIST 9
-pour sa souillure, mais elle ne peut pas être justifiée dans cette vie. Cela reste toujours avec elle.
-Remarquez maintenant, elle a reçu ceci. Elle peut être pardonnée mais pas justifiée.
-60 Son corps lui est donné comme une responsabilité sacrée de Dieu. A aucune chienne, ou
-femelle oiseau, à aucun autre animal, aucune autre créature de cette sorte. Non, elle est la seule,
-l’unique. La raison pour laquelle cela est tellement sacré c’est parce qu’elle est faite pour amener
-la vie sur la terre. Son corps est le berceau de la vie. C’est la raison pour laquelle elle a reçu cette
-seconde charge.
-61 Maintenant, c’est ici que beaucoup d’entre vous, théologiens, pouvez ne pas être d’accord.
-C’est ce qui a souillé toute la race humaine, c’est cet adultère au commencement. Ce berceau a
-été gâté. Elle a donné naissance à ces jumeaux, Caïn et Abel. Un seul acte — deux enfants.
-Cherchez dans les Ecritures.
-62 Remarquez maintenant, nous trouvons que son corps porte la matrice et c’est pourquoi c’est
-une responsabilité sacrée à ne pas souiller.
-63 Maintenant, je vous parle apportant ceci comme une illustration pour vous montrer là où
-l’église se tient. Je ne parle pas de vous femmes, ou de vous hommes, quoi que vous soyez, cela
-est entre vous et Dieu, mais je parle de l’Eglise et de Christ.
-64 Maintenant, ceci lui est donné pour mettre au monde la vie que seul Dieu Lui-même peut
-donner. Son mari peut être le porteur du germe, mais Dieu doit produire la vie. C’est vrai, toute vie
-doit venir de Dieu. N’importe quelle vie doit venir de Dieu. Mais bien qu’elle soit pervertie — et
-c’est cela qui fait qu’elle est pécheresse — la vie doit venir de Dieu. Il est l’Auteur de la vie.
-65 En premier, je veux nommer ici trois choses dont elle ne doit pas s’éloigner. Gardez l’Eglise
-en mémoire pendant que je parle de la femme naturelle, comme Paul le fait ici, dans le chapitre 7
-des Romains. Elle a une responsabilité sacrée de vertu que le Seigneur lui a confiée — une
-certaine vertu. Rien d’autre ne détient cela, si ce n’est une femme. C’est vrai. Cela lui a été confié
-par Dieu. Elle ne doit pas souiller cette vertu. Si elle fait quelque chose de faux, elle doit le
-confesser à son mari avant qu’il la prenne; et le faire correctement. Exactement comme l’église
-qui était mariée à la loi devait aussi venir devant Christ avant le second mariage — elle doit
-confesser cela. Si elle ne le fait pas et qu’elle vive avec son mari pendant dix ans, et qu’elle le
-confesse alors, il a le droit de la renvoyer et de marier une autre femme. Cela c’est l’Ecriture. La
-fornication est une manière de vivre impure.
-66 “Joseph, ne crains pas de la prendre avec toi, Marie ta femme, car ce qui a été conçu en elle
-est du Saint-Esprit”. Il pensait à la répudier secrètement, vous voyez, après qu’il se fut fiancé à
-elle. En ce qui concerne Dieu, lorsque vous êtes fiancés, vous êtes mariés.
-67 Remarquez. Maintenant elle a une responsabilité sacrée de vertu qui lui a été confiée par le
-Seigneur. Dieu lui a donné cette vertu. Exactement comme ce fut le cas dans le jardin d’Eden, elle
-peut dire «oui» ou «non». Elle a une responsabilité sacrée, une nature féminine transmise par
-Dieu qu’elle ne doit pas briser. La nature féminine dont je parle ici, c’est sa conduite, son
-caractère envers l’homme. Ne laissez pas chaque homme… Regardez sur ces écrans et regardez
-ces stars s’embrasser, s’étreindre, tourner autour de ces femmes. Une femme qui fait cela a un
-mauvais caractère. A part cela, elle peut être même vertueuse… Mais voyez, dans son coeur —
-quand un homme embrasse une femme, il a en fait potentiellement commis un adultère, car dans
-les lèvres se trouvent des glandes du sexe.
-68 Des glandes sexuelles se trouvent dans les lèvres de la femme et de l’homme. Il peut
-l’embrasser sur la main, cela ne mélangerait pas les glandes du sexe, car ces glandes sont dans
-les lèvres. Et voyez tout ce non-sens, Hollywood aujourd’hui avec ces sensibleries et ces histoires
-d’amour autour des femmes et ainsi de suite…Les petites filles regardent à tout cela. Ce n’est pas
-étonnant si notre morale est pourrie, décadente et sale! Parce que cela est placé devant les
-enfants. Cela est vrai. Cela doit être ainsi dans les derniers jours.
-69 Maintenant, gardez l’église en mémoire. Elle embrasse, tourne autour et se mélange avec
-tout, sauf avec la Parole. Laissez le diable, l’éducation, les recherches scientifiques et ainsi de
-suite, car l’éducation scientifique et toutes ces choses sont absolument contraires à Dieu.
-70 Tout le système de civilisation que nous avons maintenant est absolument antéchrist; le
-système éducationnel est antéchrist; la civilisation est antéchrist. C’est contre Dieu. Vous dites
-
-        http://www.cmpp.ch
-
-L’UNION INVISIBLE DE L’EPOUSE DE CHRIST 10
-contre la civilisation? Dieu aura un de ces jours une civilisation où il n’y aura aucune mort qui lui
-sera associée.
-71 Cette civilisation moderne vient de Satan. Je vous le prouverai de par la Bible ce soir, si le
-Seigneur le veut. Toutes ces choses sont de Satan. Notre nouvelle civilisation n’aura rien de cela
-en elle.
-72 Elle a cette nature féminine sacrée. Pas étonnant que les hommes agissent de cette manière
-à l’encontre des femmes. C’est parce que les femmes agissent à l’égard des hommes comme
-elles le font. Elles se caractérisent elles-mêmes là dehors avec une paire de shorts, des
-vêtements moulants, des habits d’hommes et d’autres choses, se tortillant dans la rue. Ce qu’elle
-dit n’a aucune importance… Elle peut être aussi vertueuse envers son mari que possible, mais
-aux yeux de Dieu, elle est une adultère. “Quiconque regarde une femme pour la convoiter a
-commis un adultère avec elle dans son coeur”. Elle se présente elle-même pour être cela. C’est
-exactement ce que l’église a fait avec le monde.
-73 Remarquez, elle commet cela à l’encontre de sa responsabilité sacrée, de sa nature féminine,
-et ensuite de sa maternité sacrée et de l’honneur de son mari.
-74 Regardez seulement aujourd’hui. Dans certaines villes, dans beaucoup de villes, ils ont même
-de grandes parties qu’ils appellent mondanité — des membres d’églises aussi — ils se saoulent,
-mettent un chapeau sur le sol, et y jettent leurs clés; chaque femme va et prend dans le chapeau
-la clé de l’homme avec qui elle va passer le week-end. J’ai tellement de choses à dire au sujet de
-toutes ces parties; le Seigneur voulant je n’ai pas le temps d’en parler. Quelle saleté!
-75 Et l’église est tout aussi mauvaise. Cela est vrai. Commettant l’adultère avec n’importe quoi;
-elle n’a rien à faire avec cela… Elle devrait rester avec la Parole.
-76 Bâtir c’est bien, faire des hôpitaux c’est bien. Toutes ces autres choses sont bien. Les
-programmes éducationnels, c’est bien. Nous devons vivre ici; nous devons lire, écrire; c’est notre
-système économique.
-77 De la même manière, nous n’étions pas supposés porter des habits au commencement. (Je
-prêcherai là-dessus plus tard cette semaine, Dieu voulant.) Mais nous devons porter des habits,
-parce que Dieu nous a donné des habits; mais au commencement, nous n’en avions pas besoin
-— nous étions voilés. Maintenant, l’église est voilée par ses péchés. Elle ne sait même pas qu’elle
-pèche. Maintenant elle est voilée par le diable; autrefois, elle était voilée par Dieu, c’est cela qui
-fait la différence.
-78 Maintenant, nous trouvons qu’il lui a été donné cette responsabilité sacrée de la nature
-féminine qu’elle ne doit pas briser: agir, avoir son caractère, élever ses enfants, être honorable
-pour son mari. De nos jours, elles ne portent presque aucune attention à cela.
-79 Vous devriez vous asseoir parfois dans mon bureau et voir des hommes amenant leurs
-femmes, qui essaient de se mettre en ordre avec Dieu. Elles confessent tout à l’homme avec
-lequel elles vivent, toute chose depuis qu’ils sont mariés. Oh, vous dites: «Cela c’est…». Non, ce
-sont des Pentecôtistes. Les autres ne viendront pas. Aussi, je parle de comment on peut s’en
-éloigner! Quand l’église se mélange avec le monde et avec toutes ces modes et choses que nous
-avons, nous n’avons plus rien de commun avec la Pentecôte originale. Pas davantage que le jour
-avec la nuit. Nous avons dérivé quelque part dans le sombre chaos et nous sommes perdus.
-80 Quelle charge sacrée! Quelle responsabilité pour une femme! Maintenant, voyez comment
-elle est un type de l’Eglise qui a la même responsabilité. Comme une femme a une responsabilité
-sacrée envers sa maternité, ses vertus, son mari; l’Eglise a une responsabilité sacrée envers la
-prière, la Parole, et Christ, exactement la même que celle de la femme! Et comme une femme qui
-se laisse aller avec un autre homme, l’église va de même dans ces programmes institutionnels et
-dans ces programmes de construction d’écoles et ainsi de suite. Je n’ai rien contre eux. C’est
-bien. Ils servent leur but. Mais il ne sont pas… Jésus n’a jamais dit: «Va et construis des écoles».
-Il a dit: “Prêchez la Parole!”. C’est cela qu’ils négligent.
-81 Faire des institutions, des hôpitaux et ainsi de suite, ces choses sont bien, mais ce n’est pas
-le devoir de l’Eglise! Son devoir est de prêcher l’Evangile. Mais nous avons fait toutes sortes
-d’autres choses sauf cela et nous avons dérivé exactement comme Satan, mélangeant un peu
-d’Evangile avec quelque chose d’autre et encore quelque chose d’autre, jusqu’à ce qu’ils
-
-        http://www.cmpp.ch
+21 Et maintenant prions. Cher Dieu, nous avons juste lu ce que nous croyons être la Parole sacrée de Dieu. Et c’est ce que nous croyons: que pas iota ou un trait de la lettre ne passera jusqu’à ce que tout soit accompli. Et nous croyons que notre Seigneur nous a dit dans Apocalypse, chapitre 22, que quiconque ajoutera ou retranchera une parole du Livre sera ôté du Livre de Vie.
+22 Et nous voyons que par une mauvaise représentation de cette Parole que Satan a dénaturée auprès d’Eve, la faisant douter d’un mot — juste d’un mot, toute la race humaine a été jetée dans une chute, dans un chaos. Ensuite, nous voyons dans le milieu du Livre la venue de notre Seigneur et Sauveur qui donne cette citation: “L’homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu”. Puis cet avertissement solennel dans le dernier livre de l’Apocalypse: “Quiconque ajoutera ou retranchera une parole du Livre sera ôté du Livre de Vie”.
+23 Oh, Dieu, sachant et voyant comme nous sommes fragiles, sachant que nous marchons sur les fils ténus de cette vie mortelle, sans savoir quand nous serons appelés pour répondre au Très-Haut, laisse-nous, ô Seigneur, mettre de côté toute chose dans nos coeurs, toute chose dans notre esprit et regarder ce soir droit à Ta Parole. Et Toi, viens pour L’interpréter avec l’Oracle Vivant.
+24 Accorde-le nous. Puisse Ton Esprit tomber sur nous et oindre les Paroles dans nos coeurs, que nous puissions partir d’ici ce soir étant de meilleures personnes que nous le sommes maintenant; que nous puissions avoir un meilleur aperçu de Jésus-Christ. Accorde-le nous Seigneur, afin que nous puissions avoir une meilleure compréhension du jour dans lequel nous vivons et de la manière que Dieu prépare Son peuple dans cette heure — ce grand et crucial temps de ténèbres dans lequel nous vivons maintenant.
+25 Dieu, oins-nous, pas seulement celui qui parle, mais aussi ceux qui écoutent, et ensemble fais trembler nos coeurs à Ta Parole. Car “la crainte de Dieu est le commencement de la sagesse”. Accorde-nous ces choses, Père, car nous te le demandons dans le Nom de Jésus. Amen.
+26 J’aimerais mettre un titre à ces quelques remarques que je vais faire ici et aux quelques Ecritures que je suivrai avec attention, si le Seigneur le veut, pour le message du «Thanksgiving» — L’Union Invisible de l’Epouse de Christ.
+27 Cela ne sonne pas comme un message de «Thanksgiving». Quelle que soit l’Ecriture… nous sommes reconnaissants pour Sa totalité. Je suis reconnaissant à Dieu de vivre dans ce temps des dernières scènes de l’histoire de ce monde. Je ne sais pas, si j’aurais eu un mot à dire ainsi avant la fondation de ce monde, si Dieu avait mis devant moi tout le programme et dit: , j’aurais choisi cet âge, car je pense que celui-ci est l’Age d’Or.
+28 J’aurais certainement aimé avoir été ici durant Sa visite sur terre, mais je pense quand même que ce temps, maintenant, est un temps plus grand, parce que c’est un temps où Il vient pour prendre les personnes qu’Il a rachetées. Ce temps nous rapproche de la résurrection, où tous les rachetés s’avanceront dans la résurrection. Quelle glorieuse opportunité nous avons de parler à un peuple mourant — glorieux temps!
+29 Nous sommes enthousiasmés à ce propos et nous savons que l’histoire est en train de se terminer. L’histoire du monde sera bientôt terminée. Alors, nous allons entrer dans un jour nouveau — dans le grand Millenium. En tant que croyant, je crois à un Millenium, un Règne de mille ans sur terre avec Christ: le retour physique du Seigneur Jésus pour prendre un peuple physique, glorifié par Son Sang qui purifie.
+30 Paul donne ici une illustration dans notre Ecriture au sujet de la Loi et de la Grâce, de la même façon que «Mariage et Divorce». Ce passage est très rarement prêché, parce qu’il a plus ou moins de rapport avec le mariage et le divorce, mais il a aussi une plus grande portée que mariage et divorce et il essaie ici d’y mettre de l’ordre. De même, en tant qu’église, nous ne pouvons plus jamais être mariés au monde et à Christ en même temps, être légal et dans la légitimité à ce propos, au même titre qu’une femme ne peut vivre avec un mari alors qu’elle a encore un mari vivant.
+31 J’ai mes propres pensées à ce sujet, et je crois que ce que la Bible dit est la Vérité. Mais je crois aussi que cela révèle un des grands mystères de la prophétie. J’espère que le Seigneur nous aidera ce soir, lorsque nous transmettrons ceci à nos gens qui attendent au travers de la nation.
+32 Cela a été dit une fois… Je l’ai lu quand j’étais en train d’écrire une note à ce sujet. Je ne pouvais pas me rappeler exactement dans quel livre c’était, mais je suis sûr que c’est juste: c’est l’un des livres que je lisais au sujet de monsieur Moody, Dwight Moody, à Chicago. (Nous avons aussi ce soir une grande église qui écoute à Chicago.) Ce monsieur Moody, après avoir lu Romains 7, courut dans les rues et au premier homme qu’il rencontra lui dit: [Grâce en anglais se traduit par «Grace», qui est aussi un prénom — N.d.T.]
+> Et l’homme répondit: «Grace qui?».
+> Monsieur Moody dit: «La grâce de Dieu».
+33 Il était tout excité d’avoir vu que la grâce nous avait séparé de la loi, et quel rôle la grâce avait joué. J’aimerais être ainsi toute une nuit. J’ai toujours dit aux gens: quand je franchirai la ligne de l’autre côté, j’aimerais me tenir debout et chanter: «Etonnante grâce! Qui a sauvé une épave comme moi! Quel doux son». Grâce, précieuse grâce, à connaître davantage, car c’est par la grâce que nous sommes sauvés; pas par ce que nous pouvons faire, car quoique nous fassions, cela ne nous est pas compté. C’est la grâce qui nous sauve. “Par grâce vous êtes sauvés au travers de la foi”.
+34 Puis-je ajouter quelque chose au sujet de cette femme, Grâce. Puis-je La placer dans la Bible aussi, comme Elle est appelée la Dame élue — cette Mademoiselle Grâce dont je vais parler. Vous savez, la Bible déclare: “La Dame élue…”. Si vous remarquez, élue vient de la parole: Dame élue. Une Dame parmi toutes les autres dames a été élue comme la vierge devant donner naissance au corps de Dieu sur la terre. Elle était une femme élue. Dieu choisit Marie. Et Dieu a aussi choisi une Dame élue, qui est Son Epouse. Elle est élue. J’espère que nous sommes membres de cela ce soir au travers de la nation.
+35 L’illustration ici montre la relation de l’Epouse à Christ — la Dame élue — comment Elle serait amenée à Lui, d’où Elle viendrait, comment Elle serait amenée à Lui. L’Eglise ici, dans l’illustration que nous avons sous les yeux, est typifiée par une femme; laquelle femme est toujours un type de l’Eglise, parce que l’Eglise est considérée comme une Epouse — une Epouse. Elle est l’Epouse du Seigneur Jésus, le Fils de Dieu.
+36 Si vous regardez… Regardez toujours la condition et la conduite des femmes et vous verrez où en est l’Eglise. Maintenant, certaines de ces remarques peuvent paraître étranges à quelques-uns d’entre vous, mais elles sont complémentaires au message que j’ai reçu du Seigneur et que j’essaie d’apporter aux gens. Vous voyez, vous regardez chaque chose dans le naturel, comme cela se passe dans la nature et vous l’observez. Cela est aussi vrai avec le spirituel.
+37 Maintenant, si vous regardez la conduite des femmes dans le monde d’aujourd’hui… Observez la conduite de l’église charnelle d’aujourd’hui. Observez simplement. Naturellement, maintenant, il y a aussi la conduite de l’Epouse spirituelle, l’Eglise. Observez cela aussi, parce que la soi-disant naturelle, revendique être l’Epouse.
+38 Maintenant, s’il vous plaît, laissez-moi le dire à nouveau à l’assemblée locale: Ne vous sentez pas mal maintenant. J’adresse à tous ceux qui sont à travers de la nation, ce que je pense de la Dame élue. Aussi, s’il y a des ministres de la parole ici qui ne sont pas d’accord, gardez simplement votre calme pour un petit moment.
+39 Remarquez ce caractère, quand vous voyez les femmes entrer dans une colère noire et faire juste ce qu’elles veulent faire, remarquez, l’église est en train de faire la même chose. Observez! Mais regardez l’Epouse spirituelle quand Elle commence à avoir un réveil, quand Elle commence à revenir et à s’aligner Elle-même avec la Parole de Dieu, observez alors à nouveau, vous verrez comment un Message sortira des Ecritures de façon majestueuse, à ce moment, pour attraper cette Epouse — attraper cette femme, l’Elue. C’est comme avec monde, Satan le trompeur induisit en erreur la première épouse pour la faire pêcher contre Dieu en la faisant ne pas croire à Sa Parole.
+40 Aujourd’hui, quand nous voyons l’église naturelle, dans son évangile intellectuel, s’éloignant de plus en plus loin de la Parole dans «l’évangile social», nous trouvons que les femmes du monde dans les rues, membres de telles églises, sont elles-mêmes emportées par la même atmosphère. Vous ne pouvez rien leur dire. Elles ont perdu tout sens commun de la décence; les gens l’ont perdu. C’est la manière dont l’église l’a perdu. Vous pouvez la voir directement aller au Conseil oecuménique, aussi sûr que les choses de ce monde, droit à Rome et de toutes ses forces. Vous voyez? Parce que c’est prophétisé et c’est là qu’elle se trouve. C’est son comportement.
+41 Mais alors, regardez de nouveau à l’Eglise spirituelle; comment se comporte ce groupe de gens «appelés hors de», les Elus de chaque réveil. Avec Martin Luther, lors de la Réformation, cela s’est passé de la même manière. Au temps de John Wesley, cela s’est passé de la même manière. Quand la Pentecôte a premièrement commencé, cela s’est passé de la même manière. Ils ont ramené leurs femmes en arrière, en ligne avec la Parole, mais ils sont ensuite allés à la dérive. Et, à ce moment-là, elle est retournée droit en arrière dans le chaos; mais alors au temps où les gens sont prêts à s’aligner, il y a un message qui sort, et ils s’alignent avec lui.
+42 Luther était le messager du jour de la justification; quelques-uns d’entre l’église se sont alignés droit avec cela — le reste a continué. Wesley est venu avec la sanctification; l’Eglise s’est alignée droit avec cela. La Pentecôte est venue avec la restauration des dons; l’Eglise s’est alignée tout droit avec cela. L’Elue de ce jour… Et alors elle a fané; elle est retournée droit en arrière dans le dénominationnel, dehors avec le reste des autres — tous les autres, droit en bas le long de la ligne.
+43 Maintenant, vous remarquerez que quand les gens commencent à essayer de s’aligner avec la Parole, voici que vient droit auprès d’eux un message tout frais de la Parole de Dieu; c’est ce qui garde ce message aligné — chaque fois. C’est seulement en Dieu que nous atteignons cela.
+44 Nous avons des familles. Chaque famille ici est habituée à cela. Parfois cela va bien pour vous pendant des années. Soudainement, un coup du sort vous frappe — nous disons cela souvent ici dans le sud, «quand il pleut, cela verse» et tout va de travers. Vous passez au travers de la nuit. Ensuite il y a la pointe du jour; ensuite la nuit. Chaque chose avance en continuité.
+45 Le prophète Paul dit ici qu’une femme ne peut pas se remarier avant que son premier mari ne soit mort. Elle ne peut pas se remarier aussi longtemps que son mari est en vie. Dans absolument aucune circonstance. Elle doit rester seule aussi longtemps que son mari est en vie. Et si elle devait commettre un tel péché, elle serait appelée adultère… (Je parle maintenant de la naturelle pour typifier la spirituelle.) Si cette femme voulait commettre un tel péché, elle serait alors qualifiée d’adultère — si elle a deux maris vivants au même moment. Elle a donc été déchue de ses droits en faisant cela aux yeux de Dieu et du Ciel, certainement elle l’a été. Elle est une exclue de l’ordre de Dieu, en accord avec les Ecritures que j’ai lues.
+46 Il en est ainsi de l’église quand elle essaie de mélanger les credo et les dénominations avec la Parole de Dieu. Elle ne peut pas être mariée à une dénomination et être l’Epouse de Christ en même temps. Elle doit être morte pour l’une ou pour l’autre. La loi dit cela, ici. Il y a beaucoup de lois dans la Parole de Dieu, et c’est Sa loi. Paul parle de la même chose ici. Elle ne peut pas être mariée à une église qui a un credo du monde et être l’Epouse de Christ, parce que l’une est contraire à l’autre.
+47 Maintenant, rappelez-vous, vous dites: «Eh bien, nous croyons ceci, mais nous ne croyons pas cela». Si vous êtes mariés à Christ, Christ est la Parole de Dieu. Dans Jean, au premier chapitre, il est dit: “Au commencement était la Parole; et la Parole était auprès de Dieu; et la Parole était Dieu… Et la Parole devint chair et habita au milieu de nous”. Christ était la Parole vivante. Il a toujours été la Parole; Il est toujours la Parole; Il sera toujours la Parole.
+48 Il était seulement la manifestation des attributs de Dieu, car Il était le Fils de Dieu et n’importe quel fils a les attributs de son père. Et tout comme vous étiez dans les gênes de votre père, dans son corps quand il était un jeune homme, vous étiez en lui, mais il ne pouvait pas avoir communion avec vous parce qu’il ne vous connaissait pas. Mais au travers du sein de votre mère, vous êtes nés sur terre et devenus à l’image de votre père. Alors il pouvait avoir communion avec vous; et ainsi vous étiez des fils et des filles de Dieu, avant même qu’il y ait une lune ou une étoile ou une molécule — vous étiez des fils et des filles de Dieu. Parce que vous êtes seulement les manifestations physiques des attributs qui étaient en Dieu au commencement. Parce qu’il y a seulement une forme de Vie Eternelle, et cela existait avant vous…vous ne savez rien à ce sujet; pas plus que vous ne le saviez lorsque vous étiez dans votre père terrestre. Mais vous êtes manifestés en Son image — à l’image de Dieu vous êtes faits et vous avez été manifestés pour la gloire et la communion avec Dieu.
+49 Et c’est pourquoi, aussi sûr que vos gènes devaient être dans votre père avant votre naissance naturelle, vos gènes spirituels devaient être en Dieu, parce que vous êtes une expression des attributs de Ses pensées avant la fondation du monde. Il n’y a pas d’autre moyen. C’est vrai.
+50 Maintenant nous remarquons que cette Vie était en vous — la Vie de Dieu était en vous depuis la fondation du monde. Vous ne pouvez pas mélanger le credo dénominationnel avec la Parole, parce qu’ils sont trop contraires l’un à l’autre. Cela est exactement ce que Satan a essayé de faire à Eve avec ses conceptions intellectuelles. Il a dit… Il a admis que Dieu l’avait dit, mais il a dit: “Sûrement vous ne mourrez pas”. Vous voyez, et ils ont cru cela, et c’est cela que le credo a fait ce soir. La dénomination a séparé les gens de la Parole de Dieu. Jésus n’a-t-il pas dit, lorsqu’il est venu: “Vous, avec vos traditions, vous avez rendu le commandement de Dieu sans effet pour les gens”? Et à travers nos credo, nous nous sommes éloignés de la communion du Saint-Esprit qui oint la Parole de Dieu qui doit enlacer notre génération. Nous avons séparé les gens par les dénominations pour qu’ils n’aient pas une chance de voir cela. Maintenant, Dieu dans chaque génération ajoute une nouvelle partie à Son Livre. Tout cela va ensemble de la même manière que mon corps a été assemblé. Il m’a été dit que cela commençait par la colonne vertébrale, mais que ce n’était pas toute la colonne vertébrale. Cela allait vers les côtes et les poumons, vers les mains, les bras, les pieds et ainsi de suite, pour devenir la personne que je suis.
+51 Et c’est ainsi que Dieu fut manifesté au commencement. Finalement, Il apparut comme Jéhovah, Dieu le Père. Ensuite Il apparut comme Dieu, le Fils en Jésus-Christ. Maintenant, il apparaît comme Dieu, le Saint-Esprit — tout le temps le même Dieu — trois manifestations du même Dieu.
+52 Maintenant, nous trouvons dans cela que Dieu a assigné Sa Parole dans chaque génération depuis le commencement, exactement comme s’opérait l’évolution; exactement comme — la première chose que Dieu créa fut probablement… Disons qu’Il a créé la vie botanique; ensuite la vie animale; ensuite Il créa la vie humaine — une sorte d’évolution, s’élevant toujours plus haut.
+53 Il en fut de même pour l’Eglise en Dieu: la justification sous Luther. C’était tirer dehors Son Epouse; maintenant, Il crée Son Epouse. La justification vint sous Luther, la sanctification sous Wesley, et ainsi de suite, vous voyez. L’évolution de l’Esprit, étant distribué de plus en plus car le Corps, le Corps de Christ se construit, venant vers la Tête, Laquelle est Christ.
+54 Maintenant, Elle, en tant que femme, si Elle est mariée à Christ la Parole, Elle ne peut pas être mariée à une église dénominationnelle en même temps car Elle est liée à Elle (la Parole). Elle ne peut pas vivre avec deux maris en même temps. Ils sont contraires l’un à l’autre. L’une est envoyée de Dieu et l’autre est fabriquée par l’homme. Ainsi elles sont contraires. Il a dit: “Que Dieu au contraire soit reconnu pour vrai et tout homme pour menteur”. Romains 3.4 (Segond) Dieu a dit cela. Tout autant contraire l’une à l’autre que la loi l’était à la grâce — comme Paul le dit ici.
+55 L’une doit être morte afin d’appartenir à l’autre. Et si elle essaie de les mélanger, elle sera appelée une adultère. Oh, pensez à cela! A New York, en Arizona, à travers la nation, pensez-y! Dieu a dit que si elle essayait d’être mariée aux deux en même temps, elle devait être appelée adultère. Quelle femme adultère pourrait entrer au Ciel? Est-ce que Dieu marierait une femme adultère? Certainement pas. Il nous a demandé de ne pas le faire. Elle devrait être appelée adultère.
+56 Ensuite ses enfants, si elle est une adultère, ses enfants sont illégitimes. Illégitimes! Illégitimes envers quoi? Pas envers l’église, mais envers la Parole. Elle est illégitime.
+57 Quelle image de l’Apocalypse 3 ici, des derniers jours de l’église de Laodicée! Quel groupe illégitime! Quelle pagaille dénominationnelle! Continuez!… Ils sont tièdes, ils s’appellent eux-mêmes chrétiens et nient la Parole de Dieu; ayant une forme de piété, mais niant Sa puissance — comme le prophète a dit qu’ils le seraient.
+58 Le mariage est l’institution la plus ancienne du monde. Le mariage a été accompli en premier et institué dans le jardin d’Eden.
+59 Une femme a reçu certaines caractéristiques qu’elle ne doit pas souiller. Une femme est dépositaire de cela. Il n’y a pas une créature semblable à la femme sur terre. Il n’y a pas de chienne, ou une femelle d’aucune sorte qui ait reçu les caractéristiques confiées à la femme. La femme n’existait même pas au début de la création, parce que Dieu savait qu’elle chuterait. Aucune autre femelle ne pouvait commettre l’adultère. Elle est la seule à pouvoir commettre l’adultère. Si elle avait été faite comme création originel, cela n’aurait pas correspondu à la grande sagesse de Dieu. Vous voyez, elle a été faite dérivé de l’homme; mais parce qu’elle a été tirée de son côté, elle a aussi reçu un dépôt sacré de Dieu pour la rédemption. Elle a des caractéristiques qu’elle ne doit pas souiller. Si elle gâte ses particularités, elle est souillée pour la vie. Aucune importance combien de fois elle est pardonnée, elle ne peut pas être justifiée. Je touche à cela dans un petit instant. J’ai une Ecriture à ce sujet dans quelques minutes. Elle peut être pardonnée pour sa souillure, mais elle ne peut pas être justifiée dans cette vie. Cela reste toujours avec elle. Remarquez maintenant, elle a reçu ceci. Elle peut être pardonnée mais pas justifiée.
+60 Son corps lui est donné comme une responsabilité sacrée de Dieu. A aucune chienne, ou femelle oiseau, à aucun autre animal, aucune autre créature de cette sorte. Non, elle est la seule, l’unique. La raison pour laquelle cela est tellement sacré c’est parce qu’elle est faite pour amener la vie sur la terre. Son corps est le berceau de la vie. C’est la raison pour laquelle elle a reçu cette seconde charge.
+61 Maintenant, c’est ici que beaucoup d’entre vous, théologiens, pouvez ne pas être d’accord. C’est ce qui a souillé toute la race humaine, c’est cet adultère au commencement. Ce berceau a été gâté. Elle a donné naissance à ces jumeaux, Caïn et Abel. Un seul acte — deux enfants. Cherchez dans les Ecritures.
+62 Remarquez maintenant, nous trouvons que son corps porte la matrice et c’est pourquoi c’est une responsabilité sacrée à ne pas souiller.
+63 Maintenant, je vous parle apportant ceci comme une illustration pour vous montrer là où l’église se tient. Je ne parle pas de vous femmes, ou de vous hommes, quoi que vous soyez, cela est entre vous et Dieu, mais je parle de l’Eglise et de Christ.
+64 Maintenant, ceci lui est donné pour mettre au monde la vie que seul Dieu Lui-même peut donner. Son mari peut être le porteur du germe, mais Dieu doit produire la vie. C’est vrai, toute vie doit venir de Dieu. N’importe quelle vie doit venir de Dieu. Mais bien qu’elle soit pervertie — et c’est cela qui fait qu’elle est pécheresse — la vie doit venir de Dieu. Il est l’Auteur de la vie.
+65 En premier, je veux nommer ici trois choses dont elle ne doit pas s’éloigner. Gardez l’Eglise en mémoire pendant que je parle de la femme naturelle, comme Paul le fait ici, dans le chapitre 7 des Romains. Elle a une responsabilité sacrée de vertu que le Seigneur lui a confiée — une certaine vertu. Rien d’autre ne détient cela, si ce n’est une femme. C’est vrai. Cela lui a été confié par Dieu. Elle ne doit pas souiller cette vertu. Si elle fait quelque chose de faux, elle doit le confesser à son mari avant qu’il la prenne; et le faire correctement. Exactement comme l’église qui était mariée à la loi devait aussi venir devant Christ avant le second mariage — elle doit confesser cela. Si elle ne le fait pas et qu’elle vive avec son mari pendant dix ans, et qu’elle le confesse alors, il a le droit de la renvoyer et de marier une autre femme. Cela c’est l’Ecriture. La fornication est une manière de vivre impure.
+66 “Joseph, ne crains pas de la prendre avec toi, Marie ta femme, car ce qui a été conçu en elle est du Saint-Esprit”. Il pensait à la répudier secrètement, vous voyez, après qu’il se fut fiancé à elle. En ce qui concerne Dieu, lorsque vous êtes fiancés, vous êtes mariés.
+67 Remarquez. Maintenant elle a une responsabilité sacrée de vertu qui lui a été confiée par le Seigneur. Dieu lui a donné cette vertu. Exactement comme ce fut le cas dans le jardin d’Eden, elle peut dire «oui» ou «non». Elle a une responsabilité sacrée, une nature féminine transmise par Dieu qu’elle ne doit pas briser. La nature féminine dont je parle ici, c’est sa conduite, son caractère envers l’homme. Ne laissez pas chaque homme… Regardez sur ces écrans et regardez ces stars s’embrasser, s’étreindre, tourner autour de ces femmes. Une femme qui fait cela a un mauvais caractère. A part cela, elle peut être même vertueuse… Mais voyez, dans son coeur — quand un homme embrasse une femme, il a en fait potentiellement commis un adultère, car dans les lèvres se trouvent des glandes du sexe.
+68 Des glandes sexuelles se trouvent dans les lèvres de la femme et de l’homme. Il peut l’embrasser sur la main, cela ne mélangerait pas les glandes du sexe, car ces glandes sont dans les lèvres. Et voyez tout ce non-sens, Hollywood aujourd’hui avec ces sensibleries et ces histoires d’amour autour des femmes et ainsi de suite…Les petites filles regardent à tout cela. Ce n’est pas étonnant si notre morale est pourrie, décadente et sale! Parce que cela est placé devant les enfants. Cela est vrai. Cela doit être ainsi dans les derniers jours.
+69 Maintenant, gardez l’église en mémoire. Elle embrasse, tourne autour et se mélange avec tout, sauf avec la Parole. Laissez le diable, l’éducation, les recherches scientifiques et ainsi de suite, car l’éducation scientifique et toutes ces choses sont absolument contraires à Dieu.
+70 Tout le système de civilisation que nous avons maintenant est absolument antéchrist; le système éducationnel est antéchrist; la civilisation est antéchrist. C’est contre Dieu. Vous dites contre la civilisation? Dieu aura un de ces jours une civilisation où il n’y aura aucune mort qui lui sera associée.
+71 Cette civilisation moderne vient de Satan. Je vous le prouverai de par la Bible ce soir, si le Seigneur le veut. Toutes ces choses sont de Satan. Notre nouvelle civilisation n’aura rien de cela en elle.
+72 Elle a cette nature féminine sacrée. Pas étonnant que les hommes agissent de cette manière à l’encontre des femmes. C’est parce que les femmes agissent à l’égard des hommes comme elles le font. Elles se caractérisent elles-mêmes là dehors avec une paire de shorts, des vêtements moulants, des habits d’hommes et d’autres choses, se tortillant dans la rue. Ce qu’elle dit n’a aucune importance… Elle peut être aussi vertueuse envers son mari que possible, mais aux yeux de Dieu, elle est une adultère. “Quiconque regarde une femme pour la convoiter a commis un adultère avec elle dans son coeur”. Elle se présente elle-même pour être cela. C’est exactement ce que l’église a fait avec le monde.
+73 Remarquez, elle commet cela à l’encontre de sa responsabilité sacrée, de sa nature féminine, et ensuite de sa maternité sacrée et de l’honneur de son mari.
+74 Regardez seulement aujourd’hui. Dans certaines villes, dans beaucoup de villes, ils ont même de grandes parties qu’ils appellent mondanité — des membres d’églises aussi — ils se saoulent, mettent un chapeau sur le sol, et y jettent leurs clés; chaque femme va et prend dans le chapeau la clé de l’homme avec qui elle va passer le week-end. J’ai tellement de choses à dire au sujet de toutes ces parties; le Seigneur voulant je n’ai pas le temps d’en parler. Quelle saleté!
+75 Et l’église est tout aussi mauvaise. Cela est vrai. Commettant l’adultère avec n’importe quoi; elle n’a rien à faire avec cela… Elle devrait rester avec la Parole.
+76 Bâtir c’est bien, faire des hôpitaux c’est bien. Toutes ces autres choses sont bien. Les programmes éducationnels, c’est bien. Nous devons vivre ici; nous devons lire, écrire; c’est notre système économique.
+77 De la même manière, nous n’étions pas supposés porter des habits au commencement. (Je prêcherai là-dessus plus tard cette semaine, Dieu voulant.) Mais nous devons porter des habits, parce que Dieu nous a donné des habits; mais au commencement, nous n’en avions pas besoin — nous étions voilés. Maintenant, l’église est voilée par ses péchés. Elle ne sait même pas qu’elle pèche. Maintenant elle est voilée par le diable; autrefois, elle était voilée par Dieu, c’est cela qui fait la différence.
+78 Maintenant, nous trouvons qu’il lui a été donné cette responsabilité sacrée de la nature féminine qu’elle ne doit pas briser: agir, avoir son caractère, élever ses enfants, être honorable pour son mari. De nos jours, elles ne portent presque aucune attention à cela.
+79 Vous devriez vous asseoir parfois dans mon bureau et voir des hommes amenant leurs femmes, qui essaient de se mettre en ordre avec Dieu. Elles confessent tout à l’homme avec lequel elles vivent, toute chose depuis qu’ils sont mariés. Oh, vous dites: «Cela c’est…». Non, ce sont des Pentecôtistes. Les autres ne viendront pas. Aussi, je parle de comment on peut s’en éloigner! Quand l’église se mélange avec le monde et avec toutes ces modes et choses que nous avons, nous n’avons plus rien de commun avec la Pentecôte originale. Pas davantage que le jour avec la nuit. Nous avons dérivé quelque part dans le sombre chaos et nous sommes perdus.
+80 Quelle charge sacrée! Quelle responsabilité pour une femme! Maintenant, voyez comment elle est un type de l’Eglise qui a la même responsabilité. Comme une femme a une responsabilité sacrée envers sa maternité, ses vertus, son mari; l’Eglise a une responsabilité sacrée envers la prière, la Parole, et Christ, exactement la même que celle de la femme! Et comme une femme qui se laisse aller avec un autre homme, l’église va de même dans ces programmes institutionnels et dans ces programmes de construction d’écoles et ainsi de suite. Je n’ai rien contre eux. C’est bien. Ils servent leur but. Mais il ne sont pas… Jésus n’a jamais dit: «Va et construis des écoles». Il a dit: “Prêchez la Parole!”. C’est cela qu’ils négligent.
+81 Faire des institutions, des hôpitaux et ainsi de suite, ces choses sont bien, mais ce n’est pas le devoir de l’Eglise! Son devoir est de prêcher l’Evangile. Mais nous avons fait toutes sortes d’autres choses sauf cela et nous avons dérivé exactement comme Satan, mélangeant un peu d’Evangile avec quelque chose d’autre et encore quelque chose d’autre, jusqu’à ce qu’ils
 
 L’UNION INVISIBLE DE L’EPOUSE DE CHRIST 11
 obtiennent rien d’autre qu’une conglomération de corruption! Même le monde entier veut suivre la
@@ -1690,7 +1324,7 @@ ceci est enregistré, au Jour du jugement cette même pensée reviendra à nouve
 esprit. Cela sera directement dans l’enregistrement; le monde entier le verra passer, parce que le
 monde et tous les anges là-bas vous regarderont au jour du jugement. Si vous êtes honteux de
 Moi ici, quand votre image est en train d’être faite maintenant, je serai honteux de vous car J’ai
-oint Ma Parole que je vous ai envoyée et vous ne vouliez pas La croire. Vous vous êtes cachés
+oinct Ma Parole que je vous ai envoyée et vous ne vouliez pas La croire. Vous vous êtes cachés
 vous-même derrière quelque chose. «Oh, cela semble assez bon. J’ai fait ceci. J’ai dansé dans
 l’Esprit. J’ai parlé en langues». Ainsi font les païens. «J’ai crié». Ainsi font les païens. Alors,
 comment pouvez-vous tourner le dos à la Parole?
@@ -1780,7 +1414,7 @@ doutes. Que je puisse ce soir devenir Ton enfant, fraîchement né et une nouvel
 moi, porte-moi loin au-delà du gloussement de la poule. Porte-moi loin vers le nid de l’aigle, où je
 peux être nourri par la Parole de Dieu, jusqu’à ce que je puisse voler».
 298 Accorde-le, cher Dieu. Prends-les. Ils sont à Toi. Ceci est ma prière sincère, priant pour les
-gens qui sont en train de mourir. Accorde-le, Père. J’offre cette prière en leur faveur. Pour la gloire
+ gens qui sont en train de mourir. Accorde-le, Père. J’offre cette prière en leur faveur. Pour la gloire
 de Dieu, je le demande.
 299 Maintenant, nos têtes inclinées, je m’émerveille pour vous qui êtes agenouillés ici à l’autel.
 Beaucoup d’entre vous proclament être chrétiens, mais vous avez senti qu’il y avait quelque
@@ -1843,8 +1477,6 @@ Seigneur. Au mieux de ma connaissance, tout ce que je suis, je l’abandonne».
 Directement en haut ici, tous ceux d’entre vous qui êtes frères et soeurs.
    Regardez ici, église. [Une soeur donne un témoignage — N.d.E.]
 
-        http://www.cmpp.ch
-
     L’UNION INVISIBLE DE L’EPOUSE DE CHRIST    34
 306 Une soeur, ici, sortie d’une dénomination. Elle dit: «J’ai appartenu à une dénomination». Nous
 n’avons pas besoin de la nommer. Elle y a travaillé, mais elle a dit: «Frère Branham, je voulais
@@ -1868,9 +1500,6 @@ Tous ensemble:
    J’abandonne tout,
    Tout à Toi, mon Sauveur béni,
    J’abandonne tout.
-
-
-
 
 
 

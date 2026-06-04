@@ -1,541 +1,231 @@
-LA PAROLE DE DIEU
-    DEMEURE
- ETERNELLEMENT
+---
+source: "cmpp"
+sermon_id: "la_parole_de_dieu_demeure_eternellement"
+title: "La Parole de Dieu Demeure Éternellement"
+subtitle: "Septembre – Octobre 1966"
+date: "1966-09-01"
+year: 1966
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Ewald Frank présente la vie et le ministère de William Branham, soulignant les signes surnaturels (colonne de feu, nuage, résurrections) qui attestent de sa mission prophétique pour préparer l'Église au retour du Seigneur. Il insiste sur l'accomplissement de Malachie 4.5 et la nécessité d'écouter le message prophétique pour ces derniers temps."
+tags:
+  - "William Branham"
+  - "prophète"
+  - "colonne de feu"
+  - "sept sceaux"
+  - "rétablissement"
+  - "Elie"
+  - "Jean-Baptiste"
+persons:
+  - "Ewald Frank"
+  - "William Branham"
+  - "Moïse"
+  - "Jean-Baptiste"
+  - "Elie"
+  - "Jésus"
+  - "Paul"
+  - "Achab"
+  - "Josaphat"
+  - "Michée"
+  - "Coré"
+  - "George G. Lacy"
+  - "James McDonald"
+places:
+  - "Krefeld"
+  - "Jeffersonville"
+  - "Houston"
+  - "Tucson"
+  - "Durban"
+  - "Ohio"
+  - "Karlsruhe"
+themes:
+  - "prophétie"
+  - "signes des temps"
+  - "rétablissement de l'Église"
+  - "autorité de la Parole"
+  - "discernement"
+  - "préparation à la venue du Seigneur"
+pdf_url: "http://cmpp.ch/la_parole_de_dieu_demeure_eternellement.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 1"
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "1 Corinthiens 15"
+  - "1 Corinthiens 4"
+  - "1 Corinthiens 6"
+  - "1 Jean 2"
+  - "1 Jean 3"
+  - "1 Jean 4"
+  - "1 Pierre 1"
+  - "1 Rois 19"
+  - "1 Rois 2"
+  - "1 Samuel 15"
+  - "1 Thessaloniciens 5"
+  - "1 Timothée 2"
+  - "1 Timothée 3"
+  - "2 Chroniques 6"
+  - "2 Corinthiens 1"
+  - "2 Corinthiens 11"
+  - "2 Corinthiens 4"
+  - "2 Corinthiens 6"
+  - "2 Pierre 1"
+  - "2 Pierre 3"
+  - "2 Rois 3"
+  - "2 Thessaloniciens 2"
+  - "2 Timothée 3"
+  - "Actes 1"
+  - "Actes 19"
+  - "Actes 3"
+  - "Actes 4"
+  - "Actes 8"
+  - "Actes 9"
+  - "Amos 3"
+  - "Amos 5"
+  - "Apocalypse 1"
+  - "Apocalypse 10"
+  - "Apocalypse 11"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 14"
+  - "Apocalypse 15"
+  - "Apocalypse 17"
+  - "Apocalypse 18"
+  - "Apocalypse 19"
+  - "Apocalypse 2"
+  - "Apocalypse 22"
+  - "Apocalypse 3"
+  - "Apocalypse 5"
+  - "Apocalypse 6"
+---
+LA PAROLE DE DIEU DEMEURE ETERNELLEMENT
 
+EWALD FRANK
 
+SEPTEMBRE – OCTOBRE 1966
 
+Cette colonne de feu au-dessus de la tête de frère Branham est la même qui était avec Moïse et le peuple d’Israël. C’est la même lumière à travers laquelle le Seigneur parla à Saul, lorsqu’il se convertit sur le chemin de Damas. Cette colonne de feu se maintenait au-dessus de la tête de frère Branham à l’heure de sa naissance. Ses parents étaient incroyants. Ils pleurèrent devant le Seigneur, car ils se trouvaient dans Sa présence. Un saint respect les avait saisis lorsqu’ils virent cette lumière de leurs propres yeux. De même, deux jours plus tard, lorsque des membres de la famille arrivèrent pour voir la mère et l’enfant, cette colonne de feu se trouvait au-dessus de la tête de l’enfant, visible pour tous les assistants.
 
+La colonne de feu fut observée pour la première fois en juin 1933 par 4 000 personnes environ. Après que frère Branham eut tenu sa première réunion d’évangélisation sous la tente, il y eut pour clore cette manifestation, un service de baptêmes dans le fleuve Ohio tout proche, réalisés conformément aux Ecritures. Plusieurs centaines de personnes furent baptisées. Alors que frère Branham était en train de baptiser la 17ème personne, il pria: «Oh Dieu, comme je baptise dans l’eau, veuille, Toi, baptiser de feu et d’Esprit!». Il était environ 14 heures lorsque tout à coup, la colonne de feu, comme une étoile puissante, visible à tous les croyants et incroyants, surgit des nuages. Toute la foule fut bouleversée. Une sainte crainte s’empara de tous. La colonne de feu s’abaissa et s’arrêta au-dessus de frère Branham. Alors retentit la voix s’adressant à frère Branham: «De même que Jean fut envoyé comme précurseur à la première venue du Seigneur, ainsi tu seras envoyé avec un message comme précurseur de la deuxième venue du Seigneur!».
 
+Il n’y eut pas que les journaux des USA qui rapportèrent cette formidable apparition, mais ceux du Canada. Le Seigneur Lui-même avait ainsi témoigné en faveur de son serviteur, à la vue de tant de personnes.
 
+Puis arriva ce mois de janvier 1950, lorsque frère Branham parla au grand Colisée à Houston, Texas. Un photographe, Mr. Ayes devait prendre quelques photos commandées par le Rev. Best. Ce dernier, adversaire de frère Branham, se déclarait contre son message et niait que Dieu guérit les malades encore aujourd’hui. Le photographe prit 10 instantanés. Aucun ne réussit, excepté celui révélant la colonne de feu au-dessus de la tête de l’homme de Dieu. Comme cette photo laissait voir une apparition surnaturelle, elle fut envoyée au chef du F.B.I. (abrégé connu de la police criminelle américaine), Dr. George G. Lacy. Il examina cette photo sous tous les rapports. Il déclara ensuite par écrit que cette photo était véritable et, à sa connaissance la seule sur terre qui présentât une apparition surnaturelle. Depuis lors, elle prouve que le Dieu de Moïse est aussi le Dieu de Branham et que le Dieu d’Israël est encore aujourd’hui le Dieu de Son peuple. On peut obtenir une copie de cette photo de 20x25cm, chez Douglas Studio 1610 Rusk Ave. Houston, Texas.
 
-    EWALD FRANK
+Chers frères et soeurs, chers amis! Ceci n’est point une invention pieuse, c’est une réalité dans le vrai sens du mot, quelque chose que nous pouvons tenir dans nos mains et voir de nos propres yeux. Trop de choses se sont manifestées pour que nous puissions passer outre sans y prêter attention, tout en sachant que les dons et les appels de Dieu sont irrévocables. Et quand Dieu donne, c’est pour tous les enfants de Dieu. Ainsi donc, un homme vivait dans notre génération; Dieu l’avait élu prophète dès sa naissance, vocation semblable à celle que nous trouvons dans Jérémie 1.5. Un homme se souvenant des visions qu’il avait à l’âge de 3 ans. Toute sa vie fut consacrée au service de Dieu. Il avait 7 ans quand le Seigneur lui parla à travers un tourbillon qui agitait la cime d’un arbre sous lequel il se reposait: «Ne bois jamais, ne fume jamais et ne souille ton corps d’aucune manière à cause de l’oeuvre à accomplir quand tu seras plus âgé».
 
-    LA PAROLE DE DIEU DEMEURE ETERNELLEMENT    2
+Qui est cet homme que le Seigneur pouvait de façon si exceptionnelle employer et bénir? Un homme sans culture, simple et humble. Il parla dans les assemblées les moindres, aussi bien que dans les plus grandes. Il est peu probable que quelqu’un d’autre ait parlé à une assemblée de 400 000 personnes. Certainement jusqu’à ce jour, il n’est encore arrivé nulle part ailleurs ce qui se produisit après l’une de ses réunions à Durban, en Afrique du Sud. Sept camions bourrés de lits, de brancards, de cannes et de béquilles firent le tour de la ville, accompagnés d’une multitude qui chantait: «Crois seulement, crois seulement, tout est possible à celui qui croit». Qui est cet homme qui avait compassion des pauvres et qui fut invité par plusieurs souverains et hautes personnalités? Même le dernier roi d’Angleterre Georges VI le sollicita de prier avec lui, ce qu’il fit pendant une escale en Angleterre lors de son voyage vers la Finlande.
 
-    SEPTEMBRE – OCTOBRE 1966
+N’avons-nous pas compris Dieu? Est-ce que se réaliserait ce qui est écrit dans 2 Chronique 36.15,16: “L’Eternel, le Dieu de leurs pères, leur avait envoyé sans cesse et à maintes reprises des messagers pour les avertir, car il voulait épargner son peuple et son Tabernacle. Mais ils se moquèrent des envoyés de Dieu, ils méprisèrent ses paroles et se raillèrent de ses prophètes, jusqu’au temps où la colère de l’Eternel éclata contre son peuple, au point qu’il n’y eut plus de remède”.
 
+Voici une autre preuve, que nous voyons de nos yeux. Un immense nuage, duquel a retenti la voix du Seigneur. — Cette preuve aussi n’est pas une pieuse supercherie. Elle est aussi une preuve que Dieu le Seigneur est encore le même. Le 22 décembre 1962, le frère Branham vit dans une vision ce qui se réalisa le 28 février 1963. (Soit dit en passants quelques jours auparavant en décembre 1962, j’avais parlé avec le frère Branham.) Le 30 décembre, le frère Branham raconta à l’assemblée de Jeffersonville ce que le Seigneur lui avait montré dans la vision. Obéissant à une divine directive, il déménagea au commencement de janvier 1963 avec sa famille à Tucson en Arizona. A la fin de février 1963, il prit deux frères avec lui et se rendit dans la montagne du nord de Tucson, Arizona, nommée «montagne aux 7 collines». A cette époque, il passait beaucoup de temps seul avec Dieu. Il dit aux frères que ce qu’il avait vu s’accomplirait et il les exhorta en disant comment ils devaient se comporter lors de son accomplissement. Puis, il les laissa en arrière et s’en alla seul.
 
+Maintenant arriva ce que nous pouvons comparer avec 1 Rois 19.10-14. Oui, le Dieu d’Elie est encore le même!
 
-        Cette colonne de feu au-dessus de la tête de frère Branham est la
-        même qui était avec Moïse et le peuple d’Israël. C’est la même
-        lumière à travers laquelle le Seigneur parla à Saul, lorsqu’il se
-        convertit sur le chemin de Damas. Cette colonne de feu se maintenait
-        au-dessus de la tête de frère Branham à l’heure de sa naissance. Ses
-        parents étaient incroyants. Ils pleurèrent devant le Seigneur, car ils se
-        trouvaient dans Sa présence. Un saint respect les avait saisis
-        lorsqu’ils virent cette lumière de leurs propres yeux. De même, deux
-        jours plus tard, lorsque des membres de la famille arrivèrent pour voir
-        la mère et l’enfant, cette colonne de feu se trouvait au-dessus de la
-        tête de l’enfant, visible pour tous les assistants.
+Soudain une violente tempête éclata, arrachant des morceaux de rochers qui roulèrent avec fracas, brisant des arbres et en déracinant d’autres. Ensuite suivit un formidable grondement de tonnerre qui ébranla toute la contrée.
 
-   La colonne de feu fut observée pour la première fois en juin 1933 par 4 000 personnes environ.
-Après que frère Branham eut tenu sa première réunion d’évangélisation sous la tente, il y eut pour
-clore cette manifestation, un service de baptêmes dans le fleuve Ohio tout proche, réalisés
-conformément aux Ecritures. Plusieurs centaines de personnes furent baptisées. Alors que frère
-Branham était en train de baptiser la 17ème personne, il pria: «Oh Dieu, comme je baptise dans
-l’eau, veuille, Toi, baptiser de feu et d’Esprit!». Il était environ 14 heures lorsque tout à coup, la
-colonne de feu, comme une étoile puissante, visible à tous les croyants et incroyants, surgit des
-nuages. Toute la foule fut bouleversée. Une sainte crainte s’empara de tous. La colonne de feu
-s’abaissa et s’arrêta au-dessus de frère Branham. Alors retentit la voix s’adressant à frère
-Branham: «De même que Jean fut envoyé comme précurseur à la première venue du
-Seigneur, ainsi tu seras envoyé avec un message comme précurseur de la deuxième venue
-du Seigneur!».
-   Il n’y eut pas que les journaux des USA qui rapportèrent cette formidable apparition, mais ceux
-du Canada. Le Seigneur Lui-même avait ainsi témoigné en faveur de son serviteur, à la vue de
-tant de personnes.
-   Puis arriva ce mois de janvier 1950, lorsque frère Branham parla au grand Colisée à Houston,
-Texas. Un photographe, Mr. Ayes devait prendre quelques photos commandées par le Rev. Best.
-Ce dernier, adversaire de frère Branham, se déclarait contre son message et niait que Dieu guérit
-les malades encore aujourd’hui. Le photographe prit 10 instantanés. Aucun ne réussit, excepté
-celui révélant la colonne de feu au-dessus de la tête de l’homme de Dieu. Comme cette photo
-laissait voir une apparition surnaturelle, elle fut envoyée au chef du F.B.I. (abrégé connu de la
-police criminelle américaine), Dr. George G. Lacy. Il examina cette photo sous tous les rapports. Il
-déclara ensuite par écrit que cette photo était véritable et, à sa connaissance la seule sur terre qui
-présentât une apparition surnaturelle. Depuis lors, elle prouve que le Dieu de Moïse est aussi le
-Dieu de Branham et que le Dieu d’Israël est encore aujourd’hui le Dieu de Son peuple. On peut
-obtenir une copie de cette photo de 20x25cm, chez Douglas Studio 1610 Rusk Ave. Houston,
-Texas.
-   Chers frères et soeurs, chers amis! Ceci n’est point une invention pieuse, c’est une réalité dans
-le vrai sens du mot, quelque chose que nous pouvons tenir dans nos mains et voir de nos propres
-yeux. Trop de choses se sont manifestées pour que nous puissions passer outre sans y prêter
-attention, tout en sachant que les dons et les appels de Dieu sont irrévocables. Et quand Dieu
-donne, c’est pour tous les enfants de Dieu. Ainsi donc, un homme vivait dans notre génération;
-Dieu l’avait élu prophète dès sa naissance, vocation semblable à celle que nous trouvons dans
-Jérémie 1.5. Un homme se souvenant des visions qu’il avait à l’âge de 3 ans. Toute sa vie fut
-consacrée au service de Dieu. Il avait 7 ans quand le Seigneur lui parla à travers un tourbillon qui
-agitait la cime d’un arbre sous lequel il se reposait: «Ne bois jamais, ne fume jamais et ne
-souille ton corps d’aucune manière à cause de l’oeuvre à accomplir quand tu seras plus
-âgé».
+> Le 28 février 1963, peu avant le coucher du soleil, le Seigneur parla à frère Branham de ce nuage comme il le lui avait été montré par Dieu dans une vision le 22 décembre 1962. Cette photo fut prise d’une distance d’environ 425 kilomètres par le météorologue Dr. James McDonald de Tucson, Arizona. Remarquez, je vous prie, que la photo montre nettement le visage du Seigneur, malgré l’énorme distance. Le “Life Magazine”, certainement le plus grand hebdomadaire du monde, publia la photo du nuage avec un rapport le 17 mai 1963. Dr. James McDonald écrivit qu’il s’agissait d’un phénomène encore jamais observé! Dieu a parlé, qui n’écouterait pas?
 
-        http://www.cmpp.ch
+Il parut aux témoins oculaires que les montagnes montaient et descendaient. Ensuite vint le silence. Là-haut, où seul se trouvait le frère Branham, une puissante lumière en forme de nuage était suspendue. De cette lumière sortirent sept anges chargés d’autorité qui, après avoir accompli leur mission, disparurent dans la lumière. Alors, du nuage, la voix parla à frère Branham: «Va vers l'Est, retourne à Jeffersonville, d'où tu es venu, car le temps est arrivé pour ouvrir les Sept Sceaux».
 
-    LA PAROLE DE DIEU DEMEURE ETERNELLEMENT    3
-   Qui est cet homme que le Seigneur pouvait de façon si exceptionnelle employer et bénir? Un
-homme sans culture, simple et humble. Il parla dans les assemblées les moindres, aussi bien que
-dans les plus grandes. Il est peu probable que quelqu’un d’autre ait parlé à une assemblée de
-400 000 personnes. Certainement jusqu’à ce jour, il n’est encore arrivé nulle part ailleurs ce qui se
-produisit après l’une de ses réunions à Durban, en Afrique du Sud. Sept camions bourrés de lits,
-de brancards, de cannes et de béquilles firent le tour de la ville, accompagnés d’une multitude qui
-chantait: «Crois seulement, crois seulement, tout est possible à celui qui croit». Qui est cet homme
-qui avait compassion des pauvres et qui fut invité par plusieurs souverains et hautes
-personnalités? Même le dernier roi d’Angleterre Georges VI le sollicita de prier avec lui, ce qu’il fit
-pendant une escale en Angleterre lors de son voyage vers la Finlande.
-   N’avons-nous pas compris Dieu? Est-ce que se réaliserait ce qui est écrit dans
-2 Chronique 36.15,16: “L’Eternel, le Dieu de leurs pères, leur avait envoyé sans cesse et à
-maintes reprises des messagers pour les avertir, car il voulait épargner son peuple et son
-Tabernacle. Mais ils se moquèrent des envoyés de Dieu, ils méprisèrent ses paroles et se
-raillèrent de ses prophètes, jusqu’au temps où la colère de l’Eternel éclata contre son peuple, au
-point qu’il n’y eut plus de remède”.
-   Voici une autre preuve, que nous voyons de nos yeux. Un immense nuage, duquel a retenti la
-voix du Seigneur. — Cette preuve aussi n’est pas une pieuse supercherie. Elle est aussi une
-preuve que Dieu le Seigneur est encore le même. Le 22 décembre 1962, le frère Branham vit dans
-une vision ce qui se réalisa le 28 février 1963. (Soit dit en passants quelques jours auparavant en
-décembre 1962, j’avais parlé avec le frère Branham.) Le 30 décembre, le frère Branham raconta à
-l’assemblée de Jeffersonville ce que le Seigneur lui avait montré dans la vision. Obéissant à une
-divine directive, il déménagea au commencement de janvier 1963 avec sa famille à Tucson en
-Arizona. A la fin de février 1963, il prit deux frères avec lui et se rendit dans la montagne du nord
-de Tucson, Arizona, nommée «montagne aux 7 collines». A cette époque, il passait beaucoup de
-temps seul avec Dieu. Il dit aux frères que ce qu’il avait vu s’accomplirait et il les exhorta en disant
-comment ils devaient se comporter lors de son accomplissement. Puis, il les laissa en arrière et
-s’en alla seul.
-   Maintenant arriva ce que nous pouvons comparer avec 1 Rois 19.10-14. Oui, le Dieu d’Elie est
-encore le même!
-   Soudain une violente tempête éclata, arrachant des morceaux de rochers qui roulèrent avec
-fracas, brisant des arbres et en déracinant d’autres. Ensuite suivit un formidable grondement de
-tonnerre qui ébranla toute la contrée.
-        Le 28 février 1963, peu avant le coucher de
-        soleil, le Seigneur parla à frère Branham de ce
-        nuage comme il le lui avait été montré par Dieu
-        dans une vision le 22 décembre 1962.
-        Cette photo fut prise d’une distance d’environ
-        425 kilomètres par le météorologue Dr. James
-        McDonald de Tucson, Arizona. Remarquez, je
-        vous prie, que la photo montre nettement le
-        visage du Seigneur, malgré l’énorme distance.
-        Le “Life Magazine”, certainement le plus grand
-        hebdomadaire du monde, publia la photo du
-        nuage avec un rapport le 17 mai 1963. Dr. James
-        McDonald écrivit qu’il s’agissait d’un phénomène
-        encore jamais observé! Dieu a parlé, qui
-        n’écouterait pas?
-   Il parut aux témoins oculaires que les montagnes montaient et descendaient. Ensuite vint le
-silence. Là-haut, où seul se trouvait le frère Branham, une puissante lumière en forme de nuage
-était suspendue. De cette lumière sortirent sept anges chargés d’autorité qui, après avoir accompli
-leur mission, disparurent dans la lumière. Alors, du nuage, la voix parla à frère Branham: «Va vers
-l'Est, retourne à Jeffersonville, d'où tu es venu, car le temps est arrivé pour ouvrir les Sept
-Sceaux».
+Le Seigneur parla à son serviteur, de bien d’autres choses. Entre autres, il lui fut révélé ce que les sept tonnerres avaient annoncé (voir Apocalypse 10.7). Le nuage se maintint pendant un temps considérable. Il fut vu par un grand nombre de personnes et même photographié. Cette photographie-ci, a été prise par le météorologue Dr. James McDonald le 28 février 1963, depuis l’institut de Tucson, Arizona. Peu de temps avant le coucher du soleil, le ciel était bleu, sans aucun nuage. “Life Magazine”, un des plus grands hebdomadaires du monde, relève le 17 mai 1963 le rapport du docteur James McDonald: le nuage avait une hauteur de 42 km et une largeur de presque 50 km. Il n’entre pas dans ma tâche présente d’analyser les détails, pourtant un fait encore en rapport avec cet événement vaut la peine d’être mentionné. Lorsque frère Branham parla des sept sceaux (du 17 au 24 mars 1963), il attesta que de la colonne de feu formée chaque jour dans sa chambre pendant un instant vers 15 heures, le Seigneur lui révéla la signification exacte de ces sceaux. (Un sceau chaque jour du 17 au 24 mars 1963.)
 
-    http://www.cmpp.ch
+Dieu a exécuté une telle abondance de faits dans un temps très court. Ce qu’Il a fait dans cette génération n’est encore jamais arrivé. Pensons à l’expérience de frère Branham en 1946. Un ange du Seigneur se présenta à lui à 11 heures du soir environ, le 7 mai 1946 et revint souvent. Il parla ainsi: «J'ai été envoyé de la présence de Dieu vers toi, pour te dire que la fin des temps est arrivée. Dieu t'a donné un don de guérison pour l'humanité. Aucune maladie ne doit résister à ta prière, même pas le cancer, si tu restes humble et obéissant devant le Seigneur, et arriveras à te faire écouter et les hommes te croiront». L’ange du Seigneur lui enseigna de quelle manière le premier don s’effectuerait. Dans peu de temps, un deuxième don, soit le discernement serait ajouté. Au moyen de ce don, par révélation divine, les particularités se rapportant aux hommes pour lesquels il devait prier lui seraient montrées. De fait, il pouvait dire aux gens leurs noms, la nature de leurs maladies, de quel pays ils venaient, combien de fois ils avaient été opérés, dans quelle ville et quelle rue ils habitaient, etc. etc. Moi-même j’ai pu le constater à maintes reprises. J’ose dire devant Dieu que jamais aucun homme n’eut ce don si ce n’est le Seigneur. Lui seul était à même de dire à Nathanaël où il se trouvait avant que Philippe l’appelât, et à la Samaritaine au puits: “Tu as eu cinq maris et celui que tu as maintenant n’est pas ton mari”. Ce don fut toujours en évidence dans l’oeuvre du Seigneur.
 
-LA PAROLE DE DIEU DEMEURE ETERNELLEMENT 4
-   Le Seigneur parla à son serviteur, de bien d’autres choses. Entre autres, il lui fut révélé ce que
-les sept tonnerres avaient annoncé (voir Apocalypse 10.7). Le nuage se maintint pendant un temps
-considérable. Il fut vu par un grand nombre de personnes et même photographié. Cette
-photographie-ci, a été prise par le météorologue Dr. James McDonald le 28 février 1963, depuis
-l’institut de Tucson, Arizona. Peu de temps avant le coucher du soleil, le ciel était bleu, sans aucun
-nuage. “Life Magazine”, un des plus grands hebdomadaires du monde, relève le 17 mai 1963 le
-rapport du docteur James McDonald: le nuage avait une hauteur de 42 km et une largeur de
-presque 50 km. Il n’entre pas dans ma tâche présente d’analyser les détails, pourtant un fait
-encore en rapport avec cet événement vaut la peine d’être mentionné. Lorsque frère Branham
-parla des sept sceaux (du 17 au 24 mars 1963), il attesta que de la colonne de feu formée chaque
-jour dans sa chambre pendant un instant vers 15 heures, le Seigneur lui révéla la signification
-exacte de ces sceaux. (Un sceau chaque jour du 17 au 24 mars 1963.)
-   Dieu a exécuté une telle abondance de faits dans un temps très court. Ce qu’Il a fait dans cette
-génération n’est encore jamais arrivé. Pensons à l’expérience de frère Branham en 1946. Un ange
-du Seigneur se présenta à lui à 11 heures du soir environ, le 7 mai 1946 et revint souvent. Il parla
-ainsi: «J'ai été envoyé de la présence de Dieu vers toi, pour te dire que la fin des temps est
-arrivée. Dieu t'a donné un don de guérison pour l'humanité. Aucune maladie ne doit résister
-à ta prière, même pas le cancer, si tu restes humble et obéissant devant le Seigneur, et
-arriveras à te faire écouter et les hommes te croiront». L’ange du Seigneur lui enseigna de
-quelle manière le premier don s’effectuerait. Dans peu de temps, un deuxième don, soit le
-discernement serait ajouté. Au moyen de ce don, par révélation divine, les particularités se
-rapportant aux hommes pour lesquels il devait prier lui seraient montrées. De fait, il pouvait dire
-aux gens leurs noms, la nature de leurs maladies, de quel pays ils venaient, combien de fois ils
-avaient été opérés, dans quelle ville et quelle rue ils habitaient, etc. etc. Moi-même j’ai pu le
-constater à maintes reprises. J’ose dire devant Dieu que jamais aucun homme n’eut ce don si ce
-n’est le Seigneur. Lui seul était à même de dire à Nathanaël où il se trouvait avant que Philippe
-l’appelât, et à la Samaritaine au puits: “Tu as eu cinq maris et celui que tu as maintenant n’est pas
-ton mari”. Ce don fut toujours en évidence dans l’oeuvre du Seigneur.
-   Quel but Dieu visait-Il? Voici un homme qui peut présenter cinq certificats médicaux attestant
-que des morts sont ressuscités — pour lesquels un acte de décès avait été établi par les
-médecins. En tout, selon le témoignage du frère Branham, il y eut sept résurrections. Des gens
-rongés par le cancer ont été guéris. Des sourds, des muets, des estropiés ont été guéris. Même
-des aveugles-nés ont trouvé la vue. J’en suis aussi témoin.
-   Maintenant, beaucoup demanderont: «Pour quelle raison n’avons-nous rien appris de toutes
-ces choses auparavant?». Je vous en prie, demandez-le à vos prédicateurs qui, pour différents
-motifs ont tu ce que Dieu a fait. La plupart ne savent pas ce qu’est un appel divin, encore moins ne
-l’ont expérimenté. Ils disent: «Nous avons reçu le Saint-Esprit». Eh bien, si seulement ils l’avaient
-reçu: tout se conformerait à l’ordre divin. Alors s’accomplirait ce qui est écrit dans Jean 16.12-15.
-Voici le premier signe qu’un homme a réellement reçu l’Esprit selon la parole du Seigneur:
-“L’Esprit de vérité le conduit dans toute la vérité”. Pas seulement dans quelques vérités, mais dans
-tout les desseins de Dieu. Et plus loin il est écrit: “Il dira tout ce qu’il aura entendu et il vous
-annoncera les choses à venir”. Celui qui a réellement reçu le Saint-Esprit doit aussi savoir que
-chacune des 7 lettres de l’Apocalypse a été adressée à l’ange en charge de l’Eglise. Cet ange a
-donc le devoir d’annoncer la parole à l’Eglise. Car il est chaque fois répété: “Que celui qui a des
-oreilles entende ce que l’Esprit dit aux églises”. Oh! combien grande est l’ignorance à ce sujet au
-sein des assemblées. Celui qui a le Saint-Esprit, celui-là sait aussi que Dieu a placé dans son
-Eglise des prophètes et aussi longtemps que l’Eglise est ici, elle reste telle que le Seigneur l’a
-décidé. Voir entre autre Ephésiens 4.11 et 1 Corinthiens 12.28. Par cette parole, on n’entend
-absolument pas ceux qui prophétisent partout suivant leurs désirs, parcourant monts et vaux. Non,
-ce doit être une personne appelée et consacrée par Dieu. Celui qui a le Saint-Esprit doit aussi
-savoir qu’il est écrit dans Amos 3.7: “Car le Seigneur l'Eternel ne fait rien sans avoir révélé son
-secret à ses serviteurs les prophètes”.
-   Dieu est toujours lié à Sa Parole. Il veille à son accomplissement. Ainsi le lit-on dans Jérémie 1.12. Dieu n’a-t-il pas toujours eu un prophète auquel il pouvait révéler son dessein quand devait
-arriver un événement particulier? A ce sujet on pourrait citer une longue liste de noms du
+Quel but Dieu visait-Il? Voici un homme qui peut présenter cinq certificats médicaux attestant que des morts sont ressuscités — pour lesquels un acte de décès avait été établi par les médecins. En tout, selon le témoignage du frère Branham, il y eut sept résurrections. Des gens rongés par le cancer ont été guéris. Des sourds, des muets, des estropiés ont été guéris. Même des aveugles-nés ont trouvé la vue. J’en suis aussi témoin.
 
-        http://www.cmpp.ch
+Maintenant, beaucoup demanderont: «Pour quelle raison n’avons-nous rien appris de toutes ces choses auparavant?». Je vous en prie, demandez-le à vos prédicateurs qui, pour différents motifs ont tu ce que Dieu a fait. La plupart ne savent pas ce qu’est un appel divin, encore moins ne l’ont expérimenté. Ils disent: «Nous avons reçu le Saint-Esprit». Eh bien, si seulement ils l’avaient reçu: tout se conformerait à l’ordre divin. Alors s’accomplirait ce qui est écrit dans Jean 16.12-15. Voici le premier signe qu’un homme a réellement reçu l’Esprit selon la parole du Seigneur: “L’Esprit de vérité le conduit dans toute la vérité”. Pas seulement dans quelques vérités, mais dans tout les desseins de Dieu. Et plus loin il est écrit: “Il dira tout ce qu’il aura entendu et il vous annoncera les choses à venir”. Celui qui a réellement reçu le Saint-Esprit doit aussi savoir que chacune des 7 lettres de l’Apocalypse a été adressée à l’ange en charge de l’Eglise. Cet ange a donc le devoir d’annoncer la parole à l’Eglise. Car il est chaque fois répété: “Que celui qui a des oreilles entende ce que l’Esprit dit aux églises”. Oh! combien grande est l’ignorance à ce sujet au sein des assemblées. Celui qui a le Saint-Esprit, celui-là sait aussi que Dieu a placé dans son Eglise des prophètes et aussi longtemps que l’Eglise est ici, elle reste telle que le Seigneur l’a décidé. Voir entre autre Ephésiens 4.11 et 1 Corinthiens 12.28. Par cette parole, on n’entend absolument pas ceux qui prophétisent partout suivant leurs désirs, parcourant monts et vaux. Non, ce doit être une personne appelée et consacrée par Dieu. Celui qui a le Saint-Esprit doit aussi savoir qu’il est écrit dans Amos 3.7: “Car le Seigneur l'Eternel ne fait rien sans avoir révélé son secret à ses serviteurs les prophètes”.
 
-    LA PAROLE DE DIEU DEMEURE ETERNELLEMENT                                                         5
-    commencement des temps jusqu’à nos jours.
-         Alors pourquoi le Seigneur devrait-Il changer son principe en ces jours, avant le plus grand
-    événement — l’enlèvement de l’Eglise — et ne pas aussi envoyer un prophète qui précède Sa
-    venue. Oh! si, Il envoie à notre époque selon Malachie 4.5: “Elie le prophète avant que vienne le
-    jour grand et redoutable de l'Eternel”. Comme Jean le premier précurseur du Seigneur a dû mourir
-    par les mains des pécheurs peu de temps avant l’achèvement de l’oeuvre du Seigneur à la Croix
-    de Golgotha, ainsi le dernier précurseur du Seigneur devait-il être enlevé peu de temps avant le
-    perfectionnement de l’Epouse et sa réunion avec l’Epoux.
-       Ainsi à notre époque, le mystère de Dieu s’accomplit comme Il l’a annoncé à ses serviteurs les
-    prophètes. Apocalypse 10.7.
-             Une analyse précise et sincère de la personne de William Branham et de son message de la
-    part de Dieu accompagné de miracles et de signes extraordinaires doit nous convaincre que nous
-    avons réellement à faire à un prophète de Dieu, bien plus — que nous avons à faire avec Dieu qui
-    nous a envoyé son messager avant sa deuxième venue.
-                  Je considère mon devoir de répandre le message parmi le peuple par tous les moyens,
-    message que le Seigneur a donné pour la préparation et le perfectionnement de son Eglise. Si
-    Dieu le veut, j’éditerai quelques-uns de ces messages dans lesquels seront exposés les points les
-    plus importants et l’essence du message de frère Branham basé sur les Saintes Ecritures.
+Dieu est toujours lié à Sa Parole. Il veille à son accomplissement. Ainsi le lit-on dans Jérémie 1.12. Dieu n’a-t-il pas toujours eu un prophète auquel il pouvait révéler son dessein quand devait arriver un événement particulier? A ce sujet on pourrait citer une longue liste de noms du commencement des temps jusqu’à nos jours.
 
-    NOVEMBRE – DECEMBRE 1966
-         Première suite
+Alors pourquoi le Seigneur devrait-Il changer son principe en ces jours, avant le plus grand événement — l’enlèvement de l’Eglise — et ne pas aussi envoyer un prophète qui précède Sa venue. Oh! si, Il envoie à notre époque selon Malachie 4.5: “Elie le prophète avant que vienne le jour grand et redoutable de l'Eternel”. Comme Jean le premier précurseur du Seigneur a dû mourir par les mains des pécheurs peu de temps avant l’achèvement de l’oeuvre du Seigneur à la Croix de Golgotha, ainsi le dernier précurseur du Seigneur devait-il être enlevé peu de temps avant le perfectionnement de l’Epouse et sa réunion avec l’Epoux.
 
-   Je vous salue tous affectueusement dans le nom du Seigneur avec la parole de
-l’Ecclésiaste 3.14,15:
-     “J’ai reconnu que tout ce que Dieu fait subsiste à toujours: on ne peut rien y ajouter, ni
-   rien en retrancher; et Dieu agit ainsi, afin qu’on le craigne. Ce qui est, a été autrefois; ce qui
-   sera, a déjà été Dieu fera reparaître le passé qui a fui”.
-   En nous reportant aux réunions tenues avec frère Green, nous pouvons dire avec David:
-“Reconnaissez que le Seigneur dirige merveilleusement ses saints”. Avec reconnaissance nous
-considérons ce que le Seigneur a fait pour beaucoup d’hommes parmi ceux qui sont venus de loin
-et de près pour écouter la Parole de Dieu. Oui, à nos yeux cela parut un miracle de voir venir tant
-de monde. Dans 12 villes plusieurs milliers entendirent la Parole de Dieu. Le Seigneur distribua sa
-bénédiction dans une grande mesure. Seule l’éternité révélera ce qui se passa réellement. Déjà
-nous avons des lettres de gratitude pour ce que Dieu a fait à beaucoup au bénéfice de l’esprit, de
-l’âme et du corps. Un réveil traversa tout le pays au cours duquel les auditeurs furent rendus
-attentifs à l’appel du Seigneur pour ces temps. Dieu ne fait point acception de personne. Il envoya
-des hommes membres des églises nationales, des églises libres et d’autres communautés
-entendre Sa Parole. Nous ne pouvons que nous écrier: «Nous sommes dans la joie, Dieu a fait
-pour nous de grandes choses». A Lui seul la gloire!
-   Au sujet de l’apparition du Seigneur dans la colonne de feu au-dessus de la tête de frère
-Branham, comme elle se présente sur la photo, j’aimerais ajouter quelques mots. En janvier 1950,
-pendant que frère Branham parlait à environ 8 000 personnes à Houston, Texas, le Seigneur
-descendit dans la colonne de feu. Afin que ceux qui ne veulent pas croire ne puissent pas
-présenter d’excuse valable devant Dieu, le Seigneur permit qu’un photographe incrédule
-photographiât cette apparition. Nous disons souvent Dieu est toujours le même, mais s’Il se
-manifeste de la même manière qu’autrefois, nous sommes lents à croire. Le Dieu d’Abraham et de
-Moïse n’a aucun compte à rendre, de quelle façon Il se révèle, ni à quel moment, ni à quelle
-personne. Il a la puissance et la liberté de se révéler à son gré. Cette révélation spéciale de Dieu
-dans un nuage et une colonne de feu, nous pouvons la mettre en rapport avec l’appel spécial d’un
-prophète spécial, soit Moïse. C’est à lui que fut confiée la mission de conduire hors d’Egypte le
-peuple d’Israël, à la tête duquel le Seigneur Lui-même avançait, dans la colonne de feu.
-Premièrement Dieu parla à Moïse à travers le feu qui brûlait dans un buisson (Exode 3.1-7). Pour que
-chacun puisse saisir le sens et voir le but de cette révélation pour le peuple de Dieu, nous lisons
-dans Exode 13.21,22: “L’Eternel allait devant eux, le jour dans une colonne de nuée, pour les
+Ainsi à notre époque, le mystère de Dieu s’accomplit comme Il l’a annoncé à ses serviteurs les prophètes. Apocalypse 10.7.
 
-                                          http://www.cmpp.ch
+Une analyse précise et sincère de la personne de William Branham et de son message de la part de Dieu accompagné de miracles et de signes extraordinaires doit nous convaincre que nous avons réellement à faire à un prophète de Dieu, bien plus — que nous avons à faire avec Dieu qui nous a envoyé son messager avant sa deuxième venue.
 
-    LA PAROLE DE DIEU DEMEURE ETERNELLEMENT                                                               6
-guider dans leur chemin, et la nuit, dans une colonne de feu, pour les éclairer, afin qu’il leur fût
-possible de marcher de jour comme de nuit. La colonne de nuée pendant le jour et la colonne de
-feu pendant la nuit, ne cessèrent jamais de précéder le peuple d’Israël”. Il est de toute évidence à
-la lecture de ces deux versets que le Seigneur réside dans la nuée et la colonne de feu, et que
-Lui-même se tient à la tête de Son peuple pour lui montrer le chemin qu’il doit prendre.
-   Dans notre génération Dieu revient dans une colonne de feu. Donc, ce signe sûr devrait nous
-induire à quitter ce monde (comme Israël quitta l’Egypte) pour entrer dans la ville éternelle, dans la
-nouvelle Jérusalem de Dieu. Plusieurs disent: la Bible ne nous informe pas que Dieu nous
-enverrait un prophète spécial avant l’enlèvement. Faisons abstraction que réellement la Bible nous
-en parle. Dans le cas d’Abraham également. Dieu donna seulement la promesse que ses
-descendants sortiraient du pays de l’esclavage sans parler d’un prophète particulier qui en serait
-l’instrument (Genèse 15.13-16). Nous voyons beaucoup d’analogies dans le service de Moïse et celui
-du frère Branham.
-   Quand Dieu envoya Moïse, Il lui donna deux signes par lesquels le peuple d’Israël devait croire
-à sa mission divine (Exode 4.1-9). Lorsque l’ange de l’Eternel vint à frère Branham le 7 mai 1946, il lui
-dit: «Comme deux signes furent donnés à Moïse, de même à toi aussi, il sera donné deux signes.
-Le premier: tu prendras la main droite du malade dans ta main gauche, ensuite de quoi la maladie
-de cet homme sera visible sur ta main de telle manière que le malade lui-même la verra. Au
-moment de la guérison, pendant la prière, ta main redeviendra normale, signe que le malade est
-réellement guéri». Comme deuxième signe, frère Branham reçut le don du discernement et de la
-révélation, par lequel il pouvait dire aux malades quelles étaient leurs souffrances, leur sollicitation
-et tout ce que Dieu lui révélait de leur vie. Comme du temps de Moïse, ces deux signes suscitèrent
-la foi en Dieu et la foi au service et à la mission du prophète son envoyé. Il en fut de même à notre
-époque. Des millions ont vu ces deux signes se manifester dans le service de frère Branham et
-reconnurent que Dieu lui avait donné la mission de conduire son peuple hors de l’esclavage
-humain et de le préparer pour l’imminent retour du Seigneur.
-   Dans Nombres 12.6-8 nous lisons: “… Ecoutez bien mes paroles. S’il y a parmi vous un
-prophète, moi, l’Eternel, je me fais connaître à lui en vision; je lui parle en songe. Il n’en est pas
-ainsi de mon serviteur Moïse, qui est fidèle dans toute ma maison. Je parle avec lui bouche à
-bouche, d'une manière visible, et non par énigmes, et il contemple l'image de l'Eternel…”.
-   Cette grâce fut particulière à Moïse et le distinguait de tous les autres prophètes. Cela
-s’accorde aussi au cas de frère Branham. Quoique Dieu ait eu beaucoup de messagers oints,
-nous voyons cependant dans la vie de frère Branham que tout le conseil de Dieu lui était confié,
-que Dieu lui parla de bouche à bouche et qu’il lui fut permis de voir une forme de Sa
-manifestation. Celui qui est au courant de l’histoire de sa vie et particulièrement des révélations
-du Seigneur dans ses trois dernières années, reconnaît clairement ces faits. (J’en parlerai
-davantage dans la suite.)
-   Plusieurs disent que cette prétention n’est pas justifiée. Coré de la tribu de Lévi parlait de la
-même façon. Veuillez lire à ce sujet tout le chapitre 16 des Nombres. Dans le verset 3, nous
-lisons: “Ils se rassemblèrent donc contre Moïse et contre Aaron et ils leur dirent: C’en est assez!
-Car toute l’assemblée, tous sont consacrés, et l’Eternel est au milieu d’eux. Pourquoi donc vous
-élevez-vous au-dessus de l’assemblée de l’Eternel?”. Comme Coré qui rassemblait les principaux
-et les chefs du peuple contre Moïse, ainsi arriva-t-il au temps de Jean et du Seigneur Jésus. Ce
-furent les scribes, les pharisiens et les principaux du peuple qui se révoltèrent contre eux. Il en est
-exactement de même aujourd’hui. Mais comme Coré et les 250 autres reçurent le châtiment de
-Dieu, ainsi recevront leur châtiment les adversaires qui se liguent pour empêcher et dénigrer le
-travail de son prophète élu.
+Je considère mon devoir de répandre le message parmi le peuple par tous les moyens, message que le Seigneur a donné pour la préparation et le perfectionnement de son Eglise. Si Dieu le veut, j’éditerai quelques-uns de ces messages dans lesquels seront exposés les points les plus importants et l’essence du message de frère Branham basé sur les Saintes Ecritures.
 
-        LA MISSION DE FRERE BRANHAM
-               Celui qui a assisté aux conférences de frère Green les semaines passées, se souviendra qu’il
-    démontra par les Ecritures que frère Branham était un prophète de Dieu, qui devait venir avant le
-    grand et terrible jour de l’Eternel, comme il est écrit. Maintenant, il est de mon devoir à mon tour de
-    le prouver par les Ecritures.
-         Il est écrit dans Malachie 4.5: “Je vous enverrai Elie, le prophète avant que le grand et terrible
-    jour de l’Eternel arrive”. Nous avons tous admis, je suppose, que ce passage de la Bible concerne
+NOVEMBRE – DECEMBRE 1966
+Première suite
 
-        http://www.cmpp.ch
+Je vous salue tous affectueusement dans le nom du Seigneur avec la parole de l’Ecclésiaste 3.14,15:
 
-LA PAROLE DE DIEU DEMEURE ETERNELLEMENT 7
-Jean-Baptiste. Pourtant nous devons reconnaître que le grand et terrible jour de l’Eternel ne s’est
-pas accompli sitôt après le service de Jean, ni jusqu’à présent, voici bientôt 2 000 ans. Paul dit
-dans 2 Thessaloniciens 2.2: “Ne vous laissez pas si promptement troubler l’esprit, ni alarmer par
-une prétendue inspiration, par quelque parole ou quelque lettre qui nous serait attribuée, comme si
-le jour du Seigneur était arrivé”. Qu’est-ce que le jour de l’Eternel? Dieu promet dans les Ecritures
-qu’Il nous enverra un prophète avant le jour grand et redoutable du Seigneur. Cependant, nous
-pouvons voir qu’à la venue de Jean, c’est le jour du salut et de la grâce qui commença (comme il
-est écrit dans l’Ancien et le Nouveau Testament), et non pas le jour terrible et redoutable de
-l’Eternel: donc cette parole ne fut pas accomplie dans la vie de Jean. Les prophètes écrivirent au
-sujet du jour du Seigneur. Voici seulement quelques passages: Ésaïe 13.6 et 9: “Lamentez-vous!
-Car le jour de l’Eternel est proche: il vient, comme un fléau déchaîné par le Tout-Puissant. — Oui,
-le jour de l’Eternel arrive, jour cruel, jour de fureur et d’ardente colère, qui réduira la terre en désert
-et en exterminera les pécheurs”. Dans Joël nous trouvons même écrit ce qui arrivera avant le jour
-de l’Eternel (Joël 2.31): “Le soleil sera changé en ténèbres, et la lune en sang, avant que vienne le
-grand et terrible jour de l’Eternel”. Comparez ce texte avec Apocalypse 6.12, car le jour de l’Eternel
-tombe sur le passage relatif au 6ème sceau. Le 5ème sceau concerne le meurtre de 6 millions de
-Juifs dans la deuxième guerre mondiale, comme frère Branham en fut instruit par Dieu. Ainsi nous
-nous tenons tout près de la fin du temps de la grâce. Au moment de l’enlèvement le jour du salut
-et de la grâce prend fin, et le jour de la colère et de la rétribution commence. Pierre écrit dans 2
-Pierre 3.10 ceci: “Cependant, le jour du Seigneur viendra comme un voleur. Alors les cieux
-passeront avec fracas, les éléments embrasés se dissoudront et la terre, avec les oeuvres qu’elle
-renferme, sera consumée”. Malachie 4.1 le voit avec la même exactitude: “Car voici le jour vient,
-ardent comme une fournaise…”.
-   Paul aussi nous donne une information au sujet de ce jour dans 1 Thessaloniciens 5.2: “car
-vous savez fort bien vous-mêmes que le jour du Seigneur viendra comme un voleur dans la nuit”.
-Au quatrième verset du même chapitre il dit: “Mais vous, frères, vous n’êtes pas dans les ténèbres;
-de sorte que ce jour-là ne vous surprendra pas comme un voleur”. De ces paroles il ressort
-clairement que ceux qui marchent dans la lumière de la Parole de Dieu seront éclairés par elle et
-reconnaîtront l’oeuvre de Dieu. Tous les autres seront surpris, mais pas les élus, car à eux le
-Seigneur révèle Sa volonté! Ainsi voyons-nous le complet accord du témoignage des saintes
-Ecritures relatifs au jour du Seigneur, avant lequel Dieu voulut envoyer le prophète Elie.
-   Revenons maintenant à Jean, la Bible en main, et voyons quels sont les passages qui le
-concernent (Ésaïe 40.3 et Malachie 3.1). Ils sont en rapport avec Matthieu 3.3: “C’est de lui qu’Esaïe le
-prophète a parlé, quand il a dit: Une voix crie dans le désert: Préparez le chemin du Seigneur;
-aplanissez ses sentiers”. Jésus Lui-même témoigne qu’il est bien l’homme selon Malachie 3.1 et
-lisons dans Matthieu 11.10: “C’est celui dont il est écrit: Voici que j’envoie mon messager devant ta
-face, pour préparer ton chemin devant toi”. Nous lisons la même chose dans Marc 1.1-3 et dans
-Luc 3.3-6. Celui qui le veut, peut déjà voir que les deux passages concernent Jean, mais non pas
-le passage de Malachie 4.5.
-   Il n’existe qu’un seul passage qui parle textuellement de l’envoi d’Elie et c’est celui-là. Chacun
-doit reconnaître que c’est avant le jour du salut et de la grâce que Jean est venu pour préparer le
-chemin du Seigneur. Lui-même en donna un clair témoignage quand il fut questionné à ce sujet,
-attestant qu’il n’était pas l’Elie du passage de Malachie 4.5. Lisons aussi Jean 1.21,22: “Qui es-tu
-donc?… lui demandèrent-ils, es-tu Elie? Et il dit: Je ne le suis pas. Es-tu le prophète? Il répondit:
-Non. Il reprirent: Dis-nous donc qui tu es, afin que nous puissions donner une réponse à ceux qui
-nous ont envoyés”.
-   Celui qui ne veut pas estimer Jean menteur doit croire ce qu’il dit, c’est-à-dire qu’il n’est pas le
-Christ, ni le prophète, et non plus Elie. Alors, on lui posa la question, qui était-il donc. La réponse
-nous la trouvons dans le 23ème verset: “Je suis la voix qui crie dans le désert: Aplanissez le chemin
-du Seigneur, comme l’a dit le prophète Esaïe”. Jean savait exactement qui il était et quels
-passages bibliques se référaient à lui. Maintenant nous arrivons à cette question, pourquoi Jean
-fut-il aussi nommé Elie. Lisons les paroles de l’ange qui s’adressait à Zacharie. Luc 1.16,17: “Il
-convertira plusieurs des fils d’Israël au Seigneur, leur Dieu; et lui-même marchera devant le
-Seigneur, dans l’esprit et avec la puissance d’Elie, pour ramener les coeurs des pères vers les
-enfants, et les rebelles à la sagesse des justes, afin de préparer au Seigneur un peuple bien
-disposé”. Ici l’ange dit que Jean viendra dans l’esprit et la force d’Elie pour tourner les coeurs des
+> “J’ai reconnu que tout ce que Dieu fait subsiste à toujours: on ne peut rien y ajouter, ni rien en retrancher; et Dieu agit ainsi, afin qu’on le craigne. Ce qui est, a été autrefois; ce qui sera, a déjà été Dieu fera reparaître le passé qui a fui”.
 
-        http://www.cmpp.ch
+En nous reportant aux réunions tenues avec frère Green, nous pouvons dire avec David: “Reconnaissez que le Seigneur dirige merveilleusement ses saints”. Avec reconnaissance nous considérons ce que le Seigneur a fait pour beaucoup d’hommes parmi ceux qui sont venus de loin et de près pour écouter la Parole de Dieu. Oui, à nos yeux cela parut un miracle de voir venir tant de monde. Dans 12 villes plusieurs milliers entendirent la Parole de Dieu. Le Seigneur distribua sa bénédiction dans une grande mesure. Seule l’éternité révélera ce qui se passa réellement. Déjà nous avons des lettres de gratitude pour ce que Dieu a fait à beaucoup au bénéfice de l’esprit, de l’âme et du corps. Un réveil traversa tout le pays au cours duquel les auditeurs furent rendus attentifs à l’appel du Seigneur pour ces temps. Dieu ne fait point acception de personne. Il envoya des hommes membres des églises nationales, des églises libres et d’autres communautés entendre Sa Parole. Nous ne pouvons que nous écrier: «Nous sommes dans la joie, Dieu a fait pour nous de grandes choses». A Lui seul la gloire!
 
-    LA PAROLE DE DIEU DEMEURE ETERNELLEMENT                                                    8
-pères vers les enfants, mais il ne dit pas qu’il ramènera le coeur des enfants à leurs pères.
-Pourtant dans Malachie 4.5 il est dit: “Je vais vous envoyer Elie, le prophète, avant que vienne le
-jour grand et redoutable de l’Eternel. Il ramènera le coeur des pères à leurs enfants, et le coeur
-des enfants à leurs pères”.
-   Ici se retrouve le mystère analogue à celui d’Ésaïe 6.1,2 cité à nouveau dans Luc 4.19, verset
-au milieu duquel le Seigneur s’arrête de lire. Pourquoi ne lut-Il pas aussi le passage relatif au jour
-de la vengeance qui se trouve pourtant dans le même verset? Certainement chacun sait que la
-première partie concerne Sa première venue, mais que la deuxième partie concerne Sa seconde
-venue. Exactement de la même manière l’écriture s’accomplit sous nos yeux en ce jour. La
-première partie de Malachie se rapportait à Jean car il tourna les coeurs des pères de l’Ancien
-Testament à la doctrine des enfants du Nouveau Testament. L’Elie qui doit venir avant la
-deuxième venue du Seigneur à la tâche de tourner à la fin de cette époque les coeurs des enfants
-de Dieu vers les pères apostoliques.
-   Nous arrivons maintenant à Matthieu 17.11 où Jésus dit clairement qu’Elie doit venir, quoique
-Jean fût là depuis longtemps. Il répondit: “Il est vrai qu’Elie doit venir et rétablir toutes choses”.
-Cette phrase se réfère à l’avenir et concerne Malachie 4.5. Cependant, parce que Jean vint dans
-l’esprit et la force d’Elie, Jésus dit: “Mais je vous dis qu’Elie est déjà venu, et ils ne l’ont pas
-reconnu… Alors les disciples comprirent que c’était de Jean-Baptiste qu’il leur parlait” (Mat. 17.15).
-Par quoi le prophète Elie se distinguait-il donc? Par la parole et l’esprit et par de puissants
-miracles. Pouvez-vous voir maintenant pourquoi l’ange a dit que Jean viendrait dans l’esprit et la
-puissance d’Elie? Jean avait la parole pour ce temps-là et il était rempli du Saint-Esprit dès sa
-naissance, mais il ne fit aucun miracle. Mais Elie fit des miracles. Ainsi est justifiée la sagesse de
-Dieu. Frère Branham comme l’Elie paraissant avant la deuxième venue du Seigneur fut comme
-Jean dès sa naissance sous la grâce de Dieu et appelé. Il vint avec la parole et l’esprit d’Elie
-opérant des prodiges et de puissants miracles.
-   Avant la deuxième venue du Seigneur se répète ce qui arriva avant Sa première venue, un
-homme vint, duquel il est dit qu’il fut plus qu’un prophète. Matthieu 11.9. Pour cette raison nous
-comprenons aussi pourquoi lors du baptême dans le fleuve Ohio en juin 1933, se répéta pour frère
-Branham ce qui est arrivé pour Jean au Jourdain. De même que Jean était debout dans l’eau et
-baptisait, lorsque le signe descendit du ciel et la voix se fit entendre.
-   En avril de cette année j’ai encore rencontré des gens qui étaient présents en juin 1933 lorsque
-cette puissante lumière descendit et que la voix retentit: «De même que Jean précéda ma
-première venue, ainsi tu précèdes ma deuxième venue…». Moi-même je m’en fus à l’endroit du
-fleuve Ohio où cela arriva.
-   Maintenant retournons à la mission divine confiée à ce prophète, la mission qu’il devait
-exécuter pour le rétablissement de toutes choses (Marc 9.12). Dans les assemblées du plein
-évangile, on a souvent mentionné la parole du prophète Joël se rapportant au rétablissement de
-toutes choses (Joël 2.25). A ce sujet on est pleinement d’accord que l’Eglise doit être rétablie,
-comme elle l’était au commencement à la Pentecôte. Dans les Actes 3.21 il est dit de
-Jésus: “que le ciel doit recevoir jusqu’aux temps du rétablissement de toutes choses dont Dieu a
-parlé par la bouche de ses saints prophètes…”. Ici nous avons la preuve que Jésus et Pierre aussi
-parlaient du rétablissement de l’ordre divin dans l’Eglise selon le modèle primitif. De cette manière
-s’opérerait le rétablissement. Tous deux diront les choses après que l’oeuvre de Jean fut terminée,
-donc il ne pouvait pas être l’Elie qui devait tout rétablir. C’est pourquoi il est important d’écouter la
-Parole de Dieu, telle qu’Il l’a révélée à Son prophète dans ces derniers temps, selon laquelle tout
-doit être réparé et rétabli.
+Au sujet de l’apparition du Seigneur dans la colonne de feu au-dessus de la tête de frère Branham, comme elle se présente sur la photo, j’aimerais ajouter quelques mots. En janvier 1950, pendant que frère Branham parlait à environ 8 000 personnes à Houston, Texas, le Seigneur descendit dans la colonne de feu. Afin que ceux qui ne veulent pas croire ne puissent pas présenter d’excuse valable devant Dieu, le Seigneur permit qu’un photographe incrédule photographiât cette apparition. Nous disons souvent Dieu est toujours le même, mais s’Il se manifeste de la même manière qu’autrefois, nous sommes lents à croire. Le Dieu d’Abraham et de Moïse n’a aucun compte à rendre, de quelle façon Il se révèle, ni à quel moment, ni à quelle personne. Il a la puissance et la liberté de se révéler à son gré. Cette révélation spéciale de Dieu dans un nuage et une colonne de feu, nous pouvons la mettre en rapport avec l’appel spécial d’un prophète spécial, soit Moïse. C’est à lui que fut confiée la mission de conduire hors d’Egypte le peuple d’Israël, à la tête duquel le Seigneur Lui-même avançait, dans la colonne de feu. Premièrement Dieu parla à Moïse à travers le feu qui brûlait dans un buisson (Exode 3.1-7). Pour que chacun puisse saisir le sens et voir le but de cette révélation pour le peuple de Dieu, nous lisons dans Exode 13.21,22: “L’Eternel allait devant eux, le jour dans une colonne de nuée, pour les guider dans leur chemin, et la nuit, dans une colonne de feu, pour les éclairer, afin qu’il leur fût possible de marcher de jour comme de nuit. La colonne de nuée pendant le jour et la colonne de feu pendant la nuit, ne cessèrent jamais de précéder le peuple d’Israël”. Il est de toute évidence à la lecture de ces deux versets que le Seigneur réside dans la nuée et la colonne de feu, et que Lui-même se tient à la tête de Son peuple pour lui montrer le chemin qu’il doit prendre.
 
-                                                JANVIER 1967
-                                               Deuxième suite
+Dans notre génération Dieu revient dans une colonne de feu. Donc, ce signe sûr devrait nous induire à quitter ce monde (comme Israël quitta l’Egypte) pour entrer dans la ville éternelle, dans la nouvelle Jérusalem de Dieu. Plusieurs disent: la Bible ne nous informe pas que Dieu nous enverrait un prophète spécial avant l’enlèvement. Faisons abstraction que réellement la Bible nous en parle. Dans le cas d’Abraham également. Dieu donna seulement la promesse que ses descendants sortiraient du pays de l’esclavage sans parler d’un prophète particulier qui en serait l’instrument (Genèse 15.13-16). Nous voyons beaucoup d’analogies dans le service de Moïse et celui du frère Branham.
 
-     Cordialement je vous salue tous au nom du Seigneur avec cette parole de 1 Chronique 29.11:
-      “A toi, ô Eternel, la grandeur, la force et la magnificence l’éternité et la splendeur; car tout
-     ce qui est dans les cieux et sur la terre t’appartient”.
-    Je suis fortement impressionné par les échos du message du Seigneur, car de l’Est à l’Ouest,
+Quand Dieu envoya Moïse, Il lui donna deux signes par lesquels le peuple d’Israël devait croire à sa mission divine (Exode 4.1-9). Lorsque l’ange de l’Eternel vint à frère Branham le 7 mai 1946, il lui dit: «Comme deux signes furent donnés à Moïse, de même à toi aussi, il sera donné deux signes. Le premier: tu prendras la main droite du malade dans ta main gauche, ensuite de quoi la maladie de cet homme sera visible sur ta main de telle manière que le malade lui-même la verra. Au moment de la guérison, pendant la prière, ta main redeviendra normale, signe que le malade est réellement guéri». Comme deuxième signe, frère Branham reçut le don du discernement et de la révélation, par lequel il pouvait dire aux malades quelles étaient leurs souffrances, leur sollicitation et tout ce que Dieu lui révélait de leur vie. Comme du temps de Moïse, ces deux signes suscitèrent la foi en Dieu et la foi au service et à la mission du prophète son envoyé. Il en fut de même à notre époque. Des millions ont vu ces deux signes se manifester dans le service de frère Branham et reconnurent que Dieu lui avait donné la mission de conduire son peuple hors de l’esclavage humain et de le préparer pour l’imminent retour du Seigneur.
 
-      http://www.cmpp.ch
+Dans Nombres 12.6-8 nous lisons: “… Ecoutez bien mes paroles. S’il y a parmi vous un prophète, moi, l’Eternel, je me fais connaître à lui en vision; je lui parle en songe. Il n’en est pas ainsi de mon serviteur Moïse, qui est fidèle dans toute ma maison. Je parle avec lui bouche à bouche, d'une manière visible, et non par énigmes, et il contemple l'image de l'Eternel…”.
 
-    LA PAROLE DE DIEU DEMEURE ETERNELLEMENT    9
-du Sud au Nord de notre pays, ainsi qu’en Suisse et en Autriche, la Parole du Seigneur a été très
-appréciée et bien accueillie. Nous voyons s’accomplir textuellement cette vérité: la Parole de Dieu
-ne retourne pas à vide, mais exécute ce qu’elle était destinée à accomplir. On a l’impression que
-des milliers ont attendu avec un ardent désir d’entendre un tel message. Quant à moi, ma foi est
-fortifiée particulièrement quand je lis chaque jour des piles de lettres qui expriment la
-reconnaissance des gens. En effet, j’avais quelqu’appréhension que les gens ne puissent
-assimiler cette forte nourriture spirituelle et comprendre les profonds mystères de Dieu révélés au
-frère Branham. Ne peuvent les comprendre que ceux à qui Il les révèle. Paul, ce grand homme de
-Dieu écrit dans Colossiens 2.2,3: “… afin que leurs coeurs soient consolés et qu’ils soient unis
-dans la charité, pour être enrichis d’une pleine certitude de l’intelligence, de manière à connaître le
-mystère de Dieu, le Christ”. Il est bouleversant de voir de quelle manière Dieu le Seigneur a révélé
-le mystère de Sa divinité à Son serviteur et prophète, ainsi qu’il l’est présenté dans le livre de frère
-Branham «Exposé sur les sept âges de l’Eglises». Oui, le mystère de Dieu est auprès de ses
-saints.
-   Dans cette suite, je veux rapidement expliquer comment je suis arrivé à diffuser le message
-apporté par frère Branham dans son ministère. J’ai entendu frère Branham pour la première fois
-en 1955 à Karlsruhe. Là, je fus témoin de la puissance par laquelle Dieu confirme Sa parole au
-moyen des signes qui l’accompagnent et cela je ne l’avais jamais vu auparavant. Je fus convaincu
-qu’ici un homme de Dieu parlait avec pleine autorité divine par l’oeuvre de Dieu. Les années
-suivantes nous les avons passées de l’autre côté de l’océan et eûmes l’occasion de faire plus
-ample connaissance avec frère Branham ainsi qu’avec sa famille. Depuis 1958 je sais qu’il n’avait
-pas seulement un ministère d’évangéliste pour ce monde, mais celui de prophète de Dieu pour la
-préparation et le perfectionnement de l’Eglise.
-   Le 2 avril 1962, j’entendis la voix du Seigneur. Je veux faire remarquer que j’entendais cette
-voix avec mes oreilles tout naturellement et non pas avec mon coeur, mon âme ou mon esprit,
-comme si le Seigneur se tenait à trois mètres de moi. Il parla d’une voix forte mais ne sonnant pas
-comme une trompette, disant les mots suivants: «Mon serviteur, ton temps dans cette ville est
-bientôt écoulé, je t’enverrai dans d’autres villes pour annoncer ma parole». Ensuite, je me vis
-debout en dehors de mon corps et je dis: «Seigneur, on ne m’écoutera pas. Ils vivent dans les
-excès et possèdent tout en surabondance».
-   Après quoi le Seigneur me répondit: «Mon serviteur, le temps vient où ils t’écouteront. Une
-grande famine arrive. Faites des provisions, car tu dois être au milieu du peuple et lui
-distribuer de la nourriture». Le Seigneur me donna encore quelques détails qui ne concernent
-que moi. Je ne puis décrire quelle autorité et quelle assurance il y avait dans cette voix. Je me
-disais: «Si cette voix retentit encore une fois, la terre entière s’immobilisera». Je ne vis ni lumière
-ni forme.
-   Dans le courant de l’année 1962, mon désir de savoir exactement ce qui devait arriver devenait
-toujours plus fort. Je priai Dieu et résolus de m’ouvrir à frère Branham à ce sujet. Au mois de
-décembre 1962, je m’envolai de l’autre côté et pus le rencontrer. Nous étions assis avec 4 frères
-autour d’une table. Frère Sothmann et frère Woods étaient l’un vis-à-vis de l’autre et frère
-Branham vis-à-vis de moi. Après qu’il nous eut parlé un bon moment je devins un peu impatient,
-car cette question brûlait dans mon coeur. Toute autre chose ne m’intéressait pas en ce moment.
-J’interrompis: «Frère Branham, je voudrais te demander quelque chose…» je ne pus continuer
-car il disait: «Dois-je te dire ce que le Seigneur t’a dit?». J’étais assis là, j’écoutais et n’osais en
-croire mes oreilles lorsqu’il répéta tout mot pour mot, phrase après phrase dans leur suite exacte.
-Et non seulement cela mais il révéla les pensées de mon coeur, car je pensais qu’une famine
-terrestre passerait à travers le pays pour humilier les hommes. Mais frère Branham dit: «Frère
-Frank, la faim dont il s’agit n’est pas une faim physique. Non il viendra une grande faim de la
-vraie Parole de Dieu. La nourriture dont vous devez vous inquiéter sont les bandes
-d’enregistrement, sur lesquelles la parole est inscrite. Avant de commencer la distribution
-attendez jusqu’à ce que vous ayez reçu le solde des aliments».
-   Jésus disait à ceux qui avaient cru: “Si vous demeurez dans ma parole, vous êtes véritablement
-mes disciples; vous connaîtrez la vérité et la vérité vous affranchira” (Jean 8.31,32). Jésus dit
-aussi: “Celui qui est issu de Dieu écoute les paroles de Dieu” (Jean 8.47). La question se pose
-maintenant, qu’est-ce que la vérité? La réponse valable éternellement déclare: “La Parole de Dieu
+Cette grâce fut particulière à Moïse et le distinguait de tous les autres prophètes. Cela s’accorde aussi au cas de frère Branham. Quoique Dieu ait eu beaucoup de messagers oints, nous voyons cependant dans la vie de frère Branham que tout le conseil de Dieu lui était confié, que Dieu lui parla de bouche à bouche et qu’il lui fut permis de voir une forme de Sa manifestation. Celui qui est au courant de l’histoire de sa vie et particulièrement des révélations du Seigneur dans ses trois dernières années, reconnaît clairement ces faits. (J’en parlerai davantage dans la suite.)
 
-    http://www.cmpp.ch
+Plusieurs disent que cette prétention n’est pas justifiée. Coré de la tribu de Lévi parlait de la même façon. Veuillez lire à ce sujet tout le chapitre 16 des Nombres. Dans le verset 3, nous lisons: “Ils se rassemblèrent donc contre Moïse et contre Aaron et ils leur dirent: C’en est assez! Car toute l’assemblée, tous sont consacrés, et l’Eternel est au milieu d’eux. Pourquoi donc vous élevez-vous au-dessus de l’assemblée de l’Eternel?”. Comme Coré qui rassemblait les principaux et les chefs du peuple contre Moïse, ainsi arriva-t-il au temps de Jean et du Seigneur Jésus. Ce furent les scribes, les pharisiens et les principaux du peuple qui se révoltèrent contre eux. Il en est exactement de même aujourd’hui. Mais comme Coré et les 250 autres reçurent le châtiment de Dieu, ainsi recevront leur châtiment les adversaires qui se liguent pour empêcher et dénigrer le travail de son prophète élu.
 
-LA PAROLE DE DIEU DEMEURE ETERNELLEMENT 10
-est la vérité”.
-   Personne encore ne prévoyait de quelle manière le Seigneur exécuterait ce que disait le frère
-Branham. Pour moi, c’est une chose certaine depuis que nous avons reçu les derniers
-enregistrements des prédications de frère Branham, le temps de la distribution n’est pas éloigné.
-Aussi le Seigneur se chargera-t-il d’ouvrir d’autres portes dans d’autres villes afin que beaucoup
-encore entendent la véritable Parole de Dieu. Selon l’ordre divin, je parlerai prochainement dans
-différentes villes.
-   Nous vivons l’époque dans laquelle la gloire du Seigneur est rétablie parmi ses saints. Il est la
-tête de son Eglise, ainsi que Paul le dit souvent. Celui qui fait partie de son Eglise doit laisser le
-Seigneur décider et agir selon son plan établi.
-   Nous terminions dans la dernière brochure avec la mission de frère Branham qui, en tant que
-prophète de Dieu, selon les Ecritures doit amener le rétablissement de toutes choses. A ce sujet
-nous lisons dans Jean 1.6,7: “Il y eut un homme envoyé de Dieu dont le nom était Jean. Il vint pour
-être témoin, pour rendre témoignage à la lumière, afin que, par lui, tous fussent amenés à la foi”.
-C’était quelque chose d’extraordinaire. UN homme apparut. Pas un groupe d’hommes mais UN
-homme envoyé de Dieu, au sujet duquel nous lisons que par lui tous devaient arriver à la foi. Vous
-pouvez bien juger de l’appréciation des scribes du fait que ce n’était pas eux, en tant que
-confrérie, qui avaient reçu cette mission, mais UN homme. Ainsi en fut-il de tout temps. C’est à UN
-homme que Dieu révéla qu’Il voulait détruire la terre par l’eau. UN homme avait la mission de
-conduire le peuple d’Israël hors de l’Egypte. UN homme savait qu’il ne devait pas pleuvoir pendant
-3½ ans. Nous pourrions continuer ainsi en parlant des prophètes de Dieu et des apôtres du
-Seigneur.
-   Nous avons un exemple dans les Ecritures qui illustre le fait particulièrement. Je voudrais le
-relever ici. Il s’agit du prophète Michée. Pour obtenir la compréhension exacte de la relation avec
-ce sujet veuillez lire tout le chapitre de 2 Chronique 18. Achab avait l’intention d’aller à la guerre
-avec Josaphat. Lorsque Josaphat voulut connaître la volonté de Dieu en cette matière, Achab fit
-venir 400 prophètes. Ceux-ci promirent le succès au roi et approuvèrent son projet. Mais Josaphat
-demanda: “N’y a-t-il pas encore un autre prophète par lequel nous pourrions être renseignés?”. Ne
-dirions-nous pas qu’une telle question est ridicule? N’est-il pas suffisant qu’il y en ait 400 qui sont
-unanimes à prédire la même chose? Et pourtant nous pouvons reconnaître de façon évidente que
-dans ce cas, il n’en est pas ainsi.
-   Achab répondit à Josaphat: “Oui, il y en a encore un que nous pouvons consulter, mais je
-n’aime pas avoir à faire avec lui, car il ne prend jamais mon parti. C’est Michée”. Mais Josaphat
-voulut entendre Michée, ainsi on envoya un messager le chercher. Nous constatons donc que
-Michée était un “franc-tireur” et ne s’était pas allié au groupe des 400.
-   Lorsque le messager arriva auprès de Michée il lui dit: “Les prophètes sont tous d’un même
-avis et, d’un même accord prédisant la chance au roi, donc mets-toi de leur côté”. Le messager
-essaya d’engager Michée à dire la même chose que le groupe des prophètes. Encore aujourd’hui
-on a la tendance de s’attendre de la part d’un vrai prophète de Dieu qu’il s’accorde avec la foi et
-les enseignements d’une organisation religieuse. Mais Michée répondit: “Aussi vrai que l’Eternel
-est vivant, je ne dirai que ce que mon Dieu m’inspirera”.
-   Arrivé auprès du roi il répéta premièrement ce que tous les autres avaient déjà dit. Mais cela,
-même Achab, le plus mauvais roi qu’Israël n’ait jamais eu, le remarqua. Il conjura Michée de dire
-la pure vérité au nom de l’Eternel. Ce faisant, Achab insinuait que ses 400 prophètes l’avaient
-trompés. Il en est de même à notre époque, ce qui importe, ce n’est pas de voir nos doctrines être
-confirmées mais de connaître la volonté de Dieu, car seule la vérité peut nous affranchir. Michée,
-le vrai prophète de Dieu ne pouvait pas prophétiser sur la maison d’Achab le contraire de ce que le
-prophète Elie avait déjà annoncé au nom de l’Eternel. Aujourd’hui de même la parole d’un
-prophète doit concorder avec toutes les paroles des prophètes et des apôtres.
-   Beaucoup n’aiment pas que je cite souvent le frère Branham. Mais qui peut parler du déluge
-sans mentionner Noé? Qui peut prêcher sur l’exode du peuple d’Israël sans nommer Moïse? Qui
-peut parler de la préparation du chemin du Seigneur et oublier Jean? En ces temps-ci nous allons
-au-devant d’un événement décisif. Dieu n’a pas dévié de ses principes, mais à nouveau Il confie
-ses desseins à UN homme, non pas à un groupe. Il ne fait rien sans le révéler auparavant à Ses
+LA MISSION DE FRERE BRANHAM
 
-        http://www.cmpp.ch
+Celui qui a assisté aux conférences de frère Green les semaines passées, se souviendra qu’il démontra par les Ecritures que frère Branham était un prophète de Dieu, qui devait venir avant le grand et terrible jour de l’Eternel, comme il est écrit. Maintenant, il est de mon devoir à mon tour de le prouver par les Ecritures.
+
+Il est écrit dans Malachie 4.5: “Je vous enverrai Elie, le prophète avant que le grand et terrible jour de l’Eternel arrive”. Nous avons tous admis, je suppose, que ce passage de la Bible concerne Jean-Baptiste. Pourtant nous devons reconnaître que le grand et terrible jour de l’Eternel ne s’est pas accompli sitôt après le service de Jean, ni jusqu’à présent, voici bientôt 2 000 ans. Paul dit dans 2 Thessaloniciens 2.2: “Ne vous laissez pas si promptement troubler l’esprit, ni alarmer par une prétendue inspiration, par quelque parole ou quelque lettre qui nous serait attribuée, comme si le jour du Seigneur était arrivé”. Qu’est-ce que le jour de l’Eternel? Dieu promet dans les Ecritures qu’Il nous enverra un prophète avant le jour grand et redoutable du Seigneur. Cependant, nous pouvons voir qu’à la venue de Jean, c’est le jour du salut et de la grâce qui commença (comme il est écrit dans l’Ancien et le Nouveau Testament), et non pas le jour terrible et redoutable de l’Eternel: donc cette parole ne fut pas accomplie dans la vie de Jean. Les prophètes écrivirent au sujet du jour du Seigneur. Voici seulement quelques passages: Ésaïe 13.6 et 9: “Lamentez-vous! Car le jour de l’Eternel est proche: il vient, comme un fléau déchaîné par le Tout-Puissant. — Oui, le jour de l’Eternel arrive, jour cruel, jour de fureur et d’ardente colère, qui réduira la terre en désert et en exterminera les pécheurs”. Dans Joël nous trouvons même écrit ce qui arrivera avant le jour de l’Eternel (Joël 2.31): “Le soleil sera changé en ténèbres, et la lune en sang, avant que vienne le grand et terrible jour de l’Eternel”. Comparez ce texte avec Apocalypse 6.12, car le jour de l’Eternel tombe sur le passage relatif au 6ème sceau. Le 5ème sceau concerne le meurtre de 6 millions de Juifs dans la deuxième guerre mondiale, comme frère Branham en fut instruit par Dieu. Ainsi nous nous tenons tout près de la fin du temps de la grâce. Au moment de l’enlèvement le jour du salut et de la grâce prend fin, et le jour de la colère et de la rétribution commence. Pierre écrit dans 2 Pierre 3.10 ceci: “Cependant, le jour du Seigneur viendra comme un voleur. Alors les cieux passeront avec fracas, les éléments embrasés se dissoudront et la terre, avec les oeuvres qu’elle renferme, sera consumée”. Malachie 4.1 le voit avec la même exactitude: “Car voici le jour vient, ardent comme une fournaise…”.
+
+Paul aussi nous donne une information au sujet de ce jour dans 1 Thessaloniciens 5.2: “car vous savez fort bien vous-mêmes que le jour du Seigneur viendra comme un voleur dans la nuit”. Au quatrième verset du même chapitre il dit: “Mais vous, frères, vous n’êtes pas dans les ténèbres; de sorte que ce jour-là ne vous surprendra pas comme un voleur”. De ces paroles il ressort clairement que ceux qui marchent dans la lumière de la Parole de Dieu seront éclairés par elle et reconnaîtront l’oeuvre de Dieu. Tous les autres seront surpris, mais pas les élus, car à eux le Seigneur révèle Sa volonté! Ainsi voyons-nous le complet accord du témoignage des saintes Ecritures relatifs au jour du Seigneur, avant lequel Dieu voulut envoyer le prophète Elie.
+
+Revenons maintenant à Jean, la Bible en main, et voyons quels sont les passages qui le concernent (Ésaïe 40.3 et Malachie 3.1). Ils sont en rapport avec Matthieu 3.3: “C’est de lui qu’Esaïe le prophète a parlé, quand il a dit: Une voix crie dans le désert: Préparez le chemin du Seigneur; aplanissez ses sentiers”. Jésus Lui-même témoigne qu’il est bien l’homme selon Malachie 3.1 et lisons dans Matthieu 11.10: “C’est celui dont il est écrit: Voici que j’envoie mon messager devant ta face, pour préparer ton chemin devant toi”. Nous lisons la même chose dans Marc 1.1-3 et dans Luc 3.3-6. Celui qui le veut, peut déjà voir que les deux passages concernent Jean, mais non pas le passage de Malachie 4.5.
+
+Il n’existe qu’un seul passage qui parle textuellement de l’envoi d’Elie et c’est celui-là. Chacun doit reconnaître que c’est avant le jour du salut et de la grâce que Jean est venu pour préparer le chemin du Seigneur. Lui-même en donna un clair témoignage quand il fut questionné à ce sujet, attestant qu’il n’était pas l’Elie du passage de Malachie 4.5. Lisons aussi Jean 1.21,22: “Qui es-tu donc?… lui demandèrent-ils, es-tu Elie? Et il dit: Je ne le suis pas. Es-tu le prophète? Il répondit: Non. Il reprirent: Dis-nous donc qui tu es, afin que nous puissions donner une réponse à ceux qui nous ont envoyés”.
+
+Celui qui ne veut pas estimer Jean menteur doit croire ce qu’il dit, c’est-à-dire qu’il n’est pas le Christ, ni le prophète, et non plus Elie. Alors, on lui posa la question, qui était-il donc. La réponse nous la trouvons dans le 23ème verset: “Je suis la voix qui crie dans le désert: Aplanissez le chemin du Seigneur, comme l’a dit le prophète Esaïe”. Jean savait exactement qui il était et quels passages bibliques se référaient à lui. Maintenant nous arrivons à cette question, pourquoi Jean fut-il aussi nommé Elie. Lisons les paroles de l’ange qui s’adressait à Zacharie. Luc 1.16,17: “Il convertira plusieurs des fils d’Israël au Seigneur, leur Dieu; et lui-même marchera devant le Seigneur, dans l’esprit et avec la puissance d’Elie, pour ramener les coeurs des pères vers les enfants, et les rebelles à la sagesse des justes, afin de préparer au Seigneur un peuple bien disposé”. Ici l’ange dit que Jean viendra dans l’esprit et la force d’Elie pour tourner les coeurs des pères vers les enfants, mais il ne dit pas qu’il ramènera le coeur des enfants à leurs pères. Pourtant dans Malachie 4.5 il est dit: “Je vais vous envoyer Elie, le prophète, avant que vienne le jour grand et redoutable de l’Eternel. Il ramènera le coeur des pères à leurs enfants, et le coeur des enfants à leurs pères”.
+
+Ici se retrouve le mystère analogue à celui d’Ésaïe 6.1,2 cité à nouveau dans Luc 4.19, verset au milieu duquel le Seigneur s’arrête de lire. Pourquoi ne lut-Il pas aussi le passage relatif au jour de la vengeance qui se trouve pourtant dans le même verset? Certainement chacun sait que la première partie concerne Sa première venue, mais que la deuxième partie concerne Sa seconde venue. Exactement de la même manière l’écriture s’accomplit sous nos yeux en ce jour. La première partie de Malachie se rapportait à Jean car il tourna les coeurs des pères de l’Ancien Testament à la doctrine des enfants du Nouveau Testament. L’Elie qui doit venir avant la deuxième venue du Seigneur à la tâche de tourner à la fin de cette époque les coeurs des enfants de Dieu vers les pères apostoliques.
+
+Nous arrivons maintenant à Matthieu 17.11 où Jésus dit clairement qu’Elie doit venir, quoique Jean fût là depuis longtemps. Il répondit: “Il est vrai qu’Elie doit venir et rétablir toutes choses”. Cette phrase se réfère à l’avenir et concerne Malachie 4.5. Cependant, parce que Jean vint dans l’esprit et la force d’Elie, Jésus dit: “Mais je vous dis qu’Elie est déjà venu, et ils ne l’ont pas reconnu… Alors les disciples comprirent que c’était de Jean-Baptiste qu’il leur parlait” (Mat. 17.15). Par quoi le prophète Elie se distinguait-il donc? Par la parole et l’esprit et par de puissants miracles. Pouvez-vous voir maintenant pourquoi l’ange a dit que Jean viendrait dans l’esprit et la puissance d’Elie? Jean avait la parole pour ce temps-là et il était rempli du Saint-Esprit dès sa naissance, mais il ne fit aucun miracle. Mais Elie fit des miracles. Ainsi est justifiée la sagesse de Dieu. Frère Branham comme l’Elie paraissant avant la deuxième venue du Seigneur fut comme Jean dès sa naissance sous la grâce de Dieu et appelé. Il vint avec la parole et l’esprit d’Elie opérant des prodiges et de puissants miracles.
+
+Avant la deuxième venue du Seigneur se répète ce qui arriva avant Sa première venue, un homme vint, duquel il est dit qu’il fut plus qu’un prophète. Matthieu 11.9. Pour cette raison nous comprenons aussi pourquoi lors du baptême dans le fleuve Ohio en juin 1933, se répéta pour frère Branham ce qui est arrivé pour Jean au Jourdain. De même que Jean était debout dans l’eau et baptisait, lorsque le signe descendit du ciel et la voix se fit entendre.
+
+En avril de cette année j’ai encore rencontré des gens qui étaient présents en juin 1933 lorsque cette puissante lumière descendit et que la voix retentit: «De même que Jean précéda ma première venue, ainsi tu précèdes ma deuxième venue…». Moi-même je m’en fus à l’endroit du fleuve Ohio où cela arriva.
+
+Maintenant retournons à la mission divine confiée à ce prophète, la mission qu’il devait exécuter pour le rétablissement de toutes choses (Marc 9.12). Dans les assemblées du plein évangile, on a souvent mentionné la parole du prophète Joël se rapportant au rétablissement de toutes choses (Joël 2.25). A ce sujet on est pleinement d’accord que l’Eglise doit être rétablie, comme elle l’était au commencement à la Pentecôte. Dans les Actes 3.21 il est dit de Jésus: “que le ciel doit recevoir jusqu’aux temps du rétablissement de toutes choses dont Dieu a parlé par la bouche de ses saints prophètes…”. Ici nous avons la preuve que Jésus et Pierre aussi parlaient du rétablissement de l’ordre divin dans l’Eglise selon le modèle primitif. De cette manière s’opérerait le rétablissement. Tous deux diront les choses après que l’oeuvre de Jean fut terminée, donc il ne pouvait pas être l’Elie qui devait tout rétablir. C’est pourquoi il est important d’écouter la Parole de Dieu, telle qu’Il l’a révélée à Son prophète dans ces derniers temps, selon laquelle tout doit être réparé et rétabli.
+
+JANVIER 1967
+Deuxième suite
+
+Cordialement je vous salue tous au nom du Seigneur avec cette parole de 1 Chronique 29.11:
+
+> “A toi, ô Eternel, la grandeur, la force et la magnificence l’éternité et la splendeur; car tout ce qui est dans les cieux et sur la terre t’appartient”.
+
+Je suis fortement impressionné par les échos du message du Seigneur, car de l’Est à l’Ouest, du Sud au Nord de notre pays, ainsi qu’en Suisse et en Autriche, la Parole du Seigneur a été très appréciée et bien accueillie. Nous voyons s’accomplir textuellement cette vérité: la Parole de Dieu ne retourne pas à vide, mais exécute ce qu’elle était destinée à accomplir. On a l’impression que des milliers ont attendu avec un ardent désir d’entendre un tel message. Quant à moi, ma foi est fortifiée particulièrement quand je lis chaque jour des piles de lettres qui expriment la reconnaissance des gens. En effet, j’avais quelqu’appréhension que les gens ne puissent assimiler cette forte nourriture spirituelle et comprendre les profonds mystères de Dieu révélés au frère Branham. Ne peuvent les comprendre que ceux à qui Il les révèle. Paul, ce grand homme de Dieu écrit dans Colossiens 2.2,3: “… afin que leurs coeurs soient consolés et qu’ils soient unis dans la charité, pour être enrichis d’une pleine certitude de l’intelligence, de manière à connaître le mystère de Dieu, le Christ”. Il est bouleversant de voir de quelle manière Dieu le Seigneur a révélé le mystère de Sa divinité à Son serviteur et prophète, ainsi qu’il l’est présenté dans le livre de frère Branham «Exposé sur les sept âges de l’Eglises». Oui, le mystère de Dieu est auprès de ses saints.
+
+Dans cette suite, je veux rapidement expliquer comment je suis arrivé à diffuser le message apporté par frère Branham dans son ministère. J’ai entendu frère Branham pour la première fois en 1955 à Karlsruhe. Là, je fus témoin de la puissance par laquelle Dieu confirme Sa parole au moyen des signes qui l’accompagnent et cela je ne l’avais jamais vu auparavant. Je fus convaincu qu’ici un homme de Dieu parlait avec pleine autorité divine par l’oeuvre de Dieu. Les années suivantes nous les avons passées de l’autre côté de l’océan et eûmes l’occasion de faire plus ample connaissance avec frère Branham ainsi qu’avec sa famille. Depuis 1958 je sais qu’il n’avait pas seulement un ministère d’évangéliste pour ce monde, mais celui de prophète de Dieu pour la préparation et le perfectionnement de l’Eglise.
+
+Le 2 avril 1962, j’entendis la voix du Seigneur. Je veux faire remarquer que j’entendais cette voix avec mes oreilles tout naturellement et non pas avec mon coeur, mon âme ou mon esprit, comme si le Seigneur se tenait à trois mètres de moi. Il parla d’une voix forte mais ne sonnant pas comme une trompette, disant les mots suivants: «Mon serviteur, ton temps dans cette ville est bientôt écoulé, je t’enverrai dans d’autres villes pour annoncer ma parole». Ensuite, je me vis debout en dehors de mon corps et je dis: «Seigneur, on ne m’écoutera pas. Ils vivent dans les excès et possèdent tout en surabondance».
+
+Après quoi le Seigneur me répondit: «Mon serviteur, le temps vient où ils t’écouteront. Une grande famine arrive. Faites des provisions, car tu dois être au milieu du peuple et lui distribuer de la nourriture». Le Seigneur me donna encore quelques détails qui ne concernent que moi. Je ne puis décrire quelle autorité et quelle assurance il y avait dans cette voix. Je me disais: «Si cette voix retentit encore une fois, la terre entière s’immobilisera». Je ne vis ni lumière ni forme.
+
+Dans le courant de l’année 1962, mon désir de savoir exactement ce qui devait arriver devenait toujours plus fort. Je priai Dieu et résolus de m’ouvrir à frère Branham à ce sujet. Au mois de décembre 1962, je m’envolai de l’autre côté et pus le rencontrer. Nous étions assis avec 4 frères autour d’une table. Frère Sothmann et frère Woods étaient l’un vis-à-vis de l’autre et frère Branham vis-à-vis de moi. Après qu’il nous eut parlé un bon moment je devins un peu impatient, car cette question brûlait dans mon coeur. Toute autre chose ne m’intéressait pas en ce moment. J’interrompis: «Frère Branham, je voudrais te demander quelque chose…» je ne pus continuer car il disait: «Dois-je te dire ce que le Seigneur t’a dit?». J’étais assis là, j’écoutais et n’osais en croire mes oreilles lorsqu’il répéta tout mot pour mot, phrase après phrase dans leur suite exacte. Et non seulement cela mais il révéla les pensées de mon coeur, car je pensais qu’une famine terrestre passerait à travers le pays pour humilier les hommes. Mais frère Branham dit: «Frère Frank, la faim dont il s’agit n’est pas une faim physique. Non il viendra une grande faim de la vraie Parole de Dieu. La nourriture dont vous devez vous inquiéter sont les bandes d’enregistrement, sur lesquelles la parole est inscrite. Avant de commencer la distribution attendez jusqu’à ce que vous ayez reçu le solde des aliments».
+
+Jésus disait à ceux qui avaient cru: “Si vous demeurez dans ma parole, vous êtes véritablement mes disciples; vous connaîtrez la vérité et la vérité vous affranchira” (Jean 8.31,32). Jésus dit aussi: “Celui qui est issu de Dieu écoute les paroles de Dieu” (Jean 8.47). La question se pose maintenant, qu’est-ce que la vérité? La réponse valable éternellement déclare: “La Parole de Dieu est la vérité”.
+
+Personne encore ne prévoyait de quelle manière le Seigneur exécuterait ce que disait le frère Branham. Pour moi, c’est une chose certaine depuis que nous avons reçu les derniers enregistrements des prédications de frère Branham, le temps de la distribution n’est pas éloigné. Aussi le Seigneur se chargera-t-il d’ouvrir d’autres portes dans d’autres villes afin que beaucoup encore entendent la véritable Parole de Dieu. Selon l’ordre divin, je parlerai prochainement dans différentes villes.
+
+Nous vivons l’époque dans laquelle la gloire du Seigneur est rétablie parmi ses saints. Il est la tête de son Eglise, ainsi que Paul le dit souvent. Celui qui fait partie de son Eglise doit laisser le Seigneur décider et agir selon son plan établi.
+
+Nous terminions dans la dernière brochure avec la mission de frère Branham qui, en tant que prophète de Dieu, selon les Ecritures doit amener le rétablissement de toutes choses. A ce sujet nous lisons dans Jean 1.6,7: “Il y eut un homme envoyé de Dieu dont le nom était Jean. Il vint pour être témoin, pour rendre témoignage à la lumière, afin que, par lui, tous fussent amenés à la foi”. C’était quelque chose d’extraordinaire. UN homme apparut. Pas un groupe d’hommes mais UN homme envoyé de Dieu, au sujet duquel nous lisons que par lui tous devaient arriver à la foi. Vous pouvez bien juger de l’appréciation des scribes du fait que ce n’était pas eux, en tant que confrérie, qui avaient reçu cette mission, mais UN homme. Ainsi en fut-il de tout temps. C’est à UN homme que Dieu révéla qu’Il voulait détruire la terre par l’eau. UN homme avait la mission de conduire le peuple d’Israël hors de l’Egypte. UN homme savait qu’il ne devait pas pleuvoir pendant 3½ ans. Nous pourrions continuer ainsi en parlant des prophètes de Dieu et des apôtres du Seigneur.
+
+Nous avons un exemple dans les Ecritures qui illustre le fait particulièrement. Je voudrais le relever ici. Il s’agit du prophète Michée. Pour obtenir la compréhension exacte de la relation avec ce sujet veuillez lire tout le chapitre de 2 Chronique 18. Achab avait l’intention d’aller à la guerre avec Josaphat. Lorsque Josaphat voulut connaître la volonté de Dieu en cette matière, Achab fit venir 400 prophètes. Ceux-ci promirent le succès au roi et approuvèrent son projet. Mais Josaphat demanda: “N’y a-t-il pas encore un autre prophète par lequel nous pourrions être renseignés?”. Ne dirions-nous pas qu’une telle question est ridicule? N’est-il pas suffisant qu’il y en ait 400 qui sont unanimes à prédire la même chose? Et pourtant nous pouvons reconnaître de façon évidente que dans ce cas, il n’en est pas ainsi.
+
+Achab répondit à Josaphat: “Oui, il y en a encore un que nous pouvons consulter, mais je n’aime pas avoir à faire avec lui, car il ne prend jamais mon parti. C’est Michée”. Mais Josaphat voulut entendre Michée, ainsi on envoya un messager le chercher. Nous constatons donc que Michée était un “franc-tireur” et ne s’était pas allié au groupe des 400.
+
+Lorsque le messager arriva auprès de Michée il lui dit: “Les prophètes sont tous d’un même avis et, d’un même accord prédisant la chance au roi, donc mets-toi de leur côté”. Le messager essaya d’engager Michée à dire la même chose que le groupe des prophètes. Encore aujourd’hui on a la tendance de s’attendre de la part d’un vrai prophète de Dieu qu’il s’accorde avec la foi et les enseignements d’une organisation religieuse. Mais Michée répondit: “Aussi vrai que l’Eternel est vivant, je ne dirai que ce que mon Dieu m’inspirera”.
+
+Arrivé auprès du roi il répéta premièrement ce que tous les autres avaient déjà dit. Mais cela, même Achab, le plus mauvais roi qu’Israël n’ait jamais eu, le remarqua. Il conjura Michée de dire la pure vérité au nom de l’Eternel. Ce faisant, Achab insinuait que ses 400 prophètes l’avaient trompés. Il en est de même à notre époque, ce qui importe, ce n’est pas de voir nos doctrines être confirmées mais de connaître la volonté de Dieu, car seule la vérité peut nous affranchir. Michée, le vrai prophète de Dieu ne pouvait pas prophétiser sur la maison d’Achab le contraire de ce que le prophète Elie avait déjà annoncé au nom de l’Eternel. Aujourd’hui de même la parole d’un prophète doit concorder avec toutes les paroles des prophètes et des apôtres.
+
+Beaucoup n’aiment pas que je cite souvent le frère Branham. Mais qui peut parler du déluge sans mentionner Noé? Qui peut prêcher sur l’exode du peuple d’Israël sans nommer Moïse? Qui peut parler de la préparation du chemin du Seigneur et oublier Jean? En ces temps-ci nous allons au-devant d’un événement décisif. Dieu n’a pas dévié de ses principes, mais à nouveau Il confie ses desseins à UN homme, non pas à un groupe. Il ne fait rien sans le révéler auparavant à Ses serviteurs les prophètes.
 
 LA PAROLE DE DIEU DEMEURE ETERNELLEMENT 11
 serviteurs, les prophètes (Amos 3.7). Puisque le mystère de Dieu arrive dans notre temps à son
@@ -693,9 +383,9 @@ Ensuite depuis Christ jusqu’à nos jours nous avons bientôt 2 000 ans, ensemb
 6 000 ans. Le septième millénaire sera le jour de repos de l’Eternel, le règne de mille ans. Il est
 aussi écrit: à cause des élus, les jours seront abrégés. Nous en pouvons déduire que ce siècle ne
 sera pas complètement écoulé avant le retour de Jésus-Christ. Cela correspond à ce que frère
-Branham vit en 1933. Quoiqu’il en soit, il est plus tard qu’on l’admet généralement. Nous ne disons
-pas cela pour établir une spéculation sur le temps et l’heure, mais seulement pour secouer le
-peuple de Dieu et le réveiller. D’après les saintes Ecritures, tous s’endormirent, mais alors à minuit
+Branham vit en 1933. Quoiqu’il en soit, il est plus tard qu’on l’admet généralement. Nous ne
+disons pas cela pour établir une spéculation sur le temps et l’heure, mais seulement pour secouer
+le peuple de Dieu et le réveiller. D’après les saintes Ecritures, tous s’endormirent, mais alors à minuit
 retentit le cri: “L’époux arrive, préparez-vous pour aller à sa rencontre”. Très peu, si nous prenons
 en considération la masse des croyants, se rendent compte que cette parole se réalise sous leurs
 yeux. Pourtant frère Branham a fait un appel puissant en élevant sa voix comme une trompette à
@@ -704,7 +394,7 @@ travers le monde: “Voici l’époux, préparez-vous”.
 observer que toutes les décisions dans ces temps-ci, qu’elles soient d’ordre social ou politique,
 sont prises pour s’adapter au programme fixé des derniers temps. C’est pourquoi dans toutes les
 églises, églises libres, assemblées et communautés chrétiennes, l’heure de la décision arrive —
-oui, elle est déjà là à savoir si elles marchent avec l’église du monde ou non. Cela voudra dire faire
+ oui, elle est déjà là à savoir si elles marchent avec l’église du monde ou non. Cela voudra dire faire
 partie de l’église unie, celle voulue de Dieu et celle pour laquelle Jésus a prié: “afin que tous soient
 un”. Vous pourrez dire qu’il y aura deux sortes d’unités. L’une, celle de Dieu avec Christ comme
 chef, l’autre celle du diable avec l’antichrist comme chef suprême. Il me semble que la plupart ne
@@ -756,7 +446,7 @@ sous une forme saisissable par l’intelligence, conception à laquelle tous dev
 de Dieu doit revenir à la conception biblique de Dieu comme au début. Malheureusement même
 les enfants de Dieu n’ont pas remarqué qu’ils se représentent Dieu sous la forme que les hommes
 ont conçue. La divinité est le plus grand mystère. Personne ne connaîtra Dieu, si cela ne lui
-a pas été révélé par l’Esprit et par la parole. Celui qui ne s’approche pas de Dieu dans l’humilité
+ a pas été révélé par l’Esprit et par la parole. Celui qui ne s’approche pas de Dieu dans l’humilité
 avec un coeur contrit dans la prière, aura de la peine de pénétrer dans les mystères de Dieu.
    Nous voulons maintenant rapidement considérer quelques principes. Premièrement nous
 devons savoir que Dieu dans Sa Parole ne se reprend ni ne se contredit et que l’Ancien et le
@@ -802,7 +492,7 @@ comme homme avec le nom de Jésus, nom qui signifie “Jehova est salut”. Il e
 avec nous. Paul le résume ainsi: “Dieu a été manifesté en chair, justifié par l’Esprit, vu des anges,
 prêché aux gentils dans le monde, élevé dans la Gloire” (1 Timothée 3.16). Déjà dans le Psaumes 47.6 il
 est dit que Dieu monte au ciel au milieu des cris de triomphe. Paul dit dans Romains 9.5: “… qui
-descendent des patriarches et desquels est issu selon la chair le Christ, qui est au-dessus de tous,
+ descendent des patriarches et desquels est issu selon la chair le Christ, qui est au-dessus de tous,
 Dieu béni éternellement”. Amen.
    N’est-il donc pas facile à comprendre, que le Dieu unique s’est révélé comme Père, Fils et
 Saint-Esprit? En tant que père, Dieu était au-dessus de nous; dans le Fils, le même Dieu était parmi
@@ -1045,7 +735,7 @@ beaucoup de vrais enfants de Dieu qui sont liés. Mais le Seigneur qui envoya le
 délivrance au peuple d’Israël en Egypte est le même qui les envoie aujourd’hui. L’ordre de Dieu
 proclame: “Laissez partir mon peuple”.
 
-   Oui, le Seigneur peut ouvrir les assemblées qui sont fermées comme des prisons. Quand Il
+Oui, le Seigneur peut ouvrir les assemblées qui sont fermées comme des prisons. Quand Il
 envoie Sa parole, la porte s’ouvre au large et tous ceux qui sont enchaînés dans les cachots
 peuvent sortir librement. Voici le temps de la complète délivrance du règne de l’homme pour entrer
 dans la liberté du Saint-Esprit. Par la division entre les différentes communautés, les enfants de
@@ -1064,7 +754,6 @@ Ce n’est que par l’unité de la Parole qu’on arrive à l’unité de la co
 Frère Branham n’avait pas d’autre choix que de démontrer les erreurs non bibliques dans les
 assemblées par la Parole de vérité afin qu’aussi dans ces temps, un peuple soit sanctifié, car il est
 dit: “Sans la sanctification, personne ne verra le Seigneur” (Hébreux 12.14).
-
 
     http://www.cmpp.ch
 
@@ -1200,8 +889,8 @@ comment se fait-il qu’ils n’ont pas même assez de l’Esprit de Dieu pour r
 que Dieu a accomplie est absolument biblique, et que la prédication doit être basée sur l’ensemble
 du témoignage des Ecritures. C’est ici que tombe le masque: l’envie, la jalousie et toutes sortes de
 calomnies transparaissent chez eux. Cela démontre précisément l’esprit qui les anime. Hélas, qu’il
-est grand le propre moi qui se cache derrière les oeuvres de piété! Mais le peuple de Dieu
-continue sa route, sans se laisser détourner.
+est grand le propre moi qui se cache derrière les oeuvres de piété! Mais le peuple de Dieu continue
+sa route, sans se laisser détourner.
    Dieu a donné ce message pour que le peuple de Dieu soit soustrait des conflits atteignant la
 Babylone. Puisque Dieu a donné ce message, il est alors grand temps que nous obéissions à cet
 appel. Nous voyons que toutes les dénominations ont gardé certaines particularités de l’église
@@ -1526,15 +1215,13 @@ un chemin à lui-même, mais au contraire, selon les Saintes Ecritures, son mini
 ramener le peuple à l’obéissance de Son Dieu. La bénédiction ne se trouve que dans l’obéissance,
 car celle-ci vaut mieux que les sacrifices. Nous vivons dans un temps où chacun prétend prêcher
 conformément à la Bible. Chaque prédicateur, chaque mouvement religieux est convaincu
-d’interpréter correctement la Parole de Dieu. Pourtant, cette hypothèse ne se justifie que
+ d’interpréter correctement la Parole de Dieu. Pourtant, cette hypothèse ne se justifie que
 lorsqu’après un profond examen à la lumière des Saintes Ecritures, il est prouvé qu’aucune
 déviation de la Parole de Dieu ne s’est produite. Il est particulièrement utile de considérer cette
 parole de 2 Pierre 1.20:
       “Sachant tout d’abord vous-mêmes qu’aucune prophétie de l’Ecriture ne peut être un objet
 
-    http://www.cmpp.ch
-
-    LA PAROLE DE DIEU DEMEURE ETERNELLEMENT    28
+LA PAROLE DE DIEU DEMEURE ETERNELLEMENT    28
    d’interprétation particulière, car ce n’est pas par une volonté d’homme qu’une prophétie a
    jamais été apportée, mais c’est poussés par le Saint-Esprit que des hommes ont parlé de la
    part de Dieu”.
@@ -1718,7 +1405,7 @@ Saintes Ecritures, selon le modèle de l’Eglise primitive. Pourtant, de même 
 ne sont pas retournés en Palestine mais seuls les élus, ainsi en est-il de la masse des enfants de
 Dieu qui, pour la plupart, restent dans leurs organisations. Cependant, les élus entendent l’appel.
 — «Que le nom du Seigneur en soit béni!» — Aussi sûr que Dieu ne se révélera qu’aux Israélites
-rentrés dans leur pays, aussi certains pouvons-nous être qu’Il ne se révèlera qu’aux enfants de
+rentrés dans leur pays, aussi certains pouvons-nous être qu’Il ne se révélera qu’aux enfants de
 Dieu obéissants: à ceux qui auront entendu Sa voix et suivi Son appel.
    Il n’y a aucun doute, nous sommes parvenus à la fin du temps des nations. Selon Luc 21.24,
 Jérusalem devait être foulée par les nations jusqu’à ce que les temps des nations soient
@@ -1753,11 +1440,11 @@ merveilleux paradis, rempli d’arbres naturels; pourtant, deux arbres présenta
 exception: “L’un d’eux était l’arbre de vie” qui, selon sa désignation, ne pouvait représenter que le
 Seigneur Lui-même, car c’est de Lui que vient toute vie. Il est la source originelle de toute vie. Ceci
 devrait être l’évidence même. Puis nous voyons l’arbre de la connaissance; c’est par lui
-qu’intervient la mort; celui qui mange de son fruit doit mourir. Nous reconnaissons très bien en
-quoi consiste le véritable contraste entre Dieu et le diable: la vie vient de Dieu, la mort vient du
-diable. En invitant les hommes à désobéir, à transgresser la Parole de Dieu, le diable les fait
-tomber dans le péché et l’aiguillon de la mort les frappe. Seulement, après sa mort à la croix de
-Golgotha, Jésus-Christ, le Fils de Dieu, vainquit la mort et lui enleva son aiguillon (Hébreux 2.14,15).
+qu’intervient la mort; celui qui mange de son fruit doit mourir. Nous reconnaissons très bien en quoi
+consiste le véritable contraste entre Dieu et le diable: la vie vient de Dieu, la mort vient du diable.
+En invitant les hommes à désobéir, à transgresser la Parole de Dieu, le diable les fait tomber dans
+le péché et l’aiguillon de la mort les frappe. Seulement, après sa mort à la croix de Golgotha,
+Jésus-Christ, le Fils de Dieu, vainquit la mort et lui enleva son aiguillon (Hébreux 2.14,15).
 Maintenant, tous les rachetés peuvent s’écrier avec Paul: “La mort a été engloutie dans la
 victoire… O mort, où est ta victoire? O mort, où est ton aiguillon?” (1 Corinthiens 15.54,55). Cette parole
 
@@ -1792,7 +1479,7 @@ du malin? Nous lisons dans 1 Jean 2.13: “… parce que vous avez vaincu le mal
 connu que ce mot désigne le diable, Satan. Il est donc exact que Caïn est issu du malin. Le
 méchant, qui a engendré Caïn est, selon le témoignage des Ecritures, le serpent ancien. Ecoutons
 encore la Parole prononcée par Jésus, dans Matthieu 13.19: “Lorsqu’un homme écoute la parole
-du royaume et ne la comprend pas, le malin vient et enlève ce qui a été semé dans son coeur”. Il
+ du royaume et ne la comprend pas, le malin vient et enlève ce qui a été semé dans son coeur”. Il
 ne peut être question d’Adam dans cette parole, mais bien du malin dont, selon les Ecritures, Caïn
 est le fils. Personne ne peut contester que Dieu ait créé Adam dans une absolue pureté et
 sainteté. D’où Caïn a-t-il donc tiré sa nature? Il était plein d’envie et de jalousie et devint le premier
@@ -2041,7 +1728,7 @@ Cependant, je ne jugeai pas, mais je laissai ce thème de côté pendant trois m
 Bien-aimés frères et soeurs dans le Seigneur, je vous en supplie, au nom de Jésus, ne jugez pas!
 Car celui qui juge ne manque pas habituellement de tomber dans l’orgueil. Faites comme frère
 Branham disait: «Si vous trouvez un noyau dans un gâteau aux cerises, ne jetez donc pas tout le
-gâteau, mais mettez seulement le noyau de côté». La Parole de Dieu ne peut être brisée. Il est
+ gâteau, mais mettez seulement le noyau de côté». La Parole de Dieu ne peut être brisée. Il est
 écrit dans l’épître de Jude, au verset 14, qu’Enoch, le septième depuis Adam, prophétisa sur la
 venue du Seigneur. Celui qui inclut Caïn dans la postérité d’Adam, bien que la Bible ne le
 mentionne nullement, contredit les Ecritures et fait de Jude, et par conséquent du Saint-Esprit, un
@@ -2398,130 +2085,4 @@ notre vie, notre foi est morte, car elle n’a pas d’oeuvres à présenter (Ja
 1 Jean 4.20: “Si quelqu’un dit: J’aime Dieu et qu’il haïsse son frère, c’est un menteur; car, celui qui
 n’aime pas son frère qu’il voit, comment peut-il aimer Dieu qu’il ne voit pas?”. Cette parole aussi est
 éternellement vraie. Ce n’est pas par des déclarations enflammées que nous convaincrons les autres
-de notre amour pour Dieu. Non, notre vie même rend témoignage de ce que nous sommes
-véritablement. Lisons tous attentivement Jacques 3; et celui qui veut avancer sûrement et s’éprouver
-lui-même, qu’il lise 1 Corinthiens 13. Arrêtons-nous à chaque phrase et laissons-nous pénétrer par
-ces exhortations. Puisse le Seigneur opérer tout en tous. Souvent, nous entendons prêcher sur
-Enoch (Hébreux 11.5), qui était agréable à Dieu et qui fut enlevé en un instant. Cependant, si nous
-voulons aussi être enlevés, nous devons, nous aussi, avoir l’approbation de Dieu sur notre
-
-        http://www.cmpp.ch
-
-LA PAROLE DE DIEU DEMEURE ETERNELLEMENT 43
-vie.
-   Oh! Que nous puissions nous écrier avec le prophète: “Eternel, j’ai entendu ce que Tu as
-annoncé, je suis saisi de crainte, Accomplis Ton oeuvre dans le cours des années, ô Eternel”
-(Habacuc 3.2). Au temps de la première venue du Seigneur, ceux qui bâtissaient L’ont rejeté en tant que
-“pierre angulaire”. Il est écrit: “Elle est venue chez les siens, et les siens ne l’ont point reçue”
-(Jean 1.11). C’est le même tableau qui se présente aujourd’hui à nos yeux. Le Seigneur est aussi “la
-pierre du faîte avec des acclamations: Grâce, grâce sur elle!” (Darby). Oui, le Seigneur est le
-premier et le dernier. Il est la pierre angulaire et la pierre du faîte, l’Alpha et l’Oméga, le
-commencement et la fin. En ce temps-là, l’édifice divin commençait à être bâti; maintenant, il
-s’achève. Jamais les hommes n’ont vécu dans un état de péché pareil à celui de la première venue
-du Seigneur. Ils blasphémaient contre Dieu qui se révélait parmi eux en Jésus-Christ. Et, de ce
-temps à nos jours, aucune génération n’a atteint une telle proportion de péché, sinon la nôtre. Mais
-également, Dieu ne s’est jamais manifesté aussi puissamment que dans ce temps-là, sinon dans
-notre génération. Oh! si seulement nous pouvions reconnaître le temps de notre visitation divine. Le
-Seigneur dit, dans Jérémie 8.7: “Même la cigogne connaît dans les cieux sa saison; la tourterelle,
-l’hirondelle et la grue observent le temps de leur arrivée; mais mon peuple ne connaît pas la loi de
-l’Eternel”. N’est-ce pas là un témoignage à la honte du peuple de Dieu, ou quelqu’un veut-il insinuer
-que la Parole de Dieu n’est pas exacte? Dans quelle position se trouve le peuple de Dieu
-aujourd’hui? Sera-t-il entraîné dans la perdition ou sera-t-il édifié et préparé par Dieu pour le jour
-glorieux de l’avènement de notre Seigneur Jésus-Christ? Seul le déchet tombera, mais les élus
-seront conduits et mis à part, car ils entendront la Parole du Seigneur et reviendront à Lui. Ecoutez
-cette lamentation du Seigneur: “Depuis le prophète jusqu’au sacrificateur, tous usent de tromperie. Ils
-pansent à la légère la plaie de la fille de mon peuple. Paix, paix, disent-ils et il n’y a point de paix”
-(Jérémie 8.10,11).
-   Le reproche qu’Il fait aux chefs du peuple, c’est de vouloir guérir superficiellement les plaies de
-Son peuple. Ils promettent la guérison là où elle fait défaut. On peut très bien parler du plein salut, et
-pourtant ces paroles n’auront aucun sens si nous ne recevons pas la Parole que Dieu nous a
-donnée. Puis le prophète s’écrie encore: “Je suis brisé par la douleur de la fille de mon peuple, je
-suis dans la détresse, l’épouvante me saisit. N’y a-t-il point de baume en Galaad? N’y a-t-il point de
-médecin? Pourquoi donc la guérison de la fille de mon peuple ne s’opère-t-elle pas?” (Jérémie 8.21,22).
-Le peuple de Dieu est en droit de connaître la vérité sur sa situation. Nous devons reconnaître de
-quelle hauteur nous sommes tombés. Oui, en effet, la charité d’un grand nombre s’est refroidie, la
-tiédeur et la paresse se sont infiltrées. Cependant, nous voulons reconnaître que le temps est venu
-de retourner au Seigneur. Amos 5.7-10 dit: “O, vous qui changez le droit en absinthe, et qui foulez à
-terre la justice! Ils haïssent celui qui les reprend à la porte, et ils ont en horreur celui qui parle
-sincèrement”. Celui qui est né de Dieu écoute Sa voix; celui qui est de la vérité accepte la vérité. Au
-même chapitre, verset 13, le prophète dit encore: “Voilà pourquoi en des temps comme ceux-ci, le
-sage se tait; car ces temps sont mauvais”. Acceptons donc cet enseignement, afin d’appartenir aux
-sages qui savent se taire tout en écoutant ce que le Seigneur veut leur dire. De nos jours, beaucoup
-de paroles sont prononcées, et combien sont vaines. Ce qui nous manque, c’est de savoir se tenir en
-silence aux pieds de Jésus.
-   Nous devons arriver à croire chaque mot de la Parole de Dieu, tel qu’il est écrit, sans même y
-ajouter la moindre chose. Aujourd’hui, le Seigneur nous adresse ces paroles: “Qui est celui qui
-obscurcit mes desseins par des discours sans intelligence?” (Job 38.2). Si Dieu nous a réellement
-parlé, alors nous ne serons pas trop orgueilleux, et nous reconnaîtrons avec Job: “Oui, j’ai parlé,
-sans les comprendre, de merveilles qui me dépassent, et que je ne conçois pas” (Job 42.3). Oui,
-nous irons encore plus loin. A un réel discernement succédera une réelle repentance. Tel fut le cas
-pour Job, et ainsi en sera-t-il aussi pour nous tous. Job s’écria: “C’est pourquoi je me condamne et je
-me repens sur la poussière et sur la cendre” (Job 42.6).
-   Celui qui rejette le message confié par Dieu à Son serviteur et prophète William Branham, et
-méprise la véritable connaissance de Dieu, blasphème contre Dieu et porte atteinte à Son honneur.
-Celui qui bafoue les vérités de la Bible, tout simplement parce qu’il ne peut les classer selon la
-logique humaine, se moque de la grâce de Dieu et crucifie à nouveau le Fils de Dieu, l’exposant à la
-honte et à l’ignominie. Jusqu’à quand les soi-disant prédicateurs du plein évangile proclameront-ils le
-mensonge pour la vérité et la vérité pour le mensonge? Dieu ne se laisse pas aussi facilement
-détrôner. Il envoya Son prophète pour apporter dans notre temps, au peuple de Dieu, le fondement
-
-        http://www.cmpp.ch
-
-LA PAROLE DE DIEU DEMEURE ETERNELLEMENT 44
-d’une foi biblique. Jamais encore, depuis les temps apostolique, la Parole de Dieu ne fut annoncée
-aussi purement, avec une telle puissance. L’on ne peut pas simplement rejeter un homme que Dieu
-a utilisé pour amener plusieurs millions de pécheurs au Seigneur, par la prédication de l’Evangile de
-Jésus-Christ. Qui veut attribuer cela à Satan, si cet homme a conduit des âmes à Christ et proclamé
-sang de l’Agneau comme seule rançon de notre salut et du pardon de nos péchés? Qui veut
-prétendre que ce que Dieu a fait vient d’en bas, sans se rendre coupable de blasphème contre le
-Saint-Esprit?
-   Chers frères et soeurs, chers amis, il ne s’agit pas ici d’un homme, ou de notre position envers cet
-homme: Il s’agit de Dieu et de Sa Parole qu’Il a mise dans la bouche de Son serviteur et prophète
-pour Son peuple d’aujourd’hui. Quelqu’un veut-il prétendre mieux connaître la Parole de Dieu qu’un
-prophète de Dieu à qui le Seigneur a parlé par quantité de visions et de révélations dès sa tendre
-enfance? Tout s’est révélé cent pour cent exact, et personne sur cette terre ne peut apporter la
-preuve qu’une seule révélation ou prophétie ait failli. Voulons-nous reprocher à Dieu d’avoir manqué
-d’enseigner à Son prophète quelle était la doctrine exacte? Loin de là frère Branham a annoncé la
-Parole de Dieu selon la vérité, en plein accord avec tous les apôtres et les prophètes. Tous ceux qui
-sont sincères et droits doivent le reconnaître. Cependant, parce que les prédicateurs ont adopté
-certaines doctrines, qui s’étaient déjà implantées dans la tradition des Eglises et des communautés,
-et qu’ils les ont reconnues seules valables, ils doivent rejeter comme faux, tout ce qui n’est pas
-conforme à leur confession de foi. Oui, ces prédicateurs qui prêchent une connaissance de Dieu
-traditionnelle, établie par l’Eglise catholique romaine, n’ont pas seulement derrière eux les grandes
-masses du peuple, mais également ce maître qui s’est efforcé de fausser la Parole de Dieu apportée
-aux hommes.
-   L’église du Nouveau Testament nous offre la même image que le peuple d’Israël d’autrefois. Paul
-écrit dans Romains 11.7: “Ce qu’Israël cherche, il ne l’a pas obtenu (dans son ensemble), mais les
-élus l’ont reçu, tandis que les autres ont été endurcis…”. En effet, ce que tout le peuple d’Israël
-désirait acquérir, il n’a pu l’obtenir, mais seulement les élus. Aujourd’hui il en est de même. Beaucoup
-sont appelés, mais il y a peu d’élus; c’est ce que disait déjà nôtre Seigneur Jésus. Tout Israël est
-sorti d’Egypte et eut part aux bénédictions. Tous ont passé par la Mer Rouge, tous ont mangé la
-manne céleste, tous ont bu du rocher spirituel qui les accompagnait et qui était Christ. Nous aurions
-dit: «Mais tout est en ordre!». Cependant, ils périrent en chemin malgré toutes les bénédictions
-visibles au milieu d’eux. Lisez encore à ce sujet 1 Corinthiens 10.1-6, car ces événements sont pour
-nous autant d’exemples pour nous avertir. Celui qui n’a pas été élu dès avant la fondation du monde,
-endurcira son coeur, malgré toutes les bénédictions reçues et il rejettera la Parole que Dieu a
-révélée. Les élus, par contre font partie des vainqueurs mentionnés dans chaque lettre aux églises.
-Le Dieu Tout-Puissant, le Dieu d’Abraham, d’Isaac et de Jacob, le Dieu de tous les prophètes, oui, le
-seul, véritable, Dieu Eternel, qui s’est révélé au milieu de nous en Jésus-Christ Son Fils unique, et
-qui habite en nous par Son Esprit, a envoyé Son serviteur et prophète avec le dernier message qui
-appelle Son Epouse hors de toute organisation, pour la préparer, la mettre à part et la perfectionner.
-Prenons garde de ne pas mépriser Celui qui parle. L’ensemble des évènements de ce monde nous
-indique le proche retour du Seigneur. Nous voulons diriger nos regards tout spécialement sur Israël
-et discerner correctement tous les autres signes des temps. Jérusalem n’est plus piétinée par les
-nations et elle n’est plus partagée. Prenez garde à cela! Tout se prépare, en Palestine, pour le jour
-grand et décisif.
-   En toute humilité, je peux dire que j’ai part à l’un des plus grands privilèges qu’un homme puisse
-avoir en ces temps. J’ai entendu environ 200 prédications de frère Branham, et j’ai pu me faire un
-jugement sur son ministère, sa vocation, et sa manière d’enseigner la Parole. Maintenant qu’il est
-auprès du Seigneur, l’on dépose des fleurs sur sa tombe, mais à mon égard, par méchanceté, l’on
-est prêt à me lapider et me persécuter, parce que je distribue fidèlement les vérités bibliques reçues.
-Néanmoins, c’est bien volontiers que je donne ma vie pour Dieu, si telle est Sa volonté. Celui qui
-pense que j’ajoute, ne serait-ce même qu’un mot, au message de Dieu, qu’il prenne la liberté de lire
-les messages dans l’original anglais. Je les mets bien volontiers à la disposition de quiconque en fait
-la demande, et sur n’importe quel thème qu’il voudra débattre.
-        Agissant de la part de Dieu:
-        Frère Frank
-
-
-    http://www.cmpp.ch
+de notre amour po

@@ -1,552 +1,252 @@
-    SERIE 1 N° 10
+---
+source: "cmpp"
+sermon_id: "serie1no10"
+title: "LE LEVER DU SOLEIL"
+subtitle: "18 avril 1965, matin"
+date: "1965-04-18"
+year: 1965
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "Prédication de Pâques sur la résurrection de Jésus-Christ, présentée comme la puissance qui donne la vie. Branham utilise l'image du lever du soleil pour illustrer la résurrection du Fils de Dieu, qui apporte la vie éternelle à la semence prédestinée. Il relie la résurrection à la confirmation de la Parole de Dieu et à la manifestation du Saint-Esprit dans les derniers jours."
+tags:
+  - "résurrection"
+  - "Pâques"
+  - "soleil"
+  - "Fils de Dieu"
+  - "semence prédestinée"
+  - "Saint-Esprit"
+  - "confirmation"
+persons:
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Enoch"
+  - "Paul"
+  - "Marie de Magdala"
+  - "Marie mère de Jacques"
+  - "Salomé"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Arizona"
+  - "Tucson"
+  - "Sabino Canyon"
+themes:
+  - "résurrection"
+  - "vie éternelle"
+  - "semence prédestinée"
+  - "confirmation de la Parole"
+  - "lever du soleil"
+  - "Fils de Dieu"
+  - "Saint-Esprit"
+pdf_url: "http://cmpp.ch/serie1no10.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 4"
+  - "Actes 10"
+  - "Actes 19"
+  - "Apocalypse 1"
+  - "Hébreux 13"
+  - "Jean 14"
+  - "Jean 5"
+  - "Luc 17"
+  - "Luc 24"
+  - "Malachie 4"
+  - "Marc 16"
+  - "Matthieu 27"
+  - "Romains 8"
+  - "Ésaïe 3"
+---
+SERIE 1 N° 10
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
+LE LEVER DU SOLEIL
+(It is the Rising of the Sun)
 
-
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
-    LE LEVER DU SOLEIL
-    (It is the Rising of the Sun)
-
-
-
-      18 avril 1965, matin
-       Branham Tabernacle
+18 avril 1965, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    LE LEVER DU SOLEIL    2
-
-       LE LEVER DU SOLEIL
+LE LEVER DU SOLEIL
 
 (La Puissance qui donne la Vie)
 
- (It is the Rising of the Sun)
+(It is the Rising of the Sun)
 
-
-      18 avril 1965, matin
-       Branham Tabernacle
+18 avril 1965, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+Inclinons nos têtes.
+Seigneur, alors que nous sommes réunis en ce beau matin de Pâques, voyant les bourgeons s’épanouir, les abeilles voler à la recherche de leur nourriture, les oiseaux chanter comme si leur coeur allait éclater de joie parce qu’il y a un jour de Pâques, nous croyons que Tu as ressuscité Jésus d’entre les morts il y a de nombreuses années, et nous célébrons aujourd’hui ce jour mémorable.
+Et qu’aujourd’hui soit célébrée parmi nous une véritable fête de Pâques! Puissions-nous, en tant que Ses serviteurs, comprendre Sa Parole, car nous avons eu communion avec Lui, et maintenant que nous sommes ressuscités avec Lui, puissions-nous nous retrouver avec Lui dans les lieux célestes.
+Bénis le service ici dans ce tabernacle, et aussi dans toutes les régions où il est transmis par téléphone.
+Guéris les malades et les affligés. Que cette fête de Pâques soit pour eux aussi un exode de la maladie vers la force et la santé. Et que ceux qui sont morts à cause du péché et des transgressions puissent recevoir la Vie par Christ. Nous Te donnons gloire et louange, car nous le demandons en Son Nom. Amen.
 
+Quel merveilleux privilège c’est pour moi de me retrouver ici ce matin à Jeffersonville, Indiana, avec cette grande assemblée, cette église pleine à craquer, ces gens ici debout, et ceux qui sont dehors sur les terrains avoisinants. Vous tous qui écoutez par téléphone dans tout le pays, sachez que nous vivons ici une magnifique journée qui s’annonce.
 
+A cinq heures ce matin, mon petit ami le rouge-gorge est venu sur le bord de ma fenêtre, et m’a réveillé. C’est comme si son petit coeur éclatait de joie en chantant: «Il est ressuscité!».
 
-   Inclinons nos têtes.
-   Seigneur, alors que nous sommes réunis en ce beau matin de Pâques, voyant les bourgeons
-s’épanouir, les abeilles voler à la recherche de leur nourriture, les oiseaux chanter comme si leur
-coeur allait éclater de joie parce qu’il y a un jour de Pâques, nous croyons que Tu as ressuscité
-Jésus d’entre les morts il y a de nombreuses années, et nous célébrons aujourd’hui ce jour
-mémorable.
-   Et qu’aujourd’hui soit célébrée parmi nous une véritable fête de Pâques! Puissions-nous, en
-tant que Ses serviteurs, comprendre Sa Parole, car nous avons eu communion avec Lui, et
-maintenant que nous sommes ressuscités avec Lui, puissions-nous nous retrouver avec
-Lui dans les lieux célestes.
-   Bénis le service ici dans ce tabernacle, et aussi dans toutes les régions où il est transmis par
-téléphone.
-   Guéris les malades et les affligés. Que cette fête de Pâques soit pour eux aussi un exode de la
-maladie vers la force et la santé. Et que ceux qui sont morts à cause du péché et des
-transgressions puissent recevoir la Vie par Christ. Nous Te donnons gloire et louange, car nous
-le demandons en Son Nom. Amen.
-   Quel merveilleux privilège c’est pour moi de me retrouver ici ce matin à Jeffersonville, Indiana,
-avec cette grande assemblée, cette église pleine à craquer, ces gens ici debout, et ceux qui sont
-dehors sur les terrains avoisinants. Vous tous qui écoutez par téléphone dans tout le pays, sachez
-que nous vivons ici une magnifique journée qui s’annonce.
-   A cinq heures ce matin, mon petit ami le rouge-gorge est venu sur le bord de ma fenêtre, et m’a
-réveillé. C’est comme si son petit coeur éclatait de joie en chantant: «Il est ressuscité!».
-   J’ai toujours pensé que si ce petit oiseau est mon ami, c’est parce que je l’aime. Il y a une
-légende au sujet du rouge-gorge. On dit qu’un de ces oiseaux Le vit souffrir sur la croix où Il avait
-été cloué à cause du péché. Bien sûr, le petit oiseau n’avait aucun péché; il n’était pas nécessaire
-qu’Il meure pour ce petit oiseau; mais l’oiseau s’envola vers la croix, et essaya d’arracher les clous
-avec son petit bec, et c’est ainsi que sa gorge se teinta de rouge. Et moi aussi, je voudrais être
-comme cela, avoir ce bouclier sanglant qu’il reçut lorsqu’il essaya de Le protéger, lors de Sa mort
-glorieuse.
-   Sachant combien notre temps est limité, et ceci spécialement pour ceux de nos amis qui nous
-écoutent par téléphone, je voudrais ce matin attirer votre attention sur l’image d’une vision qui a
-été photographiée, vision que j’eus ici dans le tabernacle, alors que je m’apprêtais à quitter
-l’Indiana pour l’Arizona. Je rencontrai sept anges, disposés en forme de pyramide. Ne sachant pas
-ce qui allait arriver, lorsque plus tard j’allai là-bas, pensant que ma vie était arrivée à son terme, et
-que personne ne pourrait supporter le choc de l’explosion… (je pense que vous connaissez tous
-cette histoire). Ensuite, alors qu’un matin comme aujourd’hui, j’étais en train de prier dans le
+J’ai toujours pensé que si ce petit oiseau est mon ami, c’est parce que je l’aime. Il y a une légende au sujet du rouge-gorge. On dit qu’un de ces oiseaux Le vit souffrir sur la croix où Il avait été cloué à cause du péché. Bien sûr, le petit oiseau n’avait aucun péché; il n’était pas nécessaire qu’Il meure pour ce petit oiseau; mais l’oiseau s’envola vers la croix, et essaya d’arracher les clous avec son petit bec, et c’est ainsi que sa gorge se teinta de rouge. Et moi aussi, je voudrais être comme cela, avoir ce bouclier sanglant qu’il reçut lorsqu’il essaya de Le protéger, lors de Sa mort glorieuse.
 
-        http://www.cmpp.ch
+Sachant combien notre temps est limité, et ceci spécialement pour ceux de nos amis qui nous écoutent par téléphone, je voudrais ce matin attirer votre attention sur l’image d’une vision qui a été photographiée, vision que j’eus ici dans le tabernacle, alors que je m’apprêtais à quitter l’Indiana pour l’Arizona. Je rencontrai sept anges, disposés en forme de pyramide. Ne sachant pas ce qui allait arriver, lorsque plus tard j’allai là-bas, pensant que ma vie était arrivée à son terme, et que personne ne pourrait supporter le choc de l’explosion… (je pense que vous connaissez tous cette histoire). Ensuite, alors qu’un matin comme aujourd’hui, j’étais en train de prier dans le Sabino Canyon, une épée fut placée dans ma main, et j’entendis ces paroles: «Ceci est la Parole… l’Epée de la Parole».
 
-LE LEVER DU SOLEIL 3
-Sabino Canyon, une épée fut placée dans ma main, et j’entendis ces paroles: «Ceci est la
-Parole… l’Epée de la Parole».
-   Plus tard, les Anges apparurent, selon ce qui avait été prophétisé. Au même moment, une
-grande masse de Lumière monta dans le ciel de l’endroit où j’étais, à une altitude de 30 miles, et
-s’étendit dans l’espace comme les ailes des anges, et dessina dans le ciel une sorte de pyramide,
-formée par cette constellation d’anges qui m’était apparue.
-   Les savants photographièrent ce phénomène d’aussi loin que le Mexique, alors qu’il se
-déployait au nord de l’Arizona (à environ 40 miles au nord-est de Tucson), où le Saint-Esprit avait
-dit que je me tiendrais. Cette apparition s’éleva dans les airs, et le journal Life fit paraître plusieurs
-photos, disant qu’il s’agissait de quelque chose de mystérieux, puisqu’à cette altitude il ne peut y
-avoir d’humidité, d’évaporation ou autre; c’était une apparition haute de 30 miles et large de
-27 miles, venant de l’endroit où se tenaient ces anges.
-   Les savants voulurent savoir de quoi il s’agissait. L’un d’eux, à Tucson, en demanda la
-signification, mais je ne leur dis rien du tout. Vous connaissiez déjà la signification de tout cela.
-Mais ce n’était pas pour eux. Cela vous était destiné.
-   Alors, Il me parla et dit: «Les Sept Sceaux seront ouverts. Les sept mystères — le septuple
-mystère de la Bible — mystère scellé depuis la fondation du monde, va être révélé». Et nous
-autres, qui ne sommes qu’un petit groupe, comparé à l’ensemble du monde, nous avons reçu ces
-bénédictions, ayant entendu la révélation de ces mystères: Mariage et divorce, Semence du
-Serpent. Toutes ces choses nous ont été complètement révélées, non par un homme, mais par
-Dieu Lui-même. C’est Dieu qui a ouvert les sept mystères révélant ce que fut l’église, comment
-elle était en Christ au commencement, et comment cela serait révélé dans les derniers jours.
-   Nous avons affiché cette image dehors. Et ici, j’ai la même image, qui a été publiée par Life.
-Mais pourtant, je me demande si mon auditoire a réellement regardé cette image comme il faut la
-regarder?
-   Vous vous souvenez, c’est lorsque je prêchais sur le Livre de l’Apocalypse (je parlais de ces
-juges anciens) que la vision se produisit; nous avions vu la présence de Jésus dans Apocalypse 1.
-Lorsque nous commençâmes à ouvrir les Sept Sceaux, ou plutôt les Sept Ages de l’Eglise, qui
-venaient juste avant les Sept Sceaux, nous avons vu que les cheveux de Christ étaient blancs
-comme de la laine. Et je vous ai montré comment, en Angleterre, les juges d’autrefois se coiffaient
-d’une perruque blanche, après avoir prêté serment, ce qui était un signe montrant leur autorité
-suprême.
-   Bien. Si vous tournez la photo dans ce sens-ci (vous pouvez probablement la voir dans la
-salle), vous verrez Christ. Voyez-vous Ses yeux, et la perruque blanche de la Divinité Suprême, du
-Juge des Cieux et de la terre? Pouvez-vous voir Ses yeux, Son nez, et Sa bouche? Tournez
-simplement la photo comme ceci, depuis la position où ils l’ont montrée et vous verrez.
-Arrivez-vous à voir? Il est le Juge Suprême. Il n’y en a pas d’autre. Et cela est de nouveau une
-identification parfaite, une confirmation que ce Message est la Vérité. C’est la Vérité. Et cela fait
-de Lui non pas une troisième personne, mais la seule et unique Personne qui porte la
-perruque blanche…
-   Voyez-vous la zone sombre, Son visage, Sa barbe, Ses yeux? Remarquez qu’Il est en train de
-regarder. C’est de Lui que vient cette Lumière qui brille à droite de l’endroit où Il dirige Ses
-regards. Et sur la Croix, c’est à Sa droite qu’Il regarda, dans la direction du pécheur à qui Il
-accorda le pardon. C’est dans la lumière de Sa résurrection que nous continuons d’avancer
-en Son Nom.
-   J’aimerais avoir le temps de m’étendre sur ces phénomènes qui se passent ici dans cette
-église, et ceci d’une manière absolument indiscutable, depuis bientôt trente-cinq ans. C’est en
-effet en 1933 que cette lumière descendit ici à Jeffersonville, près de la rivière, et que ces paroles
-retentirent dans le ciel: «De même que Jean-Baptiste fut envoyé pour annoncer la première venue
-de Christ, de même ton Message annoncera Sa seconde venue». Nous sommes au temps de la
-fin, et nous le voyons. Nous nous demandons quelquefois pourquoi cela ne s’est pas répandu sur
-toute la terre; peut-être qu’une fois, si Dieu le permet, nous aurons l’occasion de l’expliquer.
-   Maintenant, j’aimerais que vous preniez vos Bibles, car nous croyons toujours que la Parole
-doit venir en premier, que nous devons commencer par lire la Parole. Je La lis toujours, parce
+Plus tard, les Anges apparurent, selon ce qui avait été prophétisé. Au même moment, une grande masse de Lumière monta dans le ciel de l’endroit où j’étais, à une altitude de 30 miles, et s’étendit dans l’espace comme les ailes des anges, et dessina dans le ciel une sorte de pyramide, formée par cette constellation d’anges qui m’était apparue.
 
-        http://www.cmpp.ch
+Les savants photographièrent ce phénomène d’aussi loin que le Mexique, alors qu’il se déployait au nord de l’Arizona (à environ 40 miles au nord-est de Tucson), où le Saint-Esprit avait dit que je me tiendrais. Cette apparition s’éleva dans les airs, et le journal Life fit paraître plusieurs photos, disant qu’il s’agissait de quelque chose de mystérieux, puisqu’à cette altitude il ne peut y avoir d’humidité, d’évaporation ou autre; c’était une apparition haute de 30 miles et large de 27 miles, venant de l’endroit où se tenaient ces anges.
 
-    LE LEVER DU SOLEIL    4
-que ma parole est une parole d’homme, qui est faillible; mais la Parole de Dieu ne peut jamais
-se tromper.
-   Nous allons lire un texte dans les Saintes Ecritures. Et nous lirons en trois endroits différents.
-Le premier est Apocalypse 1.17 et 18. C’est le passage où nous Le voyons apparaître, ayant les
-cheveux blancs comme de la laine, et les pieds comme de l’airain ardent. Ensuite, je vous
-demanderai de lire Romains 8.11. Ce matin, j’ai choisi trois endroits des Ecritures; c’est le
-Seigneur qui les a mis sur mon coeur pour parler de la résurrection. Enfin, je désire que vous lisiez
-Marc 16.1 et 2, et cela me donnera mon contexte.
-   Apocalypse 1, lisons les versets 17 et 18:
-        “Quand je le vis, je tombais à ses pieds comme mort. Il posa sur moi sa main droite,
-      en disant: Ne crains point! Je suis le premier et le dernier, et le vivant. J’étais mort; et
-      voici, je suis vivant aux siècles des siècles. Je tiens les clefs de la mort et du séjour
-      des morts”.
-   Et Romains, chapitre 8, verset 11:
-        “Et si l’Esprit de celui qui a ressuscité Jésus d’entre les morts habite en vous, celui
-      qui a ressuscité Christ d’entre les morts rendra aussi la vie à vos corps mortels par son
-      Esprit qui habite en vous”.
-   Enfin Marc 16 (le chapitre de la résurrection). Marc 16.1 et 2 (Darby):
-        “Et le sabbat étant passé, Marie de Magdala, et Marie, la mère de Jacques, et
-      Salomé, achetèrent des aromates pour venir l’embaumer. Et de fort grand matin, le
-      premier jour de la semaine, elles viennent au sépulcre, comme le soleil se levait”.
-   Le titre de ma prédication de ce matin sera: Le lever du Soleil, et son sujet sera: La Puissance
-qui donne la Vie (La Puissance de résurrection).
-   Vous avez peut-être entendu parler différents pasteurs à la radio, et notre cher frère Neville a
-aussi parlé ce matin de Pâques sur le sujet de la Résurrection. Et j’ai pensé que je pourrais
-prendre un chemin un peu différent — non pas pour faire autrement que les autres, mais
-simplement pour ajouter quelque chose, ou pour montrer les choses sous un autre angle. Quel
-que soit l’angle sous lequel vous considériez les Ecritures, elles proclament toujours
-Jésus-Christ. Vous ne pouvez pas sortir de cela. Elles Le proclament toujours.
-   Aujourd’hui, on célèbre partout dans le monde un service commémoratif (ou en tous cas aux
-Etats-Unis ou dans toutes les églises de cette partie du monde). C’est un service qui commémore
-la plus grande victoire que l’homme ait jamais eue.
-   Je pense que le Sauveur, lorsqu’Il mourut, ou lorsque ce petit enfant naquit… (il ne pourrait pas
-être ici, s’Il n’était venu sur la terre). Quand Il mourut, Il expia certainement nos péchés. Il y a eu
-beaucoup de beaux bébés qui sont nés depuis ce temps, et beaucoup d’hommes ont souffert et
-sont morts pour une bonne cause, mais aucun jusqu’à ce jour n’a jamais pu ressusciter.
-   Cette semaine est la plus glorieuse semaine de toute l’histoire, c’est la plus grande célébration
-de tous les temps; c’est à Pâques qu’Il prouva ce qu’Il avait dit. Quoi que l’homme puisse dire, on
-ne peut le croire, ni se fonder sur ce qu’il dit, tant que cela n’a pas été prouvé comme étant la
-vérité. Et Dieu a dit: “Eprouvez toutes choses, et retenez ce qui est bon”. Il ne nous dirait pas de
-faire quelque chose qu’Il ne ferait pas Lui-même. C’est ainsi qu’Il montra qui était Celui qui mourut
-pour nos péchés.
-   Et ce jour n’est pas seulement un jour commémoratif de tous ces lapins de Pâques, de ces
-oeufs de Pâques, etc., et de ces saintes célébrations; tout cela est très bien, mais ce n’est pas la
-chose réelle.
-   Aujourd’hui, il y a des gens qui disent que nous devrions procéder au lavage des pieds une fois
-par année, le Jeudi, et prendre la communion le Vendredi, et toutes ces doctrines… Ils discutent
-pour savoir si cela doit être ce jour-ci ou ce jour-là, s’il faut que ce soit le jour du Sabbat ou le
-premier jour de la semaine… Toutes ces choses ne sont que traditions. Quel bien vous feront tous
-ces rites, que vous respectiez ou non le Carême, s’il n’y a pas de Vie en vous! Ce n’est qu’un
-service commémoratif, et l’on ne peut rien dire là contre, mais s’ils ont certainement conservé leurs
-traditions, ils ont abandonné le principal.
-   Peu importe à Satan combien vous êtes religieux, ou à quel point vous connaissez votre
+Les savants voulurent savoir de quoi il s’agissait. L’un d’eux, à Tucson, en demanda la signification, mais je ne leur dis rien du tout. Vous connaissiez déjà la signification de tout cela. Mais ce n’était pas pour eux. Cela vous était destiné.
 
-        http://www.cmpp.ch
+Alors, Il me parla et dit: «Les Sept Sceaux seront ouverts. Les sept mystères — le septuple mystère de la Bible — mystère scellé depuis la fondation du monde, va être révélé». Et nous autres, qui ne sommes qu’un petit groupe, comparé à l’ensemble du monde, nous avons reçu ces bénédictions, ayant entendu la révélation de ces mystères: Mariage et divorce, Semence du Serpent. Toutes ces choses nous ont été complètement révélées, non par un homme, mais par Dieu Lui-même. C’est Dieu qui a ouvert les sept mystères révélant ce que fut l’église, comment elle était en Christ au commencement, et comment cela serait révélé dans les derniers jours.
 
-LE LEVER DU SOLEIL 5
-doctrine; s’il vous manque la Vie, vous ne serez pas enlevé! Peu importe combien vous êtes
-religieux, combien vous êtes bon, à combien d’églises vous avez appartenu ou appartiendrez, tout
-cela ne vous servira à rien, si vous n’êtes pas né de nouveau!
-   Ainsi donc, si Dieu a ressuscité Jésus d’entre les morts, L’a-t-Il ressuscité pour que l’on
-commémore cette résurrection, et ce jour de résurrection n’est-il rien de plus qu’un certain jour que
-nous célébrons chaque année — ou au contraire, sommes-nous les bénéficiaires de cette
-résurrection? Que signifie-t-elle pour moi? Que signifie-t-elle pour vous? Nous croyons bien par
-la foi qu’Il est ressuscité des morts, mais quel rapport cela a-t-il avec moi? Cela s’est passé il y
-a deux mille ans!
-   Pendant que je cherchais mon texte, j’avais mal au bras, à cause des piqûres que m’a faites
-l’infirmière… Je vais traverser l’océan dans quelques jours, comme vous le savez, et mon fils et
-moi, nous avons dû avoir ces piqûres. Il y en a contre le choléra, la fièvre jaune, etc. J’étais
-passablement fatigué (ces piqûres me rendent malade) … C’est César qui exige ces piqûres de
-ceux qui doivent se rendre dans d’autres nations. Jésus a dit: “Rendez donc à César ce qui est à
-César, et à Dieu ce qui est à Dieu”. Et alors, je me demandais de quoi j’allais parler ce matin à
-cette assemblée en attente (je suis très reconnaissant d’avoir une telle assemblée), je pensai que
-tous ces hommes et ces femmes allaient baser leur vie sur ce que j’allais dire. Qu’allais-je faire?
-Quel texte allais-je prendre?
-   Mais pendant que je restais là, à moitié endormi, on secoua la porte d’entrée qui se trouve
-devant la maison. Pensant être seul à la maison, j’écoutai; je crus avoir mal entendu. Ensuite,
-après que je fus retourné à mon bureau, c’est la porte du bureau qui se mit à trembler: il y avait
-quelqu’un qui secouait la porte. J’allai ouvrir, et, à ma grande surprise, je vis une jolie petite fille
-blonde aux yeux bleus; elle se tenait là, ayant l’air d’une petite pâquerette, et elle me regardait
-droit dans les yeux. Elle me tendit une carte, et, comme j’allais quitter la maison, c’est la seule que
-je reçus; (bien sûr, je pense que, lorsque je serai de retour chez moi, je trouverai quantité de
-cartes de voeux, etc., mais…). Elle me dit: «Frère Branham, c’est de la part de papa et de moi»;
-elle voulait être sûre que le «moi» y fût. Et c’est son père, enchaîné par son arthrite dans une
-chaise roulante, qui avait envoyé cette carte.
-   Je remerciai cette chère petite et pris la carte, que j’ouvris après qu’elle se fût retirée. Et c’est
-sur cette carte que j’ai trouvé mon texte, car il était écrit le texte de Marc 16.1,2:
-      “… comme le soleil se levait”.
-   Je pensai à cela, et à la résurrection de Jésus d’entre les morts, et c’est de là que j’ai tiré mon
-sujet.
-   Or, le soleil, au lever du soleil… Il y eut un temps où le monde était dans une obscurité
-complète. La terre était informe et vide, et les eaux la recouvraient entièrement. Elle était plongée
-dans une obscurité lugubre. L’Esprit de Dieu se mouvait au-dessus des eaux, et dit: “Que la
-lumière soit!”.
-   Il y avait une raison pour que Dieu fasse cela, car sous ces eaux étaient enfouies les semences
-qu’Il avait semées, et pour vivre il leur fallait la lumière du soleil. Et la première Lumière qui ait
-jamais éclairé la terre, fut la Parole de Dieu proclamée. La première Lumière qui ait frappé la terre
-fut la Parole que Dieu proclama. Il dit:
-   “Que la lumière soit!” et la lumière fut. Elle dissipa les ténèbres et les transforma en lumière,
-afin de susciter une création de joie et de vie sur la terre.
-   Alors, l’Esprit de Dieu, plein d’amour et de compassion en ce jour glorieux, se mouvant
-au-dessus de la terre en ce premier jour, à l’aube de la création… le soleil se leva, et ses rayons
-l’asséchèrent, et les eaux en s’évaporant firent au-dessus d’elle une atmosphère. Et, pour la
-première fois, il allait apporter la joie et la vie sur la terre par une semence. Ce fut une heure
-glorieuse!
-   Pourtant, ce premier lever de soleil n’était rien, en comparaison de celui du matin de Pâques.
-Alors, lorsque le soleil entreprit sa course dans le ciel, il répandit une nouvelle encore plus
-glorieuse. Ce lever de soleil apporta une nouvelle plus glorieuse que le premier lever de soleil du
-commencement. Il apporta cette nouvelle: “Il est ressuscité! Il s’est relevé d’entre les morts
-comme Il l’avait promis! Il est ressuscité d’entre les morts!”.
-   Lorsque, dans la Genèse, le soleil se leva pour la première fois, il apporta un message
+Nous avons affiché cette image dehors. Et ici, j’ai la même image, qui a été publiée par Life. Mais pourtant, je me demande si mon auditoire a réellement regardé cette image comme il faut la regarder?
 
-        http://www.cmpp.ch
+Vous vous souvenez, c’est lorsque je prêchais sur le Livre de l’Apocalypse (je parlais de ces juges anciens) que la vision se produisit; nous avions vu la présence de Jésus dans Apocalypse 1. Lorsque nous commençâmes à ouvrir les Sept Sceaux, ou plutôt les Sept Ages de l’Eglise, qui venaient juste avant les Sept Sceaux, nous avons vu que les cheveux de Christ étaient blancs comme de la laine. Et je vous ai montré comment, en Angleterre, les juges d’autrefois se coiffaient d’une perruque blanche, après avoir prêté serment, ce qui était un signe montrant leur autorité suprême.
 
-    LE LEVER DU SOLEIL                      6
-proclamant la vie sur la terre, une vie mortelle. Mais, lorsque le soleil se leva à l’aube de ce
-nouveau jour, ce fut un lever de soleil très différent! Ce ne fut pas seulement le soleil qui se leva,
-mais le FILS qui ressuscita [Frère Branham fait un jeu de mots avec S-U-N — soleil, et S-O-N —
-fils. Les verbes: se lever et ressusciter sont rendus tous deux par le même verbe: to rise — N.d.T.]
-pour apporter la Vie Eternelle à la Semence prédestinée de Dieu qu’Il avait, dans Sa
-prescience, déposée sur la terre.
-   Rien, pas la moindre végétation, ne pouvait vivre au commencement sans le soleil (s-u-n) qui
-apportait la vie. Et de même, aujourd’hui, c’est la Lumière du Fils (S-o-n) de Dieu qui, seule,
-peut amener à la Vie Eternelle les fils de Dieu, Ses élus, ceux qu’Il a connus avant la fondation
-du monde. Il les a choisis en Lui, avant la fondation du monde. Et en ce matin de Pâques, nos
-corps gisaient quelque part dans la poussière, parce que nous sommes faits de la poussière de la
-terre. Et dans le Ciel, il y avait un Livre, et Ses attributs sont en Lui, et nous savons que, parce
-que ce Fils de Dieu a été ressuscité, Il donnerait aussi la Vie à chacun de Ses fils d’élection
-en ce temps glorieux. Il savait que tout cela arriverait, et que ce matin serait bien plus glorieux
-que celui du commencement — à l’aube du premier jour.
-   Aujourd’hui, alors que nous brisons ce Sceau de Pâques… Aujourd’hui, nous avons un «sceau
-de Pâques» consacré à la tuberculose! [Sceau postal — N.d.T.] Les gens s’envoient des
-messages les uns aux autres, et pour soutenir la recherche médicale en faveur de la lutte contre la
-tuberculose, ils… ce que nous appelons un «sceau de Pâques» — lorsque nous nous envoyons
-des messages les uns aux autres.
-   Mais lorsque nous recevons le message, le sceau est brisé, parce que le sceau contient un
-message enfermé à l’intérieur. Et alors, le vrai Sceau de Pâques au sujet de ce nouveau matin a
-été brisé, et le secret de la vie après la mort a été révélé. Avant, nous ne le connaissions pas.
-Le monde tâtonnait dans l’obscurité, et faisait toutes sortes de suppositions. Dans le coeur de
-l’homme, il y avait des théories, des traditions fabriquées par l’homme. L’homme adorait des
-idoles: il adorait le soleil et toutes sortes de dieux. Et tous ces gens qui prétendaient toutes ces
-choses ont fini par entrer dans la tombe, et y sont restés. Mais le vrai Sceau a été brisé, et il y
-en a Un, qui a vécu comme nous, et qui est mort comme nous, mais Lui, Il est ressuscité
-d’entre les morts! Quel matin glorieux! Il n’y en a eu aucun de semblable dans toute l’histoire du
-monde! Un secret fut révélé: c’est qu’il était à la fois la Résurrection et la Vie!
-   Lorsqu’Il ressuscita ce matin-là, Il dit: “Parce que Je vis, vous vivrez aussi”. Il ne fut pas le seul
-bénéficiaire de la résurrection, mais toute cette semence qui appartenait à la glorieuse Providence
-de Dieu fut aussi bénéficiaire de cette résurrection à la Vie, parce qu’Il a dit: “Parce que Je vis,
-vous vivrez aussi”.
-   Voilà comment ce Sceau fut brisé. C’est parce qu’Il fut élevé que tous ceux qui croient en Christ
-seront aussi élevés avec Lui. Lors de ce matin glorieux, Dieu a prouvé, confirmé Sa Parole.
-Tous les désarrois, tous les doutes qui s’étaient glissés dans l’esprit des hommes furent effacés,
-parce que Celui qui vécut parmi les hommes, qui but, mangea et eut une communion avec eux, dit:
-“J’ai le pouvoir de donner Ma Vie, et j’ai le pouvoir de La reprendre”. Il ne se contenta pas de
-l’affirmer, mais Il démontra que c’était la Vérité. Oh! comme cela est glorieux! Je suis certain, ce
-matin, que même nous qui croyons, nous ne pouvons pas saisir pleinement quelque chose d’aussi
-merveilleux. Parce qu’Il est ressuscité d’entre les morts, nous sommes aussi ressuscités d’entre
-les morts, puisque nous étions en Lui.
-   Quand les ténèbres couvraient la terre, les semences ne purent venir à la vie avant l’apparition
-du soleil (s-u-n); les ténèbres couvraient la terre, mais le FILS (S-o-n) ressuscita, et elles furent
-dissipées par cette lumière, qui se répandit parmi les nations: “Il n’est point ici, Il est ressuscité!”.
-Quelle proclamation merveilleuse!
-   Il a confirmé Sa Parole; Il l’a confirmée comme étant la Vérité, car maintenant Il a vaincu la
-mort, le séjour des morts et le sépulcre. Il a vaincu la trinité de Satan: mort, séjour des morts et
-sépulcre. Car Satan est l’auteur de la mort; c’est lui qui possède le séjour des morts et le sépulcre.
-Et tout cela, c’était la trinité de Satan, dont l’origine est la mort. En tant que mort, vous appartenez
-au sépulcre, et en tant que pécheur, vous allez en enfer. La trinité de Satan, qui est la mort, avait
-maintenu l’homme dans la captivité pendant de nombreuses années, mais maintenant, la vraie
-trinité du Dieu qui est Un s’est manifestée en Christ qui est la Vie; Il a brisé les Sceaux et
-vaincu l’ennemi, et s’est relevé d’entre les morts, étant l’Unique, le Véritable, le Dieu Vivant.
+Bien. Si vous tournez la photo dans ce sens-ci (vous pouvez probablement la voir dans la salle), vous verrez Christ. Voyez-vous Ses yeux, et la perruque blanche de la Divinité Suprême, du Juge des Cieux et de la terre? Pouvez-vous voir Ses yeux, Son nez, et Sa bouche? Tournez simplement la photo comme ceci, depuis la position où ils l’ont montrée et vous verrez. Arrivez-vous à voir? Il est le Juge Suprême. Il n’y en a pas d’autre. Et cela est de nouveau une identification parfaite, une confirmation que ce Message est la Vérité. C’est la Vérité. Et cela fait de Lui non pas une troisième personne, mais la seule et unique Personne qui porte la perruque blanche…
 
-                          http://www.cmpp.ch
+Voyez-vous la zone sombre, Son visage, Sa barbe, Ses yeux? Remarquez qu’Il est en train de regarder. C’est de Lui que vient cette Lumière qui brille à droite de l’endroit où Il dirige Ses regards. Et sur la Croix, c’est à Sa droite qu’Il regarda, dans la direction du pécheur à qui Il accorda le pardon. C’est dans la lumière de Sa résurrection que nous continuons d’avancer en Son Nom.
 
-LE LEVER DU SOLEIL 7
-“J’étais mort; et voici, Je suis vivant aux siècles des siècles. Je tiens les clefs de la mort et du
-séjour des morts”.
-   Dieu est Un, Il a été fait homme et a habité parmi nous; Il a vaincu tous les ennemis, et a
-prouvé que la trinité de Satan a été vaincue, et alors, la trinité de Dieu a été révélée, parce que
-seul Dieu Lui-même a le pouvoir d’amener à la Vie à nouveau. C’est Lui qui est Emmanuel.
-Dieu a été manifesté dans la chair.
-   Il avait bien le droit d’affirmer: “Tout pouvoir m’a été donné dans le ciel et sur la terre. Allez,
-faites de toutes les nations mes disciples…” (Mat. 28.18,19). Il avait vaincu la mort, le séjour des
-morts et le sépulcre. Et non seulement, en tant que triomphateur, reçut-Il tout pouvoir dans le Ciel
-et sur la terre, mais encore tout ce qui était le Père, tout ce qui était le Saint-Esprit, et tout ce qui a
-jamais existé était en Lui: “Tout pouvoir m’a été donné dans le Ciel et sur la terre”. Il n’y a de
-pouvoir nulle part ailleurs, car Il a vaincu.
-   De plus, Il a fait dire à Ses disciples, Ses croyants: “Ne craignez rien, Je suis celui qui est mort,
-et qui vis maintenant pour toujours. J’ai les clefs de la mort et du séjour des morts. J’ai vaincu”.
-N’ayez plus de crainte, car chaque semence prédestinée de Dieu viendra à la Vie lorsque la
-Lumière de ce glorieux Evangile se répandra sur toute la terre. Dans chaque âge, Elle fera mûrir
-la récolte que Dieu avait ordonnée: Il est ressuscité des morts.
-   Comme c’est merveilleux! “Je vis!”. — ou plus exactement: “J’ai été ramené à la vie!”. Le mot
-grec indique bien que la mort avait fait son oeuvre avant que la vie ne soit manifestée. C’est
-comme la semence qui a été mise dans la terre; elle doit mourir entièrement. Il faut que cette
-semence se décompose complètement. Et chaque parcelle de vie qui était dans la semence
-doit réapparaître à nouveau.
-   Non seulement Il ressuscita, mais: “Je vous enverrai la Vie même qui m’a ressuscité; la
-Puissance qui m’a fait sortir du sépulcre, Je l’enverrai sur vous pour vous donner la Vie, afin que là
-où Je suis, vous soyez aussi”.
-   Dans Luc 24.49, Il dit: “Et voici, J’enverrai sur vous ce que mon Père a promis; mais vous,
-restez dans la ville jusqu’à ce que vous soyez revêtus de la puissance d’En-haut”. Il nous montre
-aussi qu’Il n’a pas seulement retiré pour Lui tout le bénéfice (de Son sacrifice), mais qu’Il le
-partage avec nous. Il est venu pour racheter, pour apporter la Vie à cette semence prédestinée
-que Dieu avait vue avant la fondation du monde, lorsqu’Il inscrivit leurs noms dans le Livre de Vie;
-et les voici qui sont sur la terre sans aucun espoir! Mais Il vint non seulement pour être la
-bénédiction, mais aussi pour partager cette bénédiction avec chaque Semence prédestinée.
-   Or, si la semence n’avait pas été sur la terre, elle n’aurait pas pu vivre. Il fallait qu’elle fût sur la
-terre, et qu’elle eût un germe, pour pouvoir germer. Peu importe le temps pendant lequel elle est
-restée dans l’obscurité, elle sort au moment où le FILS (s-o-n) jette Ses rayons sur elle.
-   Vous voyez, Il est venu maintenant partager cela avec nous. Il n’est pas surprenant que
-l’Evangile soit une Bonne Nouvelle! D’ailleurs, le mot Evangile signifie «bonne nouvelle». Quelle
-est cette «Bonne Nouvelle»? — si un homme donne sa vie et meurt pour nous, cela, c’est une
-bonne nouvelle? Si Christ est né, c’est une bonne nouvelle! Mais il n’y a jamais eu de bonne
-nouvelle semblable à celle-ci: Celui qui a fait la promesse a confirmé cette promesse, et cette
-promesse, c’est qu’il vit éternellement, et tient dans Sa main les clefs de la mort et du séjour
-des morts. Toutes les ténèbres ont été dissipées; il n’y en a plus, car le Fils est sorti du sépulcre.
-Il n’y a pas de: «Il viendra» ou de «Il se pourrait qu’Il vienne»: il est déjà venu! L’Evangile, c’est la
-Bonne Nouvelle!
-   Remarquez bien que le Message même de l’Evangile a pour but de prouver aux peuples qu’Il
-est ressuscité. “… et allez promptement dire à ses disciples qu’il est ressuscité des morts. Et voici,
-Il vous précède en Galilée: c’est là que vous Le trouverez” … “J’irai à leur rencontre et Je le leur
-confirmerai”. Oh, mon Dieu! dans les derniers jours, quelle Lumière n’y aura-t-il pas de nouveau
-sur toute la terre! “Et je le montrerai à Mes disciples; allez leur dire que Je ne suis pas mort, que
-Je ne suis pas une tradition, mais que Je suis un Christ vivant; J’irai à leur rencontre. Transmettez
-ce Message à Mes disciples, leur disant que Je suis ressuscité d’entre les morts”. L’Evangile, la
-Bonne Nouvelle! Vous pourrez dire: «Est-ce que tout cela est vrai?». — Hébreux 13.8 dit qu’il est
-le même hier, aujourd’hui, et éternellement.
-   Nous qui en sommes les bénéficiaires, nous devons prouver que Sa Vie est en nous — nous,
+J’aimerais avoir le temps de m’étendre sur ces phénomènes qui se passent ici dans cette église, et ceci d’une manière absolument indiscutable, depuis bientôt trente-cinq ans. C’est en effet en 1933 que cette lumière descendit ici à Jeffersonville, près de la rivière, et que ces paroles retentirent dans le ciel: «De même que Jean-Baptiste fut envoyé pour annoncer la première venue de Christ, de même ton Message annoncera Sa seconde venue». Nous sommes au temps de la fin, et nous le voyons. Nous nous demandons quelquefois pourquoi cela ne s’est pas répandu sur toute la terre; peut-être qu’une fois, si Dieu le permet, nous aurons l’occasion de l’expliquer.
 
-        http://www.cmpp.ch
+Maintenant, j’aimerais que vous preniez vos Bibles, car nous croyons toujours que la Parole doit venir en premier, que nous devons commencer par lire la Parole. Je La lis toujours, parce que ma parole est une parole d’homme, qui est faillible; mais la Parole de Dieu ne peut jamais se tromper.
 
-LE LEVER DU SOLEIL 8
-les bénéficiaires de Sa Vie. Personne n’a jamais vécu comme Lui; Il était le Fils de Dieu. Lorsqu’Il
-mourut, cette Vie fut terminée. Mais, le matin de Pâques, Il est ressuscité d’entre les morts, et
-nous, Ses serviteurs, avons reçu de Lui la mission d’aller par tout le monde apporter cette bonne
-nouvelle à chacun: Il est vivant. Et comment pourrions-nous le faire uniquement par des
-paroles? Car il est écrit: “… notre Evangile ne vous ayant pas été prêché en paroles seulement,
-mais avec puissance, avec l’Esprit-Saint, et avec une pleine persuasion…”.
-   Mais s’il y a un autre Evangile… Paul a dit à l’une des assemblées: “Je suis surpris que vous
-vous tourniez vers un autre évangile (qui ne peut être rien de plus qu’une contrefaçon) vers une
-fiction dénominationnelle, vous éloignant ainsi de la Bonne Nouvelle. Parce que Je vis, vous vivrez
-aussi, et Je vis en vous. Et les oeuvres que Je fais (voir Jean 14.12), les oeuvres que Je fais,
-m’identifieront en vous”. Oh! quel Message! Il n’est pas étonnant que le monde de la théologie
-soit un monde de ténèbres! Mais vers le soir, la lumière paraîtra. Il y aura de la Lumière.
-   Or, l’essence même du Message est: “Il est ressuscité des morts”. Nous, Ses bénéficiaires,
-nous partageons la résurrection avec Lui; nous en retirons les bénéfices en prouvant au monde
-qu’Il est vivant. Nous ne pouvons pas le faire en paroles seulement, ni par les traditions des
-hommes. Nous ne pouvons que refléter fidèlement ce que nous prêchons.
-   J’ai bien peur qu’aujourd’hui, il n’y en ait pas assez parmi nous qui attirent des gens à Christ.
-Nous les attirons à une église, à une théorie — nous devons les attirer à Christ. Il est l’Unique,
-le Seul qui ait la Vie. “Celui qui a le Fils a la Vie”. Et si la vie d’un homme qui est mort était
-projetée en vous, vous vivriez la même vie que lui. Si le sang d’un homme était d’un certain
-groupe, et que vous preniez son sang pour le transfuser dans le corps d’un autre homme, cet
-homme aurait ce même type de sang. Et si l’esprit naturel qui est en vous est considéré comme
-mort, et que vous êtes oints par la Vie de Christ qui vient en vous… Romains 8.11 dit: “Et si l’Esprit
-de celui qui a ressuscité Jésus d’entre les morts habite en vous, celui qui a ressuscité Christ
-d’entre les morts rendra aussi la vie à vos corps mortels par l’Esprit qui habite en vous”. — la
-même Vie, la même puissance, les mêmes avantages que ceux qu’Il avait reçus de Dieu lors
-de Son séjour sur cette terre. Il vous a racheté, vous qui êtes une Semence prédestinée de
-Dieu, et dont le nom fut écrit dans le Livre de Vie avant la fondation du monde. Et la Lumière que
-répand l’Evangile sur la résurrection, la confirmation de la Parole… Comment avons-nous su qu’Il
-était le Christ? — Parce qu’Il a confirmé les choses dont Il parlait. Comment reconnaîtrons-
-nous le Message de notre temps? — Dieu confirmera ce qu’il a promis et ce dont Il a parlé.
-   Cela, c’est la confirmation du fait que nous participons avec Lui à la résurrection. Il
-confirme ce dont Il a parlé. Il a confirmé ce qu’Il a promis aux jours de Moïse. Il a confirmé ce qu’Il
-a promis aux jours d’Enoch. Il l’a confirmé aux jours des apôtres. Et maintenant, en ce jour, Il
-confirme ce qu’Il a dit, parce qu’ils sont une partie de la Semence qui était inscrite dans le
-Livre de Vie, et Il est venu pour les racheter, et les ramener à Dieu. Oh! quel Message
-merveilleux!
-   Ce matin de Pâques, ce n’est pas Lui seul qui ressuscita, mais tous les bénéficiaires sont aussi
-ressuscités avec Lui. Ils étaient en Christ, lors de Sa crucifixion, et Ils furent en Lui à Sa
-résurrection. Nous sommes Ses bénéficiaires, Ses ayants droit; nous avons reçu la Vie, après
-avoir été morts, dans les ténèbres, dans un monde obscurci par l’incrédulité, où les églises, les
-dénominations, etc., nous avaient entraînés. Mais en nous, il y avait quelque chose qui appelait:
-«Oh! c’est Dieu que nous voulons! Nous avons faim et soif de Dieu!». Et nous nous sommes
-joints aux Méthodistes, Baptistes, Pentecôtistes, Presbytériens, et je ne sais quoi d’autre encore
-— et il y avait toujours quelque chose qui n’allait pas. Nous n’arrivions pas à trouver! Et soudain,
-alors que nous tâtonnions dans l’obscurité, cette glorieuse Résurrection vint à nous dans la
-manifestation de la promesse de Dieu, parce qu’Il est la manifestation de la promesse de Dieu.
-“Car Tu n’abandonneras pas mon âme dans le séjour des morts, et tu ne permettras pas que Ton
-Saint voie la corruption”. Cela, Il l’a manifesté, Il a confirmé chaque promesse de la Parole de
-Dieu. Il l’a confirmé lors de Sa résurrection le matin de Pâques.
-   Il y avait tous ceux qui cherchaient leur voie en tâtonnant dans les ténèbres: il fallait qu’ils se
-lavent les pieds un certain jour, qu’ils sanctifient un tel autre jour, qu’ils respectent tout un jeu de
-règles. Toutes ces choses sont du passé, car il y a eu une résurrection glorieuse, qui a
-anéanti toutes ces choses faites de main d’homme, toutes ces choses instituées par la raison
-humaine. Aucun homme à ce jour n’a jamais pu perdre la vie et la reprendre. Mais Lui, Il défia les
+Nous allons lire un texte dans les Saintes Ecritures. Et nous lirons en trois endroits différents. Le premier est Apocalypse 1.17 et 18. C’est le passage où nous Le voyons apparaître, ayant les cheveux blancs comme de la laine, et les pieds comme de l’airain ardent. Ensuite, je vous demanderai de lire Romains 8.11. Ce matin, j’ai choisi trois endroits des Ecritures; c’est le Seigneur qui les a mis sur mon coeur pour parler de la résurrection. Enfin, je désire que vous lisiez Marc 16.1 et 2, et cela me donnera mon contexte.
 
-        http://www.cmpp.ch
+Apocalypse 1, lisons les versets 17 et 18:
+> “Quand je le vis, je tombais à ses pieds comme mort. Il posa sur moi sa main droite, en disant: Ne crains point! Je suis le premier et le dernier, et le vivant. J’étais mort; et voici, je suis vivant aux siècles des siècles. Je tiens les clefs de la mort et du séjour des morts”.
 
-LE LEVER DU SOLEIL 9
-certitudes de la science en ressuscitant.
-   Ils disent que Jésus-Christ n’est pas le même hier, aujourd’hui et éternellement; que Sa
-puissance n’est plus la même qu’autrefois; que Son Evangile a changé, alors que la Bible dit au
-contraire qu’Il est le même: Dieu jette le défi à chaque dénomination, à chaque credo, et Il est
-venu sous la forme du Saint-Esprit, selon Sa promesse, et Il nous a donné la preuve qu’Il
-est vivant. Nous sommes les bénéficiaires de Sa résurrection; nous avons reçu la vie, après avoir
-été morts dans le péché et les transgressions du monde, Il nous a ressuscités avec Lui, nous a
-élevés avec Lui, et maintenant, nous sommes avec Jésus-Christ dans les lieux célestes.
-   Son Esprit ramène sur la terre Sa Vie, qui est la même Vie qu’autrefois. Si l’Esprit de Dieu
-qui a ressuscité Christ — le corps, le corps oint… L’Esprit de Dieu a oint ce corps de telle manière
-que, lorsque cette Semence tomba sur la terre, Il ne permit pas qu’Elle reposât là. Non! Il Le
-ressuscita et Le releva — le même Esprit, accomplissant les mêmes oeuvres par la même
-puissance, accompagné des mêmes signes, s’Il est en vous, alors Il vous ressuscitera, vous
-aussi.
-   Maintenant, je voudrais encore vous lire un court passage dans les Ecritures. Cela pourrait
-vous aider. C’est dans le Lévitique, chapitre 23, versets 9 à 11. Ecoutez bien, c’est la Loi, la Loi
-lévitique, c’est Dieu qui parle à Moïse. Ecoutez! Toutes ces choses sont des types, et nous nous
-arrêterons ici un court instant, afin de bien saisir ces types.
-        “L’ETERNEL parla à Moïse, et dit: Parle aux enfants d’Israël, et tu leur diras: Quand
-      vous serez entrés dans le pays que je vous donne… (à l’endroit, dans la position que
-      je vous ai donnée. Il parle aux enfants d’Israël, leur disant que, lorsqu’Il les aurait
-      conduits à l’endroit où Il leur avait promis qu’Il les conduirait, lorsqu’ils arriveraient dans
-      ce pays… ici, il est parlé de ces choses naturelles qui sont l’image des choses
-      spirituelles) … et que vous y ferez la moisson… (vous avez écouté ce que Je vous ai
-      dit) … vous apporterez aux sacrificateurs une gerbe, prémices de votre moisson. Il
-      agitera de côté et d’autre la gerbe devant l’Eternel, afin qu’elle soit agréée: le
-      sacrificateur l’agitera de côté et d’autre, le lendemain du sabbat”.
-   Lorsqu’un saint rite devait être accompli, il fallait que ce fût le jour du Sabbat, qui est Samedi, le
-septième jour de la semaine. Mais, avez-vous remarqué que, dans le rite mentionné ci-dessus, la
-gerbe devait être agitée le premier jour de la semaine, cette gerbe qui venait de la première
-semence que vous aviez semée. Lorsqu’elle est arrivée à maturité, vous coupez la gerbe, et
-l’apportez au sacrificateur qui la prend et l’agite devant le Seigneur, afin que vous soyez agréé.
-Vous devez venir avec votre gerbe, et lui, il doit l’agiter devant le Seigneur, non pas le jour du
-Sabbat, le septième jour, mais le premier jour, que nous appelons Dimanche [en angl.: S-u-n-d-a-y
-— N.d.T.]. Bien sûr, ce mot est un mot romain, parce que les Romains donnaient à ce jour le nom
-du dieu soleil. Mais combien tout cela a changé! Il ne s’agit plus du soleil [s-u-n — N.d.T.], mais du
-Fils [S-o-n-d-a-y; frère Branham fait un jeu de mots entre sunday = dimanche, et sonday, mot qui
-se prononce comme le précédent, mais qui, par son orthographe signifie littéralement: «jour du
-Fils» — N.d.T.]; c’est le jour du Fils, cette Semence, le Premier-né d’entre les morts, qui doit
-être agité au-dessus de l’assemblée de ceux qui sont Sa Semence; et Il est le Premier de cette
-Semence de ceux qui dormaient… On l’agitait le premier jour de la semaine. Le dimanche, Il
-ressuscita, puis Il s’éleva et leur fit signe de la main en s’en allant; ensuite Il prit congé d’eux; Il
-monta dans les lieux Très-hauts à la vue de Son peuple.
-   Remarquez qu’Il fut le premier des Grains de la récolte de Dieu qui ait été ressuscité d’entre
-les morts. Par la Puissance de Résurrection de Dieu, Dieu Lui rendit la vie, Le ressuscitant
-d’entre les morts; Il était les prémices de ceux qui dormaient — les Prémices. Il était la Gerbe;
-c’est pourquoi ils devaient agiter cette gerbe, car elle était la première à venir à maturité. Et elle
-était agitée en témoignage d’actions de grâces envers Dieu, car ils croyaient que le reste des
-gerbes viendraient aussi. C’était un signe. Et aujourd’hui, parce qu’Il est le Premier Fils de Dieu
-qui soit venu à la pleine maturité afin d’être en Dieu, Il a été enlevé de la terre; Il est maintenant
-agité au-dessus du peuple (Oh! quelle leçon glorieuse!) par la Puissance de Résurrection.
-   Le Premier… Bien qu’Il ait été… Son type a été représenté de nombreuses fois, comme nous le
-verrons plus tard, mais Il est réellement les Prémices de ceux qui dorment. Il fut agité au-dessus
-de la Semence prédestinée qui avait reçu la promesse de la Vie; Il fut agité le jour de Pentecôte,
-lorsque retentit dans le Ciel un bruit semblable à un vent impétueux; Il fut agité au-dessus de ceux
+Et Romains, chapitre 8, verset 11:
+> “Et si l’Esprit de celui qui a ressuscité Jésus d’entre les morts habite en vous, celui qui a ressuscité Christ d’entre les morts rendra aussi la vie à vos corps mortels par son Esprit qui habite en vous”.
 
-        http://www.cmpp.ch
+Enfin Marc 16 (le chapitre de la résurrection). Marc 16.1 et 2 (Darby):
+> “Et le sabbat étant passé, Marie de Magdala, et Marie, la mère de Jacques, et Salomé, achetèrent des aromates pour venir l’embaumer. Et de fort grand matin, le premier jour de la semaine, elles viennent au sépulcre, comme le soleil se levait”.
 
-LE LEVER DU SOLEIL 10
-qui étaient réunis en ce jour, attendant la bénédiction qui devait venir. Il doit encore être agité
-dans le dernier jour, ainsi que nous pouvons le voir dans Luc 17.30, dans le Jour du Fils [Sonday
-— N.d.T.], dans le jour où le FILS de l’homme sera encore une fois agité (révélé) au-dessus de
-Son peuple.
-   Mais Qui est ce Fils de l’homme? — “Au commencement était la Parole, et la Parole était avec
-Dieu, et la Parole était Dieu… Et la Parole a été faite chair, et Elle a habité parmi nous…”. Tous les
-enseignements que nous avons, toutes les confirmations de la Parole de Dieu par Sa Parole, par
-les signes et les miracles (Evangile de Luc, que nous venons de citer, Luc 17.30, Malachie 4, et
-d’autres passages que nous connaissons bien), nous montrent que cette Parole est de nouveau
-agitée au-dessus du peuple, que les traditions mortes de l’homme sont bien mortes, et que le
-Fils de Dieu est vivant, et qu’Il est revenu parmi nous avec le Baptême du Saint-Esprit, et qu’Il
-nous donne la Vie.
-   Christ fut le Premier de tous les prophètes à ressusciter (Son type est représenté à de
-nombreux endroits, Il fut les Prémices de ceux qui étaient endormis). Dans l’Epouse suscitée par
-Christ, et sortant du système des églises, il faut qu’une Gerbe soit agitée de nouveau dans les
-derniers jours.
-   Agiter la gerbe. De quelle gerbe s’agissait-il? — de la première à venir à maturité, la première
-qui prouvait qu’elle était du blé. Alléluia! Je suis sûr que vous comprenez ce que je dis! Elle était
-agitée au-dessus du peuple; et pour la première fois, pour l’âge de l’Epouse, afin de susciter une
-résurrection hors des ténèbres des dénominations, il y aura un Message auquel la pleine
-maturité de la Parole aura restitué toute Sa puissance, et qui sera agité au-dessus du peuple
-par les mêmes signes et miracles que ceux qu’Il accomplit autrefois.
-   “Parce que Je vis, vous vivrez aussi”, dit-Il à Son Epouse. “Parce que Je vis, vous vivrez aussi”.
-Quelle résurrection cela fut! Et quelle glorieuse résurrection nous vivons maintenant: être
-ressuscités d’entre les morts, avoir reçu la Vie en Jésus-Christ par la Puissance de Résurrection
-de Dieu.
-   Il fut agité au-dessus d’eux; Il était la Parole, et Il fut agité au-dessus d’eux le jour de Pentecôte;
-c’était la Parole manifestée. Et, je vous le dis, Elle sera de nouveau agitée dans les derniers
-jours.
-   Mais vous allez me dire par exemple: «Frère Branham, attendez une minute. Je connais une
-église qui…». — Oh! moi aussi!… Vous comprenez?
-   Prenons un exemple. Supposons que, pour retourner à Tucson cet après-midi, nous ayons
-chacun une grande Cadillac flambant neuve. Les sièges sont recouverts des cuirs les plus fins, il y
-a d’épais tapis sur le plancher, le volant est nickelé et orné de diamants un peu partout. Le moteur
-a été testé très consciencieusement. Les roulements à billes des roues ont été soigneusement
-graissés, les pneus sont à l’épreuve des crevaisons, et ont été contrôlés par des spécialistes. A
-leur sortie de la chaîne de montage, ces deux voitures sont allées faire le plein d’essence.
-L’essence, c’est la puissance qui leur permet de rouler. Mais, au moment où l’on veut les faire
-démarrer, bien qu’elles aient toutes deux l’air parfaitement identiques, l’une d’elles ne peut partir: il
-n’y a pas d’étincelle; il lui manque cette petite flamme.
-   Vous me direz: «Pourtant, frère Branham, toute la force est dans l’essence!». — Peu importe
-combien de puissance il y a dans l’essence! S’il n’y a pas une étincelle pour manifester cette
-puissance, s’il n’y a pas une puissance pour manifester que c’est de l’essence, cela revient au
-même que si l’on mettait de l’eau dans le moteur.
-   Peu importent les affirmations des théologiens! Peu importe la consécration de votre église,
-l’étendue de vos connaissances, votre obéissance à la Bible! Si cette Gerbe n’est pas agitée, si le
-Saint-Esprit ne vient pas sur nous pour donner la Vie à la Parole (l’essence représente la
-Parole; c’est la Vérité), vous ne pourrez pas vous mettre en mouvement!
-   Nous avons accordé trop d’importance au mécanisme, et rien du tout à la Dynamique. Il faut
-que la Puissance dynamique de Dieu, la Puissance de Résurrection de Jésus-Christ sur
-l’Eglise, rende manifeste et confirme qu’il s’agit d’essence! Ce n’est pas parce qu’elle est dans un
-bidon à essence que c’est de l’essence; cela pourrait tout aussi bien être de l’eau. Vous
-comprenez? Le seul moyen de l’éprouver, c’est d’en approcher l’étincelle de Vie, et alors, on
-verra si c’est de l’essence ou non!
+Le titre de ma prédication de ce matin sera: Le lever du Soleil, et son sujet sera: La Puissance qui donne la Vie (La Puissance de résurrection).
 
-        http://www.cmpp.ch
+Vous avez peut-être entendu parler différents pasteurs à la radio, et notre cher frère Neville a aussi parlé ce matin de Pâques sur le sujet de la Résurrection. Et j’ai pensé que je pourrais prendre un chemin un peu différent — non pas pour faire autrement que les autres, mais simplement pour ajouter quelque chose, ou pour montrer les choses sous un autre angle. Quel que soit l’angle sous lequel vous considériez les Ecritures, elles proclament toujours Jésus-Christ. Vous ne pouvez pas sortir de cela. Elles Le proclament toujours.
+
+Aujourd’hui, on célèbre partout dans le monde un service commémoratif (ou en tous cas aux Etats-Unis ou dans toutes les églises de cette partie du monde). C’est un service qui commémore la plus grande victoire que l’homme ait jamais eue.
+
+Je pense que le Sauveur, lorsqu’Il mourut, ou lorsque ce petit enfant naquit… (il ne pourrait pas être ici, s’Il n’était venu sur la terre). Quand Il mourut, Il expia certainement nos péchés. Il y a eu beaucoup de beaux bébés qui sont nés depuis ce temps, et beaucoup d’hommes ont souffert et sont morts pour une bonne cause, mais aucun jusqu’à ce jour n’a jamais pu ressusciter.
+
+Cette semaine est la plus glorieuse semaine de toute l’histoire, c’est la plus grande célébration de tous les temps; c’est à Pâques qu’Il prouva ce qu’Il avait dit. Quoi que l’homme puisse dire, on ne peut le croire, ni se fonder sur ce qu’il dit, tant que cela n’a pas été prouvé comme étant la vérité. Et Dieu a dit: “Eprouvez toutes choses, et retenez ce qui est bon”. Il ne nous dirait pas de faire quelque chose qu’Il ne ferait pas Lui-même. C’est ainsi qu’Il montra qui était Celui qui mourut pour nos péchés.
+
+Et ce jour n’est pas seulement un jour commémoratif de tous ces lapins de Pâques, de ces oeufs de Pâques, etc., et de ces saintes célébrations; tout cela est très bien, mais ce n’est pas la chose réelle.
+
+Aujourd’hui, il y a des gens qui disent que nous devrions procéder au lavage des pieds une fois par année, le Jeudi, et prendre la communion le Vendredi, et toutes ces doctrines… Ils discutent pour savoir si cela doit être ce jour-ci ou ce jour-là, s’il faut que ce soit le jour du Sabbat ou le premier jour de la semaine… Toutes ces choses ne sont que traditions. Quel bien vous feront tous ces rites, que vous respectiez ou non le Carême, s’il n’y a pas de Vie en vous! Ce n’est qu’un service commémoratif, et l’on ne peut rien dire là contre, mais s’ils ont certainement conservé leurs traditions, ils ont abandonné le principal.
+
+Peu importe à Satan combien vous êtes religieux, ou à quel point vous connaissez votre doctrine; s’il vous manque la Vie, vous ne serez pas enlevé! Peu importe combien vous êtes religieux, combien vous êtes bon, à combien d’églises vous avez appartenu ou appartiendrez, tout cela ne vous servira à rien, si vous n’êtes pas né de nouveau!
+
+Ainsi donc, si Dieu a ressuscité Jésus d’entre les morts, L’a-t-Il ressuscité pour que l’on commémore cette résurrection, et ce jour de résurrection n’est-il rien de plus qu’un certain jour que nous célébrons chaque année — ou au contraire, sommes-nous les bénéficiaires de cette résurrection? Que signifie-t-elle pour moi? Que signifie-t-elle pour vous? Nous croyons bien par la foi qu’Il est ressuscité des morts, mais quel rapport cela a-t-il avec moi? Cela s’est passé il y a deux mille ans!
+
+Pendant que je cherchais mon texte, j’avais mal au bras, à cause des piqûres que m’a faites l’infirmière… Je vais traverser l’océan dans quelques jours, comme vous le savez, et mon fils et moi, nous avons dû avoir ces piqûres. Il y en a contre le choléra, la fièvre jaune, etc. J’étais passablement fatigué (ces piqûres me rendent malade) … C’est César qui exige ces piqûres de ceux qui doivent se rendre dans d’autres nations. Jésus a dit: “Rendez donc à César ce qui est à César, et à Dieu ce qui est à Dieu”. Et alors, je me demandais de quoi j’allais parler ce matin à cette assemblée en attente (je suis très reconnaissant d’avoir une telle assemblée), je pensai que tous ces hommes et ces femmes allaient baser leur vie sur ce que j’allais dire. Qu’allais-je faire? Quel texte allais-je prendre?
+
+Mais pendant que je restais là, à moitié endormi, on secoua la porte d’entrée qui se trouve devant la maison. Pensant être seul à la maison, j’écoutai; je crus avoir mal entendu. Ensuite, après que je fus retourné à mon bureau, c’est la porte du bureau qui se mit à trembler: il y avait quelqu’un qui secouait la porte. J’allai ouvrir, et, à ma grande surprise, je vis une jolie petite fille blonde aux yeux bleus; elle se tenait là, ayant l’air d’une petite pâquerette, et elle me regardait droit dans les yeux. Elle me tendit une carte, et, comme j’allais quitter la maison, c’est la seule que je reçus; (bien sûr, je pense que, lorsque je serai de retour chez moi, je trouverai quantité de cartes de voeux, etc., mais…). Elle me dit: «Frère Branham, c’est de la part de papa et de moi»; elle voulait être sûre que le «moi» y fût. Et c’est son père, enchaîné par son arthrite dans une chaise roulante, qui avait envoyé cette carte.
+
+Je remerciai cette chère petite et pris la carte, que j’ouvris après qu’elle se fût retirée. Et c’est sur cette carte que j’ai trouvé mon texte, car il était écrit le texte de Marc 16.1,2:
+> “… comme le soleil se levait”.
+
+Je pensai à cela, et à la résurrection de Jésus d’entre les morts, et c’est de là que j’ai tiré mon sujet.
+
+Or, le soleil, au lever du soleil… Il y eut un temps où le monde était dans une obscurité complète. La terre était informe et vide, et les eaux la recouvraient entièrement. Elle était plongée dans une obscurité lugubre. L’Esprit de Dieu se mouvait au-dessus des eaux, et dit: “Que la lumière soit!”.
+
+Il y avait une raison pour que Dieu fasse cela, car sous ces eaux étaient enfouies les semences qu’Il avait semées, et pour vivre il leur fallait la lumière du soleil. Et la première Lumière qui ait jamais éclairé la terre, fut la Parole de Dieu proclamée. La première Lumière qui ait frappé la terre fut la Parole que Dieu proclama. Il dit:
+> “Que la lumière soit!” et la lumière fut. Elle dissipa les ténèbres et les transforma en lumière, afin de susciter une création de joie et de vie sur la terre.
+
+Alors, l’Esprit de Dieu, plein d’amour et de compassion en ce jour glorieux, se mouvant au-dessus de la terre en ce premier jour, à l’aube de la création… le soleil se leva, et ses rayons l’asséchèrent, et les eaux en s’évaporant firent au-dessus d’elle une atmosphère. Et, pour la première fois, il allait apporter la joie et la vie sur la terre par une semence. Ce fut une heure glorieuse!
+
+Pourtant, ce premier lever de soleil n’était rien, en comparaison de celui du matin de Pâques. Alors, lorsque le soleil entreprit sa course dans le ciel, il répandit une nouvelle encore plus glorieuse. Ce lever de soleil apporta une nouvelle plus glorieuse que le premier lever de soleil du commencement. Il apporta cette nouvelle: “Il est ressuscité! Il s’est relevé d’entre les morts comme Il l’avait promis! Il est ressuscité d’entre les morts!”.
+
+Lorsque, dans la Genèse, le soleil se leva pour la première fois, il apporta un message proclamant la vie sur la terre, une vie mortelle. Mais, lorsque le soleil se leva à l’aube de ce nouveau jour, ce fut un lever de soleil très différent! Ce ne fut pas seulement le soleil qui se leva, mais le FILS qui ressuscita [Frère Branham fait un jeu de mots avec S-U-N — soleil, et S-O-N — fils. Les verbes: se lever et ressusciter sont rendus tous deux par le même verbe: to rise — N.d.T.] pour apporter la Vie Eternelle à la Semence prédestinée de Dieu qu’Il avait, dans Sa prescience, déposée sur la terre.
+
+Rien, pas la moindre végétation, ne pouvait vivre au commencement sans le soleil (s-u-n) qui apportait la vie. Et de même, aujourd’hui, c’est la Lumière du Fils (S-o-n) de Dieu qui, seule, peut amener à la Vie Eternelle les fils de Dieu, Ses élus, ceux qu’Il a connus avant la fondation du monde. Il les a choisis en Lui, avant la fondation du monde. Et en ce matin de Pâques, nos corps gisaient quelque part dans la poussière, parce que nous sommes faits de la poussière de la terre. Et dans le Ciel, il y avait un Livre, et Ses attributs sont en Lui, et nous savons que, parce que ce Fils de Dieu a été ressuscité, Il donnerait aussi la Vie à chacun de Ses fils d’élection en ce temps glorieux. Il savait que tout cela arriverait, et que ce matin serait bien plus glorieux que celui du commencement — à l’aube du premier jour.
+
+Aujourd’hui, alors que nous brisons ce Sceau de Pâques… Aujourd’hui, nous avons un «sceau de Pâques» consacré à la tuberculose! [Sceau postal — N.d.T.] Les gens s’envoient des messages les uns aux autres, et pour soutenir la recherche médicale en faveur de la lutte contre la tuberculose, ils… ce que nous appelons un «sceau de Pâques» — lorsque nous nous envoyons des messages les uns aux autres.
+
+Mais lorsque nous recevons le message, le sceau est brisé, parce que le sceau contient un message enfermé à l’intérieur. Et alors, le vrai Sceau de Pâques au sujet de ce nouveau matin a été brisé, et le secret de la vie après la mort a été révélé. Avant, nous ne le connaissions pas. Le monde tâtonnait dans l’obscurité, et faisait toutes sortes de suppositions. Dans le coeur de l’homme, il y avait des théories, des traditions fabriquées par l’homme. L’homme adorait des idoles: il adorait le soleil et toutes sortes de dieux. Et tous ces gens qui prétendaient toutes ces choses ont fini par entrer dans la tombe, et y sont restés. Mais le vrai Sceau a été brisé, et il y en a Un, qui a vécu comme nous, et qui est mort comme nous, mais Lui, Il est ressuscité d’entre les morts! Quel matin glorieux! Il n’y en a eu aucun de semblable dans toute l’histoire du monde! Un secret fut révélé: c’est qu’il était à la fois la Résurrection et la Vie!
+
+Lorsqu’Il ressuscita ce matin-là, Il dit: “Parce que Je vis, vous vivrez aussi”. Il ne fut pas le seul bénéficiaire de la résurrection, mais toute cette semence qui appartenait à la glorieuse Providence de Dieu fut aussi bénéficiaire de cette résurrection à la Vie, parce qu’Il a dit: “Parce que Je vis, vous vivrez aussi”.
+
+Voilà comment ce Sceau fut brisé. C’est parce qu’Il fut élevé que tous ceux qui croient en Christ seront aussi élevés avec Lui. Lors de ce matin glorieux, Dieu a prouvé, confirmé Sa Parole. Tous les désarrois, tous les doutes qui s’étaient glissés dans l’esprit des hommes furent effacés, parce que Celui qui vécut parmi les hommes, qui but, mangea et eut une communion avec eux, dit: “J’ai le pouvoir de donner Ma Vie, et j’ai le pouvoir de La reprendre”. Il ne se contenta pas de l’affirmer, mais Il démontra que c’était la Vérité. Oh! comme cela est glorieux! Je suis certain, ce matin, que même nous qui croyons, nous ne pouvons pas saisir pleinement quelque chose d’aussi merveilleux. Parce qu’Il est ressuscité d’entre les morts, nous sommes aussi ressuscités d’entre les morts, puisque nous étions en Lui.
+
+Quand les ténèbres couvraient la terre, les semences ne purent venir à la vie avant l’apparition du soleil (s-u-n); les ténèbres couvraient la terre, mais le FILS (S-o-n) ressuscita, et elles furent dissipées par cette lumière, qui se répandit parmi les nations: “Il n’est point ici, Il est ressuscité!”. Quelle proclamation merveilleuse!
+
+Il a confirmé Sa Parole; Il l’a confirmée comme étant la Vérité, car maintenant Il a vaincu la mort, le séjour des morts et le sépulcre. Il a vaincu la trinité de Satan: mort, séjour des morts et sépulcre. Car Satan est l’auteur de la mort; c’est lui qui possède le séjour des morts et le sépulcre. Et tout cela, c’était la trinité de Satan, dont l’origine est la mort. En tant que mort, vous appartenez au sépulcre, et en tant que pécheur, vous allez en enfer. La trinité de Satan, qui est la mort, avait maintenu l’homme dans la captivité pendant de nombreuses années, mais maintenant, la vraie trinité du Dieu qui est Un s’est manifestée en Christ qui est la Vie; Il a brisé les Sceaux et vaincu l’ennemi, et s’est relevé d’entre les morts, étant l’Unique, le Véritable, le Dieu Vivant.
+
+> “J’étais mort; et voici, Je suis vivant aux siècles des siècles. Je tiens les clefs de la mort et du séjour des morts”.
+
+Dieu est Un, Il a été fait homme et a habité parmi nous; Il a vaincu tous les ennemis, et a prouvé que la trinité de Satan a été vaincue, et alors, la trinité de Dieu a été révélée, parce que seul Dieu Lui-même a le pouvoir d’amener à la Vie à nouveau. C’est Lui qui est Emmanuel. Dieu a été manifesté dans la chair.
+
+Il avait bien le droit d’affirmer: “Tout pouvoir m’a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations mes disciples…” (Mat. 28.18,19). Il avait vaincu la mort, le séjour des morts et le sépulcre. Et non seulement, en tant que triomphateur, reçut-Il tout pouvoir dans le Ciel et sur la terre, mais encore tout ce qui était le Père, tout ce qui était le Saint-Esprit, et tout ce qui a jamais existé était en Lui: “Tout pouvoir m’a été donné dans le Ciel et sur la terre”. Il n’y a de pouvoir nulle part ailleurs, car Il a vaincu.
+
+De plus, Il a fait dire à Ses disciples, Ses croyants: “Ne craignez rien, Je suis celui qui est mort, et qui vis maintenant pour toujours. J’ai les clefs de la mort et du séjour des morts. J’ai vaincu”. N’ayez plus de crainte, car chaque semence prédestinée de Dieu viendra à la Vie lorsque la Lumière de ce glorieux Evangile se répandra sur toute la terre. Dans chaque âge, Elle fera mûrir la récolte que Dieu avait ordonnée: Il est ressuscité des morts.
+
+Comme c’est merveilleux! “Je vis!”. — ou plus exactement: “J’ai été ramené à la vie!”. Le mot grec indique bien que la mort avait fait son oeuvre avant que la vie ne soit manifestée. C’est comme la semence qui a été mise dans la terre; elle doit mourir entièrement. Il faut que cette semence se décompose complètement. Et chaque parcelle de vie qui était dans la semence doit réapparaître à nouveau.
+
+Non seulement Il ressuscita, mais: “Je vous enverrai la Vie même qui m’a ressuscité; la Puissance qui m’a fait sortir du sépulcre, Je l’enverrai sur vous pour vous donner la Vie, afin que là où Je suis, vous soyez aussi”.
+
+Dans Luc 24.49, Il dit: “Et voici, J’enverrai sur vous ce que mon Père a promis; mais vous, restez dans la ville jusqu’à ce que vous soyez revêtus de la puissance d’En-haut”. Il nous montre aussi qu’Il n’a pas seulement retiré pour Lui tout le bénéfice (de Son sacrifice), mais qu’Il le partage avec nous. Il est venu pour racheter, pour apporter la Vie à cette semence prédestinée que Dieu avait vue avant la fondation du monde, lorsqu’Il inscrivit leurs noms dans le Livre de Vie; et les voici qui sont sur la terre sans aucun espoir! Mais Il vint non seulement pour être la bénédiction, mais aussi pour partager cette bénédiction avec chaque Semence prédestinée.
+
+Or, si la semence n’avait pas été sur la terre, elle n’aurait pas pu vivre. Il fallait qu’elle fût sur la terre, et qu’elle eût un germe, pour pouvoir germer. Peu importe le temps pendant lequel elle est restée dans l’obscurité, elle sort au moment où le FILS (s-o-n) jette Ses rayons sur elle.
+
+Vous voyez, Il est venu maintenant partager cela avec nous. Il n’est pas surprenant que l’Evangile soit une Bonne Nouvelle! D’ailleurs, le mot Evangile signifie «bonne nouvelle». Quelle est cette «Bonne Nouvelle»? — si un homme donne sa vie et meurt pour nous, cela, c’est une bonne nouvelle? Si Christ est né, c’est une bonne nouvelle! Mais il n’y a jamais eu de bonne nouvelle semblable à celle-ci: Celui qui a fait la promesse a confirmé cette promesse, et cette promesse, c’est qu’il vit éternellement, et tient dans Sa main les clefs de la mort et du séjour des morts. Toutes les ténèbres ont été dissipées; il n’y en a plus, car le Fils est sorti du sépulcre. Il n’y a pas de: «Il viendra» ou de «Il se pourrait qu’Il vienne»: il est déjà venu! L’Evangile, c’est la Bonne Nouvelle!
+
+Remarquez bien que le Message même de l’Evangile a pour but de prouver aux peuples qu’Il est ressuscité. “… et allez promptement dire à ses disciples qu’il est ressuscité des morts. Et voici, Il vous précède en Galilée: c’est là que vous Le trouverez” … “J’irai à leur rencontre et Je le leur confirmerai”. Oh, mon Dieu! dans les derniers jours, quelle Lumière n’y aura-t-il pas de nouveau sur toute la terre! “Et je le montrerai à Mes disciples; allez leur dire que Je ne suis pas mort, que Je ne suis pas une tradition, mais que Je suis un Christ vivant; J’irai à leur rencontre. Transmettez ce Message à Mes disciples, leur disant que Je suis ressuscité d’entre les morts”. L’Evangile, la Bonne Nouvelle! Vous pourrez dire: «Est-ce que tout cela est vrai?». — Hébreux 13.8 dit qu’il est le même hier, aujourd’hui, et éternellement.
+
+Nous qui en sommes les bénéficiaires, nous devons prouver que Sa Vie est en nous — nous, les bénéficiaires de Sa Vie. Personne n’a jamais vécu comme Lui; Il était le Fils de Dieu. Lorsqu’Il mourut, cette Vie fut terminée. Mais, le matin de Pâques, Il est ressuscité d’entre les morts, et nous, Ses serviteurs, avons reçu de Lui la mission d’aller par tout le monde apporter cette bonne nouvelle à chacun: Il est vivant. Et comment pourrions-nous le faire uniquement par des paroles? Car il est écrit: “… notre Evangile ne vous ayant pas été prêché en paroles seulement, mais avec puissance, avec l’Esprit-Saint, et avec une pleine persuasion…”.
+
+Mais s’il y a un autre Evangile… Paul a dit à l’une des assemblées: “Je suis surpris que vous vous tourniez vers un autre évangile (qui ne peut être rien de plus qu’une contrefaçon) vers une fiction dénominationnelle, vous éloignant ainsi de la Bonne Nouvelle. Parce que Je vis, vous vivrez aussi, et Je vis en vous. Et les oeuvres que Je fais (voir Jean 14.12), les oeuvres que Je fais, m’identifieront en vous”. Oh! quel Message! Il n’est pas étonnant que le monde de la théologie soit un monde de ténèbres! Mais vers le soir, la lumière paraîtra. Il y aura de la Lumière.
+
+Or, l’essence même du Message est: “Il est ressuscité des morts”. Nous, Ses bénéficiaires, nous partageons la résurrection avec Lui; nous en retirons les bénéfices en prouvant au monde qu’Il est vivant. Nous ne pouvons pas le faire en paroles seulement, ni par les traditions des hommes. Nous ne pouvons que refléter fidèlement ce que nous prêchons.
+
+J’ai bien peur qu’aujourd’hui, il n’y en ait pas assez parmi nous qui attirent des gens à Christ. Nous les attirons à une église, à une théorie — nous devons les attirer à Christ. Il est l’Unique, le Seul qui ait la Vie. “Celui qui a le Fils a la Vie”. Et si la vie d’un homme qui est mort était projetée en vous, vous vivriez la même vie que lui. Si le sang d’un homme était d’un certain groupe, et que vous preniez son sang pour le transfuser dans le corps d’un autre homme, cet homme aurait ce même type de sang. Et si l’esprit naturel qui est en vous est considéré comme mort, et que vous êtes oints par la Vie de Christ qui vient en vous… Romains 8.11 dit: “Et si l’Esprit de celui qui a ressuscité Jésus d’entre les morts habite en vous, celui qui a ressuscité Christ d’entre les morts rendra aussi la vie à vos corps mortels par l’Esprit qui habite en vous”. — la même Vie, la même puissance, les mêmes avantages que ceux qu’Il avait reçus de Dieu lors de Son séjour sur cette terre. Il vous a racheté, vous qui êtes une Semence prédestinée de Dieu, et dont le nom fut écrit dans le Livre de Vie avant la fondation du monde. Et la Lumière que répand l’Evangile sur la résurrection, la confirmation de la Parole… Comment avons-nous su qu’Il était le Christ? — Parce qu’Il a confirmé les choses dont Il parlait. Comment reconnaîtrons-nous le Message de notre temps? — Dieu confirmera ce qu’il a promis et ce dont Il a parlé.
+
+Cela, c’est la confirmation du fait que nous participons avec Lui à la résurrection. Il confirme ce dont Il a parlé. Il a confirmé ce qu’Il a promis aux jours de Moïse. Il a confirmé ce qu’Il a promis aux jours d’Enoch. Il l’a confirmé aux jours des apôtres. Et maintenant, en ce jour, Il confirme ce qu’Il a dit, parce qu’ils sont une partie de la Semence qui était inscrite dans le Livre de Vie, et Il est venu pour les racheter, et les ramener à Dieu. Oh! quel Message merveilleux!
+
+Ce matin de Pâques, ce n’est pas Lui seul qui ressuscita, mais tous les bénéficiaires sont aussi ressuscités avec Lui. Ils étaient en Christ, lors de Sa crucifixion, et Ils furent en Lui à Sa résurrection. Nous sommes Ses bénéficiaires, Ses ayants droit; nous avons reçu la Vie, après avoir été morts, dans les ténèbres, dans un monde obscurci par l’incrédulité, où les églises, les dénominations, etc., nous avaient entraînés. Mais en nous, il y avait quelque chose qui appelait: «Oh! c’est Dieu que nous voulons! Nous avons faim et soif de Dieu!». Et nous nous sommes joints aux Méthodistes, Baptistes, Pentecôtistes, Presbytériens, et je ne sais quoi d’autre encore — et il y avait toujours quelque chose qui n’allait pas. Nous n’arrivions pas à trouver! Et soudain, alors que nous tâtonnions dans l’obscurité, cette glorieuse Résurrection vint à nous dans la manifestation de la promesse de Dieu, parce qu’Il est la manifestation de la promesse de Dieu. “Car Tu n’abandonneras pas mon âme dans le séjour des morts, et tu ne permettras pas que Ton Saint voie la corruption”. Cela, Il l’a manifesté, Il a confirmé chaque promesse de la Parole de Dieu. Il l’a confirmé lors de Sa résurrection le matin de Pâques.
+
+Il y avait tous ceux qui cherchaient leur voie en tâtonnant dans les ténèbres: il fallait qu’ils se lavent les pieds un certain jour, qu’ils sanctifient un tel autre jour, qu’ils respectent tout un jeu de règles. Toutes ces choses sont du passé, car il y a eu une résurrection glorieuse, qui a anéanti toutes ces choses faites de main d’homme, toutes ces choses instituées par la raison humaine. Aucun homme à ce jour n’a jamais pu perdre la vie et la reprendre. Mais Lui, Il défia les certitudes de la science en ressuscitant.
+
+Ils disent que Jésus-Christ n’est pas le même hier, aujourd’hui et éternellement; que Sa puissance n’est plus la même qu’autrefois; que Son Evangile a changé, alors que la Bible dit au contraire qu’Il est le même: Dieu jette le défi à chaque dénomination, à chaque credo, et Il est venu sous la forme du Saint-Esprit, selon Sa promesse, et Il nous a donné la preuve qu’Il est vivant. Nous sommes les bénéficiaires de Sa résurrection; nous avons reçu la vie, après avoir été morts dans le péché et les transgressions du monde, Il nous a ressuscités avec Lui, nous a élevés avec Lui, et maintenant, nous sommes avec Jésus-Christ dans les lieux célestes.
+
+Son Esprit ramène sur la terre Sa Vie, qui est la même Vie qu’autrefois. Si l’Esprit de Dieu qui a ressuscité Christ — le corps, le corps oint… L’Esprit de Dieu a oint ce corps de telle manière que, lorsque cette Semence tomba sur la terre, Il ne permit pas qu’Elle reposât là. Non! Il Le ressuscita et Le releva — le même Esprit, accomplissant les mêmes oeuvres par la même puissance, accompagné des mêmes signes, s’Il est en vous, alors Il vous ressuscitera, vous aussi.
+
+Maintenant, je voudrais encore vous lire un court passage dans les Ecritures. Cela pourrait vous aider. C’est dans le Lévitique, chapitre 23, versets 9 à 11. Ecoutez bien, c’est la Loi, la Loi lévitique, c’est Dieu qui parle à Moïse. Ecoutez! Toutes ces choses sont des types, et nous nous arrêterons ici un court instant, afin de bien saisir ces types.
+> “L’ETERNEL parla à Moïse, et dit: Parle aux enfants d’Israël, et tu leur diras: Quand vous serez entrés dans le pays que je vous donne… (à l’endroit, dans la position que je vous ai donnée. Il parle aux enfants d’Israël, leur disant que, lorsqu’Il les aurait conduits à l’endroit où Il leur avait promis qu’Il les conduirait, lorsqu’ils arriveraient dans ce pays… ici, il est parlé de ces choses naturelles qui sont l’image des choses spirituelles) … et que vous y ferez la moisson… (vous avez écouté ce que Je vous ai dit) … vous apporterez aux sacrificateurs une gerbe, prémices de votre moisson. Il agitera de côté et d’autre la gerbe devant l’Eternel, afin qu’elle soit agréée: le sacrificateur l’agitera de côté et d’autre, le lendemain du sabbat”.
+
+Lorsqu’un saint rite devait être accompli, il fallait que ce fût le jour du Sabbat, qui est Samedi, le septième jour de la semaine. Mais, avez-vous remarqué que, dans le rite mentionné ci-dessus, la gerbe devait être agitée le premier jour de la semaine, cette gerbe qui venait de la première semence que vous aviez semée. Lorsqu’elle est arrivée à maturité, vous coupez la gerbe, et l’apportez au sacrificateur qui la prend et l’agite devant le Seigneur, afin que vous soyez agréé. Vous devez venir avec votre gerbe, et lui, il doit l’agiter devant le Seigneur, non pas le jour du Sabbat, le septième jour, mais le premier jour, que nous appelons Dimanche [en angl.: S-u-n-d-a-y — N.d.T.]. Bien sûr, ce mot est un mot romain, parce que les Romains donnaient à ce jour le nom du dieu soleil. Mais combien tout cela a changé! Il ne s’agit plus du soleil [s-u-n — N.d.T.], mais du Fils [S-o-n-d-a-y; frère Branham fait un jeu de mots entre sunday = dimanche, et sonday, mot qui se prononce comme le précédent, mais qui, par son orthographe signifie littéralement: «jour du Fils» — N.d.T.]; c’est le jour du Fils, cette Semence, le Premier-né d’entre les morts, qui doit être agité au-dessus de l’assemblée de ceux qui sont Sa Semence; et Il est le Premier de cette Semence de ceux qui dormaient… On l’agitait le premier jour de la semaine. Le dimanche, Il ressuscita, puis Il s’éleva et leur fit signe de la main en s’en allant; ensuite Il prit congé d’eux; Il monta dans les lieux Très-hauts à la vue de Son peuple.
+
+Remarquez qu’Il fut le premier des Grains de la récolte de Dieu qui ait été ressuscité d’entre les morts. Par la Puissance de Résurrection de Dieu, Dieu Lui rendit la vie, Le ressuscitant d’entre les morts; Il était les prémices de ceux qui dormaient — les Prémices. Il était la Gerbe; c’est pourquoi ils devaient agiter cette gerbe, car elle était la première à venir à maturité. Et elle était agitée en témoignage d’actions de grâces envers Dieu, car ils croyaient que le reste des gerbes viendraient aussi. C’était un signe. Et aujourd’hui, parce qu’Il est le Premier Fils de Dieu qui soit venu à la pleine maturité afin d’être en Dieu, Il a été enlevé de la terre; Il est maintenant agité au-dessus du peuple (Oh! quelle leçon glorieuse!) par la Puissance de Résurrection.
+
+Le Premier… Bien qu’Il ait été… Son type a été représenté de nombreuses fois, comme nous le verrons plus tard, mais Il est réellement les Prémices de ceux qui dorment. Il fut agité au-dessus de la Semence prédestinée qui avait reçu la promesse de la Vie; Il fut agité le jour de Pentecôte, lorsque retentit dans le Ciel un bruit semblable à un vent impétueux; Il fut agité au-dessus de ceux qui étaient réunis en ce jour, attendant la bénédiction qui devait venir. Il doit encore être agité dans le dernier jour, ainsi que nous pouvons le voir dans Luc 17.30, dans le Jour du Fils [Sonday — N.d.T.], dans le jour où le FILS de l’homme sera encore une fois agité (révélé) au-dessus de Son peuple.
+
+Mais Qui est ce Fils de l’homme? — “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu… Et la Parole a été faite chair, et Elle a habité parmi nous…”. Tous les enseignements que nous avons, toutes les confirmations de la Parole de Dieu par Sa Parole, par les signes et les miracles (Evangile de Luc, que nous venons de citer, Luc 17.30, Malachie 4, et d’autres passages que nous connaissons bien), nous montrent que cette Parole est de nouveau agitée au-dessus du peuple, que les traditions mortes de l’homme sont bien mortes, et que le Fils de Dieu est vivant, et qu’Il est revenu parmi nous avec le Baptême du Saint-Esprit, et qu’Il nous donne la Vie.
+
+Christ fut le Premier de tous les prophètes à ressusciter (Son type est représenté à de nombreux endroits, Il fut les Prémices de ceux qui étaient endormis). Dans l’Epouse suscitée par Christ, et sortant du système des églises, il faut qu’une Gerbe soit agitée de nouveau dans les derniers jours.
+
+Agiter la gerbe. De quelle gerbe s’agissait-il? — de la première à venir à maturité, la première qui prouvait qu’elle était du blé. Alléluia! Je suis sûr que vous comprenez ce que je dis! Elle était agitée au-dessus du peuple; et pour la première fois, pour l’âge de l’Epouse, afin de susciter une résurrection hors des ténèbres des dénominations, il y aura un Message auquel la pleine maturité de la Parole aura restitué toute Sa puissance, et qui sera agité au-dessus du peuple par les mêmes signes et miracles que ceux qu’Il accomplit autrefois.
+
+“Parce que Je vis, vous vivrez aussi”, dit-Il à Son Epouse. “Parce que Je vis, vous vivrez aussi”. Quelle résurrection cela fut! Et quelle glorieuse résurrection nous vivons maintenant: être ressuscités d’entre les morts, avoir reçu la Vie en Jésus-Christ par la Puissance de Résurrection de Dieu.
+
+Il fut agité au-dessus d’eux; Il était la Parole, et Il fut agité au-dessus d’eux le jour de Pentecôte; c’était la Parole manifestée. Et, je vous le dis, Elle sera de nouveau agitée dans les derniers jours.
+
+Mais vous allez me dire par exemple: «Frère Branham, attendez une minute. Je connais une église qui…». — Oh! moi aussi!… Vous comprenez?
+
+Prenons un exemple. Supposons que, pour retourner à Tucson cet après-midi, nous ayons chacun une grande Cadillac flambant neuve. Les sièges sont recouverts des cuirs les plus fins, il y a d’épais tapis sur le plancher, le volant est nickelé et orné de diamants un peu partout. Le moteur a été testé très consciencieusement. Les roulements à billes des roues ont été soigneusement graissés, les pneus sont à l’épreuve des crevaisons, et ont été contrôlés par des spécialistes. A leur sortie de la chaîne de montage, ces deux voitures sont allées faire le plein d’essence. L’essence, c’est la puissance qui leur permet de rouler. Mais, au moment où l’on veut les faire démarrer, bien qu’elles aient toutes deux l’air parfaitement identiques, l’une d’elles ne peut partir: il n’y a pas d’étincelle; il lui manque cette petite flamme.
+
+Vous me direz: «Pourtant, frère Branham, toute la force est dans l’essence!». — Peu importe combien de puissance il y a dans l’essence! S’il n’y a pas une étincelle pour manifester cette puissance, s’il n’y a pas une puissance pour manifester que c’est de l’essence, cela revient au même que si l’on mettait de l’eau dans le moteur.
+
+Peu importent les affirmations des théologiens! Peu importe la consécration de votre église, l’étendue de vos connaissances, votre obéissance à la Bible! Si cette Gerbe n’est pas agitée, si le Saint-Esprit ne vient pas sur nous pour donner la Vie à la Parole (l’essence représente la Parole; c’est la Vérité), vous ne pourrez pas vous mettre en mouvement!
+
+Nous avons accordé trop d’importance au mécanisme, et rien du tout à la Dynamique. Il faut que la Puissance dynamique de Dieu, la Puissance de Résurrection de Jésus-Christ sur l’Eglise, rende manifeste et confirme qu’il s’agit d’essence! Ce n’est pas parce qu’elle est dans un bidon à essence que c’est de l’essence; cela pourrait tout aussi bien être de l’eau. Vous comprenez? Le seul moyen de l’éprouver, c’est d’en approcher l’étincelle de Vie, et alors, on verra si c’est de l’essence ou non!
 
 LE LEVER DU SOLEIL 11
    Lorsque vous essayez d’introduire le Saint-Esprit dans une dénomination, c’est comme si vous
@@ -586,7 +286,7 @@ Dynamique; et l’Esprit de Dieu qui Le fit accomplir les choses qu’Il a accom
 mettra le contact à Ses «seize cylindres», alors l’Epouse fera de même. Amen! Car il est dit
 dans Jean 14.12: “… celui qui croit en moi fera aussi les oeuvres que Je fais…”. — “Je mettrai Ma
 Dynamique dans son mécanisme, afin que le monde ne puisse lui résister, et Je le ressusciterai au
-dernier jour!”.
+derrier jour!”.
    Voici le Message de Pâques: L’union de la Dynamique et du mécanisme. Le mécanisme sans
 la Dynamique ne sert à rien, non plus que la Dynamique sans le mécanisme. Vous pouvez crier,
 sauter et vous exalter tant et plus — et renier la Parole: alors, cela ne servira à rien. Vous ne
@@ -1672,9 +1372,6 @@ maintenant, Seigneur! Et que l’Esprit puisse aller d’aigle en aigle, de Paro
 que la plénitude de Jésus-Christ soit manifestée en chacun de ces corps, pour tous leurs besoins,
 qu’ils soient physiques, spirituels — quels que soient les besoins pour lesquels nous leur
 imposons les mains. Dans le Nom de Jésus-Christ!
-
-
-
 
 
 

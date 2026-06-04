@@ -1,13 +1,60 @@
-    SERIE 2 N° 4
+---
+source: "cmpp"
+sermon_id: "serie2no4"
+title: "Comment puis-je vaincre?"
+subtitle: "25 août 1963, matin"
+date: "1963-08-25"
+year: 1963
+location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le thème de la victoire chrétienne à partir d'Apocalypse 3.21, expliquant que la véritable victoire consiste à s'abandonner à Dieu et à laisser Christ vivre en nous. Il illustre son propos par des exemples de guérisons et de délivrances récentes, et compare l'époque actuelle à celle de Noé, où seuls huit personnes furent sauvées."
+tags:
+  - "victoire"
+  - "abandon"
+  - "foi"
+  - "guérison"
+  - "Apocalypse"
+  - "Noé"
+  - "Laodicée"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Noé"
+  - "Daniel"
+  - "Schadrac"
+  - "Méschac"
+  - "Abed-Nego"
+  - "Paul"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Yakima"
+  - "Washington"
+  - "Louisville"
+  - "Ohio"
+themes:
+  - "victoire par l'abandon"
+  - "épreuve de la foi"
+  - "l'Église de Laodicée"
+  - "l'enlèvement"
+  - "la semence prédestinée"
+  - "la guérison divine"
+  - "le temps de la fin"
+pdf_url: "http://cmpp.ch/serie2no4.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Apocalypse 2"
+  - "Apocalypse 3"
+  - "Matthieu 27"
+  - "Romains 8"
+---
+SERIE 2 N° 4
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
+WILLIAM MARRION BRANHAM
 
 
 
@@ -16,27 +63,23 @@ COMMENT PUIS-JE VAINCRE?
 
 
 
-
-      25 août 1963, matin
+25 août 1963, matin
        Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    COMMENT PUIS-JE VAINCRE?    2
+COMMENT PUIS-JE VAINCRE?    2
 
 COMMENT PUIS-JE VAINCRE?
  (How Can I Overcome?)
 
 
-      25 août 1963, matin
+25 août 1963, matin
        Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
-
 
 
 
@@ -44,106 +87,106 @@ Inclinons nos têtes pour la prière.
 1 Notre Père, nous Te remercions de nous avoir accordé cette matinée où nous pourrons
 passer de glorieux moments ensemble, et ouvrir la Parole du Seigneur. Nous Te prions afin que le
 Saint-Esprit prenne ces choses qui viennent de Dieu et nous les donne, en sorte que nous
-puissions quitter ce lieu d’adoration le coeur rempli de joie, que nous puissions aussi voir Ta
+puissions quitter ce lieu d'adoration le coeur rempli de joie, que nous puissions aussi voir Ta
 glorieuse puissance de délivrance, Seigneur, voir comment elle délivre les captifs, et leur
 donne la liberté; révèle-nous les choses qui étaient, qui sont et qui seront. Nous Te remercions
 pour tout cela.
 2 Nous Te prions afin que Tu nous bénisses pendant que nous étudions Ta Parole. Et, lorsque
 nous nous en irons, que nous puissions dire: “Notre coeur ne brûlait-il pas au-dedans de nous
-pendant qu’Il (le Saint-Esprit) nous parlait en chemin?”.
-3 Bénis aujourd’hui chacun de Tes serviteurs, où qu’il se trouve — tous Tes serviteurs qui
+pendant qu'Il (le Saint-Esprit) nous parlait en chemin?”.
+3 Bénis aujourd'hui chacun de Tes serviteurs, où qu'il se trouve — tous Tes serviteurs qui
 proclament Ta Vérité. Réponds à leurs prières pour les malades. Guéris le corps malade de ceux
 qui souffrent.
-4 Seigneur, nous Te prions d’aller parmi les peuples chercher Ta semence prédestinée, et de
-la conduire là où la Lumière peut l’éclairer, car nous croyons que l’heure avance: le soleil
-descend rapidement vers l’occident. Nous sommes sur le point d’arriver à ce moment “où il n’y
-aura plus de temps”. Alors, le temps s’unira à l’éternité quand Dieu s’unira à Son peuple. Et nous
-Te prions, ô Dieu, qu’en ce temps-là, nous puissions être comptés parmi ceux qui seront unis
-en Christ, ceux que l’on appelle Son Epouse. Aide-nous aujourd’hui, alors que nous nous
+4 Seigneur, nous Te prions d'aller parmi les peuples chercher Ta semence prédestinée, et de
+la conduire là où la Lumière peut l'éclairer, car nous croyons que l'heure avance: le soleil
+descend rapidement vers l'occident. Nous sommes sur le point d'arriver à ce moment “où il n'y
+aura plus de temps”. Alors, le temps s'unira à l'éternité quand Dieu s'unira à Son peuple. Et nous
+Te prions, ô Dieu, qu'en ce temps-là, nous puissions être comptés parmi ceux qui seront unis
+en Christ, ceux que l'on appelle Son Epouse. Aide-nous aujourd'hui, alors que nous nous
 préparons (nous ne savons pas de quoi demain sera fait) — mais nous sommes prêt à tout
 recevoir, Seigneur — tout ce qui vient de Toi… Nous sommes prêts à le recevoir. Nous Te
 demandons cette bénédiction pour la gloire de Dieu, au Nom de Jésus-Christ. Amen!
 (Vous pouvez vous asseoir).
-5 Combien j’étais heureux ce matin, en entrant, de voir tout ce monde rassemblé pour servir le
+5 Combien j'étais heureux ce matin, en entrant, de voir tout ce monde rassemblé pour servir le
 Seigneur. Nous allons faire quelques annonces pour ce soir. Il y aura un service de guérison ce
 soir, où nous prierons pour les malades.
-6 Il y a quelques instants, alors que j’étais sur le point d’entrer, mon fils Billy vint me dire: «Il y a
-ici un monsieur, un pauvre homme qui vient de loin; je l’ai conduit dans la pièce à côté».
-7 Je suis rentré tard hier soir, et je n’ai pas pu étudier longuement le sujet d’école du dimanche
-sur lequel je me disposais à parler ce matin, aussi ai-je pris quelques notes sur ce que j’ai entendu
-dire par un frère, et de cela j’ai tiré un sujet qui nous permettra d’avoir ce matin une sorte de leçon
-d’école du dimanche, et cela nous préparera pour le service de ce soir.
-8 Billy me dit: «Il y a là un homme qui est malade. J’aimerais bien que tu ailles le voir». Je viens
-d’y aller. C’est un frère qui a à peu près mon âge. Sa femme est ici dans la salle. Le Saint-Esprit
+6 Il y a quelques instants, alors que j'étais sur le point d'entrer, mon fils Billy vint me dire: «Il y a
+ici un monsieur, un pauvre homme qui vient de loin; je l'ai conduit dans la pièce à côté».
+7 Je suis rentré tard hier soir, et je n'ai pas pu étudier longuement le sujet d'école du dimanche
+sur lequel je me disposais à parler ce matin, aussi ai-je pris quelques notes sur ce que j'ai entendu
+dire par un frère, et de cela j'ai tiré un sujet qui nous permettra d'avoir ce matin une sorte de leçon
+d'école du dimanche, et cela nous préparera pour le service de ce soir.
+8 Billy me dit: «Il y a là un homme qui est malade. J'aimerais bien que tu ailles le voir». Je viens
+d'y aller. C'est un frère qui a à peu près mon âge. Sa femme est ici dans la salle. Le Saint-Esprit
 descendit aussitôt sur nous.
 9 Pensez donc! Je ne fis que mentionner le service de guérison, et Le voilà qui Se tient présent
-parmi nous! Et Il dit à ce frère tout ce qu’il avait fait, ce qui causait sa maladie — tout ce qui le
+parmi nous! Et Il dit à ce frère tout ce qu'il avait fait, ce qui causait sa maladie — tout ce qui le
 concernait. Une grande ombre noire planait dans la pièce. Mais elle devint de plus en plus claire,
-de plus en plus ténue, et bientôt, l’Esprit Saint prit le dessus.
+de plus en plus ténue, et bientôt, l'Esprit Saint prit le dessus.
 
         http://www.cmpp.ch
 
     COMMENT PUIS-JE VAINCRE?    3
 10 Je pense que cet homme est maintenant quelque part au fond de la salle. Peut-être que lui et
-sa femme n’ont pas pu entrer. Mais ils m’ont dit que de toute manière, ils resteraient pour les deux
-services. Ils sont venus de la région de Yakima, Washington, et ont roulé jusqu’ici. Lui est un
-prédicateur de l’Evangile. Mais, juste afin de montrer la grâce de Dieu (cet homme avait été à
-l’hôpital, avait suivi des traitements, etc.) — le Saint-Esprit révéla toutes ces choses. Peut-être que
-les médecins ont fait tout ce qu’ils ont pu pour cet homme, mais il a fallu ce petit attouchement
+sa femme n'ont pas pu entrer. Mais ils m'ont dit que de toute manière, ils resteraient pour les deux
+services. Ils sont venus de la région de Yakima, Washington, et ont roulé jusqu'ici. Lui est un
+prédicateur de l'Evangile. Mais, juste afin de montrer la grâce de Dieu (cet homme avait été à
+l'hôpital, avait suivi des traitements, etc.) — le Saint-Esprit révéla toutes ces choses. Peut-être que
+les médecins ont fait tout ce qu'ils ont pu pour cet homme, mais il a fallu ce petit attouchement
 de Dieu pour que tout change. Les traitements de choc sont quelque chose de très bien, mais
-c’est une sorte de “tir à l’aveuglette”. Cela vous rend encore plus malade, parce que vous oubliez
+c'est une sorte de “tir à l'aveuglette”. Cela vous rend encore plus malade, parce que vous oubliez
 tout ce que vous savez, quand ils vous donnent ces médicaments. Mais le Seigneur Dieu, dans Sa
-grâce et Sa miséricorde… Avant même que j’aie dit un mot de prière pour lui, il était déjà guéri!
+grâce et Sa miséricorde… Avant même que j'aie dit un mot de prière pour lui, il était déjà guéri!
 Comprenez-vous cela? Il fallait simplement ce quelque chose venant de Dieu, ce contact qui
 fait ce qui est à faire.
-11 Je suis allé à la campagne cette semaine… J’aime bien mes amis là-bas. J’ai pris quelques
-jours de vacances avant toutes ces grandes rencontres. J’ai passé chez moi, puis je suis allé
-là-bas chasser l’écureuil avec ces frères. Ces gens chez qui je vais sont vraiment de braves gens.
-Ce sont de vrais frères, des amis. L’un d’eux est un grand amateur de chiens de chasse. Il en a
-une quantité. J’en ai vu un qui était vraiment le plus joli de la meute. Une de ces petites bêtes
-hautes comme la moitié d’un chien, et longue comme deux. Ils couraient autour de la maison, et je
+11 Je suis allé à la campagne cette semaine… J'aime bien mes amis là-bas. J'ai pris quelques
+jours de vacances avant toutes ces grandes rencontres. J'ai passé chez moi, puis je suis allé
+là-bas chasser l'écureuil avec ces frères. Ces gens chez qui je vais sont vraiment de braves gens.
+Ce sont de vrais frères, des amis. L'un d'eux est un grand amateur de chiens de chasse. Il en a
+une quantité. J'en ai vu un qui était vraiment le plus joli de la meute. Une de ces petites bêtes
+hautes comme la moitié d'un chien, et longue comme deux. Ils couraient autour de la maison, et je
 pensai: «Combien Joe aimerait en avoir un même!».
-12 Bien sûr qu’en Arizona, c’est impossible. Il irait dans les cactus, et ce serait sa fin. C’est
-pourquoi je dis: «On n’a pas de chiens dans cette région, à cause de la nature du pays, des
-cactus: ils périraient». Même s’ils résistaient aux cactus, les loups les tueraient de toute manière.
+12 Bien sûr qu'en Arizona, c'est impossible. Il irait dans les cactus, et ce serait sa fin. C'est
+pourquoi je dis: «On n'a pas de chiens dans cette région, à cause de la nature du pays, des
+cactus: ils périraient». Même s'ils résistaient aux cactus, les loups les tueraient de toute manière.
 13 Aussi, quand cet homme me dit: «Vous pouvez le prendre!»… Je ne le pouvais pas, mais
-j’appréciai son geste; et je sus plus tard que c’était un de ses chiens favoris.
-14 Cet homme a une gentille femme, et quelques petits enfants. L’autre jour, elle recula avec la
-voiture et écrasa le petit chien. Des cailloux pointus lui avaient perforé le ventre. Elle, au lieu d’aller
-le conduire chez le vétérinaire… Evidemment, le vétérinaire l’aurait simplement endormi… Il y
-avait un jeune homme avec moi, qui dit: «Si c’était mon chien, je le tuerais! — Le laisser souffrir
+j'appréciai son geste; et je sus plus tard que c'était un de ses chiens favoris.
+14 Cet homme a une gentille femme, et quelques petits enfants. L'autre jour, elle recula avec la
+voiture et écrasa le petit chien. Des cailloux pointus lui avaient perforé le ventre. Elle, au lieu d'aller
+le conduire chez le vétérinaire… Evidemment, le vétérinaire l'aurait simplement endormi… Il y
+avait un jeune homme avec moi, qui dit: «Si c'était mon chien, je le tuerais! — Le laisser souffrir
 comme cela!…».
-15 Je dis: «Ne le tuons pas! Attendons un moment!». J’éloignai tout le monde, et me mis à prier
-pour lui, et voici que bientôt, le petit chien me suivit vers la porte d’entrée… Vous voyez?
-     “Tout ce que vous demanderez en priant, croyez que vous l’avez reçu, et vous le verrez
-s’accomplir”. Tout ce que vous demanderez! Voilà comment est notre Dieu, n’est-ce pas? Il est
-merveilleux! Et ce matin, nous L’aimons, et nous nous attendons à Lui, sachant que…
-16 L’autre jour, j’ai vu un vieux couple, les parents d’un bon membre de cette assemblée de
+15 Je dis: «Ne le tuons pas! Attendons un moment!». J'éloignai tout le monde, et me mis à prier
+pour lui, et voici que bientôt, le petit chien me suivit vers la porte d'entrée… Vous voyez?
+     “Tout ce que vous demanderez en priant, croyez que vous l'avez reçu, et vous le verrez
+s'accomplir”. Tout ce que vous demanderez! Voilà comment est notre Dieu, n'est-ce pas? Il est
+merveilleux! Et ce matin, nous L'aimons, et nous nous attendons à Lui, sachant que…
+16 L'autre jour, j'ai vu un vieux couple, les parents d'un bon membre de cette assemblée de
 croyants. Ils doivent être presque centenaires. Depuis douze ans, cet homme est couché sur le
-dos sans pouvoir bouger. Il ne peut même pas se mettre sur le côté — depuis douze ans! C’est
-l’âge. Sa pauvre femme — presque aussi âgée que lui — a pratiquement perdu la raison. Elle
-pense que quelqu’un est en train de prendre tout ce qu’elle possède. Alors, je regardai autour de
+dos sans pouvoir bouger. Il ne peut même pas se mettre sur le côté — depuis douze ans! C'est
+l'âge. Sa pauvre femme — presque aussi âgée que lui — a pratiquement perdu la raison. Elle
+pense que quelqu'un est en train de prendre tout ce qu'elle possède. Alors, je regardai autour de
 moi tous ces gens assis à table (jeunes et vieux), et je dis: «Où allons-nous, où en
 sommes-nous?». Et je dis à la maîtresse de maison dont ces gens étaient les parents: «Vous
-aussi, vous suivez le même chemin!». C’est vrai! C’est vrai pour chacun de nous!
-17 Pensez à cela un moment avant que nous commencions notre exposé. C’est là que nous
+aussi, vous suivez le même chemin!». C'est vrai! C'est vrai pour chacun de nous!
+17 Pensez à cela un moment avant que nous commencions notre exposé. C'est là que nous
 allons tous. Pourquoi luttez-vous? — Pour vivre. Pourquoi vivez-vous? — Pour mourir! Ne
 serions-nous pas particulièrement insensés de ne pas accepter ce que Dieu a à nous donner pour
-la Vie Eternelle? A quoi pensons-nous? Qu’y a-t-il dans nos pensées qui nous attire vers quelque
-chose? Qu’en auriez-vous de plus, si vous possédiez cent millions de dollars, ou l’état de l’Indiana,
+la Vie Eternelle? A quoi pensons-nous? Qu'y a-t-il dans nos pensées qui nous attire vers quelque
+chose? Qu'en auriez-vous de plus, si vous possédiez cent millions de dollars, ou l'état de l'Indiana,
 ou le pays tout entier — ou même le monde entier, pendant que nous y sommes? Si longtemps
-que vous viviez, vous non plus n’échapperez pas. Chaque jour, chaque battement de coeur vous
+que vous viviez, vous non plus n'échapperez pas. Chaque jour, chaque battement de coeur vous
 rapproche de cette échéance. Vous êtes du côté des perdants. Mais rappelez-vous la promesse:
 “Celui qui perdra sa vie à cause de Moi la retrouvera!”. Et quel plus grand trésor pourrions-nous
 trouver que la Vie? Même si le monde entier vous appartenait… mais si vous trouvez la Vie,
 vous trouvez la chose la plus merveilleuse qui soit.
 18 Il faut maintenant que je vous donne cette leçon. Voyez encore un exemple de la grâce du
-Seigneur. Il y a quelques semaines, on m’a appelé au téléphone, et un cher membre de cette
+Seigneur. Il y a quelques semaines, on m'a appelé au téléphone, et un cher membre de cette
 
               http://www.cmpp.ch
 
     COMMENT PUIS-JE VAINCRE?    4
-église, de ce corps… Je n’aime pas appeler cela une église. J’aimerais l’appeler… c’est comme
+église, de ce corps… Je n'aime pas appeler cela une église. J'aimerais l'appeler… c'est comme
 une fois où je causais avec des gens. Ils me demandèrent: «A quelle église appartenez-vous?».
     Je répondis: «A aucune!».
     — «A quelle dénomination appartenez-vous?».
@@ -151,228 +194,228 @@ une fois où je causais avec des gens. Ils me demandèrent: «A quelle église a
     — «Alors, à quoi donc appartenez-vous?».
 19 Je dis: «A un Royaume, un Royaume!». Et par un seul Esprit nous sommes baptisés dans
 ce Royaume — par un Esprit, dans ce Royaume. Jésus a dit: “Priez… que Ton règne vienne, que
-Ta volonté soit faite sur la terre comme au ciel…”. Et puis, avant d’aller sur la montagne de la
+Ta volonté soit faite sur la terre comme au ciel…”. Et puis, avant d'aller sur la montagne de la
 Transfiguration, Il dit: “Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront
-point, qu’ils n’aient vu le royaume de Dieu venir avec puissance”. Et la Bible dit: “Le royaume de
+point, qu'ils n'aient vu le royaume de Dieu venir avec puissance”. Et la Bible dit: “Le royaume de
 Dieu est au milieu de vous”. Ce sont donc les gens du Royaume qui proclament que leur pays
-n’est pas d’ici-bas. Nous ne sommes pas ici chez nous. Nous attendons la venue du Roi qui
+n'est pas d'ici-bas. Nous ne sommes pas ici chez nous. Nous attendons la venue du Roi qui
 viendra établir Son Royaume.
-20 J’ai été appelé pour un cas urgent — un frère âgé qui était pour moi comme un père… Je ne
+20 J'ai été appelé pour un cas urgent — un frère âgé qui était pour moi comme un père… Je ne
 le connaissais pas depuis très longtemps, mais je me rappelle le jour où je le conduisis ici pour
-recevoir le baptême d’eau. Maintenant, cet homme a près de quatre-vingt-onze ans. Sa femme
-m’avait appelé (elle est infirmière), et m’avait dit qu’il avait eu une très grave attaque au coeur. Il
-avait en plus une maladie… oh, je ne trouve plus le nom… une crise cardiaque, [quelqu’un dit:
+recevoir le baptême d'eau. Maintenant, cet homme a près de quatre-vingt-onze ans. Sa femme
+m'avait appelé (elle est infirmière), et m'avait dit qu'il avait eu une très grave attaque au coeur. Il
+avait en plus une maladie… oh, je ne trouve plus le nom… une crise cardiaque, [quelqu'un dit:
 «Coronaire.» — N.d.R.]… une crise cardiaque coronaire — merci! Son coeur ne fonctionnait
-pratiquement plus; les médecins l’avaient abandonné, et l’homme était en train de mourir. C’est
-alors qu’il m’appela.
-21 Je sautai dans ma vieille Ford et pris la route de l’Ohio en roulant aussi vite que possible. Je
-ne savais pas que l’une de mes roues était faussée, et le pneu s’usa complètement. J’arrivai vers
-11 heures à une station d’essence, très en souci au sujet de cet homme. Je l’aimais, et je savais
+pratiquement plus; les médecins l'avaient abandonné, et l'homme était en train de mourir. C'est
+Alors qu'il m'appela.
+21 Je sautai dans ma vieille Ford et pris la route de l'Ohio en roulant aussi vite que possible. Je
+ne savais pas que l'une de mes roues était faussée, et le pneu s'usa complètement. J'arrivai vers
+11 heures à une station d'essence, très en souci au sujet de cet homme. Je l'aimais, et je savais
 que le Seigneur pouvait lui accorder encore du temps! — mais de toute manière, il faut bien, tôt ou
 tard, que nous nous en allions.
-22 Mais pourtant, ce n’est pas cela qui changera quoi que ce soit à l’enlèvement. Non! Les
+22 Mais pourtant, ce n'est pas cela qui changera quoi que ce soit à l'enlèvement. Non! Les
 morts en Christ ressusciteront premièrement! Ceux qui sont partis sont des privilégiés. Ils
-ressusciteront premièrement. Vous voyez, nous qui sommes vivants et le resterons jusqu’à la
-venue du Seigneur n’empêcherons pas ceux qui sont endormis. La trompette de Dieu sonnera, et
+ressusciteront premièrement. Vous voyez, nous qui sommes vivants et le resterons jusqu'à la
+venue du Seigneur n'empêcherons pas ceux qui sont endormis. La trompette de Dieu sonnera, et
 les morts en Christ ressusciteront premièrement. Alors, quand nos yeux verront ceux que nous
-avons aimés, nous serons changés en un instant, en un clin d’oeil, et nous serons enlevés
+avons aimés, nous serons changés en un instant, en un clin d'oeil, et nous serons enlevés
 avec eux. Vous voyez, ceux qui sont partis les premiers sont des privilégiés par rapport aux
 vivants.
-23 Comme je sortais de la gare à 11 heures, le Saint-Esprit me dit: «Ne t’en fais pas à son sujet.
-Tu lui serreras de nouveau la main dans la rue, et tu le reverras dans l’église» — un homme
+23 Comme je sortais de la gare à 11 heures, le Saint-Esprit me dit: «Ne t'en fais pas à son sujet.
+Tu lui serreras de nouveau la main dans la rue, et tu le reverras dans l'église» — un homme
 mourant, âgé de quatre-vingt-onze ans! Quand je rencontrai sa femme et quelques membres de
-sa famille à l’hôpital de Lima, ils me parlèrent de lui, de l’état dans lequel il se trouvait. J’allai vers
-lui et le regardai. Il me dit: «Mais… il s’est passé quelque chose d’étrange». Je dis: «Cela a
-commencé à s’améliorer à onze heures!». Le Seigneur avait déjà montré tant de choses à ces
-gens! Ils savaient que je ne faisais pas simplement que répéter ce qu’ils m’avaient dit
+sa famille à l'hôpital de Lima, ils me parlèrent de lui, de l'état dans lequel il se trouvait. J'allai vers
+lui et le regardai. Il me dit: «Mais… il s'est passé quelque chose d'étrange». Je dis: «Cela a
+commencé à s'améliorer à onze heures!». Le Seigneur avait déjà montré tant de choses à ces
+gens! Ils savaient que je ne faisais pas simplement que répéter ce qu'ils m'avaient dit
 premièrement, parce que ce furent eux qui parlèrent les premiers. Son état commença à
-s’améliorer; ils savaient que je leur disais la vérité.
-24 Et dimanche dernier, comme j’allais à la cafétéria du Blue Boar à Louisville, où la plupart de
-l’assemblée se réunissait pour déjeuner, qui vois-je passer dans la rue? Combien mon coeur se
-mit à battre, quand je vis notre frère Dauch descendre la rue — exactement comme l’Esprit me
-l’avait révélé! Et je pus lui serrer la main dans la rue.
-25 Ensuite, je revins dimanche passé pour la réunion du soir, et parlai sur le sujet de l’unité: “Le
+s'améliorer; ils savaient que je leur disais la vérité.
+24 Et dimanche dernier, comme j'allais à la cafétéria du Blue Boar à Louisville, où la plupart de
+l'assemblée se réunissait pour déjeuner, qui vois-je passer dans la rue? Combien mon coeur se
+mit à battre, quand je vis notre frère Dauch descendre la rue — exactement comme l'Esprit me
+l'avait révélé! Et je pus lui serrer la main dans la rue.
+25 Ensuite, je revins dimanche passé pour la réunion du soir, et parlai sur le sujet de l'unité: “Le
 temps du rassemblement et le signe des temps” [anglais: The Uniting Time and Sign — N.d.T.]. Et
-ce que dit l’Esprit arriva exactement, et voici aujourd’hui cet homme assis dans l’église, au milieu
-de nous, comme un symbole de la grâce de Dieu. Quand je lui tenais la main alors qu’il se trouvait
+ce que dit l'Esprit arriva exactement, et voici aujourd'hui cet homme assis dans l'église, au milieu
+de nous, comme un symbole de la grâce de Dieu. Quand je lui tenais la main alors qu'il se trouvait
 sous la tente à oxygène, je lui dis: «Frère Dauch, vous serez guéri. Je vous verrai de nouveau
-dans l’église. C’est “AINSI DIT LE SEIGNEUR!”». Vous voyez? — Et voilà de nouveau notre frère
-Dauch dans l’église!
+dans l'église. C'est “AINSI DIT LE SEIGNEUR!”». Vous voyez? — Et voilà de nouveau notre frère
+Dauch dans l'église!
 
               http://www.cmpp.ch
 
 COMMENT PUIS-JE VAINCRE? 5
 26 Si je ne me trompe pas, le pasteur dont je parlais il y a quelques instants (comment le
-Saint-Esprit descendit et révéla toutes sortes de choses le concernant, lui disant ce qu’il avait fait,
+Saint-Esprit descendit et révéla toutes sortes de choses le concernant, lui disant ce qu'il avait fait,
 ce qui était arrivé et comment cela était arrivé, révélant même des choses au sujet de sa famille,
-etc., et lui disant qu’il était délivré) — ce pasteur est ici en ce moment-même, assis là-bas à droite.
-Voulez-vous lever la main, cher monsieur? Le voilà, lui et sa femme. C’est exact! Et le frère Dauch
+etc., et lui disant qu'il était délivré) — ce pasteur est ici en ce moment-même, assis là-bas à droite.
+Voulez-vous lever la main, cher monsieur? Le voilà, lui et sa femme. C'est exact! Et le frère Dauch
 est, lui aussi, assis parmi nous!
-27 Tout cela n’est-il pas merveilleux? Ces choses qui étaient, qui sont, et qui seront! Un, deux,
+27 Tout cela n'est-il pas merveilleux? Ces choses qui étaient, qui sont, et qui seront! Un, deux,
 trois témoins. Les choses qui étaient, ce que vous avez fait; les choses qui arrivent maintenant; et
 les choses qui arriveront. Chaque chose en son temps, exactement en accord avec la Parole. Dieu
 Seul peut faire cela. Ne sommes-nous pas particulièrement heureux pour tout cela?
 28 La raison pour laquelle je vous ai parlé de toutes ces choses est que Billy, devant aller
 chercher sa femme et son enfant, me dit: «Papa, ne commence pas à prêcher avant mon retour!».
-Je pense qu’il est maintenant de retour; de toute façon, c’est l’heure. Je vais essayer de ne pas
+Je pense qu'il est maintenant de retour; de toute façon, c'est l'heure. Je vais essayer de ne pas
 vous imposer quatre heures de concentration, et me limiter à 35 ou 40 minutes.
 29 Une fois, à Chicago, je dus me limiter à environ une demi-heure ou 35 minutes, et dimanche
-passé, je n’avais non plus que 45 minutes. Billy me dit: «Papa, tu t’améliores; je suis fier de toi!».
-30 Peut-être que ce matin, pour faire une petite leçon d’école du dimanche… Je ne vous
+passé, je n'avais non plus que 45 minutes. Billy me dit: «Papa, tu t'améliores; je suis fier de toi!».
+30 Peut-être que ce matin, pour faire une petite leçon d'école du dimanche… Je ne vous
 retiendrai pas trop longtemps. Ainsi, vous pourrez aller déjeuner, prier et revenir ce soir pour le
 service de guérison. Nous formerons une ligne de prière, et nous prierons pour les malades.
-31 Si vous connaissez par ici des gens qui sont malades et désirent que l’on prie pour eux,
-amenez-les ici ce soir! De toute façon, amenez-les! L’important est de les amener ici ce soir où
-nous pouvons nous rencontrer tous ensemble. Il est difficile d’aller faire des visites partout. On
-oublie toujours quelqu’un, et cela crée du ressentiment. Mais si je peux réunir tout le monde au
-même endroit, alors je peux prier pour tous. Maintenant, si les gens désirent que l’on prie pour
-eux… Vous direz: «Voudront-ils?». — Certainement, qu’ils voudront! Et on priera pour eux!
+31 Si vous connaissez par ici des gens qui sont malades et désirent que l'on prie pour eux,
+Amenez-les ici ce soir! De toute façon, amenez-les! L'important est de les amener ici ce soir où
+nous pouvons nous rencontrer tous ensemble. Il est difficile d'aller faire des visites partout. On
+oublie toujours quelqu'un, et cela crée du ressentiment. Mais si je peux réunir tout le monde au
+même endroit, alors je peux prier pour tous. Maintenant, si les gens désirent que l'on prie pour
+eux… Vous direz: «Voudront-ils?». — Certainement, qu'ils voudront! Et on priera pour eux!
 Amenez-les! Si le Seigneur le permet, nous prierons pour tous, car je sens que ce “troisième pull”
-commence à agir. Vous comprenez? C’est en moi, maintenant. J’aimerais prier pour chacun d’eux.
-32 Tournons-nous maintenant vers la Parole où nous lirons un texte qui nous est familier. Je l’ai
-relevé rapidement hier soir, car j’avais sommeil, et j’ai encore noté quelques passages qui s’y
-rapportent. Une fois, j’ai entendu un frère utiliser ce texte et je l’ai noté, pensant qu’il pourrait me
-servir à l’occasion. Nous faisons cela très souvent. J’ai remarqué que nombreux ici sont ceux qui
-prennent des notes. Un prédicateur pourrait dire telle ou telle chose, et quand vous l’entendez,
+commence à agir. Vous comprenez? C'est en moi, maintenant. J'aimerais prier pour chacun d'eux.
+32 Tournons-nous maintenant vers la Parole où nous lirons un texte qui nous est familier. Je l'ai
+relevé rapidement hier soir, car j'avais sommeil, et j'ai encore noté quelques passages qui s'y
+rapportent. Une fois, j'ai entendu un frère utiliser ce texte et je l'ai noté, pensant qu'il pourrait me
+servir à l'occasion. Nous faisons cela très souvent. J'ai remarqué que nombreux ici sont ceux qui
+prennent des notes. Un prédicateur pourrait dire telle ou telle chose, et quand vous l'entendez,
 cela éveille quelque chose en vous. Et si cela vient du Saint-Esprit alors vous construisez à partir
-de ce passage un message pour le Seigneur. C’est très bien ainsi! Dans toutes les réunions où je
-vais, je vois le public et les prédicateurs prendre des notes. C’est très bien. C’est d’ailleurs pour
+de ce passage un message pour le Seigneur. C'est très bien ainsi! Dans toutes les réunions où je
+vais, je vois le public et les prédicateurs prendre des notes. C'est très bien. C'est d'ailleurs pour
 cela que nous sommes réunis, pour nous aider les uns les autres le long du chemin.
-33 Lisons maintenant le 3ème chapitre de l’Apocalypse, où se trouvent les âges de l’église. Je
-pourrais prendre ce texte, et avec l’aide du Saint-Esprit, prêcher pendant une centaine d’années et
-ne jamais l’épuiser, parce que dans ce passage, comme d’ailleurs dans toute la Bible, tout se tient.
-Le titre de mon sujet de ce matin est: “Comment puis-je vaincre?”. J’ai choisi ce sujet parce que
-nous vivons un temps où nous ne devrions jamais laisser s’éteindre l’esprit de réveil. Nous devons
-rester dans cet esprit, et le vivre constamment chaque jour. Paul disait qu’il devait mourir chaque
+33 Lisons maintenant le 3ème chapitre de l'Apocalypse, où se trouvent les âges de l'église. Je
+pourrais prendre ce texte, et avec l'aide du Saint-Esprit, prêcher pendant une centaine d'années et
+ne jamais l'épuiser, parce que dans ce passage, comme d'ailleurs dans toute la Bible, tout se tient.
+Le titre de mon sujet de ce matin est: “Comment puis-je vaincre?”. J'ai choisi ce sujet parce que
+nous vivons un temps où nous ne devrions jamais laisser s'éteindre l'esprit de réveil. Nous devons
+rester dans cet esprit, et le vivre constamment chaque jour. Paul disait qu'il devait mourir chaque
 jour afin que Christ puisse vivre. Et nous ne devons jamais laisser ce réveil mourir en nous.
      Lisons maintenant Apocalypse 3, depuis le verset 21. “Celui qui vaincra, je le ferai asseoir
 avec moi sur mon trône [anglais: dans mon trône. Version plus littérale que le français — N.d.T.],
-comme moi j’ai vaincu et me suis assis avec mon Père sur son trône [même remarque — N.d.T.]
-Que celui qui a des oreilles entende ce que l’Esprit dit aux Eglises”.
+comme moi j'ai vaincu et me suis assis avec mon Père sur son trône [même remarque — N.d.T.]
+Que celui qui a des oreilles entende ce que l'Esprit dit aux Eglises”.
 34 Avez-vous remarqué la rédaction de ce texte? “… avec Moi dans Mon trône…”. Non pas sur
 Mon trône, mais dans Mon trône. Cela veut dire dans Son domaine. Comme Christ est le Chef,
-le Chef assis sur le trône, et qu’Il commande à toute la propriété de Dieu, ainsi l’Eglise sera avec
-Lui, l’Epouse sera avec Lui dans Son trône, dans Son domaine tout entier. Vous voyez? —
+le Chef assis sur le trône, et qu'Il commande à toute la propriété de Dieu, ainsi l'Eglise sera avec
+Lui, l'Epouse sera avec Lui dans Son trône, dans Son domaine tout entier. Vous voyez? —
 Non pas “sur Mon trône”, mais “dans Mon trône”, là où est Son domaine. Un trône est au-dessus
-d’un domaine, d’un royaume, et ce royaume s’étend jusqu’à ses frontières, qui vont
-d’éternité en éternité. Pensez-y donc!
+d'un domaine, d'un royaume, et ce royaume s'étend jusqu'à ses frontières, qui vont
+D'éternité en éternité. Pensez-y donc!
 
         http://www.cmpp.ch
 
     COMMENT PUIS-JE VAINCRE?                     6
-35 Lorsque nous venons ici pour étudier ces choses, mon but n’est pas simplement d’avoir
-communion avec vous. J’aime bien être en communion avec vous, et si j’en avais la possibilité,
-j’aimerais venir chez vous, vous serrer la main et parler avec vous, dîner avec vous et m’asseoir à
-l’ombre d’un arbre pour causer et être en communion avec vous. Mais quand nous venons ici,
+35 Lorsque nous venons ici pour étudier ces choses, mon but n'est pas simplement d'avoir
+communion avec vous. J'aime bien être en communion avec vous, et si j'en avais la possibilité,
+j'aimerais venir chez vous, vous serrer la main et parler avec vous, dîner avec vous et m'asseoir à
+l'ombre d'un arbre pour causer et être en communion avec vous. Mais quand nous venons ici,
 nous venons dans un but précis. Nous sommes ici dans une maison de correction. Voici le
 trône. Ceci est le trône de Dieu, et le jugement commence par la Maison de Dieu. Et ici, où nous
-nous rencontrons, nous avons de l’amour les uns pour les autres comme seuls les chrétiens
+nous rencontrons, nous avons de l'amour les uns pour les autres comme seuls les chrétiens
 peuvent en avoir, mais ici, nous sommes sous la conduite du Saint-Esprit. Le Saint-Esprit est
 parmi nous. Et nous sommes ici pour nous examiner, pour voir quels sont nos défauts, nos
-insuffisances, pour avancer de l’état où nous sommes jusqu’à l’état dans lequel nous devrions
-être. C’est l’objet de notre étude. Les pasteurs étudient cela pour leur assemblée. Quand ils voient
+insuffisances, pour avancer de l'état où nous sommes jusqu'à l'état dans lequel nous devrions
+être. C'est l'objet de notre étude. Les pasteurs étudient cela pour leur assemblée. Quand ils voient
 de quoi les gens manquent, ils commencent à traiter ce sujet.
-36 Je pense que l’église devrait faire un petit pas en avant maintenant. Je ne veux pas montrer
+36 Je pense que l'église devrait faire un petit pas en avant maintenant. Je ne veux pas montrer
 cela ce matin, mais je pense que bientôt, si le Seigneur le permet, avant que nous prêchions sur
-ces trompettes… j’aimerais apporter à l’église quelque chose que — je le crois — vous devriez
+ces trompettes… j'aimerais apporter à l'église quelque chose que — je le crois — vous devriez
 connaître.
 37 Maintenant, nous allons parler de cette victoire. Vous connaissez bien sûr le sens du mot
-vaincre. Il faut qu’il y ait quelque chose à vaincre. Cet âge de l’église auquel le Saint-Esprit
-S’adressait (l’âge de Laodicée) avait besoin d’une réprimande. Laodicée avait besoin d’être
+vaincre. Il faut qu'il y ait quelque chose à vaincre. Cet âge de l'église auquel le Saint-Esprit
+S'adressait (l'âge de Laodicée) avait besoin d'une réprimande. Laodicée avait besoin d'être
 réprimandée parce que, en ce qui concerne Christ, la différence était que, dans cet âge, Christ
-avait été mis dehors, et qu’Il essayait de rentrer. C’est cela, l’amour. Après qu’Il eût été mis à
-la porte de Sa propre maison, Il cherchait à y rentrer, disant: “Celui qui m’ouvrira la porte, Je
+avait été mis dehors, et qu'Il essayait de rentrer. C'est cela, l'amour. Après qu'Il eût été mis à
+la porte de Sa propre maison, Il cherchait à y rentrer, disant: “Celui qui m'ouvrira la porte, Je
 viendrai vers lui”.
-38 Dans l’ensemble, l’église L’avait rejeté. Mais, remarquez-le bien, Son appel ne s’adresse
-pas à l’église tout entière, mais à “celui qui vaincra”. Vous voyez? Non pas à toute l’église, le
-corps de l’église, mais à celui qui vaincra, la personne, l’individu qui vaincra. C’était pour
-l’église de Laodicée.
-39 Nous voyons que cela est pour l’âge de Laodicée, et nous savons que cet âge a besoin d’une
-sérieuse réprimande de la part de Dieu. Il a besoin d’une sévère réprimande. Et quand notre
+38 Dans l'ensemble, l'église L'avait rejeté. Mais, remarquez-le bien, Son appel ne s'adresse
+pas à l'église tout entière, mais à “celui qui vaincra”. Vous voyez? Non pas à toute l'église, le
+corps de l'église, mais à celui qui vaincra, la personne, l'individu qui vaincra. C'était pour
+l'église de Laodicée.
+39 Nous voyons que cela est pour l'âge de Laodicée, et nous savons que cet âge a besoin d'une
+sérieuse réprimande de la part de Dieu. Il a besoin d'une sévère réprimande. Et quand notre
 clergé devient si mou et inconsistant (comme un vieux grand-père avec ses petits-enfants,
-approuvant tout ce qu’ils font)…
-40 On a tellement dit et redit que Dieu était bon, qu’on essaie d’en faire un bon vieux
-grand-papa. Vous comprenez? Mais Il n’est pas cela! Il est un Père, un Père juste, un Père qui
-corrige. Et l’amour est toujours correctif. Comprenez-vous cela? L’amour corrige. Peu importe
+approuvant tout ce qu'ils font)…
+40 On a tellement dit et redit que Dieu était bon, qu'on essaie d'en faire un bon vieux
+grand-papa. Vous comprenez? Mais Il n'est pas cela! Il est un Père, un Père juste, un Père qui
+corrige. Et l'amour est toujours correctif. Comprenez-vous cela? L'amour corrige. Peu importe
 combien cela fait mal, mais il corrige. Une vraie mère corrige ses enfants; un vrai père corrige.
 Si vous devenez mou et laissez tout faire…
-41 L’autre jour, j’ai sauté sur une vieille bille de bois. De l’extérieur, elle paraissait parfaitement
+41 L'autre jour, j'ai sauté sur une vieille bille de bois. De l'extérieur, elle paraissait parfaitement
 saine, solide comme une bonne bûche de hêtre, mais quand je sautai dessus, un grand morceau
-s’en détacha elle était complètement pourrie et inconsistante. Je pensai: «Voilà comment
+s'en détacha elle était complètement pourrie et inconsistante. Je pensai: «Voilà comment
 deviennent les chrétiens.» Ils sont morts dans leurs péchés et leurs transgressions depuis si
-longtemps qu’ils sont complètement inconsistants. Ils ne supportent plus aucun poids. Ils
-ignorent jusqu’au sens du mot victoire. Alors, je commençai à penser à ce sujet: “Vaincre;
-garder la vie en soi”. C’est quand la vie s’en est allée que cette bûche est tombée dans cet état. Et
-cela devient pis où il y a de l’eau.
-42 Prenez un chrétien, un vrai chrétien: s’il laisse la Vie de Dieu s’en aller de lui tout en
-expérimentant la joie de servir Christ et de vivre dans l’église où de telles choses se passent — il
-pourrira deux fois plus vite, lorsqu’il vit dans ces conditions!
-43 Ainsi donc, si nous essayons de suivre le message de l’heure, ou tout au moins cette
+longtemps qu'ils sont complètement inconsistants. Ils ne supportent plus aucun poids. Ils
+ignorent jusqu'au sens du mot victoire. Alors, je commençai à penser à ce sujet: “Vaincre;
+garder la vie en soi”. C'est quand la vie s'en est allée que cette bûche est tombée dans cet état. Et
+cela devient pis où il y a de l'eau.
+42 Prenez un chrétien, un vrai chrétien: s'il laisse la Vie de Dieu s'en aller de lui tout en
+expérimentant la joie de servir Christ et de vivre dans l'église où de telles choses se passent — il
+pourrira deux fois plus vite, lorsqu'il vit dans ces conditions!
+43 Ainsi donc, si nous essayons de suivre le message de l'heure, ou tout au moins cette
 partie du message, nous devrions vivre constamment dans la Vie de Christ. Parce que, si
 vous ne le faites pas, vous restez dehors, et si vous savez ce que vous devez faire et que vous ne
 le faites pas, la Bible dit: “Celui donc qui sait faire ce qui est bien, et qui ne le fait pas, commet un
 péché!”. Et vous pourrissez, quand vous vous séparez de la Vie de Dieu. Par conséquent,
 efforcez-vous de tout votre être de rester dans la Vie de Christ, afin de porter du fruit.
-44 Nous connaissons l’âge dans lequel nous vivons. C’est le plus glorieux de tous! L’âge de
-Laodicée est l’âge le plus glorieux, parce que c’est l’âge où le temps arrivera à sa fin et où
+44 Nous connaissons l'âge dans lequel nous vivons. C'est le plus glorieux de tous! L'âge de
+Laodicée est l'âge le plus glorieux, parce que c'est l'âge où le temps arrivera à sa fin et où
 
                                 http://www.cmpp.ch
 
     COMMENT PUIS-JE VAINCRE?    7
-commencera l’éternité. Et malgré tout, c’est l’âge le plus pécheur. Il y a plus de péché dans cet
-âge qu’il n’y en a jamais eu. Et la puissance de Satan est beaucoup plus difficile à combattre que
-dans n’importe quel autre âge.
-45 Dans les premiers âges, il pouvait arriver qu’un chrétien soit décapité à cause de sa foi; il
-pouvait payer de sa vie le fait de proclamer qu’il appartenait à Christ. Il était mis à mort et ses
-misères prenaient fin; il allait à la rencontre de Dieu rapidement. Mais maintenant, l’ennemi est
-venu au nom de l’église, et c’est cela qui nous trompe. Nous sommes dans l’âge de la
+commencera l'éternité. Et malgré tout, c'est l'âge le plus pécheur. Il y a plus de péché dans cet
+âge qu'il n'y en a jamais eu. Et la puissance de Satan est beaucoup plus difficile à combattre que
+dans n'importe quel autre âge.
+45 Dans les premiers âges, il pouvait arriver qu'un chrétien soit décapité à cause de sa foi; il
+pouvait payer de sa vie le fait de proclamer qu'il appartenait à Christ. Il était mis à mort et ses
+misères prenaient fin; il allait à la rencontre de Dieu rapidement. Mais maintenant, l'ennemi est
+venu au nom de l'église, et c'est cela qui nous trompe. Nous sommes dans l'âge de la
 séduction… Christ Lui-même a dit: dans les derniers jours, les deux esprits seraient si proches
-que les élus eux-mêmes seraient séduits, s’il était possible. Vous comprenez? Rappelez-vous que
-Christ parle d’un peuple élu dans les derniers jours. Les élus eux-mêmes seraient trompés, s’il
+que les élus eux-mêmes seraient séduits, s'il était possible. Vous comprenez? Rappelez-vous que
+Christ parle d'un peuple élu dans les derniers jours. Les élus eux-mêmes seraient trompés, s'il
 était possible.
 46 Ces gens peuvent vivre une vie pure et sainte, ne pas être pécheurs, adultères, buveurs,
 menteurs ou joueurs; ils peuvent vivre au-dessus de ces choses, et pourtant ne pas être avec
-Christ. Cet âge est en effet l’âge de la Vie, de la Vie personnelle de Christ, où tout ce qui était
-en Lui… premièrement, il y eut la justification, le baptême d’eau. Ensuite, avec Wesley, la nouvelle
+Christ. Cet âge est en effet l'âge de la Vie, de la Vie personnelle de Christ, où tout ce qui était
+en Lui… premièrement, il y eut la justification, le baptême d'eau. Ensuite, avec Wesley, la nouvelle
 naissance, la sanctification qui purifie. Enfin, le baptême du Saint-Esprit, où le vase sanctifié entre
 en service… En grec, sanctifié est un mot composé qui signifie “nettoyé et mis à part pour un
 service”. — Mis à part pour un service; maintenant, le Saint-Esprit le met en service.
 Comprenez-vous cela?
-47 Remarquons que lorsque l’esprit impur sort de l’homme, il va dans un lieu désert. C’est
-exactement ce qu’a fait l’église, les Baptistes, les Méthodistes, ceux qui croient à la sanctification.
-Ensuite, nous dit Jésus, l’esprit impur retourne vers ce corps, cette église, et trouve la maison
-balayée, ornée, ayant une vie pure, etc. Mais si cette maison n’est pas remplie, occupée, alors il
+47 Remarquons que lorsque l'esprit impur sort de l'homme, il va dans un lieu désert. C'est
+exactement ce qu'a fait l'église, les Baptistes, les Méthodistes, ceux qui croient à la sanctification.
+Ensuite, nous dit Jésus, l'esprit impur retourne vers ce corps, cette église, et trouve la maison
+balayée, ornée, ayant une vie pure, etc. Mais si cette maison n'est pas remplie, occupée, alors il
 revient avec sept autres démons pires que lui, et le dernier état de cette maison est sept fois pire
 que le premier. Ils auraient mieux fait de rester Luthériens que de recevoir cette Lumière et de
 ne pas la suivre. Il en va de même des Pentecôtistes. Vous voyez ce que je veux dire! Une
 maison ornée…
-48 Je causais l’autre jour avec quelqu’un qui me dit: «Tous ces gens font bien attention de ne
-pas dire “Saint-Esprit” comme les Pentecôtistes, parce qu’alors, ils s’identifieraient avec eux [en
+48 Je causais l'autre jour avec quelqu'un qui me dit: «Tous ces gens font bien attention de ne
+pas dire “Saint-Esprit” comme les Pentecôtistes, parce qu'alors, ils s'identifieraient avec eux [en
 anglais, les Pentecôtistes disent: Holy Ghost, alors que les autres groupes disent Holy Spirit! Le
-sens de ces deux expressions est d’ailleurs identique — N.d.T.]. Ils ne veulent pas dire
-Saint-Esprit comme les Pentecôtistes, qui ne font pourtant qu’utiliser les mots de la Bible. Ils ne
+sens de ces deux expressions est d'ailleurs identique — N.d.T.]. Ils ne veulent pas dire
+Saint-Esprit comme les Pentecôtistes, qui ne font pourtant qu'utiliser les mots de la Bible. Ils ne
 veulent pas être identifiés avec ces gens qui parlent en langues, et pourtant cela vient du
-Saint-Esprit Lui-même! Que s’est-il donc passé? Quand l’ennemi fut chassé par la sanctification (la
+Saint-Esprit Lui-même! Que s'est-il donc passé? Quand l'ennemi fut chassé par la sanctification (la
 maison avait été nettoyée), il revint, mais ne trouva pas la maison remplie par le Saint-Esprit;
-alors, l’église se joignit au reste des églises, au Conseil Mondial des églises, qui a d’étroites
+alors, l'église se joignit au reste des églises, au Conseil Mondial des églises, qui a d'étroites
 relations avec le Catholicisme romain et tout le reste, et maintenant, son état est sept fois pire
-que ce qu’il était quand elle sortit du Luthéranisme. C’est une église humaine charnelle.
-49 Voyez maintenant l’âge de Laodicée après qu’il ait reçu le Saint-Esprit. Ayant la
-connaissance, ayant l’Esprit de Dieu en lui, il renie les oeuvres de Dieu, et appelle cela un esprit
-impur. Alors qu’arrive-t-il? — C’est en cela que Christ est chassé de Sa propre église. La
-Parole ne L’a jamais montré hors de l’église avant Laodicée. Et quand Il arrive à l’église de
+que ce qu'il était quand elle sortit du Luthéranisme. C'est une église humaine charnelle.
+49 Voyez maintenant l'âge de Laodicée après qu'il ait reçu le Saint-Esprit. Ayant la
+connaissance, ayant l'Esprit de Dieu en lui, il renie les oeuvres de Dieu, et appelle cela un esprit
+impur. Alors qu'arrive-t-il? — C'est en cela que Christ est chassé de Sa propre église. La
+Parole ne L'a jamais montré hors de l'église avant Laodicée. Et quand Il arrive à l'église de
 Laodicée, Il a été jeté dehors, et Il essaie de rentrer.
-50 Ce n’est pas la justification qui Le fit entrer. La sanctification a simplement nettoyé la place
-pour Lui. Mais quand vient le Baptême du Saint-Esprit, il Le fait entrer dans l’homme. Et
-maintenant, ils L’ont rejeté juste quand Il nous montre qu’Il est le même hier, aujourd’hui, et
-éternellement. Ils L’ont rejeté, parce qu’ils ont créé des dénominations, et que l’Esprit du
-Seigneur ne tolère pas les dénominations. Comprenez-vous maintenant? Ils L’ont rejeté: «Nous
-ne voulons rien savoir de cette télépathie. Cela vient du diable! C’est de la divination…». Vous
+50 Ce n'est pas la justification qui Le fit entrer. La sanctification a simplement nettoyé la place
+pour Lui. Mais quand vient le Baptême du Saint-Esprit, il Le fait entrer dans l'homme. Et
+maintenant, ils L'ont rejeté juste quand Il nous montre qu'Il est le même hier, aujourd'hui, et
+éternellement. Ils L'ont rejeté, parce qu'ils ont créé des dénominations, et que l'Esprit du
+Seigneur ne tolère pas les dénominations. Comprenez-vous maintenant? Ils L'ont rejeté: «Nous
+ne voulons rien savoir de cette télépathie. Cela vient du diable! C'est de la divination…». Vous
 voyez, ils ne comprennent pas. Ils ont des yeux, et ne peuvent pas voir, des oreilles, et ne peuvent
 entendre. Dieu seul ouvre les yeux de qui Il veut. Il endurcit qui Il veut endurcir, et donne la Vie à
-qui Il veut donner la Vie. C’est ce que dit l’Ecriture.
-51 Nous voyons dans quelle heure nous vivons, quel est l’état actuel des choses, et ce qu’il était.
-Et le Saint-Esprit réprimande l’âge qui L’a rejeté. Mais, dans toutes ces choses, avez-vous
+qui Il veut donner la Vie. C'est ce que dit l'Ecriture.
+51 Nous voyons dans quelle heure nous vivons, quel est l'état actuel des choses, et ce qu'il était.
+Et le Saint-Esprit réprimande l'âge qui L'a rejeté. Mais, dans toutes ces choses, avez-vous
 
               http://www.cmpp.ch
 
@@ -380,56 +423,56 @@ COMMENT PUIS-JE VAINCRE? 8
 remarqué ceci?: “Celui qui vaincra…”. Même à cet âge mondain et mauvais, Il a dit: “Celui qui
 vaincra…”.
 52 Cela nous montre que Dieu a toujours eu des vainqueurs. Il y en a eu dans chaque âge.
-Chaque fois, dans chaque âge de cette terre, Dieu a toujours eu quelqu’un sur qui Il a pu étendre
-la main pour en faire un témoin sur cette terre. Il n’a jamais été sans témoin, même si
-quelquefois il n’y en eut qu’un seul, mais il y eut toujours quelqu’un pour vaincre.
+Chaque fois, dans chaque âge de cette terre, Dieu a toujours eu quelqu'un sur qui Il a pu étendre
+la main pour en faire un témoin sur cette terre. Il n'a jamais été sans témoin, même si
+quelquefois il n'y en eut qu'un seul, mais il y eut toujours quelqu'un pour vaincre.
 53 Comme ces saints des temps anciens… Un homme très bien, un érudit, me dit un jour, après
 la présentation des Sept Sceaux: «Frère Branham, vous qui êtes ferré en typologie, comment
-pouvez-vous dire que l’Eglise sera enlevée sans passer par la tribulation?». — S’il y a un antitype,
-il faut qu’il y ait un type qui soit à son origine. Et tout ce que je dis qui est la vérité a un type. Il y a
-une ombre. La Bible Elle-même dit que les choses anciennes sont l’ombre des choses à venir.
-Mais cet homme me dit: «Vous qui prenez l’Ancien Testament comme une ombre, que faites-vous
-de l’Eglise?».
-54 Cet homme était un grand prédicateur, un de mes meilleurs amis; c’est un très cher frère. Je
+pouvez-vous dire que l'Eglise sera enlevée sans passer par la tribulation?». — S'il y a un antitype,
+il faut qu'il y ait un type qui soit à son origine. Et tout ce que je dis qui est la vérité a un type. Il y a
+une ombre. La Bible Elle-même dit que les choses anciennes sont l'ombre des choses à venir.
+Mais cet homme me dit: «Vous qui prenez l'Ancien Testament comme une ombre, que faites-vous
+de l'Eglise?».
+54 Cet homme était un grand prédicateur, un de mes meilleurs amis; c'est un très cher frère. Je
 ne voudrais pas dire un seul mot contre lui. De toute façon, en tant que chrétien, je ne voudrais
-pas le faire. Je ne voudrais pas parler contre lui. Il n’est pas d’accord avec moi sur ce sujet, mais
-c’est un très cher frère. Nous mangeons souvent ensemble, et nous nous entendons très bien. Je
-reçois son journal et lis ses articles; lui-même écrit quelquefois les miens. J’ai souvent tiré le sujet
-de mes prédications de ses articles. C’est un homme supérieur, mais il n’arrive pas à être d’accord
-avec moi. J’apprécie sa sincérité, car il n’est pas simplement un de ces flatteurs qui cherchent à
-être d’accord avec tout le monde. Il a ses propres convictions, et il s’y tient. J’aime cela. C’est un
+pas le faire. Je ne voudrais pas parler contre lui. Il n'est pas d'accord avec moi sur ce sujet, mais
+c'est un très cher frère. Nous mangeons souvent ensemble, et nous nous entendons très bien. Je
+reçois son journal et lis ses articles; lui-même écrit quelquefois les miens. J'ai souvent tiré le sujet
+de mes prédications de ses articles. C'est un homme supérieur, mais il n'arrive pas à être d'accord
+avec moi. J'apprécie sa sincérité, car il n'est pas simplement un de ces flatteurs qui cherchent à
+être d'accord avec tout le monde. Il a ses propres convictions, et il s'y tient. J'aime cela. C'est un
 homme bon… Oh! je ne suis pas un érudit, ni un docteur, et lui est à la fois un érudit et un docteur.
-Mais je ne peux pas être d’accord avec lui, car je ne vois pas… cela ne concerne pas le salut,
+Mais je ne peux pas être d'accord avec lui, car je ne vois pas… cela ne concerne pas le salut,
 mais la venue du Seigneur.
-55 Il croit que l’Eglise doit passer par la tribulation pour être purifiée. Mais moi, je dis que c’est le
-Sang de Jésus qui purifie l’église. Je crois que l’église dénominationnelle passera par la
-tribulation, mais pas l’Epouse. Choisiriez-vous une femme que vous devriez purifier avant de
-l’épouser? L’Epouse de Christ est choisie, elle est élue, elle est l’Epouse de Dieu, l’Epouse de
+55 Il croit que l'Eglise doit passer par la tribulation pour être purifiée. Mais moi, je dis que c'est le
+Sang de Jésus qui purifie l'église. Je crois que l'église dénominationnelle passera par la
+tribulation, mais pas l'Epouse. Choisiriez-vous une femme que vous devriez purifier avant de
+l'épouser? L'Epouse de Christ est choisie, elle est élue, elle est l'Epouse de Dieu, l'Epouse de
 Jésus-Christ.
-56 Mais cet ami me dit: «Où vas-tu trouver un type de cela? Si cette épouse s’en va avant de
-passer par la tribulation… Je connais des passages qui montrent que l’église doit passer par la
+56 Mais cet ami me dit: «Où vas-tu trouver un type de cela? Si cette épouse s'en va avant de
+passer par la tribulation… Je connais des passages qui montrent que l'église doit passer par la
 tribulation. Lis le sixième Sceau. Cela suffit. Là, on la voit dans la période de tribulation». Mais si
-vous cherchez juste avant, vous verrez que l’Epouse s’en est allée. Pendant ce temps, elle se
+vous cherchez juste avant, vous verrez que l'Epouse s'en est allée. Pendant ce temps, elle se
 tient dans la gloire. Elle ne passe pas par la purification. Vous voyez! “Celui qui croit en Moi, a la
 Vie Eternelle et ne passera pas par la condamnation, ou le jugement, mais il est passé de la mort
 à la Vie”. Christ nous a donné la promesse que nous ne passerions même pas par le jugement. Il a
 pris ma place, en sorte que je suis entièrement libre. Quand je suis pardonné, je suis pardonné.
-S’Il est mon Rédempteur et qu’Il donne le gage de mon rachat au prêteur sur gages, celui-ci peut-il
-encore dire que je lui appartiens? — J’ai reçu un écrit! (Amen!) — écrit par le Sang de
+S'Il est mon Rédempteur et qu'Il donne le gage de mon rachat au prêteur sur gages, celui-ci peut-il
+encore dire que je lui appartiens? — J'ai reçu un écrit! (Amen!) — écrit par le Sang de
 Jésus-Christ!
      Maintenant, revenons à notre sujet. Il me disait: «Comment vas-tu trouver un type de cette
 épouse élue dont tu parles tant?».
 57 Je lui répondis: «Comme ceci: dans Matthieu 27, verset 51…». Laissez-moi le lire, et nous
 verrons si le type existe ou non, si nous trouvons cette Epouse élue. Matthieu 27, verset 51. Cela
 se passa lors de la crucifixion de notre Seigneur.
-     “Et voici, le voile de temple se déchira en deux, depuis le haut jusqu’en bas,…”.
-58 Cela, c’était la loi. La loi se terminait juste à ce moment-là, parce que le voile éloignait
-l’assemblée des saintes choses de Dieu. Seul un prêtre oint pouvait y entrer, une fois l’an. Vous
-rappelez-vous cela? Remarquez que c’est Dieu qui, de Sa propre main, déchira le voile, car il
-fut déchiré du haut jusqu’en bas, et non pas du bas jusqu’en haut. Ce voile avait environ douze
-mètres de hauteur, ce qui nous montre bien que c’est Dieu qui le déchira. Ainsi donc, depuis ce
+     “Et voici, le voile de temple se déchira en deux, depuis le haut jusqu'en bas,…”.
+58 Cela, c'était la loi. La loi se terminait juste à ce moment-là, parce que le voile éloignait
+l'assemblée des saintes choses de Dieu. Seul un prêtre oint pouvait y entrer, une fois l'an. Vous
+rappelez-vous cela? Remarquez que c'est Dieu qui, de Sa propre main, déchira le voile, car il
+fut déchiré du haut jusqu'en bas, et non pas du bas jusqu'en haut. Ce voile avait environ douze
+mètres de hauteur, ce qui nous montre bien que c'est Dieu qui le déchira. Ainsi donc, depuis ce
 moment, tous pouvaient venir et avoir part à Sa Sainteté.
-       “… la terre trembla, et les rochers se fendirent. Les sépulcres s’ouvrirent, et plusieurs
+       “… la terre trembla, et les rochers se fendirent. Les sépulcres s'ouvrirent, et plusieurs
      corps des saints qui étaient morts ressuscitèrent. Etant sortis des sépulcres, après la
 
         http://www.cmpp.ch
@@ -437,56 +480,56 @@ moment, tous pouvaient venir et avoir part à Sa Sainteté.
     COMMENT PUIS-JE VAINCRE?                      9
     résurrection de Jésus, ils entrèrent dans la ville sainte, et apparurent à un grand nombre
     de personnes”.
-59 Voilà ces Elus, cette Epouse. Ce ne sont pas tous ceux de l’assemblée juive qui sortirent à ce
+59 Voilà ces Elus, cette Epouse. Ce ne sont pas tous ceux de l'assemblée juive qui sortirent à ce
 moment-là. Pourtant, tous avaient fait le même sacrifice. Tous se trouvaient sous le sang versé de
-l’agneau, mais il y avait un groupe élu. Et ce groupe élu, aussitôt que l’événement arriva, crut,
+l'agneau, mais il y avait un groupe élu. Et ce groupe élu, aussitôt que l'événement arriva, crut,
 fut sincère, ferme… Je vais maintenant en venir à ce mot: vaincre. Retenez bien ceci: ceux-ci
 avaient réellement vaincu, offrant sincèrement ce même sacrifice que les autres — mais ils le
 firent sincèrement; ainsi, ils vainquirent les choses du monde quand la propitiation fut faite
-correctement pour eux; ils étaient dans le paradis, jusqu’au moment où le temps fut accompli; ils
+correctement pour eux; ils étaient dans le paradis, jusqu'au moment où le temps fut accompli; ils
 avaient vaincu, et se reposaient, dormant… — “… beaucoup de corps des saints endormis
 ressuscitèrent…”. (Darby) — endormis dans la poussière…
-60 Si nous en avions le temps, nous pourrions revenir jusqu’à Daniel. Lorsque Daniel, l’élu qui
-avait vaincu… L’Eternel dit: “Scelle le livre, Daniel, car tu vas te reposer dans ton héritage. Mais
+60 Si nous en avions le temps, nous pourrions revenir jusqu'à Daniel. Lorsque Daniel, l'élu qui
+avait vaincu… L'Eternel dit: “Scelle le livre, Daniel, car tu vas te reposer dans ton héritage. Mais
 quand le Prince viendra pour réclamer Son peuple, tu te tiendras debout dans ton héritage —
 Voilà! Daniel, le prophète de Dieu, vit venir le temps de la fin. Et Dieu dit: “Daniel, tu te tiendras
-debout dans ton héritage en ce jour!”. Et le voici qui s’avance, non pas tout Israël, mais l’Israël,
-type de l’Epouse.
-61 Le reste d’Israël ne revient pas avant la résurrection générale. Mais, à la venue du Seigneur
+debout dans ton héritage en ce jour!”. Et le voici qui s'avance, non pas tout Israël, mais l'Israël,
+type de l'Epouse.
+61 Le reste d'Israël ne revient pas avant la résurrection générale. Mais, à la venue du Seigneur
 Jésus, ceux qui aiment réellement cette venue, qui vivent en fonction de cette venue… Quand Il
 apparaît dans les airs, cette Eglise qui était morte en Christ ressuscitera, et ils seront
-changés en un instant. Le reste ne s’apercevra de rien. Rappelez-vous à qui ils apparurent dans la
-ville. Vous voyez, l’enlèvement se fera de la même manière. Nous nous verrons les uns les autres,
-et nous les verrons. Le reste du monde ne les verra pas. L’enlèvement sera quelque chose de
+changés en un instant. Le reste ne s'apercevra de rien. Rappelez-vous à qui ils apparurent dans la
+ville. Vous voyez, l'enlèvement se fera de la même manière. Nous nous verrons les uns les autres,
+et nous les verrons. Le reste du monde ne les verra pas. L'enlèvement sera quelque chose de
 secret, réservé à ceux qui attendent ce moment, ensuite, il y aura le retour sur la terre pour ce
 glorieux Millénium, puis le Millénium. Les autres morts ne ressusciteront pas avant mille ans;
 alors viendra la résurrection générale, où tout Israël…
 62 Voyez aussi comment sont représentés les douze apôtres, les douze patriarches — ils sont
-tous représentés! Nous n’avons encore jamais étudié cela, mais, si le Seigneur le permet, nous
+tous représentés! Nous n'avons encore jamais étudié cela, mais, si le Seigneur le permet, nous
 verrons ce que signifient ces murs de jaspe, ces douze pierres, ces douze portes, ces douze
 fondations, toutes ces représentations. En ces jours-là, les anges messagers se tiennent sur
 douze trônes pour juger ceux qui ont rejeté leur message. Amen! Voici que vient ce jour glorieux!
 63 Quels temps glorieux nous vivons! O église, comme nous devrions nous examiner! Nous
-parlons maintenant de ces choses à venir, de ces choses qui sont sur le point d’arriver.
-Aujourd’hui, arrêtons-nous, faisons le point et voyons si nous sommes en ordre avec notre
+parlons maintenant de ces choses à venir, de ces choses qui sont sur le point d'arriver.
+Aujourd'hui, arrêtons-nous, faisons le point et voyons si nous sommes en ordre avec notre
 foi.
 64 Parlons quelques minutes de quelques-uns de ceux qui ont vaincu. Jésus-Christ nous décrit
 le temps de Noé comme étant semblable à notre temps actuel. (Je pensais en avoir pour dix
 minutes, et voilà déjà une demi-heure de passée! Je viens de commencer la première page. Je
 vais en sauter quelques-unes, si je le peux…)
 65 Jésus nous présente le temps de Noé comme étant un type des temps actuels. Il dit: “Comme
-il en fut aux jours de Noé, il en sera de même lors de la venue du Fils de l’homme”. A la venue du
-Fils de l’homme, il en sera comme au temps de Noé. Remarquez que, dans ce monde
-antédiluvien, il y avait peut-être des millions d’hommes; pourtant, il n’y eut que huit vainqueurs.
-Huit personnes vainquirent, huit qui furent de véritables vainqueurs. C’étaient les trois fils de Noé
-avec leurs femmes, et Noé avec sa femme. Huit vainqueurs qui entrèrent dans l’arche au bon
+il en fut aux jours de Noé, il en sera de même lors de la venue du Fils de l'homme”. A la venue du
+Fils de l'homme, il en sera comme au temps de Noé. Remarquez que, dans ce monde
+antédiluvien, il y avait peut-être des millions d'hommes; pourtant, il n'y eut que huit vainqueurs.
+Huit personnes vainquirent, huit qui furent de véritables vainqueurs. C'étaient les trois fils de Noé
+avec leurs femmes, et Noé avec sa femme. Huit vainqueurs qui entrèrent dans l'arche au bon
 moment. Comment purent-ils faire cela? — Ils écoutèrent la Parole de Dieu. Lorsque la porte fut
 fermée, ils ne furent pas enfermés dehors. Ils furent enfermés dedans.
-66 Oh, mes chers amis, ne laissez pas la porte se fermer! Jésus l’a dit: “Comme il en fut en
-ce jour, il en sera au jour de la venue du Fils de l’homme… ainsi il en sera au jour de la venue du
-Fils de l’homme”. Si quelqu’un se laisse enfermer dehors… Beaucoup d’entre eux pouvaient avoir
+66 Oh, mes chers amis, ne laissez pas la porte se fermer! Jésus l'a dit: “Comme il en fut en
+ce jour, il en sera au jour de la venue du Fils de l'homme… ainsi il en sera au jour de la venue du
+Fils de l'homme”. Si quelqu'un se laisse enfermer dehors… Beaucoup d'entre eux pouvaient avoir
 eu de bonnes intentions: «Si un jour il se passe quelque chose, nous entrerons avec le frère Noé,
-c’est un si brave homme!». — Pourtant, voyez-vous, il n’y en eut que huit qui furent enfermés
+c'est un si brave homme!». — Pourtant, voyez-vous, il n'y en eut que huit qui furent enfermés
 dedans.
 67 Réfléchissez bien maintenant! Si vous êtes dehors, en train de vous dégrader,
 dépêchez-vous, entrez à toute vitesse, car la porte pourrait se fermer à tout instant.
@@ -495,59 +538,59 @@ dépêchez-vous, entrez à toute vitesse, car la porte pourrait se fermer à tou
 
 COMMENT PUIS-JE VAINCRE? 10
 68 Il y a toujours eu une arche dans le plan de Dieu. Aux jours de Noé, il y avait une arche pour
-le salut des siens. Il y avait une arche du temps de la loi, l’arche du témoignage. Ils suivaient
-l’arche. Maintenant, il y a une troisième dispensation, comme du temps de Noé, et du temps de
-Lot. Il y a une arche maintenant, et cette arche n’est pas une dénomination; ce n’est pas non plus
-les bonnes oeuvres que vous pouvez accomplir. Elle vient d’un seul Esprit (Romains 8.1): Nous
-sommes tous baptisés dans un corps, dans le domaine de ce Royaume, c’est notre baptême
+le salut des siens. Il y avait une arche du temps de la loi, l'arche du témoignage. Ils suivaient
+l'arche. Maintenant, il y a une troisième dispensation, comme du temps de Noé, et du temps de
+Lot. Il y a une arche maintenant, et cette arche n'est pas une dénomination; ce n'est pas non plus
+les bonnes oeuvres que vous pouvez accomplir. Elle vient d'un seul Esprit (Romains 8.1): Nous
+sommes tous baptisés dans un corps, dans le domaine de ce Royaume, c'est notre baptême
 spirituel. Peu importe que vous soyez bon ou mauvais, ou quoi que ce soit, vous êtes dans ce
-Royaume par le Baptême du Saint-Esprit. Vous comprenez? C’est pour vous le seul moyen de
+Royaume par le Baptême du Saint-Esprit. Vous comprenez? C'est pour vous le seul moyen de
 vaincre. Les vainqueurs sont sous le Sang répandu, parce que vous ne pouvez pas vaincre par
-vous-même; c’est Lui qui a vaincu pour vous. Vous vous reposez…
+vous-même; c'est Lui qui a vaincu pour vous. Vous vous reposez…
 69 «Frère Branham, comment saurai-je que je suis dedans?». Observez la vie que vous vivez.
 Regardez autour de vous. Voyez si cette vie agit en vous automatiquement. Ou alors, si vous
-devez tirer, pousser, faire des efforts. Dans ce cas, vous agissez par vous-même. — N’essayez
-pas d’agir par vous-mêmes!
-70 Lorsqu’un petit bébé veut enfiler une manche, il tire, pousse, se débat, et n’arrive à rien. Vous
-pouvez bien lui dire: «Mets ton manteau, mon chéri!» — il n’y arrive pas. Son petit bras ne le peut
+devez tirer, pousser, faire des efforts. Dans ce cas, vous agissez par vous-même. — N'essayez
+pas d'agir par vous-mêmes!
+70 Lorsqu'un petit bébé veut enfiler une manche, il tire, pousse, se débat, et n'arrive à rien. Vous
+pouvez bien lui dire: «Mets ton manteau, mon chéri!» — il n'y arrive pas. Son petit bras ne le peut
 pas. Il faut le secours de votre main experte. Oh! combien je suis heureux de pouvoir simplement
 tendre ma main au Père, disant: «Seigneur Jésus, je ne peux pas y arriver! aide-moi!
-Enfile-moi le manteau Toi-même! j’abandonne!». — Laissez-Le faire!
-71 Voyez ce qui se passe si le petit enfant s’obstine: «J’y arriverai! J’y arriverai!». Il n’arrivera
+Enfile-moi le manteau Toi-même! j'abandonne!». — Laissez-Le faire!
+71 Voyez ce qui se passe si le petit enfant s'obstine: «J'y arriverai! J'y arriverai!». Il n'arrivera
 quand même à rien. Il ne le peut pas. Vous non plus. Moi non plus. Mais si nous restons
 tranquilles et Le laissons faire, en nous soumettant simplement à Lui… «Me voici, Seigneur. Que
-je ne sois rien! Je me soumets. Mets ma main au bon endroit». C’est cela, la victoire! C’est
+je ne sois rien! Je me soumets. Mets ma main au bon endroit». C'est cela, la victoire! C'est
 cela, vaincre!
-72 Ce que vous devez vaincre, c’est vous-même, vos idées, ce qui vient de vous, et vous
+72 Ce que vous devez vaincre, c'est vous-même, vos idées, ce qui vient de vous, et vous
 abandonner à Lui. Il connaît le chemin. Pas nous.
 73 Au temps de Noé, il y eut huit vainqueurs: ce sont eux qui entrèrent. Ils furent enfermés
-dedans. Maintenant, chers amis, je crois qu’on enregistre ceci. Mais que ce message soit ou
-non sur bande, quoi que vous fassiez, vous qui m’écoutez maintenant, ou qui écouterez
-plus tard, l’heure est très avancée, et vous avez de bonnes intentions! — mais soyez
-enfermés DEDANS! Ne vous débattez pas. Ce n’est pas celui qui veut ou qui court en tous sens,
-mais c’est Dieu! — laissez faire Dieu. Soumettez-vous simplement à Lui, et marchez dans la foi
-parfaite, croyant que ce que Dieu a promis, Il est capable de l’accomplir. Ce n’est pas le fait
-de joindre ou de ne pas joindre une dénomination, ou de courir de-ci, de-là, d’essayer ceci ou
+dedans. Maintenant, chers amis, je crois qu'on enregistre ceci. Mais que ce message soit ou
+non sur bande, quoi que vous fassiez, vous qui m'écoutez maintenant, ou qui écouterez
+plus tard, l'heure est très avancée, et vous avez de bonnes intentions! — mais soyez
+enfermés DEDANS! Ne vous débattez pas. Ce n'est pas celui qui veut ou qui court en tous sens,
+mais c'est Dieu! — laissez faire Dieu. Soumettez-vous simplement à Lui, et marchez dans la foi
+parfaite, croyant que ce que Dieu a promis, Il est capable de l'accomplir. Ce n'est pas le fait
+de joindre ou de ne pas joindre une dénomination, ou de courir de-ci, de-là, d'essayer ceci ou
 cela… Soumettez-vous simplement à Dieu, et marchez avec Lui. Tranquillement, dans la paix,
-sans vous laisser interrompre, continuez de marcher avec Lui! C’est vrai.
-74 C’est ce que je disais à ce frère qui avait eu cette dépression: «Abandonnez-vous à Lui. Il est
+sans vous laisser interrompre, continuez de marcher avec Lui! C'est vrai.
+74 C'est ce que je disais à ce frère qui avait eu cette dépression: «Abandonnez-vous à Lui. Il est
 ici, Celui Qui sait tout ce que vous avez fait, Qui sait pourquoi vous êtes dans cet état, Il sait tout
 ce qui vous concerne. Et maintenant, Il vient de vous dire ce que vous deviez faire. La seule
 chose que vous ayez à faire est de tout oublier ce qui est du passé, et de marcher et de vivre
 pour le futur, dans la gloire et la présence de Dieu».
-75 Huit vainqueurs! Aux jours de Daniel, il y eut quatre vainqueurs qui purent résister à l’épreuve
-du feu et des lions. Nous aussi, nous pouvons nous attendre à être éprouvés. C’est une bonne
+75 Huit vainqueurs! Aux jours de Daniel, il y eut quatre vainqueurs qui purent résister à l'épreuve
+du feu et des lions. Nous aussi, nous pouvons nous attendre à être éprouvés. C'est une bonne
 leçon pour ce frère là-bas. Celui qui vient à Dieu doit premièrement être éprouvé. Eprouvé,
-comment? Par la Parole! C’est cela, l’épreuve que Dieu donne. Croyez-vous cela? Celui qui
-vient à Dieu doit être éprouvé! C’est cela seulement qui montre qu’il est un vrai enfant de
-Dieu — l’épreuve. Vous ne pouvez pas vaincre si vous ne passez pas par une épreuve. Et,
-quand vous passez par une épreuve, c’est pour voir si vous êtes capables de vaincre ou non.
-Jésus a dit “Celui qui vaincra…”. L’épreuve, l’épreuve est la chose la plus glorieuse qui puisse
-vous arriver. Et je crois que c’est écrit dans la Parole. Pierre dit que nos épreuves sont plus
-précieuses pour nous que beaucoup d’or fin. C’est un temps d’épreuve. Et c’est la preuve que
+comment? Par la Parole! C'est cela, l'épreuve que Dieu donne. Croyez-vous cela? Celui qui
+vient à Dieu doit être éprouvé! C'est cela seulement qui montre qu'il est un vrai enfant de
+Dieu — l'épreuve. Vous ne pouvez pas vaincre si vous ne passez pas par une épreuve. Et,
+quand vous passez par une épreuve, c'est pour voir si vous êtes capables de vaincre ou non.
+Jésus a dit “Celui qui vaincra…”. L'épreuve, l'épreuve est la chose la plus glorieuse qui puisse
+vous arriver. Et je crois que c'est écrit dans la Parole. Pierre dit que nos épreuves sont plus
+précieuses pour nous que beaucoup d'or fin. C'est un temps d'épreuve. Et c'est la preuve que
 Dieu est avec nous quand nous sommes éprouvés, car tous les enfants de Dieu sont éprouvés.
 76 Daniel était un prophète. Il y avait aussi Schadrac, Méschac et Abed-Nego. Daniel était le
-prophète, et voilà quelle était l’Eglise en ce temps-là, je veux dire l’Epouse. L’église était très
+prophète, et voilà quelle était l'Eglise en ce temps-là, je veux dire l'Epouse. L'église était très
 nombreuse; ils étaient peut-être deux millions qui allèrent en captivité. Mais voilà quels étaient les
 
         http://www.cmpp.ch
@@ -571,7 +614,7 @@ les lions ne purent l’engloutir! — il avait vaincu.
 Ainsi, vous voyez que la victoire est une chose difficile à brûler ou à dévorer. Mais cette victoire,
 ils l’avaient.
 80 Je pourrais encore mentionner quelqu’un d’autre. Aux jours de Lot (Jésus l’a mentionné), il n’y
-en eut que trois qui vainquirent: Lot et ses deux filles. Sa femme elle-même n’eut pas la victoire.
+eut que trois qui vainquirent: Lot et ses deux filles. Sa femme elle-même n’eut pas la victoire.
 Elle sortit (c’est un type) … (j’aimerais que nous ayons le temps; mes 30 minutes sont arrivées au
 bout maintenant). Elle fit ce qui était bien: elle sortit… Il faut que je vous parle de cela, pendant un
 moment.
@@ -735,7 +778,7 @@ par tout ce qui peut tenter. Il était un homme. Et pourtant, Il resta irréproc
 105 Vaincre signifie “reconnaître le diable dans toutes ses attaques”. Beaucoup de gens
 disent que le diable n’existe pas, que ce n’est qu’une pensée. Ne croyez pas cela! Le diable existe
 réellement! Il est aussi réel que vous ou moi. Il existe. Et vous devez reconnaître qu’il existe. Vous
-devez savoir qu’il y a un diable. Et quand vous reconnaissez qu’il est le diable et qu’il est contre
+devrez savoir qu’il y a un diable. Et quand vous reconnaissez qu’il est le diable et qu’il est contre
 vous, alors, pour vaincre, vous devez reconnaître que le Dieu qui est en vous est plus grand
 et plus puissant que lui, que Celui qui est en vous l’a déjà vaincu, et que par Sa grâce, vous
 êtes plus fort que lui. Amen! C’est cela, la vraie victoire.
@@ -1275,7 +1318,7 @@ COMMENT PUIS-JE VAINCRE? 23
 simplement, profondément, avec sincérité, de tout votre coeur. Qu’arriverait-il si c’était maintenant
 la dernière fois qu’il vous soit permis de prier? Cela pourrait arriver! J’espère que ce ne sera pas le
 cas. Soyez sûrs, maintenant, vraiment sûrs. Rappelez-vous qu’un jour, la porte se fermera, et
-alors, tout sera terminé. “Demandez, et vous recevrez”.
+ alors, tout sera terminé. “Demandez, et vous recevrez”.
 194 [Frère Branham commence à chantonner le refrain — N.d.R.] Pensez à toutes les choses
 glorieuses qu’Il vous a offertes, à tout ce qu’Il… «Je crois, Seigneur. Je crois. Je crois que Tu es
 mon vainqueur. Je marche avec Toi, Seigneur. Je veux rester tout près de Toi; Où tu es, je

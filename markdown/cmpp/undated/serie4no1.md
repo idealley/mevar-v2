@@ -1,540 +1,300 @@
-    SERIE 4, N° 1
+---
+source: "cmpp"
+sermon_id: "serie4no1"
+title: "Trois sortes de croyants"
+subtitle: "24 novembre 1963, soir"
+date: "1963-11-24"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur les trois types de croyants présents dans tout rassemblement : les vrais croyants, les soi-disant croyants et les incrédules. Il utilise des exemples bibliques comme Pierre, Noé, Daniel, David, Abraham, Job, Joseph et Nathanaël pour illustrer la foi authentique qui repose sur la révélation de la Parole de Dieu."
+tags:
+  - "croyants"
+  - "foi"
+  - "Parole de Dieu"
+  - "révélation"
+  - "épreuves"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Pierre"
+  - "Noé"
+  - "Daniel"
+  - "David"
+  - "Abraham"
+  - "Job"
+  - "Joseph"
+  - "Nathanaël"
+  - "Goliath"
+  - "Satan"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Shreveport"
+  - "Louisiane"
+  - "Palestine"
+themes:
+  - "types de croyants"
+  - "foi authentique"
+  - "révélation divine"
+  - "épreuves de la foi"
+  - "Parole de Dieu"
+  - "séparation des incrédules"
+pdf_url: "http://cmpp.ch/serie4no1.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Samuel 9"
+  - "Actes 2"
+  - "Hébreux 11"
+  - "Jean 15"
+  - "Luc 10"
+  - "Psaumes 22"
+  - "Romains 4"
+  - "Ésaïe 35"
+---
+SERIE 4, N° 1
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
-  TROIS SORTES CROYANTS
+TROIS SORTES CROYANTS
 (Three kinds of believers)
 
 
 
-
-     24 novembre 1963, soir
-       Branham Tabernacle
+24 novembre 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+TROIS SORTES DE CROYANTS 2
 
-    TROIS SORTES DE CROYANTS    2
-
-
- TROIS SORTES DE CROYANTS
+TROIS SORTES DE CROYANTS
 (Three kinds of believers)
 
+24 novembre 1963, soir Branham Tabernacle Jeffersonville — Indiana, U.S.A.
 
+1 Inclinons nos têtes. Ayant la tête et le coeur inclinés, je me demande combien aimeraient que l’on se souvienne d’eux dans la prière. Voulez-vous simplement lever la main en disant: «Seigneur, souviens-Toi de moi, ô Seigneur!». Il y a beaucoup de demandes ici et un tas de mouchoirs posés sur le pupitre.
 
-    24 novembre 1963, soir Branham Tabernacle Jeffersonville — Indiana, U.S.A.
+2 Cher Père céleste, ce soir nous sommes de nouveau assemblés sous ce toit où Tu nous as rencontrés si souvent et où Tu as exprimé Ton amour à notre égard, tandis que nous essayons nous-mêmes à notre humble manière d’exprimer notre amour et la grandeur de ce que Tu as fait pour nous. Et ce soir nous venons de nouveau, Seigneur, comme un peuple qui est dans le besoin, car nous avons toujours besoin de Toi. Et aussi longtemps que nous sommes ici sur terre nous savons que ce sera notre cri, car nous sommes dans une bataille et que la bataille fait rage. Mais Tu as fait des promesses quand Tu as dit que l’ennemi serait comme un lion rugissant. Il est déchaîné au milieu du peuple et nous pouvons le voir partout comme un lion rugissant dévorant qui il peut parce qu’il sait que son temps est court. Mais nous avons un Père qui prend soin de Ses petits enfants, et nous fuyons vers Toi avec nos requêtes ce soir, ô Seigneur. Nous Te prions de nous accorder ce que nous demandons.
 
+3 Et Père, ces mouchoirs posés ici signifient qu’il y a des malades quelque part dans ce pays qui appellent, ayant besoin de Toi et croyant que Tu exerces leur foi en leur ayant fait envoyer ces mouchoirs ici. O Dieu, accorde la guérison à chacun d’eux.
 
+4 Seigneur, nous venons de voir Ta grande puissance il y a quelques instants seulement dans cette salle, quand Tu as redonné une mémoire parfaite à un garçon qui était perdu. Jour après jour nous voyons Ta grande puissance ôter la maladie, révéler les secrets des coeurs, montrant aux gens ce qui ne va pas chez eux et remettant leur vie en ordre. Nous Te remercions, Seigneur Dieu, parce que c’est au-delà de ce que l’homme peut faire. C’est au-delà de ce qu’aucun de nous pourrait connaître. Mais Toi, Tu peux révéler la cause même, ce qui a fait le mal et comment il est. C’est Toi, ô Père. Nous savons que la Parole sonde le coeur et qu’Elle discerne les pensées et les intentions du coeur. C’est pourquoi nous Te remercions pour cela.
 
+5 Et maintenant, Seigneur, ces gens ici qui ont incliné la tête et qui pensent à ces choses, nous croyons que c’est le Saint-Esprit qui leur parle. Veuille accorder la réponse à chacune de leurs requêtes. Seigneur, sauve ce soir ceux qui peuvent être sauvés, ceux qui sont perdus. Puissent-ils entrer et être sauvés.
 
+6 Nous sommes si reconnaissants de voir là cette énorme pile de vêtements de baptême mouillés, sachant que le tombeau a été ouvert et que pour beaucoup les péchés du vieil homme ont été ensevelis. Je Te remercie pour cela, Père. Et puissent-ils marcher en nouveauté de vie le reste de leurs jours. Nous Te le demandons par le Nom de Jésus-Christ. Amen.
 
-1 Inclinons nos têtes. Ayant la tête et le coeur inclinés, je me demande combien aimeraient que
-l’on se souvienne d’eux dans la prière. Voulez-vous simplement lever la main en disant: «Seigneur,
-souviens-Toi de moi, ô Seigneur!». Il y a beaucoup de demandes ici et un tas de mouchoirs posés sur
-le pupitre.
-2 Cher Père céleste, ce soir nous sommes de nouveau assemblés sous ce toit où Tu nous as
-rencontrés si souvent et où Tu as exprimé Ton amour à notre égard, tandis que nous essayons
-nous-mêmes à notre humble manière d’exprimer notre amour et la grandeur de ce que Tu as fait pour
-nous. Et ce soir nous venons de nouveau, Seigneur, comme un peuple qui est dans le besoin, car
-nous avons toujours besoin de Toi. Et aussi longtemps que nous sommes ici sur terre nous savons
-que ce sera notre cri, car nous sommes dans une bataille et que la bataille fait rage. Mais Tu as fait
-des promesses quand Tu as dit que l’ennemi serait comme un lion rugissant. Il est déchaîné au milieu
-du peuple et nous pouvons le voir partout comme un lion rugissant dévorant qui il peut parce qu’il sait
-que son temps est court. Mais nous avons un Père qui prend soin de Ses petits enfants, et nous
-fuyons vers Toi avec nos requêtes ce soir, ô Seigneur. Nous Te prions de nous accorder ce que nous
-demandons.
-3 Et Père, ces mouchoirs posés ici signifient qu’il y a des malades quelque part dans ce pays qui
-appellent, ayant besoin de Toi et croyant que Tu exerces leur foi en leur ayant fait envoyer ces
-mouchoirs ici. O Dieu, accorde la guérison à chacun d’eux.
-4 Seigneur, nous venons de voir Ta grande puissance il y a quelques instants seulement dans
-cette salle, quand Tu as redonné une mémoire parfaite à un garçon qui était perdu. Jour après jour
-nous voyons Ta grande puissance ôter la maladie, révéler les secrets des coeurs, montrant aux gens
-ce qui ne va pas chez eux et remettant leur vie en ordre. Nous Te remercions, Seigneur Dieu, parce
-que c’est au-delà de ce que l’homme peut faire. C’est au-delà de ce qu’aucun de nous pourrait
-connaître. Mais Toi, Tu peux révéler la cause même, ce qui a fait le mal et comment il est. C’est Toi,
-ô Père. Nous savons que la Parole sonde le coeur et qu’Elle discerne les pensées et les intentions du
-coeur. C’est pourquoi nous Te remercions pour cela.
-5 Et maintenant, Seigneur, ces gens ici qui ont incliné la tête et qui pensent à ces choses, nous
-croyons que c’est le Saint-Esprit qui leur parle. Veuille accorder la réponse à chacune de leurs
-requêtes. Seigneur, sauve ce soir ceux qui peuvent être sauvés, ceux qui sont perdus. Puissent-ils
-entrer et être sauvés.
-6 Nous sommes si reconnaissants de voir là cette énorme pile de vêtements de baptême mouillés,
-sachant que le tombeau a été ouvert et que pour beaucoup les péchés du vieil homme ont été
-ensevelis. Je Te remercie pour cela, Père. Et puissent-ils marcher en nouveauté de vie le reste de
-leurs jours. Nous Te le demandons par le Nom de Jésus-Christ. Amen.
-7 Que le Seigneur vous bénisse et qu’Il accorde la réponse aux requêtes qui étaient sur votre
-coeur.
-8 Maintenant je crois que Billy m’a dit que frère Wheeler avait eu un petit enfant. Est-ce vrai? Ai-je
-fait une erreur? Il fallait le présenter ou quelque chose comme cela. [Frère Neville suggère de
-présenter plusieurs bébés — N.d.R.]. Si vous voulez les amener ici, je serais heureux… Si les
-anciens veulent bien s’avancer et imposer les mains à ces petits êtres tandis que nous les
-présentons. J’essaierai d’être aussi bref que possible. Et nous aimerions que les parents puissent
+7 Que le Seigneur vous bénisse et qu’Il accorde la réponse aux requêtes qui étaient sur votre coeur.
 
-        http://www.cmpp.ch
+8 Maintenant je crois que Billy m’a dit que frère Wheeler avait eu un petit enfant. Est-ce vrai? Ai-je fait une erreur? Il fallait le présenter ou quelque chose comme cela. [Frère Neville suggère de présenter plusieurs bébés — N.d.R.]. Si vous voulez les amener ici, je serais heureux… Si les anciens veulent bien s’avancer et imposer les mains à ces petits êtres tandis que nous les présentons. J’essaierai d’être aussi bref que possible. Et nous aimerions que les parents puissent apporter au Seigneur Jésus ces petits joyaux que Dieu leur a donnés. Nous essayons toujours de leur ouvrir le chemin parce que nous ne savons pas ce qui arrivera demain. Ma mère me disait toujours: «Ne remets pas au lendemain ce qui peut être fait aujourd’hui». C’est vrai, parce que vous ne savez pas ce que demain vous réserve. Mais nous savons Qui s’occupe de demain, c’est le principal. Nous savons Qui s’occupe de demain. [Frère Branham présente plusieurs bébés — N.d.R.].
 
-TROIS SORTES DE CROYANTS 3
-apporter au Seigneur Jésus ces petits joyaux que Dieu leur a donnés. Nous essayons toujours de
-leur ouvrir le chemin parce que nous ne savons pas ce qui arrivera demain. Ma mère me disait
-toujours: «Ne remets pas au lendemain ce qui peut être fait aujourd’hui». C’est vrai, parce que vous
-ne savez pas ce que demain vous réserve. Mais nous savons Qui s’occupe de demain, c’est le
-principal. Nous savons Qui s’occupe de demain. [Frère Branham présente plusieurs bébés — N.d.R.].
-9 C’est un moment où ma femme envie mon travail, ce moment où je tiens, ces petits bébés. Elle
-aime tellement les tenir! Moi aussi, mais j’ai toujours peur de les casser! Vous savez, ils sont si jolis et
-ont l’air si délicats, bien qu’en réalité ils soient plus solides que nous.
-10 Je vous avais dit que nous sortirions… Eh bien il ne me reste plus que trente-cinq minutes. Je
-vais devoir me dépêcher, n’est-ce pas? Voyons. Je ne voudrais pas mal juger les gens ou dire
-quelque chose de faux, mais je vais essayer de toutes mes forces parce que, vous savez, sur les
-routes je ne suis plus aussi actif qu’autrefois. Quelquefois c’est pénible de faire tous ces kilomètres
-quand on a tenu deux ou trois services dans la journée, mais la principale cause de fatigue ce sont
-ces visions. Cela ne me fait rien de prêcher. Oh, mes frères, je pourrais rester ici toute la journée
-sans que cela me dérange, mais ce sont ces visions. Et quand les gens viennent me voir, c’est ce
-dont ils ont besoin, vous voyez. C’est pour cela qu’ils sont ici. C’est quelque chose que l’on ne peut
-pas simplement régler par l’imposition des mains. Il faut connaître la racine, le point de départ des
-choses, ce qui a fait que les choses sont ainsi, et ensuite ce qu’il faut faire pour en sortir. C’est pour
-cela qu’ils sont ici.
-11 Les réunions commenceront mercredi soir à Shreveport en Louisiane. Et s’il y en a parmi vous
-qui avez des amis là-bas, dites-leur de venir. Je crois que cela commencera au Life Tabernacle, à
-moins que nous n’allions en face dans l’auditorium, si l’on peut l’avoir, ce qui nous donnerait un peu
-plus de places assises. Mais ils peuvent avoir le deuxième balcon, le parterre principal et un étage
-dessous. Je ne sais pas exactement combien on pourra faire asseoir de monde, mais si cela va trop
-mal, peut-être que nous pourrons avoir l’auditorium d’en face. Je ne sais pas non plus combien il y a
-de places assises. J’ai eu des services là, mais je ne m’en souviens plus. C’est une convention
-annuelle.
-12 J’étais là-bas il y a trois ans et nous avions commencé un réveil au Nom du Seigneur. Cela n’a
-jamais cessé depuis lors et cela continue sans arrêt chaque jour. Les gens viennent, ils sont sauvés,
-baptisés et se mettent ainsi à marcher avec le Seigneur. Il vient des pasteurs et toute sorte de
-monde. Tant que cela continue ainsi et que je reste ici, j’aimerais aller les visiter tout le temps, leur
-dire simplement quelques mots et continuer mon chemin.
-13 Nous commencerons donc mercredi et terminerons dimanche. Le déjeuner des Hommes
-d’Affaires Chrétiens se tiendra à l’hôtel… j’ai oublié son nom mais on vous le dira quand vous serez
-là. C’est un déjeuner des Hommes d’Affaires Chrétiens.
-14 La dernière fois, j’ai passé de glorieux moments là-bas (je parle spécialement pour vous, les
-hommes d’affaires chrétiens). Le Seigneur a sauvé un rabbin de cette ville et oh, je ne sais pas tout
-ce qui a encore eu lieu! Ce furent là-bas des moments glorieux dans le Seigneur quand je prêchai sur
-l’Alliance du Sang. Le sang, c’est ce que les Juifs connaissent. Sans effusion de sang il n’y a pas de
-rémission, vous voyez.
-15 Maintenant allons tout droit à la Parole et j’essaierai de tenir mes promesses à votre égard.
-Encore une chose. Si le Seigneur le permet, le dimanche après Noël, si vous êtes en vacances et
-que vous passiez par là, s’il n’y a pas de verglas ou autre et que vous êtes dans les environs, eh
-bien, venez nous rendre visite. Nous essaierons d’avoir une réunion dimanche matin après Noël.
-Quel jour sera-ce? le 29? Ce sera le dimanche 29, après Noël.
-16 S’il arrive quelque chose qui nous empêche d’être ici… Nous ne connaissons pas le futur, vous
-savez, mais s’il arrive quelque chose, eh bien, vous qui habitez en dehors de ville comme les gens
-qui viennent de Memphis…
-17 J’aurais bien aimé entendre frère Ungren chanter Comme Tu es glorieux! Est-il ici ce soir? J’ai
-toujours tellement de choses à faire que je ne peux pas les faire toutes. Que Dieu vous bénisse!
-18 Tournons-nous maintenant vers les Ecritures et lisons un petit passage de l’Ecriture. Si mes
-paroles manquent, Celle-ci ne manquera pas. Dieu vous bénira de rester ici simplement pour écouter
-Sa Parole. “La foi vient de ce qu’on entend, de ce qu’on entend de la Parole de Dieu”. N’est-ce pas
+9 C’est un moment où ma femme envie mon travail, ce moment où je tiens, ces petits bébés. Elle aime tellement les tenir! Moi aussi, mais j’ai toujours peur de les casser! Vous savez, ils sont si jolis et ont l’air si délicats, bien qu’en réalité ils soient plus solides que nous.
 
-        http://www.cmpp.ch
+10 Je vous avais dit que nous sortirions… Eh bien il ne me reste plus que trente-cinq minutes. Je vais devoir me dépêcher, n’est-ce pas? Voyons. Je ne voudrais pas mal juger les gens ou dire quelque chose de faux, mais je vais essayer de toutes mes forces parce que, vous savez, sur les routes je ne suis plus aussi actif qu’autrefois. Quelquefois c’est pénible de faire tous ces kilomètres quand on a tenu deux ou trois services dans la journée, mais la principale cause de fatigue ce sont ces visions. Cela ne me fait rien de prêcher. Oh, mes frères, je pourrais rester ici toute la journée sans que cela me dérange, mais ce sont ces visions. Et quand les gens viennent me voir, c’est ce dont ils ont besoin, vous voyez. C’est pour cela qu’ils sont ici. C’est quelque chose que l’on ne peut pas simplement régler par l’imposition des mains. Il faut connaître la racine, le point de départ des choses, ce qui a fait que les choses sont ainsi, et ensuite ce qu’il faut faire pour en sortir. C’est pour cela qu’ils sont ici.
 
-TROIS SORTES DE CROYANTS 4
-vrai? Je pensais à quelque chose que je vous dirai tandis que vous cherchez Jean au chapitre 6.
-Nous commencerons à lire au verset 60 et nous irons jusqu’au verset 71 y compris.
-19 Il n’y a pas longtemps, en regardant le coucher du soleil par la fenêtre, je pensais comme toute
-la nature a une loi. Quand vient l’hiver, la loi de la nature fait automatiquement descendre la sève
-dans les racines des arbres, Elle ensevelit… Comme le disait Job: “Oh, si Tu voulais me cacher dans
-la tombe! Si Tu voulais me garder dans le lieu secret jusqu’à la fin de Ta colère!”. C’est cela: “Si Tu
-voulais me cacher…”.
-20 Il voyait la nature, la vie qui descendait dans la racine des arbres, frère Way, et rester là jusqu’à
-ce que la colère soit passée, disant: «Appelle-moi et assigne-moi un temps». Vous voyez? La nature
-a une loi. Il y a une loi de la nature. Il n’y a absolument aucun moyen de passer à côté. C’est la
-loi de la nature. Et il y a aussi une loi de l’Esprit. Et il n’y a aucun moyen de passer à côté.
-21 Cet après-midi, j’ai parlé à un couple sur ce sujet: vous ne pouvez rien annihiler (anéantir)
-totalement. Les êtres humains ne peuvent rien annihiler. Ils peuvent déchirer mais pas annihiler.
-Quelqu’un a dit: «Que se passe-t-il quand on brûle un bout de papier? Est-ce que cela l’annihile?».
-Non, pas du tout. La chaleur du feu sépare simplement les composants chimiques. Ils retournent à
-l’état de gaz, c’est-à-dire à ce qui était au commencement. Vous ne pouvez pas annihiler. Et si le
-monde subsistait assez longtemps, ces mêmes gaz et produits chimiques qui étaient dans ce bout de
-papier pourraient redevenir un bout de papier. C’est exact. Vous ne pouvez annihiler. Exactement.
-22 S’il y a une résurrection où chaque chose reviendra et qu’il n’y a pas d’annihilation, il y aura alors
-une résurrection des justes et nous devrons revenir. Tout est là. Il n’y a aucun moyen de faire cela.
-Vous auriez beau être brûlé, noyé ou quoi que ce soit d’autre qui puisse vous arriver, vous ne
-pouvez pas être annihilé.
-23 Rappelez-vous que chaque partie de vous était là. Quand Dieu appela le monde à l’existence par
-Sa Parole, Il plaça votre corps ici à ce moment-là et il n’y a rien qui puisse l’ôter excepté Dieu. Tout
-est retourné dans Ses mains, vous voyez? Le Créateur est Celui qui avait fait la promesse, c’est
-pourquoi nous sommes sûrs qu’il y a une vie éternelle. Et nous avons maintenant l’assurance dans
-notre coeur que nous avons maintenant la Vie éternelle, la Vie éternelle qui ne peut pas mourir en
-nous maintenant.
+11 Les réunions commenceront mercredi soir à Shreveport en Louisiane. Et s’il y en a parmi vous qui avez des amis là-bas, dites-leur de venir. Je crois que cela commencera au Life Tabernacle, à moins que nous n’allions en face dans l’auditorium, si l’on peut l’avoir, ce qui nous donnerait un peu plus de places assises. Mais ils peuvent avoir le deuxième balcon, le parterre principal et un étage dessous. Je ne sais pas exactement combien on pourra faire asseoir de monde, mais si cela va trop mal, peut-être que nous pourrons avoir l’auditorium d’en face. Je ne sais pas non plus combien il y a de places assises. J’ai eu des services là, mais je ne m’en souviens plus. C’est une convention annuelle.
+
+12 J’étais là-bas il y a trois ans et nous avions commencé un réveil au Nom du Seigneur. Cela n’a jamais cessé depuis lors et cela continue sans arrêt chaque jour. Les gens viennent, ils sont sauvés, baptisés et se mettent ainsi à marcher avec le Seigneur. Il vient des pasteurs et toute sorte de monde. Tant que cela continue ainsi et que je reste ici, j’aimerais aller les visiter tout le temps, leur dire simplement quelques mots et continuer mon chemin.
+
+13 Nous commencerons donc mercredi et terminerons dimanche. Le déjeuner des Hommes d’Affaires Chrétiens se tiendra à l’hôtel… j’ai oublié son nom mais on vous le dira quand vous serez là. C’est un déjeuner des Hommes d’Affaires Chrétiens.
+
+14 La dernière fois, j’ai passé de glorieux moments là-bas (je parle spécialement pour vous, les hommes d’affaires chrétiens). Le Seigneur a sauvé un rabbin de cette ville et oh, je ne sais pas tout ce qui a encore eu lieu! Ce furent là-bas des moments glorieux dans le Seigneur quand je prêchai sur l’Alliance du Sang. Le sang, c’est ce que les Juifs connaissent. Sans effusion de sang il n’y a pas de rémission, vous voyez.
+
+15 Maintenant allons tout droit à la Parole et j’essaierai de tenir mes promesses à votre égard. Encore une chose. Si le Seigneur le permet, le dimanche après Noël, si vous êtes en vacances et que vous passiez par là, s’il n’y a pas de verglas ou autre et que vous êtes dans les environs, eh bien, venez nous rendre visite. Nous essaierons d’avoir une réunion dimanche matin après Noël. Quel jour sera-ce? le 29? Ce sera le dimanche 29, après Noël.
+
+16 S’il arrive quelque chose qui nous empêche d’être ici… Nous ne connaissons pas le futur, vous savez, mais s’il arrive quelque chose, eh bien, vous qui habitez en dehors de ville comme les gens qui viennent de Memphis…
+
+17 J’aurais bien aimé entendre frère Ungren chanter Comme Tu es glorieux! Est-il ici ce soir? J’ai toujours tellement de choses à faire que je ne peux pas les faire toutes. Que Dieu vous bénisse!
+
+18 Tournons-nous maintenant vers les Ecritures et lisons un petit passage de l’Ecriture. Si mes paroles manquent, Celle-ci ne manquera pas. Dieu vous bénira de rester ici simplement pour écouter Sa Parole. “La foi vient de ce qu’on entend, de ce qu’on entend de la Parole de Dieu”. N’est-ce pas vrai? Je pensais à quelque chose que je vous dirai tandis que vous cherchez Jean au chapitre 6. Nous commencerons à lire au verset 60 et nous irons jusqu’au verset 71 y compris.
+
+19 Il n’y a pas longtemps, en regardant le coucher du soleil par la fenêtre, je pensais comme toute la nature a une loi. Quand vient l’hiver, la loi de la nature fait automatiquement descendre la sève dans les racines des arbres, Elle ensevelit… Comme le disait Job: “Oh, si Tu voulais me cacher dans la tombe! Si Tu voulais me garder dans le lieu secret jusqu’à la fin de Ta colère!”. C’est cela: “Si Tu voulais me cacher…”.
+
+20 Il voyait la nature, la vie qui descendait dans la racine des arbres, frère Way, et rester là jusqu’à ce que la colère soit passée, disant: «Appelle-moi et assigne-moi un temps». Vous voyez? La nature a une loi. Il y a une loi de la nature. Il n’y a absolument aucun moyen de passer à côté. C’est la loi de la nature. Et il y a aussi une loi de l’Esprit. Et il n’y a aucun moyen de passer à côté.
+
+21 Cet après-midi, j’ai parlé à un couple sur ce sujet: vous ne pouvez rien annihiler (anéantir) totalement. Les êtres humains ne peuvent rien annihiler. Ils peuvent déchirer mais pas annihiler. Quelqu’un a dit: «Que se passe-t-il quand on brûle un bout de papier? Est-ce que cela l’annihile?». Non, pas du tout. La chaleur du feu sépare simplement les composants chimiques. Ils retournent à l’état de gaz, c’est-à-dire à ce qui était au commencement. Vous ne pouvez pas annihiler. Et si le monde subsistait assez longtemps, ces mêmes gaz et produits chimiques qui étaient dans ce bout de papier pourraient redevenir un bout de papier. C’est exact. Vous ne pouvez annihiler. Exactement.
+
+22 S’il y a une résurrection où chaque chose reviendra et qu’il n’y a pas d’annihilation, il y aura alors une résurrection des justes et nous devrons revenir. Tout est là. Il n’y a aucun moyen de faire cela. Vous auriez beau être brûlé, noyé ou quoi que ce soit d’autre qui puisse vous arriver, vous ne pouvez pas être annihilé.
+
+23 Rappelez-vous que chaque partie de vous était là. Quand Dieu appela le monde à l’existence par Sa Parole, Il plaça votre corps ici à ce moment-là et il n’y a rien qui puisse l’ôter excepté Dieu. Tout est retourné dans Ses mains, vous voyez? Le Créateur est Celui qui avait fait la promesse, c’est pourquoi nous sommes sûrs qu’il y a une vie éternelle. Et nous avons maintenant l’assurance dans notre coeur que nous avons maintenant la Vie éternelle, la Vie éternelle qui ne peut pas mourir en nous maintenant.
+
 24 Bien. Lisons maintenant dans Jean au chapitre 6, depuis le verset 60.
-“Plusieurs de ses disciples, après l’avoir entendu, dirent: Cette parole est dure: qui peut l’écouter?
-Jésus, sachant en lui-même que ses disciples murmuraient à ce sujet, leur dit: Cela vous
-scandalise-t-il? Et si vous voyez le Fils de l’homme monter où il était auparavant?… C’est l’esprit qui
-vivifie; la chair ne sert de rien. Les paroles que je vous ai dites sont esprit (c’est Lui) et vie (Qu’a-t-Il
-dit? “Je suis la vérité et la Vie”). Mais il en est parmi vous quelques-uns qui ne croient point. Car
-Jésus savait dès le commencement qui étaient ceux qui ne croyaient point, et qui était celui qui le
-livrerait. Et il ajouta. C’est pourquoi je vous ai dit que nul ne peut venir à moi si cela ne lui a été donné
-par le Père. Dès ce moment, plusieurs de ses disciples se retirèrent, et ils n’allaient plus avec lui
-(c’étaient des paroles dures, vous voyez, et ils ne pouvaient les recevoir). Jésus donc dit aux douze:
-Et vous, ne voulez-vous pas aussi vous en aller? Simon Pierre lui répondit: Seigneur, à qui
-irion-nous? Tu as les paroles de la vie éternelle. Et nous avons cru et nous avons connu que tu es le
-Christ, le Saint de Dieu (Oh, mes frères!). Jésus leur répondit: N’est-ce pas moi qui vous ai choisis,
-vous les douze? Et l’un de vous est un démon! Il parlait de Judas Iscariot, fils de Simon; car c’était lui
-qui devait le livrer, lui, l’un des douze”.
-25 Maintenant, si je devais donner un titre à mon sujet de ce soir (et je ferai de mon mieux pour bien
-remplir cette demi-heure), je le nommerais ainsi: Trois sortes de croyants. J’ai souvent fait cette
-déclaration, je pense: «Eh bien, je crois que je vais prêcher une fois là-dessus. J’en parlerai ce soir».
-C’est ce que je pensais.
-26 Il y a premièrement les croyants, puis les soi-disant croyants et enfin les incrédules. Nous avons
-là tout un sujet, mais sachons, nous qui sommes assis ici ce soir, que dans tout rassemblement il y a
-ces trois groupes. Où que des gens se rassemblent, nous trouvons ces trois groupes et nous
-les avons toujours trouvés et nous les aurons probablement toujours jusqu’au retour du
-Seigneur.
-27 Et je voudrais que nous nous décrivions nous-mêmes ce soir, tandis que je parle de ces trois
 
-        http://www.cmpp.ch
+> “Plusieurs de ses disciples, après l’avoir entendu, dirent: Cette parole est dure: qui peut l’écouter? Jésus, sachant en lui-même que ses disciples murmuraient à ce sujet, leur dit: Cela vous scandalise-t-il? Et si vous voyez le Fils de l’homme monter où il était auparavant?… C’est l’esprit qui vivifie; la chair ne sert de rien. Les paroles que je vous ai dites sont esprit (c’est Lui) et vie (Qu’a-t-Il dit? “Je suis la vérité et la Vie”). Mais il en est parmi vous quelques-uns qui ne croient point. Car Jésus savait dès le commencement qui étaient ceux qui ne croyaient point, et qui était celui qui le livrerait. Et il ajouta. C’est pourquoi je vous ai dit que nul ne peut venir à moi si cela ne lui a été donné par le Père. Dès ce moment, plusieurs de ses disciples se retirèrent, et ils n’allaient plus avec lui (c’étaient des paroles dures, vous voyez, et ils ne pouvaient les recevoir). Jésus donc dit aux douze: Et vous, ne voulez-vous pas aussi vous en aller? Simon Pierre lui répondit: Seigneur, à qui irion-nous? Tu as les paroles de la vie éternelle. Et nous avons cru et nous avons connu que tu es le Christ, le Saint de Dieu (Oh, mes frères!). Jésus leur répondit: N’est-ce pas moi qui vous ai choisis, vous les douze? Et l’un de vous est un démon! Il parlait de Judas Iscariot, fils de Simon; car c’était lui qui devait le livrer, lui, l’un des douze”.
 
-TROIS SORTES DE CROYANTS 5
-groupes, afin de voir dans lequel nous sommes. Et rappelez-vous maintenant que si je parle à cette
-église ici, qui est de nouveau pleine jusqu’aux murs et aux corridors, je parle aussi au monde entier,
-vous voyez. Et ces bandes circulent dans toutes les parties du monde. C’est le ministère des
-enregistrements.
-28 Je vais parler maintenant des trois différents types de croyants. Rappelez-vous qu’il s’agit de
-croyants. Mon sujet est: Les croyants. L’un est un vrai croyant, l’autre est un soi-disant croyant, et
-l’autre est un incrédule. Vous voyez?
-29 Le premier groupe dont j’aimerais parler est celui des croyants, parce que je pense qu’ils doivent
-être placés en premier, étant ceux qui croient véritablement. Ce sont des croyants qui croient comme
-ces disciples que nous venons de voir. Nous prendrons comme exemple ce passage de l’Ecriture que
-nous venons de lire.
-30 Le premier groupe est celui des croyants, des croyants authentiques. Et la foi vient de ce que
-l’on entend, de ce que l’on entend de la Parole de Dieu, la Parole de Dieu qui est Christ, vous voyez?
-C’est le groupe des croyants.
-31 Avez-vous remarqué la glorieuse déclaration qu’a faite ce croyant? Or un croyant n’a pas besoin
-d’être quelqu’un d’intelligent à la manière de l’intelligence du monde. Il n’a pas besoin d’être
-quelqu’un d’instruit comme ces gens disent que vous devez être instruit. Vous n’en avez pas besoin.
-Pierre, l’homme qui avait fait cette glorieuse déclaration, la Bible Elle-même dit qu’il était à la fois
-ignorant et sans instruction. Il n’était pas réellement considéré comme un homme intelligent.
-32 Dans Ésaïe 35 il est dit: “Et il y aura là une grande route et un chemin, et il sera appelé le chemin
-de la sainteté: l’impur n’y passera pas…”.
-33 Cet après-midi je parlais avec un des diacres au sujet du nouveau pont. Je dis: «Il y a aujourd’hui
-beaucoup de ponts qui franchissent des plans d’eau et des baies, mais il y a un grand pont qui se
-développe de la terre jusqu’à la gloire. Il est appelé la Voie Royale. L’impur n’y passera pas». C’est
-vrai. C’est une route qui est construite par Christ notre Seigneur, c’est la route qui a été faite pour se
-développer de cette terre à un autre Pays et l’impur ne la franchit pas.
-34 Pierre, cet homme sans instruction, se tenant tout près, quand il vit la Parole de son jour
-complètement confirmée disant que Dieu avait promis qu’il s’élèverait quelqu’un qui serait un
-prophète parmi eux… Simon avait de la peine à croire parce qu’il y avait eu tellement d’interprétations
-de cela, mais quand il vit dévoilée la Parole authentique de cet âge et qu’il L’entendit s’identifier
-correctement, il fut convaincu avec certitude que c’était le Seigneur.
-35 Pierre était celui qui a dit: “Seigneur, à qui irions-nous!” quand la question lui fut posée, tandis
-que les foules se séparaient en croyants, incrédules et soi-disant croyants. Il y avait ces trois groupes
-qui se tenaient là dans cette compagnie de gens: les croyants, les soi-disant croyants et les
-incrédules. On les trouve là même dans ce chapitre. Et c’est parce que Jésus prononça ces paroles
-de cette manière que cela sépara Son assemblée. Mais il fallait que ce soit fait.
-36 Il était un grand homme tant qu’il guérissait les malades, mais quand Il en arriva à la doctrine et à
-la prophétie, c’est ce qui sépara la balle du blé, vous voyez. La balle enveloppe simplement le blé.
-Ce n’est pas le blé. On ne peut rien en faire. Il n’y a rien en elle, il n’y a pas de vie en elle. C’est
-l’enveloppe et elle ne peut rester avec le blé. Elle n’héritera pas avec le blé. Ainsi donc, c’est
-du grain que nous parlons, le coeur du grain de blé.
-37 Remarquez maintenant que Pierre était convaincu que c’était le Messie. Ce que disait tout le
-reste des gens ne faisait aucune différence pour lui. Ce que disait le prêtre ne faisait aucune
-différence. Pour Simon Pierre, ce que disait l’église n’avait aucune importance. Il était lui-même
-convaincu.
+25 Maintenant, si je devais donner un titre à mon sujet de ce soir (et je ferai de mon mieux pour bien remplir cette demi-heure), je le nommerais ainsi: Trois sortes de croyants. J’ai souvent fait cette déclaration, je pense: «Eh bien, je crois que je vais prêcher une fois là-dessus. J’en parlerai ce soir». C’est ce que je pensais.
+
+26 Il y a premièrement les croyants, puis les soi-disant croyants et enfin les incrédules. Nous avons là tout un sujet, mais sachons, nous qui sommes assis ici ce soir, que dans tout rassemblement il y a ces trois groupes. Où que des gens se rassemblent, nous trouvons ces trois groupes et nous les avons toujours trouvés et nous les aurons probablement toujours jusqu’au retour du Seigneur.
+
+27 Et je voudrais que nous nous décrivions nous-mêmes ce soir, tandis que je parle de ces trois groupes, afin de voir dans lequel nous sommes. Et rappelez-vous maintenant que si je parle à cette église ici, qui est de nouveau pleine jusqu’aux murs et aux corridors, je parle aussi au monde entier, vous voyez. Et ces bandes circulent dans toutes les parties du monde. C’est le ministère des enregistrements.
+
+28 Je vais parler maintenant des trois différents types de croyants. Rappelez-vous qu’il s’agit de croyants. Mon sujet est: Les croyants. L’un est un vrai croyant, l’autre est un soi-disant croyant, et l’autre est un incrédule. Vous voyez?
+
+29 Le premier groupe dont j’aimerais parler est celui des croyants, parce que je pense qu’ils doivent être placés en premier, étant ceux qui croient véritablement. Ce sont des croyants qui croient comme ces disciples que nous venons de voir. Nous prendrons comme exemple ce passage de l’Ecriture que nous venons de lire.
+
+30 Le premier groupe est celui des croyants, des croyants authentiques. Et la foi vient de ce que l’on entend, de ce que l’on entend de la Parole de Dieu, la Parole de Dieu qui est Christ, vous voyez? C’est le groupe des croyants.
+
+31 Avez-vous remarqué la glorieuse déclaration qu’a faite ce croyant? Or un croyant n’a pas besoin d’être quelqu’un d’intelligent à la manière de l’intelligence du monde. Il n’a pas besoin d’être quelqu’un d’instruit comme ces gens disent que vous devez être instruit. Vous n’en avez pas besoin. Pierre, l’homme qui avait fait cette glorieuse déclaration, la Bible Elle-même dit qu’il était à la fois ignorant et sans instruction. Il n’était pas réellement considéré comme un homme intelligent.
+
+32 Dans Ésaïe 35 il est dit: “Et il y aura là une grande route et un chemin, et il sera appelé le chemin de la sainteté: l’impur n’y passera pas…”.
+
+33 Cet après-midi je parlais avec un des diacres au sujet du nouveau pont. Je dis: «Il y a aujourd’hui beaucoup de ponts qui franchissent des plans d’eau et des baies, mais il y a un grand pont qui se développe de la terre jusqu’à la gloire. Il est appelé la Voie Royale. L’impur n’y passera pas». C’est vrai. C’est une route qui est construite par Christ notre Seigneur, c’est la route qui a été faite pour se développer de cette terre à un autre Pays et l’impur ne la franchit pas.
+
+34 Pierre, cet homme sans instruction, se tenant tout près, quand il vit la Parole de son jour complètement confirmée disant que Dieu avait promis qu’il s’élèverait quelqu’un qui serait un prophète parmi eux… Simon avait de la peine à croire parce qu’il y avait eu tellement d’interprétations de cela, mais quand il vit dévoilée la Parole authentique de cet âge et qu’il L’entendit s’identifier correctement, il fut convaincu avec certitude que c’était le Seigneur.
+
+35 Pierre était celui qui a dit: “Seigneur, à qui irions-nous!” quand la question lui fut posée, tandis que les foules se séparaient en croyants, incrédules et soi-disant croyants. Il y avait ces trois groupes qui se tenaient là dans cette compagnie de gens: les croyants, les soi-disant croyants et les incrédules. On les trouve là même dans ce chapitre. Et c’est parce que Jésus prononça ces paroles de cette manière que cela sépara Son assemblée. Mais il fallait que ce soit fait.
+
+36 Il était un grand homme tant qu’il guérissait les malades, mais quand Il en arriva à la doctrine et à la prophétie, c’est ce qui sépara la balle du blé, vous voyez. La balle enveloppe simplement le blé. Ce n’est pas le blé. On ne peut rien en faire. Il n’y a rien en elle, il n’y a pas de vie en elle. C’est l’enveloppe et elle ne peut rester avec le blé. Elle n’héritera pas avec le blé. Ainsi donc, c’est du grain que nous parlons, le coeur du grain de blé.
+
+37 Remarquez maintenant que Pierre était convaincu que c’était le Messie. Ce que disait tout le reste des gens ne faisait aucune différence pour lui. Ce que disait le prêtre ne faisait aucune différence. Pour Simon Pierre, ce que disait l’église n’avait aucune importance. Il était lui-même convaincu.
+
 38 A un autre endroit, Jésus lui demanda: “Qui dit-on que je suis?”.
-39 Quelques-uns dirent: “Tu es un prophète”. D’autres dirent: “Tu es un des anciens prophètes
-ressuscité. Tu es Moïse, Elie… ou autre chose”.
+
+39 Quelques-uns dirent: “Tu es un prophète”. D’autres dirent: “Tu es un des anciens prophètes ressuscité. Tu es Moïse, Elie… ou autre chose”.
+
 40 Alors Jésus demanda: “Je te pose la question à toi. Que penses-tu, toi?”.
+
 41 Pierre dit: “Tu es le Christ, le Fils du Dieu vivant”.
-42 Jésus lui répondit: “Tu es béni, Simon, fils de Jonas, car ce ne sont pas la chair et le sang qui
-t’ont révélé cela. Tu n’as jamais appris cela d’un livre, d’un credo ou d’un catéchisme. C’est mon Père
 
-        http://www.cmpp.ch
+42 Jésus lui répondit: “Tu es béni, Simon, fils de Jonas, car ce ne sont pas la chair et le sang qui t’ont révélé cela. Tu n’as jamais appris cela d’un livre, d’un credo ou d’un catéchisme. C’est mon Père qui est dans le Ciel qui t’a révélé cela”. C’était un croyant authentique en la révélation spirituelle de la Parole, vous voyez?
 
-    TROIS SORTES DE CROYANTS    6
-qui est dans le Ciel qui t’a révélé cela”. C’était un croyant authentique en la révélation spirituelle de la
-Parole, vous voyez?
-43 “Tu es Simon, et sur ce rocher de ta révélation de Qui je suis, je bâtirai mon Eglise et les portes
-de l’enfer ne prévaudront pas contre elle”. Vous voyez?
+43 “Tu es Simon, et sur ce rocher de ta révélation de Qui je suis, je bâtirai mon Eglise et les portes de l’enfer ne prévaudront pas contre elle”. Vous voyez?
+
 44 Il n’est pas étonnant que Simon ait dit: “A qui irions-nous d’autre?”.
-45 Jésus s’était tourné vers eux et leur avait demandé: “Et vous, ne voulez-vous pas vous en
-aller?”.
-46 Mais eux répondirent: “Seigneur, où irions-nous, car Toi seul as les Paroles de Vie. Tu es le
-seul”. Car non seulement Il AVAIT les Paroles de Vie, mais Il ETAIT la Parole de Vie. Il était la
-Parole de Vie et Simon reconnut cela complètement. Et quand il le reconnut, c’est cela qui lui fit
-garder l’espoir car il lui avait été révélé que Jésus était cette Parole vivante.
-47 Voilà donc ce qu’est un croyant authentique. Quand le Saint-Esprit, non pas quand vous êtes
-persuadé par une personne quelconque ou par quelqu’autre chose, mais quand le Saint-Esprit
-vous a révélé la Parole Elle-même et que vous voyez la Parole rendue claire et confirmée, alors
-l’Esprit de Dieu entre dans cet âge avec la Parole donnée pour cet âge et la rend manifeste.
-48 Comment quelqu’un aurait-il pu ne pas croire Luther, s’il avait su cela? Luther était un
-réformateur. “L’esprit-homme” parut alors pour la réformation. Avec Wesley ce fut pareil. Il fallait le
-croire. Vous voyez, c’était le message pour cet âge de l’église. C’était exactement ce qui s’était
-passé. C’est ce qui devait arriver. Il fallait le croire.
-49 Et nous voici maintenant arrivés à l’âge de Laodicée et l’on nous a enseigné que dans l’âge de
-Laodicée, Christ a été mis hors de Son Eglise et qu’Il frappa à la porte, essayant d’y rentrer. C’est
-pourquoi, quand nous voyons ce qui arrive, nous savons dans quel âge nous vivons.
-50 Nous arrivons au moment où l’histoire du monde se termine. Maintenant le livre est en train
-d’être achevé. Un jour où l’autre, la dernière ligne sera écrite et il sera fermé. Alors il n’y aura plus de
-temps.
-51 Il y a un grand drame en train de se préparer et les anges se tiennent dans les cieux et
-observent. Vous savez ce qu’est un drame. Les acteurs sont prêts. Vous pouvez les voir en train de
-jouer.
-52 Vous pouvez voir le Malin jouer son rôle. Vous pouvez voir comment le vilain de la pièce entre en
-scène pour tromper par sa ruse. Mais vous pouvez aussi voir se préparer l’Eglise qui doit être
-enlevée. C’est une scène glorieuse.
-53 Vous pouvez voir la Présence de Dieu confirmer et faire se représenter le grand drame qui est
-prédit ici dans la Bible. Oh, dans quel temps nous vivons! C’est le temps le plus glorieux! Les
-hommes de tous les âges ont désiré ardemment vivre dans ce temps-là. Les prophètes d’autrefois
-ont désiré ardemment voir cette heure, mais n’en ont pas eu le privilège.
-54 Pierre était un croyant parce qu’il vit cela. Il le crut. “Nous sommes pleinement persuadés que
-Tu es le Christ, le Messie, la Parole de Dieu pour ce jour, et nous le croyons”. Vous voyez,
-c’était un croyant véritable.
-55 Prenons encore rapidement quelques croyants avant d’en arriver au personnage suivant.
-Prenons le prophète Noé. Peut-être qu’en ce temps-là il était paysan. Mais quand les moqueurs et les
-gens religieux de ce jour… L’église en était arrivée à son point le plus bas, et Dieu parla à Noé, lui
-disant de construire une arche. Noé ne discuta jamais cela avec Dieu. Il croyait que c’était la Parole
-de Dieu et se mit à l’ouvrage à toute vitesse pour préparer les choses. Voilà un vrai croyant!
-56 Ne discutez pas. Ce qu’il vous faut, c’est être pleinement convaincu. C’est pareil pour tout le
-monde et pour n’importe quel genre de foi. La foi vient par ce que l’on entend. Si vous pouvez rester
-ici malgré tout ce que le médecin dit qui ne va pas en vous (cet homme a fait le diagnostic de votre
-cas et sait probablement de quoi il parle dans la mesure où ses instruments et sa connaissance lui
-permettent de le connaître quand il dit qu’il ne reste que la mort), si vous avez prié et que vous ayez
-pu voir au-delà, dans le futur, un homme ou une femme en bonne santé, cela suffit. Tout est là. Vous
-entrerez en cela avec une parfaite certitude parce que vous le croyez. Dieu a parlé. Vous savez que
-c’est ainsi.
 
+45 Jésus s’était tourné vers eux et leur avait demandé: “Et vous, ne voulez-vous pas vous en aller?”.
 
-                                http://www.cmpp.ch
+46 Mais eux répondirent: “Seigneur, où irions-nous, car Toi seul as les Paroles de Vie. Tu es le seul”. Car non seulement Il AVAIT les Paroles de Vie, mais Il ETAIT la Parole de Vie. Il était la Parole de Vie et Simon reconnut cela complètement. Et quand il le reconnut, c’est cela qui lui fit garder l’espoir car il lui avait été révélé que Jésus était cette Parole vivante.
 
-TROIS SORTES DE CROYANTS 7
-57 C’est comme cette pauvre femme qui cracha son cancer dans une quinte de toux, vous voyez;
-elle n’avait dans sa pensée aucun doute que cela arriverait. Le cancer était mort, il se détacha et s’en
-alla. Vous voyez? Tout est là. Vous croyez.
-58 C’est comme avec ce père qui avait amené ce petit garçon ici il n’y a pas longtemps. Il est ici
-quelque part dans ce bâtiment. Ce petit garçon avait fait une chute et avait perdu la mémoire. Il ne
-pouvait plus se rappeler de rien. Quelques instants à peine après que j’aie prié, je lui demandai son
-nom et il me le dit, et aussi quel âge il avait. Et voilà, il est aussi normal que n’importe quel autre
-garçon, vous voyez. Ils avaient cru! Et quoi que ce soit que Dieu dise, il faut qu’il en soit ainsi. Noé
-crut Dieu et Noé fut considéré comme un croyant. Quand l’église était en captivité à Babylone, Daniel
-crut en Dieu. On eut beau dire: “Nous allons faire une proclamation. Personne ne pourra prier aucun
-autre dieu que cette image là-bas, ce saint homme ou quoi que cela puisse être”. Daniel n’accorda
-aucune attention à cela. Il avait entendu Dieu, car il était prophète et la Parole était venue à lui. Et
-quand le temple avait été dédicacé il avait été dit: “Si quelqu’un est en difficulté dans quelque pays
-que ce soit et qu’il prie en regardant vers le lieu saint, sa prière sera entendue du Ciel”. Daniel croyait
-en Dieu. Il était un croyant authentique et même les lions ne purent le dévorer. C’est vrai, vous voyez.
-Il était un croyant. Il avait quelque chose de véritable et d’authentique. Il était croyant.
-59 David, un autre croyant, était un fugitif. Daniel n’avait pas pris place dans l’église moderniste.
-Pas du tout! Ils croyaient en ce que Dieu avait dit être la vérité. Le monde moderniste pouvait dire
-ce qu’il voulait, ils croyaient que ce que Dieu disait était la vérité. C’étaient des croyants
-authentiques.
-60 Ils firent exactement comme Pierre et les apôtres, ils croyaient qu’Il avait la Parole de Vie et qu’Il
-était la Parole de Vie. Je crois la même chose aujourd’hui. Et tout ce qui s’oppose à la Parole est
-contraire à la Vie. C’est la mort. C’est cela seulement qui est la Parole de Vie, et Christ est la Parole.
-61 David, ce rouquin… D’abord il est probable qu’il était critiqué par ses frères parce qu’il était petit.
-Il n’était pas assez grand pour porter une armure. Il ne pouvait pas aller à la guerre parce qu’il était
-trop petit et malingre. Pourtant il y alla comme croyant. Tandis qu’il se tenait là-bas dans le désert,
-veillant sur les quelques douzaines de moutons que son père lui avait donné à surveiller, armé d’une
-simple fronde dans une région où l’on trouvait des lions, des ours, des loups et autres, David
-regardait les verts pâturages ombragés et savait ce que signifiait pour les brebis d’aller à l’ombre et
-de se cacher de la chaleur du soleil; il savait ce que signifiait une bonne lampée d’eau fraîche, c’est
-pourquoi il pouvait dire: “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi,
-ô mon Dieu!”. Voyez?
-62 Il avait crié, prié, et un jour il y eut une situation critique. Un lion s’empara d’une de ses brebis et
-l’enleva. David pensa: “Le Dieu qui m’a fait supérieur au lion…”. Vous voyez? Il prit sa fronde et
-frappa le lion avec la petite pierre qu’il y avait mise. Or quiconque a jamais vu un lion, un de ces lions
-d’Afrique que l’on trouve en Palestine et jusqu’en Asie, un de ces grands lions qui ont un pelage épais
-autour du cou, sait ce que représente une de ces bêtes. On arrive à peine à l’abattre avec un 300
-Magnum. Mais David l’abattit avec un caillou! Et quand le lion se releva pour lui courir après, il le
-saisit par la barbe et le tua.
-63 La raison en est qu’il savait de quoi il parlait. Il avait fait une expérience. Il avait mis Dieu à
-l’épreuve en ce qui concerne Sa Parole.
-64 Ce n’est pas parce que Goliath était un incirconcis qu’il en aurait eu peur. Goliath n’était pas du
-tout croyant. Et quand Goliath sortit et le maudit au nom de son dieu… Goliath était beaucoup plus
-grand que lui. C’était un grand et gros gaillard qui avait des doigts longs de trente-cinq centimètres.
-Vous voyez, ses doigts étaient longs comme cela, longs de trente-cinq centimètres et c’était un
-guerrier. Et la cotte de mailles qu’il portait devait bien peser trois cents livres ou plus. Il avait un grand
-casque, épais probablement de trente-cinq millimètres. C’était un grand géant qui marchait en tenant
-une ensouple de tisserand que l’on prétend longue de six mètres environ. C’était sa lance. Elle avait
-six mètres de long. Un homme comme cela pouvait prendre une douzaine d’hommes et les jeter au
-loin tout en avançant. Quel contraste! Et il restait là à se vanter et faire le fanfaron.
-65 Quand il vit quelle était la situation il dit: “Qu’il n’y ait pas de sang versé. Qu’un homme vienne
-me combattre. Si je gagne, vous viendrez simplement tous à mon service et si vous gagnez, c’est
-nous qui vous servirons”.
+47 Voilà donc ce qu’est un croyant authentique. Quand le Saint-Esprit, non pas quand vous êtes persuadé par une personne quelconque ou par quelqu’autre chose, mais quand le Saint-Esprit vous a révélé la Parole Elle-même et que vous voyez la Parole rendue claire et confirmée, alors l’Esprit de Dieu entre dans cet âge avec la Parole donnée pour cet âge et la rend manifeste.
 
-        http://www.cmpp.ch
+48 Comment quelqu’un aurait-il pu ne pas croire Luther, s’il avait su cela? Luther était un réformateur. “L’esprit-homme” parut alors pour la réformation. Avec Wesley ce fut pareil. Il fallait le croire. Vous voyez, c’était le message pour cet âge de l’église. C’était exactement ce qui s’était passé. C’est ce qui devait arriver. Il fallait le croire.
 
-TROIS SORTES DE CROYANTS 8
-66 Vous voyez, quand le diable voit que la chance est de son côté, c’est alors qu’il aime se vanter.
-Mais cette fois il trouva plus fort que lui. Il avait rencontré le plus petit homme du pays, un petit
-rouquin aux épaules tombantes.
-67 David dit: “Et vous voulez me dire que vous, l’armée du Dieu vivant, allez rester là et laisser ce
-Philistin incirconcis défier l’armée du Dieu vivant?”.
-68 Eh bien, cela le choquait! Pourquoi? Pourquoi? Parce qu’il était un croyant. Les autres
-n’étaient que des soi-disant croyants, vous voyez. Mais David était un croyant authentique.
+49 Et nous voici maintenant arrivés à l’âge de Laodicée et l’on nous a enseigné que dans l’âge de Laodicée, Christ a été mis hors de Son Eglise et qu’Il frappa à la porte, essayant d’y rentrer. C’est pourquoi, quand nous voyons ce qui arrive, nous savons dans quel âge nous vivons.
+
+50 Nous arrivons au moment où l’histoire du monde se termine. Maintenant le livre est en train d’être achevé. Un jour où l’autre, la dernière ligne sera écrite et il sera fermé. Alors il n’y aura plus de temps.
+
+51 Il y a un grand drame en train de se préparer et les anges se tiennent dans les cieux et observent. Vous savez ce qu’est un drame. Les acteurs sont prêts. Vous pouvez les voir en train de jouer.
+
+52 Vous pouvez voir le Malin jouer son rôle. Vous pouvez voir comment le vilain de la pièce entre en scène pour tromper par sa ruse. Mais vous pouvez aussi voir se préparer l’Eglise qui doit être enlevée. C’est une scène glorieuse.
+
+53 Vous pouvez voir la Présence de Dieu confirmer et faire se représenter le grand drame qui est prédit ici dans la Bible. Oh, dans quel temps nous vivons! C’est le temps le plus glorieux! Les hommes de tous les âges ont désiré ardemment vivre dans ce temps-là. Les prophètes d’autrefois ont désiré ardemment voir cette heure, mais n’en ont pas eu le privilège.
+
+54 Pierre était un croyant parce qu’il vit cela. Il le crut. “Nous sommes pleinement persuadés que Tu es le Christ, le Messie, la Parole de Dieu pour ce jour, et nous le croyons”. Vous voyez, c’était un croyant véritable.
+
+55 Prenons encore rapidement quelques croyants avant d’en arriver au personnage suivant. Prenons le prophète Noé. Peut-être qu’en ce temps-là il était paysan. Mais quand les moqueurs et les gens religieux de ce jour… L’église en était arrivée à son point le plus bas, et Dieu parla à Noé, lui disant de construire une arche. Noé ne discuta jamais cela avec Dieu. Il croyait que c’était la Parole de Dieu et se mit à l’ouvrage à toute vitesse pour préparer les choses. Voilà un vrai croyant!
+
+56 Ne discutez pas. Ce qu’il vous faut, c’est être pleinement convaincu. C’est pareil pour tout le monde et pour n’importe quel genre de foi. La foi vient par ce que l’on entend. Si vous pouvez rester ici malgré tout ce que le médecin dit qui ne va pas en vous (cet homme a fait le diagnostic de votre cas et sait probablement de quoi il parle dans la mesure où ses instruments et sa connaissance lui permettent de le connaître quand il dit qu’il ne reste que la mort), si vous avez prié et que vous ayez pu voir au-delà, dans le futur, un homme ou une femme en bonne santé, cela suffit. Tout est là. Vous entrerez en cela avec une parfaite certitude parce que vous le croyez. Dieu a parlé. Vous savez que c’est ainsi.
+
+57 C’est comme cette pauvre femme qui cracha son cancer dans une quinte de toux, vous voyez; elle n’avait dans sa pensée aucun doute que cela arriverait. Le cancer était mort, il se détacha et s’en alla. Vous voyez? Tout est là. Vous croyez.
+
+58 C’est comme avec ce père qui avait amené ce petit garçon ici il n’y a pas longtemps. Il est ici quelque part dans ce bâtiment. Ce petit garçon avait fait une chute et avait perdu la mémoire. Il ne pouvait plus se rappeler de rien. Quelques instants à peine après que j’aie prié, je lui demandai son nom et il me le dit, et aussi quel âge il avait. Et voilà, il est aussi normal que n’importe quel autre garçon, vous voyez. Ils avaient cru! Et quoi que ce soit que Dieu dise, il faut qu’il en soit ainsi. Noé crut Dieu et Noé fut considéré comme un croyant. Quand l’église était en captivité à Babylone, Daniel crut en Dieu. On eut beau dire: “Nous allons faire une proclamation. Personne ne pourra prier aucun autre dieu que cette image là-bas, ce saint homme ou quoi que cela puisse être”. Daniel n’accorda aucune attention à cela. Il avait entendu Dieu, car il était prophète et la Parole était venue à lui. Et quand le temple avait été dédicacé il avait été dit: “Si quelqu’un est en difficulté dans quelque pays que ce soit et qu’il prie en regardant vers le lieu saint, sa prière sera entendue du Ciel”. Daniel croyait en Dieu. Il était un croyant authentique et même les lions ne purent le dévorer. C’est vrai, vous voyez. Il était un croyant. Il avait quelque chose de véritable et d’authentique. Il était croyant.
+
+59 David, un autre croyant, était un fugitif. Daniel n’avait pas pris place dans l’église moderniste. Pas du tout! Ils croyaient en ce que Dieu avait dit être la vérité. Le monde moderniste pouvait dire ce qu’il voulait, ils croyaient que ce que Dieu disait était la vérité. C’étaient des croyants authentiques.
+
+60 Ils firent exactement comme Pierre et les apôtres, ils croyaient qu’Il avait la Parole de Vie et qu’Il était la Parole de Vie. Je crois la même chose aujourd’hui. Et tout ce qui s’oppose à la Parole est contraire à la Vie. C’est la mort. C’est cela seulement qui est la Parole de Vie, et Christ est la Parole.
+
+61 David, ce rouquin… D’abord il est probable qu’il était critiqué par ses frères parce qu’il était petit. Il n’était pas assez grand pour porter une armure. Il ne pouvait pas aller à la guerre parce qu’il était trop petit et malingre. Pourtant il y alla comme croyant. Tandis qu’il se tenait là-bas dans le désert, veillant sur les quelques douzaines de moutons que son père lui avait donné à surveiller, armé d’une simple fronde dans une région où l’on trouvait des lions, des ours, des loups et autres, David regardait les verts pâturages ombragés et savait ce que signifiait pour les brebis d’aller à l’ombre et de se cacher de la chaleur du soleil; il savait ce que signifiait une bonne lampée d’eau fraîche, c’est pourquoi il pouvait dire: “Comme le cerf brame après les courants d’eau, ainsi mon âme crie après toi, ô mon Dieu!”. Voyez?
+
+62 Il avait crié, prié, et un jour il y eut une situation critique. Un lion s’empara d’une de ses brebis et l’enleva. David pensa: “Le Dieu qui m’a fait supérieur au lion…”. Vous voyez? Il prit sa fronde et frappa le lion avec la petite pierre qu’il y avait mise. Or quiconque a jamais vu un lion, un de ces lions d’Afrique que l’on trouve en Palestine et jusqu’en Asie, un de ces grands lions qui ont un pelage épais autour du cou, sait ce que représente une de ces bêtes. On arrive à peine à l’abattre avec un 300 Magnum. Mais David l’abattit avec un caillou! Et quand le lion se releva pour lui courir après, il le saisit par la barbe et le tua.
+
+63 La raison en est qu’il savait de quoi il parlait. Il avait fait une expérience. Il avait mis Dieu à l’épreuve en ce qui concerne Sa Parole.
+
+64 Ce n’est pas parce que Goliath était un incirconcis qu’il en aurait eu peur. Goliath n’était pas du tout croyant. Et quand Goliath sortit et le maudit au nom de son dieu… Goliath était beaucoup plus grand que lui. C’était un grand et gros gaillard qui avait des doigts longs de trente-cinq centimètres. Vous voyez, ses doigts étaient longs comme cela, longs de trente-cinq centimètres et c’était un guerrier. Et la cotte de mailles qu’il portait devait bien peser trois cents livres ou plus. Il avait un grand casque, épais probablement de trente-cinq millimètres. C’était un grand géant qui marchait en tenant une ensouple de tisserand que l’on prétend longue de six mètres environ. C’était sa lance. Elle avait six mètres de long. Un homme comme cela pouvait prendre une douzaine d’hommes et les jeter au loin tout en avançant. Quel contraste! Et il restait là à se vanter et faire le fanfaron.
+
+65 Quand il vit quelle était la situation il dit: “Qu’il n’y ait pas de sang versé. Qu’un homme vienne me combattre. Si je gagne, vous viendrez simplement tous à mon service et si vous gagnez, c’est nous qui vous servirons”.
+
+66 Vous voyez, quand le diable voit que la chance est de son côté, c’est alors qu’il aime se vanter. Mais cette fois il trouva plus fort que lui. Il avait rencontré le plus petit homme du pays, un petit rouquin aux épaules tombantes.
+
+67 David dit: “Et vous voulez me dire que vous, l’armée du Dieu vivant, allez rester là et laisser ce Philistin incirconcis défier l’armée du Dieu vivant?”.
+
+68 Eh bien, cela le choquait! Pourquoi? Pourquoi? Parce qu’il était un croyant. Les autres n’étaient que des soi-disant croyants, vous voyez. Mais David était un croyant authentique.
+
 69 Il dit: “Si vous avez peur, c’est moi qui irai le combattre!”. Vous voyez?
-70 Quel défi pour un petit gaillard comme lui! Mais il était un croyant et fit exactement ce qu’il
-savait que Dieu voulait faire.
-71 Quand ce Philistin incirconcis le maudit au nom de son dieu, il dit en en voyant s’approcher ce
-petit bout d’adolescent: “Suis-je un chien? Je te ramasserai avec ma lance et je te suspendrai à un
-arbre où je laisserai les oiseaux manger ta chair!”. Oh, mes frères, quel horrible personnage c’était!
-72 Mais David lui répondit: “Tu viens à moi avec une épée, une lance et une armure. Tu viens à moi
-au nom des Philistins. Mais moi je viens à toi sans épée, sans lance et sans armure. Je viens à toi au
-Nom du Seigneur Dieu d’Israël”.
-73 Voilà. C’était un croyant. C’était cela, sa forteresse. C’était son bouclier. C’était sa défense.
-Amen! Cela devrait être la défense de l’Eglise. C’est la défense de chaque croyant. Quoi qu’il arrive,
-quoi que le monde dise ou quoi que ce soit d’autre, votre défense est le Seigneur Dieu d’Israël. C’est
-cela. “Le Nom de Jésus-Christ est une tour puissante, les justes s’y réfugient et y sont en sécurité”.
-C’est cela notre défense, c’est Jésus-Christ.
-74 Remarquez que quand cela se passa, nous savons ce qui est arrivé. David ne pouvait frapper le
-géant qu’à un seul petit endroit, là où il s’était découvert en relevant la visière de son casque. Le seul
-endroit qui pouvait être touché était son front. Avant même que David ait pu s’approcher du géant,
-Dieu avait préparé le point d’impact et ainsi il put abattre ce géant. Vous voyez? C’est Dieu qui l’a fait.
-Remarquons que David était un croyant.
-75 Abraham était un autre croyant qui venait de la ville chaldéenne d’Ur. Il fut appelé à croire et à
-faire quelque chose qui, physiquement, était totalement impossible. Mais il ne douta pas de la
-promesse de Dieu par incrédulité (voyez Romains 4) et resta ferme, donnant gloire à Dieu.
-76 Abraham avait soixante-quinze ans et sa femme soixante-cinq, et ils avaient vécu ensemble
-depuis leur enfance, puisque Sara était la demi-soeur d’Abraham. Ils avaient vécu ensemble depuis
-leur enfance et n’avaient pas eu du tout d’enfants. Et Dieu dit à Abraham: “Sépare-toi des incrédules”.
-Dieu cause toujours une séparation, quelle qu’elle soit. “Sépare-toi des incrédules et marche avec
-moi. J’ai fait de toi le père de beaucoup de nations. Je l’ai déjà fait!”. Et Abraham le crut. C’était un
-croyant.
-77 “Comment vas-Tu faire Seigneur?”. Voilà une question qu’il n’a jamais posée! Dieu avait dit qu’Il
-le ferait et cela réglait la chose.
-78 Après que le premier mois fut passé, il demanda à Sara, qui avait passé l’âge de la ménopause:
-“Vois-tu une différence?” — “Pas la moindre”.
-79 Mais Abraham y croyait toujours. Vingt-cinq ans plus tard il n’y avait toujours pas de différence!
-Mais Abraham croyait toujours! Voilà ce que c’est qu’un croyant. Ce n’est pas un soi-disant croyant.
-C’est un croyant. Vingt-cinq ans plus tard Abraham était encore plus ferme qu’au commencement. Il
-croyait Dieu et cela lui fut imputé à justice parce qu’il était un croyant véritable.
+
+70 Quel défi pour un petit gaillard comme lui! Mais il était un croyant et fit exactement ce qu’il savait que Dieu voulait faire.
+
+71 Quand ce Philistin incirconcis le maudit au nom de son dieu, il dit en en voyant s’approcher ce petit bout d’adolescent: “Suis-je un chien? Je te ramasserai avec ma lance et je te suspendrai à un arbre où je laisserai les oiseaux manger ta chair!”. Oh, mes frères, quel horrible personnage c’était!
+
+72 Mais David lui répondit: “Tu viens à moi avec une épée, une lance et une armure. Tu viens à moi au nom des Philistins. Mais moi je viens à toi sans épée, sans lance et sans armure. Je viens à toi au Nom du Seigneur Dieu d’Israël”.
+
+73 Voilà. C’était un croyant. C’était cela, sa forteresse. C’était son bouclier. C’était sa défense. Amen! Cela devrait être la défense de l’Eglise. C’est la défense de chaque croyant. Quoi qu’il arrive, quoi que le monde dise ou quoi que ce soit d’autre, votre défense est le Seigneur Dieu d’Israël. C’est cela. “Le Nom de Jésus-Christ est une tour puissante, les justes s’y réfugient et y sont en sécurité”. C’est cela notre défense, c’est Jésus-Christ.
+
+74 Remarquez que quand cela se passa, nous savons ce qui est arrivé. David ne pouvait frapper le géant qu’à un seul petit endroit, là où il s’était découvert en relevant la visière de son casque. Le seul endroit qui pouvait être touché était son front. Avant même que David ait pu s’approcher du géant, Dieu avait préparé le point d’impact et ainsi il put abattre ce géant. Vous voyez? C’est Dieu qui l’a fait. Remarquons que David était un croyant.
+
+75 Abraham était un autre croyant qui venait de la ville chaldéenne d’Ur. Il fut appelé à croire et à faire quelque chose qui, physiquement, était totalement impossible. Mais il ne douta pas de la promesse de Dieu par incrédulité (voyez Romains 4) et resta ferme, donnant gloire à Dieu.
+
+76 Abraham avait soixante-quinze ans et sa femme soixante-cinq, et ils avaient vécu ensemble depuis leur enfance, puisque Sara était la demi-soeur d’Abraham. Ils avaient vécu ensemble depuis leur enfance et n’avaient pas eu du tout d’enfants. Et Dieu dit à Abraham: “Sépare-toi des incrédules”. Dieu cause toujours une séparation, quelle qu’elle soit. “Sépare-toi des incrédules et marche avec moi. J’ai fait de toi le père de beaucoup de nations. Je l’ai déjà fait!”. Et Abraham le crut. C’était un croyant.
+
+77 “Comment vas-Tu faire Seigneur?”. Voilà une question qu’il n’a jamais posée! Dieu avait dit qu’Il le ferait et cela réglait la chose.
+
+78 Après que le premier mois fut passé, il demanda à Sara, qui avait passé l’âge de la ménopause: “Vois-tu une différence?” — “Pas la moindre”.
+
+79 Mais Abraham y croyait toujours. Vingt-cinq ans plus tard il n’y avait toujours pas de différence! Mais Abraham croyait toujours! Voilà ce que c’est qu’un croyant. Ce n’est pas un soi-disant croyant. C’est un croyant. Vingt-cinq ans plus tard Abraham était encore plus ferme qu’au commencement. Il croyait Dieu et cela lui fut imputé à justice parce qu’il était un croyant véritable.
+
 80 Dans un moment, je vous ferai vous sonder pour voir dans quelle catégorie vous êtes.
-81 Maintenant que fit Abraham? Il ne douta pas de la promesse de Dieu et ne considéra pas les
-impossibilités.
-82 Que se passerait-il si un homme de soixante-quinze ans et une femme de soixante-cinq ans
-allaient chez le médecin et lui disaient: «Nous voulons réserver une place à la maternité parce que
-ma femme va avoir un enfant», et que vingt-cinq ans plus tard ils reviennent encore chez le médecin
-et lui disent: «Alors, docteur, la place est-elle toujours réservée à la clinique?». Vous voyez? Cela
-vous fait agir d’une manière bizarre. Vos décisions sont bizarres pour le monde. Mais c’est un croyant
 
-        http://www.cmpp.ch
+81 Maintenant que fit Abraham? Il ne douta pas de la promesse de Dieu et ne considéra pas les impossibilités.
 
-TROIS SORTES DE CROYANTS 9
-et peu lui importe si cela semble étrange!
-83 La Bible dit qu’il était pleinement persuadé que Dieu était capable d’exécuter ce qu’Il avait dit
-qu’Il ferait. C’est ce que devrait réaliser chaque croyant cet après-midi. Dieu est capable de garder
-chaque Parole qu’Il a dit qu’Il accomplirait. Peu importe ce que disent les dénominations au sujet
-de la Parole: «Les jours des miracles sont passés. Tout cela n’est que de la télépathie et de la bonne
-aventure». Peu m’importe ce qu’ils disent! Je crois toujours que si le canon est pointé sur la cible, il la
-touchera. Et je crois que si un croyant est pointé sur la Parole de Dieu, cela touchera les
-choses mêmes que la Parole de Dieu a promises. Cela se fera de nouveau. Et je suis pleinement
-persuadé de ceci, que quand nous verrons que nous sommes dans cet âge où ces choses doivent
-être ici, elles seront ici. Ces choses doivent arriver.
-84 C’est la raison pour laquelle je crois que quand l’Epouse est appelée et élue et placée
-dans le Livre de Vie, il viendra du Ciel un son qui mettra dans cette Epouse un tel baptême du
-Saint-Esprit que cela l’enlèvera de la terre dans la grâce de l’enlèvement. Dieu l’a promis.
-85 Peu importe ce qu’a dit la science, ce qu’ont dit tous ces astronautes et tout le reste, peu importe
-à combien de millions de miles ils peuvent voir, tout cela n’a pour moi aucune importance. Il y a un
-Ciel et il y a littéralement un Jésus-Christ là-haut qui viendra dans une forme corporelle
-recevoir Son Eglise et Son Epouse. Cela a beau sembler de la vieille histoire, c’est toujours la
-vérité. Dieu l’a dit. C’est ce que croient les croyants.
-86 Dieu a dit: “Je suis le Seigneur qui guérit toutes tes maladies. Je suis Dieu et je ne change pas”.
-Amen! Et Dieu est la Parole, et si Dieu ne change pas, comment la Parole changerait-Elle? Vous
-voyez? “Je suis Dieu et je ne change pas”. C’est l’Ecriture qui le dit. Dieu l’a dit Lui-même. Et s’Il ne
-peut changer, alors Il est la Parole. “Au commencement était la Parole, et la Parole était avec Dieu et
-la Parole était Dieu (la Parole immuable)… Et la Parole a été faite chair, et elle a habité parmi
-nous…”. Amen! Certainement.
-87 Dieu a élevé des corps tout au long des âges, Moïse, Ezéchiel, Jérémie, Esaïe, Elie, pendant
-tout le temps où Sa Parole venait temporairement, mais la Pleine Parole a été manifestée en ce
-Jésus-Christ homme qui était Dieu et en qui habitait corporellement la plénitude de la Divinité.
-C’est là qu’Il fut fait chair. Je crois chaque mot de cela.
-88 Job était un autre croyant. Quelquefois les croyants sont mis à l’épreuve… pas quelque fois,
-mais chaque fois! Car chaque fils qui vient à Dieu doit être châtié, éprouvé, formé comme un enfant.
-Rappelez-vous les épreuves, les routes poussiéreuses, le soleil brûlant de la persécution, mais la
-loyauté de votre coeur pétrit ce matériau afin qu’il soit prêt à entrer dans le moule. Les enfants de
-Dieu sont édifiés correctement sur Sa Parole car ils sont des exemples vivants et la Parole de
-Dieu vit par leur intermédiaire. Vous voyez? L’épreuve vient vous secouer, vous conduire jusque
-tout au fond afin que vous voyiez quelle est votre position. Vous voyez? Chaque fils qui vient à Dieu
-est testé, éprouvé.
-89 Job passa par les épreuves et les tests. Ses enfants lui furent ôtés, ainsi que tout le reste. Les
-membres d’église vinrent l’accuser d’avoir péché en secret et essayèrent de dire tout ce qu’ils purent
-contre lui, mais il ne voulut rien écouter de tout cela. Il savait qu’il avait rempli les conditions de Dieu.
-Il savait qu’il n’y avait pas besoin que Satan essaie de le tenter. Il savait que c’était le diable. Et aussi
-longtemps que Satan put lui faire croire que sa maladie lui avait été donnée par son Dieu, il fouettait
-Job. Mais Job eut une fois la révélation que ce n’était pas Dieu, mais qu’il traversait seulement ces
-épreuves pour que quelque chose soit fait de lui. Ce n’était pas Dieu qui faisait cela, c’était Satan!
-90 C’est pareil aujourd’hui. Il essaie de vous dire que ces épreuves et autres choses, c’est Dieu qui
-essaie de mettre la punition sur vous. Ce n’est pas cela. Pas du tout! C’est Satan qui le fait, et Dieu
-le permet afin de vous tremper pour vous faire voir si vous êtes lié à la terre par les soucis de
-la terre, ou bien si votre trésor est dans le Ciel. Car vous êtes là où est votre trésor. Votre coeur
-est là où sont vos trésors.
-91 Job fut éprouvé, pourtant il dit: “Je sais que mon Rédempteur est vivant. Aux derniers jours Il se
-tiendra sur la terre. Même si les vers détruisent mon corps…”. Avez-vous remarqué cela? Les vers
-étaient déjà en lui. Vos vers sont en vous. Même si vous êtes dans un cercueil scellé sans air, les
-vers sont déjà là. Ils sont en vous, prêts à tout moment à être appelés à faire leur devoir.
+82 Que se passerait-il si un homme de soixante-quinze ans et une femme de soixante-cinq ans allaient chez le médecin et lui disaient: «Nous voulons réserver une place à la maternité parce que ma femme va avoir un enfant», et que vingt-cinq ans plus tard ils reviennent encore chez le médecin et lui disent: «Alors, docteur, la place est-elle toujours réservée à la clinique?». Vous voyez? Cela vous fait agir d’une manière bizarre. Vos décisions sont bizarres pour le monde. Mais c’est un croyant et peu lui importe si cela semble étrange!
 
-        http://www.cmpp.ch
+83 La Bible dit qu’il était pleinement persuadé que Dieu était capable d’exécuter ce qu’Il avait dit qu’Il ferait. C’est ce que devrait réaliser chaque croyant cet après-midi. Dieu est capable de garder chaque Parole qu’Il a dit qu’Il accomplirait. Peu importe ce que disent les dénominations au sujet de la Parole: «Les jours des miracles sont passés. Tout cela n’est que de la télépathie et de la bonne aventure». Peu m’importe ce qu’ils disent! Je crois toujours que si le canon est pointé sur la cible, il la touchera. Et je crois que si un croyant est pointé sur la Parole de Dieu, cela touchera les choses mêmes que la Parole de Dieu a promises. Cela se fera de nouveau. Et je suis pleinement persuadé de ceci, que quand nous verrons que nous sommes dans cet âge où ces choses doivent être ici, elles seront ici. Ces choses doivent arriver.
 
-    TROIS SORTES DE CROYANTS    10
-92 Vous vous rappelez Hérode? Il mourut rongé des vers là dans la rue. Les vers le mangèrent là
-dans la rue, ses propres vers. Ils sont là, prêts à agir.
-93 “Même après que mes vers auront détruit ce corps, dans ma chair je verrai Dieu”. Amen! Vous
-ne pouvez annihiler ce corps. Même si les vers le mangent, il reviendra. “Je Le verrai moi-même, mes
-yeux Le verront et non pas ceux d’un autre”. C’est Job qui dit cela. Pourquoi? Parce qu’il était un
-croyant. Dans les épreuves il était un croyant. Dans la persécution il était un croyant. Il était un
-croyant authentique.
-94 Joseph était un autre croyant. Il ne pouvait pas s’empêcher d’être ce qu’il était. Il était prophète.
-Dieu avait fait de lui un prophète. Il ne désirait pas être différent de ses frères, mais il était différent.
-C’est Dieu qui avait fait de lui ce qu’il était. Personne d’autre ne pouvait prendre sa place.
-95 Personne ne peut prendre votre place. Si petit que vous soyez… Vous direz: «Je ne suis qu’une
-simple ménagère!». Mais personne ne peut prendre votre place. Dieu, dans Sa glorieuse économie, a
-mis en ordre le Corps de Christ de manière que personne ne puisse prendre votre place.
-96 Comme j’aimerais prendre la place de Billy Graham (nous tous, les ministres de l’Evangile)! Mais
-nous ne pouvons pas le faire, vous voyez. Mais rappelez-vous simplement ceci. Billy ne pourrait pas
-prendre notre place, vous voyez. Nous avons tous une place. Certains d’entre nous sont
-évangélistes, certains sont prophètes, certains sont docteurs, certains pasteurs. Quoi que nous
-soyons, ménagères, mécaniciens, paysans, quoique ce soit, Dieu vous a mis à votre place, vous
-voyez?
-97 Joseph était prophète. Il n’y pouvait rien s’il était capable d’interpréter les songes. Il n’y pouvait
-rien s’il avait des visions. Observez comme il était fidèle. Cela avait beau lui coûter la communion
-avec ses frères, il était fidèle parce qu’il croyait à ces songes. Il croyait que le songe qu’il avait eu
-montrant que tous les autres (les autres gerbes) se prosterneraient devant lui se réaliserait. Parce
-qu’il y croyait. Il était un croyant authentique. Oh, j’ai cinq minutes pour dix pages de notes!
-98 Remarquez ceci maintenant. Remarquez un passage de l’Ecriture que j’ai noté ici. Nathanaël
-était un croyant, n’est-ce pas? Nathanaël vit ce qui arriva et cela eut de l’effet sur lui quand Jésus lui
-dit qui il était, disant qu’il était vraiment un Israélite en qui il n’y avait pas de fraude, et lui disant aussi
-où il était le jour précédent quand il priait sous un arbre. Il l’avait vu quand Philippe l’appela. C’était un
-croyant.
-99 Il y en avaient beaucoup là-bas qui disaient: “C’est l’esprit du démon. C’est le démon qui opère la
-guérison divine”. Ce vieux démon-là n’est pas encore mort aujourd’hui! Il y en a toujours qui croient
-que ce sont les démons qui opèrent la guérison divine.
-100 Jésus dit: “Si Satan chasse Satan, son royaume est divisé, et un tel royaume ne peut subsister”.
-Vous voyez? Satan ne peut pas faire cela. C’est pourquoi Satan ne peut chasser Satan.
-101 Donc Nathanaël était un croyant. Et quand il vit la Parole faite chair confirmer qu’il était un
-croyant, il dit: “Rabbi, Tu es le Christ. Tu es le Roi d’Israël”. Il le croyait.
+84 C’est la raison pour laquelle je crois que quand l’Epouse est appelée et élue et placée dans le Livre de Vie, il viendra du Ciel un son qui mettra dans cette Epouse un tel baptême du Saint-Esprit que cela l’enlèvera de la terre dans la grâce de l’enlèvement. Dieu l’a promis.
+
+85 Peu importe ce qu’a dit la science, ce qu’ont dit tous ces astronautes et tout le reste, peu importe à combien de millions de miles ils peuvent voir, tout cela n’a pour moi aucune importance. Il y a un Ciel et il y a littéralement un Jésus-Christ là-haut qui viendra dans une forme corporelle recevoir Son Eglise et Son Epouse. Cela a beau sembler de la vieille histoire, c’est toujours la vérité. Dieu l’a dit. C’est ce que croient les croyants.
+
+86 Dieu a dit: “Je suis le Seigneur qui guérit toutes tes maladies. Je suis Dieu et je ne change pas”. Amen! Et Dieu est la Parole, et si Dieu ne change pas, comment la Parole changerait-Elle? Vous voyez? “Je suis Dieu et je ne change pas”. C’est l’Ecriture qui le dit. Dieu l’a dit Lui-même. Et s’Il ne peut changer, alors Il est la Parole. “Au commencement était la Parole, et la Parole était avec Dieu et la Parole était Dieu (la Parole immuable)… Et la Parole a été faite chair, et elle a habité parmi nous…”. Amen! Certainement.
+
+87 Dieu a élevé des corps tout au long des âges, Moïse, Ezéchiel, Jérémie, Esaïe, Elie, pendant tout le temps où Sa Parole venait temporairement, mais la Pleine Parole a été manifestée en ce Jésus-Christ homme qui était Dieu et en qui habitait corporellement la plénitude de la Divinité. C’est là qu’Il fut fait chair. Je crois chaque mot de cela.
+
+88 Job était un autre croyant. Quelquefois les croyants sont mis à l’épreuve… pas quelque fois, mais chaque fois! Car chaque fils qui vient à Dieu doit être châtié, éprouvé, formé comme un enfant. Rappelez-vous les épreuves, les routes poussiéreuses, le soleil brûlant de la persécution, mais la loyauté de votre coeur pétrit ce matériau afin qu’il soit prêt à entrer dans le moule. Les enfants de Dieu sont édifiés correctement sur Sa Parole car ils sont des exemples vivants et la Parole de Dieu vit par leur intermédiaire. Vous voyez? L’épreuve vient vous secouer, vous conduire jusque tout au fond afin que vous voyiez quelle est votre position. Vous voyez? Chaque fils qui vient à Dieu est testé, éprouvé.
+
+89 Job passa par les épreuves et les tests. Ses enfants lui furent ôtés, ainsi que tout le reste. Les membres d’église vinrent l’accuser d’avoir péché en secret et essayèrent de dire tout ce qu’ils purent contre lui, mais il ne voulut rien écouter de tout cela. Il savait qu’il avait rempli les conditions de Dieu. Il savait qu’il n’y avait pas besoin que Satan essaie de le tenter. Il savait que c’était le diable. Et aussi longtemps que Satan put lui faire croire que sa maladie lui avait été donnée par son Dieu, il fouettait Job. Mais Job eut une fois la révélation que ce n’était pas Dieu, mais qu’il traversait seulement ces épreuves pour que quelque chose soit fait de lui. Ce n’était pas Dieu qui faisait cela, c’était Satan!
+
+90 C’est pareil aujourd’hui. Il essaie de vous dire que ces épreuves et autres choses, c’est Dieu qui essaie de mettre la punition sur vous. Ce n’est pas cela. Pas du tout! C’est Satan qui le fait, et Dieu le permet afin de vous tremper pour vous faire voir si vous êtes lié à la terre par les soucis de la terre, ou bien si votre trésor est dans le Ciel. Car vous êtes là où est votre trésor. Votre coeur est là où sont vos trésors.
+
+91 Job fut éprouvé, pourtant il dit: “Je sais que mon Rédempteur est vivant. Aux derniers jours Il se tiendra sur la terre. Même si les vers détruisent mon corps…”. Avez-vous remarqué cela? Les vers étaient déjà en lui. Vos vers sont en vous. Même si vous êtes dans un cercueil scellé sans air, les vers sont déjà là. Ils sont en vous, prêts à tout moment à être appelés à faire leur devoir.
+
+92 Vous vous rappelez Hérode? Il mourut rongé des vers là dans la rue. Les vers le mangèrent là dans la rue, ses propres vers. Ils sont là, prêts à agir.
+
+93 “Même après que mes vers auront détruit ce corps, dans ma chair je verrai Dieu”. Amen! Vous ne pouvez annihiler ce corps. Même si les vers le mangent, il reviendra. “Je Le verrai moi-même, mes yeux Le verront et non pas ceux d’un autre”. C’est Job qui dit cela. Pourquoi? Parce qu’il était un croyant. Dans les épreuves il était un croyant. Dans la persécution il était un croyant. Il était un croyant authentique.
+
+94 Joseph était un autre croyant. Il ne pouvait pas s’empêcher d’être ce qu’il était. Il était prophète. Dieu avait fait de lui un prophète. Il ne désirait pas être différent de ses frères, mais il était différent. C’est Dieu qui avait fait de lui ce qu’il était. Personne d’autre ne pouvait prendre sa place.
+
+95 Personne ne peut prendre votre place. Si petit que vous soyez… Vous direz: «Je ne suis qu’une simple ménagère!». Mais personne ne peut prendre votre place. Dieu, dans Sa glorieuse économie, a mis en ordre le Corps de Christ de manière que personne ne puisse prendre votre place.
+
+96 Comme j’aimerais prendre la place de Billy Graham (nous tous, les ministres de l’Evangile)! Mais nous ne pouvons pas le faire, vous voyez. Mais rappelez-vous simplement ceci. Billy ne pourrait pas prendre notre place, vous voyez. Nous avons tous une place. Certains d’entre nous sont évangélistes, certains sont prophètes, certains sont docteurs, certains pasteurs. Quoi que nous soyons, ménagères, mécaniciens, paysans, quoique ce soit, Dieu vous a mis à votre place, vous voyez?
+
+97 Joseph était prophète. Il n’y pouvait rien s’il était capable d’interpréter les songes. Il n’y pouvait rien s’il avait des visions. Observez comme il était fidèle. Cela avait beau lui coûter la communion avec ses frères, il était fidèle parce qu’il croyait à ces songes. Il croyait que le songe qu’il avait eu montrant que tous les autres (les autres gerbes) se prosterneraient devant lui se réaliserait. Parce qu’il y croyait. Il était un croyant authentique. Oh, j’ai cinq minutes pour dix pages de notes!
+
+98 Remarquez ceci maintenant. Remarquez un passage de l’Ecriture que j’ai noté ici. Nathanaël était un croyant, n’est-ce pas? Nathanaël vit ce qui arriva et cela eut de l’effet sur lui quand Jésus lui dit qui il était, disant qu’il était vraiment un Israélite en qui il n’y avait pas de fraude, et lui disant aussi où il était le jour précédent quand il priait sous un arbre. Il l’avait vu quand Philippe l’appela. C’était un croyant.
+
+99 Il y en avaient beaucoup là-bas qui disaient: “C’est l’esprit du démon. C’est le démon qui opère la guérison divine”. Ce vieux démon-là n’est pas encore mort aujourd’hui! Il y en a toujours qui croient que ce sont les démons qui opèrent la guérison divine.
+
+100 Jésus dit: “Si Satan chasse Satan, son royaume est divisé, et un tel royaume ne peut subsister”. Vous voyez? Satan ne peut pas faire cela. C’est pourquoi Satan ne peut chasser Satan.
+
+101 Donc Nathanaël était un croyant. Et quand il vit la Parole faite chair confirmer qu’il était un croyant, il dit: “Rabbi, Tu es le Christ. Tu es le Roi d’Israël”. Il le croyait.
+
 102 Quand la femme au puits Le vit, elle crut cela. Elle était une croyante.
-103 C’était pareil avec l’aveugle Bartimée… Mais tout le monde criait et s’excitait. Quelques-uns
-disaient: “J’ai entendu dire que tu ressuscites les morts. Il y en a un cimetière tout plein par ici. Viens
-les ressusciter! Montre-nous comment tu le fais!”. Et vous voyez, c’est le même démon qui disait: “Si
-tu es le Fils de Dieu, commande à ces pierres d’être changées en pain”. C’est le même démon qui mit
-un linge sur Son visage et qui Le frappait à la tête quand les soldats se moquant de Lui se passaient
-le bâton en disant: “Si tu nous dis qui t’a frappé, nous te croirons!”. Vous voyez, ces soldats se
-moquaient de Lui. Il avait vraiment l’air d’être le perdant de l’affaire, mais rappelez-vous simplement
-que Dieu est toujours en scène. Vous voyez? Il était à l’endroit même, prêt en tout temps.
-104 Jésus avait dit: “Il me suffirait de parler à mon Père qui m’enverrait immédiatement douze légions
-d’anges”. Oh, et que ferait un seul de ces anges? Et vous voyez, Il aurait pu envoyer douze légions
-sur un simple ordre. Mais Jésus avait un travail à faire. Il avait quelque chose à faire et il fallait qu’Il
-passe par là.
-105 Vous avez quelque chose à faire. Dieu a quelque chose à faire pour vous. Peut-être que vous
-aurez quelques brisements de coeur et quelques ennuis. Peut-être que vous aurez quelques
-déceptions, mais est-ce que nous prions pour qu’elles nous soient évitées? Non Seigneur! Mais
 
-        http://www.cmpp.ch
+103 C’était pareil avec l’aveugle Bartimée… Mais tout le monde criait et s’excitait. Quelques-uns disaient: “J’ai entendu dire que tu ressuscites les morts. Il y en a un cimetière tout plein par ici. Viens les ressusciter! Montre-nous comment tu le fais!”. Et vous voyez, c’est le même démon qui disait: “Si tu es le Fils de Dieu, commande à ces pierres d’être changées en pain”. C’est le même démon qui mit un linge sur Son visage et qui Le frappait à la tête quand les soldats se moquant de Lui se passaient le bâton en disant: “Si tu nous dis qui t’a frappé, nous te croirons!”. Vous voyez, ces soldats se moquaient de Lui. Il avait vraiment l’air d’être le perdant de l’affaire, mais rappelez-vous simplement que Dieu est toujours en scène. Vous voyez? Il était à l’endroit même, prêt en tout temps.
 
-    TROIS SORTES DE CROYANTS    11
+104 Jésus avait dit: “Il me suffirait de parler à mon Père qui m’enverrait immédiatement douze légions d’anges”. Oh, et que ferait un seul de ces anges? Et vous voyez, Il aurait pu envoyer douze légions sur un simple ordre. Mais Jésus avait un travail à faire. Il avait quelque chose à faire et il fallait qu’Il passe par là.
+
+105 Vous avez quelque chose à faire. Dieu a quelque chose à faire pour vous. Peut-être que vous aurez quelques brisements de coeur et quelques ennuis. Peut-être que vous aurez quelques déceptions, mais est-ce que nous prions pour qu’elles nous soient évitées? Non Seigneur! Mais
+
+TROIS SORTES DE CROYANTS    11
 prends-moi pour passer par ces choses quelles qu’elles soient. Quelles qu’elles soient, ne me laisse
 pas m’en échapper. Si elles ont été préparées pour moi, fais-moi la grâce d’y passer. C’est tout.
 106 Remarquez maintenant l’aveugle Bartimée. Il savait que l’on avait dit: “C’est ce prophète de
@@ -1034,12 +794,10 @@ avec les autres. «Oui, frère! Alléluia! Oui! Gloire à Dieu!». Mais tout au 
 voyez ce qu’ils essaient de faire de vous: ils essaient de vous avoir dans leur église.
 Pourquoi? Afin d’attirer une foule qu’ils puissent saigner en retirant tout l’argent qu’ils
 pourront d’elle. Pensez-vous que je ne sache pas cela? Peut-être pensent-ils que je ne le sais
-pas mais je le sais. Jésus savait dès le commencement qui était le trompeur. Vous voyez? Mais
-que fit-Il? Il attendit jusqu’à ce que l’heure soit venue. C’est ce que nous devons toujours faire;
+pas mais je le sais. Jésus savait dès le commencement qui était le trompeur. Vous voyez? Mais que
+fit-Il? Il attendit jusqu’à ce que l’heure soit venue. C’est ce que nous devons toujours faire;
 attendre l’heure. Ne faites rien vous-mêmes. Attendez jusqu’à cette minute même.
 198 “Ayant la forme…”. Ils continueront à marcher. C’est ce groupe de séducteurs. Observez ces
-
-        http://www.cmpp.ch
 
 TROIS SORTES DE CROYANTS 20
 séducteurs! Ce groupe-là, ce ne sont pas les croyants, ce ne sont pas les incrédules mais les
@@ -1182,7 +940,7 @@ vous voyez, éprouvez toutes choses par la Parole. C’est Jésus qui a dit de l
 218 Regardez maintenant dans le miroir de la Parole de Dieu dans les autres âges et voyez auquel
 de ces trois groupes vous seriez identifié. Pensez à ceci: Si vous viviez du temps de Noé, si vous
 viviez du temps de Moïse, si vous viviez du temps de Jésus ou à une autre époque quelle qu’elle soit,
-réfléchissez à quel groupe vous seriez identifié. Pensez-y ce soir.
+rfléchissez à quel groupe vous seriez identifié. Pensez-y ce soir.
 219 Réfléchissez à cela maintenant même. C’est quelque chose de profond. Ne passez pas
 là-dessus à la légère! Votre état présent maintenant même vous prouve dans quel groupe
 vous avez été jusque là. Vous êtes votre propre juge. Votre état prouve ce que vous êtes.
@@ -1302,7 +1060,7 @@ demeurent en vous, demandez ce que vous voudrez et cela vous sera accordé”. V
 237 “Celui qui reçoit mes paroles et croit en Celui qui m’a envoyé est déjà passé de la mort à la Vie”.
 Mais premièrement pouvez-vous recevoir la Parole? Pouvez-vous recevoir la Parole? Toute la
 Parole? Tout Christ? Christ est la Parole ointe. Il est la Parole ointe. Christ signifie Celui qui est
-oint, la Parole ointe pour ce jour et manifestée, le Sauveur, le Rédempteur. C’est alors qu’Il dut
+o int, la Parole ointe pour ce jour et manifestée, le Sauveur, le Rédempteur. C’est alors qu’Il dut
 venir, et Il était la Personne ointe pour prendre cette place.
 238 Maintenant, c’est le Saint-Esprit qui, dans les derniers jours, doit faire briller la Lumière du soir,
 ramenant la foi qui avait été piétinée dans les dénominations, condamnant les dénominations et
@@ -1428,9 +1186,6 @@ conduira, je Le suivrai. Où Il me conduira, je Le suivrai».
         Car où Il me conduira, je Le suivrai (Pensez à cela, et vraiment sérieusement maintenant).
         Où Il me conduira, je Le suivrai,
         Où Il me conduira, je Le suivrai.
-
-
-
 
 
 

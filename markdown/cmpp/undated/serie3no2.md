@@ -1,1071 +1,247 @@
-    SERIE 3 N° 2
+---
+source: "cmpp"
+sermon_id: "serie3no2"
+title: "LE SIGNAL ROUGE DE SA VENUE"
+subtitle: "23 juin 1963, soir"
+date: "1963-06-23"
+year: 1963
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham compare les signes des derniers jours à l'époque de Noé, soulignant la multiplication des hommes, la beauté des femmes, l'immoralité sexuelle et l'adultère comme signes de la proximité du retour du Christ. Il raconte aussi une résurrection miraculeuse lors de la réunion du matin."
+tags:
+  - "signe de la venue"
+  - "temps de Noé"
+  - "adultère"
+  - "beauté des femmes"
+  - "résurrection"
+  - "derniers jours"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Noé"
+  - "Paul"
+  - "David"
+  - "frère Way"
+  - "frère Neville"
+  - "Billy Branham"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Arkansas"
+  - "Connecticut"
+  - "Shawano"
+  - "Mexico"
+  - "Reno"
+themes:
+  - "signes de la fin des temps"
+  - "comparaison avec Noé"
+  - "immoralité sexuelle"
+  - "adoration des femmes"
+  - "dégénérescence physique"
+  - "résurrection des morts"
+  - "fidélité à la Parole"
+pdf_url: "http://cmpp.ch/serie3no2.pdf"
+llm_cleaned: true
+bible_refs:
+  - "2 Timothée 4"
+  - "Actes 19"
+  - "Esther 191"
+  - "Esther 91"
+  - "Galates 1"
+  - "Genèse 6"
+  - "Jean 14"
+  - "Luc 17"
+  - "Malachie 110"
+  - "Malachie 118"
+  - "Matthieu 22"
+  - "Matthieu 24"
+  - "Matthieu 5"
+  - "Nombres 197"
+  - "Nombres 4"
+  - "Ésaïe 3"
+  - "Ésaïe 5"
+---
+SERIE 3 N° 2
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-    LE SIGNAL ROUGE
-    DE SA VENUE
-    (The flashing red light of the sign of His Coming)
-
-
-
-
-       23 juin 1963, soir
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    LE SIGNAL ROUGE DE SA VENUE    2
-
-
-           LE SIGNAL ROUGE DE SA VENUE
+LE SIGNAL ROUGE
+DE SA VENUE
 (The flashing red light of the sign of His Coming)
 
 
-
-                23 juin 1963, soir
-                Branham Tabernacle
-         Jeffersonville — Indiana, U.S.A.
-
+23 juin 1963, soir
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+LE SIGNAL ROUGE DE SA VENUE
 
-1 Restons un instant debout et inclinons nos têtes pour la prière. Notre Père céleste, nous Te
-louons pour tout ce que nos yeux ont vu et nos oreilles entendu. Et nous Te remercions, Seigneur,
-parce qu’aujourd’hui nous savons que Tu es le même grand Dieu Jéhovah que Tu as toujours été
-et que Tu seras toujours.
-2 Nous Te remercions pour Jésus-Christ qui a rendu possible notre rentrée dans Ta divine
-communion par Son Sang innocent qui a été répandu. Par la propitiation de ce Sang nous
-sommes aujourd’hui des fils et des filles de Dieu. Ce que nous serons à la fin n’apparaît pas
-encore maintenant, mais nous savons que nous serons semblables à Lui, car nous Le verrons tel
-qu’Il est. Oh Père, cela nous suffit tout à fait d’être semblables à Lui et d’apparaître dans la forme
-de Son image.
-3 Père, nous ne voulons pas nous conformer aux choses de ce monde en cette heure-ci, mais
-nous voulons être transformés par le renouvellement de notre esprit par le Saint-Esprit, afin qu’il
-puisse S’occuper personnellement de nos vies, nous conduire et nous guider pendant les jours qui
-nous restent sur cette terre et que nous puissions ainsi magnifier Son glorieux Nombres 4 Nous Te remercions pour toutes ces choses. Nous nous réjouissons de Ta visite ici ce soir
-tandis que nous sommes rassemblés dans cette salle, et nous croyons que Tu viendras à notre
-rencontre comme Tu l’as promis. Au Nom de Jésus-Christ! Amen. Veuillez vous asseoir.
-5 Je crois que c’est David qui a dit: “Je suis dans la joie quand on me dit: Allons à la maison de
-l’Eternel!”. Nous sommes très reconnaissants d’être ici ce soir et nous considérons comme un
-privilège d’avoir cette glorieuse possibilité de pouvoir vous parler.
-6 Je suis en train d’enregistrer quelques bandes. C’est pourquoi je regarde derrière moi vers la
-pièce où se trouvent les enregistreurs pour voir si les frères sont en train d’enregistrer. Oui, ils
-enregistrent. Bien! La raison de tout cela est que j’ai promis que les messages que nous
-enverrions seraient enregistrés ici au Tabernacle.
-7 Je voudrais maintenant dire quelque chose à propos de ce qui s’est passé ce matin. Juste
-après-midi, alors que nous nous apprêtions à terminer la réunion de ce matin, il s’est passé
-quelque chose. Peut-être que quelques-uns d’entre vous n’étaient pas ici à ce moment-là et ne le
-savent pas. J’étais ici en chaire en train de clore la réunion, et je regardai un frère qui était en train
-de serrer la main à des gens. C’était frère Way. Sa femme est une infirmière diplômée qualifiée.
-8 Frère Way est un serviteur de Dieu qui a aussi un travail dans le monde. Mais il y a des
-années qu’il a sur son coeur un appel pour les champs de mission. Il s’est senti conduit par Dieu à
-venir ici et à attendre à ce poste jusqu’à ce qu’il ait reçu des ordres pour aller dans les champs de
-mission. Il y a quelques jours, j’ai eu l’occasion de parler avec lui et avec sa femme.
-9 Ce matin, en confessant que j’avais un complexe, j’ai parlé du frère Way qui en avait aussi un.
-C’est certainement le cas pour tout le monde. Un moment après, le frère Way fut frappé d’une
-crise cardiaque et tomba mort par terre. Je vis sa femme à ce moment-là. J’ai approché beaucoup
-de mourants…
-10 J’aime vanter Jésus-Christ et Sa puissance. Par contre, je crois qu’on ne devrait jamais Le
+LE SIGNAL ROUGE DE SA VENUE
+(The flashing red light of the sign of His Coming)
 
-        http://www.cmpp.ch
+23 juin 1963, soir
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
-LE SIGNAL ROUGE DE SA VENUE 3
-vanter pour quelque chose qu’Il n’a pas fait. Mais de nombreuses fois j’ai vu Jésus-Christ
-ressusciter les morts avec preuves médicales à l’appui.
-     Par exemple, j’ai tenu dans le Connecticut une réunion dans une grande salle bien connue. Il
-y avait présent avec moi sur la plate-forme un docteur Barten, un médecin chrétien. Il y avait aussi
-là une chrétienne connue. C’était une femme riche et de belle figure. Elle était assise à peu près à
-ma gauche. J’avais commencé la ligne de prière quand je remarquai cette femme, tout à coup…
-11 Lorsque quelqu’un meurt paisiblement, on peut lui fermer les yeux; mais si vous mourez à la
-suite d’un choc nerveux, au moment où votre coeur s’arrête, vos yeux se retournent et le blanc
-apparaît. C’est ce que je remarquai lorsqu’elle s’affaissa. On appela le docteur Barten qui
-accourut, lui prit le pouls et secoua la tête. Il posa sa main sur elle et appuya son oreille sur son
-coeur: elle était morte. Elle glissa sur le sol. Sa fille se mit à crier, ce qui interrompit la réunion.
-Moi, je continuai, n’ayant reçu aucune parole du Seigneur au sujet de cette femme. Je continuai.
-12 Quelqu’un parla d’appeler le frère Branham. On dit: «Nous ne voulons pas l’appeler dans la
-ligne de prière car il est en train d’exercer le discernement. Appelons le petit Branham». C’était
-Billy. Mais comme il s’agissait d’une personne morte, il ne voulait pas.
-13 Vous savez, les gens se méfient des morts. Pourtant ce n’est rien de plus qu’une enveloppe!
-Il n’y a là rien de particulier. La personne n’est plus là personnellement: elle est partie ailleurs.
-Mais voilà qu’il avait peur de s’approcher de cette femme parce qu’elle était morte.
-14 Mais aussitôt le Saint-Esprit me parla. Je quittai ma place, descendis de la plate-forme et me
-dirigeai vers elle. J’étais à peine parti que le Saint-Esprit me parla. Alors je dis: «Mary!».
-15 Elle me répondit: «Oui, frère Branham!». Elle était bien! Elle ne nous avait jamais vus
-auparavant et c’était la première réunion où elle était venue.
-16 A Shawano, il y a quatre ou cinq ans, je parlais à l’arsenal. Il y avait beaucoup de monde.
-C’était une assemblée Luthérienne, cette célèbre assemblée Luthérienne de là-bas… J’ai oublié
-son nom. C’est la plus grande assemblée Luthérienne d’Amérique. L’Amérique est un bon pays
-pour les Luthériens! Il y avait là un vieillard d’environ quatre-vingts ans avec sa brave femme.
-Pendant que je parlais, je remarquai que la tête de cet homme se mit à basculer en arrière comme
-ceci; puis ses mains se relâchèrent et lui-même s’affaissa en basculant en avant: il était là sur sa
-chaise, mort! Sa femme se mit à crier: «Venez m’aider! Venez m’aider!».
-17 Je regardai et dis: «Restez assis! Gardez le silence!». Vous voyez? J’attendais que le
-Seigneur me donne une Parole. Je me préparais à faire l’appel à l’autel, et c’est juste à ce
-moment-là que Satan choisit pour se montrer.
-18 Avez-vous remarqué ce qui se passe lorsque vous commencez à faire un appel à l’autel? Les
-bébés commencent à crier et il y a toutes sortes de choses comme cela. C’est Satan! Vous qui
-êtes spirituels, vous comprenez.
-19 Le Seigneur me donna le nom de cet homme. Je l’appelai et il revint à la vie sans autre!
-20 J’ai vu de nombreuses fois le Seigneur Jésus ressusciter les morts. Le petit bébé de Mexico
-était mort à neuf heures du matin et ressuscita le soir vers dix ou onze heures. J’ai une attestation
-du médecin certifiant que le bébé était mort ce matin-là dans son bureau à neuf heures. Je crois
-que c’était d’une pneumonie. Et, pour autant que je sache, il est toujours vivant aujourd’hui. Et cela
-se passa devant trente ou quarante mille personnes!
-21 Ce matin, j’avais remarqué notre frère Way qui était parmi nous. Il était debout tandis que
-nous chantions «Gloire! Gloire! Alléluia!» et que nous nous serrions la main. Je l’ai vu avoir son
-attaque quand sa tête bascula en arrière. Frère Way n’est pas le genre d’homme à avoir des
-malaises ou des évanouissements. Je le vis tomber en arrière: je vis sa femme, une infirmière
-diplômée, prendre son pouls. Elle se mit à crier car son pouls s’était arrêté.
-22 Soeur Nash, une soeur de couleur qui vient chez nous, et quelques autres accoururent.
-Madame Way me faisait des signes pour que je vienne vers son mari. Mais je dis: «Restez tous
-tranquillement à vos places!». Ne vous excitez jamais dans ce genre de situation! C’est ce que
-Satan cherche. Attendez simplement pour savoir ce que le Seigneur va dire. Si c’est quelqu’un qui
-est en chemin pour entrer dans la gloire, ce qui doit nous arriver à tous une fois ou l’autre, il n’y a
-pas de meilleur endroit que l’église pour cela! Vous voyez, entrer directement dans la maison du
-Seigneur…
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 4
-     Mais ce frère devait revenir. Je pensais qu’il s’était peut-être évanoui ou quelque chose de
-semblable, mais je vis sa tête basculer et ses yeux exorbités dont on ne voyait plus que le blanc.
-On ne peut pas faire cela exprès avec ses yeux! Cela se passe lorsque le coeur s’arrête. Je
-traversai la plate-forme. Une personne charitable avait mis quelque chose sous sa tête. Mais ses
-pieds, ses mains et tout était déjà raide. Son visage était d’un noir rougeâtre aussi foncé que ma
-veste, et ses yeux étaient révulsés. Je connais les symptômes d’une crise cardiaque. Je sais
-comment cela se passe. Lorsqu’on l’a vu une fois, on ne peut plus l’oublier. Je lui pris le pouls; il
-n’y en avait pas plus qu’à ce pupitre. Sa femme, infirmière diplômée, le lui avait aussi pris: il était
-nul.
-23 L’autre jour j’avais eu frère Way dans une ligne de discernement et j’avais vu qu’il avait un
-souffle au coeur. C’est pourquoi je me dis: «C’est une crise cardiaque». Alors je posai mes mains
-sur lui en disant: «Oh mon Dieu! au Nom de Jésus-Christ je rappelle à la vie l’âme de mon frère!».
-Et devant le Dieu Jéhovah et devant cette Bible, j’affirme que lorsque je pris son pouls (et je sais
-que j’aurai à répondre de cela au jour du jugement si je mens), j’entendis son pouls battre
-rapidement cinq ou six fois comme cela: boum, boum, boum, boum, boum… puis normalement:
-boum–boum–boum–boum!…
-24 Il essaya d’ouvrir la bouche et produisit une espèce de gargouillement. Finalement, il dit:
-«Frère Branham!». Puis il eut l’air de vouloir se rendormir. J’attendis un moment et contrôlai son
-pouls: il battait normalement. Je le regardai: il dirigea son regard vers moi. Il avait l’air un peu
-assommé. Il ne savait plus où il était. Mais son coeur battait normalement: Dieu l’avait rappelé à la
-vie.
-25 Je dis maintenant ceci pour honorer Jésus-Christ qui est le même Dieu que toujours. Ce
-matin en prêchant, j’ai parlé un peu longuement de mon travail, disant que j’étais fatigué et usé. Il
-peut y avoir deux choses. Ou bien le frère était fatigué, ou bien c’est lorsque j’ai parlé des
-complexes. Je ne l’ai pas fait pour troubler mon frère, mais pour confesser que j’avais moi-même
-un complexe. D’ailleurs, je pense que si je vous demandais ce soir: «Qui sait qu’il a un
-complexe?», pratiquement chacun lèverait la main. Frère Way, afin que vous le sachiez, je vais
-vous montrer que ce n’était pas du discernement. Tous ceux qui savent qu’ils ont un complexe,
-levez la main! Regardez! Vous comprenez? Je ne sais pas si ce que je lui ai dit lui a causé un
-choc, ayant pris cela comme une réprimande, mais il a eu une attaque et le Seigneur l’a rétabli.
-26 C’est le même Dieu que celui que Paul représentait de son temps lorsqu’il prêcha tard un soir.
-Un homme tomba de la fenêtre et perdit la vie. Mais Paul, se penchant sur lui, dit à son auditoire,
-par la grâce de Dieu: “Sa vie est en lui”. Je pense que cela prouve à tous ceux qui ne l’auraient
-pas encore compris que Jésus-Christ est le même hier, aujourd’hui et éternellement.
-27 Cet après-midi, j’ai réfléchi à ce que je vous ai dit ce matin du plus profond de mon coeur:
-c’est l’exacte vérité. Je vous ai parlé de ce complexe, vous faisant une entière confession et vous
-demandant de prier afin que mon être intérieur soit changé à l’égard des gens en sorte que je
-puisse faire les mêmes oeuvres que le Seigneur. Et afin de confirmer qu’Il voulait encore
-m’envoyer dans les champs de mission, Il permit cet incident pour montrer qu’Il guérissait toujours
-les malades et ressuscitait les morts. Je crois que ce n’était rien de plus qu’une confirmation de ce
-que j’avais prêché sur le Royaume de Dieu et de ce dont j’en avais été témoin. Cela était dans la
-ligne de ce que Dieu avait dit à frère Roberson et à un autre des frères.
-28 Combien nous L’aimons pour cela! Et nous sommes reconnaissants ce soir de la présence
-parmi nous de frère Way. Dieu n’a sûrement pas terminé Son oeuvre avec notre frère, sinon il
-serait parti ce matin. Frère Way a encore quelque chose à faire. Et je voudrais bien que vous
-sachiez, frère Way, que toute cette église et moi-même prierons pour que Dieu vous dévoile Son
-plan en ce qui vous concerne ainsi qu’en ce qui concerne votre femme. Et aussitôt qu’il sera
-matérialisé, Il vous y placera. Je suis sûr qu’Il le fera, frère Way! Nous tous qui sommes chrétiens,
-nous serons reconnaissants pour frère Way. N’est-ce pas, frères et soeurs? Et je prierai que lui et
-soeur Way trouvent leur place dans le Seigneur pour le service qu’ils ont à faire dans cette vie.
-29 Ce soir, je voulais parler à frère Way, c’est pourquoi je suis venu plus tôt. Je voulais savoir ce
-qu’il pensait ou ce qu’il avait ressenti. Il ne s’était rendu compte de rien. Vous voyez? Sa vie s’en
-était simplement allée; il était tombé et s’en était allé: c’est tout.
-     Frère Way voudrait savoir si quelqu’un ici va en Arkansas, mardi ou un autre jour, à cette
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 5
-rencontre. Ce ne sera peut-être qu’une très petite rencontre de frères. Je pense qu’elle se tiendra
-dans un endroit très retiré et qu’il n’y aura probablement pas beaucoup de monde parce que, pour
-tout dire, ils ne savent même pas que je viendrai. Mes amis là-bas ne le sauront pas avant un ou
-deux jours. Ceux de l’Arkansas qui savent que j’irai là-bas y seront. Mais si l’un de ceux qui iront
-là-bas avait de la place pour prendre frère Way, celui-ci en serait très heureux. Il m’a dit de vous
-préciser que là-bas il ne serait pas un fardeau car il pourrait s’arranger. Mais si quelqu’un pouvait
-le prendre, ce serait pour lui un signe du Seigneur montrant que c’est Sa volonté qu’il y aille.
-Maintenant vous connaissez tous le frère Way qui est assis ici dans ce coin. Si quelqu’un va à
-cette rencontre et qu’il ait de la place pour un passager supplémentaire, il sera heureux d’y aller.
-30 Lorsque frère Neville aura fini l’école du dimanche, j’aimerais enregistrer une nouvelle bande,
-si c’est possible. Sauf erreur, je pense que je parlerai sur ce sujet: Votre vie est-elle digne de
-l’Evangile? J’en ferai une bande si le Seigneur le permet.
-31 Ce matin, j’avais annoncé que je ferais un enregistrement ce soir. Je ne crois pas que notre
-pasteur ait seulement prêché: il m’a appelé tout de suite sur la plate-forme. Pendant que nous
-enregistrerons, si vous êtes fatigués ou autre, et que vous désiriez sortir un instant, faites-le aussi
-doucement que possible, car les micros sont extrêmement sensibles et captent le moindre bruit. Et
-nous essayons d’utiliser ces bandes pour un ministère international.
-32 Aujourd’hui, après avoir lu la Parole de Dieu, j’ai pris mon sujet dans l’Evangile de Matthieu au
-chapitre 24. Nous lirons depuis le verset 32.
-       “Instruisez-vous par une comparaison tirée du figuier. Dès que ses branches
-     deviennent tendres et que les feuilles poussent, vous connaissez que l’été est proche. De
-     même, quand vous verrez toutes ces choses, sachez que le Fils de l’homme est proche,
-     à la porte. Je vous le dis en vérité, cette génération ne passera point que tout cela
-     n’arrive. Le ciel et la terre passeront, mais mes Paroles ne passeront point. Pour ce qui
-     est du jour et de l’heure, personne ne le sait, ni les anges dans les cieux, ni le Fils, mais
-     le Père seul. Ce qui arriva du temps de Noé arrivera de même à l’avènement du Fils de
-     l’homme”.
-33 En lisant le début de ce chapitre, nous savons que les disciples vinrent à Jésus en particulier,
-tandis qu’ils étaient sur la montagne, pour lui demander: “Quel sera le signe de la fin du monde?
-Quel sera le signe de Ton avènement? A quel moment sera-ce lorsqu’il ne restera plus pierre sur
-pierre du temple?”. C’est à cela qu’Il répondit. Mais lisons le début du chapitre.
-       “Et Jésus sortit et s’en alla du temple; et ses disciples s’approchèrent pour lui montrer
-     les bâtiments du temple. Et lui, répondant, leur dit: Ne voyez-vous pas toutes ces
-     choses? En vérité je vous le dis: Il ne sera point laissé ici pierre sur pierre qui ne soit
-     jetée à bas. Et comme il était assis sur la montagne des Oliviers, les disciples vinrent à
-     lui en particulier, disant: Dis-nous quand ces choses auront lieu, et quel sera le signe de
-     ta venue et de la consommation du siècle?”.
-34 Vous voyez, ils Lui avaient posé trois questions, et Il répondit à leurs trois questions. “Quand
-ne restera-t-il plus pierre sur pierre? Quel sera le signe de Ton avènement? Quel sera le signe de
-la fin du monde?”. Je crois que beaucoup de frères parmi nous font l’erreur de rapporter le tout à
-Son avènement. Mais Il répond à trois questions distinctes qui Lui ont été posées. Quand viendra
-le temps où il ne restera plus pierre sur pierre, quand cela se passera-t-il? Quel sera le signe de
-Son avènement? Que se passera-t-il à la fin du monde? Vous voyez, ce sont trois questions
-différentes. Il commence par répondre à la question concernant le temple dont il ne restera plus
-pierre sur pierre. Après avoir fini de répondre à cette question, Il parle du signe de Sa venue, puis
-enfin de la fin du monde.
-35 Je voudrais parler ce soir sur l’un de ces trois sujets: La lumière rouge du signe de Sa venue.
-Nous nous attarderons spécialement sur l’époque de Noé. “Ce qui arriva du temps de Noé arrivera
-de même à l’avènement du Fils de l’homme”. L’autre jour, cela m’a frappé. Je pensai que peut-être
-je pourrais essayer de parler sur ce sujet. J’ai noté plusieurs passages des Ecritures que je
-voudrais lire et auxquels je voudrais me référer.
-36 Lorsque les disciples de Jésus Lui posèrent cette question, Il leur indiqua le signe de Son
-avènement. Immédiatement après, Il dit ceci: “Le ciel et la terre passeront, mais Ma Parole ne
-passera pas?”. Il dit ailleurs: “Instruisez-vous par une comparaison tirée du figuier. Dès que ses
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 6
-branches deviennent tendres et que ses feuilles poussent, vous connaissez que l’été est proche.
-De même, quand vous verrez toutes ces choses arriver ou être manifestées, sachez que le temps
-est proche. Cette génération ne sera pas éliminée que tout cela n’arrive”. Quelle génération? La
-génération qui voit l’apostasie dont nous allons parler ce soir.
-37 Ce titre: La lumière rouge du signe de Sa venue me fait penser à ce qui se passe lorsqu’on
-attend un train à la gare, lorsque les gens sont debout et attendent, comme cela nous est arrivé à
-tous quand nous attendons le train. Vous ne pouvez le voir ni l’entendre, mais vous savez que
-c’est l’heure. Le chef de gare annoncera peut-être: «Il est un peu en retard; il n’arrivera pas à
-l’heure exacte. Nous ne savons pas exactement quand il viendra, mais il va bientôt arriver». En
-attendant, vous vous promenez dans la gare les mains dans les poches, vous vous asseyez sur
-votre valise, vous allez acheter un cornet de cacahuètes, ou vous allez causer avec quelqu’un de
-l’autre côté de la rue. Mais voici que soudain quelque chose se passe. Il y a un bruit dans les rails,
-un sémaphore descend et une lampe rouge se met à clignoter. Qu’est-ce que cela signifie? Le
-train est dans la section d’entrée de la gare. Bien que vous ne puissiez pas le voir ni l’entendre, il y
-a cette lampe qui clignote et ce sémaphore baissé qui vous montrent qu’il arrive. Si vous voulez
-prendre ce train, vous ferez bien de jeter vos cacahuètes, d’interrompre votre conversation, d’aller
-chercher vos valises, bref, de vous préparer, sinon vous resterez sur place car ce train ne fait
-qu’arriver et repartir et ne s’arrête que quelques instants. Après, il est parti! Si vous restez à
-bavarder avec le voisin de l’autre côté de la rue, vous serez laissé en arrière.
-38 Comme cela est encore bien plus vrai quand nous voyons le signal rouge indiquant qu’Il est
-près de la gare et que ce vieux train de l’Evangile est tout près de passer! Ce soir, nous allons
-étudier ce signal rouge. Le Seigneur S’assit sur la montagne des Oliviers et Se mit à leur parler. Il
-leur dit: “Ce qui arriva du temps de Noé arrivera de même à l’avènement du Fils de l’homme”.
-39 Maintenant nous allons remonter un instant dans le passé pour voir si nous pouvons trouver
-quelque chose aujourd’hui qui ressemble à ce qui se passait du temps de Noé. Alors nous
-pourrons savoir si nous sommes dans ces temps dont parle notre Seigneur et si notre époque
-ressemble à celle de Noé. Pour cela, je pense qu’il serait bon de revenir dans le livre de la Genèse
-aux jours de Noé. Lisons dans le chapitre 6 de la Genèse. C’est là que l’on trouve la description du
-déluge et de l’état moral de ce temps. Lisons et comparons ces temps-là avec ceux d’aujourd’hui.
-       “Et il arriva, quand les hommes commencèrent à se multiplier sur la face de la terre…”.
-40 Dès les premiers mots, cette lampe rouge se met à clignoter pour nous montrer que ces jours
-sont proches. Jamais dans l’histoire il n’y eut autant d’hommes qu’aujourd’hui, et ils se multiplient
-à un rythme tel qu’il devient difficile de trouver encore de la place. Le Reader’s Digest nous
-informe que la population mondiale s’accroît tellement que dans vingt ans, si cela continue, il n’y
-aura plus assez de nourriture pour tout le monde. Ce sont les savants qui nous le disent.
-41 Quand nous regardons autour de nous, nous pouvons voir des villes là où il y avait autrefois
-le désert, et pourtant jamais la limitation des naissances n’a été autant à la mode qu’aujourd’hui.
-J’espère que je ne me trompe pas dans les chiffres, mais il paraît qu’à Chicago il y a trente mille
-avortements enregistrés tous les deux mois. Et si nous ajoutons à ceux-là tous ceux qui ne sont
-pas déclarés… Vous voyez? Et tout cela dans une seule grande ville de quatre millions
-d’habitants! Qu’est-ce que cela doit faire dans le monde entier! Et malgré cela, la population est
-tellement dense qu’il n’y a plus moyen de s’en occuper.
-42 En Inde on essaie de stériliser les hommes afin de limiter les naissances parce que la
-population augmente trop. Actuellement il y a quatre cent soixante-dix millions d’habitants en Inde.
-43 Qu’en est-il de la Chine où l’accroissement est encore plus grand, de la Russie et de
-beaucoup d’autres pays encore? Lorsque les hommes eurent commencé à se multiplier sur la
-surface de la terre… Vous voyez? Nous revenons au temps d’avant le déluge!
-       “… et que des filles leur furent nées, que les fils de Dieu virent les filles des hommes,
-     qu’elles étaient belles, et ils se prirent des femmes d’entre toutes celles qu’ils choisirent.
-     Et l’Eternel dit: Mon Esprit ne contestera pas à toujours avec l’homme, puisque lui n’est
-     que chair; et ses jours seront de cent vingt ans. Les géants étaient sur la terre en ces
-     jours-là, et aussi après que les fils de Dieu furent venus vers les filles des hommes et
-     qu’elles leur eurent donné des enfants: ceux-ci furent les vaillants hommes de jadis, des
-     hommes de renom”.
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 7
-44 Quel sujet nous avons là! Une des premières choses que je voudrais vous faire remarquer,
-c’est que les fils de Dieu remarquèrent les filles des hommes et virent qu’elles étaient belles. Si
-nous considérons le monde dans son ensemble, je crois qu’il n’y a jamais eu sur la terre, à part
-aujourd’hui, une époque où la beauté a été aussi répandue parmi les femmes.
-45 Et vous, les gens âgés, vous pouvez vous rappeler combien il était rare autrefois de trouver
-une jolie femme. Aujourd’hui on n’en trouve que des jolies! Cela vient de ce qu’elles se coupent les
-cheveux, se maquillent et portent toutes sortes de vêtements “sexy” afin de pouvoir se montrer
-ainsi. L’aiguille de l’horloge du temps a fait le tour du cadran conformément à l’Ecriture, et les
-femmes deviennent de plus en plus jolies.
-46 Quand je vois aujourd’hui les petits enfants, les petites filles, cela me rappelle le temps où
-j’étais moi-même un petit garçon et que j’allais à l’école. Je me rappelle comment étaient les
-femmes quand j’étais jeune homme et que je regarde les jeunes filles d’aujourd’hui. Je me rappelle
-(il n’y a pas plus de vingt-cinq ans de cela) qu’il y avait une seule fille “populaire” dans notre
-groupe. C’était une jolie fille et presque tous les garçons auraient voulu sortir avec elle parce
-qu’elle était la reine du groupe. Dans toute une ville il n’y avait peut-être pas plus de deux ou trois
-femmes de ce genre. Aujourd’hui elles sont toutes jolies. Cela aussi est pour accomplir l’Ecriture.
-C’est aussi une lampe rouge qui clignote pour nous annoncer que le temps est proche.
-47 On a inventé des choses comme le rouge à lèvres et les différentes formes de maquillage afin
-qu’une femme qui n’est pas particulièrement jolie puisse s’embellir en arrangeant son visage, ses
-lèvres, en faisant tout ce qu’elles font pour se faire jolies.
-48 L’usine Max Factor travaille jour et nuit, et les femmes américaines dépensent plus par année
-en cosmétique qu’en achat de nourriture. C’est vrai! J’ai oublié le nombre exact de milliards de
-dollars qui sont dépensés chaque année pour embellir nos femmes.
-49 Ce n’est pas que je veuille dire quelque chose contre cela. Je vous montre simplement qu’il y
-a une lampe rouge qui clignote pour nous avertir que le temps est proche. Car Jésus Lui-même a
-dit: “Ce qui arriva du temps de Noé arrivera de même à l’avènement du Fils de l’homme”. Vous
-voyez, c’est pareil.
-50 Remarquez que lorsque les hommes commencèrent à se multiplier et qu’ils furent devenus
-nombreux, les filles des hommes furent belles. Et les fils de Dieu les regardèrent et en prirent pour
-femmes. Je ne dis pas cela de moi-même, c’est la Bible qui le dit. Jésus nous dit de remonter
-jusqu’à la Genèse et de faire la comparaison: multiplication des hommes, beauté des femmes.
-51 C’est un très grand signe. Au troisième verset de Genèse six, Jéhovah nous donne un
-avertissement: “Alors l’ETERNEL dit…”.
-52 Immédiatement après que cela eut lieu… Rappelez-vous que c’est le Saint-Esprit qui a écrit la
-Bible et que Jésus était revêtu de la plénitude du Saint-Esprit. Il ne parlait que par le Saint-Esprit.
-Et les Ecritures sont écrites par le Saint-Esprit. Et Celui-là même qui a écrit Genèse 6 nous a parlé
-dans Matthieu 24 afin que nous connaissions que le temps est proche et que nous faisions la
-comparaison avec Genèse 6.
-53 Les hommes se multiplient sur la terre malgré la limitation des naissances qui n’arrive pas à
-enrayer cela. Cela continue de toute manière parce que nous sommes au temps de la fin.
-54 Et tout de suite après, il est dit que les femmes étaient très belles. Cela aussi se vérifie et peut
-se prouver.
-55 Il n’y a pas longtemps, je regardai quelques photographies anciennes où l’on voyait nos
-ancêtres traversant la prairie. Je ne me rappelle pas le nom de cette femme, mais elle était connue
-de San Francisco jusqu’à Boston comme la plus belle femme de tout le pays. Je crois qu’elle
-s’appelait Pearl White. Elle avait été assassinée par son amoureux, Scott Jackson. Aujourd’hui, si
-j’en crois cette photo, on ne regarderait même pas une telle femme. Elle aurait l’air suranné, et
-pratiquement toutes les femmes que vous rencontreriez dans la rue aujourd’hui seraient trois fois
-plus belles qu’elle. Vous voyez, la beauté des femmes croît de plus en plus.
-56 Je ne sais pas si nos femmes réalisent cela. C’est pour cela que j’aimerais que cette bande
-aille partout. Nous aimons voir notre femme jolie, mais que cela soit naturel! Nous n’aimons pas le
-superficiel. Certaines de ces jolies femmes, si vous les plongiez dans un baquet à lessive, que
-vous les laviez bien et que vous les vêtiez comme elles devraient être vêtues, elles auraient un
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 8
-autre aspect! Mais elles ne le font pas et l’on peut voir la différence. Nous allons aussi étudier cela.
-C’est aussi un signal rouge!
-57 Rappelez-vous que lorsque les hommes commencèrent à se multiplier sur la terre et que les
-femmes devinrent belles, c’est alors que le Seigneur dit: “Mon Esprit ne contestera pas à toujours
-avec l’homme. Je fixerai ses jours”. Lisons le verset 4:
-       “Les géants étaient sur la terre en ces jours-là, et aussi après que les fils de Dieu
-     furent venus vers les filles des hommes et qu’elles leur eurent donné des enfants: ceux-ci
-     furent les vaillants hommes de jadis, des hommes de renom”.
-58 Avez-vous remarqué que dans tout ce passage il n’est jamais fait mention de mariage? Les
-fils de Dieu vinrent vers les filles des hommes: il n’est pas question de mariage. Cet après-midi j’ai
-cherché dans le texte grec le mot femmes du verset deux. Dans le texte grec il n’est pas parlé
-d’épouses, mais de femmes. Vous pouvez contrôler dans l’Emphatic Diaglott. Vous verrez si ce
-n’est pas vrai!
-59 Ils se prirent des femmes, et non pas des épouses. Ils les prirent comme cela. C’était l’amour
-libre, exactement comme aujourd’hui. En d’autres termes, ils étaient des amants en ce temps-là
-comme c’est le cas aujourd’hui. Ils agirent selon leurs désirs et prirent toutes les femmes qu’ils
-purent.
-60 En parlant de ces choses-là, beaucoup de gens disent que ces hommes et ces femmes
-étaient des anges déchus. Mais pour bien montrer que c’est totalement faux, il suffit de montrer
-que la Bible ne dit nulle part que les anges sont des hommes ou des femmes. De plus, il n’est
-jamais parlé nulle part dans la Bible d’une femme qui serait un ange, jamais. Si vous voulez des
-passages bibliques là-dessus, il y a Matthieu 22.20, etc.: vous trouverez facilement.
-61 Une femme-ange, cela n’existe pas. C’est la raison pour laquelle une femme prédicateur…
-l’ange est un messager. Mais vous voyez, les temps ont changé aujourd’hui comme ils avaient
-changé à cette époque. J’ai noté quelques points d’histoire sur lesquels je voudrais que nous nous
-arrêtions un moment.
-62 Du temps de Noé, les femmes devaient être le principal sujet de conversation. Les fils de Dieu
-(les fils de Seth) avaient remarqué les filles de Caïn. Quand les fils de Dieu virent que les filles des
-hommes étaient belles, ils en prirent pour eux. C’est alors que les fils de Dieu perdirent leur
-position en Dieu et devinrent des coureurs de femmes. N’est-ce pas exactement ce qui se passe
-aujourd’hui? C’est vrai!
-63 Regardez les églises d’aujourd’hui, regardez partout où vous voulez: remarquez-le. J’ai
-l’impression qu’en ce temps-là il y avait des jolies femmes partout. Les hommes en devinrent
-esclaves. L’histoire nous dit que les hommes devinrent réellement esclaves des femmes à cause
-de leur beauté. Ils en devinrent les esclaves. Ils leur firent des sanctuaires et les adorèrent
-littéralement. Pensez qu’ils adorèrent littéralement la chair et le sang de la femme en ce temps-là.
-C’est historique.
-64 Comparez cela avec ce qui se passe aujourd’hui. Mes frères, c’est pareil! Les hommes
-adorent réellement les femmes. Dans notre pays, Mrs. Kennedy est deux fois plus considérée que
-le président lui-même. C’est vrai! Et un facteur important de réussite pour un homme est d’avoir
-une femme séduisante.
-65 Parlons maintenant de la femme au volant. On entend dire partout que la femme conduit
-moins dangereusement que l’homme. C’est faux, et je vais vous dire pourquoi. Pour en avoir le
-coeur net, Billy et moi, en traversant les Etats-Unis, nous avons fait un petit tableau où nous avons
-inscrit deux colonnes: hommes et femmes. Chaque fois qu’une femme faisait une faute de
-conduite, nous mettions une coche dans sa colonne. Quand c’était un homme, nous mettions une
-coche dans la colonne des hommes. Vous serez surpris du résultat: sur trois cents infractions
-mineures, il y avait deux cent quatre-vingts femmes et vingt hommes. Savez-vous pourquoi? Parce
-qu’on ne les convoque pas au bureau de police. La police n’arrêtera pas une jolie fille, pas plus
-d’une sur mille. Le policier lui demande son numéro de téléphone au lieu de l’arrêter! Il n’est pas
-étonnant que de telles statistiques n’en fassent pas mention! Tout cela vient de ce qu’aujourd’hui
-l’homme est redevenu comme il était au temps de Noé: il se prosterne devant l’image d’une jolie
-femme. C’est vrai!
-66 Cette adoration devait être quelque chose de terrible en ce temps-là avec ces femmes qui se
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 9
-faisaient remarquer par leurs manières séduisantes! Et si elles le faisaient encore mieux
-qu’aujourd’hui, je suis heureux de n’avoir pas vécu en ce temps-là! Pensez qu’en ce temps-là les
-femmes agissaient comme aujourd’hui.
-67 Remarquez que la Bible dit qu’ils mangeaient et buvaient. Tout cela est légitime. Bien sûr! Le
-mariage est honorable. Un homme qui épouse une femme, c’est quelque chose d’honorable, cela
-a été institué par Dieu. Mais si cet homme prend la femme d’un autre, qu’il prend une jeune femme
-ou une femme quelle qu’elle soit, quelle que soit la situation de cette femme, il rompt ses voeux de
-mariage et fait quelque chose de faux. C’est un péché aux yeux de Dieu. La Bible parle très
-sévèrement contre cela.
-68 Remarquez que le mariage, Dieu l’a institué dans le jardin d’Eden, mais il est bien certain qu’Il
-a condamné l’adultère. Mais en ces temps-là, les hommes et les femmes outrepassèrent les lois
-de Dieu et prirent sur eux de faire quand même ces choses-là. Faites la comparaison avec ce qui
-se passe aujourd’hui! Regardez ce qui se passe! Si vous voulez voir que le train est sur le point
-d’entrer dans la gare, regardez très attentivement ce qui se passe aujourd’hui, comme nous le dit
-la Parole infaillible de Jésus-Christ.
-69 Remarquez encore ceci. La Bible dit (c’est évident) qu’ils mangèrent et burent avec leurs
-jolies femmes. On comprend bien qu’il n’y a rien à redire à cela. Manger et boire sont des lois
-naturelles de la vie. Nous devons le faire. Mais lorsque vous ne pensez plus qu’à cela…
-Aujourd’hui, les gens sont devenus des gloutons et des ivrognes. Les femmes s’enivrent dans les
-restaurants. Quand on sert des boissons alcoolisées et des cocktails, les femmes boivent encore
-plus que les hommes.
-70 Jésus dit: “Car dans les jours qui précédèrent le déluge, les hommes mangeaient et buvaient,
-et donnaient en mariage”. En d’autres termes, ils vivaient avec ces femmes en dehors du mariage.
-Et aujourd’hui il y a des institutions… A Reno, vous pouvez vous marier, divorcer et vous remarier
-le même jour. Mais cela est déjà dépassé… Dans les grandes villes, les soi-disant maris et
-femmes ont plusieurs clefs. Je voyage beaucoup et je sais que c’est vrai. Dans ces ménages, le
-mari a ses rendez-vous et la femme les siens. Il y a un tel mélange et une telle pourriture que cela
-n’a produit qu’une génération de rien, molle, paresseuse, bonne à rien et se dirigeant tout droit
-vers l’enfer.
-71 Regardez ce que le corps de l’homme est devenu en quelques générations. Regardez-le par
-les choses qu’il a faites. La science essaie constamment de fabriquer de meilleure nourriture. On
-fait du maïs hybride, des tomates hybrides, du boeuf hybride alors que tout cela ne vaut rien du
-tout. Cela tue les gens, mais ils ne s’en rendent pas compte. Dans quelques années l’homme ne
-sera pas plus consistant qu’une méduse.
-72 Il y a cinquante ans, on jouait aux jeux de ballon autant que maintenant, mais on n’entendait
-jamais parler de blessés. Aujourd’hui, il y a une douzaine de morts ou deux par an. Lorsqu’un
-ballon frappe un joueur, il n’y a rien en lui pour retenir sa vie. Il est si mou qu’à peine frappé, il
-tombe mort.
-73 Lorsque Bob Fitzsimmons se battait avec Corbett, je crois qu’ils firent cent vingt-cinq rounds
-d’un après-midi, et à poings nus! Ces hommes avaient une telle énergie qu’ils pouvaient soutenir
-de longs combats en se battant à mains nues. Ils dormaient les mains plongées dans du vinaigre
-pour les durcir. Un round ne durait pas deux ou trois petites minutes comme aujourd’hui et on ne
-mettait pas de rembourrage dans leurs gants de boxe. Et pourtant, personne ne mourait! Pour eux,
-vous n’aviez pas terminé un round si vous n’aviez pas jeté votre adversaire à terre. Et ils ont
-combattu jusqu’à cent vingt-cinq de ces rounds! C’étaient des hommes! Aujourd’hui, il va falloir
-arrêter la boxe parce que, malgré leurs gants et leurs avant-bras rembourrés, ils ne peuvent plus
-combattre plus de deux ou trois rounds sans qu’il y ait des morts. Pourquoi cela? Les hommes ne
-sont plus que des ramollis, des hybrides, des rien du tout, et toute cette génération est moribonde.
-74 La Bible ne dit-Elle pas que les hommes deviendraient plus faibles et plus savants? Nous
-allons vers des temps où les gens prendront leurs repas sous forme de pilules! L’humanité n’est
-plus faite que d’une bande de fumeurs, de buveurs, de coureurs de cocktails et de drogués. La
-délinquance commence à l’école chez les adolescents. Ce n’est pas étonnant quand on voit
-comment leurs mères se conduisent dans la rue; elles précipitent leurs enfants dans les mêmes
-choses.
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 10
-75 Il y a de plus en plus de jolies femmes. La vie sociale est détruite. Mais quels jours glorieux
-nous vivons au milieu de tout cela! Comment vont-ils faire pour échapper? Mais ils n’échapperont
-pas! Que font-ils de nos jours? Comme autrefois! Ils bafouent les commandements de Dieu. Dieu
-avait dit: “Tu ne commettras point d’adultère!”. Et ils montrent qu’ils peuvent commettre adultère et
-continuer à vivre ainsi. Ils pensent qu’ils pourront continuer, mais ils ne le pourront pas! Peut-être
-que vous feriez mieux de ne pas venir m’écouter. Pourtant, Dieu a dit que c’est en ce temps-ci que
-la lampe rouge se mettrait à clignoter. C’est Jésus qui l’a dit.
-76 Ils commettent le péché et se moquent du péché. Combien de fois ne voit-on pas aujourd’hui
-le monde appeler vertueux ce que la Bible déclare immoral! Les mères ôtent les vêtements de
-leurs petites filles, leur mettent des shorts et autres et sortent ainsi dans la rue avec elles en
-pensant qu’il est vertueux pour leur enfant de montrer ainsi sa chair féminine, alors qu’au contraire
-la Bible dit que c’est un péché. C’est horrible! Mais le monde dit que c’est vertueux! Vous voyez, ils
-font mentir les commandements de Dieu. Et l’église ne dit rien! Il est grand temps que quelqu’un
-se lève au nom de la justice au Nom de Jésus-Christ et mette un frein à tout cela parce qu’au jour
-du jugement, nous devrons rendre compte de ces choses.
-77 S’il y en a qui trouvent cela vieux jeu, qu’ils regardent quelques années en arrière et
-comparent avec ce qui se passe aujourd’hui; ensuite, qu’ils imaginent le futur! Il n’y a pas d’autre
-futur que la venue du Seigneur.
-78 Comparez ce que firent les femmes d’avant le déluge avec ce que font celles d’aujourd’hui!
-Regardez quelle était leur position. Regardez ce que firent les fils de Dieu autrefois. Regardez ce
-qu’ils font aujourd’hui.
-79 Assistant à une convention il n’y a pas longtemps, j’ai vu quelque chose qui m’a brisé le
-coeur. Un prédicateur était en train de parler et tout le monde avait l’air d’apprécier ce qu’il disait.
-Moi, j’étais assis un peu plus loin dans un coin. A un certain moment une jeune femme entra,
-vêtue d’une manière vraiment indécente. Elle traversa toute la salle, minaudant et marchant à
-petits pas, exactement comme cela est décrit dans la Bible. Chaque prédicateur sur la plate-forme
-et l’assemblée tout entière se mirent à tourner la tête et à suivre cette fille des yeux. Je pensai
-alors à ce passage de l’Ecriture où les fils de Dieu regardèrent les filles des hommes, des
-pécheresses, des femmes impies, mais des jolies femmes! Combien d’églises n’ont-elles pas été
-détruites à cause de cela! C’est ce qui fit se retirer l’Esprit de Dieu. Remarquez-le! C’est lorsque
-les fils de Dieu regardèrent les filles des hommes.
-80 Rappelez-vous que c’est Jésus-Christ, l’Infaillible, qui a déclaré qu’il en serait ainsi
-aujourd’hui. Et Il a dit que quand nous verrions ces choses arriver, nous saurions que le temps est
-proche, à la porte. Il n’y a pas beaucoup de gens qui diront cela! Il y a beaucoup de prédicateurs
-qui ne pourraient dire cela. Ils le pourraient s’ils le voulaient. Mais s’ils le faisaient, leur église les
-chasserait. C’est l’exacte vérité.
-81 Mais attention à ceci: si un homme a été appelé par Dieu, il s’en tiendra à la Bible quoi qu’il
-doive faire. Vous devez vous rappeler que c’est la vérité. Et la vérité lie ou délie. C’est exactement
-ce que Jésus-Christ a dit.
-82 Les fils de Dieu tombèrent à cause de la beauté des formes et du visage des filles des
-hommes. Et c’est exactement ce qui se passe aujourd’hui. C’est pareil.
-83 Faites la comparaison entre ce qui se passait autrefois et ce qui se passe aujourd’hui: les
-hommes se multiplient, les femmes deviennent belles, les fils de Dieu tombent, on se marie et on
-donne en mariage, on divorce, on vit dans l’adultère, etc.
-84 Vous direz: «Oh, frère Branham, je me demande si vraiment…». Frères, avant de dire
-quelque chose, écoutez ceci. Jésus-Christ a dit que quiconque regarde une femme pour la
-convoiter a déjà commis adultère avec elle dans son coeur. Lorsqu’un homme sort de son bureau,
-de l’église, de sa maison, et descend dans la rue, que voit-il, sinon une exposition de chair et de
-sang féminins, des femmes au joli visage et portant des vêtements qui mettent leurs formes en
-évidence. Ils sont tentés! C’est ce que Dieu a dit qui arriverait. Quand cela arriverait, le temps
-serait proche, à la porte. C’est ce qui arriva du temps de Noé lorsque les fils de Dieu virent les
-filles des hommes et commencèrent à en prendre pour eux. Vous voyez? Voilà où nous en
-sommes.
-85 Soyez bien attentifs à ces choses, car il se passe exactement la même chose aujourd’hui.
-
-        http://www.cmpp.ch
+1 Restons un instant debout et inclinons nos têtes pour la prière. Notre Père céleste, nous Te louons pour tout ce que nos yeux ont vu et nos oreilles entendu. Et nous Te remercions, Seigneur, parce qu'aujourd'hui nous savons que Tu es le même grand Dieu Jéhovah que Tu as toujours été et que Tu seras toujours.
+2 Nous Te remercions pour Jésus-Christ qui a rendu possible notre rentrée dans Ta divine communion par Son Sang innocent qui a été répandu. Par la propitiation de ce Sang nous sommes aujourd'hui des fils et des filles de Dieu. Ce que nous serons à la fin n'apparaît pas encore maintenant, mais nous savons que nous serons semblables à Lui, car nous Le verrons tel qu'Il est. Oh Père, cela nous suffit tout à fait d'être semblables à Lui et d'apparaître dans la forme de Son image.
+3 Père, nous ne voulons pas nous conformer aux choses de ce monde en cette heure-ci, mais nous voulons être transformés par le renouvellement de notre esprit par le Saint-Esprit, afin qu'il puisse S'occuper personnellement de nos vies, nous conduire et nous guider pendant les jours qui nous restent sur cette terre et que nous puissions ainsi magnifier Son glorieux Nombres 4 Nous Te remercions pour toutes ces choses. Nous nous réjouissons de Ta visite ici ce soir tandis que nous sommes rassemblés dans cette salle, et nous croyons que Tu viendras à notre rencontre comme Tu l'as promis. Au Nom de Jésus-Christ! Amen. Veuillez vous asseoir.
+5 Je crois que c'est David qui a dit: "Je suis dans la joie quand on me dit: Allons à la maison de l'Eternel!". Nous sommes très reconnaissants d'être ici ce soir et nous considérons comme un privilège d'avoir cette glorieuse possibilité de pouvoir vous parler.
+6 Je suis en train d'enregistrer quelques bandes. C'est pourquoi je regarde derrière moi vers la pièce où se trouvent les enregistreurs pour voir si les frères sont en train d'enregistrer. Oui, ils enregistrent. Bien! La raison de tout cela est que j'ai promis que les messages que nous enverrions seraient enregistrés ici au Tabernacle.
+7 Je voudrais maintenant dire quelque chose à propos de ce qui s'est passé ce matin. Juste après-midi, alors que nous nous apprêtions à terminer la réunion de ce matin, il s'est passé quelque chose. Peut-être que quelques-uns d'entre vous n'étaient pas ici à ce moment-là et ne le savent pas. J'étais ici en chaire en train de clore la réunion, et je regardai un frère qui était en train de serrer la main à des gens. C'était frère Way. Sa femme est une infirmière diplômée qualifiée.
+8 Frère Way est un serviteur de Dieu qui a aussi un travail dans le monde. Mais il y a des années qu'il a sur son coeur un appel pour les champs de mission. Il s'est senti conduit par Dieu à venir ici et à attendre à ce poste jusqu'à ce qu'il ait reçu des ordres pour aller dans les champs de mission. Il y a quelques jours, j'ai eu l'occasion de parler avec lui et avec sa femme.
+9 Ce matin, en confessant que j'avais un complexe, j'ai parlé du frère Way qui en avait aussi un. C'est certainement le cas pour tout le monde. Un moment après, le frère Way fut frappé d'une crise cardiaque et tomba mort par terre. Je vis sa femme à ce moment-là. J'ai approché beaucoup de mourants…
+10 J'aime vanter Jésus-Christ et Sa puissance. Par contre, je crois qu'on ne devrait jamais Le vanter pour quelque chose qu'Il n'a pas fait. Mais de nombreuses fois j'ai vu Jésus-Christ ressusciter les morts avec preuves médicales à l'appui.
+    Par exemple, j'ai tenu dans le Connecticut une réunion dans une grande salle bien connue. Il y avait présent avec moi sur la plate-forme un docteur Barten, un médecin chrétien. Il y avait aussi là une chrétienne connue. C'était une femme riche et de belle figure. Elle était assise à peu près à ma gauche. J'avais commencé la ligne de prière quand je remarquai cette femme, tout à coup…
+11 Lorsque quelqu'un meurt paisiblement, on peut lui fermer les yeux; mais si vous mourez à la suite d'un choc nerveux, au moment où votre coeur s'arrête, vos yeux se retournent et le blanc apparaît. C'est ce que je remarquai lorsqu'elle s'affaissa. On appela le docteur Barten qui accourut, lui prit le pouls et secoua la tête. Il posa sa main sur elle et appuya son oreille sur son coeur: elle était morte. Elle glissa sur le sol. Sa fille se mit à crier, ce qui interrompit la réunion. Moi, je continuai, n'ayant reçu aucune parole du Seigneur au sujet de cette femme. Je continuai.
+12 Quelqu'un parla d'appeler le frère Branham. On dit: «Nous ne voulons pas l'appeler dans la ligne de prière car il est en train d'exercer le discernement. Appelons le petit Branham». C'était Billy. Mais comme il s'agissait d'une personne morte, il ne voulait pas.
+13 Vous savez, les gens se méfient des morts. Pourtant ce n'est rien de plus qu'une enveloppe! Il n'y a là rien de particulier. La personne n'est plus là personnellement: elle est partie ailleurs. Mais voilà qu'il avait peur de s'approcher de cette femme parce qu'elle était morte.
+14 Mais aussitôt le Saint-Esprit me parla. Je quittai ma place, descendis de la plate-forme et me dirigeai vers elle. J'étais à peine parti que le Saint-Esprit me parla. Alors je dis: «Mary!».
+15 Elle me répondit: «Oui, frère Branham!». Elle était bien! Elle ne nous avait jamais vus auparavant et c'était la première réunion où elle était venue.
+16 A Shawano, il y a quatre ou cinq ans, je parlais à l'arsenal. Il y avait beaucoup de monde. C'était une assemblée Luthérienne, cette célèbre assemblée Luthérienne de là-bas… J'ai oublié son nom. C'est la plus grande assemblée Luthérienne d'Amérique. L'Amérique est un bon pays pour les Luthériens! Il y avait là un vieillard d'environ quatre-vingts ans avec sa brave femme. Pendant que je parlais, je remarquai que la tête de cet homme se mit à basculer en arrière comme ceci; puis ses mains se relâchèrent et lui-même s'affaissa en basculant en avant: il était là sur sa chaise, mort! Sa femme se mit à crier: «Venez m'aider! Venez m'aider!».
+17 Je regardai et dis: «Restez assis! Gardez le silence!». Vous voyez? J'attendais que le Seigneur me donne une Parole. Je me préparais à faire l'appel à l'autel, et c'est juste à ce moment-là que Satan choisit pour se montrer.
+18 Avez-vous remarqué ce qui se passe lorsque vous commencez à faire un appel à l'autel? Les bébés commencent à crier et il y a toutes sortes de choses comme cela. C'est Satan! Vous qui êtes spirituels, vous comprenez.
+19 Le Seigneur me donna le nom de cet homme. Je l'appelai et il revint à la vie sans autre!
+20 J'ai vu de nombreuses fois le Seigneur Jésus ressusciter les morts. Le petit bébé de Mexico était mort à neuf heures du matin et ressuscita le soir vers dix ou onze heures. J'ai une attestation du médecin certifiant que le bébé était mort ce matin-là dans son bureau à neuf heures. Je crois que c'était d'une pneumonie. Et, pour autant que je sache, il est toujours vivant aujourd'hui. Et cela se passa devant trente ou quarante mille personnes!
+21 Ce matin, j'avais remarqué notre frère Way qui était parmi nous. Il était debout tandis que nous chantions «Gloire! Gloire! Alléluia!» et que nous nous serrions la main. Je l'ai vu avoir son attaque quand sa tête bascula en arrière. Frère Way n'est pas le genre d'homme à avoir des malaises ou des évanouissements. Je le vis tomber en arrière: je vis sa femme, une infirmière diplômée, prendre son pouls. Elle se mit à crier car son pouls s'était arrêté.
+22 Soeur Nash, une soeur de couleur qui vient chez nous, et quelques autres accoururent. Madame Way me faisait des signes pour que je vienne vers son mari. Mais je dis: «Restez tous tranquillement à vos places!». Ne vous excitez jamais dans ce genre de situation! C'est ce que Satan cherche. Attendez simplement pour savoir ce que le Seigneur va dire. Si c'est quelqu'un qui est en chemin pour entrer dans la gloire, ce qui doit nous arriver à tous une fois ou l'autre, il n'y a pas de meilleur endroit que l'église pour cela! Vous voyez, entrer directement dans la maison du Seigneur…
+    Mais ce frère devait revenir. Je pensais qu'il s'était peut-être évanoui ou quelque chose de semblable, mais je vis sa tête basculer et ses yeux exorbités dont on ne voyait plus que le blanc. On ne peut pas faire cela exprès avec ses yeux! Cela se passe lorsque le coeur s'arrête. Je traversai la plate-forme. Une personne charitable avait mis quelque chose sous sa tête. Mais ses pieds, ses mains et tout était déjà raide. Son visage était d'un noir rougeâtre aussi foncé que ma veste, et ses yeux étaient révulsés. Je connais les symptômes d'une crise cardiaque. Je sais comment cela se passe. Lorsqu'on l'a vu une fois, on ne peut plus l'oublier. Je lui pris le pouls; il n'y en avait pas plus qu'à ce pupitre. Sa femme, infirmière diplômée, le lui avait aussi pris: il était nul.
+23 L'autre jour j'avais eu frère Way dans une ligne de discernement et j'avais vu qu'il avait un souffle au coeur. C'est pourquoi je me dis: «C'est une crise cardiaque». Alors je posai mes mains sur lui en disant: «Oh mon Dieu! au Nom de Jésus-Christ je rappelle à la vie l'âme de mon frère!». Et devant le Dieu Jéhovah et devant cette Bible, j'affirme que lorsque je pris son pouls (et je sais que j'aurai à répondre de cela au jour du jugement si je mens), j'entendis son pouls battre rapidement cinq ou six fois comme cela: boum, boum, boum, boum, boum… puis normalement: boum–boum–boum–boum!…
+24 Il essaya d'ouvrir la bouche et produisit une espèce de gargouillement. Finalement, il dit: «Frère Branham!». Puis il eut l'air de vouloir se rendormir. J'attendis un moment et contrôlai son pouls: il battait normalement. Je le regardai: il dirigea son regard vers moi. Il avait l'air un peu assommé. Il ne savait plus où il était. Mais son coeur battait normalement: Dieu l'avait rappelé à la vie.
+25 Je dis maintenant ceci pour honorer Jésus-Christ qui est le même Dieu que toujours. Ce matin en prêchant, j'ai parlé un peu longuement de mon travail, disant que j'étais fatigué et usé. Il peut y avoir deux choses. Ou bien le frère était fatigué, ou bien c'est lorsque j'ai parlé des complexes. Je ne l'ai pas fait pour troubler mon frère, mais pour confesser que j'avais moi-même un complexe. D'ailleurs, je pense que si je vous demandais ce soir: «Qui sait qu'il a un complexe?», pratiquement chacun lèverait la main. Frère Way, afin que vous le sachiez, je vais vous montrer que ce n'était pas du discernement. Tous ceux qui savent qu'ils ont un complexe, levez la main! Regardez! Vous comprenez? Je ne sais pas si ce que je lui ai dit lui a causé un choc, ayant pris cela comme une réprimande, mais il a eu une attaque et le Seigneur l'a rétabli.
+26 C'est le même Dieu que celui que Paul représentait de son temps lorsqu'il prêcha tard un soir. Un homme tomba de la fenêtre et perdit la vie. Mais Paul, se penchant sur lui, dit à son auditoire, par la grâce de Dieu: "Sa vie est en lui". Je pense que cela prouve à tous ceux qui ne l'auraient pas encore compris que Jésus-Christ est le même hier, aujourd'hui et éternellement.
+27 Cet après-midi, j'ai réfléchi à ce que je vous ai dit ce matin du plus profond de mon coeur: c'est l'exacte vérité. Je vous ai parlé de ce complexe, vous faisant une entière confession et vous demandant de prier afin que mon être intérieur soit changé à l'égard des gens en sorte que je puisse faire les mêmes oeuvres que le Seigneur. Et afin de confirmer qu'Il voulait encore m'envoyer dans les champs de mission, Il permit cet incident pour montrer qu'Il guérissait toujours les malades et ressuscitait les morts. Je crois que ce n'était rien de plus qu'une confirmation de ce que j'avais prêché sur le Royaume de Dieu et de ce dont j'en avais été témoin. Cela était dans la ligne de ce que Dieu avait dit à frère Roberson et à un autre des frères.
+28 Combien nous L'aimons pour cela! Et nous sommes reconnaissants ce soir de la présence parmi nous de frère Way. Dieu n'a sûrement pas terminé Son oeuvre avec notre frère, sinon il serait parti ce matin. Frère Way a encore quelque chose à faire. Et je voudrais bien que vous sachiez, frère Way, que toute cette église et moi-même prierons pour que Dieu vous dévoile Son plan en ce qui vous concerne ainsi qu'en ce qui concerne votre femme. Et aussitôt qu'il sera matérialisé, Il vous y placera. Je suis sûr qu'Il le fera, frère Way! Nous tous qui sommes chrétiens, nous serons reconnaissants pour frère Way. N'est-ce pas, frères et soeurs? Et je prierai que lui et soeur Way trouvent leur place dans le Seigneur pour le service qu'ils ont à faire dans cette vie.
+29 Ce soir, je voulais parler à frère Way, c'est pourquoi je suis venu plus tôt. Je voulais savoir ce qu'il pensait ou ce qu'il avait ressenti. Il ne s'était rendu compte de rien. Vous voyez? Sa vie s'en était simplement allée; il était tombé et s'en était allé: c'est tout.
+    Frère Way voudrait savoir si quelqu'un ici va en Arkansas, mardi ou un autre jour, à cette rencontre. Ce ne sera peut-être qu'une très petite rencontre de frères. Je pense qu'elle se tiendra dans un endroit très retiré et qu'il n'y aura probablement pas beaucoup de monde parce que, pour tout dire, ils ne savent même pas que je viendrai. Mes amis là-bas ne le sauront pas avant un ou deux jours. Ceux de l'Arkansas qui savent que j'irai là-bas y seront. Mais si l'un de ceux qui iront là-bas avait de la place pour prendre frère Way, celui-ci en serait très heureux. Il m'a dit de vous préciser que là-bas il ne serait pas un fardeau car il pourrait s'arranger. Mais si quelqu'un pouvait le prendre, ce serait pour lui un signe du Seigneur montrant que c'est Sa volonté qu'il y aille. Maintenant vous connaissez tous le frère Way qui est assis ici dans ce coin. Si quelqu'un va à cette rencontre et qu'il ait de la place pour un passager supplémentaire, il sera heureux d'y aller.
+30 Lorsque frère Neville aura fini l'école du dimanche, j'aimerais enregistrer une nouvelle bande, si c'est possible. Sauf erreur, je pense que je parlerai sur ce sujet: Votre vie est-elle digne de l'Evangile? J'en ferai une bande si le Seigneur le permet.
+31 Ce matin, j'avais annoncé que je ferais un enregistrement ce soir. Je ne crois pas que notre pasteur ait seulement prêché: il m'a appelé tout de suite sur la plate-forme. Pendant que nous enregistrerons, si vous êtes fatigués ou autre, et que vous désiriez sortir un instant, faites-le aussi doucement que possible, car les micros sont extrêmement sensibles et captent le moindre bruit. Et nous essayons d'utiliser ces bandes pour un ministère international.
+32 Aujourd'hui, après avoir lu la Parole de Dieu, j'ai pris mon sujet dans l'Evangile de Matthieu au chapitre 24. Nous lirons depuis le verset 32.
+> "Instruisez-vous par une comparaison tirée du figuier. Dès que ses branches deviennent tendres et que les feuilles poussent, vous connaissez que l'été est proche. De même, quand vous verrez toutes ces choses, sachez que le Fils de l'homme est proche, à la porte. Je vous le dis en vérité, cette génération ne passera point que tout cela n'arrive. Le ciel et la terre passeront, mais mes Paroles ne passeront point. Pour ce qui est du jour et de l'heure, personne ne le sait, ni les anges dans les cieux, ni le Fils, mais le Père seul. Ce qui arriva du temps de Noé arrivera de même à l'avènement du Fils de l'homme".
+33 En lisant le début de ce chapitre, nous savons que les disciples vinrent à Jésus en particulier, tandis qu'ils étaient sur la montagne, pour lui demander: "Quel sera le signe de la fin du monde? Quel sera le signe de Ton avènement? A quel moment sera-ce lorsqu'il ne restera plus pierre sur pierre du temple?". C'est à cela qu'Il répondit. Mais lisons le début du chapitre.
+> "Et Jésus sortit et s'en alla du temple; et ses disciples s'approchèrent pour lui montrer les bâtiments du temple. Et lui, répondant, leur dit: Ne voyez-vous pas toutes ces choses? En vérité je vous le dis: Il ne sera point laissé ici pierre sur pierre qui ne soit jetée à bas. Et comme il était assis sur la montagne des Oliviers, les disciples vinrent à lui en particulier, disant: Dis-nous quand ces choses auront lieu, et quel sera le signe de ta venue et de la consommation du siècle?".
+34 Vous voyez, ils Lui avaient posé trois questions, et Il répondit à leurs trois questions. "Quand ne restera-t-il plus pierre sur pierre? Quel sera le signe de Ton avènement? Quel sera le signe de la fin du monde?". Je crois que beaucoup de frères parmi nous font l'erreur de rapporter le tout à Son avènement. Mais Il répond à trois questions distinctes qui Lui ont été posées. Quand viendra le temps où il ne restera plus pierre sur pierre, quand cela se passera-t-il? Quel sera le signe de Son avènement? Que se passera-t-il à la fin du monde? Vous voyez, ce sont trois questions différentes. Il commence par répondre à la question concernant le temple dont il ne restera plus pierre sur pierre. Après avoir fini de répondre à cette question, Il parle du signe de Sa venue, puis enfin de la fin du monde.
+35 Je voudrais parler ce soir sur l'un de ces trois sujets: La lumière rouge du signe de Sa venue. Nous nous attarderons spécialement sur l'époque de Noé. "Ce qui arriva du temps de Noé arrivera de même à l'avènement du Fils de l'homme". L'autre jour, cela m'a frappé. Je pensai que peut-être je pourrais essayer de parler sur ce sujet. J'ai noté plusieurs passages des Ecritures que je voudrais lire et auxquels je voudrais me référer.
+36 Lorsque les disciples de Jésus Lui posèrent cette question, Il leur indiqua le signe de Son avènement. Immédiatement après, Il dit ceci: "Le ciel et la terre passeront, mais Ma Parole ne passera pas?". Il dit ailleurs: "Instruisez-vous par une comparaison tirée du figuier. Dès que ses branches deviennent tendres et que ses feuilles poussent, vous connaissez que l'été est proche. De même, quand vous verrez toutes ces choses arriver ou être manifestées, sachez que le temps est proche. Cette génération ne sera pas éliminée que tout cela n'arrive". Quelle génération? La génération qui voit l'apostasie dont nous allons parler ce soir.
+37 Ce titre: La lumière rouge du signe de Sa venue me fait penser à ce qui se passe lorsqu'on attend un train à la gare, lorsque les gens sont debout et attendent, comme cela nous est arrivé à tous quand nous attendons le train. Vous ne pouvez le voir ni l'entendre, mais vous savez que c'est l'heure. Le chef de gare annoncera peut-être: «Il est un peu en retard; il n'arrivera pas à l'heure exacte. Nous ne savons pas exactement quand il viendra, mais il va bientôt arriver». En attendant, vous vous promenez dans la gare les mains dans les poches, vous vous asseyez sur votre valise, vous allez acheter un cornet de cacahuètes, ou vous allez causer avec quelqu'un de l'autre côté de la rue. Mais voici que soudain quelque chose se passe. Il y a un bruit dans les rails, un sémaphore descend et une lampe rouge se met à clignoter. Qu'est-ce que cela signifie? Le train est dans la section d'entrée de la gare. Bien que vous ne puissiez pas le voir ni l'entendre, il y a cette lampe qui clignote et ce sémaphore baissé qui vous montrent qu'il arrive. Si vous voulez prendre ce train, vous ferez bien de jeter vos cacahuètes, d'interrompre votre conversation, d'aller chercher vos valises, bref, de vous préparer, sinon vous resterez sur place car ce train ne fait qu'arriver et repartir et ne s'arrête que quelques instants. Après, il est parti! Si vous restez à bavarder avec le voisin de l'autre côté de la rue, vous serez laissé en arrière.
+38 Comme cela est encore bien plus vrai quand nous voyons le signal rouge indiquant qu'Il est près de la gare et que ce vieux train de l'Evangile est tout près de passer! Ce soir, nous allons étudier ce signal rouge. Le Seigneur S'assit sur la montagne des Oliviers et Se mit à leur parler. Il leur dit: "Ce qui arriva du temps de Noé arrivera de même à l'avènement du Fils de l'homme".
+39 Maintenant nous allons remonter un instant dans le passé pour voir si nous pouvons trouver quelque chose aujourd'hui qui ressemble à ce qui se passait du temps de Noé. Alors nous pourrons savoir si nous sommes dans ces temps dont parle notre Seigneur et si notre époque ressemble à celle de Noé. Pour cela, je pense qu'il serait bon de revenir dans le livre de la Genèse aux jours de Noé. Lisons dans le chapitre 6 de la Genèse. C'est là que l'on trouve la description du déluge et de l'état moral de ce temps. Lisons et comparons ces temps-là avec ceux d'aujourd'hui.
+> "Et il arriva, quand les hommes commencèrent à se multiplier sur la face de la terre…".
+40 Dès les premiers mots, cette lampe rouge se met à clignoter pour nous montrer que ces jours sont proches. Jamais dans l'histoire il n'y eut autant d'hommes qu'aujourd'hui, et ils se multiplient à un rythme tel qu'il devient difficile de trouver encore de la place. Le Reader's Digest nous informe que la population mondiale s'accroît tellement que dans vingt ans, si cela continue, il n'y aura plus assez de nourriture pour tout le monde. Ce sont les savants qui nous le disent.
+41 Quand nous regardons autour de nous, nous pouvons voir des villes là où il y avait autrefois le désert, et pourtant jamais la limitation des naissances n'a été autant à la mode qu'aujourd'hui. J'espère que je ne me trompe pas dans les chiffres, mais il paraît qu'à Chicago il y a trente mille avortements enregistrés tous les deux mois. Et si nous ajoutons à ceux-là tous ceux qui ne sont pas déclarés… Vous voyez? Et tout cela dans une seule grande ville de quatre millions d'habitants! Qu'est-ce que cela doit faire dans le monde entier! Et malgré cela, la population est tellement dense qu'il n'y a plus moyen de s'en occuper.
+42 En Inde on essaie de stériliser les hommes afin de limiter les naissances parce que la population augmente trop. Actuellement il y a quatre cent soixante-dix millions d'habitants en Inde.
+43 Qu'en est-il de la Chine où l'accroissement est encore plus grand, de la Russie et de beaucoup d'autres pays encore? Lorsque les hommes eurent commencé à se multiplier sur la surface de la terre… Vous voyez? Nous revenons au temps d'avant le déluge!
+> "… et que des filles leur furent nées, que les fils de Dieu virent les filles des hommes, qu'elles étaient belles, et ils se prirent des femmes d'entre toutes celles qu'ils choisirent. Et l'Eternel dit: Mon Esprit ne contestera pas à toujours avec l'homme, puisque lui n'est que chair; et ses jours seront de cent vingt ans. Les géants étaient sur la terre en ces jours-là, et aussi après que les fils de Dieu furent venus vers les filles des hommes et qu'elles leur eurent donné des enfants: ceux-ci furent les vaillants hommes de jadis, des hommes de renom".
+44 Quel sujet nous avons là! Une des premières choses que je voudrais vous faire remarquer, c'est que les fils de Dieu remarquèrent les filles des hommes et virent qu'elles étaient belles. Si nous considérons le monde dans son ensemble, je crois qu'il n'y a jamais eu sur la terre, à part aujourd'hui, une époque où la beauté a été aussi répandue parmi les femmes.
+45 Et vous, les gens âgés, vous pouvez vous rappeler combien il était rare autrefois de trouver une jolie femme. Aujourd'hui on n'en trouve que des jolies! Cela vient de ce qu'elles se coupent les cheveux, se maquillent et portent toutes sortes de vêtements "sexy" afin de pouvoir se montrer ainsi. L'aiguille de l'horloge du temps a fait le tour du cadran conformément à l'Ecriture, et les femmes deviennent de plus en plus jolies.
+46 Quand je vois aujourd'hui les petits enfants, les petites filles, cela me rappelle le temps où j'étais moi-même un petit garçon et que j'allais à l'école. Je me rappelle comment étaient les femmes quand j'étais jeune homme et que je regarde les jeunes filles d'aujourd'hui. Je me rappelle (il n'y a pas plus de vingt-cinq ans de cela) qu'il y avait une seule fille "populaire" dans notre groupe. C'était une jolie fille et presque tous les garçons auraient voulu sortir avec elle parce qu'elle était la reine du groupe. Dans toute une ville il n'y avait peut-être pas plus de deux ou trois femmes de ce genre. Aujourd'hui elles sont toutes jolies. Cela aussi est pour accomplir l'Ecriture. C'est aussi une lampe rouge qui clignote pour nous annoncer que le temps est proche.
+47 On a inventé des choses comme le rouge à lèvres et les différentes formes de maquillage afin qu'une femme qui n'est pas particulièrement jolie puisse s'embellir en arrangeant son visage, ses lèvres, en faisant tout ce qu'elles font pour se faire jolies.
+48 L'usine Max Factor travaille jour et nuit, et les femmes américaines dépensent plus par année en cosmétique qu'en achat de nourriture. C'est vrai! J'ai oublié le nombre exact de milliards de dollars qui sont dépensés chaque année pour embellir nos femmes.
+49 Ce n'est pas que je veuille dire quelque chose contre cela. Je vous montre simplement qu'il y a une lampe rouge qui clignote pour nous avertir que le temps est proche. Car Jésus Lui-même a dit: "Ce qui arriva du temps de Noé arrivera de même à l'avènement du Fils de l'homme". Vous voyez, c'est pareil.
+50 Remarquez que lorsque les hommes commencèrent à se multiplier et qu'ils furent devenus nombreux, les filles des hommes furent belles. Et les fils de Dieu les regardèrent et en prirent pour femmes. Je ne dis pas cela de moi-même, c'est la Bible qui le dit. Jésus nous dit de remonter jusqu'à la Genèse et de faire la comparaison: multiplication des hommes, beauté des femmes.
+51 C'est un très grand signe. Au troisième verset de Genèse six, Jéhovah nous donne un avertissement: "Alors l'ETERNEL dit…".
+52 Immédiatement après que cela eut lieu… Rappelez-vous que c'est le Saint-Esprit qui a écrit la Bible et que Jésus était revêtu de la plénitude du Saint-Esprit. Il ne parlait que par le Saint-Esprit. Et les Ecritures sont écrites par le Saint-Esprit. Et Celui-là même qui a écrit Genèse 6 nous a parlé dans Matthieu 24 afin que nous connaissions que le temps est proche et que nous fassions la comparaison avec Genèse 6.
+53 Les hommes se multiplient sur la terre malgré la limitation des naissances qui n'arrive pas à enrayer cela. Cela continue de toute manière parce que nous sommes au temps de la fin.
+54 Et tout de suite après, il est dit que les femmes étaient très belles. Cela aussi se vérifie et peut se prouver.
+55 Il n'y a pas longtemps, je regardai quelques photographies anciennes où l'on voyait nos ancêtres traversant la prairie. Je ne me rappelle pas le nom de cette femme, mais elle était connue de San Francisco jusqu'à Boston comme la plus belle femme de tout le pays. Je crois qu'elle s'appelait Pearl White. Elle avait été assassinée par son amoureux, Scott Jackson. Aujourd'hui, si j'en crois cette photo, on ne regarderait même pas une telle femme. Elle aurait l'air suranné, et pratiquement toutes les femmes que vous rencontreriez dans la rue aujourd'hui seraient trois fois plus belles qu'elle. Vous voyez, la beauté des femmes croît de plus en plus.
+56 Je ne sais pas si nos femmes réalisent cela. C'est pour cela que j'aimerais que cette bande aille partout. Nous aimons voir notre femme jolie, mais que cela soit naturel! Nous n'aimons pas le superficiel. Certaines de ces jolies femmes, si vous les plongiez dans un baquet à lessive, que vous les laviez bien et que vous les vêtiez comme elles devraient être vêtues, elles auraient un autre aspect! Mais elles ne le font pas et l'on peut voir la différence. Nous allons aussi étudier cela. C'est aussi un signal rouge!
+57 Rappelez-vous que lorsque les hommes commencèrent à se multiplier sur la terre et que les femmes devinrent belles, c'est alors que le Seigneur dit: "Mon Esprit ne contestera pas à toujours avec l'homme. Je fixerai ses jours". Lisons le verset 4:
+> "Les géants étaient sur la terre en ces jours-là, et aussi après que les fils de Dieu furent venus vers les filles des hommes et qu'elles leur eurent donné des enfants: ceux-ci furent les vaillants hommes de jadis, des hommes de renom".
+58 Avez-vous remarqué que dans tout ce passage il n'est jamais fait mention de mariage? Les fils de Dieu vinrent vers les filles des hommes: il n'est pas question de mariage. Cet après-midi j'ai cherché dans le texte grec le mot femmes du verset deux. Dans le texte grec il n'est pas parlé d'épouses, mais de femmes. Vous pouvez contrôler dans l'Emphatic Diaglott. Vous verrez si ce n'est pas vrai!
+59 Ils se prirent des femmes, et non pas des épouses. Ils les prirent comme cela. C'était l'amour libre, exactement comme aujourd'hui. En d'autres termes, ils étaient des amants en ce temps-là comme c'est le cas aujourd'hui. Ils agirent selon leurs désirs et prirent toutes les femmes qu'ils purent.
+60 En parlant de ces choses-là, beaucoup de gens disent que ces hommes et ces femmes étaient des anges déchus. Mais pour bien montrer que c'est totalement faux, il suffit de montrer que la Bible ne dit nulle part que les anges sont des hommes ou des femmes. De plus, il n'est jamais parlé nulle part dans la Bible d'une femme qui serait un ange, jamais. Si vous voulez des passages bibliques là-dessus, il y a Matthieu 22.20, etc.: vous trouverez facilement.
+61 Une femme-ange, cela n'existe pas. C'est la raison pour laquelle une femme prédicateur… l'ange est un messager. Mais vous voyez, les temps ont changé aujourd'hui comme ils avaient changé à cette époque. J'ai noté quelques points d'histoire sur lesquels je voudrais que nous nous arrêtions un moment.
+62 Du temps de Noé, les femmes devaient être le principal sujet de conversation. Les fils de Dieu (les fils de Seth) avaient remarqué les filles de Caïn. Quand les fils de Dieu virent que les filles des hommes étaient belles, ils en prirent pour eux. C'est alors que les fils de Dieu perdirent leur position en Dieu et devinrent des coureurs de femmes. N'est-ce pas exactement ce qui se passe aujourd'hui? C'est vrai!
+63 Regardez les églises d'aujourd'hui, regardez partout où vous voulez: remarquez-le. J'ai l'impression qu'en ce temps-là il y avait des jolies femmes partout. Les hommes en devinrent esclaves. L'histoire nous dit que les hommes devinrent réellement esclaves des femmes à cause de leur beauté. Ils en devinrent les esclaves. Ils leur firent des sanctuaires et les adorèrent littéralement. Pensez qu'ils adorèrent littéralement la chair et le sang de la femme en ce temps-là. C'est historique.
+64 Comparez cela avec ce qui se passe aujourd'hui. Mes frères, c'est pareil! Les hommes adorent réellement les femmes. Dans notre pays, Mrs. Kennedy est deux fois plus considérée que le président lui-même. C'est vrai! Et un facteur important de réussite pour un homme est d'avoir une femme séduisante.
+65 Parlons maintenant de la femme au volant. On entend dire partout que la femme conduit moins dangereusement que l'homme. C'est faux, et je vais vous dire pourquoi. Pour en avoir le coeur net, Billy et moi, en traversant les Etats-Unis, nous avons fait un petit tableau où nous avons inscrit deux colonnes: hommes et femmes. Chaque fois qu'une femme faisait une faute de conduite, nous mettions une coche dans sa colonne. Quand c'était un homme, nous mettions une coche dans la colonne des hommes. Vous serez surpris du résultat: sur trois cents infractions mineures, il y avait deux cent quatre-vingts femmes et vingt hommes. Savez-vous pourquoi? Parce qu'on ne les convoque pas au bureau de police. La police n'arrêtera pas une jolie fille, pas plus d'une sur mille. Le policier lui demande son numéro de téléphone au lieu de l'arrêter! Il n'est pas étonnant que de telles statistiques n'en fassent pas mention! Tout cela vient de ce qu'aujourd'hui l'homme est redevenu comme il était au temps de Noé: il se prosterne devant l'image d'une jolie femme. C'est vrai!
+66 Cette adoration devait être quelque chose de terrible en ce temps-là avec ces femmes qui se faisaient remarquer par leurs manières séduisantes! Et si elles le faisaient encore mieux qu'aujourd'hui, je suis heureux de n'avoir pas vécu en ce temps-là! Pensez qu'en ce temps-là les femmes agissaient comme aujourd'hui.
+67 Remarquez que la Bible dit qu'ils mangeaient et buvaient. Tout cela est légitime. Bien sûr! Le mariage est honorable. Un homme qui épouse une femme, c'est quelque chose d'honorable, cela a été institué par Dieu. Mais si cet homme prend la femme d'un autre, qu'il prend une jeune femme ou une femme quelle qu'elle soit, quelle que soit la situation de cette femme, il rompt ses voeux de mariage et fait quelque chose de faux. C'est un péché aux yeux de Dieu. La Bible parle très sévèrement contre cela.
+68 Remarquez que le mariage, Dieu l'a institué dans le jardin d'Eden, mais il est bien certain qu'Il a condamné l'adultère. Mais en ces temps-là, les hommes et les femmes outrepassèrent les lois de Dieu et prirent sur eux de faire quand même ces choses-là. Faites la comparaison avec ce qui se passe aujourd'hui! Regardez ce qui se passe! Si vous voulez voir que le train est sur le point d'entrer dans la gare, regardez très attentivement ce qui se passe aujourd'hui, comme nous le dit la Parole infaillible de Jésus-Christ.
+69 Remarquez encore ceci. La Bible dit (c'est évident) qu'ils mangèrent et burent avec leurs jolies femmes. On comprend bien qu'il n'y a rien à redire à cela. Manger et boire sont des lois naturelles de la vie. Nous devons le faire. Mais lorsque vous ne pensez plus qu'à cela… Aujourd'hui, les gens sont devenus des gloutons et des ivrognes. Les femmes s'enivrent dans les restaurants. Quand on sert des boissons alcoolisées et des cocktails, les femmes boivent encore plus que les hommes.
+70 Jésus dit: "Car dans les jours qui précédèrent le déluge, les hommes mangeaient et buvaient, et donnaient en mariage". En d'autres termes, ils vivaient avec ces femmes en dehors du mariage. Et aujourd'hui il y a des institutions… A Reno, vous pouvez vous marier, divorcer et vous remarier le même jour. Mais cela est déjà dépassé… Dans les grandes villes, les soi-disant maris et femmes ont plusieurs clefs. Je voyage beaucoup et je sais que c'est vrai. Dans ces ménages, le mari a ses rendez-vous et la femme les siens. Il y a un tel mélange et une telle pourriture que cela n'a produit qu'une génération de rien, molle, paresseuse, bonne à rien et se dirigeant tout droit vers l'enfer.
+71 Regardez ce que le corps de l'homme est devenu en quelques générations. Regardez-le par les choses qu'il a faites. La science essaie constamment de fabriquer de meilleure nourriture. On fait du maïs hybride, des tomates hybrides, du boeuf hybride alors que tout cela ne vaut rien du tout. Cela tue les gens, mais ils ne s'en rendent pas compte. Dans quelques années l'homme ne sera pas plus consistant qu'une méduse.
+72 Il y a cinquante ans, on jouait aux jeux de ballon autant que maintenant, mais on n'entendait jamais parler de blessés. Aujourd'hui, il y a une douzaine de morts ou deux par an. Lorsqu'un ballon frappe un joueur, il n'y a rien en lui pour retenir sa vie. Il est si mou qu'à peine frappé, il tombe mort.
+73 Lorsque Bob Fitzsimmons se battait avec Corbett, je crois qu'ils firent cent vingt-cinq rounds d'un après-midi, et à poings nus! Ces hommes avaient une telle énergie qu'ils pouvaient soutenir de longs combats en se battant à mains nues. Ils dormaient les mains plongées dans du vinaigre pour les durcir. Un round ne durait pas deux ou trois petites minutes comme aujourd'hui et on ne mettait pas de rembourrage dans leurs gants de boxe. Et pourtant, personne ne mourait! Pour eux, vous n'aviez pas terminé un round si vous n'aviez pas jeté votre adversaire à terre. Et ils ont combattu jusqu'à cent vingt-cinq de ces rounds! C'étaient des hommes! Aujourd'hui, il va falloir arrêter la boxe parce que, malgré leurs gants et leurs avant-bras rembourrés, ils ne peuvent plus combattre plus de deux ou trois rounds sans qu'il y ait des morts. Pourquoi cela? Les hommes ne sont plus que des ramollis, des hybrides, des rien du tout, et toute cette génération est moribonde.
+74 La Bible ne dit-Elle pas que les hommes deviendraient plus faibles et plus savants? Nous allons vers des temps où les gens prendront leurs repas sous forme de pilules! L'humanité n'est plus faite que d'une bande de fumeurs, de buveurs, de coureurs de cocktails et de drogués. La délinquance commence à l'école chez les adolescents. Ce n'est pas étonnant quand on voit comment leurs mères se conduisent dans la rue; elles précipitent leurs enfants dans les mêmes choses.
+75 Il y a de plus en plus de jolies femmes. La vie sociale est détruite. Mais quels jours glorieux nous vivons au milieu de tout cela! Comment vont-ils faire pour échapper? Mais ils n'échapperont pas! Que font-ils de nos jours? Comme autrefois! Ils bafouent les commandements de Dieu. Dieu avait dit: "Tu ne commettras point d'adultère!". Et ils montrent qu'ils peuvent commettre adultère et continuer à vivre ainsi. Ils pensent qu'ils pourront continuer, mais ils ne le pourront pas! Peut-être que vous feriez mieux de ne pas venir m'écouter. Pourtant, Dieu a dit que c'est en ce temps-ci que la lampe rouge se mettrait à clignoter. C'est Jésus qui l'a dit.
+76 Ils commettent le péché et se moquent du péché. Combien de fois ne voit-on pas aujourd'hui le monde appeler vertueux ce que la Bible déclare immoral! Les mères ôtent les vêtements de leurs petites filles, leur mettent des shorts et autres et sortent ainsi dans la rue avec elles en pensant qu'il est vertueux pour leur enfant de montrer ainsi sa chair féminine, alors qu'au contraire la Bible dit que c'est un péché. C'est horrible! Mais le monde dit que c'est vertueux! Vous voyez, ils font mentir les commandements de Dieu. Et l'église ne dit rien! Il est grand temps que quelqu'un se lève au nom de la justice au Nom de Jésus-Christ et mette un frein à tout cela parce qu'au jour du jugement, nous devrons rendre compte de ces choses.
+77 S'il y en a qui trouvent cela vieux jeu, qu'ils regardent quelques années en arrière et comparent avec ce qui se passe aujourd'hui; ensuite, qu'ils imaginent le futur! Il n'y a pas d'autre futur que la venue du Seigneur.
+78 Comparez ce que firent les femmes d'avant le déluge avec ce que font celles d'aujourd'hui! Regardez quelle était leur position. Regardez ce que firent les fils de Dieu autrefois. Regardez ce qu'ils font aujourd'hui.
+79 Assistant à une convention il n'y a pas longtemps, j'ai vu quelque chose qui m'a brisé le coeur. Un prédicateur était en train de parler et tout le monde avait l'air d'apprécier ce qu'il disait. Moi, j'étais assis un peu plus loin dans un coin. A un certain moment une jeune femme entra, vêtue d'une manière vraiment indécente. Elle traversa toute la salle, minaudant et marchant à petits pas, exactement comme cela est décrit dans la Bible. Chaque prédicateur sur la plate-forme et l'assemblée tout entière se mirent à tourner la tête et à suivre cette fille des yeux. Je pensai alors à ce passage de l'Ecriture où les fils de Dieu regardèrent les filles des hommes, des pécheresses, des femmes impies, mais des jolies femmes! Combien d'églises n'ont-elles pas été détruites à cause de cela! C'est ce qui fit se retirer l'Esprit de Dieu. Remarquez-le! C'est lorsque les fils de Dieu regardèrent les filles des hommes.
+80 Rappelez-vous que c'est Jésus-Christ, l'Infaillible, qui a déclaré qu'il en serait ainsi aujourd'hui. Et Il a dit que quand nous verrions ces choses arriver, nous saurions que le temps est proche, à la porte. Il n'y a pas beaucoup de gens qui diront cela! Il y a beaucoup de prédicateurs qui ne pourraient dire cela. Ils le pourraient s'ils le voulaient. Mais s'ils le faisaient, leur église les chasserait. C'est l'exacte vérité.
+81 Mais attention à ceci: si un homme a été appelé par Dieu, il s'en tiendra à la Bible quoi qu'il doive faire. Vous devez vous rappeler que c'est la vérité. Et la vérité lie ou délie. C'est exactement ce que Jésus-Christ a dit.
+82 Les fils de Dieu tombèrent à cause de la beauté des formes et du visage des filles des hommes. Et c'est exactement ce qui se passe aujourd'hui. C'est pareil.
+83 Faites la comparaison entre ce qui se passait autrefois et ce qui se passe aujourd'hui: les hommes se multiplient, les femmes deviennent belles, les fils de Dieu tombent, on se marie et on donne en mariage, on divorce, on vit dans l'adultère, etc.
+84 Vous direz: «Oh, frère Branham, je me demande si vraiment…». Frères, avant de dire quelque chose, écoutez ceci. Jésus-Christ a dit que quiconque regarde une femme pour la convoiter a déjà commis adultère avec elle dans son coeur. Lorsqu'un homme sort de son bureau, de l'église, de sa maison, et descend dans la rue, que voit-il, sinon une exposition de chair et de sang féminins, des femmes au joli visage et portant des vêtements qui mettent leurs formes en évidence. Ils sont tentés! C'est ce que Dieu a dit qui arriverait. Quand cela arriverait, le temps serait proche, à la porte. C'est ce qui arriva du temps de Noé lorsque les fils de Dieu virent les filles des hommes et commencèrent à en prendre pour eux. Vous voyez? Voilà où nous en sommes.
+85 Soyez bien attentifs à ces choses, car il se passe exactement la même chose aujourd'hui.
 
 LE SIGNAL ROUGE DE SA VENUE 11
-Nous pouvons voir dans l’histoire que la femme avait un tel “sex-appeal” que les fils de Dieu firent
-d’elle un objet de culte. Pensez à Venus et à toutes les autres. Ils en firent des objets de cultes
-devant lesquels ils se prosternèrent. Vous direz peut-être: «Frère Branham, nous n’avons pas de
-telles choses aujourd’hui; il ne faut pas comparer avec ce temps-là!». Je vous demande pardon!
-Je crois que c’est pire aujourd’hui qu’alors.
-86 Que voyons-nous? il y a la télévision… Dans les journaux on ne voit que des femmes. Sur les
-emballages de whisky, dans les journaux, partout on ne voit que de jolies filles “sexy” et vêtues
-d’une manière immorale. A la télévision, partout, c’est pareil. Où que vous regardiez, réclames
-pour les cigarettes ou autres choses, on voit partout des jolies femmes. Ils ne peuvent pas vendre
-une paire de bas sans montrer une paire de jambes sur l’emballage! C’est vrai! Qu’est-ce que cela
-signifie? Pourquoi est-ce ainsi?
-87 Je me souviens d’un homme qui habitait au coin de la rue et pour lequel j’avais travaillé, Chris
-Meisner. Beaucoup d’entre vous s’en souviennent. Sa femme s’appelait Lilian et venait d’Ellinger.
-Elle était fort belle. Autrefois un homme vint pour demander la permission à son père de prendre
-une photo d’elle pour décorer des boîtes de bonbons. Mais son père, un vieux Luthérien allemand,
-se redressa de toute sa hauteur et lui dit: «Ce serait une insulte pour moi que de voir la photo de
-ma fille imprimée sur une boîte de bonbons qui sera vendue dans tout le pays!». Aujourd’hui on
-voit partout, sur les panneaux d’affichage, à la télévision, partout, ces photos de femmes vulgaires,
-“sexy”, impies! Vous voyez? Le train est sur le point d’entrer en gare! C’est la Bible qui le dit: il va
-venir très bientôt. Nous, pouvons déjà en entendre le bruit.
-88 Nous avons montré d’autres choses à ce sujet, mais rappelez-vous que ceci est aussi une
-lampe, une de ces lampes qui clignotent aujourd’hui devant nos yeux. Nous voyons l’état de la
-nation. Nous voyons les troubles politiques. Nous voyons l’état de l’église. Nous prêchons sur tout
-cela, mais il y a ici quelque chose de nouveau. C’est quelque chose que les gens n’aimeront pas
-entendre, mais il faut pourtant en parler parce qu’il faut qu’il y ait une voix qui proclame cela. Et
-rappelez-vous que les paroles que je prononce pour vous ce soir, je les entendrai le jour du
-jugement.
-89 Il n’y a pas longtemps, j’avais eu une vision du Seigneur me montrant cette femme (je ne me
-souviens jamais de son nom)… Marilyn Monroe. Je ne l’ai jamais vue: je ne vais pas au cinéma.
-Mais j’ai vu cette fille; elle était très séduisante. Elle essayait d’atteindre quelque chose. Elle était
-en train de mourir d’une crise cardiaque. Le Seigneur me dit: «Tu diras qu’elle est morte à quatre
-heures. Elle ne s’est pas suicidée. Tu diras qu’elle est morte à quatre heures, parce que c’est juste
-quelques secondes avant quatre heures». Et je vis où on l’avait trouvée. Je racontai cela à Billy, à
-la famille et à ceux qui étaient présents. Quelques jours plus tard, on annonça la mort de Marilyn
-Monroe.
-90 L’autre jour, j’étais au Canada et les enfants me parlaient tout le temps d’une maison qu’une
-dame nous prêtait et qui avait une télévision. Il y avait un film annoncé au programme; il s’intitulait:
-La rivière du Non-Retour. C’est à cette rivière que je vais toujours à la pêche. Il y a aussi un de
-mes amis, John Smith, qui y va toujours. Les enfants me dirent: «Ils ont fait un film sur cette
-rivière. Peut-être que nous pourrons y voir Mr Smith. Est-ce que tu voudrais le regarder?». Je leur
-répondis: «Eh bien, lorsque je rentrerai du Canada, si je suis à temps, je le regarderai». Lorsque le
-film commença, j’allai le regarder. Et qui est-ce que je vis apparaître sur l’écran? Marilyn Monroe! Il
-y avait plus d’une année qu’elle était morte et la voilà qui apparaissait sur l’écran, vêtue d’une
-manière séduisante. On pouvait aussi entendre sa voix, et on pourra l’entendre encore pendant
-des années et des années parce qu’elle a été enregistrée sur bande magnétique. Si cette bande a
-enregistré ses actions et qu’elle peut la voir ce soir d’où elle est (je crois qu’elle est sauvée, mais
-je n’en sais rien; c’est une affaire entre elle et Dieu), elle ne peut les nier. Elle ne peut les nier
-parce qu’elles ont été enregistrées. A combien plus forte raison Dieu a-t-Il enregistré chaque
-action, chaque mouvement de chacun de nous sur Son glorieux enregistreur! Nous ne pouvons y
-échapper. Tout y Esther 91 Rappelez-vous que si j’étais relié ici à une station de radiodiffusion qui transmettrait ce que ce
-dis dans le monde entier, les auditeurs du monde entier entendraient ma voix avant même qu’elle
-soit parvenue de cette chaire jusqu’à vous. C’est dans le système électronique de ce monde.
-92 D’autre part, vous savez que la voix ne meurt jamais. La science affirme que dans vingt ans,
-si elle progresse au rythme actuel, les hommes pourront entendre littéralement la voix de
-
-        http://www.cmpp.ch
-
-    LE SIGNAL ROUGE DE SA VENUE                    12
-Jésus-Christ quand Il était sur la terre. Et cela dans vingt ans! Parce que cela se passe comme
-lorsqu’on jette un caillou dans une mare. Les petites ondes peuvent disparaître de notre vue, mais
-la science affirme qu’elles vont d’une rive à l’autre, qu’elles peuvent traverser l’océan et le
-retraverser, passent d’un côté à l’autre sans jamais mourir. Il en est de même des paroles que
-vous prononcez: elles vous rencontreront au jour du jugement et vous condamneront ou vous
-sauveront. Vous ne pourrez pas passer à côté.
-93 Au travers même de cette salle passent des images de gens. Si vous ne le croyez pas,
-allumez votre télévision! Il y a aussi la voix de ces gens, même si nos sens ne sont pas capables
-de les détecter.
-94 Il y a une station d’émission et une espèce d’aimant, de tube radio ou de cristal qui capte ces
-voix et les reproduit. La Bible est simplement ceci: les Paroles que Jésus-Christ a prononcées, et
-Elles sont littéralement aussi vivantes que n’importe quelle parole qui est prononcée ce soir dans
-le monde, où que ce soit.
-95 Et si votre coeur a été purifié par le Sang de Jésus-Christ et qu’il devienne un poste récepteur
-accordé sur cet émetteur, alors pour vous Jésus-Christ est le même hier, aujourd’hui et
-éternellement, et Il fait les mêmes oeuvres qu’autrefois parce que Sa Parole ne peut mourir. Elle
-est vivante pour toujours. Nous n’avons pas besoin d’attendre vingt ans pour que la technique soit
-capable de réaliser un tel récepteur: nous recevons cela à l’instant même. Voilà!
-96 Nous vivons aujourd’hui dans les temps glorieux de la venue du Seigneur et partout les
-lampes rouges clignotent pour annoncer Sa venue. Nous pouvons le voir dans la politique; nous
-pouvons le voir dans l’église; nous pouvons le voir dans les temps dans lesquels nous vivons. Où
-que nous regardions, nous pouvons le voir. Le soleil lui-même n’a plus le même aspect
-qu’autrefois. La terre se déséquilibre. J’ai entendu dire que dans la région du pôle nord, la mer est
-devenue plus profonde qu’autrefois. Autrefois on pouvait traverser le détroit de Behring à pied.
-Maintenant il est devenu très profond. Pourquoi cela? Parce que la terre est en train d’enfler par le
-milieu. L’eau diminue là où elle était profonde et elle devient profonde là où il y en avait peu. Le
-monde a complètement perdu l’équilibre. Il vacille et chancelle. La nature cède de partout.
-97 Ce soir nous avons vu que la nature elle-même produit dans la race humaine le signe de Sa
-venue, car les filles des hommes deviennent belles et les fils de Dieu prennent des femmes parmi
-elles. Quels temps nous vivons! Oh, mon Dieu! Et c’était pareil en ce temps-là.
-98 L’histoire nous a montré ce phénomène choquant de l’homme qui rend un culte à la femme, et
-nous nous apercevons qu’aujourd’hui le monde est un monde de femmes.
-99 Il n’y a pas longtemps j’étais en Suisse. Remarquez bien que je n’ai rien contre les femmes
-chrétiennes: ce sont des joyaux. Ce que je dis c’est au sujet des voies du monde. Il y avait là un
-frère Guggenbühl et son amie. C’est un homme ayant à peu près mon âge. Il ne s’est jamais
-marié; c’est un vieux célibataire, et il était venu avec une jeune femme. Il y avait là plusieurs
-jeunes femmes. L’une d’elles me dit: «Frère Branham, parlez-nous de l’Amérique. Il paraît que
-là-bas, c’est le pays de la femme». Je répondis: «C’est vrai!». Elle me dit: «J’aurais toujours aimé
-y aller». Alors je lui expliquai les choses. Elle s’exclama: «Comment?». Je lui répondis: «Oui, c’est
-vraiment ainsi!». Elle changea d’opinion immédiatement. Elle me dit: «Eh bien, comment peut-on
-vivre comme un chrétien dans un pays pareil!». Pensez à cela!
-100 Une fois à Rome, j’ai vu quelque chose de choquant. En sortant de l’hôtel, je me dirigeai vers
-cette place où il y a la “Fontaine des trois sous”. En chemin, je ne sais combien de femmes nous
-accostèrent, l’agent de la TWA, Billy et moi. Je demandai à l’agent: «Est-ce que ces femmes sont
-obligées de faire ce métier-là?».
-101 Il me répondit: «Non. Elles en ont pris l’habitude avec les soldats. Bien qu’elles aient toutes un
-bon travail, elles continuent». C’est dans un tel quartier que je vis affiché à l’entrée des
-catacombes Saint-Ange, sur l’ordre du Vatican, un écriteau sur lequel il était écrit: «Avis aux
-femmes américaines: Par respect pour les morts, veuillez vous habiller avant d’entrer».
-102 Une fois, à Paris, j’ai vu une fille américaine… Autrefois notre mode venait de Paris. Mais
-cette fille, qui était avec ses parents, était vêtue d’une manière tellement immorale que les soldats
-qui travaillaient là laissèrent tous tomber leurs pelles et leurs pioches et accoururent pour voir
-passer cette fille américaine.
-
-                                   http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 13
-103 Maintenant, c’est l’Amérique qui donne le ton à la mode. Avant, c’était Paris; mais maintenant
-c’est ici que l’on vient chercher cette souillure vulgaire et déchue. Et dire que ce pays vient de
-passer par un réveil dans le baptême du Saint-Esprit avec notre merveilleux Seigneur Jésus
-manifestant Ses signes et les merveilles de Sa grâce, nous montrant que nous sommes dans les
-mêmes temps que Noé et qu’il y a aussi une lampe rouge qui clignote dans toutes les directions,
-un Dieu qui peut ressusciter les morts, un Dieu qui peut nous annoncer les choses à l’avance et
-les faire arriver exactement sans la moindre défaillance! Mais vous pouvez prêcher autant que
-vous voudrez à nos femmes américaines: d’année en année elles deviennent pires!
-104 A Durban, en Afrique du Sud, il y avait environ 200 000 noirs rassemblés lors de la réunion où
-Dieu fit ce grand miracle. Il y avait là trente mille indigènes des plus primitifs. Les hommes comme
-les femmes étaient nus, sauf une espèce de petit ouvrage de perles de quatre pouces sur quatre
-qui leur pendait devant. Ils étaient nus et ne possédaient qu’une peau de chèvre qu’on leur donnait
-quand ils avaient un certain âge. Ils s’en servaient comme vêtement, comme couverture, et
-lorsqu’ils mouraient on les enveloppait dedans pour les enterrer au coin d’un champ.
-105 Je vis ces femmes qui étaient si primitives que l’une d’elles accoucha à moins de dix mètres
-de moi! Elle n’alla pas à la maternité. Une autre femme l’aida pendant un petit moment et au bout
-de cinq minutes, tout était terminé. Elle prit son bébé et se mit à le nourrir. Vous voyez à quel point
-ces gens sont primitifs. Mais lorsque ces gens virent la puissance du Dieu Tout-puissant
-descendre sur le petit garçon qui était tellement malade qu’il n’avait même pas sa raison, quand ils
-le virent se lever ayant toute sa raison et se mettre à louer Dieu, trente mille indigènes primitifs
-reçurent Jésus-Christ comme leur Sauveur personnel. Que se passa-t-il alors? Rappelez-vous que
-trente mille, c’est dix fois plus que le nombre de ceux qui se convertirent le jour de Pentecôte —
-trente mille!
-    Je vis ces femmes de mes propres yeux. Lorsqu’elles se jetèrent face contre terre, brisant
-leurs idoles et donnant leur vie à Jésus-Christ, elles ne connaissaient rien. La plupart d’entre elles
-n’avaient probablement jamais entendu Son Nom. Lorsqu’elles tombèrent à genoux, je leur
-demandai, si elles étaient sincères, de briser leurs idoles; elles les brisèrent. Elles s’étaient mises
-à genoux et avaient donné leur vie à Christ pendant que je priais pour elles, puis elles se levèrent.
-Et ces femmes qui se tenaient les bras pendants, ne sachant pas qu’elles étaient nues, aussitôt
-que la Vie de Christ toucha leur vie, je les vis replier leurs bras autour de leurs corps et s’éloigner
-de la présence des hommes. Et si l’attouchement de Jésus-Christ peut faire faire cela à un être
-hors de toute civilisation, que ne devrait-Il pas faire à une nation qui entend l’Evangile depuis des
-siècles? Cela je l’ai vu de mes propres yeux; ce n’est pas quelque chose que l’on m’a raconté. Je
-l’ai vu. Il est étrange que nous prenions le nom de chrétiens et que chaque année nous nous
-dévêtions un peu plus. Et les églises ne semblent pas se soucier le moins du monde de cela.
-106 La télévision exalte la chair de la femme. Elle n’est pas une déesse, mais cela place les
-Etats-Unis dans la position exacte pour accomplir l’Ecriture. Le nombre des U.S.A. est treize.
-L’Amérique a toujours fait de la femme un objet de culte. Elle est représentée sur notre monnaie;
-on la trouve partout. Et le temps n’est certes pas bien éloigné où nous aurons une déesse
-américaine. Vous pouvez voir la main qui écrit sur la muraille.
-107 Qu’allons-nous faire? Descendez dans la rue et regardez: voyez toutes ces femmes qui se
-promènent en ville dans des vêtements qu’une femme honnête devrait avoir honte de porter dans
-sa propre chambre à coucher. Elles se promènent dans la rue dans des petits vêtements de rien
-du tout tellement serrés… et ces petits bikinis qu’elles mettent à la plage, ne se rendant pas
-compte qu’en elles règne un mauvais esprit! Et beaucoup de ces femmes-là chantent dans des
-choeurs d’église! Mais c’est ce que Jésus a dit qui arriverait.
-108 La femme n’est que chair et sang; ce n’est pas un dieu. A mon avis, (que Dieu me pardonne
-si je me trompe), c’est un striptease en grand. On ne peut guère jeter le blâme sur un non-chrétien
-s’il tombe dans la tentation et qu’il ne puisse pas se retenir de faire le mal. Il est même étonnant
-que cela ne fasse pas plus de ravages, vu le nombre de femmes qui marchent dans cette voie.
-Mais quand cela arrive, comment pourrait-on blâmer l’homme? Blâmons ce qui mérite d’être
-blâmé!
-109 Les femmes me diront: «Frère Branham, je suis parfaitement honnête!». Je n’en doute pas,
-ma soeur, mais savez-vous qu’au jour du jugement vous aurez à répondre et que vous serez
-accusée d’adultère pour vous être ainsi donnée en spectacle au point que des hommes vous ont
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 14
-convoitée? Jésus a dit: “Quiconque regarde une femme pour la convoiter a déjà commis un
-adultère avec elle dans son cœur”. Il aura à répondre de cela. Peut-être que vous n’avez pas
-commis l’acte, mais si vous permettez à Satan de mettre cet esprit en vous alors que la nature
-elle-même devrait vous enseigner que c’est mal… Même sans l’Esprit de Dieu, la nature devrait
-vous montrer que c’est Malachie 110 Je prédis que bientôt on va les voir sortir dans la rue avec cette espèce de chose qui
-ressemble à une feuille de figuier. Je l’ai prédit il y a trente ans en disant que c’était une insulte à
-la Bible. Vous voyez? Mais elles le feront. C’est du striptease sur la voie publique.
-111 Aujourd’hui, le diable fait la même chose parmi les fils de Dieu. C’est vrai! Regardez
-seulement le monde des affaires. La plupart de nos affaires sont dirigées par des femmes. Il y en a
-des quantités. C’est vrai. Voyez nos églises, voyez cette nation, voyez comment les fils de Dieu
-s’inclinent bassement devant cet objet de culte, la femme! Pour moi, elles ne sont rien de plus que
-des filles publiques. C’est terrible à dire, mais c’est la vérité toute nue. Je suis parfaitement
-conscient du fait que les gens entendront ces bandes et répéteront ce que je dis. Mais comment
-pourrait-on dire le contraire? Si vous vous présentez dans cet état et qu’un homme vous regarde,
-Jésus dit que vous commettez adultère avec cet homme. Et cet homme aura à répondre de
-l’accusation d’adultère. Mais à qui sera-ce la faute? A la femme qui s’est dévêtue ainsi et s’est
-présentée devant le pécheur. C’est vrai! Et de quoi est-ce le signe? C’est la lumière rouge du
-temps de la fin!
-112 La femme refuse sa vocation de mère; les nations se désagrègent. Si vous voulez voir cela,
-lisez Matthieu 5.28. Tout est là. Tomber sous la puissance du sexe a été la ruine… Si vous voulez
-suivre cette évolution, les exemples ne manquent pas. J’ai suivi la chute de quelques peuples:
-l’Egypte, l’Assyrie, Rome et d’autres. Ils sont tombés à cause du pouvoir de la femme.
-113 Remarquez pourtant qu’à part le salut, Dieu n’a rien pu donner à l’homme de meilleur qu’une
-brave femme. Personne ne peut comme elle réconforter un homme lorsqu’il est fatigué. Il ne se
-confiera jamais à qui que ce soit comme à sa femme. Et vous, frères, vous pouvez vous estimer
-heureux si vous avez une gentille femme qui est pure, droite, morale, et qui peut vous parler quand
-vous rentrez fatigués à la maison. Elle peut faire plus pour vous que n’importe qui d’autre. C’est
-vrai. Elle est un joyau; elle est une reine.
-114 Mais rappelez-vous que la femme a été faite pour l’homme et non l’homme pour la femme.
-L’homme est la dernière créature de Dieu. La femme est un dérivé de l’homme, elle a été tirée de
-l’homme. Elle a été faite pour l’homme, et non pas l’homme pour elle. Et l’homme tombe lorsqu’il
-se met à adorer la femme. C’est exactement ce qui est arrivé au commencement. Comme Adam,
-fils de Dieu, ne pouvait être tenté de faire le mal, Satan entra dans la personne appelée le serpent,
-qui était semblable à l’homme. C’est là que tout commença. Et Eve sortit de l’abri de la Parole de
-Dieu et ce fut le point de départ de tous les brisements de coeur et de tous les cimetières. C’est là
-le point de départ de tout péché qui a été commis depuis lors. Voilà.
-115 La femme a été la cause de la chute au commencement, et elle reprend cette position à la fin.
-C’est elle qui a commencé; c’est elle qui termine. Il n’est pas étonnant que la Bible dise que les
-réchappés de Sion seront glorieux aux yeux du Seigneur.
-116 Ésaïe 5 nous montre comment les femmes deviendraient immorales dans les derniers jours,
-comment elles s’habilleraient, comment elles se coifferaient, etc. La Bible en parle dans Ésaïe 3.
-Elle nous montre comment elles marcheraient en faisant claquer leurs souliers à hauts talons,
-comment elles rouleraient leurs bas sur leurs chevilles et tout ce qu’elles feraient. Il est dit que tout
-cela leur serait ôté et qu’elles s’assiéraient dans la puanteur de leur immoralité. Il est dit que sept
-femmes s’agripperaient à un homme en disant: “Nous gagnerons nous-mêmes notre pain! Mais
-laisse-nous simplement porter ton nom afin de nous délivrer de notre opprobre!”.
-117 Mais Il a montré combien il serait glorieux, ce petit rejeton qui échapperait à toutes ces
-choses! Comment il sanctifierait le Seigneur en ces jours avec ces femmes véritablement nées de
-nouveau qui connaîtraient leur place et y resteraient même si on se moquait d’elles, qu’on les dise
-folles et démodées, etc. Mais elles se conduiraient comme des femmes de bien, se tiendraient
-comme des femmes de bien, s’habilleraient, parleraient et vivraient comme des femmes de bien!
-Oui! Amen! (Amen! veut dire ainsi soit-il!). Ne vous effrayez pas! Cela ne vous fera pas de Malachie 118 C’est la Parole de Jésus Elle-même qui a dit ce qui arriverait, qui nous l’a montré clairement.
-
-        http://www.cmpp.ch
-
-    LE SIGNAL ROUGE DE SA VENUE    15
-119 Il nous a montré ce qui arriva du temps de Lot. si vous voulez le noter, c’est dans Luc 17.28. Il
-dit que les hommes mangeaient, buvaient, achetaient, vendaient, plantaient, bâtissaient…
-Normalement ce sont des choses légitimes, mais (faites bien attention à cela) ces hommes ne
-pensaient à rien d’autre qu’à cela.
-120 Du temps de Lot les femmes étaient devenues tellement immorales que les hommes
-abandonnèrent l’usage normal de la femme et se pervertirent pour aller entre eux. La différence
-naturelle des cellules sexuelles avait changé parce que les femmes étaient devenues si
-mauvaises.
-121 Il y a quelques jours, j’étais à Tucson dans un magasin où j’avais acheté du pain. Il y avait un
-garçon dehors et deux petits garçons dans une voiture. Un autre entra et demanda un paquet de
-cigarettes. Le vendeur, un homme aux cheveux gris, l’examina et demanda: «Pour qui sont ces
-cigarettes, pour ta mère?». Le gamin répondit: «Non, elles sont pour ce garçon là-bas!». Le
-vendeur reprit: «Est-il assez âgé pour en avoir?». Le gamin répondit: «Oui, Monsieur!». Le
-vendeur le regarda d’un drôle d’air. J’étais là, une miche de pain dans une main et une bouteille de
-lait dans l’autre, et je regardais. Le vendeur dit à l’enfant: «Très bien!» et lui donna les cigarettes.
-Puis il me regarda et dit: «Je doute qu’il ait l’âge!».
-122 Je lui dis: «Il ne peut pas avoir l’âge. Quel que soit l’âge, on, n’est jamais assez âgé pour
-cela!». Il me dit: «Je suis d’accord avec vous. Avez-vous eu de la peine à arrêter de fumer?».
-123 Je lui répondis: «Je n’ai jamais commencé. Mes parents étaient des fumeurs, mais le
-Seigneur Dieu m’a préservé de cela».
-124 Il se tourna vers moi et me regarda curieusement, puis me dit: «Je trouve honteux la manière
-actuelle de mettre la femme sur un piédestal. Autrefois on l’honorait. On ôtait son chapeau en sa
-présence. Si l’on entendait un homme faire une remarque désobligeante à une femme, on lui
-flanquait une raclée. On honorait les femmes! Mais si les choses sont ce qu’elles sont aujourd’hui,
-ce sont elles qui l’ont cherché! Avant, dans un transport public, lorsqu’une femme entrait, tous les
-hommes se levaient et ôtaient leur chapeau jusqu’à ce qu’elle se soit assise. Aujourd’hui cela ne
-se fait plus. On se pousse, on se bouscule… Mais ce sont elles qui l’ont cherché!». C’est la vérité.
-Elles sont tombées sous l’emprise démoniaque de Hollywood puis cela est venu dans les journaux
-et la télévision jusqu’à ce que tout cela ne devienne plus qu’un grand vase plein de souillure. C’est
-vrai!
-125 Je sais que ce n’est pas en disant cela que je me ferai des amis, mais c’est la stricte vérité.
-C’est la vérité! C’est la Parole du Seigneur, et c’est aussi un signe précurseur de la venue de
-Christ dans notre génération. La Parole dit: “Cette génération ne passera point, que tout cela
-n’arrive”. Elle dit encore: “Le ciel et la terre passeront, mais mes paroles ne passeront point”. C’est
-un avertissement, un signal rouge qui clignote pour nous avertir que le rideau va bientôt tomber.
-Nous sommes au temps de la fin.
-126 Nous voyons les signes du Seigneur Jésus lorsqu’Il guérit les malades, qu’Il ressuscite les
-morts et chasse les mauvais esprits. Nous voyons le peuple sanctifié par le Saint-Esprit. Nous
-voyons des vies changées. Nous voyons de grands signes. Nous voyons dans le ciel des signes
-mystiques comme les soucoupes volantes. Le Pentagone, les gens qui parlent de cela à la
-télévision, ceux qui écrivent des livres à ce sujet, personne ne sait que penser de cela. Il y a toutes
-sortes de signes mystérieux, le Seigneur Jésus descend sous la forme d’une colonne de feu, on
-prend des photos de cela, on peut voir qu’Il est vivant parmi nous, le Même hier, aujourd’hui et
-éternellement.
-127 Nous voyons toutes ces choses arriver. Nous voyons la froideur de l’église. Nous voyons la
-croissance des dénominations. “Dès que les branches du figuier deviennent tendres et que les
-feuilles poussent…”. Nous voyons le figuier, c’est-à-dire les Juifs, retourner dans leur propre pays.
-Nous voyons les Presbytériens, les Méthodistes, les Baptistes, les Luthériens, les Pentecôtistes,
-toutes les églises pousser leurs feuilles dans les réveils… Il a dit: “Préparez-vous car le temps est
-proche”. Quand nous voyons toutes ces choses arriver, c’est le temps où Dieu Se prépare à
-appeler Ses élus. Il y a tous ces signes: “Quand vous verrez les femmes devenir extrêmement
-belles, quand vous verrez les fils de Dieu prendre des femmes parmi les filles des hommes, quand
-vous verrez les hommes faire ceci et cela…”. Il a dit: “Alors vous saurez que le temps est proche,
-à la porte!”. Nous en sommes là!
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 16
-128 J’ai encore noté une référence. Souvenez-vous des deux filles de Lot (oui, nous nous en
-souvenons!) dans la ville de Sodome. Jésus a dit dans Luc 17: “Ce qui arriva du temps de Lot…”.
-Rappelez-vous que les hommes avaient changé l’usage des femmes au point que l’acte naturel de
-la vie n’était plus désiré. C’est terrible de dire cela du haut de la chaire, mais si jamais la vérité doit
-être dite, c’est ici du haut de la chaire. Et tout va si mal aujourd’hui qu’il y a des dizaines et des
-dizaines de milliers de pervertis, de Sodomites, et cela va toujours en croissant.
-129 Comme il en était du temps de Sodome, l’usage naturel de l’homme de se reproduire sur la
-terre a été tellement maltraité qu’il a presque disparu et que, au train où vont les choses, le désir
-de se reproduire disparaîtra très rapidement. Si cela continue, d’ici dix ou quinze ans il n’en restera
-pratiquement plus rien. J’avais noté des remarques qu’avait faites Edgar Hoover à ce sujet, mais
-je m’aperçois que je ne les ai pas ici.
-130 Nous allons encore découvrir des choses sur ce sujet. Nous lirons dans l’épître de Jude, ce
-grand petit livre, comme je l’appelle. Lisons le verset 7. C’est le dernier avant l’Apocalypse. Il s’agit
-des gens qui rompent les liens du mariage et vont après une chair étrangère. Ecoutez.
-       “…comme Sodome et Gomorrhe, et les villes d’alentour, s’étant abandonnées à la
-     fornication de la même manière que ceux-là, et étant allées après une autre chair, sont là
-     comme exemple, subissant la peine d’un feu éternel” (c’est-à-dire qu’ils sont
-     complètement consumés et anéantis).
-131 Il y a quelque temps, à Los Angeles, je devais aller au terrain de camping. Sur la route, je
-dépassai une fille qui marchait le long de la chaussée. Elle était très jolie. Elle était vêtue d’une
-espèce de costume de trappeur qui se limitait à une sorte de bande sur le devant, large d’environ
-six à huit pouces avec des franges de trois ou quatre pouces et plus bas un petit bout de tissu si
-minuscule que vous auriez pu, en le froissant un peu, le cacher complètement en le serrant dans
-la main. Elle était couronnée d’un chapeau de cow-boy et chaussée de bottes ornées de glands.
-Avec cela elle était très séduisante. Je pouvais imaginer les jeunes gens s’arrêter dans un grand
-bruit de freins pour la prendre et repartir en zigzaguant sur la route…
-132 Je continuai ma route. En arrivant près du terrain de camping, j’eus tout à coup l’idée de faire
-demi-tour et de m’arrêter vers cette fille pour lui dire: «Jeune fille, je voudrais vous parler au Nom
-de notre Seigneur Jésus-Christ. Vous êtes une jolie fille, pas de doute à cela! Cela vous fait
-probablement plaisir d’entendre ces grincements de freins. Mais comprenez-vous que l’esprit qui
-vous pousse à faire cela vous conduira pour finir dans l’enfer où vous souffrirez dans les âges à
-venir? Vous rendez-vous compte que ce joli petit corps, si bien formé, ces joues fraîches, ces
-beaux cheveux, ces lèvres rouges, tout cela pourrait être dans moins de six mois sous la terre en
-train d’être rongé par les vers? Et que cette âme qui est en vous aujourd’hui serait alors dans les
-tourments de l’enfer?».
-133 Mais quelque chose m’arrêta comme si Dieu disait: «Si tu fais cela, on te mettra en prison!».
-Vous comprenez? Voilà. Billy sortit de la voiture et me fit signe de venir car il était temps d’aller
-écouter l’assemblée chanter Crois seulement.
-134 Oh, mes frères! Comment les gens peuvent-ils être ensorcelés par de telles choses? C’est
-parce qu’ils méprisent la Parole de Dieu.
-135 Autre chose encore. Les prédicateurs associés aux organisations qui lisent ces choses et les
-connaissent ont l’interdiction d’en rien dire parce que cela éloignerait d’eux leurs assemblées. Et
-ces églises cherchent à faire des membres. Mais Dieu, Lui, cherche des saints nés de nouveau
-dans le Dieu Vivant et qui brilleront comme des étoiles. Que Dieu nous aide à être honnêtes et à
-dire la vérité qui est ce que Jésus-Christ a dit. Mais voilà dans quels temps nous vivons! Ce sont
-les signes annoncés par Jésus, et nous les voyons clairement devant nous.
-136 Nous revenons toujours à Jude, verset 7: l’histoire de Sodome et de Gomorrhe se répète.
-C’est terrible! Les hommes vont avec des femmes sans être mariés avec elles: ils vont après une
-autre chair. Lorsqu’un homme et une femme sont mariés, ils ne sont plus deux, mais un. Et un
-homme qui va avec une autre femme se sépare automatiquement de la sienne. Et une femme qui
-va après un autre homme est morte pour son mari. Elle a renié sa propre chair, elle s’est
-retranchée de lui. C’est vrai! Au jour du jugement ils auront à répondre de cela.
-137 Mais aujourd’hui ils ne veulent pas écouter un pareil message! Les gens n’ont pas envie
-d’écouter cela. Ils veulent entendre quelque chose qui flatte leurs oreilles. C’est exactement ce
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 17
-que le Saint-Esprit m’avait dit lorsque j’avais posé la première pierre de l’église. Il m’avait dit:
-“Prêche la Parole, insiste en toute occasion, favorable ou non, reprends, censure, exhorte, avec
-toute douceur et en instruisant. Car il viendra un temps où les hommes ne supporteront pas la
-saine doctrine: mais, ayant la démangeaison d’entendre des choses agréables, ils se donneront
-une foule de docteurs selon leurs propres désirs, détourneront l’oreille de la vérité, et se tourneront
-vers les fables”. Il m’avait dit: «Quand la vision te quittera, lis 2 Timothée 4». Il dit: «N’oublie pas,
-2 Timothée 4!». Puis la vision me quitta. J’étais là, moi jeune homme de dix-neuf ans me tenant
-dans cette 7ème Rue. La Voix de Dieu m’avait parlé dans ma chambre me disant: «2 Timothée 4!».
-C’est exactement ce qui se passe maintenant.
-138 Le temps viendra où ils ne supporteront pas la saine doctrine. Les Pentecôtistes veulent
-quelqu’un qui leur tape gentiment sur l’épaule et les laisse vivre à leur guise, jouer du piano et
-chanter les cantiques à toute vitesse, sauter en l’air et danser, laisser les femmes faire comme
-elles font actuellement, et les hommes de même. Chez les Presbytériens, les Méthodistes, les
-Luthériens, les Baptistes, dans toutes ces organisations il y a beaucoup de personnes sincères.
-C’est l’exacte vérité. Mais ces systèmes les ont tellement liées qu’elles s’imaginent que dès
-qu’elles appartiennent à une église et que leur nom est inscrit dans leur livre, elles sont prêtes
-pour le Ciel. Avoir votre nom inscrit dans un de ces livres ici sur terre ne signifie pas plus que cela!
-[frère Branham fait claquer ses doigts — N.d.R.] devant Dieu. Votre nom doit être inscrit dans le
-Livre de Vie de l’Agneau par le Sang de Jésus-Christ, témoignant ainsi que vos péchés sont
-pardonnés. C’est vrai!
-139 Mais eux préfèrent ce genre de pasteurs. Ils ne veulent rien d’autre. Et pourtant tous les dons
-qui ont été donnés dans la Bible, tous les dons que Jésus-Christ avait promis, tous les dons, tous
-les signes, tous les signes du temps de la fin, tout ce qui avait été promis dans la Bible, pour
-autant que je peux le voir moi-même, tout a déjà été présenté devant cette nation! Mais elle n’en
-plonge pas moins aussi vite qu’elle le peut dans la direction de l’enfer. Dites-leur ces choses si
-vous voulez, de toute manière ils continueront à courir dans cette direction. Je vous donnerai
-encore juste quelques passages de l’Ecriture avant de terminer. La Bible dit qu’ils se dirigent vers
-la destruction éternelle.
-140 Aujourd’hui cette nation est plongée dans la même pourriture sociale. Elle y est ce soir même.
-Vous le savez! Je ne plaisante pas. Je ne parle pas par ouï-dire. C’est la vérité: lisez Genèse 6.12.
-Toute chair avait corrompu sa voie sur la terre. L’homme suivait ses propres voies et ses propres
-pensées, ignorant les lois de Dieu. C’est ce que fait l’homme aujourd’hui. Les hommes ne veulent
-pas écouter la Parole de Dieu. Ils ne veulent pas L’écouter: ils préfèrent suivre leurs propres voies.
-141 Jézabel refusa d’écouter la Parole du Seigneur. Elle ne voulut pas reconnaître Elie comme
-son pasteur, ce vieux barbu de prédicateur. Mais qu’elle le voulût ou non, il était bel et bien son
-pasteur. C’est vrai. Dieu l’avait envoyé et il cria son message. Il était sans instruction et les gens
-ne savaient pas d’où il venait ni où il allait. Mais il entra en scène avec la Parole de Dieu. Il donna
-son message et prêcha en condamnant tout ce qui était appelé péché. Mais cette moderne
-Jézabel avait ensorcelé et détourné le peuple tout entier par son pouvoir occulte, jusqu’à ce que
-toute la nation soit corrompue. Elie resta seul sur la montagne. Mais Dieu lui dit: “Elie, ne pense
-pas que tu es tout seul! J’en ai encore sept mille ici dont le coeur est resté honnête”. C’était son
-second pull, et le troisième devait encore venir pour eux.
-142 Mais rappelez-vous que Dieu est miséricordieux. Le message d’Elie condamnait cette
-génération incrédule. Le message de Noé condamna cette génération et fit tomber le jugement sur
-ceux qui refusèrent d’écouter, mais apporta la délivrance à ceux qui crurent. Comme du temps de
-Noé, Genèse 6, les hommes mépriseront les lois de Dieu dans le temps de la venue du Fils de
-l’homme. Ils disaient: “Parole de l’Eternel!…”.
-143 Dans la Bible, la Parole de Dieu dit… Ecoutez-moi bien! Je ne dis ceci à personne en
-particulier! Je suis seulement responsable en tant que votre frère. Je suis responsable de vous
-dire la vérité tout entière. Comme Paul l’a dit avant de nous quitter: “…Car je vous ai annoncé tout
-le conseil de Dieu, sans n’en en cacher”.
-144 La Bible nous dit aujourd’hui que la femme ne doit pas se couper les cheveux. Peu importe
-combien de prédicateurs disent que cela ne fait rien: c’est mal! Peu m’importe combien d’églises
-acceptent cela alors que la Bible dit que c’est mal! C’est honteux pour elle de le faire. Mais
-néanmoins, elles continuent! Et que font-elles en continuant? Dans leur pensée, elles se font
-
-        http://www.cmpp.ch
-
-    LE SIGNAL ROUGE DE SA VENUE    18
-jolies; elles pensent qu’elles sont jolies.
-145 Mais la Parole de Dieu les avertit de ne pas faire ces choses. Elles ne doivent pas porter de
-vêtements d’hommes, mais elles le font malgré tout. Essayez seulement de les en empêcher! Elles
-vous diront: «Qu’avez-vous à crier tout le temps contre cela, frère Branham? De quoi vous
-mêlez-vous? Des gens comme vous, il vaudrait mieux les…». Peu m’importe ce que les gens
-pensent… comprenez-moi bien: ce que les gens pensent m’importe beaucoup, mais ce qui
-m’intéresse, c’est ce que Dieu pense, et ce qu’Il pense, c’est ce qu’Il dit dans Sa Parole!
-     Si vous leur dites que c’est mal de faire cela, elles le feront de toute manière. Vous
-comprenez? Et pourquoi? Dans le monde chrétien tout entier les femmes font ainsi, mais l’église
-ne semble pas s’en soucier le moins du monde. Pourquoi? Les fils de Dieu sont tombés à cause
-de la convoitise de la chair de la femme; ils ont renié Dieu Lui-même, et le Sang qui les a rachetés
-pour les séparer de ces choses souillées. Amen! C’est la vérité! Que Dieu m’aide parce que cela,
-c’est la vérité!
-146 Essayez seulement de les en empêcher! Croyez-vous que la prédication de Noé les empêcha
-de faire ce qu’elles voulaient? Pas du tout! Alors que se passe-t-il? Parce qu’il y a une voix qui doit
-retentir! Et lorsque nous serons tous appelés au jour du jugement, le message même que je suis
-en train de prêcher ce soir me reviendra mot pour mot. Et alors, que ferons-nous? C’est une
-lampe rouge qui clignote!
-147 C’était un temps où il y avait de l’obstination parmi les femmes. Nous sommes ici pour
-montrer ces choses parce qu’il s’agit de femmes. Vous devez vous demander pourquoi je suis
-toujours en train de crier contre ces choses. J’ai ici un grand nombre de passages bibliques et je
-vous montrerai pourquoi avant de clore. C’est la raison pour laquelle je dois rester fidèle à la
-Parole, et que tout serviteur de Dieu devrait rester fidèle à la Parole. Vous devez rester fidèle
-parce qu’il faut qu’il y ait quelque part une voix qui crie contre ces choses. Peu importe ce que font
-les autres: vous n’êtes pas responsable pour eux. Vous devrez répondre personnellement pour
-vous. Vous ne devrez pas répondre en tant que Méthodiste, Baptiste ou Pentecôtiste; vous
-répondrez devant Dieu en tant qu’individu pour votre propre vie.
-148 Nous pouvons voir tous ces signes, et pourtant elles continuent! Vous pouvez bien leur dire
-que c’est faux, vous verrez ce qu’elles diront. Elles sont obstinées! C’est exactement comme cela
-que fit Eve. Et pourtant elle aurait dû savoir ce qu’elle devait faire! Mais l’a-t-elle fait? Elle avait la
-Parole de Dieu qui disait: “Le jour où tu en mangeras, tu mourras!”. Alors pourquoi en a-t-elle
-mangé? Parce qu’elle voulait suivre ses propres voies. Pourquoi les femmes veulent-elles couper
-leurs cheveux? Pourquoi veulent-elles porter ces vêtements alors que la Bible leur dit exactement
-ce qu’elles sont censées faire? Et lorsqu’elles font ces choses-là, elles sont condamnées. C’est
-l’exacte vérité! Alors pourquoi le font-elles quand même? Parce qu’elles ne veulent en faire qu’à
-leur tête. Parfaitement! Elles veulent suivre leurs propres voies. Et l’église ne dit rien là-contre!
-L’église ne dit rien là-contre alors qu’elle est censée être l’Epouse de Jésus-Christ. L’église ne dit
-rien.
-149 Si vous leur dites quelque chose, vous savez ce qu’elles vous répondront? C’est tout comme
-si elles vous disaient ceci: «Je ne laisserai pas une vieille Bible me barrer le chemin et
-m’empêcher de m’amuser un peu!». Exactement! Elles ne vous le diront peut-être pas en ces
-termes, mais c’est bien ce qu’elles veulent dire. Vous aurez beau leur dire que cela est écrit dans
-la Bible…Connaissez-vous ce vieux proverbe qui dit: «Nos actions parlent plus haut que nos
-paroles?». N’est-ce pas vrai? Les actions parlent plus haut que les mots! Quoi que vous disiez,
-votre vie parlera tellement plus fort que l’on ne pourra pas entendre le témoignage de votre
-bouche. Comme je l’ai dit ce matin, ne vous glorifiez pas plus haut que votre manière de vivre.
-Vous comprenez? Vos actions parlent plus haut que vos paroles. Parlez simplement comme vous
-êtes parce que quoi que vous disiez, vos actions diront, elles, ce que vous êtes. Si vous parlez
-autrement que ce que vous êtes réellement, cela devient de l’hypocrisie. Jésus a dit: “Races de
-vipères, comment pourriez-vous dire de bonnes choses, méchants comme vous l’êtes? Car c’est
-de l’abondance du coeur que la bouche parle”. Vous comprenez, ils disaient quelque chose qu’ils
-ne pensaient pas. Vous voyez, les femmes diront de toute façon: «Je veux faire ce qui me plaît!».
-150 Que leur est-il arrivé? Voici encore un passage de la Bible. Dans les voeux du mariage, il y a
-le mot soumission. La femme est la gardienne du foyer, chaste et faisant toutes sortes de bonnes
-oeuvres. Mais aujourd’hui elles vous rient au nez et vont travailler à l’usine ou au bureau. — «Mon
-
-        http://www.cmpp.ch
-
-LE SIGNAL ROUGE DE SA VENUE 19
-mari…». Oh, j’en doute! Et ces femmes qui travaillent dans la police! Quelle honte! Est-ce que ce
-n’est pas un signe de corruption pour n’importe quelle ville? Avec tous ces hommes au chômage,
-ils engagent des femmes alors que la Bible dit qu’elle doit rester à la maison, qu’elle est la
-vertueuse gardienne du foyer. Mais c’est elle qui tient à jour le carnet de rendez-vous du patron!
-Vous devriez les voir… Mais attention! Je ne parle pas ici des femmes vertueuses! Je ne veux pas
-lancer cette accusation à vous qui êtes vraiment de saintes femmes. Que Dieu vous bénisse! Cela
-est enregistré et va partout. Mais ce que je veux dire, c’est que pour une sainte on en trouve
-quinze cents qui ne le sont pas! Celles-ci n’écouteront pas un mot de ce qu’on pourrait leur dire. —
-«Gardez votre Bible pour vous! Prêchez-la à vous-même! Nous ne voulons pas écouter cela».
-151 La soumission! Elles diront quelque chose comme ceci: «Racontez vos vieilles histoires
-bibliques à d’autres! Gardez votre Dieu et donnez-Le à qui vous voudrez, et laissez-moi tranquille!
-Pourquoi criez-vous toujours contre moi? Je ne vous ai jamais demandé de me dire ces choses!»
-— Je le sais, mais Dieu, Lui me l’a demandé. Vous comprenez? Tout est là!
-152 Elles ont corrompu leurs voies. Comme le dit le Seigneur, ce qu’elles firent autrefois et ce
-qu’elles font aujourd’hui est exactement pareil. Il n’y a eu aucun changement: cela ne change pas;
-cela ne changera pas.
-153 La délinquance juvénile finit par atteindre leurs enfants; la prison prend une partie des
-hommes et des femmes, et l’enfer engloutira le tout. C’est l’exacte vérité. Le Feu les engloutira
-tous. Et la prédication de la Parole semble leur glisser sur le dos comme l’eau sur les plumes d’un
-canard. Elles n’écoutent même pas! Elles disent: «Gardez votre Bible pour vous! Nous, nous
-voulons nous amuser!».
-154 Je peux entendre quelques soeurs dire (peut-être pas ici en ce moment): «Moi, être soumise
-à mon mari? C’est moi qui le fais obéir!». Eh bien, c’est là que vous vous trompez! — «Rester
-chastement à la maison? Je me fiche de ce que dit la Bible! Laissez-moi tranquille!». Ecoutez,
-soeurs. Il ne s’agit pas de remonter jusqu’au moyen-âge. C’est la voix qui parle aujourd’hui.
-Depuis le déluge, rien de pareil n’était arrivé, mais cela arrive de nouveau aujourd’hui. C’est pareil!
-155 Elles diront encore: «Je suis une femme moderne, je vis en Amérique!». Cela n’a pas plus de
-signification que si vous viviez dans une porcherie. Le pays dans lequel vous vivez n’a aucune
-importance pour Dieu. Vous êtes ce que vous êtes dans votre coeur. C’est vrai. Et ne pensez pas,
-soeur, que vous êtes si moderne que cela, que vous êtes une de ces femmes modernes, comme
-vous le prétendez. D’après la Bible, vous venez de ces âges de ténèbres d’avant le déluge, de
-l’époque de Noé. En ce temps-là, elles faisaient comme aujourd’hui. C’est pourquoi vous n’êtes
-pas aussi moderne que cela, n’est-ce pas? Et si elles agissent ainsi aujourd’hui, cela veut dire que
-nous sommes de nouveau dans ces âges de ténèbres, dans ces grandes ténèbres.
-156 Et vous les hommes, si vous laissez votre femme agir ainsi, vous n’êtes plus des fils de Dieu.
-Si vous laissez les femmes vous diriger, c’est comme si vous étiez retombés dans Sodome! C’est
-vrai!
-    Maintenant, je ne sais pas si je vais dire ceci ou non. Peut-être que je ferais mieux de le
-sauter… C’est terrible!
-157 Toutes ces choses nous montrent le temps dans lequel nous vivons. Pouvez-vous discerner
-le clignotement de cette lampe rouge?
-       La trompette du Seigneur sonnera,
-       Et il n’y aura plus de temps.
-       L’aube poindra, éternelle, brillante et claire;
-       Alors Ses élus se rassembleront (de la poussière de la terre)
-       Pour entrer dans leur Maison au-delà des cieux. (Quel jour glorieux ce sera!)
-158 Nous revivons les temps de Sodome. Mais ne vous en faites pas, il y a des bombes
-atomiques qui n’attendent que le moment de purifier la terre tout entière. Cela arrivera. Alors elle
-sera renouvelée, comme nous l’avons vu dans le sixième Sceau, pour un groupe de gens qui ont
-accepté le Seigneur Jésus, qui sont devenus des chrétiens, qui ont abandonné les soucis et les
-modes de ce monde et sont venus à Jésus-Christ, regardant à Lui et à Lui seul, dans Son
-programme simple et humble qui consiste simplement à venir à Lui, à croire en Lui et à recevoir la
-Vie éternelle. Et si vous dites que vous avez la Vie éternelle mais que vous êtes en désaccord
-avec la Bible, votre vie éternelle n’est pas la Vie éternelle que Dieu donne. Vous êtes trompés par
-
-        http://www.cmpp.ch
+Nous pouvons voir dans l’histoire que la femme avait un tel “sex-appeal” que les fils de Dieu firent d’elle un objet de culte. Pensez à Venus et à toutes les autres. Ils en firent des objets de cultes devant lesquels ils se prosternèrent. Vous direz peut-être: «Frère Branham, nous n’avons pas de telles choses aujourd’hui; il ne faut pas comparer avec ce temps-là!». Je vous demande pardon! Je crois que c’est pire aujourd’hui qu’alors.
+86 Que voyons-nous? il y a la télévision… Dans les journaux on ne voit que des femmes. Sur les emballages de whisky, dans les journaux, partout on ne voit que de jolies filles “sexy” et vêtues d’une manière immorale. A la télévision, partout, c’est pareil. Où que vous regardiez, réclames pour les cigarettes ou autres choses, on voit partout des jolies femmes. Ils ne peuvent pas vendre une paire de bas sans montrer une paire de jambes sur l’emballage! C’est vrai! Qu’est-ce que cela signifie? Pourquoi est-ce ainsi?
+87 Je me souviens d’un homme qui habitait au coin de la rue et pour lequel j’avais travaillé, Chris Meisner. Beaucoup d’entre vous s’en souviennent. Sa femme s’appelait Lilian et venait d’Ellinger. Elle était fort belle. Autrefois un homme vint pour demander la permission à son père de prendre une photo d’elle pour décorer des boîtes de bonbons. Mais son père, un vieux Luthérien allemand, se redressa de toute sa hauteur et lui dit: «Ce serait une insulte pour moi que de voir la photo de ma fille imprimée sur une boîte de bonbons qui sera vendue dans tout le pays!». Aujourd’hui on voit partout, sur les panneaux d’affichage, à la télévision, partout, ces photos de femmes vulgaires, “sexy”, impies! Vous voyez? Le train est sur le point d’entrer en gare! C’est la Bible qui le dit: il va venir très bientôt. Nous, pouvons déjà en entendre le bruit.
+88 Nous avons montré d’autres choses à ce sujet, mais rappelez-vous que ceci est aussi une lampe, une de ces lampes qui clignotent aujourd’hui devant nos yeux. Nous voyons l’état de la nation. Nous voyons les troubles politiques. Nous voyons l’état de l’église. Nous prêchons sur tout cela, mais il y a ici quelque chose de nouveau. C’est quelque chose que les gens n’aimeront pas entendre, mais il faut pourtant en parler parce qu’il faut qu’il y ait une voix qui proclame cela. Et rappelez-vous que les paroles que je prononce pour vous ce soir, je les entendrai le jour du jugement.
+89 Il n’y a pas longtemps, j’avais eu une vision du Seigneur me montrant cette femme (je ne me souviens jamais de son nom)… Marilyn Monroe. Je ne l’ai jamais vue: je ne vais pas au cinéma. Mais j’ai vu cette fille; elle était très séduisante. Elle essayait d’atteindre quelque chose. Elle était en train de mourir d’une crise cardiaque. Le Seigneur me dit: «Tu diras qu’elle est morte à quatre heures. Elle ne s’est pas suicidée. Tu diras qu’elle est morte à quatre heures, parce que c’est juste quelques secondes avant quatre heures». Et je vis où on l’avait trouvée. Je racontai cela à Billy, à la famille et à ceux qui étaient présents. Quelques jours plus tard, on annonça la mort de Marilyn Monroe.
+90 L’autre jour, j’étais au Canada et les enfants me parlaient tout le temps d’une maison qu’une dame nous prêtait et qui avait une télévision. Il y avait un film annoncé au programme; il s’intitulait: La rivière du Non-Retour. C’est à cette rivière que je vais toujours à la pêche. Il y a aussi un de mes amis, John Smith, qui y va toujours. Les enfants me dirent: «Ils ont fait un film sur cette rivière. Peut-être que nous pourrons y voir Mr Smith. Est-ce que tu voudrais le regarder?». Je leur répondis: «Eh bien, lorsque je rentrerai du Canada, si je suis à temps, je le regarderai». Lorsque le film commença, j’allai le regarder. Et qui est-ce que je vis apparaître sur l’écran? Marilyn Monroe! Il y avait plus d’une année qu’elle était morte et la voilà qui apparaissait sur l’écran, vêtue d’une manière séduisante. On pouvait aussi entendre sa voix, et on pourra l’entendre encore pendant des années et des années parce qu’elle a été enregistrée sur bande magnétique. Si cette bande a enregistré ses actions et qu’elle peut la voir ce soir d’où elle est (je crois qu’elle est sauvée, mais je n’en sais rien; c’est une affaire entre elle et Dieu), elle ne peut les nier. Elle ne peut les nier parce qu’elles ont été enregistrées. A combien plus forte raison Dieu a-t-Il enregistré chaque action, chaque mouvement de chacun de nous sur Son glorieux enregistreur! Nous ne pouvons y échapper. Tout y Esther 91 Rappelez-vous que si j’étais relié ici à une station de radiodiffusion qui transmettrait ce que je dis dans le monde entier, les auditeurs du monde entier entendraient ma voix avant même qu’elle soit parvenue de cette chaire jusqu’à vous. C’est dans le système électronique de ce monde.
+92 D’autre part, vous savez que la voix ne meurt jamais. La science affirme que dans vingt ans, si elle progresse au rythme actuel, les hommes pourront entendre littéralement la voix de Jésus-Christ quand Il était sur la terre. Et cela dans vingt ans! Parce que cela se passe comme lorsqu’on jette un caillou dans une mare. Les petites ondes peuvent disparaître de notre vue, mais la science affirme qu’elles vont d’une rive à l’autre, qu’elles peuvent traverser l’océan et le retraverser, passent d’un côté à l’autre sans jamais mourir. Il en est de même des paroles que vous prononcez: elles vous rencontreront au jour du jugement et vous condamneront ou vous sauveront. Vous ne pourrez pas passer à côté.
+93 Au travers même de cette salle passent des images de gens. Si vous ne le croyez pas, allumez votre télévision! Il y a aussi la voix de ces gens, même si nos sens ne sont pas capables de les détecter.
+94 Il y a une station d’émission et une espèce d’aimant, de tube radio ou de cristal qui capte ces voix et les reproduit. La Bible est simplement ceci: les Paroles que Jésus-Christ a prononcées, et Elles sont littéralement aussi vivantes que n’importe quelle parole qui est prononcée ce soir dans le monde, où que ce soit.
+95 Et si votre coeur a été purifié par le Sang de Jésus-Christ et qu’il devienne un poste récepteur accordé sur cet émetteur, alors pour vous Jésus-Christ est le même hier, aujourd’hui et éternellement, et Il fait les mêmes oeuvres qu’autrefois parce que Sa Parole ne peut mourir. Elle est vivante pour toujours. Nous n’avons pas besoin d’attendre vingt ans pour que la technique soit capable de réaliser un tel récepteur: nous recevons cela à l’instant même. Voilà!
+96 Nous vivons aujourd’hui dans les temps glorieux de la venue du Seigneur et partout les lampes rouges clignotent pour annoncer Sa venue. Nous pouvons le voir dans la politique; nous pouvons le voir dans l’église; nous pouvons le voir dans les temps dans lesquels nous vivons. Où que nous regardions, nous pouvons le voir. Le soleil lui-même n’a plus le même aspect qu’autrefois. La terre se déséquilibre. J’ai entendu dire que dans la région du pôle nord, la mer est devenue plus profonde qu’autrefois. Autrefois on pouvait traverser le détroit de Behring à pied. Maintenant il est devenu très profond. Pourquoi cela? Parce que la terre est en train d’enfler par le milieu. L’eau diminue là où elle était profonde et elle devient profonde là où il y en avait peu. Le monde a complètement perdu l’équilibre. Il vacille et chancelle. La nature cède de partout.
+97 Ce soir nous avons vu que la nature elle-même produit dans la race humaine le signe de Sa venue, car les filles des hommes deviennent belles et les fils de Dieu prennent des femmes parmi elles. Quels temps nous vivons! Oh, mon Dieu! Et c’était pareil en ce temps-là.
+98 L’histoire nous a montré ce phénomène choquant de l’homme qui rend un culte à la femme, et nous nous apercevons qu’aujourd’hui le monde est un monde de femmes.
+99 Il n’y a pas longtemps j’étais en Suisse. Remarquez bien que je n’ai rien contre les femmes chrétiennes: ce sont des joyaux. Ce que je dis c’est au sujet des voies du monde. Il y avait là un frère Guggenbühl et son amie. C’est un homme ayant à peu près mon âge. Il ne s’est jamais marié; c’est un vieux célibataire, et il était venu avec une jeune femme. Il y avait là plusieurs jeunes femmes. L’une d’elles me dit: «Frère Branham, parlez-nous de l’Amérique. Il paraît que là-bas, c’est le pays de la femme». Je répondis: «C’est vrai!». Elle me dit: «J’aurais toujours aimé y aller». Alors je lui expliquai les choses. Elle s’exclama: «Comment?». Je lui répondis: «Oui, c’est vraiment ainsi!». Elle changea d’opinion immédiatement. Elle me dit: «Eh bien, comment peut-on vivre comme un chrétien dans un pays pareil!». Pensez à cela!
+100 Une fois à Rome, j’ai vu quelque chose de choquant. En sortant de l’hôtel, je me dirigeai vers cette place où il y a la “Fontaine des trois sous”. En chemin, je ne sais combien de femmes nous accostèrent, l’agent de la TWA, Billy et moi. Je demandai à l’agent: «Est-ce que ces femmes sont obligées de faire ce métier-là?».
+101 Il me répondit: «Non. Elles en ont pris l’habitude avec les soldats. Bien qu’elles aient toutes un bon travail, elles continuent». C’est dans un tel quartier que je vis affiché à l’entrée des catacombes Saint-Ange, sur l’ordre du Vatican, un écriteau sur lequel il était écrit: «Avis aux femmes américaines: Par respect pour les morts, veuillez vous habiller avant d’entrer».
+102 Une fois, à Paris, j’ai vu une fille américaine… Autrefois notre mode venait de Paris. Mais cette fille, qui était avec ses parents, était vêtue d’une manière tellement immorale que les soldats qui travaillaient là laissèrent tous tomber leurs pelles et leurs pioches et accoururent pour voir passer cette fille américaine.
+103 Maintenant, c’est l’Amérique qui donne le ton à la mode. Avant, c’était Paris; mais maintenant c’est ici que l’on vient chercher cette souillure vulgaire et déchue. Et dire que ce pays vient de passer par un réveil dans le baptême du Saint-Esprit avec notre merveilleux Seigneur Jésus manifestant Ses signes et les merveilles de Sa grâce, nous montrant que nous sommes dans les mêmes temps que Noé et qu’il y a aussi une lampe rouge qui clignote dans toutes les directions, un Dieu qui peut ressusciter les morts, un Dieu qui peut nous annoncer les choses à l’avance et les faire arriver exactement sans la moindre défaillance! Mais vous pouvez prêcher autant que vous voudrez à nos femmes américaines: d’année en année elles deviennent pires!
+104 A Durban, en Afrique du Sud, il y avait environ 200 000 noirs rassemblés lors de la réunion où Dieu fit ce grand miracle. Il y avait là trente mille indigènes des plus primitifs. Les hommes comme les femmes étaient nus, sauf une espèce de petit ouvrage de perles de quatre pouces sur quatre qui leur pendait devant. Ils étaient nus et ne possédaient qu’une peau de chèvre qu’on leur donnait quand ils avaient un certain âge. Ils s’en servaient comme vêtement, comme couverture, et lorsqu’ils mouraient on les enveloppait dedans pour les enterrer au coin d’un champ.
+105 Je vis ces femmes qui étaient si primitives que l’une d’elles accoucha à moins de dix mètres de moi! Elle n’alla pas à la maternité. Une autre femme l’aida pendant un petit moment et au bout de cinq minutes, tout était terminé. Elle prit son bébé et se mit à le nourrir. Vous voyez à quel point ces gens sont primitifs. Mais lorsque ces gens virent la puissance du Dieu Tout-puissant descendre sur le petit garçon qui était tellement malade qu’il n’avait même pas sa raison, quand ils le virent se lever ayant toute sa raison et se mettre à louer Dieu, trente mille indigènes primitifs reçurent Jésus-Christ comme leur Sauveur personnel. Que se passa-t-il alors? Rappelez-vous que trente mille, c’est dix fois plus que le nombre de ceux qui se convertirent le jour de Pentecôte — trente mille!
+    Je vis ces femmes de mes propres yeux. Lorsqu’elles se jetèrent face contre terre, brisant leurs idoles et donnant leur vie à Jésus-Christ, elles ne connaissaient rien. La plupart d’entre elles n’avaient probablement jamais entendu Son Nom. Lorsqu’elles tombèrent à genoux, je leur demandai, si elles étaient sincères, de briser leurs idoles; elles les brisèrent. Elles s’étaient mises à genoux et avaient donné leur vie à Christ pendant que je priais pour elles, puis elles se levèrent. Et ces femmes qui se tenaient les bras pendants, ne sachant pas qu’elles étaient nues, aussitôt que la Vie de Christ toucha leur vie, je les vis replier leurs bras autour de leurs corps et s’éloigner de la présence des hommes. Et si l’attouchement de Jésus-Christ peut faire faire cela à un être hors de toute civilisation, que ne devrait-Il pas faire à une nation qui entend l’Evangile depuis des siècles? Cela je l’ai vu de mes propres yeux; ce n’est pas quelque chose que l’on m’a raconté. Je l’ai vu. Il est étrange que nous prenions le nom de chrétiens et que chaque année nous nous dévêtions un peu plus. Et les églises ne semblent pas se soucier le moins du monde de cela.
+106 La télévision exalte la chair de la femme. Elle n’est pas une déesse, mais cela place les Etats-Unis dans la position exacte pour accomplir l’Ecriture. Le nombre des U.S.A. est treize. L’Amérique a toujours fait de la femme un objet de culte. Elle est représentée sur notre monnaie; on la trouve partout. Et le temps n’est certes pas bien éloigné où nous aurons une déesse américaine. Vous pouvez voir la main qui écrit sur la muraille.
+107 Qu’allons-nous faire? Descendez dans la rue et regardez: voyez toutes ces femmes qui se promènent en ville dans des vêtements qu’une femme honnête devrait avoir honte de porter dans sa propre chambre à coucher. Elles se promènent dans la rue dans des petits vêtements de rien du tout tellement serrés… et ces petits bikinis qu’elles mettent à la plage, ne se rendant pas compte qu’en elles règne un mauvais esprit! Et beaucoup de ces femmes-là chantent dans des choeurs d’église! Mais c’est ce que Jésus a dit qui arriverait.
+108 La femme n’est que chair et sang; ce n’est pas un dieu. A mon avis, (que Dieu me pardonne si je me trompe), c’est un striptease en grand. On ne peut guère jeter le blâme sur un non-chrétien s’il tombe dans la tentation et qu’il ne puisse pas se retenir de faire le mal. Il est même étonnant que cela ne fasse pas plus de ravages, vu le nombre de femmes qui marchent dans cette voie. Mais quand cela arrive, comment pourrait-on blâmer l’homme? Blâmons ce qui mérite d’être blâmé!
+109 Les femmes me diront: «Frère Branham, je suis parfaitement honnête!». Je n’en doute pas, ma soeur, mais savez-vous qu’au jour du jugement vous aurez à répondre et que vous serez accusée d’adultère pour vous être ainsi donnée en spectacle au point que des hommes vous ont convoitée? Jésus a dit: “Quiconque regarde une femme pour la convoiter a déjà commis un adultère avec elle dans son cœur”. Il aura à répondre de cela. Peut-être que vous n’avez pas commis l’acte, mais si vous permettez à Satan de mettre cet esprit en vous alors que la nature elle-même devrait vous enseigner que c’est mal… Même sans l’Esprit de Dieu, la nature devrait vous montrer que c’est Malachie 110 Je prédis que bientôt on va les voir sortir dans la rue avec cette espèce de chose qui ressemble à une feuille de figuier. Je l’ai prédit il y a trente ans en disant que c’était une insulte à la Bible. Vous voyez? Mais elles le feront. C’est du striptease sur la voie publique.
+111 Aujourd’hui, le diable fait la même chose parmi les fils de Dieu. C’est vrai! Regardez seulement le monde des affaires. La plupart de nos affaires sont dirigées par des femmes. Il y en a des quantités. C’est vrai. Voyez nos églises, voyez cette nation, voyez comment les fils de Dieu s’inclinent bassement devant cet objet de culte, la femme! Pour moi, elles ne sont rien de plus que des filles publiques. C’est terrible à dire, mais c’est la vérité toute nue. Je suis parfaitement conscient du fait que les gens entendront ces bandes et répéteront ce que je dis. Mais comment pourrait-on dire le contraire? Si vous vous présentez dans cet état et qu’un homme vous regarde, Jésus dit que vous commettez adultère avec cet homme. Et cet homme aura à répondre de l’accusation d’adultère. Mais à qui sera-ce la faute? A la femme qui s’est dévêtue ainsi et s’est présentée devant le pécheur. C’est vrai! Et de quoi est-ce le signe? C’est la lumière rouge du temps de la fin!
+112 La femme refuse sa vocation de mère; les nations se désagrègent. Si vous voulez voir cela, lisez Matthieu 5.28. Tout est là. Tomber sous la puissance du sexe a été la ruine… Si vous voulez suivre cette évolution, les exemples ne manquent pas. J’ai suivi la chute de quelques peuples: l’Egypte, l’Assyrie, Rome et d’autres. Ils sont tombés à cause du pouvoir de la femme.
+113 Remarquez pourtant qu’à part le salut, Dieu n’a rien pu donner à l’homme de meilleur qu’une brave femme. Personne ne peut comme elle réconforter un homme lorsqu’il est fatigué. Il ne se confiera jamais à qui que ce soit comme à sa femme. Et vous, frères, vous pouvez vous estimer heureux si vous avez une gentille femme qui est pure, droite, morale, et qui peut vous parler quand vous rentrez fatigués à la maison. Elle peut faire plus pour vous que n’importe qui d’autre. C’est vrai. Elle est un joyau; elle est une reine.
+114 Mais rappelez-vous que la femme a été faite pour l’homme et non l’homme pour la femme. L’homme est la dernière créature de Dieu. La femme est un dérivé de l’homme, elle a été tirée de l’homme. Elle a été faite pour l’homme, et non pas l’homme pour elle. Et l’homme tombe lorsqu’il se met à adorer la femme. C’est exactement ce qui est arrivé au commencement. Comme Adam, fils de Dieu, ne pouvait être tenté de faire le mal, Satan entra dans la personne appelée le serpent, qui était semblable à l’homme. C’est là que tout commença. Et Eve sortit de l’abri de la Parole de Dieu et ce fut le point de départ de tous les brisements de coeur et de tous les cimetières. C’est là le point de départ de tout péché qui a été commis depuis lors. Voilà.
+115 La femme a été la cause de la chute au commencement, et elle reprend cette position à la fin. C’est elle qui a commencé; c’est elle qui termine. Il n’est pas étonnant que la Bible dise que les réchappés de Sion seront glorieux aux yeux du Seigneur.
+116 Ésaïe 5 nous montre comment les femmes deviendraient immorales dans les derniers jours, comment elles s’habilleraient, comment elles se coifferaient, etc. La Bible en parle dans Ésaïe 3. Elle nous montre comment elles marcheraient en faisant claquer leurs souliers à hauts talons, comment elles rouleraient leurs bas sur leurs chevilles et tout ce qu’elles feraient. Il est dit que tout cela leur serait ôté et qu’elles s’assiéraient dans la puanteur de leur immoralité. Il est dit que sept femmes s’agripperaient à un homme en disant: “Nous gagnerons nous-mêmes notre pain! Mais laisse-nous simplement porter ton nom afin de nous délivrer de notre opprobre!”.
+117 Mais Il a montré combien il serait glorieux, ce petit rejeton qui échapperait à toutes ces choses! Comment il sanctifierait le Seigneur en ces jours avec ces femmes véritablement nées de nouveau qui connaîtraient leur place et y resteraient même si on se moquait d’elles, qu’on les dise folles et démodées, etc. Mais elles se conduiraient comme des femmes de bien, se tiendraient comme des femmes de bien, s’habilleraient, parleraient et vivraient comme des femmes de bien! Oui! Amen! (Amen! veut dire ainsi soit-il!). Ne vous effrayez pas! Cela ne vous fera pas de Malachie 118 C’est la Parole de Jésus Elle-même qui a dit ce qui arriverait, qui nous l’a montré clairement.
+119 Il nous a montré ce qui arriva du temps de Lot. si vous voulez le noter, c’est dans Luc 17.28. Il dit que les hommes mangeaient, buvaient, achetaient, vendaient, plantaient, bâtissaient… Normalement ce sont des choses légitimes, mais (faites bien attention à cela) ces hommes ne pensaient à rien d’autre qu’à cela.
+120 Du temps de Lot les femmes étaient devenues tellement immorales que les hommes abandonnèrent l’usage normal de la femme et se pervertirent pour aller entre eux. La différence naturelle des cellules sexuelles avait changé parce que les femmes étaient devenues si mauvaises.
+121 Il y a quelques jours, j’étais à Tucson dans un magasin où j’avais acheté du pain. Il y avait un garçon dehors et deux petits garçons dans une voiture. Un autre entra et demanda un paquet de cigarettes. Le vendeur, un homme aux cheveux gris, l’examina et demanda: «Pour qui sont ces cigarettes, pour ta mère?». Le gamin répondit: «Non, elles sont pour ce garçon là-bas!». Le vendeur reprit: «Est-il assez âgé pour en avoir?». Le gamin répondit: «Oui, Monsieur!». Le vendeur le regarda d’un drôle d’air. J’étais là, une miche de pain dans une main et une bouteille de lait dans l’autre, et je regardais. Le vendeur dit à l’enfant: «Très bien!» et lui donna les cigarettes. Puis il me regarda et dit: «Je doute qu’il ait l’âge!».
+122 Je lui dis: «Il ne peut pas avoir l’âge. Quel que soit l’âge, on n’est jamais assez âgé pour cela!». Il me dit: «Je suis d’accord avec vous. Avez-vous eu de la peine à arrêter de fumer?».
+123 Je lui répondis: «Je n’ai jamais commencé. Mes parents étaient des fumeurs, mais le Seigneur Dieu m’a préservé de cela».
+124 Il se tourna vers moi et me regarda curieusement, puis me dit: «Je trouve honteux la manière actuelle de mettre la femme sur un piédestal. Autrefois on l’honorait. On ôtait son chapeau en sa présence. Si l’on entendait un homme faire une remarque désobligeante à une femme, on lui flanquait une raclée. On honorait les femmes! Mais si les choses sont ce qu’elles sont aujourd’hui, ce sont elles qui l’ont cherché! Avant, dans un transport public, lorsqu’une femme entrait, tous les hommes se levaient et ôtaient leur chapeau jusqu’à ce qu’elle se soit assise. Aujourd’hui cela ne se fait plus. On se pousse, on se bouscule… Mais ce sont elles qui l’ont cherché!». C’est la vérité. Elles sont tombées sous l’emprise démoniaque de Hollywood puis cela est venu dans les journaux et la télévision jusqu’à ce que tout cela ne devienne plus qu’un grand vase plein de souillure. C’est vrai!
+125 Je sais que ce n’est pas en disant cela que je me ferai des amis, mais c’est la stricte vérité. C’est la vérité! C’est la Parole du Seigneur, et c’est aussi un signe précurseur de la venue de Christ dans notre génération. La Parole dit: “Cette génération ne passera point, que tout cela n’arrive”. Elle dit encore: “Le ciel et la terre passeront, mais mes paroles ne passeront point”. C’est un avertissement, un signal rouge qui clignote pour nous avertir que le rideau va bientôt tomber. Nous sommes au temps de la fin.
+126 Nous voyons les signes du Seigneur Jésus lorsqu’Il guérit les malades, qu’Il ressuscite les morts et chasse les mauvais esprits. Nous voyons le peuple sanctifié par le Saint-Esprit. Nous voyons des vies changées. Nous voyons de grands signes. Nous voyons dans le ciel des signes mystiques comme les soucoupes volantes. Le Pentagone, les gens qui parlent de cela à la télévision, ceux qui écrivent des livres à ce sujet, personne ne sait que penser de cela. Il y a toutes sortes de signes mystérieux, le Seigneur Jésus descend sous la forme d’une colonne de feu, on prend des photos de cela, on peut voir qu’Il est vivant parmi nous, le Même hier, aujourd’hui et éternellement.
+127 Nous voyons toutes ces choses arriver. Nous voyons la froideur de l’église. Nous voyons la croissance des dénominations. “Dès que les branches du figuier deviennent tendres et que les feuilles poussent…”. Nous voyons le figuier, c’est-à-dire les Juifs, retourner dans leur propre pays. Nous voyons les Presbytériens, les Méthodistes, les Baptistes, les Luthériens, les Pentecôtistes, toutes les églises pousser leurs feuilles dans les réveils… Il a dit: “Préparez-vous car le temps est proche”. Quand nous voyons toutes ces choses arriver, c’est le temps où Dieu Se prépare à appeler Ses élus. Il y a tous ces signes: “Quand vous verrez les femmes devenir extrêmement belles, quand vous verrez les fils de Dieu prendre des femmes parmi les filles des hommes, quand vous verrez les hommes faire ceci et cela…”. Il a dit: “Alors vous saurez que le temps est proche, à la porte!”. Nous en sommes là!
+128 J’ai encore noté une référence. Souvenez-vous des deux filles de Lot (oui, nous nous en souvenons!) dans la ville de Sodome. Jésus a dit dans Luc 17: “Ce qui arriva du temps de Lot…”. Rappelez-vous que les hommes avaient changé l’usage des femmes au point que l’acte naturel de la vie n’était plus désiré. C’est terrible de dire cela du haut de la chaire, mais si jamais la vérité doit être dite, c’est ici du haut de la chaire. Et tout va si mal aujourd’hui qu’il y a des dizaines et des dizaines de milliers de pervertis, de Sodomites, et cela va toujours en croissant.
+129 Comme il en était du temps de Sodome, l’usage naturel de l’homme de se reproduire sur la terre a été tellement maltraité qu’il a presque disparu et que, au train où vont les choses, le désir de se reproduire disparaîtra très rapidement. Si cela continue, d’ici dix ou quinze ans il n’en restera pratiquement plus rien. J’avais noté des remarques qu’avait faites Edgar Hoover à ce sujet, mais je m’aperçois que je ne les ai pas ici.
+130 Nous allons encore découvrir des choses sur ce sujet. Nous lirons dans l’épître de Jude, ce grand petit livre, comme je l’appelle. Lisons le verset 7. C’est le dernier avant l’Apocalypse. Il s’agit des gens qui rompent les liens du mariage et vont après une chair étrangère. Ecoutez.
+       “…comme Sodome et Gomorrhe, et les villes d’alentour, s’étant abandonnées à la fornication de la même manière que ceux-là, et étant allées après une autre chair, sont là comme exemple, subissant la peine d’un feu éternel” (c’est-à-dire qu’ils sont complètement consumés et anéantis).
+131 Il y a quelque temps, à Los Angeles, je devais aller au terrain de camping. Sur la route, je dépassai une fille qui marchait le long de la chaussée. Elle était très jolie. Elle était vêtue d’une espèce de costume de trappeur qui se limitait à une sorte de bande sur le devant, large d’environ six à huit pouces avec des franges de trois ou quatre pouces et plus bas un petit bout de tissu si minuscule que vous auriez pu, en le froissant un peu, le cacher complètement en le serrant dans la main. Elle était couronnée d’un chapeau de cow-boy et chaussée de bottes ornées de glands. Avec cela elle était très séduisante. Je pouvais imaginer les jeunes gens s’arrêter dans un grand bruit de freins pour la prendre et repartir en zigzaguant sur la route…
+132 Je continuai ma route. En arrivant près du terrain de camping, j’eus tout à coup l’idée de faire demi-tour et de m’arrêter vers cette fille pour lui dire: «Jeune fille, je voudrais vous parler au Nom de notre Seigneur Jésus-Christ. Vous êtes une jolie fille, pas de doute à cela! Cela vous fait probablement plaisir d’entendre ces grincements de freins. Mais comprenez-vous que l’esprit qui vous pousse à faire cela vous conduira pour finir dans l’enfer où vous souffrirez dans les âges à venir? Vous rendez-vous compte que ce joli petit corps, si bien formé, ces joues fraîches, ces beaux cheveux, ces lèvres rouges, tout cela pourrait être dans moins de six mois sous la terre en train d’être rongé par les vers? Et que cette âme qui est en vous aujourd’hui serait alors dans les tourments de l’enfer?».
+133 Mais quelque chose m’arrêta comme si Dieu disait: «Si tu fais cela, on te mettra en prison!». Vous comprenez? Voilà. Billy sortit de la voiture et me fit signe de venir car il était temps d’aller écouter l’assemblée chanter Crois seulement.
+134 Oh, mes frères! Comment les gens peuvent-ils être ensorcelés par de telles choses? C’est parce qu’ils méprisent la Parole de Dieu.
+135 Autre chose encore. Les prédicateurs associés aux organisations qui lisent ces choses et les connaissent ont l’interdiction d’en rien dire parce que cela éloignerait d’eux leurs assemblées. Et ces églises cherchent à faire des membres. Mais Dieu, Lui, cherche des saints nés de nouveau dans le Dieu Vivant et qui brilleront comme des étoiles. Que Dieu nous aide à être honnêtes et à dire la vérité qui est ce que Jésus-Christ a dit. Mais voilà dans quels temps nous vivons! Ce sont les signes annoncés par Jésus, et nous les voyons clairement devant nous.
+136 Nous revenons toujours à Jude, verset 7: l’histoire de Sodome et de Gomorrhe se répète. C’est terrible! Les hommes vont avec des femmes sans être mariés avec elles: ils vont après une autre chair. Lorsqu’un homme et une femme sont mariés, ils ne sont plus deux, mais un. Et un homme qui va avec une autre femme se sépare automatiquement de la sienne. Et une femme qui va après un autre homme est morte pour son mari. Elle a renié sa propre chair, elle s’est retranchée de lui. C’est vrai! Au jour du jugement ils auront à répondre de cela.
+137 Mais aujourd’hui ils ne veulent pas écouter un pareil message! Les gens n’ont pas envie d’écouter cela. Ils veulent entendre quelque chose qui flatte leurs oreilles. C’est exactement ce que le Saint-Esprit m’avait dit lorsque j’avais posé la première pierre de l’église. Il m’avait dit: “Prêche la Parole, insiste en toute occasion, favorable ou non, reprends, censure, exhorte, avec toute douceur et en instruisant. Car il viendra un temps où les hommes ne supporteront pas la saine doctrine: mais, ayant la démangeaison d’entendre des choses agréables, ils se donneront une foule de docteurs selon leurs propres désirs, détourneront l’oreille de la vérité, et se tourneront vers les fables”. Il m’avait dit: «Quand la vision te quittera, lis 2 Timothée 4». Il dit: «N’oublie pas, 2 Timothée 4!». Puis la vision me quitta. J’étais là, moi jeune homme de dix-neuf ans me tenant dans cette 7ème Rue. La Voix de Dieu m’avait parlé dans ma chambre me disant: «2 Timothée 4!». C’est exactement ce qui se passe maintenant.
+138 Le temps viendra où ils ne supporteront pas la saine doctrine. Les Pentecôtistes veulent quelqu’un qui leur tape gentiment sur l’épaule et les laisse vivre à leur guise, jouer du piano et chanter les cantiques à toute vitesse, sauter en l’air et danser, laisser les femmes faire comme elles font actuellement, et les hommes de même. Chez les Presbytériens, les Méthodistes, les Luthériens, les Baptistes, dans toutes ces organisations il y a beaucoup de personnes sincères. C’est l’exacte vérité. Mais ces systèmes les ont tellement liées qu’elles s’imaginent que dès qu’elles appartiennent à une église et que leur nom est inscrit dans leur livre, elles sont prêtes pour le Ciel. Avoir votre nom inscrit dans un de ces livres ici sur terre ne signifie pas plus que cela! [frère Branham fait claquer ses doigts — N.d.R.] devant Dieu. Votre nom doit être inscrit dans le Livre de Vie de l’Agneau par le Sang de Jésus-Christ, témoignant ainsi que vos péchés sont pardonnés. C’est vrai!
+139 Mais eux préfèrent ce genre de pasteurs. Ils ne veulent rien d’autre. Et pourtant tous les dons qui ont été donnés dans la Bible, tous les dons que Jésus-Christ avait promis, tous les dons, tous les signes, tous les signes du temps de la fin, tout ce qui avait été promis dans la Bible, pour autant que je peux le voir moi-même, tout a déjà été présenté devant cette nation! Mais elle n’en plonge pas moins aussi vite qu’elle le peut dans la direction de l’enfer. Dites-leur ces choses si vous voulez, de toute manière ils continueront à courir dans cette direction. Je vous donnerai encore juste quelques passages de l’Ecriture avant de terminer. La Bible dit qu’ils se dirigent vers la destruction éternelle.
+140 Aujourd’hui cette nation est plongée dans la même pourriture sociale. Elle y est ce soir même. Vous le savez! Je ne plaisante pas. Je ne parle pas par ouï-dire. C’est la vérité: lisez Genèse 6.12. Toute chair avait corrompu sa voie sur la terre. L’homme suivait ses propres voies et ses propres pensées, ignorant les lois de Dieu. C’est ce que fait l’homme aujourd’hui. Les hommes ne veulent pas écouter la Parole de Dieu. Ils ne veulent pas L’écouter: ils préfèrent suivre leurs propres voies.
+141 Jézabel refusa d’écouter la Parole du Seigneur. Elle ne voulut pas reconnaître Elie comme son pasteur, ce vieux barbu de prédicateur. Mais qu’elle le voulût ou non, il était bel et bien son pasteur. C’est vrai. Dieu l’avait envoyé et il cria son message. Il était sans instruction et les gens ne savaient pas d’où il venait ni où il allait. Mais il entra en scène avec la Parole de Dieu. Il donna son message et prêcha en condamnant tout ce qui était appelé péché. Mais cette moderne Jézabel avait ensorcelé et détourné le peuple tout entier par son pouvoir occulte, jusqu’à ce que toute la nation soit corrompue. Elie resta seul sur la montagne. Mais Dieu lui dit: “Elie, ne pense pas que tu es tout seul! J’en ai encore sept mille ici dont le coeur est resté honnête”. C’était son second pull, et le troisième devait encore venir pour eux.
+142 Mais rappelez-vous que Dieu est miséricordieux. Le message d’Elie condamnait cette génération incrédule. Le message de Noé condamna cette génération et fit tomber le jugement sur ceux qui refusèrent d’écouter, mais apporta la délivrance à ceux qui crurent. Comme du temps de Noé, Genèse 6, les hommes mépriseront les lois de Dieu dans le temps de la venue du Fils de l’homme. Ils disaient: “Parole de l’Eternel!…”.
 
 LE SIGNAL ROUGE DE SA VENUE 20
 la mort et vous n’êtes pas de la Vie. C’est vrai.
@@ -1494,8 +670,6 @@ chantons ce cantique encore une fois.
        Où Il me conduit, j’irai,
        Où Il me conduit, j’irai,
        J’irai avec Lui jusqu’au bout du chemin.
-
-
 
 
 

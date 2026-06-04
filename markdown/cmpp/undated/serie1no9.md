@@ -1,554 +1,299 @@
-    SERIE 1 N° 9
+---
+source: "cmpp"
+sermon_id: "serie1no9"
+title: "L'ACCUSATION"
+subtitle: "7 juillet 1963, soir"
+date: "1963-07-07"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham accuse les églises dénominationnelles et les communautés indépendantes de crucifier Jésus-Christ à nouveau de nos jours, en rejetant la Parole de Dieu et en s'organisant comme au temps de la première crucifixion. Il s'appuie sur Luc 23:33 pour démontrer que l'esprit religieux qui a crucifié Christ est le même aujourd'hui."
+tags:
+  - "accusation"
+  - "crucifixion"
+  - "églises"
+  - "dénominations"
+  - "Parole de Dieu"
+  - "jugement"
+persons:
+  - "Jésus-Christ"
+  - "Esaïe"
+  - "Pierre"
+  - "Timothée"
+  - "Lois"
+  - "Jack Moore"
+  - "Lee Vayle"
+  - "Orlando Hunt"
+  - "Joseph Coleman"
+places:
+  - "Jérusalem"
+  - "Jeffersonville"
+  - "New York"
+  - "Rome"
+  - "Vatican"
+  - "Sodome"
+  - "Gomorrhe"
+themes:
+  - "crucifixion spirituelle"
+  - "rejet de la Parole"
+  - "organisation religieuse"
+  - "jugement"
+  - "grâce"
+  - "Sang de Christ"
+  - "unité du Corps"
+pdf_url: "http://cmpp.ch/serie1no9.pdf"
+llm_cleaned: true
+bible_refs:
+  - "2 Timothée 1"
+  - "2 Timothée 3"
+  - "Actes 2"
+  - "Apocalypse 17"
+  - "Hébreux 10"
+  - "Hébreux 13"
+  - "Hébreux 6"
+  - "Jean 1"
+  - "Jean 14"
+  - "Jean 15"
+  - "Joël 2"
+  - "Malachie 4"
+  - "Marc 16"
+---
+SERIE 1 N° 9
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
+L’ACCUSATION
+(The Indictment)
 
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-    L’ACCUSATION
-    (The Indictment)
-
-
-
-
-
-      7 juillet 1963, soir
-       Branham Tabernacle
+7 juillet 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    L’ACCUSATION    2
-
-
-        L’ACCUSATION
-      (The Indictment)
+L’ACCUSATION
 
 “… ils Le crucifièrent là…”.
 
-
-
-      7 juillet 1963, soir
-       Branham Tabernacle
+7 juillet 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana U.S.A.
 
+Merci, frère Neville. Restons debout encore un moment pour prier. Inclinons nos têtes. S’il y a des requêtes, manifestez-le en levant la main. Présentez-les à Dieu silencieusement en vous-mêmes, en croyant de tout votre coeur, pendant que je prierai pour vous.
 
+Père Céleste, c’est pour nous un grand privilège de pouvoir entrer dans la Maison du Seigneur par cette sombre journée, d’y voir briller le Soleil de Dieu, et d’y entendre le chant du Saint-Esprit au travers de Son peuple, et d’avoir ainsi un reflet de ce Soleil dans nos coeurs. Combien nous T’en remercions!
 
+Eh bien, il s’est levé des mains parmi Ton peuple: ils ont des requêtes, et ils espèrent que Tu les exauceras, ce matin. Je Te prie, Seigneur, de répondre à chacune d’elles. Et il y en a tellement d’autres par écrit, qui sont empilées là, sur le pupitre, et d’autres encore, d’un peu partout, des appels par téléphone, parfois de fort loin — plus de cinquante par jour! — de gens malades, souffrants. Oh Dieu! Que faire? Nous ne savons dans quelle voie nous engager, ni que faire — mais Toi, Tu le sais, Seigneur; c’est Toi qui nous as donné la Vie, et nous voulons Te la consacrer. Alors, Père conduis-nous!
 
-   Merci, frère Neville. Restons debout encore un moment pour prier. Inclinons nos têtes. S’il y a
-des requêtes, manifestez-le en levant la main. Présentez-les à Dieu silencieusement en
-vous-mêmes, en croyant de tout votre coeur, pendant que je prierai pour vous.
-   Père Céleste, c’est pour nous un grand privilège de pouvoir entrer dans la Maison du Seigneur
-par cette sombre journée, d’y voir briller le Soleil de Dieu, et d’y entendre le chant du Saint-Esprit
-au travers de Son peuple, et d’avoir ainsi un reflet de ce Soleil dans nos coeurs. Combien nous
-T’en remercions!
-   Eh bien, il s’est levé des mains parmi Ton peuple: ils ont des requêtes, et ils espèrent que Tu
-les exauceras, ce matin. Je Te prie, Seigneur, de répondre à chacune d’elles. Et il y en a tellement
-d’autres par écrit, qui sont empilées là, sur le pupitre, et d’autres encore, d’un peu partout, des
-appels par téléphone, parfois de fort loin — plus de cinquante par jour! — de gens malades,
-souffrants. Oh Dieu! Que faire? Nous ne savons dans quelle voie nous engager, ni que faire —
-mais Toi, Tu le sais, Seigneur; c’est Toi qui nous as donné la Vie, et nous voulons Te la consacrer.
-Alors, Père conduis-nous!
-   Nous Te prions de nous bénir, alors que nous sommes assemblés pour écouter Ta Parole, pour
-chanter des cantiques et Te présenter nos prières. Ecoute nos prières, et puisses-Tu Te réjouir
-avec nous dans nos chants et nous parler par Ta Parole, car nous le demandons au Nom de
-Jésus. Amen!
-   (Vous pouvez vous asseoir).
-   Je ne puis m’imaginer place meilleure que celle-ci, à ce pupitre, ce soir, pour y distribuer le Pain
-de Vie à ce peuple affamé et assoiffé — et c’est pour moi un grand privilège.
-   … D’abord, laissez-moi vous parler d’Edith, la soeur de Hattie, que nous avons connue
-lorsqu’elle était encore une petite fille infirme, immobilisée dans sa poussette. Maintenant, elle est
-devenue femme. Elle va très mal. Il y a près d’une année que j’avais été la voir, là-bas, lorsqu’elle
-eut sa première attaque, et tout de suite, avec l’aide et la grâce de Dieu, j’avais vu de quoi il
-s’agissait. Ses membres étaient comprimés de telle sorte qu’elle devait rester assise et ne pouvait
-bouger, tant cela lui faisait mal. Cela provenait d’une terrible pression sur son système nerveux.
-Mais on ne pouvait pas dire expressément qu’il y eût un dérangement corporel autre que celui dû
-à la paralysie infantile qu’elle contracta à l’âge de six mois. Alors, elle criait et pleurait presque tout
-le temps, jusqu’au jour où nous avons prié pour elle, il y a quelques années. Depuis lors, elle allait
-mieux, et elle se sentait heureuse comme cela, jusqu’à l’année dernière. Maintenant, c’est la
-ménopause qui la trouble, provoquant ce changement dans sa vie, et ses nerfs sont dans un état
-pitoyable. La petite dame s’est mis en tête qu’elle est en train de mourir, qu’elle va mourir d’un
-moment à l’autre.
-   Mais, vous savez que même des femmes de forte constitution et en parfaite santé ont alors une
-période difficile à passer. Il y en a à qui on doit donner des hormones, d’autres qui doivent même
-subir des traitements de choc en clinique.
+Nous Te prions de nous bénir, alors que nous sommes assemblés pour écouter Ta Parole, pour chanter des cantiques et Te présenter nos prières. Ecoute nos prières, et puisses-Tu Te réjouir avec nous dans nos chants et nous parler par Ta Parole, car nous le demandons au Nom de Jésus. Amen!
 
-        http://www.cmpp.ch
+(Vous pouvez vous asseoir).
 
-L’ACCUSATION 3
-   Dans la vie d’un être humain, il y a deux changements. Il y a le passage de l’enfance à l’âge
-adulte, de l’enfant à l’homme, de la jeune fille à la femme. Autour des seize, dix-sept ans, ils sont
-comme des papillons de nuit… Il faut essayer de les supporter et de leur venir en aide pendant
-cette période. J’ai une fille, Rebecca, qui a justement cet âge — priez pour elle. Et un garçon, Billy.
-Nous passons tous par cette période un peu folle: nous devons donc souffrir avec eux et réaliser
-ensemble que c’est quelque chose d’inévitable.
-   Et maintenant, c’est Edith qui se trouve justement dans une situation semblable. Tous les sept
-ans, votre vie change, et elle a sept fois sept ans. Vous voyez: c’est un moment bien pénible pour
-elle. C’est un changement complet, et cela tourmente les femmes. Les hommes aussi, à cette
-période, ont un comportement bizarre: ils quittent parfois leur femme. Les femmes, elles,
-deviennent stériles. Nous devons tous passer par cette période difficile. Nous devons y penser et
-apprendre à nous supporter et à nous comprendre les uns les autres.
-   La petite Edith est dans cet état; elle a perdu beaucoup de poids et a mauvaise mine.
-J’aimerais vous demander d’aller la voir un de ces soirs (pas tous à la fois, bien entendu!) … Vous
-savez, ils veillent jour et nuit… Quelqu’un de notre tabernacle, ou d’une autre communauté, ou
-quelque soeur d’ici, pourrait y aller et voir la famille Wright. Je suis sûr que cela leur ferait plaisir et
-qu’ils apprécieraient ce geste. Allez-y tout simplement, passez un moment avec eux; un brin de
-causette, une poignée de main — une simple petite visite amicale, vous savez; on oublie trop
-souvent cela. Mais quand il s’agit de notre propre maison, alors nous l’apprécions — mais nous
-devons nous en souvenir, les autres l’apprécient aussi. Allez-y! Et la famille Wright, j’en suis sûr,
-l’appréciera aussi. Je sais que vous l’auriez fait sans que je vous le dise, si vous aviez su ce qu’il
-en était. Mais vous ne le saviez pas, et c’est pourquoi je vous en parle ce matin.
-   Donc, allez voir la famille Wright, et surtout, entourez un peu Edith, et encouragez-la. Ne lui
-dites surtout pas qu’elle a mauvaise mine, mais au contraire, qu’elle a l’air d’aller mieux — elle ira
-mieux, si nous continuons à la soutenir. C’est pour cela que nous sommes ici. C’est notre soeur, et
-nous sommes ici pour prier et intercéder pour elle — de la même manière que j’aimerais que l’on
-prie et intercède pour moi, quand je passe par des épreuves, comme vous-mêmes aimeriez que
-quelqu’un prie pour vous.
-   Les Wright sont parmi les membres les plus anciens qui viennent à cette assemblée, avec je
-suppose frère Roy Slaughter et soeur Slaughter. Je les ai vus tout à l’heure, et je pensais en
-moi-même: «Il y a bien des années que je vois ces frère et soeur Slaughter prendre leur place
-dans cette église, à travers toutes ces vicissitudes, ces hauts et ces bas, et ils vont toujours de
-l’avant!». Il en va de même avec cette famille Wright. Vous aimez de tels gens, n’est-ce pas?
-Laissons-leur voir et sentir combien nous les aimons.
-   J’ai un long message à donner, aujourd’hui. Il s’agit d’une accusation. J’ai aussi entendu dire
-qu’il y aurait communion et lavage des pieds, ici ce soir. Le pasteur parlera, et nous aussi, nous
-viendrons; si vous êtes dans les environs, alors venez aussi vous réjouir du message du pasteur
-— ou plutôt du Seigneur. Avec ce lavage des pieds, et cette communion, nous aurons une soirée
-bien remplie. Aussi serions-nous heureux de vous y voir, si vous n’avez pas d’autres
-engagements.
-   Et nous aimerions saluer Don Ruddell, notre frère, et frère Jackson (et tous ces frères qui
-viennent d’autres communautés associées), frère Jack Palmer, là, qui dirige le groupe, là-bas en
-Georgie. Nous estimons de tels hommes de tout notre coeur, parce que chaque fois que nous
-avons des réunions et que je suis ici, ils viennent nous rendre visite. Nous nous en réjouissons.
-   Ce matin, j’aperçois mon bon ami, le Docteur Lee Vayle et sa femme. J’ai d’abord reconnu
-soeur Vayle, puis j’ai jeté un coup d’oeil pour découvrir le frère Lee — j’ai, comme l’exprime ce
-vieux dicton du Sud, «un oiseau à plumer» avec lui, autrement dit «un petit compte à régler» avec
-lui, vous comprenez? Chaque fois que je viens ici, je jette un coup d’oeil pour voir s’il est là pour
-m’aider. Je dis alors: «Bon, si frère Lee est là, qu’il fasse la prédication, et moi je ferai seulement la
-prière pour les malades». Mais voilà, nous avions beau le chercher et tout prévoir, il restait
-toujours introuvable — ainsi, il me reste «un oiseau à plumer» avec lui, lorsque enfin je l’attraperai!
-Et nous sommes heureux d’avoir ce frère et cette soeur Vayle avec nous ce matin.
-   Peut-être y en a-t-il encore beaucoup, ici, que nous n’arrivons pas à situer. Je vois une soeur
-ici, qui vient de Chicago, je crois? Je connais aussi ce groupe, là, mais je ne puis me rappeler
-exactement leurs noms. Nous apprécions votre présence ici, d’où que vous veniez.
+Je ne puis m’imaginer place meilleure que celle-ci, à ce pupitre, ce soir, pour y distribuer le Pain de Vie à ce peuple affamé et assoiffé — et c’est pour moi un grand privilège.
 
-        http://www.cmpp.ch
+… D’abord, laissez-moi vous parler d’Edith, la soeur de Hattie, que nous avons connue lorsqu’elle était encore une petite fille infirme, immobilisée dans sa poussette. Maintenant, elle est devenue femme. Elle va très mal. Il y a près d’une année que j’avais été la voir, là-bas, lorsqu’elle eut sa première attaque, et tout de suite, avec l’aide et la grâce de Dieu, j’avais vu de quoi il s’agissait. Ses membres étaient comprimés de telle sorte qu’elle devait rester assise et ne pouvait bouger, tant cela lui faisait mal. Cela provenait d’une terrible pression sur son système nerveux. Mais on ne pouvait pas dire expressément qu’il y eût un dérangement corporel autre que celui dû à la paralysie infantile qu’elle contracta à l’âge de six mois. Alors, elle criait et pleurait presque tout le temps, jusqu’au jour où nous avons prié pour elle, il y a quelques années. Depuis lors, elle allait mieux, et elle se sentait heureuse comme cela, jusqu’à l’année dernière. Maintenant, c’est la ménopause qui la trouble, provoquant ce changement dans sa vie, et ses nerfs sont dans un état pitoyable. La petite dame s’est mis en tête qu’elle est en train de mourir, qu’elle va mourir d’un moment à l’autre.
 
-    L’ACCUSATION         4
-   Je vois deux frères ici, deux jeunes gens qui doivent être ordonnés dans le ministère, ce matin
-(ils sont nouveaux dans le ministère en tout cas). Nos deux frères de couleur de New York
-viennent de recevoir leur licence de l’Eglise de Philadelphie et passeront à cette communauté
-(dont ils viennent). Nous allons leur imposer les mains pour que Dieu bénisse leur ministère à New
-York. Nous avons deux ou trois petites communautés là-bas, dont l’une est a frère Milano; nous
-les aimons toutes. Ainsi, nous avons ici deux serviteurs de plus pour s’occuper de ces gens là-bas.
-Cela nous réjouit. Que le Seigneur vous bénisse abondamment!
-   En regardant à la ronde, j’en vois beaucoup parmi vous — je ne puis me rappeler leurs noms à
-tous, mais je sais que Lui les connaît, et comprend.
-   Maintenant, si notre soeur, la pianiste, ou quelqu’un d’autre, veut venir et jouer pour nous le
-cantique:
-      Quand les charbons ardents eurent touché le prophète,
-      Le rendant parfaitement pur, Et que la voix de Dieu dit:
-      «Qui s’avancera pour nous?».
-      Alors, il répondit: «Me voici, envoie-moi!».
-   Nous savons que, bibliquement, la consécration d’un prédicateur se fait par l’imposition des
-mains. Je pense que c’est là que nos frères de la communauté de «La Dernière Pluie» et ceux du
-groupe de Battleford sont dans l’erreur, en croyant que, par l’imposition des mains, on confère des
-dons. Nous ne croyons pas cela. Nous croyons que, par l’imposition des mains, nous
-sanctionnons ce que nous avons vu. Vous comprenez? C’est un «amen!».
-   Lorsqu’ils imposèrent les mains à Timothée et aux autres frères, ils avaient remarqué que les
-dons étaient déjà en eux. Rappelez-vous: “… gardant le souvenir de la foi sincère qui est en toi,
-qui habita d’abord dans ton aïeule Lois…” (2 Timothée 1.5). Ils ont vu cela en Timothée, et ainsi les
-anciens lui imposèrent-ils les mains lors de son ordination; autrement, ils n’auraient jamais imposé
-les mains à un homme dans lequel rien ne se serait manifesté auparavant. Comprenez-vous? Et
-ils ne demandaient rien d’autre que la bénédiction; nous croyons tous cela. Donc, nous ne
-conférons pas des dons spirituels, nous les reconnaissons seulement et nous imposons les mains
-pour les attester, en croyant que Dieu opère de telles choses.
-   J’ai aperçu ce matin, là tout au fond, frère Mc Kinney — je crois que c’est Kinney ou Mc Kinney
-— le pasteur Méthodiste à qui nous avons récemment aussi conféré l’ordination ici (je crois que
-c’est ici même, sur ce podium), pour qu’il puisse se joindre aux frère et soeur Dauch et à leur
-groupe, là-bas, dans l’Ohio. Oh, quand nous nous réunissons ainsi, dans ces petites bourgades,
-c’est merveilleux! Pas de dénominations, pas d’étiquette ou quoi que ce soit, mais Jésus-Christ
-seul, et c’est tout! Vous voyez? Se retrouver simplement ensemble, dans les lieux célestes.
-   Très bien, soeur, entonnons le cantique, juste la première strophe de «Quand les charbons
-ardents touchèrent le prophète» (Chantons-le ensemble, maintenant).
-      Quand les charbons ardents eurent touché le prophète,
-      Le rendant parfaitement pur, Et que la voix de Dieu dit:
-      «Qui s’avancera pour nous?».
-      Alors, il répondit: «Me voici, envoie-moi!».
-      Parle, Seigneur! Parle, Seigneur!
-      (Frères, avancez, si vous le désirez)
-      Parle, et je suis prêt à répondre…».
-   [L’assemblée continue à chanter — N.d.R.]
-   Que les autres frères prédicateurs s’avancent, s’ils le désirent, pour l’imposition des mains…
-ceux des communautés associées à la nôtre: frère Ruddell, frère Lamb, et les autres.
-      Parle, et je répondrai: «Seigneur, envoie-moi!».
-      Oh, c’est par millions qu’ils meurent
-      Dans le péché et la honte.
-      Entendez-vous leurs cris d’effroi et de douleur?
-      Hâtez-vous, frères, courez à leur secours,
-      Répondez vite: «Seigneur, me voici!».
-      Parle, Seigneur! Parle, Seigneur!
-      Parle! Je Te répondrai: «Me voici!».
+Mais, vous savez que même des femmes de forte constitution et en parfaite santé ont alors une période difficile à passer. Il y en a à qui on doit donner des hormones, d’autres qui doivent même subir des traitements de choc en clinique.
 
-        http://www.cmpp.ch
+Dans la vie d’un être humain, il y a deux changements. Il y a le passage de l’enfance à l’âge adulte, de l’enfant à l’homme, de la jeune fille à la femme. Autour des seize, dix-sept ans, ils sont comme des papillons de nuit… Il faut essayer de les supporter et de leur venir en aide pendant cette période. J’ai une fille, Rebecca, qui a justement cet âge — priez pour elle. Et un garçon, Billy. Nous passons tous par cette période un peu folle: nous devons donc souffrir avec eux et réaliser ensemble que c’est quelque chose d’inévitable.
 
-    L’ACCUSATION         5
-      Parle, Seigneur! Parle, Seigneur!
-      Parle! et je répondrai: «Seigneur envoie-moi!».
-   FRERE BRANHAM: «Comment vous appelez-vous, frère?».
-   FRERE HUNT: «Orlando Hunt».
-   FRERE BRANHAM: «Frère Orlando Hunt de New York, est-ce exact? Et vous, frère…?».
-   FRERE COLEMAN: «Joseph Coleman».
-   FRERE BRANHAM: «Bien, Joseph Coleman».
-   Eh bien, mes frères, voulez-vous vous tourner face à l’assemblée? Frère Hunt et frère
-Coleman, tous deux avec un appel de Dieu dans leur coeur. Comme nous venons de le chanter:
-«C’est par millions qu’ils meurent dans le péché et dans la honte»; ils ont entendu ces cris d’effroi
-et de douleur! Et nous les adjurons: «Hâtez-vous, frères, hâtez-vous à leur secours!». Répondez
-vite: «Seigneur, me voici!». C’est ce qu’ils répondent ce matin.
-   Eh bien, nous en tant que frères de cette communauté, ainsi que ce groupe, nous confirmons et
-sanctionnons cela, en leur imposant les mains, et leur donnons la main d’association fraternelle
-pour être des témoins de Jésus-Christ. Nous les soutiendrons dans tout ce qu’ils entreprendront
-d’honorable et de juste selon l’Evangile. Ils seront l’objet de nos prières incessantes, pour que
-Dieu soit honoré par leur service. Qu’ils aient un ministère grand et fructueux à New York, et que
-leur vie soit pleinement utilisée à Son service, rapportant une précieuse moisson pour Son
-Royaume. Puissent-ils vivre longtemps et d’une vie heureuse, et puisse Dieu leur accorder le
-soutien permanent de Sa présence, leur accordant force et santé, les conservant à Son service
-jusqu’à ce que Jésus-Christ les appelle à la demeure éternelle et au repos céleste. Que tous dans
-l’assemblée inclinent leur tête, pendant que nous, pasteurs, leur imposons les mains [frère
-Branham s’éloigne alors du microphone pour imposer les mains aux deux frères — N.d.R.].
-   Notre Père Céleste, nous imposons les mains à ce frère, au Nom de Jésus-Christ, parce que
-tout ce que nous savons de lui, Seigneur, est juste et bien. Et nous Te remercions de cet appel au
-ministère que Tu as mis dans son coeur; Seigneur, parle au travers de ce frère, gagne des âmes,
-libère les captifs, guéris les malades, qu’il s’agisse de maladies physiques, mentales ou
-spirituelles. Seigneur, accorde-lui un ministère réel et puissant, de sorte qu’il puisse à la fin de sa
-route, en regardant loin en arrière de ce long trajet, voir qu’il a été capable, avec l’aide et la grâce
-de Dieu, de lier et de vaincre tout ennemi.
-   Nous Te le demandons au Nom de Jésus-Christ, notre Seigneur. Amen!
-   A ce frère Coleman également nous imposons les mains, Seigneur, pour confirmer son appel
-au ministère et en témoignage que cette église et que ce groupe croient qu’il est un serviteur de
-Christ. Nous Te prions de le bénir et de lui accorder un grand et puissant ministère, pour gagner
-des âmes à son Seigneur, pour délivrer les captifs en rompant des liens dont Satan entoure les
-gens avec lesquels il est en contact. Donne-lui, Seigneur, une vie fructueuse et que lui aussi,
-lorsqu’il arrivera à la fin de sa route, et en regardant loin en arrière de ce long trajet, il puisse voir
-où, par la grâce de Jésus-Christ il a été capable de rompre tout lien de l’ennemi, pour la gloire de
-Dieu.
-   Père Céleste, puissent maintenant ces hommes vivre et oeuvrer dans la moisson de Dieu. Que
-Tes bénédictions soient sur eux et avec eux jusqu’au temps où nous serons tous rassemblés aux
-pieds de notre grand Maître. Nous Te le demandons au Nom de Jésus-Christ. Amen!
-   Que le Seigneur vous bénisse, frère Hunt, et vous donne un ministère fructueux! Que le
-Seigneur vous bénisse, frère Coleman, et vous donne aussi un ministère fructueux! — Reprenons:
-      Quand les charbons ardents eurent touché le prophète,
-      Le rendant parfaitement pur, Et que la voix de Dieu dit:
-      «Qui s’avancera pour nous?»
-      Alors, il répondit: «Me voici, envoie-moi!»
-      Oh, parle, Seigneur! (qu’Il puisse parler à beaucoup de jeunes coeurs)
-      Parle, Seigneur!
-      (qu’ils soient appelés de Dieu).
-      Parle, et je suis prêt à répondre.
-      Parle, Seigneur! Parle, Seigneur!
-      Parle! et je répondrai: «Seigneur, envoie-moi!».
+Et maintenant, c’est Edith qui se trouve justement dans une situation semblable. Tous les sept ans, votre vie change, et elle a sept fois sept ans. Vous voyez: c’est un moment bien pénible pour elle. C’est un changement complet, et cela tourmente les femmes. Les hommes aussi, à cette période, ont un comportement bizarre: ils quittent parfois leur femme. Les femmes, elles, deviennent stériles. Nous devons tous passer par cette période difficile. Nous devons y penser et apprendre à nous supporter et à nous comprendre les uns les autres.
 
-        http://www.cmpp.ch
+La petite Edith est dans cet état; elle a perdu beaucoup de poids et a mauvaise mine. J’aimerais vous demander d’aller la voir un de ces soirs (pas tous à la fois, bien entendu!) … Vous savez, ils veillent jour et nuit… Quelqu’un de notre tabernacle, ou d’une autre communauté, ou quelque soeur d’ici, pourrait y aller et voir la famille Wright. Je suis sûr que cela leur ferait plaisir et qu’ils apprécieraient ce geste. Allez-y tout simplement, passez un moment avec eux; un brin de causette, une poignée de main — une simple petite visite amicale, vous savez; on oublie trop souvent cela. Mais quand il s’agit de notre propre maison, alors nous l’apprécions — mais nous devons nous en souvenir, les autres l’apprécient aussi. Allez-y! Et la famille Wright, j’en suis sûr, l’appréciera aussi. Je sais que vous l’auriez fait sans que je vous le dise, si vous aviez su ce qu’il en était. Mais vous ne le saviez pas, et c’est pourquoi je vous en parle ce matin.
 
-L’ACCUSATION 6
-   Combien nous remercions le Seigneur, ce matin, du grand honneur qu’Il fait à l’église en lui
-permettant d’assister au départ de ces prédicateurs dans le champ de mission de ces derniers
-jours. Que la grâce de Dieu soit avec vous, mes frères. J’espère qu’Il vous enverra en campagne
-par tout le monde pour prêcher les richesses insondables de Jésus-Christ, là où elles font
-tellement défaut. Le monde en a tant besoin aujourd’hui.
-   Pour l’instant, nous avons eu tant de bonnes choses, que nous avons pris de-ci, de-là, pour
-l’intégrer à notre culte de ce matin. Mais aujourd’hui, nous avons à parler sur un sujet que, parfois,
-je n’aime pas aborder: ces temps vraiment mauvais dans lesquels nous vivons.
-   S’il y en a parmi vous qui n’étaient pas là, dimanche passé, pour entendre ce message: Le
-Troisième Exode, il est enregistré sur bande magnétique, et si vous désirez l’avoir, je suis sûr qu’il
-vous intéressera: Le Troisième Exode.
-   Qu’avons-nous ici? Un garçon malade? Oh, un petit infirme! Oui, que Dieu le bénisse. Bien. De
-toute manière, nous prierons pour les malades à la fin du culte.
-   Essayez de vous procurer ce message Le Troisième Exode. C’est dans ce Troisième Exode
-que la Lumière (l’Ange du Seigneur), qui appelle les hommes à un exode, s’est montrée
-visiblement sur terre, dans un exode. Vous voyez, pour moi, c’est vraiment quelque chose
-d’extraordinaire: Le Troisième Exode.
-   Vous permettez que j’enlève ma veste? Il fait terriblement chaud ici, ce matin, et la seule
-ventilation possible, c’est de vous éventer vous-mêmes. Nous projetons d’installer l’air conditionné,
-aussitôt que possible.
-   Cela me ferait plaisir, si vous aviez envie d’écouter ce message Le Troisième Exode. Nous
-avons eu beaucoup d’exodes, cependant, nous pouvons discerner le lieu et le temps de trois
-exodes où Dieu, dans la Colonne de feu, est descendu pour appeler des hommes et les
-mettre à part. En ce moment même, un peuple est mis à part. Nous voyons que, lorsqu’Il
-déclencha le premier exode, Il marchait devant eux dans une Colonne de feu pour les conduire
-dans un pays où, plus tard, Il leur apparaîtrait sous la forme d’un homme appelé Jésus-Christ (Il
-venait de Dieu, et retourna à Dieu). Et après cela, Il fut rejeté. Il vint ensuite pour libérer les
-hommes d’une sujétion semblable à celle dans laquelle ils se trouvaient en Egypte, où ils se
-livraient au péché en adoptant la façon de vivre des Egyptiens. Et Dieu les appela à sortir.
-   Ensuite, nous les voyons pour la seconde fois se laisser emmener en captivité sous l’Empire
-Romain. Ils se laissent entraîner dans les credo, et s’éloignent de l’adoration vraie et sincère; et
-Dieu déclencha un nouvel exode. Il apparut sous la forme d’un homme conduisant d’autres
-hommes.
-   Dans le premier exode, Il était une Colonne de feu. Ensuite, Il vint sur la terre dans l’Agneau,
-auquel Il les conduisit… Quel magnifique symbole de ce Millénium vers lequel Il conduit Son
-Eglise maintenant. Nous Le verrons alors tel qu’Il est. Nous aurons un corps semblable à Son
-corps glorieux.
-   Et aujourd’hui, par la Lumière de l’Evangile, reflet de cette Lumière, une Colonne de feu a
-été rendue visible au milieu de nous… La science L’a vue; Elle a paru dans les journaux du
-monde entier, reconnue scientifiquement et spirituellement comme étant la même Colonne de feu,
-avec les mêmes signes et les mêmes choses qui L’ont toujours accompagnée.
-   Et maintenant même, malgré ce fanatisme et tout le reste, Dieu n’a pas cessé de révéler Son
-identité. Quelle chose glorieuse que de savoir qu’un jour ce tabernacle terrestre, ce corps frêle,
-malade et affligé, sera transformé en un corps glorieux, semblable au Sien! Alors, nous Le
-verrons tel qu’Il est, et nous serons avec Lui dans ce pays vers lequel nous commençons déjà
-aujourd’hui à nous diriger.
-   Oh! Cela nous donne toujours envie de nous lever pour chanter: «Je marche vers la Terre
-Promise!». Ils vont probablement chanter ce cantique, tout à l’heure, au service de baptême — car
-c’est précisément notre cantique de baptême.
-   Maintenant, à vous frères ici présents, et à ceux des pays où iront ces bandes enregistrées (qui
-vont dans le monde entier): ces messages ne sont pas destinés individuellement à certaines
-personnes. Nous ne voudrions pas que l’on croie que nous sommes une bande de fanatiques, qui
-se sont rassemblés après s’être séparés des autres, étant contre les hommes, contre Dieu, ou
-contre l’église. Nous sommes pour l’Eglise, mais nous essayons seulement de déterminer, par le
+Donc, allez voir la famille Wright, et surtout, entourez un peu Edith, et encouragez-la. Ne lui dites surtout pas qu’elle a mauvaise mine, mais au contraire, qu’elle a l’air d’aller mieux — elle ira mieux, si nous continuons à la soutenir. C’est pour cela que nous sommes ici. C’est notre soeur, et nous sommes ici pour prier et intercéder pour elle — de la même manière que j’aimerais que l’on prie et intercède pour moi, quand je passe par des épreuves, comme vous-mêmes aimeriez que quelqu’un prie pour vous.
 
-        http://www.cmpp.ch
+Les Wright sont parmi les membres les plus anciens qui viennent à cette assemblée, avec je suppose frère Roy Slaughter et soeur Slaughter. Je les ai vus tout à l’heure, et je pensais en moi-même: «Il y a bien des années que je vois ces frère et soeur Slaughter prendre leur place dans cette église, à travers toutes ces vicissitudes, ces hauts et ces bas, et ils vont toujours de l’avant!». Il en va de même avec cette famille Wright. Vous aimez de tels gens, n’est-ce pas? Laissons-leur voir et sentir combien nous les aimons.
 
-L’ACCUSATION 7
-Saint-Esprit et avec Son aide, les raisons qui nous conduisent à cette séparation. Nous croyons
-que les églises ne devraient pas se séparer, mais plutôt avoir communion entre elles: les
-Méthodistes dans leur groupe, les Baptistes dans le leur, et les Unitaires, et les Trinitaires, et que
-sais-je encore, tous ceux qui sont séparés les uns des autres. Nous croyons que tous devraient
-être ensemble en un grand groupe uni du Corps de Jésus-Christ, attendant Sa glorieuse
-venue. Ils ne devraient pas du tout être séparés.
-   Il doit nécessairement y avoir une raison fondamentale pour que nous soyons séparés
-au lieu d’être unis. En considérant les choses, je m’aperçois que cela n’a aucun rapport avec la
-couleur de notre peau; en effet, que nous soyons jaune, noir, brun ou blanc, tous nous sommes
-séparés en différentes organisations. Cela n’est pas dû non plus à notre nourriture. Tous nous
-mangeons la même nourriture, nous nous vêtons tous de la même manière, et ainsi de suite. Mais
-je vois ce qui cloche, dans tout cela: c’est que l’homme est sorti du chemin tracé par
-l’enseignement de l’Evangile. Il doit y avoir un moyen de montrer d’une manière bien définie ce
-qui est juste et ce qui est faux. Et ce moyen, le seul que vous puissiez jamais employer, c’est
-de ne jamais donner une interprétation de la Parole, mais de la lire telle qu’Elle est et de la
-croire de même. Quiconque donne sa propre interprétation Lui fait dire quelque chose de
-différent.
-   Cela nous ramène à l’origine de l’organisation de l’église Catholique; l’église Catholique croit
-que Dieu est dans son église, et que la Parole n’a rien à voir là-dedans — Dieu est dans Son
-église. Mais, pour nous, Protestants, nous voyons dans Apocalypse 17 qu’ils se rassemblèrent,
-l’église Catholique étant la mère de toutes les organisations. Et nous voyons que
-l’organisation protestante (pauvres aveugles!), a la même nature que l’église Catholique. La
-Bible dit que l’église Catholique est une prostituée, et appelle l’église Protestante: «prostituée».
-Elle dit que la grande prostituée est mère d’autres prostituées. Et, chers amis, vous savez quelle
-mauvaise réputation a la femme qui n’est pas restée fidèle aux voeux de son mariage. Et nous
-qui prétendons tous être l’Epouse de Christ, et qui sommes pourtant si infidèles! En quoi
-sommes-nous infidèles? — En vivant en contradiction avec la règle établie par Dieu (la
-Bible) pour Son Epouse: c’est là mon opinion personnelle. Je crois que la Bible est la
-Parole infaillible de Dieu. Et nous sommes donc amenés à constater que l’église Protestante va
-même jusqu’à se séparer des Ecritures pour établir sa propre organisation.
-   Les prédicateurs consacrés, les pasteurs, s’attachent à des choses qui… ils viennent par
-centaines chez moi, à mon bureau, ou dans les salles de réunions, pour me dire: «Frère Branham,
-vous en provoquez des gens, par vos défis! Mais personne ne les relève, car ils savent bien que
-c’est la vérité».
-   Alors, je leur demande: «Pourquoi n’agissez-vous pas en conséquence?».
-   Ils me répondent: «Parce qu’alors je n’aurais plus qu’à m’en aller mendier. J’ai un ministère; je
-dois servir le Seigneur et Son peuple; sinon, je n’aurai aucun soutien matériel».
-   Rendez-vous compte que c’est Christ qui est notre soutien! La Bible est notre soutien!
-Voyez-vous? Cela place l’église Protestante sur le même pied que l’église Catholique.
-   Je n’irai pas jusqu’à dire que l’église Catholique ne se soucie pas de la Bible; ils croient la Bible,
-oui, mais ils ont aussi une succession apostolique sur laquelle est fondée l’église Catholique: c’est
-la succession des papes; et ils disent que Pierre est le premier pape. Ils croient cela — ils y croient
-de tout leur coeur.
-   De même, les Protestants, eux aussi, se sont rassemblés pour former une organisation, comme
-l’église Catholique, qui s’organisa au Concile de Nicée. Nous voyons bien que tous les deux
-sont semblables, les deux font la même chose: ils abandonnent la Parole de Dieu pour
-établir une organisation. Ainsi, lorsqu’on en vient à toutes ces grandes Vérités qui semblent
-insolites de nos jours, elles leur sont étrangères, parce que leur enseignement vient d’un rituel.
-Nous n’avons pas de rituel en dehors de la Bible. Nous n’avons rien d’autre que la Sainte
-Parole de Dieu, et nous nous y tenons fermement.
-   Aujourd’hui, j’aimerais, pendant quelques instants, vous lire certains passages des Ecritures, de
-la Parole de Dieu sainte et sacrée; ce sera le point de départ et la base de ce dont je désire parler
-aujourd’hui, une pensée fondamentale que je voudrais développer. Lisons dans Luc, chapitre 23,
-verset 33; c’est le seul verset dont j’aurai besoin aujourd’hui: “Lorsqu’ils furent arrivés au lieu
+J’ai un long message à donner, aujourd’hui. Il s’agit d’une accusation. J’ai aussi entendu dire qu’il y aurait communion et lavage des pieds, ici ce soir. Le pasteur parlera, et nous aussi, nous viendrons; si vous êtes dans les environs, alors venez aussi vous réjouir du message du pasteur — ou plutôt du Seigneur. Avec ce lavage des pieds, et cette communion, nous aurons une soirée bien remplie. Aussi serions-nous heureux de vous y voir, si vous n’avez pas d’autres engagements.
 
-        http://www.cmpp.ch
+Et nous aimerions saluer Don Ruddell, notre frère, et frère Jackson (et tous ces frères qui viennent d’autres communautés associées), frère Jack Palmer, là, qui dirige le groupe, là-bas en Georgie. Nous estimons de tels hommes de tout notre coeur, parce que chaque fois que nous avons des réunions et que je suis ici, ils viennent nous rendre visite. Nous nous en réjouissons.
 
-L’ACCUSATION 8
-appelé Crâne, ils le crucifièrent là, ainsi que les deux malfaiteurs, l’un à droite, l’autre à gauche”.
-   Maintenant, je prends quatre mots de cette lecture, qui seront la base de mon sujet: “Ils Le
-crucifièrent là”: quatre mots. Et j’intitulerai mon sujet: «J’accuse les églises
-dénominationnelles du temps présent, et aussi de nombreuses communautés
-indépendantes, de crucifier Jésus-Christ à nouveau de nos jours». Voilà de quoi je les
-accuse!
-   Ce matin, ma prédication se nomme L’Accusation. Et je vais considérer cette salle comme une
-sorte de tribunal. Après tout, l’église et sa chaire sont bien un tribunal! La Bible dit que le jugement
-doit commencer par la maison de Dieu. Représentez-vous donc, ici, le trône, là, le jury; puis les
-témoins, etc.
-   Mais aujourd’hui, j’ai pour témoin la Parole de Dieu, et mon accusation est contre les églises
-actuelles. Je n’implique pas le pécheur individuellement, dans tout cela, mais j’accuse l’église en
-tant que communauté. Cela sera enregistré sur bande, et j’essaierai d’aller aussi vite que
-possible.
-   J’accuse cette génération d’avoir crucifié Jésus-Christ une deuxième fois!
-   Pour porter une telle accusation à l’époque où nous vivons, il faut aussi apporter des preuves.
-Pour soutenir l’accusation, il faut une déposition qui établisse le délit criminel. Pour les accuser, je
-dois fournir des preuves qui puissent être soutenues tout au long de la procédure, et apportées
-devant le Juge, le Juge Suprême. Pour soutenir cette accusation, je vais prendre la place du
-procureur.
-   La Parole de Dieu étant mon témoin, j’accuse cette génération de la crucifixion. Je dois
-démontrer, et je démontrerai que l’esprit des gens qui a amené la première crucifixion, est le
-même qui agit aujourd’hui. Je dois démontrer que les gens d’aujourd’hui agissent de la même
-manière, spirituellement, envers Jésus-Christ, que lorsqu’ils Le crucifièrent physiquement,
-Lui, Jésus-Christ, le Fils de Dieu.
-   Et aujourd’hui, par la même Parole, par le même Saint-Esprit, j’aimerais montrer où en sont les
-églises: elles agissent aujourd’hui de la même manière, comme la Bible dit qu’elles le feraient; et
-je dois prouver que nous vivons cela en ce moment même où je vous parle.
-   Il y a quelques années, cinquante ans par exemple, on n’aurait pas pu faire ce procès. Mais
-aujourd’hui, l’heure a sonné; il y a dix ans, cela aurait été trop tôt; mais aujourd’hui, cela est
-possible, parce que les temps sont révolus — nous sommes au temps de la fin. Et je crois, en
-tant que Son serviteur, que nous sommes sur le point de quitter cette terre pour nous en aller
-ailleurs.
-   Par conséquent, le temps de la repentance pour une nation est révolu; je ne crois pas que
-cette nation puisse encore se repentir. Je crois que nous venons de passer la frontière entre la
-grâce et le jugement; en tout cas, la balance oscille pour passer de l’une à l’autre.
-   «Frère Branham, avant d’entamer votre procédure, comment allez-vous prouver cela?». A cela,
-je réponds simplement: «C’est parce que nous sommes coupables des mêmes péchés à
-cause desquels Dieu détruisit le monde antédiluvien. Nous sommes coupables des mêmes
-péchés qui ont amené la destruction de Sodome et de Gomorrhe… Et nous avons tous
-devant nous les mêmes signes, connus du monde entier, qui ont apporté la grâce de Dieu à
-ces générations et qui, rejetés, ont apporté le jugement. Ainsi donc, si cette génération a
-rejeté la même grâce qu’ont rejetée les autres, alors Dieu serait injuste s’Il la laissait aller
-sans jugement».
-   Comme le disait un jour un de mes amis, Jack Moore: «Si cette nation devait s’en tirer sans
-punition de Dieu, alors Dieu devrait relever de leurs ruines Sodome et Gomorrhe, et leur demander
-pardon de les avoir détruites».
-   Nous savons que, spirituellement, ils font la même chose aujourd’hui; ils le font pour les mêmes
-motifs et de la même manière qu’ils crucifièrent alors physiquement le Seigneur. Ils le font par
-jalousie, parce qu’ils sont aveugles spirituellement, parce qu’ils ne veulent pas voir ni
-entendre. Jésus, lors de Son passage sur cette terre, a dit: “Esaïe a bien prophétisé de vous,
-lorsqu’il a dit: Vous avez des yeux et vous ne voyez pas, et des oreilles, et vous n’entendez pas”.
-Comprenez-vous?
+Ce matin, j’aperçois mon bon ami, le Docteur Lee Vayle et sa femme. J’ai d’abord reconnu soeur Vayle, puis j’ai jeté un coup d’oeil pour découvrir le frère Lee — j’ai, comme l’exprime ce vieux dicton du Sud, «un oiseau à plumer» avec lui, autrement dit «un petit compte à régler» avec lui, vous comprenez? Chaque fois que je viens ici, je jette un coup d’oeil pour voir s’il est là pour m’aider. Je dis alors: «Bon, si frère Lee est là, qu’il fasse la prédication, et moi je ferai seulement la prière pour les malades». Mais voilà, nous avions beau le chercher et tout prévoir, il restait toujours introuvable — ainsi, il me reste «un oiseau à plumer» avec lui, lorsque enfin je l’attraperai! Et nous sommes heureux d’avoir ce frère et cette soeur Vayle avec nous ce matin.
 
-        http://www.cmpp.ch
+Peut-être y en a-t-il encore beaucoup, ici, que nous n’arrivons pas à situer. Je vois une soeur ici, qui vient de Chicago, je crois? Je connais aussi ce groupe, là, mais je ne puis me rappeler exactement leurs noms. Nous apprécions votre présence ici, d’où que vous veniez.
 
-    L’ACCUSATION                      9
-   C’est pour la même raison, le même motif et au moyen des mêmes arguments qu’ils
-crucifient à nouveau le Christ (nous verrons cela plus loin), comme ils le firent autrefois. Ils n’ont
-rien à répondre à cela et ils n’oseraient pas le contredire. Ils savent que les preuves sont là, et ils
-savent que c’est la Bible qui le dit. La seule chose qu’ils puissent faire, c’est de blasphémer. C’est
-bien ce qu’ils font.
-   C’est sur cette base que j’accuse cette génération de crucifier Jésus-Christ — ils
-crucifient, ils sont coupables. C’est avec des mains sales, perverses, égoïstes,
-dénominationnelles, qu’ils crucifient le Prince de la Vie qui voulait se révéler aux hommes.
-   Vous dites: «C’est la même personne?».
-   — “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu”.
-“… et la Parole a été faite chair…” et elle s’est manifestée. La Parole a été manifestée dans la
-chair, et ils ont condamné cette chair, et L’ont mise à mort — parce que la Parole a été
-manifestée. Hébreux 13.8 dit: “Jésus-Christ est le même hier, aujourd’hui, et éternellement”. C’est
-la même Parole, vous voyez. Et pour les mêmes raisons, ils cherchent à crucifier la Parole.
-   Maintenant, revenons au texte que je voulais commenter, ces quatre mots: “… ils Le crucifièrent
-là…” [En angl.: “Là, ils Le crucifièrent” — N.d.T.] Expliquons le “là” — là, dans la ville la plus sainte
-du monde, Jérusalem. Là, dans la ville la plus religieuse du monde. Là, “ils” — le peuple le
-plus religieux du monde, lors d’une fête religieuse, la Pâque… Là, le lieu le plus religieux, la
-cité la plus religieuse — la plus grande de toutes les organisations, leur grand quartier général, là,
-ils, les gens les plus religieux du monde, s’étaient rassemblés de partout. Ils Le crucifièrent, ce qui
-est la mort la plus ignominieuse, Le laissant nu, après Lui avoir arraché Ses vêtements. Sur les
-crucifix, on voit un linge autour de Ses reins; mais là, ils Lui avaient arraché tous Ses vêtements…
-Là (la ville la plus religieuse), ils (le peuple le plus religieux) Le (la Personne la plus
-précieuse) crucifièrent (la mort la plus ignominieuse).
-   N’est-ce pas suffisant pour condamner cette génération! Là, la plus religieuse des
-organisations, le rassemblement de la plus grande de toutes les églises; ils, eux, le peuple le plus
-religieux de tous les peuples; eux qui étaient censés être les vrais adorateurs de Dieu… ils
-s’assemblèrent pour la plus sainte de toutes leurs fêtes, pour la purification de la Pâque, la fête
-célébrant leur passage de l’esclavage à la liberté. Et c’est là qu’en ce temps, eux, le peuple le
-plus religieux, lors de la plus sainte de toutes leurs fêtes religieuses, célébrée dans le lieu le plus
-saint, firent au Prince de la Vie le plus odieux des outrages: ils Le dépouillèrent de Ses
-vêtements et Le clouèrent sur une croix; parce que la loi dans laquelle ils adoraient dit: “Maudit est
-quiconque est pendu au bois”. Et Il fut fait malédiction pour nous. Ils L’ont dépouillé, frappé,
-bafoué, — Lui, le vrai Dieu du Ciel; ils Lui arrachèrent Ses vêtements et Le clouèrent sur une
-croix. Là, ils Le crucifièrent, Lui, Lui infligeant la peine capitale des Romains.
-   De nos jours, la mort la plus ignominieuse n’est pas de recevoir un coup de fusil, d’être écrasé
-par une automobile, de mourir dans un incendie ou de se noyer — Non! La mort la plus
-ignominieuse, de nos jours, c’est la peine capitale, par laquelle le monde entier vous
-déclare coupable et vous condamne. Et le monde entier porta la main sur cet Homme, Le
-déclarant coupable, alors qu’Il était innocent. Il mourut sous la loi de l’ennemi, et non par celle
-de Ses amis; non par Ses propres lois, mais crucifié par la crucifixion de l’ennemi, Lui, le Prince de
-la Vie, l’Etre le plus précieux qu’il y ait jamais eu et qu’il y aura jamais; Jésus-Christ — Lui, l’Etre
-le plus noble! Gardez toujours cela à l’esprit, pendant que nous étudions ce sujet aujourd’hui.
-   Pouvez-vous imaginer un endroit comme Jérusalem, il y a 2500 ans ou plus… j’exagère
-peut-être un peu; il pouvait n’y avoir que huit ou neuf cents ans — je ne sais pas exactement à
-quelle époque Salomon bâtit le Temple — mais déjà ils attendaient la venue d’un Messie — ils
-se rassemblaient là pour célébrer la Pâque. Pensez donc: les chefs de tous les Pharisiens,
-Sadducéens, et autres, tous rassemblés pour adorer Dieu. C’est à Jérusalem, la Ville Sainte, où
-s’élevait le Temple du Seigneur — c’est là que le peuple du Seigneur s’empara du Seigneur
-Lui-même pour Le crucifier, Lui infligeant ainsi la peine capitale. Quelle chose terrible!
-   Revenons à ces quatre mots: “Là, ils le crucifièrent”. Regardez dans votre Bible: il n’y a que ces
-quatre mots. Mais la Bible condense ses Vérités en peu de mots, tandis que moi, je dois faire un
-détour et expliquer ce que je veux dire — mais la Bible n’a pas besoin d’expliquer quoi que ce soit:
-c’est la Vérité toute simple qui se trouve là. Et ce sont là quatre mots faisant partie de cette
+Je vois deux frères ici, deux jeunes gens qui doivent être ordonnés dans le ministère, ce matin (ils sont nouveaux dans le ministère en tout cas). Nos deux frères de couleur de New York viennent de recevoir leur licence de l’Eglise de Philadelphie et passeront à cette communauté (dont ils viennent). Nous allons leur imposer les mains pour que Dieu bénisse leur ministère à New York. Nous avons deux ou trois petites communautés là-bas, dont l’une est à frère Milano; nous les aimons toutes. Ainsi, nous avons ici deux serviteurs de plus pour s’occuper de ces gens là-bas. Cela nous réjouit. Que le Seigneur vous bénisse abondamment!
 
-                    http://www.cmpp.ch
+En regardant à la ronde, j’en vois beaucoup parmi vous — je ne puis me rappeler leurs noms à tous, mais je sais que Lui les connaît, et comprend.
 
-    L’ACCUSATION                      10
-grande chaîne de la Vérité. Je vais essayer d’expliquer cela. Mais, pour l’expliquer clairement, il
-faudrait toute une bibliothèque. Je ne sais comment je vais expliquer ces quatre mots. Mais
-maintenant, essayons, avec l’aide de Celui qui les a inspirés pour être écrits, de commenter ces
-quatre mots de telle manière que tous puissent comprendre.
-   Qu’avons-nous donc devant nous? Nous avons la première crucifixion, à l’endroit le plus saint
-et devant le peuple le plus religieux, la mort la plus honteuse de la plus précieuse Personne. Oh,
-quelle contradiction! Quelle abomination!
-   Pour commencer, reprenons le premier mot: “Là”. Parlons-en quelques instants, avant
-d’aborder la condamnation. Nous allons l’examiner et vous montrer ce qu’ils ont fait, et ainsi nous
-saurons si mon accusation est juste ou non. “Là” — Jérusalem — le lieu très saint, parce que c’est
-là que s’élevait le Temple et que les Juifs du monde entier se réunissaient, un lieu de
-rassemblement pour le culte d’adoration. Le lieu de culte et d’adoration par excellence,
-Jérusalem, là où s’élevait le Temple. Comme il est écrit: “C’est à Jérusalem que tous les
-hommes doivent adorer”. Il en est ainsi, parce que c’est un centre d’adoration.
-   Aujourd’hui, vous pouvez les entendre dire: «Oh! nous allons à ces grandes conventions», ces
-conventions tenues par telle ou telle dénomination. Et puis, nous avons encore ces cérémonies au
-Vatican, le sacre des papes, etc. Chacun dit: «Nous devrions tous aller aux Assemblées des
-Méthodistes», ou «des Baptistes», ou «Il nous faut tous aller à Rome». — là où se trouve,
-disent-ils, le grand centre de la Chrétienté.
-   Pendant la dernière guerre, lorsque Rome tomba, les soldats allemands (plusieurs d’entre vous
-savent cela) se retiraient dans la Cité du Vatican et tirèrent sur les Américains, lorsque ceux-ci
-avancèrent. Frère Funk et frère Robertson, frère Beeler et plusieurs des frères qui firent la guerre,
-savent cela. Et savez-vous ce qui est arrivé? Des ordres furent donnés aux Américains de ne pas
-tirer sur cette ville! Vous, vous deviez rester là, comme une cible pour les autres. Mais sur
-l’Abbaye de Westminster à Londres, on pouvait tirer tant qu’on voulait. Là, étaient rassemblés les
-Protestants, alors là, on pouvait tirer. Mais pas sur le Vatican, parce que le Président
-Roosevelt… J’ai entendu son discours à la radio, ce soir-là, dans l’émission radiophonique
-«Conversation au coin du feu». Il disait: «Quelle honte que Rome soit tombée! Rome, la capitale
-de toute la Chrétienté!». Pouvez-vous imaginer un Protestant disant une chose pareille?
-   Ce grand centre de la religion chrétienne, nous allons le comparer, le mettre en parallèle avec
-Jérusalem, si vous le voulez bien. A la tête, il y avait le Sanhédrin, les Pharisiens, les Sadducéens,
-et tous ceux-là se rendaient à Jérusalem. C’était réellement le quartier général.
-   En ce qui concerne les organisations, vous devez admettre que l’église Catholique
-Romaine en est bien la mère. C’est certain. Et cela a commencé à la Pentecôte. C’est bien le
-chemin qu’ils prirent, lorsqu’ils commencèrent à s’organiser. Et maintenant, nous autres
-Protestants, nos communautés sont les soeurs cadettes de cette église.
-   Je dirai qu’il en est aujourd’hui du Vatican comme autrefois de Jérusalem, où tous devaient se
-rendre pour adorer. Pourquoi le firent-ils, au temps de Jésus? Pourquoi disaient-ils que tous les
-hommes devaient adorer à Jérusalem? Parce qu’il n’y a qu’un seul lieu où Dieu puisse entrer
-en communion avec les hommes: c’est sous le Sang du sacrifice. C’est la raison pour laquelle
-ils devaient venir à Jérusalem. Dieu ne rencontrera l’homme nulle part ailleurs que sous le Sang.
-Si vous rejetez le Sang, alors le lieu de rencontre avec Dieu est enlevé. C’est au jardin d’Eden
-que Dieu prit Sa première décision, à savoir, que l’homme ne pourrait L’adorer que sous
-l’aspersion du Sang du sacrifice. C’était alors le seul lieu où Dieu rencontrait l’homme; c’est le seul
-lieu où Dieu rencontra jamais l’homme. Et aujourd’hui, le seul lieu où Il rencontre l’homme est
-sous l’aspersion du Sang du sacrifice.
-   Peu importe que vous soyez Méthodiste, Baptiste, Presbytérien; si vous oubliez vos
-différences, même si vous êtes Catholique Romain, et que vous vous placez sous le Sang, c’est là
-que Dieu rencontrera chacun de vous. C’est là que nous pouvons tous nous rencontrer et
-communier sur le même fondement. Mais autrement, ce n’est pas parce que vous êtes un
-Méthodiste ou un Pentecôtiste qu’il vous rencontrera. Il ne vous agréera qu’à une seule condition:
-c’est que vous soyez sous l’aspersion du Sang, lorsque vos péchés auront été confessés et
-rejetés de Sa Présence. Le Sang est toujours devant Lui, et ce n’est qu’au travers de
-l’effusion du Sang qu’Il peut vous voir. Vous êtes plus blanc que neige, lorsque vous avez
-confessé vos péchés; autrement, c’est comme si vous n’existiez pas: vous ne pouvez avoir de
+Maintenant, si notre soeur, la pianiste, ou quelqu’un d’autre, veut venir et jouer pour nous le cantique:
 
-                    http://www.cmpp.ch
+Quand les charbons ardents eurent touché le prophète,
+Le rendant parfaitement pur, Et que la voix de Dieu dit:
+«Qui s’avancera pour nous?».
+Alors, il répondit: «Me voici, envoie-moi!».
+
+Nous savons que, bibliquement, la consécration d’un prédicateur se fait par l’imposition des mains. Je pense que c’est là que nos frères de la communauté de «La Dernière Pluie» et ceux du groupe de Battleford sont dans l’erreur, en croyant que, par l’imposition des mains, on confère des dons. Nous ne croyons pas cela. Nous croyons que, par l’imposition des mains, nous sanctionnons ce que nous avons vu. Vous comprenez? C’est un «amen!».
+
+Lorsqu’ils imposèrent les mains à Timothée et aux autres frères, ils avaient remarqué que les dons étaient déjà en eux. Rappelez-vous: “… gardant le souvenir de la foi sincère qui est en toi, qui habita d’abord dans ton aïeule Lois…” (2 Timothée 1.5). Ils ont vu cela en Timothée, et ainsi les anciens lui imposèrent-ils les mains lors de son ordination; autrement, ils n’auraient jamais imposé les mains à un homme dans lequel rien ne se serait manifesté auparavant. Comprenez-vous? Et ils ne demandaient rien d’autre que la bénédiction; nous croyons tous cela. Donc, nous ne conférons pas des dons spirituels, nous les reconnaissons seulement et nous imposons les mains pour les attester, en croyant que Dieu opère de telles choses.
+
+J’ai aperçu ce matin, là tout au fond, frère Mc Kinney — je crois que c’est Kinney ou Mc Kinney — le pasteur Méthodiste à qui nous avons récemment aussi conféré l’ordination ici (je crois que c’est ici même, sur ce podium), pour qu’il puisse se joindre aux frère et soeur Dauch et à leur groupe, là-bas, dans l’Ohio. Oh, quand nous nous réunissons ainsi, dans ces petites bourgades, c’est merveilleux! Pas de dénominations, pas d’étiquette ou quoi que ce soit, mais Jésus-Christ seul, et c’est tout! Vous voyez? Se retrouver simplement ensemble, dans les lieux célestes.
+
+Très bien, soeur, entonnons le cantique, juste la première strophe de «Quand les charbons ardents touchèrent le prophète» (Chantons-le ensemble, maintenant).
+
+Quand les charbons ardents eurent touché le prophète,
+Le rendant parfaitement pur, Et que la voix de Dieu dit:
+«Qui s’avancera pour nous?».
+Alors, il répondit: «Me voici, envoie-moi!».
+Parle, Seigneur! Parle, Seigneur!
+(Frères, avancez, si vous le désirez)
+Parle, et je suis prêt à répondre…
+
+[L’assemblée continue à chanter — N.d.R.]
+
+Que les autres frères prédicateurs s’avancent, s’ils le désirent, pour l’imposition des mains… ceux des communautés associées à la nôtre: frère Ruddell, frère Lamb, et les autres.
+
+Parle, et je répondrai: «Seigneur, envoie-moi!».
+Oh, c’est par millions qu’ils meurent
+Dans le péché et la honte.
+Entendez-vous leurs cris d’effroi et de douleur?
+Hâtez-vous, frères, courez à leur secours,
+Répondez vite: «Seigneur, me voici!».
+Parle, Seigneur! Parle, Seigneur!
+Parle! Je Te répondrai: «Me voici!».
+
+Parle, Seigneur! Parle, Seigneur!
+Parle! et je répondrai: «Seigneur envoie-moi!».
+
+FRERE BRANHAM: «Comment vous appelez-vous, frère?».
+FRERE HUNT: «Orlando Hunt».
+FRERE BRANHAM: «Frère Orlando Hunt de New York, est-ce exact? Et vous, frère…?».
+FRERE COLEMAN: «Joseph Coleman».
+FRERE BRANHAM: «Bien, Joseph Coleman».
+
+Eh bien, mes frères, voulez-vous vous tourner face à l’assemblée? Frère Hunt et frère Coleman, tous deux avec un appel de Dieu dans leur coeur. Comme nous venons de le chanter: «C’est par millions qu’ils meurent dans le péché et dans la honte»; ils ont entendu ces cris d’effroi et de douleur! Et nous les adjurons: «Hâtez-vous, frères, hâtez-vous à leur secours!». Répondez vite: «Seigneur, me voici!». C’est ce qu’ils répondent ce matin.
+
+Eh bien, nous en tant que frères de cette communauté, ainsi que ce groupe, nous confirmons et sanctionnons cela, en leur imposant les mains, et leur donnons la main d’association fraternelle pour être des témoins de Jésus-Christ. Nous les soutiendrons dans tout ce qu’ils entreprendront d’honorable et de juste selon l’Evangile. Ils seront l’objet de nos prières incessantes, pour que Dieu soit honoré par leur service. Qu’ils aient un ministère grand et fructueux à New York, et que leur vie soit pleinement utilisée à Son service, rapportant une précieuse moisson pour Son Royaume. Puissent-ils vivre longtemps et d’une vie heureuse, et puisse Dieu leur accorder le soutien permanent de Sa présence, leur accordant force et santé, les conservant à Son service jusqu’à ce que Jésus-Christ les appelle à la demeure éternelle et au repos céleste. Que tous dans l’assemblée inclinent leur tête, pendant que nous, pasteurs, leur imposons les mains [frère Branham s’éloigne alors du microphone pour imposer les mains aux deux frères — N.d.R.].
+
+Notre Père Céleste, nous imposons les mains à ce frère, au Nom de Jésus-Christ, parce que tout ce que nous savons de lui, Seigneur, est juste et bien. Et nous Te remercions de cet appel au ministère que Tu as mis dans son coeur; Seigneur, parle au travers de ce frère, gagne des âmes, libère les captifs, guéris les malades, qu’il s’agisse de maladies physiques, mentales ou spirituelles. Seigneur, accorde-lui un ministère réel et puissant, de sorte qu’il puisse à la fin de sa route, en regardant loin en arrière de ce long trajet, voir qu’il a été capable, avec l’aide et la grâce de Dieu, de lier et de vaincre tout ennemi.
+
+Nous Te le demandons au Nom de Jésus-Christ, notre Seigneur. Amen!
+
+A ce frère Coleman également nous imposons les mains, Seigneur, pour confirmer son appel au ministère et en témoignage que cette église et que ce groupe croient qu’il est un serviteur de Christ. Nous Te prions de le bénir et de lui accorder un grand et puissant ministère, pour gagner des âmes à son Seigneur, pour délivrer les captifs en rompant des liens dont Satan entoure les gens avec lesquels il est en contact. Donne-lui, Seigneur, une vie fructueuse et que lui aussi, lorsqu’il arrivera à la fin de sa route, et en regardant loin en arrière de ce long trajet, il puisse voir où, par la grâce de Jésus-Christ il a été capable de rompre tout lien de l’ennemi, pour la gloire de Dieu.
+
+Père Céleste, puissent maintenant ces hommes vivre et oeuvrer dans la moisson de Dieu. Que Tes bénédictions soient sur eux et avec eux jusqu’au temps où nous serons tous rassemblés aux pieds de notre grand Maître. Nous Te le demandons au Nom de Jésus-Christ. Amen!
+
+Que le Seigneur vous bénisse, frère Hunt, et vous donne un ministère fructueux! Que le Seigneur vous bénisse, frère Coleman, et vous donne aussi un ministère fructueux! — Reprenons:
+
+Quand les charbons ardents eurent touché le prophète,
+Le rendant parfaitement pur, Et que la voix de Dieu dit:
+«Qui s’avancera pour nous?»
+Alors, il répondit: «Me voici, envoie-moi!»
+Oh, parle, Seigneur! (qu’Il puisse parler à beaucoup de jeunes coeurs)
+Parle, Seigneur!
+(qu’ils soient appelés de Dieu).
+Parle, et je suis prêt à répondre.
+Parle, Seigneur! Parle, Seigneur!
+Parle! et je répondrai: «Seigneur, envoie-moi!».
+
+Combien nous remercions le Seigneur, ce matin, du grand honneur qu’Il fait à l’église en lui permettant d’assister au départ de ces prédicateurs dans le champ de mission de ces derniers jours. Que la grâce de Dieu soit avec vous, mes frères. J’espère qu’Il vous enverra en campagne par tout le monde pour prêcher les richesses insondables de Jésus-Christ, là où elles font tellement défaut. Le monde en a tant besoin aujourd’hui.
+
+Pour l’instant, nous avons eu tant de bonnes choses, que nous avons pris de-ci, de-là, pour l’intégrer à notre culte de ce matin. Mais aujourd’hui, nous avons à parler sur un sujet que, parfois, je n’aime pas aborder: ces temps vraiment mauvais dans lesquels nous vivons.
+
+S’il y en a parmi vous qui n’étaient pas là, dimanche passé, pour entendre ce message: Le Troisième Exode, il est enregistré sur bande magnétique, et si vous désirez l’avoir, je suis sûr qu’il vous intéressera: Le Troisième Exode.
+
+Qu’avons-nous ici? Un garçon malade? Oh, un petit infirme! Oui, que Dieu le bénisse. Bien. De toute manière, nous prierons pour les malades à la fin du culte.
+
+Essayez de vous procurer ce message Le Troisième Exode. C’est dans ce Troisième Exode que la Lumière (l’Ange du Seigneur), qui appelle les hommes à un exode, s’est montrée visiblement sur terre, dans un exode. Vous voyez, pour moi, c’est vraiment quelque chose d’extraordinaire: Le Troisième Exode.
+
+Vous permettez que j’enlève ma veste? Il fait terriblement chaud ici, ce matin, et la seule ventilation possible, c’est de vous éventer vous-mêmes. Nous projetons d’installer l’air conditionné, aussitôt que possible.
+
+Cela me ferait plaisir, si vous aviez envie d’écouter ce message Le Troisième Exode. Nous avons eu beaucoup d’exodes, cependant, nous pouvons discerner le lieu et le temps de trois exodes où Dieu, dans la Colonne de feu, est descendu pour appeler des hommes et les mettre à part. En ce moment même, un peuple est mis à part. Nous voyons que, lorsqu’Il déclencha le premier exode, Il marchait devant eux dans une Colonne de feu pour les conduire dans un pays où, plus tard, Il leur apparaîtrait sous la forme d’un homme appelé Jésus-Christ (Il venait de Dieu, et retourna à Dieu). Et après cela, Il fut rejeté. Il vint ensuite pour libérer les hommes d’une sujétion semblable à celle dans laquelle ils se trouvaient en Egypte, où ils se livraient au péché en adoptant la façon de vivre des Egyptiens. Et Dieu les appela à sortir.
+
+Ensuite, nous les voyons pour la seconde fois se laisser emmener en captivité sous l’Empire Romain. Ils se laissent entraîner dans les credo, et s’éloignent de l’adoration vraie et sincère; et Dieu déclencha un nouvel exode. Il apparut sous la forme d’un homme conduisant d’autres hommes.
+
+Dans le premier exode, Il était une Colonne de feu. Ensuite, Il vint sur la terre dans l’Agneau, auquel Il les conduisit… Quel magnifique symbole de ce Millénium vers lequel Il conduit Son Eglise maintenant. Nous Le verrons alors tel qu’Il est. Nous aurons un corps semblable à Son corps glorieux.
+
+Et aujourd’hui, par la Lumière de l’Evangile, reflet de cette Lumière, une Colonne de feu a été rendue visible au milieu de nous… La science L’a vue; Elle a paru dans les journaux du monde entier, reconnue scientifiquement et spirituellement comme étant la même Colonne de feu, avec les mêmes signes et les mêmes choses qui L’ont toujours accompagnée.
+
+Et maintenant même, malgré ce fanatisme et tout le reste, Dieu n’a pas cessé de révéler Son identité. Quelle chose glorieuse que de savoir qu’un jour ce tabernacle terrestre, ce corps frêle, malade et affligé, sera transformé en un corps glorieux, semblable au Sien! Alors, nous Le verrons tel qu’Il est, et nous serons avec Lui dans ce pays vers lequel nous commençons déjà aujourd’hui à nous diriger.
+
+Oh! Cela nous donne toujours envie de nous lever pour chanter: «Je marche vers la Terre Promise!». Ils vont probablement chanter ce cantique, tout à l’heure, au service de baptême — car c’est précisément notre cantique de baptême.
+
+Maintenant, à vous frères ici présents, et à ceux des pays où iront ces bandes enregistrées (qui vont dans le monde entier): ces messages ne sont pas destinés individuellement à certaines personnes. Nous ne voudrions pas que l’on croie que nous sommes une bande de fanatiques, qui se sont rassemblés après s’être séparés des autres, étant contre les hommes, contre Dieu, ou contre l’église. Nous sommes pour l’Eglise, mais nous essayons seulement de déterminer, par le Saint-Esprit et avec Son aide, les raisons qui nous conduisent à cette séparation. Nous croyons que les églises ne devraient pas se séparer, mais plutôt avoir communion entre elles: les Méthodistes dans leur groupe, les Baptistes dans le leur, et les Unitaires, et les Trinitaires, et que sais-je encore, tous ceux qui sont séparés les uns des autres. Nous croyons que tous devraient être ensemble en un grand groupe uni du Corps de Jésus-Christ, attendant Sa glorieuse venue. Ils ne devraient pas du tout être séparés.
+
+Il doit nécessairement y avoir une raison fondamentale pour que nous soyons séparés au lieu d’être unis. En considérant les choses, je m’aperçois que cela n’a aucun rapport avec la couleur de notre peau; en effet, que nous soyons jaune, noir, brun ou blanc, tous nous sommes séparés en différentes organisations. Cela n’est pas dû non plus à notre nourriture. Tous nous mangeons la même nourriture, nous nous vêtons tous de la même manière, et ainsi de suite. Mais je vois ce qui cloche, dans tout cela: c’est que l’homme est sorti du chemin tracé par l’enseignement de l’Evangile. Il doit y avoir un moyen de montrer d’une manière bien définie ce qui est juste et ce qui est faux. Et ce moyen, le seul que vous puissiez jamais employer, c’est de ne jamais donner une interprétation de la Parole, mais de la lire telle qu’Elle est et de la croire de même. Quiconque donne sa propre interprétation Lui fait dire quelque chose de différent.
+
+Cela nous ramène à l’origine de l’organisation de l’église Catholique; l’église Catholique croit que Dieu est dans son église, et que la Parole n’a rien à voir là-dedans — Dieu est dans Son église. Mais, pour nous, Protestants, nous voyons dans Apocalypse 17 qu’ils se rassemblèrent, l’église Catholique étant la mère de toutes les organisations. Et nous voyons que l’organisation protestante (pauvres aveugles!), a la même nature que l’église Catholique. La Bible dit que l’église Catholique est une prostituée, et appelle l’église Protestante: «prostituée». Elle dit que la grande prostituée est mère d’autres prostituées. Et, chers amis, vous savez quelle mauvaise réputation a la femme qui n’est pas restée fidèle aux voeux de son mariage. Et nous qui prétendons tous être l’Epouse de Christ, et qui sommes pourtant si infidèles! En quoi sommes-nous infidèles? — En vivant en contradiction avec la règle établie par Dieu (la Bible) pour Son Epouse: c’est là mon opinion personnelle. Je crois que la Bible est la Parole infaillible de Dieu. Et nous sommes donc amenés à constater que l’église Protestante va même jusqu’à se séparer des Ecritures pour établir sa propre organisation.
+
+Les prédicateurs consacrés, les pasteurs, s’attachent à des choses qui… ils viennent par centaines chez moi, à mon bureau, ou dans les salles de réunions, pour me dire: «Frère Branham, vous en provoquez des gens, par vos défis! Mais personne ne les relève, car ils savent bien que c’est la vérité».
+
+Alors, je leur demande: «Pourquoi n’agissez-vous pas en conséquence?».
+
+Ils me répondent: «Parce qu’alors je n’aurais plus qu’à m’en aller mendier. J’ai un ministère; je dois servir le Seigneur et Son peuple; sinon, je n’aurai aucun soutien matériel».
+
+Rendez-vous compte que c’est Christ qui est notre soutien! La Bible est notre soutien! Voyez-vous? Cela place l’église Protestante sur le même pied que l’église Catholique.
+
+Je n’irai pas jusqu’à dire que l’église Catholique ne se soucie pas de la Bible; ils croient la Bible, oui, mais ils ont aussi une succession apostolique sur laquelle est fondée l’église Catholique: c’est la succession des papes; et ils disent que Pierre est le premier pape. Ils croient cela — ils y croient de tout leur coeur.
+
+De même, les Protestants, eux aussi, se sont rassemblés pour former une organisation, comme l’église Catholique, qui s’organisa au Concile de Nicée. Nous voyons bien que tous les deux sont semblables, les deux font la même chose: ils abandonnent la Parole de Dieu pour établir une organisation. Ainsi, lorsqu’on en vient à toutes ces grandes Vérités qui semblent insolites de nos jours, elles leur sont étrangères, parce que leur enseignement vient d’un rituel. Nous n’avons pas de rituel en dehors de la Bible. Nous n’avons rien d’autre que la Sainte Parole de Dieu, et nous nous y tenons fermement.
+
+Aujourd’hui, j’aimerais, pendant quelques instants, vous lire certains passages des Ecritures, de la Parole de Dieu sainte et sacrée; ce sera le point de départ et la base de ce dont je désire parler aujourd’hui, une pensée fondamentale que je voudrais développer. Lisons dans Luc, chapitre 23, verset 33; c’est le seul verset dont j’aurai besoin aujourd’hui: “Lorsqu’ils furent arrivés au lieu appelé Crâne, ils le crucifièrent là, ainsi que les deux malfaiteurs, l’un à droite, l’autre à gauche”.
+
+Maintenant, je prends quatre mots de cette lecture, qui seront la base de mon sujet: “Ils Le crucifièrent là”: quatre mots. Et j’intitulerai mon sujet: «J’accuse les églises dénominationnelles du temps présent, et aussi de nombreuses communautés indépendantes, de crucifier Jésus-Christ à nouveau de nos jours». Voilà de quoi je les accuse!
+
+Ce matin, ma prédication se nomme L’Accusation. Et je vais considérer cette salle comme une sorte de tribunal. Après tout, l’église et sa chaire sont bien un tribunal! La Bible dit que le jugement doit commencer par la maison de Dieu. Représentez-vous donc, ici, le trône, là, le jury; puis les témoins, etc.
+
+Mais aujourd’hui, j’ai pour témoin la Parole de Dieu, et mon accusation est contre les églises actuelles. Je n’implique pas le pécheur individuellement, dans tout cela, mais j’accuse l’église en tant que communauté. Cela sera enregistré sur bande, et j’essaierai d’aller aussi vite que possible.
+
+J’accuse cette génération d’avoir crucifié Jésus-Christ une deuxième fois!
+
+Pour porter une telle accusation à l’époque où nous vivons, il faut aussi apporter des preuves. Pour soutenir l’accusation, il faut une déposition qui établisse le délit criminel. Pour les accuser, je dois fournir des preuves qui puissent être soutenues tout au long de la procédure, et apportées devant le Juge, le Juge Suprême. Pour soutenir cette accusation, je vais prendre la place du procureur.
+
+La Parole de Dieu étant mon témoin, j’accuse cette génération de la crucifixion. Je dois démontrer, et je démontrerai que l’esprit des gens qui a amené la première crucifixion, est le même qui agit aujourd’hui. Je dois démontrer que les gens d’aujourd’hui agissent de la même manière, spirituellement, envers Jésus-Christ, que lorsqu’ils Le crucifièrent physiquement, Lui, Jésus-Christ, le Fils de Dieu.
+
+Et aujourd’hui, par la même Parole, par le même Saint-Esprit, j’aimerais montrer où en sont les églises: elles agissent aujourd’hui de la même manière, comme la Bible dit qu’elles le feraient; et je dois prouver que nous vivons cela en ce moment même où je vous parle.
+
+Il y a quelques années, cinquante ans par exemple, on n’aurait pas pu faire ce procès. Mais aujourd’hui, l’heure a sonné; il y a dix ans, cela aurait été trop tôt; mais aujourd’hui, cela est possible, parce que les temps sont révolus — nous sommes au temps de la fin. Et je crois, en tant que Son serviteur, que nous sommes sur le point de quitter cette terre pour nous en aller ailleurs.
+
+Par conséquent, le temps de la repentance pour une nation est révolu; je ne crois pas que cette nation puisse encore se repentir. Je crois que nous venons de passer la frontière entre la grâce et le jugement; en tout cas, la balance oscille pour passer de l’une à l’autre.
+
+«Frère Branham, avant d’entamer votre procédure, comment allez-vous prouver cela?». A cela, je réponds simplement: «C’est parce que nous sommes coupables des mêmes péchés à cause desquels Dieu détruisit le monde antédiluvien. Nous sommes coupables des mêmes péchés qui ont amené la destruction de Sodome et de Gomorrhe… Et nous avons tous devant nous les mêmes signes, connus du monde entier, qui ont apporté la grâce de Dieu à ces générations et qui, rejetés, ont apporté le jugement. Ainsi donc, si cette génération a rejeté la même grâce qu’ont rejetée les autres, alors Dieu serait injuste s’Il la laissait aller sans jugement».
+
+Comme le disait un jour un de mes amis, Jack Moore: «Si cette nation devait s’en tirer sans punition de Dieu, alors Dieu devrait relever de leurs ruines Sodome et Gomorrhe, et leur demander pardon de les avoir détruites».
+
+Nous savons que, spirituellement, ils font la même chose aujourd’hui; ils le font pour les mêmes motifs et de la même manière qu’ils crucifièrent alors physiquement le Seigneur. Ils le font par jalousie, parce qu’ils sont aveugles spirituellement, parce qu’ils ne veulent pas voir ni entendre. Jésus, lors de Son passage sur cette terre, a dit: “Esaïe a bien prophétisé de vous, lorsqu’il a dit: Vous avez des yeux et vous ne voyez pas, et des oreilles, et vous n’entendez pas”. Comprenez-vous?
+
+C’est pour la même raison, le même motif et au moyen des mêmes arguments qu’ils crucifient à nouveau le Christ (nous verrons cela plus loin), comme ils le firent autrefois. Ils n’ont rien à répondre à cela et ils n’oseraient pas le contredire. Ils savent que les preuves sont là, et ils savent que c’est la Bible qui le dit. La seule chose qu’ils puissent faire, c’est de blasphémer. C’est bien ce qu’ils font.
+
+C’est sur cette base que j’accuse cette génération de crucifier Jésus-Christ — ils crucifient, ils sont coupables. C’est avec des mains sales, perverses, égoïstes, dénominationnelles, qu’ils crucifient le Prince de la Vie qui voulait se révéler aux hommes.
+
+Vous dites: «C’est la même personne?».
+
+— “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu”. “… et la Parole a été faite chair…” et elle s’est manifestée. La Parole a été manifestée dans la chair, et ils ont condamné cette chair, et L’ont mise à mort — parce que la Parole a été manifestée. Hébreux 13.8 dit: “Jésus-Christ est le même hier, aujourd’hui, et éternellement”. C’est la même Parole, vous voyez. Et pour les mêmes raisons, ils cherchent à crucifier la Parole.
+
+Maintenant, revenons au texte que je voulais commenter, ces quatre mots: “… ils Le crucifièrent là…” [En angl.: “Là, ils Le crucifièrent” — N.d.T.] Expliquons le “là” — là, dans la ville la plus sainte du monde, Jérusalem. Là, dans la ville la plus religieuse du monde. Là, “ils” — le peuple le plus religieux du monde, lors d’une fête religieuse, la Pâque… Là, le lieu le plus religieux, la cité la plus religieuse — la plus grande de toutes les organisations, leur grand quartier général, là, ils, les gens les plus religieux du monde, s’étaient rassemblés de partout. Ils Le crucifièrent, ce qui est la mort la plus ignominieuse, Le laissant nu, après Lui avoir arraché Ses vêtements. Sur les crucifix, on voit un linge autour de Ses reins; mais là, ils Lui avaient arraché tous Ses vêtements… Là (la ville la plus religieuse), ils (le peuple le plus religieux) Le (la Personne la plus précieuse) crucifièrent (la mort la plus ignominieuse).
+
+N’est-ce pas suffisant pour condamner cette génération! Là, la plus religieuse des organisations, le rassemblement de la plus grande de toutes les églises; ils, eux, le peuple le plus religieux de tous les peuples; eux qui étaient censés être les vrais adorateurs de Dieu… ils s’assemblèrent pour la plus sainte de toutes leurs fêtes, pour la purification de la Pâque, la fête célébrant leur passage de l’esclavage à la liberté. Et c’est là qu’en ce temps, eux, le peuple le plus religieux, lors de la plus sainte de toutes leurs fêtes religieuses, célébrée dans le lieu le plus saint, firent au Prince de la Vie le plus odieux des outrages: ils Le dépouillèrent de Ses vêtements et Le clouèrent sur une croix; parce que la loi dans laquelle ils adoraient dit: “Maudit est quiconque est pendu au bois”. Et Il fut fait malédiction pour nous. Ils L’ont dépouillé, frappé, bafoué, — Lui, le vrai Dieu du Ciel; ils Lui arrachèrent Ses vêtements et Le clouèrent sur une croix. Là, ils Le crucifièrent, Lui, Lui infligeant la peine capitale des Romains.
+
+De nos jours, la mort la plus ignominieuse n’est pas de recevoir un coup de fusil, d’être écrasé par une automobile, de mourir dans un incendie ou de se noyer — Non! La mort la plus ignominieuse, de nos jours, c’est la peine capitale, par laquelle le monde entier vous déclare coupable et vous condamne. Et le monde entier porta la main sur cet Homme, Le déclarant coupable, alors qu’Il était innocent. Il mourut sous la loi de l’ennemi, et non par celle de Ses amis; non par Ses propres lois, mais crucifié par la crucifixion de l’ennemi, Lui, le Prince de la Vie, l’Etre le plus précieux qu’il y ait jamais eu et qu’il y aura jamais; Jésus-Christ — Lui, l’Etre le plus noble! Gardez toujours cela à l’esprit, pendant que nous étudions ce sujet aujourd’hui.
+
+Pouvez-vous imaginer un endroit comme Jérusalem, il y a 2500 ans ou plus… j’exagère peut-être un peu; il pouvait n’y avoir que huit ou neuf cents ans — je ne sais pas exactement à quelle époque Salomon bâtit le Temple — mais déjà ils attendaient la venue d’un Messie — ils se rassemblaient là pour célébrer la Pâque. Pensez donc: les chefs de tous les Pharisiens, Sadducéens, et autres, tous rassemblés pour adorer Dieu. C’est à Jérusalem, la Ville Sainte, où s’élevait le Temple du Seigneur — c’est là que le peuple du Seigneur s’empara du Seigneur Lui-même pour Le crucifier, Lui infligeant ainsi la peine capitale. Quelle chose terrible!
+
+Revenons à ces quatre mots: “Là, ils le crucifièrent”. Regardez dans votre Bible: il n’y a que ces quatre mots. Mais la Bible condense ses Vérités en peu de mots, tandis que moi, je dois faire un détour et expliquer ce que je veux dire — mais la Bible n’a pas besoin d’expliquer quoi que ce soit: c’est la Vérité toute simple qui se trouve là. Et ce sont là quatre mots faisant partie de cette grande chaîne de la Vérité. Je vais essayer d’expliquer cela. Mais, pour l’expliquer clairement, il faudrait toute une bibliothèque. Je ne sais comment je vais expliquer ces quatre mots. Mais maintenant, essayons, avec l’aide de Celui qui les a inspirés pour être écrits, de commenter ces quatre mots de telle manière que tous puissent comprendre.
+
+Qu’avons-nous donc devant nous? Nous avons la première crucifixion, à l’endroit le plus saint et devant le peuple le plus religieux, la mort la plus honteuse de la plus précieuse Personne. Oh, quelle contradiction! Quelle abomination!
+
+Pour commencer, reprenons le premier mot: “Là”. Parlons-en quelques instants, avant d’aborder la condamnation. Nous allons l’examiner et vous montrer ce qu’ils ont fait, et ainsi nous saurons si mon accusation est juste ou non. “Là” — Jérusalem — le lieu très saint, parce que c’est là que s’élevait le Temple et que les Juifs du monde entier se réunissaient, un lieu de rassemblement pour le culte d’adoration. Le lieu de culte et d’adoration par excellence, Jérusalem, là où s’élevait le Temple. Comme il est écrit: “C’est à Jérusalem que tous les hommes doivent adorer”. Il en est ainsi, parce que c’est un centre d’adoration.
+
+Aujourd’hui, vous pouvez les entendre dire: «Oh! nous allons à ces grandes conventions», ces conventions tenues par telle ou telle dénomination. Et puis, nous avons encore ces cérémonies au Vatican, le sacre des papes, etc. Chacun dit: «Nous devrions tous aller aux Assemblées des Méthodistes», ou «des Baptistes», ou «Il nous faut tous aller à Rome». — là où se trouve, disent-ils, le grand centre de la Chrétienté.
+
+Pendant la dernière guerre, lorsque Rome tomba, les soldats allemands (plusieurs d’entre vous savent cela) se retiraient dans la Cité du Vatican et tirèrent sur les Américains, lorsque ceux-ci avancèrent. Frère Funk et frère Robertson, frère Beeler et plusieurs des frères qui firent la guerre, savent cela. Et savez-vous ce qui est arrivé? Des ordres furent donnés aux Américains de ne pas tirer sur cette ville! Vous, vous deviez rester là, comme une cible pour les autres. Mais sur l’Abbaye de Westminster à Londres, on pouvait tirer tant qu’on voulait. Là, étaient rassemblés les Protestants, alors là, on pouvait tirer. Mais pas sur le Vatican, parce que le Président Roosevelt… J’ai entendu son discours à la radio, ce soir-là, dans l’émission radiophonique «Conversation au coin du feu». Il disait: «Quelle honte que Rome soit tombée! Rome, la capitale de toute la Chrétienté!». Pouvez-vous imaginer un Protestant disant une chose pareille?
+
+Ce grand centre de la religion chrétienne, nous allons le comparer, le mettre en parallèle avec Jérusalem, si vous le voulez bien. A la tête, il y avait le Sanhédrin, les Pharisiens, les Sadducéens, et tous ceux-là se rendaient à Jérusalem. C’était réellement le quartier général.
+
+En ce qui concerne les organisations, vous devez admettre que l’église Catholique Romaine en est bien la mère. C’est certain. Et cela a commencé à la Pentecôte. C’est bien le chemin qu’ils prirent, lorsqu’ils commencèrent à s’organiser. Et maintenant, nous autres Protestants, nos communautés sont les soeurs cadettes de cette église.
+
+Je dirai qu’il en est aujourd’hui du Vatican comme autrefois de Jérusalem, où tous devaient se rendre pour adorer. Pourquoi le firent-ils, au temps de Jésus? Pourquoi disaient-ils que tous les hommes devaient adorer à Jérusalem? Parce qu’il n’y a qu’un seul lieu où Dieu puisse entrer en communion avec les hommes: c’est sous le Sang du sacrifice. C’est la raison pour laquelle ils devaient venir à Jérusalem. Dieu ne rencontrera l’homme nulle part ailleurs que sous le Sang. Si vous rejetez le Sang, alors le lieu de rencontre avec Dieu est enlevé. C’est au jardin d’Eden que Dieu prit Sa première décision, à savoir, que l’homme ne pourrait L’adorer que sous l’aspersion du Sang du sacrifice. C’était alors le seul lieu où Dieu rencontrait l’homme; c’est le seul lieu où Dieu rencontra jamais l’homme. Et aujourd’hui, le seul lieu où Il rencontre l’homme est sous l’aspersion du Sang du sacrifice.
+
+Peu importe que vous soyez Méthodiste, Baptiste, Presbytérien; si vous oubliez vos différences, même si vous êtes Catholique Romain, et que vous vous placez sous le Sang, c’est là que Dieu rencontrera chacun de vous. C’est là que nous pouvons tous nous rencontrer et communier sur le même fondement. Mais autrement, ce n’est pas parce que vous êtes un Méthodiste ou un Pentecôtiste qu’il vous rencontrera. Il ne vous agréera qu’à une seule condition: c’est que vous soyez sous l’aspersion du Sang, lorsque vos péchés auront été confessés et rejetés de Sa Présence. Le Sang est toujours devant Lui, et ce n’est qu’au travers de l’effusion du Sang qu’Il peut vous voir. Vous êtes plus blanc que neige, lorsque vous avez confessé vos péchés; autrement, c’est comme si vous n’existiez pas: vous ne pouvez avoir de communion avec Dieu.
 
 L’ACCUSATION 11
 communion avec Lui.
@@ -578,7 +323,7 @@ lorsqu’un homme cherche son salut avec crainte et tremblement. Pour moi, ce ma
 prédicateur ou ministre de Christ je ne vois pas d’autre fondement pour exposer cette doctrine
 que celui de la Parole. Je ne connais aucune autre base.
    Ainsi, nous voyons que c’est seulement sous le Sang que Dieu peut rencontrer l’adorateur: ils
-allaient tous à Jérusalem. Et Christ est l’Agneau du sacrifice fourni par Dieu. Aujourd’hui, il n’y
+alaient tous à Jérusalem. Et Christ est l’Agneau du sacrifice fourni par Dieu. Aujourd’hui, il n’y
 a qu’un seul lieu où Dieu puisse rencontrer l’homme: c’est sous le Sang de Jésus-Christ. Partout
 ailleurs, il est condamné; Dieu n’entendra jamais sa prière. Vous pourrez mettre en oeuvre tout ce
 que vous voudrez, tous les “ismes” possibles; vous pourrez y mettre tous les sentiments et toutes
@@ -1153,8 +898,8 @@ n’étaient pas des païens. C’étaient les gens religieux de l’époque. Et
 chose: ce sont aussi les gens religieux qui crucifient à nouveau.
    Il faut que je me dépêche. Ils le crucifièrent là. C’est vrai! Ils rejetèrent la Parole de Dieu
 manifestée, acceptant leurs credo au lieu de la Parole. N’est-ce pas ce qu’ils font aujourd’hui?
-Bien sûr! C’est exactement ce qu’ils font aujourd’hui. Il était la Parole, et ils rejetèrent la Parole. Il y
-a ici quelque chose que je voudrais que vous compreniez bien, quelque chose que vous ne devez
+Bien sûr! C’est exactement ce qu’ils font aujourd’hui. Il était la Parole, et ils rejetèrent la Parole. Il
+y a ici quelque chose que je voudrais que vous compreniez bien, quelque chose que vous ne devez
 pas manquer: Il était la Parole, et lorsqu’ils Le rejetèrent, c’est la Parole qu’ils rejetèrent. Et
 après L’avoir rejeté, ils L’ont finalement crucifié. Et c’est ce qu’ils ont fait aujourd’hui: ils
 ont rejeté la Parole de Dieu, accepté leurs credo, et crucifié publiquement devant leurs
@@ -1212,9 +957,9 @@ crurent à la Parole, et qui dirent: “Dieu a dit que ce pays nous appartient; 
 sommes plus que capables d’en prendre possession”. N’est-ce pas vrai?
    Les autres, qu’étaient-ils? Des croyants qui ne croyaient que jusqu’à un certain point. Ils
 étaient pourtant nés au sein de l’église. Ils étaient chefs du peuple (en quelque sorte des
-évêques). Ils allèrent bien là où la Parole de Dieu était révélée comme étant la Vérité. Là, il y
-avait un pays où ils n’avaient jamais pénétré. Ils ignoraient jusqu’à son existence. Néanmoins, ils y
-pénétrèrent et virent qu’il existait bel et bien. Mais Josué et Caleb s’aventurèrent plus loin, et
+évêques). Ils allèrent bien là où la Parole de Dieu était révélée comme étant la Vérité. Là, il
+y avait un pays où ils n’avaient jamais pénétré. Ils ignoraient jusqu’à son existence. Néanmoins, ils
+y pénétrèrent et virent qu’il existait bel et bien. Mais Josué et Caleb s’aventurèrent plus loin, et
 ramenèrent une grappe de raisin, qu’ils leur firent goûter. Après en avoir mangé et avoir eu
 ainsi un avant-goût de ce bon pays, ils s’en retournèrent, disant: «Nous ne pouvons pas!».
 Voyez-vous? «Nous ne le pouvons pas!».
@@ -1916,7 +1661,7 @@ nous chantons:
       Est effacée et blanche comme neige».
    Seigneur, sois miséricordieux envers nous, pendant ce moment de profonde méditation. Laisse
 Ta Parole nous imprégner jusqu’au plus profond de notre coeur, oh Seigneur. Même si ces
-gens sont en retard pour leur déjeuner… Mais Seigneur, ceci est plus que de la nourriture: c’est
+ gens sont en retard pour leur déjeuner… Mais Seigneur, ceci est plus que de la nourriture: c’est
 la Vie. “Ma Parole est une nourriture”. C’est Toi qui l’as dit. Et c’est de cela que nos âmes veulent
 se rassasier.
    Maintenant, prends-nous, Seigneur; façonne-nous. Seigneur, prends-moi aussi avec eux. Moi
@@ -1979,14 +1724,7 @@ consacrés ce matin dans nos coeurs. Nous sommes à Ton service, au Nom de Jésu
 
 
 
-
-
-
     J’accuse cette génération d’avoir crucifié Jésus-Christ une deuxième fois!
-
-
-
-
 
 
 

@@ -1,14 +1,61 @@
-    SERIE 3 N° 4
+---
+source: "cmpp"
+sermon_id: "serie3no4"
+title: "Pourquoi crier? Parle!"
+subtitle: "14 juillet 1963, matin"
+date: "1963-07-14"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur Exode 13-14, où Dieu dit à Moïse 'Pourquoi cries-tu à moi? Parle au peuple et qu'il marche.' Il souligne que la foi ointe par la rencontre personnelle avec Dieu permet d'agir avec autorité, comme Moïse après le buisson ardent. Il applique cela à l'Église des derniers temps, appelée à parler avec foi plutôt que de crier."
+tags:
+  - "foi"
+  - "Moïse"
+  - "buisson ardent"
+  - "délivrance"
+  - "parole de Dieu"
+persons:
+  - "Moïse"
+  - "Pharaon"
+  - "Amram"
+  - "Jokébed"
+  - "Jésus-Christ"
+  - "Joseph"
+  - "frère Neville"
+  - "frère Burcham"
+  - "soeur Ungren"
+  - "Billy Branham"
+places:
+  - "Égypte"
+  - "Jeffersonville"
+  - "Indiana"
+  - "Arizona"
+  - "Finlande"
+  - "Alaska"
+themes:
+  - "foi ointe"
+  - "appel divin"
+  - "prescience de Dieu"
+  - "signes des temps"
+  - "autorité de la Parole"
+  - "résurrection"
+  - "enlèvement"
+pdf_url: "http://cmpp.ch/serie3no4.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Exode 13"
+  - "Exode 14"
+  - "Jean 14"
+  - "Marc 11"
+  - "Osée 84"
+---
+SERIE 3 N° 4
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
+WILLIAM MARRION BRANHAM
 
 
 
@@ -17,12 +64,9 @@ POURQUOI CRIER? PARLE!
 
 
 
-
      14 juillet 1963, matin
        Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
-
-
 
 
 
@@ -39,8 +83,6 @@ POURQUOI CRIER? PARLE!
      14 juillet 1963, matin
        Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
-
-
 
 
 
@@ -478,9 +520,9 @@ J’ai besoin d’être réveillé.
 parfaitement exposé! Cela oignit la foi de Moïse.
 83 Il s’enfuit d’Egypte au moment où il aurait pu fomenter une mutinerie ou une révolution, lever
 une armée et combattre; il aurait eu des milliers de partisans. Mais même avec des armées
-entières à sa suite il n’aurait pas Osée 84 Mais voici qu’il revient quarante ans plus tard, âgé de quatre-vingts ans, tenant seulement un
-bâton à la main. Pourquoi? Parce que ce qui brûlait dans son coeur était devenu une réalité! Il était
-oint et il savait qu’il avait le AINSI DIT LE SEIGNEUR! Plus rien ne l’arrêterait désormais. Il n’avait
+entières à sa suite il n’aurait pas Osée 84 Mais voici qu’il revient quarante ans plus tard, âgé de quatre-vingts ans, tenant seulement
+un bâton à la main. Pourquoi? Parce que ce qui brûlait dans son coeur était devenu une réalité! Il
+était oint et il savait qu’il avait le AINSI DIT LE SEIGNEUR! Plus rien ne l’arrêterait désormais. Il n’avait
 plus besoin d’armée. Dieu était avec lui: c’est tout ce qu’il lui fallait. Dieu était avec lui.
 85 Oh quand vous savez que Dieu vous a envoyé pour faire une certaine chose et que vous
 voyez cela se préciser, rien ne peut le remplacer. Tout est là!
@@ -729,7 +771,7 @@ le peu de foi qu’ils avaient auparavant. Cela ne peut rien donner.
 
 POURQUOI CRIER? PARLE! 14
 136 Ou votre foi paralyse l’éclat du monde, ou c’est l’éclat du monde qui paralyse votre foi. Vous
-devez choisir l’un ou l’autre. Mais vous voyez que la Bible ne change pas. Dieu ne change pas. Il
+devrez choisir l’un ou l’autre. Mais vous voyez que la Bible ne change pas. Dieu ne change pas. Il
 est le Dieu immuable.
 137 Les gens d’aujourd’hui tournent leurs regards vers les grandes choses, les grandes
 organisations: «J’appartiens à ceci ou à cela». Vous voyez? Il n’y a aucune différence entre eux et
@@ -919,597 +961,144 @@ voyez? C’est vrai!
 pharaon et le jeune Moïse, tous deux ayant les mêmes possibilités. Moïse vit l’opprobre du peuple
 et le tint pour un plus grand trésor que tous les trésors de l’Egypte: il était conduit par la foi. Il suivit
 ce que sa foi entendait de la Parole: cela le conduisit sur le chemin de l’obéissance et finalement à
-la gloire. Immortel! Il ne mourrait jamais, dans la présence de Dieu. Par contre, la vue et les autres
-sens ainsi que l’éclat du monde conduisirent Pharaon à la mort et causèrent la destruction de
-l’Egypte en sorte que son peuple ne s’en releva jamais.
-175 Voilà! Si vous regardez à ceci vous mourez; si vous regardez à cela vous vivez. Faites votre
-choix. Dieu, dans le jardin d’Eden, mit Adam et Eve devant le même choix. Vous voyez? Par la foi
-vous devez choisir.
-176 Remarquez que la vue conduisit Pharaon à la mort et à la destruction de son pays.
-177 Moïse, ayant la foi, ne craignit pas Pharaon. Peu lui importait ce que disait Pharaon. Il n’eut
-pas plus de crainte de Pharaon que son père et sa mère n’eurent crainte de la menace. Quand
-Moïse reçut la confirmation qu’il était l’homme qui devait délivrer Israël et le conduire hors
-d’Egypte, il n’eut plus égard à ce que disait Pharaon. Il ne craignit pas Pharaon. Amen, amen et
-amen! Vous voyez ce que je veux dire?
-178 Il n’y a pas de crainte dans la foi, car la foi connaît tout ce qui la concerne. Comme je l’ai
-toujours dit, elle est musclée et virile. La foi dit: “Silence!” et tout se tait. C’est tout. “Je sais où j’en
-suis!”.
-179 Les autres disent: «Peut-être bien que…». Mais vous devez vous lever et montrer vos
-muscles! C’est tout. La foi fait cela.
-180 Remarquez que Moïse ne craignit plus jamais Pharaon après que Dieu eut confirmé son
-appel. Quand Moïse crut qu’il était désigné pour cette oeuvre, quand Dieu lui dit: “C’est ainsi!”. Il
-descendit en Egypte et montra à Pharaon et à tous ceux qui l’entouraient qu’il était envoyé pour
-faire cela. Moïse ne craignit plus jamais Pharaon.
-181 Pharaon tenta d’user de sa sagesse sur Moïse. Il dit: “Je vais faire un arrangement avec toi (il
-dit cela après que les plaies l’eurent décimé)… Je vais faire un arrangement avec toi: allez et
-servez un peu l’Eternel pendant trois jours. Allez jusque là, mais pas plus loin!”. Vous savez que
-ce sont les sens de Pharaon qui lui ont fait dire: “JUSQUE LA, MAIS PAS PLUS LOIN!”.
-182 N’est-ce pas la même chose aujourd’hui? «Si vous vous joignez à notre église, c’est très
-bien!». Mais vous savez que Moïse avait une foi qui ne croyait pas en une religion du type:
-“Jusque là, mais pas plus loin?”.
-183 Il répondit: “Nous partons tous et nous irons jusqu’au bout. Nous allons vers la Terre promise.
-Nous ne sortons pas simplement pour créer une dénomination et nous arrêter là. Nous allons
-jusqu’à ce que nous passions de l’autre côté”. Amen! “Nous allons vers la terre promise que Dieu
-nous a promise”.
-184 Combien n’y a-t-il pas de pharaons qui se trouvent en chaire aujourd’hui à la tête des
-organisations! «Faites ceci et cela si vous voulez, mais attention n’allez pas plus loin!».
-     Mais Moïse s’écria: “Non, mille fois non!”.
-185 Pharaon reprit: “Pourquoi pas, si vous tenez à ce genre de religion! Je vais vous dire ce que
-vous allez faire: toi et les anciens, allez adorer car vous pouvez avoir cette sorte de religion, mais
-ne la répandez pas parmi le peuple!”.
-186 Vous savez ce que répliqua Moïse? “Il ne restera pas même un ongle en arrière. Nous irons
-jusqu’au bout et nous irons TOUS! Je ne pars pas sans eux et tant que je suis ici tu m’auras sur
-les bras! Je ne pars pas, à moins qu’ils ne partagent cela avec moi. C’est tout”.
-
-        http://www.cmpp.ch
-
-POURQUOI CRIER? PARLE! 18
-187 Quel vaillant serviteur! Amen! “Je veux les prendre avec moi. Ce n’est pas parce que j’ai reçu
-quelque chose moi-même que je vais m’asseoir et dire: cela va très bien ainsi! Pas du tout! Nous
-voulons que le peuple vienne aussi. Tous partiront tous ensemble! Amen!”. Il dit: “Nous ne
-laisserons pas la moindre brebis en arrière. Nous ne laisserons pas un ongle derrière nous. Nous
-allons tous vers la Terre promise. (Amen!) Tous: mère de famille, jeune fille, vieille femme, jeune
-homme, vieillard, qui que ce soit, tous partiront. Pas un seul d’entre nous ne restera. Rien ne nous
-arrêtera. C’est tout!”.
-188 Oh, mes frères, ces religions sont toujours à discuter, n’est-ce pas? Moïse ne croyait pas à
-ces religions qui disent: “Pas plus loin!”. Non, il n’y croyait pas.
-189 Oh, je pourrais rester tout un jour sur ce sujet, mais je dois revenir à mon sujet et commencer
-à prêcher.
-190 Remarquez cela. Comme c’est beau! J’aime cela! Vous savez que pour finir Pharaon dit:
-“Allez-vous en!”. Dieu venait de le tourmenter par la voix de Moïse et avait frappé partout. Il avait
-fait tout ce qu’il fallait faire. Il avait fait tomber les ténèbres en plein jour: il avait fait venir des
-grenouilles, des mouches et des poux et tout le reste, du feu, de la fumée et la mort dans les
-familles des Egyptiens. Il fit tout cela jusqu’à ce que finalement Pharaon soit obligé de dire:
-“Allez-vous en! Prenez tout ce qui vous appartient et partez!”. Oh, mes frères! Loué soit Dieu!
-191 Je suis si heureux qu’un homme puisse servir Dieu si complètement que le diable ne sache
-plus que faire de lui! Obéissez à Dieu totalement, à un point tel que le diable ne puisse plus dire
-que: “J’en ai assez! Va-t’en! Je ne veux plus entendre parler de toi!”. C’est vrai. Vous pouvez le
-faire aussi complètement.
-192 Si Dieu n’avait pas soutenu Moïse, il serait devenu un objet de risée; mais Dieu était là
-confirmant ses paroles. Tout ce qu’il disait s’accomplissait.
-193 Et Pharaon devait tenir son rang car il était évêque; aussi devait-il rester là. Mais il ne pouvait
-dire “non” car les choses étaient déjà en train d’arriver. Il ne pouvait pas le nier car c’était déjà en
-train d’arriver. C’est pourquoi il dit finalement: “Allez-vous-en! Je ne veux plus entendre parler de
-vous. Partez! Prenez tout ce qui vous appartient et allez-vous-en!”.
-194 Et maintenant nous voyons que Moïse, après que Dieu eut tant fait pour lui, lui eut montré tant
-de merveilles… Nous allons nous arrêter là-dessus pendant le quart d’heure qui vient. Soyez très
-attentifs.
-195 Moïse en vint au point où Dieu lui avait dit: “Je suis avec toi. Tu as dit: qu’il y ait des mouches!
-Il y a eu des mouches”. C’est une création. Qui peut amener des ténèbres sur la terre sinon Dieu?
-“Tu as dit: qu’il y ait des ténèbres! Et il y eut des ténèbres. Tu as dit: qu’il y ait des grenouilles! Et il
-y eut des grenouilles jusque dans la maison de Pharaon et dans les lits. Ils en firent des
-monceaux”. Un créateur… “Et j’ai parlé par toi, Moïse, et Ma Parole a créé par tes lèvres. J’ai fait
-de toi un véritable dieu aux yeux de Pharaon”. Parfaitement! “J’ai fait tout cela!”.
-196 Mais les voici qui arrivent dans une situation où vient une petite épreuve: alors Moïse se met
-à crier: “Que dois-je faire?”.
-197 Je voudrais que vous remarquiez cela; c’est une grande leçon. J’aime cela! Lisons ce
-passage où les enfants d’Israël commencèrent à avoir peur en voyant Pharaon qui les poursuivait.
-198 Dieu avait tout accompli à la perfection; maintenant Il leur avait fait commencer leur voyage. Il
-avait rassemblé l’église. Elle avait été appelée. Ils vinrent de toutes les dénominations et se
-rassemblèrent. C’est alors que Moïse rétrograda et dit: “Seigneur, que dois-je faire?”.
-199 Il pensait que Dieu allait répondre: “Eh bien, fais ceci. Vas-y, Moïse, tu sais que Je t’ai appelé
-pour cette oeuvre”.
-     — “Oui Seigneur”.
-200 — “Bien! Tu dis une chose: elle s’accomplit. Les mouches arrivent. Dis ceci: cela a lieu. Fais
-ceci: cela se réalise”. Tout était AINSI DIT LE SEIGNEUR, AINSI DIT LE SEIGNEUR, AINSI DIT LE
-SEIGNEUR!
-201 Maintenant il a des ennuis, mais Dieu avait dit: “Je les ai fait partir pour le voyage; ils ont tous
-été appelés. L’église est rassemblée. Je leur fais prendre la route. Maintenant, Moïse, prends-les
-en charge. Je te l’ai dit. Je supervise les choses. Restez en place et tenez-vous tranquilles!”.
-
-        http://www.cmpp.ch
-
-    POURQUOI CRIER? PARLE!                      19
-202 Mais Moïse dit: “Oh, Seigneur, regarde qui arrive! Voici Pharaon qui arrive! Le peuple est
-tout… que dois-je faire? Que dois-je faire?”. Comme c’est humain, se mettre à crier: “Que dois-je
-faire?”.
-203 Ici nous voyons Moïse manifestant pleinement la nature de l’homme. On demande toujours à
-Dieu d’être derrière nous pour nous pousser à l’action. C’est encore ainsi que nous sommes
-aujourd’hui. Après avoir vu tout ce que nous avons vu, il faut encore que ce soit Dieu qui nous
-fasse agir!
-204 Moïse se relâcha et dit: “Oh mon Dieu, je vais T’interroger pour voir ce que Tu vas dire”. Vous
-direz: «Oui, c’est très bien! Je ferais pareillement».
-205 Mais ici Dieu l’avait consacré pour ce travail, avait prouvé qu’Il était avec lui. Mais voilà, dès
-que les circonstances difficiles surviennent, il se met à crier: “Que puis-je faire, à Dieu, que puis-je
-faire?”.
-206 Rappelez-vous qu’il avait prophétisé, car il avait dit: “Ces Egyptiens que vous voyez
-aujourd’hui, vous ne les reverrez plus jamais”. Mais sitôt après, il se met à crier: “Oh Dieu, que
-faire?”. Pourtant il avait donné une bonne prophétie. Il leur avait dit ce qui arriverait. Si la Parole de
-Dieu était en lui, Elle était en lui! Quand il parlait, cela s’accomplissait. Ce qu’il avait dit était déjà
-en train de s’accomplir, mais voilà qu’il se met à crier: “Que vais-je faire?”.
-207 N’est-ce pas humain? Ne suis-je pas ainsi moi-même? NE SUIS-JE PAS EXACTEMENT
-COMME CELA?
-208 Pourtant il avait déjà donné la confirmation: “Ce que tu diras arrivera car Je suis avec toi!”.
-209 Mais voici qu’une circonstance particulière se produit: “Que dois-je faire? Que dois-je faire,
-Seigneur? Hé, Seigneur, où es-Tu? Hé, m’entends-Tu? Que dois-je faire?”. Pourtant Dieu l’avait
-déjà consacré, Il avait déjà donné confirmation, donné des preuves et avait agi en toutes choses
-par lui. Mais voilà: “Oh Dieu!…”. Cela dit tout!
-210 L’homme préfère se reposer et laisser Dieu le pousser. Et pourtant il savait que Dieu l’avait
-oint pour cette tâche et Dieu avait clairement exprimé Ses exigences. L’heure était venue de
-délivrer le peuple. Par Ses miracles et Ses prodiges, Dieu les avait rassemblés en un seul groupe
-(vous me suivez?) Il les avait attirés tous ensemble en un groupe et avait confirmé Ses
-revendications. C’est l’Ecriture qui le dit. Il y avait le signe, il y avait le témoignage. Tout ce qu’il
-disait… Il vint au milieu d’eux comme prophète. Dieu honorait tout ce qu’il disait, même au point de
-faire venir des mouches et d’amener des choses à l’existence. Et tout ce que Dieu lui avait promis,
-Il l’accomplit. Mais Moïse voulait attendre le AINSI DIT LE SEIGNEUR. Vous comprenez?
-211 Il aurait dû savoir que la confirmation même de son appel était AINSI DIT LE SEIGNEUR. Le
-travail pour lequel il avait été consacré était AINSI DIT LE SEIGNEUR. Vous saisissez? Alors
-pourquoi attendait-il un AINSI DIT LE SEIGNEUR?
-212 Ce qu’il voulait, c’était dire: “Seigneur, que puis-je faire? J’ai amené ces enfants d’Israël
-jusqu’ici. Voici ce qui nous arrive: Pharaon approche. Ils vont tous mourir. Que dois-je faire? Que
-dois-je faire?”.
-213 Pourtant Moïse avait déjà prédit ce qu’ils feraient! Il avait déjà dit exactement ce qu’il fallait
-faire. Il avait prédit la fin de la nation dans laquelle il avait été élevé. J’espère que vous
-comprenez! Moïse avait déjà dit: “Vous ne les reverrez plus: Dieu va les détruire. Ils se sont
-moqués de vous assez longtemps. Dieu va les détruire”. Il avait déjà prédit ce qui leur arriverait,
-mais malgré cela il dit: “Seigneur, que dois-je faire?”.
-214 Vous voyez ce qu’est la nature humaine? Vous voyez? “Seigneur, que dois-je faire? Je vais
-attendre le AINSI DIT LE SEIGNEUR. (Exactement!) Je vais voir ce que dit le Seigneur, puis je le
-ferai”.
-215 Rappelez-vous qu’en ce temps-là justement était venu un pharaon qui n’avait pas connu
-Joseph. Moïse s’avança et prédit la fin des Egyptiens.
-216 Et à l’endroit même où cela devait se produire il se met à crier: “Que dois-je faire, Seigneur?
-Que dois-je faire?”. Vous voyez? N’est-ce pas typiquement humain? N’est-ce pas exactement la
-nature humaine? “Que dois-je faire?”.
-217 Alors que cela avait déjà été prophétisé! Dieu avait honoré tout ce qu’il avait dit et Moïse avait
-été appelé pour cette oeuvre. Alors pourquoi demande-t-il: “Que dois-je faire?”. En cas de
-nécessité c’était à Moïse de parler! Dieu voulait que Moïse mît en action ce don de foi qu’Il lui avait
-fait. Dieu l’avait confirmé. C’était la vérité et Dieu voulait que le peuple voie qu’Il était avec Moïse.
-
-                              http://www.cmpp.ch
+la gloire. Immortel! Il ne mourrait jamais, dans la présence de Dieu. Par contre, la vue et les
 
 POURQUOI CRIER? PARLE! 20
-218 Mais lui, là en arrière, attendait en disant: “Seigneur, je ne suis qu’un bébé! Dis-moi ce que je
-dois faire et je le ferai. J’ai besoin du AINSI DIT LE SEIGNEUR”.
+218 Mais lui, là en arrière, attendait en disant: “Seigneur, je ne suis qu’un bébé! Dis-moi ce que je dois faire et je le ferai. J’ai besoin du AINSI DIT LE SEIGNEUR”.
 219 — «Frère, est-ce AINSI DIT LE SEIGNEUR?».
      — «Oui, oui, frère Moïse, c’est AINSI DIT LE SEIGNEUR».
-220 «Bon, très bien! Nous avons maintenant le AINSI DIT LE SEIGNEUR». Et la chose arrivait.
-Cela n’a jamais manqué une seule fois. Jamais!
-221 Et voilà qu’à la suite d’une certaine circonstance il revient à la charge. Dieu les avait mis en
-route. L’église a déjà été appelée. Dieu les a mis en route et ils avancent. Mais voici que Moïse se
-met à crier: “Seigneur, est-ce AINSI DIT LE SEIGNEUR? Que dois-je faire?”.
-222 Dieu voulait que Moïse croie en ce don qu’Il avait clairement confirmé. Dieu avait clairement
-prouvé au peuple que c’était Lui qui agissait par Sa Parole et par l’accomplissement des choses
-prédites. C’était clairement identifié. Il n’y avait plus de souci à se faire pour cela. Vous voyez?
-Plus besoin d’y réfléchir car tout était déjà réglé. Il avait déjà fait toutes ces choses. Il avait déjà
-prouvé par les mouches et les poux qu’à sa voix les choses se créaient, ce qui montrait que la
-Parole de Dieu était en lui.
-223 Mais voici qu’il allait Lui demander ce qu’il devait faire alors que les circonstances se
-présentaient clairement devant lui! Oh, mes frères!
-224 J’espère que nous saisissons et que nous voyons quelle est notre position. Cela ne nous fait-il
-pas nous sentir comme lui? Quand nous pensons à Moïse confessant ses fautes et que nous
-regardons les nôtres?
-225 Moïse se tenait là, vous voyez? Pourtant il savait que l’Ecriture avait dit que c’était l’heure et
-le jour de l’accomplissement; il savait que Dieu l’avait rencontré dans la Colonne de feu. Cela
-s’était passé devant le peuple; là il avait fait tous ces miracles. Tout ce qu’il disait s’était accompli,
-même au point de créer des choses, faisant ainsi ce que Dieu seul pouvait faire, démontrant par là
-que sa voix était la Voix de Dieu.
-226 Et voici que surgit une circonstance avec ce peuple qu’il avait fait se lever pour le conduire
-vers la Terre promise. Alors il reste là à crier: “Que dois-je faire?”.
-227 C’est humain! C’est comme ce que me disait le frère Roy Slaughter l’autre jour (je crois qu’il
-est là-bas derrière la porte). Il me dit: «Frère Branham, laissez-les s’appuyer sur votre épaule
-aujourd’hui: demain vous devrez les porter!».
-228 C’est ainsi que sont les hommes. Ils s’appuient sur votre épaule aujourd’hui et demain vous
-devez les porter. C’est ainsi que Moïse fit: Dieu devait le porter tout le long du chemin après l’avoir
-consacré et confirmé pour cette tâche! Le peuple aurait dû dire: “Moïse, prononce la Parole! Nous
-t’avons vu agir là-bas. Dieu t’a honoré là-bas. Et tu es le même aujourd’hui!”. Amen! Vous voyez?
-“Fais-le!”. Amen! Il aurait dû le savoir, mais il ne fit rien. Bien!
-229 Ce qui était autrefois l’est encore aujourd’hui. Dieu a dû en avoir assez. Dieu doit en avoir été
-dégoûté. Il dit: “Pourquoi cries-tu à Moi? Ne me suis-je pas identifié? Ne t’ai-je pas dit que Je t’ai
-envoyé pour faire ce travail? Ne t’ai-je pas dit de le faire? Ne t’ai-je pas promis que Je le ferais,
-que Je serais avec ta bouche, que Je parlerais par toi, que J’agirais et que tu ferais des signes et
-des miracles? Ne l’ai-je pas promis? Ne l’ai-je pas fait exactement et n’ai-je pas détruit tous tes
-ennemis autour de toi? Et maintenant te voici devant la Mer Rouge, dans la ligne de ton devoir,
-faisant ce que Je t’ai dit de faire, et tu hésites toujours et tu cries encore à Moi! Ne crois-tu pas en
-Moi? Ne vois-tu pas que Je t’ai envoyé pour faire cela?”.
-230 Oh, que c’est humain! Comme Dieu devait en avoir assez! Il dit: “Tu sais que tu as besoin de
-cela. Tu sais que tu dois conduire ces enfants d’Israël vers la Terre Promise, mais te voilà acculé
-ici! Tu ne peux rien faire et il y a un besoin. Mais pourquoi cries-tu à Moi? Pourquoi regardes-tu
-vers Moi? Pourquoi m’appelles-tu? N’ai-je pas donné des preuves au peuple? Ne t’ai-je pas donné
-des preuves à toi-même? N’est-ce pas scripturaire? N’ai-je pas promis de conduire ce peuple dans
-ce pays? Ne t’ai-je pas appelé et ne t’ai-je pas dit ce que Je ferais? Ne t’ai-je pas appelé et envoyé
-le faire en te disant que ce ne serait pas toi, mais Moi qui le ferais? Et que Je descendrais et que
-Je serais avec ta bouche? Quoi que tu aies dit, Je l’ai confirmé et prouvé. Ne l’ai-je pas fait? Et
-devant la moindre difficulté tu te conduis comme un bébé! Sois un homme! Parle au peuple!”.
-Amen! “Va de l’avant!”. Amen! Voilà! “Que cries-tu à Moi? Parle!”. Amen!
+220 «Bon, très bien! Nous avons maintenant le AINSI DIT LE SEIGNEUR». Et la chose arrivait. Cela n’a jamais manqué une seule fois. Jamais!
+221 Et voilà qu’à la suite d’une certaine circonstance il revient à la charge. Dieu les avait mis en route. L’église a déjà été appelée. Dieu les a mis en route et ils avancent. Mais voici que Moïse se met à crier: “Seigneur, est-ce AINSI DIT LE SEIGNEUR? Que dois-je faire?”.
+222 Dieu voulait que Moïse croie en ce don qu’Il avait clairement confirmé. Dieu avait clairement prouvé au peuple que c’était Lui qui agissait par Sa Parole et par l’accomplissement des choses prédites. C’était clairement identifié. Il n’y avait plus de souci à se faire pour cela. Vous voyez? Plus besoin d’y réfléchir car tout était déjà réglé. Il avait déjà fait toutes ces choses. Il avait déjà prouvé par les mouches et les poux qu’à sa voix les choses se créaient, ce qui montrait que la Parole de Dieu était en lui.
+223 Mais voici qu’il allait Lui demander ce qu’il devait faire alors que les circonstances se présentaient clairement devant lui! Oh, mes frères!
+224 J’espère que nous saisissons et que nous voyons quelle est notre position. Cela ne nous fait-il pas nous sentir comme lui? Quand nous pensons à Moïse confessant ses fautes et que nous regardons les nôtres?
+225 Moïse se tenait là, vous voyez? Pourtant il savait que l’Ecriture avait dit que c’était l’heure et le jour de l’accomplissement; il savait que Dieu l’avait rencontré dans la Colonne de feu. Cela s’était passé devant le peuple; là il avait fait tous ces miracles. Tout ce qu’il disait s’était accompli, même au point de créer des choses, faisant ainsi ce que Dieu seul pouvait faire, démontrant par là que sa voix était la Voix de Dieu.
+226 Et voici que surgit une circonstance avec ce peuple qu’il avait fait se lever pour le conduire vers la Terre promise. Alors il reste là à crier: “Que dois-je faire?”.
+227 C’est humain! C’est comme ce que me disait le frère Roy Slaughter l’autre jour (je crois qu’il est là-bas derrière la porte). Il me dit: «Frère Branham, laissez-les s’appuyer sur votre épaule aujourd’hui: demain vous devrez les porter!».
+228 C’est ainsi que sont les hommes. Ils s’appuient sur votre épaule aujourd’hui et demain vous devez les porter. C’est ainsi que Moïse fit: Dieu devait le porter tout le long du chemin après l’avoir consacré et confirmé pour cette tâche! Le peuple aurait dû dire: “Moïse, prononce la Parole! Nous t’avons vu agir là-bas. Dieu t’a honoré là-bas. Et tu es le même aujourd’hui!”. Amen! Vous voyez? “Fais-le!”. Amen! Il aurait dû le savoir, mais il ne fit rien. Bien!
+229 Ce qui était autrefois l’est encore aujourd’hui. Dieu a dû en avoir assez. Dieu doit en avoir été dégoûté. Il dit: “Pourquoi cries-tu à Moi? Ne me suis-je pas identifié? Ne t’ai-je pas dit que Je t’ai envoyé pour faire ce travail? Ne t’ai-je pas dit de le faire? Ne t’ai-je pas promis que Je le ferais, que Je serais avec ta bouche, que Je parlerais par toi, que J’agirais et que tu ferais des signes et des miracles? Ne l’ai-je pas promis? Ne l’ai-je pas fait exactement et n’ai-je pas détruit tous tes ennemis autour de toi? Et maintenant te voici devant la Mer Rouge, dans la ligne de ton devoir, faisant ce que Je t’ai dit de faire, et tu hésites toujours et tu cries encore à Moi! Ne crois-tu pas en Moi? Ne vois-tu pas que Je t’ai envoyé pour faire cela?”.
+230 Oh, que c’est humain! Comme Dieu devait en avoir assez! Il dit: “Tu sais que tu as besoin de cela. Tu sais que tu dois conduire ces enfants d’Israël vers la Terre Promise, mais te voilà acculé ici! Tu ne peux rien faire et il y a un besoin. Mais pourquoi cries-tu à Moi? Pourquoi regardes-tu vers Moi? Pourquoi m’appelles-tu? N’ai-je pas donné des preuves au peuple? Ne t’ai-je pas donné des preuves à toi-même? N’est-ce pas scripturaire? N’ai-je pas promis de conduire ce peuple dans ce pays? Ne t’ai-je pas appelé et ne t’ai-je pas dit ce que Je ferais? Ne t’ai-je pas appelé et envoyé le faire en te disant que ce ne serait pas toi, mais Moi qui le ferais? Et que Je descendrais et que Je serais avec ta bouche? Quoi que tu aies dit, Je l’ai confirmé et prouvé. Ne l’ai-je pas fait? Et devant la moindre difficulté tu te conduis comme un bébé! Sois un homme! Parle au peuple!”. Amen! “Va de l’avant!”. Amen! Voilà! “Que cries-tu à Moi? Parle!”. Amen!
 
         http://www.cmpp.ch
 
 POURQUOI CRIER? PARLE! 21
-231 Oh, que j’aime cela! “Pourquoi cries-tu à Moi? Parle simplement au peuple et va de l’avant
-vers le but”. Quoi qu’il arrive, qu’il s’agisse de maladie ou d’autre chose, qu’il s’agisse de
-ressusciter un mort ou quoi que ce soit: “Parle! J’ai donné la confirmation: Parle au peuple!”.
-232 Quelle leçon! Quelle leçon! Oh, mes frères! A ce stade de notre voyage, regardez où nous en
-sommes — certainement! — à ce troisième Pull. Remarquez que la venue du Seigneur est proche!
-Il est à la porte!
-233 Moïse était oint pour cette oeuvre, mais cependant, il attendait le AINSI DIT LE SEIGNEUR.
-Dieu a dû en avoir assez. Il dit: “Ne crie plus, parle! Je t’ai envoyé!”.
-234 Oh mon Dieu, quelle devrait être l’église ce matin! La parfaite identification de Dieu avec la
-Colonne de feu, les signes et les miracles! Tout est comme aux jours de Sodome. Il a dit que cela
-se reproduirait.
-235 Voyez l’état du monde, l’état de la nation, l’état des femmes, l’état des hommes, l’état de
-l’église, tout!
-236 Les éléments, les signes (soucoupes volantes, toutes sortes de choses mystérieuses dans le
-ciel; la mer qui se déchaîne, les raz-de-marée, le coeur de l’homme qui défaille, la peur, la
-perplexité de notre temps, la détresse parmi les nations, la chute de l’église, l’homme de péché
-s’élevant au-dessus de tout ce qu’on appelle dieu et qui s’assied dans le temple de Dieu, se
-proclamant lui-même Dieu!). Oh, mes frères! Et c’est arrivé à ce peuple!
-237 L’église s’est organisée et toutes se sont rassemblées comme des prostituées filles de la
-grande prostituée, tout ne fait que suivre les voies de la prostitution. La prostitution? Qu’est-ce que
-c’est? C’est dire aux femmes qu’elles peuvent se couper les cheveux et porter des shorts. C’est
-dire aux hommes qu’ils peuvent faire ceci ou cela. Ce sont les prédicateurs disant: «Faites ceci et
-cela», c’est l’Evangile social, etc. Ne voyez-vous pas que c’est commettre adultère à l’égard de la
-vraie Parole de Dieu?
-238 Et Dieu nous a envoyé Sa Parole authentique, indépendante de toute dénomination, libre de
-tout lien; il nous a donné la Colonne de Feu, le Saint-Esprit qui est avec nous depuis trente ans;
-tout se passe exactement comme Il l’a prédit.
-239 “Parle au peuple et allez de l’avant!”. Amen! Nous avons un but: la gloire! Dirigeons-nous vers
-ce but. Nous tendons vers la Terre Promise. “Toutes choses sont possibles à celui qui croit!”.
-     «Parle au peuple. N’ai-je pas donné des preuves? Ma photo n’a-t-elle pas été prise au milieu
-de vous et n’ai-je pas tout fait pour prouver que Je suis au milieu de vous? Est-ce que les journaux
-n’ont pas publié un article, il y a quelques semaines, où J’ai prédit du haut de la chaire, trois mois
-à l’avance, ce qui arriverait ici? Et cela s’est accompli, confirmant… Même la science est au
-courant! J’ai fait tout cela et vous attendez encore! Parle au peuple et marchez vers votre but».
-Amen!
-240 Un jour que Nathan le prophète était assis, voyant David le roi oint, ne lui dit-il pas: “Fais tout
-ce que tu as dans le coeur car Dieu est avec toi”? Il dit à David: “Fais tout ce que tu as dans ton
-coeur: Dieu est avec toi”.
-241 Josué fut oint pour s’emparer du pays pour Dieu et pour son peuple. Le jour tirait à sa fin. Il
-avait besoin de plus de temps pour achever l’oeuvre pour laquelle il avait été oint et envoyé. Josué
-n’était qu’un homme, mais il avait été oint. Dieu lui avait dit: “De même que J’ai été avec Moïse, Je
-serai avec toi”. Amen! “Je vais leur donner ce pays. Je désire que tu y ailles et que tu le purifies de
-tous les Amalécites et tous les autres, Philistins, Phérésiens, tous ceux que tu trouveras.
-Chasse-les! Je suis avec toi. Nul ne tiendra devant toi pendant tous les jours de ta vie. Nul ne
-pourra te nuire. Va dans ce pays”. Josué tira son épée et dit: “Suivez-moi!”.
-242 Il monta dans le pays; il y eut une bataille. Qu’arriva-t-il? Il mit l’ennemi en déroute. Mais il y
-avait de petites bandes de soldats ici et là. Le soir ils se regrouperaient pour former une seule
-armée et reviendraient en force. Mais le soleil se couchait, le jour tombait et Josué avait encore
-besoin de lumière. Le soleil se couchait! Mais il ne s’agenouilla pas, disant: “Seigneur Dieu, que
-faire? Que vais-je faire?”. IL PARLA! Il y avait un besoin; il dit alors: “Soleil, arrête-toi!”. Il ne cria
-pas, il commanda: “Soleil, arrête-toi! J’ai besoin de ta lumière. Je suis le serviteur du Seigneur, oint
-pour ce travail, et je suis devant une nécessité. Arrête-toi et brille! Et toi, lune, reste où tu es!”.
-Alors le soleil s’arrêta jusqu’à la fin de la bataille, jusqu’à la défaite de ce peuple.
-243 Le soleil lui avait obéi. Il ne poussa pas de cris, mais parla au soleil: “Soleil, arrête-toi! et lune,
-reste où tu es!”. Il n’a pas nié: “Seigneur, que dois-je faire maintenant? Donne-moi encore un peu
+231 Oh, que j’aime cela! “Pourquoi cries-tu à Moi? Parle simplement au peuple et va de l’avant vers le but”. Quoi qu’il arrive, qu’il s’agisse de maladie ou d’autre chose, qu’il s’agisse de ressusciter un mort ou quoi que ce soit: “Parle! J’ai donné la confirmation: Parle au peuple!”.
+232 Quelle leçon! Quelle leçon! Oh, mes frères! A ce stade de notre voyage, regardez où nous en sommes — certainement! — à ce troisième Pull. Remarquez que la venue du Seigneur est proche! Il est à la porte!
+233 Moïse était oint pour cette oeuvre, mais cependant, il attendait le AINSI DIT LE SEIGNEUR. Dieu a dû en avoir assez. Il dit: “Ne crie plus, parle! Je t’ai envoyé!”.
+234 Oh mon Dieu, quelle devrait être l’église ce matin! La parfaite identification de Dieu avec la Colonne de feu, les signes et les miracles! Tout est comme aux jours de Sodome. Il a dit que cela se reproduirait.
+235 Voyez l’état du monde, l’état de la nation, l’état des femmes, l’état des hommes, l’état de l’église, tout!
+236 Les éléments, les signes (soucoupes volantes, toutes sortes de choses mystérieuses dans le ciel; la mer qui se déchaîne, les raz-de-marée, le coeur de l’homme qui défaille, la peur, la perplexité de notre temps, la détresse parmi les nations, la chute de l’église, l’homme de péché s’élevant au-dessus de tout ce qu’on appelle dieu et qui s’assied dans le temple de Dieu, se proclamant lui-même Dieu!). Oh, mes frères! Et c’est arrivé à ce peuple!
+237 L’église s’est organisée et toutes se sont rassemblées comme des prostituées filles de la grande prostituée, tout ne fait que suivre les voies de la prostitution. La prostitution? Qu’est-ce que c’est? C’est dire aux femmes qu’elles peuvent se couper les cheveux et porter des shorts. C’est dire aux hommes qu’ils peuvent faire ceci ou cela. Ce sont les prédicateurs disant: «Faites ceci et cela», c’est l’Evangile social, etc. Ne voyez-vous pas que c’est commettre adultère à l’égard de la vraie Parole de Dieu?
+238 Et Dieu nous a envoyé Sa Parole authentique, indépendante de toute dénomination, libre de tout lien; il nous a donné la Colonne de Feu, le Saint-Esprit qui est avec nous depuis trente ans; tout se passe exactement comme Il l’a prédit.
+239 “Parle au peuple et allez de l’avant!”. Amen! Nous avons un but: la gloire! Dirigeons-nous vers ce but. Nous tendons vers la Terre Promise. “Toutes choses sont possibles à celui qui croit!”.
+     «Parle au peuple. N’ai-je pas donné des preuves? Ma photo n’a-t-elle pas été prise au milieu de vous et n’ai-je pas tout fait pour prouver que Je suis au milieu de vous? Est-ce que les journaux n’ont pas publié un article, il y a quelques semaines, où J’ai prédit du haut de la chaire, trois mois à l’avance, ce qui arriverait ici? Et cela s’est accompli, confirmant… Même la science est au courant! J’ai fait tout cela et vous attendez encore! Parle au peuple et marchez vers votre but». Amen!
+240 Un jour que Nathan le prophète était assis, voyant David le roi oint, ne lui dit-il pas: “Fais tout ce que tu as dans le coeur car Dieu est avec toi”? Il dit à David: “Fais tout ce que tu as dans ton coeur: Dieu est avec toi”.
+241 Josué fut oint pour s’emparer du pays pour Dieu et pour son peuple. Le jour tirait à sa fin. Il avait besoin de plus de temps pour achever l’oeuvre pour laquelle il avait été oint et envoyé. Josué n’était qu’un homme, mais il avait été oint. Dieu lui avait dit: “De même que J’ai été avec Moïse, Je serai avec toi”. Amen! “Je vais leur donner ce pays. Je désire que tu y ailles et que tu le purifies de tous les Amalécites et tous les autres, Philistins, Phérésiens, tous ceux que tu trouveras. Chasse-les! Je suis avec toi. Nul ne tiendra devant toi pendant tous les jours de ta vie. Nul ne pourra te nuire. Va dans ce pays”. Josué tira son épée et dit: “Suivez-moi!”.
+242 Il monta dans le pays; il y eut une bataille. Qu’arriva-t-il? Il mit l’ennemi en déroute. Mais il y avait de petites bandes de soldats ici et là. Le soir ils se regrouperaient pour former une seule armée et reviendraient en force. Mais le soleil se couchait, le jour tombait et Josué avait encore besoin de lumière. Le soleil se couchait! Mais il ne s’agenouilla pas, disant: “Seigneur Dieu, que faire? Que vais-je faire?”. IL PARLA! Il y avait un besoin; il dit alors: “Soleil, arrête-toi!”. Il ne cria pas, il commanda: “Soleil, arrête-toi! J’ai besoin de ta lumière. Je suis le serviteur du Seigneur, oint pour ce travail, et je suis devant une nécessité. Arrête-toi et brille! Et toi, lune, reste où tu es!”. Alors le soleil s’arrêta jusqu’à la fin de la bataille, jusqu’à la défaite de ce peuple.
+243 Le soleil lui avait obéi. Il ne poussa pas de cris, mais parla au soleil: “Soleil, arrête-toi! et lune, reste où tu es!”. Il n’a pas nié: “Seigneur, que dois-je faire maintenant? Donne-moi encore un peu
 
         http://www.cmpp.ch
 
 POURQUOI CRIER? PARLE! 22
-de jour!”. Il lui fallait de la lumière, aussi commanda-t-il au soleil qui lui obéit. Oh, frères! Il
-commanda au soleil de s’arrêter!
-244 Samson se leva, ayant été oint, consacré par Dieu, ayant reçu un don de puissance; il fut
-consacré pour détruire les Philistins. Il naquit sur cette terre mais fut oint par Dieu pour détruire les
-Philistins. Un jour ceux-ci le surprirent dans les champs sans son épée, sans sa lance. Et un millier
-de Philistins en armure tombèrent sur lui en même temps. Se jeta-t-il à terre en disant: “Oh,
-Seigneur, j’attends une vision? Oh, Seigneur, que dois-je faire? Donne-moi Tes directives!”? Il
-savait qu’il se trouvait devant une nécessité. Il ne trouva rien d’autre pour se défendre qu’une
-mâchoire d’âne fraîche, mais avec elle il abattit mille Philistins! Amen!
-245 Il ne cria pas à Dieu. Il utilisa le don qu’il avait reçu par onction. Il se savait envoyé pour cette
-oeuvre. Il savait qu’il était né dans ce but. Il savait qu’il avait été oint d’un don: il abattit mille
-Philistins. Il ne cria pas à Dieu. Dieu l’avait ordonné pour cela et avait confirmé par différentes
-choses que Samson avait faites qu’il était le serviteur choisi par Dieu et oint pour détruire les
-Philistins, ce qu’il fit! Peu importaient les circonstances, il le fit. Il ne demanda jamais rien. C’était
-son travail. C’était Dieu qui agissait par lui. Il ramassa cette mâchoire d’âne et battit les Philistins.
-246 Comment se fait-il que… un seul coup sur un de leurs casques d’airain épais de plusieurs
-centimètres, et cet os aurait dû voler en éclats! Mais il battit et tua mille soldats! Et après cela,
-cette mâchoire était toujours dans sa main! Il ne posa pas de questions, il ne cria pas: il parla et
-les mit en déroute.
-247 Oh, mes frères! Battre les Philistins! — “Puis-je battre les Philistins, Seigneur? Je sais que Tu
-m’as envoyé pour le faire, Seigneur. Oui, Seigneur, je sais que Tu m’as envoyé pour détruire cette
-nation des Philistins. Mais il y en a mille qui m’environnent et je n’ai rien! Que dois-je faire,
-Seigneur?”. Oh, frères! Mais rien ne pouvait le troubler: il avait été oint pour cette tâche. Rien ne
-pouvait lui faire de mal. Non, rien du tout! Alléluia!
-248 Il prit ce qu’il avait sous la main et les tailla en pièces. C’est vrai. Quand ses ennemis
-l’entourèrent, ils dirent: “Maintenant nous le tenons! Il est à l’intérieur avec cette femme. Nous
-allons fermer sur lui nos bonnes portes bien solides et il ne pourra pas sortir. Nous le tenons!”.
-249 Mais Samson ne se mit pas à crier: “Seigneur, ils m’ont emprisonné dans cette dénomination!
-Que vais-je faire? Je me suis joint à eux… Maintenant, que faire?”. Ce n’est pas ce qu’il a fait.
-Non! Samson est simplement sorti. Il arracha les portes, les chargea sur ses épaules et s’en alla.
-Amen!
-250 Il était oint pour cette oeuvre. Il était appelé par Dieu: on ne pouvait pas l’enfermer, oh non! Il
-emporta les portes. Il ne pria pas pour cela. Il ne demanda pas à Dieu s’il devait le faire ou non.
-C’était dans la ligne de son devoir. Amen! amen! amen! C’était dans la ligne de son devoir.
-     “Pourquoi crier à Moi? Parle et va de l’avant!”. Amen! “Ne crie pas, parle!”. Alors il arrêta de
-gémir et de se plaindre. Il aurait dû être assez grand maintenant pour parler. C’est vrai. Samson,
-lui, savait qu’avec ce don de puissance qu’il avait reçu par onction il pouvait détruire tout Philistin
-qui se présenterait devant lui. Amen!
-251 Mais nous, nous ne savons pas cela, vous voyez. Nous sommes encore de petits bébés au
-biberon.
-252 Mais lui le savait! Il savait que Dieu l’avait suscité dans ce but et que rien de l’arrêterait tout au
-long de sa vie. Rien ne pourrait le détruire. Il avait été suscité dans ce but comme Moïse: rien ne
-l’arrêterait, ni Amalécite ni quoi que ce soit. Il était sur le chemin de la Terre promise. Samson
-aussi savait qu’il était sur ce chemin.
-253 Samson savait qu’il était en train de prendre possession du pays. Il avait été confirmé. La
-Parole de Dieu l’avait promis et le Saint-Esprit était là pour le confirmer.
-254 Il était en route et rien ne l’entraverait. Certes pas! Il suivait la ligne de son devoir avec Dieu.
-Rien ne lui ferait obstacle. C’est pourquoi il chargea les portes sur ses épaules (elles devaient bien
-peser quatre ou cinq tonnes), gravit la colline et s’assit au sommet. Rien ne pouvait s’opposer à
-lui. Il avait un don oint par Dieu. Il n’avait pas besoin de crier: “Seigneur, que dois-je faire
-maintenant?”. Il était déjà oint pour le faire. C’était le AINSI DIT LE SEIGNEUR. “Débarrasse-Toi
-d’eux!”. Alléluia! “Débarrasse-toi d’eux! Je t’ai suscité dans ce but”. Amen!
+de jour!”. Il lui fallait de la lumière, aussi commanda-t-il au soleil qui lui obéit. Oh, frères! Il commanda au soleil de s’arrêter!
+244 Samson se leva, ayant été oint, consacré par Dieu, ayant reçu un don de puissance; il fut consacré pour détruire les Philistins. Il naquit sur cette terre mais fut oint par Dieu pour détruire les Philistins. Un jour ceux-ci le surprirent dans les champs sans son épée, sans sa lance. Et un millier de Philistins en armure tombèrent sur lui en même temps. Se jeta-t-il à terre en disant: “Oh, Seigneur, j’attends une vision? Oh, Seigneur, que dois-je faire? Donne-moi Tes directives!”? Il savait qu’il se trouvait devant une nécessité. Il ne trouva rien d’autre pour se défendre qu’une mâchoire d’âne fraîche, mais avec elle il abattit mille Philistins! Amen!
+245 Il ne cria pas à Dieu. Il utilisa le don qu’il avait reçu par onction. Il se savait envoyé pour cette oeuvre. Il savait qu’il était né dans ce but. Il savait qu’il avait été oint d’un don: il abattit mille Philistins. Il ne cria pas à Dieu. Dieu l’avait ordonné pour cela et avait confirmé par différentes choses que Samson avait faites qu’il était le serviteur choisi par Dieu et oint pour détruire les Philistins, ce qu’il fit! Peu importaient les circonstances, il le fit. Il ne demanda jamais rien. C’était son travail. C’était Dieu qui agissait par lui. Il ramassa cette mâchoire d’âne et battit les Philistins.
+246 Comment se fait-il que… un seul coup sur un de leurs casques d’airain épais de plusieurs centimètres, et cet os aurait dû voler en éclats! Mais il battit et tua mille soldats! Et après cela, cette mâchoire était toujours dans sa main! Il ne posa pas de questions, il ne cria pas: il parla et les mit en déroute.
+247 Oh, mes frères! Battre les Philistins! — “Puis-je battre les Philistins, Seigneur? Je sais que Tu m’as envoyé pour le faire, Seigneur. Oui, Seigneur, je sais que Tu m’as envoyé pour détruire cette nation des Philistins. Mais il y en a mille qui m’environnent et je n’ai rien! Que dois-je faire, Seigneur?”. Oh, frères! Mais rien ne pouvait le troubler: il avait été oint pour cette tâche. Rien ne pouvait lui faire de mal. Non, rien du tout! Alléluia!
+248 Il prit ce qu’il avait sous la main et les tailla en pièces. C’est vrai. Quand ses ennemis l’entourèrent, ils dirent: “Maintenant nous le tenons! Il est à l’intérieur avec cette femme. Nous allons fermer sur lui nos bonnes portes bien solides et il ne pourra pas sortir. Nous le tenons!”.
+249 Mais Samson ne se mit pas à crier: “Seigneur, ils m’ont emprisonné dans cette dénomination! Que vais-je faire? Je me suis joint à eux… Maintenant, que faire?”. Ce n’est pas ce qu’il a fait. Non! Samson est simplement sorti. Il arracha les portes, les chargea sur ses épaules et s’en alla. Amen!
+250 Il était oint pour cette oeuvre. Il était appelé par Dieu: on ne pouvait pas l’enfermer, oh non! Il emporta les portes. Il ne pria pas pour cela. Il ne demanda pas à Dieu s’il devait le faire ou non. C’était dans la ligne de son devoir. Amen! amen! amen! C’était dans la ligne de son devoir.
+     “Pourquoi crier à Moi? Parle et va de l’avant!”. Amen! “Ne crie pas, parle!”. Alors il arrêta de gémir et de se plaindre. Il aurait dû être assez grand maintenant pour parler. C’est vrai. Samson, lui, savait qu’avec ce don de puissance qu’il avait reçu par onction il pouvait détruire tout Philistin qui se présenterait devant lui. Amen!
+251 Mais nous, nous ne savons pas cela, vous voyez. Nous sommes encore de petits bébés au biberon.
+252 Mais lui le savait! Il savait que Dieu l’avait suscité dans ce but et que rien de l’arrêterait tout au long de sa vie. Rien ne pourrait le détruire. Il avait été suscité dans ce but comme Moïse: rien ne l’arrêterait, ni Amalécite ni quoi que ce soit. Il était sur le chemin de la Terre promise. Samson aussi savait qu’il était sur ce chemin.
+253 Samson savait qu’il était en train de prendre possession du pays. Il avait été confirmé. La Parole de Dieu l’avait promis et le Saint-Esprit était là pour le confirmer.
+254 Il était en route et rien ne l’entraverait. Certes pas! Il suivait la ligne de son devoir avec Dieu. Rien ne lui ferait obstacle. C’est pourquoi il chargea les portes sur ses épaules (elles devaient bien peser quatre ou cinq tonnes), gravit la colline et s’assit au sommet. Rien ne pouvait s’opposer à lui. Il avait un don oint par Dieu. Il n’avait pas besoin de crier: “Seigneur, que dois-je faire maintenant?”. Il était déjà oint pour le faire. C’était le AINSI DIT LE SEIGNEUR. “Débarrasse-Toi d’eux!”. Alléluia! “Débarrasse-toi d’eux! Je t’ai suscité dans ce but”. Amen!
 255 — “Que dois-je faire, Seigneur? Que dois-je faire ici devant la Mer Rouge?”.
-256 — “Ne t’ai-je pas dit que Je te donnerais une montagne pour signe? Tu es en train de revenir
-à cette montagne et tu vas conduire les enfants d’Israël dans le pays! Ne t’ai-je pas appelé dans
+256 — “Ne t’ai-je pas dit que Je te donnerais une montagne pour signe? Tu es en train de revenir à cette montagne et tu vas conduire les enfants d’Israël dans le pays! Ne t’ai-je pas appelé dans
 
         http://www.cmpp.ch
 
 POURQUOI CRIER? PARLE! 23
-ce but? Pourquoi te fais-tu du souci à cause des obstacles du chemin? Parle et mets-toi en
-marche!”. Amen! et amen! “Je t’ai appelé dans ce but!”.
-257 David savait qu’il était oint, qu’il était qualifié pour être un bon tireur. Et il savait que les autres
-le connaissaient comme étant un bon tireur. David était oint: il le savait. Lorsqu’il se trouva devant
-Goliath, il ne se mit pas à crier: “Oh, Dieu, que dois-je faire?” mais au contraire: “Je sais ce que Tu
-as fait autrefois: Tu m’as fait tuer un ours, Tu m’as fait tuer un lion. Pourquoi pas aussi ce Goliath
-qui est là-bas?”. Il ne fit pas cela: il parla simplement. Et que dit-il? “Ce sera la même chose pour
-toi que pour ces bêtes”. Il parla et s’avança.
-258 David ne pria pas, il n’offrit aucun sacrifice: il savait qu’il était oint. Amen! Il était oint et son jet
-de fronde avait déjà prouvé que c’était vrai. Il avait foi en son onction. Il avait la foi que Dieu
-pouvait diriger la pierre au milieu de ce casque, au seul endroit vulnérable. Il se tenait là. Il se
-savait bon tireur. Amen! Il savait que c’était Dieu qui l’avait fait ainsi. Amen! Il savait qu’il avait tué
-un lion, il savait qu’il avait tué un ours. Mais jusque là c’était pour défendre les biens de son père
-terrestre. Maintenant il s’agissait du bien de son Père céleste. Amen!
-259 Il ne s’agenouilla pas en disant: “Que dois-je faire, Seigneur?”. Il parla et dit: “Il va t’arriver la
-même chose qu’au lion et à l’ours! Me voici!”. Gloire à Dieu!
-     Il parla et s’avança à la rencontre de Goliath (oh, frères) sans se laisser impressionner par la
-grande taille de son ennemi. David était un petit jeune homme au teint rosé. Il n’était pas bien
-grand ni bien beau à voir. C’était un petit jeune homme un peu étriqué. La Bible dit qu’il avait un
-teint rose. Mais, ne considérant ni sa petite taille ni ses capacités…
-     Vous savez, l’évêque lui avait dit: “Mon enfant, attention! Cet homme est un théologien! C’est
-un guerrier. Il est né pour la bataille et s’est battu dès sa jeunesse. Tu n’es pas de taille à te
-mesurer à lui”.
-260 Ses frères lui dirent: “Garnement, tu es venu ici pour regarder la bataille! Rentre à la maison!”.
-Mais tout cela ne le troubla pas. Pourquoi? Il savait qu’il était oint!
-261 — “Le Dieu qui m’a délivré du lion, le Dieu qui m’a délivré des pattes de cet ours me délivrera
-d’autant plus de ce Philistin! Me voici! Je marche contre toi au Nom du Seigneur, le Dieu d’Israël!”.
-Amen!
-262 Il ne pria pas pour cela. Les prières à son égard avaient déjà été faites. Dieu avait déjà prié
-pour lui avant la fondation du monde. Il était oint pour ce travail. Il devait parler et aller de l’avant.
-Tout était là: simplement parler et aller de l’avant.
-263 Oh, tout était là! Il ne s’occupa pas de ses frères dénominationnels, de ces moqueurs qui se
-trouvaient là eux aussi. Ses frères étaient là, se moquant de lui et disant: “Tu n’es qu’un méchant
-garçon!”. Mais cela ne le touchait pas le moins du monde. “Tu veux te singulariser, tout cela n’est
-que pour te faire remarquer”.
-264 Si ce n’avait été que pour se faire remarquer, il le fut, certes! Mais les autres ne voyaient que
-le côté intellectuel. David, lui, savait que l’huile d’onction était sur lui. Tout le reste lui était égal. Il
-dit: “Il en sera du Philistin comme de l’ours et du lion car me voici”. Il prédit la chose avant son
-accomplissement. Qu’avait-il fait? Il avait tué l’ours, il avait tué le lion.
-     Avec quoi frappa-t-il le lion? D’un coup de sa fronde; puis il prit un couteau. Il égorgea le lion.
-Il fit la même chose avec Goliath. Il le frappa d’une pierre, lui ôta son épée et lui coupa la tête.
-Qu’avait-il prédit avant que cela n’arrive? “Il en sera de toi comme d’eux”. Pourquoi? Il prononça la
-Parole qui annonçait ce qui arriverait, puis alla de l’avant pour l’accomplir. Amen! Oh, frères! Il
-parla et prit la situation en mains ce jour-là.
-265 S’il y a une époque où l’homme devrait parler, c’est maintenant. (Encore quelques minutes, si
-vous pouvez le supporter, puis je conclurai; mais j’ai quelques notes, des passages de l’Ecriture
-que j’aimerais encore étudier.)
-266 Pierre n’a pas crié quand il rencontra près de la Belle Porte un homme qui était couché là et
-qui avait assez de foi pour être guéri. Il ne s’est pas agenouillé pour une nuit ou un jour de prière,
-ou même pour faire une bonne prière bien longue en disant: “Seigneur, je Te prie maintenant afin
-que Tu viennes en aide à ce pauvre infirme. Je vois qu’il a la foi. Je sais qu’il est croyant. Je l’ai
-interrogé et il m’a dit qu’il avait la foi, qu’il croirait ce que je lui dirais. Je lui ai dit ce que Tu avais
-fait et je crois que maintenant, Seigneur… Peux-Tu me donner le AINSI DIT LE SEIGNEUR pour
-lui?”.
+ce but? Pourquoi te fais-tu du souci à cause des obstacles du chemin? Parle et mets-toi en marche!”. Amen! et amen! “Je t’ai appelé dans ce but!”.
+257 David savait qu’il était oint, qu’il était qualifié pour être un bon tireur. Et il savait que les autres le connaissaient comme étant un bon tireur. David était oint: il le savait. Lorsqu’il se trouva devant Goliath, il ne se mit pas à crier: “Oh, Dieu, que dois-je faire?” mais au contraire: “Je sais ce que Tu as fait autrefois: Tu m’as fait tuer un ours, Tu m’as fait tuer un lion. Pourquoi pas aussi ce Goliath qui est là-bas?”. Il ne fit pas cela: il parla simplement. Et que dit-il? “Ce sera la même chose pour toi que pour ces bêtes”. Il parla et s’avança.
+258 David ne pria pas, il n’offrit aucun sacrifice: il savait qu’il était oint. Amen! Il était oint et son jet de fronde avait déjà prouvé que c’était vrai. Il avait foi en son onction. Il avait la foi que Dieu pouvait diriger la pierre au milieu de ce casque, au seul endroit vulnérable. Il se tenait là. Il se savait bon tireur. Amen! Il savait que c’était Dieu qui l’avait fait ainsi. Amen! Il savait qu’il avait tué un lion, il savait qu’il avait tué un ours. Mais jusque là c’était pour défendre les biens de son père terrestre. Maintenant il s’agissait du bien de son Père céleste. Amen!
+259 Il ne s’agenouilla pas en disant: “Que dois-je faire, Seigneur?”. Il parla et dit: “Il va t’arriver la même chose qu’au lion et à l’ours! Me voici!”. Gloire à Dieu!
+     Il parla et s’avança à la rencontre de Goliath (oh, frères) sans se laisser impressionner par la grande taille de son ennemi. David était un petit jeune homme au teint rosé. Il n’était pas bien grand ni bien beau à voir. C’était un petit jeune homme un peu étriqué. La Bible dit qu’il avait un teint rose. Mais, ne considérant ni sa petite taille ni ses capacités…
+     Vous savez, l’évêque lui avait dit: “Mon enfant, attention! Cet homme est un théologien! C’est un guerrier. Il est né pour la bataille et s’est battu dès sa jeunesse. Tu n’es pas de taille à te mesurer à lui”.
+260 Ses frères lui dirent: “Garnement, tu es venu ici pour regarder la bataille! Rentre à la maison!”. Mais tout cela ne le troubla pas. Pourquoi? Il savait qu’il était oint!
+261 — “Le Dieu qui m’a délivré du lion, le Dieu qui m’a délivré des pattes de cet ours me délivrera d’autant plus de ce Philistin! Me voici! Je marche contre toi au Nom du Seigneur, le Dieu d’Israël!”. Amen!
+262 Il ne pria pas pour cela. Les prières à son égard avaient déjà été faites. Dieu avait déjà prié pour lui avant la fondation du monde. Il était oint pour ce travail. Il devait parler et aller de l’avant. Tout était là: simplement parler et aller de l’avant.
+263 Oh, tout était là! Il ne s’occupa pas de ses frères dénominationnels, de ces moqueurs qui se trouvaient là eux aussi. Ses frères étaient là, se moquant de lui et disant: “Tu n’es qu’un méchant garçon!”. Mais cela ne le touchait pas le moins du monde. “Tu veux te singulariser, tout cela n’est que pour te faire remarquer”.
+264 Si ce n’avait été que pour se faire remarquer, il le fut, certes! Mais les autres ne voyaient que le côté intellectuel. David, lui, savait que l’huile d’onction était sur lui. Tout le reste lui était égal. Il dit: “Il en sera du Philistin comme de l’ours et du lion car me voici”. Il prédit la chose avant son accomplissement. Qu’avait-il fait? Il avait tué l’ours, il avait tué le lion.
+     Avec quoi frappa-t-il le lion? D’un coup de sa fronde; puis il prit un couteau. Il égorgea le lion. Il fit la même chose avec Goliath. Il le frappa d’une pierre, lui ôta son épée et lui coupa la tête. Qu’avait-il prédit avant que cela n’arrive? “Il en sera de toi comme d’eux”. Pourquoi? Il prononça la Parole qui annonçait ce qui arriverait, puis alla de l’avant pour l’accomplir. Amen! Oh, frères! Il parla et prit la situation en mains ce jour-là.
+265 S’il y a une époque où l’homme devrait parler, c’est maintenant. (Encore quelques minutes, si vous pouvez le supporter, puis je conclurai; mais j’ai quelques notes, des passages de l’Ecriture que j’aimerais encore étudier.)
+266 Pierre n’a pas crié quand il rencontra près de la Belle Porte un homme qui était couché là et qui avait assez de foi pour être guéri. Il ne s’est pas agenouillé pour une nuit ou un jour de prière, ou même pour faire une bonne prière bien longue en disant: “Seigneur, je Te prie maintenant afin que Tu viennes en aide à ce pauvre infirme. Je vois qu’il a la foi. Je sais qu’il est croyant. Je l’ai interrogé et il m’a dit qu’il avait la foi, qu’il croirait ce que je lui dirais. Je lui ai dit ce que Tu avais fait et je crois que maintenant, Seigneur… Peux-Tu me donner le AINSI DIT LE SEIGNEUR pour lui?”.
 
         http://www.cmpp.ch
 
 POURQUOI CRIER? PARLE! 24
-267 Non! Il se savait un apôtre oint. Il savait que Jésus-Christ lui avait ordonné: “Guéris les
-malades, ressuscite les morts, purifie les lépreux, chasse les démons; tu as reçu gratuitement:
-donne gratuitement!”. Il lui avait dit: “Pierre, va faire cela!”. Il n’avait pas besoin de prier, il était
-envoyé pour cela.
-268 Que dit-il? Il dit: “Au Nom de Jésus-Christ…”. Il prononça le Nom de Jésus-Christ devant cet
-homme couché là. Il le saisit par la main et dit: “Tiens-toi sur tes pieds!”. Il le soutint jusqu’à ce que
-ses chevilles aient recouvré de la force et qu’Il se mît à marcher.
-     Pourquoi cela? Il n’a pas organisé une nuit de prière. Il n’a pas crié à Dieu. Il savait d’une
-façon certaine, de la bouche même de Jésus-Christ, qu’il était oint pour cette oeuvre. Il parla et le
-releva car il savait qu’il était un apôtre oint dans ce but.
-269 Les gens sur lesquels son ombre passa n’avaient pas dit: “Oh, viens apôtre Pierre! Crie sur
-nous et prie à Dieu la prière de la foi pour nous!”. Non! Ce n’est pas du tout ce qu’ils firent. Ils
-savaient qu’il était oint, qu’il était un apôtre de Dieu confirmé. C’est pourquoi ils dirent: “Que ton
-ombre passe seulement sur nous! Tu n’as pas besoin de dire un mot. Nous savons, nous
-croyons”. La Vie était en eux… L’apôtre ne pouvait s’arrêter à chacun d’eux, mais ils eurent tous
-part à cela.
-270 Moïse dit: “Je ne pars pas tout seul, nous partons tous ensemble. Nous avons tous quelque
-chose à faire: nous devons tous recevoir l’onction”.
-271 Ils virent l’apôtre guérir le malade et faire ces choses, mais ils savaient qu’il ne pouvait aller
-vers eux tous: c’est pourquoi ils ne dirent pas à Pierre: “Prie jusqu’à ce que tu reçoives le AINSI
-DIT LE SEIGNEUR, puis viens me rapporter ce que le Seigneur a dit”. Ils dirent: “Puisse seulement
-son ombre passer sur nous, car le Dieu même qui était en Jésus-Christ est en lui et nous voyons
-les mêmes oeuvres s’accomplir”. Alors ils touchèrent le bord du vêtement de Jésus en se
-couchant à l’ombre de Pierre, car Jésus était en lui. Si cette ombre passait sur eux ils étaient
-guéris.
-272 Et la Bible dit qu’ils le furent tous! Et sans nuit de prière! Les malades disaient: “Seigneur, si
-l’ombre de cet apôtre passe sur moi…”. Ils savaient; la Lumière les avait frappés. Leur coeur
-brûlait, leur foi était libérée de ses liens. Amen! Ils crurent et ils virent. C’est pareil avec les
-mouchoirs de Paul. (Concluons maintenant.)
-273 Jésus n’a pas crié à Dieu quand on m’amena l’enfant lunatique qui tombait dans le feu
-pendant ses crises d’épilepsie. Il n’a jamais dit: “Père, je suis ton Fils et tu m’as envoyé pour faire
-ceci et cela. Puis-je guérir ce garçon?”. Jamais! Il dit: “Satan, sors de lui!”. Il parla et l’enfant fut
-guéri.
-274 Quand Il rencontra Légion avec 2 000 démons en lui, ce ne fut pas Jésus qui cria, mais les
-démons: “Si tu nous chasses, permets que nous entrions dans ce troupeau de pourceaux!”.
-275 Jésus n’a jamais dit: “Père, suis-je capable de faire cela?”. Il dit: “Sortez!”. Et les démons
-s’enfuirent. Bien sûr, Il savait bien qu’Il était le Messie.
-276 Au tombeau de Lazare (qui était mort depuis quatre jours) ses amis dirent: “Si tu eusses été
-là, il ne serait pas mort”.
-277 Mais Jésus répondit: “Je suis la Résurrection et la Vie”. Il ne dit pas où ni quand ni comment.
-“Celui qui croit en Moi vivra quand même il serait mort”. Amen! Il savait qui il était. Il savait ce qu’Il
-était. Il savait qu’Il était Emmanuel. Il savait qu’Il était la Résurrection. Il savait qu’Il était la Vie. Il
-savait qu’en Lui habitait corporellement la plénitude de la divinité. Il voyait ce petit groupe autour
-de lui et savait ce que Dieu l’avait chargé de faire: Il y alla.
-278 Il n’a jamais dit: “Attendez, Je vais m’agenouiller; faites-en autant et prions”. Il dit:
-“Croyez-vous que Je puisse faire cela?”. Amen! S’Il posa la question, ce n’était pas pour Lui,
-c’était pour eux.
-279 — “Oui, Seigneur, je crois que Tu es le Fils de Dieu qui devait venir dans le monde”. Oh, mes
-frères! Le voilà identifié! Quelque chose doit se passer.
-280 — “Lazare, sors!”. Il parla: un mort ressuscita. Il ne demanda pas: “Puis-je?”. Il parla
-simplement. Quand la foi est là, la chose se produit.
-281 Il parla et l’aveugle vit, le boiteux marcha, le sourd entendit, les démons s’enfuirent en criant,
-les morts ressuscitèrent. Tout cela arriva. Pourquoi? Il ne pria pas. Il était oint comme Messie. Il
-était le Messie. Il le savait. Il connaissait Sa position. Il savait dans quel but Il avait été envoyé. Il
-savait que le Père L’avait identifié comme Messie pour le croyant; et quand Il rencontrait ce
+267 Non! Il se savait un apôtre oint. Il savait que Jésus-Christ lui avait ordonné: “Guéris les malades, ressuscite les morts, purifie les lépreux, chasse les démons; tu as reçu gratuitement: donne gratuitement!”. Il lui avait dit: “Pierre, va faire cela!”. Il n’avait pas besoin de prier, il était envoyé pour cela.
+268 Que dit-il? Il dit: “Au Nom de Jésus-Christ…”. Il prononça le Nom de Jésus-Christ devant cet homme couché là. Il le saisit par la main et dit: “Tiens-toi sur tes pieds!”. Il le soutint jusqu’à ce que ses chevilles aient recouvré de la force et qu’Il se mît à marcher.
+     Pourquoi cela? Il n’a pas organisé une nuit de prière. Il n’a pas crié à Dieu. Il savait d’une façon certaine, de la bouche même de Jésus-Christ, qu’il était oint pour cette oeuvre. Il parla et le releva car il savait qu’il était un apôtre oint dans ce but.
+269 Les gens sur lesquels son ombre passa n’avaient pas dit: “Oh, viens apôtre Pierre! Crie sur nous et prie à Dieu la prière de la foi pour nous!”. Non! Ce n’est pas du tout ce qu’ils firent. Ils savaient qu’il était oint, qu’il était un apôtre de Dieu confirmé. C’est pourquoi ils dirent: “Que ton ombre passe seulement sur nous! Tu n’as pas besoin de dire un mot. Nous savons, nous croyons”. La Vie était en eux… L’apôtre ne pouvait s’arrêter à chacun d’eux, mais ils eurent tous part à cela.
+270 Moïse dit: “Je ne pars pas tout seul, nous partons tous ensemble. Nous avons tous quelque chose à faire: nous devons tous recevoir l’onction”.
+271 Ils virent l’apôtre guérir le malade et faire ces choses, mais ils savaient qu’il ne pouvait aller vers eux tous: c’est pourquoi ils ne dirent pas à Pierre: “Prie jusqu’à ce que tu reçoives le AINSI DIT LE SEIGNEUR, puis viens me rapporter ce que le Seigneur a dit”. Ils dirent: “Puisse seulement son ombre passer sur nous, car le Dieu même qui était en Jésus-Christ est en lui et nous voyons les mêmes oeuvres s’accomplir”. Alors ils touchèrent le bord du vêtement de Jésus en se couchant à l’ombre de Pierre, car Jésus était en lui. Si cette ombre passait sur eux ils étaient guéris.
+272 Et la Bible dit qu’ils le furent tous! Et sans nuit de prière! Les malades disaient: “Seigneur, si l’ombre de cet apôtre passe sur moi…”. Ils savaient; la Lumière les avait frappés. Leur coeur brûlait, leur foi était libérée de ses liens. Amen! Ils crurent et ils virent. C’est pareil avec les mouchoirs de Paul. (Concluons maintenant.)
+273 Jésus n’a pas crié à Dieu quand on m’amena l’enfant lunatique qui tombait dans le feu pendant ses crises d’épilepsie. Il n’a jamais dit: “Père, je suis ton Fils et tu m’as envoyé pour faire ceci et cela. Puis-je guérir ce garçon?”. Jamais! Il dit: “Satan, sors de lui!”. Il parla et l’enfant fut guéri.
+274 Quand Il rencontra Légion avec 2 000 démons en lui, ce ne fut pas Jésus qui cria, mais les démons: “Si tu nous chasses, permets que nous entrions dans ce troupeau de pourceaux!”.
+275 Jésus n’a jamais dit: “Père, suis-je capable de faire cela?”. Il dit: “Sortez!”. Et les démons s’enfuirent. Bien sûr, Il savait bien qu’Il était le Messie.
+276 Au tombeau de Lazare (qui était mort depuis quatre jours) ses amis dirent: “Si tu eusses été là, il ne serait pas mort”.
+277 Mais Jésus répondit: “Je suis la Résurrection et la Vie”. Il ne dit pas où ni quand ni comment. “Celui qui croit en Moi vivra quand même il serait mort”. Amen! Il savait qui il était. Il savait ce qu’Il était. Il savait qu’Il était Emmanuel. Il savait qu’Il était la Résurrection. Il savait qu’Il était la Vie. Il savait qu’en Lui habitait corporellement la plénitude de la divinité. Il voyait ce petit groupe autour de lui et savait ce que Dieu l’avait chargé de faire: Il y alla.
+278 Il n’a jamais dit: “Attendez, Je vais m’agenouiller; faites-en autant et prions”. Il dit: “Croyez-vous que Je puisse faire cela?”. Amen! S’Il posa la question, ce n’était pas pour Lui, c’était pour eux.
+279 — “Oui, Seigneur, je crois que Tu es le Fils de Dieu qui devait venir dans le monde”. Oh, mes frères! Le voilà identifié! Quelque chose doit se passer.
+280 — “Lazare, sors!”. Il parla: un mort ressuscita. Il ne demanda pas: “Puis-je?”. Il parla simplement. Quand la foi est là, la chose se produit.
+281 Il parla et l’aveugle vit, le boiteux marcha, le sourd entendit, les démons s’enfuirent en criant, les morts ressuscitèrent. Tout cela arriva. Pourquoi? Il ne pria pas. Il était oint comme Messie. Il était le Messie. Il le savait. Il connaissait Sa position. Il savait dans quel but Il avait été envoyé. Il savait que le Père L’avait identifié comme Messie pour le croyant; et quand Il rencontrait ce
 
         http://www.cmpp.ch
 
     POURQUOI CRIER? PARLE!                      25
-croyant ayant la foi, Il n’avait qu’à prononcer la Parole et les démons s’enfuyaient. Certainement!
-Parle! Ne crie pas. PARLE! Amen!
+croyant ayant la foi, Il n’avait qu’à prononcer la Parole et les démons s’enfuyaient. Certainement! Parle! Ne crie pas. PARLE! Amen!
 282 Il connaissait le droit qu’Il avait reçu de Dieu. Nous pas. Il savait qui Il était. Nous pas.
-283 Moïse avait oublié; Samson avait compris. D’autres aussi, Josué avait compris mais Moïse
-avait oublié. Dieu dut le rendre attentif à cela. Il dit: “Pourquoi cries-tu à moi? Je t’ai envoyé pour
-accomplir cette oeuvre. Parle! Continue vers ton objectif. Je t’ai dit que tu viendrais à cette
-montagne: prends les enfants d’Israël et conduis-les. Parle simplement. Peu importent les
-obstacles sur ton chemin, écarte-les. Je t’ai donné l’autorité pour le faire, J’ai parlé, et à ta voix des
-mouches et des poux sont apparus, il y a eu des créations. Pourquoi cries-tu à moi maintenant?
-Pourquoi viens-tu crier vers moi pour ces choses? Tu n’as qu’à parler et à regarder disparaître ces
-difficultés. C’est tout”. Oh, frères, combien j’aime cela!
-284 Voyez Jésus. Dans tout ce qu’Il disait Il prononçait simplement la Parole et cela
-s’accomplissait. Dieu L’avait convenablement confirmé pour être Son Fils: “Celui-ci est mon Fils
-bien-aimé en qui j’ai mis toute mon affection. Ecoutez-le”.
-285 Observez-Le (j’aime cela): quelle majesté, quel courage lorsqu’Il Se tenait devant ceux qui Le
-critiquaient. Il ne dit pas: “Détruisez ce temple et je prierai le Père pour voir ce qu’Il va faire”. Mais:
-“Détruisez ce temple et Je le relèverai!”. Non pas: “J’espère… Je vais essayer…” mais: “Je le
-ferai!”. Pourquoi? Parce que l’Ecriture l’a dit.
-286 La même Ecriture qui nous a dit qu’Il ressusciterait Son corps nous donne l’autorité et la
-puissance. Amen! “En Mon Nom ils chasseront les démons, parleront de nouvelles langues; s’ils
-saisissent un serpent ou boivent un breuvage mortel, cela ne leur fera aucun mal. S’ils imposent
-les mains aux malades, ceux-ci seront guéris”.
+283 Moïse avait oublié; Samson avait compris. D’autres aussi, Josué avait compris mais Moïse avait oublié. Dieu dut le rendre attentif à cela. Il dit: “Pourquoi cries-tu à moi? Je t’ai envoyé pour accomplir cette oeuvre. Parle! Continue vers ton objectif. Je t’ai dit que tu viendrais à cette montagne: prends les enfants d’Israël et conduis-les. Parle simplement. Peu importent les obstacles sur ton chemin, écarte-les. Je t’ai donné l’autorité pour le faire, J’ai parlé, et à ta voix des mouches et des poux sont apparus, il y a eu des créations. Pourquoi cries-tu à moi maintenant? Pourquoi viens-tu crier vers moi pour ces choses? Tu n’as qu’à parler et à regarder disparaître ces difficultés. C’est tout”. Oh, frères, combien j’aime cela!
+284 Voyez Jésus. Dans tout ce qu’Il disait Il prononçait simplement la Parole et cela s’accomplissait. Dieu L’avait convenablement confirmé pour être Son Fils: “Celui-ci est mon Fils bien-aimé en qui j’ai mis toute mon affection. Ecoutez-le”.
+285 Observez-Le (j’aime cela): quelle majesté, quel courage lorsqu’Il Se tenait devant ceux qui Le critiquaient. Il ne dit pas: “Détruisez ce temple et je prierai le Père pour voir ce qu’Il va faire”. Mais: “Détruisez ce temple et Je le relèverai!”. Non pas: “J’espère… Je vais essayer…” mais: “Je le ferai!”. Pourquoi? Parce que l’Ecriture l’a dit.
+286 La même Ecriture qui nous a dit qu’Il ressusciterait Son corps nous donne l’autorité et la puissance. Amen! “En Mon Nom ils chasseront les démons, parleront de nouvelles langues; s’ils saisissent un serpent ou boivent un breuvage mortel, cela ne leur fera aucun mal. S’ils imposent les mains aux malades, ceux-ci seront guéris”.
      — “Pourquoi crier à Moi? Parle et va de l’avant!”. Quel courage…
      — “Détruisez ce temple et je le rebâtirai”.
-287 Oh, rappelez-vous que c’est le même “LUI” qui a dit dans Jean 14.12: “Celui qui croit en moi
-fera aussi les oeuvres que je fais”. Est-ce vrai? C’est Lui qui l’a dit. C’est Jésus qui dit dans
-Marc 11.23: “Si quelqu’un dit à cette montagne (non pas: “Si vous priez cette montagne”) … Si
-vous dites à cette montagne: ôte-toi de là et jette-toi dans la mer et s’il ne doute point en son
-coeur; mais croit que ce qu’il dit arrive, il le verra s’accomplir”. Mais si vous le dites
-présomptueusement, il ne se passera rien. Par contre, s’il y a quelque chose en vous, si vous êtes
-oint pour cette oeuvre, que vous savez que c’est la volonté de Dieu et que vous parlez, cela
-s’accomplira. Jésus a dit: “Si vous demeurez en moi et que mes paroles demeurent en vous,
-demandez ce que vous voudrez et cela vous sera accordé”. Oh, mes frères! Comprenez-vous ce
-que je veux dire?
-289 Pardonnez-moi ce que je vais dire, mais cela vient de me traverser l’esprit. Il faut que j’en
-parle. C’est Lui qui me dit ce certain jour dans les bois: «Tu n’as pas de gibier» et qui créa trois
-écureuils qui se tinrent juste devant nous. Comment cela se fit-il? En prononçant la Parole, en
-disant: «Ils seront là, là et là». Et ils y furent! Charlie Rodney, sachez que c’était Lui, là-bas au
-Kentucky. Nellie, Margie et tous les autres, sachez que c’était Lui, ce même Dieu qui parla
-autrefois à Moïse et dit: “Pourquoi crier à Moi? Prononce la Parole!”. C’est Lui qui appela ces
-écureuils à la vie. C’est Lui. Oh, frères!
-290 C’est LUI qui donna la vision il y a environ une année, montrant que nous irions là-bas, qu’il y
-aurait les sept Sceaux et qu’il y aurait un grand tonnerre qui en marquerait l’ouverture, et que ce
-serait en forme de pyramide. Le magazine Life a publié cette photo qui est ici sur le mur. C’est LUI
-qui a dit cela.
-291 L’autre soir, alors que nous marchions sur la route et qu’un gros serpent mamba était sur le
-point d’attaquer mon frère, c’est LUI qui m’a dit: «Tu as reçu le pouvoir de le lier comme tous les
-autres serpents».
-292 C’est LUI qui a dit cela à ma chère petite femme aux cheveux gris qui est assise là-bas au
-fond… C’est LUI qui m’a réveillé ce matin-là Se tenant dans un coin de la chambre pour me dire:
-«Ne crains pas d’aller où que ce soit, de faire ou de dire quoi que ce soit, car la présence de
-Jésus-Christ qui ne fait jamais défaut est avec toi, où que tu ailles».
-293 C’est LUI qui était là-bas dans le Sabino Canyon il y a environ trois mois quand je priais, me
-demandant ce qui allait arriver, quand une épée tomba dans ma main tandis que j’entendis ces
-mots: «Voici l’Epée du Roi». C’était LUI.
+287 Oh, rappelez-vous que c’est le même “LUI” qui a dit dans Jean 14.12: “Celui qui croit en moi fera aussi les oeuvres que je fais”. Est-ce vrai? C’est Lui qui l’a dit. C’est Jésus qui dit dans Marc 11.23: “Si quelqu’un dit à cette montagne (non pas: “Si vous priez cette montagne”) … Si vous dites à cette montagne: ôte-toi de là et jette-toi dans la mer et s’il ne doute point en son coeur; mais croit que ce qu’il dit arrive, il le verra s’accomplir”. Mais si vous le dites présomptueusement, il ne se passera rien. Par contre, s’il y a quelque chose en vous, si vous êtes oint pour cette oeuvre, que vous savez que c’est la volonté de Dieu et que vous parlez, cela s’accomplira. Jésus a dit: “Si vous demeurez en moi et que mes paroles demeurent en vous, demandez ce que vous voudrez et cela vous sera accordé”. Oh, mes frères! Comprenez-vous ce que je veux dire?
+289 Pardonnez-moi ce que je vais dire, mais cela vient de me traverser l’esprit. Il faut que j’en parle. C’est Lui qui me dit ce certain jour dans les bois: «Tu n’as pas de gibier» et qui créa trois écureuils qui se tinrent juste devant nous. Comment cela se fit-il? En prononçant la Parole, en disant: «Ils seront là, là et là». Et ils y furent! Charlie Rodney, sachez que c’était Lui, là-bas au Kentucky. Nellie, Margie et tous les autres, sachez que c’était Lui, ce même Dieu qui parla autrefois à Moïse et dit: “Pourquoi crier à Moi? Prononce la Parole!”. C’est Lui qui appela ces écureuils à la vie. C’est Lui. Oh, frères!
+290 C’est LUI qui donna la vision il y a environ une année, montrant que nous irions là-bas, qu’il y aurait les sept Sceaux et qu’il y aurait un grand tonnerre qui en marquerait l’ouverture, et que ce serait en forme de pyramide. Le magazine Life a publié cette photo qui est ici sur le mur. C’est LUI qui a dit cela.
+291 L’autre soir, alors que nous marchions sur la route et qu’un gros serpent mamba était sur le point d’attaquer mon frère, c’est LUI qui m’a dit: «Tu as reçu le pouvoir de le lier comme tous les autres serpents».
+292 C’est LUI qui a dit cela à ma chère petite femme aux cheveux gris qui est assise là-bas au fond… C’est LUI qui m’a réveillé ce matin-là Se tenant dans un coin de la chambre pour me dire: «Ne crains pas d’aller où que ce soit, de faire ou de dire quoi que ce soit, car la présence de Jésus-Christ qui ne fait jamais défaut est avec toi, où que tu ailles».
+293 C’est LUI qui était là-bas dans le Sabino Canyon il y a environ trois mois quand je priais, me demandant ce qui allait arriver, quand une épée tomba dans ma main tandis que j’entendis ces mots: «Voici l’Epée du Roi». C’était LUI.
 
                               http://www.cmpp.ch
 
 POURQUOI CRIER? PARLE! 26
 294 C’est LUI qui m’a dit: «De même que J’étais avec Moïse, ainsi Je t’envoie».
-295 C’est LUI qui m’a dit il y a trente ans près de la rivière, alors que jeune homme, je me tenais là
-comme un simple petit prédicateur et que cette Lumière, cette même colonne de feu descendit des
-cieux… c’est ainsi qu’Il me dit: «Comme J’ai envoyé Jean-Baptiste en tant que précurseur de la
-première venue de Christ, ton message sera le précurseur de Sa seconde venue». Pour le monde
-entier. Comment était-ce possible alors que mon propre pasteur riait de cela et s’en moquait? Mais
-cela s’est réalisé exactement. C’est vrai! C’était le Seigneur qui l’avait dit. Parfaitement!
-296 Oh, c’est LUI qui prophétisa au sujet de cette vision en disant: «Cela arrivera». C’est LUI qui
-avait dit: «Si l’un de vous a une prophétie ou une vision, qu’il en parle et que cela se réalise,
-rappelez-vous que ce n’est pas lui, mais Moi: Je suis avec lui». Oh, frères! Je pourrais continuer
-longtemps et dire: «C’est LUI, c’est LUI, c’est LUI!».
-297 C’est LUI qui est descendu… Quand je leur ai dit qu’il y avait une colonne de feu près de la
-rivière: ils ne pouvaient pas le croire. C’était LUI parmi nous quand il y avait ce prédicateur Baptiste
-devant trente mille personnes ce certain soir au Sam Houston Coliseum alors que l’Ange du
-Seigneur qui Se tenait là fut photographié; c’était LUI, le même hier, aujourd’hui et éternellement.
-298 C’est LUI qui prédit où cela se passait. C’est LUI qui a dit cela. C’est LUI qui a fait ces choses.
-Il est le même hier, aujourd’hui et éternellement. Il a accompli, exactement comme Il a dit qu’Il
-ferait. Amen!
-299 Pourquoi attendrais-je? Dieu a confirmé la Parole Elle est la Vérité. Mettons-nous en marche.
-Marchons! Marchons sur le chemin du Seigneur, écartant tous doutes et tous péchés. Nettoyez la
-maison, récurez-la.
-300 Comme cela a été décrit dans la vision ou le rêve de Junior Jackson (il est assis ici) il n’est
-resté que les lampes. Il ne restait que les lampes et elles étaient cerclées d’or. Il nous a raconté ce
-rêve l’autre soir. Oh, mes frères!
-301 Frère Collins, ne vous en faites pas pour ce poisson. Il était blanc. Vous ne saviez simplement
-pas comment le prendre.
-302 Laissez de côté tout ce qui est contraire à cela. Rappelez-vous que c’est la vérité, même si
-cela a l’air d’être du fanatisme. Quelquefois toutes ces choses… Allez de l’avant!
-C’est le Saint-Esprit, le même Dieu que Celui qui releva Jésus d’entre les morts. Le même que
-Celui qui peut appeler des êtres à l’existence. Celui qui était vivant du temps de Moïse et qui est
-encore le même aujourd’hui.
-303 Son appel a retenti dans ces derniers jours et a été confirmé: “Comme il en était aux jours de
-Sodome il en sera à la venue du Fils de l’homme”. Voici Sodome là-bas: il y a un Billy Graham et
-un Oral Roberts et l’église avance, guidée par les mêmes signes qu’Il a promis aux deux endroits:
-ils sont là, c’est LUI qui l’a dit.
-304 Oh Seigneur, donne-moi du courage! C’est là ma prière. Aide-moi, Seigneur Dieu. (Il faut que
-je m’arrête ici; il se fait tard.)
-305 — “Pourquoi crier à Moi? Pourquoi criez-vous à Moi alors que Je vous ai prouvé que Je suis
-avec vous? N’ai-je pas guéri vos malades?” dirait-Il. “Ne vous ai-je pas prédit des choses qui se
-sont accomplies à la lettre? Votre pasteur ne peut pas faire cela. Il ne peut pas. Ce n’est qu’un
-homme. C’est Moi le Seigneur!” dirait Jésus. “D’abord, Je suis Celui qui l’a fait. Je suis Celui qui lui
-dis ces choses. Ce n’est pas lui. C’est Ma voix. Je suis Celui qui ressuscite vos morts quand ils
-tombent. Je suis Celui qui guéris les malades, Je suis Celui qui prédis ces choses. Je suis Celui
-qui sauve. Je suis Celui qui donne la promesse”.
-306 Oh Dieu, donne-moi le courage de prendre l’Epée de la Parole qu’Il a mise dans ma main il y
-a environ trente-trois ans, de la tenir et de marcher en avant jusqu’à ce troisième pull. C’est là ma
-prière. Courbons nos têtes.
-307 Père céleste, il se fait tard mais la Parole nous devient de plus en plus précieuse. Comme
-nous le voyons, Seigneur, chaque fois, la présence de Christ qui ne nous fait jamais défaut vient à
-notre rencontre. Combien nous Te remercions pour Ta bonté. Comme Tu nous as épargnés et
-bénis! Nous T’en remercions.
-308 Tandis que je tiens dans ma main les mouchoirs de ceux qui ont la foi et qui croient à cela,
-Seigneur, que tout mauvais esprit, toute maladie quitte ces gens. Et je chasse tout esprit impur qui
-n’est pas de Dieu, tout esprit de maladie, tous les maux et afflictions. Nous ne nous tenons pas à
+295 C’est LUI qui m’a dit il y a trente ans près de la rivière, alors que jeune homme, je me tenais là comme un simple petit prédicateur et que cette Lumière, cette même colonne de feu descendit des cieux… c’est ainsi qu’Il me dit: «Comme J’ai envoyé Jean-Baptiste en tant que précurseur de la première venue de Christ, ton message sera le précurseur de Sa seconde venue». Pour le monde entier. Comment était-ce possible alors que mon propre pasteur riait de cela et s’en moquait? Mais cela s’est réalisé exactement. C’est vrai! C’était le Seigneur qui l’avait dit. Parfaitement!
+296 Oh, c’est LUI qui prophétisa au sujet de cette vision en disant: «Cela arrivera». C’est LUI qui avait dit: «Si l’un de vous a une prophétie ou une vision, qu’il en parle et que cela se réalise, rappelez-vous que ce n’est pas lui, mais Moi: Je suis avec lui». Oh, frères! Je pourrais continuer longtemps et dire: «C’est LUI, c’est LUI, c’est LUI!».
+297 C’est LUI qui est descendu… Quand je leur ai dit qu’il y avait une colonne de feu près de la rivière: ils ne pouvaient pas le croire. C’était LUI parmi nous quand il y avait ce prédicateur Baptiste devant trente mille personnes ce certain soir au Sam Houston Coliseum alors que l’Ange du Seigneur qui Se tenait là fut photographié; c’était LUI, le même hier, aujourd’hui et éternellement.
+298 C’est LUI qui prédit où cela se passait. C’est LUI qui a dit cela. C’est LUI qui a fait ces choses. Il est le même hier, aujourd’hui et éternellement. Il a accompli, exactement comme Il a dit qu’Il ferait. Amen!
+299 Pourquoi attendrais-je? Dieu a confirmé la Parole Elle est la Vérité. Mettons-nous en marche. Marchons! Marchons sur le chemin du Seigneur, écartant tous doutes et tous péchés. Nettoyez la maison, récurez-la.
+300 Comme cela a été décrit dans la vision ou le rêve de Junior Jackson (il est assis ici) il n’est resté que les lampes. Il ne restait que les lampes et elles étaient cerclées d’or. Il nous a raconté ce rêve l’autre soir. Oh, mes frères!
+301 Frère Collins, ne vous en faites pas pour ce poisson. Il était blanc. Vous ne saviez simplement pas comment le prendre.
+302 Laissez de côté tout ce qui est contraire à cela. Rappelez-vous que c’est la vérité, même si cela a l’air d’être du fanatisme. Quelquefois toutes ces choses… Allez de l’avant! C’est le Saint-Esprit, le même Dieu que Celui qui releva Jésus d’entre les morts. Le même que Celui qui peut appeler des êtres à l’existence. Celui qui était vivant du temps de Moïse et qui est encore le même aujourd’hui.
+303 Son appel a retenti dans ces derniers jours et a été confirmé: “Comme il en était aux jours de Sodome il en sera à la venue du Fils de l’homme”. Voici Sodome là-bas: il y a un Billy Graham et un Oral Roberts et l’église avance, guidée par les mêmes signes qu’Il a promis aux deux endroits: ils sont là, c’est LUI qui l’a dit.
+304 Oh Seigneur, donne-moi du courage! C’est là ma prière. Aide-moi, Seigneur Dieu. (Il faut que je m’arrête ici; il se fait tard.)
+305 — “Pourquoi crier à Moi? Pourquoi criez-vous à Moi alors que Je vous ai prouvé que Je suis avec vous? N’ai-je pas guéri vos malades?” dirait-Il. “Ne vous ai-je pas prédit des choses qui se sont accomplies à la lettre? Votre pasteur ne peut pas faire cela. Il ne peut pas. Ce n’est qu’un homme. C’est Moi le Seigneur!” dirait Jésus. “D’abord, Je suis Celui qui l’a fait. Je suis Celui qui lui dis ces choses. Ce n’est pas lui. C’est Ma voix. Je suis Celui qui ressuscite vos morts quand ils tombent. Je suis Celui qui guéris les malades, Je suis Celui qui prédis ces choses. Je suis Celui qui sauve. Je suis Celui qui donne la promesse”.
+306 Oh Dieu, donne-moi le courage de prendre l’Epée de la Parole qu’Il a mise dans ma main il y a environ trente-trois ans, de la tenir et de marcher en avant jusqu’à ce troisième pull. C’est là ma prière. Courbons nos têtes.
+307 Père céleste, il se fait tard mais la Parole nous devient de plus en plus précieuse. Comme nous le voyons, Seigneur, chaque fois, la présence de Christ qui ne nous fait jamais défaut vient à notre rencontre. Combien nous Te remercions pour Ta bonté. Comme Tu nous as épargnés et bénis! Nous T’en remercions.
+308 Tandis que je tiens dans ma main les mouchoirs de ceux qui ont la foi et qui croient à cela, Seigneur, que tout mauvais esprit, toute maladie quitte ces gens. Et je chasse tout esprit impur qui n’est pas de Dieu, tout esprit de maladie, tous les maux et afflictions. Nous ne nous tenons pas à
 
         http://www.cmpp.ch
 
 POURQUOI CRIER? PARLE! 27
-l’ombre d’un homme (ce qui serait de toute façon très bien) mais à l’ombre de l’Evangile, de
-l’Evangile confirmé.
-309 Cette glorieuse colonne de feu qui va et vient dans cet édifice est la même que celle du haut
-de laquelle Dieu regarda, ouvrant les eaux de la Mer Rouge pour y faire passer Israël. Mais
-maintenant, tandis qu’Il regarde, tout est aspergé par le Sang de Son Fils unique où la miséricorde
-et la grâce… Puissions-nous être obéissants. Puissions-nous dès aujourd’hui cesser de crier. Oh
-puissions-nous comprendre que Tu nous as appelés pour cette oeuvre. L’heure est là. Je le dis au
-Nom de Jésus-Christ. Que toute maladie quitte ce lieu!
-310 Que chaque homme et chaque femme qui invoque le Nom de Jésus-Christ consacre de
-nouveau sa vie aujourd’hui. Je Te consacre la mienne, Seigneur, sur l’autel de la prière. Je
-m’humilie et baisse la tête vers le sol d’où Tu m’as tiré. Seigneur Dieu, j’ai honte de ma faiblesse
-et de mon incrédulité. Pardonne-moi, Seigneur. Donne-moi du courage. Donne-nous du courage à
-tous.
-311 Je me sens comme Moïse… nous sommes tous en route. Nous ne voulons laisser personne
-en arrière. Nous voulons tous les prendre, Seigneur. Ce sont les gens. Je les réclame pour Toi.
-Bénis ces gens aujourd’hui, Seigneur; accorde-le moi. Bénis-moi avec eux, Père, et que Ton Nom
-soit loué: cette gloire sera la Tienne. Donne-nous cette foi éternelle, Seigneur, tandis que nous
-nous consacrons à Toi maintenant.
-312 Moi, sur cette Bible, du haut de cette chaire, je te donne ma vie, Seigneur. Je compte sur
-chaque promesse que Tu m’as donnée. Je sais qu’elles seront confirmées. Je sais qu’elles sont la
-vérité. Donne-moi du courage, Seigneur. Dirige-moi dans ce que je ferai et dirai. Je me donne à
-Toi avec cette église au Nom de Jésus-Christ. Amen.
+l’ombre d’un homme (ce qui serait de toute façon très bien) mais à l’ombre de l’Evangile, de l’Evangile confirmé.
+309 Cette glorieuse colonne de feu qui va et vient dans cet édifice est la même que celle du haut de laquelle Dieu regarda, ouvrant les eaux de la Mer Rouge pour y faire passer Israël. Mais maintenant, tandis qu’Il regarde, tout est aspergé par le Sang de Son Fils unique où la miséricorde et la grâce… Puissions-nous être obéissants. Puissions-nous dès aujourd’hui cesser de crier. Oh puissions-nous comprendre que Tu nous as appelés pour cette oeuvre. L’heure est là. Je le dis au Nom de Jésus-Christ. Que toute maladie quitte ce lieu!
+310 Que chaque homme et chaque femme qui invoque le Nom de Jésus-Christ consacre de nouveau sa vie aujourd’hui. Je Te consacre la mienne, Seigneur, sur l’autel de la prière. Je m’humilie et baisse la tête vers le sol d’où Tu m’as tiré. Seigneur Dieu, j’ai honte de ma faiblesse et de mon incrédulité. Pardonne-moi, Seigneur. Donne-moi du courage. Donne-nous du courage à tous.
+311 Je me sens comme Moïse… nous sommes tous en route. Nous ne voulons laisser personne en arrière. Nous voulons tous les prendre, Seigneur. Ce sont les gens. Je les réclame pour Toi. Bénis ces gens aujourd’hui, Seigneur; accorde-le moi. Bénis-moi avec eux, Père, et que Ton Nom soit loué: cette gloire sera la Tienne. Donne-nous cette foi éternelle, Seigneur, tandis que nous nous consacrons à Toi maintenant.
+312 Moi, sur cette Bible, du haut de cette chaire, je te donne ma vie, Seigneur. Je compte sur chaque promesse que Tu m’as donnée. Je sais qu’elles seront confirmées. Je sais qu’elles sont la vérité. Donne-moi du courage, Seigneur. Dirige-moi dans ce que je ferai et dirai. Je me donne à Toi avec cette église au Nom de Jésus-Christ. Amen.
        Ma foi regarde à Toi
        Agneau du Calvaire,
        Sauveur divin!
@@ -1517,32 +1106,18 @@ Toi avec cette église au Nom de Jésus-Christ. Amen.
        Enlève mon péché.
        Que dès ce jour je sois
        Entièrement à Toi.
-313 Maintenant, levons-nous et tout en restant tout-à-fait tranquilles fredonnons ce cantique.
-[Frère Branham et l’assemblée fredonnent ce cantique — N.d.R.] Levons nos mains vers Lui.
-Consacrez-vous à Dieu maintenant [Frère Branham chante. L’assemblée répète cette prière après
-lui — N.d.R.]
-314 Maintenant, levons les mains tous ensemble. Seigneur Jésus, je me consacre à Toi pour vivre
-une vie de service plus pure, avec plus de foi. Je crie à Toi afin que Tu fasses de moi un meilleur
-serviteur à l’avenir que par le passé. Pardonne-moi mon incrédulité et restaure en nous la foi qui
-fut donnée aux saints autrefois. Je me donne à Toi au Nom de Jésus-Christ.
+313 Maintenant, levons-nous et tout en restant tout-à-fait tranquilles fredonnons ce cantique. [Frère Branham et l’assemblée fredonnent ce cantique — N.d.R.] Levons nos mains vers Lui. Consacrez-vous à Dieu maintenant [Frère Branham chante. L’assemblée répète cette prière après lui — N.d.R.]
+314 Maintenant, levons les mains tous ensemble. Seigneur Jésus, je me consacre à Toi pour vivre une vie de service plus pure, avec plus de foi. Je crie à Toi afin que Tu fasses de moi un meilleur serviteur à l’avenir que par le passé. Pardonne-moi mon incrédulité et restaure en nous la foi qui fut donnée aux saints autrefois. Je me donne à Toi au Nom de Jésus-Christ.
        Tandis que je parcours le sombre dédale de la vie
        Et que les douleurs m’environnent,
        Sois mon guide,
        Transforme les ténèbres en lumière,
        Efface mes frayeurs,
        Ne me laisse pas m’égarer loin de Toi.
-315 Gardons la tête inclinée. Sentez-vous que le message de ce matin vous a fait du bien? Qu’il
-vous a donné du courage? Si oui, levez la main disant: «Merci, oh Dieu!». Je lève les deux mains
-car je sens que cela m’a aidé. Cela m’a donné du courage.
-316 J’ai dit certaines choses que je ne pensais pas que je dirais. Mais c’est fait. C’est une
-réprimande pour moi. Je me suis trouvé dans cette voie sans penser que j’y étais, mais j’ai
-découvert que j’étais coupable d’avoir crié tout le temps au lieu de parler.
+315 Gardons la tête inclinée. Sentez-vous que le message de ce matin vous a fait du bien? Qu’il vous a donné du courage? Si oui, levez la main disant: «Merci, oh Dieu!». Je lève les deux mains car je sens que cela m’a aidé. Cela m’a donné du courage.
+316 J’ai dit certaines choses que je ne pensais pas que je dirais. Mais c’est fait. C’est une réprimande pour moi. Je me suis trouvé dans cette voie sans penser que j’y étais, mais j’ai découvert que j’étais coupable d’avoir crié tout le temps au lieu de parler.
 317 Oh Dieu, aide-moi à être dorénavant un serviteur plus consacré.
-318 Je ne prie pas pour moi seulement mais pour vous aussi afin qu’ensemble, comme Corps de
-Christ appelé hors du monde, nous nous préparions à entrer dans la Terre promise. Que Dieu me
-donne le courage d’en montrer clairement le chemin afin que vous n’en perdiez pas la trace. Par la
-grâce de Dieu, je vous le montrerai. Je suivrai les traces sanglantes des pieds de Celui qui nous a
-précédés et…
+318 Je ne prie pas pour moi seulement mais pour vous aussi afin qu’ensemble, comme Corps de Christ appelé hors du monde, nous nous préparions à entrer dans la Terre promise. Que Dieu me donne le courage d’en montrer clairement le chemin afin que vous n’en perdiez pas la trace. Par la grâce de Dieu, je vous le montrerai. Je suivrai les traces sanglantes des pieds de Celui qui nous a précédés et…
 
         http://www.cmpp.ch
 
@@ -1553,37 +1128,12 @@ POURQUOI CRIER? PARLE!        28
       Où je porterai une couronne
       Car il y a une couronne pour moi.
 319  Nous Te présentons notre consécration, Père, au Nom de Jésus-Christ, Ton Fils. Amen.
-320  Nous remercions le Seigneur de pouvoir marcher dans une vie consacrée. Renoncez à
-vous-mêmes, marchez dans l’Esprit en toute douceur et humilité, parlez, soyez vêtus, agissez en
-chrétiens humbles et doux. N’abandonnez pas cela maintenant. La Voix de Dieu parle par la
-Parole, par les dons. Tandis qu’un don se manifeste, un autre l’exprime. Un autre don vient et
-exprime la même chose. Vous voyez? Cela est conforme à la Parole et à l’heure à laquelle nous
-vivons. Dieu est avec nous, combien nous L’en remercions
+320  Nous remercions le Seigneur de pouvoir marcher dans une vie consacrée. Renoncez à vous-mêmes, marchez dans l’Esprit en toute douceur et humilité, parlez, soyez vêtus, agissez en chrétiens humbles et doux. N’abandonnez pas cela maintenant. La Voix de Dieu parle par la Parole, par les dons. Tandis qu’un don se manifeste, un autre l’exprime. Un autre don vient et exprime la même chose. Vous voyez? Cela est conforme à la Parole et à l’heure à laquelle nous vivons. Dieu est avec nous, combien nous L’en remercions
       Prends le Nom de Jésus avec toi,
       Enfant de douleur et de tristesse.
       Il t’apportera joie et réconfort.
       Prends-le avec toi partout où tu vas.
       Précieux Nom…
-321  Gardons la tête inclinée ainsi que nos coeurs dans la conscience que Jésus a dit: “Celui qui
-écoute ma parole et qui croit à celui qui m’a envoyé a la vie éternelle et ne vient point en jugement,
-mais il est passé de la mort à la vie”.
-322  Nous savons que par la grâce de Dieu nous possédons cela dans notre coeur, nous étant
-consacrés à Lui ce matin afin que nos vies changent a partir d’aujourd’hui et que nous devenions
-plus positifs dans notre pensée. Nous allons nous efforcer de vivre dans une telle douceur et dans
-une telle humilité en croyant que ce que nous demandons à Dieu, Il nous l’accordera aux uns et
-aux autres. Et nous ne dirons plus de mal les uns des autres ni de personne. Nous prierons pour
-nos ennemis et les aimerons. Nous ferons du bien à ceux qui nous font du mal. C’est Dieu qui est
-le juge de ce qui est juste ou faux.
-323  Sur cette base, nos têtes étant inclinées, je vais demander à notre cher Lee Vayle de
-congédier l’assemblée par une parole de prière. Frère Vayle… [Frère Vayle prie — N.d.R.]
-
-
-
-
-
-
-
-
-
-
-      http://www.cmpp.ch
+321  Gardons la tête inclinée ainsi que nos coeurs dans la conscience que Jésus a dit: “Celui qui écoute ma parole et qui croit à celui qui m’a envoyé a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie”.
+322  Nous savons que par la grâce de Dieu nous possédons cela dans notre coeur, nous étant consacrés à Lui ce matin afin que nos vies changent a partir d’aujourd’hui et que nous devenions plus positifs dans notre pensée. Nous allons nous efforcer de vivre dans une telle douceur et dans une telle humilité en croyant que ce que nous demandons à Dieu, Il nous l’accordera aux uns et aux autres. Et nous ne dirons plus de mal les uns des autres ni de personne. Nous prierons pour nos ennemis et les aimerons. Nous ferons du bien à ceux qui nous font du mal. C’est Dieu qui est le juge de ce qui est juste ou faux.
+323  Sur cette base, nos têtes étant inclinées, je vais demander à notre cher Lee Vayle de congédier l’assemblée par une parole de prière. Frère Vayle… [Frère Vayle prie — N.d.R.]

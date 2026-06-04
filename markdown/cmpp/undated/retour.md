@@ -1,587 +1,322 @@
-   LE RETOUR
-  DE
-CHRIST
+---
+source: "cmpp"
+sermon_id: "retour"
+title: "Le Retour de Christ"
+subtitle: "Ses différentes venues et les événements qui lui sont liés"
+date: "1988-12-01"
+year: 1988
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Ce traité expose le point de vue biblique sur le retour de Christ, distinguant ses différentes venues et les événements associés, notamment l'enlèvement de l'Église, la résurrection des morts en Christ, et la transmutation des croyants vivants. L'auteur met en garde contre les interprétations erronées et spiritualisantes, et souligne l'importance de la préparation spirituelle par la Parole et l'Esprit."
+tags:
+  - "retour de Christ"
+  - "enlèvement"
+  - "résurrection"
+  - "transmutation"
+  - "eschatologie"
+  - "parousie"
+  - "épouse de Christ"
+persons:
+  - "Ewald Frank"
+  - "Jésus-Christ"
+  - "Paul"
+  - "Jean"
+  - "Augustin"
+  - "Irénée"
+  - "David"
+  - "Job"
+  - "Jean-Baptiste"
+  - "Michel"
+  - "Gabriel"
+  - "Lazare"
+  - "Moïse"
+  - "Abraham"
+  - "Isaac"
+  - "Jacob"
+  - "Hénoc"
+places:
+  - "Krefeld"
+  - "Patmos"
+  - "Sinaï"
+  - "Béthanie"
+  - "Golgotha"
+themes:
+  - "retour de Christ"
+  - "enlèvement de l'Église"
+  - "résurrection des morts"
+  - "transmutation des croyants"
+  - "parousie"
+  - "cri de commandement"
+  - "voix d'archange"
+  - "trompette de Dieu"
+  - "préparation de l'épouse"
+  - "scellement du Saint-Esprit"
+  - "jugement dernier"
+  - "millénium"
+pdf_url: "http://cmpp.ch/retour.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 15"
+  - "1 Corinthiens 2"
+  - "1 Corinthiens 6"
+  - "1 Jean 3"
+  - "1 Jean 5"
+  - "1 Thessaloniciens 4"
+  - "1 Timothée 6"
+  - "2 Corinthiens 1"
+  - "2 Corinthiens 11"
+  - "2 Corinthiens 3"
+  - "2 Corinthiens 5"
+  - "2 Timothée 4"
+  - "Actes 1"
+  - "Actes 17"
+  - "Actes 2"
+  - "Actes 20"
+  - "Actes 3"
+  - "Actes 7"
+  - "Amos 1"
+  - "Apocalypse 1"
+  - "Apocalypse 10"
+  - "Apocalypse 11"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 14"
+  - "Apocalypse 15"
+  - "Apocalypse 16"
+  - "Apocalypse 19"
+  - "Apocalypse 2"
+  - "Apocalypse 20"
+  - "Apocalypse 21"
+  - "Apocalypse 22"
+  - "Apocalypse 3"
+  - "Apocalypse 4"
+  - "Apocalypse 5"
+  - "Apocalypse 6"
+  - "Apocalypse 7"
+  - "Colossiens 2"
+  - "Daniel 12"
+  - "Daniel 7"
+  - "Daniel 8"
+  - "Daniel 9"
+  - "Deutéronome 18"
+  - "Exode 20"
+  - "Galates 2"
+  - "Galates 4"
+  - "Genèse 1"
+  - "Genèse 2"
+  - "Genèse 45"
+---
+# LE RETOUR DE CHRIST
 
+## Ses différentes venues et les événements qui lui sont liés
 
+*Un exposé du point de vue biblique du Missionnaire Ewald Frank*
 
+### AVANT-PROPOS
 
+Si je me suis décidé à écrire ce traité, c’est pour que beaucoup de croyants puissent avoir une meilleure compréhension de ce sujet difficile mais combien important du retour du Seigneur.
 
+Je suis conscient que certains points n’ont pu être qu’esquissés, et par conséquent n’ont pu être exposés d’une façon détaillée. Pour présenter un plus ample exposé, plusieurs volumes n’y auraient pas suffi. Les quelque deux cents citations bibliques, et même davantage, qui ont été utilisées ici devraient permettre au lecteur de continuer à sonder personnellement les Ecritures afin de “voir si les choses étaient ainsi” (Actes 17.11).
 
+Deux faits m’ont constamment rempli de reconnaissance en écrivant cela: le premier est que le Seigneur, par grâce, m’ait accordé une vision si profonde de Son plan de salut; la seconde est que je ne sois soumis à aucune orientation de foi particulière, de telle manière que je puisse exposer fidèlement les vérités pures et non falsifiées de la Parole de Dieu dans leur contexte exact.
 
-   Ewald Frank
+Prenant en considération le fait que Dieu, dans Sa grâce, m’ait accordé de jeter un regard dans Ses pensées et Ses plans puissants à l’égard de l’humanité, je ne puis que m’écrier avec le psalmiste David: “Car tu as exalté ta parole au-dessus de tout ton nom!” (Psaumes 138.2). Je m’écrie aussi avec l’apôtre Paul: “O profondeur des richesses et de la sagesse et de la connaissance de Dieu!” (Romains 11.33). Irénée, ce grand homme de Dieu du temps suivant l’âge apostolique, disait: «A ceux qui Lui étaient agréables, Dieu montrait, Lui l’architecte le plan de la rédemption». Un poète auteur de cantiques a écrit: «Fais silence en moi, Seigneur, c’est là ma supplication; fais silence, pour que je voie les merveilles de Ta Parole!». Ce qui demeure caché aux sages et aux intelligents est révélé par l’Esprit de Dieu à ceux qui croient en Lui avec une foi d’enfant.
 
-    LE RETOUR DE CHRIST    2
+C’est dans cette pensée que je souhaite sincèrement à tous les lecteurs les bénédictions de Dieu, de même qu’un approfondissement spirituel bienfaisant dans la merveilleuse Parole de Dieu. Puisse chacun se laisser conduire par le Saint-Esprit dans les richesses insondables de Sa Parole révélée.
 
-
-
-    LE RETOUR DE CHRIST
-
-
-
-       Ses différentes venues
-et les événements qui lui sont liés
-
-
-
- Un exposé du point de vue biblique
-    du Missionnaire Ewald Frank
-
-
-
-
-        AVANT-PROPOS
-
-   Si je me suis décidé à écrire ce traité, c’est pour que beaucoup de croyants puissent avoir une
-meilleure compréhension de ce sujet difficile mais combien important du retour du Seigneur.
-
-   Je suis conscient que certains points n’ont pu être qu’esquissés, et par conséquent n’ont pu
-être exposés d’une façon détaillée. Pour présenter un plus ample exposé, plusieurs volumes n’y
-auraient pas suffi. Les quelque deux cents citations bibliques, et même davantage, qui ont été
-utilisées ici devraient permettre au lecteur de continuer à sonder personnellement les Ecritures afin
-de “voir si les choses étaient ainsi” (Actes 17.11).
-
-   Deux faits m’ont constamment rempli de reconnaissance en écrivant cela: le premier est que le
-Seigneur, par grâce, m’ait accordé une vision si profonde de Son plan de salut; la seconde est que
-je ne sois soumis à aucune orientation de foi particulière, de telle manière que je puisse exposer
-fidèlement les vérités pures et non falsifiées de la Parole de Dieu dans leur contexte exact.
-
-   Prenant en considération le fait que Dieu, dans Sa grâce, m’ait accordé de jeter un regard dans
-Ses pensées et Ses plans puissants à l’égard de l’humanité, je ne puis que m’écrier avec le
-psalmiste David: “Car tu as exalté ta parole au-dessus de tout ton nom!” (Psaumes 138.2). Je m’écrie
-aussi avec l’apôtre Paul: “O profondeur des richesses et de la sagesse et de la connaissance de
-Dieu!” (Romains 11.33). Irénée, ce grand homme de Dieu du temps suivant l’âge apostolique, disait:
-«A ceux qui Lui étaient agréables, Dieu montrait, Lui l’architecte le plan de la rédemption». Un
-poète auteur de cantiques a écrit: «Fais silence en moi, Seigneur, c’est là ma supplication; fais
-silence, pour que je voie les merveilles de Ta Parole!». Ce qui demeure caché aux sages et aux
-intelligents est révélé par l’Esprit de Dieu à ceux qui croient en Lui avec une foi d’enfant.
-
-   C’est dans cette pensée que je souhaite sincèrement à tous les lecteurs les bénédictions de
-Dieu, de même qu’un approfondissement spirituel bienfaisant dans la merveilleuse Parole de Dieu.
-Puisse chacun se laisser conduire par le Saint-Esprit dans les richesses insondables de Sa Parole
-révélée.
-
-   Que Dieu bénisse Sa Parole bénie en faveur de tous les bénis de Dieu.
+Que Dieu bénisse Sa Parole bénie en faveur de tous les bénis de Dieu.
 
 Krefeld, novembre/décembre 1988 L’auteur
 
+---
 
+## LE RETOUR DE CHRIST
 
-    http://www.cmpp.ch
+### Ses différentes venues et les événements qui lui sont liés
 
-    LE RETOUR DE CHRIST    3
-                       LE RETOUR DE CHRIST
+Comme pour tous les thèmes bibliques, nous trouvons dans les Saintes Ecritures beaucoup de déclarations en rapport avec des événements divers, qui doivent être assemblés de la manière juste. En fait il y a plusieurs venues mais un seul retour, à l’occasion duquel l’Epoux divin rencontrera Son Epouse terrestre dans les airs (1 Thess. 4.13-18) pour La conduire au Repas des Noces (Apocalypse 19.1-10). Il a fait cette promesse: “Et si je m’en vais et que je vous prépare une place, je reviendrai, et je vous prendrai auprès de moi; afin que là où moi je suis, vous, vous soyez aussi” (Jean 14.3).
 
-    Ses différentes venues et les événements qui lui sont liés
+Dans ce qu’on appelle “la Confession des Apôtres”, dont sans aucun doute les apôtres ne savaient rien parce que c’est seulement au 4ème siècle après Christ qu’elle a été définitivement formulée, le retour de Christ n’est même pas mentionné. Il n’est rien dit d’un enlèvement, c’est-à-dire d’un enlèvement de croyants qui est “le plus grand événement à la fin du temps de la grâce”. Dans cette “Confession des Apôtres” il est seulement dit: «…duquel Il va revenir pour juger les vivants et les morts». Le jugement final, qui est aussi connu sous le nom de “jugement dernier”, a lieu cependant bien plus tard, c’est-à-dire après le règne de mille ans (Apocalypse 20.11-15).
 
-   Comme pour tous les thèmes bibliques, nous trouvons dans les Saintes Ecritures beaucoup de
-déclarations en rapport avec des événements divers, qui doivent être assemblés de la manière
-juste. En fait il y a plusieurs venues mais un seul retour, à l’occasion duquel l’Epoux divin
-rencontrera Son Epouse terrestre dans les airs (1 Thess. 4.13-18) pour La conduire au Repas des
-Noces (Apocalypse 19.1-10). Il a fait cette promesse: “Et si je m’en vais et que je vous prépare une
-place, je reviendrai, et je vous prendrai auprès de moi; afin que là où moi je suis, vous, vous soyez
-aussi” (Jean 14.3).
-   Dans ce qu’on appelle “la Confession des Apôtres”, dont sans aucun doute les apôtres ne
-savaient rien parce que c’est seulement au 4ème siècle après Christ qu’elle a été définitivement
-formulée, le retour de Christ n’est même pas mentionné. Il n’est rien dit d’un enlèvement,
-c’est-à-dire d’un enlèvement de croyants qui est “le plus grand événement à la fin du temps de la
-grâce”. Dans cette “Confession des Apôtres” il est seulement dit: «…duquel Il va revenir pour juger
-les vivants et les morts». Le jugement final, qui est aussi connu sous le nom de “jugement dernier”,
-a lieu cependant bien plus tard, c’est-à-dire après le règne de mille ans (Apocalypse 20.11-15).
-   Les erreurs doctrinales à l’égard de ce thème, qui se sont infiltrées au cours des premiers
-siècles après Christ dans la prédication biblique, se trouvent aujourd’hui encore dans les églises
-officielles ou indépendantes sous la même forme ou sous une forme modifiée. Augustin (354-430),
-qui est considéré par beaucoup d’historiens comme l’un des plus grands pères de l’Eglise,
-interpréta d’une manière spirituelle la nouvelle naissance, disant qu’elle était la première
-résurrection. Cependant Paul, qu’il honorait, plaçait “la résurrection d’entre les morts” comme le
-but à atteindre le plus élevé (Philippiens 3.10,11). Pour Augustin, Satan était déjà lié, et il voyait l’Eglise
-comme étant le Royaume de mille ans, l’union de la puissance de l’Etat et de l’Eglise constituant
-“l’Etat de Dieu”.
-   Nous ne voulons pas considérer toutes les thèses et antithèses humaines qui ont été apportées
-au cours de l’histoire de l’Eglise, mais exposer le point de vue biblique. Bien que dans les Saintes
-Ecritures pas une seule prédication tenue par un apôtre n’ait exposé le retour de Christ ou les
-diverses venues du Seigneur de A à Z, nous trouvons cependant de très claires indications à ce
-sujet. Sur tous ces événements, les croyants de l’Eglise primitive avaient le privilège d’avoir
-entendu de leurs propres oreilles beaucoup de prédications, sorties de bouches que Dieu avait
-appelées à les prononcer. Comme Paul en rend lui-même témoignage, il avait publié tout le
-conseil de Dieu (Actes 20.27). Visiblement, dans leurs lettres aux Eglises, les apôtres présumaient
-que toutes ces choses étaient connues car la plupart d’entre eux s’expriment brièvement à leur
-sujet. Pour avoir une vue d’ensemble, il est nécessaire de trouver les passages très disséminés,
-comme pour les prophéties, et de les placer dans l’ordre juste.
-   Depuis l’évangile de Matthieu jusqu’à la fin de l’Apocalypse, nous trouvons sans cesse dans le
-Nouveau Testament qu’il est question de la venue du Seigneur, c’est-à-dire de Son retour. Mais il
-ne s’agit pas chaque fois de la même venue, pas plus que les passages isolés ne se trouvent dans
-l’ordre chronologique.
-   Deux passages qui paraissent semblables et qui cependant décrivent deux événements
-totalement différents illustrent clairement combien il est important de comprendre réellement le
-texte que l’on lit. Dans Matthieu 25.1-10 il est question de personnes qui, lors de la venue de
-l’Epoux, sont prêtes à aller avec Lui au Repas des Noces. Dans Luc 12.35-40, par contre, il
-s’agit de personnes qui attendent leur Seigneur lorsqu’Il reviendra du Repas des Noces. Entre
-ces deux événements s’étend une période de plusieurs années, et ces événements se rapportent
-à deux groupes complètement différents, bien que dans les deux cas les mêmes mots soient
-utilisés, comme: Repas des Noces, lampes, être prêt, etc.
-   A chaque venue du Seigneur sont rattachés différents événements. Que l’on pense seulement
-aux plus de cent prophéties de l’Ancien Testament qui se sont accomplies lors de la première
-venue de Christ. En ce qui concerne l’Eglise du Nouveau Testament, il y a pour Elle trois
-venues: la première fois, le Seigneur est venu pour racheter les Siens; la deuxième fois, il s’agit
-de la promesse de Son retour pour chercher les Siens et les conduire à la maison qu’Il a
+Les erreurs doctrinales à l’égard de ce thème, qui se sont infiltrées au cours des premiers siècles après Christ dans la prédication biblique, se trouvent aujourd’hui encore dans les églises officielles ou indépendantes sous la même forme ou sous une forme modifiée. Augustin (354-430), qui est considéré par beaucoup d’historiens comme l’un des plus grands pères de l’Eglise, interpréta d’une manière spirituelle la nouvelle naissance, disant qu’elle était la première résurrection. Cependant Paul, qu’il honorait, plaçait “la résurrection d’entre les morts” comme le but à atteindre le plus élevé (Philippiens 3.10,11). Pour Augustin, Satan était déjà lié, et il voyait l’Eglise comme étant le Royaume de mille ans, l’union de la puissance de l’Etat et de l’Eglise constituant “l’Etat de Dieu”.
 
-        http://www.cmpp.ch
+Nous ne voulons pas considérer toutes les thèses et antithèses humaines qui ont été apportées au cours de l’histoire de l’Eglise, mais exposer le point de vue biblique. Bien que dans les Saintes Ecritures pas une seule prédication tenue par un apôtre n’ait exposé le retour de Christ ou les diverses venues du Seigneur de A à Z, nous trouvons cependant de très claires indications à ce sujet. Sur tous ces événements, les croyants de l’Eglise primitive avaient le privilège d’avoir entendu de leurs propres oreilles beaucoup de prédications, sorties de bouches que Dieu avait appelées à les prononcer. Comme Paul en rend lui-même témoignage, il avait publié tout le conseil de Dieu (Actes 20.27). Visiblement, dans leurs lettres aux Eglises, les apôtres présumaient que toutes ces choses étaient connues car la plupart d’entre eux s’expriment brièvement à leur sujet. Pour avoir une vue d’ensemble, il est nécessaire de trouver les passages très disséminés, comme pour les prophéties, et de les placer dans l’ordre juste.
 
-LE RETOUR DE CHRIST 4
-préparée; finalement Il viendra avec les Siens (Apocalypse 19.11-16) pour régler les comptes avec les
-puissances ennemies de Dieu et établir Son royaume qui durera mille ans (Apocalypse 20).
-   Nous nous occuperons principalement dans ce traité du retour de Christ et de l’enlèvement
-de la communauté qui Lui appartient; événements que tous les croyants attendent d’un coeur
-ardent depuis Son ascension. Le Seigneur Lui-même a bien dit: “Et si je m’en vais et que je vous
-prépare une place, je reviendrai, et je vous prendrai auprès de moi; afin que là où moi je suis,
-vous, vous soyez aussi” (Jean 14.3).
-   Dans Matthieu 24, lorsque les disciples montrèrent au Seigneur et Maître la beauté du Temple,
-ils furent certainement très étonnés de L’entendre leur répondre: “Ne voyez-vous pas toutes ces
-choses? En vérité, je vous dis: il ne sera point laissé ici pierre sur pierre qui ne soit jetée à bas”
-(v. 2).
-   C’est après cette parole qu’ils Lui posèrent trois questions: 1° “Dis-nous quand ces choses
-auront lieu?”; 2° “… et quel sera le signe de ta venue?”; 3° “… et de la consommation du siècle?”
-Celui qui lit ce chapitre avec attention constatera que Jésus donna à ces trois questions la réponse
-correspondante. A l’égard de Sa venue, Il dit: “Car comme l’éclair sort de l’orient et apparaît
-jusqu’à l’occident, ainsi sera la venue du fils de l’homme” (Mat. 24.27).
-   A d’autres endroits des Ecritures, Il se référa aussi à cela: “Mais comme ont été les jours de
-Noé, ainsi sera aussi la venue du fils de l’homme” (Mat. 24.37).
-   “… et ils ne connurent rien, jusqu’à ce que le déluge vint et les emporta tous, ainsi sera aussi la
-venue du fils de l’homme” (Mat. 24.39).
-   “Veillez donc; car vous ne savez pas à quelle heure votre Seigneur vient” (Mat. 24.42).
-   “C’est pourquoi, vous aussi, soyez prêts; car, à l’heure que vous ne pensez pas, le fils de
-l’homme vient” (Mat. 24.44).
-   “Or, comme elles s’en allaient pour en acheter, l’époux vint; et celles qui étaient prêtes
-entrèrent avec lui aux noces” (Mat. 25.10).
-   “Veillez donc, priant en tout temps, afin que vous soyez estimés dignes d’échapper à toutes ces
-choses qui doivent arriver, et de vous tenir devant le fils de l’homme” (Luc 21.36).
-   Dans le christianisme primitif, cette espérance était constamment vivante dans le coeur des
-croyants. Ceci ressort clairement de beaucoup de passages bibliques où il est question de cela:
-   “… en sorte que viennent des temps de rafraîchissement de devant la face du Seigneur, et qu’il
-envoie Jésus Christ, qui vous a été préordonné…” (Actes 3.19,20).
-   “Car toutes les fois que vous mangez ce pain et que vous buvez la coupe, vous annoncez la
-mort du Seigneur jusqu’à ce qu’il vienne” (1 Corinthiens 11.26).
-   “… et comment vous vous êtes tournés des idoles vers Dieu, pour servir le Dieu vivant et vrai,
-et pour attendre des cieux son Fils qu’il a ressuscité d’entre les morts, Jésus, qui nous délivre de
-la colère qui vient” (1 Thess. 1.9,10).
-   “Car quelle est notre espérance, ou notre joie, ou la couronne dont nous nous glorifions?
-N’est-ce pas bien vous devant notre Seigneur Jésus, à sa venue?” (1 Thess. 2.19).
-   “Car le Seigneur lui-même, avec un cri de commandement, avec une voix d’archange, et avec
-la trompette de Dieu, descendra du ciel…” (1 Thess. 4.16).
-   “Or le Dieu de paix lui-même vous sanctifie entièrement; et que votre esprit, et votre âme, et
-votre corps tout entiers, soient conservés sans reproche en la venue de notre Seigneur Jésus
-Christ” (1 Thess. 5.23).
-   “Or nous vous prions, frères, par la venue de notre Seigneur Jésus Christ et par notre
-rassemblement auprès de lui…” (2 Thess. 2.1).
-   “… que tu gardes ce commandement, sans tache, irrépréhensible, jusqu’à l’apparition de notre
-Seigneur Jésus Christ, laquelle le bienheureux et seul souverain, le Roi de ceux qui règnent et le
-Seigneur de ceux qui dominent, montrera au temps propre…” (1 Timothée 6.14,15).
-   “… désormais m’est réservée la couronne de justice, que le Seigneur juste juge me donnera
-dans ce jour-là, et non seulement à moi, mais aussi à tous ceux qui aiment son apparition”
-(2 Timothée 4.8).
+Depuis l’évangile de Matthieu jusqu’à la fin de l’Apocalypse, nous trouvons sans cesse dans le Nouveau Testament qu’il est question de la venue du Seigneur, c’est-à-dire de Son retour. Mais il ne s’agit pas chaque fois de la même venue, pas plus que les passages isolés ne se trouvent dans l’ordre chronologique.
 
-        http://www.cmpp.ch
+Deux passages qui paraissent semblables et qui cependant décrivent deux événements totalement différents illustrent clairement combien il est important de comprendre réellement le texte que l’on lit. Dans Matthieu 25.1-10 il est question de personnes qui, lors de la venue de l’Epoux, sont prêtes à aller avec Lui au Repas des Noces. Dans Luc 12.35-40, par contre, il s’agit de personnes qui attendent leur Seigneur lorsqu’Il reviendra du Repas des Noces. Entre ces deux événements s’étend une période de plusieurs années, et ces événements se rapportent à deux groupes complètement différents, bien que dans les deux cas les mêmes mots soient utilisés, comme: Repas des Noces, lampes, être prêt, etc.
 
-    LE RETOUR DE CHRIST    5
-   “Car encore très peu de temps, et celui qui vient viendra, et il ne tardera pas” (Hébreux 10.37).
-   “Usez donc de patience, frères, jusqu’à la venue du Seigneur… affermissez vos coeurs, car la
-venue du Seigneur est proche” (Jacques 5.7,8).
-   “Car ce n’est pas en suivant des fables ingénieusement imaginées, que nous vous avons fait
-connaître la puissance et la venue de notre Seigneur Jésus Christ…” (2 Pier. 1.16).
-   “… sachant tout d’abord ceci, qu’aux derniers jours des moqueurs viendront, marchant dans la
-moquerie selon leurs propres convoitises et disant: Où est la promesse de sa venue?”
-(2 Pier. 3.3,4).
-   “Bien-aimés, nous sommes maintenant enfants de Dieu, et ce que nous serons n’a pas encore
-été manifesté; et nous savons que quand il sera manifesté, nous lui serons semblables, car nous
-le verrons comme il est” (1 Jean 3.2).
-   “… de même aussi dans le Christ tous seront rendus vivants; mais chacun dans son propre
-rang: les prémices, Christ; puis ceux qui sont du Christ, à sa venue…” (1 Corinthiens 15.22,23).
+A chaque venue du Seigneur sont rattachés différents événements. Que l’on pense seulement aux plus de cent prophéties de l’Ancien Testament qui se sont accomplies lors de la première venue de Christ. En ce qui concerne l’Eglise du Nouveau Testament, il y a pour Elle trois venues: la première fois, le Seigneur est venu pour racheter les Siens; la deuxième fois, il s’agit de la promesse de Son retour pour chercher les Siens et les conduire à la maison qu’Il a préparée; finalement Il viendra avec les Siens (Apocalypse 19.11-16) pour régler les comptes avec les puissances ennemies de Dieu et établir Son royaume qui durera mille ans (Apocalypse 20).
 
-        CELA S’ACCOMPLIRA REELLEMENT
-   Le plus grand nombre des passages bibliques que nous avons présentés nous montrent
-l’importance de l’événement. Malheureusement, très tôt après la mort des apôtres, on commença
-à interpréter le retour de Jésus-Christ dans le sens spirituel, et cela continua jusqu’à nos jours. Les
-hommes meurent, mais malheureusement pas les esprits: ils s’emparent d’autres hommes et
-continuent de répandre les fausses doctrines. On connaît généralement la théorie d’une
-organisation prétendant que le Royaume de Dieu aurait commencé sur la terre depuis 1914 et qu’il
-y serait édifié. De semblables doctrines, en relation avec un moment donné que l’on avait
-déterminé, étaient déjà apparues avant celle-ci et il y en a maintenant encore. Aujourd’hui, par
-exemple, elles sont répandues sous la formule de Parousie de Christ. Les défenseurs de cette
-doctrine prétendent que Christ serait déjà venu et qu’Il serait actuellement présent comme Juge.
-Une fois de plus la venue de Christ est spiritualisée et déclarée être une certaine “révélation”,
-laquelle serait accordée à un groupe bien déterminé. Chaque fois on a avancé les mêmes
-prétentions. C’est avec un grand enthousiasme que l’on prêche cela, et les gens ne remarquent
-pas qu’ils ont à proprement parler dévié de la Vérité et que la bienheureuse espérance leur
-a été ainsi dérobée.
-   Aussi pieuses que puissent paraître de telles formulations, tout aussi fausses sont-elles et
-conduisent-elles à l’égarement. Le mot grec “Parousie” signifie “présence”, mais il indique toujours
-une venue personnelle. Paraousia signifie “substance présente”. Quand par exemple le président
-des Etats-Unis entre dans la Maison-Blanche, c’est alors une parousie. La parousie n’est pas une
-fantaisie; ce terme ne peut être employé que lors de la venue corporelle, réelle et visible
-d’une personne. Il ne peut y avoir de parousie de Christ sans qu’Il apparaisse personnellement et
-corporellement. Tout simplement, une telle doctrine est une absurdité. Aussi vrai que Sa
-“présence-parousie” était réelle lors de Sa première “venue-épiphanie”, tout aussi vrai sera-t-Il
-personnellement et corporellement réel lors de Sa “présence-parousie” à Son retour. Une
-doctrine de la parousie de Christ sans qu’Il apparaisse vraiment personnellement, sans qu’Il soit
-présent, est dénuée de tout fondement biblique sensé.
-   De même que le retour de Jésus-Christ Lui-même n’est pas une présomption ou une doctrine
-mais bien une réalité, ainsi les événements qui y sont rattachés sont également une réalité. Paul
-écrit: “Voici, je vous dis un mystère: Nous ne nous endormirons pas tous, mais nous serons tous
-changés” (1 Corinthiens 15.51). Nous pouvons lire dans Matthieu 17.2 comment se fera cette
-transmutation: “Et il fut transfiguré devant eux; et son visage resplendit comme le soleil, et ses
-vêtements devinrent blancs comme la lumière”. C’est ainsi également que Jean Le vit sur l’île de
-Patmos: “Sa tête et ses cheveux étaient blancs comme de la laine blanche, comme de la neige; et
-ses yeux comme une flamme de feu…” (Apocalypse 1.14).
-   Cette transmutation inclut le fait que “… ce corruptible revête l’incorruptibilité, et que ce mortel
-revête l’immortalité” (1 Corinthiens 15.53). L’achèvement du Corps de Christ inclut l’absolue
-perfection, dans laquelle il n’y a plus de vieillesse mais au contraire une jeunesse éternelle. Dans
-Job 33.23-28 nous trouvons décrit “le retour” au jeune âge. Dans ce passage de l’Ecriture il est
+Nous nous occuperons principalement dans ce traité du retour de Christ et de l’enlèvement de la communauté qui Lui appartient; événements que tous les croyants attendent d’un coeur ardent depuis Son ascension. Le Seigneur Lui-même a bien dit: “Et si je m’en vais et que je vous prépare une place, je reviendrai, et je vous prendrai auprès de moi; afin que là où moi je suis, vous, vous soyez aussi” (Jean 14.3).
 
-        http://www.cmpp.ch
+Dans Matthieu 24, lorsque les disciples montrèrent au Seigneur et Maître la beauté du Temple, ils furent certainement très étonnés de L’entendre leur répondre: “Ne voyez-vous pas toutes ces choses? En vérité, je vous dis: il ne sera point laissé ici pierre sur pierre qui ne soit jetée à bas” (v. 2).
 
-    LE RETOUR DE CHRIST    6
-question de l’Intercesseur et de l’Expiation. C’est après cela que ceux qui ont été réconciliés avec
-Dieu nous sont montrés dans leur condition de glorification, c’est-à-dire dans la fleur de leur
-jeunesse: “Alors sa chair aura plus de fraîcheur que dans l’enfance; il reviendra aux jours de sa
-jeunesse” (Job 33.25). Cet événement s’accomplira “… en un instant, en un clin d’oeil, à la
-dernière trompette, car la trompette sonnera et les morts seront ressuscités incorruptibles, et nous,
-nous serons changés” (1 Corinthiens 15.52).
-   Le changement (transmutation) ne s’opère pas seulement en ceux qui sont à ce moment-là
-vivants dans la foi en Christ, mais aussi en tous ceux qui se sont endormis dans cette
-espérance vivante. Job exprime sa foi en la résurrection par ces paroles: “Mais je sais que mon
-rédempteur est vivant, et qu’il se lèvera le dernier sur la terre. Quand ma peau sera détruite, il se
-lèvera; après que ma peau aura été détruite, moi-même je contemplerai Dieu. Je le verrai, et il me
-sera favorable; mes yeux le verront, et non ceux d’un autre…” (Job 19.25-27 — Segond).
-   Lors du retour du Seigneur, ceux qui se sont endormis en Christ reçoivent un corps de
-résurrection, comme il est écrit dans 1 Corinthiens 15.42-44: “Ainsi aussi est la résurrection des
-morts: il est semé en corruption, il ressuscite en incorruptibilité; il est semé en déshonneur, il
-ressuscite en gloire; il est semé en faiblesse, il ressuscite en puissance; il est semé corps animal,
-il ressuscite corps spirituel”.
-   “Car si nous croyons que Jésus mourut, et qu’il est ressuscité, de même aussi, avec lui, Dieu
-amènera ceux qui se sont endormis par Jésus” (1 Thess. 4.14). Celui qui enseigne que Christ
-serait déjà revenu doit aussi nous dire où se trouvent ceux qui se sont endormis en Christ et qu’Il
-a amenés avec Lui. Ceux qui disent ces choses favorisent les vivants par rapport à ceux qui se
-sont endormis, et ils contredisent les claires déclarations des Saintes Ecritures: “Car nous vous
-disons ceci par la parole du Seigneur: que nous, les vivants, qui demeurons jusqu’à la venue du
-Seigneur, nous ne devancerons aucunement ceux qui se sont endormis. Car le Seigneur lui-
-même, avec un cri de commandement, avec une voix d’archange, et avec la trompette de Dieu,
-descendra du ciel et les morts en Christ ressusciteront premièrement; puis nous, les vivants
-qui demeurons, nous serons ravis ensemble avec eux dans les nuées à la rencontre du
-Seigneur, en l’air…” (1 Thess. 4.15-17).
-   Il ressort de ce passage que le Seigneur ne descend pas jusque sur la terre, mais qu’au
-contraire, ce sont les vainqueurs, c’est-à-dire ceux qui se sont endormis en Christ et ceux qui
-vivent en Christ, qui s’en vont ensemble dans leur condition de ressuscités pour Le
-rencontrer dans les airs. “… et ainsi nous serons toujours avec le Seigneur” (1 Thess. 4.17).
-   Comme le Seigneur l’a promis, Il est présent en Esprit avec les Siens, et cela pendant tout le
-temps de la grâce. Il est présent partout où deux ou trois sont réellement assemblés en Son Nom.
-Le jour de Pentecôte, Il est descendu et depuis lors Il a fait des croyants Sa demeure
-(Jean 14.18). “… et nous a ressuscités ensemble, et nous a fait asseoir ensemble dans les lieux
-célestes dans le Christ Jésus…” (Éphésiens 2.6). Les véritables croyants sont des étrangers et des
-voyageurs sur la terre, et en même temps ils sont maintenant déjà: “… concitoyens des saints et
-gens de la maison de Dieu…” (Éphésiens 2.19).
-   Lors de Son retour, tous ceux qui Lui appartiennent, qu’ils soient déjà endormis ou encore en
-vie, seront transformés de la mortalité dans l’immortalité par la puissance de résurrection
-vivifiante pour être enlevés vers Lui. Cela touche tous ceux qui, depuis la première venue de
-Christ, ont véritablement cru la Parole de Dieu, qui ont expérimenté ce qui leur a a été prêché, et
-pour lesquels l’espérance vivante était réellement Jésus-Christ. Paul l’exprime ainsi: “… à tous
-ceux qui aiment son apparition” (2 Timothée 4.8b). Pendant toute la durée des sept âges de l’Eglise
-(Apocalypse 2 et 3), il y eut toujours des personnes qui ont écouté ce que l’Esprit disait aux
-Eglises et qui ont compté avec le retour du Seigneur. On se saluait les uns les autres par
-“Maranatha!” et l’on priait de tout son coeur: “Viens bientôt, Seigneur Jésus!”. Ils ne se sont pas
-trompés et ils ne seront pas davantage déçus. Ils nous ont devancés et n’ont plus qu’à attendre
-que le nombre soit complet. Maintenant, tout à la fin, s’accomplit un parfait accord entre
-l’Epoux-Parole et l’Epouse-Parole, si bien qu’à la fin l’Esprit et l’Epouse disent la même chose
-(Apocalypse 22.17).
-   Les élus du temps de l’Ancien Testament sont déjà ressuscités avec Christ (Mat. 27.51-53). “Et
-tous ceux-ci, ayant reçu témoignage par la foi, n’ont pas reçu ce qui avait été promis, Dieu ayant
+C’est après cette parole qu’ils Lui posèrent trois questions: 1° “Dis-nous quand ces choses auront lieu?”; 2° “… et quel sera le signe de ta venue?”; 3° “… et de la consommation du siècle?” Celui qui lit ce chapitre avec attention constatera que Jésus donna à ces trois questions la réponse correspondante. A l’égard de Sa venue, Il dit: “Car comme l’éclair sort de l’orient et apparaît jusqu’à l’occident, ainsi sera la venue du fils de l’homme” (Mat. 24.27).
 
-    http://www.cmpp.ch
+A d’autres endroits des Ecritures, Il se référa aussi à cela: “Mais comme ont été les jours de Noé, ainsi sera aussi la venue du fils de l’homme” (Mat. 24.37).
 
-    LE RETOUR DE CHRIST                                                                            7
-    en vue quelque chose de meilleur pour nous, afin qu’ils ne parviennent pas à la perfection sans
-    nous” (Hébreux 11.39,40). C’est pourquoi ils attendent dans le paradis, jusqu’à ce que l’heure de
-    l’achèvement soit venue pour tous, et alors, avec les saints du Nouveau Testament, ils prendront
-    part au Repas des Noces. C’est à cela que se rapporte notre Seigneur lorsqu’Il dit dans Matthieu 8.11: “Et je vous dis que plusieurs viendront d’orient et d’occident, et s’assiéront avec Abraham et
-    Isaac et Jacob dans le royaume des cieux”.
+“… et ils ne connurent rien, jusqu’à ce que le déluge vint et les emporta tous, ainsi sera aussi la venue du fils de l’homme” (Mat. 24.39).
 
-                           ASPIRATION REALISEE
+“Veillez donc; car vous ne savez pas à quelle heure votre Seigneur vient” (Mat. 24.42).
 
-   “Car la vive attente de la création attend la révélation des fils de Dieu… et non seulement elle,
-mais nous-mêmes aussi qui avons les prémices de l’Esprit, nous aussi, nous soupirons en
-nous-mêmes, attendant (la réalisation de) l’adoption, la délivrance de notre corps”
-(Romains 8.19,23).
-   Dans Genèse 1.27 nous lisons “Et Dieu créa l’homme à son image, il le créa à l’image de
-Dieu…”. Il créa un corps spirituel. Ce n’est que plus tard que l’homme reçut ce corps de chair tiré
-de la terre comme il est écrit dans Genèse 2.7: “Et l’Eternel Dieu forma l’homme, poussière du
-sol…”. C’est dans ce corps de chair que l’homme est tombé. C’est la raison pour laquelle Dieu,
-qui est Lui-même Esprit, devait devenir homme, dans le Fils, pour nous délivrer et nous
-placer à nouveau dans notre condition divine de fils, dans un corps spirituel. “Car ceux qu’il
-a préconnus, il les a aussi prédestinés à être conformes à l’image de son Fils…” (Romains 8.29).
-   “Le premier homme est tiré de la terre, poussière; le second homme est venu du ciel. Tel qu’est
-celui qui est poussière, tels aussi sont ceux qui sont poussière; et tel qu’est le céleste, tels aussi
-sont les célestes. Et comme nous avons porté l’image de celui qui est poussière, nous porterons
-aussi l’image du céleste” (1 Corinthiens 15.47-49).
-   Ce but, pour lequel luttaient tous ceux qui étaient réellement devenus des croyants, était dès le
-commencement d’avoir part à la première résurrection, à la transmutation et à l’enlèvement.
-   “Car nous avons été sauvés en espérance: or une espérance qu’on voit n’est pas une
-espérance…” (Romains 8.24). Par le moyen de l’oeuvre de salut parfaitement accomplie à Golgotha,
-nous avons été placés à nouveau dans la condition dans laquelle se trouvait l’homme avant la
-chute. Seule la transmutation de notre corps reste à réaliser.
-   C’est à cela que Paul aspirait également, et il l’exprime en ces mots: “… pour le connaître, lui,
-et la puissance de sa résurrection, et la communion de ses souffrances, étant rendu conforme à sa
-mort, si en quelque manière que ce soit je puis parvenir à la résurrection d’entre les morts”
-(Philippiens 3.10,11).
-   Aussi certainement qu’un corps terrestre est porté à la tombe, aussi certainement ressuscitera-
-t-il en un corps spirituel. De la même manière, les véritables croyants vivants lors de la venue du
-Seigneur seront transmués et recevront un corps de résurrection. “Bien-aimés, nous sommes
-maintenant enfants de Dieu, et ce que nous serons n’a pas encore été manifesté; nous savons
-que quand il sera manifesté, nous lui serons semblables, car nous le verrons comme il est”
-(1 Jean 3.2).
-   Jésus-Christ, le Fils de Dieu, qui fut crucifié et mis dans un tombeau, est ressuscité
-corporellement le troisième jour. Après cela, Il resta en compagnie de Ses disciples pendant
-quarante jours; Il mangea et but avec eux, les enseignant sur le Royaume de Dieu (Luc 24.36-49;
-Actes 1.3). “Et il les mena dehors jusqu’à Béthanie, et levant ses mains en haut, il les bénit. Et il
-arriva qu’en les bénissant, il fut séparé d’eux, et fut élevé dans le ciel” (Luc 24.50,51). “Et ayant dit
-ces choses, il fut élevé de la terre, comme ils regardaient, et une nuée le reçut et l’emporta de
-devant leurs yeux. Et comme ils regardaient fixement vers le ciel, tandis qu’il s’en allait, voici, deux
-hommes en vêtements blancs, se tinrent là à côté d’eux, qui aussi dirent: Hommes galiléens,
-pourquoi vous tenez-vous ici, regardant vers le ciel? Ce Jésus, qui a été élevé d’avec vous dans le
-ciel, viendra de la même manière que vous l’avez vu s’en allant au ciel” (Actes 1.9-11).
-   Comme nous l’avons déjà fait remarquer, le retour de Jésus-Christ n’est pas une pieuse
-illusion, mais bien un grand événement qui sera accompagné de signes visibles. Pour les uns ce
-sera aussi une amère réalité, comme il est écrit dans Luc 17.34-36: “Je vous dis qu’en cette nuit
+“C’est pourquoi, vous aussi, soyez prêts; car, à l’heure que vous ne pensez pas, le fils de l’homme vient” (Mat. 24.44).
 
-    http://www.cmpp.ch
+“Or, comme elles s’en allaient pour en acheter, l’époux vint; et celles qui étaient prêtes entrèrent avec lui aux noces” (Mat. 25.10).
 
-LE RETOUR DE CHRIST 8
-là, deux seront sur un même lit, l’un sera pris et l’autre laissé; deux femmes moudront ensemble,
-l’une sera prise et l’autre laissée; deux seront aux champs, l’un sera pris et l’autre laissé”.
+“Veillez donc, priant en tout temps, afin que vous soyez estimés dignes d’échapper à toutes ces choses qui doivent arriver, et de vous tenir devant le fils de l’homme” (Luc 21.36).
 
-        LE CRI DE COMMANDEMENT
-   Selon 1 Thessaloniciens 4.16, lors du retour du Seigneur trois choses arriveront: Son cri de
-commandement sort, une voix d’archange retentit, et la trompette de Dieu sonne. Cela arrive
-lorsque le Seigneur descend du Ciel pour attirer les Siens à Lui. La rencontre de l’Epoux et
-de l’Epouse n’a pas lieu sur la terre, mais bien dans les airs (1 Thess. 4.17).
-   Dans Jean 11 nous pouvons lire l’action que produit Son cri de commandement déjà pendant le
-ministère de Jésus sur la terre: “Et ayant dit ces choses, il cria à haute voix: Lazare, sors dehors!
-Et le mort sortit…” (v. 43,44).
-   Et lorsque le Seigneur Jésus à la croix poussa Son dernier cri, “… le voile du temple se déchira
-en deux… la terre trembla, et les rochers se fendirent, et les sépulcres s’ouvrirent; et beaucoup de
-corps des saints endormis ressuscitèrent…” (Mat. 27.50-52).
-   Dans Jean 5.25 Jésus avait déjà dit: “En vérité, en vérité, je vous dis que l’heure vient, et elle
-est maintenant, que les morts entendront la voix du Fils de Dieu, et ceux qui l’auront entendue
-vivront”.
-   La voix de commandement de notre Seigneur est une parole Toute-Puissante. Ce qu’Il dit
-s’accomplit, ce qu’il commande est exécuté. Sa Parole ne retourne pas à Lui sans avoir accompli
-ce pourquoi Il L’a envoyée. Il soutient toutes choses par la Parole de Sa puissance (Hébreux 1.3). Le
-mot grec ( ), qui est traduit dans 1 Thessaloniciens 4.16 par “cri de commandement”
-(Darby) ou “signal donné” (Segond), correspond à un ordre comme ceux qui sont donnés par
-exemple dans l’armée. Ce cri de commandement est poussé quand le Seigneur descend du
-Ciel. Il est aussi traduit par appel pressant. Ceux qui se sont endormis en Christ sont réveillés par
-ce cri de commandement; ensuite vient la transmutation des vivants en Christ. C’est ainsi que sont
-révélées d’une manière majestueuse la souveraineté et l’autorité du Seigneur des seigneurs, qui a
-le pouvoir sur la vie et la mort.
-   Hébreux 12.26 est un puissant témoignage, en considération de la Toute-Puissance de Sa
-Parole parlée: “… duquel la voix ébranla alors la terre; mais maintenant il a promis, disant: Encore
-une fois je secouerai non seulement la terre, mais aussi le ciel”.
-   Dans Matthieu 25 il est question d’un cri qui retentit au milieu de la nuit, et cela avant le
-retour de l’Epoux: “Voici l’époux, sortez à sa rencontre!” (v. 6). Il s’agit d’un puissant appel sur la
-terre, par lequel les personnes spirituellement endormies sont secouées pour être réveillées
-et rendues attentives au retour du Seigneur. Par ce cri, aussi bien les vierges sages que les
-folles sont réveillées. “Alors toutes ces vierges se levèrent et apprêtèrent leurs lampes” (v. 7).
-Cependant l’huile manquait aux vierges folles, c’est pourquoi elles ne purent pas entrer pour le
-Repas des Noces.
-   Si l’on compare le mot grec “un cri” ( ) de Matthieu 25.6 avec celui de 1 Thessaloniciens 4.16 “un cri de commandement” ( ), on peut facilement constater qu’il s’agit de deux
-notions totalement différentes. Alors que la première exprime l’urgence du Message de ce
-temps-là qui est publié sur la terre parmi les croyants, le cri de commandement, lui, vient du
-Ciel d’où le Seigneur descend.
-   Le cri de Matthieu 25 retentit maintenant. C’est le dernier Message qui secoue les croyants
-pour les réveiller et les rassembler autour de la manne fraîche, la Parole de Vie. Le Message de
-Dieu est la Parole de l’heure, où sont renfermées toutes les promesses pour ce temps. Seul celui
-qui croit réellement conformément à ce qui est écrit et avec cela se place entièrement au côté
-de Dieu, expérimentera le perfectionnement promis à l’Epouse.
-   En rapport avec le messager qui devait être envoyé comme précurseur de la première venue de
-Christ, il est écrit: “La voix de celui qui crie…Une voix dit: Crie!” (Ésaïe 40.3,6). Chaque lecteur de la
-Bible sait que cette parole prophétique a trouvé son accomplissement dans le ministère de Jean-
-Baptiste. Lui-même rend ce témoignage: “Moi, je suis la voix de celui qui crie dans le désert:
-Faites droit le chemin du Seigneur, comme dit Esaïe le prophète” (Jean 1.23).
+Dans le christianisme primitif, cette espérance était constamment vivante dans le coeur des croyants. Ceci ressort clairement de beaucoup de passages bibliques où il est question de cela:
 
-        http://www.cmpp.ch
+“… en sorte que viennent des temps de rafraîchissement de devant la face du Seigneur, et qu’il envoie Jésus Christ, qui vous a été préordonné…” (Actes 3.19,20).
 
-LE RETOUR DE CHRIST 9
-   Maintenant, juste avant le retour de Jésus-Christ, le Message de la Parole révélée, qui a été
-confié au dernier ange-messager de Laodicée (Apocalypse 3.14-22), parcourt la terre. Un cri retentit, et
-ceux qui l’entendent se lèvent de leur sommeil et préparent leur lampe. Les vierges sages
-remplissent aussi leur cruche d’huile. Elles ont les deux choses: la Parole et l’Esprit. Elles
-reconnaissent que le Seigneur amène Son oeuvre à son achèvement, elles prêtent l’oreille au
-Message actuel, la Parole prophétique pour ce temps, et se laissent préparer pour ce jour glorieux.
-   Jean-Baptiste, qui s’est avancé comme précurseur de la première venue du Seigneur, disait:
-“Celui qui a l’épouse est l’époux; mais l’ami de l’épouse, qui assiste et l’entend, est tout réjoui à
-cause de la voix de l’époux; cette joie donc, qui est la mienne, est accomplie” (Jean 3.29).
-Maintenant, de la même manière, l’Epouse doit être mise en présence de la Voix de l’Epoux,
-c’est-à-dire de la Parole avec toutes Ses promesses. De même qu’avant la première venue de
-Christ il y eut un message prophétique, ainsi y a-t-il maintenant, avant la deuxième venue de
-Christ, un message prophétique. C’est le cri d’appel qui retentit maintenant, la Parole promise
-de cette heure, le Message pour ce temps, au travers duquel tous les mystères cachés dans
-la Parole ont été révélés.
-   L’appel à sortir, le cri de réveil et la préparation doivent avoir lieu avant la venue du Seigneur.
-L’apôtre Jean vit l’Epouse en vision et il écrivit: “Réjouissons-nous et tressaillons de joie, et
-donnons-lui gloire; car les noces de l’Agneau sont venues; et sa femme s’est préparée…”
-(Apocalypse 19.7).
+“Car toutes les fois que vous mangez ce pain et que vous buvez la coupe, vous annoncez la mort du Seigneur jusqu’à ce qu’il vienne” (1 Corinthiens 11.26).
 
-        LA VOIX D’UN ARCHANGE
+“… et comment vous vous êtes tournés des idoles vers Dieu, pour servir le Dieu vivant et vrai, et pour attendre des cieux son Fils qu’il a ressuscité d’entre les morts, Jésus, qui nous délivre de la colère qui vient” (1 Thess. 1.9,10).
 
-   La mention de la voix d’un archange, dans 1 Thessaloniciens 4.16, a une importance toute
-particulière. “Ne sont-ils pas tous des esprits administrateurs envoyés pour servir en faveur de
-ceux qui vont hériter du salut?” Voilà ce qui est écrit dans Hébreux 1.14. Lors de l’enlèvement, le
-Sauveur prend à Lui ceux qu’Il a rachetés, et Satan, avec tous ceux qui le suivent, est précipité sur
-la terre. Cela arrive comme Jean l’a vu en vision: “Et il y eut un combat dans le ciel: Michel et ses
-anges combattaient contre le dragon. Et le dragon combattait, et ses anges; et il ne fut pas le plus
-fort, et leur place ne fut plus trouvée dans le ciel. Et le grand dragon fut précipité, le serpent
-ancien, celui qui est appelé diable et Satan (l’adversaire), celui qui séduit la terre habitée tout
-entière, il fut précipité sur la terre, et ses anges furent précipités avec lui” (Apocalypse 12.7-9).
-   Une fois pour toutes notre Sauveur s’est expliqué avec Satan, et Il l’a vaincu, ainsi que ses
-armées: “… ayant dépouillé les principautés et les autorités, il les a produites en public, triomphant
-d’elles en la croix” (Colossiens 2.15). Il a également vaincu la mort (1 Corinthiens 15.54,55), et a contraint le
-séjour des morts à les relâcher, emmenant Lui-même captive la captivité (Éphésiens 4.8) en ressuscitant
-triomphalement le troisième jour. “Ne crains point! moi, je suis le premier et le dernier, et le vivant;
-et j’ai été mort; et voici, je suis vivant aux siècles des siècles; et je tiens les clefs de la mort et du
-hadès” (Apocalypse 1.17,18).
-   Cependant le vieil adversaire s’élève encore contre les croyants et les accuse auprès de Dieu.
-C’est pourquoi Christ, le médiateur de la Nouvelle Alliance, demeure en tant que Souverain
-Sacrificateur notre avocat auprès de Dieu, jusqu’à ce que l’Eglise soit achevée. Cependant, au
-moment où le nombre des rachetés est complet et qu’ils apparaissent devant Dieu “sans tache
-ni ride”, Satan ne peut plus rien réussir contre les élus de Dieu. C’est alors qu’il est précipité
-sur la terre avec une grande puissance, avec ceux qui le suivent.
-   Comme nous l’avons vu dans Apocalypse 12.7-9, c’est l’archange Michel qui a pour tâche
-d’élever la voix et de renvoyer en son lieu l’ennemi déjà vaincu. C’est également lui qui a contesté
-avec le diable le corps mort de Moïse (Jude 9). Au temps déterminé, c’est encore lui qui se lèvera
-en faveur du peuple d’Israël, comme il est écrit: “En ce temps-là se lèvera Micaël, le grand chef,
-qui tient pour les fils de ton peuple” (Daniel 12.1). Cela ne me surprendrait pas que ce soit lui qui,
-lors de l’établissement du Millénium, lie Satan et le jette dans l’abîme (Apocalypse 20.1-3). La doctrine
-qui prétend que l’archange Michel serait Christ est complètement absurde. La vérité est que
-Jahwé de l’Ancien Testament est Jésus du Nouveau Testament, le même Seigneur hier,
-aujourd’hui et éternellement. Michel ou Gabriel sont encore dans le Nouveau Testament ce qu’ils
-étaient dans l’Ancien.
+“Car quelle est notre espérance, ou notre joie, ou la couronne dont nous nous glorifions? N’est-ce pas bien vous devant notre Seigneur Jésus, à sa venue?” (1 Thess. 2.19).
 
-        http://www.cmpp.ch
+“Car le Seigneur lui-même, avec un cri de commandement, avec une voix d’archange, et avec la trompette de Dieu, descendra du ciel…” (1 Thess. 4.16).
 
-LE RETOUR DE CHRIST 10
-   Il n’y aura plus de bataille entre le Vainqueur de Golgotha et les puissances vaincues de
-l’ennemi qui se trouvent encore dans les lieux célestes (Éphésiens 6.10-17). “Il s’est assis à perpétuité à
-la droite de Dieu, attendant désormais jusqu’à ce que ses ennemis soient mis pour marchepied de
-ses pieds” (Hébreux 10.13). Lors de Son retour, l’Epoux se consacrera uniquement à Son Epouse et
-ne s’occupera de rien d’autre.
-   Lorsqu’il s’agit de publications et d’éclaircissements importants de l’histoire du salut, c’est le
-plus souvent l’ange Gabriel qui est mentionné (Daniel 8.16; 9.21). Il a aussi annoncé à Zacharie la
-naissance de Jean-Baptiste (Luc 1.19), et à Marie la naissance de notre Seigneur et Sauveur
-(Luc 1.26). Mais lorsqu’il y a combat et contestation, c’est Michel, un des archanges principaux,
-qui est compétent.
-   Seuls ceux qui font partie de l’Epouse auront part à l’enlèvement. Il est écrit: “… et celles qui
-étaient prêtes entrèrent avec lui aux noces” (Mat. 25.10). Satan ne peut pas passer par la porte
-car Jésus-Christ est la Porte. Il monte quelque part ailleurs parce qu’il est le voleur et le meurtrier
-(Jean 10.1) et il sera alors jeté dehors.
-   Dans Matthieu 22 nous avons la description de la salle des Noces remplie d’invités. Aux versets
-11 à 13 il est dit: “Et le roi, étant entré pour voir ceux qui étaient à table, aperçut là un homme qui
-n’était pas vêtu d’une robe de noces. Et il lui dit: Ami, comment es-tu entré ici, sans avoir une robe
-de noces? Et il eut la bouche fermée. Alors le roi dit aux serviteurs: Liez-le pieds et mains,
-emportez-le, et jetez-le dans les ténèbres du dehors…”. Quelques-uns s’achoppent à l’expression
-“ami”; cependant Jésus avait déjà appelé ainsi celui qui le trahirait, Judas, dans lequel Satan était
-entré: “Et Jésus lui dit: Ami, pourquoi es-tu venu?” (Mat. 26.50). Satan peut apparaître en ange de
-lumière, revêtu d’un vêtement blanc (2 Corinthiens 11.14), mais il ne pourra jamais porter de robe de
-noces. Seule l’Epouse est revêtue de la glorieuse robe de noces resplendissante qui est faite “des
-oeuvres justes des saints” (Apocalypse 19.8 — Segond).
-   Il est dit de la troupe des vainqueurs: “… et eux l’ont vaincu à cause du sang de l’Agneau et à
-cause de la parole de leur témoignage; et ils n’ont pas aimé leur vie, même jusqu’à la mort”
-(Apocalypse 12.11). Une réelle marche à la suite de Jésus place les véritables enfants de Dieu dans les
-empreintes de Jésus-Christ, notre Sauveur, de telle manière que cette parole s’accomplit
-littéralement: “Car nul de nous ne vit ayant égard à lui-même, et nul ne meurt ayant égard à
-lui-même: mais soit que nous vivions, nous vivons ayant égard au Seigneur, soit que nous
-mourions, nous mourons ayant égard au Seigneur” (Romains 14.7,8). Paul, ainsi que tous ceux qui
-moururent avec Christ par la foi, pouvait dire: “Et je ne vis plus, moi, mais Christ vit en moi”
-(Galates 2.20). Il ne suffit pas de prêcher, ou de parler de ces choses, mais il faut que cela devienne
-vrai dans la vie de ceux qui veulent entrer dans la gloire.
+“Or le Dieu de paix lui-même vous sanctifie entièrement; et que votre esprit, et votre âme, et votre corps tout entiers, soient conservés sans reproche en la venue de notre Seigneur Jésus Christ” (1 Thess. 5.23).
 
-        LA TROMPETTE
-   La trompette qui retentira lors de la venue du Seigneur, conformément à
-1 Thessaloniciens 4.16, est désignée comme étant la Trompette de Dieu. Lors de certaines
-circonstances, il était d’usage dans l’Ancien Testament de sonner de la trompette. Lorsque le
-Seigneur descendit sur la montagne du Sinaï, le peuple vit les flammes et les éclairs, il entendit le
-roulement du tonnerre ainsi que le retentissement puissant des trompettes (Exode 20.18). Le Jubilé,
-qui est aussi connu comme “l’année du retentissement du cor”, était introduit le jour des expiations
-par le son bruyant de la trompette (Lévitique 25.8-12).
-   Lorsque dans les Saintes Ecritures il était question de trompettes, c’était toujours parce que des
-événements extraordinaires étaient sur le point d’arriver. En relation avec le retour de Jésus-
-Christ, il est parlé de la “Trompette de Dieu”, et cela parce qu’à ce moment le Seigneur amène à
-sa fin Son glorieux plan de salut pour Ses élus. Nous savons que le Seigneur reviendra de la
-même manière qu’Il s’en est allé au Ciel. A ce sujet nous trouvons dans le Psaumes 47.5 cette
-parole prophétique: “Dieu est monté avec un chant de triomphe, l’Eternel avec la voix de la
-trompette”. Lorsque la trompette de Dieu retentit, c’est que les élus sont appelés à la grande Fête
-dans la gloire. Paul décrit comment et quand ce grand événement aura lieu: “… en un instant, en
-un clin d’oeil, à la dernière trompette, car la trompette sonnera…” (1 Corinthiens 15.52).
-   Jésus-Christ revient avec un cri de commandement accompagné de la voix de l’archange et de
-la trompette de Dieu pour enlever les rachetés (qu’ils soient déjà endormis ou qu’ils vivent encore)
+“Or nous vous prions, frères, par la venue de notre Seigneur Jésus Christ et par notre rassemblement auprès de lui…” (2 Thess. 2.1).
 
-        http://www.cmpp.ch
+“… que tu gardes ce commandement, sans tache, irrépréhensible, jusqu’à l’apparition de notre Seigneur Jésus Christ, laquelle le bienheureux et seul souverain, le Roi de ceux qui règnent et le Seigneur de ceux qui dominent, montrera au temps propre…” (1 Timothée 6.14,15).
 
-LE RETOUR DE CHRIST 11
-de devant le jugement de la colère de Dieu comme aussi de la grande tribulation. Avec ce plus
-grand événement de l’histoire du salut, l’enlèvement de l’Epouse-Eglise, se termine le
-temps de la grâce pour les nations. Après cela, Dieu se tourne à nouveau vers Son peuple
-d’Israël (Romains 11.25-27). En rapport avec cet événement, le prophète Esaïe parle également d’une
-grande trompette qui retentira (Ésaïe 27.13).
-   Le retour du Seigneur aura lieu comme un éclair, c’est-à-dire subitement, en un clin d’oeil. Celui
-qui sera réellement prêt à ce moment-là sera changé et enlevé dans la gloire. De même qu’Hénoc,
-le septième après Adam, fut enlevé et ne fut plus trouvé sur la terre, ainsi, à la fin des sept âges
-de l’Eglise, ceux qui font partie de l’Epouse seront enlevés et ne se trouveront plus sur la
-terre.
+“… désormais m’est réservée la couronne de justice, que le Seigneur juste juge me donnera dans ce jour-là, et non seulement à moi, mais aussi à tous ceux qui aiment son apparition” (2 Timothée 4.8).
 
-        LA CONDITION
-   La condition pour atteindre ce but si élevé est donnée clairement dans la parole suivante: “Et si
-l’Esprit de celui qui a ressuscité Jésus d’entre les morts habite en vous, celui qui a ressuscité le
-Christ d’entre les morts vivifiera vos corps mortels aussi, à cause de son Esprit qui habite en vous”
-(Romains 8.11). Il ne s’agit pas ici d’une onction de l’Esprit, que peut-être des millions de personnes
-ont, mais bien d’une “habitation intérieure”. Le mot “si” est d’une grande importance. Si l’Esprit, et
-avec cela Sa puissance, habite en nous, c’est-à-dire demeure en nous, cela arrivera, sinon pas.
-Conformément aux Paroles de notre Seigneur, il y aura juste avant Son retour beaucoup de faux
-christs, c’est-à-dire de faux oints, qui feront de grands signes et des miracles, qui auront un
-ministère “oint”, mais qui, dans les doctrines fondamentales, auront les mêmes racines que
-le faux prophète (Mat. 24).
-   La foi biblique est toujours ancrée dans les promesses correspondantes, qui nous ont été
-données dans la Parole. “… car autant il y a de promesses de Dieu, en lui est le oui et en lui
-l’amen, à la gloire de Dieu par nous” (2 Corinthiens 1.20). La véritable foi biblique prend sa source
-uniquement dans la prédication conforme aux Ecritures. “Ainsi la foi est de ce qu’on entend, et
-ce qu’on entend par la Parole de Dieu” (Romains 10.17). Il en est ainsi pour le salut, la guérison et
-toutes les autres promesses, et il en est également ainsi pour la foi en vue de l’enlèvement. Elle
-vient du Message approprié à ce temps, de la Parole révélée qui produit l’attente et l’espérance.
-“… et l’espérance ne rend point honteux, parce que l’amour de Dieu est versé dans nos coeurs par
-l’Esprit Saint qui nous a été donné” (Romains 5.5). “Or la foi est l’assurance des choses qu’on espère,
-et la conviction de celles que l’on ne voit pas” (Hébreux 11.1).
-   La Parole et l’Esprit de Dieu agissent ensemble dans les rachetés. L’Esprit de la promesse
-vient sur ceux qui ont reçu la Parole de la promesse. En tant que Consolateur, l’Esprit doit
-habiter en nous; une onction ne suffit pas. De même que l’Esprit descendit sur Christ, le Premier-
-né (Mat. 3.16), qu’Il demeura sur Lui et de cette façon revendiqua Ses droits sur Son corps
-terrestre, ainsi en est-il de tous ceux qui ont le droit d’aînesse: ils reçoivent les prémices de l’Esprit
-(Romains 8.29) pour la glorification dont Paul a si souvent parlé. “Or nous tous, contemplant à face
-découverte la gloire du Seigneur, nous sommes transformés en la même image, de gloire en
-gloire, comme par le Seigneur en Esprit” (2 Corinthiens 3.18).
-   Celui qui veut expérimenter la transmutation de son corps mortel doit porter en lui-même la
-divine puissance de l’incorruptibilité. Il doit avoir reçu la Vie éternelle par le moyen d’une réelle
-nouvelle naissance, et avoir été scellé du Saint-Esprit. “… en qui vous aussi vous avez espéré,
-ayant entendu la Parole de la vérité, l’évangile de votre salut; auquel aussi ayant cru, vous avez
-été scellés du Saint-Esprit de la promesse, qui est les arrhes de notre héritage, pour la rédemption
-de la possession acquise, à la louange de sa gloire” (Éphésiens 1.13,14).
-   La transmutation n’a pas lieu de l’extérieur vers l’intérieur, mais bien de l’intérieur vers
-l’extérieur. Il faut d’abord qu’ait eu lieu une régénération de l’âme, dans laquelle l’Esprit de Dieu
-puisse faire Sa demeure, avant que finalement notre corps mortel puisse aussi être rendu vivant
-par Son Esprit habitant en nous. Le Saint-Esprit est la puissance de Dieu par laquelle cela arrive
-réellement.
-   Il existe une énorme différence entre une onction de l’Esprit, que beaucoup possèdent, et le
-scellement par l’Esprit, qui n’est accordé qu’à ceux qui expérimenteront réellement la
+“Car encore très peu de temps, et celui qui vient viendra, et il ne tardera pas” (Hébreux 10.37).
 
-        http://www.cmpp.ch
+“Usez donc de patience, frères, jusqu’à la venue du Seigneur… affermissez vos coeurs, car la venue du Seigneur est proche” (Jacques 5.7,8).
+
+“Car ce n’est pas en suivant des fables ingénieusement imaginées, que nous vous avons fait connaître la puissance et la venue de notre Seigneur Jésus Christ…” (2 Pier. 1.16).
+
+“… sachant tout d’abord ceci, qu’aux derniers jours des moqueurs viendront, marchant dans la moquerie selon leurs propres convoitises et disant: Où est la promesse de sa venue?” (2 Pier. 3.3,4).
+
+“Bien-aimés, nous sommes maintenant enfants de Dieu, et ce que nous serons n’a pas encore été manifesté; et nous savons que quand il sera manifesté, nous lui serons semblables, car nous le verrons comme il est” (1 Jean 3.2).
+
+“… de même aussi dans le Christ tous seront rendus vivants; mais chacun dans son propre rang: les prémices, Christ; puis ceux qui sont du Christ, à sa venue…” (1 Corinthiens 15.22,23).
+
+### CELA S’ACCOMPLIRA REELLEMENT
+
+Le plus grand nombre des passages bibliques que nous avons présentés nous montrent l’importance de l’événement. Malheureusement, très tôt après la mort des apôtres, on commença à interpréter le retour de Jésus-Christ dans le sens spirituel, et cela continua jusqu’à nos jours. Les hommes meurent, mais malheureusement pas les esprits: ils s’emparent d’autres hommes et continuent de répandre les fausses doctrines. On connaît généralement la théorie d’une organisation prétendant que le Royaume de Dieu aurait commencé sur la terre depuis 1914 et qu’il y serait édifié. De semblables doctrines, en relation avec un moment donné que l’on avait déterminé, étaient déjà apparues avant celle-ci et il y en a maintenant encore. Aujourd’hui, par exemple, elles sont répandues sous la formule de Parousie de Christ. Les défenseurs de cette doctrine prétendent que Christ serait déjà venu et qu’Il serait actuellement présent comme Juge. Une fois de plus la venue de Christ est spiritualisée et déclarée être une certaine “révélation”, laquelle serait accordée à un groupe bien déterminé. Chaque fois on a avancé les mêmes prétentions. C’est avec un grand enthousiasme que l’on prêche cela, et les gens ne remarquent pas qu’ils ont à proprement parler dévié de la Vérité et que la bienheureuse espérance leur a été ainsi dérobée.
+
+Aussi pieuses que puissent paraître de telles formulations, tout aussi fausses sont-elles et conduisent-elles à l’égarement. Le mot grec “Parousie” signifie “présence”, mais il indique toujours une venue personnelle. Paraousia signifie “substance présente”. Quand par exemple le président des Etats-Unis entre dans la Maison-Blanche, c’est alors une parousie. La parousie n’est pas une fantaisie; ce terme ne peut être employé que lors de la venue corporelle, réelle et visible d’une personne. Il ne peut y avoir de parousie de Christ sans qu’Il apparaisse personnellement et corporellement. Tout simplement, une telle doctrine est une absurdité. Aussi vrai que Sa “présence-parousie” était réelle lors de Sa première “venue-épiphanie”, tout aussi vrai sera-t-Il personnellement et corporellement réel lors de Sa “présence-parousie” à Son retour. Une doctrine de la parousie de Christ sans qu’Il apparaisse vraiment personnellement, sans qu’Il soit présent, est dénuée de tout fondement biblique sensé.
+
+De même que le retour de Jésus-Christ Lui-même n’est pas une présomption ou une doctrine mais bien une réalité, ainsi les événements qui y sont rattachés sont également une réalité. Paul écrit: “Voici, je vous dis un mystère: Nous ne nous endormirons pas tous, mais nous serons tous changés” (1 Corinthiens 15.51). Nous pouvons lire dans Matthieu 17.2 comment se fera cette transmutation: “Et il fut transfiguré devant eux; et son visage resplendit comme le soleil, et ses vêtements devinrent blancs comme la lumière”. C’est ainsi également que Jean Le vit sur l’île de Patmos: “Sa tête et ses cheveux étaient blancs comme de la laine blanche, comme de la neige; et ses yeux comme une flamme de feu…” (Apocalypse 1.14).
+
+Cette transmutation inclut le fait que “… ce corruptible revête l’incorruptibilité, et que ce mortel revête l’immortalité” (1 Corinthiens 15.53). L’achèvement du Corps de Christ inclut l’absolue perfection, dans laquelle il n’y a plus de vieillesse mais au contraire une jeunesse éternelle. Dans Job 33.23-28 nous trouvons décrit “le retour” au jeune âge. Dans ce passage de l’Ecriture il est question de l’Intercesseur et de l’Expiation. C’est après cela que ceux qui ont été réconciliés avec Dieu nous sont montrés dans leur condition de glorification, c’est-à-dire dans la fleur de leur jeunesse: “Alors sa chair aura plus de fraîcheur que dans l’enfance; il reviendra aux jours de sa jeunesse” (Job 33.25). Cet événement s’accomplira “… en un instant, en un clin d’oeil, à la dernière trompette, car la trompette sonnera et les morts seront ressuscités incorruptibles, et nous, nous serons changés” (1 Corinthiens 15.52).
+
+Le changement (transmutation) ne s’opère pas seulement en ceux qui sont à ce moment-là vivants dans la foi en Christ, mais aussi en tous ceux qui se sont endormis dans cette espérance vivante. Job exprime sa foi en la résurrection par ces paroles: “Mais je sais que mon rédempteur est vivant, et qu’il se lèvera le dernier sur la terre. Quand ma peau sera détruite, il se lèvera; après que ma peau aura été détruite, moi-même je contemplerai Dieu. Je le verrai, et il me sera favorable; mes yeux le verront, et non ceux d’un autre…” (Job 19.25-27 — Segond).
+
+Lors du retour du Seigneur, ceux qui se sont endormis en Christ reçoivent un corps de résurrection, comme il est écrit dans 1 Corinthiens 15.42-44: “Ainsi aussi est la résurrection des morts: il est semé en corruption, il ressuscite en incorruptibilité; il est semé en déshonneur, il ressuscite en gloire; il est semé en faiblesse, il ressuscite en puissance; il est semé corps animal, il ressuscite corps spirituel”.
+
+“Car si nous croyons que Jésus mourut, et qu’il est ressuscité, de même aussi, avec lui, Dieu amènera ceux qui se sont endormis par Jésus” (1 Thess. 4.14). Celui qui enseigne que Christ serait déjà revenu doit aussi nous dire où se trouvent ceux qui se sont endormis en Christ et qu’Il a amenés avec Lui. Ceux qui disent ces choses favorisent les vivants par rapport à ceux qui se sont endormis, et ils contredisent les claires déclarations des Saintes Ecritures: “Car nous vous disons ceci par la parole du Seigneur: que nous, les vivants, qui demeurons jusqu’à la venue du Seigneur, nous ne devancerons aucunement ceux qui se sont endormis. Car le Seigneur lui-même, avec un cri de commandement, avec une voix d’archange, et avec la trompette de Dieu, descendra du ciel et les morts en Christ ressusciteront premièrement; puis nous, les vivants qui demeurons, nous serons ravis ensemble avec eux dans les nuées à la rencontre du Seigneur, en l’air…” (1 Thess. 4.15-17).
+
+Il ressort de ce passage que le Seigneur ne descend pas jusque sur la terre, mais qu’au contraire, ce sont les vainqueurs, c’est-à-dire ceux qui se sont endormis en Christ et ceux qui vivent en Christ, qui s’en vont ensemble dans leur condition de ressuscités pour Le rencontrer dans les airs. “… et ainsi nous serons toujours avec le Seigneur” (1 Thess. 4.17).
+
+Comme le Seigneur l’a promis, Il est présent en Esprit avec les Siens, et cela pendant tout le temps de la grâce. Il est présent partout où deux ou trois sont réellement assemblés en Son Nom. Le jour de Pentecôte, Il est descendu et depuis lors Il a fait des croyants Sa demeure (Jean 14.18). “… et nous a ressuscités ensemble, et nous a fait asseoir ensemble dans les lieux célestes dans le Christ Jésus…” (Éphésiens 2.6). Les véritables croyants sont des étrangers et des voyageurs sur la terre, et en même temps ils sont maintenant déjà: “… concitoyens des saints et gens de la maison de Dieu…” (Éphésiens 2.19).
+
+Lors de Son retour, tous ceux qui Lui appartiennent, qu’ils soient déjà endormis ou encore en vie, seront transformés de la mortalité dans l’immortalité par la puissance de résurrection vivifiante pour être enlevés vers Lui. Cela touche tous ceux qui, depuis la première venue de Christ, ont véritablement cru la Parole de Dieu, qui ont expérimenté ce qui leur a été prêché, et pour lesquels l’espérance vivante était réellement Jésus-Christ. Paul l’exprime ainsi: “… à tous ceux qui aiment son apparition” (2 Timothée 4.8b). Pendant toute la durée des sept âges de l’Eglise (Apocalypse 2 et 3), il y eut toujours des personnes qui ont écouté ce que l’Esprit disait aux Eglises et qui ont compté avec le retour du Seigneur. On se saluait les uns les autres par “Maranatha!” et l’on priait de tout son coeur: “Viens bientôt, Seigneur Jésus!”. Ils ne se sont pas trompés et ils ne seront pas davantage déçus. Ils nous ont devancés et n’ont plus qu’à attendre que le nombre soit complet. Maintenant, tout à la fin, s’accomplit un parfait accord entre l’Epoux-Parole et l’Epouse-Parole, si bien qu’à la fin l’Esprit et l’Epouse disent la même chose (Apocalypse 22.17).
+
+Les élus du temps de l’Ancien Testament sont déjà ressuscités avec Christ (Mat. 27.51-53). “Et tous ceux-ci, ayant reçu témoignage par la foi, n’ont pas reçu ce qui avait été promis, Dieu ayant en vue quelque chose de meilleur pour nous, afin qu’ils ne parviennent pas à la perfection sans nous” (Hébreux 11.39,40). C’est pourquoi ils attendent dans le paradis, jusqu’à ce que l’heure de l’achèvement soit venue pour tous, et alors, avec les saints du Nouveau Testament, ils prendront part au Repas des Noces. C’est à cela que se rapporte notre Seigneur lorsqu’Il dit dans Matthieu 8.11: “Et je vous dis que plusieurs viendront d’orient et d’occident, et s’assiéront avec Abraham et Isaac et Jacob dans le royaume des cieux”.
+
+### ASPIRATION REALISEE
+
+“Car la vive attente de la création attend la révélation des fils de Dieu… et non seulement elle, mais nous-mêmes aussi qui avons les prémices de l’Esprit, nous aussi, nous soupirons en nous-mêmes, attendant (la réalisation de) l’adoption, la délivrance de notre corps” (Romains 8.19,23).
+
+Dans Genèse 1.27 nous lisons “Et Dieu créa l’homme à son image, il le créa à l’image de Dieu…”. Il créa un corps spirituel. Ce n’est que plus tard que l’homme reçut ce corps de chair tiré de la terre comme il est écrit dans Genèse 2.7: “Et l’Eternel Dieu forma l’homme, poussière du sol…”. C’est dans ce corps de chair que l’homme est tombé. C’est la raison pour laquelle Dieu, qui est Lui-même Esprit, devait devenir homme, dans le Fils, pour nous délivrer et nous placer à nouveau dans notre condition divine de fils, dans un corps spirituel. “Car ceux qu’il a préconnus, il les a aussi prédestinés à être conformes à l’image de son Fils…” (Romains 8.29).
+
+“Le premier homme est tiré de la terre, poussière; le second homme est venu du ciel. Tel qu’est celui qui est poussière, tels aussi sont ceux qui sont poussière; et tel qu’est le céleste, tels aussi sont les célestes. Et comme nous avons porté l’image de celui qui est poussière, nous porterons aussi l’image du céleste” (1 Corinthiens 15.47-49).
+
+Ce but, pour lequel luttaient tous ceux qui étaient réellement devenus des croyants, était dès le commencement d’avoir part à la première résurrection, à la transmutation et à l’enlèvement.
+
+“Car nous avons été sauvés en espérance: or une espérance qu’on voit n’est pas une espérance…” (Romains 8.24). Par le moyen de l’oeuvre de salut parfaitement accomplie à Golgotha, nous avons été placés à nouveau dans la condition dans laquelle se trouvait l’homme avant la chute. Seule la transmutation de notre corps reste à réaliser.
+
+C’est à cela que Paul aspirait également, et il l’exprime en ces mots: “… pour le connaître, lui, et la puissance de sa résurrection, et la communion de ses souffrances, étant rendu conforme à sa mort, si en quelque manière que ce soit je puis parvenir à la résurrection d’entre les morts” (Philippiens 3.10,11).
+
+Aussi certainement qu’un corps terrestre est porté à la tombe, aussi certainement ressuscitera-t-il en un corps spirituel. De la même manière, les véritables croyants vivants lors de la venue du Seigneur seront transmués et recevront un corps de résurrection. “Bien-aimés, nous sommes maintenant enfants de Dieu, et ce que nous serons n’a pas encore été manifesté; nous savons que quand il sera manifesté, nous lui serons semblables, car nous le verrons comme il est” (1 Jean 3.2).
+
+Jésus-Christ, le Fils de Dieu, qui fut crucifié et mis dans un tombeau, est ressuscité corporellement le troisième jour. Après cela, Il resta en compagnie de Ses disciples pendant quarante jours; Il mangea et but avec eux, les enseignant sur le Royaume de Dieu (Luc 24.36-49; Actes 1.3). “Et il les mena dehors jusqu’à Béthanie, et levant ses mains en haut, il les bénit. Et il arriva qu’en les bénissant, il fut séparé d’eux, et fut élevé dans le ciel” (Luc 24.50,51). “Et ayant dit ces choses, il fut élevé de la terre, comme ils regardaient, et une nuée le reçut et l’emporta de devant leurs yeux. Et comme ils regardaient fixement vers le ciel, tandis qu’il s’en allait, voici, deux hommes en vêtements blancs, se tinrent là à côté d’eux, qui aussi dirent: Hommes galiléens, pourquoi vous tenez-vous ici, regardant vers le ciel? Ce Jésus, qui a été élevé d’avec vous dans le ciel, viendra de la même manière que vous l’avez vu s’en allant au ciel” (Actes 1.9-11).
+
+Comme nous l’avons déjà fait remarquer, le retour de Jésus-Christ n’est pas une pieuse illusion, mais bien un grand événement qui sera accompagné de signes visibles. Pour les uns ce sera aussi une amère réalité, comme il est écrit dans Luc 17.34-36: “Je vous dis qu’en cette nuit là, deux seront sur un même lit, l’un sera pris et l’autre laissé; deux femmes moudront ensemble, l’une sera prise et l’autre laissée; deux seront aux champs, l’un sera pris et l’autre laissé”.
+
+### LE CRI DE COMMANDEMENT
+
+Selon 1 Thessaloniciens 4.16, lors du retour du Seigneur trois choses arriveront: Son cri de commandement sort, une voix d’archange retentit, et la trompette de Dieu sonne. Cela arrive lorsque le Seigneur descend du Ciel pour attirer les Siens à Lui. La rencontre de l’Epoux et de l’Epouse n’a pas lieu sur la terre, mais bien dans les airs (1 Thess. 4.17).
+
+Dans Jean 11 nous pouvons lire l’action que produit Son cri de commandement déjà pendant le ministère de Jésus sur la terre: “Et ayant dit ces choses, il cria à haute voix: Lazare, sors dehors! Et le mort sortit…” (v. 43,44).
+
+Et lorsque le Seigneur Jésus à la croix poussa Son dernier cri, “… le voile du temple se déchira en deux… la terre trembla, et les rochers se fendirent, et les sépulcres s’ouvrirent; et beaucoup de corps des saints endormis ressuscitèrent…” (Mat. 27.50-52).
+
+Dans Jean 5.25 Jésus avait déjà dit: “En vérité, en vérité, je vous dis que l’heure vient, et elle est maintenant, que les morts entendront la voix du Fils de Dieu, et ceux qui l’auront entendue vivront”.
+
+La voix de commandement de notre Seigneur est une parole Toute-Puissante. Ce qu’Il dit s’accomplit, ce qu’il commande est exécuté. Sa Parole ne retourne pas à Lui sans avoir accompli ce pourquoi Il L’a envoyée. Il soutient toutes choses par la Parole de Sa puissance (Hébreux 1.3). Le mot grec ( ), qui est traduit dans 1 Thessaloniciens 4.16 par “cri de commandement” (Darby) ou “signal donné” (Segond), correspond à un ordre comme ceux qui sont donnés par exemple dans l’armée. Ce cri de commandement est poussé quand le Seigneur descend du Ciel. Il est aussi traduit par appel pressant. Ceux qui se sont endormis en Christ sont réveillés par ce cri de commandement; ensuite vient la transmutation des vivants en Christ. C’est ainsi que sont révélées d’une manière majestueuse la souveraineté et l’autorité du Seigneur des seigneurs, qui a le pouvoir sur la vie et la mort.
+
+Hébreux 12.26 est un puissant témoignage, en considération de la Toute-Puissance de Sa Parole parlée: “… duquel la voix ébranla alors la terre; mais maintenant il a promis, disant: Encore une fois je secouerai non seulement la terre, mais aussi le ciel”.
+
+Dans Matthieu 25 il est question d’un cri qui retentit au milieu de la nuit, et cela avant le retour de l’Epoux: “Voici l’époux, sortez à sa rencontre!” (v. 6). Il s’agit d’un puissant appel sur la terre, par lequel les personnes spirituellement endormies sont secouées pour être réveillées et rendues attentives au retour du Seigneur. Par ce cri, aussi bien les vierges sages que les folles sont réveillées. “Alors toutes ces vierges se levèrent et apprêtèrent leurs lampes” (v. 7). Cependant l’huile manquait aux vierges folles, c’est pourquoi elles ne purent pas entrer pour le Repas des Noces.
+
+Si l’on compare le mot grec “un cri” ( ) de Matthieu 25.6 avec celui de 1 Thessaloniciens 4.16 “un cri de commandement” ( ), on peut facilement constater qu’il s’agit de deux notions totalement différentes. Alors que la première exprime l’urgence du Message de ce temps-là qui est publié sur la terre parmi les croyants, le cri de commandement, lui, vient du Ciel d’où le Seigneur descend.
+
+Le cri de Matthieu 25 retentit maintenant. C’est le dernier Message qui secoue les croyants pour les réveiller et les rassembler autour de la manne fraîche, la Parole de Vie. Le Message de Dieu est la Parole de l’heure, où sont renfermées toutes les promesses pour ce temps. Seul celui qui croit réellement conformément à ce qui est écrit et avec cela se place entièrement au côté de Dieu, expérimentera le perfectionnement promis à l’Epouse.
+
+En rapport avec le messager qui devait être envoyé comme précurseur de la première venue de Christ, il est écrit: “La voix de celui qui crie…Une voix dit: Crie!” (Ésaïe 40.3,6). Chaque lecteur de la Bible sait que cette parole prophétique a trouvé son accomplissement dans le ministère de Jean-Baptiste. Lui-même rend ce témoignage: “Moi, je suis la voix de celui qui crie dans le désert: Faites droit le chemin du Seigneur, comme dit Esaïe le prophète” (Jean 1.23).
+
+Maintenant, juste avant le retour de Jésus-Christ, le Message de la Parole révélée, qui a été confié au dernier ange-messager de Laodicée (Apocalypse 3.14-22), parcourt la terre. Un cri retentit, et ceux qui l’entendent se lèvent de leur sommeil et préparent leur lampe. Les vierges sages remplissent aussi leur cruche d’huile. Elles ont les deux choses: la Parole et l’Esprit. Elles reconnaissent que le Seigneur amène Son oeuvre à son achèvement, elles prêtent l’oreille au Message actuel, la Parole prophétique pour ce temps, et se laissent préparer pour ce jour glorieux.
+
+Jean-Baptiste, qui s’est avancé comme précurseur de la première venue du Seigneur, disait: “Celui qui a l’épouse est l’époux; mais l’ami de l’épouse, qui assiste et l’entend, est tout réjoui à cause de la voix de l’époux; cette joie donc, qui est la mienne, est accomplie” (Jean 3.29). Maintenant, de la même manière, l’Epouse doit être mise en présence de la Voix de l’Epoux, c’est-à-dire de la Parole avec toutes Ses promesses. De même qu’avant la première venue de Christ il y eut un message prophétique, ainsi y a-t-il maintenant, avant la deuxième venue de Christ, un message prophétique. C’est le cri d’appel qui retentit maintenant, la Parole promise de cette heure, le Message pour ce temps, au travers duquel tous les mystères cachés dans la Parole ont été révélés.
+
+L’appel à sortir, le cri de réveil et la préparation doivent avoir lieu avant la venue du Seigneur. L’apôtre Jean vit l’Epouse en vision et il écrivit: “Réjouissons-nous et tressaillons de joie, et donnons-lui gloire; car les noces de l’Agneau sont venues; et sa femme s’est préparée…” (Apocalypse 19.7).
+
+### LA VOIX D’UN ARCHANGE
+
+La mention de la voix d’un archange, dans 1 Thessaloniciens 4.16, a une importance toute particulière. “Ne sont-ils pas tous des esprits administrateurs envoyés pour servir en faveur de ceux qui vont hériter du salut?” Voilà ce qui est écrit dans Hébreux 1.14. Lors de l’enlèvement, le Sauveur prend à Lui ceux qu’Il a rachetés, et Satan, avec tous ceux qui le suivent, est précipité sur la terre. Cela arrive comme Jean l’a vu en vision: “Et il y eut un combat dans le ciel: Michel et ses anges combattaient contre le dragon. Et le dragon combattait, et ses anges; et il ne fut pas le plus fort, et leur place ne fut plus trouvée dans le ciel. Et le grand dragon fut précipité, le serpent ancien, celui qui est appelé diable et Satan (l’adversaire), celui qui séduit la terre habitée tout entière, il fut précipité sur la terre, et ses anges furent précipités avec lui” (Apocalypse 12.7-9).
+
+Une fois pour toutes notre Sauveur s’est expliqué avec Satan, et Il l’a vaincu, ainsi que ses armées: “… ayant dépouillé les principautés et les autorités, il les a produites en public, triomphant d’elles en la croix” (Colossiens 2.15). Il a également vaincu la mort (1 Corinthiens 15.54,55), et a contraint le séjour des morts à les relâcher, emmenant Lui-même captive la captivité (Éphésiens 4.8) en ressuscitant triomphalement le troisième jour. “Ne crains point! moi, je suis le premier et le dernier, et le vivant; et j’ai été mort; et voici, je suis vivant aux siècles des siècles; et je tiens les clefs de la mort et du hadès” (Apocalypse 1.17,18).
+
+Cependant le vieil adversaire s’élève encore contre les croyants et les accuse auprès de Dieu. C’est pourquoi Christ, le médiateur de la Nouvelle Alliance, demeure en tant que Souverain Sacrificateur notre avocat auprès de Dieu, jusqu’à ce que l’Eglise soit achevée. Cependant, au moment où le nombre des rachetés est complet et qu’ils apparaissent devant Dieu “sans tache ni ride”, Satan ne peut plus rien réussir contre les élus de Dieu. C’est alors qu’il est précipité sur la terre avec une grande puissance, avec ceux qui le suivent.
+
+Comme nous l’avons vu dans Apocalypse 12.7-9, c’est l’archange Michel qui a pour tâche d’élever la voix et de renvoyer en son lieu l’ennemi déjà vaincu. C’est également lui qui a contesté avec le diable le corps mort de Moïse (Jude 9). Au temps déterminé, c’est encore lui qui se lèvera en faveur du peuple d’Israël, comme il est écrit: “En ce temps-là se lèvera Micaël, le grand chef, qui tient pour les fils de ton peuple” (Daniel 12.1). Cela ne me surprendrait pas que ce soit lui qui, lors de l’établissement du Millénium, lie Satan et le jette dans l’abîme (Apocalypse 20.1-3). La doctrine qui prétend que l’archange Michel serait Christ est complètement absurde. La vérité est que Jahwé de l’Ancien Testament est Jésus du Nouveau Testament, le même Seigneur hier, aujourd’hui et éternellement. Michel ou Gabriel sont encore dans le Nouveau Testament ce qu’ils étaient dans l’Ancien.
+
+Il n’y aura plus de bataille entre le Vainqueur de Golgotha et les puissances vaincues de l’ennemi qui se trouvent encore dans les lieux célestes (Éphésiens 6.10-17). “Il s’est assis à perpétuité à la droite de Dieu, attendant désormais jusqu’à ce que ses ennemis soient mis pour marchepied de ses pieds” (Hébreux 10.13). Lors de Son retour, l’Epoux se consacrera uniquement à Son Epouse et ne s’occupera de rien d’autre.
+
+Lorsqu’il s’agit de publications et d’éclaircissements importants de l’histoire du salut, c’est le plus souvent l’ange Gabriel qui est mentionné (Daniel 8.16; 9.21). Il a aussi annoncé à Zacharie la naissance de Jean-Baptiste (Luc 1.19), et à Marie la naissance de notre Seigneur et Sauveur (Luc 1.26). Mais lorsqu’il y a combat et contestation, c’est Michel, un des archanges principaux, qui est compétent.
+
+Seuls ceux qui font partie de l’Epouse auront part à l’enlèvement. Il est écrit: “… et celles qui étaient prêtes entrèrent avec lui aux noces” (Mat. 25.10). Satan ne peut pas passer par la porte car Jésus-Christ est la Porte. Il monte quelque part ailleurs parce qu’il est le voleur et le meurtrier (Jean 10.1) et il sera alors jeté dehors.
+
+Dans Matthieu 22 nous avons la description de la salle des Noces remplie d’invités. Aux versets 11 à 13 il est dit: “Et le roi, étant entré pour voir ceux qui étaient à table, aperçut là un homme qui n’était pas vêtu d’une robe de noces. Et il lui dit: Ami, comment es-tu entré ici, sans avoir une robe de noces? Et il eut la bouche fermée. Alors le roi dit aux serviteurs: Liez-le pieds et mains, emportez-le, et jetez-le dans les ténèbres du dehors…”. Quelques-uns s’achoppent à l’expression “ami”; cependant Jésus avait déjà appelé ainsi celui qui le trahirait, Judas, dans lequel Satan était entré: “Et Jésus lui dit: Ami, pourquoi es-tu venu?” (Mat. 26.50). Satan peut apparaître en ange de lumière, revêtu d’un vêtement blanc (2 Corinthiens 11.14), mais il ne pourra jamais porter de robe de noces. Seule l’Epouse est revêtue de la glorieuse robe de noces resplendissante qui est faite “des oeuvres justes des saints” (Apocalypse 19.8 — Segond).
+
+Il est dit de la troupe des vainqueurs: “… et eux l’ont vaincu à cause du sang de l’Agneau et à cause de la parole de leur témoignage; et ils n’ont pas aimé leur vie, même jusqu’à la mort” (Apocalypse 12.11). Une réelle marche à la suite de Jésus place les véritables enfants de Dieu dans les empreintes de Jésus-Christ, notre Sauveur, de telle manière que cette parole s’accomplit littéralement: “Car nul de nous ne vit ayant égard à lui-même, et nul ne meurt ayant égard à lui-même: mais soit que nous vivions, nous vivons ayant égard au Seigneur, soit que nous mourions, nous mourons ayant égard au Seigneur” (Romains 14.7,8). Paul, ainsi que tous ceux qui moururent avec Christ par la foi, pouvait dire: “Et je ne vis plus, moi, mais Christ vit en moi” (Galates 2.20). Il ne suffit pas de prêcher, ou de parler de ces choses, mais il faut que cela devienne vrai dans la vie de ceux qui veulent entrer dans la gloire.
+
+### LA TROMPETTE
+
+La trompette qui retentira lors de la venue du Seigneur, conformément à 1 Thessaloniciens 4.16, est désignée comme étant la Trompette de Dieu. Lors de certaines circonstances, il était d’usage dans l’Ancien Testament de sonner de la trompette. Lorsque le Seigneur descendit sur la montagne du Sinaï, le peuple vit les flammes et les éclairs, il entendit le roulement du tonnerre ainsi que le retentissement puissant des trompettes (Exode 20.18). Le Jubilé, qui est aussi connu comme “l’année du retentissement du cor”, était introduit le jour des expiations par le son bruyant de la trompette (Lévitique 25.8-12).
+
+Lorsque dans les Saintes Ecritures il était question de trompettes, c’était toujours parce que des événements extraordinaires étaient sur le point d’arriver. En relation avec le retour de Jésus-Christ, il est parlé de la “Trompette de Dieu”, et cela parce qu’à ce moment le Seigneur amène à sa fin Son glorieux plan de salut pour Ses élus. Nous savons que le Seigneur reviendra de la même manière qu’Il s’en est allé au Ciel. A ce sujet nous trouvons dans le Psaumes 47.5 cette parole prophétique: “Dieu est monté avec un chant de triomphe, l’Eternel avec la voix de la trompette”. Lorsque la trompette de Dieu retentit, c’est que les élus sont appelés à la grande Fête dans la gloire. Paul décrit comment et quand ce grand événement aura lieu: “… en un instant, en un clin d’oeil, à la dernière trompette, car la trompette sonnera…” (1 Corinthiens 15.52).
+
+Jésus-Christ revient avec un cri de commandement accompagné de la voix de l’archange et de la trompette de Dieu pour enlever les rachetés (qu’ils soient déjà endormis ou qu’ils vivent encore) de devant le jugement de la colère de Dieu comme aussi de la grande tribulation. Avec ce plus grand événement de l’histoire du salut, l’enlèvement de l’Epouse-Eglise, se termine le temps de la grâce pour les nations. Après cela, Dieu se tourne à nouveau vers Son peuple d’Israël (Romains 11.25-27). En rapport avec cet événement, le prophète Esaïe parle également d’une grande trompette qui retentira (Ésaïe 27.13).
+
+Le retour du Seigneur aura lieu comme un éclair, c’est-à-dire subitement, en un clin d’oeil. Celui qui sera réellement prêt à ce moment-là sera changé et enlevé dans la gloire. De même qu’Hénoc, le septième après Adam, fut enlevé et ne fut plus trouvé sur la terre, ainsi, à la fin des sept âges de l’Eglise, ceux qui font partie de l’Epouse seront enlevés et ne se trouveront plus sur la terre.
+
+### LA CONDITION
+
+La condition pour atteindre ce but si élevé est donnée clairement dans la parole suivante: “Et si l’Esprit de celui qui a ressuscité Jésus d’entre les morts habite en vous, celui qui a ressuscité le Christ d’entre les morts vivifiera vos corps mortels aussi, à cause de son Esprit qui habite en vous” (Romains 8.11). Il ne s’agit pas ici d’une onction de l’Esprit, que peut-être des millions de personnes ont, mais bien d’une “habitation intérieure”. Le mot “si” est d’une grande importance. Si l’Esprit, et avec cela Sa puissance, habite en nous, c’est-à-dire demeure en nous, cela arrivera, sinon pas. Conformément aux Paroles de notre Seigneur, il y aura juste avant Son retour beaucoup de faux christs, c’est-à-dire de faux oints, qui feront de grands signes et des miracles, qui auront un ministère “oint”, mais qui, dans les doctrines fondamentales, auront les mêmes racines que le faux prophète (Mat. 24).
+
+La foi biblique est toujours ancrée dans les promesses correspondantes, qui nous ont été données dans la Parole. “… car autant il y a de promesses de Dieu, en lui est le oui et en lui l’amen, à la gloire de Dieu par nous” (2 Corinthiens 1.20). La véritable foi biblique prend sa source uniquement dans la prédication conforme aux Ecritures. “Ainsi la foi est de ce qu’on entend, et ce qu’on entend par la Parole de Dieu” (Romains 10.17). Il en est ainsi pour le salut, la guérison et toutes les autres promesses, et il en est également ainsi pour la foi en vue de l’enlèvement. Elle vient du Message approprié à ce temps, de la Parole révélée qui produit l’attente et l’espérance. “… et l’espérance ne rend point honteux, parce que l’amour de Dieu est versé dans nos coeurs par l’Esprit Saint qui nous a été donné” (Romains 5.5). “Or la foi est l’assurance des choses qu’on espère, et la conviction de celles que l’on ne voit pas” (Hébreux 11.1).
+
+La Parole et l’Esprit de Dieu agissent ensemble dans les rachetés. L’Esprit de la promesse vient sur ceux qui ont reçu la Parole de la promesse. En tant que Consolateur, l’Esprit doit habiter en nous; une onction ne suffit pas. De même que l’Esprit descendit sur Christ, le Premier-né (Mat. 3.16), qu’Il demeura sur Lui et de cette façon revendiqua Ses droits sur Son corps terrestre, ainsi en est-il de tous ceux qui ont le droit d’aînesse: ils reçoivent les prémices de l’Esprit (Romains 8.29) pour la glorification dont Paul a si souvent parlé. “Or nous tous, contemplant à face découverte la gloire du Seigneur, nous sommes transformés en la même image, de gloire en gloire, comme par le Seigneur en Esprit” (2 Corinthiens 3.18).
+
+Celui qui veut expérimenter la transmutation de son corps mortel doit porter en lui-même la divine puissance de l’incorruptibilité. Il doit avoir reçu la Vie éternelle par le moyen d’une réelle nouvelle naissance, et avoir été scellé du Saint-Esprit. “… en qui vous aussi vous avez espéré, ayant entendu la Parole de la vérité, l’évangile de votre salut; auquel aussi ayant cru, vous avez été scellés du Saint-Esprit de la promesse, qui est les arrhes de notre héritage, pour la rédemption de la possession acquise, à la louange de sa gloire” (Éphésiens 1.13,14).
+
+La transmutation n’a pas lieu de l’extérieur vers l’intérieur, mais bien de l’intérieur vers l’extérieur. Il faut d’abord qu’ait eu lieu une régénération de l’âme, dans laquelle l’Esprit de Dieu puisse faire Sa demeure, avant que finalement notre corps mortel puisse aussi être rendu vivant par Son Esprit habitant en nous. Le Saint-Esprit est la puissance de Dieu par laquelle cela arrive réellement.
+
+Il existe une énorme différence entre une onction de l’Esprit, que beaucoup possèdent, et le scellement par l’Esprit, qui n’est accordé qu’à ceux qui expérimenteront réellement la transmutation.
 
 LE RETOUR DE CHRIST 12
+
 transmutation. L’exemple d’Abraham nous montre que c’est en rapport avec l’élection. Le Père de
 la foi fut élu et il reçut la promesse. Il crut et obéit à Dieu. C’est ce qui lui fut compté à justice.
 Après cela Dieu lui donna le sceau de sa justification par la foi, c’est-à-dire la circoncision
@@ -1087,8 +822,8 @@ pour se prosterner devant moi, dit l’Eternel. Et ils sortiront, et verront les
 se sont rebellés contre moi; car leur ver ne mourra pas, et leur feu ne s’éteindra pas, et ils seront
 en horreur à toute chair” (Ésaïe 66.23,24). “… il vaut mieux pour toi d’entrer dans le royaume de
 Dieu, n’ayant qu’un oeil, que d’avoir deux yeux et d’être jeté dans la géhenne de feu, là ou leur ver
-ne meurt pas et où le feu ne s’éteint pas” (Marc 9.47,48). Cette déclaration du Seigneur ne doit
-pas non plus être interprétée arbitrairement, mais placée conformément à la Parole prophétique
+ne meurt pas et où le feu ne s’éteint pas” (Marc 9.47,48). Cette déclaration du Seigneur ne
+doit pas non plus être interprétée arbitrairement, mais placée conformément à la Parole prophétique
 dans son juste contexte et au temps opportun.
    Ésaïe 65.20-25 nous décrit l’état des hommes qui seront restés et qui continueront à vivre sur la
 terre. Des enfants leur naîtront, ils construiront des maisons et y habiteront, ils planteront des
@@ -1228,9 +963,6 @@ Nouveau Testament; mais ce n’est qu’après l’expiration de tous les temps,
 millénium et le jugement dernier qu’ils seront appelés à l’existence par la Parole du
 Seigneur. “Ce que l’oeil n’a pas vu, et que l’oreille n’a pas entendu, et qui n’est pas monté au
 coeur de l’homme, ce que Dieu a préparé pour ceux qui l’aiment” (1 Corinthiens 2.9).
-
-
-
 
 
 

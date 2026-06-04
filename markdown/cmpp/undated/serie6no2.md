@@ -1,552 +1,174 @@
-    SERIE 6, N° 2
+---
+source: "cmpp"
+sermon_id: "serie6no2"
+title: "D'APRÈS-VOUS, DE QUOI S'AGIT-IL?"
+date: "1964-12-27"
+year: 1964
+location: "Phoenix, Arizona, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur l'entrée de Jésus à Jérusalem et la question des foules : 'Qui est celui-ci ?' Il compare l'incrédulité religieuse de l'époque à celle d'aujourd'hui, soulignant que Dieu envoie toujours un Messie oint selon sa Parole, mais que les systèmes religieux le rejettent souvent parce qu'il ne correspond pas à leurs credo. Il exhorte à reconnaître la Parole de Dieu pour le temps présent."
+tags:
+  - "messie"
+  - "parole ointe"
+  - "incrédulité"
+  - "religion"
+  - "prophétie"
+  - "Noël"
+persons:
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Noé"
+  - "Amos"
+  - "Michée"
+  - "Pierre"
+  - "Constantin"
+  - "Martin Luther King"
+places:
+  - "Jérusalem"
+  - "Bethléem"
+  - "Nazareth"
+  - "Galilée"
+  - "Phoenix"
+  - "Tucson"
+  - "Californie"
+  - "Hollywood"
+  - "Los Angeles"
+  - "Babylone"
+themes:
+  - "rejet du Messie"
+  - "interprétation personnelle de la Parole"
+  - "signes et prodiges"
+  - "ségrégation divine"
+  - "douleurs de l'enfantement"
+  - "venue du Seigneur"
+  - "véritable Église"
+pdf_url: "http://cmpp.ch/serie6no2.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Amos 3"
+  - "Amos 7"
+  - "Hébreux 13"
+  - "Jean 6"
+  - "Michée 5"
+---
+SERIE 6, N° 2
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-      D’APRES-VOUS,
-    DE QUOI S’AGIT-IL?
+D'APRES-VOUS,
+DE QUOI S'AGIT-IL?
 (Who Do You Say This Is?)
 
 
-
-
-
- 27 décembre 1964, matin
+27 décembre 1964, matin
 Phoenix — Arizona, U.S.A.
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+D'APRES-VOUS, DE QUOI S'AGIT-IL?
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    D’APRES-VOUS, DE QUOI S’AGIT-IL?    2
-
-D’APRES-VOUS, DE QUOI S’AGIT-IL?
+D'APRES-VOUS, DE QUOI S'AGIT-IL?
    (Who Do You Say This Is?)
 
 
-
  27 décembre 1964, matin
 Phoenix — Arizona, U.S.A.
 
 
-
-
-
-
-1 Amis, bonjour. Assurément, j’estime que c’est un privilège d’être ici dans cette église. Et pour
-commencer, j’aime le nom qu’elle porte. Elle s’appelle: «Le Nom de Jésus». J’aime cela et je
-pense que cela… C’est le Nom par lequel j’ai été racheté, racheté par ce beau Nom du Seigneur
-Jésus. Et alors, être ici avec mes bons amis, rassemblés ici à Phoenix, en ce beau dimanche
-matin… Je ne connais pas d’autre place où je préférerais être, à moins que cela ne soit dans la
-Gloire avec vous tous. Et c’est ce grand événement que nous attendons avec impatience un de
-ces jours.
-2 Et aujourd’hui, c’est un appel pour les malades qui m’a fait venir ici. J’ai parlé au frère Outlaw,
-mon précieux ami, qui m’a si gracieusement invité à venir et tous les ministres, ici à Phoenix ont
-été vraiment bons pour moi.
-3 Je me demande parfois pourquoi j’ai déménagé à Tucson. J’y suis depuis trois ans et je n’ai
-jamais été invité à une chaire. Aussi, je suppose que j’ai juste à faire ma visite à Phoenix où je me
-sens le bienvenu. Eh bien, peut-être qu’ils s’habitueront à moi… Vous savez, j’ai prêché là-bas
-l’autre soir et j’ai prêché pendant trois heures; ce n’est pas étonnant qu’ils ne m’aient pas
-demandé de revenir.
-4 Mais j’ai un tel sentiment dans mon coeur pour Dieu et Son peuple… Et je suis si lent! J’ai
-une telle peur d’oublier quelque chose, de ne pas en dire assez, que je mets trois ou quatre
-messages en un. Aussi, certainement… Je m’excuse de vous avoir gardé si longtemps, vous tous
-qui étiez là-bas. Je n’aurais pas dû faire cela.
-5 Je suis heureux d’être ici ce matin avec frère Carl Williams, le jeune Jimmy, le choeur et mes
-amis les frères Mosley; vous voyez Brad, frère John Sharret et beaucoup de mes amis, frère Pat
-Tyler, du fin fond du Kentucky et encore tellement d’amis simplement réunis dans cette
-assemblée. Vous voyez, j’ai vu beaucoup de mes amis de Tucson et d’ailleurs, prendre place ici.
-6 Je pense à un jour où tout ceci sera terminé, nous nous rassemblerons alors et nous
-n’aurons plus jamais à arrêter d’écouter cette belle musique, vous voyez. Je viens juste de
-remarquer le fils de frère Williams, il se tient là-bas derrière. Il a donné un témoignage l’autre soir,
-en bas à l’auberge Ramada. Je crois qu’il atteint presque les six pieds de haut. Mais, je vous dis
-qu’après ce témoignage, je crois qu’il avait atteint les dix pieds. J’ai vraiment apprécié ce que ce
-garçon a dit, c’était un si merveilleux témoignage!
-7 Quand j’entends ces charmants jeunes garçons témoigner de leur foi centrée en Christ… Je
-me fais vieux et un de ces jours, je devrai arrêter et partir à la Maison. Et vous voyez arriver ces
-charmants jeunes garçons, qui sont prêts et qui se préparent eux-mêmes pour poursuivre là où je
-m’arrête… et c’est de cette manière que nous faisons. C’est de cette manière que la vie est
-conçue, une génération montera. Père et mère, ils élèvent leurs petits, les voient se marier et
-arrivent les petits-enfants. Et après un temps, papa et maman retournent à la poussière. Et alors,
-à ce moment, les enfants sont mûrs pour les petits-enfants et ensuite, ils s’en vont aussi. Mais un
-de ces jours, il y aura une glorieuse résurrection générale. Nous serons tous appelés dans la
-Présence de Dieu pour répondre de ce que nous avons fait avec ce que Dieu nous a donné:
-Jésus-Christ. Aussi, je suis heureux de savoir que j’ai vécu dans cette génération avec de tels
-groupes de charmantes personnes rencontrés autour du monde. Je suis simplement
-
-        http://www.cmpp.ch
-
-D’APRES-VOUS, DE QUOI S’AGIT-IL? 3
-reconnaissant envers Dieu pour cela. Et un jour, lorsque l’appel viendra, je devrai simplement
-retrouver les oeuvres que j’ai faites. Je veux qu’elles soient toutes à la gloire et à l’honneur de
-Dieu.
-8 Il y a tellement de choses que j’aimerais oublier, à l’aube de cette nouvelle année, pourtant je
-sais que je Lui les ai confessées comme des fautes et qu’Il les a jetées dans la Mer de l’Oubli et
-qu’Il ne s’en souviendra jamais plus. Maintenant, vous voyez, nous ne sommes pas faits de cette
-manière car nous nous rappelons toujours. Nous pouvons nous pardonner l’un l’autre, mais nous
-ne pouvons pas oublier car nous sommes faits différemment. Mais Dieu peut pardonner et oublier.
-Il peut simplement effacer ces fautes comme si elles n’avaient jamais existé. Vous voyez? Cela
-parce qu’Il a accès à cette Mer de l’Oubli alors que nous, nous ne l’avons pas. Pensez
-simplement à cela, Dieu ne peut même pas se rappeler que nous ayons jamais péché. Vous
-voyez, Il peut oublier toute la chose et elle ne reviendra plus jamais en mémoire. Ne serait-ce pas
-extraordinaire de pouvoir faire ainsi?
-9 Ce n’est pas ici un endroit pour plaisanter. Je ne crois pas dans ces plaisanteries. Cela me
-rappelle un de mes amis. Il est maintenant parti dans la Gloire. Mais un jour, il m’a raconté une
-petite histoire, celle d’un couple qui avait déménagé de la campagne à la ville. Ce jeune couple
-avait un vieux père et il était vraiment en feu pour Dieu. La jeune femme (c’était son père) avait
-rencontré quelques personnes de la bonne société. Vous savez, là où vous avez toutes ces sortes
-de distractions classiques. Ainsi, ce jour-là, elle était sur le point d’avoir une sorte de réception à la
-maison.
-10 D’habitude, son père, après qu’il ait dîné, prenait sa Bible et allait dans une pièce pour lire un
-moment. Il La posait et il commençait à pleurer, à crier et continuait ainsi… se levait, mettait ses
-lunettes et lisait à nouveau. Ensuite, il trouvait quelque chose, posait ses lunettes et recommençait
-à pleurer et à crier. Elle se disait: «Cela interromprait ma réception, aussi, je devrais faire quelque
-chose avec mon père, mais je ne sais pas quoi faire». Finalement, elle décida de le laisser aller en
-haut et d’occuper la place.
-11 Alors, elle se mit à penser: «Eh bien maintenant, je ne peux pas lui donner sa Bible parce
-qu’il fera la même chose là-haut». Aussi, elle lui donna juste un vieux livre de géographie et
-l’envoya en haut. Elle lui dit: «Papa, regarde les photos du monde entier et toutes ces choses
-pendant que nous aurons la réception». Elle lui dit: «Nous ne serons pas trop longues, nous
-serons… Tu pourras descendre après un moment». Elle ajouta: «Je sais que tu n’aimes pas être
-là où il y a toutes ces femmes».
-12 Il lui dit: «Non, c’est en ordre chérie, je vais monter là-haut».
-13 Elle lui a mis une lumière et a préparé une petite place. Et elle a pensé: «Eh bien, c’est réglé.
-Il va juste regarder les photos et lire un peu de géographie et après… il descendra après un
-moment. Et tout ira bien».
-14 Alors qu’elles étaient en train de boire leur limonade rosée, vous savez, au milieu de leur
-réception… un moment après, la maison commença à trembler et le vieil homme commença à se
-lever, à monter et à descendre l’étage et à crier. Elle pensa: «Que lui arrive-t-il? Il n’avait pas sa
-Bible là-haut. Il doit avoir trouvé une Bible!».
-15 Alors, elle a monté rapidement les escaliers et elle a dit: «Papa, ce n’est pas la Bible que tu
-lis, c’est un livre de géographie».
-16 Il a dit: «Je le sais chérie. Je le sais! Mais, tu sais que l’autre jour je lisais dans la Bible, où
-Jésus a dit qu’Il jetait tous nos péchés dans la Mer de l’Oubli, tu vois, et qu’Il ne se les rappellerait
-même plus. Et je lisais ici, dans le livre de géographie que dans certains endroits, ils ne pouvaient
-même pas trouver le fond de la mer». Il a dit: «Pense simplement qu’ils sont toujours en train de
-tomber».
-17 C’est ce qui le rendait heureux. Vous pouvez donc trouver Dieu partout où vous regardez.
-Vous voyez, si vous regardez autour de vous, chaque chose parlera pour Lui.
-18 Maintenant, en toute sincérité, j’ai demandé au frère Outlaw: «De quoi parlerai-je ce matin?
-Avez-vous déjà donné votre message de Noël?».
+1 Amis, bonjour. Assurément, j'estime que c'est un privilège d'être ici dans cette église. Et pour commencer, j'aime le nom qu'elle porte. Elle s'appelle: «Le Nom de Jésus». J'aime cela et je pense que cela… C'est le Nom par lequel j'ai été racheté, racheté par ce beau Nom du Seigneur Jésus. Et alors, être ici avec mes bons amis, rassemblés ici à Phoenix, en ce beau dimanche matin… Je ne connais pas d'autre place où je préférerais être, à moins que cela ne soit dans la Gloire avec vous tous. Et c'est ce grand événement que nous attendons avec impatience un de ces jours.
+2 Et aujourd'hui, c'est un appel pour les malades qui m'a fait venir ici. J'ai parlé au frère Outlaw, mon précieux ami, qui m'a si gracieusement invité à venir et tous les ministres, ici à Phoenix ont été vraiment bons pour moi.
+3 Je me demande parfois pourquoi j'ai déménagé à Tucson. J'y suis depuis trois ans et je n'ai jamais été invité à une chaire. Aussi, je suppose que j'ai juste à faire ma visite à Phoenix où je me sens le bienvenu. Eh bien, peut-être qu'ils s'habitueront à moi… Vous savez, j'ai prêché là-bas l'autre soir et j'ai prêché pendant trois heures; ce n'est pas étonnant qu'ils ne m'aient pas demandé de revenir.
+4 Mais j'ai un tel sentiment dans mon coeur pour Dieu et Son peuple… Et je suis si lent! J'ai une telle peur d'oublier quelque chose, de ne pas en dire assez, que je mets trois ou quatre messages en un. Aussi, certainement… Je m'excuse de vous avoir gardé si longtemps, vous tous qui étiez là-bas. Je n'aurais pas dû faire cela.
+5 Je suis heureux d'être ici ce matin avec frère Carl Williams, le jeune Jimmy, le choeur et mes amis les frères Mosley; vous voyez Brad, frère John Sharret et beaucoup de mes amis, frère Pat Tyler, du fin fond du Kentucky et encore tellement d'amis simplement réunis dans cette assemblée. Vous voyez, j'ai vu beaucoup de mes amis de Tucson et d'ailleurs, prendre place ici.
+6 Je pense à un jour où tout ceci sera terminé, nous nous rassemblerons alors et nous n'aurons plus jamais à arrêter d'écouter cette belle musique, vous voyez. Je viens juste de remarquer le fils de frère Williams, il se tient là-bas derrière. Il a donné un témoignage l'autre soir, en bas à l'auberge Ramada. Je crois qu'il atteint presque les six pieds de haut. Mais, je vous dis qu'après ce témoignage, je crois qu'il avait atteint les dix pieds. J'ai vraiment apprécié ce que ce garçon a dit, c'était un si merveilleux témoignage!
+7 Quand j'entends ces charmants jeunes garçons témoigner de leur foi centrée en Christ… Je me fais vieux et un de ces jours, je devrai arrêter et partir à la Maison. Et vous voyez arriver ces charmants jeunes garçons, qui sont prêts et qui se préparent eux-mêmes pour poursuivre là où je m'arrête… et c'est de cette manière que nous faisons. C'est de cette manière que la vie est conçue, une génération montera. Père et mère, ils élèvent leurs petits, les voient se marier et arrivent les petits-enfants. Et après un temps, papa et maman retournent à la poussière. Et alors, à ce moment, les enfants sont mûrs pour les petits-enfants et ensuite, ils s'en vont aussi. Mais un de ces jours, il y aura une glorieuse résurrection générale. Nous serons tous appelés dans la Présence de Dieu pour répondre de ce que nous avons fait avec ce que Dieu nous a donné: Jésus-Christ. Aussi, je suis heureux de savoir que j'ai vécu dans cette génération avec de tels groupes de charmantes personnes rencontrés autour du monde. Je suis simplement reconnaissant envers Dieu pour cela. Et un jour, lorsque l'appel viendra, je devrai simplement retrouver les oeuvres que j'ai faites. Je veux qu'elles soient toutes à la gloire et à l'honneur de Dieu.
+8 Il y a tellement de choses que j'aimerais oublier, à l'aube de cette nouvelle année, pourtant je sais que je Lui les ai confessées comme des fautes et qu'Il les a jetées dans la Mer de l'Oubli et qu'Il ne s'en souviendra jamais plus. Maintenant, vous voyez, nous ne sommes pas faits de cette manière car nous nous rappelons toujours. Nous pouvons nous pardonner l'un l'autre, mais nous ne pouvons pas oublier car nous sommes faits différemment. Mais Dieu peut pardonner et oublier. Il peut simplement effacer ces fautes comme si elles n'avaient jamais existé. Vous voyez? Cela parce qu'Il a accès à cette Mer de l'Oubli alors que nous, nous ne l'avons pas. Pensez simplement à cela, Dieu ne peut même pas se rappeler que nous ayons jamais péché. Vous voyez, Il peut oublier toute la chose et elle ne reviendra plus jamais en mémoire. Ne serait-ce pas extraordinaire de pouvoir faire ainsi?
+9 Ce n'est pas ici un endroit pour plaisanter. Je ne crois pas dans ces plaisanteries. Cela me rappelle un de mes amis. Il est maintenant parti dans la Gloire. Mais un jour, il m'a raconté une petite histoire, celle d'un couple qui avait déménagé de la campagne à la ville. Ce jeune couple avait un vieux père et il était vraiment en feu pour Dieu. La jeune femme (c'était son père) avait rencontré quelques personnes de la bonne société. Vous savez, là où vous avez toutes ces sortes de distractions classiques. Ainsi, ce jour-là, elle était sur le point d'avoir une sorte de réception à la maison.
+10 D'habitude, son père, après qu'il ait dîné, prenait sa Bible et allait dans une pièce pour lire un moment. Il La posait et il commençait à pleurer, à crier et continuait ainsi… se levait, mettait ses lunettes et lisait à nouveau. Ensuite, il trouvait quelque chose, posait ses lunettes et recommençait à pleurer et à crier. Elle se disait: «Cela interromprait ma réception, aussi, je devrais faire quelque chose avec mon père, mais je ne sais pas quoi faire». Finalement, elle décida de le laisser aller en haut et d'occuper la place.
+11 Alors, elle se mit à penser: «Eh bien maintenant, je ne peux pas lui donner sa Bible parce qu'il fera la même chose là-haut». Aussi, elle lui donna juste un vieux livre de géographie et l'envoya en haut. Elle lui dit: «Papa, regarde les photos du monde entier et toutes ces choses pendant que nous aurons la réception». Elle lui dit: «Nous ne serons pas trop longues, nous serons… Tu pourras descendre après un moment». Elle ajouta: «Je sais que tu n'aimes pas être là où il y a toutes ces femmes».
+12 Il lui dit: «Non, c'est en ordre chérie, je vais monter là-haut».
+13 Elle lui a mis une lumière et a préparé une petite place. Et elle a pensé: «Eh bien, c'est réglé. Il va juste regarder les photos et lire un peu de géographie et après… il descendra après un moment. Et tout ira bien».
+14 Alors qu'elles étaient en train de boire leur limonade rosée, vous savez, au milieu de leur réception… un moment après, la maison commença à trembler et le vieil homme commença à se lever, à monter et à descendre l'étage et à crier. Elle pensa: «Que lui arrive-t-il? Il n'avait pas sa Bible là-haut. Il doit avoir trouvé une Bible!».
+15 Alors, elle a monté rapidement les escaliers et elle a dit: «Papa, ce n'est pas la Bible que tu lis, c'est un livre de géographie».
+16 Il a dit: «Je le sais chérie. Je le sais! Mais, tu sais que l'autre jour je lisais dans la Bible, où Jésus a dit qu'Il jetait tous nos péchés dans la Mer de l'Oubli, tu vois, et qu'Il ne se les rappellerait même plus. Et je lisais ici, dans le livre de géographie que dans certains endroits, ils ne pouvaient même pas trouver le fond de la mer». Il a dit: «Pense simplement qu'ils sont toujours en train de tomber».
+17 C'est ce qui le rendait heureux. Vous pouvez donc trouver Dieu partout où vous regardez. Vous voyez, si vous regardez autour de vous, chaque chose parlera pour Lui.
+18 Maintenant, en toute sincérité, j'ai demandé au frère Outlaw: «De quoi parlerai-je ce matin? Avez-vous déjà donné votre message de Noël?».
      Il a dit: «Oui».
-     J’ai dit: «Votre message de la Nouvelle Année?».
-
-        http://www.cmpp.ch
-
-D’APRES-VOUS, DE QUOI S’AGIT-IL? 4
+     J'ai dit: «Votre message de la Nouvelle Année?».
      — «Non».
-19 Aussi, j’ai ici quelques ébauches à propos de mon message de la Nouvelle Année pour le cas
-où je serais invité quelque part. Mais j’ai pensé que je laisserais cela au frère Outlaw pour son
-message la semaine prochaine.
-20 J’ai donc réfléchi pour écrire ici un petit texte qui va nous occuper quelques minutes, Dieu
-voulant. Et nous avons l’assurance qu’Il va nous bénir. J’aimerais remercier frère Outlaw et cette
-église pour m’avoir invité à parler ici. Frère Outlaw disait que: «Notre amitié n’a jamais été flétrie».
-C’est la grâce de Dieu qui nous a gardé tout au long de ces années. La première église qui m’ait
-invité et dans laquelle je suis venu, c’était ici à Phoenix.
-21 Je crois que maintenant je vois ici le frère Trow. Je ne suis pas sûr… il est devant. Je crois
-qu’il y était déjà à cette époque. J’ai des petites choses qu’il m’a données à ce moment; petites…
-elles ont été moulées ou quelque chose comme cela. Vous savez, des petites choses en étain,
-d’ici, d’où vous venez. Est-ce que c’est vrai, frère Trow? Et vous, regardez autour de vous… Je
-me demande comment cela sera ce matin-là lorsque vous passerez de l’autre côté, vous savez, et
-que vous verrez les gens… Ils disent: «Eh bien…». Vous savez, nous serons alors si différents de
-maintenant. Nous serons… c’est vrai! Nous n’aurons aucune marque de péché ou de vieillesse.
-Nous serons parfaits. Oh, j’attends ce temps avec impatience où toutes les difficultés seront
-terminées. Pas vous?
-22 Et maintenant, je sens que j’ai un Message de Dieu. Je ne veux pas être différent, mais je
-dois être honnête. Et si je ne dis pas mes convictions, alors, vous ne pourriez pas avoir confiance
-en moi, parce que je serais plus comme un traître ou un hypocrite. Et je veux être tout autre chose
-que cela, vous voyez? Je risque de perdre quelques amis sur terre, mais je veux rester vrai par
-rapport à mes convictions, à ce que je pense qui est juste.
-23 Maintenant, c’était très facile quand j’ai débuté il y a bien des années. Avec les signes, le
-message et les prédications, partout il y avait des bras ouverts, «Viens!, Viens!, Viens!». Mais
-alors, vous constatez que chaque véritable signe de Dieu a un Message, une Voix. Vous voyez,
-cela Le suit. Si cela ne le suit pas… Dieu ne donne rien comme cela, juste pour le plaisir de le
-donner. Il envoie quelque chose en avant pour attirer l’attention sur ce qu’Il se prépare à dire.
-C’est comme le chant merveilleux qui a été donné par le choeur. Qu’est-ce que cela fait? Cela
-calme les gens et les prépare pour le message qui va être donné.
-24 C’est ce que fait un signe. Moïse avait les signes dont nous avons parlé l’autre soir, et ces
-signes avaient des Voix. Et quand la Voix parlait… Jésus a aussi commencé en guérissant les
-malades — Il était un grand Homme. Mais quand le temps fut venu que ce Prophète, là sur la
-terre, faisait des signes (ils n’avaient pas eu un prophète depuis 400 ans), alors Il était «un bon
-camarade», chacun Le voulait. Mais quand le Message qui suivait ce signe (la Voix)… lorsqu’Il
-s’assit un jour et qu’Il dit: “Le Père et Moi sommes un”. Oh, mes amis, c’était quelque chose de
-différent. Ils ne voulaient pas de cela. Vous voyez?
-25 Le monde est exactement comme cela mes amis? Tout ce qu’ils peuvent avoir, s’ils peuvent
-l’avoir, ils l’utilisent pour s’aider eux-mêmes, vous voyez… Ils sont d’accord avec cela aussi
-longtemps que cela ne les gêne pas, c’est pourquoi ils le font. Mais lorsque le temps vient où ils
-doivent changer leurs idées à propos des choses, alors viennent les problèmes.
-26 Maintenant, vous voyez, nous construisons un bâtiment, un bâtiment, non un mur. Les
-constructeurs veulent prendre une ligne de blocs et aller tout droit. N’importe quel maçon peut
-faire cela. Mais pour réaliser un angle, cela requiert de réelles compétences techniques, vous
-voyez? Alors, si vous devez réaliser un angle, cela prend du temps… cela montre si vraiment vous
-êtes oui ou non un véritable maçon lorsque vous réussissez à réaliser un contour et à maintenir la
-continuité avec le reste du bâtiment… réaliser un angle… Maintenant, les difficultés viennent à
-l’occasion de ces angles. Les maçons veulent continuer à construire en ligne droite. Mais nous ne
-construisons pas un mur, mais un bâtiment.
-27 Maintenant, lorsque nous approcherons cela ce matin, priez pour moi. Je prie toujours pour
-vous. Et maintenant, inclinons nos têtes un moment, dans la Présence de notre Glorieux Dieu
-Jehovah. Chacun d’entre nous réalise son insuffisance. Et il n’y en a aucun qui est sans besoins.
-Je me demande, pendant que nous prions s’il n’y a pas quelques-uns d’entre vous qui ont un
-besoin spécial.
-
-        http://www.cmpp.ch
-
-D’APRES-VOUS, DE QUOI S’AGIT-IL? 5
-28 Vous savez, le Dieu infini, comme je l’ai dit à Phoenix l’autre jour lors de la réunion… c’est
-comme lorsque cela vient à la télévision… Christ est ici dans le bâtiment, maintenant. Vous voyez,
-chaque mouvement que vous faites, chaque battement de cil, cela ne meurt jamais. C’est dans les
-ondes éthérées de l’air. La télévision ne fabrique pas cela, elle attrape juste vos ondes et les
-produit sur un écran. C’est présent de toute façon. Cela a toujours été là. Chaque mouvement que
-vous faites reste “toujours vivant dans l’air”. Maintenant, vous voyez tout ce sur quoi nous allons
-être jugés au jugement dernier?
-29 Ainsi, Dieu est ici de la même manière. Nous ne Le voyons pas, tout comme nous ne voyons
-pas ces images de télévision. Un certain tube ou un cristal ou quelque chose comme cela est
-nécessaire pour capter la voix, reproduire l’image et ainsi de suite. C’était déjà là lorsqu’Adam
-était sur terre, mais nous venons juste de le localiser. Dieu est ici ce matin. Et un de ces jours
-dans le Millénium, nous réaliserons qu’Il était ici dans cette réunion, ce matin. Cela sera
-simplement plus réel que la télévision ou que ces autres choses.
-30 Maintenant, dans cette pensée, gardez dans votre coeur ce dont vous avez besoin et levez
-simplement votre main vers Lui. Voulez-vous le faire? Dites: «Seigneur…» et dans votre coeur,
-considérez cette pensée.
-31 Maintenant, Père céleste, nous avons seulement cette unique approche, et c’est par le moyen
-de la prière. Nous venons dans le Nom du Seigneur Jésus. Nous ne sommes pas dignes
-d’exprimer ou d’employer le Nom. Nous ne sommes pas… D’aucune façon, nous ne pensons que
-nous en sommes dignes, mais c’est parce que nous sommes invités à le faire. Et sachant,
-qu’Il a dit: “Si vous demandez au Père quoi que ce soit en Mon Nom, Il vous l’accordera”. Si
-seulement notre foi pouvait se tenir derrière cela, sur Sa Parole, sur ce qu’Il est, nous serions
-alors certains d’obtenir ce que nous demandons. Tu as vu chaque demande. Tu as vu ma main.
-Tu connais ma requête.
-32 Et Père, je prie pour chacun d’entre eux et pour chaque chose dont ils ont besoin… Seigneur,
-je ne crois pas qu’un tel groupe demande quelque chose de faux. Cela peut être quelque chose
-pour l’avancement de leur royaume, pour leur propre guérison ou pour leur propre entendement.
-En faisant cela, ils souhaiteraient faire avancer le Royaume de Dieu.
-33 Et je Te prie, Dieu, pour que tu exauces chaque requête. Bénis cette église, son pasteur, ses
-associés et les diacres, administrateurs, tous ses membres, les visiteurs et les étrangers. Ils ne
-sont pas des étrangers, Seigneur. Nous sommes tous Tes enfants par grâce et par Christ. Et nous
-prions pour que Tu nous donnes ce matin le Pain de Vie. Maintenant que nous puissions partir
-d’ici avec la certitude que ces requêtes que nous avons présentées nous ont été accordées.
-34 Bénis la Parole, Seigneur, quand je La lirai. Il n’y a aucun homme qui a été capable ou
-suffisant pour interpréter cette Parole. Jean a vu le Livre dans la main de Celui qui était assis sur
-le trône, et il n’y avait personne dans le ciel ou sur la terre ou en-dessous de la terre qui était
-digne, même de regarder le Livre. Mais un des anciens a dit: “Voici le Lion de la Tribu de Juda a
-vaincu”. Jean cherchait à voir un lion, il a vu un Agneau qui avait été tué, un Agneau ensanglanté
-qui s’est avancé et a pris le Livre et est monté sur le Trône et s’est assis. Et toutes les célébrités
-des Cieux ont enlevé leurs couronnes de leurs têtes et se sont inclinées, sachant qu’Il était digne.
-35 Seigneur, nous prions pour qu’Il vienne au Trône de nos coeurs ce matin, qu’Il grimpe et
-prenne possession de chaque pensée que nous avons et qu’Il prenne la Parole et nous parle afin
-que nous en connaissions davantage à Son sujet et en ce qui concerne Son plan dans nos vies.
-Nous le demandons dans le Nom de Jésus. Amen.
-36 Maintenant, si vous voulez bien regarder dans la Bible… L’Ecriture est trouvée dans Matthieu,
-chapitre 21, et commence avec le… Je crois que nous avons lu le verset 10 et 11 du chapitre 21
-de Matthieu. Soyez gentils de lire ce chapitre lorsque vous arriverez à la maison, si vous ne l’avez
-pas lu lors de ces vacances. C’est très bien. Tout est bien. Tout spécialement pour cette saison
-avec le Message que j’espère le Saint-Esprit me laissera vous apporter ce matin.
+19 Aussi, j'ai ici quelques ébauches à propos de mon message de la Nouvelle Année pour le cas où je serais invité quelque part. Mais j'ai pensé que je laisserais cela au frère Outlaw pour son message la semaine prochaine.
+20 J'ai donc réfléchi pour écrire ici un petit texte qui va nous occuper quelques minutes, Dieu voulant. Et nous avons l'assurance qu'Il va nous bénir. J'aimerais remercier frère Outlaw et cette église pour m'avoir invité à parler ici. Frère Outlaw disait que: «Notre amitié n'a jamais été flétrie». C'est la grâce de Dieu qui nous a gardé tout au long de ces années. La première église qui m'ait invité et dans laquelle je suis venu, c'était ici à Phoenix.
+21 Je crois que maintenant je vois ici le frère Trow. Je ne suis pas sûr… il est devant. Je crois qu'il y était déjà à cette époque. J'ai des petites choses qu'il m'a données à ce moment; petites… elles ont été moulées ou quelque chose comme cela. Vous savez, des petites choses en étain, d'ici, d'où vous venez. Est-ce que c'est vrai, frère Trow? Et vous, regardez autour de vous… Je me demande comment cela sera ce matin-là lorsque vous passerez de l'autre côté, vous savez, et que vous verrez les gens… Ils disent: «Eh bien…». Vous savez, nous serons alors si différents de maintenant. Nous serons… c'est vrai! Nous n'aurons aucune marque de péché ou de vieillesse. Nous serons parfaits. Oh, j'attends ce temps avec impatience où toutes les difficultés seront terminées. Pas vous?
+22 Et maintenant, je sens que j'ai un Message de Dieu. Je ne veux pas être différent, mais je dois être honnête. Et si je ne dis pas mes convictions, alors, vous ne pourriez pas avoir confiance en moi, parce que je serais plus comme un traître ou un hypocrite. Et je veux être tout autre chose que cela, vous voyez? Je risque de perdre quelques amis sur terre, mais je veux rester vrai par rapport à mes convictions, à ce que je pense qui est juste.
+23 Maintenant, c'était très facile quand j'ai débuté il y a bien des années. Avec les signes, le message et les prédications, partout il y avait des bras ouverts, «Viens!, Viens!, Viens!». Mais alors, vous constatez que chaque véritable signe de Dieu a un Message, une Voix. Vous voyez, cela Le suit. Si cela ne le suit pas… Dieu ne donne rien comme cela, juste pour le plaisir de le donner. Il envoie quelque chose en avant pour attirer l'attention sur ce qu'Il se prépare à dire. C'est comme le chant merveilleux qui a été donné par le choeur. Qu'est-ce que cela fait? Cela calme les gens et les prépare pour le message qui va être donné.
+24 C'est ce que fait un signe. Moïse avait les signes dont nous avons parlé l'autre soir, et ces signes avaient des Voix. Et quand la Voix parlait… Jésus a aussi commencé en guérissant les malades — Il était un grand Homme. Mais quand le temps fut venu que ce Prophète, là sur la terre, faisait des signes (ils n'avaient pas eu un prophète depuis 400 ans), alors Il était «un bon camarade», chacun Le voulait. Mais quand le Message qui suivait ce signe (la Voix)… lorsqu'Il s'assit un jour et qu'Il dit: “Le Père et Moi sommes un”. Oh, mes amis, c'était quelque chose de différent. Ils ne voulaient pas de cela. Vous voyez?
+25 Le monde est exactement comme cela mes amis? Tout ce qu'ils peuvent avoir, s'ils peuvent l'avoir, ils l'utilisent pour s'aider eux-mêmes, vous voyez… Ils sont d'accord avec cela aussi longtemps que cela ne les gêne pas, c'est pourquoi ils le font. Mais lorsque le temps vient où ils doivent changer leurs idées à propos des choses, alors viennent les problèmes.
+26 Maintenant, vous voyez, nous construisons un bâtiment, un bâtiment, non un mur. Les constructeurs veulent prendre une ligne de blocs et aller tout droit. N'importe quel maçon peut faire cela. Mais pour réaliser un angle, cela requiert de réelles compétences techniques, vous voyez? Alors, si vous devez réaliser un angle, cela prend du temps… cela montre si vraiment vous êtes oui ou non un véritable maçon lorsque vous réussissez à réaliser un contour et à maintenir la continuité avec le reste du bâtiment… réaliser un angle… Maintenant, les difficultés viennent à l'occasion de ces angles. Les maçons veulent continuer à construire en ligne droite. Mais nous ne construisons pas un mur, mais un bâtiment.
+27 Maintenant, lorsque nous approcherons cela ce matin, priez pour moi. Je prie toujours pour vous. Et maintenant, inclinons nos têtes un moment, dans la Présence de notre Glorieux Dieu Jehovah. Chacun d'entre nous réalise son insuffisance. Et il n'y en a aucun qui est sans besoins. Je me demande, pendant que nous prions s'il n'y a pas quelques-uns d'entre vous qui ont un besoin spécial.
+28 Vous savez, le Dieu infini, comme je l'ai dit à Phoenix l'autre jour lors de la réunion… c'est comme lorsque cela vient à la télévision… Christ est ici dans le bâtiment, maintenant. Vous voyez, chaque mouvement que vous faites, chaque battement de cil, cela ne meurt jamais. C'est dans les ondes éthérées de l'air. La télévision ne fabrique pas cela, elle attrape juste vos ondes et les produit sur un écran. C'est présent de toute façon. Cela a toujours été là. Chaque mouvement que vous faites reste “toujours vivant dans l'air”. Maintenant, vous voyez tout ce sur quoi nous allons être jugés au jugement dernier?
+29 Ainsi, Dieu est ici de la même manière. Nous ne Le voyons pas, tout comme nous ne voyons pas ces images de télévision. Un certain tube ou un cristal ou quelque chose comme cela est nécessaire pour capter la voix, reproduire l'image et ainsi de suite. C'était déjà là lorsqu'Adam était sur terre, mais nous venons juste de le localiser. Dieu est ici ce matin. Et un de ces jours dans le Millénium, nous réaliserons qu'Il était ici dans cette réunion, ce matin. Cela sera simplement plus réel que la télévision ou que ces autres choses.
+30 Maintenant, dans cette pensée, gardez dans votre coeur ce dont vous avez besoin et levez simplement votre main vers Lui. Voulez-vous le faire? Dites: «Seigneur…» et dans votre coeur, considérez cette pensée.
+31 Maintenant, Père céleste, nous avons seulement cette unique approche, et c'est par le moyen de la prière. Nous venons dans le Nom du Seigneur Jésus. Nous ne sommes pas dignes d'exprimer ou d'employer le Nom. Nous ne sommes pas… D'aucune façon, nous ne pensons que nous en sommes dignes, mais c'est parce que nous sommes invités à le faire. Et sachant, qu'Il a dit: “Si vous demandez au Père quoi que ce soit en Mon Nom, Il vous l'accordera”. Si seulement notre foi pouvait se tenir derrière cela, sur Sa Parole, sur ce qu'Il est, nous serions alors certains d'obtenir ce que nous demandons. Tu as vu chaque demande. Tu as vu ma main. Tu connais ma requête.
+32 Et Père, je prie pour chacun d'entre eux et pour chaque chose dont ils ont besoin… Seigneur, je ne crois pas qu'un tel groupe demande quelque chose de faux. Cela peut être quelque chose pour l'avancement de leur royaume, pour leur propre guérison ou pour leur propre entendement. En faisant cela, ils souhaiteraient faire avancer le Royaume de Dieu.
+33 Et je Te prie, Dieu, pour que tu exauces chaque requête. Bénis cette église, son pasteur, ses associés et les diacres, administrateurs, tous ses membres, les visiteurs et les étrangers. Ils ne sont pas des étrangers, Seigneur. Nous sommes tous Tes enfants par grâce et par Christ. Et nous prions pour que Tu nous donnes ce matin le Pain de Vie. Maintenant que nous puissions partir d'ici avec la certitude que ces requêtes que nous avons présentées nous ont été accordées.
+34 Bénis la Parole, Seigneur, quand je La lirai. Il n'y a aucun homme qui a été capable ou suffisant pour interpréter cette Parole. Jean a vu le Livre dans la main de Celui qui était assis sur le trône, et il n'y avait personne dans le ciel ou sur la terre ou en-dessous de la terre qui était digne, même de regarder le Livre. Mais un des anciens a dit: “Voici le Lion de la Tribu de Juda a vaincu”. Jean cherchait à voir un lion, il a vu un Agneau qui avait été tué, un Agneau ensanglanté qui s'est avancé et a pris le Livre et est monté sur le Trône et s'est assis. Et toutes les célébrités des Cieux ont enlevé leurs couronnes de leurs têtes et se sont inclinées, sachant qu'Il était digne.
+35 Seigneur, nous prions pour qu'Il vienne au Trône de nos coeurs ce matin, qu'Il grimpe et prenne possession de chaque pensée que nous avons et qu'Il prenne la Parole et nous parle afin que nous en connaissions davantage à Son sujet et en ce qui concerne Son plan dans nos vies. Nous le demandons dans le Nom de Jésus. Amen.
+36 Maintenant, si vous voulez bien regarder dans la Bible… L'Ecriture est trouvée dans Matthieu, chapitre 21, et commence avec le… Je crois que nous avons lu le verset 10 et 11 du chapitre 21 de Matthieu. Soyez gentils de lire ce chapitre lorsque vous arriverez à la maison, si vous ne l'avez pas lu lors de ces vacances. C'est très bien. Tout est bien. Tout spécialement pour cette saison avec le Message que j'espère le Saint-Esprit me laissera vous apporter ce matin.
 37 Observez le verset 10 pendant que nous le lisons et le verset 11:
         “Et comme il entrait dans Jérusalem, toute la ville fut émue, disant: Qui est celui-ci?
      Et les foules disaient: Celui-ci est Jésus, le prophète, qui est de Nazareth de Galilée”.
-     Maintenant, laissons Dieu ajouter à Sa Parole le contexte de l’Ecriture qui a été lue.
-
-        http://www.cmpp.ch
-
-D’APRES-VOUS, DE QUOI S’AGIT-IL? 6
-38 Maintenant, nous savons de quel temps il s’agit, et beaucoup d’entre vous sont familiers avec
-l’Ecriture de ce chapitre-ci. C’est réellement le jour où Christ est entré dans Jérusalem, sur le dos
-de ce petit âne… Il y a une légende qui dit: “que c’était un âne blanc”. J’imagine que cela préfigure
-Sa seconde venue sur un cheval de bataille. Cette fois, le prophète a dit qu’Il monterait… Votre
-Roi vient à vous sur le petit d’un âne et Il est humble et doux. C’est de cette façon qu’Il est venu,
-sur un petit âne, un petit porteur de fardeaux. Mais la prochaine fois, Il viendra dans la Gloire
-(dans l’Apocalypse, chapitre 19), Il viendra comme un Puissant Conquérant, Son vêtement trempé
-dans le sang, monté sur un cheval blanc et toute l’armée des Cieux le suivant sur des chevaux
-blancs. Et la légende (pas scripturaire ou historique)… mais la légende croit qu’Il montait un petit
-âne blanc lorsqu’Il est entré dans Jérusalem.
-39 Maintenant, j’ai choisi cela parce que nous sommes dans les ombres du temps de la saison
-des fêtes de Noël et de la Nouvelle Année; la fin d’une année et la naissance d’une nouvelle. Dans
-quelques jours beaucoup de gens vont tourner une nouvelle page, faire de nouvelles choses et
-faire de nouveaux voeux. C’est le commencement d’une Nouvelle Année. Et cela ne me semble
-pas trop comme étant Noël. Je ne sais pas pourquoi. J’ai toujours aimé l’appeler «le jour du “Père
-Noël”». Vous voyez? Parce qu’il n’y a pas vraiment…
-40 Cela ne pouvait pas être le jour de la naissance de Christ. Cela ne pouvait simplement pas
-l’être. Il aurait dû naître en mars ou en avril, parce qu’Il était l’Agneau. Il était un agneau mâle, né
-sous Ariès, le bélier. Cela devait l’être, vous voyez. Et les agneaux ne naissent pas en décembre
-de toute façon. Les agneaux naissent au printemps. Encore une autre chose maintenant, les
-collines de Juda, ont vingt pieds de neige. Comment les bergers auraient-ils pu être là-bas
-dehors?
-41 Ainsi, cela vient vraiment de la mythologie romaine, le jour d’anniversaire du dieu soleil. Dans
-le système solaire, lorsque le temps avance, les jours s’allongent et s’allongent… et les nuits
-deviennent plus courtes. Et selon la mythologie romaine, entre le 20 et le 25 décembre, c’est
-l’anniversaire du dieu soleil. Alors ils célébraient l’anniversaire du dieu soleil. Avec Constantin, ils
-rédigèrent la constitution de l’église d’état et ainsi de suite. Il a dit: «Nous le changerons (ne
-sachant pas quel jour c’était) et le mettrons au jour de l’anniversaire du dieu soleil et nous le
-ferons: anniversaire du Fils de Dieu». Vous voyez? Mais nous ne savons pas quel jour c’était.
-42 Aujourd’hui, ils ont tellement tiré Christ dehors que c’est n’importe quoi… Quelqu’un a à
-nouveau ramené de la mythologie — de la mythologie allemande —, une créature qui vivait, on le
-suppose, sous le nom de Saint Nicolas ou de Kriss Kringle. Et tout cela est juste un mythe et
-Christ ne s’y trouve pas du tout.
-43 Et les gens ont tourné cela en fêtes d’achats, d’habits à la mode, de jeux et de whisky. Et un
-commerçant qui peut vendre ses marchandises lors de la période de Noël peut pratiquement vivre
-tout le reste de l’année. Vous voyez? Ce sont de grandes vacances commerciales. Et les pauvres
-petits enfants dans la rue… leur parenté ne peut pas les visiter avec un présent, comme fait le
-“Père Noël”. Et ils marchent en descendant la rue, avec leurs petites mains sales et leurs petits
-yeux rougis. Je déteste simplement voir venir cette période. Cela devrait être un jour solennel
-d’adoration de Dieu au lieu des maux de coeur, de tête et autres. Il n’y a rien de Christ là-dedans.
-Mais nous sommes maintenant en plein milieu de cela.
-44 Nous nous trouvons nous-mêmes à peu près comme ils se trouvaient alors. Vous voyez, c’est
-juste le début d’une grande fête. Jésus venait à la fête de Pâques. Et il était entré dans
-Jérusalem… ou plutôt Il entrait dans Jérusalem. Et toutes les prophéties de ce qu’Il avait fait
-devaient être accomplies. Chaque chose dans la Bible a une signification. Chaque nom a une
-signification. Il n’y a rien d’écrit dans l’Ecriture qui n’ait pas une profonde signification.
-45 J’ai parlé l’autre soir à Tucson, sur: Pourquoi cela devait-il être des bergers plutôt que des
-théologiens? Il est né juste à côté de l’église. Et le Saint-Esprit est allé dans les lieux sauvages et
-a pris, non pas des théologiens, mais des bergers. Cela devait être de cette manière. Les
-théologiens n’auraient pas cru un tel Message. Aussi, cela devait être des bergers.
-46 J’ai prêché ici, il y a quelques années (il y a deux ans): Pourquoi cela devait-il être la petite
-Bethléem? Dieu voulant, Noël prochain j’aimerais que nous prêchions sur: Pourquoi cela devait-il
-être des mages? Ces «pourquoi» ont des réponses pour eux et elles sont juste ici, dans la Bible.
-Et nous vivons dans un temps merveilleux, le plus grand temps de tous les âges. Nous vivons où
-à tout moment, le temps peut s’arrêter et l’Eternité se fondre dans l’instant présent et
-
-        http://www.cmpp.ch
-
-    D’APRES-VOUS, DE QUOI S’AGIT-IL?                      7
-continuer. Les âges dont tous les prophètes et les hommes sages attendaient… Nous
-devrions être sur nos gardes à chaque heure, veillant sur Sa venue.
-47 Nous nous trouvons nous-mêmes à ce Noël, à peu près comme eux, lors de leur premier
-Noël. Le monde est juste prêt à tomber en morceaux, comme j’ai prêché une fois, quelque part,
-sur: Le monde tombe en morceaux. Et à nouveau, le monde est prêt à tomber en morceaux.
-Regardez les tremblements de terre ici, en Californie. Je prédis qu’avant la venue du
-Seigneur Jésus, ce Dieu va engloutir cette place. Je crois que Dieu va couler Hollywood,
-Los Angeles et ces places souillées là-bas. Elles iront au fond de la mer. Il y a tellement de
-péchés, vous voyez, c’est la barrière: l’obstacle.
-48 La civilisation a voyagé avec le soleil et elle a commencé à l’est, allant vers l’ouest. Et
-maintenant, c’est sur la Côte Ouest. Si elle va plus loin, elle reviendra à nouveau à l’Est. C’est cela
-la barrière. Et le péché a voyagé avec la civilisation et elle devient la fosse septique de tous les
-âges. Aucun des êtres humains des autres âges n’aurait imaginé les choses qu’ils font
-aujourd’hui. Les femmes se sont jetées dans des souillures telles qu’aucune femme d’un autre
-âge aurait pu imaginer que de telles choses puissent se faire aujourd’hui. Et nous nous appelons
-toujours Chrétiens. Quelle disgrâce!
-49 Pas étonnant que le grand prophète se soit levé et ait dit: “Et je n’étais pas un prophète, et je
-n’étais pas fils d’un prophète, mais…”. [Amos 7.14 — N.d.R.]. Il a dit: “Le lion a rugi, qui n’aura pas
-peur? Le Seigneur, l’Eternel a parlé et qui ne prophétisera?”. [Amos 3.8 — N.d.R.] Vous voyez, il y
-a quelque chose qui est appelé à sortir.
-50 Nous sommes dans une heure critique, le monde l’est. Mais l’Eglise, la véritable église, pas la
-dénomination, mais l’Eglise Elle-même est prête pour le plus grand triomphe qu’Il ait jamais fait: la
-venue de l’Epoux vers l’Epouse.
-51 Nous nous détachons, cherchant un messie (quelque chose) qui vienne et nous sauve et qui
-nous tire de là. Nous regardons les troubles là-bas à l’Est. Nous regardons les soulèvements en
-Afrique et les problèmes raciaux, l’intégration et les ségrégations. Et nous, ici, nous étions tous
-agités et énervés il n’y a pas si longtemps à propos de nos amis de couleur. «Nous devons avoir,
-nous devons obtenir l’intégration. C’est ce dont nous avons besoin. Nous devons avoir
-l’intégration; que chaque homme soit égal, chaque homme puisse emprunter…». C’est
-parfaitement en ordre. C’est parfaitement en ordre. Je ne crois pas à l’esclavage. Ces gens
-n’étaient pas des esclaves au commencement. Ils n’étaient pas esclaves.
-52 Dieu est un ségrégationniste. Je le suis aussi. Chaque Chrétien est une ségrégation. Dieu
-sépare Son peuple de tous les autres peuples. Il y a toujours eu une ségrégation. Il choisit une
-nation. Il choisit un peuple. Il est un ségrégationniste. Il a fait toutes les nations. Dans les faits, un
-véritable Chrétien doit être un ségrégationniste, se séparant lui-même des choses du monde et de
-tout le reste, pour venir à un seul but, Jésus-Christ.
-53 Mais ils sont contre cela. J’ai essayé de leur dire: «Ce n’est pas cette chose qui va sauver
-notre nation. C’est seulement un plan politique. C’est une chose venant du communisme». Je
-crois que Martin Luther King va conduire son peuple dans le plus grand carnage et massacre
-qu’ils n’ont jamais eus. Nous leur donnons l’intégration et maintenant c’est pire qu’avant! Vous
-voyez, cela ne va pas rassembler le monde. Cela ne va pas nous sauver. Vous voyez, ce n’est
-pas la question. Il y a une seule chose qui sauve: c’est Dieu. Et ils ne Le veulent pas,
-certainement pas.
-54 Ils ne L’ont pas voulu à ce moment-là. Ils étaient en train de se désagréger, et leur politique
-tombait en ruine et leur nation se détruisait, leur église se brisait et ils criaient pour un Messie, ils
-Le voulaient: “Oh, envoie-nous un Messie”. Mais quand Il est venu…
-55 Dieu donne la réponse à votre prière. Vous avez demandé et vous recevrez. Je pourrais
-m’arrêter ici pendant des heures, au sujet des hommes, des femmes, même des Chrétiens, qui
-prient pour quelque chose. Dieu donne la réponse et ils ne la reconnaissent même pas.
-56 Et maintenant, Dieu leur a donné la réponse. Ils voulaient un Messie. Ils savaient qu’ils
-avaient des Césars, qu’ils avaient eu des David, des Salomon (l’homme sage). Ils avaient eu des
-David (le puissant guerrier). Ils en avaient eu de toutes sortes, mais ils savaient qu’ils devaient
-recevoir le secours du Ciel. Dieu leur avait promis un Messie et Il leur envoya ce Messie, en
-réponse à leurs prières, mais ils ne voulurent pas de Lui.
-
-                                        http://www.cmpp.ch
-
-D’APRES-VOUS, DE QUOI S’AGIT-IL? 8
-57 Je me demande aujourd’hui si nos prières… Vous les entendez dire: «Priez pour un grand
-réveil. Priez pour cela. Priez pour une percée. Priez pour l’unité». Si Dieu envoyait un tel
-programme, je me demande si nous l’accepterions. Je me demande juste si nous accepterions
-ce qu’Il nous envoie. Vous voyez, la raison pour laquelle nous prions pour ces choses,
-c’est parce que nous savons que c’est un besoin. Mais quand Dieu l’envoie à Sa manière,
-alors, ce n’est pas forcément en accord avec notre goût et nous ne voulons pas le recevoir.
-Et c’est comme cela que les choses étaient en ce jour. S’Il n’était pas dans le goût de leur
-croyance… Ils ne voudraient pas non plus Le recevoir aujourd’hui. C’est la raison pour laquelle ils
-ont posé cette question: «Qui est-Il?». «Qui est ce type qui vient?». Vous voyez, c’était un temps
-extraordinaire. Oh, tout le monde était sous tension. Quelque chose était sur le point d’arriver.
-58 Et regardez au monde d’aujourd’hui, sous quelle tension le monde entier vit. Vous descendez
-la rue… C’est même dangereux de conduire. Il n’y a même pas de sécurité sur une autoroute à
-quatre pistes. Tout le monde est à cran, poussant des coups de gueule… De quoi s’agit-il?
-Calmez-vous. Où allez-vous? C’est ce qui remplit les institutions de fous. C’est ce qui a conduit
-l’église dans un tel trouble. Ils sont tellement accrochés à certaines choses. Ils ne veulent
-pas s’arrêter et considérer la Parole de Dieu et l’heure dans laquelle nous vivons; tout est
-sous stress, sous tension.
-59 Et maintenant nous savons. Nous sommes conscients. La terre vient juste de passer au
-travers de quelques grandes douleurs de l’enfantement. Et l’église va passer au travers de
-quelques douleurs de l’enfantement. Elle doit passer au travers des douleurs de l’enfantement
-avant qu’elle puisse donner… La venue au monde de chacun des prophètes était une douleur
-de l’enfantement pour l’église. Le monde a passé au travers d’une Première Guerre mondiale,
-d’une Seconde Guerre mondiale et maintenant, il est prêt pour une Troisième Guerre mondiale. Et
-c’est à nouveau les douleurs de l’enfantement. Mais il n’y a qu’une seule chose qui puisse
-apporter la paix: c’est Christ.
-60 Tous nos plans et toutes nos idées, tous nos échafaudages ecclésiastiques, toute notre
-politique, toute notre science, toutes ces choses ont prouvé qu’elles étaient un non-sens. Alors,
-nous prions pour que Dieu nous aide, pour qu’Il intervienne, «viens et fais quelque chose pour
-nous». Et quand Il le fait, je me demande si nous sommes capables de Le comprendre; si nous
-sommes capables de Le recevoir et même si nous aurions le désir de considérer cela.
-61 C’est donc ce qui a été fait dans leurs jours. Ils avaient prié, ils avaient eu toutes sortes de
-grands conducteurs, ils avaient été sous des gouvernements, sous des royautés, sous des juges.
-Ils avaient été sous toutes sortes de choses. Mais ils savaient qu’il n’y avait qu’une seule chose
-qui pouvait les sauver, c’était la venue du Messie. Et le Messie signifie: Celui qui est oint. Un être
-humain qui était oint. L’être humain, oint avec la Parole… La Parole faite chair au milieu de nous.
-Et quand Il est venu, Il n’était pas exactement au goût de ce qu’ils auraient voulu de Lui; pas du
-goût qu’il aurait dû avoir en venant. Alors c’est pourquoi ils criaient: “Qui est ce type? Quel est ce
-tapage là autour?”. Un ramassis de paysans, là-bas à la porte, cassant des palmes…
-62 Et ils ont dit: “Eh bien, faites-les tenir tranquilles? Ils nous rendent nerveux avec la manière
-dont ils braillent, se tordent et font du tapage”.
-63 Jésus dit: “S’ils restaient tranquilles, ces pierres pleureraient immédiatement”.
-64 Oh, le temps s’accomplissait! La prophétie était en train de se réaliser. Ce n’est pas étonnant:
-“Le Lion a rugi”. Il est dit: “Qui ne le craindrait?”. Et Dieu a parlé. “Quel est celui qui ne pourrait se
-garder de prophétiser?”.
-65 “Non, s’Il n’était pas juste à notre goût… S’Il était simplement venu de la manière que nous
-voulions, de la manière dont nous pensions qu’Il devait venir, nous L’aurions reçu”. C’était leur
-credo qui les avait ainsi fait sortir de la Parole écrite. Ils en étaient tellement éloignés qu’ils ont
-manqué de reconnaître Celui pour la venue Duquel ils avaient prié. Leurs églises les avaient
-tellement éloignés, éloignés à un point tel qu’ils ne pouvaient croire que Celui pour Lequel ils
-avaient prié, se tenait juste devant eux. En effet, Il n’était pas à leur convenance, donc ils ne
-pouvaient pas Le croire. Ils devaient s’en éloigner. Ils L’ont évincé… Il n’y a qu’une seule chose
-que vous pouvez faire lorsque vous rencontrez Christ. Soit vous L’acceptez, soit vous Le refusez.
-Vous ne pouvez jamais être neutre. Vous ne pouvez pas faire cela. Vous ne devez pas le faire.
-C’est simplement comme cela.
-
-        http://www.cmpp.ch
-
-D’APRES-VOUS, DE QUOI S’AGIT-IL? 9
-66 Maintenant remarquez combien peu d’entre eux L’ont reconnu comme étant la Parole ointe
-pour ce jour. Vous voyez, Dieu, au commencement, était infini et connaissait tout depuis son
-origine… Et toutes ces choses sont le déploiement de Ses attributs. Vous avez un attribut. C’est
-votre pensée. Vous pensez à quelque chose, vous le prononcez et vous le prenez. C’est Dieu. Lui,
-au commencement. Si jamais vous allez au Paradis, c’est que vous étiez pour commencer au
-Paradis. Vous êtes une partie de Dieu. Vous étiez dans Sa pensée. Il connaissait votre nom. Il
-connaissait qui vous étiez avant même qu’une molécule existe ou que la lumière fût. Et Il l’a inscrit
-dans le Livre de Vie de l’Agneau avant même que le monde fut formé. Vous voyez, vous étiez
-dans Sa pensée. Ensuite vous êtes devenu une Parole. Et une parole est l’expression d’une
-pensée. Ensuite, vous avez été manifestés.
-67 C’est de cette manière qu’Il était. Lui-même était seul au commencement. Il demeurait seul
-avec Ses pensées. Il ne fera plus jamais cela parce que Ses pensées ont été rendues manifestes.
-Et c’est pour cela que nous sommes ici aujourd’hui… C’est Dieu en communion avec Ses
-pensées, étant rendues manifestes, vous voyez? C’est là que nous sommes. Ainsi vous, si vous
-formez une pensée, vous ne pouvez pas ajouter une coudée à votre stature. Vous ne pouvez pas
-faire ceci, cela ou autre chose. C’est Dieu qui a usé de miséricorde. C’est Dieu. “Tous ceux que le
-Père M’a donnés viendront à Moi, et aucun homme ne peut venir excepté celui que Mon Père
-attire”. Cela règle l’affaire.
-68 Maintenant, remarquez combien peu d’entre eux, dans Son temps, parmi les millions
-d’hommes sur la terre ont su qu’Il était là. Pensez simplement qu’il y avait des millions de
-personnes qui n’ont jamais rien su à ce sujet. Et pensez à Israël en ce temps-là. Il y avait deux
-millions et demi de personnes Israélites, en Palestine et même pas un centième d’entre eux ont su
-cela. Ce n’est pas étonnant qu’Il ait dit: “Car étroite est la porte, et resserré le chemin qui mène à
-la vie, et peu nombreux sont ceux qui le trouvent” (Mat. 7.14). Pensez seulement au nombre de
-ceux qui ne L’ont pas reconnu, qui n’ont pas su qu’Il était le “Je Suis”. Et ceux-là étaient juste à
-côté d’où Il était; c’est vraiment le côté pitoyable.
-69 Ceux qui ont marché avec Lui et L’ont vu dans la rue n’ont pas reconnu qui Il était. Satan
-avait vu qu’on pouvait Lui donner le Nom le plus méprisable qui puisse être donné à une
-personne. Il était appelé par le monde, le monde charnel… Il était appelé: “illégitime”. On disait:
-“Sa mère était enceinte avant qu’elle fut mariée avec Joseph”. Vous voyez? Aussi, Satan Lui
-donna le nom d’illégitime.
-70 Et à nouveau, l’église L’a vu dans la manifestation de Sa grande puissance. Manifestant
-quoi? Pas un credo! Il manifestait la Parole! Il était Lui-même la Parole ointe. Et lorsqu’ils ont vu
-cela prendre place (la manifestation, le Messie oint), ils ne L’ont pas accepté. Ils n’en voulaient
-pas. Ce n’était pas à leur goût. Cela c’est le côté pitoyable. Pensez seulement à cela! De la même
-manière que dans les autres jours.
-71 Vous voyez, chacun avait sa propre interprétation de la Parole. C’est la raison pour laquelle
-Israël ne reconnut pas Moïse. C’est pourquoi le monde ne reconnut pas Noé. C’est la raison pour
-laquelle les prophètes n’ont pas été reconnus. Ils avaient leur propre interprétation de la Parole.
-Mais Dieu, dans chaque âge a eu Son Messie. Vous voyez? Rejeter le message de Noé c’était
-rejeter Dieu. Rejeter Noé, c’était périr. Rejeter Moïse, c’était périr. Ils étaient les Messies oints
-pour leur âge, la Parole qui avait été promise pour cet âge. Et lorsque Jésus vint, Il était la
-plénitude de la Parole.
-72 Dieu Lui-même placé dans la structure d’un homme, ainsi fait avec des os et de la chair; Celui
-qui était l’Oint. Ils auraient dû voir cela. Mais vous voyez, leur église mondaine avait tant ajouté ici
-et enlevé là jusqu’à devenir une telle confusion qu’ils se confiaient en leur église au lieu de la
-Parole. Et lorsqu’ils ont vu leur église ointe, ils ont alors pensé que quelque chose de grand allait
-prendre place. Mais lorsqu’ils ont vu la Parole ointe, ils ont alors dit: “C’est du fanatisme. Cet
-homme est un démon, un Belzébuth”, parce que c’était tellement contraire à leur église, à leurs
-credo et à ce qu’ils avaient fait. Et c’était ainsi lors de la venue de chaque prophète, l’église était
-dans une grande confusion.
-73 Dieu a envoyé Ses lois et leur a donné une alliance. Le prêtre entrait en scène pour enlever,
-ajouter, prendre et faire un credo de tout cela. Et alors, Dieu faisait se lever de nulle part, un
-homme oint, qui était élevé par la puissance de l’Esprit. Et il a toujours été haï des prêtres, des
-rois et des endroits où se trouvaient les faux prophètes qui portaient des habits précieux pour
-
-        http://www.cmpp.ch
-
-    D’APRES-VOUS, DE QUOI S’AGIT-IL?    10
-avoir de grands noms et autres. Et ils marchaient sournoisement et en douceur parmi les rois et
-les prêtres. Alors que le vrai, le véritable prophète, venait de nulle part, d’aucune de leurs
-organisations.
-74 Existe-t-il un endroit dans la Bible où Dieu a pris un prêtre et a fait de lui un prophète? Où
-Dieu a-t-il pris un théologien ecclésiastique (un homme formé, un homme entraîné
-théologiquement) et a fait de lui un prophète? Jamais dans toute l’histoire. Il ne l’a jamais fait,
-dans aucun âge. Il ne l’a jamais fait. Il doit s’éloigner de ce système et faire monter Son prophète.
-Et c’est ce qu’Il a fait ici.
-75 Lorsque Jésus naquit à Bethléhem, en Juda, il était issu d’une famille pauvre. On ne Lui
-connaissait pas d’origine, et cependant sa mère et son père étaient de la lignée de David. Ils
-devaient revenir pour être recensés. Et Le voici, juste un jeune homme… ne faisant rien excepté
-mettre en pièces les églises. Et ils L’ont haï. Et ils ne pouvaient rien dire si ce n’est que cet
-homme faisait des miracles. Pierre l’a exprimé au jour de la Pentecôte. Il a dit: “Jésus de Nazareth
-était un Homme approuvé de Dieu parmi nous car Dieu était avec lui”. Et pour ne pas ajouter
-quelque chose à Sa Parole mais pour m’exprimer plus clairement: “Il était Dieu fait chair avec
-nous. Dieu avec nous”.
-76 Et comme je l’ai dit l’autre soir, lorsque Moïse se tenait là-bas, avec sa main dans son sein,
-c’était Dieu en Moïse. Moïse gardant les secrets dans son coeur et il la sortait blanche, couverte
-de lèpre. Ensuite, lorsqu’il la remettait dans son sein, elle guérissait et quand il l’étendait vers eux,
-c’était le signe de l’envoi du Saint-Esprit. C’était à nouveau Dieu, juste dans une autre forme, le
-jour de la Pentecôte. Et nous l’avons rejeté, ne voulant pas cela. C’est de cette manière qu’ils ont
-agi alors. C’est probablement de cette manière que nous le ferions aujourd’hui.
-77 Nous voyons que chaque homme a sa propre interprétation. C’est pourquoi c’est si confus.
-Mais vous savez, la Bible dit: “Cette Parole ne doit avoir aucune interprétation personnelle”. Elle
-n’a pas besoin d’une interprétation presbytérienne. Elle n’a pas besoin d’une interprétation
-baptiste ou pentecôtiste. Dieu est Son propre Interprète. Il a dit qu’Il le ferait, aussi Il fait
-simplement ce qu’Il dit et cela règle l’affaire. Ainsi, lorsqu’ils voient la Parole ointe de la
-promesse, ils ne peuvent pas La recevoir parce qu’Elle est contraire à leurs credo. Vous
-voyez?
-78 A quoi ressemblerait le Messie (l’Oint) et que ferait-Il? C’était bien loin de leur
-compréhension. Et alors, lorsqu’il leur fut lu des Ecritures, disant ce qu’Il ferait, ils ne
-comprenaient toujours pas. C’est pourquoi ces rois mages sont descendus depuis Babylone. Ils
-étaient à peu près au nord-est de Jérusalem. Ils ont regardé et ont vu que cette Etoile les
-conduisait à l’ouest. Ils l’ont suivie pendant deux ans, descendant à travers le fleuve Tigre, et à
-travers les vallées de Shinear et sont arrivés à la cité qui est à la tête de toutes les religions. La
-plus grande religion du monde, dans le temple à Jérusalem. Et allant en haut et en bas des rues
-ils disaient: “Où est-Il?”. “Où est-Il, le roi des Juifs qui vient de naître?”. Pourquoi personne ne
-savait-il rien à ce sujet? C’était étrange.
-79 Cela a même remué le Sanhédrin… Ils ont appelé les érudits et ont dit: “Lisez dans les
-Ecritures où un Messie…”.
-80 Et ils l’ont fait et ont lu dans les Ecritures ce que Michée a dit: “Et toi Bethléhem Ephrata, bien
-que tu sois petite entre les milliers de Juda, de toi sortira pour moi celui qui doit dominer en Israël”
-(Michée 5.2).
-     Vous voyez, au lieu de rechercher, ils L’ont simplement rejeté: “Eh bien, c’est une équipe de
-fanatiques”. Vous voyez? Ils ont leur propre interprétation, et ils manquent la chose réelle alors
-que les bergers ont accepté le Message parce qu’ils n’en avaient pas.
-81 Comme toujours, quand Il vient, Il vient exactement de la manière dont la Parole a dit
-qu’Il viendrait. Et ils ont dit: “Qui est-Il?”. Vous voyez ce que je veux dire? Ils auraient dû savoir
-qui Il était. Et ici, pas le monde extérieur, mais l’église mondaine a dit: “Qui est-Il?, qui est-Il?”.
-Alors que les Ecritures disaient clairement que c’était précisément de cette manière qu’Il viendrait.
-Et ils disaient: “Qui est cet homme? Pourquoi toute cette émotion là autour? Arrêtez de faire tout
-ce bruit. Cela nous rend nerveux”. Vous voyez? La chose même pour laquelle ils avaient prié était
-exactement là, à portée de mains et ils ne L’ont pas reconnu. Et Il est venu exactement comme
-l’Ecriture avait dit qu’Il viendrait. Et s’Il venait aujourd’hui, Il viendrait juste comme l’Ecriture dit qu’Il
-
-                      http://www.cmpp.ch
+     Maintenant, laissons Dieu ajouter à Sa Parole le contexte de l'Ecriture qui a été lue.
+38 Maintenant, nous savons de quel temps il s'agit, et beaucoup d'entre vous sont familiers avec l'Ecriture de ce chapitre-ci. C'est réellement le jour où Christ est entré dans Jérusalem, sur le dos de ce petit âne… Il y a une légende qui dit: “que c'était un âne blanc”. J'imagine que cela préfigure Sa seconde venue sur un cheval de bataille. Cette fois, le prophète a dit qu'Il monterait… Votre Roi vient à vous sur le petit d'un âne et Il est humble et doux. C'est de cette façon qu'Il est venu, sur un petit âne, un petit porteur de fardeaux. Mais la prochaine fois, Il viendra dans la Gloire (dans l'Apocalypse, chapitre 19), Il viendra comme un Puissant Conquérant, Son vêtement trempé dans le sang, monté sur un cheval blanc et toute l'armée des Cieux le suivant sur des chevaux blancs. Et la légende (pas scripturaire ou historique)… mais la légende croit qu'Il montait un petit âne blanc lorsqu'Il est entré dans Jérusalem.
+39 Maintenant, j'ai choisi cela parce que nous sommes dans les ombres du temps de la saison des fêtes de Noël et de la Nouvelle Année; la fin d'une année et la naissance d'une nouvelle. Dans quelques jours beaucoup de gens vont tourner une nouvelle page, faire de nouvelles choses et faire de nouveaux voeux. C'est le commencement d'une Nouvelle Année. Et cela ne me semble pas trop comme étant Noël. Je ne sais pas pourquoi. J'ai toujours aimé l'appeler «le jour du “Père Noël”». Vous voyez? Parce qu'il n'y a pas vraiment…
+40 Cela ne pouvait pas être le jour de la naissance de Christ. Cela ne pouvait simplement pas l'être. Il aurait dû naître en mars ou en avril, parce qu'Il était l'Agneau. Il était un agneau mâle, né sous Ariès, le bélier. Cela devait l'être, vous voyez. Et les agneaux ne naissent pas en décembre de toute façon. Les agneaux naissent au printemps. Encore une autre chose maintenant, les collines de Juda, ont vingt pieds de neige. Comment les bergers auraient-ils pu être là-bas dehors?
+41 Ainsi, cela vient vraiment de la mythologie romaine, le jour d'anniversaire du dieu soleil. Dans le système solaire, lorsque le temps avance, les jours s'allongent et s'allongent… et les nuits deviennent plus courtes. Et selon la mythologie romaine, entre le 20 et le 25 décembre, c'est l'anniversaire du dieu soleil. Alors ils célébraient l'anniversaire du dieu soleil. Avec Constantin, ils rédigèrent la constitution de l'église d'état et ainsi de suite. Il a dit: «Nous le changerons (ne sachant pas quel jour c'était) et le mettrons au jour de l'anniversaire du dieu soleil et nous le ferons: anniversaire du Fils de Dieu». Vous voyez? Mais nous ne savons pas quel jour c'était.
+42 Aujourd'hui, ils ont tellement tiré Christ dehors que c'est n'importe quoi… Quelqu'un a à nouveau ramené de la mythologie — de la mythologie allemande —, une créature qui vivait, on le suppose, sous le nom de Saint Nicolas ou de Kriss Kringle. Et tout cela est juste un mythe et Christ ne s'y trouve pas du tout.
+43 Et les gens ont tourné cela en fêtes d'achats, d'habits à la mode, de jeux et de whisky. Et un commerçant qui peut vendre ses marchandises lors de la période de Noël peut pratiquement vivre tout le reste de l'année. Vous voyez? Ce sont de grandes vacances commerciales. Et les pauvres petits enfants dans la rue… leur parenté ne peut pas les visiter avec un présent, comme fait le “Père Noël”. Et ils marchent en descendant la rue, avec leurs petites mains sales et leurs petits yeux rougis. Je déteste simplement voir venir cette période. Cela devrait être un jour solennel d'adoration de Dieu au lieu des maux de coeur, de tête et autres. Il n'y a rien de Christ là-dedans. Mais nous sommes maintenant en plein milieu de cela.
+44 Nous nous trouvons nous-mêmes à peu près comme ils se trouvaient alors. Vous voyez, c'est juste le début d'une grande fête. Jésus venait à la fête de Pâques. Et il était entré dans Jérusalem… ou plutôt Il entrait dans Jérusalem. Et toutes les prophéties de ce qu'Il avait fait devaient être accomplies. Chaque chose dans la Bible a une signification. Chaque nom a une signification. Il n'y a rien d'écrit dans l'Ecriture qui n'ait pas une profonde signification.
+45 J'ai parlé l'autre soir à Tucson, sur: Pourquoi cela devait-il être des bergers plutôt que des théologiens? Il est né juste à côté de l'église. Et le Saint-Esprit est allé dans les lieux sauvages et a pris, non pas des théologiens, mais des bergers. Cela devait être de cette manière. Les théologiens n'auraient pas cru un tel Message. Aussi, cela devait être des bergers.
+46 J'ai prêché ici, il y a quelques années (il y a deux ans): Pourquoi cela devait-il être la petite Bethléem? Dieu voulant, Noël prochain j'aimerais que nous prêchions sur: Pourquoi cela devait-il être des mages? Ces «pourquoi» ont des réponses pour eux et elles sont juste ici, dans la Bible. Et nous vivons dans un temps merveilleux, le plus grand temps de tous les âges. Nous vivons où à tout moment, le temps peut s'arrêter et l'Eternité se fondre dans l'instant présent et continuer. Les âges dont tous les prophètes et les hommes sages attendaient… Nous devrions être sur nos gardes à chaque heure, veillant sur Sa venue.
+47 Nous nous trouvons nous-mêmes à ce Noël, à peu près comme eux, lors de leur premier Noël. Le monde est juste prêt à tomber en morceaux, comme j'ai prêché une fois, quelque part, sur: Le monde tombe en morceaux. Et à nouveau, le monde est prêt à tomber en morceaux. Regardez les tremblements de terre ici, en Californie. Je prédis qu'avant la venue du Seigneur Jésus, ce Dieu va engloutir cette place. Je crois que Dieu va couler Hollywood, Los Angeles et ces places souillées là-bas. Elles iront au fond de la mer. Il y a tellement de péchés, vous voyez, c'est la barrière: l'obstacle.
+48 La civilisation a voyagé avec le soleil et elle a commencé à l'est, allant vers l'ouest. Et maintenant, c'est sur la Côte Ouest. Si elle va plus loin, elle reviendra à nouveau à l'Est. C'est cela la barrière. Et le péché a voyagé avec la civilisation et elle devient la fosse septique de tous les âges. Aucun des êtres humains des autres âges n'aurait imaginé les choses qu'ils font aujourd'hui. Les femmes se sont jetées dans des souillures telles qu'aucune femme d'un autre âge aurait pu imaginer que de telles choses puissent se faire aujourd'hui. Et nous nous appelons toujours Chrétiens. Quelle disgrâce!
+49 Pas étonnant que le grand prophète se soit levé et ait dit: “Et je n'étais pas un prophète, et je n'étais pas fils d'un prophète, mais…”. [Amos 7.14 — N.d.R.]. Il a dit: “Le lion a rugi, qui n'aura pas peur? Le Seigneur, l'Eternel a parlé et qui ne prophétisera?”. [Amos 3.8 — N.d.R.] Vous voyez, il y a quelque chose qui est appelé à sortir.
+50 Nous sommes dans une heure critique, le monde l'est. Mais l'Eglise, la véritable église, pas la dénomination, mais l'Eglise Elle-même est prête pour le plus grand triomphe qu'Il ait jamais fait: la venue de l'Epoux vers l'Epouse.
+51 Nous nous détachons, cherchant un messie (quelque chose) qui vienne et nous sauve et qui nous tire de là. Nous regardons les troubles là-bas à l'Est. Nous regardons les soulèvements en Afrique et les problèmes raciaux, l'intégration et les ségrégations. Et nous, ici, nous étions tous agités et énervés il n'y a pas si longtemps à propos de nos amis de couleur. «Nous devons avoir, nous devons obtenir l'intégration. C'est ce dont nous avons besoin. Nous devons avoir l'intégration; que chaque homme soit égal, chaque homme puisse emprunter…». C'est parfaitement en ordre. C'est parfaitement en ordre. Je ne crois pas à l'esclavage. Ces gens n'étaient pas des esclaves au commencement. Ils n'étaient pas esclaves.
+52 Dieu est un ségrégationniste. Je le suis aussi. Chaque Chrétien est une ségrégation. Dieu sépare Son peuple de tous les autres peuples. Il y a toujours eu une ségrégation. Il choisit une nation. Il choisit un peuple. Il est un ségrégationniste. Il a fait toutes les nations. Dans les faits, un véritable Chrétien doit être un ségrégationniste, se séparant lui-même des choses du monde et de tout le reste, pour venir à un seul but, Jésus-Christ.
+53 Mais ils sont contre cela. J'ai essayé de leur dire: «Ce n'est pas cette chose qui va sauver notre nation. C'est seulement un plan politique. C'est une chose venant du communisme». Je crois que Martin Luther King va conduire son peuple dans le plus grand carnage et massacre qu'ils n'ont jamais eus. Nous leur donnons l'intégration et maintenant c'est pire qu'avant! Vous voyez, cela ne va pas rassembler le monde. Cela ne va pas nous sauver. Vous voyez, ce n'est pas la question. Il y a une seule chose qui sauve: c'est Dieu. Et ils ne Le veulent pas, certainement pas.
+54 Ils ne L'ont pas voulu à ce moment-là. Ils étaient en train de se désagréger, et leur politique tombait en ruine et leur nation se détruisait, leur église se brisait et ils criaient pour un Messie, ils Le voulaient: “Oh, envoie-nous un Messie”. Mais quand Il est venu…
+55 Dieu donne la réponse à votre prière. Vous avez demandé et vous recevrez. Je pourrais m'arrêter ici pendant des heures, au sujet des hommes, des femmes, même des Chrétiens, qui prient pour quelque chose. Dieu donne la réponse et ils ne la reconnaissent même pas.
+56 Et maintenant, Dieu leur a donné la réponse. Ils voulaient un Messie. Ils savaient qu'ils avaient des Césars, qu'ils avaient eu des David, des Salomon (l'homme sage). Ils avaient eu des David (le puissant guerrier). Ils en avaient eu de toutes sortes, mais ils savaient qu'ils devaient recevoir le secours du Ciel. Dieu leur avait promis un Messie et Il leur envoya ce Messie, en réponse à leurs prières, mais ils ne voulurent pas de Lui.
+57 Je me demande aujourd'hui si nos prières… Vous les entendez dire: «Priez pour un grand réveil. Priez pour cela. Priez pour une percée. Priez pour l'unité». Si Dieu envoyait un tel programme, je me demande si nous l'accepterions. Je me demande juste si nous accepterions ce qu'Il nous envoie. Vous voyez, la raison pour laquelle nous prions pour ces choses, c'est parce que nous savons que c'est un besoin. Mais quand Dieu l'envoie à Sa manière, alors, ce n'est pas forcément en accord avec notre goût et nous ne voulons pas le recevoir. Et c'est comme cela que les choses étaient en ce jour. S'Il n'était pas dans le goût de leur croyance… Ils ne voudraient pas non plus Le recevoir aujourd'hui. C'est la raison pour laquelle ils ont posé cette question: «Qui est-Il?». «Qui est ce type qui vient?». Vous voyez, c'était un temps extraordinaire. Oh, tout le monde était sous tension. Quelque chose était sur le point d'arriver.
+58 Et regardez au monde d'aujourd'hui, sous quelle tension le monde entier vit. Vous descendez la rue… C'est même dangereux de conduire. Il n'y a même pas de sécurité sur une autoroute à quatre pistes. Tout le monde est à cran, poussant des coups de gueule… De quoi s'agit-il? Calmez-vous. Où allez-vous? C'est ce qui remplit les institutions de fous. C'est ce qui a conduit l'église dans un tel trouble. Ils sont tellement accrochés à certaines choses. Ils ne veulent pas s'arrêter et considérer la Parole de Dieu et l'heure dans laquelle nous vivons; tout est sous stress, sous tension.
+59 Et maintenant nous savons. Nous sommes conscients. La terre vient juste de passer au travers de quelques grandes douleurs de l'enfantement. Et l'église va passer au travers de quelques douleurs de l'enfantement. Elle doit passer au travers des douleurs de l'enfantement avant qu'elle puisse donner… La venue au monde de chacun des prophètes était une douleur de l'enfantement pour l'église. Le monde a passé au travers d'une Première Guerre mondiale, d'une Seconde Guerre mondiale et maintenant, il est prêt pour une Troisième Guerre mondiale. Et c'est à nouveau les douleurs de l'enfantement. Mais il n'y a qu'une seule chose qui puisse apporter la paix: c'est Christ.
+60 Tous nos plans et toutes nos idées, tous nos échafaudages ecclésiastiques, toute notre politique, toute notre science, toutes ces choses ont prouvé qu'elles étaient un non-sens. Alors, nous prions pour que Dieu nous aide, pour qu'Il intervienne, «viens et fais quelque chose pour nous». Et quand Il le fait, je me demande si nous sommes capables de Le comprendre; si nous sommes capables de Le recevoir et même si nous aurions le désir de considérer cela.
+61 C'est donc ce qui a été fait dans leurs jours. Ils avaient prié, ils avaient eu toutes sortes de grands conducteurs, ils avaient été sous des gouvernements, sous des royautés, sous des juges. Ils avaient été sous toutes sortes de choses. Mais ils savaient qu'il n'y avait qu'une seule chose qui pouvait les sauver, c'était la venue du Messie. Et le Messie signifie: Celui qui est oint. Un être humain qui était oint. L'être humain, oint avec la Parole… La Parole faite chair au milieu de nous. Et quand Il est venu, Il n'était pas exactement au goût de ce qu'ils auraient voulu de Lui; pas du goût qu'il aurait dû avoir en venant. Alors c'est pourquoi ils criaient: “Qui est ce type? Quel est ce tapage là autour?”. Un ramassis de paysans, là-bas à la porte, cassant des palmes…
+62 Et ils ont dit: “Eh bien, faites-les tenir tranquilles? Ils nous rendent nerveux avec la manière dont ils braillent, se tordent et font du tapage”.
+63 Jésus dit: “S'ils restaient tranquilles, ces pierres pleureraient immédiatement”.
+64 Oh, le temps s'accomplissait! La prophétie était en train de se réaliser. Ce n'est pas étonnant: “Le Lion a rugi”. Il est dit: “Qui ne le craindrait?”. Et Dieu a parlé. “Quel est celui qui ne pourrait se garder de prophétiser?”.
+65 “Non, s'Il n'était pas juste à notre goût… S'Il était simplement venu de la manière que nous voulions, de la manière dont nous pensions qu'Il devait venir, nous L'aurions reçu”. C'était leur credo qui les avait ainsi fait sortir de la Parole écrite. Ils en étaient tellement éloignés qu'ils ont manqué de reconnaître Celui pour la venue Duquel ils avaient prié. Leurs églises les avaient tellement éloignés, éloignés à un point tel qu'ils ne pouvaient croire que Celui pour Lequel ils avaient prié, se tenait juste devant eux. En effet, Il n'était pas à leur convenance, donc ils ne pouvaient pas Le croire. Ils devaient s'en éloigner. Ils L'ont évincé… Il n'y a qu'une seule chose que vous pouvez faire lorsque vous rencontrez Christ. Soit vous L'acceptez, soit vous Le refusez. Vous ne pouvez jamais être neutre. Vous ne pouvez pas faire cela. Vous ne devez pas le faire. C'est simplement comme cela.
+66 Maintenant remarquez combien peu d'entre eux L'ont reconnu comme étant la Parole ointe pour ce jour. Vous voyez, Dieu, au commencement, était infini et connaissait tout depuis son origine… Et toutes ces choses sont le déploiement de Ses attributs. Vous avez un attribut. C'est votre pensée. Vous pensez à quelque chose, vous le prononcez et vous le prenez. C'est Dieu. Lui, au commencement. Si jamais vous allez au Paradis, c'est que vous étiez pour commencer au Paradis. Vous êtes une partie de Dieu. Vous étiez dans Sa pensée. Il connaissait votre nom. Il connaissait qui vous étiez avant même qu'une molécule existe ou que la lumière fût. Et Il l'a inscrit dans le Livre de Vie de l'Agneau avant même que le monde fut formé. Vous voyez, vous étiez dans Sa pensée. Ensuite vous êtes devenu une Parole. Et une parole est l'expression d'une pensée. Ensuite, vous avez été manifestés.
+67 C'est de cette manière qu'Il était. Lui-même était seul au commencement. Il demeurait seul avec Ses pensées. Il ne fera plus jamais cela parce que Ses pensées ont été rendues manifestes. Et c'est pour cela que nous sommes ici aujourd'hui… C'est Dieu en communion avec Ses pensées, étant rendues manifestes, vous voyez? C'est là que nous sommes. Ainsi vous, si vous formez une pensée, vous ne pouvez pas ajouter une coudée à votre stature. Vous ne pouvez pas faire ceci, cela ou autre chose. C'est Dieu qui a usé de miséricorde. C'est Dieu. “Tous ceux que le Père M'a donnés viendront à Moi, et aucun homme ne peut venir excepté celui que Mon Père attire”. Cela règle l'affaire.
+68 Maintenant, remarquez combien peu d'entre eux, dans Son temps, parmi les millions d'hommes sur la terre ont su qu'Il était là. Pensez simplement qu'il y avait des millions de personnes qui n'ont jamais rien su à ce sujet. Et pensez à Israël en ce temps-là. Il y avait deux millions et demi de personnes Israélites, en Palestine et même pas un centième d'entre eux ont su cela. Ce n'est pas étonnant qu'Il ait dit: “Car étroite est la porte, et resserré le chemin qui mène à la vie, et peu nombreux sont ceux qui le trouvent” (Mat. 7.14). Pensez seulement au nombre de ceux qui ne L'ont pas reconnu, qui n'ont pas su qu'Il était le “Je Suis”. Et ceux-là étaient juste à côté d'où Il était; c'est vraiment le côté pitoyable.
+69 Ceux qui ont marché avec Lui et L'ont vu dans la rue n'ont pas reconnu qui Il était. Satan avait vu qu'on pouvait Lui donner le Nom le plus méprisable qui puisse être donné à une personne. Il était appelé par le monde, le monde charnel… Il était appelé: “illégitime”. On disait: “Sa mère était enceinte avant qu'elle fut mariée avec Joseph”. Vous voyez? Aussi, Satan Lui donna le nom d'illégitime.
+70 Et à nouveau, l'église L'a vu dans la manifestation de Sa grande puissance. Manifestant quoi? Pas un credo! Il manifestait la Parole! Il était Lui-même la Parole ointe. Et lorsqu'ils ont vu cela prendre place (la manifestation, le Messie oint), ils ne L'ont pas accepté. Ils n'en voulaient pas. Ce n'était pas à leur goût. Cela c'est le côté pitoyable. Pensez seulement à cela! De la même manière que dans les autres jours.
+71 Vous voyez, chacun avait sa propre interprétation de la Parole. C'est la raison pour laquelle Israël ne reconnut pas Moïse. C'est pourquoi le monde ne reconnut pas Noé. C'est la raison pour laquelle les prophètes n'ont pas été reconnus. Ils avaient leur propre interprétation de la Parole. Mais Dieu, dans chaque âge a eu Son Messie. Vous voyez? Rejeter le message de Noé c'était rejeter Dieu. Rejeter Noé, c'était périr. Rejeter Moïse, c'était périr. Ils étaient les Messies oints pour leur âge, la Parole qui avait été promise pour cet âge. Et lorsque Jésus vint, Il était la plénitude de la Parole.
+72 Dieu Lui-même placé dans la structure d'un homme, ainsi fait avec des os et de la chair; Celui qui était l'Oint. Ils auraient dû voir cela. Mais vous voyez, leur église mondaine avait tant ajouté ici et enlevé là jusqu'à devenir une telle confusion qu'ils se confiaient en leur église au lieu de la Parole. Et lorsqu'ils ont vu leur église ointe, ils ont alors pensé que quelque chose de grand allait prendre place. Mais lorsqu'ils ont vu la Parole ointe, ils ont alors dit: “C'est du fanatisme. Cet homme est un démon, un Belzébuth”, parce que c'était tellement contraire à leur église, à leurs credo et à ce qu'ils avaient fait. Et c'était ainsi lors de la venue de chaque prophète, l'église était dans une grande confusion.
+73 Dieu a envoyé Ses lois et leur a donné une alliance. Le prêtre entrait en scène pour enlever, ajouter, prendre et faire un credo de tout cela. Et alors, Dieu faisait se lever de nulle part, un homme oint, qui était élevé par la puissance de l'Esprit. Et il a toujours été haï des prêtres, des rois et des endroits où se trouvaient les faux prophètes qui portaient des habits précieux pour avoir de grands noms et autres. Et ils marchaient sournoisement et en douceur parmi les rois et les prêtres. Alors que le vrai, le véritable prophète, venait de nulle part, d'aucune de leurs organisations.
+74 Existe-t-il un endroit dans la Bible où Dieu a pris un prêtre et a fait de lui un prophète? Où Dieu a-t-il pris un théologien ecclésiastique (un homme formé, un homme entraîné théologiquement) et a fait de lui un prophète? Jamais dans toute l'histoire. Il ne l'a jamais fait, dans aucun âge. Il ne l'a jamais fait. Il doit s'éloigner de ce système et faire monter Son prophète. Et c'est ce qu'Il a fait ici.
+75 Lorsque Jésus naquit à Bethléhem, en Juda, il était issu d'une famille pauvre. On ne Lui connaissait pas d'origine, et cependant sa mère et son père étaient de la lignée de David. Ils devaient revenir pour être recensés. Et Le voici, juste un jeune homme… ne faisant rien excepté mettre en pièces les églises. Et ils L'ont haï. Et ils ne pouvaient rien dire si ce n'est que cet homme faisait des miracles. Pierre l'a exprimé au jour de la Pentecôte. Il a dit: “Jésus de Nazareth était un Homme approuvé de Dieu parmi nous car Dieu était avec lui”. Et pour ne pas ajouter quelque chose à Sa Parole mais pour m'exprimer plus clairement: “Il était Dieu fait chair avec nous. Dieu avec nous”.
+76 Et comme je l'ai dit l'autre soir, lorsque Moïse se tenait là-bas, avec sa main dans son sein, c'était Dieu en Moïse. Moïse gardant les secrets dans son coeur et il la sortait blanche, couverte de lèpre. Ensuite, lorsqu'il la remettait dans son sein, elle guérissait et quand il l'étendait vers eux, c'était le signe de l'envoi du Saint-Esprit. C'était à nouveau Dieu, juste dans une autre forme, le jour de la Pentecôte. Et nous l'avons rejeté, ne voulant pas cela. C'est de cette manière qu'ils ont agi alors. C'est probablement de cette manière que nous le ferions aujourd'hui.
+77 Nous voyons que chaque homme a sa propre interprétation. C'est pourquoi c'est si confus. Mais vous savez, la Bible dit: “Cette Parole ne doit avoir aucune interprétation personnelle”. Elle n'a pas besoin d'une interprétation presbytérienne. Elle n'a pas besoin d'une interprétation baptiste ou pentecôtiste. Dieu est Son propre Interprète. Il a dit qu'Il le ferait, aussi Il fait simplement ce qu'Il dit et cela règle l'affaire. Ainsi, lorsqu'ils voient la Parole ointe de la promesse, ils ne peuvent pas La recevoir parce qu'Elle est contraire à leurs credo. Vous voyez?
+78 A quoi ressemblerait le Messie (l'Oint) et que ferait-Il? C'était bien loin de leur compréhension. Et alors, lorsqu'il leur fut lu des Ecritures, disant ce qu'Il ferait, ils ne comprenaient toujours pas. C'est pourquoi ces rois mages sont descendus depuis Babylone. Ils étaient à peu près au nord-est de Jérusalem. Ils ont regardé et ont vu que cette Etoile les conduisait à l'ouest. Ils l'ont suivie pendant deux ans, descendant à travers le fleuve Tigre, et à travers les vallées de Shinear et sont arrivés à la cité qui est à la tête de toutes les religions. La plus grande religion du monde, dans le temple à Jérusalem. Et allant en haut et en bas des rues ils disaient: “Où est-Il?”. “Où est-Il, le roi des Juifs qui vient de naître?”. Pourquoi personne ne savait-il rien à ce sujet? C'était étrange.
+79 Cela a même remué le Sanhédrin… Ils ont appelé les érudits et ont dit: “Lisez dans les Ecritures où un Messie…”
+80 Et ils l'ont fait et ont lu dans les Ecritures ce que Michée a dit: “Et toi Bethléhem Ephrata, bien que tu sois petite entre les milliers de Juda, de toi sortira pour moi celui qui doit dominer en Israël” (Michée 5.2).
+     Vous voyez, au lieu de rechercher, ils L'ont simplement rejeté: “Eh bien, c'est une équipe de fanatiques”. Vous voyez? Ils ont leur propre interprétation, et ils manquent la chose réelle alors que les bergers ont accepté le Message parce qu'ils n'en avaient pas.
+81 Comme toujours, quand Il vient, Il vient exactement de la manière dont la Parole a dit qu'Il viendrait. Et ils ont dit: “Qui est-Il?”. Vous voyez ce que je veux dire? Ils auraient dû savoir qui Il était. Et ici, pas le monde extérieur, mais l'église mondaine a dit: “Qui est-Il?, qui est-Il?”. Alors que les Ecritures disaient clairement que c'était précisément de cette manière qu'Il viendrait. Et ils disaient: “Qui est cet homme? Pourquoi toute cette émotion là autour? Arrêtez de faire tout ce bruit. Cela nous rend nerveux”. Vous voyez? La chose même pour laquelle ils avaient prié était exactement là, à portée de mains et ils ne L'ont pas reconnu. Et Il est venu exactement comme l'Ecriture avait dit qu'Il viendrait. Et s'Il venait aujourd'hui, Il viendrait juste comme l'Ecriture dit qu'Il viendrait.
 
 D’APRES-VOUS, DE QUOI S’AGIT-IL? 11
 viendrait. Il vient toujours conformément au goût de la Parole de Dieu et non selon le goût de
@@ -651,7 +273,7 @@ Vous ne voudriez pas manger cette soupe si elle était empoisonnée. Vous n’en
 tout si vous voyez un gros gardon ou quelque chose de bouilli dans cette soupe. Pourquoi ne
 voudriez-vous pas du tout en prendre? Parce que cela vous rendrait malade, juste d’y penser.
 Mais maintenant, vous laissez une bande de théologiens vous mettre quelque chose dans la
-gorge qui vous envoie à un million de miles de Dieu et vous l’avalez. Alors que: “L’homme doit
+ gorge qui vous envoie à un million de miles de Dieu et vous l’avalez. Alors que: “L’homme doit
 vivre de toute Parole qui sort de la bouche de Dieu”. Votre âme est suspendue à une chaîne qui
 pend au-dessus de l’enfer. Et comme je l’ai dit plutôt: «La résistance d’une chaîne se mesure à
 son maillon le plus faible». Un maillon qui rompt… Tout ce que vous avez à faire, c’est de rompre
@@ -867,7 +489,7 @@ pentecôtiste, toutes sortes de prophètes de par le pays. Mais une chose demeur
 Prophète, le Même hier, aujourd’hui et éternellement. C’est vrai. Jésus-Christ! Et Il est la
 Parole. C’est vrai. Il est la Parole: la Parole ointe de l’heure.
 137 Observez-Le lorsque nous poursuivons notre voyage. Nous trouvons que Josué et Caleb… Et
-alors, ici, vient Balaam, le prophète mercenaire. Qu’a-t-il fait? Il a passé directement par-dessus
+ alors, ici, vient Balaam, le prophète mercenaire. Qu’a-t-il fait? Il a passé directement par-dessus
 chaque parole de Dieu, après que Dieu la lui ait montrées. Il représente la dénomination
 d’aujourd’hui. Nous le démontrerons juste dans quelques minutes. (C’était ce que Dathan et le
 reste d’entre eux étaient.) Maintenant, Balaam représentait la dénomination. Une personne qui ne
@@ -935,7 +557,7 @@ chaque âge. Voyez ce que la Parole dit pour cet âge et observez Dieu L’oindr
 C’est tout.
 149 Ils ont suivi la Colonne de Feu jusqu’au Pays Promis. Ceux qui sont allés jusqu’au bout l’ont
 fait. Les autres ont péri. Remarquez qu’ils voulaient mélanger la Parole avec le monde. Cela les a
-induit en erreur. Et remarquez ce que cela leur fit. La Parole… Ils L’ont manquée parce qu’ils ne
+induits en erreur. Et remarquez ce que cela leur fit. La Parole… Ils L’ont manquée parce qu’ils ne
 voulaient pas accepter la Parole ointe. Vous voyez, vous voulez avoir une contrefaçon. Ils
 l’avaient là-bas et Dieu a montré qu’Il n’était pas avec cela.
 150 Pensez de quelle manière parfaite la Parole leur avait été révélée, en étant confirmée.
@@ -960,10 +582,10 @@ sortir et qui désormais les amenait vers le Pays Promis… Mais ils devaient en
 contre le Message. Pensez, quelle perfection… Comme ils auraient pu marcher chaque jour,
 marcher avec le Seigneur! Quelle vie à vivre, dans le désert! Manger au matin la manne tombée la
 nuit.
-154 Vous savez, cela était devenu si commun pour eux qu’ils ont dit: “Notre âme déteste ce Pain”.
-Vous voyez, c’est comme cela que c’est aussi pour nous. Je pense simplement à ces petits
-groupes, dans toute la nation, même dans mon propre ministère… Ne voyant pas seulement les
-guérisons et les choses qui ont été de tout temps. Guérison. Dieu a toujours eu une issue de
+154 Vous savez, cela était devenu si commun pour eux qu’ils ont dit: “Notre âme déteste ce
+Pain”. Vous voyez, c’est comme cela que c’est aussi pour nous. Je pense simplement à ces
+petits groupes, dans toute la nation, même dans mon propre ministère… Ne voyant pas seulement
+les guérisons et les choses qui ont été de tout temps. Guérison. Dieu a toujours eu une issue de
 guérison quelque part. Il a même envoyé une fois, un ange dans une piscine. Toutes sortes de
 choses… — le serpent d’airain dans le désert. Vous avez toujours eu des symboles de guérison,
 mais ce n’est pas cela dont je parle. La guérison est une chose qui attire l’attention des gens.
@@ -1062,9 +684,7 @@ qu’ils cherchaient, exactement.
 168 Maintenant, les Méthodistes et les Baptistes peuvent à peine se mettre ensemble à cause de
 leurs organisations, mais lorsque viendra une organisation maîtresse pour que nous
 
-                                        http://www.cmpp.ch
-
-    D’APRES-VOUS, DE QUOI S’AGIT-IL?    20
+D’APRES-VOUS, DE QUOI S’AGIT-IL?    20
 puissions tous être ensemble, alors cela sera en ordre. Oh, vous dites: «Les Pentecôtistes ne
 le recevront jamais». Vraiment? Que faisaient-ils l’autre jour dans le Missouri? Vous lisez
 sûrement les journaux. Vous ne le recevrez pas? Non, pas vous, Pentecôtistes. Non, pas vous en
@@ -1198,7 +818,7 @@ chacun d’entre vous a compris cela.
 moment affreux. Les gens dormaient à l’extérieur des portes. Cela se passait à chaque fête de
 Pâques. Ils dormaient dehors, à même le sol. Toutes les auberges et autres étaient pleines.
 C’était la Pâque. Il y avait là de grandes attentes. Le suspens remplissait l’air. Tout le monde était
-très tendu. Dieu voulant, j’aurai terminé dans cinq ou dix minutes.
+près tendu. Dieu voulant, j’aurai terminé dans cinq ou dix minutes.
 188 Regardez, il y avait là trois types de personnes. Vous voyez, il y avait une grande attente
 là-bas. Tous savaient que cet homme étrange allait venir à cette fête. Quelques-uns d’entre eux
 L’aimaient, ils croyaient en Lui, d’autres Le haïssaient. La plupart d’entre eux Le haïssait. Et parce
@@ -1502,9 +1122,6 @@ Voulez-vous prier pour moi? Maintenant, avez-vous levé les mains pour prier pou
 bien.
 238 Dieu vous bénisse maintenant. Je vais laisser le service à votre charmant pasteur
 maintenant, le frère Jimmy Outlaw. Dieu vous bénisse frère Outlaw.
-
-
-
 
 
 

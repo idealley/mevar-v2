@@ -1,44 +1,80 @@
-    SERIE 2 N° 6
+---
+source: "cmpp"
+sermon_id: "serie2no6"
+title: "Pourquoi le Saint-Esprit a été donné?"
+subtitle: "17 décembre 1959, soir"
+date: "1959-12-17"
+year: 1959
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham explique le but de l'envoi du Saint-Esprit : permettre à Dieu d'habiter dans son Église et d'accomplir son plan de rédemption à travers elle. Il montre que le Saint-Esprit est Dieu lui-même agissant en nous, restaurant la communion perdue dans le jardin d'Éden."
+tags:
+  - "Saint-Esprit"
+  - "rédemption"
+  - "Église"
+  - "communion"
+  - "Baptême du Saint-Esprit"
+persons:
+  - "Jésus-Christ"
+  - "Philippe"
+  - "Ruth"
+  - "Naomi"
+  - "Booz"
+  - "Luther"
+  - "Wesley"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Jérusalem"
+  - "Éden"
+themes:
+  - "Dieu en nous"
+  - "plan de rédemption"
+  - "loi du rachat"
+  - "réforme"
+  - "communion divine"
+pdf_url: "http://cmpp.ch/serie2no6.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Timothée 3"
+  - "Actes 18"
+  - "Jean 12"
+  - "Jean 14"
+  - "Jean 17"
+  - "Matthieu 10"
+  - "Ruth 28"
+---
+SERIE 2 N° 6
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-      POURQUOI LE SAINT-ESPRIT
-            A ETE DONNE?
+  POURQUOI LE SAINT-ESPRIT
+        A ETE DONNE?
 (What The Holy Ghost Was Given For)
 
 
+   17 décembre 1959, soir
+     Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
 
-       17 décembre 1959, soir
-         Branham Tabernacle
-  Jeffersonville — Indiana, U.S.A.
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    POURQUOI LE SAINT-ESPRIT A ETE DONNE?    2
+POURQUOI LE SAINT-ESPRIT A ETE DONNE?    2
 
 
 POURQUOI LE SAINT-ESPRIT A ETE DONNE?
  (What The Holy Ghost Was Given For)
 
 
-
         17 décembre 1959, soir
           Branham Tabernacle
    Jeffersonville — Indiana, U.S.A.
-
-
 
 
 1 Je vois ici le frère Neville; il croit à l’imposition des mains.
@@ -82,9 +118,9 @@ Neville, cela évitera de faire une réunion spéciale pour cela. Vous donnez si
 de téléphone où l’on peut vous atteindre; et puis, vous dites: «Je serai disponible, si vous voulez
 m’envoyer dans une maison…». Si c’est une femme seule, alors, nous pouvons lui envoyer une
 
-        http://www.cmpp.ch
+    http://www.cmpp.ch
 
-    POURQUOI LE SAINT-ESPRIT A ETE DONNE?    3
+POURQUOI LE SAINT-ESPRIT A ETE DONNE?    3
 femme. Si c’est une maison où il y a un homme et sa femme, alors nous pouvons envoyer un
 pasteur. Et nous serions heureux que vous nous aidiez, parce que je sais que c’est la chose la
 plus essentielle, vous concernant tous, chacun d’entre vous. Et souvenez-vous de ceci: “Celui qui
@@ -140,48 +176,48 @@ demandons au Nom de Jésus-Christ. Amen.
 15 Dans ce passage, vous trouverez la plus grande partie du sujet sur lequel je veux parler ce
 soir. Et souvenez-vous, vous qui avez les Bibles avec les textes en rouge, que ce passage est
 
-     http://www.cmpp.ch
+ http://www.cmpp.ch
 
 POURQUOI LE SAINT-ESPRIT A ETE DONNE?                                                                4
 écrit en rouge. Ce sont les paroles que Jésus Lui-même a prononcées. Par conséquent, nous
 pouvons être certains que c’est exactement ce qu’Il a dit: “Le Ciel et la terre passeront, mais Sa
 Parole ne passera pas”. Maintenant, lisons depuis le verset 14 du chapitre 14:
-      “Si vous demandez quelque chose en mon nom, je le ferai. (Quelle promesse bénie!).
-      Si vous m’aimez, gardez mes commandements. Et moi, je prierai le Père, et Il vous
-     donnera un autre consolateur, afin qu’il demeure éternellement avec vous, l’Esprit de
-     vérité, que le monde ne peut recevoir, parce qu’il ne le voit point…
-      (Maintenant, vous qui lisez une Bible traduite du Grec, vous y verrez… voir signifie
-     ici “comprendre”! “… parce que le monde ne le comprend pas”! Cela est tellement
-     vrai! Je relis encore ce passage.)
-      … l’Esprit de vérité que le monde ne peut recevoir, parce qu’il ne le voit point, et qu’il
-     ne le connaît point;… (qui? — le Consolateur) … mais vous, vous le connaissez, car il
-     demeure avec vous, et il sera en vous. (Qui est-ce? — le même Consolateur.)
-      Je ne vous laisserai pas orphelins;     (tout le monde sait que “je” est un pronom
-     personnel) … je viendrai à vous.
-      Encore un peu de temps, et le monde ne me verra plus; mais vous, vous me verrez,
-     car je vis, et vous vivrez aussi.
-      En ce jour-là, vous connaîtrez que je suis en mon Père, et que vous êtes en moi,
-     et que je suis en vous”.
-      Ceci sera le centre de mon exposé, mais nous allons lire un peu plus loin. Relisons
-     encore cette dernière phrase.
-      “En ce jour-là… (le grand jour, le jour du jugement) …vous connaîtrez que je suis en
-     mon Père, que vous êtes en moi, et que je suis en vous.
-      Celui qui a mes commandements et qui les garde, c’est celui qui m’aime; et celui qui
-     m’aime sera aimé de mon Père, je l’aimerai, et je me ferai connaître à lui.
-      Jude, non pas l’Iscariote, lui dit: Seigneur, d’où vient que tu te feras connaître à nous
-     et non au monde? (c’est-à-dire le monde “cosmos”, l’univers. Si vous avez un renvoi dans
-     la marge, là, vous remarquerez… le mien a la lettre “g”, et il est dit: “cosmos, ou
-     systèmes du monde”. C’est-à-dire les églises, etc; vous voyez? “Comment se fait-il
-     que Tu te manifesteras à nous, et non pas à eux? Comment peux-Tu le faire?).
-      Jésus lui répondit: Si quelqu’un m’aime, il gardera ma parole… (Amen!) … et mon
-     Père l’aimera; nous viendrons à lui, et nous ferons notre demeure chez lui.
-      Celui qui ne m’aime pas ne garde point mes paroles… (il pourrait garder les paroles
-     de l’église, mais pas Ses paroles, vous voyez?) Et la parole que vous entendez n’est pas
-     de moi, mais du Père qui m’a envoyé.
-      Je vous ai dit ces choses, pendant que je demeure avec vous. Mais le Consolateur
-     (Paraclet),   l’Esprit-Saint que le Père enverra en mon nom, vous enseignera toutes
-     choses, et vous rappellera tout ce que je vous ai dit”. (Alors, pourquoi Dieu a-t-Il
-     envoyé le Saint-Esprit? Puisse-t-Il joindre Sa bénédiction à Sa Parole.)
+  > “Si vous demandez quelque chose en mon nom, je le ferai. (Quelle promesse bénie!).
+  > Si vous m’aimez, gardez mes commandements. Et moi, je prierai le Père, et Il vous
+  > donnera un autre consolateur, afin qu’il demeure éternellement avec vous, l’Esprit de
+  > vérité, que le monde ne peut recevoir, parce qu’il ne le voit point…
+  > (Maintenant, vous qui lisez une Bible traduite du Grec, vous y verrez… voir signifie
+  > ici “comprendre”! “… parce que le monde ne le comprend pas”! Cela est tellement
+  > vrai! Je relis encore ce passage.)
+  > … l’Esprit de vérité que le monde ne peut recevoir, parce qu’il ne le voit point, et qu’il
+  > ne le connaît point;… (qui? — le Consolateur) … mais vous, vous le connaissez, car il
+  > demeure avec vous, et il sera en vous. (Qui est-ce? — le même Consolateur.)
+  > Je ne vous laisserai pas orphelins;     (tout le monde sait que “je” est un pronom
+  > personnel) … je viendrai à vous.
+  > Encore un peu de temps, et le monde ne me verra plus; mais vous, vous me verrez,
+  > car je vis, et vous vivrez aussi.
+  > En ce jour-là, vous connaîtrez que je suis en mon Père, et que vous êtes en moi,
+  > et que je suis en vous”.
+  > Ceci sera le centre de mon exposé, mais nous allons lire un peu plus loin. Relisons
+  > encore cette dernière phrase.
+  > “En ce jour-là… (le grand jour, le jour du jugement) …vous connaîtrez que je suis en
+  > mon Père, que vous êtes en moi, et que je suis en vous.
+  > Celui qui a mes commandements et qui les garde, c’est celui qui m’aime; et celui qui
+  > m’aime sera aimé de mon Père, je l’aimerai, et je me ferai connaître à lui.
+  > Jude, non pas l’Iscariote, lui dit: Seigneur, d’où vient que tu te feras connaître à nous
+  > et non au monde? (c’est-à-dire le monde “cosmos”, l’univers. Si vous avez un renvoi dans
+  > la marge, là, vous remarquerez… le mien a la lettre “g”, et il est dit: “cosmos, ou
+  > systèmes du monde”. C’est-à-dire les églises, etc; vous voyez? “Comment se fait-il
+  > que Tu te manifesteras à nous, et non pas à eux? Comment peux-Tu le faire?).
+  > Jésus lui répondit: Si quelqu’un m’aime, il gardera ma parole… (Amen!) … et mon
+  > Père l’aimera; nous viendrons à lui, et nous ferons notre demeure chez lui.
+  > Celui qui ne m’aime pas ne garde point mes paroles… (il pourrait garder les paroles
+  > de l’église, mais pas Ses paroles, vous voyez?) Et la parole que vous entendez n’est pas
+  > de moi, mais du Père qui m’a envoyé.
+  > Je vous ai dit ces choses, pendant que je demeure avec vous. Mais le Consolateur
+  > (Paraclet),   l’Esprit-Saint que le Père enverra en mon nom, vous enseignera toutes
+  > choses, et vous rappellera tout ce que je vous ai dit”. (Alors, pourquoi Dieu a-t-Il
+  > envoyé le Saint-Esprit? Puisse-t-Il joindre Sa bénédiction à Sa Parole.)
 16   Jésus a dit aussi: “En ce jour-là, vous connaîtrez que je suis en mon Père, que vous êtes en
 moi, et que je suis en vous”.
 17   Maintenant, si nous allions dire… Rappelez-vous que ceci va être enregistré. Un homme
@@ -196,7 +232,7 @@ confirmé que c’était la Vérité.
 chapitre 14, en commençant au verset 14 pour établir notre base. Nous découvrons ici que le but
 de Dieu, en envoyant le Saint-Esprit, était que Dieu Lui-même puisse habiter dans Son Eglise,
 
-          http://www.cmpp.ch
+      http://www.cmpp.ch
 
 POURQUOI LE SAINT-ESPRIT A ETE DONNE? 5
 et qu’Il puisse réaliser Ses plans au travers de l’Eglise, comme Dieu était dans le Christ pour
@@ -253,7 +289,7 @@ mon pays”.
 famille! «Si vous allez là-bas, vous deviendrez un fanatique, ou quelque chose comme cela». Ces
 paroles n’influencèrent pas Ruth. Il y avait un dessein de Dieu à accomplir.
 
-        http://www.cmpp.ch
+    http://www.cmpp.ch
 
 POURQUOI LE SAINT-ESPRIT A ETE DONNE? 6
 27 C’est exactement la même chose, ce soir, si vous avez faim du Saint-Esprit: c’est quelque
@@ -311,295 +347,77 @@ Justification. Ensuite, à l’époque de Wesley, Il a répandu un peu plus de L
 Sanctification. Et, comme on s’avançait vers la fin des temps, Dieu a rempli Son Eglise.
 Regardez simplement autour de vous, et voyez si cela est vrai ou non!
 
-        http://www.cmpp.ch
-
-    POURQUOI LE SAINT-ESPRIT A ETE DONNE?    7
-34 Vous qui lisez l’histoire, considérez l’époque de Luther. Considérez ce réveil, et voyez ce
-qu’ils ont fait. Voyez combien plus grand fut le réveil de Wesley, combien plus de puissance ils
-avaient, bien qu’étant en minorité. Considérez les jours du Pentecôtisme, quel réveil il y eut alors!
-— ce fut comme un raz-de-marée.
-35 … le journal catholique «Notre Visiteur du Dimanche» [“Our Sunday Visitor” — N.d.T.] avoue
-que les Pentecôtistes ont fait 1’500’000 conversions en un an, surpassant toutes les autres
-dénominations réunies! Les Catholiques n’en revendiquent qu’un million. Leur propre journal,
-“Notre Visiteur du Dimanche”, déclara que les Pentecôtistes les avaient dépassés. Et
-souvenez-vous que les conversions des Pentecôtistes sont des conversions remplies du
-Saint-Esprit! Ils ont commencé par un petit nombre, le long des chemins, là-bas, avec une vieille
-guitare… Les femmes ne pouvaient même pas s’acheter une paire de bas! Ils vivaient au bord des
-voies de chemin de fer, et ramassaient du maïs pour l’écraser et faire du pain pour leurs enfants.
-Mais qu’est-il arrivé? Aujourd’hui, elle est devenue la plus puissante église du monde, non pas aux
-yeux du monde, mais aux yeux de Dieu qui le prouve par ce qu’Il fait pour elle. Il Se répand
-abondamment en elle, déversant le Saint-Esprit en elle.
-36 Maintenant, remarquez ce qui arrive. Dieu Se répand en eux… L’église est donc arrivée à un
-certain point, depuis Luther, Wesley… et ce réveil continue avec les Pentecôtistes, à l’époque
-où nous sommes, par le même Saint-Esprit. Il y en a simplement davantage. Quand les
-Luthériens furent sauvés, ils reçurent une portion du Saint-Esprit. Quand les Méthodistes furent
-sanctifiés, c’était l’oeuvre du Saint-Esprit. Vous voyez? C’était une portion du Saint-Esprit —
-“… afin qu’ils ne parvinssent pas sans nous à la perfection”, dit l’Ecriture. Vous voyez?
-37 De même que la lumière des derniers jours a commencé à briller, Dieu attend de grandes
-choses de nous, parce que, là où il a été beaucoup donné, il est beaucoup redemandé. Aussi
-va-t-Il nous redemander beaucoup plus qu’aux Luthériens ou aux Méthodistes, parce que
-nous marchons dans une plus grande Lumière, avec une plus grande Puissance, avec un
-plus grand témoignage de résurrection qu’eux.
-38 C’est ce que je disais, il n’y a pas longtemps, dans un collège luthérien. Ils me demandèrent:
-«Qu’avons-nous donc reçu?».
-    Je leur dis: «Un homme ensemença un champ de blé. Les premiers petits brins d’herbe
-sortirent; il dit: “Béni soit le Seigneur pour cette récolte de blé!”. Il l’avait en puissance, mais il
-l’avait seulement sous sa forme première. Peu à peu, cela devint une tige, puis une aigrette
-apparut au-dessus: c’étaient les Méthodistes».
-39 Si vous observez la nature, vous verrez Dieu à l’oeuvre. Il y a là un secret qui se retrouve
-même dans mon ministère. En observant la nature, considérez comment les choses se passent,
-quels sont les temps, les moments. Vous pourrez alors comprendre à quelle époque vous vivez.
-Observez cet âge-ci.
-40 Ainsi donc, les Méthodistes, c’étaient des aigrettes. Ils se retournèrent vers les Luthériens, et
-leur dirent: «Nous avons la Sanctification; vous n’avez rien eu de cela». Peu à peu, de ce pollen,
-(les Méthodistes), sortit un grain — un épi de blé: ce furent les Pentecôtistes. Nous y voilà! Il y eut
-la Justification: première étape; la Sanctification: une autre étape; le Baptême du Saint-Esprit:
-encore une étape. Luther, Wesley, la Pentecôte.
-41 Maintenant, ce que fait la Pentecôte… Je l’aime, parce que cela nous ramène, non pas à une
-feuille verte, ou à une aigrette, …Mais le grain ne peut pas dire à l’aigrette: «Je n’ai pas besoin de
-toi». Ou bien, l’aigrette ne peut pas dire à la feuille: «Je n’ai pas besoin de toi». Parce que la
-même vie qui était dans la feuille a fait l’aigrette; la même vie qui était dans l’aigrette a fait le
-grain. C’est l’église luthérienne qui a fait l’église wesleyenne. C’est l’église wesleyenne qui a fait
-l’église de Pentecôte. Et qu’est-ce que la Pentecôte? C’est la restitution d’un grain semblable à
-celui qui a été semé au début, restituant toute la plénitude de la Puissance de la Pentecôte
-par le Baptême du Saint-Esprit au dernier jour. Vous voyez? Oh, c’est une chose glorieuse que
-de croire et de contempler!
-42 Maintenant, l’époque dans laquelle nous vivons a dépassé la Pentecôte. Les Pentecôtistes
-se sont installés dans les organisations, et ont commencé à contrefaire tout ce qui se fait
-dans ces organisations. «Nous sommes ceci, et vous êtes cela!». — C’est naturel; vous ne
-pouvez pas l’empêcher. C’est naturel; ils devaient le faire. C’était dans leur programme de le faire.
+POURQUOI LE SAINT-ESPRIT A ETE DONNE?    7
+34 Vous qui lisez l’histoire, considérez l’époque de Luther. Considérez ce réveil, et voyez ce qu’ils ont fait. Voyez combien plus grand fut le réveil de Wesley, combien plus de puissance ils avaient, bien qu’étant en minorité. Considérez les jours du Pentecôtisme, quel réveil il y eut alors! — ce fut comme un raz-de-marée.
+35 … le journal catholique «Notre Visiteur du Dimanche» [“Our Sunday Visitor” — N.d.T.] avoue que les Pentecôtistes ont fait 1’500’000 conversions en un an, surpassant toutes les autres dénominations réunies! Les Catholiques n’en revendiquent qu’un million. Leur propre journal, “Notre Visiteur du Dimanche”, déclara que les Pentecôtistes les avaient dépassés. Et souvenez-vous que les conversions des Pentecôtistes sont des conversions remplies du Saint-Esprit! Ils ont commencé par un petit nombre, le long des chemins, là-bas, avec une vieille guitare… Les femmes ne pouvaient même pas s’acheter une paire de bas! Ils vivaient au bord des voies de chemin de fer, et ramassaient du maïs pour l’écraser et faire du pain pour leurs enfants. Mais qu’est-il arrivé? Aujourd’hui, elle est devenue la plus puissante église du monde, non pas aux yeux du monde, mais aux yeux de Dieu qui le prouve par ce qu’Il fait pour elle. Il Se répand abondamment en elle, déversant le Saint-Esprit en elle.
+36 Maintenant, remarquez ce qui arrive. Dieu Se répand en eux… L’église est donc arrivée à un certain point, depuis Luther, Wesley… et ce réveil continue avec les Pentecôtistes, à l’époque où nous sommes, par le même Saint-Esprit. Il y en a simplement davantage. Quand les Luthériens furent sauvés, ils reçurent une portion du Saint-Esprit. Quand les Méthodistes furent sanctifiés, c’était l’oeuvre du Saint-Esprit. Vous voyez? C’était une portion du Saint-Esprit — “… afin qu’ils ne parvinssent pas sans nous à la perfection”, dit l’Ecriture. Vous voyez?
+37 De même que la lumière des derniers jours a commencé à briller, Dieu attend de grandes choses de nous, parce que, là où il a été beaucoup donné, il est beaucoup redemandé. Aussi va-t-Il nous redemander beaucoup plus qu’aux Luthériens ou aux Méthodistes, parce que nous marchons dans une plus grande Lumière, avec une plus grande Puissance, avec un plus grand témoignage de résurrection qu’eux.
+38 C’est ce que je disais, il n’y a pas longtemps, dans un collège luthérien. Ils me demandèrent: «Qu’avons-nous donc reçu?».
+    Je leur dis: «Un homme ensemença un champ de blé. Les premiers petits brins d’herbe sortirent; il dit: “Béni soit le Seigneur pour cette récolte de blé!”. Il l’avait en puissance, mais il l’avait seulement sous sa forme première. Peu à peu, cela devint une tige, puis une aigrette apparut au-dessus: c’étaient les Méthodistes».
+39 Si vous observez la nature, vous verrez Dieu à l’oeuvre. Il y a là un secret qui se retrouve même dans mon ministère. En observant la nature, considérez comment les choses se passent, quels sont les temps, les moments. Vous pourrez alors comprendre à quelle époque vous vivez. Observez cet âge-ci.
+40 Ainsi donc, les Méthodistes, c’étaient des aigrettes. Ils se retournèrent vers les Luthériens, et leur dirent: «Nous avons la Sanctification; vous n’avez rien eu de cela». Peu à peu, de ce pollen, (les Méthodistes), sortit un grain — un épi de blé: ce furent les Pentecôtistes. Nous y voilà! Il y eut la Justification: première étape; la Sanctification: une autre étape; le Baptême du Saint-Esprit: encore une étape. Luther, Wesley, la Pentecôte.
+41 Maintenant, ce que fait la Pentecôte… Je l’aime, parce que cela nous ramène, non pas à une feuille verte, ou à une aigrette, …Mais le grain ne peut pas dire à l’aigrette: «Je n’ai pas besoin de toi». Ou bien, l’aigrette ne peut pas dire à la feuille: «Je n’ai pas besoin de toi». Parce que la même vie qui était dans la feuille a fait l’aigrette; la même vie qui était dans l’aigrette a fait le grain. C’est l’église luthérienne qui a fait l’église wesleyenne. C’est l’église wesleyenne qui a fait l’église de Pentecôte. Et qu’est-ce que la Pentecôte? C’est la restitution d’un grain semblable à celui qui a été semé au début, restituant toute la plénitude de la Puissance de la Pentecôte par le Baptême du Saint-Esprit au dernier jour. Vous voyez? Oh, c’est une chose glorieuse que de croire et de contempler!
+42 Maintenant, l’époque dans laquelle nous vivons a dépassé la Pentecôte. Les Pentecôtistes se sont installés dans les organisations, et ont commencé à contrefaire tout ce qui se fait dans ces organisations. «Nous sommes ceci, et vous êtes cela!». — C’est naturel; vous ne pouvez pas l’empêcher. C’est naturel; ils devaient le faire. C’était dans leur programme de le faire.
 
      http://www.cmpp.ch
 
 POURQUOI LE SAINT-ESPRIT A ETE DONNE? 8
-Mais l’Eglise a continué à avancer. Elle est devenue plus grande, plus puissante… c’est la
-restitution des dons. Et beaucoup de Pentecôtistes ne croient pas à la guérison divine, au
-ministère des Anges, et à la Puissance de Dieu. Beaucoup de Pentecôtistes pensent que mes
-visions sont diaboliques. Il y a même beaucoup d’organisations pentecôtistes qui ne veulent rien
-avoir à faire avec moi. Vous voyez, nous les avons dépassés. De même que les Méthodistes ont
-traité de fous les Pentecôtistes à cause du parler en langues, de même que les Luthériens ont
-traité de fous les Méthodistes à cause de leurs cris… Vous voyez? Mais tout cela, c’est la
-marche en avant du Saint-Esprit, jusqu’à ce que l’Eglise soit remplie, saturée (alléluia!) de la
-glorieuse Puissance du Dieu Tout-puissant, et atteigne ainsi la position où les mêmes oeuvres
-que Jésus a accomplies seront manifestées en elle. Nous en sommes tout près, chers amis.
-43 Permettez que je m’arrête ici une minute pour montrer pourquoi Dieu a mis le Saint-Esprit
-dans l’Eglise; pour vous donner un autre exemple, afin que vous compreniez bien, revenons à
-l’Ancien Testament. Quand un enfant… Un homme a fondé un foyer; il s’est marié: c’est la
-première chose. Puis il est devenu un homme important (comme il en est d’une organisation).
-C’était bien. Ensuite, il y eut une naissance dans ce foyer. C’est quand le Saint-Esprit… Un autre
-esprit entra, qui était un fils. Ce fils, il ne faisait pas encore complètement partie de la famille, il
-n’était pas encore un héritier jusqu’à ce qu’il est atteint un certain âge; il devait d’abord être
-mis à l’épreuve. Il y avait la loi de l’adoption. (C’est pour vous, pasteurs, que je parle maintenant
-au sujet de l’adoption d’un fils). Alors, quand vint le moment où il devait être adopté…
-44 Jésus en donna une illustration magnifique sur la Montagne de la Transfiguration. Comme je
-l’ai déjà dit, Dieu ne fera jamais rien de contraire à Sa loi. Si vous avez un puits artésien sur cette
-colline, jaillissant haut dans les airs, et, sur une autre colline en face, une plantation desséchée,
-vous pourrez vous mettre sur cette colline, et hurler: «Eh là, eau! viens ici arroser ma plantation!»
-— elle ne viendra jamais; mais, si vous agissez selon les lois de la gravitation, vous pourrez
-irriguer cette plantation.
-45 Si vous avez un malade ici, ou un pécheur, ou un homme qui veut corriger sa vie (un homme
-qui ne peut pas s’empêcher de boire, qui ne peut pas cesser de fumer, qui ne peut pas
-abandonner la luxure; et d’autres choses encore); si vous agissez strictement selon les lois de
-Dieu, et laissez venir le Saint-Esprit, alors cet homme ne sera plus le même. Il se corrigera,
-parce que le Saint-Esprit Se chargera de lui. Mais vous devez agir selon les lois de Dieu, selon
-Sa règle.
-46 Alors, dans l’Ancien Testament, quand l’enfant était né, on l’observait pour voir comment il se
-comporterait. Le père (un grand homme d’affaires de cette époque, âgé de quarante ou cinquante
-ans), n’avait pas le temps de s’occuper lui-même de cet enfant, alors il prenait… A cette époque, il
-n’y avait pas d’écoles comme maintenant, aussi avaient-ils des “précepteurs”, ou “pédagogues”,
-ou professeurs. Et ce professeur était le meilleur qu’il pût trouver, de manière qu’il soit fidèle et
-dise au père toute la vérité.
-47 Or, quand le garçon atteignait un certain âge (disons qu’il était mûr), si ce garçon était un
-renégat, un bon à rien, s’il se désintéressait des affaires de son père, s’il ne pensait qu’à
-courtiser les femmes, à boire, à jouer ou à aller aux courses, ce garçon serait toujours le fils de
-son père, mais il ne recevrait jamais le titre d’héritier de tous les biens de son père. Mais s’il
-était un bon garçon, s’occupant des affaires de son père, s’affirmant comme un garçon loyal, alors
-on préparait une cérémonie. On faisait sortir le garçon dans la rue, revêtu d’une robe blanche.
-Ensuite, on l’installait sur une estrade pour que toute la ville puisse le voir. Il y avait alors une fête,
-et des réjouissances. C’est alors que le père procédait à la cérémonie de l’adoption. Il adoptait
-son propre fils dans son affaire, et alors, le fils devenait l’égal de son père. En d’autres
-termes, si c’était aujourd’hui, la signature du fils sur un chèque serait aussi valable que celle de
-son père.
-48 Maintenant, observez ce que Dieu a fait. Quand Son Fils est né, Il L’a laissé pendant trente
-ans, L’observant, L’éprouvant, puis Il Lui fit subir une dure épreuve de trois ans. Après cela, à la fin
-de cette dure épreuve, quand Il vit que Son Fils S’occupait des Affaires de Son Père, Il prit
-Pierre, Jacques et Jean (trois témoins), et monta au sommet de la montagne (la Montagne de la
-Transfiguration, Evangile de Luc), et là, Dieu accomplit les formalités de la loi d’adoption. Ils
-levèrent les yeux, et ils virent Jésus, et Ses vêtements étaient d’une blancheur aussi éclatante que
-l’éclair. Et alors qu’une nuée Le recouvrait, une Voix sortit de la nuée, et dit: “Celui-ci est Mon
+Mais l’Eglise a continué à avancer. Elle est devenue plus grande, plus puissante… c’est la restitution des dons. Et beaucoup de Pentecôtistes ne croient pas à la guérison divine, au ministère des Anges, et à la Puissance de Dieu. Beaucoup de Pentecôtistes pensent que mes visions sont diaboliques. Il y a même beaucoup d’organisations pentecôtistes qui ne veulent rien avoir à faire avec moi. Vous voyez, nous les avons dépassés. De même que les Méthodistes ont traité de fous les Pentecôtistes à cause du parler en langues, de même que les Luthériens ont traité de fous les Méthodistes à cause de leurs cris… Vous voyez? Mais tout cela, c’est la marche en avant du Saint-Esprit, jusqu’à ce que l’Eglise soit remplie, saturée (alléluia!) de la glorieuse Puissance du Dieu Tout-puissant, et atteigne ainsi la position où les mêmes oeuvres que Jésus a accomplies seront manifestées en elle. Nous en sommes tout près, chers amis.
+43 Permettez que je m’arrête ici une minute pour montrer pourquoi Dieu a mis le Saint-Esprit dans l’Eglise; pour vous donner un autre exemple, afin que vous compreniez bien, revenons à l’Ancien Testament. Quand un enfant… Un homme a fondé un foyer; il s’est marié: c’est la première chose. Puis il est devenu un homme important (comme il en est d’une organisation). C’était bien. Ensuite, il y eut une naissance dans ce foyer. C’est quand le Saint-Esprit… Un autre esprit entra, qui était un fils. Ce fils, il ne faisait pas encore complètement partie de la famille, il n’était pas encore un héritier jusqu’à ce qu’il est atteint un certain âge; il devait d’abord être mis à l’épreuve. Il y avait la loi de l’adoption. (C’est pour vous, pasteurs, que je parle maintenant au sujet de l’adoption d’un fils). Alors, quand vint le moment où il devait être adopté…
+44 Jésus en donna une illustration magnifique sur la Montagne de la Transfiguration. Comme je l’ai déjà dit, Dieu ne fera jamais rien de contraire à Sa loi. Si vous avez un puits artésien sur cette colline, jaillissant haut dans les airs, et, sur une autre colline en face, une plantation desséchée, vous pourrez vous mettre sur cette colline, et hurler: «Eh là, eau! viens ici arroser ma plantation!» — elle ne viendra jamais; mais, si vous agissez selon les lois de la gravitation, vous pourrez irriguer cette plantation.
+45 Si vous avez un malade ici, ou un pécheur, ou un homme qui veut corriger sa vie (un homme qui ne peut pas s’empêcher de boire, qui ne peut pas cesser de fumer, qui ne peut pas abandonner la luxure; et d’autres choses encore); si vous agissez strictement selon les lois de Dieu, et laissez venir le Saint-Esprit, alors cet homme ne sera plus le même. Il se corrigera, parce que le Saint-Esprit Se chargera de lui. Mais vous devez agir selon les lois de Dieu, selon Sa règle.
+46 Alors, dans l’Ancien Testament, quand l’enfant était né, on l’observait pour voir comment il se comporterait. Le père (un grand homme d’affaires de cette époque, âgé de quarante ou cinquante ans), n’avait pas le temps de s’occuper lui-même de cet enfant, alors il prenait… A cette époque, il n’y avait pas d’écoles comme maintenant, aussi avaient-ils des “précepteurs”, ou “pédagogues”, ou professeurs. Et ce professeur était le meilleur qu’il pût trouver, de manière qu’il soit fidèle et dise au père toute la vérité.
+47 Or, quand le garçon atteignait un certain âge (disons qu’il était mûr), si ce garçon était un renégat, un bon à rien, s’il se désintéressait des affaires de son père, s’il ne pensait qu’à courtiser les femmes, à boire, à jouer ou à aller aux courses, ce garçon serait toujours le fils de son père, mais il ne recevrait jamais le titre d’héritier de tous les biens de son père. Mais s’il était un bon garçon, s’occupant des affaires de son père, s’affirmant comme un garçon loyal, alors on préparait une cérémonie. On faisait sortir le garçon dans la rue, revêtu d’une robe blanche. Ensuite, on l’installait sur une estrade pour que toute la ville puisse le voir. Il y avait alors une fête, et des réjouissances. C’est alors que le père procédait à la cérémonie de l’adoption. Il adoptait son propre fils dans son affaire, et alors, le fils devenait l’égal de son père. En d’autres termes, si c’était aujourd’hui, la signature du fils sur un chèque serait aussi valable que celle de son père.
+48 Maintenant, observez ce que Dieu a fait. Quand Son Fils est né, Il L’a laissé pendant trente ans, L’observant, L’éprouvant, puis Il Lui fit subir une dure épreuve de trois ans. Après cela, à la fin de cette dure épreuve, quand Il vit que Son Fils S’occupait des Affaires de Son Père, Il prit Pierre, Jacques et Jean (trois témoins), et monta au sommet de la montagne (la Montagne de la Transfiguration, Evangile de Luc), et là, Dieu accomplit les formalités de la loi d’adoption. Ils levèrent les yeux, et ils virent Jésus, et Ses vêtements étaient d’une blancheur aussi éclatante que l’éclair. Et alors qu’une nuée Le recouvrait, une Voix sortit de la nuée, et dit: “Celui-ci est Mon
 
         http://www.cmpp.ch
 
     POURQUOI LE SAINT-ESPRIT A ETE DONNE?    9
-Fils bien-aimé, écoutez-Le! Je me retire, maintenant, car Je n’ai plus rien à dire. Ce qu’Il dit est la
-Loi et la Vérité!”.
-49 Maintenant, l’église est passée par toutes ces écoles. Elle s’est mariée il y a très longtemps,
-et est devenue une dénomination, une organisation. Mais, remarquez bien, la naissance a
-provoqué quelque chose d’autre. Et maintenant, elle a atteint un point où l’église pentecôtiste a été
-examinée, et éprouvée, au moyen de la nouvelle naissance. Et maintenant, elle est arrivée à un
-point… Dieu ne traite pas avec l’Eglise, en tant qu’organisation. Il ne traite pas avec l’Eglise, en
-tant que groupe de gens. Il traite avec l’Eglise considérée comme des personnes
-individuelles, avec chaque personne formant l’Eglise. Or, nous sommes à une époque… ce
-n’est pas un secret, nous le voyons tous. Quand un homme a fait ses preuves et que Dieu l’aime,
-Il le met à l’écart quelque part avec Lui. Là, devant les anges, Il fait quelque chose pour lui. Il
-l’élève dans la présence de Dieu, le comble de dons, le remplit, et l’envoie dans le monde.
-C’est l’époque dans laquelle nous vivons.
-50 Le même Saint-Esprit qui a sauvé les Luthériens, qui a sanctifié les Méthodistes, qui a baptisé
-les Pentecôtistes, est en train de préparer maintenant la venue de notre Seigneur Jésus.
-Quand cela sera devenu tellement puissant, ce Corps viendra alors dans ce groupe de l’Eglise, et
-cela fera sortir du tombeau tous les autres corps. Il y aura une résurrection! Voilà la
-mission du Saint-Esprit.
-Qu’est-ce que le Saint-Esprit? Sans nous, ils ne peuvent pas devenir parfaits. Ils vivaient à une
-époque au-dessous de cela; nous vivons dans une autre époque. “Quand l’ennemi viendra comme
-un fleuve, l’Esprit de l’Eternel lèvera un étendard contre lui” (Darby). Vous voyez?
-51 Autrefois, ils n’étaient de loin pas aussi avancés que nous. Ils ne pouvaient pas faire une
-bombe atomique ou une automobile. Ils n’avaient pas la science et les choses que nous avons
-maintenant — des choses mystérieuses. On essaie de prouver par des analyses les assertions de
-ceux qui disent que l’homme a été créé à partir de la poussière, et ainsi, on fait du peuple un
-peuple d’infidèles… Mais maintenant que nous en avons besoin, l’Esprit de Dieu dresse un
-étendard! Qu’est-ce que cela signifie? — Il répand Son Esprit! Alors, ceux qui se reposent là-bas
-dans le tombeau, ou sous l’autel de Dieu, comme le dit l’Ecriture, crient: “Combien de temps,
-Seigneur? Combien de temps? Encore combien de temps?”. Dieu S’occupe de moi et de vous!
-L’Eglise s’occupe de moi et de vous. C’est le temps de l’Adoption, au moment où Dieu verse
-en nous Sa Plénitude, Sa Puissance, Sa Résurrection; le temps où l’Eglise et le Christ se
-rapprochent tellement l’Un de l’autre, que le Christ devient visible parmi nous, ressuscite les
-morts, et alors nous partirons dans l’enlèvement.
-52 Maintenant, nous allons vous montrer que, seuls ceux qui sont remplis du Saint-Esprit
-s’en iront dans cet enlèvement. “Les autres morts ne revinrent point à la vie jusqu’à ce que les
-mille ans fussent accomplis”. C’est vrai! Dans l’enlèvement, il n’y a que ceux qui sont remplis
-du Saint-Esprit.
-53 Mais Dieu a donné le Saint-Esprit. Je prends un autre passage de l’Ecriture, Jean 14.12. C’est
-un texte qui est très connu de tous ceux qui viennent dans ce tabernacle.
+Fils bien-aimé, écoutez-Le! Je me retire, maintenant, car Je n’ai plus rien à dire. Ce qu’Il dit est la Loi et la Vérité!”.
+49 Maintenant, l’église est passée par toutes ces écoles. Elle s’est mariée il y a très longtemps, et est devenue une dénomination, une organisation. Mais, remarquez bien, la naissance a provoqué quelque chose d’autre. Et maintenant, elle a atteint un point où l’église pentecôtiste a été examinée, et éprouvée, au moyen de la nouvelle naissance. Et maintenant, elle est arrivée à un point… Dieu ne traite pas avec l’Eglise, en tant qu’organisation. Il ne traite pas avec l’Eglise, en tant que groupe de gens. Il traite avec l’Eglise considérée comme des personnes individuelles, avec chaque personne formant l’Eglise. Or, nous sommes à une époque… ce n’est pas un secret, nous le voyons tous. Quand un homme a fait ses preuves et que Dieu l’aime, Il le met à l’écart quelque part avec Lui. Là, devant les anges, Il fait quelque chose pour lui. Il l’élève dans la présence de Dieu, le comble de dons, le remplit, et l’envoie dans le monde. C’est l’époque dans laquelle nous vivons.
+50 Le même Saint-Esprit qui a sauvé les Luthériens, qui a sanctifié les Méthodistes, qui a baptisé les Pentecôtistes, est en train de préparer maintenant la venue de notre Seigneur Jésus. Quand cela sera devenu tellement puissant, ce Corps viendra alors dans ce groupe de l’Eglise, et cela fera sortir du tombeau tous les autres corps. Il y aura une résurrection! Voilà la mission du Saint-Esprit.
+Qu’est-ce que le Saint-Esprit? Sans nous, ils ne peuvent pas devenir parfaits. Ils vivaient à une époque au-dessous de cela; nous vivons dans une autre époque. “Quand l’ennemi viendra comme un fleuve, l’Esprit de l’Eternel lèvera un étendard contre lui” (Darby). Vous voyez?
+51 Autrefois, ils n’étaient de loin pas aussi avancés que nous. Ils ne pouvaient pas faire une bombe atomique ou une automobile. Ils n’avaient pas la science et les choses que nous avons maintenant — des choses mystérieuses. On essaie de prouver par des analyses les assertions de ceux qui disent que l’homme a été créé à partir de la poussière, et ainsi, on fait du peuple un peuple d’infidèles… Mais maintenant que nous en avons besoin, l’Esprit de Dieu dresse un étendard! Qu’est-ce que cela signifie? — Il répand Son Esprit! Alors, ceux qui se reposent là-bas dans le tombeau, ou sous l’autel de Dieu, comme le dit l’Ecriture, crient: “Combien de temps, Seigneur? Combien de temps? Encore combien de temps?”. Dieu S’occupe de moi et de vous! L’Eglise s’occupe de moi et de vous. C’est le temps de l’Adoption, au moment où Dieu verse en nous Sa Plénitude, Sa Puissance, Sa Résurrection; le temps où l’Eglise et le Christ se rapprochent tellement l’Un de l’autre, que le Christ devient visible parmi nous, ressuscite les morts, et alors nous partirons dans l’enlèvement.
+52 Maintenant, nous allons vous montrer que, seuls ceux qui sont remplis du Saint-Esprit s’en iront dans cet enlèvement. “Les autres morts ne revinrent point à la vie jusqu’à ce que les mille ans fussent accomplis”. C’est vrai! Dans l’enlèvement, il n’y a que ceux qui sont remplis du Saint-Esprit.
+53 Mais Dieu a donné le Saint-Esprit. Je prends un autre passage de l’Ecriture, Jean 14.12. C’est un texte qui est très connu de tous ceux qui viennent dans ce tabernacle.
        “En vérité, je vous le dis, celui qui croit en moi…”.
-    Que ce mot “croit” ne vous fasse pas reculer! Dans une église nominale, on dit: «Oui, je
-crois; je crois que Jésus est le Fils de Dieu». Le diable le croit pareillement! C’est exact. La Bible a
-dit qu’il le croyait. Mais l’Ecriture dit, dans Jean, qu’aucun homme ne peut appeler Jésus: le
-Christ, si ce n’est par le Saint-Esprit. Vous devez vraiment, d’après l’Ecriture… (arrêtons-nous
-ici un moment avant que je finisse la lecture.)
-54 Vous n’êtes pas converti tant que vous n’avez pas reçu le Saint-Esprit. C’est vrai. Vous
-croyez en… Le Saint-Esprit vous a parlé, et vous L’avez publiquement confessé. Le diable a fait la
-même chose. “Je crois qu’Il est le Fils de Dieu”. Le diable le croit aussi! Mais vous marchez vers
-Jésus. Quand Pierre a été appelé et justifié en croyant en notre Seigneur Jésus-Christ… dans
-Jean 17.17, Jésus les a sanctifiés par la Parole, car la Parole est la Vérité, et Il est la Parole.
-Dans le chapitre 1 de son évangile, Jean dit: “Au commencement était la Parole, et la Parole était
-avec Dieu, et la Parole était Dieu… Et la Parole a été faite chair, et elle a habité parmi nous…”. Il
-était la Parole, c’est pourquoi Il les sanctifia. Il dit: “Père (parlant à l’Esprit en Lui), je les sanctifie
-par la Parole” — leur imposant les mains Lui-même. “Ta Parole est la vérité”. Ce n’est que par Sa
+    Que ce mot “croit” ne vous fasse pas reculer! Dans une église nominale, on dit: «Oui, je crois; je crois que Jésus est le Fils de Dieu». Le diable le croit pareillement! C’est exact. La Bible a dit qu’il le croyait. Mais l’Ecriture dit, dans Jean, qu’aucun homme ne peut appeler Jésus: le Christ, si ce n’est par le Saint-Esprit. Vous devez vraiment, d’après l’Ecriture… (arrêtons-nous ici un moment avant que je finisse la lecture.)
+54 Vous n’êtes pas converti tant que vous n’avez pas reçu le Saint-Esprit. C’est vrai. Vous croyez en… Le Saint-Esprit vous a parlé, et vous L’avez publiquement confessé. Le diable a fait la même chose. “Je crois qu’Il est le Fils de Dieu”. Le diable le croit aussi! Mais vous marchez vers Jésus. Quand Pierre a été appelé et justifié en croyant en notre Seigneur Jésus-Christ… dans Jean 17.17, Jésus les a sanctifiés par la Parole, car la Parole est la Vérité, et Il est la Parole. Dans le chapitre 1 de son évangile, Jean dit: “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu… Et la Parole a été faite chair, et elle a habité parmi nous…”. Il était la Parole, c’est pourquoi Il les sanctifia. Il dit: “Père (parlant à l’Esprit en Lui), je les sanctifie par la Parole” — leur imposant les mains Lui-même. “Ta Parole est la vérité”. Ce n’est que par Sa
 
     http://www.cmpp.ch
 
 POURQUOI LE SAINT-ESPRIT A ETE DONNE? 10
-Parole, seulement, qu’Il Le créa dans le sein d’une femme. Oh, il était tout à fait impossible que
-ce fût par autre chose que par cette Parole de Dieu qu’Il pouvait être manifesté. “Je les
-sanctifie”.
-55 Il leur donna le pouvoir sur les esprits impurs. Ils les chassèrent. Il inscrivit leurs noms dans le
-Livre de Vie de l’Agneau. Il les envoya dans le monde (Matthieu 10) et Il leur donna le pouvoir sur
-les esprits impurs pour chasser les démons et accomplir des miracles, et ainsi de suite. Et ils
-revinrent tout joyeux, disant: “Même les démons nous sont soumis!”.
-     Il leur dit: “Ne vous réjouissez pas parce que les démons vous sont soumis, mais parce que
-votre nom est inscrit dans le Livre”. Et Judas était avec eux! Voyez comme il s’est approché,
-par la justification, puis par la sanctification; mais quand a-t-il dévoilé sa vraie nature? Où s’est-il
-montré tel qu’il était? C’est avant Pentecôte qu’il a abattu ses cartes.
-56 Remarquez que cet esprit sera aussi pieux et aussi dévot que possible, mais lorsqu’il
-s’approchera du Saint-Esprit, le Saint-Esprit le rejettera; parce qu’il s’agit de cet esprit-là. Ne
-pouvez-vous pas voir s’approcher l’antichrist? Jésus a dit qu’ils seraient si près l’un de l’autre dans
-les derniers jours qu’il pourrait tromper même les élus, si c’était possible. Mais souvenez-vous, il
-n’y a que les élus qui pourront le distinguer. Dieu appelle par l’élection! N’êtes-vous pas heureux
-d’être un de ces élus? Vous qui êtes ici ce soir, ne sentez-vous pas quelque chose dans votre
-coeur qui vous entraîne à dire: «Je veux le Saint-Esprit. Je Te veux, Seigneur, dans mon
-cœur!»? C’est parce que Dieu a inscrit votre nom dans le Livre de Vie de l’Agneau dès
-avant la fondation du monde! C’est Lui qui l’a dit. Jésus a dit: “Aucun homme ne peut venir à
-Moi, si Mon Père ne l’a d’abord attiré. Et à tous ceux qui viendront à Moi, Je donnerai la Vie
-Eternelle”. Qu’est-ce que la Vie Eternelle? Le Saint-Esprit est la Vie Eternelle. Prenez ce mot,
-cherchez-le en grec, et vous trouverez: Zoe; Zoe est le Saint-Esprit. “Tous ceux que le Père M’a
-donnés viendront à Moi. Et à tous ceux qui viendront à Moi, Je donnerai le Saint-Esprit, et
-Je les ressusciterai au dernier jour. Je le ferai!”. Il l’a dit! Il n’y a pas de “si” ni de “mais” à ce
-sujet. “Je le ferai”. Tous ceux qui viennent… Je leur donnerai la Vie Eternelle. Ils devront
-ressusciter, parce qu’ils auront la Vie Eternelle. Ils doivent venir! Ils ne peuvent pas plus mourir
-que Dieu ne peut mourir.
-57 Oh, mes chers amis de cette ville et de tout ce pays, si je pouvais seulement, avec ma voix
-humaine, faire pénétrer dans vos coeurs l’importance qu’il y a à recevoir le Baptême du
-Saint-Esprit, ce serait la révélation la plus extraordinaire que vous auriez jamais eue dans
-votre vie — de comprendre que vous devez le faire.
-58 Permettez-moi de vous dire clairement que vous n’êtes pas convertis! Pierre a été sauvé; il
-croyait au Seigneur; il L’a suivi. Jésus lui a dit qui il était; Il lui ordonna de Le suivre. Il lui donna le
-pouvoir sur les esprits impurs et le sanctifia. Mais après tout cela… Et il devint le chef du groupe;
-les Catholiques l’auraient appelé l’évêque de l’église, ou le pape, ou ce que vous voudrez, le chef
-de l’Eglise. Pourtant, Jésus lui demanda, le jour où il Le renia: “Simon, M’aimes-tu?”.
+Parole, seulement, qu’Il Le créa dans le sein d’une femme. Oh, il était tout à fait impossible que ce fût par autre chose que par cette Parole de Dieu qu’Il pouvait être manifesté. “Je les sanctifie”.
+55 Il leur donna le pouvoir sur les esprits impurs. Ils les chassèrent. Il inscrivit leurs noms dans le Livre de Vie de l’Agneau. Il les envoya dans le monde (Matthieu 10) et Il leur donna le pouvoir sur les esprits impurs pour chasser les démons et accomplir des miracles, et ainsi de suite. Et ils revinrent tout joyeux, disant: “Même les démons nous sont soumis!”.
+     Il leur dit: “Ne vous réjouissez pas parce que les démons vous sont soumis, mais parce que votre nom est inscrit dans le Livre”. Et Judas était avec eux! Voyez comme il s’est approché, par la justification, puis par la sanctification; mais quand a-t-il dévoilé sa vraie nature? Où s’est-il montré tel qu’il était? C’est avant Pentecôte qu’il a abattu ses cartes.
+56 Remarquez que cet esprit sera aussi pieux et aussi dévot que possible, mais lorsqu’il s’approchera du Saint-Esprit, le Saint-Esprit le rejettera; parce qu’il s’agit de cet esprit-là. Ne pouvez-vous pas voir s’approcher l’antichrist? Jésus a dit qu’ils seraient si près l’un de l’autre dans les derniers jours qu’il pourrait tromper même les élus, si c’était possible. Mais souvenez-vous, il n’y a que les élus qui pourront le distinguer. Dieu appelle par l’élection! N’êtes-vous pas heureux d’être un de ces élus? Vous qui êtes ici ce soir, ne sentez-vous pas quelque chose dans votre coeur qui vous entraîne à dire: «Je veux le Saint-Esprit. Je Te veux, Seigneur, dans mon cœur!»? C’est parce que Dieu a inscrit votre nom dans le Livre de Vie de l’Agneau dès avant la fondation du monde! C’est Lui qui l’a dit. Jésus a dit: “Aucun homme ne peut venir à Moi, si Mon Père ne l’a d’abord attiré. Et à tous ceux qui viendront à Moi, Je donnerai la Vie Eternelle”. Qu’est-ce que la Vie Eternelle? Le Saint-Esprit est la Vie Eternelle. Prenez ce mot, cherchez-le en grec, et vous trouverez: Zoe; Zoe est le Saint-Esprit. “Tous ceux que le Père M’a donnés viendront à Moi. Et à tous ceux qui viendront à Moi, Je donnerai le Saint-Esprit, et Je les ressusciterai au dernier jour. Je le ferai!”. Il l’a dit! Il n’y a pas de “si” ni de “mais” à ce sujet. “Je le ferai”. Tous ceux qui viennent… Je leur donnerai la Vie Eternelle. Ils devront ressusciter, parce qu’ils auront la Vie Eternelle. Ils doivent venir! Ils ne peuvent pas plus mourir que Dieu ne peut mourir.
+57 Oh, mes chers amis de cette ville et de tout ce pays, si je pouvais seulement, avec ma voix humaine, faire pénétrer dans vos coeurs l’importance qu’il y a à recevoir le Baptême du Saint-Esprit, ce serait la révélation la plus extraordinaire que vous auriez jamais eue dans votre vie — de comprendre que vous devez le faire.
+58 Permettez-moi de vous dire clairement que vous n’êtes pas convertis! Pierre a été sauvé; il croyait au Seigneur; il L’a suivi. Jésus lui a dit qui il était; Il lui ordonna de Le suivre. Il lui donna le pouvoir sur les esprits impurs et le sanctifia. Mais après tout cela… Et il devint le chef du groupe; les Catholiques l’auraient appelé l’évêque de l’église, ou le pape, ou ce que vous voudrez, le chef de l’Eglise. Pourtant, Jésus lui demanda, le jour où il Le renia: “Simon, M’aimes-tu?”.
      Et il répondit: “Seigneur, Tu sais que je T’aime”.
      Et Il dit: “Pais Mes brebis”. Jésus dit cela trois fois.
-     Pierre dit: “Tu sais que je T’aime. J’irai avec Toi jusqu’à la fin, j’irai avec Toi jusqu’à la mort”,
-et ainsi de suite.
-59 Mais Jésus lui dit: “Avant que le coq ait chanté, tu m’auras renié trois fois”. Il dit encore: “Mais,
-Pierre, j’ai prié pour toi”. Ecoutez, ce n’est pas tout! “Quand tu seras converti, affermis tes
-frères!”. — Quand tu seras converti! Il avait poussé des cris; il avait probablement dansé dans
-l’Esprit; il avait fait toutes sortes de choses, mais il n’avait pas encore reçu le Saint-Esprit. —
-“Quand tu seras converti, alors affermis tes frères!”. Cela est vrai! Il faut réaliser Ses desseins.
-60 Maintenant, laissez-moi finir la lecture de Jean 14.12. Jésus dit: “En vérité, en vérité, je vous
-le dis, celui qui croit… (et vous ne pouvez pas croire, à moins…) — croit en Moi…”. Vous pouvez
-croire en Lui. Combien comprennent cela? Dites: «Amen!» [L’assemblée dit: «Amen!» — N.d.R.].
-61 Vous vous souvenez du chapitre 19 des Actes (cela m’ennuie d’arrêter ceci ici, mais je dois
-dire les choses comme elles me viennent à l’esprit), au 19ème chapitre des Actes, quand ce
-prédicateur baptiste qui était un homme de loi et avait été converti… il prêchait, et il sauvait des
-gens, et ils avaient une grande joie, se réjouissant simplement et criant, quand ils se réunissaient
-(Actes 18). Aquila et Priscille… (nous en avons parlé hier soir.) Et ils allèrent le voir. Ils savaient
+     Pierre dit: “Tu sais que je T’aime. J’irai avec Toi jusqu’à la fin, j’irai avec Toi jusqu’à la mort”, et ainsi de suite.
+59 Mais Jésus lui dit: “Avant que le coq ait chanté, tu m’auras renié trois fois”. Il dit encore: “Mais, Pierre, j’ai prié pour toi”. Ecoutez, ce n’est pas tout! “Quand tu seras converti, affermis tes frères!”. — Quand tu seras converti! Il avait poussé des cris; il avait probablement dansé dans l’Esprit; il avait fait toutes sortes de choses, mais il n’avait pas encore reçu le Saint-Esprit. — “Quand tu seras converti, alors affermis tes frères!”. Cela est vrai! Il faut réaliser Ses desseins.
+60 Maintenant, laissez-moi finir la lecture de Jean 14.12. Jésus dit: “En vérité, en vérité, je vous le dis, celui qui croit… (et vous ne pouvez pas croire, à moins…) — croit en Moi…”. Vous pouvez croire en Lui. Combien comprennent cela? Dites: «Amen!» [L’assemblée dit: «Amen!» — N.d.R.].
+61 Vous vous souvenez du chapitre 19 des Actes (cela m’ennuie d’arrêter ceci ici, mais je dois dire les choses comme elles me viennent à l’esprit), au 19ème chapitre des Actes, quand ce prédicateur baptiste qui était un homme de loi et avait été converti… il prêchait, et il sauvait des gens, et ils avaient une grande joie, se réjouissant simplement et criant, quand ils se réunissaient (Actes 18). Aquila et Priscille… (nous en avons parlé hier soir.) Et ils allèrent le voir. Ils savaient
 
         http://www.cmpp.ch
 
 POURQUOI LE SAINT-ESPRIT A ETE DONNE? 11
-qu’il était un homme de bien, un érudit de la Parole. Il prouvait par la Bible que Jésus était le Fils
-de Dieu, mais il ne connaissait que le baptême de Jean; il ne connaissait pas encore le
-Baptême du Saint-Esprit. Aquila et Priscille, ce mari et sa femme, petits fabricants de tentes (Paul,
-lui aussi, était un fabricant de tentes), avaient reçu le Saint-Esprit pendant l’enseignement de Paul;
-ils dirent: “Nous avons un jeune frère qui vient ici. Laissons-le nous parler un moment à ce sujet”.
-     Paul vint, et l’entendant prêcher, il sut que c’était un homme de bien, un érudit; il leur dit:
-“Avez-vous reçu le Saint-Esprit, depuis que vous avez cru?”.
+qu’il était un homme de bien, un érudit de la Parole. Il prouvait par la Bible que Jésus était le Fils de Dieu, mais il ne connaissait que le baptême de Jean; il ne connaissait pas encore le Baptême du Saint-Esprit. Aquila et Priscille, ce mari et sa femme, petits fabricants de tentes (Paul, lui aussi, était un fabricant de tentes), avaient reçu le Saint-Esprit pendant l’enseignement de Paul; ils dirent: “Nous avons un jeune frère qui vient ici. Laissons-le nous parler un moment à ce sujet”.
+     Paul vint, et l’entendant prêcher, il sut que c’était un homme de bien, un érudit; il leur dit: “Avez-vous reçu le Saint-Esprit, depuis que vous avez cru?”.
      Ils dirent: “Nous ne savions pas qu’il y eût un Saint-Esprit”.
      Paul dit: “De quel baptême (ou le vrai mot grec ici: comment) avez-vous été baptisés?”.
      Ils répondirent: “Nous avons déjà été baptisés du baptême de Jean”.
-62 Remarquez ce que Paul a dit. Paul leur dit: “Jean baptisait pour la repentance, non pas pour
-la rémission des péchés, mais pour la repentance”. C’est ce que vous croyez quand vous
-reconnaissez le Christ comme votre Sauveur personnel: vous croyez au Baptême du
-Saint-Esprit. Mais cela n’est pas le Baptême du Saint-Esprit, mes chers frères baptistes! C’est
-faux!
-     Un frère m’a dit l’autre jour (ou il y a quelque temps): «Frère Branham, Abraham croyait en
-Dieu, et cela lui fut imputé à justice».
+62 Remarquez ce que Paul a dit. Paul leur dit: “Jean baptisait pour la repentance, non pas pour la rémission des péchés, mais pour la repentance”. C’est ce que vous croyez quand vous reconnaissez le Christ comme votre Sauveur personnel: vous croyez au Baptême du Saint-Esprit. Mais cela n’est pas le Baptême du Saint-Esprit, mes chers frères baptistes! C’est faux!
+     Un frère m’a dit l’autre jour (ou il y a quelque temps): «Frère Branham, Abraham croyait en Dieu, et cela lui fut imputé à justice».
      Je dis: «C’est vrai!».
      Il continua: «Que peut faire un homme de plus que croire?».
-63 Je répondis: «C’est tout ce qu’un homme peut faire. Tout ce qu’il peut faire aujourd’hui est
-de croire en Dieu. Mais Dieu lui a donné le sceau de la circoncision (nous avons vu cela hier soir)
-comme un signe qu’Il avait accepté sa foi en Lui». Vous croyez en Lui quand vous Le
-reconnaissez comme votre Sauveur personnel. Mais quand Dieu vous donne le Sceau du
-Saint-Esprit, Il vous a scellé jusqu’à votre destination éternelle. Maintenant, vous, Baptistes,
-croyez cela; et j’irai avec vous jusqu’à la sécurité éternelle. Parfaitement! Parce que: “N’attristez
-pas le Saint-Esprit de Dieu, par lequel vous avez été scellés pour le jour de la rédemption”. Vous
-n’êtes pas scellé en CROYANT au Saint-Esprit, mais vous êtes scellé PAR le Saint-Esprit! Voyez
-Ephésiens 4.30: “N’attristez pas le Saint-Esprit de Dieu, PAR LEQUEL vous avez été scellés pour
-le jour de la rédemption”. Vous êtes scellé quand vous avez trouvé grâce devant Dieu; alors, Il
-vous scelle par le Saint-Esprit. C’est ainsi, car la Bible dit: “Aucun homme ne peut dire: Jésus
-est le Christ, si ce n’est par le Saint-Esprit”.
-64 Vous dites «Je le crois, parce que le pasteur l’a dit!». Bien sûr, il a raison, mais cela ne
-compte pas pour vous. «Je le crois, parce que la Parole le dit». Cela est juste, mais cela n’est pas
-valable pour vous. Le seul moment où vous pouvez dire que Jésus est le Christ est lorsque le
-Saint-Esprit vient en vous, proclame et témoigne qu’Il est le Fils de Dieu! Le seul moyen pour
-vous de connaître la résurrection est que le Saint-Esprit Lui-même vous en rende témoignage.
-“Quand Lui, le Saint-Esprit, viendra, Il rendra témoignage de Moi, Il vous montrera les choses à
-venir, Il vous remettra en mémoire les choses que J’ai dites”. Vous ne trouverez jamais cela dans
-les séminaires. Vous voyez? Il vous remettra ces choses en mémoire.
+63 Je répondis: «C’est tout ce qu’un homme peut faire. Tout ce qu’il peut faire aujourd’hui est de croire en Dieu. Mais Dieu lui a donné le sceau de la circoncision (nous avons vu cela hier soir) comme un signe qu’Il avait accepté sa foi en Lui». Vous croyez en Lui quand vous Le reconnaissez comme votre Sauveur personnel. Mais quand Dieu vous donne le Sceau du Saint-Esprit, Il vous a scellé jusqu’à votre destination éternelle. Maintenant, vous, Baptistes, croyez cela; et j’irai avec vous jusqu’à la sécurité éternelle. Parfaitement! Parce que: “N’attristez pas le Saint-Esprit de Dieu, par lequel vous avez été scellés pour le jour de la rédemption”. Vous n’êtes pas scellé en CROYANT au Saint-Esprit, mais vous êtes scellé PAR le Saint-Esprit! Voyez Ephésiens 4.30: “N’attristez pas le Saint-Esprit de Dieu, PAR LEQUEL vous avez été scellés pour le jour de la rédemption”. Vous êtes scellé quand vous avez trouvé grâce devant Dieu; alors, Il vous scelle par le Saint-Esprit. C’est ainsi, car la Bible dit: “Aucun homme ne peut dire: Jésus est le Christ, si ce n’est par le Saint-Esprit”.
+64 Vous dites «Je le crois, parce que le pasteur l’a dit!». Bien sûr, il a raison, mais cela ne compte pas pour vous. «Je le crois, parce que la Parole le dit». Cela est juste, mais cela n’est pas valable pour vous. Le seul moment où vous pouvez dire que Jésus est le Christ est lorsque le Saint-Esprit vient en vous, proclame et témoigne qu’Il est le Fils de Dieu! Le seul moyen pour vous de connaître la résurrection est que le Saint-Esprit Lui-même vous en rende témoignage. “Quand Lui, le Saint-Esprit, viendra, Il rendra témoignage de Moi, Il vous montrera les choses à venir, Il vous remettra en mémoire les choses que J’ai dites”. Vous ne trouverez jamais cela dans les séminaires. Vous voyez? Il vous remettra ces choses en mémoire.
 65 Maintenant, nous allons continuer la lecture de ce passage de Jean 14.12:
-       “En vérité, en vérité, je vous le dis, celui qui croit en moi fera aussi les oeuvres que je
-     fais, et il en fera de plus grandes… (la bonne traduction, ici, est: “plus”) … parce que je
-     m’en vais au Père”.
-66 S’Il va auprès du Père, le Saint-Esprit viendra. Est-ce vrai? Un autre passage dit: “Si Je ne
-m’en vais pas, le Consolateur ne viendra pas: mais si Je m’en vais, Je reviendrai et Je serai avec
-vous, et même en vous”. Vous voyez? C’est Dieu avec vous — AU-DESSUS de vous d’abord,
-AVEC VOUS dans le Christ, EN VOUS dans le Saint-Esprit, Dieu en vous.
-67 “Les oeuvres que je fais, vous les ferez aussi”, ce n’est pas une autre oeuvre, mais Dieu veut
-mettre le Saint-Esprit en vous pour continuer la même oeuvre qu’Il faisait en Christ. Les
-oeuvres n’étaient pas tellement nécessaires à l’époque de Luther; c’était l’Eglise de Dieu. Elles
-sont devenues un peu plus nécessaires à l’époque de Wesley, parce que le monde, nous dit la
-Bible, devenait toujours plus faible, plus rusé et plus méchant. Le monde devient de plus en plus
-mauvais. Nous le savons. L’homme fait aujourd’hui des choses qu’il y a cent ans on n’aurait
+       “En vérité, en vérité, je vous le dis, celui qui croit en moi fera aussi les oeuvres que je fais, et il en fera de plus grandes… (la bonne traduction, ici, est: “plus”) … parce que je m’en vais au Père”.
+66 S’Il va auprès du Père, le Saint-Esprit viendra. Est-ce vrai? Un autre passage dit: “Si Je ne m’en vais pas, le Consolateur ne viendra pas: mais si Je m’en vais, Je reviendrai et Je serai avec vous, et même en vous”. Vous voyez? C’est Dieu avec vous — AU-DESSUS de vous d’abord, AVEC VOUS dans le Christ, EN VOUS dans le Saint-Esprit, Dieu en vous.
+67 “Les oeuvres que je fais, vous les ferez aussi”, ce n’est pas une autre oeuvre, mais Dieu veut mettre le Saint-Esprit en vous pour continuer la même oeuvre qu’Il faisait en Christ. Les oeuvres n’étaient pas tellement nécessaires à l’époque de Luther; c’était l’Eglise de Dieu. Elles sont devenues un peu plus nécessaires à l’époque de Wesley, parce que le monde, nous dit la Bible, devenait toujours plus faible, plus rusé et plus méchant. Le monde devient de plus en plus mauvais. Nous le savons. L’homme fait aujourd’hui des choses qu’il y a cent ans on n’aurait
 
         http://www.cmpp.ch
 
@@ -1011,7 +829,7 @@ pendant un quart d’heure, pour que tous les diacres, et tous les autres, puiss
 pasteur aussi), avant que vous puissiez entrer à l’église pour le service. Ecartez-vous de toutes
 ces choses malpropres. “Celui qui souille un corps, Je le détruirai!”. C’est Dieu qui l’a dit.
 129 Et aujourd’hui, le quatre-vingt-dix et quelques pour-cent de ceux qui meurent du cancer de la
-gorge et des poumons meurent du fait qu’ils fument la cigarette. “Celui qui souille un corps, Je le
+ gorge et des poumons meurent du fait qu’ils fument la cigarette. “Celui qui souille un corps, Je le
 détruirai!”. Mais ils sont tellement sur la pente de l’enfer qu’ils ne s’en rendent même pas compte!
 Et il y a des pasteurs avec quatre grades universitaires qui se tiennent en chaire et qui prêchent —
 et eux-mêmes, ils fument! Laissez-moi vous dire quelque chose, mes frères. Le Saint-Esprit a été
@@ -1092,7 +910,7 @@ vous donnerai Ma paix, mais pas comme le monde la donne”. Vous avez reçu la p
 scellé. Vous avez reçu un signe. Amen! Vous avez le repos. Vous avez une joie ineffable et
 glorieuse. Vous êtes solidement ancré. Voilà ce que vous êtes quand vous avez le
 Saint-Esprit! Vous êtes passé de la mort à la Vie, attendant la résurrection générale du
-dernier jour!
+derneir jour!
 140 Notre Seigneur Jésus-Christ a dit qu’Il viendrait dans toute Sa gloire et dans Sa majesté… La
 mer rendra ses morts. Les corps corruptibles de ceux qui dorment en Lui… Comment
 entrez-vous en Lui? Par un seul Esprit, nous sommes tous baptisés pour former un seul
@@ -1118,7 +936,7 @@ autre passage de l’Ecriture. Quand vous êtes rempli du Saint-Esprit (si c’e
     http://www.cmpp.ch
 
 POURQUOI LE SAINT-ESPRIT A ETE DONNE? 21
-alors, qu’êtes-vous pour le monde? — un étranger. (Je sais qu’il est tard, mais il n’est jamais
+ alors, qu’êtes-vous pour le monde? — un étranger. (Je sais qu’il est tard, mais il n’est jamais
 trop tard pour ceci.) Un étranger!
         Nous sommes des pèlerins et des étrangers ici-bas,
         Nous cherchons la Cité à venir;
@@ -1175,7 +993,7 @@ droiture, la pureté de pensée, la pureté d’Esprit, la puissance et l’amou
 
         http://www.cmpp.ch
 
-    POURQUOI LE SAINT-ESPRIT A ETE DONNE?    22
+POURQUOI LE SAINT-ESPRIT A ETE DONNE?    22
 perdus, la guérison des malades, des miracles et des oeuvres glorieuses. C’est pourquoi,
 aux yeux du monde, vous passez pour un fou. Ils disent: «Ces gens sont complètement fous!».
 Vous voyez? Mais vous êtes un citoyen du Royaume.
@@ -1395,14 +1213,3 @@ demandons au Nom de Jésus. Amen!
         Nous aurons un foyer, venez! — la première semaine
         Du retour au foyer
         Durera les dix mille premières années. (Amen!)
-
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch

@@ -1,551 +1,183 @@
-    SERIE 2 N° 8
+---
+source: "cmpp"
+sermon_id: "serie2no8"
+title: "Votre vie est-elle digne de l'Evangile?"
+subtitle: "30 juin 1963, soir"
+date: "1963-06-30"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la parabole du grand souper (Luc 14), montrant que les hommes trouvent toujours des excuses pour rejeter l'invitation de Dieu. Il applique cela aux nations (Russie, Angleterre, Amérique) qui ont rejeté le Saint-Esprit et sont entrées dans le jugement. Il exhorte à ne pas rejeter le jour de la visitation et à suivre la Colonne de Feu chaque jour."
+tags:
+  - "invitation"
+  - "excuses"
+  - "jugement"
+  - "Saint-Esprit"
+  - "Colonne de Feu"
+  - "marque de la Bête"
+persons:
+  - "Jésus"
+  - "Noé"
+  - "Moïse"
+  - "Élie"
+  - "Martin Luther"
+  - "Wesley"
+  - "George Jeffries"
+  - "F.F. Bosworth"
+  - "Charles Price"
+  - "Smith Wigglesworth"
+  - "Charles G. Finney"
+  - "John Smith"
+places:
+  - "Russie"
+  - "Angleterre"
+  - "Amérique"
+  - "Jeffersonville"
+  - "Indiana"
+  - "Tucson"
+  - "Arizona"
+  - "Houston"
+  - "Chicago"
+  - "Washington"
+themes:
+  - "rejet de l'Évangile"
+  - "grâce et jugement"
+  - "excuses humaines"
+  - "suivre la Colonne de Feu"
+  - "sceau de Dieu vs marque de la Bête"
+  - "apostasie"
+  - "confédération mondiale des églises"
+pdf_url: "http://cmpp.ch/serie2no8.pdf"
+llm_cleaned: true
+bible_refs:
+  - "2 Timothée 4"
+  - "Actes 26"
+  - "Genèse 6"
+  - "Jean 14"
+  - "Marc 16"
+  - "Matthieu 22"
+---
+SERIE 2 N° 8
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
- VOTRE VIE EST-ELLE
+VOTRE VIE EST-ELLE
 DIGNE DE L’EVANGILE?
- (Is Your Life Worthy of the Gospel?)
+(Is Your Life Worthy of the Gospel?)
 
 
-
-
-
-       30 juin 1963, soir
-       Branham Tabernacle
+30 juin 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE?    2
+VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 2
 
 VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE?
-  (Is Your Life Worthy of the Gospel?)
+(Is Your Life Worthy of the Gospel?)
+
+30 juin 1963, soir
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
 
-           30 juin 1963, soir
-           Branham Tabernacle
-    Jeffersonville — Indiana, U.S.A.
-
-
-
-
-1 Restons debout un moment, inclinons nos têtes, et regardons au Seigneur. Et si vous avez
-une requête à présenter à Dieu, veuillez lever la main vers Lui, pendant ce temps, et garder
-présent dans votre coeur ce que vous désirez.
-2 O notre Père céleste, nous Te sommes reconnaissants de nous avoir accordé cette journée.
-Elle a déjà commencé à s’inscrire dans l’histoire. Le culte de ce matin fait déjà partie du passé.
-Les paroles qui ont été dites à ce moment-là sont maintenant dans les airs et sur les bandes
-magnétiques, et nous devrons en répondre un jour. Elles ne peuvent être que la Vérité, ou
-mensonge. Mais nous croyons qu’elles sont la Vérité, parce qu’Elles sont Ta Parole.
-3 Nous voulons Te prier, ce soir, de nous accorder les requêtes que nous T’apportons. Nous
-gardons les mains levées pour Te présenter nos requêtes, pour Te présenter ces choses dont Tu
-sais que nous avons besoin. C’est pourquoi nous Te prions pour que Tu nous répondes, Seigneur,
-afin que Tu nous donnes ce que notre coeur désire, pour autant que nous puissions l’utiliser
-pour T’honorer. Accorde-le nous, ô Seigneur!
-4 Ote la maladie qui se trouve au milieu de nous. Ote du milieu de nous tout péché et
-toute incrédulité. Accorde-nous ce soir encore une part de Tes bénédictions, alors que nous
-méditons la Parole, et que nous considérons les temps dans lesquels nous vivons. O Père, nous
-nous sommes assemblés dans le seul but de chercher à vivre une vie meilleure, à vivre plus près
-de Toi. Car nous voyons approcher le Jour, et nous devons nous réunir souvent pour recevoir
-Tes instructions. Accorde-le nous, ô Père, au Nom de Jésus. Amen!
+1 Restons debout un moment, inclinons nos têtes, et regardons au Seigneur. Et si vous avez une requête à présenter à Dieu, veuillez lever la main vers Lui, pendant ce temps, et garder présent dans votre coeur ce que vous désirez.
+2 O notre Père céleste, nous Te sommes reconnaissants de nous avoir accordé cette journée. Elle a déjà commencé à s’inscrire dans l’histoire. Le culte de ce matin fait déjà partie du passé. Les paroles qui ont été dites à ce moment-là sont maintenant dans les airs et sur les bandes magnétiques, et nous devrons en répondre un jour. Elles ne peuvent être que la Vérité, ou mensonge. Mais nous croyons qu’elles sont la Vérité, parce qu’Elles sont Ta Parole.
+3 Nous voulons Te prier, ce soir, de nous accorder les requêtes que nous T’apportons. Nous gardons les mains levées pour Te présenter nos requêtes, pour Te présenter ces choses dont Tu sais que nous avons besoin. C’est pourquoi nous Te prions pour que Tu nous répondes, Seigneur, afin que Tu nous donnes ce que notre coeur désire, pour autant que nous puissions l’utiliser pour T’honorer. Accorde-le nous, ô Seigneur!
+4 Ote la maladie qui se trouve au milieu de nous. Ote du milieu de nous tout péché et toute incrédulité. Accorde-nous ce soir encore une part de Tes bénédictions, alors que nous méditons la Parole, et que nous considérons les temps dans lesquels nous vivons. O Père, nous nous sommes assemblés dans le seul but de chercher à vivre une vie meilleure, à vivre plus près de Toi. Car nous voyons approcher le Jour, et nous devons nous réunir souvent pour recevoir Tes instructions. Accorde-le nous, ô Père, au Nom de Jésus. Amen!
 Vous pouvez vous asseoir.
-5 Je sais qu’il fait terriblement chaud, surtout quand la salle est remplie comme elle l’est ce
-soir… Je regrette qu’il n’y ait pas de conditionnement d’air. J’aimerais avoir deux choses dans
-cette salle lorsque je recommencerai à faire des séries de réunions ici. J’aimerais qu’il y ait un
-piano que l’on mettrait là, de manière que le pianiste puisse faire face à l’assemblée. J’aimerais
-aussi qu’il y ait un orgue de ce côté-ci, et qu’il y ait une installation de conditionnement de l’air. Je
-pense qu’alors notre salle sera complètement équipée. Nous avons confiance dans le Seigneur, et
-nous croyons qu’Il nous accordera ces choses.
-6 Je crois que c’est le frère Hickerson qui a découpé cette image dans le journal. Il l’a posée sur
-mon bureau. Il s’agit de cette constellation d’anges dont le journal a parlé. Vous voyez cette forme
-de pyramide? Regardez celui-ci, sur le côté droit; on voit une de ses ailes pointant vers l’extérieur.
-J’ai parlé de cela il y a des mois et des mois. Vous voyez? On peut voir cette photo reproduite
-dans le Life du 17 mai, je crois. Mrs. Wood m’en parlait justement aujourd’hui. Elle a reçu
-beaucoup de téléphones à ce sujet, et on lui demandait… Il s’agit du numéro de mai, du 17 mai.
-7 C’est un nuage mystérieux! Il est haut de 26 miles, et large de trente. Et c’est de ce nuage
-que nous avons parlé ici. C’est ce jour-là que l’Ange du Seigneur descendit et fit trembler l’endroit
-où je me trouvais… et partout cela fit plus de bruit que…
-8 Je sais qu’il y a un homme qui… Je pense que frère Sothmann… Je l’ai vu quelque part dans
-cette salle il est ici… il était là (oui, je le vois là-bas au fond!), il était près de moi lorsque ces
-choses arrivèrent. Je ne pense pas que je devais être très éloigné de lui; je venais de le voir.
-J’avais essayé de lui faire signe (malheureusement, c’est moi qui avais ses jumelles), pour lui
+5 Je sais qu’il fait terriblement chaud, surtout quand la salle est remplie comme elle l’est ce soir… Je regrette qu’il n’y ait pas de conditionnement d’air. J’aimerais avoir deux choses dans cette salle lorsque je recommencerai à faire des séries de réunions ici. J’aimerais qu’il y ait un piano que l’on mettrait là, de manière que le pianiste puisse faire face à l’assemblée. J’aimerais aussi qu’il y ait un orgue de ce côté-ci, et qu’il y ait une installation de conditionnement de l’air. Je pense qu’alors notre salle sera complètement équipée. Nous avons confiance dans le Seigneur, et nous croyons qu’Il nous accordera ces choses.
+6 Je crois que c’est le frère Hickerson qui a découpé cette image dans le journal. Il l’a posée sur mon bureau. Il s’agit de cette constellation d’anges dont le journal a parlé. Vous voyez cette forme de pyramide? Regardez celui-ci, sur le côté droit; on voit une de ses ailes pointant vers l’extérieur. J’ai parlé de cela il y a des mois et des mois. Vous voyez? On peut voir cette photo reproduite dans le Life du 17 mai, je crois. Mrs. Wood m’en parlait justement aujourd’hui. Elle a reçu beaucoup de téléphones à ce sujet, et on lui demandait… Il s’agit du numéro de mai, du 17 mai.
+7 C’est un nuage mystérieux! Il est haut de 26 miles, et large de trente. Et c’est de ce nuage que nous avons parlé ici. C’est ce jour-là que l’Ange du Seigneur descendit et fit trembler l’endroit où je me trouvais… et partout cela fit plus de bruit que…
+8 Je sais qu’il y a un homme qui… Je pense que frère Sothmann… Je l’ai vu quelque part dans cette salle il est ici… il était là (oui, je le vois là-bas au fond!), il était près de moi lorsque ces choses arrivèrent. Je ne pense pas que je devais être très éloigné de lui; je venais de le voir. J’avais essayé de lui faire signe (malheureusement, c’est moi qui avais ses jumelles), pour lui indiquer que les animaux que nous chassions ne se trouvaient pas sur cette colline. Ils étaient allés sur une autre colline. J’avais découvert leurs traces le jour précédent, et j’avais dit à mes compagnons où ils devaient aller. Je devais tirer en l’air afin de chasser les bêtes dans la bonne direction, pour qu’elles passent à leur portée. [C’était des javelinas. Sorte de sangliers — N.d.T.]
+9 J’allai sur l’autre versant, et elles n’y étaient pas non plus. J’avais vu le frère Fred s’éloigner, mais elles n’étaient pas là non plus. Il revint bientôt, et le frère Norman alla voir à son tour. Moi, je partis tout seul; je descendis dans une petite gorge, sortis de l’autre côté, et parcourus à peu près un mile et demi d’un terrain vraiment difficile. Je m’assis, et regardai autour de moi. La journée était déjà avancée. Je me mis à ôter des bourres cotonneuses qui s’étaient attachées à mon pantalon, (faisant exactement ce que je m’étais vu faire dans une vision que j’avais eue environ six mois auparavant). Je pensai. «C’est curieux; je suis tout à fait au nord de Tucson, peut-être un peu au nord-est…». Vous vous rappelez que Tucson est un peu au sud-ouest de cette région. Je me dis: «C’est curieux…». Pendant ce temps, j’ôtais ces bourres cotonneuses qui adhéraient à mon pantalon. Je ne sais pas si vous connaissez cette région, c’est un désert. C’est très différent d’ici. La lumière y est beaucoup plus intense, et il n’y a pas d’arbres. Il n’y a que des cactus et du sable.
+10 Ensuite, je levai les yeux, et je vis, à environ un demi-mile, tout un troupeau de ces javelinas en train de se déplacer. Je pensai: «Oh, si je pouvais faire venir frère Fred et frère Norman par ici, nous serions juste au bon endroit!».
+11 Le soir précédent, le Saint-Esprit S’était manifesté avec tellement de puissance dans notre camp, me montrant toutes sortes de choses qui s’étaient passées, que je dus me relever, et m’éloigner un moment. Et le matin, j’allai là-bas, et je commençai… Je me dis: «Si je peux trouver le frère Fred, je le ferai contourner cette colline-ci». Elle était environ à un mile, dans cette direction-ci. Mais il fallait d’abord que je marche au moins deux miles pour le rattraper, que je descende la gorge, que je remonte, que je traverse ces terrains difficiles, et que je parte ensuite dans telle et telle direction pour le trouver. Je fixerais des bouts de papier à certains buissons de mesquite, afin de retrouver mon chemin, lorsque nous reviendrions.
+12 Je venais de passer une petite crête très déchiquetée, lorsque, soudain, je vis une trace de daim à environ cinquante mètres plus bas que les rochers. Le jour était déjà tout à fait levé. C’était huit ou neuf heures. C’est bien cela, frère Fred? Peut-être neuf heures. Je passai rapidement de l’autre côté, afin de ne pas être vu des javelinas. Ce sont des sangliers sauvages assez impressionnants.
+13 Je passai de l’autre côté, et me mettais à courir au petit trot en montant sur l’autre versant, quand, tout à coup, toute la contrée se mit à trembler. Je n’ai jamais entendu un bruit pareil. Tout était secoué; les rochers se mirent à rouler partout. Je crois que j’ai fait un bond de cinq pieds! J’étais terrorisé. Je pensais que j’avais reçu une balle, que quelqu’un… j’avais un chapeau noir, et je pensais que l’on m’avait pris pour un javelina, et qu’on m’avait tiré dessus. J’étais complètement bouleversé. Mais soudain, j’entendis quelqu’un me dire: «Lève les yeux». Et voilà! Ensuite, Il me dit: «C’est maintenant l’ouverture des Sept Sceaux; rentre à la maison!». Je rentrai au campement.
+14 Je retrouvai les frères Fred et Norman une heure plus tard. Ils étaient tout excités, et parlaient de ce phénomène. Voilà! La science démontre qu’il est impossible à aucune vapeur, brouillard, ou autre de se condenser à une telle altitude. C’est pourquoi il faut simplement… Je ne sais pas de quoi il s’agit.
+15 Lorsque nous voyageons outre-mer, nous volons à environ dix-neuf mille pieds d’altitude, ce qui fait à peu près quatre miles. Déjà là, nous sommes au-dessus des orages. Il faut monter plus haut que quinze miles pour ne plus trouver du tout de vapeurs. Mais ce nuage-là était à une hauteur de vingt-six miles, et resta là toute la journée. Vous voyez? Les savants ne savent pas ce que c’est. Mais, grâce à Dieu, nous, nous le savons. Merci, frère Hickerson. Je la garderai ici, sur mon pupitre. Lorsqu’ils écriront le livre, ils pourront l’avoir.
+16 J’ai ici une petite note… Je crois que notre nombre s’est accru d’une unité depuis la dernière fois où je suis venu parmi vous. Son nom est… Son père, c’est David West. Ils ont amené ici leur petit enfant, qu’ils voudraient consacrer au Seigneur. N’est-ce pas vrai? Est-ce que c’est ce soir, ou mercredi soir? Je ne sais pas, il faut… Ce soir? C’est très bien! Alors, qu’est-ce que… C’est vous David? C’est ce que je pensais. Eh bien, vous pouvez amener le petit enfant ici, et si notre soeur veut aller pendant ce temps au piano et jouer le cantique: Amenez-les… [Bring them in — N.d.T.] Je demanderai au pasteur de venir, lui aussi, et nous consacrerons ce petit garçon au Seigneur.
+17 Nous essayons de faire les choses conformément aux Ecritures. Frère West, c’est votre petit-fils?… Cela semble à peine possible! Que pensez-vous de cela, soeur West? Vous savez ce que je pense, moi? Savez-vous, moi aussi, je suis grand-père! Cela me rappelle le frère Demas Shakarian. Il se tenait dans une grande foule, et était très ému, comme je l’étais moi aussi. Et il dit: «J’ai dit à Rose (c’est sa femme) que je me sens beaucoup plus vieux depuis que je suis grand-père!».
+18 Vous savez, vous n’êtes pas le seul; il y en a encore beaucoup ici dans cette situation. Et c’est très bien ainsi! Je pense que nous pouvons réellement apprécier nos petits-enfants. Je dis ceci sans penser à mal, mais je crois que nous avons plus de temps à leur consacrer qu’à nos propres enfants. J’en parlais l’autre jour à ma femme, et elle me dit: «C’est vrai! On peut bien les cajoler, et après, on les rend à leur maman, et on continue son travail».
+19 J’ai un petit-fils. Il dit toujours de moi: «Papa pasteur, papa pasteur!». On avait apporté l’offrande dans l’autre salle (c’était dimanche passé), et ils avaient pris le petit enfant avec eux. Lorsqu’il entendit ma voix dans le haut-parleur, il se mit à dire: «Papa pasteur, papa pasteur!».
+    Billy lui dit: «Oui, il est là-haut».
+    Mais l’enfant lui répondit: «Non!». Et voilà toute l’offrande répandue sur le sol! Vous comprenez, il voulait venir là où j’étais. Il crie toujours ainsi, lorsqu’il me voit ou m’entend. Dès qu’il me voit apparaître en chaire, il crie: «Papa pasteur». C’est pourquoi nous les aimons bien!
+    [Frère Branham consacre l’enfant — N.d.R.]
+    Chantons maintenant le petit choeur: Amenez-les. Que chacun chante maintenant pour ce petit enfant. (Oui, soeur, c’est très bien.)
+      Amenez-les, amenez-les,
+      Amenez ces petits enfants à Jésus.
+20 Je ne vois vraiment pas en quelles meilleures mains on pourrait les remettre, n’est-ce pas? Les mains du Seigneur Jésus…
+21 Je sais qu’il fait très chaud là-bas. J’aimerais bien que le concierge, mon frère Doc, ou quelqu’un d’autre s’occupe de cela. Nos soeurs abîment leur robe sur ces chaises, parce qu’il y a de la graisse ou je ne sais quoi. Cela est arrivé à ma femme, à mes deux filles, à la petite Betty Collins, à Mrs. Beeler, et à bien d’autres. Il y a quelque chose sur ces chaises, de la graisse… Doc, si vous pouviez examiner cela quand vous aurez un moment? C’est de la graisse, de la peinture, ou je ne sais quoi. Ils ont sali ces chaises lorsqu’ils sont venus travailler ici. On m’avait signalé cela, et j’avais dit que j’en parlerais à Doc. Voilà. Maintenant, la réunion de prière de mercredi soir [Frère Branham parle avec frère Neville — N.d.R.] … Les annonces ont déjà été faites.
+22 Si le Seigneur le permet, je parlerai dimanche prochain de l’accusation portée contre cette génération parce qu’elle crucifie Christ de nouveau. [Parole parlée, série N° 1, brochure N° 9 — N.d.R.] Vous direz peut-être: «Cette génération-ci ne peut pas avoir fait cela!». Nous verrons ce que nous dit la Parole à ce sujet!
+23 Ce sera pour dimanche prochain, si le Seigneur le permet. Sinon… S’il y a un contretemps… Cette semaine, je dois tenir une série de réunions à Houston, et cela doit durer jusqu’à dimanche. C’est pourquoi je ne sais pas si je pourrai venir. Mais il y aura encore quelques dimanches avant la fin du mois, où je dois aller passer une semaine à Chicago, tenir une autre série de rencontres. Ensuite, il faudra que je ramène ma famille en Arizona, parce que les vacances seront finies à ce moment-là, et les enfants devront retourner à l’école.
+24 Nombreux sont ceux qui aiment entendre la lecture de la Parole, et recevoir les bénédictions du Seigneur. Cela est vrai pour nous tous.
+25 Il fait très chaud, et je sais que plusieurs d’entre vous rentrent à la maison ce soir. Je sais que les frères Rodney et Charlie, et encore bien d’autres, ont un long chemin à faire. Mais vous êtes en vacances, n’est-ce pas? J’ai entendu dire que vous alliez à la pêche. Le Seigneur arrête le temps, lorsqu’on va à la pêche, c’est pourquoi vous ne vieillissez pas pendant que vous pêchez. Et vous, les dames, allez avec eux: Vous voyez? J’irais bien avec vous, si je le pouvais. C’est comme dit le proverbe, lorsqu’un homme va à la pêche, Dieu arrête pour lui les aiguilles de l’horloge. Allez beaucoup à la pêche quand vous vous sentez tendus et tourmentés. Je n’ai jamais trouvé mieux, dans ma vie, que d’aller à la pêche pour me détendre.
+26 J’ai reçu une fois une carte postale de M. Troutman. Vous souvenez-vous de M. Troutman, de la fabrique de glaces de New Albany? Il m’avait envoyé une petite carte sur laquelle était écrit: «Je suis à la pêche». Il disait encore: «Chacun a un frère en train de pêcher. Il peut toujours lui donner un coup de main pendant qu’il pêche». Il disait encore huit ou dix choses, puis concluait ainsi: «L’homme est plus près de Dieu, lorsqu’il est à la pêche». Je crois que c’est vrai. «Chez les pêcheurs, il n’y a ni pauvres, ni riches. Ils seront tous toujours prêts à se donner un coup de main, lorsqu’ils sont en train de pêcher». Tout ce qu’il disait était sur le sujet de l’homme qui est parti à la pêche.
+27 Je voudrais encore vous parler d’une partie de pêche, une partie de pêche qui dure depuis bientôt trente-trois ans et au cours de laquelle je n’ai cessé de jeter ma ligne pour essayer de ramener les âmes des hommes. Puisse le Seigneur nous aider à gagner tous ceux que nous pourrons trouver!
+28 Au sujet de ce matin (je dis cela spécialement pour Jim, qui est en train d’enregistrer, et qui m’a fait la remarque, ce matin), j’ai dit deuxième exode. Ce n’est pas deuxième que je voulais dire, mais troisième exode. Dans le premier exode, le Saint-Esprit est venu sous la forme de la Colonne de Feu; c’est ainsi que Dieu Se manifesta dans le premier exode pour faire sortir Israël d’Egypte. Le deuxième exode s’accomplit lorsque Christ fit sortir l’Eglise du Judaïsme. Et le troisième exode vient lorsque la Colonne de Feu fait sortir l’Epouse de l’église. Vous voyez? Il faut d’abord sortir du naturel, ensuite sortir du spirituel, et ensuite, le Spirituel doit sortir de l’église. Nous pouvons bien distinguer ces trois périodes.
+29 Ce soir, je voudrais enregistrer une nouvelle bande, dont le titre est: Votre vie est-elle digne de l’Evangile? Je ne pense pas que cela soit très long. Nous examinerons simplement quelques passages des Ecritures et quelques notes que j’ai prises à ce sujet. Nous allons lire la Parole de Dieu. Mais inclinons d’abord nos coeurs un moment vers Lui.
+30 Seigneur Jésus, n’importe quel homme ou n’importe quelle femme peut ouvrir cette Parole et la lire, mais personne ne peut La révéler, si ce n’est Toi. Je Te prie, Seigneur, alors que je vais prendre ce texte qui a été mis sur mon coeur pour que je le fasse parvenir aux nations de la terre pour Ton peuple, afin qu’ils sachent quel est le genre de vie qu’ils doivent vivre. Car il y en a qui m’ont demandé: «Est-ce une vie chrétienne qu’une vie consacrée au service de l’église?… Est-ce être un membre fidèle?… Est-ce être loyal envers son église?…», et tant d’autres questions! — O Père, puisse la réponse correcte être donnée ce soir au travers de ces paroles, lorsque nous apporterons ce message à Ton peuple. Nous Te le demandons au Nom de Jésus. Amen.
+31 Lisons maintenant dans notre Bible, dans le livre de Luc, le chapitre 14, depuis le verset 16. Cela nous donnera une base, une toile de fond pour ce que nous allons exposer dans les trente, ou quarante minutes que nous avons devant nous. Luc, chapitre 14, verset 16.
 
-        http://www.cmpp.ch
+> “Et Jésus lui répondit: Un homme donna un grand souper, et il invita beaucoup de gens. A l’heure du souper, il envoya son serviteur dire aux conviés: Venez, car tout est déjà prêt. Mais tous unanimement se mirent à s’excuser. Le premier lui dit: J’ai acheté un champ, et je suis obligé d’aller le voir; excuse-moi, je te prie. Un autre dit: J’ai acheté cinq paires de boeufs, et je vais les essayer; excuse-moi, je te prie. Un autre dit: Je viens de me marier, et c’est pourquoi je ne puis aller. Le serviteur, de retour, rapporta ces choses à son maître. Alors, le maître de la maison, irrité, dit à son serviteur: Va promptement dans les places et les rues de la ville, et amène ici les pauvres, les estropiés, les aveugles et les boiteux. Le serviteur dit: Maître, ce que tu as ordonné a été fait, et il y a encore de la place. Et le maître dit au serviteur: Va dans les chemins et le long des haies, et ceux que tu trouveras, contrains-les d’entrer, afin que ma maison soit remplie. Car, je vous le dis, aucun de ces hommes qui avaient été invités ne goûtera de mon souper”.
 
-VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 3
-indiquer que les animaux que nous chassions ne se trouvaient pas sur cette colline. Ils étaient
-allés sur une autre colline. J’avais découvert leurs traces le jour précédent, et j’avais dit à mes
-compagnons où ils devaient aller. Je devais tirer en l’air afin de chasser les bêtes dans la bonne
-direction, pour qu’elles passent à leur portée. [C’était des javelinas. Sorte de sangliers — N.d.T.]
-9 J’allai sur l’autre versant, et elles n’y étaient pas non plus. J’avais vu le frère Fred s’éloigner,
-mais elles n’étaient pas là non plus. Il revint bientôt, et le frère Norman alla voir à son tour. Moi, je
-partis tout seul; je descendis dans une petite gorge, sortis de l’autre côté, et parcourus à peu près
-un mile et demi d’un terrain vraiment difficile. Je m’assis, et regardai autour de moi. La journée
-était déjà avancée. Je me mis à ôter des bourres cotonneuses qui s’étaient attachées à mon
-pantalon, (faisant exactement ce que je m’étais vu faire dans une vision que j’avais eue environ six
-mois auparavant). Je pensai. «C’est curieux; je suis tout à fait au nord de Tucson, peut-être un peu
-au nord-est…». Vous vous rappelez que Tucson est un peu au sud-ouest de cette région. Je me
-dis: «C’est curieux…». Pendant ce temps, j’ôtais ces bourres cotonneuses qui adhéraient à mon
-pantalon. Je ne sais pas si vous connaissez cette région, c’est un désert. C’est très différent d’ici.
-La lumière y est beaucoup plus intense, et il n’y a pas d’arbres. Il n’y a que des cactus et du sable.
-10 Ensuite, je levai les yeux, et je vis, à environ un demi-mile, tout un troupeau de ces javelinas
-en train de se déplacer. Je pensai: «Oh, si je pouvais faire venir frère Fred et frère Norman par ici,
-nous serions juste au bon endroit!».
-11 Le soir précédent, le Saint-Esprit S’était manifesté avec tellement de puissance dans notre
-camp, me montrant toutes sortes de choses qui s’étaient passées, que je dus me relever, et
-m’éloigner un moment. Et le matin, j’allai là-bas, et je commençai… Je me dis: «Si je peux trouver
-le frère Fred, je le ferai contourner cette colline-ci». Elle était environ à un mile, dans cette
-direction-ci. Mais il fallait d’abord que je marche au moins deux miles pour le rattraper, que je
-descende la gorge, que je remonte, que je traverse ces terrains difficiles, et que je parte ensuite
-dans telle et telle direction pour le trouver. Je fixerais des bouts de papier à certains buissons de
-mesquite, afin de retrouver mon chemin, lorsque nous reviendrions.
-12 Je venais de passer une petite crête très déchiquetée, lorsque, soudain, je vis une trace de
-daim à environ cinquante mètres plus bas que les rochers. Le jour était déjà tout à fait levé. C’était
-huit ou neuf heures. C’est bien cela, frère Fred? Peut-être neuf heures. Je passai rapidement de
-l’autre côté, afin de ne pas être vu des javelinas. Ce sont des sangliers sauvages assez
-impressionnants.
-13 Je passai de l’autre côté, et me mettais à courir au petit trot en montant sur l’autre versant,
-quand, tout à coup, toute la contrée se mit à trembler. Je n’ai jamais entendu un bruit pareil. Tout
-était secoué; les rochers se mirent à rouler partout. Je crois que j’ai fait un bond de cinq pieds!
-J’étais terrorisé. Je pensais que j’avais reçu une balle, que quelqu’un… j’avais un chapeau noir, et
-je pensais que l’on m’avait pris pour un javelina, et qu’on m’avait tiré dessus. J’étais complètement
-bouleversé. Mais soudain, j’entendis quelqu’un me dire: «Lève les yeux». Et voilà! Ensuite, Il me
-dit: «C’est maintenant l’ouverture des Sept Sceaux; rentre à la maison!». Je rentrai au
-campement.
-14 Je retrouvai les frères Fred et Norman une heure plus tard. Ils étaient tout excités, et parlaient
-de ce phénomène. Voilà! La science démontre qu’il est impossible à aucune vapeur, brouillard, ou
-autre de se condenser à une telle altitude. C’est pourquoi il faut simplement… Je ne sais pas de
-quoi il s’agit.
-15 Lorsque nous voyageons outre-mer, nous volons à environ dix-neuf mille pieds d’altitude, ce
-qui fait à peu près quatre miles. Déjà là, nous sommes au-dessus des orages. Il faut monter plus
-haut que quinze miles pour ne plus trouver du tout de vapeurs. Mais ce nuage-là était à une
-hauteur de vingt-six miles, et resta là toute la journée. Vous voyez? Les savants ne savent pas ce
-que c’est. Mais, grâce à Dieu, nous, nous le savons. Merci, frère Hickerson. Je la garderai ici, sur
-mon pupitre. Lorsqu’ils écriront le livre, ils pourront l’avoir.
-16 J’ai ici une petite note… Je crois que notre nombre s’est accru d’une unité depuis la dernière
-fois où je suis venu parmi vous. Son nom est… Son père, c’est David West. Ils ont amené ici leur
-petit enfant, qu’ils voudraient consacrer au Seigneur. N’est-ce pas vrai? Est-ce que c’est ce soir,
-ou mercredi soir? Je ne sais pas, il faut… Ce soir? C’est très bien! Alors, qu’est-ce que… C’est
-vous David? C’est ce que je pensais. Eh bien, vous pouvez amener le petit enfant ici, et si notre
-soeur veut aller pendant ce temps au piano et jouer le cantique: Amenez-les… [Bring them in —
-
-        http://www.cmpp.ch
-
-    VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE?    4
-N.d.T.] Je demanderai au pasteur de venir, lui aussi, et nous consacrerons ce petit garçon au
-Seigneur.
-17 Nous essayons de faire les choses conformément aux Ecritures. Frère West, c’est votre
-petit-fils?… Cela semble à peine possible! Que pensez-vous de cela, soeur West? Vous savez ce
-que je pense, moi? Savez-vous, moi aussi, je suis grand-père! Cela me rappelle le frère Demas
-Shakarian. Il se tenait dans une grande foule, et était très ému, comme je l’étais moi aussi. Et il dit:
-«J’ai dit à Rose (c’est sa femme) que je me sens beaucoup plus vieux depuis que je suis grand-
-père!».
-18 Vous savez, vous n’êtes pas le seul; il y en a encore beaucoup ici dans cette situation. Et
-c’est très bien ainsi! Je pense que nous pouvons réellement apprécier nos petits-enfants. Je dis
-ceci sans penser à mal, mais je crois que nous avons plus de temps à leur consacrer qu’à nos
-propres enfants. J’en parlais l’autre jour à ma femme, et elle me dit: «C’est vrai! On peut bien les
-cajoler, et après, on les rend à leur maman, et on continue son travail».
-19 J’ai un petit-fils. Il dit toujours de moi: «Papa pasteur, papa pasteur!». On avait apporté
-l’offrande dans l’autre salle (c’était dimanche passé), et ils avaient pris le petit enfant avec eux.
-Lorsqu’il entendit ma voix dans le haut-parleur, il se mit à dire: «Papa pasteur, papa pasteur!».
-     Billy lui dit: «Oui, il est là-haut».
-     Mais l’enfant lui répondit: «Non!». Et voilà toute l’offrande répandue sur le sol! Vous
-comprenez, il voulait venir là où j’étais. Il crie toujours ainsi, lorsqu’il me voit ou m’entend. Dès qu’il
-me voit apparaître en chaire, il crie: «Papa pasteur». C’est pourquoi nous les aimons bien!
-     [Frère Branham consacre l’enfant — N.d.R.]
-     Chantons maintenant le petit choeur: Amenez-les. Que chacun chante maintenant pour ce
-petit enfant. (Oui, soeur, c’est très bien.)
-       Amenez-les, amenez-les,
-       Amenez ces petits enfants à Jésus.
-20 Je ne vois vraiment pas en quelles meilleures mains on pourrait les remettre, n’est-ce pas?
-Les mains du Seigneur Jésus…
-21 Je sais qu’il fait très chaud là-bas. J’aimerais bien que le concierge, mon frère Doc, ou
-quelqu’un d’autre s’occupe de cela. Nos soeurs abîment leur robe sur ces chaises, parce qu’il y a
-de la graisse ou je ne sais quoi. Cela est arrivé à ma femme, à mes deux filles, à la petite Betty
-Collins, à Mrs. Beeler, et à bien d’autres. Il y a quelque chose sur ces chaises, de la graisse…
-Doc, si vous pouviez examiner cela quand vous aurez un moment? C’est de la graisse, de la
-peinture, ou je ne sais quoi. Ils ont sali ces chaises lorsqu’ils sont venus travailler ici. On m’avait
-signalé cela, et j’avais dit que j’en parlerais à Doc. Voilà. Maintenant, la réunion de prière de
-mercredi soir [Frère Branham parle avec frère Neville — N.d.R.] … Les annonces ont déjà été
-faites.
-22 Si le Seigneur le permet, je parlerai dimanche prochain de l’accusation portée contre cette
-génération parce qu’elle crucifie Christ de nouveau. [Parole parlée, série N° 1, brochure N° 9
-— N.d.R.] Vous direz peut-être: «Cette génération-ci ne peut pas avoir fait cela!». Nous verrons ce
-que nous dit la Parole à ce sujet!
-23 Ce sera pour dimanche prochain, si le Seigneur le permet. Sinon… S’il y a un contretemps…
-Cette semaine, je dois tenir une série de réunions à Houston, et cela doit durer jusqu’à dimanche.
-C’est pourquoi je ne sais pas si je pourrai venir. Mais il y aura encore quelques dimanches avant la
-fin du mois, où je dois aller passer une semaine à Chicago, tenir une autre série de rencontres.
-Ensuite, il faudra que je ramène ma famille en Arizona, parce que les vacances seront finies à ce
-moment-là, et les enfants devront retourner à l’école.
-24 Nombreux sont ceux qui aiment entendre la lecture de la Parole, et recevoir les bénédictions
-du Seigneur. Cela est vrai pour nous tous.
-25 Il fait très chaud, et je sais que plusieurs d’entre vous rentrent à la maison ce soir. Je sais que
-les frères Rodney et Charlie, et encore bien d’autres, ont un long chemin à faire. Mais vous êtes
-en vacances, n’est-ce pas? J’ai entendu dire que vous alliez à la pêche. Le Seigneur arrête le
-temps, lorsqu’on va à la pêche, c’est pourquoi vous ne vieillissez pas pendant que vous pêchez. Et
-vous, les dames, allez avec eux: Vous voyez? J’irais bien avec vous, si je le pouvais. C’est comme
-dit le proverbe, lorsqu’un homme va à la pêche, Dieu arrête pour lui les aiguilles de l’horloge. Allez
-
-    http://www.cmpp.ch
-
-VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 5
-beaucoup à la pêche quand vous vous sentez tendus et tourmentés. Je n’ai jamais trouvé mieux,
-dans ma vie, que d’aller à la pêche pour me détendre.
-26 J’ai reçu une fois une carte postale de M. Troutman. Vous souvenez-vous de M. Troutman, de
-la fabrique de glaces de New Albany? Il m’avait envoyé une petite carte sur laquelle était écrit: «Je
-suis à la pêche». Il disait encore: «Chacun a un frère en train de pêcher. Il peut toujours lui donner
-un coup de main pendant qu’il pêche». Il disait encore huit ou dix choses, puis concluait ainsi:
-«L’homme est plus près de Dieu, lorsqu’il est à la pêche». Je crois que c’est vrai. «Chez les
-pêcheurs, il n’y a ni pauvres, ni riches. Ils seront tous toujours prêts à se donner un coup de main,
-lorsqu’ils sont en train de pêcher». Tout ce qu’il disait était sur le sujet de l’homme qui est parti à la
-pêche.
-27 Je voudrais encore vous parler d’une partie de pêche, une partie de pêche qui dure depuis
-bientôt trente-trois ans et au cours de laquelle je n’ai cessé de jeter ma ligne pour essayer de
-ramener les âmes des hommes. Puisse le Seigneur nous aider à gagner tous ceux que nous
-pourrons trouver!
-28 Au sujet de ce matin (je dis cela spécialement pour Jim, qui est en train d’enregistrer, et qui
-m’a fait la remarque, ce matin), j’ai dit deuxième exode. Ce n’est pas deuxième que je voulais dire,
-mais troisième exode. Dans le premier exode, le Saint-Esprit est venu sous la forme de la
-Colonne de Feu; c’est ainsi que Dieu Se manifesta dans le premier exode pour faire sortir Israël
-d’Egypte. Le deuxième exode s’accomplit lorsque Christ fit sortir l’Eglise du Judaïsme. Et le
-troisième exode vient lorsque la Colonne de Feu fait sortir l’Epouse de l’église. Vous voyez? Il
-faut d’abord sortir du naturel, ensuite sortir du spirituel, et ensuite, le Spirituel doit sortir de l’église.
-Nous pouvons bien distinguer ces trois périodes.
-29 Ce soir, je voudrais enregistrer une nouvelle bande, dont le titre est: Votre vie est-elle digne
-de l’Evangile? Je ne pense pas que cela soit très long. Nous examinerons simplement quelques
-passages des Ecritures et quelques notes que j’ai prises à ce sujet. Nous allons lire la Parole de
-Dieu. Mais inclinons d’abord nos coeurs un moment vers Lui.
-30 Seigneur Jésus, n’importe quel homme ou n’importe quelle femme peut ouvrir cette Parole et
-la lire, mais personne ne peut La révéler, si ce n’est Toi. Je Te prie, Seigneur, alors que je vais
-prendre ce texte qui a été mis sur mon coeur pour que je le fasse parvenir aux nations de la terre
-pour Ton peuple, afin qu’ils sachent quel est le genre de vie qu’ils doivent vivre. Car il y en a qui
-m’ont demandé: «Est-ce une vie chrétienne qu’une vie consacrée au service de l’église?… Est-ce
-être un membre fidèle?… Est-ce être loyal envers son église?…», et tant d’autres questions! — O
-Père, puisse la réponse correcte être donnée ce soir au travers de ces paroles, lorsque
-nous apporterons ce message à Ton peuple. Nous Te le demandons au Nom de Jésus. Amen.
-31 Lisons maintenant dans notre Bible, dans le livre de Luc, le chapitre 14, depuis le verset 16.
-Cela nous donnera une base, une toile de fond pour ce que nous allons exposer dans les trente,
-ou quarante minutes que nous avons devant nous. Luc, chapitre 14, verset 16.
-       “Et Jésus lui répondit: Un homme donna un grand souper, et il invita beaucoup de
-     gens. A l’heure du souper, il envoya son serviteur dire aux conviés: Venez, car tout est
-     déjà prêt. Mais tous unanimement se mirent à s’excuser. Le premier lui dit: J’ai acheté un
-     champ, et je suis obligé d’aller le voir; excuse-moi, je te prie. Un autre dit: J’ai acheté cinq
-     paires de boeufs, et je vais les essayer; excuse-moi, je te prie. Un autre dit: Je viens de
-     me marier, et c’est pourquoi je ne puis aller. Le serviteur, de retour, rapporta ces choses
-     à son maître. Alors, le maître de la maison, irrité, dit à son serviteur: Va promptement
-     dans les places et les rues de la ville, et amène ici les pauvres, les estropiés, les
-     aveugles et les boiteux. Le serviteur dit: Maître, ce que tu as ordonné a été fait, et il y a
-     encore de la place. Et le maître dit au serviteur: Va dans les chemins et le long des haies,
-     et ceux que tu trouveras, contrains-les d’entrer, afin que ma maison soit remplie. Car, je
-     vous le dis, aucun de ces hommes qui avaient été invités ne goûtera de mon souper”.
-32 Avez-vous remarqué qu’il y avait eu trois appels, [en anglais: Three pulls — N.d.T.], trois
-étapes dans l’appel? Premièrement, ils appelèrent ceux qui avaient été invités, mais ceux-ci ne
-vinrent pas. Ensuite, il y eut une campagne de guérison, où ils allèrent chercher les aveugles et les
-infirmes. Mais il y avait encore de la place! Alors, il alla chercher les bons, les mauvais, et les
-autres, afin de les faire entrer.
-
-        http://www.cmpp.ch
-
-VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 6
-33 Vous pouvez encore lire une autre parabole à ce sujet, quelque chose du même genre; dans
-Matthieu 22, versets un à dix. Vous pourrez lire cela plus tard. Mais c’est du texte que nous
-venons de lire que j’ai tiré le sujet de ma prédication d’aujourd’hui: Votre vie est-elle digne de
-l’Evangile?
-34 Dans cette parabole, Jésus veut nous montrer que l’homme essaie toujours de trouver des
-excuses pour ne pas recevoir la Parole de Dieu, lorsqu’Elle l’invite. Même s’il a la preuve qu’il
-s’agit de Son souper et de Son invitation, il cherche constamment des excuses. Et si vous lisez
-Matthieu 22, vous verrez que, là aussi, l’homme donne toutes sortes d’excuses.
-35 Cela représente ce qui s’est passé dans tous les âges. Il y a aussi cette parabole de l’homme
-qui possédait une vigne. Il envoya ses serviteurs pour recevoir le produit de sa vigne. Le premier
-serviteur vint, et que firent les vignerons? Ils le chassèrent. Le maître envoya d’autres serviteurs,
-mais les vignerons les lapidèrent. Ces hommes cruels se débarrassèrent des serviteurs les uns
-après les autres. Le roi finit par envoyer son propre fils. Mais, lorsque le fils arriva, que dirent les
-vignerons? — “Voici; l’héritier; venez, tuons-le, et emparons-nous de son héritage”. Alors, Jésus dit
-à Ses disciples: “Le roi envoya des gens qui firent périr les meurtriers, et mirent le feu à leur ville”.
-36 Nous voyons donc que, lorsque Dieu donne à un homme une invitation, ou qu’Il l’invite à
-recevoir l’invitation qu’Il lui a donnée, si cet homme la rejette, il ne lui reste, après la grâce, plus
-que le jugement. Si vous franchissez les limites de la grâce, il ne vous reste plus qu’une
-chose, c’est le jugement. Et nous voyons que c’est ce que l’homme a fait tout au long des âges.
-Cela est arrivé en tout temps, comme nous pouvons le voir dans la Bible.
-37 Lorsque Dieu envoya Noé, Son serviteur, pour ouvrir une voie de salut à tous ceux qui
-désiraient être sauvés… Mais le peuple rit et se moqua de Noé. Dieu avait ouvert une voie, et
-chacun avait son excuse! Malheureusement, cette voie n’était pas conforme à leurs idées
-modernistes, cela ne correspondait pas à leur point de vue. C’est pourquoi, aux jours de Noé, ils
-eurent toutes sortes de bonnes excuses.
-38 Ils eurent de bonnes excuses du temps de Moïse. Ils eurent de bonnes excuses du temps
-d’Elie. Ils eurent de bonnes excuses du temps de Christ, et ils ont encore de bonnes excuses
-aujourd’hui!
-39 Jésus avait parlé à Israël lui-même, à ceux qui avaient été invités au festin. Je voudrais
-appliquer cela aujourd’hui aux hommes, à l’église qui a été invitée et qui ne veut pas venir
-au festin spirituel du Seigneur… Ils ne viendront pas; ils ne veulent pas venir. Ils ont tant
-d’autres choses à faire! Ils trouvent toutes les excuses.
-40 Or si, il y a deux mille ans, Israël avait accepté l’invitation qui lui fut envoyée, ils n’en seraient
-pas où ils en sont aujourd’hui. Il y a deux mille ans, Israël a rejeté l’invitation à venir au souper des
-noces. Ils l’ont rejetée, et sont ainsi entrés dans la voie du jugement. Comme Jésus l’a dit, avec
-leurs bonnes excuses, ils ont tué les prophètes qui leur avaient été envoyés.
-41 Les excuses qu’ils donnèrent, chacun à son époque… Jésus, de Son temps, ne S’associa à
-aucun d’eux. Ils disaient: “Où cet homme a-t-il acquis sa connaissance? De quelle école vient-il?
-N’est-il pas le fils du charpentier? Marie n’est-elle pas sa mère? Jean et Jacques ne sont-ils pas
-ses frères? Ses soeurs ne sont-elles pas parmi nous? Alors, d’où cet homme reçoit-il son autorité
-pour faire ces choses?”. En d’autres termes, Il Lui était impossible de S’associer avec eux. C’est
-pourquoi ils dirent de Lui: “C’est Béelzébul; c’est un Samaritain. Il a un démon, il est fou. C’est un
-homme qui a un mauvais esprit religieux qui l’a rendu fou. C’est pour cela qu’il est toujours dans
-les déserts, comme un sauvage! Ne lui accordez aucune attention”. Et nous savons ce qui arriva à
-Israël. Ils poussèrent des cris. Ils étaient tellement sûrs que cet Homme se trompait… Lorsqu’Il
-fut condamné, ils crièrent: “Que son sang retombe sur nous et sur nos enfants!” — et c’est
-ce qui est arrivé depuis lors.
-42 Jésus essaya de leur montrer que c’étaient leurs excuses qui mirent à mort les prophètes et
-les hommes justes. Ils acceptèrent les credo faits par l’homme plutôt que la Parole de Dieu, et
-rendirent ainsi nulle la Parole de Dieu à leur égard.
-43 Vous n’avez qu’une alternative: la volonté de Dieu (le désir de Dieu), ou alors quelque chose
-que vous pouvez accommoder à votre convenance. Vous devez choisir l’un ou l’autre. Vous ne
-pouvez servir Dieu et Mammon. Vous devez dire: «C’est la Vérité!» ou: «C’est une partie de la
-Vérité» ou «Ce n’est pas toute la Vérité» ou «C’est incohérent» ou «C’est mal interprété». Mais la
-
-        http://www.cmpp.ch
-
-    VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE?    7
-Bible dit que la Parole de Dieu ne supporte pas d’interprétation particulière. Personne d’autre
-n’a le droit d’en donner une interprétation; Elle est écrite comme Dieu veut qu’Elle soit interprétée.
-Elle n’est rien de plus que ce qu’Elle doit être. Prenez-la comme Elle est, comme Elle est
-écrite.
-44 Ils n’acceptent que leurs credo. Ils rendent nulles les promesses de Dieu à leur égard. Ils
-passent à côté, sautent par-dessus, et s’éloignent.
-45 Si la Russie, il y a soixante-quinze ans, avait accepté la bénédiction pentecôtiste, lorsque le
-Saint-Esprit descendit sur ce pays, il n’y aurait pas de communistes, aujourd’hui. Un grand réveil
-éclata en Russie, il y a soixante-quinze ans. Dieu descendit parmi eux, et il y eut de grands
-réveils, jusqu’en Sibérie. Mais que firent-ils? Ils rejetèrent cela, et, aujourd’hui, le pays tout
-entier va à la dérive, et les églises ne peuvent tenir de réunions sans permission. Et, maintenant,
-ils sont condamnés au jugement, et entraînés dans cette ronde furieuse du Communisme —
-vendus à Satan.
-46 Il y a cinquante ans, le Saint-Esprit descendit sur l’Angleterre. Juste après cela
-apparurent George Jeffries, F.F. Bosworth, Charles Price, Smith Wigglesworth, ces grands
-soldats de la foi d’il y a cinquante ans, et ils offrirent à l’Angleterre un réveil du Saint-Esprit.
-Mais qu’arriva-t-il? On se moqua d’eux, on les mit en prison, on les traita de fous, croyant qu’ils
-avaient perdu l’esprit. Les églises interdirent aux gens de venir les écouter. Pourtant, ils
-guérissaient les malades, chassaient les démons, et faisaient de grandes oeuvres. Mais, après
-que l’Angleterre, en tant que nation, rejeta l’Evangile… ses péchés sont connus dans le monde
-entier. L’apostasie atteint là un niveau que l’on rencontrerait rarement dans le reste du
-monde, même à Rome ou en France. Elle est l’une des mères de l’apostasie. A l’endroit même où
-Finney et tous ces grands hommes ont prêché… à Haymarket, où Charles G. Finney, et tous les
-autres… Mais elle a rejeté tout cela.
-47 Nous avons d’ailleurs pu lire dans les journaux (il y a une ou deux semaines de cela), que
-plusieurs de leurs grands se sont laissé séduire par des femmes et ont laissé pénétrer des espions
-dans leur pays. Et, depuis ce temps-là, leur premier ministre en a encore découvert plusieurs
-autres. Les journaux sont remplis de ces histoires! Ces péchés scandaleux au sein même de leur
-gouvernement ont souillé leurs noms dans le monde entier. Pourquoi tout cela est-il arrivé?
-Parce qu’elle a rejeté la Vérité! Elle a donné toutes sortes d’excuses, et maintenant, tout est fini
-pour elle! Il y a déjà longtemps que l’Angleterre a rejeté Dieu!
-48 Quinze ans se sont écoulés depuis les dernières grandes campagnes de guérison qu’il y a eu
-en Amérique, à la suite du grand réveil qui se déclara au sein du mouvement de Pentecôte. Il y a
-même eu un grand réveil dans notre capitale, dans Washington. Des présidents, des
-vice-présidents, de grands hommes, des gouverneurs… il s’est passé de grandes choses; des
-gouverneurs… des hommes ont été guéris. Il y a eu le sénateur Upshaw… il était infirme depuis
-soixante-six ans… Ils ne pourront pas dire qu’il ne s’est rien passé! Ces choses sont arrivées
-devant eux, mais ils les ont rejetées.
-49 Et je dis ce soir que c’est la raison pour laquelle la nation reste… elle est jugée. Il n’y a
-plus d’espoir pour elle. Elle a franchi la ligne qui sépare le jugement de la grâce. Elle a
-choisi sa destinée en élisant ceux qu’elle a choisis pour la gouverner. Cette nation est
-pourrie jusqu’au coeur. Sa politique est pourrie. Je ne peux rien imaginer de plus bas que la
-moralité de notre pays! Les systèmes religieux sont même encore plus pourris que la
-moralité! En faisant ceci, elle est entrée avec toutes les églises du pays dans la
-confédération mondiale des églises, et a pris la marque de la Bête. Pourquoi tout cela est-il
-arrivé? Pourtant, Christ lui a donné l’occasion de se repentir! “Venez souper avec Moi!”. — La fête
-de la Pentecôte. Pentecôte signifie cinquante.
-50 Lorsque le Saint-Esprit se déversa sur la Russie, ils furent invités à une Fête de Pentecôte,
-une fête spirituelle, mais ils la refusèrent. Le Saint-Esprit Se déversa sur l’Angleterre, mais ils Le
-rejetèrent. Le Saint-Esprit Se déversa sur l’Amérique, mais ils Le rejetèrent.
-51 Trois fois, Il leur donna du temps. Trois fois, Il envoya Ses serviteurs, mais ils ne
-répondirent pas à l’invitation. Puis Il envoya encore une fois des serviteurs, et leur dit: “Allez, et
-contraignez-les d’entrer!”. Il faut que toutes les places soient occupées. La table est prête; il y a
-encore de la place. Et je crois que, dans les quelques mois ou les quelques années qui
-viennent, Dieu va encore envoyer une vague pour secouer les gens, car il y a encore par-ci,
-
-    http://www.cmpp.ch
-
-VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 8
-par-là, des semences prédestinées dans le monde, sur lesquelles la Lumière doit tomber.
-Mais pour la nation, en tant que telle, le temps est passé.
-52 J’ai regardé le Life de cette semaine, lorsque j’étais à Hot Springs. Il y avait la photo de l’un
-des membres de notre gouvernement (peut-être le gouverneur de New York), dansant avec une
-strip-teaseuse à Honolulu. Et un peu plus bas dans le journal, on voyait encore une même photo
-du même genre. Quelle honte!
-53 Considérez notre pays aujourd’hui. Voyez dans quel état il est, jusqu’où il est tombé! Voyez
-nos systèmes religieux: Comment nos églises ont-elles pu en arriver au point où elles en sont
-aujourd’hui? C’est parce qu’elles ont rejeté et refusé le message de Dieu, l’invitation au
-repas des Noces. Appellerez-vous cela une vie digne de l’Evangile? Pouvez-vous appeler cela
-une vie digne de l’Evangile, une vie où chacun se permet de faire n’importe quoi, de fumer des
-cigarettes, etc…
-54 L’autre jour, dans le parc d’une certaine église pas bien éloignée d’ici… il y avait un petit club
-de football, des jeunes qui jouaient là. Le petit garçon de mon beau-frère est l’un de leurs
-membres. Ils jouaient contre le club de l’église. Leur pasteur jouait avec eux, et tout en jouant, il
-fumait cigarette sur cigarette… Cela se passait tout près d’ici… Pouvez-vous imaginer un
-homme… même les gens de l’assemblée l’ont remarqué; mais cela en vient à un point tel qu’on ne
-fait même plus attention à ces choses!
-55 Dans une grande église baptiste que je connais, on fait sortir les enfants de l’école du
-dimanche un quart d’heure plus tôt, afin que le pasteur et ses collègues puissent aller fumer
-une cigarette avant de rentrer pour le culte qui a lieu après. John Smith, le fondateur de cette
-église, priait si fort pendant toute la nuit pour que Dieu envoie un réveil, que ses paupières étaient
-gonflées au point qu’il ne pouvait plus voir, et que sa femme devait le conduire à table, et lui
-donner elle-même à manger. S’il connaissait la condition actuelle de son église, il se retournerait
-dans sa tombe! Pourquoi cela s’est-il passé? Parce qu’ils ont été invités à entrer, mais qu’ils ont
-refusé l’invitation. C’est la seule raison. Rappelez-vous que c’est Jésus Lui-même qui l’a dit: ceux
-qui ont été invités au souper, mais qui ont refusé l’invitation, ne goûteront pas de Son
-souper.
-56 Quand Dieu envoie le Saint-Esprit, et frappe à la porte d’un homme, et que celui-ci Le rejette
-délibérément, il arrivera qu’un jour, ce sera pour la dernière fois qu’il Le rejettera. Alors,
-vous n’aurez plus aucun privilège. Vous pouvez aussi vous asseoir dans une église, et écouter
-l’Evangile, et être d’accord avec l’Evangile. Vous pouvez aller jusqu’à dire: «Je sais que c’est la
-Vérité!», mais ne jamais aller plus loin. Vous l’écouterez parce que vous pensez: «C’est la Vérité».
-Mais cela n’est rien de plus que de la sympathie que vous avez pour l’Evangile. Je peux dire: «Ce
-chèque vaut dix mille dollars», mais cela ne signifie pas qu’il m’appartienne! Vous comprenez? Je
-peux dire: «Voilà de la bonne eau fraîche!», mais refuser de la boire! Comprenez-vous ce que je
-veux dire? Mais il s’agit ici de la Vie Eternelle. Et si vous continuez à refuser, il arrivera
-qu’un jour, vous franchirez la ligne qui sépare la grâce du jugement, et alors, vous n’aurez
-plus le privilège d’entrer, et de le recevoir.
-57 Pour ceux qui viennent dans cette assemblée… Je ne suis pas responsable de ceux qui
-reçoivent la Parole par d’autres pasteurs. Mais si ce qu’ils disent est vrai, c’est comme cela
-que vous recevrez la Vie. Que pourriez-vous découvrir qui soit meilleur pour vous que de savoir
-que vous pouvez avoir la Vie Eternelle?
-58 Que se passerait-il si je distribuais des pilules qui vous assureraient de vivre mille ans,
-preuves scientifiques à l’appui? Eh bien, il faudrait que je fasse appel à l’armée pour éloigner les
-foules! Il n’y aurait pas besoin de faire un appel à l’autel, il faudrait plutôt les en éloigner! Vivre
-mille ans… Pourtant, il a été prouvé scientifiquement qu’Il est le Dieu Eternel, Il manifeste
-toujours Sa puissance de résurrection, par laquelle vous avez la promesse de Vie Eternelle,
-mais Satan mettra sur pied de guerre toutes ses légions pour vous éloigner de cela. Vous
-comprenez? Pourtant, vous pouvez regarder, et il me semble assez raisonnable de regarder la
-réalité en face, et de voir que c’est la Vérité — mais ensuite, vous la rejetez!
-59 Vous trouverez toujours des excuses: «Il fait trop chaud… Je suis trop fatigué… Je viendrai
-demain…». Ils ont toujours des excuses! Mais si vous rejetez le jour de la visitation, cela vous
-sépare de Dieu.
-
-        http://www.cmpp.ch
-
-VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 9
-60 Remarquons quelque chose. Dans l’Ancien Testament, ils avaient ce qu’ils appelaient l’année
-du jubilé. Cette année-là, tous ceux qui étaient esclaves pouvaient être libérés, lorsque la
-trompette du jubilé sonnait. Mais si l’homme ne voulait pas sortir, s’il donnait quelque excuse
-pour ne pas retourner dans sa terre, alors, il devait être marqué avec un poinçon, en l’appuyant
-contre le montant de la porte du temple. Et même s’il y avait encore un jubilé, il ne pouvait plus
-être libéré. Il ne pouvait plus jamais reprendre sa position de citoyen d’Israël. Pourquoi cela?
-Parce qu’il avait rejeté l’invitation. Il n’aurait pourtant pas eu besoin de payer quoi que ce soit.
-La dette de son esclavage était acquittée. Sa famille était libre. Il pouvait rentrer dans son pays, et
-dans ses terres. Mais s’il refusait, il n’avait plus de part en Israël, et sa terre était à quelqu’un
-d’autre.
-61 Or, l’exemple des choses naturelles est aussi valable pour les choses spirituelles. Si nous
-sommes héritiers de la Vie Eternelle, si nous entendons l’Evangile et savons que c’est la Vérité, et
-que nous le rejetons, que nous refusons d’écouter et de faire ce qu’il faut faire, nous prenons
-sur nous la marque de la Bête.
-62 Vous direz: «Je sais qu’il y aura une marque de la Bête. Un jour, elle viendra». Laissez-moi
-vous dire ceci: elle est déjà venue. Vous voyez? Dès que le Saint-Esprit commence à
-descendre, la marque de la Bête trouve aussi Sa place.
-63 Il n’y a que deux choses. L’une est d’accepter de prendre le sceau de Dieu; l’autre, c’est de
-rejeter, et de prendre la marque de la Bête. Rejeter le sceau de Dieu signifie prendre la marque
-de la Bête. Est-ce que chacun comprend cela? Rejeter le sceau de Dieu signifie prendre la
-marque de la Bête, parce que la Bible dit que tous ceux qui n’avaient pas été scellés par le
-sceau de Dieu reçurent la marque de la Bête.
-64 Lorsque la trompette sonnait, tous ceux qui pouvaient s’en aller et qui ne le faisaient pas
-recevaient la marque. Vous comprenez, la marque de la Bête (nous parlerons peut-être de cela
-plus tard), sera manifestée quand vous vous apercevrez que c’est ce que vous avez déjà fait.
-Vous comprenez? Il en est de même du Saint-Esprit: Il doit être manifesté lorsque nous
-verrons venir le Seigneur Jésus dans la gloire et que nous sentirons cette puissance nous
-transformer, lorsque nous verrons les morts se relever et sortir des tombes, et que nous saurons
-que dans moins d’une seconde, nous serons changés, et que nous revêtirons un corps semblable
-au Sien. Cela sera rendu manifeste. On pourra voir alors ceux qui ont rejeté l’appel rester en
-bas, au-dehors.
-65 Jésus n’a-t-Il pas dit que les vierges allèrent à la rencontre du Christ? Quelques-unes
-s’endormirent à la première veille, d’autres à la seconde, à la troisième, la quatrième, la
-cinquième, la sixième, jusqu’à la septième veille. Mais à la septième veille, on entendit un appel:
-“Voici venir l’Epoux, allez à Sa rencontre!”. Celles qui dormaient se réveillèrent; tous les âges,
-jusqu’à la Pentecôte, se réveillèrent. Vous voyez? Depuis le septième âge, le septième âge de
-l’église, en remontant jusqu’en premier, tous se réveillèrent. Et tous ceux qui étaient vivants dans
-cet âge-ci, furent changés et entrèrent. Et au moment où tous entrèrent, les vierges folles vinrent
-et dirent: “Nous voudrions vous acheter un peu de votre huile!”.
-66 Mais les vierges sages répondirent: “Nous en avons juste assez pour nous-mêmes. Allez en
-chercher chez ceux qui en vendent!”. Mais, pendant qu’elles allaient chercher l’huile, l’Epoux
-arriva. Dans toute l’histoire du monde, on ne voit jamais qu’il y ait eu une époque quelconque où
-les Episcopaux, les Baptistes, les Méthodistes, les Presbytériens… Les journaux sont pleins, les
-journaux religieux louent le Seigneur à cause de toutes ces vierges folles qui essaient de
-recevoir le Saint-Esprit. Ces gens ne comprennent-ils pas que, selon ce que dit la Parole de
-Dieu Elle-même, cela n’arrivera pas?
-67 Pendant qu’elles y allaient, l’Epoux vint et prit Son Epouse avec Lui, et les vierges folles furent
-jetées au-dehors, dans les ténèbres, où elles n’ont plus qu’à attendre le jugement, parce qu’elles
-ont rejeté l’invitation. Tous les peuples sont invités à venir. Dieu, dans chaque âge, a envoyé
-Sa lumière, et Elle a été rejetée. Et aujourd’hui, c’est la même chose que par le passé.
-68 Rejeter le jour de la visitation… Lorsque Dieu vient visiter l’église et le peuple, recevez-Le!
-N’attendez pas l’année prochaine, ou le prochain réveil! L’heure a sonné: “C’est aujourd’hui
-le jour du salut”.
-
-        http://www.cmpp.ch
-
-VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 10
-69 Rappelez-vous que Dieu n’a jamais envoyé de message qu’Il ne l’ait confirmé de
-manière surnaturelle. Jésus Lui-même a dit: “Si Je ne fais pas les oeuvres de Mon Père alors, ne
-Me croyez pas. Mais si Je fais les oeuvres, alors, croyez aux oeuvres que Je fais, si vous ne
-pouvez pas croire en Moi!”. Et lorsque vous voyez les choses se dessiner clairement, et être
-manifestées…
-70 Maintenant, le temps est venu où elle rejette l’invitation. Alors, son oreille est percée avec
-un poinçon, et elle ne l’entendra plus jamais. Maintenant, elle se dirige vers la confédération
-mondiale des églises, pour y entrer afin de recevoir la marque de la Bête.
-71 Une des grandes ambitions du nouveau pape (quelqu’un vient de me montrer cela dans le
-journal), est de réunir toutes les églises. Ils le feront, aussi vrai que je suis ici devant vous, et les
-protestants acceptent cela! Cela vient de ce que l’église… La Bible dit… Paul, le prophète du
-Seigneur, dit: “Ce jour n’arrivera pas avant que l’apostasie soit arrivée, et qu’on ait vu paraître
-l’homme du péché, le fils de la perdition, l’adversaire qui s’élève au-dessus de tout ce qu’on
-appelle Dieu ou de ce qu’on adore, jusqu’à s’asseoir dans le temple de Dieu, se proclamant
-lui-même Dieu, pardonnant les péchés sur la terre, etc”. Comment cela est-il arrivé? Mais cela ne
-peut arriver avant la chute, avant que l’église commence à s’éloigner du festin spirituel, se
-retire et s’organise. Alors, la révélation ne resta plus dans l’église.
-72 Rappelez-vous qu’Israël marchait jour et nuit sous la Colonne de feu. Quand la Colonne de
-feu Se déplaçait, ils partaient avec Elle. Rappelez-vous que la nuit, c’était un feu, et que le jour,
-c’était une nuée. C’est pourquoi Elle pouvait venir de nuit comme de jour. Mais où qu’Elle fût,
-une propitiation avait été faite, de manière que tous puissent La voir. Elle était une lumière la
-nuit et une nuée le jour, et ils La suivaient. C’est vrai!
-73 C’est toujours la même chose. Martin Luther La vit, et que fit-il? Il sortit du Catholicisme.
-Mais que firent les Luthériens? Ils élevèrent une clôture autour d’eux et dirent: «Nous sommes les
-Luthériens, un point, c’est tout!».
-74 Wesley vit la Colonne S’élever. Il La suivit. Mais que firent les Méthodistes? Ils élevèrent
-une clôture autour d’eux, et dirent: «C’est nous». Que fit la Lumière? Elle S’en alla plus loin.
-75 Les Pentecôtistes La virent. Que firent-ils? Ils sortirent du milieu des Méthodistes, des
-Nazaréens, etc. Mais, que firent-ils? Les Pentecôtistes élevèrent tous des clôtures autour d’eux,
-disant: «Nous sommes les Unitaires!… Nous sommes les Trinitaires!… nous sommes l’Eglise
-Unie!»… et tout cela. Et que fit Dieu? Il sortit de tout cela, et alla plus loin.
-76 Vous comprenez pourquoi nous ne pouvons pas faire la même chose. Nous devons suivre
-la Colonne chaque jour, chaque heure de chaque jour, à chaque pas que nous faisons.
-Nous devons être conduits par le Seigneur Jésus-Christ. Si nous ne le sommes pas, nous
-entrons dans une vie d’organisation. Et une vie qui ne suit pas Christ chaque jour est
-indigne de Lui.
-77 Un homme qui n’est chrétien que le dimanche quand il va à l’église, qui s’assied sur sa
-chaise, et pense qu’il appartient a l’église parce qu’il fait ceci ou cela, et qui, dès le lundi, se
-met à voler et à mentir… Une femme qui va sur les plages publiques, et sort dans les rues avec
-des vêtements immoraux…
-78 Je pense à la première dame de la nation… Elle n’a pas voulu se maquiller pour paraître
-devant le pape — mais en rentrant au pays, elle avait une nouvelle coupe de cheveux que se sont
-dépêché d’imiter toutes les femmes. Et quand elle est devenue mère… toutes les femmes du pays
-ont voulu porter le même genre de robe qu’elle. C’est vrai: Ce sont des exemples, et ces gens
-savent très bien que tout le monde fera comme eux. Ils suivent l’esprit de ce monde, mais cela n’a
-rien à faire au sein de l’Eglise du Dieu vivant.
-79 Les femmes devraient regarder à Jésus-Christ. Vous devriez regarder à Sara, et a tous les
-exemples de l’Ancien Testament.
-80 Je parlais l’autre soir, quelque part, de l’obéissance des femmes à leur mari. Obéissance? Eh
-bien… Il y a bien longtemps déjà que l’on a supprimé ce passage du rituel du mariage. Pourtant…
-Eh bien, ce ne sont pas elles qui vont se mettre à obéir!… Oh, non! Elles vivent en Amérique, et
-elles ne manqueront pas de vous le rappeler! Elles ne vont pas se mettre à obéir! Mais, aussi
-longtemps que vous ne le faites pas, n’essayez pas de vous donner le nom de chrétiennes, parce
-
-        http://www.cmpp.ch
+32 Avez-vous remarqué qu’il y avait eu trois appels, [en anglais: Three pulls — N.d.T.], trois étapes dans l’appel? Premièrement, ils appelèrent ceux qui avaient été invités, mais ceux-ci ne vinrent pas. Ensuite, il y eut une campagne de guérison, où ils allèrent chercher les aveugles et les infirmes. Mais il y avait encore de la place! Alors, il alla chercher les bons, les mauvais, et les autres, afin de les faire entrer.
+33 Vous pouvez encore lire une autre parabole à ce sujet, quelque chose du même genre; dans Matthieu 22, versets un à dix. Vous pourrez lire cela plus tard. Mais c’est du texte que nous venons de lire que j’ai tiré le sujet de ma prédication d’aujourd’hui: Votre vie est-elle digne de l’Evangile?
+34 Dans cette parabole, Jésus veut nous montrer que l’homme essaie toujours de trouver des excuses pour ne pas recevoir la Parole de Dieu, lorsqu’Elle l’invite. Même s’il a la preuve qu’il s’agit de Son souper et de Son invitation, il cherche constamment des excuses. Et si vous lisez Matthieu 22, vous verrez que, là aussi, l’homme donne toutes sortes d’excuses.
+35 Cela représente ce qui s’est passé dans tous les âges. Il y a aussi cette parabole de l’homme qui possédait une vigne. Il envoya ses serviteurs pour recevoir le produit de sa vigne. Le premier serviteur vint, et que firent les vignerons? Ils le chassèrent. Le maître envoya d’autres serviteurs, mais les vignerons les lapidèrent. Ces hommes cruels se débarrassèrent des serviteurs les uns après les autres. Le roi finit par envoyer son propre fils. Mais, lorsque le fils arriva, que dirent les vignerons? — “Voici; l’héritier; venez, tuons-le, et emparons-nous de son héritage”. Alors, Jésus dit à Ses disciples: “Le roi envoya des gens qui firent périr les meurtriers, et mirent le feu à leur ville”.
+36 Nous voyons donc que, lorsque Dieu donne à un homme une invitation, ou qu’Il l’invite à recevoir l’invitation qu’Il lui a donnée, si cet homme la rejette, il ne lui reste, après la grâce, plus que le jugement. Si vous franchissez les limites de la grâce, il ne vous reste plus qu’une chose, c’est le jugement. Et nous voyons que c’est ce que l’homme a fait tout au long des âges. Cela est arrivé en tout temps, comme nous pouvons le voir dans la Bible.
+37 Lorsque Dieu envoya Noé, Son serviteur, pour ouvrir une voie de salut à tous ceux qui désiraient être sauvés… Mais le peuple rit et se moqua de Noé. Dieu avait ouvert une voie, et chacun avait son excuse! Malheureusement, cette voie n’était pas conforme à leurs idées modernistes, cela ne correspondait pas à leur point de vue. C’est pourquoi, aux jours de Noé, ils eurent toutes sortes de bonnes excuses.
+38 Ils eurent de bonnes excuses du temps de Moïse. Ils eurent de bonnes excuses du temps d’Elie. Ils eurent de bonnes excuses du temps de Christ, et ils ont encore de bonnes excuses aujourd’hui!
+39 Jésus avait parlé à Israël lui-même, à ceux qui avaient été invités au festin. Je voudrais appliquer cela aujourd’hui aux hommes, à l’église qui a été invitée et qui ne veut pas venir au festin spirituel du Seigneur… Ils ne viendront pas; ils ne veulent pas venir. Ils ont tant d’autres choses à faire! Ils trouvent toutes les excuses.
+40 Or si, il y a deux mille ans, Israël avait accepté l’invitation qui lui fut envoyée, ils n’en seraient pas où ils en sont aujourd’hui. Il y a deux mille ans, Israël a rejeté l’invitation à venir au souper des noces. Ils l’ont rejetée, et sont ainsi entrés dans la voie du jugement. Comme Jésus l’a dit, avec leurs bonnes excuses, ils ont tué les prophètes qui leur avaient été envoyés.
+41 Les excuses qu’ils donnèrent, chacun à son époque… Jésus, de Son temps, ne S’associa à aucun d’eux. Ils disaient: “Où cet homme a-t-il acquis sa connaissance? De quelle école vient-il? N’est-il pas le fils du charpentier? Marie n’est-elle pas sa mère? Jean et Jacques ne sont-ils pas ses frères? Ses soeurs ne sont-elles pas parmi nous? Alors, d’où cet homme reçoit-il son autorité pour faire ces choses?”. En d’autres termes, Il Lui était impossible de S’associer avec eux. C’est pourquoi ils dirent de Lui: “C’est Béelzébul; c’est un Samaritain. Il a un démon, il est fou. C’est un homme qui a un mauvais esprit religieux qui l’a rendu fou. C’est pour cela qu’il est toujours dans les déserts, comme un sauvage! Ne lui accordez aucune attention”. Et nous savons ce qui arriva à Israël. Ils poussèrent des cris. Ils étaient tellement sûrs que cet Homme se trompait… Lorsqu’Il fut condamné, ils crièrent: “Que son sang retombe sur nous et sur nos enfants!” — et c’est ce qui est arrivé depuis lors.
+42 Jésus essaya de leur montrer que c’étaient leurs excuses qui mirent à mort les prophètes et les hommes justes. Ils acceptèrent les credo faits par l’homme plutôt que la Parole de Dieu, et rendirent ainsi nulle la Parole de Dieu à leur égard.
+43 Vous n’avez qu’une alternative: la volonté de Dieu (le désir de Dieu), ou alors quelque chose que vous pouvez accommoder à votre convenance. Vous devez choisir l’un ou l’autre. Vous ne pouvez servir Dieu et Mammon. Vous devez dire: «C’est la Vérité!» ou: «C’est une partie de la Vérité» ou «Ce n’est pas toute la Vérité» ou «C’est incohérent» ou «C’est mal interprété». Mais la Bible dit que la Parole de Dieu ne supporte pas d’interprétation particulière. Personne d’autre n’a le droit d’en donner une interprétation; Elle est écrite comme Dieu veut qu’Elle soit interprétée. Elle n’est rien de plus que ce qu’Elle doit être. Prenez-la comme Elle est, comme Elle est écrite.
+44 Ils n’acceptent que leurs credo. Ils rendent nulles les promesses de Dieu à leur égard. Ils passent à côté, sautent par-dessus, et s’éloignent.
+45 Si la Russie, il y a soixante-quinze ans, avait accepté la bénédiction pentecôtiste, lorsque le Saint-Esprit descendit sur ce pays, il n’y aurait pas de communistes, aujourd’hui. Un grand réveil éclata en Russie, il y a soixante-quinze ans. Dieu descendit parmi eux, et il y eut de grands réveils, jusqu’en Sibérie. Mais que firent-ils? Ils rejetèrent cela, et, aujourd’hui, le pays tout entier va à la dérive, et les églises ne peuvent tenir de réunions sans permission. Et, maintenant, ils sont condamnés au jugement, et entraînés dans cette ronde furieuse du Communisme — vendus à Satan.
+46 Il y a cinquante ans, le Saint-Esprit descendit sur l’Angleterre. Juste après cela apparurent George Jeffries, F.F. Bosworth, Charles Price, Smith Wigglesworth, ces grands soldats de la foi d’il y a cinquante ans, et ils offrirent à l’Angleterre un réveil du Saint-Esprit. Mais qu’arriva-t-il? On se moqua d’eux, on les mit en prison, on les traita de fous, croyant qu’ils avaient perdu l’esprit. Les églises interdirent aux gens de venir les écouter. Pourtant, ils guérissaient les malades, chassaient les démons, et faisaient de grandes oeuvres. Mais, après que l’Angleterre, en tant que nation, rejeta l’Evangile… ses péchés sont connus dans le monde entier. L’apostasie atteint là un niveau que l’on rencontrerait rarement dans le reste du monde, même à Rome ou en France. Elle est l’une des mères de l’apostasie. A l’endroit même où Finney et tous ces grands hommes ont prêché… à Haymarket, où Charles G. Finney, et tous les autres… Mais elle a rejeté tout cela.
+47 Nous avons d’ailleurs pu lire dans les journaux (il y a une ou deux semaines de cela), que plusieurs de leurs grands se sont laissé séduire par des femmes et ont laissé pénétrer des espions dans leur pays. Et, depuis ce temps-là, leur premier ministre en a encore découvert plusieurs autres. Les journaux sont remplis de ces histoires! Ces péchés scandaleux au sein même de leur gouvernement ont souillé leurs noms dans le monde entier. Pourquoi tout cela est-il arrivé? Parce qu’elle a rejeté la Vérité! Elle a donné toutes sortes d’excuses, et maintenant, tout est fini pour elle! Il y a déjà longtemps que l’Angleterre a rejeté Dieu!
+48 Quinze ans se sont écoulés depuis les dernières grandes campagnes de guérison qu’il y a eu en Amérique, à la suite du grand réveil qui se déclara au sein du mouvement de Pentecôte. Il y a même eu un grand réveil dans notre capitale, dans Washington. Des présidents, des vice-présidents, de grands hommes, des gouverneurs… il s’est passé de grandes choses; des gouverneurs… des hommes ont été guéris. Il y a eu le sénateur Upshaw… il était infirme depuis soixante-six ans… Ils ne pourront pas dire qu’il ne s’est rien passé! Ces choses sont arrivées devant eux, mais ils les ont rejetées.
+49 Et je dis ce soir que c’est la raison pour laquelle la nation reste… elle est jugée. Il n’y a plus d’espoir pour elle. Elle a franchi la ligne qui sépare le jugement de la grâce. Elle a choisi sa destinée en élisant ceux qu’elle a choisis pour la gouverner. Cette nation est pourrie jusqu’au coeur. Sa politique est pourrie. Je ne peux rien imaginer de plus bas que la moralité de notre pays! Les systèmes religieux sont même encore plus pourris que la moralité! En faisant ceci, elle est entrée avec toutes les églises du pays dans la confédération mondiale des églises, et a pris la marque de la Bête. Pourquoi tout cela est-il arrivé? Pourtant, Christ lui a donné l’occasion de se repentir! “Venez souper avec Moi!”. — La fête de la Pentecôte. Pentecôte signifie cinquante.
+50 Lorsque le Saint-Esprit se déversa sur la Russie, ils furent invités à une Fête de Pentecôte, une fête spirituelle, mais ils la refusèrent. Le Saint-Esprit Se déversa sur l’Angleterre, mais ils Le rejetèrent. Le Saint-Esprit Se déversa sur l’Amérique, mais ils Le rejetèrent.
+51 Trois fois, Il leur donna du temps. Trois fois, Il envoya Ses serviteurs, mais ils ne répondirent pas à l’invitation. Puis Il envoya encore une fois des serviteurs, et leur dit: “Allez, et contraignez-les d’entrer!”. Il faut que toutes les places soient occupées. La table est prête; il y a encore de la place. Et je crois que, dans les quelques mois ou les quelques années qui viennent, Dieu va encore envoyer une vague pour secouer les gens, car il y a encore par-ci, par-là, des semences prédestinées dans le monde, sur lesquelles la Lumière doit tomber. Mais pour la nation, en tant que telle, le temps est passé.
+52 J’ai regardé le Life de cette semaine, lorsque j’étais à Hot Springs. Il y avait la photo de l’un des membres de notre gouvernement (peut-être le gouverneur de New York), dansant avec une strip-teaseuse à Honolulu. Et un peu plus bas dans le journal, on voyait encore une même photo du même genre. Quelle honte!
+53 Considérez notre pays aujourd’hui. Voyez dans quel état il est, jusqu’où il est tombé! Voyez nos systèmes religieux: Comment nos églises ont-elles pu en arriver au point où elles en sont aujourd’hui? C’est parce qu’elles ont rejeté et refusé le message de Dieu, l’invitation au repas des Noces. Appellerez-vous cela une vie digne de l’Evangile? Pouvez-vous appeler cela une vie digne de l’Evangile, une vie où chacun se permet de faire n’importe quoi, de fumer des cigarettes, etc…
+54 L’autre jour, dans le parc d’une certaine église pas bien éloignée d’ici… il y avait un petit club de football, des jeunes qui jouaient là. Le petit garçon de mon beau-frère est l’un de leurs membres. Ils jouaient contre le club de l’église. Leur pasteur jouait avec eux, et tout en jouant, il fumait cigarette sur cigarette… Cela se passait tout près d’ici… Pouvez-vous imaginer un homme… même les gens de l’assemblée l’ont remarqué; mais cela en vient à un point tel qu’on ne fait même plus attention à ces choses!
+55 Dans une grande église baptiste que je connais, on fait sortir les enfants de l’école du dimanche un quart d’heure plus tôt, afin que le pasteur et ses collègues puissent aller fumer une cigarette avant de rentrer pour le culte qui a lieu après. John Smith, le fondateur de cette église, priait si fort pendant toute la nuit pour que Dieu envoie un réveil, que ses paupières étaient gonflées au point qu’il ne pouvait plus voir, et que sa femme devait le conduire à table, et lui donner elle-même à manger. S’il connaissait la condition actuelle de son église, il se retournerait dans sa tombe! Pourquoi cela s’est-il passé? Parce qu’ils ont été invités à entrer, mais qu’ils ont refusé l’invitation. C’est la seule raison. Rappelez-vous que c’est Jésus Lui-même qui l’a dit: ceux qui ont été invités au souper, mais qui ont refusé l’invitation, ne goûteront pas de Son souper.
+56 Quand Dieu envoie le Saint-Esprit, et frappe à la porte d’un homme, et que celui-ci Le rejette délibérément, il arrivera qu’un jour, ce sera pour la dernière fois qu’il Le rejettera. Alors, vous n’aurez plus aucun privilège. Vous pouvez aussi vous asseoir dans une église, et écouter l’Evangile, et être d’accord avec l’Evangile. Vous pouvez aller jusqu’à dire: «Je sais que c’est la Vérité!», mais ne jamais aller plus loin. Vous l’écouterez parce que vous pensez: «C’est la Vérité». Mais cela n’est rien de plus que de la sympathie que vous avez pour l’Evangile. Je peux dire: «Ce chèque vaut dix mille dollars», mais cela ne signifie pas qu’il m’appartienne! Vous comprenez? Je peux dire: «Voilà de la bonne eau fraîche!», mais refuser de la boire! Comprenez-vous ce que je veux dire? Mais il s’agit ici de la Vie Eternelle. Et si vous continuez à refuser, il arrivera qu’un jour, vous franchirez la ligne qui sépare la grâce du jugement, et alors, vous n’aurez plus le privilège d’entrer, et de le recevoir.
+57 Pour ceux qui viennent dans cette assemblée… Je ne suis pas responsable de ceux qui reçoivent la Parole par d’autres pasteurs. Mais si ce qu’ils disent est vrai, c’est comme cela que vous recevrez la Vie. Que pourriez-vous découvrir qui soit meilleur pour vous que de savoir que vous pouvez avoir la Vie Eternelle?
+58 Que se passerait-il si je distribuais des pilules qui vous assureraient de vivre mille ans, preuves scientifiques à l’appui? Eh bien, il faudrait que je fasse appel à l’armée pour éloigner les foules! Il n’y aurait pas besoin de faire un appel à l’autel, il faudrait plutôt les en éloigner! Vivre mille ans… Pourtant, il a été prouvé scientifiquement qu’Il est le Dieu Eternel, Il manifeste toujours Sa puissance de résurrection, par laquelle vous avez la promesse de Vie Eternelle, mais Satan mettra sur pied de guerre toutes ses légions pour vous éloigner de cela. Vous comprenez? Pourtant, vous pouvez regarder, et il me semble assez raisonnable de regarder la réalité en face, et de voir que c’est la Vérité — mais ensuite, vous la rejetez!
+59 Vous trouverez toujours des excuses: «Il fait trop chaud… Je suis trop fatigué… Je viendrai demain…». Ils ont toujours des excuses! Mais si vous rejetez le jour de la visitation, cela vous sépare de Dieu.
+60 Remarquons quelque chose. Dans l’Ancien Testament, ils avaient ce qu’ils appelaient l’année du jubilé. Cette année-là, tous ceux qui étaient esclaves pouvaient être libérés, lorsque la trompette du jubilé sonnait. Mais si l’homme ne voulait pas sortir, s’il donnait quelque excuse pour ne pas retourner dans sa terre, alors, il devait être marqué avec un poinçon, en l’appuyant contre le montant de la porte du temple. Et même s’il y avait encore un jubilé, il ne pouvait plus être libéré. Il ne pouvait plus jamais reprendre sa position de citoyen d’Israël. Pourquoi cela? Parce qu’il avait rejeté l’invitation. Il n’aurait pourtant pas eu besoin de payer quoi que ce soit. La dette de son esclavage était acquittée. Sa famille était libre. Il pouvait rentrer dans son pays, et dans ses terres. Mais s’il refusait, il n’avait plus de part en Israël, et sa terre était à quelqu’un d’autre.
+61 Or, l’exemple des choses naturelles est aussi valable pour les choses spirituelles. Si nous sommes héritiers de la Vie Eternelle, si nous entendons l’Evangile et savons que c’est la Vérité, et que nous le rejetons, que nous refusons d’écouter et de faire ce qu’il faut faire, nous prenons sur nous la marque de la Bête.
+62 Vous direz: «Je sais qu’il y aura une marque de la Bête. Un jour, elle viendra». Laissez-moi vous dire ceci: elle est déjà venue. Vous voyez? Dès que le Saint-Esprit commence à descendre, la marque de la Bête trouve aussi Sa place.
+63 Il n’y a que deux choses. L’une est d’accepter de prendre le sceau de Dieu; l’autre, c’est de rejeter, et de prendre la marque de la Bête. Rejeter le sceau de Dieu signifie prendre la marque de la Bête. Est-ce que chacun comprend cela? Rejeter le sceau de Dieu signifie prendre la marque de la Bête, parce que la Bible dit que tous ceux qui n’avaient pas été scellés par le sceau de Dieu reçurent la marque de la Bête.
+64 Lorsque la trompette sonnait, tous ceux qui pouvaient s’en aller et qui ne le faisaient pas recevaient la marque. Vous comprenez, la marque de la Bête (nous parlerons peut-être de cela plus tard), sera manifestée quand vous vous apercevrez que c’est ce que vous avez déjà fait. Vous comprenez? Il en est de même du Saint-Esprit: Il doit être manifesté lorsque nous verrons venir le Seigneur Jésus dans la gloire et que nous sentirons cette puissance nous transformer, lorsque nous verrons les morts se relever et sortir des tombes, et que nous saurons que dans moins d’une seconde, nous serons changés, et que nous revêtirons un corps semblable au Sien. Cela sera rendu manifeste. On pourra voir alors ceux qui ont rejeté l’appel rester en bas, au-dehors.
+65 Jésus n’a-t-Il pas dit que les vierges allèrent à la rencontre du Christ? Quelques-unes s’endormirent à la première veille, d’autres à la seconde, à la troisième, la quatrième, la cinquième, la sixième, jusqu’à la septième veille. Mais à la septième veille, on entendit un appel: “Voici venir l’Epoux, allez à Sa rencontre!”. Celles qui dormaient se réveillèrent; tous les âges, jusqu’à la Pentecôte, se réveillèrent. Vous voyez? Depuis le septième âge, le septième âge de l’église, en remontant jusqu’en premier, tous se réveillèrent. Et tous ceux qui étaient vivants dans cet âge-ci, furent changés et entrèrent. Et au moment où tous entrèrent, les vierges folles vinrent et dirent: “Nous voudrions vous acheter un peu de votre huile!”.
+66 Mais les vierges sages répondirent: “Nous en avons juste assez pour nous-mêmes. Allez en chercher chez ceux qui en vendent!”. Mais, pendant qu’elles allaient chercher l’huile, l’Epoux arriva. Dans toute l’histoire du monde, on ne voit jamais qu’il y ait eu une époque quelconque où les Episcopaux, les Baptistes, les Méthodistes, les Presbytériens… Les journaux sont pleins, les journaux religieux louent le Seigneur à cause de toutes ces vierges folles qui essaient de recevoir le Saint-Esprit. Ces gens ne comprennent-ils pas que, selon ce que dit la Parole de Dieu Elle-même, cela n’arrivera pas?
+67 Pendant qu’elles y allaient, l’Epoux vint et prit Son Epouse avec Lui, et les vierges folles furent jetées au-dehors, dans les ténèbres, où elles n’ont plus qu’à attendre le jugement, parce qu’elles ont rejeté l’invitation. Tous les peuples sont invités à venir. Dieu, dans chaque âge, a envoyé Sa lumière, et Elle a été rejetée. Et aujourd’hui, c’est la même chose que par le passé.
+68 Rejeter le jour de la visitation… Lorsque Dieu vient visiter l’église et le peuple, recevez-Le! N’attendez pas l’année prochaine, ou le prochain réveil! L’heure a sonné: “C’est aujourd’hui le jour du salut”.
+69 Rappelez-vous que Dieu n’a jamais envoyé de message qu’Il ne l’ait confirmé de manière surnaturelle. Jésus Lui-même a dit: “Si Je ne fais pas les oeuvres de Mon Père alors, ne Me croyez pas. Mais si Je fais les oeuvres, alors, croyez aux oeuvres que Je fais, si vous ne pouvez pas croire en Moi!”. Et lorsque vous voyez les choses se dessiner clairement, et être manifestées…
+70 Maintenant, le temps est venu où elle rejette l’invitation. Alors, son oreille est percée avec un poinçon, et elle ne l’entendra plus jamais. Maintenant, elle se dirige vers la confédération mondiale des églises, pour y entrer afin de recevoir la marque de la Bête.
+71 Une des grandes ambitions du nouveau pape (quelqu’un vient de me montrer cela dans le journal), est de réunir toutes les églises. Ils le feront, aussi vrai que je suis ici devant vous, et les protestants acceptent cela! Cela vient de ce que l’église… La Bible dit… Paul, le prophète du Seigneur, dit: “Ce jour n’arrivera pas avant que l’apostasie soit arrivée, et qu’on ait vu paraître l’homme du péché, le fils de la perdition, l’adversaire qui s’élève au-dessus de tout ce qu’on appelle Dieu ou de ce qu’on adore, jusqu’à s’asseoir dans le temple de Dieu, se proclamant lui-même Dieu, pardonnant les péchés sur la terre, etc”. Comment cela est-il arrivé? Mais cela ne peut arriver avant la chute, avant que l’église commence à s’éloigner du festin spirituel, se retire et s’organise. Alors, la révélation ne resta plus dans l’église.
+72 Rappelez-vous qu’Israël marchait jour et nuit sous la Colonne de feu. Quand la Colonne de feu Se déplaçait, ils partaient avec Elle. Rappelez-vous que la nuit, c’était un feu, et que le jour, c’était une nuée. C’est pourquoi Elle pouvait venir de nuit comme de jour. Mais où qu’Elle fût, une propitiation avait été faite, de manière que tous puissent La voir. Elle était une lumière la nuit et une nuée le jour, et ils La suivaient. C’est vrai!
+73 C’est toujours la même chose. Martin Luther La vit, et que fit-il? Il sortit du Catholicisme. Mais que firent les Luthériens? Ils élevèrent une clôture autour d’eux et dirent: «Nous sommes les Luthériens, un point, c’est tout!».
+74 Wesley vit la Colonne S’élever. Il La suivit. Mais que firent les Méthodistes? Ils élevèrent une clôture autour d’eux, et dirent: «C’est nous». Que fit la Lumière? Elle S’en alla plus loin.
+75 Les Pentecôtistes La virent. Que firent-ils? Ils sortirent du milieu des Méthodistes, des Nazaréens, etc. Mais, que firent-ils? Les Pentecôtistes élevèrent tous des clôtures autour d’eux, disant: «Nous sommes les Unitaires!… Nous sommes les Trinitaires!… nous sommes l’Eglise Unie!»… et tout cela. Et que fit Dieu? Il sortit de tout cela, et alla plus loin.
+76 Vous comprenez pourquoi nous ne pouvons pas faire la même chose. Nous devons suivre la Colonne chaque jour, chaque heure de chaque jour, à chaque pas que nous faisons. Nous devons être conduits par le Seigneur Jésus-Christ. Si nous ne le sommes pas, nous entrons dans une vie d’organisation. Et une vie qui ne suit pas Christ chaque jour est indigne de Lui.
+77 Un homme qui n’est chrétien que le dimanche quand il va à l’église, qui s’assied sur sa chaise, et pense qu’il appartient a l’église parce qu’il fait ceci ou cela, et qui, dès le lundi, se met à voler et à mentir… Une femme qui va sur les plages publiques, et sort dans les rues avec des vêtements immoraux…
+78 Je pense à la première dame de la nation… Elle n’a pas voulu se maquiller pour paraître devant le pape — mais en rentrant au pays, elle avait une nouvelle coupe de cheveux que se sont dépêché d’imiter toutes les femmes. Et quand elle est devenue mère… toutes les femmes du pays ont voulu porter le même genre de robe qu’elle. C’est vrai: Ce sont des exemples, et ces gens savent très bien que tout le monde fera comme eux. Ils suivent l’esprit de ce monde, mais cela n’a rien à faire au sein de l’Eglise du Dieu vivant.
+79 Les femmes devraient regarder à Jésus-Christ. Vous devriez regarder à Sara, et a tous les exemples de l’Ancien Testament.
+80 Je parlais l’autre soir, quelque part, de l’obéissance des femmes à leur mari. Obéissance? Eh bien… Il y a bien longtemps déjà que l’on a supprimé ce passage du rituel du mariage. Pourtant… Eh bien, ce ne sont pas elles qui vont se mettre à obéir!… Oh, non! Elles vivent en Amérique, et elles ne manqueront pas de vous le rappeler! Elles ne vont pas se mettre à obéir! Mais, aussi longtemps que vous ne le faites pas, n’essayez pas de vous donner le nom de chrétiennes, parce que vous ne l’êtes pas.
 
 VOTRE VIE EST-ELLE DIGNE DE L’EVANGILE? 11
 que vous ne l’êtes pas! Peu m’importe combien vous dansez et parlez en langues, si vous
@@ -598,7 +230,7 @@ Dieu! Femmes! soyez vêtues comme des filles de Dieu! Ne vous conduisez pas de m
 jamais à l’esprit la pensée de faire du mal… mais, lorsque ce pécheur regarde avec convoitise
 les formes gracieuses de cette femme… sachant qu’il est un homme, et qu’elle est une femme,
 que chacun a des glandes différentes… sachant que ce pécheur aura à répondre de cela au jour
-du jugement, qui donc en aura été la cause? qui en sera coupable? Ce n’est pas lui, c’est
+ du jugement, qui donc en aura été la cause? qui en sera coupable? Ce n’est pas lui, c’est
 vous, femme! Parfaitement! Vous êtes immorale!
 91 Regardez ce qui se passe dans ce pays. Il fut un temps où, pour se procurer une robe qui
 s’arrête aux genoux, il fallait aller la chercher à Paris! Maintenant, c’est le contraire! Tout devient
@@ -1086,7 +718,7 @@ changer pour mettre mes vêtements de travail, et je restais assis là, en atten
 Ensuite, je me levais, et j’allais… J’étais devenu si maigre, à force de prier et de jeûner, que je
 devais prier, avant de passer mes crochets pour monter sur les poteaux. Prêcher, prêcher que
 Dieu est glorieux, que Dieu est plein de miséricorde, que Dieu est amour, dire tout cela aux
-gens, et voici que mon père meurt dans mes propres bras, et que mon frère est tué pendant
+ gens, et voici que mon père meurt dans mes propres bras, et que mon frère est tué pendant
 que j’étais en chaire, prêchant dans cette petite église pentecôtiste pour les noirs. On vint me
 dire: «Votre frère vient d’être tué sur la grande route. Une voiture l’a heurté et l’a tué». Voir le sang
 de son propre frère couler sur sa chemise, alors qu’on le ramasse sur la route! A peine l’avais-je
@@ -1500,7 +1132,7 @@ coupés. Si elle fait cela, elle témoigne devant son mari qu’elle est une fem
 parfaitement le droit de la répudier, et de la chasser loin de lui. C’est l’exacte vérité. C’est la Parole
 de Dieu qui dit cela, et si une femme l’entend, et continue à se couper les cheveux et à se
 dire chrétienne, si cela ne veut pas dire qu’elle est une névrosée, alors, qu’est-ce qu’une
-névrosée? Dans ce cas, j’aimerais bien que quelqu’un me dise ce qu’est un névrosé!
+évrosée? Dans ce cas, j’aimerais bien que quelqu’un me dise ce qu’est un névrosé!
 224 Oui, ce sont des névrosés. Très instruits, diplômés, etc… Nous consacrons plus de temps
 à enseigner à nos enfants l’algèbre et la biologie que la Bible et Jésus-Christ. Il n’y a pas un
 enfant dans ce pays qui ne sache qui était Davy Crockett. Mais il n’y en a pas plus d’un tiers qui
@@ -1548,7 +1180,7 @@ bas et je dis au frère Carlson: «Vous ne tiendrez pas cette réunion dans cet 
 aller à un autre endroit, où il y aura une salle verte. Et ils m’ont tendu un piège, n’est-ce pas, frère
 Carlsson?». — Il baissa la tête.
      Il était assis dans mon bureau, quelques jours avant cette rencontre de Chicago. Il me dit
-alors: «Frère Branham, je n’oublierai jamais cela!».
+ alors: «Frère Branham, je n’oublierai jamais cela!».
      Je lui avais demandé: «Ils m’ont tendu un piège. Pourquoi cela, frère Carlsson? Avez-vous
 peur de me le dire, vous et Tommy Hicks?». Ils baissèrent la tête. Je dis: «Tommy, pourquoi ne
 parles-tu pas?».
@@ -1901,7 +1533,7 @@ la Vérité?». C’est tout ce qu’il faut, Seigneur, si elles sont sincères,
 blessés. Mais l’Esprit de Dieu leur a parlé, et ils se sont assis tranquillement et ont écouté.
 L’heure est avancée. Il est tard, et il est aussi tard dans les jours que nous vivons. Le soleil est en
 train de se coucher; le monde se refroidit. O Dieu, les ténèbres sont sur le point de s’installer, et
-alors, le Seigneur viendra pour enlever Son Eglise. Combien nous Te remercions pour cela, ô
+Alors, le Seigneur viendra pour enlever Son Eglise. Combien nous Te remercions pour cela, ô
 Seigneur!
 284 Nous Te prions maintenant, afin que Tu bénisses chaque personne de Ta Divine présence. O
 Seigneur, que tous ceux qui, dans le monde entier, écouteront cette bande magnétique, puissent
@@ -2022,14 +1654,3 @@ vous, d’un vrai amour chrétien, de l’amour de Dieu. Que Dieu vous bénisse!
 cela.
 301 Maintenant, je laisse cette chaire à un homme dont je crois de tout mon coeur qu’il est un
 serviteur de Jésus-Christ, notre pasteur, frère Neville.
-
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch

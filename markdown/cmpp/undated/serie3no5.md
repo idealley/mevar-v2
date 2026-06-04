@@ -1,901 +1,280 @@
-    SERIE 3 N° 5
+---
+source: "cmpp"
+sermon_id: "serie3no5"
+title: "Paul, prisonnier de Christ"
+subtitle: "17 juillet 1963, soir"
+date: "1963-07-17"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le thème de Paul comme prisonnier de Jésus-Christ, expliquant que Paul a abandonné ses ambitions et son savoir pour devenir lié à la Parole par le Saint-Esprit. Il encourage les croyants à se laisser emprisonner par Christ, renonçant à leur propre volonté pour suivre la direction de l'Esprit."
+tags:
+  - "prisonnier de Christ"
+  - "Paul"
+  - "soumission"
+  - "Saint-Esprit"
+  - "Parole de Dieu"
+persons:
+  - "Paul"
+  - "Jésus-Christ"
+  - "Silas"
+  - "Moïse"
+  - "Ananias"
+  - "Gamaliel"
+  - "Philémon"
+places:
+  - "Damas"
+  - "Arabie"
+  - "Jérusalem"
+  - "Jeffersonville"
+  - "Indiana"
+themes:
+  - "prisonnier de Christ"
+  - "abandon des ambitions"
+  - "conduite du Saint-Esprit"
+  - "joug de Christ"
+  - "obéissance à la Parole"
+pdf_url: "http://cmpp.ch/serie3no5.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Jean 14"
+---
+SERIE 3 N° 5
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
- PAUL, PRISONNIER DE CHRIST
+PAUL, PRISONNIER DE CHRIST
 (Paul, a prisoner of Christ)
 
 
-
-
-     17 juillet 1963, soir
-       Branham Tabernacle
+17 juillet 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+PAUL, PRISONNIER DE CHRIST
 
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    PAUL, PRISONNIER DE CHRIST    2
-
- PAUL, PRISONNIER DE CHRIST
+PAUL, PRISONNIER DE CHRIST
 (Paul, a prisoner of Christ)
 
-
-     17 juillet 1963, soir
-       Branham Tabernacle
+17 juillet 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
-
-
-
-   … du Seigneur Jésus et d’entendre parler des oeuvres puissantes et glorieuses que Tu as
-accomplies auparavant: maintenant nous nous tenons ici en nous attendant à Toi. Cela élève
-notre foi et nous oint de croire que ce que nous avons demandé pour ce soir sera accordé. Tu
-connais chacun d’eux et toutes leurs requêtes. Nous prions spécialement, Seigneur, pour ceux qui
-sont si près de la mort. Donne-leur la paix de l’âme s’ils ne l’ont pas déjà, ainsi que la guérison du
-corps. Accorde-le nous, Seigneur. Bénis notre rassemblement nous T’en prions, Seigneur, lors de
-notre réunion de prière du mercredi soir; nous nous sommes rassemblés, sachant que là où deux
-ou trois sont réunis en Ton Nom Tu es au milieu d’eux. Et nous Te demandons, Seigneur, de nous
-donner Ta Parole ce soir. Parle-nous, Seigneur, et ranime les fibres de notre coeur afin que nous
-sachions nous discipliner en vue des temps glorieux à venir; car nous croyons que nous
-approchons de la venue du Seigneur.
-   Nous Te remercions pour ceux qui commencent à attacher du prix à la foi et qui savent ce que
-la foi signifie. Et le sachant, nous Te remercions avec foi pour les réunions à venir. Tu vas faire
-quelque chose, Seigneur, nous nous y attendons comme autrefois; nous croyons que le temps est
-proche où Tu ouvriras les écluses des Cieux et répandras les promesses que Dieu a faites en ce
-dernier jour.
-   Maintenant nous Te demandons, Seigneur, d’être avec toutes les nations car nous avons appris
-aujourd’hui combien il y a de besoins partout. Exauce leur requête, Seigneur. Nous prions aussi
-pour que la main puissante de Dieu agisse dans le monde entier parmi ceux qui s’attendent à cette
-chose glorieuse. Pardonne-nous nos péchés. Châtie-nous, Seigneur, par Ton Esprit et par la
-Parole afin que nous puissions nous discipliner et devenir des serviteurs obéissants à la volonté
-de Dieu. Rappelons-nous et essayons de nous représenter ce que faisaient les premiers chrétiens,
-quel genre d’hommes nous verrions si nous rencontrions ceux qui ont été en contact personnel
-avec Toi. Comme leur visage devait rayonner de foi et de joie! Comme leur vie doit avoir été la
-Parole vivante de Dieu (ils étaient «des lettres lues de tous les hommes») tandis qu’ils marchaient
-au milieu de la foule! Que Dieu nous l’accorde une fois encore.
-   Que nos vies Te soient soumises à un point tel que le Saint-Esprit manifeste Sa Vie au travers
-de nous et parle par nous, Seigneur. Puissions-nous nous souvenir, tandis que nous marchons
-dans la rue et que nous côtoyons le monde, que nous ne sommes pas censés être comme le
-monde. Alors, Seigneur, nous ferons un pas de côté et nous leur donnerons la place et la position
-qu’ils doivent occuper ici sur terre. Nous nous mettrons à la dernière place, sachant que nous
-sommes les délégués d’un autre monde. Nous avons un royaume qui va venir en puissance,
-Seigneur. Et notre Grand Roi viendra bientôt prendre le pouvoir sur tous les rois qui sont dans Son
-domaine; nous régnerons sur la terre et la dirigerons avec Lui pendant mille ans et nous serons
-avec Lui pour toujours.
-   Ayant cela à l’esprit, Seigneur, nous nous réjouissons maintenant en attendant la réponse à
-notre prière. Nous nous en tenons à notre confession que si nous avons fait, dit ou pensé quoi que
-ce soit de contraire à Ta sainte volonté, le Sang de Jésus-Christ nous purifie.
-   Conduis-nous, Seigneur, comme cette soeur disait ce soir au sujet de son mari qui est en route
-pour Chicago. Conduis-les, Seigneur, dans une position telle que Tu puisses les utiliser pour être
-des rayons de Lumière éclairant ceux qui tâtonnent dans les ténèbres de l’ignorance, ne
-
-    http://www.cmpp.ch
-
-PAUL, PRISONNIER DE CHRIST 3
-connaissant pas notre Seigneur Jésus-Christ. Maintenant nous Te remettons cette réunion afin
-que, écoutant Ta Parole correctrice, nous sachions comment nous préparer pour cette heure
-glorieuse. Nous le demandons au Nom de Jésus-Christ. Amen.
-   Je ne m’attendais pas à venir ici. J’étais à la maison et pourtant je ressentais une impression
-comme si je n’y étais pas. Il fallait que j’aille quelque part, c’était urgent. Je sentais que c’était mal
-de rester à la maison au lieu d’aller à la réunion de prière et je suis venu d’une manière inattendue,
-inattendue autant de ma famille que de moi-même. Je n’ai fait qu’arriver et repartir. J’ai dit: «Je
-vais à la réunion de prière». Ma femme n’a même pas eu le temps de se préparer à venir car elle
-n’avait pas prévu que je viendrais.
-   Je suis si heureux d’entendre le témoignage de cette soeur ici au sujet de cette lumière en
-Caroline du Nord ou du Sud, quelque part là-bas. N’était-ce pas à Greenville? Non, Southern
-Pines. Frère Lee Vayle était ici aujourd’hui. Je l’ai baptisé ici au cours du service de baptême
-d’aujourd’hui. Frère Lee Vayle, vous savez, c’est l’un de ces pasteurs de là-bas; le frère Thomas
-Parker…
-   Je me souviens du temps où cette soeur avait été couverte d’une ombre. Soeur, ce fut une
-glorieuse confirmation! Le Saint-Esprit nous laisse parfois aller de l’avant pour éprouver notre foi,
-pour voir ce qui… et éprouver la foi des autres. Quand vous dirigez vos regards vers quelque
-chose, que vous le voyez et que vous le dites… Les autres regardent et ne voient rien. Ils disent
-qu’il n’y a rien. Vous comprenez? Mais c’est là.
-   Personne ne pouvait voir la Lumière qui brillait sur Paul, mais Elle était là. Personne n’avait vu
-la colombe descendre du Ciel ni la Lumière se former et se tenir au-dessus de Jésus, si ce n’est
-Jean Lui-même. Mais c’était là. Vous voyez? De même, quand j’ai parlé plus tard de cette Lumière
-semblable à une colonne de feu, personne ne voulait me croire. Mais maintenant c’est l’oeil
-mécanique de l’appareil de photo qui l’a révélé!
-   L’esprit du mal est un esprit de ténèbres. C’est comme si nos vies étaient couvertes d’une
-ombre. Si nos vies rencontrent la lumière du jour, nous marchons dans la lumière. C’est comme
-quand vous regardez dehors et que vous dites: «Je vois le soleil!» en plein jour: vous voyez
-«l’ombre» du soleil. C’est la réflection du soleil. Ce n’est pas le soleil lui-même, mais cela prouve
-qu’il y a un soleil. Cela nous en donne la preuve.
-   C’est comme si je vous voyais là debout en train de parler: cela signifie que vous êtes vivant,
-mais ce n’est que l’ombre de la vie car toute chose doit avoir de l’obscurité en soi pour pouvoir
-former une ombre. Il faut en effet que tout objet apparent possède en lui une certaine quantité
-d’obscurité et de lumière pour pouvoir donner une ombre. Il ne peut être entièrement sombre ni
-entièrement lumineux: s’il est obscur, tout est noir en lui. S’il est lumineux il n’y a pas d’ombre, il
-n’y a rien en lui qui puisse donner une ombre. Mais s’il y a un mélange d’obscurité et de lumière
-cela produit une ombre: ainsi nous sommes réellement les ombres de la lumière.
-   Vous reflétez une lumière qui vient d’ailleurs. Si vous êtes un chrétien (c’est votre ombre) cela
-prouve qu’il y a une vie quelque part où vous ne pouvez mourir, parce que cette vie présente a de
-la mort en elle. Mais ce n’est qu’une ombre, parce que vous êtes des êtres vivants et mobiles…
-ayant la capacité de voir, de penser, de se mouvoir, de parler… (les cinq sens du corps).
-Cependant vous savez que vous allez mourir (c’est ce qui cause tout ce trouble). C’est pourquoi,
-vous savez, cette vie et cette mort mélangés ensemble, tout cela n’est qu’un reflet.
-   Le physique doit mourir. Mais si votre vie mortelle reflète la Lumière du Ciel, alors vous reflétez
-la Vie éternelle de Dieu. Alors quand vous mourez, vous ne pouvez aller qu’à cette Lumière car
-c’est ce que vous avez reflété. Si vous êtes du monde des ténèbres et que c’est lui que vous
-reflétez, vous ne pouvez aller ailleurs que vers les ténèbres. Nous sommes dans un reflet. Aussi
-sûrement que le Saint-Esprit reflète la lumière et la vie, la mort reflète les ténèbres ici-bas devant
-Dieu.
-   Vers la fin de la semaine, peut-être dimanche, nous aurons l’agrandissement d’une petite photo
-que vous pourrez fixer sur votre tableau d’affichage, là où vous mettez les photos. Je ne sais pas
-si vous l’avez remarqué. Il y a une semaine, j’étais en voyage missionnaire en Jamaïque. Or vous
-savez que nous envoyons des bandes magnétiques dans le monde entier; les sept Sceaux ont
-pénétré là-bas en Jamaïque jusque dans l’arrière-pays. Là-bas, derrière les Montagnes Bleues,
-c’est très primitif. Les indigènes ont parfois de ces vieux enregistreurs qu’on leur a donnés et qu’il
-faut remonter comme ces anciens gramophones à manivelle. Quand ils le font jouer, il faut tout le
-
-        http://www.cmpp.ch
-
-PAUL, PRISONNIER DE CHRIST 4
-temps que quelqu’un aille le remonter. Le groupe où je suis allé avait un appareil fonctionnant sur
-une batterie de six Volts ou quelque chose comme cela. Ils s’étaient tous rassemblés (ils étaient à
-peu près le même nombre que nous ici ce soir) pour écouter une prédication, les Sceaux, je crois.
-Et tandis que je parlais ils remarquèrent cette même colonne de feu qui entra dans la salle,
-s’avança vers l’enregistreur et s’immobilisa au-dessus de lui. Ils allèrent chercher un appareil de
-photo et la photographièrent. La même Colonne de feu! Elle se tenait juste au-dessus de
-l’enregistreur. Nous allons faire agrandir cette photo et nous la mettrons au tableau d’affichage afin
-que vous puissiez la voir.
-   Nous sommes si reconnaissants à Dieu dont la grâce nous permet de venir en Sa présence
-aujourd’hui. Nous sommes reconnaissants de bien des choses. Maintenant je vais regarder si je
-trouve des notes ou quelque chose sur quoi parler. J’ai ici un carnet où je note des sujets de
-prédication. Si je puis en trouver un, peut-être que le Seigneur me donnera un message pendant
-que nous prions.
-   Nous nous réjouissons dans l’attente de dimanche prochain. Je vous ai déjà apporté bien des
-messages, et dimanche dernier je vous ai retenus longtemps sur ce sujet: «Pourquoi cries-tu à
-Moi? Parle au peuple et va de l’avant!».
-   Dimanche il y aura un service de guérison où nous prierons pour les malades. Quand nous
-nous approchons des malades, s’ils ne sont pas guéris quand nous prions pour eux, il doit y avoir
-une raison à cela. Dieu voulant, je prêcherai brièvement dimanche matin, puis nous aurons un
-service de guérison où je prierai pour tous les malades. Billy Paul ou quelqu’un sera là dimanche
-matin dès huit heures quand on ouvre les portes de l’église pour distribuer les cartes de prière aux
-gens à leur arrivée ou quand ils entrent.
-   Je crois que le Seigneur m’a donné en quelque sorte un petit aperçu des raisons pour
-lesquelles certaines personnes ne sont pas guéries. Je crois que c’est par manque de
-compréhension; nous en parlerons dimanche matin si c’est la volonté du Seigneur.
-   La réunion de prière du mercredi soir est une brève réunion où nous nous rassemblons et
-prions comme nous l’avons fait et où nous communions ensemble; parfois je pense qu’une des
-choses principales que je remarque de nos jours est le manque de sincérité de notre foi. Si Dieu
-avait fait du temps de John Wesley ce qu’il a fait de nos jours, qu’est-ce que cela aurait donné!
-   Si ce qui se passe aujourd’hui, alors que nous le voyons aussi bien confirmé par l’église que
-par l’Esprit, la science et toutes choses s’était passé du temps de Martin Luther ou des autres…
-C’est en train de s’accomplir. Il faut le discerner. Et la Parole de Dieu l’annonce et le déclare avant
-que cela arrive. Il est venu, a prophétisé et ce qu’Il a dit s’est accompli parfaitement; mais malgré
-tout cela nous restons indolents et nous nous posons des questions: «Je me demande si c’est
-bien moi que cela concerne? Est-ce pour l’église en général ou est-ce que je suis aussi compris
-dans ces choses?». Je pense que dimanche matin j’essaierai de parler sur quelques-uns de ces
-points essentiels afin que nous soyons un peu plus éclairés.
-   Ce soir j’ai trouvé quelque chose et je m’y suis arrêté, et avant de venir j’ai pensé: «Si frère
-Neville venait me dire: Levez-vous, je vous laisse la parole!» et se rasseyait… J’ai pensé qu’il
-vaudrait mieux noter quelques passages de l’Ecriture; parce que je le connais, ce cher frère, et
-nous l’apprécions!
-   Avant de prier sur la Parole je veux présenter un frère (je ne sais même pas son nom
-actuellement). D’ailleurs ils sont deux. Ce sont de chers amis, des serviteurs de Dieu, des
-évangélistes. Ils ont eu connaissance du message par une bande et viennent d’églises
-dénominationnelles différentes. L’un de ces jeunes gens est si intéressé qu’il a pris récemment
-l’avion pour Tucson après avoir terminé une réunion. Je crois que j’étais à ce moment-là à un
-déjeuner des Hommes d’Affaires Chrétiens; c’est alors qu’arriva ce jeune homme, un brave jeune
-homme.
-   Ils sont du Kansas et l’un d’eux est venu avec sa fiancée pour que je les marie. J’apprécie cela.
-Dire que des gens ont suffisamment confiance dans vos prières pour croire que Dieu entendra et
-répondra! Et des jeunes qui partent dans la vie comme cela! Mais en arrivant ici ils se sont
-aperçus que la loi de l’Indiana exige que, malgré leur examen de sang, ils attendent ici trois jours
-avant de pouvoir être mariés. Ils ne pourront donc l’être que vendredi matin.
-   Je demanderai à ce frère de se lever et de nous dire qui il est, ainsi que sa charmante fiancée
-et le frère qui les accompagne. [Le frère rend témoignage — N.d.R.]
-
-        http://www.cmpp.ch
-
-    PAUL, PRISONNIER DE CHRIST                      5
-   Merci beaucoup. Nous désirons vraiment qu’il y ait de ces jeunes ambassadeurs dans l’oeuvre
-du Seigneur Jésus-Christ. Nous leur souhaitons la bénédiction de Dieu sur leur route. Et tandis
-que je médite et attends le retour du Seigneur, cela me réjouit de voir un jeune homme et une
-jeune femme se lever avec dans le coeur le dessein de servir Christ. Que le Seigneur vous
-bénisse richement, mon frère et ma soeur.
-   Maintenant venons-en à un petit livre dont je ne vous ai jamais parlé; il n’a qu’un chapitre, c’est
-le livre de Philémon. (J’ai un peu de sang irlandais et j’ai un appareil pour tenir mes dents du bas
-en place, ce qui fait que je n’arrive pas toujours à prononcer ces noms correctement; parfois c’est
-simplement à cause de mon manque d’instruction.) Oui, Philémon, comme quelqu’un le dit là-bas;
-je crois que c’est la bonne prononciation.
-   Premier verset. Je n’en prendrai qu’un ou deux mots:
-   «Paul, prisonnier de Jésus-Christ…».
-   Ce sera notre sujet de ce soir, Dieu voulant: UN PRISONNIER.
-   On peut difficilement s’imaginer Paul se considérant comme un prisonnier, lui un homme LIBRE
-PAR SA NAISSANCE, un homme rempli du Saint-Esprit; cependant il se dit prisonnier. En
-s’adressant aux Corinthiens nous voyons qu’il dit: “Paul, apôtre de Jésus-Christ…”. Une autre fois:
-“Paul, serviteur de Jésus-Christ”. Tout cela par la volonté de Dieu quand il parle à Timothée et aux
-autres. Ici il écrit à Philémon et dit: “Paul prisonnier de Jésus-Christ”. “… Paul, apôtre…”.
-J’aimerais prêcher un soir sur ce sujet: “Paul, serviteur…” puis “Paul, prisonnier…”. Mais ce soir,
-étant donné qu’il faudrait des heures pour approfondir un seul de ces sujets, je prendrai celui-ci:
-“Paul, le prisonnier”. Mon sujet sera: UN PRISONNIER. Maintenant courbons nos têtes un instant.
-   Seigneur Jésus, tout homme peut feuilleter la Bible, mais seul le Saint-Esprit peut L’interpréter
-selon la Lumière qu’Elle doit recevoir. Nous Lui demandons de venir et de nous aider à
-comprendre cette adresse: Paul était un grand prophète puissant et pourtant il se dit prisonnier.
-Que le Saint-Esprit nous le révèle tandis que nous nous attendons à Lui au Nom de Jésus-Christ.
-Amen.
-   Je puis imaginer Paul quand il écrivit cette lettre à Philémon alors qu’il était assis dans la prison,
-dans le cachot de la ville. Un PRISONNIER: par sa situation il savait bien ce que signifiait ce mot. Il
-était entouré de barreaux et ne pouvait recouvrer la liberté que si quelqu’un le délivrait; il savait ce
-que signifiait: être prisonnier. Cependant je ne crois pas que l’apôtre voulait parler de son état
-présent, de son corps qui était enfermé là dans cette prison. Je crois plutôt qu’il faisait allusion au
-fait que son être (son esprit, sa volonté) était prisonnier de Jésus-Christ.
-   Nous sommes nés avec un libre arbitre qui nous permet de prendre toutes les décisions que
-nous voulons. Dieu a fait cela car Il devait placer chaque homme sur la même base, sinon, en
-donnant le libre arbitre au premier homme, Il l’aurait placé sur une mauvaise base.
-   Vous voyez, ce soir nous sommes exactement comme Adam et Eve. Il n’y a pas de différence.
-Le bien et le mal sont devant chacun de nous, la vie et la mort: nous pouvons choisir. C’est à nous
-de le faire. Vous voyez? C’est ainsi que firent Adam et Eve: mais ils firent le mauvais choix.
-   En faisant cela ils placèrent la race humaine tout entière sous la mort, sous la punition de la
-mort, mais Dieu est venu sous la forme d’un homme, a pris cette mort et payé la rançon de la mort
-afin que ceux qui y étaient sujets et qui voulaient être libres puissent l’être. Maintenant, s’Il n’avait
-pas agi avec nous de la même façon qu’avec Adam et Eve, s’Il nous avait attirés au travers de
-quelque chose en nous disant: “Je vous sauverai, que vous le vouliez ou non!”, il aurait mis Adam
-et Eve sur une base fausse; mais chacun de nous doit choisir entre la mort et la vie. Nous devons
-le faire.
-   Comme je viens de l’exprimer: votre vie démontrera exactement de quel côté vous êtes; peu
-importe ce que vous en direz. Vos actions de chaque jour révéleront ce que vous êtes. Vous
-connaissez ce vieux dicton: «Votre vie parle si haut que je ne peux pas entendre votre
-témoignage». Vos actions parlent tout aussi fort!
-   J’ai toujours approuvé le fait de crier et de sauter, mais j’ai toujours dit: «Ne sautez pas plus
-haut que ce que vous vivez car le monde vous observe». Vous voyez? Vous devez sauter à la
-hauteur exacte à laquelle vous vivez, car vous êtes observés.
-   Quand les gens ne veulent pas aller à l’église… il y en a beaucoup qui ne veulent tout
-simplement pas y aller; parmi eux il y a des gens sincères, mais ils voient une telle corruption dans
-l’église qu’ils ne veulent rien avoir à faire avec elle. Souvent nous ne pouvons que leur donner
-
-                                  http://www.cmpp.ch
-
-PAUL, PRISONNIER DE CHRIST 6
-raison. On ne peut guère les blâmer quand on voit comment se conduisent ces gens qui se disent
-chrétiens. La plus grande pierre d’achoppement placée devant le monde, ce sont les hommes et
-les femmes qui se prétendent chrétiens et qui vivent autrement que ce qu’ils proclament. C’est
-l’exacte vérité!
-   Pour ce qui est de la déception qu’il y aura le jour du jugement, les pécheurs tels que
-trafiquants d’alcool, joueurs et adultères ne seront pas étonnés d’entendre la sentence qui les
-enverra dans le feu qui ne s’éteint point. Ils ne seront pas surpris, contrairement à celui qui essaie
-de se cacher derrière une confession religieuse ou une autre. C’est celui-là qui sera déçu au jour
-du jugement, celui qui se dit chrétien et qui vit autrement! Il vaudrait mieux pour lui n’avoir jamais
-fait de profession de foi. Il aurait mieux fait de s’éloigner plutôt que de s’engager sans que sa vie
-soit conforme, car la plus grande pierre d’achoppement est celui qui professe être un chrétien mais
-qui vit autrement.
-   NE JUGEZ JAMAIS VOTRE VIE D’APRES LA PUISSANCE QUE VOUS AVEZ DE FAIRE DES
-MIRACLES, NI D’APRES VOTRE CONNAISSANCE DE LA PAROLE, MAIS REGARDEZ EN
-ARRIERE ET FAITES L’INVENTAIRE DES FRUITS QUE PORTE VOTRE VIE ACTUELLEMENT. J’ai
-prêché là-dessus il y a quelque temps lors d’une rencontre des Hommes d’Affaires Chrétiens à
-Phoenix dans l’Arizona; j’ai prêché sur la vie chrétienne reflétant Jésus.
-   J’ai dit que je suis né au Kentucky où c’était très primitif, spécialement à l’époque de mon
-enfance. Et le petit garçon que j’étais n’avait jamais connu de demeures semblables à celles que
-nous avons ici où toutes ces belles dames doivent tout le temps se regarder dans les miroirs qu’il y
-a partout dans la maison pour réajuster leur coiffure ou autre chose. Nous n’avions qu’un petit
-miroir (juste un morceau de miroir fixé par un clou dehors contre un arbre) où se trouvait le banc
-où nous faisions notre toilette. C’est là que mon père et ma mère se lavaient et se coiffaient en se
-servant de ce bout de miroir cloué à un arbre.
-   Voilà le genre de logis que nous avions! Et si nous voulions nous regarder dans le miroir, nous
-les enfants, nous devions prendre une caisse et grimper sur le banc où l’on faisait sa toilette pour
-utiliser ce bout de miroir que j’avais ramassé moi-même dans une décharge publique. (Ce n’était
-pas là-bas au Kentucky mais ici dans l’Indiana, à Utica Pike.)
-   Ce petit garçon que j’étais ne s’était en réalité jamais vu dans un miroir. Un jour il vint rendre
-visite à sa grand-maman en ville. Celle-ci avait une maison dont une porte était entièrement
-recouverte par un grand miroir. Lorsque le petit garçon entra en courant dans la pièce, il vit un
-autre petit garçon devant lui et ce petit garçon courait; il pensa donc qu’il devait s’arrêter pour voir
-ce que ferait l’autre. Quand il s’arrêta, l’autre petit garçon fit de même. Il tourna la tête; l’autre
-garçon tourna la tête. Il se gratta la tête; l’autre gratta la sienne. Finalement il s’approcha pour
-examiner la chose de plus près. Puis il se retourna (sa mère et sa grand-mère l’observaient avec
-étonnement) et dit: «Maman, maman, c’est moi!».
-   C’est pourquoi je dis: «Nous aussi nous reflétons quelque chose. Notre vie se reflète. Si nous
-avions vécu au temps de Noé, de quel côté aurions-nous été? De quel côté aurions-nous été aux
-jours glorieux de Noé? De quel côté aurions-nous été du temps de Moïse? Et aux jours d’Elie le
-prophète, alors que le monde entier était englouti par une vague de modernisme comme la
-Jézabel moderne qui a entraîné tous les serviteurs du Seigneur dans un tourbillon (l’église et les
-prêtres se prosternaient devant elle)? Auriez-vous pris le parti de la popularité ou vous seriez-vous
-tenus au côté d’Elie?
-   Pour ce qui est du temps du Seigneur Jésus, pensons à ce personnage impopulaire et sans
-instruction selon le monde. On n’a jamais pu trouver d’école qu’Il ait fréquentée, ni qu’Il ait acquis
-une expérience de séminaire; on Le considérait comme un enfant illégitime, et voici qu’Il S’est mis
-en plus de cela à prêcher un Evangile contraire à tout leur enseignement! Il condamnait les prêtres
-et leurs organisations. Ces organisations décrétèrent que quiconque irait écouter ce soi-disant
-prophète serait exclu de la synagogue, ce qui était un péché mortel. Mais les gens devaient se
-rendre compte que la seule façon d’adorer était sous le Sang de l’Agneau. Ils devaient venir à Ce
-sacrifice; mais alors ils seraient rejetés du monde. Pourtant c’était glorieux. Mais ces hommes
-méprisèrent cela, bien que Jésus fût en parfait accord avec l’Ecriture, mais non selon leur
-connaissance.
-   De quel côté auriez-vous été? Votre vie actuelle reflète exactement ce que vous auriez
-fait alors car vous êtes animé du même esprit. Si vous vous mettez d’un côté aujourd’hui,
-
-        http://www.cmpp.ch
-
-    PAUL, PRISONNIER DE CHRIST                     7
-vous auriez fait pareillement en ce temps-là car l’esprit qui est en vous aujourd’hui est le
-même que celui qui était dans les gens autrefois.
-   Vous voyez, le diable ne retire jamais son esprit: il passe simplement d’un homme à un autre.
-Dieu ne reprend pas non plus Son Esprit: Il passe de l’un à l’autre. Ainsi le même Esprit qui était
-sur Elie descendit sur Elisée, puis le même Esprit passa sur Jean-Baptiste et ainsi de suite. Le
-Saint-Esprit qui était sur Christ descendit sur Ses disciples et ainsi de suite, et Il est toujours sur
-Son peuple.
-   Vous voyez, Dieu ne retire jamais Son Esprit. Il ne nous reste qu’à faire un choix. Et je ne crois
-pas que Paul regrettait quoi que ce soit et voulait dire qu’il se plaignait d’être prisonnier. Il disait
-cela pour lui quand le Saint-Esprit lui mit la plume à la main pour écrire cela. Peut-être que c’était
-uniquement pour nous donner notre sujet de ce soir que Paul fit cela, parce que c’est scripturaire
-et que scripturaire veut dire éternel. Je crois que si Paul s’adresse à son frère du fond de cette
-misérable prison en lui disant qu’il était prisonnier de Jésus-Christ, c’est aussi parce qu’il pouvait
-bien se représenter ce que cela signifiait en regardant simplement autour de lui.
-   Il était en prison, mais ce n’est pas de cela qu’il parlait en écrivant à ce serviteur de Christ qui
-exerçait un ministère avec lui; il voulait dire qu’il était prisonnier de la Parole de Jésus-Christ parce
-que Jésus-Christ est la Parole. Paul avait été un grand érudit en son temps. Il avait eu de grandes
-ambitions et avait reçu l’instruction des hommes.
-   Gamaliel était un grand professeur; Paul n’aurait pas pu fréquenter d’école plus prestigieuse
-que celle où il enseignait. C’était une de ces écoles comme par exemple Wheaton ou Bob Jones
-ou une de ces grandes écoles fondamentalistes; il avait été instruit comme ministre de la Parole.
-Paul était un jeune homme instruit, bien élevé et intelligent; il avait peut-être la grande ambition de
-devenir un jour sacrificateur ou souverain sacrificateur de son peuple.
-   Il avait une ambition, et pour atteindre ce but élevé, il avait été instruit; il avait consacré toute sa
-vie, peut-être depuis l’âge de huit ou dix ans jusqu’à trente ou trente-cinq ans où il termina ses
-études et reçut ses diplômes. Il était en bons termes avec tout le clergé, même avec le souverain
-sacrificateur de Jérusalem; Paul avait un ordre de lui, un ordre personnel écrit lui confiant le soin
-d’aller à Damas découvrir ceux qui adoraient Dieu d’une manière contraire aux ordres du
-souverain sacrificateur, de les lier, de les jeter en prison et, si nécessaire, de les mettre à mort s’il
-le voulait.
-   II avait de grandes ambitions. Mais tout ce qu’il avait appris, Dieu le lui enleva. Son but, l’argent
-que son père avait dépensé pour lui, l’ambition de son père et de sa mère, tout lui fut retiré parce
-que Dieu avait quelque chose d’autre en vue. Autrefois il était prisonnier du but de sa vie, mais il
-devint prisonnier de Jésus-Christ qui est la Parole. Ce chemin de Damas changea Paul.
-   Alors qu’il était en chemin, vers 11 heures peut-être, il fut jeté à terre et entendit une voix qui
-disait: “Saul, Saul, pourquoi me persécutes-tu?”. Il regarda et, étant Juif, il sut que la colonne de
-feu qu’il voyait était le Seigneur qui avait conduit les enfants d’Israël, parce qu’il savait ce qu’elle
-était.
-   Rappelez-vous que cet Hébreu n’aurait donné à personne le titre de Seigneur, S–E–I–G–N–E-U–R,
-Elohim, s’il n’avait pas été sûr que c’était bien Lui, car c’était un homme très instruit. Et quand il
-regarda et vit cette Lumière, cette colonne de feu qui avait conduit son peuple à travers le désert, il dit:
-“Seigneur” (Elohim, SEIGNEUR). “Seigneur, qui es-Tu?”. Quelle surprise pour ce théologien
-d’entendre: “Je suis Jésus…”, Celui-là même qu’il combattait! Quel revirement!
-   Oh, cela a dû être terrible pour cet homme plein d’ambition de découvrir tout à coup qu’il était
-un persécuteur! Son ambition l’avait entraîné plus qu’il ne l’avait pensé loin de la chose principale.
-Quel choc pour cet apôtre quand il entendit: “Je suis Jésus…” (Celui-là même qu’il persécutait).
-“Pourquoi me persécutes-tu?”.
-   Disons encore ceci: quand on se moque de l’Eglise, ce n’est pas vraiment d’Elle qu’il s’agit; on
-se moque de Jésus. “… Pourquoi me persécutes-Tu?”. Comment Paul, avec toute son
-intelligence, aurait-il pu croire que ce groupe qu’il persécutait c’était le Dieu même qu’il prétendait
-servir?
-   Je pense que nous n’avons pas besoin d’entrer dans les détails parce que nous sommes tous
-suffisamment instruits pour que nous comprenions ce que je veux dire. C’est pareil de nos jours.
-
-                                  http://www.cmpp.ch
-
-    PAUL, PRISONNIER DE CHRIST    8
-   Paul était bien plus intelligent que les petits Galiléens ignorants qu’il persécutait et qui pourtant,
-dans leur humilité, avaient déjà accepté cet Homme de Galilée. Mais Paul, avec son grand savoir
-et son intelligence, ne pouvait accepter cela.
-   Quel bouleversement cela doit avoir été pour lui, sur ce chemin! … et il fut frappé de cécité en
-sorte qu’il ne put plus poursuivre sa mission; mais il fut conduit chez un nommé Judas dans une
-rue appelée la Droite. Alors le prophète Ananias, qui avait été informé dans une vision, vint vers
-Paul et lui dit: “Frère Saul, le Seigneur qui t’est apparu sur le chemin m’a envoyé afin que je
-t’impose les mains pour que tu recouvres la vue et que tu sois rempli du Saint-Esprit”. Vous voyez
-ce qui s’est passé?
-   Qu’est-ce que cela a dû être pour Paul! Tout ce qu’il avait appris était renversé! Ainsi toute son
-instruction avait été réduite à zéro. Maintenant il savait qu’il avait fait une expérience. Voilà une
-autre bonne leçon pour nous: l’expérience en soi ne suffit pas, CELA DOIT ETRE UNE
-EXPERIENCE EN ACCORD AVEC LA PAROLE DU SEIGNEUR.
-   Ainsi donc, ayant vu cela et sachant que c’était quelque chose de glorieux que quelqu’un
-d’autre avait reçu avant lui, il se retira pendant trois ans et six mois dans le désert d’Arabie avec la
-Bible d’alors (l’Ancien Testament) et il compara son expérience avec l’Ecriture pour voir si c’était
-conforme.
-   Que ce serait-il passé s’il avait dit: “Ce n’est qu’un peu d’exaltation”, puis avait continué son
-chemin en pensant: “Je vais simplement suivre les pensées de mon intelligence”? Mais il fallait
-qu’il devînt le prisonnier de quelque chose. Aussi, après avoir comparé et vu les types de l’Ancien
-Testament il put écrire le Livre des Hébreux.
-   Vous voyez, pendant les trois ans et demi où il fut plongé dans la Parole, il découvrit que ce
-même Dieu qui l’avait appelé le ramenait en arrière et changeait toute sa compréhension, tout ce
-qu’il avait pensé jusqu’alors, tout ce qu’il avait appris; toutes ses ambitions, tout cela était balayé
-loin de lui: il était devenu un prisonnier.
-   L’amour de Dieu avait été si extraordinaire et une telle révélation QU’IL NE POUVAIT PLUS
-S’EN ELOIGNER! C’est l’expérience véritable que fait tout vrai croyant qui rencontre Dieu. Vous
-entrez en contact avec quelque chose de si glorieux que vous en devenez prisonnier, à l’exclusion
-de toute autre chose. Vous quittez tout pour vous emprisonner dans cela.
-   Jésus l’a exprimé une fois quand Il a dit: “Le Royaume de Dieu est semblable à un marchand
-qui cherche de belles perles. Quand il a trouvé cette Perle glorieuse il vend tout ce qu’il possède
-pour l’obtenir”. C’est ce qui se passe ici. Vous avez des conceptions intellectuelles, une
-expérience théologique, mais quand le temps arrive où vous trouvez la chose réelle, vous
-retranchez tout le reste et vous vous enfermez dans cela.
-   Paul savait ce que c’était. Il découvrit qu’il était ATTELE à quelque chose comme un cheval
-dans son attelage pour tirer quelque chose. Paul, après cette expérience et trois ans et demi
-passés à la comparer avec les types de la Bible, comprit que Dieu l’avait choisi et attelé par le
-Saint-Esprit afin que par l’expérience qu’il avait faite il puisse TIRER l’Evangile devant les nations.
-L’Esprit Lui-même l’avait attelé.
-   Aujourd’hui, en tant que serviteurs de Christ, nous sommes ATTELES, accrochés. Nous ne
-pouvons pas aller sans que la Parole soit avec nous: nous sommes ATTELES à la Parole! Peu
-importe ce que dira qui que ce soit: vous y êtes attelé. Il y a quelque chose en Elle qui fait que
-vous ne pouvez tout simplement pas vous en éloigner. Vous avez été mis sous le même joug
-qu’Elle par le Saint-Esprit: Il vous a mis sous le joug avec la Parole. Peu importe ce que l’on dit,
-c’est la Parole qui vous suit. Vous y êtes attelé, vous avez pris le joug avec Elle, avec la Parole par
-le Saint-Esprit. Paul y était attelé.
-   Il était allé au fond du désert d’Arabie avec toutes ses anciennes expériences et ambitions; là il
-fut dépouillé de toutes ces choses. C’est là que nous voyons aujourd’hui que nous devons être
-dépouillés premièrement: mais les gens n’aiment pas à être dépouillés. Le frère Méthodiste tient à
-garder quelques bribes de son enseignement méthodiste. Le frère Baptiste tient à garder quelques
-bribes de son enseignement baptiste, vous voyez? Mais vous devez être complètement dépouillé
-de tout, naître de nouveau et prendre le joug à partir de là selon que le Saint-Esprit vous conduit.
-Vous ne pouvez pas dire: «Mon père disait qu’en arrivant à l’église il serrait la main du pasteur.
-C’était un bon membre loyal». C’était peut-être bien pour sa génération, mais nous sommes dans
-une autre génération.
-
-    http://www.cmpp.ch
-
-PAUL, PRISONNIER DE CHRIST 9
-   Nous devons maintenant revenir aux temps bibliques pour notre époque. Les ministres de Dieu
-étaient bien attelés eux aussi, mais ils sont entrés dans une autre dispensation et ils ne se sont
-pas dépouillés de leur vieux harnais pour en mettre un nouveau. C’est pareil aujourd’hui. Nous
-sommes sortis d’une ère dénominationnelle comme nous l’avons prouvé par les âges de l’église,
-la Bible, etc. et nous entrons dans une ère de liberté où le Saint-Esprit Lui-même descend, Se
-manifeste, Se fait connaître et accomplit chaque promesse qu’Il a faite.
-   Quelle époque glorieuse! Et Paul savait qu’il ne pouvait pas aller quelque part sans être attelé à
-la Parole, même s’il l’avait voulu. Son ambition était d’aller chez des frères qui l’avaient invité, mais
-cependant le Saint-Esprit le pressa de faire autre chose. Il n’était plus son propre maître.
-   Peut-être qu’on lui disait: «Frère Paul, nous aimerions que vous veniez chez nous, nous avons
-la plus grande église, l’assemblée la plus nombreuse. Vous recevrez beaucoup d’offrandes…» etc.
-Lui, pressé par le Saint-Esprit, pensait: «J’ai un frère là-bas, c’est vers lui que je dois aller pour
-qu’il soit sauvé; il faut l’amener au Seigneur». Mais l’Esprit le poussait à aller encore ailleurs! Il
-était vraiment PRISONNIER!
-   Oh Dieu, fais de nous de tels prisonniers! Libérés de nos ambitions égoïstes, de notre jugement
-personnel, de nos pensées que nous croyons être les meilleures, afin de devenir des prisonniers
-de Jésus-Christ! Je crois que c’est glorieux de pouvoir déclarer: “Je suis un prisonnier de
-Jésus-Christ!”.
-   Rappelez-vous qu’Il est la Parole. Quoi qu’on en pense, Il est la Parole. Si vous êtes prisonnier
-de la Parole, aucune dénomination ne peut vous en détourner. C’est la Parole, vous en êtes
-prisonnier: c’est tout. Vous devez agir comme Elle agit.
-   Il ne pouvait pas aller à certains endroits où il aurait voulu aller. Pourquoi? Parce que l’Esprit le
-lui défendait. Souvenez-vous des nombreuses fois où Paul cherchait à se rendre en un lieu où il
-pensait avoir une grande réunion, mais l’Esprit l’en empêchait.
-   Cela n’établit-il pas et ne prouve-t-il pas clairement que Paul était un PRISONNIER? Un
-prisonnier de Jésus-Christ attelé à Sa Parole par l’Esprit. Oh, j’aime cela! Il était LIE. Il était lié par
-des chaînes, par des liens d’amour pour faire la volonté de Dieu et elle seule. Il était un prisonnier.
-Il était dans des chaînes d’amour. Il était sous le joug avec Christ. Il ne pouvait se mettre sous
-aucun autre joug. Il était sous le joug avec Lui et devait marcher selon qu’il était conduit; peu
-importait que l’herbe parût plus verte à droite qu’à gauche: il devait aller où le conducteur et le joug
-allaient.
-   Oh, si ce soir nous autres du Branham Tabernacle pouvions devenir des prisonniers par rapport
-à notre nature égoïste et à notre ambition personnelle, et nous abandonner complètement et nous
-mettre sous Son joug! Peu importe ce que pense le reste du monde! Peu importe ce que fait le
-reste du monde! Nous sommes liés sous un joug d’amour. Nous sommes prisonniers! Mes pieds
-sont tellement liés au joug de Christ qu’ils ne peuvent plus aller danser. Mes yeux sont tellement
-liés au joug de Christ que lorsque je vois ces strip-teaseuses modernes dans la rue, ils me font
-détourner la tête. Mon coeur est tellement lié au joug de Son amour que je ne peux plus avoir
-d’amour pour le monde. Ma volonté est tellement liée à Son joug que je ne sais même plus quelles
-sont mes ambitions personnelles. Où que Tu conduises, Seigneur, je Te suivrai. Je veux être un
-prisonnier.
-   Paul était véritablement un prisonnier. Il ne disait pas de choses fausses. Il avait été reformé
-par le Saint-Esprit pour attendre la Parole. Il avait été instruit d’une façon, mais maintenant Dieu
-l’instruisait d’une autre façon. Il avait été formé par le Saint-Esprit pour attendre la Parole du
-Seigneur quelles qu’aient pu être ses ambitions.
-   Maintenant, avec l’aide du Saint-Esprit, j’espère vous montrer quelque chose. Prenons un
-exemple. Un jour Paul et Silas descendaient la rue d’une ville où Paul tenait une réunion de réveil.
-Une femme possédée d’un démon le suivait en criant. Sans aucun doute Paul savait qu’il avait
-l’autorité d’un apôtre pour chasser ce mauvais esprit hors de cette femme, mais l’avez-vous
-remarqué? Il attendit jour après jour jusqu’à ce que soudain le Saint-Esprit lui parle. Il dit: “Le
-moment est venu”. Alors Paul ordonna: “Esprit, sors d’elle!”.
-   Vous voyez, il devait attendre le Seigneur. Et c’est là qu’aujourd’hui tant de gens jettent
-l’opprobre sur la Parole. Ils marchent d’après leurs ambitions. Combien de réveils sont
-tombés à plat pour des raisons semblables! Tout cela parce que l’évangéliste n’attend pas
-de connaître la volonté du Seigneur.
-
-        http://www.cmpp.ch
-
-PAUL, PRISONNIER DE CHRIST 10
-   Quelqu’un dit: «Viens ici!». Et ils viennent immédiatement parce que l’association dit: «Va!». Le
-Saint-Esprit aurait dit autre chose, mais l’ambition de l’homme de devenir surveillant pour tout
-l’état, ancien, évêque ou quelque chose de semblable, le pousse: «Tu dois aller!». Pourtant il sait
-qu’il pourrait faire mieux que cela. Le Saint-Esprit dit: «Va là-bas!». Mais, vous voyez, il est lié au
-joug de son organisation. Il est un prisonnier de son organisation. Mais s’il est lié au joug de Christ,
-alors il est conduit par le Saint-Esprit! Il est sous un joug, il est prisonnier. Pour lui, quoi que disent
-les autres, cela ne fait aucune différence. Autrement ce serait un airain qui résonne et une
-cymbale qui retentit. Mais lui n’entend que la Voix de Dieu et il ne parle que lorsqu’Elle parle.
-Autrement il ne dit rien.
-   On dit: «Oh, frère Jones, frère Roberts…» ou un de ces grands hommes qu’il y a aujourd’hui
-dans notre pays comme Tommy Hicks, Oral Roberts ou le frère Tommy Osborne, l’un de ces
-grands évangélistes. Quelqu’un dira peut-être: «Venez chez nous, Tommy (ou Oral), vous êtes un
-grand homme de Dieu; j’ai un oncle qui est au lit: il est lié et malade. Je désire que vous veniez. Je
-crois que vous avez la force de le guérir».
-   Peut-être que le Saint-Esprit lui dira: «Pas maintenant!». Mais cependant par amitié pour cet
-homme il sent qu’il est de son devoir d’aller chez lui. S’il ne le fait pas, il s’en fera un ennemi.
-L’homme dira: «Il est allé chez Untel et Untel et il a guéri leur enfant; je le sais! Et moi qui suis son
-ami depuis des années, il a refusé de venir!». Mais s’il est contraint par le Saint-Esprit à ne pas
-aller, il vaut mieux qu’il n’y aille pas. Il est sous le joug de Dieu. Son ami, il l’aime, mais il vaut
-mieux qu’il soit conduit par le Saint-Esprit pour y aller parce qu’autrement de toute manière cela ne
-donnerait rien de bon. Je l’ai expérimenté tant de fois!
-   Mais Paul, lui, attendait que le Saint-Esprit lui dise ce qu’il devait faire. Il vaut mieux être attentif
-au Saint-Esprit.
-   Un soir, après avoir prêché, il vit un infirme en sortant. Soudain l’Esprit lui parla et Paul dit: “Je
-vois…”. Comment? De la même manière qu’il vit qu’il ferait naufrage et serait jeté sur une île. “Je
-vois que tu as la foi pour être guéri. Lève-toi droit sur tes pieds! Jésus-Christ t’a guéri”.
-   Voilà. Il était sous le joug. Peut-être qu’il avait fait une semaine d’évangélisation sans que rien
-ne se passe, mais pourtant il attendait que le Saint-Esprit lui parle. Il était lié au joug de cet appel.
-   Maintenant vous direz: «Mais frère Branham, vous contredisez ce que vous avez dit dimanche
-au sujet de votre longue attente». Mais rappelez-vous que c’est le Saint-Esprit qui m’a parlé sur la
-route et m’a dit: «Je te renvoie parmi les malades et les affligés». J’ai obéi au Saint-Esprit. C’est
-certain! Je ne suis pas allé avant qu’Il me l’ordonne. J’attendais le AINSI DIT LE SEIGNEUR
-jusqu’à ce que j’aie bien reçu le AINSI DIT LE SEIGNEUR. C’est différent! C’est cela qui fait la
-différence!
-   Paul attendait la Parole du Seigneur. Il était poussé par l’Esprit à ne suivre que les ordres de
-Dieu. C’est ainsi qu’il devint le prisonnier de Jésus-Christ. Chers amis, si seulement nous pouvions
-devenir des prisonniers!
-   Je sais qu’il fait très chaud, mais je voudrais encore citer quelques personnages. J’en ai six ou
-huit inscrits ici, mais prenons-en un ou deux.
-   Prenons le personnage de Moïse. Il était né pour être un libérateur et il le savait; il savait qu’il
-était venu au monde pour être un libérateur. Mais avant de parler de Moïse je voudrais dire ceci:
-Tout homme qui veut Le servir fidèlement, Dieu doit toujours en faire Son prisonnier. Un homme
-doit abandonner toutes ses ambitions, tout ce qu’il a, tout: sa vie, son âme, son corps, sa volonté,
-ses ambitions et tout le reste, et devenir totalement PRISONNIER de Christ (Qui est la Parole) pour
-servir Dieu.
-   Il se peut que vous deviez marcher à l’opposé de ce que votre bon sens vous montre. Vous
-pensez peut-être que dans une certaine organisation on pourrait vous élever et vous confier
-quelque chose d’important qui vous permettrait de briller. Mais comment vous retrouverez-vous
-après cela? Au bout d’un certain temps vous vous retrouverez vaincu! Jusqu’à ce que Dieu puisse
-trouver un homme qui accepte de devenir Son prisonnier…
-   Dieu cherche des prisonniers. Il l’a toujours fait. Vous n’avez qu’à sonder les Ecritures. Un
-homme doit être prisonnier de Christ envers et contre tout. Par conséquent vous ne pouvez pas
-être lié à quoi que ce soit en dehors de Christ — même pas à votre père, votre mère, votre frère,
-votre soeur, votre mari, votre femme, ou à qui que ce soit. Vous n’êtes lié qu’à Christ et à Lui seul.
-Alors Dieu peut vous utiliser. Jusque là Il ne peut pas le faire.
-
-        http://www.cmpp.ch
+… du Seigneur Jésus et d’entendre parler des oeuvres puissantes et glorieuses que Tu as accomplies auparavant: maintenant nous nous tenons ici en nous attendant à Toi. Cela élève notre foi et nous oint de croire que ce que nous avons demandé pour ce soir sera accordé. Tu connais chacun d’eux et toutes leurs requêtes. Nous prions spécialement, Seigneur, pour ceux qui sont si près de la mort. Donne-leur la paix de l’âme s’ils ne l’ont pas déjà, ainsi que la guérison du corps. Accorde-le nous, Seigneur. Bénis notre rassemblement nous T’en prions, Seigneur, lors de notre réunion de prière du mercredi soir; nous nous sommes rassemblés, sachant que là où deux ou trois sont réunis en Ton Nom Tu es au milieu d’eux. Et nous Te demandons, Seigneur, de nous donner Ta Parole ce soir. Parle-nous, Seigneur, et ranime les fibres de notre coeur afin que nous sachions nous discipliner en vue des temps glorieux à venir; car nous croyons que nous approchons de la venue du Seigneur.
+Nous Te remercions pour ceux qui commencent à attacher du prix à la foi et qui savent ce que la foi signifie. Et le sachant, nous Te remercions avec foi pour les réunions à venir. Tu vas faire quelque chose, Seigneur, nous nous y attendons comme autrefois; nous croyons que le temps est proche où Tu ouvriras les écluses des Cieux et répandras les promesses que Dieu a faites en ce dernier jour.
+Maintenant nous Te demandons, Seigneur, d’être avec toutes les nations car nous avons appris aujourd’hui combien il y a de besoins partout. Exauce leur requête, Seigneur. Nous prions aussi pour que la main puissante de Dieu agisse dans le monde entier parmi ceux qui s’attendent à cette chose glorieuse. Pardonne-nous nos péchés. Châtie-nous, Seigneur, par Ton Esprit et par la Parole afin que nous puissions nous discipliner et devenir des serviteurs obéissants à la volonté de Dieu. Rappelons-nous et essayons de nous représenter ce que faisaient les premiers chrétiens, quel genre d’hommes nous verrions si nous rencontrions ceux qui ont été en contact personnel avec Toi. Comme leur visage devait rayonner de foi et de joie! Comme leur vie doit avoir été la Parole vivante de Dieu (ils étaient «des lettres lues de tous les hommes») tandis qu’ils marchaient au milieu de la foule! Que Dieu nous l’accorde une fois encore.
+Que nos vies Te soient soumises à un point tel que le Saint-Esprit manifeste Sa Vie au travers de nous et parle par nous, Seigneur. Puissions-nous nous souvenir, tandis que nous marchons dans la rue et que nous côtoyons le monde, que nous ne sommes pas censés être comme le monde. Alors, Seigneur, nous ferons un pas de côté et nous leur donnerons la place et la position qu’ils doivent occuper ici sur terre. Nous nous mettrons à la dernière place, sachant que nous sommes les délégués d’un autre monde. Nous avons un royaume qui va venir en puissance, Seigneur. Et notre Grand Roi viendra bientôt prendre le pouvoir sur tous les rois qui sont dans Son domaine; nous régnerons sur la terre et la dirigerons avec Lui pendant mille ans et nous serons avec Lui pour toujours.
+Ayant cela à l’esprit, Seigneur, nous nous réjouissons maintenant en attendant la réponse à notre prière. Nous nous en tenons à notre confession que si nous avons fait, dit ou pensé quoi que ce soit de contraire à Ta sainte volonté, le Sang de Jésus-Christ nous purifie.
+Conduis-nous, Seigneur, comme cette soeur disait ce soir au sujet de son mari qui est en route pour Chicago. Conduis-les, Seigneur, dans une position telle que Tu puisses les utiliser pour être des rayons de Lumière éclairant ceux qui tâtonnent dans les ténèbres de l’ignorance, ne connaissant pas notre Seigneur Jésus-Christ. Maintenant nous Te remettons cette réunion afin que, écoutant Ta Parole correctrice, nous sachions comment nous préparer pour cette heure glorieuse. Nous le demandons au Nom de Jésus-Christ. Amen.
+Je ne m’attendais pas à venir ici. J’étais à la maison et pourtant je ressentais une impression comme si je n’y étais pas. Il fallait que j’aille quelque part, c’était urgent. Je sentais que c’était mal de rester à la maison au lieu d’aller à la réunion de prière et je suis venu d’une manière inattendue, inattendue autant de ma famille que de moi-même. Je n’ai fait qu’arriver et repartir. J’ai dit: «Je vais à la réunion de prière». Ma femme n’a même pas eu le temps de se préparer à venir car elle n’avait pas prévu que je viendrais.
+Je suis si heureux d’entendre le témoignage de cette soeur ici au sujet de cette lumière en Caroline du Nord ou du Sud, quelque part là-bas. N’était-ce pas à Greenville? Non, Southern Pines. Frère Lee Vayle était ici aujourd’hui. Je l’ai baptisé ici au cours du service de baptême d’aujourd’hui. Frère Lee Vayle, vous savez, c’est l’un de ces pasteurs de là-bas; le frère Thomas Parker…
+Je me souviens du temps où cette soeur avait été couverte d’une ombre. Soeur, ce fut une glorieuse confirmation! Le Saint-Esprit nous laisse parfois aller de l’avant pour éprouver notre foi, pour voir ce qui… et éprouver la foi des autres. Quand vous dirigez vos regards vers quelque chose, que vous le voyez et que vous le dites… Les autres regardent et ne voient rien. Ils disent qu’il n’y a rien. Vous comprenez? Mais c’est là.
+Personne ne pouvait voir la Lumière qui brillait sur Paul, mais Elle était là. Personne n’avait vu la colombe descendre du Ciel ni la Lumière se former et se tenir au-dessus de Jésus, si ce n’est Jean Lui-même. Mais c’était là. Vous voyez? De même, quand j’ai parlé plus tard de cette Lumière semblable à une colonne de feu, personne ne voulait me croire. Mais maintenant c’est l’oeil mécanique de l’appareil de photo qui l’a révélé!
+L’esprit du mal est un esprit de ténèbres. C’est comme si nos vies étaient couvertes d’une ombre. Si nos vies rencontrent la lumière du jour, nous marchons dans la lumière. C’est comme quand vous regardez dehors et que vous dites: «Je vois le soleil!» en plein jour: vous voyez «l’ombre» du soleil. C’est la réflection du soleil. Ce n’est pas le soleil lui-même, mais cela prouve qu’il y a un soleil. Cela nous en donne la preuve.
+C’est comme si je vous voyais là debout en train de parler: cela signifie que vous êtes vivant, mais ce n’est que l’ombre de la vie car toute chose doit avoir de l’obscurité en soi pour pouvoir former une ombre. Il faut en effet que tout objet apparent possède en lui une certaine quantité d’obscurité et de lumière pour pouvoir donner une ombre. Il ne peut être entièrement sombre ni entièrement lumineux: s’il est obscur, tout est noir en lui. S’il est lumineux il n’y a pas d’ombre, il n’y a rien en lui qui puisse donner une ombre. Mais s’il y a un mélange d’obscurité et de lumière cela produit une ombre: ainsi nous sommes réellement les ombres de la lumière.
+Vous reflétez une lumière qui vient d’ailleurs. Si vous êtes un chrétien (c’est votre ombre) cela prouve qu’il y a une vie quelque part où vous ne pouvez mourir, parce que cette vie présente a de la mort en elle. Mais ce n’est qu’une ombre, parce que vous êtes des êtres vivants et mobiles… ayant la capacité de voir, de penser, de se mouvoir, de parler… (les cinq sens du corps). Cependant vous savez que vous allez mourir (c’est ce qui cause tout ce trouble). C’est pourquoi, vous savez, cette vie et cette mort mélangés ensemble, tout cela n’est qu’un reflet.
+Le physique doit mourir. Mais si votre vie mortelle reflète la Lumière du Ciel, alors vous reflétez la Vie éternelle de Dieu. Alors quand vous mourez, vous ne pouvez aller qu’à cette Lumière car c’est ce que vous avez reflété. Si vous êtes du monde des ténèbres et que c’est lui que vous reflétez, vous ne pouvez aller ailleurs que vers les ténèbres. Nous sommes dans un reflet. Aussi sûrement que le Saint-Esprit reflète la lumière et la vie, la mort reflète les ténèbres ici-bas devant Dieu.
+Vers la fin de la semaine, peut-être dimanche, nous aurons l’agrandissement d’une petite photo que vous pourrez fixer sur votre tableau d’affichage, là où vous mettez les photos. Je ne sais pas si vous l’avez remarqué. Il y a une semaine, j’étais en voyage missionnaire en Jamaïque. Or vous savez que nous envoyons des bandes magnétiques dans le monde entier; les sept Sceaux ont pénétré là-bas en Jamaïque jusque dans l’arrière-pays. Là-bas, derrière les Montagnes Bleues, c’est très primitif. Les indigènes ont parfois de ces vieux enregistreurs qu’on leur a donnés et qu’il faut remonter comme ces anciens gramophones à manivelle. Quand ils le font jouer, il faut tout le temps que quelqu’un aille le remonter. Le groupe où je suis allé avait un appareil fonctionnant sur une batterie de six Volts ou quelque chose comme cela. Ils s’étaient tous rassemblés (ils étaient à peu près le même nombre que nous ici ce soir) pour écouter une prédication, les Sceaux, je crois. Et tandis que je parlais ils remarquèrent cette même colonne de feu qui entra dans la salle, s’avança vers l’enregistreur et s’immobilisa au-dessus de lui. Ils allèrent chercher un appareil de photo et la photographièrent. La même Colonne de feu! Elle se tenait juste au-dessus de l’enregistreur. Nous allons faire agrandir cette photo et nous la mettrons au tableau d’affichage afin que vous puissiez la voir.
+Nous sommes si reconnaissants à Dieu dont la grâce nous permet de venir en Sa présence aujourd’hui. Nous sommes reconnaissants de bien des choses. Maintenant je vais regarder si je trouve des notes ou quelque chose sur quoi parler. J’ai ici un carnet où je note des sujets de prédication. Si je puis en trouver un, peut-être que le Seigneur me donnera un message pendant que nous prions.
+Nous nous réjouissons dans l’attente de dimanche prochain. Je vous ai déjà apporté bien des messages, et dimanche dernier je vous ai retenus longtemps sur ce sujet: «Pourquoi cries-tu à Moi? Parle au peuple et va de l’avant!».
+Dimanche il y aura un service de guérison où nous prierons pour les malades. Quand nous nous approchons des malades, s’ils ne sont pas guéris quand nous prions pour eux, il doit y avoir une raison à cela. Dieu voulant, je prêcherai brièvement dimanche matin, puis nous aurons un service de guérison où je prierai pour tous les malades. Billy Paul ou quelqu’un sera là dimanche matin dès huit heures quand on ouvre les portes de l’église pour distribuer les cartes de prière aux gens à leur arrivée ou quand ils entrent.
+Je crois que le Seigneur m’a donné en quelque sorte un petit aperçu des raisons pour lesquelles certaines personnes ne sont pas guéries. Je crois que c’est par manque de compréhension; nous en parlerons dimanche matin si c’est la volonté du Seigneur.
+La réunion de prière du mercredi soir est une brève réunion où nous nous rassemblons et prions comme nous l’avons fait et où nous communions ensemble; parfois je pense qu’une des choses principales que je remarque de nos jours est le manque de sincérité de notre foi. Si Dieu avait fait du temps de John Wesley ce qu’il a fait de nos jours, qu’est-ce que cela aurait donné!
+Si ce qui se passe aujourd’hui, alors que nous le voyons aussi bien confirmé par l’église que par l’Esprit, la science et toutes choses s’était passé du temps de Martin Luther ou des autres… C’est en train de s’accomplir. Il faut le discerner. Et la Parole de Dieu l’annonce et le déclare avant que cela arrive. Il est venu, a prophétisé et ce qu’Il a dit s’est accompli parfaitement; mais malgré tout cela nous restons indolents et nous nous posons des questions: «Je me demande si c’est bien moi que cela concerne? Est-ce pour l’église en général ou est-ce que je suis aussi compris dans ces choses?». Je pense que dimanche matin j’essaierai de parler sur quelques-uns de ces points essentiels afin que nous soyons un peu plus éclairés.
+Ce soir j’ai trouvé quelque chose et je m’y suis arrêté, et avant de venir j’ai pensé: «Si frère Neville venait me dire: Levez-vous, je vous laisse la parole!» et se rasseyait… J’ai pensé qu’il vaudrait mieux noter quelques passages de l’Ecriture; parce que je le connais, ce cher frère, et nous l’apprécions!
+Avant de prier sur la Parole je veux présenter un frère (je ne sais même pas son nom actuellement). D’ailleurs ils sont deux. Ce sont de chers amis, des serviteurs de Dieu, des évangélistes. Ils ont eu connaissance du message par une bande et viennent d’églises dénominationnelles différentes. L’un de ces jeunes gens est si intéressé qu’il a pris récemment l’avion pour Tucson après avoir terminé une réunion. Je crois que j’étais à ce moment-là à un déjeuner des Hommes d’Affaires Chrétiens; c’est alors qu’arriva ce jeune homme, un brave jeune homme.
+Ils sont du Kansas et l’un d’eux est venu avec sa fiancée pour que je les marie. J’apprécie cela. Dire que des gens ont suffisamment confiance dans vos prières pour croire que Dieu entendra et répondra! Et des jeunes qui partent dans la vie comme cela! Mais en arrivant ici ils se sont aperçus que la loi de l’Indiana exige que, malgré leur examen de sang, ils attendent ici trois jours avant de pouvoir être mariés. Ils ne pourront donc l’être que vendredi matin.
+Je demanderai à ce frère de se lever et de nous dire qui il est, ainsi que sa charmante fiancée et le frère qui les accompagne. [Le frère rend témoignage — N.d.R.]
+Merci beaucoup. Nous désirons vraiment qu’il y ait de ces jeunes ambassadeurs dans l’oeuvre du Seigneur Jésus-Christ. Nous leur souhaitons la bénédiction de Dieu sur leur route. Et tandis que je médite et attends le retour du Seigneur, cela me réjouit de voir un jeune homme et une jeune femme se lever avec dans le coeur le dessein de servir Christ. Que le Seigneur vous bénisse richement, mon frère et ma soeur.
+Maintenant venons-en à un petit livre dont je ne vous ai jamais parlé; il n’a qu’un chapitre, c’est le livre de Philémon. (J’ai un peu de sang irlandais et j’ai un appareil pour tenir mes dents du bas en place, ce qui fait que je n’arrive pas toujours à prononcer ces noms correctement; parfois c’est simplement à cause de mon manque d’instruction.) Oui, Philémon, comme quelqu’un le dit là-bas; je crois que c’est la bonne prononciation.
+Premier verset. Je n’en prendrai qu’un ou deux mots:
+«Paul, prisonnier de Jésus-Christ…».
+Ce sera notre sujet de ce soir, Dieu voulant: UN PRISONNIER.
+On peut difficilement s’imaginer Paul se considérant comme un prisonnier, lui un homme LIBRE PAR SA NAISSANCE, un homme rempli du Saint-Esprit; cependant il se dit prisonnier. En s’adressant aux Corinthiens nous voyons qu’il dit: “Paul, apôtre de Jésus-Christ…”. Une autre fois: “Paul, serviteur de Jésus-Christ”. Tout cela par la volonté de Dieu quand il parle à Timothée et aux autres. Ici il écrit à Philémon et dit: “Paul prisonnier de Jésus-Christ”. “… Paul, apôtre…”. J’aimerais prêcher un soir sur ce sujet: “Paul, serviteur…” puis “Paul, prisonnier…”. Mais ce soir, étant donné qu’il faudrait des heures pour approfondir un seul de ces sujets, je prendrai celui-ci: “Paul, le prisonnier”. Mon sujet sera: UN PRISONNIER. Maintenant courbons nos têtes un instant.
+Seigneur Jésus, tout homme peut feuilleter la Bible, mais seul le Saint-Esprit peut L’interpréter selon la Lumière qu’Elle doit recevoir. Nous Lui demandons de venir et de nous aider à comprendre cette adresse: Paul était un grand prophète puissant et pourtant il se dit prisonnier. Que le Saint-Esprit nous le révèle tandis que nous nous attendons à Lui au Nom de Jésus-Christ. Amen.
+Je puis imaginer Paul quand il écrivit cette lettre à Philémon alors qu’il était assis dans la prison, dans le cachot de la ville. Un PRISONNIER: par sa situation il savait bien ce que signifiait ce mot. Il était entouré de barreaux et ne pouvait recouvrer la liberté que si quelqu’un le délivrait; il savait ce que signifiait: être prisonnier. Cependant je ne crois pas que l’apôtre voulait parler de son état présent, de son corps qui était enfermé là dans cette prison. Je crois plutôt qu’il faisait allusion au fait que son être (son esprit, sa volonté) était prisonnier de Jésus-Christ.
+Nous sommes nés avec un libre arbitre qui nous permet de prendre toutes les décisions que nous voulons. Dieu a fait cela car Il devait placer chaque homme sur la même base, sinon, en donnant le libre arbitre au premier homme, Il l’aurait placé sur une mauvaise base.
+Vous voyez, ce soir nous sommes exactement comme Adam et Eve. Il n’y a pas de différence. Le bien et le mal sont devant chacun de nous, la vie et la mort: nous pouvons choisir. C’est à nous de le faire. Vous voyez? C’est ainsi que firent Adam et Eve: mais ils firent le mauvais choix.
+En faisant cela ils placèrent la race humaine tout entière sous la mort, sous la punition de la mort, mais Dieu est venu sous la forme d’un homme, a pris cette mort et payé la rançon de la mort afin que ceux qui y étaient sujets et qui voulaient être libres puissent l’être. Maintenant, s’Il n’avait pas agi avec nous de la même façon qu’avec Adam et Eve, s’Il nous avait attirés au travers de quelque chose en nous disant: “Je vous sauverai, que vous le vouliez ou non!”, il aurait mis Adam et Eve sur une base fausse; mais chacun de nous doit choisir entre la mort et la vie. Nous devons le faire.
+Comme je viens de l’exprimer: votre vie démontrera exactement de quel côté vous êtes; peu importe ce que vous en direz. Vos actions de chaque jour révéleront ce que vous êtes. Vous connaissez ce vieux dicton: «Votre vie parle si haut que je ne peux pas entendre votre témoignage». Vos actions parlent tout aussi fort!
+J’ai toujours approuvé le fait de crier et de sauter, mais j’ai toujours dit: «Ne sautez pas plus haut que ce que vous vivez car le monde vous observe». Vous voyez? Vous devez sauter à la hauteur exacte à laquelle vous vivez, car vous êtes observés.
+Quand les gens ne veulent pas aller à l’église… il y en a beaucoup qui ne veulent tout simplement pas y aller; parmi eux il y a des gens sincères, mais ils voient une telle corruption dans l’église qu’ils ne veulent rien avoir à faire avec elle. Souvent nous ne pouvons que leur donner raison. On ne peut guère les blâmer quand on voit comment se conduisent ces gens qui se disent chrétiens. La plus grande pierre d’achoppement placée devant le monde, ce sont les hommes et les femmes qui se prétendent chrétiens et qui vivent autrement que ce qu’ils proclament. C’est l’exacte vérité!
+Pour ce qui est de la déception qu’il y aura le jour du jugement, les pécheurs tels que trafiquants d’alcool, joueurs et adultères ne seront pas étonnés d’entendre la sentence qui les enverra dans le feu qui ne s’éteint point. Ils ne seront pas surpris, contrairement à celui qui essaie de se cacher derrière une confession religieuse ou une autre. C’est celui-là qui sera déçu au jour du jugement, celui qui se dit chrétien et qui vit autrement! Il vaudrait mieux pour lui n’avoir jamais fait de profession de foi. Il aurait mieux fait de s’éloigner plutôt que de s’engager sans que sa vie soit conforme, car la plus grande pierre d’achoppement est celui qui professe être un chrétien mais qui vit autrement.
+NE JUGEZ JAMAIS VOTRE VIE D’APRES LA PUISSANCE QUE VOUS AVEZ DE FAIRE DES MIRACLES, NI D’APRES VOTRE CONNAISSANCE DE LA PAROLE, MAIS REGARDEZ EN ARRIERE ET FAITES L’INVENTAIRE DES FRUITS QUE PORTE VOTRE VIE ACTUELLEMENT. J’ai prêché là-dessus il y a quelque temps lors d’une rencontre des Hommes d’Affaires Chrétiens à Phoenix dans l’Arizona; j’ai prêché sur la vie chrétienne reflétant Jésus.
+J’ai dit que je suis né au Kentucky où c’était très primitif, spécialement à l’époque de mon enfance. Et le petit garçon que j’étais n’avait jamais connu de demeures semblables à celles que nous avons ici où toutes ces belles dames doivent tout le temps se regarder dans les miroirs qu’il y a partout dans la maison pour réajuster leur coiffure ou autre chose. Nous n’avions qu’un petit miroir (juste un morceau de miroir fixé par un clou dehors contre un arbre) où se trouvait le banc où nous faisions notre toilette. C’est là que mon père et ma mère se lavaient et se coiffaient en se servant de ce bout de miroir cloué à un arbre.
+Voilà le genre de logis que nous avions! Et si nous voulions nous regarder dans le miroir, nous les enfants, nous devions prendre une caisse et grimper sur le banc où l’on faisait sa toilette pour utiliser ce bout de miroir que j’avais ramassé moi-même dans une décharge publique. (Ce n’était pas là-bas au Kentucky mais ici dans l’Indiana, à Utica Pike.)
+Ce petit garçon que j’étais ne s’était en réalité jamais vu dans un miroir. Un jour il vint rendre visite à sa grand-maman en ville. Celle-ci avait une maison dont une porte était entièrement recouverte par un grand miroir. Lorsque le petit garçon entra en courant dans la pièce, il vit un autre petit garçon devant lui et ce petit garçon courait; il pensa donc qu’il devait s’arrêter pour voir ce que ferait l’autre. Quand il s’arrêta, l’autre petit garçon fit de même. Il tourna la tête; l’autre garçon tourna la tête. Il se gratta la tête; l’autre gratta la sienne. Finalement il s’approcha pour examiner la chose de plus près. Puis il se retourna (sa mère et sa grand-mère l’observaient avec étonnement) et dit: «Maman, maman, c’est moi!».
+C’est pourquoi je dis: «Nous aussi nous reflétons quelque chose. Notre vie se reflète. Si nous avions vécu au temps de Noé, de quel côté aurions-nous été? De quel côté aurions-nous été aux jours glorieux de Noé? De quel côté aurions-nous été du temps de Moïse? Et aux jours d’Elie le prophète, alors que le monde entier était englouti par une vague de modernisme comme la Jézabel moderne qui a entraîné tous les serviteurs du Seigneur dans un tourbillon (l’église et les prêtres se prosternaient devant elle)? Auriez-vous pris le parti de la popularité ou vous seriez-vous tenus au côté d’Elie?
+Pour ce qui est du temps du Seigneur Jésus, pensons à ce personnage impopulaire et sans instruction selon le monde. On n’a jamais pu trouver d’école qu’Il ait fréquentée, ni qu’Il ait acquis une expérience de séminaire; on Le considérait comme un enfant illégitime, et voici qu’Il S’est mis en plus de cela à prêcher un Evangile contraire à tout leur enseignement! Il condamnait les prêtres et leurs organisations. Ces organisations décrétèrent que quiconque irait écouter ce soi-disant prophète serait exclu de la synagogue, ce qui était un péché mortel. Mais les gens devaient se rendre compte que la seule façon d’adorer était sous le Sang de l’Agneau. Ils devaient venir à Ce sacrifice; mais alors ils seraient rejetés du monde. Pourtant c’était glorieux. Mais ces hommes méprisèrent cela, bien que Jésus fût en parfait accord avec l’Ecriture, mais non selon leur connaissance.
+De quel côté auriez-vous été? Votre vie actuelle reflète exactement ce que vous auriez fait alors car vous êtes animé du même esprit. Si vous vous mettez d’un côté aujourd’hui, vous auriez fait pareillement en ce temps-là car l’esprit qui est en vous aujourd’hui est le même que celui qui était dans les gens autrefois.
+Vous voyez, le diable ne retire jamais son esprit: il passe simplement d’un homme à un autre. Dieu ne reprend pas non plus Son Esprit: Il passe de l’un à l’autre. Ainsi le même Esprit qui était sur Elie descendit sur Elisée, puis le même Esprit passa sur Jean-Baptiste et ainsi de suite. Le Saint-Esprit qui était sur Christ descendit sur Ses disciples et ainsi de suite, et Il est toujours sur Son peuple.
+Vous voyez, Dieu ne retire jamais Son Esprit. Il ne nous reste qu’à faire un choix. Et je ne crois pas que Paul regrettait quoi que ce soit et voulait dire qu’il se plaignait d’être prisonnier. Il disait cela pour lui quand le Saint-Esprit lui mit la plume à la main pour écrire cela. Peut-être que c’était uniquement pour nous donner notre sujet de ce soir que Paul fit cela, parce que c’est scripturaire et que scripturaire veut dire éternel. Je crois que si Paul s’adresse à son frère du fond de cette misérable prison en lui disant qu’il était prisonnier de Jésus-Christ, c’est aussi parce qu’il pouvait bien se représenter ce que cela signifiait en regardant simplement autour de lui.
+Il était en prison, mais ce n’est pas de cela qu’il parlait en écrivant à ce serviteur de Christ qui exerçait un ministère avec lui; il voulait dire qu’il était prisonnier de la Parole de Jésus-Christ parce que Jésus-Christ est la Parole. Paul avait été un grand érudit en son temps. Il avait eu de grandes ambitions et avait reçu l’instruction des hommes.
+Gamaliel était un grand professeur; Paul n’aurait pas pu fréquenter d’école plus prestigieuse que celle où il enseignait. C’était une de ces écoles comme par exemple Wheaton ou Bob Jones ou une de ces grandes écoles fondamentalistes; il avait été instruit comme ministre de la Parole. Paul était un jeune homme instruit, bien élevé et intelligent; il avait peut-être la grande ambition de devenir un jour sacrificateur ou souverain sacrificateur de son peuple.
+Il avait une ambition, et pour atteindre ce but élevé, il avait été instruit; il avait consacré toute sa vie, peut-être depuis l’âge de huit ou dix ans jusqu’à trente ou trente-cinq ans où il termina ses études et reçut ses diplômes. Il était en bons termes avec tout le clergé, même avec le souverain sacrificateur de Jérusalem; Paul avait un ordre de lui, un ordre personnel écrit lui confiant le soin d’aller à Damas découvrir ceux qui adoraient Dieu d’une manière contraire aux ordres du souverain sacrificateur, de les lier, de les jeter en prison et, si nécessaire, de les mettre à mort s’il le voulait.
+II avait de grandes ambitions. Mais tout ce qu’il avait appris, Dieu le lui enleva. Son but, l’argent que son père avait dépensé pour lui, l’ambition de son père et de sa mère, tout lui fut retiré parce que Dieu avait quelque chose d’autre en vue. Autrefois il était prisonnier du but de sa vie, mais il devint prisonnier de Jésus-Christ qui est la Parole. Ce chemin de Damas changea Paul.
+Alors qu’il était en chemin, vers 11 heures peut-être, il fut jeté à terre et entendit une voix qui disait: “Saul, Saul, pourquoi me persécutes-tu?”. Il regarda et, étant Juif, il sut que la colonne de feu qu’il voyait était le Seigneur qui avait conduit les enfants d’Israël, parce qu’il savait ce qu’elle était.
+Rappelez-vous que cet Hébreu n’aurait donné à personne le titre de Seigneur, S–E–I–G–N–E-U–R, Elohim, s’il n’avait pas été sûr que c’était bien Lui, car c’était un homme très instruit. Et quand il regarda et vit cette Lumière, cette colonne de feu qui avait conduit son peuple à travers le désert, il dit: “Seigneur” (Elohim, SEIGNEUR). “Seigneur, qui es-Tu?”. Quelle surprise pour ce théologien d’entendre: “Je suis Jésus…”, Celui-là même qu’il combattait! Quel revirement!
+Oh, cela a dû être terrible pour cet homme plein d’ambition de découvrir tout à coup qu’il était un persécuteur! Son ambition l’avait entraîné plus qu’il ne l’avait pensé loin de la chose principale. Quel choc pour cet apôtre quand il entendit: “Je suis Jésus…” (Celui-là même qu’il persécutait). “Pourquoi me persécutes-tu?”.
+Disons encore ceci: quand on se moque de l’Eglise, ce n’est pas vraiment d’Elle qu’il s’agit; on se moque de Jésus. “… Pourquoi me persécutes-Tu?”. Comment Paul, avec toute son intelligence, aurait-il pu croire que ce groupe qu’il persécutait c’était le Dieu même qu’il prétendait servir?
+Je pense que nous n’avons pas besoin d’entrer dans les détails parce que nous sommes tous suffisamment instruits pour que nous comprenions ce que je veux dire. C’est pareil de nos jours.
+Paul était bien plus intelligent que les petits Galiléens ignorants qu’il persécutait et qui pourtant, dans leur humilité, avaient déjà accepté cet Homme de Galilée. Mais Paul, avec son grand savoir et son intelligence, ne pouvait accepter cela.
+Quel bouleversement cela doit avoir été pour lui, sur ce chemin! … et il fut frappé de cécité en sorte qu’il ne put plus poursuivre sa mission; mais il fut conduit chez un nommé Judas dans une rue appelée la Droite. Alors le prophète Ananias, qui avait été informé dans une vision, vint vers Paul et lui dit: “Frère Saul, le Seigneur qui t’est apparu sur le chemin m’a envoyé afin que je t’impose les mains pour que tu recouvres la vue et que tu sois rempli du Saint-Esprit”. Vous voyez ce qui s’est passé?
+Qu’est-ce que cela a dû être pour Paul! Tout ce qu’il avait appris était renversé! Ainsi toute son instruction avait été réduite à zéro. Maintenant il savait qu’il avait fait une expérience. Voilà une autre bonne leçon pour nous: l’expérience en soi ne suffit pas, CELA DOIT ETRE UNE EXPERIENCE EN ACCORD AVEC LA PAROLE DU SEIGNEUR.
+Ainsi donc, ayant vu cela et sachant que c’était quelque chose de glorieux que quelqu’un d’autre avait reçu avant lui, il se retira pendant trois ans et six mois dans le désert d’Arabie avec la Bible d’alors (l’Ancien Testament) et il compara son expérience avec l’Ecriture pour voir si c’était conforme.
+Que ce serait-il passé s’il avait dit: “Ce n’est qu’un peu d’exaltation”, puis avait continué son chemin en pensant: “Je vais simplement suivre les pensées de mon intelligence”? Mais il fallait qu’il devînt le prisonnier de quelque chose. Aussi, après avoir comparé et vu les types de l’Ancien Testament il put écrire le Livre des Hébreux.
+Vous voyez, pendant les trois ans et demi où il fut plongé dans la Parole, il découvrit que ce même Dieu qui l’avait appelé le ramenait en arrière et changeait toute sa compréhension, tout ce qu’il avait pensé jusqu’alors, tout ce qu’il avait appris; toutes ses ambitions, tout cela était balayé loin de lui: il était devenu un prisonnier.
+L’amour de Dieu avait été si extraordinaire et une telle révélation QU’IL NE POUVAIT PLUS S’EN ELOIGNER! C’est l’expérience véritable que fait tout vrai croyant qui rencontre Dieu. Vous entrez en contact avec quelque chose de si glorieux que vous en devenez prisonnier, à l’exclusion de toute autre chose. Vous quittez tout pour vous emprisonner dans cela.
+Jésus l’a exprimé une fois quand Il a dit: “Le Royaume de Dieu est semblable à un marchand qui cherche de belles perles. Quand il a trouvé cette Perle glorieuse il vend tout ce qu’il possède pour l’obtenir”. C’est ce qui se passe ici. Vous avez des conceptions intellectuelles, une expérience théologique, mais quand le temps arrive où vous trouvez la chose réelle, vous retranchez tout le reste et vous vous enfermez dans cela.
+Paul savait ce que c’était. Il découvrit qu’il était ATTELE à quelque chose comme un cheval dans son attelage pour tirer quelque chose. Paul, après cette expérience et trois ans et demi passés à la comparer avec les types de la Bible, comprit que Dieu l’avait choisi et attelé par le Saint-Esprit afin que par l’expérience qu’il avait faite il puisse TIRER l’Evangile devant les nations. L’Esprit Lui-même l’avait attelé.
+Aujourd’hui, en tant que serviteurs de Christ, nous sommes ATTELES, accrochés. Nous ne pouvons pas aller sans que la Parole soit avec nous: nous sommes ATTELES à la Parole! Peu importe ce que dira qui que ce soit: vous y êtes attelé. Il y a quelque chose en Elle qui fait que vous ne pouvez tout simplement pas vous en éloigner. Vous avez été mis sous le même joug qu’Elle par le Saint-Esprit: Il vous a mis sous le joug avec la Parole. Peu importe ce que l’on dit, c’est la Parole qui vous suit. Vous y êtes attelé, vous avez pris le joug avec Elle, avec la Parole par le Saint-Esprit. Paul y était attelé.
+Il était allé au fond du désert d’Arabie avec toutes ses anciennes expériences et ambitions; là il fut dépouillé de toutes ces choses. C’est là que nous voyons aujourd’hui que nous devons être dépouillés premièrement: mais les gens n’aiment pas à être dépouillés. Le frère Méthodiste tient à garder quelques bribes de son enseignement méthodiste. Le frère Baptiste tient à garder quelques bribes de son enseignement baptiste, vous voyez? Mais vous devez être complètement dépouillé de tout, naître de nouveau et prendre le joug à partir de là selon que le Saint-Esprit vous conduit. Vous ne pouvez pas dire: «Mon père disait qu’en arrivant à l’église il serrait la main du pasteur. C’était un bon membre loyal». C’était peut-être bien pour sa génération, mais nous sommes dans une autre génération.
+Nous devons maintenant revenir aux temps bibliques pour notre époque. Les ministres de Dieu étaient bien attelés eux aussi, mais ils sont entrés dans une autre dispensation et ils ne se sont pas dépouillés de leur vieux harnais pour en mettre un nouveau. C’est pareil aujourd’hui. Nous sommes sortis d’une ère dénominationnelle comme nous l’avons prouvé par les âges de l’église, la Bible, etc. et nous entrons dans une ère de liberté où le Saint-Esprit Lui-même descend, Se manifeste, Se fait connaître et accomplit chaque promesse qu’Il a faite.
+Quelle époque glorieuse! Et Paul savait qu’il ne pouvait pas aller quelque part sans être attelé à la Parole, même s’il l’avait voulu. Son ambition était d’aller chez des frères qui l’avaient invité, mais cependant le Saint-Esprit le pressa de faire autre chose. Il n’était plus son propre maître.
+Peut-être qu’on lui disait: «Frère Paul, nous aimerions que vous veniez chez nous, nous avons la plus grande église, l’assemblée la plus nombreuse. Vous recevrez beaucoup d’offrandes…» etc. Lui, pressé par le Saint-Esprit, pensait: «J’ai un frère là-bas, c’est vers lui que je dois aller pour qu’il soit sauvé; il faut l’amener au Seigneur». Mais l’Esprit le poussait à aller encore ailleurs! Il était vraiment PRISONNIER!
+Oh Dieu, fais de nous de tels prisonniers! Libérés de nos ambitions égoïstes, de notre jugement personnel, de nos pensées que nous croyons être les meilleures, afin de devenir des prisonniers de Jésus-Christ! Je crois que c’est glorieux de pouvoir déclarer: “Je suis un prisonnier de Jésus-Christ!”.
+Rappelez-vous qu’Il est la Parole. Quoi qu’on en pense, Il est la Parole. Si vous êtes prisonnier de la Parole, aucune dénomination ne peut vous en détourner. C’est la Parole, vous en êtes prisonnier: c’est tout. Vous devez agir comme Elle agit.
+Il ne pouvait pas aller à certains endroits où il aurait voulu aller. Pourquoi? Parce que l’Esprit le lui défendait. Souvenez-vous des nombreuses fois où Paul cherchait à se rendre en un lieu où il pensait avoir une grande réunion, mais l’Esprit l’en empêchait.
+Cela n’établit-il pas et ne prouve-t-il pas clairement que Paul était un PRISONNIER? Un prisonnier de Jésus-Christ attelé à Sa Parole par l’Esprit. Oh, j’aime cela! Il était LIE. Il était lié par des chaînes, par des liens d’amour pour faire la volonté de Dieu et elle seule. Il était un prisonnier. Il était dans des chaînes d’amour. Il était sous le joug avec Christ. Il ne pouvait se mettre sous aucun autre joug. Il était sous le joug avec Lui et devait marcher selon qu’il était conduit; peu importait que l’herbe parût plus verte à droite qu’à gauche: il devait aller où le conducteur et le joug allaient.
+Oh, si ce soir nous autres du Branham Tabernacle pouvions devenir des prisonniers par rapport à notre nature égoïste et à notre ambition personnelle, et nous abandonner complètement et nous mettre sous Son joug! Peu importe ce que pense le reste du monde! Peu importe ce que fait le reste du monde! Nous sommes liés sous un joug d’amour. Nous sommes prisonniers! Mes pieds sont tellement liés au joug de Christ qu’ils ne peuvent plus aller danser. Mes yeux sont tellement liés au joug de Christ que lorsque je vois ces strip-teaseuses modernes dans la rue, ils me font détourner la tête. Mon coeur est tellement lié au joug de Son amour que je ne peux plus avoir d’amour pour le monde. Ma volonté est tellement liée à Son joug que je ne sais même plus quelles sont mes ambitions personnelles. Où que Tu conduises, Seigneur, je Te suivrai. Je veux être un prisonnier.
+Paul était véritablement un prisonnier. Il ne disait pas de choses fausses. Il avait été reformé par le Saint-Esprit pour attendre la Parole. Il avait été instruit d’une façon, mais maintenant Dieu l’instruisait d’une autre façon. Il avait été formé par le Saint-Esprit pour attendre la Parole du Seigneur quelles qu’aient pu être ses ambitions.
+Maintenant, avec l’aide du Saint-Esprit, j’espère vous montrer quelque chose. Prenons un exemple. Un jour Paul et Silas descendaient la rue d’une ville où Paul tenait une réunion de réveil. Une femme possédée d’un démon le suivait en criant. Sans aucun doute Paul savait qu’il avait l’autorité d’un apôtre pour chasser ce mauvais esprit hors de cette femme, mais l’avez-vous remarqué? Il attendit jour après jour jusqu’à ce que soudain le Saint-Esprit lui parle. Il dit: “Le moment est venu”. Alors Paul ordonna: “Esprit, sors d’elle!”.
+Vous voyez, il devait attendre le Seigneur. Et c’est là qu’aujourd’hui tant de gens jettent l’opprobre sur la Parole. Ils marchent d’après leurs ambitions. Combien de réveils sont tombés à plat pour des raisons semblables! Tout cela parce que l’évangéliste n’attend pas de connaître la volonté du Seigneur.
+Quelqu’un dit: «Viens ici!». Et ils viennent immédiatement parce que l’association dit: «Va!». Le Saint-Esprit aurait dit autre chose, mais l’ambition de l’homme de devenir surveillant pour tout l’état, ancien, évêque ou quelque chose de semblable, le pousse: «Tu dois aller!». Pourtant il sait qu’il pourrait faire mieux que cela. Le Saint-Esprit dit: «Va là-bas!». Mais, vous voyez, il est lié au joug de son organisation. Il est un prisonnier de son organisation. Mais s’il est lié au joug de Christ, alors il est conduit par le Saint-Esprit! Il est sous un joug, il est prisonnier. Pour lui, quoi que disent les autres, cela ne fait aucune différence. Autrement ce serait un airain qui résonne et une cymbale qui retentit. Mais lui n’entend que la Voix de Dieu et il ne parle que lorsqu’Elle parle. Autrement il ne dit rien.
+On dit: «Oh, frère Jones, frère Roberts…» ou un de ces grands hommes qu’il y a aujourd’hui dans notre pays comme Tommy Hicks, Oral Roberts ou le frère Tommy Osborne, l’un de ces grands évangélistes. Quelqu’un dira peut-être: «Venez chez nous, Tommy (ou Oral), vous êtes un grand homme de Dieu; j’ai un oncle qui est au lit: il est lié et malade. Je désire que vous veniez. Je crois que vous avez la force de le guérir».
+Peut-être que le Saint-Esprit lui dira: «Pas maintenant!». Mais cependant par amitié pour cet homme il sent qu’il est de son devoir d’aller chez lui. S’il ne le fait pas, il s’en fera un ennemi. L’homme dira: «Il est allé chez Untel et Untel et il a guéri leur enfant; je le sais! Et moi qui suis son ami depuis des années, il a refusé de venir!». Mais s’il est contraint par le Saint-Esprit à ne pas aller, il vaut mieux qu’il n’y aille pas. Il est sous le joug de Dieu. Son ami, il l’aime, mais il vaut mieux qu’il soit conduit par le Saint-Esprit pour y aller parce qu’autrement de toute manière cela ne donnerait rien de bon. Je l’ai expérimenté tant de fois!
+Mais Paul, lui, attendait que le Saint-Esprit lui dise ce qu’il devait faire. Il vaut mieux être attentif au Saint-Esprit.
+Un soir, après avoir prêché, il vit un infirme en sortant. Soudain l’Esprit lui parla et Paul dit: “Je vois…”. Comment? De la même manière qu’il vit qu’il ferait naufrage et serait jeté sur une île. “Je vois que tu as la foi pour être guéri. Lève-toi droit sur tes pieds! Jésus-Christ t’a guéri”.
+Voilà. Il était sous le joug. Peut-être qu’il avait fait une semaine d’évangélisation sans que rien ne se passe, mais pourtant il attendait que le Saint-Esprit lui parle. Il était lié au joug de cet appel.
+Maintenant vous direz: «Mais frère Branham, vous contredisez ce que vous avez dit dimanche au sujet de votre longue attente». Mais rappelez-vous que c’est le Saint-Esprit qui m’a parlé sur la route et m’a dit: «Je te renvoie parmi les malades et les affligés». J’ai obéi au Saint-Esprit. C’est certain! Je ne suis pas allé avant qu’Il me l’ordonne. J’attendais le AINSI DIT LE SEIGNEUR jusqu’à ce que j’aie bien reçu le AINSI DIT LE SEIGNEUR. C’est différent! C’est cela qui fait la différence!
+Paul attendait la Parole du Seigneur. Il était poussé par l’Esprit à ne suivre que les ordres de Dieu. C’est ainsi qu’il devint le prisonnier de Jésus-Christ. Chers amis, si seulement nous pouvions devenir des prisonniers!
+Je sais qu’il fait très chaud, mais je voudrais encore citer quelques personnages. J’en ai six ou huit inscrits ici, mais prenons-en un ou deux.
+Prenons le personnage de Moïse. Il était né pour être un libérateur et il le savait; il savait qu’il était venu au monde pour être un libérateur. Mais avant de parler de Moïse je voudrais dire ceci: Tout homme qui veut Le servir fidèlement, Dieu doit toujours en faire Son prisonnier. Un homme doit abandonner toutes ses ambitions, tout ce qu’il a, tout: sa vie, son âme, son corps, sa volonté, ses ambitions et tout le reste, et devenir totalement PRISONNIER de Christ (Qui est la Parole) pour servir Dieu.
+Il se peut que vous deviez marcher à l’opposé de ce que votre bon sens vous montre. Vous pensez peut-être que dans une certaine organisation on pourrait vous élever et vous confier quelque chose d’important qui vous permettrait de briller. Mais comment vous retrouverez-vous après cela? Au bout d’un certain temps vous vous retrouverez vaincu! Jusqu’à ce que Dieu puisse trouver un homme qui accepte de devenir Son prisonnier…
+Dieu cherche des prisonniers. Il l’a toujours fait. Vous n’avez qu’à sonder les Ecritures. Un homme doit être prisonnier de Christ envers et contre tout. Par conséquent vous ne pouvez pas être lié à quoi que ce soit en dehors de Christ — même pas à votre père, votre mère, votre frère, votre soeur, votre mari, votre femme, ou à qui que ce soit. Vous n’êtes lié qu’à Christ et à Lui seul. Alors Dieu peut vous utiliser. Jusque là Il ne peut pas le faire.
 
 PAUL, PRISONNIER DE CHRIST 11
-   Parfois je dépasse les bornes et je parle durement aux gens. Vous comprenez, j’essaie de vous
-faire couper vos liens. Vous devez avoir un point de départ. C’est comme lorsque je parle aux
-femmes qui se coupent les cheveux et qui portent des vêtements indécents tout en faisant
-profession d’être chrétiennes.
-   Vous direz: «Ce ne sont que de petites choses!». Mais il faut bien commencer quelque part!
-C’est pourquoi commencez par l’ABC: coupez les liens de l’apparence mondaine et devenez
-prisonnière de Christ; puis vous continuez à couper des liens partout jusqu’à ce que les dernières
-chaînes tombent. Alors vous êtes prisonnière. Vous êtes sous Son emprise; vous êtes en Son
-pouvoir.
-   Moïse savait qu’il était né pour être un libérateur. Il le savait. Avez-vous remarqué quelle était
-son ambition? Il le savait parce que sa mère le lui avait dit pendant qu’elle jouait son rôle de
-nourrice.
-   Il n’y a pas de doute que quand ce petit bébé Moïse naquit, sa mère lui dit: “Tu sais, Moïse, ton
-papa Amram et moi avons prié sans cesse. Nous avons vu en lisant la Parole qu’il était temps que
-vienne un libérateur et nous avons prié: ‘Seigneur, nous aimerions voir ce libérateur!’. Une nuit,
-dans une vision, le Seigneur nous a annoncé ta naissance et que tu serais un libérateur. Nous
-n’avons pas craint l’ordre du roi. Nous n’avons pas tenu compte de ce qu’il a dit. Nous savions que
-tu étais né pour être un libérateur. Nous savions, Moïse, que nous ne pouvions pas t’élever
-convenablement. (Rappelez-vous qu’ils avaient séjourné quatre cents ans en Egypte) et nous
-voulions que tu reçoives l’éducation et l’instruction appropriées. Aussi t’ai-je mis dans une petite
-arche que j’ai lancée sur le Nil. Je me suis efforcée de faire en sorte que le courant t’emporte à
-travers joncs et roseaux loin d’ici, juste devant le palais de Pharaon, à l’endroit où la fille de
-Pharaon va se baigner. Je savais qu’il te faudrait une nourrice (en ce temps-là on n’avait pas de
-biberons comme aujourd’hui et il fallait une nourrice), aussi ai-je envoyé Myriam là-bas pour leur
-dire qu’elle savait où trouver une nourrice, et elle vint me chercher. Maintenant Moïse mon chéri
-(toutes les portes sont bien fermées) je te dis ceci: tu as seize ans et tu vas être le fils de Pharaon;
-mais un jour tu seras le libérateur qui conduira le peuple hors d’ici”.
-   L’ambition de Moïse commença à croître: “J’étudierai, maman, j’étudierai tout ce que je pourrai!
-Sais-tu ce que je vais faire? Je vais travailler dur pour devenir un militaire et je saurai comment
-faire sortir le peuple d’ici. Je serai un grand général, un évêque, j’apprendrai tout cela et je les ferai
-sortir. Je vais décrocher mes diplômes! J’y arriverai!”.
-   Comme le père Chiniqui. Avez-vous lu son livre? Bien. Il voulait convertir tous les protestants,
-mais il en devint un lui-même! Ce grand prêtre de jadis, le père Chiniqui. Vous devriez vous
-procurer son livre et le lire. On l’appelle père, alors que c’est frère Chiniqui qu’il faudrait dire. Nous
-ne disons père à aucun homme.
-   Il se mit à lire la Bible afin de pouvoir réfuter la religion protestante, mais il perdit la bataille. Je
-pense qu’après qu’il se soit mis à lire la Bible, le Saint-Esprit S’empara de lui; il reçut le
-Saint-Esprit puis devint l’un d’eux.
-   Remarquez ceci: Moïse reçut toute l’instruction possible; il était tellement intelligent, instruit et
-intellectuel qu’il n’y avait personne comme lui. Il pouvait même enseigner les Egyptiens. Il pouvait
-enseigner leurs psychologues. Il pouvait enseigner l’art de la guerre à leurs généraux. C’était un
-grand homme et le peuple craignait Moïse à cause de sa grandeur.
-   Oh, quelle érudition! Il était comme un archevêque, voire un pape. C’était un très grand homme
-et un homme puissant. Il savait dans quel but il était né et s’y était préparé dans la grande
-ambition de le réaliser.
-   C’est comme à présent. Je ne dis pas que l’on n’est pas instruit dans ces écoles. Ici dans
-l’Ouest ils vont construire une école de théologie de cent cinquante millions de dollars, une école
-pentecôtiste. Une école de cent cinquante millions de dollars! Pour moi cela devrait servir à
-envoyer davantage de missionnaires dans les champs de mission.
-   Mais que font-ils quand ils sortent de ces écoles? Que sont-ils? Une bande de «Rickies»!
-Exactement! Voilà comment ils sortent de leurs écoles. C’est tout ce qui en reste; ils suivent tous
-la même ligne.
-   Que voyons-nous qui arriva avec Moïse et tout son savoir, et aujourd’hui avec tout ce savoir (ils
-font de grands évêques et autres avec de grandes ambitions) que faisons-nous? Nos ambitions
+   Parfois je dépasse les bornes et je parle durement aux gens. Vous comprenez, j’essaie de vous faire couper vos liens. Vous devez avoir un point de départ. C’est comme lorsque je parle aux femmes qui se coupent les cheveux et qui portent des vêtements indécents tout en faisant profession d’être chrétiennes.
+   Vous direz: «Ce ne sont que de petites choses!». Mais il faut bien commencer quelque part! C’est pourquoi commencez par l’ABC: coupez les liens de l’apparence mondaine et devenez prisonnière de Christ; puis vous continuez à couper des liens partout jusqu’à ce que les dernières chaînes tombent. Alors vous êtes prisonnière. Vous êtes sous Son emprise; vous êtes en Son pouvoir.
+   Moïse savait qu’il était né pour être un libérateur. Il le savait. Avez-vous remarqué quelle était son ambition? Il le savait parce que sa mère le lui avait dit pendant qu’elle jouait son rôle de nourrice.
+   Il n’y a pas de doute que quand ce petit bébé Moïse naquit, sa mère lui dit: “Tu sais, Moïse, ton papa Amram et moi avons prié sans cesse. Nous avons vu en lisant la Parole qu’il était temps que vienne un libérateur et nous avons prié: ‘Seigneur, nous aimerions voir ce libérateur!’. Une nuit, dans une vision, le Seigneur nous a annoncé ta naissance et que tu serais un libérateur. Nous n’avons pas craint l’ordre du roi. Nous n’avons pas tenu compte de ce qu’il a dit. Nous savions que tu étais né pour être un libérateur. Nous savions, Moïse, que nous ne pouvions pas t’élever convenablement. (Rappelez-vous qu’ils avaient séjourné quatre cents ans en Egypte) et nous voulions que tu reçoives l’éducation et l’instruction appropriées. Aussi t’ai-je mis dans une petite arche que j’ai lancée sur le Nil. Je me suis efforcée de faire en sorte que le courant t’emporte à travers joncs et roseaux loin d’ici, juste devant le palais de Pharaon, à l’endroit où la fille de Pharaon va se baigner. Je savais qu’il te faudrait une nourrice (en ce temps-là on n’avait pas de biberons comme aujourd’hui et il fallait une nourrice), aussi ai-je envoyé Myriam là-bas pour leur dire qu’elle savait où trouver une nourrice, et elle vint me chercher. Maintenant Moïse mon chéri (toutes les portes sont bien fermées) je te dis ceci: tu as seize ans et tu vas être le fils de Pharaon; mais un jour tu seras le libérateur qui conduira le peuple hors d’ici”.
+   L’ambition de Moïse commença à croître: “J’étudierai, maman, j’étudierai tout ce que je pourrai! Sais-tu ce que je vais faire? Je vais travailler dur pour devenir un militaire et je saurai comment faire sortir le peuple d’ici. Je serai un grand général, un évêque, j’apprendrai tout cela et je les ferai sortir. Je vais décrocher mes diplômes! J’y arriverai!”.
+   Comme le père Chiniqui. Avez-vous lu son livre? Bien. Il voulait convertir tous les protestants, mais il en devint un lui-même! Ce grand prêtre de jadis, le père Chiniqui. Vous devriez vous procurer son livre et le lire. On l’appelle père, alors que c’est frère Chiniqui qu’il faudrait dire. Nous ne disons père à aucun homme.
+   Il se mit à lire la Bible afin de pouvoir réfuter la religion protestante, mais il perdit la bataille. Je pense qu’après qu’il se soit mis à lire la Bible, le Saint-Esprit S’empara de lui; il reçut le Saint-Esprit puis devint l’un d’eux.
+   Remarquez ceci: Moïse reçut toute l’instruction possible; il était tellement intelligent, instruit et intellectuel qu’il n’y avait personne comme lui. Il pouvait même enseigner les Egyptiens. Il pouvait enseigner leurs psychologues. Il pouvait enseigner l’art de la guerre à leurs généraux. C’était un grand homme et le peuple craignait Moïse à cause de sa grandeur.
+   Oh, quelle érudition! Il était comme un archevêque, voire un pape. C’était un très grand homme et un homme puissant. Il savait dans quel but il était né et s’y était préparé dans la grande ambition de le réaliser.
+   C’est comme à présent. Je ne dis pas que l’on n’est pas instruit dans ces écoles. Ici dans l’Ouest ils vont construire une école de théologie de cent cinquante millions de dollars, une école pentecôtiste. Une école de cent cinquante millions de dollars! Pour moi cela devrait servir à envoyer davantage de missionnaires dans les champs de mission.
+   Mais que font-ils quand ils sortent de ces écoles? Que sont-ils? Une bande de «Rickies»! Exactement! Voilà comment ils sortent de leurs écoles. C’est tout ce qui en reste; ils suivent tous la même ligne.
+   Que voyons-nous qui arriva avec Moïse et tout son savoir, et aujourd’hui avec tout ce savoir (ils font de grands évêques et autres avec de grandes ambitions) que faisons-nous? Nos ambitions
 
         http://www.cmpp.ch
 
 PAUL, PRISONNIER DE CHRIST 12
-deviennent à peu près semblables à celles de Moïse. Mais Dieu, avant de pouvoir prendre cet
-homme dans Sa main, dut le dépouiller de toutes ses ambitions, de tout son savoir.
-   Moïse sortit pour délivrer, mais il tua un Egyptien. En ce faisant il s’aperçut qu’il était dans
-l’erreur. Il ne pouvait pas faire cela. Ce n’était pas la bonne manière. Dieu dut l’emmener au
-désert, dans un lieu désert, inhabité.
-   L’avez-vous remarqué? C’est assez étrange comment Dieu emmène au désert ceux pour
-lesquels Il a un message. Il emmena Paul au désert pour l’enseigner et lui montrer la signification
-de toutes ses grandes visions; Paul alla au désert, il alla dans un certain désert et y demeura
-jusqu’à ce que Dieu lui eût révélé complètement ce qu’il devait faire.
-   En son temps, Dieu envoya Moïse au désert pendant quarante ans et le dépouilla de toute sa
-théologie et de toutes ses ambitions. Oh, quel moment ce fut pour lui quand il regarda en arrière et
-se rendit compte de son échec! Et comme nous devrions faire de même, nous, ce soir, quand
-nous considérons nos ambitions!
-   Pensez aux campagnes de guérison et voyez si le Seigneur n’a rien fait il y a quelques années
-pour rétablir la guérison des malades et tout le reste! Mais parce que les gens ne venaient plus
-dans leurs organisations ils durent prendre des guérisseurs! Et qu’avons-nous fait?
-   Considérons les choses un moment: nous avons fait comme Moïse. Nous nous sommes
-efforcés de fabriquer une sorte de miracle: «J’ai flairé une maladie… J’ai du sang sur la main…».
-Nous fabriquons des miracles. Et qu’en résulte-t-il?
-   Cela créa de telles tensions chez certains hommes qu’ils craquèrent et finirent dans l’ivrognerie
-et la névrose. Leur pensée s’était complètement détournée de l’objectif de la Pentecôte pour faire
-une organisation et des choses semblables.
-   Voyez ce que nous avons fait: nous avons tué un Egyptien et rien de plus! C’est vrai! Nous
-avons essayé, peiné, payé, nous avons passé de longues nuits en réunions de prière au point de
-n’avoir plus de voix; tout cela pour essayer de fabriquer quelque chose, de «gonfler le moteur» ou
-quelque chose ainsi; et nous avons découvert que c’était un échec complet. Nous avons besoin de
-retourner au désert. C’est vrai! Parfaitement!
-   Des conventions et des luttes! Pourquoi ne pas renoncer? C’est ce que nous devrions faire.
-Revenir en arrière et renoncer. Nous avons fait la même chose que Moïse. Cela n’a rien donné de
-bon. Au bout de quarante ans il s’est retrouvé prisonnier de la Parole de Dieu. Qu’essayons-nous
-de faire alors que la grande bénédiction est arrivée? Et ici se sont manifestées toutes ces choses
-glorieuses que Dieu nous avait annoncées: comment nous devons naître de nouveau, comment
-nous devons recevoir le Saint-Esprit, comment nous devons être baptisés au Nom de Jésus-Christ
-et tout cela. Vous voyez, les gens, au lieu de s’en tenir à la Parole, d’y être attelés, qu’ont-ils fait?
-Ils se sont lancés dans leurs propres théories dénominationnelles qui étaient déjà une
-faillite, et ont essayé de fabriquer quelque chose qui ait l’apparence de la vérité.
-   Il vaut mieux que je m’arrête ici. Je suis sûr que vous avez assez de sagesse pour comprendre
-ce que je veux dire. Mais regardez ce que cela a fait. Réfléchissez-y. Qu’avons-nous maintenant si
-ce n’est une nation pleine de gens organisés qui renient l’Ecriture qui vient de Dieu, qui disent que
-la Vie du Saint-Esprit n’est que de la télépathie, qui refusent l’accès à leurs églises à ceux-là, qui
-ne permettent pas de mentionner un seul mot au sujet de la semence du serpent, de la sécurité
-éternelle et de tout ce que le Saint-Esprit a révélé et prouvé comme étant la Parole.
-   J’ai lancé défi sur défi pour que l’on vienne me prouver que ce que je dis est faux. Mais qu’est-
-ce qu’ils possèdent? Le reste de ces gens ne possède rien de plus que ce que Luther avait reçu.
-Vous voyez?
-   Tué un Egyptien? Qu’est-ce que cela signifie? Peut-être qu’avec cela un homme a arrêté de
-voler ou de tromper sa femme. Mais qu’avez-vous fait de lui à part cela? Un membre d’église! —
-«Venez vous joindre à notre groupe!».
-   Voyez, cet homme mort et infect fut le seul résultat de quarante ans d’études. Un Egyptien mort
-qui gisait là, pourri, mort.
-   C’est à peu près pareil aujourd’hui. La seule chose qui reste de ce soi-disant réveil qui a franchi
-les océans est une poignée de membres d’église pourrissants qui n’en savent pas plus sur Dieu
-qu’un Hottentot sur les merveilles de l’Egypte. C’est vrai! Même cela leur parlerait de la Parole de
-Dieu. Mais ils disent: «Je ne crois pas cela. Peu importe ce qu’ils disent, je n’y crois pas!». C’est
+deviennent à peu près semblables à celles de Moïse. Mais Dieu, avant de pouvoir prendre cet homme dans Sa main, dut le dépouiller de toutes ses ambitions, de tout son savoir.
+   Moïse sortit pour délivrer, mais il tua un Egyptien. En ce faisant il s’aperçut qu’il était dans l’erreur. Il ne pouvait pas faire cela. Ce n’était pas la bonne manière. Dieu dut l’emmener au désert, dans un lieu désert, inhabité.
+   L’avez-vous remarqué? C’est assez étrange comment Dieu emmène au désert ceux pour lesquels Il a un message. Il emmena Paul au désert pour l’enseigner et lui montrer la signification de toutes ses grandes visions; Paul alla au désert, il alla dans un certain désert et y demeura jusqu’à ce que Dieu lui eût révélé complètement ce qu’il devait faire.
+   En son temps, Dieu envoya Moïse au désert pendant quarante ans et le dépouilla de toute sa théologie et de toutes ses ambitions. Oh, quel moment ce fut pour lui quand il regarda en arrière et se rendit compte de son échec! Et comme nous devrions faire de même, nous, ce soir, quand nous considérons nos ambitions!
+   Pensez aux campagnes de guérison et voyez si le Seigneur n’a rien fait il y a quelques années pour rétablir la guérison des malades et tout le reste! Mais parce que les gens ne venaient plus dans leurs organisations ils durent prendre des guérisseurs! Et qu’avons-nous fait?
+   Considérons les choses un moment: nous avons fait comme Moïse. Nous nous sommes efforcés de fabriquer une sorte de miracle: «J’ai flairé une maladie… J’ai du sang sur la main…». Nous fabriquons des miracles. Et qu’en résulte-t-il?
+   Cela créa de telles tensions chez certains hommes qu’ils craquèrent et finirent dans l’ivrognerie et la névrose. Leur pensée s’était complètement détournée de l’objectif de la Pentecôte pour faire une organisation et des choses semblables.
+   Voyez ce que nous avons fait: nous avons tué un Egyptien et rien de plus! C’est vrai! Nous avons essayé, peiné, payé, nous avons passé de longues nuits en réunions de prière au point de n’avoir plus de voix; tout cela pour essayer de fabriquer quelque chose, de «gonfler le moteur» ou quelque chose ainsi; et nous avons découvert que c’était un échec complet. Nous avons besoin de retourner au désert. C’est vrai! Parfaitement!
+   Des conventions et des luttes! Pourquoi ne pas renoncer? C’est ce que nous devrions faire. Revenir en arrière et renoncer. Nous avons fait la même chose que Moïse. Cela n’a rien donné de bon. Au bout de quarante ans il s’est retrouvé prisonnier de la Parole de Dieu. Qu’essayons-nous de faire alors que la grande bénédiction est arrivée? Et ici se sont manifestées toutes ces choses glorieuses que Dieu nous avait annoncées: comment nous devons naître de nouveau, comment nous devons recevoir le Saint-Esprit, comment nous devons être baptisés au Nom de Jésus-Christ et tout cela. Vous voyez, les gens, au lieu de s’en tenir à la Parole, d’y être attelés, qu’ont-ils fait? Ils se sont lancés dans leurs propres théories dénominationnelles qui étaient déjà une faillite, et ont essayé de fabriquer quelque chose qui ait l’apparence de la vérité.
+   Il vaut mieux que je m’arrête ici. Je suis sûr que vous avez assez de sagesse pour comprendre ce que je veux dire. Mais regardez ce que cela a fait. Réfléchissez-y. Qu’avons-nous maintenant si ce n’est une nation pleine de gens organisés qui renient l’Ecriture qui vient de Dieu, qui disent que la Vie du Saint-Esprit n’est que de la télépathie, qui refusent l’accès à leurs églises à ceux-là, qui ne permettent pas de mentionner un seul mot au sujet de la semence du serpent, de la sécurité éternelle et de tout ce que le Saint-Esprit a révélé et prouvé comme étant la Parole.
+   J’ai lancé défi sur défi pour que l’on vienne me prouver que ce que je dis est faux. Mais qu’est-ce qu’ils possèdent? Le reste de ces gens ne possède rien de plus que ce que Luther avait reçu. Vous voyez?
+   Tué un Egyptien? Qu’est-ce que cela signifie? Peut-être qu’avec cela un homme a arrêté de voler ou de tromper sa femme. Mais qu’avez-vous fait de lui à part cela? Un membre d’église! — «Venez vous joindre à notre groupe!».
+   Voyez, cet homme mort et infect fut le seul résultat de quarante ans d’études. Un Egyptien mort qui gisait là, pourri, mort.
+   C’est à peu près pareil aujourd’hui. La seule chose qui reste de ce soi-disant réveil qui a franchi les océans est une poignée de membres d’église pourrissants qui n’en savent pas plus sur Dieu qu’un Hottentot sur les merveilles de l’Egypte. C’est vrai! Même cela leur parlerait de la Parole de Dieu. Mais ils disent: «Je ne crois pas cela. Peu importe ce qu’ils disent, je n’y crois pas!». C’est
 
         http://www.cmpp.ch
 
     PAUL, PRISONNIER DE CHRIST    13
-une chose affreuse à relever. Après toute la peine que nous nous sommes donnée, les luttes et
-tout le reste…
-   Peut-être que nous pourrions citer une grande école ou une autre, mais elle est MORTE. Nous
-pourrions citer une organisation, mais elle est MORTE. Elle est infecte! C’est comme les choses
-dont nous sommes sortis. Mais “le chien est retourné à ce qu’il avait vomi, et la truie lavée s’est
-vautrée dans le bourbier”.
-   Un seul Egyptien mort… Moïse savait sans aucun doute qu’il avait été appelé pour délivrer le
-peuple.
+une chose affreuse à relever. Après toute la peine que nous nous sommes donnée, les luttes et tout le reste…
+   Peut-être que nous pourrions citer une grande école ou une autre, mais elle est MORTE. Nous pourrions citer une organisation, mais elle est MORTE. Elle est infecte! C’est comme les choses dont nous sommes sortis. Mais “le chien est retourné à ce qu’il avait vomi, et la truie lavée s’est vautrée dans le bourbier”.
+   Un seul Egyptien mort… Moïse savait sans aucun doute qu’il avait été appelé pour délivrer le peuple.
    — “As-tu perdu le sentiment et l’intérêt pour le peuple?”.
    — “Bien sûr que non!”.
-   — “Alors, pourquoi ne fais-tu pas ton oeuvre? Pourquoi n’essaies-tu pas? Pourquoi ne vas-tu
-pas avec les autres?”.
-   Mais Moïse est là-bas pour être dépouillé jusqu’à ce qu’il ait fait une expérience avec le buisson
-ardent qui proclame la Parole: “Je suis le Dieu d’Abraham, d’Isaac et de Jacob, et Je me souviens
-de Ma promesse; Je viens pour les délivrer et Je t’envoie pour le faire”.
-   Voilà: la Parole et non pas les ambitions ou les désirs du peuple. Que devint Moïse? il ne
-voulait plus rencontrer les Egyptiens, il ne voulait plus faire face à cela: il était devenu prisonnier!
-Amen!
-   Il dut passer par toutes ces années de dépouillement mais ensuite il devint un prisonnier devant
-le buisson ardent, ce grand Moïse avec toute son intelligence! La Bible dit qu’en Egypte Moïse
-était puissant en actions et en paroles.
-   Mais voyez ce que fit ce grand théologien en présence du buisson ardent. Il confessa
-simplement son incapacité. Quand il saisit la véritable intention de Dieu il confessa qu’il était
-incapable de l’accomplir, malgré qu’il ait reçu tout l’enseignement théologique que l’on ait pu lui
-donner. Il avait étudié dans leurs meilleures écoles, mais voilà que devant la colonne de feu qui se
-tenait dans le buisson ardent il ne put que dire: “Je ne sais même pas parler”.
-   Il dit: “Seigneur, qui suis-je pour que Tu m’envoies?” — “Ote tes souliers, Moïse, Je veux te
-parler. Prosterne-toi; ôte même tes souliers. Tombe sur ta face: Je veux te parler”. Moïse ne
-pouvait même pas parler. Pour finir il fut un PRISONNIER élu, un PROPHETE élu: exactement
-comme Paul fut élu, lui aussi.
-   Moïse avait été élu comme libérateur et pour finir Dieu fit de Son élu Son prisonnier. Oh, frères!
-Il ne pouvait agir que mû par la Parole de Dieu.
+   — “Alors, pourquoi ne fais-tu pas ton oeuvre? Pourquoi n’essaies-tu pas? Pourquoi ne vas-tu pas avec les autres?”.
+   Mais Moïse est là-bas pour être dépouillé jusqu’à ce qu’il ait fait une expérience avec le buisson ardent qui proclame la Parole: “Je suis le Dieu d’Abraham, d’Isaac et de Jacob, et Je me souviens de Ma promesse; Je viens pour les délivrer et Je t’envoie pour le faire”.
+   Voilà: la Parole et non pas les ambitions ou les désirs du peuple. Que devint Moïse? il ne voulait plus rencontrer les Egyptiens, il ne voulait plus faire face à cela: il était devenu prisonnier! Amen!
+   Il dut passer par toutes ces années de dépouillement mais ensuite il devint un prisonnier devant le buisson ardent, ce grand Moïse avec toute son intelligence! La Bible dit qu’en Egypte Moïse était puissant en actions et en paroles.
+   Mais voyez ce que fit ce grand théologien en présence du buisson ardent. Il confessa simplement son incapacité. Quand il saisit la véritable intention de Dieu il confessa qu’il était incapable de l’accomplir, malgré qu’il ait reçu tout l’enseignement théologique que l’on ait pu lui donner. Il avait étudié dans leurs meilleures écoles, mais voilà que devant la colonne de feu qui se tenait dans le buisson ardent il ne put que dire: “Je ne sais même pas parler”.
+   Il dit: “Seigneur, qui suis-je pour que Tu m’envoies?” — “Ote tes souliers, Moïse, Je veux te parler. Prosterne-toi; ôte même tes souliers. Tombe sur ta face: Je veux te parler”. Moïse ne pouvait même pas parler. Pour finir il fut un PRISONNIER élu, un PROPHETE élu: exactement comme Paul fut élu, lui aussi.
+   Moïse avait été élu comme libérateur et pour finir Dieu fit de Son élu Son prisonnier. Oh, frères! Il ne pouvait agir que mû par la Parole de Dieu.
    — “Qui dirai-je qui m’a envoyé?”.
    — “JE SUIS”.
    — “Comment ferai-je? ”.
    — “Je serai avec toi”.
    — “Oui, Seigneur. Comme Tu veux. Me voici”.
    Voilà, il est prisonnier. Il va à l’encontre de ce qu’il pensait être le meilleur.
-   Il avait été initié au commandement d’une armée — à droite, droite! — chars bien rangés,
-lances en avant… C’est ainsi qu’il allait vaincre, c’est ce qu’on lui avait appris. Mais il dit:
-“Qu’est-ce que je vais utiliser?”.
+   Il avait été initié au commandement d’une armée — à droite, droite! — chars bien rangés, lances en avant… C’est ainsi qu’il allait vaincre, c’est ce qu’on lui avait appris. Mais il dit: “Qu’est-ce que je vais utiliser?”.
    Dieu lui dit: “Que tiens-tu dans ta main?”.
-   Un bâton! Dieu agit parfois d’une manière tellement ridicule selon la pensée humaine! Moïse
-avait un bâton à la main, une longue barbe pendante; il était âgé de quatre-vingts ans. Sa femme,
-assise sur une mule, tenait un enfant sur sa hanche. Il s’appuyait de ses vieux bras décharnés sur
-son bâton mais il gardait la tête haute parce qu’il avait malgré tout le AINSI DIT LE SEIGNEUR: il
-avait enfin fixé son ancre. Il était prisonnier!
+   Un bâton! Dieu agit parfois d’une manière tellement ridicule selon la pensée humaine! Moïse avait un bâton à la main, une longue barbe pendante; il était âgé de quatre-vingts ans. Sa femme, assise sur une mule, tenait un enfant sur sa hanche. Il s’appuyait de ses vieux bras décharnés sur son bâton mais il gardait la tête haute parce qu’il avait malgré tout le AINSI DIT LE SEIGNEUR: il avait enfin fixé son ancre. Il était prisonnier!
    — “Je n’avance que quand la Parole avance. Je ne parle que quand la Parole parle”.
    — “Où vas-tu? ”.
-   — “J’ai un ordre de mission: je dois aller devant Pharaon lui montrer avec ce bâton que c’est
-Dieu qui m’a envoyé”.
+   — “J’ai un ordre de mission: je dois aller devant Pharaon lui montrer avec ce bâton que c’est Dieu qui m’a envoyé”.
    — “Que vas-tu faire ensuite? ”.
    — “Dieu me montrera la suite quand j’aurai fait cela”.
 
         http://www.cmpp.ch
 
 PAUL, PRISONNIER DE CHRIST 14
-   Voilà! Je n’ai qu’une chose à faire. La première est de m’abandonner, de devenir un prisonnier.
-Ne pensez plus à vous ni à rien d’autre. Devenez un prisonnier.
-   Moïse devint un prisonnier. Il avoua qu’il ne pouvait pas même parler. Finalement Dieu l’eut
-bien en main, au point qu’il ne pouvait avancer sans que Dieu le pousse. Dieu lui donna la Parole.
-Moïse savait que c’était la Parole. Il se soumit à la Parole et le Saint-Esprit, Dieu, attela Moïse à la
-volonté de Dieu.
-   C’est exactement ce qu’Il fit avec Paul. Le savez-vous? Il attela Paul, ce petit Juif sarcastique
-au nez crochu. Paul était couvert de diplômes, mais Dieu dit: “Je vais lui montrer ce qu’il va souffrir
-pour la Parole”.
-   Paul, assis là-bas, vit la Parole et vit qu’Elle était Jésus. Alors il leva les mains et fut attelé à Lui.
-L’amour de Dieu l’attela à la Parole. “Il portera Mon Nom devant les nations”. Il y alla.
-   — “Moïse, Je suis le Dieu de tes pères. Je suis le Dieu d’Abraham, d’Isaac et de Jacob. Je me
-souviens de Ma promesse et le moment de son accomplissement est proche. J’ai vu les
-souffrances de Mon peuple! Je me souviens de ma promesse et Je suis venu t’atteler”.
-   Dieu dit: “Tu sais ce que dit la Parole. Je t’ai appelé pour aller là-bas. Je t’ai attelé avec le
-pouvoir d’aller là-bas et de délivrer Mon peuple. Prends ce bâton dans ta main comme témoignage
-car tu as vu un miracle accompli par son moyen, comme David avec sa fronde”.
-   Moïse s’attela et alla. Dieu avait enfin un homme qui lui était soumis, lié à lui et qui ne pouvait
-agir que mû par la Parole de Dieu. Si seulement les hommes faisaient de même aujourd’hui!
-   Le voilà Son prisonnier, un prisonnier de l’amour. Attaché à Dieu par un joug d’amour. Comme
-Paul qui était lui aussi attaché à Dieu par un joug d’amour. Tous deux avaient été instruits de la
-même manière, Moïse pour délivrer le peuple par la puissance militaire, Paul pour le libérer de la
-main des Romains par une grande force ecclésiastique dans le monde d’alors. Il sortait d’une
-grande école, celle de Gamaliel. Puis tous deux allèrent dans le désert et lorsqu’ils en revinrent, ils
-étaient des hommes différents.
-   Tous deux virent la colonne de feu et tous deux étaient prophètes. N’est-ce pas vrai? Les deux
-étaient prophètes et la colonne de feu leur parla aux deux. C’est l’exacte vérité. Ils étaient venus
-pour apporter la délivrance. C’est vrai. Ils passèrent par le désert. Ils quittèrent leur foyer et
-allèrent au désert pour découvrir… ils quittèrent leur peuple et tout pour trouver la volonté de Dieu.
-   Ils avaient été instruits d’une certaine manière. Dieu changea cela et les instruisit d’une autre
-manière. Ils étaient devenus totalement prisonniers, de sorte qu’ils n’agissaient plus comme ils le
-voulaient, mais comme Dieu le voulait. Il est le même hier, aujourd’hui et éternellement.
-   Avons-nous encore une dizaine de minutes? Je vais rapidement examiner un autre
-personnage. J’en vois un devant moi: son nom est Joseph. C’était un fils élu. Il est un type parfait
-de Jésus-Christ. Il était né prophète. Jésus aussi est prophète. Il avait des visions et tout enfant il
-se vit assis sur un trône, ses frères se prosternant devant lui.
-   Mais attention. Il sentait confusément qu’il était un grand personnage. Et que dut faire Dieu? Il
-agit avec lui comme avec les autres, car Moïse était un libérateur: Paul aussi était un libérateur; et
-maintenant Joseph lui aussi fut un libérateur. Il sauva son peuple de la famine. Comment Dieu
-dut-Il agir avec lui? Il le mit en prison, tout droit en prison!
-   C’est ainsi. Rappelez-vous qu’il fut vendu par ses frères à un Egyptien qui le revendit à
-Potiphar. Celui-ci lui donna un peu de liberté, mais c’est la première chose qui lui fut enlevée. Et le
-voilà en prison, pleurant, pleurant! Dieu devait le dépouiller.
-   Mais remarquez ceci. Pendant tout le temps qu’il fut en prison il put se souvenir de la vision qu’il
-avait eue de lui-même assis sur un trône et de ses frères se prosternant devant lui, parce qu’il
-savait que cela arriverait, que son don venait de Dieu et qu’il savait que cela devrait s’accomplir.
-   Si nous pouvions seulement nous souvenir de ceci: que selon la Parole de Dieu, dans ces
-derniers jours Dieu va Se constituer une Eglise, un peuple, et que les choses qu’Il a promises, Il va
-les accomplir. Il a dit qu’Il le ferait et nous vivons dans le temps avec la Parole. Il S’efforce
-seulement de faire de nous de vrais prisonniers enchaînés à Lui.
-   Connaissez-vous ce vieux cantique que nous chantions: «Et maintenant, je suis enfermé avec
-Dieu, je veux être enfermé avec Dieu»? Quand je pense à cela: «Enfermé avec Dieu»… il n’est
-besoin de rien d’autre. Vous ne pouvez avancer que quand Dieu dit d’avancer. Vous ne pouvez
-faire que ce que Dieu vous dit de faire. Alors vous êtes enfermé avec Dieu.
+   Voilà! Je n’ai qu’une chose à faire. La première est de m’abandonner, de devenir un prisonnier. Ne pensez plus à vous ni à rien d’autre. Devenez un prisonnier.
+   Moïse devint un prisonnier. Il avoua qu’il ne pouvait pas même parler. Finalement Dieu l’eut bien en main, au point qu’il ne pouvait avancer sans que Dieu le pousse. Dieu lui donna la Parole. Moïse savait que c’était la Parole. Il se soumit à la Parole et le Saint-Esprit, Dieu, attela Moïse à la volonté de Dieu.
+   C’est exactement ce qu’Il fit avec Paul. Le savez-vous? Il attela Paul, ce petit Juif sarcastique au nez crochu. Paul était couvert de diplômes, mais Dieu dit: “Je vais lui montrer ce qu’il va souffrir pour la Parole”.
+   Paul, assis là-bas, vit la Parole et vit qu’Elle était Jésus. Alors il leva les mains et fut attelé à Lui. L’amour de Dieu l’attela à la Parole. “Il portera Mon Nom devant les nations”. Il y alla.
+   — “Moïse, Je suis le Dieu de tes pères. Je suis le Dieu d’Abraham, d’Isaac et de Jacob. Je me souviens de Ma promesse et le moment de son accomplissement est proche. J’ai vu les souffrances de Mon peuple! Je me souviens de ma promesse et Je suis venu t’atteler”.
+   Dieu dit: “Tu sais ce que dit la Parole. Je t’ai appelé pour aller là-bas. Je t’ai attelé avec le pouvoir d’aller là-bas et de délivrer Mon peuple. Prends ce bâton dans ta main comme témoignage car tu as vu un miracle accompli par son moyen, comme David avec sa fronde”.
+   Moïse s’attela et alla. Dieu avait enfin un homme qui lui était soumis, lié à lui et qui ne pouvait agir que mû par la Parole de Dieu. Si seulement les hommes faisaient de même aujourd’hui!
+   Le voilà Son prisonnier, un prisonnier de l’amour. Attaché à Dieu par un joug d’amour. Comme Paul qui était lui aussi attaché à Dieu par un joug d’amour. Tous deux avaient été instruits de la même manière, Moïse pour délivrer le peuple par la puissance militaire, Paul pour le libérer de la main des Romains par une grande force ecclésiastique dans le monde d’alors. Il sortait d’une grande école, celle de Gamaliel. Puis tous deux allèrent dans le désert et lorsqu’ils en revinrent, ils étaient des hommes différents.
+   Tous deux virent la colonne de feu et tous deux étaient prophètes. N’est-ce pas vrai? Les deux étaient prophètes et la colonne de feu leur parla aux deux. C’est l’exacte vérité. Ils étaient venus pour apporter la délivrance. C’est vrai. Ils passèrent par le désert. Ils quittèrent leur foyer et allèrent au désert pour découvrir… ils quittèrent leur peuple et tout pour trouver la volonté de Dieu.
+   Ils avaient été instruits d’une certaine manière. Dieu changea cela et les instruisit d’une autre manière. Ils étaient devenus totalement prisonniers, de sorte qu’ils n’agissaient plus comme ils le voulaient, mais comme Dieu le voulait. Il est le même hier, aujourd’hui et éternellement.
+   Avons-nous encore une dizaine de minutes? Je vais rapidement examiner un autre personnage. J’en vois un devant moi: son nom est Joseph. C’était un fils élu. Il est un type parfait de Jésus-Christ. Il était né prophète. Jésus aussi est prophète. Il avait des visions et tout enfant il se vit assis sur un trône, ses frères se prosternant devant lui.
+   Mais attention. Il sentait confusément qu’il était un grand personnage. Et que dut faire Dieu? Il agit avec lui comme avec les autres, car Moïse était un libérateur: Paul aussi était un libérateur; et maintenant Joseph lui aussi fut un libérateur. Il sauva son peuple de la famine. Comment Dieu dut-Il agir avec lui? Il le mit en prison, tout droit en prison!
+   C’est ainsi. Rappelez-vous qu’il fut vendu par ses frères à un Egyptien qui le revendit à Potiphar. Celui-ci lui donna un peu de liberté, mais c’est la première chose qui lui fut enlevée. Et le voilà en prison, pleurant, pleurant! Dieu devait le dépouiller.
+   Mais remarquez ceci. Pendant tout le temps qu’il fut en prison il put se souvenir de la vision qu’il avait eue de lui-même assis sur un trône et de ses frères se prosternant devant lui, parce qu’il savait que cela arriverait, que son don venait de Dieu et qu’il savait que cela devrait s’accomplir.
+   Si nous pouvions seulement nous souvenir de ceci: que selon la Parole de Dieu, dans ces derniers jours Dieu va Se constituer une Eglise, un peuple, et que les choses qu’Il a promises, Il va les accomplir. Il a dit qu’Il le ferait et nous vivons dans le temps avec la Parole. Il S’efforce seulement de faire de nous de vrais prisonniers enchaînés à Lui.
+   Connaissez-vous ce vieux cantique que nous chantions: «Et maintenant, je suis enfermé avec Dieu, je veux être enfermé avec Dieu»? Quand je pense à cela: «Enfermé avec Dieu»… il n’est besoin de rien d’autre. Vous ne pouvez avancer que quand Dieu dit d’avancer. Vous ne pouvez faire que ce que Dieu vous dit de faire. Alors vous êtes enfermé avec Dieu.
 
         http://www.cmpp.ch
 
 PAUL, PRISONNIER DE CHRIST 15
-   Considérez ceci: Joseph réfléchissait. Il était un raté. Tout ce qu’il savait, tout ce qu’il avait
-compris, tout était raté. Rien n’allait plus. Il en était arrivé au point où personne ne voulait plus
-l’écouter. Il était prisonnier.
-   Il avait été mis dans une situation où les incrédules n’auraient pas cru. Vous voyez ce que je
-veux dire? Son ministère était réduit à néant, les gens détournaient la tête. Ils ne lui prêtaient
-aucune attention dans sa prison. A quoi pouvait bien servir son ministère? Peut-être qu’il aurait pu
-prêcher dans la rue à travers les barreaux de sa prison, vous comprenez? Mais les gens auraient
-passé sans s’arrêter. Vous voyez? Il était devenu un prisonnier. Dieu l’avait fait prisonnier jusqu’à
-ce que la roue soit sortie de l’ornière.
-   Vous avez remarqué que Paul, lui aussi, fut mis en échec. Finalement Dieu vint à Joseph dans
-sa prison comme pour Paul et pour tous les autres. Il vint vers lui et utilisa le don qu’Il lui avait fait
-pour le faire sortir de là. C’est exact. Il le fit sortir de prison. Aussitôt que Dieu l’eut fait sortir de
-prison, le roi lui donna la puissance. Il fut changé et s’assit à côté de celui auquel il était soumis. A
-sa sortie de prison il reçut une puissance telle que tout ce qu’il disait devait s’accomplir. Amen.
-   Un prisonnier qui se rappelle toujours qu’il est né dans un certain but… il était né pour se tenir
-aux côtés d’un roi et tous devaient fléchir le genou devant lui. Sa vision le lui avait montré. Amen.
-Mais avant que sa vision puisse s’accomplir complètement il fallait qu’il devînt un prisonnier.
-Amen! Alors il devint un chef. Et quand il sortit de prison et devint prisonnier de la Parole de Dieu
-au point de ne pouvoir dire que les Paroles que Dieu mettait dans sa bouche, alors Dieu put agir à
-travers lui!
-   Remarquez que Moïse avait tout pouvoir sur la prison de Pharaon: “Si tu dis à cette montagne:
-ôte-toi de là…”. Il avait tout pouvoir sur la prison de Pharaon. Qu’ils soient diacres, prêtres,
-représentants de l’état ou quoi que ce soit, si Moïse disait: “Je te lie!”, ils étaient liés, un point, c’est
-tout. Il pouvait le faire par un simple ordre de sa bouche et selon son bon plaisir. Amen! Gloire à
-Dieu!
-   Oh, il ne me reste plus que trois minutes si je veux tenir parole. Nous avons vu que Joseph, de
-prisonnier du monde devint prisonnier de Dieu, comme Paul et Moïse. Il passa de l’état de
-prisonnier de ses pensées à celui de prisonnier de Dieu. Et quand il sortit il avait la puissance de
-Dieu.
-   Comme Saul quand il devint Paul, comme Moïse quand il se rendit et se dépouilla de ses
-pensées, Joseph se soumit, fut dépouillé et devint prisonnier de la Parole de Christ. Il ne pouvait
-pas faire un pas si ce n’est… Vous voyez, il regardait l’opprobre de Christ comme un trésor plus
-grand que ceux de l’Egypte en sorte qu’il était prisonnier de Christ comme Paul.
-   Rappelez-vous que tous trois étaient prophètes. Ils avaient dû être dépouillés de leur propre
-manière de penser afin de devenir prisonniers de la volonté et des voies de Dieu. Remarquez que
-Joseph avait le pouvoir de lier ou de délier d’un seul mot. Il pouvait dire: “Je te délie au nom de
-mon roi!”. Amen.
-   Pharaon fit de Joseph son fils. Ses prisonniers de Son amour, Christ les fait Ses fils et leur
-donne une puissance, la même que la Sienne. Jean 14.12: “Celui qui croit en moi (Vous voyez?)
-fera aussi les oeuvres que je fais, et il en fera de plus grandes”.
-   Le prisonnier de l’amour de Christ est revêtu de puissance par son Roi qui est Christ. Amen! “Je
-vous le dis en vérité, si quelqu’un dit à cette montagne: Ote-toi de là et jette-toi dans la mer, et s’il
-ne doute point en son cœur, mais croit que ce qu’il a dit arrive, il le verra s’accomplir”. “Si vous
-demeurez en Moi et que Ma parole demeure en vous…”. Si vous êtes lié à Moi… Parce que Lui et
-la Parole sont un. “Au commencement était la parole, et la parole était avec Dieu… Et la parole a
-été faite chair et elle a habité parmi nous…”. “Jésus-Christ est le même hier, aujourd’hui et
-éternellement”. “Si vous demeurez en MOI (pas ici ou là) et que mes paroles demeurent en vous,
-demandez ce que vous voudrez (ou dites ce que vous voudrez) et cela vous sera accordé”. Il a la
-puissance.
-   Remarquez qu’avant sa libération, Joseph fut conduit dehors et rasé. Il fallait encore raser
-plusieurs choses avant qu’il puisse rencontrer son roi.
-   Oh, quelquefois Dieu conduit Son peuple dehors et rase quelques-unes de ses volontés
-propres. Il lui montre qu’il ne peut pas faire ce qu’il veut. Vous voyez ce que je veux dire? Il n’a pas
-la liberté de faire ce qu’Il veut. Avant de recevoir les pleins pouvoirs et d’être les esclaves d’amour
-de Christ ils doivent d’abord être rasés et ensuite présentés. Parfois Dieu les emmène au désert
+   Considérez ceci: Joseph réfléchissait. Il était un raté. Tout ce qu’il savait, tout ce qu’il avait compris, tout était raté. Rien n’allait plus. Il en était arrivé au point où personne ne voulait plus l’écouter. Il était prisonnier.
+   Il avait été mis dans une situation où les incrédules n’auraient pas cru. Vous voyez ce que je veux dire? Son ministère était réduit à néant, les gens détournaient la tête. Ils ne lui prêtaient aucune attention dans sa prison. A quoi pouvait bien servir son ministère? Peut-être qu’il aurait pu prêcher dans la rue à travers les barreaux de sa prison, vous comprenez? Mais les gens auraient passé sans s’arrêter. Vous voyez? Il était devenu un prisonnier. Dieu l’avait fait prisonnier jusqu’à ce que la roue soit sortie de l’ornière.
+   Vous avez remarqué que Paul, lui aussi, fut mis en échec. Finalement Dieu vint à Joseph dans sa prison comme pour Paul et pour tous les autres. Il vint vers lui et utilisa le don qu’Il lui avait fait pour le faire sortir de là. C’est exact. Il le fit sortir de prison. Aussitôt que Dieu l’eut fait sortir de prison, le roi lui donna la puissance. Il fut changé et s’assit à côté de celui auquel il était soumis. A sa sortie de prison il reçut une puissance telle que tout ce qu’il disait devait s’accomplir. Amen.
+   Un prisonnier qui se rappelle toujours qu’il est né dans un certain but… il était né pour se tenir aux côtés d’un roi et tous devaient fléchir le genou devant lui. Sa vision le lui avait montré. Amen. Mais avant que sa vision puisse s’accomplir complètement il fallait qu’il devînt un prisonnier. Amen! Alors il devint un chef. Et quand il sortit de prison et devint prisonnier de la Parole de Dieu au point de ne pouvoir dire que les Paroles que Dieu mettait dans sa bouche, alors Dieu put agir à travers lui!
+   Remarquez que Moïse avait tout pouvoir sur la prison de Pharaon: “Si tu dis à cette montagne: ôte-toi de là…”. Il avait tout pouvoir sur la prison de Pharaon. Qu’ils soient diacres, prêtres, représentants de l’état ou quoi que ce soit, si Moïse disait: “Je te lie!”, ils étaient liés, un point, c’est tout. Il pouvait le faire par un simple ordre de sa bouche et selon son bon plaisir. Amen! Gloire à Dieu!
+   Oh, il ne me reste plus que trois minutes si je veux tenir parole. Nous avons vu que Joseph, de prisonnier du monde devint prisonnier de Dieu, comme Paul et Moïse. Il passa de l’état de prisonnier de ses pensées à celui de prisonnier de Dieu. Et quand il sortit il avait la puissance de Dieu.
+   Comme Saul quand il devint Paul, comme Moïse quand il se rendit et se dépouilla de ses pensées, Joseph se soumit, fut dépouillé et devint prisonnier de la Parole de Christ. Il ne pouvait pas faire un pas si ce n’est… Vous voyez, il regardait l’opprobre de Christ comme un trésor plus grand que ceux de l’Egypte en sorte qu’il était prisonnier de Christ comme Paul.
+   Rappelez-vous que tous trois étaient prophètes. Ils avaient dû être dépouillés de leur propre manière de penser afin de devenir prisonniers de la volonté et des voies de Dieu. Remarquez que Joseph avait le pouvoir de lier ou de délier d’un seul mot. Il pouvait dire: “Je te délie au nom de mon roi!”. Amen.
+   Pharaon fit de Joseph son fils. Ses prisonniers de Son amour, Christ les fait Ses fils et leur donne une puissance, la même que la Sienne. Jean 14.12: “Celui qui croit en moi (Vous voyez?) fera aussi les oeuvres que je fais, et il en fera de plus grandes”.
+   Le prisonnier de l’amour de Christ est revêtu de puissance par son Roi qui est Christ. Amen! “Je vous le dis en vérité, si quelqu’un dit à cette montagne: Ote-toi de là et jette-toi dans la mer, et s’il ne doute point en son cœur, mais croit que ce qu’il a dit arrive, il le verra s’accomplir”. “Si vous demeurez en Moi et que Ma parole demeure en vous…”. Si vous êtes lié à Moi… Parce que Lui et la Parole sont un. “Au commencement était la parole, et la parole était avec Dieu… Et la parole a été faite chair et elle a habité parmi nous…”. “Jésus-Christ est le même hier, aujourd’hui et éternellement”. “Si vous demeurez en MOI (pas ici ou là) et que mes paroles demeurent en vous, demandez ce que vous voudrez (ou dites ce que vous voudrez) et cela vous sera accordé”. Il a la puissance.
+   Remarquez qu’avant sa libération, Joseph fut conduit dehors et rasé. Il fallait encore raser plusieurs choses avant qu’il puisse rencontrer son roi.
+   Oh, quelquefois Dieu conduit Son peuple dehors et rase quelques-unes de ses volontés propres. Il lui montre qu’il ne peut pas faire ce qu’il veut. Vous voyez ce que je veux dire? Il n’a pas la liberté de faire ce qu’Il veut. Avant de recevoir les pleins pouvoirs et d’être les esclaves d’amour de Christ ils doivent d’abord être rasés et ensuite présentés. Parfois Dieu les emmène au désert
 
         http://www.cmpp.ch
 
     PAUL, PRISONNIER DE CHRIST    16
-pour les raser, puis les fait sortir (les oints) pour accomplir le dessein auquel Il les a destinés.
-Comprenez-vous ce que je veux dire? Frères, nous sommes au temps de la fin!
-   Rappelez-vous ce qu’Il a fait toutes les autres fois. Il a toujours dû prendre l’homme et en faire
-Son prisonnier, lui faire abandonner ce qui venait de lui. Il devait abandonner tout ce qu’il savait,
-oublier toute son instruction, tout, de manière à connaître la volonté de Dieu et à suivre Dieu.
-L’homme ne peut pas suivre ses propres voies et Dieu en même temps. Ces deux choses sont
-trop contraires l’une à l’autre.
-   Vous ne pouvez aller en même temps à l’est et à l’ouest. Vous ne pouvez aller en même temps
-à droite et à gauche. Vous ne pouvez faire à la fois ce qui est juste et ce qui est faux. Vous ne
-pouvez suivre Dieu et un homme en même temps. Certainement pas! Ou vous suivez Dieu, ou
-vous suivez l’homme.
-   Ainsi donc, si vous suivez Dieu et que vous êtes soumis à Dieu, vous devenez le prisonnier de
-ce Dieu, de cette Parole, de cette volonté. Quoi que quelqu’un d’autre dise, vous êtes prisonnier
-de cela.
-   Ecoutez, car nous sommes à la fin des temps et je voudrais dire ceci avec crainte et respect
-pendant que s’écoulent les dernières minutes: à mon avis, ce que Dieu veut faire, doit faire et fera
-en ces derniers jours, c’est trouver un outil pour la moisson. Il doit trouver un fléau pour battre le
-grain.
-   Tout fermier quand il va faire la moisson doit avoir un outil. C’est certain. Il doit avoir une faucille
-aiguisée ou quelque chose, un outil ou un autre pour battre le grain. Et la moisson est mûre!
-   Oh Dieu, prends-moi dans Tes mains. Fais de nous des esclaves de Ton amour. Utilise-nous
-sur cette terre de péché, terre maudite sur laquelle nous vivons aujourd’hui comme des
-instruments destinés à lui manifester que Jésus est le même hier, aujourd’hui et éternellement.
-   En ce qui me concerne, oh Dieu, fais de moi un prisonnier. Même si tous mes frères me
-rejettent; même si tous mes amis me rejettent, je veux être un prisonnier de Jésus-Christ et de Sa
-Parole, afin d’être attelé à Sa Parole par le Saint-Esprit pour voir le Saint-Esprit confirmer la Parole
-de Dieu par les choses mêmes qu’Il a dit qui seraient faites. Je veux être un prisonnier de
-Jésus-Christ. Prions.
-   Je me demande ce soir, tandis que nos têtes sont inclinées, si cette ambition que nous avons
-d’être quelque chose d’autre, ou peut-être quelque chose que nous pouvons considérer comme
-égoïste, je me demande si nous ne pourrions pas abandonner cela?
-   Je me demande si un jeune garçon ici ce soir qui en regardant autour de lui se dit: «Quand je
-serai grand, je veux être telle et telle chose»… je me demande si vous ne pourriez pas sentir la
-volonté de Dieu entrer dans votre vie et dire: «Non, non, j’ai perdu mes ambitions maintenant. Ces
-derniers jours le Saint-Esprit m’a parlé. Je veux m’abandonner à Dieu et devenir un fléau pour
-battre le grain de ce dernier jour».
-   Jeune fille qui avez peut-être l’ambition de devenir un jour une belle dame ou une grande
-beauté, ou peut-être même de faire une carrière à Hollywood, je me demande si vous ne voudriez
-pas abandonner vos ambitions en présence de Dieu et de Sa Parole et entendre l’appel de Dieu
-dans votre propre vie. Dieu sait qui vous êtes.
-   Je me demande s’il y a ici un pasteur, un serviteur ou quelqu’un qui travaille dans l’église (je ne
-viens ici que de temps en temps et je ne connais pas le tiers des gens qui sont ici ce soir, je n’en
-connais qu’une poignée), mais je me demande s’il se trouverait ici une personne qui serait
-d’accord de dire: «Peu importe ce qu’on dit. Maintenant je suis l’esclave de Dieu. Je prêcherai Sa
-Parole envers et contre tout. Tant pis si mon organisation me met dehors, je resterai avec cette
-Parole. C’est ce que je vais faire. Ma volonté est la volonté de Dieu. Je vais être un prisonnier de
-Jésus-Christ. Par Sa grâce et avec Son aide je le ferai». Pensez à cela pendant que nous
-demeurons la tête inclinée.
-   Combien ont cette ambition ce soir? Veuillez lever la main. Je lève aussi la mienne:
-j’abandonne tout. La tête inclinée, chantons lentement pendant que vous y pensez et que vous
-priez:
+pour les raser, puis les fait sortir (les oints) pour accomplir le dessein auquel Il les a destinés. Comprenez-vous ce que je veux dire? Frères, nous sommes au temps de la fin!
+   Rappelez-vous ce qu’Il a fait toutes les autres fois. Il a toujours dû prendre l’homme et en faire Son prisonnier, lui faire abandonner ce qui venait de lui. Il devait abandonner tout ce qu’il savait, oublier toute son instruction, tout, de manière à connaître la volonté de Dieu et à suivre Dieu. L’homme ne peut pas suivre ses propres voies et Dieu en même temps. Ces deux choses sont trop contraires l’une à l’autre.
+   Vous ne pouvez aller en même temps à l’est et à l’ouest. Vous ne pouvez aller en même temps à droite et à gauche. Vous ne pouvez faire à la fois ce qui est juste et ce qui est faux. Vous ne pouvez suivre Dieu et un homme en même temps. Certainement pas! Ou vous suivez Dieu, ou vous suivez l’homme.
+   Ainsi donc, si vous suivez Dieu et que vous êtes soumis à Dieu, vous devenez le prisonnier de ce Dieu, de cette Parole, de cette volonté. Quoi que quelqu’un d’autre dise, vous êtes prisonnier de cela.
+   Ecoutez, car nous sommes à la fin des temps et je voudrais dire ceci avec crainte et respect pendant que s’écoulent les dernières minutes: à mon avis, ce que Dieu veut faire, doit faire et fera en ces derniers jours, c’est trouver un outil pour la moisson. Il doit trouver un fléau pour battre le grain.
+   Tout fermier quand il va faire la moisson doit avoir un outil. C’est certain. Il doit avoir une faucille aiguisée ou quelque chose, un outil ou un autre pour battre le grain. Et la moisson est mûre!
+   Oh Dieu, prends-moi dans Tes mains. Fais de nous des esclaves de Ton amour. Utilise-nous sur cette terre de péché, terre maudite sur laquelle nous vivons aujourd’hui comme des instruments destinés à lui manifester que Jésus est le même hier, aujourd’hui et éternellement.
+   En ce qui me concerne, oh Dieu, fais de moi un prisonnier. Même si tous mes frères me rejettent; même si tous mes amis me rejettent, je veux être un prisonnier de Jésus-Christ et de Sa Parole, afin d’être attelé à Sa Parole par le Saint-Esprit pour voir le Saint-Esprit confirmer la Parole de Dieu par les choses mêmes qu’Il a dit qui seraient faites. Je veux être un prisonnier de Jésus-Christ. Prions.
+   Je me demande ce soir, tandis que nos têtes sont inclinées, si cette ambition que nous avons d’être quelque chose d’autre, ou peut-être quelque chose que nous pouvons considérer comme égoïste, je me demande si nous ne pourrions pas abandonner cela?
+   Je me demande si un jeune garçon ici ce soir qui en regardant autour de lui se dit: «Quand je serai grand, je veux être telle et telle chose»… je me demande si vous ne pourriez pas sentir la volonté de Dieu entrer dans votre vie et dire: «Non, non, j’ai perdu mes ambitions maintenant. Ces derniers jours le Saint-Esprit m’a parlé. Je veux m’abandonner à Dieu et devenir un fléau pour battre le grain de ce dernier jour».
+   Jeune fille qui avez peut-être l’ambition de devenir un jour une belle dame ou une grande beauté, ou peut-être même de faire une carrière à Hollywood, je me demande si vous ne voudriez pas abandonner vos ambitions en présence de Dieu et de Sa Parole et entendre l’appel de Dieu dans votre propre vie. Dieu sait qui vous êtes.
+   Je me demande s’il y a ici un pasteur, un serviteur ou quelqu’un qui travaille dans l’église (je ne viens ici que de temps en temps et je ne connais pas le tiers des gens qui sont ici ce soir, je n’en connais qu’une poignée), mais je me demande s’il se trouverait ici une personne qui serait d’accord de dire: «Peu importe ce qu’on dit. Maintenant je suis l’esclave de Dieu. Je prêcherai Sa Parole envers et contre tout. Tant pis si mon organisation me met dehors, je resterai avec cette Parole. C’est ce que je vais faire. Ma volonté est la volonté de Dieu. Je vais être un prisonnier de Jésus-Christ. Par Sa grâce et avec Son aide je le ferai». Pensez à cela pendant que nous demeurons la tête inclinée.
+   Combien ont cette ambition ce soir? Veuillez lever la main. Je lève aussi la mienne: j’abandonne tout. La tête inclinée, chantons lentement pendant que vous y pensez et que vous priez:
        J’abandonne tout
        J’abandonne tout
        Tout à Toi, mon Sauveur béni,
@@ -905,55 +284,15 @@ priez:
 PAUL, PRISONNIER DE CHRIST 17
        J’abandonne tout
        J’abandonne tout.
-   Pensez-vous cela sérieusement? Je veux être un prisonnier. Prends-moi, Seigneur.
-Conduis-moi ce soir dans la maison du potier, brise-moi et pétris-moi à nouveau.
-   Père céleste, tandis que le cantique continue, je trouve plus profitable de cesser de chanter et
-de Te parler un petit moment. Pendant que les gens pensent «J’abandonne tout», Père,
-puissions-nous le faire comme si c’était notre dernière occasion. Venons avec sincérité. Venons à
-la table du Seigneur avec des vêtements lavés, des âmes lavées, des volontés lavées, des
-ambitions lavées, pour nous abandonner et laisser Dieu prendre Sa Parole et nous lier ensemble
-sous Son joug avec Lui, avec la Parole de Dieu. Et que le Saint-Esprit S’empare de nous
-maintenant tandis que nous sentons le joug se resserrer autour de notre coeur à partir de ce soir.
-Je Te prends au mot. — «Maintenant ne pense plus tes propres pensées: pense Mes pensées.
-Pense Ma volonté. Je te conduirai».
-   Mon Dieu, fais que ce soit l’expérience de chacun de nous. Ces jeunes, mari et femme, ainsi
-que quelques autres qui sont fiancés. Il y a des hommes plus âgés ici qui sont des prédicateurs. Ils
-sont déjà sur la route. Seigneur, voici frère Neville et moi qui sommes déjà montés bien haut sur
-l’échelle. Nos jours sont comptés maintenant. Nos pas sont devenus plus prudents qu’autrefois.
-Nous regardons où nous marchons; notre pied n’est plus si sûr qu’autrefois physiquement parlant.
-Mais Seigneur, alors que nous voyons cette vie tirer à sa fin, nous nous rendons compte que
-personne n’a une marche sûre si Tu ne le tiens pas par la main.
-   Maintenant Seigneur, prends-nous, veux-Tu? Prends notre coeur et notre volonté dans Ta main
-et que ce soir nous devenions des prisonniers de la Parole, des prisonniers de Christ. Que nous
-puissions vivre ici une vie pieuse. Puissent ces femmes, ces jeunes femmes, ces jeunes gens, ces
-garçons et ces filles abandonner leur vie, Seigneur, et que leurs ambitions deviennent l’ambition
-de servir Jésus-Christ. Puissions-nous devenir prisonniers de Sa grâce et de Sa volonté divine.
-Exauce-nous, Seigneur.
-   C’est tout ce que je sais faire, Seigneur. Ce sont de pauvres paroles maladroites et je compte
-sur Toi pour les mettre à leur place. Il fait si chaud ici! Les gens voudraient écouter, mais il fait
-vraiment chaud et beaucoup doivent rentrer chez eux pour partir au travail de bonne heure. Mais
-puisse cette semence pénétrer dans leur coeur: des prisonniers.
-   Rentrez à la maison et dites à votre femme… avant de vous mettre à prier cet après-midi ou ce
-soir, en vous agenouillant près du lit… Echangez un regard et dites: «Chérie, que penses-tu de ce
-que nous avons entendu ce soir? Sommes-nous vraiment devenus prisonniers de Christ et de Sa
-volonté ou agissons-nous toujours selon notre propre volonté?».
-   Puissent les jeunes hommes et les jeunes femmes de partout, spécialement ceux qui ont
-entendu le message de ce soir, se poser la même question: «Est-ce que je désire devenir un
-prisonnier, abandonnant ma propre vie?». — “Celui qui voudra sauver sa vie la perdra, mais celui
-qui la perdra à cause de moi la trouvera”.
-   Père, nous savons que cela signifie devenir Ton prisonnier. Délie-nous de nos ambitions
-personnelles et de nos désirs personnels pour découvrir les Tiens. Nous aurons alors la Vie
-éternelle. Accorde-le nous, Seigneur.
-   La seule chose que je puisse faire est de tout remettre entre Tes mains. Que cela fructifie et
-produise de glorieux outils pour la moisson du dernier jour. Que des hommes et des femmes, des
-garçons et des filles s’abandonnent à l’entière volonté de Dieu et deviennent des prisonniers de
-Jésus-Christ dans Son amour. Qu’ils soient liés dans les liens de l’amour divin en Christ. C’est en
-Son Nom que nous le demandons. (Levons-nous).
-   Maintenant courbons la tête et avant de chanter le cantique final «Prends le Nom de Jésus
-avec toi» je vais demander à ce frère ici… j’ai oublié son nom. La soeur qui a été guérie a rendu
-témoignage au sujet de cette vision de ténèbres qui était venue sur elle. Et rappelez-vous qu’en se
-retournant elle a vu que le voile avait disparu. C’est sa foi qui a fait cela. Voulez-vous clore cette
-réunion dans la prière, frère, et demander la bénédiction de Dieu sur nous?
-
+   Pensez-vous cela sérieusement? Je veux être un prisonnier. Prends-moi, Seigneur. Conduis-moi ce soir dans la maison du potier, brise-moi et pétris-moi à nouveau.
+   Père céleste, tandis que le cantique continue, je trouve plus profitable de cesser de chanter et de Te parler un petit moment. Pendant que les gens pensent «J’abandonne tout», Père, puissions-nous le faire comme si c’était notre dernière occasion. Venons avec sincérité. Venons à la table du Seigneur avec des vêtements lavés, des âmes lavées, des volontés lavées, des ambitions lavées, pour nous abandonner et laisser Dieu prendre Sa Parole et nous lier ensemble sous Son joug avec Lui, avec la Parole de Dieu. Et que le Saint-Esprit S’empare de nous maintenant tandis que nous sentons le joug se resserrer autour de notre coeur à partir de ce soir. Je Te prends au mot. — «Maintenant ne pense plus tes propres pensées: pense Mes pensées. Pense Ma volonté. Je te conduirai».
+   Mon Dieu, fais que ce soit l’expérience de chacun de nous. Ces jeunes, mari et femme, ainsi que quelques autres qui sont fiancés. Il y a des hommes plus âgés ici qui sont des prédicateurs. Ils sont déjà sur la route. Seigneur, voici frère Neville et moi qui sommes déjà montés bien haut sur l’échelle. Nos jours sont comptés maintenant. Nos pas sont devenus plus prudents qu’autrefois. Nous regardons où nous marchons; notre pied n’est plus si sûr qu’autrefois physiquement parlant. Mais Seigneur, alors que nous voyons cette vie tirer à sa fin, nous nous rendons compte que personne n’a une marche sûre si Tu ne le tiens pas par la main.
+   Maintenant Seigneur, prends-nous, veux-Tu? Prends notre coeur et notre volonté dans Ta main et que ce soir nous devenions des prisonniers de la Parole, des prisonniers de Christ. Que nous puissions vivre ici une vie pieuse. Puissent ces femmes, ces jeunes femmes, ces jeunes gens, ces garçons et ces filles abandonner leur vie, Seigneur, et que leurs ambitions deviennent l’ambition de servir Jésus-Christ. Puissions-nous devenir prisonniers de Sa grâce et de Sa volonté divine. Exauce-nous, Seigneur.
+   C’est tout ce que je sais faire, Seigneur. Ce sont de pauvres paroles maladroites et je compte sur Toi pour les mettre à leur place. Il fait si chaud ici! Les gens voudraient écouter, mais il fait vraiment chaud et beaucoup doivent rentrer chez eux pour partir au travail de bonne heure. Mais puisse cette semence pénétrer dans leur coeur: des prisonniers.
+   Rentrez à la maison et dites à votre femme… avant de vous mettre à prier cet après-midi ou ce soir, en vous agenouillant près du lit… Echangez un regard et dites: «Chérie, que penses-tu de ce que nous avons entendu ce soir? Sommes-nous vraiment devenus prisonniers de Christ et de Sa volonté ou agissons-nous toujours selon notre propre volonté?».
+   Puissent les jeunes hommes et les jeunes femmes de partout, spécialement ceux qui ont entendu le message de ce soir, se poser la même question: «Est-ce que je désire devenir un prisonnier, abandonnant ma propre vie?». — “Celui qui voudra sauver sa vie la perdra, mais celui qui la perdra à cause de moi la trouvera”.
+   Père, nous savons que cela signifie devenir Ton prisonnier. Délie-nous de nos ambitions personnelles et de nos désirs personnels pour découvrir les Tiens. Nous aurons alors la Vie éternelle. Accorde-le nous, Seigneur.
+   La seule chose que je puisse faire est de tout remettre entre Tes mains. Que cela fructifie et produise de glorieux outils pour la moisson du dernier jour. Que des hommes et des femmes, des garçons et des filles s’abandonnent à l’entière volonté de Dieu et deviennent des prisonniers de Jésus-Christ dans Son amour. Qu’ils soient liés dans les liens de l’amour divin en Christ. C’est en Son Nom que nous le demandons. (Levons-nous).
+   Maintenant courbons la tête et avant de chanter le cantique final «Prends le Nom de Jésus avec toi» je vais demander à ce frère ici… j’ai oublié son nom. La soeur qui a été guérie a rendu témoignage au sujet de cette vision de ténèbres qui était venue sur elle. Et rappelez-vous qu’en se retournant elle a vu que le voile avait disparu. C’est sa foi qui a fait cela. Voulez-vous clore cette réunion dans la prière, frère, et demander la bénédiction de Dieu sur nous?
 
     http://www.cmpp.ch

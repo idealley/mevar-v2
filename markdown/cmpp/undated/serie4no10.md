@@ -1,314 +1,158 @@
-    SERIE 4, N° 10
+---
+source: "cmpp"
+sermon_id: "serie4no10"
+title: "La Demeure Future de l'Epoux Céleste et de l'Epouse Terrestre"
+subtitle: "2 août 1964, matin"
+date: "1964-08-02"
+year: 1964
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham enseigne sur la demeure future de l'Epoux céleste et de l'Epouse terrestre, basé sur 2 Pierre 3 et Apocalypse 21. Il explique que la nouvelle Jérusalem descendra sur une nouvelle terre où la justice habite, et que l'Epouse terrestre vivra avec l'Epoux céleste. Il encourage les croyants à se préparer pour cette demeure éternelle."
+tags:
+  - "demeure future"
+  - "Epoux céleste"
+  - "Epouse terrestre"
+  - "nouvelle terre"
+  - "nouveaux cieux"
+  - "Apocalypse 21"
+  - "2 Pierre 3"
+persons:
+  - "William Marrion Branham"
+  - "Pierre"
+  - "Jean"
+  - "Jésus-Christ"
+  - "Satan"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "U.S.A."
+  - "Tucson"
+  - "Kentucky"
+themes:
+  - "demeure éternelle"
+  - "nouvelle création"
+  - "espérance chrétienne"
+  - "préparation pour l'éternité"
+  - "fidélité de Dieu"
+pdf_url: "http://cmpp.ch/serie4no10.pdf"
+llm_cleaned: true
+bible_refs:
+  - "2 Pierre 3"
+  - "Actes 3"
+  - "Apocalypse 11"
+  - "Apocalypse 2"
+  - "Apocalypse 21"
+  - "Apocalypse 6"
+  - "Genèse 1"
+  - "Genèse 4"
+  - "Hébreux 11"
+  - "Hébreux 4"
+  - "Jean 14"
+  - "Luc 2"
+  - "Malachie 142"
+  - "Malachie 3"
+  - "Matthieu 19"
+  - "Matthieu 5"
+  - "Nombres 173"
+  - "Tite 3"
+  - "Ésaïe 28"
+  - "Ésaïe 4"
+  - "Ésaïe 65"
+  - "Ésaïe 9"
+---
+SERIE 4, N° 10
 
+LA PAROLE PARLEE
+PAR
 
+WILLIAM MARRION BRANHAM
 
-
-    LA PAROLE PARLEE
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
-                    LA DEMEURE FUTURE DE
-                      L’EPOUX CELESTE
-                  ET DE L’EPOUSE TERRESTRE
-(The future home of the Heavenly bridegroom and the earthly
-                           Bride)
-
-
-
-                     2 août 1964, matin
-                     Branham Tabernacle
-              Jeffersonville — Indiana, U.S.A.
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    2
-
-
-  LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE
+LA DEMEURE FUTURE DE L'EPOUX CELESTE ET DE L'EPOUSE TERRESTRE
 (The future home of the Heavenly bridegroom and the earthly Bride)
 
-
-       2 août 1964, matin
-       Branham Tabernacle
+2 août 1964, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+LA DEMEURE FUTURE DE L'EPOUX CELESTE ET DE L'EPOUSE TERRESTRE
 
+(The future home of the Heavenly bridegroom and the earthly Bride)
+
+2 août 1964, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
 1 Restons debout un instant tandis que nous inclinons nos coeurs devant Dieu.
-2 Notre Père céleste, nous sommes vraiment reconnaissants pour le privilège que nous avons
-d’être rassemblés ici aujourd’hui dans le Nom du Seigneur Jésus. Tandis que nous sommes ici pour
-tourner notre attention vers les choses éternelles et vers cette Vie qui se trouve au-delà de
-l’atteinte de la mort, nous Te prions de nous pardonner nos péchés. Nous Te prions de nous
-indiquer Ta direction, la manière dont nous devons nous conduire, ce que nous devons faire dans le
-futur et même dans le présent afin que nous puissions obtenir cette place qui nous a été promise.
-3 Sur cette terre il y a beaucoup de malades et de nécessiteux et ils n’ont pas encore achevé leur
-voyage. Et notre ennemi, notre seul grand ennemi qui est aussi Ton ennemi, est venu les attaquer
-pour arrêter le cours de leur vie et les envoyer prématurément au tombeau. Et aujourd’hui nous Te
-prions pour eux afin que, par Ta bonté et Ta grâce, Seigneur, Tu allonges leurs jours jusqu’au temps
-qui leur est imparti.
-4 On a posé des mouchoirs et autres sur la plate-forme et ici sur le pupitre. Dehors, dans les
-corridors et tout autour de la salle, il y a des malades et des affligés; ils sont étendus sur des lits de
-camp ou des brancards et ils ont tout juste assez de force pour pouvoir se tenir là.
-5 Oh, Eternel, Toi, le Béni, puisses-Tu entendre notre prière ce matin au travers du Sang du
-Seigneur Jésus; non en regardant à notre iniquité mais en sachant qu’Il a pris notre place et qu’Il est
-Celui qui nous représente dans cette prière. Puisse chacun être guéri pour Ta gloire, Seigneur.
-6 Bénis ces mouchoirs; puissent les malades recouvrer la santé lorsqu’on posera ces mouchoirs
-sur eux.
-7 Maintenant, Père, tandis que nous sommes dans l’attente de ce grand service de guérison qui,
-pensons-nous, va suivre, ouvre pour nous le chemin de Vie, Seigneur, afin qu’au travers de Ta
-Parole nous puissions connaître ce que nous devons faire. Car nous Te le demandons au Nom
-de Jésus. Amen.
-8 L’un de mes plus grands privilèges est d’être dans la maison de Dieu et de parler à Son peuple.
-Et maintenant, je sais qu’il y a beaucoup de monde et j’ai un enseignement qui sera vraiment très
-long, mais je crois qu’autant que cela sera possible, vous serez à l’aise tout au long de ce message.
-9 Maintenant, il fait très chaud mais nous sommes reconnaissants pour l’air conditionné. Mais pour
-une si grande assemblée, aucun climatiseur ne pourrait suffire car votre propre corps dégage environ
-37°, il dégage constamment de la chaleur et le fait d’être assis les uns à côté des autres… Mais j’ai
-confiance que le Seigneur vous donnera autant de confort qu’Il le peut.
-10 Je ne vous ferais pas venir ici par tous les moyens si je ne pensais pas que c’est pour vous
-aider, si je ne pensais pas que cela vous fait du bien et que vous allez en tirer profit. Et comme je sais
-que nous n’avons pas beaucoup de temps pour faire cela, et que nous nous approchons toujours plus
-des heures de la fin, je veux, autant que cela m’est possible, que chaque moment compte pour Son
-Royaume.
-11 Et maintenant, j’ai confiance que le Seigneur nous bénira tandis que nous sommes assemblés.
-Et je voulais vous confier qu’hier je suis allé dans différents endroits pour visiter certains des malades
-et des affligés qui se trouvent dans les motels; et cette semaine j’ai rencontré quelques-uns des
+2 Notre Père céleste, nous sommes vraiment reconnaissants pour le privilège que nous avons d'être rassemblés ici aujourd'hui dans le Nom du Seigneur Jésus. Tandis que nous sommes ici pour tourner notre attention vers les choses éternelles et vers cette Vie qui se trouve au-delà de l'atteinte de la mort, nous Te prions de nous pardonner nos péchés. Nous Te prions de nous indiquer Ta direction, la manière dont nous devons nous conduire, ce que nous devons faire dans le futur et même dans le présent afin que nous puissions obtenir cette place qui nous a été promise.
+3 Sur cette terre il y a beaucoup de malades et de nécessiteux et ils n'ont pas encore achevé leur voyage. Et notre ennemi, notre seul grand ennemi qui est aussi Ton ennemi, est venu les attaquer pour arrêter le cours de leur vie et les envoyer prématurément au tombeau. Et aujourd'hui nous Te prions pour eux afin que, par Ta bonté et Ta grâce, Seigneur, Tu allonges leurs jours jusqu'au temps qui leur est imparti.
+4 On a posé des mouchoirs et autres sur la plate-forme et ici sur le pupitre. Dehors, dans les corridors et tout autour de la salle, il y a des malades et des affligés; ils sont étendus sur des lits de camp ou des brancards et ils ont tout juste assez de force pour pouvoir se tenir là.
+5 Oh, Eternel, Toi, le Béni, puisses-Tu entendre notre prière ce matin au travers du Sang du Seigneur Jésus; non en regardant à notre iniquité mais en sachant qu'Il a pris notre place et qu'Il est Celui qui nous représente dans cette prière. Puisse chacun être guéri pour Ta gloire, Seigneur.
+6 Bénis ces mouchoirs; puissent les malades recouvrer la santé lorsqu'on posera ces mouchoirs sur eux.
+7 Maintenant, Père, tandis que nous sommes dans l'attente de ce grand service de guérison qui, pensons-nous, va suivre, ouvre pour nous le chemin de Vie, Seigneur, afin qu'au travers de Ta Parole nous puissions connaître ce que nous devons faire. Car nous Te le demandons au Nom de Jésus. Amen.
+8 L'un de mes plus grands privilèges est d'être dans la maison de Dieu et de parler à Son peuple. Et maintenant, je sais qu'il y a beaucoup de monde et j'ai un enseignement qui sera vraiment très long, mais je crois qu'autant que cela sera possible, vous serez à l'aise tout au long de ce message.
+9 Maintenant, il fait très chaud mais nous sommes reconnaissants pour l'air conditionné. Mais pour une si grande assemblée, aucun climatiseur ne pourrait suffire car votre propre corps dégage environ 37°, il dégage constamment de la chaleur et le fait d'être assis les uns à côté des autres… Mais j'ai confiance que le Seigneur vous donnera autant de confort qu'Il le peut.
+10 Je ne vous ferais pas venir ici par tous les moyens si je ne pensais pas que c'est pour vous aider, si je ne pensais pas que cela vous fait du bien et que vous allez en tirer profit. Et comme je sais que nous n'avons pas beaucoup de temps pour faire cela, et que nous nous approchons toujours plus des heures de la fin, je veux, autant que cela m'est possible, que chaque moment compte pour Son Royaume.
+11 Et maintenant, j'ai confiance que le Seigneur nous bénira tandis que nous sommes assemblés. Et je voulais vous confier qu'hier je suis allé dans différents endroits pour visiter certains des malades et des affligés qui se trouvent dans les motels; et cette semaine j'ai rencontré quelques-uns des directeurs de restaurants. Cette semaine, le suis donc allé au Ranch House là-bas, et lorsque je suis sorti, le directeur m'a serré la main. Il m'a appelé frère Branham. Je me demandais comment il me connaissait.
+12 Et je dis: «Etes-vous le directeur?». Il dit: «Je suis le propriétaire. Oui, vos gens viennent de là-bas pour manger ici». Je dis: «Eh bien, je suppose qu'ils doivent vous envahir». Il dit: «Monsieur, c'est l'un des groupes de gens les plus agréables que j'aie jamais vus. Ils sont vraiment très bien».
+13 Hier, je suis allé dans un motel voir une jeune dame à laquelle je voulais parler (son père et sa mère se trouvaient là) et je dus aller voir le directeur pour savoir dans quelle chambre ils se trouvaient.
+14 Il dit: «Etes-vous frère Branham?» (Cela se passait là-bas au motel Oaks.) Et je dis: «Oui, monsieur». Il dit: «J'aimerais vous serrer la main».
+15 Il me présenta à sa femme. Tous deux formaient un couple très agréable. Ils dirent: «Tout le monde dans ce motel est à votre service. Nous avons réservé le personnel pour cela. Nous avons renvoyé tous nos autres clients». Et je dis: «Eh bien, je vous en remercie».
+16 Il dit: «Frère Branham, ce groupe de gens qui assistent à vos réunions est l'un des plus agréables parmi tous ceux qui viennent ici».
+17 Hier soir, je suis allé chez l'un de mes amis là-bas, c'est M. Becker. J'ai toujours aimé ses sandwiches. Je le connais depuis que je suis enfant; je l'ai toujours connu. Il y avait là un couple assis dans cette vieille salle du River Side Hotel. M. Becker dit: «Billy!».
+18 Je dis: «Qu'y a-t-il, Homer?» (Nous nous connaissons vraiment très bien).
+19 Il dit: «Tous vos gens de là-bas viennent se restaurer ici. Tous les dimanches il y a environ deux cents et quelques personnes qui viennent manger au Blue Boar». Et partout où je vais, je peux entendre tout le bien que l'on dit de vous.
+20 Quelqu'un d'autre a dit: «Là-bas du côté de la Riverview, les gens qui assistent à la réunion occupent toute la place. Il y en a des centaines qui ne pourront pas entrer».
+21 Ainsi, d'après moi, vous êtes le sel de la terre. Je suis tellement reconnaissant de savoir que j'ai le privilège de prêcher à des gens dont même les pécheurs (je ne veux pas dire que ces gens sont des pécheurs, mais je veux parler de ces gens qui sont dans les affaires et autres) peuvent dire qu'ils sont très bien, qu'ils les apprécient dans leurs affaires et là où ils se trouvent. Vous savez, c'est cela "être salé". J'apprécie cela, j'apprécie votre comportement, la manière dont vous prenez soin des choses.
+22 J'ai toujours dit: «S'il y en a un qui entre et qui n'a pas assez d'argent pour payer sa note, appelez-moi simplement». Vous voyez? J'ai dit: «Nous nous arrangerons. Donnez-leur toujours à manger, qu'ils aient de l'argent ou non». Vous voyez. Il faut faire tout ce qui peut être fait.
+23 Je sens que vous êtes mes enfants. Vous êtes les étoiles qui… Si jamais j'en ai une lorsque j'irai là-bas, vous serez cette étoile, ce bijou qui brillera sur la couronne de mon ministère. Lorsqu'il sera couronné, vous serez ce joyau.
+24 Je vous ai autrefois parlé des sept Sceaux, des âges de l'Eglise et de ces choses qui ont eu lieu. Maintenant, ce matin, j'ai un sujet très important. Pour moi, c'est un sujet béni et j'espère qu'il vous marquera de la même manière. Si seulement je pouvais le donner suivant la même inspiration dans laquelle je l'ai reçu, ce serait merveilleux; mais ce sera à Dieu de faire cela.
+25 Je vous ai dit ce qui devait arriver et où cela devait arriver, et nous avons vu toutes ces choses s'accomplir.
+26 Maintenant, ce matin, je parlerai de la demeure future de l'Epoux céleste et de l'Epouse terrestre; je parlerai de l'endroit où ils doivent vivre. Car je crois que, par la grâce de Dieu, nous sommes tous une partie de cette grande dispensation.
+27 Et maintenant, j'ai confiance que vous allez supporter cela avec moi. Préparez vos Bibles, vos crayons et tout ce que vous devez faire pour lire avec moi, car je vais me référer à de nombreux passages de l'Ecriture et j'essayerai d'être suffisamment à l'heure pour avoir du temps pour prier pour les malades. C'est ce que j'ai promis. Il y a un petit moment, nous avons prié dans les salles pour ceux qui sont presque sans aide et sans espérance. Et, Dieu voulant, j'aurai probablement un autre service le 16 pour prier uniquement pour les malades.
+28 Je vais commencer mes vacances maintenant; j'ai été continuellement en voyage depuis le mois de janvier dernier. Aussi j'emmènerai ma famille à Tucson le matin puis je reviendrai passer quelque temps dans le Kentucky avec quelques amis; nous irons à la chasse aux écureuils pendant deux semaines, peut-être dix jours ou davantage, à moins que le Seigneur ne me conduise ailleurs.
+29 Je ne peux jamais savoir où je vais aller; nous ne pouvons jamais le savoir car c'est entre les mains de Dieu, de Dieu seul.
+30 Maintenant si je devais prendre mon temps pour apporter ce sujet, cela prendrait des semaines, car cela concerne beaucoup de choses. Mais j'ai noté quelques passages de l'Ecriture et quelques notes simplement pour relever les grandes lignes et que vous puissiez étudier cela.
+31 Puis j'aimerais avoir, peut-être au mois d'octobre, si le Seigneur le permet (je ne sais pas quand), ou lorsqu'Il le voudra, quelques jours de réunions permanentes sur le douzième chapitre d'Apocalypse pour le relier avec cela. Oh, je crois que ce serait merveilleux. Ce serait tout simplement merveilleux de voir comment Il a fait cela.
+32 Maintenant, comme je l'ai dit hier soir et comme je le pense chaque matin: «Lorsque je serai là-bas, je reconnaîtrai chacun de mes amis qui se trouvent ici». Maintenant, comment pourrai-je faire cela?
+33 Oh, que c'est bon de vous avoir avec moi ici! Mon bon ami, frère Lee Vayle assis là derrière, sa femme si gentille et sa fille, frère Roy Borders et frère Ruddle, je crois, frère Beeler, frère Palmer et frère Jackson, et oh, tous ces chers frères qui viennent de partout! Frère Anthony Milano (oh, partout où vous regardez vous pouvez en voir), ce frère qui vient de l'Arkansas (je ne me souviens pas de son nom), frère John, frère Earl Martin, frère Blair et, oh, cela n'en finit pas, vous voyez. Je suis tellement content d'avoir un groupe comme cela qui se réunit autour de moi lorsque j'enseigne la Parole de Dieu. Je pense que ce sont des hommes braves, de vrais hommes de Dieu.
+34 Je suis reconnaissant pour ce petit tabernacle. Je suis reconnaissant pour ses cinq portes ouvertes au public. Nous avons ici quatre diacres remplis de l'Esprit; nous avons quatre administrateurs remplis de l'Esprit. Il y en a deux à chaque porte. Et il y a une double porte devant pour les deux pasteurs, les bergers. Nous sommes contents de vous avoir. Nous sommes reconnaissants à Dieu pour cela. Puisse-t-Il vous bénir toujours.
+35 Maintenant nous voulons nous tenir debout juste un moment pendant que nous lisons dans 2 Pierre, chapitre 3 et aussi dans Apocalypse 21.
+36 Oh, Seigneur, tandis que nous sommes debout, remplis nos coeurs de joie par la lecture de la Parole, car nous savons que Jésus a dit: “Le ciel et la terre passeront mais ma Parole ne passera pas”. Nous savons aussi qu'Il a dit: “Toute l'Ecriture doit être accomplie”.
+37 Tandis que nous lisons ces choses, puissions-nous avoir une compréhension venant de Toi de l'heure dans laquelle nous vivons. Nous Te le demandons dans le Nom de Jésus, l'Auteur du Livre. Amen.
 
-        http://www.cmpp.ch
+> 2 Pierre 3:
+> “Je vous écris déjà, bien-aimés, cette seconde lettre; et, dans l'une et dans l'autre, je réveille votre pure intelligence en rappelant ces choses à votre mémoire, afin que vous vous souveniez des paroles qui ont été dites à l'avance par les saints prophètes, et du commandement du Seigneur et Sauveur par vos apôtres, sachant tout d'abord ceci, qu'aux derniers jours des moqueurs viendront, marchant dans la moquerie selon leur propre convoitise et disant: où est la promesse de sa venue? (voyez si cela n'est pas en rapport avec cette femme infidèle) car, depuis que les pères se sont endormis, toutes choses demeurent au même état dès le commencement de la création. Car ils ignorent volontairement ceci, que, par la Parole de Dieu, des cieux subsistaient jadis, et une terre tirée des eaux et subsistant au milieu des eaux, par lesquelles le monde d'alors fut détruit, étant submergé par de l'eau. Mais les cieux et la terre de maintenant sont réservés par sa Parole pour le feu, gardés pour le jour du jugement et de la destruction des hommes impies. Mais n'ignorez pas cette chose, bien-aimés, c'est qu'un jour est devant le Seigneur comme mille ans, et mille ans comme un jour. Le Seigneur ne tarde pas pour ce qui concerne la promesse, comme quelques-uns estiment qu'il y a du retardement; mais il est patient envers vous, ne voulant pas qu'aucun périsse, mais que tous viennent à la repentance. Or le jour du Seigneur viendra comme un voleur; et, dans ce jour-là, les cieux passeront avec un bruit sifflant, et les éléments embrasés seront dissous, et la terre et les oeuvres qui sont en elle seront brûlées entièrement.
+> Toutes ces choses devant donc se dissoudre, quelles gens devriez-vous être en sainte conduite et piété, attendant et hâtant la venue du jour de Dieu, à cause duquel les cieux en feu seront dissous et les éléments embrasés se fondront. Mais, selon sa promesse, nous attendons de nouveaux cieux et une nouvelle terre, dans lesquels la justice habite. C'est pourquoi, bien-aimés, en attendant ces choses, étudiez-vous à être trouvés sans tache et irréprochables devant lui en paix; et estimez que la patience de notre Seigneur est salut, comme notre bien-aimé Paul aussi vous a écrit selon la sagesse qui lui a été donnée, ainsi qu'il le fait aussi dans toutes ses lettres, où il parle de ces choses, parmi lesquelles il y en a de difficiles à comprendre, que les ignorants et les mal affermis tordent, comme aussi les autres écritures, à leur propre destruction.
+> Vous donc, bien-aimés, sachant ces choses à l'avance, prenez garde, de peur qu'étant entraînés par l'erreur des pervers, vous ne veniez à déchoir de votre propre fermeté; mais croissez dans la grâce et dans la connaissance de notre Seigneur et Sauveur Jésus-Christ. A lui la gloire, et maintenant et jusqu'au jour de l'éternité! Amen”.
 
-LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE 3
-directeurs de restaurants. Cette semaine, le suis donc allé au Ranch House là-bas, et lorsque je suis
-sorti, le directeur m’a serré la main. Il m’a appelé frère Branham. Je me demandais comment il me
-connaissait.
-12 Et je dis: «Etes-vous le directeur?».
-     Il dit: «Je suis le propriétaire. Oui, vos gens viennent de là-bas pour manger ici».
-     Je dis: «Eh bien, je suppose qu’ils doivent vous envahir».
-     Il dit: «Monsieur, c’est l’un des groupes de gens les plus agréables que j’aie jamais vus. Ils sont
-vraiment très bien».
-13 Hier, je suis allé dans un motel voir une jeune dame à laquelle je voulais parler (son père et sa
-mère se trouvaient là) et je dus aller voir le directeur pour savoir dans quelle chambre ils se
-trouvaient.
-14 Il dit: «Etes-vous frère Branham?» (Cela se passait là-bas au motel Oaks.)
-     Et je dis: «Oui, monsieur».
-     Il dit: «J’aimerais vous serrer la main».
-15 Il me présenta à sa femme. Tous deux formaient un couple très agréable. Ils dirent: «Tout le
-monde dans ce motel est à votre service. Nous avons réservé le personnel pour cela. Nous avons
-renvoyé tous nos autres clients».
-     Et je dis: «Eh bien, je vous en remercie».
-16 Il dit: «Frère Branham, ce groupe de gens qui assistent à vos réunions est l’un des plus
-agréables parmi tous ceux qui viennent ici».
-17 Hier soir, je suis allé chez l’un de mes amis là-bas, c’est M. Becker. J’ai toujours aimé ses
-sandwiches. Je le connais depuis que je suis enfant; je l’ai toujours connu. Il y avait là un couple assis
-dans cette vieille salle du River Side Hotel. M. Becker dit: «Billy!».
-18 Je dis: «Qu’y a-t-il, Homer?» (Nous nous connaissons vraiment très bien).
-19 Il dit: «Tous vos gens de là-bas viennent se restaurer ici. Tous les dimanches il y a environ deux
-cents et quelques personnes qui viennent manger au Blue Boar». Et partout où je vais, je peux
-entendre tout le bien que l’on dit de vous.
-20 Quelqu’un d’autre a dit: «Là-bas du côté de la Riverview, les gens qui assistent à la réunion
-occupent toute la place. Il y en a des centaines qui ne pourront pas entrer».
-21 Ainsi, d’après moi, vous êtes le sel de la terre. Je suis tellement reconnaissant de savoir que j’ai
-le privilège de prêcher à des gens dont même les pécheurs (je ne veux pas dire que ces gens sont
-des pécheurs, mais je veux parler de ces gens qui sont dans les affaires et autres) peuvent dire qu’ils
-sont très bien, qu’ils les apprécient dans leurs affaires et là où ils se trouvent. Vous savez, c’est cela
-“être salé”. J’apprécie cela, j’apprécie votre comportement, la. manière dont vous prenez soin
-des choses.
-22 J’ai toujours dit: «S’il y en a un qui entre et qui n’a pas assez d’argent pour payer sa note,
-appelez-moi simplement». Vous voyez? J’ai dit: «Nous nous arrangerons. Donnez-leur toujours à
-manger, qu’ils aient de l’argent ou non». Vous voyez. Il faut faire tout ce qui peut être fait.
-23 Je sens que vous êtes mes enfants. Vous êtes les étoiles qui… Si jamais j’en ai une lorsque j’irai
-là-bas, vous serez cette étoile, ce bijou qui brillera sur la couronne de mon ministère. Lorsqu’il sera
-couronné, vous serez ce joyau.
-24 Je vous ai autrefois parlé des sept Sceaux, des âges de l’Eglise et de ces choses qui ont eu lieu.
-Maintenant, ce matin, j’ai un sujet très important. Pour moi, c’est un sujet béni et j’espère qu’il vous
-marquera de la même manière. Si seulement je pouvais le donner suivant la même inspiration dans
-laquelle je l’ai reçu, ce serait merveilleux; mais ce sera à Dieu de faire cela.
-25 Je vous ai dit ce qui devait arriver et où cela devait arriver, et nous avons vu toutes ces choses
-s’accomplir.
-26 Maintenant, ce matin, je parlerai de la demeure future de l’Epoux céleste et de l’Epouse terrestre;
-je parlerai de l’endroit où ils doivent vivre. Car je crois que, par la grâce de Dieu, nous sommes tous
-une partie de cette grande dispensation.
-
-        http://www.cmpp.ch
-
-    LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    4
-27 Et maintenant, j’ai confiance que vous allez supporter cela avec moi. Préparez vos Bibles, vos
-crayons et tout ce que vous devez faire pour lire avec moi, car je vais me référer à de nombreux
-passages de l’Ecriture et j’essayerai d’être suffisamment à l’heure pour avoir du temps pour prier pour
-les malades. C’est ce que j’ai promis. Il y a un petit moment, nous avons prié dans les salles pour
-ceux qui sont presque sans aide et sans espérance. Et, Dieu voulant, j’aurai probablement un autre
-service le 16 pour prier uniquement pour les malades.
-28 Je vais commencer mes vacances maintenant; j’ai été continuellement en voyage depuis le mois
-de janvier dernier. Aussi j’emmènerai ma famille à Tucson le matin puis je reviendrai passer quelque
-temps dans le Kentucky avec quelques amis; nous irons à la chasse aux écureuils pendant deux
-semaines, peut-être dix jours ou davantage, à moins que le Seigneur ne me conduise ailleurs.
-29 Je ne peux jamais savoir où je vais aller; nous ne pouvons jamais le savoir car c’est entre les
-mains de Dieu, de Dieu seul.
-30 Maintenant si je devais prendre mon temps pour apporter ce sujet, cela prendrait des semaines,
-car cela concerne beaucoup de choses. Mais j’ai noté quelques passages de l’Ecriture et quelques
-notes simplement pour relever les grandes lignes et que vous puissiez étudier cela.
-31 Puis j’aimerais avoir, peut-être au mois d’octobre, si le Seigneur le permet (je ne sais pas quand),
-ou lorsqu’Il le voudra, quelques jours de réunions permanentes sur le douzième chapitre
-d’Apocalypse pour le relier avec cela. Oh, je crois que ce serait merveilleux. Ce serait tout simplement
-merveilleux de voir comment Il a fait cela.
-32 Maintenant, comme je l’ai dit hier soir et comme je le pense chaque matin: «Lorsque je serai
-là-bas, je reconnaîtrai chacun de mes amis qui se trouvent ici». Maintenant, comment pourrai-je faire
-cela?
-33 Oh, que c’est bon de vous avoir avec moi ici! Mon bon ami, frère Lee Vayle assis là derrière, sa
-femme si gentille et sa fille, frère Roy Borders et frère Ruddle, je crois, frère Beeler, frère Palmer et
-frère Jackson, et oh, tous ces chers frères qui viennent de partout! Frère Anthony Milano (oh, partout
-où vous regardez vous pouvez en voir), ce frère qui vient de l’Arkansas (je ne me souviens pas de
-son nom), frère John, frère Earl Martin, frère Blair et, oh, cela n’en finit pas, vous voyez. Je suis
-tellement content d’avoir un groupe comme cela qui se réunit autour de moi lorsque j’enseigne la
-Parole de Dieu. Je pense que ce sont des hommes braves, de vrais hommes de Dieu.
-34 Je suis reconnaissant pour ce petit tabernacle. Je suis reconnaissant pour ses cinq portes
-ouvertes au public. Nous avons ici quatre diacres remplis de l’Esprit; nous avons quatre
-administrateurs remplis de l’Esprit. Il y en a deux à chaque porte. Et il y a une double porte devant
-pour les deux pasteurs, les bergers. Nous sommes contents de vous avoir. Nous sommes
-reconnaissants à Dieu pour cela. Puisse-t-Il vous bénir toujours.
-35 Maintenant nous voulons nous tenir debout juste un moment pendant que nous lisons dans
-2 Pierre, chapitre 3 et aussi dans Apocalypse 21.
-36 Oh, Seigneur, tandis que nous sommes debout, remplis nos coeurs de joie par la lecture de la
-Parole, car nous savons que Jésus a dit: “Le ciel et la terre passeront mais ma Parole ne passera
-pas”. Nous savons aussi qu’Il a dit: “Toute l’Ecriture doit être accomplie”.
-37 Tandis que nous lisons ces choses, puissions-nous avoir une compréhension venant de Toi de
-l’heure dans laquelle nous vivons. Nous Te le demandons dans le Nom de Jésus, l’Auteur du Livre.
-Amen.
-    2 Pierre 3:
-        “Je vous écris déjà, bien-aimés, cette seconde lettre; et, dans l’une et dans l’autre, je réveille
-    votre pure intelligence en rappelant ces choses à votre mémoire, afin que vous vous souveniez
-    des paroles qui ont été dites à l’avance par les saints prophètes, et du commandement du
-    Seigneur et Sauveur par vos apôtres, sachant tout d’abord ceci, qu’aux derniers jours des
-    moqueurs viendront, marchant dans la moquerie selon leur propre convoitise et disant: où est la
-    promesse de sa venue? (voyez si cela n’est pas en rapport avec cette femme infidèle) car,
-    depuis que les pères se sont endormis, toutes choses demeurent au même état dès le
-    commencement de la création. Car ils ignorent volontairement ceci, que, par la Parole de Dieu,
-    des cieux subsistaient jadis, et une terre tirée des eaux et subsistant au milieu des eaux, par
-    lesquelles le monde d’alors fut détruit, étant submergé par de l’eau. Mais les cieux et la terre de
-
-    http://www.cmpp.ch
-
-LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE 5
-     maintenant sont réservés par sa Parole pour le feu, gardés pour le jour du jugement et de la
-     destruction des hommes impies. Mais n’ignorez pas cette chose, bien-aimés, c’est qu’un jour est
-     devant le Seigneur comme mille ans, et mille ans comme un jour. Le Seigneur ne tarde pas pour
-     ce qui concerne la promesse, comme quelques-uns estiment qu’il y a du retardement; mais il est
-     patient envers vous, ne voulant pas qu’aucun périsse, mais que tous viennent à la repentance.
-     Or le jour du Seigneur viendra comme un voleur; et, dans ce jour-là, les cieux passeront avec un
-     bruit sifflant, et les éléments embrasés seront dissous, et la terre et les oeuvres qui sont en elle
-     seront brûlées entièrement.
-        Toutes ces choses devant donc se dissoudre, quelles gens devriez-vous être en sainte
-     conduite et piété, attendant et hâtant la venue du jour de Dieu, à cause duquel les cieux en feu
-     seront dissous et les éléments embrasés se fondront. Mais, selon sa promesse, nous attendons
-     de nouveaux cieux et une nouvelle terre, dans lesquels la justice habite. C’est pourquoi,
-     bien-aimés, en attendant ces choses, étudiez-vous à être trouvés sans tache et irréprochables
-     devant lui en paix; et estimez que la patience de notre Seigneur est salut, comme notre
-     bien-aimé Paul aussi vous a écrit selon la sagesse qui lui a été donnée, ainsi qu’il le fait aussi
-     dans toutes ses lettres, où il parle de ces choses, parmi lesquelles il y en a de difficiles à
-     comprendre, que les ignorants et les mal affermis tordent, comme aussi les autres écritures, à
-     leur propre destruction.
-        Vous donc, bien-aimés, sachant ces choses à l’avance, prenez garde, de peur qu’étant
-     entraînés par l’erreur des pervers, vous ne veniez à déchoir de votre propre fermeté; mais
-     croissez dans la grâce et dans la connaissance de notre Seigneur et Sauveur Jésus-Christ. A lui
-     la gloire, et maintenant et jusqu’au jour de l’éternité! Amen”.
 38 Maintenant, dans Apocalypse au chapitre 21.1, je lis ces paroles:
-        “Et je vis un nouveau ciel et une nouvelle terre; car le premier ciel et la première terre s’en
-     étaient allés, et la mer n’est plus.
-        Et je vis la sainte cité, nouvelle Jérusalem, descendant du ciel d’auprès de Dieu, préparée
-     comme une épouse ornée pour son mari. Et j’ouïs une grande voix venant du ciel, disant: Voici,
-     l’habitation de Dieu est avec les hommes, et il habitera avec eux; et ils seront son peuple, et Dieu
-     lui-même sera avec eux, leur Dieu. Et Dieu essuiera toute larme de leurs yeux; et la mort ne sera
-     plus; et il n’y aura plus ni deuil, ni cri, ni peine, car les premières choses sont passées. Et celui
-     qui était assis sur le trône dit: Voici, je fais toutes choses nouvelles. Et il me dit: Ecris, car ces
-     paroles sont certaines et véritables. Et il me dit: C’est fait. Moi, je suis l’alpha et l’oméga, le
-     commencement et la fin. A celui qui a soif, je donnerai, moi, gratuitement, de la fontaine de l’eau
-     de la vie. Celui qui vaincra héritera de ces choses, et je lui serai Dieu, et lui me sera fils”.
-     Prions de nouveau.
-39 Seigneur Jésus, cette promesse que Tu as prononcée, ainsi que les apôtres, avec un tel sérieux
-concernant cette heure de laquelle nous approchons; indique-nous, oh Seigneur, la direction afin
-que nous sachions comment nous en approcher de la bonne manière car nous savons qu’elle
-vient. Les Ecritures doivent être accomplies. Et il en sera ainsi. Et maintenant, Seigneur, nous le
-demandons de répandre de nouveau Ta miséricorde sur nous tandis que nous étudions la Parole.
-Sois avec nous pour nous La révéler, Seigneur, car nous Te le demandons dans le Nom de Jésus.
-Amen.
-     Vous pouvez vous asseoir.
-40 Maintenant je me demande s’il serait possible de détourner les lumières de la salle principale et
-de les laisser simplement ici vers le pupitre, ce qui serait probablement mieux au cas où le courant…
-L’autre soir, nous avons presque grillé un transformateur. Si le concierge pouvait s’en occuper, nous
-l’apprécierions beaucoup. Eteignez les lumières de la salle principale, je pense que vous y verrez
-encore assez pour écrire.
-41 Maintenant, je vais de nouveau annoncer le sujet dont nous nous approchons: La demeure future
-de l’Epoux céleste et de l’Epouse terrestre.
-42 Il fait vraiment trop chaud, je vais simplement faire ceci [frère Branham enlève sa veste —
-N.d.R.]. Je sais que ma femme n’aime pas que je fasse cela, mais ici en haut il fait vraiment trop
-chaud. Là-bas dehors, il y a de l’air, mais ici c’est comme dans une pièce renfermée.
 
-        http://www.cmpp.ch
+> “Et je vis un nouveau ciel et une nouvelle terre; car le premier ciel et la première terre s'en étaient allés, et la mer n'est plus.
+> Et je vis la sainte cité, nouvelle Jérusalem, descendant du ciel d'auprès de Dieu, préparée comme une épouse ornée pour son mari. Et j'ouïs une grande voix venant du ciel, disant: Voici, l'habitation de Dieu est avec les hommes, et il habitera avec eux; et ils seront son peuple, et Dieu lui-même sera avec eux, leur Dieu. Et Dieu essuiera toute larme de leurs yeux; et la mort ne sera plus; et il n'y aura plus ni deuil, ni cri, ni peine, car les premières choses sont passées. Et celui qui était assis sur le trône dit: Voici, je fais toutes choses nouvelles. Et il me dit: Ecris, car ces paroles sont certaines et véritables. Et il me dit: C'est fait. Moi, je suis l'alpha et l'oméga, le commencement et la fin. A celui qui a soif, je donnerai, moi, gratuitement, de la fontaine de l'eau de la vie. Celui qui vaincra héritera de ces choses, et je lui serai Dieu, et lui me sera fils”.
 
-LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE 6
-43 Nous avons donc autrefois étudié les sept Sceaux et les sept âges de l’Eglise. Frère Vayle et
-d’autres frères travaillent maintenant fidèlement à les présenter sous la forme d’un livre.
-44 Et après avoir vu toutes ces choses mystérieuses arriver, après avoir compris dans quelle heure
-et dans quelle position nous vivons, je pense qu’il n’y aurait pas une seule personne désirant
-s’asseoir raisonnablement pour examiner ce qui a été dit, ce qui a été promis qui arriverait et ce qui
-est arrivé, qui puisse dire que ces choses ne se sont pas accomplies. Dieu a fait exactement ce qu’Il
-avait dit qu’Il ferait; Il l’a accompli exactement à la lettre. Vous voyez?
-45 Maintenant, je pense que comme nous ne connaissons pas le temps dans lequel le Seigneur
-Jésus pourrait apparaître, ce serait une bonne chose, agréable au Saint-Esprit, que nous parlions de
-cela et peut-être que nous y revenions deux ou trois fois car je n’aurai pas suffisamment de temps
-pour développer tout cela. Du moment que vous traitez un sujet qui peut heurter quelques-uns, vous
-ne pouvez le développer entièrement pour Le rendre clair. Alors vous le laissez tomber pour prendre
-un autre sujet, puis vous y revenez plus tard. C’est ce que nous ferons, le Seigneur voulant, lorsque
-nous en viendrons au chapitre 12 d’Apocalypse qui se trouve entre la fin des trompettes et toutes ces
-choses, et la venue du Seigneur. Nous essayerons de revenir là-dessus pour montrer qui est Satan,
-ce qu’il a fait, d’où il vient quel est son but et comment la grande beauté qu’il avait reçue causa sa
-chute. Sa beauté le conduisit à la tromperie et à la chute.
-46 Maintenant, il est impossible à quiconque veut regarder de la manière juste de ne pas voir
-la semence du serpent. J’en fais le défi à quiconque veut voir cela avec la compréhension la plus
-commune. Un enfant pourrait le voir. Nous y viendrons plus tard.
-47 Maintenant, la raison pour laquelle j’ai Luc 2 Pierre 3 et que je l’ai comparé à Apocalypse 21 est
-que ces deux passages de l’Ecriture parlent tous deux du même sujet, mais Jean ne l’a pas écrit de la
-manière dont le fit Pierre. Vous voyez? Nous comprenons que cette grande demeure de l’Epouse
-devra se trouver ici sur terre.
-48 Et maintenant, si vous lisez simplement le chapitre 21 d’Apocalypse, vous verrez que le prophète
-dit: “Je vis de nouveaux cieux et une nouvelle terre”. Cela ressemble à un anéantissement.
-49 Je découvre toujours mes messages au moyen de la prière. Je reste assis en prière et quelque
-chose m’est révélé. J’attends quelques minutes pour voir si cela est juste, puis je le ressens plus
-profondément. Et parfois j’attends jusqu’à ce que cela débouche sur une vision. Mais lorsque cela
-commence à venir et que je suis convaincu que cela vient de Dieu, alors je vais voir l’Ecriture. Vous
-voyez, c’est cela la confirmation de toute chose spirituelle qui se fait, car la Bible est la complète
-révélation de Jésus-Christ. Vous voyez? Elle est Son corps.
-50 Et maintenant il se peut que je trouve un endroit dans l’Ecriture qui ne sonne pas très juste et je
-me pose des questions. Alors je retourne prier. Ensuite cela revient. Je me mets alors à examiner
-l’Ecriture.
-51 Maintenant, notre Bible est écrite en anglais. Les mots changent tout le temps en anglais. Par
-exemple, Jean 14 dit: “Dans la maison de mon Père il y a plusieurs demeures”. Or une demeure est
-une maison! Eh bien, ce que vous faites alors est d’aller voir dans l’original, ce qu’a voulu dire la
-version du Roi Jacques, ou d’aller voir dans les Hébreux ou dans La version grecque (la première
-version); et là vous verrez qu’il est dit: “Dans le royaume de mon Père il y a plusieurs palais”. Et alors
-vous vous transportez dans le temps où le traducteur traduisit cette Bible pour le roi Jacques, et vous
-verrez qu’à cette époque, en Angleterre, un royaume était appelé une maison et le roi était un père
-pour ses sujets. C’est la raison pour laquelle ils ont traduit: “Dans la maison de mon Père il y a
-plusieurs demeures”. Vous voyez? Ainsi lorsque vous tombez sur ces mots, vous devez faire des
-recherches à leur sujet.
-52 Ainsi, vous voyez, de ce qui vient de l’inspiration… Je dis ce matin, à ce pupitre, que tout ce qui a
-été dit vient directement de l’Ecriture. C’est ainsi que la Semence du serpent et toutes ces autres
-choses sont venues. Vous voyez?
-53 Mais si quelqu’un lit simplement ainsi et dit: “Dans la maison de mon Père il y a plusieurs
-demeures” et que vous ne vous arrêtiez pas pour étudier et prier, vous serez dans la confusion. Mais
-restez simplement en prière. Si cela vient de Dieu, Il le fera toujours apparaître de la manière juste.
-54 Maintenant, Jean (ou plutôt ce n’est pas lui mais Pierre), explique ce qui va changer et comment
-tout cela doit arriver. Jean dit simplement: “Et je vis un nouveau ciel et une nouvelle terre; car le
+Prions de nouveau.
+39 Seigneur Jésus, cette promesse que Tu as prononcée, ainsi que les apôtres, avec un tel sérieux concernant cette heure de laquelle nous approchons; indique-nous, oh Seigneur, la direction afin que nous sachions comment nous en approcher de la bonne manière car nous savons qu'elle vient. Les Ecritures doivent être accomplies. Et il en sera ainsi. Et maintenant, Seigneur, nous le demandons de répandre de nouveau Ta miséricorde sur nous tandis que nous étudions la Parole. Sois avec nous pour nous La révéler, Seigneur, car nous Te le demandons dans le Nom de Jésus. Amen.
 
-        http://www.cmpp.ch
+Vous pouvez vous asseoir.
+40 Maintenant je me demande s'il serait possible de détourner les lumières de la salle principale et de les laisser simplement ici vers le pupitre, ce qui serait probablement mieux au cas où le courant… L'autre soir, nous avons presque grillé un transformateur. Si le concierge pouvait s'en occuper, nous l'apprécierions beaucoup. Eteignez les lumières de la salle principale, je pense que vous y verrez encore assez pour écrire.
+41 Maintenant, je vais de nouveau annoncer le sujet dont nous nous approchons: La demeure future de l'Epoux céleste et de l'Epouse terrestre.
+42 Il fait vraiment trop chaud, je vais simplement faire ceci [frère Branham enlève sa veste — N.d.R.]. Je sais que ma femme n'aime pas que je fasse cela, mais ici en haut il fait vraiment trop chaud. Là-bas dehors, il y a de l'air, mais ici c'est comme dans une pièce renfermée.
+43 Nous avons donc autrefois étudié les sept Sceaux et les sept âges de l'Eglise. Frère Vayle et d'autres frères travaillent maintenant fidèlement à les présenter sous la forme d'un livre.
+44 Et après avoir vu toutes ces choses mystérieuses arriver, après avoir compris dans quelle heure et dans quelle position nous vivons, je pense qu'il n'y aurait pas une seule personne désirant s'asseoir raisonnablement pour examiner ce qui a été dit, ce qui a été promis qui arriverait et ce qui est arrivé, qui puisse dire que ces choses ne se sont pas accomplies. Dieu a fait exactement ce qu'Il avait dit qu'Il ferait; Il l'a accompli exactement à la lettre. Vous voyez?
+45 Maintenant, je pense que comme nous ne connaissons pas le temps dans lequel le Seigneur Jésus pourrait apparaître, ce serait une bonne chose, agréable au Saint-Esprit, que nous parlions de cela et peut-être que nous y revenions deux ou trois fois car je n'aurai pas suffisamment de temps pour développer tout cela. Du moment que vous traitez un sujet qui peut heurter quelques-uns, vous ne pouvez le développer entièrement pour Le rendre clair. Alors vous le laissez tomber pour prendre un autre sujet, puis vous y revenez plus tard. C'est ce que nous ferons, le Seigneur voulant, lorsque nous en viendrons au chapitre 12 d'Apocalypse qui se trouve entre la fin des trompettes et toutes ces choses, et la venue du Seigneur. Nous essayerons de revenir là-dessus pour montrer qui est Satan, ce qu'il a fait, d'où il vient quel est son but et comment la grande beauté qu'il avait reçue causa sa chute. Sa beauté le conduisit à la tromperie et à la chute.
+46 Maintenant, il est impossible à quiconque veut regarder de la manière juste de ne pas voir la semence du serpent. J'en fais le défi à quiconque veut voir cela avec la compréhension la plus commune. Un enfant pourrait le voir. Nous y viendrons plus tard.
+47 Maintenant, la raison pour laquelle j'ai Luc 2 Pierre 3 et que je l'ai comparé à Apocalypse 21 est que ces deux passages de l'Ecriture parlent tous deux du même sujet, mais Jean ne l'a pas écrit de la manière dont le fit Pierre. Vous voyez? Nous comprenons que cette grande demeure de l'Epouse devra se trouver ici sur terre.
+48 Et maintenant, si vous lisez simplement le chapitre 21 d'Apocalypse, vous verrez que le prophète dit: “Je vis de nouveaux cieux et une nouvelle terre”. Cela ressemble à un anéantissement.
+49 Je découvre toujours mes messages au moyen de la prière. Je reste assis en prière et quelque chose m'est révélé. J'attends quelques minutes pour voir si cela est juste, puis je le ressens plus profondément. Et parfois j'attends jusqu'à ce que cela débouche sur une vision. Mais lorsque cela commence à venir et que je suis convaincu que cela vient de Dieu, alors je vais voir l'Ecriture. Vous voyez, c'est cela la confirmation de toute chose spirituelle qui se fait, car la Bible est la complète révélation de Jésus-Christ. Vous voyez? Elle est Son corps.
+50 Et maintenant il se peut que je trouve un endroit dans l'Ecriture qui ne sonne pas très juste et je me pose des questions. Alors je retourne prier. Ensuite cela revient. Je me mets alors à examiner l'Ecriture.
+51 Maintenant, notre Bible est écrite en anglais. Les mots changent tout le temps en anglais. Par exemple, Jean 14 dit: “Dans la maison de mon Père il y a plusieurs demeures”. Or une demeure est une maison! Eh bien, ce que vous faites alors est d'aller voir dans l'original, ce qu'a voulu dire la version du Roi Jacques, ou d'aller voir dans les Hébreux ou dans La version grecque (la première version); et là vous verrez qu'il est dit: “Dans le royaume de mon Père il y a plusieurs palais”. Et alors vous vous transportez dans le temps où le traducteur traduisit cette Bible pour le roi Jacques, et vous verrez qu'à cette époque, en Angleterre, un royaume était appelé une maison et le roi était un père pour ses sujets. C'est la raison pour laquelle ils ont traduit: “Dans la maison de mon Père il y a plusieurs demeures”. Vous voyez? Ainsi lorsque vous tombez sur ces mots, vous devez faire des recherches à leur sujet.
+52 Ainsi, vous voyez, de ce qui vient de l'inspiration… Je dis ce matin, à ce pupitre, que tout ce qui a été dit vient directement de l'Ecriture. C'est ainsi que la Semence du serpent et toutes ces autres choses sont venues. Vous voyez?
+53 Mais si quelqu'un lit simplement ainsi et dit: “Dans la maison de mon Père il y a plusieurs demeures” et que vous ne vous arrêtiez pas pour étudier et prier, vous serez dans la confusion. Mais restez simplement en prière. Si cela vient de Dieu, Il le fera toujours apparaître de la manière juste.
+54 Maintenant, Jean (ou plutôt ce n'est pas lui mais Pierre), explique ce qui va changer et comment tout cela doit arriver. Jean dit simplement: “Et je vis un nouveau ciel et une nouvelle terre; car le premier ciel et la première terre s'en étaient allés, et la mer n'est plus”.
 
-    LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    7
+LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    7
 premier ciel et la première terre s’en étaient allés, et la mer n’est plus. Et je vis la sainte cité, nouvelle
 Jérusalem, descendant du Ciel d’auprès de Dieu, préparée comme une épouse ornée pour son mari”.
 Mais maintenant revenons à 2 Pierre afin de découvrir la manière dont il explique comment cela doit
@@ -590,7 +434,7 @@ juste et qui continuent malgré cela d’aller leur chemin et d’agir ainsi, qu
 
     http://www.cmpp.ch
 
-    LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    12
+LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    12
 dénomination au lieu de suivre la Parole, où paraîtront- ils? Et pourtant, ils sont appelés chrétiens, ils
 portent le Nom de Christ.
 109 Maintenant, Noé est un type parfait de ceux qui sont passés de l’autre côté. Souvenez-vous que
@@ -639,7 +483,7 @@ ici”, elle dit: “Je n’en ai pas”.
 118 Il dit: “Tu as dit la vérité car tu en as eu cinq et celui que tu as maintenant n’est pas le tien. Tu en
 as eu cinq et maintenant cela fait six”.
 119 Elle dit: “Tu n’es pas Béelzébul! Je vois que tu es un prophète! Alors nous savons que lorsque le
-Messie viendra, celui qu’on appelle Christ, Il fera ces choses”.
+Messie viendra, celui qu’on appelle Christ, Il fera ces choses".
      Il dit: “Je le suis!”.
 120 Il n’y avait plus de doute! Vous ne pouvez pas expliquer cela! Elle le vit, elle le crut puis
 elle s’en alla. Pourquoi cela? Que lui avait-Il fait? Il l’avait rachetée!
@@ -874,7 +718,7 @@ devons entrer dans le millénium, mais il ne s’agit pas de la Nouvelle Terre, 
 
         http://www.cmpp.ch
 
-    LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    17
+LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    17
 non; il s’agit simplement d’un endroit de repos, vous voyez, d’une période de repos. Ce repos n’aura
 absolument pas Lieu dans le Nouveau Ciel et sur la Nouvelle Terre. Car vous voyez, dans le
 millénium nous aurons des choses qui ne pourraient pas aller dans ce Nouveau Ciel et sur
@@ -912,7 +756,7 @@ de Lévitique que nous avions vu dimanche dernier. Je viens juste d’en avoir l
 Voyons le chapitre 23 de Lévitique au verset 26. Maintenant souvenez-vous qu’il y a sept jours de
 fête: la fête des trompettes, la fête des tabernacles, la fête de la gerbe agitée et toutes ces fêtes. Il y a
 sept grands jours de fête qui ne sont qu’un type des sept âges de l’Eglise. Et maintenant,
-souvenez-vous du nombre de sabbats qu’il y avait entre un jour de fête et le suivant. Vous voyez, il y
+souvernez-vous du nombre de sabbats qu’il y avait entre un jour de fête et le suivant. Vous voyez, il y
 a sept sabbats entre la Pentecôte et la fête des trompettes, ce qui représente les sept âges de
 l’Eglise. Et il y avait sept jours de fête, ce qui représente les sept âges de l’Eglise. Souvenez-vous de
 ces Nombres 173 Vous dites: «Eh bien, maintenant, frère Branham, vous en avez vraiment fait le tour. Vous avez
@@ -982,8 +826,8 @@ sonnera et que la trompette retentira. Et il y a bien longtemps, tout au début,
 d’attache fut placé en Eden, lorsque l’homme vint sur terre et qu’il chuta, un petit agneau versa son
 sang; il typifiait le Grand Agneau qui devait venir verser Son Sang. Sur le Calvaire fut élevée la
 croix qui établissait un lien pour ceux de l’Ancien Testament qui étaient justifiés, et ils regardaient à
-cela. Et dans cette nouvelle dispensation, à la venue du Seigneur sur la Nouvelle Terre, il y
-aura cette corde de salut, le Sang, ce pouvoir de rachat dont j’ai parlé; il y aura de nouveau ce
+cela. Et dans cette nouvelle dispensation, à la venue du Seigneur sur la Nouvelle Terre, il
+y aura cette corde de salut, le Sang, ce pouvoir de rachat dont j’ai parlé; il y aura de nouveau ce
 même système qui a racheté à la fois l’homme et la terre, il s’élèvera de nouveau dans l’Eternité. Et
 l’étang de feu consumera tout ce qui est impie et n’est pas prédestiné. Voyez-vous cela?
 
@@ -1140,7 +984,7 @@ différente. Là, une partie différente de la Parole devait s’accomplir. Ils 
 la semaine. Le travail du mardi ne peut pas être fait le mercredi. Le travail du mercredi doit être fait le
 mercredi. Vous voyez? Le travail du samedi doit être fait le samedi. Vous voyez?
 204 Et ils reconnaissaient: “Oh, nous avons Moïse!”.
-     Il dit: “Si vous aviez connu Moïse, vous me connaîtriez”, car c’était celui qui parlait de Lui. “Le
+    Il dit: “Si vous aviez connu Moïse, vous me connaîtriez”, car c’était celui qui parlait de Lui. “Le
 Seigneur, votre Dieu, vous suscitera un prophète semblable à moi”. Comprenez-vous cette idée? Oh,
 mon Dieu! Voyez donc ce que Jésus a dit dans Jean 14: “Lorsque le Saint-Esprit viendra, Il vous
 rappellera ces choses (vous voyez) et vous montrera dans quel jour vous vivez; et une autre chose
@@ -1154,7 +998,7 @@ malédiction, les cieux ne s’obscurciront plus avec des nuages de colère! Les
 la terre comme cela. Non, ils ne briseront plus les arbres, ils ne feront plus s’écrouler les maisons et
 ne renverseront plus toutes choses. Satan ne vomira plus d’éclairs ni de colère là-bas pour tuer un
 homme se promenant sur le chemin ou mettre le feu à un édifice. Vous voyez? Non, cela n’arrivera
-plus. Il n’y aura plus de typhons, ni d’orages ou de tornades qui balayent et déchiquètent les maisons,
+plus. Il n’y aura plus de typhons, ni d’orages ou de tornades qui balayent et déchiquettent les maisons,
 tuent les petits enfants et font toutes ces choses. Oh non, cela n’arrivera plus. Il n’y aura plus de ces
 choses qui essayent de détruire, cela n’existera plus. Satan sera chassé.
 207 J’aimerais que nous ayons du temps maintenant. Je vais simplement laisser de côté ces
@@ -1406,7 +1250,7 @@ caché. C’est aussi clair que tout ce qui peut être vu. Vous y êtes? Voilà 
 femme? Lorsque le germe vient du sexe mâle… Maintenant, essayez de nier cela. La femme n’a
 absolument pas de vie en elle. Elle a simplement un petit oeuf qui est un terrain. C’est comme si vous
 preniez un champ, que vous le prépariez; que vous y répandiez un insecticide et en détruisiez tous
-tes germes et qu’aucune herbe ni quoi que ce soit ne puisse y pousser. Puis vous le fertilisez de
+les germes et qu’aucune herbe ni quoi que ce soit ne puisse y pousser. Puis vous le fertilisez de
 nouveau et y semez une bonne semence; si l’ennemi vient et y sème une autre semence, la même loi
 de Dieu fera mûrir les deux semences. Eh bien, Dieu n’avait pas l’intention de faire cela, vous voyez.
 Mais qu’arriva-t-il?
@@ -1444,7 +1288,7 @@ que produit l’oranger.
 253 Les dénominations ont été greffées sur la Vigne, car c’est d’Elle qu’elles vivent lorsqu’elles se
 prétendent chrétiennes. Vous savez ce qu’était Caïphe et pourtant il a même prophétisé. Vous
 voyez, ils vivent de cela. Oh. j’aimerais que nous ayons toute une semaine pour pouvoir étudier
-cette chose et la rendre tellement claire que vous ne puissiez manquer de là voir. Maintenant je vais
+cette chose et la rendre tellement claire que vous ne puissiez manquer de la voir. Maintenant je vais
 laisser de côté quelques-unes de ces choses. Maintenant, observez.
 254 Voyez ce que représentent ces mains, pour Sa Bien-aimée — pour Son Epouse. Elles
 
@@ -1651,7 +1495,7 @@ représentent environ 2’200 km.
         mais aussi de la Parole)
         Pour être Ses hôtes au dîner.
         Qu’ils sont bénis, ces pèlerins! (je dois dire que dans le monde je n’ai jamais vu de telles
-        gens.) Ils contemplent Sa face sanctifiée,
+gens.) Ils contemplent Sa face sanctifiée,
         Resplendissante d’une Lumière divine;
         Participants bénis de Sa grâce,
         Nous brillerons comme des joyaux de Sa couronne.
@@ -1807,7 +1651,7 @@ j’avais perdu mes cheveux. Je lui ai répondu que je n’en avais perdu aucun.
      En substance ils ont toujours existé et là où ils se trouvent ils m’attendent, vous voyez! C’est
 juste. Un jour, je les rejoindrai.
 311 Voyez ce vieux corps ridé qui dépérit, aux épaules tombantes, aux genoux douloureux, à la
-gorge enrouée. C’est très bien. Vous pouvez l’ensevelit dans la mer, mais lorsque la trompette
+ gorge enrouée. C’est très bien. Vous pouvez l’ensevelit dans la mer, mais lorsque la trompette
 sonnera, il reconnaîtra son nom, Attendez simplement! Certainement, un de ces jours nous
 changerons. Je fais partie de ce monde qui est racheté. Vous êtes dans le monde mais vous n’avez
 rien à voir avec le Cosmos. Vous faites partie d’un monde, d’un ordre différent, d’un ordre
@@ -1910,67 +1754,21 @@ Vous comprenez?
         http://www.cmpp.ch
 
 LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE 35
-328 Très bien, vous voyez maintenant comment Satan alla vers Eve. C’est pourquoi la mort a régné
-sur la terre depuis lors. Et les cieux, la terre, les animaux, l’atmosphère, tout fut maudit par Dieu à
-cause de cela. Ce fut la malédiction car Satan vint là en premier. Jésus vint afin de racheter la terre
-et la ramener au Père. Pour pouvoir le faire, Il devint une partie de la terre (j’en ai déjà parlé) et
-comme cette poussière (dont Jésus Lui-même faisait partie) fut rachetée, tous les attributs de Dieu
-furent rachetés avec la terre, au travers de Lui.
-329 Il était la Parole parlée. Nous, qui sommes rachetés, faisons partie de Lui. Donc si vous
-pouvez reconnaître que… Vous voyez? Les pharisiens prétendaient être une partie de Lui, mais vous
-avez vu ma première illustration. Ils ne l’étaient que de manière intellectuelle. Ils ne purent
-reconnaître la Parole lorsqu’Elle fut manifestée juste devant eux. Ils dirent: “Cet homme a un
-esprit mauvais en lui”. Maintenant, de nos jours, on nous appelle des faux prophètes. Les gens
-religieux, de grands hommes doués, nous appellent de toutes sortes de vilains noms. Vous voyez, ils
-ne comprennent tout simplement pas.
-330 Le baptême d’eau n’était pas suffisant pour nettoyer la terre; pour eux non plus. La sanctification
-par le Sang la ramena à Dieu et fit valoir Ses droits sur elle. Mais le baptême de Feu la nettoie
-comme Il le fit de même avec Son Epouse par le moyen de la justification, de la sanctification
-et du baptême du Saint-Esprit.
-331 Il n’a jamais promis de susciter une nouvelle race, comme je l’ai dit, mais Il a promis de
-racheter ceux qui étaient tombés. Ce sont les prédestinés qui étaient tombés. Ce sont les
-prédestinés qui ont hérité comme Il l’avait promis. Il est le Dieu qui ne change pas; nous savons cela.
-332 Souvenez-vous qu’après l’enlèvement d’Elie, Dieu le ramène parmi son peuple afin qu’il prenne
-sa place de prophète parmi son peuple. Il fera cela très bientôt. Pendant ces 2’500 ans Il l’a gardé en
-vie, et il doit apparaître de nouveau.
-333 Remarquez encore qu’Il ressuscita Moïse d’entre les morts. Où se trouve sa tombe? Quelqu’un
-peut-il la trouver? Lisez le livre de Jude. Vous voyez? Lorsque l’archange contestait avec Satan, il dit:
-“Que le Seigneur te censure!” (Il contestait touchant le corps de Moïse) et vous pouvez ensuite voir
-Pierre, Jacques et Jean se tenir là et le regarder sur la montagne de la Transfiguration; ils se
-trouvaient juste dans le pays où doit s’élever cette montagne sur laquelle nous habiterons.
-Vous voyez? Il vint pour racheter la terre.
-334 Vous voyez, l’Eglise enlevée se trouvait alors représentée; et là étaient aussi représentés ceux
-qui se sont endormis. Où était-ce? Dans la Cité, au sommet de la montagne. Vous voyez? il y avait là
-Pierre, Jacques et Jean: trois témoins. Il y avait aussi Elle, Moïse et Jésus comme témoins célestes.
-Et il y avait Moïse, qui était mort et ressuscité. Il y avait Elie, qui avait été enlevé et qui vivait
-toujours. Tous deux étaient représentés sur cette sainte Montagne. Et Jésus, le Rédempteur, se
-trouvait là: Dieu était au-dessus de Lui, Le couvrant de Son ombre comme ceci, et Il dit: “Celui-ci est
-mon Fils Bien-aimé”.
-335 Souvenez-vous que la veille, Jésus avait dit: “En vérité, je vous dis: Il y en a quelques-uns de
-ceux qui sont ici présents, qui ne goûteront point la mort jusqu’à ce qu’ils aient vu le Fils de l’homme
-venant dans son royaume”. Qu’était-ce? Les morts qui étaient ressuscités et les saints qui avaient été
-enlevés s’étaient rassemblés afin de Le rencontrer dans les airs et de voir Jésus qui se tenait là
-dans cette ombre, car Dieu Le couvrait de Son ombre et dit: “Celui-ci est mon Fils bien-aimé, en qui
-j’ai trouvé mon plaisir; écoutez-le”. C’était le régime du Nouveau Royaume.
-336 Oh, frère, soeur, la mort ne vous change pas. La mort ne fait que changer votre lieu d’habitation.
-Vous voyez? Souvenez-vous de Samuel qui mourut et fut enterré; deux ans plus tard, alors qu’il se
-trouvait dans le Paradis, la prophétesse d’En-Dor l’appela et Saül le reconnut; la prophétesse le
-reconnut aussi et tomba sur sa face: il n’avait absolument pas changé. Il était resté le même Samuel
-alors qu’il était mort depuis deux ans; il était toujours prophète. Il dit: “Demain, tu tomberas au combat
-ainsi que tes fils et demain soir à la même heure tu seras avec moi”. Et c’est exactement ce qui
-arriva. Vous voyez? Et lorsque Moïse et Elie reviennent dans Apocalypse 11, ils sont toujours
-prophètes. Alléluia!
-337 Dans ce pays, de l’autre côté, dans cette Cité où l’Agneau est la Lumière, je vous reconnaîtrai,
-frère Mc Kinney. Et je vous reconnaîtrai, vous mon peuple, les joyaux de ma couronne. Alors qu’ils
-viendront de l’est et de l’ouest dans cette Cité qui aura 2’200 km de côté, l’Epouse sera installée là
-dans la Cité aux quatre côtés. Lorsqu’Il sera là sur cette Sainte Montagne, lorsque Dieu sera sur la
+328 Très bien, vous voyez maintenant comment Satan alla vers Eve. C’est pourquoi la mort a régné sur la terre depuis lors. Et les cieux, la terre, les animaux, l’atmosphère, tout fut maudit par Dieu à cause de cela. Ce fut la malédiction car Satan vint là en premier. Jésus vint afin de racheter la terre et la ramener au Père. Pour pouvoir le faire, Il devint une partie de la terre (j’en ai déjà parlé) et comme cette poussière (dont Jésus Lui-même faisait partie) fut rachetée, tous les attributs de Dieu furent rachetés avec la terre, au travers de Lui.
+329 Il était la Parole parlée. Nous, qui sommes rachetés, faisons partie de Lui. Donc si vous pouvez reconnaître que… Vous voyez? Les pharisiens prétendaient être une partie de Lui, mais vous avez vu ma première illustration. Ils ne l’étaient que de manière intellectuelle. Ils ne purent reconnaître la Parole lorsqu’Elle fut manifestée juste devant eux. Ils dirent: “Cet homme a un esprit mauvais en lui”. Maintenant, de nos jours, on nous appelle des faux prophètes. Les gens religieux, de grands hommes doués, nous appellent de toutes sortes de vilains noms. Vous voyez, ils ne comprennent tout simplement pas.
+330 Le baptême d’eau n’était pas suffisant pour nettoyer la terre; pour eux non plus. La sanctification par le Sang la ramena à Dieu et fit valoir Ses droits sur elle. Mais le baptême de Feu la nettoie comme Il le fit de même avec Son Epouse par le moyen de la justification, de la sanctification et du baptême du Saint-Esprit.
+331 Il n’a jamais promis de susciter une nouvelle race, comme je l’ai dit, mais Il a promis de racheter ceux qui étaient tombés. Ce sont les prédestinés qui étaient tombés. Ce sont les prédestinés qui ont hérité comme Il l’avait promis. Il est le Dieu qui ne change pas; nous savons cela.
+332 Souvenez-vous qu’après l’enlèvement d’Elie, Dieu le ramène parmi son peuple afin qu’il prenne sa place de prophète parmi son peuple. Il fera cela très bientôt. Pendant ces 2’500 ans Il l’a gardé en vie, et il doit apparaître de nouveau.
+333 Remarquez encore qu’Il ressuscita Moïse d’entre les morts. Où se trouve sa tombe? Quelqu’un peut-il la trouver? Lisez le livre de Jude. Vous voyez? Lorsque l’archange contestait avec Satan, il dit: “Que le Seigneur te censure!” (Il contestait touchant le corps de Moïse) et vous pouvez ensuite voir Pierre, Jacques et Jean se tenir là et le regarder sur la montagne de la Transfiguration; ils se trouvaient juste dans le pays où doit s’élever cette montagne sur laquelle nous habiterons. Vous voyez? Il vint pour racheter la terre.
+334 Vous voyez, l’Eglise enlevée se trouvait alors représentée; et là étaient aussi représentés ceux qui se sont endormis. Où était-ce? Dans la Cité, au sommet de la montagne. Vous voyez? il y avait là Pierre, Jacques et Jean: trois témoins. Il y avait aussi Elle, Moïse et Jésus comme témoins célestes. Et il y avait Moïse, qui était mort et ressuscité. Il y avait Elie, qui avait été enlevé et qui vivait toujours. Tous deux étaient représentés sur cette sainte Montagne. Et Jésus, le Rédempteur, se trouvait là: Dieu était au-dessus de Lui, Le couvrant de Son ombre comme ceci, et Il dit: “Celui-ci est mon Fils Bien-aimé”.
+335 Souvenez-vous que la veille, Jésus avait dit: “En vérité, je vous dis: Il y en a quelques-uns de ceux qui sont ici présents, qui ne goûteront point la mort jusqu’à ce qu’ils aient vu le Fils de l’homme venant dans son royaume”. Qu’était-ce? Les morts qui étaient ressuscités et les saints qui avaient été enlevés s’étaient rassemblés afin de Le rencontrer dans les airs et de voir Jésus qui se tenait là dans cette ombre, car Dieu Le couvrait de Son ombre et dit: “Celui-ci est mon Fils bien-aimé, en qui j’ai trouvé mon plaisir; écoutez-le”. C’était le régime du Nouveau Royaume.
+336 Oh, frère, soeur, la mort ne vous change pas. La mort ne fait que changer votre lieu d’habitation. Vous voyez? Souvenez-vous de Samuel qui mourut et fut enterré; deux ans plus tard, alors qu’il se trouvait dans le Paradis, la prophétesse d’En-Dor l’appela et Saül le reconnut; la prophétesse le reconnut aussi et tomba sur sa face: il n’avait absolument pas changé. Il était resté le même Samuel alors qu’il était mort depuis deux ans; il était toujours prophète. Il dit: “Demain, tu tomberas au combat ainsi que tes fils et demain soir à la même heure tu seras avec moi”. Et c’est exactement ce qui arriva. Vous voyez? Et lorsque Moïse et Elie reviennent dans Apocalypse 11, ils sont toujours prophètes. Alléluia!
+337 Dans ce pays, de l’autre côté, dans cette Cité où l’Agneau est la Lumière, je vous reconnaîtrai, frère Mc Kinney. Et je vous reconnaîtrai, vous mon peuple, les joyaux de ma couronne. Alors qu’ils viendront de l’est et de l’ouest dans cette Cité qui aura 2’200 km de côté, l’Epouse sera installée là dans la Cité aux quatre côtés. Lorsqu’Il sera là sur cette Sainte Montagne, lorsque Dieu sera sur la
 
         http://www.cmpp.ch
 
     LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    36
-Montagne et Jésus sur le Trône, la Trompette d’or sonnera, Joseph marchera dans le Paradis et les
-enfants de Dieu tomberont à genoux et L’adoreront car ils sauront qu’ils ont été rachetés. Amen!
-Alléluia!
+Montagne et Jésus sur le Trône, la Trompette d’or sonnera, Joseph marchera dans le Paradis et les enfants de Dieu tomberont à genoux et L’adoreront car ils sauront qu’ils ont été rachetés. Amen! Alléluia!
         Parfois j’ai la nostalgie du Ciel
         Et de cette gloire que j’aurai là-bas.
         Quelle joie ce sera
@@ -1978,220 +1776,81 @@ Alléluia!
         Dans cette belle Cité d’or.
         Je suis en route pour cette belle Cité
         Que le Seigneur a préparée.
-338 Dans Ésaïe 9.6 il est dit: “Car un enfant nous est né, un fils nous a été donné, et le
-gouvernement sera sur son épaule; et on appellera son nom: Merveilleux, Conseiller, Dieu fort, Père
-du siècle, Prince de paix. A l’accroissement de son empire, et à la paix, il n’y aura pas de fin…”. On y
-trouvera même des animaux. Oh, mon Dieu!
+338 Dans Ésaïe 9.6 il est dit: “Car un enfant nous est né, un fils nous a été donné, et le gouvernement sera sur son épaule; et on appellera son nom: Merveilleux, Conseiller, Dieu fort, Père du siècle, Prince de paix. A l’accroissement de son empire, et à la paix, il n’y aura pas de fin…”. On y trouvera même des animaux. Oh, mon Dieu!
         L’ours sera paisible
         Et le loup sera apprivoisé;
         Le lion reposera près de l’Agneau.
         Et l’animal sauvage
         Sera conduit par un petit enfant (mais moi, je vais être changé!);
         La créature que je suis sera changée.
-339 … lorsque ce jour viendra. Eh bien, je vais dans cette Cité. Je suis en route pour cette belle Cité.
-Maintenant, je sens la puissance du rachat dans mon coeur tout entier. S’il n’en est pas ainsi,
-alors c’est que j’ai gaspillé ma vie; c’est que j’ai enseigné aux autres des choses trompeuses. Mais
-quand je regarde ces choses et que je vois la promesse qu’Il a faite pour ce jour être authentifiée,
-quand je vois cette assemblée de 2’200 km en carré assise ici, quand je vois cette assemblée élue
-qui a été appelée d’entre les dénominations, d’entre les races, les credo et toutes ces choses être
-réunie, quand je vois la Parole se confirmer d’Elle-même, alors je sais sans l’ombre d’un doute qu’en
-ce jour les joyaux de ma couronne brilleront partout dans le monde.
-340 Ce n’est pas en vain que nous nous assemblons ici. Nous attendons simplement ce moment. Il
-est très, très tard et Jésus est très, très proche; Sa gloire est merveilleuse! On appellera Son Nom
-Conseiller. Pouvez-vous voir cette Cité? C’est là que l’Epouse et l’Epoux s’établiront pour toujours.
-341 Maintenant, si vous trouvez qu’il est merveilleux que nous conduisions pendant des centaines de
-kilomètres pour venir ici nous nourrir de Sa Parole, alors qu’il ne s’agit que d’une ombre des choses à
-venir, que sera-ce lorsque nous habiterons dans la Cité avec Lui; lorsque je serai votre voisin,
-que nous marcherons dans ces rues pavées d’or, que nous irons boire à la fontaine, que nous
-marcherons dans le Paradis de Dieu en compagnie des anges qui planent sur la terre, chantant des
-hymnes? Oh, quel merveilleux jour ce sera!
-342 La route semble caillouteuse; parfois elle devient difficile. Mais cela en vaut la peine. Oh, tout
-cela me paraîtra tellement insignifiant lorsque je Le verrai! Que seront tous ces vilains noms qu’ils
-nous donnent et toutes ces choses, que sera tout cela lorsque je Le verrai dans cette Cité de
-Dieu tellement belle?
+339 … lorsque ce jour viendra. Eh bien, je vais dans cette Cité. Je suis en route pour cette belle Cité. Maintenant, je sens la puissance du rachat dans mon coeur tout entier. S’il n’en est pas ainsi, alors c’est que j’ai gaspillé ma vie; c’est que j’ai enseigné aux autres des choses trompeuses. Mais quand je regarde ces choses et que je vois la promesse qu’Il a faite pour ce jour être authentifiée, quand je vois cette assemblée de 2’200 km en carré assise ici, quand je vois cette assemblée élue qui a été appelée d’entre les dénominations, d’entre les races, les credo et toutes ces choses être réunie, quand je vois la Parole se confirmer d’Elle-même, alors je sais sans l’ombre d’un doute qu’en ce jour les joyaux de ma couronne brilleront partout dans le monde.
+340 Ce n’est pas en vain que nous nous assemblons ici. Nous attendons simplement ce moment. Il est très, très tard et Jésus est très, très proche; Sa gloire est merveilleuse! On appellera Son Nom Conseiller. Pouvez-vous voir cette Cité? C’est là que l’Epouse et l’Epoux s’établiront pour toujours.
+341 Maintenant, si vous trouvez qu’il est merveilleux que nous conduisions pendant des centaines de kilomètres pour venir ici nous nourrir de Sa Parole, alors qu’il ne s’agit que d’une ombre des choses à venir, que sera-ce lorsque nous habiterons dans la Cité avec Lui; lorsque je serai votre voisin, que nous marcherons dans ces rues pavées d’or, que nous irons boire à la fontaine, que nous marcherons dans le Paradis de Dieu en compagnie des anges qui planent sur la terre, chantant des hymnes? Oh, quel merveilleux jour ce sera!
+342 La route semble caillouteuse; parfois elle devient difficile. Mais cela en vaut la peine. Oh, tout cela me paraîtra tellement insignifiant lorsque je Le verrai! Que seront tous ces vilains noms qu’ils nous donnent et toutes ces choses, que sera tout cela lorsque je Le verrai dans cette Cité de Dieu tellement belle?
      Inclinons notre tête.
         Je suis en route pour cette belle Cité,
         Mon Seigneur L’a préparée pour les Siens,
         Et tous les rachetés de tous tes âges…
-343 Jésus bien-aimé, mon espérance est fondée sur rien de moins, Seigneur, que sur cette Cité qui
-est notre mère, celle de notre coeur, la Cité du glorieux Roi. Oh, Dieu, que pas un seul ici ne périsse,
-je T’en prie. Puissions-nous de nouveau examiner notre vie aujourd’hui, Seigneur, en attendant Ta
-venue. Là-bas, bien au-delà de ce grand Colisée à Rome où des lions dévorèrent des chrétiens,
-ceux-ci sortiront un jour de la poussière. Il n’y aura plus de cimetière sur la colline de gloire. Aucune
-couronne mortuaire ne sera déposée, aucune larme ne la mouillera, il n’y aura aucun tertre de gazon,
-aucun orage ne la dévastera; là-bas, tout sera glorieux.
+343 Jésus bien-aimé, mon espérance est fondée sur rien de moins, Seigneur, que sur cette Cité qui est notre mère, celle de notre coeur, la Cité du glorieux Roi. Oh, Dieu, que pas un seul ici ne périsse, je T’en prie. Puissions-nous de nouveau examiner notre vie aujourd’hui, Seigneur, en attendant Ta venue. Là-bas, bien au-delà de ce grand Colisée à Rome où des lions dévorèrent des chrétiens, ceux-ci sortiront un jour de la poussière. Il n’y aura plus de cimetière sur la colline de gloire. Aucune couronne mortuaire ne sera déposée, aucune larme ne la mouillera, il n’y aura aucun tertre de gazon, aucun orage ne la dévastera; là-bas, tout sera glorieux.
 344 Seigneur, aide-nous. Puisse-t-il y en avoir encore ici qui soient appelés au Souper des Noces de
 
     http://www.cmpp.ch
 
 LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE 37
-l’Agneau, ainsi qu’à ce règne de mille ans du Millénium, puis à entrer dans la Cité après la fin de la
-lune de miel (car le millénium est tout simplement la lune de miel). Puis l’Epoux emmènera Son
-Epouse à la maison. Il est à Elle; l’Epouse appartient à l’Epoux. Elle est Son Epouse. Oh, Il est parti
-préparer une maison depuis qu’Il est devenu Son Fiancé. Puissions-nous Lui être fidèles, à Lui qui
-est la Parole, car Il est la Parole. Ne tenons pas compte de ce que les autres essaient d’être
-insolents à notre égard: Seigneur, garde-nous de ces choses, attire-moi plus près de Toi.
+l’Agneau, ainsi qu’à ce règne de mille ans du Millénium, puis à entrer dans la Cité après la fin de la lune de miel (car le millénium est tout simplement la lune de miel). Puis l’Epoux emmènera Son Epouse à la maison. Il est à Elle; l’Epouse appartient à l’Epoux. Elle est Son Epouse. Oh, Il est parti préparer une maison depuis qu’Il est devenu Son Fiancé. Puissions-nous Lui être fidèles, à Lui qui est la Parole, car Il est la Parole. Ne tenons pas compte de ce que les autres essaient d’être insolents à notre égard: Seigneur, garde-nous de ces choses, attire-moi plus près de Toi.
      J’ai parfois la nostalgie du Ciel…
-345 La demeure future de l’Epoux et de l’Epouse. Il revient pour le Souper des Noces qui durera trois
-ans et demi. Puis nous irons dans le millénium pour la lune de miel et ensuite Il dévoilera la Cité,
-comme un Epoux à Son Epouse, montrant la surprise qu’Il avait préparée pour Elle. Imaginez la petite
-Epouse se tenant là, pleine de respect, et regardant sa future Demeure. Et aujourd’hui, Seigneur,
-nous pouvons La voir par la foi là-bas. Elle sera exactement ici sur terre. Tu l’as promis. Un de ces
-jours, Ton Eglise sera complètement rachetée et alors Ta Parole sera rétablie, chaque atome de cette
-Parole sera rétabli. Mais Tu as d’abord racheté Ton peuple, Tu as racheté les corps qui ont été faits
-de la poussière de ce monde.
-346 Oh, Dieu, aide-nous. S’il en est ici qui ne sont pas absolument certains de cela, puissent-ils le
-recevoir juste maintenant, Seigneur. Je sais que cette prédication a été longue et qu’il a fait chaud,
-mais nous ne nous tiendrons pas toujours ici; je ne serai pas toujours votre pasteur. Vous devez avoir
-une certitude. «Y a-t-il un moyen d’avoir une certitude, frère Branham?». Oui, devenez une partie de
-la Parole, de la Parole d’aujourd’hui. Vous ne pouvez être une partie de la Parole du jour de Moïse.
-Cette partie-là est terminée; elle représentait le pied du corps. Nous en sommes à la tête maintenant.
-Voici Christ. Nous n’en sommes plus aux bras, comme du temps de Luther; non, c’est maintenant le
-temps de la tête. Christ, la Pierre du faîte, vient au Corps.
-347 Si vous ne vous sentez pas exactement au point à ce sujet, partout où vous le pourrez
-voulez-vous lever la main, afin que je puisse le voir? Que tous les autres gardent la tête inclinée. Dieu
-vous bénisse! Dites: «Souvenez-vous de moi dans la prière, frère Branham. Je désire ardemment
-être là-bas. Je ne veux pas manquer cela, frère Branham. Je m’examine moi-même, je fais tout ce
-que je peux, mais maintenant priez pour moi. Voulez-vous le faire?». Dieu vous bénisse. Priez tandis
-que vous pensez à cela maintenant. Dites: «Dieu…». Cela se trouve dans votre propre coeur.
-Vous voyez? Si vous sentez que quelque chose bat dans votre coeur, c’est cela. C’est cet attribut
-qui essaie de se manifester.
+345 La demeure future de l’Epoux et de l’Epouse. Il revient pour le Souper des Noces qui durera trois ans et demi. Puis nous irons dans le millénium pour la lune de miel et ensuite Il dévoilera la Cité, comme un Epoux à Son Epouse, montrant la surprise qu’Il avait préparée pour Elle. Imaginez la petite Epouse se tenant là, pleine de respect, et regardant sa future Demeure. Et aujourd’hui, Seigneur, nous pouvons La voir par la foi là-bas. Elle sera exactement ici sur terre. Tu l’as promis. Un de ces jours, Ton Eglise sera complètement rachetée et alors Ta Parole sera rétablie, chaque atome de cette Parole sera rétabli. Mais Tu as d’abord racheté Ton peuple, Tu as racheté les corps qui ont été faits de la poussière de ce monde.
+346 Oh, Dieu, aide-nous. S’il en est ici qui ne sont pas absolument certains de cela, puissent-ils le recevoir juste maintenant, Seigneur. Je sais que cette prédication a été longue et qu’il a fait chaud, mais nous ne nous tiendrons pas toujours ici; je ne serai pas toujours votre pasteur. Vous devez avoir une certitude. «Y a-t-il un moyen d’avoir une certitude, frère Branham?». Oui, devenez une partie de la Parole, de la Parole d’aujourd’hui. Vous ne pouvez être une partie de la Parole du jour de Moïse. Cette partie-là est terminée; elle représentait le pied du corps. Nous en sommes à la tête maintenant. Voici Christ. Nous n’en sommes plus aux bras, comme du temps de Luther; non, c’est maintenant le temps de la tête. Christ, la Pierre du faîte, vient au Corps.
+347 Si vous ne vous sentez pas exactement au point à ce sujet, partout où vous le pourrez voulez-vous lever la main, afin que je puisse le voir? Que tous les autres gardent la tête inclinée. Dieu vous bénisse! Dites: «Souvenez-vous de moi dans la prière, frère Branham. Je désire ardemment être là-bas. Je ne veux pas manquer cela, frère Branham. Je m’examine moi-même, je fais tout ce que je peux, mais maintenant priez pour moi. Voulez-vous le faire?». Dieu vous bénisse. Priez tandis que vous pensez à cela maintenant. Dites: «Dieu…». Cela se trouve dans votre propre coeur. Vous voyez? Si vous sentez que quelque chose bat dans votre coeur, c’est cela. C’est cet attribut qui essaie de se manifester.
      Je suis en route pour cette belle Cité…
-348 Père céleste, prends-nous maintenant, Seigneur. Que le grand Berger, le glorieux
-Berger-Rédempteur vienne, ce glorieux Berger qui abandonna la gloire car Il savait que certains de
-Ses attributs étaient perdus dans les grandes vallées du péché où les loups et les animaux sauvages
-auraient tôt fait de dévorer ce petit agneau. Mais il quitta les couloirs dorés pour descendre sur la
-terre et Il devint l’un de nous afin de pouvoir nous déclarer l’amour de Dieu. C’est là qu’Il les
-trouva: certains étaient dans les dénominations, d’autres dans les maisons de mauvaise réputation,
-d’autres dans les rues, certains étaient aveugles, d’autres étaient dans les haies ou le long des
-chemins; mais il racheta tous ceux que le Père Lui avait ordonné de racheter. Puis Il nous donna
-pour mission de vivre cette portion de la Parole pour notre âge. Nous voyons qu’il y eut la grande
-Réforme de Luther, puis de Wesley, puis des Pentecôtistes. Maintenant nous attendons la Pierre
-de faîte de la Cité.
-349 Oh Dieu, nous connaissons l’âge, ainsi que la promesse qui nous est donnée pour ce jour; nous
-savons de quelle manière cela doit être restauré. La Lumière du soir en fera mûrir le fruit et il
-arrivera qu’il y aura un jour qui ne sera ni jour ni nuit; mais au temps du soir il y aura la Lumière. Ce
-même glorieux Fils de Dieu s’était manifesté Lui-même dans la chair humaine ici sur la terre, faisant
-vivre exactement la promesse de manière exacte. Les Pharisiens, les Sadducéens, Hérode et tous
-les autres avaient été aveuglés à Son égard; et aujourd’hui cela se répète. La Parole est manifestée
-de la même manière qu’Elle le fut auparavant. Cette Parole connaît les secrets des coeurs, tout
-comme Elle les connaissait avant, comme le dit l’Ecriture qui ne peut être brisée. Aide-nous, ô
-Dieu, à réaliser cela. Aide maintenant ceux qui ont levé la main. Puissent-ils resserrer davantage la
-ceinture de la Vérité, puissent-ils mettre les chaussures de l’Evangile de paix et revêtir l’armure
-complète de Dieu; puissent-ils mettre le casque du salut et prendre le bouclier de la foi. Puissent-ils
+348 Père céleste, prends-nous maintenant, Seigneur. Que le grand Berger, le glorieux Berger-Rédempteur vienne, ce glorieux Berger qui abandonna la gloire car Il savait que certains de Ses attributs étaient perdus dans les grandes vallées du péché où les loups et les animaux sauvages auraient tôt fait de dévorer ce petit agneau. Mais il quitta les couloirs dorés pour descendre sur la terre et Il devint l’un de nous afin de pouvoir nous déclarer l’amour de Dieu. C’est là qu’Il les trouva: certains étaient dans les dénominations, d’autres dans les maisons de mauvaise réputation, d’autres dans les rues, certains étaient aveugles, d’autres étaient dans les haies ou le long des chemins; mais il racheta tous ceux que le Père Lui avait ordonné de racheter. Puis Il nous donna pour mission de vivre cette portion de la Parole pour notre âge. Nous voyons qu’il y eut la grande Réforme de Luther, puis de Wesley, puis des Pentecôtistes. Maintenant nous attendons la Pierre de faîte de la Cité.
+349 Oh Dieu, nous connaissons l’âge, ainsi que la promesse qui nous est donnée pour ce jour; nous savons de quelle manière cela doit être restauré. La Lumière du soir en fera mûrir le fruit et il arrivera qu’il y aura un jour qui ne sera ni jour ni nuit; mais au temps du soir il y aura la Lumière. Ce même glorieux Fils de Dieu s’était manifesté Lui-même dans la chair humaine ici sur la terre, faisant vivre exactement la promesse de manière exacte. Les Pharisiens, les Sadducéens, Hérode et tous les autres avaient été aveuglés à Son égard; et aujourd’hui cela se répète. La Parole est manifestée de la même manière qu’Elle le fut auparavant. Cette Parole connaît les secrets des coeurs, tout comme Elle les connaissait avant, comme le dit l’Ecriture qui ne peut être brisée. Aide-nous, ô Dieu, à réaliser cela. Aide maintenant ceux qui ont levé la main. Puissent-ils resserrer davantage la ceinture de la Vérité, puissent-ils mettre les chaussures de l’Evangile de paix et revêtir l’armure complète de Dieu; puissent-ils mettre le casque du salut et prendre le bouclier de la foi. Puissent-ils
 
         http://www.cmpp.ch
 
     LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    38
 marcher de l’avant dès aujourd’hui. Accorde-le, Seigneur.
-350 Encore un tout petit moment et nous serons appelés et l’enlèvement aura lieu. Seul un tout petit
-groupe sera enlevé comme le fut Enoch. Alors le reste de cette semence de la femme, ceux qui
-auront gardé les commandements de Dieu (les Juifs) et ceux qui auront témoigné de Jésus-Christ
-(les nations) seront chassés comme des chiens et devront donner leur vie à cause de leur
-témoignage. Et alors ce sera le glorieux matin, le commencement du millénium, de la lune de miel.
-Mais le reste des morts ne vivra pas jusqu’à la fin des mille ans. Puis à la fin des mille ans aura lieu le
-jugement, ce qui montre que Cham se trouvait dans l’arche. Et chacun se trouve toujours là dans le
-reste. Celui qui entend cela et le rejette devra être jugé. Seigneur, accorde-nous de ne pas nous
-trouver parmi eux mais d’être appelés pour le Souper des Noces, car nous reconnaissons
-réellement que Jésus est parmi nous aujourd’hui. Nous irons avec Lui, nous sortirons du monde
-pour aller en Lui. Marchons pour entrer dans cette Cité. Sortons et allons avec Lui.
-351 Seigneur, je me fais vieux. Je ne prêcherai plus beaucoup de sermons. J’ai réellement confiance
-en Toi. Je recherche cette Cité comme le fit mon père Abraham. Quelque chose en moi me dit qu’Il
-vient. Seigneur, j’essaie de répandre la Lumière partout. Qu’aucun de ceux-ci ne reste en arrière,
-Seigneur. De quelle manière merveilleuse Tu m’as révélé cela il y a un instant: ceux qui se sont
-rassemblés ici aujourd’hui viennent d’un rayon de 2’200 km environ. Ils se sont rassemblés à ce petit
-endroit, attendant que la Cité apparaisse. Nous affirmons être des pèlerins et des étrangers, des
-proscrits. Les païens, les gens du monde, rient et se moquent de nous; les dénominations religieuses
-nous ridiculisent, mais ces choses ne nous émeuvent pas. Seigneur, fais en sorte que nous
-soyons une part inébranlable de la Parole. Ces choses arriveront en ces derniers jours. Puissions-
-nous être parmi eux, Seigneur; puissions-nous être comptés parmi-eux. Nous le demandons au Nom
-du Seigneur Jésus. Amen.
+350 Encore un tout petit moment et nous serons appelés et l’enlèvement aura lieu. Seul un tout petit groupe sera enlevé comme le fut Enoch. Alors le reste de cette semence de la femme, ceux qui auront gardé les commandements de Dieu (les Juifs) et ceux qui auront témoigné de Jésus-Christ (les nations) seront chassés comme des chiens et devront donner leur vie à cause de leur témoignage. Et alors ce sera le glorieux matin, le commencement du millénium, de la lune de miel. Mais le reste des morts ne vivra pas jusqu’à la fin des mille ans. Puis à la fin des mille ans aura lieu le jugement, ce qui montre que Cham se trouvait dans l’arche. Et chacun se trouve toujours là dans le reste. Celui qui entend cela et le rejette devra être jugé. Seigneur, accorde-nous de ne pas nous trouver parmi eux mais d’être appelés pour le Souper des Noces, car nous reconnaissons réellement que Jésus est parmi nous aujourd’hui. Nous irons avec Lui, nous sortirons du monde pour aller en Lui. Marchons pour entrer dans cette Cité. Sortons et allons avec Lui.
+351 Seigneur, je me fais vieux. Je ne prêcherai plus beaucoup de sermons. J’ai réellement confiance en Toi. Je recherche cette Cité comme le fit mon père Abraham. Quelque chose en moi me dit qu’Il vient. Seigneur, j’essaie de répandre la Lumière partout. Qu’aucun de ceux-ci ne reste en arrière, Seigneur. De quelle manière merveilleuse Tu m’as révélé cela il y a un instant: ceux qui se sont rassemblés ici aujourd’hui viennent d’un rayon de 2’200 km environ. Ils se sont rassemblés à ce petit endroit, attendant que la Cité apparaisse. Nous affirmons être des pèlerins et des étrangers, des proscrits. Les païens, les gens du monde, rient et se moquent de nous; les dénominations religieuses nous ridiculisent, mais ces choses ne nous émeuvent pas. Seigneur, fais en sorte que nous soyons une part inébranlable de la Parole. Ces choses arriveront en ces derniers jours. Puissions-nous être parmi eux, Seigneur; puissions-nous être comptés parmi-eux. Nous le demandons au Nom du Seigneur Jésus. Amen.
 352 Le croyez-vous? Elevons nos mains comme ceci: Je suis en route pour cette belle Cité
     Que mon Seigneur a préparée pour les Siens…
-353 Maintenant, puisque nous devons habiter ensemble dans cette Cité, serrons simplement la main
-de quelqu’un et disons: «Dieu vous bénisse, pèlerin! D’où venez-vous?». «De la Louisiane», «de la
-Géorgie», «du Mississipi». «Je suis aussi un pèlerin. Je recherche cette Cité» [Frère Branham se
-tourne et serre les mains de ceux qui se trouvent autour de lui — N.d.R.]
+353 Maintenant, puisque nous devons habiter ensemble dans cette Cité, serrons simplement la main de quelqu’un et disons: «Dieu vous bénisse, pèlerin! D’où venez-vous?». «De la Louisiane», «de la Géorgie», «du Mississipi». «Je suis aussi un pèlerin. Je recherche cette Cité» [Frère Branham se tourne et serre les mains de ceux qui se trouvent autour de lui — N.d.R.]
         … et de la gloire que là-bas j’aurai.
         Quelle joie ce sera
         Lorsque le verrai mon Sauveur
         Dans cette belle Cité d’or…
-354 Notre Roi, qui ce matin est invisible, sera manifesté. Je ne verrai plus un Bill Dauch de 90 ans.
-Vous ne me verrez plus à l’âge de 50 ans. En ce jour, je serai changé.
+354 Notre Roi, qui ce matin est invisible, sera manifesté. Je ne verrai plus un Bill Dauch de 90 ans. Vous ne me verrez plus à l’âge de 50 ans. En ce jour, je serai changé.
         … et les bêtes sauvages
         Seront conduites par un petit enfant;
         Et la créature que je suis sera changée…
-355 Ne serez-vous pas heureux? Les cheveux gris auront disparu, il n’y aura plus d’épaules
-tombantes. Mais il y aura la beauté et l’immortalité; nous serons à Son image, surpassant l’éclat du
-soleil. Oh, que c’est merveilleux!
+355 Ne serez-vous pas heureux? Les cheveux gris auront disparu, il n’y aura plus d’épaules tombantes. Mais il y aura la beauté et l’immortalité; nous serons à Son image, surpassant l’éclat du soleil. Oh, que c’est merveilleux!
         … Seigneur, je prie pour cela;
         Il n’y aura plus de tristesse ni de tourments.
         Je n’aurai plus d’ennuis
         Et ce sera la paix pour moi dans la vallée.
-356 C’est pour cela que nous sommes ici. Combien parmi vous ont besoin de forces pour le voyage?
-Que Dieu nous en accorde. Combien parmi vous ont leur corps malade, sont des soldats blessés?
-Vous êtes une douzaine ou peut-être davantage. Croyez-vous qu’Il est ici ce Roi invisible? Les
-choses invisibles sont manifestées au travers des choses visibles. Il est Le même hier,
-aujourd’hui et pour toujours; Il n’a besoin que d’un corps visible. Maintenant, si c’est Son Esprit
-qui prêche cela au travers de moi, Il fera les oeuvres qu’Il faisait lorsqu’Il se trouvait ici. Oh que c’est
-merveilleux!
+356 C’est pour cela que nous sommes ici. Combien parmi vous ont besoin de forces pour le voyage? Que Dieu nous en accorde. Combien parmi vous ont leur corps malade, sont des soldats blessés? Vous êtes une douzaine ou peut-être davantage. Croyez-vous qu’Il est ici ce Roi invisible? Les choses invisibles sont manifestées au travers des choses visibles. Il est Le même hier, aujourd’hui et pour toujours; Il n’a besoin que d’un corps visible. Maintenant, si c’est Son Esprit qui prêche cela au travers de moi, Il fera les oeuvres qu’Il faisait lorsqu’Il se trouvait ici. Oh que c’est merveilleux!
     Je suis en route pour cette terre promise…
 
      http://www.cmpp.ch
 
 LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE 39
-357 Cinq cents descendirent là-bas dans le fleuve pour être baptisés lorsque l’Ange du Seigneur
-apparut pour la première fois visiblement. Il était venu pour confirmer que je L’avais rencontré. C’est
-ce qu’Il avait fait sur le mont Sinaï pour Moïse. Je suis entré dans la rivière, des centaines de gens
-ont chanté ce même chant lors du baptême. Il descendit là (c’est la même Colonne de feu dont vous
-voyez ici la photo) juste là, à la rivière, et dit: «De même que Jean-Baptiste fut envoyé pour annoncer
-Sa première venue, ce Message sera l’avant-coureur de Sa seconde venue».
+357 Cinq cents descendirent là-bas dans le fleuve pour être baptisés lorsque l’Ange du Seigneur apparut pour la première fois visiblement. Il était venu pour confirmer que je L’avais rencontré. C’est ce qu’Il avait fait sur le mont Sinaï pour Moïse. Je suis entré dans la rivière, des centaines de gens ont chanté ce même chant lors du baptême. Il descendit là (c’est la même Colonne de feu dont vous voyez ici la photo) juste là, à la rivière, et dit: «De même que Jean-Baptiste fut envoyé pour annoncer Sa première venue, ce Message sera l’avant-coureur de Sa seconde venue».
      Oh, qui viendra avec moi?
      Je suis en route pour cette terre promise.
-358 Cette même Colonne de feu se trouve ici avec nous: en êtes-vous conscients? Il a simplement
-destiné les uns à une chose et les autres à une autre. Si vous croyez sans l’ombre d’un doute
-qu’Il est au milieu de cette assemblée, je crois qu’Il se manifestera Lui-même à vous. Cela vous
-satisfait-il? Même si je ne peux pas tous vous appeler (il est déjà plus d’une heure!) mais si vous
-croyez, laissez-Le descendre parmi nous. Où se trouve votre foi? Vous devez croire cela. Ne doutez
-absolument pas et cela marchera. Je reconnais la Présence divine de Christ, qui est la Parole; or la
-Bible dit que la Parole est plus puissante qu’une épée à double tranchant et elle sépare
-jointures et moelles, Elle discerne les pensées et les secrets des coeurs.
-359 Regardez. Eh bien, je ne savais pas ces choses il y a quelques années. Et lorsque je disais ces
-choses, sans le savoir, regardez ce qu’Il fit. Il dit: “Tu prendras la main des gens et tu ne penseras à
-rien. Dis simplement ce qui le sera dit. Dis: «C’est une tumeur (ou quoi que ce soit)». Puis Il me dit: «Il
-arrivera un jour où tu n’auras pas besoin de dire cela. L’Esprit discernera les choses mêmes qui se
-trouvent en eux». Nous avons toutes sortes d’imitations; nous savons cela. Ces imitations séduiraient
-même les Elus, si c’était possible. Observez ces choses au travers du filtre de la Parole et vous
-saurez si c’est juste ou faux.
-360 Jésus demeure Le même hier, aujourd’hui et pour toujours. Combien y a-t-Il de malades ici qui
-savent que je ne Les connais pas? Levez la main et dites: «Je sais que vous ne me connaissez pas».
-Oh, je pense qu’il y en a partout. La seule chose que vous ayez à faire est de croire simplement cela.
+358 Cette même Colonne de feu se trouve ici avec nous: en êtes-vous conscients? Il a simplement destiné les uns à une chose et les autres à une autre. Si vous croyez sans l’ombre d’un doute qu’Il est au milieu de cette assemblée, je crois qu’Il se manifestera Lui-même à vous. Cela vous satisfait-il? Même si je ne peux pas tous vous appeler (il est déjà plus d’une heure!) mais si vous croyez, laissez-Le descendre parmi nous. Où se trouve votre foi? Vous devez croire cela. Ne doutez absolument pas et cela marchera. Je reconnais la Présence divine de Christ, qui est la Parole; or la Bible dit que la Parole est plus puissante qu’une épée à double tranchant et elle sépare jointures et moelles, Elle discerne les pensées et les secrets des coeurs.
+359 Regardez. Eh bien, je ne savais pas ces choses il y a quelques années. Et lorsque je disais ces choses, sans le savoir, regardez ce qu’Il fit. Il dit: “Tu prendras la main des gens et tu ne penseras à rien. Dis simplement ce qui le sera dit. Dis: «C’est une tumeur (ou quoi que ce soit)». Puis Il me dit: «Il arrivera un jour où tu n’auras pas besoin de dire cela. L’Esprit discernera les choses mêmes qui se trouvent en eux». Nous avons toutes sortes d’imitations; nous savons cela. Ces imitations séduiraient même les Elus, si c’était possible. Observez ces choses au travers du filtre de la Parole et vous saurez si c’est juste ou faux.
+360 Jésus demeure Le même hier, aujourd’hui et pour toujours. Combien y a-t-Il de malades ici qui savent que je ne Les connais pas? Levez la main et dites: «Je sais que vous ne me connaissez pas». Oh, je pense qu’il y en a partout. La seule chose que vous ayez à faire est de croire simplement cela.
         Crois seulement, crois seulement,
         Toutes choses sont possibles;
         Crois seulement, crois seulement,
         Toutes choses sont possibles, crois seulement.
-361 Jésus a dit: “Comme il en fut aux jours de Sodome, ainsi en sera-t-il lorsque le Fils de l’homme
-sera révélé sur la terre dans les derniers jours”. Ces choses arriveront lorsque le Fils de l’homme sera
-révélé ou plutôt lorsqu’Il se révélera dans les derniers jours. Or Il ne se révélera pas pendant les
-premiers jours, ni au milieu, mais dans les derniers jours (vous voyez?). Et nous sommes
-maintenant dans les derniers jours. En toutes choses, c’est exactement comme à Sodome; il en est
-de même des messagers.
-362 Qu’arriva-t-il au petit reste qui fut appelé à sortir pour aller avec le groupe d’Abraham? Il y en eut
-Un qui vint au milieu d’eux sous une forme humaine (représenté dans une chair humaine); Il mangea
-avec eux, Il but avec eux, Il mangea la même nourriture qu’eux et fit toutes choses comme eux. Il se
-tint au milieu d’eux et Leur délivra le Message. Puis Il dit: “Je m’en vais faire cette chose glorieuse”.
+361 Jésus a dit: “Comme il en fut aux jours de Sodome, ainsi en sera-t-il lorsque le Fils de l’homme sera révélé sur la terre dans les derniers jours”. Ces choses arriveront lorsque le Fils de l’homme sera révélé ou plutôt lorsqu’Il se révélera dans les derniers jours. Or Il ne se révélera pas pendant les premiers jours, ni au milieu, mais dans les derniers jours (vous voyez?). Et nous sommes maintenant dans les derniers jours. En toutes choses, c’est exactement comme à Sodome; il en est de même des messagers.
+362 Qu’arriva-t-il au petit reste qui fut appelé à sortir pour aller avec le groupe d’Abraham? Il y en eut Un qui vint au milieu d’eux sous une forme humaine (représenté dans une chair humaine); Il mangea avec eux, Il but avec eux, Il mangea la même nourriture qu’eux et fit toutes choses comme eux. Il se tint au milieu d’eux et Leur délivra le Message. Puis Il dit: “Je m’en vais faire cette chose glorieuse”.
 363 Et Abraham continua de réfléchir: “Est-ce cela? Je cherche une Cité. En est-Il le Roi?”.
 364 Il dit alors: “Pourquoi Sara a-t-elle douté de cela?” (Elle se trouvait dans la tente derrière Lui.)
 365 Abraham L’appela Seigneur Dieu, Elohim, car Il avait discerné les pensées de Sara.
-366 Jésus dit que ces choses se répéteraient lorsqu’Il se révélerait dans les derniers jours,
-lorsque la Pierre de faîte viendrait sur le Corps, c’est-à-dire pour la rédemption, pour venir
-prendre les Siens. Il est ici avec nous.
-367 Maintenant il y a environ une douzaine de mains qui se sont levées. Je crois que Dieu peut guérir
-chacun de vous. Je le crois. Je ne crois vraiment pas qu’une personne pourrait s’asseoir dans un
-endroit tel que celui-ci, dans l’atmosphère de ce moment, sans savoir ni reconnaître quelque chose.
-Maintenant, je veux que vous priiez. Je veux que vous compreniez ce qui ne va pas en vous, dans
-votre coeur. Vous voyez? Commencez donc à prier et dites: «Seigneur Jésus, révèle cette chose. Je
-veux Te parler de ce qui ne va pas en moi. Et maintenant, Tu as envoyé Ton Saint-Esprit sur frère
+366 Jésus dit que ces choses se répéteraient lorsqu’Il se révélerait dans les derniers jours, lorsque la Pierre de faîte viendrait sur le Corps, c’est-à-dire pour la rédemption, pour venir prendre les Siens. Il est ici avec nous.
+367 Maintenant il y a environ une douzaine de mains qui se sont levées. Je crois que Dieu peut guérir chacun de vous. Je le crois. Je ne crois vraiment pas qu’une personne pourrait s’asseoir dans un endroit tel que celui-ci, dans l’atmosphère de ce moment, sans savoir ni reconnaître quelque chose. Maintenant, je veux que vous priiez. Je veux que vous compreniez ce qui ne va pas en vous, dans votre coeur. Vous voyez? Commencez donc à prier et dites: «Seigneur Jésus, révèle cette chose. Je veux Te parler de ce qui ne va pas en moi. Et maintenant, Tu as envoyé Ton Saint-Esprit sur frère
 
         http://www.cmpp.ch
 
@@ -2352,14 +2011,9 @@ Il est merveilleux! Que Dieu soit avec vous maintenant.
 
 
 
-
-
-
     http://www.cmpp.ch
 
 LA DEMEURE FUTURE DE L’EPOUX CELESTE ET DE L’EPOUSE TERRESTRE    43
-
-
 
 
 

@@ -1,582 +1,285 @@
-    SERIE 2 N° 7
+---
+source: "cmpp"
+sermon_id: "serie2no7"
+title: "RESTITUTION DE L’ARBRE DE L’EPOUSE"
+subtitle: "22 avril 1962, matin"
+date: "1962-04-22"
+year: 1962
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la restitution, expliquant que Dieu restitue ce que la mort et le péché ont volé. Il utilise l'analogie du printemps et du soleil pour illustrer la résurrection et la restauration de l'Église. Il encourage les croyants à faire valoir leurs droits devant Satan par la foi et le Saint-Esprit."
+tags:
+  - "restitution"
+  - "résurrection"
+  - "Pâques"
+  - "guérison"
+  - "foi"
+  - "Saint-Esprit"
+persons:
+  - "William Marrion Branham"
+  - "Jésus-Christ"
+  - "Paul"
+  - "Joël"
+  - "Abraham"
+  - "Abimélec"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Mexico"
+  - "Alaska"
+  - "Colombie Britannique"
+  - "Fort St-John"
+  - "Anchorage"
+  - "Louisville"
+  - "Bowling Green"
+themes:
+  - "restitution"
+  - "résurrection"
+  - "loi de Dieu"
+  - "foi"
+  - "guérison divine"
+  - "autorité du croyant"
+  - "printemps spirituel"
+pdf_url: "http://cmpp.ch/serie2no7.pdf"
+llm_cleaned: true
+bible_refs:
+  - "2 Timothée 3"
+  - "Actes 19"
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Esther 13"
+  - "Genèse 20"
+  - "Jean 17"
+  - "Jean 5"
+  - "Luc 24"
+  - "Malachie 4"
+  - "Matthieu 27"
+  - "Psaumes 1"
+---
+SERIE 2 N° 7
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-     RESTITUTION DE L’ARBRE
-          DE L’EPOUSE
+RESTITUTION DE L’ARBRE DE L’EPOUSE
 (Restoration of the Bride Tree)
 
 
-
-
-      22 avril 1962, matin
-       Branham Tabernacle
+22 avril 1962, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    RESTITUTION DE L’ARBRE DE L’EPOUSE    2
+RESTITUTION DE L’ARBRE DE L’EPOUSE 2
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE
- (Restoration of the Bride Tree)
+(Restoration of the Bride Tree)
 
-
-
-      22 avril 1962, matin
-       Branham Tabernacle
+22 avril 1962, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+Merci, frère Orman. Dieu vous bénisse.
+Bonjour, chers amis. C’est un privilège de pouvoir venir dans ce tabernacle ce beau matin de Pâques pour adorer le Seigneur, et nous réjouir de la glorieuse résurrection de notre précieux Seigneur et Sauveur, Jésus-Christ.
+J’aimerais dire ceci. De tous les messages que notre pasteur a apportés jusqu’à ce jour, le meilleur que j’aie jamais entendu est celui de ce matin. En retournant à la maison, j’ai dit à ma femme: «Chérie, tu as vraiment manqué quelque chose en restant au lit!». De ma vie tout entière, c’est le meilleur message que j’aie jamais entendu sur la résurrection. Quel message étonnant! Chaque chose était dite à propos! Cela nous montre ce qui se passe, lorsque l’onction s’empare d’un homme. Il se passe quelque chose! Et nous sommes si heureux que Dieu nous ai donné un pasteur si merveilleux.
+Je voudrais aussi vous remercier, chacun de vous. Il y a maintenant pas mal de temps que je suis parmi vous (avec quelques petites interruptions de temps en temps); mais, comme vous le savez, je vais bientôt repartir dans les champs de mission. Cette semaine, je vais aller visiter les Indiens Cree, en Colombie Britannique; ensuite, j’irai à Fort St-John, et puis, cet été, si le Seigneur le permet, j’irai jusqu’en Alaska, à Anchorage. De là, je tâterai le terrain en ce qui concerne l’Afrique et le reste du monde pour l’hiver prochain.
+Je pense que je ne vous reverrai plus avant le mois d’août, ou avant cet automne.
+Je voudrais vous remercier de votre coopération, pour tout ce que vous avez fait. C’est dommage que nous n’ayons jamais assez de place pour tout le monde en des jours comme celui-ci. Vous savez que nous sommes en train d’étudier un projet de construction d’une plus grande église pour les services comme celui d’aujourd’hui. Je crois que ce projet est en train de se réaliser et que la construction va bientôt commencer.
+Je voudrais aussi remercier chacun de vous pour vos dons, vos cartes de voeux, tout ce que vous avez donné à Billy, à moi… Je vous suis très reconnaissant.
+Vous ne pouvez savoir combien c’est astreignant… tous ces gens qui viennent: «Nous voudrions voir frère Branham…» etc.
+Mon fils doit toujours leur répondre: «La feuille de rendez-vous est pleine!».
+C’est une situation embarrassante pour moi de ne pouvoir recevoir toutes ces personnes, mais je ne puis pas faire autrement.
+J’aimerais avoir le temps de m’asseoir et de passer un long moment avec chacun; j’espère avoir une fois le temps de le faire; mais cela ne peut pas être sur cette terre, parce qu’il y a des gens qui viennent du monde entier. Cette semaine, des gens sont venus de plusieurs pays, avec lesquels j’ai dû parler et prier, des gens venant de pays très éloignés.
+S’il ne s’agissait que de notre petite assemblée ici à Jeffersonville, je pourrais facilement consacrer 2 à 3 heures à chacun de vous. Mais, pour deux demandes venant de cette assemblée, il y en a peut-être cent ou deux cents venant du reste du monde. C’est pourquoi il y en a des milliers auxquels je ne peux même pas répondre.
 
-
-
-   Merci, frère Orman. Dieu vous bénisse.
-   Bonjour, chers amis. C’est un privilège de pouvoir venir dans ce tabernacle ce beau matin de
-Pâques pour adorer le Seigneur, et nous réjouir de la glorieuse résurrection de notre précieux
-Seigneur et Sauveur, Jésus-Christ.
-   J’aimerais dire ceci. De tous les messages que notre pasteur a apportés jusqu’à ce jour, le
-meilleur que j’aie jamais entendu est celui de ce matin. En retournant à la maison, j’ai dit à ma
-femme: «Chérie, tu as vraiment manqué quelque chose en restant au lit!». De ma vie tout entière,
-c’est le meilleur message que j’aie jamais entendu sur la résurrection. Quel message étonnant!
-Chaque chose était dite à propos! Cela nous montre ce qui se passe, lorsque l’onction
-s’empare d’un homme. Il se passe quelque chose! Et nous sommes si heureux que Dieu nous ai
-donné un pasteur si merveilleux.
-   Je voudrais aussi vous remercier, chacun de vous. Il y a maintenant pas mal de temps que je
-suis parmi vous (avec quelques petites interruptions de temps en temps); mais, comme vous le
-savez, je vais bientôt repartir dans les champs de mission. Cette semaine, je vais aller visiter les
-Indiens Cree, en Colombie Britannique; ensuite, j’irai à Fort St-John, et puis, cet été, si le Seigneur
-le permet, j’irai jusqu’en Alaska, à Anchorage. De là, je tâterai le terrain en ce qui concerne
-l’Afrique et le reste du monde pour l’hiver prochain.
-   Je pense que je ne vous reverrai plus avant le mois d’août, ou avant cet automne.
-   Je voudrais vous remercier de votre coopération, pour tout ce que vous avez fait. C’est
-dommage que nous n’ayons jamais assez de place pour tout le monde en des jours comme
-celui-ci. Vous savez que nous sommes en train d’étudier un projet de construction d’une plus
-grande église pour les services comme celui d’aujourd’hui. Je crois que ce projet est en train de se
-réaliser et que la construction va bientôt commencer.
-   Je voudrais aussi remercier chacun de vous pour vos dons, vos cartes de voeux, tout ce que
-vous avez donné à Billy, à moi… Je vous suis très reconnaissant.
-   Vous ne pouvez savoir combien c’est astreignant… tous ces gens qui viennent: «Nous
-voudrions voir frère Branham…» etc.
-   Mon fils doit toujours leur répondre: «La feuille de rendez-vous est pleine!».
-   C’est une situation embarrassante pour moi de ne pouvoir recevoir toutes ces personnes, mais
-je ne puis pas faire autrement.
-   J’aimerais avoir le temps de m’asseoir et de passer un long moment avec chacun; j’espère
-avoir une fois le temps de le faire; mais cela ne peut pas être sur cette terre, parce qu’il y a des
-gens qui viennent du monde entier. Cette semaine, des gens sont venus de plusieurs pays, avec
-lesquels j’ai dû parler et prier, des gens venant de pays très éloignés.
-   S’il ne s’agissait que de notre petite assemblée ici à Jeffersonville, je pourrais facilement
-consacrer 2 à 3 heures à chacun de vous. Mais, pour deux demandes venant de cette assemblée,
-il y en a peut-être cent ou deux cents venant du reste du monde. C’est pourquoi il y en a des
-milliers auxquels je ne peux même pas répondre.
-
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 3
-   Et tous ces appels me demandant ici ou là, n’importe où dans le monde! Ou bien, l’on m’envoie
-des billets d’avion pour que je vienne prier pour des malades… mais ce n’est pas possible.
-   Aussi, les gens sont déçus. Je le serais aussi, à leur place! Mais je voudrais simplement dire,
-en ce matin de Pâques, en me confessant à vous, que je ne sais pas quoi faire à ce sujet. Il y en a
-simplement trop! Il y en a des milliers et des milliers venant du monde entier. J’ai accompli mon
-septième voyage autour du monde, et j’ai pu prendre contact avec plus de dix millions de
-personnes. Vous pouvez imaginer ce que cela représente!
-   Chaque jour, nous avons nos petites déceptions. Mais pensez à ce que je ressens, lorsque je
-reçois l’appel d’une mère… «Oh, mon Dieu… Attendez une minute, frère Branham. Seigneur
-Jésus, je Te prie afin que Tu l’envoies ici…» et on raccroche… Et on téléphone d’ici, de là, de
-partout dans le monde. Vous savez comment cela se passe! Ce n’est pas facile quand à l’autre
-bout du fil, il y a un bébé malade, un mari malade ou une femme mourante, et qu’ils vous supplient
-de venir les voir.
-   Vous pouvez imaginer cela! Pas étonnant que je sois un nerveux! Cela suffirait à vous rendre
-les nerfs malades! Mais j’ai fait ceci: Au lieu de faire un complexe, j’ai essayé de rester ferme,
-en gardant mes yeux tournés vers le Calvaire et en allant de l’avant, exactement comme Il
-voudrait que je fasse.
-   Beaucoup de mes fautes… Je prie pour que Dieu me pardonne… Peut-être que j’aurais dû aller
-ici ou là, et que je n’y suis pas allé. Je ne suis qu’un être humain, sujet à faire des erreurs.
-   Je voudrais vous dire une chose amusante qui s’est passée ici ce matin, alors que je sortais
-après le premier culte du matin. J’ai rencontré dans la cour un de mes vieux amis (il est
-probablement ici), il vient de Chicago; il s’appelle Ed Stewart (il doit bien avoir 70 ans); je l’ai
-rencontré dans la cour. Il avait économisé l’argent de la dîme en pièces de deux sous, et m’en a
-apporté un paquet gros comme cela… Ils ont une oeuvre missionnaire à l’étranger. Et un de nos
-bons amis communs, le frère Leonard Skaggs, de Lowell, Indiana, était aussi là. Je n’avais jamais
-su, jusqu’alors, qu’il était franc-maçon. Il portait un insigne de franc-maçon, et nous parlions de
-l’ordre maçonnique. A un certain moment, le frère Stewart me dit: «Je vous aime bien, frère
-Branham, et j’aime bien causer avec vous. Mais, (pardonnez-moi l’expression), il est plus difficile
-de vous atteindre que si vous viviez dans un harem turc!».
-   Il n’y a pas bien longtemps, quelqu’un m’a dit: «Il est plus facile de s’approcher du Seigneur que
-de vous!».
-   Je ne tiens pas à m’isoler: j’aime la société. Mais j’imagine… En rentrant à la maison, j’ai
-raconté cela à ma femme; nous avons bien ri, et nous avons essayé de nous imaginer à quel point
-ce serait difficile de pénétrer dans un harem turc! Vous savez, je ne crois pas qu’il soit aussi
-difficile que cela de m’atteindre, frère Stewart, si vous êtes encore ici. Mais nous aimons rire un
-peu de temps en temps!
-   J’aimerais avoir le temps de voir chacun de vous en particulier. Et je vous aime, chacun de
-vous. (C’est vrai!) Amis ou ennemis, je ne fais pas de différence.
-   Je compte fermement sur vos prières pour les rencontres à venir. Je vais aller parmi les
-Indiens. Quand vous êtes à Rome, vous devez vous comporter comme un Romain. Et quand vous
-allez chez les Indiens, vous devez vivre comme eux.
-   Sur la route de l’Alaska, j’ai rencontré un de mes amis missionnaires, un homme avec qui je
-vais souvent à la chasse. Lui et sa femme sont de bonne famille. Il avait des éruptions un peu
-partout, et je lui demandai s’il avait de l’eczéma; non, c’étaient des piqûres de puces et de
-punaises qui venaient de ses séjours parmi les Indiens. Si vous voulez gagner ces âmes à Christ,
-vous devez aller vers eux et vous adapter à leur genre de vie. Eux aussi sont l’héritage de
-Christ!
-   Christ est mort également pour eux, et il faut bien que quelqu’un aille vers eux.
-   A une de mes réunions dans le nord, tenue dans un de leurs camps, leur chef était présent, et
-le Saint-Esprit l’appela par son nom, lui dit qui il était, ce qu’il avait fait, etc.… Cela fut déterminant
-pour lui! Il savait que des êtres humains ne pouvaient pas faire cela. Cela ne pouvait venir que du
-Tout-Puissant.
+Et tous ces appels me demandant ici ou là, n’importe où dans le monde! Ou bien, l’on m’envoie des billets d’avion pour que je vienne prier pour des malades… mais ce n’est pas possible.
+Aussi, les gens sont déçus. Je le serais aussi, à leur place! Mais je voudrais simplement dire, en ce matin de Pâques, en me confessant à vous, que je ne sais pas quoi faire à ce sujet. Il y en a simplement trop! Il y en a des milliers et des milliers venant du monde entier. J’ai accompli mon septième voyage autour du monde, et j’ai pu prendre contact avec plus de dix millions de personnes. Vous pouvez imaginer ce que cela représente!
+Chaque jour, nous avons nos petites déceptions. Mais pensez à ce que je ressens, lorsque je reçois l’appel d’une mère… «Oh, mon Dieu… Attendez une minute, frère Branham. Seigneur Jésus, je Te prie afin que Tu l’envoies ici…» et on raccroche… Et on téléphone d’ici, de là, de partout dans le monde. Vous savez comment cela se passe! Ce n’est pas facile quand à l’autre bout du fil, il y a un bébé malade, un mari malade ou une femme mourante, et qu’ils vous supplient de venir les voir.
+Vous pouvez imaginer cela! Pas étonnant que je sois un nerveux! Cela suffirait à vous rendre les nerfs malades! Mais j’ai fait ceci: Au lieu de faire un complexe, j’ai essayé de rester ferme, en gardant mes yeux tournés vers le Calvaire et en allant de l’avant, exactement comme Il voudrait que je fasse.
+Beaucoup de mes fautes… Je prie pour que Dieu me pardonne… Peut-être que j’aurais dû aller ici ou là, et que je n’y suis pas allé. Je ne suis qu’un être humain, sujet à faire des erreurs.
+Je voudrais vous dire une chose amusante qui s’est passée ici ce matin, alors que je sortais après le premier culte du matin. J’ai rencontré dans la cour un de mes vieux amis (il est probablement ici), il vient de Chicago; il s’appelle Ed Stewart (il doit bien avoir 70 ans); je l’ai rencontré dans la cour. Il avait économisé l’argent de la dîme en pièces de deux sous, et m’en a apporté un paquet gros comme cela… Ils ont une oeuvre missionnaire à l’étranger. Et un de nos bons amis communs, le frère Leonard Skaggs, de Lowell, Indiana, était aussi là. Je n’avais jamais su, jusqu’alors, qu’il était franc-maçon. Il portait un insigne de franc-maçon, et nous parlions de l’ordre maçonnique. A un certain moment, le frère Stewart me dit: «Je vous aime bien, frère Branham, et j’aime bien causer avec vous. Mais, (pardonnez-moi l’expression), il est plus difficile de vous atteindre que si vous viviez dans un harem turc!».
+Il n’y a pas bien longtemps, quelqu’un m’a dit: «Il est plus facile de s’approcher du Seigneur que de vous!».
+Je ne tiens pas à m’isoler: j’aime la société. Mais j’imagine… En rentrant à la maison, j’ai raconté cela à ma femme; nous avons bien ri, et nous avons essayé de nous imaginer à quel point ce serait difficile de pénétrer dans un harem turc! Vous savez, je ne crois pas qu’il soit aussi difficile que cela de m’atteindre, frère Stewart, si vous êtes encore ici. Mais nous aimons rire un peu de temps en temps!
+J’aimerais avoir le temps de voir chacun de vous en particulier. Et je vous aime, chacun de vous. (C’est vrai!) Amis ou ennemis, je ne fais pas de différence.
+Je compte fermement sur vos prières pour les rencontres à venir. Je vais aller parmi les Indiens. Quand vous êtes à Rome, vous devez vous comporter comme un Romain. Et quand vous allez chez les Indiens, vous devez vivre comme eux.
+Sur la route de l’Alaska, j’ai rencontré un de mes amis missionnaires, un homme avec qui je vais souvent à la chasse. Lui et sa femme sont de bonne famille. Il avait des éruptions un peu partout, et je lui demandai s’il avait de l’eczéma; non, c’étaient des piqûres de puces et de punaises qui venaient de ses séjours parmi les Indiens. Si vous voulez gagner ces âmes à Christ, vous devez aller vers eux et vous adapter à leur genre de vie. Eux aussi sont l’héritage de Christ!
+Christ est mort également pour eux, et il faut bien que quelqu’un aille vers eux.
+A une de mes réunions dans le nord, tenue dans un de leurs camps, leur chef était présent, et le Saint-Esprit l’appela par son nom, lui dit qui il était, ce qu’il avait fait, etc.… Cela fut déterminant pour lui! Il savait que des êtres humains ne pouvaient pas faire cela. Cela ne pouvait venir que du Tout-Puissant.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 4
-   Maintenant, ce chef a propagé la Parole tout le long de la côte, et nous la parcourrons dans un
-petit bateau à voiles, tenant des réunions là où nous pourrons les atteindre, le long de la côte, et
-jusqu’aux Indiens Cree, les plus négligés. Beaucoup, parmi les frères qui tiennent des grandes
-réunions, ne peuvent les atteindre.
-   Les Indiens… Ils n’ont pas un sou (comme vous le savez, je ne recueille jamais d’offrande dans
-mes réunions; je ne prends pas d’argent), mais c’est l’église qui soutient ces rencontres avec les
-Indiens. Une partie de votre dîme et de vos dons servira à apporter le message du Salut à ces
-pauvres Indiens illettrés. Après tout, ce sont eux, les Américains! Nous sommes des étrangers.
-Nous sommes venus et nous leur avons pris leur pays. Je ne peux pas leur rendre leur pays, mais
-je peux leur apporter l’espérance en Christ, qui nous réunira un jour dans la communion
-fraternelle dans un pays où l’on ne fait plus la guerre, ni ne se vole les terres les uns aux
-autres. Ce sera un pays où il y aura de la place pour tout le monde. Et, lorsque ce jour viendra, je
-serai reconnaissant que tous ceux que j’aime soient prêts à ce moment.
-   En vous parlant, je vois beaucoup d’amis, assis ici dans cette salle. Je vois soeur… (comment
-s’appelle-t-elle déjà?) soeur Lee. C’est bien cela? Vous êtes soeur Lee? Ce sont vos filles qui
-avaient été guéries? C’est magnifique! L’une d’elles était dans le Home du Bon Berger, quelque
-chose comme cela (je ne sais plus, je confonds toujours ces noms catholiques). Elle avait les nerfs
-malades, mais notre cher Seigneur Jésus… je me tenais au pied du lit, son père et sa mère étaient
-présents; le Seigneur Jésus annonça que tout était terminé, et elle fut guérie. Et notre soeur est
-pleine de reconnaissance!
-   Je regarde, et je vois des gens qui, il n’y a pas longtemps encore, étaient mourants du cancer.
-Ils se traînaient ici avec des béquilles ou dans des chaises roulantes, et les voici ce matin dans
-cette salle, en bonne santé! Et cela se passe dans le monde entier! Cela ne vient pas de moi,
-mais c’est Lui, notre Seigneur, qui est ressuscité d’entre les morts, et Il vit aux siècles des
-siècles!
-   Qu’à jamais, le Seigneur puisse être béni et loué, c’est là ma fervente prière. Voulez-vous prier
-pour moi, vous tous? Priez pour moi! J’ai besoin de vos prières! Quand je vais là-bas… Ici, à la
-maison, cela ne va pas trop mal, mais quand vous allez sur le champ de bataille, que vous êtes
-sur le front… il faut être entraîné. L’autre jour, j’écoutais la radio dans la nouvelle voiture que
-l’église m’a offerte. (L’ancienne était usée.) J’écoutais les informations. Il y avait un reportage sur
-le camp militaire de Green’s Mill. On pouvait suivre un jeune soldat en cours d’entraînement. Il
-devait mettre du sable dans ses poches pour s’alourdir, ramper sous le feu d’une mitrailleuse tirant
-à balle, passer sous des fils de fer barbelés, etc. C’était un entraînement rigoureux!
-   C’est ce que nous faisons ici. Mais, sur le champ de bataille, c’est bien autre chose! Au camp
-d’entraînement, la mitrailleuse est réglée de manière à ne pas vous faire de mal, mais sur le
-champ de bataille, elle peut vous abattre. Vous comprenez? Là-bas, c’est différent d’ici. Ici, nous
-sommes dans le camp d’entraînement, mais là-bas, c’est le champ de bataille.
-   Là-bas, nous verrons l’ennemi face à face. Nous chantions autrefois un petit chant: Le combat a
-commencé. Vous en souvenez-vous?
-      Le combat a commencé, ô soldats chrétiens!
-      Les armées sont rangées face à face.
-      Les armures étincellent, les drapeaux se déploient
-      C’est le combat du bien et du mal!
-      Le combat a commencé, mais prenez courage!
-      Soyez forts, restez dans Sa puissance;
-      Si Dieu est avec nous, si Sa bannière flotte sur nous,
-      Nous chanterons bientôt le chant de la victoire!
-   (C’est vrai!)
-   Je voudrais encore dire beaucoup de choses, ce matin, mais il faut que je m’en tienne à
-l’essentiel, parce qu’il y a beaucoup de monde qui doit rester debout, dans la salle et dehors, où
-des haut-parleurs ont été installés. Je crois que ce message est aussi retransmis par les ondes. Je
-suis très heureux de votre présence à vous tous ici ce matin.
+Maintenant, ce chef a propagé la Parole tout le long de la côte, et nous la parcourrons dans un petit bateau à voiles, tenant des réunions là où nous pourrons les atteindre, le long de la côte, et jusqu’aux Indiens Cree, les plus négligés. Beaucoup, parmi les frères qui tiennent des grandes réunions, ne peuvent les atteindre.
+Les Indiens… Ils n’ont pas un sou (comme vous le savez, je ne recueille jamais d’offrande dans mes réunions; je ne prends pas d’argent), mais c’est l’église qui soutient ces rencontres avec les Indiens. Une partie de votre dîme et de vos dons servira à apporter le message du Salut à ces pauvres Indiens illettrés. Après tout, ce sont eux, les Américains! Nous sommes des étrangers. Nous sommes venus et nous leur avons pris leur pays. Je ne peux pas leur rendre leur pays, mais je peux leur apporter l’espérance en Christ, qui nous réunira un jour dans la communion fraternelle dans un pays où l’on ne fait plus la guerre, ni ne se vole les terres les uns aux autres. Ce sera un pays où il y aura de la place pour tout le monde. Et, lorsque ce jour viendra, je serai reconnaissant que tous ceux que j’aime soient prêts à ce moment.
+En vous parlant, je vois beaucoup d’amis, assis ici dans cette salle. Je vois soeur… (comment s’appelle-t-elle déjà?) soeur Lee. C’est bien cela? Vous êtes soeur Lee? Ce sont vos filles qui avaient été guéries? C’est magnifique! L’une d’elles était dans le Home du Bon Berger, quelque chose comme cela (je ne sais plus, je confonds toujours ces noms catholiques). Elle avait les nerfs malades, mais notre cher Seigneur Jésus… je me tenais au pied du lit, son père et sa mère étaient présents; le Seigneur Jésus annonça que tout était terminé, et elle fut guérie. Et notre soeur est pleine de reconnaissance!
+Je regarde, et je vois des gens qui, il n’y a pas longtemps encore, étaient mourants du cancer. Ils se traînaient ici avec des béquilles ou dans des chaises roulantes, et les voici ce matin dans cette salle, en bonne santé! Et cela se passe dans le monde entier! Cela ne vient pas de moi, mais c’est Lui, notre Seigneur, qui est ressuscité d’entre les morts, et Il vit aux siècles des siècles!
+Qu’à jamais, le Seigneur puisse être béni et loué, c’est là ma fervente prière. Voulez-vous prier pour moi, vous tous? Priez pour moi! J’ai besoin de vos prières! Quand je vais là-bas… Ici, à la maison, cela ne va pas trop mal, mais quand vous allez sur le champ de bataille, que vous êtes sur le front… il faut être entraîné. L’autre jour, j’écoutais la radio dans la nouvelle voiture que l’église m’a offerte. (L’ancienne était usée.) J’écoutais les informations. Il y avait un reportage sur le camp militaire de Green’s Mill. On pouvait suivre un jeune soldat en cours d’entraînement. Il devait mettre du sable dans ses poches pour s’alourdir, ramper sous le feu d’une mitrailleuse tirant à balle, passer sous des fils de fer barbelés, etc. C’était un entraînement rigoureux!
+C’est ce que nous faisons ici. Mais, sur le champ de bataille, c’est bien autre chose! Au camp d’entraînement, la mitrailleuse est réglée de manière à ne pas vous faire de mal, mais sur le champ de bataille, elle peut vous abattre. Vous comprenez? Là-bas, c’est différent d’ici. Ici, nous sommes dans le camp d’entraînement, mais là-bas, c’est le champ de bataille.
+Là-bas, nous verrons l’ennemi face à face. Nous chantions autrefois un petit chant: Le combat a commencé. Vous en souvenez-vous?
+> Le combat a commencé, ô soldats chrétiens!
+> Les armées sont rangées face à face.
+> Les armures étincellent, les drapeaux se déploient
+> C’est le combat du bien et du mal!
+> Le combat a commencé, mais prenez courage!
+> Soyez forts, restez dans Sa puissance;
+> Si Dieu est avec nous, si Sa bannière flotte sur nous,
+> Nous chanterons bientôt le chant de la victoire!
+(C’est vrai!)
+Je voudrais encore dire beaucoup de choses, ce matin, mais il faut que je m’en tienne à l’essentiel, parce qu’il y a beaucoup de monde qui doit rester debout, dans la salle et dehors, où des haut-parleurs ont été installés. Je crois que ce message est aussi retransmis par les ondes. Je suis très heureux de votre présence à vous tous ici ce matin.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 5
-   Après ce culte, je crois qu’il y a un service de baptême? Mais il y a d’abord une ligne de prière;
-ce matin, nous prierons pour les malades. Je crois que lorsque Dieu Se manifeste, c’est la
-meilleure preuve de Sa résurrection. Est-Il, ou n’est-Il pas vivant? Tout cela n’est-il qu’un roman,
-ou est-ce la vérité? S’Il est vivant, Il a fait une promesse: “Je serai avec vous tous les jours,
-jusqu’à la fin du monde”.
-   Par conséquent, s’Il vient parmi nous et prouve qu’Il est là, il n’y a plus de suppositions à faire,
-à ce sujet. Voyez toutes les religions du monde, elles ont leurs jours fériés et leurs saints, mais
-aucune ne peut prouver… Un jour, la mort a emporté leur fondateur, et ce fut tout. Mais pour
-nous, pour notre religion chrétienne, si notre Fondateur est mort, Il est ressuscité!
-   Dernièrement à Mexico, j’ai été interrogé par la presse au sujet de ce bébé qui était mort le
-matin à neuf heures et qui fut ressuscité le même soir à dix heures trente ou onze heures; il a été
-ressuscité des morts dans les bras de sa mère sur la plate-forme, en présence de dizaines
-de milliers de gens. Trente mille vinrent à Christ, ce soir-là, aussi, vous pouvez vous imaginer ce
-qui s’est passé!
-   Ce petit enfant, je le vis en vision devant moi; son nom, et tout ce qui le concernait me fut
-révélé. Sa mère se tenait tout derrière, elle n’avait pas pu obtenir une carte de prière, et ne pouvait
-entrer. Mais elle n’eut pas besoin de passer par la ligne de prière. Lorsqu’elle apporta ce petit
-bébé, sous cette pluie battante…
-   Vous qui êtes debout maintenant, pensez à eux, ce jour-là à Mexico! Ils étaient venus à neuf
-heures du matin pour assister à la réunion de neuf heures du soir! Ils étaient debout en plein soleil,
-s’appuyant les uns contre les autres pour se donner un peu d’ombre… Non pas assis, mais
-debout! Et en Afrique, et ailleurs, c’est la même chose. Et en Inde, où il y en eut un demi-million en
-une seule réunion!
-   Cette pauvre femme ne put même pas obtenir une carte de prière! (il y avait environ trois cents
-volontaires qui conduisaient la ligne et l’empêchaient de passer.) Elle ne pouvait pas entrer dans la
-ligne de prière, et elle restait là, priant pour le petit enfant… une pauvre femme catholique. Mais le
-Saint-Esprit m’appela et dit: «Dis-lui de l’amener ici!».
-   Ce petit enfant, enroulé dans une couverture mouillée (ils étaient là depuis le matin), le médecin
-avait déclaré qu’il était mort (nous avons une copie du certificat de décès de l’enfant), qu’il était
-mort ce matin à neuf heures, et maintenant, il était près de minuit! Et moi, selon ce que m’avait
-montré la vision, je lui avais imposé les mains, et le voici de nouveau vivant! Le docteur en
-rendit témoignage.
-   Je fus interviewé par la presse (je n’ai rien contre les croyances de qui que ce soit, aussi
-longtemps qu’elles sont conformes à la Bible). Mais ceux qui m’interrogeaient étaient catholiques,
-et ils me demandèrent: «Croyez-vous que nos saints pourraient faire cela?».
-   Je leur répondis: «Oui, s’ils sont encore en vie». (Je sais très bien que l’église catholique croit
-que vous devez être mort pour être un saint.) Je leur dis donc: «Oui, s’ils sont encore en vie».
-   Mais ils me répondirent: «Mais vous ne pouvez être un saint tant que vous n’êtes pas mort».
-   Je leur dis: «Paul fut-il un saint de son vivant déjà, ou seulement après sa mort?
-S’adressait-il aux morts, lorsqu’il écrivait: “Aux saints qui sont à Ephèse…” et: “Aux saints qui sont
-à tel ou tel endroit?”. Il n’aurait pas écrit à des morts, vous savez!».
-   Ils me répondirent: «Vous essayez de juger votre cas par la Bible. Mais nous, nous sommes
-l’Eglise».
-   Je dis: «D’accord, messieurs…».
-   Ils avaient dit: «Nous sommes l’Eglise!».
-   Je leur répondis: «Alors, voyons l’Eglise faire cela». (Nous savons tous que seul Christ peut
-faire cela!)
-   Ils me demandèrent encore: «Quelle est votre opinion sur l’Eglise catholique?».
-   Je leur répondis: «J’aurais préféré que vous ne me posiez pas cette question!».
-   Mais ils insistèrent: «Nous aimerions tout de même connaître votre opinion».
-   Alors, je leur répondis: «C’est la forme la plus élevée du spiritisme!».
+Après ce culte, je crois qu’il y a un service de baptême? Mais il y a d’abord une ligne de prière; ce matin, nous prierons pour les malades. Je crois que lorsque Dieu Se manifeste, c’est la meilleure preuve de Sa résurrection. Est-Il, ou n’est-Il pas vivant? Tout cela n’est-il qu’un roman, ou est-ce la vérité? S’Il est vivant, Il a fait une promesse: “Je serai avec vous tous les jours, jusqu’à la fin du monde”.
+Par conséquent, s’Il vient parmi nous et prouve qu’Il est là, il n’y a plus de suppositions à faire, à ce sujet. Voyez toutes les religions du monde, elles ont leurs jours fériés et leurs saints, mais aucune ne peut prouver… Un jour, la mort a emporté leur fondateur, et ce fut tout. Mais pour nous, pour notre religion chrétienne, si notre Fondateur est mort, Il est ressuscité!
+Dernièrement à Mexico, j’ai été interrogé par la presse au sujet de ce bébé qui était mort le matin à neuf heures et qui fut ressuscité le même soir à dix heures trente ou onze heures; il a été ressuscité des morts dans les bras de sa mère sur la plate-forme, en présence de dizaines de milliers de gens. Trente mille vinrent à Christ, ce soir-là, aussi, vous pouvez vous imaginer ce qui s’est passé!
+Ce petit enfant, je le vis en vision devant moi; son nom, et tout ce qui le concernait me fut révélé. Sa mère se tenait tout derrière, elle n’avait pas pu obtenir une carte de prière, et ne pouvait entrer. Mais elle n’eut pas besoin de passer par la ligne de prière. Lorsqu’elle apporta ce petit bébé, sous cette pluie battante…
+Vous qui êtes debout maintenant, pensez à eux, ce jour-là à Mexico! Ils étaient venus à neuf heures du matin pour assister à la réunion de neuf heures du soir! Ils étaient debout en plein soleil, s’appuyant les uns contre les autres pour se donner un peu d’ombre… Non pas assis, mais debout! Et en Afrique, et ailleurs, c’est la même chose. Et en Inde, où il y en eut un demi-million en une seule réunion!
+Cette pauvre femme ne put même pas obtenir une carte de prière! (il y avait environ trois cents volontaires qui conduisaient la ligne et l’empêchaient de passer.) Elle ne pouvait pas entrer dans la ligne de prière, et elle restait là, priant pour le petit enfant… une pauvre femme catholique. Mais le Saint-Esprit m’appela et dit: «Dis-lui de l’amener ici!».
+Ce petit enfant, enroulé dans une couverture mouillée (ils étaient là depuis le matin), le médecin avait déclaré qu’il était mort (nous avons une copie du certificat de décès de l’enfant), qu’il était mort ce matin à neuf heures, et maintenant, il était près de minuit! Et moi, selon ce que m’avait montré la vision, je lui avais imposé les mains, et le voici de nouveau vivant! Le docteur en rendit témoignage.
+Je fus interviewé par la presse (je n’ai rien contre les croyances de qui que ce soit, aussi longtemps qu’elles sont conformes à la Bible). Mais ceux qui m’interrogeaient étaient catholiques, et ils me demandèrent: «Croyez-vous que nos saints pourraient faire cela?».
+Je leur répondis: «Oui, s’ils sont encore en vie». (Je sais très bien que l’église catholique croit que vous devez être mort pour être un saint.) Je leur dis donc: «Oui, s’ils sont encore en vie».
+Mais ils me répondirent: «Mais vous ne pouvez être un saint tant que vous n’êtes pas mort».
+Je leur dis: «Paul fut-il un saint de son vivant déjà, ou seulement après sa mort? S’adressait-il aux morts, lorsqu’il écrivait: “Aux saints qui sont à Ephèse…” et: “Aux saints qui sont à tel ou tel endroit?”. Il n’aurait pas écrit à des morts, vous savez!».
+Ils me répondirent: «Vous essayez de juger votre cas par la Bible. Mais nous, nous sommes l’Eglise».
+Je dis: «D’accord, messieurs…».
+Ils avaient dit: «Nous sommes l’Eglise!».
+Je leur répondis: «Alors, voyons l’Eglise faire cela». (Nous savons tous que seul Christ peut faire cela!)
+Ils me demandèrent encore: «Quelle est votre opinion sur l’Eglise catholique?».
+Je leur répondis: «J’aurais préféré que vous ne me posiez pas cette question!».
+Mais ils insistèrent: «Nous aimerions tout de même connaître votre opinion».
+Alors, je leur répondis: «C’est la forme la plus élevée du spiritisme!».
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 6
-   — «Du spiritisme?».
-   — «Parfaitement!».
-   — «Que voulez-vous dire par cela?».
-   — «Je parle de tout ce qui concerne les prières faites aux morts, la communion des saints».
-Vous voyez?
-   — «Mais vous, vous priez bien Christ, et Il est mort, Lui aussi».
-   — «Oui, mais Il est ressuscité!». Il est ressuscité — c’est cela, la Bonne nouvelle que
-nous connaissons: «Il est ressuscité». N’en sommes-nous pas reconnaissants? Inclinons nos
-têtes, et remercions-Le parce qu’Il est ressuscité, qu’Il est sorti du tombeau pour notre justification.
-   Père Céleste, nous Te sommes si reconnaissants ce matin à cause de Jésus. Aujourd’hui, nous
-commémorons Sa glorieuse résurrection, ce matin-là où Il ressuscita d’entre les morts, où Il
-triompha de la mort, du séjour des morts, du tombeau… Lorsqu’Il était sur cette terre, Il nous
-montra qu’Il avait triomphé de toutes les maladies, de tous les démons, de toutes les puissances.
-Alors, la mort vint au-devant de Lui, ce grand ennemi, le dernier. Mais le matin de Pâques, Il
-prouva qu’Il était Dieu. Même son dernier ennemi ne put rien contre Lui. Le tombeau Le
-rendit; le séjour des morts dut Le rendre; et les Cieux Le reçurent.
-   O notre Dieu, puissent nos coeurs Le recevoir aujourd’hui dans la Puissance du
-Saint-Esprit afin que nous puissions être Ses serviteurs, des exemples ici-bas pendant que
-nous séjournons sur cette terre. Veuille nous l’accorder.
-   Bénis tous ceux qui sont ici. O Dieu, je Te prie spécialement pour ceux qui sont debout depuis
-ce matin; déverse sur eux Tes bénédictions au-delà de tout ce que nous pourrions imaginer, et
-veuille répondre aux profonds désirs de leur coeur. Que tous ceux qui sont venus ici ce matin
-puissent retourner chez eux satisfaits. Tu as dit Toi-même que Tu ne renverrais pas à vide ceux
-qui T’invoquent, mais que Tu les comblerais de toutes sortes de bonnes choses et que Tu les
-renverrais, ayant de quoi être remplis de joie. Veuille nous l’accorder, O Seigneur.
-   Que Ta Toute-Puissance, que Ton Saint-Esprit, dans la Puissance de la résurrection,
-agisse en chacun de nous, de telle sorte que nos espérances ne soient fondées sur rien d’autre
-que la Justice du Sang de Jésus-Christ. O Père, accorde-le nous.
-   Bénis les paroles que nous allons lire. Nous Te remercions pour le bon message que Tu nous
-as donné ce matin (pour ceux qui sont venus tôt ce matin), et de ce que nous ayons pu voir
-comment Tu as pris en mains notre frère (quel changement il y a eu en lui en quelques instants)
-pour délivrer un message à cette génération mourante, cette génération dont nous faisons partie.
-Combien nous T’en remercions, ô Seigneur! O notre Dieu, notre coeur tressaille de joie, lorsque
-nous pensons à ces choses.
-   O Seigneur, garde sur lui cette onction tout au long des jours qui sont encore devant lui, et
-bénis cette petite assemblée. Et viens-moi en aide, ô Seigneur, quand j’irai apporter le message
-aux autres peuples. Que nous puissions rester unis comme une seule personne, une seule
-famille; et que nous puissions prier ensemble, vivre ensemble dans la sainte unité du Saint-
-Esprit jusqu’au jour où Jésus nous recevra dans le Royaume. Nous Te demandons cela dans Son
-Nom et pour Sa gloire. Amen!
-   FR. NEVILLE: «Frère Branham, puis-je vous interrompre un instant?».
-   FR. BRANHAM: «Bien sûr, frère».
-   FR. NEVILLE: «En signe de notre affection, nous vous offrons ce tableau, l’oeuvre d’un jeune
-homme de notre assemblée. Nous vous l’offrons avec toute l’expression de notre affection et de
-notre gratitude».
-   FR. BRANHAM: «Merci, frère Neville, et merci à vous tous!».
-   FR. NEVILLE: «Le jeune homme qui a peint ce tableau est Jerry Steffy».
-   FR. BRANHAM: «C’est Jerry Steffy qui a peint ce tableau? Que Dieu bénisse ce garçon! Si tu
-es ici ce matin, je veux te dire que c’est très beau, Jerry.
-   C’est dommage! J’aimerais avoir les moyens d’envoyer ce garçon dans une école de
-beaux-arts. Je crois que Dieu est dans les arts. Ne le croyez-vous pas? Dieu est dans la musique.
+— «Du spiritisme?».
+— «Parfaitement!».
+— «Que voulez-vous dire par cela?».
+— «Je parle de tout ce qui concerne les prières faites aux morts, la communion des saints». Vous voyez?
+— «Mais vous, vous priez bien Christ, et Il est mort, Lui aussi».
+— «Oui, mais Il est ressuscité!». Il est ressuscité — c’est cela, la Bonne nouvelle que nous connaissons: «Il est ressuscité». N’en sommes-nous pas reconnaissants? Inclinons nos têtes, et remercions-Le parce qu’Il est ressuscité, qu’Il est sorti du tombeau pour notre justification.
+Père Céleste, nous Te sommes si reconnaissants ce matin à cause de Jésus. Aujourd’hui, nous commémorons Sa glorieuse résurrection, ce matin-là où Il ressuscita d’entre les morts, où Il triompha de la mort, du séjour des morts, du tombeau… Lorsqu’Il était sur cette terre, Il nous montra qu’Il avait triomphé de toutes les maladies, de tous les démons, de toutes les puissances. Alors, la mort vint au-devant de Lui, ce grand ennemi, le dernier. Mais le matin de Pâques, Il prouva qu’Il était Dieu. Même son dernier ennemi ne put rien contre Lui. Le tombeau Le rendit; le séjour des morts dut Le rendre; et les Cieux Le reçurent.
+O notre Dieu, puissent nos coeurs Le recevoir aujourd’hui dans la Puissance du Saint-Esprit afin que nous puissions être Ses serviteurs, des exemples ici-bas pendant que nous séjournons sur cette terre. Veuille nous l’accorder.
+Bénis tous ceux qui sont ici. O Dieu, je Te prie spécialement pour ceux qui sont debout depuis ce matin; déverse sur eux Tes bénédictions au-delà de tout ce que nous pourrions imaginer, et veuille répondre aux profonds désirs de leur coeur. Que tous ceux qui sont venus ici ce matin puissent retourner chez eux satisfaits. Tu as dit Toi-même que Tu ne renverrais pas à vide ceux qui T’invoquent, mais que Tu les comblerais de toutes sortes de bonnes choses et que Tu les renverrais, ayant de quoi être remplis de joie. Veuille nous l’accorder, O Seigneur.
+Que Ta Toute-Puissance, que Ton Saint-Esprit, dans la Puissance de la résurrection, agisse en chacun de nous, de telle sorte que nos espérances ne soient fondées sur rien d’autre que la Justice du Sang de Jésus-Christ. O Père, accorde-le nous.
+Bénis les paroles que nous allons lire. Nous Te remercions pour le bon message que Tu nous as donné ce matin (pour ceux qui sont venus tôt ce matin), et de ce que nous ayons pu voir comment Tu as pris en mains notre frère (quel changement il y a eu en lui en quelques instants) pour délivrer un message à cette génération mourante, cette génération dont nous faisons partie. Combien nous T’en remercions, ô Seigneur! O notre Dieu, notre coeur tressaille de joie, lorsque nous pensons à ces choses.
+O Seigneur, garde sur lui cette onction tout au long des jours qui sont encore devant lui, et bénis cette petite assemblée. Et viens-moi en aide, ô Seigneur, quand j’irai apporter le message aux autres peuples. Que nous puissions rester unis comme une seule personne, une seule famille; et que nous puissions prier ensemble, vivre ensemble dans la sainte unité du Saint-Esprit jusqu’au jour où Jésus nous recevra dans le Royaume. Nous Te demandons cela dans Son Nom et pour Sa gloire. Amen!
+FR. NEVILLE: «Frère Branham, puis-je vous interrompre un instant?».
+FR. BRANHAM: «Bien sûr, frère».
+FR. NEVILLE: «En signe de notre affection, nous vous offrons ce tableau, l’oeuvre d’un jeune homme de notre assemblée. Nous vous l’offrons avec toute l’expression de notre affection et de notre gratitude».
+FR. BRANHAM: «Merci, frère Neville, et merci à vous tous!».
+FR. NEVILLE: «Le jeune homme qui a peint ce tableau est Jerry Steffy».
+FR. BRANHAM: «C’est Jerry Steffy qui a peint ce tableau? Que Dieu bénisse ce garçon! Si tu es ici ce matin, je veux te dire que c’est très beau, Jerry.
+C’est dommage! J’aimerais avoir les moyens d’envoyer ce garçon dans une école de beaux-arts. Je crois que Dieu est dans les arts. Ne le croyez-vous pas? Dieu est dans la musique.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 7
-Dieu est dans l’art. Dieu est dans ceci. C’est dommage de voir qu’un tel talent ne soit pas
-développé. Plus il peindra, plus il se développera, et je prie Dieu qu’Il te bénisse, Jerry.
-   Et je vous remercie, frère Neville, et toute l’église, pour ce beau tableau et le poème qui
-l’accompagne. Je le lirai un peu plus tard».
-   FR. NEVILLE: «Voulez-vous que je le lise?».
-   FR. BRANHAM: «D’accord! Frère Neville va nous lire le poème. Je ne pensais pas…».
-   [Frère Neville lit le poème — N.d.R.]
-   FR. BRANHAM: «Merci beaucoup! Merci beaucoup! Merci de vos bonnes pensées. Qui a
-composé cela?».
-   FR. NEVILLE: «Je pense que c’est sa mère».
-   FR. BRANHAM: «Je ne suis pas digne des paroles de ce poème; mais pour moi, cela vaut plus
-que tout l’argent du monde. Pensez donc, être considéré comme Son serviteur, comme le
-serviteur de Dieu! Que je puisse toujours vivre comme un serviteur de Dieu, telle est ma prière!
-Que Dieu vous bénisse tous! Mes pensées seront toujours pour vous; d’ailleurs, je vous aime
-tant!».
-   Il y aurait tellement de choses à dire… Cela prendrait toute la journée, et nous ne pourrions
-jamais commencer à lire la Parole.
-   J’ai eu une vision venant du Seigneur, et je voulais vous en parler… Quelqu’un a fait un rêve
-(oh, quelque chose d’extraordinaire!) concernant la venue du Seigneur…
-   Ma fille Rebecca (je me suis un peu moqué d’elle il y a quelque temps), ma fille vint avec un de
-ces grands chapeaux bizarres. Je lui dis: «Ma chérie, on dirait un nid d’oiseaux. Fais-moi le plaisir
-d’ôter cela!».
-   Je n’eus pas à attendre longtemps la réplique! (vous connaissez sa manière de faire.) Elle
-revint bientôt avec un grand sac à main. Je lui dis: «Où as-tu trouvé cela?».
-   Elle me répliqua: «Papa, comme j’ai de grands pieds, je pense que je dois aussi avoir un grand
-sac à main, qui aille avec…».
-   … Mais elle m’a aussi dit qu’elle a déjà rêvé deux fois qu’elle roulait avec moi en voiture, et que
-je lui parlais de la prochaine venue du Seigneur. Elle fit deux fois le même rêve. J’attends le
-troisième. Peut-être qu’alors, le Seigneur me dira ce qu’il signifie.
-   Il y a tellement de choses à dire, mais approchons-nous de la Parole, maintenant.
-   J’espère que chacun se sent bien. Si ce n’est pas le cas, je prie Dieu qu’il fasse en sorte que
-vous vous sentiez tous bien avant la fin de ce culte, afin qu’il n’y ait plus parmi nous aucune
-personne faible ce matin, quand le service sera terminé.
-   Souvenons-nous que Dieu est mort pour les incrédules, c’est-à-dire pour nous. Il est mort pour
-nous, afin de pouvoir nous sauver.
-   Est-ce que chacun de vous entend bien? Ceux qui sont au fond, entendent-ils bien? Est-ce que
-le son arrive bien jusqu’à vous? — Parfait!
-   Je voudrais lire, maintenant, quelques passages de Sa Parole. Lisons d’abord dans le livre de
-Joël, chapitre un, versets 1-4, et ensuite, dans le deuxième chapitre, le verset 25. Nous lirons
-ensuite Genèse 20.7.
-   Maintenant… Si vous vous sentez fatigués, et que vous désiriez sortir un moment, n’hésitez
-pas à le faire. Vous comprenez? Mais ce message sera le dernier que je donnerai à cette
-assemblée pour un certain temps, et ce matin, nous allons avoir un service de guérison. Et
-j’aimerais que ce message, si Dieu veut le bénir, pénètre au plus profond de vos coeurs, afin que
-vous en compreniez bien toute la signification.
-   Or, nous sommes ici pour dire les choses que nous croyons, et les prouver par l’Ecriture, pour
-montrer que c’est l’Ecriture qui le dit. Puisse Dieu confirmer ce qui est vrai et le réaliser!
-   Vous direz: «Cette graine est une graine de tournesol». Plantez-la, et vous verrez ce qui en est.
-S’il pousse un tournesol, alors le cas est réglé: c’était bien une graine de tournesol.
+Dieu est dans l’art. Dieu est dans ceci. C’est dommage de voir qu’un tel talent ne soit pas développé. Plus il peindra, plus il se développera, et je prie Dieu qu’Il te bénisse, Jerry.
+Et je vous remercie, frère Neville, et toute l’église, pour ce beau tableau et le poème qui l’accompagne. Je le lirai un peu plus tard».
+FR. NEVILLE: «Voulez-vous que je le lise?».
+FR. BRANHAM: «D’accord! Frère Neville va nous lire le poème. Je ne pensais pas…».
+[Frère Neville lit le poème — N.d.R.]
+FR. BRANHAM: «Merci beaucoup! Merci beaucoup! Merci de vos bonnes pensées. Qui a composé cela?».
+FR. NEVILLE: «Je pense que c’est sa mère».
+FR. BRANHAM: «Je ne suis pas digne des paroles de ce poème; mais pour moi, cela vaut plus que tout l’argent du monde. Pensez donc, être considéré comme Son serviteur, comme le serviteur de Dieu! Que je puisse toujours vivre comme un serviteur de Dieu, telle est ma prière! Que Dieu vous bénisse tous! Mes pensées seront toujours pour vous; d’ailleurs, je vous aime tant!».
+Il y aurait tellement de choses à dire… Cela prendrait toute la journée, et nous ne pourrions jamais commencer à lire la Parole.
+J’ai eu une vision venant du Seigneur, et je voulais vous en parler… Quelqu’un a fait un rêve (oh, quelque chose d’extraordinaire!) concernant la venue du Seigneur…
+Ma fille Rebecca (je me suis un peu moqué d’elle il y a quelque temps), ma fille vint avec un de ces grands chapeaux bizarres. Je lui dis: «Ma chérie, on dirait un nid d’oiseaux. Fais-moi le plaisir d’ôter cela!».
+Je n’eus pas à attendre longtemps la réplique! (vous connaissez sa manière de faire.) Elle revint bientôt avec un grand sac à main. Je lui dis: «Où as-tu trouvé cela?».
+Elle me répliqua: «Papa, comme j’ai de grands pieds, je pense que je dois aussi avoir un grand sac à main, qui aille avec…».
+… Mais elle m’a aussi dit qu’elle a déjà rêvé deux fois qu’elle roulait avec moi en voiture, et que je lui parlais de la prochaine venue du Seigneur. Elle fit deux fois le même rêve. J’attends le troisième. Peut-être qu’alors, le Seigneur me dira ce qu’il signifie.
+Il y a tellement de choses à dire, mais approchons-nous de la Parole, maintenant.
+J’espère que chacun se sent bien. Si ce n’est pas le cas, je prie Dieu qu’il fasse en sorte que vous vous sentiez tous bien avant la fin de ce culte, afin qu’il n’y ait plus parmi nous aucune personne faible ce matin, quand le service sera terminé.
+Souvenons-nous que Dieu est mort pour les incrédules, c’est-à-dire pour nous. Il est mort pour nous, afin de pouvoir nous sauver.
+Est-ce que chacun de vous entend bien? Ceux qui sont au fond, entendent-ils bien? Est-ce que le son arrive bien jusqu’à vous? — Parfait!
+Je voudrais lire, maintenant, quelques passages de Sa Parole. Lisons d’abord dans le livre de Joël, chapitre un, versets 1-4, et ensuite, dans le deuxième chapitre, le verset 25. Nous lirons ensuite Genèse 20.7.
+Maintenant… Si vous vous sentez fatigués, et que vous désiriez sortir un moment, n’hésitez pas à le faire. Vous comprenez? Mais ce message sera le dernier que je donnerai à cette assemblée pour un certain temps, et ce matin, nous allons avoir un service de guérison. Et j’aimerais que ce message, si Dieu veut le bénir, pénètre au plus profond de vos coeurs, afin que vous en compreniez bien toute la signification.
+Or, nous sommes ici pour dire les choses que nous croyons, et les prouver par l’Ecriture, pour montrer que c’est l’Ecriture qui le dit. Puisse Dieu confirmer ce qui est vrai et le réaliser!
+Vous direz: «Cette graine est une graine de tournesol». Plantez-la, et vous verrez ce qui en est. S’il pousse un tournesol, alors le cas est réglé: c’était bien une graine de tournesol.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
-    RESTITUTION DE L’ARBRE DE L’EPOUSE    8
-   Je voudrais encore vous dire ceci: Prêtez de temps en temps vos sièges à ceux qui sont
-debout, afin qu’ils puissent se reposer un moment. J’essaierai d’être aussi bref que possible.
-   N’oubliez pas de prier pour moi. Et restez fidèles envers votre église, envers le frère Neville. Et
-vous tous, qui êtes ici en visite, revenez…
-   Je n’ai pas reçu d’appel particulier pour aller tenir ces réunions, mais je ne peux pas rester ici à
-ne rien faire quand je vois le monde qui est en train de mourir. Vous comprenez? Paul a fait cette
-expérience une fois. Il était parti pour un certain pays, mais en chemin, il reçut un appel pour aller
-en Macédoine. Or, Dieu peut m’envoyer en Macédoine à n’importe quel moment. Lorsque Dieu me
-transmet un tel appel, alors j’annule tous mes autres rendez-vous.
-   Je fais tout ce que je peux pour aller semer une semence ici, une autre là, et
-quelques-unes encore ailleurs. Je sais très bien qu’une partie de cette semence est mangée par
-les oiseaux du ciel, qu’une autre est étouffée par les broussailles, mais qu’il y en a aussi qui tombe
-sur un sol fertile. L’important est de semer la bonne semence.
-   Lisons maintenant Joël, chapitre un. C’est un texte assez étrange pour un message de Pâques!
-      “La parole de l’Eternel, qui fut adressée à Joël, fils de Péthuel. Ecoutez ceci, vieillards!
-   Prêtez l’oreille, vous tous, habitants du pays! Rien de pareil est-il arrivé de votre temps, ou
-   du temps de vos pères? Racontez-le à vos enfants, et que vos enfants le racontent à leurs
-   enfants, et leurs enfants à la génération qui suivra! Ce qu’a laissé le gazam, la sauterelle l’a
-   dévoré; ce qu’a laissé la sauterelle, le jélek l’a dévoré; ce qu’a laissé le jélek, le hasil l’a
-   dévoré”.
-   Maintenant, depuis le verset 25 du deuxième chapitre:
-      “Je vous remplacerai les années qu’ont dévorées la sauterelle, le jélek, le hasil et le
-   gazam, ma grande armée que j’avais envoyée contre vous. Vous mangerez, et vous vous
-   rassasierez, et vous célébrerez le nom de l’Eternel, votre Dieu, qui aura fait pour vous des
-   prodiges; et mon peuple ne sera plus jamais dans la confusion”.
-   Nous lirons enfin Genèse, chapitre 20, depuis le verset 6. Je lirai ce passage qui servira de
-sujet à la prédication d’aujourd’hui.
-      “Dieu lui dit en songe: Je sais que tu as agi avec un coeur pur: aussi t’ai-je empêché
-   de pécher contre moi. C’est pourquoi je n’ai pas permis que tu la touchasses. Maintenant,
-   rends la femme de cet homme; car il est prophète, il priera pour toi, et tu vivras. Mais si tu ne
-   la rends pas, sache que tu mourras, toi et tout ce qui t’appartient”.
-   De ce texte, je tire un mot qui servira de sujet à ma prédication: le mot “restituer”. Dans le
-message que notre frère Neville nous a apporté ce matin, une des dernières pensées sur
-lesquelles il a parlé fut l’expression: “Ce qui doit être restitué”. Et c’est cela qui m’a donné l’idée de
-ce sujet “restituer”.
-   J’ai couru à la maison, j’ai pris mon dictionnaire, j’ai pris quelques notes dans ma Bible, et j’ai
-noté deux ou trois choses. J’ai cherché la définition du verbe restituer dans mon dictionnaire.
-Restituer signifie: rendre à son propriétaire; ramener dans son état original, dans sa
-condition originale. Et nous pouvons faire valoir notre droit à la restitution.
-   C’est le sens que le dictionnaire donne au mot restituer: rendre à son propriétaire original,
-ramener dans sa condition originale, dans son état original. S’il y a un droit à la restitution,
-vous pouvez le faire valoir: faire ramener dans sa position juste. Que Dieu puisse maintenant bénir
-mes faibles paroles!
-   Restituer signifie: “Ramener dans sa position première” — on peut faire valoir un droit. Or,
-restituer quelque chose à son propriétaire original, là où cette chose appartient… Cela nous
-montre bien que, d’une manière ou d’une autre, cette chose a quitté son propriétaire original,
-et peut maintenant errer n’importe où. Mais restituer, c’est ramener cette chose à celui qui en est
-le vrai propriétaire, ou la ramener dans son état naturel, dans l’état où elle était au commencement
-— la ramener dans sa condition naturelle, et pour faire cela, nous avons le droit de faire valoir (s’il
-y a une loi à ce sujet), de faire valoir le droit à cette juste restitution. Restituer…
+RESTITUTION DE L’ARBRE DE L’EPOUSE 8
+Je voudrais encore vous dire ceci: Prêtez de temps en temps vos sièges à ceux qui sont debout, afin qu’ils puissent se reposer un moment. J’essaierai d’être aussi bref que possible.
+N’oubliez pas de prier pour moi. Et restez fidèles envers votre église, envers le frère Neville. Et vous tous, qui êtes ici en visite, revenez…
+Je n’ai pas reçu d’appel particulier pour aller tenir ces réunions, mais je ne peux pas rester ici à ne rien faire quand je vois le monde qui est en train de mourir. Vous comprenez? Paul a fait cette expérience une fois. Il était parti pour un certain pays, mais en chemin, il reçut un appel pour aller en Macédoine. Or, Dieu peut m’envoyer en Macédoine à n’importe quel moment. Lorsque Dieu me transmet un tel appel, alors j’annule tous mes autres rendez-vous.
+Je fais tout ce que je peux pour aller semer une semence ici, une autre là, et quelques-unes encore ailleurs. Je sais très bien qu’une partie de cette semence est mangée par les oiseaux du ciel, qu’une autre est étouffée par les broussailles, mais qu’il y en a aussi qui tombe sur un sol fertile. L’important est de semer la bonne semence.
+Lisons maintenant Joël, chapitre un. C’est un texte assez étrange pour un message de Pâques!
+> “La parole de l’Eternel, qui fut adressée à Joël, fils de Péthuel. Ecoutez ceci, vieillards! Prêtez l’oreille, vous tous, habitants du pays! Rien de pareil est-il arrivé de votre temps, ou du temps de vos pères? Racontez-le à vos enfants, et que vos enfants le racontent à leurs enfants, et leurs enfants à la génération qui suivra! Ce qu’a laissé le gazam, la sauterelle l’a dévoré; ce qu’a laissé la sauterelle, le jélek l’a dévoré; ce qu’a laissé le jélek, le hasil l’a dévoré”.
+Maintenant, depuis le verset 25 du deuxième chapitre:
+> “Je vous remplacerai les années qu’ont dévorées la sauterelle, le jélek, le hasil et le gazam, ma grande armée que j’avais envoyée contre vous. Vous mangerez, et vous vous rassasierez, et vous célébrerez le nom de l’Eternel, votre Dieu, qui aura fait pour vous des prodiges; et mon peuple ne sera plus jamais dans la confusion”.
+Nous lirons enfin Genèse, chapitre 20, depuis le verset 6. Je lirai ce passage qui servira de sujet à la prédication d’aujourd’hui.
+> “Dieu lui dit en songe: Je sais que tu as agi avec un coeur pur: aussi t’ai-je empêché de pécher contre moi. C’est pourquoi je n’ai pas permis que tu la touchasses. Maintenant, rends la femme de cet homme; car il est prophète, il priera pour toi, et tu vivras. Mais si tu ne la rends pas, sache que tu mourras, toi et tout ce qui t’appartient”.
+De ce texte, je tire un mot qui servira de sujet à ma prédication: le mot “restituer”. Dans le message que notre frère Neville nous a apporté ce matin, une des dernières pensées sur lesquelles il a parlé fut l’expression: “Ce qui doit être restitué”. Et c’est cela qui m’a donné l’idée de ce sujet “restituer”.
+J’ai couru à la maison, j’ai pris mon dictionnaire, j’ai pris quelques notes dans ma Bible, et j’ai noté deux ou trois choses. J’ai cherché la définition du verbe restituer dans mon dictionnaire. Restituer signifie: rendre à son propriétaire; ramener dans son état original, dans sa condition originale. Et nous pouvons faire valoir notre droit à la restitution.
+C’est le sens que le dictionnaire donne au mot restituer: rendre à son propriétaire original, ramener dans sa condition originale, dans son état original. S’il y a un droit à la restitution, vous pouvez le faire valoir: faire ramener dans sa position juste. Que Dieu puisse maintenant bénir mes faibles paroles!
+Restituer signifie: “Ramener dans sa position première” — on peut faire valoir un droit. Or, restituer quelque chose à son propriétaire original, là où cette chose appartient… Cela nous montre bien que, d’une manière ou d’une autre, cette chose a quitté son propriétaire original, et peut maintenant errer n’importe où. Mais restituer, c’est ramener cette chose à celui qui en est le vrai propriétaire, ou la ramener dans son état naturel, dans l’état où elle était au commencement — la ramener dans sa condition naturelle, et pour faire cela, nous avons le droit de faire valoir (s’il y a une loi à ce sujet), de faire valoir le droit à cette juste restitution. Restituer…
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 9
-   Si quelqu’un vole quelque chose, et retient la chose volée, alors vous pouvez vous prévaloir de
-la loi et aller vers cette personne; la loi fera valoir vos droits sur votre bien, et obligera le voleur
-à restituer l’objet volé à son propriétaire naturel, dans sa condition première. Faire valoir.
-   Quel sujet de prédication! J’aimerais avoir deux jours pour parler sur cela: faire valoir! Ce
-matin, frère Neville a prêché. Moi, je vais simplement vous parler, vous donner une leçon d’école
-du dimanche qui en sera la suite, je l’espère.
-   Faire valoir! Nous avons le privilège de faire valoir à Satan les droits que Dieu nous a donnés,
-car Dieu a une loi; c’est Sa Parole qui est la loi. Et Dieu, dans Sa Parole, S’est attribué certains
-droits sur l’église. C’est pourquoi nous avons le droit de faire valoir ces droits à Satan, et de lui
-dire: «Rends-nous ce qui nous appartient!».
-   Et il doit le faire, parce que nous pouvons prendre avec nous l’Avoué de Dieu, le Saint-Esprit,
-nous mettre à genoux, et dire: “C’est AINSI DIT LE SEIGNEUR!”. Alors, Satan doit rendre ce qu’il
-retient. C’est ainsi, parce que le Saint-Esprit est là pour l’obliger à le faire.
-   Les lois de ce pays ont été faites par la nation, pour la nation. Mais la Loi de l’Esprit de Dieu est
-là pour forcer Satan à rendre ce dont il s’est emparé injustement, ce qu’il a pris à Dieu par ruse. Il
-a volé à Dieu les âmes des hommes, les âmes des femmes et des enfants. Il a mis la maladie
-dans leur corps, alors que Dieu avait créé l’homme à Son image, afin qu’il fût semblable à Lui.
-Mais l’Eglise a reçu le droit légal, par la Bible, de prendre le Saint-Esprit et de faire valoir
-ses droits.
-   Un jour, un frère est venu avec sa famille à Louisville, à une de mes réunions. Il venait de
-Georgie… je crois que je vous ai parlé de cela, lors de notre dernière réunion, je ne me rappelle
-plus. On lui vola sa voiture, avec tout ce qu’elle contenait; il y avait dedans ses habits, et ceux de
-toute la famille. Je crois que c’était le frère Evans… Ils venaient à toutes nos réunions, ce qui
-représentait chaque fois un trajet de 1500 miles aller-retour. Et le pauvre homme était là, à
-750 miles de chez lui, n’ayant plus rien du tout!
-   Il ne savait vraiment pas quoi faire! Il fit sa déclaration à la police, mais il y avait à ce moment-là
-beaucoup de vols de voitures à Louisville. Ils volaient les voitures, les repeignaient, et fabriquaient
-des faux papiers en quelques minutes.
-   Notre frère eut vraiment un mauvais moment à passer! Alors, nous nous mîmes à genoux. Le
-Seigneur Jésus n’aurait pas eu besoin de faire cela, car Il était la Parole. Mais nous, nous ne
-sommes pas la Parole. La Parole de Dieu VIENT aux prophètes; ils ne sont pas la Parole, mais la
-Parole VIENT à eux. Jésus, Lui, ETAIT la Parole. Vous comprenez? Il n’avait pas besoin de prier,
-parce qu’Il ETAIT Dieu Lui-même. Mais nous, nous sommes Ses prophètes, Ses serviteurs, à qui
-la Parole de Dieu VIENT. C’est pour cela que le prophète doit être confirmé; si ce qu’il dit
-s’accomplit, alors cela VIENT de Dieu.
-   Nous avons un passage de la Parole où Jésus dit: “Là où deux ou trois sont assemblés en
-Mon Nom… Si vous vous accordez pour demander quelque chose en Mon Nom, et que vous
-ne doutiez pas, vous recevrez ce que vous demandez; cela vous sera accordé”.
-   Cela, c’est la Loi. Or, Celui qui est là pour appliquer la Loi, c’est le Saint-Esprit. Et combien
-de gens ne croient pas au Saint-Esprit, et Le rejettent! Vous voyez? Vous rejetez votre propre paix
-et votre miséricorde!
-   Nous nous mîmes donc à genoux; nous étions environ cinq hommes. (Il y avait le frère Fred
-Sothmann et plusieurs autres.) Nous nous agenouillâmes, et je plaidai cette cause devant Dieu.
-Je pris la Parole de la Promesse et la présentai au Seigneur. Alors, le glorieux Saint-Esprit prit
-cette Parole pour faire valoir nos droits, et je reçus une vision. Je vis un homme ayant une
-chemise jaune, et conduisant la voiture en direction de Bowling Green, Kentucky. Le Saint-Esprit
-vint sur lui et le convainquit. Alors il fit demi-tour (il était à peu près à mi-chemin). Je le vis revenir,
-et parquer la voiture dans une certaine rue, de l’autre côté de la rivière. Alors, je me levai, et je dis
-aux frères: “AINSI DIT LE SEIGNEUR!”.
-   Ils partirent chercher la voiture, et la trouvèrent là. Le réservoir était à moitié vide (il venait de
-faire le plein), ce qui correspondait bien à la consommation nécessaire pour aller à mi-chemin,
-dans la direction de Bowling Green, et revenir. Ces gens sont ici ce matin et peuvent en
-témoigner.
+Si quelqu’un vole quelque chose, et retient la chose volée, alors vous pouvez vous prévaloir de la loi et aller vers cette personne; la loi fera valoir vos droits sur votre bien, et obligera le voleur à restituer l’objet volé à son propriétaire naturel, dans sa condition première. Faire valoir.
+Quel sujet de prédication! J’aimerais avoir deux jours pour parler sur cela: faire valoir! Ce matin, frère Neville a prêché. Moi, je vais simplement vous parler, vous donner une leçon d’école du dimanche qui en sera la suite, je l’espère.
+Faire valoir! Nous avons le privilège de faire valoir à Satan les droits que Dieu nous a donnés, car Dieu a une loi; c’est Sa Parole qui est la loi. Et Dieu, dans Sa Parole, S’est attribué certains droits sur l’église. C’est pourquoi nous avons le droit de faire valoir ces droits à Satan, et de lui dire: «Rends-nous ce qui nous appartient!».
+Et il doit le faire, parce que nous pouvons prendre avec nous l’Avoué de Dieu, le Saint-Esprit, nous mettre à genoux, et dire: “C’est AINSI DIT LE SEIGNEUR!”. Alors, Satan doit rendre ce qu’il retient. C’est ainsi, parce que le Saint-Esprit est là pour l’obliger à le faire.
+Les lois de ce pays ont été faites par la nation, pour la nation. Mais la Loi de l’Esprit de Dieu est là pour forcer Satan à rendre ce dont il s’est emparé injustement, ce qu’il a pris à Dieu par ruse. Il a volé à Dieu les âmes des hommes, les âmes des femmes et des enfants. Il a mis la maladie dans leur corps, alors que Dieu avait créé l’homme à Son image, afin qu’il fût semblable à Lui. Mais l’Eglise a reçu le droit légal, par la Bible, de prendre le Saint-Esprit et de faire valoir ses droits.
+Un jour, un frère est venu avec sa famille à Louisville, à une de mes réunions. Il venait de Georgie… je crois que je vous ai parlé de cela, lors de notre dernière réunion, je ne me rappelle plus. On lui vola sa voiture, avec tout ce qu’elle contenait; il y avait dedans ses habits, et ceux de toute la famille. Je crois que c’était le frère Evans… Ils venaient à toutes nos réunions, ce qui représentait chaque fois un trajet de 1500 miles aller-retour. Et le pauvre homme était là, à 750 miles de chez lui, n’ayant plus rien du tout!
+Il ne savait vraiment pas quoi faire! Il fit sa déclaration à la police, mais il y avait à ce moment-là beaucoup de vols de voitures à Louisville. Ils volaient les voitures, les repeignaient, et fabriquaient des faux papiers en quelques minutes.
+Notre frère eut vraiment un mauvais moment à passer! Alors, nous nous mîmes à genoux. Le Seigneur Jésus n’aurait pas eu besoin de faire cela, car Il était la Parole. Mais nous, nous ne sommes pas la Parole. La Parole de Dieu VIENT aux prophètes; ils ne sont pas la Parole, mais la Parole VIENT à eux. Jésus, Lui, ETAIT la Parole. Vous comprenez? Il n’avait pas besoin de prier, parce qu’Il ETAIT Dieu Lui-même. Mais nous, nous sommes Ses prophètes, Ses serviteurs, à qui la Parole de Dieu VIENT. C’est pour cela que le prophète doit être confirmé; si ce qu’il dit s’accomplit, alors cela VIENT de Dieu.
+Nous avons un passage de la Parole où Jésus dit: “Là où deux ou trois sont assemblés en Mon Nom… Si vous vous accordez pour demander quelque chose en Mon Nom, et que vous ne doutiez pas, vous recevrez ce que vous demandez; cela vous sera accordé”.
+Cela, c’est la Loi. Or, Celui qui est là pour appliquer la Loi, c’est le Saint-Esprit. Et combien de gens ne croient pas au Saint-Esprit, et Le rejettent! Vous voyez? Vous rejetez votre propre paix et votre miséricorde!
+Nous nous mîmes donc à genoux; nous étions environ cinq hommes. (Il y avait le frère Fred Sothmann et plusieurs autres.) Nous nous agenouillâmes, et je plaidai cette cause devant Dieu. Je pris la Parole de la Promesse et la présentai au Seigneur. Alors, le glorieux Saint-Esprit prit cette Parole pour faire valoir nos droits, et je reçus une vision. Je vis un homme ayant une chemise jaune, et conduisant la voiture en direction de Bowling Green, Kentucky. Le Saint-Esprit vint sur lui et le convainquit. Alors il fit demi-tour (il était à peu près à mi-chemin). Je le vis revenir, et parquer la voiture dans une certaine rue, de l’autre côté de la rivière. Alors, je me levai, et je dis aux frères: “AINSI DIT LE SEIGNEUR!”.
+Ils partirent chercher la voiture, et la trouvèrent là. Le réservoir était à moitié vide (il venait de faire le plein), ce qui correspondait bien à la consommation nécessaire pour aller à mi-chemin, dans la direction de Bowling Green, et revenir. Ces gens sont ici ce matin et peuvent en témoigner.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 10
-   Que s’était-il donc passé? — Faire valoir… «Rends-nous notre bien!». Vous voyez? C’est cela
-dont nous parlons. «Restitue! Rapporte-le à son vrai propriétaire!».
-   Et si Satan vous a dérobé le privilège d’être un fils ou une fille de Dieu, nous avons ce matin
-le droit, par le Saint-Esprit, de faire valoir ce droit devant Dieu. — «Rends-nous ce qui
-nous appartient!».
-   S’il vous a affligé et rendu malade, vous avez le droit, devant Dieu, de faire valoir vos droits
-à la Loi de Dieu: “Par Ses meurtrissures, je suis guéri!” Amen! Satan, restitue! Délie ce que tu
-as lié! tu veux entraîner cette âme dans la mort, mais nous la réclamons! Restitue-la!
-   C’est cela, faire valoir. C’est restituer, ramener dans sa condition naturelle. Un homme malade,
-un enfant malade, une femme malade… Ils ne sont pas dans leur état naturel. Nous avons le
-droit de faire valoir notre droit; si c’est notre droit, c’est parce que c’est Dieu qui nous l’a
-donné: “Par Ses meurtrissures, je suis guéri… Il a été blessé pour mes transgressions, et c’est
-par Ses meurtrissures que je suis guéri!”.
-   Nous avons le droit de faire valoir cette loi. Celui qui a donné la Loi, le Saint-Esprit
-Lui-même, est là! Il est l’Avoué de Dieu qui fait en sorte que la Loi soit appliquée. Amen!
-   Mais Il ne peut agir qu’à une condition: c’est que vous Le laissiez agir. Vous comprenez?
-Vous devez croire! Il y a une Loi, une Loi qui a été donnée pour toutes choses.
-   Le poisson a une loi. Si le poisson peut se tenir dans l’eau, c’est parce qu’il y a une loi pour lui à
-ce sujet. S’il se soumet à cette loi, il peut descendre jusqu’au fond de la mer sans subir le
-moindre dommage. Aucune cellule de son corps ne sera endommagée!
-   Essayez de faire la même chose! Cette loi n’est pas en vous. Vous ne pouvez le faire, mais le
-poisson, lui, le peut. Il lui suffit de dégonfler sa vessie natatoire, et rien de mal ne lui arrive. Il est
-fait ainsi. Il le sait, et peut faire valoir cette loi pour descendre jusqu’au fond de la mer et remonter.
-   Il y avait une loi en Christ. Et cette loi est venue dans l’homme. Vous pouvez ensevelir cet
-homme dans le tombeau le plus profond, au plus profond des mers, au plus profond du séjour des
-morts; mais en lui, il y a la Loi de l’Esprit de Dieu qui le ressuscitera un jour!
-   L’oiseau a une loi. Son corps est fait de matière; il est lié à la terre, et doit se poser sur le sol.
-Mais il y a une loi en lui qui fait que, s’il étend ses ailes d’une certaine manière, il peut s’envoler au
-loin en un instant. La science n’admet pas cela! La gravitation devrait le maintenir au sol! Mais il
-peut défier la gravitation, et s’élever dans les airs; il n’a qu’à mettre en oeuvre cette loi qui est
-en lui. Il est construit de façon à posséder cette loi en lui. — Oh! quel sentiment de piété
-commence à m’envahir!
-   Or, nous avons une loi, la Loi de la Vie en nous. La seule chose que vous ayez à faire… Vous
-êtes créés, vous êtes nés et placés dans le Corps de Christ en tant que fils et filles de Dieu. Nous
-n’avons pas à plier le genou devant Satan. Nous avons une Loi, la Loi du Saint-Esprit. La seule
-chose que vous ayez à faire, c’est de laisser Dieu entrer en vous. Vous combattez toujours, et
-cela ne marche jamais! Déposez tous vos soucis, et laissez-Le faire, c’est tout!
-   Si le poisson disait: «Je vais respirer un bon coup, afin d’avoir suffisamment d’oxygène, et
-j’essaierai de descendre jusqu’au fond», eh bien, il éclaterait!
-   Si l’oiseau disait: «Je vais essayer de courir aussi vite que je peux, et peut-être que je pourrai
-m’envoler» — il ne s’envolerait pas, il tomberait! Il doit savoir comment cette loi peut agir sur
-lui.
-   Il en va de même de nous. Ce ne sont pas nos combats, nos hâtes, nos: «Oh, si je n’arrive
-pas à faire ceci, ou cela…» qui nous seront d’un secours quelconque. Cela n’est possible que si
-nous savons que cette Loi de la Vie est en nous. Laissez Dieu agir! Alors seulement, Il peut
-vous conduire à votre guérison, au baptême du Saint-Esprit, où à tout autre chose qu’Il
-vous ait promise. Tout droit qu’Il a donné est pour vous, et c’est en laissant les choses suivre leur
-cours, et en laissant Dieu agir…
-   Si vous empêchez l’agent de police d’arrêter le voleur, disant: «Je ne sais pas s’il faut vraiment
-l’arrêter…», il ne pourra jamais faire ce qu’il doit faire! Laissez-le agir!
+Que s’était-il donc passé? — Faire valoir… «Rends-nous notre bien!». Vous voyez? C’est cela dont nous parlons. «Restitue! Rapporte-le à son vrai propriétaire!».
+Et si Satan vous a dérobé le privilège d’être un fils ou une fille de Dieu, nous avons ce matin le droit, par le Saint-Esprit, de faire valoir ce droit devant Dieu. — «Rends-nous ce qui nous appartient!».
+S’il vous a affligé et rendu malade, vous avez le droit, devant Dieu, de faire valoir vos droits à la Loi de Dieu: “Par Ses meurtrissures, je suis guéri!” Amen! Satan, restitue! Délie ce que tu as lié! tu veux entraîner cette âme dans la mort, mais nous la réclamons! Restitue-la!
+C’est cela, faire valoir. C’est restituer, ramener dans sa condition naturelle. Un homme malade, un enfant malade, une femme malade… Ils ne sont pas dans leur état naturel. Nous avons le droit de faire valoir notre droit; si c’est notre droit, c’est parce que c’est Dieu qui nous l’a donné: “Par Ses meurtrissures, je suis guéri… Il a été blessé pour mes transgressions, et c’est par Ses meurtrissures que je suis guéri!”.
+Nous avons le droit de faire valoir cette loi. Celui qui a donné la Loi, le Saint-Esprit Lui-même, est là! Il est l’Avoué de Dieu qui fait en sorte que la Loi soit appliquée. Amen!
+Mais Il ne peut agir qu’à une condition: c’est que vous Le laissiez agir. Vous comprenez? Vous devez croire! Il y a une Loi, une Loi qui a été donnée pour toutes choses.
+Le poisson a une loi. Si le poisson peut se tenir dans l’eau, c’est parce qu’il y a une loi pour lui à ce sujet. S’il se soumet à cette loi, il peut descendre jusqu’au fond de la mer sans subir le moindre dommage. Aucune cellule de son corps ne sera endommagée!
+Essayez de faire la même chose! Cette loi n’est pas en vous. Vous ne pouvez le faire, mais le poisson, lui, le peut. Il lui suffit de dégonfler sa vessie natatoire, et rien de mal ne lui arrive. Il est fait ainsi. Il le sait, et peut faire valoir cette loi pour descendre jusqu’au fond de la mer et remonter.
+Il y avait une loi en Christ. Et cette loi est venue dans l’homme. Vous pouvez ensevelir cet homme dans le tombeau le plus profond, au plus profond des mers, au plus profond du séjour des morts; mais en lui, il y a la Loi de l’Esprit de Dieu qui le ressuscitera un jour!
+L’oiseau a une loi. Son corps est fait de matière; il est lié à la terre, et doit se poser sur le sol. Mais il y a une loi en lui qui fait que, s’il étend ses ailes d’une certaine manière, il peut s’envoler au loin en un instant. La science n’admet pas cela! La gravitation devrait le maintenir au sol! Mais il peut défier la gravitation, et s’élever dans les airs; il n’a qu’à mettre en oeuvre cette loi qui est en lui. Il est construit de façon à posséder cette loi en lui. — Oh! quel sentiment de piété commence à m’envahir!
+Or, nous avons une loi, la Loi de la Vie en nous. La seule chose que vous ayez à faire… Vous êtes créés, vous êtes nés et placés dans le Corps de Christ en tant que fils et filles de Dieu. Nous n’avons pas à plier le genou devant Satan. Nous avons une Loi, la Loi du Saint-Esprit. La seule chose que vous ayez à faire, c’est de laisser Dieu entrer en vous. Vous combattez toujours, et cela ne marche jamais! Déposez tous vos soucis, et laissez-Le faire, c’est tout!
+Si le poisson disait: «Je vais respirer un bon coup, afin d’avoir suffisamment d’oxygène, et j’essaierai de descendre jusqu’au fond», eh bien, il éclaterait!
+Si l’oiseau disait: «Je vais essayer de courir aussi vite que je peux, et peut-être que je pourrai m’envoler» — il ne s’envolerait pas, il tomberait! Il doit savoir comment cette loi peut agir sur lui.
+Il en va de même de nous. Ce ne sont pas nos combats, nos hâtes, nos: «Oh, si je n’arrive pas à faire ceci, ou cela…» qui nous seront d’un secours quelconque. Cela n’est possible que si nous savons que cette Loi de la Vie est en nous. Laissez Dieu agir! Alors seulement, Il peut vous conduire à votre guérison, au baptême du Saint-Esprit, où à tout autre chose qu’Il vous ait promise. Tout droit qu’Il a donné est pour vous, et c’est en laissant les choses suivre leur cours, et en laissant Dieu agir…
+Si vous empêchez l’agent de police d’arrêter le voleur, disant: «Je ne sais pas s’il faut vraiment l’arrêter…», il ne pourra jamais faire ce qu’il doit faire! Laissez-le agir!
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 11
-   C’est ainsi que vous devez faire. Laissez Satan s’éloigner. Alors, tous les doutes et le reste
-s’enfuiront de votre pensée, et Dieu pourra vous relever!
-   Aujourd’hui, c’est Pâques. Combien j’aime Pâques! C’est vrai! mais de nos jours, le jour de
-Pâques, il y a beaucoup trop de lapins de Pâques, de canards, de poussins roses, de jolis
-chapeaux et de nouvelles robes. Cela n’est pas Pâques! Pâques, c’est la Résurrection, la
-restitution. C’est le moment où Dieu restitue. Regardez la terre: Dieu restitue. Restitue quoi? —
-la nature! C’est vrai! Il restitue les fleurs; Il restitue les feuilles; Il restitue les fruits des champs.
-Que se passe-t-il? C’est Dieu qui restitue. C’est Pâques, ce qui signifie: ramener.
-   Qu’est-ce que cela signifie? Il y a eu une sentence, une revendication. La fleur revendique
-son droit de repousser. Et la Loi de Dieu rassemble les forces de la terre, et fait en sorte que la
-Loi de Dieu dans la nature produise une fête de Pâques, une résurrection. C’est merveilleux!
-Le retour du soleil restitue ce que l’hiver avait tué, alors que le soleil s’était éloigné de la terre.
-   La science nous enseigne que Dieu fait tourner la terre autour du soleil. Dans sa course, la
-terre s’était éloignée du soleil, puis elle est revenue. C’est comme cela que fait le pécheur; il
-s’éloigne du FILS [SON — N.d.T.], comme la terre s’éloigne du SOLEIL [SUN — N.d.T.].
-   Mais quand la terre revient… Quand elle est là-bas, dans le lointain, la mort la frappe: c’est
-l’hiver. Là-bas, il tue tout être vivant qu’il peut tuer. Mais maintenant, la terre se rapproche; mais
-les semences sont dans la terre; elles sont gelées. La pulpe a disparu; il ne reste presque plus
-rien. Mais pourtant, un petit peu de vie a été préservée!
-   Mais aussitôt que le soleil se rapproche de la terre, il y a “une Pâques”, une restitution. Tout
-repousse, tout refleurit. Tout ce que l’hiver a tué, le soleil le restitue. Tout ce que la mort de
-l’hiver a tué, le Soleil de la Vie le ressuscite.
-   Il en va de même de l’homme. Tout ce que l’hiver de la froide religion formaliste a tué, la
-proximité de la venue du Fils de Dieu, venant chercher Son Eglise dans ces derniers jours,
-le ramène à la vie. Le Seigneur a dit: “Je restituerai…”. Vous comprenez?
-   Dieu restitue Ses fleurs, Ses feuilles, Sa nature, Ses semences de la terre; c’est pourquoi nous
-savons aussi que Dieu restituera Sa Demeure. Il restituera Son jardin d’Eden. Il restituera tout
-ce que la mort a détruit. C’est vrai!
-   Pour quoi que ce soit, la seule manière de rester dans la mort est de demeurer à la mauvaise
-place. Mais si cela vient à sa place, cela revient à la vie. O notre Dieu, fais-nous tomber dans le
-bon sillon, pour que nous ayons la restitution.
-   Tout ce que l’hiver a tué, le soleil le restitue. Comment agit le retour du soleil? Il contraint
-(écoutez!) il contraint la mort… lorsque le soleil du printemps se rapproche de la terre, il contraint
-véritablement la mort à rendre ses victimes, en vue de la résurrection. Pourquoi? — pour la
-restitution.
-   Qu’est-ce qui fait cela? La venue du soleil; c’est la loi de Dieu. Dieu établit la terre selon la loi
-de la gravitation. Tout, dans la nature, agit selon la loi de Dieu. La fleur vient en son temps; la
-semence vient en son temps. Elle mourut dans la terre, mais ensuite est venue la restitution.
-   Maintenant, elle est dans la terre, morte. Nous pourrions prendre un de ces projecteurs, et le
-braquer à l’endroit où cette semence est enfouie: cela ne servirait à rien! Nous ne pouvons rien
-faire. Mais Dieu a une loi qui dit que lorsque le soleil brille sur la semence, il contraint la vie à
-jaillir en elle. La mort ne peut plus la retenir!
-   Dieu a établi toutes Ses lois à Son service, aussi bien les lois naturelles que les lois spirituelles.
-Elles obéissent à Sa Parole, dans quelque condition que ce soit. J’aime cela! J’avais
-justement un passage des Ecritures à ce sujet.
-   Dieu met en jeu toutes Ses lois. Pensez-y! Laissez cela pénétrer en vous, parce que nous
-allons bientôt avoir un service de guérison — dans quelques instants! Vous comprenez? Dieu met
-en jeu toutes Ses lois. Elles doivent agir selon Sa propre Parole (comprenez-vous cela?) —
-Sa Parole… Ses lois doivent agir selon Sa Parole. Il a commandé au soleil; Il a commandé à la
-lune; Il a commandé à la terre; Il a commandé à la nature; et chacun est venu dans sa position. Et
-toutes les lois sont en harmonie avec la Parole de Dieu énoncée. Et la Loi de la Vie qui est
+C’est ainsi que vous devez faire. Laissez Satan s’éloigner. Alors, tous les doutes et le reste s’enfuiront de votre pensée, et Dieu pourra vous relever!
+Aujourd’hui, c’est Pâques. Combien j’aime Pâques! C’est vrai! mais de nos jours, le jour de Pâques, il y a beaucoup trop de lapins de Pâques, de canards, de poussins roses, de jolis chapeaux et de nouvelles robes. Cela n’est pas Pâques! Pâques, c’est la Résurrection, la restitution. C’est le moment où Dieu restitue. Regardez la terre: Dieu restitue. Restitue quoi? — la nature! C’est vrai! Il restitue les fleurs; Il restitue les feuilles; Il restitue les fruits des champs. Que se passe-t-il? C’est Dieu qui restitue. C’est Pâques, ce qui signifie: ramener.
+Qu’est-ce que cela signifie? Il y a eu une sentence, une revendication. La fleur revendique son droit de repousser. Et la Loi de Dieu rassemble les forces de la terre, et fait en sorte que la Loi de Dieu dans la nature produise une fête de Pâques, une résurrection. C’est merveilleux! Le retour du soleil restitue ce que l’hiver avait tué, alors que le soleil s’était éloigné de la terre.
+La science nous enseigne que Dieu fait tourner la terre autour du soleil. Dans sa course, la terre s’était éloignée du soleil, puis elle est revenue. C’est comme cela que fait le pécheur; il s’éloigne du FILS [SON — N.d.T.], comme la terre s’éloigne du SOLEIL [SUN — N.d.T.].
+Mais quand la terre revient… Quand elle est là-bas, dans le lointain, la mort la frappe: c’est l’hiver. Là-bas, il tue tout être vivant qu’il peut tuer. Mais maintenant, la terre se rapproche; mais les semences sont dans la terre; elles sont gelées. La pulpe a disparu; il ne reste presque plus rien. Mais pourtant, un petit peu de vie a été préservée!
+Mais aussitôt que le soleil se rapproche de la terre, il y a “une Pâques”, une restitution. Tout repousse, tout refleurit. Tout ce que l’hiver a tué, le soleil le restitue. Tout ce que la mort de l’hiver a tué, le Soleil de la Vie le ressuscite.
+Il en va de même de l’homme. Tout ce que l’hiver de la froide religion formaliste a tué, la proximité de la venue du Fils de Dieu, venant chercher Son Eglise dans ces derniers jours, le ramène à la vie. Le Seigneur a dit: “Je restituerai…”. Vous comprenez?
+Dieu restitue Ses fleurs, Ses feuilles, Sa nature, Ses semences de la terre; c’est pourquoi nous savons aussi que Dieu restituera Sa Demeure. Il restituera Son jardin d’Eden. Il restituera tout ce que la mort a détruit. C’est vrai!
+Pour quoi que ce soit, la seule manière de rester dans la mort est de demeurer à la mauvaise place. Mais si cela vient à sa place, cela revient à la vie. O notre Dieu, fais-nous tomber dans le bon sillon, pour que nous ayons la restitution.
+Tout ce que l’hiver a tué, le soleil le restitue. Comment agit le retour du soleil? Il contraint (écoutez!) il contraint la mort… lorsque le soleil du printemps se rapproche de la terre, il contraint véritablement la mort à rendre ses victimes, en vue de la résurrection. Pourquoi? — pour la restitution.
+Qu’est-ce qui fait cela? La venue du soleil; c’est la loi de Dieu. Dieu établit la terre selon la loi de la gravitation. Tout, dans la nature, agit selon la loi de Dieu. La fleur vient en son temps; la semence vient en son temps. Elle mourut dans la terre, mais ensuite est venue la restitution.
+Maintenant, elle est dans la terre, morte. Nous pourrions prendre un de ces projecteurs, et le braquer à l’endroit où cette semence est enfouie: cela ne servirait à rien! Nous ne pouvons rien faire. Mais Dieu a une loi qui dit que lorsque le soleil brille sur la semence, il contraint la vie à jaillir en elle. La mort ne peut plus la retenir!
+Dieu a établi toutes Ses lois à Son service, aussi bien les lois naturelles que les lois spirituelles. Elles obéissent à Sa Parole, dans quelque condition que ce soit. J’aime cela! J’avais justement un passage des Ecritures à ce sujet.
+Dieu met en jeu toutes Ses lois. Pensez-y! Laissez cela pénétrer en vous, parce que nous allons bientôt avoir un service de guérison — dans quelques instants! Vous comprenez? Dieu met en jeu toutes Ses lois. Elles doivent agir selon Sa propre Parole (comprenez-vous cela?) — Sa Parole… Ses lois doivent agir selon Sa Parole. Il a commandé au soleil; Il a commandé à la lune; Il a commandé à la terre; Il a commandé à la nature; et chacun est venu dans sa position. Et toutes les lois sont en harmonie avec la Parole de Dieu énoncée. Et la Loi de la Vie qui est
 
-        http://www.cmpp.ch
-
-    RESTITUTION DE L’ARBRE DE L’EPOUSE    12
+RESTITUTION DE L’ARBRE DE L’EPOUSE    12
 en nous, nous conduira aussi à la résurrection. Il faut que cela soit ainsi! Il est impossible qu’il
 en soit autrement.
    C’est la raison pour laquelle la Loi de la Vie qui était en Christ…
@@ -664,8 +367,8 @@ Aussitôt, toutes ces grosses voitures, ces moteurs de trois cents chevaux et pl
 s’arrêtèrent dans un grincement de freins. Ce n’était pas la puissance de cet homme qui avait agi,
 c’était son autorité.
    Avec l’église, c’est pareil. Elle peut bien être composée de ce que les gens appelleront une
-bande d’exaltés, ou tout ce qu’ils voudront, mais ce qu’elle a, c’est l’autorité. C’est l’autorité qui
-est derrière elle; c’est cela qui agit. Quelles que soient les conditions, les Lois de Dieu agissent
+bande d’exaltés, ou tout ce qu’ils voudront, mais ce qu’elle a, c’est l’autorité. C’est l’autorité qui est
+derrière elle; c’est cela qui agit. Quelles que soient les conditions, les Lois de Dieu agissent
 en accord avec Sa Parole. Elles n’agiront pas en accord avec vos credo: elles agiront en accord
 avec la Parole. Parfaitement! Elles agissent en accord avec la Parole: c’est tout. Quelles que
 soient les conditions.
@@ -1133,8 +836,6 @@ religion. Et la Vie qui est dans le Sang est ce qui donne les résultats. Compre
 choses?
    Elle n’est pas recouverte de feuilles de figuier. Adam et Eve avaient essayé cela; Caïn aussi.
 Avez-vous remarqué cela? Caïn avait apporté quelques produits de la vie végétale, mais cela n’eut
-
-        http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 22
 aucun effet. Cela n’eut aucun effet avec Adam et Eve, et cela n’a pas plus d’effet aujourd’hui. Si
@@ -1836,8 +1537,8 @@ Maintenant, les chérubins essaient de les y ramener, parce qu’un chemin a ét
 eux. Mais ils ne le veulent pas! Oh, cette humanité!…
    Pourtant, Lui prêcha toute la Parole. Il n’en retrancha rien. Lorsque Satan, ce grand théologien,
 vint vers Lui, et dit: “Il est écrit…”. Jésus lui dit: “Il est aussi écrit,…”.
-   — “Mais il est écrit…”.
-   — “Il est aussi écrit…”.
+   — “Mais il est écrit…”.”
+   — “Il est aussi écrit…”.”
    Le parfait Arbre-Prophète, prêchant la parfaite Parole prophétique, accompagnée des parfaits
 signes prophétiques, des parfaits résultats prophétiques, des parfaits fruits de l’Esprit. Et,
 par raillerie (il faut vraiment que je me dépêche, maintenant), ils Le pendirent, Lui, la Parole, ils Le
@@ -1943,8 +1644,8 @@ répond: «l’arbre romain!»— N.d.R.] Quel est l’arbre qui a mis à mort l
 [l’assemblée répond: «l’arbre romain!» — N.d.R.] Comment a-t-il fait cela? En substituant
 quelque chose à la Parole. C’est pourquoi vous pouvez comprendre que l’église protestante qui
 n’accepte pas la Parole de Dieu est une fille de l’église romaine. Dieu n’a jamais, à aucun moment,
-organisé l’église. L’église catholique romaine est la première organisation. Et toutes celles qui
-se sont organisées sont ses filles. Elles mourront avec elle.
+organisé l’église. L’église catholique romaine est la première organisation. Et toutes celles
+qui se sont organisées sont ses filles. Elles mourront avec elle.
    La Bible dit qu’Il les brûlera dans un feu qui ne s’éteint point. Combien savent-ils cela? C’est la
 Bible qui le dit! La Bible dit que le bon grain et l’ivraie croîtront ensemble jusqu’au dernier jour, et
 qu’alors, Il liera l’ivraie premièrement, et la jettera au feu. Ensuite, Il rassemblera le blé dans
@@ -2251,22 +1952,12 @@ du Seigneur vivra de nouveau! L’Arbre de Vie repousse!
       Que vos lampes soient nettoyées et claires.
       Levez les yeux, votre rédemption est proche. (Amen!)
 
-        http://www.cmpp.ch
-
-    RESTITUTION DE L’ARBRE DE L’EPOUSE    42
-   Il restituera tous les signes (comme le signe de Lot), au temps de la fin. Nous avons vu cela;
-comment Lot… L’Ange de l’Eternel, fait chair parmi les hommes, tournait le dos à la tente
-d’Abraham. Il dit: “Où est Sara, ta femme?”.
+RESTITUTION DE L’ARBRE DE L’EPOUSE    42
+Il restituera tous les signes (comme le signe de Lot), au temps de la fin. Nous avons vu cela; comment Lot… L’Ange de l’Eternel, fait chair parmi les hommes, tournait le dos à la tente d’Abraham. Il dit: “Où est Sara, ta femme?”.
    — “Dans la tente, derrière toi”.
-   Il dit: “Je te visiterai…”. Sara se mit à rire. Mais l’Ange dit à Abraham: “Pourquoi Sara a-t-elle
-ri?”. Et elle était dans la tente! Amen!
-   Jésus a dit qu’il en serait de même avant Sa venue. Oh, alors, la Lumière du soir de
-Malachie 4 viendra luire dans les ténèbres (amen!), afin de jeter la Lumière sur la Parole
-prédestinée. Alléluia!
-   Que sera le quatrième message? Quel sera le rôle du quatrième messager? — Faire luire la
-Lumière sur la Parole. La Parole est prédestinée, Elle doit être manifestée. Quelqu’un doit le
-faire, car Dieu a dit: “Je restituerai, dit le Seigneur. Je restituerai”. C’est vrai! La Lumière du soir
-vient luire sur cette Parole prédestinée. Parfaitement!
+   Il dit: “Je te visiterai…”. Sara se mit à rire. Mais l’Ange dit à Abraham: “Pourquoi Sara a-t-elle ri?”. Et elle était dans la tente! Amen!
+   Jésus a dit qu’il en serait de même avant Sa venue. Oh, alors, la Lumière du soir de Malachie 4 viendra luire dans les ténèbres (amen!), afin de jeter la Lumière sur la Parole prédestinée. Alléluia!
+   Que sera le quatrième message? Quel sera le rôle du quatrième messager? — Faire luire la Lumière sur la Parole. La Parole est prédestinée, Elle doit être manifestée. Quelqu’un doit le faire, car Dieu a dit: “Je restituerai, dit le Seigneur. Je restituerai”. C’est vrai! La Lumière du soir vient luire sur cette Parole prédestinée. Parfaitement!
       Oh, vers le soir, la Lumière paraîtra.
       Le sentier de la gloire, vous le trouverez.
       C’est dans le baptême d’eau qu’est le chemin de la Lumière, aujourd’hui,
@@ -2275,24 +1966,9 @@ vient luire sur cette Parole prédestinée. Parfaitement!
       Et le Saint-Esprit entrera en vous.
       La Lumière du soir est venue.
       C’est un fait: Dieu et Christ sont Un!
-   Voilà! Un ensemble, Un Seul en nous. Les hommes ne peuvent pas manifester ces signes par
-eux-mêmes. La Parole est venue pour ramener la Parole de Dieu qui s’était réfugiée dans les
-racines de l’Arbre, parce que les dénominations L’avaient toujours refusée, refusée, refusée.
-Mais une lumière va venir, une Lumière va venir, va S’élever! Où cela? Là-bas, à Jérusalem? Pas
-du tout! La Lumière du soir ne se lèvera pas à Jérusalem. Où donc Se lèvera la Lumière du
-soir? à l’Occident! Du temps leur a été accordé — mais ils L’ont refusée. La Lumière du soir Se
-lèvera à l’Occident. Pourquoi cela? Pour briller sur la Parole. Dans quel but? Afin que le fruit
-mûrisse, afin que l’Arbre de l’Epouse fasse les mêmes signes et miracles et qu’Il ait les
-mêmes fruits qu’au commencement. “Vers le soir, la Lumière paraîtra”. C’est vrai!
-   Oh, alors la Parole donnera du fruit en Sa saison! Elle ne flétrira point, mais, comme dit Daniel,
-Elle donnera du fruit en Sa saison; (amen!) le même fruit qu’au commencement.
-   Nous avons vu maintenant Sa Parole, dans Sa phase prédestinée, comme Il L’a placée
-maintenant, nous L’avons vu manifestée… Qu’est-ce que cela veut dire? C’est la parfaite
-confirmation de la prochaine venue du Seigneur, et que nous sommes dans les temps dont Il a
-parlé, en disant: “Je vous remplacerai les années qu’ont dévorées la sauterelle, le jélek, le hasil et
-le gazam… Tout ce qu’ils ont dévoré jusqu’à ce qu’il ne reste plus que les racines… Je restituerai
-tout cela au temps du soir…”. Oh, mon Dieu, je crois que je pourrais encore prêcher là-dessus!
-(vous comprenez ce que je veux dire!)
+   Voilà! Un ensemble, Un Seul en nous. Les hommes ne peuvent pas manifester ces signes par eux-mêmes. La Parole est venue pour ramener la Parole de Dieu qui s’était réfugiée dans les racines de l’Arbre, parce que les dénominations L’avaient toujours refusée, refusée, refusée. Mais une lumière va venir, une Lumière va venir, va S’élever! Où cela? Là-bas, à Jérusalem? Pas du tout! La Lumière du soir ne se lèvera pas à Jérusalem. Où donc Se lèvera la Lumière du soir? à l’Occident! Du temps leur a été accordé — mais ils L’ont refusée. La Lumière du soir Se lèvera à l’Occident. Pourquoi cela? Pour briller sur la Parole. Dans quel but? Afin que le fruit mûrisse, afin que l’Arbre de l’Epouse fasse les mêmes signes et miracles et qu’Il ait les mêmes fruits qu’au commencement. “Vers le soir, la Lumière paraîtra”. C’est vrai!
+   Oh, alors la Parole donnera du fruit en Sa saison! Elle ne flétrira point, mais, comme dit Daniel, Elle donnera du fruit en Sa saison; (amen!) le même fruit qu’au commencement.
+   Nous avons vu maintenant Sa Parole, dans Sa phase prédestinée, comme Il L’a placée maintenant, nous L’avons vu manifestée… Qu’est-ce que cela veut dire? C’est la parfaite confirmation de la prochaine venue du Seigneur, et que nous sommes dans les temps dont Il a parlé, en disant: “Je vous remplacerai les années qu’ont dévorées la sauterelle, le jélek, le hasil et le gazam… Tout ce qu’ils ont dévoré jusqu’à ce qu’il ne reste plus que les racines… Je restituerai tout cela au temps du soir…”. Oh, mon Dieu, je crois que je pourrais encore prêcher là-dessus! (vous comprenez ce que je veux dire!)
       Oh, combien j’aime Jésus,
       Oh, combien j’aime Jésus,
       Oh, combien j’aime Jésus,
@@ -2301,115 +1977,34 @@ tout cela au temps du soir…”. Oh, mon Dieu, je crois que je pourrais encore 
       Je ne Le renierai jamais,
       Je ne Le renierai jamais,
       Parce qu’il m’aima le premier!
-   Amen! Ne L’aimez-vous pas? Moi, je L’aime de tout mon cœur! Allons-nous bientôt commencer
-la ligne de prière?
-   O Dieu, notre Père, entre Tes mains je remets ce message. Bien qu’il soit un peu décousu, je
-prie afin que le Saint-Esprit l’accompagne, ainsi que les bandes magnétiques, dans tous les pays.
-Et si je dois quitter cette terre, que ce message puisse continuer à vivre, ô Seigneur. C’est Ta
-Parole. Fais briller cette glorieuse Lumière du soir, Seigneur, afin de préparer cette
+   Amen! Ne L’aimez-vous pas? Moi, je L’aime de tout mon cœur! Allons-nous bientôt commencer la ligne de prière?
+   O Dieu, notre Père, entre Tes mains je remets ce message. Bien qu’il soit un peu décousu, je prie afin que le Saint-Esprit l’accompagne, ainsi que les bandes magnétiques, dans tous les pays. Et si je dois quitter cette terre, que ce message puisse continuer à vivre, ô Seigneur. C’est Ta Parole. Fais briller cette glorieuse Lumière du soir, Seigneur, afin de préparer cette
 
         http://www.cmpp.ch
 
 RESTITUTION DE L’ARBRE DE L’EPOUSE 43
-glorieuse Epouse de Christ. Bénis Ta Parole, ô Seigneur, afin qu’Elle ne retourne point à Toi
-sans effet. Puisse-t-Elle accomplir ce pourquoi Elle a été écrite. Accorde-le nous, ô Père! Toute
-louange T’appartient. Père, nous savons que, quoi que nous puissions dire, c’est toujours Ta
-Parole, et c’est ce que nous croyons. Mais c’est Toi que nous désirons, Seigneur, ce matin de
-Pâques. Prouve à cette assemblée, à ceux qui sont ici pour la première fois peut-être, que Tu es
-toujours Jésus, que Tu n’es pas quelque chose de mort, mais que Tu es un Dieu vivant,
-ressuscité, et que Tu vis au milieu de nous aujourd’hui. Accorde-nous cela, ô notre Père, et
-nous Te louerons dans le Nom de Jésus. Amen!
-   Combien ici sont malades? Veuillez lever la main. Je pense que Billy Paul vous a donné des
-cartes de prière? [La salle répond: «Oui!» — N.d.R.] Quel numéro avez-vous?… E-1 à 100. Nous
-ne pourrons pas les prendre toutes; prenons-en quelques-unes. Tenez-vous simplement là, s’il
-vous plaît.
+glorieuse Epouse de Christ. Bénis Ta Parole, ô Seigneur, afin qu’Elle ne retourne point à Toi sans effet. Puisse-t-Elle accomplir ce pourquoi Elle a été écrite. Accorde-le nous, ô Père! Toute louange T’appartient. Père, nous savons que, quoi que nous puissions dire, c’est toujours Ta Parole, et c’est ce que nous croyons. Mais c’est Toi que nous désirons, Seigneur, ce matin de Pâques. Prouve à cette assemblée, à ceux qui sont ici pour la première fois peut-être, que Tu es toujours Jésus, que Tu n’es pas quelque chose de mort, mais que Tu es un Dieu vivant, ressuscité, et que Tu vis au milieu de nous aujourd’hui. Accorde-nous cela, ô notre Père, et nous Te louerons dans le Nom de Jésus. Amen!
+   Combien ici sont malades? Veuillez lever la main. Je pense que Billy Paul vous a donné des cartes de prière? [La salle répond: «Oui!» — N.d.R.] Quel numéro avez-vous?… E-1 à 100. Nous ne pourrons pas les prendre toutes; prenons-en quelques-unes. Tenez-vous simplement là, s’il vous plaît.
    [Frère Branham appelle la ligne de prière — N.d.R.]
-   Maintenant, que chacun reste à sa place un moment, restez bien tranquilles. Nous allons voir
-que cela, c’est la preuve… Ceci, c’est la preuve…
+   Maintenant, que chacun reste à sa place un moment, restez bien tranquilles. Nous allons voir que cela, c’est la preuve… Ceci, c’est la preuve…
    [Frère Branham continue d’appeler la ligne de prière — N.d.R.]
-   Voilà, je crois qu’il n’y en a plus qui viennent… Nous allons commencer, maintenant. Peut-être,
-dans quelques minutes… Prions maintenant.
-   O Dieu, notre Père, une seule parole de Toi a tellement de signification. Montre-leur, ô
-Seigneur, que j’ai essayé d’être honnête, que j’ai essayé de leur apporter Ta Parole. Seigneur,
-pardonne les fautes de Ton serviteur; j’en fais tellement! Je Te prie, Seigneur, afin que Tu ne
-regardes pas aux fautes de Ton serviteur, mais à Ta Parole, que j’essaie de prêcher.
-Seigneur, je Te remercie pour cette Parole. Mon coeur est plein de joie. O Seigneur, pour moi,
-c’est plus que la Vie. Je donnerais ma vie sans regrets pour cela! Je sais qu’Elle est la Vérité,
-parce que c’est Ta Parole.
-   Et pardonne mes manières stupides, ô Seigneur! Souvent je plaisante, et dis des choses que je
-ne devrais pas dire. J’ai honte de cela, Seigneur. Nous sommes comme cela, dans ma famille.
-Veuille ne pas m’en tenir rigueur, Seigneur. Couvre cela de Ton Sang, c’est là ma requête. Je Te
-confesse cela! Tu ne peux pas laisser passer ces choses-là, mais Tu peux me les pardonner
-quand je Te les confesse.
-   J’ai confessé mes péchés; j’ai confessé ceux de cette assemblée. Je Te prie, Seigneur, afin
-que Tu leur pardonnes, à chacun d’eux. Et que tous puissent bien comprendre que nous ne
-jouons pas la comédie! C’est le Saint-Esprit qui, dans les derniers temps, rend témoignage
-à Sa Parole, comme je viens de le dire. Mais, ô Père, je ne suis qu’un homme! Ils diront: «Ce qu’il
-dit, c’est son interprétation, c’est ce qu’il pense à ce sujet». Mais, Père, si Tu voulais seulement
-leur parler, et les convaincre que ce que je dis est juste, alors, cela les ferait passer de Ton
-côté, et ils Le recevraient, ô Seigneur! Ils reconnaîtraient alors que ce n’est pas mon interprétation,
-mais la Tienne. Accorde-le nous, ô Seigneur! Et, si je suis Ton serviteur, et que mes péchés sont
-pardonnés, et que c’est bien Toi qui m’as appelé pour faire ce travail, alors parle-leur, ô Seigneur!
-Je Te prie afin que Tu nous accordes cela.
-   Veuille guérir les malades, et tous ceux qui sont affligés, je T’en prie, au Nom de Jésus. Veuille
-Te révéler à nous, comme Tu l’as fait à la femme au puits lorsque Tu lui as parlé. Tu lui as dit ce
-qu’elle avait fait de mal: elle avait eu cinq maris. Tu nous as promis de faire la même chose au
-temps du soir. Tu nous as promis de faire la même chose dans les derniers jours. Tu nous as dit:
-“Comme il en fut aux jours de Lot, il en sera de même lors de la venue du Fils de l’homme”. Dieu,
-vivant dans la chair de l’homme, Se mouvant parmi nous dans la forme de Son Eglise, et
-faisant les mêmes miracles. O, Seigneur, accorde-nous cela aujourd’hui! O Père, veux-Tu faire
-cela?
-   Alors, je Te prie de manifester ces choses à ces gens ici, et que chacun puisse être guéri et
-sauvé pour la gloire de Dieu. Amen.
-   Maintenant, je voudrais que vous m’accordiez toute votre attention pendant un moment et que
-vous écoutiez avec le plus grand respect.
+   Voilà, je crois qu’il n’y en a plus qui viennent… Nous allons commencer, maintenant. Peut-être, dans quelques minutes… Prions maintenant.
+   O Dieu, notre Père, une seule parole de Toi a tellement de signification. Montre-leur, ô Seigneur, que j’ai essayé d’être honnête, que j’ai essayé de leur apporter Ta Parole. Seigneur, pardonne les fautes de Ton serviteur; j’en fais tellement! Je Te prie, Seigneur, afin que Tu ne regardes pas aux fautes de Ton serviteur, mais à Ta Parole, que j’essaie de prêcher.
+Seigneur, je Te remercie pour cette Parole. Mon coeur est plein de joie. O Seigneur, pour moi, c’est plus que la Vie. Je donnerais ma vie sans regrets pour cela! Je sais qu’Elle est la Vérité, parce que c’est Ta Parole.
+   Et pardonne mes manières stupides, ô Seigneur! Souvent je plaisante, et dis des choses que je ne devrais pas dire. J’ai honte de cela, Seigneur. Nous sommes comme cela, dans ma famille. Veuille ne pas m’en tenir rigueur, Seigneur. Couvre cela de Ton Sang, c’est là ma requête. Je Te confesse cela! Tu ne peux pas laisser passer ces choses-là, mais Tu peux me les pardonner quand je Te les confesse.
+   J’ai confessé mes péchés; j’ai confessé ceux de cette assemblée. Je Te prie, Seigneur, afin que Tu leur pardonnes, à chacun d’eux. Et que tous puissent bien comprendre que nous ne jouons pas la comédie! C’est le Saint-Esprit qui, dans les derniers temps, rend témoignage à Sa Parole, comme je viens de le dire. Mais, ô Père, je ne suis qu’un homme! Ils diront: «Ce qu’il dit, c’est son interprétation, c’est ce qu’il pense à ce sujet». Mais, Père, si Tu voulais seulement leur parler, et les convaincre que ce que je dis est juste, alors, cela les ferait passer de Ton côté, et ils Le recevraient, ô Seigneur! Ils reconnaîtraient alors que ce n’est pas mon interprétation, mais la Tienne. Accorde-le nous, ô Seigneur! Et, si je suis Ton serviteur, et que mes péchés sont pardonnés, et que c’est bien Toi qui m’as appelé pour faire ce travail, alors parle-leur, ô Seigneur! Je Te prie afin que Tu nous accordes cela.
+   Veuille guérir les malades, et tous ceux qui sont affligés, je T’en prie, au Nom de Jésus. Veuille Te révéler à nous, comme Tu l’as fait à la femme au puits lorsque Tu lui as parlé. Tu lui as dit ce qu’elle avait fait de mal: elle avait eu cinq maris. Tu nous as promis de faire la même chose au temps du soir. Tu nous as promis de faire la même chose dans les derniers jours. Tu nous as dit: “Comme il en fut aux jours de Lot, il en sera de même lors de la venue du Fils de l’homme”. Dieu, vivant dans la chair de l’homme, Se mouvant parmi nous dans la forme de Son Eglise, et faisant les mêmes miracles. O, Seigneur, accorde-nous cela aujourd’hui! O Père, veux-Tu faire cela?
+   Alors, je Te prie de manifester ces choses à ces gens ici, et que chacun puisse être guéri et sauvé pour la gloire de Dieu. Amen.
+   Maintenant, je voudrais que vous m’accordiez toute votre attention pendant un moment et que vous écoutiez avec le plus grand respect.
 
         http://www.cmpp.ch
 
     RESTITUTION DE L’ARBRE DE L’EPOUSE                      44
-   Etes-vous certains de bien comprendre la position dans laquelle je suis en ce moment? Je vous
-ai prêché la Parole, la Parole de Dieu. Je vous ai dit qu’Elle était entièrement véridique. Jésus a
-dit: “Celui qui croit en moi fera aussi les oeuvres que je fais”. Je voudrais vous poser une question,
-et faites bien attention de savoir si vous pouvez ou non répondre par: «Amen!». Jésus n’a jamais
-prétendu guérir de Lui-même qui que ce soit. C’est vrai! Il a dit: “Ce n’est pas moi qui fais les
-oeuvres; c’est le Père qui habite en moi”. N’est-ce pas vrai? Et Jésus a dit dans Jean 5.19: “En
-vérité, en vérité je vous le dis, le Fils (c’est-à-dire Lui-même en tant qu’homme, un simple
-tabernacle dans lequel Dieu vint habiter)… le Fils ne peut rien faire de Lui-même, mais Il fait ce
-qu’Il voit faire au Père”. Autrement dit: “Le Père Me montre en vision ce que je dois faire, et je fais
-simplement ce qu’Il me dit de faire”.
-   Nous voyons ainsi qu’un jour, il y eut une pauvre femme qui n’avait pas pu entrer dans la ligne
-de prière. Elle avait une perte de sang qui durait depuis des années. Mais elle toucha simplement
-Son vêtement, disant en elle-même… Elle était de peu d’importance. Ce n’était qu’une pauvre
-vieille femme. Elle n’avait pas d’argent, et n’aurait jamais pu aller se tenir en compagnie des
-sacrificateurs, et de tous ces hauts dignitaires qui avaient le droit d’être là et de faire tout ce qu’ils
-voulaient. Aussi, elle se faufila jusqu’à ce qu’elle pût toucher Son vêtement, pensant: “Il nous
-apporte la Vérité, la Vie. Je crois qu’Il est la Parole, et si je peux le toucher, je serai guérie”.
-   Croyez-vous? Pouvez-vous croire ce qu’a cru cette femme, c’est-à-dire qu’Il est la Parole de
-Dieu? La Bible dit qu’aujourd’hui, Il est notre Souverain Sacrificateur. Croyez-vous cela? Après
-Sa résurrection et Son ascension, Il est monté dans les lieux célestes et a fait des dons aux
-hommes… maintenant, Il est assis à la droite de Dieu, intercédant pour ce que nous
-confessons. N’est-ce pas vrai? Il est un Souverain Sacrificateur qui peut être quoi? — touché!
-Par quoi? — par le sentiment que nous avons de nos infirmités. Croyez-vous qu’Il est le
-Même? [L’assemblée répond: «Amen!» — N.d.R.]
-   Maintenant, écoutez ceci. Si vous venez ici, et que vous me touchiez pendant toute la journée,
-cela n’aura aucun effet. Si vous touchez un frère ou une soeur, cela n’aura pas non plus le
-moindre effet. L’ordre d’imposer les mains… C’est tout. Mais si vous Le touchez, Lui! C’est cela
-que vous devez faire! Mais si vous Le touchez par n’importe quelle sorte de rituel, comme ils le
-firent, disant: “Je crois que ce grand docteur n’est rien de plus qu’un prophète…”. — Il ne leur dit
-rien du tout. Mais cette pauvre femme avait quelque chose avec quoi elle Le toucha: sa foi! Elle
-toucha Son vêtement, et Il demanda “Qui m’a touché?”.
-   Ne croyez-vous pas que la Bible dit qu’Il est le même Sacrificateur aujourd’hui qu’Il était hier,
-pouvant être touché par le sentiment que nous avons de nos infirmités? Vous pouvez Le toucher,
-que vous soyez ou non dans la ligne de prière! Si vous êtes malade, ou si quelqu’un de ceux
-que vous aimez est malade, ou si vous avez quelque chose sur le coeur, approchez-vous
-simplement de Dieu dans le respect et l’adoration, et dites: «O Dieu, je ne sais pas
-grand’chose de ce petit homme chauve qui se tient sur cette plate-forme; il n’est rien par lui-même,
-mais je crois que ce qu’il a prêché est la vérité; je crois qu’il a dit quelque chose de juste,
-lorsqu’il a dit que Tu es le Souverain Sacrificateur. Maintenant, c’est Toi que je voudrais
-toucher. S’il m’a dit la vérité, cela veut dire que Tu utilises sa bouche pour me parler, comme Tu
-l’as fait pour la femme». Comprenez qu’Il est le même hier, aujourd’hui, et éternellement!
-Comprenez-le bien! N’est-Il pas le même hier, aujourd’hui, et éternellement?… Maintenant, que
-chacun demeure avec respect dans un esprit de prière.
+   Etes-vous certains de bien comprendre la position dans laquelle je suis en ce moment? Je vous ai prêché la Parole, la Parole de Dieu. Je vous ai dit qu’Elle était entièrement véridique. Jésus a dit: “Celui qui croit en moi fera aussi les oeuvres que je fais”. Je voudrais vous poser une question, et faites bien attention de savoir si vous pouvez ou non répondre par: «Amen!». Jésus n’a jamais prétendu guérir de Lui-même qui que ce soit. C’est vrai! Il a dit: “Ce n’est pas moi qui fais les oeuvres; c’est le Père qui habite en moi”. N’est-ce pas vrai? Et Jésus a dit dans Jean 5.19: “En vérité, en vérité je vous le dis, le Fils (c’est-à-dire Lui-même en tant qu’homme, un simple tabernacle dans lequel Dieu vint habiter)… le Fils ne peut rien faire de Lui-même, mais Il fait ce qu’Il voit faire au Père”. Autrement dit: “Le Père Me montre en vision ce que je dois faire, et je fais simplement ce qu’Il me dit de faire”.
+   Nous voyons ainsi qu’un jour, il y eut une pauvre femme qui n’avait pas pu entrer dans la ligne de prière. Elle avait une perte de sang qui durait depuis des années. Mais elle toucha simplement Son vêtement, disant en elle-même… Elle était de peu d’importance. Ce n’était qu’une pauvre vieille femme. Elle n’avait pas d’argent, et n’aurait jamais pu aller se tenir en compagnie des sacrificateurs, et de tous ces hauts dignitaires qui avaient le droit d’être là et de faire tout ce qu’ils voulaient. Aussi, elle se faufila jusqu’à ce qu’elle pût toucher Son vêtement, pensant: “Il nous apporte la Vérité, la Vie. Je crois qu’Il est la Parole, et si je peux le toucher, je serai guérie”.
+   Croyez-vous? Pouvez-vous croire ce qu’a cru cette femme, c’est-à-dire qu’Il est la Parole de Dieu? La Bible dit qu’aujourd’hui, Il est notre Souverain Sacrificateur. Croyez-vous cela? Après Sa résurrection et Son ascension, Il est monté dans les lieux célestes et a fait des dons aux hommes… maintenant, Il est assis à la droite de Dieu, intercédant pour ce que nous confessons. N’est-ce pas vrai? Il est un Souverain Sacrificateur qui peut être quoi? — touché! Par quoi? — par le sentiment que nous avons de nos infirmités. Croyez-vous qu’Il est le Même? [L’assemblée répond: «Amen!» — N.d.R.]
+   Maintenant, écoutez ceci. Si vous venez ici, et que vous me touchiez pendant toute la journée, cela n’aura aucun effet. Si vous touchez un frère ou une soeur, cela n’aura pas non plus le moindre effet. L’ordre d’imposer les mains… C’est tout. Mais si vous Le touchez, Lui! C’est cela que vous devez faire! Mais si vous Le touchez par n’importe quelle sorte de rituel, comme ils le firent, disant: “Je crois que ce grand docteur n’est rien de plus qu’un prophète…”. — Il ne leur dit rien du tout. Mais cette pauvre femme avait quelque chose avec quoi elle Le toucha: sa foi! Elle toucha Son vêtement, et Il demanda “Qui m’a touché?”.
+   Ne croyez-vous pas que la Bible dit qu’Il est le même Sacrificateur aujourd’hui qu’Il était hier, pouvant être touché par le sentiment que nous avons de nos infirmités? Vous pouvez Le toucher, que vous soyez ou non dans la ligne de prière! Si vous êtes malade, ou si quelqu’un de ceux que vous aimez est malade, ou si vous avez quelque chose sur le coeur, approchez-vous simplement de Dieu dans le respect et l’adoration, et dites: «O Dieu, je ne sais pas grand’chose de ce petit homme chauve qui se tient sur cette plate-forme; il n’est rien par lui-même, mais je crois que ce qu’il a prêché est la vérité; je crois qu’il a dit quelque chose de juste, lorsqu’il a dit que Tu es le Souverain Sacrificateur. Maintenant, c’est Toi que je voudrais toucher. S’il m’a dit la vérité, cela veut dire que Tu utilises sa bouche pour me parler, comme Tu l’as fait pour la femme». Comprenez qu’Il est le même hier, aujourd’hui, et éternellement! Comprenez-le bien! N’est-Il pas le même hier, aujourd’hui, et éternellement?… Maintenant, que chacun demeure avec respect dans un esprit de prière.
    [Frère Branham continue à appeler la ligne de prière — N.d.R.]
    Pendant qu’ils se rassemblent, chantons tous à mi-voix: Crois seulement…
       Crois seulement, crois seulement,
@@ -2417,43 +2012,30 @@ chacun demeure avec respect dans un esprit de prière.
       Crois seulement, crois seulement;
    (croire quoi? les Promesses de Sa Parole; et pourquoi cela?)
       Tout est possible à celui qui croit.
-   Lorsqu’Il descendit de la montagne, Il vint à la rencontre de Ses disciples. Ceux-ci n’avaient pas
-réussi à chasser un démon. Le père se tenait auprès de son enfant, et pleurait. Les disciples
-avaient fait tout ce qu’il fallait faire, mais ils avaient échoué! Voici que Jésus S’approcha;
+   Lorsqu’Il descendit de la montagne, Il vint à la rencontre de Ses disciples. Ceux-ci n’avaient pas réussi à chasser un démon. Le père se tenait auprès de son enfant, et pleurait. Les disciples avaient fait tout ce qu’il fallait faire, mais ils avaient échoué! Voici que Jésus S’approcha;
 
                                           http://www.cmpp.ch
 
     RESTITUTION DE L’ARBRE DE L’EPOUSE                                                                 45
-    quelques-uns dirent: “Le voici!”. Ils dirigèrent le père et l’enfant vers Jésus, les éloignant du clergé.
-    C’est là que je voudrais diriger les gens, non pas vers moi ou vers quelque église, mais vers
-    Jésus. Ils dirent à l’homme: “C’est Lui qui a le pouvoir de le faire”.
+    quelques-uns dirent: “Le voici!”. Ils dirigèrent le père et l’enfant vers Jésus, les éloignant du clergé. C’est là que je voudrais diriger les gens, non pas vers moi ou vers quelque église, mais vers Jésus. Ils dirent à l’homme: “C’est Lui qui a le pouvoir de le faire”.
 
-    Aussitôt, le père courut vers Lui, se jeta à Ses pieds et dit: “Seigneur, aie pitié de mon enfant! Il
-    est possédé d’un démon. Il écume, il a des convulsions, il est épileptique. Je l’ai amené partout,
-    mais même Tes disciples n’ont rien pu faire pour lui!”.
+    Aussitôt, le père courut vers Lui, se jeta à Ses pieds et dit: “Seigneur, aie pitié de mon enfant! Il est possédé d’un démon. Il écume, il a des convulsions, il est épileptique. Je l’ai amené partout, mais même Tes disciples n’ont rien pu faire pour lui!”.
 
-              Jésus lui répondit: “Je le puis, Moi, si tu crois; car toutes choses sont possibles à celui
-    qui croit”.
+              Jésus lui répondit: “Je le puis, Moi, si tu crois; car toutes choses sont possibles à celui qui croit”.
 
      Crois seulement,
 
-     (Il est le Même hier, aujourd’hui et éternellement. Je crois qu’ils sont tous là,
-     maintenant… encore quelques-uns?…)
+     (Il est le Même hier, aujourd’hui et éternellement. Je crois qu’ils sont tous là, maintenant… encore quelques-uns?…)
 
      Tout est possible (quelle gloire!) à celui qui croit;
      Crois seulement, crois seulement,
      Tout est possible, crois seulement.
 
-   O Seigneur, la Parole a été donnée, maintenant; que la Lumière du soir puisse briller,
-maintenant, ô Seigneur! Vivifie-La! Je Te le demande au Nom de Jésus-Christ. Amen!
+   O Seigneur, la Parole a été donnée, maintenant; que la Lumière du soir puisse briller, maintenant, ô Seigneur! Vivifie-La! Je Te le demande au Nom de Jésus-Christ. Amen!
 
-     Au Nom du Seigneur Jésus-Christ, et pour Sa gloire, je prends maintenant sous mon autorité
-    chaque esprit qui se trouve ici.
+     Au Nom du Seigneur Jésus-Christ, et pour Sa gloire, je prends maintenant sous mon autorité chaque esprit qui se trouve ici.
 
-   [Frère Branham continue le service de guérison, et prie pour les malades, usant du
-discernement — N.d.R.]
-
-
+   [Frère Branham continue le service de guérison, et prie pour les malades, usant du discernement — N.d.R.]
 
 
 

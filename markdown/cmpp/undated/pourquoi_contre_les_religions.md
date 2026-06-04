@@ -1,547 +1,173 @@
-    LA PAROLE PARLEE
+---
+source: "cmpp"
+sermon_id: "pourquoi_contre_les_religions"
+title: "Pourquoi je suis contre les religions organisées"
+subtitle: "11 novembre 1962, soir"
+date: "1962-11-11"
+year: 1962
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham explique pourquoi il s'oppose aux religions organisées, en s'appuyant sur des exemples bibliques comme la rébellion de Coré et la visite de Nicodème à Jésus. Il affirme que l'organisation ecclésiastique est contraire à l'Écriture et que le salut est une naissance divine, non une adhésion à un groupe. Il exhorte à suivre la Parole de Dieu plutôt que les traditions humaines."
+tags:
+  - "religions organisées"
+  - "organisation ecclésiastique"
+  - "Coré"
+  - "Nicodème"
+  - "Parole de Dieu"
+  - "salut"
+  - "tradition"
+persons:
+  - "William Marrion Branham"
+  - "Moïse"
+  - "Aaron"
+  - "Coré"
+  - "Dathan"
+  - "Nimrod"
+  - "Adam"
+  - "Nicodème"
+  - "Jésus-Christ"
+  - "Paul"
+  - "David"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Canada"
+  - "Fort Wayne"
+  - "Krefeld"
+themes:
+  - "opposition aux organisations religieuses"
+  - "autorité de la Parole de Dieu"
+  - "salut par la foi"
+  - "rejet des traditions humaines"
+  - "la vie éternelle en Christ"
+  - "le rôle du prophète"
+pdf_url: "http://cmpp.ch/pourquoi_contre_les_religions.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Samuel 8"
+  - "1 Timothée 4"
+  - "2 Pierre 1"
+  - "2 Timothée 3"
+  - "Actes 2"
+  - "Apocalypse 17"
+  - "Apocalypse 18"
+  - "Esther 87"
+  - "Galates 1"
+  - "Galates 5"
+  - "Jean 3"
+  - "Marc 16"
+  - "Nombres 16"
+  - "Proverbes 11"
+---
+LA PAROLE PARLEE
 
-    PAR
+PAR
 
-    WILLIAM MARRION BRANHAM
-    Il est écrit…
+WILLIAM MARRION BRANHAM
+Il est écrit…
 
-       POURQUOI JE SUIS CONTRE
-       LES RELIGIONS ORGANISEES
+POURQUOI JE SUIS CONTRE
+LES RELIGIONS ORGANISEES
 (Why I am Against Organized Religion)
 
+11 novembre 1962, soir
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
+Ewald Frank
 
-        11 novembre 1962, soir
-          Branham Tabernacle
-   Jeffersonville — Indiana, U.S.A.
-
-
-
-    Ewald Frank
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES    2
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
 POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES
-     (Why I am Against Organized Religion)
 
-             11 novembre 1962, soir
-               Branham Tabernacle
-        Jeffersonville — Indiana, U.S.A.
+(Why I am Against Organized Religion)
 
+11 novembre 1962, soir
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
-
-1 Merci, frère Neville. Vous pouvez vous asseoir. Je voudrais dire d’abord que j’ai été tellement
-occupé aujourd’hui qu’il y a quelques appels de malades auxquels je n’ai pas pu répondre. Il y
-avait quelques personnes pour lesquelles je devais prier et que je devais voir personnellement.
-Billy m’a dit que certaines personnes venaient du Canada et de deux ou trois autres endroits.
-Quand ils viennent ici ils sont toujours obligés de loger dans les hôtels et les motels. Je dois aller
-vers eux et prier pour eux tandis qu’ils viennent de partout dans le monde, d’Asie, d’Europe, de
-partout. Jour après jour les gens viennent quand nous sommes ici. Il y en a plus de six cents sur la
-liste qui attendent une entrevue personnelle, ce qui fait que c’est passablement difficile. J’essaie
-de voir les personnes qui sont réellement malades et les urgences pour lesquelles il faut prier.
-2 Il y a quelques instants nous avons eu une rencontre, les responsables et moi ici dans
-l’église. Cela m’a retardé d’environ une heure et demie. Pendant ce temps il devait y avoir des
-personnes ici pour lesquelles je devais prier. Si elles sont ici j’aimerais prier pour elles en ce
-moment. Si ces personnes pour lesquelles on devait prier veulent bien venir ici pendant que la
-pianiste nous jouera quelques accords du cantique: Le grand Médecin est tout près maintenant,
-Jésus qui compatit. Tous ceux qui ont besoin de la prière, s’ils veulent bien s’avancer; je ne sais
-pas combien ils sont. C’est vous qui êtes ces frères, je suppose? Frères, j’ai beaucoup souffert
-dans mon propre corps. Jésus a porté la souffrance dans Son corps afin de pouvoir être le
-Médiateur qu’il fallait parce qu’Il est Dieu fait chair afin de pouvoir souffrir. Il pouvait ressentir les
-douleurs de l’infirmité. Et c’est pour cela qu’Il est venu faire l’expiation. Et en cela Il a donné
-mission à Son église de continuer Son oeuvre.
-3 J’ai beaucoup de considération pour la profession médicale, la chirurgie et tout le reste, pour
-tous ces talents que Dieu a donnés afin de faire certaines choses dans le corps, de faire des
-opérations, d’ôter des mauvaises dents, etc. J’apprécie cela. Mais il arrive des choses qui
-dépassent leur connaissance et ils ne savent pas que faire, vous voyez? Je pense que nous avons
-parfaitement le droit de faire ce que nous ferions dans la vie naturelle quand nous allons chez
-notre médecin de famille qui est peut-être un de ces bons vieux médecins de campagne qui vient
-vous soigner la nuit chez vous en passant à travers champs avec une lanterne. Si votre cas le
-dépasse, il ira chercher quelqu’un de plus compétent que lui, il vous enverra chez un spécialiste.
-Et si le spécialiste lui-même ne peut rien faire, je suis heureux d’avoir encore une autre ressource,
-le Grand Médecin.
-4 Et Celui-là ne sera pas, Lui, dépassé par votre cas parce qu’Il est le Créateur Lui-même. Et Il
-a ouvert un chemin pour nous. Si j’avais en moi la moindre puissance de guérison, je l’exercerais.
-Je serais heureux de pouvoir le faire! Mais pour ce qui est de la puissance de guérison, je n’en ai
-aucune; aucun homme n’a le pouvoir de guérir. Mais nous avons reçu de Christ la mission de prier
-pour les malades, nous l’avons reçue de Lui qui a déjà donné en dépôt le pouvoir de guérir. Vous
-comprenez? Et pour ainsi dire, nous venons simplement tirer un chèque sur ce dépôt. “Tout ce
-que vous demanderez au Père en mon Nom…” cela, c’est le chèque en blanc. “Tout ce que vous
-demanderez au Père en mon Nom, je le ferai”. Quelle promesse! Elle ne peut faillir. J’ai aidé mes
-frères et soeurs dans le monde entier à tirer ces chèques sur ce dépôt à la Banque de Dieu par le
-Sang de Jésus-Christ. Cela a très bien réussi. Il a toujours payé parce que le dépôt avait déjà été
-fait. “Il a ETE blessé pour nos transgressions… et par ses meurtrissures nous SOMMES guéris”.
-Vous voyez, tout est accompli. Et nous sommes heureux ce soir à cause de votre foi.
-5 Je crois que Billy m’a dit qu’un frère a fait tout le chemin depuis le Canada ou quelque chose
-
-        http://www.cmpp.ch
-
-POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES 3
-comme cela. Est-ce vrai? Vous êtes le frère du Canada? Et vous, frère? De Kendallville en
-Indiana, près de Fort Wayne. Je me suis marié à Fort Wayne. Je m’en souviens bien! Là j’ai tenu
-beaucoup de réunions au Redigar Tabernacle. Je pense que vous savez où il se trouve. Je me
-rappelle que tout jeune homme, j’étais assis aux pieds de Paul Rader au Redigar Tabernacle. Je
-n’étais alors qu’un jeune prédicateur débutant. Le frère Paul était un grand homme, comme
-d’ailleurs le frère Redigar; c’étaient des hommes de foi. Leur âme est au repos ce soir. Depuis
-mon enfance j’ai essayé de continuer ce qu’ils avaient laissé, ce que Jésus a laissé à Son église
-jusqu’à la fin.
-6 Je suis venu prier pour vous avec toute ma foi. Je ne viens pas ici par hasard. Il ne faut
-jamais faire les choses de cette manière, ce n’est pas juste. Nous venons en croyant que nous
-allons recevoir ce que nous avons demandé, sachant que Dieu l’a promis. Nous venons avec dans
-notre coeur l’assurance que Christ a fait la promesse et que vous, frères, avez essayé d’apporter
-votre foi à l’autel, que vous avez fait tout ce que vous pouviez. Et ce soir je viens déposer ma foi
-avec la vôtre. Vous comprenez?
-7 Nous avons maintenant un glorieux autel qui s’étend jusqu’au Ciel et sur cet autel est déposé
-notre Sacrifice, le Fils de Dieu. Vous voyez? C’est ce Sacrifice sanglant. Dieu ne peut pas le
-regarder sans le respecter parce que, vous comprenez, c’est Sa Parole. “Celui-ci est mon Fils
-bien-aimé. Ecoutez-le”.
-8 Je voudrais demander à notre frère Neville, notre ancien, s’il veut bien s’avancer vers moi
-tandis que nous allons prier. Je voudrais que toute l’église… Que feriez-vous s’il s’agissait de votre
-frère, de votre mari, de votre fils, de votre père? C’est une personne, souvenez-vous-en! Avec
-toute la sincérité dont nous sommes capables, approchons-nous maintenant de Dieu pour ces
-frères. Inclinons nos têtes.
-9 Père céleste plein de grâce, nous nous approchons de Ta présence maintenant par l’autel de
-la grâce, bien qu’ici sur terre nous nous tenions simplement près d’un petit banc de bois. Mais
-notre foi nous a élevés jusqu’à ce glorieux autel ardent de l’Au-delà où se trouve Jésus (le
-Sauveur, le Sacrifice sanglant du Calvaire qui répand une bonne odeur devant Dieu), Celui qui a
-triomphé de toute maladie, de la mort, du séjour des morts, du tombeau, qui est ressuscité et est
-monté au Ciel pour s’asseoir à la droite de Sa Majesté. Et nous venons par la foi, nous élevant
-jusque là dans la grâce de Dieu pour dire par-dessus cet autel au glorieux Créateur des cieux et
-de la terre: “Reçois-nous, Seigneur, tandis que nous nous approchons au Nom du Seigneur Jésus.
-10 Voici nos frères; l’un d’eux vient de Fort Wayne ici aux Etats-Unis, l’autre a fait tout le chemin
-depuis le Canada, il est venu pour cette occasion particulièrement solennelle. Seigneur, c’est une
-question de vie ou de mort. Voici deux hommes, jeunes encore, qui pourraient Te servir encore
-longtemps, deux soldats chrétiens qui croient en Toi. Mais l’ennemi leur a tiré une flèche
-empoisonnée qui a touché un certain endroit de leur corps et ils sont revenus, se sont retirés vers
-l’hôpital de la Grâce de Dieu afin d’obtenir la réconciliation et la guérison, de manière à pouvoir de
-nouveau aller au front couverts du bouclier et prendre part à la bataille. Ils sont venus se joindre à
-l’armée de la prière avec nous, Seigneur. Et nous allons à la rencontre de l’ennemi.
+1 Merci, frère Neville. Vous pouvez vous asseoir. Je voudrais dire d’abord que j’ai été tellement occupé aujourd’hui qu’il y a quelques appels de malades auxquels je n’ai pas pu répondre. Il y avait quelques personnes pour lesquelles je devais prier et que je devais voir personnellement. Billy m’a dit que certaines personnes venaient du Canada et de deux ou trois autres endroits. Quand ils viennent ici ils sont toujours obligés de loger dans les hôtels et les motels. Je dois aller vers eux et prier pour eux tandis qu’ils viennent de partout dans le monde, d’Asie, d’Europe, de partout. Jour après jour les gens viennent quand nous sommes ici. Il y en a plus de six cents sur la liste qui attendent une entrevue personnelle, ce qui fait que c’est passablement difficile. J’essaie de voir les personnes qui sont réellement malades et les urgences pour lesquelles il faut prier.
+2 Il y a quelques instants nous avons eu une rencontre, les responsables et moi ici dans l’église. Cela m’a retardé d’environ une heure et demie. Pendant ce temps il devait y avoir des personnes ici pour lesquelles je devais prier. Si elles sont ici j’aimerais prier pour elles en ce moment. Si ces personnes pour lesquelles on devait prier veulent bien venir ici pendant que la pianiste nous jouera quelques accords du cantique: Le grand Médecin est tout près maintenant, Jésus qui compatit. Tous ceux qui ont besoin de la prière, s’ils veulent bien s’avancer; je ne sais pas combien ils sont. C’est vous qui êtes ces frères, je suppose? Frères, j’ai beaucoup souffert dans mon propre corps. Jésus a porté la souffrance dans Son corps afin de pouvoir être le Médiateur qu’il fallait parce qu’Il est Dieu fait chair afin de pouvoir souffrir. Il pouvait ressentir les douleurs de l’infirmité. Et c’est pour cela qu’Il est venu faire l’expiation. Et en cela Il a donné mission à Son église de continuer Son oeuvre.
+3 J’ai beaucoup de considération pour la profession médicale, la chirurgie et tout le reste, pour tous ces talents que Dieu a donnés afin de faire certaines choses dans le corps, de faire des opérations, d’ôter des mauvaises dents, etc. J’apprécie cela. Mais il arrive des choses qui dépassent leur connaissance et ils ne savent pas que faire, vous voyez? Je pense que nous avons parfaitement le droit de faire ce que nous ferions dans la vie naturelle quand nous allons chez notre médecin de famille qui est peut-être un de ces bons vieux médecins de campagne qui vient vous soigner la nuit chez vous en passant à travers champs avec une lanterne. Si votre cas le dépasse, il ira chercher quelqu’un de plus compétent que lui, il vous enverra chez un spécialiste. Et si le spécialiste lui-même ne peut rien faire, je suis heureux d’avoir encore une autre ressource, le Grand Médecin.
+4 Et Celui-là ne sera pas, Lui, dépassé par votre cas parce qu’Il est le Créateur Lui-même. Et Il a ouvert un chemin pour nous. Si j’avais en moi la moindre puissance de guérison, je l’exercerais. Je serais heureux de pouvoir le faire! Mais pour ce qui est de la puissance de guérison, je n’en ai aucune; aucun homme n’a le pouvoir de guérir. Mais nous avons reçu de Christ la mission de prier pour les malades, nous l’avons reçue de Lui qui a déjà donné en dépôt le pouvoir de guérir. Vous comprenez? Et pour ainsi dire, nous venons simplement tirer un chèque sur ce dépôt. “Tout ce que vous demanderez au Père en mon Nom…” cela, c’est le chèque en blanc. “Tout ce que vous demanderez au Père en mon Nom, je le ferai”. Quelle promesse! Elle ne peut faillir. J’ai aidé mes frères et soeurs dans le monde entier à tirer ces chèques sur ce dépôt à la Banque de Dieu par le Sang de Jésus-Christ. Cela a très bien réussi. Il a toujours payé parce que le dépôt avait déjà été fait. “Il a ETE blessé pour nos transgressions… et par ses meurtrissures nous SOMMES guéris”. Vous voyez, tout est accompli. Et nous sommes heureux ce soir à cause de votre foi.
+5 Je crois que Billy m’a dit qu’un frère a fait tout le chemin depuis le Canada ou quelque chose comme cela. Est-ce vrai? Vous êtes le frère du Canada? Et vous, frère? De Kendallville en Indiana, près de Fort Wayne. Je me suis marié à Fort Wayne. Je m’en souviens bien! Là j’ai tenu beaucoup de réunions au Redigar Tabernacle. Je pense que vous savez où il se trouve. Je me rappelle que tout jeune homme, j’étais assis aux pieds de Paul Rader au Redigar Tabernacle. Je n’étais alors qu’un jeune prédicateur débutant. Le frère Paul était un grand homme, comme d’ailleurs le frère Redigar; c’étaient des hommes de foi. Leur âme est au repos ce soir. Depuis mon enfance j’ai essayé de continuer ce qu’ils avaient laissé, ce que Jésus a laissé à Son église jusqu’à la fin.
+6 Je suis venu prier pour vous avec toute ma foi. Je ne viens pas ici par hasard. Il ne faut jamais faire les choses de cette manière, ce n’est pas juste. Nous venons en croyant que nous allons recevoir ce que nous avons demandé, sachant que Dieu l’a promis. Nous venons avec dans notre coeur l’assurance que Christ a fait la promesse et que vous, frères, avez essayé d’apporter votre foi à l’autel, que vous avez fait tout ce que vous pouviez. Et ce soir je viens déposer ma foi avec la vôtre. Vous comprenez?
+7 Nous avons maintenant un glorieux autel qui s’étend jusqu’au Ciel et sur cet autel est déposé notre Sacrifice, le Fils de Dieu. Vous voyez? C’est ce Sacrifice sanglant. Dieu ne peut pas le regarder sans le respecter parce que, vous comprenez, c’est Sa Parole. “Celui-ci est mon Fils bien-aimé. Ecoutez-le”.
+8 Je voudrais demander à notre frère Neville, notre ancien, s’il veut bien s’avancer vers moi tandis que nous allons prier. Je voudrais que toute l’église… Que feriez-vous s’il s’agissait de votre frère, de votre mari, de votre fils, de votre père? C’est une personne, souvenez-vous-en! Avec toute la sincérité dont nous sommes capables, approchons-nous maintenant de Dieu pour ces frères. Inclinons nos têtes.
+9 Père céleste plein de grâce, nous nous approchons de Ta présence maintenant par l’autel de la grâce, bien qu’ici sur terre nous nous tenions simplement près d’un petit banc de bois. Mais notre foi nous a élevés jusqu’à ce glorieux autel ardent de l’Au-delà où se trouve Jésus (le Sauveur, le Sacrifice sanglant du Calvaire qui répand une bonne odeur devant Dieu), Celui qui a triomphé de toute maladie, de la mort, du séjour des morts, du tombeau, qui est ressuscité et est monté au Ciel pour s’asseoir à la droite de Sa Majesté. Et nous venons par la foi, nous élevant jusque là dans la grâce de Dieu pour dire par-dessus cet autel au glorieux Créateur des cieux et de la terre: “Reçois-nous, Seigneur, tandis que nous nous approchons au Nom du Seigneur Jésus.
+10 Voici nos frères; l’un d’eux vient de Fort Wayne ici aux Etats-Unis, l’autre a fait tout le chemin depuis le Canada, il est venu pour cette occasion particulièrement solennelle. Seigneur, c’est une question de vie ou de mort. Voici deux hommes, jeunes encore, qui pourraient Te servir encore longtemps, deux soldats chrétiens qui croient en Toi. Mais l’ennemi leur a tiré une flèche empoisonnée qui a touché un certain endroit de leur corps et ils sont revenus, se sont retirés vers l’hôpital de la Grâce de Dieu afin d’obtenir la réconciliation et la guérison, de manière à pouvoir de nouveau aller au front couverts du bouclier et prendre part à la bataille. Ils sont venus se joindre à l’armée de la prière avec nous, Seigneur. Et nous allons à la rencontre de l’ennemi.
 11 Au Nom de Jésus-Christ, délie-les! Nous t’adjurons au Nom de Jésus-Christ: laisse-les aller!
-12 Ce sont des guerriers de la bataille. Et en tant que Ton serviteur je m’avance maintenant pour
-leur imposer les mains avec foi, croyant que ces signes accompagneront ceux qui auront cru,
-comme l’a dit notre Seigneur, notre Commandant en chef de la bataille: “Ils imposeront les mains
-aux malades et les malades seront guéris”.
-13 Je fais cela au Nom de Jésus-Christ. Que la puissance de maladie qui lie le corps de ce frère
-le quitte, au Nom de Jésus-Christ! Que la puissance de maladie qui lie le corps de ce frère le
-quitte, au Nom de Jésus-Christ!
-14 Dieu Tout-Puissant, Créateur des cieux et de la terre, Auteur de la vie éternelle, Donateur de
-tout don excellent, déverse Tes bénédictions sur ceux que nous avons bénis. Comme il est dit
-dans les Ecritures: “Si vous dites à cette montagne: déplace-toi, et que vous ne doutiez pas dans
-votre coeur mais croyez que ce que vous avez dit arrivera, vous pourrez avoir ce que vous aurez
-demandé”. Je crois que leur maladie est sortie de leur corps. Qu’il en soit ainsi. Amen!
-15 Au Nom du Seigneur Jésus, je crois que vous êtes libre. Au Nom du Seigneur Jésus-Christ, je
-crois que vous êtes libre. Amen! L’assemblée croit-elle pareillement? Alors qu’il en soit ainsi.
-
-        http://www.cmpp.ch
-
-POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES 4
-16 Y en a-t-il encore ici qui voudraient que l’on se souvienne d’eux dans la prière? Veuillez lever
-la main. Approchons-nous de Lui maintenant tandis que vous vous imposez les mains les uns aux
-autres. “Voici les signes qui accompagneront ceux qui auront cru…”.
-17 O notre Dieu très saint! C’est par la foi que nous voyons Jésus et que nous croyons qu’Il se
-tient ici présent. Il veille sur Sa Parole. Il a dit: “Là où deux ou trois sont assemblés en mon nom, je
-suis au milieu d’eux”. Maintenant, Père céleste, que la puissance du Dieu Tout-Puissant touche
-ces gens, Seigneur, tandis que nos mains sont jointes les unes aux autres et que nous nous
-imposons les mains les uns aux autres. Tu as donné une dernière mission à l’église: “Voici les
-miracles qui accompagneront ceux qui auront cru… ils imposeront les mains aux malades et les
-malades seront guéris”. Tu l’as promis et nous le croyons. Maintenant cela a été fait et nous Te
-louons pour cela au Nom de Jésus-Christ. Amen.
-18 Et au Nom de Jésus-Christ, puisse la Puissance de Dieu oindre ces mouchoirs apportés par
-les malades et les nécessiteux. Et tandis qu’ils seront renvoyés et posés sur les malades, puisse-t-
-il arriver que ceux-ci soient guéris. Nous lisons dans la Bible que l’on posait sur les malades des
-linges qui avaient touché Paul, alors les esprits impurs sortaient et les malades étaient guéris.
-Père, je sais que je ne suis pas Paul, mais Toi tu es toujours Jésus. Et nous Te prions de nous
-accorder cette requête pour Ta gloire. Amen.
-19 Je ne sais pas si l’enregistrement a déjà commencé. A-t-il déjà commencé? Sinon, j’aimerais
-que l’on commence à enregistrer maintenant. Je crois que c’est le cas. J’espère que je ne vous
-fatiguerai pas ce soir. J’ai commencé environ trente à trente-cinq minutes plus tôt. Ce soir ce sera
-une leçon d’école du dimanche et je pensais que ce serait peut-être bien si je pouvais enregistrer
-ce que j’ai sur le coeur. Nous nous préparons à entrer dans une nouvelle phase, à avoir un
-nouveau Tabernacle entièrement remis à neuf.
-20 Je voudrais lire maintenant quelques passages des Ecritures. Si vous voulez lire avec moi,
-nous allons lire dans 1 Samuel au chapitre huit; nous commencerons en lisant les versets 4 à 10,
-puis nous sauterons jusqu’aux versets 19 et 20 pour gagner du temps. J’ai noté plusieurs pages
-de références bibliques que vous pourrez avoir si vous avez de quoi écrire et M. Maguire tiendra
-les bandes à votre disposition.
-21 Et je voudrais que cette bande soit dédiée à mes frères prédicateurs, à ceux qui ne
-m’ont pas compris, spécialement aux frères des églises dénominationnelles. La plupart
-d’entre eux sont dans les dénominations.
-22 Ce soir mon sujet sera: Pourquoi je suis contre les religions organisées. Je vais lire
-maintenant un passage de l’Ecriture qui me servira de base afin que cela soit bien scripturaire. Je
-lirai d’abord 1 Samuel 8.4-10, puis les versets 19 et 20. A mon auditoire visible de ce soir je
-recommande vivement de noter ces passages des Ecritures et de les lire soigneusement à la
-maison. Et vous, frères qui écouterez cette bande, je crois aussi que vous ne vous contenterez
-pas simplement d’arrêter l’enregistreur quand vous entendrez quelque chose avec quoi vous
-n’êtes pas d’accord, mais que vous chercherez Dieu dans cela pour voir si c’est scripturaire. Je
-crois que nous nous devons cela à nous-mêmes ainsi qu’au message de ce jour.
-23 Je crois que toutes les églises ont des chrétiens en elles et il est bien clair que je ne
-parle pas contre les chrétiens. Mais si j’ai fait ce que j’ai fait et dit ce que j’ai dit, c’est à
-cause de l’inspiration du Saint-Esprit sur la Parole.
+12 Ce sont des guerriers de la bataille. Et en tant que Ton serviteur je m’avance maintenant pour leur imposer les mains avec foi, croyant que ces signes accompagneront ceux qui auront cru, comme l’a dit notre Seigneur, notre Commandant en chef de la bataille: “Ils imposeront les mains aux malades et les malades seront guéris”.
+13 Je fais cela au Nom de Jésus-Christ. Que la puissance de maladie qui lie le corps de ce frère le quitte, au Nom de Jésus-Christ! Que la puissance de maladie qui lie le corps de ce frère le quitte, au Nom de Jésus-Christ!
+14 Dieu Tout-Puissant, Créateur des cieux et de la terre, Auteur de la vie éternelle, Donateur de tout don excellent, déverse Tes bénédictions sur ceux que nous avons bénis. Comme il est dit dans les Ecritures: “Si vous dites à cette montagne: déplace-toi, et que vous ne doutiez pas dans votre coeur mais croyez que ce que vous avez dit arrivera, vous pourrez avoir ce que vous aurez demandé”. Je crois que leur maladie est sortie de leur corps. Qu’il en soit ainsi. Amen!
+15 Au Nom du Seigneur Jésus, je crois que vous êtes libre. Au Nom du Seigneur Jésus-Christ, je crois que vous êtes libre. Amen! L’assemblée croit-elle pareillement? Alors qu’il en soit ainsi.
+16 Y en a-t-il encore ici qui voudraient que l’on se souvienne d’eux dans la prière? Veuillez lever la main. Approchons-nous de Lui maintenant tandis que vous vous imposez les mains les uns aux autres. “Voici les signes qui accompagneront ceux qui auront cru…”.
+17 O notre Dieu très saint! C’est par la foi que nous voyons Jésus et que nous croyons qu’Il se tient ici présent. Il veille sur Sa Parole. Il a dit: “Là où deux ou trois sont assemblés en mon nom, je suis au milieu d’eux”. Maintenant, Père céleste, que la puissance du Dieu Tout-Puissant touche ces gens, Seigneur, tandis que nos mains sont jointes les unes aux autres et que nous nous imposons les mains les uns aux autres. Tu as donné une dernière mission à l’église: “Voici les miracles qui accompagneront ceux qui auront cru… ils imposeront les mains aux malades et les malades seront guéris”. Tu l’as promis et nous le croyons. Maintenant cela a été fait et nous Te louons pour cela au Nom de Jésus-Christ. Amen.
+18 Et au Nom de Jésus-Christ, puisse la Puissance de Dieu oindre ces mouchoirs apportés par les malades et les nécessiteux. Et tandis qu’ils seront renvoyés et posés sur les malades, puisse-t-il arriver que ceux-ci soient guéris. Nous lisons dans la Bible que l’on posait sur les malades des linges qui avaient touché Paul, alors les esprits impurs sortaient et les malades étaient guéris. Père, je sais que je ne suis pas Paul, mais Toi tu es toujours Jésus. Et nous Te prions de nous accorder cette requête pour Ta gloire. Amen.
+19 Je ne sais pas si l’enregistrement a déjà commencé. A-t-il déjà commencé? Sinon, j’aimerais que l’on commence à enregistrer maintenant. Je crois que c’est le cas. J’espère que je ne vous fatiguerai pas ce soir. J’ai commencé environ trente à trente-cinq minutes plus tôt. Ce soir ce sera une leçon d’école du dimanche et je pensais que ce serait peut-être bien si je pouvais enregistrer ce que j’ai sur le coeur. Nous nous préparons à entrer dans une nouvelle phase, à avoir un nouveau Tabernacle entièrement remis à neuf.
+20 Je voudrais lire maintenant quelques passages des Ecritures. Si vous voulez lire avec moi, nous allons lire dans 1 Samuel au chapitre huit; nous commencerons en lisant les versets 4 à 10, puis nous sauterons jusqu’aux versets 19 et 20 pour gagner du temps. J’ai noté plusieurs pages de références bibliques que vous pourrez avoir si vous avez de quoi écrire et M. Maguire tiendra les bandes à votre disposition.
+21 Et je voudrais que cette bande soit dédiée à mes frères prédicateurs, à ceux qui ne m’ont pas compris, spécialement aux frères des églises dénominationnelles. La plupart d’entre eux sont dans les dénominations.
+22 Ce soir mon sujet sera: Pourquoi je suis contre les religions organisées. Je vais lire maintenant un passage de l’Ecriture qui me servira de base afin que cela soit bien scripturaire. Je lirai d’abord 1 Samuel 8.4-10, puis les versets 19 et 20. A mon auditoire visible de ce soir je recommande vivement de noter ces passages des Ecritures et de les lire soigneusement à la maison. Et vous, frères qui écouterez cette bande, je crois aussi que vous ne vous contenterez pas simplement d’arrêter l’enregistreur quand vous entendrez quelque chose avec quoi vous n’êtes pas d’accord, mais que vous chercherez Dieu dans cela pour voir si c’est scripturaire. Je crois que nous nous devons cela à nous-mêmes ainsi qu’au message de ce jour.
+23 Je crois que toutes les églises ont des chrétiens en elles et il est bien clair que je ne parle pas contre les chrétiens. Mais si j’ai fait ce que j’ai fait et dit ce que j’ai dit, c’est à cause de l’inspiration du Saint-Esprit sur la Parole.
 24 Lisons maintenant pour commencer 1 Samuel, chapitre 8, versets 4-10.
-       “Tous les anciens d’Israël s’assemblèrent et vinrent auprès de Samuel à Rama. Ils lui
-     dirent: Voici, tu es vieux et tes fils ne marchent point sur tes traces; maintenant, établis
-     sur nous un roi pour nous juger, comme il y en a chez toutes les nations. Samuel vit avec
-     déplaisir qu’ils disaient: Donne-nous un roi pour nous juger. Et Samuel pria l’Eternel.
-     L’Eternel dit à Samuel: Ecoute la voix du peuple dans tout ce qu’il te dira; car ce n’est pas
-     toi qu’ils rejettent, c’est moi qu’ils rejettent afin que je ne règne plus sur eux. Ils agissent à
-     ton égard comme ils ont toujours agi depuis que je les ai fait monter d’Egypte jusqu’à ce
-     jour; ils m’ont abandonné pour servir d’autres dieux. Ecoute donc leur voix; mais donne-
-     leur des avertissements et fais-leur connaître le droit du roi qui régnera sur eux. Samuel
-     rapporta toutes les paroles de l’Eternel au peuple qui lui demandait un roi”.
+> “Tous les anciens d’Israël s’assemblèrent et vinrent auprès de Samuel à Rama. Ils lui dirent: Voici, tu es vieux et tes fils ne marchent point sur tes traces; maintenant, établis sur nous un roi pour nous juger, comme il y en a chez toutes les nations. Samuel vit avec déplaisir qu’ils disaient: Donne-nous un roi pour nous juger. Et Samuel pria l’Eternel. L’Eternel dit à Samuel: Ecoute la voix du peuple dans tout ce qu’il te dira; car ce n’est pas toi qu’ils rejettent, c’est moi qu’ils rejettent afin que je ne règne plus sur eux. Ils agissent à ton égard comme ils ont toujours agi depuis que je les ai fait monter d’Egypte jusqu’à ce jour; ils m’ont abandonné pour servir d’autres dieux. Ecoute donc leur voix; mais donne-leur des avertissements et fais-leur connaître le droit du roi qui régnera sur eux. Samuel rapporta toutes les paroles de l’Eternel au peuple qui lui demandait un roi”.
 25 En conclusion, lisons maintenant les versets 19 et 20.
+> “Le peuple refusa d’écouter la voix de Samuel. Non! dirent-ils, mais il y aura un roi sur nous, et nous aussi nous serons comme toutes les nations; notre roi nous jugera, il marchera à notre tête et conduira nos guerres”.
+26 Que le Seigneur ajoute Ses bénédictions à la lecture de Sa Parole. Maintenant, puisque nous faisons une leçon d’école du dimanche, je voudrais vous demander d’être aussi attentifs que possible à la Parole.
+27 Nous savons que quelquefois des choses sont dites (cela se passe dans certaines églises) qui font trébucher ceux qui ont été enseignés dans un sens contraire à ce qu’ils entendent. Par exemple, quelqu’un m’a dit l’autre jour (c’est un de mes amis qui est présent ici dans cette salle): «Frère Branham, malgré toute la foi que j’ai en vous (car je crois en vous), quand vous avez dit qu’il n’y avait pas d’enfer éternel, j’ai failli tomber de mon siège! Je me suis dit: sûrement qu’il se trompe! Vous nous avez laissé sur cette pensée un bon moment, puis vous avez dit: il n’y a qu’une forme de vie éternelle et elle vient de Dieu». C’est ce que nous cherchons tous, n’est-ce pas?
+28 Il n’y a aucun passage de l’Ecriture qui dit qu’il y ait un enfer éternel. La raison en est que ce qui est éternel n’a ni commencement ni fin. C’est pourquoi la Bible dit que l’enfer a été préparé pour le diable et ses anges (Mat. 25.41). C’est pour cela qu’il n’est pas éternel. Il fut un temps où il n’existait pas et il y aura un temps où il n’existera plus. Mais ils seront punis là-dedans par le feu et le soufre dans des abîmes de feu pendant des siècles et des siècles, mais finalement cela se terminera parce que l’enfer n’est pas éternel. S’il y avait un enfer éternel, vous devriez avoir une vie éternelle pour vivre dans cet enfer éternel. S’il était éternel, c’est qu’il aurait toujours été; alors vous auriez toujours été en enfer et vous y seriez toujours. C’est pourquoi vous voyez, il n’existe pas une chose pareille.
+29 Vous comprenez, éternel signifie: qui n’a jamais eu de commencement et qui n’aura jamais de fin. Et il n’y a qu’une seule forme de vie éternelle, c’est celle qui est en Dieu. Ce mot vient du grec zoe qui signifie: la propre Vie de Dieu. Et quand nous sommes nés de nouveau de l’Esprit de Dieu, nous devenons éternels avec Dieu parce que nous sommes participants de Sa Vie, ce qui fait de nous des fils et des filles de Dieu: c’est alors que nous avons la Vie éternelle. Si la Vie est en nous, Dieu, le dernier jour, ressuscitera le corps avec la Vie, mais c’est l’Esprit de Dieu qui est en nous qui ressuscite parce que c’est l’Esprit de Christ qui était en Christ qui vivifie nos corps, qui les ressuscite avec Lui afin de nous asseoir dans la gloire et de régner avec Lui.
+30 Pour en revenir à notre sujet maintenant, j’ai passé toutes ces années avec ce Tabernacle qui a tenu ferme. J’avais pourtant été ordonné dans une église missionnaire Baptiste par le Docteur Roy E. Davis (il y a de cela environ trente-trois ans) ici même à Jeffersonville. Depuis ce moment je ne suis resté dans l’organisation que très peu de temps, quelques mois. Je suis resté jusqu’à ce que quelque chose de non scripturaire soit fait dans l’église. Je leur dis que je ne voulais pas faire cela. On me dit alors: «Fais cela, sinon sors!». Alors je suis sorti! Il y avait une chose que je croyais, c’était la Parole de Dieu. C’est pourquoi je demandai à celui qui était un maître de l’enseignement: «Voulez-vous me montrer cela dans la Parole de Dieu?». Mais cela n’y était pas.
+> Il me dit: «C’est ce que nous enseignons».
+> Je lui dis: «Mais je voudrais voir cela dans la Parole, dans la Parole de Dieu».
+31 Ce n’est pas parce que je n’appartiens pas à une organisation que je suis contre l’organisation. Je suis reconnaissant à mes frères à qui je parle aujourd’hui d’avoir reçu des invitations à parler dans pratiquement toutes les dénominations, spécialement dans les rangs du Plein Evangile, comme d’ailleurs dans beaucoup d’autres églises. Ils m’ont demandé de faire partie de leur communion et de me joindre à eux, mais je suis resté indépendant parce que, quelque soit l’influence que j’ai, je ne veux pas la placer sur un groupe de gens; je veux placer ce que Dieu m’a donné, la prière pour les malades, de manière à en faire bénéficier tous les enfants de Dieu de chaque organisation. Il ne m’a jamais demandé de ne pas prier pour telle ou telle personne parce qu’elle appartenait à telle ou telle dénomination: Dieu juge le coeur de l’homme.
+32 Maintenant je voudrais dire pour commencer que la raison pour laquelle je n’ai pas appartenu à elles et que j’ai parlé contre cela est que je ne crois pas que l’organisation de la chrétienté soit scripturaire. Je crois qu’elle est contraire à l’Ecriture. C’est pourquoi j’essaierai ce soir, je m’efforcerai par la grâce de Dieu de vous démontrer qu’avoir une organisation quelconque est contraire à l’Ecriture, contraire à la saine doctrine.
+33 En premier lieu nous appelons cela une “religion”. La religion est une couverture; cela veut dire couvrir quelque chose. Adam avait une religion, mais il l’avait fabriquée lui-même avec des feuilles de figuier: elle était inefficace. Il fit sa propre théorie, essayant de se fabriquer un moyen d’échapper, de trouver le salut en faisant quelque chose lui-même, mais Dieu a rejeté cela depuis Adam jusqu’à l’ultime organisation. Dieu l’a toujours rejeté et, par la grâce de Dieu, nous le prouverons au moyen de la Bible. La religion était une couverture. Adam se fabriqua une couverture de feuilles de figuier, il la fabriqua lui-même pour essayer de faire quelque chose lui-même.
+34 Mais Dieu exigeait une mort, une expiation. Or il y a une différence immense entre une religion et le salut, vous comprenez? La religion est une couverture, tandis que le salut est une naissance, un don de Dieu. Le salut est une naissance, un don de Dieu et ne peut être réalisé par aucun homme ni par aucun groupe d’hommes. C’est Dieu qui donne ce don à l’individu. Selon les Ecritures ce don de Vie éternelle avait été ordonné par Dieu pour chaque individu avant même qu’il y ait un monde. La Bible dit dans l’Apocalypse que l’antichrist qui doit venir sur la terre séduira tous ceux qui habitent sur la terre et dont les noms n’ont pas été inscrits dans le Livre de Vie de l’Agneau immolé avant la fondation du monde. Comprenez-vous cela? Dieu par Sa prescience vit ceux qui viendraient et ceux qui ne viendraient pas. Vous voyez, Il reconnut les uns et les autres.
+35 S’Il est vraiment Dieu Il ne peut qu’être infini. Et s’Il est infini Il ne peut pas être infini sans être tout-puissant. Et Il ne peut pas être tout puissant sans être omniprésent. Il ne peut pas être omniprésent sans être omniscient. Vous voyez, tout cela fait de Lui qu’Il est Dieu.
+36 Ainsi Il connaissait la fin depuis le commencement. Il savait qui viendrait et qui ne viendrait pas, et Il savait qu’il y en aurait beaucoup qui viendraient, c’est pour cela qu’Il envoya Christ afin de faire l’expiation pour ceux qui viendraient. Tout ce que nous faisons peut n’avoir aucun rapport avec cela. Jésus a dit: “Tout ce que le Père m’a (temps passé) donné viendra à moi. Et aucun homme ne peut venir à moins que le Père ne l’attire”. Vous voyez? Comprenez donc que tout cela, Dieu le connaît.
+37 Vous me demanderez: «Frère Branham, suis-je dedans?». Je ne sais pas. J’espère que j’y suis. Nous travaillons à notre salut avec crainte et tremblement. Or l’église est prédestinée à rencontrer Dieu sans tache ni ride. Si donc nous sommes dans cette Eglise, nous sommes prédestinés AVEC cette Eglise. Examinez-vous vous-mêmes par la Parole et vous pourrez vérifier par vous-mêmes à quel point nous nous trouvons.
+38 Or la chrétienté organisée ne peut jamais donner cette assurance. Non! Certains disent: «Venez confesser que Jésus est le Christ et soyez baptisés dans l’église». Le diable fait la même chose! Il croit lui-même que Jésus est le Christ, mais il tremble! C’est vrai.
+39 Dieu n’a jamais commandé nulle part dans l’Ecriture qu’il y ait jamais une organisation. Il n’y a pas de place pour cela dans la Bible. Adam en a commencé une, mais elle échoua.
+40 Nimrod essaya de faire une organisation. Si vous êtes historien, vous connaissez l’histoire de Babylone. Sinon lisez Les deux Babylones de Hislop, cela vous éclairera beaucoup. Vous verrez comment Nimrod, cet homme de péché, prit Babylone et toutes ces petites églises soeurs, tous ces lieux aux alentours, ce qui est un type de l’apostasie de la chrétienté des derniers jours, et fit une grande ville à laquelle toutes les autres devaient payer un tribut. Et là-dedans il construisit une tour et essaya de réunir les hommes ensemble par une organisation, mais ce projet échoua. Il ne réussit pas, il échoua.
+41 Koré essaya de faire exactement la même chose. C’est dans Nombres 16.1 si vous voulez le lire. Il réunit un certain nombre de personnes, des Lévites, des gens célèbres, des gens haut placés, des grands et saints hommes. Il se mit avec Dathan pour les réunir et dit: “Ce n’est pas juste qu’un homme essaie d’être au-dessus de nous tous!”. Alors ils essayèrent ensemble de commencer une organisation et allèrent vers Moïse et Aaron, ceux que Dieu avait choisis pour faire le travail et leur dirent qu’ils prenaient trop pour eux, que l’assemblée tout entière était sainte, qu’ils avaient le droit de… “Le salut est dans le grand nombre des conseillers” (Proverbes 11.14). C’est bien sûr ce qu’ils dirent. Mais cela ne s’applique pas à la chrétienté; cela est valable pour la guerre. Remarquez-le bien: il y a une grande différence.
+42 Vous pouvez prendre un passage de l’Ecriture et lire: “Judas alla se pendre”, puis un autre qui dit: “Toi, fais de même”. Faites-le si vous voulez, mais ce n’est pas juste!
+43 Dieu avait choisi Moïse, Dieu avait choisi Aaron: c’était le message de ce jour. Et quelque bien que parût l’autre point de vue, il était contraire à la pensée de Dieu. Il faut que nous laissions la pensée de Dieu être notre propre pensée. “Ayez les sentiments qui étaient en Jésus-Christ”. Et c’est la Bible qui révèle la pensée de Christ. Et le Livre entier de la révélation, appelé l’Apocalypse, est la révélation de Jésus-Christ. Nous pouvons voir comment Il condamne cela, comment Il le met de côté; nous le verrons dans un moment.
+44 Je crois que Coré fut sincère dans ce qu’il fit. Je crois que cet homme n’avait pas l’intention de faire mal. Je crois que ce fut l’ignorance de cet homme qui ne voyait pas se mouvoir la main de Dieu ni ne connaissait les Ecritures, qui le conduisit à se mettre à raisonner.
+45 Quatre-vingt-dix pour cent des problèmes d’aujourd’hui viennent de ce que nous voulons injecter nos pensées dans le programme de Dieu. Nous ne sommes pas le moins du monde censés réfléchir. C’est Lui qui réfléchit pour nous. Nous n’avons simplement qu’à abandonner nos pensées à Sa volonté. Comprenez-vous maintenant?
+46 Coré, plein de bonnes intentions, s’en alla propager une fausse doctrine, parlant à ces frères et leur montrant par le raisonnement que Dieu n’avait pas béni seulement Moïse, le prophète, le messager et lui seul, mais que “toute l’assemblée était sainte”. Il dit que l’assemblée tout entière avait le droit de faire ceci et que toute l’assemblée avait le droit de faire cela. Et ils entraînèrent avec eux des hommes de bien, des Lévites. Ceux-ci avaient été choisis par Dieu, étant ce que nous appelons aujourd’hui les “ministres”. Les Lévites étaient les ministres du temple. Moïse ne les avait-il pas appelés pour cela? Et vous voyez, il n’alla pas vers eux en leur manquant de respect. Il leur dit de prendre des encensoirs, d’y mettre du feu et de l’encens par-dessus et d’agiter ce saint encens, ce qui était le commandement de Dieu. Et ces gens-là étaient venus constituer un groupe d’hommes pour exercer l’autorité sur l’église, alors que Dieu ne l’avait commandé qu’à un seul homme.
+47 Quand ils firent cela, Moïse tomba sur sa face car il savait que c’était lui que Dieu avait chargé de faire ce travail. Et Dieu lui dit: “Fais-leur apporter ces encensoirs ici devant le tabernacle”. Quand ils commencèrent à balancer leurs encensoirs pleins de feu et que l’encens commença à fumer, Dieu dit à Moïse et à Aaron: “Séparez-vous d’eux! Sortez du milieu d’eux!”. Car plus tard Il traita ces gens de pécheurs, d’incrédules.
+48 Et le péché est l’incrédulité en la Parole de Dieu. Vous volez parce que vous ne croyez pas. Vous mentez parce que vous ne croyez pas. Vous commettez adultère parce que vous ne croyez pas. Si vous étiez un croyant vous ne feriez pas de telles choses. Il n’y a que deux vêtements, celui de la foi et celui de l’incrédulité; vous êtes conduit par l’un ou par l’autre.
+49 Or Dieu, au commencement, était la Parole et Il fut fait chair et habita parmi nous. Il était la Parole, Il est la Parole! Et quand Dieu demeure en vous, c’est la Parole de Dieu qui demeure en vous; vous pouvez alors ponctuer chaque chose qu’Il dit par un «Amen!». C’est Dieu demeurant en vous.
+50 Vous remarquerez que Dieu ouvrit la terre et engloutit ces hommes innocents ayant dans leur main l’encensoir avec le feu sacré, les séparant de Moïse parce que Moïse s’était séparé d’eux. Moïse avertit l’assemblée et leur dit: “Ne perdez pas votre temps avec ce genre de groupes! Eloignez-vous d’eux!”. Vous pouvez lire les Ecritures, lisez les chapitres 16, 17 et 18, et vous verrez cela. “Séparez-vous de ces pécheurs, de ces pécheurs incrédules! Sortez du milieu d’eux car ils sont voués à la destruction, eux et tout ce qui leur appartient!”. Alors la terre s’ouvrit et engloutit ces hommes tandis qu’ils tenaient en main ce feu sacré. Des hommes innocents séduits par l’homme.
+51 C’est pareil aujourd’hui! Il y a tant d’hommes innocents qui tombent dans le piège de la tradition, tenant en main cette sainte Parole de Laquelle ils sont censés tirer leur prédication! Je viens de voir une expression passer sur le visage d’un prédicateur, juste maintenant; c’est un prédicateur méthodiste, en tout cas c’était un prédicateur méthodiste jusqu’à dimanche soir la semaine passée! En voyant cette expression, cher frère, je pense que pour vous, être sorti de là a une grande signification!
+52 Vous voyez, ces mains tenaient ces encensoirs dans lesquels le feu faisait monter un parfum de bonne odeur devant Dieu, mais pourtant ceux qui tenaient ces encensoirs périrent, l’encensoir à la main, parce que malgré leur sincérité ils faisaient quelque chose de contraire à la Parole de Dieu en essayant de faire une organisation. Ils disaient: “Tu veux trop prendre pour toi! Qui es-tu pour prétendre avoir reçu toute la Parole de Dieu?”.
+53 Ils manquèrent de voir que Moïse était le messager de l’heure qui avait le AINSI DIT LE SEIGNEUR. Il n’y avait personne comme lui sur la terre. Il avait le message, mais le peuple ne sut pas le discerner. Pourtant Moïse était exactement avec le AINSI DIT LE SEIGNEUR. C’est certain!
+54 Nous voyons la même chose aujourd’hui! De braves hommes, de grands et précieux hommes essaient de prêcher, par l’intermédiaire de quelque tradition fabriquée par l’homme, la Parole de Dieu qu’ils tiennent en leur main, ils retranchent quelque chose ici, ils retranchent quelque chose là, fabriquant à partir de là quelque chose et disant: «Changez de carte de membre et venez vous joindre à notre église!». Et ils meurent spirituellement tout en tenant cette Parole dans leur main! Vous comprenez?
+55 Ils n’ont pas pu croire le messager de Dieu ou Son message pour ce jour. Ils n’ont pas pu comprendre pourquoi un Dieu glorieux ne voulait pas travailler avec tout un groupe de gens, mais charger de ce message un seul homme.
+56 Avec combien d’hommes n’ai-je pas parlé jusqu’aujourd’hui! «Que devons-nous faire, frère Branham? Nous savons que vous avez raison, mais que ferons-nous? L’organisation va nous mettre à la porte et nous ne pourrons aller à nul autre endroit». J’ai de la peine pour eux; pourtant il y a un Endroit! Mais vous dites: “Nous allons mourir de faim!”.
+57 David a dit: “J’ai été jeune, j’ai vieilli; et je n’ai pas vu le juste abandonné, ni sa postérité mendiant son pain”.
+58 C’est encore exactement sur cette même base qu’ils ont refusé Jésus. Ils étaient tellement emmitouflés dans leurs dénominations, dans leur sainte prêtrise, leurs saints bâtiments, leurs saintes églises et leurs saints temples qu’ils ont manqué de voir Dieu dans Son temple humain. “Toi qui es homme, Tu te fais Dieu!”. Vous voyez, ils étaient complètement emmitouflés dans cela. Ces hommes étaient emmitouflés dans cette croyance que Dathan et les autres avaient raison. Nimrod était totalement emmitouflé dans cette croyance qu’il pourrait réaliser une chose capable d’élever le peuple au-dessus de la colère de Dieu. Adam était sûr que s’il couvrait sa nudité, Dieu ne pourrait pas la voir. Vous ne pouvez pas la couvrir! Il faut que ce soit Dieu qui la couvre. Comprenez-vous cela? Comprenez-vous? C’est le programme de Dieu qui couvre et non pas le vôtre. Cela a toujours été ainsi, ils ont manqué de voir Jésus dans Son temple, Dieu manifesté dans la chair.
+59 Aujourd’hui cela me fait mal au coeur de voir comment les Paroles de la Bible sont découpées par les traditions. Et il y a là des gens au coeur honnête qui entendent cette Parole et savent que c’est la vérité mais qui n’osent pas bouger parce que leur tradition les enseigne autrement. Continuez à nettoyer les pots et les casseroles, frères, mais nous, moi et ma maison, nous prenons Christ, la Parole. Vous comprenez?
+60 Lisons maintenant un moment dans Jean 3 l’histoire de Nicodème, un maître et un chef dénominationnel siégeant au Sanhédrin. Ils s’étaient réunis ensemble pour fabriquer leurs traditions. D’une part il y avait les Pharisiens, de l’autre les Sadducéens, chacun ayant sa dénomination avec leurs différences. Mais cet homme était un maître, un chef du Sanhédrin, un homme merveilleux dans son enseignement. Il connaissait les Ecritures, du moins il le pensait. Il les connaissait par leurs traditions. Jésus n’avait-Il pas dit: “Vous rendez nuls les commandements de Dieu par votre tradition”?
+61 Vous voyez, c’était à cause de leurs traditions. Qu’est-ce que cela veut dire? Cela veut dire placer sa propre interprétation sur la Parole au lieu de la laisser dire seulement ce qu’Elle dit. Mais ils prétendent qu’Elle ne veut pas dire cela. Avez-vous remarqué que c’est la même voix que celle que le diable a employée avec Eve pour commencer la première organisation? “Il est certain que cela va se passer de telle et telle manière; Dieu ne ferait jamais cela, tu sais”. Vous voyez, c’est la même chose. C’est la même chose aujourd’hui.
+62 Remarquons que ce chef vint vers Jésus. Premièrement il venait parce qu’il était à la recherche de la Vie éternelle, il venait parce qu’il était à la recherche du salut. Lui, un homme de son niveau social, un maître en Israël, vint vers cet Homme qui, à notre connaissance, n’avait jamais été un seul jour à l’école! Un homme âgé, un vieux prêtre, un sage, venir vers un jeune homme! Un de ces aristocrates, un riche, venir vers un mendiant qui n’avait même pas un lieu où reposer Sa tête, pour lui demander la voie du salut et de la Vie! Premièrement, ces gens du Sanhédrin, comme le confessa Nicodème, avaient discerné en Jésus quelque chose que les gens de leurs organisations n’avaient pas. Ils avaient vu qu’il y avait quelque chose en Lui parce que Nicodème dit: “Rabbi, NOUS savons…” “NOUS”. Mais ils ne voulaient pas le confesser parce qu’ils auraient été mis à la porte. “Rabbi, nous savons que tu es un docteur venu de Dieu car personne ne peut faire ces miracles que tu fais si Dieu n’est avec lui”. — “Nous le savons!”. Oh, mes frères! L’organisation!
+63 Remarquons maintenant que Jésus était une manifestation de Dieu: “Personne ne peut faire les miracles que tu fais si Dieu n’est avec lui”. Ils savaient qu’il y avait quelque chose de différent dans cet Homme. Il était la Lumière de ce jour, Il était le Témoin de Dieu.
+64 Koré avait vu la même chose dans Moïse. En ce jour les Israélites n’avaient pas d’autre homme semblable à Moïse. Il était le témoin divin de Dieu pour ce jour, manifestant la puissance de Dieu. Koré et son groupe virent cela en Moïse. Ils avaient compris que cela ne pouvait pas venir de Moïse. Moïse ne pouvait pas ouvrir la Mer Rouge, Moïse ne pouvait pas envoyer des fléaux sur la terre. C’était Dieu en Moïse mais, parce que Dieu s’était représenté dans un témoin ou une lumière pour ce jour, ils manquèrent de le voir. Koré voulu fabriquer tout un groupe d’hommes et y amener n’importe qui.
+65 C’est juste à quoi l’organisation est bonne: elle n’est bonne qu’à faire entrer n’importe quelle racaille et à l’appeler “chrétienté”. Elle envoie aux études un gamin qui n’en connaît pas plus de Dieu qu’un Hottentot des merveilles de l’Egypte, elle lui fait donner une instruction, apprendre la psychologie et recevoir toutes sortes de diplômes. Puis elle l’envoie au loin prêcher l’Evangile alors qu’il n’est même pas sauvé, qu’il niera la naissance virginale et la résurrection, qu’il niera la guérison divine, qu’il niera la puissance de Dieu, qu’il niera les principes mêmes pour lesquels Jésus est mort, qu’il niera l’inspiration de Marc 16: “Voici les miracles qui accompagneront ceux qui auront cru…” (alors que c’est Jésus Lui-même qui prononça ces Paroles), qu’il niera Actes 2.38 et tout le reste de ce qui est inspiré dans les Ecritures. Il essaiera de prendre une tradition d’hommes qui ne connaissent rien de ces choses et la rabâchera sans plus. Et quand vous leur dites la vérité et que vous leur montrez la vérité ils ont honte de faire un mouvement à cause de leur organisation.
+66 Koré fit la même chose. Ils avaient vu Dieu en Moïse, ils avaient vu que c’était l’Agent de Dieu agissant par son intermédiaire. Nicodème voyait Dieu en Christ: “Aucun homme ne peut faire ces choses si Dieu n’est avec lui”. Nicodème était déjà dans l’organisation, il essayait d’en sortir. Koré était en dehors mais il essaya d’en faire une pour pouvoir y entrer. C’était là la différence. Nicodème essayait de trouver le salut, de sortir de ces choses. Il y avait été depuis son enfance et en était fatigué. Il voulait être sauvé. Mais Koré, lui, essaya de se fabriquer une position où il pouvait être un personnage important.
+67 C’est la manière des gens d’aujourd’hui. C’est là où cela ne va pas avec la chrétienté; il y a tellement de choses fausses, d’imitations. Et nos gens de la Pentecôte sont, passez-moi l’expression, couverts de cette vermine, pour faire une comparaison charnelle! Que Dieu suscite un homme et lui donne quelque chose et tout le monde dans le pays essaiera d’imiter cette personne! Ne vous rendez-vous pas compte que vous jouez contre votre propre équipe? Quand vous jouez au football … Paul a dit: “Par la grâce courons la course avec patience”. Quand un joueur a la balle, ne cherchez pas à la lui arracher des mains: efforcez-vous plutôt de le protéger. Mais au lieu de cela, parce qu’il n’appartient pas à votre organisation vous essayez de la lui arracher. Et il y en a même qui sont tellement maladroits qu’ils le font trébucher et tomber, puis après cela essaient de la lui prendre. Sur le plan spirituel, vous voyez, il trébuchera sur une petite chose comme Actes 2.38 et cela le fera tomber certainement. C’est vrai. S’il trébuche sur Marc 16, comment arrivera-t-il au but? Vous comprenez? Ce sont de bien pauvres leçons sur Christ! Et après toutes ces années ils s’achoppent encore aux choses mêmes qui ont été discutées au concile de Nicée.
+68 Koré essaya de faire une organisation pour pouvoir y entrer. Nicodème, qui y était, essaya d’en sortir. Nicodème fut agréé et en sortit. Koré périt en elle dans ses efforts; il périt dans ses propres efforts. Oh, mes frères!
+69 L’organisation dans laquelle était Nicodème savait que Christ était envoyé de Dieu: c’est lui qui le dit. Dans le troisième chapitre de Jean, Nicodème dit: “Rabbi, nous savons que tu es un docteur venu de Dieu, car personne ne peut faire ces miracles que tu fais si Dieu n’est avec lui”. Et ce même groupe, à cause de leur organisation, l’appela “Béelzébul” parce qu’Il avait le pouvoir de chasser les démons. Ils disaient: “Il séduit le peuple par Sa doctrine”. C’est pareil aujourd’hui. Que séduisait-il?
+70 Jésus dit: “Je ne fais que ce qui est agréable au Père, je ne fais que garder les Paroles de Dieu” parce qu’Il était la Parole. Il ne pouvait rien faire d’autre que la Parole.
+71 Mais à cause de leur organisation, à cause de leurs voies ils avaient lié les hommes. Dans leur coeur ceux-ci avaient la connaissance, mais leur organisation ne les laissait pas la mettre en pratique. Alors pour trouver une échappatoire, pour empêcher le peuple de quitter leur organisation (— “tous vont après Lui!”) et de suivre la Vérité de Dieu (Il était la Vérité: “Je suis la Vérité et la Lumière”), pour les empêcher de suivre cela, ils dirent qu’Il séduisait le peuple. Pensez-y! ces gens qui dans leur coeur savaient qu’Il était Dieu, que Dieu était en Lui (“aucun homme ne pourrait dire ou faire ces choses si Dieu n’était pas avec Lui”), qui savaient cela, qui le disant et le confessant se tournèrent contre Lui et Le traitèrent de “Béelzébul et de séducteur de leur peuple par Sa doctrine”! Oh, mes frères!
+72 Nicodème savait que Jésus était prophète. En voilà un au moins dans l’organisation qui aimait et craignait Dieu suffisamment et qui avait reconnu par l’Ancien Testament que cet Homme avait les qualifications, qu’Il était éprouvé et confirmé comme prophète envoyé de Dieu. Nicodème aurait dû L’honorer. Mais s’il vint de nuit, il vint tout de même. Il valait beaucoup plus que bien de nos prédicateurs actuels qui, eux, ne viendraient pas du tout! Finalement Nicodème arriva, c’est pourquoi ne le condamnez pas si vous-mêmes n’êtes pas encore arrivé. Nicodème savait que Jésus était prophète et il craignait Dieu. Il ne voulut pas laisser s’éloigner de lui cet Homme qui était la Lumière de ce jour. Son organisation avait beau lui dire que tout cela était en opposition, il avait vu Dieu confirmer cet Homme et il savait qu’Il était prophète. Et s’Il était prophète, la Parole de Dieu venant au prophète, Il devait savoir de quoi Il parlait. Ainsi donc il vint voir Jésus, désirant savoir comment obtenir le salut. Et comme cet Homme était prophète, la Parole de Dieu était avec Lui et Il devait connaître la voie du salut.
+73 Ce que Nicodème devait apprendre, c’est ce que beaucoup de gens venant des dénominations d’aujourd’hui doivent apprendre. Ce que Nicodème aurait dû savoir, c’est ce que les gens des dénominations d’aujourd’hui devraient savoir. Jésus était plus qu’un prophète. Il était venu à Jésus pour trouver, pour Lui demander de lui montrer le chemin de la Vie, et Jésus Lui-même était la Vie. Celui qui a le Fils a la Vie. C’est pourquoi il ne faut pas venir pour essayer de recevoir un enseignement, il faut venir pour accepter la Personne. Voilà ce qu’il faut faire ce soir. La Pierre de faîte est de nouveau rejetée. Qu’est-ce que la Pierre de faîte? C’est la Parole, bien sûr. Christ, c’est Lui qui est la Parole.
+74 Il devait apprendre quelque chose. Il pensait: “Voilà, cet Homme est un prophète, c’est simplement un prophète”.
+75 C’est pourquoi vous remarquerez que Jésus ne répondit pas à sa question, mais le réprimanda simplement pour son aveuglement. Vous comprenez? Il était plus qu’un prophète, Il était la Parole et la Lumière resplendissante de la Parole. Il était Dieu resplendissant par l’intermédiaire d’un instrument, prouvant qu’Il était Dieu dans l’homme. Il était la Parole. Il est dit dans le premier chapitre de Jean: “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu… Et la Parole a été faite chair et elle a habité parmi nous…”. Et voici que la Parole de Dieu resplendit par cette petite forme fragile d’homme et aveugla l’organisation. Mais Il vint pour attirer des personnes. Il était plus qu’un prophète. Il était la Parole! Il est la Vie. Il n’avait pas à nous enseigner au sujet d’une Vie à venir, Il était Lui-même la Vie! Il était la Vie. Il était la Lumière. Il était la Vie. Il était la Vie éternelle, cette Vie était en Lui et Lui seul est le Donateur de la Vie éternelle. Celui qui a le Fils a la Vie. C’est pourquoi vous ne pouvez pas avoir simplement Son enseignement de la Parole, vous devez L’avoir Lui-même.
+76 Vous direz: «Oh, il y a des gens qui étudient la Bible en grec, apprenant tous les mots grecs».
 
-        http://www.cmpp.ch
-
-    POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES    5
-       “Le peuple refusa d’écouter la voix de Samuel. Non! dirent-ils, mais il y aura un roi sur
-     nous, et nous aussi nous serons comme toutes les nations; notre roi nous jugera, il
-     marchera à notre tête et conduira nos guerres”.
-26 Que le Seigneur ajoute Ses bénédictions à la lecture de Sa Parole. Maintenant, puisque nous
-faisons une leçon d’école du dimanche, je voudrais vous demander d’être aussi attentifs que
-possible à la Parole.
-27 Nous savons que quelquefois des choses sont dites (cela se passe dans certaines églises)
-qui font trébucher ceux qui ont été enseignés dans un sens contraire à ce qu’ils entendent. Par
-exemple, quelqu’un m’a dit l’autre jour (c’est un de mes amis qui est présent ici dans cette salle):
-«Frère Branham, malgré toute la foi que j’ai en vous (car je crois en vous), quand vous avez dit
-qu’il n’y avait pas d’enfer éternel, j’ai failli tomber de mon siège! Je me suis dit: sûrement qu’il se
-trompe! Vous nous avez laissé sur cette pensée un bon moment, puis vous avez dit: il n’y a
-qu’une forme de vie éternelle et elle vient de Dieu». C’est ce que nous cherchons tous, n’est-ce
-pas?
-28 Il n’y a aucun passage de l’Ecriture qui dit qu’il y ait un enfer éternel. La raison en est que ce
-qui est éternel n’a ni commencement ni fin. C’est pourquoi la Bible dit que l’enfer a été préparé
-pour le diable et ses anges (Mat. 25.41). C’est pour cela qu’il n’est pas éternel. Il fut un temps où il
-n’existait pas et il y aura un temps où il n’existera plus. Mais ils seront punis là-dedans par le feu et
-le soufre dans des abîmes de feu pendant des siècles et des siècles, mais finalement cela se
-terminera parce que l’enfer n’est pas éternel. S’il y avait un enfer éternel, vous devriez avoir
-une vie éternelle pour vivre dans cet enfer éternel. S’il était éternel, c’est qu’il aurait
-toujours été; alors vous auriez toujours été en enfer et vous y seriez toujours. C’est pourquoi
-vous voyez, il n’existe pas une chose pareille.
-29 Vous comprenez, éternel signifie: qui n’a jamais eu de commencement et qui n’aura jamais de
-fin. Et il n’y a qu’une seule forme de vie éternelle, c’est celle qui est en Dieu. Ce mot vient du grec
-zoe qui signifie: la propre Vie de Dieu. Et quand nous sommes nés de nouveau de l’Esprit de
-Dieu, nous devenons éternels avec Dieu parce que nous sommes participants de Sa Vie, ce
-qui fait de nous des fils et des filles de Dieu: c’est alors que nous avons la Vie éternelle. Si
-la Vie est en nous, Dieu, le dernier jour, ressuscitera le corps avec la Vie, mais c’est l’Esprit de
-Dieu qui est en nous qui ressuscite parce que c’est l’Esprit de Christ qui était en Christ qui vivifie
-nos corps, qui les ressuscite avec Lui afin de nous asseoir dans la gloire et de régner avec Lui.
-30 Pour en revenir à notre sujet maintenant, j’ai passé toutes ces années avec ce Tabernacle qui
-a tenu ferme. J’avais pourtant été ordonné dans une église missionnaire Baptiste par le Docteur
-Roy E. Davis (il y a de cela environ trente-trois ans) ici même à Jeffersonville. Depuis ce moment
-je ne suis resté dans l’organisation que très peu de temps, quelques mois. Je suis resté jusqu’à ce
-que quelque chose de non scripturaire soit fait dans l’église. Je leur dis que je ne voulais pas faire
-cela. On me dit alors: «Fais cela, sinon sors!». Alors je suis sorti! Il y avait une chose que je
-croyais, c’était la Parole de Dieu. C’est pourquoi je demandai à celui qui était un maître de
-l’enseignement: «Voulez-vous me montrer cela dans la Parole de Dieu?». Mais cela n’y était pas.
-     Il me dit: «C’est ce que nous enseignons».
-     Je lui dis: «Mais je voudrais voir cela dans la Parole, dans la Parole de Dieu».
-31 Ce n’est pas parce que je n’appartiens pas à une organisation que je suis contre
-l’organisation. Je suis reconnaissant à mes frères à qui je parle aujourd’hui d’avoir reçu des
-invitations à parler dans pratiquement toutes les dénominations, spécialement dans les rangs du
-Plein Evangile, comme d’ailleurs dans beaucoup d’autres églises. Ils m’ont demandé de faire
-partie de leur communion et de me joindre à eux, mais je suis resté indépendant parce que,
-quelque soit l’influence que j’ai, je ne veux pas la placer sur un groupe de gens; je veux placer ce
-que Dieu m’a donné, la prière pour les malades, de manière à en faire bénéficier tous les enfants
-de Dieu de chaque organisation. Il ne m’a jamais demandé de ne pas prier pour telle ou telle
-personne parce qu’elle appartenait à telle ou telle dénomination: Dieu juge le coeur de l’homme.
-32 Maintenant je voudrais dire pour commencer que la raison pour laquelle je n’ai pas
-appartenu à elles et que j’ai parlé contre cela est que je ne crois pas que l’organisation de la
-chrétienté soit scripturaire. Je crois qu’elle est contraire à l’Ecriture. C’est pourquoi
-j’essaierai ce soir, je m’efforcerai par la grâce de Dieu de vous démontrer qu’avoir une
-
-    http://www.cmpp.ch
-
-POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES 6
-organisation quelconque est contraire à l’Ecriture, contraire à la saine doctrine.
-33 En premier lieu nous appelons cela une “religion”. La religion est une couverture; cela veut
-dire couvrir quelque chose. Adam avait une religion, mais il l’avait fabriquée lui-même avec
-des feuilles de figuier: elle était inefficace. Il fit sa propre théorie, essayant de se fabriquer un
-moyen d’échapper, de trouver le salut en faisant quelque chose lui-même, mais Dieu a rejeté cela
-depuis Adam jusqu’à l’ultime organisation. Dieu l’a toujours rejeté et, par la grâce de Dieu, nous le
-prouverons au moyen de la Bible. La religion était une couverture. Adam se fabriqua une
-couverture de feuilles de figuier, il la fabriqua lui-même pour essayer de faire quelque chose lui-
-même.
-34 Mais Dieu exigeait une mort, une expiation. Or il y a une différence immense entre une
-religion et le salut, vous comprenez? La religion est une couverture, tandis que le salut est
-une naissance, un don de Dieu. Le salut est une naissance, un don de Dieu et ne peut être
-réalisé par aucun homme ni par aucun groupe d’hommes. C’est Dieu qui donne ce don à l’individu.
-Selon les Ecritures ce don de Vie éternelle avait été ordonné par Dieu pour chaque individu avant
-même qu’il y ait un monde. La Bible dit dans l’Apocalypse que l’antichrist qui doit venir sur la terre
-séduira tous ceux qui habitent sur la terre et dont les noms n’ont pas été inscrits dans le Livre de
-Vie de l’Agneau immolé avant la fondation du monde. Comprenez-vous cela? Dieu par Sa
-prescience vit ceux qui viendraient et ceux qui ne viendraient pas. Vous voyez, Il reconnut les uns
-et les autres.
-35 S’Il est vraiment Dieu Il ne peut être qu’infini. Et s’Il est infini Il ne peut pas être infini sans être
-tout-puissant. Et Il ne peut pas être tout puissant sans être omniprésent. Il ne peut pas être
-omniprésent sans être omniscient. Vous voyez, tout cela fait de Lui qu’Il est Dieu.
-36 Ainsi Il connaissait la fin depuis le commencement. Il savait qui viendrait et qui ne viendrait
-pas, et Il savait qu’il yen aurait beaucoup qui viendraient, c’est pour cela qu’Il envoya Christ
-afin de faire l’expiation pour ceux qui viendraient. Tout ce que nous faisons peut n’avoir aucun
-rapport avec cela. Jésus a dit: “Tout ce que le Père m’a (temps passé) donné viendra à moi. Et
-aucun homme ne peut venir à moins que le Père ne l’attire”. Vous voyez? Comprenez donc que
-tout cela, Dieu le connaît.
-37 Vous me demanderez: «Frère Branham, suis-je dedans?». Je ne sais pas. J’espère que j’y
-suis. Nous travaillons à notre salut avec crainte et tremblement. Or l’église est prédestinée à
-rencontrer Dieu sans tache ni ride. Si donc nous sommes dans cette Eglise, nous sommes
-prédestinés AVEC cette Eglise. Examinez-vous vous-mêmes par la Parole et vous pourrez
-vérifier par vous-mêmes à quel point nous nous trouvons.
-38 Or la chrétienté organisée ne peut jamais donner cette assurance. Non! Certains disent:
-«Venez confesser que Jésus est le Christ et soyez baptisés dans l’église». Le diable fait la même
-chose! Il croit lui-même que Jésus est le Christ, mais il tremble! C’est vrai.
-39 Dieu n’a jamais commandé nulle part dans l’Ecriture qu’il y ait jamais une organisation. Il n’y a
-pas de place pour cela dans la Bible. Adam en a commencé une, mais elle échoua.
-40 Nimrod essaya de faire une organisation. Si vous êtes historien, vous connaissez l’histoire
-de Babylone. Sinon lisez Les deux Babylones de Hislop, cela vous éclairera beaucoup. Vous
-verrez comment Nimrod, cet homme de péché, prit Babylone et toutes ces petites églises soeurs,
-tous ces lieux aux alentours, ce qui est un type de l’apostasie de la chrétienté des derniers jours,
-et fit une grande ville à laquelle toutes les autres devaient payer un tribut. Et là-dedans il
-construisit une tour et essaya de réunir les hommes ensemble par une organisation, mais ce projet
-échoua. Il ne réussit pas, il échoua.
-41 Koré essaya de faire exactement la même chose. C’est dans Nombres 16.1 si vous voulez
-le lire. Il réunit un certain nombre de personnes, des Lévites, des gens célèbres, des gens haut
-placés, des grands et saints hommes. Il se mit avec Dathan pour les réunir et dit: “Ce n’est pas
-juste qu’un homme essaie d’être au-dessus de nous tous!”. Alors ils essayèrent ensemble de
-commencer une organisation et allèrent vers Moïse et Aaron, ceux que Dieu avait choisis pour
-faire le travail et leur dirent qu’ils prenaient trop pour eux, que l’assemblée tout entière était sainte,
-qu’ils avaient le droit de… “Le salut est dans le grand nombre des conseillers” (Proverbes 11.14). C’est
-bien sûr ce qu’ils dirent. Mais cela ne s’applique pas à la chrétienté; cela est valable pour la
-guerre. Remarquez-le bien: il y a une grande différence.
-
-        http://www.cmpp.ch
-
-POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES 7
-42 Vous pouvez prendre un passage de l’Ecriture et lire: “Judas alla se pendre”, puis un autre qui
-dit: “Toi, fais de même”. Faites-le si vous voulez, mais ce n’est pas juste!
-43 Dieu avait choisi Moïse, Dieu avait choisi Aaron: c’était le message de ce jour. Et quelque
-bien que parût l’autre point de vue, il était contraire à la pensée de Dieu. Il faut que nous
-laissions la pensée de Dieu être notre propre pensée. “Ayez les sentiments qui étaient en
-Jésus-Christ”. Et c’est la Bible qui révèle la pensée de Christ. Et le Livre entier de la
-révélation, appelé l’Apocalypse, est la révélation de Jésus-Christ. Nous pouvons voir comment Il
-condamne cela, comment Il le met de côté; nous le verrons dans un moment.
-44 Je crois que Coré fut sincère dans ce qu’il fit. Je crois que cet homme n’avait pas l’intention
-de faire mal. Je crois que ce fut l’ignorance de cet homme qui ne voyait pas se mouvoir la
-main de Dieu ni ne connaissait les Ecritures, qui le conduisit à se mettre à raisonner.
-45 Quatre-vingt-dix pour cent des problèmes d’aujourd’hui viennent de ce que nous
-voulons injecter nos pensées dans le programme de Dieu. Nous ne sommes pas le moins
-du monde censés réfléchir. C’est Lui qui réfléchit pour nous. Nous n’avons simplement
-qu’à abandonner nos pensées à Sa volonté. Comprenez-vous maintenant?
-46 Coré, plein de bonnes intentions, s’en alla propager une fausse doctrine, parlant à ces frères
-et leur montrant par le raisonnement que Dieu n’avait pas béni seulement Moïse, le prophète, le
-messager et lui seul, mais que “toute l’assemblée était sainte”. Il dit que l’assemblée tout entière
-avait le droit de faire ceci et que toute l’assemblée avait le droit de faire cela. Et ils entraînèrent
-avec eux des hommes de bien, des Lévites. Ceux-ci avaient été choisis par Dieu, étant ce
-que nous appelons aujourd’hui les “ministres”. Les Lévites étaient les ministres du temple.
-Moïse ne les avait-il pas appelés pour cela? Et vous voyez, il n’alla pas vers eux en leur manquant
-de respect. Il leur dit de prendre des encensoirs, d’y mettre du feu et de l’encens par-dessus et
-d’agiter ce saint encens, ce qui était le commandement de Dieu. Et ces gens-là étaient venus
-constituer un groupe d’hommes pour exercer l’autorité sur l’église, alors que Dieu ne l’avait
-commandé qu’à un seul homme.
-47 Quand ils firent cela, Moïse tomba sur sa face car il savait que c’était lui que Dieu avait
-chargé de faire ce travail. Et Dieu lui dit: “Fais-leur apporter ces encensoirs ici devant le
-tabernacle”. Quand ils commencèrent à balancer leurs encensoirs pleins de feu et que l’encens
-commença à fumer, Dieu dit à Moïse et à Aaron: “Séparez-vous d’eux! Sortez du milieu d’eux!”.
-Car plus tard Il traita ces gens de pécheurs, d’incrédules.
-48 Et le péché est l’incrédulité en la Parole de Dieu. Vous volez parce que vous ne croyez
-pas. Vous mentez parce que vous ne croyez pas. Vous commettez adultère parce que vous ne
-croyez pas. Si vous étiez un croyant vous ne feriez pas de telles choses. Il n’y a que deux
-vêtements, celui de la foi et celui de l’incrédulité; vous êtes conduit par l’un ou par l’autre.
-49 Or Dieu, au commencement, était la Parole et Il fut fait chair et habita parmi nous. Il était la
-Parole, Il est la Parole! Et quand Dieu demeure en vous, c’est la Parole de Dieu qui demeure
-en vous; vous pouvez alors ponctuer chaque chose qu’Il dit par un «Amen!». C’est Dieu
-demeurant en vous.
-50 Vous remarquerez que Dieu ouvrit la terre et engloutit ces hommes innocents ayant dans leur
-main l’encensoir avec le feu sacré, les séparant de Moïse parce que Moïse s’était séparé d’eux.
-Moïse avertit l’assemblée et leur dit: “Ne perdez pas votre temps avec ce genre de groupes!
-Eloignez-vous d’eux!”. Vous pouvez lire les Ecritures, lisez les chapitres 16, 17 et 18, et vous
-verrez cela. “Séparez-vous de ces pécheurs, de ces pécheurs incrédules! Sortez du milieu d’eux
-car ils sont voués à la destruction, eux et tout ce qui leur appartient!”. Alors la terre s’ouvrit et
-engloutit ces hommes tandis qu’ils tenaient en main ce feu sacré. Des hommes innocents
-séduits par l’homme.
-51 C’est pareil aujourd’hui! Il y a tant d’hommes innocents qui tombent dans le piège de la
-tradition, tenant en main cette sainte Parole de Laquelle ils sont censés tirer leur prédication! Je
-viens de voir une expression passer sur le visage d’un prédicateur, juste maintenant; c’est un
-prédicateur méthodiste, en tout cas c’était un prédicateur méthodiste jusqu’à dimanche soir la
-semaine passée! En voyant cette expression, cher frère, je pense que pour vous, être sorti de là a
-une grande signification!
-
-        http://www.cmpp.ch
-
-POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES 8
-52 Vous voyez, ces mains tenaient ces encensoirs dans lesquels le feu faisait monter un parfum
-de bonne odeur devant Dieu, mais pourtant ceux qui tenaient ces encensoirs périrent, l’encensoir
-à la main, parce que malgré leur sincérité ils faisaient quelque chose de contraire à la Parole
-de Dieu en essayant de faire une organisation. Ils disaient: “Tu veux trop prendre pour toi! Qui
-es-tu pour prétendre avoir reçu toute la Parole de Dieu?”.
-53 Ils manquèrent de voir que Moïse était le messager de l’heure qui avait le AINSI DIT LE
-SEIGNEUR. Il n’y avait personne comme lui sur la terre. Il avait le message, mais le peuple ne sut
-pas le discerner. Pourtant Moïse était exactement avec le AINSI DIT LE SEIGNEUR. C’est certain!
-54 Nous voyons la même chose aujourd’hui! De braves hommes, de grands et précieux hommes
-essaient de prêcher, par l’intermédiaire de quelque tradition fabriquée par l’homme, la Parole de
-Dieu qu’ils tiennent en leur main, ils retranchent quelque chose ici, ils retranchent quelque chose
-là, fabriquant à partir de là quelque chose et disant: «Changez de carte de membre et venez vous
-joindre à notre église!». Et ils meurent spirituellement tout en tenant cette Parole dans leur main!
-Vous comprenez?
-55 Ils n’ont pas pu croire le messager de Dieu ou Son message pour ce jour. Ils n’ont pas
-pu comprendre pourquoi un Dieu glorieux ne voulait pas travailler avec tout un groupe de
-gens, mais charger de ce message un seul homme.
-56 Avec combien d’hommes n’ai-je pas parlé jusqu’aujourd’hui! «Que devons-nous faire, frère
-Branham? Nous savons que vous avez raison, mais que ferons-nous? L’organisation va nous
-mettre à la porte et nous ne pourrons aller à nul autre endroit». J’ai de la peine pour eux; pourtant
-il y a un Endroit! Mais vous dites: “Nous allons mourir de faim!”.
-57 David a dit: “J’ai été jeune, j’ai vieilli; et je n’ai pas vu le juste abandonné, ni sa postérité
-mendiant son pain”.
-58 C’est encore exactement sur cette même base qu’ils ont refusé Jésus. Ils étaient
-tellement emmitouflés dans leurs dénominations, dans leur sainte prêtrise, leurs saints
-bâtiments, leurs saintes églises et leurs saints temples qu’ils ont manqué de voir Dieu dans
-Son temple humain. “Toi qui es homme, Tu te fais Dieu!”. Vous voyez, ils étaient complètement
-emmitouflés dans cela. Ces hommes étaient emmitouflés dans cette croyance que Dathan et les
-autres avaient raison. Nimrod était totalement emmitouflé dans cette croyance qu’il pourrait
-réaliser une chose capable d’élever le peuple au-dessus de la colère de Dieu. Adam était sûr que
-s’il couvrait sa nudité, Dieu ne pourrait pas la voir. Vous ne pouvez pas la couvrir! Il faut que ce
-soit Dieu qui la couvre. Comprenez-vous cela? Comprenez-vous? C’est le programme de Dieu
-qui couvre et non pas le vôtre. Cela a toujours été ainsi, ils ont manqué de voir Jésus dans
-Son temple, Dieu manifesté dans la chair.
-59 Aujourd’hui cela me fait mal au coeur de voir comment les Paroles de la Bible sont découpées
-par les traditions. Et il y a là des gens au coeur honnête qui entendent cette Parole et savent que
-c’est la vérité mais qui n’osent pas bouger parce que leur tradition les enseigne autrement.
-Continuez à nettoyer les pots et les casseroles, frères, mais nous, moi et ma maison, nous
-prenons Christ, la Parole. Vous comprenez?
-60 Lisons maintenant un moment dans Jean 3 l’histoire de Nicodème, un maître et un chef
-dénominationnel siégeant au Sanhédrin. Ils s’étaient réunis ensemble pour fabriquer leurs
-traditions. D’une part il y avait les Pharisiens, de l’autre les Sadducéens, chacun ayant sa
-dénomination avec leurs différences. Mais cet homme était un maître, un chef du Sanhédrin, un
-homme merveilleux dans son enseignement. Il connaissait les Ecritures, du moins il le pensait. Il
-les connaissait par leurs traditions. Jésus n’avait-Il pas dit: “Vous rendez nuls les commandements
-de Dieu par votre tradition”?
-61 Vous voyez, c’était à cause de leurs traditions. Qu’est-ce que cela veut dire? Cela veut dire
-placer sa propre interprétation sur la Parole au lieu de la laisser dire seulement ce qu’Elle
-dit. Mais ils prétendent qu’Elle ne veut pas dire cela. Avez-vous remarqué que c’est la même
-voix que celle que le diable a employée avec Eve pour commencer la première organisation? “Il
-est certain que cela va se passer de telle et telle manière; Dieu ne ferait jamais cela, tu sais”. Vous
-voyez, c’est la même chose. C’est la même chose aujourd’hui.
-62 Remarquons que ce chef vint vers Jésus. Premièrement il venait parce qu’il était à la
-
-        http://www.cmpp.ch
-
-POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES 9
-recherche de la Vie éternelle, il venait parce qu’il était à la recherche du salut. Lui, un homme
-de son niveau social, un maître en Israël, vint vers cet Homme qui, à notre connaissance, n’avait
-jamais été un seul jour à l’école! Un homme âgé, un vieux prêtre, un sage, venir vers un jeune
-homme! Un de ces aristocrates, un riche, venir vers un mendiant qui n’avait même pas un lieu où
-reposer Sa tête, pour lui demander la voie du salut et de la Vie! Premièrement, ces gens du
-Sanhédrin, comme le confessa Nicodème, avaient discerné en Jésus quelque chose que les gens
-de leurs organisations n’avaient pas. Ils avaient vu qu’il y avait quelque chose en Lui parce que
-Nicodème dit: “Rabbi, NOUS savons…” “NOUS”. Mais ils ne voulaient pas le confesser parce
-qu’ils auraient été mis à la porte. “Rabbi, nous savons que tu es un docteur venu de Dieu car
-personne ne peut faire ces miracles que tu fais si Dieu n’est avec lui”. — “Nous le savons!”. Oh,
-mes frères! L’organisation!
-63 Remarquons maintenant que Jésus était une manifestation de Dieu: “Personne ne peut
-faire les miracles que tu fais si Dieu n’est avec lui”. Ils savaient qu’il y avait quelque chose de
-différent dans cet Homme. Il était la Lumière de ce jour, Il était le Témoin de Dieu.
-64 Koré avait vu la même chose dans Moïse. En ce jour les Israélites n’avaient pas d’autre
-homme semblable à Moïse. Il était le témoin divin de Dieu pour ce jour, manifestant la puissance
-de Dieu. Koré et son groupe virent cela en Moïse. Ils avaient compris que cela ne pouvait pas
-venir de Moïse. Moïse ne pouvait pas ouvrir la Mer Rouge, Moïse ne pouvait pas envoyer des
-fléaux sur la terre. C’était Dieu en Moïse mais, parce que Dieu s’était représenté dans un
-témoin ou une lumière pour ce jour, ils manquèrent de le voir. Koré voulu fabriquer tout un
-groupe d’hommes et y amener n’importe qui.
-65 C’est juste à quoi l’organisation est bonne: elle n’est bonne qu’à faire entrer n’importe quelle
-racaille et à l’appeler “chrétienté”. Elle envoie aux études un gamin qui n’en connaît pas plus de
-Dieu qu’un Hottentot des merveilles de l’Egypte, elle lui fait donner une instruction, apprendre la
-psychologie et recevoir toutes sortes de diplômes. Puis elle l’envoie au loin prêcher l’Evangile
-alors qu’il n’est même pas sauvé, qu’il niera la naissance virginale et la résurrection, qu’il niera la
-guérison divine, qu’il niera la puissance de Dieu, qu’il niera les principes mêmes pour lesquels
-Jésus est mort, qu’il niera l’inspiration de Marc 16: “Voici les miracles qui accompagneront ceux
-qui auront cru…” (alors que c’est Jésus Lui-même qui prononça ces Paroles), qu’il niera
-Actes 2.38 et tout le reste de ce qui est inspiré dans les Ecritures. Il essaiera de prendre une
-tradition d’hommes qui ne connaissent rien de ces choses et la rabâchera sans plus. Et quand
-vous leur dites la vérité et que vous leur montrez la vérité ils ont honte de faire un
-mouvement à cause de leur organisation.
-66 Koré fit la même chose. Ils avaient vu Dieu en Moïse, ils avaient vu que c’était l’Agent de Dieu
-agissant par son intermédiaire. Nicodème voyait Dieu en Christ: “Aucun homme ne peut faire ces
-choses si Dieu n’est avec lui”. Nicodème était déjà dans l’organisation, il essayait d’en sortir.
-Koré était en dehors mais il essaya d’en faire une pour pouvoir y entrer. C’était là la
-différence. Nicodème essayait de trouver le salut, de sortir de ces choses. Il y avait été
-depuis son enfance et en était fatigué. Il voulait être sauvé. Mais Koré, lui, essaya de se
-fabriquer une position où il pouvait être un personnage important.
-67 C’est la manière des gens d’aujourd’hui. C’est là où cela ne va pas avec la chrétienté; il y a
-tellement de choses fausses, d’imitations. Et nos gens de la Pentecôte sont, passez-moi
-l’expression, couverts de cette vermine, pour faire une comparaison charnelle! Que Dieu suscite
-un homme et lui donne quelque chose et tout le monde dans le pays essaiera d’imiter cette
-personne! Ne vous rendez-vous pas compte que vous jouez contre votre propre équipe?
-Quand vous jouez au football … Paul a dit: “Par la grâce courons la course avec patience”. Quand
-un joueur a la balle, ne cherchez pas à la lui arracher des mains: efforcez-vous plutôt de le
-protéger. Mais au lieu de cela, parce qu’il n’appartient pas à votre organisation vous essayez de la
-lui arracher. Et il y en a même qui sont tellement maladroits qu’ils le font trébucher et tomber, puis
-après cela essaient de la lui prendre. Sur le plan spirituel, vous voyez, il trébuchera sur une petite
-chose comme Actes 2.38 et cela le fera tomber certainement. C’est vrai. S’il trébuche sur Marc 16,
-comment arrivera-t-il au but? Vous comprenez? Ce sont de bien pauvres leçons sur Christ! Et
-après toutes ces années ils s’achoppent encore aux choses mêmes qui ont été discutées au
-concile de Nicée.
-68 Koré essaya de faire une organisation pour pouvoir y entrer. Nicodème, qui y était,
-
-        http://www.cmpp.ch
-
-    POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES    10
-essaya d’en sortir. Nicodème fut agréé et en sortit. Koré périt en elle dans ses efforts; il
-périt dans ses propres efforts. Oh, mes frères!
-69 L’organisation dans laquelle était Nicodème savait que Christ était envoyé de Dieu: c’est lui
-qui le dit. Dans le troisième chapitre de Jean, Nicodème dit: “Rabbi, nous savons que tu es un
-docteur venu de Dieu, car personne ne peut faire ces miracles que tu fais si Dieu n’est avec lui”. Et
-ce même groupe, à cause de leur organisation, l’appela “Béelzébul” parce qu’Il avait le pouvoir de
-chasser les démons. Ils disaient: “Il séduit le peuple par Sa doctrine”. C’est pareil aujourd’hui. Que
-séduisait-il?
-70 Jésus dit: “Je ne fais que ce qui est agréable au Père, je ne fais que garder les Paroles de
-Dieu” parce qu’Il était la Parole. Il ne pouvait rien faire d’autre que la Parole.
-71 Mais à cause de leur organisation, à cause de leurs voies ils avaient lié les hommes. Dans
-leur coeur ceux-ci avaient la connaissance, mais leur organisation ne les laissait pas la mettre en
-pratique. Alors pour trouver une échappatoire, pour empêcher le peuple de quitter leur
-organisation (— “tous vont après Lui!”) et de suivre la Vérité de Dieu (Il était la Vérité: “Je suis la
-Vérité et la Lumière”), pour les empêcher de suivre cela, ils dirent qu’Il séduisait le peuple.
-Pensez-y! ces gens qui dans leur coeur savaient qu’Il était Dieu, que Dieu était en Lui (“aucun
-homme ne pourrait dire ou faire ces choses si Dieu n’était pas avec Lui”), qui savaient cela, qui le
-disant et le confessant se tournèrent contre Lui et Le traitèrent de “Béelzébul et de séducteur de
-leur peuple par Sa doctrine”! Oh, mes frères!
-72 Nicodème savait que Jésus était prophète. En voilà un au moins dans l’organisation qui aimait
-et craignait Dieu suffisamment et qui avait reconnu par l’Ancien Testament que cet Homme avait
-les qualifications, qu’Il était éprouvé et confirmé comme prophète envoyé de Dieu. Nicodème
-aurait dû L’honorer. Mais s’il vint de nuit, il vint tout de même. Il valait beaucoup plus que bien de
-nos prédicateurs actuels qui, eux, ne viendraient pas du tout! Finalement Nicodème arriva, c’est
-pourquoi ne le condamnez pas si vous-mêmes n’êtes pas encore arrivé. Nicodème savait que
-Jésus était prophète et il craignait Dieu. Il ne voulut pas laisser s’éloigner de lui cet Homme
-qui était la Lumière de ce jour. Son organisation avait beau lui dire que tout cela était en
-opposition, il avait vu Dieu confirmer cet Homme et il savait qu’Il était prophète. Et s’Il était
-prophète, la Parole de Dieu venant au prophète, Il devait savoir de quoi Il parlait. Ainsi donc
-il vint voir Jésus, désirant savoir comment obtenir le salut. Et comme cet Homme était
-prophète, la Parole de Dieu était avec Lui et Il devait connaître la voie du salut.
-73 Ce que Nicodème devait apprendre, c’est ce que beaucoup de gens venant des
-dénominations d’aujourd’hui doivent apprendre. Ce que Nicodème aurait dû savoir, c’est ce que
-les gens des dénominations d’aujourd’hui devraient savoir. Jésus était plus qu’un prophète. Il était
-venu à Jésus pour trouver, pour Lui demander de lui montrer le chemin de la Vie, et Jésus
-Lui-même était la Vie. Celui qui a le Fils a la Vie. C’est pourquoi il ne faut pas venir pour
-essayer de recevoir un enseignement, il faut venir pour accepter la Personne. Voilà ce qu’il
-faut faire ce soir. La Pierre de faîte est de nouveau rejetée. Qu’est-ce que la Pierre de faîte? C’est
-la Parole, bien sûr. Christ, c’est Lui qui est la Parole.
-74 Il devait apprendre quelque chose. Il pensait: “Voilà, cet Homme est un prophète, c’est
-simplement un prophète”.
-75 C’est pourquoi vous remarquerez que Jésus ne répondit pas à sa question, mais le
-réprimanda simplement pour son aveuglement. Vous comprenez? Il était plus qu’un prophète, Il
-était la Parole et la Lumière resplendissante de la Parole. Il était Dieu resplendissant par
-l’intermédiaire d’un instrument, prouvant qu’Il était Dieu dans l’homme. Il était la Parole. Il est dit
-dans le premier chapitre de Jean: “Au commencement était la Parole, et la Parole était avec Dieu,
-et la Parole était Dieu… Et la Parole a été faite chair et elle a habité parmi nous…”. Et voici que la
-Parole de Dieu resplendit par cette petite forme fragile d’homme et aveugla l’organisation. Mais Il
-vint pour attirer des personnes. Il était plus qu’un prophète. Il était la Parole! Il est la Vie. Il n’avait
-pas à nous enseigner au sujet d’une Vie à venir, Il était Lui-même la Vie! Il était la Vie. Il était
-la Lumière. Il était la Vie. Il était la Vie éternelle, cette Vie était en Lui et Lui seul est le
-Donateur de la Vie éternelle. Celui qui a le Fils a la Vie. C’est pourquoi vous ne pouvez pas
-avoir simplement Son enseignement de la Parole, vous devez L’avoir Lui-même.
-76 Vous direz: «Oh, il y a des gens qui étudient la Bible en grec, apprenant tous les mots grecs
-
-    http://www.cmpp.ch
-
-    POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES    11
+POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES    11
 avec leur définition, la ponctuation, etc.». Mais cela ne les empêche pas de ne rien du tout
 connaître de Dieu! Vous comprenez? Est-ce que c’est celui qui a la forme, est-ce que c’est celui
 qui a le plan? Non! C’est celui qui a le Fils, qui L’a Lui, la Personne. Il est Celui qui a la Vie.
@@ -915,7 +541,7 @@ jamais rien utilisé de semblable. Il utilise toujours l’individu.
 133 Bien! Naître de l’Esprit. En naissant de la chair on a la sagesse du monde et cette sagesse-là
 obéira à son professeur charnel. Naître de l’Esprit c’est croire et obéir à l’enseignement de la
 Bible par le Saint-Esprit. Un homme né de l’Esprit de Dieu obéira à la Parole de Dieu sans
-tenir compte de tout ce que peuvent lui dire les traditions. C’est ainsi. Vous êtes né de
+ tenir compte de tout ce que peuvent lui dire les traditions. C’est ainsi. Vous êtes né de
 nouveau, c’est la raison pour laquelle vous voyez. Appartenir à une organisation c’est placer
 toutes ses espérances en elle.
 134 Je ne dis pas que les gens dans les organisations ne sont pas nés de nouveau. Je viendrai
@@ -938,7 +564,7 @@ nous avons vu une femme en jupe! Depuis longtemps nous n’avions vu quelque cho
 célèbres organisations. Je l’écoutais en allant avec ma fille à la dédicace d’une église. Ils
 chantaient un chant d’un de ces grands personnages classiques célèbres. Pour moi cela sonnait
 comme si ces femmes faisaient des tirades tellement longues sans reprendre leur souffle qu’elles
-devaient devenir toutes bleues de visage. C’est ce que ces gens appellent chanter! Moi, j’appelle
+devenaient toutes bleues de visage. C’est ce que ces gens appellent chanter! Moi, j’appelle
 cela grincer. Ce que j’aime, ce sont ces bons vieux chants pentecôtistes qui partent du fond du
 coeur. Ce n’est pas du grand opéra mais vous chantez et produisez des sons joyeux pour le
 
@@ -1025,7 +651,7 @@ Il les a ensevelies et Il met maintenant Son bouquet. Il jette Ses regards sur l
 sont des fleurs funéraires. Mais quand le soleil se lèvera de nouveau, la semence reprendra vie».
 Amen!
 146 Ce qui intéresse l’Esprit, c’est de confirmer la Parole. Mais si vous avez accepté les traditions
-au lieu de la Parole… Vous direz: «Nous la croyons toute, frère Branham, mais je sais que nous
+aut lieu de la Parole… Vous direz: «Nous la croyons toute, frère Branham, mais je sais que nous
 ne croyons pas ceci». Alors c’est exactement là que vous vous arrêtez.
 147 Un aumônier m’a dit l’autre jour qu’un major lui dit une fois: «Aumônier, allez là-bas: il y a un
 capitaine qui est en train de mourir, il a été touché par un tir de mitrailleuse».
@@ -1578,7 +1204,7 @@ choses, c’est certain, mais ces choses sans le reste ne valent rien.
 
     http://www.cmpp.ch
 
-    POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES    29
+POURQUOI JE SUIS CONTRE LES RELIGIONS ORGANISEES    29
 227 Comme je le disais l’autre jour, cela ressemble à un merle qui essaierait de se parer des
 plumes du paon ou à une buse qui voudrait mettre les plumes de la colombe. Ces plumes n’ont
 pas poussé en eux, ils essaient de les implanter en eux. C’est quelque chose qui a été implanté,
@@ -1898,9 +1524,6 @@ toute incrédulité.
 270    Bien! Chantons tous ensemble maintenant: «Je L’aime, je L’aime…». Que Dieu vous bénisse.
 Revenez nous rendre visite. «… Parce qu’Il m’a aimé…». Bien, pasteur Neville. Que Dieu vous
 bénisse. «… Et acquit mon salut…».
-
-
-
 
 
 

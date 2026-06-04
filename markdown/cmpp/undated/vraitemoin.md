@@ -1,313 +1,171 @@
-(I am a Witness)
-
-
-
-
-
-
-JE SUIS UN
-VRAI TEMOIN
-
-(I am a Witness)
-
-
-
-
-
-
-
-EWALD FRANK
-
-    JE SUIS UN VRAI TEMOIN    2
-
+---
+source: "cmpp"
+sermon_id: "vraitemoin"
+title: "JE SUIS UN VRAI TEMOIN"
+date: "1997-12-01"
+year: 1997
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Ewald Frank témoigne de son expérience personnelle en tant que témoin oculaire du ministère de William Branham, de l'appel divin qu'il a reçu en 1962, et de la confirmation de cet appel par Branham. Il souligne l'importance de la Parole de Dieu et de la préparation spirituelle pour la famine à venir."
+tags:
+  - "témoignage"
+  - "prophétie"
+  - "William Branham"
+  - "appel divin"
+  - "famine spirituelle"
+persons:
+  - "Ewald Frank"
+  - "William Branham"
+  - "August Herman Frank"
+  - "Hall Herman"
+  - "Gordon Lindsay"
+  - "Tommy Osborn"
+  - "Oral Roberts"
+  - "Banks Wood"
+  - "Sothman"
+places:
+  - "Krefeld"
+  - "Allemagne"
+  - "Dallas"
+  - "Texas"
+  - "Hambourg"
+  - "Los Angeles"
+  - "Jeffersonville"
+  - "Tucson"
+  - "Zurich"
+themes:
+  - "témoin oculaire"
+  - "accomplissement des prophéties"
+  - "ministère prophétique"
+  - "préparation spirituelle"
+  - "distribution de la nourriture spirituelle"
+pdf_url: "http://cmpp.ch/vraitemoin.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Thessaloniciens 5"
+  - "2 Pierre 3"
+  - "Actes 1"
+  - "Actes 2"
+  - "Amos 3"
+  - "Apocalypse 11"
+  - "Apocalypse 22"
+  - "Genèse 18"
+  - "Hébreux 13"
+  - "Jean 14"
+  - "Jean 5"
+  - "Joël 2"
+  - "Luc 1"
+  - "Luc 2"
+  - "Luc 24"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Matthieu 17"
+  - "Matthieu 24"
+  - "Ésaïe 13"
+  - "Ésaïe 40"
+  - "Ésaïe 43"
+---
 JE SUIS UN VRAI TEMOIN
-   (I am a Witness)
 
+(I am a Witness)
 
-     «Je suis un vrai témoin»: une documentation du révérend Ewald Frank,
-enregistrée en décembre 1997 au «Centre Missionnaire» de Krefeld, en Allemagne.
+«Je suis un vrai témoin»: une documentation du révérend Ewald Frank, enregistrée en décembre 1997 au «Centre Missionnaire» de Krefeld, en Allemagne.
 
-        [Traduction française de la cassette vidéo en anglais]
+[Traduction française de la cassette vidéo en anglais]
 
+Mesdames et messieurs, je vous salue tous dans le précieux Nom de notre Seigneur Jésus-Christ. Je suis frère Frank d’Allemagne, un vrai témoin des choses que Dieu a faites dans notre génération. Je voudrais partager mon témoignage avec vous tous à travers le monde, espérant que chacun comprendra les choses qui sont dites de la manière juste. Je voudrais lire dans Luc chapitre premier, à partir du verset premier:
 
+> “Plusieurs ayant entrepris de composer un récit des événements qui se sont accomplis parmi nous, suivant ce que nous ont transmis ceux qui, dès le commencement, furent des témoins oculaires et qui sont devenus ministres de la Parole, il m’a semblé bon aussi, ayant une compréhension parfaite de toutes ces choses depuis leur origine, de te les écrire…”
 
+Ceci est une déclaration très spéciale, qui est écrite dans l’Evangile de Luc, disant que plusieurs ont déjà donné leur rapport. Et voici que lui, étant ordonné de Dieu, donne aussi son rapport des choses qu’il a vues et entendues. Il dit: “Ceux qui étaient témoins oculaires et ministres de la Parole”. Il n’est pas suffisant d’être un témoin oculaire; pas plus qu’il n’est suffisant d’être ministre de la Parole. Si Dieu accomplit les prophéties, si le plan du Salut arrive à son accomplissement, nous avons besoin d’hommes de Dieu qui sont en même temps témoins oculaires et ministres de la Parole, et qui peuvent placer ce qui arrive dans la structure des saintes écritures. Ainsi cet homme de Dieu fait une déclaration très audacieuse, déclarant qu’il a une compréhension parfaite de toutes les choses depuis leur origine. Quelqu’un pourrait penser que ceci est une déclaration trop forte pour un être humain. Mais si Dieu est dans la chose… Si Dieu choisit quelqu’un pour parler ou écrire, Lui, le Dieu parfait, donne une compréhension parfaite, par la Parole parfaite de Dieu, à ceux qu’Il utilise dans son Royaume.
 
-   Mesdames et messieurs, je vous salue tous dans le précieux Nom de notre Seigneur
-Jésus-Christ. Je suis frère Frank d’Allemagne, un vrai témoin des choses que Dieu a faites dans
-notre génération. Je voudrais partager mon témoignage avec vous tous à travers le monde,
-espérant que chacun comprendra les choses qui sont dites de la manière juste. Je voudrais lire
-dans Luc chapitre premier, à partir du verset premier:
-      “Plusieurs ayant entrepris de composer un récit des événements qui se sont accomplis
-   parmi nous, suivant ce que nous ont transmis ceux qui, dès le commencement, furent des
-   témoins oculaires et qui sont devenus ministres de la Parole, il m’a semblé bon aussi, ayant
-   une compréhension parfaite de toutes ces choses depuis leur origine, de te les écrire…”.
-   Ceci est une déclaration très spéciale, qui est écrite dans l’Evangile de Luc, disant que
-plusieurs ont déjà donné leur rapport. Et voici que lui, étant ordonné de Dieu, donne aussi son
-rapport des choses qu’il a vues et entendues. Il dit: “Ceux qui étaient témoins oculaires et ministres
-de la Parole”. Il n’est pas suffisant d’être un témoin oculaire; pas plus qu’il n’est suffisant d’être
-ministre de la Parole. Si Dieu accomplit les prophéties, si le plan du Salut arrive à son
-accomplissement, nous avons besoin d’hommes de Dieu qui sont en même temps témoins
-oculaires et ministres de la Parole, et qui peuvent placer ce qui arrive dans la structure des saintes
-écritures. Ainsi cet homme de Dieu fait une déclaration très audacieuse, déclarant qu’il a une
-compréhension parfaite de toutes les choses depuis leur origine. Quelqu’un pourrait penser que
-ceci est une déclaration trop forte pour un être humain. Mais si Dieu est dans la chose… Si Dieu
-choisit quelqu’un pour parler ou écrire, Lui, le Dieu parfait, donne une compréhension parfaite,
-par la Parole parfaite de Dieu, à ceux qu’Il utilise dans son Royaume.
-   J’aimerais aussi lire dans 1 Jean, chapitre premier, verset 1: “Ce qui était dès le
-commencement, ce que nous avons entendu, ce que nous avons vu de nos yeux, ce que nous
-avons contemplé et que nos mains ont touché, concernant la Parole de la vie…”.
-   Nous sommes en relation avec toutes ces Ecritures. Dieu a eu des témoins dans l’Ancien et le
-Nouveau Testament. Chaque fois qu’il fait quelque chose, il y a toujours quelqu’un qu’il peut
-utiliser pour montrer à partir des Ecritures, que ce qu’Il a promis est en train de s’accomplir.
-Nous traitons du plan du Salut lequel maintenant arrive à son achèvement.
-   Dans Actes, chapitre premier, notre Seigneur dit: “Vous êtes mes témoins”. Dans Ésaïe 43, le
-Seigneur dit: “Vous êtes mes témoins”. Dans 2 Pierre, chapitre 1, l’apôtre donne son témoignage
-avec les paroles suivantes: “Car ce n’est pas en suivant des fables ingénieusement imaginées,
-que nous vous avons fait connaître la puissance et la venue de notre Seigneur Jésus-Christ, mais
-comme ayant été témoins oculaires de sa majesté”. Ainsi, au verset 18, l’apôtre déclare: “Et nous,
-nous entendîmes cette voix venue du ciel, étant avec lui sur la sainte montagne”.
-   Si nous avons à faire à Dieu, ainsi qu’à l’accomplissement des prophéties bibliques, si nous
-avons à faire à un ministère ordonné du Dieu Tout-puissant, nous devons toujours revenir aux
-Ecritures et c’est là que nous trouvons la promesse ainsi que la réponse, alors que Dieu accomplit
-Sa Parole Promise. Si nous regardons un moment dans l’histoire de l’humanité, dans l’Ancien
+J’aimerais aussi lire dans 1 Jean, chapitre premier, verset 1:
 
-http://www.cmpp.ch
+> “Ce qui était dès le commencement, ce que nous avons entendu, ce que nous avons vu de nos yeux, ce que nous avons contemplé et que nos mains ont touché, concernant la Parole de la vie…”
 
-JE SUIS UN VRAI TEMOIN 3
-Testament, nous voyons que chaque fois que quelque chose de spécial devait arriver sur la terre,
-Dieu trouvait quelqu’un à qui Il pouvait parler, quelqu’un qu’Il pouvait utiliser en ce temps-là.
-Nous avons la connaissance des prophètes; nous avons entendu parler au sujet d’Enoch, de Noé,
-d’Abraham, de Moïse, au sujet d’Elie, au sujet de tous les prophètes auxquels le Seigneur Dieu a
-parlé, qui étaient des témoins, qui ont entendu Sa Voix, qui étaient en contact, en communion
-directe avec Dieu, sous l’inspiration du Saint-Esprit. Nous réalisons alors aussi qu’avant de faire
-quelque chose, Dieu parle, comme l’Ecriture le dit dans Amos 3.7: “Or le Seigneur, l’Eternel, ne
-fera rien, qu’il ne révèle son secret à ses serviteurs les prophètes”. Abraham était un prophète
-du Tout-puissant. Et dans Genèse 18 nous trouvons qu’il est écrit que le Seigneur et deux anges
-visitèrent ce prophète. Et au verset 17 notre Seigneur dit: “Cacherai-je à Abraham ce que je vais
-faire…?”. Les deux anges continuèrent à Sodome selon Genèse chapitre 19, mais le Seigneur
-resta avec Abraham et confirma Sa promesse, laquelle fut plus tard accomplie en Isaac.
-   Bien-aimés frères et soeurs, mesdames et messieurs, si nous regardons dans l’Ancien
-Testament, nous voyons alors que l’histoire de l’Eglise du Nouveau Testament était déjà
-annoncée. Toutes les choses qui arrivent dans la période du Nouveau Testament, étaient déjà
-annoncées dans l’Ancien Testament. Jean était un prophète promis. Dans Esaïe chapitre 40,
-verset 3, dans Malachie 3, verset 1, nous trouvons ces deux prophéties capitales concernant le
-précurseur de la première venue de Jésus-Christ, le décrivant comme étant la voix criant dans le
-désert “Préparez le chemin du Seigneur”. Il est très important de savoir que Dieu accomplit Ses
-promesses. Tous les prophètes de l’Ancien Testament ont parlé de ce grand événement; et ils ont
-annoncé la venue du Messie. Mais Jean a fait le pont entre l’Ancien et le Nouveau Testament et
-c’est pourquoi il était plus qu’un prophète. Ils avaient annoncé ce qui devait arriver, mais lui
-pouvait pointer le Messie du doigt et dire: “Voilà l’agneau de Dieu!”. Ainsi, nous devons
-comprendre cela, et je vous prie d’essayer de suivre dans la prière ce qui sera partagé avec vous.
-Je ne crois pas que ceci est un hasard. Je crois que Dieu a ordonné toutes choses pour qu’elles
-puissent arriver au temps voulu, de la manière voulue.
-   Je dois m’inclure moi-même humblement dans ce programme de Dieu, duquel je suis devenu
-une partie, et cela depuis plusieurs années. Il faut que je dise que mon arbre généalogique
-remonte jusqu’au jour de la réformation. L’un de ceux qui avaient combattu pour la Vérité aux
-côtés de Martin Luther et de ceux qui étaient utilisés par Dieu pour faire une brèche en ce
-temps-là, était August Herman Frank. De même mon arrière-grand-père portait le même nom. Il y
-avait dans ma famille des hommes qui craignaient Dieu. Bien qu’étant luthériens, ils croyaient la
-Parole de Dieu aussi loin qu’Elle leur était révélée en leur jour et en leur temps. Moi-même, j’allais
-dans l’église baptiste. C’est là que je fus baptisé, mais mon chemin ne s’arrêta pas là.
-   Je fus mis en relation avec le ministère du Full Gospel dans notre pays, et déjà en 1949, je fis
-ma première expérience de salut. Je n’étais pas seulement converti et né de nouveau, mais je fus
-rempli du Saint-Esprit et depuis ce moment-là j’eus le zèle de servir mon Seigneur qui m’avait
-aimé d’une manière si merveilleuse. Un homme vint d’Amérique, du nom de Hall Herman; il
-prêchait à Hambourg en Allemagne. C’était un grand homme à Hollywood. Mais après les deux
-bombardements d’Hiroshima et de Nagasaki, il fut engagé par le gouvernement américain pour
-filmer toutes les conséquences des bombardements sur le Japon. Et en faisant cela, il fut
-naturellement très fortement troublé. Ses pensées l’amenèrent au livre d’Apocalypse… Il se
-demanda donc ce qui arriverait lorsque les jugements d’Apocalypse frapperaient le monde. Dès
-lors il était très troublé, lui qui avait été élevé aux Etats-Unis d’Amérique, qui était non seulement
-en relation avec le Général Mac Carthy, mais qui connaissait aussi le Président des Etats-Unis
-d’Amérique. Cependant quelque chose parla en son coeur. C’est ainsi qu’il alla dans une réunion
-où frère William Branham prêchait, dans la contrée de Los Angeles, et Dieu toucha son coeur et
-sauva son âme. Il se mit alors à donner son témoignage de ce que Dieu avait fait pour lui.
-   Mais je dois sauter quelques années, et j’en arrive à 1953. Je fus choisi, comme étant le plus
-jeune ministre, alors que je n’avais pas encore 20 ans, pour prêcher à une conférence libre des
-pentecôtistes en Allemagne. L’année 1955 est une année et un temps très spécial dans ma vie!
-J’eus le privilège d’aller à des réunions de frère Branham en Allemagne pendant 10 jours. Je dois
-dire, et je le fais avec un grand plaisir en tant que témoin donnant son témoignage, que ce que je
-vis pendant ces dix jours était exactement ce qu’on trouve dans le livre des Actes et dans les
-Evangiles. Rien de moins que cela! Les aveugles reçurent la vue; de grands signes et des
+Nous sommes en relation avec toutes ces Ecritures. Dieu a eu des témoins dans l’Ancien et le Nouveau Testament. Chaque fois qu’il fait quelque chose, il y a toujours quelqu’un qu’il peut utiliser pour montrer à partir des Ecritures, que ce qu’Il a promis est en train de s’accomplir. Nous traitons du plan du Salut lequel maintenant arrive à son achèvement.
 
-        http://www.cmpp.ch
+Dans Actes, chapitre premier, notre Seigneur dit: “Vous êtes mes témoins”. Dans Ésaïe 43, le Seigneur dit: “Vous êtes mes témoins”. Dans 2 Pierre, chapitre 1, l’apôtre donne son témoignage avec les paroles suivantes:
 
-JE SUIS UN VRAI TEMOIN 4
-merveilles arrivèrent. Et tout naturellement, jour après jour, et moment après moment, nous
-pleurions; nous crions, nous chantions, et nous louions Dieu. Des jours bibliques étaient à
-nouveau arrivés. Cela n’était pas seulement écrit dans le livre des Hébreux 13, verset 8:
-“Jésus-Christ est le même, hier, et aujourd’hui, et éternellement”, mais cela était devenu une
-réalité vivante! Je suis un témoin authentique; j’ai entendu; j’ai vu; j’étais présent lorsque cela
-arriva. J’étais là lorsqu’une fille née aveugle, et qui devait avoir onze ans, reçu la vue en un seul
-instant. J’étais là lorsque des gens se mourant de cancer étaient amenés sur des brancards par
-une ambulance. Il y avait là un homme qui était lui-même professeur, alors que frère Branham lui
-parlait, il lui dit: «Monsieur! la lumière est sur vous! Dieu vous guérit! Je l’ai vu dans une vision». Et
-frère Branham avec autorité, prononça ces mots: «Tu es guéri par la puissance de Dieu, dans le
-Nom de Jésus-Christ de Nazareth!». Devant les yeux de près de dix-huit à vingt mille personnes,
-cet homme qui n’était plus que l’ombre de lui-même et qui était couché sur un brancard se leva,
-plaça le brancard sur sa tête et sorti de la grande tente de la campagne.
-   Amis bien-aimés, je suis un vrai témoin. Et à partir de ce moment, ce ministère confirmé avec
-puissance sous nos yeux et d’une manière si merveilleuse, a créé en moi un seul désir: connaître
-un peu plus ce que Dieu était en train de faire. Il arriva ensuite que je saluai frère Branham
-dans le hall de l’hôtel où il logeait pendant les réunions. Et avant que je ne touche sa main,
-s’arrêtant et me regardant, il me dit: «Tu es un ministre de l’Evangile; ta femme se tient là à
-l’entrée». C’était un prophète! Dieu lui donnait des visions.
-   Et, mes amis, qu’il me soit permis de faire cette remarque, il était le seul homme que j’aie
-entendu qui pouvait non seulement mettre en pratique Hébreux 13.8, mais il le faisait aussi de
-Jean 14.12, là où le Seigneur dit: “Celui qui croit en moi fera, lui aussi, les oeuvres que moi je fais,
-et il en fera de plus grandes que celles-ci”. Il utilisait aussi l’Ecriture de Jean 5 verset 19,20: “Le
-Fils ne peut rien faire de lui-même, à moins qu’il ne voie faire une chose au Père”. William
-Branham était un prophète! Il n’était pas seulement un prophète, un voyant, mais il était un
-prophète promis. C’est ce que vous comprendrez plus tard, lorsque nous aurons avancé pas à
-pas au travers des choses que Dieu a faites. Je veux seulement simplement dire ici, que je crois
-en ce que Dieu a fait conformément à Sa Sainte Parole. Je ne serais pas assez stupide de passer
-par-dessus ce que Dieu a fait dans ma génération. Comme frère Branham le disait souvent, nous
-louons toujours Dieu pour ce qu’Il a fait et nous nous attendons à ce qu’Il va faire dans le futur,
-mais la plupart de temps, nous passons à côté de ce qu’Il fait présentement.
-   Arrivons maintenant à l’année 1958, alors que j’étais à une convention de la “Voie de la
-Guérison” arrangée par Gordon Lindsay, à Dallas, au Texas. C’est l’homme qui avait écrit ce livre
-«William Branham, un homme envoyé de Dieu». En allemand, ce livre était aussi publié sous le
-titre: «William Branham un homme envoyé de Dieu». J’allais à cette convention, en 1958. Et là, je
-fis la connaissance de près de 200 évangélistes américains. Aux réunions du soir, frère Branham
-était le prédicateur principal. Je ne juge pas; je ne fais que partager ces choses avec vous. J’avais
-alors une bonne opportunité de comparer les ministères. Tous les autres étaient des prédicateurs
-éloquents. Mais aux réunions du soir, lorsque frère Branham commençait à prêcher, c’était
-tellement différent! Chacun pouvait sentir la présence surnaturelle du Dieu Tout-puissant. Et
-dans chaque service, le don du discernement était manifesté. Frère Branham avait des visions
-pendant qu’il priait, pour ceux qui venaient avec leurs besoins et pour lesquels on priait. Ainsi, par
-la grâce de Dieu, c’est là à Dallas, au Texas, que Dieu ouvrit mes yeux et que je vins à
-comprendre que ce ministère n’était pas un simple ministère parmi tant d’autres, mais que ce
-ministère avait une connexion très spéciale avec le plan du Salut. Dieu se trouvait dans ce
-ministère; il était ordonné par le Tout-Puissant pour ce temps. C’était aussi cette même année que
-j’ai connu Tommy Osborn, Oral Roberts et tous les autres grands évangélistes que vous pouvez
-mentionner, et qui sont connus à travers le monde entier.
-   C’était en 1960, quand Tommy Osborn est venu en Allemagne; il me visita dans notre petit
-appartement me demandant d’être son manager européen. C’était en ce temps une offre
-merveilleuse pour un allemand d’avoir une grande voiture, un grand salaire et de ne plus avoir
-besoin de travailler plus longtemps dans le travail habituel que j’avais dans le gouvernement
-allemand en ce temps-là. Mais pour être honnête, je dû lui déclarer que j’avais commencé à
-traduire les prédications de frère Branham en allemand, et cela fut la fin de notre conversation.
-   Bien-aimés, à ce moment-là, je sus que je devais prendre ma position. Indépendamment de ce
+> “Car ce n’est pas en suivant des fables ingénieusement imaginées, que nous vous avons fait connaître la puissance et la venue de notre Seigneur Jésus-Christ, mais comme ayant été témoins oculaires de sa majesté”.
 
-        http://www.cmpp.ch
+Ainsi, au verset 18, l’apôtre déclare:
 
-JE SUIS UN VRAI TEMOIN 5
-que les gens pourraient dire. Je savais que ceci était un ministère ordonné de Dieu et que j’étais
-responsable de partager ce que Dieu avait donné, et cela tant avec mon peuple qu’avec plusieurs
-autres.
-   Puis, vint l’année 1962, c’était lundi, le 2 avril, juste avant que le jour paraisse, avant que le
-soleil se lève. Il arriva une chose, et je vous dis la vérité, ma Bible allemande luthérienne, la
-deuxième édition vieille de plus de 400 ans est là devant moi, et ma Bible anglaise aussi est là. Et
-Dieu le Tout-Puissant, qui est le juge de tous le sait aussi, que c’est réellement arrivé. Je n’avais
-aucune connaissance, je n’avais pas prié pour cela, et cela arriva à Krefeld, dans la rue Louise
-n° 160, au 2ème étage. Je m’étais réveillé tôt le matin; je me suis approché de la fenêtre et j’ai tiré
-les rideaux de droite à gauche. Je regardais dehors; c’était un nouveau jour qui apparaissait et il
-n’y avait pas de nuage dans le ciel. Je me suis juste éloigné de la fenêtre faisant une courte prière,
-recommandant la journée au Seigneur. Et, après cette prière, me tenant debout à environ 2 à
-3 mètres de là, je regardais vers la fenêtre. D’en haut et de la droite, vint la Voix terrible du
-Seigneur prononçant chaque mot avec précision en langue allemande. Le Seigneur dit ces mots:
-«Mon serviteur, ton temps dans cette ville sera bientôt terminé. Je t’enverrai dans d’autres
-villes pour prêcher ma Parole».
-   Amis, le moment suivant je m’évanouis. Je tombais à terre sur mon bras gauche, sur le tapis, je
-n’avais plus de force dans mon corps. Ce n’est qu’après quelques instants que je repris un peu de
-force. Je me mis à nouveau à bouger ma main gauche vers la droite; finalement je pus me tenir
-debout sur mes pieds et je regardais encore vers la fenêtre, et mon corps tremblait de cette
-manière, et je dis ces mots: «Seigneur, ils ne m’écouteront pas; ils ont toutes choses en
-abondance, ils ne sont pas prêts pour écouter». A peine avais-je prononcé ces derniers mots, que
-le Seigneur parlât une seconde fois: «Mon serviteur, le temps viendra où ils t’écouteront.
-Emmagasine la nourriture car une grande famine arrive. Alors tu te tiendras au milieu du
-peuple pour distribuer la nourriture».
-   Bien-aimés, vous qui vivez dans différents pays et continents, vous ne pouvez pas pleinement
-comprendre ma situation. Mais c’était en 1961 et 1962 alors que le point culminant de la guerre
-froide était atteint; il y avait la crise de Cuba, la crise de Berlin. Et à Berlin, les tanks russes et
-américains étaient face à face, et nous pensions qu’à n’importe quel moment une tragédie pouvait
-survenir dans notre pays. Parce que les aliments naturels avaient été mentionnés, je fis au mieux
-de ma connaissance; je dis à la petite congrégation ce que le Seigneur m’avait dit et nous
-emmagasinâmes des aliments de tout genre. Mais il n’y eut aucune famine; il n’y eut aucune
-tragédie; mais en ce qui me concernait quelque chose m’arriva et je dis: «Seigneur, je ne peux
-plus vivre; je ne peux plus prêcher… parce que tu as parlé et cela ne s’est pas réalisé». Alors la
-pensée me vint que je devais prendre l’avion et rencontrer frère Branham, m’attendant à ce que le
-Seigneur l’utilise pour me parler et me donner une réponse. Je ne voulais pas attendre le
-31 décembre de cette année 62. Ainsi, c’était un lundi, le 3 décembre, que je me trouvais en
-compagnie de frère Branham, frère Banks Wood et frère Sothman assis dans la même voiture.
-Frère Branham étais assis derrière le volant, et j’étais à sa droite. Il vint me prendre de l’endroit où
-j’habitais et nous eûmes un repas ensemble. Frère Branham parlât des réunions en Allemagne, en
-Suisse, alors que nous continuions la conversation, le moment vint où je lui dis: «Frère Branham,
-je voudrais te demander quelque chose». C’est alors que sa main droite se leva légèrement de
-cette manière; et il dit: «Frère Frank, puis-je te dire ce que le Seigneur t’a dit?». Et mes amis,
-vous pouvez le croire ou pas, mais j’ai des frères d’autres pays qui ont fait le voyage jusqu’aux
-Etats-Unis pour demander à Banks Wood et à frère Sothman s’ils étaient là lorsque frère Branham
-me parlât. Ils sont revenus en Europe, de l’Allemagne, de la France et d’autres pays, confirmant
-avoir entendu de leurs lèvres le témoignage que je vous donne maintenant. Frère Branham répéta
-les paroles mot à mot, phrase par phrase, dans l’ordre précis dans lequel le Seigneur m’avait parlé
-en Allemagne. A partir de cet instant, je ne pouvais plus dire un mot. La présence de Dieu était si
-puissante. Ensuite, après m’avoir répété ce que le Seigneur m’avait dit, il me dit: «Frère Frank, tu
-as mal compris ce que le Seigneur a dit. Tu avais l’impression qu’il y aurai une tragédie naturelle et
-une famine naturelle et ainsi tu as emmagasiné de la nourriture naturelle». Il continua et dit: «Dieu
-enverra une famine d’entendre sa Parole. Et la nourriture qui doit être emmagasinée est la
-Parole promise de Dieu pour ce temps, révélée par le Saint-Esprit, et qui est gardée dans
-des prédications qui sont sur des bandes».
+> “Et nous, nous entendîmes cette voix venue du ciel, étant avec lui sur la sainte montagne”.
 
-        http://www.cmpp.ch
+Si nous avons à faire à Dieu, ainsi qu’à l’accomplissement des prophéties bibliques, si nous avons à faire à un ministère ordonné du Dieu Tout-puissant, nous devons toujours revenir aux Ecritures et c’est là que nous trouvons la promesse ainsi que la réponse, alors que Dieu accomplit Sa Parole Promise. Si nous regardons un moment dans l’histoire de l’humanité, dans l’Ancien Testament, nous voyons que chaque fois que quelque chose de spécial devait arriver sur la terre, Dieu trouvait quelqu’un à qui Il pouvait parler, quelqu’un qu’Il pouvait utiliser en ce temps-là. Nous avons la connaissance des prophètes; nous avons entendu parler au sujet d’Enoch, de Noé, d’Abraham, de Moïse, au sujet d’Elie, au sujet de tous les prophètes auxquels le Seigneur Dieu a parlé, qui étaient des témoins, qui ont entendu Sa Voix, qui étaient en contact, en communion directe avec Dieu, sous l’inspiration du Saint-Esprit. Nous réalisons alors aussi qu’avant de faire quelque chose, Dieu parle, comme l’Ecriture le dit dans Amos 3.7:
 
-JE SUIS UN VRAI TEMOIN 6
-   Frère Branham a utilisé le mot bandes lorsqu’il a fait cette déclaration. Bien sûr, depuis
-septembre 1958, je recevais toutes les prédications que frère Branham donnait en Amérique. Trois
-semaines après, je les recevais en Allemagne et c’est ainsi que j’ai réellement grandi sous son
-ministère, année après année. Cela était ordonné par le Dieu Tout-Puissant de cette manière-là.
-Les derniers mots qu’il dit ce 3 décembre dans cette conversation furent: «Frère Frank attends
-pour la distribution de la nourriture, jusqu’à ce que tu reçoives le reste de la nourriture qui
-va avec». Cette partie, je ne l’avais pas comprise, mais je n’avais pas osé demander ce que cela
-voulait dire. Ainsi, par la grâce de Dieu, nous devons comprendre que c’était au moment où le
-Seigneur m’avait parlé, que l’ange du Seigneur avait parlé à frère Branham: «Ne fais pas ton
-voyage à Zurich, en Suisse pour une seule réunion avec les hommes d’affaires du Full
-Gospel. Mais retourne à Jeffersonville et emmagasine la nourriture». Vous tous qui êtes en
-relation avec le message de l’heure, vous savez qu’il en a parlé au moins trois fois, disant de
-quelle manière cela lui fut dit et comment il devait emmagasiner la nourriture, par la grâce de Dieu.
-   Maintenant, venons-en à l’année 1963, lorsque les sept sceaux furent ouverts conformément à
-la vision qui avait été montrée à frère Branham le 22 décembre 1962. Lorsque j’étais là avec lui, il
-me dit qu’en janvier 1963, il déménagerait avec sa famille pour aller à Tucson. Je ne connaissais
-pas seulement frère Branham par les prédications, mais j’étais allé dans sa maison; j’étais allé
-avec lui dans la même voiture, et ainsi de suite. Mais la connexion que j’avais avec lui n’était
-pas dans le domaine naturel, mais bien dans le spirituel. Ainsi après avoir reçu la révélation
-des sept sceaux, il fût mal compris par les évangélistes qui avaient pourtant reçu leur inspiration
-lors de l’une de ses réunions.
-   Si vous retournez au 7 mai 1946, vous n’y trouverez aucun mot, aucune mention de qui que ce
-soit tel que Billy Graham, Oral Roberts, ou quelque autre de ces évangélistes. C’était bien
-William Branham qui avait reçu un visiteur du ciel, un ange qui vint vers lui le 7 mai 1946. Je
-crois cela de tout mon coeur. Et cela est aussi vrai que je crois qu’un ange était apparu à
-Zacharie, selon Luc 1, se tenant à la droite de l’autel et lui donnant la promesse qu’Elisabeth aurait
-un fils qui allait marcher devant le Seigneur pour préparer Son chemin. De même que l’Ange était
-venu vers Marie, comme cela nous est relaté dans Luc 1, lui donnant la parole de la promesse que
-le Messie allait naître. Si vous regardez dans l’Ancien et le Nouveau Testament, vous verrez que
-chaque fois que le surnaturel se manifestait sur la terre, Dieu travaillait d’une manière
-mystérieuse pour accomplir Ses merveilles, Son conseil. Vous pouvez lire dans le Nouveau
-Testament, qu’un ange ouvrit les portes de la prison pour que Pierre puisse sortir; un ange
-apparut à Corneille, lui disant qu’il devait appeler Simon qui lui annoncerait la voie à suivre et les
-paroles qu’il devait écouter; un ange vint à Paul lui disant ce qui devait arriver. Si vous allez dans
-le dernier livre de la Bible, un ange apparut à Jean dans l’île de Patmos lui montrant tout ce que
-les serviteurs de Dieu devaient connaître et qui devait bientôt arriver. Dans Apocalypse 22.6, il est
-confirmé à nouveau que le Seigneur Dieu avait envoyé Son ange. Et Il a envoyé des anges
-chaque fois que quelque chose de très spécial arrivait. Lorsque notre Seigneur naquit, selon Luc 2,
-toute l’armée céleste descendit, chantant, et la lumière brilla au-dessus de Bethléhem et de toute
-la région, la nuit fut illuminée et un ange proclama: “C’est qu’aujourd’hui, dans la ville de David, il
-vous est né un Sauveur, qui est le Christ, le Seigneur”. Si vous allez dans l’Ancien Testament, et
-plus spécialement dans le prophète Daniel à qui furent montrées des choses en relation avec le
-temps de la fin, l’ange vint vers lui et il lui fut dit qu’il devait expliquer au prophète les choses qu’il
-lui montrait.
-   Bien-aimés, Dieu ne demandera à personne la permission, Il fera tout ce qu’Il s’est proposé de
-faire, et bénis sont ceux qui ne discutent pas, qui ne rejettent pas ce que Dieu fait. Au moment où
-le conseil de Dieu arrive à son accomplissement et que prend place la Parole Promise, Dieu
-agit. Et cela tout spécialement si un prophète promis apparaît sur la scène, c’est le temps pour
-nous de savoir que Dieu est en train de faire l’histoire. Ce n’est pas à toi, homme, de juger. Il fait
-cela pour que tu respectes Dieu et que tu parviennes à la compréhension de ce qu’Il est en train
-de faire, conformément au plan du Salut.
-   Nous devons maintenant aller un peu plus loin. Nous savons que frère Branham fut repris
-d’entre nous à peu près en ce temps-ci, en décembre 1965 et maintenant nous sommes à la
-même date, en décembre 1997. Toutes ces années se sont écoulées et nous voyons que Dieu ne
-s’est pas arrêté en décembre 1965; en réalité le travail vient à peine de commencer.
+> “Or le Seigneur, l’Eternel, ne fera rien, qu’il ne révèle son secret à ses serviteurs les prophètes”.
 
-        http://www.cmpp.ch
+Abraham était un prophète du Tout-puissant. Et dans Genèse 18 nous trouvons qu’il est écrit que le Seigneur et deux anges visitèrent ce prophète. Et au verset 17 notre Seigneur dit:
+
+> “Cacherai-je à Abraham ce que je vais faire…?”
+
+Les deux anges continuèrent à Sodome selon Genèse chapitre 19, mais le Seigneur resta avec Abraham et confirma Sa promesse, laquelle fut plus tard accomplie en Isaac.
+
+Bien-aimés frères et soeurs, mesdames et messieurs, si nous regardons dans l’Ancien Testament, nous voyons alors que l’histoire de l’Eglise du Nouveau Testament était déjà annoncée. Toutes les choses qui arrivent dans la période du Nouveau Testament, étaient déjà annoncées dans l’Ancien Testament. Jean était un prophète promis. Dans Esaïe chapitre 40, verset 3, dans Malachie 3, verset 1, nous trouvons ces deux prophéties capitales concernant le précurseur de la première venue de Jésus-Christ, le décrivant comme étant la voix criant dans le désert “Préparez le chemin du Seigneur”. Il est très important de savoir que Dieu accomplit Ses promesses. Tous les prophètes de l’Ancien Testament ont parlé de ce grand événement; et ils ont annoncé la venue du Messie. Mais Jean a fait le pont entre l’Ancien et le Nouveau Testament et c’est pourquoi il était plus qu’un prophète. Ils avaient annoncé ce qui devait arriver, mais lui pouvait pointer le Messie du doigt et dire: “Voilà l’agneau de Dieu!”. Ainsi, nous devons comprendre cela, et je vous prie d’essayer de suivre dans la prière ce qui sera partagé avec vous. Je ne crois pas que ceci est un hasard. Je crois que Dieu a ordonné toutes choses pour qu’elles puissent arriver au temps voulu, de la manière voulue.
+
+Je dois m’inclure moi-même humblement dans ce programme de Dieu, duquel je suis devenu une partie, et cela depuis plusieurs années. Il faut que je dise que mon arbre généalogique remonte jusqu’au jour de la réformation. L’un de ceux qui avaient combattu pour la Vérité aux côtés de Martin Luther et de ceux qui étaient utilisés par Dieu pour faire une brèche en ce temps-là, était August Herman Frank. De même mon arrière-grand-père portait le même nom. Il y avait dans ma famille des hommes qui craignaient Dieu. Bien qu’étant luthériens, ils croyaient la Parole de Dieu aussi loin qu’Elle leur était révélée en leur jour et en leur temps. Moi-même, j’allais dans l’église baptiste. C’est là que je fus baptisé, mais mon chemin ne s’arrêta pas là.
+
+Je fus mis en relation avec le ministère du Full Gospel dans notre pays, et déjà en 1949, je fis ma première expérience de salut. Je n’étais pas seulement converti et né de nouveau, mais je fus rempli du Saint-Esprit et depuis ce moment-là j’eus le zèle de servir mon Seigneur qui m’avait aimé d’une manière si merveilleuse. Un homme vint d’Amérique, du nom de Hall Herman; il prêchait à Hambourg en Allemagne. C’était un grand homme à Hollywood. Mais après les deux bombardements d’Hiroshima et de Nagasaki, il fut engagé par le gouvernement américain pour filmer toutes les conséquences des bombardements sur le Japon. Et en faisant cela, il fut naturellement très fortement troublé. Ses pensées l’amenèrent au livre d’Apocalypse… Il se demanda donc ce qui arriverait lorsque les jugements d’Apocalypse frapperaient le monde. Dès lors il était très troublé, lui qui avait été élevé aux Etats-Unis d’Amérique, qui était non seulement en relation avec le Général Mac Carthy, mais qui connaissait aussi le Président des Etats-Unis d’Amérique. Cependant quelque chose parla en son coeur. C’est ainsi qu’il alla dans une réunion où frère William Branham prêchait, dans la contrée de Los Angeles, et Dieu toucha son coeur et sauva son âme. Il se mit alors à donner son témoignage de ce que Dieu avait fait pour lui.
+
+Mais je dois sauter quelques années, et j’en arrive à 1953. Je fus choisi, comme étant le plus jeune ministre, alors que je n’avais pas encore 20 ans, pour prêcher à une conférence libre des pentecôtistes en Allemagne. L’année 1955 est une année et un temps très spécial dans ma vie! J’eus le privilège d’aller à des réunions de frère Branham en Allemagne pendant 10 jours. Je dois dire, et je le fais avec un grand plaisir en tant que témoin donnant son témoignage, que ce que je vis pendant ces dix jours était exactement ce qu’on trouve dans le livre des Actes et dans les Evangiles. Rien de moins que cela! Les aveugles reçurent la vue; de grands signes et des merveilles arrivèrent. Et tout naturellement, jour après jour, et moment après moment, nous pleurions; nous crions, nous chantions, et nous louions Dieu. Des jours bibliques étaient à nouveau arrivés. Cela n’était pas seulement écrit dans le livre des Hébreux 13, verset 8: “Jésus-Christ est le même, hier, et aujourd’hui, et éternellement”, mais cela était devenu une réalité vivante! Je suis un témoin authentique; j’ai entendu; j’ai vu; j’étais présent lorsque cela arriva. J’étais là lorsqu’une fille née aveugle, et qui devait avoir onze ans, reçu la vue en un seul instant. J’étais là lorsque des gens se mourant de cancer étaient amenés sur des brancards par une ambulance. Il y avait là un homme qui était lui-même professeur, alors que frère Branham lui parlait, il lui dit: «Monsieur! la lumière est sur vous! Dieu vous guérit! Je l’ai vu dans une vision». Et frère Branham avec autorité, prononça ces mots: «Tu es guéri par la puissance de Dieu, dans le Nom de Jésus-Christ de Nazareth!». Devant les yeux de près de dix-huit à vingt mille personnes, cet homme qui n’était plus que l’ombre de lui-même et qui était couché sur un brancard se leva, plaça le brancard sur sa tête et sorti de la grande tente de la campagne.
+
+Amis bien-aimés, je suis un vrai témoin. Et à partir de ce moment, ce ministère confirmé avec puissance sous nos yeux et d’une manière si merveilleuse, a créé en moi un seul désir: connaître un peu plus ce que Dieu était en train de faire. Il arriva ensuite que je saluai frère Branham dans le hall de l’hôtel où il logeait pendant les réunions. Et avant que je ne touche sa main, s’arrêtant et me regardant, il me dit: «Tu es un ministre de l’Evangile; ta femme se tient là à l’entrée». C’était un prophète! Dieu lui donnait des visions.
+
+Et, mes amis, qu’il me soit permis de faire cette remarque, il était le seul homme que j’aie entendu qui pouvait non seulement mettre en pratique Hébreux 13.8, mais il le faisait aussi de Jean 14.12, là où le Seigneur dit:
+
+> “Celui qui croit en moi fera, lui aussi, les oeuvres que moi je fais, et il en fera de plus grandes que celles-ci”.
+
+Il utilisait aussi l’Ecriture de Jean 5 verset 19,20:
+
+> “Le Fils ne peut rien faire de lui-même, à moins qu’il ne voie faire une chose au Père”.
+
+William Branham était un prophète! Il n’était pas seulement un prophète, un voyant, mais il était un prophète promis. C’est ce que vous comprendrez plus tard, lorsque nous aurons avancé pas à pas au travers des choses que Dieu a faites. Je veux seulement simplement dire ici, que je crois en ce que Dieu a fait conformément à Sa Sainte Parole. Je ne serais pas assez stupide de passer par-dessus ce que Dieu a fait dans ma génération. Comme frère Branham le disait souvent, nous louons toujours Dieu pour ce qu’Il a fait et nous nous attendons à ce qu’Il va faire dans le futur, mais la plupart de temps, nous passons à côté de ce qu’Il fait présentement.
+
+Arrivons maintenant à l’année 1958, alors que j’étais à une convention de la “Voie de la Guérison” arrangée par Gordon Lindsay, à Dallas, au Texas. C’est l’homme qui avait écrit ce livre «William Branham, un homme envoyé de Dieu». En allemand, ce livre était aussi publié sous le titre: «William Branham un homme envoyé de Dieu». J’allais à cette convention, en 1958. Et là, je fis la connaissance de près de 200 évangélistes américains. Aux réunions du soir, frère Branham était le prédicateur principal. Je ne juge pas; je ne fais que partager ces choses avec vous. J’avais alors une bonne opportunité de comparer les ministères. Tous les autres étaient des prédicateurs éloquents. Mais aux réunions du soir, lorsque frère Branham commençait à prêcher, c’était tellement différent! Chacun pouvait sentir la présence surnaturelle du Dieu Tout-puissant. Et dans chaque service, le don du discernement était manifesté. Frère Branham avait des visions pendant qu’il priait, pour ceux qui venaient avec leurs besoins et pour lesquels on priait. Ainsi, par la grâce de Dieu, c’est là à Dallas, au Texas, que Dieu ouvrit mes yeux et que je vins à comprendre que ce ministère n’était pas un simple ministère parmi tant d’autres, mais que ce ministère avait une connexion très spéciale avec le plan du Salut. Dieu se trouvait dans ce ministère; il était ordonné par le Tout-Puissant pour ce temps. C’était aussi cette même année que j’ai connu Tommy Osborn, Oral Roberts et tous les autres grands évangélistes que vous pouvez mentionner, et qui sont connus à travers le monde entier.
+
+C’était en 1960, quand Tommy Osborn est venu en Allemagne; il me visita dans notre petit appartement me demandant d’être son manager européen. C’était en ce temps une offre merveilleuse pour un allemand d’avoir une grande voiture, un grand salaire et de ne plus avoir besoin de travailler plus longtemps dans le travail habituel que j’avais dans le gouvernement allemand en ce temps-là. Mais pour être honnête, je dû lui déclarer que j’avais commencé à traduire les prédications de frère Branham en allemand, et cela fut la fin de notre conversation.
+
+Bien-aimés, à ce moment-là, je sus que je devais prendre ma position. Indépendamment de ce que les gens pourraient dire. Je savais que ceci était un ministère ordonné de Dieu et que j’étais responsable de partager ce que Dieu avait donné, et cela tant avec mon peuple qu’avec plusieurs autres.
+
+Puis, vint l’année 1962, c’était lundi, le 2 avril, juste avant que le jour paraisse, avant que le soleil se lève. Il arriva une chose, et je vous dis la vérité, ma Bible allemande luthérienne, la deuxième édition vieille de plus de 400 ans est là devant moi, et ma Bible anglaise aussi est là. Et Dieu le Tout-Puissant, qui est le juge de tous le sait aussi, que c’est réellement arrivé. Je n’avais aucune connaissance, je n’avais pas prié pour cela, et cela arriva à Krefeld, dans la rue Louise n° 160, au 2ème étage. Je m’étais réveillé tôt le matin; je me suis approché de la fenêtre et j’ai tiré les rideaux de droite à gauche. Je regardais dehors; c’était un nouveau jour qui apparaissait et il n’y avait pas de nuage dans le ciel. Je me suis juste éloigné de la fenêtre faisant une courte prière, recommandant la journée au Seigneur. Et, après cette prière, me tenant debout à environ 2 à 3 mètres de là, je regardais vers la fenêtre. D’en haut et de la droite, vint la Voix terrible du Seigneur prononçant chaque mot avec précision en langue allemande. Le Seigneur dit ces mots:
+
+> «Mon serviteur, ton temps dans cette ville sera bientôt terminé. Je t’enverrai dans d’autres villes pour prêcher ma Parole».
+
+Amis, le moment suivant je m’évanouis. Je tombais à terre sur mon bras gauche, sur le tapis, je n’avais plus de force dans mon corps. Ce n’est qu’après quelques instants que je repris un peu de force. Je me mis à nouveau à bouger ma main gauche vers la droite; finalement je pus me tenir debout sur mes pieds et je regardais encore vers la fenêtre, et mon corps tremblait de cette manière, et je dis ces mots: «Seigneur, ils ne m’écouteront pas; ils ont toutes choses en abondance, ils ne sont pas prêts pour écouter». A peine avais-je prononcé ces derniers mots, que le Seigneur parlât une seconde fois:
+
+> «Mon serviteur, le temps viendra où ils t’écouteront. Emmagasine la nourriture car une grande famine arrive. Alors tu te tiendras au milieu du peuple pour distribuer la nourriture».
+
+Bien-aimés, vous qui vivez dans différents pays et continents, vous ne pouvez pas pleinement comprendre ma situation. Mais c’était en 1961 et 1962 alors que le point culminant de la guerre froide était atteint; il y avait la crise de Cuba, la crise de Berlin. Et à Berlin, les tanks russes et américains étaient face à face, et nous pensions qu’à n’importe quel moment une tragédie pouvait survenir dans notre pays. Parce que les aliments naturels avaient été mentionnés, je fis au mieux de ma connaissance; je dis à la petite congrégation ce que le Seigneur m’avait dit et nous emmagasinâmes des aliments de tout genre. Mais il n’y eut aucune famine; il n’y eut aucune tragédie; mais en ce qui me concernait quelque chose m’arriva et je dis: «Seigneur, je ne peux plus vivre; je ne peux plus prêcher… parce que tu as parlé et cela ne s’est pas réalisé». Alors la pensée me vint que je devais prendre l’avion et rencontrer frère Branham, m’attendant à ce que le Seigneur l’utilise pour me parler et me donner une réponse. Je ne voulais pas attendre le 31 décembre de cette année 62. Ainsi, c’était un lundi, le 3 décembre, que je me trouvais en compagnie de frère Branham, frère Banks Wood et frère Sothman assis dans la même voiture. Frère Branham étais assis derrière le volant, et j’étais à sa droite. Il vint me prendre de l’endroit où j’habitais et nous eûmes un repas ensemble. Frère Branham parlât des réunions en Allemagne, en Suisse, alors que nous continuions la conversation, le moment vint où je lui dis: «Frère Branham, je voudrais te demander quelque chose». C’est alors que sa main droite se leva légèrement de cette manière; et il dit: «Frère Frank, puis-je te dire ce que le Seigneur t’a dit?». Et mes amis, vous pouvez le croire ou pas, mais j’ai des frères d’autres pays qui ont fait le voyage jusqu’aux Etats-Unis pour demander à Banks Wood et à frère Sothman s’ils étaient là lorsque frère Branham me parlât. Ils sont revenus en Europe, de l’Allemagne, de la France et d’autres pays, confirmant avoir entendu de leurs lèvres le témoignage que je vous donne maintenant. Frère Branham répéta les paroles mot à mot, phrase par phrase, dans l’ordre précis dans lequel le Seigneur m’avait parlé en Allemagne. A partir de cet instant, je ne pouvais plus dire un mot. La présence de Dieu était si puissante. Ensuite, après m’avoir répété ce que le Seigneur m’avait dit, il me dit:
+
+> «Frère Frank, tu as mal compris ce que le Seigneur a dit. Tu avais l’impression qu’il y aurai une tragédie naturelle et une famine naturelle et ainsi tu as emmagasiné de la nourriture naturelle».
+
+Il continua et dit:
+
+> «Dieu enverra une famine d’entendre sa Parole. Et la nourriture qui doit être emmagasinée est la Parole promise de Dieu pour ce temps, révélée par le Saint-Esprit, et qui est gardée dans des prédications qui sont sur des bandes».
+
+Frère Branham a utilisé le mot bandes lorsqu’il a fait cette déclaration. Bien sûr, depuis septembre 1958, je recevais toutes les prédications que frère Branham donnait en Amérique. Trois semaines après, je les recevais en Allemagne et c’est ainsi que j’ai réellement grandi sous son ministère, année après année. Cela était ordonné par le Dieu Tout-Puissant de cette manière-là. Les derniers mots qu’il dit ce 3 décembre dans cette conversation furent:
+
+> «Frère Frank attends pour la distribution de la nourriture, jusqu’à ce que tu reçoives le reste de la nourriture qui va avec».
+
+Cette partie, je ne l’avais pas comprise, mais je n’avais pas osé demander ce que cela voulait dire. Ainsi, par la grâce de Dieu, nous devons comprendre que c’était au moment où le Seigneur m’avait parlé, que l’ange du Seigneur avait parlé à frère Branham:
+
+> «Ne fais pas ton voyage à Zurich, en Suisse pour une seule réunion avec les hommes d’affaires du Full Gospel. Mais retourne à Jeffersonville et emmagasine la nourriture».
+
+Vous tous qui êtes en relation avec le message de l’heure, vous savez qu’il en a parlé au moins trois fois, disant de quelle manière cela lui fut dit et comment il devait emmagasiner la nourriture, par la grâce de Dieu.
+
+Maintenant, venons-en à l’année 1963, lorsque les sept sceaux furent ouverts conformément à la vision qui avait été montrée à frère Branham le 22 décembre 1962. Lorsque j’étais là avec lui, il me dit qu’en janvier 1963, il déménagerait avec sa famille pour aller à Tucson. Je ne connaissais pas seulement frère Branham par les prédications, mais j’étais allé dans sa maison; j’étais allé avec lui dans la même voiture, et ainsi de suite. Mais la connexion que j’avais avec lui n’était pas dans le domaine naturel, mais bien dans le spirituel. Ainsi après avoir reçu la révélation des sept sceaux, il fût mal compris par les évangélistes qui avaient pourtant reçu leur inspiration lors de l’une de ses réunions.
+
+Si vous retournez au 7 mai 1946, vous n’y trouverez aucun mot, aucune mention de qui que ce soit tel que Billy Graham, Oral Roberts, ou quelque autre de ces évangélistes. C’était bien William Branham qui avait reçu un visiteur du ciel, un ange qui vint vers lui le 7 mai 1946. Je crois cela de tout mon coeur. Et cela est aussi vrai que je crois qu’un ange était apparu à Zacharie, selon Luc 1, se tenant à la droite de l’autel et lui donnant la promesse qu’Elisabeth aurait un fils qui allait marcher devant le Seigneur pour préparer Son chemin. De même que l’Ange était venu vers Marie, comme cela nous est relaté dans Luc 1, lui donnant la parole de la promesse que le Messie allait naître. Si vous regardez dans l’Ancien et le Nouveau Testament, vous verrez que chaque fois que le surnaturel se manifestait sur la terre, Dieu travaillait d’une manière mystérieuse pour accomplir Ses merveilles, Son conseil. Vous pouvez lire dans le Nouveau Testament, qu’un ange ouvrit les portes de la prison pour que Pierre puisse sortir; un ange apparut à Corneille, lui disant qu’il devait appeler Simon qui lui annoncerait la voie à suivre et les paroles qu’il devait écouter; un ange vint à Paul lui disant ce qui devait arriver. Si vous allez dans le dernier livre de la Bible, un ange apparut à Jean dans l’île de Patmos lui montrant tout ce que les serviteurs de Dieu devaient connaître et qui devait bientôt arriver. Dans Apocalypse 22.6, il est confirmé à nouveau que le Seigneur Dieu avait envoyé Son ange. Et Il a envoyé des anges chaque fois que quelque chose de très spécial arrivait. Lorsque notre Seigneur naquit, selon Luc 2, toute l’armée céleste descendit, chantant, et la lumière brilla au-dessus de Bethléhem et de toute la région, la nuit fut illuminée et un ange proclama:
+
+> “C’est qu’aujourd’hui, dans la ville de David, il vous est né un Sauveur, qui est le Christ, le Seigneur”.
+
+Si vous allez dans l’Ancien Testament, et plus spécialement dans le prophète Daniel à qui furent montrées des choses en relation avec le temps de la fin, l’ange vint vers lui et il lui fut dit qu’il devait expliquer au prophète les choses qu’il lui montrait.
+
+Bien-aimés, Dieu ne demandera à personne la permission, Il fera tout ce qu’Il s’est proposé de faire, et bénis sont ceux qui ne discutent pas, qui ne rejettent pas ce que Dieu fait. Au moment où le conseil de Dieu arrive à son accomplissement et que prend place la Parole Promise, Dieu agit. Et cela tout spécialement si un prophète promis apparaît sur la scène, c’est le temps pour nous de savoir que Dieu est en train de faire l’histoire. Ce n’est pas à toi, homme, de juger. Il fait cela pour que tu respectes Dieu et que tu parviennes à la compréhension de ce qu’Il est en train de faire, conformément au plan du Salut.
+
+Nous devons maintenant aller un peu plus loin. Nous savons que frère Branham fut repris d’entre nous à peu près en ce temps-ci, en décembre 1965 et maintenant nous sommes à la même date, en décembre 1997. Toutes ces années se sont écoulées et nous voyons que Dieu ne s’est pas arrêté en décembre 1965; en réalité le travail vient à peine de commencer.
 
 JE SUIS UN VRAI TEMOIN 7
    Voici ce qui s’est passé le 24 décembre. Ce que je dis, je le dis la Bible devant moi. Je vis en
@@ -637,9 +495,6 @@ visitation de Dieu. Si vous pouvez réaliser le but du ministère prophétique p
 Dieu pour nos jours, te Seigneur Dieu, le Dieu d’Abraham, d’Isaac et de Jacob sera avec vous!
 Qu’Il vous bénisse! Qu’Il vous utilise puissamment. C’est là ma prière. Et je souhaiterais vous
 entendre, recevoir de vos nouvelles, dans le Saint Nom de Jésus-Christ. Amen!
-
-
-
 
 
 

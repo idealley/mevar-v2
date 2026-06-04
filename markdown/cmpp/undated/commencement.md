@@ -1,544 +1,232 @@
-AU COMMENCEMENT
-ETAIT
-LA PAROLE
-—
-PAS L’INTERPRETATION
-
-
+---
+source: "cmpp"
+sermon_id: "commencement"
+title: "AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION"
+subtitle: "ACCUSATION — AVERTISSEMENT — CLARIFICATION"
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Ewald Frank accuse le clergé mondial d'avoir falsifié la Parole de Dieu par des interprétations humaines, en particulier la doctrine trinitaire et la formule baptismale. Il appelle à un retour à la pratique apostolique, soulignant que toute action dans la Bible était faite au nom de Jésus-Christ, non dans la formule trinitaire. Il dénonce les conciles historiques et les traditions ecclésiastiques comme sources de tromperie."
+tags:
+  - "Parole de Dieu"
+  - "interprétation"
+  - "Trinité"
+  - "baptême"
+  - "apostasie"
+  - "tromperie religieuse"
+persons:
+  - "Ewald Frank"
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Paul"
+  - "Pierre"
+  - "Jean"
+  - "Constantin"
+  - "Athanase"
+  - "Tertullien"
+  - "Augustin"
+places:
+  - "Nicée"
+  - "Constantinople"
+  - "Rome"
+  - "Jérusalem"
+  - "Bethléem"
+themes:
+  - "autorité de la Parole"
+  - "falsification doctrinale"
+  - "Trinité vs. révélation biblique"
+  - "baptême au nom de Jésus"
+  - "jugement dernier"
+  - "retour à l'Église primitive"
+pdf_url: "http://cmpp.ch/commencement.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 16"
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 15"
+  - "1 Corinthiens 16"
+  - "1 Corinthiens 2"
+  - "1 Corinthiens 3"
+  - "1 Corinthiens 4"
+  - "1 Corinthiens 6"
+  - "1 Jean 1"
+  - "1 Jean 2"
+  - "1 Jean 3"
+  - "1 Jean 4"
+  - "1 Jean 5"
+  - "1 Pierre 2"
+  - "1 Rois 17"
+  - "1 Rois 18"
+  - "1 Rois 8"
+  - "1 Thessaloniciens 4"
+  - "1 Timothée 1"
+  - "1 Timothée 2"
+  - "1 Timothée 3"
+  - "1 Timothée 4"
+  - "1 Timothée 6"
+  - "2 Chroniques 18"
+  - "2 Corinthiens 11"
+  - "2 Corinthiens 3"
+  - "2 Corinthiens 4"
+  - "2 Corinthiens 5"
+  - "2 Corinthiens 6"
+  - "2 Samuel 7"
+  - "2 Timothée 3"
+  - "2 Timothée 4"
+  - "Actes 1"
+  - "Actes 10"
+  - "Actes 11"
+  - "Actes 13"
+  - "Actes 17"
+  - "Actes 2"
+  - "Actes 20"
+  - "Actes 3"
+  - "Actes 7"
+  - "Actes 8"
+  - "Amos 3"
+  - "Amos 6"
+  - "Amos 8"
+  - "Apocalypse 1"
+  - "Apocalypse 14"
+  - "Apocalypse 17"
+---
+AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION
 
 ACCUSATION — AVERTISSEMENT — CLARIFICATION
 
+Sans passer par l’introduction habituelle, venons-en directement au fait. Pour toute critique et jurisprudence concernant les affaires bibliques — doctrines ou pratiques — qui sont l’objet d’une discussion, Dieu a déjà décidé et montré par Sa Parole ce qui est valable. C’est pourquoi dans cet exposé nous n’emploierons que la Parole de Dieu, éternelle et incorruptible telle qu’Elle se trouve dans la Bible. C’est Elle qui sera aussi employée au «dernier jour», lors du «jugement final» et de la jurisprudence finale. Maintenant, comme lors d’une instruction, une accusation doit être élevée devant la justice de Dieu, un avertissement doit être donné afin qu’une clarification soit possible.
 
+L’accusation est la suivante: tromperie religieuse continuelle. Comme nous le verrons, tout en se réclamant de Dieu et de la religion, l’humanité est encore et toujours conduite dans le mensonge et la tromperie. S’il n’y avait rien qu’une chance de pouvoir changer après la mort notre destinée éternelle, personne ne se donnerait la peine d’élever cette accusation. Cependant il est écrit “Et comme il est réservé aux hommes de mourir une fois, — et après cela le jugement…” (Hébreux 9.27).
 
+L’accusation n’est pas dirigée contre un inconnu, mais en premier lieu contre l’ensemble du clergé sur toute la terre. Du point de vue humain on pourrait invoquer des circonstances atténuantes, parce que nous sommes véritablement tous nés trompés, nés dans des traditions héritées. Mais du point de vue de Dieu il n’y a aucune excuse, parce qu’Il nous a laissé la Bible comme seule norme valable. C’est ainsi que le Seigneur Jésus dit: “Moi, je suis venu dans le monde, la lumière, afin que quiconque croit en moi ne demeure pas dans les ténèbres. Et si quelqu’un entend mes paroles et ne les garde pas, moi, je ne le juge pas; car je ne suis pas venu afin de juger le monde, mais afin de sauver le monde. Celui qui me rejette et qui ne reçoit pas mes paroles, a qui le juge; la parole que j’ai dite, celle-là le jugera au dernier jour” (Jean 12.46-48).
 
-EWALD FRANK
+Tous étudient les Saintes Ecritures, mais à cause de leur manière personnelle de voir, ils parviennent à des résultats tout à fait différents. Faire des recherches et étudier ne suffit pas, et c’est ce que fait l’ensemble du clergé. Cela doit commencer par une expérience personnelle de salut et en suivant premièrement Jésus-Christ. Il est véritablement le point central de toute la révélation de Dieu et en Lui se trouvent cachés tous les trésors de la sagesse et de la connaissance (Colossiens 2.2-3). C’est pourquoi il est écrit: “Sondez les écritures, car vous, vous estimez avoir en elles la vie éternelle, et ce sont elles qui rendent témoignage de moi: — et vous ne voulez pas venir à moi pour avoir la vie” (Jean 5.39-40).
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    2
+C’est tout aussi fondamentalement inadmissible d’apporter son propre point de vue sur un thème biblique. Chacun doit se placer sous le jugement de la Parole. Le Juge suprême ne prononcera le jugement, aujourd’hui comme au dernier jour, uniquement qu’en conformité avec Sa Parole. L’apôtre Paul écrit: “…car nous comparaîtrons tous devant le tribunal de Dieu…” (Romains 14.10). Dans la deuxième lettre aux Corinthiens il souligne encore une fois: “C’est pourquoi aussi… nous nous appliquons avec ardeur à lui être agréables; car il faut que nous soyons tous manifestés devant le tribunal du Christ…” (2 Corinthiens 5.9-10). Le jugement final est clairement placé devant nos yeux dans Apocalypse 20, à partir du verset 11.
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION
+Il s’agit maintenant que tous ceux qui se réclament de Dieu laissent valoir les doctrines bibliques et les pratiques du temps des apôtres. En effet ces derniers nous les ont laissées comme modèles. Après Sa résurrection, le Seigneur enseigna Ses disciples pendant les quarante jours précédents Son ascension (Luc 24.50-51). C’est seulement après cela, qu’à Ses apôtres élus auxquels Il avait rendu témoignage d’être vivant (Actes 1.1-3), qu’Il commanda de faire de toutes les nations des disciples et de leur enseigner à garder toutes les choses qu’Il leur avait commandées (Mat. 28.20). Cela arriva et s’accomplit encore, au travers de tous les véritables serviteurs de Dieu, depuis la première prédication de Pierre le jour de Pentecôte, et cela sera encore dans la dernière prédication la même doctrine et la même pratique. C’est ainsi que s’accomplit la Parole du prophète Ésaïe 54.13: “Et tous tes fils seront enseignés de l’Eternel, et la paix de tes fils sera grande”. Dans l’Evangile de Jean, le Seigneur se rapporta à cette Parole et dit: “Il est écrit dans les prophètes: «Et ils seront tous enseignés de Dieu». Quiconque a entendu le Père et a appris de Lui, vient à moi” (Jean 6.45).
 
-        ACCUSATION — AVERTISSEMENT — CLARIFICATION
-   Sans passer par l’introduction habituelle, venons-en directement au fait. Pour toute critique et
-jurisprudence concernant les affaires bibliques — doctrines ou pratiques — qui sont l’objet d’une
-discussion, Dieu a déjà décidé et montré par Sa Parole ce qui est valable. C’est pourquoi dans cet
-exposé nous n’emploierons que la Parole de Dieu, éternelle et incorruptible telle qu’Elle se
-trouve dans la Bible. C’est Elle qui sera aussi employée au «dernier jour», lors du «jugement
-final» et de la jurisprudence finale. Maintenant, comme lors d’une instruction, une accusation doit
-être élevée devant la justice de Dieu, un avertissement doit être donné afin qu’une clarification soit
-possible.
-   L’accusation est la suivante: tromperie religieuse continuelle. Comme nous le verrons, tout en
-se réclamant de Dieu et de la religion, l’humanité est encore et toujours conduite dans le
-mensonge et la tromperie. S’il n’y avait rien qu’une chance de pouvoir changer après la mort notre
-destinée éternelle, personne ne se donnerait la peine d’élever cette accusation. Cependant il est
-écrit “Et comme il est réservé aux hommes de mourir une fois, — et après cela le jugement…”
-(Hébreux 9.27).
-   L’accusation n’est pas dirigée contre un inconnu, mais en premier lieu contre l’ensemble du
-clergé sur toute la terre. Du point de vue humain on pourrait invoquer des circonstances
-atténuantes, parce que nous sommes véritablement tous nés trompés, nés dans des traditions
-héritées. Mais du point de vue de Dieu il n’y a aucune excuse, parce qu’Il nous a laissé la Bible
-comme seule norme valable. C’est ainsi que le Seigneur Jésus dit: “Moi, je suis venu dans le
-monde, la lumière, afin que quiconque croit en moi ne demeure pas dans les ténèbres. Et si
-quelqu’un entend mes paroles et ne les garde pas, moi, je ne le juge pas; car je ne suis pas
-venu afin de juger le monde, mais afin de sauver le monde. Celui qui me rejette et qui ne reçoit
-pas mes paroles, a qui le juge; la parole que j’ai dite, celle-là le jugera au dernier jour”
-(Jean 12.46-48).
-   Tous étudient les Saintes Ecritures, mais à cause de leur manière personnelle de voir, ils
-parviennent à des résultats tout à fait différents. Faire des recherches et étudier ne suffit pas, et
-c’est ce que fait l’ensemble du clergé. Cela doit commencer par une expérience personnelle de
-salut et en suivant premièrement Jésus-Christ. Il est véritablement le point central de toute la
-révélation de Dieu et en Lui se trouvent cachés tous les trésors de la sagesse et de la
-connaissance (Colossiens 2.2-3). C’est pourquoi il est écrit: “Sondez les écritures, car vous, vous estimez
-avoir en elles la vie éternelle, et ce sont elles qui rendent témoignage de moi: — et vous ne
-voulez pas venir à moi pour avoir la vie” (Jean 5.39-40).
-   C’est tout aussi fondamentalement inadmissible d’apporter son propre point de vue sur un
-thème biblique. Chacun doit se placer sous le jugement de la Parole. Le Juge suprême ne
-prononcera le jugement, aujourd’hui comme au dernier jour, uniquement qu’en conformité avec
-Sa Parole. L’apôtre Paul écrit: “…car nous comparaîtrons tous devant le tribunal de Dieu…”
-(Romains 14.10). Dans la deuxième lettre aux Corinthiens il souligne encore une fois: “C’est pourquoi
-aussi… nous nous appliquons avec ardeur à lui être agréables; car il faut que nous soyons tous
-manifestés devant le tribunal du Christ…” (2 Corinthiens 5.9-10). Le jugement final est clairement
-placé devant nos yeux dans Apocalypse 20, à partir du verset 11.
-   Il s’agit maintenant que tous ceux qui se réclament de Dieu laissent valoir les doctrines
-bibliques et les pratiques du temps des apôtres. En effet ces derniers nous les ont laissées
-comme modèles. Après Sa résurrection, le Seigneur enseigna Ses disciples pendant les
-quarante jours précédents Son ascension (Luc 24.50-51). C’est seulement après cela, qu’à Ses
-apôtres élus auxquels Il avait rendu témoignage d’être vivant (Actes 1.1-3), qu’Il commanda de
-faire de toutes les nations des disciples et de leur enseigner à garder toutes les choses
-qu’Il leur avait commandées (Mat. 28.20). Cela arriva et s’accomplit encore, au travers de tous
-les véritables serviteurs de Dieu, depuis la première prédication de Pierre le jour de Pentecôte, et
-cela sera encore dans la dernière prédication la même doctrine et la même pratique. C’est ainsi
-que s’accomplit la Parole du prophète Ésaïe 54.13: “Et tous tes fils seront enseignés de
+L’accusation sera élevée contre tous ceux qui ont changé la Parole originelle de Dieu telle qu’Elle se trouve dans la Bible; elle s’élèvera contre ceux qui L’ont changée et en ont faussé les doctrines. Maintenant l’humanité doit entendre encore une fois le Message divin prêché clairement et en vérité dans Sa version originale. Il est déplorable que tous les scribes modernes et lettrés des Ecritures, ainsi que tout le monde religieux s’en aillent leur propre chemin; ils parlent du salut, mais ils ne marchent pas sur le chemin du salut tel qu’il était dans le Christianisme primitif.
 
-                      http://www.cmpp.ch
+Au cours de mon ministère de prédicateur, de plus de quarante années, j’ai été conduit dans plus de 130 pays et également dans presque toutes les confessions et églises de cette terre. A cause de cela je peux dire que je suis bien placé pour être au courant de ce qui se passe dans le monde religieux. Partout maintenant l’esprit oecuménique supplante avec force l’esprit de parti religieux, et il conduit doucement dans le “multi-culte-système”, dans la «Communauté Mondiale des Etats», où chacun trouve une place. Ainsi, par exemple, le soi-disant «Credo apostolique», plus précisément «Credo de Nicée–Chalcédoine», est formulé seulement en 325 et 381 après Christ, est devenu plus ou moins le bien commun de la plupart des communautés de foi chrétiennes. Il y est dit entre autre: «Je crois en une seule Eglise sainte, catholique… à la communion des saints…». Une confession de foi en douze points m’a été présentée dans une communauté du Plein Evangile, en Extrême–Orient. Le neuvième point était le passage que nous venons de mentionner. Quelque chose de semblable m’est de nouveau arrivé il y a peu de temps, dans une capitale de l’Amérique centrale, lorsque le président des Eglises pentecôtistes, encore avant même que j’aie enregistré mon nom à l’hôtel, me sollicita à signer tout de suite leur «confession de foi». Ce n’est qu’après avoir signé cela que toutes les portes dans le pays m’auraient été ouvertes pour des conférences. Cependant, déjà à cause du premier paragraphe je n’aurais pu en toute bonne conscience signer. Dieu soit remercié qu’Il changea les sentiments de cet homme, lequel m’ouvrit toutes les portes.
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    3
-l’Eternel, et la paix de tes fils sera grande”. Dans l’Evangile de Jean, le Seigneur se rapporta à
-cette Parole et dit: “Il est écrit dans les prophètes: «Et ils seront tous enseignés de Dieu».
-Quiconque a entendu le Père et a appris de Lui, vient à moi” (Jean 6.45).
-   L’accusation sera élevée contre tous ceux qui ont changé la Parole originelle de Dieu telle
-qu’Elle se trouve dans la Bible; elle s’élèvera contre ceux qui L’ont changée et en ont faussé les
-doctrines. Maintenant l’humanité doit entendre encore une fois le Message divin prêché
-clairement et en vérité dans Sa version originale. Il est déplorable que tous les scribes
-modernes et lettrés des Ecritures, ainsi que tout le monde religieux s’en aillent leur propre chemin;
-ils parlent du salut, mais ils ne marchent pas sur le chemin du salut tel qu’il était dans le
-Christianisme primitif.
-   Au cours de mon ministère de prédicateur, de plus de quarante années, j’ai été conduit dans
-plus de 130 pays et également dans presque toutes les confessions et églises de cette terre. A
-cause de cela je peux dire que je suis bien placé pour être au courant de ce qui se passe dans le
-monde religieux. Partout maintenant l’esprit oecuménique supplante avec force l’esprit de parti
-religieux, et il conduit doucement dans le “multi-culte-système”, dans la «Communauté Mondiale
-des Etats», où chacun trouve une place. Ainsi, par exemple, le soi-disant «Credo apostolique»,
-plus précisément «Credo de Nicée–Chalcédoine», est formulé seulement en 325 et 381 après
-Christ, est devenu plus ou moins le bien commun de la plupart des communautés de foi
-chrétiennes. Il y est dit entre autre: «Je crois en une seule Eglise sainte, catholique… à la
-communion des saints…». Une confession de foi en douze points m’a été présentée dans une
-communauté du Plein Evangile, en Extrême–Orient. Le neuvième point était le passage que nous
-venons de mentionner. Quelque chose de semblable m’est de nouveau arrivé il y a peu de temps,
-dans une capitale de l’Amérique centrale, lorsque le président des Eglises pentecôtistes, encore
-avant même que j’aie enregistré mon nom à l’hôtel, me sollicita à signer tout de suite leur
-«confession de foi». Ce n’est qu’après avoir signé cela que toutes les portes dans le pays
-m’auraient été ouvertes pour des conférences. Cependant, déjà à cause du premier paragraphe je
-n’aurais pu en toute bonne conscience signer. Dieu soit remercié qu’Il changea les sentiments de
-cet homme, lequel m’ouvrit toutes les portes.
-   Ces derniers temps, ce qui me trouble profondément lors de mes voyages missionnaires, c’est
-la pratique très répandue de terminer la prière finale par la formule: «Au Nom du Père, et du Fils,
-et du Saint-Esprit». En plus, ce qui est vraiment déconcertant, c’est que l’on prie ensuite pour la
-louange du Père, puis pour celle du Fils, et finalement pour celle du Saint-Esprit; chaque fois le
-même temps y est consacré car, dit-on, «tous les trois» sont dignes du même honneur et de la
-même adoration. Lorsqu’il est dit: «Maintenant nous voulons saluer la personne du Saint-Esprit
-avec des applaudissements et Lui souhaiter une bienvenue toute particulière par un: ‹Bonsoir,
-Saint-Esprit›», c’est vraiment aller trop loin: c’est déjà du blasphème! Quelle valeur, pour de telles
-personnes, peut bien avoir la manière vraiment apostolique: “Béni soit le Dieu et Père de notre
-Seigneur Jésus-Christ, qui nous a bénis de toute bénédiction spirituelle dans les lieux
-célestes en Christ” (Éphésiens 1.3, et autres)? Presque partout également, lors de la prière finale,
-n’est employée qu’une formule, à savoir: “La grâce du Seigneur Jésus-Christ, et l’amour de Dieu,
-et la communion du Saint-Esprit, soient avec vous tous!”. Celui qui lit les épîtres de Paul
-constatera qu’il n’a absolument pas pensé à établir une norme ou une forme quelconque, car
-chacune de ses lettres se termine de façon différente. L’épître aux Romains a même deux
-salutations finales et elles ne sont absolument pas semblables: “Or, que le Dieu de paix soit avec
-vous tous! Amen!” (Romains 15.33). “… au Dieu qui seul est sage, par Jésus-Christ — auquel soit la
-gloire éternellement! Amen!” (Romains 16.27). Dans la dernière ligne du dernier livre de la Bible, il est
-dit: “Que la grâce du Seigneur Jésus-Christ soit avec tous les saints”. Pourquoi donc quelqu’un
-devrait-il introduire une formule fixe, et ne pas permettre que le Saint-Esprit puisse conduire
-librement?
-   De tels événements, ainsi que maints autres encore, sont les motifs qui m’ont amené à cet
-exposé qui doit, en même temps, représenter un défi et une mise en garde. Qu’est-ce qui est
-réellement écrit dans les Saintes Ecritures, et qu’est-ce qui vient à être interprété et
-compris? Que pratiquaient réellement les apôtres et que peut-il leur être attribué? C’est ce qui
-doit être demandé et aussi clairement démontré! Qu’est-ce qui est Parole de Dieu, et qu’est-ce qui
-est interprétation?
+Ces derniers temps, ce qui me trouble profondément lors de mes voyages missionnaires, c’est la pratique très répandue de terminer la prière finale par la formule: «Au Nom du Père, et du Fils, et du Saint-Esprit». En plus, ce qui est vraiment déconcertant, c’est que l’on prie ensuite pour la louange du Père, puis pour celle du Fils, et finalement pour celle du Saint-Esprit; chaque fois le même temps y est consacré car, dit-on, «tous les trois» sont dignes du même honneur et de la même adoration. Lorsqu’il est dit: «Maintenant nous voulons saluer la personne du Saint-Esprit avec des applaudissements et Lui souhaiter une bienvenue toute particulière par un: ‹Bonsoir, Saint-Esprit›», c’est vraiment aller trop loin: c’est déjà du blasphème! Quelle valeur, pour de telles personnes, peut bien avoir la manière vraiment apostolique: “Béni soit le Dieu et Père de notre Seigneur Jésus-Christ, qui nous a bénis de toute bénédiction spirituelle dans les lieux célestes en Christ” (Éphésiens 1.3, et autres)? Presque partout également, lors de la prière finale, n’est employée qu’une formule, à savoir: “La grâce du Seigneur Jésus-Christ, et l’amour de Dieu, et la communion du Saint-Esprit, soient avec vous tous!”. Celui qui lit les épîtres de Paul constatera qu’il n’a absolument pas pensé à établir une norme ou une forme quelconque, car chacune de ses lettres se termine de façon différente. L’épître aux Romains a même deux salutations finales et elles ne sont absolument pas semblables: “Or, que le Dieu de paix soit avec vous tous! Amen!” (Romains 15.33). “… au Dieu qui seul est sage, par Jésus-Christ — auquel soit la gloire éternellement! Amen!” (Romains 16.27). Dans la dernière ligne du dernier livre de la Bible, il est dit: “Que la grâce du Seigneur Jésus-Christ soit avec tous les saints”. Pourquoi donc quelqu’un devrait-il introduire une formule fixe, et ne pas permettre que le Saint-Esprit puisse conduire librement?
 
-    http://www.cmpp.ch
-
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    4
+De tels événements, ainsi que maints autres encore, sont les motifs qui m’ont amené à cet exposé qui doit, en même temps, représenter un défi et une mise en garde. Qu’est-ce qui est réellement écrit dans les Saintes Ecritures, et qu’est-ce qui vient à être interprété et compris? Que pratiquaient réellement les apôtres et que peut-il leur être attribué? C’est ce qui doit être demandé et aussi clairement démontré! Qu’est-ce qui est Parole de Dieu, et qu’est-ce qui est interprétation?
 
 
 AINSI COMMENÇA LA TROMPERIE
 
-   Les premiers hommes, en qui nous avons tous été représentés, sont tombés dans le péché
-parce qu’ils ont écouté l’ennemi qui a faussé la Parole pour Eve, et de cette façon il a porté le
-premier mensonge sur la terre. La chose est généralement connue. Nous avons tous expérimenté
-le même sort et n’avons pas résisté à la tentation. Comme cela est arrivé lors de la chute dans le
-péché, nous tous sommes nés dans ce monde par l’engendrement charnel. Ainsi la mort nous a
-tous rejoint.
-   Depuis que la rédemption a été pleinement accomplie, l’ennemi a toujours réussi à tordre la
-Parole pour les croyants superficiels, et à rendre croyables ses mensonges religieux. L’Eglise
-primitive n’est demeurée qu’un temps très court dans la pure doctrine divine. La confession: “Un
-seul Seigneur, une seule foi, un seul baptême” (Éphésiens 4.5) fut bien vite laissée hors d’attention par
-les “falsificateurs”. Paul, en particulier, a dû déjà s’expliquer avec les faux docteurs au sujet de
-leurs doctrines non bibliques, lesquelles viennent toujours des démons (1 Tim. chap. 4). Il dit à
-l’avance que des hommes s’élèveraient dans l’Eglise et qu’ils enseigneraient de fausses doctrines.
-Cela arriva, bien qu’il ait prêché tout le conseil de Dieu et qu’il ait établi des anciens dans l’Eglise
-sous la direction du Saint-Esprit (Actes 20.24-32). Lui-même et les autres apôtres mirent en garde
-les croyants contre ceux qui provoquent des divisions et s’éloignent de la saine doctrine.
-   Cela remonte au jardin d’Eden. C’est là que tout a commencé. Le Seigneur Dieu avait
-clairement parlé, en avertissant: “… mais de l’arbre de la connaissance du bien et du mal, tu n’en
-mangeras pas; car, au jour que tu en mangeras, tu mourras certainement” (Genèse 2.17). Dieu pense
-toujours ce qu’Il dit, et Il dit toujours ce qu’Il pense. L’ennemi tord la Parole et La tourne, il La
-remet en question et dit: “Quoi, Dieu a dit: Vous ne mangerez pas de tout arbre du jardin?”. Et il
-dit: “Vous ne mourrez point certainement; car Dieu sait qu’au jour où vous en mangerez vos yeux
-seront ouverts, et vous serez comme Dieu, connaissant le bien et le mal” (Genèse 3.1-7). Oui, et
-lorsque cela arriva, leurs yeux s’ouvrirent réellement. Cependant, par la chute dans le péché, ils se
-retrouvèrent nus et séparés de Dieu. Les feuilles de figuier ne suffirent pas pour couvrir leur honte;
-aujourd’hui encore cela ne sert à aucun de chercher à couvrir la honte de la chute de l’Eglise dans
-le péché par la feuille de figuier de quelque religion que ce soit.
-   L’ennemi vient toujours d’une manière très pieuse, comme un ange de lumière
-(2 Cor. chap. 11), et avec le: “Il est écrit!”. Les deux viennent d’une inspiration: ce qui est vrai et ce
-qui est faux. Ce qui est authentique, provenant de l’Esprit de Dieu, prouve constamment sa
-véracité, car “… de saints hommes de Dieu ont parlé, étant poussés par l’Esprit-Saint”
-(2 Pier. 1.20-21).
-   Comme avertissement il est écrit: “Or l’Esprit dit expressément qu’aux derniers temps
-quelques-uns apostasieront de la foi, s’attachant à des esprits séducteurs et à des
-enseignements de démons” (1 Timothée 4.1).
-   “Car il y aura un temps où ils ne supporteront pas le sain enseignement; mais, ayant des
-oreilles qui leur démangent, ils s’amasseront des docteurs selon leurs propres convoitises, et ils
-détourneront leurs oreilles de la vérité et se tourneront vers les fables” (2 Timothée 4.3-4).
-   “Or il y a eu aussi de faux prophètes parmi le peuple, comme aussi il y aura parmi vous de
-faux docteurs qui introduiront furtivement des sectes de perdition, reniant aussi le maître qui
-les a achetés, faisant venir sur eux-mêmes une prompte destruction” (2 Pier. 2.1).
-   Tout prédicateur doit se laisser poser la question, s’il prêche un quelconque “message
-chrétien”, ou s’il prêche le Message de Christ. Chacun, peu importe qu’il prêche ou qu’il écrive,
-doit s’éprouver lui-même et aussi se laisser éprouver, pour savoir s’il communique la vraie ou la
-fausse doctrine. Etre sincère ne suffit pas, car chacun l’est à sa manière. Il faut que soit établi
-comment chacun est classé du point de vue des Ecritures, car: “Toute écriture est inspirée de
-Dieu, et utile pour enseigner…” (2 Timothée 3.16-17). Les traditions et les convictions religieuses,
-même si l’Ecriture est citée, n’ont pas de valeur devant Dieu quand la signification de celle-ci et
-l’usage qui en est fait sont rapportés et employés de manière erronée. Après une recherche plus
-exacte il ne reste plus alors qu’une piété personnelle. Il s’agit donc maintenant de connaître la
+Les premiers hommes, en qui nous avons tous été représentés, sont tombés dans le péché parce qu’ils ont écouté l’ennemi qui a faussé la Parole pour Eve, et de cette façon il a porté le premier mensonge sur la terre. La chose est généralement connue. Nous avons tous expérimenté le même sort et n’avons pas résisté à la tentation. Comme cela est arrivé lors de la chute dans le péché, nous tous sommes nés dans ce monde par l’engendrement charnel. Ainsi la mort nous a tous rejoint.
 
-     http://www.cmpp.ch
+Depuis que la rédemption a été pleinement accomplie, l’ennemi a toujours réussi à tordre la Parole pour les croyants superficiels, et à rendre croyables ses mensonges religieux. L’Eglise primitive n’est demeurée qu’un temps très court dans la pure doctrine divine. La confession: “Un seul Seigneur, une seule foi, un seul baptême” (Éphésiens 4.5) fut bien vite laissée hors d’attention par les “falsificateurs”. Paul, en particulier, a dû déjà s’expliquer avec les faux docteurs au sujet de leurs doctrines non bibliques, lesquelles viennent toujours des démons (1 Tim. chap. 4). Il dit à l’avance que des hommes s’élèveraient dans l’Eglise et qu’ils enseigneraient de fausses doctrines. Cela arriva, bien qu’il ait prêché tout le conseil de Dieu et qu’il ait établi des anciens dans l’Eglise sous la direction du Saint-Esprit (Actes 20.24-32). Lui-même et les autres apôtres mirent en garde les croyants contre ceux qui provoquent des divisions et s’éloignent de la saine doctrine.
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    5
-différence infinie qu’il y a entre la signification réelle de la Parole et les nombreuses
-interprétations faites à Son sujet.
-   Paul voulait présenter à Christ, l’Epoux céleste, une Eglise–Epouse pure, qui puisse rencontrer
-l’Epoux dans l’état d’une vierge non touchée, n’ayant commis aucune fornication spirituelle. Mais
-aussitôt il exprime la crainte que, comme le serpent séduisit Eve par sa ruse, ces croyants
-simples, qui écoutent fidèlement, soient aussi séduits si un autre Jésus leur est annoncé, un autre
-évangile leur est prêché, et un esprit étranger est à l’oeuvre (2 Corinthiens 11.1-4). Cependant, qui
-conviendra que nous sommes plus ou moins nés dans un Christianisme plus ou moins
-faussé? Ceux qui persistent dans leur erreur sans le savoir devront aussi prendre place sur le
-banc des accusés, car même le manque de connaissance religieuse ne nous met pas à l’abri de la
-punition. C’est à cela que devrait penser tout prédicateur, et il devrait éprouver ce qu’il dit à la
-lumière de la Parole de Dieu, pour connaître si, sans le savoir, il ne transmet pas un Evangile
-faussé. En effet, une personne surprise en train de transmettre un faux billet de banque doit
-s’attendre à être punie, même si elle n’a pas su que l’argent était faux.
-   Les croyants, qui sont généralement inconscients, se reposent sur les argumentations de
-l’ennemi, lesquelles continuent à être répandues par les scribes chrétiens. Eve ne remarqua
-aucunement qu’elle avait été trompée par l’ennemi et séduite, parce qu’il lui déforma si
-explicitement la Parole, La transformant au contraire, et par cela même L’empoisonna d’un venin
-mortel. Nous-mêmes, nous n’avons rien remarqué avant d’avoir été réveillés et éclairés. L’ennemi
-a commencé par apporter le doute sur ce que Dieu avait dit. Il était demeuré sur le thème, mais
-non sur la Vérité originelle de la Parole, telle qu’Elle était sortie de la bouche de Dieu. C’est
-en cela que consiste encore aujourd’hui la grande tromperie dans l’ensemble du monde religieux.
-Le diable n’a aucun thème qui lui est propre — la plupart ne comprennent pas cela. Il emploie
-toujours les thèmes religieux des dénominations. Il n’a pas de doctrine propre — il reprend
-élégamment la Parole de Dieu et La déforme. Ce sont les thèmes bibliques sur Dieu, sur le
-baptême, sur le Souper du Seigneur, et ainsi de suite, qu’il fait croire aux hommes dans une
-manière non biblique. Il vient avec le: “Il est écrit…” comme nous pouvons le lire dans Matthieu,
-chapitre 4. En ce temps-là il a arraché et séparé la Parole écrite de son contexte — c’est en
-cela que consiste la tentation proprement dite — et il le fait encore aujourd’hui sans que les
-hommes le réalisent, parce qu’ils supposent qu’il est toujours quelque part ailleurs. Aux uns il cite
-Matthieu 28.19, aux autres Jean 20.23, mais il se garde bien de mentionner le: “Mais il est aussi
-écrit” de Actes 2.38. Il élèvera toujours un passage biblique contre un autre passage — par contre
-l’Esprit de Dieu amène chaque passage biblique en harmonie avec l’autre.
-   Satan ne nie pas davantage Dieu que la Parole de Dieu. Mais il est occupé jour et nuit à
-endoctriner les hommes selon son point de vue des choses, et particulièrement ceux qui se
-trouvent dans toutes les écoles bibliques et les séminaires de prédicateurs, ainsi que l’ensemble
-du clergé. Dans le jardin d’Eden, la chute dans le péché du corps naturel était la conséquence de
-la séduction, et tout le monde en souffre encore aujourd’hui. Dans l’Eglise c’est l’apostasie à
-l’égard du SEUL vrai Dieu et de Sa Parole, qui par la désobéissance conduit à la déviation de la
-Parole, sous laquelle l’Eglise souffre encore et toujours.
-   Lors du premier Concile oecuménique de Nicée, en 325, les 250 représentants des divers
-courants religieux débattirent des thèmes bibliques, et plus spécialement sur Christ et la Divinité.
-On doit cependant se demander pour quelle raison les prophètes et les apôtres ne se sont jamais
-disputés sur ces thèmes?
-   Combien le ciel entier a-t-il dû pleurer et tout l’enfer se réjouir, lorsque le prince de ce monde a
-réussi à annuler la Parole de Dieu et à introduire à la place des théorèmes formulés par des
-hommes qui ne connaissaient pas du tout Dieu. L’hellénisme et les pensées philosophiques
-païennes ont visiblement dominé les pères de l’Eglise. Comme aucun d’entre eux ne connaissait
-la langue araméenne ou hébraïque pour pouvoir lire le texte original, aucun ne connaissait ni le
-caractère de l’Ancien Testament en rapport avec l’histoire du salut, ni le Dieu d’Israël. Tous
-avaient accepté le Christianisme comme religion, mais aucun n’avait reçu Christ comme
-Rédempteur et Seigneur. Aucun d’entre eux ne pouvait témoigner d’avoir reçu un appel divin.
-Nous pouvons lire, sous la plume d’écrivains réputés de l’histoire de l’Eglise, que tous les pères de
-l’Eglise, sans aucune exception, par leurs déclarations méchantes, ont semé la haine envers les
-Juifs. Ignace d’Antioche commença et tous suivirent son exemple: Justinien, Hippolyte, Cyprien,
+Cela remonte au jardin d’Eden. C’est là que tout a commencé. Le Seigneur Dieu avait clairement parlé, en avertissant: “… mais de l’arbre de la connaissance du bien et du mal, tu n’en mangeras pas; car, au jour que tu en mangeras, tu mourras certainement” (Genèse 2.17). Dieu pense toujours ce qu’Il dit, et Il dit toujours ce qu’Il pense. L’ennemi tord la Parole et La tourne, il La remet en question et dit: “Quoi, Dieu a dit: Vous ne mangerez pas de tout arbre du jardin?”. Et il dit: “Vous ne mourrez point certainement; car Dieu sait qu’au jour où vous en mangerez vos yeux seront ouverts, et vous serez comme Dieu, connaissant le bien et le mal” (Genèse 3.1-7). Oui, et lorsque cela arriva, leurs yeux s’ouvrirent réellement. Cependant, par la chute dans le péché, ils se retrouvèrent nus et séparés de Dieu. Les feuilles de figuier ne suffirent pas pour couvrir leur honte; aujourd’hui encore cela ne sert à aucun de chercher à couvrir la honte de la chute de l’Eglise dans le péché par la feuille de figuier de quelque religion que ce soit.
 
-    http://www.cmpp.ch
+L’ennemi vient toujours d’une manière très pieuse, comme un ange de lumière (2 Cor. chap. 11), et avec le: “Il est écrit!”. Les deux viennent d’une inspiration: ce qui est vrai et ce qui est faux. Ce qui est authentique, provenant de l’Esprit de Dieu, prouve constamment sa véracité, car “… de saints hommes de Dieu ont parlé, étant poussés par l’Esprit-Saint” (2 Pier. 1.20-21).
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    6
-Grégoire de Nisse, Origène, comme aussi Tertullien et Athanase, jusqu’à Chrysostome et
-Hieronymus, etc. Léon Ier, qui exerça le pouvoir depuis 441 et qui du point de vue protestant est
-généralement considéré comme le premier Pape, les surpassa tous. Ce ne sont que malédictions,
-méchantes accusations, déportations des Juifs, qui eurent lieu sous l’influence des princes de
-l’Eglise. La première conséquence concrète de l’influence des «pères des conciles», comme on
-les a appelés plus tard, fut manifestée déjà en 321, lorsque l’empereur Constantin décréta que les
-Juifs avaient l’interdiction, sous menace de sanctions, de célébrer le sabbat, mais il les obligeait
-par contre à respecter le dimanche. Beaucoup de synagogues furent fermées et devinrent des
-églises. Ce sont des citations du Nouveau Testament que Satan tordit pour les pères de l’Eglise et
-les influença à injurier les Juifs comme “meurtriers de Christ”, à les rejeter et à les maudire.
-Cependant, celui qui maudit Israël est maudit par Dieu (Nombres 24.9).
-   Après que l’empereur Théodose I (347-395) ait déclaré le 28 février 380 la foi trinitaire comme
-seule religion de l’Etat, et que le concile de Constantinople l’ai confirmée en mai 381, tous furent
-contraints à cette foi. Uniquement lors des sept croisades, entre 1095 et 1291, c’est-à-dire en à
-peine 200 ans, 22 millions de personnes furent mises à mort par l’Eglise d’Etat. «Deus lo vult!» —
-«Dieu le veut!» était le cri de guerre de Godefroi de Bouillon. L’ordre pour la première croisade est
-venu du pape Urbain II «au Nom du Père, du Fils et du Saint-Esprit». Avec un crucifix dans une
-main et une épée dans l’autre, les Croisés ont commis des massacres. Dans l’ensemble, jusqu’au
-Moyen-âge, 50 à 60 millions de personnes ont été les martyrs de l’«Eglise de la Trinité», qui était
-en même temps la puissance d’Etat dans le Saint Empire Romain.
-   Elle est coresponsable dans l’ère chrétienne de toutes les persécutions infligées aux Juifs.
-Beaucoup d’auteurs cherchent la cause réelle du terrible Holocauste qui a fait 6 millions de
-victimes. Des siècles ont passé sous la domination protestante prussienne sans qu’il y ait de
-persécution des Juifs. Celui qui a lu les livres de Daniel Goldhagen, et d’autres auteurs, sait quel
-est le rôle de l’Eglise de Rome. Depuis les jours des pères de l’Eglise, la semence antisémite
-semée au IVème siècle par ceux-ci est sans cesse réapparue, et cela également par Martin Luther,
-les Protestants, les Orthodoxes, et dans tout le Christianisme. Conformément à Apocalypse 6.9-11, les âmes de tous ceux qui ont été mis à mort crient vengeance.
-   Comme l’histoire en rend témoignage, les guerres eurent souvent un arrière-plan politique,
-mais les persécutions un arrière-plan religieux. Tous les bûchers qui n’ont pas épargné ni les
-enfants ni les vieillards, la «Sainte Inquisition» qui fit particulièrement rage avec cruauté en
-Espagne, enfin, l’ensemble de l’histoire des martyres est à mettre au compte de l’«Eglise d’Etat
-trinitaire» Romaine et de ses représentants. Durant le Moyen-âge, alors que seule régnait l’Eglise
-de Rome, n’existait aucun droit de l’homme, aucune liberté de conscience, aucune liberté
-religieuse ni la liberté de parole ou d’expression. Les bûchers élevés pour brûler les sorcières sont
-estimés à soixante mille depuis les années 1430. En France, lors du massacre des Huguenots
-protestants dans la nuit de Saint Barthélemy, les 23 et 24 août 1572, furent massacrés en une
-seule nuit entre vingt et trente mille personnes. La Bible, le seul Livre sur la terre qui contient la
-Vérité incorruptible, n’a jamais imputé à aucune nation la responsabilité d’avoir fait des martyrs.
-Nulle part également il n’est écrit: «La nation espagnole est responsable de l’Inquisition».
-Pareillement on ne peut pas lire: «Les Français sont responsables du massacre des Huguenots»,
-et non plus: «Le peuple allemand est responsable de l’Holocauste». Aussi personne ne dira: «Les
-Autrichiens sont aussi fautifs parce que Hitler était autrichien et Eichmann était
-autrichien-allemand». L’Ecriture témoigne clairement que l’Eglise de Rome est responsable du
-sang versé des martyrs: “Babylone la grande… enivrée du sang des saints…” (Apocalypse 17.5-6). “Et
-en elle a été trouvé le sang des prophètes, et des saints, et de tous ceux qui ont été immolés sur
-la terre” (Apocalypse 18.24 et autres).
-   Parce que l’Ancien Testament a été en général méprisé des princes de l’Eglise, ceux-ci ne
-pouvaient donc pas comprendre le Nouveau Testament. Ils ne comprirent pas que ceux qui ont
-écrit le Nouveau Testament ont fait ressortir l’importance de l’Ancien, qu’ils en ont cité
-845 passages, qu’ils ont aussi reconnu et ordonné les relations entre les Juifs et les païens,
-comme aussi celles existant entre la loi et la grâce, conformément au plan de salut de Dieu. Selon
-le jugement des Ecritures, les pères des Conciles n’étaient rien d’autre que des aveugles voulant
-conduire d’autres aveugles. Eux-mêmes et tous ceux qui marchent sur leurs traces se trouveront
-sur le banc des accusés au jour du jugement de Dieu. C’est dans leur «Credo trinitaire» qu’ils ont
+Comme avertissement il est écrit: “Or l’Esprit dit expressément qu’aux derniers temps quelques-uns apostasieront de la foi, s’attachant à des esprits séducteurs et à des enseignements de démons” (1 Timothée 4.1).
 
-    http://www.cmpp.ch
+“Car il y aura un temps où ils ne supporteront pas le sain enseignement; mais, ayant des oreilles qui leur démangent, ils s’amasseront des docteurs selon leurs propres convoitises, et ils détourneront leurs oreilles de la vérité et se tourneront vers les fables” (2 Timothée 4.3-4).
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    7
-eux-mêmes trouvé et formulé et qui est entaché de sang parce qu’il a conduit à la récusation et au
-rejet des Juifs, que le Christianisme vit encore aujourd’hui. O Dieu, aie compassion!
-   Pas un seul point de foi, ni aucune doctrine, n’avait besoin d’une nouvelle formulation.
-Le Nouveau Testament, avec le vrai credo prophétique-apostolique, se trouvait déjà dans le
-canon du Nouveau Testament, Lequel demeure pour toujours la seule règle valable.
-   L’Eglise du Nouveau Testament était fondée sur le fondement commun des apôtres et des
-prophètes dont Jésus-Christ Lui-même est la Pierre angulaire (Éphésiens 2.20). Paul, en tant que sage
-architecte établi par le Seigneur, en a posé le fondement. Mais la grande question est de savoir
-comment bâtissent les autres (1 Corinthiens 3.10-15)! Conformément à 1 Timothée 3.15, la vraie Eglise
-de Jésus-Christ est la colonne et le soutien de la Vérité — pas un pieux château de
-mensonges (Ésaïe 28.17). Il n’y a aussi aucun cas dans l’Ancien comme dans le Nouveau
-Testament, où il ait été discuté de savoir qui est Dieu et comment Il se fait connaître. Les
-serviteurs de Dieu connaissaient le Seigneur Dieu, l’Eternel, et ne touchaient nullement aucune de
-Ses révélations. Il ne serait jamais venu à la pensée d’aucun homme de Dieu, à cause des
-multiples manifestations de Celui-ci, de vouloir Le partager, pour faire plusieurs personnes du
-SEUL dont témoigne la Bible dans ses 66 livres.
-   Nous devons demander très sérieusement: De quel droit les docteurs de la Bible, les
-professeurs en théologie, les prédicateurs, les évangélistes dans l’ensemble du Protestantisme et
-dans toutes les Eglises qui ont pris origine depuis la Réformation, défendent-ils les doctrines
-introduites par l’Eglise de l’Empire de Rome? Ne confondent-t-ils pas ainsi le droit divin avec le
-droit canonique? Qu’est-ce qu’un véritable envoyé de Christ — qu’il soit apôtre, prophète,
-évangéliste ou pasteur — a à faire avec un credo formulé des centaines d’années plus tard dans
-différents Conciles? De quel droit est-il aussi permis d’appeler cette chose «Credo apostolique»?
-   La confession et les doctrines des apôtres sont exclusivement, et vraiment
-exclusivement, à trouver dans les Actes des apôtres et dans les Epîtres des apôtres. Toutes
-autres choses ne sont que falsifications, qui ont pris origine dans les interprétations propres de
-passages bibliques. L’ennemi a véritablement commencé d’agir ainsi déjà dans le Christianisme
-primitif en interprétant la Parole de Dieu, et depuis il n’a pas cessé de le faire. Sans le savoir le
-monde religieux en entier est spirituellement aveugle et il s’égare, à moins que la révélation ne lui
-soit donnée. Bien que richement décorées avec des passages bibliques, aussi les doctrines
-protestantes dans leur ensemble sont demeurées non bibliques, et même dans les églises et dans
-les communautés du «Plein Evangile», elles sont recouvertes du manteau babylonien. La
-signification originelle de la Parole est partout annulée par des interprétations
-personnelles.
+“Or il y a eu aussi de faux prophètes parmi le peuple, comme aussi il y aura parmi vous de faux docteurs qui introduiront furtivement des sectes de perdition, reniant aussi le maître qui les a achetés, faisant venir sur eux-mêmes une prompte destruction” (2 Pier. 2.1).
 
-        EPROUVEZ TOUTES CHOSES
-   Maintenant voici ce qui est pour beaucoup, la première surprise, celle qui secoue tout et tous: Il
-n’y a pas une seule action dans toute la Bible qui ait été faite au Nom du Père, du Fils et du
-Saint-Esprit! Cette constatation importante aura, espérons-le, auprès de ceux qui se trouvent
-encore dans des traditions non bibliques, déclenché un choc durable et salutaire.
-   Pour les véritables enfants de Dieu, qui sont réellement fidèles à la Bible et qui n’ont pas
-seulement la prétention de l’être, il ne s’agit pas de ce que Athanase, Augustin, Tertullien,
-Hieronymus, ou d’autres ont dit, mais bien de ce qu’ont dit Pierre, Jean, Jacques et Paul, et qui
-se trouve écrit dans la Parole et qui, pour nous, est le AINSI DIT LE SEIGNEUR.
-   Ce que Dieu a dit par la bouche de Ses serviteurs qui ont parlé en Son Nom, étant poussés par
-le Saint-Esprit, ne se trouve dans aucun Catéchisme, ni dans aucun livre d’enseignement
-d’Eglise, pas davantage dans la «Didachè» appelée faussement «Doctrine des douze
-apôtres», et encore moins dans le Talmud ou le Coran, mais bien uniquement dans la Bible.
-Il n’y a qu’un seul Absolu: les Saintes Ecritures.
-   Il faut que soit pris au sérieux par tous ceux qui ont la crainte de Dieu le fait que, dans le
-Christianisme primitif, aucune prière n’a été commencée ou terminée par la formule trinitaire.
-   Pas un seul baptême, aucune guérison, aucune bénédiction — absolument rien, vraiment
-rien dans les temps bibliques n’est arrivé par la formule: «Au Nom du Père, du Fils et du
+Tout prédicateur doit se laisser poser la question, s’il prêche un quelconque “message chrétien”, ou s’il prêche le Message de Christ. Chacun, peu importe qu’il prêche ou qu’il écrive, doit s’éprouver lui-même et aussi se laisser éprouver, pour savoir s’il communique la vraie ou la fausse doctrine. Etre sincère ne suffit pas, car chacun l’est à sa manière. Il faut que soit établi comment chacun est classé du point de vue des Ecritures, car: “Toute écriture est inspirée de Dieu, et utile pour enseigner…” (2 Timothée 3.16-17). Les traditions et les convictions religieuses, même si l’Ecriture est citée, n’ont pas de valeur devant Dieu quand la signification de celle-ci et l’usage qui en est fait sont rapportés et employés de manière erronée. Après une recherche plus exacte il ne reste plus alors qu’une piété personnelle. Il s’agit donc maintenant de connaître la différence infinie qu’il y a entre la signification réelle de la Parole et les nombreuses interprétations faites à Son sujet.
 
-    http://www.cmpp.ch
+Paul voulait présenter à Christ, l’Epoux céleste, une Eglise–Epouse pure, qui puisse rencontrer l’Epoux dans l’état d’une vierge non touchée, n’ayant commis aucune fornication spirituelle. Mais aussitôt il exprime la crainte que, comme le serpent séduisit Eve par sa ruse, ces croyants simples, qui écoutent fidèlement, soient aussi séduits si un autre Jésus leur est annoncé, un autre évangile leur est prêché, et un esprit étranger est à l’oeuvre (2 Corinthiens 11.1-4). Cependant, qui conviendra que nous sommes plus ou moins nés dans un Christianisme plus ou moins faussé? Ceux qui persistent dans leur erreur sans le savoir devront aussi prendre place sur le banc des accusés, car même le manque de connaissance religieuse ne nous met pas à l’abri de la punition. C’est à cela que devrait penser tout prédicateur, et il devrait éprouver ce qu’il dit à la lumière de la Parole de Dieu, pour connaître si, sans le savoir, il ne transmet pas un Evangile faussé. En effet, une personne surprise en train de transmettre un faux billet de banque doit s’attendre à être punie, même si elle n’a pas su que l’argent était faux.
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION                                            8
-    Saint-Esprit». Cela est accepté comme allant de soit uniquement en se basant sur une tradition
-    ecclésiastique.
-             Mais maintenant tous devraient approfondir les Saintes Ecritures telles qu’Elles nous sont
-    présentées et venir à la connaissance de comment sont les choses en réalité. Celui qui a étudié
-    l’histoire universelle de l’Eglise, regardant consciemment à ce thème important, aura été frappé de
-    constater que jusqu’à la fin du IIème siècle du Christianisme, selon l’exemple des apôtres, toute
-    action se faisait au Nom du Seigneur Jésus-Christ — comme aussi cela nous a été transmis de
-    manière saisissante dans les Saintes Ecritures du Christianisme primitif   par les témoins du temps
-    de Jésus.
-        C’est là que je me tiens, fondé sur le fondement des apôtres et des prophètes! Je ne peux faire
-    autre chose! Que Dieu me soit en aide!
-                Les questions suivantes ne sont pas posées pour offenser quiconque, mais dans la pensée
-    d’éprouver et d’éclairer. Chaque lecteur doit avec amour, mais aussi avec le sérieux nécessaire
-    qui nous est indispensable, être conduit à réfléchir et à entreprendre les corrections nécessaires.
+Les croyants, qui sont généralement inconscients, se reposent sur les argumentations de l’ennemi, lesquelles continuent à être répandues par les scribes chrétiens. Eve ne remarqua aucunement qu’elle avait été trompée par l’ennemi et séduite, parce qu’il lui déforma si explicitement la Parole, La transformant au contraire, et par cela même L’empoisonna d’un venin mortel. Nous-mêmes, nous n’avons rien remarqué avant d’avoir été réveillés et éclairés. L’ennemi a commencé par apporter le doute sur ce que Dieu avait dit. Il était demeuré sur le thème, mais non sur la Vérité originelle de la Parole, telle qu’Elle était sortie de la bouche de Dieu. C’est en cela que consiste encore aujourd’hui la grande tromperie dans l’ensemble du monde religieux. Le diable n’a aucun thème qui lui est propre — la plupart ne comprennent pas cela. Il emploie toujours les thèmes religieux des dénominations. Il n’a pas de doctrine propre — il reprend élégamment la Parole de Dieu et La déforme. Ce sont les thèmes bibliques sur Dieu, sur le baptême, sur le Souper du Seigneur, et ainsi de suite, qu’il fait croire aux hommes dans une manière non biblique. Il vient avec le: “Il est écrit…” comme nous pouvons le lire dans Matthieu, chapitre 4. En ce temps-là il a arraché et séparé la Parole écrite de son contexte — c’est en cela que consiste la tentation proprement dite — et il le fait encore aujourd’hui sans que les hommes le réalisent, parce qu’ils supposent qu’il est toujours quelque part ailleurs. Aux uns il cite Matthieu 28.19, aux autres Jean 20.23, mais il se garde bien de mentionner le: “Mais il est aussi écrit” de Actes 2.38. Il élèvera toujours un passage biblique contre un autre passage — par contre l’Esprit de Dieu amène chaque passage biblique en harmonie avec l’autre.
 
-        POURQUOI? POURQUOI?
+Satan ne nie pas davantage Dieu que la Parole de Dieu. Mais il est occupé jour et nuit à endoctriner les hommes selon son point de vue des choses, et particulièrement ceux qui se trouvent dans toutes les écoles bibliques et les séminaires de prédicateurs, ainsi que l’ensemble du clergé. Dans le jardin d’Eden, la chute dans le péché du corps naturel était la conséquence de la séduction, et tout le monde en souffre encore aujourd’hui. Dans l’Eglise c’est l’apostasie à l’égard du SEUL vrai Dieu et de Sa Parole, qui par la désobéissance conduit à la déviation de la Parole, sous laquelle l’Eglise souffre encore et toujours.
 
-   Pourquoi la parole «Trinité» ne se trouve-t-elle pas une seule fois dans la Bible?
-   Pourquoi l’expression «Dieu trois en un» ne se trouve-t-elle pas une seule fois dans la Bible?
-   Pourquoi ne se trouve-t-il pas mentionné une seule fois dans la Bible que Dieu consiste en trois
-Personnes?
-   Pourquoi dans toute la période de l’Ancien Testament personne n’a-t-il prié «Père qui est dans
-le ciel»?
-   Pourquoi ne se trouve-t-il pas une seule fois dans la Bible «Dieu le Fils», mais bien “Fils de
-Dieu”?
-   Pourquoi ne se trouve-t-il en Elle pas une seule fois «Dieu le Saint-Esprit», mais bien “l’Esprit
-de Dieu”? Cependant il est certain que puisque Dieu est le point de départ de toute chose, le
-Saint-Esprit est l’Esprit de Dieu, ou bien non?
-   Pourquoi donc se trouve le mot combiné «Seigneur Dieu» — «ELOHIM–YAHWEH», plus de six
-mille fois dans l’Ancien Testament, alors que depuis l’Evangile de Matthieu jusqu’à l’épître de Jude
-il ne se trouve pas une seule fois dans le Nouveau Testament — si ce n’est dans une citation de
-l’Ancien Testament (Luc 1.32) — et qu’il réapparaît dans le livre prophétique de l’Apocalypse?
-Dans l’Ancien Testament il est le Seigneur; dans le Nouveau Testament nous lisons: “Mais Dieu a
-ressuscité le Seigneur, et il nous ressuscitera par sa puissance” (1 Corinthiens 6.14).
-   Pourquoi dans les Actes des apôtres l’accent est-il mis sur «Dieu» en tant que Père, et sur «le
-Seigneur» en tant que Fils? Certainement parce que Dieu est devenu notre Père par Jésus-Christ
-notre Seigneur.
-   Pourquoi est-il dit en rapport avec la naissance du Fils: “… et on appellera son nom Dieu fort,
-Père du siècle…” (Ésaïe 9.6), et cependant pas une seule fois «Fils éternel»?
-   Pourquoi n’y a-t-il pas un seul passage dans la Bible, pendant la période de l’Ancien
-Testament, où ait été rapportée «une conversation entre le Père et le Fils» dans le ciel?
-Certainement parce que Dieu ne s’était pas encore révélé comme Père dans le Fils.
-   Pourquoi les Saintes Ecritures ne disent-Elles rien sur le fait que Dieu, en tant que Père, ait
-engendré le Fils dans l’éternité et qu’Il soit né alors à ce moment-là? Simplement parce que la
-chose n’a pas eu lieu! La naissance du Fils a été annoncée dans tout l’Ancien Testament, et elle
-s’est accomplie au commencement du Nouveau Testament. C’est là la Vérité divine et biblique!
-C’est pourquoi une «pré-existence» du Fils ne se trouve pas dans la Bible.
-   Pourquoi nous a-t-il été ordonné de prier: “Notre Père qui est dans les cieux, que ton nom soit
-sanctifié…” (Mat. 6.9)? et pourquoi prie-t-on seulement «Père céleste», et non pas: «Fils céleste»?
-Certainement parce qu’il n’y a aucun Fils céleste!
+Lors du premier Concile oecuménique de Nicée, en 325, les 250 représentants des divers courants religieux débattirent des thèmes bibliques, et plus spécialement sur Christ et la Divinité. On doit cependant se demander pour quelle raison les prophètes et les apôtres ne se sont jamais disputés sur ces thèmes?
 
-        http://www.cmpp.ch
+Combien le ciel entier a-t-il dû pleurer et tout l’enfer se réjouir, lorsque le prince de ce monde a réussi à annuler la Parole de Dieu et à introduire à la place des théorèmes formulés par des hommes qui ne connaissaient pas du tout Dieu. L’hellénisme et les pensées philosophiques païennes ont visiblement dominé les pères de l’Eglise. Comme aucun d’entre eux ne connaissait la langue araméenne ou hébraïque pour pouvoir lire le texte original, aucun ne connaissait ni le caractère de l’Ancien Testament en rapport avec l’histoire du salut, ni le Dieu d’Israël. Tous avaient accepté le Christianisme comme religion, mais aucun n’avait reçu Christ comme Rédempteur et Seigneur. Aucun d’entre eux ne pouvait témoigner d’avoir reçu un appel divin. Nous pouvons lire, sous la plume d’écrivains réputés de l’histoire de l’Eglise, que tous les pères de l’Eglise, sans aucune exception, par leurs déclarations méchantes, ont semé la haine envers les Juifs. Ignace d’Antioche commença et tous suivirent son exemple: Justinien, Hippolyte, Cyprien, Grégoire de Nisse, Origène, comme aussi Tertullien et Athanase, jusqu’à Chrysostome et Hieronymus, etc. Léon Ier, qui exerça le pouvoir depuis 441 et qui du point de vue protestant est généralement considéré comme le premier Pape, les surpassa tous. Ce ne sont que malédictions, méchantes accusations, déportations des Juifs, qui eurent lieu sous l’influence des princes de l’Eglise. La première conséquence concrète de l’influence des «pères des conciles», comme on les a appelés plus tard, fut manifestée déjà en 321, lorsque l’empereur Constantin décréta que les Juifs avaient l’interdiction, sous menace de sanctions, de célébrer le sabbat, mais il les obligeait par contre à respecter le dimanche. Beaucoup de synagogues furent fermées et devinrent des églises. Ce sont des citations du Nouveau Testament que Satan tordit pour les pères de l’Eglise et les influença à injurier les Juifs comme “meurtriers de Christ”, à les rejeter et à les maudire. Cependant, celui qui maudit Israël est maudit par Dieu (Nombres 24.9).
 
-AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION 9
-   Pourquoi le Seigneur Dieu a-t-Il toujours juré par Lui-même: “J’ai juré par moi-même, dit
-l’Eternel” (Genèse 22.16; Psaumes 89.35; Amos 6.8; Hébreux 6.13 et autres)? Si ce n’est bien parce qu’à Ses
-côtés il n’y avait pas d’autre Personne divine!
-   Où donc se trouve dans la Bible: «Le Père est éternel, le Fils est éternel, le Saint-Esprit est
-éternel»? Naturellement, nulle part! Comment dans la Parole de Vérité pourrait-il se trouver ainsi
-quelque chose de mensonger? C’est exclu!
-   Pourquoi ne se trouve pas une seule fois dans la Bible: «Gloire à Dieu le Père, à Dieu le Fils et
-à Dieu le Saint-Esprit!»? C’est intentionnellement que ne suit pas l’«amen», parce que cela
-signifie: «Ainsi soit-il!» et ce n’est pas du tout comme cela!
-   Pourquoi n’est-il pas écrit une seule fois dans la Bible: «Père–Créateur»? Qu’est-ce que «Père»
-a à faire avec la création? Ou qu’est ce que le Créateur a à faire avec des fils et des filles
-engendrés?
-   A l’égard de la création, Dieu est le Créateur. A l’égard de Ses fils et de Ses filles, Dieu est
-Père.
-   Pourquoi aucun prophète dans l’Ancien Testament, ni aucun apôtre dans le Nouveau, n’a-t-il
-jamais interprété le: “Faisons l’homme à notre image” de Genèse 1.26-28, en l’attribuant à
-plusieurs Personnes dans la Divinité? C’est parce qu’ils se trouvaient sous la direction de l’Esprit.
-   Pourquoi aucun des apôtres n’a-t-il répété l’ordre de baptiser de Matthieu 28, mais qu’ils l’ont
-au contraire bien compris et exécuté fidèlement en baptisant directement dans le Nom d’Alliance
-du Nouveau Testament, Nom dans Lequel Dieu en tant que Père, Fils et Saint-Esprit s’est révélé?
-C’est parce que le Nom dans Lequel il fallait être baptisé leur avait été révélé.
-   C’est la raison pour laquelle, dans le Christianisme primitif, jusqu’à la fin du IIème siècle, ceux qui
-étaient devenus croyants étaient baptisés correctement selon l’ordre de mission, uniquement au
-Nom du Seigneur Jésus-Christ (Actes 2.38, 8.16, 10.48, 19.5; Romains 6.3 et autres), et pas une
-seule fois dans la formule trinitaire.
-   De plus, partout où se trouve le Christianisme faussé, la formule trinitaire est employée ainsi
-que pour la divination: lecture des lignes de la main, lévitation des tables, interrogation des esprits
-et pour toutes sortes d’enchantements, de magies et d’occultisme; elle est aussi employée pour
-entrer dans des ordres secrets lors de l’assermentation. Même le voeu de fidélité pour entrer dans
-les loges de franc-maçonnerie est fait, même par les Juifs, «au Nom du Père, du Fils et du
-Saint-Esprit».
-   Personne ne doit être indifférent sur le fait que pas une seule prière, et même aucune action,
-dans la Bible, n’a été faite dans la formule trinitaire! Eprouvez toutes choses, aussi cette
-pratique exercée par presque tous les chrétiens! Qu’est-ce donc qui doit valoir pour toujours? La
-Parole de Dieu ou les traditions des Eglises? La Bible a-t-Elle raison, ou est-ce que ce sont les
-argumentations?
-   En présence de toutes les modifications, de toutes les interprétations et falsifications, nous
-devons demander: Pourquoi y a-t-il des prédicateurs, des évangélistes et des docteurs de la Bible
-qui ont la Parole de Dieu dans la bouche et qui continuent dans une foi aveugle et pleine
-d’enthousiasme à enseigner des doctrines traditionnelles non bibliques? Cette prise de position
-doit avoir lieu avec l’espoir que le lecteur, après l’exposition de toutes ces déviations, donne raison
-sur tous les points à Dieu et à Sa Parole. Il n’y a rien d’autre: toutes choses et toutes personnes
-doivent être placées devant le jugement de Dieu — et cela dès maintenant, non plus tard quand il
-sera trop tard. C’est aujourd’hui que l’avertissement doit être donné!
-   Tous les points présentés se laissent éclairer par la Parole de Dieu. Mais il n’y a aucune place
-pour des argumentations. L’ennemi a trompé trop longtemps les croyants avec cela. Maintenant ne
-subsiste plus que la question principale: Quelle est la vérité sur la Trinité, le Dieu en trois
-Personnes? La vérité est que cela n’a jamais existé dans l’Eternité, pas plus que cela n’a existé au
-cours des temps, et que cela n’existera jamais dans l’Eternité!
-   En toute franchise il faut également demander: Pourquoi les Saintes Ecritures ne
-connaissent-Elles pas non plus la doctrine des «Jesus Only» / «Jésus seul»? Parce qu’elle aussi
-est non-biblique! Comment le Fils, qui a été engendré, pourrait-Il être Son propre Père? Et
-comment pourrait-Il s’être adressé à Lui-même des prières, etc.? Le témoignage venu du haut du
+Après que l’empereur Théodose I (347-395) ait déclaré le 28 février 380 la foi trinitaire comme seule religion de l’Etat, et que le concile de Constantinople l’ai confirmée en mai 381, tous furent contraints à cette foi. Uniquement lors des sept croisades, entre 1095 et 1291, c’est-à-dire en à peine 200 ans, 22 millions de personnes furent mises à mort par l’Eglise d’Etat. «Deus lo vult!» — «Dieu le veut!» était le cri de guerre de Godefroi de Bouillon. L’ordre pour la première croisade est venu du pape Urbain II «au Nom du Père, du Fils et du Saint-Esprit». Avec un crucifix dans une main et une épée dans l’autre, les Croisés ont commis des massacres. Dans l’ensemble, jusqu’au Moyen-âge, 50 à 60 millions de personnes ont été les martyrs de l’«Eglise de la Trinité», qui était en même temps la puissance d’Etat dans le Saint Empire Romain.
 
-        http://www.cmpp.ch
+Elle est coresponsable dans l’ère chrétienne de toutes les persécutions infligées aux Juifs. Beaucoup d’auteurs cherchent la cause réelle du terrible Holocauste qui a fait 6 millions de victimes. Des siècles ont passé sous la domination protestante prussienne sans qu’il y ait de persécution des Juifs. Celui qui a lu les livres de Daniel Goldhagen, et d’autres auteurs, sait quel est le rôle de l’Eglise de Rome. Depuis les jours des pères de l’Eglise, la semence antisémite semée au IVème siècle par ceux-ci est sans cesse réapparue, et cela également par Martin Luther, les Protestants, les Orthodoxes, et dans tout le Christianisme. Conformément à Apocalypse 6.9-11, les âmes de tous ceux qui ont été mis à mort crient vengeance.
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    10
-ciel est exprimé ainsi: “Celui-ci est mon Fils bien-aimé, en qui j’ai trouvé mon plaisir”
-(Mat. 3.17, 17.5). Seul celui qui confesse que Jésus-Christ est le Fils de Dieu a la Vie éternelle
-(Jean 3.36). “Et c’est ici la vie éternelle, qu’ils te connaissent seul vrai Dieu, et celui que tu
-as envoyé, Jésus-Christ” (Jean 17.3). Ainsi, comme la doctrine de Dieu en trois Personnes est
-blasphématoire envers Dieu, de même se trouve être aussi fausse la doctrine des «Jésus seul».
-Ce qui demeure seul valable pour toujours est le témoignage des Saintes Ecritures, incluant toutes
-choses et dans lequel Dieu est révélé dans Sa diversité. Dans le Nouveau Testament est révélé
-que Dieu, en tant que Père, est au-dessus de nous dans le ciel, dans le Fils Il était sur la
-terre parmi nous et par le Saint-Esprit Il est en nous. C’est pour nous le mystère
-incompréhensible et inexplicable de Dieu, duquel Paul écrit: “Et, sans contredit, le mystère de la
-piété est grand: — Dieu a été manifesté en chair, a été justifié en Esprit, a été vu des anges, a été
-prêché parmi les nations, a été cru au monde, a été élevé dans la gloire” (1 Timothée 3.16).
-   Lorsque Dieu, selon Son plan de salut élaboré dans l’Eternité, en a terminé avec tous Ses fils et
-Ses filles, la révélation du Fils débouche de nouveau en Dieu, Duquel elle est sortie, afin que soit
-accomplie cette parole: “Mais quand toutes choses lui auront été assujetties, alors le Fils
-aussi lui-même sera assujetti à celui qui lui a assujetti toutes choses, afin que Dieu soit tout
-en tous” (1 Corinthiens 15.28). Oh! quelle profondeur du mystère de la piété: Dieu en Christ et
-Christ en nous — l’espérance de la gloire!
-   Toutes les promesses faites dans l’Ancien Testament, de Genèse 3.15 jusqu’à Malachie 3.1, en
-rapport avec la venue du Fils, se sont accomplies au commencement du Nouveau Testament.
-Quelqu’un veut-il réellement nier cela?
-   2 Samuel 7.14 s’est accompli: “Moi, je lui serai pour père, et lui me sera pour fils…” (Hébreux 1.5b).
-   Psaumes 2.7 s’est accompli: “Tu es mon Fils, moi je t’ai aujourd’hui engendré” (Hébreux 1.5a).
-   S’accomplit aussi: “C’est à toi que je fus remis dès la matrice…” (Psaumes 22.10).
-   S’accomplit aussi le Psaumes 89.26-27: “Lui me criera: Tu es mon père, mon Dieu, et le rocher
-de mon salut. Aussi moi, je ferai de lui le premier-né, le plus élevé des rois de la terre”.
-   S’accomplit également Ésaïe 7.14: “C’est pourquoi le Seigneur, lui, vous donnera un signe:
-Voici, la vierge concevra et elle enfantera un fils, et appellera son nom Emmanuel”.
-   La proclamation disait: “… et elle enfantera un fils, et tu appelleras son nom Jésus…”
-(Mat. 1.21; Luc 1.31).
-   “… car aujourd’hui, dans la cité de David, vous est né un sauveur, qui est le Christ, le
-Seigneur” (Luc 2.11). Avec cela s’accomplit Michée 5.1-2, et le Sauveur est né à Bethléem
-(Mat. 2.1).
-   Lors de la première venue de Christ s’accomplirent en tout 109 prophéties. Cependant les
-scribes qui étudiaient chaque jour la Parole de Dieu ne le comprirent pas. Ils persévérèrent dans
-leurs interprétations et dans leurs propres représentations des choses. Bien qu’ils aient
-ardemment attendu la venue du Messie et aient entretenu le peuple éveillé dans cette espérance,
-ils ne le reconnurent point lorsqu’Il vint (Jean, chap. 1), et même le contredire à toute occasion.
-Toutes leurs offrandes, le chant des Psaumes et l’ensemble des solennités de leur culte à Dieu —
-tout était en vain. Je me demande si maintenant, pour la majorité des croyants qui attendent le
-retour de Christ, la même chose ne se répète pas? Cela en a toutes les apparences.
-   Le Seigneur Lui-même nous indique la révélation, sans laquelle personne, vraiment personne,
-qu’il soit ce qu’il veuille — et Dieu ne fait aucune exception — ne peut reconnaître ce glorieux
-mystère de Dieu en Christ. C’est pourquoi il est écrit: “Toutes choses m’ont été livrées par mon
-Père; et personne ne connaît le Fils, si ce n’est le Père; ni personne ne connaît le Père, si ce
-n’est le Fils, et celui à qui le Fils voudra le révéler” (Mat. 11.27). Il veut maintenant Se tourner
-vers chacun, comme Il le fit à cette époque: “Et se tournant vers les disciples, il leur dit en
-particulier: Bienheureux sont les yeux qui voient ce que vous voyez!” (Luc 10.23). Aucune
-étude n’est suffisante, mais au contraire la révélation est nécessaire pour la connaissance de Dieu
-en Christ, ainsi que pour tous les mystères du Royaume de Dieu. Ce que Paul avait étudié, il l’a
-plus tard littéralement considéré comme des «ordures» (Philippiens 3.8). Ce qui comptait beaucoup plus
-pour lui était d’apprendre à connaître le Seigneur et Sa puissance de résurrection. Il pouvait écrire,
-après avoir été établi dans le service à cause de la révélation qui lui avait été donnée: “… d’après
+Comme l’histoire en rend témoignage, les guerres eurent souvent un arrière-plan politique, mais les persécutions un arrière-plan religieux. Tous les bûchers qui n’ont pas épargné ni les enfants ni les vieillards, la «Sainte Inquisition» qui fit particulièrement rage avec cruauté en Espagne, enfin, l’ensemble de l’histoire des martyres est à mettre au compte de l’«Eglise d’Etat trinitaire» Romaine et de ses représentants. Durant le Moyen-âge, alors que seule régnait l’Eglise de Rome, n’existait aucun droit de l’homme, aucune liberté de conscience, aucune liberté religieuse ni la liberté de parole ou d’expression. Les bûchers élevés pour brûler les sorcières sont estimés à soixante mille depuis les années 1430. En France, lors du massacre des Huguenots protestants dans la nuit de Saint Barthélemy, les 23 et 24 août 1572, furent massacrés en une seule nuit entre vingt et trente mille personnes. La Bible, le seul Livre sur la terre qui contient la Vérité incorruptible, n’a jamais imputé à aucune nation la responsabilité d’avoir fait des martyrs. Nulle part également il n’est écrit: «La nation espagnole est responsable de l’Inquisition». Pareillement on ne peut pas lire: «Les Français sont responsables du massacre des Huguenots», et non plus: «Le peuple allemand est responsable de l’Holocauste». Aussi personne ne dira: «Les Autrichiens sont aussi fautifs parce que Hitler était autrichien et Eichmann était autrichien-allemand». L’Ecriture témoigne clairement que l’Eglise de Rome est responsable du sang versé des martyrs: “Babylone la grande… enivrée du sang des saints…” (Apocalypse 17.5-6). “Et en elle a été trouvé le sang des prophètes, et des saints, et de tous ceux qui ont été immolés sur la terre” (Apocalypse 18.24 et autres).
 
-    http://www.cmpp.ch
+Parce que l’Ancien Testament a été en général méprisé des princes de l’Eglise, ceux-ci ne pouvaient donc pas comprendre le Nouveau Testament. Ils ne comprirent pas que ceux qui ont écrit le Nouveau Testament ont fait ressortir l’importance de l’Ancien, qu’ils en ont cité 845 passages, qu’ils ont aussi reconnu et ordonné les relations entre les Juifs et les païens, comme aussi celles existant entre la loi et la grâce, conformément au plan de salut de Dieu. Selon le jugement des Ecritures, les pères des Conciles n’étaient rien d’autre que des aveugles voulant conduire d’autres aveugles. Eux-mêmes et tous ceux qui marchent sur leurs traces se trouveront sur le banc des accusés au jour du jugement de Dieu. C’est dans leur «Credo trinitaire» qu’ils ont eux-mêmes trouvé et formulé et qui est entaché de sang parce qu’il a conduit à la récusation et au rejet des Juifs, que le Christianisme vit encore aujourd’hui. O Dieu, aie compassion!
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION                                          11
-    quoi, en le lisant, vous pouvez comprendre quelle est mon intelligence dans le mystère du
-    Christ…” (Éphésiens 3.4).
-           Tout serviteur de Dieu appelé au service doit pouvoir l’expérimenter. Sans vouloir offenser
-    quelqu’un, l’expression elle-même «Etudier la théologie», qui signifie en fait «Etudier Dieu», est
-    fortement exagérée. Qui donc veut étudier quelque chose sur Dieu? Dès le commencement Dieu
-    s’est révélé aux Siens — et Il veut aussi se révéler à nous.
+Pas un seul point de foi, ni aucune doctrine, n’avait besoin d’une nouvelle formulation. Le Nouveau Testament, avec le vrai credo prophétique-apostolique, se trouvait déjà dans le canon du Nouveau Testament, Lequel demeure pour toujours la seule règle valable.
 
-        QU’EST-CE QUI EST REELLEMENT SAINT?
+L’Eglise du Nouveau Testament était fondée sur le fondement commun des apôtres et des prophètes dont Jésus-Christ Lui-même est la Pierre angulaire (Éphésiens 2.20). Paul, en tant que sage architecte établi par le Seigneur, en a posé le fondement. Mais la grande question est de savoir comment bâtissent les autres (1 Corinthiens 3.10-15)! Conformément à 1 Timothée 3.15, la vraie Eglise de Jésus-Christ est la colonne et le soutien de la Vérité — pas un pieux château de mensonges (Ésaïe 28.17). Il n’y a aussi aucun cas dans l’Ancien comme dans le Nouveau Testament, où il ait été discuté de savoir qui est Dieu et comment Il se fait connaître. Les serviteurs de Dieu connaissaient le Seigneur Dieu, l’Eternel, et ne touchaient nullement aucune de Ses révélations. Il ne serait jamais venu à la pensée d’aucun homme de Dieu, à cause des multiples manifestations de Celui-ci, de vouloir Le partager, pour faire plusieurs personnes du SEUL dont témoigne la Bible dans ses 66 livres.
+
+Nous devons demander très sérieusement: De quel droit les docteurs de la Bible, les professeurs en théologie, les prédicateurs, les évangélistes dans l’ensemble du Protestantisme et dans toutes les Eglises qui ont pris origine depuis la Réformation, défendent-ils les doctrines introduites par l’Eglise de l’Empire de Rome? Ne confondent-t-ils pas ainsi le droit divin avec le droit canonique? Qu’est-ce qu’un véritable envoyé de Christ — qu’il soit apôtre, prophète, évangéliste ou pasteur — a à faire avec un credo formulé des centaines d’années plus tard dans différents Conciles? De quel droit est-il aussi permis d’appeler cette chose «Credo apostolique»?
+
+La confession et les doctrines des apôtres sont exclusivement, et vraiment exclusivement, à trouver dans les Actes des apôtres et dans les Epîtres des apôtres. Toutes autres choses ne sont que falsifications, qui ont pris origine dans les interprétations propres de passages bibliques. L’ennemi a véritablement commencé d’agir ainsi déjà dans le Christianisme primitif en interprétant la Parole de Dieu, et depuis il n’a pas cessé de le faire. Sans le savoir le monde religieux en entier est spirituellement aveugle et il s’égare, à moins que la révélation ne lui soit donnée. Bien que richement décorées avec des passages bibliques, aussi les doctrines protestantes dans leur ensemble sont demeurées non bibliques, et même dans les églises et dans les communautés du «Plein Evangile», elles sont recouvertes du manteau babylonien. La signification originelle de la Parole est partout annulée par des interprétations personnelles.
+
+
+EPROUVEZ TOUTES CHOSES
+
+Maintenant voici ce qui est pour beaucoup, la première surprise, celle qui secoue tout et tous: Il n’y a pas une seule action dans toute la Bible qui ait été faite au Nom du Père, du Fils et du Saint-Esprit! Cette constatation importante aura, espérons-le, auprès de ceux qui se trouvent encore dans des traditions non bibliques, déclenché un choc durable et salutaire.
+
+Pour les véritables enfants de Dieu, qui sont réellement fidèles à la Bible et qui n’ont pas seulement la prétention de l’être, il ne s’agit pas de ce que Athanase, Augustin, Tertullien, Hieronymus, ou d’autres ont dit, mais bien de ce qu’ont dit Pierre, Jean, Jacques et Paul, et qui se trouve écrit dans la Parole et qui, pour nous, est le AINSI DIT LE SEIGNEUR.
+
+Ce que Dieu a dit par la bouche de Ses serviteurs qui ont parlé en Son Nom, étant poussés par le Saint-Esprit, ne se trouve dans aucun Catéchisme, ni dans aucun livre d’enseignement d’Eglise, pas davantage dans la «Didachè» appelée faussement «Doctrine des douze apôtres», et encore moins dans le Talmud ou le Coran, mais bien uniquement dans la Bible. Il n’y a qu’un seul Absolu: les Saintes Ecritures.
+
+Il faut que soit pris au sérieux par tous ceux qui ont la crainte de Dieu le fait que, dans le Christianisme primitif, aucune prière n’a été commencée ou terminée par la formule trinitaire.
+
+Pas un seul baptême, aucune guérison, aucune bénédiction — absolument rien, vraiment rien dans les temps bibliques n’est arrivé par la formule: «Au Nom du Père, du Fils et du Saint-Esprit». Cela est accepté comme allant de soit uniquement en se basant sur une tradition ecclésiastique.
+
+Mais maintenant tous devraient approfondir les Saintes Ecritures telles qu’Elles nous sont présentées et venir à la connaissance de comment sont les choses en réalité. Celui qui a étudié l’histoire universelle de l’Eglise, regardant consciemment à ce thème important, aura été frappé de constater que jusqu’à la fin du IIème siècle du Christianisme, selon l’exemple des apôtres, toute action se faisait au Nom du Seigneur Jésus-Christ — comme aussi cela nous a été transmis de manière saisissante dans les Saintes Ecritures du Christianisme primitif par les témoins du temps de Jésus.
+
+C’est là que je me tiens, fondé sur le fondement des apôtres et des prophètes! Je ne peux faire autre chose! Que Dieu me soit en aide!
+
+Les questions suivantes ne sont pas posées pour offenser quiconque, mais dans la pensée d’éprouver et d’éclairer. Chaque lecteur doit avec amour, mais aussi avec le sérieux nécessaire qui nous est indispensable, être conduit à réfléchir et à entreprendre les corrections nécessaires.
+
+
+POURQUOI? POURQUOI?
+
+Pourquoi la parole «Trinité» ne se trouve-t-elle pas une seule fois dans la Bible?
+Pourquoi l’expression «Dieu trois en un» ne se trouve-t-elle pas une seule fois dans la Bible?
+Pourquoi ne se trouve-t-il pas mentionné une seule fois dans la Bible que Dieu consiste en trois Personnes?
+Pourquoi dans toute la période de l’Ancien Testament personne n’a-t-il prié «Père qui est dans le ciel»?
+Pourquoi ne se trouve-t-il pas une seule fois dans la Bible «Dieu le Fils», mais bien “Fils de Dieu”?
+Pourquoi ne se trouve-t-il en Elle pas une seule fois «Dieu le Saint-Esprit», mais bien “l’Esprit de Dieu”? Cependant il est certain que puisque Dieu est le point de départ de toute chose, le Saint-Esprit est l’Esprit de Dieu, ou bien non?
+Pourquoi donc se trouve le mot combiné «Seigneur Dieu» — «ELOHIM–YAHWEH», plus de six mille fois dans l’Ancien Testament, alors que depuis l’Evangile de Matthieu jusqu’à l’épître de Jude il ne se trouve pas une seule fois dans le Nouveau Testament — si ce n’est dans une citation de l’Ancien Testament (Luc 1.32) — et qu’il réapparaît dans le livre prophétique de l’Apocalypse? Dans l’Ancien Testament il est le Seigneur; dans le Nouveau Testament nous lisons: “Mais Dieu a ressuscité le Seigneur, et il nous ressuscitera par sa puissance” (1 Corinthiens 6.14).
+Pourquoi dans les Actes des apôtres l’accent est-il mis sur «Dieu» en tant que Père, et sur «le Seigneur» en tant que Fils? Certainement parce que Dieu est devenu notre Père par Jésus-Christ notre Seigneur.
+Pourquoi est-il dit en rapport avec la naissance du Fils: “… et on appellera son nom Dieu fort, Père du siècle…” (Ésaïe 9.6), et cependant pas une seule fois «Fils éternel»?
+Pourquoi n’y a-t-il pas un seul passage dans la Bible, pendant la période de l’Ancien Testament, où ait été rapportée «une conversation entre le Père et le Fils» dans le ciel? Certainement parce que Dieu ne s’était pas encore révélé comme Père dans le Fils.
+Pourquoi les Saintes Ecritures ne disent-Elles rien sur le fait que Dieu, en tant que Père, ait engendré le Fils dans l’éternité et qu’Il soit né alors à ce moment-là? Simplement parce que la chose n’a pas eu lieu! La naissance du Fils a été annoncée dans tout l’Ancien Testament, et elle s’est accomplie au commencement du Nouveau Testament. C’est là la Vérité divine et biblique! C’est pourquoi une «pré-existence» du Fils ne se trouve pas dans la Bible.
+Pourquoi nous a-t-il été ordonné de prier: “Notre Père qui est dans les cieux, que ton nom soit sanctifié…” (Mat. 6.9)? et pourquoi prie-t-on seulement «Père céleste», et non pas: «Fils céleste»? Certainement parce qu’il n’y a aucun Fils céleste!
+Pourquoi le Seigneur Dieu a-t-Il toujours juré par Lui-même: “J’ai juré par moi-même, dit l’Eternel” (Genèse 22.16; Psaumes 89.35; Amos 6.8; Hébreux 6.13 et autres)? Si ce n’est bien parce qu’à Ses côtés il n’y avait pas d’autre Personne divine!
+Où donc se trouve dans la Bible: «Le Père est éternel, le Fils est éternel, le Saint-Esprit est éternel»? Naturellement, nulle part! Comment dans la Parole de Vérité pourrait-il se trouver ainsi quelque chose de mensonger? C’est exclu!
+Pourquoi ne se trouve pas une seule fois dans la Bible: «Gloire à Dieu le Père, à Dieu le Fils et à Dieu le Saint-Esprit!»? C’est intentionnellement que ne suit pas l’«amen», parce que cela signifie: «Ainsi soit-il!» et ce n’est pas du tout comme cela!
+Pourquoi n’est-il pas écrit une seule fois dans la Bible: «Père–Créateur»? Qu’est-ce que «Père» a à faire avec la création? Ou qu’est ce que le Créateur a à faire avec des fils et des filles engendrés?
+A l’égard de la création, Dieu est le Créateur. A l’égard de Ses fils et de Ses filles, Dieu est Père.
+Pourquoi aucun prophète dans l’Ancien Testament, ni aucun apôtre dans le Nouveau, n’a-t-il jamais interprété le: “Faisons l’homme à notre image” de Genèse 1.26-28, en l’attribuant à plusieurs Personnes dans la Divinité? C’est parce qu’ils se trouvaient sous la direction de l’Esprit.
+Pourquoi aucun des apôtres n’a-t-il répété l’ordre de baptiser de Matthieu 28, mais qu’ils l’ont au contraire bien compris et exécuté fidèlement en baptisant directement dans le Nom d’Alliance du Nouveau Testament, Nom dans Lequel Dieu en tant que Père, Fils et Saint-Esprit s’est révélé? C’est parce que le Nom dans Lequel il fallait être baptisé leur avait été révélé.
+C’est la raison pour laquelle, dans le Christianisme primitif, jusqu’à la fin du IIème siècle, ceux qui étaient devenus croyants étaient baptisés correctement selon l’ordre de mission, uniquement au Nom du Seigneur Jésus-Christ (Actes 2.38, 8.16, 10.48, 19.5; Romains 6.3 et autres), et pas une seule fois dans la formule trinitaire.
+De plus, partout où se trouve le Christianisme faussé, la formule trinitaire est employée ainsi que pour la divination: lecture des lignes de la main, lévitation des tables, interrogation des esprits et pour toutes sortes d’enchantements, de magies et d’occultisme; elle est aussi employée pour entrer dans des ordres secrets lors de l’assermentation. Même le voeu de fidélité pour entrer dans les loges de franc-maçonnerie est fait, même par les Juifs, «au Nom du Père, du Fils et du Saint-Esprit».
+Personne ne doit être indifférent sur le fait que pas une seule prière, et même aucune action, dans la Bible, n’a été faite dans la formule trinitaire! Eprouvez toutes choses, aussi cette pratique exercée par presque tous les chrétiens! Qu’est-ce donc qui doit valoir pour toujours? La Parole de Dieu ou les traditions des Eglises? La Bible a-t-Elle raison, ou est-ce que ce sont les argumentations?
+En présence de toutes les modifications, de toutes les interprétations et falsifications, nous devons demander: Pourquoi y a-t-il des prédicateurs, des évangélistes et des docteurs de la Bible qui ont la Parole de Dieu dans la bouche et qui continuent dans une foi aveugle et pleine d’enthousiasme à enseigner des doctrines traditionnelles non bibliques? Cette prise de position doit avoir lieu avec l’espoir que le lecteur, après l’exposition de toutes ces déviations, donne raison sur tous les points à Dieu et à Sa Parole. Il n’y a rien d’autre: toutes choses et toutes personnes doivent être placées devant le jugement de Dieu — et cela dès maintenant, non plus tard quand il sera trop tard. C’est aujourd’hui que l’avertissement doit être donné!
+
+Tous les points présentés se laissent éclairer par la Parole de Dieu. Mais il n’y a aucune place pour des argumentations. L’ennemi a trompé trop longtemps les croyants avec cela. Maintenant ne subsiste plus que la question principale: Quelle est la vérité sur la Trinité, le Dieu en trois Personnes? La vérité est que cela n’a jamais existé dans l’Eternité, pas plus que cela n’a existé au cours des temps, et que cela n’existera jamais dans l’Eternité!
+
+En toute franchise il faut également demander: Pourquoi les Saintes Ecritures ne connaissent-Elles pas non plus la doctrine des «Jesus Only» / «Jésus seul»? Parce qu’elle aussi est non-biblique! Comment le Fils, qui a été engendré, pourrait-Il être Son propre Père? Et comment pourrait-Il s’être adressé à Lui-même des prières, etc.? Le témoignage venu du haut du ciel est exprimé ainsi: “Celui-ci est mon Fils bien-aimé, en qui j’ai trouvé mon plaisir” (Mat. 3.17, 17.5). Seul celui qui confesse que Jésus-Christ est le Fils de Dieu a la Vie éternelle (Jean 3.36). “Et c’est ici la vie éternelle, qu’ils te connaissent seul vrai Dieu, et celui que tu as envoyé, Jésus-Christ” (Jean 17.3). Ainsi, comme la doctrine de Dieu en trois Personnes est blasphématoire envers Dieu, de même se trouve être aussi fausse la doctrine des «Jésus seul». Ce qui demeure seul valable pour toujours est le témoignage des Saintes Ecritures, incluant toutes choses et dans lequel Dieu est révélé dans Sa diversité. Dans le Nouveau Testament est révélé que Dieu, en tant que Père, est au-dessus de nous dans le ciel, dans le Fils Il était sur la terre parmi nous et par le Saint-Esprit Il est en nous. C’est pour nous le mystère incompréhensible et inexplicable de Dieu, duquel Paul écrit: “Et, sans contredit, le mystère de la piété est grand: — Dieu a été manifesté en chair, a été justifié en Esprit, a été vu des anges, a été prêché parmi les nations, a été cru au monde, a été élevé dans la gloire” (1 Timothée 3.16).
+
+Lorsque Dieu, selon Son plan de salut élaboré dans l’Eternité, en a terminé avec tous Ses fils et Ses filles, la révélation du Fils débouche de nouveau en Dieu, Duquel elle est sortie, afin que soit accomplie cette parole: “Mais quand toutes choses lui auront été assujetties, alors le Fils aussi lui-même sera assujetti à celui qui lui a assujetti toutes choses, afin que Dieu soit tout en tous” (1 Corinthiens 15.28). Oh! quelle profondeur du mystère de la piété: Dieu en Christ et Christ en nous — l’espérance de la gloire!
+
+Toutes les promesses faites dans l’Ancien Testament, de Genèse 3.15 jusqu’à Malachie 3.1, en rapport avec la venue du Fils, se sont accomplies au commencement du Nouveau Testament. Quelqu’un veut-il réellement nier cela?
+2 Samuel 7.14 s’est accompli: “Moi, je lui serai pour père, et lui me sera pour fils…” (Hébreux 1.5b).
+Psaumes 2.7 s’est accompli: “Tu es mon Fils, moi je t’ai aujourd’hui engendré” (Hébreux 1.5a).
+S’accomplit aussi: “C’est à toi que je fus remis dès la matrice…” (Psaumes 22.10).
+S’accomplit aussi le Psaumes 89.26-27: “Lui me criera: Tu es mon père, mon Dieu, et le rocher de mon salut. Aussi moi, je ferai de lui le premier-né, le plus élevé des rois de la terre”.
+S’accomplit également Ésaïe 7.14: “C’est pourquoi le Seigneur, lui, vous donnera un signe: Voici, la vierge concevra et elle enfantera un fils, et appellera son nom Emmanuel”.
+La proclamation disait: “… et elle enfantera un fils, et tu appelleras son nom Jésus…” (Mat. 1.21; Luc 1.31).
+“… car aujourd’hui, dans la cité de David, vous est né un sauveur, qui est le Christ, le Seigneur” (Luc 2.11). Avec cela s’accomplit Michée 5.1-2, et le Sauveur est né à Bethléem (Mat. 2.1).
+Lors de la première venue de Christ s’accomplirent en tout 109 prophéties. Cependant les scribes qui étudiaient chaque jour la Parole de Dieu ne le comprirent pas. Ils persévérèrent dans leurs interprétations et dans leurs propres représentations des choses. Bien qu’ils aient ardemment attendu la venue du Messie et aient entretenu le peuple éveillé dans cette espérance, ils ne le reconnurent point lorsqu’Il vint (Jean, chap. 1), et même le contredire à toute occasion. Toutes leurs offrandes, le chant des Psaumes et l’ensemble des solennités de leur culte à Dieu — tout était en vain. Je me demande si maintenant, pour la majorité des croyants qui attendent le retour de Christ, la même chose ne se répète pas? Cela en a toutes les apparences.
+
+Le Seigneur Lui-même nous indique la révélation, sans laquelle personne, vraiment personne, qu’il soit ce qu’il veuille — et Dieu ne fait aucune exception — ne peut reconnaître ce glorieux mystère de Dieu en Christ. C’est pourquoi il est écrit: “Toutes choses m’ont été livrées par mon Père; et personne ne connaît le Fils, si ce n’est le Père; ni personne ne connaît le Père, si ce n’est le Fils, et celui à qui le Fils voudra le révéler” (Mat. 11.27). Il veut maintenant Se tourner vers chacun, comme Il le fit à cette époque: “Et se tournant vers les disciples, il leur dit en particulier: Bienheureux sont les yeux qui voient ce que vous voyez!” (Luc 10.23). Aucune étude n’est suffisante, mais au contraire la révélation est nécessaire pour la connaissance de Dieu en Christ, ainsi que pour tous les mystères du Royaume de Dieu. Ce que Paul avait étudié, il l’a plus tard littéralement considéré comme des «ordures» (Philippiens 3.8). Ce qui comptait beaucoup plus pour lui était d’apprendre à connaître le Seigneur et Sa puissance de résurrection. Il pouvait écrire, après avoir été établi dans le service à cause de la révélation qui lui avait été donnée: “… d’après quoi, en le lisant, vous pouvez comprendre quelle est mon intelligence dans le mystère du Christ…” (Éphésiens 3.4).
+
+Tout serviteur de Dieu appelé au service doit pouvoir l’expérimenter. Sans vouloir offenser quelqu’un, l’expression elle-même «Etudier la théologie», qui signifie en fait «Etudier Dieu», est fortement exagérée. Qui donc veut étudier quelque chose sur Dieu? Dès le commencement Dieu s’est révélé aux Siens — et Il veut aussi se révéler à nous.
+
+QU’EST-CE QUI EST REELLEMENT SAINT?
    En tant que missionnaire ayant voyagé pendant quatre décennies sans interruption sur tous les
 continents, je sais que pour les hommes de toutes les religions et cultures, beaucoup de choses
 sont saintes. Chez les uns c’est la «vache sacrée» ou la «montagne sacrée», chez les autres ce
@@ -546,8 +234,8 @@ sont les «saintes eaux» ou le «saint temple», le «saint lieu de pèlerinage
 la «sainte tradition» ou d’autres choses encore. Mais qu’est-ce que tout cela a donc à faire avec
 Dieu? Naturellement, rien du tout! Pour les croyants bibliques, Dieu seul est saint et tout ce qui
 vient de Lui, comme tous ceux qui ont été sanctifiés par Lui dans la Vérité de Sa Parole, le sont
-par Celui qui a dit: “… vous serez saint, car je suis saint!” (Lévitique 11.44, 19.2; 1 Pier. 1.16). Il ne peut
-y avoir aucune sanctification par la volonté d’un homme, car il est écrit: “C’est par cette volonté
+par Celui qui a dit: “… vous serez saint, car je suis saint!” (Lévitique 11.44, 19.2; 1 Pier. 1.16). Il ne
+peut y avoir aucune sanctification par la volonté d’un homme, car il est écrit: “C’est par cette volonté
 que nous avons été sanctifiés, par l’offrande du corps de Jésus-Christ faite une fois pour
 toutes” (Hébreux 10.10). C’est pour les Siens que le Sauveur a prié: “Sanctifie-les par la vérité; ta
 parole est la vérité” (Jean 17.17), et Il intercéda pour eux dans la prière sacerdotale: “Et moi, je
@@ -966,8 +654,8 @@ Testament. Toutes les prophéties, annonçant la naissance du Fils et l’effusi
 sont accomplies. Cela a commencé quand le Saint-Esprit couvrit Marie de Son ombre, et c’est
 ainsi que le Père engendra le Fils, qui ne fût pas appelé: «Fils du Saint-Esprit», mais bien: «Fils de
 Dieu» (Luc 1.35). Le Fils de Dieu engendré par l’Esprit, après avoir été baptisé, a été rempli du
-Saint-Esprit (Mat. 3.13-17), et c’est ainsi qu’a demeuré en Lui toute la plénitude de Dieu au milieu
-de nous comme il est écrit: “Car en lui habite toute la plénitude de la déité corporellement”
+Saint-Esprit (Mat. 3.13-17), et c’est ainsi qu’a demeuré en Lui toute la plénitude de Dieu au
+milieu de nous comme il est écrit: “Car en lui habite toute la plénitude de la déité corporellement”
 (Colossiens 2.9) afin que puisse s’accomplir: “… et vous êtes accomplis en lui, qui est le chef de
 toute principauté et autorité…” (v. 10). L’avant-coureur avait aussi annoncé ce qui est arrivé:
 “Moi, je vous baptise d’eau pour la repentance; mais celui qui vient après moi est plus puissant
@@ -1048,9 +736,7 @@ l’unique autorité divine.
     Christ n’a qu’une seule Eglise qu’Il a rachetée Lui-même. Il l’appelle à sortir de tous peuples,
     toutes tribus et langues, et Il la réunit à Lui-même. Le Rédempteur dit:       “… je bâtirai mon
 
-    http://www.cmpp.ch
-
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    20
+AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    20
 assemblée…” (Mat. 16.16-18). Il amène à la perfection l’Eglise qui est Sa propriété pour le jour
 glorieux de Son retour (Philippiens 1.6 et autres) “… afin que lui se présentât l’assemblée à lui-même,
 glorieuse, n’ayant ni tache, ni ride, ni rien de semblable, mais afin qu’elle fût sainte et
@@ -1230,7 +916,7 @@ annulant la parole de Dieu par votre tradition que vous vous êtes transmise…�
 signification globale, pour la foi, le baptême et le plein salut. Dans le prophète Joël, nous trouvons
 plusieurs informations sur le Nom du Seigneur qui doit être invoqué pour le salut des âmes. La
 promesse est celle-ci: “Et il arrivera que, quiconque invoquera le nom de l’Eternel sera
-sauvé” (Joël 2.32). Dans sa première prédication, Pierre se réfère à cette parole prophétique
+sauve” (Joël 2.32). Dans sa première prédication, Pierre se réfère à cette parole prophétique
 devant la foule rassemblée. Le: “Et il arrivera…” devint à cause de la rédemption: “Et il
 arriva…”. “Ceux donc qui reçurent sa parole, furent baptisés; et en ce jour-là furent ajoutées
 environ trois mille âmes” (Actes 2.41).
@@ -1536,12 +1222,10 @@ seul que se rapporte, selon sa signification, le mot «Monothéisme».
 
 
 
-
-
             Le Pape embrasse, le 14 mai 1999 au
     Vatican,    un  magnifique exemplaire    du
     Coran,   à   l’occasion  de  la visite   du
-    Patriarche   et   Imam   de  Bagdad.     De
+    Patriarche   et   Imam  de  Bagdad.     De
     nombreux    jours la télévision irakienne a
     diffusé cette image.
 
@@ -1569,10 +1253,8 @@ moi je suis dans le Père, et que le Père est en moi? Les paroles que moi je vo
 dis pas de par moi-même; mais le Père qui demeure en moi, c’est lui qui fait les oeuvres”
 (Jean 14.6 et 10). Ainsi dit le Seigneur: “Moi et le Père, nous sommes un” (Jean 10.30).
 
-        http://www.cmpp.ch
-
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    29
-        QU’EST-CE QUI EST DIGNE DE FOI?
+AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    29
+    QU’EST-CE QUI EST DIGNE DE FOI?
    Dieu et Sa Parole sont les seuls dignes de foi. Abraham crut Dieu, et cela lui fut compté à
 justice (Rom. chap. 4). Tous les véritables croyants sont de la Semence spirituelle d’Abraham
 (Gal. chap. 3). Ils marchent dans les empreintes de la foi, comme le dit l’Ecriture. Le témoignage
@@ -2041,7 +1723,8 @@ première vague de réveil ayant commencé après la Deuxième guerre mondiale s
 
     http://www.cmpp.ch
 
-    AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    37
+AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION    37
+
 admettent que William Branham était celui que Dieu avait employé pour déclencher la percée du
 réveil de salut et de guérison. Le monde n’aurait jamais entendu parler d’aucun autre
 évangéliste s’il n’y avait pas eu cette mission divine. Tous, sans exception, de ceux qui sont
@@ -2136,7 +1819,6 @@ sa rencontre” (Mat. 25.6). Le Seigneur fidèle rendra véritable dans peu de t
 Son retour, et cela encore dans nos jours. Qu’au travers des croyants véritables l’appel s’élève de
 plus en plus fort: “Maranatha! Oui, viens Seigneur Jésus!”. La grâce et la paix soit avec chacun de
 ceux qui liront cet exposé, au Nom de notre bien-aimé Seigneur Jésus-Christ. Amen!
-
 
 
 

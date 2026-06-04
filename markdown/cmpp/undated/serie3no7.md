@@ -1,13 +1,61 @@
-    SERIE 3 N° 7
+---
+source: "cmpp"
+sermon_id: "serie3no7"
+title: "Avertissement, puis Jugement"
+subtitle: "24 juillet 1963, soir"
+date: "1963-07-24"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le thème que Dieu avertit toujours avant le jugement, en s'appuyant sur l'histoire d'Ézéchias, Jonas et Amos. Il souligne l'urgence du message de repentance pour l'Église et le monde avant la venue du Seigneur."
+tags:
+  - "avertissement"
+  - "jugement"
+  - "repentance"
+  - "prophétie"
+  - "Ézéchias"
+  - "Jonas"
+  - "Amos"
+persons:
+  - "Ézéchias"
+  - "Ésaïe"
+  - "Jonas"
+  - "Amos"
+  - "Noé"
+  - "Billy Graham"
+  - "Oral Roberts"
+  - "Hudson Taylor"
+places:
+  - "Ninive"
+  - "Tarsis"
+  - "Sodome"
+  - "Jeffersonville"
+themes:
+  - "avertissement divin"
+  - "jugement imminent"
+  - "repentance"
+  - "prophètes"
+  - "urgence du message"
+  - "séparation du monde"
+pdf_url: "http://cmpp.ch/serie3no7.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 15"
+  - "1 Corinthiens 5"
+  - "1 Thessaloniciens 4"
+  - "2 Corinthiens 7"
+  - "Jean 5"
+  - "Jonas 134"
+  - "Matthieu 28"
+  - "Ésaïe 38"
+---
+SERIE 3 N° 7
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
+WILLIAM MARRION BRANHAM
 
 
 
@@ -16,12 +64,9 @@ AVERTISSEMENT, PUIS JUGEMENT
 
 
 
-
      24 juillet 1963, soir
        Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
-
-
 
 
 
@@ -39,7 +84,6 @@ Jeffersonville — Indiana, U.S.A.
                        24 juillet 1963, soir
                          Branham Tabernacle
                   Jeffersonville — Indiana, U.S.A.
-
 
 
 
@@ -1140,7 +1184,7 @@ rebondies. J’aurais voulu la serrer dans mes bras! Elle dit: «Bonjour, pasteu
      — «Oui, tantine, je l’ai lue».
 222 Elle dit: «J’étais comme elle. Avec mon mari j’avais demandé au Seigneur de me donner un
 enfant que j’élèverais pour Lui. Il l’a fait, Il m’a donné un enfant. Je l’ai élevé. C’était un beau
-garçon. Mais il a fréquenté de mauvaises compagnies, pasteur, et a attrapé une vilaine maladie. Il
+ garçon. Mais il a fréquenté de mauvaises compagnies, pasteur, et a attrapé une vilaine maladie. Il
 est couché ici, mourant. Il est mourant depuis bientôt deux jours. Il y a deux jours qu’il n’est pas
 revenu à lui. Le médecin est venu et a dit: ‹Il ne peut plus vivre. Il est mourant: c’est une maladie
 de la société›. Je ne puis supporter de voir mourir mon enfant et j’ai prié toute la nuit. J’ai dit au
@@ -1258,9 +1302,6 @@ AVERTISSEMENT, PUIS JUGEMENT        23
       Précieux Nom, Nom si doux!
       Espoir de la terre et…
      [Frère Neville termine le service — N.d.R.]
-
-
-
 
 
 

@@ -1,534 +1,309 @@
+---
+source: "cmpp"
+sermon_id: "7sceaux8"
+title: "Révélation des Sept Sceaux"
+subtitle: "Le Sixième Sceau"
+date: "1963-03-23"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "Dans ce sixième sceau, William Branham décrit les cataclysmes cosmiques (tremblement de terre, soleil noir, lune de sang, étoiles tombant) qui accompagnent l'ouverture du sceau, après le départ de l'Épouse. Il insiste sur le fait que l'Épouse ne passera pas par la tribulation, contrairement à l'église nominale. Il compare également l'attente de l'Épouse à celle d'une jeune fiancée qui croit en la promesse de son époux."
+tags:
+  - "sixième sceau"
+  - "tribulation"
+  - "enlèvement"
+  - "épouse"
+  - "martyrs juifs"
+  - "retour de Christ"
+persons:
+  - "William Branham"
+  - "Ewald Frank"
+  - "Elie"
+  - "Joseph Smith"
+  - "Eichmann"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Chicago"
+  - "Albuquerque"
+  - "Arizona"
+themes:
+  - "jugement divin"
+  - "rédemption"
+  - "parent rédempteur"
+  - "sang de Dieu"
+  - "naissance virginale"
+  - "prédestination"
+  - "séparation de l'Épouse"
+pdf_url: "http://cmpp.ch/7sceaux8.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "Apocalypse 11"
+  - "Apocalypse 119"
+  - "Apocalypse 13"
+  - "Apocalypse 19"
+  - "Apocalypse 22"
+  - "Apocalypse 6"
+  - "Apocalypse 8"
+  - "Daniel 12"
+  - "Daniel 175"
+  - "Exode 10"
+  - "Jean 6"
+  - "Matthieu 118"
+  - "Matthieu 24"
+  - "Matthieu 27"
+  - "Nombres 302"
+  - "Romains 11"
+---
 BROCHURE N° 8
 
-
-
-
-REVELATION
-DES
-SEPT SCEAUX
+RÉVÉLATION DES SEPT SCEAUX
 
 PAR
 
 WILLIAM MARRION BRANHAM
 
+---
 
+SIXIÈME SCEAU
 
+RÉVÉLATION DES SEPT SCEAUX / LE SIXIÈME SCEAU
 
+---
 
+LE SIXIÈME SCEAU
 
-
-
-
-
-SIXIEME SCEAU
-
-    REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU    2
-
-        LE SIXIEME SCEAU
-
-       23 mars 1963, soir
-    Branham Tabernacle
+23 mars 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 Inclinons nos têtes un moment. Seigneur, nous sommes de nouveau réunis pour ce culte. Et nous pensons aux temps anciens où tous venaient à Silo pour recevoir les bénédictions du Seigneur.
 
+2 Et ce soir nous nous sommes rassemblés ici pour écouter Ta Parole. Comme nous l’avons étudié dans certaines portions de cette Écriture, l’Agneau était le seul qui pouvait ouvrir les Sceaux ou les délier. Et nous Te prions ce soir, en considérant ce glorieux Sixième Sceau, nous Te prions, Père céleste, que l’Agneau l’ouvre pour nous ce soir, parce que nous sommes ici pour le comprendre. Et quand aucun homme sur la terre ou dans le Ciel ne fut trouvé suffisant, seul l’Agneau fut trouvé suffisant. Ainsi donc puisse Celui qui est pleinement suffisant venir briser ce Sceau pour nous ce soir, afin que nous puissions jeter un regard au-delà du Rideau du Temps. Père, nous croyons que cela nous aidera, dans ces jours de grandes ténèbres et de péché dans lesquels nous vivons, cela nous aidera et nous donnera du courage. Nous avons confiance maintenant que nous trouvons grâce à Tes yeux. Nous nous en remettons à la Parole, à Toi, au Nom de Jésus-Christ. Amen.
 
-1 Inclinons nos têtes un moment. Seigneur, nous sommes de nouveau réunis pour ce culte. Et
-nous pensons aux temps anciens où tous venaient à Silo pour recevoir les bénédictions du
-Seigneur.
-2 Et ce soir nous nous sommes rassemblés ici pour écouter Ta Parole. Comme nous l’avons
-étudié dans certaines portions de cette Ecriture, l’Agneau était le seul qui pouvait ouvrir les Sceaux
-ou les délier. Et nous Te prions ce soir, en considérant ce glorieux Sixième Sceau, nous Te prions,
-Père céleste, que l’Agneau l’ouvre pour nous ce soir, parce que nous sommes ici pour le
-comprendre. Et quand aucun homme sur la terre ou dans le Ciel ne fut trouvé suffisant, seul
-l’Agneau fut trouvé suffisant. Ainsi donc puisse Celui qui est pleinement suffisant venir briser ce
-Sceau pour nous ce soir, afin que nous puissions jeter un regard au-delà du Rideau du Temps.
-Père, nous croyons que cela nous aidera, dans ces jours de grandes ténèbres et de péché dans
-lesquels nous vivons, cela nous aidera et nous donnera du courage. Nous avons confiance
-maintenant que nous trouvons grâce à Tes yeux. Nous nous en remettons à la Parole, à Toi, au
-Nom de Jésus-Christ. Amen.
-3 Bonsoir, chers amis! C’est un privilège d’être de nouveau ici ce soir, d’être au service du
-Seigneur. Je suis un peu en retard. J’ai dû aller voir un cas urgent, un mourant, un membre de
-cette église. Sa mère est venue ici. Ils dirent que l’homme était en train de mourir; alors j’y allai. Ce
-n’était plus que l’ombre d’un homme, un homme ayant à peu près mon âge. Et après quelques
-instants, je le vis se lever sur ses pieds, donnant gloire au Seigneur.
-4 Ainsi, si nous acceptons de confesser nos péchés, de faire ce qui est juste, de demander
-grâce et d’invoquer Dieu, Il sera d’accord et n’attend que cela pour nous l’accorder.
-5 Je sais qu’il fait chaud, ici ce soir. Non, je crois que le chauffage est complètement éteint. J’en
-faisais la remarque hier soir, me disant qu’il y avait déjà sept jours que je n’avais vu la lumière du
-jour dans ma chambre (je m’étais éclairé pendant tout ce temps à la lumière électrique, vous
-voyez), pendant que j’étudiais et que je priais Dieu pour qu’Il m’ouvre ces Sceaux.
-6 Il y en a aussi beaucoup qui ont écrit hier soir pour apporter leurs questions; il ne s’agissait
-d’ailleurs pas tellement de questions, mais plutôt d’un service de guérison pour lequel ils
-voudraient que je reste un jour de plus, lundi. Je pourrais le faire si c’est le désir des gens que je le
-fasse. Pensez-y et faites-le moi savoir, mais si vous désirez simplement rester et prier pour les
-malades… j’avais prévu de consacrer tout ce temps à ces Sceaux et c’est pour cela que je me suis
-tenu à l’écart. Pensez-y donc, priez pour cela et ensuite, faites-le moi savoir.
-7 Et alors si le Seigneur le permet, je pourrai… Mon prochain service est à Albuquerque au
-Nouveau Mexique, dans quelques jours, et il faut encore que je rentre à la maison pour m’occuper
-d’une autre convention qui aura lieu en Arizona. Ainsi donc, si c’est la volonté du Seigneur, priez
-pour cela, je ferai la même chose et nous en saurons plus un peu plus tard.
-8 Et maintenant je détecte… Vous voyez, vous vous mettez à parler de maladie et la voilà qui
-vient. Cette dame assise là-bas, si quelque chose ne la secourt pas, elle ne pourra bientôt plus
-rester ici. Alors nous prions simplement Dieu. C’est pour cela que vous êtes ici. Vous savez, le
-Saint-Esprit connaît toutes choses; mais j’ai essayé de consacrer ce temps pour ces Sceaux parce
-que nous nous sommes réunis pour cela.
-9 Combien y a-t-il de malades qui sont venus de toute façon afin que l’on prie pour eux?
-Veuillez lever la main. Il y en a partout. Oh, mes frères! Eh bien, combien d’entre vous pensent
-que cela serait juste et selon la volonté du Seigneur d’avoir un service de guérison lundi soir, où
+3 Bonsoir, chers amis! C’est un privilège d’être de nouveau ici ce soir, d’être au service du Seigneur. Je suis un peu en retard. J’ai dû aller voir un cas urgent, un mourant, un membre de cette église. Sa mère est venue ici. Ils dirent que l’homme était en train de mourir; alors j’y allai. Ce n’était plus que l’ombre d’un homme, un homme ayant à peu près mon âge. Et après quelques instants, je le vis se lever sur ses pieds, donnant gloire au Seigneur.
 
-        http://www.cmpp.ch
+4 Ainsi, si nous acceptons de confesser nos péchés, de faire ce qui est juste, de demander grâce et d’invoquer Dieu, Il sera d’accord et n’attend que cela pour nous l’accorder.
 
-REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 3
-nous pourrions prier pour les malades? Seriez-vous d’accord? Viendriez-vous? Eh bien si le
-Seigneur le permet, c’est ce que nous ferons. Nous aurons un service de prière pour les malades
-lundi soir, et nous prierons pour eux.
-10 Maintenant j’espère que je ne suis pas en train de bouleverser le programme de ce groupe
-avec lequel je vais aller en Arizona, frère Norman. Est-il par là? Est-ce que cela dérange votre
-programme, frère Norman? Frère Fred et tous les autres, est-ce que cela va ainsi? Bien! Alors si le
-Seigneur le permet, nous prierons lundi soir pour les malades. Je ne peux réserver qu’une seule
-soirée pour prier pour les malades. A ce moment-là nous aurons terminé avec les Sceaux. Le
-Seigneur ouvre simplement ces Sceaux et ensuite, lundi, nous prierons pour les malades.
-11 Oh! vraiment, j’ai été énormément réjoui de servir le Seigneur en cela. Avez-vous apprécié
-ces Sceaux? Maintenant nous allons parler du sixième Sceau et cela va nous amener du 12ème au
-17ème verset du chapitre 6. C’est un des Sceaux les plus longs parce qu’il s’y passe beaucoup de
-choses.
-12 Et maintenant revoyons un peu ce que nous avons vu hier soir pour avoir chaque fois un
-arrière-plan. Et je voudrais encore dire quelque chose. J’ai trouvé dans la boîte quatre ou cinq
-notes très importantes pour moi. Et j’aimerais d’abord présenter des excuses à mes frères
-prédicateurs et à tous ceux qui sont ici présents (tout ceci est-il enregistré?).
-13 Hier soir, alors que je parlais d’Elie, de ce moment où il pensait qu’il serait le seul à être pris
-dans l’enlèvement ou le seul à être sauvé, j’ai dit sept cents, au lieu de sept mille. N’est-ce pas
-vrai? Eh bien, j’en suis navré, chers amis! Je le savais pourtant. J’ai bafouillé parce que je savais
-bien qu’il s’agissait de sept mille. Ce fut simplement une erreur de langage. Je vous remercie.
-14 Je suis heureux que vous soyez attentifs à ce que je dis: c’est donc sept mille. J’ai reçu deux
-ou trois notes à ce sujet, disant: “Frère Branham, je crois que vous vous êtes trompé. N’étaient-ils
-pas sept mille et non sept cents?”.
-15 Je pensai: “Je n’ai sûrement pas dit sept cents!”. Tout de suite je reçois des notes: “Frère
-Branham, je crois que vous avez dit sept cents”. Quelqu’un d’autre dit: “Frère Branham, avez-vous
-eu une vision spirituelle montrant que ce serait un type, et que vous illustriez ce type avec les
-sept…?”. Cela énerve les gens quand ils pensent à ces choses, et c’est compréhensible. Moi
-aussi, cela m’énerve.
-16 Quelque chose est arrivé lorsque ce Sceau fut révélé et je dus absolument sortir dans la cour,
-où j’ai marché un moment. C’est vrai. Tout cela m’avait tellement coupé le souffle! Vous voyez?
-Quelle tension, oh mes frères! D’autre part il y a encore ceci, c’est que vous vous reposez sur ce
-que je dis, et Dieu me rendra responsable de ce que je vous dis. C’est pour cette raison que je
-dois être absolument sûr, aussi sûr que possible de toutes ces choses, parce que c’est un temps
-extraordinaire que celui dans lequel nous vivons!
-17 Je pense au service de guérison de lundi soir. Cela ne dérangera-t-il pas vos plans, frère
-NeviIle? Notre précieux frère Neville. Je vous le dis, il n’y en a qu’un comme lui: je pense qu’on a
-cassé le moule! Ce frère a toujours été un de mes meilleurs amis, c’est moi qui vous le dis!
-18 Maintenant le tabernacle est construit, avec les salles d’école du dimanche et tout le reste, et
-tout est prêt et en ordre ici. Et pour ceux qui sont ici à Jeffersonville et qui veulent venir à l’église,
-vous avez maintenant un endroit sympathique, une salle pour l’école du dimanche, et des hommes
-compétents pour vous enseigner. Pour la classe des adultes, il y a ici frère Neville qui est un vrai
-pasteur. Je ne le dis pas pour lui jeter des fleurs, mais je préfère lui donner une petite rose
-maintenant qu’une couronne entière après son départ! Frère Neville, je le connais depuis mon
-enfance et il n’a pas changé. C’est toujours le même Orman Neville, celui qu’il a toujours été.
-19 Je me rappelle avoir visité… Il eut même la bonté de me prêter sa chaire lorsqu’il était un
-prédicateur méthodiste ici dans cette ville. Et nous avions une belle assemblée là-bas à Clarksville.
-Je crois que c’était à Howard Park, l’Eglise méthodiste de Harrison Avenue. C’est là qu’il a dû vous
-trouver, soeur Neville. Là-bas, parce qu’elle aussi était méthodiste.
-20 Lorsque je revins ici je dis à l’assemblée: «Cet homme est l’un des meilleurs que je connaisse
-et un de ces jours je m’en vais le baptiser au Nom du Seigneur Jésus». C’est ce qui arriva. Il est ici
-et maintenant c’est mon meilleur ami qui se tient toujours à mon côté; c’est un homme si honorable
-et respectable! Il s’est toujours tenu aussi près de moi que cela lui a été possible. Quoi que je dise
+5 Je sais qu’il fait chaud, ici ce soir. Non, je crois que le chauffage est complètement éteint. J’en faisais la remarque hier soir, me disant qu’il y avait déjà sept jours que je n’avais vu la lumière du jour dans ma chambre (je m’étais éclairé pendant tout ce temps à la lumière électrique, vous voyez), pendant que j’étudiais et que je priais Dieu pour qu’Il m’ouvre ces Sceaux.
 
-        http://www.cmpp.ch
+6 Il y en a aussi beaucoup qui ont écrit hier soir pour apporter leurs questions; il ne s’agissait d’ailleurs pas tellement de questions, mais plutôt d’un service de guérison pour lequel ils voudraient que je reste un jour de plus, lundi. Je pourrais le faire si c’est le désir des gens que je le fasse. Pensez-y et faites-le moi savoir, mais si vous désirez simplement rester et prier pour les malades… j’avais prévu de consacrer tout ce temps à ces Sceaux et c’est pour cela que je me suis tenu à l’écart. Pensez-y donc, priez pour cela et ensuite, faites-le moi savoir.
 
-REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 4
-il me suit et s’y tient ferme. Même lorsqu’il vint pour la première fois et qu’il ne comprenait pas
-encore le message, il le croyait et s’y tenait. C’est de l’honneur, c’est du respect. A un tel frère je
-ne pourrai jamais en dire assez en sa faveur, et maintenant le Seigneur le bénit.
-21 Bien! Maintenant voyons un peu ce cinquième Sceau d’hier soir. Nous ne retournerons pas
-jusqu’au début ce soir, mais seulement jusqu’au point nécessaire à la compréhension du
-cinquième Sceau.
-22 Nous avons vu l’antichrist qui chevauchait se constituer en trois puissances qui se groupèrent
-en une quatrième pour monter le cheval de couleur livide, la Mort, et entrer dans l’abîme sans fond
-de la perdition d’où il était sorti. Et ensuite nous avons trouvé que les Ecritures disent que lorsque
-l’ennemi vient comme une inondation, l’Esprit de Dieu élève un étendard contre lui. Nous avons vu
-tout cela parfaitement confirmé dans la Parole hier soir.
-23 Car il y avait quatre êtres vivants qui répondaient aux quatre fois où ce cavalier chevaucha. Il
-chevauchait chaque fois un cheval différent: un cheval blanc, puis un cheval rouge, un cheval noir
-et enfin un cheval de couleur livide. Et nous avons découvert ces couleurs, ce qu’elles étaient et ce
-qu’elles firent. Nous avons ensuite ramené tout cela aux âges de l’Eglise et vu exactement ce que
-cela faisait. Parfaitement.
-24 Ainsi, vous voyez, lorsque les différents passages de la Parole de Dieu se rejoignent
-ensemble, cela signifie que c’est correct. Vous voyez, je crois que tout ce qui est en accord avec la
-Parole de Dieu est toujours: «Amen!».
-25 Si une personne dit qu’elle a une vision, et qu’elle dit que cela est… Oh! elle sait que c’est le
-Seigneur qui l’a donnée parce qu’elle est venue avec une grande puissance. Eh bien la vision peut
-être très bien, mais si elle n’est pas avec la Parole et qu’elle est contraire à la Parole, alors elle
-n’est pas juste.
-26 Il se pourrait que quelques frères et soeurs mormons soient présents, ou bien reçoivent ces
-bandes, et je ne voudrais pas dire que… si vous faisiez la connaissance des Mormons, vous
-verriez que ce sont des gens très bien et leur prophète, Joseph Smith (tué ici en Illinois par les
-Méthodistes lors d’un déplacement) était un homme très bien. Et en ce qui concerne sa vision, je
-ne doute pas le moins du monde qu’il ait eu cette vision. Je crois qu’il était sincère, mais sa vision
-était contraire à l’Ecriture. Il fallut par conséquent qu’il composât une Bible des Mormons pour
-arriver à son but. Pour moi, c’est cette Bible ici qui est la Parole. Je vous le dis, c’est Ceci, la
-Parole. Voilà.
-27 Une fois, un pasteur arriva ici venant d’un pays étranger; il voyageait en voiture avec une
-dame. Ils venaient à une réunion. Je découvris qu’ils avaient roulé pendant deux ou trois jours
-ensemble pour venir à cette réunion. Ils n’étaient que les deux et la femme avait été mariée trois
-ou quatre fois. Ce pasteur entra dans le vestibule de l’hôtel où je logeais et vint à ma rencontre. Je
-me levai, lui serrai la main et me mis à lui parler.
-28 Je lui demandai: «Quand vous aurez un instant, pourrais-je vous parler un moment dans ma
-chambre?».
-29 Il me répondit: «Certainement, frère Branham». Je le conduisis à ma chambre et lui dis:
-«Monsieur le pasteur, vous êtes étranger dans le pays, mais cette dame, on ne la connaît que trop
-bien ici». Je dis encore: «Vous avez fait le trajet depuis tel endroit jusqu’ici?».
-     Il dit: «Oui, monsieur».
-30 Je lui dis alors: «Ne craignez-vous pas que cela vous fera… Je ne doute pas de vous, mais
-ne pensez-vous pas que cela pourrait jeter le discrédit sur votre bonne réputation en tant que
-pasteur? Ne pensez-vous pas que nous devrions montrer un exemple un petit peu meilleur que
-cela?».
-31 Il me répondit: «Oh! cette dame est une sainte!». Je lui dis: «Je n’en doute pas, mais frère, il
-faut tenir compte du fait que tous ceux qui la regardent ne sont pas des saints. Ils observent ce
-que vous faites; je crois que vous devriez faire attention. Je vous parle en frère. Cette dame a été
-mariée quatre ou cinq fois».
-32 Il me dit: «Oui, je le sais». Je dis: «Mais vous n’enseignez pas cela chez vous dans votre
-église, n’est-ce pas, frère?».
+7 Et alors si le Seigneur le permet, je pourrai… Mon prochain service est à Albuquerque au Nouveau Mexique, dans quelques jours, et il faut encore que je rentre à la maison pour m’occuper d’une autre convention qui aura lieu en Arizona. Ainsi donc, si c’est la volonté du Seigneur, priez pour cela, je ferai la même chose et nous en saurons plus un peu plus tard.
 
-        http://www.cmpp.ch
+8 Et maintenant je détecte… Vous voyez, vous vous mettez à parler de maladie et la voilà qui vient. Cette dame assise là-bas, si quelque chose ne la secourt pas, elle ne pourra bientôt plus rester ici. Alors nous prions simplement Dieu. C’est pour cela que vous êtes ici. Vous savez, le Saint-Esprit connaît toutes choses; mais j’ai essayé de consacrer ce temps pour ces Sceaux parce que nous nous sommes réunis pour cela.
 
-REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 5
+9 Combien y a-t-il de malades qui sont venus de toute façon afin que l’on prie pour eux? Veuillez lever la main. Il y en a partout. Oh, mes frères! Eh bien, combien d’entre vous pensent que cela serait juste et selon la volonté du Seigneur d’avoir un service de guérison lundi soir, où nous pourrions prier pour les malades? Seriez-vous d’accord? Viendriez-vous? Eh bien si le Seigneur le permet, c’est ce que nous ferons. Nous aurons un service de prière pour les malades lundi soir, et nous prierons pour eux.
+
+10 Maintenant j’espère que je ne suis pas en train de bouleverser le programme de ce groupe avec lequel je vais aller en Arizona, frère Norman. Est-il par là? Est-ce que cela dérange votre programme, frère Norman? Frère Fred et tous les autres, est-ce que cela va ainsi? Bien! Alors si le Seigneur le permet, nous prierons lundi soir pour les malades. Je ne peux réserver qu’une seule soirée pour prier pour les malades. A ce moment-là nous aurons terminé avec les Sceaux. Le Seigneur ouvre simplement ces Sceaux et ensuite, lundi, nous prierons pour les malades.
+
+11 Oh! vraiment, j’ai été énormément réjoui de servir le Seigneur en cela. Avez-vous apprécié ces Sceaux? Maintenant nous allons parler du sixième Sceau et cela va nous amener du 12ème au 17ème verset du chapitre 6. C’est un des Sceaux les plus longs parce qu’il s’y passe beaucoup de choses.
+
+12 Et maintenant revoyons un peu ce que nous avons vu hier soir pour avoir chaque fois un arrière-plan. Et je voudrais encore dire quelque chose. J’ai trouvé dans la boîte quatre ou cinq notes très importantes pour moi. Et j’aimerais d’abord présenter des excuses à mes frères prédicateurs et à tous ceux qui sont ici présents (tout ceci est-il enregistré?).
+
+13 Hier soir, alors que je parlais d’Élie, de ce moment où il pensait qu’il serait le seul à être pris dans l’enlèvement ou le seul à être sauvé, j’ai dit sept cents, au lieu de sept mille. N’est-ce pas vrai? Eh bien, j’en suis navré, chers amis! Je le savais pourtant. J’ai bafouillé parce que je savais bien qu’il s’agissait de sept mille. Ce fut simplement une erreur de langage. Je vous remercie.
+
+14 Je suis heureux que vous soyez attentifs à ce que je dis: c’est donc sept mille. J’ai reçu deux ou trois notes à ce sujet, disant: “Frère Branham, je crois que vous vous êtes trompé. N’étaient-ils pas sept mille et non sept cents?”.
+
+15 Je pensai: “Je n’ai sûrement pas dit sept cents!”. Tout de suite je reçois des notes: “Frère Branham, je crois que vous avez dit sept cents”. Quelqu’un d’autre dit: “Frère Branham, avez-vous eu une vision spirituelle montrant que ce serait un type, et que vous illustriez ce type avec les sept…?”. Cela énerve les gens quand ils pensent à ces choses, et c’est compréhensible. Moi aussi, cela m’énerve.
+
+16 Quelque chose est arrivé lorsque ce Sceau fut révélé et je dus absolument sortir dans la cour, où j’ai marché un moment. C’est vrai. Tout cela m’avait tellement coupé le souffle! Vous voyez? Quelle tension, oh mes frères! D’autre part il y a encore ceci, c’est que vous vous reposez sur ce que je dis, et Dieu me rendra responsable de ce que je vous dis. C’est pour cette raison que je dois être absolument sûr, aussi sûr que possible de toutes ces choses, parce que c’est un temps extraordinaire que celui dans lequel nous vivons!
+
+17 Je pense au service de guérison de lundi soir. Cela ne dérangera-t-il pas vos plans, frère Neville? Notre précieux frère Neville. Je vous le dis, il n’y en a qu’un comme lui: je pense qu’on a cassé le moule! Ce frère a toujours été un de mes meilleurs amis, c’est moi qui vous le dis!
+
+18 Maintenant le tabernacle est construit, avec les salles d’école du dimanche et tout le reste, et tout est prêt et en ordre ici. Et pour ceux qui sont ici à Jeffersonville et qui veulent venir à l’église, vous avez maintenant un endroit sympathique, une salle pour l’école du dimanche, et des hommes compétents pour vous enseigner. Pour la classe des adultes, il y a ici frère Neville qui est un vrai pasteur. Je ne le dis pas pour lui jeter des fleurs, mais je préfère lui donner une petite rose maintenant qu’une couronne entière après son départ! Frère Neville, je le connais depuis mon enfance et il n’a pas changé. C’est toujours le même Orman Neville, celui qu’il a toujours été.
+
+19 Je me rappelle avoir visité… Il eut même la bonté de me prêter sa chaire lorsqu’il était un prédicateur méthodiste ici dans cette ville. Et nous avions une belle assemblée là-bas à Clarksville. Je crois que c’était à Howard Park, l’Église méthodiste de Harrison Avenue. C’est là qu’il a dû vous trouver, sœur Neville. Là-bas, parce qu’elle aussi était méthodiste.
+
+20 Lorsque je revins ici je dis à l’assemblée: «Cet homme est l’un des meilleurs que je connaisse et un de ces jours je m’en vais le baptiser au Nom du Seigneur Jésus». C’est ce qui arriva. Il est ici et maintenant c’est mon meilleur ami qui se tient toujours à mon côté; c’est un homme si honorable et respectable! Il s’est toujours tenu aussi près de moi que cela lui a été possible. Quoi que je dise il me suit et s’y tient ferme. Même lorsqu’il vint pour la première fois et qu’il ne comprenait pas encore le message, il le croyait et s’y tenait. C’est de l’honneur, c’est du respect. À un tel frère je ne pourrai jamais en dire assez en sa faveur, et maintenant le Seigneur le bénit.
+
+21 Bien! Maintenant voyons un peu ce cinquième Sceau d’hier soir. Nous ne retournerons pas jusqu’au début ce soir, mais seulement jusqu’au point nécessaire à la compréhension du cinquième Sceau.
+
+22 Nous avons vu l’antichrist qui chevauchait se constituer en trois puissances qui se groupèrent en une quatrième pour monter le cheval de couleur livide, la Mort, et entrer dans l’abîme sans fond de la perdition d’où il était sorti. Et ensuite nous avons trouvé que les Écritures disent que lorsque l’ennemi vient comme une inondation, l’Esprit de Dieu élève un étendard contre lui. Nous avons vu tout cela parfaitement confirmé dans la Parole hier soir.
+
+23 Car il y avait quatre êtres vivants qui répondaient aux quatre fois où ce cavalier chevaucha. Il chevauchait chaque fois un cheval différent: un cheval blanc, puis un cheval rouge, un cheval noir et enfin un cheval de couleur livide. Et nous avons découvert ces couleurs, ce qu’elles étaient et ce qu’elles firent. Nous avons ensuite ramené tout cela aux âges de l’Église et vu exactement ce que cela faisait. Parfaitement.
+
+24 Ainsi, vous voyez, lorsque les différents passages de la Parole de Dieu se rejoignent ensemble, cela signifie que c’est correct. Vous voyez, je crois que tout ce qui est en accord avec la Parole de Dieu est toujours: «Amen!».
+
+25 Si une personne dit qu’elle a une vision, et qu’elle dit que cela est… Oh! elle sait que c’est le Seigneur qui l’a donnée parce qu’elle est venue avec une grande puissance. Eh bien la vision peut être très bien, mais si elle n’est pas avec la Parole et qu’elle est contraire à la Parole, alors elle n’est pas juste.
+
+26 Il se pourrait que quelques frères et sœurs mormons soient présents, ou bien reçoivent ces bandes, et je ne voudrais pas dire que… si vous faisiez la connaissance des Mormons, vous verriez que ce sont des gens très bien et leur prophète, Joseph Smith (tué ici en Illinois par les Méthodistes lors d’un déplacement) était un homme très bien. Et en ce qui concerne sa vision, je ne doute pas le moins du monde qu’il ait eu cette vision. Je crois qu’il était sincère, mais sa vision était contraire à l’Écriture. Il fallut par conséquent qu’il composât une Bible des Mormons pour arriver à son but. Pour moi, c’est cette Bible ici qui est la Parole. Je vous le dis, c’est Ceci, la Parole. Voilà.
+
+27 Une fois, un pasteur arriva ici venant d’un pays étranger; il voyageait en voiture avec une dame. Ils venaient à une réunion. Je découvris qu’ils avaient roulé pendant deux ou trois jours ensemble pour venir à cette réunion. Ils n’étaient que les deux et la femme avait été mariée trois ou quatre fois. Ce pasteur entra dans le vestibule de l’hôtel où je logeais et vint à ma rencontre. Je me levai, lui serrai la main et me mis à lui parler.
+
+28 Je lui demandai: «Quand vous aurez un instant, pourrais-je vous parler un moment dans ma chambre?».
+
+29 Il me répondit: «Certainement, frère Branham». Je le conduisis à ma chambre et lui dis: «Monsieur le pasteur, vous êtes étranger dans le pays, mais cette dame, on ne la connaît que trop bien ici». Je dis encore: «Vous avez fait le trajet depuis tel endroit jusqu’ici?».
+    Il dit: «Oui, monsieur».
+
+30 Je lui dis alors: «Ne craignez-vous pas que cela vous fera… Je ne doute pas de vous, mais ne pensez-vous pas que cela pourrait jeter le discrédit sur votre bonne réputation en tant que pasteur? Ne pensez-vous pas que nous devrions montrer un exemple un petit peu meilleur que cela?».
+
+31 Il me répondit: «Oh! cette dame est une sainte!». Je lui dis: «Je n’en doute pas, mais frère, il faut tenir compte du fait que tous ceux qui la regardent ne sont pas des saints. Ils observent ce que vous faites; je crois que vous devriez faire attention. Je vous parle en frère. Cette dame a été mariée quatre ou cinq fois».
+
+32 Il me dit: «Oui, je le sais». Je dis: «Mais vous n’enseignez pas cela chez vous dans votre église, n’est-ce pas, frère?».
+
 33 Il me dit: «Non, mais vous savez, j’ai eu une vision à ce sujet, frère Branham».
+
 34 Je dis: «Eh bien, c’est très bien».
-35 Il me dit: «Si cela ne vous fait rien, je crois que je pourrais rétablir une petite chose dans votre
-enseignement à ce sujet».
+
+35 Il me dit: «Si cela ne vous fait rien, je crois que je pourrais rétablir une petite chose dans votre enseignement à ce sujet».
+
 36 Je répondis: «D’accord! J’aimerais bien le savoir».
+
 37 Il commença: «Eh bien, vous savez, cette vision m’est venue dans mon sommeil».
+
 38 Je dis: «Ah, ah!» (je vis alors qu’il s’agissait d’un songe).
-39 Il dit: «Ma femme vivait avec un autre homme et me trompait. Ensuite elle vint vers moi et me
-dit: ‹Oh, chéri, pardonne-moi! Pardonne-moi! Je suis désolée d’avoir fait cela. Dès ce jour je te
-serai fidèle›. Bien sûr, je l’aimais tellement que je lui pardonnai simplement. Et alors, vous savez,
-j’ai eu l’interprétation de la vision. Il s’agissait de cette femme-là. Bien sûr qu’elle a été mariée
-toutes ces fois. Mais c’est très bien pour elle de se marier parce que le Seigneur l’aime tellement
-qu’elle peut se marier aussi souvent qu’elle le désire».
-40 Je lui dis: «Vous avez eu une bien belle vision, mais ici elle est bien loin des chemins battus.
-Ce que vous faites est faux; vous voyez, vous ne devriez pas faire cela».
-41 Vous voyez. Mais dans les Ecritures chaque passage s’emboîte dans l’autre, formant une
-continuité constante où ils se rassemblent. Là où un passage s’arrête, un autre reprend et continue
-jusqu’à ce qu’il s’emboîte dans le premier pour présenter le tableau tout entier. C’est comme un
-puzzle. Vous trouvez la pièce qui s’adapte. Rien d’autre ne peut s’y adapter; finalement l’image
-apparaît. Il n’y en a qu’Un qui puisse accomplir cela: c’est l’Agneau, et c’est pourquoi nous
-regardons à Lui.
-42 Ensuite nous avons découvert que ce cavalier était un seul cavalier qui chevauchait ces
-chevaux, et nous l’avons poursuivi d’un bout à l’autre et avons vu qu’il avait fait exactement la
-même chose que dans les âges de l’Eglise. Ensuite quand il sortit sur une certaine bête pour faire
-certaines choses, nous découvrons qu’il y eut quelqu’un d’envoyé pour combattre ce qu’il faisait.
-43 Dans le premier âge, c’est le lion qui fut envoyé. C’était la Parole, bien sûr, Christ. Le suivant
-fut le veau, pendant l’âge des ténèbres, alors que l’église s’était organisée et avait accepté des
-dogmes au lieu de la Parole. Et vous vous rappelez que tout se basait sur deux choses: l’une était
-l’antichrist, l’autre le Christ.
-44 C’est encore la même chose aujourd’hui. Il n’y a pas de chrétien moitié-moitié. On ne peut
-être en même temps ivre et sobre, il ne peut y avoir d’oiseau qui soit à la fois entièrement blanc et
-entièrement noir, et personne ne peut être à la fois un saint et un pécheur. Non! Ou bien vous êtes
-un pécheur, ou bien vous êtes un saint. Il n’y a pas d’intermédiaire. Ou bien vous êtes né de
-nouveau, ou bien vous n’êtes pas né de nouveau. Ou bien vous êtes rempli du Saint-Esprit,
-ou bien vous n’êtes pas rempli du Saint-Esprit! Si nombreuses que soient les sensations que
-vous ayez reçues, si vous n’êtes pas rempli du Saint-Esprit, alors vous n’êtes pas rempli du
-Saint-Esprit! Mais si vous avez été rempli du Saint-Esprit, votre vie le montrera. Cela se verra;
-personne n’aura besoin de le dire à qui que ce soit; on le verra, parce que c’est un sceau.
-45 Chaque fois, nous avons vu chevaucher ces bêtes. L’une fut envoyée ayant pour ministère
-d’unir les puissances politiques avec les puissances religieuses. Mais nous avons découvert que
-Dieu a envoyé Ses puissances à Lui pour combattre cela. Nous sommes retournés en arrière et
-avons vu ce qu’étaient les âges de l’Eglise et c’était exactement ainsi.
-46 Ensuite nous découvrons que vient un autre âge où l’ennemi envoie l’antichrist sous le nom
-de religion, sous le nom de christ, sous le nom d’église. Certainement! Il alla sous le nom d’église.
-Il disait: “C’est cela la vraie Eglise”. L’antichrist n’est pas la Russie. L’antichrist, ce n’est pas
-cela. L’antichrist est si près de la vraie chrétienté que la Bible dit qu’il séduirait tout ce qui
-n’était pas prédestiné.
-47 La Bible dit que, dans les derniers jours, tout ce qui n’était pas prédestiné, c’est-à-dire pas les
-élus… Il s’agit des élus. Chacun de vous, notez ce mot dans la marge pour voir ce qu’il signifie! Il
-s’agit des élus, des prédestinés. Il duperait tous ceux dont les noms n’étaient pas inscrits dans le
-Livre de Vie de l’Agneau dès la fondation du monde.
-48 Lorsque l’Agneau fut immolé, les noms furent placés dans le Livre. Ce soir Il se tient dans la
 
-        http://www.cmpp.ch
+39 Il dit: «Ma femme vivait avec un autre homme et me trompait. Ensuite elle vint vers moi et me dit: ‹Oh, chéri, pardonne-moi! Pardonne-moi! Je suis désolée d’avoir fait cela. Dès ce jour je te serai fidèle›. Bien sûr, je l’aimais tellement que je lui pardonnai simplement. Et alors, vous savez, j’ai eu l’interprétation de la vision. Il s’agissait de cette femme-là. Bien sûr qu’elle a été mariée toutes ces fois. Mais c’est très bien pour elle de se marier parce que le Seigneur l’aime tellement qu’elle peut se marier aussi souvent qu’elle le désire».
 
-REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 6
-Gloire dans le Lieu Saint en tant qu’Intercesseur, intercédant pour chacune de ces âmes dont le
-nom se trouve dans ce Livre. Et personne d’autre que Lui ne connaît ce nom. Il est Celui qui tient
-le Livre dans Sa main. Et Il sait quand le dernier entre. Alors les jours de Son intercession sont
-terminés. Puis Il s’avance pour prendre possession de ceux pour lesquels Il a intercédé.
-C’est alors qu’Il accomplit Son oeuvre de Parent Rédempteur et s’avance pour recevoir les Siens.
-49 Oh, frères! cela devrait pousser chaque chrétien à s’examiner lui-même, à élever les mains
-vers Dieu et à dire: “Purifie-moi, ô Seigneur! Sonde ma vie et fais-moi voir ce qu’il y a de mauvais
-en moi et que je m’en débarrasse au plus vite”. Car si le juste se sauve avec peine, où paraîtront le
-pécheur et l’impie? C’est le moment où jamais de s’examiner!
-50 Et si vous désirez voir où tout ceci se place et que vous vouliez le vérifier dans la Parole… (Je
-vous prierai de ne pas me poser de questions là-dessus, je veux dire de questions écrites, parce
-que cela me ferait sortir du sujet. Je pense d’ailleurs que beaucoup de ces questions ont déjà été
-apportées). Nous sommes au temps de l’enquête pour le jugement. C’est vrai. Nous verrons cela
-en étudiant les trompettes ou les coupes, si le Seigneur le permet. Et nous découvrirons ce qui
-concerne cette enquête qui a lieu juste avant le début des malheurs, et nous verrons que tout cela
-est vrai. Nous verrons les trois anges qui frappèrent la terre en criant: “Malheur, malheur, malheur
-aux habitants de la terre” (Apocalypse 8.13).
-51 Nous vivons une époque terrible. Vous voyez, les choses dans lesquelles nous sommes
-maintenant, que nous sommes en train d’étudier en ce moment même, tout cela se passe après
-le départ de l’Eglise. Ces choses sont la période de la tribulation. Et je pense qu’il devrait être
-véritablement établi dans le coeur de chaque croyant que cette Eglise ne passera jamais par la
-période de tribulation. Vous ne pouvez placer nulle part l’Eglise dans la tribulation! Vous pouvez y
-placer l’église, mais pas l’Epouse. L’Epouse est partie parce que, vous voyez, elle n’a aucun
-péché, il n’y a rien contre Elle. La grâce de Dieu l’a entièrement couverte, le Décolorant a ôté
-chaque péché et l’a rejeté si loin qu’il n’en reste même pas le souvenir. Il ne reste que la pureté.
-Elle est parfaite dans la présence de Dieu. Oh! cela devrait jeter l’Epouse à genoux et la faire crier
-à Dieu!
-52 Je pense à une petite histoire que j’aimerais vous raconter, si je ne prends pas trop de votre
-temps dans ces préliminaires. Je fais cela dans un but précis: j’attends de sentir la présence de
-l’Esprit pour commencer, car il s’agit de quelque chose de sacré. En effet, qui connaît ces choses?
-Personne, si ce n’est Dieu. Et elles ne doivent pas être révélées. Je vous prouverai par la Bible
-qu’elles ne sont pas révélées avant ce jour. C’est l’exacte vérité. On a supposé, mais maintenant
-nous devons recevoir l’exacte vérité, la vérité confirmée.
-53 C’est l’histoire d’une petite jeune fille de l’Ouest qui est tombée amoureuse d’un homme qui
-était tombé amoureux d’elle. Il était marchand de bétail, travaillant pour la Compagnie Armour. Un
-jour, le fils du patron de Chicago était venu là-bas et, bien sûr, cela avait été l’occasion d’une fête
-folklorique de l’Ouest. Toutes les filles s’étaient parées de leurs plus beaux atours: elles étaient
-toutes décidées à le conquérir parce que c’était le fils du patron! Aussi se vêtirent-elles toutes de
-leurs vêtements typiques de l’Ouest. C’est ce qui se fait dans l’Ouest.
-54 Vers la fin d’une de ces fêtes folkloriques, le frère Maguire (je crois qu’il est ici ce soir) s’est
-fait attraper en ville sans déguisement folklorique. Il fut jeté en prison et dut comparaître au tribunal
-de Kangaroo où il fut condamné à une amende et dut aller s’acheter un équipement complet de
-l’Ouest. Je les ai vus se promener dans la rue avec des pistolets longs comme ça à la ceinture. Ils
-aiment revenir au temps d’autrefois et recréer les moeurs d’alors.
-55 Et vous, dans le Kentucky, vous essayez de revivre le passé de l’Est, de retrouver les jours de
-Renfro Valley et autres. Vous aimez revenir au bon vieux temps! Il y a une raison à cela. Mais
-quand il s’agit de revenir à l’Evangile originel, vous ne le voulez pas; vous voulez quelque chose
-de moderne.
-56 Pourquoi l’homme fait-il le mal? Qu’est-ce qui le fait boire ou se conduire mal? Qu’est-ce qui
-entraîne une femme à se conduire mal? C’est parce qu’elle essaie de… Il y a en elle une soif, il y a
-en lui une soif. Et ils essaient d’étancher cette sainte soif avec les choses du monde, alors que
-Dieu devrait être Celui qui étanche. Il vous a fait de cette manière afin que vous ayez soif. C’est
-pourquoi vous avez soif de quelque chose. Dieu vous a fait ainsi afin que vous dirigiez cette sainte
-soif vers Lui. Mais quand vous essayez d’étancher cette soif… Comment ose-t-on faire cela? Vous
+40 Je lui dis: «Vous avez eu une bien belle vision, mais ici elle est bien loin des chemins battus. Ce que vous faites est faux; vous voyez, vous ne devriez pas faire cela».
 
-        http://www.cmpp.ch
+41 Vous voyez. Mais dans les Écritures chaque passage s’emboîte dans l’autre, formant une continuité constante où ils se rassemblent. Là où un passage s’arrête, un autre reprend et continue jusqu’à ce qu’il s’emboîte dans le premier pour présenter le tableau tout entier. C’est comme un puzzle. Vous trouvez la pièce qui s’adapte. Rien d’autre ne peut s’y adapter; finalement l’image apparaît. Il n’y en a qu’Un qui puisse accomplir cela: c’est l’Agneau, et c’est pourquoi nous regardons à Lui.
 
-REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 7
-n’avez aucun droit de le faire, d’essayer d’étancher cette soif que vous avez pour quelque chose…
-Vous la dirigez vers le monde pour essayer de la satisfaire avec le monde. Vous ne le pouvez pas.
-Il n’y a qu’une seule chose qui puisse répondre à ce besoin, c’est Dieu. Il vous a fait ainsi.
-57 Or ces filles se mirent à prendre les manières de l’Ouest en l’honneur de ce garçon. Chacune
-d’elles était sûre d’attraper ce garçon.
-58 Dans le ranch il y avait une de leurs petites cousines, une orpheline. Elle faisait tout le travail
-pour les autres qui avaient arrangé leurs ongles, vous savez, et qui ne pouvaient pas faire la
-vaisselle et tout le reste avec leurs mains ainsi préparées. C’est donc cette orpheline qui devait
-faire tout le travail pénible.
-59 Et finalement lorsque le garçon arriva, elles sortirent toutes en chariot à sa rencontre, dans le
-style de l’Ouest, tirant du pistolet et faisant des coquetteries et jouant la comédie.
-60 Ce soir-là il y eut un grand bal avec des danses à l’ancienne mode où tous les fermiers vinrent
-pour exécuter leurs vieilles danses. La fête dura deux ou trois jours.
-61 Un soir, alors que ce jeune homme sortait de la salle de danse pour se reposer et être
-débarrassé de ces filles pendant un moment, et qu’il regardait dans la direction de la ferme, il
-aperçut une petite jeune fille vêtue de haillons qui portait un baquet à vaisselle plein d’eau; elle
-venait de faire la vaisselle. Il pensa: “Je ne l’ai jamais vue auparavant. Je me demande d’où elle
-vient?”. Il s’arrangea pour contourner les dortoirs et venir à sa rencontre par l’arrière de l’enclos à
-chevaux.
-62 Elle était pieds nus. Elle s’arrêta. Elle garda la tête baissée. Elle savait qui c’était et se sentait
-très intimidée devant ce grand personnage. Elle n’était que la cousine de ces autres filles. Leur
-père était contre maître dans cette grande exploitation Armour. Aussi resta-t-elle les yeux baissés,
-ayant honte d’être nu-pieds.
-63 Il demanda: “Comment vous appelez-vous?”. Elle le lui dit. Il lui demanda encore: “Pourquoi
-n’êtes-vous pas là-bas avec les autres?”. Elle bafouilla quelques excuses.
-64 Le lendemain soir il la guetta de nouveau. Il finit par s’asseoir sur la barrière de l’enclos
-pendant que tous les autres étaient en train de danser et de s’amuser et la regarda vider son
-baquet. Il l’observa et lui dit: «Savez-vous quel est le but réel de ma présence ici?».
-     Elle répondit: «Non, monsieur, je l’ignore».
-65 Il dit alors: «Je suis venu ici pour chercher une épouse. Je trouve en vous un caractère que
-ces autres n’ont pas». Je pensai à mon Eglise. Il dit alors: «Voulez-vous m’épouser?».
-66 Elle répondit: «Moi, moi? Je ne peux penser à une telle chose! Moi?». Vous comprenez,
-c’était le fils du grand patron. Il possédait toutes les compagnies et les fermes de la région, et tout
-ce qui allait avec.
-67 Il dit: «Oui! Je n’ai pas pu en trouver une à Chicago. Ce que je veux, c’est une vraie femme.
-Je veux une femme qui ait du caractère. Et les choses que je cherche, je les vois en vous». Il dit:
-«Voulez-vous m’épouser?».
-     Elle répondit alors: «Eh bien…» (Cela la surprenait). Elle dit: «Oui».
-68 Il dit alors: «Bien!» et lui dit qu’il reviendrait. Il dit: «Alors préparez-vous, et dans un an à partir
-d’aujourd’hui je reviendrai et vous prendrai et je vous emmènerai loin d’ici. Vous n’aurez plus
-besoin de travailler comme maintenant. Je vous emmènerai à Chicago et je vous construirai là un
-foyer comme vous n’en avez jamais vu».
-     Elle dit: «Je n’ai jamais eu de foyer; je suis orpheline». Il dit: «Je vous construirai un foyer, un
-vrai». Il répéta: «Je reviendrai!».
-69 Elle garda cela dans son coeur toute l’année. Elle travailla tant qu’elle put afin d’économiser
-assez sur le dollar ou autre qu’elle recevait par jour afin de s’acheter une robe de mariée. (Voilà un
-type parfait de l’Eglise.) Elle prépara ses vêtements. Vous savez, lorsqu’elle présenta cette robe
-de mariée, ses cousines lui dirent: “Quoi? Pauvre petite folle! Penses-tu qu’un homme comme cela
-voudra jamais avoir à faire avec toi!”.
+42 Ensuite nous avons découvert que ce cavalier était un seul cavalier qui chevauchait ces chevaux, et nous l’avons poursuivi d’un bout à l’autre et avons vu qu’il avait fait exactement la même chose que dans les âges de l’Église. Ensuite quand il sortit sur une certaine bête pour faire certaines choses, nous découvrons qu’il y eut quelqu’un d’envoyé pour combattre ce qu’il faisait.
+
+43 Dans le premier âge, c’est le lion qui fut envoyé. C’était la Parole, bien sûr, Christ. Le suivant fut le veau, pendant l’âge des ténèbres, alors que l’église s’était organisée et avait accepté des dogmes au lieu de la Parole. Et vous vous rappelez que tout se basait sur deux choses: l’une était l’antichrist, l’autre le Christ.
+
+44 C’est encore la même chose aujourd’hui. Il n’y a pas de chrétien moitié-moitié. On ne peut être en même temps ivre et sobre, il ne peut y avoir d’oiseau qui soit à la fois entièrement blanc et entièrement noir, et personne ne peut être à la fois un saint et un pécheur. Non! Ou bien vous êtes un pécheur, ou bien vous êtes un saint. Il n’y a pas d’intermédiaire. Ou bien vous êtes né de nouveau, ou bien vous n’êtes pas né de nouveau. Ou bien vous êtes rempli du Saint-Esprit, ou bien vous n’êtes pas rempli du Saint-Esprit! Si nombreuses que soient les sensations que vous ayez reçues, si vous n’êtes pas rempli du Saint-Esprit, alors vous n’êtes pas rempli du Saint-Esprit! Mais si vous avez été rempli du Saint-Esprit, votre vie le montrera. Cela se verra; personne n’aura besoin de le dire à qui que ce soit; on le verra, parce que c’est un sceau.
+
+45 Chaque fois, nous avons vu chevaucher ces bêtes. L’une fut envoyée ayant pour ministère d’unir les puissances politiques avec les puissances religieuses. Mais nous avons découvert que Dieu a envoyé Ses puissances à Lui pour combattre cela. Nous sommes retournés en arrière et avons vu ce qu’étaient les âges de l’Église et c’était exactement ainsi.
+
+46 Ensuite nous découvrons que vient un autre âge où l’ennemi envoie l’antichrist sous le nom de religion, sous le nom de christ, sous le nom d’église. Certainement! Il alla sous le nom d’église. Il disait: “C’est cela la vraie Église”. L’antichrist n’est pas la Russie. L’antichrist, ce n’est pas cela. L’antichrist est si près de la vraie chrétienté que la Bible dit qu’il séduirait tout ce qui n’était pas prédestiné.
+
+47 La Bible dit que, dans les derniers jours, tout ce qui n’était pas prédestiné, c’est-à-dire pas les élus… Il s’agit des élus. Chacun de vous, notez ce mot dans la marge pour voir ce qu’il signifie! Il s’agit des élus, des prédestinés. Il duperait tous ceux dont les noms n’étaient pas inscrits dans le Livre de Vie de l’Agneau dès la fondation du monde.
+
+48 Lorsque l’Agneau fut immolé, les noms furent placés dans le Livre. Ce soir Il se tient dans la Gloire dans le Lieu Saint en tant qu’Intercesseur, intercédant pour chacune de ces âmes dont le nom se trouve dans ce Livre. Et personne d’autre que Lui ne connaît ce nom. Il est Celui qui tient le Livre dans Sa main. Et Il sait quand le dernier entre. Alors les jours de Son intercession sont terminés. Puis Il s’avance pour prendre possession de ceux pour lesquels Il a intercédé. C’est alors qu’Il accomplit Son œuvre de Parent Rédempteur et s’avance pour recevoir les Siens.
+
+49 Oh, frères! cela devrait pousser chaque chrétien à s’examiner lui-même, à élever les mains vers Dieu et à dire: “Purifie-moi, ô Seigneur! Sonde ma vie et fais-moi voir ce qu’il y a de mauvais en moi et que je m’en débarrasse au plus vite”. Car si le juste se sauve avec peine, où paraîtront le pécheur et l’impie? C’est le moment où jamais de s’examiner!
+
+50 Et si vous désirez voir où tout ceci se place et que vous vouliez le vérifier dans la Parole… (Je vous prierai de ne pas me poser de questions là-dessus, je veux dire de questions écrites, parce que cela me ferait sortir du sujet. Je pense d’ailleurs que beaucoup de ces questions ont déjà été apportées). Nous sommes au temps de l’enquête pour le jugement. C’est vrai. Nous verrons cela en étudiant les trompettes ou les coupes, si le Seigneur le permet. Et nous découvrirons ce qui concerne cette enquête qui a lieu juste avant le début des malheurs, et nous verrons que tout cela est vrai. Nous verrons les trois anges qui frappèrent la terre en criant: “Malheur, malheur, malheur aux habitants de la terre” (Apocalypse 8.13).
+
+51 Nous vivons une époque terrible. Vous voyez, les choses dans lesquelles nous sommes maintenant, que nous sommes en train d’étudier en ce moment même, tout cela se passe après le départ de l’Église. Ces choses sont la période de la tribulation. Et je pense qu’il devrait être véritablement établi dans le cœur de chaque croyant que cette Église ne passera jamais par la période de tribulation. Vous ne pouvez placer nulle part l’Église dans la tribulation! Vous pouvez y placer l’église, mais pas l’Épouse. L’Épouse est partie parce que, vous voyez, elle n’a aucun péché, il n’y a rien contre Elle. La grâce de Dieu l’a entièrement couverte, le Décolorant a ôté chaque péché et l’a rejeté si loin qu’il n’en reste même pas le souvenir. Il ne reste que la pureté. Elle est parfaite dans la présence de Dieu. Oh! cela devrait jeter l’Épouse à genoux et la faire crier à Dieu!
+
+52 Je pense à une petite histoire que j’aimerais vous raconter, si je ne prends pas trop de votre temps dans ces préliminaires. Je fais cela dans un but précis: j’attends de sentir la présence de l’Esprit pour commencer, car il s’agit de quelque chose de sacré. En effet, qui connaît ces choses? Personne, si ce n’est Dieu. Et elles ne doivent pas être révélées. Je vous prouverai par la Bible qu’elles ne sont pas révélées avant ce jour. C’est l’exacte vérité. On a supposé, mais maintenant nous devons recevoir l’exacte vérité, la vérité confirmée.
+
+53 C’est l’histoire d’une petite jeune fille de l’Ouest qui est tombée amoureuse d’un homme qui était tombé amoureux d’elle. Il était marchand de bétail, travaillant pour la Compagnie Armour. Un jour, le fils du patron de Chicago était venu là-bas et, bien sûr, cela avait été l’occasion d’une fête folklorique de l’Ouest. Toutes les filles s’étaient parées de leurs plus beaux atours: elles étaient toutes décidées à le conquérir parce que c’était le fils du patron! Aussi se vêtirent-elles toutes de leurs vêtements typiques de l’Ouest. C’est ce qui se fait dans l’Ouest.
+
+54 Vers la fin d’une de ces fêtes folkloriques, le frère Maguire (je crois qu’il est ici ce soir) s’est fait attraper en ville sans déguisement folklorique. Il fut jeté en prison et dut comparaître au tribunal de Kangaroo où il fut condamné à une amende et dut aller s’acheter un équipement complet de l’Ouest. Je les ai vus se promener dans la rue avec des pistolets longs comme ça à la ceinture. Ils aiment revenir au temps d’autrefois et recréer les mœurs d’alors.
+
+55 Et vous, dans le Kentucky, vous essayez de revivre le passé de l’Est, de retrouver les jours de Renfro Valley et autres. Vous aimez revenir au bon vieux temps! Il y a une raison à cela. Mais quand il s’agit de revenir à l’Évangile originel, vous ne le voulez pas; vous voulez quelque chose de moderne.
+
+56 Pourquoi l’homme fait-il le mal? Qu’est-ce qui le fait boire ou se conduire mal? Qu’est-ce qui entraîne une femme à se conduire mal? C’est parce qu’elle essaie de… Il y a en elle une soif, il y a en lui une soif. Et ils essaient d’étancher cette sainte soif avec les choses du monde, alors que Dieu devrait être Celui qui étanche. Il vous a fait de cette manière afin que vous ayez soif. C’est pourquoi vous avez soif de quelque chose. Dieu vous a fait ainsi afin que vous dirigiez cette sainte soif vers Lui. Mais quand vous essayez d’étancher cette soif… Comment ose-t-on faire cela? Vous n’avez aucun droit de le faire, d’essayer d’étancher cette soif que vous avez pour quelque chose… Vous la dirigez vers le monde pour essayer de la satisfaire avec le monde. Vous ne le pouvez pas. Il n’y a qu’une seule chose qui puisse répondre à ce besoin, c’est Dieu. Il vous a fait ainsi.
+
+57 Or ces filles se mirent à prendre les manières de l’Ouest en l’honneur de ce garçon. Chacune d’elles était sûre d’attraper ce garçon.
+
+58 Dans le ranch il y avait une de leurs petites cousines, une orpheline. Elle faisait tout le travail pour les autres qui avaient arrangé leurs ongles, vous savez, et qui ne pouvaient pas faire la vaisselle et tout le reste avec leurs mains ainsi préparées. C’est donc cette orpheline qui devait faire tout le travail pénible.
+
+59 Et finalement lorsque le garçon arriva, elles sortirent toutes en chariot à sa rencontre, dans le style de l’Ouest, tirant du pistolet et faisant des coquetteries et jouant la comédie.
+
+60 Ce soir-là il y eut un grand bal avec des danses à l’ancienne mode où tous les fermiers vinrent pour exécuter leurs vieilles danses. La fête dura deux ou trois jours.
+
+61 Un soir, alors que ce jeune homme sortait de la salle de danse pour se reposer et être débarrassé de ces filles pendant un moment, et qu’il regardait dans la direction de la ferme, il aperçut une petite jeune fille vêtue de haillons qui portait un baquet à vaisselle plein d’eau; elle venait de faire la vaisselle. Il pensa: “Je ne l’ai jamais vue auparavant. Je me demande d’où elle vient?”. Il s’arrangea pour contourner les dortoirs et venir à sa rencontre par l’arrière de l’enclos à chevaux.
+
+62 Elle était pieds nus. Elle s’arrêta. Elle garda la tête baissée. Elle savait qui c’était et se sentait très intimidée devant ce grand personnage. Elle n’était que la cousine de ces autres filles. Leur père était contremaître dans cette grande exploitation Armour. Aussi resta-t-elle les yeux baissés, ayant honte d’être nu-pieds.
+
+63 Il demanda: “Comment vous appelez-vous?”. Elle le lui dit. Il lui demanda encore: “Pourquoi n’êtes-vous pas là-bas avec les autres?”. Elle bafouilla quelques excuses.
+
+64 Le lendemain soir il la guetta de nouveau. Il finit par s’asseoir sur la barrière de l’enclos pendant que tous les autres étaient en train de danser et de s’amuser et la regarda vider son baquet. Il l’observa et lui dit: «Savez-vous quel est le but réel de ma présence ici?».
+    Elle répondit: «Non, monsieur, je l’ignore».
+
+65 Il dit alors: «Je suis venu ici pour chercher une épouse. Je trouve en vous un caractère que ces autres n’ont pas». Je pensai à mon Église. Il dit alors: «Voulez-vous m’épouser?».
+
+66 Elle répondit: «Moi, moi? Je ne peux penser à une telle chose! Moi?». Vous comprenez, c’était le fils du grand patron. Il possédait toutes les compagnies et les fermes de la région, et tout ce qui allait avec.
+
+67 Il dit: «Oui! Je n’ai pas pu en trouver une à Chicago. Ce que je veux, c’est une vraie femme. Je veux une femme qui ait du caractère. Et les choses que je cherche, je les vois en vous». Il dit: «Voulez-vous m’épouser?».
+    Elle répondit alors: «Eh bien…» (Cela la surprenait). Elle dit: «Oui».
+
+68 Il dit alors: «Bien!» et lui dit qu’il reviendrait. Il dit: «Alors préparez-vous, et dans un an à partir d’aujourd’hui je reviendrai et vous prendrai et je vous emmènerai loin d’ici. Vous n’aurez plus besoin de travailler comme maintenant. Je vous emmènerai à Chicago et je vous construirai là un foyer comme vous n’en avez jamais vu».
+    Elle dit: «Je n’ai jamais eu de foyer; je suis orpheline». Il dit: «Je vous construirai un foyer, un vrai». Il répéta: «Je reviendrai!».
+
+69 Elle garda cela dans son cœur toute l’année. Elle travailla tant qu’elle put afin d’économiser assez sur le dollar ou autre qu’elle recevait par jour afin de s’acheter une robe de mariée. (Voilà un type parfait de l’Église.) Elle prépara ses vêtements. Vous savez, lorsqu’elle présenta cette robe de mariée, ses cousines lui dirent: “Quoi? Pauvre petite folle! Penses-tu qu’un homme comme cela voudra jamais avoir à faire avec toi!”.
+
 70 Elle dit: «Mais il a promis». Elle dit: «Il a promis et je crois sa parole!».
-71 — «Oh! il s’est simplement moqué de toi. S’il avait voulu quelqu’un, il aurait pris l’une des
 
-        http://www.cmpp.ch
+71 — «Oh! il s’est simplement moqué de toi. S’il avait voulu quelqu’un, il aurait pris l’une des autres».
 
-REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 8
-autres».
 72 Elle répondit: «Mais il me l’a promis. Je l’attends!» (Moi aussi!).
-73 Les jours passèrent. Le jour arriva finalement. Son fiancé devait arriver à une certaine heure;
-alors elle revêtit sa robe. Elle n’avait plus même entendu parler de lui mais elle savait qu’il serait là.
-C’est pourquoi elle revêtit ses vêtements de noce et se prépara. C’est alors que ses compagnes
-rirent vraiment car le grand patron était allé voir le contremaître, et aucune de ces filles n’avait
-entendu parler de rien. Aussi tout cela leur était-il mystérieux.
-74 C’est bien comme cela! C’est vrai! Mais cette jeune fille avait tout fondé sur le fondement de
-sa parole qui disait qu’il reviendrait pour elle. Mais elles se moquèrent d’elle, se tenant par la taille
-et dansant autour de la pauvre fille en riant aux éclats et la traitant de pauvre petite folle.
-75 Mais elle se tint là, simplement, et ne rougit même pas. Elle tenait son bouquet de fleurs et
-elle était prête, vêtue de sa robe de mariée. Vous comprenez, elle combattait (Son Epouse, elle
-aussi, s’est préparée). Elle tenait ses fleurs et attendait. Et ses compagnes qui disaient:
-«Maintenant, nous t’avons bien dit que ce n’était pas vrai. Tu vois, il ne vient pas!».
-     Elle dit: «Il me reste encore cinq minutes. Il sera là».
-76 Oh, elles ne firent que rire. Mais juste au moment où la vieille horloge eut égrené ces cinq
-minutes, on entendit le galop de plusieurs chevaux et le bruit du gravier crissant sous des roues.
-Le vieux chariot s’arrêta.
-77 Elle s’échappa du milieu de ses compagnes et sortit. Il sauta du chariot, elle tomba dans ses
-bras et il lui dit: “Ma chérie, c’est terminé maintenant”. Elle quitta ses petites cousines (les
-dénominations), les laissant là à la regarder et s’en alla à Chicago vers sa demeure.
-78 Je connais une autre grande promesse semblable à celle-là: “Lorsque je m’en serai allé, et
-que je vous aurai préparé une place, je reviendrai, et je vous prendrai avec moi…”. Ils peuvent dire
-que nous sommes fous, mais chers frères, pour moi, en ce moment même, avec ces Sceaux qui
-se brisent ainsi sous l’action de cette chose surnaturelle, je peux presque entendre le battement de
-l’horloge du temps qui nous rapproche peu à peu de l’éternité.
-79 Je peux presque voir cet ange se tenant là et disant lors du dernier message, celui du
-septième ange: “Il n’y aura plus de temps”. Un de ces jours, cette Epouse loyale s’envolera dans
-les bras de Jésus lorsqu’Il la prendra pour la conduire dans la Maison du Père. Pensons à ces
-choses tandis que nous allons de l’avant.
-80 Remarquez le ministère du Lion, la Parole; du Veau, le labeur et le sacrifice; de la sagacité
-des réformateurs; ensuite, l’âge de l’Aigle qui vient révéler et saisir ces choses pour les montrer.
-81 Nous avons aussi vu dans la réunion d’hier soir le glorieux mystère ouvert avec ce Sceau,
-lequel était absolument contraire à ma compréhension précédente. Je présumais seulement que
-c’était juste.
-82 J’avais toujours pensé que ces âmes sous l’autel étaient les premiers martyrs chrétiens, mais
-nous avons découvert hier soir, lorsque Dieu brisa ce Sceau pour nous, que c’est absolument
-impossible. Ce n’était pas eux. Ils étaient loin, de l’autre côté, dans la gloire.
-83 Nous avons découvert que c’étaient les Juifs qui viendraient dans le temps de l’appel des
-144 000, ce que nous verrons ce soir et demain. Entre le sixième et le septième Sceaux, les
-144 000 sont appelés. Nous avons découvert que c’étaient des martyrs qui avaient été mis à mort,
-mais qu’ils n’avaient pas encore été… Ils avaient une longue robe blanche, leur nom avait été
-trouvé dans le Livre de Vie de l’Agneau, et il fut donné une longue robe blanche à chacun d’eux.
-84 Nous avons examiné cela, et je ne crois pas qu’il y ait rien dans le monde à part ce groupe de
-Juifs, qui ait passé par une période de pré-tribulation. Pendant la dernière guerre, ils en vinrent à
-être haïs de tous. Et Eichmann en a tué des millions en Allemagne (vous avez entendu parler du
-procès). Des millions d’innocents ont été massacrés, simplement parce qu’ils étaient juifs, et sans
-aucune autre raison.
-85 La Bible dit qu’ils avaient été immolés à cause de la Parole de Dieu et du témoignage qu’ils
-avaient rendus. Or nous avons découvert que l’Epouse est la Parole de Dieu, qu’Elle est le
-témoignage de Jésus-Christ. Mais les Juifs n’avaient aucun témoignage de Jésus-Christ.
-86 Et nous découvrons que la Bible dit que tout Israël (tout l’Israël prédestiné), sera sauvé
 
-        http://www.cmpp.ch
+73 Les jours passèrent. Le jour arriva finalement. Son fiancé devait arriver à une certaine heure; alors elle revêtit sa robe. Elle n’avait plus même entendu parler de lui mais elle savait qu’il serait là. C’est pourquoi elle revêtit ses vêtements de noce et se prépara. C’est alors que ses compagnes rirent vraiment car le grand patron était allé voir le contremaître, et aucune de ces filles n’avait entendu parler de rien. Aussi tout cela leur était-il mystérieux.
 
-REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 9
-(Romains 11). Nous le savons. Et nous avons vu ces âmes…
-87 Voyez comme c’est proche! Pourquoi cela ne pouvait-il pas être auparavant? Parce que ces
-choses n’étaient pas encore arrivées. Mais maintenant vous pouvez les voir. Vous voyez?
-Observez le glorieux Saint-Esprit, voyant ces choses arriver tout au long des âges et des temps, et
-maintenant c’est en train d’être révélé. Ensuite vous regarderez et vous verrez que c’est la Vérité.
-Voilà où les choses en sont.
-88 Or c’étaient les martyrs dans la période de pré-tribulation d’Eichmann. Mais ceux-ci ne sont
-qu’un type des 144 000 martyrs qui entrent, entre le sixième et le septième Sceaux. Et dans ce
-septième Sceau il n’y a qu’une chose, c’est tout: un silence d’une demi-heure dans le Ciel.
-Maintenant seul Dieu peut révéler cela. Ce n’est même symbolisé nulle part. Nous verrons cela
-demain soir. Priez pour moi.
-89 Alors que nous entrons dans ce sixième Sceau, nous pouvons remarquer… Que notre Père
-céleste nous aide, alors que nous nous mettons à ouvrir ce sixième Sceau! Lisons le chapitre 6, à
-partir du verset 12:
-        “Et je vis, lorsqu’il ouvrit le sixième sceau: et il se fit un grand tremblement de terre,
-     et le soleil devint noir comme un sac de poil, et la lune devint tout entière comme du
-     sang; et les étoiles du ciel tombèrent sur la terre, comme un figuier agité par un grand
-     vent jette loin ses figues tardives. Et le ciel se retira comme un livre qui s’enroule, et toute
-     montagne et toute île furent transportées de leur place. Et les rois de la terre, et les
-     grands, et les chiliarques, et les riches, et les forts, et tout esclave, et tout homme libre,
-     se cachèrent dans les cavernes et dans les rochers des montagnes…”.
-90 Remarquez ceci. Voyez ces hommes puissants? Qu’ont-ils fait? Ils ont reçu le vin de la colère
-à cause de la fornication avec la prostituée. C’est exactement cette catégorie-là qui a bu de son
-vin.
-        “… et ils disent aux montagnes et aux rochers: Tombez sur nous et tenez-nous
-     cachés de devant la face de celui qui est assis sur le trône et de devant la colère de
-     l’Agneau; car le grand jour de sa colère est venu, et qui peut subsister?”.
-91 Quelle introduction! Voyez ceci maintenant, ces cavaliers et les êtres vivants qui y
-répondaient ont cessé leur activité. Alors nous sommes enlevés. Ensuite nous voyons les martyrs
-sous le Trône. Ces martyrs sont les vrais Juifs orthodoxes qui sont morts dans la foi chrétienne…
-ou plutôt dans leur foi religieuse, parce qu’ils ne pouvaient être des chrétiens.
-92 Rappelez-vous que Dieu les a aveuglés. Et ils resteront aveugles longtemps, jusqu’au jour où
-l’Eglise des nations est enlevée du chemin. Dieu ne s’occupe pas de ces deux peuples à la fois,
-parce que c’est tout à fait contraire à Sa Parole.
-93 Rappelez-vous qu’Il s’occupe toujours d'Israël en tant que nation. C’est la nation d’Israël.
-Il traite les nations en tant qu’individus. C’est un peuple pris d’entre les nations. Les nations
-devaient être faites à partir de tous les peuples du monde, c’est pourquoi ici ou là un Juif y entre
-au même titre que les Arabes, les Irlandais, les Indiens et autres. Ce sont tous les peuples du
-monde qui forment un bouquet de cette Epouse.
-94 Dans la dernière partie des soixante-dix semaines, quand il s’agit de s’occuper d’Israël, Il
-traite Israël en tant que nation. Les nations sont terminées. L’heure arrive bientôt (cela pourrait être
-cette nuit même) où Dieu se détournera tout à fait des nations. C’est exact. C’est Lui qui l’a dit.
-“… et Jérusalem sera foulée aux pieds par les nations jusqu’à ce que les temps des nations soient
-accomplis”. Les temps sont terminés. Certainement! Et alors: “… et que celui qui est souillé se
-souille encore; et que celui qui est juste pratique encore la justice…”.
-95 Il n’y a plus du tout de Sang sur le Trône de la grâce, dans le Sanctuaire. Il n’y a plus de Sang
-sur l’autel. Le sacrifice a été ôté; il n’y a plus là que la fumée, les éclairs et le jugement. Et c’est
-exactement ce que nous verrons se déverser ici ce soir!
-96 L’Agneau a quitté Son oeuvre médiatrice. L’oeuvre médiatrice a fini d’être là-haut sur le Trône
-et le Sacrifice, comme nous l’avons représenté parfaitement en type (l’Agneau sanglant qui s’est
-avancé comme un Agneau immolé, un Agneau sanglant, qui a été tué, meurtri), le Parent
-Rédempteur s’avance et prend le Livre de Sa main. C’est alors que le temps est terminé.
-Maintenant Il vient réclamer ce qu’Il a racheté! Amen! Cela me fait ressentir quelque chose!
+74 C’est bien comme cela! C’est vrai! Mais cette jeune fille avait tout fondé sur le fondement de sa parole qui disait qu’il reviendrait pour elle. Mais elles se moquèrent d’elle, se tenant par la taille et dansant autour de la pauvre fille en riant aux éclats et la traitant de pauvre petite folle.
 
-        http://www.cmpp.ch
+75 Mais elle se tint là, simplement, et ne rougit même pas. Elle tenait son bouquet de fleurs et elle était prête, vêtue de sa robe de mariée. Vous comprenez, elle combattait (Son Épouse, elle aussi, s’est préparée). Elle tenait ses fleurs et attendait. Et ses compagnes qui disaient: «Maintenant, nous t’avons bien dit que ce n’était pas vrai. Tu vois, il ne vient pas!».
+    Elle dit: «Il me reste encore cinq minutes. Il sera là».
 
-REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 10
-97 Nous trouvons maintenant que Jean dit: “Et je vis, lorsqu’il ouvrit le sixième sceau: et il se fit
-un grand tremblement de terre…”. Alors toute la nature fut interrompue. Dieu a fait de grandes
-choses, comme guérir les malades et ouvrir les yeux des aveugles; Il a fait de grandes choses,
-mais nous voyons qu’ici la nature est bouleversée. Oui, la nature tout entière.
-98 Voyez ce qui arrive. Il y a un tremblement de terre, le soleil devient noir, la lune ne donne plus
-sa lumière et les étoiles sont secouées et tombent. Tout cela se passe juste au moment de
-l’ouverture du sixième Sceau. C’est alors que cela arrive, immédiatement après l’annonce faite à
-ces martyrs. Le temps des martyrs est terminé.
-99 Vous voyez, nous sommes tout proches de cette heure maintenant. Cela pourrait arriver à
-n’importe quel moment parce que l’Eglise est presque prête à prendre son envol. Mais
-souvenez-vous que lorsque ces choses arriveront l’Epouse ne sera plus là. Rappelez-vous que
-l’Epouse est partie. Elle n’aura pas à passer par aucune de ces choses! Ceci est un temps de
-tribulation pour la purification de l’église. C’est une épreuve qui est mise sur elle et par laquelle elle
-doit passer. Pas l’Epouse. Il ôte l’Elue de Son coeur, de cette voie-là. Certainement. Il l’a rachetée.
-C’est Lui qui l’a choisie, c’est Son propre choix, comme un homme qui prend son épouse.
-100 Maintenant au sujet de ce tremblement de terre, comparons les Ecritures. Avez-vous un
-crayon et du papier? J’aimerais que vous fassiez quelque chose pour moi. Si vous voulez prendre
-des notes, faites-le, à moins que vous ne receviez les bandes.
-101 J’aimerais que vous lisiez avec moi, comme vous en avez l’habitude. Comparons les Ecritures
-avec ce grand événement, afin de bien voir ce grand secret, ou mystère, qui se cache sous le
-sixième Sceau du Livre de la Rédemption.
-102 Mais rappelez-vous que ces mystères sont cachés. Et le sixième Sceau est une partie du
-grand Livre. Il y a six livres roulés ensemble qui, en se déroulant, dévoilent le Livre de la
-Rédemption tout entier. C’est ainsi que la terre entière a été rachetée.
-103 La raison pour laquelle Jean pleura est que si personne ne pouvait ouvrir ce Livre, alors toute
-la création, tout était perdu. Elle serait simplement retournée aux atomes, aux molécules et à la
-lumière cosmique; il n’y aurait plus eu de création, personne, rien, parce qu’Adam avait
-perdu les droits à ce Livre. Il les abandonna lorsqu’il écouta sa femme, elle qui écouta les
-raisonnements de Satan plutôt que la Parole de Dieu.
-104 Il abandonna tous ses droits. Mais le Livre ne pouvait revenir entre les mains souillées de
-Satan qui fit sortir Eve du droit chemin en la séduisant. C’est pourquoi il retourna à son Propriétaire
-originel, comme n’importe quel titre de propriété. Il retourna à son Propriétaire originel qui est Dieu
-le Créateur. C’est Lui qui l’a fait et qui le détient.
-105 Il y a un prix pour la rédemption. Il y avait un prix à payer pour la rédemption, et personne ne
-pouvait le payer. Alors Il dit… Il avait Ses propres lois concernant un Parent Rédempteur, mais on
-n’avait pu trouver personne.
-106 Tout homme est né par le sexe à la suite d’un désir sexuel. Tout homme était là dans le péché
-originel avec Satan et Eve, c’est pourquoi il ne pouvait rien faire. Il n’y a rien de digne en lui: qu’il
-soit pape, prêtre, docteur en théologie ou quoi que ce soit d’autre, aucun n’est digne. Cela ne
-pouvait pas être un ange parce qu’il fallait que ce soit un parent. Il devait être un homme. C’est
-alors que Dieu Lui-même devint un Parent en prenant une chair humaine par la naissance
-virginale, et Il versa Son Sang.
-107 Ce n’était pas le sang d’un Juif; ce n’était pas le sang d’un homme des nations. C’était
-le Sang de Dieu. La Bible dit que nous sommes sauvés par le Sang de Dieu. L’enfant prend
-le sang de son père. Nous le savons. Quelque chose dans le mâle produit l’hémoglobine. Une
-poule peut pondre un oeuf: si le coq n’a pas été avec elle, cet oeuf ne se développera pas; il n’est
-pas fertile. La femme n’est que l’incubateur qui porte l’oeuf; mais le germe vient du mâle et,
-dans ce cas, le mâle était Dieu Lui-même!
-108 Voilà pourquoi je dis que ce qui est haut est bas, et que ce qui est grand est petit. Dieu était
-grand au point qu’Il prit Lui-même la forme d’un germe minuscule dans la matrice d’une vierge. Et
-autour de cela, Il développa les cellules et le sang, naquit, et fut élevé sur la terre. A partir de cette
-sorte de départ sans mélange, sans aucun désir sexuel.
-109 Ensuite Il nous donna le Sang parce qu’Il était devenu notre Parent. Il était le Parent
+76 Oh, elles ne firent que rire. Mais juste au moment où la vieille horloge eut égrené ces cinq minutes, on entendit le galop de plusieurs chevaux et le bruit du gravier crissant sous des roues. Le vieux chariot s’arrêta.
 
-        http://www.cmpp.ch
+77 Elle s’échappa du milieu de ses compagnes et sortit. Il sauta du chariot, elle tomba dans ses bras et il lui dit: “Ma chérie, c’est terminé maintenant”. Elle quitta ses petites cousines (les dénominations), les laissant là à la regarder et s’en alla à Chicago vers sa demeure.
+
+78 Je connais une autre grande promesse semblable à celle-là: “Lorsque je m’en serai allé, et que je vous aurai préparé une place, je reviendrai, et je vous prendrai avec moi…”. Ils peuvent dire que nous sommes fous, mais chers frères, pour moi, en ce moment même, avec ces Sceaux qui se brisent ainsi sous l’action de cette chose surnaturelle, je peux presque entendre le battement de l’horloge du temps qui nous rapproche peu à peu de l’éternité.
+
+79 Je peux presque voir cet ange se tenant là et disant lors du dernier message, celui du septième ange: “Il n’y aura plus de temps”. Un de ces jours, cette Épouse loyale s’envolera dans les bras de Jésus lorsqu’Il la prendra pour la conduire dans la Maison du Père. Pensons à ces choses tandis que nous allons de l’avant.
+
+80 Remarquez le ministère du Lion, la Parole; du Veau, le labeur et le sacrifice; de la sagacité des réformateurs; ensuite, l’âge de l’Aigle qui vient révéler et saisir ces choses pour les montrer.
+
+81 Nous avons aussi vu dans la réunion d’hier soir le glorieux mystère ouvert avec ce Sceau, lequel était absolument contraire à ma compréhension précédente. Je présumais seulement que c’était juste.
+
+82 J’avais toujours pensé que ces âmes sous l’autel étaient les premiers martyrs chrétiens, mais nous avons découvert hier soir, lorsque Dieu brisa ce Sceau pour nous, que c’est absolument impossible. Ce n’était pas eux. Ils étaient loin, de l’autre côté, dans la gloire.
+
+83 Nous avons découvert que c’étaient les Juifs qui viendraient dans le temps de l’appel des 144 000, ce que nous verrons ce soir et demain. Entre le sixième et le septième Sceaux, les 144 000 sont appelés. Nous avons découvert que c’étaient des martyrs qui avaient été mis à mort, mais qu’ils n’avaient pas encore été… Ils avaient une longue robe blanche, leur nom avait été trouvé dans le Livre de Vie de l’Agneau, et il fut donné une longue robe blanche à chacun d’eux.
+
+84 Nous avons examiné cela, et je ne crois pas qu’il y ait rien dans le monde à part ce groupe de Juifs, qui ait passé par une période de pré-tribulation. Pendant la dernière guerre, ils en vinrent à être haïs de tous. Et Eichmann en a tué des millions en Allemagne (vous avez entendu parler du procès). Des millions d’innocents ont été massacrés, simplement parce qu’ils étaient juifs, et sans aucune autre raison.
+
+85 La Bible dit qu’ils avaient été immolés à cause de la Parole de Dieu et du témoignage qu’ils avaient rendus. Or nous avons découvert que l’Épouse est la Parole de Dieu, qu’Elle est le témoignage de Jésus-Christ. Mais les Juifs n’avaient aucun témoignage de Jésus-Christ.
+
+86 Et nous découvrons que la Bible dit que tout Israël (tout l’Israël prédestiné), sera sauvé (Romains 11). Nous le savons. Et nous avons vu ces âmes…
+
+87 Voyez comme c’est proche! Pourquoi cela ne pouvait-il pas être auparavant? Parce que ces choses n’étaient pas encore arrivées. Mais maintenant vous pouvez les voir. Vous voyez? Observez le glorieux Saint-Esprit, voyant ces choses arriver tout au long des âges et des temps, et maintenant c’est en train d’être révélé. Ensuite vous regarderez et vous verrez que c’est la Vérité. Voilà où les choses en sont.
+
+88 Or c’étaient les martyrs dans la période de pré-tribulation d’Eichmann. Mais ceux-ci ne sont qu’un type des 144 000 martyrs qui entrent, entre le sixième et le septième Sceaux. Et dans ce septième Sceau il n’y a qu’une chose, c’est tout: un silence d’une demi-heure dans le Ciel. Maintenant seul Dieu peut révéler cela. Ce n’est même symbolisé nulle part. Nous verrons cela demain soir. Priez pour moi.
+
+89 Alors que nous entrons dans ce sixième Sceau, nous pouvons remarquer… Que notre Père céleste nous aide, alors que nous nous mettons à ouvrir ce sixième Sceau! Lisons le chapitre 6, à partir du verset 12:
+
+> “Et je vis, lorsqu’il ouvrit le sixième sceau: et il se fit un grand tremblement de terre, et le soleil devint noir comme un sac de poil, et la lune devint tout entière comme du sang; et les étoiles du ciel tombèrent sur la terre, comme un figuier agité par un grand vent jette loin ses figues tardives. Et le ciel se retira comme un livre qui s’enroule, et toute montagne et toute île furent transportées de leur place. Et les rois de la terre, et les grands, et les chiliarques, et les riches, et les forts, et tout esclave, et tout homme libre, se cachèrent dans les cavernes et dans les rochers des montagnes…”
+
+90 Remarquez ceci. Voyez ces hommes puissants? Qu’ont-ils fait? Ils ont reçu le vin de la colère à cause de la fornication avec la prostituée. C’est exactement cette catégorie-là qui a bu de son vin.
+
+> “… et ils disent aux montagnes et aux rochers: Tombez sur nous et tenez-nous cachés de devant la face de celui qui est assis sur le trône et de devant la colère de l’Agneau; car le grand jour de sa colère est venu, et qui peut subsister?”.
+
+91 Quelle introduction! Voyez ceci maintenant, ces cavaliers et les êtres vivants qui y répondaient ont cessé leur activité. Alors nous sommes enlevés. Ensuite nous voyons les martyrs sous le Trône. Ces martyrs sont les vrais Juifs orthodoxes qui sont morts dans la foi chrétienne… ou plutôt dans leur foi religieuse, parce qu’ils ne pouvaient être des chrétiens.
+
+92 Rappelez-vous que Dieu les a aveuglés. Et ils resteront aveugles longtemps, jusqu’au jour où l’Église des nations est enlevée du chemin. Dieu ne s’occupe pas de ces deux peuples à la fois, parce que c’est tout à fait contraire à Sa Parole.
+
+93 Rappelez-vous qu’Il s’occupe toujours d'Israël en tant que nation. C’est la nation d’Israël. Il traite les nations en tant qu’individus. C’est un peuple pris d’entre les nations. Les nations devaient être faites à partir de tous les peuples du monde, c’est pourquoi ici ou là un Juif y entre au même titre que les Arabes, les Irlandais, les Indiens et autres. Ce sont tous les peuples du monde qui forment un bouquet de cette Épouse.
+
+94 Dans la dernière partie des soixante-dix semaines, quand il s’agit de s’occuper d’Israël, Il traite Israël en tant que nation. Les nations sont terminées. L’heure arrive bientôt (cela pourrait être cette nuit même) où Dieu se détournera tout à fait des nations. C’est exact. C’est Lui qui l’a dit. “… et Jérusalem sera foulée aux pieds par les nations jusqu’à ce que les temps des nations soient accomplis”. Les temps sont terminés. Certainement! Et alors: “… et que celui qui est souillé se souille encore; et que celui qui est juste pratique encore la justice…”
+
+95 Il n’y a plus du tout de Sang sur le Trône de la grâce, dans le Sanctuaire. Il n’y a plus de Sang sur l’autel. Le sacrifice a été ôté; il n’y a plus là que la fumée, les éclairs et le jugement. Et c’est exactement ce que nous verrons se déverser ici ce soir!
+
+96 L’Agneau a quitté Son œuvre médiatrice. L’œuvre médiatrice a fini d’être là-haut sur le Trône et le Sacrifice, comme nous l’avons représenté parfaitement en type (l’Agneau sanglant qui s’est avancé comme un Agneau immolé, un Agneau sanglant, qui a été tué, meurtri), le Parent Rédempteur s’avance et prend le Livre de Sa main. C’est alors que le temps est terminé. Maintenant Il vient réclamer ce qu’Il a racheté! Amen! Cela me fait ressentir quelque chose!
+
+97 Nous trouvons maintenant que Jean dit: “Et je vis, lorsqu’il ouvrit le sixième sceau: et il se fit un grand tremblement de terre…”. Alors toute la nature fut interrompue. Dieu a fait de grandes choses, comme guérir les malades et ouvrir les yeux des aveugles; Il a fait de grandes choses, mais nous voyons qu’ici la nature est bouleversée. Oui, la nature tout entière.
+
+98 Voyez ce qui arrive. Il y a un tremblement de terre, le soleil devient noir, la lune ne donne plus sa lumière et les étoiles sont secouées et tombent. Tout cela se passe juste au moment de l’ouverture du sixième Sceau. C’est alors que cela arrive, immédiatement après l’annonce faite à ces martyrs. Le temps des martyrs est terminé.
+
+99 Vous voyez, nous sommes tout proches de cette heure maintenant. Cela pourrait arriver à n’importe quel moment parce que l’Église est presque prête à prendre son envol. Mais souvenez-vous que lorsque ces choses arriveront l’Épouse ne sera plus là. Rappelez-vous que l’Épouse est partie. Elle n’aura pas à passer par aucune de ces choses! Ceci est un temps de tribulation pour la purification de l’église. C’est une épreuve qui est mise sur elle et par laquelle elle doit passer. Pas l’Épouse. Il ôte l’Élue de Son cœur, de cette voie-là. Certainement. Il l’a rachetée. C’est Lui qui l’a choisie, c’est Son propre choix, comme un homme qui prend son épouse.
+
+100 Maintenant au sujet de ce tremblement de terre, comparons les Écritures. Avez-vous un crayon et du papier? J’aimerais que vous fassiez quelque chose pour moi. Si vous voulez prendre des notes, faites-le, à moins que vous ne receviez les bandes.
+
+101 J’aimerais que vous lisiez avec moi, comme vous en avez l’habitude. Comparons les Écritures avec ce grand événement, afin de bien voir ce grand secret, ou mystère, qui se cache sous le sixième Sceau du Livre de la Rédemption.
+
+102 Mais rappelez-vous que ces mystères sont cachés. Et le sixième Sceau est une partie du grand Livre. Il y a six livres roulés ensemble qui, en se déroulant, dévoilent le Livre de la Rédemption tout entier. C’est ainsi que la terre entière a été rachetée.
+
+103 La raison pour laquelle Jean pleura est que si personne ne pouvait ouvrir ce Livre, alors toute la création, tout était perdu. Elle serait simplement retournée aux atomes, aux molécules et à la lumière cosmique; il n’y aurait plus eu de création, personne, rien, parce qu’Adam avait perdu les droits à ce Livre. Il les abandonna lorsqu’il écouta sa femme, elle qui écouta les raisonnements de Satan plutôt que la Parole de Dieu.
+
+104 Il abandonna tous ses droits. Mais le Livre ne pouvait revenir entre les mains souillées de Satan qui fit sortir Eve du droit chemin en la séduisant. C’est pourquoi il retourna à son Propriétaire originel, comme n’importe quel titre de propriété. Il retourna à son Propriétaire originel qui est Dieu le Créateur. C’est Lui qui l’a fait et qui le détient.
+
+105 Il y a un prix pour la rédemption. Il y avait un prix à payer pour la rédemption, et personne ne pouvait le payer. Alors Il dit… Il avait Ses propres lois concernant un Parent Rédempteur, mais on n’avait pu trouver personne.
+
+106 Tout homme est né par le sexe à la suite d’un désir sexuel. Tout homme était là dans le péché originel avec Satan et Eve, c’est pourquoi il ne pouvait rien faire. Il n’y a rien de digne en lui: qu’il soit pape, prêtre, docteur en théologie ou quoi que ce soit d’autre, aucun n’est digne. Cela ne pouvait pas être un ange parce qu’il fallait que ce soit un parent. Il devait être un homme. C’est alors que Dieu Lui-même devint un Parent en prenant une chair humaine par la naissance virginale, et Il versa Son Sang.
+
+107 Ce n’était pas le sang d’un Juif; ce n’était pas le sang d’un homme des nations. C’était le Sang de Dieu. La Bible dit que nous sommes sauvés par le Sang de Dieu. L’enfant prend le sang de son père. Nous le savons. Quelque chose dans le mâle produit l’hémoglobine. Une poule peut pondre un œuf: si le coq n’a pas été avec elle, cet œuf ne se développera pas; il n’est pas fertile. La femme n’est que l’incubateur qui porte l’œuf; mais le germe vient du mâle et, dans ce cas, le mâle était Dieu Lui-même!
+
+108 Voilà pourquoi je dis que ce qui est haut est bas, et que ce qui est grand est petit. Dieu était grand au point qu’Il prit Lui-même la forme d’un germe minuscule dans la matrice d’une vierge. Et autour de cela, Il développa les cellules et le sang, naquit, et fut élevé sur la terre. À partir de cette sorte de départ sans mélange, sans aucun désir sexuel.
+
+109 Ensuite Il nous donna le Sang parce qu’Il était devenu notre Parent. Il était le Parent Rédempteur.
 
 REVELATION DES SEPT SCEAUX / LE SIXIEME SCEAU 11
 Rédempteur. Il répandit ce Sang librement. Il n’était pas obligé de le faire. Il Le donna librement
@@ -1277,7 +1052,7 @@ s’installèrent. C’est vrai! C’est toujours l’homme. Eh bien, je pense q
 267 Je me tenais l’autre jour dans l’état où je demeure actuellement: l’Arizona. Lorsque j’étais
 enfant je lisais ces histoires au sujet de Geronimo, Cochise et tous ces anciens Apaches, auxquels
 j’ai d’ailleurs prêché. Ce sont des gens très bien. Ces Indiens apaches sont parmi les plus braves
-gens que vous puissiez rencontrer. Et j’allai à Tombstone, là où ils ont toutes leurs vieilles reliques
+ gens que vous puissiez rencontrer. Et j’allai à Tombstone, là où ils ont toutes leurs vieilles reliques
 de la guerre. Vous savez qu’on a toujours classé Geronimo parmi les renégats? Moi, je le
 considère comme un Américain pur-sang! Absolument! Il ne faisait que combattre pour ses droits,
 comme n’importe qui le ferait. Il ne voulait pas cette pollution dans son pays. Voyez ce qui en est

@@ -1,541 +1,234 @@
-LE CHRISTIANISME
-HIER ET
-AUJOURD’HUI
+---
+source: "cmpp"
+sermon_id: "christianisme"
+title: "LE CHRISTIANISME HIER ET AUJOURD'HUI"
+subtitle: "Coup d’oeil historique sur l’Eglise"
+date: "1985-01-01"
+year: 1985
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Cette brochure examine l'évolution du christianisme depuis l'Église primitive jusqu'à aujourd'hui, en soulignant les déviations doctrinales et pratiques introduites par les traditions humaines. L'auteur appelle à un retour à la pure Parole de Dieu et à la foi originelle des apôtres, critiquant les dogmes non bibliques comme la vénération de Marie, la papauté et les sacrements inventés."
+tags:
+  - "christianisme"
+  - "histoire de l'Église"
+  - "doctrine"
+  - "tradition"
+  - "réforme"
+persons:
+  - "Ewald Frank"
+  - "Jésus-Christ"
+  - "Pierre"
+  - "Paul"
+  - "Constantin"
+  - "Luther"
+  - "Marie"
+places:
+  - "Rome"
+  - "Nicée"
+  - "Krefeld"
+themes:
+  - "déviation doctrinale"
+  - "autorité de l'Écriture"
+  - "tradition humaine"
+  - "Église primitive"
+  - "réforme"
+  - "jugement"
+pdf_url: "http://cmpp.ch/christianisme.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Jean 2"
+  - "1 Timothée 2"
+  - "1 Timothée 3"
+  - "1 Timothée 4"
+  - "2 Pierre 3"
+  - "Actes 2"
+  - "Actes 22"
+  - "Actes 4"
+  - "Apocalypse 13"
+  - "Apocalypse 16"
+  - "Apocalypse 22"
+  - "Colossiens 1"
+  - "Deutéronome 4"
+  - "Galates 2"
+  - "Galates 3"
+  - "Hébreux 10"
+  - "Hébreux 6"
+  - "Hébreux 9"
+  - "Jacques 1"
+  - "Jean 20"
+  - "Jean 3"
+  - "Jean 5"
+  - "Luc 10"
+  - "Luc 24"
+  - "Marc 7"
+  - "Matthieu 16"
+  - "Matthieu 18"
+  - "Matthieu 7"
+  - "Proverbes 30"
+  - "Romains 1"
+  - "Romains 10"
+  - "Romains 12"
+  - "Romains 5"
+  - "Tite 2"
+  - "Éphésiens 1"
+  - "Éphésiens 4"
+  - "Ésaïe 22"
+  - "Ésaïe 35"
+  - "Ésaïe 48"
+  - "Ésaïe 53"
+---
+LE CHRISTIANISME HIER ET AUJOURD'HUI
 
+Coup d’oeil historique sur l’Eglise
 
+AVANT-PROPOS
 
-COUP D’OEIL HISTORIQUE SUR L’EGLISE
+Le propos de cette brochure est de donner une impulsion nouvelle à ceux qui la liront. Nous avons pour but de rendre chacun attentif, afin que tout devienne clair en lui sur ce sujet. En se taisant beaucoup se sont déjà chargés d’une faute grave; mais d’autre part celui qui par ses propos ou ses écrits s’écarte de la tendance générale fait alors mauvaise impression. De toute façon, il n’est pas possible de plaire à tout le monde.
 
+La génération d’aujourd’hui n’est pas responsable des fautes d’aiguillage qui se sont constamment répétées dans le passé. C’est pourquoi nul ne devrait se sentir personnellement attaqué. Si le développement des erreurs dans l’histoire de l’église est démontré, ce n’est pas pour le plaisir de critiquer mais bien par amour de la Vérité. En lisant cette brochure chacun devrait reconnaître les bonnes intentions qui l’ont inspirée et voir aussi la main qui lui est tendue.
 
+Nous croyons que le monde ecclésiastique dans son ensemble est persuadé d’enseigner et d’agir de façon correcte. Tous s’efforcent de faire la volonté de Dieu. Cependant personne n’a mis devant leurs yeux le fait qu’une totale déviation de la prédication originelle et de sa pratique a eu lieu. Aujourd’hui on ne trouve parmi eux que des coutumes et des traditions qui n’ont absolument aucun fondement biblique.
 
+Leur orientation spirituelle s’est perdue et les foules sont conduites faussement. Pour ce qui est du zèle et du dévouement, on les trouve dans toutes les religions, cependant quelque soit l’effort fait par l’homme, cela ne suffit pas pour trouver grâce devant Dieu.
 
-EWALD FRANK
+Dans cette courte introduction certains thèmes ne seront qu’effleurés ou traités en style télégraphique. Dans des publications ultérieures nous nous occuperons d’entrer d’une manière plus détaillée dans les doctrines et thèmes posés comme fondements. Le développement actuel aussi sera éclairé à la lumière des prophéties bibliques.
 
-    LE CHRISTIANISME HIER ET AUJOURD'HUI    2
+Krefeld, printemps 1985    L’auteur
 
+QUELLE EST LA RELIGION JUSTE?
 
+Nous voulons nous occuper ici du sujet le plus important qui existe. Au fond cela devrait intéresser tout homme. L’indifférence peut devenir du fatalisme. Chacun sait qu’il y a différentes religions. Mais la question qui devrait être posée est celle-ci: y a-t-il une religion véritable? Toutes prétendent être dans la vérité. Cependant il est compréhensible que le scepticisme se soit développé d’une telle façon à l’égard des choses religieuses. Des gens se détournent des confessions religieuses et ils ne veulent plus rien avoir à faire avec Dieu. En général on considère même que Dieu et la religion vont ensemble. Cependant il y a des personnes qui réfléchissent sur ces choses dans le silence et se demandent s’il n’y aurait pas un Dieu vivant qui se soucie de l’homme. Mais comment trouver son chemin dans toutes les ramifications religieuses? Qui peut donner à la question posée une réponse positive? Ou bien tout cela n’est-il que tromperie? Les Hindous ont-ils raison? Les Musulmans ont-ils raison? ou bien serait-ce les Bouddhistes? L’un des fondateurs de religions est-il ressuscité d’entre les morts? Jusqu’à ce jour, l’humanité n’a entendu parler que de la résurrection d’un Seul. Tous les autres ont été ensevelis avec leurs doctrines.
 
+La Vérité ne peut venir que du Véritable. A-t-Il à un moment quelconque fondé une religion? Si oui, où et quand cela s’est-il passé? quelle est-elle? Si non aucune religion n’a le droit de se référer à Lui. Tout homme ne peut que s’égarer, et en fait il s’égare. C’est pourquoi nous ne pouvons pas davantage nous reposer sur les fondateurs de religions, ou sur les princes ecclésiastiques que sur nous-mêmes. A part les religions connues dans le monde l’on peut compter, uniquement dans le christianisme, bien quelques centaines de réunions d’églises diverses. Chacune d’entre elles a un enseignement particulier et fait le salut de ses membres par sa méthode. Naturellement qu’aucune de ces institutions religieuses ne peut être soupçonnée de conduire intentionnellement ces personnes dans l’erreur. Cependant le fait qu’existent tant de courants spirituels nous oblige à réfléchir.
 
-    LE CHRISTIANISME HIER ET AUJOURD’HUI
+Tout homme qui veut atteindre un but doit se mettre en route. Mais comment trouverons-nous le chemin qui nous conduira au but avec certitude? Comment trouverons-nous la Vérité sur laquelle nous pourrons absolument nous reposer? Au travers de toute cette confusion humaine il doit y avoir une possibilité de découvrir la trace divine. Qui dans ce siècle éclairé peut se confier aveuglément à n’importe quelle foi? Il ne suffit pas de déclarer quelque chose comme étant divin; cela doit être légitimé d’en-haut! Chacun devrait faire usage de son droit à être orienté spirituellement. Il s’agit pourtant de quelque chose de plus que de cette courte vie terrestre.
 
-    Coup d’oeil historique sur l’Eglise
+Nous sommes destinés à avoir communion avec le Père céleste. Il n’y a pas seulement une vie temporaire, mais aussi une vie éternelle. Aussi certainement qu’il y a un corps physique, ainsi y en a-t-il un spirituel. Si cela va de soi qu’il y a une vie sur la terre, de même cela va de soi qu’il y a également une vie dans le ciel. C’est le même Dieu qui a créé le ciel, la terre et tout ce qui s’y trouve. La majesté de la création rend un puissant témoignage du Créateur.
 
+Beaucoup croient que l’appartenance à une église ou à une communauté religieuse les relie au salut. Ce point de vue est plus ou moins soutenu dans les religions. Font-elles toutes des promesses vides de sens?
 
+Celui qui visite un cimetière peut lire des épitaphes bien sonnantes sur les pierres tombales telles que: «Ici repose en paix…», «Entré bienheureux à la maison…», «Caché en Dieu…». Les annonces mortuaires dans les journaux résonnent tout aussi bien: «… bienheureusement endormi», «… appelé par Dieu à la maison…», «… est décédé muni des saints sacrements de l’église catholique romaine…». Tout cela donne l’impression que tous les morts se trouvent auprès du Seigneur. Mais qu’en est-il en réalité? Somme toute, ceux qui sont partis avaient-ils même une relation personnelle avec le Seigneur?
 
+Au cimetière, ceux qui restent reçoivent ces paroles de consolation: «Il a plu au Seigneur de prendre dans Son Royaume le frère, ou la soeur…». Ensuite dans l’église on fait savoir solennellement aux personnes endeuillées que ceux qui sont partis ne se trouvent pas au Paradis mais au purgatoire. Mis à part le fait que cette notion est de pure imagination et ne se trouve pas une seule fois mentionnée dans les Ecritures Saintes, on doit se poser sérieusement la question de savoir ce qui est vrai. Où se trouve maintenant réellement celui qui est parti? Est-il possible que de leur naissance à leur mort les gens soient maintenus dans l’erreur et qu’on ne les fasse qu’espérer? Leur vie durant on dit qu’ils sont sauvés et après leur mort ils n’ont visiblement pas atteint le but. La religion n’est-elle donc pas de l’opium destiné à tranquilliser les gens jusqu’au moment terrible du réveil?
 
-        AVANT-PROPOS
-   Le propos de cette brochure est de donner une impulsion nouvelle à ceux qui la liront.
-Nous avons pour but de rendre chacun attentif, afin que tout devienne clair en lui sur ce
-sujet. En se taisant beaucoup se sont déjà chargés d’une faute grave; mais d’autre part
-celui qui par ses propos ou ses écrits s’écarte de la tendance générale fait alors mauvaise
-impression. De toute façon, il n’est pas possible de plaire à tout le monde.
-   La génération d’aujourd’hui n’est pas responsable des fautes d’aiguillage qui se sont
-constamment répétées dans le passé. C’est pourquoi nul ne devrait se sentir
-personnellement attaqué. Si le développement des erreurs dans l’histoire de l’église est
-démontré, ce n’est pas pour le plaisir de critiquer mais bien par amour de la Vérité. En
-lisant cette brochure chacun devrait reconnaître les bonnes intentions qui l’ont inspirée et
-voir aussi la main qui lui est tendue.
-   Nous croyons que le monde ecclésiastique dans son ensemble est persuadé
-d’enseigner et d’agir de façon correcte. Tous s’efforcent de faire la volonté de Dieu.
-Cependant personne n’a mis devant leurs yeux le fait qu’une totale déviation de la
-prédication originelle et de sa pratique a eu lieu. Aujourd’hui on ne trouve parmi eux que
-des coutumes et des traditions qui n’ont absolument aucun fondement biblique.
-   Leur orientation spirituelle s’est perdue et les foules sont conduites faussement. Pour ce
-qui est du zèle et du dévouement, on les trouve dans toutes les religions, cependant
-quelque soit l’effort fait par l’homme, cela ne suffit pas pour trouver grâce devant Dieu.
-   Dans cette courte introduction certains thèmes ne seront qu’effleurés ou traités en style
-télégraphique. Dans des publications ultérieures nous nous occuperons d’entrer d’une
-manière plus détaillée dans les doctrines et thèmes posés comme fondements. Le
-développement actuel aussi sera éclairé à la lumière des prophéties bibliques.
-    Krefeld, printemps 1985    L’auteur
+D’un bout à l’autre de l’année ils reçoivent des sacrements qui devraient les sauver, sans qu’ils aient effectivement reçu le salut. Depuis le baptême des bébés jusqu’à l’extrême-onction, en passant par la confirmation, ils ont été préparés pour le salut. Et après tous ces nombreux efforts, en voici le triste résultat: la personne décédée n’a pas été prise en haut mais elle est allée en bas.
 
+Sur ce terrain personne ne peut mieux en parler que les médecins et infirmières qui assistent sans cesse au décès des gens. Sans égard pour l’appartenance de la personne à une communauté religieuse, une lutte s’engage contre la mort. Généralement on ne connaît pas le désespoir qui vient sur le mourant. Il n’y a pas la moindre trace de foi, de certitude et de joie. Les gens, supposant qu’ils ont agi au mieux de leur connaissance et de leur conscience selon les exigences de Dieu, sont rendus à l’évidence qu’il ne s’agit pas du tout de ce que Dieu exige, mais bien de ce que les églises réclament et imposent à leurs membres.
 
+Puisqu’il s’agit ici de vie ou de mort, chacun devrait s’éprouver soi-même. Tout homme, quelle que soit sa race ou sa nationalité, a le droit d’apprendre la vérité sur Dieu et sur lui-même. Quiconque n’est pas indifférent à son avenir éternel a même le devoir de faire une comparaison entre ce qui est enseigné et pratiqué dans son église et ce qu’en disent les Saintes Ecritures. Seul ce qui vient de Dieu conduit au Seigneur et peut subsister devant Lui. Celui qui dit: «Je m’en fiche! Après moi le déluge!» ne sait pas du tout ce qu’il dit. La Bible est réellement le seul livre sur terre qui nous conduise dans l’intimité de Dieu et la connaissance de Ses desseins. Du commencement à la fin on y trouve les réalités divines confirmées.
 
+Nous devrions prendre au sérieux aussi bien notre vie que notre mort. Il ne s’agit pas de donner aux vivants la peur devant la mort, mais au contraire, ici nous voulons montrer le chemin qui conduit au but. La foi et la confiance en Dieu ainsi qu’en Sa Parole doivent être restaurées à tout prix. Dieu est véridique, et Sa Parole est placée au-dessus de tout doute. Dans toutes les religions on suscite la peur à l’égard de Dieu, alors qu’en même temps on a gagné leur confiance dans les dispositions religieuses humaines. Notre tâche consiste à ébranler la confiance que les gens placent dans toutes les religions et de les amener à croire en la véracité de Dieu et de Sa Parole.
 
+Le Tout-Puissant a formé des desseins, Il a un plan pour l’humanité. Malheureusement les hommes ont conçu leurs propres plans et ils ont élevé à l’intérieur du Royaume de Dieu leurs propres royaumes religieux. L’humain se trouve en opposition directe avec le Divin. Celui qui veut se laisser intégrer au conseil éternel de Dieu doit sortir de toutes les religions imaginées au cours des siècles.
 
+Le Dieu Tout-Puissant est en même temps omniscient et Il a conçu avant la fondation du monde un plan pour l’humanité. L’interruption temporaire survenue à cause d’une défaillance humaine par la désobéissance et la transgression n’annule pas Ses desseins éternels. Comme le Seigneur connaissait toutes choses à l’avance, Il avait pu en tenir compte dans Ses projets. La Parole de Dieu est tout autant véritable et infaillible que Dieu Lui-même.
 
+Le chemin de Dieu avec l’humanité est clairement décrit dans Sa Parole. Malheureusement il a été enténébré et rendu impraticable par les traditions religieuses. Même si les dogmes sont vieux de centaines ou de milliers d’années, ils restent ce qu’ils sont: c’est-à-dire des thèses introduites par les hommes et rien d’autre. Les dogmes ne peuvent pas devenir automatiquement justes simplement parce qu’ils ont été promulgués par une institution religieuse. Ce qui est humain ne deviendra jamais Divin, et ce qui est Divin ne sera jamais humain. La Vérité et le mensonge s’excluent l’un l’autre. Ou bien on a à faire avec la Vérité, ou bien on a à faire avec l’erreur. La Source de toute Vérité est Dieu; l’auteur de tout mensonge est Satan. Un parfait mensonge est une fausse présentation de la Vérité, et le monde religieux est plein de cela. Toute théorie ou pratique qui ne s’accorde pas avec les Saintes Ecritures ne peut jamais être d’origine divine. La Parole de Dieu contient le témoignage total que le Seigneur a remis à l’humanité.
 
+Les prophètes de l’Ancien Testament ont fait connaître la venue du Messie, et avec Lui du salut de Dieu; les apôtres ont été des témoins oculaires de l’accomplissement des prophéties dans la vie du Sauveur; au moyen de la prédication de l’Evangile l’offre de la grâce divine est transmise à tous les hommes. Une réalité confirmée par Dieu peut être crue de chacun. Il y a une grande différence entre l’église du début et le christianisme d’aujourd’hui. Tout ce qui se trouvait dans la première Eglise manque à l’église d’aujourd’hui, et tout ce qui existe dans le christianisme établi ne se trouvait pas dans l’Eglise primitive; une comparaison fait apparaître cela clairement.
 
+Dans l’Eglise primitive la prédication était conforme aux Ecritures. Les apôtres avaient été enseignés par le Seigneur Lui-même et ils se trouvaient sous la direction du Saint-Esprit. Celui qui lit les premiers chapitres des Actes des apôtres peut avoir un aperçu de la vie de l’Eglise primitive. Une plénitude de l’Esprit et des bénédictions de Dieu était manifestée en Elle. Les premiers chrétiens n’étaient qu’un coeur et qu’une âme; ils partageaient tout entre eux et formaient une grande famille de Dieu. L’Eglise primitive n’était pas une organisation rigide mais bien un organisme vivant. Notre Seigneur dit: “… je bâtirai mon église, et les portes du séjour des morts ne prévaudront point contre elle”. Aujourd’hui encore Il s’en occupe.
 
+De même que Dieu s’est révélé en Christ, ainsi Christ se révélait au moyen de Son Eglise. La même prédication, le même service se poursuivaient. De grands signes et miracles s’accomplissaient. Des incrédules devenaient des croyants, des possédés étaient libérés et des malades guéris. Tout était à ce moment-là encore valable; la Parole de Dieu s’appliquait encore comme une mesure toujours valable à ceux qui devenaient croyants. Ils plaçaient leur confiance dans le Seigneur qu’ils avaient vu dans Son service, dans Ses souffrances, Sa mort et Sa résurrection. Une sainte crainte était en eux en Sa présence car ils avaient assisté à tous ces événements et ils se rassemblaient en Son Nom.
 
-        http://www.cmpp.ch
+Dans le christianisme originel il y avait des apôtres, des prophètes, des évangélistes, des pasteurs et des docteurs (1 Corinthiens 12.28; Éphésiens 4.11). Ces différents services avaient été établis par Dieu dans Son Eglise. Ils étaient nécessaires à l’édification spirituelle et se complétaient les uns les autres. En ce temps-là on ne savait rien d’un Pape, de cardinaux, d’archevêques, de moines ou de nonnes. Toutes ces choses qui dans le monde chrétien d’aujourd’hui sont considérées comme allant de soi n’existaient pas en ce temps-là.
 
-    LE CHRISTIANISME HIER ET AUJOURD'HUI    3
-        QUELLE EST LA RELIGION JUSTE?
-   Nous voulons nous occuper ici du sujet le plus important qui existe. Au fond cela devrait
-intéresser tout homme. L’indifférence peut devenir du fatalisme. Chacun sait qu’il y a différentes
-religions. Mais la question qui devrait être posée est celle-ci: y a-t-il une religion véritable? Toutes
-prétendent être dans la vérité. Cependant il est compréhensible que le scepticisme se soit
-développé d’une telle façon à l’égard des choses religieuses. Des gens se détournent des
-confessions religieuses et ils ne veulent plus rien avoir à faire avec Dieu. En général on considère
-même que Dieu et la religion vont ensemble. Cependant il y a des personnes qui réfléchissent sur
-ces choses dans le silence et se demandent s’il n’y aurait pas un Dieu vivant qui se soucie de
-l’homme. Mais comment trouver son chemin dans toutes les ramifications religieuses? Qui peut
-donner à la question posée une réponse positive? Ou bien tout cela n’est-il que tromperie? Les
-Hindous ont-ils raison? Les Musulmans ont-ils raison? ou bien serait-ce les Bouddhistes? L’un des
-fondateurs de religions est-il ressuscité d’entre les morts? Jusqu’à ce jour, l’humanité n’a
-entendu parler que de la résurrection d’un Seul. Tous les autres ont été ensevelis avec leurs
-doctrines.
-   La Vérité ne peut venir que du Véritable. A-t-Il à un moment quelconque fondé une religion?
-Si oui, où et quand cela s’est-il passé? quelle est-elle? Si non aucune religion n’a le droit de se
-référer à Lui. Tout homme ne peut que s’égarer, et en fait il s’égare. C’est pourquoi nous ne
-pouvons pas davantage nous reposer sur les fondateurs de religions, ou sur les princes
-ecclésiastiques que sur nous-mêmes. A part les religions connues dans le monde l’on peut
-compter, uniquement dans le christianisme, bien quelques centaines de réunions d’églises
-diverses. Chacune d’entre elles a un enseignement particulier et fait le salut de ses membres par
-sa méthode. Naturellement qu’aucune de ces institutions religieuses ne peut être soupçonnée de
-conduire intentionnellement ces personnes dans l’erreur. Cependant le fait qu’existent tant de
-courants spirituels nous oblige à réfléchir.
-   Tout homme qui veut atteindre un but doit se mettre en route. Mais comment trouverons-nous le
-chemin qui nous conduira au but avec certitude? Comment trouverons-nous la Vérité sur laquelle
-nous pourrons absolument nous reposer? Au travers de toute cette confusion humaine il doit y
-avoir une possibilité de découvrir la trace divine. Qui dans ce siècle éclairé peut se confier
-aveuglément à n’importe quelle foi? Il ne suffit pas de déclarer quelque chose comme étant divin;
-cela doit être légitimé d’en-haut! Chacun devrait faire usage de son droit à être orienté
-spirituellement. Il s’agit pourtant de quelque chose de plus que de cette courte vie terrestre.
-   Nous sommes destinés à avoir communion avec le Père céleste. Il n’y a pas seulement
-une vie temporaire, mais aussi une vie éternelle. Aussi certainement qu’il y a un corps physique,
-ainsi y en a-t-il un spirituel. Si cela va de soi qu’il y a une vie sur la terre, de même cela va de soi
-qu’il y a également une vie dans le ciel. C’est le même Dieu qui a créé le ciel, la terre et tout ce
-qui s’y trouve. La majesté de la création rend un puissant témoignage du Créateur.
-   Beaucoup croient que l’appartenance à une église ou à une communauté religieuse les relie au
-salut. Ce point de vue est plus ou moins soutenu dans les religions. Font-elles toutes des
-promesses vides de sens?
-   Celui qui visite un cimetière peut lire des épitaphes bien sonnantes sur les pierres tombales
-telles que: «Ici repose en paix…», «Entré bienheureux à la maison…», «Caché en Dieu…». Les
-annonces mortuaires dans les journaux résonnent tout aussi bien: «… bienheureusement
-endormi», «… appelé par Dieu à la maison…», «… est décédé muni des saints sacrements de
-l’église catholique romaine…». Tout cela donne l’impression que tous les morts se trouvent auprès
-du Seigneur. Mais qu’en est-il en réalité? Somme toute, ceux qui sont partis avaient-ils même
-une relation personnelle avec le Seigneur?
-   Au cimetière, ceux qui restent reçoivent ces paroles de consolation: «Il a plu au Seigneur de
-prendre dans Son Royaume le frère, ou la soeur…». Ensuite dans l’église on fait savoir
-solennellement aux personnes endeuillées que ceux qui sont partis ne se trouvent pas au Paradis
-mais au purgatoire. Mis à part le fait que cette notion est de pure imagination et ne se trouve pas
-une seule fois mentionnée dans les Ecritures Saintes, on doit se poser sérieusement la question
-de savoir ce qui est vrai. Où se trouve maintenant réellement celui qui est parti? Est-il possible
-que de leur naissance à leur mort les gens soient maintenus dans l’erreur et qu’on ne les
+Selon la volonté de Dieu l’Eglise du Seigneur était à l’origine pensée comme une institution divine. Personne n’avait le droit de placer en Elle quelque chose de contraire à la Bible. C’est vrai qu’Elle était composée de personnes ayant leurs infirmités et leurs défauts, de pécheurs ayant reçu la grâce et qui étaient devenus des enfants de Dieu, cependant leurs doctrines et leurs pratiques devaient du commencement à la fin être en accord avec la Parole de Dieu. Tout ce qui ne soutient pas l’épreuve de la Parole ne pourra certainement pas davantage subsister au jour du Jugement devant le Tribunal de Dieu. C’est pourquoi pour un croyant biblique il n’y a aucune possibilité d’accepter l’introduction d’une doctrine imaginée par l’homme. La confession de foi valable devant Dieu ne se trouve pas dans un catéchisme mais bien dans les Saintes Ecritures uniquement.
 
-    http://www.cmpp.ch
+Les apôtres n’avaient rien à faire avec la réussite de la “Regula veritatis”, laquelle avait été proposée comme dogme apostolique. Du reste, c’est près de la fin seulement que se trouve: «… et au Saint-Esprit, à la sainte Eglise, au pardon des péchés, à la résurrection de la chair. Amen!». Maintenant chaque dimanche des millions de personnes de toutes les dénominations récitent dans le monde entier ces paroles: «Je crois au Saint-Esprit, à la sainte Eglise catholique, à la communion des saints…». Cette adjonction ne date même pas du temps post-apostolique qui a suivi directement celui des apôtres, mais cela a été ébauché après le concile de Nicée et complété lors des synodes suivants. Pour lui donner du poids on s’est référé d’une manière injustifiée à l’autorité des apôtres.
 
-LE CHRISTIANISME HIER ET AUJOURD'HUI 4
-fasse qu’espérer? Leur vie durant on dit qu’ils sont sauvés et après leur mort ils n’ont visiblement
-pas atteint le but. La religion n’est-elle donc pas de l’opium destiné à tranquilliser les gens jusqu’au
-moment terrible du réveil?
-   D’un bout à l’autre de l’année ils reçoivent des sacrements qui devraient les sauver, sans qu’ils
-aient effectivement reçu le salut. Depuis le baptême des bébés jusqu’à l’extrême-onction, en
-passant par la confirmation, ils ont été préparés pour le salut. Et après tous ces nombreux efforts,
-en voici le triste résultat: la personne décédée n’a pas été prise en haut mais elle est allée en bas.
-   Sur ce terrain personne ne peut mieux en parler que les médecins et infirmières qui assistent
-sans cesse au décès des gens. Sans égard pour l’appartenance de la personne à une
-communauté religieuse, une lutte s’engage contre la mort. Généralement on ne connaît pas le
-désespoir qui vient sur le mourant. Il n’y a pas la moindre trace de foi, de certitude et de joie. Les
-gens, supposant qu’ils ont agi au mieux de leur connaissance et de leur conscience selon les
-exigences de Dieu, sont rendus à l’évidence qu’il ne s’agit pas du tout de ce que Dieu exige,
-mais bien de ce que les églises réclament et imposent à leurs membres.
-   Puisqu’il s’agit ici de vie ou de mort, chacun devrait s’éprouver soi-même. Tout homme, quelle
-que soit sa race ou sa nationalité, a le droit d’apprendre la vérité sur Dieu et sur lui-même.
-Quiconque n’est pas indifférent à son avenir éternel a même le devoir de faire une comparaison
-entre ce qui est enseigné et pratiqué dans son église et ce qu’en disent les Saintes Ecritures. Seul
-ce qui vient de Dieu conduit au Seigneur et peut subsister devant Lui. Celui qui dit: «Je m’en fiche!
-Après moi le déluge!» ne sait pas du tout ce qu’il dit. La Bible est réellement le seul livre sur
-terre qui nous conduise dans l’intimité de Dieu et la connaissance de Ses desseins. Du
-commencement à la fin on y trouve les réalités divines confirmées.
-   Nous devrions prendre au sérieux aussi bien notre vie que notre mort. Il ne s’agit pas de donner
-aux vivants la peur devant la mort, mais au contraire, ici nous voulons montrer le chemin qui
-conduit au but. La foi et la confiance en Dieu ainsi qu’en Sa Parole doivent être restaurées à tout
-prix. Dieu est véridique, et Sa Parole est placée au-dessus de tout doute. Dans toutes les religions
-on suscite la peur à l’égard de Dieu, alors qu’en même temps on a gagné leur confiance dans les
-dispositions religieuses humaines. Notre tâche consiste à ébranler la confiance que les gens
-placent dans toutes les religions et de les amener à croire en la véracité de Dieu et de Sa
-Parole.
-   Le Tout-Puissant a formé des desseins, Il a un plan pour l’humanité. Malheureusement les
-hommes ont conçu leurs propres plans et ils ont élevé à l’intérieur du Royaume de Dieu leurs
-propres royaumes religieux. L’humain se trouve en opposition directe avec le Divin. Celui qui veut
-se laisser intégrer au conseil éternel de Dieu doit sortir de toutes les religions imaginées au
-cours des siècles.
-   Le Dieu Tout-Puissant est en même temps omniscient et Il a conçu avant la fondation du
-monde un plan pour l’humanité. L’interruption temporaire survenue à cause d’une défaillance
-humaine par la désobéissance et la transgression n’annule pas Ses desseins éternels. Comme le
-Seigneur connaissait toutes choses à l’avance, Il avait pu en tenir compte dans Ses projets. La
-Parole de Dieu est tout autant véritable et infaillible que Dieu Lui-même.
-   Le chemin de Dieu avec l’humanité est clairement décrit dans Sa Parole. Malheureusement il a
-été enténébré et rendu impraticable par les traditions religieuses. Même si les dogmes sont vieux
-de centaines ou de milliers d’années, ils restent ce qu’ils sont: c’est-à-dire des thèses introduites
-par les hommes et rien d’autre. Les dogmes ne peuvent pas devenir automatiquement justes
-simplement parce qu’ils ont été promulgués par une institution religieuse. Ce qui est humain ne
-deviendra jamais Divin, et ce qui est Divin ne sera jamais humain. La Vérité et le mensonge
-s’excluent l’un l’autre. Ou bien on a à faire avec la Vérité, ou bien on a à faire avec l’erreur. La
-Source de toute Vérité est Dieu; l’auteur de tout mensonge est Satan. Un parfait mensonge
-est une fausse présentation de la Vérité, et le monde religieux est plein de cela. Toute théorie ou
-pratique qui ne s’accorde pas avec les Saintes Ecritures ne peut jamais être d’origine divine. La
-Parole de Dieu contient le témoignage total que le Seigneur a remis à l’humanité.
-   Les prophètes de l’Ancien Testament ont fait connaître la venue du Messie, et avec Lui du salut
-de Dieu; les apôtres ont été des témoins oculaires de l’accomplissement des prophéties dans la
-vie du Sauveur; au moyen de la prédication de l’Evangile l’offre de la grâce divine est transmise à
+La même chose s’est passée avec le livre “Didache” que l’on a trouvé seulement en 1883 dans un couvent, et que l’on a arbitrairement antidaté de la fin du premier siècle. Cela n’a rien de commun avec la doctrine des douze apôtres. Nous y trouvons par exemple à la page 29: «Si par le travail de tes mains tu gagnes quelque chose, tu dois aussi donner quelque chose pour l’absolution de tes péchés». Est-ce cela l’Evangile? Les apôtres connaissaient personnellement Celui qui a pardonné nos péchés. Aujourd’hui ils parleraient sur tous les points de la même manière qu’ils le firent en leur temps. Tout cela a été écrit afin que nous puissions éprouver toutes choses. Qui donc aujourd’hui observe cette parole: “Eprouvez toutes choses…”? Dieu ne se contredit pas. Ses décisions sont parfaites. Tout ce qui semble se contredire se trouve dans la pensée des théologiens, mais pas dans la Parole de Dieu.
 
-        http://www.cmpp.ch
+Un homme qui ne regarde pas les choses au travers de lunettes religieuses doit être épouvanté lorsqu’il voit quelles déviations ont eu lieu. Le patrimoine originel de la foi a été modifié au point d’être méconnaissable. C’est un tout autre évangile qui est prêché.
 
-    LE CHRISTIANISME HIER ET AUJOURD'HUI    5
-tous les hommes. Une réalité confirmée par Dieu peut être crue de chacun. Il y a une grande
-différence entre l’église du début et le christianisme d’aujourd’hui. Tout ce qui se trouvait
-dans la première Eglise manque à l’église d’aujourd’hui, et tout ce qui existe dans le christianisme
-établi ne se trouvait pas dans l’Eglise primitive; une comparaison fait apparaître cela clairement.
-   Dans l’Eglise primitive la prédication était conforme aux Ecritures. Les apôtres avaient
-été enseignés par le Seigneur Lui-même et ils se trouvaient sous la direction du Saint-
-Esprit. Celui qui lit les premiers chapitres des Actes des apôtres peut avoir un aperçu de la vie de
-l’Eglise primitive. Une plénitude de l’Esprit et des bénédictions de Dieu était manifestée en Elle.
-Les premiers chrétiens n’étaient qu’un coeur et qu’une âme; ils partageaient tout entre eux et
-formaient une grande famille de Dieu. L’Eglise primitive n’était pas une organisation rigide
-mais bien un organisme vivant. Notre Seigneur dit: “… je bâtirai mon église, et les portes du
-séjour des morts ne prévaudront point contre elle”. Aujourd’hui encore Il s’en occupe.
-   De même que Dieu s’est révélé en Christ, ainsi Christ se révélait au moyen de Son Eglise.
-La même prédication, le même service se poursuivaient. De grands signes et miracles
-s’accomplissaient. Des incrédules devenaient des croyants, des possédés étaient libérés et des
-malades guéris. Tout était à ce moment-là encore valable; la Parole de Dieu s’appliquait encore
-comme une mesure toujours valable à ceux qui devenaient croyants. Ils plaçaient leur confiance
-dans le Seigneur qu’ils avaient vu dans Son service, dans Ses souffrances, Sa mort et Sa
-résurrection. Une sainte crainte était en eux en Sa présence car ils avaient assisté à tous ces
-événements et ils se rassemblaient en Son Nom.
-   Dans le christianisme originel il y avait des apôtres, des prophètes, des évangélistes, des
-pasteurs et des docteurs (1 Corinthiens 12.28; Éphésiens 4.11). Ces différents services avaient été établis
-par Dieu dans Son Eglise. Ils étaient nécessaires à l’édification spirituelle et se
-complétaient les uns les autres. En ce temps-là on ne savait rien d’un Pape, de cardinaux,
-d’archevêques, de moines ou de nonnes. Toutes ces choses qui dans le monde chrétien
-d’aujourd’hui sont considérées comme allant de soi n’existaient pas en ce temps-là.
-   Selon la volonté de Dieu l’Eglise du Seigneur était à l’origine pensée comme une institution
-divine. Personne n’avait le droit de placer en Elle quelque chose de contraire à la Bible. C’est vrai
-qu’Elle était composée de personnes ayant leurs infirmités et leurs défauts, de pécheurs ayant
-reçu la grâce et qui étaient devenus des enfants de Dieu, cependant leurs doctrines et leurs
-pratiques devaient du commencement à la fin être en accord avec la Parole de Dieu. Tout ce qui
-ne soutient pas l’épreuve de la Parole ne pourra certainement pas davantage subsister au
-jour du Jugement devant le Tribunal de Dieu. C’est pourquoi pour un croyant biblique il n’y a
-aucune possibilité d’accepter l’introduction d’une doctrine imaginée par l’homme. La confession
-de foi valable devant Dieu ne se trouve pas dans un catéchisme mais bien dans les Saintes
-Ecritures uniquement.
-   Les apôtres n’avaient rien à faire avec la réussite de la “Regula veritatis”, laquelle avait été
-proposée comme dogme apostolique. Du reste, c’est près de la fin seulement que se trouve:
-«… et au Saint-Esprit, à la sainte Eglise, au pardon des péchés, à la résurrection de la chair.
-Amen!». Maintenant chaque dimanche des millions de personnes de toutes les dénominations
-récitent dans le monde entier ces paroles: «Je crois au Saint-Esprit, à la sainte Eglise catholique, à
-la communion des saints…». Cette adjonction ne date même pas du temps post-apostolique qui a
-suivi directement celui des apôtres, mais cela a été ébauché après le concile de Nicée et complété
-lors des synodes suivants. Pour lui donner du poids on s’est référé d’une manière injustifiée à
-l’autorité des apôtres.
-   La même chose s’est passée avec le livre “Didache” que l’on a trouvé seulement en 1883 dans
-un couvent, et que l’on a arbitrairement antidaté de la fin du premier siècle. Cela n’a rien de
-commun avec la doctrine des douze apôtres. Nous y trouvons par exemple à la page 29: «Si par le
-travail de tes mains tu gagnes quelque chose, tu dois aussi donner quelque chose pour
-l’absolution de tes péchés». Est-ce cela l’Evangile? Les apôtres connaissaient personnellement
-Celui qui a pardonné nos péchés. Aujourd’hui ils parleraient sur tous les points de la même
-manière qu’ils le firent en leur temps. Tout cela a été écrit afin que nous puissions éprouver toutes
-choses. Qui donc aujourd’hui observe cette parole: “Eprouvez toutes choses…”? Dieu ne se
+A ce compte-là on pourrait penser: «Pourvu qu’on soit sincère, alors rien ne pourrait être imputé aux gens». Mais ce n’est pas cela qui va rendre juste l’erreur. Quand il s’agit de foi, de question d’enseignement et de pratiques dans l’Eglise, ce n’est pas dans les conciles que cela peut être trouvé; ce qui doit être valable, c’est ce qui nous a été laissé par l’Eglise primitive. Les questions et problèmes d’église peuvent bien être discutés dans les commissions correspondantes, mais l’enseignement et la pratique de Christ et des apôtres demeure depuis longtemps fixés: Luther disait à la diète de Worms, le 18 avril 1521: «La raison pour laquelle je ne crois pas davantage au Pape qu’aux Conciles vient du fait qu’ils se sont souvent trompés et se sont enchevêtrés dans leurs propres contradictions. Si je ne suis pas convaincu par des témoignages des Ecritures et par des arguments bien clairs, je le suis alors par les témoignages des Ecritures cités par moi et qui sont renfermés dans la Parole de Dieu. Je ne peux pas me rétracter, et ne le veux pas non plus, car agir contre la conscience n’est pas sûr et n’est pas salutaire. Que Dieu me soit en aide. Amen!».
 
-                          http://www.cmpp.ch
+Nous nous occupons du conseil éternellement valable du Dieu Tout-puissant envers l’humanité et par comparaison nous voulons contribuer à son éclaircissement. Il s’agit de deux choses fondamentalement différentes et séparées l’une de l’autre. L’une est du domaine Divin alors que l’autre est du domaine humain. Celui qui reconnaît être de Dieu croira ce que la Parole de Dieu dit, et cela sans prêter garde à ce que les Conciles et Synodes peuvent bien décider. La Parole de Dieu n’est pas soumise aux changements des temps car Elle est pour toujours définitive.
 
-    LE CHRISTIANISME HIER ET AUJOURD'HUI    6
-contredit pas. Ses décisions sont parfaites. Tout ce qui semble se contredire se trouve dans la
-pensée des théologiens, mais pas dans la Parole de Dieu.
-   Un homme qui ne regarde pas les choses au travers de lunettes religieuses doit être épouvanté
-lorsqu’il voit quelles déviations ont eu lieu. Le patrimoine originel de la foi a été modifié au point
-d’être méconnaissable. C’est un tout autre évangile qui est prêché.
-   A ce compte-là on pourrait penser: «Pourvu qu’on soit sincère, alors rien ne pourrait être imputé
-aux gens». Mais ce n’est pas cela qui va rendre juste l’erreur. Quand il s’agit de foi, de
-question d’enseignement et de pratiques dans l’Eglise, ce n’est pas dans les conciles que cela
-peut être trouvé; ce qui doit être valable, c’est ce qui nous a été laissé par l’Eglise primitive.
-Les questions et problèmes d’église peuvent bien être discutés dans les commissions
-correspondantes, mais l’enseignement et la pratique de Christ et des apôtres demeure depuis
-longtemps fixés: Luther disait à la diète de Worms, le 18 avril 1521: «La raison pour laquelle je ne
-crois pas davantage au Pape qu’aux Conciles vient du fait qu’ils se sont souvent trompés et se
-sont enchevêtrés dans leurs propres contradictions. Si je ne suis pas convaincu par des
-témoignages des Ecritures et par des arguments bien clairs, je le suis alors par les témoignages
-des Ecritures cités par moi et qui sont renfermés dans la Parole de Dieu. Je ne peux pas me
-rétracter, et ne le veux pas non plus, car agir contre la conscience n’est pas sûr et n’est pas
-salutaire. Que Dieu me soit en aide. Amen!».
-   Nous nous occupons du conseil éternellement valable du Dieu Tout-puissant envers l’humanité
-et par comparaison nous voulons contribuer à son éclaircissement. Il s’agit de deux choses
-fondamentalement différentes et séparées l’une de l’autre. L’une est du domaine Divin alors que
-l’autre est du domaine humain. Celui qui reconnaît être de Dieu croira ce que la Parole de Dieu dit,
-et cela sans prêter garde à ce que les Conciles et Synodes peuvent bien décider. La Parole de
-Dieu n’est pas soumise aux changements des temps car Elle est pour toujours définitive.
-   Il faut que toute personne sache clairement que les Saintes Ecritures contiennent le
-témoignage de Dieu dans son entier et qu’il est parfaitement achevé. Dieu n’a absolument
-rien oublié. C’est seulement à mesure que le Divin s’est perdu que l’humain en prit la place.
-Toutes les décisions prises au cours de l’histoire de l’Eglise ne deviendront jamais partie
-intégrante du Testament de Dieu parce qu’elles n’appartiennent pas à l’enseignement primitif de
-Christ et des apôtres, lequel a été fondé sur la Parole prophétique.
-   On ne peut pas se permettre de ne pas entendre ou d’ignorer les sérieux avertissements de
-l’Ancien et du Nouveau Testament. Il est écrit: “Vous n’ajouterez rien à ce que je vous prescrits, et
-vous n’en retrancherez rien” (Deutéronome 4.2). Plus tard le Seigneur dit aux scribes qui n’avaient pas
-reconnu ce que Moïse et les autres prophètes avaient dit mais suivaient plutôt leurs interprétations
-et leurs traditions: “Ce peuple m’honore des lèvres, mais son coeur est éloigné de moi. C’est en
-vain qu’ils m’honorent, en donnant des préceptes qui sont des commandements d’homme”
-(Marc 7.6,7).
-   Des communautés de croyants ne prennent absolument pas garde à la Parole de Dieu et sont
-enchevêtrés dans des doctrines humaines, et cependant il y a plus que jamais auparavant une
-exploitation religieuse maintenant. Au-dessus de toutes ces actions et ces publications
-antibibliques se retrouve toujours ce même mot: «C’est en vain!». C’est en vain que toutes les
-prières sont présentées, que tous les cultes sont organisés; en vain tous les cantiques et les
-cérémonies rituelles; en vain les grandes campagnes d’évangélisation des églises et leurs
-préparatifs. Tout ce qui dans le Royaume de Dieu ne se fait pas conformément à la Parole de
-Dieu ne vaut absolument rien devant Dieu. Dans lequel de ces nombreux programmes doit-Il se
-reconnaître? Pour qui doit-Il prendre parti?
-   Le Seigneur ne permet aucun mélange. Il désire que la pure Semence de Sa Parole soit
-gardée sous sa forme originelle, et qu’Elle soit semée telle quelle. Il réprimande les
-conducteurs religieux qui, hier comme aujourd’hui jouissent d’une grande considération parmi le
-peuple, en leur disant: “Vous anéantissez fort bien le commandement de Dieu, pour garder votre
-tradition” (Marc 7.9). On doit mettre l’un de côté pour pouvoir mettre l’autre à sa place.
-   Le Seigneur même nous adressera cette pressante mise en garde: “Toute parole de Dieu est
-éprouvée… N’ajoute rien à ses paroles, de peur qu’il ne te reprenne et que tu ne sois trouvé
-menteur” (Proverbes 30.5,6). Tous ceux qui ajouteront quelque chose au témoignage pleinement
+Il faut que toute personne sache clairement que les Saintes Ecritures contiennent le témoignage de Dieu dans son entier et qu’il est parfaitement achevé. Dieu n’a absolument rien oublié. C’est seulement à mesure que le Divin s’est perdu que l’humain en prit la place. Toutes les décisions prises au cours de l’histoire de l’Eglise ne deviendront jamais partie intégrante du Testament de Dieu parce qu’elles n’appartiennent pas à l’enseignement primitif de Christ et des apôtres, lequel a été fondé sur la Parole prophétique.
 
-    http://www.cmpp.ch
+On ne peut pas se permettre de ne pas entendre ou d’ignorer les sérieux avertissements de l’Ancien et du Nouveau Testament. Il est écrit: “Vous n’ajouterez rien à ce que je vous prescrits, et vous n’en retrancherez rien” (Deutéronome 4.2). Plus tard le Seigneur dit aux scribes qui n’avaient pas reconnu ce que Moïse et les autres prophètes avaient dit mais suivaient plutôt leurs interprétations et leurs traditions: “Ce peuple m’honore des lèvres, mais son coeur est éloigné de moi. C’est en vain qu’ils m’honorent, en donnant des préceptes qui sont des commandements d’homme” (Marc 7.6,7).
 
-LE CHRISTIANISME HIER ET AUJOURD'HUI 7
-achevé des Saintes Ecritures, dans l’Ancien ou le Nouveau Testament, devront se tenir là devant
-Dieu comme menteurs pour Lui en rendre compte et ils seront damnés. Depuis le jardin d’Eden,
-Satan, le premier menteur, exerce son influence parmi les hommes afin d’interpréter différemment
-la Parole de Dieu. Jusqu’à la fin il faussera la Parole afin de tromper l’humanité. Seul celui qui peut
-pénétrer ses ruses et échapper à son influence peut se placer sous l’influence directe de Dieu,
-laquelle procède uniquement de la Parole par l’Esprit
-   Le Saint-Esprit est l’Esprit de Vérité et seule la Parole de Dieu est la Parole de Vérité.
-Dans le dernier chapitre de la Bible se trouve l’avertissement définitif: “Si quelqu’un y ajoute
-quelque chose, Dieu le frappera des fléaux décrits dans ce livre; et si quelqu’un retranche quelque
-chose des paroles du livre de cette prophétie, Dieu retranchera sa part de l’arbre de vie, et de la
-ville sainte, décrits dans ce livre” (Apocalypse 22.18,19).
-   Qui donc peut se dispenser de cette Parole à la légère? Exactement comme s’est accompli ce
-que le Seigneur Dieu a dit au commencement: “Le jour où tu en mangeras, tu mourras”, ainsi se
-manifestera cette parole comme étant également vraie. Dieu pense ce qu’Il dit, et Il dit ce qu’Il
-pense. Les Ecritures ne peuvent pas être brisées. Toutes les décisions de Dieu sont irrévocables
-et parfaites.
+Des communautés de croyants ne prennent absolument pas garde à la Parole de Dieu et sont enchevêtrés dans des doctrines humaines, et cependant il y a plus que jamais auparavant une exploitation religieuse maintenant. Au-dessus de toutes ces actions et ces publications antibibliques se retrouve toujours ce même mot: «C’est en vain!». C’est en vain que toutes les prières sont présentées, que tous les cultes sont organisés; en vain tous les cantiques et les cérémonies rituelles; en vain les grandes campagnes d’évangélisation des églises et leurs préparatifs. Tout ce qui dans le Royaume de Dieu ne se fait pas conformément à la Parole de Dieu ne vaut absolument rien devant Dieu. Dans lequel de ces nombreux programmes doit-Il se reconnaître? Pour qui doit-Il prendre parti?
 
-        DERNIERES VOLONTES
+Le Seigneur ne permet aucun mélange. Il désire que la pure Semence de Sa Parole soit gardée sous sa forme originelle, et qu’Elle soit semée telle quelle. Il réprimande les conducteurs religieux qui, hier comme aujourd’hui jouissent d’une grande considération parmi le peuple, en leur disant: “Vous anéantissez fort bien le commandement de Dieu, pour garder votre tradition” (Marc 7.9). On doit mettre l’un de côté pour pouvoir mettre l’autre à sa place.
 
-   L’apôtre parle d’un testament, d’un legs, de dernières dispositions qui, sitôt qu’elles ont pris
-force de loi, ne peuvent plus être changées ou munies d’adjonctions après coup (Galates 3.15). Avec
-la mort de notre Seigneur, le Nouveau Testament est entré en vigueur. Comment des
-hommes ont-ils osé entreprendre toutes ces modifications? Dans Hébreux 9, il est encore
-une fois question de cet état de choses et il est dit aux versets 16 et 17: “Car là où il y a un
-testament, il est nécessaire que la mort du testateur soit constatée. Un testament, en effet, n’est
-valable qu’en cas de mort, puisqu’il n’a aucune force tant que le testateur vit”.
-   Lors de la succession d’un homme il y a souvent des querelles. Mais il est totalement exclu que
-les dernières volontés du défunt faites par écrit soient modifiées; cependant c’est justement ce qui,
-d’une manière incompréhensible avec le Testament Divin. D’un côté on se réclame de Christ, et de
-l’autre on a fait de Lui et de Son Testament quelque chose d’entièrement différent. Ce qu’Il a laissé
-derrière Lui a été rendu sans force parce qu’on a ajouté à la place de la Parole de Dieu des
-pensées tout à fait étrangères.
-   Chaque communauté d’église a le droit de croire et de faire ce qu’elle veut. Mais pour ceux
-qui ont la prétention d’être l’Eglise du Dieu Vivant, c’est-à-dire l’Eglise de Jésus-Christ, il
-faut alors que la Parole de Dieu et le Testament de Christ soient reçus dans toute leur
-étendue, tels qu’Il les a laissés après Lui. Où donc tous ces dogmes et traditions qui ont été
-ajoutés au cours de l’histoire de l’Eglise peuvent-ils trouver place? Ils n’appartiennent absolument
-pas au Testament que le Seigneur a laissé après Lui.
-   Dans la conscience des hommes cette pensée s’est fermement enracinée que les églises
-organisées étaient une institution de Dieu et qu’elles avaient à enseigner et à agir sur la terre à la
-place de Christ. Mais que sont-elles en réalité? Dans le petit catéchisme catholique nous lisons en
-conclusion du sujet “Les ordres de l’Eglise” ce qui suit: «Christ a accordé aux chefs de l’Eglise le
-droit de donner des commandements. Il veut que par amour pour Lui nous observions les
-commandements de l’Eglise». Où et quand Christ aurait-Il dit quelque chose de semblable? Les
-commandements de Dieu ont été donnés depuis longtemps, et ils devraient être connus de
-tous. Mais malheureusement l’humanité a considéré les commandements de l’Eglise
-comme des commandements de Dieu, et c’est ainsi qu’elle s’est égarée.
-   Du temps de Constantin l’église mondanisée a été reconnue comme Eglise. Constantin, par
-des artifices politiques, commença à gagner en 313 le christianisme comme le paganisme, tous
-deux pour ses desseins. C’est à son instigation que le concile de Nicée fut convoqué.
-   Après 325 il soutint la construction aussi bien d’églises que de temples païens. Sous sa
-domination le christianisme mondain prit une forme stable et il devint ainsi à l’intérieur de l’empire
-romain une puissance spirituelle mondiale. Eusèbe vit en Constantin le sauveur qui les sortirait de
+Le Seigneur même nous adressera cette pressante mise en garde: “Toute parole de Dieu est éprouvée… N’ajoute rien à ses paroles, de peur qu’il ne te reprenne et que tu ne sois trouvé menteur” (Proverbes 30.5,6). Tous ceux qui ajouteront quelque chose au témoignage pleinement achevé des Saintes Ecritures, dans l’Ancien ou le Nouveau Testament, devront se tenir là devant Dieu comme menteurs pour Lui en rendre compte et ils seront damnés. Depuis le jardin d’Eden, Satan, le premier menteur, exerce son influence parmi les hommes afin d’interpréter différemment la Parole de Dieu. Jusqu’à la fin il faussera la Parole afin de tromper l’humanité. Seul celui qui peut pénétrer ses ruses et échapper à son influence peut se placer sous l’influence directe de Dieu, laquelle procède uniquement de la Parole par l’Esprit.
 
-        http://www.cmpp.ch
+Le Saint-Esprit est l’Esprit de Vérité et seule la Parole de Dieu est la Parole de Vérité. Dans le dernier chapitre de la Bible se trouve l’avertissement définitif: “Si quelqu’un y ajoute quelque chose, Dieu le frappera des fléaux décrits dans ce livre; et si quelqu’un retranche quelque chose des paroles du livre de cette prophétie, Dieu retranchera sa part de l’arbre de vie, et de la ville sainte, décrits dans ce livre” (Apocalypse 22.18,19).
 
-LE CHRISTIANISME HIER ET AUJOURD'HUI 8
-leur profonde détresse. Après de cruelles persécutions de chrétiens, de Néron jusqu’à Dioclétien
-on commença alors à respirer.
-   En l’an 380, sous le règne de Théodose 1er et de Gratien, on mit fin à la liberté religieuse en
-général. Jusque là avaient encore existé quelques communautés de croyants qui subsistaient à
-côté du christianisme reconnu par l’état. Mais dorénavant on obligea les citoyens, par la force de
-l’état, à devenir des chrétiens “romains”. Cet événement arriva à son achèvement sous Justinien
-(527-565). L’Eglise fut dès lors et définitivement l’Eglise reconnue par l’état et les prêtres devinrent
-alors des fonctionnaires d’état. Avec la ruine de l’empire romain païen s’établit la domination
-religieuse de Rome, Ce fut le commencement du cruel Moyen-Age; environ mille ans s’écoulèrent
-jusqu’à l’apparition de la Réformation. La monarchie à la fois de l’état et de l’église, dans laquelle
-l’église triomphait presque toujours, eut pour conséquence que tous les autres croyants furent
-persécutés. Des peuples entiers furent christianisés par la violence. Des millions souffrirent la mort
-par le martyre, parmi lesquels cent mille Juifs qui étaient stigmatisés sous l’accusation d’être des
-“meurtriers de Christ” et des “ennemis de Dieu”. L’Eglise devint un élément de puissance politique.
-   Déjà pendant les deux premiers siècles après Christ différentes doctrines inventées de toutes
-pièces furent introduites. Cependant au cours du troisième siècle, leur mise en pratique générale
-sous contrainte commença. L’observation de toutes les nouvelles doctrines et pratiques fut exigée.
-Le crucifix et le signe de la croix, les cierges et l’encens furent introduits. Toujours plus de choses
-nouvelles furent ajoutées: la vénération des saints, le sacrifice journalier de la messe et beaucoup
-d’autres choses.
-   Lors du concile d’Ephèse en 431 la vénération de Marie en tant que mère de Dieu fut
-proclamée. En l’an 500 le clergé commença à se vêtir uniformément. La fête en l’honneur de la
-vierge Marie, le baisement des pieds du pape, la vénération des images et des reliques, la
-vénération de Joseph, le jeûne du vendredi suivirent. Le célibat des prêtres fut introduit en 1079,
-puis vinrent le Rosaire, la vente des indulgences, la doctrine de la transsubstantiation, la Fête-Dieu
-et ainsi de suite, jusqu’à la proclamation du dogme de l’ascension corporelle de Marie. Du temps
-des apôtres non plus on ne connaissait encore rien d’un confessionnal.
-   La liste pourrait être allongée à volonté. Nous devons dire ici clairement que tous ces
-dogmes n’ont rien de commun avec le christianisme primitif et avec l’enseignement des
-apôtres. De quel droit ont-ils été introduits? En principe tout enseignement originel a été
-transformé et beaucoup de choses ont été ajoutées, si bien que plus rien n’est juste.
-   Le Seigneur dit par exemple: “N’appelez personne sur la terre votre père, car un seul est votre
-Père, celui qui est dans les cieux” (Mat. 23.9). Qui donc peut comprendre que cette déclaration est
-complètement ignorée car le monde entier tombe aux pieds d’un homme pour lui rendre hommage
-et l’honorer en l’appelant “saint-Père”? A cela le Seigneur répond: “Je ne donnerai pas ma gloire à
-un autre!” (Ésaïe 48.11). Jésus nous a enseigné à prier en disant: “Notre Père qui es aux cieux, que
-ton nom soit sanctifié…”. N’est-ce pas blasphémer que dédaigner tout simplement la Parole
-de Dieu et employer ce titre pour un homme? Qui donc est le Saint Père dont le Nom doit
-être sanctifié? Est-il dans les Cieux ou sur la terre?
-   Où nous est-il rapporté dans le christianisme primitif d’apparitions de Marie, de lieux de
-pèlerinages ou de vénération des saints? Au contraire, la Bible nous met en garde de manière
-pressante contre toute relation avec les morts. Ces pratiques sont du spiritisme et de
-l’occultisme. La vénération de patrons protecteurs est absolument antibiblique. Bien davantage
-encore, cela ne peut avoir qu’une seule signification: le retour au culte des idoles du paganisme.
-   Nous ne trouvons pas davantage dans les Saintes Ecritures la moindre indication que Marie
-soit médiatrice entre Dieu et les hommes. Il est écrit: “Car il y a un seul Dieu, et aussi un seul
-médiateur entre Dieu et les hommes, Jésus-Christ, homme” (1 Timothée 2.5). La même chose est
-valable pour le rôle d’intercesseur qu’on lui attribue à elle. Dans la Parole de Dieu il est écrit très
-clairement: “Et si quelqu’un a péché, nous avons un avocat auprès du Père, Jésus-Christ, le juste.
-Il est lui-même une victime expiatoire pour nos péchés, non seulement pour les nôtres, mais aussi
-pour ceux du monde entier” (1 Jean 2.1,2).
-   Pareillement les Saintes Ecritures ne nous parlent que de l’Ascension de Jésus-Christ.
-“Pendant qu’il les bénissait il se sépara d’eux, et il fut enlevé au ciel” (Luc 24.51). Pas un seul
-apôtre n’a jamais rien su d’une soi-disant ascension de Marie. Ce n’est qu’en 1951 que ce
+Qui donc peut se dispenser de cette Parole à la légère? Exactement comme s’est accompli ce que le Seigneur Dieu a dit au commencement: “Le jour où tu en mangeras, tu mourras”, ainsi se manifestera cette parole comme étant également vraie. Dieu pense ce qu’Il dit, et Il dit ce qu’Il pense. Les Ecritures ne peuvent pas être brisées. Toutes les décisions de Dieu sont irrévocables et parfaites.
 
-        http://www.cmpp.ch
+DERNIERES VOLONTES
 
-LE CHRISTIANISME HIER ET AUJOURD'HUI 9
-dogme a été établi d’après une légende qui disait que Marie dans son corps et son âme avait été
-prise dans le Ciel. Il n’y a aucun fondement biblique à cela. Les préceptes des hommes n’ont
-encore jamais sauvé quelqu’un, mais bien au contraire ils ont retenu des millions de personnes
-loin du salut.
+L’apôtre parle d’un testament, d’un legs, de dernières dispositions qui, sitôt qu’elles ont pris force de loi, ne peuvent plus être changées ou munies d’adjonctions après coup (Galates 3.15). Avec la mort de notre Seigneur, le Nouveau Testament est entré en vigueur. Comment des hommes ont-ils osé entreprendre toutes ces modifications? Dans Hébreux 9, il est encore une fois question de cet état de choses et il est dit aux versets 16 et 17: “Car là où il y a un testament, il est nécessaire que la mort du testateur soit constatée. Un testament, en effet, n’est valable qu’en cas de mort, puisqu’il n’a aucune force tant que le testateur vit”.
 
-        PRETENTIONS NON BIBLIQUES
-   Dans les Saintes Ecritures on ne trouve pas la moindre indication montrant une personne
-revêtue d’autorité et désignée comme étant un successeur de Pierre. Il n’y est nulle part question
-d’un remplaçant de Christ. Les Ecritures parlent uniquement de successeurs de Jésus-Christ. Il
-n’est pas davantage écrit que Pierre ait été institué comme la tête visible de l’Eglise. Comment
-pourrait-il y avoir un homme qui dût être la tête, alors que Christ Lui-même est la Tête?
-   Il est écrit de Lui: “Il est avant toutes choses, et toutes choses subsistent en lui. Il est la tête du
-corps de l’Eglise” (Colossiens 1.17,18). Celui qui prétend être le chef s’élève de la sorte au-dessus de
-Christ et doit être soumis au jugement de cette parole de Il Thessaloniciens 2.3,4. Un croyant en
-Christ biblique ne peut reconnaître pour Chef de l’Eglise que le Seigneur et Sauveur
-Jésus-Christ. Christ n’a jamais établi de remplaçant, ou de “Vicarius Filii Dei”; Il a Lui-même
-sauvé Son Eglise et Il est en train de l’achever.
-   Il est intéressant de lire dans l’histoire de l’Eglise son développement spirituel. La légende selon
-laquelle Pierre aurait oeuvré comme évêque à Rome et aurait été enseveli là-bas ne peut pas être
-historiquement prouvée. Il est uniquement question d’un certain magicien appelé Simon Magus,
-lequel avait fait une telle impression sur le sénat et sur le peuple de Rome qu’on l’avait proclamé
-dieu et lui avait élevé une statue avec l’inscription: “Simoni dea sancto”.
-   Que peut donc bien avoir à faire un tel conte avec l’homme de Dieu Simon Pierre, lequel en
-plus n’a jamais mis les pieds à Rome? Pour cela aussi nous nous référons aux Saintes Ecritures
-uniquement. Selon Galates 2.9 Pierre, Jacques et Jean, d’un côté, se rencontrèrent avec Paul et
-Barnabas, de l’autre, et ils convinrent en se donnant la main d’association que Paul et Barnabas
-iraient vers les nations alors que Pierre, Jacques et Jean oeuvreraient parmi les Juifs.
-   On parlait de Paul comme étant l’apôtre des païens, car c’était à cela que Dieu l’avait destiné.
-C’est à lui que le Seigneur avait dit: “Va, je t’enverrai au loin vers les nations” (Actes 22.21). A
-l’église de Rome Paul écrit au chapitre 15, verset 28: “Je partirai pour l’Espagne et passerai chez
-vous”. Les voyages missionnaires de Paul, y compris ceux qu’il fit à Rome, nous sont clairement
-décrits. Pourquoi donc n’est-il pas fait mention d’un seul voyage de Pierre dans cette ville?
-Paul a envoyé de Rome la plupart de ses épîtres aux églises ainsi qu’aux particuliers. Beaucoup
-de ceux qui se trouvaient avec lui dans cette ville furent mentionnés par leur nom sans toutefois
-que le nom de Pierre eût été évoqué une seule fois. Peut-on se représenter que cela eût été
-possible Si Pierre avait réellement oeuvré avec lui à Rome?
-   Du reste, savoir où un homme de Dieu s’est trouvé et a agi signifie peu de chose. Il s’agit
-uniquement de couvrir une pieuse invention sur laquelle une grande institution est fondée et avec
-laquelle elle voudrait établir l’autorité de son enseignement. A cela nous pouvons répondre avec
-les paroles de Pierre lui-même qui dit: “Ce n’est pas en effet en suivant des fables habilement
-conçues…” (2 Pier. 1.16).
-   Les Saintes Ecritures ne parlent pas davantage d’une succession apostolique. Lorsque Léon le
-Grand fut élu évêque de Rome en 440, il éleva la prétention que l’évêque romain avait la
-prééminence sur tous les autres. C’est lui qui se référa à cette occasion à Matthieu 16.16. Il
-proclama solennellement être tout personnellement le successeur de Pierre. Jusque là cette idée
-avait été avancée de temps en temps parmi les “Nicolaïtes”, mais elle n’avait pas encore été reliée
-à un ministère spirituel. Ce fut une orientation de foi qui provoqua une différence entre les laïcs qui
-écoutaient et les frères qui exerçaient un service. Cela est entièrement contre la Parole.
-L’Eglise rachetée représente “une sacrificature royale” (1 Pier. 2.9).
-   Il est connu de tous les historiens que Polycarpe (155), cet homme de Dieu béni, avait été avec
-Jean, le disciple préféré de Jésus qui fut exilé sur l’île de Patmos. Il avait reçu le pur témoignage
-de la bouche de l’apôtre. Pas une seule fois dans ses plaidoyers on ne peut trouver même la plus
-petite indication à l’égard des idées inventées plus tard. Irénée, un messager de Christ revêtu
+Lors de la succession d’un homme il y a souvent des querelles. Mais il est totalement exclu que les dernières volontés du défunt faites par écrit soient modifiées; cependant c’est justement ce qui, d’une manière incompréhensible avec le Testament Divin. D’un côté on se réclame de Christ, et de l’autre on a fait de Lui et de Son Testament quelque chose d’entièrement différent. Ce qu’Il a laissé derrière Lui a été rendu sans force parce qu’on a ajouté à la place de la Parole de Dieu des pensées tout à fait étrangères.
 
-        http://www.cmpp.ch
+Chaque communauté d’église a le droit de croire et de faire ce qu’elle veut. Mais pour ceux qui ont la prétention d’être l’Eglise du Dieu Vivant, c’est-à-dire l’Eglise de Jésus-Christ, il faut alors que la Parole de Dieu et le Testament de Christ soient reçus dans toute leur étendue, tels qu’Il les a laissés après Lui. Où donc tous ces dogmes et traditions qui ont été ajoutés au cours de l’histoire de l’Eglise peuvent-ils trouver place? Ils n’appartiennent absolument pas au Testament que le Seigneur a laissé après Lui.
 
-LE CHRISTIANISME HIER ET AUJOURD'HUI 10
-d’autorité (202), avait vécu un temps assez long avec Polycarpe. Lui non plus n’a jamais tait
-mention d’un successeur de Pierre. Jusque là on cherchait autant que possible à se tenir à la
-Parole de Dieu. Tertullien (220) dit: «C’est le Seigneur, pas le serviteur, qui a la juridiction et le
-jugement».
-   Même lors du concile de Nicée les deux porte-parole Athanase et Arius ne mentionnèrent pas
-une telle pensée. C’est seulement en 445 que l’empereur Valentinien confirma la suprématie
-religieuse de l’évêque de Rome sur l’Eglise de tout l’Occident. Désormais la toute-puissance
-provenait de Rome. Le docteur de l’Eglise bien connu Augustin d’Hippone (354-430) favorisa cette
-pensée; il écrivit sur le sujet: L’Etat de Dieu. Pour lui l’Eglise représentait le Royaume millénaire. Il
-enseigna que «l’Eglise c’est l’autorité». Où donc demeure l’autorité de Celui qui a dit: “Tout pouvoir
-m’a été donné dans le ciel et sur la terre!”? (Mat. 28.18).
-   Ce développement non biblique ne peut pas être attribué aux apôtres du christianisme primitif.
-Comme nous l’avons déjà exposé, il y avait en ce temps-là les ministères que le Seigneur avait
-institués pour l’ensemble de l’Eglise. Cependant chaque communauté locale avait des frères
-responsables. Ils étaient désignés par le nom “d’ancien”, de “président”, ou “d’évêque”. Par
-exemple dans l’épître aux Philippiens, Paul salue l’Eglise du Seigneur, les saints et les bien-aimés
-en même temps que leurs évêques et diacres. Ces deux ministères faisaient partie de la
-communauté locale. Une condition biblique pour exercer cette tâche était qu’un tel homme soit
-marié (1 Timothée 3.2). D’aucun apôtre ou prophète il n’était exigé qu’il soit mari d’une seule femme,
-mais bien des diacres et des évêques. Seule une personne mariée elle-même et qui doit
-pouvoir venir à bout des différents problèmes familiaux peut donner à d’autres des conseils
-et de l’aide pratiques.
-   Cependant l’Esprit de Dieu révélait déjà en ce temps-là, comme Paul le dit, que cela n’allait pas
-demeurer ainsi. Nous lisons dans 1 Timothée 4: “Mais l’Esprit dit expressément que dans les
-derniers temps, quelques-uns abandonneront la foi, pour s’attacher à des esprits séducteurs et à
-des doctrines de démons, par l’hypocrisie de faux docteurs portant la marque de la flétrissure dans
-leur propre conscience, prescrivant de ne pas se marier et de s’abstenir d’aliments…”. A quoi ces
-paroles nous font-elles penser? Elles se sont accomplies à la lettre.
+Dans la conscience des hommes cette pensée s’est fermement enracinée que les églises organisées étaient une institution de Dieu et qu’elles avaient à enseigner et à agir sur la terre à la place de Christ. Mais que sont-elles en réalité? Dans le petit catéchisme catholique nous lisons en conclusion du sujet “Les ordres de l’Eglise” ce qui suit: «Christ a accordé aux chefs de l’Eglise le droit de donner des commandements. Il veut que par amour pour Lui nous observions les commandements de l’Eglise». Où et quand Christ aurait-Il dit quelque chose de semblable? Les commandements de Dieu ont été donnés depuis longtemps, et ils devraient être connus de tous. Mais malheureusement l’humanité a considéré les commandements de l’Eglise comme des commandements de Dieu, et c’est ainsi qu’elle s’est égarée.
 
-        UN MALENTENDU
-   Celui qui lit avec attention Matthieu 16.18 constatera que le Seigneur n’a pas dit là: “Tu es
-Pierre et sur toi je bâtirai mon Eglise”, mais bien “Et moi, je te dis que tu es Pierre, et que sur cette
-pierre (ce roc) je bâtirai mon Eglise”. Il n’est pas permis de prendre un seul verset et de
-l’interpréter arbitrairement. Pour recevoir une réponse claire il est indispensable de lire tout le
-contexte.
-   Aussi bien dans l’Ancien que dans le Nouveau Testament le Seigneur est souvent désigné
-comme étant le Rocher. Mais pas une seule fois ce mot n’est employé pour un homme. Pierre
-venait juste de recevoir la révélation divine sur Christ et quelques minutes plus tard il devait
-reconnaître son manquement, sa faillibilité. Juste quelques versets après, le Seigneur devait dire
-au même Pierre: “Arrière de moi, Satan! tu m’es en scandale; car tes pensées ne sont pas celles
-de Dieu, mais celles des hommes” (Mat. 16.23).
-   Cela devrait donner à réfléchir à tous ceux qui s’arrogent le droit d’apporter leur propre
-interprétation à la Parole de Dieu. Tout ce qui n’est pas en accord avec la Parole écrite vient
-d’une fausse inspiration. Les mêmes paroles que le Seigneur a dites en ce temps-là à Pierre,
-lequel à cet instant-là n’était manifestement plus sous l’inspiration divine mais émettait des
-pensées humaines, Il les dit aujourd’hui à chacun de ceux qui se trouvent sous une fausse
-inspiration.
-   Sur le terrain spirituel il ne s’agit pas d’exposer de bonnes pensées qui apportent de la clarté,
-mais il s’agit plutôt d’exposer la pensée éternelle de Dieu qu’Il a clairement exprimée dans Sa
-Parole. Il n’y a que deux sources d’inspiration. Ou bien l’homme puise à l’une, ou bien il
-puise à l’autre. Dans le jardin d’Eden Satan commença à donner au premier homme sa propre
-interprétation de la Parole. Tout d’abord Eve écouta cela, et Adam à son tour l’écouta. C’est
-comme cela qu’ont commencé toutes les détresses de cette terre. Ce doit devenir bien clair pour
+Du temps de Constantin l’église mondanisée a été reconnue comme Eglise. Constantin, par des artifices politiques, commença à gagner en 313 le christianisme comme le paganisme, tous deux pour ses desseins. C’est à son instigation que le concile de Nicée fut convoqué.
 
-        http://www.cmpp.ch
+Après 325 il soutint la construction aussi bien d’églises que de temples païens. Sous sa domination le christianisme mondain prit une forme stable et il devint ainsi à l’intérieur de l’empire romain une puissance spirituelle mondiale. Eusèbe vit en Constantin le sauveur qui les sortirait de leur profonde détresse. Après de cruelles persécutions de chrétiens, de Néron jusqu’à Dioclétien on commença alors à respirer.
 
-    LE CHRISTIANISME HIER ET AUJOURD'HUI    11
-chacun que Satan ne se présentera jamais avec une déclaration différente de Dieu et de Sa
-Parole. Cela serait trop frappant. Il se sert toujours de la Parole de Dieu, seulement il la redonne
-d’une manière faussée. Ce n’est que dans la mesure où il peut faire croire aux gens qu’il
-s’agit là de l’affaire de Dieu qu’il peut les tromper. C’est pourquoi de tout temps ce qu’il dit
-a l’accent de la piété.
-   Il ressort de l’histoire de la tentation de notre Seigneur que l’ennemi est aussi venu à Lui avec
-des passages bibliques qu’il avait toutefois détachés de leur contexte et qu’il employait
-faussement. Le Seigneur lui répliqua chaque fois par: “Il est aussi écrit…”. Ainsi se référer aux
-passages bibliques ne signifie encore rien du tout si ceux-ci ne se trouvent pas en accord avec le
-témoignage tout entier des Saintes Ecritures. Bien que l’ennemi se présente avec des citations
-bibliques, il n’en laisse aucune dans son contexte originel.
+En l’an 380, sous le règne de Théodose 1er et de Gratien, on mit fin à la liberté religieuse en général. Jusque là avaient encore existé quelques communautés de croyants qui subsistaient à côté du christianisme reconnu par l’état. Mais dorénavant on obligea les citoyens, par la force de l’état, à devenir des chrétiens “romains”. Cet événement arriva à son achèvement sous Justinien (527-565). L’Eglise fut dès lors et définitivement l’Eglise reconnue par l’état et les prêtres devinrent alors des fonctionnaires d’état. Avec la ruine de l’empire romain païen s’établit la domination religieuse de Rome, Ce fut le commencement du cruel Moyen-Age; environ mille ans s’écoulèrent jusqu’à l’apparition de la Réformation. La monarchie à la fois de l’état et de l’église, dans laquelle l’église triomphait presque toujours, eut pour conséquence que tous les autres croyants furent persécutés. Des peuples entiers furent christianisés par la violence. Des millions souffrirent la mort par le martyre, parmi lesquels cent mille Juifs qui étaient stigmatisés sous l’accusation d’être des “meurtriers de Christ” et des “ennemis de Dieu”. L’Eglise devint un élément de puissance politique.
 
-        LES CLEFS
+Déjà pendant les deux premiers siècles après Christ différentes doctrines inventées de toutes pièces furent introduites. Cependant au cours du troisième siècle, leur mise en pratique générale sous contrainte commença. L’observation de toutes les nouvelles doctrines et pratiques fut exigée. Le crucifix et le signe de la croix, les cierges et l’encens furent introduits. Toujours plus de choses nouvelles furent ajoutées: la vénération des saints, le sacrifice journalier de la messe et beaucoup d’autres choses.
 
-   Cette parole de Matthieu 16.19: “Je te donnerai les clefs du Royaume des cieux” que le
+Lors du concile d’Ephèse en 431 la vénération de Marie en tant que mère de Dieu fut proclamée. En l’an 500 le clergé commença à se vêtir uniformément. La fête en l’honneur de la vierge Marie, le baisement des pieds du pape, la vénération des images et des reliques, la vénération de Joseph, le jeûne du vendredi suivirent. Le célibat des prêtres fut introduit en 1079, puis vinrent le Rosaire, la vente des indulgences, la doctrine de la transsubstantiation, la Fête-Dieu et ainsi de suite, jusqu’à la proclamation du dogme de l’ascension corporelle de Marie. Du temps des apôtres non plus on ne connaissait encore rien d’un confessionnal.
+
+La liste pourrait être allongée à volonté. Nous devons dire ici clairement que tous ces dogmes n’ont rien de commun avec le christianisme primitif et avec l’enseignement des apôtres. De quel droit ont-ils été introduits? En principe tout enseignement originel a été transformé et beaucoup de choses ont été ajoutées, si bien que plus rien n’est juste.
+
+Le Seigneur dit par exemple: “N’appelez personne sur la terre votre père, car un seul est votre Père, celui qui est dans les cieux” (Mat. 23.9). Qui donc peut comprendre que cette déclaration est complètement ignorée car le monde entier tombe aux pieds d’un homme pour lui rendre hommage et l’honorer en l’appelant “saint-Père”? A cela le Seigneur répond: “Je ne donnerai pas ma gloire à un autre!” (Ésaïe 48.11). Jésus nous a enseigné à prier en disant: “Notre Père qui es aux cieux, que ton nom soit sanctifié…”. N’est-ce pas blasphémer que dédaigner tout simplement la Parole de Dieu et employer ce titre pour un homme? Qui donc est le Saint Père dont le Nom doit être sanctifié? Est-il dans les Cieux ou sur la terre?
+
+Où nous est-il rapporté dans le christianisme primitif d’apparitions de Marie, de lieux de pèlerinages ou de vénération des saints? Au contraire, la Bible nous met en garde de manière pressante contre toute relation avec les morts. Ces pratiques sont du spiritisme et de l’occultisme. La vénération de patrons protecteurs est absolument antibiblique. Bien davantage encore, cela ne peut avoir qu’une seule signification: le retour au culte des idoles du paganisme.
+
+Nous ne trouvons pas davantage dans les Saintes Ecritures la moindre indication que Marie soit médiatrice entre Dieu et les hommes. Il est écrit: “Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ, homme” (1 Timothée 2.5). La même chose est valable pour le rôle d’intercesseur qu’on lui attribue à elle. Dans la Parole de Dieu il est écrit très clairement: “Et si quelqu’un a péché, nous avons un avocat auprès du Père, Jésus-Christ, le juste. Il est lui-même une victime expiatoire pour nos péchés, non seulement pour les nôtres, mais aussi pour ceux du monde entier” (1 Jean 2.1,2).
+
+Pareillement les Saintes Ecritures ne nous parlent que de l’Ascension de Jésus-Christ. “Pendant qu’il les bénissait il se sépara d’eux, et il fut enlevé au ciel” (Luc 24.51). Pas un seul apôtre n’a jamais rien su d’une soi-disant ascension de Marie. Ce n’est qu’en 1951 que ce dogme a été établi d’après une légende qui disait que Marie dans son corps et son âme avait été prise dans le Ciel. Il n’y a aucun fondement biblique à cela. Les préceptes des hommes n’ont encore jamais sauvé quelqu’un, mais bien au contraire ils ont retenu des millions de personnes loin du salut.
+
+PRETENTIONS NON BIBLIQUES
+
+Dans les Saintes Ecritures on ne trouve pas la moindre indication montrant une personne revêtue d’autorité et désignée comme étant un successeur de Pierre. Il n’y est nulle part question d’un remplaçant de Christ. Les Ecritures parlent uniquement de successeurs de Jésus-Christ. Il n’est pas davantage écrit que Pierre ait été institué comme la tête visible de l’Eglise. Comment pourrait-il y avoir un homme qui dût être la tête, alors que Christ Lui-même est la Tête?
+
+Il est écrit de Lui: “Il est avant toutes choses, et toutes choses subsistent en lui. Il est la tête du corps de l’Eglise” (Colossiens 1.17,18). Celui qui prétend être le chef s’élève de la sorte au-dessus de Christ et doit être soumis au jugement de cette parole de Il Thessaloniciens 2.3,4. Un croyant en Christ biblique ne peut reconnaître pour Chef de l’Eglise que le Seigneur et Sauveur Jésus-Christ. Christ n’a jamais établi de remplaçant, ou de “Vicarius Filii Dei”; Il a Lui-même sauvé Son Eglise et Il est en train de l’achever.
+
+Il est intéressant de lire dans l’histoire de l’Eglise son développement spirituel. La légende selon laquelle Pierre aurait oeuvré comme évêque à Rome et aurait été enseveli là-bas ne peut pas être historiquement prouvée. Il est uniquement question d’un certain magicien appelé Simon Magus, lequel avait fait une telle impression sur le sénat et sur le peuple de Rome qu’on l’avait proclamé dieu et lui avait élevé une statue avec l’inscription: “Simoni dea sancto”.
+
+Que peut donc bien avoir à faire un tel conte avec l’homme de Dieu Simon Pierre, lequel en plus n’a jamais mis les pieds à Rome? Pour cela aussi nous nous référons aux Saintes Ecritures uniquement. Selon Galates 2.9 Pierre, Jacques et Jean, d’un côté, se rencontrèrent avec Paul et Barnabas, de l’autre, et ils convinrent en se donnant la main d’association que Paul et Barnabas iraient vers les nations alors que Pierre, Jacques et Jean oeuvreraient parmi les Juifs.
+
+On parlait de Paul comme étant l’apôtre des païens, car c’était à cela que Dieu l’avait destiné. C’est à lui que le Seigneur avait dit: “Va, je t’enverrai au loin vers les nations” (Actes 22.21). A l’église de Rome Paul écrit au chapitre 15, verset 28: “Je partirai pour l’Espagne et passerai chez vous”. Les voyages missionnaires de Paul, y compris ceux qu’il fit à Rome, nous sont clairement décrits. Pourquoi donc n’est-il pas fait mention d’un seul voyage de Pierre dans cette ville? Paul a envoyé de Rome la plupart de ses épîtres aux églises ainsi qu’aux particuliers. Beaucoup de ceux qui se trouvaient avec lui dans cette ville furent mentionnés par leur nom sans toutefois que le nom de Pierre eût été évoqué une seule fois. Peut-on se représenter que cela eût été possible Si Pierre avait réellement oeuvré avec lui à Rome?
+
+Du reste, savoir où un homme de Dieu s’est trouvé et a agi signifie peu de chose. Il s’agit uniquement de couvrir une pieuse invention sur laquelle une grande institution est fondée et avec laquelle elle voudrait établir l’autorité de son enseignement. A cela nous pouvons répondre avec les paroles de Pierre lui-même qui dit: “Ce n’est pas en effet en suivant des fables habilement conçues…” (2 Pier. 1.16).
+
+Les Saintes Ecritures ne parlent pas davantage d’une succession apostolique. Lorsque Léon le Grand fut élu évêque de Rome en 440, il éleva la prétention que l’évêque romain avait la prééminence sur tous les autres. C’est lui qui se référa à cette occasion à Matthieu 16.16. Il proclama solennellement être tout personnellement le successeur de Pierre. Jusque là cette idée avait été avancée de temps en temps parmi les “Nicolaïtes”, mais elle n’avait pas encore été reliée à un ministère spirituel. Ce fut une orientation de foi qui provoqua une différence entre les laïcs qui écoutaient et les frères qui exerçaient un service. Cela est entièrement contre la Parole. L’Eglise rachetée représente “une sacrificature royale” (1 Pier. 2.9).
+
+Il est connu de tous les historiens que Polycarpe (155), cet homme de Dieu béni, avait été avec Jean, le disciple préféré de Jésus qui fut exilé sur l’île de Patmos. Il avait reçu le pur témoignage de la bouche de l’apôtre. Pas une seule fois dans ses plaidoyers on ne peut trouver même la plus petite indication à l’égard des idées inventées plus tard. Irénée, un messager de Christ revêtu d’autorité (202), avait vécu un temps assez long avec Polycarpe. Lui non plus n’a jamais tait mention d’un successeur de Pierre. Jusque là on cherchait autant que possible à se tenir à la Parole de Dieu. Tertullien (220) dit: «C’est le Seigneur, pas le serviteur, qui a la juridiction et le jugement».
+
+Même lors du concile de Nicée les deux porte-parole Athanase et Arius ne mentionnèrent pas une telle pensée. C’est seulement en 445 que l’empereur Valentinien confirma la suprématie religieuse de l’évêque de Rome sur l’Eglise de tout l’Occident. Désormais la toute-puissance provenait de Rome. Le docteur de l’Eglise bien connu Augustin d’Hippone (354-430) favorisa cette pensée; il écrivit sur le sujet: L’Etat de Dieu. Pour lui l’Eglise représentait le Royaume millénaire. Il enseigna que «l’Eglise c’est l’autorité». Où donc demeure l’autorité de Celui qui a dit: “Tout pouvoir m’a été donné dans le ciel et sur la terre!”? (Mat. 28.18).
+
+Ce développement non biblique ne peut pas être attribué aux apôtres du christianisme primitif. Comme nous l’avons déjà exposé, il y avait en ce temps-là les ministères que le Seigneur avait institués pour l’ensemble de l’Eglise. Cependant chaque communauté locale avait des frères responsables. Ils étaient désignés par le nom “d’ancien”, de “président”, ou “d’évêque”. Par exemple dans l’épître aux Philippiens, Paul salue l’Eglise du Seigneur, les saints et les bien-aimés en même temps que leurs évêques et diacres. Ces deux ministères faisaient partie de la communauté locale. Une condition biblique pour exercer cette tâche était qu’un tel homme soit marié (1 Timothée 3.2). D’aucun apôtre ou prophète il n’était exigé qu’il soit mari d’une seule femme, mais bien des diacres et des évêques. Seule une personne mariée elle-même et qui doit pouvoir venir à bout des différents problèmes familiaux peut donner à d’autres des conseils et de l’aide pratiques.
+
+Cependant l’Esprit de Dieu révélait déjà en ce temps-là, comme Paul le dit, que cela n’allait pas demeurer ainsi. Nous lisons dans 1 Timothée 4: “Mais l’Esprit dit expressément que dans les derniers temps, quelques-uns abandonneront la foi, pour s’attacher à des esprits séducteurs et à des doctrines de démons, par l’hypocrisie de faux docteurs portant la marque de la flétrissure dans leur propre conscience, prescrivant de ne pas se marier et de s’abstenir d’aliments…”. A quoi ces paroles nous font-elles penser? Elles se sont accomplies à la lettre.
+
+UN MALENTENDU
+
+Celui qui lit avec attention Matthieu 16.18 constatera que le Seigneur n’a pas dit là: “Tu es Pierre et sur toi je bâtirai mon Eglise”, mais bien “Et moi, je te dis que tu es Pierre, et que sur cette pierre (ce roc) je bâtirai mon Eglise”. Il n’est pas permis de prendre un seul verset et de l’interpréter arbitrairement. Pour recevoir une réponse claire il est indispensable de lire tout le contexte.
+
+Aussi bien dans l’Ancien que dans le Nouveau Testament le Seigneur est souvent désigné comme étant le Rocher. Mais pas une seule fois ce mot n’est employé pour un homme. Pierre venait juste de recevoir la révélation divine sur Christ et quelques minutes plus tard il devait reconnaître son manquement, sa faillibilité. Juste quelques versets après, le Seigneur devait dire au même Pierre: “Arrière de moi, Satan! tu m’es en scandale; car tes pensées ne sont pas celles de Dieu, mais celles des hommes” (Mat. 16.23).
+
+Cela devrait donner à réfléchir à tous ceux qui s’arrogent le droit d’apporter leur propre interprétation à la Parole de Dieu. Tout ce qui n’est pas en accord avec la Parole écrite vient d’une fausse inspiration. Les mêmes paroles que le Seigneur a dites en ce temps-là à Pierre, lequel à cet instant-là n’était manifestement plus sous l’inspiration divine mais émettait des pensées humaines, Il les dit aujourd’hui à chacun de ceux qui se trouvent sous une fausse inspiration.
+
+Sur le terrain spirituel il ne s’agit pas d’exposer de bonnes pensées qui apportent de la clarté, mais il s’agit plutôt d’exposer la pensée éternelle de Dieu qu’Il a clairement exprimée dans Sa Parole. Il n’y a que deux sources d’inspiration. Ou bien l’homme puise à l’une, ou bien il puise à l’autre. Dans le jardin d’Eden Satan commença à donner au premier homme sa propre interprétation de la Parole. Tout d’abord Eve écouta cela, et Adam à son tour l’écouta. C’est comme cela qu’ont commencé toutes les détresses de cette terre. Ce doit devenir bien clair pour chacun que Satan ne se présentera jamais avec une déclaration différente de Dieu et de Sa Parole. Cela serait trop frappant. Il se sert toujours de la Parole de Dieu, seulement il la redonne d’une manière faussée. Ce n’est que dans la mesure où il peut faire croire aux gens qu’il s’agit là de l’affaire de Dieu qu’il peut les tromper. C’est pourquoi de tout temps ce qu’il dit a l’accent de la piété.
+
+Il ressort de l’histoire de la tentation de notre Seigneur que l’ennemi est aussi venu à Lui avec des passages bibliques qu’il avait toutefois détachés de leur contexte et qu’il employait faussement. Le Seigneur lui répliqua chaque fois par: “Il est aussi écrit…”. Ainsi se référer aux passages bibliques ne signifie encore rien du tout si ceux-ci ne se trouvent pas en accord avec le témoignage tout entier des Saintes Ecritures. Bien que l’ennemi se présente avec des citations bibliques, il n’en laisse aucune dans son contexte originel.
+
+LES CLEFS
+
+Cette parole de Matthieu 16.19: “Je te donnerai les clefs du Royaume des cieux” que le
 Seigneur adressa à Pierre se trouvait en relation directe avec son appel et sa mission. Lorsque
 l’Eglise du début se trouvait rassemblée le jour de Pentecôte, Pierre s’avança comme porte-Parole
 de Dieu. Rempli du Saint-Esprit il expliqua en quelques paroles les Vérités qui servent de
@@ -1064,7 +757,7 @@ terre avec les oeuvres qu’elle renferme sera consumée… Mais nous attendons,
 promesse, de nouveaux cieux et une nouvelle terre, où la justice habitera”.
    La situation économique générale du monde entier nous contraint à la coopération. Chacun
 voudrait survivre et c’est pourquoi tous doivent participer. Celui qui ne se soumettra pas à ce
-dernier ordre mondial sera boycotté et coupé du commerce international. C’est ainsi que
+ dernier ordre mondial sera boycotté et coupé du commerce international. C’est ainsi que
 s’accomplit ce qui est écrit, que l’on ne pourrait ni acheter ni vendre (Apocalypse 13.17).
    En dépit de l’apparence actuelle du monde et de l’ordre établi dans la société, tous les peuples
 devront s’incliner devant cette dernière puissance mondiale. Celui qui ne s’y soumettra pas n’aura
@@ -1076,23 +769,20 @@ temps parlent un langage très clair. On peut dire sans crainte de se tromper: C
 Bible connaît l’avenir. Après que les hommes aient assez longtemps manipulé la Parole, il est
 grand temps de laisser Dieu parler.
 
+Sources de références:
+Encyclopaedia Britannica
+HAUSS F.: Vater der Christenheit
+HERZOG Dr. J.J.: Abriss der Kirchengeschichte
+HISLOP A.: The Two Babylons
+KING L.J.: House of Death
+KOSEL VERLAG: Grundriss des Glaubens
+LILJE Dr. Dr. H.: Die Lehre der zwölf Apostel
+OEHNINGER F.: Geschichte des Christentums
+PATMOS-VERLAG: Kleiner katholischer Katechismus
+ROGGE B.: Das Evangelium in der Verfolgung
+SCHMIDT K.D.: Grundriss der Kirchengeschichte
+STANDRIDGE W.C.: What’s happening in the Roman Church?
+STEINER L.: Mit folgenden Zeichen
+WOODROW R.: Babylon, Mystery, Religion
 
-
-
-    Sources de références:
-    Encyclopaedia Britannica
-    HAUSS F.: Vater der Christenheit
-    HERZOG Dr. J.J.: Abriss der Kirchengeschichte
-    HISLOP A.: The Two Babylons
-    KING L.J.: House of Death
-    KOSEL VERLAG: Grundriss des Glaubens
-    LILJE Dr. Dr. H.: Die Lehre der zwölf Apostel
-    OEHNINGER F.: Geschichte des Christentums
-    PATMOS-VERLAG: Kleiner katholischer Katechismus
-    ROGGE B.: Das Evangelium in der Verfolgung
-    SCHMIDT K.D.: Grundriss der Kirchengeschichte
-    STANDRIDGE W.C.: What’s happening in the Roman Church?
-    STEINER L.: Mit folgenden Zeichen
-    WOODROW R.: Babylon, Mystery, Religion
-
-        http://www.cmpp.ch
+    http://www.cmpp.ch

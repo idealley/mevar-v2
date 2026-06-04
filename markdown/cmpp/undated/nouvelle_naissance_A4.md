@@ -1,502 +1,141 @@
-LA NOUVELLE NAISSANCE
+---
+source: "cmpp"
+sermon_id: "nouvelle_naissance_A4"
+title: "La Nouvelle Naissance"
+subtitle: "A quoi sert la nouvelle naissance?"
+preacher: "Alexis Barilier"
+summary: "Ce texte examine la nécessité de la nouvelle naissance selon Jean 3, expliquant qu'elle permet de voir et d'entrer dans le royaume de Dieu. Il distingue la révélation d'en haut des credo religieux, et insiste sur la sortie de Babylone, le baptême d'eau au nom de Jésus, et la réception du Saint-Esprit. Il répond aussi à la question de savoir si un croyant né de nouveau peut manquer l'enlèvement, en soulignant l'importance d'être prêt avec l'huile de la Parole."
+tags:
+  - "nouvelle naissance"
+  - "royaume de Dieu"
+  - "baptême"
+  - "Saint-Esprit"
+  - "Babylone"
+  - "enlèvement"
+  - "révélation"
+persons:
+  - "Jésus-Christ"
+  - "Pierre"
+  - "Paul"
+  - "Jean-Baptiste"
+  - "Abraham"
+  - "Moïse"
+  - "Elie"
+  - "William Branham"
+  - "Alexis Barilier"
+places:
+  - "Jérusalem"
+  - "Golgotha"
+  - "Babylone"
+themes:
+  - "nouvelle naissance"
+  - "révélation divine"
+  - "sortie de Babylone"
+  - "baptême biblique"
+  - "onction du Saint-Esprit"
+  - "préparation pour l'enlèvement"
+  - "autorité de la Parole"
+pdf_url: "http://cmpp.ch/nouvelle_naissance_A4.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Jean 5"
+  - "1 Pierre 3"
+  - "2 Corinthiens 1"
+  - "2 Corinthiens 5"
+  - "2 Corinthiens 6"
+  - "Actes 1"
+  - "Actes 2"
+  - "Actes 22"
+  - "Actes 3"
+  - "Apocalypse 1"
+  - "Apocalypse 18"
+  - "Apocalypse 3"
+  - "Deutéronome 6"
+  - "Galates 6"
+  - "Genèse 3"
+  - "Hébreux 10"
+  - "Hébreux 2"
+  - "Jacques 1"
+  - "Jean 17"
+  - "Jean 19"
+  - "Jean 3"
+  - "Jean 8"
+  - "Luc 17"
+  - "Luc 2"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Marc 16"
+  - "Matthieu 11"
+  - "Matthieu 18"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Matthieu 6"
+  - "Romains 1"
+  - "Romains 11"
+  - "Romains 3"
+  - "Romains 6"
+  - "Éphésiens 4"
+  - "Ésaïe 40"
+  - "Ésaïe 52"
+  - "Ésaïe 53"
+  - "Ésaïe 9"
+---
+# LA NOUVELLE NAISSANCE
 
-A QUOI SERT LA NOUVELLE NAISSANCE?
+## A QUOI SERT LA NOUVELLE NAISSANCE?
 
-      REPONSE A UNE QUESTION?
+C’est une question qui nous a été posée et qui vaut la peine d’être considérée, car toutes les exigences de l’Ecriture ont une signification importante et des conséquences profondes pour le bonheur des âmes. En effet, l’Eternel, le Dieu de la Bible, nous a créés à Son image et Il est venu en Son Fils seul engendré, Jésus-Christ, nous racheter de la perdition. Cette question dans la bouche de celui qui commence à marcher avec foi dans les Paroles de la Bible est compréhensible parce qu’il désire être assuré de bien comprendre les choses de la Vie éternelle, ainsi que toute Parole inspirée par le Créateur des Cieux et de la terre. Il faut qu’il reconnaisse également l’importance de recevoir cette Parole de tout son coeur afin de La mettre en pratique dès qu’il a reconnu que Celui qui parle, l’Auteur de la Bible, est le seul Dieu Vivant. C’est Lui qui est Son Père céleste, la seule Source de toute vie sur la terre et dans les Cieux.
 
+Chaque religion de ce monde, comme également chaque dénomination chrétienne a défini pour elle-même au travers du credo qu’elle s’est fabriquée et par les commandements qu’elle a établis, quelle était l’image du Dieu qu’elle allait adorer. En réalité, chacune a fait de son credo l’absolu de sa foi, signifiant ainsi que ce credo devient son dieu, c’est-à-dire le dernier recours auquel les adeptes de cette religion se réfèrent pour trancher leurs questions et problèmes. Mais n’oublions pas ce que l’Ecriture déclare dans Romains 3.4: “Disons au contraire que Dieu est véridique et tout homme menteur, ainsi qu’il est écrit: afin que tu sois reconnu juste dans tes paroles et que tu triomphes quand on te jugera” (version: A. Crampon). Aucune personne ne peut servir deux maîtres et nous devons choisir celui à qui nous voulons donner raison et nous soumettre. D’un côté, il y a les credo des dénominations religieuses ayant fait leurs propres interprétations et à qui le Dieu de la Bible dit: “Tout homme est menteur”, et de l’autre côté, il y a le Dieu Vivant qui a inspiré ceux qui ont écrit la Bible, à commencer par Moïse, et qui dit: “Dieu est véridique”. Pour nous qui croyons cette dernière affirmation et qui sommes devenus disciples de Jésus-Christ, la Parole faite chair, le recours final dans tous nos problèmes, ainsi que la solution à toutes nos questions, se trouvent donc dans les paroles de la Bible plutôt que dans celles établies par les hommes dans leurs credo religieux. C’est dans la Bible, écrite par de saints hommes de Dieu, inspirés par le Créateur des cieux et de la terre, que se trouvent notre absolu et la Vérité.
 
+Ainsi, la question posée est: «A quoi donc sert-il de naître de nouveau?». Selon Jésus, qui est la Parole de Dieu faite chair, la nouvelle naissance est indispensable pour voir le royaume de Dieu (Jean 3.3), car pour le voir tout homme doit naître de nouveau (d’en haut) et pour entrer dans ce royaume, il doit en plus naître d’eau et d’Esprit (Jean 3.5). Si nous comprenons bien la déclaration de notre Seigneur Jésus, il y a deux étapes indispensables à cette nouvelle naissance qui vient d’en haut. Il faut premièrement que le croyant voie, c’est-à-dire qu’il puisse reconnaître ce qu’est réellement ce royaume qui lui est présenté, ainsi savoir là où il peut le trouver. A cet égard, la façon dont l’homme voit la chose est importante, comme Jésus le dit dans Matthieu 6.22-23: “La lampe du corps, c’est l’oeil; si donc ton oeil est simple, ton corps tout entier sera plein de lumière; mais si ton oeil est méchant, ton corps tout entier sera ténébreux; si donc la lumière qui est en toi est ténèbres, combien seront grandes les ténèbres”. Selon Matthieu 11.25, les choses du Royaume des cieux ont été cachées par le Père aux sages et aux intelligents, alors que, par contre, elles sont révélées aux petits enfants. Ce sont ceux dont l’oeil est simple. Il s’agit bien d’une révélation que Dieu accorde aux simples, à ceux qui acceptent d’écouter Dieu comme de petits enfants: “En vérité, je vous dis; si vous ne vous convertissez et ne devenez comme les petits enfants, vous n’entrerez point dans le royaume des cieux” (Mat. 18.3). Cette révélation est accordée à ceux qui voient par la Parole de Vérité, plutôt qu’à ceux qui sont animés et instruits par le prince de ce monde, le méchant.
 
+Jésus a dit dans Luc 17.21: “Car voici, le royaume de Dieu est au milieu de vous”. Cette déclaration de notre Seigneur est la pure Vérité, et correspond à ce qui est dit dans Matthieu 18.20: “Car là ou deux ou trois sont assemblés en mon nom, je suis là au milieu d’eux”, ainsi qu’à ce qui est dit dans Matthieu 24.28: “Car, où que soit le corps mort, là s’assembleront les aigles”. En effet, là où se trouve le Roi, là se trouve le Royaume, et c’est lorsque les disciples de Jésus sont assemblés en Son Nom, qu’Il se trouve au milieu d’eux. Il ne s’agit pas du tout d’être assemblé au nom d’un même credo conçu par l’homme, mais bien de l’être par la Parole que Dieu a révélée pour notre temps: “Car c’est ici le témoignage de Dieu qu’il a rendu au sujet de son Fils… que Dieu nous a donné la vie éternelle, et cette vie est dans son Fils: Celui qui a le Fils a la vie, celui qui n’a pas le Fils de Dieu n’a pas la vie” (1 Jean 5.9-12). Il importe également que ce soit Jésus-Christ crucifié qui soit prêché lors de ces rassemblements, parce que la nourriture spirituelle nous vient uniquement du fait que toutes les promesses sont accomplies dans Son sacrifice. “C’est pourquoi, en entrant dans le monde, il dit: Tu n’as pas voulu de sacrifice ni d’offrande, mais tu m’as formé un corps. Tu n’as pas pris plaisir aux holocaustes ni aux sacrifices pour le péché; alors j’ai dit: Voici, je viens, — il est écrit de moi dans le rouleau du livre — pour faire, ô Dieu, ta volonté … C’est par cette volonté que nous avons été sanctifiés, par l’offrande du corps de Jésus-Christ faite une fois pour toute” (Hébreux 10.5-7, et 10). Ce ne sont plus des choses à venir, mais bien des promesses réalisées. C’est pourquoi la prédication de la croix rassemble les aigles autour de cette nourriture descendue du ciel. La Parole révélée est pour eux la nourriture fraîche que le Seigneur envoie là où Il se trouve présent par Son Esprit. Comme tous le savent, les aigles ont besoin de nourriture fraîche, d’une nourriture donnée en sa saison. Cependant, chaque dénomination chrétienne prétendra que le royaume de Dieu est au milieu d’elle, que c’est bien chez elle seule que se trouve le Dieu véritable qui donne le salut, ce qui ne les empêche pas dans le même temps de prétendre qu’elles ont toutes le même Père. Mais, comme nous allons le voir, c’est un mensonge. Ainsi donc pour s’engager dans une voie dont dépend notre bonheur présent et éternel, il faut que le croyant puisse discerner personnellement et spirituellement, c’est-à-dire voir dans son être intérieur si les prétentions des religions qui se présentent à lui sont une réalité conforme à la Bible et au temps dans lequel nous vivons. Et pour cela, nous avons besoin de recevoir une vision des choses venant d’en haut, nous avons besoin de voir les choses comme Dieu Lui-même les voit. Notre Seigneur Jésus dit: “Vous êtes d’en bas; moi, je suis d’en haut: vous êtes de ce monde; je ne suis pas de ce monde” (Jean 8.23). Jean-Baptiste rend ce témoignage: “Celui qui vient d’en haut est au-dessus de tous. Celui qui est de la terre est de la terre, et parle comme étant de la terre. Celui qui vient du ciel est au-dessus de tous; et de ce qu’il a vu et entendu, de cela il rend témoignage; et personne ne reçoit son témoignage” (Jean 3.31-32). Jacques nous exhorte pareillement à recevoir les choses qui viennent d’en haut: “Ne vous égarez pas mes frères bien-aimés: tout ce qui nous est donné de bon et tout don parfait descendent d’en haut, du Père des lumières, en qui il n’y a pas de variation ou d’ombre de changement” (Jacques 1.16-17). Toutes les Ecritures nous montrent, qu’une révélation venant d’en haut est indispensable, et ce fait est réellement une nouvelle naissance vis-à-vis de la réalité de Dieu. Ce n’est pas une religion imaginée et fabriquée par l’homme, un enseignement doctrinal venu d’en bas, de la chair, mais bien la Vérité révélée au coeur du croyant par la Personne qui peut dire: “Ne crains point; moi, je suis le premier et le dernier, et le vivant; et j’ai été mort; et voici, je suis vivant aux siècles des siècles…”. C’est la VISION que Dieu donne de Lui-même au travers de la Parole de la Bible.
 
+En effet, comment se fait-il que toutes ces religions qui prétendent avoir le même Père céleste n’aient pas la même nature que le Fils premier-né? pas la même foi que Lui dans toute la Parole de la Bible? Et pourquoi la parole de Jésus dans Jean 17.21 ne se réalise-t-elle pas aujourd’hui dans les dénominations dites chrétiennes: “Que tous soient un, comme toi, Père, tu es en moi, et comme je suis en toi, afin qu’eux aussi soient UN en nous”? Et pourquoi cette parole n’est-elle même pas encore réalisée en ceux qui prétendent avoir reçu le dernier Message que l’Eternel avait promis dans Malachie 4.5-6 avant que n’arrive le grand et terrible jour de l’Eternel et que le pays ne soit frappé de malédiction? L’esprit d’Elie devait ramener le coeur des fils à la foi de leurs pères apostoliques. Visiblement, le même Esprit Saint n’anime pas tous ces faiseurs de credo de la même manière qu’Il animait la première Eglise à Jérusalem! Si au moins quelques-unes de ces communautés qui disent avoir reçu le Message de Dieu envoyé à notre âge étaient comme le demande notre Seigneur Jésus, la Parole de Malachie 3.18 s’accomplirait en elles: “Alors vous reviendrez, et vous ferez la différence entre le juste et le méchant, entre celui qui sert Dieu et celui qui ne le sert pas”. Comment des êtres morts spirituellement, c’est-à-dire qui ne sont pas nés de nouveau d’en haut, peuvent-il servir le Dieu Vivant? Comment en fabriquant un nouveau credo avec le Message du temps du soir, qui est également le temps de la moisson, c’est-à-dire le temps de la récolte, peut-on être au service du Dieu Vivant qui s’est révélé être UN? “Ecoute Israël: Yahweh, notre Dieu, est SEUL Yahweh” (Deutéronome 6.4 — A. Crampon). Car en ce temps de la fin précisément, au travers du ministère promis d’Elie, selon Malachie 4.5, Dieu en Jésus a démontré être Le Même, hier, aujourd’hui et éternellement.
 
+Il est vrai que chaque dénomination religieuse a commencé par un réveil, lorsque la révélation d’une Parole de la Bible, d’un Message venant du Créateur, est parvenue aux croyants conscients de leurs besoins spirituels. La Vie de Christ, venant de la Parole biblique et de la présence de Jésus en eux par Son Esprit Saint, se manifestait dans ces croyants qui avaient reçu cette Parole révélée destinée à l’âge de l’Eglise dans lequel ils se trouvaient. C’était l’accomplissement de la parole d’Ésaïe 53.10: “S’il livre son âme en sacrifice pour le péché, il verra une semence; il prolongera ses jours, et le plaisir de l’Eternel prospérera en sa main”. Mais aussitôt qu’un credo se formait au milieu d’eux autour de ce Message, et qu’ils s’organisaient autour de lui, la mort entrait avec l’idole du credo et chassait finalement Jésus du milieu d’eux. C’est la raison pour laquelle nous trouvons cet appel de Jésus à l’Eglise de Laodicée, dans Apocalypse 3.20: “Voici, je me tiens à la porte et je frappe; si quelqu’un entend ma voix et qu’il ouvre la porte, j’entrerai chez lui et je souperai avec lui, et lui avec moi”. C’est par cette Parole de l’Ecriture que nous avons compris que l’esprit de la dénomination avait fini par mettre le seul et véritable Seigneur hors de chez Lui, hors de la communion d’avec ceux qu’Il a rachetés par Son sacrifice.
 
+De même, au départ, comme pour toute autre semence, la Vie de la Semence divine jetée en terre s’est d’abord manifestée par la naissance de feuilles, puis elle grandit, forma tout d’abord la tige, et ensuite l’épi. Finalement, toutes ces choses formées par la Vie venue de la Semence se sont desséchées et la Vie de la Semence jetée en terre au commencement s’est réfugiée dans les semences renfermées dans l’épi. Dès lors c’est le fruit qui demeure et c’est lui qui est la raison d’être de tout le développement de la plante. A ce moment-là seulement, la moisson peut avoir lieu, les fruits sont recueillis et emportés dans les greniers. Mais pour le reste de la plante la course est terminée, plus jamais la Vie qui avait formé les feuilles, la tige et l’épi ne reviendra en eux, car leur destinée est désormais d’être consumée par le feu. C’est le sort de toutes les dénominations qui ont pourtant été utilisées un temps par le Seigneur pour porter l’Evangile et en qui Sa Vie a passé. Mais pour ceux qui ont été prédestinés à former l’Epouse de Christ, c’est le moment de l’accomplissement d’Ephésiens 5.27: “Afin que lui se présentât l’assemblée à lui-même, glorieuse, n’ayant ni tache, ni ride, ni rien de semblable, mais afin qu’elle fut sainte et irréprochable”. Ainsi, la Vie réfugiée dans le Germe des Semences entrera dans la Nouvelle Jérusalem pour poursuivre Sa carrière éternelle. Amen! Que notre Dieu et Père soit loué pour cela!
 
+Sans doute savez-vous qu’au temps du soir un appel a retenti: “Sortez du milieu d’elle, mon peuple, afin que vous ne participiez point à ses péchés, et que vous ne receviez pas de ses plaies” (Apocalypse 18.4). Il s’agissait pour les croyants de sortir de Babylone la grande, cette ville formée par le rassemblement des religions idolâtres issues des credo, mais déjà jugée et condamnée à la destruction par l’Eternel, le Dieu de la Bible. Pour les croyants prédestinés à recevoir la Vie de Jésus en eux par la nouvelle naissance, et qui se trouvent encore dans cette ville maudite, il s’agit dès lors de prendre le Chemin qui ramène à la Cité choisie comme demeure par le Dieu Vivant, pour ceux qui Lui appartiennent. “La voix de celui qui crie dans le désert: Préparez le chemin de l’Eternel, aplanissez dans le lieu stérile une route pour notre Dieu” (Ésaïe 40.3). La Lumière avait été promise pour le temps du soir parce que le peuple de Dieu devait suivre la route qui le ramenait à son héritage. Il était écrit dans Ésaïe 52.11-12: “Partez, partez; sortez de là; ne touchez pas à ce qui est impur! Sortez du milieu d’elle, soyez purs, vous qui portez les vases de l’Eternel! car vous ne sortirez pas avec précipitation et vous n’irez pas comme des fugitifs; car l’Eternel ira devant vous, et le Dieu d’Israël sera votre arrière garde”.
 
+Ainsi, le croyant de la Nouvelle Alliance, le disciple de Jésus doit de nouveau naître, mais d’en haut, pour voir où se trouve la Cité d’origine de sa famille céleste, car Babylone n’est pas la ville choisie par l’Eternel pour y rassembler Son peuple. Aucune des dénominations religieuses formant la grande Babylone n’a été élue par l’Eternel. Babylone la grande est la ville où vont aboutir tous les gens religieux (je dis bien «les gens religieux», c’est-à-dire ceux qui ne sont pas réellement nés de nouveau d’en haut) et leur fin est la destruction, la ruine. Mais la prospérité est pour les fils d’Abraham de l’Ancienne comme de la Nouvelle Alliance, pour ceux qui ont répondu à l’appel de Jésus: “Venez à moi, vous tous qui vous fatiguez et qui êtes chargés, et moi, je vous donnerai du repos. Prenez mon joug sur vous, et apprenez de moi…” (Mat. 11.28-29), c’est-à-dire qu’aujourd’hui l’appel à sortir de Babylone est pour les véritables disciples de Jésus-Christ. Ce qui a caractérisé la foi d’Abraham, c’est que lorsque l’ordre de l’Eternel lui est venu de quitter Babylone, il a aussitôt obéi à la Voix de Dieu. Il s’agit aujourd’hui d’être de véritables fils d’Abraham! Ainsi, il est dit: “Vous mon peuple, sortez du milieu d’elle”. Nous sommes tous nés en Adam dans le péché d’incrédulité à l’égard de la Parole de notre Père céleste et notre naissance physique, transmise de nos pères selon la chair, fait de nous tous des babyloniens. Comment donc sortir de la malédiction sinon par la mort, car la mort est la porte de sortie de ce monde pour tous les hommes, mais il s’agit maintenant de la mort en et avec Jésus, le Christ promis, qui elle débouche sur la nouvelle naissance, qui est la porte d’entrée dans le Royaume des Cieux. En mourant avec Jésus, par la foi en notre identification personnelle avec le sacrifice de Sa Vie à Golgotha, nous sortons de Babylone et de la nature de péché héritée du premier Adam. Par la foi en notre identification personnelle avec Lui dans Sa résurrection, nous entrons dans la Vie de résurrection de Jésus, qui est: “… déterminé Fils de Dieu, en puissance, selon l’esprit de sainteté, par la résurrection des morts…” (Romains 1.4). Ayant reconnu notre mort avec Jésus, nous ne vivons plus pour nous-mêmes, mais bien pour Celui qui est mort et ressuscité pour nous (2 Corinthiens 5.15). “En sorte que si quelqu’un est en Christ, c’est une nouvelle création: les choses vieilles sont passées; voici, toutes choses sont faites nouvelles” (2 Corinthiens 5.17). “Mais qu’il ne m’arrive pas à moi de me glorifier, sinon en la croix de notre Seigneur Jésus-Christ, par laquelle le monde m’est crucifié, et moi au monde. Car ni la circoncision, ni l’incirconcision ne sont rien, mais une nouvelle création” (Galates 6.14-15).
 
+Le Seigneur Jésus édifie Son Corps sur la révélation de ce qu’Il est dans Son essence même. Il n’était pas difficile de s’apercevoir que Jésus était le Fils de l’homme, c’est à dire le prophète, car le «AINSI DIT L’ETERNEL» s’accomplissait à la lettre dans Son ministère. Aussi, le Seigneur Jésus, étant venu dans l’intention d’édifier avec ses disciples un Temple pour l’Eternel qui soit un Témoignage dans le monde entier, n’a pas choisi de bâtir ce Temple sur la vérité qu’Il était le Fils de l’homme, le Prophète. Et c’est la raison pour laquelle, le moment étant venu de poser le fondement de Son Eglise, s’adressant à Ses disciples Il leur fait cette demande: “Et vous, qui dites-vous que je suis?” (Mat. 16.15). A ce moment-là, il s’agissait pour Ses disciple de reconnaître exactement qui Il était, et aucun d’eux ne trouvait en lui-même la capacité de voir qui Il était véritablement. C’est alors qu’intervient la réalisation de cette parole dite par Jésus: “Toutes choses m’ont été livrées par mon Père; et personne ne connaît le Fils, si ce n’est le Père…” (Mat. 11.27). Ainsi, pour que le Fils soit connu il fallait que le Père révèle aux disciples de Jésus qui était fondamentalement leur Maître, et lorsque Pierre illuminé par la révélation s’écrie: “Tu es le Christ, le Fils du Dieu Vivant!”, Jésus peut lui dire: “Tu es bienheureux, Simon Barjonas, car la chair et le sang ne t’ont pas révélé cela, mais mon Père qui est dans les cieux”. C’est après cela que Jésus révèle à son tour sur quelle base Il va bâtir Son Eglise, sur cette révélation même, que Lui, la postérité promise de la femme (Genèse 3.15), est le Christ, le Fils du Dieu Vivant. C’est pourquoi Jésus peut dire: “Et moi aussi, je te dis que tu es Pierre; et sur ce roc je bâtirai mon assemblée, et les portes du hadès ne prévaudront pas contre elle” (Mat. 16.18). Ainsi à son tour, Paul peut donc dire avec assurance dans Ephésiens 2.19-21: “Ayant été édifiés sur le fondement des apôtres et des prophètes, Jésus-Christ lui-même étant la maîtresse pierre du coin, en qui tout l’édifice, bien ajusté ensemble, croît pour être un temple saint dans le Seigneur; en qui vous aussi, vous êtes édifiés ensemble, pour être une habitation de Dieu par l’Esprit”.
 
-    ALEXIS BARILIER
+Le fait qu’un croyant reçoit cette révélation d’en haut, que ce Jésus de Nazareth est le Christ, le Fils du Dieu Vivant, est la raison qui permet à l’Esprit de Christ de poursuivre l’édification de cette personne dans la foi véritable, pour la placer dans l’édifice, le Temple du Corps de Christ, qui sera achevé lorsque Jésus présentera à ce monde Son Epouse parvenue à la perfection comme il est écrit dans les Ephésiens 5.27: “Afin que lui se présentât l’assemblée à lui-même, glorieuse, n’ayant ni tache, ni ride, ni rien de semblable, mais afin qu’elle fut sainte et irréprochable”.
 
-    LA NOUVELLE NAISSANCE    2
+## Y A-T-IL DES ETAPES POUR NAITRE DE NOUVEAU?
 
+Certainement! Lorsque un croyant est touché par la révélation de Jésus, qu’il découvre qui Il est véritablement, son développement spirituel dépend dès lors de son engagement. En fait c’est Lui, Jésus, qui l’appelle personnellement lorsqu’Il dit: “Venez à moi, vous tous qui vous fatiguez et qui êtes chargés, et moi je vous donnerai du repos” (Mat. 11.28). Remarquez qu’à l’origine, Jésus n’avait pas adressé ces paroles à des païens, mais bien à des fils d’Abraham, à des gens religieux. Et aujourd’hui encore cet appel à venir à Lui s’adresse tout particulièrement à des gens qui ont une religion, mais qui n’ont pas une relation véritable avec Lui, la Parole faite chair, qui est à nouveau révélée à cette génération par le Message du Dieu de la Bible. Jésus est véritablement “… le premier et le dernier, et le vivant; et j’ai été mort (dit-Il); et voici, je suis vivant aux siècles des siècles” (Apocalypse 1.17-18). C’est Lui qui a manifesté Sa présence sur cette terre, dans notre génération, car Dieu, par le ministère du Fils de l’homme qui animait le prophète de cet âge, a accompli la parole de Malachie 4.5-6: “Voici, je vous envoie Elie, le prophète… Et il fera retourner… le coeur des fils vers leur pères…”. C’est-à-dire qu’au travers de ce Message, Dieu a cherché à ramener nos coeurs à la foi en Jésus, cette foi que nos pères apostoliques possédaient. Aujourd’hui, le Seigneur Jésus adresse le même appel “Venez à moi!” à ceux auxquels Il désire se révéler, en faisant la même promesse de les conduire dans le repos, c’est-à-dire dans une vie dirigée par le Saint-Esprit et non plus dans une vie où ils sont menés par l’esprit de ce monde comme des esclaves de la chair et de ses convoitises. “Christ donc ayant souffert pour nous dans la chair, vous aussi, armez-vous de cette même pensée, que celui qui a souffert dans la chair s’est reposé du péché, pour ne plus vivre le reste de son temps dans la chair pour les convoitises des hommes, mais pour la volonté de Dieu” (1 Pier. 4.1-2).
 
-      LA NOUVELLE NAISSANCE
+Puisqu’il y a un appel de la part de Jésus, une réponse doit être donnée par la personne interpellée, si du moins elle veut obtenir l’accomplissement de la promesse. Venir à Lui signifie alors venir là ou la Parole révélée en ce temps est prêchée véritablement, là ou se trouve de la nourriture fraîche. Là où des ministres mandatés et oints de l’Esprit prêchent la Parole et non pas des interprétations. C’est là que l’Esprit animant Elie poursuit Son oeuvre dans le monde entier. Car en effet, après avoir invité à venir à Lui, Jésus a continué en disant: “Prenez mon joug sur vous, et apprenez de moi, car je suis débonnaire et humble de coeur; et vous trouverez le repos de vos âmes. Car mon joug est aisé et mon fardeau est léger” (Mat. 11.29-30). Après être nés de nouveau d’en haut afin de voir le royaume de Dieu au travers de la révélation de Jésus, le Fils du Dieu Vivant, nous sommes conduits dans la communion des rachetés, afin de naître d’eau et d’Esprit. Selon Ephésiens 5.26, Christ a aimé l’Assemblée et s’est livré Lui-même pour Elle: “… afin qu’il la sanctifiât, en la purifiant par le lavage d’eau par la parole…”.
 
-A QUOI SERT LA NOUVELLE NAISSANCE?
+Naître d’eau et d’Esprit implique donc de prendre le joug du Seigneur, c’est-à-dire accepter d’être soumis à la même Parole que Lui-même, apprendre de Lui à marcher selon la volonté du Père céleste pour nous occuper des affaires de notre Père céleste: “Ne saviez-vous pas qu’il me faut être aux affaires de mon Père” (Luc 2.49). Il est aussi écrit dans Ésaïe 9.6: “Car un enfant nous est né, un fils nous a été donné, et le gouvernement sera sur son épaule…”. Naître d’eau est donc premièrement une nouvelle marche avec Jésus ressuscité, sous l’autorité des promesses de la Bible, “car autant il y a de promesses de Dieu, en lui est le oui et en lui l’amen, à la gloire de Dieu par nous” (2 Corinthiens 1.20). Mais c’est aussi obéir à cette parole de Jésus dans Marc 16.16: “Celui qui aura cru et qui aura été baptisé sera sauvé; et celui qui n’aura pas cru sera condamné”. Il est aussi dit dans 1 Pierre 3.21: “Or cet antitype vous sauve aussi maintenant, c’est-à-dire le baptême, non le dépouillement de la saleté de la chair, mais la demande à Dieu d’une bonne conscience par la résurrection de Jésus Christ…”. Envoyé auprès de Saul de Tarse pour qu’il recouvre la vue et soit guéri, Ananias lui dit: “Et maintenant, que tardes-tu? Lève-toi et sois baptisé, et te lave de tes péchés, invoquant son nom” (Actes 22.16). D’ailleurs, lorsque Pierre le jour de Pentecôte, emploie les clés qu’il a reçues pour ouvrir le Royaume des cieux, à ceux qui lui demandent “Que ferons-nous, frères?”, il répond premièrement “Repentez-vous…” (Actes 2.37-39). C’est-à-dire, changez vos pensées et votre comportement à l’égard de Jésus, car c’est vous qui avez dit: “Ote, ôte! crucifie-le! Pilate leur dit: Crucifierai-je votre roi? Les principaux sacrificateurs répondirent: Nous n’avons pas d’autre roi que César” (Jean 19.15). Pour eux comme pour nous, après avoir reçu cette révélation de qui est réellement Jésus, il s’agit d’abandonner ce que disent de Lui les religions, de changer de pensée à Son égard et d’aller là où Sa Parole est prêchée, afin de bénéficier de “la purification par le lavage d’eau par la parole” d’Ephésiens 5.26, dont nous avons déjà parlé. Avec ce changement de pensée et de comportement, vient l’appel à s’identifier à Lui dans Sa mort et Sa résurrection: “… et que chacun de vous soit baptisé au nom de Jésus Christ, en rémission des péchés…”. La plupart des croyants qui appartiennent à une dénomination chrétienne ont été baptisés selon une formule établie par la religion catholique, dans laquelle le Nom du Seigneur Jésus Christ n’est pas invoqué sur la personne baptisée. Le Nom qui est au-dessus de tout nom n’est pas invoqué, c’est-à-dire qu’il n’est pas prononcé à haute voix sur le baptisé, alors que c’est précisément Lui, Jésus, qui a porté ses péché et expié pour lui. C’est-à-dire qu’ils n’ont pas été baptisés bibliquement comme Pierre le fit le jour de Pentecôte, ni comme il a été ordonné à Paul: “Lève-toi et sois baptisé, et te lave de tes péchés, invoquant son nom”. Pour celui qui a fait une expérience limitée de foi, qui a été conduit à certaines expériences dans une religion, ayant peut-être même expérimenté une onction de l’Esprit dont on lui a dit que c’était le baptême du Saint-Esprit, il lui est désormais indispensable de rétablir les choses faites incorrectement, c’est-à-dire non bibliquement. Il est dit dans Actes 3.19-21 que le ciel doit recevoir Jésus: “… jusqu’aux temps du rétablissement de toutes choses…” et nous trouvons cette affirmation dans 2 Corinthiens 6.2: “Voici, c’est maintenant le temps agréable; voici, c’est maintenant le jour du salut”. Ainsi, que ce croyant se tourne résolument vers Celui qui est le Seigneur et que Son Nom soit invoqué sur lui dans un baptême conforme à l’Ecriture. Lorsque nous avons obéi à cet ordre de baptême, nous avons un élément de plus dans notre marche dans la foi pour résister aux attaques que l’ennemi ne manquera pas de nous porter par le biais du vieil homme. Il est en effet écrit dans Romains 6.3-4: “Ignorez-vous que nous tous qui avons été baptisés pour le christ Jésus, nous avons été baptisés pour sa mort? Nous avons donc été ensevelis avec lui par le baptême, pour la mort, afin que comme Christ a été ressuscité d’entre les morts par la gloire du Père, ainsi nous aussi nous marchions en nouveauté de vie”. Ce baptême dans l’eau au Nom du Seigneur Jésus-Christ ouvre le chemin vers la suite du processus de nouvelle naissance, “… et vous recevrez le don du Saint-Esprit” (Actes 2.38).
 
-   C’est une question qui nous a été posée et qui vaut la peine d’être considérée, car
-toutes les exigences de l’Ecriture ont une signification importante et des conséquences
-profondes pour le bonheur des âmes. En effet, l’Eternel, le Dieu de la Bible, nous a créés
-à Son image et Il est venu en Son Fils seul engendré, Jésus-Christ, nous racheter de la
-perdition. Cette question dans la bouche de celui qui commence à marcher avec foi dans
-les Paroles de la Bible est compréhensible parce qu’il désire être assuré de bien
-comprendre les choses de la Vie éternelle, ainsi que toute Parole inspirée par le Créateur
-des Cieux et de la terre. Il faut qu’il reconnaisse également l’importance de recevoir cette
-Parole de tout son coeur afin de La mettre en pratique dès qu’il a reconnu que Celui qui
-parle, l’Auteur de la Bible, est le seul Dieu Vivant. C’est Lui qui est Son Père céleste, la
-seule Source de toute vie sur la terre et dans les Cieux.
-   Chaque religion de ce monde, comme également chaque dénomination chrétienne a
-défini pour elle-même au travers du credo qu’elle s’est fabriquée et par les
-commandements qu’elle a établis, quelle était l’image du Dieu qu’elle allait adorer. En
-réalité, chacune a fait de son credo l’absolu de sa foi, signifiant ainsi que ce credo
-devient son dieu, c’est-à-dire le dernier recours auquel les adeptes de cette religion se
-réfèrent pour trancher leurs questions et problèmes. Mais n’oublions pas ce que l’Ecriture
-déclare dans Romains 3.4: “Disons au contraire que Dieu est véridique et tout homme
-menteur, ainsi qu’il est écrit: afin que tu sois reconnu juste dans tes paroles et que tu
-triomphes quand on te jugera” (version: A. Crampon). Aucune personne ne peut servir
-deux maîtres et nous devons choisir celui à qui nous voulons donner raison et nous
-soumettre. D’un côté, il y a les credo des dénominations religieuses ayant fait leurs
-propres interprétations et à qui le Dieu de la Bible dit: “Tout homme est menteur”, et de
-l’autre côté, il y a le Dieu Vivant qui a inspiré ceux qui ont écrit la Bible, à commencer
-par Moïse, et qui dit: “Dieu est véridique”. Pour nous qui croyons cette dernière
-affirmation et qui sommes devenus disciples de Jésus-Christ, la Parole faite chair, le
-recours final dans tous nos problèmes, ainsi que la solution à toutes nos questions, se
-trouvent donc dans les paroles de la Bible plutôt que dans celles établies par les
-hommes dans leurs credo religieux. C’est dans la Bible, écrite par de saints hommes de
-Dieu, inspirés par le Créateur des cieux et de la terre, que se trouvent notre absolu et
-la Vérité.
-   Ainsi, la question posée est: «A quoi donc sert-il de naître de nouveau?». Selon
-Jésus, qui est la Parole de Dieu faite chair, la nouvelle naissance est indispensable pour
-voir le royaume de Dieu (Jean 3.3), car pour le voir tout homme doit naître de nouveau
-(d’en haut) et pour entrer dans ce royaume, il doit en plus naître d’eau et d’Esprit
-(Jean 3.5). Si nous comprenons bien la déclaration de notre Seigneur Jésus, il y a deux
-étapes indispensables à cette nouvelle naissance qui vient d’en haut. Il faut
-premièrement que le croyant voie, c’est-à-dire qu’il puisse reconnaître ce qu’est
-réellement ce royaume qui lui est présenté, ainsi savoir là où il peut le trouver. A cet
-égard, la façon dont l’homme voit la chose est importante, comme Jésus le dit dans
-Matthieu 6.22-23: “La lampe du corps, c’est l’oeil; si donc ton oeil est simple, ton corps
-tout entier sera plein de lumière; mais si ton oeil est méchant, ton corps tout entier sera
-ténébreux; si donc la lumière qui est en toi est ténèbres, combien seront grandes les
-ténèbres”. Selon Matthieu 11.25, les choses du Royaume des cieux ont été cachées par le
+Lors de Son ascension Jésus avait dit à Ses disciples qui cherchaient à connaître le temps du rétablissement du royaume pour Israël: “… vous recevrez de la puissance, le Saint-Esprit venant sur vous; et vous serez mes témoins…” (Actes 1.8). Et c’est en effet après que le Saint-Esprit ait pénétré en eux le jour de Pentecôte que le nouvel homme fut manifesté en eux à l’image de Jésus, “Car ni la circoncision, ni l’incirconcision, ne sont rien; mais une nouvelle création” (Galates 6.15). Cette nouvelle nature en Jésus-Christ les libéra de la crainte des adversaires et les transforma. De sorte qu’ils quittèrent la chambre haute où ils s’étaient réfugiés pour se cacher de leurs ennemis, et qu’ils sortirent et rendirent publiquement témoignage de Jésus et de l’oeuvre que l’Eternel avait accomplie au travers de Lui. Le peuple disait: “Nous les entendons annoncer dans nos langues les choses magnifiques de Dieu” (Actes 2.11). Voilà la raison d’être des rachetés: glorifier l’oeuvre par laquelle l’Eternel, le Créateur des cieux et de la terre, a amené l’homme déchu à une nouvelle naissance pour faire de tous croyant des adorateurs en Esprit et en Vérité. “Car, et celui qui sanctifie et ceux qui sont sanctifiés sont tous d’UN; c’est pourquoi il n’a pas honte de les appeler frères…” (Hébreux 2.11).
 
-http://www.cmpp.ch
+## ARRIVERA-T-IL QU’UNE PERSONNE REELEMENT NEE DE NOUVEAU NE SOIT PAS PRISE DANS L’ENLEVEMENT? QU’ELLE N’APPARTIENNE PAS AU CORPS DE CHRIST, QUI LUI, SERA ENLEVE?
 
-    LA NOUVELLE NAISSANCE    3
-Père aux sages et aux intelligents, alors que, par contre, elles sont révélées aux petits
-enfants. Ce sont ceux dont l’oeil est simple. Il s’agit bien d’une révélation que Dieu
-accorde aux simples, à ceux qui acceptent d’écouter Dieu comme de petits enfants: “En
-vérité, je vous dis; si vous ne vous convertissez et ne devenez comme les petits enfants,
-vous n’entrerez point dans le royaume des cieux” (Mat. 18.3). Cette révélation est
-accordée à ceux qui voient par la Parole de Vérité, plutôt qu’à ceux qui sont animés et
-instruits par le prince de ce monde, le méchant.
-  Jésus a dit dans Luc 17.21: “Car voici, le royaume de Dieu est au milieu de vous”.
-Cette déclaration de notre Seigneur est la pure Vérité, et correspond à ce qui est dit dans
-Matthieu 18.20: “Car là ou deux ou trois sont assemblés en mon nom, je suis là au milieu
-d’eux”, ainsi qu’à ce qui est dit dans Matthieu 24.28: “Car, où que soit le corps mort, là
-s’assembleront les aigles”. En effet, là où se trouve le Roi, là se trouve le Royaume, et
-c’est lorsque les disciples de Jésus sont assemblés en Son Nom, qu’Il se trouve au milieu
-d’eux. Il ne s’agit pas du tout d’être assemblé au nom d’un même credo conçu par
-l’homme, mais bien de l’être par la Parole que Dieu a révélée pour notre temps: “Car
-c’est ici le témoignage de Dieu qu’il a rendu au sujet de son Fils… que Dieu nous a
-donné la vie éternelle, et cette vie est dans son Fils: Celui qui a le Fils a la vie, celui qui
-n’a pas le Fils de Dieu n’a pas la vie” (1 Jean 5.9-12). Il importe également que ce soit
-Jésus-Christ crucifié qui soit prêché lors de ces rassemblements, parce que la
-nourriture spirituelle nous vient uniquement du fait que toutes les promesses sont
-accomplies dans Son sacrifice. “C’est pourquoi, en entrant dans le monde, il dit: Tu n’as
-pas voulu de sacrifice ni d’offrande, mais tu m’as formé un corps. Tu n’as pas pris plaisir
-aux holocaustes ni aux sacrifices pour le péché; alors j’ai dit: Voici, je viens, — il est écrit
-de moi dans le rouleau du livre — pour faire, ô Dieu, ta volonté … C’est par cette
-volonté que nous avons été sanctifiés, par l’offrande du corps de Jésus-Christ faite une
-fois pour toute” (Hébreux 10.5-7, et 10). Ce ne sont plus des choses à venir, mais bien des
-promesses réalisées. C’est pourquoi la prédication de la croix rassemble les aigles
-autour de cette nourriture descendue du ciel. La Parole révélée est pour eux la nourriture
-fraîche que le Seigneur envoie là où Il se trouve présent par Son Esprit. Comme tous le
-savent, les aigles ont besoin de nourriture fraîche, d’une nourriture donnée en sa
-saison. Cependant, chaque dénomination chrétienne prétendra que le royaume de Dieu
-est au milieu d’elle, que c’est bien chez elle seule que se trouve le Dieu véritable qui
-donne le salut, ce qui ne les empêche pas dans le même temps de prétendre qu’elles ont
-toutes le même Père. Mais, comme nous allons le voir, c’est un mensonge. Ainsi donc
-pour s’engager dans une voie dont dépend notre bonheur présent et éternel, il faut que
-le croyant puisse discerner personnellement et spirituellement, c’est-à-dire voir dans
-son être intérieur si les prétentions des religions qui se présentent à lui sont une réalité
-conforme à la Bible et au temps dans lequel nous vivons. Et pour cela, nous avons
-besoin de recevoir une vision des choses venant d’en haut, nous avons besoin de voir
-les choses comme Dieu Lui-même les voit. Notre Seigneur Jésus dit: “Vous êtes d’en
-bas; moi, je suis d’en haut: vous êtes de ce monde; je ne suis pas de ce monde”
-(Jean 8.23). Jean-Baptiste rend ce témoignage: “Celui qui vient d’en haut est au-dessus
-de tous. Celui qui est de la terre est de la terre, et parle comme étant de la terre. Celui
-qui vient du ciel est au-dessus de tous; et de ce qu’il a vu et entendu, de cela il rend
-témoignage; et personne ne reçoit son témoignage” (Jean 3.31-32). Jacques nous
-exhorte pareillement à recevoir les choses qui viennent d’en haut: “Ne vous égarez pas
-mes frères bien-aimés: tout ce qui nous est donné de bon et tout don parfait descendent
-d’en haut, du Père des lumières, en qui il n’y a pas de variation ou d’ombre de
-changement” (Jacques 1.16-17). Toutes les Ecritures nous montrent, qu’une révélation
-venant d’en haut est indispensable, et ce fait est réellement une nouvelle naissance
-vis-à-vis de la réalité de Dieu. Ce n’est pas une religion imaginée et fabriquée par
-l’homme, un enseignement doctrinal venu d’en bas, de la chair, mais bien la Vérité
+Ce que nous savons, c’est qu’il est écrit au sujet d’Israël: “Car les dons de grâce et l‘appel de Dieu sont sans repentir” (Romains 11.29). Nous pouvons sans aucun doute appliquer cette Parole de Dieu à ceux qui ont été appelés dans la Nouvelle Alliance, et qui ont reçu les dons de grâce que le Seigneur a envoyé à Son Eglise (Éphésiens 4.7-16). Quand il est dit que l’Eternel ne Se repent pas de Ses dons et de Son appel, cela signifie qu’ils restent à ceux qui les ont reçus. Ce n’est pas Dieu qui revient sur l’appel et les dons qu’Il a fait, mais la question est plutôt de savoir si les croyants les ont véritablement reçus. Il est certain que les dix vierges de Matthieu 25 ont toutes répondu à un appel et sont sorties de Babylone pour aller à la rencontre de l’Epoux, tout comme il est certain qu’elles avaient toutes en main une lampe allumée en s’en allant à la rencontre de l’Epoux. Mais les vierges folles n’ont pas pris la cruche d’huile de réserve qui leur avait été demandée de prendre, ne suivant pas l’exemple des vierges sages. Cela veut dire que toutes n’ont pas reconnu l’importance de l’onction de l’Esprit qui se trouve dans la Bible, et qu’elles n’ont pas davantage reconnu que cette Lumière parue au temps du soir, était remise sur le chandelier, premièrement par l’intermédiaire du ministère d’Elie, puis par celui du serviteur fidèle et prudent, et enfin au travers de ceux en qui véritablement sont manifestés les cinq ministères de la Parole.
 
-    http://www.cmpp.ch
+Le premier Elie, en effet, n’avait pas apporté à Israël une nouvelle loi, mais c’est à l’obéissance des paroles apportées par Moïse qu’il a ramené le peuple d’Israël, tout en promettant la grâce de la part de l’Eternel. En notre temps aussi, il ne suffit pas aux croyants de sortir des credo, mais ensuite ils doivent aussi entrer dans la foi qui vient des Paroles de la Bible. N’oublions pas que l’onction de Dieu est venue sur ceux que l’Eternel a choisi pour écrire cette Bible et cette onction se trouve dans les Paroles qui y sont écrites. La Bible est la réserve d’huile. Frère Branham a été entièrement fidèle à son ministère parce qu’il a toujours insisté pour que ses paroles soient confrontées par le croyant aux Paroles de la Bible, comme il a aussi toujours déclaré que cette Bible était son absolu. Par ailleurs, après son départ vers le Seigneur le même esprit d’Elie a poursuivi l’oeuvre de Dieu au travers du serviteur fidèle et prudent de Matthieu 24.45-51, ainsi que par les véritables ministères de la Parole d’Ephésiens 4.11. Ce sont là des dons de grâce donnés à l’Epouse “… en vue du perfectionnement des saints, pour l’oeuvre du service, pour l’édification du corps de Christ; jusqu’à ce que nous parvenions tous à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la stature de la plénitude du Christ” (Éphésiens 4.12-13). Il ne suffit donc pas de répondre à l’appel, mais il faut aussi recevoir les dons de grâce que l’Eternel, le Dieu de la Bible, nous a accordés au travers de l’Esprit d’Elie manifesté en ce temps de la fin.
 
-    LA NOUVELLE NAISSANCE                      4
-révélée au coeur du croyant par la Personne qui peut dire: “Ne crains point; moi, je suis le
-premier et le dernier, et le vivant; et j’ai été mort; et voici, je suis vivant aux siècles des
-siècles…”. C’est la VISION que Dieu donne de Lui-même au travers de la Parole de la
-Bible.
-   En effet, comment se fait-il que toutes ces religions qui prétendent avoir le même Père
-céleste n’aient pas la même nature que le Fils premier-né? pas la même foi que Lui
-dans toute la Parole de la Bible? Et pourquoi la parole de Jésus dans Jean 17.21 ne se
-réalise-t-elle pas aujourd’hui dans les dénominations dites chrétiennes: “Que tous soient
-un, comme toi, Père, tu es en moi, et comme je suis en toi, afin qu’eux aussi soient
-UN en nous”? Et pourquoi cette parole n’est-elle même pas encore réalisée en ceux qui
-prétendent avoir reçu le dernier Message que l’Eternel avait promis dans Malachie 4.5-6
-avant que n’arrive le grand et terrible jour de l’Eternel et que le pays ne soit frappé de
-malédiction? L’esprit d’Elie devait ramener le coeur des fils à la foi de leurs pères
-apostoliques. Visiblement, le même Esprit Saint n’anime pas tous ces faiseurs de credo
-de la même manière qu’Il animait la première Eglise à Jérusalem! Si au moins
-quelques-unes de ces communautés qui disent avoir reçu le Message de Dieu envoyé à
-notre âge étaient comme le demande notre Seigneur Jésus, la Parole de Malachie 3.18
-s’accomplirait en elles: “Alors vous reviendrez, et vous ferez la différence entre le
-juste et le méchant, entre celui qui sert Dieu et celui qui ne le sert pas”. Comment
-des êtres morts spirituellement, c’est-à-dire qui ne sont pas nés de nouveau d’en haut,
-peuvent-il servir le Dieu Vivant? Comment en fabriquant un nouveau credo avec le
-Message du temps du soir, qui est également le temps de la moisson, c’est-à-dire le
-temps de la récolte, peut-on être au service du Dieu Vivant qui s’est révélé être UN?
-“Ecoute Israël: Yahweh, notre Dieu, est SEUL Yahweh” (Deutéronome 6.4 — A. Crampon). Car
-en ce temps de la fin précisément, au travers du ministère promis d’Elie, selon
-Malachie 4.5, Dieu en Jésus a démontré être Le Même, hier, aujourd’hui et
-éternellement.
-   Il est vrai que chaque dénomination religieuse a commencé par un réveil, lorsque la
-révélation d’une Parole de la Bible, d’un Message venant du Créateur, est parvenue aux
-croyants conscients de leurs besoins spirituels. La Vie de Christ, venant de la Parole
-biblique et de la présence de Jésus en eux par Son Esprit Saint, se manifestait dans ces
-croyants qui avaient reçu cette Parole révélée destinée à l’âge de l’Eglise dans lequel ils
-se trouvaient. C’était l’accomplissement de la parole d’Ésaïe 53.10: “S’il livre son âme en
-sacrifice pour le péché, il verra une semence; il prolongera ses jours, et le plaisir de
-l’Eternel prospérera en sa main”. Mais aussitôt qu’un credo se formait au milieu d’eux
-autour de ce Message, et qu’ils s’organisaient autour de lui, la mort entrait avec l’idole
-du credo et chassait finalement Jésus du milieu d’eux. C’est la raison pour laquelle nous
-trouvons cet appel de Jésus à l’Eglise de Laodicée, dans Apocalypse 3.20: “Voici, je me
-tiens à la porte et je frappe; si quelqu’un entend ma voix et qu’il ouvre la porte,
-j’entrerai chez lui et je souperai avec lui, et lui avec moi”. C’est par cette Parole de
-l’Ecriture que nous avons compris que l’esprit de la dénomination avait fini par mettre le
-seul et véritable Seigneur hors de chez Lui, hors de la communion d’avec ceux qu’Il a
-rachetés par Son sacrifice.
-   De même, au départ, comme pour toute autre semence, la Vie de la Semence divine
-jetée en terre s’est d’abord manifestée par la naissance de feuilles, puis elle grandit,
-forma tout d’abord la tige, et ensuite l’épi. Finalement, toutes ces choses formées par la
-Vie venue de la Semence se sont desséchées et la Vie de la Semence jetée en terre au
-commencement s’est réfugiée dans les semences renfermées dans l’épi. Dès lors c’est
-le fruit qui demeure et c’est lui qui est la raison d’être de tout le développement de la
-plante. A ce moment-là seulement, la moisson peut avoir lieu, les fruits sont recueillis et
-emportés dans les greniers. Mais pour le reste de la plante la course est terminée, plus
+Ce prophète, William Branham, au travers de son enseignement, nous a apporté la grâce de mieux connaître les Paroles de la Bible. Ne répondons donc pas seulement à l’appel, mais recevons aussi les dons de grâce qui nous ont été donnés en ce temps dans lequel nous vivons. Par le ministère de frère Branham, l’Eternel notre Dieu a brisé les sceaux, pour que nous puissions lire et comprendre les paroles de la Bible d’un bout à l’autre. Mais son ministère a aussi entraîné après lui d’autres ministères véritables de la Parole. Il est vrai que les imitateurs fanatiques de frère Branham se sont précipités pour se mettre en avant dans l’oeuvre que Dieu a commencée, mais cela n’annule pas la réalité que de vrais ministres de la Parole se sont levés dans la même ligne que frère Branham, et qu’ils prêchent les paroles de la Bible sous l’inspiration du Saint-Esprit, et non par l’esprit d’interprétation de l’adversaire de Dieu. Il convient donc de savoir faire la différence entre les uns et les autres et d’écouter plutôt ceux qui ont pour absolu la Parole de Dieu. “Que celui qui a des oreilles écoute ce que l’Esprit dit aux assemblées”.
 
-                             http://www.cmpp.ch
+Une autre chose est certaine, c’est qu’au moment du réveil de l’Epouse, à minuit, quand toutes les vierges sont réveillées, alors vient la manifestation des vierges qui vont poursuivre la marche avec le Seigneur ressuscité et entrer dans les Noces de l’Agneau. Les lampes des vierges folles vont s’éteindre et celles des vierges sages vont reprendre de l’éclat. C’est alors que“vous ferez la différence entre le juste et le méchant, entre celui qui sert Dieu et celui qui ne le sert pas” (Malachie 3.18). Ce sont ces vierges sages qui vont glorifier le Seigneur Jésus et accomplir encore une fois la mission donnée à Ses premiers disciples: “Mais vous recevrez de la puissance, le Saint-Esprit venant sur vous, et vous serez mes témoins… jusqu’au bout de la terre” (Actes 1.8). “Et cet évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage à toutes les nations; et alors viendra la fin” (Mat. 24.14).
 
-    LA NOUVELLE NAISSANCE                      5
-jamais la Vie qui avait formé les feuilles, la tige et l’épi ne reviendra en eux, car leur
-destinée est désormais d’être consumée par le feu. C’est le sort de toutes les
-dénominations qui ont pourtant été utilisées un temps par le Seigneur pour porter
-l’Evangile et en qui Sa Vie a passé. Mais pour ceux qui ont été prédestinés à former
-l’Epouse de Christ, c’est le moment de l’accomplissement d’Ephésiens 5.27: “Afin que lui
-se présentât l’assemblée à lui-même, glorieuse, n’ayant ni tache, ni ride, ni rien de
-semblable, mais afin qu’elle fut sainte et irréprochable”. Ainsi, la Vie réfugiée dans le
-Germe des Semences entrera dans la Nouvelle Jérusalem pour poursuivre Sa carrière
-éternelle. Amen! Que notre Dieu et Père soit loué pour cela!
-  Sans doute savez-vous qu’au temps du soir un appel a retenti: “Sortez du milieu
-d’elle, mon peuple, afin que vous ne participiez point à ses péchés, et que vous ne
-receviez pas de ses plaies” (Apocalypse 18.4). Il s’agissait pour les croyants de sortir de
-Babylone la grande, cette ville formée par le rassemblement des religions idolâtres
-issues des credo, mais déjà jugée et condamnée à la destruction par l’Eternel, le Dieu
-de la Bible. Pour les croyants prédestinés à recevoir la Vie de Jésus en eux par la
-nouvelle naissance, et qui se trouvent encore dans cette ville maudite, il s’agit dès lors
-de prendre le Chemin qui ramène à la Cité choisie comme demeure par le Dieu Vivant,
-pour ceux qui Lui appartiennent. “La voix de celui qui crie dans le désert: Préparez le
-chemin de l’Eternel, aplanissez dans le lieu stérile une route pour notre Dieu”
-(Ésaïe 40.3). La Lumière avait été promise pour le temps du soir parce que le peuple de
-Dieu devait suivre la route qui le ramenait à son héritage. Il était écrit dans
-Ésaïe 52.11-12: “Partez, partez; sortez de là; ne touchez pas à ce qui est impur! Sortez
-du milieu d’elle, soyez purs, vous qui portez les vases de l’Eternel! car vous ne sortirez
-pas avec précipitation et vous n’irez pas comme des fugitifs; car l’Eternel ira devant
-vous, et le Dieu d’Israël sera votre arrière garde”.
-  Ainsi, le croyant de la Nouvelle Alliance, le disciple de Jésus doit de nouveau naître,
-mais d’en haut, pour voir où se trouve la Cité d’origine de sa famille céleste, car
-Babylone n’est pas la ville choisie par l’Eternel pour y rassembler Son peuple. Aucune
-des dénominations religieuses formant la grande Babylone n’a été élue par l’Eternel.
-Babylone la grande est la ville où vont aboutir tous les gens religieux (je dis bien «les
-gens religieux», c’est-à-dire ceux qui ne sont pas réellement nés de nouveau d’en haut) et
-leur fin est la destruction, la ruine. Mais la prospérité est pour les fils d’Abraham de
-l’Ancienne comme de la Nouvelle Alliance, pour ceux qui ont répondu à l’appel de
-Jésus: “Venez à moi, vous tous qui vous fatiguez et qui êtes chargés, et moi, je vous
-donnerai du repos. Prenez mon joug sur vous, et apprenez de moi…” (Mat. 11.28-29),
-c’est-à-dire qu’aujourd’hui l’appel à sortir de Babylone est pour les véritables disciples
-de Jésus-Christ. Ce qui a caractérisé la foi d’Abraham, c’est que lorsque l’ordre de
-l’Eternel lui est venu de quitter Babylone, il a aussitôt obéi à la Voix de Dieu. Il s’agit
-aujourd’hui d’être de véritables fils d’Abraham! Ainsi, il est dit: “Vous mon peuple, sortez
-du milieu d’elle”. Nous sommes tous nés en Adam dans le péché d’incrédulité à
-l’égard de la Parole de notre Père céleste et notre naissance physique, transmise de
-nos pères selon la chair, fait de nous tous des babyloniens. Comment donc sortir de la
-malédiction sinon par la mort, car la mort est la porte de sortie de ce monde pour tous les
-hommes, mais il s’agit maintenant de la mort en et avec Jésus, le Christ promis, qui elle
-débouche sur la nouvelle naissance, qui est la porte d’entrée dans le Royaume des
-Cieux. En mourant avec Jésus, par la foi en notre identification personnelle avec le
-sacrifice de Sa Vie à Golgotha, nous sortons de Babylone et de la nature de péché
-héritée du premier Adam. Par la foi en notre identification personnelle avec Lui dans
-Sa résurrection, nous entrons dans la Vie de résurrection de Jésus, qui est:
-“… déterminé Fils de Dieu, en puissance, selon l’esprit de sainteté, par la
-résurrection des morts…” (Romains 1.4). Ayant reconnu notre mort avec Jésus, nous ne
+En conclusion à la demande: «Arrivera-t-il qu’une personne réellement née de nouveau ne soit pas prise dans l’enlèvement», nous répondons par la Parole de Dieu de Matthieu 25.10: “… l’époux vint; et celles qui étaient prêtes entrèrent avec lui aux noces; et la porte fut fermée”. Celles qui n’entrèrent pas n’étaient pas prêtes. Il leur manquait quelques chose, elles n’avaient pas pris la cruche d’huile mise à leur disposition: la Bible remise sur le chandelier et les ministères suscités par le Seigneur pour poursuivre l’oeuvre de Dieu commencée au travers du prophète de cet âge. C’est la raison pour laquelle, elles n’étaient pas réellement nées d’en-haut pour voir, ni nées d’eau et d’Esprit pour entrer dans le Royaume des cieux.
 
-                             http://www.cmpp.ch
+“Que la grâce du Seigneur Jésus Christ soit avec tous les saints”.
 
-    LA NOUVELLE NAISSANCE                      6
-vivons plus pour nous-mêmes, mais bien pour Celui qui est mort et ressuscité pour
-nous (2 Corinthiens 5.15). “En sorte que si quelqu’un est en Christ, c’est une nouvelle création:
-les choses vieilles sont passées; voici, toutes choses sont faites nouvelles”
-(2 Corinthiens 5.17). “Mais qu’il ne m’arrive pas à moi de me glorifier, sinon en la croix de notre
-Seigneur Jésus-Christ, par laquelle le monde m’est crucifié, et moi au monde. Car ni la
-circoncision, ni l’incirconcision ne sont rien, mais une nouvelle création” (Galates 6.14-15).
-   Le Seigneur Jésus édifie Son Corps sur la révélation de ce qu’Il est dans Son
-essence même. Il n’était pas difficile de s’apercevoir que Jésus était le Fils de l’homme,
-c’est à dire le prophète, car le «AINSI DIT L’ETERNEL» s’accomplissait à la lettre dans Son
-ministère. Aussi, le Seigneur Jésus, étant venu dans l’intention d’édifier avec ses
-disciples un Temple pour l’Eternel qui soit un Témoignage dans le monde entier, n’a
-pas choisi de bâtir ce Temple sur la vérité qu’Il était le Fils de l’homme, le Prophète. Et
-c’est la raison pour laquelle, le moment étant venu de poser le fondement de Son Eglise,
-s’adressant à Ses disciples Il leur fait cette demande: “Et vous, qui dites-vous que je
-suis?” (Mat. 16.15). A ce moment-là, il s’agissait pour Ses disciple de reconnaître
-exactement qui Il était, et aucun d’eux ne trouvait en lui-même la capacité de voir qui Il
-était véritablement. C’est alors qu’intervient la réalisation de cette parole dite par Jésus:
-“Toutes choses m’ont été livrées par mon Père; et personne ne connaît le Fils, si ce n’est
-le Père…” (Mat. 11.27). Ainsi, pour que le Fils soit connu il fallait que le Père révèle aux
-disciples de Jésus qui était fondamentalement leur Maître, et lorsque Pierre illuminé par la
-révélation s’écrie: “Tu es le Christ, le Fils du Dieu Vivant!”, Jésus peut lui dire: “Tu es
-bienheureux, Simon Barjonas, car la chair et le sang ne t’ont pas révélé cela, mais mon
-Père qui est dans les cieux”. C’est après cela que Jésus révèle à son tour sur quelle
-base Il va bâtir Son Eglise, sur cette révélation même, que Lui, la postérité promise de la
-femme (Genèse 3.15), est le Christ, le Fils du Dieu Vivant. C’est pourquoi Jésus peut dire:
-“Et moi aussi, je te dis que tu es Pierre; et sur ce roc je bâtirai mon assemblée, et les
-portes du hadès ne prévaudront pas contre elle” (Mat. 16.18). Ainsi à son tour, Paul peut
-donc dire avec assurance dans Ephésiens 2.19-21: “Ayant été édifiés sur le fondement
-des apôtres et des prophètes, Jésus-Christ lui-même étant la maîtresse pierre du coin,
-en qui tout l’édifice, bien ajusté ensemble, croît pour être un temple saint dans le
-Seigneur; en qui vous aussi, vous êtes édifiés ensemble, pour être une habitation de
-Dieu par l’Esprit”.
-   Le fait qu’un croyant reçoit cette révélation d’en haut, que ce Jésus de Nazareth est
-le Christ, le Fils du Dieu Vivant, est la raison qui permet à l’Esprit de Christ de
-poursuivre l’édification de cette personne dans la foi véritable, pour la placer dans
-l’édifice, le Temple du Corps de Christ, qui sera achevé lorsque Jésus présentera à ce
-monde Son Epouse parvenue à la perfection comme il est écrit dans les Ephésiens
-5.27: “Afin que lui se présentât l’assemblée à lui-même, glorieuse, n’ayant ni tache, ni
-ride, ni rien de semblable, mais afin qu’elle fut sainte et irréprochable”.
+Votre frère acquis par le Sang précieux du Fils de Dieu versé à Golgotha:
 
-        Y A-T-IL DES ETAPES POUR NAITRE DE NOUVEAU?
-   Certainement! Lorsque un croyant est touché par la révélation de Jésus, qu’il
-découvre qui Il est véritablement, son développement spirituel dépend dès lors de son
-engagement. En fait c’est Lui, Jésus, qui l’appelle personnellement lorsqu’Il dit: “Venez à
-moi, vous tous qui vous fatiguez et qui êtes chargés, et moi je vous donnerai du repos”
-(Mat. 11.28). Remarquez qu’à l’origine, Jésus n’avait pas adressé ces paroles à des
-païens, mais bien à des fils d’Abraham, à des gens religieux. Et aujourd’hui encore cet
-appel à venir à Lui s’adresse tout particulièrement à des gens qui ont une religion, mais
-qui n’ont pas une relation véritable avec Lui, la Parole faite chair, qui est à nouveau
-révélée à cette génération par le Message du Dieu de la Bible. Jésus est véritablement
-“… le premier et le dernier, et le vivant; et j’ai été mort (dit-Il); et voici, je suis vivant
+Alexis Barilier
 
-                             http://www.cmpp.ch
+---
 
-LA NOUVELLE NAISSANCE 7
-aux siècles des siècles” (Apocalypse 1.17-18). C’est Lui qui a manifesté Sa présence sur cette
-terre, dans notre génération, car Dieu, par le ministère du Fils de l’homme qui animait
-le prophète de cet âge, a accompli la parole de Malachie 4.5-6: “Voici, je vous envoie Elie,
-le prophète… Et il fera retourner… le coeur des fils vers leur pères…”. C’est-à-dire qu’au
-travers de ce Message, Dieu a cherché à ramener nos coeurs à la foi en Jésus, cette foi
-que nos pères apostoliques possédaient. Aujourd’hui, le Seigneur Jésus adresse le même
-appel “Venez à moi!” à ceux auxquels Il désire se révéler, en faisant la même promesse
-de les conduire dans le repos, c’est-à-dire dans une vie dirigée par le Saint-Esprit et
-non plus dans une vie où ils sont menés par l’esprit de ce monde comme des esclaves
-de la chair et de ses convoitises. “Christ donc ayant souffert pour nous dans la chair,
-vous aussi, armez-vous de cette même pensée, que celui qui a souffert dans la chair s’est
-reposé du péché, pour ne plus vivre le reste de son temps dans la chair pour les
-convoitises des hommes, mais pour la volonté de Dieu” (1 Pier. 4.1-2).
-   Puisqu’il y a un appel de la part de Jésus, une réponse doit être donnée par la
-personne interpellée, si du moins elle veut obtenir l’accomplissement de la promesse.
-Venir à Lui signifie alors venir là ou la Parole révélée en ce temps est prêchée
-véritablement, là ou se trouve de la nourriture fraîche. Là où des ministres mandatés et
-oints de l’Esprit prêchent la Parole et non pas des interprétations. C’est là que l’Esprit
-animant Elie poursuit Son oeuvre dans le monde entier. Car en effet, après avoir invité à
-venir à Lui, Jésus a continué en disant: “Prenez mon joug sur vous, et apprenez de moi,
-car je suis débonnaire et humble de coeur; et vous trouverez le repos de vos âmes. Car
-mon joug est aisé et mon fardeau est léger” (Mat. 11.29-30). Après être nés de nouveau
-d’en haut afin de voir le royaume de Dieu au travers de la révélation de Jésus, le Fils
-du Dieu Vivant, nous sommes conduits dans la communion des rachetés, afin de naître
-d’eau et d’Esprit. Selon Ephésiens 5.26, Christ a aimé l’Assemblée et s’est livré
-Lui-même pour Elle: “… afin qu’il la sanctifiât, en la purifiant par le lavage d’eau par la
-parole…”.
-   Naître d’eau et d’Esprit implique donc de prendre le joug du Seigneur, c’est-à-dire
-accepter d’être soumis à la même Parole que Lui-même, apprendre de Lui à marcher
-selon la volonté du Père céleste pour nous occuper des affaires de notre Père céleste:
-“Ne saviez-vous pas qu’il me faut être aux affaires de mon Père” (Luc 2.49). Il est aussi
-écrit dans Ésaïe 9.6: “Car un enfant nous est né, un fils nous a été donné, et le
-gouvernement sera sur son épaule…”. Naître d’eau est donc premièrement une
-nouvelle marche avec Jésus ressuscité, sous l’autorité des promesses de la Bible, “car
-autant il y a de promesses de Dieu, en lui est le oui et en lui l’amen, à la gloire de Dieu
-par nous” (2 Corinthiens 1.20). Mais c’est aussi obéir à cette parole de Jésus dans Marc 16.16:
-“Celui qui aura cru et qui aura été baptisé sera sauvé; et celui qui n’aura pas cru sera
-condamné”. Il est aussi dit dans 1 Pierre 3.21: “Or cet antitype vous sauve aussi
-maintenant, c’est-à-dire le baptême, non le dépouillement de la saleté de la chair, mais la
-demande à Dieu d’une bonne conscience par la résurrection de Jésus Christ…”. Envoyé
-auprès de Saul de Tarse pour qu’il recouvre la vue et soit guéri, Ananias lui dit: “Et
-maintenant, que tardes-tu? Lève-toi et sois baptisé, et te lave de tes péchés, invoquant
-son nom” (Actes 22.16). D’ailleurs, lorsque Pierre le jour de Pentecôte, emploie les clés
-qu’il a reçues pour ouvrir le Royaume des cieux, à ceux qui lui demandent “Que
-ferons-nous, frères?”, il répond premièrement “Repentez-vous…” (Actes 2.37-39). C’est-
-à-dire, changez vos pensées et votre comportement à l’égard de Jésus, car c’est vous
-qui avez dit: “Ote, ôte! crucifie-le! Pilate leur dit: Crucifierai-je votre roi? Les principaux
-sacrificateurs répondirent: Nous n’avons pas d’autre roi que César” (Jean 19.15). Pour eux
-comme pour nous, après avoir reçu cette révélation de qui est réellement Jésus, il
-s’agit d’abandonner ce que disent de Lui les religions, de changer de pensée à Son égard
-et d’aller là où Sa Parole est prêchée, afin de bénéficier de “la purification par le lavage
-
-        http://www.cmpp.ch
-
-    LA NOUVELLE NAISSANCE    8
-d’eau par la parole” d’Ephésiens 5.26, dont nous avons déjà parlé. Avec ce changement
-de pensée et de comportement, vient l’appel à s’identifier à Lui dans Sa mort et Sa
-résurrection: “… et que chacun de vous soit baptisé au nom de Jésus Christ, en
-rémission des péchés…”. La plupart des croyants qui appartiennent à une dénomination
-chrétienne ont été baptisés selon une formule établie par la religion catholique, dans
-laquelle le Nom du Seigneur Jésus Christ n’est pas invoqué sur la personne baptisée. Le
-Nom qui est au-dessus de tout nom n’est pas invoqué, c’est-à-dire qu’il n’est pas
-prononcé à haute voix sur le baptisé, alors que c’est précisément Lui, Jésus, qui a porté
-ses péché et expié pour lui. C’est-à-dire qu’ils n’ont pas été baptisés bibliquement comme
-Pierre le fit le jour de Pentecôte, ni comme il a été ordonné à Paul: “Lève-toi et sois
-baptisé, et te lave de tes péchés, invoquant son nom”. Pour celui qui a fait une
-expérience limitée de foi, qui a été conduit à certaines expériences dans une religion,
-ayant peut-être même expérimenté une onction de l’Esprit dont on lui a dit que c’était le
-baptême du Saint-Esprit, il lui est désormais indispensable de rétablir les choses faites
-incorrectement, c’est-à-dire non bibliquement. Il est dit dans Actes 3.19-21 que le ciel doit
-recevoir Jésus: “… jusqu’aux temps du rétablissement de toutes choses…” et nous
-trouvons cette affirmation dans 2 Corinthiens 6.2: “Voici, c’est maintenant le temps
-agréable; voici, c’est maintenant le jour du salut”. Ainsi, que ce croyant se tourne
-résolument vers Celui qui est le Seigneur et que Son Nom soit invoqué sur lui dans un
-baptême conforme à l’Ecriture. Lorsque nous avons obéi à cet ordre de baptême, nous
-avons un élément de plus dans notre marche dans la foi pour résister aux attaques que
-l’ennemi ne manquera pas de nous porter par le biais du vieil homme. Il est en effet écrit
-dans Romains 6.3-4: “Ignorez-vous que nous tous qui avons été baptisés pour le christ
-Jésus, nous avons été baptisés pour sa mort? Nous avons donc été ensevelis avec lui
-par le baptême, pour la mort, afin que comme Christ a été ressuscité d’entre les morts
-par la gloire du Père, ainsi nous aussi nous marchions en nouveauté de vie”. Ce
-baptême dans l’eau au Nom du Seigneur Jésus-Christ ouvre le chemin vers la suite du
-processus de nouvelle naissance, “… et vous recevrez le don du Saint-Esprit”
-(Actes 2.38).
-  Lors de Son ascension Jésus avait dit à Ses disciples qui cherchaient à connaître le
-temps du rétablissement du royaume pour Israël: “… vous recevrez de la puissance, le
-Saint-Esprit venant sur vous; et vous serez mes témoins…” (Actes 1.8). Et c’est en
-effet après que le Saint-Esprit ait pénétré en eux le jour de Pentecôte que le nouvel
-homme fut manifesté en eux à l’image de Jésus, “Car ni la circoncision, ni l’incirconcision,
-ne sont rien; mais une nouvelle création” (Galates 6.15). Cette nouvelle nature en
-Jésus-Christ les libéra de la crainte des adversaires et les transforma. De sorte qu’ils
-quittèrent la chambre haute où ils s’étaient réfugiés pour se cacher de leurs ennemis, et
-qu’ils sortirent et rendirent publiquement témoignage de Jésus et de l’oeuvre que
-l’Eternel avait accomplie au travers de Lui. Le peuple disait: “Nous les entendons
-annoncer dans nos langues les choses magnifiques de Dieu” (Actes 2.11). Voilà la
-raison d’être des rachetés: glorifier l’oeuvre par laquelle l’Eternel, le Créateur des cieux
-et de la terre, a amené l’homme déchu à une nouvelle naissance pour faire de tous
-croyant des adorateurs en Esprit et en Vérité. “Car, et celui qui sanctifie et ceux qui sont
-sanctifiés sont tous d’UN; c’est pourquoi il n’a pas honte de les appeler frères…” (Hébreux 2.11).
-
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch
-
-    LA NOUVELLE NAISSANCE    9
-
-
-        ARRIVERA-T-IL QU’UNE PERSONNE REELEMENT NEE DE NOUVEAU
-        NE SOIT PAS PRISE DANS L’ENLEVEMENT?
-        QU’ELLE N’APPARTIENNE PAS AU CORPS DE CHRIST,
-        QUI LUI, SERA ENLEVE?
-
-   Ce que nous savons, c’est qu’il est écrit au sujet d’Israël: “Car les dons de grâce et
-l‘appel de Dieu sont sans repentir” (Romains 11.29). Nous pouvons sans aucun doute
-appliquer cette Parole de Dieu à ceux qui ont été appelés dans la Nouvelle Alliance, et
-qui ont reçu les dons de grâce que le Seigneur a envoyé à Son Eglise (Éphésiens 4.7-16).
-Quand il est dit que l’Eternel ne Se repent pas de Ses dons et de Son appel, cela signifie
-qu’ils restent à ceux qui les ont reçus. Ce n’est pas Dieu qui revient sur l’appel et les
-dons qu’Il a fait, mais la question est plutôt de savoir si les croyants les ont véritablement
-reçus. Il est certain que les dix vierges de Matthieu 25 ont toutes répondu à un appel et
-sont sorties de Babylone pour aller à la rencontre de l’Epoux, tout comme il est certain
-qu’elles avaient toutes en main une lampe allumée en s’en allant à la rencontre de
-l’Epoux. Mais les vierges folles n’ont pas pris la cruche d’huile de réserve qui leur avait
-été demandée de prendre, ne suivant pas l’exemple des vierges sages. Cela veut dire que
-toutes n’ont pas reconnu l’importance de l’onction de l’Esprit qui se trouve dans la
-Bible, et qu’elles n’ont pas davantage reconnu que cette Lumière parue au temps du soir,
-était remise sur le chandelier, premièrement par l’intermédiaire du ministère d’Elie, puis
-par celui du serviteur fidèle et prudent, et enfin au travers de ceux en qui
-véritablement sont manifestés les cinq ministères de la Parole.
-   Le premier Elie, en effet, n’avait pas apporté à Israël une nouvelle loi, mais c’est à
-l’obéissance des paroles apportées par Moïse qu’il a ramené le peuple d’Israël, tout en
-promettant la grâce de la part de l’Eternel. En notre temps aussi, il ne suffit pas aux
-croyants de sortir des credo, mais ensuite ils doivent aussi entrer dans la foi qui vient
-des Paroles de la Bible. N’oublions pas que l’onction de Dieu est venue sur ceux que
-l’Eternel a choisi pour écrire cette Bible et cette onction se trouve dans les Paroles qui y
-sont écrites. La Bible est la réserve d’huile. Frère Branham a été entièrement fidèle à
-son ministère parce qu’il a toujours insisté pour que ses paroles soient confrontées par
-le croyant aux Paroles de la Bible, comme il a aussi toujours déclaré que cette Bible
-était son absolu. Par ailleurs, après son départ vers le Seigneur le même esprit d’Elie a
-poursuivi l’oeuvre de Dieu au travers du serviteur fidèle et prudent de
-Matthieu 24.45-51, ainsi que par les véritables ministères de la Parole d’Ephésiens 4.11.
-Ce sont là des dons de grâce donnés à l’Epouse “… en vue du perfectionnement des
-saints, pour l’oeuvre du service, pour l’édification du corps de Christ; jusqu’à ce que
-nous parvenions tous à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état
-d’homme fait, à la stature de la plénitude du Christ” (Éphésiens 4.12-13). Il ne suffit donc pas
-de répondre à l’appel, mais il faut aussi recevoir les dons de grâce que l’Eternel, le Dieu
-de la Bible, nous a accordés au travers de l’Esprit d’Elie manifesté en ce temps de la fin.
-   Ce prophète, William Branham, au travers de son enseignement, nous a apporté la
-grâce de mieux connaître les Paroles de la Bible. Ne répondons donc pas seulement à
-l’appel, mais recevons aussi les dons de grâce qui nous ont été donnés en ce temps
-dans lequel nous vivons. Par le ministère de frère Branham, l’Eternel notre Dieu a brisé les
-sceaux, pour que nous puissions lire et comprendre les paroles de la Bible d’un bout à
-l’autre. Mais son ministère a aussi entraîné après lui d’autres ministères véritables de la
-Parole. Il est vrai que les imitateurs fanatiques de frère Branham se sont précipités pour
-se mettre en avant dans l’oeuvre que Dieu a commencée, mais cela n’annule pas la réalité
-que de vrais ministres de la Parole se sont levés dans la même ligne que frère
-
-        http://www.cmpp.ch
-
-LA NOUVELLE NAISSANCE 10
-Branham, et qu’ils prêchent les paroles de la Bible sous l’inspiration du Saint-Esprit, et
-non par l’esprit d’interprétation de l’adversaire de Dieu. Il convient donc de savoir faire la
-différence entre les uns et les autres et d’écouter plutôt ceux qui ont pour absolu la Parole
-de Dieu. “Que celui qui a des oreilles écoute ce que l’Esprit dit aux assemblées”.
-   Une autre chose est certaine, c’est qu’au moment du réveil de l’Epouse, à minuit, quand
-toutes les vierges sont réveillées, alors vient la manifestation des vierges qui vont
-poursuivre la marche avec le Seigneur ressuscité et entrer dans les Noces de
-l’Agneau. Les lampes des vierges folles vont s’éteindre et celles des vierges sages vont
-reprendre de l’éclat. C’est alors que“vous ferez la différence entre le juste et le méchant,
-entre celui qui sert Dieu et celui qui ne le sert pas” (Malachie 3.18). Ce sont ces vierges
-sages qui vont glorifier le Seigneur Jésus et accomplir encore une fois la mission donnée
-à Ses premiers disciples: “Mais vous recevrez de la puissance, le Saint-Esprit venant sur
-vous, et vous serez mes témoins… jusqu’au bout de la terre” (Actes 1.8). “Et cet
-évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage à
-toutes les nations; et alors viendra la fin” (Mat. 24.14).
-   En conclusion à la demande: «Arrivera-t-il qu’une personne réellement née de
-nouveau ne soit pas prise dans l’enlèvement», nous répondons par la Parole de Dieu
-de Matthieu 25.10: “… l’époux vint; et celles qui étaient prêtes entrèrent avec lui aux
-noces; et la porte fut fermée”. Celles qui n’entrèrent pas n’étaient pas prêtes. Il leur
-manquait quelques chose, elles n’avaient pas pris la cruche d’huile mise à leur disposition:
-la Bible remise sur le chandelier et les ministères suscités par le Seigneur pour
-poursuivre l’oeuvre de Dieu commencée au travers du prophète de cet âge. C’est la
-raison pour laquelle, elles n’étaient pas réellement nées d’en-haut pour voir, ni nées
-d’eau et d’Esprit pour entrer dans le Royaume des cieux.
-   “Que la grâce du Seigneur Jésus Christ soit avec tous les saints”.
-        Votre frère acquis par le Sang précieux du Fils de Dieu versé à Golgotha:
-        Alexis Barilier
-
-
-
-
-
-
-
-
-
-
-    Editeur:
-    Centre Missionnaire de la Parole Parlée, Case Postale 5633, 1002 Lausanne (Suisse)
-    Internet: http://www.cmpp.ch / E-Mail: info@cmpp.ch
-
-        http://www.cmpp.ch
+Editeur:
+Centre Missionnaire de la Parole Parlée, Case Postale 5633, 1002 Lausanne (Suisse)
+Internet: http://www.cmpp.ch / E-Mail: info@cmpp.ch

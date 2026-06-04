@@ -1,619 +1,309 @@
-    SERIE 1 N° 11
+---
+source: "cmpp"
+sermon_id: "serie1no11"
+title: "Christ est la révélation du mystère de Dieu"
+subtitle: "28 juillet 1963, matin"
+date: "1963-07-28"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le mystère de Dieu révélé en Christ, avec des témoignages personnels, des consécrations d'enfants, et des annonces de voyages. Il souligne l'importance de la foi et de la révélation divine."
+tags:
+  - "mystère de Dieu"
+  - "révélation"
+  - "foi"
+  - "consécration"
+  - "Saint-Esprit"
+persons:
+  - "William Branham"
+  - "Lee Vayle"
+  - "frère Dauch"
+  - "frère Collins"
+  - "frère Neville"
+  - "Billy Paul"
+  - "frère Ungren"
+  - "soeur Downing"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Chicago"
+  - "Arizona"
+themes:
+  - "révélation de Dieu"
+  - "foi et vision"
+  - "consécration des enfants"
+  - "obéissance à Dieu"
+  - "ministère prophétique"
+pdf_url: "http://cmpp.ch/serie1no11.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 2"
+  - "Apocalypse 17"
+  - "Apocalypse 7"
+  - "Colossiens 1"
+  - "Hébreux 11"
+  - "Hébreux 13"
+  - "Hébreux 4"
+  - "Jean 14"
+  - "Jean 5"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Marc 16"
+  - "Matthieu 11"
+  - "Matthieu 16"
+  - "Psaumes 1"
+  - "Psaumes 22"
+---
+SERIE 1 N° 11
 
+LA PAROLE PARLEE
 
+PAR
 
-
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-CHRIST EST LA REVELATION
-   DU MYSTERE DE DIEU
-    (Christ is the Mystery of God Revealed)
-
-
-
-
-     28 juillet 1963, matin
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    CHRIST EST LA REVELATION DU MYSTERE DE DIEU    2
-
+WILLIAM MARRION BRANHAM
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU
-  (Christ is the Mystery of God Revealed)
+(Christ is the Mystery of God Revealed)
 
+28 juillet 1963, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-           28 juillet 1963, matin
-             Branham Tabernacle
-      Jeffersonville — Indiana, U.S.A.
+CHRIST EST LA REVELATION DU MYSTERE DE DIEU 2
 
+CHRIST EST LA REVELATION DU MYSTERE DE DIEU
+(Christ is the Mystery of God Revealed)
 
+28 juillet 1963, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
+Merci, frère. Restons encore debout un moment, pendant que nous inclinons nos têtes pour la prière.
 
-   Merci, frère. Restons encore debout un moment, pendant que nous inclinons nos têtes pour la
-prière.
-   Père Céleste plein de miséricorde, nous nous approchons encore de Toi ce matin, afin de
-recevoir Ta Grâce et d’être guidés par le Saint-Esprit; parce que nous avons compris que nous
-devions nous rassembler ce matin pour recevoir l’enseignement de Ta Parole, en sorte que nous
-puissions savoir comment nous devons vivre aujourd’hui, et en quels jours nous vivons. Nous
-Te demandons de guider nos pensées, et nos coeurs, afin de nous faire connaître chaque Parole
-qui nous est nécessaire; afin que Tu ouvres nos bouches largement et que Tu ouvres nos coeurs
-pour que nous recevions ce que Tu as à nous dire. Ferme notre bouche pour tout ce qui n’est pas
-juste, sachant que Toi seul peux révéler la Parole de Dieu.
-   Et maintenant, comme je vais devoir quitter cette église pour parcourir le monde, je Te les
-confie, Seigneur, car je les aime de tout mon coeur. Ce sont ceux que Tu as engendrés par l’Esprit
-et la Parole de Vérité, et je prie pour que Tu les bénisses, Seigneur; garde-les liés étroitement
-ensemble par les liens de l’amour de Christ.
-   Bénis notre pasteur bien-aimé, notre berger. Nous Te prions pour que Tu l’oignes du
-Saint-Esprit de Ta Parole, et que Tu lui donnes la révélation, afin qu’il puisse apporter la nourriture
-à Ton troupeau.
-   Il n’y a pas longtemps de cela, Tu nous as montré la vision de ce petit tabernacle… il fallait
-emmagasiner la nourriture, parce que les temps viendraient où cette nourriture serait nécessaire.
-Les frères Sothmann et Woods étaient prêts à s’en aller dans d’autres pays, vers … mais Tu dis
-alors: «Pour le moment, amasse cette nourriture». Seigneur, c’est ce que j’ai essayé de faire.
-   Et ce matin, je Te prie de conduire Toi-même cette prédication à laquelle nous avons pensé,
-afin de montrer que Tu es Dieu, et que cette Parole est Ta Parole, et Ta Vérité. Accorde-le,
-Seigneur, afin que Ton peuple puisse recevoir la nourriture et recevoir la force, par la Grâce de
-Dieu, et voir ainsi que tout cela est un effet de la grande miséricorde de Dieu en ce jour. O Père,
-bénis tous ceux qui sont ici présents, ainsi que tous ceux qui auraient voulu venir, et glorifie-Toi
-Toi-même! Nous Te le demandons au Nom de Jésus. Amen.
-   Que le Seigneur bénisse chacun de vous maintenant. Avant de commencer… je crois que nous
-avons ici un petit enfant Collins. J’ai vu son père il y a quelques instants, et il désire que son enfant
-soit consacré. C’est ce que nous allons faire maintenant, si frère ou soeur Collins veut bien
-s’avancer avec le petit enfant, afin que nous puissions procéder au service de consécration de ce
-petit être.
-   Ce sont des membres loyaux du Corps de Christ. Remarquez que je n’ai jamais dit: «membres
-du tabernacle», non! mais «membres du Corps de Christ», c’est-à-dire une partie de Son Corps. Et
-ils désirent que ce petit être soit consacré. Je crois que c’est un travail que ma femme m’envie:
-tenir les petits enfants dans mes bras. — Frère Neville, si vous voulez bien vous approcher…
-   [Frère Branham conduit le service de consécration — N.d.R.]
-      Amenez-les, amenez-les,
-      Faites-les sortir des champs du péché;
+Père Céleste plein de miséricorde, nous nous approchons encore de Toi ce matin, afin de recevoir Ta Grâce et d’être guidés par le Saint-Esprit; parce que nous avons compris que nous devions nous rassembler ce matin pour recevoir l’enseignement de Ta Parole, en sorte que nous puissions savoir comment nous devons vivre aujourd’hui, et en quels jours nous vivons. Nous Te demandons de guider nos pensées, et nos coeurs, afin de nous faire connaître chaque Parole qui nous est nécessaire; afin que Tu ouvres nos bouches largement et que Tu ouvres nos coeurs pour que nous recevions ce que Tu as à nous dire. Ferme notre bouche pour tout ce qui n’est pas juste, sachant que Toi seul peux révéler la Parole de Dieu.
 
-        http://www.cmpp.ch
+Et maintenant, comme je vais devoir quitter cette église pour parcourir le monde, je Te les confie, Seigneur, car je les aime de tout mon coeur. Ce sont ceux que Tu as engendrés par l’Esprit et la Parole de Vérité, et je prie pour que Tu les bénisses, Seigneur; garde-les liés étroitement ensemble par les liens de l’amour de Christ.
 
-CHRIST EST LA REVELATION DU MYSTERE DE DIEU 3
-      Amenez-les, amenez-les,
-      Amenez ces petits à Jésus.
-   J’aime ce cantique! Amenez-les à Christ avant que le diable ait eu la moindre chance de
-s’emparer d’eux. Ils Lui sont déjà consacrés pour une vie de service.
-   Savez-vous s’il y a ici des membres de la famille Dauch? — Soeur Dauch? Frère Brown, êtes-
-vous ici, frère Brown? Oui, je suis heureux… Frère Dauch est-il encore parmi nous? C’est
-merveilleux! Le frère Dauch a failli nous quitter. Vous voyez, nous ne pouvons trop dire ou trop
-demander; il a déjà dépassé de 21 ans le temps que Dieu lui avait donné à vivre. C’était la durée
-ordinaire d’une vie, mais après cela, Dieu lui dit qu’il pourrait encore vivre.
-   Mais l’autre jour, on nous a appelés pour nous dire qu’il était mourant. Nous nous sommes
-précipités chez lui, et notre Seigneur Dieu a été vraiment bon et l’a épargné. Je pense qu’il est prêt
-et attend la venue du Seigneur. Mais, vous comprenez, nous tenons tous les uns aux autres. Ce
-cher ami est comme un père pour moi. Je me rappelle quand il venait s’asseoir dans l’ancien
-tabernacle. Lorsque la Lumière resplendit au-dessus de l’eau lors de cette réunion de baptême au
-Nom de Jésus-Christ, le voici qui arrive, s’appuyant sur un bâton. (Il pouvait avoir 87 ou 88 ans à
-cette époque). Il vient directement vers moi et dit: «J’aimerais aller dans l’eau et être baptisé
-immédiatement». Quelqu’un alla lui chercher quelques vêtements. Il ne pouvait pas attendre le
-service suivant. Il voulait être baptisé tout de suite. J’aime voir cela! L’autre jour, je causais avec
-lui, et il me demanda: «Frère Branham, pensez-vous que je me porte bien?».
-   Je dis: «Avez-vous été chez un médecin pour vous faire examiner?».
-   Il répondit: «Oui!».
-   Je dis: «Le médecin mettra son stéthoscope, l’appuiera sur votre coeur pour voir s’il est en
-ordre; ensuite, il vous fera un électrocardiogramme, mesurera votre pression sanguine, fera un
-test d’urine, etc… il a toutes sortes d’instruments qui lui permettent de vérifier votre organisme.
-Ensuite, il regarde dans un livre où des spécialistes ont écrit sur différents sujets… «Si ceci se
-produit, c’est parce qu’il y a cela qui ne marche pas».
-   Je dis encore: «Mon seul stéthoscope, c’est la Bible — c’est un stéthoscope pour l’âme. Je vais
-vous faire passer un test. Jean 5.24 dit: “… celui qui écoute ma parole…” cela ne veut pas
-simplement dire s’asseoir et écouter; cela veut dire recevoir; la recevoir. Vous croyez. Quelque
-chose en vous vous dit que c’est la vérité. Vous L’avez acceptée. Vous La croyez. Elle vous
-appartient. — “Celui qui entend ma parole (Elle est déjà à vous), et qui croit en Celui qui m’a
-envoyé…”. Croyez-vous cela?
-   Il me dit: «Bien sûr!».
-   — «Alors, je vais vous répéter ce que dit le Médecin chef: “… il a la vie éternelle et ne vient
-point en jugement, mais il est passé de la mort à la vie”. Pour autant que je sache, selon le Livre,
-vous avez passé l’examen avec succès».
-   Ce vieillard de près de cent ans, il n’avait rien d’un «pilier d’église», mais lorsque la Lumière
-resplendit sur son chemin, il La reçut. Distinguez-vous là cette semence prédestinée? Aussitôt que
-la Lumière la frappe, elle vient immédiatement à la Vie.
-   Je sais qu’aujourd’hui il fait chaud, et qu’il pourrait sembler dur de ma part de vous avoir réunis
-pour un service où vous devez vous entasser de cette manière, mais j’ai pensé que par la Grâce
-de Dieu, je pourrais encore tenir une réunion avant de vous quitter — pour peu de temps, je
-l’espère.
-   Je dois partir demain soir pour Chicago, où je commencerai mercredi. Je pensai partir un peu à
-l’avance et me reposer quelque peu avant de commencer une nouvelle série de réunions. J’ai
-examiné cela ici. Là-bas, ils l’ont déjà annoncé. Ils tiendront ces réunions à un endroit qui s’appelle
-le «Marigold Arena», de mercredi à dimanche. Et il y aura un déjeuner des hommes d’affaires du
-Plein Evangile samedi matin. Et je ne sais pas s’ils ont annoncé cela — non. Samedi soir, la
-réunion aura lieu au «Lane Tech»; je vois ici qu’ils l’ont annoncé.
-   Si vous vous trouvez dans cette région… Il s’agira simplement de messages d’évangélisation,
-comme nous en avons régulièrement. La plupart des messages auront pour sujet des choses qui
-ont déjà été enseignées ici, parce que c’est ici que nous enregistrons nos bandes magnétiques.
-Vous comprenez? A l’extérieur, il peut y avoir des coupages et des modifications, mais ceux qui
-reçoivent des bandes faites ici… c’est à eux de savoir s’ils veulent écouter des bandes. Elles
-viennent directement d’ici, de notre chaire. A l’extérieur, j’essaie généralement de m’en tenir à des
+Bénis notre pasteur bien-aimé, notre berger. Nous Te prions pour que Tu l’oignes du Saint-Esprit de Ta Parole, et que Tu lui donnes la révélation, afin qu’il puisse apporter la nourriture à Ton troupeau.
 
-        http://www.cmpp.ch
+Il n’y a pas longtemps de cela, Tu nous as montré la vision de ce petit tabernacle… il fallait emmagasiner la nourriture, parce que les temps viendraient où cette nourriture serait nécessaire. Les frères Sothmann et Woods étaient prêts à s’en aller dans d’autres pays, vers … mais Tu dis alors: «Pour le moment, amasse cette nourriture». Seigneur, c’est ce que j’ai essayé de faire.
 
-CHRIST EST LA REVELATION DU MYSTERE DE DIEU 4
-sujets pas trop profonds, parce que beaucoup parmi mes auditeurs n’ont que peu d’expérience.
-Mais ici, je sens que j’ai le droit de dire tout ce que Dieu me met sur le coeur de dire. Ainsi donc,
-toutes nos bandes viennent d’ici. Vous voyez? Et ceux qui enregistrent sont maintenant dans le
-studio. Vous pouvez les voir à travers la vitre, où ils sont assis derrière leurs enregistreurs.
-   Mais si vous désirez venir à ces réunions, nous serons très heureux de vous y accueillir. Si
-vous y allez et que vous ne savez où elles se tiennent, prenez simplement contact avec n’importe
-quel frère du Plein Evangile, ou bien avec frère Carlson, et il vous dira ce qu’il… Il peut vous
-renseigner… ou avec quelqu’un de l’Eglise de Philadelphie; ils pourront vous renseigner.
-   Je reviendrai lundi, l’après-midi ou le soir. Et mardi, nous retournerons en Arizona pour
-conduire les enfants à l’école… Ensuite, je ne sais pas exactement quand je reviendrai, parce que
-le Seigneur… Je désire que ce soit Lui qui me conduise dans ce que je dois faire.
-   Il s’est passé quelque chose de très étrange… je pourrais tout aussi bien… Je sais que ceci est
-enregistré, et je pourrais tout aussi bien le dire maintenant. Et quand des visions ou des ordres me
-viennent du Saint-Esprit, j’aime agir sans délai. Pour ce qui est des visions, l’année passée a été
-l’année la plus extraordinaire de tout mon ministère. Toutes ces choses qui sont arrivées, vous
-tous savez qu’elles sont prédites avant d’arriver, et qu’ensuite, elles arrivent comme il a été dit.
-   Maintenant, nous sommes revenus ici. Je n’aime pas du tout le climat de cet endroit. Il me
-fatigue aussitôt que j’arrive. Si je dépasse le sommet de ces collines et que je descende dans
-cette vallée, au bout de dix minutes je commence à avoir de la peine à respirer, je me sens mal,
-j’ai la tête qui tourne; tout commence à paraître sombre et irréel, et je dois m’en aller.
-   L’autre jour, je causais avec ma femme… mais ce qui me fait venir ici, c’est vous, c’est cette
-église. Laissez-moi vous dire ceci: de tous les endroits où je suis allé jusqu’à ce jour, c’est ici que
-je préfère prêcher l’Evangile. Et il semble qu’ici on peut enregistrer dix fois mieux que partout
-ailleurs. C’est la raison pour laquelle je dis toujours: «Quand Dieu fait quelque chose quelque part,
-alors, tenez-vous à cela». Je pense au jour où je désobéis, la première fois qu’Il m’appela: Il me
-corrigea assez durement! — L’obéissance vaut mieux que les sacrifices.
-   Ensuite, je ferai un continuel va-et-vient, et je prêcherai dans le tabernacle. Et pour vous qui
-venez de l’extérieur, on vous tiendra au courant. Billy Paul sera ici, au bureau, et on peut
-m’atteindre n’importe quand par son intermédiaire. Et nous reviendrons ici pour tenir… Après, il y
-aura les Sept Trompettes, si le Seigneur le permet, puis les Sept Plaies et les Coupes, et ainsi de
-suite… si nous pouvons faire cela dans une période un peu plus fraîche. Pourtant, nous laisserons
-le Seigneur nous conduire.
-   L’autre jour, il y a eu une difficulté au sujet d’un chèque. Quelqu’un m’avait donné un chèque
-(pour moi personnellement) libéré de toute taxe. Alors, nous sommes allés… Billy savait que
-j’avais besoin de cet argent, et il demanda aux employés si nous pouvions l’encaisser. On lui
-répondit: «Eh bien, c’est un citoyen américain! pourquoi ne pourrait-il pas l’encaisser? Toutes
-taxes payées… tout citoyen peut faire cela!».
-   Mais Billy ne pouvait pas se satisfaire de cette réponse, aussi alla-t-il au Département des
-finances. On lui dit: «Bien sûr qu’il peut l’encaisser! Il est citoyen des Etats-Unis!». Pourtant, il
-n’était toujours pas rassuré; alors, il appela Merle Miller (il est le chef du service des impôts, à
-Indianapolis) — «Bien sûr, tout est en règle. Il peut l’encaisser. Il est fait à son nom. Il s’agit
-simplement de l’encaisser». Un seul peut recevoir l’argent, et il ne pourrait pas être encaissé
-sans…
-   Vous comprenez, je n’encaisse pas de chèques. C’est à cause de cela que j’ai eu des ennuis
-l’autre fois. On m’apportait un paquet de chèques: «Frère Branham, voulez-vous…». Et je signais,
-William Branham, William Branham… Pendant ce temps, l’administration étudiait ce cas! Et je
-continuais à signer ces chèques à mon propre nom, payant les factures et les dettes… Mais ils me
-dirent à la fin que je leur devais des impôts et une forte amende — tous ces chèques
-représentaient un montant de l’ordre de 300 000 dollars. C’est ainsi que j’eus tous ces ennuis.
-Ainsi donc, aussitôt que je signai ce chèque, j’eus la visite de l’agent de l’administration, qui dit:
-«Nous allons rouvrir votre dossier». Tout cela fut assez pénible pour moi.
-   Il y a encore notre frère Lee Vayle ici présent (je pense que cela n’a pas d’importance que j’en
-parle). C’était un Baptiste, très instruit dans les Ecritures. Je l’ai baptisé au Nom du Seigneur
-Jésus-Christ dans notre baptistère, il n’y a pas bien longtemps! — Frère Lee Vayle. C’était
-vraiment un homme très bien, un frère en Christ. Il a prêché pour nous ici; c’est un homme d’une
+Et ce matin, je Te prie de conduire Toi-même cette prédication à laquelle nous avons pensé, afin de montrer que Tu es Dieu, et que cette Parole est Ta Parole, et Ta Vérité. Accorde-le, Seigneur, afin que Ton peuple puisse recevoir la nourriture et recevoir la force, par la Grâce de Dieu, et voir ainsi que tout cela est un effet de la grande miséricorde de Dieu en ce jour. O Père, bénis tous ceux qui sont ici présents, ainsi que tous ceux qui auraient voulu venir, et glorifie-Toi Toi-même! Nous Te le demandons au Nom de Jésus. Amen.
 
-        http://www.cmpp.ch
+Que le Seigneur bénisse chacun de vous maintenant. Avant de commencer… je crois que nous avons ici un petit enfant Collins. J’ai vu son père il y a quelques instants, et il désire que son enfant soit consacré. C’est ce que nous allons faire maintenant, si frère ou soeur Collins veut bien s’avancer avec le petit enfant, afin que nous puissions procéder au service de consécration de ce petit être.
 
-CHRIST EST LA REVELATION DU MYSTERE DE DIEU 5
-grande instruction, et en plus de cela, il est conduit par l’Esprit. Lorsque la Lumière éclata sur son
-chemin, il dit qu’il essaya de s’en détourner, mais que cela lui fut impossible. Ainsi donc, je le
-baptisai ici même, l’autre jour. Il ne pouvait pas attendre plus longtemps, par conséquent, nous
-vînmes ici, nous revêtîmes les robes de baptême, et je le baptisai au Nom de Jésus-Christ.
-   Ensuite, je pensai qu’après cette nourriture spirituelle, nous pourrions peut-être prendre aussi
-un peu de nourriture naturelle et causer un moment. Nous allâmes donc au «Blue Boar». Bientôt,
-nous nous mîmes à discuter sur le sujet suivant: «Comment pouvez-vous laisser les gens parler
-de vous de cette manière-là?». Or, le frère Vayle est l’un des hommes les meilleurs qui soient,
-mais il a, comme on dit, la «gâchette facile» — ce que je lui ai toujours dit. Aussi, lui dis-je…
-(j’espère que vous ne m’en voulez pas, frère Vayle?): «Ne vous laissez pas ainsi emporter. Restez
-calme. Dieu est Celui qui agit».
-   Il me répondit: «Oh, pour vous, c’est peut-être facile! mais…». Je crois que, comme tous ces
-intellectuels, il est trop intelligent, alors, il sait exactement ce qu’il faut répondre, et l’autre est
-désarçonné.
-   Aussi, lui dis-je: «Frère Vayle, considérez ceci. (Nous étions assis au Blue Boar.) David, après
-qu’il eût été détrôné par son propre fils (il dut s’enfuir, car il y avait une mutinerie et Israël était
-divisé), sortit de la ville en pleurant. Sur son chemin, il rencontra un homme, quelqu’un qui n’aimait
-pas son message du dernier jour. Il se moquait de lui, n’avait aucun égard pour lui; cet homme
-cracha contre David. Le garde tira son épée et dit: “Laisserai-je sur ses épaules la tête de ce chien
-qui crache contre mon roi?”. Mais David lui répondit: “Laisse-le tranquille. C’est le Seigneur qui lui
-a dit de le faire”. On cracha contre lui. On se moqua de lui. Mais il dit: “C’est le Seigneur qui lui a
-dit de le faire!”. Nous connaissons l’histoire et sa fin! Frère Vayle pensait qu’il fallait une pleine
-mesure de grâce pour faire cela.
-   A peine étais-je revenu et entré dans le bureau que le comptable de service des impôts appela
-Billy Paul et se mit à lui parler de notre affaire. Alors, frère Vayle entra dans la maison avec moi ; je
-dis à ma femme (c’était l’après-midi) … Nous entrâmes dans une chambre, et je dis à ma femme:
-«Chérie, il faut que je te dise quelque chose». (Nous avions parlé de cela juste avant que je parte).
-Elle me répondit: «Bill, je sais que Dieu t’a envoyé là-bas; nous le savons tous, mais Il ne t’a
-jamais dit de revenir. C’est cela qui me tracasse».
-   Je lui dis: «Je pense que cela vous concerne, toi et les enfants. Pour moi, cela n’a pas
-d’importance. Je Le servirai, si le Seigneur le permet, où que j’aille». Je le lui dis de cette manière.
-Ainsi donc, je venais d’arriver, et j’avais à peine posé mon chapeau que quelqu’un se mit à dire
-quelque chose au sujet de cet employé du service des impôts: «Oh, ce percepteur!…» sur un ton
-assez aigre. Sans même penser à la conversation que je venais d’avoir avec le frère Vayle, je dis:
-«Laissez-le tranquille! Peut-être que c’est le Seigneur qui lui a dit d’agir ainsi!». Je n’avais pas fini
-de parler qu’une Lumière frappa le mur, et se mit à écrire (frère Vayle et ma femme étaient
-présents): «Retourne dans l’Arizona!». Ces mots étaient écrits sur le mur: «Retourne dans
-l’Arizona!». Voilà. C’est pourquoi (amen!) je vais retourner en Arizona.
-   Cette semaine, il y a eu de grandes bénédictions. Nous avons eu des entretiens avec des gens
-qui attendaient depuis les Sept Sceaux. Et je suis sûr que certaines personnes venaient de
-l’extérieur — de partout dans le pays. Mais le matin avant que commencent les entretiens, le
-Saint-Esprit me fit écrire exactement tout ce qu’ils savaient, tout ce qu’ils voulaient me demander,
-poser les questions dans l’ordre où ils désiraient les voir posées, leur raconter leurs songes et leur
-en donner l’interprétation, avant même qu’ils ne m’en parlent.
-   Les gens étaient dans la chambre. J’allai vers eux et les laissai parler. Ils me dirent: «Eh bien,
-frère Branham, je suis venu pour telle ou telle chose…». Je leur dis: «Rappelez-vous que nous ne
-sommes pas ici simplement pour faire la connaissance les uns des autres. Il y a une question dans
-votre esprit ou dans votre coeur sur un point auquel vous vous êtes achoppés, et dont vous ne
-connaissez pas la réponse. Peut-être qu’avec l’aide de Dieu, je pourrai vous répondre.
-Rappelez-vous que la Reine du Midi avait aussi des questions, lorsqu’elle vint auprès de Salomon.
-Et la Bible dit qu’il n’y eut rien que le roi ne sût lui expliquer. Mais maintenant, il y a au milieu de
-nous quelqu’un de plus grand que Salomon (c’est vrai!). Le Seigneur Jésus a dit: “Là où deux ou
-trois sont assemblés en mon nom, je suis au milieu d’eux. Tout ce que vous demanderez avec foi
-par la prière, vous le recevrez”. — Vous posez des questions au sujet de quelque chose que vous
-ne connaissez pas, quelque chose que vous ne savez comment aborder, quelque chose au sujet
-de quoi vous ne savez que faire».
+Ce sont des membres loyaux du Corps de Christ. Remarquez que je n’ai jamais dit: «membres du tabernacle», non! mais «membres du Corps de Christ», c’est-à-dire une partie de Son Corps. Et ils désirent que ce petit être soit consacré. Je crois que c’est un travail que ma femme m’envie: tenir les petits enfants dans mes bras. — Frère Neville, si vous voulez bien vous approcher…
 
-        http://www.cmpp.ch
+[Frère Branham conduit le service de consécration — N.d.R.]
 
-    CHRIST EST LA REVELATION DU MYSTERE DE DIEU    6
-   Je dis encore: «L’Ecriture dit aussi que les anges de Dieu campent autour de ceux qui Le
-craignent. Ainsi, dans un autre monde où les cinq sens n’existent pas… Les cinq sens ne vous
-donnent le contact qu’avec ce monde. Si vous n’aviez pas de sens tactile, vous ne pourriez pas
-sentir ce que vous touchez. Le toucher n’aurait aucune signification pour vous. Ce serait un autre
-monde. Si vous étiez aveugle, ce que vous voyez maintenant serait pour vous un autre monde.
-Vous n’en auriez aucune conscience. Ainsi donc, ces cinq sens sont tout ce que Dieu nous a
-donné. Mais il y en a un autre qui est appelé la foi. Par la foi, vous pouvez monter une échelle qui
-vous conduira si haut que vous serez introduits dans un autre monde, celui des visions. Là-haut,
-vous pouvez voir. C’est comme si vous n’aviez jamais vu ce que vous révèle votre sens du
-toucher, et qu’ensuite, vos yeux s’ouvrent et que vous puissiez voir. Tout cela serait un mystère
-pour celui qui ne pourrait pas voir. Ce serait un mystère. Mais cela existerait quand même».
-   Et là-bas, le Seigneur… Ces gens de tout le pays, de partout, venant du nord, du sud, de
-l’ouest, pour ces entretiens… aussitôt qu’ils ont fini leurs conversations, se demandant quelles
-questions ils allaient poser et comment, ils allaient les poser, je m’adressai à eux, disant: «Veuillez
-m’accorder votre attention…». Je me levai, et leur montrai mes papiers où chaque question était
-écrite dans l’ordre de leur passage, de la manière dont ils les avaient posées (ou plutôt dont ils
-allaient les poser), et avec la réponse, telle qu’elle me fut donnée. Le Seigneur est glorieux! Il
-connaît toutes choses. Malgré tout, cet après-midi m’a demandé trois jours de très gros efforts.
-   Je pensais pouvoir terminer avant de partir… Il eût été préférable de parler aux gens
-individuellement. Parce que l’on pourrait dire certaines choses, et si les gens savaient qu’ici les
-secrets de leur coeur seraient révélés, ce serait terrible. Cela pourrait provoquer des crimes; des
-gens pourraient tirer les uns sur les autres, si les choses étaient ainsi révélées du haut de la
-chaire, en public. Il y aurait des actes passibles de la prison; tout serait…
-   Mais lorsque vous n’êtes que deux, alors le Saint-Esprit… Comprenez bien ceci, c’est que ce
-qu’ils me demandent est strictement confidentiel. Je n’en parle pas. Et je leur dis que c’est à eux
-de savoir s’ils veulent me dire ce qui les concerne ou non. Vous voyez? Mais cela ne sera connu
-que de nous deux, c’est le but de l’entretien. C’est la raison pour laquelle il faut prendre une
-personne à la fois, et rester avec elle jusqu’à ce que tout soit réglé… le Saint-Esprit.
-   Pensez à la Grâce que m’a faite le Saint-Esprit, en me révélant toutes ces choses au sujet de
-chacun d’eux (et ils étaient nombreux!), avant même qu’ils soient arrivés ici. Tous ces gens qui
-sont venus de partout et que je n’ai jamais vus de ma vie. Et j’ai écrit cela afin qu’ils le sachent, et
-que les réponses correspondent aux questions posées.
-   Un frère avait des questions au sujet de la semence du serpent; je n’ai pas pu lui donner une
-réponse complète, parce que la demi-heure qui lui était attribuée était écoulée. J’espère qu’il a pu
-avoir la réponse inscrite sur le papier. Il avait écrit les réponses, mais il ne put les écrire toutes,
-alors je lui ai simplement donné le papier où j’ai écrit les réponses. Si je ne l’ai pas fait, qu’il le
-demande à Billy Paul. Je sais que cet homme est ici, dans cette salle. Je viens de le voir, il y a
-quelques instants. Ainsi donc, s’il le désire… toutes les réponses sont inscrites sur une feuille de
-papier. Oh, combien le Seigneur est bon! J’espère que chacun se sent à son aise. Et maintenant,
-rappelons-nous (lorsque je prierai sur ces mouchoirs), rappelons-nous frère Dauch. C’est un cher
-frère, que nous ne devons pas oublier dans nos prières.
-   Je vois aussi frère Ungren, mais je ne vois soeur Ungren nulle part… Comment se
-porte-t-elle?… Oui, la voilà! Je suis heureux de la voir, parce que l’autre soir, nous avons été
-appelés d’urgence, parce qu’elle et sa fille, soeur Downing, ont eu un accident, et seule la Grâce
-de Dieu leur a empêché d’être écrasées. Elles sont venues en train, et les voilà parmi nous dans
-l’église! Je ne vous oublierai jamais. Je vous aime tous, Dieu le sait! Je vous aime!
-   Parcourir les routes glissantes… Lorsque je vois un frère, venant de Georgie, de l’Alabama, du
-Tennessee ou d’ailleurs, qui, pour venir à une seule réunion, a dû rouler sur les routes gelées et
-glissantes…
-   Lorsque je fus appelé d’urgence au chevet du frère Dauch, l’autre jour, je ne savais pas que
-Lima, Ohio, était si loin. Je pensais que c’était la ville d’à côté. Mais, malgré que je sois parti tôt le
-matin, je ne suis pas arrivé là-bas avant une heure de l’après-midi, et cela en conduisant à la limite
-de la vitesse autorisée sur une autoroute. Et quand je pense que c’est tout près par comparaison
-avec ces régions du nord ou de l’ouest, d’où viennent certaines personnes!
+Amenez-les, amenez-les,
+Faites-les sortir des champs du péché;
+Amenez-les, amenez-les,
+Amenez ces petits à Jésus.
 
-    http://www.cmpp.ch
+J’aime ce cantique! Amenez-les à Christ avant que le diable ait eu la moindre chance de s’emparer d’eux. Ils Lui sont déjà consacrés pour une vie de service.
 
-    CHRIST EST LA REVELATION DU MYSTERE DE DIEU    7
-   Je vous aime. Et c’est la raison pour laquelle j’essaie d’être parfaitement sincère avec vous. Je
-pense à tous nos vieux habitués… Je les vois, frère Creech et les autres, qui sont assis là-bas,
-tous ceux qui ont été avec moi pendant toutes ces années. Nous avons marché ensemble. Je
-regardais la photo de Mary Jo (il y a environ deux jours). Ce n’était qu’un petit enfant la première
-fois que nous nous rencontrâmes, et maintenant, je crois qu’elle est mariée, et qu’elle a des
-enfants. Ce n’était qu’une enfant, la première fois que nous nous rencontrâmes, et maintenant, je
-crois qu’elle est mariée et qu’elle a des enfants. Il y avait frère et soeur Creech (jeunes, les
-cheveux noirs), Meda et moi. Et maintenant, nous sommes grisonnants et courbés par l’âge. C’est
-quelque chose que de connaître de telles gens. Cela vous réchauffe le coeur, et vous donne envie
-de rester avec eux. Il y a ainsi de ces choses qui nous rappellent le passé… Je donne ces choses
-à titre d’exemples, à tous ceux qui sont ici, jeunes et vieux. Nous nous réjouissons de la venue du
-Seigneur.
-   Ainsi, ce matin, j’ai mis… Dieu a mis dans mon coeur de donner une leçon d’école du
-dimanche, et si Dieu le permet, ce sera une longue leçon. Je ne prêcherai plus ici pendant un
-certain temps, pour autant que je sache, et j’aimerais vous rappeler que frère Neville a reçu du
-Saint-Esprit la charge de ce tabernacle, qu’il croit ce message et l’enseigne comme moi. C’est vrai!
-   Et chaque fois que vous estimez devoir venir écouter frère Neville, je suis sûr que cela vous
-fera du bien. C’est un bon serviteur de Jésus-Christ. Je connais Orman Neville depuis ma plus
-tendre enfance; il n’a pas changé, si ce n’est qu’il s’est rapproché encore plus de Dieu. Je me
-rappelle le jour où je le vis pour la première fois. J’étais invité dans une assemblée Méthodiste. Et
-lorsque je retournai ici au tabernacle, je me dis: «Un jour, je le baptiserai au Nom de
-Jésus-Christ». Et le voici maintenant, proclamant le message comme un serviteur zélé et
-courageux.
-   Et pourtant, le frère Neville passe par beaucoup d’épreuves et de chagrins qui… Il ne le montre
-pas ici au tabernacle, mais comme le Seigneur me laisse un peu voir dans la vie des gens, je peux
-savoir par quoi il passe. Vous voyez? Et il est certain qu’il passe par beaucoup d’épreuves et
-autres choses. Mais vous tous ici, vous le soutenez (comme Josué et Caleb soutenaient les bras
-de Moïse) quand il apporte la Parole.
-   Surtout, aimez-vous les uns les autres. Aimez-vous les uns les autres… Peu importe ce
-que le diable essaie de dire… Vous avez beau être maintenant une belle assemblée bien
-unie, souvenez-vous de mon avertissement! Vous comprenez? Satan ne veut pas vous
-laisser dans cette union! Oh, non! Il essaiera de vous abattre, même s’il doit pour cela
-introduire quelqu’un d’étranger dans l’assemblée pour en faire sa cible. Il introduira un
-critiqueur ou un incrédule, lui donnera une place dans l’assemblée, le fera fraterniser avec
-vous, et ensuite, il lui instillera un poison qu’il commencera à répandre dans l’église. N’ayez
-pas de part avec lui! Restez en dehors de tout cela! Soyez doux et aimables, et pleins
-d’amour les uns pour les autres. Priez pour que cet homme ou cette femme soit sauvé.
-Contentez-vous de prier pour eux, et restez étroitement unis et écoutez votre pasteur! C’est
-lui qui est votre berger, et vous devez le respecter en tant que tel! C’est lui qui vous
-conduira au travers des épreuves, parce qu’il a été ordonné par Dieu pour cela.
-   Vous souviendrez-vous de cela? L’ENNEMI VIENDRA! Et lorsqu’il viendra, restez d’autant
-plus unis! Et celui que le diable utilise comme ennemi sortira, ou alors, il entrera et
-deviendra un des vôtres. Tout est là. N’ayez pas l’esprit de clan! Ne discutez pas! Nous
-sommes tous un!
-   Je ne peux pas dire: «Main gauche, je suis furieux contre toi; je vais te retrancher, parce
-que tu n’es pas une main droite». Elle est ma main gauche! Je tiens à ce qu’elle reste là où
-elle est. Même le bout de mon doigt, je tiens à ce qu’il reste à sa place. Je tiens à ce que
-chaque partie de mon corps reste à sa place. Et, en tant que Corps des croyants, Dieu tient
-à ce que nous restions tous ensemble. Nous devons rester tous ensemble.
-   Vous avez des bandes magnétiques sur ce sujet. Vous en avez qui montrent ce que nous
-croyons. Vous en avez sur la discipline dans l’église. Elles vous enseignent sur la manière
-de vous comporter dans l’église de Dieu, de quelle manière nous devons venir ici et nous
-tenir dans les lieux célestes. Ne restez pas à la maison! Si Dieu est dans votre coeur, vous
-serez impatients de voir les portes s’ouvrir pour vous laisser entrer et avoir communion
-avec vos frères. Si vous n’avez pas de tels sentiments, alors je vous dis qu’il est temps de
+Savez-vous s’il y a ici des membres de la famille Dauch? — Soeur Dauch? Frère Brown, êtes-vous ici, frère Brown? Oui, je suis heureux… Frère Dauch est-il encore parmi nous? C’est merveilleux! Le frère Dauch a failli nous quitter. Vous voyez, nous ne pouvons trop dire ou trop demander; il a déjà dépassé de 21 ans le temps que Dieu lui avait donné à vivre. C’était la durée ordinaire d’une vie, mais après cela, Dieu lui dit qu’il pourrait encore vivre.
 
-    http://www.cmpp.ch
+Mais l’autre jour, on nous a appelés pour nous dire qu’il était mourant. Nous nous sommes précipités chez lui, et notre Seigneur Dieu a été vraiment bon et l’a épargné. Je pense qu’il est prêt et attend la venue du Seigneur. Mais, vous comprenez, nous tenons tous les uns aux autres. Ce cher ami est comme un père pour moi. Je me rappelle quand il venait s’asseoir dans l’ancien tabernacle. Lorsque la Lumière resplendit au-dessus de l’eau lors de cette réunion de baptême au Nom de Jésus-Christ, le voici qui arrive, s’appuyant sur un bâton. (Il pouvait avoir 87 ou 88 ans à cette époque). Il vient directement vers moi et dit: «J’aimerais aller dans l’eau et être baptisé immédiatement». Quelqu’un alla lui chercher quelques vêtements. Il ne pouvait pas attendre le service suivant. Il voulait être baptisé tout de suite. J’aime voir cela! L’autre jour, je causais avec lui, et il me demanda: «Frère Branham, pensez-vous que je me porte bien?».
+
+Je dis: «Avez-vous été chez un médecin pour vous faire examiner?».
+
+Il répondit: «Oui!».
+
+Je dis: «Le médecin mettra son stéthoscope, l’appuiera sur votre coeur pour voir s’il est en ordre; ensuite, il vous fera un électrocardiogramme, mesurera votre pression sanguine, fera un test d’urine, etc… il a toutes sortes d’instruments qui lui permettent de vérifier votre organisme. Ensuite, il regarde dans un livre où des spécialistes ont écrit sur différents sujets… «Si ceci se produit, c’est parce qu’il y a cela qui ne marche pas».
+
+Je dis encore: «Mon seul stéthoscope, c’est la Bible — c’est un stéthoscope pour l’âme. Je vais vous faire passer un test. Jean 5.24 dit: “… celui qui écoute ma parole…” cela ne veut pas simplement dire s’asseoir et écouter; cela veut dire recevoir; la recevoir. Vous croyez. Quelque chose en vous vous dit que c’est la vérité. Vous L’avez acceptée. Vous La croyez. Elle vous appartient. — “Celui qui entend ma parole (Elle est déjà à vous), et qui croit en Celui qui m’a envoyé…”. Croyez-vous cela?
+
+Il me dit: «Bien sûr!».
+
+— «Alors, je vais vous répéter ce que dit le Médecin chef: “… il a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie”. Pour autant que je sache, selon le Livre, vous avez passé l’examen avec succès».
+
+Ce vieillard de près de cent ans, il n’avait rien d’un «pilier d’église», mais lorsque la Lumière resplendit sur son chemin, il La reçut. Distinguez-vous là cette semence prédestinée? Aussitôt que la Lumière la frappe, elle vient immédiatement à la Vie.
+
+Je sais qu’aujourd’hui il fait chaud, et qu’il pourrait sembler dur de ma part de vous avoir réunis pour un service où vous devez vous entasser de cette manière, mais j’ai pensé que par la Grâce de Dieu, je pourrais encore tenir une réunion avant de vous quitter — pour peu de temps, je l’espère.
+
+Je dois partir demain soir pour Chicago, où je commencerai mercredi. Je pensai partir un peu à l’avance et me reposer quelque peu avant de commencer une nouvelle série de réunions. J’ai examiné cela ici. Là-bas, ils l’ont déjà annoncé. Ils tiendront ces réunions à un endroit qui s’appelle le «Marigold Arena», de mercredi à dimanche. Et il y aura un déjeuner des hommes d’affaires du Plein Evangile samedi matin. Et je ne sais pas s’ils ont annoncé cela — non. Samedi soir, la réunion aura lieu au «Lane Tech»; je vois ici qu’ils l’ont annoncé.
+
+Si vous vous trouvez dans cette région… Il s’agira simplement de messages d’évangélisation, comme nous en avons régulièrement. La plupart des messages auront pour sujet des choses qui ont déjà été enseignées ici, parce que c’est ici que nous enregistrons nos bandes magnétiques. Vous comprenez? A l’extérieur, il peut y avoir des coupages et des modifications, mais ceux qui reçoivent des bandes faites ici… c’est à eux de savoir s’ils veulent écouter des bandes. Elles viennent directement d’ici, de notre chaire. A l’extérieur, j’essaie généralement de m’en tenir à des sujets pas trop profonds, parce que beaucoup parmi mes auditeurs n’ont que peu d’expérience. Mais ici, je sens que j’ai le droit de dire tout ce que Dieu me met sur le coeur de dire. Ainsi donc, toutes nos bandes viennent d’ici. Vous voyez? Et ceux qui enregistrent sont maintenant dans le studio. Vous pouvez les voir à travers la vitre, où ils sont assis derrière leurs enregistreurs.
+
+Mais si vous désirez venir à ces réunions, nous serons très heureux de vous y accueillir. Si vous y allez et que vous ne savez où elles se tiennent, prenez simplement contact avec n’importe quel frère du Plein Evangile, ou bien avec frère Carlson, et il vous dira ce qu’il… Il peut vous renseigner… ou avec quelqu’un de l’Eglise de Philadelphie; ils pourront vous renseigner.
+
+Je reviendrai lundi, l’après-midi ou le soir. Et mardi, nous retournerons en Arizona pour conduire les enfants à l’école… Ensuite, je ne sais pas exactement quand je reviendrai, parce que le Seigneur… Je désire que ce soit Lui qui me conduise dans ce que je dois faire.
+
+Il s’est passé quelque chose de très étrange… je pourrais tout aussi bien… Je sais que ceci est enregistré, et je pourrais tout aussi bien le dire maintenant. Et quand des visions ou des ordres me viennent du Saint-Esprit, j’aime agir sans délai. Pour ce qui est des visions, l’année passée a été l’année la plus extraordinaire de tout mon ministère. Toutes ces choses qui sont arrivées, vous tous savez qu’elles sont prédites avant d’arriver, et qu’ensuite, elles arrivent comme il a été dit.
+
+Maintenant, nous sommes revenus ici. Je n’aime pas du tout le climat de cet endroit. Il me fatigue aussitôt que j’arrive. Si je dépasse le sommet de ces collines et que je descende dans cette vallée, au bout de dix minutes je commence à avoir de la peine à respirer, je me sens mal, j’ai la tête qui tourne; tout commence à paraître sombre et irréel, et je dois m’en aller.
+
+L’autre jour, je causais avec ma femme… mais ce qui me fait venir ici, c’est vous, c’est cette église. Laissez-moi vous dire ceci: de tous les endroits où je suis allé jusqu’à ce jour, c’est ici que je préfère prêcher l’Evangile. Et il semble qu’ici on peut enregistrer dix fois mieux que partout ailleurs. C’est la raison pour laquelle je dis toujours: «Quand Dieu fait quelque chose quelque part, alors, tenez-vous à cela». Je pense au jour où je désobéis, la première fois qu’Il m’appela: Il me corrigea assez durement! — L’obéissance vaut mieux que les sacrifices.
+
+Ensuite, je ferai un continuel va-et-vient, et je prêcherai dans le tabernacle. Et pour vous qui venez de l’extérieur, on vous tiendra au courant. Billy Paul sera ici, au bureau, et on peut m’atteindre n’importe quand par son intermédiaire. Et nous reviendrons ici pour tenir… Après, il y aura les Sept Trompettes, si le Seigneur le permet, puis les Sept Plaies et les Coupes, et ainsi de suite… si nous pouvons faire cela dans une période un peu plus fraîche. Pourtant, nous laisserons le Seigneur nous conduire.
+
+L’autre jour, il y a eu une difficulté au sujet d’un chèque. Quelqu’un m’avait donné un chèque (pour moi personnellement) libéré de toute taxe. Alors, nous sommes allés… Billy savait que j’avais besoin de cet argent, et il demanda aux employés si nous pouvions l’encaisser. On lui répondit: «Eh bien, c’est un citoyen américain! pourquoi ne pourrait-il pas l’encaisser? Toutes taxes payées… tout citoyen peut faire cela!».
+
+Mais Billy ne pouvait pas se satisfaire de cette réponse, aussi alla-t-il au Département des finances. On lui dit: «Bien sûr qu’il peut l’encaisser! Il est citoyen des Etats-Unis!». Pourtant, il n’était toujours pas rassuré; alors, il appela Merle Miller (il est le chef du service des impôts, à Indianapolis) — «Bien sûr, tout est en règle. Il peut l’encaisser. Il est fait à son nom. Il s’agit simplement de l’encaisser». Un seul peut recevoir l’argent, et il ne pourrait pas être encaissé sans…
+
+Vous comprenez, je n’encaisse pas de chèques. C’est à cause de cela que j’ai eu des ennuis l’autre fois. On m’apportait un paquet de chèques: «Frère Branham, voulez-vous…». Et je signais, William Branham, William Branham… Pendant ce temps, l’administration étudiait ce cas! Et je continuais à signer ces chèques à mon propre nom, payant les factures et les dettes… Mais ils me dirent à la fin que je leur devais des impôts et une forte amende — tous ces chèques représentaient un montant de l’ordre de 300 000 dollars. C’est ainsi que j’eus tous ces ennuis. Ainsi donc, aussitôt que je signai ce chèque, j’eus la visite de l’agent de l’administration, qui dit: «Nous allons rouvrir votre dossier». Tout cela fut assez pénible pour moi.
+
+Il y a encore notre frère Lee Vayle ici présent (je pense que cela n’a pas d’importance que j’en parle). C’était un Baptiste, très instruit dans les Ecritures. Je l’ai baptisé au Nom du Seigneur Jésus-Christ dans notre baptistère, il n’y a pas bien longtemps! — Frère Lee Vayle. C’était vraiment un homme très bien, un frère en Christ. Il a prêché pour nous ici; c’est un homme d’une grande instruction, et en plus de cela, il est conduit par l’Esprit. Lorsque la Lumière éclata sur son chemin, il dit qu’il essaya de s’en détourner, mais que cela lui fut impossible. Ainsi donc, je le baptisai ici même, l’autre jour. Il ne pouvait pas attendre plus longtemps, par conséquent, nous vînmes ici, nous revêtîmes les robes de baptême, et je le baptisai au Nom de Jésus-Christ.
+
+Ensuite, je pensai qu’après cette nourriture spirituelle, nous pourrions peut-être prendre aussi un peu de nourriture naturelle et causer un moment. Nous allâmes donc au «Blue Boar». Bientôt, nous nous mîmes à discuter sur le sujet suivant: «Comment pouvez-vous laisser les gens parler de vous de cette manière-là?». Or, le frère Vayle est l’un des hommes les meilleurs qui soient, mais il a, comme on dit, la «gâchette facile» — ce que je lui ai toujours dit. Aussi, lui dis-je… (j’espère que vous ne m’en voulez pas, frère Vayle?): «Ne vous laissez pas ainsi emporter. Restez calme. Dieu est Celui qui agit».
+
+Il me répondit: «Oh, pour vous, c’est peut-être facile! mais…». Je crois que, comme tous ces intellectuels, il est trop intelligent, alors, il sait exactement ce qu’il faut répondre, et l’autre est désarçonné.
+
+Aussi, lui dis-je: «Frère Vayle, considérez ceci. (Nous étions assis au Blue Boar.) David, après qu’il eût été détrôné par son propre fils (il dut s’enfuir, car il y avait une mutinerie et Israël était divisé), sortit de la ville en pleurant. Sur son chemin, il rencontra un homme, quelqu’un qui n’aimait pas son message du dernier jour. Il se moquait de lui, n’avait aucun égard pour lui; cet homme cracha contre David. Le garde tira son épée et dit: “Laisserai-je sur ses épaules la tête de ce chien qui crache contre mon roi?”. Mais David lui répondit: “Laisse-le tranquille. C’est le Seigneur qui lui a dit de le faire”. On cracha contre lui. On se moqua de lui. Mais il dit: “C’est le Seigneur qui lui a dit de le faire!”. Nous connaissons l’histoire et sa fin! Frère Vayle pensait qu’il fallait une pleine mesure de grâce pour faire cela.
+
+A peine étais-je revenu et entré dans le bureau que le comptable de service des impôts appela Billy Paul et se mit à lui parler de notre affaire. Alors, frère Vayle entra dans la maison avec moi ; je dis à ma femme (c’était l’après-midi) … Nous entrâmes dans une chambre, et je dis à ma femme: «Chérie, il faut que je te dise quelque chose». (Nous avions parlé de cela juste avant que je parte). Elle me répondit: «Bill, je sais que Dieu t’a envoyé là-bas; nous le savons tous, mais Il ne t’a jamais dit de revenir. C’est cela qui me tracasse».
+
+Je lui dis: «Je pense que cela vous concerne, toi et les enfants. Pour moi, cela n’a pas d’importance. Je Le servirai, si le Seigneur le permet, où que j’aille». Je le lui dis de cette manière. Ainsi donc, je venais d’arriver, et j’avais à peine posé mon chapeau que quelqu’un se mit à dire quelque chose au sujet de cet employé du service des impôts: «Oh, ce percepteur!…» sur un ton assez aigre. Sans même penser à la conversation que je venais d’avoir avec le frère Vayle, je dis: «Laissez-le tranquille! Peut-être que c’est le Seigneur qui lui a dit d’agir ainsi!». Je n’avais pas fini de parler qu’une Lumière frappa le mur, et se mit à écrire (frère Vayle et ma femme étaient présents): «Retourne dans l’Arizona!». Ces mots étaient écrits sur le mur: «Retourne dans l’Arizona!». Voilà. C’est pourquoi (amen!) je vais retourner en Arizona.
+
+Cette semaine, il y a eu de grandes bénédictions. Nous avons eu des entretiens avec des gens qui attendaient depuis les Sept Sceaux. Et je suis sûr que certaines personnes venaient de l’extérieur — de partout dans le pays. Mais le matin avant que commencent les entretiens, le Saint-Esprit me fit écrire exactement tout ce qu’ils savaient, tout ce qu’ils voulaient me demander, poser les questions dans l’ordre où ils désiraient les voir posées, leur raconter leurs songes et leur en donner l’interprétation, avant même qu’ils ne m’en parlent.
+
+Les gens étaient dans la chambre. J’allai vers eux et les laissai parler. Ils me dirent: «Eh bien, frère Branham, je suis venu pour telle ou telle chose…». Je leur dis: «Rappelez-vous que nous ne sommes pas ici simplement pour faire la connaissance les uns des autres. Il y a une question dans votre esprit ou dans votre coeur sur un point auquel vous vous êtes achoppés, et dont vous ne connaissez pas la réponse. Peut-être qu’avec l’aide de Dieu, je pourrai vous répondre. Rappelez-vous que la Reine du Midi avait aussi des questions, lorsqu’elle vint auprès de Salomon. Et la Bible dit qu’il n’y eut rien que le roi ne sût lui expliquer. Mais maintenant, il y a au milieu de nous quelqu’un de plus grand que Salomon (c’est vrai!). Le Seigneur Jésus a dit: “Là où deux ou trois sont assemblés en mon nom, je suis au milieu d’eux. Tout ce que vous demanderez avec foi par la prière, vous le recevrez”. — Vous posez des questions au sujet de quelque chose que vous ne connaissez pas, quelque chose que vous ne savez comment aborder, quelque chose au sujet de quoi vous ne savez que faire».
+
+Je dis encore: «L’Ecriture dit aussi que les anges de Dieu campent autour de ceux qui Le craignent. Ainsi, dans un autre monde où les cinq sens n’existent pas… Les cinq sens ne vous donnent le contact qu’avec ce monde. Si vous n’aviez pas de sens tactile, vous ne pourriez pas sentir ce que vous touchez. Le toucher n’aurait aucune signification pour vous. Ce serait un autre monde. Si vous étiez aveugle, ce que vous voyez maintenant serait pour vous un autre monde. Vous n’en auriez aucune conscience. Ainsi donc, ces cinq sens sont tout ce que Dieu nous a donné. Mais il y en a un autre qui est appelé la foi. Par la foi, vous pouvez monter une échelle qui vous conduira si haut que vous serez introduits dans un autre monde, celui des visions. Là-haut, vous pouvez voir. C’est comme si vous n’aviez jamais vu ce que vous révèle votre sens du toucher, et qu’ensuite, vos yeux s’ouvrent et que vous puissiez voir. Tout cela serait un mystère pour celui qui ne pourrait pas voir. Ce serait un mystère. Mais cela existerait quand même».
+
+Et là-bas, le Seigneur… Ces gens de tout le pays, de partout, venant du nord, du sud, de l’ouest, pour ces entretiens… aussitôt qu’ils ont fini leurs conversations, se demandant quelles questions ils allaient poser et comment, ils allaient les poser, je m’adressai à eux, disant: «Veuillez m’accorder votre attention…». Je me levai, et leur montrai mes papiers où chaque question était écrite dans l’ordre de leur passage, de la manière dont ils les avaient posées (ou plutôt dont ils allaient les poser), et avec la réponse, telle qu’elle me fut donnée. Le Seigneur est glorieux! Il connaît toutes choses. Malgré tout, cet après-midi m’a demandé trois jours de très gros efforts.
+
+Je pensais pouvoir terminer avant de partir… Il eût été préférable de parler aux gens individuellement. Parce que l’on pourrait dire certaines choses, et si les gens savaient qu’ici les secrets de leur coeur seraient révélés, ce serait terrible. Cela pourrait provoquer des crimes; des gens pourraient tirer les uns sur les autres, si les choses étaient ainsi révélées du haut de la chaire, en public. Il y aurait des actes passibles de la prison; tout serait…
+
+Mais lorsque vous n’êtes que deux, alors le Saint-Esprit… Comprenez bien ceci, c’est que ce qu’ils me demandent est strictement confidentiel. Je n’en parle pas. Et je leur dis que c’est à eux de savoir s’ils veulent me dire ce qui les concerne ou non. Vous voyez? Mais cela ne sera connu que de nous deux, c’est le but de l’entretien. C’est la raison pour laquelle il faut prendre une personne à la fois, et rester avec elle jusqu’à ce que tout soit réglé… le Saint-Esprit.
+
+Pensez à la Grâce que m’a faite le Saint-Esprit, en me révélant toutes ces choses au sujet de chacun d’eux (et ils étaient nombreux!), avant même qu’ils soient arrivés ici. Tous ces gens qui sont venus de partout et que je n’ai jamais vus de ma vie. Et j’ai écrit cela afin qu’ils le sachent, et que les réponses correspondent aux questions posées.
+
+Un frère avait des questions au sujet de la semence du serpent; je n’ai pas pu lui donner une réponse complète, parce que la demi-heure qui lui était attribuée était écoulée. J’espère qu’il a pu avoir la réponse inscrite sur le papier. Il avait écrit les réponses, mais il ne put les écrire toutes, alors je lui ai simplement donné le papier où j’ai écrit les réponses. Si je ne l’ai pas fait, qu’il le demande à Billy Paul. Je sais que cet homme est ici, dans cette salle. Je viens de le voir, il y a quelques instants. Ainsi donc, s’il le désire… toutes les réponses sont inscrites sur une feuille de papier. Oh, combien le Seigneur est bon! J’espère que chacun se sent à son aise. Et maintenant, rappelons-nous (lorsque je prierai sur ces mouchoirs), rappelons-nous frère Dauch. C’est un cher frère, que nous ne devons pas oublier dans nos prières.
+
+Je vois aussi frère Ungren, mais je ne vois soeur Ungren nulle part… Comment se porte-t-elle?… Oui, la voilà! Je suis heureux de la voir, parce que l’autre soir, nous avons été appelés d’urgence, parce qu’elle et sa fille, soeur Downing, ont eu un accident, et seule la Grâce de Dieu leur a empêché d’être écrasées. Elles sont venues en train, et les voilà parmi nous dans l’église! Je ne vous oublierai jamais. Je vous aime tous, Dieu le sait! Je vous aime!
+
+Parcourir les routes glissantes… Lorsque je vois un frère, venant de Georgie, de l’Alabama, du Tennessee ou d’ailleurs, qui, pour venir à une seule réunion, a dû rouler sur les routes gelées et glissantes…
+
+Lorsque je fus appelé d’urgence au chevet du frère Dauch, l’autre jour, je ne savais pas que Lima, Ohio, était si loin. Je pensais que c’était la ville d’à côté. Mais, malgré que je sois parti tôt le matin, je ne suis pas arrivé là-bas avant une heure de l’après-midi, et cela en conduisant à la limite de la vitesse autorisée sur une autoroute. Et quand je pense que c’est tout près par comparaison avec ces régions du nord ou de l’ouest, d’où viennent certaines personnes!
+
+CHRIST EST LA REVELATION DU MYSTERE DE DIEU    7
+
+Je vous aime. Et c’est la raison pour laquelle j’essaie d’être parfaitement sincère avec vous. Je pense à tous nos vieux habitués… Je les vois, frère Creech et les autres, qui sont assis là-bas, tous ceux qui ont été avec moi pendant toutes ces années. Nous avons marché ensemble. Je regardais la photo de Mary Jo (il y a environ deux jours). Ce n’était qu’un petit enfant la première fois que nous nous rencontrâmes, et maintenant, je crois qu’elle est mariée, et qu’elle a des enfants. Ce n’était qu’une enfant, la première fois que nous nous rencontrâmes, et maintenant, je crois qu’elle est mariée et qu’elle a des enfants. Il y avait frère et soeur Creech (jeunes, les cheveux noirs), Meda et moi. Et maintenant, nous sommes grisonnants et courbés par l’âge. C’est quelque chose que de connaître de telles gens. Cela vous réchauffe le coeur, et vous donne envie de rester avec eux. Il y a ainsi de ces choses qui nous rappellent le passé… Je donne ces choses à titre d’exemples, à tous ceux qui sont ici, jeunes et vieux. Nous nous réjouissons de la venue du Seigneur.
+
+Ainsi, ce matin, j’ai mis… Dieu a mis dans mon coeur de donner une leçon d’école du dimanche, et si Dieu le permet, ce sera une longue leçon. Je ne prêcherai plus ici pendant un certain temps, pour autant que je sache, et j’aimerais vous rappeler que frère Neville a reçu du Saint-Esprit la charge de ce tabernacle, qu’il croit ce message et l’enseigne comme moi. C’est vrai!
+
+Et chaque fois que vous estimez devoir venir écouter frère Neville, je suis sûr que cela vous fera du bien. C’est un bon serviteur de Jésus-Christ. Je connais Orman Neville depuis ma plus tendre enfance; il n’a pas changé, si ce n’est qu’il s’est rapproché encore plus de Dieu. Je me rappelle le jour où je le vis pour la première fois. J’étais invité dans une assemblée Méthodiste. Et lorsque je retournai ici au tabernacle, je me dis: «Un jour, je le baptiserai au Nom de Jésus-Christ». Et le voici maintenant, proclamant le message comme un serviteur zélé et courageux.
+
+Et pourtant, le frère Neville passe par beaucoup d’épreuves et de chagrins qui… Il ne le montre pas ici au tabernacle, mais comme le Seigneur me laisse un peu voir dans la vie des gens, je peux savoir par quoi il passe. Vous voyez? Et il est certain qu’il passe par beaucoup d’épreuves et autres choses. Mais vous tous ici, vous le soutenez (comme Josué et Caleb soutenaient les bras de Moïse) quand il apporte la Parole.
+
+Surtout, aimez-vous les uns les autres. Aimez-vous les uns les autres… Peu importe ce que le diable essaie de dire… Vous avez beau être maintenant une belle assemblée bien unie, souvenez-vous de mon avertissement! Vous comprenez? Satan ne veut pas vous laisser dans cette union! Oh, non! Il essaiera de vous abattre, même s’il doit pour cela introduire quelqu’un d’étranger dans l’assemblée pour en faire sa cible. Il introduira un critiqueur ou un incrédule, lui donnera une place dans l’assemblée, le fera fraterniser avec vous, et ensuite, il lui instillera un poison qu’il commencera à répandre dans l’église. N’ayez pas de part avec lui! Restez en dehors de tout cela! Soyez doux et aimables, et pleins d’amour les uns pour les autres. Priez pour que cet homme ou cette femme soit sauvé. Contentez-vous de prier pour eux, et restez étroitement unis et écoutez votre pasteur! C’est lui qui est votre berger, et vous devez le respecter en tant que tel! C’est lui qui vous conduira au travers des épreuves, parce qu’il a été ordonné par Dieu pour cela.
+
+Vous souviendrez-vous de cela? L’ENNEMI VIENDRA! Et lorsqu’il viendra, restez d’autant plus unis! Et celui que le diable utilise comme ennemi sortira, ou alors, il entrera et deviendra un des vôtres. Tout est là. N’ayez pas l’esprit de clan! Ne discutez pas! Nous sommes tous un!
+
+Je ne peux pas dire: «Main gauche, je suis furieux contre toi; je vais te retrancher, parce que tu n’es pas une main droite». Elle est ma main gauche! Je tiens à ce qu’elle reste là où elle est. Même le bout de mon doigt, je tiens à ce qu’il reste à sa place. Je tiens à ce que chaque partie de mon corps reste à sa place. Et, en tant que Corps des croyants, Dieu tient à ce que nous restions tous ensemble. Nous devons rester tous ensemble.
+
+Vous avez des bandes magnétiques sur ce sujet. Vous en avez qui montrent ce que nous croyons. Vous en avez sur la discipline dans l’église. Elles vous enseignent sur la manière de vous comporter dans l’église de Dieu, de quelle manière nous devons venir ici et nous tenir dans les lieux célestes. Ne restez pas à la maison! Si Dieu est dans votre coeur, vous serez impatients de voir les portes s’ouvrir pour vous laisser entrer et avoir communion avec vos frères. Si vous n’avez pas de tels sentiments, alors je vous dis qu’il est temps de
+
+http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 8
-vous mettre à prier, parce que nous sommes dans les derniers jours, et que la Bible nous
-exhorte: «Plus nous voyons le jour approcher, plus nous devons nous aimer les uns les
-autres de l’amour chrétien, de l’amour Divin. Soyons unis tous ensemble dans les lieux
-célestes en Jésus-Christ, et aimons-nous les uns les autres». “A ceci, tous connaîtront que
-vous êtes mes disciples, si vous avez de l’amour les uns pour les autres”.
-   C’est vrai! Restez unis. Si vous pensez qu’un frère ou une soeur n’est pas tout à fait dans
-la vérité, dites: «Seigneur, ne laisse pas le moindre germe d’amertume croître en moi, parce
-que cela lui ferait de la peine, et cela enlèverait Christ de ma vie». Ces acides, ces poisons
-de la jalousie, de la malice, de la haine, ils ne feront qu’enlever le Saint-Esprit du milieu de
-vous. Ils Le chasseront de ce tabernacle. Ils tueront l’Esprit de Dieu, ou le chasseront d’ici,
-et feront du mal à votre pasteur. Ils feront beaucoup de mal. Vous comprenez? Ne faites pas
-cela! Resserrez tous vos liens! Tirez sur les courroies, comme ce frère (un pasteur) en a eu
-la vision, l’autre jour. Il avait vu les boucles et les courroies de l’armure de Dieu. Revêtez-la,
-serrez-la bien. Rapprochez-vous les uns des autres. Aimez-vous les uns les autres, en
-toutes circonstances. Parlez en bien de vos frères et soeurs. Parlez en bien les uns des
-autres, et Dieu vous bénira.
-   Ce matin, si le Seigneur le permet, par Sa Grâce et Son aide… J’ai ici une quantité de
-passages des Ecritures. Mais avant d’aborder le sujet… (je crois que j’ai entendu s’enclencher les
-enregistreurs). Nous allons maintenant apporter le Message par la Grâce de Dieu. Prions d’abord.
-   Seigneur Jésus, j’ai parlé à ce corps de l’Eglise afin qu’ils tiennent tous ensemble la
-main immuable de Dieu, leur Absolu, qui est la Parole. J’ai fait comme Paul, lorsqu’il avertit
-son troupeau, lui montrant que des loups entreraient. Aujourd’hui, Tu es le même Dieu
-qu’autrefois, et cet ennemi, lui aussi, est le même. Puissent cette communion fraternelle et
-ces liens d’amour exister toujours dans cette assemblée, en Jésus-Christ.
-   Seigneur, accorde-nous Ton aide, pendant que nous lisons la Parole. Puisse le Saint-Esprit
-nous La révéler, pour que l’Eglise puisse être pleinement établie dans la foi qui fut autrefois
-accordée aux saints afin de les fortifier. Et, selon la vision que Tu m’as donnée il y a environ deux
-ans, où je devais emmagasiner cette nourriture — tous ces beaux légumes et autres que je vis
-amassés dans ce tabernacle — puissions-nous recevoir aujourd’hui un plein chargement de cette
-nourriture (de ces bandes magnétiques). Accorde-le, Seigneur, afin que Jésus-Christ puisse nous
-être révélé dans l’heure à laquelle nous vivons, afin de nous donner la force physique et spirituelle
-qui nous permettra d’accomplir la tâche qui nous attend. Accorde-le nous, Père.
-   Bénis ces gens ici, ce sont Tes enfants. Ils sont ici ce matin, et viennent de différentes parties
-du pays. Ce matin, il fait lourd et humide, mais nous sentons la Présence du Saint-Esprit dans
-cette réunion. Nous pensons à John Wesley, à Calvin, Sankey, Know, Finney, et aux autres qui
-n’avaient même pas de ventilateurs. La sueur coulait sur leur visage. Les femmes, habillées
-comme elles l’étaient alors, transpiraient au point que leurs vêtements étaient trempés. Mais ils
-venaient pour écouter la Parole de Dieu, la nourriture de leur âme. Nous croyons, Seigneur, que
-maintenant, ils se reposent quelque part dans l’au-delà, attendant la venue du Seigneur.
-   O, Père, maintiens-nous unis. Que le Saint-Esprit nous guide et nous dirige. Accorde-nous une
-longue vie de service pour Toi. Donne-nous ce matin ce glorieux message que nous attendons et
-qui vient de Ta Parole, afin qu’il pénètre dans chaque coeur. Seigneur, que la bouche qui parlera
-prononce les paroles de la Vérité. Que le coeur qui écoute soit un terrain fertile pour recevoir la
-Vérité. Et puissent-ils croître et devenir de grands arbres remplis de la Vie Eternelle, afin d’être des
-lumières brillantes et de vivantes épîtres, afin que tous puissent savoir que Jésus-Christ est
-ressuscité des morts et vit parmi nous. Remplis-nous d’amour et des fruits de l’Esprit à un degré
-tel qu’hommes et femmes, garçons et filles, puissent voir les résultats de la Vie de Christ qui vit
-toujours en nous, deux mille ans après le Grand événement. Accorde-le, Père, afin que Tu sois
-honoré. Nous le demandons au Nom de Jésus-Christ. Amen.
-   Maintenant, je voudrais lire quelques passages des Saintes-Ecritures. J’espère que vous avez
-de quoi écrire. Frère Neville, restez seulement assis! Je vais simplement enlever ma veste.
-Veuillez m’excuser, mais il fait terriblement chaud ici.
-   Je voudrais lire dans Colossiens, le premier chapitre. Et pendant que nous lisons, en
-commençant au… j’aimerais que vous lisiez complètement ce chapitre, lorsque vous serez rentrés
-à la maison. Mais ce matin, j’aimerais que vous lisiez avec moi les versets 15 à 29. Maintenant,
 
-        http://www.cmpp.ch
+vous mettre à prier, parce que nous sommes dans les derniers jours, et que la Bible nous exhorte: «Plus nous voyons le jour approcher, plus nous devons nous aimer les uns les autres de l’amour chrétien, de l’amour Divin. Soyons unis tous ensemble dans les lieux célestes en Jésus-Christ, et aimons-nous les uns les autres». “A ceci, tous connaîtront que vous êtes mes disciples, si vous avez de l’amour les uns pour les autres”.
 
-    CHRIST EST LA REVELATION DU MYSTERE DE DIEU    9
-prenez patience, car je sens que là-dedans, si Dieu m’accorde Son aide, sera révélé tout ce dont
-je vous ai parlé dans ce tabernacle depuis sa fondation, pourquoi j’ai dit ce que j’ai dit, et fait ce
-que j’ai fait. Voilà la raison. Lisons. Verset 15.
-      “Il est l’image du Dieu invisible, le premier-né de toute la création. Car en lui ont été
-   créées toutes les choses qui sont dans les cieux et sur la terre, les visibles et les invisibles,
-   trônes, dignités, dominations, autorités. Tout a été créé par lui et pour lui. Il est avant toutes
-   choses, et toutes choses subsistent en lui. Il est la tête du corps de l’Eglise; il est le
-   commencement, le premier-né d’entre les morts, afin d’être en tout le premier. Car Dieu a
-   voulu que toute plénitude habitât en lui — que toute plénitude habitât en lui;… (Je voudrais
-   insister sur le verset 19) …
-      Car Dieu a voulu que tout plénitude habitât en lui; il a voulu par lui réconcilier tout avec
-   lui-même, tant ce qui est sur la terre que ce qui est dans les cieux… (Voyez jusqu’où va la
-   réconciliation), … en faisant la paix par lui, par le sang de sa croix.
-      Et vous, qui étiez autrefois étrangers et ennemis par vos pensées et par vos mauvaises
-   oeuvres, il vous a maintenant réconciliés par sa mort dans le corps de sa chair, pour vous
-   faire apparaître devant lui saints, irrépréhensibles et sans reproche, si du moins vous
-   demeurez fondés et inébranlables dans la foi, sans vous détourner de l’espérance de
-   l’Evangile que vous avez entendu, qui a été prêché à toute créature sous le ciel, et dont moi
-   Paul, j’ai été fait ministre.
-      Je me réjouis maintenant dans mes souffrances pour vous; et ce qui manque aux
-   souffrances de Christ, je l’achève en ma chair, pour son corps, qui est l’Eglise. C’est d’elle
-   que j’ai été fait ministre, selon la charge que Dieu m’a donnée auprès de vous, afin que
-   j’annonçasse pleinement la parole de Dieu, le mystère caché de tout temps et dans tous les
-   âges, mais révélé maintenant à ses saints,… (Je veux relire ce verset) … le mystère caché
-   de tout temps et dans tous les âges, mais révélé maintenant à ses saints, à qui Dieu a voulu
-   faire connaître quelle est la glorieuse richesse de ce mystère parmi les païens, savoir: Christ
-   en vous, l’espérance de la gloire. C’est lui que nous annonçons, exhortant tout homme en
-   toute sagesse, afin de présenter à Dieu tout homme, devenu parfait en Christ. C’est à quoi je
-   travaille, en combattant avec sa force, qui agit puissamment en moi”.
-   Je prendrai ce passage comme sujet de ma prédication, m’appuyant sur la Bible tout entière, et
-je lui donnerai comme titre: Christ est la révélation du Mystère de Dieu. Christ est la révélation du
-mystère de Dieu. Je fais les choses dans l’ordre, comme à l’école du dimanche, afin que nous
-puissions tous lire ensemble et avoir communion ensemble.
-   Ce secret, ce mystère, Dieu le connaissait avant la fondation du monde. Au plus profond de Sa
-pensée, Dieu avait quelque chose qu’Il voulait réaliser; Il avait un motif de le faire: c’était afin de
-pouvoir S’exprimer Lui-même. Au commencement, il n’y avait ni lune, ni étoile, ni atome, ni
-molécule: il n’y avait rien. Il était Dieu. Mais en ce temps-là, Il n’était pas exactement Dieu, car
-Dieu est un objet d’adoration, et il n’y avait rien qui pût L’adorer. Alors, dans Sa pensée, Il eut le
-désir de voir Ses attributs exprimés. En Lui, il y avait de l’amour; en Lui, il y avait un Père; en Lui, il
-y avait un Fils; en Lui, il y avait un Sauveur; en Lui, il y avait un Médecin. Tous ces glorieux
-attributs que nous avons déjà vus exprimés existaient en Dieu.
-   Ainsi (c’est mon opinion), pour commencer, Il créa des anges. Et ils L’adorèrent, ce qui fit de Lui
-Dieu. A partir de là (comme j’ai essayé de l’expliquer dans des messages précédents) … Alors,
-lorsque les anges commencèrent à L’adorer… Il n’y avait pas encore une molécule de terre. Il n’y
-avait rien. Il n’y avait que des ténèbres. Il n’y avait ni soleil, ni lune, ni étoiles; il n’y avait rien. Et Il
-était Dieu. D’ailleurs, Il demanda à Job: “Où étais-tu quand je posais les fondements du
-monde?…”. “… alors que les étoiles du matin chantaient d’allégresse, et que tous les fils de Dieu
-poussaient des cris de joie…”. Vous voyez: “Où étais-tu?…”… bien avant la création de la terre.
-   Or, Dieu avait un dessein, un mystère caché. Et c’est là-dessus que je désire parler à cette
-église ce matin: sur ce mystère caché que Dieu avait dans Sa pensée avant la fondation du
-monde, et comment il est en train de se dévoiler dans ces temps mêmes où nous vivons. Alors,
-vous comprendrez clairement, je le crois, ce qui est en train d’arriver.
-   Ce glorieux mystère de Dieu… c’est un secret. Il l’a gardé secret. Personne n’a jamais rien su à
-son sujet. Les anges eux-mêmes ne l’ont pas compris. Il ne l’a pas révélé. C’est la raison pour
-laquelle, lors de ce septième mystère, quand le Septième Sceau fut ouvert, il y eut un silence.
+C’est vrai! Restez unis. Si vous pensez qu’un frère ou une soeur n’est pas tout à fait dans la vérité, dites: «Seigneur, ne laisse pas le moindre germe d’amertume croître en moi, parce que cela lui ferait de la peine, et cela enlèverait Christ de ma vie». Ces acides, ces poisons de la jalousie, de la malice, de la haine, ils ne feront qu’enlever le Saint-Esprit du milieu de vous. Ils Le chasseront de ce tabernacle. Ils tueront l’Esprit de Dieu, ou le chasseront d’ici, et feront du mal à votre pasteur. Ils feront beaucoup de mal. Vous comprenez? Ne faites pas cela! Resserrez tous vos liens! Tirez sur les courroies, comme ce frère (un pasteur) en a eu la vision, l’autre jour. Il avait vu les boucles et les courroies de l’armure de Dieu. Revêtez-la, serrez-la bien. Rapprochez-vous les uns des autres. Aimez-vous les uns les autres, en toutes circonstances. Parlez en bien de vos frères et soeurs. Parlez en bien les uns des autres, et Dieu vous bénira.
 
-                                 http://www.cmpp.ch
+Ce matin, si le Seigneur le permet, par Sa Grâce et Son aide… J’ai ici une quantité de passages des Ecritures. Mais avant d’aborder le sujet… (je crois que j’ai entendu s’enclencher les enregistreurs). Nous allons maintenant apporter le Message par la Grâce de Dieu. Prions d’abord.
+
+Seigneur Jésus, j’ai parlé à ce corps de l’Eglise afin qu’ils tiennent tous ensemble la main immuable de Dieu, leur Absolu, qui est la Parole. J’ai fait comme Paul, lorsqu’il avertit son troupeau, lui montrant que des loups entreraient. Aujourd’hui, Tu es le même Dieu qu’autrefois, et cet ennemi, lui aussi, est le même. Puissent cette communion fraternelle et ces liens d’amour exister toujours dans cette assemblée, en Jésus-Christ.
+
+Seigneur, accorde-nous Ton aide, pendant que nous lisons la Parole. Puisse le Saint-Esprit nous La révéler, pour que l’Eglise puisse être pleinement établie dans la foi qui fut autrefois accordée aux saints afin de les fortifier. Et, selon la vision que Tu m’as donnée il y a environ deux ans, où je devais emmagasiner cette nourriture — tous ces beaux légumes et autres que je vis amassés dans ce tabernacle — puissions-nous recevoir aujourd’hui un plein chargement de cette nourriture (de ces bandes magnétiques). Accorde-le, Seigneur, afin que Jésus-Christ puisse nous être révélé dans l’heure à laquelle nous vivons, afin de nous donner la force physique et spirituelle qui nous permettra d’accomplir la tâche qui nous attend. Accorde-le nous, Père.
+
+Bénis ces gens ici, ce sont Tes enfants. Ils sont ici ce matin, et viennent de différentes parties du pays. Ce matin, il fait lourd et humide, mais nous sentons la Présence du Saint-Esprit dans cette réunion. Nous pensons à John Wesley, à Calvin, Sankey, Know, Finney, et aux autres qui n’avaient même pas de ventilateurs. La sueur coulait sur leur visage. Les femmes, habillées comme elles l’étaient alors, transpiraient au point que leurs vêtements étaient trempés. Mais ils venaient pour écouter la Parole de Dieu, la nourriture de leur âme. Nous croyons, Seigneur, que maintenant, ils se reposent quelque part dans l’au-delà, attendant la venue du Seigneur.
+
+O, Père, maintiens-nous unis. Que le Saint-Esprit nous guide et nous dirige. Accorde-nous une longue vie de service pour Toi. Donne-nous ce matin ce glorieux message que nous attendons et qui vient de Ta Parole, afin qu’il pénètre dans chaque coeur. Seigneur, que la bouche qui parlera prononce les paroles de la Vérité. Que le coeur qui écoute soit un terrain fertile pour recevoir la Vérité. Et puissent-ils croître et devenir de grands arbres remplis de la Vie Eternelle, afin d’être des lumières brillantes et de vivantes épîtres, afin que tous puissent savoir que Jésus-Christ est ressuscité des morts et vit parmi nous. Remplis-nous d’amour et des fruits de l’Esprit à un degré tel qu’hommes et femmes, garçons et filles, puissent voir les résultats de la Vie de Christ qui vit toujours en nous, deux mille ans après le Grand événement. Accorde-le, Père, afin que Tu sois honoré. Nous le demandons au Nom de Jésus-Christ. Amen.
+
+Maintenant, je voudrais lire quelques passages des Saintes-Ecritures. J’espère que vous avez de quoi écrire. Frère Neville, restez seulement assis! Je vais simplement enlever ma veste. Veuillez m’excuser, mais il fait terriblement chaud ici.
+
+Je voudrais lire dans Colossiens, le premier chapitre. Et pendant que nous lisons, en commençant au… j’aimerais que vous lisiez complètement ce chapitre, lorsque vous serez rentrés à la maison. Mais ce matin, j’aimerais que vous lisiez avec moi les versets 15 à 29. Maintenant,
+
+http://www.cmpp.ch
+
+CHRIST EST LA REVELATION DU MYSTERE DE DIEU    9
+
+prenez patience, car je sens que là-dedans, si Dieu m’accorde Son aide, sera révélé tout ce dont je vous ai parlé dans ce tabernacle depuis sa fondation, pourquoi j’ai dit ce que j’ai dit, et fait ce que j’ai fait. Voilà la raison. Lisons. Verset 15.
+
+> “Il est l’image du Dieu invisible, le premier-né de toute la création. Car en lui ont été créées toutes les choses qui sont dans les cieux et sur la terre, les visibles et les invisibles, trônes, dignités, dominations, autorités. Tout a été créé par lui et pour lui. Il est avant toutes choses, et toutes choses subsistent en lui. Il est la tête du corps de l’Eglise; il est le commencement, le premier-né d’entre les morts, afin d’être en tout le premier. Car Dieu a voulu que toute plénitude habitât en lui — que toute plénitude habitât en lui;… (Je voudrais insister sur le verset 19) …
+> Car Dieu a voulu que tout plénitude habitât en lui; il a voulu par lui réconcilier tout avec lui-même, tant ce qui est sur la terre que ce qui est dans les cieux… (Voyez jusqu’où va la réconciliation), … en faisant la paix par lui, par le sang de sa croix.
+> Et vous, qui étiez autrefois étrangers et ennemis par vos pensées et par vos mauvaises oeuvres, il vous a maintenant réconciliés par sa mort dans le corps de sa chair, pour vous faire apparaître devant lui saints, irrépréhensibles et sans reproche, si du moins vous demeurez fondés et inébranlables dans la foi, sans vous détourner de l’espérance de l’Evangile que vous avez entendu, qui a été prêché à toute créature sous le ciel, et dont moi Paul, j’ai été fait ministre.
+> Je me réjouis maintenant dans mes souffrances pour vous; et ce qui manque aux souffrances de Christ, je l’achève en ma chair, pour son corps, qui est l’Eglise. C’est d’elle que j’ai été fait ministre, selon la charge que Dieu m’a donnée auprès de vous, afin que j’annonçasse pleinement la parole de Dieu, le mystère caché de tout temps et dans tous les âges, mais révélé maintenant à ses saints,… (Je veux relire ce verset) … le mystère caché de tout temps et dans tous les âges, mais révélé maintenant à ses saints, à qui Dieu a voulu faire connaître quelle est la glorieuse richesse de ce mystère parmi les païens, savoir: Christ en vous, l’espérance de la gloire. C’est lui que nous annonçons, exhortant tout homme en toute sagesse, afin de présenter à Dieu tout homme, devenu parfait en Christ. C’est à quoi je travaille, en combattant avec sa force, qui agit puissamment en moi”.
+
+Je prendrai ce passage comme sujet de ma prédication, m’appuyant sur la Bible tout entière, et je lui donnerai comme titre: Christ est la révélation du Mystère de Dieu. Christ est la révélation du mystère de Dieu. Je fais les choses dans l’ordre, comme à l’école du dimanche, afin que nous puissions tous lire ensemble et avoir communion ensemble.
+
+Ce secret, ce mystère, Dieu le connaissait avant la fondation du monde. Au plus profond de Sa pensée, Dieu avait quelque chose qu’Il voulait réaliser; Il avait un motif de le faire: c’était afin de pouvoir S’exprimer Lui-même. Au commencement, il n’y avait ni lune, ni étoile, ni atome, ni molécule: il n’y avait rien. Il était Dieu. Mais en ce temps-là, Il n’était pas exactement Dieu, car Dieu est un objet d’adoration, et il n’y avait rien qui pût L’adorer. Alors, dans Sa pensée, Il eut le désir de voir Ses attributs exprimés. En Lui, il y avait de l’amour; en Lui, il y avait un Père; en Lui, il y avait un Fils; en Lui, il y avait un Sauveur; en Lui, il y avait un Médecin. Tous ces glorieux attributs que nous avons déjà vus exprimés existaient en Dieu.
+
+Ainsi (c’est mon opinion), pour commencer, Il créa des anges. Et ils L’adorèrent, ce qui fit de Lui Dieu. A partir de là (comme j’ai essayé de l’expliquer dans des messages précédents) … Alors, lorsque les anges commencèrent à L’adorer… Il n’y avait pas encore une molécule de terre. Il n’y avait rien. Il n’y avait que des ténèbres. Il n’y avait ni soleil, ni lune, ni étoiles; il n’y avait rien. Et Il était Dieu. D’ailleurs, Il demanda à Job: “Où étais-tu quand je posais les fondements du monde?…”. “… alors que les étoiles du matin chantaient d’allégresse, et que tous les fils de Dieu poussaient des cris de joie…”. Vous voyez: “Où étais-tu?…”… bien avant la création de la terre.
+
+Or, Dieu avait un dessein, un mystère caché. Et c’est là-dessus que je désire parler à cette église ce matin: sur ce mystère caché que Dieu avait dans Sa pensée avant la fondation du monde, et comment il est en train de se dévoiler dans ces temps mêmes où nous vivons. Alors, vous comprendrez clairement, je le crois, ce qui est en train d’arriver.
+
+Ce glorieux mystère de Dieu… c’est un secret. Il l’a gardé secret. Personne n’a jamais rien su à son sujet. Les anges eux-mêmes ne l’ont pas compris. Il ne l’a pas révélé. C’est la raison pour laquelle, lors de ce septième mystère, quand le Septième Sceau fut ouvert, il y eut un silence.
+
+http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 10
-   Lorsque Jésus était sur la terre, ils voulurent connaître le jour de Son avènement. Il leur
-répondit: “Même le Fils ne sait pas quand cela arrivera”. Vous voyez, Dieu a gardé cela pour Lui
-seul. C’est un secret. Et c’est la raison pour laquelle il y eut un silence d’environ une demi-heure.
-Sept tonnerres firent retentir leurs voix, mais Jean n’eut pas la permission d’écrire ce qui
-concernait la venue du Seigneur.
-   Cela, Il ne l’a pas encore révélé. Il n’a pas révélé comment Il viendrait, ni quand Il viendrait. Et Il
-a très bien fait ainsi! Non! Il l’a montré, ou révélé dans chaque type qui se trouve dans la Bible.
-   Par conséquent, la Bible tout entière est la révélation du mystère de Dieu en Christ. Vous
-comprenez? La Bible, dans Son ensemble, est l’expression du seul but de Dieu, du seul projet
-qu’Il désirait accomplir dans toute la Bible. Dans la Bible, tous les actes des croyants sont des
-types qui montrent quel est le but glorieux de Dieu. Et maintenant, dans les derniers jours, Il nous
-l’a révélé. Et, que Dieu nous vienne en aide, nous verrons tout cela ce matin, ce que le Seigneur
-avait dans Sa Pensée, et comment Il l’a exprimé. Ainsi donc, vous pouvez comprendre ce que
-signifie pour moi de savoir cela, et d’essayer de vous l’apporter. Vous comprenez? Mais je
-n’entrerai pas dans les détails pour essayer de vous expliquer comment Dieu me l’a révélé.
-   Si vous voulez encore noter ceci… Il y a tellement de passages que j’aimerais lire! Dans
-l’Evangile de Luc, au chapitre 24, nous voyons les deux apôtres qui sont sur le chemin d’Emmaüs.
-Jésus leur apparut, après la résurrection, alors qu’ils se rendaient à Emmaüs. Ils réfléchissaient,
-parlaient, et pleuraient Sa mort. Ils pensaient qu’Il avait dû souffrir pour rien. On avait pris leur
-Seigneur, et on L’avait crucifié. Et pendant qu’ils marchaient, remplis de tristesse, voici que Jésus
-les rejoignit et se mit à leur parler du Christ.
-   Et Il leur dit: “O hommes sans intelligence, et dont le coeur est lent à croire tout ce qu’ont dit les
-prophètes!”… “Et commençant par Moïse…”.
-   Comprenez-vous ce qu’Il faisait? — Il révélait Son identité à ces apôtres, leur démontrant que
-tous les prophètes, les Psaumes, et tout le reste était l’expression même de Christ. Vous
-comprenez?
-   Ainsi donc, la raison pour laquelle je n’ai pas prêché ce matin, c’est que je pensais que nous
-comprendrions mieux par l’enseignement que par une prédication où l’on prend juste un texte sans
-s’y arrêter longuement. Cela, il faut l’enseigner.
-   Il dit que tous les Psaumes et tous les prophètes ont parlé de Lui. Par conséquent, cela nous
-montre que tout l’Ancien Testament et tout le Nouveau Testament, tous les Psaumes, tous ces
-chants qui furent chantés parlaient de Lui.
-   Chantez le Psaumes 22, et comparez-le avec le récit de la crucifixion: “Mon Dieu! mon Dieu!
-Pourquoi m’as tu abandonné!”… “Je pourrais compter tous mes os”… “Ils ont percé mes mains et
-mes pieds”. Malgré tout cela… Ils chantaient ce Psaume dans le Temple, mais crucifièrent Celui-là
-même… Vous voyez? Ces grands chefs religieux, ces grands hommes, ces grands docteurs de la
-loi (pourtant tellement aveuglés!) qui lisaient les prophètes et chantaient des cantiques — ils
-commirent eux-mêmes le crime que ces cantiques annonçaient. Et ce matin, il se passe
-exactement la même chose.
-   Maintenant, écoutez bien attentivement, parce que je ne m’occuperai absolument pas de
-l’horloge! Je voudrais que vous compreniez ces choses! Vous voyez? Vous pouvez voir que, dès
-le commencement, Dieu cacha à tous ces érudits la pensée qui était dans Son Esprit. Seul un petit
-nombre, un groupe sélectionné, prédestiné, entendit Sa voix.
-   Sondez toutes les Saintes Ecritures, depuis le temps des prophètes, et voyez s’il n’en a pas
-toujours été de même! D’ailleurs, Jésus, en parlant d’eux, citait les prophètes et les Psaumes. Il dit
-que tous parlèrent de Lui. Mais tous ces Juifs savants, rabbins, docteurs de la loi et professeurs,
-firent exactement comme ils avaient déjà fait auparavant.
-   Remarquez ceci. Il dit encore une fois: “Sondez les Ecritures, car ce sont elles qui témoignent
-de Moi!”. Sondez les Ecritures, toutes les Ecritures. Et que suis-je en train de faire? — J’essaie de
-vous montrer que c’est cette Bible qui est la Vérité.
-   L’autre jour, j’étais dans un hôpital, où je parlais avec plusieurs personnes faisant partie de
-différentes dénominations. Une soeur me demanda d’expliquer ce qui en était au sujet des
-dénominations, pourquoi nous étions contre les dénominations. Vous comprenez, il faut toujours
-revenir à la Parole, parce que la Parole est Dieu. Et Jésus Lui-même déclare qu’Il est la Parole.
 
-        http://www.cmpp.ch
+Lorsque Jésus était sur la terre, ils voulurent connaître le jour de Son avènement. Il leur répondit: “Même le Fils ne sait pas quand cela arrivera”. Vous voyez, Dieu a gardé cela pour Lui seul. C’est un secret. Et c’est la raison pour laquelle il y eut un silence d’environ une demi-heure. Sept tonnerres firent retentir leurs voix, mais Jean n’eut pas la permission d’écrire ce qui concernait la venue du Seigneur.
+
+Cela, Il ne l’a pas encore révélé. Il n’a pas révélé comment Il viendrait, ni quand Il viendrait. Et Il a très bien fait ainsi! Non! Il l’a montré, ou révélé dans chaque type qui se trouve dans la Bible.
+
+Par conséquent, la Bible tout entière est la révélation du mystère de Dieu en Christ. Vous comprenez? La Bible, dans Son ensemble, est l’expression du seul but de Dieu, du seul projet qu’Il désirait accomplir dans toute la Bible. Dans la Bible, tous les actes des croyants sont des types qui montrent quel est le but glorieux de Dieu. Et maintenant, dans les derniers jours, Il nous l’a révélé. Et, que Dieu nous vienne en aide, nous verrons tout cela ce matin, ce que le Seigneur avait dans Sa Pensée, et comment Il l’a exprimé. Ainsi donc, vous pouvez comprendre ce que signifie pour moi de savoir cela, et d’essayer de vous l’apporter. Vous comprenez? Mais je n’entrerai pas dans les détails pour essayer de vous expliquer comment Dieu me l’a révélé.
+
+Si vous voulez encore noter ceci… Il y a tellement de passages que j’aimerais lire! Dans l’Evangile de Luc, au chapitre 24, nous voyons les deux apôtres qui sont sur le chemin d’Emmaüs. Jésus leur apparut, après la résurrection, alors qu’ils se rendaient à Emmaüs. Ils réfléchissaient, parlaient, et pleuraient Sa mort. Ils pensaient qu’Il avait dû souffrir pour rien. On avait pris leur Seigneur, et on L’avait crucifié. Et pendant qu’ils marchaient, remplis de tristesse, voici que Jésus les rejoignit et se mit à leur parler du Christ.
+
+Et Il leur dit: “O hommes sans intelligence, et dont le coeur est lent à croire tout ce qu’ont dit les prophètes!”… “Et commençant par Moïse…”
+
+Comprenez-vous ce qu’Il faisait? — Il révélait Son identité à ces apôtres, leur démontrant que tous les prophètes, les Psaumes, et tout le reste était l’expression même de Christ. Vous comprenez?
+
+Ainsi donc, la raison pour laquelle je n’ai pas prêché ce matin, c’est que je pensais que nous comprendrions mieux par l’enseignement que par une prédication où l’on prend juste un texte sans s’y arrêter longuement. Cela, il faut l’enseigner.
+
+Il dit que tous les Psaumes et tous les prophètes ont parlé de Lui. Par conséquent, cela nous montre que tout l’Ancien Testament et tout le Nouveau Testament, tous les Psaumes, tous ces chants qui furent chantés parlaient de Lui.
+
+Chantez le Psaumes 22, et comparez-le avec le récit de la crucifixion: “Mon Dieu! mon Dieu! Pourquoi m’as tu abandonné!”… “Je pourrais compter tous mes os”… “Ils ont percé mes mains et mes pieds”. Malgré tout cela… Ils chantaient ce Psaume dans le Temple, mais crucifièrent Celui-là même… Vous voyez? Ces grands chefs religieux, ces grands hommes, ces grands docteurs de la loi (pourtant tellement aveuglés!) qui lisaient les prophètes et chantaient des cantiques — ils commirent eux-mêmes le crime que ces cantiques annonçaient. Et ce matin, il se passe exactement la même chose.
+
+Maintenant, écoutez bien attentivement, parce que je ne m’occuperai absolument pas de l’horloge! Je voudrais que vous compreniez ces choses! Vous voyez? Vous pouvez voir que, dès le commencement, Dieu cacha à tous ces érudits la pensée qui était dans Son Esprit. Seul un petit nombre, un groupe sélectionné, prédestiné, entendit Sa voix.
+
+Sondez toutes les Saintes Ecritures, depuis le temps des prophètes, et voyez s’il n’en a pas toujours été de même! D’ailleurs, Jésus, en parlant d’eux, citait les prophètes et les Psaumes. Il dit que tous parlèrent de Lui. Mais tous ces Juifs savants, rabbins, docteurs de la loi et professeurs, firent exactement comme ils avaient déjà fait auparavant.
+
+Remarquez ceci. Il dit encore une fois: “Sondez les Ecritures, car ce sont elles qui témoignent de Moi!”. Sondez les Ecritures, toutes les Ecritures. Et que suis-je en train de faire? — J’essaie de vous montrer que c’est cette Bible qui est la Vérité.
+
+L’autre jour, j’étais dans un hôpital, où je parlais avec plusieurs personnes faisant partie de différentes dénominations. Une soeur me demanda d’expliquer ce qui en était au sujet des dénominations, pourquoi nous étions contre les dénominations. Vous comprenez, il faut toujours revenir à la Parole, parce que la Parole est Dieu. Et Jésus Lui-même déclare qu’Il est la Parole.
+
+http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 11
-Vous ne pouvez faire se contredire les Ecritures! “Au commencement était la Parole, et la Parole
-était avec Dieu, et la Parole était Dieu… Et la Parole a été faite chair…”. Vous comprenez?
-   Mais Il dit aussi: “Sondez les Ecritures; Elles témoignent de Moi. Vous pensez qu’en Elles vous
-avez la Vie Eternelle (et c’est vrai). Elles me rendent témoignage, et Je leur rends témoignage. Si
-je ne fais pas les oeuvres que J’ai promis de faire, alors, ne m’écoutez pas. Mais si Je fais les
-oeuvres et que vous ne me croyez pas, croyez aux oeuvres, car elles témoignent qu’Il est la
-Parole”.
-   Il semble qu’il ne soit pas possible d’être plus clair! Vous comprenez? Bien! Sondons
-maintenant les Ecritures. Il dit que Moïse, la loi, les Prophètes, les Psaumes, etc., tous parlent de
-Lui, et Il répète que les Ecritures Lui rendent témoignage.
-   Il est le thème principal de la Bible tout entière. Si vous lisez la Bible, sans voir Christ
-dans chacun de ses versets, alors relisez-la! Comprenez-vous? Si vous ne pouvez voir Christ
-dans chaque verset de la Bible, alors relisez-la, parce que quelque chose vous a échappé! La
-Bible est Christ. il est la Parole. Quand vous lisez: “Au commencement, Dieu créa…”. — c’est
-Christ. Depuis là jusqu’à l’«amen» de la fin de l’Apocalypse, chaque Parole rend témoignage de
-Jésus-Christ.
-   C’est la raison pour laquelle ces livres apocryphes: le deuxième Livre de Daniel, le Livre des
-Macchabées, le Purgatoire, etc.… Il n’en est pas parlé dans les Ecritures. Ils ne sont pas centrés
-sur le même thème que le reste de la Bible. Là, on ne trouve aucune mention du purgatoire, ni de
-l’intercession des saints, etc. Il n’y a pas de place pour ces choses dans la Bible. Il n’y a pas de
-place pour les dénominations et les credo. Lorsque vous voyez ces choses, vous pouvez constater
-qu’elles ne trouvent pas de place dans la Bible.
-   Et c’est pour cela que les gens, en ajoutant toutes ces choses, ont fait de la Parole une espèce
-de puzzle confus. Ils ne peuvent pas comprendre: “… le même hier, aujourd’hui et éternellement”.
-Mais, si l’assemblage est fait correctement, alors on peut voir se dérouler complètement tout le
-plan, de la chute à la régénération, toute l’histoire de la création, tout le plan de Dieu révélé en
-Jésus-Christ. Amen! Alors, toutes les pièces sont assemblées et s’imbriquent bien les unes dans
-les autres. C’est comme… Je ne veux pas faire une comparaison sacrilège, mais tout cela
-ressemble à un puzzle correctement assemblé. Voilà pourquoi nous avons des choses aussi
-horribles, aujourd’hui! Il ne suffit pas de dire: «Je suis un croyant!». — c’est comme si on voyait
-une vache paître au sommet d’un arbre! Il y a quelque chose qui ne va pas! Quand vous dites: «Il
-est le même hier, aujourd’hui et éternellement, sauf pour ceci…», alors, vous détruisez tout. La
-Bible dit qu’Il est le même.
-   Dans Jean 14.12, Il dit: “… celui…” celui — quiconque. “… celui qui croit en moi fera aussi les
-oeuvres que je fais…”.
-   «Oui, mais cela était pour un autre âge!».
-   Et voilà comment vous déformez de nouveau les choses! Vous envoyez un homme pêcher
-dans le désert, où il n’y a pas de poisson, mais rien que du sable chaud! Vous comprenez?
-Ramenez-le plutôt en Galilée, où il y a abondance de poisson! Vous devez assembler les pièces
-correctement. C’est le glorieux plan de Dieu, et vous ne pouvez le comprendre que lorsque vous
-voyez Jésus-Christ. Toute la Bible est là. Il est le thème principal de la Bible.
-   Vous comprenez bien que l’on pourrait prendre un sujet n’importe où dans la Bible, et il est
-difficile pour un prédicateur de se fixer des limites. Il pourrait continuer sans arrêt, mais il faut bien
-revenir au sujet qui sert de base à la prédication.
-   Dans l’histoire de la Bible… La Bible est un Livre prophétique; Elle est un Livre historique; Elle
-est un Livre d’amour; Elle est un Livre de cantiques; Elle est un Livre de Vie, et c’est en Elle que
-vous trouvez Christ. Il est dans les prophètes; Il est dans les Psaumes; Il est dans l’histoire; Il est
-aussi dans la Bible, dans les choses qui doivent encore arriver. Ainsi donc, Il était avant, et Il est
-après. Alors qu’est-Il? — Il est le même hier, aujourd’hui et éternellement!
-   Frère Lee, si vous y introduisez quelque chose qui fait qu’Il n’est pas le Même hier, aujourd’hui
-et éternellement, alors où irez-vous? — vous en faites quelque chose d’épouvantable! Car Il était
-l’histoire, et Il est le Prophète; Il est les Psaumes; Il est tout. Et si pour vous Il n’est pas tout, et
-toujours le même, alors à quoi ressemblera votre puzzle? Vous voyez? — Bien!
-   Il est le même. Il était les prophètes — Il était en eux; Il était dans les Psaumes; Il était dans
-l’histoire; Il est aussi les choses à venir — le Même hier, aujourd’hui et éternellement (Hébreux 13.8, si
 
-        http://www.cmpp.ch
+Vous ne pouvez faire se contredire les Ecritures! “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu… Et la Parole a été faite chair…”. Vous comprenez?
+
+Mais Il dit aussi: “Sondez les Ecritures; Elles témoignent de Moi. Vous pensez qu’en Elles vous avez la Vie Eternelle (et c’est vrai). Elles me rendent témoignage, et Je leur rends témoignage. Si je ne fais pas les oeuvres que J’ai promis de faire, alors, ne m’écoutez pas. Mais si Je fais les oeuvres et que vous ne me croyez pas, croyez aux oeuvres, car elles témoignent qu’Il est la Parole”.
+
+Il semble qu’il ne soit pas possible d’être plus clair! Vous comprenez? Bien! Sondons maintenant les Ecritures. Il dit que Moïse, la loi, les Prophètes, les Psaumes, etc., tous parlent de Lui, et Il répète que les Ecritures Lui rendent témoignage.
+
+Il est le thème principal de la Bible tout entière. Si vous lisez la Bible, sans voir Christ dans chacun de ses versets, alors relisez-la! Comprenez-vous? Si vous ne pouvez voir Christ dans chaque verset de la Bible, alors relisez-la, parce que quelque chose vous a échappé! La Bible est Christ. il est la Parole. Quand vous lisez: “Au commencement, Dieu créa…”. — c’est Christ. Depuis là jusqu’à l’«amen» de la fin de l’Apocalypse, chaque Parole rend témoignage de Jésus-Christ.
+
+C’est la raison pour laquelle ces livres apocryphes: le deuxième Livre de Daniel, le Livre des Macchabées, le Purgatoire, etc.… Il n’en est pas parlé dans les Ecritures. Ils ne sont pas centrés sur le même thème que le reste de la Bible. Là, on ne trouve aucune mention du purgatoire, ni de l’intercession des saints, etc. Il n’y a pas de place pour ces choses dans la Bible. Il n’y a pas de place pour les dénominations et les credo. Lorsque vous voyez ces choses, vous pouvez constater qu’elles ne trouvent pas de place dans la Bible.
+
+Et c’est pour cela que les gens, en ajoutant toutes ces choses, ont fait de la Parole une espèce de puzzle confus. Ils ne peuvent pas comprendre: “… le même hier, aujourd’hui et éternellement”. Mais, si l’assemblage est fait correctement, alors on peut voir se dérouler complètement tout le plan, de la chute à la régénération, toute l’histoire de la création, tout le plan de Dieu révélé en Jésus-Christ. Amen! Alors, toutes les pièces sont assemblées et s’imbriquent bien les unes dans les autres. C’est comme… Je ne veux pas faire une comparaison sacrilège, mais tout cela ressemble à un puzzle correctement assemblé. Voilà pourquoi nous avons des choses aussi horribles, aujourd’hui! Il ne suffit pas de dire: «Je suis un croyant!». — c’est comme si on voyait une vache paître au sommet d’un arbre! Il y a quelque chose qui ne va pas! Quand vous dites: «Il est le même hier, aujourd’hui et éternellement, sauf pour ceci…», alors, vous détruisez tout. La Bible dit qu’Il est le même.
+
+Dans Jean 14.12, Il dit: “… celui…” celui — quiconque. “… celui qui croit en moi fera aussi les oeuvres que je fais…”
+
+«Oui, mais cela était pour un autre âge!»
+
+Et voilà comment vous déformez de nouveau les choses! Vous envoyez un homme pêcher dans le désert, où il n’y a pas de poisson, mais rien que du sable chaud! Vous comprenez? Ramenez-le plutôt en Galilée, où il y a abondance de poisson! Vous devez assembler les pièces correctement. C’est le glorieux plan de Dieu, et vous ne pouvez le comprendre que lorsque vous voyez Jésus-Christ. Toute la Bible est là. Il est le thème principal de la Bible.
+
+Vous comprenez bien que l’on pourrait prendre un sujet n’importe où dans la Bible, et il est difficile pour un prédicateur de se fixer des limites. Il pourrait continuer sans arrêt, mais il faut bien revenir au sujet qui sert de base à la prédication.
+
+Dans l’histoire de la Bible… La Bible est un Livre prophétique; Elle est un Livre historique; Elle est un Livre d’amour; Elle est un Livre de cantiques; Elle est un Livre de Vie, et c’est en Elle que vous trouvez Christ. Il est dans les prophètes; Il est dans les Psaumes; Il est dans l’histoire; Il est aussi dans la Bible, dans les choses qui doivent encore arriver. Ainsi donc, Il était avant, et Il est après. Alors qu’est-Il? — Il est le même hier, aujourd’hui et éternellement!
+
+Frère Lee, si vous y introduisez quelque chose qui fait qu’Il n’est pas le Même hier, aujourd’hui et éternellement, alors où irez-vous? — vous en faites quelque chose d’épouvantable! Car Il était l’histoire, et Il est le Prophète; Il est les Psaumes; Il est tout. Et si pour vous Il n’est pas tout, et toujours le même, alors à quoi ressemblera votre puzzle? Vous voyez? — Bien!
+
+Il est le même. Il était les prophètes — Il était en eux; Il était dans les Psaumes; Il était dans l’histoire; Il est aussi les choses à venir — le Même hier, aujourd’hui et éternellement (Hébreux 13.8, si
+
+http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 12
 vous voulez le noter). S’Il est tout cela pour nous, — nous le croyons, n’est-ce pas? — alors, Il
@@ -795,9 +485,9 @@ mourant afin de racheter l’Epouse qui était perdue, parce qu’elle L’avait
    Lorsqu’Eve abandonna la Parole, elle abandonna son compagnon. Et quand l’Eglise s’éloigne
 de la Parole pour entrer dans une dénomination, elle rejette l’autorité de la Parole de Dieu pour
 commettre adultère avec le monde et la sagesse humaine. Cela est-il clair pour vous? C’est la
-Bible qui appelle cela l’adultère spirituel. Chaque fois que l’on rejette une Parole de la Bible ou
-que l’on y applique son interprétation personnelle, on commet adultère contre ce Dieu qui
-est notre Epoux, et on Le rejette. Et nous savons qu’un adultère n’entrera jamais dans le
+Bible qui appelle cela l’adultère spirituel. Chaque fois que l’on rejette une Parole de la Bible
+ou que l’on y applique son interprétation personnelle, on commet adultère contre ce Dieu
+qui est notre Epoux, et on Le rejette. Et nous savons qu’un adultère n’entrera jamais dans le
 Royaume des Cieux. Et vous voyez que c’est la première chose qu’Eve ait faite.
    Remarquez encore ceci. Quel est ce triple dessein? — Se manifester Lui-même en
 Jésus-Christ; entrer dans le Corps de Jésus-Christ pour avoir la prééminence sur quoi? — pour
@@ -869,8 +559,8 @@ de l’Eglise. Remarquez ceci, maintenant. Lorsque Dieu ouvrit le côté d’Ada
 en faire sa chair et son sang, il sépara d’Adam l’esprit féminin de l’esprit masculin, et mit l’esprit
 féminin dans Eve; c’est ce qu’Il fit, lorsqu’il prit une côte d’Adam et en forma Eve. Dieu fit la même
 chose, lorsqu’Il fit sortir du flanc de Christ le Sang et l’eau (Christ étant la Parole), et prit la Parole
-pour former Son Eglise, dont Eve est l’image. Elle retourne à Lui, rachetée par le Sang qui sortit de
-Son Corps! Comprenez-vous cela? C’est la révélation du grand mystère de Dieu qui avait été
+pour former Son Eglise, dont Eve est l’image. Elle retourne à Lui, rachetée par le Sang qui sortit
+de Son Corps! Comprenez-vous cela? C’est la révélation du grand mystère de Dieu qui avait été
 caché dès la fondation du monde, mais qui fut préfiguré tout au long des âges. Et nous
 découvrons qu’Il a fait tout cela. Et nous pouvons lire dans l’épître aux Ephésiens… Mais cela
 nous donnera suffisamment…
@@ -909,296 +599,75 @@ chose.
     http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 17
-   Il S’exprima en Joseph. Joseph était né au sein des dénominations (ses frères). Ils le haïssaient
-sans raison, parce qu’il était spirituel. Il avait des visions. Dieu était avec lui. Il pouvait interpréter
-les songes — ses frères le haïssaient. Il fut vendu par ses frères pour environ vingt pièces
-d’argent, exactement comme Jésus qui fut vendu par Judas Iscariote (l’un de Ses frères), pour
-trente pièces d’argent.
-   Il fut jeté dans une citerne où il passa pour mort. C’est vrai! Eux et leur père crurent qu’il était
-mort. Il fut jeté dans cette citerne, d’où on le retira, et fut placé à droite de Pharaon. Il fut jeté en
-prison, il y souffrit; il y avait deux hommes avec lui. Il y avait l’échanson et le panetier. L’un fut
-perdu et l’autre sauvé. C’est comme lorsqu’Il fut cloué sur la croix (c’était Sa prison) … cloué sur la
-croix pour nos péchés (nous devenons prisonniers) — L’un des voleurs fut perdu, et l’autre sauvé.
-Vous voyez comme cela correspond?
-   Ensuite, il fut mis à la droite de Pharaon, le roi qui avait eu la vision, et tout pouvoir lui fut donné
-en Egypte. Sa vision devait s’accomplir. Il aurait pu étudier longuement cette vision, pendant son
-séjour en prison, alors que sa barbe poussait, etc., mais il sut qu’un jour, sa vision devrait
-s’accomplir.
-   Même si le temps passe et qu’on ne voit rien, cela doit arriver. (J’ai parlé de cela l’autre soir,
-mercredi soir). Vous comprenez? Cela doit arriver. Quand c’est Dieu qui le dit, cela arrive. Quand il
-s’agit d’un prophète confirmé, il faut que ces choses arrivent, parce que c’est la Parole de Dieu, et
-que la Parole ne vient qu’aux prophètes. Le mot prophète signifie: celui qui révèle la Parole divine
-écrite. Il en est de même avec le voyant.
-   Remarquez que le voyant, lorsqu’il manifeste ses dons, est divinement confirmé — lorsqu’il
-prévoit les choses et que cela arrive. “Si quelqu’un qui se dit prophète vous annonce que certaines
-choses vont arriver, si cela n’arrive pas, ne l’écoutez pas. Mais si cela arrive, alors Je suis avec lui.
-Craignez-le, car Je suis avec lui”. Vous voyez? C’est exactement cela! Il y a la confirmation. C’est
-alors que vous savez si oui ou non c’est la vérité. Dieu parle à Son peuple au moyen de Sa Parole,
-par l’intermédiaire d’un homme.
-   Dieu ne parle qu’au travers de l’homme. “Je suis le cep; vous êtes les sarments”. Le cep ne
-porte pas de fruits. Seuls les sarments portent les fruits du cep. Vous pouvez remarquer qu’il en a
-toujours été ainsi.
-   Nous voyons que personne ne pouvait approcher Pharaon sans voir Joseph premièrement.
-Personne ne peut venir au Père, si ce n’est par le Fils. Et lorsque Joseph quittait le trône, on
-sonnait de la trompette, et tout genou devait fléchir devant lui. “Voici Joseph qui vient!”. Quelle
-gloire! Un jour, tout genou fléchira, toute langue confessera… lorsqu’Il quittera le trône de Son
-Père et S’avancera. Tous témoigneront qu’Il est le Fils de Dieu. Ou bien… A ce moment, il sera
-trop tard. Faites-le maintenant!
-   En examinant ces types… Nous pouvons même voir cette illustration dans le cas de David
-(dont j’ai parlé récemment), qui descendit du trône, abandonné de son peuple, et monta sur la
-même montagne (la montagne des Oliviers), en allant vers sa prison. Il alla vers sa prison, parce
-qu’il fut rejeté par ses frères et son peuple. Il y monta en pleurant. C’était l’Esprit de Christ en Lui
-qu’Ils rejetaient lorsque David pleurait sur Jérusalem, disant: “Jérusalem, combien de fois…”. Un
-roi rejeté. Huit cents ans plus tard, le Fils de David devait Se tenir là, au-dessus de Jérusalem. Il
-serait rejeté, et pleurerait sur Jérusalem, disant: “Maintenant, ton heure est venue”.
-Comprenez-vous cela?
-   Toutes ces choses étaient un type de ce qu’Il serait, mais pourtant, le mystère était encore
-caché. Ces hommes ne comprenaient pas ce qu’ils faisaient. Ils savaient seulement qu’ils étaient
-conduits par l’Esprit à faire quelque chose. Tout cela fut tenu caché jusqu’aux derniers jours où
-aurait lieu la grande révélation. Mais néanmoins, ils avaient exprimé ces choses. Il s’exprima
-Lui-même en Moïse, David, Joseph, Elie, et ainsi de suite. Nous pourrions examiner la vie de
-chacun de ces prophètes et montrer qu’elle exprimait parfaitement, exactement la vie de
-Jésus-Christ. Il ne révéla pourtant jamais Son secret complètement, mais attendit les derniers
-jours pour le faire connaître, selon Sa promesse, attendant que chaque chose soit parfaitement
-comprise avant de révéler le tout. S’Il avait révélé l’ensemble… parce que la Bible est écrite en
-énigmes; Jésus remercia le Père de ce que la Bible avait été écrite en énigmes.
-   Or, la venue du Seigneur est un mystère. Nous ne savons pas quand Il viendra, ni comment Il
-viendra, mais nous savons qu’Il viendra. Ainsi donc, tous les mystères de Dieu attendaient ce
+   Il S’exprima en Joseph. Joseph était né au sein des dénominations (ses frères). Ils le haïssaient sans raison, parce qu’il était spirituel. Il avait des visions. Dieu était avec lui. Il pouvait interpréter les songes — ses frères le haïssaient. Il fut vendu par ses frères pour environ vingt pièces d’argent, exactement comme Jésus qui fut vendu par Judas Iscariote (l’un de Ses frères), pour trente pièces d’argent.
+   Il fut jeté dans une citerne où il passa pour mort. C’est vrai! Eux et leur père crurent qu’il était mort. Il fut jeté dans cette citerne, d’où on le retira, et fut placé à droite de Pharaon. Il fut jeté en prison, il y souffrit; il y avait deux hommes avec lui. Il y avait l’échanson et le panetier. L’un fut perdu et l’autre sauvé. C’est comme lorsqu’Il fut cloué sur la croix (c’était Sa prison) … cloué sur la croix pour nos péchés (nous devenons prisonniers) — L’un des voleurs fut perdu, et l’autre sauvé. Vous voyez comme cela correspond?
+   Ensuite, il fut mis à la droite de Pharaon, le roi qui avait eu la vision, et tout pouvoir lui fut donné en Egypte. Sa vision devait s’accomplir. Il aurait pu étudier longuement cette vision, pendant son séjour en prison, alors que sa barbe poussait, etc., mais il sut qu’un jour, sa vision devrait s’accomplir.
+   Même si le temps passe et qu’on ne voit rien, cela doit arriver. (J’ai parlé de cela l’autre soir, mercredi soir). Vous comprenez? Cela doit arriver. Quand c’est Dieu qui le dit, cela arrive. Quand il s’agit d’un prophète confirmé, il faut que ces choses arrivent, parce que c’est la Parole de Dieu, et que la Parole ne vient qu’aux prophètes. Le mot prophète signifie: celui qui révèle la Parole divine écrite. Il en est de même avec le voyant.
+   Remarquez que le voyant, lorsqu’il manifeste ses dons, est divinement confirmé — lorsqu’il prévoit les choses et que cela arrive. “Si quelqu’un qui se dit prophète vous annonce que certaines choses vont arriver, si cela n’arrive pas, ne l’écoutez pas. Mais si cela arrive, alors Je suis avec lui. Craignez-le, car Je suis avec lui”. Vous voyez? C’est exactement cela! Il y a la confirmation. C’est alors que vous savez si oui ou non c’est la vérité. Dieu parle à Son peuple au moyen de Sa Parole, par l’intermédiaire d’un homme.
+   Dieu ne parle qu’au travers de l’homme. “Je suis le cep; vous êtes les sarments”. Le cep ne porte pas de fruits. Seuls les sarments portent les fruits du cep. Vous pouvez remarquer qu’il en a toujours été ainsi.
+   Nous voyons que personne ne pouvait approcher Pharaon sans voir Joseph premièrement. Personne ne peut venir au Père, si ce n’est par le Fils. Et lorsque Joseph quittait le trône, on sonnait de la trompette, et tout genou devait fléchir devant lui. “Voici Joseph qui vient!”. Quelle gloire! Un jour, tout genou fléchira, toute langue confessera… lorsqu’Il quittera le trône de Son Père et S’avancera. Tous témoigneront qu’Il est le Fils de Dieu. Ou bien… A ce moment, il sera trop tard. Faites-le maintenant!
+   En examinant ces types… Nous pouvons même voir cette illustration dans le cas de David (dont j’ai parlé récemment), qui descendit du trône, abandonné de son peuple, et monta sur la même montagne (la montagne des Oliviers), en allant vers sa prison. Il alla vers sa prison, parce qu’il fut rejeté par ses frères et son peuple. Il y monta en pleurant. C’était l’Esprit de Christ en Lui qu’Ils rejetaient lorsque David pleurait sur Jérusalem, disant: “Jérusalem, combien de fois…”. Un roi rejeté. Huit cents ans plus tard, le Fils de David devait Se tenir là, au-dessus de Jérusalem. Il serait rejeté, et pleurerait sur Jérusalem, disant: “Maintenant, ton heure est venue”. Comprenez-vous cela?
+   Toutes ces choses étaient un type de ce qu’Il serait, mais pourtant, le mystère était encore caché. Ces hommes ne comprenaient pas ce qu’ils faisaient. Ils savaient seulement qu’ils étaient conduits par l’Esprit à faire quelque chose. Tout cela fut tenu caché jusqu’aux derniers jours où aurait lieu la grande révélation. Mais néanmoins, ils avaient exprimé ces choses. Il s’exprima Lui-même en Moïse, David, Joseph, Elie, et ainsi de suite. Nous pourrions examiner la vie de chacun de ces prophètes et montrer qu’elle exprimait parfaitement, exactement la vie de Jésus-Christ. Il ne révéla pourtant jamais Son secret complètement, mais attendit les derniers jours pour le faire connaître, selon Sa promesse, attendant que chaque chose soit parfaitement comprise avant de révéler le tout. S’Il avait révélé l’ensemble… parce que la Bible est écrite en énigmes; Jésus remercia le Père de ce que la Bible avait été écrite en énigmes.
+   Or, la venue du Seigneur est un mystère. Nous ne savons pas quand Il viendra, ni comment Il viendra, mais nous savons qu’Il viendra. Ainsi donc, tous les mystères de Dieu attendaient ce
 
         http://www.cmpp.ch
 
     CHRIST EST LA REVELATION DU MYSTERE DE DIEU    18
-dernier jour. Après que cela ait été accompli, Il le révèle, Il montre ce qu’Il a fait. Il ne révéla jamais
-complètement Son mystère.
-   C’est exactement ce que nous pouvons voir dans les Sept Sceaux. Lorsque Dieu utilisa Martin
-Luther pour faire sortir cette première église (cet âge de l’église), lorsqu’Il utilisa John Wesley, Il
-les fit sortir progressivement, apportant progressivement la révélation pour l’âge de l’église dans
-lequel ils vivaient. Tout le monde peut parcourir la Bible et découvrir… Mais dans les derniers
-jours…
-   C’est parce que ce serait quelque chose d’absolument extraordinaire qu’Il en parla ici et montra
-ces sept Tonnerres, et que les journaux Look et Life (j’en ai un exemplaire ici) ont montré la photo
-de ce “cercle de nuages et de lumière”, dont ils ne comprirent pas le sens et dont ils ne
-comprennent toujours pas le sens… Mais Il me dit: «Va là-bas et attends jusqu’à ce que ces
-mystères soient révélés». Il me fallut attendre plusieurs mois, mais alors, tout se passa
-exactement comme Il l’avait dit.
-   En regardant cette photo, avez-vous remarqué cet Ange sur la droite, lorsqu’Il fut matérialisé et
-qu’Il descendit, Ses ailes étendues vers l’arrière, et Sa tête penchée de côté? On peut voir cela sur
-la photo. C’est exact; des mois avant que cela n’arrive, Il dit ici qu’Il rassemblera le Corps des
-croyants pour révéler… qu’Il rassemblera tous ceux qui manquent encore.
-   Luther apparut. Il ne prêcha que la justification dans cet âge. Il ne savait pas de quel âge il
-s’agissait. Ensuite, ce fut le tour de Wesley, qui apporta le message à son âge. Cependant,
-beaucoup de fausses doctrines demeurèrent, et beaucoup d’églises se fondèrent sur elles. Ensuite
-vint la Pentecôte. Ils s’organisèrent et retournèrent bientôt dans la mort (comme nous allons le voir
-dans quelques instants) — Ils retournèrent dans la mort.
-   Enfin, vient la révélation des mystères, qui nous montre toutes ces choses, d’où viennent toutes
-ces petites doctrines, comment Luther institua son catéchisme, comment Wesley apporta ceci et
-cela comment les Pentecôtistes s’organisèrent, instituèrent leur baptême au Nom “du Père, du Fils
-et du Saint-Esprit”, etc., ne connaissant pas la Vérité. … Ensuite viennent les derniers jours, où
-tous ces mystères sont rassemblés et clairement révélés. Pourquoi cela? Parce que c’est dans les
-derniers jours que le glorieux mystère que Dieu avait caché dans Son coeur doit être révélé.
-   Comprenez-vous cela? Si ce n’est pas le cas, écoutez la bande encore une fois. Je ne
-sais pas combien de temps je passerai encore parmi vous, mais rappelez-vous ceci, c’est la
-Vérité du AINSI DIT LE SEIGNEUR. C’est la Vérité. C’est conforme à l’Ecriture.
-   Voyez aussi les mystères des Sept Sceaux. Les Sceaux ont été brisés, chaque âge a été
-révélé, montrant que beaucoup de choses ont été dispersées. Mais Dieu, ne voulant pas que tout
-soit dispersé, vint et ramena toutes ces choses, toutes ces doctrines, les rassembla et révéla tout
-à ce sujet. C’est exactement ce qu’Il fait maintenant, en révélant le mystère de Christ, Son triple
-dessein envers l’Eglise. Oh, mon Dieu! montre-nous! révèle!
-   Webster dit ceci: «Révéler, c’est faire connaître — faire connaître, et spécialement (selon
-Webster), la vérité Divine». Voilà ce que signifie le mot révélation. La Révélation c’est le moyen
-qu’utilise Christ pour Se faire connaître à Son Eglise.
-   Mais vous direz: «Frère Branham, vous dites cela…». Nous dirons simplement ceci…
-Remarquez qu’Il se fit connaître à Pierre… Si vous voulez noter ce passage afin de le lire… (nous
-pouvons le lire, si vous le désirez). Il s’agit de Matthieu 16.13-17. Lorsqu’Il descendit de la
-Montagne de la Transfiguration Il demanda: “Qui dit-on que je suis, moi, le Fils de l’homme?”.
-   — “Les uns disent que Tu es Jean-Baptiste; les autres, Elie; les autres, Jérémie, ou l’un des
-prophètes”.
-   Mais ce n’était pas ce qu’Il avait demandé. Il demanda encore: “Et vous, qui dites-vous que je
-suis?”. Maintenant, Il parle à l’église. Vous comprenez? “Qui dit-on que je suis?”.
-   Aujourd’hui, on dit: «C’est un philosophe». — ou en fait une religion sociale. «C’est un homme
-plein de bonté. Nous croyons que Son enseignement est la vérité. C’est une manière de vivre. Je
-pense que nous serions meilleurs, si nous L’écoutions. Nous devrions avoir nos églises, etc»… On
-fait de Lui un bon Père Noël, et de la Bible un joli conte de Noël.
-   Ce n’est pas au travers d’une église que l’on peut expliquer quelque chose. C’est une vie que
-vous ne vivez pas vous-même, mais Lui vient en vous et vit par Lui-même, et vous devenez un
-prisonnier par rapport à tout votre être intellectuel. Vous êtes conduit par l’Esprit. Et comment le
-savez-vous?
+derrier jour. Après que cela ait été accompli, Il le révèle, Il montre ce qu’Il a fait. Il ne révéla jamais complètement Son mystère.
+   C’est exactement ce que nous pouvons voir dans les Sept Sceaux. Lorsque Dieu utilisa Martin Luther pour faire sortir cette première église (cet âge de l’église), lorsqu’Il utilisa John Wesley, Il les fit sortir progressivement, apportant progressivement la révélation pour l’âge de l’église dans lequel ils vivaient. Tout le monde peut parcourir la Bible et découvrir… Mais dans les derniers jours…
+   C’est parce que ce serait quelque chose d’absolument extraordinaire qu’Il en parla ici et montra ces sept Tonnerres, et que les journaux Look et Life (j’en ai un exemplaire ici) ont montré la photo de ce “cercle de nuages et de lumière”, dont ils ne comprirent pas le sens et dont ils ne comprennent toujours pas le sens… Mais Il me dit: «Va là-bas et attends jusqu’à ce que ces mystères soient révélés». Il me fallut attendre plusieurs mois, mais alors, tout se passa exactement comme Il l’avait dit.
+   En regardant cette photo, avez-vous remarqué cet Ange sur la droite, lorsqu’Il fut matérialisé et qu’Il descendit, Ses ailes étendues vers l’arrière, et Sa tête penchée de côté? On peut voir cela sur la photo. C’est exact; des mois avant que cela n’arrive, Il dit ici qu’Il rassemblera le Corps des croyants pour révéler… qu’Il rassemblera tous ceux qui manquent encore.
+   Luther apparut. Il ne prêcha que la justification dans cet âge. Il ne savait pas de quel âge il s’agissait. Ensuite, ce fut le tour de Wesley, qui apporta le message à son âge. Cependant, beaucoup de fausses doctrines demeurèrent, et beaucoup d’églises se fondèrent sur elles. Ensuite vint la Pentecôte. Ils s’organisèrent et retournèrent bientôt dans la mort (comme nous allons le voir dans quelques instants) — Ils retournèrent dans la mort.
+   Enfin, vient la révélation des mystères, qui nous montre toutes ces choses, d’où viennent toutes ces petites doctrines, comment Luther institua son catéchisme, comment Wesley apporta ceci et cela comment les Pentecôtistes s’organisèrent, instituèrent leur baptême au Nom “du Père, du Fils et du Saint-Esprit”, etc., ne connaissant pas la Vérité. … Ensuite viennent les derniers jours, où tous ces mystères sont rassemblés et clairement révélés. Pourquoi cela? Parce que c’est dans les derniers jours que le glorieux mystère que Dieu avait caché dans Son coeur doit être révélé.
+   Comprenez-vous cela? Si ce n’est pas le cas, écoutez la bande encore une fois. Je ne sais pas combien de temps je passerai encore parmi vous, mais rappelez-vous ceci, c’est la Vérité du AINSI DIT LE SEIGNEUR. C’est la Vérité. C’est conforme à l’Ecriture.
+   Voyez aussi les mystères des Sept Sceaux. Les Sceaux ont été brisés, chaque âge a été révélé, montrant que beaucoup de choses ont été dispersées. Mais Dieu, ne voulant pas que tout soit dispersé, vint et ramena toutes ces choses, toutes ces doctrines, les rassembla et révéla tout à ce sujet. C’est exactement ce qu’Il fait maintenant, en révélant le mystère de Christ, Son triple dessein envers l’Eglise. Oh, mon Dieu! montre-nous! révèle!
+   Webster dit ceci: «Révéler, c’est faire connaître — faire connaître, et spécialement (selon Webster), la vérité Divine». Voilà ce que signifie le mot révélation. La Révélation c’est le moyen qu’utilise Christ pour Se faire connaître à Son Eglise.
+   Mais vous direz: «Frère Branham, vous dites cela…». Nous dirons simplement ceci… Remarquez qu’Il se fit connaître à Pierre… Si vous voulez noter ce passage afin de le lire… (nous pouvons le lire, si vous le désirez). Il s’agit de Matthieu 16.13-17. Lorsqu’Il descendit de la Montagne de la Transfiguration Il demanda: “Qui dit-on que je suis, moi, le Fils de l’homme?”.
+   — “Les uns disent que Tu es Jean-Baptiste; les autres, Elie; les autres, Jérémie, ou l’un des prophètes”.
+   Mais ce n’était pas ce qu’Il avait demandé. Il demanda encore: “Et vous, qui dites-vous que je suis?”. Maintenant, Il parle à l’église. Vous comprenez? “Qui dit-on que je suis?”.
+   Aujourd’hui, on dit: «C’est un philosophe». — ou en fait une religion sociale. «C’est un homme plein de bonté. Nous croyons que Son enseignement est la vérité. C’est une manière de vivre. Je pense que nous serions meilleurs, si nous L’écoutions. Nous devrions avoir nos églises, etc»… On fait de Lui un bon Père Noël, et de la Bible un joli conte de Noël.
+   Ce n’est pas au travers d’une église que l’on peut expliquer quelque chose. C’est une vie que vous ne vivez pas vous-même, mais Lui vient en vous et vit par Lui-même, et vous devenez un prisonnier par rapport à tout votre être intellectuel. Vous êtes conduit par l’Esprit. Et comment le savez-vous?
 
     http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 19
-   Vous pourriez dire: «Je devrais m’apercevoir que j’ai perdu mon propre esprit. Peut-être qu’un
-homme qui perd l’esprit s’en aperçoit». Mais, si vous avez la pensée de Christ, alors Christ
-S’exprime Lui-même au travers de vous. Il montre qu’il s’agit de Lui, et non pas… vous n’avez pas
-perdu votre esprit. Certaines personnes, sous l’influence de leurs illusions, finissent par perdre
-l’esprit. Nous savons que cela est mauvais. C’est le diable qui essaie d’imiter la chose réelle avant
-qu’elle puisse prendre sa place. C’est toujours une falsification. Vous voyez? Mais un homme sain
-d’esprit perdra ses propres idées et sa propre pensée, sans pour autant devenir fou. Non,
-monsieur! Vous venez avec vos propres sens, et Christ vient, prend la relève et S’exprime
-Lui-même au travers de vous. Mais maintenant, pour le monde, vous êtes un fou. Or, si vous êtes
-fou, réellement fou, alors il n’y a rien… le diable ne peut pas vous prendre complètement sous sa
-domination. Il vous fera faire toutes sortes de choses contraires à la Parole, mais lorsque Christ
-prend la relève, Il exprime Sa Parole au travers de vous, parce qu’Elle est Lui. Il est la Parole!
-Vous pouvez donc voir l’expression de Christ. Ce n’est pas une illusion quelconque, mais c’est le
-véritable Christ S’exprimant au travers de vous. Comme cela est beau!
-   Mais observez ceci: Il a demandé: “Qui dites-vous que Je suis?”. Cela, Il le demande à l’Eglise
-— à Ses douze. Non pas aux millions de ceux qui vivaient en ce temps-là, mais aux douze — à
-Son Eglise.
-   D’entre les millions de ceux qui vivaient du temps de Noé, Il le demanda à huit personnes. Vous
-voyez? Il dit: “Comme il en fut aux jours de Noé, de même il en sera aux jours du Fils de l’homme,
-où huit âmes furent sauvées”. Je ne dis pas qu’il y en aura huit de sauvés, n’allez pas
-comprendre de travers! Ce n’est pas ce que j’ai voulu dire. Je ne sais pas combien seront
-sauvés jusqu’au dernier moment, au jour de l’Enlèvement de ce petit groupe. Mais ce sera
-un petit groupe, c’est moi qui vous le dis! “Car étroite est la porte, resserré le passage, et il y en a
-peu qui le trouveront”.
-   Mais lorsque, ce glorieux Corps racheté au travers des âges se relèvera, alors ce sera une
-grande foule! C’est Apocalypse 7 qui le dit: “… une grande foule que personne ne pouvait
-compter…”. Ils viendront de tous les âges, tous ceux qui ont marché à la Lumière de la Bible dans
-la mesure où Elle leur avait été révélée. Et nous savons maintenant que Wesley avait plus de
-Lumière que Luther, que les Pentecôtistes en reçurent plus que Wesley. Vous comprenez? C’est
-bien comme cela, car la Lumière s’est répandue peu à peu au travers des prophètes, jusqu’à ce
-que tout ait été révélé — la divinité habitant corporellement en Christ.
-   Et maintenant, le Christ qui est dans l’Eglise vient d’être révélé. Tout cela, c’est la révélation de
-Christ qui ramène Eve à sa première situation auprès de son époux. Et Dieu est l’Epoux de
-l’Eglise, et l’Eglise est Son Epouse.
+   Vous pourriez dire: «Je devrais m’apercevoir que j’ai perdu mon propre esprit. Peut-être qu’un homme qui perd l’esprit s’en aperçoit». Mais, si vous avez la pensée de Christ, alors Christ S’exprime Lui-même au travers de vous. Il montre qu’il s’agit de Lui, et non pas… vous n’avez pas perdu votre esprit. Certaines personnes, sous l’influence de leurs illusions, finissent par perdre l’esprit. Nous savons que cela est mauvais. C’est le diable qui essaie d’imiter la chose réelle avant qu’elle puisse prendre sa place. C’est toujours une falsification. Vous voyez? Mais un homme sain d’esprit perdra ses propres idées et sa propre pensée, sans pour autant devenir fou. Non, monsieur! Vous venez avec vos propres sens, et Christ vient, prend la relève et S’exprime Lui-même au travers de vous. Mais maintenant, pour le monde, vous êtes un fou. Or, si vous êtes fou, réellement fou, alors il n’y a rien… le diable ne peut pas vous prendre complètement sous sa domination. Il vous fera faire toutes sortes de choses contraires à la Parole, mais lorsque Christ prend la relève, Il exprime Sa Parole au travers de vous, parce qu’Elle est Lui. Il est la Parole! Vous pouvez donc voir l’expression de Christ. Ce n’est pas une illusion quelconque, mais c’est le véritable Christ S’exprimant au travers de vous. Comme cela est beau!
+   Mais observez ceci: Il a demandé: “Qui dites-vous que Je suis?”. Cela, Il le demande à l’Eglise — à Ses douze. Non pas aux millions de ceux qui vivaient en ce temps-là, mais aux douze — à Son Eglise.
+   D’entre les millions de ceux qui vivaient du temps de Noé, Il le demanda à huit personnes. Vous voyez? Il dit: “Comme il en fut aux jours de Noé, de même il en sera aux jours du Fils de l’homme, où huit âmes furent sauvées”. Je ne dis pas qu’il y en aura huit de sauvés, n’allez pas comprendre de travers! Ce n’est pas ce que j’ai voulu dire. Je ne sais pas combien seront sauvés jusqu’au dernier moment, au jour de l’Enlèvement de ce petit groupe. Mais ce sera un petit groupe, c’est moi qui vous le dis! “Car étroite est la porte, resserré le passage, et il y en a peu qui le trouveront”.
+   Mais lorsque, ce glorieux Corps racheté au travers des âges se relèvera, alors ce sera une grande foule! C’est Apocalypse 7 qui le dit: “… une grande foule que personne ne pouvait compter…”. Ils viendront de tous les âges, tous ceux qui ont marché à la Lumière de la Bible dans la mesure où Elle leur avait été révélée. Et nous savons maintenant que Wesley avait plus de Lumière que Luther, que les Pentecôtistes en reçurent plus que Wesley. Vous comprenez? C’est bien comme cela, car la Lumière s’est répandue peu à peu au travers des prophètes, jusqu’à ce que tout ait été révélé — la divinité habitant corporellement en Christ.
+   Et maintenant, le Christ qui est dans l’Eglise vient d’être révélé. Tout cela, c’est la révélation de Christ qui ramène Eve à sa première situation auprès de son époux. Et Dieu est l’Epoux de l’Eglise, et l’Eglise est Son Epouse.
    Pierre, alors, répondit: “Tu es le Christ, le Fils du Dieu Vivant!”.
-   Maintenant, écoutez! “Tu es heureux, Simon, fils de Jonas; car ce ne sont pas la chair ni le
-sang qui t’ont révélé cela (tu ne l’as appris dans aucune école), mais c’est mon Père qui est dans
-les cieux”. Voyez ce qu’Il lui a encore dit: “… sur cette pierre…”. C’est Pierre, la semence
-prédestinée de Dieu, qui avait reçu cette Lumière, et qui reçut les clefs du Royaume. “Sur cette
-pierre de la révélation, qui montre qui est Jésus-Christ…”. Il est Dieu pleinement manifesté. “… Sur
-cette pierre…”. Il ne s’agit pas du Père, du Fils et du Saint-Esprit. Lui-même étant la seconde
-Personne, mais: “… Sur cette pierre, je bâtirai mon Eglise, et les portes du séjour des morts ne
-prévaudront point contre elle”. Vous comprenez? “… Je bâtirai Mon Eglise sur cette pierre…”. —
-sur la révélation de Jésus-Christ.
-   Vous voyez donc que Christ en vous fait de Lui le centre de cette Vie de révélation. La Vie de
-Christ en vous fait de Lui le centre de la révélation. Christ dans la Bible fait de la Bible une
-révélation complète de Christ. Christ en vous fait de vous la révélation complète de toutes ces
-choses. Comprenez-vous ce que Dieu essaie de faire?
-   Alors, qu’est-ce que la nouvelle naissance? Vous demandez: «Eh bien, frère Branham,
-qu’est-ce que la nouvelle naissance?». — «C’est Jésus-Christ qui se révèle personnellement à
-vous!». Amen! Comprenez-vous? Ce n’est pas, lorsque vous vous joignez à une église, que vous
-serrez des mains, que vous faites toutes sortes de choses, que vous proclamez un credo, que
-vous promettez de vivre selon certain code moral. Non, mais Christ, c’est la Bible. Il est la
-Parole qui vous a été révélée. Peu importe ce que disent les gens, et ce qui peut arriver — c’est
+   Maintenant, écoutez! “Tu es heureux, Simon, fils de Jonas; car ce ne sont pas la chair ni le sang qui t’ont révélé cela (tu ne l’as appris dans aucune école), mais c’est mon Père qui est dans les cieux”. Voyez ce qu’Il lui a encore dit: “… sur cette pierre…”. C’est Pierre, la semence prédestinée de Dieu, qui avait reçu cette Lumière, et qui reçut les clefs du Royaume. “Sur cette pierre de la révélation, qui montre qui est Jésus-Christ…”. Il est Dieu pleinement manifesté. “… Sur cette pierre…”. Il ne s’agit pas du Père, du Fils et du Saint-Esprit. Lui-même étant la seconde Personne, mais: “… Sur cette pierre, je bâtirai mon Eglise, et les portes du séjour des morts ne prévaudront point contre elle”. Vous comprenez? “… Je bâtirai Mon Eglise sur cette pierre…”. — sur la révélation de Jésus-Christ.
+   Vous voyez donc que Christ en vous fait de Lui le centre de cette Vie de révélation. La Vie de Christ en vous fait de Lui le centre de la révélation. Christ dans la Bible fait de la Bible une révélation complète de Christ. Christ en vous fait de vous la révélation complète de toutes ces choses. Comprenez-vous ce que Dieu essaie de faire?
+   Alors, qu’est-ce que la nouvelle naissance? Vous demandez: «Eh bien, frère Branham, qu’est-ce que la nouvelle naissance?». — «C’est Jésus-Christ qui se révèle personnellement à vous!». Amen! Comprenez-vous? Ce n’est pas, lorsque vous vous joignez à une église, que vous serrez des mains, que vous faites toutes sortes de choses, que vous proclamez un credo, que vous promettez de vivre selon certain code moral. Non, mais Christ, c’est la Bible. Il est la Parole qui vous a été révélée. Peu importe ce que disent les gens, et ce qui peut arriver — c’est
 
         http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 20
-Christ qui compte. Pasteurs, prédicateurs, qui que ce soit qui dise quoi que ce soit… vous avez
-Christ en vous. C’est cela, la révélation sur laquelle l’Eglise a été bâtie.
-   Vous pouvez bien dire: «Je suis un Luthérien, ou un Baptiste, ou un Presbytérien», cela n’a pas
-plus de sens que cela [frère Branham fait claquer ses doigts — N.d.R.] devant Dieu, cela n’a pas
-plus de valeur qu’un claquement de doigts. Alors quoi? — Il faut que ce soit Christ révélé, et Il est
-la Parole. Et lorsque la Parole est révélée, Elle S’exprime. Vous comprenez? Le dessein de Dieu
-en ce qui concerne Jésus-Christ, c’était de S’exprimer Lui-même, de Se soumettre à Ses
-propres lois, de vivre par Ses propres Lois, et d’accomplir Ses lois jusqu’à la mort. En
-Christ, Dieu est mort dans la chair, afin de condamner le péché dans la chair, pour qu’Il pût
-ramener à Lui une Epouse glorieuse, rachetée, qui croira seulement ce que dit la Parole de Dieu,
-et qui ne La rejettera pas, comme Eve, pour se tourner vers les concepts intellectuels des
-hommes. Comprenez-vous cela?
-   Cela, c’est la pensée de Christ. C’est la pensée de Dieu. C’est cela que révèle la nouvelle
-naissance. Et si un homme dit qu’il est né de nouveau et qu’il essaie d’attribuer les promesses que
-Christ a faites pour ces derniers jours à un autre âge (faisant de Lui un Christ qui est le même hier,
-mais pas aujourd’hui), alors cet homme ou cette personne, est aveuglée par Satan. Et si cet
-homme affirme qu’il croit, et que cela ne se manifeste pas au travers de lui… Jésus a dit dans
-Marc 16: “Voici les miracles qui accompagneront ceux qui auront cru… par tout le monde, et dans
-chaque âge…”. Ils chasseront les démons, parleront en langues, et toutes ces glorieuses
-manifestations, ces dons, les accompagneront… Ils chasseront, Ils parleront, et non pas ils
-pourraient… ou ils devraient… Mais ils le feront. Les cieux et la terre passeront, mais Sa Parole
-ne passera pas!
-   Ainsi donc, c’est Christ Lui-même qui S’exprime au travers de l’individu, que celui-ci soit un
-intellectuel ou un illettré. La moitié des apôtres ne savaient pas écrire. Mais ils connaissaient
-Christ! Ils ne prirent pas Pierre et Jean en considération parce qu’ils auraient pu sortir d’un
-séminaire quelconque, mais ils les écoutèrent parce qu’ils avaient été avec Christ, lorsqu’Il avait
-guéri le paralytique près de la porte. Ils savaient que Pierre et Jean avaient été avec Christ.
-   La nouvelle naissance est la révélation de Christ. Dieu vous a révélé ce grand mystère, et c’est
-cela, la nouvelle naissance. Alors, qu’allez-vous faire, lorsque vous verrez ce groupe réuni, là où la
-révélation est en parfaite harmonie, et où Dieu l’exprime au travers de Sa Parole par les mêmes
-actions, de la même manière qu’autrefois, manifestant ainsi Sa Parole? Oh! Si seulement l’Eglise
-connaissait sa position! Elle la connaîtra un jour. Alors, ce sera l’Enlèvement — quand elle
-connaîtra sa position.
-   Remarquez ceci. Vous direz: «Mais, frère Branham, cela n’est pas». — Oui, c’est comme cela.
-C’est la Vérité.
-   Avez-vous remarqué que Paul n’a jamais vu Jésus dans la chair? Paul ne L’a jamais vu. Il ne
-L’a connu que par une révélation, par une vision. N’est-ce pas vrai? Paul n’a connu Jésus que par
-une révélation — tout comme Pierre, d’ailleurs!
-   Pierre L’avait vu dans la chair, mais il ne Le connaissait pas par la chair, parce que Jésus lui dit:
-“Ce ne sont pas la chair et le sang qui t’ont révélé cela. Ce n’est pas non plus Ma Vie qui te l’a
-révélé. C’est Mon Père qui est dans le Ciel, qui t’a révélé cela, te montrant qu’Il est la Parole de
-Dieu. Et c’est sur cette pierre que Je bâtirai Mon Eglise”. Ce n’est pas la chair qui Le révéla à
-Pierre.
-   Ces hommes Le virent et Le touchèrent, mais Paul avait quelque chose de plus grand que tous
-les apôtres. Ils lui disaient: “Paul, nous avons reçu plus de révélations que toi, parce que nous,
-nous avons été avec Lui. Un jour, je suis allé pêcher avec Lui. Je L’ai entendu parler. Il était assis
-dans une barque avec moi, et me dit: Allons pêcher à cet endroit-là, nous trouverons plus de
-poisson — et c’est ce qui est arrivé. Tu vois, nous L’avons vu faire ces choses”.
-   Mais Paul, lui, Le vit après qu’Il eût été mort, enseveli, ressuscité, et Il se manifesta dans cette
-Colonne de feu qui avait conduit les enfants d’Israël! Il savait… Paul, étant Juif, ne L’aurait jamais
-appelé “SEIGNEUR”, s’il n’avait pas compris qu’Il était le même hier, aujourd’hui et éternellement. Il
-dit: “Paul…”. En d’autres termes: “Je suis le même Dieu que Celui qui était hier. Me voici dans la
-même Lumière, la Colonne de feu à laquelle Moïse parla dans le buisson ardent”. Il n’est pas
-surprenant qu’il ait pu séparer la Loi de la Grâce, dans l’épître aux Hébreux. Il rencontra cette
-même Colonne de feu qui lui dit: “Je suis Jésus que tu persécutes!”.
+Christ qui compte. Pasteurs, prédicateurs, qui que ce soit qui dise quoi que ce soit… vous avez Christ en vous. C’est cela, la révélation sur laquelle l’Eglise a été bâtie.
+   Vous pouvez bien dire: «Je suis un Luthérien, ou un Baptiste, ou un Presbytérien», cela n’a pas plus de sens que cela [frère Branham fait claquer ses doigts — N.d.R.] devant Dieu, cela n’a pas plus de valeur qu’un claquement de doigts. Alors quoi? — Il faut que ce soit Christ révélé, et Il est la Parole. Et lorsque la Parole est révélée, Elle S’exprime. Vous comprenez? Le dessein de Dieu en ce qui concerne Jésus-Christ, c’était de S’exprimer Lui-même, de Se soumettre à Ses propres lois, de vivre par Ses propres Lois, et d’accomplir Ses lois jusqu’à la mort. En Christ, Dieu est mort dans la chair, afin de condamner le péché dans la chair, pour qu’Il pût ramener à Lui une Epouse glorieuse, rachetée, qui croira seulement ce que dit la Parole de Dieu, et qui ne La rejettera pas, comme Eve, pour se tourner vers les concepts intellectuels des hommes. Comprenez-vous cela?
+   Cela, c’est la pensée de Christ. C’est la pensée de Dieu. C’est cela que révèle la nouvelle naissance. Et si un homme dit qu’il est né de nouveau et qu’il essaie d’attribuer les promesses que Christ a faites pour ces derniers jours à un autre âge (faisant de Lui un Christ qui est le même hier, mais pas aujourd’hui), alors cet homme ou cette personne, est aveuglée par Satan. Et si cet homme affirme qu’il croit, et que cela ne se manifeste pas au travers de lui… Jésus a dit dans Marc 16: “Voici les miracles qui accompagneront ceux qui auront cru… par tout le monde, et dans chaque âge…”. Ils chasseront les démons, parleront en langues, et toutes ces glorieuses manifestations, ces dons, les accompagneront… Ils chasseront, Ils parleront, et non pas ils pourraient… ou ils devraient… Mais ils le feront. Les cieux et la terre passeront, mais Sa Parole ne passera pas!
+   Ainsi donc, c’est Christ Lui-même qui S’exprime au travers de l’individu, que celui-ci soit un intellectuel ou un illettré. La moitié des apôtres ne savaient pas écrire. Mais ils connaissaient Christ! Ils ne prirent pas Pierre et Jean en considération parce qu’ils auraient pu sortir d’un séminaire quelconque, mais ils les écoutèrent parce qu’ils avaient été avec Christ, lorsqu’Il avait guéri le paralytique près de la porte. Ils savaient que Pierre et Jean avaient été avec Christ.
+   La nouvelle naissance est la révélation de Christ. Dieu vous a révélé ce grand mystère, et c’est cela, la nouvelle naissance. Alors, qu’allez-vous faire, lorsque vous verrez ce groupe réuni, là où la révélation est en parfaite harmonie, et où Dieu l’exprime au travers de Sa Parole par les mêmes actions, de la même manière qu’autrefois, manifestant ainsi Sa Parole? Oh! Si seulement l’Eglise connaissait sa position! Elle la connaîtra un jour. Alors, ce sera l’Enlèvement — quand elle connaîtra sa position.
+   Remarquez ceci. Vous direz: «Mais, frère Branham, cela n’est pas». — Oui, c’est comme cela. C’est la Vérité.
+   Avez-vous remarqué que Paul n’a jamais vu Jésus dans la chair? Paul ne L’a jamais vu. Il ne L’a connu que par une révélation, par une vision. N’est-ce pas vrai? Paul n’a connu Jésus que par une révélation — tout comme Pierre, d’ailleurs!
+   Pierre L’avait vu dans la chair, mais il ne Le connaissait pas par la chair, parce que Jésus lui dit: “Ce ne sont pas la chair et le sang qui t’ont révélé cela. Ce n’est pas non plus Ma Vie qui te l’a révélé. C’est Mon Père qui est dans le Ciel, qui t’a révélé cela, te montrant qu’Il est la Parole de Dieu. Et c’est sur cette pierre que Je bâtirai Mon Eglise”. Ce n’est pas la chair qui Le révéla à Pierre.
+   Ces hommes Le virent et Le touchèrent, mais Paul avait quelque chose de plus grand que tous les apôtres. Ils lui disaient: “Paul, nous avons reçu plus de révélations que toi, parce que nous, nous avons été avec Lui. Un jour, je suis allé pêcher avec Lui. Je L’ai entendu parler. Il était assis dans une barque avec moi, et me dit: Allons pêcher à cet endroit-là, nous trouverons plus de poisson — et c’est ce qui est arrivé. Tu vois, nous L’avons vu faire ces choses”.
+   Mais Paul, lui, Le vit après qu’Il eût été mort, enseveli, ressuscité, et Il se manifesta dans cette Colonne de feu qui avait conduit les enfants d’Israël! Il savait… Paul, étant Juif, ne L’aurait jamais appelé “SEIGNEUR”, s’il n’avait pas compris qu’Il était le même hier, aujourd’hui et éternellement. Il dit: “Paul…”. En d’autres termes: “Je suis le même Dieu que Celui qui était hier. Me voici dans la même Lumière, la Colonne de feu à laquelle Moïse parla dans le buisson ardent”. Il n’est pas surprenant qu’il ait pu séparer la Loi de la Grâce, dans l’épître aux Hébreux. Il rencontra cette même Colonne de feu qui lui dit: “Je suis Jésus que tu persécutes!”.
 
         http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 21
-   Et Le voici, apparaissant encore aujourd’hui de la même manière! Car Il s’exprima par la même
-Colonne de feu qui confirma qu’Il était le même, révélant le mystère de Dieu qui avait été caché
-dès avant la fondation du monde!
-   Paul ne Le connaissait que par révélation. Pierre Le connut par révélation. Pourtant, il avait
-marché avec Lui, parlé avec Lui. Vous pouvez étudier cette Parole… Or, je viens de dire qu’Il était
-la Parole. Un savant pourra se mettre à vous commenter la Parole jusqu’au point où il embrouillera
-complètement votre esprit, s’il le désire, parce qu’il est intelligent et habile. Prenez un prêtre
-Catholique, ou, sans chercher si loin, n’importe quel théologien bien versé dans les Ecritures, un
-Baptiste, un Presbytérien, ou n’importe qui d’autre. Il arrivera à vous faire penser que vous n’y
-connaissez rien du tout. Vous comprenez? Quand il s’agit de parler… Pourquoi? Parce qu’ils Le
-connaissent, Lui, la Parole, seulement selon la chair.
-   Mais le seul moyen pour vous d’être sauvé est de Le connaître par révélation! Je pourrais
-prendre la doctrine presbytérienne et acculer les Pentecôtistes jusqu’au point… Je pourrais
-prendre la doctrine des Baptistes et vous montrer, à vous Pentecôtistes, quantité de choses dont
-vous n’avez même jamais entendu parler. C’est vrai. Mais tout cela ne mène nulle part. Tout cela
-n’est pas Son Eglise. Ce n’est pas Son Eglise. Son Eglise, c’est Lui-même révélé! Amen!
-Comprenez-vous? Et c’est par la Parole Elle-même, qui exprime qu’Il est Dieu!
-   Alors, comment pouvez-vous vous laisser baptiser dans les titres de “Père, Fils et Saint-Esprit”?
-C’est du paganisme. Comment pouvez-vous affirmer connaître Jésus-Christ (Il est la Parole), alors
-que nulle part dans les Ecritures, il n’est parlé de quelqu’un qui ait jamais baptisé au Nom du Père,
-du Fils et du Saint-Esprit?
-   Et vous autre, “Jesus Only”, qui utilisez seulement le nom de “Jésus” pour le baptême… Je
-connais personnellement quatre ou cinq Jésus. Vous voyez où nous conduisent vos
-dénominations? Tout cela, ce sont les ténèbres, l’expression de Caïn qui apportait des fruits de la
-terre, au lieu du sang. Mais la révélation est venue par le Sang, par Jésus-Christ, Qui est le Sang
-de Dieu, le Sang créé dans le sein de Marie.
-   Et Paul L’a connu par révélation. C’est ainsi que nous Le connaissons aujourd’hui. C’est la
-seule manière de Le connaître. Ce n’est pas en disant: «Je suis Méthodiste» — cela ne veut rien
-dire. — «Je suis Baptiste» — cela ne veut rien dire. Mais c’est par la révélation que Dieu vous a
-fait connaître Sa Parole. Il est la Parole, et la Parole… Comment savez-vous qu’Elle est révélée?
-— Parce qu’Elle vit en vous et S’exprime au travers de vous.
-   Il y a longtemps que les églises ont oublié cette glorieuse révélation. C’est vrai! Elles ont oublié
-la révélation de la Vérité. Elles sont allées… Lorsque Luther vint, il fut un grand homme. Il avait la
-révélation pour son temps. Mais qu’arriva-t-il? — Une bande de “Ricky” et de “Ricketta” se mit sur
-son chemin, et bientôt…
-   Cette expression… si seulement vous connaissiez les noms de la Bible et saviez ce que
-signifient ces “Elvis” et “Ricky” pour l’Ecriture! Jésus a dit… Vous dites de votre nom: «Cela n’a
-aucune signification particulière». Croyez-vous cela? Ces noms ne pouvaient apparaître que dans
-ces derniers jours, pour ces gens des derniers jours! Pourquoi donc Jésus changea-t-Il le nom
-d’Abram en celui d’Abraham? Pourquoi changea-t-Il le nom de Saraï en celui de Sara? Pourquoi
-changea-t-Il le nom de Saul en celui de Paul, celui de Simon en celui de Pierre, et ainsi de suite?
-Vous voyez? Cela doit certainement avoir un sens. Ces noms ne pouvaient pas être prononcés
-avant ces derniers temps. C’est la raison pour laquelle nous avons toutes ces choses diaboliques
-sur la terre dans ces derniers jours. Toute la race humaine est corrompue.
-   Remarquez ceci. Luther était très bien pour son temps. Il avait la révélation; mais aussitôt qu’il
-eût disparu, regardez ce qu’ils firent. Wesley avait un message: voyez ce qu’ils en firent. Les
-premiers Pentecôtistes avaient aussi un message… voyez ce qu’on en a fait. Ils ont réuni un
-groupe d’hommes comme… C’est exactement ce qui se produisit quand Dieu, par Sa Grâce,
-envoya à Israël une Colonne de feu, un prophète, un sacrifice, et manifesta Sa Présence au milieu
-d’eux, lorsqu’Il les conduisit hors d’Egypte, en leur faisant traverser la mer Rouge. Mais ils
-préférèrent recevoir une loi et être dirigés par de grands dignitaires, afin d’avoir leur mot à dire.
-Que se passa-t-il alors? — Dieu les fit errer pendant quarante ans dans le désert, et aucune de
-leurs organisations ne traversa le Jourdain.
-   Josué et Caleb furent les seuls qui dirent: “Nous pourrons nous emparer de ce pays!”. Voyez ce
-que dit la Parole de Dieu. Tous moururent dans le désert. Et Jésus dit qu’ils ont disparu pour
+   Et Le voici, apparaissant encore aujourd’hui de la même manière! Car Il s’exprima par la même Colonne de feu qui confirma qu’Il était le même, révélant le mystère de Dieu qui avait été caché dès avant la fondation du monde!
+   Paul ne Le connaissait que par révélation. Pierre Le connut par révélation. Pourtant, il avait marché avec Lui, parlé avec Lui. Vous pouvez étudier cette Parole… Or, je viens de dire qu’Il était la Parole. Un savant pourra se mettre à vous commenter la Parole jusqu’au point où il embrouillera complètement votre esprit, s’il le désire, parce qu’il est intelligent et habile. Prenez un prêtre Catholique, ou, sans chercher si loin, n’importe quel théologien bien versé dans les Ecritures, un Baptiste, un Presbytérien, ou n’importe qui d’autre. Il arrivera à vous faire penser que vous n’y connaissez rien du tout. Vous comprenez? Quand il s’agit de parler… Pourquoi? Parce qu’ils Le connaissent, Lui, la Parole, seulement selon la chair.
+   Mais le seul moyen pour vous d’être sauvé est de Le connaître par révélation! Je pourrais prendre la doctrine presbytérienne et acculer les Pentecôtistes jusqu’au point… Je pourrais prendre la doctrine des Baptistes et vous montrer, à vous Pentecôtistes, quantité de choses dont vous n’avez même jamais entendu parler. C’est vrai. Mais tout cela ne mène nulle part. Tout cela n’est pas Son Eglise. Ce n’est pas Son Eglise. Son Eglise, c’est Lui-même révélé! Amen! Comprenez-vous? Et c’est par la Parole Elle-même, qui exprime qu’Il est Dieu!
+   Alors, comment pouvez-vous vous laisser baptiser dans les titres de “Père, Fils et Saint-Esprit”? C’est du paganisme. Comment pouvez-vous affirmer connaître Jésus-Christ (Il est la Parole), alors que nulle part dans les Ecritures, il n’est parlé de quelqu’un qui ait jamais baptisé au Nom du Père, du Fils et du Saint-Esprit?
+   Et vous autre, “Jesus Only”, qui utilisez seulement le nom de “Jésus” pour le baptême… Je connais personnellement quatre ou cinq Jésus. Vous voyez où nous conduisent vos dénominations? Tout cela, ce sont les ténèbres, l’expression de Caïn qui apportait des fruits de la terre, au lieu du sang. Mais la révélation est venue par le Sang, par Jésus-Christ, Qui est le Sang de Dieu, le Sang créé dans le sein de Marie.
+   Et Paul L’a connu par révélation. C’est ainsi que nous Le connaissons aujourd’hui. C’est la seule manière de Le connaître. Ce n’est pas en disant: «Je suis Méthodiste» — cela ne veut rien dire. — «Je suis Baptiste» — cela ne veut rien dire. Mais c’est par la révélation que Dieu vous a fait connaître Sa Parole. Il est la Parole, et la Parole… Comment savez-vous qu’Elle est révélée? — Parce qu’Elle vit en vous et S’exprime au travers de vous.
+   Il y a longtemps que les églises ont oublié cette glorieuse révélation. C’est vrai! Elles ont oublié la révélation de la Vérité. Elles sont allées… Lorsque Luther vint, il fut un grand homme. Il avait la révélation pour son temps. Mais qu’arriva-t-il? — Une bande de “Ricky” et de “Ricketta” se mit sur son chemin, et bientôt…
+   Cette expression… si seulement vous connaissiez les noms de la Bible et saviez ce que signifient ces “Elvis” et “Ricky” pour l’Ecriture! Jésus a dit… Vous dites de votre nom: «Cela n’a aucune signification particulière». Croyez-vous cela? Ces noms ne pouvaient apparaître que dans ces derniers jours, pour ces gens des derniers jours! Pourquoi donc Jésus changea-t-Il le nom d’Abram en celui d’Abraham? Pourquoi changea-t-Il le nom de Saraï en celui de Sara? Pourquoi changea-t-Il le nom de Saul en celui de Paul, celui de Simon en celui de Pierre, et ainsi de suite? Vous voyez? Cela doit certainement avoir un sens. Ces noms ne pouvaient pas être prononcés avant ces derniers temps. C’est la raison pour laquelle nous avons toutes ces choses diaboliques sur la terre dans ces derniers jours. Toute la race humaine est corrompue.
+   Remarquez ceci. Luther était très bien pour son temps. Il avait la révélation; mais aussitôt qu’il eût disparu, regardez ce qu’ils firent. Wesley avait un message: voyez ce qu’ils en firent. Les premiers Pentecôtistes avaient aussi un message… voyez ce qu’on en a fait. Ils ont réuni un groupe d’hommes comme… C’est exactement ce qui se produisit quand Dieu, par Sa Grâce, envoya à Israël une Colonne de feu, un prophète, un sacrifice, et manifesta Sa Présence au milieu d’eux, lorsqu’Il les conduisit hors d’Egypte, en leur faisant traverser la mer Rouge. Mais ils préférèrent recevoir une loi et être dirigés par de grands dignitaires, afin d’avoir leur mot à dire. Que se passa-t-il alors? — Dieu les fit errer pendant quarante ans dans le désert, et aucune de leurs organisations ne traversa le Jourdain.
+   Josué et Caleb furent les seuls qui dirent: “Nous pourrons nous emparer de ce pays!”. Voyez ce que dit la Parole de Dieu. Tous moururent dans le désert. Et Jésus dit qu’ils ont disparu pour
 
         http://www.cmpp.ch
 
@@ -1781,8 +1250,8 @@ détourne de vous! C’est vrai!
    Vous me direz: «Attendez une minute, frère Branham! Vous parlez de l’Ancien Testament».
 Mais Il est le même hier, aujourd’hui et éternellement. Cela, c’est la parfaite révélation de Dieu.
 Lorsque Dieu a dit une fois quelque chose, Il ne peut plus jamais le changer. Il ne change
-pas ce qu’Il dit. Il en étend la portée. La loi ne fut pas changée, elle fut étendue — Sa portée en
-fut étendue.
+pas ce qu’Il dit. Il en étend la portée. La loi ne fut pas changée, elle fut étendue — Sa portée
+en fut étendue.
 
         http://www.cmpp.ch
 
@@ -2049,8 +1518,8 @@ prisonnier; vous ne pouvez parler avant qu’Il ne vous dise: «Parle!», mais a
 Dieu. Tout le reste est en ordre, et vous savez que, lorsque la Parole est prononcée, cela arrivera
 de cette manière. Vous comprenez? Moïse prit sa verge et dit: “Qu’il y ait des grenouilles!”, parce
 que c’est Dieu qui avait dit: “Qu’il y ait des grenouilles!”. Il n’a fait que transmettre l’ordre. Et il y en
-eut partout. D’où sont-elles venues? Personne ne le sait; elles n’étaient pas là, auparavant. Mais le
-Dieu Créateur, agissant au travers d’un homme, créa des choses, une espèce vivante. Le Dieu
+eut partout. D’où sont-elles venues? Personne ne le sait; elles n’étaient pas là, auparavant. Mais
+le Dieu Créateur, agissant au travers d’un homme, créa des choses, une espèce vivante. Le Dieu
 même qui créa la première grenouille peut créer la seconde grenouille. Il crée toutes les
 grenouilles. Oh, mon Dieu! Comprenez-vous ce que je veux dire? Il créa le premier écureuil; Il crée
 le deuxième écureuil, et tous les écureuils. Il peut créer des écureuils là où il n’y en avait pas
@@ -2376,298 +1845,72 @@ dans une dénomination, après avoir entendu et vu ces choses — s’il y a ass
 
         http://www.cmpp.ch
 
-    CHRIST EST LA REVELATION DU MYSTERE DE DIEU    42
-qu’il puisse sortir et examiner ces choses. C’est certain! Je ne dis pas cela pour critiquer, mais
-parce que c’est la vérité, et que cela doit être révélé.
-   Prenez note que Lucifer, dans ces derniers jours, fait la même chose. Pouvez-vous le
-voir? Le diable fait la même chose, bâtissant une église hybride au moyen de membres
-hybrides, ayant une connaissance hybride au lieu de la Parole, ayant une connaissance
-intellectuelle au lieu d’être nés de nouveau: ils bâtissent un royaume intellectuel qui
-dépassera en éclat le petit troupeau de Christ. Qui sont ces bâtisseurs? — LES ANGES
-DECHUS. La Bible dit que ce sont les anges déchus qui ont écouté Lucifer plutôt que Christ,
-à qui ils appartenaient autrefois. N’est-ce pas vrai?
-   Ecoutez bien ceci. Les anges déchus. Qui sont ces anges? — Ce sont les Luthériens, les
-Méthodistes, les Catholiques, les Pentecôtistes, qui comme ces anges, n’ont pas gardé leur
-héritage et sont tombés dans les organisations, comme ce qui se passa à Nicée, où Lucifer
-exerça son emprise. Qu’ont-ils fait? — Ils se sont organisés en une grande association
-oecuménique de pasteurs pour ériger une image à la Bête (comme le dit la Bible),
-construisant une organisation chrétienne qui fermera les portes de cette salle, et de toutes
-celles qui lui ressemblent. Voyez-vous Lucifer à l’oeuvre? J’essaie de vous apporter la triple
-révélation, le mystère de Dieu. Que firent-ils? — Ces anges déchus, ils se laissèrent acheter par
-les raisonnements de la sagesse et de la bonne éducation, comme le fit Eve.
-   Wesley fut un homme de Dieu, mais qu’y eut-il après lui? — Ce sont les anges déchus qui
-firent leur apparition. Qu’étaient ces anges au commencement? — des êtres créés par Dieu,
-mais ils succombèrent à la sagesse de Lucifer, ils écoutèrent la sagesse de Lucifer. Aussi,
-voyez-vous ce qu’ils sont devenus? — des anges déchus! Quand les hommes de Dieu vinrent
-pour rétablir la Vérité sur la terre, avant même que cette vérité eût pu se répandre et
-conduire à la vraie révélation de Christ, les anges déchus sont venus, s’en sont emparés et
-en ont fait des dénominations.
-   C’est la raison pour laquelle la révélation du mystère du Septième Sceau n’a pas pu être
-faite. Comprenez-vous cela, maintenant? Ce qu’ils ont laissé… Si les Luthériens avaient
-continué, cela aurait eu lieu. Si les Méthodistes avaient continué, si les Pentecôtistes avaient
-continué… qu’auraient-ils fait?
-   Une seule chose peut arriver maintenant. Il faut qu’il y ait un Message aux temps de la fin,
-quand plus rien d’autre ne pourra venir pour continuer. Et maintenant, le monde oecuménique a
-instauré un régime tel qu’il ne peut plus y avoir d’autres dénominations ou quoi que ce soit qui le
-suivent. Vous êtes dedans, ou vous êtes dehors. Le fruit est au sommet de l’arbre, et la Lumière
-luit sur ce fruit prédestiné, et il mûrit, devenant un fruit semblable à Christ, apportant la même
-douceur que celle qui était en Lui. J’espère que vous comprenez cela! Je crois que je veux trop
-dire pour une seule journée. Je vous épuise!
-   Ils se sont vendus aux raisonnements, aux raisonnements des dénominations. «Si je pouvais
-seulement appartenir à ce groupe-ci… Le maire va à cette église…». Vous voyez? «Si je pouvais
-être un Méthodiste… un Presbytérien…». Voyez où ils en sont! Vous avez vu que je viens
-d’expliquer que ces branches-là sont retranchées, parce qu’elles sont mortes. Elles n’ont plus de
-lien avec Christ, autrement, elles manifesteraient la même vie. Elles n’ont pas de relations avec
-Lui, mais elles sont comme les citrons et les oranges. N’importe quelle branche d’agrume peut être
-greffée sur n’importe quel arbre pris parmi les agrumes, mais la branche greffée portera son
-propre fruit. Si vous greffez une branche de pamplemousse sur un oranger, elle donnera des
-pamplemousses. Si vous greffez une branche de citronnier, elle donnera des citrons, mais sa vie,
-elle la tirera de la vie de l’oranger. Et c’est ce que font aujourd’hui les dénominations, se donnant
-le nom d’Eglise. C’est l’Epouse qui est l’Arbre original, l’Esprit original. La révélation vient de
-Christ, et non pas des dénominations. Elle vient de Christ.
-   Notez ceci. Qu’est-ce que les dénominations essaient de faire? Comme Lucifer, elles se
-glorifient elles-mêmes! Elles se donnent à elles-mêmes le nom d’Eglise, d’Epouse, ce qu’elles sont
-bien (voir Apocalypse 17, dont nous avons parlé), c’est-à-dire une fausse épouse qu’elles mettent
-au-dessus du petit troupeau de Christ, l’Epouse. Lucifer se glorifie et se place Lui-même
-au-dessus de l’humble Parole de la Vérité de Dieu, dont la connaissance vient par la révélation; il
-s’est élevé par l’instruction des séminaires et la théologie; il demeure puissant et glorieux, et si
-vous n’appartenez pas à leur groupe, vous êtes un paria.
+CHRIST EST LA REVELATION DU MYSTERE DE DIEU    42
+
+qu’il puisse sortir et examiner ces choses. C’est certain! Je ne dis pas cela pour critiquer, mais parce que c’est la vérité, et que cela doit être révélé.
+   Prenez note que Lucifer, dans ces derniers jours, fait la même chose. Pouvez-vous le voir? Le diable fait la même chose, bâtissant une église hybride au moyen de membres hybrides, ayant une connaissance hybride au lieu de la Parole, ayant une connaissance intellectuelle au lieu d’être nés de nouveau: ils bâtissent un royaume intellectuel qui dépassera en éclat le petit troupeau de Christ. Qui sont ces bâtisseurs? — LES ANGES DECHUS. La Bible dit que ce sont les anges déchus qui ont écouté Lucifer plutôt que Christ, à qui ils appartenaient autrefois. N’est-ce pas vrai?
+   Ecoutez bien ceci. Les anges déchus. Qui sont ces anges? — Ce sont les Luthériens, les Méthodistes, les Catholiques, les Pentecôtistes, qui comme ces anges, n’ont pas gardé leur héritage et sont tombés dans les organisations, comme ce qui se passa à Nicée, où Lucifer exerça son emprise. Qu’ont-ils fait? — Ils se sont organisés en une grande association oecuménique de pasteurs pour ériger une image à la Bête (comme le dit la Bible), construisant une organisation chrétienne qui fermera les portes de cette salle, et de toutes celles qui lui ressemblent. Voyez-vous Lucifer à l’oeuvre? J’essaie de vous apporter la triple révélation, le mystère de Dieu. Que firent-ils? — Ces anges déchus, ils se laissèrent acheter par les raisonnements de la sagesse et de la bonne éducation, comme le fit Eve.
+   Wesley fut un homme de Dieu, mais qu’y eut-il après lui? — Ce sont les anges déchus qui firent leur apparition. Qu’étaient ces anges au commencement? — des êtres créés par Dieu, mais ils succombèrent à la sagesse de Lucifer, ils écoutèrent la sagesse de Lucifer. Aussi, voyez-vous ce qu’ils sont devenus? — des anges déchus! Quand les hommes de Dieu vinrent pour rétablir la Vérité sur la terre, avant même que cette vérité eût pu se répandre et conduire à la vraie révélation de Christ, les anges déchus sont venus, s’en sont emparés et en ont fait des dénominations.
+   C’est la raison pour laquelle la révélation du mystère du Septième Sceau n’a pas pu être faite. Comprenez-vous cela, maintenant? Ce qu’ils ont laissé… Si les Luthériens avaient continué, cela aurait eu lieu. Si les Méthodistes avaient continué, si les Pentecôtistes avaient continué… qu’auraient-ils fait?
+   Une seule chose peut arriver maintenant. Il faut qu’il y ait un Message aux temps de la fin, quand plus rien d’autre ne pourra venir pour continuer. Et maintenant, le monde oecuménique a instauré un régime tel qu’il ne peut plus y avoir d’autres dénominations ou quoi que ce soit qui le suivent. Vous êtes dedans, ou vous êtes dehors. Le fruit est au sommet de l’arbre, et la Lumière luit sur ce fruit prédestiné, et il mûrit, devenant un fruit semblable à Christ, apportant la même douceur que celle qui était en Lui. J’espère que vous comprenez cela! Je crois que je veux trop dire pour une seule journée. Je vous épuise!
+   Ils se sont vendus aux raisonnements, aux raisonnements des dénominations. «Si je pouvais seulement appartenir à ce groupe-ci… Le maire va à cette église…». Vous voyez? «Si je pouvais être un Méthodiste… un Presbytérien…». Voyez où ils en sont! Vous avez vu que je viens d’expliquer que ces branches-là sont retranchées, parce qu’elles sont mortes. Elles n’ont plus de lien avec Christ, autrement, elles manifesteraient la même vie. Elles n’ont pas de relations avec Lui, mais elles sont comme les citrons et les oranges. N’importe quelle branche d’agrume peut être greffée sur n’importe quel arbre pris parmi les agrumes, mais la branche greffée portera son propre fruit. Si vous greffez une branche de pamplemousse sur un oranger, elle donnera des pamplemousses. Si vous greffez une branche de citronnier, elle donnera des citrons, mais sa vie, elle la tirera de la vie de l’oranger. Et c’est ce que font aujourd’hui les dénominations, se donnant le nom d’Eglise. C’est l’Epouse qui est l’Arbre original, l’Esprit original. La révélation vient de Christ, et non pas des dénominations. Elle vient de Christ.
+   Notez ceci. Qu’est-ce que les dénominations essaient de faire? Comme Lucifer, elles se glorifient elles-mêmes! Elles se donnent à elles-mêmes le nom d’Eglise, d’Epouse, ce qu’elles sont bien (voir Apocalypse 17, dont nous avons parlé), c’est-à-dire une fausse épouse qu’elles mettent au-dessus du petit troupeau de Christ, l’Epouse. Lucifer se glorifie et se place Lui-même au-dessus de l’humble Parole de la Vérité de Dieu, dont la connaissance vient par la révélation; il s’est élevé par l’instruction des séminaires et la théologie; il demeure puissant et glorieux, et si vous n’appartenez pas à leur groupe, vous êtes un paria.
 
     http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 43
    [partie non enregistrée — N.d.R.]
-   … comme Lucifer au commencement, disant aux gens exactement ce que dit Lucifer à Eve:
-«Dieu ne pourra pas ne pas nous recevoir. Nous secourons les pauvres (ce qui est très bien!) Il
-nous recevra certainement. Nous sommes une grande dénomination, une belle église. Regardez
-nos belles salles. Voyez le nombre de nos membres. Nous sommes des millions. Dieu ne rejettera
-sûrement pas notre groupe!». C’est exactement ce que fit Caïn. Il apporta les beaux fruits d’un sol
-qu’il avait lui-même labouré et ensemencé; il apporta les fruits et rejeta l’humble sang de l’agneau.
-   Que Dieu permette qu’aucun homme ni aucune femme n’aille penser que je veuille glorifier
-quelque chose, une révélation personnelle, ou quoi que ce soit. Je vous dis simplement la Vérité.
-Ne pouvez-vous pas comprendre ce qu’ils font? Je parle fort et durement, mais si vous voulez
-qu’un clou tienne, il faut l’enfoncer jusqu’au bout! Alors, vous comprendrez.
-   Ils diront: «Sûrement… vous voulez dire que notre grande église Catholique, qui subsiste
-depuis si longtemps… notre grande église Méthodiste… voyez nos ancêtres…». Vous voyez? —
-Mais ils ont transgressé la Parole de Dieu! Et Eve était… elle avait été tirée du côté d’Adam. Et
-parce qu’elle douta d’une seule Parole de Dieu, elle tomba.
-   Et voici qu’aujourd’hui encore, Lucifer est à l’oeuvre. Et rappelez-vous que l’antichrist n’est pas
-le communisme. L’antichrist est si proche de la vérité qu’il tromperait les élus, si cela était possible,
-selon ce que dit Jésus (Mat. 24). Lucifer rompt de nouveau l’unité de Dieu en l’homme en
-ramenant la Parole de Dieu à ses raisonnements, à ce qu’il pense être vrai. Mais ce qu’il pense
-être la Vérité contredit la Parole de Dieu. C’est aussi ce qu’il fit aux jours de Jésus. Et Jésus dit:
-“Vous, avec vos traditions, vous avez rendu la Parole de Dieu sans effet”. Et les dénominations,
-avec leurs raisonnements intellectuels, ont rendu la Parole de Dieu sans effet sur le peuple. C’est
-vrai! Mais ils ne peuvent le comprendre. Et lorsqu’ils disent: «Où est le Dieu de la Bible?». Il est
-justement là! Il est la Bible — c’est ce qu’Il est.
-   Vous remarquerez que Lucifer vient avec toute sa ruse, et rompt la communion entre Dieu et
-l’homme, de la même manière qu’il le fit au jardin d’Eden par de grandes tentations, en promettant
-la puissance et la gloire. «Si vous restez avec nous, vous pourriez un jour devenir évêque,
-surveillant… pourquoi voulez-vous aller chez ces gens, là-bas?». Vous voyez? C’est ainsi que cela
-se passe chez les Pentecôtistes, les Catholiques et les autres. Une fausse promesse faite à
-l’homme de recevoir la puissance en dehors de la Parole et de la Promesse de Dieu. Vous
-recevez la Puissance quand le Saint-Esprit est descendu sur vous, et non pas quand vous
-devenez un évêque ou un diacre, ou quoi que ce soit. Vous comprenez? Mais Lucifer est de
-nouveau à l’oeuvre.
-   Est-ce que cette assemblée comprend ces choses? Levez la main, afin que je le voie. Bien,
-alors, je ne m’y attarderai pas plus longtemps.
-   Eloignez de la Parole de Dieu. Vous voyez? C’est ce qu’il fit à Nicée et à Rome. Vous savez ce
-que Constantin leur a donné? Vous avez parcouru les âges de l’église. Auparavant, ils n’avaient
-rien d’autre que Christ. Ils se réunissaient n’importe où, à même le sol, là où ils pouvaient. Vous le
-savez, si vous avez lu dans l’histoire de l’église le Concile de Nicée, les Conciles prénicéens, les
-Pères de Nicée, etc. Ils n’avaient rien. Mais lorsque ce concile eut lieu, concile où l’on introduisit
-dans le Christianisme un peu du paganisme romain, et que l’on inventa les «saints», les évêques,
-papes et toutes ces choses insensées… Que leur a donné Constantin? N’importe quel théologien
-peut le dire! Il leur a donné des biens matériels. Il leur a donné la liberté et tout ce qu’ils désiraient.
-Et alors, ils rejetèrent la Parole de Dieu pour la sagesse et la culture de l’homme! Lucifer fit à ce
-moment-là ce qu’il avait déjà fait au jardin d’Eden. Et c’est là même qu’ils moururent. L’Eglise de
-Pentecôte mourut à Nicée et à Rome pour être ressuscitée dans l’Arbre de l’Epouse, dans les
-derniers jours.
-   Remarquez comment Lucifer vient avec toute sa ruse et, par ses tentations et ses fausses
-promesses de puissance, éloigne les gens de la Parole de Dieu. C’est ce qu’il fit à Nicée et à
-Rome. C’est ce qu’il fait maintenant dans le Conseil oecuménique mondial des églises.
-   Le pape dit: «Unissons-nous tous! Je désire que tous mes frères oecuméniques s’unissent avec
-moi. Nous sommes tous un». C’est vrai! Dans les organisations, vous êtes tous un. Mais cela n’a
-aucun rapport avec l’Epouse de Christ. Chers frères, cela n’a aucun rapport. Vous ne ferez jamais
-tremper l’Epouse dans quelque chose comme cela.
+   … comme Lucifer au commencement, disant aux gens exactement ce que dit Lucifer à Eve: «Dieu ne pourra pas ne pas nous recevoir. Nous secourons les pauvres (ce qui est très bien!) Il nous recevra certainement. Nous sommes une grande dénomination, une belle église. Regardez nos belles salles. Voyez le nombre de nos membres. Nous sommes des millions. Dieu ne rejettera sûrement pas notre groupe!». C’est exactement ce que fit Caïn. Il apporta les beaux fruits d’un sol qu’il avait lui-même labouré et ensemencé; il apporta les fruits et rejeta l’humble sang de l’agneau.
+   Que Dieu permette qu’aucun homme ni aucune femme n’aille penser que je veuille glorifier quelque chose, une révélation personnelle, ou quoi que ce soit. Je vous dis simplement la Vérité. Ne pouvez-vous pas comprendre ce qu’ils font? Je parle fort et durement, mais si vous voulez qu’un clou tienne, il faut l’enfoncer jusqu’au bout! Alors, vous comprendrez.
+   Ils diront: «Sûrement… vous voulez dire que notre grande église Catholique, qui subsiste depuis si longtemps… notre grande église Méthodiste… voyez nos ancêtres…». Vous voyez? — Mais ils ont transgressé la Parole de Dieu! Et Eve était… elle avait été tirée du côté d’Adam. Et parce qu’elle douta d’une seule Parole de Dieu, elle tomba.
+   Et voici qu’aujourd’hui encore, Lucifer est à l’oeuvre. Et rappelez-vous que l’antichrist n’est pas le communisme. L’antichrist est si proche de la vérité qu’il tromperait les élus, si cela était possible, selon ce que dit Jésus (Mat. 24). Lucifer rompt de nouveau l’unité de Dieu en l’homme en ramenant la Parole de Dieu à ses raisonnements, à ce qu’il pense être vrai. Mais ce qu’il pense être la Vérité contredit la Parole de Dieu. C’est aussi ce qu’il fit aux jours de Jésus. Et Jésus dit: “Vous, avec vos traditions, vous avez rendu la Parole de Dieu sans effet”. Et les dénominations, avec leurs raisonnements intellectuels, ont rendu la Parole de Dieu sans effet sur le peuple. C’est vrai! Mais ils ne peuvent le comprendre. Et lorsqu’ils disent: «Où est le Dieu de la Bible?». Il est justement là! Il est la Bible — c’est ce qu’Il est.
+   Vous remarquerez que Lucifer vient avec toute sa ruse, et rompt la communion entre Dieu et l’homme, de la même manière qu’il le fit au jardin d’Eden par de grandes tentations, en promettant la puissance et la gloire. «Si vous restez avec nous, vous pourriez un jour devenir évêque, surveillant… pourquoi voulez-vous aller chez ces gens, là-bas?». Vous voyez? C’est ainsi que cela se passe chez les Pentecôtistes, les Catholiques et les autres. Une fausse promesse faite à l’homme de recevoir la puissance en dehors de la Parole et de la Promesse de Dieu. Vous recevez la Puissance quand le Saint-Esprit est descendu sur vous, et non pas quand vous devenez un évêque ou un diacre, ou quoi que ce soit. Vous comprenez? Mais Lucifer est de nouveau à l’oeuvre.
+   Est-ce que cette assemblée comprend ces choses? Levez la main, afin que je le voie. Bien, alors, je ne m’y attarderai pas plus longtemps.
+   Eloignez de la Parole de Dieu. Vous voyez? C’est ce qu’il fit à Nicée et à Rome. Vous savez ce que Constantin leur a donné? Vous avez parcouru les âges de l’église. Auparavant, ils n’avaient rien d’autre que Christ. Ils se réunissaient n’importe où, à même le sol, là où ils pouvaient. Vous le savez, si vous avez lu dans l’histoire de l’église le Concile de Nicée, les Conciles prénicéens, les Pères de Nicée, etc. Ils n’avaient rien. Mais lorsque ce concile eut lieu, concile où l’on introduisit dans le Christianisme un peu du paganisme romain, et que l’on inventa les «saints», les évêques, papes et toutes ces choses insensées… Que leur a donné Constantin? N’importe quel théologien peut le dire! Il leur a donné des biens matériels. Il leur a donné la liberté et tout ce qu’ils désiraient. Et alors, ils rejetèrent la Parole de Dieu pour la sagesse et la culture de l’homme! Lucifer fit à ce moment-là ce qu’il avait déjà fait au jardin d’Eden. Et c’est là même qu’ils moururent. L’Eglise de Pentecôte mourut à Nicée et à Rome pour être ressuscitée dans l’Arbre de l’Epouse, dans les derniers jours.
+   Remarquez comment Lucifer vient avec toute sa ruse et, par ses tentations et ses fausses promesses de puissance, éloigne les gens de la Parole de Dieu. C’est ce qu’il fit à Nicée et à Rome. C’est ce qu’il fait maintenant dans le Conseil oecuménique mondial des églises.
+   Le pape dit: «Unissons-nous tous! Je désire que tous mes frères oecuméniques s’unissent avec moi. Nous sommes tous un». C’est vrai! Dans les organisations, vous êtes tous un. Mais cela n’a aucun rapport avec l’Epouse de Christ. Chers frères, cela n’a aucun rapport. Vous ne ferez jamais tremper l’Epouse dans quelque chose comme cela.
 
         http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 44
-   Or, dans Malachie 4, il est promis que, dans les derniers jours, la foi originale serait redonnée
-aux enfants de Dieu, aux jours de l’Arbre de l’Epouse. Dieu a dit: “Avant que le monde soit
-consumé par le feu, je vous enverrai Elie le prophète, et il restaurera la foi des enfants”. Or, cela
-n’arriva pas avec le premier Elie. Non! Nous n’enseignons pas ici toutes ces choses au sujet du
-manteau d’Elie, etc… Nous enseignons simplement la Parole de Dieu. Vous comprenez? C’est ce
-qu’Il a dit. Nous savons qu’il y a toutes sortes d’Elie ceci et d’Elie cela, mais tout cela n’a aucun
-sens, et nous le savons. Ce n’est pas de cela que je parle. Et vous qui êtes spirituels me
-comprendrez. Mais l’heure avance, et je pense que l’on ne pourra pas tout enregistrer.
-   La promesse pour les derniers jours… Jésus a dit dans Matthieu 11, verset 7… quand
-Jean-Baptiste envoya ses disciples pour voir s’Il était réellement Celui qui devait venir, Jésus dit:
-“Qu’êtes-vous allés voir? un roseau agité par le vent? avez-vous été voir ceci ou cela? ou
-êtes-vous allé voir un prophète? Jean était plus qu’un prophète: il était le Messager de l’Alliance”.
-Et Il dit: “Si vous pouvez recevoir ceci, c’est celui dont il est parlé dans les prophètes: J’enverrai
-mon messager devant ma face”. Cela se trouve dans Malachie 3. Parce que, lorsque l’Elie de
-Malachie 4 viendra, la terre sera brûlée par une ardente chaleur, et les justes entreront dans le
-Millénium en marchant sur les cendres des méchants. Ce n’est donc pas celui-là. Vous
-comprenez?
-   Nous voyons la promesse en train de s’accomplir. Christ, la Vraie Tête, entrant en Son Epouse,
-accomplissant les mêmes oeuvres qu’au commencement, préparant et accomplissant Sa Parole,
-comme Il le fit dans Jean 14.12: “Celui qui croit en moi fera aussi les oeuvres que je fais”. Alors, la
-Tête et le Corps deviennent Un dans les oeuvres, dans les signes et dans la Vie, et cela est
-confirmé par Dieu Lui-même au travers de Sa Parole promise pour les derniers jours. C’est ce qu’Il
-a promis pour les derniers jours. Si vous êtes spirituels, vous recevrez cela.
-   Ainsi donc, nous pouvons voir que le Souper des Noces est très proche. Si jamais je devais
-ne plus vous revoir, rappelez-vous que le Souper des Noces est très proche! Et alors, le
-Royaume, le glorieux Millénium, est prêt à commencer, selon la Promesse, tout comme
-l’Enlèvement de l’Eglise et la destruction des méchants. Et, dans le Sixième Sceau, le monde est
-purifié par le feu, afin d’ôter toute la corruption et le péché du monde, et de lui donner une nouvelle
-forme et de le préparer pour ce glorieux Millénium qui va venir. Lorsque nous voyons cette triple
-révélation glorieuse: Dieu en Christ, Christ dans l’Eglise, la venue du Royaume, (Adam et Eve
-rétablis dans l’état où ils étaient dans le jardin d’Eden, étant la représentation de Christ et de Son
-Epouse,) alors le Royaume est sur le point d’être rétabli selon Sa promesse. Dieu soit loué pour la
-révélation du triple mystère et pour la confirmation personnelle de Sa Parole par Son autorité!
-   Ne dites pas: «Alors, gloire à Dieu, nous allons pousser des cris, des alléluias!». Non! Je suis
-un missionnaire. J’ai fait à peu près sept fois le tour du monde. J’ai vu des païens, des démons,
-etc. danser et crier. J’ai vu toutes sortes de manifestations charnelles. Tout cela, vient de la chair,
-mais je veux parler de la Souveraineté de Christ.
-   Remarquez ceci, c’est qu’étant personnellement identifiés par le Souverain original, nous
-devons répondre aux questions du diable. Christ, Lui, est ressuscité. Il a payé le prix et a
-ressuscité le Corps. Le diable ne peut supporter cela.
-   C’est la raison pour laquelle ces royaumes oecuméniques sont en train de s’établir. C’est la
-raison pour laquelle ils se mettent à faire ce qu’ils font. C’est la raison pour laquelle le diable se
-met à hurler pareillement. Sa méchanceté… ses desseins ont été dévoilés par le Christ, qui
-exerce la souveraineté sur Son Corps! Quelle gloire!
-   Vous pensez que je m’exalte. Ce n’est pas le cas. Nous pouvons répondre au diable. Nous
-pouvons dire: «Ce n’est pas moi, mais Christ, la Parole, est venu vivre en moi». Ce n’est pas mon
-idée. C’est Sa puissance. Ce n’est pas mon idée. C’est Sa Parole. Il l’a promis, et Sa promesse
-s’accomplit. Il a dit que cela serait, et cela est. Nous avons reçu Sa réponse.
-   Christ est ressuscité, et a payé le prix de notre rédemption. Dieu S’est manifesté en Christ; Il a
-donné cette Chair et ce Sang, afin que la Vie vienne par le Sang, et que la chair soit rachetée; afin
-que Dieu puisse Se manifester dans cette chair rachetée. Sa Parole pour ce jour comme pour
-autrefois. Quelle gloire! Comprenez-vous ces choses? Oh, mon Dieu! quand pourrai-je m’arrêter!
-Oh!
-   Remarquez ceci. Nous nous tenons justifiés dans la Présence de Dieu… comme la goutte
-d’encre tombée dans un seau plein de détachant. Vous ne pourrez jamais retrouver la tache. Elle
+   Or, dans Malachie 4, il est promis que, dans les derniers jours, la foi originale serait redonnée aux enfants de Dieu, aux jours de l’Arbre de l’Epouse. Dieu a dit: “Avant que le monde soit consumé par le feu, je vous enverrai Elie le prophète, et il restaurera la foi des enfants”. Or, cela n’arriva pas avec le premier Elie. Non! Nous n’enseignons pas ici toutes ces choses au sujet du manteau d’Elie, etc… Nous enseignons simplement la Parole de Dieu. Vous comprenez? C’est ce qu’Il a dit. Nous savons qu’il y a toutes sortes d’Elie ceci et d’Elie cela, mais tout cela n’a aucun sens, et nous le savons. Ce n’est pas de cela que je parle. Et vous qui êtes spirituels me comprendrez. Mais l’heure avance, et je pense que l’on ne pourra pas tout enregistrer.
+   La promesse pour les derniers jours… Jésus a dit dans Matthieu 11, verset 7… quand Jean-Baptiste envoya ses disciples pour voir s’Il était réellement Celui qui devait venir, Jésus dit: “Qu’êtes-vous allés voir? un roseau agité par le vent? avez-vous été voir ceci ou cela? ou êtes-vous allé voir un prophète? Jean était plus qu’un prophète: il était le Messager de l’Alliance”. Et Il dit: “Si vous pouvez recevoir ceci, c’est celui dont il est parlé dans les prophètes: J’enverrai mon messager devant ma face”. Cela se trouve dans Malachie 3. Parce que, lorsque l’Elie de Malachie 4 viendra, la terre sera brûlée par une ardente chaleur, et les justes entreront dans le Millénium en marchant sur les cendres des méchants. Ce n’est donc pas celui-là. Vous comprenez?
+   Nous voyons la promesse en train de s’accomplir. Christ, la Vraie Tête, entrant en Son Epouse, accomplissant les mêmes oeuvres qu’au commencement, préparant et accomplissant Sa Parole, comme Il le fit dans Jean 14.12: “Celui qui croit en moi fera aussi les oeuvres que je fais”. Alors, la Tête et le Corps deviennent Un dans les oeuvres, dans les signes et dans la Vie, et cela est confirmé par Dieu Lui-même au travers de Sa Parole promise pour les derniers jours. C’est ce qu’Il a promis pour les derniers jours. Si vous êtes spirituels, vous recevrez cela.
+   Ainsi donc, nous pouvons voir que le Souper des Noces est très proche. Si jamais je devais ne plus vous revoir, rappelez-vous que le Souper des Noces est très proche! Et alors, le Royaume, le glorieux Millénium, est prêt à commencer, selon la Promesse, tout comme l’Enlèvement de l’Eglise et la destruction des méchants. Et, dans le Sixième Sceau, le monde est purifié par le feu, afin d’ôter toute la corruption et le péché du monde, et de lui donner une nouvelle forme et de le préparer pour ce glorieux Millénium qui va venir. Lorsque nous voyons cette triple révélation glorieuse: Dieu en Christ, Christ dans l’Eglise, la venue du Royaume, (Adam et Eve rétablis dans l’état où ils étaient dans le jardin d’Eden, étant la représentation de Christ et de Son Epouse,) alors le Royaume est sur le point d’être rétabli selon Sa promesse. Dieu soit loué pour la révélation du triple mystère et pour la confirmation personnelle de Sa Parole par Son autorité!
+   Ne dites pas: «Alors, gloire à Dieu, nous allons pousser des cris, des alléluias!». Non! Je suis un missionnaire. J’ai fait à peu près sept fois le tour du monde. J’ai vu des païens, des démons, etc. danser et crier. J’ai vu toutes sortes de manifestations charnelles. Tout cela, vient de la chair, mais je veux parler de la Souveraineté de Christ.
+   Remarquez ceci, c’est qu’étant personnellement identifiés par le Souverain original, nous devons répondre aux questions du diable. Christ, Lui, est ressuscité. Il a payé le prix et a ressuscité le Corps. Le diable ne peut supporter cela.
+   C’est la raison pour laquelle ces royaumes oecuméniques sont en train de s’établir. C’est la raison pour laquelle ils se mettent à faire ce qu’ils font. C’est la raison pour laquelle le diable se met à hurler pareillement. Sa méchanceté… ses desseins ont été dévoilés par le Christ, qui exerce la souveraineté sur Son Corps! Quelle gloire!
+   Vous pensez que je m’exalte. Ce n’est pas le cas. Nous pouvons répondre au diable. Nous pouvons dire: «Ce n’est pas moi, mais Christ, la Parole, est venu vivre en moi». Ce n’est pas mon idée. C’est Sa puissance. Ce n’est pas mon idée. C’est Sa Parole. Il l’a promis, et Sa promesse s’accomplit. Il a dit que cela serait, et cela est. Nous avons reçu Sa réponse.
+   Christ est ressuscité, et a payé le prix de notre rédemption. Dieu S’est manifesté en Christ; Il a donné cette Chair et ce Sang, afin que la Vie vienne par le Sang, et que la chair soit rachetée; afin que Dieu puisse Se manifester dans cette chair rachetée. Sa Parole pour ce jour comme pour autrefois. Quelle gloire! Comprenez-vous ces choses? Oh, mon Dieu! quand pourrai-je m’arrêter! Oh!
+   Remarquez ceci. Nous nous tenons justifiés dans la Présence de Dieu… comme la goutte d’encre tombée dans un seau plein de détachant. Vous ne pourrez jamais retrouver la tache. Elle
 
         http://www.cmpp.ch
 
 CHRIST EST LA REVELATION DU MYSTERE DE DIEU 45
-s’en est allée quelque part. Elle ne reviendra jamais. Et quand l’homme est vraiment racheté (c’est
-la Semence prédestinée qui voit et accepte cela), ses péchés sont détruits. Ils sont partis! Ils sont
-tombés dans le Sang de Christ, et ne sont plus jamais rappelés! Dieu les oublie, et alors,
-vous êtes un fils et une fille de Dieu se tenant dans la Présence de Dieu. Amen et amen!
-   Nous sommes maintenant les fils de Dieu. Non pas: nous serons, mais: nous sommes. Nous
-sommes rachetés. Nous avons la réponse pour Satan. Dieu S’est manifesté. Dieu S’est montré
-fidèle à Sa promesse pour ce jour. Alléluia! La Tête est ici! (Amen!) — Christ, le Seigneur
-ressuscité! Il est ici dans la même puissance de résurrection que celle dans laquelle Il a toujours
-été, et Se manifeste Lui-même. C’est cela, la réponse pour le diable.
-   C’est la raison pour laquelle, lorsque cet homme qui était assis ici, l’autre jour, tomba mort,
-nous pûmes dire: «Reviens à la vie!». — C’est parce que c’est le Saint-Esprit qui l’avait dit. C’est
-pourquoi, à Mexico, Il put ressusciter ce petit bébé qui était mort depuis 15 heures. Lorsque vint la
-vision, Il dit: «Rappelle-le à la vie!». Je dis: «Que le bébé vive!». — Et le bébé, dont les docteurs
-avaient écrit l’acte de décès certifiant qu’il était mort le matin à 9 heures, ressuscita à 11 heures du
-soir, et est toujours en vie.
-   D’où cela vient-il? — Non pas de ces gens. Mais la Tête et le Corps sont devenus Un. C’est
-Dieu manifesté dans Son peuple. C’est la raison pour laquelle l’homme et la femme ne sont plus
-deux êtres séparés, mais une seule chair. Dieu et Son Eglise sont Un — Christ en vous! C’est la
-glorieuse révélation de Dieu. Gloire à Dieu! Nous portons Son Nom. Son Nom est Jésus, l’Oint. La
-raison pour laquelle Il est appelé Jésus est qu’Il est l’Oint. Et c’est le Corps Oint de Christ qui
-manifeste Dieu comme Il l’a fait autrefois dans Son Corps. Et ce Corps a racheté ces corps.
-   Et c’est au travers de ces choses qu’apparaît la triple manifestation de Dieu. Il est entré dans le
-Royaume, Il est ressuscité, Il a payé le prix. Nous sommes rachetés. Dieu l’a confirmé. Vous
-comprenez? Et nous nous tenons devant Lui, justifiés en Christ, parce qu’Il ne peut prononcer de
-jugement, ayant déjà jugé ce Corps dont je fais partie. Comment puis-je en être partie? Il est ici —
-Il est en moi. “… Si vous demeurez en Moi et que mes Paroles demeurent en vous… demandez
-au Père ce que vous voudrez en Mon Nom, et cela vous sera accordé…”. — Etre justifié! Gloire à
-Dieu!
-   Oh! si je pouvais faire quelque chose pour que le monde puisse voir cela! — Pourquoi? Eh
-bien, parce qu’il y a là le Corps de Christ vivant, racheté. O mon Dieu! racheté par Lui! Pourquoi
-sommes-nous justifiés? — Nous sommes Sa victoire! L’Eglise est Sa victoire. Nous sommes
-venus dans ces derniers jours avec ce glorieux Evangile, montrant Sa victoire. C’est pour cela qu’Il
-est mort, et nous sommes la preuve de Sa victoire. Amen! Lorsque nous Le voyons descendre et
-vivre dans Son Eglise — c’est cela, Sa victoire. Cela montre que Satan ne pouvait pas le retenir
-dans le tombeau, pas plus qu’il ne peut nous retenir…?… En puissance, nous sommes déjà
-ressuscités, puisque nous sommes ressuscités, sortis de la mort (qui est l’incrédulité en Sa
-Parole); nous sommes passés des credo dénominationnels à la Parole Eternelle du Dieu Eternel
-qui est Lui, Lui-même, agissant à travers nous, manifestant Lui-même qu’Il est le Même hier,
-aujourd’hui et éternellement.
-   Et ensuite la Parole qui vient de la Tête, descend dans le Corps — la même Parole. Rien ne
-peut y être ajouté ou en être retranché. Ainsi donc, cette même Parole, alors que le jour approche,
-vient de la Tête, descend dans le Corps, confirmant qu’ils sont Un. Ils sont l’Epoux et l’Epouse. Ils
-sont la chair de Sa chair, la Parole de Sa Parole, la Vie de Sa Vie, l’Esprit de Son Esprit. Vous
-comprenez? — Amen! Et comment reconnaîtrez-vous cela? — Ils portent le même témoignage, le
-même fruit, la même Parole qui manifeste Christ. La même Vie, le même Dieu, le même Esprit, la
-même Parole, le même Livre, (Amen!) les mêmes signes. “Vous ferez aussi les choses que je
-fais…”. O alléluia! O mon Dieu!
-   Remarquez donc que la Parole manifestée dans Son Corps est Sa victoire elle-même et la
-raison de Sa mort. Vous voyez, lorsqu’Il mourut… Son Esprit ne mourut pas; Sa chair seule
-mourut. Son Esprit entra dans le séjour des morts, et prêcha aux âmes emprisonnées. N’est-ce
-pas vrai? Seule, Sa chair mourut; ensuite, Il se releva et la ressuscita (c’est la Parole qui le dit). Il
-est resté mort pendant des années, mais petit à petit, il se releva dès la Réforme, et maintenant,
-l’Epouse se tient debout sur ses pieds.
-   Oh, combien j’aimerais avoir le temps de revenir au prophète Ezéchiel, de sortir ces os
-desséchés et vous montrer toutes ces choses! Ezéchiel demanda: “Les os peuvent-ils vivre de
-nouveau?”. — Il dit: “Prophétise!”. — Mais comment la prophétie peut-elle venir — Par le prophète
+s’en est allée quelque part. Elle ne reviendra jamais. Et quand l’homme est vraiment racheté (c’est la Semence prédestinée qui voit et accepte cela), ses péchés sont détruits. Ils sont partis! Ils sont tombés dans le Sang de Christ, et ne sont plus jamais rappelés! Dieu les oublie, et alors, vous êtes un fils et une fille de Dieu se tenant dans la Présence de Dieu. Amen et amen!
+   Nous sommes maintenant les fils de Dieu. Non pas: nous serons, mais: nous sommes. Nous sommes rachetés. Nous avons la réponse pour Satan. Dieu S’est manifesté. Dieu S’est montré fidèle à Sa promesse pour ce jour. Alléluia! La Tête est ici! (Amen!) — Christ, le Seigneur ressuscité! Il est ici dans la même puissance de résurrection que celle dans laquelle Il a toujours été, et Se manifeste Lui-même. C’est cela, la réponse pour le diable.
+   C’est la raison pour laquelle, lorsque cet homme qui était assis ici, l’autre jour, tomba mort, nous pûmes dire: «Reviens à la vie!». — C’est parce que c’est le Saint-Esprit qui l’avait dit. C’est pourquoi, à Mexico, Il put ressusciter ce petit bébé qui était mort depuis 15 heures. Lorsque vint la vision, Il dit: «Rappelle-le à la vie!». Je dis: «Que le bébé vive!». — Et le bébé, dont les docteurs avaient écrit l’acte de décès certifiant qu’il était mort le matin à 9 heures, ressuscita à 11 heures du soir, et est toujours en vie.
+   D’où cela vient-il? — Non pas de ces gens. Mais la Tête et le Corps sont devenus Un. C’est Dieu manifesté dans Son peuple. C’est la raison pour laquelle l’homme et la femme ne sont plus deux êtres séparés, mais une seule chair. Dieu et Son Eglise sont Un — Christ en vous! C’est la glorieuse révélation de Dieu. Gloire à Dieu! Nous portons Son Nom. Son Nom est Jésus, l’Oint. La raison pour laquelle Il est appelé Jésus est qu’Il est l’Oint. Et c’est le Corps Oint de Christ qui manifeste Dieu comme Il l’a fait autrefois dans Son Corps. Et ce Corps a racheté ces corps.
+   Et c’est au travers de ces choses qu’apparaît la triple manifestation de Dieu. Il est entré dans le Royaume, Il est ressuscité, Il a payé le prix. Nous sommes rachetés. Dieu l’a confirmé. Vous comprenez? Et nous nous tenons devant Lui, justifiés en Christ, parce qu’Il ne peut prononcer de jugement, ayant déjà jugé ce Corps dont je fais partie. Comment puis-je en être partie? Il est ici — Il est en moi. “… Si vous demeurez en Moi et que mes Paroles demeurent en vous… demandez au Père ce que vous voudrez en Mon Nom, et cela vous sera accordé…”. — Etre justifié! Gloire à Dieu!
+   Oh! si je pouvais faire quelque chose pour que le monde puisse voir cela! — Pourquoi? Eh bien, parce qu’il y a là le Corps de Christ vivant, racheté. O mon Dieu! racheté par Lui! Pourquoi sommes-nous justifiés? — Nous sommes Sa victoire! L’Eglise est Sa victoire. Nous sommes venus dans ces derniers jours avec ce glorieux Evangile, montrant Sa victoire. C’est pour cela qu’Il est mort, et nous sommes la preuve de Sa victoire. Amen! Lorsque nous Le voyons descendre et vivre dans Son Eglise — c’est cela, Sa victoire. Cela montre que Satan ne pouvait pas le retenir dans le tombeau, pas plus qu’il ne peut nous retenir…?… En puissance, nous sommes déjà ressuscités, puisque nous sommes ressuscités, sortis de la mort (qui est l’incrédulité en Sa Parole); nous sommes passés des credo dénominationnels à la Parole Eternelle du Dieu Eternel qui est Lui, Lui-même, agissant à travers nous, manifestant Lui-même qu’Il est le Même hier, aujourd’hui et éternellement.
+   Et ensuite la Parole qui vient de la Tête, descend dans le Corps — la même Parole. Rien ne peut y être ajouté ou en être retranché. Ainsi donc, cette même Parole, alors que le jour approche, vient de la Tête, descend dans le Corps, confirmant qu’ils sont Un. Ils sont l’Epoux et l’Epouse. Ils sont la chair de Sa chair, la Parole de Sa Parole, la Vie de Sa Vie, l’Esprit de Son Esprit. Vous comprenez? — Amen! Et comment reconnaîtrez-vous cela? — Ils portent le même témoignage, le même fruit, la même Parole qui manifeste Christ. La même Vie, le même Dieu, le même Esprit, la même Parole, le même Livre, (Amen!) les mêmes signes. “Vous ferez aussi les choses que je fais…”. O alléluia! O mon Dieu!
+   Remarquez donc que la Parole manifestée dans Son Corps est Sa victoire elle-même et la raison de Sa mort. Vous voyez, lorsqu’Il mourut… Son Esprit ne mourut pas; Sa chair seule mourut. Son Esprit entra dans le séjour des morts, et prêcha aux âmes emprisonnées. N’est-ce pas vrai? Seule, Sa chair mourut; ensuite, Il se releva et la ressuscita (c’est la Parole qui le dit). Il est resté mort pendant des années, mais petit à petit, il se releva dès la Réforme, et maintenant, l’Epouse se tient debout sur ses pieds.
+   Oh, combien j’aimerais avoir le temps de revenir au prophète Ezéchiel, de sortir ces os desséchés et vous montrer toutes ces choses! Ezéchiel demanda: “Les os peuvent-ils vivre de nouveau?”. — Il dit: “Prophétise!”. — Mais comment la prophétie peut-elle venir — Par le prophète
 
         http://www.cmpp.ch
 
     CHRIST EST LA REVELATION DU MYSTERE DE DIEU    46
-seulement. C’est la Parole du Seigneur. “Ecoutez la Parole du Seigneur, vous, ossements
-desséchés!”. Alors, la chair et la peau recouvrirent peu à peu ces ossements, et bientôt ils
-devinrent une puissante armée qui se mit en marche vers Sion. Gloire à Dieu!… C’est à Lui
-qu’appartient la victoire!
+seulement. C’est la Parole du Seigneur. “Ecoutez la Parole du Seigneur, vous, ossements desséchés!”. Alors, la chair et la peau recouvrirent peu à peu ces ossements, et bientôt ils devinrent une puissante armée qui se mit en marche vers Sion. Gloire à Dieu!… C’est à Lui qu’appartient la victoire!
       C’est dans la joie que les rachetés du Seigneur entreront dans Sion.
       Et aucun d’eux ne fera de mal à Ses saintes montagnes.
    Il manifeste Sa vie de résurrection, après S’être confirmé Lui-même.
-   L’Epouse, elle, est indépendante de tous les autres. Elle est une femme indépendante, un
-oiseau aux plumes de diverses couleurs, différent de tous les autres oiseaux. Rappelez-vous ce
-que dit la Bible à ce sujet: c’était un oiseau de diverses couleurs, mais il portait Son Nom. Elle
-portait Sa Vie, car…
-   Comment marquaient-ils ces taches sur l’oiseau? — Les deux oiseaux étaient blancs, mais ils
-coupaient la tête de l’un des oiseaux et versaient son sang sur l’autre oiseau. Et l’autre oiseau
-devenait couvert des taches rouges du sang; il se mettait à battre des ailes comme ceci, et le sang
-criait: “Saint, Saint, Saint!…”, alors qu’il était répandu sur le sol. Ainsi Christ, l’Epoux qui mourut,
-ayant donné Sa Vie, met en nous Son Sang (le Sang de Sa Vie), et nous portons en nous ce Sang
-qui crie au Seigneur: “Saint, Saint, Saint!”. C’est un oiseau d’aspect bizarre, cela est certain! Mais
-elle, l’Epouse, elle s’identifie à Lui, et elle est indépendante de tous les autres. “… tu lui
-appartiendras aussi longtemps que tu vivras…”. Restez fidèles à Lui seulement, à la Parole. Pas
-d’adultère, pas la moindre trace d’esprit de dénomination, de credo, aucun adultère, mais
-uniquement la Parole et Lui! «Je m’appuie sur Christ, le rocher solide, tout le reste n’est que sable
-mouvant», a dit Eddie Pruitt.
-   Tout est en Christ, la Parole. Il était la Parole; Il est la Parole. Et l’Eglise s’identifie peu à peu à
-la Parole, parce qu’Il fait d’Elle une partie de Lui — Qui est la Parole. Elle est identifiée à Sa
-Personne; elle est Sa propriété. Sa propriété à Lui Seul. Elle a été rachetée par Lui, au moyen de
-Lui, pour Lui et pour Lui seul. C’est juste!
-   Alors, si le diable rugit, c’est parce que cette Parole est en train d’être révélée. Nous vivons des
-temps dangereux. Rappelez-vous que la Bible dit que lorsque ces choses arriveraient, il n’y aurait
-plus de temps. Le temps est en train de disparaître. Et lorsque nous verrons les manifestations:
-tremblements de terre — avez-vous vu comment il y a eu des milliers d’hommes tués, l’autre jour?
-— des tremblements de terre à différents endroits… des apparitions terrifiantes dans le ciel
-(semblables à des colonnes de feu, ces soucoupes volantes) … Ils ne savent pas ce que c’est, et
-n’en ont aucune idée.
-   Avez-vous remarqué ces anges qui sont descendus sur terre, et ont inspecté Sodome avant
-qu’elle ne fût détruite? Vous rappelez-vous cela? Il y en avait plusieurs — trois. L’un d’eux resta
-avec Abraham — vous souvenez-vous de cela? Ils étaient des Lumières descendues du Ciel pour
-instruire son jugement… Voyez où on les trouve. Ils les trouvent dans les environs du Pentagone.
-C’est le jugement du monde, de Sodome. Et il y aura Quelqu’un qui sera représenté parmi les
-églises: ce sera Christ Lui-même qui Se manifestera. Vous voyez? Ce sont les signes dans le ciel
-et sur la terre. Il Se manifestera…
-   Oh! Cela fait hurler le diable! Cette Vérité de la Promesse de la Parole manifestée dans
-l’Epouse seule. Eux, ils ne connaissent pas la réponse. Lorsque Jésus vint, pourquoi ces
-pharisiens…? Il dit: “Et si moi, je chasse les démons par Béelzébul, vos fils, par qui les
-chassent-ils?”. Il était seul, et Son Eglise demeure seule. Elle n’est rattachée à rien. Mais Lui fut
-identifié par Dieu, étant le corps dans lequel Dieu habita, et l’Eglise, identifiée par Son Corps, agit
-de la même manière. Elle est Son Corps. La Vérité manifestée de Sa Parole promise pour les
-derniers jours. Et elle, Elle seule, vit par cette Parole. C’est pourquoi le diable crie à ces
-organisations de faire quelque chose pour lui barrer la route. Mais ils ne le feront jamais. Elle
-sera enlevée, et non pas réduite au silence!
-   Maintenant, elle s’est levée par la Puissance de la Parole confirmée qui lui a été promise.
-Amen! Combien une fiancée tient à cette promesse! «Il m’a dit qu’Il viendrait me chercher. Je le
-crois». Vous comprenez? — Oui, c’est cela! Elle rencontrera sa Tête, son Rédempteur, son
-Epoux, son Roi, son Seigneur, Celui qu’elle aime, son Sauveur, à l’endroit prévu. Il a un lieu où la
-rencontrer. Vous savez que l’Epoux n’abandonnera personne. Il possède l’anneau, le signe
-d’identification. Il tient entre Ses mains la robe qu’Elle doit porter, Son vêtement. Vous
+   L’Epouse, elle, est indépendante de tous les autres. Elle est une femme indépendante, un oiseau aux plumes de diverses couleurs, différent de tous les autres oiseaux. Rappelez-vous ce que dit la Bible à ce sujet: c’était un oiseau de diverses couleurs, mais il portait Son Nom. Elle portait Sa Vie, car…
+   Comment marquaient-ils ces taches sur l’oiseau? — Les deux oiseaux étaient blancs, mais ils coupaient la tête de l’un des oiseaux et versaient son sang sur l’autre oiseau. Et l’autre oiseau devenait couvert des taches rouges du sang; il se mettait à battre des ailes comme ceci, et le sang criait: “Saint, Saint, Saint!…”, alors qu’il était répandu sur le sol. Ainsi Christ, l’Epoux qui mourut, ayant donné Sa Vie, met en nous Son Sang (le Sang de Sa Vie), et nous portons en nous ce Sang qui crie au Seigneur: “Saint, Saint, Saint!”. C’est un oiseau d’aspect bizarre, cela est certain! Mais elle, l’Epouse, elle s’identifie à Lui, et elle est indépendante de tous les autres. “… tu lui appartiendras aussi longtemps que tu vivras…”. Restez fidèles à Lui seulement, à la Parole. Pas d’adultère, pas la moindre trace d’esprit de dénomination, de credo, aucun adultère, mais uniquement la Parole et Lui! «Je m’appuie sur Christ, le rocher solide, tout le reste n’est que sable mouvant», a dit Eddie Pruitt.
+   Tout est en Christ, la Parole. Il était la Parole; Il est la Parole. Et l’Eglise s’identifie peu à peu à la Parole, parce qu’Il fait d’Elle une partie de Lui — Qui est la Parole. Elle est identifiée à Sa Personne; elle est Sa propriété. Sa propriété à Lui Seul. Elle a été rachetée par Lui, au moyen de Lui, pour Lui et pour Lui seul. C’est juste!
+   Alors, si le diable rugit, c’est parce que cette Parole est en train d’être révélée. Nous vivons des temps dangereux. Rappelez-vous que la Bible dit que lorsque ces choses arriveraient, il n’y aurait plus de temps. Le temps est en train de disparaître. Et lorsque nous verrons les manifestations: tremblements de terre — avez-vous vu comment il y a eu des milliers d’hommes tués, l’autre jour? — des tremblements de terre à différents endroits… des apparitions terrifiantes dans le ciel (semblables à des colonnes de feu, ces soucoupes volantes) … Ils ne savent pas ce que c’est, et n’en ont aucune idée.
+   Avez-vous remarqué ces anges qui sont descendus sur terre, et ont inspecté Sodome avant qu’elle ne fût détruite? Vous rappelez-vous cela? Il y en avait plusieurs — trois. L’un d’eux resta avec Abraham — vous souvenez-vous de cela? Ils étaient des Lumières descendues du Ciel pour instruire son jugement… Voyez où on les trouve. Ils les trouvent dans les environs du Pentagone. C’est le jugement du monde, de Sodome. Et il y aura Quelqu’un qui sera représenté parmi les églises: ce sera Christ Lui-même qui Se manifestera. Vous voyez? Ce sont les signes dans le ciel et sur la terre. Il Se manifestera…
+   Oh! Cela fait hurler le diable! Cette Vérité de la Promesse de la Parole manifestée dans l’Epouse seule. Eux, ils ne connaissent pas la réponse. Lorsque Jésus vint, pourquoi ces pharisiens…? Il dit: “Et si moi, je chasse les démons par Béelzébul, vos fils, par qui les chassent-ils?”. Il était seul, et Son Eglise demeure seule. Elle n’est rattachée à rien. Mais Lui fut identifié par Dieu, étant le corps dans lequel Dieu habita, et l’Eglise, identifiée par Son Corps, agit de la même manière. Elle est Son Corps. La Vérité manifestée de Sa Parole promise pour les derniers jours. Et elle, Elle seule, vit par cette Parole. C’est pourquoi le diable crie à ces organisations de faire quelque chose pour lui barrer la route. Mais ils ne le feront jamais. Elle sera enlevée, et non pas réduite au silence!
+   Maintenant, elle s’est levée par la Puissance de la Parole confirmée qui lui a été promise. Amen! Combien une fiancée tient à cette promesse! «Il m’a dit qu’Il viendrait me chercher. Je le crois». Vous comprenez? — Oui, c’est cela! Elle rencontrera sa Tête, son Rédempteur, son Epoux, son Roi, son Seigneur, Celui qu’elle aime, son Sauveur, à l’endroit prévu. Il a un lieu où la rencontrer. Vous savez que l’Epoux n’abandonnera personne. Il possède l’anneau, le signe d’identification. Il tient entre Ses mains la robe qu’Elle doit porter, Son vêtement. Vous
 
     http://www.cmpp.ch
 

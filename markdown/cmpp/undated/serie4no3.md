@@ -1,535 +1,228 @@
-    SERIE 4, N° 3
+---
+source: "cmpp"
+sermon_id: "serie4no3"
+title: "L'ORDRE DANS L'EGLISE"
+subtitle: "26 décembre 1963, soir"
+date: "1963-12-26"
+year: 1963
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham expose l'ordre biblique pour l'Église locale, traitant des rôles du pasteur, des diacres et des administrateurs, de l'exercice des dons spirituels (parler en langues, interprétation, prophétie), de l'aide financière aux membres, et de l'organisation de l'école du dimanche. Il insiste sur la soumission à la Parole et l'ordre dans les réunions."
+tags:
+  - "ordre dans l'Église"
+  - "dons spirituels"
+  - "parler en langues"
+  - "diacres"
+  - "école du dimanche"
+  - "William Branham"
+persons:
+  - "William Marrion Branham"
+  - "Paul"
+  - "Orman Neville"
+  - "Collins"
+  - "Hickerson"
+places:
+  - "Branham Tabernacle"
+  - "Jeffersonville"
+  - "Indiana"
+  - "Éphèse"
+  - "Corinthe"
+  - "Rome"
+  - "New York"
+themes:
+  - "autorité biblique"
+  - "ordre dans l'Église"
+  - "dons spirituels"
+  - "rôle des diacres"
+  - "école du dimanche"
+  - "soumission à la Parole"
+pdf_url: "http://cmpp.ch/serie4no3.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Ésaïe 34"
+---
+SÉRIE 4, N° 3
 
+LA PAROLE PARLÉE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
+WILLIAM MARRION BRANHAM
 
-    WILLIAM MARRION BRANHAM
+# L’ORDRE DANS L’ÉGLISE
 
+*(Church Order)*
 
+26 décembre 1963, soir
+Branham Tabernacle, Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLÉE EST LA SEMENCE ORIGINALE»
 
+---
 
-L’ORDRE DANS L’EGLISE
-    (Church Order)
+1 Chers frères, ce soir nous avons organisé cette réunion ensemble dans le but de savoir comment agir dans l’Église du Dieu vivant, car nous croyons faire partie de cette Église.
 
+2 Tout d’abord j’aimerais dire que de tous les endroits que j’ai vus lors de mes voyages autour du monde, c’est ici l’un des lieux les plus spirituels où vous sentez l’Esprit de Dieu plus que dans n’importe quel endroit que je connaisse. J’avais à l’esprit deux autres endroits qui étaient également spirituels, mais il ne semble plus que cela se manifeste; l’un s’est transformé en organisation et l’autre a en quelque sorte chuté.
 
+3 Ainsi on m’a appelé hier pour me dire que vous vouliez tous une réunion pour me poser ces questions au sujet de vos devoirs dans cette église, et c’est pourquoi je suis ici ce soir, pour établir l’église ou pour vous apporter les choses que je pense être substantielles pour permettre à cette église de continuer.
 
+4 Frères, je suis sûr que vous comprenez cette remarque que j’ai faite au sujet de cette église qui est un endroit spirituel. Ce n’est pas le plus grand endroit du monde et ce n’est pas ici que nous avons le plus de chants, de cris et d’exclamations ou le plus de parlers en langues et toutes ces choses, non, cela ne l’est pas, mais c’est la qualité de l’Esprit qui opère ici dans ce Tabernacle. J’aimerais donc féliciter et remercier frère Neville, ainsi que vous frères ici présents, administrateurs et diacres, directeurs de l’école du dimanche et vous tous pour votre contribution au bon fonctionnement de tout ceci. C’était depuis longtemps un sujet de prière pour moi et ce fut mon désir depuis ma jeunesse de voir cette église mise en ordre et gardée en ordre.
 
-26 décembre 1963, soir Branham
- Tabernacle Jeffersonville —
-       Indiana, U.S.A.
+5 Maintenant lorsque nous avons consacré cette église, je vous ai dit: «Un peu plus tard, j’aurai quelque chose à vous dire au sujet de l’ordre de cette église et de la manière dont elle devrait être dirigée». Et après mon départ nous avons eu des prédicateurs et autres. Mais ensuite frère Neville est venu au milieu de nous et comme il était encore tout jeune, j’ai pensé qu’il serait préférable pour lui d’attendre qu’il soit mieux établi dans la foi avant que je ne présente les choses comme je vais le faire maintenant. Mais maintenant je trouve qu’il est bien établi dans la foi, qu’il comprend ce qu’est la doctrine; il a joué le rôle d’un fidèle témoin de Christ et s’en est tenu à ce que nous croyons être la Vérité. Aussi je pense que c’est maintenant le bon moment pour que je vous introduise, lui et vous les anciens, dans les choses de l’église afin que vous preniez ces ordres et vous en souveniez, car ils sont à ma connaissance les meilleurs devant Dieu. Ensuite je veillerai à ce que vous exécutiez ces choses comme je vous les présente, car ici il doit y avoir une tête.
 
+6 Maintenant je n’essaie pas d’usurper l’autorité ou quelque chose ainsi, mais vous voyez, si un homme ou quelque chose a deux têtes, cela ne peut pas aller. Dieu n’a jamais eu deux têtes pour Son Église, non jamais. Il a toujours traité avec une seule tête comme nous l’avons étudié au travers des Écritures; dans chaque génération Il a toujours eu affaire à un seul homme. Car si vous prenez deux hommes, vous aurez deux opinions. Nous devons en arriver à un absolu final et mon absolu est la Parole, la Bible. En tant que pasteur de l’église ici, mon absolu est la Parole, la Bible, et je sais que vous êtes des frères qui avez tendance à me considérer comme votre absolu. Aussi longtemps que je suivrai Dieu, comme Paul l’a dit dans les Écritures: “Vous me suivrez comme moi je suis Christ”.
 
+7 Et j’attends de vous, frères, qu’à n’importe quel moment où vous me verrez m’écarter de cette Écriture, vous viendrez en privé me dire où je suis dans l’erreur. Peu m’importe que vous soyez un des administrateurs ou le concierge, qui que vous soyez, en tant que frère en Christ, c’est votre devoir de me dire d’après les Écritures où je me suis trompé. Et si une question se pose, asseyons-nous et résolvons-la ensemble.
 
+8 Je suppose que c’est pour cela que ce soir vous êtes venus vers moi, que vous m’avez fait venir ici. Car au sujet de ces choses, vous avez des questions qui semblent vous travailler l’esprit. Maintenant souvenez-vous, frères, qu’aucun de ces billets n’est signé et je ne sais pas qui les a écrits, mais ce sont des questions que vous avez à l’esprit et je suis ici pour y répondre au mieux de ma connaissance.
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+9 Et souvenez-vous que Dieu attend de moi que je reste dans la Parole, et j’attends que vous exécutiez la Parole dans l’Église, vous voyez. Et restez spirituels, car souvenez-vous que toutes les forces du royaume des ténèbres de Satan se tourneront contre vous lorsque vous commencerez à grandir dans le Seigneur. Vous devez être des soldats, non de jeunes recrues. Vous êtes de vieux soldats maintenant et vous êtes entraînés au combat. Et Satan viendra parmi vous et vous fera vous disputer entre vous s’il le peut. Repoussez-le immédiatement; vous êtes frères et c’est l’ennemi. Et nous sommes ici pour tenir un étendard dans ce temps de la Lumière du soir, alors que le monde est dans les ténèbres et que tout le royaume de l’église entre dans le Conseil des Églises. Et très bientôt ils essayeront de clouer sur cette porte une pancarte: «Fermé». Et alors nous devrons nous rencontrer ailleurs, car un de ces jours ils fermeront certainement ces églises, si nous ne prenons pas la marque de la bête. Et il s’agit de rester fidèles à Dieu jusqu’à ce que la mort nous libère, et c’est ce nous avons l’intention de faire.
 
-    L’ORDRE DANS L’EGLISE    2
+10 Et si jamais il surgissait une question au sujet d’une de ces choses, je demande que l’on fasse écouter cette bande aux membres de cette église (vous voyez?) lors de vos réunions, ou avant la réunion, juste avant le début de la réunion. Faites écouter la bande! Et puisse l’assemblée ici comprendre que ces hommes qui ont prêté serment dans cette église sont redevables à Dieu de maintenir ces principes. Il se peut que vous soyez en désaccord avec eux et si je laisse faire cela, alors c’est moi qui ne serai plus en accord avec vous. Nous devons avoir une source quelque part qui soit un absolu. Et la meilleure chose que je connaisse, c’est de remettre cela sous l’autorité du Saint-Esprit, Le laissant ainsi être mon Absolu. Que cet enregistrement soit votre absolu pour ces questions.
 
-
-L’ORDRE DANS L’EGLISE
-    (Church Order)
-
-
-
-     26 décembre 1963, soir
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
-
-
-
-1 Chers frères, ce soir nous avons organisé cette réunion ensemble dans le but de savoir comment
-agir dans l’Eglise du Dieu vivant, car nous croyons faire partie de cette Eglise.
-2 Tout d’abord j’aimerais dire que de tous les endroits que j’ai vus lors de mes voyages autour du
-monde, c’est ici l’un des lieux les plus spirituels où vous sentez l’Esprit de Dieu plus que dans
-n’importe quel endroit que je connaisse. J’avais à l’esprit deux autres endroits qui étaient également
-spirituels, mais il ne semble plus que cela se manifeste; l’un s’est transformé en organisation et l’autre
-a en quelque sorte chuté.
-3 Ainsi on m’a appelé hier pour me dire que vous vouliez tous une réunion pour me poser ces
-questions au sujet de vos devoirs dans cette église, et c’est pourquoi je suis ici ce soir, pour établir
-l’église ou pour vous apporter les choses que je pense être substantielles pour permettre à cette
-église de continuer.
-4 Frères, je suis sûr que vous comprenez cette remarque que j’ai faite au sujet de cette église qui
-est un endroit spirituel. Ce n’est pas le plus grand endroit du monde et ce n’est pas ici que nous
-avons le plus de chants, de cris et d’exclamations ou le plus de parlers en langues et toutes
-ces choses, non, cela ne l’est pas, mais c’est la qualité de l’Esprit qui opère ici dans ce
-Tabernacle. J’aimerais donc féliciter et remercier frère Neville, ainsi que vous frères ici présents,
-administrateurs et diacres, directeurs de l’école du dimanche et vous tous pour votre contribution au
-bon fonctionnement de tout ceci. C’était depuis longtemps un sujet de prière pour moi et ce fut mon
-désir depuis ma jeunesse de voir cette église mise en ordre et gardée en ordre.
-5 Maintenant lorsque nous avons consacré cette église, je vous ai dit: «Un peu plus tard, j’aurai
-quelque chose à vous dire au sujet de l’ordre de cette église et de la manière dont elle devrait être
-dirigée». Et après mon départ nous avons eu des prédicateurs et autres. Mais ensuite frère Neville
-est venu au milieu de nous et comme il était encore tout jeune, j’ai pensé qu’il serait préférable pour
-lui d’attendre qu’il soit mieux établi dans la foi avant que je ne présente les choses comme je vais le
-faire maintenant. Mais maintenant je trouve qu’il est bien établi dans la foi, qu’il comprend ce qu’est la
-doctrine; il a joué le rôle d’un fidèle témoin de Christ et s’en est tenu à ce que nous croyons être la
-Vérité. Aussi je pense que c’est maintenant le bon moment pour que je vous introduise, lui et vous les
-anciens, dans les choses de l’église afin que vous preniez ces ordres et vous en souveniez, car ils
-sont à ma connaissance les meilleurs devant Dieu. Ensuite je veillerai à ce que vous exécutiez ces
-choses comme je vous les présente, car ici il doit y avoir une tête.
-6 Maintenant je n’essaie pas d’usurper l’autorité ou quelque chose ainsi, mais vous voyez, si un
-homme ou quelque chose a deux têtes, cela ne peut pas aller. Dieu n’a jamais eu deux têtes pour
-Son Eglise, non jamais. Il a toujours traité avec une seule tête comme nous l’avons étudié au
-travers des Ecritures; dans chaque génération Il a toujours eu affaire à un seul homme. Car si vous
-prenez deux hommes, vous aurez deux opinions. Nous devons en arriver à un absolu final et mon
-absolu est la Parole, la Bible. En tant que pasteur de l’église ici, mon absolu est la Parole, la
-
-        http://www.cmpp.ch
-
-    L’ORDRE DANS L’EGLISE    3
-Bible, et je sais que vous êtes des frères qui avez tendance à me considérer comme votre absolu.
-Aussi longtemps que je suivrai Dieu, comme Paul l’a dit dans les Ecritures: “Vous me suivrez comme
-moi je suis Christ”.
-7 Et j’attends de vous, frères, qu’à n’importe quel moment où vous me verrez m’écarter de cette
-Ecriture, vous viendrez en privé me dire où je suis dans l’erreur. Peu m’importe que vous soyez un
-des administrateurs ou le concierge, qui que vous soyez, en tant que frère en Christ, c’est votre
-devoir de me dire d’après les Ecritures où je me suis trompé. Et si une question se pose,
-asseyons-nous et résolvons-la ensemble.
-8 Je suppose que c’est pour cela que ce soir vous êtes venus vers moi, que vous m’avez fait venir
-ici. Car au sujet de ces choses, vous avez des questions qui semblent vous travailler l’esprit.
-Maintenant souvenez-vous, frères, qu’aucun de ces billets n’est signé et je ne sais pas qui les a
-écrits, mais ce sont des questions que vous avez à l’esprit et je suis ici pour y répondre au mieux de
-ma connaissance.
-9 Et souvenez-vous que Dieu attend de moi que je reste dans la Parole, et j’attends que
-vous exécutiez la Parole dans l’Eglise, vous voyez. Et restez spirituels, car souvenez-vous que
-toutes les forces du royaume des ténèbres de Satan se tourneront contre vous lorsque vous
-commencerez à grandir dans le Seigneur. Vous devez être des soldats, non de jeunes recrues. Vous
-êtes de vieux soldats maintenant et vous êtes entraînés au combat. Et Satan viendra parmi vous et
-vous fera vous disputer entre vous s’il le peut. Repoussez-le immédiatement; vous êtes frères et c’est
-l’ennemi. Et nous sommes ici pour tenir un étendard dans ce temps de la Lumière du soir, alors que
-le monde est dans les ténèbres et que tout le royaume de l’église entre dans le Conseil des Eglises.
-Et très bientôt ils essayeront de clouer sur cette porte une pancarte: «Fermé». Et alors nous devrons
-nous rencontrer ailleurs, car un de ces jours ils fermeront certainement ces églises, si nous ne
-prenons pas la marque de la bête. Et il s’agit de rester fidèles à Dieu jusqu’à ce que la mort nous
-libère, et c’est ce nous avons l’intention de faire.
-10 Et si jamais il surgissait une question au sujet d’une de ces choses, je demande que l’on fasse
-écouter cette bande aux membres de cette église (vous voyez?) lors de vos réunions, ou avant la
-réunion, juste avant le début de la réunion. Faites écouter la bande! Et puisse l’assemblée ici
-comprendre que ces hommes qui ont prêté serment dans cette église sont redevables à Dieu de
-maintenir ces principes. Il se peut que vous soyez en désaccord avec eux et si je laisse faire cela,
-alors c’est moi qui ne serai plus en accord avec vous. Nous devons avoir une source quelque part
-qui soit un absolu. Et la meilleure chose que je connaisse, c’est de remettre cela sous
-l’autorité du Saint-Esprit, Le laissant ainsi être mon Absolu. Que cet enregistrement soit votre
-absolu pour ces questions.
 Maintenant la première question est:
-    220. Comment l’église doit-elle agir lorsqu’elle reçoit des demandes d’aide financière pour de la
-    nourriture et des vêtements? Que devrait faire l’église?
-11 Nous comprenons que l’église est responsable des siens, nous sommes entièrement
-responsables des membres de notre église ici, dans la mesure où nous avons les moyens de leur
-venir en aide. Nous sommes responsables des nôtres, c’est-à-dire des membres réguliers et
-constants qui viennent ici adorer avec nous au Tabernacle. Nous leur sommes redevables en tant
-que frères et soeurs ayant prouvé qu’ils sont membres de cette assemblée.
-12 Maintenant nous réalisons que ce soir il y en a des millions sans nourriture ni vêtements et nous
-aimerions être en mesure de venir en aide à tous, nous aimerions faire tout notre possible, mais
-financièrement nous ne pouvons le faire, nous ne pouvons venir en aide au monde entier. Mais nous
-sommes redevables envers les nôtres. Et je pense que s’il nous reste quelque chose et que vous
-aimeriez aider des gens qui ne sont pas membres de cette église ici, si vous voulez leur donner
-quelque chose, cela devrait être soumis au conseil des diacres.
-13 Les diacres doivent faire face à l’opposition, aux problèmes plutôt; car dans la Bible,
-lorsqu’il y eut une dispute au sujet de la nourriture et des vêtements et toutes ces choses, ils
-appelèrent les apôtres pour cela et ceux-ci dirent: “Choisissez parmi vous sept hommes de réputation
-honnête et remplis du Saint-Esprit qui puissent s’occuper de ces choses, car nous voulons nous
 
-           http://www.cmpp.ch
+> 220. Comment l’église doit-elle agir lorsqu’elle reçoit des demandes d’aide financière pour de la nourriture et des vêtements? Que devrait faire l’église?
 
-L’ORDRE DANS L’EGLISE 4
-consacrer continuellement à la Parole de Dieu et à la prière”.
-14 Ce n’est pas le devoir du pasteur de s’occuper de la nourriture et de ces choses. Les diacres
-sont censés s’en occuper. Ce n’est pas le travail des administrateurs, mais celui des diacres,
-Rappelez-vous que dans la Bible, les Grecs et les Juifs contribuaient chacun pour sa part lorsqu’il y
-eut une discussion, car un des groupes recevait un peu plus que l’autre, mais cela venait de ce que
-des gens avaient vendu tous leurs biens pour soutenir l’église et cela devait être réparti équitablement
-entre tous. Une petite dispute surgit et c’est à cause de cela que nous avons eu nos premiers
-diacres. Et un de leurs devoirs est de faire cela.
-15 Je pense que nous devrions prendre soin des nôtres, de nos propres gens. Et toute réclamation
-devrait être adressée au président du conseil, ensuite le conseil des diacres devrait se réunir pour
-voir ce qu’il peut faire à ce sujet. Et toutes ces choses comme les vêtements, la nourriture et l’aide
-financière ou quoi que ce soit devraient passer par les diacres. Ensuite lorsque les diacres ont décidé
-de ce qu’ils allaient faire à ce sujet, cela devrait être présenté au trésorier afin de voir s’il peut à ce
-moment-là payer cette certaine somme d’argent ou acheter ces vêtements, ou quoi que ce soit. Mais
-le conseil des diacres devrait se réunir à ce sujet car cela ne concerne pas les administrateurs ni
-le pasteur. C’est entièrement l’affaire des diacres.
+11 Nous comprenons que l’église est responsable des siens, nous sommes entièrement responsables des membres de notre église ici, dans la mesure où nous avons les moyens de leur venir en aide. Nous sommes responsables des nôtres, c’est-à-dire des membres réguliers et constants qui viennent ici adorer avec nous au Tabernacle. Nous leur sommes redevables en tant que frères et sœurs ayant prouvé qu’ils sont membres de cette assemblée.
+
+12 Maintenant nous réalisons que ce soir il y en a des millions sans nourriture ni vêtements et nous aimerions être en mesure de venir en aide à tous, nous aimerions faire tout notre possible, mais financièrement nous ne pouvons le faire, nous ne pouvons venir en aide au monde entier. Mais nous sommes redevables envers les nôtres. Et je pense que s’il nous reste quelque chose et que vous aimeriez aider des gens qui ne sont pas membres de cette église ici, si vous voulez leur donner quelque chose, cela devrait être soumis au conseil des diacres.
+
+13 Les diacres doivent faire face à l’opposition, aux problèmes plutôt; car dans la Bible, lorsqu’il y eut une dispute au sujet de la nourriture et des vêtements et toutes ces choses, ils appelèrent les apôtres pour cela et ceux-ci dirent: “Choisissez parmi vous sept hommes de réputation honnête et remplis du Saint-Esprit qui puissent s’occuper de ces choses, car nous voulons nous consacrer continuellement à la Parole de Dieu et à la prière”.
+
+14 Ce n’est pas le devoir du pasteur de s’occuper de la nourriture et de ces choses. Les diacres sont censés s’en occuper. Ce n’est pas le travail des administrateurs, mais celui des diacres. Rappelez-vous que dans la Bible, les Grecs et les Juifs contribuaient chacun pour sa part lorsqu’il y eut une discussion, car un des groupes recevait un peu plus que l’autre, mais cela venait de ce que des gens avaient vendu tous leurs biens pour soutenir l’église et cela devait être réparti équitablement entre tous. Une petite dispute surgit et c’est à cause de cela que nous avons eu nos premiers diacres. Et un de leurs devoirs est de faire cela.
+
+15 Je pense que nous devrions prendre soin des nôtres, de nos propres gens. Et toute réclamation devrait être adressée au président du conseil, ensuite le conseil des diacres devrait se réunir pour voir ce qu’il peut faire à ce sujet. Et toutes ces choses comme les vêtements, la nourriture et l’aide financière ou quoi que ce soit devraient passer par les diacres. Ensuite lorsque les diacres ont décidé de ce qu’ils allaient faire à ce sujet, cela devrait être présenté au trésorier afin de voir s’il peut à ce moment-là payer cette certaine somme d’argent ou acheter ces vêtements, ou quoi que ce soit. Mais le conseil des diacres devrait se réunir à ce sujet car cela ne concerne pas les administrateurs ni le pasteur. C’est entièrement l’affaire des diacres.
+
 Maintenant la question numéro 2:
-     221. Est-il suffisant de dire ouvertement depuis le pupitre que les parlers en langues et les
-     interprétations devraient être faits lors d’une réunion avant le service?
-C’est la deuxième question écrite sur ce bout de papier, cette petite carte que j’ai là.
-16 Maintenant ceci devrait être du ressort du pasteur ici, vous voyez. Parce qu’après tout, dans le
-domaine spirituel il est la tête. Les diacres sont les policiers dans l’église, ils doivent garder
-l’ordre, prendre soin de ces choses, nourrir les pauvres et tout. Les administrateurs dirigent les
-finances et s’occupent du bâtiment, c’est de cela qu’ils doivent s’occuper. Mais le pasteur est la
-tête du domaine spirituel et il le supervise; et ceci devrait être de votre ressort, frère Neville.
-17 Maintenant il y a quelque temps que l’ordre a été établi dans l’église. Je crois réellement au
-parler en langues, à l’interprétation et à tous ces magnifiques dons spirituels que Dieu ordonna dans
-l’église. Mais nous vivons un jour pareil à ceux du temps de la Bible. Maintenant observez Paul qui
-fonds une église à Ephèse; l’église d’Ephèse était bien établie. L’avez-vous remarqué? Nous croyons
-que Paul, comme il le dit lui-même, parla en de nombreuses langues et nous savons qu’il avait le don
-des langues. Non de celles qu’il avait apprises mais de celles qui lui étaient spirituellement données,
-car voyez comme il en parle là dans les Corinthiens. Et pour gagner du temps je pourrais simplement
-voir dans la Bible et le lire pour vous, sinon cela nous ferait rester trop longtemps ici ce soir et je n’ai
-pas beaucoup de temps. Mais voyons simplement cela afin que vous le compreniez clairement.
-18 Or pas une seule fois Paul ne dut parler à l’église d’Ephèse ni à l’église de Rome ni à aucune
-autre de ces églises au sujet de leurs dons spirituels pour leur dire comment les mettre en ordre. Mais
-il dut continuellement en parler aux Corinthiens car c’était pour eux un sujet de controverse continuel.
-Ils avaient découvert que l’un d’eux pouvait parler en langues et l’autre dire un psaume, et lorsqu’il
-vint au milieu d’eux Paul remercia le Seigneur pour tous leurs précieux dons et les choses comme
-cela. Et remarquez que dans les chapitres 1 ou 2 des Corinthiens, Paul leur disait quelle devait être
-leur position, ce qu’ils étaient en Christ, quelle devait être leur position en Christ.
-19 Après leur avoir expliqué ces choses, il se mit à lever le fouet sur eux comme le ferait un père et
-leur dit: “J’ai entendu dire qu’il y avait des discussions parmi vous et même que certains s’enivraient à
-la table du Seigneur”. Pourtant il ne les excommunia pas. Et vous frères, ne le faites pas non
-plus, ne les excommuniez pas! Mais c’est de cette manière qu’ils se conduisaient dans la maison
-de Dieu. Voilà où ils en étaient.
-20 Maintenant, comme Paul l’a dit autrefois, je dirai ceci: “Lorsque vous vous réunissez, si l’un de
-vous parle, qu’un autre interprète. S’il n’y a pas d’interprète, alors restez tranquilles. Mais s’il y a un
-interprète…”.
-21 Maintenant j’ai observé l’église ici, je vous ai vus vous développer et j’ai vu de nombreux dons
-spirituels opérer parmi vous. Mais je dois dire franchement qu’un jour j’ai dû aller vers frère Neville de
-la part du Seigneur pour le reprendre au sujet de quelque chose qu’il faisait.
 
-        http://www.cmpp.ch
+> 221. Est-il suffisant de dire ouvertement depuis le pupitre que les parlers en langues et les interprétations devraient être faits lors d’une réunion avant le service?
 
-    L’ORDRE DANS L’EGLISE                     5
-22 Le Saint-Esprit a fait de moi le surveillant du troupeau, aussi est-ce mon devoir de vous dire la
-Vérité. Je suis très reconnaissant à frère Neville car il prend garde à la Vérité. Je peux seulement
-vous dire la Vérité comme Lui me La dit.
-23 Maintenant j’ai observé votre église se développer et je l’ai noté. Voyons de quelle manière nous
-avions l’Eglise au début. Et c’est ainsi que nous la voulons de nouveau.
-24 Maintenant observez ce que font les bébés. La première chose que fait un bébé est d’essayer de
-parler alors qu’il ne le peut pas. Vous voyez? Il fait beaucoup de bulles, de bruit et tout et il pense
-alors qu’il peut mieux parler que le prédicateur. Eh bien, nous découvrons ceci non seulement dans la
-vie naturelle, mais aussi dans la vie spirituelle. C’est un petit enfant. Et si vous essayez de corriger ce
-bébé et de lui donner une fessée parce qu’il baragouine et essaie de parler, vous allez lui faire du tort.
-Vous voyez, vous lui ferez du mal. Il vaut mieux laisser grandir un peu ce bébé jusqu’à ce qu’il puisse
-réellement dire ses mots correctement et alors vous lui direz: «Pas quand papa ou maman parle».
-Mais lorsque c’est le moment approprié, laissez-le dire son mot. Me comprenez-vous? Laissez-le
-donc parler lorsque vient son tour.
-25 Maintenant s’il y a une chose qui est comme une écharde dans ma chair lors d’une réunion, c’est
-bien lorsque quelqu’un se lève pendant que je parle, donne un message en langue, brisant ainsi le
-rythme de l’Esprit. Je rentre juste d’une réunion à New York et à différents endroits où des
-prédicateurs laissaient faire cela à chaque fois, et ce n’est rien d’autre que de la confusion. Vous
-voyez, lorsque Dieu traite une pensée lors d’un appel à l’autel, Il détruirait Son propre dessein
-s’Il laissait quelqu’un intervenir sans façon en donnant une autre ligne de pensée à
-l’assemblée.
-26 Prenons un exemple. Nous sommes assis à table en train de parler du Seigneur. Et voilà notre
-cadet qui se précipite à toute vitesse vers la table, détourne notre attention de ce que nous faisons en
-s’écriant tout excité: «Oh, papa, maman, je viens de marquer un but dans l’équipe. Et nous avons fait
-ceci et cela et encore ceci et cela!». Et tout ceci alors que nous étions justement en train
-d’approfondir un sujet véritablement sacré. Maintenant, qu’il ait marqué un but au base-ball c’est
-très bien, mais c’est hors de propos lorsqu’il interrompt le message dont nous discutions. Faites-le
-attendre jusqu’à ce que vienne son tour, et alors demandez-lui ce qu’il a fait au base-ball.
-27 Maintenant nous découvrons exactement la même chose avec les dons aujourd’hui. C’est la
-raison pour laquelle Dieu ne peut pas confier trop de dons spirituels aux gens, ils ne savent pas les
-contrôler. C’est ce qui ne va pas aujourd’hui, c’est la raison pour laquelle nous n’en avons pas
-davantage.
-28 Et puis nous découvrons qu’il y a beaucoup d’imitations des dons spirituels. Mais je ne crois pas
-que ce soit le cas ici dans notre église. Je suis reconnaissant pour cela. Je ne crois pas qu’il y ait eu
-d’imitation du tout. Je crois que nous avons de véritables dons, mais nous devons savoir comment les
-contrôler.
-29 Ainsi lorsque vous devez faire quelque chose de bon… C’est comme lorsqu’on travaille pour un
-patron et que vous commencez votre travail pour la première fois; si vous vous montrez désireux
-de recevoir des ordres, alors le patron aura confiance en vous et il vous élèvera chaque fois à
-un poste plus important.
-30 Maintenant je crois que le temps est venu pour le Branham Tabernacle de prendre les dons que
-Dieu nous donne, car Il peut nous confier quelque chose d’encore plus grand que ce que nous avons
-eu. Mais il n’est pas possible d’avancer lorsque vous avez affaire à un homme à qui vous devez
-toujours à nouveau tout expliquer. Et souvenez-vous que l’Ecriture dit: “L’esprit des prophètes est
-soumis aux prophètes”. Lorsque vous voyez un homme ou une femme que vous devez corriger sortir
-de l’ordre établi bien que vous leur ayez dit la Vérité de l’Ecriture, cela montre que l’esprit qui est
-sur eux n’est pas de Dieu. Car la Bible dit: “L’esprit des prophètes”, le fait de prophétiser,
-c’est-à-dire de témoigner, de prêcher, de parler en langues ou quoi que ce soit (car l’interprétation
-des parlers en langues est une prophétie) est soumis au prophète et la Parole est le Prophète. Ainsi
-nous voyons que ce n’est pas conforme à l’ordre pour un homme ou une femme de sauter sur ses
-pieds pour apporter un message pendant que le prédicateur est en chaire, peu importe combien
-est grand leur désir de le faire.
-31 Maintenant, pour le Branham Tabernacle, je propose ceci au sujet des dons que nous
+16 Maintenant ceci devrait être du ressort du pasteur ici, vous voyez. Parce qu’après tout, dans le domaine spirituel il est la tête. Les diacres sont les policiers dans l’église, ils doivent garder l’ordre, prendre soin de ces choses, nourrir les pauvres et tout. Les administrateurs dirigent les finances et s’occupent du bâtiment, c’est de cela qu’ils doivent s’occuper. Mais le pasteur est la tête du domaine spirituel et il le supervise; et ceci devrait être de votre ressort, frère Neville.
 
-                             http://www.cmpp.ch
+17 Maintenant il y a quelque temps que l’ordre a été établi dans l’église. Je crois réellement au parler en langues, à l’interprétation et à tous ces magnifiques dons spirituels que Dieu ordonna dans l’église. Mais nous vivons un jour pareil à ceux du temps de la Bible. Maintenant observez Paul qui fonda une église à Éphèse; l’église d’Éphèse était bien établie. L’avez-vous remarqué? Nous croyons que Paul, comme il le dit lui-même, parla en de nombreuses langues et nous savons qu’il avait le don des langues. Non de celles qu’il avait apprises mais de celles qui lui étaient spirituellement données, car voyez comme il en parle là dans les Corinthiens. Et pour gagner du temps je pourrais simplement voir dans la Bible et le lire pour vous, sinon cela nous ferait rester trop longtemps ici ce soir et je n’ai pas beaucoup de temps. Mais voyons simplement cela afin que vous le compreniez clairement.
 
-L’ORDRE DANS L’EGLISE 6
-découvrons… Et nous avons ici des gens qui ont reçu de précieux dons. Maintenant chacun de ces
-dons est un ministère à lui seul. Ce sont des dons tout comme prêcher est un don, guérir est un don,
-ces autres choses sont des dons, ce sont en eux-mêmes des services. Et chaque homme a le devoir
-de s’occuper de son propre service.
-32 C’est pourquoi le Branham Tabernacle doit être dirigé comme ceci, surtout en ce jour où nous
-avons tant de soi-disant croyances (je n’aime pas dire cela, mais…). Nous ne voulons pas de
-soi-disant croyance, aucun homme, aucune personne intègre ne désire être un soi-disant croyant. S’il
-nous est impossible d’avoir la vraie foi, n’en ayons pas du tout, attendons jusqu’à ce que nous
-obtenions la véritable. Je crois que vous êtes d’accord avec cela. Nous ne voulons pas de
-soi-disant croyance. Frères, nous ne pouvons pas quitter ce monde en commençant avec une
-soi-disant croyance en quelque chose. Nous devons avoir ce qui est vrai et authentique. Si nous
-ne l’avons pas, attendons jusqu’à ce que nous t’obtenions réellement et ensuite nous pourrons en
-parler. Vous voyez?
-33 Maintenant j’aimerais dire ceci: Que tous ces hommes et femmes qui parlent en langues,
-prophétisent et apportent des messages… Et je crois comme vous qu’ils sont véritables. Maintenant
-la Bible dit: “Mais éprouvez toutes choses; retenez ce qui est bon”. “Eh bien! c’est par des hommes
-aux lèvres balbutiantes et au langage barbare que l’Eternel parlera à ce peuple. Il lui disait: Voici le
-repos…”. Toutes ces choses sont écrites dans le livre d’Ésaïe 34 Maintenant je propose que ce sanctuaire ne manifeste qu’un don à la fois, car ceci nous
-ramènera directement au point dont j’essaie de dire: Si quelqu’un parle, que l’esprit des prophètes
-soit soumis au prophète. Comprenez-vous? Maintenant que ceux qui ont un ministère dans le Corps
-de Christ… Maintenant que cela a été dit, faisons ce qui doit être fait. Que ceux qui ont un ministère
-dans le Corps de Christ s’occupent de leur ministère, car c’est un ministère de Christ pour l’église.
-Mais vous ne pouvez pas tous servir en même temps, il faut qu’il y en ait un à la fois.
-35 Le Branham Tabernacle devra être ainsi. Que ceux qui parlent en langues, ceux qui interprètent
-les langues, ceux qui ont des prophéties à donner à l’église se réunissent de bonne heure avant que
-la réunion ne commence, qu’ils se réunissent dans une pièce prévue pour cela et attendent la
-manifestation du ministère du Seigneur.
-36 Le pasteur doit lui-même agir ainsi avant de venir devant l’assistance; il doit prendre sa Bible,
-étudier dans la tranquillité de sa chambre, dans l’Esprit, et être oint avant de venir parler devant
-l’assistance. S’il ne le fait pas il sera dans la confusion en sortant de là. Que chaque homme ou
-femme qui a un don spirituel vienne devant le Seigneur. Etant donné que le pasteur a un ministère
-particulier, il est un prophète; le mot anglais prédicateur signifiant prophète, il est celui qui annonce
-les choses de la Parole.
-37 Que ceux qui ont des ministères en commun, par exemple l’un qui parle en langues et l’autre qui
-l’interprète, s’occupent ensemble de leur ministère. Ils ne peuvent rester en méditation privée chacun
-dans son coin, parler en langues et venir ensuite dire à l’autre ce qu’il a dit, car il doit y avoir en même
-temps le parler en langues et l’interprétation. Vous voyez? Maintenant s’il possède cela à lui seul c’est
-très bien, nous voulons le recevoir ainsi. Et nous voulons que notre église bénéficie des dons
-spirituels qu’elle possède. Dieu nous les a envoyés et nous voulons que notre église bénéficie de ces
-dons spirituels. Ainsi l’homme qui parle en langues, celui qui interprète et celui qui prophétise doivent
-se rencontrer avant que l’église ne s’assemble. Qu’ils se rencontrent à part dans une pièce pour
-s’attendre au ministère du Seigneur à l’église. Est-ce bien compris?
-38 Alors par exemple si frère Neville dit… Excusez, laissez-moi dire ceci. Si frère Collins parle en
-langues et que frère Hickerson donne l’interprétation, alors ils ont un ministère en commun pour
-l’église. Maintenant ceci n’est pas le ministère de frère Neville; c’est votre ministère pour l’église. Je
-donne ceci comme exemple. Alors vous, frères, devriez être tout aussi intéressés à exercer
-votre ministère à sa juste place dans la maison de Dieu que le pasteur l’est pour le sien, car il
-est vraiment primordial que vous le fassiez. Mais si l’un parle et que l’autre interprète, ils ne
-peuvent le faire en privé dans leur chambre, ils doivent s’assembler. Réunissez-vous donc dans
-l’église, dans une pièce à part, car vous avez un ministère privé. Ce n’est pas un ministère que l’on
-peut exercer publiquement, c’est un ministère qui doit aider l’église. Vous voyez? C’est quelque
-chose qui doit aider l’église, mais cela ne doit pas être fait devant toute l’assemblée. Cela doit
-être fait de la seule manière que je vais vous dire. Vous voyez? Donc par exemple si frère Collins dit
+18 Or pas une seule fois Paul ne dut parler à l’église d’Éphèse ni à l’église de Rome ni à aucune autre de ces églises au sujet de leurs dons spirituels pour leur dire comment les mettre en ordre. Mais il dut continuellement en parler aux Corinthiens car c’était pour eux un sujet de controverse continuel. Ils avaient découvert que l’un d’eux pouvait parler en langues et l’autre dire un psaume, et lorsqu’il vint au milieu d’eux Paul remercia le Seigneur pour tous leurs précieux dons et les choses comme cela. Et remarquez que dans les chapitres 1 ou 2 des Corinthiens, Paul leur disait quelle devait être leur position, ce qu’ils étaient en Christ, quelle devait être leur position en Christ.
 
-        http://www.cmpp.ch
+19 Après leur avoir expliqué ces choses, il se mit à lever le fouet sur eux comme le ferait un père et leur dit: “J’ai entendu dire qu’il y avait des discussions parmi vous et même que certains s’enivraient à la table du Seigneur”. Pourtant il ne les excommunia pas. Et vous frères, ne le faites pas non plus, ne les excommuniez pas! Mais c’est de cette manière qu’ils se conduisaient dans la maison de Dieu. Voilà où ils en étaient.
 
-L’ORDRE DANS L’EGLISE 7
-quoi que ce soit et que frère Hickerson en donne l’interprétation, alors que frère Untel note de quoi il
-s’agit. Et si cela arrive…
-39 Maintenant nous savons tous que le Seigneur vient, nous en sommes conscients. Et si frère
-Neville se lève chaque soir et dit: «Attention, le Seigneur va venir!», c’est très bien, vous voyez. Mais
-le pasteur dit cela sur la plate-forme, car il a la parole pour cela. Et s’il est pasteur dans l’église, il doit
-étudier la Parole du Seigneur et vous dire ce qui est dans la Parole du Seigneur au sujet de la venue
-du Seigneur, et c’est par cela que vous êtes avertis. Un ministère différent (à l’église) qui n’aurait pas
-de rapport avec cela, soit le parler en langues, l’interprétation des langues (qui est une prophétie) ou
-un prophète qui parle, c’est quelque chose qui n’est pas écrit dans la Parole. Ce qui est écrit dans la
-Parole, c’est le pasteur qui doit vous l’apporter; mais ce qui n’est pas écrit dans la Parole, c’est ce
-que vous devez lui dire. Par exemple: «Dites à frère Wheeler, AINSI DIT LE SEIGNEUR, qu’il n’aille
-pas à sa sablière demain car un camion s’y renversera», ou quelque chose ainsi qui doit se passer.
-Vous l’avez dit et cela a été interprété, et ensuite déposez cela sur le pupitre après que votre
-ministère soit fini. Le soir, après que l’église ait chanté et tout, si votre service est alors terminé,
-laissez-les venir devant avec la prophétie qui a été donnée.
-40 Je ne pense pas que nous ayons… ou si vous le faites, faites-le ainsi: Lorsque ces gens
-s’assemblent, que ceux qui ont de la sagesse viennent en premier. Car vous voyez, si l’un parle en
-langues et en donne l’interprétation selon l’Ecriture, cela ne peut pas être reçu, à moins que deux ou
-trois n’en témoignent; vous voyez, deux ou trois autres témoins doivent témoigner de cela, ils
-doivent dire qu’ils croient que c’est la Parole du Seigneur. Et il arrive parfois dans ces ministères
-secondaires, tout comme en n’importe quel autre ministère, que vous ayez des esprits qui sont faux;
-vous voyez, ils se mettront à rôder par là, et nous ne voulons pas de cela. Non. Nous voulons que ces
-ministères soient prêts à être mis à nu s’ils doivent être exposés. Vous ne devez pas vous faire du
-souci à cause de cela: s’ils sont de Dieu, ils passeront le test.
-41 C’est tout comme pour le pasteur, si quelqu’un met en question la Parole qu’il a dite il n’a pas à
-revenir en arrière sur ce qu’il a dit, il sait exactement de quoi il parle. Vous pouvez avoir confiance.
-Vous voyez? Il doit en être ainsi de ces autres ministères.
-42 Maintenant si quelqu’un parle en langues et donne un message… Certains parlent en langues et
-ils ne font que “s’édifier eux-mêmes”, comme dit la Bible, ils passent simplement un bon moment. Ils
-sentent qu’ils vont parler en langues et ils parlent en langues. Ils parlent réellement en langues et
-c’est l’Esprit qui le fait. Mais si, assis dans l’assemblée, ils parlent en langues simplement pour
-s’édifier eux-mêmes, cela n’est d’aucun profit pour l’église. L’homme ou la femme ou qui que ce soit
-s’édifie lui-même. Vous voyez?
-43 Parler en langues est un don de Dieu pour l’édification, comme Paul le dit dans l’Ecriture, cela
-sert à l’édification de l’église. Aussi cela doit-il être un message direct de Dieu à l’église, quelque
-chose qui n’est pas écrit ici dans la Bible. Vous voyez?
-44 Si vous me demandiez: «Frère Branham, comment dois-je être baptisé?», je peux vous le dire
-directement. Il n’est pas nécessaire de parler en langues pour dire cela, ce que vous devez faire à
-ce sujet est écrit là dans la Bible. Vous voyez? Vous n’avez pas besoin de poser de questions à ce
-sujet afin que quelqu’un parle en langues pour vous le dire. Vous voyez? C’est déjà écrit.
-45 Mais si vous dites: «Frère Branham, dois-je prendre une décision: dois-je aller dans cette église
-ou dans une autre?» ou quelque chose ainsi. «Ou bien, dois-je faire ceci ou cela?». Or cela devrait
-venir de Dieu. Vous voyez? C’est Dieu qui doit nous le dire. Mais cela devrait venir au travers d’un
-autre ministère car la Parole ne dit pas: «Que frère Orman Neville quitte le Branham Tabernacle et
-aille au Tabernacle de l’Evangile de Fort Wayne». Vous voyez, cela n’est pas dit ici dans la Parole,
-c’est à cela que ces dons sont destinés.
-46 C’est comme si une personne se levait ici et disait: «Croyez-vous en la guérison divine?». Nous
-prêchons cela, nous le croyons, nous croyons en l’onction d’huile.
-47 Mais voici un homme qui dit: «Je n’arrive pas à m’en sortir, qu’est-ce qui ne va pas?». Alors c’est
-à Dieu, au travers des langues, de l’interprétation, de la prophétie ou d’une autre manière, de sonder
-la vie de cet homme et de faire ressortir la chose qu’il a faite auparavant. C’est un ministère qui
-n’appartient pas au pasteur, il fait partie du service de ces dons, mais ceux-ci ne doivent pas être
-exercés ici dans l’auditoire. Vous voyez?
+20 Maintenant, comme Paul l’a dit autrefois, je dirai ceci: “Lorsque vous vous réunissez, si l’un de vous parle, qu’un autre interprète. S’il n’y a pas d’interprète, alors restez tranquilles. Mais s’il y a un interprète…”
 
-        http://www.cmpp.ch
+21 Maintenant j’ai observé l’église ici, je vous ai vus vous développer et j’ai vu de nombreux dons spirituels opérer parmi vous. Mais je dois dire franchement qu’un jour j’ai dû aller vers frère Neville de la part du Seigneur pour le reprendre au sujet de quelque chose qu’il faisait.
 
-L’ORDRE DANS L’EGLISE 8
-48 Maintenant pas une seule fois Paul n’eut à parler à ce sujet à l’église d’Ephèse ni à celle de
-Rome ni à toutes ces autres églises, car elles étaient en ordre; seule l’église de Corinthe ne pouvait
-saisir cela. Or Paul croyait au parler en langues. Il avait parlé en langues dans l’église d’Ephèse, de la
-même manière qu’il l’avait fait dans l’église de Corinthe (vous voyez?), mais aux Ephésiens il pouvait
-parler de plus grandes choses que du simple parler en langues ou de l’interprétation des langues.
-49 Maintenant si quelqu’un écrit un message qui a été donné en langues ou par prophétie et le
-dépose sur le pupitre, le pasteur doit le lire avant le début du service. C’est le AINSI DIT LE
-SEIGNEUR de ces gens qui l’ont prononcé en langues et interprété. Et si cela arrive exactement de la
-manière dont le dit l’interprétation, nous élèverons les mains et remercierons Dieu pour Son Esprit
-parmi nous. Si cela n’arrive pas, alors ne faites plus cela jusqu’à ce que ce mauvais esprit sorte
-de vous. Dieu ne ment pas, Il est toujours véridique.
-50 Vous voyez donc qu’à présent vous êtes assez grands pour agir comme des hommes et non
-comme des enfants qui balbutient. Ce que vous faites doit avoir un sens.
-51 Que l’Eglise soit mise en ordre, qu’Elle vienne donc à cet ordre-ci. Si quelqu’un non instruit de
-ces choses vient parmi vous et que vous parliez en langues, il vous prendra pour des barbares, il ne
-saura pas de quoi vous parlez. Vous voyez? Et réellement, en ce jour où il y a tant de confusion à ce
-sujet, c’est une pierre d’achoppement. Mais il faut que si quelqu’un parle en langues, un autre
-l’interprète et donne le message, et ce qui doit arriver sera lu directement ici depuis le pupitre;
-laissez ensuite les choses suivre leur cours et vous verrez ce qui arrivera. Dites-leur par exemple:
-«Demain, ou la semaine prochaine à tel moment, il se passera telle chose», et alors l’incroyant assis
-ici écoute cela et voit que les choses sont prédites avant qu’elles n’arrivent. Ils verront alors quelle
-sorte d’esprit est parmi vous, que c’est l’Esprit de Dieu. C’est ce que Paul a dit. “Si quelqu’un
-peut prophétiser et révéler les choses cachées, l’assemblée tout entière ne tombera-t-elle pas à
-genoux, même l’incroyant, pour dire: ‹Dieu est au milieu de nous!›”? Vous voyez?
-52 Paul disait aux Corinthiens: “Lorsque j’étais un enfant, j’agissais comme un enfant. Je parlais
-comme un enfant”. II avait l’esprit d’un enfant. “Mais lorsque je devins, un adulte, j’écartais les choses
-de l’enfance”.
-53 Maintenant je m’adresse à vous tous ici: il y a quelques années vous étiez des enfants avec ces
-dons, vous jouiez de-ci, de-là. Mais vous avez suivi une longue école depuis lors, c’est le moment
-pour vous d’être des hommes, non de vous servir de ces dons juste pour jouer. Ces dons sont
-sacrés. Ils sont de Dieu et vous ne devez pas jouer avec eux. Laissons Dieu s’en servir. C’est
-ce que doit être votre ministère et c’est de cette manière que le Branham Tabernacle doit être mis en
-service. Et si à n’importe quel moment une question devait se poser, que cet enregistrement soit
-témoin que c’est là la manière de faire dans le Branham Tabernacle.
-54 Il se peut qu’un étranger entre ici. Car c’est ici un tabernacle interdénominationnel, et des gens y
-entrent qui n’ont pas bien l’habitude de ces choses, ne sont pas très au courant et ne savent pas faire
-mieux que cela. Car avec leur propre pasteur ils se lèvent subitement pour parler en langues et toutes
-ces choses, brisant ainsi son message et détruisant l’appel à l’autel. Vous êtes des gens mieux
-entraînés que cela. Vous voyez? Alors si après le service ces personnes deviennent indisciplinées,
-c’est l’affaire du diacre d’aller vers elles. Ne laissez pas votre pasteur faire cela, à moins que cela
-n’arrive dans un endroit où il n’y a pas de diacre, sinon le diacre est censé s’occuper de cela. Vous
-voyez?
-55 Maintenant si quelqu’un se lève simplement pour donner un message et que le pasteur veut
-s’arrêter juste une minute avant de continuer, c’est très bien, vous voyez, c’est l’affaire du pasteur.
-Mais ensuite avant que cette personne ne sorte de l’édifice, que le diacre la prenne à part et lui parle
-à ce sujet. Si elle pose des questions, faites-lui écouter cet enregistrement et dites: «C’est ce que dit
-l’évêque ou le surveillant de l’église». Par évêque on entend un surveillant. Vous voyez, dans la Bible
-on appelait “évêque” le surveillant général de l’église. Dites-lui donc: «Ce sont les ordres et la
-manière de faire de notre église. Mais nous sommes heureux que vous apportiez votre message. Si
-vous avez un message du Seigneur à donner, venez ici et déposez-le sur le pupitre et notre ministre
-le lira à l’assemblée». Mais cela ne doit pas être une simple répétition des Ecritures ou quelque
-chose ainsi. Ce doit être un message direct aux gens, quelque chose qui doit arriver ou qu’ils
-devraient faire. Est-ce compris? Très bien.
+22 Le Saint-Esprit a fait de moi le surveillant du troupeau, aussi est-ce mon devoir de vous dire la Vérité. Je suis très reconnaissant à frère Neville car il prend garde à la Vérité. Je peux seulement vous dire la Vérité comme Lui me La dit.
 
-        http://www.cmpp.ch
+23 Maintenant j’ai observé votre église se développer et je l’ai noté. Voyons de quelle manière nous avions l’Église au début. Et c’est ainsi que nous la voulons de nouveau.
 
-L’ORDRE DANS L’EGLISE 9
-     222. Maintenant, y a-t-il un meilleur moyen de garder l’ordre dans l’église que celui de le rappeler
-     continuellement aux gens par de constantes répétitions des diacres? Non, c’est ce que je viens
-     d’expliquer. Ceci est la question numéro 3.
-56 Diacres, votre devoir est de garder l’ordre dans l’église avec gentillesse et amabilité. C’est ce que
-vous êtes censés faire si quelqu’un fait du désordre dans l’église, ou entre ici en ayant bu ou quelque
-chose ainsi.
-57 C’est comme lorsqu’ils ont tiré sur un prédicateur l’autre soir sur la plate-forme. Vous en avez
-entendu parler, cet homme ivre est entré ici avec un fusil à deux coups. Il criait après sa femme, il
-voulait qu’elle vienne et s’est dirigé vers le pasteur. Celui-ci lui a montré sa femme qui était assise ici
-mais il allait tirer sur elle ici dans l’église même, et le pasteur commença à discuter avec lui. Et
-l’homme au fusil se retourna, tira sur le pasteur, sur sa femme et sur lui-même.
-58 Or s’il y avait eu là un groupe de diacres lorsque cet homme entra avec son fusil, ils l’auraient
-entouré de leurs bras et lui auraient arraché son fusil. Vous voyez? Ce sont les diacres qui font régner
-l’ordre. Et maintenant les choses se sont passées ainsi, et vous auriez pu à tout moment vous y
-attendre. Mais souvenez-vous que les diacres sont les policiers de la maison de Dieu, peu importe ce
-qu’en pensent les autres. Il arrive qu’un policier n’ait pas envie d’aller arrêter quelqu’un car c’est
-peut-être un de ses amis, mais il est assermenté en vue de ce travail et doit le faire de toute façon.
-C’est son devoir envers sa ville.
-59 C’est cela le devoir d’un diacre envers l’église. Et si quelqu’un se lève subitement et commence à
-interrompre le message du pasteur ou quelque chose ainsi, deux ou trois diacres sont censés aller
-vers lui et dire: «Pourrions-nous vous parler, frère?». Vous voyez? Emmenez-le de l’église vers le
-bureau ou n’importe où et parlez-lui de cela en disant: «Vous ne devez pas interrompre». Vous savez,
-de toute façon la loi inflige une forte amende à celui qui interrompt un service. Vous voyez? Mais vous
-savez, certaines personnes comme des délinquants ou des fanatiques religieux viennent parmi vous
-et commencent à s’agiter, alors les diacres doivent… Et si les diacres semblent ne pas pouvoir
-contrôler cela, alors le conseil des administrateurs ou n’importe qui dans l’église peut se lever et leur
-venir en aide. Vous savez cela.
+24 Maintenant observez ce que font les bébés. La première chose que fait un bébé est d’essayer de parler alors qu’il ne le peut pas. Vous voyez? Il fait beaucoup de bulles, de bruit et tout et il pense alors qu’il peut mieux parler que le prédicateur. Eh bien, nous découvrons ceci non seulement dans la vie naturelle, mais aussi dans la vie spirituelle. C’est un petit enfant. Et si vous essayez de corriger ce bébé et de lui donner une fessée parce qu’il baragouine et essaie de parler, vous allez lui faire du tort. Vous voyez, vous lui ferez du mal. Il vaut mieux laisser grandir un peu ce bébé jusqu’à ce qu’il puisse réellement dire ses mots correctement et alors vous lui direz: «Pas quand papa ou maman parle». Mais lorsque c’est le moment approprié, laissez-le dire son mot. Me comprenez-vous? Laissez-le donc parler lorsque vient son tour.
+
+25 Maintenant s’il y a une chose qui est comme une écharde dans ma chair lors d’une réunion, c’est bien lorsque quelqu’un se lève pendant que je parle, donne un message en langue, brisant ainsi le rythme de l’Esprit. Je rentre juste d’une réunion à New York et à différents endroits où des prédicateurs laissaient faire cela à chaque fois, et ce n’est rien d’autre que de la confusion. Vous voyez, lorsque Dieu traite une pensée lors d’un appel à l’autel, Il détruirait Son propre dessein s’Il laissait quelqu’un intervenir sans façon en donnant une autre ligne de pensée à l’assemblée.
+
+26 Prenons un exemple. Nous sommes assis à table en train de parler du Seigneur. Et voilà notre cadet qui se précipite à toute vitesse vers la table, détourne notre attention de ce que nous faisons en s’écriant tout excité: «Oh, papa, maman, je viens de marquer un but dans l’équipe. Et nous avons fait ceci et cela et encore ceci et cela!». Et tout ceci alors que nous étions justement en train d’approfondir un sujet véritablement sacré. Maintenant, qu’il ait marqué un but au base-ball c’est très bien, mais c’est hors de propos lorsqu’il interrompt le message dont nous discutions. Faites-le attendre jusqu’à ce que vienne son tour, et alors demandez-lui ce qu’il a fait au base-ball.
+
+27 Maintenant nous découvrons exactement la même chose avec les dons aujourd’hui. C’est la raison pour laquelle Dieu ne peut pas confier trop de dons spirituels aux gens, ils ne savent pas les contrôler. C’est ce qui ne va pas aujourd’hui, c’est la raison pour laquelle nous n’en avons pas davantage.
+
+28 Et puis nous découvrons qu’il y a beaucoup d’imitations des dons spirituels. Mais je ne crois pas que ce soit le cas ici dans notre église. Je suis reconnaissant pour cela. Je ne crois pas qu’il y ait eu d’imitation du tout. Je crois que nous avons de véritables dons, mais nous devons savoir comment les contrôler.
+
+29 Ainsi lorsque vous devez faire quelque chose de bon… C’est comme lorsqu’on travaille pour un patron et que vous commencez votre travail pour la première fois; si vous vous montrez désireux de recevoir des ordres, alors le patron aura confiance en vous et il vous élèvera chaque fois à un poste plus important.
+
+30 Maintenant je crois que le temps est venu pour le Branham Tabernacle de prendre les dons que Dieu nous donne, car Il peut nous confier quelque chose d’encore plus grand que ce que nous avons eu. Mais il n’est pas possible d’avancer lorsque vous avez affaire à un homme à qui vous devez toujours à nouveau tout expliquer. Et souvenez-vous que l’Écriture dit: “L’esprit des prophètes est soumis aux prophètes”. Lorsque vous voyez un homme ou une femme que vous devez corriger sortir de l’ordre établi bien que vous leur ayez dit la Vérité de l’Écriture, cela montre que l’esprit qui est sur eux n’est pas de Dieu. Car la Bible dit: “L’esprit des prophètes”, le fait de prophétiser, c’est-à-dire de témoigner, de prêcher, de parler en langues ou quoi que ce soit (car l’interprétation des parlers en langues est une prophétie) est soumis au prophète et la Parole est le Prophète. Ainsi nous voyons que ce n’est pas conforme à l’ordre pour un homme ou une femme de sauter sur ses pieds pour apporter un message pendant que le prédicateur est en chaire, peu importe combien est grand leur désir de le faire.
+
+31 Maintenant, pour le Branham Tabernacle, je propose ceci au sujet des dons que nous découvrons… Et nous avons ici des gens qui ont reçu de précieux dons. Maintenant chacun de ces dons est un ministère à lui seul. Ce sont des dons tout comme prêcher est un don, guérir est un don, ces autres choses sont des dons, ce sont en eux-mêmes des services. Et chaque homme a le devoir de s’occuper de son propre service.
+
+32 C’est pourquoi le Branham Tabernacle doit être dirigé comme ceci, surtout en ce jour où nous avons tant de soi-disant croyances (je n’aime pas dire cela, mais…). Nous ne voulons pas de soi-disant croyance, aucun homme, aucune personne intègre ne désire être un soi-disant croyant. S’il nous est impossible d’avoir la vraie foi, n’en ayons pas du tout, attendons jusqu’à ce que nous obtenions la véritable. Je crois que vous êtes d’accord avec cela. Nous ne voulons pas de soi-disant croyance. Frères, nous ne pouvons pas quitter ce monde en commençant avec une soi-disant croyance en quelque chose. Nous devons avoir ce qui est vrai et authentique. Si nous ne l’avons pas, attendons jusqu’à ce que nous l’obtenions réellement et ensuite nous pourrons en parler. Vous voyez?
+
+33 Maintenant j’aimerais dire ceci: Que tous ces hommes et femmes qui parlent en langues, prophétisent et apportent des messages… Et je crois comme vous qu’ils sont véritables. Maintenant la Bible dit: “Mais éprouvez toutes choses; retenez ce qui est bon”. “Eh bien! c’est par des hommes aux lèvres balbutiantes et au langage barbare que l’Éternel parlera à ce peuple. Il lui disait: Voici le repos…”. Toutes ces choses sont écrites dans le livre d’Ésaïe 34 Maintenant je propose que ce sanctuaire ne manifeste qu’un don à la fois, car ceci nous ramènera directement au point dont j’essaie de dire: Si quelqu’un parle, que l’esprit des prophètes soit soumis au prophète. Comprenez-vous? Maintenant que ceux qui ont un ministère dans le Corps de Christ… Maintenant que cela a été dit, faisons ce qui doit être fait. Que ceux qui ont un ministère dans le Corps de Christ s’occupent de leur ministère, car c’est un ministère de Christ pour l’église. Mais vous ne pouvez pas tous servir en même temps, il faut qu’il y en ait un à la fois.
+
+35 Le Branham Tabernacle devra être ainsi. Que ceux qui parlent en langues, ceux qui interprètent les langues, ceux qui ont des prophéties à donner à l’église se réunissent de bonne heure avant que la réunion ne commence, qu’ils se réunissent dans une pièce prévue pour cela et attendent la manifestation du ministère du Seigneur.
+
+36 Le pasteur doit lui-même agir ainsi avant de venir devant l’assistance; il doit prendre sa Bible, étudier dans la tranquillité de sa chambre, dans l’Esprit, et être oint avant de venir parler devant l’assistance. S’il ne le fait pas il sera dans la confusion en sortant de là. Que chaque homme ou femme qui a un don spirituel vienne devant le Seigneur. Étant donné que le pasteur a un ministère particulier, il est un prophète; le mot anglais prédicateur signifiant prophète, il est celui qui annonce les choses de la Parole.
+
+37 Que ceux qui ont des ministères en commun, par exemple l’un qui parle en langues et l’autre qui l’interprète, s’occupent ensemble de leur ministère. Ils ne peuvent rester en méditation privée chacun dans son coin, parler en langues et venir ensuite dire à l’autre ce qu’il a dit, car il doit y avoir en même temps le parler en langues et l’interprétation. Vous voyez? Maintenant s’il possède cela à lui seul c’est très bien, nous voulons le recevoir ainsi. Et nous voulons que notre église bénéficie des dons spirituels qu’elle possède. Dieu nous les a envoyés et nous voulons que notre église bénéficie de ces dons spirituels. Ainsi l’homme qui parle en langues, celui qui interprète et celui qui prophétise doivent se rencontrer avant que l’église ne s’assemble. Qu’ils se rencontrent à part dans une pièce pour s’attendre au ministère du Seigneur à l’église. Est-ce bien compris?
+
+38 Alors par exemple si frère Neville dit… Excusez, laissez-moi dire ceci. Si frère Collins parle en langues et que frère Hickerson donne l’interprétation, alors ils ont un ministère en commun pour l’église. Maintenant ceci n’est pas le ministère de frère Neville; c’est votre ministère pour l’église. Je donne ceci comme exemple. Alors vous, frères, devriez être tout aussi intéressés à exercer votre ministère à sa juste place dans la maison de Dieu que le pasteur l’est pour le sien, car il est vraiment primordial que vous le fassiez. Mais si l’un parle et que l’autre interprète, ils ne peuvent le faire en privé dans leur chambre, ils doivent s’assembler. Réunissez-vous donc dans l’église, dans une pièce à part, car vous avez un ministère privé. Ce n’est pas un ministère que l’on peut exercer publiquement, c’est un ministère qui doit aider l’église. Vous voyez? C’est quelque chose qui doit aider l’église, mais cela ne doit pas être fait devant toute l’assemblée. Cela doit être fait de la seule manière que je vais vous dire. Vous voyez? Donc par exemple si frère Collins dit quoi que ce soit et que frère Hickerson en donne l’interprétation, alors que frère Untel note de quoi il s’agit. Et si cela arrive…
+
+39 Maintenant nous savons tous que le Seigneur vient, nous en sommes conscients. Et si frère Neville se lève chaque soir et dit: «Attention, le Seigneur va venir!», c’est très bien, vous voyez. Mais le pasteur dit cela sur la plate-forme, car il a la parole pour cela. Et s’il est pasteur dans l’église, il doit étudier la Parole du Seigneur et vous dire ce qui est dans la Parole du Seigneur au sujet de la venue du Seigneur, et c’est par cela que vous êtes avertis. Un ministère différent (à l’église) qui n’aurait pas de rapport avec cela, soit le parler en langues, l’interprétation des langues (qui est une prophétie) ou un prophète qui parle, c’est quelque chose qui n’est pas écrit dans la Parole. Ce qui est écrit dans la Parole, c’est le pasteur qui doit vous l’apporter; mais ce qui n’est pas écrit dans la Parole, c’est ce que vous devez lui dire. Par exemple: «Dites à frère Wheeler, AINSI DIT LE SEIGNEUR, qu’il n’aille pas à sa sablière demain car un camion s’y renversera», ou quelque chose ainsi qui doit se passer. Vous l’avez dit et cela a été interprété, et ensuite déposez cela sur le pupitre après que votre ministère soit fini. Le soir, après que l’église ait chanté et tout, si votre service est alors terminé, laissez-les venir devant avec la prophétie qui a été donnée.
+
+40 Je ne pense pas que nous ayons… ou si vous le faites, faites-le ainsi: Lorsque ces gens s’assemblent, que ceux qui ont de la sagesse viennent en premier. Car vous voyez, si l’un parle en langues et en donne l’interprétation selon l’Écriture, cela ne peut pas être reçu, à moins que deux ou trois n’en témoignent; vous voyez, deux ou trois autres témoins doivent témoigner de cela, ils doivent dire qu’ils croient que c’est la Parole du Seigneur. Et il arrive parfois dans ces ministères secondaires, tout comme en n’importe quel autre ministère, que vous ayez des esprits qui sont faux; vous voyez, ils se mettront à rôder par là, et nous ne voulons pas de cela. Non. Nous voulons que ces ministères soient prêts à être mis à nu s’ils doivent être exposés. Vous ne devez pas vous faire du souci à cause de cela: s’ils sont de Dieu, ils passeront le test.
+
+41 C’est tout comme pour le pasteur, si quelqu’un met en question la Parole qu’il a dite il n’a pas à revenir en arrière sur ce qu’il a dit, il sait exactement de quoi il parle. Vous pouvez avoir confiance. Vous voyez? Il doit en être ainsi de ces autres ministères.
+
+42 Maintenant si quelqu’un parle en langues et donne un message… Certains parlent en langues et ils ne font que “s’édifier eux-mêmes”, comme dit la Bible, ils passent simplement un bon moment. Ils sentent qu’ils vont parler en langues et ils parlent en langues. Ils parlent réellement en langues et c’est l’Esprit qui le fait. Mais si, assis dans l’assemblée, ils parlent en langues simplement pour s’édifier eux-mêmes, cela n’est d’aucun profit pour l’église. L’homme ou la femme ou qui que ce soit s’édifie lui-même. Vous voyez?
+
+43 Parler en langues est un don de Dieu pour l’édification, comme Paul le dit dans l’Écriture, cela sert à l’édification de l’église. Aussi cela doit-il être un message direct de Dieu à l’église, quelque chose qui n’est pas écrit ici dans la Bible. Vous voyez?
+
+44 Si vous me demandiez: «Frère Branham, comment dois-je être baptisé?», je peux vous le dire directement. Il n’est pas nécessaire de parler en langues pour dire cela, ce que vous devez faire à ce sujet est écrit là dans la Bible. Vous voyez? Vous n’avez pas besoin de poser de questions à ce sujet afin que quelqu’un parle en langues pour vous le dire. Vous voyez? C’est déjà écrit.
+
+45 Mais si vous dites: «Frère Branham, dois-je prendre une décision: dois-je aller dans cette église ou dans une autre?» ou quelque chose ainsi. «Ou bien, dois-je faire ceci ou cela?». Or cela devrait venir de Dieu. Vous voyez? C’est Dieu qui doit nous le dire. Mais cela devrait venir au travers d’un autre ministère car la Parole ne dit pas: «Que frère Orman Neville quitte le Branham Tabernacle et aille au Tabernacle de l’Évangile de Fort Wayne». Vous voyez, cela n’est pas dit ici dans la Parole, c’est à cela que ces dons sont destinés.
+
+46 C’est comme si une personne se levait ici et disait: «Croyez-vous en la guérison divine?». Nous prêchons cela, nous le croyons, nous croyons en l’onction d’huile.
+
+47 Mais voici un homme qui dit: «Je n’arrive pas à m’en sortir, qu’est-ce qui ne va pas?». Alors c’est à Dieu, au travers des langues, de l’interprétation, de la prophétie ou d’une autre manière, de sonder la vie de cet homme et de faire ressortir la chose qu’il a faite auparavant. C’est un ministère qui n’appartient pas au pasteur, il fait partie du service de ces dons, mais ceux-ci ne doivent pas être exercés ici dans l’auditoire. Vous voyez?
+
+48 Maintenant pas une seule fois Paul n’eut à parler à ce sujet à l’église d’Éphèse ni à celle de Rome ni à toutes ces autres églises, car elles étaient en ordre; seule l’église de Corinthe ne pouvait saisir cela. Or Paul croyait au parler en langues. Il avait parlé en langues dans l’église d’Éphèse, de la même manière qu’il l’avait fait dans l’église de Corinthe (vous voyez?), mais aux Éphésiens il pouvait parler de plus grandes choses que du simple parler en langues ou de l’interprétation des langues.
+
+49 Maintenant si quelqu’un écrit un message qui a été donné en langues ou par prophétie et le dépose sur le pupitre, le pasteur doit le lire avant le début du service. C’est le AINSI DIT LE SEIGNEUR de ces gens qui l’ont prononcé en langues et interprété. Et si cela arrive exactement de la manière dont le dit l’interprétation, nous élèverons les mains et remercierons Dieu pour Son Esprit parmi nous. Si cela n’arrive pas, alors ne faites plus cela jusqu’à ce que ce mauvais esprit sorte de vous. Dieu ne ment pas, Il est toujours véridique.
+
+50 Vous voyez donc qu’à présent vous êtes assez grands pour agir comme des hommes et non comme des enfants qui balbutient. Ce que vous faites doit avoir un sens.
+
+51 Que l’Église soit mise en ordre, qu’Elle vienne donc à cet ordre-ci. Si quelqu’un non instruit de ces choses vient parmi vous et que vous parliez en langues, il vous prendra pour des barbares, il ne saura pas de quoi vous parlez. Vous voyez? Et réellement, en ce jour où il y a tant de confusion à ce sujet, c’est une pierre d’achoppement. Mais il faut que si quelqu’un parle en langues, un autre l’interprète et donne le message, et ce qui doit arriver sera lu directement ici depuis le pupitre; laissez ensuite les choses suivre leur cours et vous verrez ce qui arrivera. Dites-leur par exemple: «Demain, ou la semaine prochaine à tel moment, il se passera telle chose», et alors l’incroyant assis ici écoute cela et voit que les choses sont prédites avant qu’elles n’arrivent. Ils verront alors quelle sorte d’esprit est parmi vous, que c’est l’Esprit de Dieu. C’est ce que Paul a dit. “Si quelqu’un peut prophétiser et révéler les choses cachées, l’assemblée tout entière ne tombera-t-elle pas à genoux, même l’incroyant, pour dire: ‹Dieu est au milieu de nous!›”? Vous voyez?
+
+52 Paul disait aux Corinthiens: “Lorsque j’étais un enfant, j’agissais comme un enfant. Je parlais comme un enfant”. Il avait l’esprit d’un enfant. “Mais lorsque je devins un adulte, j’écartais les choses de l’enfance”.
+
+53 Maintenant je m’adresse à vous tous ici: il y a quelques années vous étiez des enfants avec ces dons, vous jouiez de-ci, de-là. Mais vous avez suivi une longue école depuis lors, c’est le moment pour vous d’être des hommes, non de vous servir de ces dons juste pour jouer. Ces dons sont sacrés. Ils sont de Dieu et vous ne devez pas jouer avec eux. Laissons Dieu s’en servir. C’est ce que doit être votre ministère et c’est de cette manière que le Branham Tabernacle doit être mis en service. Et si à n’importe quel moment une question devait se poser, que cet enregistrement soit témoin que c’est là la manière de faire dans le Branham Tabernacle.
+
+54 Il se peut qu’un étranger entre ici. Car c’est ici un tabernacle interdénominationnel, et des gens y entrent qui n’ont pas bien l’habitude de ces choses, ne sont pas très au courant et ne savent pas faire mieux que cela. Car avec leur propre pasteur ils se lèvent subitement pour parler en langues et toutes ces choses, brisant ainsi son message et détruisant l’appel à l’autel. Vous êtes des gens mieux entraînés que cela. Vous voyez? Alors si après le service ces personnes deviennent indisciplinées, c’est l’affaire du diacre d’aller vers elles. Ne laissez pas votre pasteur faire cela, à moins que cela n’arrive dans un endroit où il n’y a pas de diacre, sinon le diacre est censé s’occuper de cela. Vous voyez?
+
+55 Maintenant si quelqu’un se lève simplement pour donner un message et que le pasteur veut s’arrêter juste une minute avant de continuer, c’est très bien, vous voyez, c’est l’affaire du pasteur. Mais ensuite avant que cette personne ne sorte de l’édifice, que le diacre la prenne à part et lui parle à ce sujet. Si elle pose des questions, faites-lui écouter cet enregistrement et dites: «C’est ce que dit l’évêque ou le surveillant de l’église». Par évêque on entend un surveillant. Vous voyez, dans la Bible on appelait “évêque” le surveillant général de l’église. Dites-lui donc: «Ce sont les ordres et la manière de faire de notre église. Mais nous sommes heureux que vous apportiez votre message. Si vous avez un message du Seigneur à donner, venez ici et déposez-le sur le pupitre et notre ministre le lira à l’assemblée». Mais cela ne doit pas être une simple répétition des Écritures ou quelque chose ainsi. Ce doit être un message direct aux gens, quelque chose qui doit arriver ou qu’ils devraient faire. Est-ce compris? Très bien.
+
+> 222. Maintenant, y a-t-il un meilleur moyen de garder l’ordre dans l’église que celui de le rappeler continuellement aux gens par de constantes répétitions des diacres? Non, c’est ce que je viens d’expliquer. Ceci est la question numéro 3.
+
+56 Diacres, votre devoir est de garder l’ordre dans l’église avec gentillesse et amabilité. C’est ce que vous êtes censés faire si quelqu’un fait du désordre dans l’église, ou entre ici en ayant bu ou quelque chose ainsi.
+
+57 C’est comme lorsqu’ils ont tiré sur un prédicateur l’autre soir sur la plate-forme. Vous en avez entendu parler, cet homme ivre est entré ici avec un fusil à deux coups. Il criait après sa femme, il voulait qu’elle vienne et s’est dirigé vers le pasteur. Celui-ci lui a montré sa femme qui était assise ici mais il allait tirer sur elle ici dans l’église même, et le pasteur commença à discuter avec lui. Et l’homme au fusil se retourna, tira sur le pasteur, sur sa femme et sur lui-même.
+
+58 Or s’il y avait eu là un groupe de diacres lorsque cet homme entra avec son fusil, ils l’auraient entouré de leurs bras et lui auraient arraché son fusil. Vous voyez? Ce sont les diacres qui font régner l’ordre. Et maintenant les choses se sont passées ainsi, et vous auriez pu à tout moment vous y attendre. Mais souvenez-vous que les diacres sont les policiers de la maison de Dieu, peu importe ce qu’en pensent les autres. Il arrive qu’un policier n’ait pas envie d’aller arrêter quelqu’un car c’est peut-être un de ses amis, mais il est assermenté en vue de ce travail et doit le faire de toute façon. C’est son devoir envers sa ville.
+
+59 C’est cela le devoir d’un diacre envers l’église. Et si quelqu’un se lève subitement et commence à interrompre le message du pasteur ou quelque chose ainsi, deux ou trois diacres sont censés aller vers lui et dire: «Pourrions-nous vous parler, frère?». Vous voyez? Emmenez-le de l’église vers le bureau ou n’importe où et parlez-lui de cela en disant: «Vous ne devez pas interrompre». Vous savez, de toute façon la loi inflige une forte amende à celui qui interrompt un service. Vous voyez? Mais vous savez, certaines personnes comme des délinquants ou des fanatiques religieux viennent parmi vous et commencent à s’agiter, alors les diacres doivent… Et si les diacres semblent ne pas pouvoir contrôler cela, alors le conseil des administrateurs ou n’importe qui dans l’église peut se lever et leur venir en aide. Vous savez cela.
+
 60 Maintenant laissez-moi poser cette question à nouveau:
-     Y a-t-il un meilleur moyen de garder l’ordre dans l’église que celui de le rappeler continuellement aux
-     gens par de constantes répétitions des diacres?
-61 Je pense que de temps en temps le pasteur devrait passer cet enregistrement; et que cela vous
-serve de témoignage. Vous voyez? Les diacres sont des policiers et leur parole a force de loi et
-d’ordre. Ils ont l’autorité de l’église et, d’après les lois de la nation, ils ont même le pouvoir de faire en
-sorte que cette maison de Dieu soit bien ce qu’elle doit être. Et quiconque s’oppose ainsi à un diacre
-est passible de dix ans de prison fédérale. Si vous dites à une personne se conduisant de manière
-désordonnée de partir et qu’elle ne le fait pas, c’est qu’elle ne sait tout simplement pas ce qu’elle fait.
-Elle s’expose elle-même à toutes sortes de sanctions.
-62 Si cela en arrive au point où quelqu’un se lève subitement et se conduise de manière
-désordonnée, ou simplement parle en langues ou quelque chose ainsi, je n’interviendrai pas. Vous
-voyez, laissez-les faire car ce sont des étrangers. S’ils sont de notre assemblée, le lendemain soir
-vous les diacres, prenez simplement cet enregistrement et dites: «Maintenant nous allons écouter les
-ordres de l’église avant de commencer le service, j’aimerais que tout le monde comprenne cela». Et
-les pasteurs et vous tous pouvez oeuvrer ensemble comme cela.
-     223. Maintenant, frère Branham, qu’en est-il au sujet de l’école du dimanche? Devrait- elle avoir lieu
-     avant la prédication?
-63 Oui, nous avons toujours agi de cette manière. Ayez l’école du dimanche avant la prédication.
-Cela donne ainsi aux petits enfants qui suivent l’école du dimanche la possibilité de partir ensuite. Si
-les petits enfants doivent assister à toute la prédication alors qu’ils ne la comprennent pas et suivre
-encore l’école du dimanche, ils seront complètement épuisés. Ayez d’abord l’école du dimanche, que
-l’heure en soit déterminée et que sa durée en soit fixée. Le surveillant de l’école du dimanche est
-censé veiller à ce que l’école du dimanche dure un certain temps. Et tout se termine à ce moment-là.
 
-        http://www.cmpp.ch
+> Y a-t-il un meilleur moyen de garder l’ordre dans l’église que celui de le rappeler continuellement aux gens par de constantes répétitions des diacres?
 
-L’ORDRE DANS L’EGLISE 10
-Tant de temps est prévu pour l’école du dimanche, ensuite elle doit se terminer.
-     224. Le professeur de la classe pour adultes devrait-il être quelqu’un d’autre que le pasteur?
-64 Oui, s’il en est convenu ainsi. Si le pasteur veut enseigner la classe du dimanche et ensuite
-apporter le message c’est parfait, s’il veut faire les deux services. Mais s’il ne le veut pas, ayez un
-enseignant de l’école du dimanche pour votre classe d’adultes (vous voyez?). Alors si votre pasteur a
-quelqu’un en tête et que cette personne veuille s’occuper de cela, prenez trente ou quarante minutes
-ou ce que vous voudrez pour votre école du dimanche.
-65 Et vous devriez installer une cloche ici. Ainsi lorsque cette cloche ou la cloche de l’église sonne,
-c’est la fin de l’école du dimanche. Lorsque la cloche sonne, cela signifie que tout suit son cours selon
-l’ordre prévu.
-66 Prévoyez ensuite un certain temps pour un cantique ou deux, ou ce que vous voulez chanter. Ne
-prenez pas trop de temps; vous fatiguez les gens si vous les gardez trop longtemps, vous voyez.
-Sonnez simplement la cloche, chantez un cantique ou ce que vous voulez et envoyez ensuite vos
-classes à leur place. Et tout de suite après, à dix heures ou dix heures trente, ou n’importe, sonnez
-cette cloche et que chaque moniteur renvoie sa classe et vienne ici à l’assemblée. Faites votre
-rapport de l’école du dimanche et renvoyez tout le monde. Et que tous ceux qui le désirent restent
-pour la prédication. Vous voyez, ainsi c’est en ordre.
-[quelqu’un demande à frère Branham: «Autrement dit, nous avons plusieurs classes?» — N.d.R.]
-67 Oh oui, vous devriez avoir plusieurs classes. Un enfant de trois ans ne peut pas comprendre ce
-que pourrait comprendre un enfant de quatorze ans. Je crois que j’ai cela un peu plus loin.
-     225. Combien de classes devrait-il y avoir?
-68 Prenez le cas de cette petite classe qui veut avoir une séance de flanellographe, cela n’ira pas
-pour un garçon ou une fille de quatorze ans. Vous voyez? Vous devriez avoir quelqu’un qui s’occupe
-de ces petits enfants, quelque maman âgée ou quelqu’un sachant s’en occuper. Pour les autres
-classes je pense qu’il faudrait quelqu’un qui soit plus en mesure d’apporter la Parole. Vous voyez? Il
-devrait y avoir plusieurs classes. Il en faudrait au moins trois.
-69 Il devrait y avoir la classe des tout petits, depuis cinq ans environ. Tous les autres en dessous de
-cet âge devraient rester avec leur mère et, si cela est nécessaire, être amenés ici à la garderie le
-temps de la prédication s’ils commencent à s’agiter. C’est pourquoi il y a une garderie.
-70 Et je pense que les classes devraient être réparties ainsi: les tout petits depuis cinq ou six ans
-jusqu’à huit ou dix ans environ; ensuite ceux de dix à quinze ans devraient être dans la classe des
-adolescents; ceux qui ont plus de quinze ans devraient aller dans la classe des adultes car à cet
-âge-là ils travaillent déjà et voudraient presque pouvoir voter, ils devraient donc être capables
-d’entendre la Parole de Dieu et venir dans la salle principale.
-     226. Qui devraient être les enseignants?
-71 Nous y sommes. C’est à vous de nommer vos propres enseignants. Vous devriez faire cela, les
-placer ici. Vous devriez vous assembler avec l’église et dire: «Qui parmi nous se sent ici conduit par
-le Seigneur?». Prenez alors un enseignant qualifié, et qu’il s’occupe de cela. Frères, cela doit être pris
-au sérieux. Si un enseignant n’est pas qualifié pour cela, alors changez-en.
-72 Si le temps devait venir où je sentirais d’après Dieu que frère Orman Neville n’était plus qualifié
-pour apporter la Parole, je le mentionnerais à l’église; si je pense que vous, diacres, n’êtes pas
-qualifiés pour être diacres, je mentionnerais à l’église que «je me suis aperçu qu’un certain diacre ici
-fait des choses qu’il ne devrait pas faire et qu’il n’exerce pas bien sa fonction et toutes ces choses; ou
-un administrateur ou quoi que ce soit». Je ne peux voter pour ou contre, c’est à l’église de faire cela,
-mais je le signalerais sans doute à l’église. Vous voyez, c’est ainsi qu’il faudrait agir. C’est ce que je
-suis censé faire en tant que responsable, je suis censé surveiller et voir ce qui se passe. Nous
-allons au Ciel, non pas vers quelque rallye ici-bas ou quelqu’endroit où l’on s’amuse beaucoup, où
-l’on court de-ci, de-là et où l’on joue au base-ball. Nous possédons la chose la plus précieuse ici
-sur terre, la Parole de Dieu, et nous devons l’apporter de manière correcte.
+61 Je pense que de temps en temps le pasteur devrait passer cet enregistrement; et que cela vous serve de témoignage. Vous voyez? Les diacres sont des policiers et leur parole a force de loi et d’ordre. Ils ont l’autorité de l’église et, d’après les lois de la nation, ils ont même le pouvoir de faire en sorte que cette maison de Dieu soit bien ce qu’elle doit être. Et quiconque s’oppose ainsi à un diacre est passible de dix ans de prison fédérale. Si vous dites à une personne se conduisant de manière désordonnée de partir et qu’elle ne le fait pas, c’est qu’elle ne sait tout simplement pas ce qu’elle fait. Elle s’expose elle-même à toutes sortes de sanctions.
 
+62 Si cela en arrive au point où quelqu’un se lève subitement et se conduise de manière désordonnée, ou simplement parle en langues ou quelque chose ainsi, je n’interviendrai pas. Vous voyez, laissez-les faire car ce sont des étrangers. S’ils sont de notre assemblée, le lendemain soir vous les diacres, prenez simplement cet enregistrement et dites: «Maintenant nous allons écouter les ordres de l’église avant de commencer le service, j’aimerais que tout le monde comprenne cela». Et les pasteurs et vous tous pouvez œuvrer ensemble comme cela.
 
-    http://www.cmpp.ch
+> 223. Maintenant, frère Branham, qu’en est-il au sujet de l’école du dimanche? Devrait-elle avoir lieu avant la prédication?
+
+63 Oui, nous avons toujours agi de cette manière. Ayez l’école du dimanche avant la prédication. Cela donne ainsi aux petits enfants qui suivent l’école du dimanche la possibilité de partir ensuite. Si les petits enfants doivent assister à toute la prédication alors qu’ils ne la comprennent pas et suivre encore l’école du dimanche, ils seront complètement épuisés. Ayez d’abord l’école du dimanche, que l’heure en soit déterminée et que sa durée en soit fixée. Le surveillant de l’école du dimanche est censé veiller à ce que l’école du dimanche dure un certain temps. Et tout se termine à ce moment-là.
+
+> 224. Le professeur de la classe pour adultes devrait-il être quelqu’un d’autre que le pasteur?
+
+64 Oui, s’il en est convenu ainsi. Si le pasteur veut enseigner la classe du dimanche et ensuite apporter le message c’est parfait, s’il veut faire les deux services. Mais s’il ne le veut pas, ayez un enseignant de l’école du dimanche pour votre classe d’adultes (vous voyez?). Alors si votre pasteur a quelqu’un en tête et que cette personne veuille s’occuper de cela, prenez trente ou quarante minutes ou ce que vous voudrez pour votre école du dimanche.
+
+65 Et vous devriez installer une cloche ici. Ainsi lorsque cette cloche ou la cloche de l’église sonne, c’est la fin de l’école du dimanche. Lorsque la cloche sonne, cela signifie que tout suit son cours selon l’ordre prévu.
+
+66 Prévoyez ensuite un certain temps pour un cantique ou deux, ou ce que vous voulez chanter. Ne prenez pas trop de temps; vous fatiguez les gens si vous les gardez trop longtemps, vous voyez. Sonnez simplement la cloche, chantez un cantique ou ce que vous voulez et envoyez ensuite vos classes à leur place. Et tout de suite après, à dix heures ou dix heures trente, ou n’importe, sonnez cette cloche et que chaque moniteur renvoie sa classe et vienne ici à l’assemblée. Faites votre rapport de l’école du dimanche et renvoyez tout le monde. Et que tous ceux qui le désirent restent pour la prédication. Vous voyez, ainsi c’est en ordre.
+
+[Quelqu’un demande à frère Branham: «Autrement dit, nous avons plusieurs classes?» — N.d.R.]
+
+67 Oh oui, vous devriez avoir plusieurs classes. Un enfant de trois ans ne peut pas comprendre ce que pourrait comprendre un enfant de quatorze ans. Je crois que j’ai cela un peu plus loin.
+
+> 225. Combien de classes devrait-il y avoir?
+
+68 Prenez le cas de cette petite classe qui veut avoir une séance de flanellographe, cela n’ira pas pour un garçon ou une fille de quatorze ans. Vous voyez? Vous devriez avoir quelqu’un qui s’occupe de ces petits enfants, quelque maman âgée ou quelqu’un sachant s’en occuper. Pour les autres classes je pense qu’il faudrait quelqu’un qui soit plus en mesure d’apporter la Parole. Vous voyez? Il devrait y avoir plusieurs classes. Il en faudrait au moins trois.
+
+69 Il devrait y avoir la classe des tout petits, depuis cinq ans environ. Tous les autres en dessous de cet âge devraient rester avec leur mère et, si cela est nécessaire, être amenés ici à la garderie le temps de la prédication s’ils commencent à s’agiter. C’est pourquoi il y a une garderie.
+
+70 Et je pense que les classes devraient être réparties ainsi: les tout petits depuis cinq ou six ans jusqu’à huit ou dix ans environ; ensuite ceux de dix à quinze ans devraient être dans la classe des adolescents; ceux qui ont plus de quinze ans devraient aller dans la classe des adultes car à cet âge-là ils travaillent déjà et voudraient presque pouvoir voter, ils devraient donc être capables d’entendre la Parole de Dieu et venir dans la salle principale.
+
+> 226. Qui devraient être les enseignants?
+
+71 Nous y sommes. C’est à vous de nommer vos propres enseignants. Vous devriez faire cela, les placer ici. Vous devriez vous assembler avec l’église et dire: «Qui parmi nous se sent ici conduit par le Seigneur?». Prenez alors un enseignant qualifié, et qu’il s’occupe de cela. Frères, cela doit être pris au sérieux. Si un enseignant n’est pas qualifié pour cela, alors changez-en.
+
+72 Si le temps devait venir où je sentirais d’après Dieu que frère Orman Neville n’était plus qualifié pour apporter la Parole, je le mentionnerais à l’église; si je pense que vous, diacres, n’êtes pas qualifiés pour être diacres, je mentionnerais à l’église que «je me suis aperçu qu’un certain diacre ici fait des choses qu’il ne devrait pas faire et qu’il n’exerce pas bien sa fonction et toutes ces choses; ou un administrateur ou quoi que ce soit». Je ne peux voter pour ou contre, c’est à l’église de faire cela, mais je le signalerais sans doute à l’église. Vous voyez, c’est ainsi qu’il faudrait agir. C’est ce que je suis censé faire en tant que responsable, je suis censé surveiller et voir ce qui se passe. Nous allons au Ciel, non pas vers quelque rallye ici-bas ou quelque endroit où l’on s’amuse beaucoup, où l’on court de-ci, de-là et où l’on joue au base-ball. Nous possédons la chose la plus précieuse ici sur terre, la Parole de Dieu, et nous devons l’apporter de manière correcte.
 
 L’ORDRE DANS L’EGLISE 11
      Qui devrait enseigner?
@@ -871,10 +564,10 @@ depuis ici pour le client, ils peuvent préparer cela avec un meilleur magnétop
 dans les réunions; ils le font ici au Tabernacle où l’acoustique est bonne. Vous voyez?
 125 Maintenant je vais partir pour cette grande tournée évangélique outre-mer. Et vous voyez, je ne
 peux pas promettre que je prêcherai ici mon premier message. Car lorsque vous prêchez ici et là,
-cela devient comme quelque chose de rassis en vous et cela peut sembler rassis à ceux qui écoutent.
-Vous devez faire quelque chose de différent, vous voyez, et apporter ce qui correspond à ce qu’ils
-peuvent comprendre du Message à cet endroit. Ayez alors un appareil ou quoi que ce soit pour la
-mission afin d’enregistrer parfaitement.
+cela devient comme quelque chose de rassis en vous et cela peut sembler rassis à ceux qui
+écoutent. Vous devez faire quelque chose de différent, vous voyez, et apporter ce qui correspond à ce
+qu’ils peuvent comprendre du Message à cet endroit. Ayez alors un appareil ou quoi que ce soit pour
+la mission afin d’enregistrer parfaitement.
 126 Et faites un enregistrement parfait, repassez chaque enregistrement pour le vérifier avant de
 l’envoyer, ou alors arrêtez tout: n’ayez plus rien à faire avec cela, que chacun fasse alors son propre
 enregistrement. Vous voyez? Mais faites-le parfaitement afin que cesse toute réclamation. Nous ne
@@ -1028,8 +721,6 @@ entendu parler de lui. C’est un grand psychologue, un professeur, vous savez. 
 église et je pensais simplement ceci: «J’aimerais que mon Tabernacle agisse ainsi de nouveau».
 Leurs diacres se tenaient là juste vers la porte d’entrée dès votre arrivée. Bien sûr ils vous tendaient
 une fiche d’école du dimanche et vous menaient directement à votre place. La salle se vidait et se
-
-        http://www.cmpp.ch
 
 L’ORDRE DANS L’EGLISE 20
 remplissait trois fois, vous savez, car il ne pouvait rentrer que quatre ou cinq cents personnes à la
@@ -1264,7 +955,7 @@ L’ORDRE DANS L’EGLISE 24
 185 Et si vous avez quelque chose de spécial… Maintenant je n’irais pas jusqu’à dire… Si quelqu’un
 veut chanter un cantique spécial, annoncez-le dans l’église. Dites-leur que s’ils veulent chanter
 quelque chose de spécial ou n’importe quel chant, qu’ils voient le directeur des chants avant le début
-du culte. Il dira peut-être: «Eh bien, frère, je suis désolé, j’aimerais bien le faire, mais j’ai un chant
+ du culte. Il dira peut-être: «Eh bien, frère, je suis désolé, j’aimerais bien le faire, mais j’ai un chant
 spécial pour ce soir. Peut-être pourriez-vous me dire quel soir vous serez là, et je le mettrai alors sur
 le programme pour vous. Vous voyez, mon programme est déjà écrit là».
 186 Que frère Capps ou qui que ce soit dirige les chants… Ayez un directeur des chants, peu importe
@@ -1278,14 +969,14 @@ là derrière ou là-bas, ou n’importe où, et les interphones l’avertiront 
 Lorsqu’il entend le dernier chant, s’il y a un chant spécial comme un duo, un solo ou un troisième
 chant… Vous voyez?
 188 Vous aurez donc deux cantiques chantés par l’assemblée, puis la prière et l’offrande si vous
-devez la recueillir. Et que chaque homme soit à son poste. Dites: «Très bien, pendant que nous
+devrez la recueillir. Et que chaque homme soit à son poste. Dites: «Très bien, pendant que nous
 chanterons ce dernier chant, si les huissiers le veulent bien qu’ils viennent là devant pour recueillir
-l’offrande du soir». Vous voyez? Et pendent qu’ils finissent de chanter ce chant, les huissiers se
+l’offrande du soir». Vous voyez? Et pendant qu’ils finissent de chanter ce chant, les huissiers se
 tiennent là. Dites: «Très bien, maintenant nous allons prier«, et ils prient: «Nous voulons penser à tel
 et tel ici et à tel et tel» et lisez ainsi les requêtes. «Très bien, que tout le monde se lève. Frère,
 voulez-vous nous conduire dans la prière?». Ainsi tout est terminé.
 189 Alors pendant qu’ils chantent ce deuxième chant ou quoi que ce soit, recueillez l’offrande si vous
-devez le faire. Ayez un premier chant, puis continuez avec le deuxième chant, et ainsi de suite. Que
+devrez le faire. Ayez un premier chant, puis continuez avec le deuxième chant, et ainsi de suite. Que
 votre dernier chant soit le signal d’appel pour votre pasteur. Et dès que vous aurez chanté votre
 dernier cantique, que l’orgue commence le prélude pendant que le pasteur entre. Vous voyez, chaque
 chose est en ordre et tout le monde est tranquille. Il n’y a rien à dire. Chaque diacre est à son poste.
@@ -1403,14 +1094,3 @@ nous puissions devenir des hommes comprenant et connaissant l’Esprit de Dieu e
 doivent faire. Accorde-le, Père. Laisse-nous aller maintenant avec Tes bénédictions, puisse le
 Saint-Esprit veiller sur nous, nous guider et nous protéger, et puissions-nous être trouvés à notre
 poste, remplis de foi. Je Te le demande au Nom de Jésus-Christ. Amen.
-
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch

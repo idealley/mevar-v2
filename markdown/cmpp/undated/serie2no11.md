@@ -1,13 +1,69 @@
-    SERIE 2 N° 11
+---
+source: "cmpp"
+sermon_id: "serie2no11"
+title: "Le seul lieu d'adoration auquel Dieu ait pourvu"
+subtitle: "28 novembre 1965, matin"
+date: "1965-11-28"
+year: 1965
+location: "Shreveport, Louisiane, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le seul lieu d'adoration que Dieu a établi, en s'appuyant sur Deutéronome 16. Il insiste sur l'importance de suivre exactement les directives divines, car Dieu n'a qu'une seule clé pour chaque porte. Il partage également des expériences personnelles de visions du ciel et de l'enfer, exhortant à la fidélité et à la pureté."
+tags:
+  - "adoration"
+  - "lieu choisi"
+  - "Deutéronome"
+  - "Pâque"
+  - "clef"
+  - "révélation"
+  - "enlèvement"
+persons:
+  - "William Branham"
+  - "Jack Moore"
+  - "Brown"
+  - "Ernie Fandler"
+  - "Pearry Green"
+  - "David"
+  - "Job"
+  - "Paul"
+  - "Timothée"
+  - "Jésus"
+places:
+  - "Shreveport"
+  - "Louisiane"
+  - "France"
+  - "Angleterre"
+  - "Shawano"
+themes:
+  - "adoration selon Dieu"
+  - "obéissance à la Parole"
+  - "révélation divine"
+  - "séparation du monde"
+  - "espérance de la résurrection"
+  - "jugement et enfer"
+  - "unité de l'Église"
+pdf_url: "http://cmpp.ch/serie2no11.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "Jean 1"
+  - "Jean 10"
+  - "Jean 5"
+  - "Job 23"
+  - "Malachie 4"
+  - "Matthieu 1"
+  - "Nombres 107"
+  - "Nombres 185"
+  - "Psaumes 119"
+  - "Romains 8"
+  - "Zacharie 4"
+---
+SERIE 2 N° 11
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
+WILLIAM MARRION BRANHAM
 
 
 LE SEUL LIEU D’ADORATION
@@ -15,13 +71,9 @@ LE SEUL LIEU D’ADORATION
     (God’s only chosen Place of Worship)
 
 
-
-
-   28 novembre 1965, matin
+  28 novembre 1965, matin
        Live Tabernacle
 Shreveport — Louisiane, U.S.A.
-
-
 
 
     «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
@@ -35,7 +87,6 @@ LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 2
    28 novembre 1965, matin
        Life Tabernacle
 Shreveport — Louisiane, U.S.A.
-
 
 
 
@@ -255,20 +306,20 @@ connaissions. Ce restaurant s’appelle le Kickapoo, ou quelque chose comme cela
 à vous, qui que vous soyez! Que Dieu bénisse chacun de vous!
 46 Lisons maintenant le chapitre 16 du Deutéronome. Il s’agit de l’observation de la Pâque. Nous
 lirons les cinq ou six premiers versets.
-       “Observe le mois des épis, et célèbre la Pâque en l’honneur de l’Eternel, ton Dieu; car
-    c’est dans le mois des épis que l’Eternel, ton Dieu, t’a fait sortir d’Egypte, pendant la nuit.
-    Tu sacrifieras la Pâque à l’Eternel, ton Dieu, tes victimes de menu et de gros bétail, dans
-    le lieu que l’Eternel choisira pour y faire résider Son Nom. Pendant la fête, tu ne
-    mangeras pas de pain levé, mais tu mangeras pendant sept jours du pain sans levain, du
-    pain d’affliction, car c’est avec précipitation que tu es sorti du pays d’Egypte; il en sera
-    ainsi, afin que tu te souviennes toute ta vie du jour où tu es sorti du pays d’Egypte.
-    On ne verra point chez toi de levain, dans toute l’étendue de ton pays, pendant sept
-    jours; et aucune partie des victimes que tu sacrifieras le soir du premier jour ne sera
-    gardée pendant la nuit jusqu’au matin. Tu ne pourras point sacrifier la Pâque dans l’un
-    quelconque des lieux que l’Eternel, ton Dieu, te donne pour demeure; mais c’est dans le
-    lieu que choisira l’Eternel, ton Dieu pour y faire résider Son Nom, que tu sacrifieras
-    la Pâque, le soir, au coucher du soleil, à l’époque de ta sortie d’Egypte”.
-    Que le Seigneur puisse ajouter Ses bénédictions à la lecture de Sa Parole.
+>        “Observe le mois des épis, et célèbre la Pâque en l’honneur de l’Eternel, ton Dieu; car
+>     c’est dans le mois des épis que l’Eternel, ton Dieu, t’a fait sortir d’Egypte, pendant la nuit.
+>     Tu sacrifieras la Pâque à l’Eternel, ton Dieu, tes victimes de menu et de gros bétail, dans
+>     le lieu que l’Eternel choisira pour y faire résider Son Nom. Pendant la fête, tu ne
+>     mangeras pas de pain levé, mais tu mangeras pendant sept jours du pain sans levain, du
+>     pain d’affliction, car c’est avec précipitation que tu es sorti du pays d’Egypte; il en sera
+>     ainsi, afin que tu te souviennes toute ta vie du jour où tu es sorti du pays d’Egypte.
+>     On ne verra point chez toi de levain, dans toute l’étendue de ton pays, pendant sept
+>     jours; et aucune partie des victimes que tu sacrifieras le soir du premier jour ne sera
+>     gardée pendant la nuit jusqu’au matin. Tu ne pourras point sacrifier la Pâque dans l’un
+>     quelconque des lieux que l’Eternel, ton Dieu, te donne pour demeure; mais c’est dans le
+>     lieu que choisira l’Eternel, ton Dieu pour y faire résider Son Nom, que tu sacrifieras
+>     la Pâque, le soir, au coucher du soleil, à l’époque de ta sortie d’Egypte”.
+>     Que le Seigneur puisse ajouter Ses bénédictions à la lecture de Sa Parole.
 47 Est-ce que le micro fonctionne correctement? J’ai entendu dire hier qu’il était en panne.
 Entendez-vous bien? Non? [Frère Branham ajuste le microphone — N.d.R.] Est-ce que ça va
 mieux comme cela? Est-ce que l’on entend mieux lorsque j’abaisse un peu le micro? Je suis un
@@ -312,6 +363,7 @@ LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 7
 devons nous souvenir de cela et le garder à l’esprit. Toutes les choses de Dieu doivent être faites
 d’une manière bien déterminée. Pour ce qui nous concerne, Dieu a une certaine Eglise, dans
 laquelle Il rencontre Son peuple; Il vous recevra dans cette Eglise, et dans aucune autre.
+
 53 J’ai dit cela parce que, si souvent, les gens comprennent mal. Et les gens me disent…
      Je demande: «Etes-vous chrétien?».
      — «Je suis Baptiste».
@@ -319,12 +371,15 @@ laquelle Il rencontre Son peuple; Il vous recevra dans cette Eglise, et dans auc
      — «Je suis Méthodiste».
      — «Etes-vous chrétien?».
      — «Je suis Pentecôtiste».
+
 54 Vous comprenez, cela ne signifie absolument rien pour Dieu. Vous essayez simplement
 d’introduire la mauvaise clef. Mais il y a une bonne clef, une clef telle que Dieu… Dieu n’a jamais
 promis de vous rencontrer dans le Méthodisme, le Baptisme, ou le Pentecôtisme, ni dans aucune
 autre dénomination. Il ne considère pas les dénominations, parce qu’elles sont contre Lui.
+
 55 En ce qui concerne ce long message, je vais le faire bientôt parvenir au Tabernacle. Le frère
 Jack pourra l’entendre, et vous pourrez l’obtenir, parce qu’il sera copié.
+
 56 Les gens agissent comme si Dieu était obligé de les rencontrer sur la base de leur
 théologie. Les gens font comme cela! Ils ne veulent même pas s’associer les uns avec les autres.
 Les Trinitaires ou les Pentecôtistes ne veulent pas s’associer avec les “Unitaires”, pas plus que les
@@ -332,27 +387,38 @@ Les Trinitaires ou les Pentecôtistes ne veulent pas s’associer avec les “Un
 avec les Baptistes, parce que les uns sont légalistes, et les autres Calvinistes, en sorte qu’ils n’ont
 aucune communion entre eux. Et ils entortillent l’esprit des gens, de telle manière qu’ils
 finissent par s’opposer les uns aux autres.
+
 57 Il y a quelque temps, je suis allé prier dans une chambre d’hôpital. Il y avait là une femme très
 gravement malade, qu’on allait opérer. Il y avait peu de chances qu’elle survive. Il y avait aussi une
 autre dame, celle pour laquelle on m’avait appelé. Je demandai à la mourante: «Cela vous
 dérange-t-il, si je prie un moment?».
+
 58 Mais elle dit: «Tirez le rideau!».
+
 59 Je lui répondis: «Excusez-moi! Mais je voulais simplement prier».
+
 60 Mais elle répéta: «Tirez ce rideau!».
+
 61 Je dis: «Bien, madame!». Il y avait là son fils, un de ces petits Rickys… Je lui demandai:
 «Vous n’êtes pas chrétienne?».
+
 62 — «Nous sommes Méthodistes!».
+
 63 — «Ce n’est pas ce que je vous ai demandé! Je vous ai demandé si vous étiez une
 chrétienne. Vous comprenez?».
+
 64 Mais elle me répliqua simplement: «Tirez ce rideau!».
+
 65 Vous voyez? Tout cela parce que ce n’était pas un Méthodiste qui lui offrait de prier pour elle!
 Et pourtant, cette femme était mourante! Mais parce qu’il s’agissait de quelqu’un qui n’était pas
 associé à sa propre organisation, elle ne voulait rien entendre, ni avoir aucune relation avec lui! Je
 n’ai jamais vu une telle mentalité de pharisien!
+
 66 Attendez d’avoir entendu La trace du Serpent. Parfaitement! Mais ils pensent que leur
 dénomination est la seule qui soit agréée de Dieu… «Dieu ne vous écoutera pas si vous n’êtes
 pas un Méthodiste, un Baptiste, un Trinitaire, un Unitaire» ou quelque chose comme cela. C’est
 faux!
+
 67 Dans la pensée et dans le coeur des gens, il y a un tel désir d’être dans le juste… je ne
 crois pas que cette femme, ou qui que ce soit d’autre, ait fait cela parce que… Un Méthodiste ne
 s’élèverait pas pour défendre le Méthodisme, s’il pensait que le Méthodisme est faux. Il pense que
@@ -367,10 +433,12 @@ côtés! Mais, rappelez-vous que dans tout cela, s’il y a quelque chose, dans 
 ou de la femme, qui les pousse à croire qu’il y a une vérité, alors il doit y avoir quelque part
 quelque chose qui est la Vérité. C’est comme je l’ai dit souvent: «Lorsque la profondeur appelle
 la profondeur, il doit y avoir quelque part une profondeur, pour répondre à cet appel».
+
 68 On nous a appris qu’autrefois, le phoque avait des pattes pour marcher sur le bord de la mer.
 Mais maintenant, il n’a plus de pattes, mais des nageoires. Il était un animal à fourrure, et il devait
 aller dans la mer; c’est pourquoi la nature lui forma des nageoires à la place de pattes, parce qu’il
 avait plus besoin de nager que de marcher.
+
 69 Je ne me rappelle plus le nom de cet homme célèbre qui est allé au pôle sud. Quel est son
 nom? Byrd! J’ai entendu dire qu’il avait fait faire des couvertures pour du bétail qu’il avait pris pour
 cette expédition. Il avait emmené des vaches pour avoir du lait. Et il avait fait faire des couvertures
@@ -380,8 +448,10 @@ Vous comprenez? Pourquoi cela? Avant qu’il y ait une nageoire sur le dos des p
 qu’il y ait de l’eau dans laquelle ils puissent nager. Autrement, ils n’auraient jamais eu de
 nageoires. Avant qu’il y ait un arbre qui pousse sur la terre, il fallait qu’il y ait premièrement une
 terre sur laquelle il puisse pousser, sinon il n’y aurait jamais eu d’arbres
+
 70 C’est pourquoi, vous comprenez, chaque fois qu’il y a dans le coeur de l’homme un appel
 pour quelque chose, il faut qu’il y ait quelque chose qui réponde, afin de satisfaire l’appel.
+
 71 Il y a quelque temps, on a fait une autopsie sur une femme qui était morte. Les médecins ont
 dit que la raison pour laquelle elle était morte, était qu’elle mangeait, tout le temps des oignons. Si
 elle ne mangeait pas d’oignons, elle avait des démangeaisons partout. Personne n’y comprenait
@@ -390,23 +460,28 @@ type de cellules; il y a un nom pour cela. Ils prirent la grosseur, et la mirent
 d’oignons: en une nuit, les oignons furent dissous. Vous comprenez? Qu’est-ce que cela signifiait?
 Il y avait dans le corps de cette femme quelque chose qui appelait les oignons, et s’il n’y avait pas
 eu d’oignons, il n’y aurait pas eu de grosseur.
+
 72 En d’autres termes, avant qu’il y ait une création, il faut qu’il y ait premièrement un
 Créateur.
+
 73 Or si, dans le coeur de l’homme, il y a une soif pour quelque chose, comme cela se
 passe chez les Méthodistes, les Baptistes, les Presbytériens, les Catholiques, et tous les autres, et
 qu’ils cherchent le vrai chemin, et si leurs pasteurs et leurs prêtres leur disent: «Ceci est le vrai
 chemin!»… Les prêtres disent: «Il n’y a pas de salut, en dehors de l’église Catholique».
+
 74 Oui, chaque église a ses propres idées. Certains ne veulent pas l’admettre, mais cela se
 révèle dans leurs actions. Vos oeuvres parlent plus fort que vos paroles. Autrement dit, ils sont
 encore plus hypocrites que les Catholiques. Le Catholique confesse sans détour: «Je crois que
 c’est le seul chemin». Mais eux ne font pas cela. Ils dissimulent, mais leurs actions prouvent
 ce qu’ils pensent réellement. Vous comprenez?
+
 75 Il doit y avoir un lieu déterminé, parce qu’il y a, dans le coeur de l’homme, un désir de le
 trouver. Et je pense que la Parole de Dieu a la réponse à tous nos besoins. Dieu a la réponse,
 et nous allons la chercher dans les Ecritures. Et si Dieu nous montre, par l’Ecriture, le seul lieu, le
 seul terrain (ou même la seule dénomination, si c’est le cas), le seul moyen par lequel Dieu peut
 rencontrer l’homme, alors, nous nous tiendrons à cela, parce que nous aurons trouvé la
 Vérité de la Bible, ce qu’Elle nous dit.
+
 76 Le mot Deutéronome signifie: deux lois. Dieu a deux lois. L’une est la désobéissance à la
 Parole, qui entraîne la mort; l’autre, l’obéissance à la Parole qui donne la Vie. Ce sont les
 deux lois, et le Deutéronome expose ces deux lois. Toutes deux nous ont été complètement
@@ -421,21 +496,26 @@ excuse. L’une a été donnée sur le Mont Sinaï, lorsque la loi condamnant to
 LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 9
 l’espèce humaine, lorsque le prix a été payé par Jésus-Christ. Les deux lois du Deutéronome
 ont été accomplies dans ces deux glorieux événements.
+
 77 Je voudrais encore vous faire remarquer qu’il y a aussi eu deux alliances. L’une des
 alliances a été faite avec Adam. Elle fut donnée sous la forme de conditions, qui sont comme une
 loi: “Si tu ne touches pas cet arbre, tu vivras; mais SI tu y touches, tu mourras”. C’était une
 loi. Ensuite, il y eut une autre loi, qui fut donnée à Abraham comme une grâce inconditionnelle:
 “Je t’ai sauvé toi et ta postérité après toi”. Amen! Ce fut un type du Calvaire, et non pas le type
 de l’alliance d’Adam; c’était l’alliance d’Abraham.
+
 78 Mais maintenant, nous L’entendons dire qu’il n’y a qu’un lieu où l’homme peut Le
 rencontrer dans l’adoration. Vous avez entendu cela textuellement dans le passage que je viens
 de lire. Nous y retournerons d’ailleurs dans quelques minutes.
+
 79 S’il n’y a qu’un seul endroit où Dieu puisse rencontrer l’homme, nous devons alors faire
 très attention. C’est pourquoi, ce matin, abandonnons nos traditions dans cette leçon d’école du
 dimanche, et faisons en sorte que nous soyons assurés de trouver ce lieu. Parce Dieu l’a dit,
 Il ne vous recevra pas ailleurs. Il ne vous recevra dans aucune autre église. Son Eglise est le
 seul lieu dans lequel Il vous recevra.
+
 80 Vous me direz: «Que dites-vous là, frère Branham? Et si je suis sincère?». — Non!
+
 81 En Son temps, Jésus a parlé à quelques personnes sincères, les adorateurs de ce temps-là,
 et leur a dit: “C’est en vain que vous M’adorez!”. Pourtant, ils L’adoraient en toute sincérité, du plus
 profond de leur coeur. “C’est en vain que vous M’adorez, enseignant pour doctrine des
@@ -443,20 +523,25 @@ commandements d’hommes!”. C’est-à-dire leur credo dénominationnels. Ils 
 respect, aussi religieux que possible! Et cela n’a pas commencé avec les Pharisiens! Nous
 voyons exactement la même attitude se manifester, lorsque nous lisons l’histoire de Caïn et
 d’Abel, les deux premiers adorateurs nés selon la naissance naturelle de ce monde.
+
 82 Caïn était aussi religieux qu’Abel. Tous les deux ont construit un autel. Tous deux aimaient
 Dieu. Tous deux offraient des sacrifices. Tous deux adoraient Dieu. Tous deux payaient la dîme.
 Tous deux faisaient exactement la même chose. Mais Abel, par la foi qui est la révélation (la
 Parole de Dieu révélée, rendue claire, démontrée et confirmée) … Gloire à Dieu! Caïn fit une
 offrande; mais Dieu ne l’agréa pas. Dieu demandait l’adoration, et Caïn fit une offrande mais Dieu
 ne l’agréa pas. Mais, par le vrai canal…
+
 83 Vous direz: «C’est mon église qui est le vrai canal!».
+
 84 Attendez une minute! Dieu interprète Sa Parole par les termes dans lesquels Il a parlé. Caïn
 disait: “Je suis religieux; j’aime mon Créateur. Je T’offre ce bel autel. Je T’offre ce sacrifice. J’ai fait
 toutes ces choses, Seigneur, parce que je T’aime”. Abel a dit la même chose. Pourtant, c’est lui
 qui fut agréé, qui fut confirmé. Dieu est descendu et a agréé le sacrifice d’Abel, parce que, par
 révélation, il avait passé par le canal agréé par Dieu.
+
 85 Observez maintenant cet esprit de Caïn descendre tout au long des Ecritures jusqu’au dernier
 jour! Fondamentaliste? Il était aussi fondamentaliste que son frère!
+
 86 Considérez ces deux prophètes, Balaam et Moïse. Tous deux bâtirent sept autels, les autels
 de l’Eternel, sur lesquels le sang fut répandu, et non seulement le sang, mais on y immola aussi
 des agneaux sur chacun d’eux. Au point de vue numérologique, il y avait chaque fois le nombre
@@ -464,11 +549,13 @@ correct, le nombre sept, celui de la perfection; il y avait sept béliers. Ces d
 exactement semblables. Ils étaient aussi fondamentalistes l’un que l’autre. Mais lequel Dieu agréa-
 t-Il? Vous comprenez? Il agréa celui qui était dans Sa Parole. Fondamentaliste ne signifie pas
 grand’chose. Ce qui compte, c’est la révélation de Dieu.
+
 87 Maintenant, réfléchissez. Pourquoi Jésus a-t-Il traité ces Pharisiens de cette manière, et leur
 disait: “C’est en vain que vous M’adorez”? Ils L’adoraient. Leur adoration était sincère, et venait de
 leur coeur. Pourtant: “C’est en vain que vous M’adorez!”. Pourquoi cela? — “Parce que vous
 enseignez une doctrine faite de traditions d’hommes, et de cette manière, vous rendez les
 commandements de Dieu sans effet pour le peuple”.
+
 88 Si je vous prêchais un message Méthodiste, il ne vous ferait aucun effet, parce que notre
 temps est le temps de l’Epouse. Si Moïse avait apporté le message de Noé, il eût été sans effet. Si
 
@@ -479,16 +566,19 @@ Jésus avait apporté le message de Moïse, il eût été sans effet. Parce que 
 semence prédestinée, elle ne doit recevoir que le genre d’eau qui a été donnée pour cette
 semence. Vous comprenez? Elle ne pourra croître dans aucune autre condition. Elle doit
 rencontrer les conditions nécessaires à sa croissance.
+
 89 Si vous prenez un oeuf de poule, vous pouvez le mettre dans un incubateur ou sous une
 poule, il éclora. Il pourrait éclore même si vous le mettiez sous un chien! C’est la chaleur, ce sont
 les conditions dans lesquelles il se trouve, qui lui permettent de se développer. Il faut qu’il soit
 placé dans certaines conditions. Mais si vous prenez un bon oeuf, bien vivant, et que vous le
 placiez sous une poule morte, il ne se développera pas. Vous comprenez? Il faut que les
 conditions soient remplies.
+
 90 Il en va de même pour l’âge dans lequel nous vivons aujourd’hui. Vous devez trouver quelle
 est la manière de faire de Dieu, dans cet âge-ci. C’est ce que Martin Luther découvrit; c’est ce
 que John Wesley découvrit; c’est ce que les Pentecôtistes découvrirent, chacun dans son âge. Le
 temps déterminé par Dieu.
+
 91 Au sujet des Pentecôtistes… C’est un frère de couleur qui fut à l’origine du mouvement
 Pentecôtiste, en Californie. Il était borgne, et habitait dans la vieille Azusa Street. On se moqua de
 lui parce qu’il était un homme de couleur, mais c’est lui qui apporta le message pour son temps.
@@ -500,32 +590,39 @@ pouvaient parler en langues, etc.: cela arrivait. Mais lorsque l’on se mit à 
 langues était “le seul signe du baptême du Saint-Esprit”, alors, ce fut la mort. Ils
 commencèrent à ôter ceci, puis cela, et firent une dénomination. Ceci devait venir sur une nuée,
 cela dans un buisson… et ce fut la fin.
+
 92 C’est ce que font les dénominations. Dieu n’est pas le créateur des dénominations, parce que
 les dénominations, c’est Babylone, et Dieu n’est pas l’auteur de la confusion. Il n’y a pas
 besoin d’être intelligent pour comprendre cela! C’est Babylone. Comprenez-vous cela? C’est
 Babylone. C’est la tradition. Pensez-y, gens sincères! Or, s’ils croient cela, il doit y avoir un lieu
 certain ou Dieu puisse nous rencontrer.
+
 93 Remarquez ce qui est dit dans le verset deux: “Tu sacrifieras la Pâque à l’Eternel ton Dieu,
 tes victimes de menu et de gros bétail, dans le lieu que l’Eternel choisira pour y faire résider
 Son Nom”. Bien entendu qu’ils adoraient là où ils offraient les sacrifices. — “Le lieu que J’AI
 choisi; non pas le lieu que VOUS choisissez, le lieu que l’homme choisit. Mais dans le lieu que
 J’ai choisi; c’est là que vous adorerez”. Cela nous montre qu’il n’y a qu’un seul lieu, et que tous les
 autres lieux sont vains. Ce lieu ne doit pas être de votre choix, mais de Son choix.
+
 94 — «Oh, je n’ai pas besoin d’aller à l’église!… Vous êtes si étroit d’esprit! Vous êtes tout le
 temps en train de critiquer les femmes qui prêchent ou qui se coupent les cheveux, et ces
 hommes qui font ceci ou cela… Vous êtes vraiment trop étroit d’esprit!».
+
 95 Eh bien! vous n’êtes pas obligés de prendre ce que dit la Parole de Dieu à ce sujet, mais allez
 voir dans les assemblées où ils font comme cela… Vous comprenez? Vous trouverez que tout
 cela est écrit dans la Parole, c’est pourquoi: “C’est en vain qu’ils m’adorent”. Vous voyez,
 Jésus, Lui aussi, a parlé des mêmes choses.
+
 96 Vous devez être fidèles jusque dans les moindres détails. Il y a toujours ce petit renard qui
 gâte toute la vigne. Ce qui compte, ce ne sont pas les grandes choses que vous faites, ce
 sont les petites choses que vous ne faites pas. Rappelez-vous que la chaîne n’est pas plus
 forte que son maillon le plus faible. “Bénis sont ceux qui accomplissent TOUS les
 commandements de Dieu, parce qu’ils auront le droit d’entrer!”. Faites TOUT ce que Dieu a dit de
 faire, et Il dit aux femmes de porter les cheveux longs.
+
 97 Quelqu’un m’a dit il n’y a pas bien longtemps: «Moi, je ne prêche pas une religion de corde à
 lessive!».
+
 98 Je lui répondis: «Alors, vous ne prêchez pas l’Evangile».
 
         http://www.cmpp.ch
@@ -537,25 +634,32 @@ d’insignifiant. Mais Jésus dit: “Bénis sont ceux qui sont fidèles dans to
 font les petites choses…”. Et, pour une femme, laisser pousser ses cheveux… eh bien, c’est une
 chose qu’elle-même peut faire, mais elle ne le veut même pas! Elle ne veut même pas faire
 cela!
+
 100 — «Oh, enseignez-nous des choses glorieuses!».
+
 101 Comment pourrait-on vous enseigner les choses glorieuses, alors que vous n’êtes même pas
 capables de faire les choses toutes simples et communes? C’est que, vous comprenez, vos
 motifs et vos objectifs sont faux!
+
 102 Ce qui compte, c’est l’amour que vous avez pour Dieu. «Seigneur, peu importe ce que Tu
 veux que je fasse, j’accepte de le faire». Alors, vous pourrez faire des progrès; mais si vous
 n’agissez pas de cette manière, de la manière que Lui a montrée…
+
 103 C’est Lui qui a choisi. “Le lieu que J’ai choisi… C’est là que vous adorerez, et que vous
 offrirez vos sacrifices”.
+
 104 Caïn a apporté son sacrifice, Abel, le sien; mais tout dépend du lieu où vous l’amenez. Si
 vous l’offrez dans le lieu qu’Il a choisi, alors ce sera très bien, et Il l’acceptera. Autrement, Il
 ne l’acceptera pas. Quel que soit le sacrifice, il sera rejeté, à moins qu’il ne soit offert dans le lieu
 convenable.
+
 105 Maintenant, ce que nous voudrions découvrir, c’est où nous devons apporter notre
 sacrifice. Si nous pouvions découvrir… Nous voudrions tous aller au Ciel, n’est-ce pas? Mais
 nous savons que nous avons fait le mal. Nous croyons tous que Jésus est le Sacrifice. Ce que
 nous voudrions savoir, c’est où nous devons Le prendre afin qu’Il soit agréé. Vous
 comprenez? La Bible nous enseigne où nous devons prendre ce Sacrifice afin qu’Il soit agréé;
 hors de cela, il ne sera pas agréé.
+
 106 Considérons le lieu qu’Il a choisi, et où devait être déposé le sacrifice, le lieu qu’Il a choisi
 pour déposer le sacrifice. Vous ne pouviez l’apporter à aucune des portes de la ville: vous
 deviez l’apporter au lieu qu’Il avait choisi, le lieu qu’Il avait choisi pour y faire résider Son Nom.
@@ -563,8 +667,10 @@ Maintenant, cherchons ce lieu dans les Ecritures, car c’est le lieu qu’il a 
 résider Son Nombres 107 Ce matin, j’ai noté un texte sur ce sujet… Lisons le deuxième verset de ce chapitre. Je ne
 voudrais pas parler trop longtemps, à cause de ceux qui écoutent par téléphone… Lisons le verset
 2 du chapitre 16:
-       “Tu sacrifieras la Pâque à l’Eternel, ton Dieu, tes victimes de menu et de gros bétail,
+
+> “Tu sacrifieras la Pâque à l’Eternel, ton Dieu, tes victimes de menu et de gros bétail,
     dans le lieu que l’Eternel choisira pour y faire résider Son Nom”.
+
 108 Votre sincérité, et tout ce que vous voudriez confesser, vous ne pouvez simplement le
 prendre, et l’apporter à l’autel Méthodiste, Baptiste ou Pentecôtiste. Il y a quelque part un autel
 que Lui a choisi pour y faire résider Son Nom, et c’est là qu’Il pourra vous rencontrer. Si
@@ -577,306 +683,117 @@ vous vouliez être différent, c’est là qu’il y aura le court-circuit, et l
 l’erreur. Vous devez venir avec sincérité, de tout votre coeur. Vos motifs et vos objectifs,
 placez-les en Dieu. Ensuite, cherchez le lieu qu’Il a choisi, et apportez-y votre sacrifice.
 Comprenez-vous cela?
-109 Considérez Marthe et Marie. Jésus était revenu, après avoir enseigné Son Evangile (qu’Il était
-la Lumière du monde, étant le Messie); Il fut haï, rejeté. Oh, combien les Pharisiens et les églises
-Le méprisaient! Lazare était mort, lui que Jésus aimait comme un frère! Et Il l’avait laissé là-bas.
-On L’avait envoyé chercher, et Il n’était même pas venu!
+
+109 Considérez Marthe et Marie. Jésus était revenu, après avoir enseigné Son Evangile (qu’Il
+était la Lumière du monde, étant le Messie); Il fut haï, rejeté. Oh, combien les Pharisiens et les
+églises Le méprisaient! Lazare était mort, lui que Jésus aimait comme un frère! Et Il l’avait laissé
+là-bas. On L’avait envoyé chercher, et Il n’était même pas venu!
 
     http://www.cmpp.ch
 
 LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 12
-110 Mais voyez l’attitude de Marthe. Elle dit: “Seigneur si Tu avais été là…” (elle Lui avait donné
-Son vrai titre: Seigneur, Jvhu, Jéhovah). Gloire à Dieu! “Si Tu avais été là, mon frère ne serait
-pas mort!”. La vie et la mort ne peuvent pas s’associer dans le même canal, ou se trouver dans la
-même maison. “… Il ne serait pas mort!”.
-111 Mais Jésus lui répondit: “Je suis la Résurrection et la Vie!”. — C’est Dieu qui l’a dit. Il dit
-d’abord: “Ton frère ressuscitera”.
-112 Elle Lui répondit: “Oui, Seigneur, je le crois. En tant que Juive, je sais qu’il ressuscitera à
-la résurrection, au dernier jour. Je sais qu’il y aura une résurrection générale des morts. Et
-je crois que mon frère était loyal et sincère dans l’adoration. Je crois que Tu es le Messie dont il
-est parlé dans la Bible, parce que Dieu a confirmé Sa Parole en Toi, montrant que Tu es le
-Messager pour cette heure. Tu es le Messie. Je crois que Tu es ce Christ qui devait venir, parce
-que Tes oeuvres témoignent que Dieu T’a envoyé ici pour être ce Messie”. O mon Dieu!
-Voyez comme chaque roue de l’engrenage prend sa place!
-113 Elle avait le droit de demander: “Pourquoi n’es-Tu pas venu pour ressusciter mon frère?
-Pourquoi ne l’as-Tu pas guéri? Tu en as guéris bien d’autres! Lazare était Ton meilleur ami, et
-maintenant, vois ce qui est arrivé!”. Non, non, ce genre d’objections ne vous mènera à rien.
-114 — “Je crois que Tu es exactement ce que les Ecritures confirment que Tu es. Je crois que le
-Messie doit venir en ce jour: nous L’attendons. Peu m’importe ce que disent les autres. Je crois
-de tout mon coeur ce que j’ai vu et entendu par la Parole, lorsque la Parole dit qu’Elle est
-confirmée en Toi, et que Tu es le Messie”. Vous voyez, tout au fond d’elle-même, il y avait
-quelque chose qu’elle voulait demander, mais elle devait passer par le bon canal.
-115 Elle aurait pu dire: “Et Tu viens me dire que Tu es ce Messie? Toi qui n’as même pas la
-politesse de répondre à notre requête! Nous qui T’avons nourri, qui T’avons logé, qui sommes
-venus vers Toi, qui avons quitté nos églises parce que Tu nous avais dit de sortir des
-dénominations! C’est ce que nous avons fait; et maintenant, nous sommes considérés comme des
-parias, comme des renégats! Tout cela, c’est pour Toi que nous l’avons fait, et Tu n’as même pas
-la politesse élémentaire de venir quand nous T’appelons!”. Réellement, je crois qu’elle aurait eu
-le droit de dire cela!
-116 C’est comme vous, au sujet des cheveux courts: «Je suis une citoyenne américaine, et j’ai le
-droit de porter des shorts, et de faire ce que je veux qui n’est pas contraire à la loi». C’est vrai que
-ce sont vos droits, mais une brebis abandonne toujours ses droits. (Parfaitement!) Si vous êtes un
-agneau… un agneau ne porte que de la laine, et cela aussi, il l’abandonne. Ce sont des droits
-que Dieu Lui-même lui a accordés, mais il les abandonne.
-117 — «J’ai le droit de me joindre à une dénomination!». C’est l’exacte vérité, mais cela aussi,
-vous l’abandonnez.
-118 Elle abandonna tous ses droits pour reconnaître la Parole de Dieu manifestée droit
-devant elle.
-119 Il a dit: “Je suis la Résurrection et la Vie. Celui qui croit en Moi vivra quand même il serait
-mort. Quiconque vit et croit en Moi ne mourra jamais. Crois-tu cela?”. Pourtant il y avait encore un
-point qu’elle n’avait pas confessé.
-120 Elle dit: “Oui, seigneur! Je crois que Tu es le Christ, le Fils du Dieu vivant!”. Oh, chers
-frères, maintenant, tout était prêt pour que l’étincelle puisse jaillir!
+110 Mais voyez l’attitude de Marthe. Elle dit: “Seigneur si Tu avais été là…” (elle Lui avait donné Son vrai titre: Seigneur, Jvhu, Jéhovah). Gloire à Dieu! “Si Tu avais été là, mon frère ne serait pas mort!”. La vie et la mort ne peuvent pas s’associer dans le même canal, ou se trouver dans la même maison. “… Il ne serait pas mort!”.
+111 Mais Jésus lui répondit: “Je suis la Résurrection et la Vie!”. — C’est Dieu qui l’a dit. Il dit d’abord: “Ton frère ressuscitera”.
+112 Elle Lui répondit: “Oui, Seigneur, je le crois. En tant que Juive, je sais qu’il ressuscitera à la résurrection, au dernier jour. Je sais qu’il y aura une résurrection générale des morts. Et je crois que mon frère était loyal et sincère dans l’adoration. Je crois que Tu es le Messie dont il est parlé dans la Bible, parce que Dieu a confirmé Sa Parole en Toi, montrant que Tu es le Messager pour cette heure. Tu es le Messie. Je crois que Tu es ce Christ qui devait venir, parce que Tes oeuvres témoignent que Dieu T’a envoyé ici pour être ce Messie”. O mon Dieu! Voyez comme chaque roue de l’engrenage prend sa place!
+113 Elle avait le droit de demander: “Pourquoi n’es-Tu pas venu pour ressusciter mon frère? Pourquoi ne l’as-Tu pas guéri? Tu en as guéris bien d’autres! Lazare était Ton meilleur ami, et maintenant, vois ce qui est arrivé!”. Non, non, ce genre d’objections ne vous mènera à rien.
+114 — “Je crois que Tu es exactement ce que les Ecritures confirment que Tu es. Je crois que le Messie doit venir en ce jour: nous L’attendons. Peu m’importe ce que disent les autres. Je crois de tout mon coeur ce que j’ai vu et entendu par la Parole, lorsque la Parole dit qu’Elle est confirmée en Toi, et que Tu es le Messie”. Vous voyez, tout au fond d’elle-même, il y avait quelque chose qu’elle voulait demander, mais elle devait passer par le bon canal.
+115 Elle aurait pu dire: “Et Tu viens me dire que Tu es ce Messie? Toi qui n’as même pas la politesse de répondre à notre requête! Nous qui T’avons nourri, qui T’avons logé, qui sommes venus vers Toi, qui avons quitté nos églises parce que Tu nous avais dit de sortir des dénominations! C’est ce que nous avons fait; et maintenant, nous sommes considérés comme des parias, comme des renégats! Tout cela, c’est pour Toi que nous l’avons fait, et Tu n’as même pas la politesse élémentaire de venir quand nous T’appelons!”. Réellement, je crois qu’elle aurait eu le droit de dire cela!
+116 C’est comme vous, au sujet des cheveux courts: «Je suis une citoyenne américaine, et j’ai le droit de porter des shorts, et de faire ce que je veux qui n’est pas contraire à la loi». C’est vrai que ce sont vos droits, mais une brebis abandonne toujours ses droits. (Parfaitement!) Si vous êtes un agneau… un agneau ne porte que de la laine, et cela aussi, il l’abandonne. Ce sont des droits que Dieu Lui-même lui a accordés, mais il les abandonne.
+117 — «J’ai le droit de me joindre à une dénomination!». C’est l’exacte vérité, mais cela aussi, vous l’abandonnez.
+118 Elle abandonna tous ses droits pour reconnaître la Parole de Dieu manifestée droit devant elle.
+119 Il a dit: “Je suis la Résurrection et la Vie. Celui qui croit en Moi vivra quand même il serait mort. Quiconque vit et croit en Moi ne mourra jamais. Crois-tu cela?”. Pourtant il y avait encore un point qu’elle n’avait pas confessé.
+120 Elle dit: “Oui, seigneur! Je crois que Tu es le Christ, le Fils du Dieu vivant!”. Oh, chers frères, maintenant, tout était prêt pour que l’étincelle puisse jaillir!
 121 — “Où l’avez-vous mis?”. Vous voyez? Et vous savez ce qui est arrivé ensuite.
-122 Vous comprenez, pour qu’Il puisse agréer votre sacrifice, vous devez d’abord vous
-rendre dans le lieu choisi. C’est là que vous devez aller pour commencer. Ecoutez bien:
-       “… dans le lieu que l’Eternel choisira pour y faire résider Son Nom. Pendant la fête, tu
-     ne mangeras pas de pain levé…”.
-123 Quel type cela donne-t-il au sujet du sacrifice? Ne le mélangez à aucun credo. Il faut que ce
-soit la Parole Elle-même. “… pas de pain levé…”. Vous savez ce que représente le levain dans
-quelque chose. “Un peu de levain fait lever toute la pâte” représente le Corps. Vous ne pouvez
-pas mettre la moindre trace de dénomination ou de credo en Christ, cela ne donnera aucun
-résultat.
+122 Vous comprenez, pour qu’Il puisse agréer votre sacrifice, vous devez d’abord vous rendre dans le lieu choisi. C’est là que vous devez aller pour commencer. Ecoutez bien:
+       “… dans le lieu que l’Eternel choisira pour y faire résider Son Nom. Pendant la fête, tu ne mangeras pas de pain levé…”.
+123 Quel type cela donne-t-il au sujet du sacrifice? Ne le mélangez à aucun credo. Il faut que ce soit la Parole Elle-même. “… pas de pain levé…”. Vous savez ce que représente le levain dans quelque chose. “Un peu de levain fait lever toute la pâte” représente le Corps. Vous ne pouvez pas mettre la moindre trace de dénomination ou de credo en Christ, cela ne donnera aucun résultat.
 
         http://www.cmpp.ch
 
 LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 13
-124 Vous vous souvenez du message de jeudi passé? Votre vieux mari doit être mort. C’est vrai.
-Votre nouveau mari est la Parole.
+124 Vous vous souvenez du message de jeudi passé? Votre vieux mari doit être mort. C’est vrai. Votre nouveau mari est la Parole.
        “… Tu mangeras sept jours des pains sans levain…”.
-125 “Sept jours” … Qu’est-ce que cela représente? C’est l’ensemble des sept âges de l’église,
-sept jours. Pourquoi devaient-ils en manger sept jours? Avant quoi? — Avant de sortir! Chaque
-âge de l’église, du commencement à la fin, doit vivre uniquement de la nourriture de la Parole
-de Dieu pour cet âge-là. C’est pourquoi les credo Romain, Méthodiste, Baptiste et Pentecôtiste
-sont tous morts.
+125 “Sept jours” … Qu’est-ce que cela représente? C’est l’ensemble des sept âges de l’église, sept jours. Pourquoi devaient-ils en manger sept jours? Avant quoi? — Avant de sortir! Chaque âge de l’église, du commencement à la fin, doit vivre uniquement de la nourriture de la Parole de Dieu pour cet âge-là. C’est pourquoi les credo Romain, Méthodiste, Baptiste et Pentecôtiste sont tous morts.
 126 Ecoutez ceci:
-       “… du pain d’affliction (ils ont été persécutés à cause de la Parole. Luther, Wesley, les
-    Pentecôtistes, tous ont été persécutés, et vous le serez, vous aussi) … car c’est avec
-    précipitation que tu es sorti du pays d’Egypte; il en sera ainsi afin que tu te souviennes
-    toute ta vie du jour où tu es sorti du pays d’Egypte. On ne verra point chez toi de levain,
-    dans toute l’étendue de ton pays, pendant sept jours…”.
-127 Voyez la belle Epouse de Christ: elle devait mourir, et elle mourut pendant les âges de
-ténèbres de l’empire Romain… Il fallait qu’Elle mourût: “Si le grain de blé ne tombe en terre
-premièrement et ne meurt…”. L’Epoux devait venir, le parfait Chef-d’Oeuvre de Dieu. Vous
-avez mon message sur ce sujet.
-128 Un jour, à Forest Lawn, à Los Angeles, mon coeur a tressailli. Etes-vous déjà allé à Forest
-Lawn? On y a exposé la statue de Moïse, de Michel-Ange. C’est une statue parfaite; elle n’a
-qu’un défaut sur le genou droit, une entaille profonde d’un demi-pouce. Je regardai, et le
-guide, me désignant cette entaille, me dit: «Michel-Ange était un sculpteur. Il voulait faire une
-représentation de Moïse. Tout au fond de sa pensée, il voyait comment son Moïse devrait être. Ce
-fut l’oeuvre de toute sa vie. De temps en temps, il donnait un petit coup de ciseau par ici, un autre
-par là, puis il reculait un peu, et considérait son oeuvre. Année après année, il travailla sur cette
-oeuvre. Enfin, lorsque la statue fut terminée, il recula de quelques pas, et regarda sa statue. Elle
-représentait si parfaitement l’image qu’il se faisait de Moïse, qu’il fut comme hors de lui. Il saisit
-son marteau, frappa la statue, et cria: Parle!». On appelle cette statue le Chef-d’oeuvre de
-Michel-Ange. Ce quelque chose de grandiose, dans la pensée du sculpteur, cette vision intérieure
-qu’il avait de ce que devait être Moïse… En réalité, il ne faisait que reproduire une vision qu’il
-avait de Dieu le Père.
-129 Dans Son coeur, avant la fondation du monde, Dieu avait un Fils, parce qu’Il est un Père.
-Mais tout cela n’était encore que dans les gènes de Sa Parole. Il créa un homme, à qui Il donna le
-libre arbitre, mais cet homme tomba. Mais Dieu, le Grand Sculpteur, qui avait formé l’homme de la
-poussière de la terre, ne S’arrêta pas là; Il recommença. Il fit un Noé, que le vin rendit ivre-mort. Il
-fit un Moïse, qui ne garda pas Sa Parole. Il fit des prophètes qui se sauvèrent au jour du danger. Il
-continua à faire, à faire, jusqu’au jour où Il voulut faire un Chef-d’Oeuvre à Sa ressemblance,
-ayant Sa nature, qui corresponde à l’image qu’Il Se faisait d’un Fils.
-130 Un jour, au bord du Jourdain, après que Son Chef-d’Oeuvre eut été formé, Il descendit sur les
-ailes d’une colombe, et dit: “C’est Lui!”. Il fut si enthousiasmé par Son Chef-d’Oeuvre, qu’il Le
-frappa au Calvaire afin qu’Il mourût, parce que le reste de l’humanité était imparfaite; afin que,
-par Son Sang versé, Il puisse donner beaucoup d’autres chefs-d’oeuvre (l’Epouse) à Son
-Fils. Le Chef-d’Oeuvre a été blessé, parce que Dieu a été tellement enthousiasmé à la vue d’un
-tel Chef-d’Oeuvre, qu’Il L’a frappé pour nous. Comprenez-vous cela? Il mourut afin de nous
-rendre parfaits, nous qui sommes imparfaits. Le Chef-d’Oeuvre…
+       “… du pain d’affliction (ils ont été persécutés à cause de la Parole. Luther, Wesley, les Pentecôtistes, tous ont été persécutés, et vous le serez, vous aussi) … car c’est avec précipitation que tu es sorti du pays d’Egypte; il en sera ainsi afin que tu te souviennes toute ta vie du jour où tu es sorti du pays d’Egypte. On ne verra point chez toi de levain, dans toute l’étendue de ton pays, pendant sept jours…”.
+127 Voyez la belle Epouse de Christ: elle devait mourir, et elle mourut pendant les âges de ténèbres de l’empire Romain… Il fallait qu’Elle mourût: “Si le grain de blé ne tombe en terre premièrement et ne meurt…”. L’Epoux devait venir, le parfait Chef-d’Oeuvre de Dieu. Vous avez mon message sur ce sujet.
+128 Un jour, à Forest Lawn, à Los Angeles, mon coeur a tressailli. Etes-vous déjà allé à Forest Lawn? On y a exposé la statue de Moïse, de Michel-Ange. C’est une statue parfaite; elle n’a qu’un défaut sur le genou droit, une entaille profonde d’un demi-pouce. Je regardai, et le guide, me désignant cette entaille, me dit: «Michel-Ange était un sculpteur. Il voulait faire une représentation de Moïse. Tout au fond de sa pensée, il voyait comment son Moïse devrait être. Ce fut l’oeuvre de toute sa vie. De temps en temps, il donnait un petit coup de ciseau par ici, un autre par là, puis il reculait un peu, et considérait son oeuvre. Année après année, il travailla sur cette oeuvre. Enfin, lorsque la statue fut terminée, il recula de quelques pas, et regarda sa statue. Elle représentait si parfaitement l’image qu’il se faisait de Moïse, qu’il fut comme hors de lui. Il saisit son marteau, frappa la statue, et cria: Parle!». On appelle cette statue le Chef-d’oeuvre de Michel-Ange. Ce quelque chose de grandiose, dans la pensée du sculpteur, cette vision intérieure qu’il avait de ce que devait être Moïse… En réalité, il ne faisait que reproduire une vision qu’il avait de Dieu le Père.
+129 Dans Son coeur, avant la fondation du monde, Dieu avait un Fils, parce qu’Il est un Père. Mais tout cela n’était encore que dans les gènes de Sa Parole. Il créa un homme, à qui Il donna le libre arbitre, mais cet homme tomba. Mais Dieu, le Grand Sculpteur, qui avait formé l’homme de la poussière de la terre, ne S’arrêta pas là; Il recommença. Il fit un Noé, que le vin rendit ivre-mort. Il fit un Moïse, qui ne garda pas Sa Parole. Il fit des prophètes qui se sauvèrent au jour du danger. Il continua à faire, à faire, jusqu’au jour où Il voulut faire un Chef-d’Oeuvre à Sa ressemblance, ayant Sa nature, qui corresponde à l’image qu’Il Se faisait d’un Fils.
+130 Un jour, au bord du Jourdain, après que Son Chef-d’Oeuvre eut été formé, Il descendit sur les ailes d’une colombe, et dit: “C’est Lui!”. Il fut si enthousiasmé par Son Chef-d’Oeuvre, qu’il Le frappa au Calvaire afin qu’Il mourût, parce que le reste de l’humanité était imparfaite; afin que, par Son Sang versé, Il puisse donner beaucoup d’autres chefs-d’oeuvre (l’Epouse) à Son Fils. Le Chef-d’Oeuvre a été blessé, parce que Dieu a été tellement enthousiasmé à la vue d’un tel Chef-d’Oeuvre, qu’Il L’a frappé pour nous. Comprenez-vous cela? Il mourut afin de nous rendre parfaits, nous qui sommes imparfaits. Le Chef-d’Oeuvre…
 131 Remarquez qu’Il dit dans ce passage:
        “Pendant sept jours, vous mangerez du pain sans levain…”.
-132 Le pain est un type. Jésus a dit: “L’homme ne vivra pas de pain seulement, mais de chaque
-Parole…”. Et non pas d’une Parole ici et là, comme les dénominations voudraient vous le faire
-croire. Mais la Parole de Dieu est parfaite! C’est Dieu Lui-même sous forme de lettre, et qui est
-appelé une “Semence”. Et la bonne espèce de foi, la foi pure et sans mélange en cette Parole,
-donnera la Vie à cette Semence.
+132 Le pain est un type. Jésus a dit: “L’homme ne vivra pas de pain seulement, mais de chaque Parole…”. Et non pas d’une Parole ici et là, comme les dénominations voudraient vous le faire croire. Mais la Parole de Dieu est parfaite! C’est Dieu Lui-même sous forme de lettre, et qui est appelé une “Semence”. Et la bonne espèce de foi, la foi pure et sans mélange en cette Parole, donnera la Vie à cette Semence.
 
         http://www.cmpp.ch
 
 LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 14
-133 C’est exactement ce que vous pouvez voir le soir, lorsque s’exerce le discernement et toutes
-ces autres choses, parce que c’est la promesse que Dieu a faite. Il Se tenait à côté de moi, et me
-disait ces choses; et Il me dit aussi: «Des faussaires s’élèveront, mais toi, reste ferme!». Je
-crois cela! Et si je dis ces choses, ce n’est pas pour des motifs égoïstes, pour blesser qui que ce
-soit, mais afin d’obéir à Dieu et de faire l’oeuvre pour laquelle Il m’a appelé. Et en retour, Dieu
-le confirme, agréant l’offrande et le sacrifice en confirmant que c’est la Vérité. Il n’y a pas de place
-pour le doute. Maintenant, écoutez cette Parole!
-134 Lorsqu’il est dit “Sept jours”, cela veut dire que cela concerne tous les âges de l’église.
-Comme ce Chef-d’Oeuvre qui dut mourir afin de ressusciter pour nous racheter tous. Il établit une
-église le jour de Pentecôte, et la mit en ordre, mais cette église devait passer par un sacrifice. Ce
-fut le monde Romain qui la mit à mort et l’enterra.
-135 Comme l’auteur de ce livre, je ne peux pas me souvenir de son nom… il s’était tellement
-moqué de moi!… Il disait: «Tous ces démons n’existent que dans l’imagination de William
-Branham!». C’est ce que le diable essaie de faire croire. Il dit: «Les visions et toutes ces
-choses, cela vient du diable!». Il disait aussi: «Cet homme est une sorte d’hypnotiseur. Il travaille
-dans le domaine de la perception suprasensorielle». Le monde intellectuel essaie toujours
-d’expliquer les choses scientifiquement.
-136 C’est de la même manière qu’ils essayaient de comprendre Jésus: “Par quel moyen fais-
-tu ces choses? Qu’est-ce qui s’est passé?”.
-137 Mais Il leur répondit en disant: “Moi aussi, je vais vous poser une question: Le ministère de
-Jean-Baptiste, venait-il de Dieu ou des hommes?”.
+133 C’est exactement ce que vous pouvez voir le soir, lorsque s’exerce le discernement et toutes ces autres choses, parce que c’est la promesse que Dieu a faite. Il Se tenait à côté de moi, et me disait ces choses; et Il me dit aussi: «Des faussaires s’élèveront, mais toi, reste ferme!». Je crois cela! Et si je dis ces choses, ce n’est pas pour des motifs égoïstes, pour blesser qui que ce soit, mais afin d’obéir à Dieu et de faire l’oeuvre pour laquelle Il m’a appelé. Et en retour, Dieu le confirme, agréant l’offrande et le sacrifice en confirmant que c’est la Vérité. Il n’y a pas de place pour le doute. Maintenant, écoutez cette Parole!
+134 Lorsqu’il est dit “Sept jours”, cela veut dire que cela concerne tous les âges de l’église. Comme ce Chef-d’Oeuvre qui dut mourir afin de ressusciter pour nous racheter tous. Il établit une église le jour de Pentecôte, et la mit en ordre, mais cette église devait passer par un sacrifice. Ce fut le monde Romain qui la mit à mort et l’enterra.
+135 Comme l’auteur de ce livre, je ne peux pas me souvenir de son nom… il s’était tellement moqué de moi!… Il disait: «Tous ces démons n’existent que dans l’imagination de William Branham!». C’est ce que le diable essaie de faire croire. Il dit: «Les visions et toutes ces choses, cela vient du diable!». Il disait aussi: «Cet homme est une sorte d’hypnotiseur. Il travaille dans le domaine de la perception suprasensorielle». Le monde intellectuel essaie toujours d’expliquer les choses scientifiquement.
+136 C’est de la même manière qu’ils essayaient de comprendre Jésus: “Par quel moyen fais-tu ces choses? Qu’est-ce qui s’est passé?”.
+137 Mais Il leur répondit en disant: “Moi aussi, je vais vous poser une question: Le ministère de Jean-Baptiste, venait-il de Dieu ou des hommes?”.
 138 Ils Lui répondirent: “Nous ne savons…”.
-139 Alors, Il leur répondit: “Moi non plus, je ne vous dirai rien!”. Et Il continua Son chemin. Depuis
-ce moment-là, plus personne n’osa Lui poser de questions. Vous comprenez? Il leur coupa la
-parole, et ne leur dit plus rien. Cela ne les regardait pas! Il avait une oeuvre à accomplir, et Il
-l’accomplit.
-140 Que Dieu nous aide à faire de même! Nous n’avons pas à répondre aux questions du diable.
-C’est vrai! — «Si c’est Toi, alors fais ceci et cela!». En tant que prédicateur, vous êtes responsable
-de cet Evangile, un point, c’est tout. Peu importe comment cela est écrit, votre responsabilité,
-c’est de Le proclamer.
-141 En tant que serviteur, si vous êtes un prophète, vous êtes responsable devant Dieu. Et si les
-visions qui vous viennent éclairent l’Ecriture, et vous montrent ce qu’Elle veut dire, alors, vous êtes
-responsable pour chaque Parole qui se trouve dans cette Bible, parce qu’Elle a été écrite par le
-même genre de gens que vous. — «Dieu, dans les temps anciens, parla par les prophètes, et
-écrivit la Sainte Bible». Et aucun véritable prophète de Dieu pourrait rejeter un seul mot de la
-Parole, mais au contraire, il croira chaque mot, et prêchera en conséquence. Et alors, par ce
-canal, Dieu est obligé d’accomplir cette Parole de la manière exacte dont la Promesse a été
-faite, et la Semence croîtra.
-142 Nous remarquons encore une fois rapidement que ce pain devait être mangé durant les sept
-jours — au travers des sept âges de l’église. Donc, cela devait mourir, et être mis en terre.
-143 Ce critique disait: «Comment pouvez-vous adorer un Dieu comme celui qui, au Moyen Age,
-pouvait sans rien faire voir jeter aux lions de jeunes femmes enceintes, ou d’autres qui tenaient
-encore leur enfant dans leurs bras; ces gens qui étaient sincères, et que l’on jetait en pâture aux
-lions! Comment pouvait-Il supporter d’entendre leurs cris! Et ceux que l’on attachait à des croix, et
-que l’on brûlait vivants! Et ces jeunes filles que l’on jetait nues dans l’arène, et qui étaient dévorées
-par les lions! Et il y aurait un Dieu qui serait soi-disant dans le Ciel, assis sur Son trône, regardant
-en bas, et jouissant du spectacle!».
-144 Vous voyez: cela, c’est la manière de voir intellectuelle, et elle vient du diable. Si cet
-homme avait été spirituel, il aurait compris que le grain de blé devait mourir, et être enterré dans
-une cathédrale Romaine.
-145 Mais voici qu’une petite pousse de Vie sortit bientôt, lors de la réforme de Luther, lorsqu’il dit:
-«Le juste ne vivra pas par un petit bout de pain que le prêtre a béni, mais par la Parole de
+139 Alors, Il leur répondit: “Moi non plus, je ne vous dirai rien!”. Et Il continua Son chemin. Depuis ce moment-là, plus personne n’osa Lui poser de questions. Vous comprenez? Il leur coupa la parole, et ne leur dit plus rien. Cela ne les regardait pas! Il avait une oeuvre à accomplir, et Il l’accomplit.
+140 Que Dieu nous aide à faire de même! Nous n’avons pas à répondre aux questions du diable. C’est vrai! — «Si c’est Toi, alors fais ceci et cela!». En tant que prédicateur, vous êtes responsable de cet Evangile, un point, c’est tout. Peu importe comment cela est écrit, votre responsabilité, c’est de Le proclamer.
+141 En tant que serviteur, si vous êtes un prophète, vous êtes responsable devant Dieu. Et si les visions qui vous viennent éclairent l’Ecriture, et vous montrent ce qu’Elle veut dire, alors, vous êtes responsable pour chaque Parole qui se trouve dans cette Bible, parce qu’Elle a été écrite par le même genre de gens que vous. — «Dieu, dans les temps anciens, parla par les prophètes, et écrivit la Sainte Bible». Et aucun véritable prophète de Dieu pourrait rejeter un seul mot de la Parole, mais au contraire, il croira chaque mot, et prêchera en conséquence. Et alors, par ce canal, Dieu est obligé d’accomplir cette Parole de la manière exacte dont la Promesse a été faite, et la Semence croîtra.
+142 Nous remarquons encore une fois rapidement que ce pain devait être mangé durant les sept jours — au travers des sept âges de l’église. Donc, cela devait mourir, et être mis en terre.
+143 Ce critique disait: «Comment pouvez-vous adorer un Dieu comme celui qui, au Moyen Age, pouvait sans rien faire voir jeter aux lions de jeunes femmes enceintes, ou d’autres qui tenaient encore leur enfant dans leurs bras; ces gens qui étaient sincères, et que l’on jetait en pâture aux lions! Comment pouvait-Il supporter d’entendre leurs cris! Et ceux que l’on attachait à des croix, et que l’on brûlait vivants! Et ces jeunes filles que l’on jetait nues dans l’arène, et qui étaient dévorées par les lions! Et il y aurait un Dieu qui serait soi-disant dans le Ciel, assis sur Son trône, regardant en bas, et jouissant du spectacle!».
+144 Vous voyez: cela, c’est la manière de voir intellectuelle, et elle vient du diable. Si cet homme avait été spirituel, il aurait compris que le grain de blé devait mourir, et être enterré dans une cathédrale Romaine.
+145 Mais voici qu’une petite pousse de Vie sortit bientôt, lors de la réforme de Luther, lorsqu’il dit: «Le juste ne vivra pas par un petit bout de pain que le prêtre a béni, mais par la Parole de
 
         http://www.cmpp.ch
 
     LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU    15
-Dieu!». Le juste vivra par la foi! Il y eut deux petites pousses, et le grain de blé commença à
-croître.
-146 Ensuite vint John Wesley, qui ajouta encore quelque chose. (Il y en eut bien sûr beaucoup
-d’autres qui… Il y eut Zwingli et les autres qui niaient la naissance virginale, mais cela mourut…) Il
-y eut les Méthodistes, l’aigrette, le pollen, l’ère missionnaire. Ils prêchaient la sanctification. Ils
-ajoutèrent l’aigrette.
-147 Puis, vinrent les Pentecôtistes, et la balle qui aurait pu séduire les élus eux-mêmes, si c’était
-possible. Elle avait exactement l’apparence d’un grain de blé, mais lorsque vous l’ouvriez, il
-n’y avait rien dedans. Mais la Vie continue à avancer, et Elle passe au travers de la balle.
-148 Avez-vous remarqué ce qui se passe trois ans après qu’une grande série de réunions a eu
-lieu? Une nouvelle dénomination prend naissance! Maintenant, vingt ans ont passé, et il n’y a pas
-eu de nouvelle dénomination! O, cher Agneau immolé, puisse cela ne jamais arriver. Si je
-m’en vais dans cette génération, puissent les gens qui croient à ce message ne jamais s’arrêter
-pour faire une dénomination! Vous mourriez dans votre voie! Ne l’oubliez jamais! A l’heure même
-où vous aurez la pensée de créer une dénomination parmi vous, peu importe à quel point
-vous êtes sincères, à l’instant où vous prendrez pour chef un homme, au lieu du
-Saint-Esprit, pour confirmer cette Parole, à cette heure même, vous mourrez! La véritable
-Semence ne pourra pas faire cela, parce qu’il ne reste rien après la semence: elle est la même
-chose que ce qui était au commencement. C’est l’Epouse qui est tombée dans la terre afin de faire
-sortir le nouveau grain de blé.
+Dieu!». Le juste vivra par la foi! Il y eut deux petites pousses, et le grain de blé commença à croître.
+146 Ensuite vint John Wesley, qui ajouta encore quelque chose. (Il y en eut bien sûr beaucoup d’autres qui… Il y eut Zwingli et les autres qui niaient la naissance virginale, mais cela mourut…) Il y eut les Méthodistes, l’aigrette, le pollen, l’ère missionnaire. Ils prêchaient la sanctification. Ils ajoutèrent l’aigrette.
+147 Puis, vinrent les Pentecôtistes, et la balle qui aurait pu séduire les élus eux-mêmes, si c’était possible. Elle avait exactement l’apparence d’un grain de blé, mais lorsque vous l’ouvriez, il n’y avait rien dedans. Mais la Vie continue à avancer, et Elle passe au travers de la balle.
+148 Avez-vous remarqué ce qui se passe trois ans après qu’une grande série de réunions a eu lieu? Une nouvelle dénomination prend naissance! Maintenant, vingt ans ont passé, et il n’y a pas eu de nouvelle dénomination! O, cher Agneau immolé, puisse cela ne jamais arriver. Si je m’en vais dans cette génération, puissent les gens qui croient à ce message ne jamais s’arrêter pour faire une dénomination! Vous mourriez dans votre voie! Ne l’oubliez jamais! A l’heure même où vous aurez la pensée de créer une dénomination parmi vous, peu importe à quel point vous êtes sincères, à l’instant où vous prendrez pour chef un homme, au lieu du Saint-Esprit, pour confirmer cette Parole, à cette heure même, vous mourrez! La véritable Semence ne pourra pas faire cela, parce qu’il ne reste rien après la semence: elle est la même chose que ce qui était au commencement. C’est l’Epouse qui est tombée dans la terre afin de faire sortir le nouveau grain de blé.
 149 Remarquez bien ceci: “… tu mangeras sept jours des pains sans levain…”.
 150 Et il en sera de l’Epouse…
-151 Vous, les enfants de cette vieille mère Méthodiste qui poussait des cris, etc., vous dites: «Si
-elle ne parlait pas en langues, elle ne pourrait pas être avec nous!». — C’est un mensonge! C’est
-le même Saint-Esprit que celui d’aujourd’hui; seulement, il était impossible pour eux… il n’y avait
-pas encore la restauration des dons. Mais, de toute façon, pendant tous les sept jours, ils
-mangèrent simplement le Pain sans levain, la Parole. Mais ceux qui créèrent des
-dénominations à partir de là, ils sont morts. Ils sont la tige, et ils seront rassemblés pour être
-brûlés. Mais la Vie continue toujours, au travers de cela. Et que s’est-il passé? Toute la vie qui
-était dans la tige, dans l’épi, dans la balle, s’est concentrée dans le grain. Et le même
-Saint-Esprit qui a suscité Luther, Wesley, les Pentecôtistes Se retrouvera dans l’Epouse, le
-jour de la résurrection.
-152 “Pendant sept jours, tu mangeras du pain sans levain…”. On ne trouvera pas de levain
-parmi l’Epouse, pas une seule parole ajoutée, rien. Rappelez-vous que c’est un seul mot qui
-a causé toute la mort que l’on trouve sur la terre. Tous les enfants illégitimes sont nés parce
-que Eve, la première église, l’épouse du premier Adam, douta de la Parole de Dieu et accepta des
-interprétations dénominationnelles, intellectuelles telles qu’on les enseigne dans les écoles. Parce
-qu’on raisonna sur la Parole de Dieu, en disant: «Bien sûr que Dieu est un Dieu bon!». Dieu est un
-Dieu bon, mais Il est aussi un Dieu juste. Nous devons garder Sa Parole! Eve, elle, accepta
-l’interprétation.
-153 Vous autres séminaristes, vous avez certainement reçu un appel dans votre vie, mais vous
-vous êtes précipités dans une école biblique pour vous faire injecter ces doctrines, et c’est là que
-vous mourez. Restez avec Dieu et Sa Parole! Mais ils ne voudront pas vous laisser faire cela.
-Vous ne pourrez même pas appartenir à leur congrégation, ni monter en chaire. C’est pourquoi,
-laissez-les faire à leur idée, laissez les morts enterrer leurs morts; suivons Christ la Parole.
-154 Pendant sept jours donc, on ne trouvera pas de levain mêlé dans l’Epouse, l’Eglise —
-pendant sept jours.
-155 Remarquez bien ce passage: “On ne verra point chez toi de levain, dans toute l’étendue de
-ton pays, pendant sept jours… (ici, le sacrifice est un type: celui de l’Epouse issue du
-Sacrifice, qui est Christ) … et aucune partie des victimes que tu sacrifieras le soir du premier
-jour…”.
-156 Vous vous souvenez comment nous avons parcouru les sept âges de l’Eglise? Le messager
-de l’église arrive toujours au moment de l’agonie de l’âge précédent. L’agonie de l’âge de la
+151 Vous, les enfants de cette vieille mère Méthodiste qui poussait des cris, etc., vous dites: «Si elle ne parlait pas en langues, elle ne pourrait pas être avec nous!». — C’est un mensonge! C’est le même Saint-Esprit que celui d’aujourd’hui; seulement, il était impossible pour eux… il n’y avait pas encore la restauration des dons. Mais, de toute façon, pendant tous les sept jours, ils mangèrent simplement le Pain sans levain, la Parole. Mais ceux qui créèrent des dénominations à partir de là, ils sont morts. Ils sont la tige, et ils seront rassemblés pour être brûlés. Mais la Vie continue toujours, au travers de cela. Et que s’est-il passé? Toute la vie qui était dans la tige, dans l’épi, dans la balle, s’est concentrée dans le grain. Et le même Saint-Esprit qui a suscité Luther, Wesley, les Pentecôtistes Se retrouvera dans l’Epouse, le jour de la résurrection.
+152 “Pendant sept jours, tu mangeras du pain sans levain…”. On ne trouvera pas de levain parmi l’Epouse, pas une seule parole ajoutée, rien. Rappelez-vous que c’est un seul mot qui a causé toute la mort que l’on trouve sur la terre. Tous les enfants illégitimes sont nés parce que Eve, la première église, l’épouse du premier Adam, douta de la Parole de Dieu et accepta des interprétations dénominationnelles, intellectuelles telles qu’on les enseigne dans les écoles. Parce qu’on raisonna sur la Parole de Dieu, en disant: «Bien sûr que Dieu est un Dieu bon!». Dieu est un Dieu bon, mais Il est aussi un Dieu juste. Nous devons garder Sa Parole! Eve, elle, accepta l’interprétation.
+153 Vous autres séminaristes, vous avez certainement reçu un appel dans votre vie, mais vous vous êtes précipités dans une école biblique pour vous faire injecter ces doctrines, et c’est là que vous mourez. Restez avec Dieu et Sa Parole! Mais ils ne voudront pas vous laisser faire cela. Vous ne pourrez même pas appartenir à leur congrégation, ni monter en chaire. C’est pourquoi, laissez-les faire à leur idée, laissez les morts enterrer leurs morts; suivons Christ la Parole.
+154 Pendant sept jours donc, on ne trouvera pas de levain mêlé dans l’Epouse, l’Eglise — pendant sept jours.
+155 Remarquez bien ce passage: “On ne verra point chez toi de levain, dans toute l’étendue de ton pays, pendant sept jours… (ici, le sacrifice est un type: celui de l’Epouse issue du Sacrifice, qui est Christ) … et aucune partie des victimes que tu sacrifieras le soir du premier jour…”.
+156 Vous vous souvenez comment nous avons parcouru les sept âges de l’Eglise? Le messager de l’église arrive toujours au moment de l’agonie de l’âge précédent. L’agonie de l’âge de la
 
     http://www.cmpp.ch
 
 LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 16
-Pentecôte apporte celui de l’enlèvement de l’Epouse. Vous comprenez? L’agonie de l’âge de
-Luther a apporté l’âge de Wesley. L’agonie de l’âge de Wesley a apporté l’âge de la Pentecôte.
-L’agonie de la Pentecôte a apporté le message actuel. Tout cela est montré tout au long de
-l’Ecriture. Il n’y a pas un seul passage qui ne se soude aux autres. Vous comprenez? Tous ces
-types… Je n’ai pas d’instruction, mais j’ai le Saint-Esprit qui me montre les choses à travers un
-autre canal, qui m’instruit par la nature, et c’est par la Parole. Il faut que ce soit la Parole, car
-c’est Elle qui apporte la promesse.
+Pentecôte apporte celui de l’enlèvement de l’Epouse. Vous comprenez? L’agonie de l’âge de Luther a apporté l’âge de Wesley. L’agonie de l’âge de Wesley a apporté l’âge de la Pentecôte. L’agonie de la Pentecôte a apporté le message actuel. Tout cela est montré tout au long de l’Ecriture. Il n’y a pas un seul passage qui ne se soude aux autres. Vous comprenez? Tous ces types… Je n’ai pas d’instruction, mais j’ai le Saint-Esprit qui me montre les choses à travers un autre canal, qui m’instruit par la nature, et c’est par la Parole. Il faut que ce soit la Parole, car c’est Elle qui apporte la promesse.
        “… ne sera gardée pendant la nuit jusqu’au matin”.
-157 Luther avait la vérité, et il enseigna à l’église: “Le juste vivra par la foi”. L’âge Méthodiste, vous
-ne le considérez plus comme la pleine doctrine. Que ferez-vous? S’il en reste quelque chose, vous
-le brûlerez au feu: De quoi était-ce le type? Les dénominations qui viennent de la Parole sont du
-chaume, des tiges, de la balle, et doivent être brûlées au feu. La partie dénominationnelle qui a
-passé dans l’âge suivant ne doit pas subsister, elle doit mourir. Ne l’emportez pas dans l’âge
-suivant. Brûlez-la! Il parle maintenant à l’Epouse, et rien qu’à l’Epouse qui s’est levée dans
-chaque âge.
-158 Remarquez comme tout cela est beau: “Le sang de l’agneau”. Il représente le corps de Christ,
-le Sacrifice. Le sang de l’agneau appliqué sur la porte. L’agneau était immolé, ce qui représente
-un type de Christ.
-159 Nous pourrions passer beaucoup de temps sur ce sujet, mais il ne me reste que quelques
-minutes. Peut-être que je devrai même m’arrêter pour recommencer ce soir, parce que nous
-prenons trop de temps. Sur ce seul sujet, j’ai une vingtaine de pages de citations…
-160 Remarquez que Christ était représenté par un agneau. Il était l’Agneau. Il fallait que ce soit
-un mâle, le premier-né. Il fallait que ce soit son premier-né. Et il devait être éprouvé, afin que
-l’on soit sûr qu’il n’ait aucun défaut.
-161 Christ, Lui aussi, dut être éprouvé. L’Agneau premier-né de Sa mère, la vierge Marie. Et
-comment l’épreuve de déroula-t-elle? Ce fut Satan contre la Parole. Lorsqu’il frappa Eve, elle
-tomba; lorsqu’il frappa Moïse, il tomba. Mais lorsqu’il s’attaqua à Christ en Lui citant la Parole
-faussement, il découvrit alors qu’il ne s’agissait plus d’un Moïse! Vous comprenez? Il fut
-éprouvé. Satan, lui, essaya de chercher un biais, une faille, et dit: “Si tu es le Fils de Dieu… On
-m’a dit que tu faisais des miracles, et il paraît que c’est ce que le Messie doit faire. Si c’est le cas,
-toi qui as faim, toi qui n’a pas mangé, change ces pierres en pain, et mange!”.
-162 Mais Jésus lui répondit: “L’homme ne vivra pas de pain seulement,…”. (mais de credo, etc.?)
-Non! Mais de quoi? De chaque Parole! De quelle partie de la Parole? “De toute Parole qui sort
-de la bouche de Dieu!”. C’est de cela que l’homme vivra. Vous comprenez? L’Agneau fut
-éprouvé pour voir s’il y avait un point quelconque au sujet duquel Il serait tombé.
-163 Les pharisiens disaient: “Oh, Rabbi, Tu es un jeune prophète, mais nous pensons que Tu es
-merveilleux! Tu es bon”.
-164 Mais Lui leur répondit: “Pourquoi dites-vous que Je suis bon? Il n’y en a qu’Un qui est bon,
-et c’est Dieu! Croyez-vous cela?”.
+157 Luther avait la vérité, et il enseigna à l’église: “Le juste vivra par la foi”. L’âge Méthodiste, vous ne le considérez plus comme la pleine doctrine. Que ferez-vous? S’il en reste quelque chose, vous le brûlerez au feu: De quoi était-ce le type? Les dénominations qui viennent de la Parole sont du chaume, des tiges, de la balle, et doivent être brûlées au feu. La partie dénominationnelle qui a passé dans l’âge suivant ne doit pas subsister, elle doit mourir. Ne l’emportez pas dans l’âge suivant. Brûlez-la! Il parle maintenant à l’Epouse, et rien qu’à l’Epouse qui s’est levée dans chaque âge.
+158 Remarquez comme tout cela est beau: “Le sang de l’agneau”. Il représente le corps de Christ, le Sacrifice. Le sang de l’agneau appliqué sur la porte. L’agneau était immolé, ce qui représente un type de Christ.
+159 Nous pourrions passer beaucoup de temps sur ce sujet, mais il ne me reste que quelques minutes. Peut-être que je devrai même m’arrêter pour recommencer ce soir, parce que nous prenons trop de temps. Sur ce seul sujet, j’ai une vingtaine de pages de citations…
+160 Remarquez que Christ était représenté par un agneau. Il était l’Agneau. Il fallait que ce soit un mâle, le premier-né. Il fallait que ce soit son premier-né. Et il devait être éprouvé, afin que l’on soit sûr qu’il n’ait aucun défaut.
+161 Christ, Lui aussi, dut être éprouvé. L’Agneau premier-né de Sa mère, la vierge Marie. Et comment l’épreuve de déroula-t-elle? Ce fut Satan contre la Parole. Lorsqu’il frappa Eve, elle tomba; lorsqu’il frappa Moïse, il tomba. Mais lorsqu’il s’attaqua à Christ en Lui citant la Parole faussement, il découvrit alors qu’il ne s’agissait plus d’un Moïse! Vous comprenez? Il fut éprouvé. Satan, lui, essaya de chercher un biais, une faille, et dit: “Si tu es le Fils de Dieu… On m’a dit que tu faisais des miracles, et il paraît que c’est ce que le Messie doit faire. Si c’est le cas, toi qui as faim, toi qui n’a pas mangé, change ces pierres en pain, et mange!”.
+162 Mais Jésus lui répondit: “L’homme ne vivra pas de pain seulement,…”. (mais de credo, etc.?) Non! Mais de quoi? De chaque Parole! De quelle partie de la Parole? “De toute Parole qui sort de la bouche de Dieu!”. C’est de cela que l’homme vivra. Vous comprenez? L’Agneau fut éprouvé pour voir s’il y avait un point quelconque au sujet duquel Il serait tombé.
+163 Les pharisiens disaient: “Oh, Rabbi, Tu es un jeune prophète, mais nous pensons que Tu es merveilleux! Tu es bon”.
+164 Mais Lui leur répondit: “Pourquoi dites-vous que Je suis bon? Il n’y en a qu’Un qui est bon, et c’est Dieu! Croyez-vous cela?”.
 165 — “Oui, c’est vrai, c’est Dieu”.
-166 — “Eh bien, c’est Moi! Il n’y en a qu’Un qui est bon. Pourquoi M’appelez-vous “bon”, alors
-que vous ne croyez pas que Je suis Dieu? Alors, pourquoi dites-vous que Je suis bon?
-Qu’est-ce qui vous a inspiré de dire cela, alors que vous savez qu’il n’y en a qu’Un qui est bon, et
-que c’est Dieu?”.
-167 — “Nous savons que Tu ne tiens pas compte des dignités humaines, ni de la parole des
-médecins. Nous le savons”. Ils essayaient… Il savait que c’étaient des hypocrites.
-168 Il fut éprouvé pour que l’on pût voir quelle était Sa position, éprouvé de toutes les manières,
-éprouvé comme nous devons être nous-mêmes éprouvés. Mais en Lui, il n’y eut rien qui céda,
-aucun point faible. C’est vrai! Parce qu’Il était le fils de Dieu.
-169 L’agneau était éprouvé; il était gardé jusqu’au quatorzième jour. Il y eut deux sabbats, ou
-deux âges. L’un était pour les Juifs, pendant lequel ils offraient un agneau, qui était un type; l’autre
-est pour les nations, qui ont le vrai Agneau, et tous ont été rendus parfaits en croyant que cet
+166 — “Eh bien, c’est Moi! Il n’y en a qu’Un qui est bon. Pourquoi M’appelez-vous “bon”, alors que vous ne croyez pas que Je suis Dieu? Alors, pourquoi dites-vous que Je suis bon? Qu’est-ce qui vous a inspiré de dire cela, alors que vous savez qu’il n’y en a qu’Un qui est bon, et que c’est Dieu?”.
+167 — “Nous savons que Tu ne tiens pas compte des dignités humaines, ni de la parole des médecins. Nous le savons”. Ils essayaient… Il savait que c’étaient des hypocrites.
+168 Il fut éprouvé pour que l’on pût voir quelle était Sa position, éprouvé de toutes les manières, éprouvé comme nous devons être nous-mêmes éprouvés. Mais en Lui, il n’y eut rien qui céda, aucun point faible. C’est vrai! Parce qu’Il était le fils de Dieu.
+169 L’agneau était éprouvé; il était gardé jusqu’au quatorzième jour. Il y eut deux sabbats, ou deux âges. L’un était pour les Juifs, pendant lequel ils offraient un agneau, qui était un type; l’autre est pour les nations, qui ont le vrai Agneau, et tous ont été rendus parfaits en croyant que cet
 
         http://www.cmpp.ch
 
 LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 17
 Agneau viendrait. Mais Il fut tenté… ou plutôt examiné jusqu’au quatorzième jour; Jésus était la
 Parole.
+
 170 Vous pouvez examiner l’ancien Testament, et dire: «Il condamne le Nouveau». Vous vous
 trompez! L’ancien Testament ne fait que rendre témoignage au nouveau Testament!
+
 171 Un homme voulait me prendre à partie, il n’y a pas longtemps de cela. Il disait: «Vous savez
 ce qui ne va pas avec lui? Il enseigne même des choses qui sont tirées de l’ancien Testament!».
 Qu’un prédicateur chrétien puisse penser cela! Il disait: «L’ancien Testament est mort et enterré!».
 Mais non, pas du tout! Il est simplement un maître d’école qui nous montre ce qui est écrit
 sur la muraille. Vous comprenez?
+
 172 Vous voyez donc que l’Agneau, qui était Christ, était éprouvé jusqu’au quatorzième jour. Vous
 remarquerez aussi que l’agneau devait être immolé le soir. Christ mourut vers le soir, l’après-midi.
+
 173 Le sang devait être mis sur les poteaux, ce sang qui était la vie d’un animal. — “Tu en
 mangeras la chair, mais le sang, qui est la vie, tu le répandras”. Le sang devait être mis sur les
 poteaux et le linteau de la maison où le sacrifice devait être agréé. Gloire à Dieu! Qu’est-ce que la
@@ -884,12 +801,15 @@ Vie? C’est le Nom! Il plaça le nom de la personne… Lorsque vous vous approc
 avant de sonner, vous regardez quel est le nom qui est écrit sur la porte. Vous comprenez? Le
 sang était mis sur la porte comme un type montrant quel était le genre de sacrifice qui se
 trouvait à l’intérieur.
+
 174 Maintenant, nous allons trouver le lieu d’adoration, au travers du Sang. Remarquez que
 le sang qui était sur la porte parlait du nom de ce qui était à l’intérieur, parce qu’ils étaient à
 l’intérieur. Notre lieu d’adoration, l’Agneau, est la Parole. Nous le savons.
+
 175 Remarquons encore ceci, dans le verset 4: “… aucune partie des victimes que tu sacrifieras le
 soir du premier jour ne sera gardée…” — ou, autrement dit, gardée d’un âge pour le prendre
 dans le suivant.
+
 176 Si nous retournons quelques années en arrière, et que nous disions: «Nous sommes des
 Luthériens, et nous voulons entrer dans cet âge nouveau…». Vous devez mourir à l’âge Luthérien,
 et naître à l’âge Wesleyen. Vous devez mourir à l’âge de Wesley, et naître à l’âge de la Pentecôte.
@@ -900,14 +820,18 @@ message. Maintenant, c’est la Parole. La tige, c’est ce qui est devenu une d
 porté la semence, c’est vrai. Mais ensuite, la Vie a passé plus loin, et la tige est morte. La
 dénomination était un porteur, mais la Parole continue, et va plus loin. C’est vrai! La Parole
 continue, Elle va de l’avant.
+
 177 Prenons maintenant les versets 5 et 6:
        “Tu ne pourras pas sacrifier la pâque dans l’une de tes portes que l’Eternel, ton Dieu,
      te donne;…”.
+
 178 Rappelez-vous bien ceci: “… dans l’une des portes…”. Le Seigneur tolère que vous ayez ces
 dénominations, “ces portes”.
        “… mais au lieu que l’Eternel, ton Dieu, aura choisi pour y faire habiter son nom, là tu
      sacrifieras la pâque, au coucher du soleil…”.
+
 179 C’est cela, la porte, le seul endroit. Pas toutes “ces portes”, mais Dieu a une “seule” Porte.
+
 180 Vous dites: «Chaque matin, j’entre dans la porte Méthodiste». C’est une église! «Chaque
 matin, j’entre dans la porte Catholique». Très bien! C’est vrai que le Seigneur laisse Son peuple
 entrer librement dans ces portes, et en sortir. Dieu a des enfants dans l’église Catholique, dans
@@ -915,6 +839,7 @@ l’église Méthodiste, Presbytérienne, Pentecôtiste. C’est bien certain! P
 pas le Seigneur dans ces portes-là! Vous comprenez? Mais le Seigneur, Lui, a une certaine
 porte. Gloire à Dieu! Il a une Porte. “… mais au lieu que l’Eternel, ton Dieu, aura choisi pour y
 faire habiter son nom, là tu sacrifieras la pâque, le soir…”.
+
 181 Quand Rebecca trouva-t-elle Isaac? Quand Eliézer l’appela-t-elle pour être l’épouse? — Au
 temps du soir.
 
@@ -929,12 +854,15 @@ LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 18
        Et le Saint-Esprit viendra certainement;
        La Lumière du soir est venue,
        C’est un fait connu, que Dieu et Christ sont Un.
+
 182 C’était le commencement, et maintenant, elle reste dans la lumière de l’Epouse. Vous
 comprenez ce que je veux dire.
+
 183 Il faut maintenant que je termine, parce que je ne voudrai pas que vous manquiez ceci. Il est
 déjà l’heure du souper. J’ai encore tellement de notes! Pourrions-nous peut-être reprendre ce soir?
 Comment dites-vous? Vous préférez que nous continuions encore un petit moment maintenant?
 C’est vrai? Alors, je vais me dépêcher.
+
 184 Nous disions: Dans quoi devaient-ils entrer? — “Tu ne pourras pas sacrifier la pâque dans
 l’une de tes portes que l’Eternel, ton Dieu, te donne; mais au lieu que l’Eternel, ton Dieu, aura
 choisi pour y faire habiter son nom…”. Vous ne pouvez pas entrer dans un lieu qui a sur la porte
@@ -945,27 +873,34 @@ résider Son Nombres 185 A-t-Il réellement fait cela? Où est cette porte? Dans
 Je suis la Porte de la Maison de Dieu. Je suis la Porte de la bergerie, la Porte des brebis”. Non
 pas des chèvres, mais des brebis. — “Je suis la Porte des brebis. Celui qui entre par cette Porte
 est en sécurité”.
+
 186 Nous pourrions nous étendre longtemps sur ce sujet! Mais disons simplement qu’Il est la
 Porte des brebis. Nous devons remarquer quelque chose. L’ombre des choses à venir et les types
 sont bien en vue ici, mais si je traite ce sujet, cela va prendre pas mal de votre temps.
+
 187 Bien! Remarquez que toutes ces choses nous font discerner parfaitement Jésus-Christ.
 Car tout l’ancien Testament ne contient que le type de Jésus-Christ. Les fêtes, l’adoration, tout.
 Sous cette liste de références, j’ai écrit: «Expliquer cela». C’est cela qui prendrait beaucoup de
 temps. Expliquer comment toutes ces fêtes… Même l’offrande de farine était un type de Christ.
 Prenons un seul exemple.
+
 188 En ces temps-là, il y avait une école, appelée l’école des prophètes, où ils formaient et
 instruisaient des prophètes. Mais une fois, il y eut un prophète authentique, venu de Dieu, qui vint
 pour les visiter. Voulant faire au vieux prophète une politesse, ils cueillirent pour lui ce qu’ils
 croyaient être des concombres (et qui en réalité étaient des coloquintes sauvages), avec lesquels
 ils auraient dû faire un grand repas.
+
 189 Quelle quantité de nourriture n’avons-nous pas déjà reçue de tous ces séminaires! De la
 nourriture Méthodiste, Baptiste, Pentecôtiste. Mais, vous voyez, ce ne sont que des fruits
 greffés, et non pas ceux de l’Arbre originel. Ils portent des citrons, des pamplemousses, etc. Ils
 professent bien être des agrumes, mais ce ne sont pas les oranges originales.
+
 190 Remarquez encore ceci. Lorsqu’ils virent que c’étaient des coloquintes, et qu’elles les feraient
 tous mourir, ils s’écrièrent: “La mort est dans le pot!”.
+
 191 Mais Elisée dit: “Apportez-moi une poignée de farine!”. Et il jeta la farine dans le pot, et dit:
 “Maintenant, tout est devenu bon, mangez tout ce que vous voudrez”. Il changea la mort en vie.
+
 192 Et l’offrande de farine qui était faite… C’est Christ qui était l’Offrande de farine, et la farine doit
 être moulue jusqu’à une certaine finesse, de manière que chaque petit grain de farine devienne
 semblable aux autres, ce qui nous montre qu’Il est le même hier, aujourd’hui, et éternellement. Il
@@ -981,11 +916,13 @@ expliquer aujourd’hui. Et tout le reste n’est aussi qu’un type de Lui.
 dénominations derrière nous. Car Il est la Parole pure et inaltérable de Dieu, qui est le pain
 sans levain de Jean 1. C’est vrai, Il est le Pain sans levain. C’est pourquoi, si vous ajoutez ceci
 ou cela, c’est du levain ajouté à ce qui vous avait été donné à l’origine pour nourriture.
+
 194 Encore ceci. Qu’est-ce qui détruit les races, aujourd’hui? L’hybridation! Lorsque vous
 hybridez, vous tuez! — «Oh, mais ils ont tellement meilleure façon!». D’accord! On hybride toutes
 les céréales, et cela leur donne de belles tiges, de gros épis qui sont deux fois plus gros que les
 anciens. Mais tout cela donne la mort! La science elle-même a fini par le reconnaître. Vous
 comprenez? Ne faites pas de mélanges, cela vous donnerait la mort comme résultat.
+
 195 Maintenant, laissez-moi vous montrer quelque chose. L’autre jour, j’arrosais quelques fleurs,
 dans mon jardin. La voisine a quelques fleurs hybrides dans un pot. Ces fleurs-là, il faut les arroser
 au moins trois fois par semaine, sinon elles périssent. Mais dans le jardin, il y a aussi une plante
@@ -996,25 +933,32 @@ continuellement aspergée de produits chimiques pour éloigner les pucerons, ell
 fragile! Mais il n’y a pas un seul puceron sur l’original. Oh, non! Ils grimpent sur elle, mais s’en
 éloignent bien vite! Parce qu’elle est une plante originale. Vous voyez les résultats que donne
 l’hybridation?
+
 196 C’est la même chose avec l’église. Ils essaient de mélanger les dénominations avec la
 Parole, de faire dire à la Parole ce que disent les dénominations. Et, lorsque vous faites cela, il
 faut promettre des récompenses à ceux qui viendront à l’école du dimanche, etc. C’est vrai! Mais,
 lorsqu’il s’agit d’un vrai chrétien, né de nouveau de la Parole de Dieu, il est solide et résistant, et
 on ne peut le détruire. Les pucerons, et les choses de ce monde, ne le troublent pas. Il est un
 aigle, et vole au-delà de ces choses-là. Il s’élance vers les cieux. Vous comprenez? Il est fidèle.
+
 197 Nous devons bien comprendre que les credo, dénominations, et toutes ces choses que l’on
 ajoute d’ordinaire au pain levé, ne peuvent pas être ajoutées au pain sans levain. Et la Bible
 nous montre ici, dans cette cérémonie de l’adoration, que vous ne pouvez pas apporter avec vous
 le moindre morceau de pain levé, parce que Dieu ne l’agréera pas.
+
 198 Vous direz: «Je suis Méthodiste!». C’est là même que vous mourez! — «Je suis
 Pentecôtiste!». — Vous mourez!
+
 199 «Je suis de Christ!». Cela, c’est juste! Vous devez vous tenir sur quelque chose. C’est
 vrai. Vous devez vous tenir sur quelque chose.
+
 200 Une fois, Churchill dit, en levant deux doigts: «Nous aurons la victoire!». L’Angleterre se tint
 là-dessus et crut Churchill.
+
 201 Croyez-le ou non, ce matin-même, vous vous tenez sur quelque chose. Mais il n’y a qu’une
 seule chose sur laquelle vous pouvez vous tenir, et par laquelle vous pouvez vivre, c’est
 Christ, la Parole. C’est vrai!
+
 202 Remarquez que, dans la Bible, il n’y a qu’un type des dénominations: c’est Babylone.
 Babylone fut fondée par Nimrod, un renégat. Il avait avec lui toute une troupe de femmes qu’il
 appelait ses reines, et qui étaient ses prophétesses. On pensa même que Balaam venait de ce
@@ -1024,8 +968,10 @@ avaient un groupe de femmes qui faisaient ceci, un groupe qui faisait cela… un
 sortes de choses. C’était une religion obligatoire. Tout le monde, toutes les villes des alentours
 devaient venir à Babylone pour adorer sous l’autorité de Nemrod au pied de la tour. Ils furent
 forcés de faire cela, et cela créa des discussions. C’est de là qu’est venue la confusion.
+
 203 C’est exactement ce que fait l’église aujourd’hui. «Si vous n’assistez pas à l’école du
 dimanche, si vous ne faites pas ceci et cela, vous êtes perdus!».
+
 204 Là-bas à Tucson… je ne sais pas s’ils m’écoutent ce matin… J’ai toujours exhorté les gens en
 leur disant: «Allez à l’église, quelle qu’elle soit!». Puis j’ai vu des gens revenir en arrière, et s’en
 aller. Je me demandai: «Qu’est-ce qui se passe?».
@@ -1038,22 +984,30 @@ allés là-bas, ils sont venus vers nous, et nous ont dit: ‹Joignez-vous à no
 faites pas, nous ne désirons pas votre présence!›». Vous voyez? C’est une chose forcée, c’est
 quelque chose que l’on vous impose. Cela, c’est Babylone. Mais en Christ, vous entrez par
 élection; non pas par force, mais c’est votre coeur qui vous y entraîne.
+
 206 Dieu a dit: “Je ne mettrai pas Son Nom dans Babylone”. Il ne peut pas mettre Son Nom dans
 Babylone, les églises. Ce sont elles qui ont pris Son Nom, mais Lui ne le leur a jamais donné.
+
 207 Vous me direz: «Alors, frère Branham, maintenant…». Attendez! Patience! Vous m’avez
 demandé de rester un peu plus longtemps… Vous remarquerez que ce sont eux qui ont mis
 Son Nom, et non pas Lui.
+
 208 Lui, Il a dit: “Le lieu où Je vous rencontrerai, et où J’agréerai votre sacrifice, est celui que Je
 choisirai pour y mettre Mon Nom. Vous entrerez par cette porte, et vous entrerez dans ce lieu
 que J’ai choisi pour y mettre Mon Nom. C’est là que vous viendrez”.
+
 209 Ils ont dit: “C’est ici, l’Eglise de Christ!”. Il n’y a qu’une chose de fausse, dans cette
 déclaration: ils ont oublié le préfixe: anti! C’est vrai, parce qu’ils sont en désaccord avec tout
 ce qu’Il enseigne. Ce sont des pharisiens modernes.
+
 210 Mais nous devons pourtant trouver où Il a mis Son Nom, car là seulement se trouve la porte
 choisie. Amen! Gloire à Dieu! Où a-t-Il mis Son Nom? — DANS SON FILS!
+
 211 Vous me direz: «Une minute, frère Branham! Vous parlez du Fils, et non pas du Père!».
+
 212 Toujours, dans tous les cas, le Fils prend le Nom de Son Père. Je suis venu sur cette terre
 avec le nom de Branham parce que le nom de mon père est Branham.
+
 213 Jésus a dit: “Je suis venu au Nom de Mon Père, et vous ne M’avez pas reçu!”. Vous voulez un
 passage des Ecritures à ce sujet? — Jean 5.43. Vous voyez? “Je suis venu au nom de mon Père,
 et vous ne me recevez pas”. Le Père a mis Son propre Nom, qui est “Jésus”, dans le Fils. Et
@@ -1061,6 +1015,7 @@ le Fils est le chemin, la porte, la maison, Il est le lieu que Dieu a choisi pou
 Nom. Dieu n’a jamais mis Son Nom en moi, Il n’a jamais mis Son Nom dans l’église, Il ne l’a
 jamais mis dans le Méthodisme, le Baptisme ou le Catholicisme, mais Il l’a mis en Christ,
 l’Emmanuel Oint.
+
 214 Et ce Nom est dans la Parole, parce qu’Il est la Parole. Qu’est-ce qu’Il est alors? La Parole
 interprétée est la manifestation du Nom de Dieu. “… ce ne sont pas la chair et le sang qui t’ont
 révélé cela, mais c’est mon Père qui est dans les cieux qui t’a révélé qui Je suis. Et c’est sur
@@ -1069,16 +1024,19 @@ pourront point l’anéantir”. Amen! O Eglise vivante de Dieu, tiens-toi sur l
 solide fondement de Jésus-Christ. Tu peux bien chanter le cantique, mais si tu n’es pas établie
 sur Christ, la Parole, ton fondement n’est que sable mouvant. — “Sur ce rocher, Christ, Ma
 Parole!”.
+
 215 Il construisit le message Luthérien, et ils en firent une dénomination. C’était le début de la
 croissance, le marchepied. Ensuite, Il créa les jambes, avec les Méthodistes, et ainsi de suite.
 C’est comme cela qu’Il édifia Son Eglise: sur Sa Parole. Il n’est pas que pieds ou que
 jambes, Il est un corps. Et maintenant, il faut que vienne la partie supérieure, la tête. Vous avez
 remarqué, dans la pyramide… mais je ne prêche pas une religion de la pyramide!
+
 216 La première Bible qui a été écrite, a été écrite dans le Ciel… [Partie non enregistrée —
 N.d.R.] Avez-vous remarqué cela? Elle commence avec la vierge, la première figure du zodiaque.
 La dernière figure est le lion. Il est venu premièrement par la vierge, et viendra ensuite comme
 Lion de la tribu de Juda. Juste avant cela, il y a l’âge du cancer, des poissons, etc. Si nous
 avions le temps, nous pourrions étudier cela. Nous avons plus de temps au Tabernacle.
+
 217 On part de la fondation de la pyramide, et l’on monte jusque dans la chambre du roi. Et, juste
 avant d’atteindre la septième paroi, il y a une petite plate-forme d’introduction, où un messager
 vient pour vous conduire chez le roi (le messager, Jean-Baptiste, qui nous a conduits au Roi);
@@ -1092,6 +1050,7 @@ LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 21
 dernière est Christ. Ajoutez ceci à votre charité, ajoutez la grâce à votre grâce, ajoutez ceci,
 ajoutez cela, jusqu’à ce que vous arriviez à Christ, qui est la Pierre de Faîtes. — “Je suis la
 porte”.
+
 218 Un fils vient toujours au nom de son père. Tout fils digne de ce nom vient au nom de son
 père. Et Jésus a dit: “Je suis venu au Nom de mon Père”. Alors, quel est le nom du Père? Quel est
 le Nom du Fils? Il a dit: “Encore un peu de temps, et le monde ne me verra plus, mais vous, vous
@@ -1099,10 +1058,12 @@ me verrez”. C’est vrai! Il est venu, ce même Jésus, dans la forme du Saint
 pourquoi ils adoraient en disant: “O Jésus!”. Vous comprenez? Père, Fils et Saint-Esprit: c’est le
 Seigneur Jésus-Christ. C’est tout: “Je suis venu au nom de mon Père, et vous ne m’avez point
 reçu”.
+
 219 Rappelez-vous qu’Il a aussi ajouté encore quelque chose, et qu’Il nous avertit, en disant:
 “D’autres viendront (une dénomination, un credo) … ils viendront en leurs noms, et vous les
 recevrez. Mais Moi, qui suis la Parole confirmée et éprouvée devant vous, vous ne Me recevrez
 pas”.
+
 220 Il avait raison en ce temps-là, comme Il a encore raison aujourd’hui. Garde cela à l’esprit,
 peuple de ce pays! “Un autre viendra, une église, et vous la croirez, parce que vous vous
 contentez de n’importe quoi. Mais je ne la confirmerai pas!”. Il n’a jamais, à aucun moment,
@@ -1110,35 +1071,44 @@ dans aucune église, confirmé quoi que ce soit en dehors du message donné pour
 correspondant: pour Luther, la justification; pour Wesley, la sanctification; pour la Pentecôte, la
 restitution des dons. Mais aussitôt qu’ils ont fait une dénomination de cela, ils sont morts. Sondez
 les Ecritures!
+
 221 Mais Il a dit: “Je choisirai un lieu pour y faire habiter Mon Nom”. Ce Nom, c’est Jésus. Et
 Jésus est la Parole. (Jean 1). N’est-ce pas vrai? Le lieu d’adoration est en Christ, la Parole — “Je
 suis venue au nom de mon Père”.
+
 222 Le prophète a dit: “Il sera appelé Emmanuel”. Cela se trouve dans Matthieu 1.23, si vous
 voulez le noter. Jésus, Jéhovah, le Sauveur.
+
 223 L’Ecriture montre qu’Il est la Porte. Il y a encore beaucoup de preuves invisibles — la porte, le
 Nom, le lieu, tout cela nous prouve qu’il n’y a qu’un seul lieu où Dieu puisse rencontrer l’homme
 qui veut L’adorer. L’HOMME NE PEUT RENCONTRER DIEU QUE LORSQU’IL EST EN CHRIST.
+
 224 La question qui se pose est celle-ci: «Comment donc pourrons-nous entrer en Lui?». Ce que
 je vais vous dire va peut-être vous blesser un peu, mais vous savez, c’est comme lorsque l’on doit
 prendre un médicament, pour vous guérir: s’il ne vous rend pas malade, il ne vous fait pas de bien!
 Vous comprenez?
+
 225 Les Luthériens voulurent entrer en se joignant à l’église Luthérienne. Les Méthodistes
 voulurent entrer par leurs cris. Les Pentecôtistes voulurent entrer par le parler en langues. Ce n’est
 pas encore cela. Non! Ce sont des dons. Mais 1 Corinthiens 12 dit: “… par un seul Esprit…”.
 L’Esprit de Dieu qui donne la Vie à la Parole (la Semence) pour confirmer cette Semence
 pour son temps. Vous comprenez?
+
 226 Il y avait la semence Méthodiste… Il a fallu que le Saint-Esprit vienne donner la Vie à cette
 semence pour qu’Elle puisse purifier l’église par la sanctification. Luther n’a pas prêché cela, parce
 qu’il ne le connaissait pas. Les Pentecôtistes, eux, voulurent parler en langues pour manifester la
 restauration des dons. Chacun proclame: «C’est cela! c’est cela!».
+
 227 “Nous avons tous, en effet, été baptisés dans un seul Esprit, pour former un seul corps”. Et ce
 corps est une famille, la famille de Dieu. C’est la maison de Dieu, et la maison de Dieu est le
 Nom de Jésus-Christ. — “Le nom de l’Eternel est une tour forte, le juste s’y réfugie et s’y trouve
 en sûreté”.
+
 228 Comment pourriez-vous y entrer par un titre? Comment pourra-t-on recevoir votre chèque, s’il
 ne porte que: «Payable à l’ordre de Monsieur le Pasteur, le Docteur, le Prédicateur»? Ce n’est pas
 possible! Vous pouvez être un pasteur, un docteur, un prédicateur… mais le Nom du Seigneur
 est Jésus-Christ. Comprenez-vous cela?
+
 229 — “J’ai choisi de mettre Mon Nom sur la porte de la maison où l’on vient M’adorer, car Ma
 famille sera rassemblée là, sous le Sang. Il en sera comme en Egypte, où tout ce qui était au-
 dehors mourut. Et, dans Ma maison, il n’y aura pas de pain levé! Il n’y aura pas de mélange
@@ -1146,18 +1116,18 @@ dehors mourut. Et, dans Ma maison, il n’y aura pas de pain levé! Il n’y aur
         http://www.cmpp.ch
 
 LE SEUL LIEU D’ADORATION AUQUEL DIEU AIT POURVU 22
-dénominationnel dans Ma maison. Mes enfants, nés de Mes gènes!”. Amen! Gloire à Dieu! —
-“Ma Semence est en eux. J’ai mis Ma Parole en eux. Je l’écrirai sur les tables de leur coeur.
+dénominationnel dans Ma maison. Mes enfants, nés de Mes gènes!". Amen! Gloire à Dieu! —
+"Ma Semence est en eux. J’ai mis Ma Parole en eux. Je l’écrirai sur les tables de leur coeur.
 C’est Ma famille, la famille du Corps de Jésus-Christ. La famille. Et c’est par cette Porte que
 vous entrerez. Vous n’entrerez pas par la porte Méthodiste, Baptiste ou Pentecôtiste, mais par la
-Porte sur laquelle J’ai mis Mon Nom”. Ce n’est pas une porte Méthodiste. Le Nom de Dieu n’est
+Porte sur laquelle J’ai mis Mon Nom". Ce n’est pas une porte Méthodiste. Le Nom de Dieu n’est
 pas un Nom Méthodiste. Le Nom de Dieu n’est pas un nom Pentecôtiste. Le Nom de Dieu n’est
 pas un nom Baptiste. Le Nom de Dieu n’est pas un nom Catholique. Restez hors de ces portes-
 là! Vous comprenez? Vous comprenez bien?
-230 — “Mais dans le lieu que Je choisirai pour y faire résider Mon Nom…”. Dans toute la Bible, il
+230 — "Mais dans le lieu que Je choisirai pour y faire résider Mon Nom…". Dans toute la Bible, il
 n’y a qu’un seul lieu, Jésus-Christ, et il n’y en a pas d’autre, où Dieu ait mis Son Nom; il n’y a que
-Jésus-Christ, car Il est le Fils de Dieu, prenant le Nom de Dieu, le Nom humain de Dieu. “Il
-n’y a pas d’autre Nom donné sous les Cieux par lequel vous puissiez être sauvés”. Que vous
+Jésus-Christ, car Il est le Fils de Dieu, prenant le Nom de Dieu, le Nom humain de Dieu. "Il
+n’y a pas d’autre Nom donné sous les Cieux par lequel vous puissiez être sauvés". Que vous
 soyez Méthodiste, Baptiste, Presbytérien, que vous ayez suivi un catéchisme ou un autre, peu
 importe: ce n’est qu’au Nom de Jésus-Christ que tout genou fléchira, et que toute langue
 confessera qu’Il est le Seigneur. Ce n’est qu’ainsi que vous entrerez.
@@ -1172,32 +1142,32 @@ sacrifice (peu importe combien vous êtes sincère) est en Christ.
 234 Rappelez-vous… Vous dites: «Eh bien, je crois que je suis entré, moi aussi». Rappelez-vous
 que la Bible dit… Vous dites bien: «La Bible déclare: Quiconque croit que Jésus-Christ est le Fils
 de Dieu sera sauvé».
-235 Elle dit bien cela, mais il est aussi écrit, il est aussi écrit: “Aucun homme ne peut dire que
-Jésus est le Christ, si ce n’est par le Saint-Esprit!”. Vous comprenez? Vous pourrez bien dire: «Il
+235 Elle dit bien cela, mais il est aussi écrit, il est aussi écrit: "Aucun homme ne peut dire que
+Jésus est le Christ, si ce n’est par le Saint-Esprit!". Vous comprenez? Vous pourrez bien dire: «Il
 est…», mais il ne le sera pas avant que le Saint-Esprit Lui-même, qui donne la Vie à la
 Parole, prouve et confirme que vous êtes un fils de Dieu. C’est l’Ecriture qui le dit.
-236 — “Le lieu que J’ai choisi pour y faire résider Mon Nom. Vous ne m’adorerez dans aucune
+236 — "Le lieu que J’ai choisi pour y faire résider Mon Nom. Vous ne m’adorerez dans aucune
 autre porte, vous adorerez dans la porte où J’ai mis Mon Nom. Alors, Je vous recevrai, et vous
-serez dans Ma famille”.
-237 Oh, la famille de Dieu obéit aux ordres que donne le Père de famille. “Il sera appelé Prince de
+serez dans Ma famille".
+237 Oh, la famille de Dieu obéit aux ordres que donne le Père de famille. "Il sera appelé Prince de
 la paix, Dieu Tout-Puissant, Père Eternel. Son règne durera éternellement, et la domination
-reposera sur Son épaule”. Il est Gouverneur, Roi, Emmanuel, le Premier et le Dernier, Prince de la
+reposera sur Son épaule". Il est Gouverneur, Roi, Emmanuel, le Premier et le Dernier, Prince de la
 Paix, Dieu Tout-Puissant, Père Eternel, et chacun de Ses enfants obéit à chacune de Ses
 paroles, parce qu’il est une partie de Lui.
 238 Dans notre maison, nous vivons comme vivent les Branham. Si vous êtes un Jones, vous
 vivrez dans votre maison comme les Jones.
 239 Dans la maison de Dieu, nous vivons de la Parole de Dieu, de toute Parole qui sort de la
 bouche de Dieu, et nous n’écouterons aucune parole qui viendra d’un trompeur. Vous
-comprenez? “Vous mangerez du pain sans levain, pendant tous les âges de l’église, comme je
-vous l’ai enseigné”. Mais n’essayez pas d’introduire dans cela les choses anciennes, parce
-qu’elles sont devenues de la paille. “Vous prendrez les os, et ce qui reste du sacrifice, et vous le
-brûlerez au feu!”. L’âge précédent est passé, mais nous continuons, et allons de l’avant;
+comprenez? "Vous mangerez du pain sans levain, pendant tous les âges de l’église, comme je
+vous l’ai enseigné". Mais n’essayez pas d’introduire dans cela les choses anciennes, parce
+qu’elles sont devenues de la paille. "Vous prendrez les os, et ce qui reste du sacrifice, et vous le
+brûlerez au feu!". L’âge précédent est passé, mais nous continuons, et allons de l’avant;
 nous sommes dans un autre âge, maintenant. Amen!
-240 “Le lieu que J’ai choisi pour y faire résider Mon Nom”. Oh, puissions-nous bien comprendre
+240 "Le lieu que J’ai choisi pour y faire résider Mon Nom". Oh, puissions-nous bien comprendre
 1 Corinthiens 12!
 241 Lisons Ephésiens 4.30.
-       “N’attristez pas le Saint-Esprit, par lequel vous avez été scellés pour le jour de la
-    rédemption”. (Et non pas celui du prochain réveil!)
+       "N’attristez pas le Saint-Esprit, par lequel vous avez été scellés pour le jour de la
+    rédemption". (Et non pas celui du prochain réveil!)
 
         http://www.cmpp.ch
 
@@ -1215,19 +1185,19 @@ penser à ces choses, cela me fait de la peine.
 245 Mais malgré tout, que Dieu vous bénisse, frère Ben!
 246 Il est couché ici, le corps plein de shrapnels qui lui blessent les nerfs et tout le reste. Vous
 devriez connaître tout ce qui concerne Ben! Que Dieu bénisse cet homme!
-       “… par lequel vous avez été scellés pour le jour de la rédemption”.
+       "… par lequel vous avez été scellés pour le jour de la rédemption".
 247 Remarquez bien… Cela va peut-être vous déranger un peu, mais écoutez-moi encore une
 minute.
 248 Lorsqu’Israël regarda cette porte sur laquelle le sang avait été appliqué (qui était le Nom, le
 Sang, la Vie), et entra par cette porte, sous le sang, ils n’en sortirent plus, si ce n’est pour sortir
 de l’Egypte.
-       “… N’attristez pas le Saint-Esprit”, par lequel vous êtes entrés, et par lequel vous
+       "… N’attristez pas le Saint-Esprit", par lequel vous êtes entrés, et par lequel vous
      ne sortirez plus jusqu’au jour de la rédemption. Vous comprenez?
 249 La Bible a toujours raison! Il a placé ces Paroles ici afin que vous les mettiez, vous aussi, à
 leur vraie place, et qu’ainsi se forme devant vos yeux le plan complet de la rédemption.
 Comprenez-vous cela?
-       “… N’attristez pas le Saint-Esprit, par lequel vous avez été scellés pour le jour de la
-     rédemption” (C’est-à-dire jusqu’au jour où vous serez rachetés).
+       "… N’attristez pas le Saint-Esprit, par lequel vous avez été scellés pour le jour de la
+     rédemption" (C’est-à-dire jusqu’au jour où vous serez rachetés).
 250 Vous êtes scellé là-dedans, vous êtes sous le Sang. Vous ne sortez plus. Et alors,
 qu’êtes-vous? Vous êtes un fils de Dieu, dans la famille de Dieu, scellé dans cette famille par
 le Saint-Esprit. Même s’il le fallait, le diable ne pourrait plus vous en faire sortir. Parce que vous
@@ -1248,9 +1218,9 @@ exactement! Joseph était en Jésus.
 253 Et lorsque Lui-même vint, Il réalisa dans la plénitude ces rois, ces prophètes (Alléluia!) … la
 divinité résidant corporellement en Lui. Il est venu pour racheter une Epouse, un Chef-
 d’Oeuvre. Un Chef-d’Oeuvre qui dit à Satan que…
-254 Lorsque Satan dit: “Les jours des miracles sont passés! Il n’y a rien de vrai, dans tout ce que
-tu dis!”.
-255 “Arrière de moi, Satan!”. Vous voyez? Il y a un Chef-d’Oeuvre qui Se tient debout et qui monte
+254 Lorsque Satan dit: "Les jours des miracles sont passés! Il n’y a rien de vrai, dans tout ce que
+tu dis!".
+255 "Arrière de moi, Satan!". Vous voyez? Il y a un Chef-d’Oeuvre qui Se tient debout et qui monte
 la garde.
 
     http://www.cmpp.ch
@@ -1261,20 +1231,20 @@ auprès d’Elle. Nous savons que la femme a été tirée de l’homme, qu’ell
 gènes de l’homme sont dans la femme, ce qui constitue la femme. C’est de cette manière
 que la Parole de Dieu est dans l’Eglise, c’est ce qui fait de l’Eglise une Epouse. Non pas une
 dénomination! Chacune d’elles vient du diable. Je ne dis pas cela des gens qui y sont: ce sont de
-pauvres gens séduits, comme Jésus l’a montré: “Des aveugles conducteurs d’aveugles”. Il ne
+pauvres gens séduits, comme Jésus l’a montré: "Des aveugles conducteurs d’aveugles". Il ne
 pouvait pas les appeler.
-257 Eux, Lui dirent: “Toi, Tu es né dans le péché! Qui T’a envoyé vers nous? Quelle école, quel
-séminaire Te reconnaît? Nous, nous avons Moïse! Nous sommes…”.
-258 — “Si vous connaissiez Moïse, vous Me connaîtriez aussi!”.
-259 Parce que Moïse a écrit au sujet de Jésus dans ses cinq livres: “Le Seigneur, votre Dieu,
+257 Eux, Lui dirent: "Toi, Tu es né dans le péché! Qui T’a envoyé vers nous? Quelle école, quel
+séminaire Te reconnaît? Nous, nous avons Moïse! Nous sommes…".
+258 — "Si vous connaissiez Moïse, vous Me connaîtriez aussi!".
+259 Parce que Moïse a écrit au sujet de Jésus dans ses cinq livres: "Le Seigneur, votre Dieu,
 vous enverra un homme comme moi pour vous donner la Parole, ce sera un Prophète
-comme moi, et celui qui n’écoutera pas ce Prophète sera retranché du peuple”. Tout est là!
+comme moi, et celui qui n’écoutera pas ce Prophète sera retranché du peuple". Tout est là!
 Et qui est-Il? La Parole. Et qu’en est-il de la Parole? N’y mêlez aucun levain! N’y ajoutez aucun
 credo, aucune dénomination, car alors, elle est souillée, et votre sacrifice ne vaut plus rien.
 260 Dépêchons-nous maintenant, afin que vous puissiez aller manger.
 261 Remarquez bien ceci: Maintenant que vous êtes un fils de Dieu dans la maison de Dieu, vous
-êtes une partie de l’économie de Dieu. Romains 8.1: “Il n’y a aucune condamnation pour ceux
-qui sont en Jésus-Christ”. Car ils sont morts au monde, et vivent en Jésus-Christ, et, dans leur vie
+êtes une partie de l’économie de Dieu. Romains 8.1: "Il n’y a aucune condamnation pour ceux
+qui sont en Jésus-Christ". Car ils sont morts au monde, et vivent en Jésus-Christ, et, dans leur vie
 actuelle, accomplissent la Parole pour laquelle Dieu les a suscités, les a prédestinés, en
 plaçant leur nom dans le Livre de l’Epouse. Et, lorsque l’Eau vient arroser cette semence qui
 est dans leur coeur, elle sort et croît pour devenir l’Epouse de Christ. Oh, combien cela est
@@ -1282,9 +1252,9 @@ parfait! Dans tous les âges, il en a été ainsi.
 262 Les Luthériens, avec la justification, ont crû de cette manière (ce sont les pieds). De même
 Wesley, avec la sanctification. Les Pentecôtistes (les bras), firent toutes sortes d’oeuvres, et
 d’actions diverses; ils devaient être Arminiens, c’est-à-dire légalistes. Mais maintenant, nous
-arrivons à la tête, à la pierre de faîte. Et la Pierre de Faîte nous crie: “Grâce, grâce pour elle!”
+arrivons à la tête, à la pierre de faîte. Et la Pierre de Faîte nous crie: "Grâce, grâce pour elle!"
 (Zacharie 4.7).
-263 Que crie la Pierre de Faîte?: “Grâce, grâce pour elle!”. Ils sont passés de la mort et des
+263 Que crie la Pierre de Faîte?: "Grâce, grâce pour elle!". Ils sont passés de la mort et des
 credo à la Parole vivante du Dieu vivant. Le seul plan que Dieu ait prévu pour Son âge est celui-
 ci: qu’Il ait des fils dans l’âge de la Parole, et que ces fils soient venus à la Vie par l’Esprit, comme
 quelque chose qui est touché par une étincelle qui y met le feu et la vie. Et maintenant, ils sont
@@ -1328,7 +1298,7 @@ Dieu entra dans son corps, pour rendre manifeste la Parole de Dieu. On jeta un c
 d’Elisée étaient déposés, et lorsque le cadavre toucha ces os, il revint à la vie. Nous sommes Ses
 os et Sa chair aussi longtemps que nous sommes l’Epouse de Christ. Croyez-vous cela? Bien! Il
 est mort pour nous, et nous sommes morts à nous-mêmes et nous sommes ensevelis dans Son
-Nom, en sorte que: “Nous ne sommes plus du monde, mais en Lui”; mais que, comme les
+Nom, en sorte que: "Nous ne sommes plus du monde, mais en Lui"; mais que, comme les
 membres de la famille que nous avons au Ciel, nous portions le Nom de Jésus-Christ. Nous
 pouvons voir cela dans Ephésiens 1.21. La famille qui est dans le Ciel… Quel est le nom de la
 famille qui est dans le Ciel? — Jésus. Quel est le nom de la famille qui est sur cette montagne? Eh
@@ -1343,7 +1313,7 @@ le reste des Siens pour en faire une Epouse qui Le reflétât.
 fondation du monde, vous étiez dans la famille de Dieu. Vous avez souffert avec Lui, vous êtes
 mort avec Lui, vous êtes monté sur la croix avec Lui, et vous êtes ressuscité avec Lui. Et
 maintenant, vous êtes encore avec Lui, assis dans les lieux célestes, et reflétant pour le
-monde le message de l’âge, la Lumière du monde. “Vous êtes la lumière du monde”. Mais si
+monde le message de l’âge, la Lumière du monde. "Vous êtes la lumière du monde". Mais si
 elle est cachée sous un boisseau dénominationnel, comment pourra-t-on La voir? Par vos
 traditions, vous rendez la Lumière sans effet! En essayant… Avec vos dénominations, vous
 essayez de garder la Lumière loin de votre église. Vous ne voulez pas entrer, et vous ne voulez
@@ -1352,7 +1322,7 @@ pas laisser entrer les autres. Amen!
 cinq minutes.
 273 Vous voulez savoir qui est la Porte? Où Dieu a-t-Il mis Son Nom? — En Jésus! Comment
 entrerez-vous en Son Nom? Comment entrerez-vous? En étant baptisé en Lui. Comment cela?
-Dans l’eau? — Dans l’Esprit! “Un seul Seigneur, une seule foi, un seul baptême”. C’est le
+Dans l’eau? — Dans l’Esprit! "Un seul Seigneur, une seule foi, un seul baptême". C’est le
 baptême du Saint-Esprit.
 274 Le baptême d’eau vous a simplement mis en communion avec le peuple, manifestant que
 vous avez accepté Christ. C’est la vérité. Mais ce qui compte, c’est le baptême du Saint-Esprit.
@@ -1374,9 +1344,9 @@ bien-portant. Au Nom de Jésus, Amen!)
        Depuis que, par la foi, j’ai vu ce flot
        Ruisselant de Tes meurtrissures (de ce Chef-d’Oeuvre)
        L’amour rédempteur a été ma raison de vivre.
-277 Comment pouvez-vous… Dieu est amour. “Celui qui aime est de Dieu”. Un amour divin, un
-amour saint, et non pas un amour impur. L’amour pur, saint, l’amour de Dieu, la Parole. “J’ai caché
-ta Parole dans mon coeur, afin que je ne pèche pas contre toi” (Psaumes 119.11). O mon Dieu, cela,
+277 Comment pouvez-vous… Dieu est amour. "Celui qui aime est de Dieu". Un amour divin, un
+amour saint, et non pas un amour impur. L’amour pur, saint, l’amour de Dieu, la Parole. "J’ai caché
+ta Parole dans mon coeur, afin que je ne pèche pas contre toi" (Psaumes 119.11). O mon Dieu, cela,
 c’est le cri de David! Dieu n’est-Il pas merveilleux? Ne L’aimez-vous pas?
 278 Mais il y a une voie, une voie pure et sainte, le seul lieu où Dieu vous rencontrera. Ce
 n’est pas parce que vous direz: «O mon Dieu, je suis un bon Méthodiste, je suis un bon Baptiste,
@@ -1384,8 +1354,8 @@ je suis un bon Pentecôtiste!». Non! Mais c’est parce que vous êtes en Jésu
 partie de la Parole qui est manifestée pour notre temps, le message de ce jour. Non pas le
 message de Luther, de Wesley, ou des Pentecôtistes; mais vous êtes le reflet de Jésus qui est
 venu dans ce message. Vous ne pouvez pas retourner à ces choses anciennes, ce serait ajouter
-du levain à votre nourriture sainte, parce que: “L’homme ne vivra pas de pain seulement, mais de
-toute Parole qui sort de la bouche de Dieu”, “de la nourriture donnée au temps convenable”.
+du levain à votre nourriture sainte, parce que: "L’homme ne vivra pas de pain seulement, mais de
+toute Parole qui sort de la bouche de Dieu", "de la nourriture donnée au temps convenable".
 279 Oh, viens, Seigneur Jésus, Toi qui es la glorieuse Pierre de Faîte! Porte Tes regards sur la
 poussière de ces Luthériens qui sont morts autrefois dans le martyre. Et ces Méthodistes…
 280 Ces Pentecôtistes, et tous les autres qui viennent maintenant, que de choses étranges
@@ -1393,10 +1363,10 @@ arrivent…
 281 Vous autres, les Assemblées de Dieu, vous vous êtes organisées, retournant aux choses
 mêmes d’où Dieu vous avait fait sortir; vous y êtes retournées comme le porc qui retourne dans la
 boue où il aime se vautrer.
-282 Et vous, les “Oneness”, les Assemblées de Pentecôte de Jésus-Christ! A cause des gens de
+282 Et vous, les "Oneness", les Assemblées de Pentecôte de Jésus-Christ! A cause des gens de
 couleur, de la ségrégation, vous vous êtes séparés. Vous avez fait cela, puis vous vous êtes unis
-en quelque chose d’autre, que vous avez appelé: “… Unifiées”. Vous vous êtes organisés, et vous
-avez fait des difficultés aux Assemblées de Dieu: “Comme un chien retourne à ce qu’il a vomi…”.
+en quelque chose d’autre, que vous avez appelé: "… Unifiées". Vous vous êtes organisés, et vous
+avez fait des difficultés aux Assemblées de Dieu: "Comme un chien retourne à ce qu’il a vomi…".
 Si ce que le chien a vomi l’avait rendu malade, cela ne le rendra-t-il pas encore malade une
 seconde fois? Changez de régime! Abandonnez le régime de la dénomination, et
 mettez-vous au régime de la Parole, et vivez avec Christ. Honte à vous!
@@ -1419,7 +1389,7 @@ mettez-vous au régime de la Parole, et vivez avec Christ. Honte à vous!
 283 Vous me direz: «Pensez-vous réellement ce que vous dites, frère Branham?».
 284 Parfaitement! Lorsque les Luthériens, les Wesleyens, les Pentecôtistes qui ont vécu en leur
 temps (les vrais, non pas ceux des dénominations) … Les Pentecôtistes, ceux qui ont ajouté du
-levain (leur dénomination), sont morts. Mais la vraie Parole continue! Comme Jésus l’a dit: “En
+levain (leur dénomination), sont morts. Mais la vraie Parole continue! Comme Jésus l’a dit: "En
 
     http://www.cmpp.ch
 
@@ -1448,7 +1418,7 @@ pourquoi nous Te remercions pour Ta Parole. Et nous Te prions, ô notre Dieu, qu
 prospérer par cette Parole, afin que, non seulement nous puissions Te remercier… Nous Te
 remercions pour cela, mais puissions-nous utiliser cette force pour persuader (dans l’amour)
 les gens de croire en notre Dieu; les égarés, les pécheurs, les femmes, les hommes, les
-garçons et les filles de notre temps.
+ garçons et les filles de notre temps.
 289 O Seigneur, nous voyons l’état mental, la nervosité, dans lesquels vivent les gens de cette
 génération! Cela leur fait perdre la raison. Les choses se passent exactement comme cela a été
 promis dans l’Ecriture: il y aurait des choses hideuses qui viendraient sur la terre: il y a comme des
@@ -1489,9 +1459,6 @@ seulement à mon coeur. Je prie pour qu’aucun d’eux ne soit perdu, ô Père,
 réclame chacun d’eux pour Toi. Dans le Nom de Jésus-Christ, Amen!
        Oh, je L’aime…
     Et si vous L’aimez, Lui, alors aimez-vous les uns les autres. Serrez-vous les mains.
-
-
-
 
 
 

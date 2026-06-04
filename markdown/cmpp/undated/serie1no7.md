@@ -1,322 +1,173 @@
-    SERIE 1 N° 7
+---
+source: "cmpp"
+sermon_id: "serie1no7"
+title: "Evénements Modernes Rendus Clairs Par La Prophétie"
+subtitle: "6 décembre 1965, soir"
+date: "1965-12-06"
+year: 1965
+location: "San Bernardino, Californie, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la nécessité de comprendre les événements modernes à la lumière de la prophétie biblique. Il compare l'état actuel de l'Église à la parabole du grain de blé, soulignant que chaque âge de l'Église a son message spécifique et que l'âge de l'Épouse est arrivé. Il insiste sur la révélation divine comme seule clé pour comprendre les Écritures, et met en garde contre les organisations religieuses qui s'éloignent de la Parole."
+tags:
+  - "prophétie"
+  - "événements modernes"
+  - "âge de l'Église"
+  - "révélation"
+  - "grain de blé"
+persons:
+  - "William Marrion Branham"
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Noé"
+  - "David"
+  - "Martin Luther"
+  - "John Wesley"
+  - "Alexandre Campbell"
+  - "Joseph Smith"
+places:
+  - "San Bernardino"
+  - "Californie"
+  - "Jérusalem"
+  - "Emmaüs"
+  - "Angleterre"
+  - "Louisiane"
+  - "Shreveport"
+themes:
+  - "prophétie biblique"
+  - "révélation divine"
+  - "âges de l'Église"
+  - "organisation religieuse"
+  - "grain de blé"
+  - "enlèvement"
+  - "retour de Christ"
+pdf_url: "http://cmpp.ch/serie1no7.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Rois 21"
+  - "1 Rois 22"
+  - "1 Samuel 8"
+  - "2 Corinthiens 5"
+  - "2 Timothée 3"
+  - "Amos 3"
+  - "Apocalypse 10"
+  - "Apocalypse 22"
+  - "Apocalypse 3"
+  - "Colossiens 2"
+  - "Deutéronome 12"
+  - "Exode 12"
+  - "Exode 13"
+  - "Genèse 22"
+  - "Hébreux 1"
+  - "Hébreux 13"
+  - "Jean 1"
+  - "Jean 10"
+  - "Jean 12"
+  - "Jean 5"
+  - "Jean 6"
+  - "Jean 8"
+  - "Luc 17"
+  - "Luc 24"
+  - "Luc 3"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Marc 9"
+  - "Matthieu 11"
+  - "Matthieu 16"
+  - "Matthieu 17"
+  - "Matthieu 24"
+  - "Matthieu 3"
+  - "Matthieu 4"
+  - "Psaumes 16"
+  - "Psaumes 22"
+  - "Psaumes 35"
+  - "Psaumes 41"
+  - "Zacharie 11"
+  - "Zacharie 13"
+  - "Zacharie 14"
+  - "Ésaïe 40"
+  - "Ésaïe 50"
+  - "Ésaïe 53"
+  - "Ésaïe 7"
+  - "Ésaïe 9"
+---
+SERIE 1 N° 7
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-         EVENEMENTS MODERNES
-            RENDUS CLAIRS
-           PAR LA PROPHETIE
-(Modern Events Made Clear By Prophecy)
-
-
-
-
-
-       6 décembre 1965, soir
-San Bernardino — Californie, U.S.A.
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE    2
-
+WILLIAM MARRION BRANHAM
 
 EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE
-      (Modern Events Made Clear By Prophecy)
+(Modern Events Made Clear By Prophecy)
 
+6 décembre 1965, soir
+San Bernardino — Californie, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-              6 décembre 1965, soir
-       San Bernardino — Californie, U.S.A.
+EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE
 
+(Modern Events Made Clear By Prophecy)
 
+6 décembre 1965, soir
+San Bernardino — Californie, U.S.A.
 
+Je suis heureux de parler à cette belle assemblée. J’ai eu beaucoup de plaisir à entendre ce merveilleux petit choeur qui a chanté pour nous. Je pensais justement à la différence qui existe entre ces garçons qui sont de si merveilleux petits compagnons aux cheveux propres et bien coupés, et cette bande d’hurluberlus qui, la nuit dernière, à la piscine du motel où je suis descendu, essayèrent de noyer un autre garçon. On dut appeler quelqu’un à l’aide pour les faire sortir de là. Quelle différence! Un frère parla de ces hommes qui, en Angleterre, portaient de longs cheveux comme en devraient porter les femmes. C’est vrai. Ces jeunes gens ont une chevelure disposée en rouleaux ou en boucles, qui pendent tout autour de leur visage. Je ne sais pas — quelquefois, je me sens découragé! C’est vraiment une époque de perversion. Les hommes essaient de porter des vêtements féminins, et les femmes portent des vêtements d’hommes. Les hommes portent leurs cheveux comme devraient en porter les femmes, et celles-ci ont les cheveux courts, à la manière usuelle des hommes. De toute façon, qu’en est-il de tous ces gens-là? Ce qui fait la trame même de la décence et de l’honneur aurait-il été abandonné par cette nation, et par les gens du monde entier? Quels temps horribles! Mais c’est aussi l’époque la plus glorieuse qui soit au monde pour prêcher l’Evangile. S’il m’avait été possible de connaître le temps avant qu’il ne se manifestât, et si le Père, se tournant vers moi, m’eût dit: «Parmi tous ces âges, lequel aurais-tu choisi pour prêcher?», c’est ce dernier — juste avant Son retour — que j’aurais choisi. C’est vrai.
 
+En jetant un coup d’oeil sur cet auditoire, j’aperçois un de mes bons amis, un prédicateur de Tucson. Hier, il fit une chute de cheval. Quelqu’un vint à mon hôtel, à une heure du matin, et me dit: «Ce frère est à l’Hôpital des Vétérans. Ses yeux sont vitreux, son dos est brisé, ses reins sont à nu, et son coeur près de s’arrêter de battre!». A cet instant même, je me suis agenouillé sur le plancher. On l’amena au téléphone, et je priai pour lui. Il est assis parmi nous ce soir. Et cela se passait la nuit dernière. Dieu répond à nos prières, que ce soit le matin, à midi, à minuit, ou n’importe quand.
 
-   Je suis heureux de parler à cette belle assemblée. J’ai eu beaucoup de plaisir à entendre ce
-merveilleux petit choeur qui a chanté pour nous. Je pensais justement à la différence qui existe
-entre ces garçons qui sont de si merveilleux petits compagnons aux cheveux propres et bien
-coupés, et cette bande d’hurluberlus qui, la nuit dernière, à la piscine du motel où je suis
-descendu, essayèrent de noyer un autre garçon. On dut appeler quelqu’un à l’aide pour les faire
-sortir de là. Quelle différence! Un frère parla de ces hommes qui, en Angleterre, portaient de longs
-cheveux comme en devraient porter les femmes. C’est vrai. Ces jeunes gens ont une chevelure
-disposée en rouleaux ou en boucles, qui pendent tout autour de leur visage. Je ne sais pas —
-quelquefois, je me sens découragé! C’est vraiment une époque de perversion. Les hommes
-essaient de porter des vêtements féminins, et les femmes portent des vêtements d’hommes. Les
-hommes portent leurs cheveux comme devraient en porter les femmes, et celles-ci ont les cheveux
-courts, à la manière usuelle des hommes. De toute façon, qu’en est-il de tous ces gens-là? Ce qui
-fait la trame même de la décence et de l’honneur aurait-il été abandonné par cette nation, et par
-les gens du monde entier? Quels temps horribles! Mais c’est aussi l’époque la plus glorieuse qui
-soit au monde pour prêcher l’Evangile. S’il m’avait été possible de connaître le temps avant qu’il
-ne se manifestât, et si le Père, se tournant vers moi, m’eût dit: «Parmi tous ces âges, lequel
-aurais-tu choisi pour prêcher?», c’est ce dernier — juste avant Son retour — que j’aurais choisi.
-C’est vrai.
-   En jetant un coup d’oeil sur cet auditoire, j’aperçois un de mes bons amis, un prédicateur de
-Tucson. Hier, il fit une chute de cheval. Quelqu’un vint à mon hôtel, à une heure du matin, et me
-dit: «Ce frère est à l’Hôpital des Vétérans. Ses yeux sont vitreux, son dos est brisé, ses reins sont
-à nu, et son coeur près de s’arrêter de battre!». A cet instant même, je me suis agenouillé sur le
-plancher. On l’amena au téléphone, et je priai pour lui. Il est assis parmi nous ce soir. Et cela se
-passait la nuit dernière. Dieu répond à nos prières, que ce soit le matin, à midi, à minuit, ou
-n’importe quand.
-   J’apprécie de tout coeur votre aimable invitation, ici, dans cette chapelle. La nuit dernière, j’ai
-eu le privilège d’être avec les Assemblées de Dieu. Nous y avons connu des moments
-merveilleux, et demain soir, nous irons dans une autre assemblée. Ils organisent les réunions, et
-moi, je continue à prier, à lire et à prêcher. C’est là mon ministère.
-   En ces jours-ci, nous voyons des choses étranges. Je me souviens de la dernière fois où j’étais
-ici, à San Bernardino. Je me trouvais dans une réunion sous la tente. J’en ai parlé hier soir, en
-pensant à cet humble couple, qui apportèrent leur bébé mort. Ils avaient conduit toute la journée,
-et toute la nuit. La jeune maman était assise toute triste dans la voiture, tenant son petit bébé dans
-ses bras. Il se pourrait bien qu’elle soit assise parmi nous, en ce moment-même. Le jeune papa
-me demanda si je pouvais aller jusqu’à sa voiture. Je pris le petit bébé dans mes bras. Il était mort
-— raide et froid. J’ai commencé à prier. Tandis que je priais, ce petit corps commença à se
-réchauffer. Je continuai à prier. Bientôt, il se mit à bouger et à remuer ses jambes; il se mit alors à
-crier, et je le remis à sa maman. Elle est aussitôt repartie à la maison avec l’enfant. Je ne sais
-même pas s’ils étaient des chrétiens.
-   Ce fut merveilleux; mais ce que je pense au sujet de la réunion de ce soir, c’est que notre petite
-église, nos amis Pentecôtistes, sont aussi en train de mourir. Nous devons nous secouer, et la
+J’apprécie de tout coeur votre aimable invitation, ici, dans cette chapelle. La nuit dernière, j’ai eu le privilège d’être avec les Assemblées de Dieu. Nous y avons connu des moments merveilleux, et demain soir, nous irons dans une autre assemblée. Ils organisent les réunions, et moi, je continue à prier, à lire et à prêcher. C’est là mon ministère.
 
-        http://www.cmpp.ch
+En ces jours-ci, nous voyons des choses étranges. Je me souviens de la dernière fois où j’étais ici, à San Bernardino. Je me trouvais dans une réunion sous la tente. J’en ai parlé hier soir, en pensant à cet humble couple, qui apportèrent leur bébé mort. Ils avaient conduit toute la journée, et toute la nuit. La jeune maman était assise toute triste dans la voiture, tenant son petit bébé dans ses bras. Il se pourrait bien qu’elle soit assise parmi nous, en ce moment-même. Le jeune papa me demanda si je pouvais aller jusqu’à sa voiture. Je pris le petit bébé dans mes bras. Il était mort — raide et froid. J’ai commencé à prier. Tandis que je priais, ce petit corps commença à se réchauffer. Je continuai à prier. Bientôt, il se mit à bouger et à remuer ses jambes; il se mit alors à crier, et je le remis à sa maman. Elle est aussitôt repartie à la maison avec l’enfant. Je ne sais même pas s’ils étaient des chrétiens.
 
-EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE 3
-seule chose que nous puissions faire pour sortir de cette agonie, c’est de prier et de nous
-en tenir à la Parole de Dieu. Il n’y a qu’une issue. Il n’y a qu’un chemin de sortie, et Il est ce
-chemin — “Jésus-Christ, le même hier, aujourd’hui et éternellement”. Voulez-vous que notre église
-devienne comme ce qu’ils ont en Angleterre? Voilà pourquoi j’ai été si brusque envers vous, en
-vous reprenant. Je n’aime pas vous bousculer de la sorte, mais je ne voudrais pas voir cette église
-en arriver là. Vous non plus. Vous n’avez qu’à abattre toutes ces fausses doctrines et, après
-les avoir clouées, river le clou. C’est ainsi qu’il faut agir.
-   J’ai ici quelques passages de l’Ecriture et un texte sur lesquels je voudrais parler un moment.
-Je ne sais pas pour combien de temps j’en aurai. Peut-être pour pas plus d’une demi-heure. Je
-laisse toujours au Saint-Esprit le soin de tout conduire comme Il le veut. Inclinons nos têtes un
-moment, et parlons à l’Auteur de ce Livre que nous allons ouvrir:
-   Dieu Tout-Puissant, Toi qui es l’Auteur de ce Livre, nous Te prions au travers de Jésus-Christ.
-Nous Te remercions pour ce que nous avons déjà entendu ce soir. Que nous puissions clore cette
-réunion en disant «Amen!» et retourner chez nous en pensant: «Il était bon d’être là-bas», car
-nous savons que Tu étais avec nous. Père, alors que nous ouvrons cette Parole, parle-nous
-maintenant directement par elle, afin que nous puissions connaître en quelle heure nous vivons!
-Si nous connaissons cette heure-là, alors nous pouvons nous préparer pour cette heure. Mais si
-nous marchons comme des aveugles, ignorant le pourquoi et le comment, il nous est alors
-impossible de nous préparer. Aussi, Père, nous Te prions de nous laisser voir l’Arche, avec Sa
-porte ouverte, et de nous faire entendre le message qui nous appelle à y entrer. Exauce-nous
-dans le Nom de Jésus-Christ. Amen.
-   Luc 24.13-27: “Et voici, ce même jour, deux disciples allaient à un village nommé Emmaüs,
-éloigné de Jérusalem de soixante stades; et ils s’entretenaient de tout ce qui s’était passé.
-Pendant qu’ils parlaient et discutaient, Jésus s’approcha, et fit route avec eux. Mais leurs yeux
-étaient empêchés de le reconnaître. Il leur dit: De quoi vous entretenez-vous en marchant, pour
-que vous soyez tout tristes? L’un d’eux, nommé Cléopas, lui répondit: Es-tu le seul qui, séjournant
-à Jérusalem, ne sache pas ce qui y est arrivé ces jours ci? Quoi? leur dit-il. Et ils lui répondirent:
-Ce qui est arrivé au sujet de Jésus de Nazareth, qui était un prophète puissant en oeuvres et en
-paroles devant Dieu et devant tout le peuple, et comment les principaux sacrificateurs et nos
-magistrats l’ont livré pour le faire condamner à mort, et l’ont crucifié. Nous espérions que ce serait
-lui qui délivrerait Israël; mais avec tout cela, voici le troisième jour que ces choses se sont
-passées. Il est vrai que quelques femmes d’entre nous nous ont fort étonnés: s’étant rendues de
-grand matin au sépulcre, et n’ayant pas trouvé son corps, elles sont venues dire que des anges
-leur sont apparus et ont annoncé qu’il est vivant. Quelques-uns de ceux qui étaient avec nous sont
-allés au sépulcre, et ils ont trouvé les choses comme les femmes l’avaient dit; mais lui, ils ne l’ont
-point vu. Alors Jésus leur dit: O hommes sans intelligence, et dont le coeur est lent à croire tout ce
-qu’ont dit les prophètes! Ne fallait-il pas que le Christ souffrît ces choses, et qu’il entrât dans sa
-gloire? Et, commençant par Moïse et par tous les prophètes, il leur expliqua dans toutes les
-Ecritures ce qui le concernait”.
-   Que le Seigneur ajoute Ses bénédictions à la lecture de Sa Parole. J’aimerais appeler le thème
-de cette prédication: LES EVENEMENTS MODERNES SONT RENDUS CLAIRS PAR LA
-PROPHETIE. Cela a toujours été la manière du Dieu immuable de faire connaître à Son peuple
-certains événements, avant qu’ils n’arrivent. Si, aux jours du Seigneur Jésus, les gens avaient
-cherché Dieu, ils auraient su ce qui allait se passer. Alors, ils n’auraient pas condamné Jésus à
-mort. De toute façon, les Ecritures doivent s’accomplir, et les Juifs devaient être aveuglés pour
-les accomplir. Nous sommes tous au courant de cela. Etes-vous conscients que cela va se
-répéter à nouveau dans ce septième âge de Laodicée? Dans Apocalypse 3.17, Jésus dit qu’ils
-sont nus, misérables, aveugles, et qu’ils ne le savent même pas! Comme Il a aveuglé ceux qui
-vivaient au temps de Jésus, dans le but de donner Son message au peuple élu, Jésus a promis
-d’agir de même aujourd’hui.
-   Je dis ceci, avec tout le respect que je dois à mes frères et à mes soeurs en Christ. Mais un de
-ces jours, quelqu’un dira: «N’est-il pas écrit que ces autres choses mentionnées dans la Parole
-arriveraient en premier lieu?». Et cela se sera accompli, conformément à ce qui est écrit dans la
-Bible, mais ils ne se seront aperçus de rien. Souvenez-vous que lorsqu’on demanda à Jésus
-pourquoi les scribes disaient qu’Elie devait venir premièrement, Il dit: “Elie viendra premièrement,
+Ce fut merveilleux; mais ce que je pense au sujet de la réunion de ce soir, c’est que notre petite église, nos amis Pentecôtistes, sont aussi en train de mourir. Nous devons nous secouer, et la seule chose que nous puissions faire pour sortir de cette agonie, c’est de prier et de nous en tenir à la Parole de Dieu. Il n’y a qu’une issue. Il n’y a qu’un chemin de sortie, et Il est ce chemin — “Jésus-Christ, le même hier, aujourd’hui et éternellement”. Voulez-vous que notre église devienne comme ce qu’ils ont en Angleterre? Voilà pourquoi j’ai été si brusque envers vous, en vous reprenant. Je n’aime pas vous bousculer de la sorte, mais je ne voudrais pas voir cette église en arriver là. Vous non plus. Vous n’avez qu’à abattre toutes ces fausses doctrines et, après les avoir clouées, river le clou. C’est ainsi qu’il faut agir.
 
-        http://www.cmpp.ch
+J’ai ici quelques passages de l’Ecriture et un texte sur lesquels je voudrais parler un moment. Je ne sais pas pour combien de temps j’en aurai. Peut-être pour pas plus d’une demi-heure. Je laisse toujours au Saint-Esprit le soin de tout conduire comme Il le veut. Inclinons nos têtes un moment, et parlons à l’Auteur de ce Livre que nous allons ouvrir:
 
-EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE 4
-et rétablira toutes choses. Et pourquoi est-il écrit du Fils de l’homme qu’il doit souffrir beaucoup et
-être méprisé? Mais je vous dis qu’Elie est venu, et qu’ils l’ont traité comme ils ont voulu, selon qu’il
-est écrit de lui” (Marc 9.12,13). Et, dans Matthieu 17.12, Jésus confirme: “Mais je vous dis qu’Elie
-est déjà venu, et qu’ils ne l’ont pas reconnu”. On en arrivera peut-être au même point. Nous
-voulons nous tenir constamment au courant de ce qui va se passer dans cet âge. Dieu a
-attribué à chacun des sept âges de l’église la portion nécessaire de Sa Parole. Nous pouvons
-aussi remarquer que chaque âge avait son message particulier, qui n’était pas pour un autre
-âge. Il devait en être ainsi.
-   A quoi cela aurait-il servi que Moïse essayât de prêcher le message de Noé? A quoi cela
-aurait-il servi que Jésus essayât de prêcher le message de Moïse? A quoi cela aurait-il servi que
-Martin Luther continuât avec le message Catholique romain? A quoi cela aurait-il servi que Wesley
-continuât à prêcher le message Luthérien, au lieu de donner son propre message? A quoi cela
-aurait-il servi que les Pentecôtistes continuassent à prêcher le message Méthodiste? Enfin, à quoi
-cela aurait-il servi aux Pentecôtistes de continuer, alors qu’Il appelle l’Epouse? Nous sommes
-arrivés au temps de la maturité du grain. Nous sommes aujourd’hui au temps de la fin. “Si le
-grain de blé qui est tombé en terre ne meurt, il reste seul” (Jean 12.24).
-   Il y a un écrivain allemand qui a publié des articles de critiques contre moi. Il s’est exprimé
-comme un infidèle. Je ne le condamne pas parce qu’il m’a ainsi condamné, mais parce que c’est
-un infidèle. Ce livre ne devrait se trouver dans aucune bibliothèque. Il a blasphémé Dieu en disant
-qu’un Dieu qui dit pouvoir ouvrir la Mer Rouge pour libérer Son peuple ne peut se tenir assis, les
-bras croisés, sans réagir, durant les âges de ténèbres, aux massacres de ces chrétiens mis en
-pièces par les lions; de ces mères aux cheveux imprégnés de goudron, qui étaient pendues sur
-des croix et brûlées vives; de ces mères enceintes dont on ouvrait le ventre pour vérifier le sexe de
-l’enfant qui avait fait l’objet d’un pari. Dieu pouvait-Il ainsi demeurer assis, les bras croisés, sans
-réagir en faveur de tous ces gens qui étaient censés être des serviteurs de ce Dieu, etc…
-Voyez-vous, cet homme-là n’a rien compris. Tout est là! Les Ecritures sont inspirées. Il ne vous
-sera jamais possible de connaître les Ecritures en vous asseyant simplement, et en les lisant selon
-un point de vue théologique ou pédagogique. Cela n’a jamais rien donné.
-   Il y a peu de temps, je m’entretenais avec un prédicateur baptiste qui me disait: «Tant que nous
-n’apprendrons pas la signification correcte des mots grecs, nous ne pourrons pas comprendre la
-Bible». Je lui répondis: «Au Concile de Nicée, et même bien avant cela, on argumentait sur
-l’interprétation des mots, dans la Bible grecque». Vous ne pourrez jamais la comprendre de cette
-façon, car la Bible doit être révélée par inspiration. C’est la seule voie possible. Jésus a dit à
-Pierre: “Sur ce rocher… ce rocher de la révélation… je bâtirai mon église”. Il révèle qui Il est.
-   Matthieu 16.16-18: “Simon Pierre répondit: Tu es le Christ, le Fils du Dieu vivant. Jésus,
-reprenant la parole, lui dit: Tu es heureux, Simon, fils de Jonas; car ce ne sont pas la chair et le
-sang qui t’ont révélé cela, mais c’est mon Père qui est dans les cieux. Et moi, je te dis que tu es
-Pierre, et que sur cette pierre je bâtirai mon Eglise, et que les portes du séjour des morts ne
-prévaudront point contre elle”.
-   Son Eglise est bâtie, non sur Pierre, ni sur Jésus, mais sur la révélation spirituelle de Qui Il
-était. Il est la Parole.
-   Dans Jean 1.1 et 14, il est écrit: “Au commencement était la Parole, et la Parole était avec Dieu,
-et la Parole était Dieu… Et la Parole a été faite chair, et elle a habité parmi nous, pleine de grâce
-et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du
-Père”.
-   Dans Hébreux 13.8, enfin: “Jésus-Christ est le même hier, aujourd’hui, et éternellement”.
-   En conséquence, nous vivons en un temps où la manifestation de la Parole de Dieu doit venir à
-un autre âge que celui du Pentecôtisme. Souvenez-vous — je ne suis qu’une personne sans
-instruction — mais vous ne pouvez pas surpasser la nature, parce que Dieu oeuvre dans la
-continuité du cours de la nature. C’est ainsi que le soleil se lève, poursuit son périple durant le
-jour, et se couche le soir venu, pour se lever à nouveau le lendemain. Pour se préparer à l’hiver,
-les arbres laissent descendre la sève jusque dans leurs racines, sève qui remontera au printemps
-prochain. Dieu compare l’Epouse à un grain de blé. Cette église réellement authentique, qui fut
-établie le jour de la Pentecôte, s’est développée de plus en plus en une grande église. Dans les
+Dieu Tout-Puissant, Toi qui es l’Auteur de ce Livre, nous Te prions au travers de Jésus-Christ. Nous Te remercions pour ce que nous avons déjà entendu ce soir. Que nous puissions clore cette réunion en disant «Amen!» et retourner chez nous en pensant: «Il était bon d’être là-bas», car nous savons que Tu étais avec nous. Père, alors que nous ouvrons cette Parole, parle-nous maintenant directement par elle, afin que nous puissions connaître en quelle heure nous vivons! Si nous connaissons cette heure-là, alors nous pouvons nous préparer pour cette heure. Mais si nous marchons comme des aveugles, ignorant le pourquoi et le comment, il nous est alors impossible de nous préparer. Aussi, Père, nous Te prions de nous laisser voir l’Arche, avec Sa porte ouverte, et de nous faire entendre le message qui nous appelle à y entrer. Exauce-nous dans le Nom de Jésus-Christ. Amen.
 
-        http://www.cmpp.ch
+Luc 24.13-27: “Et voici, ce même jour, deux disciples allaient à un village nommé Emmaüs, éloigné de Jérusalem de soixante stades; et ils s’entretenaient de tout ce qui s’était passé. Pendant qu’ils parlaient et discutaient, Jésus s’approcha, et fit route avec eux. Mais leurs yeux étaient empêchés de le reconnaître. Il leur dit: De quoi vous entretenez-vous en marchant, pour que vous soyez tout tristes? L’un d’eux, nommé Cléopas, lui répondit: Es-tu le seul qui, séjournant à Jérusalem, ne sache pas ce qui y est arrivé ces jours ci? Quoi? leur dit-il. Et ils lui répondirent: Ce qui est arrivé au sujet de Jésus de Nazareth, qui était un prophète puissant en oeuvres et en paroles devant Dieu et devant tout le peuple, et comment les principaux sacrificateurs et nos magistrats l’ont livré pour le faire condamner à mort, et l’ont crucifié. Nous espérions que ce serait lui qui délivrerait Israël; mais avec tout cela, voici le troisième jour que ces choses se sont passées. Il est vrai que quelques femmes d’entre nous nous ont fort étonnés: s’étant rendues de grand matin au sépulcre, et n’ayant pas trouvé son corps, elles sont venues dire que des anges leur sont apparus et ont annoncé qu’il est vivant. Quelques-uns de ceux qui étaient avec nous sont allés au sépulcre, et ils ont trouvé les choses comme les femmes l’avaient dit; mais lui, ils ne l’ont point vu. Alors Jésus leur dit: O hommes sans intelligence, et dont le coeur est lent à croire tout ce qu’ont dit les prophètes! Ne fallait-il pas que le Christ souffrît ces choses, et qu’il entrât dans sa gloire? Et, commençant par Moïse et par tous les prophètes, il leur expliqua dans toutes les Ecritures ce qui le concernait”.
 
-EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE 5
-sombres âges, elle a dû tomber en terre et être ensevelie, comme il en est de toutes les
-semences. Il fallait qu’elle mourût pour pouvoir paraître à nouveau dans la révélation. Et à la
-réformation, elle a repris vie dans une personne: Martin Luther.
-   La première chose qui lève, de la graine, ce sont tout d’abord deux petites pousses, et de
-nouvelles pousses s’ajoutent aux précédentes. Il y eut d’abord Martin Luther, puis Zwingli, puis
-Calvin, et ainsi de suite. Puis il se forme une aigrette: ce fut John Wesley, dans l’âge wesleyen. Il
-en tomba un pollen. De là vint l’âge de la Pentecôte. C’était si proche, si voisin! Cela ressemblait
-presque à un grain véritable, si l’on ne regardait qu’à son aspect. Mais si vous regardiez de plus
-près, et si vous enleviez cette petite enveloppe, il n’y avait rien à l’intérieur! C’est une simple
-enveloppe qui a la forme du grain. Elle se trouve là dans un seul but: celui d’abriter le grain
-quand il viendrait. Si le soleil frappait le grain, non protégé par cette enveloppe, il le tuerait. Ce
-grain doit rester un certain temps à l’abri, jusqu’à ce que la vie ait quitté cette enveloppe, comme
-elle a quitté la tige et le pollen. Toute la vie se concentre dans le grain de blé, qui est façonné
-pour devenir semblable au grain original qui a été semé dans la terre. Nous savons tous que trois
-ans après qu’un messager est donné, une organisation se forme aussitôt. Quand cela se produit,
-c’est sa mort, à ce moment-là. Elle est morte dans les jours de Luther, dans les jours de Wesley,
-dans les jours d’Alexandre Campbell. Il en fut de même de toutes les autres organisations,
-jusqu’aux jours de la Pentecôte. Chaque organisation devient tellement empesée et s’éloigne à
-tel point de la Parole de Dieu, qu’elle ne peut plus recevoir de nouvelles révélations. Elle
-s’installe là, et meurt. La vie se propage au travers de la tige pour former le grain de blé, et la
-résurrection le libère de sa balle, afin qu’il soit prêt pour l’enlèvement.
-   Souvenez-vous que ce message a commencé par la guérison divine et l’accomplissement de
-miracles. Dieu n’est pas un paradeur. S’Il permettait que ce message fût diffusé en utilisant une
-église ordinaire comme celle que nous avons déjà, alors ce ne serait pas Dieu.
-   Il ne fait pas ces choses-là pour nous divertir, comme nous autres Américains en avons
-l’habitude, mais seulement pour attirer l’attention des gens sur le fait qu’Il se prépare à faire
-quelque chose. Regardez Christ, lorsqu’Il est venu, ce merveilleux petit prophète de Galilée, ce
-Rabbi — eh bien, Son ministère fut merveilleux! Il fut le bienvenu dans chaque église. Cependant,
-un jour, Il s’est assis et Il a dit: “Le Père et moi, nous sommes un” (Jean 10.30). Oh, là, là! C’était
-fini! “Ecartons-nous d’un tel homme!”. Alors, Il dit: “Si vous ne mangez la chair du Fils de l’homme,
-et si vous ne buvez son sang, vous n’avez point la vie en vous-mêmes” (Jean 6.53). “Alors, c’est
-un vampire! Eloignez-vous d’une telle personne!”. Il y avait quelque chose qui devait suivre le
-signe.
-   C’est l’enveloppe qui l’a contenu jusqu’à ce moment-là, mais maintenant, elle est enlevée.
-Souvenez-vous, vingt années sont passées depuis que ce message vint, et cependant, aucune
-nouvelle dénomination n’en est sortie, et il n’y en aura point. Nous sommes arrivés à la fin de
-toutes les dénominations. Le blé a changé tout cela. Eh bien, que va faire le blé maintenant? Il
-doit être exposé aux rayons du soleil pour arriver à la pleine maturité, avant que la
-moissonneuse ne vienne le recueillir.
-   Les événements que nous voyons s’accomplir sont indiqués dans la Bible pour chaque âge.
-Nous pensons être tous en dehors de cela, mais nous ne le sommes pas. Tout se passe tout à fait
-conformément à la Parole de Dieu. La Bible est différente de tout autre livre sacré. Il n’existe
-aucun livre comme celui-ci, car la Bible, c’est Dieu sous la forme de la Parole. Une parole, c’est
-une pensée exprimée. La pensée de Dieu l’a exprimée. Sa Parole a été donnée à Ses prophètes.
-Ils ont écrit la Bible qui est sous forme de Parole, et Jésus l’a appelée une semence. Chaque
-semence produira un fruit selon son espèce, si tout se passe dans des conditions normales et
-dans une atmosphère appropriée. Ce livre de prophéties annonce des événements à venir. Ce
-livre contient la révélation entière de Jésus-Christ. Vous ne devez rien y ajouter, ni en
-retrancher. Chaque révélation vient de ce livre. Cela doit bien être la Parole. Certains peuvent dire
-qu’ils ont eu une révélation. Nous savons que Joseph Smith et beaucoup d’autres ont eu une
-révélation, mais celle-ci était contraire à la Parole. Si la révélation vient de Dieu, elle doit
-s’accorder avec la Parole. Elle rendra témoignage, ou prouvera la présence de Dieu, car elle
-prouvera qu’Il connaissait ces choses de tout temps, et que, par Sa prescience, Il les avait déjà
-ordonnées à l’avance. Cela s’appelle, dans la Bible, la prédestination, suivant laquelle chaque âge
-a sa propre place, chaque homme, sa propre place, et chaque messager, sa propre place. Il est
+Que le Seigneur ajoute Ses bénédictions à la lecture de Sa Parole. J’aimerais appeler le thème de cette prédication: LES EVENEMENTS MODERNES SONT RENDUS CLAIRS PAR LA PROPHETIE. Cela a toujours été la manière du Dieu immuable de faire connaître à Son peuple certains événements, avant qu’ils n’arrivent. Si, aux jours du Seigneur Jésus, les gens avaient cherché Dieu, ils auraient su ce qui allait se passer. Alors, ils n’auraient pas condamné Jésus à mort. De toute façon, les Ecritures doivent s’accomplir, et les Juifs devaient être aveuglés pour les accomplir. Nous sommes tous au courant de cela. Etes-vous conscients que cela va se répéter à nouveau dans ce septième âge de Laodicée? Dans Apocalypse 3.17, Jésus dit qu’ils sont nus, misérables, aveugles, et qu’ils ne le savent même pas! Comme Il a aveuglé ceux qui vivaient au temps de Jésus, dans le but de donner Son message au peuple élu, Jésus a promis d’agir de même aujourd’hui.
 
-        http://www.cmpp.ch
+Je dis ceci, avec tout le respect que je dois à mes frères et à mes soeurs en Christ. Mais un de ces jours, quelqu’un dira: «N’est-il pas écrit que ces autres choses mentionnées dans la Parole arriveraient en premier lieu?». Et cela se sera accompli, conformément à ce qui est écrit dans la Bible, mais ils ne se seront aperçus de rien. Souvenez-vous que lorsqu’on demanda à Jésus pourquoi les scribes disaient qu’Elie devait venir premièrement, Il dit: “Elie viendra premièrement, et rétablira toutes choses. Et pourquoi est-il écrit du Fils de l’homme qu’il doit souffrir beaucoup et être méprisé? Mais je vous dis qu’Elie est venu, et qu’ils l’ont traité comme ils ont voulu, selon qu’il est écrit de lui” (Marc 9.12,13). Et, dans Matthieu 17.12, Jésus confirme: “Mais je vous dis qu’Elie est déjà venu, et qu’ils ne l’ont pas reconnu”. On en arrivera peut-être au même point. Nous voulons nous tenir constamment au courant de ce qui va se passer dans cet âge. Dieu a attribué à chacun des sept âges de l’église la portion nécessaire de Sa Parole. Nous pouvons aussi remarquer que chaque âge avait son message particulier, qui n’était pas pour un autre âge. Il devait en être ainsi.
 
-EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE 6
-Dieu. Le Diable ne peut pas Le contrecarrer. Dieu est Dieu, et Il a ordonné que chaque chose
-s’accomplisse, et qu’elle soit parfaitement conforme à Sa Parole.
-   Nous trouvons beaucoup d’autres livres qui se disent sacrés. J’ai lu le Coran, et beaucoup
-d’autres livres; mais, voyez-vous, ce qu’ils appellent des livres sacrés, c’est seulement un code de
-morale, ou une théologie; mais ce Livre-ci est un prophète. Il se distingue de tout autre livre. La
-Bible est la Parole de Dieu prédisant le futur. Il prédit — afin d’avertir. Si Dieu veut envoyer
-quelque chose, Il a promis dans la Bible qu’il ne ferait rien sur la terre sans l’avoir révélé d’abord
-à Ses serviteurs, les prophètes (Amos 3.7). Dieu ne peut mentir — comme Il l’a dit, Il révèle
-d’abord.
-   C’est ainsi qu’Il a procédé tout au long des âges. Nous avons la promesse d’une
-restauration de tout cela dans les derniers jours. Il n’existe aucune église ou dénomination,
-que ce soit: Méthodiste, Baptiste, Presbytérienne ou Pentecôtiste, qui, dans sa condition actuelle,
-puisse amener l’église à être l’Epouse — elles ont toutes chuté. Elles se prennent par trop à la
-gorge les unes les autres. La mondanité s’est glissée en elles, et elles sont mortes dans leurs
-voies. Dieu connaît tout cela.
-   Il en est exactement comme lors de la première venue de Jésus. Chacun possède une doctrine
-particulière. Quelque chose doit nous être envoyé de Dieu. Il l’a promis, et tout ce que vous avez à
-faire, c’est de vous conformer au Modèle original. Selon Malachie 4.6, Il a promis qu’Il nous
-enverrait dans les derniers jours un prophète qui ramènerait les coeurs des enfants aux
-pères apostoliques. Dieu a annoncé, dans Luc 17 — et dans beaucoup d’autres passages — ce
-qu’Il ferait dans ces derniers jours. Nous avons nos propres interprétations de la Parole. Nous
-disons que cela signifie telle chose, les Méthodistes disent que ceci signifie telle chose, les
-Baptistes disent autre chose, et les Pentecôtistes disent encore autre chose. Les Unitaires disent
-ceci, les “Bi-Unitaires” disent cela, et… Oh, là, là! Mais Dieu n’a besoin d’aucun interprète, car Il
-est Lui-même Son propre interprète. Il nous donne l’interprétation en lui rendant témoignage, en
-la prouvant, dans l’âge même pour laquelle elle est destinée. Nous ne vivons pas dans l’âge
-du Pentecôtisme. Nous vivons dans un autre âge. Voyez-vous, nous ne vivons pas dans l’âge
-Méthodiste, nous vivons dans un autre âge. Nous vivons ici en haut, dans l’âge de l’Epouse, où
-l’église est appelée et rassemblée pour l’enlèvement. En toute honnêteté, mon opinion est que
-c’est cela, l’exacte vérité.
-   La Bible est un livre de prophétie. A ceux qui y croient, il est commandé de l’honorer, de la lire,
-et de croire Son auteur, car chaque parole écrite doit s’accomplir. Chaque parole s’accomplira,
-parce qu’elle est Jésus dans chaque âge. “… Le même hier” — c’était Jésus-Christ en Noé,
-Jésus-Christ en Moïse, Jésus-Christ en David, et Jésus-Christ en Joseph. C’est Jésus-Christ
-parmi Son peuple, aujourd’hui, qui fait les oeuvres qu’Il a promis de faire dans cet âge. C’est
-Jésus-Christ, mais l’église est devenue si empesée et s’est tellement éloignée que nous devons
-recevoir quelque chose qui nous secoue si fortement que nous puissions revenir à la Parole.
-Comment savons-nous que cela va se passer ainsi? Cela doit se passer conformément au plan de
-Dieu! Cette chose ne pourra venir d’un homme laïque. Elle ne viendra pas par les hommes
-d’affaires! Elle ne peut pas venir par une église, car Dieu a établi Son plan.
-   L’autre jour, en Louisiane, à Shreveport, j’ai parlé et donné mon message, par liaison
-téléphonique simultanée. Le sujet de ce message était ceci: “Chercher à rendre service à Dieu
-sans que ce soit la Volonté de Dieu”. David a essayé de ramener l’arche de Dieu à la maison. Il
-avait reçu l’onction royale. Il consulta ses dignitaires, chefs de mille, chefs de dix mille, et ainsi de
-suite. Ils s’accordèrent tous pour dire que le plan de David était conforme à la Parole de Dieu. Il
-consulta les prêtres. Ils pensèrent que c’était magnifique, et ils en devinrent tous tellement
-enthousiasmés, qu’ils se mirent à crier et à accomplir toutes sortes d’actes religieux, mais ils
-étaient en contradiction absolue avec la volonté de Dieu. Dans le pays, il y avait un prophète, du
-nom de Nathan, mais il ne fut même pas consulté. Ils se rendirent compte que, malgré leur
-sincérité, leurs projets ne purent se réaliser. Aussi sincères que vous soyez, tant que vous ne
-savez pas ce que vous faites, c’est du vent! Revenez en arrière! Entrez dans la Parole de Dieu,
-et conformez-vous-y. Et ensuite, allez de l’avant! Un soldat, tant qu’il n’a pas reçu d’ordre, ignore
-ce qu’il doit faire. Nous devons être des soldats de Christ, et recevoir nos consignes de la Bible;
-non pas la consigne pour hier, ou avant-hier, mais la consigne pour aujourd’hui. Où allons-nous?
-Reconnaissez l’heure dans laquelle nous vivons. Ces événements modernes se déroulent
+A quoi cela aurait-il servi que Moïse essayât de prêcher le message de Noé? A quoi cela aurait-il servi que Jésus essayât de prêcher le message de Moïse? A quoi cela aurait-il servi que Martin Luther continuât avec le message Catholique romain? A quoi cela aurait-il servi que Wesley continuât à prêcher le message Luthérien, au lieu de donner son propre message? A quoi cela aurait-il servi que les Pentecôtistes continuassent à prêcher le message Méthodiste? Enfin, à quoi cela aurait-il servi aux Pentecôtistes de continuer, alors qu’Il appelle l’Epouse? Nous sommes arrivés au temps de la maturité du grain. Nous sommes aujourd’hui au temps de la fin. “Si le grain de blé qui est tombé en terre ne meurt, il reste seul” (Jean 12.24).
 
-        http://www.cmpp.ch
+Il y a un écrivain allemand qui a publié des articles de critiques contre moi. Il s’est exprimé comme un infidèle. Je ne le condamne pas parce qu’il m’a ainsi condamné, mais parce que c’est un infidèle. Ce livre ne devrait se trouver dans aucune bibliothèque. Il a blasphémé Dieu en disant qu’un Dieu qui dit pouvoir ouvrir la Mer Rouge pour libérer Son peuple ne peut se tenir assis, les bras croisés, sans réagir, durant les âges de ténèbres, aux massacres de ces chrétiens mis en pièces par les lions; de ces mères aux cheveux imprégnés de goudron, qui étaient pendues sur des croix et brûlées vives; de ces mères enceintes dont on ouvrait le ventre pour vérifier le sexe de l’enfant qui avait fait l’objet d’un pari. Dieu pouvait-Il ainsi demeurer assis, les bras croisés, sans réagir en faveur de tous ces gens qui étaient censés être des serviteurs de ce Dieu, etc… Voyez-vous, cet homme-là n’a rien compris. Tout est là! Les Ecritures sont inspirées. Il ne vous sera jamais possible de connaître les Ecritures en vous asseyant simplement, et en les lisant selon un point de vue théologique ou pédagogique. Cela n’a jamais rien donné.
+
+Il y a peu de temps, je m’entretenais avec un prédicateur baptiste qui me disait: «Tant que nous n’apprendrons pas la signification correcte des mots grecs, nous ne pourrons pas comprendre la Bible». Je lui répondis: «Au Concile de Nicée, et même bien avant cela, on argumentait sur l’interprétation des mots, dans la Bible grecque». Vous ne pourrez jamais la comprendre de cette façon, car la Bible doit être révélée par inspiration. C’est la seule voie possible. Jésus a dit à Pierre: “Sur ce rocher… ce rocher de la révélation… je bâtirai mon église”. Il révèle qui Il est.
+
+Matthieu 16.16-18: “Simon Pierre répondit: Tu es le Christ, le Fils du Dieu vivant. Jésus, reprenant la parole, lui dit: Tu es heureux, Simon, fils de Jonas; car ce ne sont pas la chair et le sang qui t’ont révélé cela, mais c’est mon Père qui est dans les cieux. Et moi, je te dis que tu es Pierre, et que sur cette pierre je bâtirai mon Eglise, et que les portes du séjour des morts ne prévaudront point contre elle”.
+
+Son Eglise est bâtie, non sur Pierre, ni sur Jésus, mais sur la révélation spirituelle de Qui Il était. Il est la Parole.
+
+Dans Jean 1.1 et 14, il est écrit: “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu… Et la Parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du Père”.
+
+Dans Hébreux 13.8, enfin: “Jésus-Christ est le même hier, aujourd’hui, et éternellement”.
+
+En conséquence, nous vivons en un temps où la manifestation de la Parole de Dieu doit venir à un autre âge que celui du Pentecôtisme. Souvenez-vous — je ne suis qu’une personne sans instruction — mais vous ne pouvez pas surpasser la nature, parce que Dieu oeuvre dans la continuité du cours de la nature. C’est ainsi que le soleil se lève, poursuit son périple durant le jour, et se couche le soir venu, pour se lever à nouveau le lendemain. Pour se préparer à l’hiver, les arbres laissent descendre la sève jusque dans leurs racines, sève qui remontera au printemps prochain. Dieu compare l’Epouse à un grain de blé. Cette église réellement authentique, qui fut établie le jour de la Pentecôte, s’est développée de plus en plus en une grande église. Dans les sombres âges, elle a dû tomber en terre et être ensevelie, comme il en est de toutes les semences. Il fallait qu’elle mourût pour pouvoir paraître à nouveau dans la révélation. Et à la réformation, elle a repris vie dans une personne: Martin Luther.
+
+La première chose qui lève, de la graine, ce sont tout d’abord deux petites pousses, et de nouvelles pousses s’ajoutent aux précédentes. Il y eut d’abord Martin Luther, puis Zwingli, puis Calvin, et ainsi de suite. Puis il se forme une aigrette: ce fut John Wesley, dans l’âge wesleyen. Il en tomba un pollen. De là vint l’âge de la Pentecôte. C’était si proche, si voisin! Cela ressemblait presque à un grain véritable, si l’on ne regardait qu’à son aspect. Mais si vous regardiez de plus près, et si vous enleviez cette petite enveloppe, il n’y avait rien à l’intérieur! C’est une simple enveloppe qui a la forme du grain. Elle se trouve là dans un seul but: celui d’abriter le grain quand il viendrait. Si le soleil frappait le grain, non protégé par cette enveloppe, il le tuerait. Ce grain doit rester un certain temps à l’abri, jusqu’à ce que la vie ait quitté cette enveloppe, comme elle a quitté la tige et le pollen. Toute la vie se concentre dans le grain de blé, qui est façonné pour devenir semblable au grain original qui a été semé dans la terre. Nous savons tous que trois ans après qu’un messager est donné, une organisation se forme aussitôt. Quand cela se produit, c’est sa mort, à ce moment-là. Elle est morte dans les jours de Luther, dans les jours de Wesley, dans les jours d’Alexandre Campbell. Il en fut de même de toutes les autres organisations, jusqu’aux jours de la Pentecôte. Chaque organisation devient tellement empesée et s’éloigne à tel point de la Parole de Dieu, qu’elle ne peut plus recevoir de nouvelles révélations. Elle s’installe là, et meurt. La vie se propage au travers de la tige pour former le grain de blé, et la résurrection le libère de sa balle, afin qu’il soit prêt pour l’enlèvement.
+
+Souvenez-vous que ce message a commencé par la guérison divine et l’accomplissement de miracles. Dieu n’est pas un paradeur. S’Il permettait que ce message fût diffusé en utilisant une église ordinaire comme celle que nous avons déjà, alors ce ne serait pas Dieu.
+
+Il ne fait pas ces choses-là pour nous divertir, comme nous autres Américains en avons l’habitude, mais seulement pour attirer l’attention des gens sur le fait qu’Il se prépare à faire quelque chose. Regardez Christ, lorsqu’Il est venu, ce merveilleux petit prophète de Galilée, ce Rabbi — eh bien, Son ministère fut merveilleux! Il fut le bienvenu dans chaque église. Cependant, un jour, Il s’est assis et Il a dit: “Le Père et moi, nous sommes un” (Jean 10.30). Oh, là, là! C’était fini! “Ecartons-nous d’un tel homme!”. Alors, Il dit: “Si vous ne mangez la chair du Fils de l’homme, et si vous ne buvez son sang, vous n’avez point la vie en vous-mêmes” (Jean 6.53). “Alors, c’est un vampire! Eloignez-vous d’une telle personne!”. Il y avait quelque chose qui devait suivre le signe.
+
+C’est l’enveloppe qui l’a contenu jusqu’à ce moment-là, mais maintenant, elle est enlevée. Souvenez-vous, vingt années sont passées depuis que ce message vint, et cependant, aucune nouvelle dénomination n’en est sortie, et il n’y en aura point. Nous sommes arrivés à la fin de toutes les dénominations. Le blé a changé tout cela. Eh bien, que va faire le blé maintenant? Il doit être exposé aux rayons du soleil pour arriver à la pleine maturité, avant que la moissonneuse ne vienne le recueillir.
+
+Les événements que nous voyons s’accomplir sont indiqués dans la Bible pour chaque âge. Nous pensons être tous en dehors de cela, mais nous ne le sommes pas. Tout se passe tout à fait conformément à la Parole de Dieu. La Bible est différente de tout autre livre sacré. Il n’existe aucun livre comme celui-ci, car la Bible, c’est Dieu sous la forme de la Parole. Une parole, c’est une pensée exprimée. La pensée de Dieu l’a exprimée. Sa Parole a été donnée à Ses prophètes. Ils ont écrit la Bible qui est sous forme de Parole, et Jésus l’a appelée une semence. Chaque semence produira un fruit selon son espèce, si tout se passe dans des conditions normales et dans une atmosphère appropriée. Ce livre de prophéties annonce des événements à venir. Ce livre contient la révélation entière de Jésus-Christ. Vous ne devez rien y ajouter, ni en retrancher. Chaque révélation vient de ce livre. Cela doit bien être la Parole. Certains peuvent dire qu’ils ont eu une révélation. Nous savons que Joseph Smith et beaucoup d’autres ont eu une révélation, mais celle-ci était contraire à la Parole. Si la révélation vient de Dieu, elle doit s’accorder avec la Parole. Elle rendra témoignage, ou prouvera la présence de Dieu, car elle prouvera qu’Il connaissait ces choses de tout temps, et que, par Sa prescience, Il les avait déjà ordonnées à l’avance. Cela s’appelle, dans la Bible, la prédestination, suivant laquelle chaque âge a sa propre place, chaque homme, sa propre place, et chaque messager, sa propre place. Il est Dieu. Le Diable ne peut pas Le contrecarrer. Dieu est Dieu, et Il a ordonné que chaque chose s’accomplisse, et qu’elle soit parfaitement conforme à Sa Parole.
+
+Nous trouvons beaucoup d’autres livres qui se disent sacrés. J’ai lu le Coran, et beaucoup d’autres livres; mais, voyez-vous, ce qu’ils appellent des livres sacrés, c’est seulement un code de morale, ou une théologie; mais ce Livre-ci est un prophète. Il se distingue de tout autre livre. La Bible est la Parole de Dieu prédisant le futur. Il prédit — afin d’avertir. Si Dieu veut envoyer quelque chose, Il a promis dans la Bible qu’il ne ferait rien sur la terre sans l’avoir révélé d’abord à Ses serviteurs, les prophètes (Amos 3.7). Dieu ne peut mentir — comme Il l’a dit, Il révèle d’abord.
+
+C’est ainsi qu’Il a procédé tout au long des âges. Nous avons la promesse d’une restauration de tout cela dans les derniers jours. Il n’existe aucune église ou dénomination, que ce soit: Méthodiste, Baptiste, Presbytérienne ou Pentecôtiste, qui, dans sa condition actuelle, puisse amener l’église à être l’Epouse — elles ont toutes chuté. Elles se prennent par trop à la gorge les unes les autres. La mondanité s’est glissée en elles, et elles sont mortes dans leurs voies. Dieu connaît tout cela.
+
+Il en est exactement comme lors de la première venue de Jésus. Chacun possède une doctrine particulière. Quelque chose doit nous être envoyé de Dieu. Il l’a promis, et tout ce que vous avez à faire, c’est de vous conformer au Modèle original. Selon Malachie 4.6, Il a promis qu’Il nous enverrait dans les derniers jours un prophète qui ramènerait les coeurs des enfants aux pères apostoliques. Dieu a annoncé, dans Luc 17 — et dans beaucoup d’autres passages — ce qu’Il ferait dans ces derniers jours. Nous avons nos propres interprétations de la Parole. Nous disons que cela signifie telle chose, les Méthodistes disent que ceci signifie telle chose, les Baptistes disent autre chose, et les Pentecôtistes disent encore autre chose. Les Unitaires disent ceci, les “Bi-Unitaires” disent cela, et… Oh, là, là! Mais Dieu n’a besoin d’aucun interprète, car Il est Lui-même Son propre interprète. Il nous donne l’interprétation en lui rendant témoignage, en la prouvant, dans l’âge même pour laquelle elle est destinée. Nous ne vivons pas dans l’âge du Pentecôtisme. Nous vivons dans un autre âge. Voyez-vous, nous ne vivons pas dans l’âge Méthodiste, nous vivons dans un autre âge. Nous vivons ici en haut, dans l’âge de l’Epouse, où l’église est appelée et rassemblée pour l’enlèvement. En toute honnêteté, mon opinion est que c’est cela, l’exacte vérité.
+
+La Bible est un livre de prophétie. A ceux qui y croient, il est commandé de l’honorer, de la lire, et de croire Son auteur, car chaque parole écrite doit s’accomplir. Chaque parole s’accomplira, parce qu’elle est Jésus dans chaque âge. “… Le même hier” — c’était Jésus-Christ en Noé, Jésus-Christ en Moïse, Jésus-Christ en David, et Jésus-Christ en Joseph. C’est Jésus-Christ parmi Son peuple, aujourd’hui, qui fait les oeuvres qu’Il a promis de faire dans cet âge. C’est Jésus-Christ, mais l’église est devenue si empesée et s’est tellement éloignée que nous devons recevoir quelque chose qui nous secoue si fortement que nous puissions revenir à la Parole. Comment savons-nous que cela va se passer ainsi? Cela doit se passer conformément au plan de Dieu! Cette chose ne pourra venir d’un homme laïque. Elle ne viendra pas par les hommes d’affaires! Elle ne peut pas venir par une église, car Dieu a établi Son plan.
+
+L’autre jour, en Louisiane, à Shreveport, j’ai parlé et donné mon message, par liaison téléphonique simultanée. Le sujet de ce message était ceci: “Chercher à rendre service à Dieu sans que ce soit la Volonté de Dieu”. David a essayé de ramener l’arche de Dieu à la maison. Il avait reçu l’onction royale. Il consulta ses dignitaires, chefs de mille, chefs de dix mille, et ainsi de suite. Ils s’accordèrent tous pour dire que le plan de David était conforme à la Parole de Dieu. Il consulta les prêtres. Ils pensèrent que c’était magnifique, et ils en devinrent tous tellement enthousiasmés, qu’ils se mirent à crier et à accomplir toutes sortes d’actes religieux, mais ils étaient en contradiction absolue avec la volonté de Dieu. Dans le pays, il y avait un prophète, du nom de Nathan, mais il ne fut même pas consulté. Ils se rendirent compte que, malgré leur sincérité, leurs projets ne purent se réaliser. Aussi sincères que vous soyez, tant que vous ne savez pas ce que vous faites, c’est du vent! Revenez en arrière! Entrez dans la Parole de Dieu, et conformez-vous-y. Et ensuite, allez de l’avant! Un soldat, tant qu’il n’a pas reçu d’ordre, ignore ce qu’il doit faire. Nous devons être des soldats de Christ, et recevoir nos consignes de la Bible; non pas la consigne pour hier, ou avant-hier, mais la consigne pour aujourd’hui. Où allons-nous? Reconnaissez l’heure dans laquelle nous vivons. Ces événements modernes se déroulent conformément à la prophétie.
 
 EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE 7
 d’une manière tellement peu marquante! Un jour, nous allons nous apercevoir que nous aurons
@@ -427,7 +278,7 @@ comme en Angleterre, où un appel à l’autel est considéré comme une chose h
    Il nous faut prêcher l’Evangile dans sa plénitude, avec la puissance de Dieu pour le
 confirmer selon la promesse de cet âge, et prouver qu’il s’accorde exactement avec la Parole
 de Dieu. Hors de cela, vous n’êtes tout simplement qu’un membre d’église. Peu importent vos
-efforts pour servir Dieu, ou votre fidélité à votre église: à moins que ce germe de vie éternelle ait
+ efforts pour servir Dieu, ou votre fidélité à votre église: à moins que ce germe de vie éternelle ait
 été prédestiné à être en vous, vous deviendrez quelque chose d’informe, et jamais vous ne serez
 un vrai fils ou une vraie fille de Dieu.
    Je raconte souvent mon histoire concernant le petit aiglon. Le fermier préparait une couvée
@@ -611,6 +462,7 @@ Josué a partagé ce pays que Dieu nous a donné, mais la Syrie a cette portion 
         http://www.cmpp.ch
 
 EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE 12
+
 du blé qui devrait nous revenir”. Il avait raison. Ceci est scripturaire. Achab lui dit: “Veux-tu m’aider
 à monter jusque là pour le reprendre?”. Quelquefois, un brave homme, sous l’influence du malin,
 lui cédera; alors prenez bien garde, Josaphat, qui était un homme très religieux, dit: “Eh bien, nous
@@ -1080,7 +932,7 @@ car demain pourrait ne jamais arriver. Peut-être qu’en ce moment, je prêche 
 
         http://www.cmpp.ch
 
-    EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE    20
+EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE    20
 sera morte avant l’aube. Moi-même, je puis disparaître avant demain matin! Mon frère, ma soeur,
 ce n’est pas de la mystification. C’est un fait réel! Nous ne savons l’heure à laquelle nous devons
 nous en aller. Vous n’aurez pas d’autre occasion, une fois que votre dernier souffle vous
@@ -1315,7 +1167,7 @@ s’est réellement donné à Dieu, que si vous pouviez seulement vous lever et 
         http://www.cmpp.ch
 
     EVENEMENTS MODERNES RENDUS CLAIRS PAR LA PROPHETIE    24
-disant: «Dieu bien-aimé. Je suis ici. Prends-moi Seigneur. Plus jamais je n’essaierai de faire appel
+ disant: «Dieu bien-aimé. Je suis ici. Prends-moi Seigneur. Plus jamais je n’essaierai de faire appel
 à ma propre intelligence et à ma propre interprétation.
    Ta Parole dit que je dois être saint. Je dois être né de nouveau. Je dois être rempli du
 Saint-Esprit, et alors l’Esprit me conduira dans toute la vérité. Dieu bien-aimé, je suis ici,
@@ -1402,9 +1254,6 @@ en chrétiens rayonnants. Que le grand événement que nous attendons puisse se 
 rapidement. Accorde-le, Seigneur, et que Tu puisses prendre Ton Eglise, Ton Epouse avec Toi,
 dans Ta maison. Nous voyons que tout est en train de se préparer. Viens, Seigneur Jésus. Nous
 remettons tout entre Tes mains, dans le Nom de Jésus-Christ. Amen!
-
-
-
 
 
 

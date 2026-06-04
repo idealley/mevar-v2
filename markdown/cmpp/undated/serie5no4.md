@@ -1,541 +1,252 @@
-    SERIE 5, N° 4
+---
+source: "cmpp"
+sermon_id: "serie5no4"
+title: "Honteux de Lui"
+subtitle: "11 juillet 1965, matin"
+date: "1965-07-11"
+year: 1965
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la honte d'être associé à Christ dans les derniers jours, exhortant l'Église à rester fidèle à la Parole. Il partage des expériences personnelles, des visions prophétiques sur le jugement de Los Angeles, et appelle à chercher l'Épouse de Christ."
+tags:
+  - "honte"
+  - "derniers jours"
+  - "jugement"
+  - "Épouse"
+  - "fidélité"
+  - "Parole"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Abraham"
+  - "Isaac"
+  - "Rébecca"
+  - "Eliézer"
+  - "Billy Graham"
+  - "Oral Roberts"
+  - "Sidney Jackson"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Los Angeles"
+  - "Californie"
+  - "Afrique"
+  - "Arizona"
+  - "Tucson"
+  - "Parker"
+themes:
+  - "honte de Christ"
+  - "jugement divin"
+  - "fidélité à la Parole"
+  - "Épouse de Christ"
+  - "signes des temps"
+  - "prière et consécration"
+pdf_url: "http://cmpp.ch/serie5no4.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Actes 2"
+  - "Esther 113"
+  - "Genèse 24"
+  - "Hébreux 13"
+  - "Luc 24"
+  - "Malachie 2"
+  - "Marc 16"
+---
+SERIE 5, N° 4
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
+WILLIAM MARRION BRANHAM
 
-    WILLIAM MARRION BRANHAM
+---
 
-
-
-
-
- HONTEUX DE LUI
+HONTEUX DE LUI
 (Ashamed of Him)
 
+---
 
-
-
-
-     11 juillet 1965, matin
-       Branham Tabernacle
+11 juillet 1965, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+---
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+---
 
 HONTEUX DE LUI 2
 
-        Honteux de Lui
-        (Ashamed of Him)
+**Honteux de Lui**
+*(Ashamed of Him)*
 
-        11 Juillet 1965, matin
-        Branham Tabernacle
-        Jeffersonville — Indiana, U.S.A.
+11 Juillet 1965, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
-1 Ces gens se tenaient debout là, en agitant les mains et en criant: «Souvenez-vous de ma
-mère. Souvenez-vous de mon frère qui est mort. Souvenez-vous…». Ils se trouvaient derrière une
-clôture de barbelés; et quand vous voyez cela, vous vous sentez vraiment Malachie 2 Et en rentrant à la maison, je pensais: «Eh bien…». Mon fils Joseph qui se trouvait là-bas
-avait eu quelques problèmes en lecture. Il a dû retravailler cela car il ne lisait pas assez bien, mais
-il a finalement très bien réussi. Alors j’ai pensé: «Eh bien, nous devrons rester quelque temps à la
-maison». Puis je me suis dit: «Si nous restons à la maison, cela va gâcher les vacances des
-enfants». Nous avons donc simplement renvoyé cela au mois d’août et sommes revenus ici pour
-deux ou trois semaines.
-3 Je me suis dit: «Je crois que pendant que nous serons là-bas, j’organiserai une rencontre.
-Nous prendrons cet auditoire scolaire là-bas, et nous aurons une rencontre depuis le 28 jusqu’au
-premier». Je voulais prêcher sur le sujet du déversement de ces sept dernières coupes. Nous
-avons donc téléphoné et avons été un peu déçus. Ils ne veulent plus nous laisser avoir ces
-bâtiments scolaires; il y avait beaucoup trop de gens. Nous ne pouvons organiser cela nulle part.
-J’ai donc décidé que, pendant que je serais ici, au lieu de… Si nous faisons de la publicité, nous
-ne pouvons pas installer tous le monde. (Jusqu’à présent, nous n’avons jamais fait de publicité.) Si
-nous essayions d’installer tout ce monde dans le Tabernacle ici, nous ne pourrions jamais y
-arriver. Vous voyez? Cinq jours ici, cela deviendrait insupportable. Ainsi, alors que j’étais assis ici
-en train de discuter avec frère Neville, frère Wood et les autres, nous avons décidé qu’au lieu de
-faire comme cela, nous organiserions cinq services. Ce serait les 28, 29, 30, 31 et le premier. Je
-pense même que nous pourrions commencer dimanche prochain et que ce jour-là, nous pourrions
-avoir deux services: le dimanche matin et le dimanche soir (ce serait le 18); puis le dimanche 25,
-nous pourrions avoir un service le matin et le soir (cela ferait quatre services). Puis le dimanche
-premier août, nous pourrions avoir deux services, le matin et le soir; ce qui nous ferait en tout six
-services. Cela éviterait ainsi une telle cohue. Ne pensez-vous pas que cela serait mieux que d’être
-pressés et entassés les uns sur les autres? Pour ces deux services, nous pouvons nous
-débrouiller comme cela et tout le monde arrive à s’entendre. Mais pour cinq soirées à la file, cela
-deviendrait carrément difficile.
-4 Maintenant, pendant que je suis ici, je voudrais m’arranger avec les diacres et les anciens.
-Cela commence à être partout la même chose. Nous vivons dans les derniers jours, et l’Evangile
-n’a plus la prééminence qu’Il devrait avoir; Il n’a plus les droits qu’Il devrait avoir. Il a été
-mélangé à la politique et à toutes ces choses, pour donner une sorte d’union. Et c’est ce à quoi
-nous arriverons finalement, car la marque de la bête doit venir au moyen d’une union. Et nous
-savons que cela finira par un boycott; aucun homme ne pourra vendre ni acheter s’il n’a pas la
-marque de la bête.
-5 Maintenant j’aimerais voir avec les anciens … Je me sens conduit. De toute ma vie je n’ai
-jamais eu une telle faim de Dieu dans mon coeur. Vous voyez? Je veux avoir ma propre tente,
-comme le Seigneur m’en a donné la vision, et je crois que maintenant le temps est proche. Et
-pendant que je suis ici, je veux voir si nous ne pourrions pas obtenir la tente. Car alors quand
-nous allons dans des endroits comme ici à Jeffersonville, nous pourrions dresser cette tente et
-avoir des rencontres pendant deux ou trois semaines au lieu de trois ou quatre jours (vous
-voyez?), et personne ne pourrait rien y trouver à redire. Nous pouvons prendre un terrain de sport
-ou, s’il ne veulent pas nous le laisser, il y a des fermiers là autour qui nous laisseront une ferme.
-Nous louerons la ferme et monterons la tente. La seule chose que nous aurions à faire, ce serait
-de nous occuper des aménagements extérieurs, des commodités et toutes ces choses et cela
+1 Ces gens se tenaient debout là, en agitant les mains et en criant: «Souvenez-vous de ma mère. Souvenez-vous de mon frère qui est mort. Souvenez-vous…». Ils se trouvaient derrière une clôture de barbelés; et quand vous voyez cela, vous vous sentez vraiment Malachie 2 Et en rentrant à la maison, je pensais: «Eh bien…». Mon fils Joseph qui se trouvait là-bas avait eu quelques problèmes en lecture. Il a dû retravailler cela car il ne lisait pas assez bien, mais il a finalement très bien réussi. Alors j’ai pensé: «Eh bien, nous devrons rester quelque temps à la maison». Puis je me suis dit: «Si nous restons à la maison, cela va gâcher les vacances des enfants». Nous avons donc simplement renvoyé cela au mois d’août et sommes revenus ici pour deux ou trois semaines.
 
-        http://www.cmpp.ch
+3 Je me suis dit: «Je crois que pendant que nous serons là-bas, j’organiserai une rencontre. Nous prendrons cet auditoire scolaire là-bas, et nous aurons une rencontre depuis le 28 jusqu’au premier». Je voulais prêcher sur le sujet du déversement de ces sept dernières coupes. Nous avons donc téléphoné et avons été un peu déçus. Ils ne veulent plus nous laisser avoir ces bâtiments scolaires; il y avait beaucoup trop de gens. Nous ne pouvons organiser cela nulle part. J’ai donc décidé que, pendant que je serais ici, au lieu de… Si nous faisons de la publicité, nous ne pouvons pas installer tous le monde. (Jusqu’à présent, nous n’avons jamais fait de publicité.) Si nous essayions d’installer tout ce monde dans le Tabernacle ici, nous ne pourrions jamais y arriver. Vous voyez? Cinq jours ici, cela deviendrait insupportable. Ainsi, alors que j’étais assis ici en train de discuter avec frère Neville, frère Wood et les autres, nous avons décidé qu’au lieu de faire comme cela, nous organiserions cinq services. Ce serait les 28, 29, 30, 31 et le premier. Je pense même que nous pourrions commencer dimanche prochain et que ce jour-là, nous pourrions avoir deux services: le dimanche matin et le dimanche soir (ce serait le 18); puis le dimanche 25, nous pourrions avoir un service le matin et le soir (cela ferait quatre services). Puis le dimanche premier août, nous pourrions avoir deux services, le matin et le soir; ce qui nous ferait en tout six services. Cela éviterait ainsi une telle cohue. Ne pensez-vous pas que cela serait mieux que d’être pressés et entassés les uns sur les autres? Pour ces deux services, nous pouvons nous débrouiller comme cela et tout le monde arrive à s’entendre. Mais pour cinq soirées à la file, cela deviendrait carrément difficile.
 
-HONTEUX DE LUI 3
-pourrait se faire très facilement. Puis nous pourrons alors commencer à avoir nos services car
-c’est selon la vision du Seigneur. C’est de cette manière que cela doit se faire.
-6 Et lorsque je suis venu hier pour m’occuper de ceci et cela, vous savez, je suis allé dans la
-rue et un de mes bons amis qui se promenait là m’a dit: «Hello, Billy». Je l’ai regardé; ses cheveux
-étaient blancs comme la neige et il avait pris du ventre. Ce garçon a mon âge! Lorsque j’étais
-enfant, nous avions l’habitude de jouer ensemble (c’était un beau jeune homme). Cela m’a fait un
-peu drôle. Mon petit garçon Joseph a dit: «Pourquoi es-tu triste, Papa?». Et j’ai dit: «Oh, je ne
-peux pas t’expliquer cela, Joseph. Vois-tu, je ne sais pas comment te dire».
-7 Je suis en train de regarder «Lij Perry, Mme Perry, qui est assise là au fond. Et il me semble
-que c’est hier que ce couple avait les cheveux noirs; c’étaient mes voisins, nous avions alors le
-vieux bateau Wahoo et la nuit nous allions pêcher à la rivière. Et regardez, maintenant ils ont tous
-deux les cheveux blancs. Vous savez que cela signifie quelque chose pour moi; c’est une petite
-sirène qui vient vous avertir: «Vous n’avez peut-être plus beaucoup de temps devant vous!». Vous
-voyez?
-8 Ainsi tous les jours de ma vie, je veux m’attendre à Lui. Tout le temps qu’il me reste, je veux
-l’employer à faire quelque chose quelque part, ne serait-ce que de me tenir aux coins des rues à
-rendre témoignage de la gloire et de l’honneur de Dieu. Et c’est dans ce but que je suis ici. J’ai un
-petit endroit secret là-haut à Green’s Mill dans l’Indiana. Ce n’est plus une ville mais un endroit où
-la nature est restée sauvage. Des gens s’en sont emparé et ils ne vous laissent même plus y
-poser un pied. Mais j’ai là-bas une grotte et ils ne pourront jamais voir comment je fais pour y
-entrer. J’y vais pendant la nuit et ils ne peuvent pas savoir comment j’y rentre ni comment j’en
-sors. Ils ne savent pas où se trouve la grotte et ne peuvent pas y entrer. Et je veux aller là-bas
-pour parler au Seigneur pendant quelque temps. Je sens que c’est une nécessité.
-9 Ma femme aimerait revenir ici avec Rébecca, et Sarah pour rendre visite à leurs amis; si le
-Seigneur le permet, nous serons ici pour les trois prochaines semaines.
-10 Et je pense qu’au lieu d’essayer d’entasser les gens tous ensemble ici au Tabernacle (bien
-sûr, ce Tabernacle appartient au Seigneur, c’est Lui qui nous l’a donné et l’air conditionné y a été
-installé), nous aimerions avoir un service le dimanche matin et un service le dimanche soir. Cela
-donnerait aux gens la possibilité de retourner chez eux et d’attendre jusqu’à la semaine suivante.
-11 Je ne pense pas que je pourrai prendre ce message du déversement des dernières coupes
-pour le distribuer officiellement car c’est un message très, très glorieux. Mais je pourrais prier pour
-les malades, puis apporter des messages à l’Eglise comme le Seigneur me les donnera. Pendant
-la semaine je vais sortir dans un de ces lieux déserts pour étudier, puis je reviendrai le dimanche
-matin pour avoir un service du dimanche matin, comme celui-ci, et un service du dimanche soir.
-12 J’ai demandé à notre bien-aimé pasteur, frère Neville, si cela lui convenait. Cela va le priver
-de tous les services mais il était plus que content de les abandonner.
-13 Je crois que frère Capps a aussi attrapé la fièvre des voyages. Je vois qu’il est parti ainsi que
-frère Humes. Et le Seigneur a placé frère Mann ici pour s’occuper de cet endroit. N’est-ce pas
-merveilleux comme le Seigneur fait les choses? Il fait en sorte que tout arrive en son temps.
-14 Lorsque je suis monté, j’ai entendu quelqu’un prêcher et j’ai dit: «Je crois que c’est frère
-Capps». Il venait de Tucson et je crois qu’il a vite été désillusionné; il faisait environ 43 degrés. Il
-ne voulut rien avoir à faire avec cela. Il est donc parti avec frère Humes et ils sont venus à
-Phoenix (et ici il fait 47 degrés et davantage). C’était encore pire et je crois qu’après cela, il est
-parti pour le Texas. Il cherche un endroit. Mais je peux vous dire qu’à cette époque de l’année,
-vous ne voulez pas de l’Arizona.
-15 L’autre jour, c’était vendredi dernier, Il faisait 60 degrés à Parker. C’est là qu’habite frère
-Craig de l’assemblée ici. Vous pouvez casser un oeuf, il sera frit avant de toucher le sol. Si vous
-essayez de cracher, vous vous apercevez que vous n’avez pas d’humidité dans la bouche. Il n’y a
-pas d’humidité, rien. A cette époque de l’année, c’est vraiment un four. Mais au moment de
-Novembre, décembre et janvier, c’est merveilleux. Et quand arrivent mars et avril, le mieux que
-vous ayez à faire est de partir si vous ne voulez pas suffoquer.
+4 Maintenant, pendant que je suis ici, je voudrais m’arranger avec les diacres et les anciens. Cela commence à être partout la même chose. Nous vivons dans les derniers jours, et l’Evangile n’a plus la prééminence qu’Il devrait avoir; Il n’a plus les droits qu’Il devrait avoir. Il a été mélangé à la politique et à toutes ces choses, pour donner une sorte d’union. Et c’est ce à quoi nous arriverons finalement, car la marque de la bête doit venir au moyen d’une union. Et nous savons que cela finira par un boycott; aucun homme ne pourra vendre ni acheter s’il n’a pas la marque de la bête.
 
-        http://www.cmpp.ch
+5 Maintenant j’aimerais voir avec les anciens … Je me sens conduit. De toute ma vie je n’ai jamais eu une telle faim de Dieu dans mon coeur. Vous voyez? Je veux avoir ma propre tente, comme le Seigneur m’en a donné la vision, et je crois que maintenant le temps est proche. Et pendant que je suis ici, je veux voir si nous ne pourrions pas obtenir la tente. Car alors quand nous allons dans des endroits comme ici à Jeffersonville, nous pourrions dresser cette tente et avoir des rencontres pendant deux ou trois semaines au lieu de trois ou quatre jours (vous voyez?), et personne ne pourrait rien y trouver à redire. Nous pouvons prendre un terrain de sport ou, s’il ne veulent pas nous le laisser, il y a des fermiers là autour qui nous laisseront une ferme. Nous louerons la ferme et monterons la tente. La seule chose que nous aurions à faire, ce serait de nous occuper des aménagements extérieurs, des commodités et toutes ces choses et cela pourrait se faire très facilement. Puis nous pourrons alors commencer à avoir nos services car c’est selon la vision du Seigneur. C’est de cette manière que cela doit se faire.
 
-    HONTEUX DE LUI                      4
-16 Il s’est donc trouvé que frère Capps et les autres sont venus juste à ce moment-là alors que
-j’aurais cru qu’ils auraient plutôt fui. Il se peut que le Seigneur ait fait cela dans un but précis. C’est
-ce que je crois; le Seigneur conduit les pas des justes.
-17 Cela semble quelquefois dur, comme l’autre jour pendant ce voyage en Afrique. J’étais
-tellement sûr de me déplacer selon la volonté du Seigneur parce qu’une année auparavant j’avais
-tenu une série de réunions dans le Sud. Je pense que cela venait de cette organisation qui avait
-dit: «Vous pouvez venir par les hommes d’affaire chrétiens, mais nous n’avons rien à faire avec
-cela”.
-18 Vous savez, je ne veux pas dresser comme cela les hommes les uns contre les autres, créer
-des conflits. Je veux qu’ils aient de bons sentiments les uns envers les autres. C’est pourquoi j’ai
-simplement dit (je leur ai écrit une lettre): «Souvenez-vous de…».
-19 Cela fait des années que j’essaye de retourner en Afrique car j’ai l’impression que mon
-ministère n’y est pas terminé. Pourquoi devrais-je aller en Afrique alors qu’ici, aux Etats-Unis, il y a
-six ou sept cents villes qui appellent? Juste ici, en restant au Canada, au Mexique ou n’importe
-lequel de ces endroits. Pourquoi voudrais-je aller là-bas? Mais c’est quelque chose dans mon
-coeur qui m’attire en Afrique. Il y a quelque chose que j’aime dans ces gens, et j’aimerais aller
-simplement pour les gens de couleur. Beaucoup de dirigeants pensent que je ne devrais pas aller.
-Mais je veux aller vers mes amis de couleur. C’est là que le Seigneur m’a appelé. Ces gens sont
-dans le besoin. Beaucoup parmi eux… Les Blancs peuvent avoir des médecins et toutes ces
-choses mais ces pauvres indigènes qui vivent là-bas sont à moitié dévorés par les maladies. J’ai
-l’impression qu’ils seraient susceptibles de recevoir cette Parole. Ils le seraient. Il y a quelque
-chose là-dedans. Si vous allez dans un lieu où les gens sont tellement instruits qu’ils connaissent
-tout, Dieu ne peut rien faire. Mais si vous allez dans un lieu où les gens veulent écouter et
-apprendre, alors c’est le temps de Dieu; Il va s’approcher et vous parler.
-20 Ainsi je leur ai écrit en disant: «Souvenez-vous qu’au Jour du Jugement, ces mains
-décharnées jailliront de la fumée pour vous condamner. Que leur sang retombe sur vous et non
-sur moi car cela fait dix ans que j’essaye de retourner là-bas».
-21 Puis après avoir posté la lettre, je suis revenu. Quelque chose en moi disait: «Va voir Sidney
-Jackson; pars pour une tournée de chasse». A ce même moment, le Seigneur parlait à Sidney
-Jackson et lui disait: «Crinière de lion, frère Branham, camping, Durban, grande rencontre».
-22 Il est déjà venu ici et vous a parlé. Il était fermement opposé au baptême dans le Nom de
-Jésus-Christ et sa femme était encore pire que lui; elle voulait tout simplement partir. Je peux
-vous dire que je n’avais jamais vu autant de gens fervents. Ils ont environ 150 pasteurs qui ont été
-baptisés dans le Nom de Jésus-Christ et ils sont tout simplement en train d’enflammer le pays. Le
-Message est en train de balayer l’Afrique; des aviateurs et de grands hommes viennent pour être
-baptisés dans le Nom de Jésus-Christ.
-23 Lorsque j’ai commencé à aller là-bas, je n’avais jamais rencontré autant de difficultés de toute
-ma vie. Et à la toute dernière minute, juste avant que je ne parte, cette note fut inscrite sur mon
-visa: «N’est autorisé à participer à aucune sorte de service religieux; peut seulement chasser».
-24 Eh bien, c’était classé; mais je dis: «Peut m’importe ce que fait le diable. Je ne peux pas
-prouver que frère Jackson sache quoi que ce soit au sujet de la crinière de lion et toutes ces
-choses. Mais je sais que Dieu m’a dit de voir Sidney Jackson et d’aller chasser et je sais que j’ai
-dit: «J’irai». Et ce fut l’un de mes plus grands voyages. J’ai pu découvrir ce qui n’allait pas.
-Maintenant, si le Seigneur le veut, je pourrai retourner en Afrique au mois d’octobre et avoir une
-rencontre, une pleine coopération et toutes ces choses. J’ai maintenant réussi à trouver les
-dessous de tout cela, à voir ce qui en était et quelle était la cause de ces choses.
-25 Si vous essayez de régler cela par lettre, vous en aurez un qui vous dira ceci, un autre qui
-vous dira autre chose, un troisième qui… La meilleure chose à faire est d’aller voir vous-même et
-je sais ce qui n’allait pas et quelle en était la raison. C’est parce que tant de gens se
-rassemblaient que le gouvernement ne voulait pas me laisser tenir ces réunions.
-26 Maintenant, si ce sont les Hommes d’Affaire Chrétiens ou n’importe quelle organisation qui
-nous introduisent, alors automatiquement le gouvernement… Comme les organisations sont
-représentées au gouvernement, celui-ci envoie une milice de protection.
+6 Et lorsque je suis venu hier pour m’occuper de ceci et cela, vous savez, je suis allé dans la rue et un de mes bons amis qui se promenait là m’a dit: «Hello, Billy». Je l’ai regardé; ses cheveux étaient blancs comme la neige et il avait pris du ventre. Ce garçon a mon âge! Lorsque j’étais enfant, nous avions l’habitude de jouer ensemble (c’était un beau jeune homme). Cela m’a fait un peu drôle. Mon petit garçon Joseph a dit: «Pourquoi es-tu triste, Papa?». Et j’ai dit: «Oh, je ne peux pas t’expliquer cela, Joseph. Vois-tu, je ne sais pas comment te dire».
 
-                      http://www.cmpp.ch
+7 Je suis en train de regarder «Lij Perry, Mme Perry, qui est assise là au fond. Et il me semble que c’est hier que ce couple avait les cheveux noirs; c’étaient mes voisins, nous avions alors le vieux bateau Wahoo et la nuit nous allions pêcher à la rivière. Et regardez, maintenant ils ont tous deux les cheveux blancs. Vous savez que cela signifie quelque chose pour moi; c’est une petite sirène qui vient vous avertir: «Vous n’avez peut-être plus beaucoup de temps devant vous!». Vous voyez?
 
-HONTEUX DE LUI 5
-27 S’il venait vingt-cinq hommes d’une organisation et vingt-cinq d’une autre, le gouvernement
-ne les recevrait pourtant pas. Il faut que ce soit la tête de l’organisation. Les Hommes d’Affaires
-Chrétiens sont une organisation non-sectaire qui représente toutes les églises. Le Dr Simon, qui
-est à leur tête, est un homme très bien; je l’ai rencontré et je lui ai parlé. Les Hommes d’Affaires
-Chrétiens organisent les rencontres et toutes les autres églises se rassemblent. Vous voyez? Et je
-crois que nous aurons une des plus grandes rencontres qu’il y ait jamais eu en Afrique.
-28 Mais mon point de vue est celui-ci: lorsque vous essayez de faire ce qui est juste, la
-première chose que vous faites est de sentir si vous êtes conduits à faire cette chose;
-ensuite vous vérifiez avec la Parole pour voir si c’est en accord avec Elle; alors que rien ne
-vous arrête. Peu m’importe combien de bâtons le diable va vous jeter dans les roues, passez
-simplement par-dessus tout cela.
-29 Lorsque je suis venu ici, j’ai dit à ma femme, à frère Wood et à quelques amis que j’ai
-rencontrés hier que cela fait environ cinq ans que je me demande ce que je dois faire ici. C’est
-très éprouvant nerveusement. Même le réveil dans les églises est mort; tout le monde le sait.
-Vous sentez cela ici dans ce tabernacle; vous le sentez partout. C’est frappant de sentir cette
-atmosphère de mort. Il y a tout simplement quelque chose qui n’est pas juste; c’est parce
-que le peuple n’a plus cet enthousiasme du réveil. Allez dans les églises et vous verrez les gens
-assis là tandis que le pasteur délivre un message hésitant et parle de choses et d’autres, et tout
-ce qu’ils vont retenir c’est la prochaine «party» qu’ils vont organiser. Il semble que tout soit
-étonnamment mort.
-30 Billy Graham l’a remarqué ainsi que Oral Roberts. Mr Allen a eu des ennuis comme vous le
-savez. Oral Roberts a ces immeubles de cinquante millions de dollars et toutes ces choses; il a
-une école. Et en ce moment, personne ne travaille à la moisson.
-31 Je suis parti d’ici parce que j’avais eu une vision m’indiquant que je devais aller à Tucson afin
-de voir ce que le Seigneur voulait que je fasse. Il est venu à ma rencontre là-haut, comme Il vous
-a dit ici qu’Il le ferait, sous la forme de sept Anges et m’a dit de retourner à Jeffersonville car les
-Sept Sceaux devaient être ouverts. C’est exactement ce qui est arrivé.
-32 Il a dit… Un jour que frère Wood était venu ici, nous sommes retournés à ce même endroit et
-avons jeté une pierre qui est descendue. Il a dit: «Encore un jour et une nuit (je ne me souviens
-plus quels sont les termes exacts qu’Il a employé) et vous verrez la gloire de Dieu». Et le jour
-suivant un tourbillon descendit des cieux, et nous savons ce qui arriva. Lorsque ce tourbillon s’en
-alla, ils demandèrent ce que c’était. Je dis: «Il a prononcé trois paroles dans trois rafales».
-L’homme n’a entendu que les rafales. J’ai compris ce qui avait été dit: «Jugement, Frapper, Côte
-Ouest». Deux jours plus tard, l’Alaska était sur le point de sombrer. Il y eut des coups de tonnerre,
-des tremblements de terre et toutes ces choses… Regardez simplement; chaque jour, il y a des
-tremblements de terre un peu partout.
-33 Lors de ma dernière rencontre, j’ai… Ce sera le premier message que je prêche réellement
-depuis ce moment. J’étais en train de prêcher à Los Angeles au Baltimore Auditorium et je parlais
-d’un homme choisissant une épouse. Vous en avez probablement l’enregistrement. Je disais que
-son choix reflète sa personnalité et ses ambitions. Lorsqu’un homme choisit une jeune fille
-pour qu’elle devienne sa femme et qu’il prend, vous savez, une fille moderne, une espèce de
-Ricketta, cela montre simplement que… S’il épouse une reine de beauté ou une reine du sexe ou
-quoi que ce soit, cela montre ce qu’il est réellement.
-34 Mais un chrétien recherche la personnalité chez une femme car il envisage de fonder
-un foyer avec cette femme. Il cherche une femme qui lui prépare un foyer. Et j’ai dit: «Alors
-Christ, selon Sa Parole ici, nous dit quel sera notre futur foyer. Quel genre de femme va-t-Il donc
-choisir? Une prostituée dénominationnelle? Jamais! Il choisira une femme qui a pris la
-personnalité de Sa Parole et elle sera Son Epouse».
-35 Et tandis que j’étais là-bas, quelque chose m’a frappé, et pendant environ trente minutes je
-n’ai pas su ce que c’était. C’est alors qu’une prophétie a été donnée. La première chose dont je
-me souvienne, c’est que j’étais en train de marcher dans la rue avec Frère Moseley et Billy. Et
-cette prophétie a dit: «Toi, Caphernaüm, qui t’appelles du nom des Anges (c’est Los Angeles,
-la ville des anges, vous voyez? Les anges), qui sont exaltés dans les cieux, tu descendras en
+8 Ainsi tous les jours de ma vie, je veux m’attendre à Lui. Tout le temps qu’il me reste, je veux l’employer à faire quelque chose quelque part, ne serait-ce que de me tenir aux coins des rues à rendre témoignage de la gloire et de l’honneur de Dieu. Et c’est dans ce but que je suis ici. J’ai un petit endroit secret là-haut à Green’s Mill dans l’Indiana. Ce n’est plus une ville mais un endroit où la nature est restée sauvage. Des gens s’en sont emparé et ils ne vous laissent même plus y poser un pied. Mais j’ai là-bas une grotte et ils ne pourront jamais voir comment je fais pour y entrer. J’y vais pendant la nuit et ils ne peuvent pas savoir comment j’y rentre ni comment j’en sors. Ils ne savent pas où se trouve la grotte et ne peuvent pas y entrer. Et je veux aller là-bas pour parler au Seigneur pendant quelque temps. Je sens que c’est une nécessité.
 
-        http://www.cmpp.ch
+9 Ma femme aimerait revenir ici avec Rébecca, et Sarah pour rendre visite à leurs amis; si le Seigneur le permet, nous serons ici pour les trois prochaines semaines.
 
-HONTEUX DE LUI 6
-enfer, car si les oeuvres puissantes qui ont été accomplies au milieu de toi avaient été
-faites au milieu de Sodome, elle existerait encore à ce jour». Et je sentais tout cela
-inconsciemment en moi. Vous voyez?
-36 Et tandis que je continuais de parler à l’Eglise et de l’exhorter à exalter Jésus-Christ, je dis:
-«Vous les femmes, peu vous importe combien je viens de prêcher contre ces choses… Vous,
-hommes, vous prédicateurs, vous faites constamment la même chose: vous foulez cela au pied
-comme si la Parole de Dieu n’était rien».
-37 Et lorsque j’ai eu compris cela, j’allai là-bas et dis: «Il y a une parole quelque part dans
-l’Ecriture à ce sujet». Et je trouvai qu’il s’agissait de Jésus réprimandant Capernaüm au bord de la
-mer. Cette nuit-là, une fois à la maison, je regardai dans les Ecritures, puis dans un livre d’histoire
-et je vis que Sodome et Gomorrhe furent un temps des villes prospères, le quartier général des
-nations dans le monde. Et vous savez que lors d’un tremblement de terre, cette ville sombra dans
-la mer morte. Et Jésus se tint là et dit: “Capernaüm, si les oeuvres qui ont été faites au milieu de
-toi avaient été faites au milieu de Sodome, elle existerait encore aujourd’hui; mais maintenant tu
-dois descendre en enfer”. Et environ deux ou trois cents ans après Sa prophétie, eh bien, toutes
-ces villes de la côte existaient encore mais Capernaüm se trouvait au fond de la mer. Un
-tremblement de terre l’a faite sombrer dans la mer.
-38 J’ai alors prophétisé que Los Angeles ira au fond de la mer; je suis ensuite rentré à la
-maison puis reparti pour l’Afrique, et pendant que j’étais en Afrique, il y a eu un tremblement de
-terre, et les scientifiques… Vous avez vu cela. Il y a même eu un reportage montrant que
-certaines de ces grandes et belles maisons de Los Angeles se sont écroulées ainsi qu’un motel.
-Et maintenant depuis ce tremblement de terre, il y a dans la terre une faille de deux ou trois
-pouces; elle part depuis l’Alaska, contourne les îles Aléoutiennes, s’avance jusqu’à une distance
-d’environ cent cinquante ou deux cents miles dans la mer, revient jusqu’à San Diego, passe en
-Californie (à Los Angeles) et ressort juste au Nord de la Californie, ici dans une petite ville appelée
-San José. Et ce scientifique était interviewé (j’étais en train de regarder la télévision) et il disait:
-«Juste en-dessous de tout cela, il y a de la lave qui bouillonne. Il y a un gros morceau qui va se
-détacher».
+10 Et je pense qu’au lieu d’essayer d’entasser les gens tous ensemble ici au Tabernacle (bien sûr, ce Tabernacle appartient au Seigneur, c’est Lui qui nous l’a donné et l’air conditionné y a été installé), nous aimerions avoir un service le dimanche matin et un service le dimanche soir. Cela donnerait aux gens la possibilité de retourner chez eux et d’attendre jusqu’à la semaine suivante.
+
+11 Je ne pense pas que je pourrai prendre ce message du déversement des dernières coupes pour le distribuer officiellement car c’est un message très, très glorieux. Mais je pourrais prier pour les malades, puis apporter des messages à l’Eglise comme le Seigneur me les donnera. Pendant la semaine je vais sortir dans un de ces lieux déserts pour étudier, puis je reviendrai le dimanche matin pour avoir un service du dimanche matin, comme celui-ci, et un service du dimanche soir.
+
+12 J’ai demandé à notre bien-aimé pasteur, frère Neville, si cela lui convenait. Cela va le priver de tous les services mais il était plus que content de les abandonner.
+
+13 Je crois que frère Capps a aussi attrapé la fièvre des voyages. Je vois qu’il est parti ainsi que frère Humes. Et le Seigneur a placé frère Mann ici pour s’occuper de cet endroit. N’est-ce pas merveilleux comme le Seigneur fait les choses? Il fait en sorte que tout arrive en son temps.
+
+14 Lorsque je suis monté, j’ai entendu quelqu’un prêcher et j’ai dit: «Je crois que c’est frère Capps». Il venait de Tucson et je crois qu’il a vite été désillusionné; il faisait environ 43 degrés. Il ne voulut rien avoir à faire avec cela. Il est donc parti avec frère Humes et ils sont venus à Phoenix (et ici il fait 47 degrés et davantage). C’était encore pire et je crois qu’après cela, il est parti pour le Texas. Il cherche un endroit. Mais je peux vous dire qu’à cette époque de l’année, vous ne voulez pas de l’Arizona.
+
+15 L’autre jour, c’était vendredi dernier, Il faisait 60 degrés à Parker. C’est là qu’habite frère Craig de l’assemblée ici. Vous pouvez casser un oeuf, il sera frit avant de toucher le sol. Si vous essayez de cracher, vous vous apercevez que vous n’avez pas d’humidité dans la bouche. Il n’y a pas d’humidité, rien. A cette époque de l’année, c’est vraiment un four. Mais au moment de Novembre, décembre et janvier, c’est merveilleux. Et quand arrivent mars et avril, le mieux que vous ayez à faire est de partir si vous ne voulez pas suffoquer.
+
+16 Il s’est donc trouvé que frère Capps et les autres sont venus juste à ce moment-là alors que j’aurais cru qu’ils auraient plutôt fui. Il se peut que le Seigneur ait fait cela dans un but précis. C’est ce que je crois; le Seigneur conduit les pas des justes.
+
+17 Cela semble quelquefois dur, comme l’autre jour pendant ce voyage en Afrique. J’étais tellement sûr de me déplacer selon la volonté du Seigneur parce qu’une année auparavant j’avais tenu une série de réunions dans le Sud. Je pense que cela venait de cette organisation qui avait dit: «Vous pouvez venir par les hommes d’affaire chrétiens, mais nous n’avons rien à faire avec cela”.
+
+18 Vous savez, je ne veux pas dresser comme cela les hommes les uns contre les autres, créer des conflits. Je veux qu’ils aient de bons sentiments les uns envers les autres. C’est pourquoi j’ai simplement dit (je leur ai écrit une lettre): «Souvenez-vous de…».
+
+19 Cela fait des années que j’essaye de retourner en Afrique car j’ai l’impression que mon ministère n’y est pas terminé. Pourquoi devrais-je aller en Afrique alors qu’ici, aux Etats-Unis, il y a six ou sept cents villes qui appellent? Juste ici, en restant au Canada, au Mexique ou n’importe lequel de ces endroits. Pourquoi voudrais-je aller là-bas? Mais c’est quelque chose dans mon coeur qui m’attire en Afrique. Il y a quelque chose que j’aime dans ces gens, et j’aimerais aller simplement pour les gens de couleur. Beaucoup de dirigeants pensent que je ne devrais pas aller. Mais je veux aller vers mes amis de couleur. C’est là que le Seigneur m’a appelé. Ces gens sont dans le besoin. Beaucoup parmi eux… Les Blancs peuvent avoir des médecins et toutes ces choses mais ces pauvres indigènes qui vivent là-bas sont à moitié dévorés par les maladies. J’ai l’impression qu’ils seraient susceptibles de recevoir cette Parole. Ils le seraient. Il y a quelque chose là-dedans. Si vous allez dans un lieu où les gens sont tellement instruits qu’ils connaissent tout, Dieu ne peut rien faire. Mais si vous allez dans un lieu où les gens veulent écouter et apprendre, alors c’est le temps de Dieu; Il va s’approcher et vous parler.
+
+20 Ainsi je leur ai écrit en disant: «Souvenez-vous qu’au Jour du Jugement, ces mains décharnées jailliront de la fumée pour vous condamner. Que leur sang retombe sur vous et non sur moi car cela fait dix ans que j’essaye de retourner là-bas».
+
+21 Puis après avoir posté la lettre, je suis revenu. Quelque chose en moi disait: «Va voir Sidney Jackson; pars pour une tournée de chasse». A ce même moment, le Seigneur parlait à Sidney Jackson et lui disait: «Crinière de lion, frère Branham, camping, Durban, grande rencontre».
+
+22 Il est déjà venu ici et vous a parlé. Il était fermement opposé au baptême dans le Nom de Jésus-Christ et sa femme était encore pire que lui; elle voulait tout simplement partir. Je peux vous dire que je n’avais jamais vu autant de gens fervents. Ils ont environ 150 pasteurs qui ont été baptisés dans le Nom de Jésus-Christ et ils sont tout simplement en train d’enflammer le pays. Le Message est en train de balayer l’Afrique; des aviateurs et de grands hommes viennent pour être baptisés dans le Nom de Jésus-Christ.
+
+23 Lorsque j’ai commencé à aller là-bas, je n’avais jamais rencontré autant de difficultés de toute ma vie. Et à la toute dernière minute, juste avant que je ne parte, cette note fut inscrite sur mon visa: «N’est autorisé à participer à aucune sorte de service religieux; peut seulement chasser».
+
+24 Eh bien, c’était classé; mais je dis: «Peut m’importe ce que fait le diable. Je ne peux pas prouver que frère Jackson sache quoi que ce soit au sujet de la crinière de lion et toutes ces choses. Mais je sais que Dieu m’a dit de voir Sidney Jackson et d’aller chasser et je sais que j’ai dit: «J’irai». Et ce fut l’un de mes plus grands voyages. J’ai pu découvrir ce qui n’allait pas. Maintenant, si le Seigneur le veut, je pourrai retourner en Afrique au mois d’octobre et avoir une rencontre, une pleine coopération et toutes ces choses. J’ai maintenant réussi à trouver les dessous de tout cela, à voir ce qui en était et quelle était la cause de ces choses.
+
+25 Si vous essayez de régler cela par lettre, vous en aurez un qui vous dira ceci, un autre qui vous dira autre chose, un troisième qui… La meilleure chose à faire est d’aller voir vous-même et je sais ce qui n’allait pas et quelle en était la raison. C’est parce que tant de gens se rassemblaient que le gouvernement ne voulait pas me laisser tenir ces réunions.
+
+26 Maintenant, si ce sont les Hommes d’Affaire Chrétiens ou n’importe quelle organisation qui nous introduisent, alors automatiquement le gouvernement… Comme les organisations sont représentées au gouvernement, celui-ci envoie une milice de protection.
+
+27 S’il venait vingt-cinq hommes d’une organisation et vingt-cinq d’une autre, le gouvernement ne les recevrait pourtant pas. Il faut que ce soit la tête de l’organisation. Les Hommes d’Affaires Chrétiens sont une organisation non-sectaire qui représente toutes les églises. Le Dr Simon, qui est à leur tête, est un homme très bien; je l’ai rencontré et je lui ai parlé. Les Hommes d’Affaires Chrétiens organisent les rencontres et toutes les autres églises se rassemblent. Vous voyez? Et je crois que nous aurons une des plus grandes rencontres qu’il y ait jamais eu en Afrique.
+
+28 Mais mon point de vue est celui-ci: lorsque vous essayez de faire ce qui est juste, la première chose que vous faites est de sentir si vous êtes conduits à faire cette chose; ensuite vous vérifiez avec la Parole pour voir si c’est en accord avec Elle; alors que rien ne vous arrête. Peu m’importe combien de bâtons le diable va vous jeter dans les roues, passez simplement par-dessus tout cela.
+
+29 Lorsque je suis venu ici, j’ai dit à ma femme, à frère Wood et à quelques amis que j’ai rencontrés hier que cela fait environ cinq ans que je me demande ce que je dois faire ici. C’est très éprouvant nerveusement. Même le réveil dans les églises est mort; tout le monde le sait. Vous sentez cela ici dans ce tabernacle; vous le sentez partout. C’est frappant de sentir cette atmosphère de mort. Il y a tout simplement quelque chose qui n’est pas juste; c’est parce que le peuple n’a plus cet enthousiasme du réveil. Allez dans les églises et vous verrez les gens assis là tandis que le pasteur délivre un message hésitant et parle de choses et d’autres, et tout ce qu’ils vont retenir c’est la prochaine «party» qu’ils vont organiser. Il semble que tout soit étonnamment mort.
+
+30 Billy Graham l’a remarqué ainsi que Oral Roberts. Mr Allen a eu des ennuis comme vous le savez. Oral Roberts a ces immeubles de cinquante millions de dollars et toutes ces choses; il a une école. Et en ce moment, personne ne travaille à la moisson.
+
+31 Je suis parti d’ici parce que j’avais eu une vision m’indiquant que je devais aller à Tucson afin de voir ce que le Seigneur voulait que je fasse. Il est venu à ma rencontre là-haut, comme Il vous a dit ici qu’Il le ferait, sous la forme de sept Anges et m’a dit de retourner à Jeffersonville car les Sept Sceaux devaient être ouverts. C’est exactement ce qui est arrivé.
+
+32 Il a dit… Un jour que frère Wood était venu ici, nous sommes retournés à ce même endroit et avons jeté une pierre qui est descendue. Il a dit: «Encore un jour et une nuit (je ne me souviens plus quels sont les termes exacts qu’Il a employé) et vous verrez la gloire de Dieu». Et le jour suivant un tourbillon descendit des cieux, et nous savons ce qui arriva. Lorsque ce tourbillon s’en alla, ils demandèrent ce que c’était. Je dis: «Il a prononcé trois paroles dans trois rafales». L’homme n’a entendu que les rafales. J’ai compris ce qui avait été dit: «Jugement, Frapper, Côte Ouest». Deux jours plus tard, l’Alaska était sur le point de sombrer. Il y eut des coups de tonnerre, des tremblements de terre et toutes ces choses… Regardez simplement; chaque jour, il y a des tremblements de terre un peu partout.
+
+33 Lors de ma dernière rencontre, j’ai… Ce sera le premier message que je prêche réellement depuis ce moment. J’étais en train de prêcher à Los Angeles au Baltimore Auditorium et je parlais d’un homme choisissant une épouse. Vous en avez probablement l’enregistrement. Je disais que son choix reflète sa personnalité et ses ambitions. Lorsqu’un homme choisit une jeune fille pour qu’elle devienne sa femme et qu’il prend, vous savez, une fille moderne, une espèce de Ricketta, cela montre simplement que… S’il épouse une reine de beauté ou une reine du sexe ou quoi que ce soit, cela montre ce qu’il est réellement.
+
+34 Mais un chrétien recherche la personnalité chez une femme car il envisage de fonder un foyer avec cette femme. Il cherche une femme qui lui prépare un foyer. Et j’ai dit: «Alors Christ, selon Sa Parole ici, nous dit quel sera notre futur foyer. Quel genre de femme va-t-Il donc choisir? Une prostituée dénominationnelle? Jamais! Il choisira une femme qui a pris la personnalité de Sa Parole et elle sera Son Epouse».
+
+35 Et tandis que j’étais là-bas, quelque chose m’a frappé, et pendant environ trente minutes je n’ai pas su ce que c’était. C’est alors qu’une prophétie a été donnée. La première chose dont je me souvienne, c’est que j’étais en train de marcher dans la rue avec Frère Moseley et Billy. Et cette prophétie a dit: «Toi, Caphernaüm, qui t’appelles du nom des Anges (c’est Los Angeles, la ville des anges, vous voyez? Les anges), qui sont exaltés dans les cieux, tu descendras en enfer, car si les oeuvres puissantes qui ont été accomplies au milieu de toi avaient été faites au milieu de Sodome, elle existerait encore à ce jour». Et je sentais tout cela inconsciemment en moi. Vous voyez?
+
+36 Et tandis que je continuais de parler à l’Eglise et de l’exhorter à exalter Jésus-Christ, je dis: «Vous les femmes, peu vous importe combien je viens de prêcher contre ces choses… Vous, hommes, vous prédicateurs, vous faites constamment la même chose: vous foulez cela au pied comme si la Parole de Dieu n’était rien».
+
+37 Et lorsque j’ai eu compris cela, j’allai là-bas et dis: «Il y a une parole quelque part dans l’Ecriture à ce sujet». Et je trouvai qu’il s’agissait de Jésus réprimandant Capernaüm au bord de la mer. Cette nuit-là, une fois à la maison, je regardai dans les Ecritures, puis dans un livre d’histoire et je vis que Sodome et Gomorrhe furent un temps des villes prospères, le quartier général des nations dans le monde. Et vous savez que lors d’un tremblement de terre, cette ville sombra dans la mer morte. Et Jésus se tint là et dit: “Capernaüm, si les oeuvres qui ont été faites au milieu de toi avaient été faites au milieu de Sodome, elle existerait encore aujourd’hui; mais maintenant tu dois descendre en enfer”. Et environ deux ou trois cents ans après Sa prophétie, eh bien, toutes ces villes de la côte existaient encore mais Capernaüm se trouvait au fond de la mer. Un tremblement de terre l’a faite sombrer dans la mer.
+
+38 J’ai alors prophétisé que Los Angeles ira au fond de la mer; je suis ensuite rentré à la maison puis reparti pour l’Afrique, et pendant que j’étais en Afrique, il y a eu un tremblement de terre, et les scientifiques… Vous avez vu cela. Il y a même eu un reportage montrant que certaines de ces grandes et belles maisons de Los Angeles se sont écroulées ainsi qu’un motel. Et maintenant depuis ce tremblement de terre, il y a dans la terre une faille de deux ou trois pouces; elle part depuis l’Alaska, contourne les îles Aléoutiennes, s’avance jusqu’à une distance d’environ cent cinquante ou deux cents miles dans la mer, revient jusqu’à San Diego, passe en Californie (à Los Angeles) et ressort juste au Nord de la Californie, ici dans une petite ville appelée San José. Et ce scientifique était interviewé (j’étais en train de regarder la télévision) et il disait: «Juste en-dessous de tout cela, il y a de la lave qui bouillonne. Il y a un gros morceau qui va se détacher».
+
 39 Et l’homme qui interviewait le scientifique dit: «Eh bien, il se pourrait alors que tout sombre?»
-     Il dit: «Pourrait? Cela doit arriver».
-     L’homme dit: «Bien sûr, nous avons encore beaucoup, beaucoup d’années devant nous».
-     Il dit: «Cela peut arriver dans cinq minutes ou dans cinq ans». Il n’a pas accordé plus de cinq
-ans.
-40 Mais aussi sûrement que je me tiens ici sous cette inspiration, un jugement a été porté
-contre cette côte Ouest, et il s’accomplira juste ici lors de l’engloutissement de Los
-Angeles; elle est perdue. C’est juste. Cela arrivera. Quand? Je ne sais pas.
-41 Mais, Oh! Que s’est-il passé? Vous savez que nous avons maintenant six continents alors
-que nous en avions sept. Nous avions en plus celui qui a sombré entre l’Afrique et l’Amérique du
-Sud… C’est quelque chose d’historique; vous connaissez cela.
-42 C’était un sermon que j’ai prêché quand… D’après ce que je sais, je crois que frère “Lij” Perry
-devait être diacre ici dans l’église à ce moment-là. Et dans ce sermon il était dit: «Le temps
-viendra (je ne savais pas cela jusqu’à ce que Mme Simpson m’apporte le sermon l’autre jour, il
-est écrit dans un petit livre) où l’océan se frayera un chemin dans le désert». C’était il y a trente
-ans. Et bien sûr, le “Salton Sea” se trouve à environ deux cents pieds au dessous du niveau de la
-mer, et lorsque se produira ce grand bouillonnement et que des centaines et des centaines de
-kilomètres carrés seront engloutis et sombreront dans la terre, cela provoquera un fameux raz-
-de-marée jusqu’en Arizona. Certainement!
-43 Oh, nous sommes au temps de la fin! Quelle heure glorieuse! L’apparition du Seigneur
-Jésus… Il a dit: “Il y aura des tremblements de terre en divers endroits, des perplexités à cause de
-ce temps, de la détresse entre les nations, le coeur de l’homme défaillera de peur…”. Il a dit:
-“Lorsque ces choses commenceront à se produire, relevez la tête, votre rédemption approche”.
-Oh, mon Dieu!
+    Il dit: «Pourrait? Cela doit arriver».
+    L’homme dit: «Bien sûr, nous avons encore beaucoup, beaucoup d’années devant nous».
+    Il dit: «Cela peut arriver dans cinq minutes ou dans cinq ans». Il n’a pas accordé plus de cinq ans.
 
+40 Mais aussi sûrement que je me tiens ici sous cette inspiration, un jugement a été porté contre cette côte Ouest, et il s’accomplira juste ici lors de l’engloutissement de Los Angeles; elle est perdue. C’est juste. Cela arrivera. Quand? Je ne sais pas.
 
-    http://www.cmpp.ch
+41 Mais, Oh! Que s’est-il passé? Vous savez que nous avons maintenant six continents alors que nous en avions sept. Nous avions en plus celui qui a sombré entre l’Afrique et l’Amérique du Sud… C’est quelque chose d’historique; vous connaissez cela.
 
-HONTEUX DE LUI 7
-        Les nations se disloquent;
-        Israël se réveille;
-        Ce sont les signes que les prophètes avaient prédits;
-        Les jours des Gentils sont comptés,
-        Ils sont accablés d’horreur;
-        Retourne, ô peuple dispersé vers les tiens (assurez-vous de faire cela.)
-        Ce jour de rédemption est proche;
-        Le coeur des hommes défaille de crainte;
-        Soyez remplis de l’Esprit de Dieu,
-        Que vos lampes soient préparées et propres;
-        Levez les yeux, votre rédemption est proche. (C’est juste.)
-        Les faux prophètes mentent;
-        Ils renient la vérité de Dieu,
-        Que Jésus le Christ est notre Dieu…
-44 Vous avez vu cette photo l’autre jour? Lorsque vous tournez cette photo de côté, vous pouvez
-voir ces sept Anges qui sont élevés. Et lorsque vous la tournez du côté droit, vous voyez le visage
-du Seigneur regardant en bas vers la terre. Souvenez-vous que lorsque j’ai prêché les sept âges
-de l’Eglise, je ne comprenais pas pourquoi Jésus se tenait là avec une perruque blanche sur la
-tête. Il était un jeune homme. Je regardai de nouveau dans la Bible et il était dit: “Il vient vers
-l’Ancien des jours, Celui dont les cheveux sont blancs comme la laine”. Jésus n’avait que trente
-trois ans et demi lors de Sa crucifixion.
-45 J’ai téléphoné à frère Jack Moore qui est théologien. Il a dit: «Oh, frère Branham, c’est Jésus
-sous Sa forme glorifiée. Après Sa mort, Son ensevelissement et Sa résurrection, Il est devenu
-comme cela». Cela sonnait très bien pour un théologien, mais pour moi, ce n’était pas bon; en
-quelque sorte, ce n’était pas convaincant.
-46 Je suis monté prêcher et j’ai commencé sur le premier Age de l’Eglise; c’est alors que le
-Saint-Esprit me l’a révélé. (Vous avez cela dans vos Ages de l’Eglise. Je crois que les livres vont
-sortir très prochainement, et il y aura tous les détails.) Et il est montré que Jésus était Juge. Les
-juges avaient autrefois l’habitude de porter une perruque blanche; en Angleterre ils le font
-toujours. Il avait l’Autorité suprême et on le voit en tournant la photo de ce côté; Le voici avec Ses
-cheveux noirs (vous voyez qu’ils sont noirs ici sur le côté de Sa barbe) et la perruque blanche. Il
-est au sommet de l’autorité; Il est l’Autorité suprême; même Dieu le Lui a dit: C’est mon
-Fils bien-aimé… Ecoutez-Le.
-47 Le voici avec les Anges, le Message, brisant ces Sept Sceaux qui révélèrent la semence du
-serpent et toutes ces choses; et on voit que c’est Sa couverture même, Son Autorité
-suprême. Il est Suprême et Il a une perruque, c’est-à-dire qu’Il est couvert. La Bible dit qu’Il a
-changé Son apparence, ou qu’Il s’est changé Lui-même “en morphe”. Ce mot vient d’un mot grec
-“en morphe” qui désignait un acteur grec jouant plusieurs rôles. Aujourd’hui, Il est une chose, et à
-l’acte suivant Il est autre chose. Il était Dieu le Père dans un acte, Dieu le Fils dans un autre acte
-et Dieu le Saint-Esprit dans cet acte-ci. Le voici, Sa Parole est toujours Suprême. Nous
-vivons dans les derniers jours.
-48 Lorsque je suis revenu d’Afrique l’autre jour, j’étais bien fatigué. Là-bas, c’est la nuit
-maintenant. C’est à cause du changement horaire. Nous avons eu un merveilleux voyage (une
-expédition de chasse), un des meilleurs que j’aie eus dans ma vie. Billy a quelques photos. Si
-vous en avez le temps, il peut se mettre quelque part pour vous montrer le voyage.
-49 J’ai fait un rêve. Je suis toujours en train de rêver que je retourne dans cette Compagnie de
-Service Public ou quelque chose ainsi. Et j’étais en train de manquer le travail. J’étais censé… Ils
-me laissaient me débrouiller tout seul. Et au lieu d’encaisser les factures ou ce que j’étais censé
-faire, je me suis dit: «Eh bien, je suis mon propre patron». Je suis tout simplement allé nager. Je
-suis descendu là-bas, j’ai ôté mes vêtements pour mettre mon maillot de bain. J’étais tout seul et
-j’ai pensé: «Eh bien, ce n’est pas juste. La Compagnie… C’est la journée, la Compagnie me paye
-pour travailler maintenant». Je pensais: «C’est étrange. Eh bien, l’argent que j’ai récolté sur la
-route…» J’avais à la fois la patrouille et la route, et je dis: «Eh bien, j’ai récolté de l’argent, j’ai fait
-quelque chose en patrouillant par là autour; j’ai perdu tous mes tickets et j’ai mélangé leur argent
+42 C’était un sermon que j’ai prêché quand… D’après ce que je sais, je crois que frère “Lij” Perry devait être diacre ici dans l’église à ce moment-là. Et dans ce sermon il était dit: «Le temps viendra (je ne savais pas cela jusqu’à ce que Mme Simpson m’apporte le sermon l’autre jour, il est écrit dans un petit livre) où l’océan se frayera un chemin dans le désert». C’était il y a trente ans. Et bien sûr, le “Salton Sea” se trouve à environ deux cents pieds au dessous du niveau de la mer, et lorsque se produira ce grand bouillonnement et que des centaines et des centaines de kilomètres carrés seront engloutis et sombreront dans la terre, cela provoquera un fameux raz-de-marée jusqu’en Arizona. Certainement!
 
-        http://www.cmpp.ch
+43 Oh, nous sommes au temps de la fin! Quelle heure glorieuse! L’apparition du Seigneur Jésus… Il a dit: “Il y aura des tremblements de terre en divers endroits, des perplexités à cause de ce temps, de la détresse entre les nations, le coeur de l’homme défaillera de peur…”. Il a dit: “Lorsque ces choses commenceront à se produire, relevez la tête, votre rédemption approche”. Oh, mon Dieu!
 
-HONTEUX DE LUI 8
-avec le mien. Maintenant comment vais-je savoir qui a payé sa facture?» Je pensais: «Tout cela
-parce que je n’ai pas fait attention! Ce n’est pas juste. Il ne me reste plus qu’une chose à faire,
-c’est de retourner vers le directeur et de tout lui raconter». (C’était Don Willis.)
-50 Je dis: «Don, j’ai perdu les tickets. Maintenant, voilà tout l’argent que j’ai, et il est mélangé
-avec leur argent. Laissons-le ici dans la caisse, et lorsque les gens viendront, on leur donnera un
-reçu».
-51 Il y a probablement des gens ici (je sais qu’il y en a) dont j’ai reçu de l’argent en ces jours-là
-et à qui j’ai donné un reçu. Vous savez, cela ne vous coûtait que dix pour cent de plus de laisser
-passer l’échéance de votre facture, ce qui fait que cela vous coûtait peut-être 1&50, c’est-à-dire
-environ 15 cents de plus. Les gens aimaient bien s’assembler et discuter et c’est pourquoi ils
-laissaient passer l’échéance de leur facture pour que je vienne discuter un moment avec eux. Ils
-donnaient 15 cents, vous savez, simplement pour pouvoir s’asseoir et discuter un moment
-pendant que j’encaissais les factures. Cela prenait donc de l’importance et il y avait tellement de
-factures à encaisser que je n’arrivais pas à tous les avoir. J’ai donc pensé que c’était la seule
-manière de faire cela et je me réveillai.
-52 Là où nous vivons, il y a soeur Larson (je ne pense pas qu’elle soit ici. Elle est très gentille
-avec nous, elle n’aime pas que je dise cela, mais c’est une dame très gentille) et nous lui avons
-loué des chambres. Elle a deux appartements (deux petits appartements ensemble) et nous avons
-loué les deux. Ma femme et moi dormons là-bas dans l’autre appartement où il m’arrive de
-recevoir des gens. Il y a là deux lits jumeaux. Je me suis réveillé (ma femme n’était pas encore
-réveillée). Au bout d’un moment, elle s’est réveillée. Je me suis penché vers elle, elle a regardé, a
-cligné des yeux deux ou trois fois. J’ai dit: «Tu as bien dormi?».
-     Elle a dit: «Non». Et j’ai dit: «J’ai eu un cauchemar des plus horribles. Je me suis de nouveau
-retrouvé à la Compagnie de Service Public. Qu’est-je donc fait?».
-53 Je me souviens que lorsque j’étais petit garçon, ou jeune homme, j’ai parcouru toutes ces
-lignes de Salem, Indiana et différentes autres… Un jour je suis entré pour m’acheter un petit
-déjeuner, peut-être un bol de flocons d’avoine. (Avec ce soleil brûlant et tout, cela vous rend
-malade de manger au petit déjeuner.) Je sortis alors dix cents en petite monnaie. Le directeur est
-descendu et a dit: «Qui est ce radin qui sort dix cents pour le petit déjeuner? Il vous faut au moins
-cinquante cents». Or vous savez tous que pour cinquante cents on avait un très gros déjeuner en
-ce temps-là. Et je dis: «Eh bien, je ne peux pas manger tout cela». Il dit: «Eh bien tous les autres
-sortent cinquante cents; il vous faut aussi sortir cinquante cents». Je dis: «Je n’en ai pas l’utilité».
-Il dit: «Sortez-les de toute façon». (C’était mon directeur.)
-54 Et je pensai: «Eh bien, que puis-je faire? Je dois payer cinquante cents et ne manger que
-pour dix». Je suis donc allé chercher dans la rue quelques enfants qui n’avaient pas eu de petit
-déjeuner et leur ai donné pour quarante cents de nourriture.
-55 Puis j’ai pensé: «Eh bien, je pourrais… Peut-être est-ce là ce qu’Il a contre moi». Je me
-souviens qu’ici, il n’y a pas très longtemps, une patrouille est venue; ils ont passé par l’arrière-cour
-qu’ils ont bouleversée, disant: «Envoyez votre facture». Vous savez qu’en tant que patrouille ils
-ont des droits, mais ils doivent payer pour les dégâts qu’ils ont faits. Je leur ai simplement répondu
-en disant: «Vous ne me devez rien». J’ai pensé: «Cela fera pour ces quarante cents. Il se peut
-que depuis j’ai dépensé vingt ou trente dollars que j’ai donnés à des enfants. Peut-être que…». Je
-continue à rêver.
-56 J’avais aussi un grand arbre là dehors sous lequel les enfants avaient l’habitude de jouer; et
-une patrouille est venue (maintenant, ils patrouillent en hélicoptère). L’homme est donc venu et
-m’a dit: «Billy, que penserais-tu de couper cet arbre?» «Non, ne le coupez pas, nous allons le
-tailler. Frère Wood et moi-même allons le tailler». Il dit: «Eh bien, je vais faire venir l’homme qui
-est avec moi pour qu’il le taille». Je dis: «Non, ne le coupez pas». Il dit: «Je ne vais pas le
-couper».
-57 Puis je suis parti pour un voyage, lorsque je suis revenu, l’arbre était coupé à raz le sol. Il
-aurait alors fallu que j’engage une poursuite, vous voyez. J’ai dit: «Eh bien, Seigneur, cela va
-éclaircir tout cela…». J’ai donc tout laissé tomber; c’était juste, il fallait simplement laisser aller.
+    Les nations se disloquent;
+    Israël se réveille;
+    Ce sont les signes que les prophètes avaient prédits;
+    Les jours des Gentils sont comptés,
+    Ils sont accablés d’horreur;
+    Retourne, ô peuple dispersé vers les tiens (assurez-vous de faire cela.)
+    Ce jour de rédemption est proche;
+    Le coeur des hommes défaille de crainte;
+    Soyez remplis de l’Esprit de Dieu,
+    Que vos lampes soient préparées et propres;
+    Levez les yeux, votre rédemption est proche. (C’est juste.)
+    Les faux prophètes mentent;
+    Ils renient la vérité de Dieu,
+    Que Jésus le Christ est notre Dieu…
 
-        http://www.cmpp.ch
+44 Vous avez vu cette photo l’autre jour? Lorsque vous tournez cette photo de côté, vous pouvez voir ces sept Anges qui sont élevés. Et lorsque vous la tournez du côté droit, vous voyez le visage du Seigneur regardant en bas vers la terre. Souvenez-vous que lorsque j’ai prêché les sept âges de l’Eglise, je ne comprenais pas pourquoi Jésus se tenait là avec une perruque blanche sur la tête. Il était un jeune homme. Je regardai de nouveau dans la Bible et il était dit: “Il vient vers l’Ancien des jours, Celui dont les cheveux sont blancs comme la laine”. Jésus n’avait que trente trois ans et demi lors de Sa crucifixion.
 
-HONTEUX DE LUI 9
-58 Eh bien, je rêve toujours de cela. Lorsque je me suis levé l’autre matin, j’ai dit: «Eh bien…».
-La première chose que nous devons faire le matin lorsque nous nous levons est de prier
-ensemble; puis nous devons aussi prier le soir en allant au lit. Après que ma femme se soit
-levée pour aller préparer le petit déjeuner des enfants, je me suis mis à prier: «Seigneur, je dois
-avoir été un horrible bonhomme. Qu’ai-je donc fait dans la vie pour que je n’arrive pas à me
-débarrasser de cette Compagnie de Service Public?». Je suis allé prendre un bain et alors que je
-ressortais, il m’a semblé que quelque chose me disait: «Il se peut que je triche dans Son travail».
-J’ai pensé: «Voici environ cinq ans que je n’ai rien fait, que je m’attends simplement à Lui».
-59 Alors que je me tenais là l’autre jour (ils nous ont construit une nouvelle maison là-haut), frère
-Moseley est descendu et a parlé de cette maison. J’ai dit: «C’est juste un petit don de mon Père».
-Et il s’est mis à pleurer. J’ai dit: «Voyez-vous, a-t-Il dit, si vous laissez vos foyers, vos maisons,
-vos terres, votre père, votre mère, je vous rendrai au centuple des maisons, terres, père et mère
-dans cette vie et vous hériterez de la Vie Eternelle». Je dis: «Tu vois, j’ai dû quitter ce tabernacle
-que j’aime tellement; j’ai dû quitter cette maison que le Seigneur m’a donnée. Et Il m’a tout
-simplement donné celle-ci en retour. Il est merveilleux. Tu vois?». Et il s’est mis à pleurer.
-60 J’ai dit: «J’ai dû venir ici et me retirer à part dans ce désert». Et j’ai pensé: «Je me demande
-pourquoi Dieu m’a amené dans un désert, là où il n’y a que des scorpions et des lézards
-monstrueux». Non seulement c’est un désert naturel (il y fait très chaud) mais c’est aussi un
-désert spirituel. Oh, mon Dieu! Il n’y a aucune vie spirituelle. Les églises sont contre… Oui, je n’ai
-jamais vu cela de ma vie. Nous n’avons même pas une église ou aller, rien. Les gens sont sur le
-point de périr spirituellement. J’ai remarqué cela dans les gens que l’on voit là-dehors, je les ai
-observés et j’ai vu ce qui les différenciait. Si vous demeurez sous l’Esprit de Dieu, votre vie
-prend un caractère doux, tendre, comme l’eau qui fait pousser l’herbe et ces doux
-bourgeons. En Arizona, cette herbe ne pourrait pas pousser. Ces arbres seraient des cactus. Ce
-serait la fin de ces feuilles qui se tourneraient en épines. C’est ainsi que cela se passe quand il
-commence à faire sec autour de l’église, les gens commencent à se piquer les uns les autres,
-vous savez… Vous voyez? Vous devez recevoir les douces eaux de la pluie pour être apaisés
-et produire des feuilles et de l’ombre pour les pèlerins qui passent.
-61 Ainsi quelque chose m’a dit: «Il se peut que tu triches avec le travail de Dieu». J’ai donc prié
-pour avoir une vision. Meda venait de m’offrir une nouvelle Bible et frère Brown de l’Ohio venait
-aussi de m’offrir une nouvelle Bible. Tous deux m’ont offert en même temps une nouvelle Bible à
-Noël. Je suis allé chercher une de ces nouvelles Bibles et j’ai dit: «Seigneur, aux jours anciens, Tu
-avais un urim et un thummim».
-62 Maintenant, laissez-moi dire ceci. Bien sûr, ils sont en train d’enregistrer cette réunion. C’est
-pourquoi je demande que… Laissez-moi dire ceci: ne faites pas cette chose; ce n’est pas bien,
-mais j’ai dit: «Seigneur, autrefois lorsque quelqu’un avait une vision, on l’amenait vers l’urim et le
-thummim et il racontait sa vision; et si l’urim et le thummim réfléchissaient la Lumière (la Lumière
-Surnaturelle), c’est que la vision était vraie». Je dis: «Mais nous n’en sommes plus au temps de la
-sacrificature et de ces urim et thummim. Maintenant, c’est Ta Bible qui est l’Urim et le Thummim.
-Seigneur, puissé-je ne jamais refaire cela; je T’ai demandé en priant de me donner une vision et
-de me dire pour quelle raison j’ai eu ces rêves. Et qu’ai-je donc fait? Si j’ai fait du mal ou quoi que
-ce soit à une personne n’importe où dans le monde, fais-le moi savoir; j’irai mettre cela en ordre.
-Si je dois quelque chose à la Compagnie de Service Public, si je leur ai fait quelque chose de mal
-ou à qui que ce soit d’autre, si je T’ai fait quelque chose de mal, fais-le moi savoir; je veux mettre
-cela en ordre». Mettez ces choses en ordre tout de suite; n’attendez pas, cela peut être trop
-tard, faites-le maintenant.
-63 Et je dis: «Il y a certainement quelque chose, une personne, dans cette Parole de Dieu entre
-la Genèse et l’Apocalypse avec qui Tu as eu affaire et qui a eu le même genre de problème que
-moi. Si dans la Bible il est question d’une personne ayant fait quelque chose et que Tu en aies eu
-après elle, montre-moi où cela se trouve. Quoi que cette personne ait fait, cela m’indiquera le
-chemin. Si j’ai fait quelque chose de faux, ou que Tu veuilles que je fasse ou ne fasse pas
-quelque chose, montre moi un personnage dans la Bible qui me soit un exemple». Puis je fermai
-les yeux en laissant simplement ma Bible ouverte; je posai mon doigt sur un passage de l’Ecriture,
-c’était Genèse 24.7 où il est question d’Eliézer, le fidèle serviteur d’Abraham, le serviteur modèle
+45 J’ai téléphoné à frère Jack Moore qui est théologien. Il a dit: «Oh, frère Branham, c’est Jésus sous Sa forme glorifiée. Après Sa mort, Son ensevelissement et Sa résurrection, Il est devenu comme cela». Cela sonnait très bien pour un théologien, mais pour moi, ce n’était pas bon; en quelque sorte, ce n’était pas convaincant.
 
-        http://www.cmpp.ch
+46 Je suis monté prêcher et j’ai commencé sur le premier Age de l’Eglise; c’est alors que le Saint-Esprit me l’a révélé. (Vous avez cela dans vos Ages de l’Eglise. Je crois que les livres vont sortir très prochainement, et il y aura tous les détails.) Et il est montré que Jésus était Juge. Les juges avaient autrefois l’habitude de porter une perruque blanche; en Angleterre ils le font toujours. Il avait l’Autorité suprême et on le voit en tournant la photo de ce côté; Le voici avec Ses cheveux noirs (vous voyez qu’ils sont noirs ici sur le côté de Sa barbe) et la perruque blanche. Il est au sommet de l’autorité; Il est l’Autorité suprême; même Dieu le Lui a dit: C’est mon Fils bien-aimé… Ecoutez-Le.
 
-HONTEUX DE LUI 10
-de la Bible, envoyé à la recherche d’une épouse pour Isaac. Je sentis des frissons me
-parcourir.
-64 C’est certainement en accord avec le reste du Message: faire sortir l’Epouse. Il dit:
-«Jure que tu ne prendras pas une épouse parmi ces femmes mais que tu iras vers mon propre
-peuple». Il dit: «Que ferai-je si la femme ne veut pas me suivre?». Abraham dit: «Tu seras alors
-délié de ce serment. Le Dieu du Ciel enverra Son Ange devant toi afin de te conduire». Il partit
-immédiatement et commença à prier, puis il rencontra la belle Rébecca qui devint l’épouse
-d’Isaac.
-65 C’était un parfait message qui ramenait tout simplement à la Parole. «Va chercher cette
-Epouse». C’est un devoir; c’est pour cela que je suis ici; c’est cela que j’essaye de faire: appeler
-une Epouse à sortir.
-66 Souvenez-vous qu’ici en Californie, j’avais eu cette vision de l’Epouse. Je vis tout d’abord
-cette Epouse qui venait, puis s’en allait; ensuite venaient Miss Amérique, Miss Asie et toutes ces
-choses plus horribles les unes que les autres; puis cette même Epouse passa à nouveau. L’une
-d’entre elles perdit la cadence et je l’aidai à retrouver la cadence (en fait il y en avait deux); et c’est
-là ce que je suis censé faire: maintenir cette Epouse dans le rythmes.
-67 Je dis: «Oh, Dieu, je retourne à la maison, je vais renouveler mes voeux et recommencer
-depuis le départ». C’est donc ce que nous avons l’intention de faire; c’est pour cela que je suis ici.
-68 Je pense que ce serait une bonne chose si nous faisions comme ceci: nous pourrions
-commencer le 18, dimanche prochain, continuer dimanche soir, puis le dimanche suivant et
-encore celui d’après. Combien pensent que ce serait une bonne chose? Merci.
-69 Maintenant je veux que vous fassiez quelque chose pour moi. Si vous avez informé les gens
-qu’il y aurait une rencontre le 28, voulez-vous leur dire qu’elle ne pourra pas avoir lieu? Ecrivez-
-leur une lettre ou quelque chose. Nous ne voulons pas que les gens viennent et soient déçus;
-nous n’avons pas pu obtenir l’auditorium. Vous voyez, nous n’avons pas pu l’avoir. Lors de la
-dernière rencontre il est venu tellement de monde là-haut qu’ils ont simplement… Vous savez
-comment est le public et ils ont… Nous vivons simplement dans les derniers jours, c’est tout. Ils
-prétendent que les gens qui viennent là dérangent l’école, qu’ils sont venus trop tôt, qu’ils ont fait
-ceci et cela; la salle était trop bondée et le capitaine des pompiers a fait ceci et cela. Vous
-connaissez ces choses. Nous allons donc parler de ces Coupes et de ces Trompettes. Je veux les
-introduire, je vous avais dit que je voulais faire cela. Elles viennent d’autre chose; ces Coupes
-viennent quand sonnent les Trompettes. Mais nous voulons les parcourir entièrement et les lire
-ensemble.
-70 Combien ont lu ce que frère Vayle a réécrit à ce sujet en l’arrangeant et en corrigeant les
-fautes de grammaire pour moi? En avez-vous lu une partie? Oui? Deux ou trois d’entre vous. Je
-crois que c’est vraiment un bon travail que vous avez fait, frère Vayle, un bon travail. Je crois que
-c’est soeur Vayle qui a fait cela, puis vous l’avez simplement recopié en disant que… Vous voyez
-que je ne suis pas contre les femmes, n’est-ce pas, soeur Vayle?
-71 Maintenant pendant les quinze ou vingt prochaines minutes, nous allons lire dans l’Ecriture
-ici. J’ai là un petit livre. Je crois qu’il est à frère Vayle, je vous avais dit, ou bien à qui est-il donc?
-Je crois que c’est celui de frère Roy Borders. Frère Vayle m’a acheté le livre. Je veux faire un petit
-répertoire. Mais si quelqu’un a déjà jeté un coup d’oeil à ce que j’appelle des notes… Si par
-exemple, je veux prêcher au sujet de l’Etoile du Matin, je dessinerai une étoile, et si je veux
-prêcher sur… Tout cela est représenté par des symboles ici dans mon bloc-notes. Personne ne
-peut savoir de quoi il s’agit.
-72 Lorsque je sors et que je suis en route et que la voiture a des à-coups, il m’arrive de penser à
-quelque chose, alors je peux noter cela ici et inscrire ceci et cela, je peux faire des petits signes,
-dessiner des ponts et toutes sortes de choses. Si je veux prêcher sur l’Etoile qui descend, je
-dessinerai une pyramide ici et mettrai l’Etoile à six pointes de David en train de descendre; et ainsi
-je peux savoir où j’en suis dans les Ecritures. Alors que maintenant, pour me rappeler par exemple
-de ce qu’a fait Moïse, je n’ai ici que des pattes de mouche. J’en ai plusieurs comme cela ici et
-c’est à cela que je pensais ce matin en voyant cette note au sujet de laquelle j’avais l’intention de
-parler quelques minutes (cela m’aurait peut-être pris une vingtaine de minutes). Mais ce soir, je ne
+47 Le voici avec les Anges, le Message, brisant ces Sept Sceaux qui révélèrent la semence du serpent et toutes ces choses; et on voit que c’est Sa couverture même, Son Autorité suprême. Il est Suprême et Il a une perruque, c’est-à-dire qu’Il est couvert. La Bible dit qu’Il a changé Son apparence, ou qu’Il s’est changé Lui-même “en morphe”. Ce mot vient d’un mot grec “en morphe” qui désignait un acteur grec jouant plusieurs rôles. Aujourd’hui, Il est une chose, et à l’acte suivant Il est autre chose. Il était Dieu le Père dans un acte, Dieu le Fils dans un autre acte et Dieu le Saint-Esprit dans cet acte-ci. Le voici, Sa Parole est toujours Suprême. Nous vivons dans les derniers jours.
 
-        http://www.cmpp.ch
+48 Lorsque je suis revenu d’Afrique l’autre jour, j’étais bien fatigué. Là-bas, c’est la nuit maintenant. C’est à cause du changement horaire. Nous avons eu un merveilleux voyage (une expédition de chasse), un des meilleurs que j’aie eus dans ma vie. Billy a quelques photos. Si vous en avez le temps, il peut se mettre quelque part pour vous montrer le voyage.
+
+49 J’ai fait un rêve. Je suis toujours en train de rêver que je retourne dans cette Compagnie de Service Public ou quelque chose ainsi. Et j’étais en train de manquer le travail. J’étais censé… Ils me laissaient me débrouiller tout seul. Et au lieu d’encaisser les factures ou ce que j’étais censé faire, je me suis dit: «Eh bien, je suis mon propre patron». Je suis tout simplement allé nager. Je suis descendu là-bas, j’ai ôté mes vêtements pour mettre mon maillot de bain. J’étais tout seul et j’ai pensé: «Eh bien, ce n’est pas juste. La Compagnie… C’est la journée, la Compagnie me paye pour travailler maintenant». Je pensais: «C’est étrange. Eh bien, l’argent que j’ai récolté sur la route…» J’avais à la fois la patrouille et la route, et je dis: «Eh bien, j’ai récolté de l’argent, j’ai fait quelque chose en patrouillant par là autour; j’ai perdu tous mes tickets et j’ai mélangé leur argent avec le mien. Maintenant comment vais-je savoir qui a payé sa facture?» Je pensais: «Tout cela parce que je n’ai pas fait attention! Ce n’est pas juste. Il ne me reste plus qu’une chose à faire, c’est de retourner vers le directeur et de tout lui raconter». (C’était Don Willis.)
+
+50 Je dis: «Don, j’ai perdu les tickets. Maintenant, voilà tout l’argent que j’ai, et il est mélangé avec leur argent. Laissons-le ici dans la caisse, et lorsque les gens viendront, on leur donnera un reçu».
+
+51 Il y a probablement des gens ici (je sais qu’il y en a) dont j’ai reçu de l’argent en ces jours-là et à qui j’ai donné un reçu. Vous savez, cela ne vous coûtait que dix pour cent de plus de laisser passer l’échéance de votre facture, ce qui fait que cela vous coûtait peut-être 1&50, c’est-à-dire environ 15 cents de plus. Les gens aimaient bien s’assembler et discuter et c’est pourquoi ils laissaient passer l’échéance de leur facture pour que je vienne discuter un moment avec eux. Ils donnaient 15 cents, vous savez, simplement pour pouvoir s’asseoir et discuter un moment pendant que j’encaissais les factures. Cela prenait donc de l’importance et il y avait tellement de factures à encaisser que je n’arrivais pas à tous les avoir. J’ai donc pensé que c’était la seule manière de faire cela et je me réveillai.
+
+52 Là où nous vivons, il y a soeur Larson (je ne pense pas qu’elle soit ici. Elle est très gentille avec nous, elle n’aime pas que je dise cela, mais c’est une dame très gentille) et nous lui avons loué des chambres. Elle a deux appartements (deux petits appartements ensemble) et nous avons loué les deux. Ma femme et moi dormons là-bas dans l’autre appartement où il m’arrive de recevoir des gens. Il y a là deux lits jumeaux. Je me suis réveillé (ma femme n’était pas encore réveillée). Au bout d’un moment, elle s’est réveillée. Je me suis penché vers elle, elle a regardé, a cligné des yeux deux ou trois fois. J’ai dit: «Tu as bien dormi?».
+    Elle a dit: «Non». Et j’ai dit: «J’ai eu un cauchemar des plus horribles. Je me suis de nouveau retrouvé à la Compagnie de Service Public. Qu’est-je donc fait?».
+
+53 Je me souviens que lorsque j’étais petit garçon, ou jeune homme, j’ai parcouru toutes ces lignes de Salem, Indiana et différentes autres… Un jour je suis entré pour m’acheter un petit déjeuner, peut-être un bol de flocons d’avoine. (Avec ce soleil brûlant et tout, cela vous rend malade de manger au petit déjeuner.) Je sortis alors dix cents en petite monnaie. Le directeur est descendu et a dit: «Qui est ce radin qui sort dix cents pour le petit déjeuner? Il vous faut au moins cinquante cents». Or vous savez tous que pour cinquante cents on avait un très gros déjeuner en ce temps-là. Et je dis: «Eh bien, je ne peux pas manger tout cela». Il dit: «Eh bien tous les autres sortent cinquante cents; il vous faut aussi sortir cinquante cents». Je dis: «Je n’en ai pas l’utilité». Il dit: «Sortez-les de toute façon». (C’était mon directeur.)
+
+54 Et je pensai: «Eh bien, que puis-je faire? Je dois payer cinquante cents et ne manger que pour dix». Je suis donc allé chercher dans la rue quelques enfants qui n’avaient pas eu de petit déjeuner et leur ai donné pour quarante cents de nourriture.
+
+55 Puis j’ai pensé: «Eh bien, je pourrais… Peut-être est-ce là ce qu’Il a contre moi». Je me souviens qu’ici, il n’y a pas très longtemps, une patrouille est venue; ils ont passé par l’arrière-cour qu’ils ont bouleversée, disant: «Envoyez votre facture». Vous savez qu’en tant que patrouille ils ont des droits, mais ils doivent payer pour les dégâts qu’ils ont faits. Je leur ai simplement répondu en disant: «Vous ne me devez rien». J’ai pensé: «Cela fera pour ces quarante cents. Il se peut que depuis j’ai dépensé vingt ou trente dollars que j’ai donnés à des enfants. Peut-être que…». Je continue à rêver.
+
+56 J’avais aussi un grand arbre là dehors sous lequel les enfants avaient l’habitude de jouer; et une patrouille est venue (maintenant, ils patrouillent en hélicoptère). L’homme est donc venu et m’a dit: «Billy, que penserais-tu de couper cet arbre?» «Non, ne le coupez pas, nous allons le tailler. Frère Wood et moi-même allons le tailler». Il dit: «Eh bien, je vais faire venir l’homme qui est avec moi pour qu’il le taille». Je dis: «Non, ne le coupez pas». Il dit: «Je ne vais pas le couper».
+
+57 Puis je suis parti pour un voyage, lorsque je suis revenu, l’arbre était coupé à raz le sol. Il aurait alors fallu que j’engage une poursuite, vous voyez. J’ai dit: «Eh bien, Seigneur, cela va éclaircir tout cela…». J’ai donc tout laissé tomber; c’était juste, il fallait simplement laisser aller.
+
+58 Eh bien, je rêve toujours de cela. Lorsque je me suis levé l’autre matin, j’ai dit: «Eh bien…». La première chose que nous devons faire le matin lorsque nous nous levons est de prier ensemble; puis nous devons aussi prier le soir en allant au lit. Après que ma femme se soit levée pour aller préparer le petit déjeuner des enfants, je me suis mis à prier: «Seigneur, je dois avoir été un horrible bonhomme. Qu’ai-je donc fait dans la vie pour que je n’arrive pas à me débarrasser de cette Compagnie de Service Public?». Je suis allé prendre un bain et alors que je ressortais, il m’a semblé que quelque chose me disait: «Il se peut que je triche dans Son travail». J’ai pensé: «Voici environ cinq ans que je n’ai rien fait, que je m’attends simplement à Lui».
+
+59 Alors que je me tenais là l’autre jour (ils nous ont construit une nouvelle maison là-haut), frère Moseley est descendu et a parlé de cette maison. J’ai dit: «C’est juste un petit don de mon Père». Et il s’est mis à pleurer. J’ai dit: «Voyez-vous, a-t-Il dit, si vous laissez vos foyers, vos maisons, vos terres, votre père, votre mère, je vous rendrai au centuple des maisons, terres, père et mère dans cette vie et vous hériterez de la Vie Eternelle». Je dis: «Tu vois, j’ai dû quitter ce tabernacle que j’aime tellement; j’ai dû quitter cette maison que le Seigneur m’a donnée. Et Il m’a tout simplement donné celle-ci en retour. Il est merveilleux. Tu vois?». Et il s’est mis à pleurer.
+
+60 J’ai dit: «J’ai dû venir ici et me retirer à part dans ce désert». Et j’ai pensé: «Je me demande pourquoi Dieu m’a amené dans un désert, là où il n’y a que des scorpions et des lézards monstrueux». Non seulement c’est un désert naturel (il y fait très chaud) mais c’est aussi un désert spirituel. Oh, mon Dieu! Il n’y a aucune vie spirituelle. Les églises sont contre… Oui, je n’ai jamais vu cela de ma vie. Nous n’avons même pas une église ou aller, rien. Les gens sont sur le point de périr spirituellement. J’ai remarqué cela dans les gens que l’on voit là-dehors, je les ai observés et j’ai vu ce qui les différenciait. Si vous demeurez sous l’Esprit de Dieu, votre vie prend un caractère doux, tendre, comme l’eau qui fait pousser l’herbe et ces doux bourgeons. En Arizona, cette herbe ne pourrait pas pousser. Ces arbres seraient des cactus. Ce serait la fin de ces feuilles qui se tourneraient en épines. C’est ainsi que cela se passe quand il commence à faire sec autour de l’église, les gens commencent à se piquer les uns les autres, vous savez… Vous voyez? Vous devez recevoir les douces eaux de la pluie pour être apaisés et produire des feuilles et de l’ombre pour les pèlerins qui passent.
+
+61 Ainsi quelque chose m’a dit: «Il se peut que tu triches avec le travail de Dieu». J’ai donc prié pour avoir une vision. Meda venait de m’offrir une nouvelle Bible et frère Brown de l’Ohio venait aussi de m’offrir une nouvelle Bible. Tous deux m’ont offert en même temps une nouvelle Bible à Noël. Je suis allé chercher une de ces nouvelles Bibles et j’ai dit: «Seigneur, aux jours anciens, Tu avais un urim et un thummim».
+
+62 Maintenant, laissez-moi dire ceci. Bien sûr, ils sont en train d’enregistrer cette réunion. C’est pourquoi je demande que… Laissez-moi dire ceci: ne faites pas cette chose; ce n’est pas bien, mais j’ai dit: «Seigneur, autrefois lorsque quelqu’un avait une vision, on l’amenait vers l’urim et le thummim et il racontait sa vision; et si l’urim et le thummim réfléchissaient la Lumière (la Lumière Surnaturelle), c’est que la vision était vraie». Je dis: «Mais nous n’en sommes plus au temps de la sacrificature et de ces urim et thummim. Maintenant, c’est Ta Bible qui est l’Urim et le Thummim. Seigneur, puissé-je ne jamais refaire cela; je T’ai demandé en priant de me donner une vision et de me dire pour quelle raison j’ai eu ces rêves. Et qu’ai-je donc fait? Si j’ai fait du mal ou quoi que ce soit à une personne n’importe où dans le monde, fais-le moi savoir; j’irai mettre cela en ordre. Si je dois quelque chose à la Compagnie de Service Public, si je leur ai fait quelque chose de mal ou à qui que ce soit d’autre, si je T’ai fait quelque chose de mal, fais-le moi savoir; je veux mettre cela en ordre». Mettez ces choses en ordre tout de suite; n’attendez pas, cela peut être trop tard, faites-le maintenant.
+
+63 Et je dis: «Il y a certainement quelque chose, une personne, dans cette Parole de Dieu entre la Genèse et l’Apocalypse avec qui Tu as eu affaire et qui a eu le même genre de problème que moi. Si dans la Bible il est question d’une personne ayant fait quelque chose et que Tu en aies eu après elle, montre-moi où cela se trouve. Quoi que cette personne ait fait, cela m’indiquera le chemin. Si j’ai fait quelque chose de faux, ou que Tu veuilles que je fasse ou ne fasse pas quelque chose, montre moi un personnage dans la Bible qui me soit un exemple». Puis je fermai les yeux en laissant simplement ma Bible ouverte; je posai mon doigt sur un passage de l’Ecriture, c’était Genèse 24.7 où il est question d’Eliézer, le fidèle serviteur d’Abraham, le serviteur modèle de la Bible, envoyé à la recherche d’une épouse pour Isaac. Je sentis des frissons me parcourir.
+
+64 C’est certainement en accord avec le reste du Message: faire sortir l’Epouse. Il dit: «Jure que tu ne prendras pas une épouse parmi ces femmes mais que tu iras vers mon propre peuple». Il dit: «Que ferai-je si la femme ne veut pas me suivre?». Abraham dit: «Tu seras alors délié de ce serment. Le Dieu du Ciel enverra Son Ange devant toi afin de te conduire». Il partit immédiatement et commença à prier, puis il rencontra la belle Rébecca qui devint l’épouse d’Isaac.
+
+65 C’était un parfait message qui ramenait tout simplement à la Parole. «Va chercher cette Epouse». C’est un devoir; c’est pour cela que je suis ici; c’est cela que j’essaye de faire: appeler une Epouse à sortir.
+
+66 Souvenez-vous qu’ici en Californie, j’avais eu cette vision de l’Epouse. Je vis tout d’abord cette Epouse qui venait, puis s’en allait; ensuite venaient Miss Amérique, Miss Asie et toutes ces choses plus horribles les unes que les autres; puis cette même Epouse passa à nouveau. L’une d’entre elles perdit la cadence et je l’aidai à retrouver la cadence (en fait il y en avait deux); et c’est là ce que je suis censé faire: maintenir cette Epouse dans le rythmes.
+
+67 Je dis: «Oh, Dieu, je retourne à la maison, je vais renouveler mes voeux et recommencer depuis le départ». C’est donc ce que nous avons l’intention de faire; c’est pour cela que je suis ici.
+
+68 Je pense que ce serait une bonne chose si nous faisions comme ceci: nous pourrions commencer le 18, dimanche prochain, continuer dimanche soir, puis le dimanche suivant et encore celui d’après. Combien pensent que ce serait une bonne chose? Merci.
+
+69 Maintenant je veux que vous fassiez quelque chose pour moi. Si vous avez informé les gens qu’il y aurait une rencontre le 28, voulez-vous leur dire qu’elle ne pourra pas avoir lieu? Ecrivez-leur une lettre ou quelque chose. Nous ne voulons pas que les gens viennent et soient déçus; nous n’avons pas pu obtenir l’auditorium. Vous voyez, nous n’avons pas pu l’avoir. Lors de la dernière rencontre il est venu tellement de monde là-haut qu’ils ont simplement… Vous savez comment est le public et ils ont… Nous vivons simplement dans les derniers jours, c’est tout. Ils prétendent que les gens qui viennent là dérangent l’école, qu’ils sont venus trop tôt, qu’ils ont fait ceci et cela; la salle était trop bondée et le capitaine des pompiers a fait ceci et cela. Vous connaissez ces choses. Nous allons donc parler de ces Coupes et de ces Trompettes. Je veux les introduire, je vous avais dit que je voulais faire cela. Elles viennent d’autre chose; ces Coupes viennent quand sonnent les Trompettes. Mais nous voulons les parcourir entièrement et les lire ensemble.
+
+70 Combien ont lu ce que frère Vayle a réécrit à ce sujet en l’arrangeant et en corrigeant les fautes de grammaire pour moi? En avez-vous lu une partie? Oui? Deux ou trois d’entre vous. Je crois que c’est vraiment un bon travail que vous avez fait, frère Vayle, un bon travail. Je crois que c’est soeur Vayle qui a fait cela, puis vous l’avez simplement recopié en disant que… Vous voyez que je ne suis pas contre les femmes, n’est-ce pas, soeur Vayle?
+
+71 Maintenant pendant les quinze ou vingt prochaines minutes, nous allons lire dans l’Ecriture ici. J’ai là un petit livre. Je crois qu’il est à frère Vayle, je vous avais dit, ou bien à qui est-il donc? Je crois que c’est celui de frère Roy Borders. Frère Vayle m’a acheté le livre. Je veux faire un petit répertoire. Mais si quelqu’un a déjà jeté un coup d’oeil à ce que j’appelle des notes… Si par exemple, je veux prêcher au sujet de l’Etoile du Matin, je dessinerai une étoile, et si je veux prêcher sur… Tout cela est représenté par des symboles ici dans mon bloc-notes. Personne ne peut savoir de quoi il s’agit.
+
+72 Lorsque je sors et que je suis en route et que la voiture a des à-coups, il m’arrive de penser à quelque chose, alors je peux noter cela ici et inscrire ceci et cela, je peux faire des petits signes, dessiner des ponts et toutes sortes de choses. Si je veux prêcher sur l’Etoile qui descend, je dessinerai une pyramide ici et mettrai l’Etoile à six pointes de David en train de descendre; et ainsi je peux savoir où j’en suis dans les Ecritures. Alors que maintenant, pour me rappeler par exemple de ce qu’a fait Moïse, je n’ai ici que des pattes de mouche. J’en ai plusieurs comme cela ici et c’est à cela que je pensais ce matin en voyant cette note au sujet de laquelle j’avais l’intention de parler quelques minutes (cela m’aurait peut-être pris une vingtaine de minutes). Mais ce soir, je ne
 
 HONTEUX DE LUI 11
 veux pas prendre du temps sur le service de frère Neville. Ce soir, je veux me reposer et l’écouter;
@@ -588,7 +299,7 @@ place, cela montre que vous n’avez pas d’assurance.
 dont je parle, Etre honteux de la Parole.
 83 Lui et la Parole sont une même personne: “Au commencement était la Parole; et la Parole
 était avec Dieu, et la Parole était Dieu… Et la Parole devint chair, et habita au milieu de nous… Il
-est le même hier, aujourd’hui et pour toujours”.
+est le même hier, aujourd’hui et pour toujours".
 
         http://www.cmpp.ch
 
@@ -602,12 +313,12 @@ lorsqu’Elle dit: «Ces signes accompagneront ceux qui auront cru?». Oh, même
 mettent à rougir. Vous voyez? Avez-vous honte, par exemple, de la guérison divine? Avez-vous
 honte du Plein Evangile? Avez-vous honte de votre expérience de pentecôte? C’est cela être
 honteux de Sa Parole, cette Parole qui est faite chair en vous.
-86 Sa Parole doit donc vivre par Elle-même pour chaque génération. Elle a vécu par Elle-
-même du temps de Moïse, car la Bible dit dans Hébreux au premier chapitre: “Dieu, à plusieurs
-reprises et en plusieurs manières, parla aux pères par les prophètes…”. L’église a tellement tordu
-tout cela que lorsque ces prophètes… Ces audacieux messagers de Dieu vinrent sans église,
-sans dénomination, sans organisation, sans rien, et ils défièrent des rois, des royaumes, des
-églises et toutes choses.
+86 Sa Parole doit donc vivre par Elle-même pour chaque génération. Elle a vécu par
+Elle-même du temps de Moïse, car la Bible dit dans Hébreux au premier chapitre: “Dieu, à
+plusieurs reprises et en plusieurs manières, parla aux pères par les prophètes…”. L’église a
+tellement tordu tout cela que lorsque ces prophètes… Ces audacieux messagers de Dieu vinrent
+sans église, sans dénomination, sans organisation, sans rien, et ils défièrent des rois, des
+royaumes, des églises et toutes choses.
 87 Lorsque ces prophètes furent amenés devant les prêtres, ils n’eurent pas honte car ils avaient
 directement le «Ainsi dit le Seigneur!». Remarquez que le prophète de l’Ancien Testament,
 dans un certain sens de la Parole, lorsqu’il prononce le «Ainsi dit le Seigneur», (maintenant,
@@ -702,7 +413,6 @@ chemin. Combien aimeraient entendre frère Branham venir vous montrer le vérita
 cette chose, levez la main?». Et quelque chose comme cinq mille personnes s’écrièrent: «Qu’il
 vienne pour un jour!».
 
-
                       http://www.cmpp.ch
 
 HONTEUX DE LUI 14
@@ -723,7 +433,7 @@ passer qui fait que vous ne pouvez pas faire cela. Il doit s’agir de ce jour m
 Jésus: les gens ont honte de la Parole et de l’Esprit de Dieu qui agit en eux. Mais lorsque la
 Vérité est clairement révélée aux gens, c’est alors Dieu Lui-même qui se révèle au travers
 de la Parole. N’importe qui peut avoir tant de prétentions que c’en est horrible. De nos jours, les
-gens ont toutes sortes de prétentions. Mais voyez-vous, s’il y a une Vérité, Elle doit venir par
+ gens ont toutes sortes de prétentions. Mais voyez-vous, s’il y a une Vérité, Elle doit venir par
 la Parole; on dit qu’ils ont toutes sortes de choses: de l’huile coule parmi ces gens, du sang sort
 de leurs mains, les femmes ont du sang qui leur coule depuis le dos jusqu’aux chaussures, ils
 lèvent leurs chaussures et de l’huile s’en écoule, des grenouilles montent sur la plate-forme et en
@@ -780,7 +490,7 @@ même hier, aujourd’hui et pour toujours?”. Qu’arriverait-il si quelqu’u
 c’était un philosophe, c’était un homme bon, un prophète, mais en ce qui concerne sa
 puissance…».
 110 L’autre soir, je parlais avec George Smith, le garçon qui sort avec ma fille Rebecca. C’est un
-gentil garçon, il a chanté ici au Tabernacle. C’était un Baptiste et il a dit: «Otez mon nom de cela;
+ gentil garçon, il a chanté ici au Tabernacle. C’était un Baptiste et il a dit: «Otez mon nom de cela;
 je ne veux rien avoir à faire avec cela”. il y avait aussi une jeune dame. Il y avait eu une
 conférence dans une certaine église baptiste là-haut sur les collines, et là-bas ils sont tous
 tellement opposés à moi. En fait, ils n’ont rien contre moi, mais contre cette Parole. Ils ne
@@ -881,8 +591,8 @@ descendre de la grêle du ciel.
 122 Vous savez, dans les derniers jours, ces plaies sont censées se répéter à nouveau. Et
 souvenez-vous que dans la Bible, ceux qui commettaient l’adultère étaient condamnés à
 mourir par lapidation; et l’église incroyante sera lapidée à mort par des grêlons de pierre.
-Ce fut une fois le châtiment de Dieu. Il lapidera ce monde incroyant, cette génération adultère. Il le
-lapidera depuis le ciel avec des grêlons de pierre pesant chacun un talent ce qui représente
+Ce fut une fois le châtiment de Dieu. Il lapidera ce monde incroyant, cette génération adultère. Il
+le lapidera depuis le ciel avec des grêlons de pierre pesant chacun un talent ce qui représente
 quarante-cinq kilos. L’église adultère mourra, le monde adultère mourra sous le châtiment de
 Dieu, il sera lapidé comme cela arriva au début. Eglise, mets-toi en ordre avec Dieu! C’est ce
 que nous devons tous faire, nous devons retourner à Dieu!
@@ -963,9 +673,9 @@ Non! Ils n’eurent certainement pas honte de cela car ils avaient la connaissan
 lui, il ramassa la mâchoire d’une mule. Or les casques de ces Philistins avaient une épaisseur
 d’environ cinq centimètres d’airain. Il en a battu un millier avec sa mâchoire. Il tenait encore la
 mâchoire à la main. Il n’a pas été dans l’embarras. Il ramassa simplement ce qu’il avait sous la
-main et se mit au travail avec cela. Il savait que l’Esprit de Dieu était sur lui. Il savait qu’il était
-né nazaréen. Il savait que rien ne pouvait l’arrêter; il était serviteur de Dieu. Tant qu’il restait
-dans la volonté de Dieu, rien ne pouvait se mettre en travers de son chemin et peu importait
+main et se mit au travail avec cela. Il savait que l’Esprit de Dieu était sur lui. Il savait qu’il
+était né nazaréen. Il savait que rien ne pouvait l’arrêter; il était serviteur de Dieu. Tant qu’il
+restait dans la volonté de Dieu, rien ne pouvait se mettre en travers de son chemin et peu importait
 le nombre de rois, de Philistins ou quoi que ce soit qui s’élevaient. C’est juste.
 136 Jean n’eut pas honte de la Parole de Dieu qui vint à lui dans le désert et lui dit d’aller baptiser
 d’eau. Il n’eut pas honte de dire: “Voici l’Agneau de Dieu qui ôte le péché du monde”, car
@@ -1041,87 +751,18 @@ Lui-même représenté au travers de nos propres corps mortels? Qui pourrait avo
                       http://www.cmpp.ch
 
 HONTEUX DE LUI 20
-148 S’il se trouvait que je fasse partie du corps de police ici à Jeffersonville et que je descende ici
-la rue avec toutes les autorités, je n’aurais pas honte de la ville; je ferais partie de la ville; je serais
-un policier. Je ferais partie de la ville pour y maintenir l’ordre et la diriger. Si un homme brûlait un
-feu rouge, je n’aurais pas honte de lui dire qu’il n’agit pas bien, de lui coller une contravention.
-C’est mon devoir car je suis payé par la ville; c’est la ville qui me fait vivre, j’ai reçu l’autorité de la
-ville. Peu importe si cet homme était ivre ou quoi que ce soit qui n’allait pas, la ville me
-soutiendrait. Je tiendrais ferme car j’ai été établi policier, j’ai été placé là et on m’a donné
-l’autorité pour faire cela. Vous êtes censé vous assurer de ce que la loi et le droit soient bien
-appliqués.
-149 Et si vous êtes un chrétien et que vous avez été rempli du Saint-Esprit, que vous portez le
-témoignage de la résurrection de Jésus-Christ selon lequel Il est le même, hier, aujourd’hui et
-pour toujours, ne laissez aucun démon essayer de vous écarter en disant: “Tu ne fais pas ceci et
-tu ne fais pas cela”. Vous le faites assurément. C’est Dieu qui vous a donné le… Vous voyez,
-nous n’avons pas de puissance. Ce policier n’a pas de puissance pour arrêter une voiture. C’est
-parfois un moteur de trois ou quatre cents chevaux de puissance; que pourrait-il faire contre cela?
-Mais il a l’autorité. C’est l’Eglise. Nous avons reçu l’autorité par la résurrection de Jésus-
-Christ et par Sa Parole promise! Alléluia! “Les choses que je fais, vous les ferez aussi; et vous
-en ferez de plus grandes, car je m’en vais au Père”.
-150 N’ayez pas honte de Lui dans cette génération pécheresse et pleine de confusion, cette
-dernière génération sur terre. C’est une génération pécheresse remplie d’adultères et de
-blessures en putréfaction. Tout ce qui était décent est devenu indécent. La politique nationale
-est souillée, les nations sont brisées. Même là-bas dans les jungles africaines, les chasseurs des
-safaris ont emporté de puissantes radios pour écouter Elvis Presley, Pat Boone et tous ces gars
-qui font du rock ’n’ roll et du twist. Et les indigènes qui les voient agir comme cela en secouant la
-tête, s’efforcent d’agir de la même manière; vous pouvez les voir se tenir debout et regarder à ce
-chanteur. Mais vous voyez, ce ne sont pas des Américains comme Pat Boone, Elvis Presley et
-Ricky Nelson et tous ces gars. Ce ne sont pas des Judas de cette sorte. Mais vous voyez, il y a
-un esprit et cet esprit ne se trouve pas seulement en Amérique; il s’est répandu dans le
-monde entier pour préparer la bataille d’Armagédon. Ils n’avaient pas l’habitude d’agir ainsi.
-Simplement par le fait qu’un seul homme a commencé cela, cette vulgarité et cette saleté s’est
-répandue sur toute la terre, sur toute nation, quelle qu’elle soit (Afrique, Inde, partout)
-151 De même, l’Evangile et la Puissance du Dieu Tout-Puissant se sont répandus tout
-autour du monde! Et le temps de la séparation est en train de s’établir; Dieu appelle une
-Epouse et le diable appelle une église. Que je fasse partie de l’Epouse! Prions.
-152 O Dieu bien-aimé, nous voyons l’écriture sur le mur; nous en sommes au temps de la fin.
-Nous savons que de grandes choses restent encore à faire, pourtant quelque part en dehors de
-ce gâchis se trouvent encore d’honnêtes gens qui ont été appelés à la Vie. Il serait impossible
-qu’un homme ou deux le fassent, mais permets, ô Dieu, que tous ensemble nous puissions
-répandre dans chaque coin la Bonne Nouvelle selon laquelle Jésus vient; puissions-nous
-répandre un peu de Pain sur le chemin, un peu de Parole. Partout où sont les Aigles, ils suivront
-cette Nourriture. Qu’Elle vienne par cassettes, par la parole ou par un témoignage, les Aigles La
-suivront jusque dans Son quartier Général. Car il est écrit: “Là où se trouve la carcasse, là
-s’assembleront les Aigles”.
-153 Jésus bien-aimé, nous savons que Tu es la Carcasse que nous mangeons. Tu es la
-Parole et la Parole a été faite chair et habita parmi nous. Nous Te prions, ô Dieu, que lorsque
-nous dispersons la Parole, les véritables Aigles la trouvent. Fais en sorte que nous n’ayons pas
-honte lorsque nous nous tenons devant les gens méchants, indifférents, religieux ou quoi qu’ils
-soient. Comme Paul le disait à Timothée, soyons prêts en temps et hors de temps, reprenant,
-réprimandant avec toute la patience de la doctrine, car le temps vient où ils ne supporteront plus la
-saine doctrine, mais chercheront leur propre convoitise, et ayant des oreilles qui les démangent,
-ils s’établiront des docteurs qui se détourneront de la Vérité vers des fables. O Dieu, nous vivons
-en ce jour. Tu m’as laissé vivre assez longtemps pour voir cela arriver, comme cela a été écrit
-dans la pierre angulaire de ce tabernacle il y a trente trois ans aujourd’hui.
+148 S’il se trouvait que je fasse partie du corps de police ici à Jeffersonville et que je descende ici la rue avec toutes les autorités, je n’aurais pas honte de la ville; je ferais partie de la ville; je serais un policier. Je ferais partie de la ville pour y maintenir l’ordre et la diriger. Si un homme brûlait un feu rouge, je n’aurais pas honte de lui dire qu’il n’agit pas bien, de lui coller une contravention. C’est mon devoir car je suis payé par la ville; c’est la ville qui me fait vivre, j’ai reçu l’autorité de la ville. Peu importe si cet homme était ivre ou quoi que ce soit qui n’allait pas, la ville me soutiendrait. Je tiendrais ferme car j’ai été établi policier, j’ai été placé là et on m’a donné l’autorité pour faire cela. Vous êtes censé vous assurer de ce que la loi et le droit soient bien appliqués.
+149 Et si vous êtes un chrétien et que vous avez été rempli du Saint-Esprit, que vous portez le témoignage de la résurrection de Jésus-Christ selon lequel Il est le même, hier, aujourd’hui et pour toujours, ne laissez aucun démon essayer de vous écarter en disant: “Tu ne fais pas ceci et tu ne fais pas cela”. Vous le faites assurément. C’est Dieu qui vous a donné le… Vous voyez, nous n’avons pas de puissance. Ce policier n’a pas de puissance pour arrêter une voiture. C’est parfois un moteur de trois ou quatre cents chevaux de puissance; que pourrait-il faire contre cela? Mais il a l’autorité. C’est l’Eglise. Nous avons reçu l’autorité par la résurrection de Jésus-Christ et par Sa Parole promise! Alléluia! “Les choses que je fais, vous les ferez aussi; et vous en ferez de plus grandes, car je m’en vais au Père”.
+150 N’ayez pas honte de Lui dans cette génération pécheresse et pleine de confusion, cette dernière génération sur terre. C’est une génération pécheresse remplie d’adultères et de blessures en putréfaction. Tout ce qui était décent est devenu indécent. La politique nationale est souillée, les nations sont brisées. Même là-bas dans les jungles africaines, les chasseurs des safaris ont emporté de puissantes radios pour écouter Elvis Presley, Pat Boone et tous ces gars qui font du rock ’n’ roll et du twist. Et les indigènes qui les voient agir comme cela en secouant la tête, s’efforcent d’agir de la même manière; vous pouvez les voir se tenir debout et regarder à ce chanteur. Mais vous voyez, ce ne sont pas des Américains comme Pat Boone, Elvis Presley et Ricky Nelson et tous ces gars. Ce ne sont pas des Judas de cette sorte. Mais vous voyez, il y a un esprit et cet esprit ne se trouve pas seulement en Amérique; il s’est répandu dans le monde entier pour préparer la bataille d’Armagédon. Ils n’avaient pas l’habitude d’agir ainsi. Simplement par le fait qu’un seul homme a commencé cela, cette vulgarité et cette saleté s’est répandue sur toute la terre, sur toute nation, quelle qu’elle soit (Afrique, Inde, partout)
+151 De même, l’Evangile et la Puissance du Dieu Tout-Puissant se sont répandus tout autour du monde! Et le temps de la séparation est en train de s’établir; Dieu appelle une Epouse et le diable appelle une église. Que je fasse partie de l’Epouse! Prions.
+152 O Dieu bien-aimé, nous voyons l’écriture sur le mur; nous en sommes au temps de la fin. Nous savons que de grandes choses restent encore à faire, pourtant quelque part en dehors de ce gâchis se trouvent encore d’honnêtes gens qui ont été appelés à la Vie. Il serait impossible qu’un homme ou deux le fassent, mais permets, ô Dieu, que tous ensemble nous puissions répandre dans chaque coin la Bonne Nouvelle selon laquelle Jésus vient; puissions-nous répandre un peu de Pain sur le chemin, un peu de Parole. Partout où sont les Aigles, ils suivront cette Nourriture. Qu’Elle vienne par cassettes, par la parole ou par un témoignage, les Aigles La suivront jusque dans Son quartier Général. Car il est écrit: “Là où se trouve la carcasse, là s’assembleront les Aigles”.
+153 Jésus bien-aimé, nous savons que Tu es la Carcasse que nous mangeons. Tu es la Parole et la Parole a été faite chair et habita parmi nous. Nous Te prions, ô Dieu, que lorsque nous dispersons la Parole, les véritables Aigles la trouvent. Fais en sorte que nous n’ayons pas honte lorsque nous nous tenons devant les gens méchants, indifférents, religieux ou quoi qu’ils soient. Comme Paul le disait à Timothée, soyons prêts en temps et hors de temps, reprenant, réprimandant avec toute la patience de la doctrine, car le temps vient où ils ne supporteront plus la saine doctrine, mais chercheront leur propre convoitise, et ayant des oreilles qui les démangent, ils s’établiront des docteurs qui se détourneront de la Vérité vers des fables. O Dieu, nous vivons en ce jour. Tu m’as laissé vivre assez longtemps pour voir cela arriver, comme cela a été écrit dans la pierre angulaire de ce tabernacle il y a trente trois ans aujourd’hui.
 
         http://www.cmpp.ch
 
 HONTEUX DE LUI 21
-154 Que Dieu bénisse chacun ici. Il se peut, Seigneur, qu’il y en ait qui ne sont pas encore
-prêts à Te rencontrer, parce qu’ils ne peuvent tout simplement pas être en accord avec Ta
-Parole, parce qu’ils ne T’ont pas rencontré face à face — non au moyen d’un acte quelconque
-ou en acceptant un credo ou quoi que ce soit — parce qu’ils ont rencontré le Dieu Vivant. S’ils
-n’ont pas fait cela, Seigneur, puissent-ils le faire juste maintenant. Je crois qu’à cette heure, Tu es
-très proche. Je ne sais pas qui ils sont. Je ne sais même pas s’il y en a , mais je me sens
-simplement conduit à Te prier. Non afin que les gens m’entendent, car ce serait hypocrite. Loin de
-moi cette idée, ô Dieu; je ne veux pas être un hypocrite. Mais je prie avec sincérité dans mon
-coeur afin que quelle que soit la personne à qui Tu as parlé ce matin, elle puisse humblement et
-sans avoir honte Te recevoir au plus profond de son coeur, afin qu’elle puisse venir ce soir
-être baptisée dans le Nom de Jésus-Christ et suivre chaque parole. Si ces personnes ont été
-baptisées de manière différente, si elles ont été aspergées, arrosées, souviens-Toi, Seigneur, que
-Tu as dit: “Quiconque ôtera un mot de ce Livre ou y ajoutera un mot, sa part sera retranchée du
-Livre de Vie”. Même si cette personne essaye de venir inscrire son nom sur le Livre, cela ne
-marchera pas. Il faut être sincère et humble. Maintenant, ils sont entre Tes mains, Seigneur. Tu
-agis avec eux comme Tu le juges bon car ils sont à Toi. Au nom de Jésus-Christ, le Fils de Dieu.
-155 Maintenant tandis que nos têtes sont inclinées, je veux que vous pensiez sérieusement à
-cela. Tout d’abord je m’excuse pour les quelques quinze minutes de retard. Nous voulons
-maintenant fredonner un cantique afin que vous puissiez simplement penser dans votre coeur:
-«Ai-je réellement rencontré Dieu?” Pensez-y vraiment sincèrement car il n’y aura plus
-beaucoup d’occasions; il se peut que ce soit maintenant la dernière fois que nous nous
-rencontrons avant Sa venue. C’est très proche, mes amis. Il semble que chaque Ecriture soit sur
-le point de s’accomplir. Cela peut être pour vous ou pour moi. Il se peut que ce soit notre dernière
-chance. Il se peut qu’avant cette nuit, nous soyons partis.
+154 Que Dieu bénisse chacun ici. Il se peut, Seigneur, qu’il y en ait qui ne sont pas encore prêts à Te rencontrer, parce qu’ils ne peuvent tout simplement pas être en accord avec Ta Parole, parce qu’ils ne T’ont pas rencontré face à face — non au moyen d’un acte quelconque ou en acceptant un credo ou quoi que ce soit — parce qu’ils ont rencontré le Dieu Vivant. S’ils n’ont pas fait cela, Seigneur, puissent-ils le faire juste maintenant. Je crois qu’à cette heure, Tu es très proche. Je ne sais pas qui ils sont. Je ne sais même pas s’il y en a , mais je me sens simplement conduit à Te prier. Non afin que les gens m’entendent, car ce serait hypocrite. Loin de moi cette idée, ô Dieu; je ne veux pas être un hypocrite. Mais je prie avec sincérité dans mon coeur afin que quelle que soit la personne à qui Tu as parlé ce matin, elle puisse humblement et sans avoir honte Te recevoir au plus profond de son coeur, afin qu’elle puisse venir ce soir être baptisée dans le Nom de Jésus-Christ et suivre chaque parole. Si ces personnes ont été baptisées de manière différente, si elles ont été aspergées, arrosées, souviens-Toi, Seigneur, que Tu as dit: “Quiconque ôtera un mot de ce Livre ou y ajoutera un mot, sa part sera retranchée du Livre de Vie”. Même si cette personne essaye de venir inscrire son nom sur le Livre, cela ne marchera pas. Il faut être sincère et humble. Maintenant, ils sont entre Tes mains, Seigneur. Tu agis avec eux comme Tu le juges bon car ils sont à Toi. Au nom de Jésus-Christ, le Fils de Dieu.
+155 Maintenant tandis que nos têtes sont inclinées, je veux que vous pensiez sérieusement à cela. Tout d’abord je m’excuse pour les quelques quinze minutes de retard. Nous voulons maintenant fredonner un cantique afin que vous puissiez simplement penser dans votre coeur: «Ai-je réellement rencontré Dieu?” Pensez-y vraiment sincèrement car il n’y aura plus beaucoup d’occasions; il se peut que ce soit maintenant la dernière fois que nous nous rencontrons avant Sa venue. C’est très proche, mes amis. Il semble que chaque Ecriture soit sur le point de s’accomplir. Cela peut être pour vous ou pour moi. Il se peut que ce soit notre dernière chance. Il se peut qu’avant cette nuit, nous soyons partis.
         …J’irai avec Lui tout le long du chemin.
         J’entends mon Sauveur qui m’appelle, (Avez-vous honte de moi et de ma
         Parole?)
@@ -1146,60 +787,25 @@ chance. Il se peut qu’avant cette nuit, nous soyons partis.
         ….avec lui au travers du Jugement, (Eprouve-moi, Seigneur, afin de voir s’il
         reste quoi que ce soit d’impur en moi.)
         …avec Lui, avec Lui tout le long du chemin.
-156 Père, ce matin nous Te remercions pour toutes ces mains. Je n’ai pas pu voir une seule
-personne, mais j’ai vu qu’elles avaient levé les mains. Je Te remercie, Seigneur. Il n’y en a aucun
-qui n’ait pas levé la main; ils sont prêts à passer au travers du Jugement. Juge-nous, Seigneur, et
-s’il y a quoi que ce soit de faux en nous, pardonne-nous, Père. Donne-nous Ta grâce car nous ne
+156 Père, ce matin nous Te remercions pour toutes ces mains. Je n’ai pas pu voir une seule personne, mais j’ai vu qu’elles avaient levé les mains. Je Te remercie, Seigneur. Il n’y en a aucun qui n’ait pas levé la main; ils sont prêts à passer au travers du Jugement. Juge-nous, Seigneur, et s’il y a quoi que ce soit de faux en nous, pardonne-nous, Père. Donne-nous Ta grâce car nous ne
 
         http://www.cmpp.ch
 
 HONTEUX DE LUI 22
-voulons pas rencontrer Ton Jugement si la grâce n’est pas présente. Comme la grâce est
-présente maintenant, nous Te prions, ô Dieu, de nous juger et de nous pardonner nos
-péchés selon Ta Parole et Ta promesse; fais en sorte que nous puissions vivre pour Toi tous les
-jours de notre vie et que nous puissions ne pas avoir honte de l’Evangile.
-157 Maintenant, Père, si c’est Ta volonté, nous commencerons directement avec trois dimanches
-de rencontres. Prépare nos coeurs pour cela, Seigneur. Prépare-moi, ô Dieu. Je suis celui qui a
-tellement besoin de Toi. Je Te prie de me guider et de me diriger dans les choses que je devrai
-dire et faire dans ces jours à venir. Guide et dirige notre précieux frère Neville qui est un de Tes
-vaillants serviteurs, Seigneur, ainsi que frère Mann et les diacres de l’église, les administrateurs et
-toutes les personnes qui sont assemblées ici. Prépare-nous, Seigneur, afin que nous soyons
-capables d’être de véritables chrétiens qui puissent amener les pécheurs à Toi, amener les
-membres d’église à connaître le Dieu que nous connaissons et que nous avons rencontré
-personnellement, afin qu’Il devienne aussi leur Dieu.
-158 Maintenant, Père, cela, nous ne pouvons pas le faire. Nous ne pouvons pas les envoyer; mais
-Toi, Esprit Saint, Tu te meus sur les gens, sur les membres d’église. C’est comme pour la petite
-expérience que j’ai eue l’autre matin avec Toi: «Va chercher une Epouse pour mon Fils.
-Prends-la parmi le peuple, parmi les églises; fais sortir cette Epouse”. Laisse-moi prier
-maintenant, Seigneur, afin que Tu envoies Rebecca; j’essaierai d’être Eliézer. Aide-moi à être
-une serviteur fidèle et puisse le Dieu du Ciel envoyer son Ange devant moi, devant nous,
-afin qu’ensemble nous rassemblions les personnes formant l’Epouse que Tu as choisie.
-Nous le demandons dans le Nom de Jésus. Amen.
-159 Je suis désolé de vous avoir gardé un peu plus tard; cela fait environ vingt-cinq minutes de
-plus. Cela fait vingt-cinq minutes que j’aurais dû être parti, mais… Vous aimez ce vieux cantique
-«Prends le Nom de Jésus avec toi”? N’est-il pas beau? Cela fait maintenant trente-trois ans que je
-le chante pour congédier l’assemblée. Lors des baptêmes d’eau, c’est «Je me tiens sur les rives
-tumultueuses du Jourdain”. Je pense que c’est tellement beau: «Prends-Le simplement partout où
-tu vas”.
+voulons pas rencontrer Ton Jugement si la grâce n’est pas présente. Comme la grâce est présente maintenant, nous Te prions, ô Dieu, de nous juger et de nous pardonner nos péchés selon Ta Parole et Ta promesse; fais en sorte que nous puissions vivre pour Toi tous les jours de notre vie et que nous puissions ne pas avoir honte de l’Evangile.
+157 Maintenant, Père, si c’est Ta volonté, nous commencerons directement avec trois dimanches de rencontres. Prépare nos coeurs pour cela, Seigneur. Prépare-moi, ô Dieu. Je suis celui qui a tellement besoin de Toi. Je Te prie de me guider et de me diriger dans les choses que je devrai dire et faire dans ces jours à venir. Guide et dirige notre précieux frère Neville qui est un de Tes vaillants serviteurs, Seigneur, ainsi que frère Mann et les diacres de l’église, les administrateurs et toutes les personnes qui sont assemblées ici. Prépare-nous, Seigneur, afin que nous soyons capables d’être de véritables chrétiens qui puissent amener les pécheurs à Toi, amener les membres d’église à connaître le Dieu que nous connaissons et que nous avons rencontré personnellement, afin qu’Il devienne aussi leur Dieu.
+158 Maintenant, Père, cela, nous ne pouvons pas le faire. Nous ne pouvons pas les envoyer; mais Toi, Esprit Saint, Tu te meus sur les gens, sur les membres d’église. C’est comme pour la petite expérience que j’ai eue l’autre matin avec Toi: «Va chercher une Epouse pour mon Fils. Prends-la parmi le peuple, parmi les églises; fais sortir cette Epouse”. Laisse-moi prier maintenant, Seigneur, afin que Tu envoies Rebecca; j’essaierai d’être Eliézer. Aide-moi à être une serviteur fidèle et puisse le Dieu du Ciel envoyer son Ange devant moi, devant nous, afin qu’ensemble nous rassemblions les personnes formant l’Epouse que Tu as choisie. Nous le demandons dans le Nom de Jésus. Amen.
+159 Je suis désolé de vous avoir gardé un peu plus tard; cela fait environ vingt-cinq minutes de plus. Cela fait vingt-cinq minutes que j’aurais dû être parti, mais… Vous aimez ce vieux cantique «Prends le Nom de Jésus avec toi”? N’est-il pas beau? Cela fait maintenant trente-trois ans que je le chante pour congédier l’assemblée. Lors des baptêmes d’eau, c’est «Je me tiens sur les rives tumultueuses du Jourdain”. Je pense que c’est tellement beau: «Prends-Le simplement partout où tu vas”.
     Précieux Nom, Nom si doux!
 Espérance de la terre…
     [Interruption sur la bande — N.d.R.]
-160 Je prie Dieu de bénir richement chacun d’entre vous, que Sa grâce et Sa miséricorde soient
-avec vous tout au long de la semaine à venir; et si quoi que ce soit devait arriver, si l’un de vous
-devait passer de l’autre côté du voile… Maintenant souvenez-vous qu’il ne nous reste que
-quelques heures de sommeil et de repos jusqu’à ce que nous nous rencontrions. Souvenez-vous,
-ceux qui sont restés vivants ne devanceront pas ceux qui dorment; car la trompette de Dieu, cette
-dernière trompette (la sixième vient juste de retentir) annoncera comme le dernier Sceau la venue
-du Seigneur. Elle retentira et les morts en Christ, qui auront été dans le repos jusqu’à ce moment,
-ressusciteront premièrement.
+160 Je prie Dieu de bénir richement chacun d’entre vous, que Sa grâce et Sa miséricorde soient avec vous tout au long de la semaine à venir; et si quoi que ce soit devait arriver, si l’un de vous devait passer de l’autre côté du voile… Maintenant souvenez-vous qu’il ne nous reste que quelques heures de sommeil et de repos jusqu’à ce que nous nous rencontrions. Souvenez-vous, ceux qui sont restés vivants ne devanceront pas ceux qui dorment; car la trompette de Dieu, cette dernière trompette (la sixième vient juste de retentir) annoncera comme le dernier Sceau la venue du Seigneur. Elle retentira et les morts en Christ, qui auront été dans le repos jusqu’à ce moment, ressusciteront premièrement.
 161 Et s’il devait arriver que vous soyiez blessé, souvenez-vous de ceci:
         Prends le Nom de Jésus avec toi,
         Comme un bouclier contre tout piège,
         Et lorsque les tentations se pressent autour de toi,
         Murmure simplement ce saint Nom dans la prière.
-162 Les démons s’enfuiront. N’oubliez pas que nous espérons vous revoir ici dimanche matin.
-Amenez les malades et ceux qui sont dans l’affliction. Je prierai pour vous; priez pour moi
-maintenant. Le ferez-vous? Dites: «Amen”. Je prierai pour vous, que Dieu vous bénisse.
+162 Les démons s’enfuiront. N’oubliez pas que nous espérons vous revoir ici dimanche matin. Amenez les malades et ceux qui sont dans l’affliction. Je prierai pour vous; priez pour moi maintenant. Le ferez-vous? Dites: «Amen”. Je prierai pour vous, que Dieu vous bénisse.
         …ce Nom dans la prière,
         Précieux Nom, oh, Nom si doux!
         Espérance de la terre et joie du Ciel;
@@ -1217,14 +823,7 @@ HONTEUX DE LUI                                                                  
     Espérance de la terre et joie du Ciel;
     Précieux Nom, oh, Nom si doux!
     Espérance de la terre et joie du Ciel.
-163 Il m’est toujours si dur de vous quitter. Je sais pourtant que vous êtes bouillants, mais il y a
-juste quelque chose qui… Chantons encore un couplet, voulez-vous? Voulez-vous le faire? «Béni
-soit le lien qui nous unit”. Combien connaissent ce vieux chant? Nous avions l’habitude de le
-chanter il y a bien des années. Et ce soir j’étais en train de penser que sur les centaines de mains
-qui se tenaient l’une l’autre lorsque nous chantions ce chant au tabernacle, il n’en reste plus que
-deux. «Béni soit le lien qui nous unit”. J’en ai enseveli beaucoup là au cimetière; ils attendent. Je
-les reverrai. Je les ai déjà vus une fois lors d’une vision, alors que je regardais de l’autre côté du
-voile; je sais qu’ils sont là. Inclinons nos têtes tandis que nous chantons:
+163 Il m’est toujours si dur de vous quitter. Je sais pourtant que vous êtes bouillants, mais il y a juste quelque chose qui… Chantons encore un couplet, voulez-vous? Voulez-vous le faire? «Béni soit le lien qui nous unit”. Combien connaissent ce vieux chant? Nous avions l’habitude de le chanter il y a bien des années. Et ce soir j’étais en train de penser que sur les centaines de mains qui se tenaient l’une l’autre lorsque nous chantions ce chant au tabernacle, il n’en reste plus que deux. «Béni soit le lien qui nous unit”. J’en ai enseveli beaucoup là au cimetière; ils attendent. Je les reverrai. Je les ai déjà vus une fois lors d’une vision, alors que je regardais de l’autre côté du voile; je sais qu’ils sont là. Inclinons nos têtes tandis que nous chantons:
     Béni soit le lien qui unit
     Nos coeurs dans un amour chrétien;
     Cette fraternité de centaines d’esprits
@@ -1233,11 +832,7 @@ voile; je sais qu’ils sont là. Inclinons nos têtes tandis que nous chantons:
     (Maintenant inclinez la tête) cela nous fait souffrir;
     Mais nous serons toujours liés par le coeur,
     Et avons l’espérance de nous retrouver.
-    Tandis que nos têtes sont inclinées, je remets le service au pasteur qui va nous congédier
-dans la prière.
-
-
-
+    Tandis que nos têtes sont inclinées, je remets le service au pasteur qui va nous congédier dans la prière.
 
 
 

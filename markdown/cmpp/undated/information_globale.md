@@ -1,534 +1,218 @@
-INFORMATION
-GLOBALE
-
-ECLAIRCISSEMENT
-D’EN-HAUT
-
-
-
+---
+source: "cmpp"
+sermon_id: "information_globale"
+title: "Information Globale — Eclaircissement d’En-Haut"
+date: "2005-01-01"
+year: 2005
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Ce document examine les événements entourant l'élection du pape Benoît XVI en 2005, en les comparant aux prophéties bibliques. Il remet en question la prétention de l'Église catholique romaine à être la seule voie de salut, et appelle à un retour à la Parole de Dieu comme seule autorité. L'auteur souligne la différence entre la tradition religieuse et la foi biblique, et avertit contre l'unification œcuménique mondiale."
+tags:
+  - "papauté"
+  - "œcuménisme"
+  - "prophétie biblique"
+  - "Église"
+  - "Rome"
+  - "Benoît XVI"
+  - "Jean-Paul II"
+persons:
+  - "Ewald Frank"
+  - "Benoît XVI"
+  - "Jean-Paul II"
+  - "William Branham"
+  - "Martin Luther"
+  - "Jésus-Christ"
+  - "Paul"
+places:
+  - "Rome"
+  - "Vatican"
+  - "Jérusalem"
+  - "Allemagne"
+  - "États-Unis"
+themes:
+  - "autorité de la Bible"
+  - "unité de l'Église"
+  - "retour de Christ"
+  - "apostasie"
+  - "persécution"
+  - "salut par la foi"
+pdf_url: "http://cmpp.ch/information_globale.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10"
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
+  - "1 Jean 1"
+  - "1 Jean 2"
+  - "1 Timothée 2"
+  - "1 Timothée 3"
+  - "1 Timothée 4"
+  - "2 Corinthiens 1"
+  - "2 Corinthiens 11"
+  - "2 Corinthiens 5"
+  - "2 Corinthiens 6"
+  - "Actes 1"
+  - "Actes 11"
+  - "Actes 13"
+  - "Actes 15"
+  - "Actes 16"
+  - "Actes 2"
+  - "Actes 20"
+  - "Actes 22"
+  - "Actes 28"
+  - "Actes 3"
+  - "Actes 4"
+  - "Amos 9"
+  - "Apocalypse 11"
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Apocalypse 18"
+  - "Apocalypse 3"
+  - "Apocalypse 4"
+  - "Apocalypse 6"
+  - "Exode 20"
+  - "Galates 1"
+  - "Galates 2"
+  - "Galates 3"
+  - "Hébreux 1"
+  - "Hébreux 12"
+  - "Hébreux 13"
+  - "Hébreux 3"
+  - "Jacques 1"
+  - "Jean 1"
+  - "Jean 14"
+  - "Jean 17"
+  - "Jean 18"
+  - "Jean 19"
+  - "Jean 2"
+  - "Jean 3"
+  - "Jean 5"
+  - "Jean 8"
+---
+INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT
 
 EWALD FRANK
-
-    INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT    2
-
-    INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT
-
-
 
 “D’éternité en éternité tu es Dieu” (Psaumes 90.2b).
 “Mais la parole de notre Dieu demeure éternellement” (Ésaïe 40.8).
 “Et cette parole est celle qui vous a été annoncée par l’Evangile” (1 Pier. 1.25).
 
+LE MONDE ENTIER REGARDE A ROME
 
+Le mois d’avril 2005 nous a donné directement l’un après l’autre deux événements significatifs survenus dans la capitale de ce monde, Rome. Le départ du pape Jean-Paul II, et l’arrivée de Benoît XVI, lequel est élu par 100 voix sur 115. Pas seulement la presse internationale, mais toutes les mass média, remplirent de leurs comptes-rendus leur programme entier du jour.
 
-        LE MONDE ENTIER REGARDE A ROME
-   Le mois d’avril 2005 nous a donné directement l’un après l’autre deux événements significatifs
-survenus dans la capitale de ce monde, Rome. Le départ du pape Jean-Paul II, et l’arrivée de
-Benoît XVI, lequel est élu par 100 voix sur 115. Pas seulement la presse internationale, mais
-toutes les mass média, remplirent de leurs comptes-rendus leur programme entier du jour.
-   C’étaient deux événements au Vatican qui ont secoué le monde entier et ont rendu l’histoire
-exceptionnelle. Le monde entier pouvait voir les chefs d’Etats et les représentants des religions
-prendre tout d’abord congé avec dévotion d’un Pape. Puis, ensuite, des millions de personnes
-dans le monde entier purent voir de quelle façon les têtes des chefs d’Etats de ce monde se sont
-inclinées devant le nouveau Pape, comment les cardinaux et les évêques ont plié le genou devant
-lui, et comment toutes les langues ont fait leurs vœux de fidélité tout en le vénérant. Aussi lors de
-l’intronisation du nouveau Pape, grâce aux techniques les plus modernes, le monde entier a vécu
-ces choses. Pourtant, une fois de plus, la question se pose de savoir si la papauté est
-fondée bibliquement, ou s’il s’agit d’une tradition d’Eglise?
-   «L’événement du millénaire» — comme le titraient les journaux — nous fait penser à ce qui
-arrivera lorsque Christ, le Seigneur, en tant que Roi établira Sa domination. C’est alors que
-s’accomplit: “… au nom de Jésus se ploie tout genou des êtres célestes, et terrestres, et
-infernaux, et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père”
-(Philippiens 2.10-11; Hébreux 1.6-14; Apocalypse 11.15, et autres). Comment est-il possible, se demandent
-plusieurs personnes, qu’une telle adoration et glorification divine soient rendues à un homme?
-Selon le témoignage des Saintes Ecritures un Seul est digne de recevoir l’honneur: “Tu es digne,
-notre Seigneur et notre Dieu, de recevoir la gloire, et l’honneur, et la puissance; car c’est toi qui
-as créé toutes choses, et c’est à cause de ta volonté qu’elles étaient, et qu’elles furent créées”
-(Apocalypse 4.11).
-   Les prophètes ont annoncé à l’avance le glorieux jour de l’instauration du Règne de Celui à qui
-tout pouvoir a été donné dans les Cieux et sur la terre: “Car le royaume est à l’Eternel, et Il domine
-au milieu des nations. Tous les gras de la terre mangeront et se prosterneront; devant lui se
-courberont tous ceux qui descendent dans la poussière” (Psaumes 22.28-30).
-   “Venez, adorons et inclinons-nous, agenouillons-nous devant l’Eternel qui nous a faits! Car
-c’est lui qui est notre Dieu; et nous, nous sommes le peuple de sa pâture et les brebis de sa main.
-Aujourd’hui, si vous entendez sa voix!” (Psaumes 95.6-7).
-   “J’ai juré par moi-même, la parole est sortie de ma bouche en justice, et ne reviendra pas, que
-devant moi tout genou se ploiera, par moi toute langue jurera” (Ésaïe 45.23).
-   Puis le Royaume de Dieu, pour la venue duquel nous prions depuis 2000 ans, arrivera
-réellement avec sa plénitude de bénédictions semblables aux conditions de vie du Paradis.
-   Ce qui s’est passé le 24 avril 2005 au Vatican, surpasse en hommages, en pompes, en éclat et
-en gloire tout ce que nous avons connu jusque-là. Beaucoup de commentateurs ont même
-comparé la pompeuse entrée en fonction du Pape à la très simple entrée dans Jérusalem du Roi
-des rois, le Messie, montant le poulain d’une ânesse. Christ, le Seigneur, n’est pas venu avec un
+C’étaient deux événements au Vatican qui ont secoué le monde entier et ont rendu l’histoire exceptionnelle. Le monde entier pouvait voir les chefs d’Etats et les représentants des religions prendre tout d’abord congé avec dévotion d’un Pape. Puis, ensuite, des millions de personnes dans le monde entier purent voir de quelle façon les têtes des chefs d’Etats de ce monde se sont inclinées devant le nouveau Pape, comment les cardinaux et les évêques ont plié le genou devant lui, et comment toutes les langues ont fait leurs vœux de fidélité tout en le vénérant. Aussi lors de l’intronisation du nouveau Pape, grâce aux techniques les plus modernes, le monde entier a vécu ces choses. Pourtant, une fois de plus, la question se pose de savoir si la papauté est fondée bibliquement, ou s’il s’agit d’une tradition d’Eglise?
 
-        http://www.cmpp.ch
+«L’événement du millénaire» — comme le titraient les journaux — nous fait penser à ce qui arrivera lorsque Christ, le Seigneur, en tant que Roi établira Sa domination. C’est alors que s’accomplit: “… au nom de Jésus se ploie tout genou des êtres célestes, et terrestres, et infernaux, et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de Dieu le Père” (Philippiens 2.10-11; Hébreux 1.6-14; Apocalypse 11.15, et autres). Comment est-il possible, se demandent plusieurs personnes, qu’une telle adoration et glorification divine soient rendues à un homme? Selon le témoignage des Saintes Ecritures un Seul est digne de recevoir l’honneur: “Tu es digne, notre Seigneur et notre Dieu, de recevoir la gloire, et l’honneur, et la puissance; car c’est toi qui as créé toutes choses, et c’est à cause de ta volonté qu’elles étaient, et qu’elles furent créées” (Apocalypse 4.11).
 
-    INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT    3
-grand faste, Il n’est pas venu à Rome, Il est venu en toute simplicité et humilité vers Son peuple à
-Jérusalem, dans la cité élue de Dieu. Ce n’était que la foule des plus simples du peuple qui étendit
-des branches de palmiers sur le sol et des enfants à la mamelle qui crièrent «Hosanna», comme
-cela était annoncé dans Zacharie 9.9 et rapporté dans Matthieu 21.1-11. Les religieux de renom
-d’entre les Juifs ne Le reçurent pas. Les scribes continuèrent à vaquer à leurs offices, se vantant
-eux-mêmes et se laissant célébrer. Cependant, à tous ceux qui Le reçurent, c’est-à-dire à tous
-ceux qui crurent en Son Nom (Jean 1.12), il fut donné le droit de s’appeler «enfants de Dieu».
-   Peut-il être Son serviteur, celui que maintenant le monde entier ovationne, et devant qui tous
-les puissants de la terre se prosternent? Est-il réellement Son vicaire, Son remplaçant, celui à qui
-tous rendent un grand hommage? Plusieurs demandent, qu’en est-il donc de la parole que le
-Seigneur Dieu Lui-même a prononcée: “Je suis l’Eternel: c’est là mon nom; et je ne donnerai pas
-ma gloire à un autre, ni ma louange à des images taillées” (Ésaïe 42.8). Jamais sur terre Dieu n’a
-été glorifié dans un homme, à l’unique et seule exception lorsqu’Il est devenu un homme au
-travers de Jésus-Christ, Son Fils seul engendré, qui disait de Lui-même dans Jean: “Je ne reçois
-pas de gloire des hommes; mais je vous connais, et je sais que vous n’avez pas l’amour de Dieu
-en vous. Moi, je suis venu au nom de mon Père, et vous ne me recevez pas; si un autre vient en
-son propre nom, celui-là vous le recevrez”. Puis le Seigneur de gloire dit: “Comment
-pouvez-vous croire, vous qui recevez de la gloire l’un de l’autre et qui ne cherchez pas la gloire
-qui vient de Dieu seul?” (Jean 5.41-44). Qu’est-ce donc qu’une foi biblique véritable, et qu’est-ce
-qui n’est que tradition religieuse non biblique?
-   L’humanité toute entière est confrontée à cette question: L’Eglise catholique romaine est-elle la
-seule qui sauve? Le salut ne se trouve-t-il qu’en elle? Est-ce possible que seul celui qui a l’Eglise
-pour Mère ait Dieu pour Père? S’il en était ainsi, c’est alors que tous les autres seraient
-irrémédiablement perdus pour toujours. Alors tous, y compris aussi les 347 dénominations
-aujourd’hui unies dans le Conseil mondial des Eglises, doivent se résigner d’avoir conduit tous
-leurs membres dans l’erreur et de leur avoir promis le salut, alors qu’elles ne pouvaient pas du tout
-le leur transmettre.
-   Une Eglise du Moyen-Orient peut-elle prétendre être «l’Eglise» de Jésus-Christ? Est-ce l’Eglise
-orthodoxe-grecque, la maronite, la syrienne, l’égyptienne, la copte, etc.? Ne sont-elles pas toutes
-des Eglises d’Etat ou nationales dans lesquelles tous se trouvent dès leur naissance? L’Eglise
-anglicane, l’écossaise, la réformée, la luthérienne ou n’importe quelle autre, peuvent-elles
-véritablement être l’Eglise originelle du Dieu vivant? L’union dans le «Conseil mondial des Eglises»
-peut-elle être celle dans laquelle toute l’humanité trouve le salut?
-   Nous nous trouvons devant beaucoup de questions auxquelles aucun de nous ne peut
-répondre. Cependant tous ont droit à la seule réponse juste — c’est-à-dire à celle qui vient
-d’En-haut. Des auteurs religieux ont osé demander: Dans la papauté est personnifié l’homme qui
-s’élève au-dessus de tout ce qui est appelé Dieu ou qui est un objet de vénération, comme il est
-écrit dans 2 Thessaloniciens, chapitre 2, et qui se fait adorer comme étant Dieu? C’est difficile à
-croire, mais ceux qui connaissent la Bible demandent encore: Est-il le super-homme du temps de
-la fin vers lequel le monde entier regardera, celui que le réformateur Martin Luther décrivait comme
-(Endchrist) «le véritable christ de la fin, qui s’assied dans le temple de Dieu et règne à Rome».
-Est-ce déjà l’antichrist annoncé par l’apôtre Jean? (1 Jean, chap. 2), celui qui entre sur la scène
-mondiale avant la venue de Christ? Cela peut-il être cet homme aimable? Est-ce sa charge qui est
-décrite là? Des langues tranchantes demandent même s’il s’agit de l’homme dont parle
-Apocalypse 13.8: “Et tous ceux qui habitent sur la terre, dont le nom n’a pas été écrit, dès la
-fondation du monde, dans le livre de vie de l’Agneau immolé, lui rendront hommage”. D’autres
-encore posent la question: Le titre de «Saint Père» n’est-il pas dû à Dieu seul? AINSI DIT NOTRE
-SEIGNEUR: “Et n’appelez personne sur la terre votre père; car un seul est votre père, celui qui
-est dans les cieux” (Mat. 23.9). La même chose ne nous est-elle pas aussi enseignée dans le
-«Notre Père»? “Vous donc, priez ainsi: Notre Père qui es dans les cieux, que ton nom soit
-sanctifié; que ton règne vienne; que ta volonté soit faite, comme dans le ciel, aussi sur la terre…”
-(Mat. 6.9-10).
-   Ceux qui connaissent la Bible se demandent si nous avons donc besoin d’un Père dans le ciel,
-et comme représentant d’un «Saint Père» sur la terre? Le règne duquel des deux doit-il donc
-venir? Qu’a annoncé Jean-Baptiste dans sa première prédication dans le désert de Judée?
+Les prophètes ont annoncé à l’avance le glorieux jour de l’instauration du Règne de Celui à qui tout pouvoir a été donné dans les Cieux et sur la terre: “Car le royaume est à l’Eternel, et Il domine au milieu des nations. Tous les gras de la terre mangeront et se prosterneront; devant lui se courberont tous ceux qui descendent dans la poussière” (Psaumes 22.28-30).
 
-     http://www.cmpp.ch
+“Venez, adorons et inclinons-nous, agenouillons-nous devant l’Eternel qui nous a faits! Car c’est lui qui est notre Dieu; et nous, nous sommes le peuple de sa pâture et les brebis de sa main. Aujourd’hui, si vous entendez sa voix!” (Psaumes 95.6-7).
 
-INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT 4
-“Repentez-vous, car le royaume des cieux s’est approché” (Mat. 3.2). A quel Royaume Jésus de
-Nazareth a-t-Il pensé, alors qu’avec les mêmes paroles Il a commencé sa première prédication
-(Mat. 4.17)? Pensait-il avec cela à l’Eglise dans l’Empire Romain, ou pensait-il à
-l’accomplissement de Luc 16.16: “La loi et les prophètes ont été jusqu’à Jean; dès lors le
-royaume de Dieu est annoncé et chacun use de violence pour y entrer”.
-   Le thème est si important qu’il ne peut tout simplement pas être balayé de la table ou expliqué
-superficiellement. Depuis le mois d’avril 2005, aucune personne cherchant sincèrement ne peut
-retourner à son propre programme. La critique biblique touchant à l’Eglise de Rome peut aussi
-contribuer à clarifier le comportement de sa propre Eglise. Quelle est la leçon personnelle que
-nous tirons de cela?
-   D’autres encore avaient devant les yeux les événements des derniers jours, «l’eschatologie»,
-lorsqu’ils virent les photographies des dignitaires revêtus de pourpre et des puissants de la terre
-dont il est écrit: “Et les rois de la terre, et les grands, et les chiliarques, et les riches, et les
-forts, et tout esclave, et tout homme libre, se cachèrent dans les cavernes, et dans les rochers des
-montagnes; et ils disent aux montagnes et aux rochers: Tombez sur nous et tenez-nous cachés de
-devant la face de celui qui est assis sur le trône et de devant la colère de l’Agneau; car le grand
-jour de sa colère est venu, et qui peut subsister?” (Apocalypse 6.15-17). Au moment où tombent les
-jugements apocalyptiques, aucun n’est épargné, pas davantage les dignitaires que les puissants
-de la terre.
-   Les nombreux articles écrits en relation avec le grand événement, et plus particulièrement ceux
-des journalistes de tendance religieuse, ont laissé plus de questions ouvertes que donné de
-réponses. Beaucoup voulaient même savoir si en relation avec cette grande occasion dans la “ville
-éternelle” il pourrait s’agir de la ville d’Apocalypse 18.16 contre laquelle viennent prononcées les
-menaces: “Hélas! hélas! la grande ville qui était vêtue de fin lin et de pourpre et d’écarlate, et
-parée d’or et de pierres précieuses et de perles! car, en une seule heure, tant de richesses ont été
-changées en désolation!” (Apocalypse 18.16). A celui qui a regardé la télévision ou qui a jeté un regard
-dans les magazines sur les foules revêtues de pourpre pouvait venir l’idée qu’une comparaison
-faite avec les passages bibliques de l’Apocalypse n’était pas une simple invention.
-   Le 26 avril 2005, le pape Benoît XVI s’adressa aux représentants de toutes les religions et
-termina par ces mots: «Dès le commencement de mon pontificat j’invite tous les croyants des
-religions de la nature et tous les autres qui recherchent d’un cœur sincère la vérité, à ce que
-tous ensemble nous construisions la paix et que nous nous obligions les uns envers les autres à
-nous comprendre, nous respecter et nous aimer».
-   Dans cette multiplicité s’agit-il de croyants bibliques? Dans cette recherche de la vérité s’agit-il
-réellement de la Vérité divine comme Pierre l’exprime dans cette parole: “Mais la parole du
-Seigneur demeure éternellement. Et cette parole est celle qui vous a été annoncée par l’Evangile”
-(1 Pier. 1.25) ou bien finalement s’agit-il seulement de ce qui est déclaré «vérité» — et qui est un
-tout autre évangile que celui prêché par l’apôtre Paul, portant de ce fait une malédiction
-(Galates 1.1-10)? En ce temps-là, Paul avait déjà entrevu à l’avance qu’un autre évangile, qu’un autre
-christ, serait prêché sous l’influence d’un autre esprit (2 Corinthiens 11.3-4).
-   Le 12 mai 2005, le pape Benoît XVI reçut les représentants diplomatiques de 174 nations. Le
-corps diplomatique le salua par des applaudissements extraordinaires, avant qu’il ne s’adresse
-lui-même aux diplomates. Dès ce moment des langues bien aiguisées s’interrogèrent à nouveau
-en citant Apocalypse 17.18: “Et la femme que tu as vue est la grande ville qui a la royauté sur les
-rois de la terre”. On doit mettre l’accent sur le fait que le Pape représente deux choses à la fois: il
-est le chef de son Eglise et il est le chef de l’Etat de la cité du Vatican. Avec cela est assuré au
-Vatican l’accès au niveau diplomatique et religieux dans toutes les nations comme à aucun autre
-Etat sur la terre, à aucune Eglise, à aucune religion. Le Vatican est partout représenté où se fait la
-politique mondiale. Ce n’est qu’ainsi que la globalisation réelle et que l’union recherchée de la
-«communauté mondiale des peuples», qui est partagée en religions mondiales, peuvent être
-portées à une vraie union sous un «gouvernement mondial».
-   Dans l’article de fond d’un journal de renom il est écrit: «Protestants, qu’en est-il?». A la fin,
-sous le troisième point il est écrit: «Revenons à la source! Si le Protestantisme ne revient pas à sa
-source — la Bible et sa confession de foi — il disparaîtra!». Cependant, chez les Protestants aussi,
+“J’ai juré par moi-même, la parole est sortie de ma bouche en justice, et ne reviendra pas, que devant moi tout genou se ploiera, par moi toute langue jurera” (Ésaïe 45.23).
 
-        http://www.cmpp.ch
+Puis le Royaume de Dieu, pour la venue duquel nous prions depuis 2000 ans, arrivera réellement avec sa plénitude de bénédictions semblables aux conditions de vie du Paradis.
 
-    INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT    5
-il n’est visiblement plus question de «Sola scriptura» sur laquelle les réformateurs insistaient, mais
-au contraire d’unification. Il faut se demander si cette unité peut être celle dont Jésus-Christ parla
-dans Sa prière sacerdotale de Jean 17.21, à laquelle on se réfère présentement, mais qui ne
-concerne que ceux qui appartiennent à l’Eglise de Jésus-Christ: “… afin que tous soient un,
-comme toi, Père, tu es en moi, et moi en toi; afin qu’eux aussi soient un en nous, afin que le
-monde croie que toi tu m’as envoyé”.
-   Le pape Benoît XVI a appelé disciples les croyants de toutes les religions qui aspirent
-ardemment à la paix. Beaucoup ont remarqué qu’en le faisant il n’a pas mentionné les Juifs parmi
-eux, mais qu’il a tout spécialement mis l’accent sur la religion de l’Islam. Cependant il met en avant
-le fait que des ponts d’amitié doivent être bâtis et qu’il veut poursuivre le processus d’union et de
-paix de ses prédécesseurs. Aussi toutes les religions du monde doivent aussi se soumettre, car il
-s’agit de leur survie et tous les pays doivent appartenir au WTO — World Trade Organization
-(Organisation Mondiale du Commerce) afin de pouvoir acheter et vendre.
-   Il s’agit maintenant de ce qui a été annoncé à l’avance, de la constellation pour le nouvel et
-dernier ordre mondial. Aucune autre religion ne dispose en même temps de la puissance séculière
-s’étendant sur le monde entier, ainsi que celle de la religion et de l’économie au niveau mondial.
-«L’Union Européenne» prend de plus en plus le rôle conducteur en dépit qu’un référendum ait lieu
-ou pas sur la «Constitution Européenne» dans les 25 Etats qui composent actuellement l’Union
-Européenne et indépendamment du résultat, car la puissance religieuse domine sur la puissance
-temporelle et tient en main les rênes (Apoc. chap. 17).
-   Plusieurs se demandent si pour tous ceux qui ne se plieront pas devant ce processus
-d’unification, la liberté de foi et de parole ne leur sera pas limitée et s’ils ne seront pas exposés à la
-persécution. Ceci concerne avant tout ceux qui sont véritablement fidèles à la Bible et qui ne
-pourront pas se joindre à l’œcuménisme, car il leur est impossible de faire un compromis au
-détriment de la Vérité. Ils doivent obéir plutôt à Dieu qu’aux hommes.
-   La pensée a aussi été exprimée que Benoît XVI, le 265ème Pape restera en charge seulement
-pour une brève période. Le Pape de la paix «Gloria olivea» devait être en activité lorsque «la paix»
-serait établie entre les Arabes et les Juifs. Après lui, un seul viendra encore, «Pierre le Romain»
-qui sera de nouveau couronné avec la tiare portant écrit sur elle VICARIUS FILII DEI — dont la
-valeur donne le nombre 666 (Apocalypse 13.18). Dans la «Basilique Nationale de l’Immaculée
-Conception» à Washington la tiare de Paul VI est l’attraction des touristes et une grande source de
-revenus. Le 266 ème Pape devrait être le dernier avec lequel les événements des temps de la fin, y
-compris la destruction de Rome, devraient trouver leur accomplissement. Auparavant doit encore
-avoir lieu la proclamation: «Maintenant c’est la paix et la sécurité!» (1 Thess. 5.1-3). Le processus
-de paix mondial s’accomplira dans peu de temps avec succès par un compromis sur Jérusalem
-entre Israël et les pays arabes par un traité «romain». Comme le traité d’Oslo l’avait bien prévu, il
-sera conclu pour sept ans.
-   Le pape Jean XXIII, qui avait ouvert le 11 octobre 1962 le Concile Vatican II devant 2500
-participants, avait pris comme thème la devise de son initiateur, le cardinal allemand Augustin Bea:
-«Parlons le langage de nos frères séparés, afin qu’ils nous comprennent!». Et tous ont compris ce
-langage! C’est aussi le pape Jean XXIII qui a insisté afin que la phrase de malédiction: que les juifs
-avaient tué Christ, devait être retirée de la Messe du Vendredi Saint. Jean-Paul II parlait les
-langues les plus importantes, aussi la slave des communistes, et tous l’ont compris. Le pape
-Benoît XVI aussi parle couramment les langues principales, même l’hébreu, et tous le
-comprendront.
-   Le jeudi 24 mai 2005, l’ambassade d’Israël à Rome, située toute proche du Saint-Siège, fit
-connaître qu’en souvenir de l’anniversaire des 85 ans du pape Jean-Paul II, le 18 mai, Israël
-émettrait un timbre souvenir spécial avec le portrait du Pape au Mur des Lamentations — ce qui fut
-aussitôt fait. La compréhension, dans toutes les langues et avec tous les peuples et religions,
-aussi avec Israël, progresse toujours plus loin.
-   Le 13 mai 2005 le pape Benoît XVI a nommé l’archevêque de San Francisco, USA, Mgr William
-Joseph Levada pour être son successeur en tant que préfet de la Congrégation pour la doctrine de
-la foi. Celui-ci pourrait être le prochain Pape, ainsi disent les connaisseurs, parce que de 1986 à
-1993, Mgr Levada, associé au cardinal Ratzinger, a rédigé le nouveau Catéchisme de l’Eglise
+Ce qui s’est passé le 24 avril 2005 au Vatican, surpasse en hommages, en pompes, en éclat et en gloire tout ce que nous avons connu jusque-là. Beaucoup de commentateurs ont même comparé la pompeuse entrée en fonction du Pape à la très simple entrée dans Jérusalem du Roi des rois, le Messie, montant le poulain d’une ânesse. Christ, le Seigneur, n’est pas venu avec un grand faste, Il n’est pas venu à Rome, Il est venu en toute simplicité et humilité vers Son peuple à Jérusalem, dans la cité élue de Dieu. Ce n’était que la foule des plus simples du peuple qui étendit des branches de palmiers sur le sol et des enfants à la mamelle qui crièrent «Hosanna», comme cela était annoncé dans Zacharie 9.9 et rapporté dans Matthieu 21.1-11. Les religieux de renom d’entre les Juifs ne Le reçurent pas. Les scribes continuèrent à vaquer à leurs offices, se vantant eux-mêmes et se laissant célébrer. Cependant, à tous ceux qui Le reçurent, c’est-à-dire à tous ceux qui crurent en Son Nom (Jean 1.12), il fut donné le droit de s’appeler «enfants de Dieu».
 
-    http://www.cmpp.ch
+Peut-il être Son serviteur, celui que maintenant le monde entier ovationne, et devant qui tous les puissants de la terre se prosternent? Est-il réellement Son vicaire, Son remplaçant, celui à qui tous rendent un grand hommage? Plusieurs demandent, qu’en est-il donc de la parole que le Seigneur Dieu Lui-même a prononcée: “Je suis l’Eternel: c’est là mon nom; et je ne donnerai pas ma gloire à un autre, ni ma louange à des images taillées” (Ésaïe 42.8). Jamais sur terre Dieu n’a été glorifié dans un homme, à l’unique et seule exception lorsqu’Il est devenu un homme au travers de Jésus-Christ, Son Fils seul engendré, qui disait de Lui-même dans Jean: “Je ne reçois pas de gloire des hommes; mais je vous connais, et je sais que vous n’avez pas l’amour de Dieu en vous. Moi, je suis venu au nom de mon Père, et vous ne me recevez pas; si un autre vient en son propre nom, celui-là vous le recevrez”. Puis le Seigneur de gloire dit: “Comment pouvez-vous croire, vous qui recevez de la gloire l’un de l’autre et qui ne cherchez pas la gloire qui vient de Dieu seul?” (Jean 5.41-44). Qu’est-ce donc qu’une foi biblique véritable, et qu’est-ce qui n’est que tradition religieuse non biblique?
 
-    INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT    6
-catholique — une œuvre de maître réussie, pour rendre crédible la foi catholique romaine.
-Toutefois il faut dire que ce Catéchisme, en comparaison avec la Parole de Dieu qui demeure
-éternellement, bien que l’on trouve l’emploi de passages bibliques en lui, ne reflète, ni dans la
-doctrine ni dans la pratique, la foi biblique de l’Eglise de Jésus-Christ, mais bien celle de l’Eglise
-de Rome.
-   S’il advenait que Mgr William Joseph Levada devienne le prochain Pape, alors s’accomplirait ce
-que l’homme de Dieu, William Branham, des Etats-Unis, a dit le 19 décembre 1954: «Je crois que
-l’un de ces glorieux jours, lorsque l’union des Eglises dans le Conseil mondial des Eglises
-arrivera et que le nouveau Pape, conformément à la prophétie, sortira des Etats-Unis et sera
-établi là-bas, l’image de la Bête sera formée. Et je vous le dis, la véritable Eglise de Dieu
-sera rassemblée, tous les véritables croyants, des Méthodistes, des Baptistes, des
-Presbytériens, des Pentecôtistes, des Pèlerins de la Sainteté, etc. — quels qu’ils puissent
-avoir été, ils vont se retrouver ensemble et seront fortifiés dans l’amour de Dieu. C’est par
-cela que d’entre tous les croyants le Corps du Seigneur Jésus-Christ sera rassemblé».
-   Le pape Benoît XVI a exprimé son respect pour les autres religions et cultures — avec
-cependant certainement la claire intention de les conduire tous sous la domination de Rome.
-   Pour cela, il rappelle que l’Europe doit penser à revenir à ses «racines chrétiennes». Il devrait
-être permis de demander si par cela on pense à la période de christianisation par la force,
-laquelle était accompagnée par le baptême forcé, période qui s’est terminée avec le règne de
-Charlemagne. Durant cette époque le sol de l’Europe fut trempé de sang, particulièrement par le
-massacre des 4500 Saxons qui s’étaient soulevés en 782. La question se pose aussi de savoir de
-quelle semence il s’agit, qui a pris racine. Etait-ce la Semence du véritable Evangile de
-Jésus-Christ, tel que Pierre et les apôtres L’ont prêché, ou la semence des interprétations de
-l’Ecriture apparue après l’époque apostolique, l’époque des pères de l’Eglise? Toutes les Eglises
-et religions, y compris celle du Pape, ont le droit de présenter leur foi, mais elles doivent se laisser
-éprouver par la Parole de Dieu, parce que toutes se réfèrent à Christ. Ce n’est qu’ainsi que l’on
-peut établir infailliblement ce qui est tradition religieuse et humaine, car en vérité nous sommes
-tous nés dans ces choses, et nous devons pouvoir faire la différence avec ce qui est
-véritablement publication biblique, dans la doctrine et la pratique.
-   Dans le livre «Introduction dans le Christianisme» du cardinal Joseph Ratzinger, l’actuel pape
-Benoît XVI donne d’une manière proéminente, sur 266 pages, un exposé complet du point de vue
-catholique. Cependant, ce qui nous intéresse c’est d’être introduit dans le conseil du salut
-de Dieu, du point de vue divin. Le mot ou la notion «Christianisme», ne se trouve en réalité pas
-une seule fois dans la Bible. Nous lisons seulement que ceux qui avaient cru en Christ, à Antioche,
-furent pour la première fois appelés Chrétiens (Actes 11.26). Le mot «Christ» signifie «l’Oint» et
-les croyants qui avaient été oints de l’Esprit étaient les baptisés de l’Esprit (Mat. 3.11; Actes chap.
-2 et autres) — «les Chrétiens» — «les oints» (2 Corinthiens 1.21-22).
+L’humanité toute entière est confrontée à cette question: L’Eglise catholique romaine est-elle la seule qui sauve? Le salut ne se trouve-t-il qu’en elle? Est-ce possible que seul celui qui a l’Eglise pour Mère ait Dieu pour Père? S’il en était ainsi, c’est alors que tous les autres seraient irrémédiablement perdus pour toujours. Alors tous, y compris aussi les 347 dénominations aujourd’hui unies dans le Conseil mondial des Eglises, doivent se résigner d’avoir conduit tous leurs membres dans l’erreur et de leur avoir promis le salut, alors qu’elles ne pouvaient pas du tout le leur transmettre.
 
-        L’HISTOIRE SE POURSUIT
-   Maintenant, jetons un coup d’œil dans l’Histoire: Il y a 482 ans, le 19 novembre 1523, c’est pour
-la dernière fois qu’un Pape allemand avait été élu, Clément VII. C’était le temps de la Réforme: le
-31 octobre 1517 le moine allemand Martin Luther avait cloué ses 95 thèses à l’église du château
-de Wittenberg. Celui qui se donne la peine de les lire avec attention, arrivera à la même conviction
-que beaucoup de commentateurs ont écrite, c’est que chaque fois il a tapé dans le mille. En 1518
-Martin Luther avait refusé de se rétracter et en 1520 il avait publié ses principaux écrits
-réformateurs. Le 3 janvier 1521 il avait été excommunié par le Pape. En 1522 apparut le Nouveau
-Testament traduit par Martin Luther. En même temps le théologien Suisse, Huldrych Zwingli, en
-1522, avait exposé et publié ses écrits réformateurs en tant que programme complet.
-   La brèche de la Réforme eut pour conséquences que l’Allemagne, l’Europe et le monde
-chrétien furent partagés en deux camps: L’Eglise catholique demeura au pouvoir, incapable de se
-réformer, alors que les Eglises évangéliques ouvrirent le chemin pour d’autres réveils, qui se sont
-poursuivis jusqu’aujourd’hui, principalement dans les Communautés indépendantes.
-Malheureusement les Eglises protestantes sorties de l’Eglise de Rome ont pris avec elles les
-principales doctrines non bibliques sur la Trinité et le baptême trinitaire. Cependant maintenant,
+Une Eglise du Moyen-Orient peut-elle prétendre être «l’Eglise» de Jésus-Christ? Est-ce l’Eglise orthodoxe-grecque, la maronite, la syrienne, l’égyptienne, la copte, etc.? Ne sont-elles pas toutes des Eglises d’Etat ou nationales dans lesquelles tous se trouvent dès leur naissance? L’Eglise anglicane, l’écossaise, la réformée, la luthérienne ou n’importe quelle autre, peuvent-elles véritablement être l’Eglise originelle du Dieu vivant? L’union dans le «Conseil mondial des Eglises» peut-elle être celle dans laquelle toute l’humanité trouve le salut?
 
-                                     http://www.cmpp.ch
+Nous nous trouvons devant beaucoup de questions auxquelles aucun de nous ne peut répondre. Cependant tous ont droit à la seule réponse juste — c’est-à-dire à celle qui vient d’En-haut. Des auteurs religieux ont osé demander: Dans la papauté est personnifié l’homme qui s’élève au-dessus de tout ce qui est appelé Dieu ou qui est un objet de vénération, comme il est écrit dans 2 Thessaloniciens, chapitre 2, et qui se fait adorer comme étant Dieu? C’est difficile à croire, mais ceux qui connaissent la Bible demandent encore: Est-il le super-homme du temps de la fin vers lequel le monde entier regardera, celui que le réformateur Martin Luther décrivait comme (Endchrist) «le véritable christ de la fin, qui s’assied dans le temple de Dieu et règne à Rome». Est-ce déjà l’antichrist annoncé par l’apôtre Jean? (1 Jean, chap. 2), celui qui entre sur la scène mondiale avant la venue de Christ? Cela peut-il être cet homme aimable? Est-ce sa charge qui est décrite là? Des langues tranchantes demandent même s’il s’agit de l’homme dont parle Apocalypse 13.8: “Et tous ceux qui habitent sur la terre, dont le nom n’a pas été écrit, dès la fondation du monde, dans le livre de vie de l’Agneau immolé, lui rendront hommage”. D’autres encore posent la question: Le titre de «Saint Père» n’est-il pas dû à Dieu seul? AINSI DIT NOTRE SEIGNEUR: “Et n’appelez personne sur la terre votre père; car un seul est votre père, celui qui est dans les cieux” (Mat. 23.9). La même chose ne nous est-elle pas aussi enseignée dans le «Notre Père»? “Vous donc, priez ainsi: Notre Père qui es dans les cieux, que ton nom soit sanctifié; que ton règne vienne; que ta volonté soit faite, comme dans le ciel, aussi sur la terre…” (Mat. 6.9-10).
 
-INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT 7
-seulement après le réveil pentecôtiste, a résulté une percée vers l’état de l’Eglise primitive, rendu
-clairement par le ministère tout particulier de William Branham, confirmé d’une manière
-surnaturelle par Dieu.
-   Sautons les siècles et venons-en au partage politique entre l’Est et l’Ouest. Après la Seconde
-Guerre mondiale l’Allemagne, le continent européen et le monde furent partagés. Beaucoup de
-ceux faisant partie de la génération de guerre ont ressenti les douleurs et les répercussions de la
-séparation. Cependant nous avons aussi expérimenté la fin de cette séparation politique, lorsque
-le 9 novembre 1989 la porte de Brandebourg à Berlin fut rouverte. Auparavant avait eu lieu la
-démonstration des syndicats catholiques Solidarnosc de Lech Walesa, des chantiers navals de
-Danzig, en Pologne, soutenue avec des millions de dollars reçus du Vatican, comme l’écrit
-Bernard Eibisberger dans les «Nouvelles économiques N° 1/2005». Les démonstrations
-protestantes du lundi des villes de l’Allemagne de l’Est conduisirent finalement au succès.
-   Maintenant nous voyons comment, après la séparation politique, aussi la séparation religieuse
-est surmontée. Tous savent que le pape Jean-Paul II avait «été employé à cela», comme l’on dit,
-«par la providence» pour amener le communisme mondial à la chute, et comme le dit Lech
-Walesa, afin de «briser les dents de l’ours russe». Le pape Benoît XVI n’a plus beaucoup à faire
-pour que les Eglises-filles ne reviennent dans le giron de l’Eglise-mère. Même toutes les religions
-de ce monde non seulement regardent vers Rome, mais y viennent, et voudraient être inclues
-dans cette communauté mondiale des peuples, dans laquelle toutes les cultures et les religions
-trouvent place. De même que la séparation politique, ainsi la séparation religieuse est aussi
-vaincue. Plus personne ne pense à ce que le pape Benoît XV disait encore en 1915 au sujet des
-chaires évangéliques, les désignant comme inflammation pestilentielle. Maintenant c’est l’unité
-dans la diversité et la diversité dans l’unité.
-   Le réformateur, Martin Luther, était un Allemand, par le moyen duquel la libre prédication fut
-apportée parmi le peuple et la Parole de Dieu fut placée entre les mains et dans le cœur des
-hommes. Maintenant c’est à nouveau un Allemand qui invite toutes les Eglises issues de la
-Réforme, à regagner le sein de l’Eglise de Rome, et qui les reçoit, afin que comme il le disait lors
-de sa consécration au ministère, le 24 avril 2005: «qu’il y ait un seul berger et un seul troupeau».
-Cependant il existe aussi des hommes dont la conscience les avertit et leur ordonne qu’une
-«commission d’enquête» devrait être appelée à la vie. Aussi longtemps que la liberté de parler
-existe on doit se permettre de demander si au cours de l’histoire de l’Eglise il s’est agit d’un
-développement biblique, ou bien si depuis le 3ème siècle n’ont pas commencé des traditions tout à
-fait non bibliques, qui se sont poursuivies? De nouveau des langues tranchantes demandent si les
-gens religieux revêtus de pourpre ne seraient pas les représentants de l’Eglise-mère, laquelle est
-décrite comme étant «Babylone la grande» (Apocalypse 17.1-6)? Toutefois, elle n’est pas Mère de fils et
-de filles de Dieu, mais bien Mère d’Eglises-filles.
-   Mais aujourd’hui, qui pose encore avec sincérité la question de Pilate: «Qu’est-ce que la
-vérité?» et lequel d’entre nous est prêt à porter la couronne d’épines ou à s’entendre moquer par
-le monde religieux en compagnie de Celui qui a dit: “Moi, je suis né pour ceci, et c’est pour ceci
-que je suis venu dans le monde, afin de rendre témoignage à la vérité. Quiconque est de la
-vérité, écoute ma voix” (Jean 18.37).
-   En ce temps-là Jésus fut fouetté, frappé, revêtu de pourpre par dérision et couronné d’épines.
-Tous les porteurs de pourpre de Rome ont tous porté leur couronne d’honneur. Dans la question
-brûlante: «Qu’est-ce que la Vérité?», il ne s’agit pas de vérité religieuse, de vérité d’Eglise, de
-vérité juive, de vérité chrétienne, mais bien de l’unique Vérité de la Parole de Dieu, qui
-demeure éternellement! Nous devons sincèrement faire des recherches de l’unique chemin qui
-conduit réellement à la Vie, et pour cela nous avons besoin de la seule description qui nous
-montre le chemin biblique. Dans le langage populaire se trouve déjà cette sentence: «Tous les
-chemins conduisent à Rome, mais un seul nous conduit dehors». En fait, il s’agit d’être ou de ne
-pas être — il s’agit de la Vie éternelle! Qu’est-ce que la Vérité? Qu’est-ce que la tromperie? Un
-seul a pu dire de Lui-même: “Je suis le chemin, et la vérité, et la vie; nul ne vient au Père que par
-moi” (Jean 14.6). Cette déclaration de notre Seigneur se trouve en opposition à cette prétention
-catholique: «Seul celui qui a l’Eglise pour Mère a Dieu pour Père».
+Ceux qui connaissent la Bible se demandent si nous avons donc besoin d’un Père dans le ciel, et comme représentant d’un «Saint Père» sur la terre? Le règne duquel des deux doit-il donc venir? Qu’a annoncé Jean-Baptiste dans sa première prédication dans le désert de Judée? “Repentez-vous, car le royaume des cieux s’est approché” (Mat. 3.2). A quel Royaume Jésus de Nazareth a-t-Il pensé, alors qu’avec les mêmes paroles Il a commencé sa première prédication (Mat. 4.17)? Pensait-il avec cela à l’Eglise dans l’Empire Romain, ou pensait-il à l’accomplissement de Luc 16.16: “La loi et les prophètes ont été jusqu’à Jean; dès lors le royaume de Dieu est annoncé et chacun use de violence pour y entrer”.
 
+Le thème est si important qu’il ne peut tout simplement pas être balayé de la table ou expliqué superficiellement. Depuis le mois d’avril 2005, aucune personne cherchant sincèrement ne peut retourner à son propre programme. La critique biblique touchant à l’Eglise de Rome peut aussi contribuer à clarifier le comportement de sa propre Eglise. Quelle est la leçon personnelle que nous tirons de cela?
 
+D’autres encore avaient devant les yeux les événements des derniers jours, «l’eschatologie», lorsqu’ils virent les photographies des dignitaires revêtus de pourpre et des puissants de la terre dont il est écrit: “Et les rois de la terre, et les grands, et les chiliarques, et les riches, et les forts, et tout esclave, et tout homme libre, se cachèrent dans les cavernes, et dans les rochers des montagnes; et ils disent aux montagnes et aux rochers: Tombez sur nous et tenez-nous cachés de devant la face de celui qui est assis sur le trône et de devant la colère de l’Agneau; car le grand jour de sa colère est venu, et qui peut subsister?” (Apocalypse 6.15-17). Au moment où tombent les jugements apocalyptiques, aucun n’est épargné, pas davantage les dignitaires que les puissants de la terre.
 
-    http://www.cmpp.ch
+Les nombreux articles écrits en relation avec le grand événement, et plus particulièrement ceux des journalistes de tendance religieuse, ont laissé plus de questions ouvertes que donné de réponses. Beaucoup voulaient même savoir si en relation avec cette grande occasion dans la “ville éternelle” il pourrait s’agir de la ville d’Apocalypse 18.16 contre laquelle viennent prononcées les menaces: “Hélas! hélas! la grande ville qui était vêtue de fin lin et de pourpre et d’écarlate, et parée d’or et de pierres précieuses et de perles! car, en une seule heure, tant de richesses ont été changées en désolation!” (Apocalypse 18.16). A celui qui a regardé la télévision ou qui a jeté un regard dans les magazines sur les foules revêtues de pourpre pouvait venir l’idée qu’une comparaison faite avec les passages bibliques de l’Apocalypse n’était pas une simple invention.
 
-INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT 8
-   En aucune manière la dignité du Pape ou de l’Eglise catholique, ou encore d’autres Eglises et
-religions ne doit être mise en cause. Mais il s’agit de ce que nos regards soient dirigés sur les
-Saintes Ecritures, et plus particulièrement pour tous les thèmes qui touchent à l’Eglise de
-Jésus-Christ. C’est aussi le commandement de l’heure présente de jeter un regard pénétrant
-dans l’histoire de l’Eglise.
-   Dans l’ensemble, le monde est partagé en douze religions principales dont les représentants
-ont répondu à l’appel du pape Jean-Paul II à se retrouver le 24 janvier 2002 au lieu de pèlerinage
-d’Assise, en Italie. Les six religions les plus connues sont: le Judaïsme, le Christianisme, l’Islam, le
-Taoïsme, le Bouddhisme, l’Hindouisme. Puis il y a aussi les nombreuses religions de la nature et
-des tribus. La dignité des hommes est inviolable, peu importe à quelle race ou religion ils
-appartiennent. Chacun pour sa part a le droit de décider librement. Il est aussi compréhensible que
-tous les hommes sur cette terre sont convaincus d’eux-mêmes et sont persuadés de la justesse de
-leur religion et de leur représentation du monde. Mais avec cela aucune réelle certitude ne leur est
-donnée que celle-ci soit juste. Toute la chose doit être considérée d’En-haut. Seul ce qui vient de
-Dieu conduit de nouveau à Lui. En tant que missionnaire, pendant plus de 40 ans j’ai entrepris
-tous les mois des séries de voyages et prêché dans plus de 130 pays, et de cette manière j’ai
-connu sur place les religions du lieu.
-   A chaque religion manque la finalité, le véritable absolu, le sceau de Dieu. Nous avons besoin
-de quelque chose qui soit au-dessus de tout doute, qui dépasse ce qui nous est compréhensible,
-et qui a été confirmé par Dieu. Les nombreuses religions ont pris un soin temporel des âmes
-pour elles-mêmes, même s’il est question là-dedans de l’au-delà et du paradis. Mais examinées
-plus exactement elles ne sont valables que pour cette vie qui s’en va, et elles sont en même temps
-les véritables obstacles qui se trouvent entre nous et Dieu. Toute philosophie ou vue du monde
-qui éveille l’espérance au-delà de cette vie, sans que nous trouvions la relation avec Celui qui
-est l’Eternel, conduit par la suite à une terrible désillusion, grave de conséquences. Nous arrivons
-toujours à l’instant où il ne peut être répondu aux dernières questions. Le véritable sort final de
-ceux qui sont décédés nous demeure caché. A ce sujet cependant un Seul peut dire quelque
-chose: Celui qui est ressuscité d’entre les morts, et les apôtres qui ont passé 40 jours avec le
-Ressuscité et ont été envoyés par Lui-même en tant que Ses témoins. Tout ce qui est temporel —
-même s’il est également religieux — a une limite. Notre accès à l’éternité n’a pas été déposé
-automatiquement dans le berceau à notre entrée dans ce monde. Avant de pouvoir nous occuper
-de la pensée principale à l’égard de Dieu et de la Vie éternelle, nous devons premièrement
-reconnaître l’entrée de Celui qui est l’Eternel dans le cours des temps.
-   Dans cet exposé nous ne pouvons pas nous occuper de toutes les nombreuses religions, ni de
-leurs règles de foi, pas plus que nous ne pouvons le faire avec ce que les philosophes du monde
-ont laissé derrière eux. Quelle bénéfice par exemple, l’homme tirerait-il de cette croyance qui veut
-que, par le biais de la méditation et d’un cycle de réincarnation, l’être humain parvient au terme
-d’un processus de purification, à un état de non existence appelé nirvana? Que nous apporte la
-théorie de l’évolution, laquelle passe à côté de la réalité de la création? Les personnes qui
-réfléchissent, qui regardent au-delà du temps, ne s’intéressent qu’à des réalités démontrées, qui
-se trouvent bien au-delà de ce que l’homme peut expliquer. Tous doivent reconnaître que la
-majesté de la création est une réalité vivante dans laquelle nous nous mouvons tous. Aussi bien la
-vie, comme également la mort, qui certainement frappe chacun, sont des faits certains. Il y a des
-choses qui échappent totalement à notre jugement, mais qui sont par elles-mêmes définitives. Il
-est important toutefois de savoir que l’homme est un être doté d’une conscience intérieure, et
-que possédant une âme, il est destiné à la communion avec son Créateur. Les premiers êtres
-humains, par la désobéissance et la transgression, ont été exclus de la communion avec le Dieu
-vivant, et en conséquence, nous avec eux. Cependant Dieu Lui-même dans Sa miséricorde,
-par l’action du rachat a eu compassion et s’est réconcilié Lui-même avec nous au travers
-de Jésus-Christ (2 Corinthiens 5.28). C’est à ce point que cesse chaque religion et la philosophie, que
-les esprits se divisent et la foi vivante dans le Dieu vivant prend place.
-   Cette courte dissertation est adressée à tous les hommes de bonne volonté sur la surface
-entière de la terre. Le Dieu du Ciel ne peut avoir qu’un seul plan éternel, qu’Il voudrait montrer à
-tout être humain dans chaque religion et culture. C’est un Dieu personnel qui dès le
-commencement du temps recherche la communion avec les hommes, et c’est seulement si
+Le 26 avril 2005, le pape Benoît XVI s’adressa aux représentants de toutes les religions et termina par ces mots: «Dès le commencement de mon pontificat j’invite tous les croyants des religions de la nature et tous les autres qui recherchent d’un cœur sincère la vérité, à ce que tous ensemble nous construisions la paix et que nous nous obligions les uns envers les autres à nous comprendre, nous respecter et nous aimer».
 
-        http://www.cmpp.ch
+Dans cette multiplicité s’agit-il de croyants bibliques? Dans cette recherche de la vérité s’agit-il réellement de la Vérité divine comme Pierre l’exprime dans cette parole: “Mais la parole du Seigneur demeure éternellement. Et cette parole est celle qui vous a été annoncée par l’Evangile” (1 Pier. 1.25) ou bien finalement s’agit-il seulement de ce qui est déclaré «vérité» — et qui est un tout autre évangile que celui prêché par l’apôtre Paul, portant de ce fait une malédiction (Galates 1.1-10)? En ce temps-là, Paul avait déjà entrevu à l’avance qu’un autre évangile, qu’un autre christ, serait prêché sous l’influence d’un autre esprit (2 Corinthiens 11.3-4).
 
-    INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT    9
-l’homme a reçu la Vie éternelle qu’il pourra vivre éternellement. Le seul livre sur la terre — appelé
-avec raison les Saintes Ecritures et la Parole de Dieu — le seul qui donne réellement les
-renseignements, c’est la Bible. L’opinion définitive est qu’un Seul est saint, c’est-à-dire Dieu,
-ainsi que tout ce qui provient de Lui. Seule la Bible témoigne de Lui, qui est d’éternité en
-éternité, et Lui se révèle uniquement dans Sa Parole.
-   Du reste, pas davantage dans le Talmud de Babylone, que dans celui de Jérusalem, nous ne
-trouvons la Parole de Dieu dans Sa forme originale, mais bien uniquement les diverses
-interprétations des rabbins sur la Thora. Dans les 114 surates du Coran, malheureusement, c’est
-en vain que l’on cherche une concordance avec la Bible. Mahomet, qui ne savait pas lire, a tiré de
-sa mémoire des passages entendus de l’Ancien et du Nouveau Testament, mais
-malheureusement pas une seule fois ce n’est en accord direct avec les Saintes Ecritures. Ainsi
-aucun homme sur terre ne peut s’appuyer sur ce livre. De même, pas une seule fois le mot «Allah»
-ne se trouve réellement dans la Bible, alors que le mot «Elohim» s’y trouve plus de six mille fois.
-Dans les Bibles en usage dans les pays de l’Islam le mot «Elohim» a été remplacé par le mot
-«Allah».
-   Dieu a tout annoncé à l’avance par les Saintes Ecritures et Il les a réalisées au cours des
-temps. L’Ancien Testament est complet en lui-même et il est terminé par le prophète Malachie, le
-Nouveau Testament est également complet avec le dernier livre, l’Apocalypse, c’est-à-dire la
-Révélation de Jésus-Christ. Il y a deux Testaments qui forment une parfaite unité, auxquels rien ne
-doit être changé et rien ne peut être ajouté. Dieu Lui-même, dans le dernier chapitre de la Bible, a
-prononcé un jugement sur ceux qui ajoutent quelque chose à Sa Parole. Si donc quelqu’un arrive
-plus de six cents ans plus tard et prétend avoir reçu des révélations directement de l’archange
-Gabriel, lesquelles ne correspondent même pas avec la Parole de Dieu, nous devons alors penser
-à cette mise en garde: “Mais quand nous-mêmes, ou quand un ange venu du ciel vous
-évangéliserait outre ce que nous vous avons évangélisé, qu’il soit anathème” (Galates 1.8).
-Pouvons-nous alors, après coup, ajouter quelque chose à ce que les prophètes de Dieu et les
-apôtres de Jésus-Christ nous ont laissé? Ils ont publié tout le plan du salut de Dieu et nous ont
-montré sa réalisation jusqu’à son achèvement. Quel est l’homme qui se donne le droit de vouloir
-corriger Dieu?
-   Au travers de la résurrection de notre Seigneur et Rédempteur la preuve a été apportée qu’Il
-n’était pas seulement un homme, mais bien le Seigneur Lui-même qui avait vaincu la mort
-survenue sur tous les hommes. Le fait suivant devrait être pour toujours pris en considération:
-Après sa résurrection, le Seigneur Jésus a tout spécialement dans Luc 24.44-45, mis l’accent sur
-le fait que tout s’était accompli selon ce qui avait été écrit sur Lui, aussi bien dans la loi de Moïse
-que dans les prophètes et dans les psaumes. En Lui et au travers de Lui-même nous avons la
-démonstration de Sa légitimité divine. Tout ce que Dieu avait annoncé et promis dans l’ensemble
-de l’Ancien Testament concernant Sa première venue, a trouvé son accomplissement.
-Pareillement, depuis la fondation de l’Eglise du Nouveau Testament s’accomplit tout ce que Dieu
-avait promis aux Siens. Il en est de même maintenant, dans le temps de la fin, en ce qui concerne
-les événements annoncés à l’avance jusqu’au retour de Jésus-Christ et jusqu’à ce que le temps
-débouche dans l’éternité. C’est seulement s’il y a des promesses dans les Saintes Ecritures,
-qu’il y a aussi leur accomplissement. Le Seigneur ressuscité avait en ce temps-là ouvert
-l’entendement de Ses disciples pour l’ensemble des Ecritures — Il fait la même chose encore
-aujourd’hui.
-   Il ne subsiste aucune nécessité pour d’autres révélations. Il n’y avait également aucune
-promesse pour cela. La rédemption avait eu lieu. L’Eglise du Nouveau Testament a été appelée à
-la vie d’une manière surnaturelle au travers de l’effusion du Saint-Esprit, et tous les ministères et
-les dons se trouvaient dès lors dans l’Eglise du Seigneur. Il n’existait de plus aucune nécessité de
-fonder, au quatrième siècle, une «Eglise d’Etat» avec un pouvoir temporel dans l’Empire Romain.
-Ce n’était qu’une décision politique. Il n’y avait aussi aucune nécessité, au septième siècle, de
-fonder une religion islamique. Cela aussi était une décision politique venant du monde. Tout
-d’abord les Juifs, puis les Chrétiens, et ensuite les Arabes, qui tous se réclamaient d’Abraham, ont
-visiblement manqué la jonction avec l’action en grâce de Dieu, conforme à Son plan de salut. De
-plus, il n’y avait aucun besoin de tenir des Conciles, de fixer de nouveaux enseignements et
-d’établir de nouveaux dogmes. Chaque fois, par cela la Parole de Dieu a été rendue nulle
+Le 12 mai 2005, le pape Benoît XVI reçut les représentants diplomatiques de 174 nations. Le corps diplomatique le salua par des applaudissements extraordinaires, avant qu’il ne s’adresse lui-même aux diplomates. Dès ce moment des langues bien aiguisées s’interrogèrent à nouveau en citant Apocalypse 17.18: “Et la femme que tu as vue est la grande ville qui a la royauté sur les rois de la terre”. On doit mettre l’accent sur le fait que le Pape représente deux choses à la fois: il est le chef de son Eglise et il est le chef de l’Etat de la cité du Vatican. Avec cela est assuré au Vatican l’accès au niveau diplomatique et religieux dans toutes les nations comme à aucun autre Etat sur la terre, à aucune Eglise, à aucune religion. Le Vatican est partout représenté où se fait la politique mondiale. Ce n’est qu’ainsi que la globalisation réelle et que l’union recherchée de la «communauté mondiale des peuples», qui est partagée en religions mondiales, peuvent être portées à une vraie union sous un «gouvernement mondial».
 
-     http://www.cmpp.ch
+Dans l’article de fond d’un journal de renom il est écrit: «Protestants, qu’en est-il?». A la fin, sous le troisième point il est écrit: «Revenons à la source! Si le Protestantisme ne revient pas à sa source — la Bible et sa confession de foi — il disparaîtra!». Cependant, chez les Protestants aussi, il n’est visiblement plus question de «Sola scriptura» sur laquelle les réformateurs insistaient, mais au contraire d’unification. Il faut se demander si cette unité peut être celle dont Jésus-Christ parla dans Sa prière sacerdotale de Jean 17.21, à laquelle on se réfère présentement, mais qui ne concerne que ceux qui appartiennent à l’Eglise de Jésus-Christ: “… afin que tous soient un, comme toi, Père, tu es en moi, et moi en toi; afin qu’eux aussi soient un en nous, afin que le monde croie que toi tu m’as envoyé”.
 
-    INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT                                               10
-    (Marc 7.9). Dieu avait déjà tout dit et révélé. Il avait établi pour l’Eglise chaque doctrine et
-    chaque pratique. Le Nouveau Testament était déjà depuis longtemps conclu. Il n’y avait aussi
-    aucun besoin de contraindre les gens à accepter la religion de l’Islam par le pouvoir temporel. Tout
-    ce qui est fait par l’homme n’a rien à voir avec la volonté de Dieu. Il est seulement responsable
-    pour ce qu’Il a promis Lui-même. Chaque chose dans le Royaume de Dieu doit uniquement avoir
-    lieu et seulement que selon Sa volonté établie.
+Le pape Benoît XVI a appelé disciples les croyants de toutes les religions qui aspirent ardemment à la paix. Beaucoup ont remarqué qu’en le faisant il n’a pas mentionné les Juifs parmi eux, mais qu’il a tout spécialement mis l’accent sur la religion de l’Islam. Cependant il met en avant le fait que des ponts d’amitié doivent être bâtis et qu’il veut poursuivre le processus d’union et de paix de ses prédécesseurs. Aussi toutes les religions du monde doivent aussi se soumettre, car il s’agit de leur survie et tous les pays doivent appartenir au WTO — World Trade Organization (Organisation Mondiale du Commerce) afin de pouvoir acheter et vendre.
 
-        AINSI DIT LE SEIGNEUR: “Je bâtirai Mon Assemblée!”
-   Le Nouveau Testament ne connaît que la seule Eglise de Jésus-Christ, qui est elle-même “la
-colonne et le soutien de la Vérité” (1 Timothée 3.15). Son Eglise est composée des premiers-nés
-écrits dans les Cieux (Hébreux 12.23), dont les noms se trouvent dans le Livre de Vie (Apocalypse 3.5). Ils
-seront “… vous-mêmes aussi, comme des pierres vivantes, êtes édifiés une maison spirituelle, une
-sainte sacrificature, pour offrir des sacrifices spirituels, agréables à Dieu par Jésus Christ”
-(1 Pier. 2.5). L’ensemble de ceux qui croient véritablement en Jésus-Christ forment “… une
-sacrificature royale, une nation sainte, un peuple acquis…” (1 Pier. 2.9). Amen!
-   La véritable Eglise de Jésus-Christ est “… édifiée sur le fondement des apôtres et
-prophètes, Jésus-Christ lui-même étant la maîtresse pierre du coin, en qui tout l’édifice, bien
-ajusté ensemble, croît pour être un temple saint dans le Seigneur; en qui, vous aussi, vous êtes
-édifiés ensemble, pour être une habitation de Dieu par l’Esprit” (Éphésiens 2.20-22). Amen! A cette
-Eglise correspond “un seul Seigneur, une seule foi, un seul baptême” (Éphésiens 4.5).
-   Ceux qui sont nés de nouveau par le Saint-Esprit sont ajoutés au Corps de Christ. “Car de
-même que le corps est un et qu’il a plusieurs membres, et que tous les membres du corps, quoi
-qu’ils soient plusieurs, sont un seul corps, ainsi aussi est le Christ. Car aussi nous avons tous
-été baptisés d’un seul Esprit pour être un seul corps, soit Juifs, soit Grecs, soit esclaves, soit
-hommes libres; et nous avons tous été abreuvés pour l’unité d’un seul Esprit” (1 Corinthiens 12.12-13).
-Les membres individuels sont d’une manière surnaturelle, par le baptême de l’Esprit, baptisés
-dans le Corps de Christ. Ce n’est que par cela que s’accomplit cette parole: “Or vous êtes le
-corps de Christ, et ses membres chacun en particulier. Et Dieu a placé les uns dans
-l’assemblée: — d’abord des apôtres, en second lieu des prophètes, en troisième lieu des
-docteurs, ensuite des miracles, puis des dons de grâce de guérison…” (1 Corinthiens 12.27-28).
-Amen! A nouveau il nous est répété que c’est Dieu Lui-même qui établit les ministères dans
-l’Eglise.
-   Le Seigneur a dans Son Eglise “… donné les uns comme apôtres, les autres comme
-prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs; en vue du
-perfectionnement des saints, pour l’œuvre du service, pour l’édification du corps de Christ…”
-(Éphésiens 4.11-12). Amen!
-   L’Eglise de Jésus-Christ expérimente l’action surnaturelle de Dieu, au travers de la puissance
-du Saint-Esprit, dès sa fondation, pendant son édification et jusqu’à son achèvement lors du retour
-de Christ. “Or il y a diversité de dons de grâce, mais le même esprit; et il y a diversité de
-services, et le même Seigneur; et il y a diversité d’opérations, mais le même Dieu qui opère tout
-en tous” (1 Corinthiens 12.4-6).
-   Dans l’Eglise du Dieu vivant s’accomplit dans les serviteurs ce qui est écrit: “Or à chacun est
-donnée la manifestation de l’Esprit en vue de l’utilité” (1 Corinthiens 12.7).
-   Il y a dans l’Eglise les services suivants que seul l’Esprit de Dieu peut manifester: “Car à l’un est
-donnée, par l’Esprit, la parole de sagesse, et à un autre la parole de connaissance, selon le
-même Esprit; et à un autre la foi par le même Esprit; et à un autre des dons de grâce de
-guérisons, par le même Esprit, et à un autre des opérations de miracles; et à un autre la
-prophétie; et à un autre des discernements d’esprits; et à un autre diverses sortes de
-langues; et à un autre l’interprétation des langues. Mais le seul et même Esprit opère toutes
-ces choses, distribuant à chacun en particulier comme il lui plaît” (1 Corinthiens 12.7-11). Amen! Les
-Saintes Ecritures ne connaissent pas de liturgie.
-   Le déroulement d’un service divin et l’harmonieuse plénitude de l’Eglise primitive nous sont
-décrits plus exactement dans 1 Corinthiens, chapitre 14. Là nous est montré comment
+Il s’agit maintenant de ce qui a été annoncé à l’avance, de la constellation pour le nouvel et dernier ordre mondial. Aucune autre religion ne dispose en même temps de la puissance séculière s’étendant sur le monde entier, ainsi que celle de la religion et de l’économie au niveau mondial. «L’Union Européenne» prend de plus en plus le rôle conducteur en dépit qu’un référendum ait lieu ou pas sur la «Constitution Européenne» dans les 25 Etats qui composent actuellement l’Union Européenne et indépendamment du résultat, car la puissance religieuse domine sur la puissance temporelle et tient en main les rênes (Apoc. chap. 17).
 
-                                     http://www.cmpp.ch
+Plusieurs se demandent si pour tous ceux qui ne se plieront pas devant ce processus d’unification, la liberté de foi et de parole ne leur sera pas limitée et s’ils ne seront pas exposés à la persécution. Ceci concerne avant tout ceux qui sont véritablement fidèles à la Bible et qui ne pourront pas se joindre à l’œcuménisme, car il leur est impossible de faire un compromis au détriment de la Vérité. Ils doivent obéir plutôt à Dieu qu’aux hommes.
+
+La pensée a aussi été exprimée que Benoît XVI, le 265ème Pape restera en charge seulement pour une brève période. Le Pape de la paix «Gloria olivea» devait être en activité lorsque «la paix» serait établie entre les Arabes et les Juifs. Après lui, un seul viendra encore, «Pierre le Romain» qui sera de nouveau couronné avec la tiare portant écrit sur elle VICARIUS FILII DEI — dont la valeur donne le nombre 666 (Apocalypse 13.18). Dans la «Basilique Nationale de l’Immaculée Conception» à Washington la tiare de Paul VI est l’attraction des touristes et une grande source de revenus. Le 266 ème Pape devrait être le dernier avec lequel les événements des temps de la fin, y compris la destruction de Rome, devraient trouver leur accomplissement. Auparavant doit encore avoir lieu la proclamation: «Maintenant c’est la paix et la sécurité!» (1 Thess. 5.1-3). Le processus de paix mondial s’accomplira dans peu de temps avec succès par un compromis sur Jérusalem entre Israël et les pays arabes par un traité «romain». Comme le traité d’Oslo l’avait bien prévu, il sera conclu pour sept ans.
+
+Le pape Jean XXIII, qui avait ouvert le 11 octobre 1962 le Concile Vatican II devant 2500 participants, avait pris comme thème la devise de son initiateur, le cardinal allemand Augustin Bea: «Parlons le langage de nos frères séparés, afin qu’ils nous comprennent!». Et tous ont compris ce langage! C’est aussi le pape Jean XXIII qui a insisté afin que la phrase de malédiction: que les juifs avaient tué Christ, devait être retirée de la Messe du Vendredi Saint. Jean-Paul II parlait les langues les plus importantes, aussi la slave des communistes, et tous l’ont compris. Le pape Benoît XVI aussi parle couramment les langues principales, même l’hébreu, et tous le comprendront.
+
+Le jeudi 24 mai 2005, l’ambassade d’Israël à Rome, située toute proche du Saint-Siège, fit connaître qu’en souvenir de l’anniversaire des 85 ans du pape Jean-Paul II, le 18 mai, Israël émettrait un timbre souvenir spécial avec le portrait du Pape au Mur des Lamentations — ce qui fut aussitôt fait. La compréhension, dans toutes les langues et avec tous les peuples et religions, aussi avec Israël, progresse toujours plus loin.
+
+Le 13 mai 2005 le pape Benoît XVI a nommé l’archevêque de San Francisco, USA, Mgr William Joseph Levada pour être son successeur en tant que préfet de la Congrégation pour la doctrine de la foi. Celui-ci pourrait être le prochain Pape, ainsi disent les connaisseurs, parce que de 1986 à 1993, Mgr Levada, associé au cardinal Ratzinger, a rédigé le nouveau Catéchisme de l’Eglise catholique — une œuvre de maître réussie, pour rendre crédible la foi catholique romaine. Toutefois il faut dire que ce Catéchisme, en comparaison avec la Parole de Dieu qui demeure éternellement, bien que l’on trouve l’emploi de passages bibliques en lui, ne reflète, ni dans la doctrine ni dans la pratique, la foi biblique de l’Eglise de Jésus-Christ, mais bien celle de l’Eglise de Rome.
+
+S’il advenait que Mgr William Joseph Levada devienne le prochain Pape, alors s’accomplirait ce que l’homme de Dieu, William Branham, des Etats-Unis, a dit le 19 décembre 1954: «Je crois que l’un de ces glorieux jours, lorsque l’union des Eglises dans le Conseil mondial des Eglises arrivera et que le nouveau Pape, conformément à la prophétie, sortira des Etats-Unis et sera établi là-bas, l’image de la Bête sera formée. Et je vous le dis, la véritable Eglise de Dieu sera rassemblée, tous les véritables croyants, des Méthodistes, des Baptistes, des Presbytériens, des Pentecôtistes, des Pèlerins de la Sainteté, etc. — quels qu’ils puissent avoir été, ils vont se retrouver ensemble et seront fortifiés dans l’amour de Dieu. C’est par cela que d’entre tous les croyants le Corps du Seigneur Jésus-Christ sera rassemblé».
+
+Le pape Benoît XVI a exprimé son respect pour les autres religions et cultures — avec cependant certainement la claire intention de les conduire tous sous la domination de Rome.
+
+Pour cela, il rappelle que l’Europe doit penser à revenir à ses «racines chrétiennes». Il devrait être permis de demander si par cela on pense à la période de christianisation par la force, laquelle était accompagnée par le baptême forcé, période qui s’est terminée avec le règne de Charlemagne. Durant cette époque le sol de l’Europe fut trempé de sang, particulièrement par le massacre des 4500 Saxons qui s’étaient soulevés en 782. La question se pose aussi de savoir de quelle semence il s’agit, qui a pris racine. Etait-ce la Semence du véritable Evangile de Jésus-Christ, tel que Pierre et les apôtres L’ont prêché, ou la semence des interprétations de l’Ecriture apparue après l’époque apostolique, l’époque des pères de l’Eglise? Toutes les Eglises et religions, y compris celle du Pape, ont le droit de présenter leur foi, mais elles doivent se laisser éprouver par la Parole de Dieu, parce que toutes se réfèrent à Christ. Ce n’est qu’ainsi que l’on peut établir infailliblement ce qui est tradition religieuse et humaine, car en vérité nous sommes tous nés dans ces choses, et nous devons pouvoir faire la différence avec ce qui est véritablement publication biblique, dans la doctrine et la pratique.
+
+Dans le livre «Introduction dans le Christianisme» du cardinal Joseph Ratzinger, l’actuel pape Benoît XVI donne d’une manière proéminente, sur 266 pages, un exposé complet du point de vue catholique. Cependant, ce qui nous intéresse c’est d’être introduit dans le conseil du salut de Dieu, du point de vue divin. Le mot ou la notion «Christianisme», ne se trouve en réalité pas une seule fois dans la Bible. Nous lisons seulement que ceux qui avaient cru en Christ, à Antioche, furent pour la première fois appelés Chrétiens (Actes 11.26). Le mot «Christ» signifie «l’Oint» et les croyants qui avaient été oints de l’Esprit étaient les baptisés de l’Esprit (Mat. 3.11; Actes chap. 2 et autres) — «les Chrétiens» — «les oints» (2 Corinthiens 1.21-22).
+
+L’HISTOIRE SE POURSUIT
+
+Maintenant, jetons un coup d’œil dans l’Histoire: Il y a 482 ans, le 19 novembre 1523, c’est pour la dernière fois qu’un Pape allemand avait été élu, Clément VII. C’était le temps de la Réforme: le 31 octobre 1517 le moine allemand Martin Luther avait cloué ses 95 thèses à l’église du château de Wittenberg. Celui qui se donne la peine de les lire avec attention, arrivera à la même conviction que beaucoup de commentateurs ont écrite, c’est que chaque fois il a tapé dans le mille. En 1518 Martin Luther avait refusé de se rétracter et en 1520 il avait publié ses principaux écrits réformateurs. Le 3 janvier 1521 il avait été excommunié par le Pape. En 1522 apparut le Nouveau Testament traduit par Martin Luther. En même temps le théologien Suisse, Huldrych Zwingli, en 1522, avait exposé et publié ses écrits réformateurs en tant que programme complet.
+
+La brèche de la Réforme eut pour conséquences que l’Allemagne, l’Europe et le monde chrétien furent partagés en deux camps: L’Eglise catholique demeura au pouvoir, incapable de se réformer, alors que les Eglises évangéliques ouvrirent le chemin pour d’autres réveils, qui se sont poursuivis jusqu’aujourd’hui, principalement dans les Communautés indépendantes. Malheureusement les Eglises protestantes sorties de l’Eglise de Rome ont pris avec elles les principales doctrines non bibliques sur la Trinité et le baptême trinitaire. Cependant maintenant, seulement après le réveil pentecôtiste, a résulté une percée vers l’état de l’Eglise primitive, rendu clairement par le ministère tout particulier de William Branham, confirmé d’une manière surnaturelle par Dieu.
+
+Sautons les siècles et venons-en au partage politique entre l’Est et l’Ouest. Après la Seconde Guerre mondiale l’Allemagne, le continent européen et le monde furent partagés. Beaucoup de ceux faisant partie de la génération de guerre ont ressenti les douleurs et les répercussions de la séparation. Cependant nous avons aussi expérimenté la fin de cette séparation politique, lorsque le 9 novembre 1989 la porte de Brandebourg à Berlin fut rouverte. Auparavant avait eu lieu la démonstration des syndicats catholiques Solidarnosc de Lech Walesa, des chantiers navals de Danzig, en Pologne, soutenue avec des millions de dollars reçus du Vatican, comme l’écrit Bernard Eibisberger dans les «Nouvelles économiques N° 1/2005». Les démonstrations protestantes du lundi des villes de l’Allemagne de l’Est conduisirent finalement au succès.
+
+Maintenant nous voyons comment, après la séparation politique, aussi la séparation religieuse est surmontée. Tous savent que le pape Jean-Paul II avait «été employé à cela», comme l’on dit, «par la providence» pour amener le communisme mondial à la chute, et comme le dit Lech Walesa, afin de «briser les dents de l’ours russe». Le pape Benoît XVI n’a plus beaucoup à faire pour que les Eglises-filles ne reviennent dans le giron de l’Eglise-mère. Même toutes les religions de ce monde non seulement regardent vers Rome, mais y viennent, et voudraient être inclues dans cette communauté mondiale des peuples, dans laquelle toutes les cultures et les religions trouvent place. De même que la séparation politique, ainsi la séparation religieuse est aussi vaincue. Plus personne ne pense à ce que le pape Benoît XV disait encore en 1915 au sujet des chaires évangéliques, les désignant comme inflammation pestilentielle. Maintenant c’est l’unité dans la diversité et la diversité dans l’unité.
+
+Le réformateur, Martin Luther, était un Allemand, par le moyen duquel la libre prédication fut apportée parmi le peuple et la Parole de Dieu fut placée entre les mains et dans le cœur des hommes. Maintenant c’est à nouveau un Allemand qui invite toutes les Eglises issues de la Réforme, à regagner le sein de l’Eglise de Rome, et qui les reçoit, afin que comme il le disait lors de sa consécration au ministère, le 24 avril 2005: «qu’il y ait un seul berger et un seul troupeau». Cependant il existe aussi des hommes dont la conscience les avertit et leur ordonne qu’une «commission d’enquête» devrait être appelée à la vie. Aussi longtemps que la liberté de parler existe on doit se permettre de demander si au cours de l’histoire de l’Eglise il s’est agit d’un développement biblique, ou bien si depuis le 3ème siècle n’ont pas commencé des traditions tout à fait non bibliques, qui se sont poursuivies? De nouveau des langues tranchantes demandent si les gens religieux revêtus de pourpre ne seraient pas les représentants de l’Eglise-mère, laquelle est décrite comme étant «Babylone la grande» (Apocalypse 17.1-6)? Toutefois, elle n’est pas Mère de fils et de filles de Dieu, mais bien Mère d’Eglises-filles.
+
+Mais aujourd’hui, qui pose encore avec sincérité la question de Pilate: «Qu’est-ce que la vérité?» et lequel d’entre nous est prêt à porter la couronne d’épines ou à s’entendre moquer par le monde religieux en compagnie de Celui qui a dit: “Moi, je suis né pour ceci, et c’est pour ceci que je suis venu dans le monde, afin de rendre témoignage à la vérité. Quiconque est de la vérité, écoute ma voix” (Jean 18.37).
+
+En ce temps-là Jésus fut fouetté, frappé, revêtu de pourpre par dérision et couronné d’épines. Tous les porteurs de pourpre de Rome ont tous porté leur couronne d’honneur. Dans la question brûlante: «Qu’est-ce que la Vérité?», il ne s’agit pas de vérité religieuse, de vérité d’Eglise, de vérité juive, de vérité chrétienne, mais bien de l’unique Vérité de la Parole de Dieu, qui demeure éternellement! Nous devons sincèrement faire des recherches de l’unique chemin qui conduit réellement à la Vie, et pour cela nous avons besoin de la seule description qui nous montre le chemin biblique. Dans le langage populaire se trouve déjà cette sentence: «Tous les chemins conduisent à Rome, mais un seul nous conduit dehors». En fait, il s’agit d’être ou de ne pas être — il s’agit de la Vie éternelle! Qu’est-ce que la Vérité? Qu’est-ce que la tromperie? Un seul a pu dire de Lui-même: “Je suis le chemin, et la vérité, et la vie; nul ne vient au Père que par moi” (Jean 14.6). Cette déclaration de notre Seigneur se trouve en opposition à cette prétention catholique: «Seul celui qui a l’Eglise pour Mère a Dieu pour Père».
+
+En aucune manière la dignité du Pape ou de l’Eglise catholique, ou encore d’autres Eglises et religions ne doit être mise en cause. Mais il s’agit de ce que nos regards soient dirigés sur les Saintes Ecritures, et plus particulièrement pour tous les thèmes qui touchent à l’Eglise de Jésus-Christ. C’est aussi le commandement de l’heure présente de jeter un regard pénétrant dans l’histoire de l’Eglise.
+
+Dans l’ensemble, le monde est partagé en douze religions principales dont les représentants ont répondu à l’appel du pape Jean-Paul II à se retrouver le 24 janvier 2002 au lieu de pèlerinage d’Assise, en Italie. Les six religions les plus connues sont: le Judaïsme, le Christianisme, l’Islam, le Taoïsme, le Bouddhisme, l’Hindouisme. Puis il y a aussi les nombreuses religions de la nature et des tribus. La dignité des hommes est inviolable, peu importe à quelle race ou religion ils appartiennent. Chacun pour sa part a le droit de décider librement. Il est aussi compréhensible que tous les hommes sur cette terre sont convaincus d’eux-mêmes et sont persuadés de la justesse de leur religion et de leur représentation du monde. Mais avec cela aucune réelle certitude ne leur est donnée que celle-ci soit juste. Toute la chose doit être considérée d’En-haut. Seul ce qui vient de Dieu conduit de nouveau à Lui. En tant que missionnaire, pendant plus de 40 ans j’ai entrepris tous les mois des séries de voyages et prêché dans plus de 130 pays, et de cette manière j’ai connu sur place les religions du lieu.
+
+A chaque religion manque la finalité, le véritable absolu, le sceau de Dieu. Nous avons besoin de quelque chose qui soit au-dessus de tout doute, qui dépasse ce qui nous est compréhensible, et qui a été confirmé par Dieu. Les nombreuses religions ont pris un soin temporel des âmes pour elles-mêmes, même s’il est question là-dedans de l’au-delà et du paradis. Mais examinées plus exactement elles ne sont valables que pour cette vie qui s’en va, et elles sont en même temps les véritables obstacles qui se trouvent entre nous et Dieu. Toute philosophie ou vue du monde qui éveille l’espérance au-delà de cette vie, sans que nous trouvions la relation avec Celui qui est l’Eternel, conduit par la suite à une terrible désillusion, grave de conséquences. Nous arrivons toujours à l’instant où il ne peut être répondu aux dernières questions. Le véritable sort final de ceux qui sont décédés nous demeure caché. A ce sujet cependant un Seul peut dire quelque chose: Celui qui est ressuscité d’entre les morts, et les apôtres qui ont passé 40 jours avec le Ressuscité et ont été envoyés par Lui-même en tant que Ses témoins. Tout ce qui est temporel — même s’il est également religieux — a une limite. Notre accès à l’éternité n’a pas été déposé automatiquement dans le berceau à notre entrée dans ce monde. Avant de pouvoir nous occuper de la pensée principale à l’égard de Dieu et de la Vie éternelle, nous devons premièrement reconnaître l’entrée de Celui qui est l’Eternel dans le cours des temps.
+
+Dans cet exposé nous ne pouvons pas nous occuper de toutes les nombreuses religions, ni de leurs règles de foi, pas plus que nous ne pouvons le faire avec ce que les philosophes du monde ont laissé derrière eux. Quelle bénéfice par exemple, l’homme tirerait-il de cette croyance qui veut que, par le biais de la méditation et d’un cycle de réincarnation, l’être humain parvient au terme d’un processus de purification, à un état de non existence appelé nirvana? Que nous apporte la théorie de l’évolution, laquelle passe à côté de la réalité de la création? Les personnes qui réfléchissent, qui regardent au-delà du temps, ne s’intéressent qu’à des réalités démontrées, qui se trouvent bien au-delà de ce que l’homme peut expliquer. Tous doivent reconnaître que la majesté de la création est une réalité vivante dans laquelle nous nous mouvons tous. Aussi bien la vie, comme également la mort, qui certainement frappe chacun, sont des faits certains. Il y a des choses qui échappent totalement à notre jugement, mais qui sont par elles-mêmes définitives. Il est important toutefois de savoir que l’homme est un être doté d’une conscience intérieure, et que possédant une âme, il est destiné à la communion avec son Créateur. Les premiers êtres humains, par la désobéissance et la transgression, ont été exclus de la communion avec le Dieu vivant, et en conséquence, nous avec eux. Cependant Dieu Lui-même dans Sa miséricorde, par l’action du rachat a eu compassion et s’est réconcilié Lui-même avec nous au travers de Jésus-Christ (2 Corinthiens 5.28). C’est à ce point que cesse chaque religion et la philosophie, que les esprits se divisent et la foi vivante dans le Dieu vivant prend place.
+
+Cette courte dissertation est adressée à tous les hommes de bonne volonté sur la surface entière de la terre. Le Dieu du Ciel ne peut avoir qu’un seul plan éternel, qu’Il voudrait montrer à tout être humain dans chaque religion et culture. C’est un Dieu personnel qui dès le commencement du temps recherche la communion avec les hommes, et c’est seulement si l’homme a reçu la Vie éternelle qu’il pourra vivre éternellement. Le seul livre sur la terre — appelé avec raison les Saintes Ecritures et la Parole de Dieu — le seul qui donne réellement les renseignements, c’est la Bible. L’opinion définitive est qu’un Seul est saint, c’est-à-dire Dieu, ainsi que tout ce qui provient de Lui. Seule la Bible témoigne de Lui, qui est d’éternité en éternité, et Lui se révèle uniquement dans Sa Parole.
+
+Du reste, pas davantage dans le Talmud de Babylone, que dans celui de Jérusalem, nous ne trouvons la Parole de Dieu dans Sa forme originale, mais bien uniquement les diverses interprétations des rabbins sur la Thora. Dans les 114 surates du Coran, malheureusement, c’est en vain que l’on cherche une concordance avec la Bible. Mahomet, qui ne savait pas lire, a tiré de sa mémoire des passages entendus de l’Ancien et du Nouveau Testament, mais malheureusement pas une seule fois ce n’est en accord direct avec les Saintes Ecritures. Ainsi aucun homme sur terre ne peut s’appuyer sur ce livre. De même, pas une seule fois le mot «Allah» ne se trouve réellement dans la Bible, alors que le mot «Elohim» s’y trouve plus de six mille fois. Dans les Bibles en usage dans les pays de l’Islam le mot «Elohim» a été remplacé par le mot «Allah».
+
+Dieu a tout annoncé à l’avance par les Saintes Ecritures et Il les a réalisées au cours des temps. L’Ancien Testament est complet en lui-même et il est terminé par le prophète Malachie, le Nouveau Testament est également complet avec le dernier livre, l’Apocalypse, c’est-à-dire la Révélation de Jésus-Christ. Il y a deux Testaments qui forment une parfaite unité, auxquels rien ne doit être changé et rien ne peut être ajouté. Dieu Lui-même, dans le dernier chapitre de la Bible, a prononcé un jugement sur ceux qui ajoutent quelque chose à Sa Parole. Si donc quelqu’un arrive plus de six cents ans plus tard et prétend avoir reçu des révélations directement de l’archange Gabriel, lesquelles ne correspondent même pas avec la Parole de Dieu, nous devons alors penser à cette mise en garde: “Mais quand nous-mêmes, ou quand un ange venu du ciel vous évangéliserait outre ce que nous vous avons évangélisé, qu’il soit anathème” (Galates 1.8). Pouvons-nous alors, après coup, ajouter quelque chose à ce que les prophètes de Dieu et les apôtres de Jésus-Christ nous ont laissé? Ils ont publié tout le plan du salut de Dieu et nous ont montré sa réalisation jusqu’à son achèvement. Quel est l’homme qui se donne le droit de vouloir corriger Dieu?
+
+Au travers de la résurrection de notre Seigneur et Rédempteur la preuve a été apportée qu’Il n’était pas seulement un homme, mais bien le Seigneur Lui-même qui avait vaincu la mort survenue sur tous les hommes. Le fait suivant devrait être pour toujours pris en considération: Après sa résurrection, le Seigneur Jésus a tout spécialement dans Luc 24.44-45, mis l’accent sur le fait que tout s’était accompli selon ce qui avait été écrit sur Lui, aussi bien dans la loi de Moïse que dans les prophètes et dans les psaumes. En Lui et au travers de Lui-même nous avons la démonstration de Sa légitimité divine. Tout ce que Dieu avait annoncé et promis dans l’ensemble de l’Ancien Testament concernant Sa première venue, a trouvé son accomplissement. Pareillement, depuis la fondation de l’Eglise du Nouveau Testament s’accomplit tout ce que Dieu avait promis aux Siens. Il en est de même maintenant, dans le temps de la fin, en ce qui concerne les événements annoncés à l’avance jusqu’au retour de Jésus-Christ et jusqu’à ce que le temps débouche dans l’éternité. C’est seulement s’il y a des promesses dans les Saintes Ecritures, qu’il y a aussi leur accomplissement. Le Seigneur ressuscité avait en ce temps-là ouvert l’entendement de Ses disciples pour l’ensemble des Ecritures — Il fait la même chose encore aujourd’hui.
+
+Il ne subsiste aucune nécessité pour d’autres révélations. Il n’y avait également aucune promesse pour cela. La rédemption avait eu lieu. L’Eglise du Nouveau Testament a été appelée à la vie d’une manière surnaturelle au travers de l’effusion du Saint-Esprit, et tous les ministères et les dons se trouvaient dès lors dans l’Eglise du Seigneur. Il n’existait de plus aucune nécessité de fonder, au quatrième siècle, une «Eglise d’Etat» avec un pouvoir temporel dans l’Empire Romain. Ce n’était qu’une décision politique. Il n’y avait aussi aucune nécessité, au septième siècle, de fonder une religion islamique. Cela aussi était une décision politique venant du monde. Tout d’abord les Juifs, puis les Chrétiens, et ensuite les Arabes, qui tous se réclamaient d’Abraham, ont visiblement manqué la jonction avec l’action en grâce de Dieu, conforme à Son plan de salut. De plus, il n’y avait aucun besoin de tenir des Conciles, de fixer de nouveaux enseignements et d’établir de nouveaux dogmes. Chaque fois, par cela la Parole de Dieu a été rendue nulle (Marc 7.9). Dieu avait déjà tout dit et révélé. Il avait établi pour l’Eglise chaque doctrine et chaque pratique. Le Nouveau Testament était déjà depuis longtemps conclu. Il n’y avait aussi aucun besoin de contraindre les gens à accepter la religion de l’Islam par le pouvoir temporel. Tout ce qui est fait par l’homme n’a rien à voir avec la volonté de Dieu. Il est seulement responsable pour ce qu’Il a promis Lui-même. Chaque chose dans le Royaume de Dieu doit uniquement avoir lieu et seulement que selon Sa volonté établie.
+
+AINSI DIT LE SEIGNEUR: “Je bâtirai Mon Assemblée!”
+
+Le Nouveau Testament ne connaît que la seule Eglise de Jésus-Christ, qui est elle-même “la colonne et le soutien de la Vérité” (1 Timothée 3.15). Son Eglise est composée des premiers-nés écrits dans les Cieux (Hébreux 12.23), dont les noms se trouvent dans le Livre de Vie (Apocalypse 3.5). Ils seront “… vous-mêmes aussi, comme des pierres vivantes, êtes édifiés une maison spirituelle, une sainte sacrificature, pour offrir des sacrifices spirituels, agréables à Dieu par Jésus Christ” (1 Pier. 2.5). L’ensemble de ceux qui croient véritablement en Jésus-Christ forment “… une sacrificature royale, une nation sainte, un peuple acquis…” (1 Pier. 2.9). Amen!
+
+La véritable Eglise de Jésus-Christ est “… édifiée sur le fondement des apôtres et prophètes, Jésus-Christ lui-même étant la maîtresse pierre du coin, en qui tout l’édifice, bien ajusté ensemble, croît pour être un temple saint dans le Seigneur; en qui, vous aussi, vous êtes édifiés ensemble, pour être une habitation de Dieu par l’Esprit” (Éphésiens 2.20-22). Amen! A cette Eglise correspond “un seul Seigneur, une seule foi, un seul baptême” (Éphésiens 4.5).
+
+Ceux qui sont nés de nouveau par le Saint-Esprit sont ajoutés au Corps de Christ. “Car de même que le corps est un et qu’il a plusieurs membres, et que tous les membres du corps, quoi qu’ils soient plusieurs, sont un seul corps, ainsi aussi est le Christ. Car aussi nous avons tous été baptisés d’un seul Esprit pour être un seul corps, soit Juifs, soit Grecs, soit esclaves, soit hommes libres; et nous avons tous été abreuvés pour l’unité d’un seul Esprit” (1 Corinthiens 12.12-13). Les membres individuels sont d’une manière surnaturelle, par le baptême de l’Esprit, baptisés dans le Corps de Christ. Ce n’est que par cela que s’accomplit cette parole: “Or vous êtes le corps de Christ, et ses membres chacun en particulier. Et Dieu a placé les uns dans l’assemblée: — d’abord des apôtres, en second lieu des prophètes, en troisième lieu des docteurs, ensuite des miracles, puis des dons de grâce de guérison…” (1 Corinthiens 12.27-28). Amen! A nouveau il nous est répété que c’est Dieu Lui-même qui établit les ministères dans l’Eglise.
+
+Le Seigneur a dans Son Eglise “… donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs; en vue du perfectionnement des saints, pour l’œuvre du service, pour l’édification du corps de Christ…” (Éphésiens 4.11-12). Amen!
+
+L’Eglise de Jésus-Christ expérimente l’action surnaturelle de Dieu, au travers de la puissance du Saint-Esprit, dès sa fondation, pendant son édification et jusqu’à son achèvement lors du retour de Christ. “Or il y a diversité de dons de grâce, mais le même esprit; et il y a diversité de services, et le même Seigneur; et il y a diversité d’opérations, mais le même Dieu qui opère tout en tous” (1 Corinthiens 12.4-6).
+
+Dans l’Eglise du Dieu vivant s’accomplit dans les serviteurs ce qui est écrit: “Or à chacun est donnée la manifestation de l’Esprit en vue de l’utilité” (1 Corinthiens 12.7).
+
+Il y a dans l’Eglise les services suivants que seul l’Esprit de Dieu peut manifester: “Car à l’un est donnée, par l’Esprit, la parole de sagesse, et à un autre la parole de connaissance, selon le même Esprit; et à un autre la foi par le même Esprit; et à un autre des dons de grâce de guérisons, par le même Esprit, et à un autre des opérations de miracles; et à un autre la prophétie; et à un autre des discernements d’esprits; et à un autre diverses sortes de langues; et à un autre l’interprétation des langues. Mais le seul et même Esprit opère toutes ces choses, distribuant à chacun en particulier comme il lui plaît” (1 Corinthiens 12.7-11). Amen! Les Saintes Ecritures ne connaissent pas de liturgie.
+
+Le déroulement d’un service divin et l’harmonieuse plénitude de l’Eglise primitive nous sont décrits plus exactement dans 1 Corinthiens, chapitre 14. Là nous est montré comment
 
 INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT 11
 spontanément l’Esprit de Dieu agit. “Et s’il y a eu une révélation faite à un autre qui est assis, que
@@ -965,9 +649,6 @@ Amen! et Amen signifie: Ainsi soit-il!
 
 
 
-
-
-
     Titre original de l’ouvrage:
     Global-Information
     Aufklärung von oben
@@ -986,8 +667,6 @@ Amen! et Amen signifie: Ainsi soit-il!
     Case Postale 5633, 1002 Lausanne (Suisse)
     Internet: www.cmpp.ch
     E-mail: info@cmpp.ch
-
-
 
 
 

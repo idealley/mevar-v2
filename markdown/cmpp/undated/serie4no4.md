@@ -1,881 +1,304 @@
-    SERIE 4, N° 4
+---
+source: "cmpp"
+sermon_id: "serie4no4"
+title: "IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE"
+subtitle: "29 décembre 1963, matin"
+date: "1963-12-29"
+year: 1963
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la lumière de Christ, en s'appuyant sur Ésaïe 42 et Matthieu 4. Il compare David et ses vaillants hommes à l'Église des nations qui suit Christ rejeté. Il annonce un service de guérison pour le soir et évoque les sept trompettes."
+tags:
+  - "lumière"
+  - "Christ rejeté"
+  - "David"
+  - "vaillants hommes"
+  - "Ésaïe 42"
+  - "guérison"
+persons:
+  - "William Marrion Branham"
+  - "Jésus-Christ"
+  - "David"
+  - "Ésaïe"
+  - "Boaz"
+  - "Ruth"
+  - "Obed"
+  - "Isaï"
+  - "Goliath"
+  - "frère Shepherd"
+  - "soeur Coats"
+  - "frère Coats"
+  - "frère Dauch"
+places:
+  - "Branham Tabernacle"
+  - "Jeffersonville"
+  - "Indiana"
+  - "Tucson"
+  - "Arizona"
+  - "Phoenix"
+  - "Bethléhem"
+  - "Galilée"
+  - "Capernaüm"
+  - "Zabulon"
+  - "Nephtali"
+  - "Shreveport"
+  - "Louisville"
+themes:
+  - "lumière spirituelle"
+  - "rejet de Christ"
+  - "fidélité des nations"
+  - "guérison divine"
+  - "sept trompettes"
+  - "espérance de la résurrection"
+pdf_url: "http://cmpp.ch/serie4no4.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Actes 2"
+  - "Apocalypse 3"
+  - "Genèse 1"
+  - "Genèse 3"
+  - "Hébreux 13"
+  - "Jean 10"
+  - "Jean 14"
+  - "Jean 5"
+  - "Joël 2"
+  - "Malachie 4"
+  - "Marc 16"
+  - "Marc 7"
+  - "Matthieu 24"
+  - "Matthieu 4"
+  - "Nombres 24"
+  - "Psaumes 22"
+  - "Ésaïe 42"
+---
+SERIE 4, N° 4
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-IL Y A ICI UN HOMME QUI PEUT
-    ALLUMER LA LUMIERE
-   (There is a Man here that can turn on the Light)
-
-
-
-
-    29 décembre 1963, matin
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE    2
-
-
+WILLIAM MARRION BRANHAM
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE
 (There is a Man here that can turn on the Light)
 
+29 décembre 1963, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-            29 décembre 1963, matin
-               Branham Tabernacle
-        Jeffersonville — Indiana, U.S.A.
+IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE
 
+IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE
+(There is a Man here that can turn on the Light)
 
+29 décembre 1963, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
-
-
-
-1 Inclinons la tête maintenant. Père céleste, nous Te remercions ce matin pour Ta bonté et Ta
-miséricorde, car Tu nous accordes le privilège de nous rassembler de nouveau ici (un jour de ce
-côté-ci de l’éternité) pour adorer Celui qui est adorable, le Seigneur Jésus-Christ. Nous Te
-remercions de ce qu’Il est venu sur la terre pour nous racheter d’une vie de péché et pour
-nous donner le glorieux héritage qui nous est acquis par le moyen de Sa justice. Alors que
-ce matin nous sommes Ses ambassadeurs ici pour rompre le pain de vie pour cette assemblée qui
-est dans l’attente, que le Saint-Esprit inspire chaque mot et le fasse pénétrer dans le coeur des
-gens selon leurs besoins. Nous Te le demandons au Nom de Jésus. Amen. (Asseyez-vous.)
-2 J’estime que c’est certainement un grand privilège pour moi que d’être de nouveau ici ce
-matin au milieu de vous. Je regrette que nous n’ayons pas plus de place à offrir aux gens. Notre
-Tabernacle n’est pas assez grand. Et nous sommes très reconnaissants d’être de retour de ces
-vacances chez nous à Tucson, le temps était assez mauvais mais nous sommes contents d’être
-ici et d’avoir la réunion.
-     Maintenant je veux annoncer que ce soir il y aura un service de guérison ou de prière pour les
-malades. J’en ai parlé à Bill qui a dit: «Eh bien, que vas-tu faire?».
-3 J’ai répondu: «Ce serait bien que tu distribues des cartes ce soir vers six heures et demie. La
-foule est si dense que les gens doivent venir l’un après l’autre; ils seront donc appelés par le
-numéro de leur carte et il n’y aura pas d’encombrement. Nous pouvons les appeler un par un;
-qu’ils suivent donc la ligne tandis que nous prierons pour eux».
-4 Si donc vous êtes malade, ou que des personnes qui vous sont chères sont malades et que
-vous désiriez les amener, venez vers six heures trente ou sept heures et demandez une carte de
-prière. Quelqu’un se tiendra à la porte et vous en donnera à votre arrivée.
-5 Ce sera probablement la dernière fois que je viendrai ici pendant quelque temps car en ce
-moment j’ai un programme très chargé, mais je resterai aux Etats-Unis jusqu’à la fin du printemps.
-Ainsi nous reviendrons peut-être un peu plus tard cet été. Si le Seigneur le permet, je serai
-heureux que nous obtenions la salle et qu’elle ait l’air conditionné. Je vais en parler à Billy.
-J’aimerais parler sur ces sept trompettes. J’aimerais avoir une réunion sur les sept trompettes, si
-le Seigneur le veut. Car il y a les sept âges de l’Eglise, les sept Sceaux et maintenant les sept
-trompettes. Et si vous avez du temps de libre en juin, au moment des vacances, faites-le à ce
-moment-là afin que les gens puissent venir.
-6 Je suis heureux de voir que ce matin le frère Shepherd est de retour de l’hôpital. Je suis allé
-le voir l’autre jour. Et soeur Shepherd, je ne vous ai pas appelée au téléphone l’autre jour. Ce
-songe que vous m’avez envoyé était très, très bien. Il semble que vous ayez vu Christ dans les
-Cieux, sur un cheval blanc encore tenu en bride. Et avant que cela ne s’efface, toute votre famille
-a pu le voir. L’interprétation du songe est que votre famille L’a vu s’avancer dans ce dernier jour
-juste avant que cela ne s’efface. C’était un songe très spirituel et une grande bénédiction pour
-
-        http://www.cmpp.ch
-
-IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 3
-votre famille. Cette famille vient de traverser une grande épreuve pour en arriver où ils en sont
-aujourd’hui.
-7 Et maintenant nous avons quelque chose d’assez triste à vous annoncer ce matin. Depuis la
-dernière fois que nous nous sommes rencontrés, l’une de nos chères amies… ce sont des fidèles
-de ce Tabernacle, la famille Coats que nous aimons tous. Ils viennent de l’Est ou des environs de
-Chicago. Il y a soeur Billy Habib et soeur Armstrong avec toutes les filles. Je crois qu’autrefois ils
-étaient nazaréens, et ils sont venus au Seigneur. Ce sont de précieux amis. Frère et soeur Coats,
-leur père et leur mère, rentraient l’autre jour en voiture, ils venaient de l’Ouest. Quelqu’un dérapa
-et soeur Coats fut tuée sur le coup. Et au moment où on m’appela à Tucson, où j’ai appris la
-chose, j’étais justement installé ici à ma table où se trouvait une boîte de bonbons qu’elle venait de
-m’envoyer. Vous voyez le coup que cela m’a fait. Mais je crois que ce matin nous pouvons
-remercier le Seigneur car elle n’a pas souffert. Elle devenait âgée et la souffrance lui a été
-épargnée. Elle est allée à la maison pour être avec Dieu.
-8 Je viens précisément de penser à cela et d’en parler à ses deux filles dans la pièce là-bas.
-Frère Coats est ici ce matin. Il a eu quelques côtes cassées. Je l’ai appelé à l’établissement où on
-l’a hospitalisé dans le Missouri, il a eu des côtes cassées et des contusions, mais il est réellement
-courageux, un vrai chrétien, il sait que sa petite reine n’est pas morte, elle est vivante à jamais
-avec Christ. Et il y aura un temps de retrouvailles.
-9 Job a dit un jour: “Oh, si Tu voulais me cacher dans le séjour des morts, me garder dans un
-endroit secret jusqu’à ce que Ta colère soit passée!”.
-10 N’avez-vous jamais remarqué que Dieu fait la même chose dans la nature? C’est comme la
-sève dans les arbres là-haut qui nourrit les feuilles, puis avant la venue de l’hiver, qui représente la
-colère se répandant sur la terre… Voyez, il fut un temps où la terre ne connaissait pas l’hiver. Et
-pendant le millénium, il n’y aura plus jamais d’hiver. Vous voyez? L’hiver représente donc la colère
-sur la terre. Avant la venue de la colère, Dieu dans Sa grâce fait descendre la sève sous terre
-dans les racines de cet arbre et l’y maintient jusqu’à ce que la colère de l’hiver soit passée, puis Il
-la fait remonter au printemps. “Oh, si Tu voulais me cacher dans le séjour des morts, me garder
-dans cet endroit secret jusqu’à ce que Ta colère soit passée!”. C’est ce qu’Il a fait pour notre
-soeur, c’est ce qu’Il fait pour tous les chrétiens.
-11 Frère Coats, que Dieu vous bénisse. Je suis si heureux de savoir que le Sceau de Dieu tient
-bon à l’heure de l’épreuve. Je sais par où il passe car il m’est arrivé la même chose il y a
-quelques années. L’un après l’autre nous devons traverser cette grande rivière, et un de ces jours
-ce sera mon tour, comme viendra aussi le vôtre. Mais comme l’a dit David: “Je ne crains aucun
-mal. Ta houlette et Ton bâton me rassurent”.
-12 Maintenant, en mémoire de soeur Coats, notre précieuse soeur qui s’en est allée vers Dieu,
-en souvenir d’elle ce matin je demande à l’assemblée de se lever juste un instant. Inclinons la tête
-et pensons à celle qui, il y a peu de jours, allait et venait parmi nous dans ce Tabernacle nous
-serrant à tous la main. C’était une merveilleuse chrétienne et elle est maintenant dans ce lieu que
-le Seigneur m’a laissé voir récemment où elle est redevenue une jeune femme attendant la venue
-de sa famille.
-13 Notre Père céleste, nous Te remercions pour le souvenir de soeur Coats. Quelle chère et
-précieuse soeur elle était. Et maintenant le temps vient où nous aurons fini de vivre le court
-moment qui nous est imparti, nous devrons traverser la rivière. Nous Te remercions de ce qu’elle
-n’a pas eu à souffrir. Il n’y a sûrement rien eu qui l’ait fait souffrir, en un instant elle est simplement
-allée tout droit dans les bras du Seigneur.
-14 Seigneur, son mari et ses enfants sont ici à leur poste ce matin. Combien nous Te remercions
-pour cette foi courageuse, la foi de nos pères toujours vivante et qui nous sert de lieu caché,
-de flamme et d’épée. Nous Te remercions pour tout cela.
-15 Que sa précieuse âme repose en paix, Seigneur. Elle était notre soeur. Nous sommes dans le
-chagrin, notre coeur saigne à cause de son absence, mais la joie jaillit de nos larmes et nous
-atteste que, conformément à Ta Parole, elle vit d’une vie immortelle qui n’aura pas de fin. Et il n’y
-aura plus d’accidents là où elle se trouve maintenant dans l’attente de ceux qui viendront dans la
-suite la rejoindre.
-
-        http://www.cmpp.ch
-
-IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 4
-16 Bénis frère Coats et ses filles, Seigneur, ainsi que tous ses bien-aimés et tous ceux qui l’ont
-aimée. Et Père, nous sommes certains de la rencontrer un jour dans ce glorieux au-delà, où il n’y a
-ni douleurs, ni maladies, ni mort. En attendant ce moment, maintiens-nous tous en bonne santé,
-Te servant, nous réjouissant à l’avance de ce jour. Nous Te le demandons au Nom de
-Jésus-Christ. Amen.
-17 Puisse le glorieux Saint-Esprit, qui est à l’oeuvre parmi nous dans ce Tabernacle en nous
-révélant Sa Parole, garder sa belle âme dans la paix jusqu’à ce que nous la retrouvions.
-18 Il fait chaud ici ce matin. Cela vient de nos corps, vous savez, nous sommes tellement
-nombreux.
-19 J’aimerais dire quelque chose maintenant. Le service du matin est parfois long. Parfois une
-heure et demie ou deux heures. Ce n’est pas bien d’avoir des services si longs. Mais c’est parce
-que j’enregistre ici derrière. Vous voyez? Et cet enregistrement va dans le monde entier. C’est
-pourquoi les réunions du matin sont si longues. C’est parce que je viens ici pour faire ces bandes.
-Vous pouvez voir ici dans la salle que nous enregistrons des bandes et celles-ci vont partout dans
-le monde.
-20 Maintenant, Dieu voulant, je retournerai demain matin pour quelque temps en Arizona où il y
-aura une rencontre. Nous descendrons vers le sud. Ecoutez, vous gens du Sud, de Géorgie, du
-Mississipi, du Texas et de l’Alabama, nous passerons par chez vous pour aller jusqu’en Floride.
-21 Je vais d’ici à Phoenix, puis en Californie, puis je retournerai à Dallas; je m’arrêterai peut-être
-à San Antonio, puis je retournerai en Alabama et en Floride. Ainsi nous nous verrons très bientôt,
-si c’est la volonté du Seigneur.
-22 Et vous, continuez à prier pour nous et nous vous ferons savoir quand… Si le Seigneur nous
-met sur le coeur d’avoir quelques réunions ici l’été prochain…
-23 J’avais programmé une série de réunions en Scandinavie et beaucoup d’entre vous à New
-York savent que j’ai eu une vision disant que toutes ces réunions en Scandinavie… Vous
-souvenez-vous de toutes ces réunions qui avaient été programmées? Et alors que j’étais à New
-York, cette vision vint disant que chacune de ces réunions serait annulée pour une raison
-quelconque. Je me souviens en avoir parlé à quelques-uns d’entre vous lorsque nous étions à
-New York. C’est exactement ce qui est arrivé car tous voulaient avoir la rencontre le même jour et
-ils n’ont pas pu obtenir la salle. Cela laisserait donc un moment de libre en juin. J’ai pensé que ce
-serait peut-être la volonté du Seigneur que je revienne ici parler de ces trompettes avant qu’il ne
-soit trop tard. Vous voyez? Ainsi nous savons que toutes choses travaillent ensemble pour le bien.
-J’avais cela sur le coeur, c’est donc peut-être ce qu’Il veut que nous fassions.
-24 Je vois maintenant que vous échangez vos sièges, que vous sortez dans le hall et ainsi de
-suite. Nous souhaiterions avoir assez de places assises quand nous étudierons les trompettes,
-nous prendrons l’auditorium du collège. Je crois qu’il a cinq mille cinq cents places, ce qui
-permettra à chacun d’avoir un siège et de pouvoir écouter tranquillement pendant que nous
-prêcherons. Les trompettes sont un très beau message. J’y ai jeté un coup d’oeil l’autre jour…
-25 Les sept trompettes sonnent au sixième Sceau, vous voyez, juste avant que le
-septième Sceau n’introduise la venue de Christ.
-26 Et ce soir j’ai un message très important à donner avant le service de guérison. Et si vous
-êtes là et restez sur place, nous tâcherons de commencer un peu plus tôt à cause de la ligne de
-prière. Je ne prêcherai pas trop longtemps, mais il y a quelque chose que je désire dire à l’église
-depuis un certain temps. C’est au sujet du déroulement des événements de ce temps et de la
-position où nous nous trouvons. Je ferai cela au mieux de la connaissance que j’ai par les
-Ecritures.
-27 J’aimerais que vous vous tourniez avec moi ce matin vers le livre d’Esaïe, si vous voulez le
-noter ou vous en souvenir, car j’aimerais lire dans Ésaïe 42.
-28 Nous sommes très heureux d’avoir aussi le frère Dauch parmi nous ce matin. Pendant que
-vous cherchez la page… Vous savez, l’autre jour à Shreveport on ne pensait pas qu’il survivrait;
-mais il a la foi… Certainement! Il s’en sort, le Seigneur le bénit. Voyez, frère Dauch a quatre-vingt-
-onze ans et il a eu une défaillance du coeur et même une crise cardiaque. Et même le médecin a
-dit qu’il ne voyait pas comment il pourrait rester en vie. Le frère Dauch est en vie et le médecin est
-
-        http://www.cmpp.ch
-
-IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 5
-mort. Voyez cela… Frère Dauch est là assis parmi nous.
-29 Voici un homme de quatre-vingt-onze ans qui a eu une défaillance du coeur et une crise
-cardiaque. Et tandis que je montais là-bas, je l’ai vu en vision qui descendait la rue à pied. Je l’ai
-vu dans l’église. Lorsque je suis allé le voir sous sa tente à oxygène, je lui ai dit: «Au Nom du
-Seigneur, je vous reverrai à l’église et je vous serrerai la main dans la rue…». Et lors du service
-suivant il était là, assis là-bas dans l’église. Et je suis allé à Louisville, où nous prenons un repas
-au Blue Boar et en sortant de mon auto, au moment où j’allais remonter la rue, je vis frère Dauch
-qui la descendait. Tout s’accomplissait parfaitement. Combien le Seigneur l’a béni.
-30 Ce soir nous parlerons de la guérison et de ces choses. J’aurai des choses extraordinaires à
-vous dire ce soir.
-31 Mais maintenant, afin que je puisse avoir les bandes et qu’ils puissent être prêts à enregistrer,
-je vais commencer à lire dans Esaïe, chapitre 42 versets 1 à 7 et dans Matthieu 4 en commençant
-aux versets 15 et 16.
+1 Inclinons la tête maintenant. Père céleste, nous Te remercions ce matin pour Ta bonté et Ta miséricorde, car Tu nous accordes le privilège de nous rassembler de nouveau ici (un jour de ce côté-ci de l’éternité) pour adorer Celui qui est adorable, le Seigneur Jésus-Christ. Nous Te remercions de ce qu’Il est venu sur la terre pour nous racheter d’une vie de péché et pour nous donner le glorieux héritage qui nous est acquis par le moyen de Sa justice. Alors que ce matin nous sommes Ses ambassadeurs ici pour rompre le pain de vie pour cette assemblée qui est dans l’attente, que le Saint-Esprit inspire chaque mot et le fasse pénétrer dans le coeur des gens selon leurs besoins. Nous Te le demandons au Nom de Jésus. Amen. (Asseyez-vous.)
+2 J’estime que c’est certainement un grand privilège pour moi que d’être de nouveau ici ce matin au milieu de vous. Je regrette que nous n’ayons pas plus de place à offrir aux gens. Notre Tabernacle n’est pas assez grand. Et nous sommes très reconnaissants d’être de retour de ces vacances chez nous à Tucson, le temps était assez mauvais mais nous sommes contents d’être ici et d’avoir la réunion.
+    Maintenant je veux annoncer que ce soir il y aura un service de guérison ou de prière pour les malades. J’en ai parlé à Bill qui a dit: «Eh bien, que vas-tu faire?».
+3 J’ai répondu: «Ce serait bien que tu distribues des cartes ce soir vers six heures et demie. La foule est si dense que les gens doivent venir l’un après l’autre; ils seront donc appelés par le numéro de leur carte et il n’y aura pas d’encombrement. Nous pouvons les appeler un par un; qu’ils suivent donc la ligne tandis que nous prierons pour eux».
+4 Si donc vous êtes malade, ou que des personnes qui vous sont chères sont malades et que vous désiriez les amener, venez vers six heures trente ou sept heures et demandez une carte de prière. Quelqu’un se tiendra à la porte et vous en donnera à votre arrivée.
+5 Ce sera probablement la dernière fois que je viendrai ici pendant quelque temps car en ce moment j’ai un programme très chargé, mais je resterai aux Etats-Unis jusqu’à la fin du printemps. Ainsi nous reviendrons peut-être un peu plus tard cet été. Si le Seigneur le permet, je serai heureux que nous obtenions la salle et qu’elle ait l’air conditionné. Je vais en parler à Billy. J’aimerais parler sur ces sept trompettes. J’aimerais avoir une réunion sur les sept trompettes, si le Seigneur le veut. Car il y a les sept âges de l’Eglise, les sept Sceaux et maintenant les sept trompettes. Et si vous avez du temps de libre en juin, au moment des vacances, faites-le à ce moment-là afin que les gens puissent venir.
+6 Je suis heureux de voir que ce matin le frère Shepherd est de retour de l’hôpital. Je suis allé le voir l’autre jour. Et soeur Shepherd, je ne vous ai pas appelée au téléphone l’autre jour. Ce songe que vous m’avez envoyé était très, très bien. Il semble que vous ayez vu Christ dans les Cieux, sur un cheval blanc encore tenu en bride. Et avant que cela ne s’efface, toute votre famille a pu le voir. L’interprétation du songe est que votre famille L’a vu s’avancer dans ce dernier jour juste avant que cela ne s’efface. C’était un songe très spirituel et une grande bénédiction pour votre famille. Cette famille vient de traverser une grande épreuve pour en arriver où ils en sont aujourd’hui.
+7 Et maintenant nous avons quelque chose d’assez triste à vous annoncer ce matin. Depuis la dernière fois que nous nous sommes rencontrés, l’une de nos chères amies… ce sont des fidèles de ce Tabernacle, la famille Coats que nous aimons tous. Ils viennent de l’Est ou des environs de Chicago. Il y a soeur Billy Habib et soeur Armstrong avec toutes les filles. Je crois qu’autrefois ils étaient nazaréens, et ils sont venus au Seigneur. Ce sont de précieux amis. Frère et soeur Coats, leur père et leur mère, rentraient l’autre jour en voiture, ils venaient de l’Ouest. Quelqu’un dérapa et soeur Coats fut tuée sur le coup. Et au moment où on m’appela à Tucson, où j’ai appris la chose, j’étais justement installé ici à ma table où se trouvait une boîte de bonbons qu’elle venait de m’envoyer. Vous voyez le coup que cela m’a fait. Mais je crois que ce matin nous pouvons remercier le Seigneur car elle n’a pas souffert. Elle devenait âgée et la souffrance lui a été épargnée. Elle est allée à la maison pour être avec Dieu.
+8 Je viens précisément de penser à cela et d’en parler à ses deux filles dans la pièce là-bas. Frère Coats est ici ce matin. Il a eu quelques côtes cassées. Je l’ai appelé à l’établissement où on l’a hospitalisé dans le Missouri, il a eu des côtes cassées et des contusions, mais il est réellement courageux, un vrai chrétien, il sait que sa petite reine n’est pas morte, elle est vivante à jamais avec Christ. Et il y aura un temps de retrouvailles.
+9 Job a dit un jour: “Oh, si Tu voulais me cacher dans le séjour des morts, me garder dans un endroit secret jusqu’à ce que Ta colère soit passée!”.
+10 N’avez-vous jamais remarqué que Dieu fait la même chose dans la nature? C’est comme la sève dans les arbres là-haut qui nourrit les feuilles, puis avant la venue de l’hiver, qui représente la colère se répandant sur la terre… Voyez, il fut un temps où la terre ne connaissait pas l’hiver. Et pendant le millénium, il n’y aura plus jamais d’hiver. Vous voyez? L’hiver représente donc la colère sur la terre. Avant la venue de la colère, Dieu dans Sa grâce fait descendre la sève sous terre dans les racines de cet arbre et l’y maintient jusqu’à ce que la colère de l’hiver soit passée, puis Il la fait remonter au printemps. “Oh, si Tu voulais me cacher dans le séjour des morts, me garder dans cet endroit secret jusqu’à ce que Ta colère soit passée!”. C’est ce qu’Il a fait pour notre soeur, c’est ce qu’Il fait pour tous les chrétiens.
+11 Frère Coats, que Dieu vous bénisse. Je suis si heureux de savoir que le Sceau de Dieu tient bon à l’heure de l’épreuve. Je sais par où il passe car il m’est arrivé la même chose il y a quelques années. L’un après l’autre nous devons traverser cette grande rivière, et un de ces jours ce sera mon tour, comme viendra aussi le vôtre. Mais comme l’a dit David: “Je ne crains aucun mal. Ta houlette et Ton bâton me rassurent”.
+12 Maintenant, en mémoire de soeur Coats, notre précieuse soeur qui s’en est allée vers Dieu, en souvenir d’elle ce matin je demande à l’assemblée de se lever juste un instant. Inclinons la tête et pensons à celle qui, il y a peu de jours, allait et venait parmi nous dans ce Tabernacle nous serrant à tous la main. C’était une merveilleuse chrétienne et elle est maintenant dans ce lieu que le Seigneur m’a laissé voir récemment où elle est redevenue une jeune femme attendant la venue de sa famille.
+13 Notre Père céleste, nous Te remercions pour le souvenir de soeur Coats. Quelle chère et précieuse soeur elle était. Et maintenant le temps vient où nous aurons fini de vivre le court moment qui nous est imparti, nous devrons traverser la rivière. Nous Te remercions de ce qu’elle n’a pas eu à souffrir. Il n’y a sûrement rien eu qui l’ait fait souffrir, en un instant elle est simplement allée tout droit dans les bras du Seigneur.
+14 Seigneur, son mari et ses enfants sont ici à leur poste ce matin. Combien nous Te remercions pour cette foi courageuse, la foi de nos pères toujours vivante et qui nous sert de lieu caché, de flamme et d’épée. Nous Te remercions pour tout cela.
+15 Que sa précieuse âme repose en paix, Seigneur. Elle était notre soeur. Nous sommes dans le chagrin, notre coeur saigne à cause de son absence, mais la joie jaillit de nos larmes et nous atteste que, conformément à Ta Parole, elle vit d’une vie immortelle qui n’aura pas de fin. Et il n’y aura plus d’accidents là où elle se trouve maintenant dans l’attente de ceux qui viendront dans la suite la rejoindre.
+16 Bénis frère Coats et ses filles, Seigneur, ainsi que tous ses bien-aimés et tous ceux qui l’ont aimée. Et Père, nous sommes certains de la rencontrer un jour dans ce glorieux au-delà, où il n’y a ni douleurs, ni maladies, ni mort. En attendant ce moment, maintiens-nous tous en bonne santé, Te servant, nous réjouissant à l’avance de ce jour. Nous Te le demandons au Nom de Jésus-Christ. Amen.
+17 Puisse le glorieux Saint-Esprit, qui est à l’oeuvre parmi nous dans ce Tabernacle en nous révélant Sa Parole, garder sa belle âme dans la paix jusqu’à ce que nous la retrouvions.
+18 Il fait chaud ici ce matin. Cela vient de nos corps, vous savez, nous sommes tellement nombreux.
+19 J’aimerais dire quelque chose maintenant. Le service du matin est parfois long. Parfois une heure et demie ou deux heures. Ce n’est pas bien d’avoir des services si longs. Mais c’est parce que j’enregistre ici derrière. Vous voyez? Et cet enregistrement va dans le monde entier. C’est pourquoi les réunions du matin sont si longues. C’est parce que je viens ici pour faire ces bandes. Vous pouvez voir ici dans la salle que nous enregistrons des bandes et celles-ci vont partout dans le monde.
+20 Maintenant, Dieu voulant, je retournerai demain matin pour quelque temps en Arizona où il y aura une rencontre. Nous descendrons vers le sud. Ecoutez, vous gens du Sud, de Géorgie, du Mississipi, du Texas et de l’Alabama, nous passerons par chez vous pour aller jusqu’en Floride.
+21 Je vais d’ici à Phoenix, puis en Californie, puis je retournerai à Dallas; je m’arrêterai peut-être à San Antonio, puis je retournerai en Alabama et en Floride. Ainsi nous nous verrons très bientôt, si c’est la volonté du Seigneur.
+22 Et vous, continuez à prier pour nous et nous vous ferons savoir quand… Si le Seigneur nous met sur le coeur d’avoir quelques réunions ici l’été prochain…
+23 J’avais programmé une série de réunions en Scandinavie et beaucoup d’entre vous à New York savent que j’ai eu une vision disant que toutes ces réunions en Scandinavie… Vous souvenez-vous de toutes ces réunions qui avaient été programmées? Et alors que j’étais à New York, cette vision vint disant que chacune de ces réunions serait annulée pour une raison quelconque. Je me souviens en avoir parlé à quelques-uns d’entre vous lorsque nous étions à New York. C’est exactement ce qui est arrivé car tous voulaient avoir la rencontre le même jour et ils n’ont pas pu obtenir la salle. Cela laisserait donc un moment de libre en juin. J’ai pensé que ce serait peut-être la volonté du Seigneur que je revienne ici parler de ces trompettes avant qu’il ne soit trop tard. Vous voyez? Ainsi nous savons que toutes choses travaillent ensemble pour le bien. J’avais cela sur le coeur, c’est donc peut-être ce qu’Il veut que nous fassions.
+24 Je vois maintenant que vous échangez vos sièges, que vous sortez dans le hall et ainsi de suite. Nous souhaiterions avoir assez de places assises quand nous étudierons les trompettes, nous prendrons l’auditorium du collège. Je crois qu’il a cinq mille cinq cents places, ce qui permettra à chacun d’avoir un siège et de pouvoir écouter tranquillement pendant que nous prêcherons. Les trompettes sont un très beau message. J’y ai jeté un coup d’oeil l’autre jour…
+25 Les sept trompettes sonnent au sixième Sceau, vous voyez, juste avant que le septième Sceau n’introduise la venue de Christ.
+26 Et ce soir j’ai un message très important à donner avant le service de guérison. Et si vous êtes là et restez sur place, nous tâcherons de commencer un peu plus tôt à cause de la ligne de prière. Je ne prêcherai pas trop longtemps, mais il y a quelque chose que je désire dire à l’église depuis un certain temps. C’est au sujet du déroulement des événements de ce temps et de la position où nous nous trouvons. Je ferai cela au mieux de la connaissance que j’ai par les Ecritures.
+27 J’aimerais que vous vous tourniez avec moi ce matin vers le livre d’Esaïe, si vous voulez le noter ou vous en souvenir, car j’aimerais lire dans Ésaïe 42.
+28 Nous sommes très heureux d’avoir aussi le frère Dauch parmi nous ce matin. Pendant que vous cherchez la page… Vous savez, l’autre jour à Shreveport on ne pensait pas qu’il survivrait; mais il a la foi… Certainement! Il s’en sort, le Seigneur le bénit. Voyez, frère Dauch a quatre-vingt-onze ans et il a eu une défaillance du coeur et même une crise cardiaque. Et même le médecin a dit qu’il ne voyait pas comment il pourrait rester en vie. Le frère Dauch est en vie et le médecin est mort. Voyez cela… Frère Dauch est là assis parmi nous.
+29 Voici un homme de quatre-vingt-onze ans qui a eu une défaillance du coeur et une crise cardiaque. Et tandis que je montais là-bas, je l’ai vu en vision qui descendait la rue à pied. Je l’ai vu dans l’église. Lorsque je suis allé le voir sous sa tente à oxygène, je lui ai dit: «Au Nom du Seigneur, je vous reverrai à l’église et je vous serrerai la main dans la rue…». Et lors du service suivant il était là, assis là-bas dans l’église. Et je suis allé à Louisville, où nous prenons un repas au Blue Boar et en sortant de mon auto, au moment où j’allais remonter la rue, je vis frère Dauch qui la descendait. Tout s’accomplissait parfaitement. Combien le Seigneur l’a béni.
+30 Ce soir nous parlerons de la guérison et de ces choses. J’aurai des choses extraordinaires à vous dire ce soir.
+31 Mais maintenant, afin que je puisse avoir les bandes et qu’ils puissent être prêts à enregistrer, je vais commencer à lire dans Esaïe, chapitre 42 versets 1 à 7 et dans Matthieu 4 en commençant aux versets 15 et 16.
 32 Maintenant au chapitre 42 d’Esaïe nous lisons:
-     “Voici mon serviteur que je soutiens, mon élu en qui mon âme trouve son plaisir. Je
-     mettrai mon Esprit sur lui; il fera valoir le jugement à l’égard des nations. Il ne criera pas,
-     et il n’élèvera pas sa voix, et il ne la fera pas entendre dans la rue. Il ne brisera pas le
-     roseau froissé, et n’éteindra pas le lin qui brille à peine. Il fera valoir le jugement en
-     faveur de la vérité. Il ne se lassera pas, et il ne se hâtera pas, jusqu’à ce qu’il ait établi le
-     juste jugement sur la terre; et les îles s’attendront à sa loi.
-     Ainsi dit Dieu, l’Eternel, qui a créé les cieux et les a déployés, qui a étendu la terre et ses
-     produits, qui donne la respiration au peuple qui est sur elle, et un esprit à ceux qui y
-     marchent: Moi, l’Eternel, je t’ai appelé en justice; et je tiendrai ta main; et je te garderai; et
-     je te donnerai pour être une alliance du peuple, pour être une lumière des nations, pour
-     ouvrir les yeux aveugles, pour faire sortir de la prison le prisonnier, et du cachot ceux qui
-     sont assis dans les ténèbres” (Darby).
-33 Maintenant dans l’évangile de Matthieu au chapitre 4, j’aimerais lire l’accomplissement de la
-prophétie d’Esaïe. Commençons plutôt au verset 12 au lieu du 15:
-     “Jésus, ayant appris que Jean avait été livré, se retira dans la Galilée. Il quitta Nazareth,
-     et vint demeurer à Capernaüm, située près de la mer, dans le territoire de Zabulon et de
-     Nephtali, afin que s’accomplit ce qui avait été annoncé par Esaïe, le prophète: Le peuple
-     de Zabulon et de Nephtali, de la contrée voisine de la mer, du pays au-delà du Jourdain,
-     et de la Galilée des Gentils, ce peuple, assis dans les ténèbres, a vu une grande lumière;
-     et sur ceux qui étaient assis dans la région et l’ombre de la mort la lumière s’est levée.
-     Dès ce moment Jésus commença à prêcher, et à dire: Repentez-vous, car le royaume
-     des cieux est proche”.
-     Que le Seigneur ajoute Ses bénédictions à la lecture de Sa Parole.
-34 Et maintenant voici un curieux petit texte que j’ai entendu dire par quelqu’un mais je veux le
-prendre moi-même pour texte: Il y a ici un homme qui peut allumer la lumière.
-35 Nous allons donc parler de la lumière. C’est la suite des trois sujets que nous venons de
-traiter à Tucson ou à Phoenix au sujet de la raison de la venue de Jésus à Bethléhem. Il devait en
-être ainsi car Il est Bethléhem: B-e-t-h, c’est la “maison”, e-l, c’est “Dieu”, e-h-a-m, c’est “pain”. “La
-maison du pain de Dieu”. Et chaque chrétien né en Christ est né à Bethléhem, la maison du
-pain de Dieu.
-36 Prenons l’exemple de David qui était un fugitif au temps où son peuple l’avait excommunié. Il
-fut chassé et Bethléhem fut assiégée; les Philistins étaient en garnison autour de la ville. Et David
-était un fugitif, un type de l’Eglise d’aujourd’hui, de Christ. Voyez, Christ a dû s’enfuir de Sa
-propre Eglise aujourd’hui. Un fugitif est une personne qui a été rejetée. Et David avait été rejeté,
-pourtant il était oint pour être roi. Le prophète l’avait oint.
-37 Et pendant ce temps, alors qu’il fuyait son peuple, il avait entraîné avec lui beaucoup de
-vaillants hommes des nations. L’un d’entre eux tua par l’épée huit cents hommes en un seul jour.
-Alors qu’il neigeait, un autre sauta dans une fosse et tua un lion. Un jour qu’ils récoltaient des
-
-        http://www.cmpp.ch
-
-IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 6
-lentilles (ce sont des sortes de pois), ils s’enfuirent tous sauf un qui resta et tua des hommes
-jusqu’à ce que son bras soit fatigué. Ils ont aussi tué ces géants, frères de Goliath. C’étaient de
-vaillants hommes qui s’étaient attachés à David car ils savaient qu’il allait prendre le pouvoir. Ils
-savaient que, quoi qu’on en dise, David était sous l’onction de Dieu. Ils le savaient. C’étaient
-des hommes des nations. Peu importait dans quelle mesure il était rejeté, ils savaient qu’il allait
-prendre le pouvoir.
-38 Quel type de Christ pour aujourd’hui! Un fugitif! Vous dites: «Christ, un fugitif?». D’après la
-Bible (Dieu nous a magnifiquement conduits à travers les sept âges de l’Eglise), Christ était un
-fugitif de l’église de Laodicée qui L’avait rejeté et Il s’efforçait d’y rentrer. Vous voyez? Il est un
-fugitif de Sa propre Eglise. Et la raison pour laquelle Il est fugitif, c’est parce qu’Il est la
-Parole; et ils ne veulent pas de la Parole, ils ont accepté des credo à Sa place.
+    “Voici mon serviteur que je soutiens, mon élu en qui mon âme trouve son plaisir. Je mettrai mon Esprit sur lui; il fera valoir le jugement à l’égard des nations. Il ne criera pas, et il n’élèvera pas sa voix, et il ne la fera pas entendre dans la rue. Il ne brisera pas le roseau froissé, et n’éteindra pas le lin qui brille à peine. Il fera valoir le jugement en faveur de la vérité. Il ne se lassera pas, et il ne se hâtera pas, jusqu’à ce qu’il ait établi le juste jugement sur la terre; et les îles s’attendront à sa loi.
+    Ainsi dit Dieu, l’Eternel, qui a créé les cieux et les a déployés, qui a étendu la terre et ses produits, qui donne la respiration au peuple qui est sur elle, et un esprit à ceux qui y marchent: Moi, l’Eternel, je t’ai appelé en justice; et je tiendrai ta main; et je te garderai; et je te donnerai pour être une alliance du peuple, pour être une lumière des nations, pour ouvrir les yeux aveugles, pour faire sortir de la prison le prisonnier, et du cachot ceux qui sont assis dans les ténèbres” (Darby).
+33 Maintenant dans l’évangile de Matthieu au chapitre 4, j’aimerais lire l’accomplissement de la prophétie d’Esaïe. Commençons plutôt au verset 12 au lieu du 15:
+    “Jésus, ayant appris que Jean avait été livré, se retira dans la Galilée. Il quitta Nazareth, et vint demeurer à Capernaüm, située près de la mer, dans le territoire de Zabulon et de Nephtali, afin que s’accomplît ce qui avait été annoncé par Esaïe, le prophète: Le peuple de Zabulon et de Nephtali, de la contrée voisine de la mer, du pays au-delà du Jourdain, et de la Galilée des Gentils, ce peuple, assis dans les ténèbres, a vu une grande lumière; et sur ceux qui étaient assis dans la région et l’ombre de la mort la lumière s’est levée. Dès ce moment Jésus commença à prêcher, et à dire: Repentez-vous, car le royaume des cieux est proche”.
+    Que le Seigneur ajoute Ses bénédictions à la lecture de Sa Parole.
+34 Et maintenant voici un curieux petit texte que j’ai entendu dire par quelqu’un mais je veux le prendre moi-même pour texte: Il y a ici un homme qui peut allumer la lumière.
+35 Nous allons donc parler de la lumière. C’est la suite des trois sujets que nous venons de traiter à Tucson ou à Phoenix au sujet de la raison de la venue de Jésus à Bethléhem. Il devait en être ainsi car Il est Bethléhem: B-e-t-h, c’est la “maison”, e-l, c’est “Dieu”, e-h-a-m, c’est “pain”. “La maison du pain de Dieu”. Et chaque chrétien né en Christ est né à Bethléhem, la maison du pain de Dieu.
+36 Prenons l’exemple de David qui était un fugitif au temps où son peuple l’avait excommunié. Il fut chassé et Bethléhem fut assiégée; les Philistins étaient en garnison autour de la ville. Et David était un fugitif, un type de l’Eglise d’aujourd’hui, de Christ. Voyez, Christ a dû s’enfuir de Sa propre Eglise aujourd’hui. Un fugitif est une personne qui a été rejetée. Et David avait été rejeté, pourtant il était oint pour être roi. Le prophète l’avait oint.
+37 Et pendant ce temps, alors qu’il fuyait son peuple, il avait entraîné avec lui beaucoup de vaillants hommes des nations. L’un d’entre eux tua par l’épée huit cents hommes en un seul jour. Alors qu’il neigeait, un autre sauta dans une fosse et tua un lion. Un jour qu’ils récoltaient des lentilles (ce sont des sortes de pois), ils s’enfuirent tous sauf un qui resta et tua des hommes jusqu’à ce que son bras soit fatigué. Ils ont aussi tué ces géants, frères de Goliath. C’étaient de vaillants hommes qui s’étaient attachés à David car ils savaient qu’il allait prendre le pouvoir. Ils savaient que, quoi qu’on en dise, David était sous l’onction de Dieu. Ils le savaient. C’étaient des hommes des nations. Peu importait dans quelle mesure il était rejeté, ils savaient qu’il allait prendre le pouvoir.
+38 Quel type de Christ pour aujourd’hui! Un fugitif! Vous dites: «Christ, un fugitif?». D’après la Bible (Dieu nous a magnifiquement conduits à travers les sept âges de l’Eglise), Christ était un fugitif de l’église de Laodicée qui L’avait rejeté et Il s’efforçait d’y rentrer. Vous voyez? Il est un fugitif de Sa propre Eglise. Et la raison pour laquelle Il est fugitif, c’est parce qu’Il est la Parole; et ils ne veulent pas de la Parole, ils ont accepté des credo à Sa place.
 39 Et ainsi nous découvrons ces vaillants hommes des nations au côté de David.
-40 Remarquez comment fut fondée Bethléhem. Je ne veux pas aborder ce sujet aujourd’hui.
-Mais c’est réellement le fils de Rahab, la prostituée, qui a fondé Bethléhem. C’était une région à
-blé. Il y avait là en abondance une eau excellente. Et ils fondèrent la petite ville. C’était la plus
-petite de toutes les villes car le prophète a dit: “Et toi, Bethléhem de Judée, petite entre les milliers
-de Juda, de toi sortira le gouverneur qui régnera sur Israël”. C’est de cette petite ville qu’Il sortirait.
-41 Lorsque Samuel vint pour oindre un roi, tous les frères de David étaient présents, ils étaient
-beaux et vaillants, paraissant dignes d’être roi, mais c’est justement sur celui qui était rejeté,
-David, que l’huile fut répandue. La ville rejetée fut celle que Christ… C’est ce qui est rejeté
-que Christ saisit, ceux qui sont rejetés.
-42 Puis nous découvrons que Boaz engendra Obed, fils de Ruth qui était des nations, puis vint
-Isaï de qui naquit David. Et c’est d’une petite étable au flanc de la colline que sortit le Roi des rois,
-Jésus-Christ, le fils de David, son Fils spirituel.
-43 David lui-même naquit dans la ville. Il devait venir de ce lieu minuscule. Et ce lieu fut appelé
-Bethléhem, ce qui signifie “la maison du pain de Dieu”. Et Jésus est “la Maison du Pain de
-Dieu”.
-44 Et David, étendu ce jour-là sur la colline, regarda en bas et vit les Philistins en garnison tout
-autour. Il devait avoir chaud et soif. Il dit: “Oh, si je pouvais boire encore une fois de l’eau de ce
-puits!”. Eh bien, la moindre de ses pensées était un ordre pour ceux qui l’aimaient.
-45 Ainsi en est-il aujourd’hui. La moindre des pensées de Jésus, et à plus forte raison Sa
-Parole, devrait être un ordre pour nous croyants des nations qui L’aimons. Car nous savons
-qu’Il va venir en puissance, peu importe combien Il est rejeté. Le ciel et la terre passeront mais Sa
-volonté régnera même lorsqu’il n’y aura plus ni ciel ni terre. Et nous savons qu’Il va venir en
-puissance car rien n’empêchera que cela arrive. C’est le Christ, la révélation de Lui-même, et
-cela arrivera exactement de la manière dont la Parole le dit car Il est la Parole. Et au plus
-petit de Ses commandements, si petit soit-il, que ce soit d’être rebaptisé ou autre, nous obéirons
-de toute manière. C’est Son ordre.
-46 Et la moindre des pensées de David était un ordre pour ces hommes des nations qui sont un
-type de l’actuelle Eglise des nations. C’étaient de vaillants hommes. Vous voyez? Ces hommes
-qui se tenaient près de David venaient des nations mais ils étaient vaillants. Ils étaient sans
-crainte. Ils ignoraient ce qu’est la peur.
-47 Un homme prit une épée et tua huit cents hommes qui l’entouraient. Quel homme c’était! Un
-guerrier égyptien accourut avec une lance. Ce soldat de David n’avait qu’un bâton à la main. A
-l’aide de ce bâton, il désarma l’Egyptien, prit sa lance et le tua. Vous voyez?
-48 L’un de ces géants avait des doigts longs de trente-cinq centimètres. Votre doigt a juste la
-même longueur que votre poing fermé. La main de ce géant avait donc soixante-dix centimètres
-de long. Mais cet homme des nations s’élança et le tua, vous voyez. Pourquoi? C’était un vaillant
-homme des nations regardant à l’oint, à celui dont il savait qu’il viendrait au pouvoir.
-49 Avez-vous remarqué que lorsque David prit finalement le pouvoir, il fit de tous ceux qui
-avaient été vaillants des gouverneurs de villes? Jésus n’a-t-Il pas promis la même chose? Oui, Il
-en fera aussi des gouverneurs.
-
-        http://www.cmpp.ch
+40 Remarquez comment fut fondée Bethléhem. Je ne veux pas aborder ce sujet aujourd’hui. Mais c’est réellement le fils de Rahab, la prostituée, qui a fondé Bethléhem. C’était une région à blé. Il y avait là en abondance une eau excellente. Et ils fondèrent la petite ville. C’était la plus petite de toutes les villes car le prophète a dit: “Et toi, Bethléhem de Judée, petite entre les milliers de Juda, de toi sortira le gouverneur qui régnera sur Israël”. C’est de cette petite ville qu’Il sortirait.
+41 Lorsque Samuel vint pour oindre un roi, tous les frères de David étaient présents, ils étaient beaux et vaillants, paraissant dignes d’être roi, mais c’est justement sur celui qui était rejeté, David, que l’huile fut répandue. La ville rejetée fut celle que Christ… C’est ce qui est rejeté que Christ saisit, ceux qui sont rejetés.
+42 Puis nous découvrons que Boaz engendra Obed, fils de Ruth qui était des nations, puis vint Isaï de qui naquit David. Et c’est d’une petite étable au flanc de la colline que sortit le Roi des rois, Jésus-Christ, le fils de David, son Fils spirituel.
+43 David lui-même naquit dans la ville. Il devait venir de ce lieu minuscule. Et ce lieu fut appelé Bethléhem, ce qui signifie “la maison du pain de Dieu”. Et Jésus est “la Maison du Pain de Dieu”.
+44 Et David, étendu ce jour-là sur la colline, regarda en bas et vit les Philistins en garnison tout autour. Il devait avoir chaud et soif. Il dit: “Oh, si je pouvais boire encore une fois de l’eau de ce puits!”. Eh bien, la moindre de ses pensées était un ordre pour ceux qui l’aimaient.
+45 Ainsi en est-il aujourd’hui. La moindre des pensées de Jésus, et à plus forte raison Sa Parole, devrait être un ordre pour nous croyants des nations qui L’aimons. Car nous savons qu’Il va venir en puissance, peu importe combien Il est rejeté. Le ciel et la terre passeront mais Sa volonté régnera même lorsqu’il n’y aura plus ni ciel ni terre. Et nous savons qu’Il va venir en puissance car rien n’empêchera que cela arrive. C’est le Christ, la révélation de Lui-même, et cela arrivera exactement de la manière dont la Parole le dit car Il est la Parole. Et au plus petit de Ses commandements, si petit soit-il, que ce soit d’être rebaptisé ou autre, nous obéirons de toute manière. C’est Son ordre.
+46 Et la moindre des pensées de David était un ordre pour ces hommes des nations qui sont un type de l’actuelle Eglise des nations. C’étaient de vaillants hommes. Vous voyez? Ces hommes qui se tenaient près de David venaient des nations mais ils étaient vaillants. Ils étaient sans crainte. Ils ignoraient ce qu’est la peur.
+47 Un homme prit une épée et tua huit cents hommes qui l’entouraient. Quel homme c’était! Un guerrier égyptien accourut avec une lance. Ce soldat de David n’avait qu’un bâton à la main. A l’aide de ce bâton, il désarma l’Egyptien, prit sa lance et le tua. Vous voyez?
+48 L’un de ces géants avait des doigts longs de trente-cinq centimètres. Votre doigt a juste la même longueur que votre poing fermé. La main de ce géant avait donc soixante-dix centimètres de long. Mais cet homme des nations s’élança et le tua, vous voyez. Pourquoi? C’était un vaillant homme des nations regardant à l’oint, à celui dont il savait qu’il viendrait au pouvoir.
+49 Avez-vous remarqué que lorsque David prit finalement le pouvoir, il fit de tous ceux qui avaient été vaillants des gouverneurs de villes? Jésus n’a-t-Il pas promis la même chose? Oui, Il en fera aussi des gouverneurs.
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 7
-50 Et lorsque David souhaita boire l’eau fraîche… Là-haut il n’avait probablement qu’une vieille
-eau stagnante, chaude, à boire. Mais il se mit à penser à l’eau fraîche de Bethléhem là en bas, “la
-maison du pain de Dieu”. Et il dit: “Si seulement je pouvais boire un peu d’eau de cette source…”.
-Et ces hommes ont dégainé leurs épées et ont combattu les Philistins sur vingt-cinq km, non parce
-qu’il l’avait demandé mais parce qu’ils savaient qu’il désirait cela. Et ils ont taillé leur chemin au
-travers des Philistins jusqu’à la source. Pendant, que deux hommes combattaient, un troisième
-remplit son seau d’eau, puis ils combattirent tout le long du chemin de retour et présentèrent le
-seau à David. Quels hommes vaillants c’étaient!
-51 David, cet homme de Dieu, dit: “Que Dieu me garde de boire le sang de ces amis qui sont
-allés au péril de leur vie!”. Et il la répandit sur le sol en libation au Seigneur. “Donnez-la au
-Seigneur. Lui seul en est digne. Non pas moi”.
-52 C’est le type même de Christ ayant en Lui Sa propre Vie éternelle, le Rocher frappé qui
-répandit Sa Vie sur le sol en offrande pour nos péchés afin que cette Parole puisse vivre.
-53 Oh, croyants des nations, comme je l’ai dit: “Qui tirera l’épée avec moi?”. Il désire une eau
-fraîche ce matin et non pas ces vieux credo d’église stagnants et tout ce avec quoi on joue. Il veut
-une foi véritable en Sa Parole, une foi qui croit chaque mot de cette Parole. Allons à la source
-et rapportons-en une boisson rafraîchissante, non une adoration basée sur des credo et des
-dénominations, mais une adoration véritable en Esprit avec Christ au milieu de nous vivant
-Sa Vie comme Il le veut. Cela ne dépend pas de credo ou d’autres choses: recevons-Le
-simplement de cette manière.
-54 Nous allons voir ensuite comment Dieu agit sur les gens par le moyen d’un songe, du temps
-de Joseph. Avez-vous remarqué qu’un songe est quelque chose de secondaire? Dieu travaille par
-un moyen secondaire. Certains peuvent avoir des rêves qui n’ont aucune signification. Il se peut
-que vous ayez trop mangé et que vous ayez un cauchemar. Mais le songe est un moyen
-secondaire. Pourquoi Dieu protégea-t-Il Son propre Fils par un moyen secondaire? Il apparut à
-Joseph. Pour le bien de Son propre enfant Il a employé un moyen de second ordre. Avez-vous
-déjà pensé à cela? C’est parce qu’il n’y avait pas de prophète dans le pays. Il devait donc agir par
-des songes. Et ce n’était pas un songe qui demandait une interprétation. L’ange de Dieu dit:
-“Joseph, ne crains pas de prendre avec toi Marie ta femme, car ce qui est conçu en elle vient du
-Saint-Esprit”.
-55 Ce qui arrivait était une chose inhabituelle. Joseph était un homme juste. Or ceci était
-inhabituel. Dieu est exceptionnel. Et ce qui est exceptionnel est difficile à comprendre. C’est
-pourquoi de nos jours il est difficile de comprendre la Vérité. Elle est tellement inhabituelle. Qu’une
-femme ait un bébé sans connaître d’homme était tout à fait inhabituel. Mais si vous êtes honnête
-et sincère, Dieu peut malgré tout vous apparaître en songe. Cela montre que si votre être tout
-entier est abandonné à Dieu, si tout ce que vous avez, votre intelligence, votre possibilité de
-siffler, de chanter, de témoigner ou quoi que ce soit est abandonné à Dieu, Il peut l’employer, si
-vous Le laissez simplement faire.
-56 Hier soir, frère Neville a prêché sur ce sujet: l’échappatoire. La manière pour l’homme de
-s’échapper. Et ce matin, j’ai trouvé cela remarquable que le Saint-Esprit semble vouloir que je
-continue en traitant le sujet de la lumière. Frère Neville est remonté au commencement montrant
-comment la vie de Christ a débuté dans une crèche. Et nous reprenons la même chose avec notre
-texte. Il ne le savait pas. Moi non plus. Et voici nous avons ici la même chose. Vous voyez? Et la
-chose suivante part du moment où Jésus commença Son ministère. Et ce soir, Dieu voulant, nous
-aurons quelque chose qui se marie tout à fait avec cela.
-57 Une grande Lumière jaillit parmi les Gentils qui étaient assis dans les régions de l’ombre de la
-mort. “Le peuple de ZabuIon et de Nephtali a vu une grande lumière”.
-58 La première fois que nous trouvons la lumière dans la Bible, c’est dans Genèse 1.3. C’est la
-Parole parlée de Dieu qui créa la lumière. Dieu dit: “Que la lumière soit! Et la lumière fut”.
-59 Maintenant souvenez-vous. La lumière vient par la Parole parlée de Dieu. La lumière est
-la manifestation de ce qu’Il a dit, et le sujet dont Il a parlé est la lumière. S’il y a de la lumière,
-cela vient de ce que Dieu a dit: “Que la lumière soit!”. Il n’y avait pas de lumière et Il dit: “Qu’il y ait
-de la Lumière!” et il y eut de la lumière. Ceci est une preuve. La lumière est la justification de Sa
-Parole parlée. C’est la même chose aujourd’hui: une justification de Sa Parole parlée.
+50 Et lorsque David souhaita boire l’eau fraîche… Là-haut il n’avait probablement qu’une vieille eau stagnante, chaude, à boire. Mais il se mit à penser à l’eau fraîche de Bethléhem là en bas, “la maison du pain de Dieu”. Et il dit: “Si seulement je pouvais boire un peu d’eau de cette source…”. Et ces hommes ont dégainé leurs épées et ont combattu les Philistins sur vingt-cinq km, non parce qu’il l’avait demandé mais parce qu’ils savaient qu’il désirait cela. Et ils ont taillé leur chemin au travers des Philistins jusqu’à la source. Pendant, que deux hommes combattaient, un troisième remplit son seau d’eau, puis ils combattirent tout le long du chemin de retour et présentèrent le seau à David. Quels hommes vaillants c’étaient!
+51 David, cet homme de Dieu, dit: “Que Dieu me garde de boire le sang de ces amis qui sont allés au péril de leur vie!”. Et il la répandit sur le sol en libation au Seigneur. “Donnez-la au Seigneur. Lui seul en est digne. Non pas moi”.
+52 C’est le type même de Christ ayant en Lui Sa propre Vie éternelle, le Rocher frappé qui répandit Sa Vie sur le sol en offrande pour nos péchés afin que cette Parole puisse vivre.
+53 Oh, croyants des nations, comme je l’ai dit: “Qui tirera l’épée avec moi?”. Il désire une eau fraîche ce matin et non pas ces vieux credo d’église stagnants et tout ce avec quoi on joue. Il veut une foi véritable en Sa Parole, une foi qui croit chaque mot de cette Parole. Allons à la source et rapportons-en une boisson rafraîchissante, non une adoration basée sur des credo et des dénominations, mais une adoration véritable en Esprit avec Christ au milieu de nous vivant Sa Vie comme Il le veut. Cela ne dépend pas de credo ou d’autres choses: recevons-Le simplement de cette manière.
+54 Nous allons voir ensuite comment Dieu agit sur les gens par le moyen d’un songe, du temps de Joseph. Avez-vous remarqué qu’un songe est quelque chose de secondaire? Dieu travaille par un moyen secondaire. Certains peuvent avoir des rêves qui n’ont aucune signification. Il se peut que vous ayez trop mangé et que vous ayez un cauchemar. Mais le songe est un moyen secondaire. Pourquoi Dieu protégea-t-Il Son propre Fils par un moyen secondaire? Il apparut à Joseph. Pour le bien de Son propre enfant Il a employé un moyen de second ordre. Avez-vous déjà pensé à cela? C’est parce qu’il n’y avait pas de prophète dans le pays. Il devait donc agir par des songes. Et ce n’était pas un songe qui demandait une interprétation. L’ange de Dieu dit: “Joseph, ne crains pas de prendre avec toi Marie ta femme, car ce qui est conçu en elle vient du Saint-Esprit”.
+55 Ce qui arrivait était une chose inhabituelle. Joseph était un homme juste. Or ceci était inhabituel. Dieu est exceptionnel. Et ce qui est exceptionnel est difficile à comprendre. C’est pourquoi de nos jours il est difficile de comprendre la Vérité. Elle est tellement inhabituelle. Qu’une femme ait un bébé sans connaître d’homme était tout à fait inhabituel. Mais si vous êtes honnête et sincère, Dieu peut malgré tout vous apparaître en songe. Cela montre que si votre être tout entier est abandonné à Dieu, si tout ce que vous avez, votre intelligence, votre possibilité de siffler, de chanter, de témoigner ou quoi que ce soit est abandonné à Dieu, Il peut l’employer, si vous Le laissez simplement faire.
+56 Hier soir, frère Neville a prêché sur ce sujet: l’échappatoire. La manière pour l’homme de s’échapper. Et ce matin, j’ai trouvé cela remarquable que le Saint-Esprit semble vouloir que je continue en traitant le sujet de la lumière. Frère Neville est remonté au commencement montrant comment la vie de Christ a débuté dans une crèche. Et nous reprenons la même chose avec notre texte. Il ne le savait pas. Moi non plus. Et voici nous avons ici la même chose. Vous voyez? Et la chose suivante part du moment où Jésus commença Son ministère. Et ce soir, Dieu voulant, nous aurons quelque chose qui se marie tout à fait avec cela.
+57 Une grande Lumière jaillit parmi les Gentils qui étaient assis dans les régions de l’ombre de la mort. “Le peuple de ZabuIon et de Nephtali a vu une grande lumière”.
+58 La première fois que nous trouvons la lumière dans la Bible, c’est dans Genèse 1.3. C’est la Parole parlée de Dieu qui créa la lumière. Dieu dit: “Que la lumière soit! Et la lumière fut”.
+59 Maintenant souvenez-vous. La lumière vient par la Parole parlée de Dieu. La lumière est la manifestation de ce qu’Il a dit, et le sujet dont Il a parlé est la lumière. S’il y a de la lumière, cela vient de ce que Dieu a dit: “Que la lumière soit!”. Il n’y avait pas de lumière et Il dit: “Qu’il y ait de la Lumière!” et il y eut de la lumière. Ceci est une preuve. La lumière est la justification de Sa Parole parlée. C’est la même chose aujourd’hui: une justification de Sa Parole parlée.
 
         http://www.cmpp.ch
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 8
-60 Quand vous voyez Sa Parole manifestée ou que d’autres paroles sont révélées et prouvées,
-c’est la lumière de Sa Parole parlée. Sans lumière, rien ne peut vivre. Sans lumière! Aujourd’hui
-sur terre, dans le monde végétal et tout, il n’y a pas de vie en dehors de ce qui vient par la
-lumière du soleil. Et il n’y a pas de Vie éternelle en dehors du Fils de Dieu. Vous voyez? Il
-est la Lumière.
+60 Quand vous voyez Sa Parole manifestée ou que d’autres paroles sont révélées et prouvées, c’est la lumière de Sa Parole parlée. Sans lumière, rien ne peut vivre. Sans lumière! Aujourd’hui sur terre, dans le monde végétal et tout, il n’y a pas de vie en dehors de ce qui vient par la lumière du soleil. Et il n’y a pas de Vie éternelle en dehors du Fils de Dieu. Vous voyez? Il est la Lumière.
 61 Maintenant nous découvrons ceci… Je crois que nous allons l’étudier. La terre était informe.
-62 Actuellement ils discutent dans les écoles et autres au sujet du monde qui aurait été créé il y
-a des millions d’années et ils essaient de condamner la Bible et de dire qu’Elle est dans l’erreur;
-tout simplement ils ne lisent même pas la Bible, voilà tout. Parce que la Bible ne nous dit pas quel
-est l’âge du monde. La Bible dit: “Au commencement Dieu créa les cieux et la terre (un point!)”.
-Quand? Comment? Cela nous ne le savons pas. Ceci est le début et puis vient un point. C’est la
-fin de la phrase.
-63 “Au commencement Dieu créa les cieux et la terre”. Cela peut avoir eu lieu il y a cent millions
-ou billions d’années, ou peu importe; et comment Dieu l’a fait, c’est Lui qui le sait, non pas moi.
-Mais la terre était informe et vide et les eaux la couvraient. L’Esprit de Dieu se mouvait sur les
-eaux et Dieu dit: “Que la lumière soit!”.
-64 Maintenant je pense que d’après Genèse 3, le soleil et tous ces astres existaient déjà, ainsi
-que la lune. La terre était entourée de brouillard et de brumes, qui l’assombrissaient. Et Dieu dit:
-“Que la lumière soit!”. L’obscurité disparut et il y eut un ciel sans nuages.
-65 Je crois que c’est ainsi que Dieu fait les choses. Dans la Bible, au verset 4, il est dit. “Dieu
-sépara la lumière d’avec les ténèbres. Dieu appela la lumière jour et il appela les ténèbres nuit”. Et
-la Parole de Dieu sépare toujours la lumière d’avec les ténèbres, vous voyez. C’est la Parole qui
-accomplit cette séparation entre la lumière et les ténèbres.
-66 Dieu agit toujours de la même manière. Quand Il s’apprête à utiliser quelque chose, comme
-Il le fit pour cette fameuse étoile, pour le monde ni quoi que ce soit, Il doit séparer la lumière
-d’avec les ténèbres. Quand Il s’apprête à employer un groupe de personnes, Il doit séparer la
-lumière d’avec les ténèbres. Quand Il s’apprête à employer un homme, Il sépare la lumière
-d’avec les ténèbres. Vous voyez?
-67 La lumière vient de Dieu. Souvenez-vous, la lumière vient par Sa Parole parlée. La Parole de
-Dieu dit: “Que la lumière soit!” alors qu’il n’y avait pas de lumière. Et Il envoya la lumière pour
-séparer les ténèbres de la lumière.
-68 Cette parole de commandement éclaircit le ciel de façon que le soleil brillât. Et Sa Parole
-aujourd’hui est ce qui dissipe toutes les brumes de l’atmosphère de l’incrédulité.
+62 Actuellement ils discutent dans les écoles et autres au sujet du monde qui aurait été créé il y a des millions d’années et ils essaient de condamner la Bible et de dire qu’Elle est dans l’erreur; tout simplement ils ne lisent même pas la Bible, voilà tout. Parce que la Bible ne nous dit pas quel est l’âge du monde. La Bible dit: “Au commencement Dieu créa les cieux et la terre (un point!)”. Quand? Comment? Cela nous ne le savons pas. Ceci est le début et puis vient un point. C’est la fin de la phrase.
+63 “Au commencement Dieu créa les cieux et la terre”. Cela peut avoir eu lieu il y a cent millions ou billions d’années, ou peu importe; et comment Dieu l’a fait, c’est Lui qui le sait, non pas moi. Mais la terre était informe et vide et les eaux la couvraient. L’Esprit de Dieu se mouvait sur les eaux et Dieu dit: “Que la lumière soit!”.
+64 Maintenant je pense que d’après Genèse 3, le soleil et tous ces astres existaient déjà, ainsi que la lune. La terre était entourée de brouillard et de brumes, qui l’assombrissaient. Et Dieu dit: “Que la lumière soit!”. L’obscurité disparut et il y eut un ciel sans nuages.
+65 Je crois que c’est ainsi que Dieu fait les choses. Dans la Bible, au verset 4, il est dit. “Dieu sépara la lumière d’avec les ténèbres. Dieu appela la lumière jour et il appela les ténèbres nuit”. Et la Parole de Dieu sépare toujours la lumière d’avec les ténèbres, vous voyez. C’est la Parole qui accomplit cette séparation entre la lumière et les ténèbres.
+66 Dieu agit toujours de la même manière. Quand Il s’apprête à utiliser quelque chose, comme Il le fit pour cette fameuse étoile, pour le monde ni quoi que ce soit, Il doit séparer la lumière d’avec les ténèbres. Quand Il s’apprête à employer un groupe de personnes, Il doit séparer la lumière d’avec les ténèbres. Quand Il s’apprête à employer un homme, Il sépare la lumière d’avec les ténèbres. Vous voyez?
+67 La lumière vient de Dieu. Souvenez-vous, la lumière vient par Sa Parole parlée. La Parole de Dieu dit: “Que la lumière soit!” alors qu’il n’y avait pas de lumière. Et Il envoya la lumière pour séparer les ténèbres de la lumière.
+68 Cette parole de commandement éclaircit le ciel de façon que le soleil brillât. Et Sa Parole aujourd’hui est ce qui dissipe toutes les brumes de l’atmosphère de l’incrédulité.
 69 J’ai eu, je crois, onze interviews juste avant de monter en chaire ce matin.
-70 L’autre jour le petit garçon d’un de mes amis, Jim Pool, a eu semble-t-il une crise cardiaque.
-On l’a conduit rapidement à l’hôpital. C’était une crise d’asthme qui avait frappé le petit garçon.
-Son petit coeur battait de façon désordonnée et il criait car il ne pouvait pas retrouver son souffle.
-Il semblait qu’il allait mourir. J’avais l’intention de me rendre à l’hôpital mais ils l’ont amené ici. J’ai
-pris sa petite main et ai dit: «C’est la rougeole qui l’a frappé. La fièvre a frappé notre petit ami.
-Surveillez-le, je veux le revoir dans deux jours. Il sera couvert de boutons de rougeole». Et le voici
-qui est couvert de boutons de rougeole. Vous voyez? Regardez-le.
-71 Dieu sépare donc les ténèbres d’avec la lumière, ou la lumière des ténèbres, et Il sépare la
-mort de la vie. Il le fait par Sa Parole. C’est toujours Sa Parole qui produit cela.
-72 La semence était déjà sur la terre. Je pense que Dieu avait mis la semence en terre et dès
-que le soleil l’atteignit, elle commença à pousser. C’est pourquoi il ne fallut que quelques jours
-pour produire cela, la semence se trouvait déjà en terre. Tout ce dont elle avait besoin c’était
-de lumière.
-73 C’est ainsi que Dieu agit aujourd’hui. Sa Semence est déjà là, c’est Sa Parole. La seule
-chose dont elle a besoin est que la lumière vienne sur elle. Et Il est cette Lumière car Il est la
-Parole. La Parole et la Lumière sont une même chose. La vie qui est en Elle est la lumière de la
-Parole, vous voyez, c’est la Vie. Le germe de vie repose dans le grain. La vie est ce qui jaillit du
-grain. C’est ainsi que Christ dans la Parole agit de telle manière que la Parole fasse ce
+70 L’autre jour le petit garçon d’un de mes amis, Jim Pool, a eu semble-t-il une crise cardiaque. On l’a conduit rapidement à l’hôpital. C’était une crise d’asthme qui avait frappé le petit garçon. Son petit coeur battait de façon désordonnée et il criait car il ne pouvait pas retrouver son souffle. Il semblait qu’il allait mourir. J’avais l’intention de me rendre à l’hôpital mais ils l’ont amené ici. J’ai pris sa petite main et ai dit: «C’est la rougeole qui l’a frappé. La fièvre a frappé notre petit ami. Surveillez-le, je veux le revoir dans deux jours. Il sera couvert de boutons de rougeole». Et le voici qui est couvert de boutons de rougeole. Vous voyez? Regardez-le.
+71 Dieu sépare donc les ténèbres d’avec la lumière, ou la lumière des ténèbres, et Il sépare la mort de la vie. Il le fait par Sa Parole. C’est toujours Sa Parole qui produit cela.
+72 La semence était déjà sur la terre. Je pense que Dieu avait mis la semence en terre et dès que le soleil l’atteignit, elle commença à pousser. C’est pourquoi il ne fallut que quelques jours pour produire cela, la semence se trouvait déjà en terre. Tout ce dont elle avait besoin c’était de lumière.
+73 C’est ainsi que Dieu agit aujourd’hui. Sa Semence est déjà là, c’est Sa Parole. La seule chose dont elle a besoin est que la lumière vienne sur elle. Et Il est cette Lumière car Il est la Parole. La Parole et la Lumière sont une même chose. La vie qui est en Elle est la lumière de la Parole, vous voyez, c’est la Vie. Le germe de vie repose dans le grain. La vie est ce qui jaillit du grain. C’est ainsi que Christ dans la Parole agit de telle manière que la Parole fasse ce
         http://www.cmpp.ch
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 9
-qu’elle est censée faire. C’est tout comme la vie dans le grain de blé ou quoi que ce soit. Elle fait
-agir le blé comme il est censé le faire car la vie est en lui.
-74 Ainsi la vie n’est là que par la Parole de Dieu rendue manifeste. La vie ne vient que par la
-Parole de Dieu rendue manifeste. Aussi longtemps qu’elle ne se trouve que dans le Livre, on peut
-se poser des questions; mais quand Elle est rendue manifeste, vous voyez alors le produit de ce
-qu’Elle avait dit qui serait manifesté; c’est alors la Lumière sur la Parole. La Parole dit une chose
-et lorsque cela se réalise, c’est la Vie dans la Lumière, la Lumière apportant la Vie.
-75 La lumière apporte la vie. Si vous plantez du blé dans une cave et que vous le couvriez, il ne
-germera jamais parce qu’il ne le peut pas. Il n’y a pas de lumière là. Mais dès que la lumière le
-frappe, alors la vie se développera, si c’est une graine possédant le germe. Il en est de même
-avec la Parole. La Parole est Dieu et quand la Lumière La frappe, cela Lui redonne la Vie.
-Chaque âge a toujours été comme cela.
-76 Oh combien nous apprécions ces grandes choses, que la Parole soit authentifiée comme
-étant la lumière de la Parole parlée. Dieu a dit: “Que la lumière soit!”. Si Dieu avait simplement dit
-cela et que la lumière ne serait pas venue, nous n’aurions pas su si cela était vrai ou non. Nous ne
-saurions pas si Dieu a raison; nous ne saurions pas s’Il est Dieu ou non lorsqu’Il dit: “Que la
-lumière soit!” et qu’il ne se passe rien. Vous voyez? Mais quand Dieu dit une chose et que nous
-la voyons se réaliser, c’est la Lumière qui brille, la Vérité de la Parole. Vous voyez? Il y a la
-Lumière et la Vie.
-77 Toute vie naturelle vient par Sa Parole parlée, et le soleil est Sa Parole parlée. Il a dit qu’Il a
-créé une grande lumière dans les cieux pour le jour et une plus petite pour la nuit, vous voyez. Et
-toute vie naturelle doit venir par la Parole de Dieu. Une fleur ne peut pas pousser si la lumière
-de la Parole parlée de Dieu ne brille pas sur elle. Car le soleil est la Parole parlée de Dieu quand Il
-a dit: “Que la lumière soit”. C’est la vie parlée par Dieu, et quoi qu’on en dise cela reste toujours
-ainsi: vous devez avoir ce soleil. La vie naturelle ne peut venir que par la Parole de Dieu.
-78 Et la vie spirituelle ne peut venir que par la Parole de Vie prononcée par Dieu. La Vie fut
-le Fils cette fois-ci. En Lui est la Lumière et en Lui il n’y a pas de ténèbres. Et Il est la Lumière
-parlée de Dieu (n’est-ce pas vrai?), la Parole parlée de Dieu. Car “Au commencement était la
-Parole, et la Parole était avec Dieu, et la Parole était Dieu”. Elle est Dieu pour toujours. Vous
-voyez? Il faut que la Lumière de Dieu frappe la Parole pour La faire vivre. Voici ce qu’Il a dit,
-que la lumière brille maintenant. Amen. Que la lumière brille. Et en sa saison la Lumière
-amènera chaque Parole à sa juste position. Amen.
-79 Vous voyez, ce petit grain de blé reposant dans la terne, il reste endormi durant tout l’hiver,
-mais quand le temps vient et que le soleil redevient plus chaud il doit vivre, mais il ne peut pas
-vivre sans soleil. Et Dieu a fait des promesses pour chaque âge, pour chaque jour, et quand la
-lumière devient juste ce qu’il faut qu’elle soit et que le soleil brille là-dessus, il se produira
-exactement ce que la Parole a dit car Dieu est la Lumière et la Vie.
-80 La Parole de Dieu ne vient que par la Bible. La Bible de Dieu est le Fils de Dieu sous une
-forme imprimée, car la Bible dit que c’est la révélation de Jésus-Christ. C’est Dieu se révélant
-Lui-même au travers de Christ, et Christ est la Parole. Il faut que la Lumière de Dieu brille sur
-cette Parole pour L’authentifier, pour prouver que Dieu prononce encore des Paroles de vie, de
-Vie éternelle. La lumière naturelle apporte la vie. La vie ne vient que par la lumière, la Parole
-manifesté faite chair… Toutes les promesses de la Bible s’accomplirent lorsque
-Jésus-Christ, la Parole, s’incarna parmi nous. Dieu travaille toujours au travers des hommes.
-L’homme est le sujet de Dieu.
-81 Maintenant si vous trouvez qu’il fait un peu trop chaud ici, vous pouvez ouvrir les fenêtres ou
-arrêter le chauffage; le concierge pourrait baisser le chauffage. Je vois que beaucoup ont chaud et
-il fait chaud ici ou je me tiens. Je suis heureux qu’il fasse chaud plutôt que froid car j’aime la
-chaleur. La chaleur apporte toujours la vie. Prenez l’exemple du feu…
-82 Maintenant remarquez. Lorsque la Parole devint chair, Elle fut manifestée. Prenez par
-exemple la Parole et mettez-La dans la bonne position, dans la bonne sorte de sol, elle
-produira alors la semence de la même espèce. La Parole apportée dans la bonne sorte de
-coeur se reproduira Elle-même. Elle produira la lumière qui jaillira sur lui. Très bien.
+qu’elle est censée faire. C’est tout comme la vie dans le grain de blé ou quoi que ce soit. Elle fait agir le blé comme il est censé le faire car la vie est en lui.
+74 Ainsi la vie n’est là que par la Parole de Dieu rendue manifeste. La vie ne vient que par la Parole de Dieu rendue manifeste. Aussi longtemps qu’elle ne se trouve que dans le Livre, on peut se poser des questions; mais quand Elle est rendue manifeste, vous voyez alors le produit de ce qu’Elle avait dit qui serait manifesté; c’est alors la Lumière sur la Parole. La Parole dit une chose et lorsque cela se réalise, c’est la Vie dans la Lumière, la Lumière apportant la Vie.
+75 La lumière apporte la vie. Si vous plantez du blé dans une cave et que vous le couvriez, il ne germera jamais parce qu’il ne le peut pas. Il n’y a pas de lumière là. Mais dès que la lumière le frappe, alors la vie se développera, si c’est une graine possédant le germe. Il en est de même avec la Parole. La Parole est Dieu et quand la Lumière La frappe, cela Lui redonne la Vie. Chaque âge a toujours été comme cela.
+76 Oh combien nous apprécions ces grandes choses, que la Parole soit authentifiée comme étant la lumière de la Parole parlée. Dieu a dit: “Que la lumière soit!”. Si Dieu avait simplement dit cela et que la lumière ne serait pas venue, nous n’aurions pas su si cela était vrai ou non. Nous ne saurions pas si Dieu a raison; nous ne saurions pas s’Il est Dieu ou non lorsqu’Il dit: “Que la lumière soit!” et qu’il ne se passe rien. Vous voyez? Mais quand Dieu dit une chose et que nous la voyons se réaliser, c’est la Lumière qui brille, la Vérité de la Parole. Vous voyez? Il y a la Lumière et la Vie.
+77 Toute vie naturelle vient par Sa Parole parlée, et le soleil est Sa Parole parlée. Il a dit qu’Il a créé une grande lumière dans les cieux pour le jour et une plus petite pour la nuit, vous voyez. Et toute vie naturelle doit venir par la Parole de Dieu. Une fleur ne peut pas pousser si la lumière de la Parole parlée de Dieu ne brille pas sur elle. Car le soleil est la Parole parlée de Dieu quand Il a dit: “Que la lumière soit”. C’est la vie parlée par Dieu, et quoi qu’on en dise cela reste toujours ainsi: vous devez avoir ce soleil. La vie naturelle ne peut venir que par la Parole de Dieu.
+78 Et la vie spirituelle ne peut venir que par la Parole de Vie prononcée par Dieu. La Vie fut le Fils cette fois-ci. En Lui est la Lumière et en Lui il n’y a pas de ténèbres. Et Il est la Lumière parlée de Dieu (n’est-ce pas vrai?), la Parole parlée de Dieu. Car “Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu”. Elle est Dieu pour toujours. Vous voyez? Il faut que la Lumière de Dieu frappe la Parole pour La faire vivre. Voici ce qu’Il a dit, que la lumière brille maintenant. Amen. Que la lumière brille. Et en sa saison la Lumière amènera chaque Parole à sa juste position. Amen.
+79 Vous voyez, ce petit grain de blé reposant dans la terne, il reste endormi durant tout l’hiver, mais quand le temps vient et que le soleil redevient plus chaud il doit vivre, mais il ne peut pas vivre sans soleil. Et Dieu a fait des promesses pour chaque âge, pour chaque jour, et quand la lumière devient juste ce qu’il faut qu’elle soit et que le soleil brille là-dessus, il se produira exactement ce que la Parole a dit car Dieu est la Lumière et la Vie.
+80 La Parole de Dieu ne vient que par la Bible. La Bible de Dieu est le Fils de Dieu sous une forme imprimée, car la Bible dit que c’est la révélation de Jésus-Christ. C’est Dieu se révélant Lui-même au travers de Christ, et Christ est la Parole. Il faut que la Lumière de Dieu brille sur cette Parole pour L’authentifier, pour prouver que Dieu prononce encore des Paroles de vie, de Vie éternelle. La lumière naturelle apporte la vie. La vie ne vient que par la lumière, la Parole manifesté faite chair… Toutes les promesses de la Bible s’accomplirent lorsque Jésus-Christ, la Parole, s’incarna parmi nous. Dieu travaille toujours au travers des hommes. L’homme est le sujet de Dieu.
+81 Maintenant si vous trouvez qu’il fait un peu trop chaud ici, vous pouvez ouvrir les fenêtres ou arrêter le chauffage; le concierge pourrait baisser le chauffage. Je vois que beaucoup ont chaud et il fait chaud ici ou je me tiens. Je suis heureux qu’il fasse chaud plutôt que froid car j’aime la chaleur. La chaleur apporte toujours la vie. Prenez l’exemple du feu…
+82 Maintenant remarquez. Lorsque la Parole devint chair, Elle fut manifestée. Prenez par exemple la Parole et mettez-La dans la bonne position, dans la bonne sorte de sol, elle produira alors la semence de la même espèce. La Parole apportée dans la bonne sorte de coeur se reproduira Elle-même. Elle produira la lumière qui jaillira sur lui. Très bien.
 
         http://www.cmpp.ch
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 10
-83 Rien de ce qui est naturel ou spirituel ne peut vivre sans la Lumière de Dieu. Pensez-y. Bien.
-Mais quand Il nous envoie la Lumière et fait toutes ces choses et que nous La rejetons… Ce qui
-est regrettable c’est que lorsqu’Elle nous est envoyée, nous La rejetions.
-84 Maintenant, pourriez-vous imaginer de nos jours un homme qui dirait: «Je refuse d’admettre
-qu’il existe quelque chose comme le soleil. Je ne crois pas qu’il y ait un soleil». Et il courrait à la
-cave, fermerait toutes les portes, s’installerait dans l’obscurité et dirait: «Il n’y a rien qui ressemble
-à un soleil, la lumière n’existe pas». Vous discerneriez immédiatement que quelque chose ne va
-pas dans l’esprit de cette personne. Vous voyez? Quelque chose ne va pas s’il descend dans
-une cave obscure et refuse d’accepter le bienfait de la lumière que Dieu donne. Quelque
-chose ne va pas avec lui. Il ne veut pas de ses chauds rayons ni de sa capacité de donner la
-santé. Il ne veut pas marcher à sa lumière. Il préfère rester dans l’obscurité. Cela prouve que
-quelque chose va de travers dans l’esprit de cet homme.
-85 Et je dis ceci avec tout l’amour et le respect possibles: il y a quelque chose de faux
-spirituellement lorsqu’un homme retourne aux credo de sa dénomination et refuse de voir
-la lumière de la Bible lorsqu’Elle brille juste devant lui. Quelque chose ne va pas avec lui. Il
-retourne à ses credo et à son formalisme, ferme la porte et dit: «Cette chose n’existe pas. Le
-temps des miracles est passé. La guérison divine n’existe pas. Il n’y a rien de tout cela. C’était bon
-pour un apôtre». L’homme, spirituellement parlant, est insensé. Vous voyez? Quelque chose ne va
-pas avec lui. Il a baissé les stores et rejeté le Saint-Esprit qui aurait pu venir sur lui. “Si vous
-demeurez en moi et que ma Parole demeure en vous (la lumière brillant sur cette Parole)
-demandez ce que vous voulez”. Vous voyez?
-86 Cet homme serait dans l’erreur en rejetant la source que Dieu nous a donnée, Sa
-Parole, pour vivre par Elle. “Le juste vivra par la foi. Et l’homme ne vivra pas de pain seulement
-mais de toute Parole (pas seulement d’une partie de la Parole) qui sort de la bouche de l’Eternel”.
-Et quand un homme refuse cela, il y a quelque chose de faux en lui; quelque chose est faux
-dans son expérience lorsqu’il dit aimer Dieu mais qu’il Le refuse. Quelque chose va de
-travers avec cette personne. Nous savons cela sans l’ombre d’un doute. Cet homme rejette cela,
-se précipite là-bas et dit: «Je ne veux rien savoir de tout cela, ne me parlez pas de ces choses, je
-n’en crois rien. Peu importe ce que vous dites».
-87 Il n’y a pas longtemps un individu a dit (je vous en ai parlé): «Cela m’est égal que vous
-ameniez cinquante cas de cancers guéris et autant de médecins qui le confirmeraient. Je n’y
-croirais pas. Cela m’est égal que vous ressuscitiez un mort juste devant moi. Je ne le croirais
-pas». Vous voyez, quelque chose ne va pas avec cette personne. Et pourtant cet homme était un
-pasteur! ou du moins il était censé l’être. Mais simplement parce que cette organisation ne croit
-pas à la puissance de Dieu, ne croit pas que la Parole veut dire exactement ce qu’Elle dit, cet
-homme se précipite dans sa cave, cette vieille cave moisie, sale et dégoûtante qu’est une
-organisation, et il refuse la chaleur et les rayons vivifiants du Saint-Esprit, de Jésus-Christ
-qui est Le même hier, aujourd’hui et éternellement. Oui, il y a quelque chose qui cloche avec
-cette personne. Vous voyez? Il préfère vivre dans ce moisi et ces ténèbres plutôt qu’à la lumière
-de Dieu et de la Bible qui dit que Jésus est Le même hier, aujourd’hui et éternellement. “… Celui
-qui croit en moi fera aussi les oeuvres que je fais, et il en fera de plus grandes, parce que je m’en
-vais au Père”. Il y a quelque chose de faux avec cette personne. Cela ne fait pas l’ombre d’un
-doute.
-88 Et toi, ô homme qui écoutes ceci quelque part dans le monde, où que tu te trouves, il y a
-quelque chose de faux dans ton expérience quand tu dis que tu aimes Dieu mais que tu refuses
-Sa Parole. Il n’est pas étonnant que les promesses de Dieu ne puissent s’accomplir et que
-l’église soit dans une telle condition, car vous ne voulez même pas recevoir la Parole ni
-marcher dans la Lumière. La Bible dit: “Marchons dans la lumière comme Il est dans la Lumière,
-et le Sang de Jésus-Christ, le Fils de Dieu, nous purifiera de tout péché”. Le péché, c’est
-l’incrédulité.
-89 Si donc nous marchons dans la Lumière que Dieu nous a donnée pour cette heure, Dieu
-prend cette Parole donnée pour le temps présent et la confirme, comme Il le fit dans Genèse 1.3. Il
-dit: “Que la lumière soit!”, et la lumière apparut. La Parole apparut d’abord, puis la lumière suivit
-dissipant les brumes. Et les ténèbres se rassemblèrent d’un côté et la lumière brilla de l’autre.
+83 Rien de ce qui est naturel ou spirituel ne peut vivre sans la Lumière de Dieu. Pensez-y. Bien. Mais quand Il nous envoie la Lumière et fait toutes ces choses et que nous La rejetons… Ce qui est regrettable c’est que lorsqu’Elle nous est envoyée, nous La rejetions.
+84 Maintenant, pourriez-vous imaginer de nos jours un homme qui dirait: «Je refuse d’admettre qu’il existe quelque chose comme le soleil. Je ne crois pas qu’il y ait un soleil». Et il courrait à la cave, fermerait toutes les portes, s’installerait dans l’obscurité et dirait: «Il n’y a rien qui ressemble à un soleil, la lumière n’existe pas». Vous discerneriez immédiatement que quelque chose ne va pas dans l’esprit de cette personne. Vous voyez? Quelque chose ne va pas s’il descend dans une cave obscure et refuse d’accepter le bienfait de la lumière que Dieu donne. Quelque chose ne va pas avec lui. Il ne veut pas de ses chauds rayons ni de sa capacité de donner la santé. Il ne veut pas marcher à sa lumière. Il préfère rester dans l’obscurité. Cela prouve que quelque chose va de travers dans l’esprit de cet homme.
+85 Et je dis ceci avec tout l’amour et le respect possibles: il y a quelque chose de faux spirituellement lorsqu’un homme retourne aux credo de sa dénomination et refuse de voir la lumière de la Bible lorsqu’Elle brille juste devant lui. Quelque chose ne va pas avec lui. Il retourne à ses credo et à son formalisme, ferme la porte et dit: «Cette chose n’existe pas. Le temps des miracles est passé. La guérison divine n’existe pas. Il n’y a rien de tout cela. C’était bon pour un apôtre». L’homme, spirituellement parlant, est insensé. Vous voyez? Quelque chose ne va pas avec lui. Il a baissé les stores et rejeté le Saint-Esprit qui aurait pu venir sur lui. “Si vous demeurez en moi et que ma Parole demeure en vous (la lumière brillant sur cette Parole) demandez ce que vous voulez”. Vous voyez?
+86 Cet homme serait dans l’erreur en rejetant la source que Dieu nous a donnée, Sa Parole, pour vivre par Elle. “Le juste vivra par la foi. Et l’homme ne vivra pas de pain seulement mais de toute Parole (pas seulement d’une partie de la Parole) qui sort de la bouche de l’Eternel”. Et quand un homme refuse cela, il y a quelque chose de faux en lui; quelque chose est faux dans son expérience lorsqu’il dit aimer Dieu mais qu’il Le refuse. Quelque chose va de travers avec cette personne. Nous savons cela sans l’ombre d’un doute. Cet homme rejette cela, se précipite là-bas et dit: «Je ne veux rien savoir de tout cela, ne me parlez pas de ces choses, je n’en crois rien. Peu importe ce que vous dites».
+87 Il n’y a pas longtemps un individu a dit (je vous en ai parlé): «Cela m’est égal que vous ameniez cinquante cas de cancers guéris et autant de médecins qui le confirmeraient. Je n’y croirais pas. Cela m’est égal que vous ressuscitiez un mort juste devant moi. Je ne le croirais pas». Vous voyez, quelque chose ne va pas avec cette personne. Et pourtant cet homme était un pasteur! ou du moins il était censé l’être. Mais simplement parce que cette organisation ne croit pas à la puissance de Dieu, ne croit pas que la Parole veut dire exactement ce qu’Elle dit, cet homme se précipite dans sa cave, cette vieille cave moisie, sale et dégoûtante qu’est une organisation, et il refuse la chaleur et les rayons vivifiants du Saint-Esprit, de Jésus-Christ qui est Le même hier, aujourd’hui et éternellement. Oui, il y a quelque chose qui cloche avec cette personne. Vous voyez? Il préfère vivre dans ce moisi et ces ténèbres plutôt qu’à la lumière de Dieu et de la Bible qui dit que Jésus est Le même hier, aujourd’hui et éternellement. “… Celui qui croit en moi fera aussi les oeuvres que je fais, et il en fera de plus grandes, parce que je m’en vais au Père”. Il y a quelque chose de faux avec cette personne. Cela ne fait pas l’ombre d’un doute.
+88 Et toi, ô homme qui écoutes ceci quelque part dans le monde, où que tu te trouves, il y a quelque chose de faux dans ton expérience quand tu dis que tu aimes Dieu mais que tu refuses Sa Parole. Il n’est pas étonnant que les promesses de Dieu ne puissent s’accomplir et que l’église soit dans une telle condition, car vous ne voulez même pas recevoir la Parole ni marcher dans la Lumière. La Bible dit: “Marchons dans la lumière comme Il est dans la Lumière, et le Sang de Jésus-Christ, le Fils de Dieu, nous purifiera de tout péché”. Le péché, c’est l’incrédulité.
+89 Si donc nous marchons dans la Lumière que Dieu nous a donnée pour cette heure, Dieu prend cette Parole donnée pour le temps présent et la confirme, comme Il le fit dans Genèse 1.3. Il dit: “Que la lumière soit!”, et la lumière apparut. La Parole apparut d’abord, puis la lumière suivit dissipant les brumes. Et les ténèbres se rassemblèrent d’un côté et la lumière brilla de l’autre.
 
         http://www.cmpp.ch
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 11
-90 C’est ainsi que Dieu agit aujourd’hui. Il envoie Sa Parole pour cette heure et le Saint-
-Esprit vient faire vivre cette Parole. Les ténèbres continuent dans leurs credo et leurs
-dénominations, mais la lumière brille; car c’est la Parole de Dieu confirmée prouvant Elle-même
-qu’elle est vraie. Il n’y a rien là de fictif, c’est tout à fait scripturaire. Très bien.
-91 Maintenant nous découvrons que les mages, ces hommes sages d’autrefois, suivirent ce
-que Dieu leur avait donné, ils suivirent la Parole de Dieu qui les conduisit vers la Lumière, car
-c’était la Parole qui apportait la Vie.
-92 Or vous dites: «Comment suivirent-ils cela?». Eh bien, nous savons qu’il s’agissait en quelque
-sorte de mages, d’astrologues. Et nous découvrons dans Nombres 24.17 que Balaam était lui-
-même une sorte de mage. Il était véritablement un prophète. Et il prophétisa qu’un astre s’élèverait
-de Jacob. Et quand ces sages virent que la Parole de Dieu disait qu’une étoile s’élèverait de
-Jacob, ils suivirent ce petit signe donné par Dieu jusqu’à la source de la Lumière éternelle. Ainsi
-feront les hommes sages d’aujourd’hui qui ne sont pas aveuglés par des credo: ils suivront la
-Parole parlée donnée par Dieu jusqu’à ce qu’ils voient la plénitude de la puissance de Dieu
-florissant jusqu’en cette heure. Vous voyez? Ils le verront et ils sauront que c’est dans les
-Ecritures. Dieu l’a promis pour ce jour-là.
-93 Peu importe ce que dirent de nombreux observatoires ou autres à ces sages: “Voyons, mais
-vous êtes fous!…”. Ils voyagèrent pendant deux ans. Ils traversèrent bien des pays. Et on leur
-disait: “Mais où donc allez-vous?”.
-94 “Oh, nous avons vu Son étoile à l’est, et nous venons pour L’adorer”. Et lorsqu’ils arrivèrent à
-Jérusalem, au quartier général des dénominations, personne n’avait la réponse. Les mages
-parcoururent les rues en criant: “Où est né le Roi des Juifs?”. Mais personne ne savait quoi que ce
-soit à ce sujet. Alors ils cherchèrent dans la Parole de Dieu. Ils avaient suivi l’étoile sachant
-qu’elle les conduisait vers la Lumière éternelle. “Guide-nous vers Ta Lumière parfaite”. Et c’est la
-Parole qui vous conduit vers la Lumière, et c’est la Lumière qui témoigne que la Parole est
-confirmée. Amen!
-95 Remarquez que c’étaient des hommes sages. Et aujourd’hui les hommes sages, non sages
-de… La sagesse de ce monde est folie pour Dieu. Vous tous les savants, et vous gens qui
-dépendez des hautes écoles, lesquelles vous enseignent comment désintégrer un atome, cela ne
-vous donne pas la Vie. Rien ne peut vous donner la Vie si ce n’est la Parole parlée de Dieu.
-C’est la seule manière par laquelle la Vie peut venir: la Parole parlée de Dieu.
-96 C’est très bien de savoir désintégrer un atome, mais j’aurais mieux aimé qu’on n’eût jamais
-découvert cela. Pourtant il devrait en être ainsi. Il fallait que soient ouverts ces grands trous dans
-la terre pour que la lave sorte et régénère ce monde afin de faire une nouvelle terre où le juste
-marche sur la poussière des méchants et où le péché sera oublié. Tout a une façon de se
-renouveler. En prenant l’Arbre de la connaissance au lieu de l’arbre de la vie, l’homme, qui avait
-reçu le pouvoir de vivre sur cette terre par sa propre sagesse, détruira la terre que Dieu lui avait
-donnée pour y vivre. Mais ceux qui ont encore part à l’Arbre de Vie iront dans les nouveaux
-cieux et sur la nouvelle terre où il n’y aura plus ni maladie ni mort. De la lumière, de la
-lumière, Seigneur! Envoie-nous La Lumière!
-97 Ce furent les anges de Dieu qui montrèrent la lumière sur les collines afin de guider les
-bergers vers la lumière éternelle. Voyez, cela ne peut provenir que de la Lumière. La vie ne peut
-venir que par la lumière. Les bergers voulaient savoir… Vous savez, lors de la naissance d’un
-roi, on chante, on organise de grandes fêtes. Mais Jésus naquit si secrètement dans une étable,
-dans une crèche où mangeaient le bétail et les chevaux, et pourtant Il était un roi. Et les anges
-sont descendus et, rayonnants de lumière, ont chanté des hymnes pour les bergers. Les anges
-étaient eux-mêmes des lumières mettant en vue la Parole de Dieu… Ils avaient la Parole de
-Dieu et ils leur dirent: “Aujourd’hui dans la ville de David (autrement dit à Bethléhem), est né Christ
-le Sauveur”. Les anges avaient la Parole et la Parole vint sous forme de lumière pour les guider.
-Et ils suivirent la parole des anges pour aller vers la Lumière éternelle. Ils trouvèrent le bébé
-emmailloté et couché dans une crèche, comme cela le leur avait été dit. Car vous voyez, la vie ne
-provient que de la lumière.
-98 Remarquez, Il était la Parole faite Lumière, et Il devint la Lumière. Il était la Parole-Lumière
-pour cette génération, car les prophètes d’autrefois avaient parlé de Lui et Il vint et prouva
+90 C’est ainsi que Dieu agit aujourd’hui. Il envoie Sa Parole pour cette heure et le Saint-Esprit vient faire vivre cette Parole. Les ténèbres continuent dans leurs credo et leurs dénominations, mais la lumière brille; car c’est la Parole de Dieu confirmée prouvant Elle-même qu’elle est vraie. Il n’y a rien là de fictif, c’est tout à fait scripturaire. Très bien.
+91 Maintenant nous découvrons que les mages, ces hommes sages d’autrefois, suivirent ce que Dieu leur avait donné, ils suivirent la Parole de Dieu qui les conduisit vers la Lumière, car c’était la Parole qui apportait la Vie.
+92 Or vous dites: «Comment suivirent-ils cela?». Eh bien, nous savons qu’il s’agissait en quelque sorte de mages, d’astrologues. Et nous découvrons dans Nombres 24.17 que Balaam était lui-même une sorte de mage. Il était véritablement un prophète. Et il prophétisa qu’un astre s’élèverait de Jacob. Et quand ces sages virent que la Parole de Dieu disait qu’une étoile s’élèverait de Jacob, ils suivirent ce petit signe donné par Dieu jusqu’à la source de la Lumière éternelle. Ainsi feront les hommes sages d’aujourd’hui qui ne sont pas aveuglés par des credo: ils suivront la Parole parlée donnée par Dieu jusqu’à ce qu’ils voient la plénitude de la puissance de Dieu florissant jusqu’en cette heure. Vous voyez? Ils le verront et ils sauront que c’est dans les Ecritures. Dieu l’a promis pour ce jour-là.
+93 Peu importe ce que dirent de nombreux observatoires ou autres à ces sages: “Voyons, mais vous êtes fous!…”. Ils voyagèrent pendant deux ans. Ils traversèrent bien des pays. Et on leur disait: “Mais où donc allez-vous?”.
+94 “Oh, nous avons vu Son étoile à l’est, et nous venons pour L’adorer”. Et lorsqu’ils arrivèrent à Jérusalem, au quartier général des dénominations, personne n’avait la réponse. Les mages parcoururent les rues en criant: “Où est né le Roi des Juifs?”. Mais personne ne savait quoi que ce soit à ce sujet. Alors ils cherchèrent dans la Parole de Dieu. Ils avaient suivi l’étoile sachant qu’elle les conduisait vers la Lumière éternelle. “Guide-nous vers Ta Lumière parfaite”. Et c’est la Parole qui vous conduit vers la Lumière, et c’est la Lumière qui témoigne que la Parole est confirmée. Amen!
+95 Remarquez que c’étaient des hommes sages. Et aujourd’hui les hommes sages, non sages de… La sagesse de ce monde est folie pour Dieu. Vous tous les savants, et vous gens qui dépendez des hautes écoles, lesquelles vous enseignent comment désintégrer un atome, cela ne vous donne pas la Vie. Rien ne peut vous donner la Vie si ce n’est la Parole parlée de Dieu. C’est la seule manière par laquelle la Vie peut venir: la Parole parlée de Dieu.
+96 C’est très bien de savoir désintégrer un atome, mais j’aurais mieux aimé qu’on n’eût jamais découvert cela. Pourtant il devrait en être ainsi. Il fallait que soient ouverts ces grands trous dans la terre pour que la lave sorte et régénère ce monde afin de faire une nouvelle terre où le juste marche sur la poussière des méchants et où le péché sera oublié. Tout a une façon de se renouveler. En prenant l’Arbre de la connaissance au lieu de l’arbre de la vie, l’homme, qui avait reçu le pouvoir de vivre sur cette terre par sa propre sagesse, détruira la terre que Dieu lui avait donnée pour y vivre. Mais ceux qui ont encore part à l’Arbre de Vie iront dans les nouveaux cieux et sur la nouvelle terre où il n’y aura plus ni maladie ni mort. De la lumière, de la lumière, Seigneur! Envoie-nous La Lumière!
+97 Ce furent les anges de Dieu qui montrèrent la lumière sur les collines afin de guider les bergers vers la lumière éternelle. Voyez, cela ne peut provenir que de la Lumière. La vie ne peut venir que par la lumière. Les bergers voulaient savoir… Vous savez, lors de la naissance d’un roi, on chante, on organise de grandes fêtes. Mais Jésus naquit si secrètement dans une étable, dans une crèche où mangeaient le bétail et les chevaux, et pourtant Il était un roi. Et les anges sont descendus et, rayonnants de lumière, ont chanté des hymnes pour les bergers. Les anges étaient eux-mêmes des lumières mettant en vue la Parole de Dieu… Ils avaient la Parole de Dieu et ils leur dirent: “Aujourd’hui dans la ville de David (autrement dit à Bethléhem), est né Christ le Sauveur”. Les anges avaient la Parole et la Parole vint sous forme de lumière pour les guider. Et ils suivirent la parole des anges pour aller vers la Lumière éternelle. Ils trouvèrent le bébé emmailloté et couché dans une crèche, comme cela le leur avait été dit. Car vous voyez, la vie ne provient que de la lumière.
+98 Remarquez, Il était la Parole faite Lumière, et Il devint la Lumière. Il était la Parole-Lumière pour cette génération, car les prophètes d’autrefois avaient parlé de Lui et Il vint et prouva
         http://www.cmpp.ch
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 12
-qu’Il était la Lumière de la Parole parlée de Dieu. Vous voyez? Tout ce qu’avaient dit les
-prophètes fut accompli en Lui. Les prophètes d’autrefois avaient la Parole, ils étaient comme Dieu
-était au commencement lorsqu’Il dit: “Que la lumière soit!”. Et la lumière vint. Puis le prophète dit:
-“Une vierge concevra et donnera naissance à un fils. Ils L’appelleront Emmanuel car Il sera Dieu
-avec nous”. Ils L’avaient annoncé, la Parole était lancée, mais Il était la Lumière. Que fut-Il?
-L’accomplissement. Alléluia! Il fut l’accomplissement de cette Parole. Il fut la manifestation de
-cette Parole.
-99 Il en est ainsi aujourd’hui. La Parole de Dieu s’est accomplie à cette heure; c’est la
-Lumière. C’est Dieu se manifestant Lui-même. Il était la Lumière du monde.
-100 Et lorsque le prophète, inspiré par le Saint-Esprit, dit: “Un enfant nous est né, un fils nous est
-donné. Son Nom sera: Conseiller, Prince de la paix, Dieu Tout-puissant, Père Eternel”. Voilà!
-Qu’était-Il? La Lumière qui accomplissait cette Parole (Amen!). La Lumière qui accomplissait cette
-Parole.
-101 Dans Matthieu, chapitre 28, nous découvrons que lorsque Jésus ressuscita d’entre les morts,
-Il était aussi la Lumière de la Parole prononcée par David qui a dit: “Je ne laisserai pas Son âme
-dans le séjour des morts. Je ne permettrai pas que mon Saint voie la corruption”. La mort était
-dans les ténèbres, mais Il rompit les sceaux de la mort, descendit dans ce lieu et en
-ressortit. Il était la Lumière, la confirmation de la Parole qui dit que les morts peuvent
-revivre après leur mort. Certainement, Il l’était.
-102 Le jour de Pentecôte, ce fut la Lumière qui montra que le Saint-Esprit était venu. Esaïe
-dit au chapitre 28: “C’est précepte sur précepte, règle sur règle, un peu ici, un peu là. Tiens ferme
-ce qui est bon. Car c’est par des hommes aux lèvres balbutiantes et au langage barbare que
-l’Eternel parlera à ce peuple. Et voici le repos, voici le sabbat que je vous donne”. Mais ils ne
-voulurent pas écouter. Ils s’en allèrent en hochant la tête. Et le jour de Pentecôte, lorsque le
-Saint-Esprit tomba sur ces gens et qu’ils agirent comme des hommes et des femmes ivres,
-titubant sous l’impact du Saint-Esprit, ils s’en allèrent en hochant la tête et dirent: “Ces gens sont
-ivres, pleins de vin nouveau”. Mais c’était absolument la Lumière, la Parole qui avait été
-prophétisée et rendue manifeste.
-103 Il en est ainsi dans chaque âge. La Parole rendue manifeste, qui prend vie, est la Lumière
-pour cet âge. La Parole rendue manifeste tout comme dans Genèse 1 lorsque Dieu dit: “Que la
-lumière soit!” et qu’il y eut de la lumière, lorsque Dieu dit ici qu’il y aurait un Fils et qu’il y eut un
-Fils.
-104 Dans Joël 2.28 et Actes 2.17,18 Dieu dit: “Dans les derniers jours, je répandrai mon Esprit sur
-toute chair, vos fils et vos filles prophétiseront. Même sur les serviteurs et les servantes, dans ces
-jours-là je répandrai mon Esprit. Vos jeunes gens auront des visions et vos vieillards auront des
-songes!”. Et quand le Saint-Esprit tomba sur eux, toutes ces choses qu’Il avait promises
-étaient la Lumière sur cette Parole. Lorsque la Parole fut manifestée, Elle devint Lumière. Il est
-la Lumière. Il est la Lumière que nous devrions suivre. Il est la seule Lumière. Les mages ont
-trouvé la lumière et l’ont suivie jusqu’à ce qu’elle les conduisît vers Lui.
-105 Dieu a toujours envoyé une portion de la Parole pour chaque âge. Il a aussi envoyé
-quelqu’un dans lequel la Parole puisse entrer pour montrer la Lumière qui est en Elle. Il fait
-la même chose dans chaque âge. Il a toujours agi ainsi.
-106 Il était l’accomplissement, comme je l’ai dit, de tous les saints pouvoirs divins des prophètes.
-Ils étaient des dieux mineurs. Jésus Lui-même disait que quand la Parole du Seigneur venait à un
-homme, celui-ci était un dieu. Vous savez cela. Il a dit: “Si votre loi et vos pères ont appelé dieux
-ceux à qui la Parole de Dieu a été adressée, comment pouvez-vous me condamner quand je dis
-que je suis le Fils de Dieu?” (Jean 10.35,36). Vous voyez? Dieu Lui-même qui a donné la Parole
-par les prophètes était la manifestation de cette Parole parlée. Et si le prophète était appelé
-dieu parce qu’il était la manifestation de la parole d’un autre prophète, comment pouvez-vous Le
-condamner alors qu’Il était la même chose? Il était le Fils de Dieu. Il devait être appelé Fils de
-Dieu.
-107 Il était le Messie promis depuis longtemps et que le monde attendait. Il était la manifestation
-du Messie promis.
+qu’Il était la Lumière de la Parole parlée de Dieu. Vous voyez? Tout ce qu’avaient dit les prophètes fut accompli en Lui. Les prophètes d’autrefois avaient la Parole, ils étaient comme Dieu était au commencement lorsqu’Il dit: “Que la lumière soit!”. Et la lumière vint. Puis le prophète dit: “Une vierge concevra et donnera naissance à un fils. Ils L’appelleront Emmanuel car Il sera Dieu avec nous”. Ils L’avaient annoncé, la Parole était lancée, mais Il était la Lumière. Que fut-Il? L’accomplissement. Alléluia! Il fut l’accomplissement de cette Parole. Il fut la manifestation de cette Parole.
+
+99 Il en est ainsi aujourd’hui. La Parole de Dieu s’est accomplie à cette heure; c’est la Lumière. C’est Dieu se manifestant Lui-même. Il était la Lumière du monde.
+
+100 Et lorsque le prophète, inspiré par le Saint-Esprit, dit: “Un enfant nous est né, un fils nous est donné. Son Nom sera: Conseiller, Prince de la paix, Dieu Tout-puissant, Père Eternel”. Voilà! Qu’était-Il? La Lumière qui accomplissait cette Parole (Amen!). La Lumière qui accomplissait cette Parole.
+
+101 Dans Matthieu, chapitre 28, nous découvrons que lorsque Jésus ressuscita d’entre les morts, Il était aussi la Lumière de la Parole prononcée par David qui a dit: “Je ne laisserai pas Son âme dans le séjour des morts. Je ne permettrai pas que mon Saint voie la corruption”. La mort était dans les ténèbres, mais Il rompit les sceaux de la mort, descendit dans ce lieu et en ressortit. Il était la Lumière, la confirmation de la Parole qui dit que les morts peuvent revivre après leur mort. Certainement, Il l’était.
+
+102 Le jour de Pentecôte, ce fut la Lumière qui montra que le Saint-Esprit était venu. Esaïe dit au chapitre 28: “C’est précepte sur précepte, règle sur règle, un peu ici, un peu là. Tiens ferme ce qui est bon. Car c’est par des hommes aux lèvres balbutiantes et au langage barbare que l’Eternel parlera à ce peuple. Et voici le repos, voici le sabbat que je vous donne”. Mais ils ne voulurent pas écouter. Ils s’en allèrent en hochant la tête. Et le jour de Pentecôte, lorsque le Saint-Esprit tomba sur ces gens et qu’ils agirent comme des hommes et des femmes ivres, titubant sous l’impact du Saint-Esprit, ils s’en allèrent en hochant la tête et dirent: “Ces gens sont ivres, pleins de vin nouveau”. Mais c’était absolument la Lumière, la Parole qui avait été prophétisée et rendue manifeste.
+
+103 Il en est ainsi dans chaque âge. La Parole rendue manifeste, qui prend vie, est la Lumière pour cet âge. La Parole rendue manifeste tout comme dans Genèse 1 lorsque Dieu dit: “Que la lumière soit!” et qu’il y eut de la lumière, lorsque Dieu dit ici qu’il y aurait un Fils et qu’il y eut un Fils.
+
+104 Dans Joël 2.28 et Actes 2.17,18 Dieu dit: “Dans les derniers jours, je répandrai mon Esprit sur toute chair, vos fils et vos filles prophétiseront. Même sur les serviteurs et les servantes, dans ces jours-là je répandrai mon Esprit. Vos jeunes gens auront des visions et vos vieillards auront des songes!”. Et quand le Saint-Esprit tomba sur eux, toutes ces choses qu’Il avait promises étaient la Lumière sur cette Parole. Lorsque la Parole fut manifestée, Elle devint Lumière. Il est la Lumière. Il est la Lumière que nous devrions suivre. Il est la seule Lumière. Les mages ont trouvé la lumière et l’ont suivie jusqu’à ce qu’elle les conduisît vers Lui.
+
+105 Dieu a toujours envoyé une portion de la Parole pour chaque âge. Il a aussi envoyé quelqu’un dans lequel la Parole puisse entrer pour montrer la Lumière qui est en Elle. Il fait la même chose dans chaque âge. Il a toujours agi ainsi.
+
+106 Il était l’accomplissement, comme je l’ai dit, de tous les saints pouvoirs divins des prophètes. Ils étaient des dieux mineurs. Jésus Lui-même disait que quand la Parole du Seigneur venait à un homme, celui-ci était un dieu. Vous savez cela. Il a dit: “Si votre loi et vos pères ont appelé dieux ceux à qui la Parole de Dieu a été adressée, comment pouvez-vous me condamner quand je dis que je suis le Fils de Dieu?” (Jean 10.35,36). Vous voyez? Dieu Lui-même qui a donné la Parole par les prophètes était la manifestation de cette Parole parlée. Et si le prophète était appelé dieu parce qu’il était la manifestation de la parole d’un autre prophète, comment pouvez-vous Le condamner alors qu’Il était la même chose? Il était le Fils de Dieu. Il devait être appelé Fils de Dieu.
+
+107 Il était le Messie promis depuis longtemps et que le monde attendait. Il était la manifestation du Messie promis.
 
         http://www.cmpp.ch
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 13
-108 Regardez-Le tandis qu’Il se tenait là Il dit: “Si je ne fais pas les oeuvres de mon Père, alors
-condamnez-moi. (Vous voyez?) Mais si vous ne pouvez pas me croire, croyez ces oeuvres que je
-fais. Elles rendent témoignage de qui je suis. Elles vous disent qui je suis”. Mais à cette époque
-d’obscurantisme et d’aveuglement dans laquelle ils vivaient, ils ne pouvaient pas le voir. Ils ne
-pouvaient tout simplement pas comprendre comment Jésus pouvait être cela. “Comment pouvait-Il
-être un Fils de Dieu alors qu’Il était né à Bethléhem?”. Si seulement ils avaient su que la Parole
-avait dit qu’Il viendrait de cette manière!
-     “Voyons, Son père Joseph était charpentier. Sa mère… Eh bien, parmi nos frères on croit que
-c’est un fils illégitime”. Vous voyez? Et pourtant, c’est ce que la Parole disait.
-109 Il dit: “Sondez les Ecritures, car en Elles vous pensez avoir la Vie éternelle et ce sont Elles qui
-témoignent de qui je suis”. C’est ce que disent les Saintes Ecritures. Qu’était-Il donc? La Lumière
-de Dieu. Rien d’étonnant à ce qu’Il ait dit: “Je suis la Lumière du monde”.
-110 Il n’a pas seulement dit: “Je suis la Lumière” mais Il a aussi dit: “Vous êtes la Lumière”. Si Sa
-Parole est en vous et que vous rendiez témoignage, alors vous êtes la Lumière du monde.
-111 Remarquez. Nous découvrons maintenant que la lumière de chaque âge a été manifestée de
-la même manière. Maintenant j’aimerais vous poser une question avant la fin de notre réunion:
-Pourquoi ont-ils éteint cette lumière? Comment ont-ils pu faire cela alors que la Bible même
-qu’ils lisaient la rendait manifeste devant eux? Approfondissez bien cela.
-112 Maintenant souvenez-vous. Je parle à bien des personnes en ce moment, non seulement aux
-quatre ou cinq cents qui se trouvent ici, mais à plusieurs milliers qui recevront ces
-enregistrements.
-113 Arrêtez la bande une minute et posez-vous cette question: «Pourquoi les hommes de bien,
-des hommes religieux… Pourquoi Joseph a-t-il douté?». Parce qu’il n’avait jamais sondé les
-Ecritures. «Pourquoi les prêtres Les ont-ils mises en question?». Ce n’était pas pour la même
-raison… Eux, ils Les connaissaient. Nicodème l’a bien exprimé lorsqu’il a dit: “Rabbi, nous savons
-que Tu es un docteur venu de Dieu car personne ne peut faire ces miracles que Tu accomplis si
-Dieu n’est avec lui. Nous sommes conscients de cela”. Mais leurs traditions les empêchaient
-d’agir.
-114 Pourquoi ont-ils alors rejeté le Messie? Pourquoi ont-ils rejeté cette Lumière? Ici se trouvait la
-Parole dont ils savaient qu’Elle allait s’accomplir. Mais lorsque la Parole de Dieu fut manifestée
-afin de montrer que la Parole de Dieu avait été accomplie… Comparez avec aujourd’hui. Vous
-voyez? Quand il est écrit dans la Parole que ceci allait s’accomplir… pourquoi alors ceux qui
-enseignaient ont-ils rejeté cela? Parce qu’ils vivaient à la clarté d’une autre lumière. C’est
-cela. Ils vivaient dans un reflet. C’est ce qu’ils font aujourd’hui. La raison pour laquelle ils le
-rejettent est qu’ils vivent dans le reflet d’une autre lumière. Vous voyez? Ils vivaient alors dans le
-reflet de ce que Moïse avait dit, prétendaient-ils. Ils vivaient dans le reflet de ce qui s’était passé
-dans un autre âge. Et c’est la raison même pour laquelle on rejette aujourd’hui ce message
-annonçant que Jésus-Christ est toujours Le même, parce que les gens vivent dans le reflet
-d’autres âges. C’est pour cette même raison qu’ils le rejettent.
-115 Webster dit qu’un reflet est “une espèce de fausse lumière”, un reflet est une fausse lumière.
-Ce sont des reflets. C’est comme un mirage sur la route. Vous suivez la route (beaucoup d’entre
-vous conduisez) et devant vous, vous voyez un reflet du soleil sur le sol, il reflète une lumière et
-comme dans un mirage la route semble couverte d’eau. Mais lorsque vous arrivez là, il n’y a rien.
-C’est un mirage, le reflet d’une vraie lumière. C’est ce que fait le démon aujourd’hui, il fait
-miroiter un mirage, le conseil des églises, un groupe de dénominations, qui se révèle être
-faux. Il en est ainsi parce qu’une vraie Lumière brille. Si elle ne brillait pas, il n’y aurait pas de
-mirage. Une vraie lumière brille. C’est à cause de cela qu’ils vivent dans le reflet d’un autre âge,
-d’une autre chose qui a existé mais qui est passée.
-116 Mais ce reflet, ce mirage est faux. C’est un reflet du soleil, et c’est ainsi qu’ils ont fait la même
-chose. Une fausse clarté de la vraie lumière…
-117 Maintenant il a été prouvé que Jésus était la vraie Lumière. Il était la Lumière. Comment ont-
-ils su qu’Il était la Lumière? Comment pouviez-vous savoir qu’Il était la Lumière? Parce que la
-Parole promise a été rendue manifeste en Lui et c’est ainsi qu’Il était la Lumière de cette
+108 Regardez-Le tandis qu’Il se tenait là Il dit: “Si je ne fais pas les oeuvres de mon Père, alors condamnez-moi. (Vous voyez?) Mais si vous ne pouvez pas me croire, croyez ces oeuvres que je fais. Elles rendent témoignage de qui je suis. Elles vous disent qui je suis”. Mais à cette époque d’obscurantisme et d’aveuglement dans laquelle ils vivaient, ils ne pouvaient pas le voir. Ils ne pouvaient tout simplement pas comprendre comment Jésus pouvait être cela. “Comment pouvait-Il être un Fils de Dieu alors qu’Il était né à Bethléhem?”. Si seulement ils avaient su que la Parole avait dit qu’Il viendrait de cette manière!
+     “Voyons, Son père Joseph était charpentier. Sa mère… Eh bien, parmi nos frères on croit que c’est un fils illégitime”. Vous voyez? Et pourtant, c’est ce que la Parole disait.
+109 Il dit: “Sondez les Ecritures, car en Elles vous pensez avoir la Vie éternelle et ce sont Elles qui témoignent de qui je suis”. C’est ce que disent les Saintes Ecritures. Qu’était-Il donc? La Lumière de Dieu. Rien d’étonnant à ce qu’Il ait dit: “Je suis la Lumière du monde”.
+110 Il n’a pas seulement dit: “Je suis la Lumière” mais Il a aussi dit: “Vous êtes la Lumière”. Si Sa Parole est en vous et que vous rendiez témoignage, alors vous êtes la Lumière du monde.
+111 Remarquez. Nous découvrons maintenant que la lumière de chaque âge a été manifestée de la même manière. Maintenant j’aimerais vous poser une question avant la fin de notre réunion: Pourquoi ont-ils éteint cette lumière? Comment ont-ils pu faire cela alors que la Bible même qu’ils lisaient la rendait manifeste devant eux? Approfondissez bien cela.
+112 Maintenant souvenez-vous. Je parle à bien des personnes en ce moment, non seulement aux quatre ou cinq cents qui se trouvent ici, mais à plusieurs milliers qui recevront ces enregistrements.
+113 Arrêtez la bande une minute et posez-vous cette question: «Pourquoi les hommes de bien, des hommes religieux… Pourquoi Joseph a-t-il douté?». Parce qu’il n’avait jamais sondé les Ecritures. «Pourquoi les prêtres Les ont-ils mises en question?». Ce n’était pas pour la même raison… Eux, ils Les connaissaient. Nicodème l’a bien exprimé lorsqu’il a dit: “Rabbi, nous savons que Tu es un docteur venu de Dieu car personne ne peut faire ces miracles que Tu accomplis si Dieu n’est avec lui. Nous sommes conscients de cela”. Mais leurs traditions les empêchaient d’agir.
+114 Pourquoi ont-ils alors rejeté le Messie? Pourquoi ont-ils rejeté cette Lumière? Ici se trouvait la Parole dont ils savaient qu’Elle allait s’accomplir. Mais lorsque la Parole de Dieu fut manifestée afin de montrer que la Parole de Dieu avait été accomplie… Comparez avec aujourd’hui. Vous voyez? Quand il est écrit dans la Parole que ceci allait s’accomplir… pourquoi alors ceux qui enseignaient ont-ils rejeté cela? Parce qu’ils vivaient à la clarté d’une autre lumière. C’est cela. Ils vivaient dans un reflet. C’est ce qu’ils font aujourd’hui. La raison pour laquelle ils le rejettent est qu’ils vivent dans le reflet d’une autre lumière. Vous voyez? Ils vivaient alors dans le reflet de ce que Moïse avait dit, prétendaient-ils. Ils vivaient dans le reflet de ce qui s’était passé dans un autre âge. Et c’est la raison même pour laquelle on rejette aujourd’hui ce message annonçant que Jésus-Christ est toujours Le même, parce que les gens vivent dans le reflet d’autres âges. C’est pour cette même raison qu’ils le rejettent.
+115 Webster dit qu’un reflet est “une espèce de fausse lumière”, un reflet est une fausse lumière. Ce sont des reflets. C’est comme un mirage sur la route. Vous suivez la route (beaucoup d’entre vous conduisez) et devant vous, vous voyez un reflet du soleil sur le sol, il reflète une lumière et comme dans un mirage la route semble couverte d’eau. Mais lorsque vous arrivez là, il n’y a rien. C’est un mirage, le reflet d’une vraie lumière. C’est ce que fait le démon aujourd’hui, il fait miroiter un mirage, le conseil des églises, un groupe de dénominations, qui se révèle être faux. Il en est ainsi parce qu’une vraie Lumière brille. Si elle ne brillait pas, il n’y aurait pas de mirage. Une vraie lumière brille. C’est à cause de cela qu’ils vivent dans le reflet d’un autre âge, d’une autre chose qui a existé mais qui est passée.
+116 Mais ce reflet, ce mirage est faux. C’est un reflet du soleil, et c’est ainsi qu’ils ont fait la même chose. Une fausse clarté de la vraie lumière…
+117 Maintenant il a été prouvé que Jésus était la vraie Lumière. Il était la Lumière. Comment ont-ils su qu’Il était la Lumière? Comment pouviez-vous savoir qu’Il était la Lumière? Parce que la Parole promise a été rendue manifeste en Lui et c’est ainsi qu’Il était la Lumière de cette
         http://www.cmpp.ch
 
     IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE    14
 Parole parlée. Amen! Oh, cela provoque en moi un cri de joie de “Pentecôtiste-Baptiste”!
-118 Pensez-y, un reflet. Vous voyez? Vivre dans un reflet. Mais quand ce que Dieu dit, la vraie
-Parole, est vivant, c’est la Lumière. Supposons que Dieu ait dit au commencement: “Que la
-lumière soit!” et que quelque chose d’autre soit apparu, simplement un mirage. Vous voyez. Cela
-n’aurait pas été ce qu’avait dit Dieu, non certainement pas. Que serait-il arrivé si Dieu avait dit:
-“Qu’il y ait la lumière!” et qu’il y aurait eu davantage de brouillard? Cela n’aurait pas été la lumière.
-Mais la raison pour laquelle la lumière vint est qu’elle fut la manifestation de Sa Parole. Et de nos
-jours quand Dieu a dit qu’une chose déterminée arriverait à un tel moment et que vous le
-voyez s’accomplir, qu’est-ce donc? C’est la lumière venue sur la Parole de Dieu. C’est la
-Parole faite Lumière qui se manifeste.
-119 Ils Lui demandèrent: “Qui dis-tu que nous sommes?”. Ils Lui dirent: “Nous savons que tu es
-fou, que tu es un Samaritain. Tu n’es pas dans ton bon sens. Tu essaies de… Nous savons que tu
-es né dans le péché. Nous ne savons pas d’où tu viens. Nous n’avons pas ta carte de membre
-dans nos groupes. Tu es fou. Tu as un démon”. Vous voyez? “Tu n’es pas dans ton bon sens”.
-Pourtant Il était réellement la Lumière authentique et véritable de Dieu qui brillait, mais le reflet
-les avait aveuglés. “Nous avons pour guide Moïse”.
-120 Il dit: “Si vous aviez cru Moïse, vous m’auriez connu”. Et si vous croyiez Jésus et la Bible,
-vous reconnaîtriez l’heure dans laquelle vous vivez.
-121 Aujourd’hui ils disent: «Nous sommes chrétiens». Si vous l’étiez, vous reconnaîtriez
-les actes de Christ pour ce jour. Vous voyez? Vous les auriez reconnus.
-122 Jésus dit: “Tous les prophètes ont parlé de moi. Et si vous aviez cru ces prophètes, eh bien,
-vous m’auriez connu. Mes oeuvres m’identifient car ce qu’ils ont annoncé que je ferai je
-l’accomplis. Et qui maintenant peut me convaincre d’incrédulité?”. Et pourtant ils ne l’ont pas vu.
-Pourquoi? Ils étaient éblouis par un reflet, le reflet de quelque chose d’autre qu’ils avaient pris pour
-la Parole parlée véritable.
-123 Pensez-y! Pensez-y! Ils prétendaient croire cette Parole mais leurs traditions avaient
-détourné leur face de la vraie Parole vers un reflet; ils ne pouvaient donc pas voir la chose
-réelle. Il en est ainsi de nos jours. Il en a été de même dans chaque âge. Vous voyez, la Parole
-brille, mais ils sont tellement remplis de leurs traditions qu’ils ne peuvent pas voir cette
-Parole. Ils regardent un reflet et sont aveuglés. Un reflet vous aveuglera. Il en sort un arc de
-lumière qui vous aveuglera.
-124 Jésus dit: “Vous êtes des aveugles conduisant d’autres aveugles”. Ils auraient dû être
-capables de comprendre cela, de voir qui Il était, mais ils ne le purent pas car ils vivaient dans
-ce reflet.
-125 Comme je l’ai dit, un reflet est une fausse lumière, un mirage, une fausse conception de la
-vraie lumière, une fausse conception C’est quelque chose qui est censé lui ressembler mais ce
-n’est pas cela.
-126 Maintenant la seule manière pour eux de faire la différence était de voir que les choses
-mêmes que Jésus faisait prouvaient bien qu’Il était la Lumière. Ils pensaient être dans la
-lumière. Mais si nous nous arrêtions juste une minute et considérions qui alors est dans la
-Lumière?
-127 Si de nos jours les ecclésiastiques commettent une telle erreur de raisonnement, frères, ne
-pensez-vous pas qu’il serait temps de nous arrêter et de considérer ce qu’est la Lumière? Ne
-commettons pas une telle erreur de raisonnement, C’est pourtant ce que vous faites. Vous l’avez
-déjà commise sans le savoir. C’est la même chose qu’alors.
-128 Arrêtons-nous une petite minute et cherchons ce que dit la Parole pour aujourd’hui. Si
-seulement ils s’étaient arrêtés pour réfléchir et avaient pensé: “Le voici accomplissant à la lettre,
-exactement ce que la Parole avait dit qu’il ferait”. Et Il les mit au défi comme je le fais avec
-vous. Je vous mets au défi de regarder dans la Parole. Sondez les Ecritures. Voyez si ce
-n’est pas l’heure. “Sondez les Ecritures, car vous, vous estimez avoir en elles la vie éternelle, et
-ce sont elles qui rendent témoignage de moi” (Jean 5.39). Ce sont Elles qui rendent témoignage
-de cette oeuvre aujourd’hui. Ces oeuvres mêmes démontrent que cela a été accompli. Et
-l’Ecriture dit que cela s’accomplira, c’est pourquoi nous avons la lumière de cette heure. La
+118 Pensez-y, un reflet. Vous voyez? Vivre dans un reflet. Mais quand ce que Dieu dit, la vraie Parole, est vivant, c’est la Lumière. Supposons que Dieu ait dit au commencement: “Que la lumière soit!” et que quelque chose d’autre soit apparu, simplement un mirage. Vous voyez. Cela n’aurait pas été ce qu’avait dit Dieu, non certainement pas. Que serait-il arrivé si Dieu avait dit: “Qu’il y ait la lumière!” et qu’il y aurait eu davantage de brouillard? Cela n’aurait pas été la lumière. Mais la raison pour laquelle la lumière vint est qu’elle fut la manifestation de Sa Parole. Et de nos jours quand Dieu a dit qu’une chose déterminée arriverait à un tel moment et que vous le voyez s’accomplir, qu’est-ce donc? C’est la lumière venue sur la Parole de Dieu. C’est la Parole faite Lumière qui se manifeste.
+119 Ils Lui demandèrent: “Qui dis-tu que nous sommes?”. Ils Lui dirent: “Nous savons que tu es fou, que tu es un Samaritain. Tu n’es pas dans ton bon sens. Tu essaies de… Nous savons que tu es né dans le péché. Nous ne savons pas d’où tu viens. Nous n’avons pas ta carte de membre dans nos groupes. Tu es fou. Tu as un démon”. Vous voyez? “Tu n’es pas dans ton bon sens”. Pourtant Il était réellement la Lumière authentique et véritable de Dieu qui brillait, mais le reflet les avait aveuglés. “Nous avons pour guide Moïse”.
+120 Il dit: “Si vous aviez cru Moïse, vous m’auriez connu”. Et si vous croyiez Jésus et la Bible, vous reconnaîtriez l’heure dans laquelle vous vivez.
+121 Aujourd’hui ils disent: «Nous sommes chrétiens». Si vous l’étiez, vous reconnaîtriez les actes de Christ pour ce jour. Vous voyez? Vous les auriez reconnus.
+122 Jésus dit: “Tous les prophètes ont parlé de moi. Et si vous aviez cru ces prophètes, eh bien, vous m’auriez connu. Mes oeuvres m’identifient car ce qu’ils ont annoncé que je ferai je l’accomplis. Et qui maintenant peut me convaincre d’incrédulité?”. Et pourtant ils ne l’ont pas vu. Pourquoi? Ils étaient éblouis par un reflet, le reflet de quelque chose d’autre qu’ils avaient pris pour la Parole parlée véritable.
+123 Pensez-y! Pensez-y! Ils prétendaient croire cette Parole mais leurs traditions avaient détourné leur face de la vraie Parole vers un reflet; ils ne pouvaient donc pas voir la chose réelle. Il en est ainsi de nos jours. Il en a été de même dans chaque âge. Vous voyez, la Parole brille, mais ils sont tellement remplis de leurs traditions qu’ils ne peuvent pas voir cette Parole. Ils regardent un reflet et sont aveuglés. Un reflet vous aveuglera. Il en sort un arc de lumière qui vous aveuglera.
+124 Jésus dit: “Vous êtes des aveugles conduisant d’autres aveugles”. Ils auraient dû être capables de comprendre cela, de voir qui Il était, mais ils ne le purent pas car ils vivaient dans ce reflet.
+125 Comme je l’ai dit, un reflet est une fausse lumière, un mirage, une fausse conception de la vraie lumière, une fausse conception C’est quelque chose qui est censé lui ressembler mais ce n’est pas cela.
+126 Maintenant la seule manière pour eux de faire la différence était de voir que les choses mêmes que Jésus faisait prouvaient bien qu’Il était la Lumière. Ils pensaient être dans la lumière. Mais si nous nous arrêtions juste une minute et considérions qui alors est dans la Lumière?
+127 Si de nos jours les ecclésiastiques commettent une telle erreur de raisonnement, frères, ne pensez-vous pas qu’il serait temps de nous arrêter et de considérer ce qu’est la Lumière? Ne commettons pas une telle erreur de raisonnement, C’est pourtant ce que vous faites. Vous l’avez déjà commise sans le savoir. C’est la même chose qu’alors.
+128 Arrêtons-nous une petite minute et cherchons ce que dit la Parole pour aujourd’hui. Si seulement ils s’étaient arrêtés pour réfléchir et avaient pensé: “Le voici accomplissant à la lettre, exactement ce que la Parole avait dit qu’il ferait”. Et Il les mit au défi comme je le fais avec vous. Je vous mets au défi de regarder dans la Parole. Sondez les Ecritures. Voyez si ce n’est pas l’heure. “Sondez les Ecritures, car vous, vous estimez avoir en elles la vie éternelle, et ce sont elles qui rendent témoignage de moi” (Jean 5.39). Ce sont Elles qui rendent témoignage de cette oeuvre aujourd’hui. Ces oeuvres mêmes démontrent que cela a été accompli. Et l’Ecriture dit que cela s’accomplira, c’est pourquoi nous avons la lumière de cette heure. La
 
     http://www.cmpp.ch
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 15
 Parole de Dieu le dit.
-129 Vos traditions et autres sont exactement comme la Bible le disait, vous agissez comme ceux
-qui hocheront la tête et s’en allèrent. La Bible dit que les tables furent couvertes de vomissements.
-C’est ainsi qu’ils agirent. Ils ne voulaient pas croire. Ils hochèrent la tête. Vous gentlemen et
-frères, réalisez-vous que lorsque vous rejetez cette chose même que Dieu a confirmée
-devant vous, vous faites la même chose qu’eux, vous revenez aux vomissements de vos
-traditions?
-130 “Comme un chien retourne à ce qu’il a vomi…”. S’il en a été malade la première fois, il le sera
-aussi la seconde fois. Si l’organisation des Catholiques (car ce sont eux qui ont fait la première
-organisation) a rendue malade l’Eglise, alors l’organisation des Luthériens, des Méthodistes, des
-Baptistes, des Presbytériens, des Pentecôtistes et de toutes les autres églises feront de même. Un
-chien retourne à ce qu’il a vomi et une truie à sa fange. Vous voyez? Nous allons parler de cela
-dans quelques minutes, Dieu voulant.
-131 Un reflet! Marcher dans reflet, un mirage, une fausse conception de la vraie Lumière. Il a
-prouvé qu’Il était la Lumière. Comme Il était en quelque sorte en minorité (oh, mon Dieu!) des
-millions de gens étaient contre Lui. Pas un sixième de la population, même pas un neuvième
-des habitants de la terre savaient ou ont jamais su qu’Il était là. D’après ce que je sais, pas un Juif
-sur quarante ou cinquante dans Son propre pays peut-être même seulement un sur cent ou même
-moins, a jamais su qu’Il était là. Et ceux qui le surent Le considérèrent comme un imposteur
-parce que la dénomination leur avait dit qu’Il l’était. Et pourtant Il était la vraie Lumière dont
-il avait été parlé dès le commencement, depuis la Genèse. Il leur demanda de sonder les
-Ecritures afin de voir s’Il ne devait pas vivre juste à cette époque et si Ses oeuvres
-n’accomplissaient pas exactement ce qui avait été promis pour ce temps. Amen!
-132 Que c’est sérieux, frères. Nous vivons à une époque terrifiante! Il a été prouvé qu’Il était
-bien Celui qu’on attendait.
-133 Il était la Lumière même qu’ils prétendaient adorer. Ils prétendaient adorer cette Lumière. Il en
-est de même aujourd’hui. Ils prétendent adorer cela. Les Pentecôtistes le prétendent. Ils le
-prétendent mais ils sont tellement aveugles qu’ils ne peuvent pas le voir. Pourquoi? Ils se sont
-organisés et se sont mis un reflet devant leur visage. Vous voyez? Une tradition est
-composée de ce que certaines personnes ont mis ensemble, ensuite elles disent: «Nous irons
-faire ceci, encore ceci et encore cela». Dieu voulant, nous allons en venir à la raison pour laquelle
-cela devait arriver.
-134 Remarquez. Ses oeuvres étaient la Parole vivante Elle-même, démontrant qu’Il était cette
-Lumière promise dès la fondation du monde. Il était la Lumière. Sa Lumière sur la Parole
-promise pour cet âge Le fit vivre exactement comme la promesse disait qu’Il ferait. Mais ils
-l’ont tellement falsifiée qu’ils n’ont pas pu le voir. Vous voyez? Pourtant Il était la Lumière de cet
-âge.
-135 Il était la lumière qu’ils prétendaient adorer. Ils pensaient adorer le Dieu même de la création.
-Mais ils vivaient dans un reflet et l’adoraient. Jésus dit: “C’est en vain qu’ils m’honorent, en
-donnant des préceptes qui sont des commandements d’hommes” (Marc 7.7). Il est la Parole, et Il
-était la Parole manifestée. Ils auraient dû le savoir. J’espère que partout où ce message pourra
-pénétrer on comprendra que c’est la manifestation de cette Parole.
-136 Ils disent: «Nous avons la Parole!». Oui, la Parole… N’importe qui peut prendre une Bible s’il
-le veut, mais quand la Parole est confirmée, manifestée…
-137 Ils disent: «Eh bien, nous croyons!». Bien sûr, ils croient toute la Parole. Eh bien, Satan aussi.
-Qui pouvait accuser ces Pharisiens de ne pas croire? Mais ils ne crurent pas la Parole donnée
-pour cette heure. Ils adoraient le reflet de quelque chose d’autre. Ils font la même chose
-aujourd’hui. Vous gardez les traditions de Luther, de Wesley, de la Pentecôte, mais qu’en est-il
-de cette heure-ci? Les Pharisiens gardaient leurs traditions, mais derrière celles-ci se trouvait la
-vraie Parole de Dieu qui rayonnait. Et lorsqu’Elle le fit, elles les aveugla. Ils ne pouvaient La voir
-parce qu’ils observaient autre chose. Il en est de même aujourd’hui. Que Dieu laisse cela
-s’imprégner jusqu’à ce que cela pique au vif celui qui le croira. Il est plus tard que vous ne le
-pensez.
+129 Vos traditions et autres sont exactement comme la Bible le disait, vous agissez comme ceux qui hocheront la tête et s’en allèrent. La Bible dit que les tables furent couvertes de vomissements. C’est ainsi qu’ils agirent. Ils ne voulaient pas croire. Ils hochèrent la tête. Vous gentlemen et frères, réalisez-vous que lorsque vous rejetez cette chose même que Dieu a confirmée devant vous, vous faites la même chose qu’eux, vous revenez aux vomissements de vos traditions?
+130 “Comme un chien retourne à ce qu’il a vomi…”. S’il en a été malade la première fois, il le sera aussi la seconde fois. Si l’organisation des Catholiques (car ce sont eux qui ont fait la première organisation) a rendue malade l’Eglise, alors l’organisation des Luthériens, des Méthodistes, des Baptistes, des Presbytériens, des Pentecôtistes et de toutes les autres églises feront de même. Un chien retourne à ce qu’il a vomi et une truie à sa fange. Vous voyez? Nous allons parler de cela dans quelques minutes, Dieu voulant.
+131 Un reflet! Marcher dans reflet, un mirage, une fausse conception de la vraie Lumière. Il a prouvé qu’Il était la Lumière. Comme Il était en quelque sorte en minorité (oh, mon Dieu!) des millions de gens étaient contre Lui. Pas un sixième de la population, même pas un neuvième des habitants de la terre savaient ou ont jamais su qu’Il était là. D’après ce que je sais, pas un Juif sur quarante ou cinquante dans Son propre pays peut-être même seulement un sur cent ou même moins, a jamais su qu’Il était là. Et ceux qui le surent Le considérèrent comme un imposteur parce que la dénomination leur avait dit qu’Il l’était. Et pourtant Il était la vraie Lumière dont il avait été parlé dès le commencement, depuis la Genèse. Il leur demanda de sonder les Ecritures afin de voir s’Il ne devait pas vivre juste à cette époque et si Ses oeuvres n’accomplissaient pas exactement ce qui avait été promis pour ce temps. Amen!
+132 Que c’est sérieux, frères. Nous vivons à une époque terrifiante! Il a été prouvé qu’Il était bien Celui qu’on attendait.
+133 Il était la Lumière même qu’ils prétendaient adorer. Ils prétendaient adorer cette Lumière. Il en est de même aujourd’hui. Ils prétendent adorer cela. Les Pentecôtistes le prétendent. Ils le prétendent mais ils sont tellement aveugles qu’ils ne peuvent pas le voir. Pourquoi? Ils se sont organisés et se sont mis un reflet devant leur visage. Vous voyez? Une tradition est composée de ce que certaines personnes ont mis ensemble, ensuite elles disent: «Nous irons faire ceci, encore ceci et encore cela». Dieu voulant, nous allons en venir à la raison pour laquelle cela devait arriver.
+134 Remarquez. Ses oeuvres étaient la Parole vivante Elle-même, démontrant qu’Il était cette Lumière promise dès la fondation du monde. Il était la Lumière. Sa Lumière sur la Parole promise pour cet âge Le fit vivre exactement comme la promesse disait qu’Il ferait. Mais ils l’ont tellement falsifiée qu’ils n’ont pas pu le voir. Vous voyez? Pourtant Il était la Lumière de cet âge.
+135 Il était la lumière qu’ils prétendaient adorer. Ils pensaient adorer le Dieu même de la création. Mais ils vivaient dans un reflet et l’adoraient. Jésus dit: “C’est en vain qu’ils m’honorent, en donnant des préceptes qui sont des commandements d’hommes” (Marc 7.7). Il est la Parole, et Il était la Parole manifestée. Ils auraient dû le savoir. J’espère que partout où ce message pourra pénétrer on comprendra que c’est la manifestation de cette Parole.
+136 Ils disent: «Nous avons la Parole!». Oui, la Parole… N’importe qui peut prendre une Bible s’il le veut, mais quand la Parole est confirmée, manifestée…
+137 Ils disent: «Eh bien, nous croyons!». Bien sûr, ils croient toute la Parole. Eh bien, Satan aussi. Qui pouvait accuser ces Pharisiens de ne pas croire? Mais ils ne crurent pas la Parole donnée pour cette heure. Ils adoraient le reflet de quelque chose d’autre. Ils font la même chose aujourd’hui. Vous gardez les traditions de Luther, de Wesley, de la Pentecôte, mais qu’en est-il de cette heure-ci? Les Pharisiens gardaient leurs traditions, mais derrière celles-ci se trouvait la vraie Parole de Dieu qui rayonnait. Et lorsqu’Elle le fit, elles les aveugla. Ils ne pouvaient La voir parce qu’ils observaient autre chose. Il en est de même aujourd’hui. Que Dieu laisse cela s’imprégner jusqu’à ce que cela pique au vif celui qui le croira. Il est plus tard que vous ne le pensez.
 
         http://www.cmpp.ch
 
 IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE 16
-138 Mon fils Billy Paul parle dans son sommeil mais il ne rêve pas très souvent. L’autre nuit il a fait
-un rêve qui l’a impressionné. Il dit avoir rêvé qu’il était à l’église et que je n’étais pas encore arrivé.
-Il dit que lorsque je suis entré, des flammes sortaient de mes yeux et que je dis: «C’est le moment,
-c’est terminé!» et que tout le monde se mit à crier: «Ce n’est pas possible! Et mes enfants?».
-139 Ma femme dit: «Je ne peux pas laisser Sarah demander la bénédiction à table», etc. Billy dit:
-«Je dois aller chercher Loyce et le bébé».
-140 Je dis: «Loyce ne peut pas venir maintenant. Le bébé est trop jeune pour savoir. Billy, c’est
-l’heure. Nous devons aller». J’ajoutai: «Il est minuit. Avant le lever du jour, Jésus sera là. Si ce
-n’est pas le cas je suis un faux témoin de Christ».
+138 Mon fils Billy Paul parle dans son sommeil mais il ne rêve pas très souvent. L’autre nuit il a fait un rêve qui l’a impressionné. Il dit avoir rêvé qu’il était à l’église et que je n’étais pas encore arrivé. Il dit que lorsque je suis entré, des flammes sortaient de mes yeux et que je dis: «C’est le moment, c’est terminé!» et que tout le monde se mit à crier: «Ce n’est pas possible! Et mes enfants?».
+139 Ma femme dit: «Je ne peux pas laisser Sarah demander la bénédiction à table», etc. Billy dit: «Je dois aller chercher Loyce et le bébé».
+140 Je dis: «Loyce ne peut pas venir maintenant. Le bébé est trop jeune pour savoir. Billy, c’est l’heure. Nous devons aller». J’ajoutai: «Il est minuit. Avant le lever du jour, Jésus sera là. Si ce n’est pas le cas je suis un faux témoin de Christ».
      Et quelqu’un éleva la voix et dit: «Nul ne connaît la minute ou l’heure».
-141 «Je n’ai jamais indiqué de minute ou d’heure; j’ai dit: ‹Avant le lever du jour›». Et je dis:
-«Partons, Billy. C’est le moment, partons». Et nous sommes montés dans la voiture et sommes
-partis. Nous commençâmes à gravir une montagne. Et à ce moment-là il sembla que la lumière se
-levait mais le ciel était sombre au-dessus de la terre. Billy dit que je m’arrêtai au bord de la route,
-levai les mains ainsi, et que les flammes continuaient à jaillir de mes yeux. Il dit que j’ai prononcé
-ces paroles: «Seigneur, j’ai fait cela a Ton commandement. J’ai fait cela simplement parce que Tu
-m’as dit de le faire ainsi. J’ai fait ces choses selon ce que Tu m’as dit». Et je fis signe à une grande
-montagne de granit. Une lumière, sans l’aide d’aucune main, détacha une pierre de la montagne.
-Cette pierre pesait des tonnes et elle se mit à rouler. Je dis: «Tourne la tête, ne regarde pas. Tout
-sera fini dans quelques minutes». Il dit qu’alors un grand et saint silence s’établit partout pendant
-que cette pierre venait se mettre en place.
-142 Il est peut-être plus tard que nous ne pensons. C’est tout à fait scripturaire, vous voyez, cette
-pierre détachée de la montagne sans l’aide d’aucune main. Un de ces jours il en sera ainsi et vous
-aurez des raisons de crier. Je lui dis: «Vous avez déjà eu ce temps. Jour après jour Dieu vous a
-constamment donné des avertissements. Oui, même s’il s’agit de mon propre enfant, l’heure est
-là. Je ne puis dire que ce qu’Il m’a dit de dire, et cela sera, et cela a été». Et alors soudain voici
-qu’Il vient, une Pierre se détachant de la montagne sans l’aide d’aucune main. Daniel avait
-vu cela bien des années auparavant, vous le savez. Billy n’en savait rien, mais c’était un rêve que
-lui envoyait le Seigneur.
-143 Voyez, ils prétendent adorer ce Dieu même dont ils se moquaient. Et la même chose arrive
-aujourd’hui pour la même raison: ils vivent dans un reflet au lieu de vivre dans la Lumière. Toutes
-les grandes lumières ont un reflet. C’est vrai.
-144 Regardez dans quelles ténèbres nous nous trouvons aujourd’hui. Observez ce qui se passe.
-Voyez tous ces meurtres, ces viols, ces querelles. Cela devait arriver. Je crois que c’est Billy
-Graham qui a dit lors de sa dernière réunion que «d’ici dix ans, chaque habitant de la Californie
-devrait porter un revolver pour se défendre. Vous ne pouvez pas ordonner de sanctions légales
-suffisantes». Les gens sont devenus fous. Des fusillades, des meurtres, des viols, etc… La loi de
-la jungle règne dans les rues. Voilà le jour dans lequel nous vivons, c’est un jour sodomite, vous
-voyez. Mais une lumière brille, si seulement ils voulaient regarder dans la Parole et voir ce
-qui est censé arriver à cette heure-ci, ils sauraient ce qu’on peut essayer de faire.
-145 Maintenant ils prétendent adorer cette lumière. Autrefois aussi ils prétendaient adorer cette
-lumière. Mais au lieu de la vraie Lumière, ils adoraient un reflet. Vous voyez? Il était la Lumière.
-146 Leurs credo, leurs traditions et leur aveuglement les avaient détournés de la vraie lumière et
-de la Parole promise. La Parole que Dieu a confirmée par Jésus, la Lumière du monde, vint et
-s’adapta exactement à Son époque au jour de Dieu. Il sera retranché au milieu de la
-soixante-dixième semaine (c’est exact), ce qui correspond aux trois ans et demi de Sa prophétie.
-Le Messie, le Prince viendrait et prophétiserait et au bout de trois ans et demi Il serait retranché
-des vivants et ferait l’expiation. Et il en fut exactement ainsi. Il prêcha durant trois ans et demi et…
-147 Et le psaume même de David dit: “Mon Dieu, mon Dieu, pourquoi m’as-tu abandonné? Tous
-mes os se séparent. Ils me dévisagent, ils secouent la tête et se détournent de moi” (Psaumes 22).
-David chanta ce psaume par l’Esprit huit cent cinquante ans à l’avance et il était considéré comme
-une prophétie. Ils chantaient ces psaumes dans le temple alors que ce Sacrifice même était pendu
-sur la croix, les mains percées. “Ils ont percé mes mains et mes pieds”. Vous voyez cela?
+141 «Je n’ai jamais indiqué de minute ou d’heure; j’ai dit: ‹Avant le lever du jour›». Et je dis: «Partons, Billy. C’est le moment, partons». Et nous sommes montés dans la voiture et sommes partis. Nous commençâmes à gravir une montagne. Et à ce moment-là il sembla que la lumière se levait mais le ciel était sombre au-dessus de la terre. Billy dit que je m’arrêtai au bord de la route, levai les mains ainsi, et que les flammes continuaient à jaillir de mes yeux. Il dit que j’ai prononcé ces paroles: «Seigneur, j’ai fait cela a Ton commandement. J’ai fait cela simplement parce que Tu m’as dit de le faire ainsi. J’ai fait ces choses selon ce que Tu m’as dit». Et je fis signe à une grande montagne de granit. Une lumière, sans l’aide d’aucune main, détacha une pierre de la montagne. Cette pierre pesait des tonnes et elle se mit à rouler. Je dis: «Tourne la tête, ne regarde pas. Tout sera fini dans quelques minutes». Il dit qu’alors un grand et saint silence s’établit partout pendant que cette pierre venait se mettre en place.
+142 Il est peut-être plus tard que nous ne pensons. C’est tout à fait scripturaire, vous voyez, cette pierre détachée de la montagne sans l’aide d’aucune main. Un de ces jours il en sera ainsi et vous aurez des raisons de crier. Je lui dis: «Vous avez déjà eu ce temps. Jour après jour Dieu vous a constamment donné des avertissements. Oui, même s’il s’agit de mon propre enfant, l’heure est là. Je ne puis dire que ce qu’Il m’a dit de dire, et cela sera, et cela a été». Et alors soudain voici qu’Il vient, une Pierre se détachant de la montagne sans l’aide d’aucune main. Daniel avait vu cela bien des années auparavant, vous le savez. Billy n’en savait rien, mais c’était un rêve que lui envoyait le Seigneur.
+143 Voyez, ils prétendent adorer ce Dieu même dont ils se moquaient. Et la même chose arrive aujourd’hui pour la même raison: ils vivent dans un reflet au lieu de vivre dans la Lumière. Toutes les grandes lumières ont un reflet. C’est vrai.
+144 Regardez dans quelles ténèbres nous nous trouvons aujourd’hui. Observez ce qui se passe. Voyez tous ces meurtres, ces viols, ces querelles. Cela devait arriver. Je crois que c’est Billy Graham qui a dit lors de sa dernière réunion que «d’ici dix ans, chaque habitant de la Californie devrait porter un revolver pour se défendre. Vous ne pouvez pas ordonner de sanctions légales suffisantes». Les gens sont devenus fous. Des fusillades, des meurtres, des viols, etc… La loi de la jungle règne dans les rues. Voilà le jour dans lequel nous vivons, c’est un jour sodomite, vous voyez. Mais une lumière brille, si seulement ils voulaient regarder dans la Parole et voir ce qui est censé arriver à cette heure-ci, ils sauraient ce qu’on peut essayer de faire.
+145 Maintenant ils prétendent adorer cette lumière. Autrefois aussi ils prétendaient adorer cette lumière. Mais au lieu de la vraie Lumière, ils adoraient un reflet. Vous voyez? Il était la Lumière.
+146 Leurs credo, leurs traditions et leur aveuglement les avaient détournés de la vraie lumière et de la Parole promise. La Parole que Dieu a confirmée par Jésus, la Lumière du monde, vint et s’adapta exactement à Son époque au jour de Dieu. Il sera retranché au milieu de la soixante-dixième semaine (c’est exact), ce qui correspond aux trois ans et demi de Sa prophétie. Le Messie, le Prince viendrait et prophétiserait et au bout de trois ans et demi Il serait retranché des vivants et ferait l’expiation. Et il en fut exactement ainsi. Il prêcha durant trois ans et demi et…
+147 Et le psaume même de David dit: “Mon Dieu, mon Dieu, pourquoi m’as-tu abandonné? Tous mes os se séparent. Ils me dévisagent, ils secouent la tête et se détournent de moi” (Psaumes 22). David chanta ce psaume par l’Esprit huit cent cinquante ans à l’avance et il était considéré comme une prophétie. Ils chantaient ces psaumes dans le temple alors que ce Sacrifice même était pendu sur la croix, les mains percées. “Ils ont percé mes mains et mes pieds”. Vous voyez cela?
 
         http://www.cmpp.ch
 
@@ -1722,7 +1145,7 @@ pensons-y tranquillement.
         Jésus, la Lumière du monde.
 285 Tandis que la pianiste continue de jouer, je veux demander… Chaque âge a toujours été le
 même. Que firent ceux qui rejetèrent la Lumière aux jours de Noé? Ils marchèrent au-devant
-du jugement de Dieu. Qu’arriva-t-il à Pharaon du temps de Moïse lorsque la Lumière brillait dans
+ du jugement de Dieu. Qu’arriva-t-il à Pharaon du temps de Moïse lorsque la Lumière brillait dans
 le buisson ardent? Il entra dans la mer qui causa sa mort. Qu’arriva-t-il à Dathan qui commença
 bien, puis rejeta la Lumière? La terre se fendit et l’engloutit. Qu’arriva-t-il à chaque époque à
 ceux qui ne marchèrent pas dans la Lumière, la Lumière du jour? C’est toujours Jésus. C’était
@@ -1736,9 +1159,9 @@ fredonnons de nouveau…
 
     http://www.cmpp.ch
 
-    IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE    32
-        Brillant autour de nous jour et nuit,
-        Jésus, la Lumière du monde,
+IL Y A ICI UN HOMME QUI PEUT ALLUMER LA LUMIERE    32
+    Brillant autour de nous jour et nuit,
+    Jésus, la Lumière du monde,
 286 Levons-nous maintenant. Père céleste, je Te prie afin que ce message pénètre profondément
 le coeur de ceux qui sont ici présents et dans ceux qui écouteront les bandes. Puisse la Lumière
 éclairer la Parole, la Semence, et révéler toute semence prédestinée qui a été plantée dans
@@ -1754,7 +1177,7 @@ Seigneur Dieu, permets que, comme David et ses guerriers de jadis qui lui sont r
 soutienne cette Parole d’aujourd’hui, tandis que je vois les dénominations La rejeter. Elle demeure
 cachée quelque part dans une petite retraite. O Dieu, accorde-nous la force, le courage et le
 Saint-Esprit pour tenir bon, car l’heure est de plus en plus sombre. Mais nous,
-puissions-nous toujours nous souvenir que Tu es présent pour allumer la Lumière, à n’importe
+puissions-nous toujours souvenir que Tu es présent pour allumer la Lumière, à n’importe
 quelle heure que Tu le désires. Tu peux allumer la Lumière, Père.
 289 Nous prions donc, car Tu as dit: “Vous êtes la Lumière du monde”. Accorde-nous, Seigneur,
 que nos lumières qui sont à Ton service, éclairent tellement les autres qu’ils voient la
@@ -1828,9 +1251,6 @@ de toute parole qui sort de la bouche de Dieu”.
 retrouvons-nous ce soir à 18h.30 pour les cartes de prières et autres. Nous vous verrons à ce
 moment-là. En attendant inclinez la tête. Je vais demander au frère Neville, le pasteur, de venir ici
 et de nous congédier par une parole de prière.
-
-
-
 
 
 

@@ -1,531 +1,175 @@
-    WILLIAM MARRION BRANHAM
+---
+source: "cmpp"
+sermon_id: "rev07"
+title: "La Révélation de Jésus-Christ — Église de Sardes"
+subtitle: "9 décembre 1960, vendredi soir"
+date: "1960-12-09"
+year: 1960
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Branham"
+summary: "William Branham prêche sur le cinquième âge de l'église, Sardes (1520-1750), l'âge de la Réforme avec Martin Luther comme messager. Il décrit la déchéance de l'église après l'âge des ténèbres, la persécution des vrais croyants, et le petit reste qui marche avec Christ en vêtements blancs. Il relie les prophéties bibliques à l'histoire de l'église, dénonçant les dénominations et appelant à revenir à l'expérience de Pentecôte."
+tags:
+  - "révélation"
+  - "âge de l'église"
+  - "Sardes"
+  - "Réforme"
+  - "Martin Luther"
+  - "Pentecôte"
+  - "dénominations"
+persons:
+  - "William Branham"
+  - "Martin Luther"
+  - "Paul"
+  - "Irénée"
+  - "Colomban"
+  - "Constantin"
+  - "Jézabel"
+  - "Achab"
+  - "Élie"
+  - "Judas Iscariot"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Rome"
+  - "Vatican"
+  - "Irlande"
+  - "Suisse"
+  - "Tulsa"
+  - "Oklahoma"
+themes:
+  - "âge de l'église"
+  - "Réforme"
+  - "apostasie"
+  - "petit reste"
+  - "baptême du Saint-Esprit"
+  - "parler en langues"
+  - "guérison divine"
+  - "dénominationalisme"
+  - "persécution"
+  - "fidélité à la Parole"
+pdf_url: "http://cmpp.ch/rev07.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "Actes 19"
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Galates 1"
+  - "Hébreux 13"
+  - "Luc 24"
+  - "Marc 16"
+  - "Matthieu 28"
+  - "Nombres 100"
+  - "Romains 5"
+---
+WILLIAM MARRION BRANHAM
 
+La Révélation de Jésus-Christ
 
-    La Révélation
-     de
-Jésus-Christ
+7 Age de Sardes
 
+LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 2
 
+LA REVELATION DE JESUS-CHRIST
 
+EGLISE DE SARDES
 
-    7    Age de Sardes
-
-    LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES    2
-
- LA REVELATION DE JESUS-CHRIST
-
-        EGLISE DE SARDES
-
- 9 décembre 1960, vendredi soir
-       Branham Tabernacle
+9 décembre 1960, vendredi soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 Mon frère me disait qu’il y avait ces mouchoirs et que parmi ces mouchoirs, il y en avait un pour quelqu’un qui se mourait du cancer. Aussi, nous allons prier pour eux dans un instant. [Frère Neville dit: «Il y a ici deux requêtes.» — N.d.R.] Deux requêtes? Bien. Je vais les mettre ici et nous prierons également pour elles.
+2 Quelqu’un vient de me transmettre une communication au sujet des réunions de demain. Vous qui nous rendez visite ici, nous serions vraiment heureux que vous veniez demain après-midi à deux heures: il y aura une réunion pour écouter des bandes magnétiques. Et si vous n’avez rien de spécial à faire, vous pourrez venir écouter un message que vous n’avez encore jamais entendu et participer à une réunion de prière; nous espérons passer un bon moment demain après-midi à deux heures. Pour moi ce sera une période chargée, parce que demain, je dois chercher dans les livres d’histoire et préparer les messages de demain soir, de dimanche matin et de dimanche soir.
+3 Dimanche matin, le Seigneur voulant, nous nous attendons à des moments glorieux, parce que dimanche matin, c’est la fin, ce sera en quelque sorte la finale de samedi soir. Ce sera l’âge de Laodicée. Dimanche matin, j’aimerais étudier le sujet des vierges folles, de la résurrection, des cent quarante-quatre mille, et toutes ces petites choses qui donnent une unité au message. La réunion commencera à neuf heures. C’est bien cela, frère? Dimanche matin à neuf heures, nous étudierons toutes ces choses, comme par exemple: «Que deviennent les vierges folles, et que deviennent les vierges sages? Quand reviennent-elles? Où apparaîtront les cent quarante-quatre mille?», et beaucoup d’autres choses, nous verrons cela dimanche matin, afin d’essayer de relier le tout, car cela fait partie de ce message. Puis dimanche soir, si le Seigneur le permet, nous étudierons le dernier ange et le message à Laodicée.
+4 Demain après-midi, donc, nous aurons un service d’écoute de bandes magnétiques. Frère Gene vient juste de confirmer que la réunion commencera à deux heures. Et vous qui aimez venir entendre les messages, vous réunir autour de l’autel pour prier, vous qui cherchez le Saint-Esprit, j’espère que vous pourrez passer des moments merveilleux. L’église est bien chauffée, ouverte, et prête en tout temps pour tous ceux qui aimeraient venir prier et chercher le Seigneur. L’église est ouverte et vous attend. Nous vous attendons demain après-midi.
+5 Chaque fois que vous voulez venir à l’église pour prier, allez-y, elle est toujours ouverte. Et s’il arrivait que les portes soient fermées, traversez simplement la rue et allez jusqu’au 811. C’est là qu’habite le frère qui s’occupe de la salle. Lui ou sa femme viendra vous ouvrir. En général, on laisse la porte ouverte le matin. Le soir, après la réunion, on la ferme pour empêcher les enfants de venir y jouer, de casser les vitres et tout le reste; vous savez comment sont les enfants, surtout aujourd’hui! C’est pour cela que nous fermons. Nous n’aimons pas du tout devoir fermer la porte de l’église à quelque moment que ce soit. Peut-être que lorsque l’autre salle sera terminée, nous nous arrangerons pour que ce soit différent, et peut-être que quelqu’un pourra être là en permanence afin que les gens puissent venir prier, rechercher la guérison et rechercher le Saint-Esprit.
+6 Vous qui n’avez pas le Saint-Esprit dans votre vie, venez, restez ici, restez toute la nuit, s’il le faut; restez jusqu’à ce que vous Le receviez.
 
-
-
-
-1 Mon frère me disait qu’il y avait ces mouchoirs et que parmi ces mouchoirs, il y en avait un
-pour quelqu’un qui se mourait du cancer. Aussi, nous allons prier pour eux dans un instant. [Frère
-Neville dit: «Il y a ici deux requêtes.» — N.d.R.] Deux requêtes? Bien. Je vais les mettre ici et nous
-prierons également pour elles.
-2 Quelqu’un vient de me transmettre une communication au sujet des réunions de demain.
-Vous qui nous rendez visite ici, nous serions vraiment heureux que vous veniez demain après-midi
-à deux heures: il y aura une réunion pour écouter des bandes magnétiques. Et si vous n’avez rien
-de spécial à faire, vous pourrez venir écouter un message que vous n’avez encore jamais entendu
-et participer à une réunion de prière; nous espérons passer un bon moment demain après-midi à
-deux heures. Pour moi ce sera une période chargée, parce que demain, je dois chercher dans les
-livres d’histoire et préparer les messages de demain soir, de dimanche matin et de dimanche soir.
-3 Dimanche matin, le Seigneur voulant, nous nous attendons à des moments glorieux, parce
-que dimanche matin, c’est la fin, ce sera en quelque sorte la finale de samedi soir. Ce sera l’âge
-de Laodicée. Dimanche matin, j’aimerais étudier le sujet des vierges folles, de la résurrection, des
-cent quarante-quatre mille, et toutes ces petites choses qui donnent une unité au message. La
-réunion commencera à neuf heures. C’est bien cela, frère? Dimanche matin à neuf heures, nous
-étudierons toutes ces choses, comme par exemple: «Que deviennent les vierges folles, et que
-deviennent les vierges sages? Quand reviennent-elles? Où apparaîtront les cent quarante-quatre
-mille?», et beaucoup d’autres choses, nous verrons cela dimanche matin, afin d’essayer de relier
-le tout, car cela fait partie de ce message. Puis dimanche soir, si le Seigneur le permet, nous
-étudierons le dernier ange et le message à Laodicée.
-4 Demain après-midi, donc, nous aurons un service d’écoute de bandes magnétiques. Frère
-Gene vient juste de confirmer que la réunion commencera à deux heures. Et vous qui aimez venir
-entendre les messages, vous réunir autour de l’autel pour prier, vous qui cherchez le Saint-Esprit,
-j’espère que vous pourrez passer des moments merveilleux. L’église est bien chauffée, ouverte, et
-prête en tout temps pour tous ceux qui aimeraient venir prier et chercher le Seigneur. L’église est
-ouverte et vous attend. Nous vous attendons demain après-midi.
-5 Chaque fois que vous voulez venir à l’église pour prier, allez-y, elle est toujours ouverte. Et s’il
-arrivait que les portes soient fermées, traversez simplement la rue et allez jusqu’au 811. C’est là
-qu’habite le frère qui s’occupe de la salle. Lui ou sa femme viendra vous ouvrir. En général, on
-laisse la porte ouverte le matin. Le soir, après la réunion, on la ferme pour empêcher les enfants
-de venir y jouer, de casser les vitres et tout le reste; vous savez comment sont les enfants, surtout
-aujourd’hui! C’est pour cela que nous fermons. Nous n’aimons pas du tout devoir fermer la porte
-de l’église à quelque moment que ce soit. Peut-être que lorsque l’autre salle sera terminée, nous
-nous arrangerons pour que ce soit différent, et peut-être que quelqu’un pourra être là en
-permanence afin que les gens puissent venir prier, rechercher la guérison et rechercher le
-Saint-Esprit.
-6 Vous qui n’avez pas le Saint-Esprit dans votre vie, venez, restez ici, restez toute la nuit, s’il le
-faut; restez jusqu’à ce que vous Le receviez.
-
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 3
-7 Qui est-ce qui chantait cela ici, il n’y a pas longtemps: «Dieu tout autour de moi, Dieu
-partout»? Je pensais que l’enlèvement était arrivé! Je regardai autour de moi pour voir s’il y avait
-quelqu’un. C’était vraiment merveilleux; j’aime cela! Nous pourrions supporter cela de temps en
-temps! Certainement. J’étais arrivé juste à temps pour l’entendre.
-8 J’ai manqué tous les bons chants dans ces réunions parce que peut-être… Je suis si occupé,
-vous savez comment c’est. Les gens viennent en avion, en train… Ils viennent à tout moment; ils
-vous téléphonent, et il faut aller les chercher et prier pour eux, où qu’ils soient. C’est un va-et-vient
-continuel. Et pendant ce temps, il faut étudier; c’est vraiment un problème! Mais je suis toujours
-heureux de rencontrer des gens et de faire ce que je peux pour eux, parce que nous sommes un
-service public du Seigneur Jésus-Christ pour Son peuple en ce jour. Et nous aimerions faire plus
-que ce que nous faisons, mais nous ne le pouvons pas!
-9 Un serviteur de Dieu, un brave homme, a fait irruption chez moi ce matin, atteint d’une
-dépression nerveuse; il s’est effondré. Le surmenage! Il s’apprêtait à se lever, et sa petite fille était
-dans la chambre; elle se mit à faire des pirouettes. Elle avait un pyjama rouge; il me dit que la
-dernière chose dont il se souvînt, c’était d’une petite tache rouge qui tournait, tournait, tournait,
-tournait, comme cela. Il avait perdu la tête, vous voyez. Alors, on l’a amené tout droit ici. Cela
-venait simplement d’un excès de travail, vous comprenez. Nous devons nous souvenir que nous
-sommes des corps de chair, et nous avons souvent tendance à penser que le fardeau repose tout
-entier sur nous. Mais vous savez, Dieu a des serviteurs partout pour prendre soin d’une partie des
-choses, et nous devons simplement faire du mieux que nous pouvons. Mais en ces derniers jours,
-un ministre rempli de la grâce essaiera de faire tout ce qu’il peut pour son Seigneur. Le Seigneur a
-délivré cet homme, l’a rétabli, et maintenant il va bien; il est tout à fait normal, et a pu reprendre
-son chemin dans la joie.
-10 Une chose glorieuse est arrivée aujourd’hui! Je ne voudrais pas m’étendre sur ces choses,
-mais… Je dis à ma femme: «Quelqu’un va venir ici, un homme trapu aux yeux et aux cheveux
-noirs; il lira l’écriteau et commencera… mais tu l’appelleras, parce que le Seigneur a un message
-pour lui». J’ouvris ma Bible, et je dis: «Je vais noter ces choses ici afin que tu voies que c’est
-exactement ce que le Seigneur veut qu’il fasse».
-11 Il y a huit ans, lors d’une réunion, un Polonais, élevé en Pologne, est venu vers l’estrade et le
-Saint-Esprit le regarda et dit: «Vous êtes perplexe!». Il pensait que c’était moi qui disais cela, mais
-c’était le Saint-Esprit. Cela lui est resté tout le temps et l’a finalement entraîné de Kansas City à
-cette salle hier soir. Il devint réellement perplexe lorsqu’il entendit parler du baptême d’eau. Il
-rentra à son hôtel, et là, le Saint-Esprit lui dit: «Lève-toi, et va là-bas». Quelqu’un voulait venir avec
-lui, mais il refusa parce que dans la vision il venait seul. Vous voyez? Pendant qu’il lisait cet
-écriteau, ma femme le vit et remarqua qu’il avait l’air d’un homme bien élevé; il s’apprêtait à
-rebrousser chemin, et lorsqu’elle m’appela, j’allai à la porte, et je dis: «C’est lui, fais-le entrer!».
+7 Qui est-ce qui chantait cela ici, il n’y a pas longtemps: «Dieu tout autour de moi, Dieu partout»? Je pensais que l’enlèvement était arrivé! Je regardai autour de moi pour voir s’il y avait quelqu’un. C’était vraiment merveilleux; j’aime cela! Nous pourrions supporter cela de temps en temps! Certainement. J’étais arrivé juste à temps pour l’entendre.
+8 J’ai manqué tous les bons chants dans ces réunions parce que peut-être… Je suis si occupé, vous savez comment c’est. Les gens viennent en avion, en train… Ils viennent à tout moment; ils vous téléphonent, et il faut aller les chercher et prier pour eux, où qu’ils soient. C’est un va-et-vient continuel. Et pendant ce temps, il faut étudier; c’est vraiment un problème! Mais je suis toujours heureux de rencontrer des gens et de faire ce que je peux pour eux, parce que nous sommes un service public du Seigneur Jésus-Christ pour Son peuple en ce jour. Et nous aimerions faire plus que ce que nous faisons, mais nous ne le pouvons pas!
+9 Un serviteur de Dieu, un brave homme, a fait irruption chez moi ce matin, atteint d’une dépression nerveuse; il s’est effondré. Le surmenage! Il s’apprêtait à se lever, et sa petite fille était dans la chambre; elle se mit à faire des pirouettes. Elle avait un pyjama rouge; il me dit que la dernière chose dont il se souvînt, c’était d’une petite tache rouge qui tournait, tournait, tournait, tournait, comme cela. Il avait perdu la tête, vous voyez. Alors, on l’a amené tout droit ici. Cela venait simplement d’un excès de travail, vous comprenez. Nous devons nous souvenir que nous sommes des corps de chair, et nous avons souvent tendance à penser que le fardeau repose tout entier sur nous. Mais vous savez, Dieu a des serviteurs partout pour prendre soin d’une partie des choses, et nous devons simplement faire du mieux que nous pouvons. Mais en ces derniers jours, un ministre rempli de la grâce essaiera de faire tout ce qu’il peut pour son Seigneur. Le Seigneur a délivré cet homme, l’a rétabli, et maintenant il va bien; il est tout à fait normal, et a pu reprendre son chemin dans la joie.
+10 Une chose glorieuse est arrivée aujourd’hui! Je ne voudrais pas m’étendre sur ces choses, mais… Je dis à ma femme: «Quelqu’un va venir ici, un homme trapu aux yeux et aux cheveux noirs; il lira l’écriteau et commencera… mais tu l’appelleras, parce que le Seigneur a un message pour lui». J’ouvris ma Bible, et je dis: «Je vais noter ces choses ici afin que tu voies que c’est exactement ce que le Seigneur veut qu’il fasse».
+11 Il y a huit ans, lors d’une réunion, un Polonais, élevé en Pologne, est venu vers l’estrade et le Saint-Esprit le regarda et dit: «Vous êtes perplexe!». Il pensait que c’était moi qui disais cela, mais c’était le Saint-Esprit. Cela lui est resté tout le temps et l’a finalement entraîné de Kansas City à cette salle hier soir. Il devint réellement perplexe lorsqu’il entendit parler du baptême d’eau. Il rentra à son hôtel, et là, le Saint-Esprit lui dit: «Lève-toi, et va là-bas». Quelqu’un voulait venir avec lui, mais il refusa parce que dans la vision il venait seul. Vous voyez? Pendant qu’il lisait cet écriteau, ma femme le vit et remarqua qu’il avait l’air d’un homme bien élevé; il s’apprêtait à rebrousser chemin, et lorsqu’elle m’appela, j’allai à la porte, et je dis: «C’est lui, fais-le entrer!».
 12 Il me dit: «Que dois-je faire». Après avoir vu, il me dit: «Maintenant, je comprends!».
-13 Je lui dis: «Je voudrais vous montrer ceci, afin que vous sachiez maintenant que le Seigneur
-m’avait dit que vous viendriez». Je lui dis: «Maintenant, voici ce passage de l’Ecriture. Veuillez le
-lire maintenant même, avant que nous continuions».
-14 Eh bien, il est ici maintenant pour être baptisé au Nom de Jésus-Christ. Il doit être présent ici
-maintenant, pour autant que je le sache; êtes-vous ici, frère? Ce frère polonais? Comment? Oui,
-là-bas au fond, dans le coin. Levez la main, afin que l’on puisse vous voir. Très bien! Vous voyez,
-le Saint-Esprit… Cela arrive constamment! Beaucoup pensent que les visions ne viennent que sur
-l’estrade. Oh! ce n’est pas cela qui les provoque! Qu’en pensez-vous, frère Leo? Elles viennent
-partout! Il n’y a qu’une petite partie des visions qui se produisent ici. A cet égard, ce lieu est
-d’importance tout à fait secondaire. A l’extérieur, cela arrive jour et nuit. Demandez à ma femme, à
-mes voisins, à frère Wood et à tous ceux qui sont par ici. Oh! Ici n’arrivent que les petites choses.
-Les grandes choses arrivent là-bas. Et la moitié n’a encore jamais été racontée! Oh, je suis si
-heureux de savoir que notre Seigneur vient bientôt et que nous allons être avec Lui pour toujours;
-non pas pour toujours, mais pour l’Eternité, pour l’Eternité!
-15 J’ai eu un combat terrible; Satan a essayé de me donner cette grippe qui traîne ces temps-ci
-dans la région, et je ne cesse de la lui rendre. Il me la donne, et je la lui rends… Ainsi, j’ai eu une
-bonne petite bataille. Nous le mettrons sans doute hors de combat la semaine prochaine.
+13 Je lui dis: «Je voudrais vous montrer ceci, afin que vous sachiez maintenant que le Seigneur m’avait dit que vous viendriez». Je lui dis: «Maintenant, voici ce passage de l’Ecriture. Veuillez le lire maintenant même, avant que nous continuions».
+14 Eh bien, il est ici maintenant pour être baptisé au Nom de Jésus-Christ. Il doit être présent ici maintenant, pour autant que je le sache; êtes-vous ici, frère? Ce frère polonais? Comment? Oui, là-bas au fond, dans le coin. Levez la main, afin que l’on puisse vous voir. Très bien! Vous voyez, le Saint-Esprit… Cela arrive constamment! Beaucoup pensent que les visions ne viennent que sur l’estrade. Oh! ce n’est pas cela qui les provoque! Qu’en pensez-vous, frère Leo? Elles viennent partout! Il n’y a qu’une petite partie des visions qui se produisent ici. A cet égard, ce lieu est d’importance tout à fait secondaire. A l’extérieur, cela arrive jour et nuit. Demandez à ma femme, à mes voisins, à frère Wood et à tous ceux qui sont par ici. Oh! Ici n’arrivent que les petites choses. Les grandes choses arrivent là-bas. Et la moitié n’a encore jamais été racontée! Oh, je suis si heureux de savoir que notre Seigneur vient bientôt et que nous allons être avec Lui pour toujours; non pas pour toujours, mais pour l’Eternité, pour l’Eternité!
+15 J’ai eu un combat terrible; Satan a essayé de me donner cette grippe qui traîne ces temps-ci dans la région, et je ne cesse de la lui rendre. Il me la donne, et je la lui rends… Ainsi, j’ai eu une bonne petite bataille. Nous le mettrons sans doute hors de combat la semaine prochaine.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 4
-Dimanche prochain, le dix-huit, le Seigneur voulant, nous essayerons de faire une réunion de
-prière pour les malades. Nous avons du retard et les choses s’amoncellent de plus en plus, mais
-nous essayons de nous occuper aussi vite que possible des cas d’extrême urgence; nous nous en
-occupons à toutes les heures du jour et de la nuit, prenant les gens quand ils viennent. Le dix-huit
-donc, nous aurons un de nos services de guérison habituels. Et si vous avez quelques-uns de vos
-bien-aimés qui veulent que l’on prie pour eux, amenez-les ce soir-là.
-16 Beaucoup de personnes de Jeffersonville m’ont dit être venues ici très tôt, vers cinq heures, et
-n’avoir même pas trouvé de place pour parquer leurs voitures. Je leur ai répondu: «Mais ce sont
-nos frères qui viennent nous rendre visite de partout, et il y a parmi eux beaucoup de pasteurs. Ils
-viennent parce qu’ils veulent s’appuyer sur l’enseignement de ces choses!».
-17 Nous essayons seulement d’aborder les points essentiels. Plus tard, nous mettrons cela sous
-forme de livre pour que vous puissiez le lire, et on y apportera quelques petits compléments, parce
-que, le soir… vous avez pu remarquer que ces derniers soirs, j’ai essayé de ménager ma voix,
-parce que je voudrais garder mes forces pour le jour où nous arriverons au point culminant, à la
-révélation de Christ dans l'âge ou nous vivons aujourd’hui.
-18 Demain est un jour de grande activité commerciale: nous devons tous aller faire nos courses
-du samedi. Et nous devons les faire samedi matin ou après-midi, afin de pouvoir être libres le
-samedi soir pour aller à la réunion. C’est pourquoi nous essaierons de terminer assez tôt ce soir
-afin que vous ne soyez pas trop fatigués demain matin et que vous puissiez revenir ici pour le
-service de l’après-midi avec les frères pour écouter les bandes, et que vous ne soyez pas trop
-fatigués demain soir. Maintenant, voulez-vous vous lever pour un moment de prière, s’il vous plaît?
-19 Avant que nous priions, je me demande si quelqu’un a une requête spéciale à apporter; qu’il
-le fasse savoir simplement en levant la main. Dieu le voit. Eh bien, vous pouvez voir maintenant si
-oui ou non nous sommes dans un monde où il y a des besoins, frères! Je vois que les
-quatre-vingt-quinze ou quatre-vingt-dix-huit pour cent de l’assemblée lèvent la main! Or,
-souvenez-vous que vous ne pouvez pas faire le moindre mouvement sans que Dieu le sache!
-Vous voyez? Il connaît vos intentions, Il sait ce que vous avez demandé. Inclinons nos têtes.
-20 Bien-aimé Père céleste, nous nous approchons ce soir du trône de Ta Sainteté, nous
-appuyant sur Ta promesse où Tu nous as dit que Tu nous écouterais. Et que si nous croyions, Tu
-nous donnerais ce que nous demandons. Nous confessons toutes nos erreurs. Et nous
-comprenons, Seigneur, que nous ne sommes pas dignes de Tes bénédictions. Nous sommes
-indignes. Nous sommes tout à fait indignes, et nous ne nous approchons pas de Toi comme si
-nous étions dignes et comme si nous avions fait quelque chose de grand. O Père, lorsque nous
-regardons au Calvaire, cela ôte toute pensée de grandeur en nous, et nous ne connaissons plus
-rien d’autre que Christ, et Christ crucifié. Et nous pouvons voir que, conformément aux Ecritures, Il
-est ressuscité le troisième jour pour notre justification. Que quarante jours plus tard, Il est revenu
-sous la forme du Saint-Esprit pour habiter en nous jusqu’au jour où Il apparaîtra visiblement dans
-les cieux au temps de la fin; nous voyons que ce temps de la fin approche très rapidement
-maintenant! Et nous sommes les plus heureux des hommes, Seigneur, parce que Tu nous as
-donné ce glorieux privilège!
-21 Je suis tellement reconnaissant, Père, que cette assemblée ait le coeur plein de respect, et
-qu’ils écoutent dans le silence et la paix. Et, Seigneur, je Te prie aussi de sanctifier mes lèvres ce
-soir, et chaque soir, et chaque fois que je monterai en chaire pour parler à Ton peuple; ô Seigneur,
-ne me laisse jamais dire quoi que ce soit de faux. Tu as encore le pouvoir de fermer les bouches
-comme Tu l’as fait pour Daniel dans la fosse aux lions. Et s’il m’arrivait de dire quoi que ce soit qui
-ne soit pas selon Ta volonté, ferme ma bouche, Seigneur, afin que je ne le dise pas. Mets de côté
-mes pensées; place-moi sur la bonne voie, Seigneur, là où je ne dirai rien d’autre que la Vérité.
-Car je me rends bien compte qu’en ce temps glorieux, ces gens prendront garde au message que
-je leur ai prêché. Si tu viens prendre l’une quelconque de Tes étoiles, l’un quelconque de Tes
-anges, de Tes serviteurs, ils devront être éprouvés d’après ces messages que nous avons
-prêchés ici. Tu tiendras Tes serviteurs pour responsables.
-22 Maintenant, Père, je Te prie de bien vouloir laisser parler le Saint-Esprit, et non pas l’homme.
-Circoncis nos coeurs afin que nous puissions L’entendre. J’écouterai, ô Père. Je Te prie de guérir
-les malades et de soulager les affligés. Toutes ces personnes qui sont dans le besoin, où qu’elles
-
-        http://www.cmpp.ch
-
-    LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES    5
-soient, que Ta grâce et Ta miséricorde soient avec elles. Exauce chaque requête qui s’est fait
-connaître ce soir par une main levée. Dans tout le pays, il y en a encore beaucoup d’autres qui
-sont dans la souffrance, en particulier ceux qui sont représentés ici par ces mouchoirs et ces
-requêtes qui sont sous ma main; que le Saint-Esprit réponde, ô Père, et guérisse les malades!
-Parle-nous maintenant au travers de Ta Parole écrite par le Saint-Esprit; nous le demandons au
-Nom de Jésus. Amen! Vous pouvez vous asseoir.
-23 Ce soir, il fait un peu chaud dans l’église. Le grand âge de Laodicée approche. Et ce soir,
-nous abordons cet autre grand âge de l’église, le cinquième. Nous avons étudié le premier âge de
-l’église, celui d’Ephèse. Je pourrais les relire dès le début, car tout cela a été mis par écrit; c’est
-d’ailleurs ce que je vais faire, pour ceux d’entre vous qui voudraient vérifier leurs notes.
-24 Le premier âge de l’église est celui d’Ephèse, qui va de 53 à 170. Paul en fut l’étoile. C’est le
-premier âge de l’église. Dieu leur reprocha d’avoir les oeuvres sans l’amour. La récompense était
-“l’Arbre de Vie”.
-25 Le second âge de l’église va de 170 à 312. Irénée en est le messager. Ce fut un âge de
-tribulations et de persécutions de l’église. La récompense était “la Couronne de Vie”.
-26 Le troisième âge de l’église est celui de Pergame, Martin étant le messager de cette église.
-Cet âge s’étendit de 312 à 606. L’accusation est: “fausse doctrine, mensonge de Satan,
-établissement de l’autorité papale et mariage de l’église avec l’état”. La récompense était “la
-manne cachée, et un caillou blanc”.
-27 Le quatrième âge est celui de Thyatire. Colomban est l’ange, le messager de cet âge. Il s’est
-étendu de 606 à 1520. Cet âge fut celui de la séduction papale, l’âge des ténèbres (nous avons
-parlé hier soir de l’âge des ténèbres). La récompense pour cet âge est “l’autorité sur les nations, et
-l’Etoile du matin”.
-28 Ce soir, nous abordons le cinquième âge de l’église, celui de Sardes. Le messager de cet
-âge, Martin Luther, est mieux connu des laïcs. Cet âge a commencé en 1520 et s’est terminé en
-1750. C’est l’âge que l’on appelle “l’âge de la Réforme”. Voici l’accusation: “tu t’es donné un nom!”.
-Et la récompense pour le petit reste qui demeurait était de “marcher avec Lui en vêtements blancs,
-et d’avoir leurs noms inscrits dans le Livre de Vie de l’Agneau”. Que le Seigneur nous bénisse
-tandis que nous entreprenons cette étude!
-29 Nous commençons au chapitre 3, verset 1. C’est le message à l’église de Sardes, c’est
-l’époque de la Réforme. Il ne reste plus qu’un petit groupe de croyants, et ce groupe est sur le
-point de disparaître.
-30 Maintenant, nous allons répéter certaines choses pour les nouveaux venus afin qu’ils puissent
-nous suivre et ne pas rester en arrière. Nous avons fait cela un peu sommairement mais, un de
-ces jours, nous essaierons de situer ces messages… Nous ferons un dessin. Nous viendrons
-l’après-midi pour mettre cela au point; peut-être que nous ferons cela dimanche. Chacun de ces
-dessins représente un âge de l’église; un, deux, trois, quatre, cinq, six, sept.
-31 Celui-ci représente l’église qui existait à Pentecôte. Au commencement, c’était une église très
-importante, mais ils commencèrent bientôt à introduire un esprit dénominationnel parmi eux,
-essayant de faire de l’église une dénomination; c’est ce qui fut appelé “les oeuvres des Nicolaïtes”.
-Ce n’était pas encore une doctrine. Nous avons cherché à analyser le sens de ces mots, oeuvres
-et Nicolaïtes. Ce mot de Nicolaïte nous est étranger, c’est pourquoi je l’ai étudié à partir du grec.
-Nico signifie conquérir ou l’emporter, ou vaincre quelque chose. Laïte signifie l’église, les laïcs. Le
-Nicolaïsme, ce sont des oeuvres pour essayer de vaincre les laïcs et placer toute la bénédiction…
-Le seul qui avait le droit de lire la Bible et d’en donner l’interprétation devait être l’évêque, ou
-quelque personnage important de l’église.
-32 Puis nous avons vu, dans le second âge de l’église, que la Pentecôte commençait à être
-évincée peu à peu. Ceci est encore Pentecôte, mais ici, c’est la dénomination.
-33 Puis, dans le troisième âge, celui de Pergame, l’expérience de Pentecôte est presque
-complètement éliminée. Mais la doctrine de la dénomination, qui n’était ici que des oeuvres, a fini
-par devenir là, une doctrine. Puis, là, ils se marièrent véritablement. “Ils se marièrent!”… ce
-groupe, ici, l’avait emporté sur ceux de Pentecôte.
-34 Ce que je dis ainsi, frères, c’est la vérité même. C’est en accord avec les textes de l’histoire
-
-    http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 6
-sacrée: le livre du Concile de Nicée, le Livre des Martyrs, de Fox, et tous les textes anciens. Je
-possède quelques-uns des textes des manuscrits les plus anciens. Et chacun… Je ne dis pas que
-je suis Pentecôtiste. Cela ne veut rien dire. Quand je dis «Pentecôte», je ne parle pas de
-l’organisation actuelle (ils sont aussi coupables que les autres), mais je veux parler de la vraie
-Pentecôte, le véritable Saint-Esprit de Dieu avec la doctrine originale, avec les bénédictions
-originales, avec les noms originaux, avec tout ce qui est exactement comme cela avait commencé
-au début et comme cela s’est manifesté tout au long de la Bible.
-35 Maintenant, nous arrivons à cet âge-ci, et nous voyons jusqu’où la Pentecôte est allée. Hier
-soir, nous avons vu ce grand âge où a vécu Constantin. C’était un païen, et il demanda à ces
-chrétiens-ci (ceux qui avaient la doctrine Nicolaïte), s’ils voulaient prier pour qu’il gagne une
-certaine bataille; s’il la gagnait, il se ferait chrétien. Pendant cette guerre, il fit un rêve. Il vit une
-croix blanche, et il entendit une voix, lui disant: “Par ceci tu vaincras!”. Alors, il réveilla son armée
-et fit peindre une croix blanche sur les boucliers; ce fut la naissance, ou le début, de l’ordre des
-chevaliers de Colombus.
-36 En ce qui concerne Constantin, vous ne pouvez rien trouver dans l’histoire qui prouve qu’il se
-soit converti. Il n’était rien d’autre qu’un politicien retors. Il avait en tête d’unifier son royaume et de
-le rendre fort. Etant païen, il adorait les idoles; voyant que la doctrine des Nicolaïtes avait presque
-réussi à s’imposer, il employa la stratégie que nous avons découverte hier soir.
-37 Trois cent quatre ans avant que cela n’arrive, Jésus prédit que la doctrine de Balaam séduirait
-les enfants d’Israël, leur faisant commettre fornication en leur faisant manger des viandes offertes
-en sacrifice aux idoles. Nous savons ce que signifie “manger des viandes sacrifiées aux idoles”:
-cela signifie adorer. En entrant, ils se prosternaient devant des idoles, ces idoles qu’ils avaient
-amenées dans l’église chrétienne. C’est exactement ce qu’avait fait Balaam, faisant tomber Israël
-dans la fornication en l’incitant à se rendre à la fête de l’idole.
-38 Constantin fit la même chose avec sa stratégie: il fit une église. Il donna beaucoup lors du
-concile de Nicée. Il transforma en églises beaucoup de grands édifices qu’il possédait. Puis il fit de
-grands autels de marbre décorés d’or et de pierres précieuses. Au-dessus, il mit une sorte de
-trône sur lequel il plaça un homme qui devait être le chef, la tête, et qu’on appelait alors évêque.
-Après cela, on le mit sur un trône; Boniface III fut le premier à être intronisé. Il ne s’agissait plus
-pour lui de sortir comme un simple paysan, mais on lui fit des vêtements somptueux qui lui
-donnèrent l’apparence d’un dieu; on l’installa sur le trône, et on lui donna le titre de “Vicaire”. Le
-Vicaire… VICARIUS FILII DEI signifie: “à la place du Fils de Dieu”.
-39 Maintenant, voici pour celui qui a de la sagesse: écrivez ceci: VICARIUS FILII DEI. Si vous
-tirez un trait là-dessous et que vous additionniez les valeurs numériques, vous obtenez
-exactement ce que Dieu a dit être le nombre de la bête: six cent soixante-six. Vous voyez: Vicarius
-Filii Dei… Je suis allé à Rome et au Vatican. J’ai vu la couronne triple: l’autorité sur l’enfer, le ciel
-et le purgatoire. J’ai vu la couronne, j’ai vu le vêtement, je les ai vus là-bas!
-40 En fait, le jeudi après-midi à trois heures, je devais être reçu en audience chez le pape. Le
-baron von Blomberg me dit: «Lorsque vous irez, frère Branham, la première chose que vous
-devrez faire est de vous agenouiller sur le genou droit et de baiser son anneau».
-41 J’ai répondu: «Cela suffit! N’en parlons plus! Je n’ai rien contre cet homme; je donne
-volontiers son titre à un homme. Si c’est un “Révérend”, c’est très bien, si c’est un “Evêque”, un
-“Ancien”, un “docteur”, ou quoi que ce soit, je le saluerai volontiers. Mais adorer un homme? Je ne
-dois rendre hommage qu’à un seul homme: Jésus-Christ! C’est le seul homme devant qui je
-m’agenouillerai. N’en parlons donc plus! Annulez tout simplement cette audience». Je n’aurais pas
-accepté de faire cela.
-42 Après être rentré à la maison, je découvris qu’un autre Américain, un grand homme, lui, avait
-fait cela: Théodore Roosevelt. Il a refusé de le faire pour la raison… Vous souvenez-vous d’avoir
-vu cela en histoire? Il a refusé de voir le pape parce qu’il aurait dû baiser son anneau. Vous savez,
-ils font la même chose avec le gros orteil de Pierre.
-43 Avant de quitter ce sujet, disons encore ceci: on avait consolidé l’église par le mariage. On prit
-quelques idoles païennes que l’on plaça dans l’église: Jupiter, le dieu du soleil, Mars, Vénus…
-Toutes ces idoles de dieux viennent des églises païennes; et on a élevé Paul, Pierre, la vierge
-Marie et tous les autres, et on a dit: “Voici votre Vicaire, car Jésus a dit à Pierre: Je te donne les
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 7
-clefs! et il est le successeur apostolique!”. C’est la doctrine catholique, de nos jours encore. Et ils
-ont élevé des idoles. Qu’ont-ils fait? Ils ont introduit le culte des idoles dans le christianisme, dans
-le soi-disant christianisme; non pas dans le vrai christianisme, parce que les chrétiens de
-Pentecôte…
-44 En parlant des chrétiens de Pentecôte… n’oubliez pas que je ne parle pas des dénominations
-Baptiste, Méthodiste, Presbytérienne, Pentecôtiste! Pas du tout! Mais le vrai et authentique ordre
-de Dieu est celui de l’expérience de Pentecôte. Cela a toujours été, et cela sera toujours ainsi.
-C’est là que l’église a commencé, là même, avec la puissance de Pentecôte.
-45 Vous me direz: «Est-ce bien vrai, frère Branham?». Prenez les livres d’histoire et sondez le
-cours des temps jusqu’ici, et vous verrez si chacun de ces vrais et authentiques enfants de Dieu
-ne s’est pas accroché à cette bénédiction de Pentecôte: ils parlaient en langues, interprétaient les
-langues, avaient des signes et des prodiges et baptisaient au Nom de Jésus-Christ. Tout ce que
-les apôtres ont fait, ils l’ont aussi fait, du début jusqu’à la fin. C’est pourquoi, en lisant l’histoire, j’ai
-pris Paul, Irénée, Martin, Colomban, etc. Chacun de ces hommes, jusqu’à cet âge-ci, avait les
-signes et les prodiges.
-46 M’entendez-vous bien? On me dit qu’il y a une panne de micro… Est-ce que cela va mieux?
-J’entends tout le monde dire: «Ça va, allez-y!». Bon, très bien! Je continue.
-47 C’est dans cet âge que l’on créa cette grande église. On éleva un homme au poste d’évêque
-universel, et on le mit à la tête de toutes les églises. Constantin leur donna beaucoup d’argent et
-tout le reste, et leur fit toutes sortes de promesses; il unit l’église à l’état et laissa l’église diriger
-l’état. Cela fit de lui un homme important. Constantin fit exactement la même chose que ce que
-nous avons vu dans cette autre église: c’est Dieu qui nous le dit. Comme du temps d’Elie, ils
-acceptèrent que cette femme Jézabel séduisît les enfants de Dieu; cela s’est passé dans cet âge
-de ténèbres. Et voyez ce qu’est devenue la Pentecôte aujourd’hui! Les ténèbres sont devenues
-complètes. Et pendant presque mille ans, de 500 à 1500 (les dates exactes sont 606 à 1520), il y a
-eu de sanglantes persécutions! Lisez simplement l’histoire.
-48 Les Catholiques vous diront que ce sont eux qui sont l’Eglise Chrétienne. Ce qu’ils sont, c’est
-l’église chrétienne dénominationnelle. Mais les vrais chrétiens, ceux de Pentecôte, furent expulsés,
-mis à mort, assassinés par les papes, les évêques et autres, qui étaient des gens particulièrement
-sanguinaires.
-49 Peut-être qu’un jour, cela me coûtera la vie, de dire cela! Mais une chose est sûre: je sais
-dans quelle direction je vais! Vous voyez? Le sang continue à couler! Mais l’heure vient
-maintenant et vous pouvez voir, d’après ce qui se passe dans le pays, que ce ne sera pas long!
-Ne reculez jamais devant cela! C’est la Vérité. Restez avec Elle. Mêlez votre sang à votre
-témoignage comme eux, en ce jour-là.
-50 Vous voyez ici ce qui s’est passé. C’est ici que la doctrine de Jézabel a pénétré. Jézabel était
-une femme païenne. Achab fit la même chose que Constantin. Il épousa cette femme pour fortifier
-son royaume et introduisit l’idolâtrie en Israël, exactement comme Constantin le fit plus tard. Alors,
-la Pentecôte avait presque complètement disparu.
-51 Dieu suscita Martin Luther. Je voudrais que vous remarquiez combien cela diminue ici et
-disparaît presque complètement; puis cela recommence à peine ici et descend de nouveau ici. Et
-j’ai fait une marque en travers, parce que c’est une grande leçon pour dimanche soir, si le
-Seigneur le permet.
-52 Maintenant, je crois que nous avons rattrapé l’époque à laquelle nous nous sommes arrêtés.
-Ici, c’est le moyen-âge, de 606 à 1520; c’est l’âge des ténèbres. Cette église-ci est dans l’âge des
-ténèbres. Et l’âge de l’église où nous arrivons maintenant est l’âge de Luther.
-53 Ces hommes, Irénée, Martin, Colomban, sont morts il y a bien longtemps déjà, et leur
-mémoire s’est estompée. Si vous cherchez dans les livres d’histoire, même les livres sérieux, ils
-vous diront: «Saint Patrick était Catholique!». Ils ne savent pas de quoi ils parlent! Patrick s’est
-opposé à l’église Catholique; il n’est jamais allé à Rome, et a refusé avec fermeté leur doctrine.
-C’est vrai! Allez en Irlande du Nord, et vous verrez bien que Patrick était un homme de Dieu. Mais
-pour ce qui est de dire qu’il a chassé tous les serpents de l’Irlande, c’est une pure légende!
-54 Combien parmi vous ont entendu parler de l’histoire de Guillaume Tell tirant sur une pomme
-
-        http://www.cmpp.ch
-
-    LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES    8
-placée sur la tête de son fils? C’est une légende catholique, et il n’y a pas un mot de vrai
-là-dedans! Je suis allé à l’endroit où cela est censé s’être passé. Il est écrit: «C’est une légende».
-Billy et moi-même, nous nous assîmes au bord du Lac des Quatre-cantons en Suisse, à l’endroit
-même où il aurait fait ces choses. Il a tiré sur un homme. Ce n’est pas la même chose que tirer sur
-une pomme placée sur la tête de son enfant! Tout cela n’est que légende et superstition, cela n’est
-jamais arrivé. C’est une histoire qui s’est répandue, mais dans tout cela, il n’y a aucune vérité
-historique.
-55 Or, c’est dans cet âge-ci que la vérité s’est estompée jusqu’à disparaître presque
-complètement. Ensuite vient l’âge de la Réforme. Au bout de presque mille ans de ténèbres et
-d’obscurité où tout s’effaçait, l’église avait presque complètement perdu de vue la personnalité
-d’Irénée. Pourtant c’était un grand homme, un homme de Dieu. Et comme lui, des centaines de
-ces saints bien-aimés donnèrent avec joie leur vie dans l’arène pour la cause de Christ, pour le
-baptême au Nom de Jésus-Christ, pour le parler en langues, pour la résurrection de Jésus-Christ
-manifestant Sa Vie dans nos vies par Sa divine Présence, alors que ceux qui se donnaient le nom
-de chrétiens les persécutaient. C’est vrai! C’est l’exacte vérité!
-56 Mais ils ne sont qu’une légion de démons sortis de l’enfer, méritant je ne sais quoi. Ils sont
-venus comme cela et se sont organisés: “Elle se dit prophétesse, divine interprète de la Parole!” —
-Ils sont les seuls à La connaître! C’est elle qui se donne ce nom, mais c’est une menteuse.
-Cependant, au même moment, l’ange de Dieu vient avec la Vérité. La Vérité revient toujours à
-ceci. Vous voyez? Elle revient toujours à l’original, parce que Dieu ne S’éloigne jamais de cela.
-57 Nous avons découvert cela hier soir avant de quitter ce sujet. Cela devrait donc être clair dans
-votre coeur maintenant. Jézabel, le type de cela, avait une fille. Vous en souvenez-vous? Dans
-Apocalypse 13, il est dit: “Rome, cette église apostate, avait des filles. Elle était la mère de
-prostituées”. N’est-ce pas vrai? Jézabel avait une fille; et qu’a fait Jézabel de sa fille? Considérez
-toutes ces choses: ce sont des types, des ombres. Jézabel donna sa fille en mariage à Joram qui
-était le fils de Josaphat, roi de Juda.
-58 En ce temps-là, Israël était divisé comme ceci. Ici, c’est Jérusalem, et là, c’est Samarie.
-Achab était ici, et Joram, là. Bien! Jézabel avait conquis ceci: Tout Israël adorait les idoles (tous,
-sauf Elie et ce petit groupe fidèle). De l’autre côté, ici, il y avait Joram, roi de Juda. Jézabel donna
-la fille qui naquit de son union avec Achab en mariage à Joram, fils de Josaphat, qui introduisit de
-cette manière l’idolâtrie en Juda et fit élever des autels païens à Jérusalem.
-59 C’est exactement ce que l’église Catholique a fait! Elle a mis en avant sa doctrine
-dénominationnelle, retranchant le Saint-Esprit de l’église ici, avec sa fille (les Luthériens,
-Méthodistes, Baptistes, Pentecôtistes, etc.). C’est exactement ce qu’elle a fait. La Bible dit qu’elle
-est la mère de prostituées.
-60 Sondez simplement les Ecritures! Si vous voyez dans l’Ecriture ou dans l’histoire quelque
-chose de différent de ce que je dis, venez me le dire franchement!
-61 Ces dénominations sont un poison au sein du protestantisme, essayant de faire diriger l’église
-par l’homme, faisant une autre image semblable à celle qui est assise sur ce trône: l’évêque
-principal, les surintendants du Pentecôtisme, disant: «Bon! voyons quelle est sa doctrine. Oh, il
-baptise au Nom de Jésus? Alors, il ne peut venir ici! Certainement pas!». Vous rejetez ces choses.
-Il faut qu’ils les rejettent! «Sachez bien que je ne veux pas voir l’un de vous aller à ces réunions,
-là-bas! Pouce en bas! Peu m’importe que vous soyez malade! Restez à l’écart de tout cela, quoi
-que Dieu fasse! Si vous ne regardez pas à travers nos lunettes, vous ne voyez rien du tout!». C’est
-ainsi qu’ils font une image à la bête. Et l’image avait le pouvoir de parler. C’est parfaitement exact.
-Si vous ne croyez pas qu’elle peut parler, mettez-vous une fois sur son chemin, et vous verrez si
-elle ne vous cause pas des ennuis!
-62 Lorsque j’étais à Tulsa, en Oklaoma, je me rappelle que je commençais à tomber dans une
-confusion terrible à cause de toutes ces dénominations qui s’agitaient dans cette région. Mais un
-jour, j’eus une vision. Je vis un gentil petit chaton couché sur un coussin de soie; c’était le plus joli
-petit chat que l’on puisse imaginer. J’ai peur des chats, mais malgré tout, je le caressai, et il se mit
-aussitôt à ronronner. En le caressant, je lui disais: «Joli minet!» — Lui me répondait par son
-ronron.
-63 En regardant derrière son coussin, je vis qu’il était écrit: «Petit chat Pentecôtiste!». Je pensai:
-
-     http://www.cmpp.ch
-
-    LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES    9
-«C’est étrange! cela doit être une vision!».
-64 Ensuite, quelque chose me dit: «Tant que tu le caresses ainsi, c’est bien; mais essaie de le
-caresser à rebrousse-poil et tu verras de quel bois il se chauffe!». Je le caressai donc à
-rebrousse-poil, mais aussitôt, ses yeux verts prirent une expression dure, et c’est comme un petit
-monstre qu’il se mit à me souffler contre méchamment. Parce que je l’avais caressé un peu à
-rebrousse-poil! Dites-lui que son baptême au Nom du Père, du Fils et du Saint-Esprit est du diable
-et vient de l’église Catholique, et vous verrez comment il réagit! Cela le mettra dans tous ses états!
-65 Je suis descendu dire à frère Gene, à frère Leo et aux autres: «Je viens d’avoir une véritable
-vision des dénominations Pentecôtistes!».
-66 Et maintenant, le chapitre 3… Sardes est une église morte. Elle est morte, parce qu’elle a été
-tuée pendant ce temps-là. Il n’y a plus qu’une petite parcelle de Vie, et dans un moment, nous
-verrons ce que c’est. L’âge de Sardes s’étend de 1520 à 1750. L’étoile qui était dans Sa main,
-c’est l’ange, ou le messager de cet âge. Est-ce parfaitement compris? L’étoile était un ange, et un
-ange est un messager pour cet âge. Bien!
-67 Maintenant, nous avons terminé avec le concile de Nicée. Elle est morte là-bas; ils sont entrés
-dans la puissance et la gloire par cette union de l’église et de l’état. Quelqu’un se souvient-il de
-l’enseignement d’hier soir, où nous avons vu ce que beaucoup de gens pensaient? «Le Millénium
-est là!». Le Millénium sans la venue de Christ! Vous voyez? C’est la venue de Christ qui nous
-introduit dans le Millénium! Si vous étudiez l’histoire, vous verrez qu’en ce temps-là s’élevèrent des
-faux Jésus et autres. Et ils pensaient même que le pape était Jésus, l’appelant vicaire, c’est-à-dire
-“à la place du Fils de Dieu”. Oui, ils l’élevèrent et en firent un grand dieu saint.
-68 Laissez-moi vous dire quelque chose. La Bible dit qu’avant la venue de Jésus
-“… s’élèveraient des faux prophètes et des faux christs”. C’est vrai! Mais laissez-moi placer ceci
-dans votre coeur: Jésus ne mettra jamais le pied sur cette terre jusqu’à ce que l’Eglise soit
-partie dans l’enlèvement. Gardez cela à l’esprit, car il s’élèvera de faux christs! Jésus ne sera
-pas ici sur terre; parce que quand la trompette sonnera, ce n’est pas du tout Lui qui viendra, c’est
-nous qui irons à sa rencontre dans les airs (l’Eglise est enlevée). Ensuite, lorsque Jésus paraîtra,
-Elle reviendra. L’Eglise des nations ira à Sa rencontre dans les airs. N’est-ce pas l’Ecriture qui
-nous le dit? Nous irons à Sa rencontre dans les airs, et alors nous monterons. Jésus ne pose pas
-le pied sur cette terre avant que l’Eglise ait été enlevée à la Maison et que le Repas des noces soit
-terminé: alors, Il revient pour chercher le reste d’Israël.
-69 Donc, le concile de Nicée était terminé, et il y avait près de mille ans que l’église était sous
-l’autorité papale. On avait tué tous ceux qui n’étaient pas d’accord. C’est vrai! Soit vous vous
-soumettiez, soit vous étiez tué, comme Jézabel l’avait fait avec Israël.
-70 Le Saint-Esprit S’étant presque complètement retiré, il ne restait plus qu’un très petit nombre
-pendant cet âge, comme du temps d’Elie où seul un petit reste en Israël n’avait pas plié le genou
-devant Baal. Si vous voulez le lire, cela se trouve dans 1 Rois, chapitre 19, verset 18, lorsque Elie
-se tenait dans la caverne où il dit: “Seigneur, ils ont tué tous Tes prophètes et je suis resté moi
-seul. Je suis le seul à avoir échappé!”. Mais Dieu lui dit qu’Il en avait encore plusieurs centaines
-parmi les laïcs, là-bas, qui n’avaient pas plié le genou devant Baal.
-71 Maintenant, nous commençons l’étude de Sardes. D’abord, le mot Sardes, au verset 1. Le
-mot “Sardes”, traduit en français, signifie “quelqu’un qui a échappé”. La véritable Sardes était “celle
-qui avait échappé”. Voyons maintenant qui est “celui qui a échappé”.
-72 Nous allons commencer au verset 1. Je crois que nous allons appeler cet âge l’âge de la
-Réforme; ce nom conviendra parfaitement. La Réforme, c’est “celui qui a échappé”, qui est sorti et
-s’est échappé:
-73 “Et à l’ange de l’assemblée qui est à Sardes, écris: Voici ce que dit celui qui a les sept Esprits
-de Dieu et les sept étoiles: Je connais tes oeuvres, — que tu as le nom de vivre, et tu es mort”.
-74 Maintenant, la salutation: “Les sept Esprits et les sept étoiles”. Les Esprits sont les anges qui
-vont vers les étoiles qui sont les messagers. “Sept Esprits”; à sept reprises, le Saint-Esprit oignit
-un messager qui était l’étoile pour son temps. Un Esprit est éternel, et les étoiles ont été faites
-dans le but de refléter la Lumière dans les ténèbres de ces âges de l’église; elles sont
-représentées par des lampes. L’ange, l’Esprit, c’est Celui qui alla vers l’étoile et qui reflétait la
-
-    http://www.cmpp.ch
-
-    LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES    10
-Lumière du Saint-Esprit au travers de l’étoile pour cet âge de l’église. Mais vous pourriez vous
-demander qui sont ces sept Esprits. Ce sont les sept messagers des sept âges de l’église. Vous
-voyez? Et chaque fois qu’une étoile est entrée en scène, le Saint-Esprit est descendu et a oint
-cette étoile, et l’a gardée exactement comme Il l’a fait de la Semence.
-75 Laissez-moi vous confirmer cela. Si vous voulez le savoir, Paul nous dit de quel genre d’étoile
-il s’agit. Parce que, pensez-y, Satan est aussi une étoile, un astre brillant. Croyez-vous que Paul
-était l’étoile de l’église d’Ephèse? Si vous voulez savoir si c’est vrai ou non, Paul a dit dans
-Galates 1.8, en parlant des temps où viendraient les loups ravisseurs: “Quand un ange du ciel
-annoncerait un autre évangile…”. Vous savez, quand il viendrait, il ressemblerait à un ange, à un
-grand vicaire. Paul dit: “Peu importe qui ce sera, si un ange ou qui que ce soit vient annoncer quoi
-que ce soit d’autre que cet Evangile que nous vous avons prêché, qu’il soit anathème!”. N’est-ce
-pas vrai?
-76 Paul est celui qui les a obligés à être rebaptisés, parce qu’ils n’avaient pas été baptisés au
-Nom de Jésus-Christ. “Venez, et soyez baptisés de nouveau afin de recevoir le Saint-Esprit”,
-Actes 19.5. Il était aussi celui qui imposait les mains aux gens, qui avait des dons, qui mit de
-l’ordre dans l’église, accomplissant des miracles, manifestant la guérison divine, ayant le don des
-langues et l’interprétation des langues. Est-ce exact? Vous verrez ce que Paul a dit dans
-1 Corinthiens 12. Vous trouverez cela dans 1 Corinthiens 12. Dieu avait placé dans l’église ces
-dons glorieux, et Paul les a mis en ordre afin qu’ils puissent servir à la gloire de Dieu. Il nous l’a dit.
-C’est pourquoi si un homme, quelle que soit la dénomination à laquelle il appartienne, essaie de
-vous dire que le temps du parler en langues, de l’interprétation des langues, de la guérison divine,
-des miracles et du témoignage du baptême du Saint-Esprit sont passés, qu’il soit anathème! Car
-l’Esprit qui sera envoyé dans tous les âges de l’église successivement est le même que Celui qui
-était sur Paul. Le même Esprit, le Saint-Esprit! Croyez-vous cela?
-77 Remarquez que c’est écrit ici. L’auteur le savait. Vous voyez, les “sept Esprits”. Vous
-remarquerez qu’il y a “E” majuscule, parce qu’il s’agit du Saint-Esprit: “sept Esprits”. Il n’y en a
-qu’Un. C’est le même Saint-Esprit qui vient apporter sept fois la même Lumière à tous les sept
-âges de l’église. Comprenez-vous maintenant? Sept âges de l’église, et sept fois le Saint-Esprit
-apportant ce même message! Et une malédiction fut prononcée contre quiconque y changerait
-quelque chose.
-78 Voyez si cela ne correspond pas avec la révélation dans son ensemble. Il a dit: “Quiconque
-retranchera ou ajoutera, sa part sera ôtée du Livre de Vie”. De cette manière, tous les cas sont
-prévus. Vous ne pouvez pas sauter par-dessus quelque chose, ni glisser quelque chose, parce
-que tout est là. C’est ce que Dieu a dit, c’est ce que l’Esprit a dit, et c’est ce que les églises ont dit.
-C’est pourquoi, si vous essayez d’introduire une autre doctrine que celle qui a été enseignée par
-Paul, c’est faux! C’est la Bible qui est correcte. Jésus a dit: “Je retrancherai sa part du Livre de
-Vie”.
+Dimanche prochain, le dix-huit, le Seigneur voulant, nous essayerons de faire une réunion de prière pour les malades. Nous avons du retard et les choses s’amoncellent de plus en plus, mais nous essayons de nous occuper aussi vite que possible des cas d’extrême urgence; nous nous en occupons à toutes les heures du jour et de la nuit, prenant les gens quand ils viennent. Le dix-huit donc, nous aurons un de nos services de guérison habituels. Et si vous avez quelques-uns de vos bien-aimés qui veulent que l’on prie pour eux, amenez-les ce soir-là.
+16 Beaucoup de personnes de Jeffersonville m’ont dit être venues ici très tôt, vers cinq heures, et n’avoir même pas trouvé de place pour parquer leurs voitures. Je leur ai répondu: «Mais ce sont nos frères qui viennent nous rendre visite de partout, et il y a parmi eux beaucoup de pasteurs. Ils viennent parce qu’ils veulent s’appuyer sur l’enseignement de ces choses!».
+17 Nous essayons seulement d’aborder les points essentiels. Plus tard, nous mettrons cela sous forme de livre pour que vous puissiez le lire, et on y apportera quelques petits compléments, parce que, le soir… vous avez pu remarquer que ces derniers soirs, j’ai essayé de ménager ma voix, parce que je voudrais garder mes forces pour le jour où nous arriverons au point culminant, à la révélation de Christ dans l'âge ou nous vivons aujourd’hui.
+18 Demain est un jour de grande activité commerciale: nous devons tous aller faire nos courses du samedi. Et nous devons les faire samedi matin ou après-midi, afin de pouvoir être libres le samedi soir pour aller à la réunion. C’est pourquoi nous essaierons de terminer assez tôt ce soir afin que vous ne soyez pas trop fatigués demain matin et que vous puissiez revenir ici pour le service de l’après-midi avec les frères pour écouter les bandes, et que vous ne soyez pas trop fatigués demain soir. Maintenant, voulez-vous vous lever pour un moment de prière, s’il vous plaît?
+19 Avant que nous priions, je me demande si quelqu’un a une requête spéciale à apporter; qu’il le fasse savoir simplement en levant la main. Dieu le voit. Eh bien, vous pouvez voir maintenant si oui ou non nous sommes dans un monde où il y a des besoins, frères! Je vois que les quatre-vingt-quinze ou quatre-vingt-dix-huit pour cent de l’assemblée lèvent la main! Or, souvenez-vous que vous ne pouvez pas faire le moindre mouvement sans que Dieu le sache! Vous voyez? Il connaît vos intentions, Il sait ce que vous avez demandé. Inclinons nos têtes.
+20 Bien-aimé Père céleste, nous nous approchons ce soir du trône de Ta Sainteté, nous appuyant sur Ta promesse où Tu nous as dit que Tu nous écouterais. Et que si nous croyions, Tu nous donnerais ce que nous demandons. Nous confessons toutes nos erreurs. Et nous comprenons, Seigneur, que nous ne sommes pas dignes de Tes bénédictions. Nous sommes indignes. Nous sommes tout à fait indignes, et nous ne nous approchons pas de Toi comme si nous étions dignes et comme si nous avions fait quelque chose de grand. O Père, lorsque nous regardons au Calvaire, cela ôte toute pensée de grandeur en nous, et nous ne connaissons plus rien d’autre que Christ, et Christ crucifié. Et nous pouvons voir que, conformément aux Ecritures, Il est ressuscité le troisième jour pour notre justification. Que quarante jours plus tard, Il est revenu sous la forme du Saint-Esprit pour habiter en nous jusqu’au jour où Il apparaîtra visiblement dans les cieux au temps de la fin; nous voyons que ce temps de la fin approche très rapidement maintenant! Et nous sommes les plus heureux des hommes, Seigneur, parce que Tu nous as donné ce glorieux privilège!
+21 Je suis tellement reconnaissant, Père, que cette assemblée ait le coeur plein de respect, et qu’ils écoutent dans le silence et la paix. Et, Seigneur, je Te prie aussi de sanctifier mes lèvres ce soir, et chaque soir, et chaque fois que je monterai en chaire pour parler à Ton peuple; ô Seigneur, ne me laisse jamais dire quoi que ce soit de faux. Tu as encore le pouvoir de fermer les bouches comme Tu l’as fait pour Daniel dans la fosse aux lions. Et s’il m’arrivait de dire quoi que ce soit qui ne soit pas selon Ta volonté, ferme ma bouche, Seigneur, afin que je ne le dise pas. Mets de côté mes pensées; place-moi sur la bonne voie, Seigneur, là où je ne dirai rien d’autre que la Vérité. Car je me rends bien compte qu’en ce temps glorieux, ces gens prendront garde au message que je leur ai prêché. Si tu viens prendre l’une quelconque de Tes étoiles, l’un quelconque de Tes anges, de Tes serviteurs, ils devront être éprouvés d’après ces messages que nous avons prêchés ici. Tu tiendras Tes serviteurs pour responsables.
+22 Maintenant, Père, je Te prie de bien vouloir laisser parler le Saint-Esprit, et non pas l’homme. Circoncis nos coeurs afin que nous puissions L’entendre. J’écouterai, ô Père. Je Te prie de guérir les malades et de soulager les affligés. Toutes ces personnes qui sont dans le besoin, où qu’elles soient, que Ta grâce et Ta miséricorde soient avec elles. Exauce chaque requête qui s’est fait connaître ce soir par une main levée. Dans tout le pays, il y en a encore beaucoup d’autres qui sont dans la souffrance, en particulier ceux qui sont représentés ici par ces mouchoirs et ces requêtes qui sont sous ma main; que le Saint-Esprit réponde, ô Père, et guérisse les malades! Parle-nous maintenant au travers de Ta Parole écrite par le Saint-Esprit; nous le demandons au Nom de Jésus. Amen! Vous pouvez vous asseoir.
+23 Ce soir, il fait un peu chaud dans l’église. Le grand âge de Laodicée approche. Et ce soir, nous abordons cet autre grand âge de l’église, le cinquième. Nous avons étudié le premier âge de l’église, celui d’Ephèse. Je pourrais les relire dès le début, car tout cela a été mis par écrit; c’est d’ailleurs ce que je vais faire, pour ceux d’entre vous qui voudraient vérifier leurs notes.
+24 Le premier âge de l’église est celui d’Ephèse, qui va de 53 à 170. Paul en fut l’étoile. C’est le premier âge de l’église. Dieu leur reprocha d’avoir les oeuvres sans l’amour. La récompense était “l’Arbre de Vie”.
+25 Le second âge de l’église va de 170 à 312. Irénée en est le messager. Ce fut un âge de tribulations et de persécutions de l’église. La récompense était “la Couronne de Vie”.
+26 Le troisième âge de l’église est celui de Pergame, Martin étant le messager de cette église. Cet âge s’étendit de 312 à 606. L’accusation est: “fausse doctrine, mensonge de Satan, établissement de l’autorité papale et mariage de l’église avec l’état”. La récompense était “la manne cachée, et un caillou blanc”.
+27 Le quatrième âge est celui de Thyatire. Colomban est l’ange, le messager de cet âge. Il s’est étendu de 606 à 1520. Cet âge fut celui de la séduction papale, l’âge des ténèbres (nous avons parlé hier soir de l’âge des ténèbres). La récompense pour cet âge est “l’autorité sur les nations, et l’Etoile du matin”.
+28 Ce soir, nous abordons le cinquième âge de l’église, celui de Sardes. Le messager de cet âge, Martin Luther, est mieux connu des laïcs. Cet âge a commencé en 1520 et s’est terminé en 1750. C’est l’âge que l’on appelle “l’âge de la Réforme”. Voici l’accusation: “tu t’es donné un nom!”. Et la récompense pour le petit reste qui demeurait était de “marcher avec Lui en vêtements blancs, et d’avoir leurs noms inscrits dans le Livre de Vie de l’Agneau”. Que le Seigneur nous bénisse tandis que nous entreprenons cette étude!
+29 Nous commençons au chapitre 3, verset 1. C’est le message à l’église de Sardes, c’est l’époque de la Réforme. Il ne reste plus qu’un petit groupe de croyants, et ce groupe est sur le point de disparaître.
+30 Maintenant, nous allons répéter certaines choses pour les nouveaux venus afin qu’ils puissent nous suivre et ne pas rester en arrière. Nous avons fait cela un peu sommairement mais, un de ces jours, nous essaierons de situer ces messages… Nous ferons un dessin. Nous viendrons l’après-midi pour mettre cela au point; peut-être que nous ferons cela dimanche. Chacun de ces dessins représente un âge de l’église; un, deux, trois, quatre, cinq, six, sept.
+31 Celui-ci représente l’église qui existait à Pentecôte. Au commencement, c’était une église très importante, mais ils commencèrent bientôt à introduire un esprit dénominationnel parmi eux, essayant de faire de l’église une dénomination; c’est ce qui fut appelé “les oeuvres des Nicolaïtes”. Ce n’était pas encore une doctrine. Nous avons cherché à analyser le sens de ces mots, oeuvres et Nicolaïtes. Ce mot de Nicolaïte nous est étranger, c’est pourquoi je l’ai étudié à partir du grec. Nico signifie conquérir ou l’emporter, ou vaincre quelque chose. Laïte signifie l’église, les laïcs. Le Nicolaïsme, ce sont des oeuvres pour essayer de vaincre les laïcs et placer toute la bénédiction… Le seul qui avait le droit de lire la Bible et d’en donner l’interprétation devait être l’évêque, ou quelque personnage important de l’église.
+32 Puis nous avons vu, dans le second âge de l’église, que la Pentecôte commençait à être évincée peu à peu. Ceci est encore Pentecôte, mais ici, c’est la dénomination.
+33 Puis, dans le troisième âge, celui de Pergame, l’expérience de Pentecôte est presque complètement éliminée. Mais la doctrine de la dénomination, qui n’était ici que des oeuvres, a fini par devenir là, une doctrine. Puis, là, ils se marièrent véritablement. “Ils se marièrent!”… ce groupe, ici, l’avait emporté sur ceux de Pentecôte.
+34 Ce que je dis ainsi, frères, c’est la vérité même. C’est en accord avec les textes de l’histoire sacrée: le livre du Concile de Nicée, le Livre des Martyrs, de Fox, et tous les textes anciens. Je possède quelques-uns des textes des manuscrits les plus anciens. Et chacun… Je ne dis pas que je suis Pentecôtiste. Cela ne veut rien dire. Quand je dis «Pentecôte», je ne parle pas de l’organisation actuelle (ils sont aussi coupables que les autres), mais je veux parler de la vraie Pentecôte, le véritable Saint-Esprit de Dieu avec la doctrine originale, avec les bénédictions originales, avec les noms originaux, avec tout ce qui est exactement comme cela avait commencé au début et comme cela s’est manifesté tout au long de la Bible.
+35 Maintenant, nous arrivons à cet âge-ci, et nous voyons jusqu’où la Pentecôte est allée. Hier soir, nous avons vu ce grand âge où a vécu Constantin. C’était un païen, et il demanda à ces chrétiens-ci (ceux qui avaient la doctrine Nicolaïte), s’ils voulaient prier pour qu’il gagne une certaine bataille; s’il la gagnait, il se ferait chrétien. Pendant cette guerre, il fit un rêve. Il vit une croix blanche, et il entendit une voix, lui disant: “Par ceci tu vaincras!”. Alors, il réveilla son armée et fit peindre une croix blanche sur les boucliers; ce fut la naissance, ou le début, de l’ordre des chevaliers de Colombus.
+36 En ce qui concerne Constantin, vous ne pouvez rien trouver dans l’histoire qui prouve qu’il se soit converti. Il n’était rien d’autre qu’un politicien retors. Il avait en tête d’unifier son royaume et de le rendre fort. Etant païen, il adorait les idoles; voyant que la doctrine des Nicolaïtes avait presque réussi à s’imposer, il employa la stratégie que nous avons découverte hier soir.
+37 Trois cent quatre ans avant que cela n’arrive, Jésus prédit que la doctrine de Balaam séduirait les enfants d’Israël, leur faisant commettre fornication en leur faisant manger des viandes offertes en sacrifice aux idoles. Nous savons ce que signifie “manger des viandes sacrifiées aux idoles”: cela signifie adorer. En entrant, ils se prosternaient devant des idoles, ces idoles qu’ils avaient amenées dans l’église chrétienne. C’est exactement ce qu’avait fait Balaam, faisant tomber Israël dans la fornication en l’incitant à se rendre à la fête de l’idole.
+38 Constantin fit la même chose avec sa stratégie: il fit une église. Il donna beaucoup lors du concile de Nicée. Il transforma en églises beaucoup de grands édifices qu’il possédait. Puis il fit de grands autels de marbre décorés d’or et de pierres précieuses. Au-dessus, il mit une sorte de trône sur lequel il plaça un homme qui devait être le chef, la tête, et qu’on appelait alors évêque. Après cela, on le mit sur un trône; Boniface III fut le premier à être intronisé. Il ne s’agissait plus pour lui de sortir comme un simple paysan, mais on lui fit des vêtements somptueux qui lui donnèrent l’apparence d’un dieu; on l’installa sur le trône, et on lui donna le titre de “Vicaire”. Le Vicaire… VICARIUS FILII DEI signifie: “à la place du Fils de Dieu”.
+39 Maintenant, voici pour celui qui a de la sagesse: écrivez ceci: VICARIUS FILII DEI. Si vous tirez un trait là-dessous et que vous additionniez les valeurs numériques, vous obtenez exactement ce que Dieu a dit être le nombre de la bête: six cent soixante-six. Vous voyez: Vicarius Filii Dei… Je suis allé à Rome et au Vatican. J’ai vu la couronne triple: l’autorité sur l’enfer, le ciel et le purgatoire. J’ai vu la couronne, j’ai vu le vêtement, je les ai vus là-bas!
+40 En fait, le jeudi après-midi à trois heures, je devais être reçu en audience chez le pape. Le baron von Blomberg me dit: «Lorsque vous irez, frère Branham, la première chose que vous devrez faire est de vous agenouiller sur le genou droit et de baiser son anneau».
+41 J’ai répondu: «Cela suffit! N’en parlons plus! Je n’ai rien contre cet homme; je donne volontiers son titre à un homme. Si c’est un “Révérend”, c’est très bien, si c’est un “Evêque”, un “Ancien”, un “docteur”, ou quoi que ce soit, je le saluerai volontiers. Mais adorer un homme? Je ne dois rendre hommage qu’à un seul homme: Jésus-Christ! C’est le seul homme devant qui je m’agenouillerai. N’en parlons donc plus! Annulez tout simplement cette audience». Je n’aurais pas accepté de faire cela.
+42 Après être rentré à la maison, je découvris qu’un autre Américain, un grand homme, lui, avait fait cela: Théodore Roosevelt. Il a refusé de le faire pour la raison… Vous souvenez-vous d’avoir vu cela en histoire? Il a refusé de voir le pape parce qu’il aurait dû baiser son anneau. Vous savez, ils font la même chose avec le gros orteil de Pierre.
+43 Avant de quitter ce sujet, disons encore ceci: on avait consolidé l’église par le mariage. On prit quelques idoles païennes que l’on plaça dans l’église: Jupiter, le dieu du soleil, Mars, Vénus… Toutes ces idoles de dieux viennent des églises païennes; et on a élevé Paul, Pierre, la vierge Marie et tous les autres, et on a dit: “Voici votre Vicaire, car Jésus a dit à Pierre: Je te donne les clefs! et il est le successeur apostolique!”. C’est la doctrine catholique, de nos jours encore. Et ils ont élevé des idoles. Qu’ont-ils fait? Ils ont introduit le culte des idoles dans le christianisme, dans le soi-disant christianisme; non pas dans le vrai christianisme, parce que les chrétiens de Pentecôte…
+44 En parlant des chrétiens de Pentecôte… n’oubliez pas que je ne parle pas des dénominations Baptiste, Méthodiste, Presbytérienne, Pentecôtiste! Pas du tout! Mais le vrai et authentique ordre de Dieu est celui de l’expérience de Pentecôte. Cela a toujours été, et cela sera toujours ainsi. C’est là que l’église a commencé, là même, avec la puissance de Pentecôte.
+45 Vous me direz: «Est-ce bien vrai, frère Branham?». Prenez les livres d’histoire et sondez le cours des temps jusqu’ici, et vous verrez si chacun de ces vrais et authentiques enfants de Dieu ne s’est pas accroché à cette bénédiction de Pentecôte: ils parlaient en langues, interprétaient les langues, avaient des signes et des prodiges et baptisaient au Nom de Jésus-Christ. Tout ce que les apôtres ont fait, ils l’ont aussi fait, du début jusqu’à la fin. C’est pourquoi, en lisant l’histoire, j’ai pris Paul, Irénée, Martin, Colomban, etc. Chacun de ces hommes, jusqu’à cet âge-ci, avait les signes et les prodiges.
+46 M’entendez-vous bien? On me dit qu’il y a une panne de micro… Est-ce que cela va mieux? J’entends tout le monde dire: «Ça va, allez-y!». Bon, très bien! Je continue.
+47 C’est dans cet âge que l’on créa cette grande église. On éleva un homme au poste d’évêque universel, et on le mit à la tête de toutes les églises. Constantin leur donna beaucoup d’argent et tout le reste, et leur fit toutes sortes de promesses; il unit l’église à l’état et laissa l’église diriger l’état. Cela fit de lui un homme important. Constantin fit exactement la même chose que ce que nous avons vu dans cette autre église: c’est Dieu qui nous le dit. Comme du temps d’Elie, ils acceptèrent que cette femme Jézabel séduisît les enfants de Dieu; cela s’est passé dans cet âge de ténèbres. Et voyez ce qu’est devenue la Pentecôte aujourd’hui! Les ténèbres sont devenues complètes. Et pendant presque mille ans, de 500 à 1500 (les dates exactes sont 606 à 1520), il y a eu de sanglantes persécutions! Lisez simplement l’histoire.
+48 Les Catholiques vous diront que ce sont eux qui sont l’Eglise Chrétienne. Ce qu’ils sont, c’est l’église chrétienne dénominationnelle. Mais les vrais chrétiens, ceux de Pentecôte, furent expulsés, mis à mort, assassinés par les papes, les évêques et autres, qui étaient des gens particulièrement sanguinaires.
+49 Peut-être qu’un jour, cela me coûtera la vie, de dire cela! Mais une chose est sûre: je sais dans quelle direction je vais! Vous voyez? Le sang continue à couler! Mais l’heure vient maintenant et vous pouvez voir, d’après ce qui se passe dans le pays, que ce ne sera pas long! Ne reculez jamais devant cela! C’est la Vérité. Restez avec Elle. Mêlez votre sang à votre témoignage comme eux, en ce jour-là.
+50 Vous voyez ici ce qui s’est passé. C’est ici que la doctrine de Jézabel a pénétré. Jézabel était une femme païenne. Achab fit la même chose que Constantin. Il épousa cette femme pour fortifier son royaume et introduisit l’idolâtrie en Israël, exactement comme Constantin le fit plus tard. Alors, la Pentecôte avait presque complètement disparu.
+51 Dieu suscita Martin Luther. Je voudrais que vous remarquiez combien cela diminue ici et disparaît presque complètement; puis cela recommence à peine ici et descend de nouveau ici. Et j’ai fait une marque en travers, parce que c’est une grande leçon pour dimanche soir, si le Seigneur le permet.
+52 Maintenant, je crois que nous avons rattrapé l’époque à laquelle nous nous sommes arrêtés. Ici, c’est le moyen-âge, de 606 à 1520; c’est l’âge des ténèbres. Cette église-ci est dans l’âge des ténèbres. Et l’âge de l’église où nous arrivons maintenant est l’âge de Luther.
+53 Ces hommes, Irénée, Martin, Colomban, sont morts il y a bien longtemps déjà, et leur mémoire s’est estompée. Si vous cherchez dans les livres d’histoire, même les livres sérieux, ils vous diront: «Saint Patrick était Catholique!». Ils ne savent pas de quoi ils parlent! Patrick s’est opposé à l’église Catholique; il n’est jamais allé à Rome, et a refusé avec fermeté leur doctrine. C’est vrai! Allez en Irlande du Nord, et vous verrez bien que Patrick était un homme de Dieu. Mais pour ce qui est de dire qu’il a chassé tous les serpents de l’Irlande, c’est une pure légende!
+54 Combien parmi vous ont entendu parler de l’histoire de Guillaume Tell tirant sur une pomme placée sur la tête de son fils? C’est une légende catholique, et il n’y a pas un mot de vrai là-dedans! Je suis allé à l’endroit où cela est censé s’être passé. Il est écrit: «C’est une légende». Billy et moi-même, nous nous assîmes au bord du Lac des Quatre-cantons en Suisse, à l’endroit même où il aurait fait ces choses. Il a tiré sur un homme. Ce n’est pas la même chose que tirer sur une pomme placée sur la tête de son enfant! Tout cela n’est que légende et superstition, cela n’est jamais arrivé. C’est une histoire qui s’est répandue, mais dans tout cela, il n’y a aucune vérité historique.
+55 Or, c’est dans cet âge-ci que la vérité s’est estompée jusqu’à disparaître presque complètement. Ensuite vient l’âge de la Réforme. Au bout de presque mille ans de ténèbres et d’obscurité où tout s’effaçait, l’église avait presque complètement perdu de vue la personnalité d’Irénée. Pourtant c’était un grand homme, un homme de Dieu. Et comme lui, des centaines de ces saints bien-aimés donnèrent avec joie leur vie dans l’arène pour la cause de Christ, pour le baptême au Nom de Jésus-Christ, pour le parler en langues, pour la résurrection de Jésus-Christ manifestant Sa Vie dans nos vies par Sa divine Présence, alors que ceux qui se donnaient le nom de chrétiens les persécutaient. C’est vrai! C’est l’exacte vérité!
+56 Mais ils ne sont qu’une légion de démons sortis de l’enfer, méritant je ne sais quoi. Ils sont venus comme cela et se sont organisés: “Elle se dit prophétesse, divine interprète de la Parole!” — Ils sont les seuls à La connaître! C’est elle qui se donne ce nom, mais c’est une menteuse. Cependant, au même moment, l’ange de Dieu vient avec la Vérité. La Vérité revient toujours à ceci. Vous voyez? Elle revient toujours à l’original, parce que Dieu ne S’éloigne jamais de cela.
+57 Nous avons découvert cela hier soir avant de quitter ce sujet. Cela devrait donc être clair dans votre coeur maintenant. Jézabel, le type de cela, avait une fille. Vous en souvenez-vous? Dans Apocalypse 13, il est dit: “Rome, cette église apostate, avait des filles. Elle était la mère de prostituées”. N’est-ce pas vrai? Jézabel avait une fille; et qu’a fait Jézabel de sa fille? Considérez toutes ces choses: ce sont des types, des ombres. Jézabel donna sa fille en mariage à Joram qui était le fils de Josaphat, roi de Juda.
+58 En ce temps-là, Israël était divisé comme ceci. Ici, c’est Jérusalem, et là, c’est Samarie. Achab était ici, et Joram, là. Bien! Jézabel avait conquis ceci: Tout Israël adorait les idoles (tous, sauf Elie et ce petit groupe fidèle). De l’autre côté, ici, il y avait Joram, roi de Juda. Jézabel donna la fille qui naquit de son union avec Achab en mariage à Joram, fils de Josaphat, qui introduisit de cette manière l’idolâtrie en Juda et fit élever des autels païens à Jérusalem.
+59 C’est exactement ce que l’église Catholique a fait! Elle a mis en avant sa doctrine dénominationnelle, retranchant le Saint-Esprit de l’église ici, avec sa fille (les Luthériens, Méthodistes, Baptistes, Pentecôtistes, etc.). C’est exactement ce qu’elle a fait. La Bible dit qu’elle est la mère de prostituées.
+60 Sondez simplement les Ecritures! Si vous voyez dans l’Ecriture ou dans l’histoire quelque chose de différent de ce que je dis, venez me le dire franchement!
+61 Ces dénominations sont un poison au sein du protestantisme, essayant de faire diriger l’église par l’homme, faisant une autre image semblable à celle qui est assise sur ce trône: l’évêque principal, les surintendants du Pentecôtisme, disant: «Bon! voyons quelle est sa doctrine. Oh, il baptise au Nom de Jésus? Alors, il ne peut venir ici! Certainement pas!». Vous rejetez ces choses. Il faut qu’ils les rejettent! «Sachez bien que je ne veux pas voir l’un de vous aller à ces réunions, là-bas! Pouce en bas! Peu m’importe que vous soyez malade! Restez à l’écart de tout cela, quoi que Dieu fasse! Si vous ne regardez pas à travers nos lunettes, vous ne voyez rien du tout!». C’est ainsi qu’ils font une image à la bête. Et l’image avait le pouvoir de parler. C’est parfaitement exact. Si vous ne croyez pas qu’elle peut parler, mettez-vous une fois sur son chemin, et vous verrez si elle ne vous cause pas des ennuis!
+62 Lorsque j’étais à Tulsa, en Oklaoma, je me rappelle que je commençais à tomber dans une confusion terrible à cause de toutes ces dénominations qui s’agitaient dans cette région. Mais un jour, j’eus une vision. Je vis un gentil petit chaton couché sur un coussin de soie; c’était le plus joli petit chat que l’on puisse imaginer. J’ai peur des chats, mais malgré tout, je le caressai, et il se mit aussitôt à ronronner. En le caressant, je lui disais: «Joli minet!» — Lui me répondait par son ronron.
+63 En regardant derrière son coussin, je vis qu’il était écrit: «Petit chat Pentecôtiste!». Je pensai: «C’est étrange! cela doit être une vision!».
+64 Ensuite, quelque chose me dit: «Tant que tu le caresses ainsi, c’est bien; mais essaie de le caresser à rebrousse-poil et tu verras de quel bois il se chauffe!». Je le caressai donc à rebrousse-poil, mais aussitôt, ses yeux verts prirent une expression dure, et c’est comme un petit monstre qu’il se mit à me souffler contre méchamment. Parce que je l’avais caressé un peu à rebrousse-poil! Dites-lui que son baptême au Nom du Père, du Fils et du Saint-Esprit est du diable et vient de l’église Catholique, et vous verrez comment il réagit! Cela le mettra dans tous ses états!
+65 Je suis descendu dire à frère Gene, à frère Leo et aux autres: «Je viens d’avoir une véritable vision des dénominations Pentecôtistes!».
+66 Et maintenant, le chapitre 3… Sardes est une église morte. Elle est morte, parce qu’elle a été tuée pendant ce temps-là. Il n’y a plus qu’une petite parcelle de Vie, et dans un moment, nous verrons ce que c’est. L’âge de Sardes s’étend de 1520 à 1750. L’étoile qui était dans Sa main, c’est l’ange, ou le messager de cet âge. Est-ce parfaitement compris? L’étoile était un ange, et un ange est un messager pour cet âge. Bien!
+67 Maintenant, nous avons terminé avec le concile de Nicée. Elle est morte là-bas; ils sont entrés dans la puissance et la gloire par cette union de l’église et de l’état. Quelqu’un se souvient-il de l’enseignement d’hier soir, où nous avons vu ce que beaucoup de gens pensaient? «Le Millénium est là!». Le Millénium sans la venue de Christ! Vous voyez? C’est la venue de Christ qui nous introduit dans le Millénium! Si vous étudiez l’histoire, vous verrez qu’en ce temps-là s’élevèrent des faux Jésus et autres. Et ils pensaient même que le pape était Jésus, l’appelant vicaire, c’est-à-dire “à la place du Fils de Dieu”. Oui, ils l’élevèrent et en firent un grand dieu saint.
+68 Laissez-moi vous dire quelque chose. La Bible dit qu’avant la venue de Jésus “… s’élèveraient des faux prophètes et des faux christs”. C’est vrai! Mais laissez-moi placer ceci dans votre coeur: Jésus ne mettra jamais le pied sur cette terre jusqu’à ce que l’Eglise soit partie dans l’enlèvement. Gardez cela à l’esprit, car il s’élèvera de faux christs! Jésus ne sera pas ici sur terre; parce que quand la trompette sonnera, ce n’est pas du tout Lui qui viendra, c’est nous qui irons à sa rencontre dans les airs (l’Eglise est enlevée). Ensuite, lorsque Jésus paraîtra, Elle reviendra. L’Eglise des nations ira à Sa rencontre dans les airs. N’est-ce pas l’Ecriture qui nous le dit? Nous irons à Sa rencontre dans les airs, et alors nous monterons. Jésus ne pose pas le pied sur cette terre avant que l’Eglise ait été enlevée à la Maison et que le Repas des noces soit terminé: alors, Il revient pour chercher le reste d’Israël.
+69 Donc, le concile de Nicée était terminé, et il y avait près de mille ans que l’église était sous l’autorité papale. On avait tué tous ceux qui n’étaient pas d’accord. C’est vrai! Soit vous vous soumettiez, soit vous étiez tué, comme Jézabel l’avait fait avec Israël.
+70 Le Saint-Esprit S’étant presque complètement retiré, il ne restait plus qu’un très petit nombre pendant cet âge, comme du temps d’Elie où seul un petit reste en Israël n’avait pas plié le genou devant Baal. Si vous voulez le lire, cela se trouve dans 1 Rois, chapitre 19, verset 18, lorsque Elie se tenait dans la caverne où il dit: “Seigneur, ils ont tué tous Tes prophètes et je suis resté moi seul. Je suis le seul à avoir échappé!”. Mais Dieu lui dit qu’Il en avait encore plusieurs centaines parmi les laïcs, là-bas, qui n’avaient pas plié le genou devant Baal.
+71 Maintenant, nous commençons l’étude de Sardes. D’abord, le mot Sardes, au verset 1. Le mot “Sardes”, traduit en français, signifie “quelqu’un qui a échappé”. La véritable Sardes était “celle qui avait échappé”. Voyons maintenant qui est “celui qui a échappé”.
+72 Nous allons commencer au verset 1. Je crois que nous allons appeler cet âge l’âge de la Réforme; ce nom conviendra parfaitement. La Réforme, c’est “celui qui a échappé”, qui est sorti et s’est échappé:
+73 “Et à l’ange de l’assemblée qui est à Sardes, écris: Voici ce que dit celui qui a les sept Esprits de Dieu et les sept étoiles: Je connais tes oeuvres, — que tu as le nom de vivre, et tu es mort”.
+74 Maintenant, la salutation: “Les sept Esprits et les sept étoiles”. Les Esprits sont les anges qui vont vers les étoiles qui sont les messagers. “Sept Esprits”; à sept reprises, le Saint-Esprit oignit un messager qui était l’étoile pour son temps. Un Esprit est éternel, et les étoiles ont été faites dans le but de refléter la Lumière dans les ténèbres de ces âges de l’église; elles sont représentées par des lampes. L’ange, l’Esprit, c’est Celui qui alla vers l’étoile et qui reflétait la Lumière du Saint-Esprit au travers de l’étoile pour cet âge de l’église. Mais vous pourriez vous demander qui sont ces sept Esprits. Ce sont les sept messagers des sept âges de l’église. Vous voyez? Et chaque fois qu’une étoile est entrée en scène, le Saint-Esprit est descendu et a oint cette étoile, et l’a gardée exactement comme Il l’a fait de la Semence.
+75 Laissez-moi vous confirmer cela. Si vous voulez le savoir, Paul nous dit de quel genre d’étoile il s’agit. Parce que, pensez-y, Satan est aussi une étoile, un astre brillant. Croyez-vous que Paul était l’étoile de l’église d’Ephèse? Si vous voulez savoir si c’est vrai ou non, Paul a dit dans Galates 1.8, en parlant des temps où viendraient les loups ravisseurs: “Quand un ange du ciel annoncerait un autre évangile…”. Vous savez, quand il viendrait, il ressemblerait à un ange, à un grand vicaire. Paul dit: “Peu importe qui ce sera, si un ange ou qui que ce soit vient annoncer quoi que ce soit d’autre que cet Evangile que nous vous avons prêché, qu’il soit anathème!”. N’est-ce pas vrai?
+76 Paul est celui qui les a obligés à être rebaptisés, parce qu’ils n’avaient pas été baptisés au Nom de Jésus-Christ. “Venez, et soyez baptisés de nouveau afin de recevoir le Saint-Esprit”, Actes 19.5. Il était aussi celui qui imposait les mains aux gens, qui avait des dons, qui mit de l’ordre dans l’église, accomplissant des miracles, manifestant la guérison divine, ayant le don des langues et l’interprétation des langues. Est-ce exact? Vous verrez ce que Paul a dit dans 1 Corinthiens 12. Vous trouverez cela dans 1 Corinthiens 12. Dieu avait placé dans l’église ces dons glorieux, et Paul les a mis en ordre afin qu’ils puissent servir à la gloire de Dieu. Il nous l’a dit. C’est pourquoi si un homme, quelle que soit la dénomination à laquelle il appartienne, essaie de vous dire que le temps du parler en langues, de l’interprétation des langues, de la guérison divine, des miracles et du témoignage du baptême du Saint-Esprit sont passés, qu’il soit anathème! Car l’Esprit qui sera envoyé dans tous les âges de l’église successivement est le même que Celui qui était sur Paul. Le même Esprit, le Saint-Esprit! Croyez-vous cela?
+77 Remarquez que c’est écrit ici. L’auteur le savait. Vous voyez, les “sept Esprits”. Vous remarquerez qu’il y a “E” majuscule, parce qu’il s’agit du Saint-Esprit: “sept Esprits”. Il n’y en a qu’Un. C’est le même Saint-Esprit qui vient apporter sept fois la même Lumière à tous les sept âges de l’église. Comprenez-vous maintenant? Sept âges de l’église, et sept fois le Saint-Esprit apportant ce même message! Et une malédiction fut prononcée contre quiconque y changerait quelque chose.
+78 Voyez si cela ne correspond pas avec la révélation dans son ensemble. Il a dit: “Quiconque retranchera ou ajoutera, sa part sera ôtée du Livre de Vie”. De cette manière, tous les cas sont prévus. Vous ne pouvez pas sauter par-dessus quelque chose, ni glisser quelque chose, parce que tout est là. C’est ce que Dieu a dit, c’est ce que l’Esprit a dit, et c’est ce que les églises ont dit. C’est pourquoi, si vous essayez d’introduire une autre doctrine que celle qui a été enseignée par Paul, c’est faux! C’est la Bible qui est correcte. Jésus a dit: “Je retrancherai sa part du Livre de Vie”.
 79 Mais vous direz: «Quelle part du Livre de Vie?».
-80 Il y en a beaucoup dont le nom est dans le Livre de Vie et qui échoueront certainement!
-Vous savez cela, n’est-ce pas? Vous souvenez-vous de ce que j’ai enseigné l’autre soir?
-L’avez-vous compris? Permettez-moi de répéter cela encore une fois, parce que j’ai l’impression
-que cela n’a pas été très bien compris.
-81 Judas Iscariot était le fils de Satan, il était un démon manifesté dans la chair. C’est la Bible qui
-nous le dit. La Bible dit qu’il est né fils de la perdition.
-82 Examinez cela un instant. Ici, il y avait Jésus; là, il y avait le voleur qui était à Sa droite; là, il y
-avait celui qui était à Sa gauche. Jésus était le Fils de Dieu. N’est-ce pas? Certains ne voient que
-trois croix, mais en réalité, il y en avait quatre! Quatre croix! Qu’est-ce qu’une croix? C’est un bois,
-un arbre. N’est-ce pas? La Bible dit: “Maudit est celui qui est pendu au bois”. Il a été fait
-malédiction pour nous. Il a été pendu au bois. On a coupé ce bois, mais auparavant, c’était un
-arbre. N’est-ce pas? Très bien! Là en bas, au pied de la colline, il y en avait un autre. C’était Judas
-qui s’était pendu à un sycomore. N’est-ce pas vrai?
-83 Voyez ceci! Ici, c’est le Fils de Dieu, venant du Ciel et retournant au Ciel, prenant avec Lui le
-pécheur repentant. Là, c’est le fils de perdition, venant de l’enfer et retournant en enfer, prenant
-avec lui (“Si Tu es le Fils de Dieu…”) le pécheur non repenti. Vous voyez, le pécheur non repenti,
-
-    http://www.cmpp.ch
+80 Il y en a beaucoup dont le nom est dans le Livre de Vie et qui échoueront certainement! Vous savez cela, n’est-ce pas? Vous souvenez-vous de ce que j’ai enseigné l’autre soir? L’avez-vous compris? Permettez-moi de répéter cela encore une fois, parce que j’ai l’impression que cela n’a pas été très bien compris.
+81 Judas Iscariot était le fils de Satan, il était un démon manifesté dans la chair. C’est la Bible qui nous le dit. La Bible dit qu’il est né fils de la perdition.
+82 Examinez cela un instant. Ici, il y avait Jésus; là, il y avait le voleur qui était à Sa droite; là, il y avait celui qui était à Sa gauche. Jésus était le Fils de Dieu. N’est-ce pas? Certains ne voient que trois croix, mais en réalité, il y en avait quatre! Quatre croix! Qu’est-ce qu’une croix? C’est un bois, un arbre. N’est-ce pas? La Bible dit: “Maudit est celui qui est pendu au bois”. Il a été fait malédiction pour nous. Il a été pendu au bois. On a coupé ce bois, mais auparavant, c’était un arbre. N’est-ce pas? Très bien! Là en bas, au pied de la colline, il y en avait un autre. C’était Judas qui s’était pendu à un sycomore. N’est-ce pas vrai?
+83 Voyez ceci! Ici, c’est le Fils de Dieu, venant du Ciel et retournant au Ciel, prenant avec Lui le pécheur repentant. Là, c’est le fils de perdition, venant de l’enfer et retournant en enfer, prenant avec lui (“Si Tu es le Fils de Dieu…”) le pécheur non repenti. Vous voyez, le pécheur non repenti,
 
 LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES 11
 celui qui disait: “Si Tu es le Fils de Dieu, sauve-toi, et nous avec!”.
@@ -823,7 +467,7 @@ pu échapper à cette chose horrible. Nous reprendrons cela demain soir, et nous
 jusque dans l’âge Pentecôtiste, et je vous montrerai que c’est exactement pareil. Il y a de ces
 choses dont nous parlerons ici, afin de savoir comment y échapper. Nous retrouverons cela jusque
 dans l’âge suivant. Vous voyez, il faut faire tenir tout cela ensemble, sinon, on ne donne pas aux
-gens… nous fixerons cela dans l’âge suivant; il faut le leur donner exactement comme la Bible le
+ gens… nous fixerons cela dans l’âge suivant; il faut le leur donner exactement comme la Bible le
 donne. Vous voyez?
 144 Il parle de ceux qui ont réchappé. Ce sont ceux-ci, ce tout petit groupe qui vivait par la
 justification. Maintenant, regardez! Ils sortirent, ils virent la Lumière, Luther avait pris le bon
@@ -1139,7 +783,7 @@ Corps mystique de Jésus-Christ par le Saint-Esprit. Que vous soyez Méthodiste,
 Presbytérien ou quoi que ce soit d’autre, entrez!
 190 Jésus a dit: “Tous ceux que le Père M’a donnés viendront à Moi, aucun d’eux ne se perdra, et
 Je les ressusciterai au dernier jour!”. Oh! autrefois nous chantions un vieux choeur au pied de
-l’autel, je ne sais pas si nous pouvons encore le chanter aujourd’hui: “Il y a une place pour moi à la
+autel, je ne sais pas si nous pouvons encore le chanter aujourd’hui: “Il y a une place pour moi à la
 Fontaine”. Aimez-vous ces vieux choeurs? Il faudrait que quelqu’un nous donne le ton, quelqu’un
 qui connaisse ce cantique. Où est notre pianiste? est-elle ici? Ou le frère Teddy ou un autre? Oh,
 je ne la vois nulle part.
@@ -1294,9 +938,6 @@ LA REVELATION DE JESUS-CHRIST — EGLISE DE SARDES        24
       Espoir de la terre et joie du Ciel;
       Précieux Nom, Nom si doux, (combien Il est doux!)
       Espoir de la terre et joie du Ciel.
-
-
-
 
 
 

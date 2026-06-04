@@ -1,582 +1,214 @@
+---
+source: "cmpp"
+sermon_id: "rev12"
+title: "La Révélation de Jésus-Christ — Les vingt-quatre anciens"
+subtitle: "Chapitre quatre / 2ème partie — 1er janvier 1961, dimanche matin"
+date: "1961-01-01"
+year: 1961
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Branham"
+summary: "William Branham prêche sur Apocalypse chapitre 4, expliquant la vision de Jean après les âges de l'Église. Il insiste sur la fidélité de Dieu à ses promesses, illustrée par Abraham et Noé, et encourage les croyants à tenir la main immuable de Dieu. Il aborde également la nature des quatre êtres vivants et la préparation à l'enlèvement."
+tags:
+  - "Apocalypse"
+  - "vingt-quatre anciens"
+  - "enlèvement"
+  - "foi"
+  - "promesses de Dieu"
+persons:
+  - "Jean"
+  - "Abraham"
+  - "Noé"
+  - "Enoch"
+  - "Moïse"
+  - "Elie"
+  - "Jésus-Christ"
+  - "Jean-Baptiste"
+  - "Siméon"
+  - "Anne"
+  - "Marie"
+  - "Joseph"
+places:
+  - "Patmos"
+  - "Jourdain"
+  - "Nazareth"
+  - "Jeffersonville"
+themes:
+  - "fidélité de Dieu"
+  - "enlèvement de l'Église"
+  - "révélation"
+  - "humilité"
+  - "jugement"
+pdf_url: "http://cmpp.ch/rev12.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Jean 1"
+  - "1 Pierre 5"
+  - "2 Timothée 4"
+  - "Apocalypse 2"
+  - "Apocalypse 20"
+  - "Apocalypse 21"
+  - "Apocalypse 3"
+  - "Daniel 7"
+  - "Exode 23"
+  - "Genèse 49"
+  - "Genèse 8"
+  - "Genèse 9"
+  - "Hébreux 6"
+  - "Hébreux 9"
+  - "Marc 16"
+  - "Matthieu 17"
+  - "Matthieu 19"
+---
 WILLIAM MARRION BRANHAM
 
+La Révélation de Jésus-Christ
 
-La Révélation
-de
-Jésus-Christ
+12 Les 24 anciens
 
+LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS
 
-
-
-12    Les 24 anciens
-
-    LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS    2
-
- LA REVELATION DE JESUS-CHRIST
-
-    LES VINGT-QUATRE ANCIENS
+LES VINGT-QUATRE ANCIENS
 (Chapitre quatre / 2ème partie)
 
 1er janvier 1961, dimanche matin
-       Branham Tabernacle
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
-
-
-
-1 Je suis si heureux d’être de nouveau ici ce matin. Si nous étions dans le Colorado, cette
-neige serait toute douce et légère, et il ferait environ quarante degrés sous zéro! Vous pourriez
-souffler ainsi et cela se transformerait immédiatement en une très fine poussière, et ce serait ainsi
-tout l’hiver. Mais ici, nous sommes dans une zone intermédiaire; en hiver, tout devient mouillé et
-boueux, et j’aurais plutôt envie de m’en aller en Arizona pour attendre le printemps et revenir à ce
-moment-là.
-2 C’est ainsi qu’on attrape des rhumes. Les microbes sont sur le sol; il gèle, puis il dégèle,
-regèle et re-dégèle. On respire cela et l’on attrape des maux de gorge, des maux de tête, des
-douleurs et toutes sortes de maux. Quel temps, quel endroit!
+1 Je suis si heureux d’être de nouveau ici ce matin. Si nous étions dans le Colorado, cette neige serait toute douce et légère, et il ferait environ quarante degrés sous zéro! Vous pourriez souffler ainsi et cela se transformerait immédiatement en une très fine poussière, et ce serait ainsi tout l’hiver. Mais ici, nous sommes dans une zone intermédiaire; en hiver, tout devient mouillé et boueux, et j’aurais plutôt envie de m’en aller en Arizona pour attendre le printemps et revenir à ce moment-là.
+2 C’est ainsi qu’on attrape des rhumes. Les microbes sont sur le sol; il gèle, puis il dégèle, regèle et re-dégèle. On respire cela et l’on attrape des maux de gorge, des maux de tête, des douleurs et toutes sortes de maux. Quel temps, quel endroit!
         Mais il y a un pays au-delà de la rivière,
         Le pays de la douceur éternelle.
         On n’atteint cette rive que par les degrés de la foi;
         Un par un, nous les gravissons jusqu’à la porte
         Pour demeurer là avec les immortels!
         Un jour, ces carillons d’or sonneront pour vous et pour moi.
-3 C’est lorsque nous irons à la Maison pour y rester, n’est-ce pas? C’est le jour que nous
-attendons!
-4 Hier soir, j’ai vraiment apprécié ces merveilleux sermons et ces choses que j’ai entendues de
-mes frères. Où est Pat Tyler? Est-il ici ce matin? Pat, oh, je ne te voyais pas! Pourtant, tu es assez
-grand pour qu’on te voie! Je n’avais pas vu que tu étais assis là. C’est la première fois que
-j’entendais parler Pat. J’y ai vraiment pris du plaisir, comme nous tous, je pense.
-5 Et puis, il y a eu ce jeune frère qui a donné ce témoignage enflammé dans cette prédication
-qui était comme un tir de mitrailleuse. Je crois que ce frère vient de l’Ohio. Est-il ici ce matin? Frère
-Neville m’a fait remarquer sa rapidité de langage.
-6 Puis il y a eu frère J.T. Parnell. Et je pense qu’on n’a pas pu aller jusqu’au frère Beeler. Frère
-Parnell est-il ici? Il me semblait avoir vu aussi frère Beeler.
-7 Ces lumières… quand on construira le nouveau tabernacle, j’espère qu’on fera les choses un
-peu différemment. C’est notre première salle, et nous avons dû faire nos expériences. Si un jour
-nous en avons une nouvelle, nous la ferons un peu différemment de celle-ci. On n’y voit rien!
-J’aimerais que l’on construise une salle ayant une pente comme ceci. De cette façon, on peut
-mieux voir l’auditoire, ce qui est surtout important dans les réunions où s’exerce le discernement.
-De cette manière, on peut voir dans toutes les directions, depuis le fond jusque devant. Et si l’on
-pouvait mettre un petit balcon, ce serait encore mieux.
-8 Frère Littlefield m’a téléphoné hier soir qu’il m’enverrait le plan de ce tabernacle que j’ai
-inauguré là-bas. Frère Woods, je crois que rien que le dessin de l’architecte coûte cinq cents
-dollars. Il envoie cela avec toutes les données, prix, matériaux, dimensions, etc. Lui-même pense
-venir. Il m’a dit qu’il irait discuter chez les charpentiers et autres pour voir s’ils ne pourraient pas
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS 3
-baisser un peu leurs prix comme ils l’ont fait pour son tabernacle à lui. C’est un beau tabernacle,
-pas très grand, mais c’est un bel édifice.
-9 Aussi lui ai-je dit: «Je vais donner cela aux administrateurs et aux diacres dès que Billy l’aura
-reçu, et ensuite nous les laisserons examiner combien il leur faut pour commencer la
-construction».
-10 Il m’a dit: «Quand vous commencerez la construction, je viendrai, je mettrai un bleu de travail
-et je resterai avec vous durant tout ce temps». Frère Littlefield est un homme tellement plein de
-bonté!
-11 Maintenant, vous sentez-vous d’attaque pour commencer la nouvelle année et pour la
-traverser d’un bout à l’autre? Nous allons la commencer maintenant même en servant le Seigneur.
-Combien se sont levés ce matin en Le remerciant pour l’année qui vient de passer et pour tout ce
-qu’elle a représenté pour eux, et Lui ont demandé d’oublier le passé? Nous l’avons fait au pied du
-lit en nous levant, puis nous sommes allés à table; nous nous rassemblons autour de la table pour
-prier.
-12 Nous essayons de prendre l’habitude de toujours prier le soir avant d’aller au lit. Je le fais
-depuis que je suis converti. Quand je me lève le matin, il fait trop sombre et trop brumeux pour
-marcher; je ne sais pas où je dois aller, mais je Lui demande simplement de me prendre par la
-main et de me guider tout au long de la journée.
-13 Lorsque j’étais jeune, nous vivions de l’autre côté de la rue. Billy Paul avait trois ou quatre
-ans. Une nuit, ayant soif, il demanda un peu d’eau. Il fallait pour cela aller à la cuisine où il y avait
-un baquet et une louche. Moi, j’étais très fatigué; j’avais travaillé toute la journée et prêché la
-moitié de la nuit. Il me dit: «Papa, j’ai soif!».
+3 C’est lorsque nous irons à la Maison pour y rester, n’est-ce pas? C’est le jour que nous attendons!
+4 Hier soir, j’ai vraiment apprécié ces merveilleux sermons et ces choses que j’ai entendues de mes frères. Où est Pat Tyler? Est-il ici ce matin? Pat, oh, je ne te voyais pas! Pourtant, tu es assez grand pour qu’on te voie! Je n’avais pas vu que tu étais assis là. C’est la première fois que j’entendais parler Pat. J’y ai vraiment pris du plaisir, comme nous tous, je pense.
+5 Et puis, il y a eu ce jeune frère qui a donné ce témoignage enflammé dans cette prédication qui était comme un tir de mitrailleuse. Je crois que ce frère vient de l’Ohio. Est-il ici ce matin? Frère Neville m’a fait remarquer sa rapidité de langage.
+6 Puis il y a eu frère J.T. Parnell. Et je pense qu’on n’a pas pu aller jusqu’au frère Beeler. Frère Parnell est-il ici? Il me semblait avoir vu aussi frère Beeler.
+7 Ces lumières… quand on construira le nouveau tabernacle, j’espère qu’on fera les choses un peu différemment. C’est notre première salle, et nous avons dû faire nos expériences. Si un jour nous en avons une nouvelle, nous la ferons un peu différemment de celle-ci. On n’y voit rien! J’aimerais que l’on construise une salle ayant une pente comme ceci. De cette façon, on peut mieux voir l’auditoire, ce qui est surtout important dans les réunions où s’exerce le discernement. De cette manière, on peut voir dans toutes les directions, depuis le fond jusque devant. Et si l’on pouvait mettre un petit balcon, ce serait encore mieux.
+8 Frère Littlefield m’a téléphoné hier soir qu’il m’enverrait le plan de ce tabernacle que j’ai inauguré là-bas. Frère Woods, je crois que rien que le dessin de l’architecte coûte cinq cents dollars. Il envoie cela avec toutes les données, prix, matériaux, dimensions, etc. Lui-même pense venir. Il m’a dit qu’il irait discuter chez les charpentiers et autres pour voir s’ils ne pourraient pas baisser un peu leurs prix comme ils l’ont fait pour son tabernacle à lui. C’est un beau tabernacle, pas très grand, mais c’est un bel édifice.
+9 Aussi lui ai-je dit: «Je vais donner cela aux administrateurs et aux diacres dès que Billy l’aura reçu, et ensuite nous les laisserons examiner combien il leur faut pour commencer la construction».
+10 Il m’a dit: «Quand vous commencerez la construction, je viendrai, je mettrai un bleu de travail et je resterai avec vous durant tout ce temps». Frère Littlefield est un homme tellement plein de bonté!
+11 Maintenant, vous sentez-vous d’attaque pour commencer la nouvelle année et pour la traverser d’un bout à l’autre? Nous allons la commencer maintenant même en servant le Seigneur. Combien se sont levés ce matin en Le remerciant pour l’année qui vient de passer et pour tout ce qu’elle a représenté pour eux, et Lui ont demandé d’oublier le passé? Nous l’avons fait au pied du lit en nous levant, puis nous sommes allés à table; nous nous rassemblons autour de la table pour prier.
+12 Nous essayons de prendre l’habitude de toujours prier le soir avant d’aller au lit. Je le fais depuis que je suis converti. Quand je me lève le matin, il fait trop sombre et trop brumeux pour marcher; je ne sais pas où je dois aller, mais je Lui demande simplement de me prendre par la main et de me guider tout au long de la journée.
+13 Lorsque j’étais jeune, nous vivions de l’autre côté de la rue. Billy Paul avait trois ou quatre ans. Une nuit, ayant soif, il demanda un peu d’eau. Il fallait pour cela aller à la cuisine où il y avait un baquet et une louche. Moi, j’étais très fatigué; j’avais travaillé toute la journée et prêché la moitié de la nuit. Il me dit: «Papa, j’ai soif!».
 14 Je répondis: «Billy, va à la cuisine: il y a de l’eau sur la petite table».
 15 Il se leva, se frotta les yeux et regarda vers la cuisine; puis il me dit: «Papa, j’ai peur d’y aller».
-16 Mais je lui dis: «Ce n’est rien. N’aie pas peur. Vas-y, mon chéri, et va boire. Papa est si
-fatigué!». C’était tout près, comme d’ici à cette fenêtre.
+16 Mais je lui dis: «Ce n’est rien. N’aie pas peur. Vas-y, mon chéri, et va boire. Papa est si fatigué!». C’était tout près, comme d’ici à cette fenêtre.
 17 Mais il me répondit: «J’ai peur d’y aller, papa».
-18 Alors je me levai et le pris par la main, et ce fut une bonne chose: nous n’avions pas fait
-quatre ou cinq pas qu’il heurta une carpette posée là où Meda avait ciré le plancher, un morceau
-de linoléum, et vous savez ce que c’est! Il n’a fait que trébucher, car je le tenais pas la main, et il
-me serra simplement un peu plus fort. Alors, je me tins là un instant et pensai: «O Dieu, c’est vrai!
-Je ne veux pas faire un pas sans que Tu me tiennes par la main, parce que je ne sais pas à quel
-moment je vais glisser! Et tant que je peux sentir Ta grande et puissante main serrer la mienne, je
-sais que Tu me tiendras jusqu’au temps de…». Vous voyez?
-19 Voilà pourquoi j’essaie de prendre l’habitude de garder ma main dans la Sienne. J’ai fait
-parfois des choses apparemment ridicules à mes propres yeux, des choses qui semblent tellement
-peu naturelles à la pensée humaine; mais j’ai découvert que c’était malgré tout la seule chose
-juste à faire.
-20 Vous savez, les choses qui n’ont pas l’air justes ici, si Dieu vous conduit en elles, elles seront
-justes quelque part ailleurs, vous voyez, parce qu’Il sait comment nous diriger. Ainsi, voyant qu’Il
-est notre grâce suffisante et que tout ce dont nous avons besoin ou ce dont nous devons nous
-préoccuper est en Lui, laissons donc de côté tout ce qui est en dehors de Lui et tenons la main de
-notre Dieu qui ne change pas.
-21 Autrefois, nous chantions ici un cantique que je n’ai pas entendu depuis longtemps. La raison
-pour laquelle j’essaie de chanter ces petits choeurs est que je les aime beaucoup.
+18 Alors je me levai et le pris par la main, et ce fut une bonne chose: nous n’avions pas fait quatre ou cinq pas qu’il heurta une carpette posée là où Meda avait ciré le plancher, un morceau de linoléum, et vous savez ce que c’est! Il n’a fait que trébucher, car je le tenais pas la main, et il me serra simplement un peu plus fort. Alors, je me tins là un instant et pensai: «O Dieu, c’est vrai! Je ne veux pas faire un pas sans que Tu me tiennes par la main, parce que je ne sais pas à quel moment je vais glisser! Et tant que je peux sentir Ta grande et puissante main serrer la mienne, je sais que Tu me tiendras jusqu’au temps de…». Vous voyez?
+19 Voilà pourquoi j’essaie de prendre l’habitude de garder ma main dans la Sienne. J’ai fait parfois des choses apparemment ridicules à mes propres yeux, des choses qui semblent tellement peu naturelles à la pensée humaine; mais j’ai découvert que c’était malgré tout la seule chose juste à faire.
+20 Vous savez, les choses qui n’ont pas l’air justes ici, si Dieu vous conduit en elles, elles seront justes quelque part ailleurs, vous voyez, parce qu’Il sait comment nous diriger. Ainsi, voyant qu’Il est notre grâce suffisante et que tout ce dont nous avons besoin ou ce dont nous devons nous préoccuper est en Lui, laissons donc de côté tout ce qui est en dehors de Lui et tenons la main de notre Dieu qui ne change pas.
+21 Autrefois, nous chantions ici un cantique que je n’ai pas entendu depuis longtemps. La raison pour laquelle j’essaie de chanter ces petits choeurs est que je les aime beaucoup.
         Tout change si rapidement;
         Rien sur la terre qui ne change, l’immuable n’existe pas.
         Fonde tes espérances sur les choses éternelles,
         Tiens la main immuable de Dieu.
-22 Combien parmi vous ont déjà entendu ce cantique? Oh, je l’aime, pas vous? Essayons un
-couplet:
+22 Combien parmi vous ont déjà entendu ce cantique? Oh, je l’aime, pas vous? Essayons un couplet:
         Tiens la main immuable de Dieu!
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS        4
-      Tiens la main immuable de Dieu!
-      Fonde tes espérances sur les choses éternelles,
-      Tiens la main immuable de Dieu!
+        Tiens la main immuable de Dieu!
+        Fonde tes espérances sur les choses éternelles,
+        Tiens la main immuable de Dieu!
 23   Essayons encore un couplet:
-      Quand notre voyage sera terminé
-      Et que nous aurons été fidèles à Dieu,
-      Combien magnifique et brillante notre maison dans la Gloire
-      Paraîtra à notre âme ravie!
-      Tiens la main immuable de Dieu!
-      Tiens la main immuable de Dieu!
-      Fonde tes espérances sur les choses éternelles,
-      Tiens la main immuable de Dieu!
-24   Levons-nous maintenant pour un moment de prière, si vous le voulez bien, tandis que nous
-levons la main vers Dieu et que nous chantons encore cela:
-      Tiens la main immuable de Dieu!
-      Tiens la main immuable de Dieu!
-      Fonde tes espérances sur les choses éternelles,
-      Tiens la main immuable de Dieu!
-      Ne convoite pas les vaines richesses de ce monde
-      Qui se corrompent si rapidement.
-      Fonde tes espérances sur les choses éternelles
-      Qui ne passeront jamais.
-25   Père céleste, tandis que nous sommes debout, ô Seigneur, combien j’aime chanter ces bons
-vieux cantiques qui pénètrent au plus profond de notre coeur et font ressortir l’expression de notre
-amour pour Toi, le Dieu vivant! Et tandis que nous levions les mains ce matin, Seigneur, c’était
-comme un petit souvenir de ce cantique: «Tiens-nous par la main, Seigneur!». De même que je
-montrais comment Billy Paul s’était accroché à ma main et comment il serait tombé si je ne la lui
-avais pas tenue, ô Dieu, combien de fois ne serions-nous pas tombés, si tu ne nous avais pas
-tenus par la main! en pensant comment lui, un petit bébé sans sa mère, sur toutes ces routes qu’il
-a dû prendre tout au long de la vie, il aurait été tué depuis longtemps! Mais il y a une grande Main
-qui pouvait atteindre là où la mienne ne le pouvait pas et prendre soin de lui. Nous en sommes si
-reconnaissants!
-26   Nous sommes si heureux de savoir, Seigneur, que lorsque nous sentirons notre âme se
-séparer de notre corps, il y aura encore une main que nous pourrons atteindre et serrer et qui nous
-guidera pour passer la rivière. Nous Te remercions pour ces choses, pour cette assurance bénie
-d’avoir une Ancre de l’âme qui nous soutient tandis que nous avançons dans ce voyage, que nous
-naviguons sur le vaste océan de la vie.
-27   Et nous Te demandons, ô Père, comme le disait le poète, que le frère égaré qui a fait
-naufrage, voyant notre assurance, reprenne courage et essaie de nouveau. Nous savons que la
-main pleinement suffisante de Dieu est là, qu’elle est suffisante pour nous aider quand nous
-trébuchons et tombons, et que Sa grâce aussi est suffisante.
-28   Nous Te prions, ô Dieu, de pouvoir commencer la nouvelle année ce matin en chantant des
-cantiques, en nous réjouissant et en sachant que Dieu nous guidera tout au long du voyage de la
-vie, ainsi que de l’autre côté de la rivière de la mort, vers la Terre promise. Nos yeux regardent ce
-matin au-delà des flots tumultueux du Jourdain, vers les champs où croît le trèfle, dans les prairies
-toujours vertes, et nous Te prions, ô Dieu, que nos âmes saisissent cette vision et ne la perdent
-jamais. Un jour, lorsqu’il nous faudra descendre vers ce fleuve alors qu’il croisera notre chemin
-(comme Elie autrefois), le Manteau de Dieu frappera les flots de la mort et nous traverserons sans
-crainte! Accorde-le, ô Seigneur!
-29   Aide-nous tandis que nous nous approchons de Ta Parole. O Seigneur! je prie pour que Ton
-Saint-Esprit oigne ces paroles. Je suis certainement incapable de les enseigner, n’étant pas
-docteur. Nous savons que la seule façon pour nous de pouvoir La comprendre est que ce grand
-Docteur vienne faire Sa demeure dans nos coeurs et s’empare de nos âmes et de nos pensées de
-
-          http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS 5
-telle sorte qu’Il puisse interpréter Ses Saintes Ecritures pour nous. Nous comptons entièrement
-là-dessus. Souviens-T-en, ô Dieu!
-30 Oh, comme il est merveilleux qu’un tel Père, qui est à l’origine même de l’Eternité, descende
-vers des êtres mortels et nous aide, nous apporte Sa Parole et La donne à nos lèvres, à nos
-coeurs et à nos oreilles afin que nous puissions L’entendre et vivre et que nous soyons rachetés
-d’une malédiction dont nous ne sommes pas responsables, Père, parce qu’elle a été provoquée
-par la race humaine. Nous sommes les rejetons de ce premier couple. «Nous sommes nés dans le
-péché, conçus dans l’iniquité». Le Dieu juste et vivant sait que nous n’avons rien à voir avec cela:
-Il a créé une voie de secours et nous a accordé le privilège de pouvoir nous approcher de Lui.
-Combien nous sommes heureux d’être venus à la Maison du Père!
-31 Nous Te demandons maintenant de bénir cette église ainsi que frère Neville, notre vaillant
-pasteur, Ton humble serviteur. Nous prions pour nos diacres et nos administrateurs, afin que Tu
-leur accordes l’année la plus glorieuse qu’ils aient jamais eue. Accorde-le, ô Seigneur! Donne-leur
-une longue vie! Fortifie-les, Seigneur, ce sont Tes serviteurs. Qu’ils puissent toujours rester
-vaillants au poste. Bénis les laïcs, les membres, Tes très chers enfants qui sont venus à cette
-maison! O Dieu, nous réclamons l’âme de chacun de ceux qui franchissent le seuil de cette
-maison. Nous la réclamons pour Toi, Seigneur. Aide-nous à être des ministres qui apporteront la
-Parole de façon si simple et si vraie par le Saint-Esprit, que les gens aspireront à être comme Toi,
-Seigneur. Accorde-le, ô Seigneur! Bénis les malades et les affligés qui entrent. Et dans le monde
-entier, accorde-le dans chaque maison de Dieu.
-32 Enfin, quand Tu auras terminé, Seigneur, puissions-nous franchir Tes portes, nous asseoir à
-la table de Dieu, manger et vivre ensemble pour toujours dans l’âge à venir. Jusque là,
-puissions-nous avoir la santé, la force, le bonheur, la joie, la puissance et la bénédiction du
-Saint-Esprit pour nous guider. Nous le demandons au Nom de Jésus. Amen!
-33 Vous pouvez vous asseoir. J’ai apprécié cette belle musique ce matin. Je suis entré assez tôt
-pour pouvoir parler à mon cher ami le frère Skaggs, à frère Gene au fond là-bas et à un autre frère
-près de la porte. C’est pourquoi je n’en ai entendu qu’une partie, mais c’était très beau!
-34 Aimez-vous ce livre de l’Apocalypse? Je crois que pour beaucoup, et pour moi aussi, il est
-devenu, comme l’avait écrit ma petite Sarah, le livre des «révolutions» [en anglais, Apocalypse se
-dit: «The Book of the Revelation» — N.d.T.] Il nous apporte révolutions sur révolutions! Vous
-savez, je voudrais que nous ayons depuis maintenant, jusque vers mars ou avril, une grande toile
-qui serait tendue là au fond et sur laquelle je viendrais dessiner ces schémas dans la journée, toile
-que nous pourrions enrouler et dérouler comme un store, comme j’ai rêvé que nous pourrions le
-faire si nous avions un grand tabernacle. Il faudrait que ce tableau prenne toute la largeur de
-l’estrade. Alors, selon les révélations et les interprétations que le Seigneur me donne, je pourrais
-vous expliquer toutes les choses qui concernent ces sept âges. Ensuite, quand nous aurions
-terminé, nous enroulerions ce tableau et en déroulerions un autre sur lequel nous donnerions
-l’enseignement. Oh, ce serait comme un petit paradis, n’est-ce pas? Nous resterions assis ici tout
-l’hiver dans la présence du Seigneur.
-35 C’est tellement bon d’être seul avec Lui! Vous savez, autrefois on chantait: «Parfois, j’aime
-être tout seul avec Christ mon Seigneur! Quand je suis seul, je peux Lui dire tous mes problèmes».
-Vous voyez, c’est ainsi qu’il faut faire. Autrefois, Roy Davis chantait ce petit choeur: «Se retirer et
-prier avec Jésus». Tout nous ramène toujours dans la ligne de Jésus-Christ, n’est-ce pas?
-36 Pendant ces huit jours, nous avons parlé des âges de l’église, puis hier soir, je crois que nous
-avons abordé le verset 2 du chapitre 4 de l’Apocalypse. Je pense que vous étiez tous ici hier soir.
-Ce matin, nous avancerons peut-être d’un verset ou deux, je n’en sais rien. C’est comme le
-Seigneur conduira. J’ai noté jusqu’au verset 6 ou 7, juste de quoi nous fournir un sujet; cela nous
-permettra d’aller chercher dans différentes parties des Ecritures, de faire ressortir les choses et ce
-que nous aurons étudié hier.
-37 Hier soir, je crois que nous nous sommes arrêtés au verset 2 ou au commencement du verset
-3. Nous nous sommes arrêtés à la Voix de la Trompette, n’est-ce pas? “Le son d’une trompette”.
-Je vais relire tout le passage afin de nous remettre ces choses en mémoire.
-     “Après ces choses, je vis: et voici, une porte ouverte dans le ciel, et la première voix que
-     j’avais ouïe, comme d’une trompette parlant avec moi, disant: Monte ici, et je te montrerai
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS 6
-     les choses qui doivent arriver après celles-ci. Sur-le-champ je fus en Esprit: et voici, un
-     trône était placé dans le ciel, et sur le trône, quelqu’un était assis; et celui qui était assis
-     était, à le voir, semblable à une pierre de jaspe et de sardius; et autour du trône, un
-     arc-en-ciel, à le voir, semblable à une émeraude”.
-38 Oh, quel beau sujet d’étude! Ce matin, juste avant de venir, j’ai médité ce verset 6 et je
-pensai: «Oh, je ne peux pas le laisser passer comme cela: il y a quelque chose dans ce verset 6
-que je veux que tous les gens comprennent vraiment bien quand nous étudierons ces “êtres
-vivants”». Ces êtres vivants ne sont pas toujours bien nommés dans les traductions. Si nous
-étudions le texte original, nous voyons qu’en grec, un des êtres vivants est désigné comme étant
-un “animal sauvage” et que, dans la version King James, le mot “bêtes” devrait être traduit en
-réalité par “êtres vivants”. Pour ce qui est de la nature de ces êtres vivants, ce ne sont ni des
-hommes ni des anges. Donc ce sont des “êtres vivants”; ils ont quatre faces et quatre… nous
-rapporterons tout cela à l’Evangile afin de le mettre à sa place aussi parfaitement que dans ce
-passage. Souvenez-vous d’ailleurs que “quatre” est un nombre terrestre. Il y aurait là une belle
-étude à faire, c’est pourquoi je suis à peu près sûr que nous ne pourrons pas entrer dans ce sujet.
-Mais peut-être que nous le pourrons quand même. C’est tellement merveilleux!
-39 Puis, le Seigneur voulant, si je suis dans les environs, peut-être que dimanche prochain nous
-essaierons de continuer, pour voir si nous pouvons terminer ce chapitre 4 avant de nous en aller.
-Nous ne savons pas encore exactement quel sera le point de départ.
-40 Nous avons étudié ce mot “après”. “Après cela… ”. “Après” signifie: après que les âges de
-l’église soient terminés.
-41 Puis Jean reçut l’ordre d’aller plus haut: “Monte ici”. Il lui avait été montré tout ce qui allait
-arriver dans le monde des âges de l’église. Puis, après que les âges de l’église soient terminés…
-nous avons vu que Jean était un type de chaque vrai croyant qui sera convoqué par Christ dans
-les lieux très-hauts. N’est-ce pas? Il sera convoqué: “Monte ici!”.
-42 Nous avons aussi vu que la Voix qui lui avait parlé était la Voix d’une trompette, claire,
-distincte: c’était la même Voix qui lui avait parlé ici sur la terre. Aussi longtemps qu’Il Se trouvait au
-milieu des sept lampes d’or, Il parlait “du milieu d’elles”. Oh, j’aime cela! “Il parlait du milieu des
-sept lampes d’or”. Il était au milieu des lampes, parlant du milieu d’elles à Son Eglise. Puis quand
-les âges de l’église furent terminés, Il quitta la terre, S’éleva dans les Cieux et appela Ses rachetés
-à monter avec Lui. Oh, n’est-ce pas beau? Cela fait bondir mon coeur!
-43 Tandis que nous apportons ces choses, je voudrais tout spécialement que les jeunes
-convertis comme Ina et son mari, Rodney et sa femme, Charlie et les autres comprennent ces
-choses, comme d’ailleurs beaucoup d’entre vous parmi les jeunes qui venez d’entrer dans le
-Seigneur, qui n’êtes pas encore allés très loin sur ce chemin, mais qui L’avez goûté et qui avez vu
-qu’Il est bon et plein de grâce. Maintenant remarquez bien ceci: quand nous parlons de ces
-choses, ce que nous essayons de faire, c’est d’établir votre foi, de démontrer que lorsque Dieu dit
-quelque chose, il faut que cela arrive. Cela ne manque jamais d’arriver! Même si cela semble
-éloigné d’un million de kilomètres et ne jamais pouvoir arriver, Dieu le dirigera dans la bonne
-direction et le fera s’accomplir. Il fait cela pour nous éprouver.
-44 Pensez à ce qu’Il dit à Abraham: “Prends ton fils avec toi au sommet de la montagne et
-immole-le!”. Et Abraham qui avait attendu vingt-cinq ans avant d’avoir ce fils! Mais Dieu lui dit:
-“Amène-le sur la montagne et mets-le à mort!”. Il lui avait pourtant dit: “Je ferai de toi le père d’une
-nation!”.
-45 Abraham était alors âgé de cent ans et sa femme de quatre-vingt-dix ans; leur unique
-enfant… Abraham avait maintenant environ cent-quinze ans. Il aurait pu dire: “Comment cela
-va-t-il se faire, comment est-ce possible? Moi, un vieillard, j’ai encore attendu vingt-cinq ans! Tu
-m’as fait la promesse quand j’avais soixante-quinze ans, et maintenant, j’en ai cent. Sara avait
-soixante-cinq ans; maintenant, elle en a quatre-vingt-dix. Comment? Et maintenant, après avoir eu
-cet enfant… Tu m’avais dit autrefois, il y a vingt-cinq ans, après que j’aie vécu pendant toute ma
-vie avec Sara, une femme stérile, que j’allais avoir un enfant! Que s’est-il passé ensuite? Tu m’as
-rajeuni, tu as rendu Sara fertile et l’enfant est venu! Nous l’avons élevé jusqu’à l’âge de quinze ans
-et Tu nous as dit qu’au travers de cet enfant, Tu bénirais toutes les nations du monde et que Tu
-ferais de moi un père même pour les nations. Tu ferais de moi un père! Tu avais fait de moi, au
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS 7
-travers de cet enfant, un père pour toutes les nations sous le ciel dans les âges à venir! Et par cet
-enfant viendrait un Rédempteur, et par ce Rédempteur toute la race humaine serait rachetée!
-Comment vas-Tu faire, Seigneur?”. Mais Abraham n’avait pas de telles pensées, il ne posa pas de
-telles questions! Il obéit! Il ne demanda pas: “Comment vas-Tu faire?”.
-46 Mais il dit: “Ce n’est pas mon affaire. Tu l’as dit, et je sais que Ta Parole est vraie. Si Tu as pu
-bénir Ta Parole pour moi et me montrer cela quand j’avais soixante-quinze ans, lorsque Tu
-m’appelas pour me dire: ‘Sépare-toi et va dans un pays étranger!’… voilà vingt-cinq ans que je
-suis dans ce pays! J’étais déjà un vieillard, je vivais avec ma femme depuis qu’elle était jeune fille
-(Sara était sa demi-soeur). Ensuite, Tu m’as donné cet enfant que Tu m’avais promis et je l’ai reçu
-comme venant de la mort. Et si Tu me dis: ‘Tue-le!’ je sais que Tu es capable de le ressusciter des
-morts encore une fois!”. C’est ainsi qu’il faut agir! C’est ce qu’il fit.
-47 Aussitôt qu’il eût pleinement obéi à Dieu, qu’il eût écarté les cheveux de la nuque d’Isaac et
-levé le couteau pour tuer son propre fils, son fils unique… Dieu voulait nous montrer un modèle.
-Pourquoi fit-Il cela? Il n’y était pas obligé! Mais Il l’a fait afin que vous et moi puissions regarder à
-ces choses en ces jours sombres et terrifiants où le coeur des hommes est tellement rempli de
-méchanceté, afin que nous sachions que Dieu tient Ses promesses. Peu importe combien cela
-semble insuffisant ou même impossible, Dieu reste toujours Dieu et Il tient chaque promesse qu’Il
-a faite!
-48 C’est ce que j’essaie de vous faire comprendre quand nous sommes ici pour un service de
-guérison. Vous vous tenez là et vous dites: «Je suis malade». Aucun doute à cela, vous êtes
-malade! Mais Dieu tient Sa promesse! Il descendra! Il a fait l’expiation afin de pouvoir vous guérir.
-C’est ce qu’Il a fait. Maintenant, la seule chose qu’Il vous demande de faire, c’est de croire cela, de
-vous y tenir comme l’a fait Abraham.
+        Quand notre voyage sera terminé
+        Et que nous aurons été fidèles à Dieu,
+        Combien magnifique et brillante notre maison dans la Gloire
+        Paraîtra à notre âme ravie!
+        Tiens la main immuable de Dieu!
+        Tiens la main immuable de Dieu!
+        Fonde tes espérances sur les choses éternelles,
+        Tiens la main immuable de Dieu!
+24   Levons-nous maintenant pour un moment de prière, si vous le voulez bien, tandis que nous levons la main vers Dieu et que nous chantons encore cela:
+        Tiens la main immuable de Dieu!
+        Tiens la main immuable de Dieu!
+        Fonde tes espérances sur les choses éternelles,
+        Tiens la main immuable de Dieu!
+        Ne convoite pas les vaines richesses de ce monde
+        Qui se corrompent si rapidement.
+        Fonde tes espérances sur les choses éternelles
+        Qui ne passeront jamais.
+25   Père céleste, tandis que nous sommes debout, ô Seigneur, combien j’aime chanter ces bons vieux cantiques qui pénètrent au plus profond de notre coeur et font ressortir l’expression de notre amour pour Toi, le Dieu vivant! Et tandis que nous levions les mains ce matin, Seigneur, c’était comme un petit souvenir de ce cantique: «Tiens-nous par la main, Seigneur!». De même que je montrais comment Billy Paul s’était accroché à ma main et comment il serait tombé si je ne la lui avais pas tenue, ô Dieu, combien de fois ne serions-nous pas tombés, si tu ne nous avais pas tenus par la main! en pensant comment lui, un petit bébé sans sa mère, sur toutes ces routes qu’il a dû prendre tout au long de la vie, il aurait été tué depuis longtemps! Mais il y a une grande Main qui pouvait atteindre là où la mienne ne le pouvait pas et prendre soin de lui. Nous en sommes si reconnaissants!
+26   Nous sommes si heureux de savoir, Seigneur, que lorsque nous sentirons notre âme se séparer de notre corps, il y aura encore une main que nous pourrons atteindre et serrer et qui nous guidera pour passer la rivière. Nous Te remercions pour ces choses, pour cette assurance bénie d’avoir une Ancre de l’âme qui nous soutient tandis que nous avançons dans ce voyage, que nous naviguons sur le vaste océan de la vie.
+27   Et nous Te demandons, ô Père, comme le disait le poète, que le frère égaré qui a fait naufrage, voyant notre assurance, reprenne courage et essaie de nouveau. Nous savons que la main pleinement suffisante de Dieu est là, qu’elle est suffisante pour nous aider quand nous trébuchons et tombons, et que Sa grâce aussi est suffisante.
+28   Nous Te prions, ô Dieu, de pouvoir commencer la nouvelle année ce matin en chantant des cantiques, en nous réjouissant et en sachant que Dieu nous guidera tout au long du voyage de la vie, ainsi que de l’autre côté de la rivière de la mort, vers la Terre promise. Nos yeux regardent ce matin au-delà des flots tumultueux du Jourdain, vers les champs où croît le trèfle, dans les prairies toujours vertes, et nous Te prions, ô Dieu, que nos âmes saisissent cette vision et ne la perdent jamais. Un jour, lorsqu’il nous faudra descendre vers ce fleuve alors qu’il croisera notre chemin (comme Elie autrefois), le Manteau de Dieu frappera les flots de la mort et nous traverserons sans crainte! Accorde-le, ô Seigneur!
+29   Aide-nous tandis que nous nous approchons de Ta Parole. O Seigneur! je prie pour que Ton Saint-Esprit oigne ces paroles. Je suis certainement incapable de les enseigner, n’étant pas docteur. Nous savons que la seule façon pour nous de pouvoir La comprendre est que ce grand Docteur vienne faire Sa demeure dans nos coeurs et s’empare de nos âmes et de nos pensées de telle sorte qu’Il puisse interpréter Ses Saintes Ecritures pour nous. Nous comptons entièrement là-dessus. Souviens-T-en, ô Dieu!
+30 Oh, comme il est merveilleux qu’un tel Père, qui est à l’origine même de l’Eternité, descende vers des êtres mortels et nous aide, nous apporte Sa Parole et La donne à nos lèvres, à nos coeurs et à nos oreilles afin que nous puissions L’entendre et vivre et que nous soyons rachetés d’une malédiction dont nous ne sommes pas responsables, Père, parce qu’elle a été provoquée par la race humaine. Nous sommes les rejetons de ce premier couple. «Nous sommes nés dans le péché, conçus dans l’iniquité». Le Dieu juste et vivant sait que nous n’avons rien à voir avec cela: Il a créé une voie de secours et nous a accordé le privilège de pouvoir nous approcher de Lui. Combien nous sommes heureux d’être venus à la Maison du Père!
+31 Nous Te demandons maintenant de bénir cette église ainsi que frère Neville, notre vaillant pasteur, Ton humble serviteur. Nous prions pour nos diacres et nos administrateurs, afin que Tu leur accordes l’année la plus glorieuse qu’ils aient jamais eue. Accorde-le, ô Seigneur! Donne-leur une longue vie! Fortifie-les, Seigneur, ce sont Tes serviteurs. Qu’ils puissent toujours rester vaillants au poste. Bénis les laïcs, les membres, Tes très chers enfants qui sont venus à cette maison! O Dieu, nous réclamons l’âme de chacun de ceux qui franchissent le seuil de cette maison. Nous la réclamons pour Toi, Seigneur. Aide-nous à être des ministres qui apporteront la Parole de façon si simple et si vraie par le Saint-Esprit, que les gens aspireront à être comme Toi, Seigneur. Accorde-le, ô Seigneur! Bénis les malades et les affligés qui entrent. Et dans le monde entier, accorde-le dans chaque maison de Dieu.
+32 Enfin, quand Tu auras terminé, Seigneur, puissions-nous franchir Tes portes, nous asseoir à la table de Dieu, manger et vivre ensemble pour toujours dans l’âge à venir. Jusque là, puissions-nous avoir la santé, la force, le bonheur, la joie, la puissance et la bénédiction du Saint-Esprit pour nous guider. Nous le demandons au Nom de Jésus. Amen!
+33 Vous pouvez vous asseoir. J’ai apprécié cette belle musique ce matin. Je suis entré assez tôt pour pouvoir parler à mon cher ami le frère Skaggs, à frère Gene au fond là-bas et à un autre frère près de la porte. C’est pourquoi je n’en ai entendu qu’une partie, mais c’était très beau!
+34 Aimez-vous ce livre de l’Apocalypse? Je crois que pour beaucoup, et pour moi aussi, il est devenu, comme l’avait écrit ma petite Sarah, le livre des «révolutions» [en anglais, Apocalypse se dit: «The Book of the Revelation» — N.d.T.] Il nous apporte révolutions sur révolutions! Vous savez, je voudrais que nous ayons depuis maintenant, jusque vers mars ou avril, une grande toile qui serait tendue là au fond et sur laquelle je viendrais dessiner ces schémas dans la journée, toile que nous pourrions enrouler et dérouler comme un store, comme j’ai rêvé que nous pourrions le faire si nous avions un grand tabernacle. Il faudrait que ce tableau prenne toute la largeur de l’estrade. Alors, selon les révélations et les interprétations que le Seigneur me donne, je pourrais vous expliquer toutes les choses qui concernent ces sept âges. Ensuite, quand nous aurions terminé, nous enroulerions ce tableau et en déroulerions un autre sur lequel nous donnerions l’enseignement. Oh, ce serait comme un petit paradis, n’est-ce pas? Nous resterions assis ici tout l’hiver dans la présence du Seigneur.
+35 C’est tellement bon d’être seul avec Lui! Vous savez, autrefois on chantait: «Parfois, j’aime être tout seul avec Christ mon Seigneur! Quand je suis seul, je peux Lui dire tous mes problèmes». Vous voyez, c’est ainsi qu’il faut faire. Autrefois, Roy Davis chantait ce petit choeur: «Se retirer et prier avec Jésus». Tout nous ramène toujours dans la ligne de Jésus-Christ, n’est-ce pas?
+36 Pendant ces huit jours, nous avons parlé des âges de l’église, puis hier soir, je crois que nous avons abordé le verset 2 du chapitre 4 de l’Apocalypse. Je pense que vous étiez tous ici hier soir. Ce matin, nous avancerons peut-être d’un verset ou deux, je n’en sais rien. C’est comme le Seigneur conduira. J’ai noté jusqu’au verset 6 ou 7, juste de quoi nous fournir un sujet; cela nous permettra d’aller chercher dans différentes parties des Ecritures, de faire ressortir les choses et ce que nous aurons étudié hier.
+37 Hier soir, je crois que nous nous sommes arrêtés au verset 2 ou au commencement du verset 3. Nous nous sommes arrêtés à la Voix de la Trompette, n’est-ce pas? “Le son d’une trompette”. Je vais relire tout le passage afin de nous remettre ces choses en mémoire.
+     “Après ces choses, je vis: et voici, une porte ouverte dans le ciel, et la première voix que j’avais ouïe, comme d’une trompette parlant avec moi, disant: Monte ici, et je te montrerai les choses qui doivent arriver après celles-ci. Sur-le-champ je fus en Esprit: et voici, un trône était placé dans le ciel, et sur le trône, quelqu’un était assis; et celui qui était assis était, à le voir, semblable à une pierre de jaspe et de sardius; et autour du trône, un arc-en-ciel, à le voir, semblable à une émeraude”.
+38 Oh, quel beau sujet d’étude! Ce matin, juste avant de venir, j’ai médité ce verset 6 et je pensai: «Oh, je ne peux pas le laisser passer comme cela: il y a quelque chose dans ce verset 6 que je veux que tous les gens comprennent vraiment bien quand nous étudierons ces “êtres vivants”». Ces êtres vivants ne sont pas toujours bien nommés dans les traductions. Si nous étudions le texte original, nous voyons qu’en grec, un des êtres vivants est désigné comme étant un “animal sauvage” et que, dans la version King James, le mot “bêtes” devrait être traduit en réalité par “êtres vivants”. Pour ce qui est de la nature de ces êtres vivants, ce ne sont ni des hommes ni des anges. Donc ce sont des “êtres vivants”; ils ont quatre faces et quatre… nous rapporterons tout cela à l’Evangile afin de le mettre à sa place aussi parfaitement que dans ce passage. Souvenez-vous d’ailleurs que “quatre” est un nombre terrestre. Il y aurait là une belle étude à faire, c’est pourquoi je suis à peu près sûr que nous ne pourrons pas entrer dans ce sujet. Mais peut-être que nous le pourrons quand même. C’est tellement merveilleux!
+39 Puis, le Seigneur voulant, si je suis dans les environs, peut-être que dimanche prochain nous essaierons de continuer, pour voir si nous pouvons terminer ce chapitre 4 avant de nous en aller. Nous ne savons pas encore exactement quel sera le point de départ.
+40 Nous avons étudié ce mot “après”. “Après cela… ”. “Après” signifie: après que les âges de l’église soient terminés.
+41 Puis Jean reçut l’ordre d’aller plus haut: “Monte ici”. Il lui avait été montré tout ce qui allait arriver dans le monde des âges de l’église. Puis, après que les âges de l’église soient terminés… nous avons vu que Jean était un type de chaque vrai croyant qui sera convoqué par Christ dans les lieux très-hauts. N’est-ce pas? Il sera convoqué: “Monte ici!”.
+42 Nous avons aussi vu que la Voix qui lui avait parlé était la Voix d’une trompette, claire, distincte: c’était la même Voix qui lui avait parlé ici sur la terre. Aussi longtemps qu’Il Se trouvait au milieu des sept lampes d’or, Il parlait “du milieu d’elles”. Oh, j’aime cela! “Il parlait du milieu des sept lampes d’or”. Il était au milieu des lampes, parlant du milieu d’elles à Son Eglise. Puis quand les âges de l’église furent terminés, Il quitta la terre, S’éleva dans les Cieux et appela Ses rachetés à monter avec Lui. Oh, n’est-ce pas beau? Cela fait bondir mon coeur!
+43 Tandis que nous apportons ces choses, je voudrais tout spécialement que les jeunes convertis comme Ina et son mari, Rodney et sa femme, Charlie et les autres comprennent ces choses, comme d’ailleurs beaucoup d’entre vous parmi les jeunes qui venez d’entrer dans le Seigneur, qui n’êtes pas encore allés très loin sur ce chemin, mais qui L’avez goûté et qui avez vu qu’Il est bon et plein de grâce. Maintenant remarquez bien ceci: quand nous parlons de ces choses, ce que nous essayons de faire, c’est d’établir votre foi, de démontrer que lorsque Dieu dit quelque chose, il faut que cela arrive. Cela ne manque jamais d’arriver! Même si cela semble éloigné d’un million de kilomètres et ne jamais pouvoir arriver, Dieu le dirigera dans la bonne direction et le fera s’accomplir. Il fait cela pour nous éprouver.
+44 Pensez à ce qu’Il dit à Abraham: “Prends ton fils avec toi au sommet de la montagne et immole-le!”. Et Abraham qui avait attendu vingt-cinq ans avant d’avoir ce fils! Mais Dieu lui dit: “Amène-le sur la montagne et mets-le à mort!”. Il lui avait pourtant dit: “Je ferai de toi le père d’une nation!”.
+45 Abraham était alors âgé de cent ans et sa femme de quatre-vingt-dix ans; leur unique enfant… Abraham avait maintenant environ cent-quinze ans. Il aurait pu dire: “Comment cela va-t-il se faire, comment est-ce possible? Moi, un vieillard, j’ai encore attendu vingt-cinq ans! Tu m’as fait la promesse quand j’avais soixante-quinze ans, et maintenant, j’en ai cent. Sara avait soixante-cinq ans; maintenant, elle en a quatre-vingt-dix. Comment? Et maintenant, après avoir eu cet enfant… Tu m’avais dit autrefois, il y a vingt-cinq ans, après que j’aie vécu pendant toute ma vie avec Sara, une femme stérile, que j’allais avoir un enfant! Que s’est-il passé ensuite? Tu m’as rajeuni, tu as rendu Sara fertile et l’enfant est venu! Nous l’avons élevé jusqu’à l’âge de quinze ans et Tu nous as dit qu’au travers de cet enfant, Tu bénirais toutes les nations du monde et que Tu ferais de moi un père même pour les nations. Tu ferais de moi un père! Tu avais fait de moi, au travers de cet enfant, un père pour toutes les nations sous le ciel dans les âges à venir! Et par cet enfant viendrait un Rédempteur, et par ce Rédempteur toute la race humaine serait rachetée! Comment vas-Tu faire, Seigneur?”. Mais Abraham n’avait pas de telles pensées, il ne posa pas de telles questions! Il obéit! Il ne demanda pas: “Comment vas-Tu faire?”.
+46 Mais il dit: “Ce n’est pas mon affaire. Tu l’as dit, et je sais que Ta Parole est vraie. Si Tu as pu bénir Ta Parole pour moi et me montrer cela quand j’avais soixante-quinze ans, lorsque Tu m’appelas pour me dire: ‘Sépare-toi et va dans un pays étranger!’… voilà vingt-cinq ans que je suis dans ce pays! J’étais déjà un vieillard, je vivais avec ma femme depuis qu’elle était jeune fille (Sara était sa demi-soeur). Ensuite, Tu m’as donné cet enfant que Tu m’avais promis et je l’ai reçu comme venant de la mort. Et si Tu me dis: ‘Tue-le!’ je sais que Tu es capable de le ressusciter des morts encore une fois!”. C’est ainsi qu’il faut agir! C’est ce qu’il fit.
+47 Aussitôt qu’il eût pleinement obéi à Dieu, qu’il eût écarté les cheveux de la nuque d’Isaac et levé le couteau pour tuer son propre fils, son fils unique… Dieu voulait nous montrer un modèle. Pourquoi fit-Il cela? Il n’y était pas obligé! Mais Il l’a fait afin que vous et moi puissions regarder à ces choses en ces jours sombres et terrifiants où le coeur des hommes est tellement rempli de méchanceté, afin que nous sachions que Dieu tient Ses promesses. Peu importe combien cela semble insuffisant ou même impossible, Dieu reste toujours Dieu et Il tient chaque promesse qu’Il a faite!
+48 C’est ce que j’essaie de vous faire comprendre quand nous sommes ici pour un service de guérison. Vous vous tenez là et vous dites: «Je suis malade». Aucun doute à cela, vous êtes malade! Mais Dieu tient Sa promesse! Il descendra! Il a fait l’expiation afin de pouvoir vous guérir. C’est ce qu’Il a fait. Maintenant, la seule chose qu’Il vous demande de faire, c’est de croire cela, de vous y tenir comme l’a fait Abraham.
 49 — «Mais le docteur dit qu’il ne me reste plus qu’un jour à vivre!».
-50 Peu importe! C’est tout ce que l’homme connaît, il parle au mieux de sa connaissance.
-Comment Abraham allait-il récupérer cet enfant, alors qu’il l’avait déjà placé sur l’autel et que la
-Parole de Dieu lui avait dit: “Offre-Moi cet enfant en sacrifice!”? Comment allait-il faire? Là n’était
-pas la question! Dieu avait parlé: cela suffisait. «Comment vais-je être guéri, alors que le médecin
-dit que je ne peux pas être guéri?». Je n’ai pas à poser cette question! Mon affaire, c’est de
-prendre la Parole de Dieu. Dès qu’Il vous est REVELE que vous allez être guéri, alors
-rappelez-vous simplement que vous serez guéri! Il n’y a rien qui puisse vous éloigner de cela.
-C’est vrai! Vous voyez?
-51 Abraham était dans une parfaite obéissance. Comment allait-il faire? Le dernier moment
-arrive, les cinq dernières minutes, les trois dernières, les deux dernières, la dernière, les trente
-dernières secondes, la dernière seconde arrive, son bras est déjà levé pour prendre la vie de
-l’enfant… Mais à cet instant, Dieu dit: “Arrête! Arrête! Je vois que tu crois vraiment en Moi.
-Abraham, j’ai fait cela pour montrer au Branham Tabernacle dans les temps à venir qu’ils doivent
-avoir confiance en Moi. Ils ne doivent absolument pas douter de Moi. Ayez confiance en Moi!”.
-52 A l’instant même, il y eut un sacrifice: il n’avait pas fait ses préparatifs en vain! Car à ce
-moment même, il entendit bêler un agneau, un jeune bélier qui était accroché par les cornes dans
-les buissons. Combien de fois n’avons-nous pas étudié cela! Comment ce bélier était-il arrivé là au
-milieu de toutes ces bêtes sauvages, à cent cinquante kilomètres de la civilisation, au milieu des
-lions, des chacals, des loups, de toutes sortes d’animaux sauvages? Il était monté au sommet de
-la montagne où il n’y a ni eau, ni herbe; que faisait-il là? C’est Dieu qui l’avait créé et l’avait placé
-là!
-53 Oh! Le voir en ces jours que nous vivons actuellement! Ce matin, je vais devoir faire
-beaucoup de remarques personnelles pour arriver à ce que je veux dire. C’est pourquoi je prépare
-le terrain de cette façon avant de commencer. Je voudrais bien que vous compreniez que ce n’est
-pas pour faire des personnalités que je dois dire des choses qui paraissent personnelles. Je les
-donne simplement comme exemples afin que votre foi repose fermement en Christ, que vous vous
-reposiez sur Sa promesse, parce que Dieu tient parfaitement Sa promesse et nous le montre.
-54 Considérez ce Jéhovah-Jiré, ainsi qu’Abraham L’a appelé. En hébreu cela signifie: Dieu Se
-pourvoira d’un sacrifice. Dieu peut faire cela! Il agit selon Ses voies.
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS 8
-55 Vous direz: «Mais il s’agissait d’Abraham!». Non! Il l’a dit tout au long des âges, et Il le dit
-encore aujourd’hui.
-56 Autrefois Il dit à Noé qu’il pleuvrait. Mais il n’y avait jamais eu de nuage dans le ciel! Le plus
-grand courant d’eau par lequel Dieu irriguait la terre était comme un robinet: c’était une petite
-source qui coulait quelque part. C’était le plus grand cours d’eau qu’il y eût.
-57 Les gens disaient: “Comment est-il possible qu’il vienne de l’eau du ciel? Montrez-moi où se
-trouve l’eau, là-haut, avec ce soleil brûlant — si seulement il y en a!”.
-58 “Si Dieu a dit: ‘Construis une arche car le déluge va venir!’ — c’est mon travail de construire
-l’arche et de me préparer, parce que cela viendra. Il est Jéhovah-Jireh, Il peut faire venir de l’eau
-de là-haut”.
-59 La seule chose qu’Il fit fut de laisser les hommes, les hommes fous et stupides, agir selon leur
-science jusqu’à ce que s’accomplît ce que Dieu avait annoncé. Ce n’est pas Dieu qui veut détruire
-le monde, c’est l’homme qui le détruit. Dieu ne veut rien détruire: Il voudrait préserver toutes
-choses. Mais l’homme se détruit lui-même par sa connaissance, comme il l’a fait dans le jardin
-d’Eden avec l’arbre de la connaissance. C’est ainsi qu’un fanatique s’empara d’une quelconque
-puissance atomique.
-60 Ils savaient travailler avec elle en ce temps-là; en effet, ils savaient faire des choses que nous
-n’avons pas encore appris à faire. Nous ne sommes pas aussi avancés qu’eux. Il faudra peut-être
-encore au moins trois ou quatre ans, ou plus, avant que nous sachions faire comme eux. Ils ont
-construit les pyramides, les sphinx et le reste. Nous ne saurions pas faire cela. Nous ne pourrions
-pas les reproduire, nous ne saurions pas faire cela sans la puissance atomique. La puissance de
-l’essence et la puissance électrique ne pourraient soulever ces blocs. Certains d’entre eux sont
-aussi hauts qu’un immeuble et pèsent des tonnes. Comment les ont-ils amenés là-haut? Ils
-savaient, eux!
-61 Mais bientôt, ils se laissèrent emporter par cette puissance et finirent par se lancer des
-bombes atomiques les uns aux autres, parce qu’il est dit: “Comme il en était du temps de Noé
-(cette civilisation de gens intelligents) ainsi en sera-t-il à la venue du Fils de l’homme”. Ce sera une
-répétition de ce qui était autrefois. Vous voyez?
-62 Il n’y a pas longtemps, au Mexique, on a ramené à la surface des installations hydrauliques
-d’avant le déluge. Vous avez pu le lire dans le journal. Ce sont des installations hydrauliques
-comme celles que nous avons maintenant; elles étaient profondément enfouies dans le sol.
-Quelque puissance atomique les avait recouvertes de terre. Cela a explosé, et ces installations
-furent ensevelies.
-63 “Comme il en était du temps de Noé…”. Des hommes intelligents ayant en main une
-puissance atomique ont pu construire des pyramides, des sphinx et tout le reste. “Comme il en
-était autrefois, ainsi en sera-t-il en ce jour-là”. Mais ce jour-là, cette oeuvre sera interrompue, parce
-qu’un peuple élu doit être enlevé. Comme pour Enoch, il doit y avoir un peuple qui sera enlevé.
-Nous qui sommes ici ce matin, nous faisons partie de ceux qui seront transportés au-dessus de
-cela, comme Noé qui fut transporté au-dessus des flots.
-64 Mais n’oubliez pas ceci! Avant qu’une seule goutte de pluie tombe, avant qu’il y ait quoi que
-ce soit dans le ciel, avant que Noé ait terminé l’arche, Enoch était enlevé à la Maison! Enoch a été
-enlevé sans passer par la mort. Il marchait simplement: un jour, la pesanteur perdit sa puissance
-sur lui. En marchant, il vit tout à coup qu’il avait placé un pied un peu plus haut que le sol; l’autre
-monta encore un peu plus haut, puis il continua à monter, et bientôt il ne lui resta plus qu’à dire:
-“Adieu, monde!”. Il entra simplement en marchant dans la Gloire.
-65 Lorsque Noé se retourna et qu’il ne vit plus Enoch nulle part, il regarda autour de lui sans
-savoir où il était parti: il se dit alors: “Il est temps de me mettre à construire l’arche!”. Vous voyez?
-Alors il se mit au travail pour construire l’arche qui devait enlever le petit reste.
-66 C’est la même chose qui se réalise ici dans ce passage. L’Eglise a été enlevée dans les
-Cieux, et maintenant Jean est ravi avec Elle comme un type des ressuscités, ainsi que nous
-l’avons vu hier soir. Et nous avons vu que cette Voix qui lui ordonna de regarder vers la terre était
-la même que celle qui lui ordonna de monter.
-67 Oh, chaque chrétien! — Charlie, la Voix qui t’ordonna un jour de faire demi-tour là-bas dans le
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS 9
-Kentucky, c’est cette Voix-là qui t’ordonnera de monter. Frère Evans, n’en es-tu pas heureux? La
-Voix qui t’a dit: «Fais demi-tour!» est Celle qui te dira: “Monte!”. Oh, quel commandement! Quelle
-réalité! Une voix claire, distincte comme le son d’une trompette qui proclame: “Fais demi-tour,
-sers-Moi! Monte là où Je suis!”.
-68 Là nous avons vu celui qui représentait ceux qui sont morts. Moïse représentait les saints
-morts et ressuscités. Il y avait aussi Elie qui se tenait là le dernier jour avec le groupe de ceux qui
-avaient été enlevés. Ils étaient tous devant le Seigneur Jésus! C’est Jean qui nous l’a révélé.
-Jésus leur avait dit que Jean ne mourrait pas sans avoir vu ces choses, et que ce n’était pas leur
-affaire s’il vivait jusqu’à ce qu’il ait vu Sa venue. Les disciples s’étaient fait des idées à ce sujet…
-69 Oh, maintenant j’aimerais pouvoir dire à l’église des choses vraiment profondes pendant
-quelques instants. Vous savez, chacun a une vie privée avec Dieu. C’est une relation individuelle,
-les choses de l’Esprit vous emportent en des lieux dont vous n’oseriez même pas parler.
-70 J’ai remarqué dans mon humble petit ministère que souvent il m’est arrivé de dire quelque
-chose sans savoir pourquoi je le disais, et cela ne me semblait pas juste; mais ensuite, je pouvais
-voir que cela s’accomplissait parfaitement. Dieu fait que cela arrive! Quand je veux simplement
-dire quelque chose, je dis: «Bon! Attendez un instant. Il va arriver telle chose à telle personne; cela
-se fera de telle et telle façon». En réalité, je ne sais pas pourquoi j’ai dit cela. Et que se passe-t-il?
-Cela arrive exactement ainsi! C’est Dieu qui l’accomplit!
-71 Les disciples avaient dit: “Jésus a dit que Jean ne mourrait pas”. Mais Jésus n’avait jamais dit
-cela! Jésus avait dit: “S’il vit jusqu’à ce que Je vienne, que vous importe?”.
-72 Malgré tout ce que les disciples purent dire à ce sujet, Jésus tendit la main et prit Jean en
-haut pour lui montrer l’avant-première de tout ce qui concerne la venue du Seigneur. Jean vit
-l’Eglise, la fin des âges de l’église, la fin de la période des Juifs, la seconde venue du Seigneur; il
-vit tout dans l’ordre.
-73 Voyez ce que Dieu a dû faire! Il a fallu que Jean soit plongé dans de l’huile bouillante pendant
-près de vingt-quatre heures pour que les hommes voient que l’Esprit de Dieu avait oint sa chair
-(une enveloppe extérieure, une chair humaine) et qu’il en était tellement imprégné que vingt-quatre
-heures d’immersion dans l’huile bouillante ne lui avaient pas causé la moindre brûlure. Vous ne
-pouvez pas faire sortir le Saint-Esprit d’un homme en le jetant dans de l’huile bouillante! Alors ils le
-déportèrent dans l’île de Patmos où il écrivit le Livre de l’Apocalypse; puis il revint et prêcha encore
-plusieurs années.
-74 Evidemment qu’on l’affubla d’un nom injurieux: — C’était “un diseur de bonne aventure, un
-sorcier!”. Combien savent que Jean fut traité de sorcier? Parfaitement! Jésus Lui-même n’y a pas
-échappé. Vous voyez? Le monde ne comprend rien à ces choses. “Il fait de la télépathie!”. Les
-gens dirent qu’il était un magicien tel qu’il avait pu ensorceler l’huile de sorte qu’elle ne puisse le
-brûler! Et tout cela simplement parce qu’il n’était pas d’accord avec leurs idées catholiques! c’était
-tout.
-75 Il était un humble serviteur de Dieu qui avait une petite mission dont il prenait soin. Il n’aurait
-pas toléré que ces grandes choses viennent dans son église, c’est pourquoi Dieu le garda et le
-préserva. Dieu fit de même avec Martin, Irénée et tous les autres tout au long des âges.
-76 Il fait encore de même aujourd’hui, cela continue! N’oubliez jamais que Dieu a promis de
-grands ébranlements et des oeuvres grandes et puissantes. Maintenant notez bien ceci sur vos
-blocs-notes: ce que l’homme appelle “grand et puissant”, Dieu l’appelle “folie”! et ce que l’homme
-appelle “folie”, Dieu l’appelle “grand”! N’oubliez pas cela, ne l’oubliez pas! Cela vous aidera dans
-les années à venir, parce que nous nous attendons à quelque chose qui devient de plus en plus
-glorieux. Nous recevons des choses de plus en plus glorieuses, mais le monde n’en sait rien! Ils
-ne le savaient pas non plus du temps de Noé ni du temps de Jean, de Jésus, des apôtres,
-d’Irénée; ils ne l’ont su à aucun moment.
-77 Même Jeanne d’Arc était une sainte femme! Alors qu’elle n’était qu’une jeune fille, Dieu lui
-parla en visions, un ange lui parla. Savez-vous ce l’église Catholique a dit d’elle? que c’était une
-sorcière! Ils l’attachèrent à un poteau et la brûlèrent! C’est ce qu’ont fait les prêtres catholiques. Ils
-la condamnèrent à mort comme sorcière. Environ deux cents ans plus tard, ils découvrirent qu’elle
-n’était pas une sorcière, mais un disciple de Christ!
-
-        http://www.cmpp.ch
-
-LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS 10
-78 Ils ont fait la même chose à tous les saints. Jésus a dit: “Lesquels d’entre eux vos pères
-n’ont-ils pas persécutés? Lesquels des prophètes n’ont-ils pas rejetés? Vous êtes des murailles
-blanchies! Vous ornez les sépulcres des prophètes, mais c’est vous-mêmes qui les y avez mis!”.
-Oui! Oh, vous voyez? Il n’a pas mâché Ses mots, Il leur a dit les choses carrément!
-79 “Race de vipères” disait Jean “Qui vous a enseigné à fuir la colère à venir? Ne dites pas que
-vous avez Abraham pour père et que vous appartenez à telle ou telle grande organisation!”. —
-«Etes-vous chrétien?».
-80 — «Je suis Méthodiste». — «Je suis Presbytérien!». — «Je suis Pentecôtiste!». Cela ne veut
-rien dire du tout! Cela n’a pas plus de rapport que le froid et le chaud! Cela n’a aucun rapport! Si
-vous êtes chrétien, vous êtes un serviteur de Dieu né de nouveau.
-81 Hier soir, nous avons vu comment Jean est venu. Je vous en avais parlé pour définir le sujet
-de ma prédication. Rappelez-vous que le monde religieux est en train de recevoir la plus grande
-secousse qu’il ait jamais reçue.
-82 Sans doute que du temps de Jean et de Jésus, il y avait de grandes conventions, de grands
-orateurs, de grands intellectuels, et ils attiraient des dizaines de milliers de personnes.
-Qu’arriverait-il si Caïphe organisait aujourd’hui une grande série de réunions? Il attirerait tout
-Jérusalem, tout Israël, le pays tout entier. Les gens diraient: “Oh, si Caïphe dit telle et telle chose,
-ce sera grandiose!”. — “Croyez-vous les Ecritures, Rabbi, Révérend, Docteur, Monsieur l’Evêque?
-Croyez-vous les Ecritures?”.
+50 Peu importe! C’est tout ce que l’homme connaît, il parle au mieux de sa connaissance. Comment Abraham allait-il récupérer cet enfant, alors qu’il l’avait déjà placé sur l’autel et que la Parole de Dieu lui avait dit: “Offre-Moi cet enfant en sacrifice!”? Comment allait-il faire? Là n’était pas la question! Dieu avait parlé: cela suffisait. «Comment vais-je être guéri, alors que le médecin dit que je ne peux pas être guéri?». Je n’ai pas à poser cette question! Mon affaire, c’est de prendre la Parole de Dieu. Dès qu’Il vous est REVELE que vous allez être guéri, alors rappelez-vous simplement que vous serez guéri! Il n’y a rien qui puisse vous éloigner de cela. C’est vrai! Vous voyez?
+51 Abraham était dans une parfaite obéissance. Comment allait-il faire? Le dernier moment arrive, les cinq dernières minutes, les trois dernières, les deux dernières, la dernière, les trente dernières secondes, la dernière seconde arrive, son bras est déjà levé pour prendre la vie de l’enfant… Mais à cet instant, Dieu dit: “Arrête! Arrête! Je vois que tu crois vraiment en Moi. Abraham, j’ai fait cela pour montrer au Branham Tabernacle dans les temps à venir qu’ils doivent avoir confiance en Moi. Ils ne doivent absolument pas douter de Moi. Ayez confiance en Moi!”.
+52 A l’instant même, il y eut un sacrifice: il n’avait pas fait ses préparatifs en vain! Car à ce moment même, il entendit bêler un agneau, un jeune bélier qui était accroché par les cornes dans les buissons. Combien de fois n’avons-nous pas étudié cela! Comment ce bélier était-il arrivé là au milieu de toutes ces bêtes sauvages, à cent cinquante kilomètres de la civilisation, au milieu des lions, des chacals, des loups, de toutes sortes d’animaux sauvages? Il était monté au sommet de la montagne où il n’y a ni eau, ni herbe; que faisait-il là? C’est Dieu qui l’avait créé et l’avait placé là!
+53 Oh! Le voir en ces jours que nous vivons actuellement! Ce matin, je vais devoir faire beaucoup de remarques personnelles pour arriver à ce que je veux dire. C’est pourquoi je prépare le terrain de cette façon avant de commencer. Je voudrais bien que vous compreniez que ce n’est pas pour faire des personnalités que je dois dire des choses qui paraissent personnelles. Je les donne simplement comme exemples afin que votre foi repose fermement en Christ, que vous vous reposiez sur Sa promesse, parce que Dieu tient parfaitement Sa promesse et nous le montre.
+54 Considérez ce Jéhovah-Jiré, ainsi qu’Abraham L’a appelé. En hébreu cela signifie: Dieu Se pourvoira d’un sacrifice. Dieu peut faire cela! Il agit selon Ses voies.
+55 Vous direz: «Mais il s’agissait d’Abraham!». Non! Il l’a dit tout au long des âges, et Il le dit encore aujourd’hui.
+56 Autrefois Il dit à Noé qu’il pleuvrait. Mais il n’y avait jamais eu de nuage dans le ciel! Le plus grand courant d’eau par lequel Dieu irriguait la terre était comme un robinet: c’était une petite source qui coulait quelque part. C’était le plus grand cours d’eau qu’il y eût.
+57 Les gens disaient: “Comment est-il possible qu’il vienne de l’eau du ciel? Montrez-moi où se trouve l’eau, là-haut, avec ce soleil brûlant — si seulement il y en a!”.
+58 “Si Dieu a dit: ‘Construis une arche car le déluge va venir!’ — c’est mon travail de construire l’arche et de me préparer, parce que cela viendra. Il est Jéhovah-Jireh, Il peut faire venir de l’eau de là-haut”.
+59 La seule chose qu’Il fit fut de laisser les hommes, les hommes fous et stupides, agir selon leur science jusqu’à ce que s’accomplît ce que Dieu avait annoncé. Ce n’est pas Dieu qui veut détruire le monde, c’est l’homme qui le détruit. Dieu ne veut rien détruire: Il voudrait préserver toutes choses. Mais l’homme se détruit lui-même par sa connaissance, comme il l’a fait dans le jardin d’Eden avec l’arbre de la connaissance. C’est ainsi qu’un fanatique s’empara d’une quelconque puissance atomique.
+60 Ils savaient travailler avec elle en ce temps-là; en effet, ils savaient faire des choses que nous n’avons pas encore appris à faire. Nous ne sommes pas aussi avancés qu’eux. Il faudra peut-être encore au moins trois ou quatre ans, ou plus, avant que nous sachions faire comme eux. Ils ont construit les pyramides, les sphinx et le reste. Nous ne saurions pas faire cela. Nous ne pourrions pas les reproduire, nous ne saurions pas faire cela sans la puissance atomique. La puissance de l’essence et la puissance électrique ne pourraient soulever ces blocs. Certains d’entre eux sont aussi hauts qu’un immeuble et pèsent des tonnes. Comment les ont-ils amenés là-haut? Ils savaient, eux!
+61 Mais bientôt, ils se laissèrent emporter par cette puissance et finirent par se lancer des bombes atomiques les uns aux autres, parce qu’il est dit: “Comme il en était du temps de Noé (cette civilisation de gens intelligents) ainsi en sera-t-il à la venue du Fils de l’homme”. Ce sera une répétition de ce qui était autrefois. Vous voyez?
+62 Il n’y a pas longtemps, au Mexique, on a ramené à la surface des installations hydrauliques d’avant le déluge. Vous avez pu le lire dans le journal. Ce sont des installations hydrauliques comme celles que nous avons maintenant; elles étaient profondément enfouies dans le sol. Quelque puissance atomique les avait recouvertes de terre. Cela a explosé, et ces installations furent ensevelies.
+63 “Comme il en était du temps de Noé…”. Des hommes intelligents ayant en main une puissance atomique ont pu construire des pyramides, des sphinx et tout le reste. “Comme il en était autrefois, ainsi en sera-t-il en ce jour-là”. Mais ce jour-là, cette oeuvre sera interrompue, parce qu’un peuple élu doit être enlevé. Comme pour Enoch, il doit y avoir un peuple qui sera enlevé. Nous qui sommes ici ce matin, nous faisons partie de ceux qui seront transportés au-dessus de cela, comme Noé qui fut transporté au-dessus des flots.
+64 Mais n’oubliez pas ceci! Avant qu’une seule goutte de pluie tombe, avant qu’il y ait quoi que ce soit dans le ciel, avant que Noé ait terminé l’arche, Enoch était enlevé à la Maison! Enoch a été enlevé sans passer par la mort. Il marchait simplement: un jour, la pesanteur perdit sa puissance sur lui. En marchant, il vit tout à coup qu’il avait placé un pied un peu plus haut que le sol; l’autre monta encore un peu plus haut, puis il continua à monter, et bientôt il ne lui resta plus qu’à dire: “Adieu, monde!”. Il entra simplement en marchant dans la Gloire.
+65 Lorsque Noé se retourna et qu’il ne vit plus Enoch nulle part, il regarda autour de lui sans savoir où il était parti: il se dit alors: “Il est temps de me mettre à construire l’arche!”. Vous voyez? Alors il se mit au travail pour construire l’arche qui devait enlever le petit reste.
+66 C’est la même chose qui se réalise ici dans ce passage. L’Eglise a été enlevée dans les Cieux, et maintenant Jean est ravi avec Elle comme un type des ressuscités, ainsi que nous l’avons vu hier soir. Et nous avons vu que cette Voix qui lui ordonna de regarder vers la terre était la même que celle qui lui ordonna de monter.
+67 Oh, chaque chrétien! — Charlie, la Voix qui t’ordonna un jour de faire demi-tour là-bas dans le Kentucky, c’est cette Voix-là qui t’ordonnera de monter. Frère Evans, n’en es-tu pas heureux? La Voix qui t’a dit: «Fais demi-tour!» est Celle qui te dira: “Monte!”. Oh, quel commandement! Quelle réalité! Une voix claire, distincte comme le son d’une trompette qui proclame: “Fais demi-tour, sers-Moi! Monte là où Je suis!”.
+68 Là nous avons vu celui qui représentait ceux qui sont morts. Moïse représentait les saints morts et ressuscités. Il y avait aussi Elie qui se tenait là le dernier jour avec le groupe de ceux qui avaient été enlevés. Ils étaient tous devant le Seigneur Jésus! C’est Jean qui nous l’a révélé. Jésus leur avait dit que Jean ne mourrait pas sans avoir vu ces choses, et que ce n’était pas leur affaire s’il vivait jusqu’à ce qu’il ait vu Sa venue. Les disciples s’étaient fait des idées à ce sujet…
+69 Oh, maintenant j’aimerais pouvoir dire à l’église des choses vraiment profondes pendant quelques instants. Vous savez, chacun a une vie privée avec Dieu. C’est une relation individuelle, les choses de l’Esprit vous emportent en des lieux dont vous n’oseriez même pas parler.
+70 J’ai remarqué dans mon humble petit ministère que souvent il m’est arrivé de dire quelque chose sans savoir pourquoi je le disais, et cela ne me semblait pas juste; mais ensuite, je pouvais voir que cela s’accomplissait parfaitement. Dieu fait que cela arrive! Quand je veux simplement dire quelque chose, je dis: «Bon! Attendez un instant. Il va arriver telle chose à telle personne; cela se fera de telle et telle façon». En réalité, je ne sais pas pourquoi j’ai dit cela. Et que se passe-t-il? Cela arrive exactement ainsi! C’est Dieu qui l’accomplit!
+71 Les disciples avaient dit: “Jésus a dit que Jean ne mourrait pas”. Mais Jésus n’avait jamais dit cela! Jésus avait dit: “S’il vit jusqu’à ce que Je vienne, que vous importe?”.
+72 Malgré tout ce que les disciples purent dire à ce sujet, Jésus tendit la main et prit Jean en haut pour lui montrer l’avant-première de tout ce qui concerne la venue du Seigneur. Jean vit l’Eglise, la fin des âges de l’église, la fin de la période des Juifs, la seconde venue du Seigneur; il vit tout dans l’ordre.
+73 Voyez ce que Dieu a dû faire! Il a fallu que Jean soit plongé dans de l’huile bouillante pendant près de vingt-quatre heures pour que les hommes voient que l’Esprit de Dieu avait oint sa chair (une enveloppe extérieure, une chair humaine) et qu’il en était tellement imprégné que vingt-quatre heures d’immersion dans l’huile bouillante ne lui avaient pas causé la moindre brûlure. Vous ne pouvez pas faire sortir le Saint-Esprit d’un homme en le jetant dans de l’huile bouillante! Alors ils le déportèrent dans l’île de Patmos où il écrivit le Livre de l’Apocalypse; puis il revint et prêcha encore plusieurs années.
+74 Evidemment qu’on l’affubla d’un nom injurieux: — C’était “un diseur de bonne aventure, un sorcier!”. Combien savent que Jean fut traité de sorcier? Parfaitement! Jésus Lui-même n’y a pas échappé. Vous voyez? Le monde ne comprend rien à ces choses. “Il fait de la télépathie!”. Les gens dirent qu’il était un magicien tel qu’il avait pu ensorceler l’huile de sorte qu’elle ne puisse le brûler! Et tout cela simplement parce qu’il n’était pas d’accord avec leurs idées catholiques! c’était tout.
+75 Il était un humble serviteur de Dieu qui avait une petite mission dont il prenait soin. Il n’aurait pas toléré que ces grandes choses viennent dans son église, c’est pourquoi Dieu le garda et le préserva. Dieu fit de même avec Martin, Irénée et tous les autres tout au long des âges.
+76 Il fait encore de même aujourd’hui, cela continue! N’oubliez jamais que Dieu a promis de grands ébranlements et des oeuvres grandes et puissantes. Maintenant notez bien ceci sur vos blocs-notes: ce que l’homme appelle “grand et puissant”, Dieu l’appelle “folie”! et ce que l’homme appelle “folie”, Dieu l’appelle “grand”! N’oubliez pas cela, ne l’oubliez pas! Cela vous aidera dans les années à venir, parce que nous nous attendons à quelque chose qui devient de plus en plus glorieux. Nous recevons des choses de plus en plus glorieuses, mais le monde n’en sait rien! Ils ne le savaient pas non plus du temps de Noé ni du temps de Jean, de Jésus, des apôtres, d’Irénée; ils ne l’ont su à aucun moment.
+77 Même Jeanne d’Arc était une sainte femme! Alors qu’elle n’était qu’une jeune fille, Dieu lui parla en visions, un ange lui parla. Savez-vous ce l’église Catholique a dit d’elle? que c’était une sorcière! Ils l’attachèrent à un poteau et la brûlèrent! C’est ce qu’ont fait les prêtres catholiques. Ils la condamnèrent à mort comme sorcière. Environ deux cents ans plus tard, ils découvrirent qu’elle n’était pas une sorcière, mais un disciple de Christ!
+78 Ils ont fait la même chose à tous les saints. Jésus a dit: “Lesquels d’entre eux vos pères n’ont-ils pas persécutés? Lesquels des prophètes n’ont-ils pas rejetés? Vous êtes des murailles blanchies! Vous ornez les sépulcres des prophètes, mais c’est vous-mêmes qui les y avez mis!”. Oui! Oh, vous voyez? Il n’a pas mâché Ses mots, Il leur a dit les choses carrément!
+79 “Race de vipères” disait Jean “Qui vous a enseigné à fuir la colère à venir? Ne dites pas que vous avez Abraham pour père et que vous appartenez à telle ou telle grande organisation!”. — «Etes-vous chrétien?».
+80 — «Je suis Méthodiste». — «Je suis Presbytérien!». — «Je suis Pentecôtiste!». Cela ne veut rien dire du tout! Cela n’a pas plus de rapport que le froid et le chaud! Cela n’a aucun rapport! Si vous êtes chrétien, vous êtes un serviteur de Dieu né de nouveau.
+81 Hier soir, nous avons vu comment Jean est venu. Je vous en avais parlé pour définir le sujet de ma prédication. Rappelez-vous que le monde religieux est en train de recevoir la plus grande secousse qu’il ait jamais reçue.
+82 Sans doute que du temps de Jean et de Jésus, il y avait de grandes conventions, de grands orateurs, de grands intellectuels, et ils attiraient des dizaines de milliers de personnes. Qu’arriverait-il si Caïphe organisait aujourd’hui une grande série de réunions? Il attirerait tout Jérusalem, tout Israël, le pays tout entier. Les gens diraient: “Oh, si Caïphe dit telle et telle chose, ce sera grandiose!”. — “Croyez-vous les Ecritures, Rabbi, Révérend, Docteur, Monsieur l’Evêque? Croyez-vous les Ecritures?”.
      — “Bien sûr que je crois les Ecritures, je suis un érudit connu!”.
-83 Très bien! Oh, la Bible dit qu’il viendra un temps où toutes les collines bondiront comme des
-béliers, toutes les feuilles battront des mains, tous les hauts lieux seront abaissés et aplanis,
-toutes les plaines relevées et rehaussées. Et cela se fera par la voix de quelqu’un criant dans le
-désert. Croyez-vous cela, Rabbi, Révérend, Docteur, Pasteur?
+83 Très bien! Oh, la Bible dit qu’il viendra un temps où toutes les collines bondiront comme des béliers, toutes les feuilles battront des mains, tous les hauts lieux seront abaissés et aplanis, toutes les plaines relevées et rehaussées. Et cela se fera par la voix de quelqu’un criant dans le désert. Croyez-vous cela, Rabbi, Révérend, Docteur, Pasteur?
      — “Bien sûr que je le crois!”.
      — “Comment cela va-t-il donc se passer?”.
-84 — “Dieu enverra un jour un homme puissant sur la terre. Oh, il sera grand! Il sera la voix de
-celui qui crie dans le désert pour annoncer la venue du Messie. Lorsque cet homme viendra, il n’y
-a aucun doute dans mon esprit qu’il descendra des Cieux pour aller au temple. Il descendra droit
-ici au temple en disant: ‘Maintenant, nous allons battre tous les Romains et les mettre à mort!
-Voilà! Nous allons détruire tous les Romains.’ Ensuite, il dira: ‘Messie, descends!’. Le Messie
-descendra; alors nous forgerons de nos épées des hoyaux et des serpes, et il n’y aura plus de
-guerres!”. Eh oui, voilà leur interprétation!
-85 Mais que se passa-t-il en réalité? Que se passa-t-il? Il n’y eut rien de spectaculaire venant du
-Ciel. Ils n’ont rien vu. Il y a bien eu quelque chose, mais ils n’ont rien vu. Ils ne l’ont pas vu! Vous
-comprenez? Quand donc les collines ont-elles bondi comme des béliers? Quand donc les hauts
-lieux ont-ils été abaissés et les plaines relevées? Un prédicateur barbu et illettré est sorti du
-désert. D’après l’histoire, il est parti dans le désert à l’âge de neuf ans et il n’en est jamais revenu
-avant l’âge de trente ans. Il vivait de sauterelles et de miel sauvage!
-86 Là-bas, on en mange couramment. Ne croyez pas que c’est mauvais: vous pouvez en acheter
-ici même dans les grands magasins. Si vous en voulez, vous pouvez acheter des bourdons, des
-abeilles, des sauterelles, des serpents à sonnette, tout ce que vous voulez!
-87 Ainsi donc, il vivait de sauterelles et de miel sauvage. Quel régime! Mais il était gardé par la
-puissance de Dieu. Comme le disait l’autre soir frère Parnell ou quelqu’un d’autre: il n’avait pas de
-faux-col! Il n’avait pas de robe de pasteur et tout cela! Il sortit du désert vêtu d’une peau de
-mouton. Ici, nous prenons un bain par jour, mais peut-être que là-bas dans le désert, il n’en prenait
-que tous les trois ou quatre mois. Je ne sais pas. Il ne payait pas de mine! Il n’avait pas de chaire.
-Il n’allait pas dans les grandes villes pour tenir de grandes réunions. Il se tenait sur les rives du
-Jourdain, de la boue jusqu’aux genoux, et proclamait: “Race de vipères, qui vous a appris à fuir la
-colère à venir?”. Oui! C’est alors que les hauts lieux furent abaissés et que les plaines furent
-relevées! Certainement!
-88 Que se passa-t-il alors? Les gens s’attendaient à ce que le Messie descende avec des anges
-et vienne s’installer sous un dais qu’on lui aurait dressé dans le temple (comme nous aujourd’hui
-
-        http://www.cmpp.ch
-
-    LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS    11
-lorsque nous élevons de grands bâtiments dans tous les pays). Vous voyez? Mais comment
-vint-Il? Il passa à côté de leurs synagogues et de leurs organisations et descendit dans une étable!
-Ce sont même eux qui Le forcèrent à aller dans une étable!
-89 C’est ce qui arrive aujourd’hui. On Le contraint à entrer dans ces choses, on L’oblige à rester
-hors des dénominations et tout cela parce que Son Message ne collabore pas avec les
-dénominations. Aujourd’hui, Son Message prêché par Ses serviteurs est en dehors des
-dénominations parce que les dénominations Le rejettent. C’est la Bible qui le dit. Il était dehors,
-frappant à la porte, essayant d’entrer dans Sa propre église. Voilà où nous en sommes! Vous
-voyez, aujourd’hui c’est comme autrefois!
-90 N’oublions pas que ce qui paraît grand aux hommes est petit devant Dieu. C’est pourquoi
-vous n’avez pas besoin de “faire des fleurs”. Quand Jésus reviendra, vous serez surpris! Cette
-petite lavandière au fond de la ruelle… Vous serez surpris! Ce pauvre homme qui ne dit rien, qui
-garde ses secrets pour lui et marche devant Dieu dans l’humilité… Vous serez surpris!
-91 Il n’y a pas longtemps, j’ai prêché sur ce sujet: Les surprises du jugement. Il n’y aura pas de
-surprise pour le fraudeur: il sait où il va. C’est sûr! Il n’y aura pas de surprise pour le menteur,
-l’adultère et ces gens-là. Mais la surprise et la déception seront pour ceux qui pensaient aller au
-Ciel et qui seront repoussés. Ceux qui disaient: «Ma mère appartenait à telle et telle église, mon
-père appartenait à telle et telle église, comme d’ailleurs mon grand-père et ma grand-mère. J’en ai
-été membre moi-même toute ma vie…».
+84 — “Dieu enverra un jour un homme puissant sur la terre. Oh, il sera grand! Il sera la voix de celui qui crie dans le désert pour annoncer la venue du Messie. Lorsque cet homme viendra, il n’y a aucun doute dans mon esprit qu’il descendra des Cieux pour aller au temple. Il descendra droit ici au temple en disant: ‘Maintenant, nous allons battre tous les Romains et les mettre à mort! Voilà! Nous allons détruire tous les Romains.’ Ensuite, il dira: ‘Messie, descends!’. Le Messie descendra; alors nous forgerons de nos épées des hoyaux et des serpes, et il n’y aura plus de guerres!”. Eh oui, voilà leur interprétation!
+85 Mais que se passa-t-il en réalité? Que se passa-t-il? Il n’y eut rien de spectaculaire venant du Ciel. Ils n’ont rien vu. Il y a bien eu quelque chose, mais ils n’ont rien vu. Ils ne l’ont pas vu! Vous comprenez? Quand donc les collines ont-elles bondi comme des béliers? Quand donc les hauts lieux ont-ils été abaissés et les plaines relevées? Un prédicateur barbu et illettré est sorti du désert. D’après l’histoire, il est parti dans le désert à l’âge de neuf ans et il n’en est jamais revenu avant l’âge de trente ans. Il vivait de sauterelles et de miel sauvage!
+86 Là-bas, on en mange couramment. Ne croyez pas que c’est mauvais: vous pouvez en acheter ici même dans les grands magasins. Si vous en voulez, vous pouvez acheter des bourdons, des abeilles, des sauterelles, des serpents à sonnette, tout ce que vous voulez!
+87 Ainsi donc, il vivait de sauterelles et de miel sauvage. Quel régime! Mais il était gardé par la puissance de Dieu. Comme le disait l’autre soir frère Parnell ou quelqu’un d’autre: il n’avait pas de faux-col! Il n’avait pas de robe de pasteur et tout cela! Il sortit du désert vêtu d’une peau de mouton. Ici, nous prenons un bain par jour, mais peut-être que là-bas dans le désert, il n’en prenait que tous les trois ou quatre mois. Je ne sais pas. Il ne payait pas de mine! Il n’avait pas de chaire. Il n’allait pas dans les grandes villes pour tenir de grandes réunions. Il se tenait sur les rives du Jourdain, de la boue jusqu’aux genoux, et proclamait: “Race de vipères, qui vous a appris à fuir la colère à venir?”. Oui! C’est alors que les hauts lieux furent abaissés et que les plaines furent relevées! Certainement!
+88 Que se passa-t-il alors? Les gens s’attendaient à ce que le Messie descende avec des anges et vienne s’installer sous un dais qu’on lui aurait dressé dans le temple (comme nous aujourd’hui lorsque nous élevons de grands bâtiments dans tous les pays). Vous voyez? Mais comment vint-Il? Il passa à côté de leurs synagogues et de leurs organisations et descendit dans une étable! Ce sont même eux qui Le forcèrent à aller dans une étable!
+89 C’est ce qui arrive aujourd’hui. On Le contraint à entrer dans ces choses, on L’oblige à rester hors des dénominations et tout cela parce que Son Message ne collabore pas avec les dénominations. Aujourd’hui, Son Message prêché par Ses serviteurs est en dehors des dénominations parce que les dénominations Le rejettent. C’est la Bible qui le dit. Il était dehors, frappant à la porte, essayant d’entrer dans Sa propre église. Voilà où nous en sommes! Vous voyez, aujourd’hui c’est comme autrefois!
+90 N’oublions pas que ce qui paraît grand aux hommes est petit devant Dieu. C’est pourquoi vous n’avez pas besoin de “faire des fleurs”. Quand Jésus reviendra, vous serez surpris! Cette petite lavandière au fond de la ruelle… Vous serez surpris! Ce pauvre homme qui ne dit rien, qui garde ses secrets pour lui et marche devant Dieu dans l’humilité… Vous serez surpris!
+91 Il n’y a pas longtemps, j’ai prêché sur ce sujet: Les surprises du jugement. Il n’y aura pas de surprise pour le fraudeur: il sait où il va. C’est sûr! Il n’y aura pas de surprise pour le menteur, l’adultère et ces gens-là. Mais la surprise et la déception seront pour ceux qui pensaient aller au Ciel et qui seront repoussés. Ceux qui disaient: «Ma mère appartenait à telle et telle église, mon père appartenait à telle et telle église, comme d’ailleurs mon grand-père et ma grand-mère. J’en ai été membre moi-même toute ma vie…».
 92 — “Eloigne-toi de Moi, ouvrier d’iniquité! Je ne t’ai jamais connu!”.
-93 Considérez ce brave vieux Siméon, un homme inconnu, qui n’était pas réputé, dont on ne sait
-rien dans la Bible. Mais la Bible dit qu’il lui avait été révélé par le Saint-Esprit (voilà, tout est là!)
-qu’il ne mourrait pas avant d’avoir vu le Christ du Seigneur.
-94 Considérez aussi Jean-Baptiste. C’était une espèce d’homme des bois d’aspect bizarre. Mais
-il reçut la révélation et il vint prêcher le message. Considérez cela! Et qui était la vieille Anne?
-95 Il y avait aussi la vierge Marie, là-bas dans cette ville de Nazareth qui ne valait pas mieux que
-Jeffersonville et où le péché abondait! Mais elle s’était gardée pure parce qu’elle savait qu’un jour
-un Messie viendrait.
-96 Joseph, un charpentier, avait perdu sa femme; il courtisait cette jeune fille. C’est au travers de
-cela que le Saint-Esprit est venu. Puis le monde est venu avec ses calomnies: “Exaltés!
-Pentecôtistes!… Cet enfant est né hors des liens sacrés du mariage!”. Vous voyez, c’est ce qu’ils
-croyaient, et il semblait que c’était vrai! Mais Dieu fait cela pour aveugler les yeux des sages et des
-intelligents et le révéler aux enfants qui veulent apprendre.
-97 J’espère avoir bien planté le décor pour présenter ce qui va suivre. Je vais vous le montrer.
-Voyez-vous cette huile? Ce que je vous ai dit au sujet du décor, c’est pour vous montrer que cela
-ne vient pas de l’homme, mais de Dieu. Je vais vous montrer cela.
-98 Il y eut une Voix qui cria: “Monte ici!”. Et quand Il eut ouvert, Jean entendit le son de la
-trompette; aussitôt il fut dans l’Esprit. Dès qu’il fut dans l’Esprit, il commença à voir des choses.
-Vous commencez à voir des choses quand vous entrez dans l’Esprit. Pour commencer, il vous faut
-entrer dans l’Esprit. N’est-ce pas?
-99 Que se passe-t-il lorsque vous allez à une partie de base-ball en disant: «J’aime vraiment le
-base-ball». Vous vous cherchez une place au premier rang, dans les tribunes, et vous allez
-regarder jouer les “Yankees”, les “Bulldogs” ou qui que ce soit. Les deux équipes «en mettent un
-coup».
-100 Mais voilà votre équipe qui est sur le point de perdre, quand soudain un moderne Babe Ruth
-lance un coup comme ceci… [frère Branham décrit un engagement dans une partie de base-ball
-— N.d.T.] Quels cris, quels sauts, quels hurlements, quels «hourras» dans le public!
-101 Vous souvenez-vous de ces canotiers que l’on portait autrefois? Un jour que j’étais allé voir un
-match de base-ball, je vis un joueur réussir un but. Il y avait devant moi un spectateur
-particulièrement excité qui portait un de ces canotiers. Quand il vit ce but, il enfonça tellement son
-chapeau sur sa tête qu’il passa au travers et que cela fit comme un collier. Le haut du chapeau
-était parti! En voilà un qui ne s’ennuyait pas! Il était tellement hors de lui qu’il ne savait plus ce qu’il
-faisait! Il trépignait, sautait et criait: «Hourra!». Je pense que c’était quelqu’un qui aimait vraiment
-
-    http://www.cmpp.ch
+93 Considérez ce brave vieux Siméon, un homme inconnu, qui n’était pas réputé, dont on ne sait rien dans la Bible. Mais la Bible dit qu’il lui avait été révélé par le Saint-Esprit (voilà, tout est là!) qu’il ne mourrait pas avant d’avoir vu le Christ du Seigneur.
+94 Considérez aussi Jean-Baptiste. C’était une espèce d’homme des bois d’aspect bizarre. Mais il reçut la révélation et il vint prêcher le message. Considérez cela! Et qui était la vieille Anne?
+95 Il y avait aussi la vierge Marie, là-bas dans cette ville de Nazareth qui ne valait pas mieux que Jeffersonville et où le péché abondait! Mais elle s’était gardée pure parce qu’elle savait qu’un jour un Messie viendrait.
+96 Joseph, un charpentier, avait perdu sa femme; il courtisait cette jeune fille. C’est au travers de cela que le Saint-Esprit est venu. Puis le monde est venu avec ses calomnies: “Exaltés! Pentecôtistes!… Cet enfant est né hors des liens sacrés du mariage!”. Vous voyez, c’est ce qu’ils croyaient, et il semblait que c’était vrai! Mais Dieu fait cela pour aveugler les yeux des sages et des intelligents et le révéler aux enfants qui veulent apprendre.
+97 J’espère avoir bien planté le décor pour présenter ce qui va suivre. Je vais vous le montrer. Voyez-vous cette huile? Ce que je vous ai dit au sujet du décor, c’est pour vous montrer que cela ne vient pas de l’homme, mais de Dieu. Je vais vous montrer cela.
+98 Il y eut une Voix qui cria: “Monte ici!”. Et quand Il eut ouvert, Jean entendit le son de la trompette; aussitôt il fut dans l’Esprit. Dès qu’il fut dans l’Esprit, il commença à voir des choses. Vous commencez à voir des choses quand vous entrez dans l’Esprit. Pour commencer, il vous faut entrer dans l’Esprit. N’est-ce pas?
+99 Que se passe-t-il lorsque vous allez à une partie de base-ball en disant: «J’aime vraiment le base-ball». Vous vous cherchez une place au premier rang, dans les tribunes, et vous allez regarder jouer les “Yankees”, les “Bulldogs” ou qui que ce soit. Les deux équipes «en mettent un coup».
+100 Mais voilà votre équipe qui est sur le point de perdre, quand soudain un moderne Babe Ruth lance un coup comme ceci… [frère Branham décrit un engagement dans une partie de base-ball — N.d.T.] Quels cris, quels sauts, quels hurlements, quels «hourras» dans le public!
+101 Vous souvenez-vous de ces canotiers que l’on portait autrefois? Un jour que j’étais allé voir un match de base-ball, je vis un joueur réussir un but. Il y avait devant moi un spectateur particulièrement excité qui portait un de ces canotiers. Quand il vit ce but, il enfonça tellement son chapeau sur sa tête qu’il passa au travers et que cela fit comme un collier. Le haut du chapeau était parti! En voilà un qui ne s’ennuyait pas! Il était tellement hors de lui qu’il ne savait plus ce qu’il faisait! Il trépignait, sautait et criait: «Hourra!». Je pense que c’était quelqu’un qui aimait vraiment le base-ball.
 
 LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS 12
 le base-ball! C’était un “mordu”, un possédé du base-ball, exactement comme on est possédé de
@@ -1339,7 +971,7 @@ quoi que ce soit. Il vaudrait mieux que vous vous noyiez ou que vous ne fussiez 
 que d’en offenser un seul! Est-ce réellement ce qu’Il a voulu dire? Pourrait-Il mentir? Est-ce que ce
 sont les apôtres qui l’ont dit? Non! C’est Jésus qui l’a dit! Jésus a dit: “Il suffit que vous en
 offensiez un, un de ces petits qui croient en Moi”. “Voici les miracles qui accompagneront ceux qui
-auront cru”.
+ont cru”.
 258 Quelque grand personnage dira: «Je crois en Lui! Alléluia!».
 259 — «Vous est-il déjà arrivé de parler en langues, d’interpréter, de chasser les démons, d’avoir
 des visions, etc. selon ce qu’Il a promis?».
@@ -1583,7 +1215,7 @@ vêtus de blanc, ce sont des sacrificateurs, des juges, des prophètes, etc. Les
 étaient vêtus de blanc. Il y aura vingt-quatre anciens. Il y en aura douze pour les douze tribus
 d’Israël et les douze apôtres pour l’Eglise.
 308 Ils se tiennent dans les parvis du grand Roi. Rappelez-vous que ceux-là se tiennent à
-l’extérieur; mais ici, nous voyons que l’Epouse et Christ sont assis sur Son trône; Son Epouse
+extérieur; mais ici, nous voyons que l’Epouse et Christ sont assis sur Son trône; Son Epouse
 (c’est l’Eglise) est assise à côté de Lui. Les cent quarante-quatre mille eunuques du temple Le
 servent. Quand Il Se lève, Son Epouse va avec Lui. Oh! durant cet âge glorieux qui vient, quand
 tout ce péché et toute apparence de péché seront…
@@ -1648,8 +1280,6 @@ détours pour entrer. Meda m’avait demandé: «Sont-ils venus pour t’entendr
         Pour chercher ceux qui sont sans péché!
         Cela vous apporterait-il de la joie,
 
-    http://www.cmpp.ch
-
 LA REVELATION DE JESUS-CHRIST — LES VINGT-QUATRE ANCIENS                                              31
         Ou un profond désespoir?
         Quand le Seigneur viendra dans la gloire,
@@ -1662,7 +1292,7 @@ autre fois.
 pense à ce glorieux enlèvement! Ceux à qui j’ai prêché en Afrique, en Inde, tout autour du monde,
 je reverrai leurs visages! Beaucoup pleuraient en se rendant à l’aéroport; ils s’accrochaient aux
 barrières, criant et pleurant. Je pense à ceux qui accompagnèrent Paul autrefois: ils s’étaient mis à
-genoux et priaient. Paul leur disait: “Je suis sûr que beaucoup parmi vous ne reverront jamais mon
+agenoux et priaient. Paul leur disait: “Je suis sûr que beaucoup parmi vous ne reverront jamais mon
 visage”.
         Ils viendront de l’est et de l’ouest,
         Ils viendront des contrées lointaines,
@@ -1730,10 +1360,6 @@ jour vous puissiez Le voir et L’aimer, et vivre avec Lui pour toujours. C’es
 vous ne soit perdu, que chacun de vous soit sauvé et rempli du Saint-Esprit et gardé jusqu’au jour
 de Sa venue, parce que je crois que cette heure est proche.
     Maintenant, je laisse la place à frère Neville.
-
-
-
-
 
 
 

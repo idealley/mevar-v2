@@ -1,202 +1,106 @@
-    SERIE 5, N° 3
+---
+source: "cmpp"
+sermon_id: "serie5no3"
+title: "Arrive-t-il à Dieu de changer Sa pensée au sujet de Sa Parole?"
+subtitle: "21 février 1965, après-midi / 18 avril 1965, soir"
+date: "1965-04-18"
+year: 1965
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur l'élection divine et la sécurité éternelle des croyants scellés par le Saint-Esprit. Il utilise l'histoire de Balaam pour montrer que Dieu ne change jamais Sa pensée au sujet de Sa Parole, et compare l'Israël de l'Ancien Testament à l'Épouse du Nouveau Testament. Il ordonne plusieurs pasteurs par l'imposition des mains."
+tags:
+  - "élection"
+  - "sceau du Saint-Esprit"
+  - "sécurité éternelle"
+  - "Balaam"
+  - "organisation ecclésiastique"
+persons:
+  - "William Branham"
+  - "Balaam"
+  - "Moïse"
+  - "Caïn"
+  - "Abel"
+  - "Noé"
+  - "Timothée"
+  - "Esaïe"
+  - "Ozias"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Tucson"
+  - "Moab"
+  - "Egypte"
+  - "Canaan"
+themes:
+  - "élection divine"
+  - "sécurité éternelle"
+  - "Parole de Dieu immuable"
+  - "opposition entre spirituel et charnel"
+  - "organisation ecclésiastique vs. guidance de l'Esprit"
+pdf_url: "http://cmpp.ch/serie5no3.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17"
+  - "Luc 17"
+  - "Malachie 4"
+  - "Matthieu 28"
+---
+SERIE 5, N° 3
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
+WILLIAM MARRION BRANHAM
 
-    WILLIAM MARRION BRANHAM
-
-
-
-
- ARRIVE-T-IL A DIEU DE CHANGER
-SA PENSEE AU SUJET DE SA PAROLE?
-  (Does God ever change His mind about His Word?)
-
-
-
-
-
-      21 février 1965, après-midi
-Parkview-Junior, High School Auditorium
-    Jeffersonville — Indiana, U.S.A.
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?    2
-
-    ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?
+ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?
 (Does God ever change His mind about His Word?)
 
-              18 avril 1965, soir
-               Branham tabernacle
-        Jeffersonville — Indiana, U.S.A.
+21 février 1965, après-midi
+Parkview-Junior, High School Auditorium
+Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?
+
+18 avril 1965, soir
+Branham tabernacle
+Jeffersonville — Indiana, U.S.A.
 
 Inclinons nos têtes.
-1 Bien-aimé Seigneur Jésus, nous sommes de nouveau assemblés en Ton Nom, et nous nous
-trouvons dans la grande attente du déversement de la puissance vivifiante de Dieu qui nous
-amène à la reconnaissance de notre position, de notre place ainsi que de notre responsabilité en
-tant que peuple appelé, séparé du monde et dédié à Dieu. Seigneur, permets ce soir que les
-bénédictions de Dieu nous guident et nous dirigent dans les choses que nous faisons et que nous
-disons afin que cela puisse apporter honneur et gloire à Ton Nom. Amen.
-2 Je suis heureux d’être de retour dans cette église ce soir et d’être avec vous, chers amis. Je
-sais qu’il fait chaud, mais je viens de téléphoner à ma femme; je crois que là-bas il fait quelque
-chose comme 32 ou 35 degré; il fait donc encore plus chaud qu’ici. C’est pourquoi je commence à
-m’habituer à la chaleur maintenant. Mais je suis tellement content d’être ici au Tabernacle pour
-cette merveilleuse période de Pâques.
-3 Je n’irais pas jusqu’à dire que je m’excuse pour ce très long message de ce matin; je n’avais
-pas l’intention de mettre votre patience à bout et de vous faire revenir ce soir. Mais je voulais vous
-apporter ce message qui dit que vous êtes une partie de cette résurrection. Vous voyez? Ne vous
-faites plus de souci à ce sujet (vous voyez?) réjouissez-vous simplement de cela. Rien, nulle part,
-ne peut vous séparer de cela, rien; vous avez la sécurité éternelle dans le royaume de Dieu.
-Lorsque Dieu a apposé Son Sceau sur vous, vous êtes parvenu à la fin de votre destination.
-4 Lorsque le gouvernement appose un sceau sur un paquet, ou que les chemins de fer
-apposent un sceau sur la porte, personne ne peut toucher à cette porte jusqu’à ce que le wagon
-soit parvenu à sa destination. Lorsque Dieu appose Son Sceau sur un homme (et ce Sceau est le
-Saint-Esprit), lorsqu’Il scelle un homme comme cela, cet homme est parti pour sa
-destination éternelle. Il ne peut plus jamais, jamais revenir en arrière; car souvenez-vous
-qu’Ephésiens 4.30 dit: “N’attristez pas le Saint-Esprit de Dieu, par lequel vous avez été scellés
-pour toujours”. Vous voyez? Vous êtes scellés pour toujours; vous êtes scellés éternellement dans
-le Royaume de Dieu par le Saint-Esprit. Maintenant pensez à cela!
-5 Le diable va se mettre à vous frapper; il va dire toutes sortes de choses sur vous et vous
-accusera. Il essaiera de vous faire croire que vous n’êtes pas scellés, mais ne l’écoutez pas.
-6 Maintenant, vous savez que vous êtes passés de la mort à la Vie. Vous savez que les choses
-que vous avez aimées dans le passé, vous ne les aimez plus. Vous savez que vous avez cru
-chaque Parole de Dieu. Vous avez vu Dieu oeuvrer exactement au milieu de nous, prouvant de
-manière infaillible qu’Il est le grand JE SUIS. Vous avez remarqué que tout ce qui a été dit en Son
-Nom, tout ce qui a été prophétisé en Son Nom est toujours arrivé exactement de la manière
-prévue, et même la science, les journaux, les photographies, les caméras, les écrivains, tout a dû
-le reconnaître. Vous voyez? Peu importe qu’ils le voulaient ou non, Dieu a fait en sorte qu’ils
-reconnaissent cela de toute façon.
-7 Maintenant, comme nous sommes un petit groupe… Souvenez-vous que ce n’est pas pour
-un grand groupe qu’Il est venu: “Ne crains pas, petit troupeau; c’est le bon vouloir de ton
-Père…”. Vous voyez?
-8 Juste avant que nous ne procédions à l’ordination d’un pasteur, j’ai quelque chose à vous dire
-qui va vous choquer. C’est vraiment très choquant, mais vous devez le savoir. Maintenant, je ne
-veux pas dire que le nombre soit exact, mais j’aimerais vous le faire savoir.
+1 Bien-aimé Seigneur Jésus, nous sommes de nouveau assemblés en Ton Nom, et nous nous trouvons dans la grande attente du déversement de la puissance vivifiante de Dieu qui nous amène à la reconnaissance de notre position, de notre place ainsi que de notre responsabilité en tant que peuple appelé, séparé du monde et dédié à Dieu. Seigneur, permets ce soir que les bénédictions de Dieu nous guident et nous dirigent dans les choses que nous faisons et que nous disons afin que cela puisse apporter honneur et gloire à Ton Nom. Amen.
+2 Je suis heureux d’être de retour dans cette église ce soir et d’être avec vous, chers amis. Je sais qu’il fait chaud, mais je viens de téléphoner à ma femme; je crois que là-bas il fait quelque chose comme 32 ou 35 degré; il fait donc encore plus chaud qu’ici. C’est pourquoi je commence à m’habituer à la chaleur maintenant. Mais je suis tellement content d’être ici au Tabernacle pour cette merveilleuse période de Pâques.
+3 Je n’irais pas jusqu’à dire que je m’excuse pour ce très long message de ce matin; je n’avais pas l’intention de mettre votre patience à bout et de vous faire revenir ce soir. Mais je voulais vous apporter ce message qui dit que vous êtes une partie de cette résurrection. Vous voyez? Ne vous faites plus de souci à ce sujet (vous voyez?) réjouissez-vous simplement de cela. Rien, nulle part, ne peut vous séparer de cela, rien; vous avez la sécurité éternelle dans le royaume de Dieu. Lorsque Dieu a apposé Son Sceau sur vous, vous êtes parvenu à la fin de votre destination.
+4 Lorsque le gouvernement appose un sceau sur un paquet, ou que les chemins de fer apposent un sceau sur la porte, personne ne peut toucher à cette porte jusqu’à ce que le wagon soit parvenu à sa destination. Lorsque Dieu appose Son Sceau sur un homme (et ce Sceau est le Saint-Esprit), lorsqu’Il scelle un homme comme cela, cet homme est parti pour sa destination éternelle. Il ne peut plus jamais, jamais revenir en arrière; car souvenez-vous qu’Ephésiens 4.30 dit: “N’attristez pas le Saint-Esprit de Dieu, par lequel vous avez été scellés pour toujours”. Vous voyez? Vous êtes scellés pour toujours; vous êtes scellés éternellement dans le Royaume de Dieu par le Saint-Esprit. Maintenant pensez à cela!
+5 Le diable va se mettre à vous frapper; il va dire toutes sortes de choses sur vous et vous accusera. Il essaiera de vous faire croire que vous n’êtes pas scellés, mais ne l’écoutez pas.
+6 Maintenant, vous savez que vous êtes passés de la mort à la Vie. Vous savez que les choses que vous avez aimées dans le passé, vous ne les aimez plus. Vous savez que vous avez cru chaque Parole de Dieu. Vous avez vu Dieu oeuvrer exactement au milieu de nous, prouvant de manière infaillible qu’Il est le grand JE SUIS. Vous avez remarqué que tout ce qui a été dit en Son Nom, tout ce qui a été prophétisé en Son Nom est toujours arrivé exactement de la manière prévue, et même la science, les journaux, les photographies, les caméras, les écrivains, tout a dû le reconnaître. Vous voyez? Peu importe qu’ils le voulaient ou non, Dieu a fait en sorte qu’ils reconnaissent cela de toute façon.
+7 Maintenant, comme nous sommes un petit groupe… Souvenez-vous que ce n’est pas pour un grand groupe qu’Il est venu: “Ne crains pas, petit troupeau; c’est le bon vouloir de ton Père…”. Vous voyez?
+8 Juste avant que nous ne procédions à l’ordination d’un pasteur, j’ai quelque chose à vous dire qui va vous choquer. C’est vraiment très choquant, mais vous devez le savoir. Maintenant, je ne veux pas dire que le nombre soit exact, mais j’aimerais vous le faire savoir.
 
-        http://www.cmpp.ch
+9 Je ne sais pas si parmi vous il s’en trouve qui se sont occupés de l’hybridation du bétail (ce que je n’approuve pas), mais j’ai observé comment cela se pratiquait. Et je les ai vus prendre le sperme du mâle, ils en prenaient juste ce qui pouvait être prélevé à l’aide d’une pièce de métal de la grandeur d’un cure-dent puis le déposaient sur un morceau de marbre; ils manipulaient ensuite ces verres grossissants je ne sais combien de fois jusqu’à ce que ce sperme… Vous ne pouviez rien voir à l’oeil nu ni avec n’importe quel verre ordinaire, mais lorsque c’est grossi cent ou cent cinquante fois, vous pouvez voir dans cette petite goutte de sperme peut-être cinquante ou cent petits germes en train de rebondir. Et la femelle porte autant d’oeufs que le sperme de germes. Et lorsqu’on les assemble… Maintenant, ce sont les deux premiers qui se rencontrent et sont connectés qui…
+10 Il y en a seulement un sur un million qui va vivre. Aviez-vous jamais pensé à cela? Ce sont les mêmes germes et les mêmes oeufs; ils sont absolument semblables mais il y en a un seul qui va vivre. Et ce n’est pas celui qui arrive le premier qui sera déterminant car c’est parfois l’oeuf qui se trouve tout en arrière et le germe qui est peut-être au milieu du sperme qui vont ramper l’un sur l’autre. Il faut qu’il y ait une Intelligence qui sache si ce sera un garçon ou une fille, s’il aura les cheveux roux, noirs ou autres. C’est l’élection de Dieu; cela ne peut rien être d’autre. L’Election!
+11 Même la naissance naturelle est élection, le fait que ce soit un garçon ou une fille et comment il sera. Et lorsque ce petit germe se met à frétiller dans ce petit oeuf et que la petite queue se met à tomber, c’est le début de la colonne vertébrale du bébé ou de l’animal, de ce que ce sera ensuite. Sur un million de germes et un million d’oeufs, un seul va vivre. Ce sont tous les mêmes, mais Dieu choisit par élection ce qui va vivre, et le reste périra. Un sur un million!
+12 Lorsqu’Israël partit d’Egypte, ils croyaient tous au message d’un prophète. Ils avaient vu les signes de Dieu accomplis pas Moïse, chacun d’eux les avait vus. Et chacun d’eux était sorti d’Egypte et avait marché au travers de la Mer Rouge et avait été baptisé par Moïse. Chacun d’eux avait vu la Puissance de Dieu le frapper alors qu’il chantait dans l’Esprit et que Myriam battait le tambourin en dansant le long du rivage. Chacun d’eux avait mangé tous les jours de la manne céleste fraîchement descendue du ciel. Chacun d’eux avait bu à ce Rocher spirituel qui avait été frappé. Et il y eut deux millions de gens qui partirent d’Egypte. Combien atteignirent la terre promise? Deux sur deux millions. Où se trouvaient les autres? Jésus dit qu’ils périrent. “Vos pères ont mangé la manne dans le désert pendant trente ans, et je vous dis qu’ils sont tous morts”.
+13 Il y a maintenant ce soir environ cinq cents millions de chrétiens dans le monde, en comptant les catholiques, les protestants et tous les autres. Si Jésus devait venir pour cet enlèvement selon ce que je viens de dire, il y en aurait ce soir cinq cents qui seraient enlevés dans le monde. Et probablement que chaque jour il en disparaît autant sans qu’il en soit fait mention. Ainsi cela pourrait arriver à n’importe quel moment. Vous voyez?
+14 Oh, Chrétiens, revêtons l’armure de Dieu. Faisons tout notre possible pour Le servir, L’aimer et soyons dans l’attente de ce grand moment.
+15 Il n’y en aura pas des millions ni des multitudes qui sortiront de cette génération pour se mettre en marche. Cela ne se peut pas. Maintenant souvenez-vous que chaque jour termine une génération. “Comme il en fut aux jours de Noé où huit âmes furent sauvées par l’eau, ainsi en sera-t-il lors de la venue du Fils de l’homme”. Mais chaque jour est la fin d’une période de quarante ans pour quelqu’un. Vous voyez? Et cela fait autant de jours qui sont scellés dans le Royaume. Et un jour, le dernier jour viendra. Soyons maintenant sûrs, tandis que nous sommes en possession de tout notre esprit, tandis que nous nous trouvons dans l’église, au milieu de gens parmi lesquels le Saint-Esprit s’est identifié Lui-même, soyons sûrs que tout est en ordre et que tout ce qui est devant nous reste en ordre.
+16 Ne vous arrêtez pas; ne vous reposez ni jour ni nuit jusqu’à ce que cette puissance vivifiante vous ait fait sortir des choses de ce monde pour vous faire entrer dans le Royaume de Dieu. Et vous qui êtes véritablement amenés dans le Royaume de Dieu et ravivés pas l’Esprit de Dieu, combien vous devriez être heureux; jour et nuit, nous devrions être à genoux, versant des larmes de joie et remerciant Dieu pour ce qu’Il a fait.
 
-ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 3
-9 Je ne sais pas si parmi vous il s’en trouve qui se sont occupés de l’hybridation du bétail (ce
-que je n’approuve pas), mais j’ai observé comment cela se pratiquait. Et je les ai vus prendre le
-sperme du mâle, ils en prenaient juste ce qui pouvait être prélevé à l’aide d’une pièce de métal de
-la grandeur d’un cure-dent puis le déposaient sur un morceau de marbre; ils manipulaient ensuite
-ces verres grossissants je ne sais combien de fois jusqu’à ce que ce sperme… Vous ne pouviez
-rien voir à l’oeil nu ni avec n’importe quel verre ordinaire, mais lorsque c’est grossi cent ou cent
-cinquante fois, vous pouvez voir dans cette petite goutte de sperme peut-être cinquante ou cent
-petits germes en train de rebondir. Et la femelle porte autant d’oeufs que le sperme de germes. Et
-lorsqu’on les assemble… Maintenant, ce sont les deux premiers qui se rencontrent et sont
-connectés qui…
-10 Il y en a seulement un sur un million qui va vivre. Aviez-vous jamais pensé à cela? Ce sont
-les mêmes germes et les mêmes oeufs; ils sont absolument semblables mais il y en a un seul qui
-va vivre. Et ce n’est pas celui qui arrive le premier qui sera déterminant car c’est parfois l’oeuf qui
-se trouve tout en arrière et le germe qui est peut-être au milieu du sperme qui vont ramper l’un sur
-l’autre. Il faut qu’il y ait une Intelligence qui sache si ce sera un garçon ou une fille, s’il aura les
-cheveux roux, noirs ou autres. C’est l’élection de Dieu; cela ne peut rien être d’autre.
-L’Election!
-11 Même la naissance naturelle est élection, le fait que ce soit un garçon ou une fille et comment
-il sera. Et lorsque ce petit germe se met à frétiller dans ce petit oeuf et que la petite queue se met
-à tomber, c’est le début de la colonne vertébrale du bébé ou de l’animal, de ce que ce sera
-ensuite. Sur un million de germes et un million d’oeufs, un seul va vivre. Ce sont tous les
-mêmes, mais Dieu choisit par élection ce qui va vivre, et le reste périra. Un sur un million!
-12 Lorsqu’Israël partit d’Egypte, ils croyaient tous au message d’un prophète. Ils avaient vu les
-signes de Dieu accomplis pas Moïse, chacun d’eux les avait vus. Et chacun d’eux était sorti
-d’Egypte et avait marché au travers de la Mer Rouge et avait été baptisé par Moïse. Chacun d’eux
-avait vu la Puissance de Dieu le frapper alors qu’il chantait dans l’Esprit et que Myriam battait le
-tambourin en dansant le long du rivage. Chacun d’eux avait mangé tous les jours de la manne
-céleste fraîchement descendue du ciel. Chacun d’eux avait bu à ce Rocher spirituel qui avait été
-frappé. Et il y eut deux millions de gens qui partirent d’Egypte. Combien atteignirent la terre
-promise? Deux sur deux millions. Où se trouvaient les autres? Jésus dit qu’ils périrent. “Vos pères
-ont mangé la manne dans le désert pendant trente ans, et je vous dis qu’ils sont tous morts”.
-13 Il y a maintenant ce soir environ cinq cents millions de chrétiens dans le monde, en comptant
-les catholiques, les protestants et tous les autres. Si Jésus devait venir pour cet enlèvement selon
-ce que je viens de dire, il y en aurait ce soir cinq cents qui seraient enlevés dans le monde. Et
-probablement que chaque jour il en disparaît autant sans qu’il en soit fait mention. Ainsi cela
-pourrait arriver à n’importe quel moment. Vous voyez?
-14 Oh, Chrétiens, revêtons l’armure de Dieu. Faisons tout notre possible pour Le servir, L’aimer
-et soyons dans l’attente de ce grand moment.
-15 Il n’y en aura pas des millions ni des multitudes qui sortiront de cette génération pour se
-mettre en marche. Cela ne se peut pas. Maintenant souvenez-vous que chaque jour termine une
-génération. “Comme il en fut aux jours de Noé où huit âmes furent sauvées par l’eau, ainsi en
-sera-t-il lors de la venue du Fils de l’homme”. Mais chaque jour est la fin d’une période de
-quarante ans pour quelqu’un. Vous voyez? Et cela fait autant de jours qui sont scellés dans le
-Royaume. Et un jour, le dernier jour viendra. Soyons maintenant sûrs, tandis que nous sommes
-en possession de tout notre esprit, tandis que nous nous trouvons dans l’église, au milieu de gens
-parmi lesquels le Saint-Esprit s’est identifié Lui-même, soyons sûrs que tout est en ordre et que
-tout ce qui est devant nous reste en ordre.
-16 Ne vous arrêtez pas; ne vous reposez ni jour ni nuit jusqu’à ce que cette puissance
-vivifiante vous ait fait sortir des choses de ce monde pour vous faire entrer dans le
-Royaume de Dieu. Et vous qui êtes véritablement amenés dans le Royaume de Dieu et ravivés
-pas l’Esprit de Dieu, combien vous devriez être heureux; jour et nuit, nous devrions être à genoux,
-versant des larmes de joie et remerciant Dieu pour ce qu’Il a fait.
+17 Ce soir nous avons un petit changement dans le service. Nous avons ici un frère très bien, frère Capps. Il nous vient de l’église Nazaréenne, et je pense que c’est très bien, frère Capps. Il aimerait que nous l’ordonnions ce soir en lui imposant les mains.
+18 Nous n’avons aucun papier que nous puissions donner à qui que ce soit, mais nous sommes reconnus comme… Nous pourrions avoir des papiers mais nous croyons qu’un pasteur véritablement ordonné possède ses papiers au ciel. Vous voyez? Et tant que Dieu reconnaît que sa vie est en accord avec la Bible, il a le droit de prêcher la Bible. Nous croyons que c’est cela son credo.
+19 Maintenant frère Capps a été officiellement ordonné dans l’église Nazaréenne, mais ce soir il veut que les anciens lui imposent les mains afin d’être ordonné pour porter ce Message. Quelle belle chose!
+20 Depuis que je suis allé à Tucson, j’ai entendu les rapports qui ont été faits au sujet de frère Capps (et ce sont de merveilleux rapports) concernant l’aide qu’il a apportée à notre bien-aimé frère Neville, et tous deux portent le chandelier de la Lumière aussi vaillamment que deux hommes peuvent le faire. Nous avons imposé les mains à frère Neville mais pas à frère Capps. Et j’aimerais que tous ceux qui sont pasteurs, frère Jackson, frère Ruddel et les autres, s’ils sont ici, ainsi que les anciens de l’église viennent ici quelques minutes et imposent les mains à frère Capps.
+21 Nous découvrons dans la Bible que c’est ainsi qu’ils agissaient; ils leur imposaient les mains puis les mettaient à part parmi eux. C’est ainsi qu’ils ont agi avec Timothée: “Par ce don qui était en toi depuis ta grand-mère Loïs”. Ils avaient remarqué qu’il y avait en cet homme un don qui lui était venu par l’imposition des mains des anciens.
+22 Maintenant les frères de “La pluie des derniers jours” ont mélangé tout cela. Ils pensaient que c’étaient les anciens qui lui avaient fait un don. Non, le don était déjà en lui et ils lui imposèrent les mains uniquement comme signe qu’ils croyaient que Dieu avait déjà mis ce don en lui; ils le confirmèrent en lui imposant les mains.
+23 Et je crois que ces hommes ici dans l’église possèdent en leur âme cette puissance vivifiante. Si vous voulez bien monter ici, frère Ruddell et tous les autres qui sont ici dans l’église, ainsi que les anciens d’ici et des église-soeurs là autour pour imposer les mains à frère Capps afin qu’il soit ordonné par votre confirmation devant l’auditoire et qu’il puisse être envoyé pour prêcher l’Evangile du Seigneur Jésus partout où Dieu l’appellera. Il est déjà un des nôtres par naissance. Il est un des nôtres parce qu’il prend position pour la Vérité de la Parole. Et nous voulons que frère Capps soit officiellement ordonné devant vous par l’imposition des mains afin d’être l’un de nous. [Frère Branham donne des instructions aux pasteurs — N.d.R.]
+     Que ceux qui connaissent frère Capps lèvent la main. Très bien, vous pouvez baisser la main. Combien croient qu’il est un serviteur de Dieu? Levez la main. Nous l’aimons comme notre frère.
+24 Maintenant ceci n’est pas exactement la manière correcte d’agir pour ce que nous appelons une ordination, mais je veux que cet auditoire… Je ne sais pas chanter ce chant mais j’aimerais que vous essayiez de m’aider.
+25 Un jour dans le temple, un prophète descendit à l’autel. C’était un homme bon, mais il s’était simplement appuyé sur le bras du roi Ozias. C’était un homme bon, et pourtant un jour qu’il était dans le temple, il eut une vision et vit quelque chose qu’il n’avait jamais vu auparavant. Il vit des Anges avec des ailes qui volaient d’avant en arrière de l’édifice en criant: “Saint, Saint, Saint est le Seigneur Dieu, le Tout-puissant”. (Venez, frère…) “Saint, Saint, Saint est le Seigneur, le Dieu Tout-puissant!”. [Frère Branham parle à frère Ben — N.d.R.]
+26 Et après qu’il eut fait cela, les fondements du Temple furent ébranlés et il dit: “Maudit suis-je car je suis un homme aux lèvres impures”. En présence de Dieu, il reconnut que bien qu’il fût un prophète il n’était pas juste. Il dit: “Je suis un homme aux lèvres impures et j’habite au milieu d’un peuple aux lèvres impures”.
+27 Et l’un des anges s’envola et prit un charbon ardent, lui toucha les lèvres et dit: “Prophétise, fils d’homme”.
 
-        http://www.cmpp.ch
-
-ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 4
-17 Ce soir nous avons un petit changement dans le service. Nous avons ici un frère très bien,
-frère Capps. Il nous vient de l’église Nazaréenne, et je pense que c’est très bien, frère Capps. Il
-aimerait que nous l’ordonnions ce soir en lui imposant les mains.
-18 Nous n’avons aucun papier que nous puissions donner à qui que ce soit, mais nous sommes
-reconnus comme… Nous pourrions avoir des papiers mais nous croyons qu’un pasteur
-véritablement ordonné possède ses papiers au ciel. Vous voyez? Et tant que Dieu reconnaît que
-sa vie est en accord avec la Bible, il a le droit de prêcher la Bible. Nous croyons que c’est cela son
-credo.
-19 Maintenant frère Capps a été officiellement ordonné dans l’église Nazaréenne, mais ce soir il
-veut que les anciens lui imposent les mains afin d’être ordonné pour porter ce Message. Quelle
-belle chose!
-20 Depuis que je suis allé à Tucson, j’ai entendu les rapports qui ont été faits au sujet de frère
-Capps (et ce sont de merveilleux rapports) concernant l’aide qu’il a apportée à notre bien-aimé
-frère Neville, et tous deux portent le chandelier de la Lumière aussi vaillamment que deux
-hommes peuvent le faire. Nous avons imposé les mains à frère Neville mais pas à frère Capps. Et
-j’aimerais que tous ceux qui sont pasteurs, frère Jackson, frère Ruddel et les autres, s’ils sont ici,
-ainsi que les anciens de l’église viennent ici quelques minutes et imposent les mains à frère
-Capps.
-21 Nous découvrons dans la Bible que c’est ainsi qu’ils agissaient; ils leur imposaient les mains
-puis les mettaient à part parmi eux. C’est ainsi qu’ils ont agi avec Timothée: “Par ce don qui était
-en toi depuis ta grand-mère Loïs”. Ils avaient remarqué qu’il y avait en cet homme un don qui lui
-était venu par l’imposition des mains des anciens.
-22 Maintenant les frères de “La pluie des derniers jours” ont mélangé tout cela. Ils pensaient que
-c’étaient les anciens qui lui avaient fait un don. Non, le don était déjà en lui et ils lui imposèrent les
-mains uniquement comme signe qu’ils croyaient que Dieu avait déjà mis ce don en lui; ils le
-confirmèrent en lui imposant les mains.
-23 Et je crois que ces hommes ici dans l’église possèdent en leur âme cette puissance vivifiante.
-Si vous voulez bien monter ici, frère Ruddell et tous les autres qui sont ici dans l’église, ainsi que
-les anciens d’ici et des église-soeurs là autour pour imposer les mains à frère Capps afin qu’il soit
-ordonné par votre confirmation devant l’auditoire et qu’il puisse être envoyé pour prêcher
-l’Evangile du Seigneur Jésus partout où Dieu l’appellera. Il est déjà un des nôtres par naissance. Il
-est un des nôtres parce qu’il prend position pour la Vérité de la Parole. Et nous voulons que frère
-Capps soit officiellement ordonné devant vous par l’imposition des mains afin d’être l’un de nous.
-[Frère Branham donne des instructions aux pasteurs — N.d.R.]
-     Que ceux qui connaissent frère Capps lèvent la main. Très bien, vous pouvez baisser la
-main. Combien croient qu’il est un serviteur de Dieu? Levez la main. Nous l’aimons comme notre
-frère.
-24 Maintenant ceci n’est pas exactement la manière correcte d’agir pour ce que nous appelons
-une ordination, mais je veux que cet auditoire… Je ne sais pas chanter ce chant mais j’aimerais
-que vous essayiez de m’aider.
-25 Un jour dans le temple, un prophète descendit à l’autel. C’était un homme bon, mais il s’était
-simplement appuyé sur le bras du roi Ozias. C’était un homme bon, et pourtant un jour qu’il était
-dans le temple, il eut une vision et vit quelque chose qu’il n’avait jamais vu auparavant. Il vit des
-Anges avec des ailes qui volaient d’avant en arrière de l’édifice en criant: “Saint, Saint, Saint est le
-Seigneur Dieu, le Tout-puissant”. (Venez, frère…) “Saint, Saint, Saint est le Seigneur, le Dieu
-Tout-puissant!”. [Frère Branham parle à frère Ben — N.d.R.]
-26 Et après qu’il eut fait cela, les fondements du Temple furent ébranlés et il dit: “Maudit suis-je
-car je suis un homme aux lèvres impures”. En présence de Dieu, il reconnut que bien qu’il fût un
-prophète il n’était pas juste. Il dit: “Je suis un homme aux lèvres impures et j’habite au milieu
-d’un peuple aux lèvres impures”.
-27 Et l’un des anges s’envola et prit un charbon ardent, lui toucha les lèvres et dit: “Prophétise,
-fils d’homme”.
-
-        http://www.cmpp.ch
-
-    ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?    5
-     Voudriez-vous nous donner un accord pour ce chant, soeur? Combien connaissent ce chant?
-Essayons un couplet. Très bien.
+     Voudriez-vous nous donner un accord pour ce chant, soeur? Combien connaissent ce chant? Essayons un couplet. Très bien.
         Lorsque le charbon ardent eut touché le prophète
         Le rendant pur, aussi pur que possible
         Lorsque la voix de Dieu eut dit: “Qui ira pour nous?”.
@@ -213,1088 +117,242 @@ Essayons un couplet. Très bien.
         Parle et je serai prompt à Te répondre.
         Parle, mon Seigneur, parle, mon Seigneur,
         Parle, et je Te répondrai: “Seigneur, envoie-moi”.
-     Que les anciens se placent tout autour maintenant et imposent les mains à frère Capps.
-Inclinons tous nos têtes.
-28 Dieu bien-aimé, les fondements du Temple ont de nouveau bougé. Et comme nous voyons
-que l’Esprit de cette Vie vivifiante oeuvre en notre frère, je Te prie, ô Dieu, tandis qu’il sent cette
-puissance d’En-haut, de… Nous lui imposons les mains en tant qu’anciens, Seigneur, et nous lui
-tendons la main d’association; nous lui imposons les mains et lui transmettons les bénédictions de
-Dieu afin que Tu oignes ses lèvres, sa pensée et son être entier. Puisse-t-il porter ce Message de
-l’Evangile jusque dans chaque fente et chaque recoin où Tu l’appelleras. Accorde-le, Seigneur.
-Nous Te donnons notre frère afin qu’il Te serve dans le Nom de Jésus-Christ. Amen.
-29 Prêche la Parole, mon jeune frère, en temps et hors de temps. Reprends et réprimande avec
-toute patience dans la doctrine. Que Dieu vous bénisse.
-30 [Frère Ben Bryant parle à frère Branham — N.d.R.] Frère Ben ici est venu à nous. Je crois
-que cela fait quelque temps qu’il prêche. Pourtant il n’a pas encore été officiellement ordonné (je
-croyais qu’il l’avait été et c’est pour cela que je lui avais demandé de monter) et on ne lui a pas
-imposé les mains ici.
-31 La femme de frère Ben se trouve quelque part ici et c’est une chère soeur. C’était une femme
-prédicateur. Et lorsque notre frère et elle se marièrent et qu’il l’amena ici au tabernacle, elle vit et
-entendit la Parole. C’est une gentille dame qui a de la personnalité, mais lorsqu’elle eut entendu
-qu’il était faux pour une femme de faire cela, elle laissa cette chose de côté et il semble que cela
-se soit reporté sur son mari. C’est correct; c’est apostolique. C’est ainsi que cela devrait se
-passer.
-32 Si j’ai bien compris, frère Ben et sa femme prennent les enregistrements sur bande. Ils vont
-dans les endroits reculés, là-bas dans les montagnes, les jungles et ils passent ces
-enregistrements et les commentent. Plusieurs fois on les a chassés, rejetés, mis dehors. Nous
-nous attendons à ces choses car tous ceux qui vivent pieusement en Jésus-Christ seront
-persécutés.
-33 Combien ici connaissent frère Ben? Combien croient qu’il est un serviteur de Dieu, qu’il est
-digne de cette bénédiction que nous demandons à Dieu de lui accorder? Vous voyez, ce n’est pas
-un étranger; cela fait des années et des années qu’il est avec nous. Je sais que c’est un homme
-humble. Comme moi, il fait beaucoup d’erreurs. Nous faisons tous cela. Mais ce que j’aime avec
-frère Ben, c’est qu’il est prêt à se jeter à genoux pour réparer ses erreurs. L’autre jour, il a entendu
-la prédication de Mariage et divorce. Lui et sa femme étaient prêts à se séparer, bien qu’il l’aime
-et elle aussi, parce qu’ils voulaient être en accord avec la Parole. Ce qu’ils veulent, c’est tout ce
-que dit la Parole. Je prie Dieu de bénir Ben et sa femme pour Son service. Imposons les mains à
-notre frère.
+     Que les anciens se placent tout autour maintenant et imposent les mains à frère Capps. Inclinons tous nos têtes.
+28 Dieu bien-aimé, les fondements du Temple ont de nouveau bougé. Et comme nous voyons que l’Esprit de cette Vie vivifiante oeuvre en notre frère, je Te prie, ô Dieu, tandis qu’il sent cette puissance d’En-haut, de… Nous lui imposons les mains en tant qu’anciens, Seigneur, et nous lui tendons la main d’association; nous lui imposons les mains et lui transmettons les bénédictions de Dieu afin que Tu oignes ses lèvres, sa pensée et son être entier. Puisse-t-il porter ce Message de l’Evangile jusque dans chaque fente et chaque recoin où Tu l’appelleras. Accorde-le, Seigneur. Nous Te donnons notre frère afin qu’il Te serve dans le Nom de Jésus-Christ. Amen.
+29 Prêche la Parole, mon jeune frère, en temps et hors de temps. Reprends et réprimande avec toute patience dans la doctrine. Que Dieu vous bénisse.
+30 [Frère Ben Bryant parle à frère Branham — N.d.R.] Frère Ben ici est venu à nous. Je crois que cela fait quelque temps qu’il prêche. Pourtant il n’a pas encore été officiellement ordonné (je croyais qu’il l’avait été et c’est pour cela que je lui avais demandé de monter) et on ne lui a pas imposé les mains ici.
+31 La femme de frère Ben se trouve quelque part ici et c’est une chère soeur. C’était une femme prédicateur. Et lorsque notre frère et elle se marièrent et qu’il l’amena ici au tabernacle, elle vit et entendit la Parole. C’est une gentille dame qui a de la personnalité, mais lorsqu’elle eut entendu qu’il était faux pour une femme de faire cela, elle laissa cette chose de côté et il semble que cela se soit reporté sur son mari. C’est correct; c’est apostolique. C’est ainsi que cela devrait se passer.
+32 Si j’ai bien compris, frère Ben et sa femme prennent les enregistrements sur bande. Ils vont dans les endroits reculés, là-bas dans les montagnes, les jungles et ils passent ces enregistrements et les commentent. Plusieurs fois on les a chassés, rejetés, mis dehors. Nous nous attendons à ces choses car tous ceux qui vivent pieusement en Jésus-Christ seront persécutés.
+33 Combien ici connaissent frère Ben? Combien croient qu’il est un serviteur de Dieu, qu’il est digne de cette bénédiction que nous demandons à Dieu de lui accorder? Vous voyez, ce n’est pas un étranger; cela fait des années et des années qu’il est avec nous. Je sais que c’est un homme humble. Comme moi, il fait beaucoup d’erreurs. Nous faisons tous cela. Mais ce que j’aime avec frère Ben, c’est qu’il est prêt à se jeter à genoux pour réparer ses erreurs. L’autre jour, il a entendu la prédication de Mariage et divorce. Lui et sa femme étaient prêts à se séparer, bien qu’il l’aime et elle aussi, parce qu’ils voulaient être en accord avec la Parole. Ce qu’ils veulent, c’est tout ce que dit la Parole. Je prie Dieu de bénir Ben et sa femme pour Son service. Imposons les mains à notre frère.
 
-
-    http://www.cmpp.ch
-
-ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 6
-34 Dieu bien-aimé, nous imposons les mains à notre frère Ben en signe que nous l’aimons et
-que nous croyons, Seigneur, qu’il désire accomplir une oeuvre pour Toi, qu’il veut être envoyé au
-loin avec ces enregistrements afin de les faire écouter à ces gens des montagnes, dans ces
-endroits reculés où beaucoup d’entre nous ne voudraient probablement jamais aller mais où
-pourtant le Message doit aller comme dans le monde entier. Nous Te prions de bénir notre frère,
-de lui donner Ton Esprit; puisse cet Esprit venir sur lui, le guider et le diriger lui et sa femme dans
-ces endroits où se trouve peut-être cette âme solitaire… Les portes ne pourront pas être fermées
-tant que cette brebis n’est pas entrée. Tu ne peux te satisfaire des quatre-vingt-dix-neuf; tous
-ceux dont le nom est inscrit dans le Livre doivent être amenés. Aide-les, Seigneur, tandis que
-nous lui imposons les mains, et que nous l’associons à nous comme étant notre frère. Et notre
-aide, notre prière, l’accompagnera; nous Te prions de le bénir, Seigneur, partout où il ira. Au Nom
-de Jésus. Amen. Que Dieu vous bénisse, frère Ben. Nous pouvons vous tendre la main
-d’association car nous sommes frères pasteurs. Que Dieu vous bénisse.
-35 John Martin Earl. Combien connaissent Earl Martin? Combien croient qu’il est un serviteur de
-Christ? Je crois qu’il nous vient d’un groupe pentecôtiste et je crois que maintenant il travaille en
-tant que pasteur indépendant.
-36 Je sais que Earl est un véritable serviteur de Christ. Il y a une chose qu’il a faite que je
-n’oublierai jamais; j’en ai oublié beaucoup mais celle-là, non. Je me souviens qu’un soir où je me
-trouvais à Dallas, ou plutôt à Beaumont dans le Texas (c’est juste, soeur) on l’a appelé. Son bébé
-était là en train de mourir; on pensait même qu’il était mort. Il ne respirait plus. Et Earl se mit à
-tourner en rond dans ma chambre comme n’importe quel père en baissant les épaules; je me
-trouvais au lit et il s’arrêta devant moi, se mit à tituber, mit ses bras autour de moi et dit: «Frère, je
-crois que tu es le prophète de Dieu. Je l’ai toujours cru. Si tu dis simplement un seul mot, bien que
-mon bébé soit mort, il vivra». Et son bébé revint à la vie et il est vivant.
-37 Croyez-vous qu’il est digne que ces croyants lui tendent la main d’association? Prions, frères,
-tandis que nous lui imposons les mains.
-38 Bien-aimé Père céleste, nous imposons de nouveau les mains sur notre frère Martin. Nous
-l’envoyons dans les contrées les plus éloignées où Tu as ordonné qu’il aille, où que ce soit,
-qu’elles soient nombreuses ou en petit nombre, que ce soit sur les routes secondaires ou
-principales, le long des haies, ou n’importe où, Seigneur. Puissent Tes bénédictions être avec lui.
-Nous lui imposons les mains tandis que nous appelons sur lui Ton aide et que nous lui donnons
-nos bénédictions; que l’Esprit qui est sur nous, Seigneur, puisse l’accompagner, le guider et le
-diriger vers les âmes perdues le long des haies ou sur les routes principales. Nous l’envoyons
-dans le nom de Jésus-Christ. Amen. Que Dieu vous bénisse, frère Martin. Allez, maintenant et
-que le Seigneur soit avec vous.
-39 Votre nom est Richard. Combien connaissent Richard Blair? Combien croient qu’il est un
-serviteur de Dieu? Il vient du groupe de l’Eglise unifiée de Pentecôte. Je me souviens du temps où
-frère Blair ne voulait pas me croire car un esprit agissait en lui et lui disait que j’étais un faux
-prophète. Et un jour alors qu’il était présent dans la réunion, le Saint-Esprit se mit à tourner et
-l’appela. Il était sur le point d’avoir une crise de nerfs et c’est ce qui l’avait mis dans cet état. Et je
-me souviens que sa femme, qui est très aimable, m’appela un jour et me dit: «Frère Branham, je
-crois que Richard va mourir». Je crois qu’elle portait une écharpe. Elle alla vers lui et posa cette
-écharpe sur lui, comme je le lui avais demandé, et pria. Il est ici maintenant.
-40 Son petit bébé, ou plutôt son petit garçon, avait eu un accident et il n’y avait pas beaucoup
-d’espoir pour lui car il avait eu une commotion cérébrale. Mais par la prière, simplement au travers
-du téléphone, l’enfant fut guéri. Croyez-vous que frère Blair est un véritable témoin de Christ?
-Priez pour que vos bénédictions l’accompagnent. Frères, imposez-lui les mains.
-41 Dieu bien-aimé, nous Te prions de confirmer notre bon et noble frère, Ton serviteur, qui est
-sorti de son propre groupe pour marcher dans la Lumière. Père, nous Te prions de bénir notre
-frère Blair tandis que nous l’envoyons avec nos bénédictions et notre approbation partout où Tu
-pourras l’appeler, Seigneur pour quelque travail que ce soit. Puisse Ton Esprit aller avec frère
-Blair. Guide-le et dirige-le vers ceux qui sont perdus et qui meurent dans ce monde, afin qu’il
-puisse aider à trouver cette brebis perdue et la ramener au bercail. Seigneur, nous Te demandons
-de le guider et de le diriger tout au long du voyage de sa vie, n’importe où que ce soit et pour toute
-
-        http://www.cmpp.ch
-
-ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 7
-chose que Tu as prévue pour lui. Nous sommes ses frères. En lui donnant la main d’association,
-nous Te demandons de l’accompagner dans le Nom de Jésus-Christ. Amen.
-    C’est la main d’association. Que Dieu vous bénisse, frère Blair. Nous sommes tous avec
-vous, nous prions pour vous et ferons tout ce que nous pourrons pour vous aider. Que Dieu vous
-bénisse.
-42 [Frère Branham parle à frère Anton — N.d.R.] Tout le monde connaît frère Merlin Anton? Il
-est nouveau pour moi. [Le frère parle de nouveau à frère Branham — N.d.R.] Oh, oui! Excusez-
-moi, frère. Vous venez de l’Armée du Salut. C’est juste. Je me souviens de vous. Bien sûr que je
-le connais. Son visage ne m’était pas familier en ce moment. Combien savent qu’il est un homme
-de Dieu? Combien savent que Dieu travaille avec lui? Levez la main. Voulez-vous prier pour lui?
-43 Maintenant, frère, nous savons que vous venez d’un important groupe de gens, vous venez
-de l’Armée du Salut; c’est un groupe important. L’Armée du Salut effectue un grand travail dans
-les rues. Nous ne pouvons rien dire contre les Nazaréens, l’Eglise de Pentecôte, l’Armée du Salut
-ou n’importe laquelle de ces églises; ils sont nos frères. Mais vous voyez, nous croyons que
-nous sommes porteurs d’un grand Message pour l’heure dans laquelle nous vivons.
-Voulez-vous faire cela avec nous? Inclinons nos têtes tandis que nous imposons les mains à notre
-frère.
-44 Bien-aimé Père céleste, Tu es Celui qui appelle; Tu es Celui qui vivifie la Parole afin que les
-gens puissent y croire. Et nous imposons les mains à notre précieux frère en confirmation de ce
-que nous croyons que Tu es avec lui et que Tu l’aideras. Nous lui donnons nos bénédictions.
-Nous croyons que nous sommes passés de la mort à la Vie et que nous détenons
-maintenant cette Puissance vivifiante dans nos coeurs. C’est par la grâce de Dieu que nous
-imposons les mains à notre frère et que nous lui donnons nos bénédictions afin que Tu le
-conduises, le guides et le diriges dans chaque crevasse de la terre où Tu lui auras ordonné d’aller,
-Seigneur. Puisse Ton Esprit aller avec lui et lui donner la santé, la force et le succès dans son
-ministère car nous l’envoyons au Nom de Jésus-Christ. Amen.
-45 Dieu vous bénisse, frère. C’est la main d’association. Vous, frères, serrez la main de ces
-frères. Très bien, que le Seigneur vous bénisse tous.
-46 [Un frère parle à frère Branham — N.d.R.] Quel est votre nom? Frère Correll. Frère Correll
-nous vient de Cincinnati. Tous ceux qui sont de Cincinnati connaissent frère Correll. Il dit qu’il
-faisait partie d’un groupe qui voulait ordonner des femmes pasteurs. Il n’a pas pu supporter cela et
-a dû se séparer d’eux. C’est exactement de la même manière que j’ai dû me séparer des
-Baptistes Missionnaires. Combien ont entendu parler de Dr. Roy E. Davis? Vous en avez
-sûrement entendu parler. Il voulait ordonner des femmes pasteurs et j’ai dit: «Non, monsieur. En
-tant qu’ancien je ne peux pas faire cela; c’est contre la Parole de Dieu».
-47 Frère Correll, je ne vous connais pas, mais sur la base de votre témoignage et d’après la
-vérité que vous défendez… Nous n’avons rien contre ces femmes; ce sont des soeurs. Nous les
-aimons mais nous croyons qu’elles ont leur place à laquelle elles doivent se tenir. Nous croyons
-qu’elles ont un mari auquel elles sont très chères, qu’elles lui sont une compagne. Nous pensons
-qu’elles sont le plus grand don que Dieu ait jamais donné à l’homme en dehors du salut. Mais
-selon la Parole de Dieu, elles n’ont aucune place à la chaire. Sur cette base et d’après votre
-foi en Dieu, nous vous imposons les mains comme à un compagnon qui marche avec nous.
-Imposons-lui les mains.
-48 Notre bien-aimé Père céleste, je sais ce que ce jeune homme doit ressentir d’avoir été mis
-dehors à cause de la Vérité. L’homme ne vivra pas de pain seulement mais de toute Parole. C’est
-pourquoi nous lui imposons maintenant les mains et plaçons sur lui nos bénédictions. Puisse Ton
-Esprit le conduire, le guider et le diriger tout au long du voyage de sa vie, partout où Tu l’enverras.
-Qu’il sache que nous prions pour lui et que tant qu’il luttera pour la Parole, nous le soutiendrons.
-Accorde-le, Seigneur. Nous l’envoyons dans le Nom de Jésus-Christ. Amen. Dieu vous bénisse,
-frère Correll. Nous avons imposé les mains sur différents frères et nous leur tendons à tous la
-main d’association.
-49 Frère Ruddell n’a jamais été officiellement ordonné ici à l’église. Combien connaissent frère
-Ruddell? Nous le connaissons tous. Combien savent qu’il est un homme de Dieu? Bien-aimé Père
-céleste, en tant qu’anciens, nous imposons les mains à ce frère qui a passé par des eaux
-
-        http://www.cmpp.ch
-
-ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 8
-profondes et boueuses. Il a assisté à la chute de sa congrégation. Il a vu tout ce qu’il est possible
-de voir. [Nous n’arrivons pas à distinguer la voix de frère Branham de celle d’un autre pasteur en
-train de prier — N.d.R.] Nous lui imposons les mains et lui transmettons nos bénédictions. Oins-le,
-Seigneur. Envoie-le jusque dans chaque crevasse de la terre. Envoie-le dans le Nom de Jésus-
-Christ. Amen.
-50 Frère Ruddell, vous avez toujours eu la main d’association. Je connais frère Ruddell. Il me
-semble que c’est mon propre fils. Cela fait si longtemps que nous nous connaissons, son père, sa
-mère et moi-même. Et je sais que frère Ruddell est un serviteur de Dieu. Nous servons Dieu
-ensemble. Dieu vous bénisse, frère Ruddell.
-51 Qui êtes-vous, frère? Quel est votre nom? Le connaissez-vous, frère Martin? [Le frère dit son
-nom — N.d.R.] Frère Mc Commas. Je pense que personne ici ne le connaît. Oui, cet homme ici,
-frère Tyler, le connaît. Et il vient ici afin qu’on lui impose les mains pour qu’il soit porteur de
-l’Evangile. Frère Mc Commas. D’où venez-vous, frère Mc Commas? De Rockford dans l’Illinois.
-[Le frère parle à frère Branham au sujet de la guérison de sa femme — N.d.R.] Oh, est-ce juste?
-De Tucson. Je me souviens très bien de cet appel maintenant. Loué soit le Seigneur! [Frère Martin
-parle à frère Branham — N.d.R.] Votre soeur. Elle se trouve ici maintenant; on a prié pour elle
-l’autre soir par téléphone depuis Tucson. Elle était paralysée. Cela faisait plusieurs nuits qu’elle
-était paralysée et maintenant elle est ici. Il n’est pas étonnant qu’il veuille prendre le message!
-Imposons les mains à notre frère.
-52 Dieu bien-aimé, nous les anciens, imposons les mains à Ton serviteur et lui donnons la main
-d’association; nous prions afin que les bénédictions de Dieu l’accompagnent [Ici, à l’arrière, on ne
-peut plus distinguer la voix de frère Branham de celle des autres — N.d.R.] Guide-le et dirige-le.
-Au Nom de Jésus-Christ. Amen. La main d’association, mon frère. Que Dieu soit avec vous.
-53 Oui, frère? Très bien. Je crois que c’est frère Darius. Cet homme est frère Darius. D’où
-venez-vous, frère? De Black Rock dans l’Arkansas. Je crois que frère Brewer ici a dit qu’il le
-connaissait. J’ai rencontré ce matin soeur Vayle, je crois, et frère Vayle et ceux qui le connaissent,
-et ils savent que c’est un homme de Dieu, un serviteur de Dieu. Merveilleux!
-54 Eh bien maintenant, mon cher frère, nous voulons que vous sachiez que nous vous
-soutiendrons et que nous ferons tout ce que nous pourrons afin que vous soyez un porteur du
-Message. Nous prierons pour vous afin que vous portiez aussi ce Message dans les lieux les plus
-reculés où Dieu vous ordonnera d’aller. Imposons les mains à notre frère Darius. Dieu bien-aimé,
-nous imposons les mains à notre frère en lui donnant la main d’association et nous l’envoyons
-dans le Nom de Jésus-Christ… [Il est impossible de distinguer la voix de frère Branham — N.d.R.]
-55 Je crois que c’est frère Anthony. Beaucoup parmi vous connaissent frère Anthony. Cela fait
-longtemps qu’il est avec nous. Je sais moi-même qu’il est un serviteur de Christ. Je crois que c’est
-un jeune homme consacré. On ne lui a jamais officiellement imposé les mains. Mes amis, il ne
-savait pas que cela viendrait. Vous voyez? Mais c’est aussi très bien maintenant. Nous allons
-donc imposer les mains à frère Anthony et lui donner la main d’association. C’est Dieu qui doit
-faire l’ordination. Il est juste qu’il sache cela et vous savez que nous aimons ce frère et que nous
-croyons qu’il est un d’entre nous dans le Message. Nous voulons qu’il ait les bénédictions de Dieu
-et c’est ce que nous demandons pour lui. Prions tandis que nous imposons les mains à notre
-frère.
-56 Dieu bien-aimé, cet humble petit Italien est un de Tes serviteurs, Seigneur, et il est venu ce
-soir pour qu’on lui impose les mains et que l’église lui tende officiellement la main d’association. [Il
-est impossible de distinguer les paroles de frère Branham — N.d.R.] …il veut lutter pour Toi,
-Seigneur, et Te servir tous les jours de sa vie. Puisses-Tu le diriger, le conduire; puissent nos
-bénédictions être avec lui tandis que nous l’envoyons. Au Nom de Jésus-Christ. Amen.
-57 Oh, je ne sais pas. Nous avons un relais par téléphone, deux francs la minute. Y-a-t-il
-quelqu’un d’autre qui voudrait?.. Approchez-vous, frères et dites votre nom, dites-le juste là au
-micro. Dites-leur simplement de… [Les hommes suivants disent leur nom: Pat Tyler, Claude
-Boggess, Dale Hargissy, James Humes, Earl Horner. — N.d.R.] Ce sont eux? Venez ici, frères.
-Croyez-vous que ce Message est la Vérité venant de Dieu? Le croyez-vous de tout votre coeur?
-Souhaitez-vous que nous vous imposions les mains? Nous voulons que vous sachiez que nous
-sommes avec vous et que nous ferons tout ce que nous pourrons pour vous aider. Et maintenant,
-
-        http://www.cmpp.ch
-
-    ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?    9
-je veux que vous montiez tous ici afin que je puisse vous imposer les mains; inclinons tous la tête
-tandis que nous leur imposons les mains. Dieu bien-aimé, voici un groupe d’hommes. J’impose les
-mains à chacun d’eux au Nom de Jésus-Christ. Et Toi qui les a appelés, puisses-Tu… [Il est
-impossible de distinguer la voix de frère Branham — N.d.R.] Nous leur donnons la main
-d’association et prions afin que Tes bénédictions soient avec eux, Seigneur. Puissent-ils oeuvrer
-pour Toi et Te servir.
-58 Que Dieu bénisse chacun de vous, frères. Dieu vous bénisse, Dieu vous bénisse, frère, Dieu
-vous bénisse, Dieu vous bénisse, frère… Que le Seigneur soit avec chacun de vous.
+34 Dieu bien-aimé, nous imposons les mains à notre frère Ben en signe que nous l’aimons et que nous croyons, Seigneur, qu’il désire accomplir une oeuvre pour Toi, qu’il veut être envoyé au loin avec ces enregistrements afin de les faire écouter à ces gens des montagnes, dans ces endroits reculés où beaucoup d’entre nous ne voudraient probablement jamais aller mais où pourtant le Message doit aller comme dans le monde entier. Nous Te prions de bénir notre frère, de lui donner Ton Esprit; puisse cet Esprit venir sur lui, le guider et le diriger lui et sa femme dans ces endroits où se trouve peut-être cette âme solitaire… Les portes ne pourront pas être fermées tant que cette brebis n’est pas entrée. Tu ne peux te satisfaire des quatre-vingt-dix-neuf; tous ceux dont le nom est inscrit dans le Livre doivent être amenés. Aide-les, Seigneur, tandis que nous lui imposons les mains, et que nous l’associons à nous comme étant notre frère. Et notre aide, notre prière, l’accompagnera; nous Te prions de le bénir, Seigneur, partout où il ira. Au Nom de Jésus. Amen. Que Dieu vous bénisse, frère Ben. Nous pouvons vous tendre la main d’association car nous sommes frères pasteurs. Que Dieu vous bénisse.
+35 John Martin Earl. Combien connaissent Earl Martin? Combien croient qu’il est un serviteur de Christ? Je crois qu’il nous vient d’un groupe pentecôtiste et je crois que maintenant il travaille en tant que pasteur indépendant.
+36 Je sais que Earl est un véritable serviteur de Christ. Il y a une chose qu’il a faite que je n’oublierai jamais; j’en ai oublié beaucoup mais celle-là, non. Je me souviens qu’un soir où je me trouvais à Dallas, ou plutôt à Beaumont dans le Texas (c’est juste, soeur) on l’a appelé. Son bébé était là en train de mourir; on pensait même qu’il était mort. Il ne respirait plus. Et Earl se mit à tourner en rond dans ma chambre comme n’importe quel père en baissant les épaules; je me trouvais au lit et il s’arrêta devant moi, se mit à tituber, mit ses bras autour de moi et dit: «Frère, je crois que tu es le prophète de Dieu. Je l’ai toujours cru. Si tu dis simplement un seul mot, bien que mon bébé soit mort, il vivra». Et son bébé revint à la vie et il est vivant.
+37 Croyez-vous qu’il est digne que ces croyants lui tendent la main d’association? Prions, frères, tandis que nous lui imposons les mains.
+38 Bien-aimé Père céleste, nous imposons de nouveau les mains sur notre frère Martin. Nous l’envoyons dans les contrées les plus éloignées où Tu as ordonné qu’il aille, où que ce soit, qu’elles soient nombreuses ou en petit nombre, que ce soit sur les routes secondaires ou principales, le long des haies, ou n’importe où, Seigneur. Puissent Tes bénédictions être avec lui. Nous lui imposons les mains tandis que nous appelons sur lui Ton aide et que nous lui donnons nos bénédictions; que l’Esprit qui est sur nous, Seigneur, puisse l’accompagner, le guider et le diriger vers les âmes perdues le long des haies ou sur les routes principales. Nous l’envoyons dans le nom de Jésus-Christ. Amen. Que Dieu vous bénisse, frère Martin. Allez, maintenant et que le Seigneur soit avec vous.
+39 Votre nom est Richard. Combien connaissent Richard Blair? Combien croient qu’il est un serviteur de Dieu? Il vient du groupe de l’Eglise unifiée de Pentecôte. Je me souviens du temps où frère Blair ne voulait pas me croire car un esprit agissait en lui et lui disait que j’étais un faux prophète. Et un jour alors qu’il était présent dans la réunion, le Saint-Esprit se mit à tourner et l’appela. Il était sur le point d’avoir une crise de nerfs et c’est ce qui l’avait mis dans cet état. Et je me souviens que sa femme, qui est très aimable, m’appela un jour et me dit: «Frère Branham, je crois que Richard va mourir». Je crois qu’elle portait une écharpe. Elle alla vers lui et posa cette écharpe sur lui, comme je le lui avais demandé, et pria. Il est ici maintenant.
+40 Son petit bébé, ou plutôt son petit garçon, avait eu un accident et il n’y avait pas beaucoup d’espoir pour lui car il avait eu une commotion cérébrale. Mais par la prière, simplement au travers du téléphone, l’enfant fut guéri. Croyez-vous que frère Blair est un véritable témoin de Christ? Priez pour que vos bénédictions l’accompagnent. Frères, imposez-lui les mains.
+41 Dieu bien-aimé, nous Te prions de confirmer notre bon et noble frère, Ton serviteur, qui est sorti de son propre groupe pour marcher dans la Lumière. Père, nous Te prions de bénir notre frère Blair tandis que nous l’envoyons avec nos bénédictions et notre approbation partout où Tu pourras l’appeler, Seigneur pour quelque travail que ce soit. Puisse Ton Esprit aller avec frère Blair. Guide-le et dirige-le vers ceux qui sont perdus et qui meurent dans ce monde, afin qu’il puisse aider à trouver cette brebis perdue et la ramener au bercail. Seigneur, nous Te demandons de le guider et de le diriger tout au long du voyage de sa vie, n’importe où que ce soit et pour toute chose que Tu as prévue pour lui. Nous sommes ses frères. En lui donnant la main d’association, nous Te demandons de l’accompagner dans le Nom de Jésus-Christ. Amen.
+    C’est la main d’association. Que Dieu vous bénisse, frère Blair. Nous sommes tous avec vous, nous prions pour vous et ferons tout ce que nous pourrons pour vous aider. Que Dieu vous bénisse.
+42 [Frère Branham parle à frère Anton — N.d.R.] Tout le monde connaît frère Merlin Anton? Il est nouveau pour moi. [Le frère parle de nouveau à frère Branham — N.d.R.] Oh, oui! Excusez-moi, frère. Vous venez de l’Armée du Salut. C’est juste. Je me souviens de vous. Bien sûr que je le connais. Son visage ne m’était pas familier en ce moment. Combien savent qu’il est un homme de Dieu? Combien savent que Dieu travaille avec lui? Levez la main. Voulez-vous prier pour lui?
+43 Maintenant, frère, nous savons que vous venez d’un important groupe de gens, vous venez de l’Armée du Salut; c’est un groupe important. L’Armée du Salut effectue un grand travail dans les rues. Nous ne pouvons rien dire contre les Nazaréens, l’Eglise de Pentecôte, l’Armée du Salut ou n’importe laquelle de ces églises; ils sont nos frères. Mais vous voyez, nous croyons que nous sommes porteurs d’un grand Message pour l’heure dans laquelle nous vivons. Voulez-vous faire cela avec nous? Inclinons nos têtes tandis que nous imposons les mains à notre frère.
+44 Bien-aimé Père céleste, Tu es Celui qui appelle; Tu es Celui qui vivifie la Parole afin que les gens puissent y croire. Et nous imposons les mains à notre précieux frère en confirmation de ce que nous croyons que Tu es avec lui et que Tu l’aideras. Nous lui donnons nos bénédictions. Nous croyons que nous sommes passés de la mort à la Vie et que nous détenons maintenant cette Puissance vivifiante dans nos coeurs. C’est par la grâce de Dieu que nous imposons les mains à notre frère et que nous lui donnons nos bénédictions afin que Tu le conduises, le guides et le diriges dans chaque crevasse de la terre où Tu lui auras ordonné d’aller, Seigneur. Puisse Ton Esprit aller avec lui et lui donner la santé, la force et le succès dans son ministère car nous l’envoyons au Nom de Jésus-Christ. Amen.
+45 Dieu vous bénisse, frère. C’est la main d’association. Vous, frères, serrez la main de ces frères. Très bien, que le Seigneur vous bénisse tous.
+46 [Un frère parle à frère Branham — N.d.R.] Quel est votre nom? Frère Correll. Frère Correll nous vient de Cincinnati. Tous ceux qui sont de Cincinnati connaissent frère Correll. Il dit qu’il faisait partie d’un groupe qui voulait ordonner des femmes pasteurs. Il n’a pas pu supporter cela et a dû se séparer d’eux. C’est exactement de la même manière que j’ai dû me séparer des Baptistes Missionnaires. Combien ont entendu parler de Dr. Roy E. Davis? Vous en avez sûrement entendu parler. Il voulait ordonner des femmes pasteurs et j’ai dit: «Non, monsieur. En tant qu’ancien je ne peux pas faire cela; c’est contre la Parole de Dieu».
+47 Frère Correll, je ne vous connais pas, mais sur la base de votre témoignage et d’après la vérité que vous défendez… Nous n’avons rien contre ces femmes; ce sont des soeurs. Nous les aimons mais nous croyons qu’elles ont leur place à laquelle elles doivent se tenir. Nous croyons qu’elles ont un mari auquel elles sont très chères, qu’elles lui sont une compagne. Nous pensons qu’elles sont le plus grand don que Dieu ait jamais donné à l’homme en dehors du salut. Mais selon la Parole de Dieu, elles n’ont aucune place à la chaire. Sur cette base et d’après votre foi en Dieu, nous vous imposons les mains comme à un compagnon qui marche avec nous. Imposons-lui les mains.
+48 Notre bien-aimé Père céleste, je sais ce que ce jeune homme doit ressentir d’avoir été mis dehors à cause de la Vérité. L’homme ne vivra pas de pain seulement mais de toute Parole. C’est pourquoi nous lui imposons maintenant les mains et plaçons sur lui nos bénédictions. Puisse Ton Esprit le conduire, le guider et le diriger tout au long du voyage de sa vie, partout où Tu l’enverras. Qu’il sache que nous prions pour lui et que tant qu’il luttera pour la Parole, nous le soutiendrons. Accorde-le, Seigneur. Nous l’envoyons dans le Nom de Jésus-Christ. Amen. Dieu vous bénisse, frère Correll. Nous avons imposé les mains sur différents frères et nous leur tendons à tous la main d’association.
+49 Frère Ruddell n’a jamais été officiellement ordonné ici à l’église. Combien connaissent frère Ruddell? Nous le connaissons tous. Combien savent qu’il est un homme de Dieu? Bien-aimé Père céleste, en tant qu’anciens, nous imposons les mains à ce frère qui a passé par des eaux profondes et boueuses. Il a assisté à la chute de sa congrégation. Il a vu tout ce qu’il est possible de voir. [Nous n’arrivons pas à distinguer la voix de frère Branham de celle d’un autre pasteur en train de prier — N.d.R.] Nous lui imposons les mains et lui transmettons nos bénédictions. Oins-le, Seigneur. Envoie-le jusque dans chaque crevasse de la terre. Envoie-le dans le Nom de Jésus-Christ. Amen.
+50 Frère Ruddell, vous avez toujours eu la main d’association. Je connais frère Ruddell. Il me semble que c’est mon propre fils. Cela fait si longtemps que nous nous connaissons, son père, sa mère et moi-même. Et je sais que frère Ruddell est un serviteur de Dieu. Nous servons Dieu ensemble. Dieu vous bénisse, frère Ruddell.
+51 Qui êtes-vous, frère? Quel est votre nom? Le connaissez-vous, frère Martin? [Le frère dit son nom — N.d.R.] Frère Mc Commas. Je pense que personne ici ne le connaît. Oui, cet homme ici, frère Tyler, le connaît. Et il vient ici afin qu’on lui impose les mains pour qu’il soit porteur de l’Evangile. Frère Mc Commas. D’où venez-vous, frère Mc Commas? De Rockford dans l’Illinois. [Le frère parle à frère Branham au sujet de la guérison de sa femme — N.d.R.] Oh, est-ce juste? De Tucson. Je me souviens très bien de cet appel maintenant. Loué soit le Seigneur! [Frère Martin parle à frère Branham — N.d.R.] Votre soeur. Elle se trouve ici maintenant; on a prié pour elle l’autre soir par téléphone depuis Tucson. Elle était paralysée. Cela faisait plusieurs nuits qu’elle était paralysée et maintenant elle est ici. Il n’est pas étonnant qu’il veuille prendre le message! Imposons les mains à notre frère.
+52 Dieu bien-aimé, nous les anciens, imposons les mains à Ton serviteur et lui donnons la main d’association; nous prions afin que les bénédictions de Dieu l’accompagnent [Ici, à l’arrière, on ne peut plus distinguer la voix de frère Branham de celle des autres — N.d.R.] Guide-le et dirige-le. Au Nom de Jésus-Christ. Amen. La main d’association, mon frère. Que Dieu soit avec vous.
+53 Oui, frère? Très bien. Je crois que c’est frère Darius. Cet homme est frère Darius. D’où venez-vous, frère? De Black Rock dans l’Arkansas. Je crois que frère Brewer ici a dit qu’il le connaissait. J’ai rencontré ce matin soeur Vayle, je crois, et frère Vayle et ceux qui le connaissent, et ils savent que c’est un homme de Dieu, un serviteur de Dieu. Merveilleux!
+54 Eh bien maintenant, mon cher frère, nous voulons que vous sachiez que nous vous soutiendrons et que nous ferons tout ce que nous pourrons afin que vous soyez un porteur du Message. Nous prierons pour vous afin que vous portiez aussi ce Message dans les lieux les plus reculés où Dieu vous ordonnera d’aller. Imposons les mains à notre frère Darius. Dieu bien-aimé, nous imposons les mains à notre frère en lui donnant la main d’association et nous l’envoyons dans le Nom de Jésus-Christ… [Il est impossible de distinguer la voix de frère Branham — N.d.R.]
+55 Je crois que c’est frère Anthony. Beaucoup parmi vous connaissent frère Anthony. Cela fait longtemps qu’il est avec nous. Je sais moi-même qu’il est un serviteur de Christ. Je crois que c’est un jeune homme consacré. On ne lui a jamais officiellement imposé les mains. Mes amis, il ne savait pas que cela viendrait. Vous voyez? Mais c’est aussi très bien maintenant. Nous allons donc imposer les mains à frère Anthony et lui donner la main d’association. C’est Dieu qui doit faire l’ordination. Il est juste qu’il sache cela et vous savez que nous aimons ce frère et que nous croyons qu’il est un d’entre nous dans le Message. Nous voulons qu’il ait les bénédictions de Dieu et c’est ce que nous demandons pour lui. Prions tandis que nous imposons les mains à notre frère.
+56 Dieu bien-aimé, cet humble petit Italien est un de Tes serviteurs, Seigneur, et il est venu ce soir pour qu’on lui impose les mains et que l’église lui tende officiellement la main d’association. [Il est impossible de distinguer les paroles de frère Branham — N.d.R.] …il veut lutter pour Toi, Seigneur, et Te servir tous les jours de sa vie. Puisses-Tu le diriger, le conduire; puissent nos bénédictions être avec lui tandis que nous l’envoyons. Au Nom de Jésus-Christ. Amen.
+57 Oh, je ne sais pas. Nous avons un relais par téléphone, deux francs la minute. Y-a-t-il quelqu’un d’autre qui voudrait?.. Approchez-vous, frères et dites votre nom, dites-le juste là au micro. Dites-leur simplement de… [Les hommes suivants disent leur nom: Pat Tyler, Claude Boggess, Dale Hargissy, James Humes, Earl Horner. — N.d.R.] Ce sont eux? Venez ici, frères. Croyez-vous que ce Message est la Vérité venant de Dieu? Le croyez-vous de tout votre coeur? Souhaitez-vous que nous vous imposions les mains? Nous voulons que vous sachiez que nous sommes avec vous et que nous ferons tout ce que nous pourrons pour vous aider. Et maintenant, je veux que vous montiez tous ici afin que je puisse vous imposer les mains; inclinons tous la tête tandis que nous leur imposons les mains. Dieu bien-aimé, voici un groupe d’hommes. J’impose les mains à chacun d’eux au Nom de Jésus-Christ. Et Toi qui les a appelés, puisses-Tu… [Il est impossible de distinguer la voix de frère Branham — N.d.R.] Nous leur donnons la main d’association et prions afin que Tes bénédictions soient avec eux, Seigneur. Puissent-ils oeuvrer pour Toi et Te servir.
+58 Que Dieu bénisse chacun de vous, frères. Dieu vous bénisse, Dieu vous bénisse, frère, Dieu vous bénisse, Dieu vous bénisse, frère… Que le Seigneur soit avec chacun de vous.
         Béni soit le lien qui unit
         Nos coeurs dans un amour chrétien;
         L’amour de cette famille
         Est semblable à celui d’En haut.
-59 N’est-Il pas merveilleux? Pensez simplement au nombre de pasteurs auquels on a imposé les
-mains ici ce soir.
-60 Je ne savais pas que nous avions ce relais téléphonique. J’espère que les gens là dehors me
-pardonneront pour cela; je ne le savais pas. Vous voyez? Je ne savais tout simplement pas que
-ce petit message de ce soir allait être retransmis.
-61 Maintenant, nous allons lire la Parole, prier et entrer directement dans ce message que le
-Saint-Esprit veut que je vous apporte ce soir, je le sens.
+59 N’est-Il pas merveilleux? Pensez simplement au nombre de pasteurs auquels on a imposé les mains ici ce soir.
+60 Je ne savais pas que nous avions ce relais téléphonique. J’espère que les gens là dehors me pardonneront pour cela; je ne le savais pas. Vous voyez? Je ne savais tout simplement pas que ce petit message de ce soir allait être retransmis.
+61 Maintenant, nous allons lire la Parole, prier et entrer directement dans ce message que le Saint-Esprit veut que je vous apporte ce soir, je le sens.
 62 Voyons maintenant le texte de Nombres au chapitre 22.
-63 Pendant que vous cherchez votre texte, si vous voulez le lire ou plutôt le noter, j’aimerais que
-vous vous souveniez tous de moi jusqu’à ce que je puisse vous revoir, cet été je l’espère, si le
-Seigneur le veut. Et s’il arrivait quoi que ce soit qui m’empêche d’aller outre-mer, alors je serai de
-retour. Mais nous croyons maintenant que tout a concouru afin que le Saint-Esprit nous envoie
-selon la manière qu’il a Lui-même choisie de nous envoyer. Et c’est de cette manière que nous
-voulons agir. Que le Seigneur nous bénisse.
-64 Notre Père, nous sommes sur le point de lire Ta Parole. Puisses-Tu La bénir et L’oindre pour
-notre compréhension; nous le demandons dans le Nom de Jésus-Christ. Amen.
-65 Le livre des Nombres, au chapitre 22 et au verset 31: “Et l’Eternel ouvrit les yeux de Balaam,
-et il vit l’Ange de l’Eternel qui se tenait sur le chemin, son épée nue dans sa main; et il s’inclina et
-se prosterna sur sa face”.
-66 Maintenant, ayant lu ceci afin de donner un contexte, je veux prendre le sujet: Dieu a-t-Il
-jamais changé Sa pensée au sujet de Sa Parole?
-67 C’est tout un texte et il s’agit d’une grande vérité que nous devrions comprendre. Dieu peut-Il
-dire quelque chose, puis dire: “Je regrette d’avoir dit ceci”? Dieu peut-Il reprendre Sa Parole après
-L’avoir prononcée?
-68 Maintenant j’ai choisi ce récit parce que c’est l’un des récits de la Bible où le lecteur serait le
-plus tenté de dire que Dieu changea de pensée, plus que dans n’importe quel autre passage de la
-Bible que je connaisse. Car Il dit une chose à Balaam et lui en dit ensuite une autre. Et maintenant
-beaucoup de gens ont essayé de faire de Balaam un devin ou quelque chose ainsi. Mais Balaam
-n’était pas un devin; il était prophète du Seigneur.
-69 Maintenant nous allons d’abord essayer de dégager le canevas de ce message. Israël venait
-d’Egypte et était en route pour la Palestine. Le Seigneur était avec eux. Chaque ennemi qui s’était
-dressé devant Israël avait été écarté du chemin, car Dieu avait dit qu’Il enverrait des frelons
-devant eux et qu’Il chasserait l’ennemi tant qu’ils marcheraient dans l’obéissance à Son
-commandement. La tâche ne fut jamais trop grande. Bien que les Hébreux étaient des hommes
-de petite taille, les Amalécites, qui étaient les géants de l’époque, ne signifiaient rien pour eux; les
-Hébreux marchaient selon le AINSI DIT LE SEIGNEUR. Peu importait l’opposition qu’il pouvait y
-avoir, Dieu veillait toujours à ce que Ses paroles de promesse ne faillissent jamais envers Israël.
-70 Et l’Israël de l’Ancien Testament est un type de l’Epouse du Nouveau Testament qui
-sort du monde pour marcher sur la route de Canaan, ce Canaan vers lequel nous nous
-dirigeons, le millénium.
+63 Pendant que vous cherchez votre texte, si vous voulez le lire ou plutôt le noter, j’aimerais que vous vous souveniez tous de moi jusqu’à ce que je puisse vous revoir, cet été je l’espère, si le Seigneur le veut. Et s’il arrivait quoi que ce soit qui m’empêche d’aller outre-mer, alors je serai de retour. Mais nous croyons maintenant que tout a concouru afin que le Saint-Esprit nous envoie selon la manière qu’il a Lui-même choisie de nous envoyer. Et c’est de cette manière que nous voulons agir. Que le Seigneur nous bénisse.
+64 Notre Père, nous sommes sur le point de lire Ta Parole. Puisses-Tu La bénir et L’oindre pour notre compréhension; nous le demandons dans le Nom de Jésus-Christ. Amen.
+65 Le livre des Nombres, au chapitre 22 et au verset 31: “Et l’Eternel ouvrit les yeux de Balaam, et il vit l’Ange de l’Eternel qui se tenait sur le chemin, son épée nue dans sa main; et il s’inclina et se prosterna sur sa face”.
+66 Maintenant, ayant lu ceci afin de donner un contexte, je veux prendre le sujet: Dieu a-t-Il jamais changé Sa pensée au sujet de Sa Parole?
+67 C’est tout un texte et il s’agit d’une grande vérité que nous devrions comprendre. Dieu peut-Il dire quelque chose, puis dire: “Je regrette d’avoir dit ceci”? Dieu peut-Il reprendre Sa Parole après L’avoir prononcée?
+68 Maintenant j’ai choisi ce récit parce que c’est l’un des récits de la Bible où le lecteur serait le plus tenté de dire que Dieu changea de pensée, plus que dans n’importe quel autre passage de la Bible que je connaisse. Car Il dit une chose à Balaam et lui en dit ensuite une autre. Et maintenant beaucoup de gens ont essayé de faire de Balaam un devin ou quelque chose ainsi. Mais Balaam n’était pas un devin; il était prophète du Seigneur.
+69 Maintenant nous allons d’abord essayer de dégager le canevas de ce message. Israël venait d’Egypte et était en route pour la Palestine. Le Seigneur était avec eux. Chaque ennemi qui s’était dressé devant Israël avait été écarté du chemin, car Dieu avait dit qu’Il enverrait des frelons devant eux et qu’Il chasserait l’ennemi tant qu’ils marcheraient dans l’obéissance à Son commandement. La tâche ne fut jamais trop grande. Bien que les Hébreux étaient des hommes de petite taille, les Amalécites, qui étaient les géants de l’époque, ne signifiaient rien pour eux; les Hébreux marchaient selon le AINSI DIT LE SEIGNEUR. Peu importait l’opposition qu’il pouvait y avoir, Dieu veillait toujours à ce que Ses paroles de promesse ne faillissent jamais envers Israël.
+70 Et l’Israël de l’Ancien Testament est un type de l’Epouse du Nouveau Testament qui sort du monde pour marcher sur la route de Canaan, ce Canaan vers lequel nous nous dirigeons, le millénium.
 
-    http://www.cmpp.ch
-
-ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 10
-71 Nous remarquons ici que Moab est un type de l’église. Ils avaient tué quelques rois et avaient
-mis l’ennemi en déroute; ils avaient tout exterminé, pris possession du pays et s’étaient déplacés
-du côté de Moab. Or Moab n’était en aucun cas une nation païenne. Moab était une nation qui
-servait le même Dieu qu’Israël. La terre de Moab était à l’origine la possession du fils de Lot, ce
-fils qu’il avait eu avec sa propre fille. Comme il était le fondateur de cette nation, c’est lui qui l’avait
-organisée, la rendant célèbre et en faisant une grande nation; ils s’étaient multipliés et avaient
-continué ainsi.
-72 Mais Israël était de la semence d’Abraham, non de Lot. Israël est sorti d’Isaac et de Jacob. Et
-Israël jaillit de ces douze tribus qui venaient de Jacob, qui fut appelé plus tard Israël car il avait
-lutté avec le Seigneur.
-73 Tout d’abord j’aimerais dire aux gens qui sont reliés par le téléphone que je n’ai pas l’intention
-de faire des critiques et j’espère que je n’en fais pas; mais ce Message m’a été donné et je dois
-être fidèle à ce Message, sinon je serais un hypocrite. Vous voyez? Je ne peux rien dire de plus
-que la Parole pour laquelle je suis envoyé. Et je crois que le grand ennemi de la société
-chrétienne d’aujourd’hui, ce sont les églises organisées. Je crois de tout mon coeur que tout cela
-finira par former la marque de la bête (je peux le prouver par la Bible avec l’aide de Dieu et je l’ai
-déjà fait); la fédération des églises débouchera sur la marque de la bête. Car Dieu n’a jamais
-reconnu, à aucun moment, une église organisée. Il n’a jamais fait cela et chaque fois que
-l’homme a fait une organisation, l’Esprit de Dieu l’a quittée et n’y est jamais retourné. Vous pouvez
-le demander à n’importe quel historien ou le lire vous-même. Jamais! Lorsque les gens se sont
-organisés, Dieu a tout laissé tomber. C’est ainsi que cela s’est passé; ils en sont restés au point
-où ils en étaient. Les membres se sont multipliés mais n’ont plus jamais eu le réveil de
-l’Esprit.
-74 Ici, Moab en est un type, car ils étaient une nation organisée sur leur propre terre ainsi que
-dans leur dénomination. Et ils avaient leur propre religion. Et leur religion était la même que celle
-qu’avait Israël. Ils étaient Moabites et croyaient en Dieu Jéhovah, mais ils étaient un groupe de
-gens organisés.
-75 Maintenant, alors que les Moabites représentent l’église naturelle, Israël représente l’Eglise
-spirituelle lors de son voyage. Israël n’était pas une nation organisée. Tant qu’ils suivaient Dieu,
-ils étaient indépendants. Ils se déplaçaient, séjournaient ici et là et n’avaient pas de place où aller;
-ils suivaient la Colonne de Feu partout où Elle allait. Ils n’étaient pas une nation organisée.
-Il y avait une certaine organisation parmi eux du fait de la circoncision qui était un commandement
-de Dieu, mais à cette époque ils ne furent jamais une nation organisée. Lorsqu’ils finirent par
-devenir une nation organisée, ce fut alors qu’ils chutèrent et rejetèrent leur Messie.
-76 Et nous nous apercevons que chaque fois que ces esprits naturel et spirituel des églises
-et des organisations se rencontrent, il y a un heurt. Cela ne manque jamais de se passer
-ainsi, il y a toujours un heurt. Car nous découvrons qu’il y a là une sorte de jalousie. Cette jalousie
-est la cause de comparaisons charnelles et d’imitations. Et nous voyons qu’il en est aujourd’hui
-comme il en fut alors. Lorsque Dieu fait quelque chose chez une personne, tout le monde
-essaie de copier ce que Dieu a fait pour cette personne. Vous voyez, cela occasionne une
-compétition et tout cela est charnel. Et si l’autre camp ne peut pas obtenir de résultats spirituels, il
-l’obtient alors par le pouvoir politique ou substitue quelque chose pour bouleverser l’esprit des
-gens afin d’attirer des disciples derrière eux.
-77 C’est exactement ce qui s’est passé au tout début. C’est comme pour Caïn et Abel; tous deux
-se trouvaient ici sur terre; et lorsqu’Abel offrit à Dieu un sacrifice plus excellent que Caïn et que
-Dieu confirma Abel en descendant pour recevoir son sacrifice, cela causa de la jalousie chez
-Caïn. Parce qu’il était jaloux de son frère, il le tua.
-78 Tout ceci commença au début lorsque l’esprit naturel et l’esprit spirituel… Et pourtant Caïn et
-Abel adoraient le même Dieu! Tous deux construisirent le même genre d’autels et tous deux
-adoraient le même Dieu dans la même église, au même autel. Mais Caïn, qui avait raisonné de
-manière charnelle, apporta des fruits de la terre et les déposa sur l’autel comme sacrifice en
-pensant que cela conviendrait à Dieu pour l’expiation. Aujourd’hui, les gens pensent qu’il doit avoir
-apporté des pommes et que ce sont les pommes que prirent Adam et Eve qui causèrent le péché.
-
-        http://www.cmpp.ch
+71 Nous remarquons ici que Moab est un type de l’église. Ils avaient tué quelques rois et avaient mis l’ennemi en déroute; ils avaient tout exterminé, pris possession du pays et s’étaient déplacés du côté de Moab. Or Moab n’était en aucun cas une nation païenne. Moab était une nation qui servait le même Dieu qu’Israël. La terre de Moab était à l’origine la possession du fils de Lot, ce fils qu’il avait eu avec sa propre fille. Comme il était le fondateur de cette nation, c’est lui qui l’avait organisée, la rendant célèbre et en faisant une grande nation; ils s’étaient multipliés et avaient continué ainsi.
+72 Mais Israël était de la semence d’Abraham, non de Lot. Israël est sorti d’Isaac et de Jacob. Et Israël jaillit de ces douze tribus qui venaient de Jacob, qui fut appelé plus tard Israël car il avait lutté avec le Seigneur.
+73 Tout d’abord j’aimerais dire aux gens qui sont reliés par le téléphone que je n’ai pas l’intention de faire des critiques et j’espère que je n’en fais pas; mais ce Message m’a été donné et je dois être fidèle à ce Message, sinon je serais un hypocrite. Vous voyez? Je ne peux rien dire de plus que la Parole pour laquelle je suis envoyé. Et je crois que le grand ennemi de la société chrétienne d’aujourd’hui, ce sont les églises organisées. Je crois de tout mon coeur que tout cela finira par former la marque de la bête (je peux le prouver par la Bible avec l’aide de Dieu et je l’ai déjà fait); la fédération des églises débouchera sur la marque de la bête. Car Dieu n’a jamais reconnu, à aucun moment, une église organisée. Il n’a jamais fait cela et chaque fois que l’homme a fait une organisation, l’Esprit de Dieu l’a quittée et n’y est jamais retourné. Vous pouvez le demander à n’importe quel historien ou le lire vous-même. Jamais! Lorsque les gens se sont organisés, Dieu a tout laissé tomber. C’est ainsi que cela s’est passé; ils en sont restés au point où ils en étaient. Les membres se sont multipliés mais n’ont plus jamais eu le réveil de l’Esprit.
+74 Ici, Moab en est un type, car ils étaient une nation organisée sur leur propre terre ainsi que dans leur dénomination. Et ils avaient leur propre religion. Et leur religion était la même que celle qu’avait Israël. Ils étaient Moabites et croyaient en Dieu Jéhovah, mais ils étaient un groupe de gens organisés.
+75 Maintenant, alors que les Moabites représentent l’église naturelle, Israël représente l’Eglise spirituelle lors de son voyage. Israël n’était pas une nation organisée. Tant qu’ils suivaient Dieu, ils étaient indépendants. Ils se déplaçaient, séjournaient ici et là et n’avaient pas de place où aller; ils suivaient la Colonne de Feu partout où Elle allait. Ils n’étaient pas une nation organisée. Il y avait une certaine organisation parmi eux du fait de la circoncision qui était un commandement de Dieu, mais à cette époque ils ne furent jamais une nation organisée. Lorsqu’ils finirent par devenir une nation organisée, ce fut alors qu’ils chutèrent et rejetèrent leur Messie.
+76 Et nous nous apercevons que chaque fois que ces esprits naturel et spirituel des églises et des organisations se rencontrent, il y a un heurt. Cela ne manque jamais de se passer ainsi, il y a toujours un heurt. Car nous découvrons qu’il y a là une sorte de jalousie. Cette jalousie est la cause de comparaisons charnelles et d’imitations. Et nous voyons qu’il en est aujourd’hui comme il en fut alors. Lorsque Dieu fait quelque chose chez une personne, tout le monde essaie de copier ce que Dieu a fait pour cette personne. Vous voyez, cela occasionne une compétition et tout cela est charnel. Et si l’autre camp ne peut pas obtenir de résultats spirituels, il l’obtient alors par le pouvoir politique ou substitue quelque chose pour bouleverser l’esprit des gens afin d’attirer des disciples derrière eux.
+77 C’est exactement ce qui s’est passé au tout début. C’est comme pour Caïn et Abel; tous deux se trouvaient ici sur terre; et lorsqu’Abel offrit à Dieu un sacrifice plus excellent que Caïn et que Dieu confirma Abel en descendant pour recevoir son sacrifice, cela causa de la jalousie chez Caïn. Parce qu’il était jaloux de son frère, il le tua.
+78 Tout ceci commença au début lorsque l’esprit naturel et l’esprit spirituel… Et pourtant Caïn et Abel adoraient le même Dieu! Tous deux construisirent le même genre d’autels et tous deux adoraient le même Dieu dans la même église, au même autel. Mais Caïn, qui avait raisonné de manière charnelle, apporta des fruits de la terre et les déposa sur l’autel comme sacrifice en pensant que cela conviendrait à Dieu pour l’expiation. Aujourd’hui, les gens pensent qu’il doit avoir apporté des pommes et que ce sont les pommes que prirent Adam et Eve qui causèrent le péché.
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 11
-J’ai même entendu des gens dire qu’ils prirent des fruits d’un grenadier ou autre. Il n’y a pas très
-longtemps, certains ont dit que c’était autre chose.
-79 Mais Abel offrit le sacrifice qui convenait. Il savait qu’il fallait du sang, c’est pourquoi il apporta
-un agneau. Et lorsque Dieu le reçut… Maintenant, c’est par la foi qu’Abel a agi, par révélation et
-non d’une autre manière; la Bible n’était pas écrite. Vous voyez donc que le commencement de
-la justice c’est la Vérité révélée de Dieu, et l’Eglise entière du Dieu Vivant est édifiée là-
-dessus.
-80 Un jour, alors qu’Il descendait de la montagne, Jésus dit à Ses disciples: “Qui dit-on que je
-suis, moi, le Fils de l’homme?”. L’un d’eux dit: “Tu es Moïse”; et l’autre dit: “Tu es Elie, Jérémie ou
-l’un des prophètes”. Il dit: “Mais vous, qui dites-vous que je suis?”.
-81 C’est alors que l’apôtre Pierre, inspiré de Dieu et vivifié par l’Esprit, fit cette affirmation
-extraordinaire: “Tu es le Christ, le Fils du Dieu Vivant”.
-82 Remarquez cette affirmation de Jésus: “Béni sois-tu, Simon, fils de Jonas; ce ne sont pas la
-chair et le sang qui t’ont révélé cela; mon Père céleste te l’a révélé. Tu es Simon; sur ce roc…”.
-Quel roc? Maintenant, les catholiques disent: “Sur Pierre, le roc (petite pierre)”. Et les protestants
-disent: “Sur Christ, le Rocher”. Ce n’est pas que je veuille être différent, mais c’est par révélation
-que Pierre a su qui Il était. “Aucun homme ne peut venir à moi”, dit Jésus, “si le Père ne l’attire;
-et tous ceux que le Père m’a donnés viendront à moi”. “Tu es le Christ, le Fils du Dieu Vivant”.
-83 “Béni sois-tu, Simon fils de Jonas, ce ne sont pas la chair et le sang qui t’ont révélé cela, mais
-mon Père qui est dans le Ciel. Sur ce Roc je bâtirai mon Eglise et les portes de l’enfer ne
-prévaudront point contre Elle”. C’était la Parole spirituelle révélée de Dieu.
-84 Remarquez que par la foi Abel offrit à Dieu un sacrifice plus excellent; alors que le croyant
-charnel crut qu’il devait s’agir de l’oeuvre de ses propres mains et pensa que les fruits et la belle
-offrande qu’il apportait seraient reconnus par Dieu; et c’est cela qui créa un conflit.
-85 Nous découvrons qu’Abraham et Lot eurent un conflit. Nous découvrons que Moïse eut le
-même conflit avec Dathan et Coré. Moïse, qui était un prophète ordonné de Dieu et qui avait la
-Parole du Seigneur, prouva qu’il était choisi pour être le conducteur de l’heure. Abraham avait
-promis toutes ces choses et Moïse fit exactement ce que Dieu avait dit qui arriverait. Et Coré, qui
-était charnel, voulut susciter une organisation parmi eux. Il voulait faire un groupe d’hommes;
-mais Dieu ne traite pas avec des gens comme cela. Juste dans cette Ecriture nous est montré un
-type de notre voyage d’aujourd’hui, et cela nous montre que l’organisation n’est pas ce que Dieu a
-ordonné. Car aussitôt que Coré eut fait cela, il dit à Moïse: “Tu te crois trop”. En d’autres termes:
-“L’assemblée entière est sainte et toi tu dis que tu es le seul homme saint. Tu n’as pas le droit de
-faire quelque chose comme cela. Tu essayes de te rendre toi-même quelqu’un d’important. Nous
-sommes tous saints; nous sommes tous enfants de Dieu”.
+J’ai même entendu des gens dire qu’ils prirent des fruits d’un grenadier ou autre. Il n’y a pas très longtemps, certains ont dit que c’était autre chose.
+79 Mais Abel offrit le sacrifice qui convenait. Il savait qu’il fallait du sang, c’est pourquoi il apporta un agneau. Et lorsque Dieu le reçut… Maintenant, c’est par la foi qu’Abel a agi, par révélation et non d’une autre manière; la Bible n’était pas écrite. Vous voyez donc que le commencement de la justice c’est la Vérité révélée de Dieu, et l’Eglise entière du Dieu Vivant est édifiée là-dessus.
+80 Un jour, alors qu’Il descendait de la montagne, Jésus dit à Ses disciples: “Qui dit-on que je suis, moi, le Fils de l’homme?”. L’un d’eux dit: “Tu es Moïse”; et l’autre dit: “Tu es Elie, Jérémie ou l’un des prophètes”. Il dit: “Mais vous, qui dites-vous que je suis?”.
+81 C’est alors que l’apôtre Pierre, inspiré de Dieu et vivifié par l’Esprit, fit cette affirmation extraordinaire: “Tu es le Christ, le Fils du Dieu Vivant”.
+82 Remarquez cette affirmation de Jésus: “Béni sois-tu, Simon, fils de Jonas; ce ne sont pas la chair et le sang qui t’ont révélé cela; mon Père céleste te l’a révélé. Tu es Simon; sur ce roc…”. Quel roc? Maintenant, les catholiques disent: “Sur Pierre, le roc (petite pierre)”. Et les protestants disent: “Sur Christ, le Rocher”. Ce n’est pas que je veuille être différent, mais c’est par révélation que Pierre a su qui Il était. “Aucun homme ne peut venir à moi”, dit Jésus, “si le Père ne l’attire; et tous ceux que le Père m’a donnés viendront à moi”. “Tu es le Christ, le Fils du Dieu Vivant”.
+83 “Béni sois-tu, Simon fils de Jonas, ce ne sont pas la chair et le sang qui t’ont révélé cela, mais mon Père qui est dans le Ciel. Sur ce Roc je bâtirai mon Eglise et les portes de l’enfer ne prévaudront point contre Elle”. C’était la Parole spirituelle révélée de Dieu.
+84 Remarquez que par la foi Abel offrit à Dieu un sacrifice plus excellent; alors que le croyant charnel crut qu’il devait s’agir de l’oeuvre de ses propres mains et pensa que les fruits et la belle offrande qu’il apportait seraient reconnus par Dieu; et c’est cela qui créa un conflit.
+85 Nous découvrons qu’Abraham et Lot eurent un conflit. Nous découvrons que Moïse eut le même conflit avec Dathan et Coré. Moïse, qui était un prophète ordonné de Dieu et qui avait la Parole du Seigneur, prouva qu’il était choisi pour être le conducteur de l’heure. Abraham avait promis toutes ces choses et Moïse fit exactement ce que Dieu avait dit qui arriverait. Et Coré, qui était charnel, voulut susciter une organisation parmi eux. Il voulait faire un groupe d’hommes; mais Dieu ne traite pas avec des gens comme cela. Juste dans cette Ecriture nous est montré un type de notre voyage d’aujourd’hui, et cela nous montre que l’organisation n’est pas ce que Dieu a ordonné. Car aussitôt que Coré eut fait cela, il dit à Moïse: “Tu te crois trop”. En d’autres termes: “L’assemblée entière est sainte et toi tu dis que tu es le seul homme saint. Tu n’as pas le droit de faire quelque chose comme cela. Tu essayes de te rendre toi-même quelqu’un d’important. Nous sommes tous saints; nous sommes tous enfants de Dieu”.
 86 Et Moïse tourna simplement la tête et s’en alla. Il dit: “Seigneur, que ferai-je?”.
 87 Dieu dit: “Sépare-toi de lui; j’en ai assez de cela”. Et il l’engloutit dans la terre.
-88 Vous voyez, il y eut conflit. Lorsque le charnel et le Spirituel se rencontrent, il y a
-toujours conflit. Lorsque Judas et Jésus se rencontrèrent, il y eut conflit; l’Un était le Fils de
-Dieu, l’autre le fils de Satan. Tout comme avec Caïn et Abel, il y eut conflit lorsqu’ils se
-rencontrèrent. L’un d’eux était le trésorier de l’église et l’autre était un pasteur. Maintenant nous
-arrivons de nouveau à la même chose aujourd’hui: la dénomination charnelle et l’Epouse
-spirituelle de Christ. L’Epouse spirituelle de Christ est tellement différente des organisations
-charnelles qu’il n’y a aucune comparaison possible entre elles.
-89 Maintenant remarquez; le naturel essaye toujours de copier le spirituel. Mais de même qu’il
-en fut de Jacob et d’Esaü, cela ne marchera pas. Certainement pas. Maintenant en ce qui
-concerne les bonnes oeuvres, je crois qu’Esaü était réellement un homme meilleur que Jacob du
-point de vue humain. Il essaya de prendre soin de son père (un prophète aveugle) et essaya de
-faire toutes sortes de choses. Pourtant Esaü ne pensait pas que ce n’étaient que des oeuvres
-charnelles, il pensait qu’il pourrait s’en sortir en faisant ce qu’il faisait, en accomplissant des
-choses bonnes pour quelqu’un, ce qui était très bien. Mais toute l’âme de Jacob était occupée à
-obtenir ce droit d’aînesse et c’est ce que Dieu reconnut en lui de spirituel.
-
+88 Vous voyez, il y eut conflit. Lorsque le charnel et le Spirituel se rencontrent, il y a toujours conflit. Lorsque Judas et Jésus se rencontrèrent, il y eut conflit; l’Un était le Fils de Dieu, l’autre le fils de Satan. Tout comme avec Caïn et Abel, il y eut conflit lorsqu’ils se rencontrèrent. L’un d’eux était le trésorier de l’église et l’autre était un pasteur. Maintenant nous arrivons de nouveau à la même chose aujourd’hui: la dénomination charnelle et l’Epouse spirituelle de Christ. L’Epouse spirituelle de Christ est tellement différente des organisations charnelles qu’il n’y a aucune comparaison possible entre elles.
+89 Maintenant remarquez; le naturel essaye toujours de copier le spirituel. Mais de même qu’il en fut de Jacob et d’Esaü, cela ne marchera pas. Certainement pas. Maintenant en ce qui concerne les bonnes oeuvres, je crois qu’Esaü était réellement un homme meilleur que Jacob du point de vue humain. Il essaya de prendre soin de son père (un prophète aveugle) et essaya de faire toutes sortes de choses. Pourtant Esaü ne pensait pas que ce n’étaient que des oeuvres charnelles, il pensait qu’il pourrait s’en sortir en faisant ce qu’il faisait, en accomplissant des choses bonnes pour quelqu’un, ce qui était très bien. Mais toute l’âme de Jacob était occupée à obtenir ce droit d’aînesse et c’est ce que Dieu reconnut en lui de spirituel.
 
     http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 12
-90 Remarquez. Il résulte toujours de cela que le naturel hait le spirituel. Caïn se mit à haïr
-Abel; Coré se mit à haïr Moïse, Judas se mit à haïr Jésus et cela continue de la même manière.
-La conséquence en est que le naturel hait le spirituel, tout comme au début Caïn hait Abel, celui
-dont Dieu avait reçu le sacrifice, et il essaya de le détruire. Ils essayent de détruire leur
-influence; ils essayent de tout détruire car ce n’est rien d’autre que de la jalousie. Cela
-commença avec Caïn et ce fut la preuve que c’était de la jalousie, et c’est toujours la même chose
-aujourd’hui lorsque le naturel, c’est-à-dire le charnel, et le spirituel se rencontrent. C’est la preuve
-que c’est Satan et rien d’autre car la jalousie vient de Satan. Ils essayent ensuite de créer une
-imitation de la Vérité. Quelqu’un essaye d’imiter quelque chose qu’on ne lui a pas demandé
-de faire. Combien de fois avons-nous vu cela en ces derniers jours! Oh, mon Dieu! Combien de
-fois!
-91 Nous voyons donc que Dieu ne change jamais d’avis au sujet de Sa Parole originelle; mais
-celui qu’Il appelle, c’est celui-là qu’Il consacre. Personne d’autre ne peut prendre cette
-place. Personne ne pouvait prendre la place de Moïse. Peu importe combien de Dathan ou de
-Coré auraient pu se lever, c’était Moïse que Dieu avait appelé sans tenir compte de quoi que ce
-soit.
-92 Cependant si vous ne marchez pas selon Sa volonté parfaite, Il vous laissera marcher selon
-une volonté permissive. Remarquez qu’Il permet vraiment cela mais qu’Il le fera oeuvrer pour Sa
-gloire dans Sa parfaite volonté.
-93 C’est tout comme au début, ce n’était pas la volonté parfaite de Dieu que les enfants
-naissent par le moyen du sexe. Certainement pas. Dieu créa l’homme de la poussière de la
-terre, Il lui insuffla le souffle de vie et il devint une âme vivante. Il prit de cet homme une aide
-semblable à lui et en fit une épouse. C’était la volonté première et originelle de Dieu. Mais lorsque
-le péché fut entré et eut fait ce qu’il fit, alors Dieu permit à l’homme de se marier légalement avec
-une femme et d’avoir des enfants d’elle. “Croissez et multipliez et remplissez la terre”. Mais vous
-voyez, ce n’était vraiment pas Sa volonté parfaite.
-94 Ainsi toutes ces choses qui eurent un commencement doivent avoir une fin. Tout péché
-doit finir par être annihilé. Tout péché doit être chassé. Ainsi lorsque viendra la résurrection dans
-ce glorieux millénium, nous n’aurons pas à naître de nouveau au moyen de notre père et de notre
-mère, mais Dieu, tout comme Il le fit au commencement, appellera l’homme de la poussière
-de la terre et sa compagne avec lui. C’est juste. C’est ainsi qu’Il fit au commencement.
-95 Ainsi donc, Dieu ne change jamais Sa pensée au sujet de quoi que ce soit, mais Il va vous
-permettre d’aller. Maintenant, j’ai dû faire un grand détour pour en arriver à dire ce que je voulais,
-mais je veux que vous compreniez cela. Vous voyez? Il se peut que Dieu vous permette de faire
-quelque chose et que vous ayez même Sa bénédiction en faisant cela, mais pourtant ce n’est pas
-Sa volonté parfaite.
-96 Dans Exode, au chapitre 19, nous voyons que Dieu a permis à Israël d’avoir une Loi alors
-que la grâce leur avait déjà donné un prophète, une Colonne de feu, un agneau sacrifié, une
-puissance de délivrance. Mais ils réclamèrent une Loi. Ce n’était pas la volonté de Dieu mais
-elle fut introduite car l’homme l’avait voulu. Et Israël fut maudit par cette même Loi qu’il avait
-voulue. Il vaut mieux avoir la volonté de Dieu. C’est ce qu’Il nous a enseigné: “Que Ta volonté soit
-faite; que Ton règne vienne. Que Ta volonté soit faite”.
-97 Nous devons nous soumettre à Sa volonté et à Sa Parole. Ne mettez pas en question
-cette Parole, croyez-La. N’essayez pas de La contourner, contentez-vous de La prendre comme
-Elle vient. Il y en a tellement qui veulent tourner autour, trouver un autre chemin. Et lorsque vous
-faites cela, il se trouve que vous continuez d’avancer et que Dieu vous bénit, mais vous oeuvrez
-selon Sa volonté permissive, et non selon Sa parfaite volonté divine.
-98 Comme je l’ai dit, Il permet cela mais ce ne sera pas Sa parfaite volonté. Cependant Il fera
-oeuvrer cela pour honorer et bénir Sa parfaite volonté. Et le fait de concevoir des enfants par
-le sexe en est un exemple.
-99 Maintenant remarquez. Dès le début, Moab fut une nation illégitime. Dès le départ, il fut
-illégitime bien que venant d’un père croyant et d’une fille croyante. Si vous voulez typifier cela et
-le transposer sur le plan spirituel, vous pouvez voir qu’il en est exactement de même pour
+90 Remarquez. Il résulte toujours de cela que le naturel hait le spirituel. Caïn se mit à haïr Abel; Coré se mit à haïr Moïse, Judas se mit à haïr Jésus et cela continue de la même manière. La conséquence en est que le naturel hait le spirituel, tout comme au début Caïn hait Abel, celui dont Dieu avait reçu le sacrifice, et il essaya de le détruire. Ils essayent de détruire leur influence; ils essayent de tout détruire car ce n’est rien d’autre que de la jalousie. Cela commença avec Caïn et ce fut la preuve que c’était de la jalousie, et c’est toujours la même chose aujourd’hui lorsque le naturel, c’est-à-dire le charnel, et le spirituel se rencontrent. C’est la preuve que c’est Satan et rien d’autre car la jalousie vient de Satan. Ils essayent ensuite de créer une imitation de la Vérité. Quelqu’un essaye d’imiter quelque chose qu’on ne lui a pas demandé de faire. Combien de fois avons-nous vu cela en ces derniers jours! Oh, mon Dieu! Combien de fois!
+91 Nous voyons donc que Dieu ne change jamais d’avis au sujet de Sa Parole originelle; mais celui qu’Il appelle, c’est celui-là qu’Il consacre. Personne d’autre ne peut prendre cette place. Personne ne pouvait prendre la place de Moïse. Peu importe combien de Dathan ou de Coré auraient pu se lever, c’était Moïse que Dieu avait appelé sans tenir compte de quoi que ce soit.
+92 Cependant si vous ne marchez pas selon Sa volonté parfaite, Il vous laissera marcher selon une volonté permissive. Remarquez qu’Il permet vraiment cela mais qu’Il le fera oeuvrer pour Sa gloire dans Sa parfaite volonté.
+93 C’est tout comme au début, ce n’était pas la volonté parfaite de Dieu que les enfants naissent par le moyen du sexe. Certainement pas. Dieu créa l’homme de la poussière de la terre, Il lui insuffla le souffle de vie et il devint une âme vivante. Il prit de cet homme une aide semblable à lui et en fit une épouse. C’était la volonté première et originelle de Dieu. Mais lorsque le péché fut entré et eut fait ce qu’il fit, alors Dieu permit à l’homme de se marier légalement avec une femme et d’avoir des enfants d’elle. “Croissez et multipliez et remplissez la terre”. Mais vous voyez, ce n’était vraiment pas Sa volonté parfaite.
+94 Ainsi toutes ces choses qui eurent un commencement doivent avoir une fin. Tout péché doit finir par être annihilé. Tout péché doit être chassé. Ainsi lorsque viendra la résurrection dans ce glorieux millénium, nous n’aurons pas à naître de nouveau au moyen de notre père et de notre mère, mais Dieu, tout comme Il le fit au commencement, appellera l’homme de la poussière de la terre et sa compagne avec lui. C’est juste. C’est ainsi qu’Il fit au commencement.
+95 Ainsi donc, Dieu ne change jamais Sa pensée au sujet de quoi que ce soit, mais Il va vous permettre d’aller. Maintenant, j’ai dû faire un grand détour pour en arriver à dire ce que je voulais, mais je veux que vous compreniez cela. Vous voyez? Il se peut que Dieu vous permette de faire quelque chose et que vous ayez même Sa bénédiction en faisant cela, mais pourtant ce n’est pas Sa volonté parfaite.
+96 Dans Exode, au chapitre 19, nous voyons que Dieu a permis à Israël d’avoir une Loi alors que la grâce leur avait déjà donné un prophète, une Colonne de feu, un agneau sacrifié, une puissance de délivrance. Mais ils réclamèrent une Loi. Ce n’était pas la volonté de Dieu mais elle fut introduite car l’homme l’avait voulu. Et Israël fut maudit par cette même Loi qu’il avait voulue. Il vaut mieux avoir la volonté de Dieu. C’est ce qu’Il nous a enseigné: “Que Ta volonté soit faite; que Ton règne vienne. Que Ta volonté soit faite”.
+97 Nous devons nous soumettre à Sa volonté et à Sa Parole. Ne mettez pas en question cette Parole, croyez-La. N’essayez pas de La contourner, contentez-vous de La prendre comme Elle vient. Il y en a tellement qui veulent tourner autour, trouver un autre chemin. Et lorsque vous faites cela, il se trouve que vous continuez d’avancer et que Dieu vous bénit, mais vous oeuvrez selon Sa volonté permissive, et non selon Sa parfaite volonté divine.
+98 Comme je l’ai dit, Il permet cela mais ce ne sera pas Sa parfaite volonté. Cependant Il fera oeuvrer cela pour honorer et bénir Sa parfaite volonté. Et le fait de concevoir des enfants par le sexe en est un exemple.
+99 Maintenant remarquez. Dès le début, Moab fut une nation illégitime. Dès le départ, il fut illégitime bien que venant d’un père croyant et d’une fille croyante. Si vous voulez typifier cela et le transposer sur le plan spirituel, vous pouvez voir qu’il en est exactement de même pour
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 13
-cette dénomination qui se présente à la vue de tous. Certainement! Vous voyez, tout cela est
-complètement faux. Et regardez, lorsque cela commence comme cela, c’est comme une boule de
-neige qui roule en grossissant de plus en plus. Vous faites une erreur et vous partez sur cette
-erreur, puis vous continuez tout simplement à rouler une chose après l’autre et ainsi de suite. Et
-c’est de cette manière que l’église a commencé.
-100 C’est de cette manière que cela a commencé à Nicée, à Rome lorsque l’église catholique
-romaine… Tout au début, cette église est sortie de la Pentecôte, mais lorsqu’ils s’organisèrent et
-amenèrent des célébrités dans l’église, ils commencèrent à introduire des prières, à égrener le
-chapelet, à prier pour les morts et toutes ces autres choses; tout cela se mit alors à entraîner une
-erreur à la suite d’une autre et cela continua ainsi de suite jusqu’à en arriver au point où cela en
-est maintenant. Il n’y a absolument aucune manifestation de la Pentecôte dans tout cela. Vous
-voyez? Une erreur en entraîne une autre et ainsi de suite. Il n’y a qu’une chose à faire, c’est
-d’effacer l’enregistrement et de recommencer depuis le début.
-101 Martin Luther commença avec la justification. Cela aurait dû être l’église luthérienne la plus
-avancée. Vous voyez? Mais lorsqu’il s’organisa il ne put recevoir la sanctification de Wesley. Il
-s’était organisé et l’homme ne pouvait plus lutter pour la sanctification. C’est pourquoi
-l’Esprit s’en alla.
-102 Voyons maintenant le groupe de Lot; Moab était l’enfant de la fille de Lot et c’était un enfant
-illégitime dès le début. Remarquez maintenant: de la même manière que l’église naturelle, c’est-à-
-dire Moab, représente la dénomination naturelle, Israël représente l’Eglise Spirituelle. Israël, la
-véritable Eglise était l’Epouse de ce jour; elle fut appelée hors d’Egypte et confirmée
-comme étant la vérité.
-103 Remarquez maintenant qu’ils marchaient ensemble. Ils offrirent tous deux le même sacrifice,
-tous deux construisirent sept autels, ils offrirent un sacrifice pur, un boeuf. Et ils offrirent même
-des béliers, rendant témoignage qu’un Messie devait venir. Fondamentalement, ils étaient tous
-deux exactement identiques. Israël se trouvait là dans la vallée et Moab sur la colline. Moab avait
-sept autels et Israël sept autels; Moab avait sept boeufs et Israël sept boeufs; Moab avait sept
-béliers représentant le Messie qui devait venir et Israël avait sept béliers. Qu’avaient-ils de
-différent? Fondamentalement, tous deux étaient dans le vrai. Mais voyez-vous, Moab n’avait pas
-l’approbation de Dieu. Ce n’était qu’une nation, un groupe de célébrités, alors qu’Israël avait un
-prophète au milieu de lui. Ils avaient avec eux un rocher qui avait été frappé. Ils avaient une
-Colonne de feu. Ils avaient un serpent d’airain qui les guérissait. Les bénédictions de Dieu se
-mouvaient au milieu d’eux. Et ils étaient les enfants de Dieu; ils avaient été appelés à sortir.
-104 Nous voyons que cela est parfaitement typifié ici dans les églises d’aujourd’hui. Israël était un
-voyageur qui séjournait de place en place. Partout où se déplaçait la Colonne de feu, ils se
-déplaçaient avec Elle. Pour Moab, il n’en était pas ainsi; ils étaient installés dans leur propre
-dénomination, là-bas dans leur propre nation. Ils ne se déplaçaient pas mais demeuraient là-bas.
-Ils avaient leurs célébrités. Toutes les choses qu’ils devaient faire étaient ordonnées, ils avaient
-leurs guerriers, ils avaient leurs combattants, ils avaient leur roi de qui ils recevaient leurs ordres
-et tout le reste.
-105 Mais Moab vit qu’Israël avait quelque chose que lui n’avait pas. Il vit qu’il y avait une grande
-puissance au milieu d’Israël, c’était un prophète, et ce prophète était Moïse. Ils savaient que
-lorsque la bataille tournait mal, ils élevaient simplement les mains de ce prophète, les
-maintenaient en haut et le cours de la bataille changeait! Les Moabites n’avaient pas une telle
-chose, ils essayèrent donc de s’en sortir par le moyen de la politique, par un soutien politique. Ils
-envoyèrent chercher un prophète à l’étranger et le payèrent afin qu’il vienne pour qu’ils
-puissent avoir un prophète, et par là même, la puissance au milieu d’eux comme Israël l’avait au
-milieu de lui.
-106 Voyez-vous cette imitation charnelle? Voyez-vous l’église charnelle d’aujourd’hui? Elle fait
-exactement la même chose.
-107 Remarquez. Tous deux avaient des prophètes. La seule différence est que Moïse était le
-prophète de Dieu; son Roi, c’était Dieu. C’est de Lui qu’il recevait ses ordres, de la Parole
-de Dieu. Balaam avait aussi un roi, c’était Balak, roi de Moab et c’est de lui qu’il recevait ses
+cette dénomination qui se présente à la vue de tous. Certainement! Vous voyez, tout cela est complètement faux. Et regardez, lorsque cela commence comme cela, c’est comme une boule de neige qui roule en grossissant de plus en plus. Vous faites une erreur et vous partez sur cette erreur, puis vous continuez tout simplement à rouler une chose après l’autre et ainsi de suite. Et c’est de cette manière que l’église a commencé.
+100 C’est de cette manière que cela a commencé à Nicée, à Rome lorsque l’église catholique romaine… Tout au début, cette église est sortie de la Pentecôte, mais lorsqu’ils s’organisèrent et amenèrent des célébrités dans l’église, ils commencèrent à introduire des prières, à égrener le chapelet, à prier pour les morts et toutes ces autres choses; tout cela se mit alors à entraîner une erreur à la suite d’une autre et cela continua ainsi de suite jusqu’à en arriver au point où cela en est maintenant. Il n’y a absolument aucune manifestation de la Pentecôte dans tout cela. Vous voyez? Une erreur en entraîne une autre et ainsi de suite. Il n’y a qu’une chose à faire, c’est d’effacer l’enregistrement et de recommencer depuis le début.
+101 Martin Luther commença avec la justification. Cela aurait dû être l’église luthérienne la plus avancée. Vous voyez? Mais lorsqu’il s’organisa il ne put recevoir la sanctification de Wesley. Il s’était organisé et l’homme ne pouvait plus lutter pour la sanctification. C’est pourquoi l’Esprit s’en alla.
+102 Voyons maintenant le groupe de Lot; Moab était l’enfant de la fille de Lot et c’était un enfant illégitime dès le début. Remarquez maintenant: de la même manière que l’église naturelle, c’est-à-dire Moab, représente la dénomination naturelle, Israël représente l’Eglise Spirituelle. Israël, la véritable Eglise était l’Epouse de ce jour; elle fut appelée hors d’Egypte et confirmée comme étant la vérité.
+103 Remarquez maintenant qu’ils marchaient ensemble. Ils offrirent tous deux le même sacrifice, tous deux construisirent sept autels, ils offrirent un sacrifice pur, un boeuf. Et ils offrirent même des béliers, rendant témoignage qu’un Messie devait venir. Fondamentalement, ils étaient tous deux exactement identiques. Israël se trouvait là dans la vallée et Moab sur la colline. Moab avait sept autels et Israël sept autels; Moab avait sept boeufs et Israël sept boeufs; Moab avait sept béliers représentant le Messie qui devait venir et Israël avait sept béliers. Qu’avaient-ils de différent? Fondamentalement, tous deux étaient dans le vrai. Mais voyez-vous, Moab n’avait pas l’approbation de Dieu. Ce n’était qu’une nation, un groupe de célébrités, alors qu’Israël avait un prophète au milieu de lui. Ils avaient avec eux un rocher qui avait été frappé. Ils avaient une Colonne de feu. Ils avaient un serpent d’airain qui les guérissait. Les bénédictions de Dieu se mouvaient au milieu d’eux. Et ils étaient les enfants de Dieu; ils avaient été appelés à sortir.
+104 Nous voyons que cela est parfaitement typifié ici dans les églises d’aujourd’hui. Israël était un voyageur qui séjournait de place en place. Partout où se déplaçait la Colonne de feu, ils se déplaçaient avec Elle. Pour Moab, il n’en était pas ainsi; ils étaient installés dans leur propre dénomination, là-bas dans leur propre nation. Ils ne se déplaçaient pas mais demeuraient là-bas. Ils avaient leurs célébrités. Toutes les choses qu’ils devaient faire étaient ordonnées, ils avaient leurs guerriers, ils avaient leurs combattants, ils avaient leur roi de qui ils recevaient leurs ordres et tout le reste.
+105 Mais Moab vit qu’Israël avait quelque chose que lui n’avait pas. Il vit qu’il y avait une grande puissance au milieu d’Israël, c’était un prophète, et ce prophète était Moïse. Ils savaient que lorsque la bataille tournait mal, ils élevaient simplement les mains de ce prophète, les maintenaient en haut et le cours de la bataille changeait! Les Moabites n’avaient pas une telle chose, ils essayèrent donc de s’en sortir par le moyen de la politique, par un soutien politique. Ils envoyèrent chercher un prophète à l’étranger et le payèrent afin qu’il vienne pour qu’ils puissent avoir un prophète, et par là même, la puissance au milieu d’eux comme Israël l’avait au milieu de lui.
+106 Voyez-vous cette imitation charnelle? Voyez-vous l’église charnelle d’aujourd’hui? Elle fait exactement la même chose.
+107 Remarquez. Tous deux avaient des prophètes. La seule différence est que Moïse était le prophète de Dieu; son Roi, c’était Dieu. C’est de Lui qu’il recevait ses ordres, de la Parole de Dieu. Balaam avait aussi un roi, c’était Balak, roi de Moab et c’est de lui qu’il recevait ses
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 14
-ordres et ses bénédictions. Balak dit donc à Balaam: “Descends et maudis-moi ce peuple, car ils
-couvrent toute la surface de la terre. Ils viennent par là et broutent tout sur leur passage comme
-un boeuf qui broute l’herbe”. Balak dit: “Descends donc maintenant car j’ai cru comprendre que tu
-pouvais maudire ou bénir, et que tout ce que tu faisais était confirmé”.
-108 Nous remarquons maintenant que ce prophète était un prophète qui avait été ordonné par
-Dieu mais que, pour des raisons politiques, il avait vendu son droit d’aînesse, tout comme
-l’a fait l’église d’aujourd’hui, comme le firent Luther, Wesley, la Pentecôte et tous ces groupes
-qui vendirent leur droit d’aînesse pour promouvoir leur organisation. Moïse était sous les ordres de
-Dieu, Balaam était sous les ordres de Balak. Pourtant ces deux prophètes étaient appelés
-hommes de Dieu et tous deux étaient spirituels. Remarquez la différence. Tous deux avaient un
-chef: celui de Moïse était Dieu, celui de Balaam était Balak.
-109 Voyez maintenant ici comme le spirituel s’applique à démontrer que le naturel est dans
-l’erreur. Moïse, envoyé par Dieu, dans l’exercice de ses fonctions, est défié par un autre prophète
-de Dieu. Pouvez-vous imaginer cela? Moïse, qui a été appelé par Dieu, ordonné par Dieu, qui se
-tient au service de Dieu, se retrouve dans ce groupe froid et formel et est mis au défi par un autre
-prophète de Dieu que Dieu Lui-même avait béni et ordonné. Comment pourriez-vous faire la
-différence? Tous deux étaient prophètes. Dieu avait parlé aux deux prophètes.
-110 Certains disent: «Dieu a dit de faire ceci» ou «Dieu a dit de faire cela». Je ne discute pas
-cela. Mais ce n’est pas dans la ligne de la Parole de Dieu, du prophète. Peu importe s’il s’agit
-d’un prophète, il n’est pas dans la ligne. Tellement de gens ont été trompés comme cela.
-111 «Oh, ce frère sait faire ceci», et «ce frère peut faire cela». Et renier la Parole? “Même si je
-parlais les langues des hommes et des anges, même si j’avais le pouvoir de déplacer les
-montagnes, même si je donnais tous mes biens pour nourrir les pauvres, je ne serais toujours
-rien”, “Beaucoup viendront à moi en ce jour et diront: Seigneur, Seigneur, n’ai-je pas prophétisé
-en Ton nom? N’ai-je pas chassé les démons en Ton Nom et accompli des oeuvres puissantes? Et
-Je leur dirai: Retirez-vous de moi, ouvriers d’iniquité. Je ne vous ai jamais connus”. Ils étaient
-pourtant venus en affirmant qu’ils avaient fait cela, mais Jésus leur dit qu’ils étaient des ouvriers
-d’iniquité. Qu’est-ce que l’iniquité? C’est lorsque vous savez qu’il y a quelque chose que
-vous devriez faire, que vous savez qu’il est juste de le faire et que pourtant vous ne le faites
-pas. Voyez-vous comment cela se passera dans les derniers jours? Ecoutez tout le conseil de
-Dieu.
-112 C’est ce que je me proposais de faire ce soir. J’avais dit que j’aurai terminé à neuf heures,
-mais il se peut que je finisse un peu plus tard. Regardez! C’est ce que j’avais l’intention de faire, je
-voulais vous montrer cela selon la ligne de la Parole de Dieu, je voulais vous montrer que Dieu
-doit s’en tenir à Sa Parole afin de rester Dieu.
-113 Maintenant, nous remarquons cela. Tous deux étaient des hommes spirituels, tous deux
-étaient des prophètes, tous deux avaient été appelés. Et Moïse était là, accomplissant exactement
-son devoir, avec une Colonne de feu chaque jour renouvelée devant lui. L’Esprit de Dieu était sur
-lui et il accomplissait son devoir. Voici maintenant un autre serviteur de Dieu, un homme qui avait
-été appelé par Dieu, ordonné par Dieu, un prophète à qui vient la Parole de Dieu. C’est là que
-réside le danger. Personne ne pouvait nier que cet homme venait de Dieu car la Bible dit que
-l’Esprit de Dieu lui avait parlé et qu’il était un prophète. Mais voyez-vous, lorsqu’il reçut la
-véritable réponse de Dieu, il ne voulut pas la garder, il n’y fit pas attention. Il alla alors défier
-Moïse.
-114 Balaam recherchait de tout son coeur la volonté de Dieu. Maintenant lorsque ce grand
-homme vint lui dire: “Balaam, le roi Balak t’a envoyé chercher afin que tu viennes immédiatement
-et que tu maudisses ce peuple d’Israël car ils se sont répandus sur toute la surface de la terre et
-maintenant ils ont pris position contre moi et ils ont conquis tous les royaumes qui se trouvaient
-autour d’eux. Nous voulons maintenant que tu viennes et que tu maudisses ce peuple car j’ai
-entendu dire que si tu maudissais quiconque, il était maudit”. Maintenant, vous voyez, Balaam
-était un homme de Dieu. “Ce que tu bénis est béni”. C’était un serviteur de Dieu.
-115 Et comme il était prophète, Balaam pensa: “Il ne me reste qu’une chose à faire, c’est de
-chercher quelle est la volonté de Dieu”. C’est là le devoir d’un prophète s’il a été appelé à être
-prophète.
+ordres et ses bénédictions. Balak dit donc à Balaam: “Descends et maudis-moi ce peuple, car ils couvrent toute la surface de la terre. Ils viennent par là et broutent tout sur leur passage comme un boeuf qui broute l’herbe”. Balak dit: “Descends donc maintenant car j’ai cru comprendre que tu pouvais maudire ou bénir, et que tout ce que tu faisais était confirmé”.
+108 Nous remarquons maintenant que ce prophète était un prophète qui avait été ordonné par Dieu mais que, pour des raisons politiques, il avait vendu son droit d’aînesse, tout comme l’a fait l’église d’aujourd’hui, comme le firent Luther, Wesley, la Pentecôte et tous ces groupes qui vendirent leur droit d’aînesse pour promouvoir leur organisation. Moïse était sous les ordres de Dieu, Balaam était sous les ordres de Balak. Pourtant ces deux prophètes étaient appelés hommes de Dieu et tous deux étaient spirituels. Remarquez la différence. Tous deux avaient un chef: celui de Moïse était Dieu, celui de Balaam était Balak.
+109 Voyez maintenant ici comme le spirituel s’applique à démontrer que le naturel est dans l’erreur. Moïse, envoyé par Dieu, dans l’exercice de ses fonctions, est défié par un autre prophète de Dieu. Pouvez-vous imaginer cela? Moïse, qui a été appelé par Dieu, ordonné par Dieu, qui se tient au service de Dieu, se retrouve dans ce groupe froid et formel et est mis au défi par un autre prophète de Dieu que Dieu Lui-même avait béni et ordonné. Comment pourriez-vous faire la différence? Tous deux étaient prophètes. Dieu avait parlé aux deux prophètes.
+110 Certains disent: «Dieu a dit de faire ceci» ou «Dieu a dit de faire cela». Je ne discute pas cela. Mais ce n’est pas dans la ligne de la Parole de Dieu, du prophète. Peu importe s’il s’agit d’un prophète, il n’est pas dans la ligne. Tellement de gens ont été trompés comme cela.
+111 «Oh, ce frère sait faire ceci», et «ce frère peut faire cela». Et renier la Parole? “Même si je parlais les langues des hommes et des anges, même si j’avais le pouvoir de déplacer les montagnes, même si je donnais tous mes biens pour nourrir les pauvres, je ne serais toujours rien”, “Beaucoup viendront à moi en ce jour et diront: Seigneur, Seigneur, n’ai-je pas prophétisé en Ton nom? N’ai-je pas chassé les démons en Ton Nom et accompli des oeuvres puissantes? Et Je leur dirai: Retirez-vous de moi, ouvriers d’iniquité. Je ne vous ai jamais connus”. Ils étaient pourtant venus en affirmant qu’ils avaient fait cela, mais Jésus leur dit qu’ils étaient des ouvriers d’iniquité. Qu’est-ce que l’iniquité? C’est lorsque vous savez qu’il y a quelque chose que vous devriez faire, que vous savez qu’il est juste de le faire et que pourtant vous ne le faites pas. Voyez-vous comment cela se passera dans les derniers jours? Ecoutez tout le conseil de Dieu.
+112 C’est ce que je me proposais de faire ce soir. J’avais dit que j’aurai terminé à neuf heures, mais il se peut que je finisse un peu plus tard. Regardez! C’est ce que j’avais l’intention de faire, je voulais vous montrer cela selon la ligne de la Parole de Dieu, je voulais vous montrer que Dieu doit s’en tenir à Sa Parole afin de rester Dieu.
+113 Maintenant, nous remarquons cela. Tous deux étaient des hommes spirituels, tous deux étaient des prophètes, tous deux avaient été appelés. Et Moïse était là, accomplissant exactement son devoir, avec une Colonne de feu chaque jour renouvelée devant lui. L’Esprit de Dieu était sur lui et il accomplissait son devoir. Voici maintenant un autre serviteur de Dieu, un homme qui avait été appelé par Dieu, ordonné par Dieu, un prophète à qui vient la Parole de Dieu. C’est là que réside le danger. Personne ne pouvait nier que cet homme venait de Dieu car la Bible dit que l’Esprit de Dieu lui avait parlé et qu’il était un prophète. Mais voyez-vous, lorsqu’il reçut la véritable réponse de Dieu, il ne voulut pas la garder, il n’y fit pas attention. Il alla alors défier Moïse.
+114 Balaam recherchait de tout son coeur la volonté de Dieu. Maintenant lorsque ce grand homme vint lui dire: “Balaam, le roi Balak t’a envoyé chercher afin que tu viennes immédiatement et que tu maudisses ce peuple d’Israël car ils se sont répandus sur toute la surface de la terre et maintenant ils ont pris position contre moi et ils ont conquis tous les royaumes qui se trouvaient autour d’eux. Nous voulons maintenant que tu viennes et que tu maudisses ce peuple car j’ai entendu dire que si tu maudissais quiconque, il était maudit”. Maintenant, vous voyez, Balaam était un homme de Dieu. “Ce que tu bénis est béni”. C’était un serviteur de Dieu.
+115 Et comme il était prophète, Balaam pensa: “Il ne me reste qu’une chose à faire, c’est de chercher quelle est la volonté de Dieu”. C’est là le devoir d’un prophète s’il a été appelé à être prophète.
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 15
-116 Tout d’abord, que doit faire un prophète? Il doit chercher qu’elle est la volonté de Dieu,
-quelle est Sa Parole. C’est ce qu’il doit faire! Car étant prophète, c’est à lui que vient la Parole
-de Dieu. Les gens disent: «Eh bien, vous n’êtes pas théologien». La Bible n’a jamais dit que la
-Parole de Dieu venait à un théologien. Ce sont eux qui la gâchent. La Parole vient au prophète
-de Dieu.
-117 Nous avons là un homme qui était prophète de Dieu. Et remarquez que lorsqu’on le paya
-pour aller là-bas maudire cet autre peuple de Dieu, il chercha la volonté de Dieu. Il voulait
-connaître Sa parfaite volonté et Dieu lui fit connaître Sa parfaite volonté en la matière. Sa parfaite
-volonté lui fut présentée. Quelle était Sa volonté? “Ne va pas là-bas!”. Ce fut la première
-parole de Dieu. “Ne va pas avec eux. N’essaye pas d’attaquer mon peuple qui marche selon mes
-voies parfaites”.
-118 Voyez comment cela se passe aujourd’hui! Ils veulent faire des histoires, discuter et toutes
-ces autres choses lorsqu’ils voient l’Esprit de Dieu oeuvrer au milieu de vous et cela fait des
-années qu’ils essayent d’étouffer cela. Mais plus ils essayent de l’étouffer, plus cela prend de
-l’importance. Vous ne pouvez maudire ce que Dieu a béni. Vous ne pouvez tout simplement
-pas faire cela.
-119 Vous voyez donc que c’était le peuple de Dieu. Maintenant, vous voyez que bien que ce
-prophète se trouvait là-bas, qu’il avait été loué par le roi et qu’il oeuvrait au milieu de toutes ces
-célébrités… et il cherchait la volonté de Dieu. La Parole de Dieu venait à lui. Et la volonté de Dieu
-lui répondit et dit: “Ne maudis pas ce peuple! Je l’ai béni”.
-120 Maintenant, il n’y a pas un seul théologien sous les cieux qui puisse nier ce Message que
-nous prêchons, car il est exactement la Parole de Dieu qui convient pour ce temps. Dieu l’a
-authentifié dans chaque chose qui a été dite et faite. Il a prouvé que ce Message était vrai.
-Maintenant, pas un seul théologien, pas un seul lecteur de la Bible, pas un seul prophète (s’il est
-vraiment un prophète) ne peut regarder cette Parole sans y voir la même chose. S’il n’y voit pas
-la même chose, cela montre que quelque chose ne va pas.
-121 Vous dites: «Oh, et bien, je pourrais prendre cela autrement». Balak et Balaam le pouvaient
-aussi. Vous voyez? Mais Dieu confirma Moïse. En quoi consistait la preuve? C’était la Parole
-de Dieu. Il entendit la décision de Dieu simple et claire: “Ne va pas! N’essaye pas de maudire ce
-que j’ai béni. C’est mon peuple”. Mais savez-vous quoi? Balaam n’aimait de toute façon pas ce
-peuple. Oh, combien y a-t-il de Balaam dans le monde aujourd’hui? Il n’aimait de toute façon pas
-ce groupe.
-122 Il reçut la claire décision de Dieu: “Ne va pas!”. Mais vous voyez, au lieu d’obéir, il fit la même
-chose que Caïn, que Coré, il fut jaloux et il chercha une raison pour y aller de toute façon.
-123 Remarquez ce que fit le quartier général de sa dénomination après qu’il soit revenu en disant:
-“Non, n’allez pas croire que je vais descendre là-bas, ne croyez pas que j’aie quoi que ce soit à
-voir avec eux. Je ne vais pas discuter avec ces gens car Dieu vient de me dire qu’ils étaient Son
-peuple et je ne crois pas que j’irai”. Si seulement il en était resté à cela! Mais il savait au fond de
-son coeur qu’il ne les aimait pas. Vous voyez? Ils n’étaient pas de son groupe. Et tout ce qui
-n’appartenait pas à son groupe ne pouvait de toute façon pas avoir raison. Vous voyez? Et il
-abaissa son regard sur eux en disant: “Ces gens ont fait des choses horribles. Un Dieu saint va
-certainement maudire des gens comme cela. Ils sont illettrés et n’ont pas été éduqués comme
-nous. Nous sommes des gens plus avisés. Oh, ils prétendent bien servir Dieu mais regardez-les.
-Que sont-ils? Une bande d’esclaves, de fabricants de briques, que les Egyptiens ont chassés
-jusqu’ici. Eh bien, Dieu ne voudrait sûrement rien avoir à faire avec un groupe aussi sale que
-cela!”.
-124 Il ne vit pas ce Rocher qui avait été frappé, ni ce serpent d’airain et cette Colonne de feu. Il
-essaya de les juger selon un point de vue moral. Il ne prit pas garde à cet appel plus élevé de
-Dieu. C’était par grâce, par élection qu’ils se trouvaient dans cette ligne avec la Parole de
-Dieu. Et lorsqu’il voulut les maudire, Dieu lui dit: “Ne fais pas cela; ils sont à moi. Laisse-les
-tranquilles! Ne les touche pas!”.
-125 Et ces hommes firent demi-tour et s’en retournèrent. Observez maintenant les quartiers
-généraux de sa dénomination lorsqu’il fut rentré. Ils envoyèrent un groupe plus influent. Cette fois-
+116 Tout d’abord, que doit faire un prophète? Il doit chercher qu’elle est la volonté de Dieu, quelle est Sa Parole. C’est ce qu’il doit faire! Car étant prophète, c’est à lui que vient la Parole de Dieu. Les gens disent: «Eh bien, vous n’êtes pas théologien». La Bible n’a jamais dit que la Parole de Dieu venait à un théologien. Ce sont eux qui la gâchent. La Parole vient au prophète de Dieu.
+117 Nous avons là un homme qui était prophète de Dieu. Et remarquez que lorsqu’on le paya pour aller là-bas maudire cet autre peuple de Dieu, il chercha la volonté de Dieu. Il voulait connaître Sa parfaite volonté et Dieu lui fit connaître Sa parfaite volonté en la matière. Sa parfaite volonté lui fut présentée. Quelle était Sa volonté? “Ne va pas là-bas!”. Ce fut la première parole de Dieu. “Ne va pas avec eux. N’essaye pas d’attaquer mon peuple qui marche selon mes voies parfaites”.
+118 Voyez comment cela se passe aujourd’hui! Ils veulent faire des histoires, discuter et toutes ces autres choses lorsqu’ils voient l’Esprit de Dieu oeuvrer au milieu de vous et cela fait des années qu’ils essayent d’étouffer cela. Mais plus ils essayent de l’étouffer, plus cela prend de l’importance. Vous ne pouvez maudire ce que Dieu a béni. Vous ne pouvez tout simplement pas faire cela.
+119 Vous voyez donc que c’était le peuple de Dieu. Maintenant, vous voyez que bien que ce prophète se trouvait là-bas, qu’il avait été loué par le roi et qu’il oeuvrait au milieu de toutes ces célébrités… et il cherchait la volonté de Dieu. La Parole de Dieu venait à lui. Et la volonté de Dieu lui répondit et dit: “Ne maudis pas ce peuple! Je l’ai béni”.
+120 Maintenant, il n’y a pas un seul théologien sous les cieux qui puisse nier ce Message que nous prêchons, car il est exactement la Parole de Dieu qui convient pour ce temps. Dieu l’a authentifié dans chaque chose qui a été dite et faite. Il a prouvé que ce Message était vrai. Maintenant, pas un seul théologien, pas un seul lecteur de la Bible, pas un seul prophète (s’il est vraiment un prophète) ne peut regarder cette Parole sans y voir la même chose. S’il n’y voit pas la même chose, cela montre que quelque chose ne va pas.
+121 Vous dites: «Oh, et bien, je pourrais prendre cela autrement». Balak et Balaam le pouvaient aussi. Vous voyez? Mais Dieu confirma Moïse. En quoi consistait la preuve? C’était la Parole de Dieu. Il entendit la décision de Dieu simple et claire: “Ne va pas! N’essaye pas de maudire ce que j’ai béni. C’est mon peuple”. Mais savez-vous quoi? Balaam n’aimait de toute façon pas ce peuple. Oh, combien y a-t-il de Balaam dans le monde aujourd’hui? Il n’aimait de toute façon pas ce groupe.
+122 Il reçut la claire décision de Dieu: “Ne va pas!”. Mais vous voyez, au lieu d’obéir, il fit la même chose que Caïn, que Coré, il fut jaloux et il chercha une raison pour y aller de toute façon.
+123 Remarquez ce que fit le quartier général de sa dénomination après qu’il soit revenu en disant: “Non, n’allez pas croire que je vais descendre là-bas, ne croyez pas que j’aie quoi que ce soit à voir avec eux. Je ne vais pas discuter avec ces gens car Dieu vient de me dire qu’ils étaient Son peuple et je ne crois pas que j’irai”. Si seulement il en était resté à cela! Mais il savait au fond de son coeur qu’il ne les aimait pas. Vous voyez? Ils n’étaient pas de son groupe. Et tout ce qui n’appartenait pas à son groupe ne pouvait de toute façon pas avoir raison. Vous voyez? Et il abaissa son regard sur eux en disant: “Ces gens ont fait des choses horribles. Un Dieu saint va certainement maudire des gens comme cela. Ils sont illettrés et n’ont pas été éduqués comme nous. Nous sommes des gens plus avisés. Oh, ils prétendent bien servir Dieu mais regardez-les. Que sont-ils? Une bande d’esclaves, de fabricants de briques, que les Egyptiens ont chassés jusqu’ici. Eh bien, Dieu ne voudrait sûrement rien avoir à faire avec un groupe aussi sale que cela!”.
+124 Il ne vit pas ce Rocher qui avait été frappé, ni ce serpent d’airain et cette Colonne de feu. Il essaya de les juger selon un point de vue moral. Il ne prit pas garde à cet appel plus élevé de Dieu. C’était par grâce, par élection qu’ils se trouvaient dans cette ligne avec la Parole de Dieu. Et lorsqu’il voulut les maudire, Dieu lui dit: “Ne fais pas cela; ils sont à moi. Laisse-les tranquilles! Ne les touche pas!”.
+125 Et ces hommes firent demi-tour et s’en retournèrent. Observez maintenant les quartiers généraux de sa dénomination lorsqu’il fut rentré. Ils envoyèrent un groupe plus influent. Cette fois-
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 16
-ci, au lieu que ce soit simplement des laïques, ce furent peut-être des docteurs en divinité.
-C’étaient peut-être des évêques ou des surveillants généraux. Il envoya un meilleur groupe, un
-groupe un peu plus influent, des gens qui avaient une instruction un peu meilleure, qui pouvaient
-mieux lui exposer le plan, de manière à le faire apparaître raisonnable.
-126 Vous voyez, c’est ce que fit Caïn. Il raisonna. C’est ce que fit Coré. Il raisonna. Ce n’est pas
-lui qui raisonnait. Mais nous rejetons les raisonnements; nous croyons Dieu. Peu importe ce
-que quiconque d’autre peut nous dire, nous croyons Dieu. Nous ne raisonnons pas avec ce
-que Dieu dit. Nous ne pouvons pas raisonner avec Cela. Vous devez l’accepter par la foi. Et tout
-ce que vous savez, vous ne devez plus le raisonner. Je ne sais pas comment Il fait cela; je crois
-simplement qu’Il le fait. Je ne sais pas comment Il fera pour tenir cette promesse, mais Il a dit qu’Il
-le ferait; je le crois. J’accepte cela sur la base de ma foi en la Parole de Dieu. Vous dites: «Eh
-bien, vous ne pouvez pas vous en sortir avec cela». Je ne sais pas comment je m’en sortirai avec
-cela, mais Il a dit: «Dis cela». Je me souviens que mon pasteur baptiste m’a dit un jour: «Eh bien,
-Billy, tu finiras par prêcher aux poteaux de l’église. Crois-tu qu’il y a quelqu’un qui puisse écouter
-une chose pareille?». Je dis: «C’est ce que Dieu a dit». «Comment vas-tu faire, avec ton niveau
-d’école primaire, pour prier pour des rois et prêcher autour du monde?».
-127 Je dis: «Je ne sais pas comment je ferai mais c’est ce qu’Il a dit et cela me suffit». Vous
-voyez? «Il l’a dit ainsi. Je ne sais pas comment cela s’accomplira». Il dit: «Crois-tu que ces gens
-qui viennent de ce grand monde instruit et contre lesquels tu vas t’élever au sujet de la guérison
-divine et toutes ces choses, penses-tu qu’ils vont croire cela?».
-128 Je dis: «Ce n’est pas à moi de savoir s’ils vont le croire ou non; mon devoir est de le
-prêcher. C’est ce qu’Il m’a dit. Il a dit qu’Il serait avec moi et qu’Il me dirait ce que je dois faire».
-Et cela s’est passé exactement comme Il a dit que cela arriverait. «Tout d’abord, prends-leur la
-main et ensuite il arrivera que tu connaîtras même les secrets de leur cœur». Et, je vous en ai
-parlé, c’est de cette manière que cela s’est passé. Comment cela se fait-il? Je ne sais toujours
-pas comment cela se fait! Ce n’est pas mon problème de savoir comment cela arrive; cela se
-fait, tout simplement.
-129 Qui pourrait expliquer ce qui arriva lorsque Dieu dit à Elie: «Monte là-haut et installe-toi sur la
-montagne et je te nourrirai. J’ai ordonné aux corbeaux de te nourrir». Comment un corbeau
-pouvait-il prendre une tranche de pain et un morceau de poisson cuit et l’apporter à un prophète?
-Cela dépasse tout ce que je pourrais expliquer. Je ne pense pas que vous puissiez l’expliquer ni
-personne d’autre. Mais Il le fit! C’est tout ce qu’il fallait. Il le fit et c’est la vérité. Comment le
-fit-Il, je ne le sais pas. Ce n’est pas mon affaire. Mais Il le fit. Comment fit-Il la terre, je ne le sais
-pas; mais Il la fit. Comment fit-Il pour envoyer Son Fils, je ne le sais pas, mais Il le fit. Comment fit-
-Il pour ressusciter des morts, je ne sais pas, mais Il le fit. Comment fit-Il pour me sauver? Je ne le
-sais pas, mais Il le fit. C’est juste. Comment fit-Il pour vous sauver? Je ne peux pas vous le dire,
-mais Il le fit. Comment fit-Il pour me guérir? Je ne le sais pas, mais Il le fit. Il a promis de le faire et
-Il tient Sa Parole. Balaam aurait dû savoir cela et il savait vraiment faire mieux que cela.
-130 Remarquez que vint ce groupe influent qui était meilleur; et qu’avaient-ils de mieux? Ils
-avaient de meilleurs dons. Non seulement ils avaient de meilleurs dons, mais ils pouvaient lui
-donner plus d’argent et lui offrir une meilleure position. «Maintenant, en plus de votre position de
-pasteur régulier de notre organisation, nous ferons de vous le surintendant du district». Vous
-voyez? «Nous ferons quelque chose pour vous si vous voulez simplement chasser ce groupe de
-gens de là et arrêter tout cela». Oh, c’est une glorieuse position qu’ils lui offrirent. Ils dirent: «Vous
-savez que j’ai le pouvoir de vous procurer de l’avancement». Vous voyez d’où lui venait la
-parole qu’il recevait? De la tête de la nation!
-131 D’où Moïse recevait-il ses paroles? Du Roi des Cieux. Une de ces paroles était la promesse
-de la Parole de Dieu: “Je vous emmènerai vers la terre promise et aucun homme ne tiendra
-devant vous. J’enverrai des frelons devant vous et je les disperserai de gauche à droite. Et vous
-vous emparerez de ce pays. Je vous l’ai déjà donné. Allez de l’avant; emparez-vous de ce pays et
-qu’il soit votre possession; c’est le vôtre”. Vous voyez, c’est Celui-là que Moïse écouta. Or cet
-homme écoutait ces choses à un point tel qu’il sentit en son coeur qu’il y avait quelque chose dont
-il était jaloux et c’est pourquoi il alla vers son chef ecclésiastique. Vous voyez?
+ci, au lieu que ce soit simplement des laïques, ce furent peut-être des docteurs en divinité. C’étaient peut-être des évêques ou des surveillants généraux. Il envoya un meilleur groupe, un groupe un peu plus influent, des gens qui avaient une instruction un peu meilleure, qui pouvaient mieux lui exposer le plan, de manière à le faire apparaître raisonnable.
+126 Vous voyez, c’est ce que fit Caïn. Il raisonna. C’est ce que fit Coré. Il raisonna. Ce n’est pas lui qui raisonnait. Mais nous rejetons les raisonnements; nous croyons Dieu. Peu importe ce que quiconque d’autre peut nous dire, nous croyons Dieu. Nous ne raisonnons pas avec ce que Dieu dit. Nous ne pouvons pas raisonner avec Cela. Vous devez l’accepter par la foi. Et tout ce que vous savez, vous ne devez plus le raisonner. Je ne sais pas comment Il fait cela; je crois simplement qu’Il le fait. Je ne sais pas comment Il fera pour tenir cette promesse, mais Il a dit qu’Il le ferait; je le crois. J’accepte cela sur la base de ma foi en la Parole de Dieu. Vous dites: «Eh bien, vous ne pouvez pas vous en sortir avec cela». Je ne sais pas comment je m’en sortirai avec cela, mais Il a dit: «Dis cela». Je me souviens que mon pasteur baptiste m’a dit un jour: «Eh bien, Billy, tu finiras par prêcher aux poteaux de l’église. Crois-tu qu’il y a quelqu’un qui puisse écouter une chose pareille?». Je dis: «C’est ce que Dieu a dit». «Comment vas-tu faire, avec ton niveau d’école primaire, pour prier pour des rois et prêcher autour du monde?».
+127 Je dis: «Je ne sais pas comment je ferai mais c’est ce qu’Il a dit et cela me suffit». Vous voyez? «Il l’a dit ainsi. Je ne sais pas comment cela s’accomplira». Il dit: «Crois-tu que ces gens qui viennent de ce grand monde instruit et contre lesquels tu vas t’élever au sujet de la guérison divine et toutes ces choses, penses-tu qu’ils vont croire cela?».
+128 Je dis: «Ce n’est pas à moi de savoir s’ils vont le croire ou non; mon devoir est de le prêcher. C’est ce qu’Il m’a dit. Il a dit qu’Il serait avec moi et qu’Il me dirait ce que je dois faire». Et cela s’est passé exactement comme Il a dit que cela arriverait. «Tout d’abord, prends-leur la main et ensuite il arrivera que tu connaîtras même les secrets de leur cœur». Et, je vous en ai parlé, c’est de cette manière que cela s’est passé. Comment cela se fait-il? Je ne sais toujours pas comment cela se fait! Ce n’est pas mon problème de savoir comment cela arrive; cela se fait, tout simplement.
+129 Qui pourrait expliquer ce qui arriva lorsque Dieu dit à Elie: «Monte là-haut et installe-toi sur la montagne et je te nourrirai. J’ai ordonné aux corbeaux de te nourrir». Comment un corbeau pouvait-il prendre une tranche de pain et un morceau de poisson cuit et l’apporter à un prophète? Cela dépasse tout ce que je pourrais expliquer. Je ne pense pas que vous puissiez l’expliquer ni personne d’autre. Mais Il le fit! C’est tout ce qu’il fallait. Il le fit et c’est la vérité. Comment le fit-Il, je ne le sais pas. Ce n’est pas mon affaire. Mais Il le fit. Comment fit-Il la terre, je ne le sais pas; mais Il la fit. Comment fit-Il pour envoyer Son Fils, je ne le sais pas, mais Il le fit. Comment fit-Il pour ressusciter des morts, je ne sais pas, mais Il le fit. Comment fit-Il pour me sauver? Je ne le sais pas, mais Il le fit. C’est juste. Comment fit-Il pour vous sauver? Je ne peux pas vous le dire, mais Il le fit. Comment fit-Il pour me guérir? Je ne le sais pas, mais Il le fit. Il a promis de le faire et Il tient Sa Parole. Balaam aurait dû savoir cela et il savait vraiment faire mieux que cela.
+130 Remarquez que vint ce groupe influent qui était meilleur; et qu’avaient-ils de mieux? Ils avaient de meilleurs dons. Non seulement ils avaient de meilleurs dons, mais ils pouvaient lui donner plus d’argent et lui offrir une meilleure position. «Maintenant, en plus de votre position de pasteur régulier de notre organisation, nous ferons de vous le surintendant du district». Vous voyez? «Nous ferons quelque chose pour vous si vous voulez simplement chasser ce groupe de gens de là et arrêter tout cela». Oh, c’est une glorieuse position qu’ils lui offrirent. Ils dirent: «Vous savez que j’ai le pouvoir de vous procurer de l’avancement». Vous voyez d’où lui venait la parole qu’il recevait? De la tête de la nation!
+131 D’où Moïse recevait-il ses paroles? Du Roi des Cieux. Une de ces paroles était la promesse de la Parole de Dieu: “Je vous emmènerai vers la terre promise et aucun homme ne tiendra devant vous. J’enverrai des frelons devant vous et je les disperserai de gauche à droite. Et vous vous emparerez de ce pays. Je vous l’ai déjà donné. Allez de l’avant; emparez-vous de ce pays et qu’il soit votre possession; c’est le vôtre”. Vous voyez, c’est Celui-là que Moïse écouta. Or cet homme écoutait ces choses à un point tel qu’il sentit en son coeur qu’il y avait quelque chose dont il était jaloux et c’est pourquoi il alla vers son chef ecclésiastique. Vous voyez?
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 17
-132 Remarquez qu’il était question d’une meilleure position. Il dit: «Vous savez que je peux
-vous faire avoir de l’avancement? Je vous ferai avoir une meilleure place. Je ferai même plus pour
-vous; j’augmenterai vos gages, je vous donnerai un meilleur salaire». Et en lui offrant tout cela, il
-l’aveugla.
-133 Combien de Balaam y a-t-il dans le monde aujourd’hui, qui par une meilleure position,
-une meilleure église, la promesse de quelque chose… Prenons le cas d’un homme qui tient
-ses yeux fixés sur la Parole de Dieu et sur les oeuvres de Dieu. Cet homme bon qui a de
-l’influence va devenir serviteur de Dieu et s’occupera d’une bonne congrégation. Au bout d’un
-certain temps on lui présentera le baptême du Saint-Esprit; on lui présentera le baptême au Nom
-de Jésus, qui est la seule manière scripturaire de baptiser. Et lorsqu’on lui aura présenté cela et
-que la dénomination saura qu’elle va le perdre s’il rentre là-dedans, elle lui offrira une meilleure
-position et un changement dans l’église. Vous voyez, c’est de nouveau ce vieux Balaamisme, tout
-comme il en fut au début.
-134 Maintenant cet homme qui lit la Bible ne peut La lire sans voir que c’est la Vérité. Personne
-n’a jamais été baptisé en invoquant les titres de Père, Fils et Saint-Esprit. C’est là un credo
-catholique et non pas une doctrine de la Bible. Personne dans la Bible, ni même jusque trois cents
-ans après la mort du dernier apôtre, n’a été baptisé ainsi, mais tous ont été baptisés dans le
-Nom de Jésus-Christ. C’est l’église catholique romaine qui commença avec cela et toutes les
-autres y vinrent aussi. N’importe quel pasteur qui se met à étudier et à regarder cela sait que c’est
-la Vérité. Mais il fera des compromis pour garder sa popularité, pour maintenir sa position, pour
-être mieux considéré de son peuple. «Eh bien», dites-vous «Dieu l’a béni».
-135 Certainement. Certains ont reçu des dons de guérison, certains ont eu de grandes
-campagnes et s’en sont glorifiés; et ils ont reçu la même réponse de la Parole de Dieu que
-vous-même ou n’importe quel autre homme recevrait: Dieu ne change pas. Vous voyez ce
-que je veux dire?
-136 En vue d’une meilleure position Balaam pensa que… Maintenant regardez, lorsque ce groupe
-plus important revint, Balaam prit un faux texte. Il aurait dû dire: “Sortez de ma présence! Je vous
-ai annoncé la Parole de Dieu. Partez! Ceci est le AINSI DIT LE SEIGNEUR!”. Mais vous voyez ce
-que firent les cadeaux et le fait de pouvoir devenir un homme plus populaire…
-137 Oh, comme ils aiment faire cela! «Nous vous enverrons par tout le monde. Nous vous
-donnerons un avion spécial. Nous sponsoriserons vos rencontres partout, si vous voulez
-simplement…». Oh, non! Vous voyez? Nous savons ce que dit la Parole. Nous savons ce que
-Dieu a dit. Avec l’aide de Dieu, nous nous en tiendrons à cela. Peu importe de quel genre de
-promesse il s’agit et tout ce que vous pouvez payer en plus et combien de ceci ou de cela vous
-pouvez produire, nous voulons le AINSI DIT LE SEIGNEUR et ce qu’Il a dit ici en premier. Eh
-bien, l’église a dit que c’était secondaire. Mais nous voulons ce que le Seigneur a dit au début,
-et que rien n’y soit ajouté ni retranché, sous peine que votre nom ne soit retranché du Livre
-de Vie. Ajouter un mot à la Parole ou en retrancher un mot… Nous voulons ce qu’Il a dit, non ce
-que l’église a dit ou ce que le Dr Jones a dit, ou ce que quelqu’un d’autre a dit, nous voulons le
-AINSI DIT LE SEIGNEUR, ce que la Parole a dit.
-138 Mais maintenant, nous découvrons que Balaam, qui était un serviteur de Dieu… Il y en a
-beaucoup de ces hommes qui commencent ainsi, sont ordonnés par Dieu et annoncent la Parole
-de Dieu pour beaucoup de choses, et qui, lorsqu’ils en arrivent à la pleine Vérité ne veulent
-plus le faire.
-139 Remarquez ici qu’en tant que prophète de Dieu, il n’aurait pas dû se laisser entraîner dans un
-tel groupe et cela dès le début. Il n’aurait pas dû aller avec eux. Mais observez! A cause de sa
-popularité, pour le bien de sa conscience, il dit: «Eh bien, passez la nuit ici et je vais essayer de
-nouveau».
-140 Vous voyez, «Je vais essayer de nouveau!». Pourquoi voulez-vous essayer de nouveau?
-Dieu lui avait déjà dit ce qu’il devait dire. Dieu avait dit: “Dis-leur que tu n’iras pas”. C’est Sa
-Parole originelle: “Je n’irai pas”. “Ne va pas; ne maudis pas ce que j’ai béni”. Maintenant observez
-comme il dut subir des retours de flamme après cela. Vous voyez? Et cela se passera chaque fois
-ainsi. Lorsque Dieu dit quelque chose, Il le pense. Il ne change pas Sa pensée à ce sujet. Il
+132 Remarquez qu’il était question d’une meilleure position. Il dit: «Vous savez que je peux vous faire avoir de l’avancement? Je vous ferai avoir une meilleure place. Je ferai même plus pour vous; j’augmenterai vos gages, je vous donnerai un meilleur salaire». Et en lui offrant tout cela, il l’aveugla.
+133 Combien de Balaam y a-t-il dans le monde aujourd’hui, qui par une meilleure position, une meilleure église, la promesse de quelque chose… Prenons le cas d’un homme qui tient ses yeux fixés sur la Parole de Dieu et sur les oeuvres de Dieu. Cet homme bon qui a de l’influence va devenir serviteur de Dieu et s’occupera d’une bonne congrégation. Au bout d’un certain temps on lui présentera le baptême du Saint-Esprit; on lui présentera le baptême au Nom de Jésus, qui est la seule manière scripturaire de baptiser. Et lorsqu’on lui aura présenté cela et que la dénomination saura qu’elle va le perdre s’il rentre là-dedans, elle lui offrira une meilleure position et un changement dans l’église. Vous voyez, c’est de nouveau ce vieux Balaamisme, tout comme il en fut au début.
+134 Maintenant cet homme qui lit la Bible ne peut La lire sans voir que c’est la Vérité. Personne n’a jamais été baptisé en invoquant les titres de Père, Fils et Saint-Esprit. C’est là un credo catholique et non pas une doctrine de la Bible. Personne dans la Bible, ni même jusque trois cents ans après la mort du dernier apôtre, n’a été baptisé ainsi, mais tous ont été baptisés dans le Nom de Jésus-Christ. C’est l’église catholique romaine qui commença avec cela et toutes les autres y vinrent aussi. N’importe quel pasteur qui se met à étudier et à regarder cela sait que c’est la Vérité. Mais il fera des compromis pour garder sa popularité, pour maintenir sa position, pour être mieux considéré de son peuple. «Eh bien», dites-vous «Dieu l’a béni».
+135 Certainement. Certains ont reçu des dons de guérison, certains ont eu de grandes campagnes et s’en sont glorifiés; et ils ont reçu la même réponse de la Parole de Dieu que vous-même ou n’importe quel autre homme recevrait: Dieu ne change pas. Vous voyez ce que je veux dire?
+136 En vue d’une meilleure position Balaam pensa que… Maintenant regardez, lorsque ce groupe plus important revint, Balaam prit un faux texte. Il aurait dû dire: “Sortez de ma présence! Je vous ai annoncé la Parole de Dieu. Partez! Ceci est le AINSI DIT LE SEIGNEUR!”. Mais vous voyez ce que firent les cadeaux et le fait de pouvoir devenir un homme plus populaire…
+137 Oh, comme ils aiment faire cela! «Nous vous enverrons par tout le monde. Nous vous donnerons un avion spécial. Nous sponsoriserons vos rencontres partout, si vous voulez simplement…». Oh, non! Vous voyez? Nous savons ce que dit la Parole. Nous savons ce que Dieu a dit. Avec l’aide de Dieu, nous nous en tiendrons à cela. Peu importe de quel genre de promesse il s’agit et tout ce que vous pouvez payer en plus et combien de ceci ou de cela vous pouvez produire, nous voulons le AINSI DIT LE SEIGNEUR et ce qu’Il a dit ici en premier. Eh bien, l’église a dit que c’était secondaire. Mais nous voulons ce que le Seigneur a dit au début, et que rien n’y soit ajouté ni retranché, sous peine que votre nom ne soit retranché du Livre de Vie. Ajouter un mot à la Parole ou en retrancher un mot… Nous voulons ce qu’Il a dit, non ce que l’église a dit ou ce que le Dr Jones a dit, ou ce que quelqu’un d’autre a dit, nous voulons le AINSI DIT LE SEIGNEUR, ce que la Parole a dit.
+138 Mais maintenant, nous découvrons que Balaam, qui était un serviteur de Dieu… Il y en a beaucoup de ces hommes qui commencent ainsi, sont ordonnés par Dieu et annoncent la Parole de Dieu pour beaucoup de choses, et qui, lorsqu’ils en arrivent à la pleine Vérité ne veulent plus le faire.
+139 Remarquez ici qu’en tant que prophète de Dieu, il n’aurait pas dû se laisser entraîner dans un tel groupe et cela dès le début. Il n’aurait pas dû aller avec eux. Mais observez! A cause de sa popularité, pour le bien de sa conscience, il dit: «Eh bien, passez la nuit ici et je vais essayer de nouveau».
+140 Vous voyez, «Je vais essayer de nouveau!». Pourquoi voulez-vous essayer de nouveau? Dieu lui avait déjà dit ce qu’il devait dire. Dieu avait dit: “Dis-leur que tu n’iras pas”. C’est Sa Parole originelle: “Je n’irai pas”. “Ne va pas; ne maudis pas ce que j’ai béni”. Maintenant observez comme il dut subir des retours de flamme après cela. Vous voyez? Et cela se passera chaque fois ainsi. Lorsque Dieu dit quelque chose, Il le pense. Il ne change pas Sa pensée à ce sujet. Il
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 18
-s’en tient exactement à Sa Parole. Peu importe ce que quiconque d’autre dit, Il s’en tient
-exactement à cette Parole.
-141 Maintenant, Balaam aurait dû mieux connaître cela. Il aurait dû se séparer d’une telle
-compagnie, mais tous avaient de beaux présents et la promesse qu’avait faite ce roi: “Tu sais que
-je peux faire cela; je suis l’archevêque. Je peux tout simplement faire tout ce que je veux et je te
-ferai avoir de l’avancement si tu viens faire cela pour moi”.
-142 Dieu lui avait bien dit: “Ne fais pas cela”. Cependant Balaam dit: “Passez la nuit ici et je vais
-essayer de nouveau”. Vous voyez? Il avait pourtant la Parole. Vous n’avez plus besoin de discuter
-à ce sujet; Dieu a bien dit ainsi. Avec un groupe comme cela ils essayeront toujours de vous
-influencer à quitter la volonté de Dieu si vous les laissez faire.
-143 Un groupe vint un jour vers un prophète nommé Job. Ils ne purent pas l’influencer. Il avait eu
-la vision; il savait ce qui était juste.
-144 Balaam avait eu la vision et pourtant il ne s’y tint pas. Peu importe que ces groupes d’église
-disent: “Oh, Job, tu devrais faire ceci, tu devrais faire cela…”. Même à sa femme, il dit: “Tu parles
-comme une personne insensée. (Vous voyez?) Je sais ce que le Seigneur a dit; je sais ce qu’Il
-demande et c’est ce que j’ai fait”. Vous voyez, il s’en tint à ce que Dieu lui avait dit.
-145 Remarquez que Balaam se servit faussement de ce texte pour calmer sa conscience. Vous
-voyez? Il dit: “Eh bien, je vais voir. Je vais essayer de nouveau”. Maintenant c’est ici que vous
-venez une seconde fois. Combien de Balaam avons-nous ce soir qui utilisent ce texte de Matthieu 28.19 à cause de leur conscience? Combien veulent utiliser Malachie 4 à cause de leur
-conscience? Combien veulent utiliser Luc 17.30 simplement pour le bien de leur conscience?
-Combien veulent se servir de ces choses disant: «Eh bien, je vais vous dire quelque chose: je
-crois qu’ils sont tous dans la confusion à ce sujet»?
-146 Et nous voyons ici Balaam qui essayait de dire: “Dieu s’est peut-être embrouillé; je vais
-essayer de nouveau pour voir ce qu’Il dit”. Cependant, Dieu connaît votre coeur. Remarquez
-que Balaam s’est servi faussement de ce texte à cause de sa conscience, car il voulait vraiment
-cet argent. Il voulait cette position de dignitaire; il voulait ce travail. Il voulait obtenir cette position
-afin d’être considéré comme le Docteur Untel. C’est pourquoi il dit: “Je vais essayer de nouveau”.
-147 Oh, voyez tous ces Balaam dans le monde, ce soir! Ces promesses de position, de
-popularité, oh mon Dieu, qui leur obscurcissent la conscience! C’est à cause de leur
-dénomination qu’ils disent: «Si vous faites cela, vous n’avez plus qu’à partir! Je sais que vous êtes
-un homme très bien et nous vous aimons (c’est vraiment un homme très bien), nous vous aimons
-mais vous ne pouvez pas prêcher cela. Notre doctrine déclare que vous ne pouvez pas faire cela.
-Le Docteur Untel a dit qu’il devait en être ainsi. Maintenant, si vous voulez rester avec nous, vous
-devez croire cela de cette manière. Maintenant je sais que vous avez eu des temps difficiles et, si
-vous le voulez, eh bien, je vais voir si vous ne pourriez pas obtenir de l’avancement, peut-être en
-changeant d’église». Oh vous, Balaam! Lorsque vous connaissez la volonté de Dieu, faites-
-la. Dieu ne changera pas Sa volonté.
-148 Quelque chose que Dieu puisse laisser de côté à cause de Sa mission? Non! Il dit: «Eh bien,
-je vais essayer de nouveau». Observez tous ces Balaam que nous avons.
-149 Maintenant souvenez-vous lorsqu’il vint à Dieu le second soir à cause de ces grandes
-célébrités, alors que sa conscience avait déjà été émoussée et engourdie, Dieu le laissa aller.
-Mais Dieu ne changea jamais Sa pensée, Il lui donna Sa volonté permissive. “Va donc”. Mais
-Balaam s’aperçut que cela ne marcha pas.
-150 Dieu savait ce qu’il y avait dans le coeur de Balaam. Bien que Balaam fût prophète, Dieu
-savait qu’il détestait tous ces “saints comédiens” et que de toute façon il voudrait les maudire.
-Dieu lui avait dit de ne pas le faire, mais il revint pourtant car il voulait le faire; Dieu le laissa donc
-aller. Dieu dit: “Va!”. Maintenant souvenez-vous qu’Il ne change jamais Sa pensée.
-151 C’était le désir de Balaam de les maudire. Ces gens qu’il considérait comme des fanatiques, il
-voulait les maudire. Il voulait une position. Il ne voulait pas s’amuser avec eux; il pensa donc que
-s’il pouvait faire cette petite chose pour le roi, alors il aurait de l’avancement. Dieu ne change
-jamais Sa pensée au sujet de Sa Parole mais Il pourra vous accorder ce que votre coeur
-désire. Il a promis de faire cela. Le saviez-vous? Il a promis de vous donner ce que votre coeur
+s’en tient exactement à Sa Parole. Peu importe ce que quiconque d’autre dit, Il s’en tient exactement à cette Parole.
+141 Maintenant, Balaam aurait dû mieux connaître cela. Il aurait dû se séparer d’une telle compagnie, mais tous avaient de beaux présents et la promesse qu’avait faite ce roi: “Tu sais que je peux faire cela; je suis l’archevêque. Je peux tout simplement faire tout ce que je veux et je te ferai avoir de l’avancement si tu viens faire cela pour moi”.
+142 Dieu lui avait bien dit: “Ne fais pas cela”. Cependant Balaam dit: “Passez la nuit ici et je vais essayer de nouveau”. Vous voyez? Il avait pourtant la Parole. Vous n’avez plus besoin de discuter à ce sujet; Dieu a bien dit ainsi. Avec un groupe comme cela ils essayeront toujours de vous influencer à quitter la volonté de Dieu si vous les laissez faire.
+143 Un groupe vint un jour vers un prophète nommé Job. Ils ne purent pas l’influencer. Il avait eu la vision; il savait ce qui était juste.
+144 Balaam avait eu la vision et pourtant il ne s’y tint pas. Peu importe que ces groupes d’église disent: “Oh, Job, tu devrais faire ceci, tu devrais faire cela…”. Même à sa femme, il dit: “Tu parles comme une personne insensée. (Vous voyez?) Je sais ce que le Seigneur a dit; je sais ce qu’Il demande et c’est ce que j’ai fait”. Vous voyez, il s’en tint à ce que Dieu lui avait dit.
+145 Remarquez que Balaam se servit faussement de ce texte pour calmer sa conscience. Vous voyez? Il dit: “Eh bien, je vais voir. Je vais essayer de nouveau”. Maintenant c’est ici que vous venez une seconde fois. Combien de Balaam avons-nous ce soir qui utilisent ce texte de Matthieu 28.19 à cause de leur conscience? Combien veulent utiliser Malachie 4 à cause de leur conscience? Combien veulent utiliser Luc 17.30 simplement pour le bien de leur conscience? Combien veulent se servir de ces choses disant: «Eh bien, je vais vous dire quelque chose: je crois qu’ils sont tous dans la confusion à ce sujet»?
+146 Et nous voyons ici Balaam qui essayait de dire: “Dieu s’est peut-être embrouillé; je vais essayer de nouveau pour voir ce qu’Il dit”. Cependant, Dieu connaît votre coeur. Remarquez que Balaam s’est servi faussement de ce texte à cause de sa conscience, car il voulait vraiment cet argent. Il voulait cette position de dignitaire; il voulait ce travail. Il voulait obtenir cette position afin d’être considéré comme le Docteur Untel. C’est pourquoi il dit: “Je vais essayer de nouveau”.
+147 Oh, voyez tous ces Balaam dans le monde, ce soir! Ces promesses de position, de popularité, oh mon Dieu, qui leur obscurcissent la conscience! C’est à cause de leur dénomination qu’ils disent: «Si vous faites cela, vous n’avez plus qu’à partir! Je sais que vous êtes un homme très bien et nous vous aimons (c’est vraiment un homme très bien), nous vous aimons mais vous ne pouvez pas prêcher cela. Notre doctrine déclare que vous ne pouvez pas faire cela. Le Docteur Untel a dit qu’il devait en être ainsi. Maintenant, si vous voulez rester avec nous, vous devez croire cela de cette manière. Maintenant je sais que vous avez eu des temps difficiles et, si vous le voulez, eh bien, je vais voir si vous ne pourriez pas obtenir de l’avancement, peut-être en changeant d’église». Oh vous, Balaam! Lorsque vous connaissez la volonté de Dieu, faites-la. Dieu ne changera pas Sa volonté.
+148 Quelque chose que Dieu puisse laisser de côté à cause de Sa mission? Non! Il dit: «Eh bien, je vais essayer de nouveau». Observez tous ces Balaam que nous avons.
+149 Maintenant souvenez-vous lorsqu’il vint à Dieu le second soir à cause de ces grandes célébrités, alors que sa conscience avait déjà été émoussée et engourdie, Dieu le laissa aller. Mais Dieu ne changea jamais Sa pensée, Il lui donna Sa volonté permissive. “Va donc”. Mais Balaam s’aperçut que cela ne marcha pas.
+150 Dieu savait ce qu’il y avait dans le coeur de Balaam. Bien que Balaam fût prophète, Dieu savait qu’il détestait tous ces “saints comédiens” et que de toute façon il voudrait les maudire. Dieu lui avait dit de ne pas le faire, mais il revint pourtant car il voulait le faire; Dieu le laissa donc aller. Dieu dit: “Va!”. Maintenant souvenez-vous qu’Il ne change jamais Sa pensée.
+151 C’était le désir de Balaam de les maudire. Ces gens qu’il considérait comme des fanatiques, il voulait les maudire. Il voulait une position. Il ne voulait pas s’amuser avec eux; il pensa donc que s’il pouvait faire cette petite chose pour le roi, alors il aurait de l’avancement. Dieu ne change jamais Sa pensée au sujet de Sa Parole mais Il pourra vous accorder ce que votre coeur désire. Il a promis de faire cela. Le saviez-vous? Il a promis de vous donner ce que votre coeur
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 19
-désire. Que votre désir soit la Parole de Dieu. Que votre désir soit Sa volonté; que ce ne soit
-jamais votre propre volonté mais Sa volonté. Si vous Lui demandez quelque chose et qu’Il ne vous
-le donne pas, dites: «Merci, Seigneur. Tu sais ce qui est bon».
-152 Remarquez que même le roi Ezéchias, lorsque Dieu lui envoya ce prophète, reçut cette
-parole de Dieu: “Mets ta maison en ordre. Tu vas mourir”. Ezéchias tourna son visage contre le
-mur et pleura amèrement en disant: “Seigneur Dieu, je te demande de me considérer. J’ai marché
-devant Ta face avec un coeur pur. Je veux que Tu me laisses vivre encore quinze ans”.
-153 “Très bien”. Dieu parla au prophète, lui disant: “Retourne et dis-lui que je l’ai écouté”. Et que
-fit-il? Il apporta la disgrâce sur toute la nation. Il excita la colère de Dieu à un point tel que Celui-ci
-l’aurait tué. C’est juste. Vous connaissez cela. Il fut un rétrograde devant Dieu. Il aurait beaucoup
-mieux valu pour la nation, le roi et pour tous qu’il s’en tienne à ce que Dieu lui avait dit en
-premier. Mais cela parut dur au prophète lorsque celui-ci dut revenir et lui dire la Parole de Dieu,
-après ce qu’Il lui avait déjà dit. Mais Dieu dit: “Va de l’avant”. Mais voyez-vous, cela apporta la
-disgrâce.
-154 Que fit Balaam? Après avoir connu la volonté de Dieu, il continua d’insister car il allait le faire
-de toute façon. Et qu’est-ce que cela provoqua? Remarquez. Dieu n’a jamais changé de pensée;
-Il connaissait ce qu’il y avait dans le coeur de Balaam.
-155 Vous savez qu’un jour Thomas ne put tout simplement pas croire. Il dit: “Non, je ne peux pas
-croire cela. Si je pouvais mettre ma main à Son côté, si je pouvais la poser sur les marques de
-clous de Ses mains, eh bien, alors je croirais”. Jésus dit: “Thomas, viens ici”. Vous voyez?
-“Maintenant mets tes mains ici”. Thomas dit: “Maintenant je vois que c’est mon Seigneur et mon
-Dieu”.
-156 Jésus dit: “Oui, tu as vu et maintenant tu crois. Combien plus grande sera la récompense de
-ceux qui n’ont jamais vu et qui croient pourtant”. Il arrive que des gens ne veulent pas recevoir le
-Saint-Esprit à moins de parler en langues. Je crois dans le parler en langues. Certainement. Il est
-un Dieu bon; Il vous donnera selon le désir de votre coeur. Mais peu importe combien vous
-pouvez parler en langues, si vous reniez cette Parole, vous êtes de toute façon dans
-l’erreur. Vous voyez? Ce n’est pas par le parler en langues que vous allez entrer mais en
-observant toute la Parole. Voilà la preuve que vous avez le Saint-Esprit: lorsque vous croyez
-la Parole de Dieu. Vous voyez?
-157 Je crois dans le parler en langues. Comme je l’ai dit ce matin, je crois que vous pouvez être
-vivifiés jusqu’à en arriver à parler dans une nouvelle langue. Je l’ai fait moi-même et je sais que
-c’est la Vérité. Je sais que c’est vrai, mais ce n’est pas le signe que vous êtes un enfant choisi de
-Dieu. Non, absolument pas. Il a dit: “Beaucoup viendront à moi et diront: “Seigneur, n’ai-je pas
-prophétisé et fait toutes ces choses glorieuses en ton Nom?”. Il dira: “Eloignez-vous de moi,
-ouvriers d’iniquité; je ne vous ai jamais connus”.
-158 Vous parlez en langues, puis vous refusez d’être baptisé dans le Nom de Jésus-Christ?
-Il y a quelque chose de faux. C’est vrai. Toutes ces choses, tous ces ordres que Dieu a
-donnés… Il y a quelque chose de faux. Cherchez dans votre conscience et voyez ce qu’a dit la
-Bible. Montrez-moi un endroit où quelqu’un ait été baptisé dans les noms de Père, Fils et Saint-
-Esprit. Cela n’existe pas. Mais il arrive que, à cause de votre conscience… Vous dites: «Dieu parle
-aux femmes au sujet de ce qu’elles doivent faire; Il leur dit qu’elles ne doivent pas porter de shorts
-et de ces choses; mais vous savez, le pasteur a dit que…». Ils suivent ainsi la voie facile.
-159 Ils savent ce que Dieu a dit ici à ce sujet. Certainement! Dieu a dit que de toute façon ils
-voudraient le faire. Vous voyez, ils essaieront de trouver une excuse. «Eh bien, je pense que c’est
-beaucoup mieux… le vent ne s’engouffre pas». Mais Dieu a dit que l’homme devait s’habiller
-différemment de la femme. Si une femme met un vêtement appartenant à un homme, c’est
-une abomination à Ses yeux. Ce n’est donc pas juste. Vous ne devriez pas faire cela, non.
-160 C’est donc faux. Mais vous voyez, ils essayent de trouver une excuse comme: «Le Seigneur
-m’a dit de faire cela». Je ne dis pas qu’Il ne l’a pas dit, mais observez, ce n’est pas Sa volonté
-parfaite. Il doit s’agir de Sa volonté permissive. Vous voyez ce que cela entraînera. Cela polluera
-tout le groupe. Cela avait pollué tout le camp.
+désire. Que votre désir soit la Parole de Dieu. Que votre désir soit Sa volonté; que ce ne soit jamais votre propre volonté mais Sa volonté. Si vous Lui demandez quelque chose et qu’Il ne vous le donne pas, dites: «Merci, Seigneur. Tu sais ce qui est bon».
+152 Remarquez que même le roi Ezéchias, lorsque Dieu lui envoya ce prophète, reçut cette parole de Dieu: “Mets ta maison en ordre. Tu vas mourir”. Ezéchias tourna son visage contre le mur et pleura amèrement en disant: “Seigneur Dieu, je te demande de me considérer. J’ai marché devant Ta face avec un coeur pur. Je veux que Tu me laisses vivre encore quinze ans”.
+153 “Très bien”. Dieu parla au prophète, lui disant: “Retourne et dis-lui que je l’ai écouté”. Et que fit-il? Il apporta la disgrâce sur toute la nation. Il excita la colère de Dieu à un point tel que Celui-ci l’aurait tué. C’est juste. Vous connaissez cela. Il fut un rétrograde devant Dieu. Il aurait beaucoup mieux valu pour la nation, le roi et pour tous qu’il s’en tienne à ce que Dieu lui avait dit en premier. Mais cela parut dur au prophète lorsque celui-ci dut revenir et lui dire la Parole de Dieu, après ce qu’Il lui avait déjà dit. Mais Dieu dit: “Va de l’avant”. Mais voyez-vous, cela apporta la disgrâce.
+154 Que fit Balaam? Après avoir connu la volonté de Dieu, il continua d’insister car il allait le faire de toute façon. Et qu’est-ce que cela provoqua? Remarquez. Dieu n’a jamais changé de pensée; Il connaissait ce qu’il y avait dans le coeur de Balaam.
+155 Vous savez qu’un jour Thomas ne put tout simplement pas croire. Il dit: “Non, je ne peux pas croire cela. Si je pouvais mettre ma main à Son côté, si je pouvais la poser sur les marques de clous de Ses mains, eh bien, alors je croirais”. Jésus dit: “Thomas, viens ici”. Vous voyez? “Maintenant mets tes mains ici”. Thomas dit: “Maintenant je vois que c’est mon Seigneur et mon Dieu”.
+156 Jésus dit: “Oui, tu as vu et maintenant tu crois. Combien plus grande sera la récompense de ceux qui n’ont jamais vu et qui croient pourtant”. Il arrive que des gens ne veulent pas recevoir le Saint-Esprit à moins de parler en langues. Je crois dans le parler en langues. Certainement. Il est un Dieu bon; Il vous donnera selon le désir de votre coeur. Mais peu importe combien vous pouvez parler en langues, si vous reniez cette Parole, vous êtes de toute façon dans l’erreur. Vous voyez? Ce n’est pas par le parler en langues que vous allez entrer mais en observant toute la Parole. Voilà la preuve que vous avez le Saint-Esprit: lorsque vous croyez la Parole de Dieu. Vous voyez?
+157 Je crois dans le parler en langues. Comme je l’ai dit ce matin, je crois que vous pouvez être vivifiés jusqu’à en arriver à parler dans une nouvelle langue. Je l’ai fait moi-même et je sais que c’est la Vérité. Je sais que c’est vrai, mais ce n’est pas le signe que vous êtes un enfant choisi de Dieu. Non, absolument pas. Il a dit: “Beaucoup viendront à moi et diront: “Seigneur, n’ai-je pas prophétisé et fait toutes ces choses glorieuses en ton Nom?”. Il dira: “Eloignez-vous de moi, ouvriers d’iniquité; je ne vous ai jamais connus”.
+158 Vous parlez en langues, puis vous refusez d’être baptisé dans le Nom de Jésus-Christ? Il y a quelque chose de faux. C’est vrai. Toutes ces choses, tous ces ordres que Dieu a donnés… Il y a quelque chose de faux. Cherchez dans votre conscience et voyez ce qu’a dit la Bible. Montrez-moi un endroit où quelqu’un ait été baptisé dans les noms de Père, Fils et Saint-Esprit. Cela n’existe pas. Mais il arrive que, à cause de votre conscience… Vous dites: «Dieu parle aux femmes au sujet de ce qu’elles doivent faire; Il leur dit qu’elles ne doivent pas porter de shorts et de ces choses; mais vous savez, le pasteur a dit que…». Ils suivent ainsi la voie facile.
+159 Ils savent ce que Dieu a dit ici à ce sujet. Certainement! Dieu a dit que de toute façon ils voudraient le faire. Vous voyez, ils essaieront de trouver une excuse. «Eh bien, je pense que c’est beaucoup mieux… le vent ne s’engouffre pas». Mais Dieu a dit que l’homme devait s’habiller différemment de la femme. Si une femme met un vêtement appartenant à un homme, c’est une abomination à Ses yeux. Ce n’est donc pas juste. Vous ne devriez pas faire cela, non.
+160 C’est donc faux. Mais vous voyez, ils essayent de trouver une excuse comme: «Le Seigneur m’a dit de faire cela». Je ne dis pas qu’Il ne l’a pas dit, mais observez, ce n’est pas Sa volonté parfaite. Il doit s’agir de Sa volonté permissive. Vous voyez ce que cela entraînera. Cela polluera tout le groupe. Cela avait pollué tout le camp.
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 20
-161 Remarquez ici que Dieu n’a jamais changé Sa pensée, Sa parole. Mais Il est un Dieu bon et Il
-vous donnera selon le désir de votre coeur bien que ce soit contre Sa volonté. Croyez-vous cela?
-Observez! Dieu dit à Moïse, ce prophète oint: “Descends là-bas et parle à ce rocher. Il a déjà été
-frappé”.
-162 Moïse descendit là-bas et, dans sa colère, il saisit la verge et dit: “Devons-nous faire sortir de
-l’eau de ce rocher pour vous qui êtes rebelles?”. Et il frappa le rocher. L’eau ne jaillit pas; il le
-frappa à nouveau. L’eau vint. C’était contre la volonté de Dieu. Cela brisa tous les plans
-bibliques. Christ dut être frappé une seconde fois. Christ avait déjà été frappé une fois. Cela
-brisa tout le plan. Mais Il lui accorda Sa volonté permissive. Après cela, Moïse dit: “Vous voyez,
-nous vous avons obtenu de l’eau. Je vous l’ai apportée, bandes de rebelles”.
-163 Dieu dit: “Moïse, viens ici. Monte là au sommet. Tu as été un fidèle serviteur (Comme cette
-femme aux talons hauts: “tu es montée…”). Vous voyez? Regarde tout le pays. Vois-tu la terre
-promise?”. “Oh, Seigneur…!”. “Mais tu n’iras pas là-bas! Tu t’es emparé de ma volonté permissive
-là-bas au rocher. Tu t’es glorifié et tu ne m’as pas glorifié. Tu t’es sanctifié toi-même. Tu ne
-m’as pas sanctifié. Tu n’as pas observé ma Parole originelle, ce que je t’avais dit de faire”.
-Et pourtant l’eau est venue! Vous pouvez imposer les mains aux malades et qu’ils guérissent,
-vous pouvez prophétiser ou parler en langues mais le principal est d’observer sa Parole originelle.
-Dieu ne change pas Sa pensée, mes amis! Vous devez observer la charge qu’Il vous a confiée,
-Ses consignes, Sa volonté.
-164 “Oh, c’était bon pour les disciples!”. Il ne change pas. S’il a encore un disciple, la commission
-sera la même: “Allez par tout le monde et prêchez l’Evangile. Ces signes accompagneront ceux
-qui auront cru”. Cela ne change jamais; Il ne peut pas changer. Maintenant, il se peut que vous
-disiez: «Eh bien, je vais vous dire, ce n’est pas pour ce jour». Oh, Balaamite! Vous voyez? Dieu ne
-change pas. Il est le même hier, aujourd’hui et pour toujours.
-165 Regardez simplement les Balaamites d’aujourd’hui: «Oh, je sais bien que dans la Bible ils
-baptisaient dans le Nom de Jésus, mais vous voyez tous ces gens…». Peu m’importe ce qu’ont
-fait les gens. Il n’y a pas d’autre Nom sous le Ciel qui ait été donné parmi les hommes par lequel
-vous puissiez être sauvé. Il n’y a pas de rémission des péchés si ce n’est au travers du Nom
-de Jésus-Christ. Peu importe combien vous êtes bon, ce que vous faites, ceci n’a rien à voir avec
-cela; c’est la Parole originelle de Dieu. Vous devez rester avec cela. Oh là, là! Très bien.
-166 L’obéissance à Sa Parole vaut mieux que les sacrifices. Souvenez-vous du moment où Saul
-revint.
-167 Balaam avait le don de la foi et il aurait pu l’utiliser selon la parfaite Parole originelle de Dieu.
-Il y a aujourd’hui beaucoup de gens dans les missions qui ont des dons de guérison et qui
-pourraient faire la même chose; il y a beaucoup de gens là dehors, beaucoup de gens qui parlent
-en langues, qui prophétisent. Il y a beaucoup de gens qui ont un don qu’ils pourraient utiliser
-pour le Royaume de Dieu mais qui ne veulent pas le faire. Et Dieu les bénit quand même.
-C’est Sa volonté permissive. Mais comme Esaü le fit, ils ont vendu leur droit d’aînesse pour la
-popularité, les plaisirs et le profit personnel. Ils ont vendu leur droit d’aînesse, comme le fit
-Esaü, ils l’ont vendu à une organisation. Il l’ont vendu comme le fit Balaam. Vous voyez? Il y en
-a tellement qui font la même chose aujourd’hui. Nous savons que c’est vrai. Ils vendent leur droit
-d’aînesse. Des femmes qui prétendent avoir le Saint-Esprit portent des shorts; les hommes
-permettent à ces femmes aux cheveux coupés à la garçonne, au visage maquillé et qui portent
-des robes de pasteur, de monter en chaire. C’est là la plus grande pierre d’achoppement que
-l’église ait jamais eue.
-168 Si vous voulez savoir d’après les puissances politiques à quel moment nous en sommes de
-l’âge du Royaume, regardez où en sont les Juifs. Observez comment sont les Juifs car ils sont
-une nation. Si vous voulez savoir où en sont les nations, observez les Juifs. Si vous voulez savoir
-où en est l’église, observez les femmes. Observez le comportement moral de la femme car
-elle représente l’église. Lorsque vous voyez la pollution parmi les femmes, vous trouvez la
-pollution dans l’église. Lorsqu’elle devient une Jézabel fardée, l’église devient exactement comme
-elle. C’est la vérité et vous connaissez cela. Si vous voulez savoir où en est l’église, observez le
-comportement moral de vos femmes car l’église est une femme. Si vous voulez connaître la
-condition du pays, observez les Juifs.
+161 Remarquez ici que Dieu n’a jamais changé Sa pensée, Sa parole. Mais Il est un Dieu bon et Il vous donnera selon le désir de votre coeur bien que ce soit contre Sa volonté. Croyez-vous cela? Observez! Dieu dit à Moïse, ce prophète oint: “Descends là-bas et parle à ce rocher. Il a déjà été frappé”.
+162 Moïse descendit là-bas et, dans sa colère, il saisit la verge et dit: “Devons-nous faire sortir de l’eau de ce rocher pour vous qui êtes rebelles?”. Et il frappa le rocher. L’eau ne jaillit pas; il le frappa à nouveau. L’eau vint. C’était contre la volonté de Dieu. Cela brisa tous les plans bibliques. Christ dut être frappé une seconde fois. Christ avait déjà été frappé une fois. Cela brisa tout le plan. Mais Il lui accorda Sa volonté permissive. Après cela, Moïse dit: “Vous voyez, nous vous avons obtenu de l’eau. Je vous l’ai apportée, bandes de rebelles”.
+163 Dieu dit: “Moïse, viens ici. Monte là au sommet. Tu as été un fidèle serviteur (Comme cette femme aux talons hauts: “tu es montée…”). Vous voyez? Regarde tout le pays. Vois-tu la terre promise?”. “Oh, Seigneur…!”. “Mais tu n’iras pas là-bas! Tu t’es emparé de ma volonté permissive là-bas au rocher. Tu t’es glorifié et tu ne m’as pas glorifié. Tu t’es sanctifié toi-même. Tu ne m’as pas sanctifié. Tu n’as pas observé ma Parole originelle, ce que je t’avais dit de faire”. Et pourtant l’eau est venue! Vous pouvez imposer les mains aux malades et qu’ils guérissent, vous pouvez prophétiser ou parler en langues mais le principal est d’observer sa Parole originelle. Dieu ne change pas Sa pensée, mes amis! Vous devez observer la charge qu’Il vous a confiée, Ses consignes, Sa volonté.
+164 “Oh, c’était bon pour les disciples!”. Il ne change pas. S’il a encore un disciple, la commission sera la même: “Allez par tout le monde et prêchez l’Evangile. Ces signes accompagneront ceux qui auront cru”. Cela ne change jamais; Il ne peut pas changer. Maintenant, il se peut que vous disiez: «Eh bien, je vais vous dire, ce n’est pas pour ce jour». Oh, Balaamite! Vous voyez? Dieu ne change pas. Il est le même hier, aujourd’hui et pour toujours.
+165 Regardez simplement les Balaamites d’aujourd’hui: «Oh, je sais bien que dans la Bible ils baptisaient dans le Nom de Jésus, mais vous voyez tous ces gens…». Peu m’importe ce qu’ont fait les gens. Il n’y a pas d’autre Nom sous le Ciel qui ait été donné parmi les hommes par lequel vous puissiez être sauvé. Il n’y a pas de rémission des péchés si ce n’est au travers du Nom de Jésus-Christ. Peu importe combien vous êtes bon, ce que vous faites, ceci n’a rien à voir avec cela; c’est la Parole originelle de Dieu. Vous devez rester avec cela. Oh là, là! Très bien.
+166 L’obéissance à Sa Parole vaut mieux que les sacrifices. Souvenez-vous du moment où Saul revint.
+167 Balaam avait le don de la foi et il aurait pu l’utiliser selon la parfaite Parole originelle de Dieu. Il y a aujourd’hui beaucoup de gens dans les missions qui ont des dons de guérison et qui pourraient faire la même chose; il y a beaucoup de gens là dehors, beaucoup de gens qui parlent en langues, qui prophétisent. Il y a beaucoup de gens qui ont un don qu’ils pourraient utiliser pour le Royaume de Dieu mais qui ne veulent pas le faire. Et Dieu les bénit quand même. C’est Sa volonté permissive. Mais comme Esaü le fit, ils ont vendu leur droit d’aînesse pour la popularité, les plaisirs et le profit personnel. Ils ont vendu leur droit d’aînesse, comme le fit Esaü, ils l’ont vendu à une organisation. Il l’ont vendu comme le fit Balaam. Vous voyez? Il y en a tellement qui font la même chose aujourd’hui. Nous savons que c’est vrai. Ils vendent leur droit d’aînesse. Des femmes qui prétendent avoir le Saint-Esprit portent des shorts; les hommes permettent à ces femmes aux cheveux coupés à la garçonne, au visage maquillé et qui portent des robes de pasteur, de monter en chaire. C’est là la plus grande pierre d’achoppement que l’église ait jamais eue.
+168 Si vous voulez savoir d’après les puissances politiques à quel moment nous en sommes de l’âge du Royaume, regardez où en sont les Juifs. Observez comment sont les Juifs car ils sont une nation. Si vous voulez savoir où en sont les nations, observez les Juifs. Si vous voulez savoir où en est l’église, observez les femmes. Observez le comportement moral de la femme car elle représente l’église. Lorsque vous voyez la pollution parmi les femmes, vous trouvez la pollution dans l’église. Lorsqu’elle devient une Jézabel fardée, l’église devient exactement comme elle. C’est la vérité et vous connaissez cela. Si vous voulez savoir où en est l’église, observez le comportement moral de vos femmes car l’église est une femme. Si vous voulez connaître la condition du pays, observez les Juifs.
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 21
-169 Remarquez ce que Dieu dit à Balaam après que celui-ci eut entendu la Parole véritable, la
-claire décision: “Ne va pas…”. Oui, après avoir vu dans son coeur ce qu’il avait l’intention de
-faire, Il lui donna Sa volonté permissive; Il lui dit donc: “Va”.
-170 Et vous pouvez faire la même chose. Si vous ne voulez pas marcher dans la Vérité… Il se
-peut que vous alliez de l’avant et que vous ayez un grand ministère. Vous le pouvez certainement.
-Mais vous prenez Sa volonté permissive; vous passez par-dessus Sa Parole. Il vous fera
-prospérer (certainement!) tout comme Il le fit pour Balaam. Il réussit dans ses entreprises mais il
-ne put pas maudire ce peuple. Il ne put pas le faire car chaque fois qu’il commençait à maudire, il
-bénissait. Vous voyez, il ne pouvait pas le faire. Mais lorsqu’il commença à avoir du succès dans
-ses entreprises, il enseigna à ce peuple par l’intermédiaire de Balak à commettre adultère. Il
-amena des gens de Balak dans le camp d’Israël et les incita à se marier. Il dit: “Eh bien, nous
-sommes tous un. Vous adorez le même Dieu. Nous avons un prophète ici, vous avez un
-prophète là-bas. Et nous avons le même sacrifice, le même Jéhovah que nos pères. Pourquoi ne
-voulez-vous donc pas venir et vous associer à nous?”. La Bible a dit: “Ne vous joignez pas
-aux incroyants. Ne vous mettez pas sous le même joug qu’eux. S’ils ne croient pas cela,
-demeurez loin d’eux. Vous voyez? “Sortez du milieu d’eux, séparez-vous”, dit le Seigneur, “et je
-vous recevrai. Ne touchez pas leurs choses impures”. C’est juste. Restez à l’écart des saletés
-qu’ils disent contre la Parole et des choses comme cela. N’écoutez pas cela.
-171 Nous découvrons ici que Balaam descendit là-bas et commença à enseigner le peuple qui
-commit alors une erreur. Il suivit le chemin de Balaam et fit comme lui; Balaam enseigna à Balak
-et aux enfants d’Israël à commettre l’adultère, et une plaie frappa la nation d’Israël et des
-milliers d’entre eux moururent en un seul jour. Et tandis qu’ils étaient tous là en train de prier
-devant l’autel de Dieu, un homme israélite s’approcha avec une femme madianite, une femme
-dénominationnelle, et entra dans la tente. Le fils du sacrificateur s’avança, prit une lance et les tua
-tous les deux. Et cela arrêta la colère de Dieu. Vous connaissez cela dans les Ecritures. Est-ce
-juste?
-172 Mais qu’arriva-t-il? Balaam réussit à affaiblir Israël. Que fit-il? Il affaiblit leur camp. Dieu le
-laissa aller affaiblir leur camp et cela pollua tout le camp. Lorsqu’une doctrine commence qui
-n’est pas la vérité de la Bible, cela pollue tout le camp. Quelqu’un se lève et exprime une idée
-différente, comme le fit Coré, et dit: “Eh bien, voilà ceci et voilà cela. J’ai une idée différente”. Cela
-pollue tout le camp. Et c’est ce qui est fait au camp tout entier de l’église aujourd’hui. C’est vrai!
-173 Il se mit à enseigner, affaiblissant ainsi tout le camp à Kadès Barnéa et dépréciant la Parole.
-Lorsqu’ils arrivèrent à Kadès Barnéa, ils durent revenir à cause de la faiblesse du camp.
-Souvenez-vous qu’ils avaient mangé la nourriture des anges; chaque nuit, la Parole de Dieu leur
-avait été manifestée et ils avaient mangé cette nourriture. Ils buvaient l’eau du rocher. Ils avaient
-vu tous les miracles; ils avaient observé Moïse, entendu sa parole, vu ses prophéties et toutes ces
-choses. Et lorsque finalement ils entendirent ce faux enseignant qui venait vers eux et leur
-enseignait des chose fausses, le camp fut affaibli tandis que le faux prophète prospérait. Il
-aurait pu construire des édifices d’un million de dollars, il aurait pu avoir de grandes
-dénominations, il aurait pu en ajouter des centaines de milliers. Il aurait pu faire de grandes
-oeuvres, de puissantes oeuvres; il était un prophète. Tout cela est très bien, mais tant que ce
-n’est pas en accord avec la Parole de Dieu, vous feriez mieux de rester à l’écart de cela.
-Dieu ne change pas Sa pensée. Restez bien avec Sa Parole car c’est ce qui sortira à la fin, la
-Parole, mot pour mot. “Quiconque ôtera un mot de cette Parole ou y ajoutera un mot…”. Cette
-Parole doit rester telle quelle.
-174 Maintenant écoutez attentivement. Lorsqu’arriva le test de la Parole, lorsqu’ils allèrent là-bas
-et virent que l’opposition était si grande — c’était l’opposition la plus grande qu’ils avaient jamais
-vue — lorsqu’ils virent que les Amalécites étaient dix fois plus grands qu’eux, ils dirent: “Nous
-avons l’air de sauterelles. Les murailles de leurs villes sont si larges que deux chars de course
-peuvent y rouler côte à côte. Leurs épées sont aussi longues que cela. De plus, ce sont des
-géants. A côté d’eux nous avons l’air de sauterelles. Nous ne pouvons pas faire cela!”. Mais deux
-hommes se tinrent sur cette Parole. Caleb et Josué dirent: “Attendez une minute! Vous, ce
-peuple de deux millions de personnes, taisez-vous juste une minute; nous sommes plus que
-capables de faire cela. (Vous voyez?) Nous leur sommes bien supérieurs”. Sur quoi se basaient-
+169 Remarquez ce que Dieu dit à Balaam après que celui-ci eut entendu la Parole véritable, la claire décision: “Ne va pas…”. Oui, après avoir vu dans son coeur ce qu’il avait l’intention de faire, Il lui donna Sa volonté permissive; Il lui dit donc: “Va”.
+170 Et vous pouvez faire la même chose. Si vous ne voulez pas marcher dans la Vérité… Il se peut que vous alliez de l’avant et que vous ayez un grand ministère. Vous le pouvez certainement. Mais vous prenez Sa volonté permissive; vous passez par-dessus Sa Parole. Il vous fera prospérer (certainement!) tout comme Il le fit pour Balaam. Il réussit dans ses entreprises mais il ne put pas maudire ce peuple. Il ne put pas le faire car chaque fois qu’il commençait à maudire, il bénissait. Vous voyez, il ne pouvait pas le faire. Mais lorsqu’il commença à avoir du succès dans ses entreprises, il enseigna à ce peuple par l’intermédiaire de Balak à commettre adultère. Il amena des gens de Balak dans le camp d’Israël et les incita à se marier. Il dit: “Eh bien, nous sommes tous un. Vous adorez le même Dieu. Nous avons un prophète ici, vous avez un prophète là-bas. Et nous avons le même sacrifice, le même Jéhovah que nos pères. Pourquoi ne voulez-vous donc pas venir et vous associer à nous?”. La Bible a dit: “Ne vous joignez pas aux incroyants. Ne vous mettez pas sous le même joug qu’eux. S’ils ne croient pas cela, demeurez loin d’eux. Vous voyez? “Sortez du milieu d’eux, séparez-vous”, dit le Seigneur, “et je vous recevrai. Ne touchez pas leurs choses impures”. C’est juste. Restez à l’écart des saletés qu’ils disent contre la Parole et des choses comme cela. N’écoutez pas cela.
+171 Nous découvrons ici que Balaam descendit là-bas et commença à enseigner le peuple qui commit alors une erreur. Il suivit le chemin de Balaam et fit comme lui; Balaam enseigna à Balak et aux enfants d’Israël à commettre l’adultère, et une plaie frappa la nation d’Israël et des milliers d’entre eux moururent en un seul jour. Et tandis qu’ils étaient tous là en train de prier devant l’autel de Dieu, un homme israélite s’approcha avec une femme madianite, une femme dénominationnelle, et entra dans la tente. Le fils du sacrificateur s’avança, prit une lance et les tua tous les deux. Et cela arrêta la colère de Dieu. Vous connaissez cela dans les Ecritures. Est-ce juste?
+172 Mais qu’arriva-t-il? Balaam réussit à affaiblir Israël. Que fit-il? Il affaiblit leur camp. Dieu le laissa aller affaiblir leur camp et cela pollua tout le camp. Lorsqu’une doctrine commence qui n’est pas la vérité de la Bible, cela pollue tout le camp. Quelqu’un se lève et exprime une idée différente, comme le fit Coré, et dit: “Eh bien, voilà ceci et voilà cela. J’ai une idée différente”. Cela pollue tout le camp. Et c’est ce qui est fait au camp tout entier de l’église aujourd’hui. C’est vrai!
+173 Il se mit à enseigner, affaiblissant ainsi tout le camp à Kadès Barnéa et dépréciant la Parole. Lorsqu’ils arrivèrent à Kadès Barnéa, ils durent revenir à cause de la faiblesse du camp. Souvenez-vous qu’ils avaient mangé la nourriture des anges; chaque nuit, la Parole de Dieu leur avait été manifestée et ils avaient mangé cette nourriture. Ils buvaient l’eau du rocher. Ils avaient vu tous les miracles; ils avaient observé Moïse, entendu sa parole, vu ses prophéties et toutes ces choses. Et lorsque finalement ils entendirent ce faux enseignant qui venait vers eux et leur enseignait des chose fausses, le camp fut affaibli tandis que le faux prophète prospérait. Il aurait pu construire des édifices d’un million de dollars, il aurait pu avoir de grandes dénominations, il aurait pu en ajouter des centaines de milliers. Il aurait pu faire de grandes oeuvres, de puissantes oeuvres; il était un prophète. Tout cela est très bien, mais tant que ce n’est pas en accord avec la Parole de Dieu, vous feriez mieux de rester à l’écart de cela. Dieu ne change pas Sa pensée. Restez bien avec Sa Parole car c’est ce qui sortira à la fin, la Parole, mot pour mot. “Quiconque ôtera un mot de cette Parole ou y ajoutera un mot…”. Cette Parole doit rester telle quelle.
+174 Maintenant écoutez attentivement. Lorsqu’arriva le test de la Parole, lorsqu’ils allèrent là-bas et virent que l’opposition était si grande — c’était l’opposition la plus grande qu’ils avaient jamais vue — lorsqu’ils virent que les Amalécites étaient dix fois plus grands qu’eux, ils dirent: “Nous avons l’air de sauterelles. Les murailles de leurs villes sont si larges que deux chars de course peuvent y rouler côte à côte. Leurs épées sont aussi longues que cela. De plus, ce sont des géants. A côté d’eux nous avons l’air de sauterelles. Nous ne pouvons pas faire cela!”. Mais deux hommes se tinrent sur cette Parole. Caleb et Josué dirent: “Attendez une minute! Vous, ce peuple de deux millions de personnes, taisez-vous juste une minute; nous sommes plus que capables de faire cela. (Vous voyez?) Nous leur sommes bien supérieurs”. Sur quoi se basaient-
 
         http://www.cmpp.ch
 
 ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE? 22
-ils? Dieu avait dit: “Je vous ai donné ce pays. Il est à vous”. Et ils s’en tinrent à cela. Mais le
-peuple s’était uni à d’autres choses et toutes sortes de credo et de rituels étaient entrés parmi
-eux; ils étaient devenus faibles comme des lavettes, ne sachant pas de quel côté se tourner ni ce
-qu’ils devaient faire. C’est vrai. C’est alors que vint le test de la Parole.
-175 Sachant ce qui est dans votre coeur, Il vous accorde pourtant Sa volonté permissive. Il sait
-cela. Vous dites: «Eh bien, frère Branham, je fais ceci et cela, cela ne me dérange pas. Dieu me
-bénit chaque jour. Je chante dans l’Esprit, je danse dans l’Esprit, je…». Il vous permettra cela.
-Allez de l’avant. C’est juste. Mais qu’allez-vous faire?
-176 «Je porte des shorts. Je fais ceci et cela ne me dérange pas. Je sais que ma foi est en Christ,
-non dans ce que je porte». Mais la Bible dit que cela a de l’importance. Vous voyez? Qu’allez-
-vous faire? Vous allez créer une pierre d’achoppement, comme le fit Balaam, devant chacune des
-autres femmes. Qu’allez-vous faire de vos jeunes filles? Vous aurez un tas de “Rickettas” (c’est
-absolument vrai), un tas de petites Jézabel maquillées. Vous voyez? Pourtant Dieu vous fera
-prospérer.
-177 «Eh bien, Il me bénit!». Je n’en doute pas. Il a aussi béni Balaam. Il vous bénira certainement.
-Vous marchez dans Sa volonté permissive, non dans Sa volonté parfaite. Ce n’est pas parce que
-Dieu vous bénit qu’il change Sa pensée. Il a béni Israël là-bas pendant quarante ans. Que
-faisaient-ils? Ils se mariaient, élevaient des familles, embrassaient des enfants, payaient leur
-dîme; ils vivaient simplement là et Dieu les bénissait dans leur désert, les nourrissait de la manne
-et toutes ces choses. Mais chacun d’eux périt car ils n’avaient jamais gardé Sa volonté
-originelle, Sa Parole. Ils avaient pris Sa volonté permissive.
-178 “Allez de l’avant”. Mais souvenez-vous que lorsqu’ils eurent quitté Kadès, ils ne voyagèrent
-plus; ils se contentèrent de tourner en rond dans le désert. Alors que deux jours plus tard ils
-auraient pu se trouver dans la terre promise, ils voyagèrent pendant quarante ans et chacun d’eux
-mourut, sauf Josué et Caleb qui s’en étaient tenus à la Parole originelle.
-179 Oh, Dieu, aide-nous! Dieu ne change pas Sa volonté. Dieu ne change pas Sa pensée;
-pourtant Il vous bénira. Certainement, Il a béni Balaam. Et que fit-il là-bas? Il pollua tout le camp.
-Vous voyez, vous devez vous en tenir à ce qu’Il a dit. Il n’a jamais changé Son plan originel.
-180 Regardez aujourd’hui les Balaam dans le champ de la moisson, voulez-vous? Regardez
-simplement autour de vous: ils prospèrent, ils parlent en langues, certainement. Ils utilisent les
-dons de Dieu pour s’enrichir et toutes ces choses. Certainement. Mais leur enseignement
-corrompu souille toute l’église de Dieu. C’est vrai. Quelqu’un m’a dit: «Pourquoi faites-vous
-cela? Pourquoi faites-vous cela?». J’ai dit: «Ne croyez-vous pas que c’est la Vérité?».
-181 «Oh, oui» a-t-il dit, «mais savez-vous quoi? Cela n’est pas votre affaire. Vous êtes ici pour
-prier pour les malades. Ils croient que vous êtes le prophète. Vous pourriez enseigner à ces
-femmes comment faire ceci, cela et encore cela…». Comment pourriez-vous leur enseigner
-l’algèbre alors qu’elles ne veulent même pas apprendre leur a-b-c? Comment pouvez-vous leur
-enseigner ces choses alors qu’elles ne veulent même pas faire leur école primaire? Vous voyez?
-Vous devez revenir en arrière et recommencer depuis l’endroit où vous vous êtes arrêté en
-prenant chaque Parole de Dieu.
-182 Regardez simplement dans le champ de la moisson aujourd’hui. De même que Balaam s’est
-marié dans l’église de Dieu à une prostituée, ces faux enseignants d’aujourd’hui essayent de vous
-dire ces choses. Ils vont se marier à chacune de ces organisations et le peuple fera de
-même avec la vieille prostituée d’Apocalypse 17. Ils sont de la doctrine de Balaam; de nos
-jours, ils vont de-ci, de-là en disant: “Nous sommes tous les mêmes; nous sommes tous
-chrétiens”. Les prêtres, les papes et tous les autres font des compromis en faisant cela.
-183 Je connais même un prédicateur pentecôtiste qui… Maintenant ils se mettent tous à donner
-un pain casher rond qui représente Astarté, la déesse de la lune; ils vous donnent cette hostie
-casher en disant: «Prenez-la en fermant les yeux si cela heurte votre conscience». Fermez les
-yeux? Une hostie ronde? Qu’est-ce que cela signifie? Mais nous, nous prenons un corps brisé;
-c’est Jésus-Christ qui a été brisé et non une déesse ronde de la lune, non Astarté qui a été
-remplacée par Marie (les hosties catholiques sont toujours rondes). Remarquez que la lune est
+ils? Dieu avait dit: “Je vous ai donné ce pays. Il est à vous”. Et ils s’en tinrent à cela. Mais le peuple s’était uni à d’autres choses et toutes sortes de credo et de rituels étaient entrés parmi eux; ils étaient devenus faibles comme des lavettes, ne sachant pas de quel côté se tourner ni ce qu’ils devaient faire. C’est vrai. C’est alors que vint le test de la Parole.
+175 Sachant ce qui est dans votre coeur, Il vous accorde pourtant Sa volonté permissive. Il sait cela. Vous dites: «Eh bien, frère Branham, je fais ceci et cela, cela ne me dérange pas. Dieu me bénit chaque jour. Je chante dans l’Esprit, je danse dans l’Esprit, je…». Il vous permettra cela. Allez de l’avant. C’est juste. Mais qu’allez-vous faire?
+176 «Je porte des shorts. Je fais ceci et cela ne me dérange pas. Je sais que ma foi est en Christ, non dans ce que je porte». Mais la Bible dit que cela a de l’importance. Vous voyez? Qu’allez-vous faire? Vous allez créer une pierre d’achoppement, comme le fit Balaam, devant chacune des autres femmes. Qu’allez-vous faire de vos jeunes filles? Vous aurez un tas de “Rickettas” (c’est absolument vrai), un tas de petites Jézabel maquillées. Vous voyez? Pourtant Dieu vous fera prospérer.
+177 «Eh bien, Il me bénit!». Je n’en doute pas. Il a aussi béni Balaam. Il vous bénira certainement. Vous marchez dans Sa volonté permissive, non dans Sa volonté parfaite. Ce n’est pas parce que Dieu vous bénit qu’il change Sa pensée. Il a béni Israël là-bas pendant quarante ans. Que faisaient-ils? Ils se mariaient, élevaient des familles, embrassaient des enfants, payaient leur dîme; ils vivaient simplement là et Dieu les bénissait dans leur désert, les nourrissait de la manne et toutes ces choses. Mais chacun d’eux périt car ils n’avaient jamais gardé Sa volonté originelle, Sa Parole. Ils avaient pris Sa volonté permissive.
+178 “Allez de l’avant”. Mais souvenez-vous que lorsqu’ils eurent quitté Kadès, ils ne voyagèrent plus; ils se contentèrent de tourner en rond dans le désert. Alors que deux jours plus tard ils auraient pu se trouver dans la terre promise, ils voyagèrent pendant quarante ans et chacun d’eux mourut, sauf Josué et Caleb qui s’en étaient tenus à la Parole originelle.
+179 Oh, Dieu, aide-nous! Dieu ne change pas Sa volonté. Dieu ne change pas Sa pensée; pourtant Il vous bénira. Certainement, Il a béni Balaam. Et que fit-il là-bas? Il pollua tout le camp. Vous voyez, vous devez vous en tenir à ce qu’Il a dit. Il n’a jamais changé Son plan originel.
+180 Regardez aujourd’hui les Balaam dans le champ de la moisson, voulez-vous? Regardez simplement autour de vous: ils prospèrent, ils parlent en langues, certainement. Ils utilisent les dons de Dieu pour s’enrichir et toutes ces choses. Certainement. Mais leur enseignement corrompu souille toute l’église de Dieu. C’est vrai. Quelqu’un m’a dit: «Pourquoi faites-vous cela? Pourquoi faites-vous cela?». J’ai dit: «Ne croyez-vous pas que c’est la Vérité?».
+181 «Oh, oui» a-t-il dit, «mais savez-vous quoi? Cela n’est pas votre affaire. Vous êtes ici pour prier pour les malades. Ils croient que vous êtes le prophète. Vous pourriez enseigner à ces femmes comment faire ceci, cela et encore cela…». Comment pourriez-vous leur enseigner l’algèbre alors qu’elles ne veulent même pas apprendre leur a-b-c? Comment pouvez-vous leur enseigner ces choses alors qu’elles ne veulent même pas faire leur école primaire? Vous voyez? Vous devez revenir en arrière et recommencer depuis l’endroit où vous vous êtes arrêté en prenant chaque Parole de Dieu.
+182 Regardez simplement dans le champ de la moisson aujourd’hui. De même que Balaam s’est marié dans l’église de Dieu à une prostituée, ces faux enseignants d’aujourd’hui essayent de vous dire ces choses. Ils vont se marier à chacune de ces organisations et le peuple fera de même avec la vieille prostituée d’Apocalypse 17. Ils sont de la doctrine de Balaam; de nos jours, ils vont de-ci, de-là en disant: “Nous sommes tous les mêmes; nous sommes tous chrétiens”. Les prêtres, les papes et tous les autres font des compromis en faisant cela.
+183 Je connais même un prédicateur pentecôtiste qui… Maintenant ils se mettent tous à donner un pain casher rond qui représente Astarté, la déesse de la lune; ils vous donnent cette hostie casher en disant: «Prenez-la en fermant les yeux si cela heurte votre conscience». Fermez les yeux? Une hostie ronde? Qu’est-ce que cela signifie? Mais nous, nous prenons un corps brisé; c’est Jésus-Christ qui a été brisé et non une déesse ronde de la lune, non Astarté qui a été remplacée par Marie (les hosties catholiques sont toujours rondes). Remarquez que la lune est
 
         http://www.cmpp.ch
 
     ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?    23
-devenue une déesse et non un dieu. Nous, nous avons un pain casher qui a été brisé.
-Certainement! Oh!
-184 Ainsi, la grande prostituée d’Apocalypse 17, c’est-à-dire ces enseignants de Balaam avec leur
-fausse doctrine, marient l’église à ce gâchis. Voyez comme maintenant, à la fin des temps, tout
-est dévoilé, voyez comme tout s’est affaibli. Il y a neuf cents et quelques organisations, les unes
-allant d’un côté et les autres de l’autre. Il n’y a pas d’unité parmi elles et elles essayent de créer
-une unité sans s’appuyer sur la Parole de Dieu, sur le plan originel de Dieu; elles essayent
-d’établir cela par le moyen de la politique et de l’organisation. Dieu ne change pas Sa pensée; Il
-s’en tient exactement à Sa Parole. Il a dit: “Les cieux et la terre passeront mais ma Parole ne
-passera pas”. C’est juste. Il s’en tient à Sa Parole originelle. Oh, mon Dieu!
-185 Bien qu’ils continuent de raisonner contre cette Parole comme ils le firent au début… Il n’y a
-qu’une chose à faire (Il ne changera pas cette Parole), c’est simplement de croire , car le ciel et la
-terre passeront mais Sa Parole ne faillira jamais. Vous voyez?
-186 Voyez-vous à quoi vous allez vous marier? Voyez la politique et toutes ces choses; voyez
-comment ils essayent d’unir la politique et l’église. Nous ne sommes pas unis à Christ par la
-politique; nous sommes unis à Christ par le baptême du Saint-Esprit. Et vous savez que vous
-avez le Saint-Esprit lorsque cet Esprit en vous identifie chaque Parole de Dieu comme étant
-la Vérité. C’est vrai. “Quiconque enlèvera un mot de cette Parole ou y ajoutera un mot, sa part
-sera retranchée du Livre de Vie”. Et pourtant il prospérera.
-187 Vous dites: «La prospérité n’est-elle pas un signe de notre foi?». Vous ne pouvez pas juger
-Dieu d’après la prospérité; le monde prospère. Balaam a prospéré par ce moyen, mais frère,
-c’est par Sa parole que vous jugez Dieu. Il s’en tient à Sa Parole et L’identifie comme étant
-la Vérité. Souvenez-vous donc, mes amis, que tant que vous vivez vous ne devez jamais oublier
-cela: Dieu ne change pas Sa pensée. Pourtant Il vous bénira. Il vous laissera aller selon Sa
-volonté permissive, mais il ne changera pas Sa pensée. Il ne changera pas Son plan. Il ne
-changera pas Sa Parole pour vous. Certainement pas! C’est vous qui devez changer. Vous ne
-pouvez pas prendre la Parole de Dieu et la faire s’accorder avec votre expérience; vous devez
-prendre votre expérience et la faire s’accorder avec la Parole de Dieu. Vous voyez? C’est
-ainsi que vous devez… Vous dites: «Eh bien, je suis un homme bon. Dieu fait ceci et cela, et
-encore cela pour moi». — «Mais gardez-vous Sa Parole?».
-188 «Oh, eh bien, je vais vous dire que ce n’est pas tout à fait…». Très bien. Il y a quelque chose
-qui ne va pas quelque part. Oui, Dieu vous fera prospérer. Certainement, Il le fera. Les
-dénominations ont prospéré, et qui ne l’a pas fait? Elles ont déployé leurs tentes, leurs grandes et
-belles églises et tout cela sur toute la terre et les riches avec leur argent ont afflué dans ces
-églises et des membres sont venus de partout. La Bible ne dit-elle pas qu’on trouva en elle les
-richesses du monde et même des âmes d’hommes? Tout cela fut trouvé dans cette vieille
-prostituée qui est la mère de cette politique corrompue et de cette organisation. Mais le petit
-groupe de cette Epouse de Dieu est centré sur cette Parole.
-189 Puisse notre bien-aimé Père céleste vous garder toujours affermi et stable en Elle. Ne vous
-éloignez jamais de cette Parole. Il se peut que vous soyez béni. Il se peut que Dieu guérisse vos
-malades; il se peut qu’Il guérisse votre bébé malade. Il se peut qu’Il guérisse votre mari ou votre
-femme; il se peut qu’Il guérisse votre mère ou n’importe qui d’autre. Il se peut que vous sautiez
-dans l’Esprit et que vous dansiez de-ci, de-là. Souvenez-vous que la pluie tombe sur le juste aussi
-bien que sur l’injuste. Mais lorsque vous voyez cette semence répandue là, vous savez que soit
-elle est ordonnée, soit elle ne l’est pas. Et si elle a été ordonnée… Si c’est une semence de blé,
-elle doit produire du blé; si c’est une semence de la Parole de Dieu, elle doit produire la
-Parole de Dieu. Sinon c’est qu’elle n’est pas de la Parole de Dieu. Comprenez-vous maintenant?
-Que le Seigneur vous bénisse.
-190 Je vous avais dit que je voulais finir à neuf heures et il est déjà dix heures moins vingt.
-Beaucoup parmi vous ont un long chemin à faire. Je vous aime et ce n’est pas parce que je veux
-être méchant que je vous retiens comme cela, mais parce que je vous aime. Et ce que je sais,
-c’est que je ne retiens rien pour moi, je vous dis la Vérité.
-191 Dans les rencontres où je vais ailleurs, vous ne m’entendrez jamais prêcher ces messages.
-Non, je vous ai promis de venir à ce Tabernacle. C’est d’ici que je prêche mes messages. Il m’en
+devenue une déesse et non un dieu. Nous, nous avons un pain casher qui a été brisé. Certainement! Oh!
+184 Ainsi, la grande prostituée d’Apocalypse 17, c’est-à-dire ces enseignants de Balaam avec leur fausse doctrine, marient l’église à ce gâchis. Voyez comme maintenant, à la fin des temps, tout est dévoilé, voyez comme tout s’est affaibli. Il y a neuf cents et quelques organisations, les unes allant d’un côté et les autres de l’autre. Il n’y a pas d’unité parmi elles et elles essayent de créer une unité sans s’appuyer sur la Parole de Dieu, sur le plan originel de Dieu; elles essayent d’établir cela par le moyen de la politique et de l’organisation. Dieu ne change pas Sa pensée; Il s’en tient exactement à Sa Parole. Il a dit: “Les cieux et la terre passeront mais ma Parole ne passera pas”. C’est juste. Il s’en tient à Sa Parole originelle. Oh, mon Dieu!
+185 Bien qu’ils continuent de raisonner contre cette Parole comme ils le firent au début… Il n’y a qu’une chose à faire (Il ne changera pas cette Parole), c’est simplement de croire , car le ciel et la terre passeront mais Sa Parole ne faillira jamais. Vous voyez?
+186 Voyez-vous à quoi vous allez vous marier? Voyez la politique et toutes ces choses; voyez comment ils essayent d’unir la politique et l’église. Nous ne sommes pas unis à Christ par la politique; nous sommes unis à Christ par le baptême du Saint-Esprit. Et vous savez que vous avez le Saint-Esprit lorsque cet Esprit en vous identifie chaque Parole de Dieu comme étant la Vérité. C’est vrai. “Quiconque enlèvera un mot de cette Parole ou y ajoutera un mot, sa part sera retranchée du Livre de Vie”. Et pourtant il prospérera.
+187 Vous dites: «La prospérité n’est-elle pas un signe de notre foi?». Vous ne pouvez pas juger Dieu d’après la prospérité; le monde prospère. Balaam a prospéré par ce moyen, mais frère, c’est par Sa parole que vous jugez Dieu. Il s’en tient à Sa Parole et L’identifie comme étant la Vérité. Souvenez-vous donc, mes amis, que tant que vous vivez vous ne devez jamais oublier cela: Dieu ne change pas Sa pensée. Pourtant Il vous bénira. Il vous laissera aller selon Sa volonté permissive, mais il ne changera pas Sa pensée. Il ne changera pas Son plan. Il ne changera pas Sa Parole pour vous. Certainement pas! C’est vous qui devez changer. Vous ne pouvez pas prendre la Parole de Dieu et la faire s’accorder avec votre expérience; vous devez prendre votre expérience et la faire s’accorder avec la Parole de Dieu. Vous voyez? C’est ainsi que vous devez… Vous dites: «Eh bien, je suis un homme bon. Dieu fait ceci et cela, et encore cela pour moi». — «Mais gardez-vous Sa Parole?».
+188 «Oh, eh bien, je vais vous dire que ce n’est pas tout à fait…». Très bien. Il y a quelque chose qui ne va pas quelque part. Oui, Dieu vous fera prospérer. Certainement, Il le fera. Les dénominations ont prospéré, et qui ne l’a pas fait? Elles ont déployé leurs tentes, leurs grandes et belles églises et tout cela sur toute la terre et les riches avec leur argent ont afflué dans ces églises et des membres sont venus de partout. La Bible ne dit-elle pas qu’on trouva en elle les richesses du monde et même des âmes d’hommes? Tout cela fut trouvé dans cette vieille prostituée qui est la mère de cette politique corrompue et de cette organisation. Mais le petit groupe de cette Epouse de Dieu est centré sur cette Parole.
+189 Puisse notre bien-aimé Père céleste vous garder toujours affermi et stable en Elle. Ne vous éloignez jamais de cette Parole. Il se peut que vous soyez béni. Il se peut que Dieu guérisse vos malades; il se peut qu’Il guérisse votre bébé malade. Il se peut qu’Il guérisse votre mari ou votre femme; il se peut qu’Il guérisse votre mère ou n’importe qui d’autre. Il se peut que vous sautiez dans l’Esprit et que vous dansiez de-ci, de-là. Souvenez-vous que la pluie tombe sur le juste aussi bien que sur l’injuste. Mais lorsque vous voyez cette semence répandue là, vous savez que soit elle est ordonnée, soit elle ne l’est pas. Et si elle a été ordonnée… Si c’est une semence de blé, elle doit produire du blé; si c’est une semence de la Parole de Dieu, elle doit produire la Parole de Dieu. Sinon c’est qu’elle n’est pas de la Parole de Dieu. Comprenez-vous maintenant? Que le Seigneur vous bénisse.
+190 Je vous avais dit que je voulais finir à neuf heures et il est déjà dix heures moins vingt. Beaucoup parmi vous ont un long chemin à faire. Je vous aime et ce n’est pas parce que je veux être méchant que je vous retiens comme cela, mais parce que je vous aime. Et ce que je sais, c’est que je ne retiens rien pour moi, je vous dis la Vérité.
+191 Dans les rencontres où je vais ailleurs, vous ne m’entendrez jamais prêcher ces messages. Non, je vous ai promis de venir à ce Tabernacle. C’est d’ici que je prêche mes messages. Il m’en
 
     http://www.cmpp.ch
 
     ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?    24
-reste encore trois ou quatre que le Seigneur m’a donnés, j’ai aussi les passages de l’Ecriture à ce
-sujet et je n’oserais pas les prêcher ailleurs qu’ici. C’est d’ici qu’est partie la Parole de Dieu et,
-à moins que Dieu ne me dise de faire autrement, je resterai ici et donnerai mes messages
-depuis ici. C’est juste. Là-bas pendant les rencontres, je prie pour les malades ou des choses
-comme cela. A part cela, je dis les choses par allusions afin que les brebis puissent l’entendre.
-Elles savent de quoi je parle; autrement c’est juste l’appât de l’hameçon. Vous voyez? J’essaye de
-montrer que Dieu connaît les choses par le discernement, qu’Il sait ce qu’il y a dans le coeur des
-gens et qu’Il peut faire ces choses. Ce n’est qu’un don évangélique pour remuer les gens. La
-première chose qu’ils reçoivent chez eux, c’est un enregistrement; c’est là qu’ils sont touchés. S’il
-s’agit d’un agneau, il s’en emparera. Si c’est une chèvre, elle jettera cet enregistrement dehors.
-C’est cela. N’est-ce pas, Ben?. C’est absolument vrai. Ben a de l’expérience. Très bien.
-192 Très bien. N’êtes-vous pas heureux de Lui appartenir? N’êtes-vous pas heureux? Pendant
-longtemps nous avions l’habitude de chanter un petit chant pentecôtiste qui dit:
+reste encore trois ou quatre que le Seigneur m’a donnés, j’ai aussi les passages de l’Ecriture à ce sujet et je n’oserais pas les prêcher ailleurs qu’ici. C’est d’ici qu’est partie la Parole de Dieu et, à moins que Dieu ne me dise de faire autrement, je resterai ici et donnerai mes messages depuis ici. C’est juste. Là-bas pendant les rencontres, je prie pour les malades ou des choses comme cela. A part cela, je dis les choses par allusions afin que les brebis puissent l’entendre. Elles savent de quoi je parle; autrement c’est juste l’appât de l’hameçon. Vous voyez? J’essaye de montrer que Dieu connaît les choses par le discernement, qu’Il sait ce qu’il y a dans le coeur des gens et qu’Il peut faire ces choses. Ce n’est qu’un don évangélique pour remuer les gens. La première chose qu’ils reçoivent chez eux, c’est un enregistrement; c’est là qu’ils sont touchés. S’il s’agit d’un agneau, il s’en emparera. Si c’est une chèvre, elle jettera cet enregistrement dehors. C’est cela. N’est-ce pas, Ben?. C’est absolument vrai. Ben a de l’expérience. Très bien.
+192 Très bien. N’êtes-vous pas heureux de Lui appartenir? N’êtes-vous pas heureux? Pendant longtemps nous avions l’habitude de chanter un petit chant pentecôtiste qui dit:
         Je suis tellement heureux que le Seigneur m’ait fait sortir;
         Je suis tellement heureux que le Seigneur m’ait fait sortir;
         Si Jésus n’avait pas été là, où serais-je donc?
@@ -1316,8 +374,7 @@ longtemps nous avions l’habitude de chanter un petit chant pentecôtiste qui d
         Je chante depuis que le Seigneur m’a fait sortir;
         Si Jésus n’avait pas été là, oh! où serais-je donc?
         Je suis tellement heureux que le Seigneur m’ait fait sortir.
-     N’êtes-vous pas heureux de cela? Chantons maintenant «Nous marcherons dans la
-Lumière». Connaissez-vous ce chant?
+     N’êtes-vous pas heureux de cela? Chantons maintenant «Nous marcherons dans la Lumière». Connaissez-vous ce chant?
         Nous marcherons dans la Lumière,
         C’est une belle Lumière
         Qui fait briller les gouttes de rosée de la grâce;
@@ -1372,9 +429,7 @@ ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?        25
       La belle, la merveilleuse Sion;
       Nous montons vers Sion,
       Cette belle cité de Dieu.
-193  Sortez votre mouchoir. Sortez vos mouchoirs. Faisons au Seigneur une offrande tournoyée.
-Ce n’est pas une gerbe mais nous savons qu’ils prirent des linges qui avaient touché le corps de
-Paul.
+193  Sortez votre mouchoir. Sortez vos mouchoirs. Faisons au Seigneur une offrande tournoyée. Ce n’est pas une gerbe mais nous savons qu’ils prirent des linges qui avaient touché le corps de Paul.
       Oh, nous marchons vers Sion,
       Oh, la belle, la merveilleuse Sion;
       Nous montons vers Sion,
@@ -1383,9 +438,7 @@ Paul.
       Oh, la belle, la merveilleuse Sion;
       Nous montons vers Sion,
       Cette belle cité de Dieu.
-194  Amen! Oh, ne vous sentez-vous pas heureux? Oh, je me représente ces vieux saints de
-l’ancien temps qui allaient entrer dans l’arène romaine en grimpant cette petite colline, vous savez
-cette petite rampe qui conduisait dans l’antre des lions, et qui chantaient:
+194  Amen! Oh, ne vous sentez-vous pas heureux? Oh, je me représente ces vieux saints de l’ancien temps qui allaient entrer dans l’arène romaine en grimpant cette petite colline, vous savez cette petite rampe qui conduisait dans l’antre des lions, et qui chantaient:
       Oh, nous marchons vers Sion,
       Cette belle, cette merveilleuse Sion;
       Nous montons vers Sion,
@@ -1405,29 +458,15 @@ ARRIVE-T-IL A DIEU DE CHANGER SA PENSEE AU SUJET DE SA PAROLE?        26
     Nous montons vers Sion,
     La belle cité de Dieu.
 195            Répétez après moi: [L’assemblée répète chaque phrase après frère Branham — N.d.R.]
-Seigneur Dieu, je m’engage de nouveau envers Toi… Purifie-moi de toute iniquité… Purifie-moi
-de tout doute envers Ta Parole… Qu’à partir de cette Pâques… je sois une nouvelle créature… en
-Jésus-Christ… Que dans mon coeur je porte… Ta Parole… Qu’Elle soit une lampe à mes pieds…
-et une Lumière sur mon sentier… Dès maintenant… je Te suivrai… Au Nom de Jésus… Amen!
+Seigneur Dieu, je m’engage de nouveau envers Toi… Purifie-moi de toute iniquité… Purifie-moi de tout doute envers Ta Parole… Qu’à partir de cette Pâques… je sois une nouvelle créature… en Jésus-Christ… Que dans mon coeur je porte… Ta Parole… Qu’Elle soit une lampe à mes pieds… et une Lumière sur mon sentier… Dès maintenant… je Te suivrai… Au Nom de Jésus… Amen!
     Nous marchons vers Sion,
     Oh, la belle, la merveilleuse Sion;
     Nous montons vers Sion,
     Cette belle cité de Dieu.
-196           Ne vous sentez-vous pas bien? Nous nous sommes engagés de nouveau, sachant que dans
-nos coeurs nous avons été vivifiés d’entre les morts. Cela ne vous rend-il pas heureux? Oh, je
-vous aime d’un amour immortel. Ecoutez: Aimez-vous les uns les autres. Vous ne pouvez pas ne
-pas aimer votre frère que vous voyez, et dire que vous aimez Dieu que vous n’avez jamais
-vu. Aimez-vous donc les uns les autres. Lorsque vous vous servez les uns les autres, c’est Dieu
-que vous servez. Est-ce juste? “Tout ce que vous faites à l’un de ces petits qui a la puissance
-vivifiante en lui, c’est à Moi que vous l’avez fait”.
-                “Quand T’avons-nous vu dans le besoin? Quand T’avons-nous visité en prison? Quand
-avons-nous fait ces choses?”.
-197  “Ce que vous leur avez fait, c’est à Moi que vous l’avez fait”. N’est-ce pas merveilleux? Je
-L’aime; ne L’aimez-vous pas?
-198     Oh, il y a encore un chant que nous devrions chanter, si vous avez encore une minute. Oh,
-oui, nous allons prendre le temps. Très bien. Très bien. Oh! Prends le Nom de Jésus avec toi.
-N’oublie pas cela, mon ami. Chantons-le tous maintenant. Chantons tous ensemble, d’un seul
-grand coeur; prenez Son Nom, c’est tout ce que nous avons en nous.
+196           Ne vous sentez-vous pas bien? Nous nous sommes engagés de nouveau, sachant que dans nos coeurs nous avons été vivifiés d’entre les morts. Cela ne vous rend-il pas heureux? Oh, je vous aime d’un amour immortel. Ecoutez: Aimez-vous les uns les autres. Vous ne pouvez pas ne pas aimer votre frère que vous voyez, et dire que vous aimez Dieu que vous n’avez jamais vu. Aimez-vous donc les uns les autres. Lorsque vous vous servez les uns les autres, c’est Dieu que vous servez. Est-ce juste? “Tout ce que vous faites à l’un de ces petits qui a la puissance vivifiante en lui, c’est à Moi que vous l’avez fait”.
+                “Quand T’avons-nous vu dans le besoin? Quand T’avons-nous visité en prison? Quand avons-nous fait ces choses?”.
+197  “Ce que vous leur avez fait, c’est à Moi que vous l’avez fait”. N’est-ce pas merveilleux? Je L’aime; ne L’aimez-vous pas?
+198     Oh, il y a encore un chant que nous devrions chanter, si vous avez encore une minute. Oh, oui, nous allons prendre le temps. Très bien. Très bien. Oh! Prends le Nom de Jésus avec toi. N’oublie pas cela, mon ami. Chantons-le tous maintenant. Chantons tous ensemble, d’un seul grand coeur; prenez Son Nom, c’est tout ce que nous avons en nous.
     Prends le Nom de Jésus avec toi,
     Enfant de tristesse et de détresse,
     La joie et le réconfort ce Nom te donnera,
@@ -1436,15 +475,7 @@ grand coeur; prenez Son Nom, c’est tout ce que nous avons en nous.
     Espérance de la terre et joie du ciel;
     Précieux Nom, oh, comme il est doux!
     Espérance de la terre et joie du ciel.
-199 Maintenant n’oubliez pas de prier pour moi lorsque souffleront les vents brûlants de la
-persécution, lorsque de tout côté nous défieront les démons. Je me souviendrai que vous priez
-pour moi jour et nuit et je prierai pour vous. Tenez-vous au côté de votre bon pasteur, frère Neville
-et de son associé, frère Capps. Ecoutez-les; ils vous enseigneront la Parole de Vie. Je le crois.
-Si je ne le croyais pas, je ne les ferais certainement pas venir ici. Certainement pas. Je crois qu’ils
-croient ce Message et qu’ils s’en tiendront à cela du mieux de leurs connaissances; j’ai foi en ces
-deux hommes. Restez avec eux. Vous avez vu aussi tous ces autres frères là autour qui tiennent
-des réunions; ils étaient là ce soir. Si vous vous trouvez dans leur voisinage, restez près d’eux.
-Vous avez entendu pourquoi ils étaient venus ce soir.
+199 Maintenant n’oubliez pas de prier pour moi lorsque souffleront les vents brûlants de la persécution, lorsque de tout côté nous défieront les démons. Je me souviendrai que vous priez pour moi jour et nuit et je prierai pour vous. Tenez-vous au côté de votre bon pasteur, frère Neville et de son associé, frère Capps. Ecoutez-les; ils vous enseigneront la Parole de Vie. Je le crois. Si je ne le croyais pas, je ne les ferais certainement pas venir ici. Certainement pas. Je crois qu’ils croient ce Message et qu’ils s’en tiendront à cela du mieux de leurs connaissances; j’ai foi en ces deux hommes. Restez avec eux. Vous avez vu aussi tous ces autres frères là autour qui tiennent des réunions; ils étaient là ce soir. Si vous vous trouvez dans leur voisinage, restez près d’eux. Vous avez entendu pourquoi ils étaient venus ce soir.
     Prends le Nom de Jésus avec toi;
     Comme un bouclier contre tous les pièges; (écoutez cela!)
 
@@ -1461,23 +492,11 @@ Vous avez entendu pourquoi ils étaient venus ce soir.
         Aux pieds de Jésus;
         Jusqu’à ce que nous nous rencontrions,
         Que Dieu soit avec vous Jusqu’à ce que nous nous rencontrions.
-    Inclinons nos têtes maintenant. [Frère Branham fredonne «jusqu’à ce que nous nous
-rencontrions» — N.d.R.] Oh, Dieu, sois avec nous; aide-nous, Seigneur.
+    Inclinons nos têtes maintenant. [Frère Branham fredonne «jusqu’à ce que nous nous rencontrions» — N.d.R.] Oh, Dieu, sois avec nous; aide-nous, Seigneur.
         Jusqu’à ce que nous nous rencontrions,
         Que Dieu soit avec vous
         Jusqu’à ce que nous nous rencontrions.
-200 C’est véritablement ma prière, jusqu’à ce que nous nous rencontrions. Que Dieu vous
-bénisse. Et maintenant je vais demander à notre précieux frère Neville de congédier l’assemblée.
-Dieu vous aime tous, chacun en particulier. Je suis tellement reconnaissant d’avoir des gens
-comme vous tous. Que serait mon Message si je n’avais personne pour y croire? Et il y a ici des
-gens pour lesquels vous donneriez votre vie. Que Dieu vous aide, qu’Il aide chacun de vous. Mes
-prières sont avec vous; mes bénédictions accompagnent chacun de vous. Puissiez-vous ne pas
-oublier que vous aurez part à cette résurrection. La Puissance vivifiante est maintenant en
-vous. Tout est prêt. Vous êtes l’enfant de Dieu. Inclinons maintenant nos têtes tandis que frère
-Neville vous congédie. Que Dieu vous bénisse.
-
-
-
+200 C’est véritablement ma prière, jusqu’à ce que nous nous rencontrions. Que Dieu vous bénisse. Et maintenant je vais demander à notre précieux frère Neville de congédier l’assemblée. Dieu vous aime tous, chacun en particulier. Je suis tellement reconnaissant d’avoir des gens comme vous tous. Que serait mon Message si je n’avais personne pour y croire? Et il y a ici des gens pour lesquels vous donneriez votre vie. Que Dieu vous aide, qu’Il aide chacun de vous. Mes prières sont avec vous; mes bénédictions accompagnent chacun de vous. Puissiez-vous ne pas oublier que vous aurez part à cette résurrection. La Puissance vivifiante est maintenant en vous. Tout est prêt. Vous êtes l’enfant de Dieu. Inclinons maintenant nos têtes tandis que frère Neville vous congédie. Que Dieu vous bénisse.
 
 
 

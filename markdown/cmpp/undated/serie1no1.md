@@ -1,548 +1,293 @@
-    SERIE 1 N° 1
+---
+source: "cmpp"
+sermon_id: "serie1no1"
+title: "Reconnaissez le Jour et son Message"
+subtitle: "26 juillet 1964, matin"
+date: "1964-07-26"
+year: 1964
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la nécessité de reconnaître le jour prophétique et son message, en s'appuyant sur Osée 6. Il relie les fêtes juives (Pâque, Pentecôte, Trompettes) aux âges de l'Église et à la restauration d'Israël. Il partage une vision de l'Épouse et de l'église apostate, et insiste sur la révélation des mystères par le septième ange."
+tags:
+  - "reconnaître le jour"
+  - "message prophétique"
+  - "Osée 6"
+  - "fêtes juives"
+  - "âges de l'Église"
+  - "vision de l'Épouse"
+  - "restauration d'Israël"
+persons:
+  - "William Marrion Branham"
+  - "Osée"
+  - "Moïse"
+  - "Élie"
+  - "Jésus-Christ"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "U.S.A."
+  - "Tucson"
+  - "Arizona"
+  - "Palestine"
+themes:
+  - "reconnaissance du temps prophétique"
+  - "rôle des prophètes"
+  - "séparation de l'Épouse"
+  - "aveuglement spirituel"
+  - "restauration d'Israël"
+  - "révélation des mystères"
+  - "message du soir"
+pdf_url: "http://cmpp.ch/serie1no1.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Pierre 3"
+  - "1 Rois 22"
+  - "2 Timothée 3"
+  - "Apocalypse 11"
+  - "Apocalypse 22"
+  - "Apocalypse 3"
+  - "Apocalypse 6"
+  - "Esther 187"
+  - "Jean 6"
+  - "Job 14"
+  - "Job 19"
+  - "Job 38"
+  - "Luc 17"
+  - "Luc 3"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Nombres 56"
+  - "Osée 6"
+---
+SERIE 1 N° 1
 
+LA PAROLE PARLEE
 
+PAR
 
+WILLIAM MARRION BRANHAM
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-         RECONNAISSEZ LE JOUR
-            ET SON MESSAGE
+RECONNAISSEZ LE JOUR
+ET SON MESSAGE
 (Recognizing the Day and its Message)
 
+26 juillet 1964, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-        26 juillet 1964, matin
-          Branham Tabernacle
-   Jeffersonville — Indiana, U.S.A.
+RECONNAISSEZ LE JOUR ET SON MESSAGE
 
+Bonjour chers amis! Restons debout un instant.
 
+1 Seigneur notre Dieu, dans la bousculade et la hâte de la vie, nous avons mis de côté ces quelques instants (minutes ou heures, selon ce que tu as préparé pour nous le donner) pour t’apporter la gloire et la louange qui te sont dues, pour prêcher ta Parole et pour mieux te connaître. C’est pourquoi nous sommes rassemblés ici ce matin. Nous te remercions, ô Dieu, pour ces gens bien disposés, car ils se sont préparés à venir t’écouter. Quelles que soient les circonstances et le temps dans lequel nous vivons, ils sont demeurés dans la foi, et nous t’en remercions.
 
+2 O Dieu, nous sommes reconnaissants pour ta grande puissance de guérison et les promesses de ta Parole. Comme nos coeurs brûlent quand nous entendons ces témoignages. Les enfants des hommes ont eu à subir toutes sortes d’afflictions, mais toi, dans ta grâce et ta puissance, avec ta promesse, tu les as guéris et ils sont ici maintenant, te rendant témoignage et gloire, ô Dieu. Sois remercié pour cela! Fais que maintenant nous puissions écouter le message que tu nous as préparé pour cette heure. Fais que, lorsque nous lisons ta Parole, nous ayons la compréhension de ce que nous lisons. Que ta volonté soit faite en toutes choses. Nous te le demandons au Nom de Jésus. Amen. (Vous pouvez vous asseoir.)
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+3 C’est un privilège d’être ici ce matin. Je suis très heureux pour chacun de vous. Frère Wood, frère Roy Roberson ainsi que beaucoup d’autres frères ont travaillé fidèlement durant ces deux derniers jours afin d’installer l’air conditionné dans cette salle pour cette occasion, car dimanche dernier, ils ont vu combien vous avez souffert. Comme il y avait un peu d’argent venant de vos offrandes dans la caisse de l’église, ils l’ont employé pour votre confort pendant que vous écoutez le message. Il fait bien plus frais aujourd’hui que l’autre jour. Nous en sommes tellement reconnaissants à Dieu et à vous qui avez travaillé.
 
-    RECONNAISSEZ LE JOUR ET SON MESSAGE    2
+4 Je suis content que frère Roy Borders soit ici. Ce matin, il avait l’intention de rester à l’arrière. Je lui ai dit de prendre sa chaise et de venir s’installer ici avec les pasteurs mais il ne le voulait pas. Comme vous le savez tous, c’est frère Borders qui nous représente dans le champ de mission. Nous sommes tellement heureux que frère Borders soit ici ainsi que beaucoup d’autres pasteurs et amis.
 
- RECONNAISSEZ LE JOUR ET SON MESSAGE
-(Recognizing the Day and its Message)
+5 Pendant la semaine, je pensais: «Lorsque je descendrai ici dimanche, je reconnaîtrai chaque pasteur, chaque personne». Puis lorsqu’on arrive ici, on est tellement pris dans le message qu’on en oublie pratiquement tout le reste.
 
+6 Il va falloir que je retourne en Arizona. Dans une semaine, lundi prochain, il faudra que je retourne à Tucson pour y ramener les enfants pour l’école. Puis je reviendrai ensuite. Ma femme devra être là-bas assez à l’avance car elle doit inscrire les enfants deux semaines avant le début de l’école. Ensuite, je reviendrai ici pour quelque temps.
 
-        26 juillet 1964, matin
-          Branham Tabernacle
-   Jeffersonville — Indiana, U.S.A.
+7 Maintenant c’est le moment de mes vacances. Comme vous le savez, je prêche depuis le mois de décembre et nous sommes en juillet. Maintenant, si Dieu le veut, et si je ne reçois pas d’appel particulier, ce sera la saison où je vais me reposer, où je prendrai mes vacances; j’irai à la chasse.
 
+8 Mais il se peut que le Seigneur m’appelle pour autre chose; ce n’est absolument pas hors de question. Dieu vient toujours en premier et je veux qu’Il soit le premier. Et vous voulez qu’Il soit le premier. Mais s’il n’y a pas vraiment d’appel particulier et que c’est Sa volonté, alors pendant les deux mois qui viennent, j’irai à la chasse.
 
+9 Vous ne pouvez pas comprendre et le monde ne saura jamais au travers de quoi je passe. C’est une telle tension. Pas étonnant que le Seigneur ait dit à Ses disciples tandis qu’Il marchait avec eux: “Allons nous reposer un moment dans le désert”. Chaque jour qui passe, je comprends un peu plus cela, d’autant plus que je me fais vieux. C’est en vieillissant que vous comprenez cela. Votre pasteur aussi est d’accord avec cela. Après cinquante ans, nous réalisons que nous ne sommes plus des jeunes garçons. Maintenant, nous avons un peu de temps devant nous.
 
+10 Nous sommes réellement reconnaissants pour tous ces témoignages que nous venons d’entendre. Ma femme était hier chez Mme Woods au moment où des gens d’Alabama sont venus raconter les grandes choses que le Seigneur avait faites là-bas pendant cette série de réunions. Ils disaient entre autres, que de petits enfants avaient été guéris; beaucoup d’autres choses aussi se passèrent, mais cela nous prendrait beaucoup trop de temps aujourd’hui si je voulais tout vous raconter.
 
-    Bonjour chers amis! Restons debout un instant.
-1 Seigneur notre Dieu, dans la bousculade et la hâte de la vie, nous avons mis de côté ces
-quelques instants (minutes ou heures, selon ce que tu as préparé pour nous le donner) pour
-t’apporter la gloire et la louange qui te sont dues, pour prêcher ta Parole et pour mieux te
-connaître. C’est pourquoi nous sommes rassemblés ici ce matin. Nous te remercions, ô Dieu, pour
-ces gens bien disposés, car ils se sont préparés à venir t’écouter. Quelles que soient les
-circonstances et le temps dans lequel nous vivons, ils sont demeurés dans la foi, et nous t’en
-remercions.
-2 O Dieu, nous sommes reconnaissants pour ta grande puissance de guérison et les
-promesses de ta Parole. Comme nos coeurs brûlent quand nous entendons ces témoignages. Les
-enfants des hommes ont eu à subir toutes sortes d’afflictions, mais toi, dans ta grâce et ta
-puissance, avec ta promesse, tu les as guéris et ils sont ici maintenant, te rendant témoignage et
-gloire, ô Dieu. Sois remercié pour cela! Fais que maintenant nous puissions écouter le message
-que tu nous as préparé pour cette heure. Fais que, lorsque nous lisons ta Parole, nous ayons la
-compréhension de ce que nous lisons. Que ta volonté soit faite en toutes choses. Nous te le
-demandons au Nom de Jésus. Amen. (Vous pouvez vous asseoir.)
-3 C’est un privilège d’être ici ce matin. Je suis très heureux pour chacun de vous. Frère Wood,
-frère Roy Roberson ainsi que beaucoup d’autres frères ont travaillé fidèlement durant ces deux
-derniers jours afin d’installer l’air conditionné dans cette salle pour cette occasion, car dimanche
-dernier, ils ont vu combien vous avez souffert. Comme il y avait un peu d’argent venant de vos
-offrandes dans la caisse de l’église, ils l’ont employé pour votre confort pendant que vous écoutez
-le message. Il fait bien plus frais aujourd’hui que l’autre jour. Nous en sommes tellement
-reconnaissants à Dieu et à vous qui avez travaillé.
-4 Je suis content que frère Roy Borders soit ici. Ce matin, il avait l’intention de rester à l’arrière.
-Je lui ai dit de prendre sa chaise et de venir s’installer ici avec les pasteurs mais il ne le voulait
-pas. Comme vous le savez tous, c’est frère Borders qui nous représente dans le champ de
-mission. Nous sommes tellement heureux que frère Borders soit ici ainsi que beaucoup d’autres
-pasteurs et amis.
-5 Pendant la semaine, je pensais: «Lorsque je descendrai ici dimanche, je reconnaîtrai chaque
-pasteur, chaque personne». Puis lorsqu’on arrive ici, on est tellement pris dans le message qu’on
-en oublie pratiquement tout le reste.
-6 Il va falloir que je retourne en Arizona. Dans une semaine, lundi prochain, il faudra que je
-retourne à Tucson pour y ramener les enfants pour l’école. Puis je reviendrai ensuite. Ma femme
-devra être là-bas assez à l’avance car elle doit inscrire les enfants deux semaines avant le début
-de l’école. Ensuite, je reviendrai ici pour quelque temps.
-7 Maintenant c’est le moment de mes vacances. Comme vous le savez, je prêche depuis le
-mois de décembre et nous sommes en juillet. Maintenant, si Dieu le veut, et si je ne reçois pas
-d’appel particulier, ce sera la saison où je vais me reposer, où je prendrai mes vacances; j’irai à la
-chasse.
-8 Mais il se peut que le Seigneur m’appelle pour autre chose; ce n’est absolument pas hors de
-question. Dieu vient toujours en premier et je veux qu’Il soit le premier. Et vous voulez qu’Il soit le
+11 Je crois qu’on m’a dit que cela fait deux dimanches que soeur Larson vient ici avec un petit bébé. Je crois Avoir compris que c’est un de ses petits enfants et qu’elle vient le présenter. Elle l’amène depuis Chicago. C’est une dame qui est très gentille pour nous et nous l’aimons beaucoup. Et bien qu’elle dispose de peu de temps, elle amène un petit bébé depuis Chicago pour le présenter. Elle tient à ce que cet enfant soit présenté au Seigneur. Pendant que je parle, soeur Larson peut amener ce bébé ici pour le service de présentation.
 
-        http://www.cmpp.ch
+12 Pendant qu’elle se prépare, j’aimerais dire que le message que je vous donne aujourd’hui est l’un des plus difficiles que j’aie dû préparer. Tout au long de la semaine, j’ai souvent voulu aller dans ma chambre, selon que je m’y sentais appelé, et j’essayais de recevoir quelque chose pour cette heure de réunion. A chaque fois que j’entrais, je me sentais la tête vide. Hier, à cause de la grande chaleur, j’allai dans la cave. J’avais pris ma Bible et je voulais y lire quelque chose, mais le sommeil tomba sur moi. Puis je me suis levé, j’ai pris un verre d’eau et j’ai essayé de me secouer. Ensuite je suis sorti faire un tour puis me suis assis sur une marche.
 
-    RECONNAISSEZ LE JOUR ET SON MESSAGE    3
-premier. Mais s’il n’y a pas vraiment d’appel particulier et que c’est Sa volonté, alors pendant les
-deux mois qui viennent, j’irai à la chasse.
-9 Vous ne pouvez pas comprendre et le monde ne saura jamais au travers de quoi je passe.
-C’est une telle tension. Pas étonnant que le Seigneur ait dit à Ses disciples tandis qu’Il marchait
-avec eux: “Allons nous reposer un moment dans le désert”. Chaque jour qui passe, je comprends
-un peu plus cela, d’autant plus que je me fais vieux. C’est en vieillissant que vous comprenez cela.
-Votre pasteur aussi est d’accord avec cela. Après cinquante ans, nous réalisons que nous ne
-sommes plus des jeunes garçons. Maintenant, nous avons un peu de temps devant nous.
-10 Nous sommes réellement reconnaissants pour tous ces témoignages que nous venons
-d’entendre. Ma femme était hier chez Mme Woods au moment où des gens d’Alabama sont venus
-raconter les grandes choses que le Seigneur avait faites là-bas pendant cette série de réunions. Ils
-disaient entre autres, que de petits enfants avaient été guéris; beaucoup d’autres choses aussi se
-passèrent, mais cela nous prendrait beaucoup trop de temps aujourd’hui si je voulais tout vous
-raconter.
-11 Je crois qu’on m’a dit que cela fait deux dimanches que soeur Larson vient ici avec un petit
-bébé. Je crois Avoir compris que c’est un de ses petits enfants et qu’elle vient le présenter. Elle
-l’amène depuis Chicago. C’est une dame qui est très gentille pour nous et nous l’aimons
-beaucoup. Et bien qu’elle dispose de peu de temps, elle amène un petit bébé depuis Chicago pour
-le présenter. Elle tient à ce que cet enfant soit présenté au Seigneur. Pendant que je parle, soeur
-Larson peut amener ce bébé ici pour le service de présentation.
-12 Pendant qu’elle se prépare, j’aimerais dire que le message que je vous donne aujourd’hui est
-l’un des plus difficiles que j’aie dû préparer. Tout au long de la semaine, j’ai souvent voulu aller
-dans ma chambre, selon que je m’y sentais appelé, et j’essayais de recevoir quelque chose pour
-cette heure de réunion. A chaque fois que j’entrais, je me sentais la tête vide. Hier, à cause de la
-grande chaleur, j’allai dans la cave. J’avais pris ma Bible et je voulais y lire quelque chose, mais le
-sommeil tomba sur moi. Puis je me suis levé, j’ai pris un verre d’eau et j’ai essayé de me secouer.
-Ensuite je suis sorti faire un tour puis me suis assis sur une marche.
-13 Quelqu’un est arrivé et m’a surpris alors que j’avais ôté ma chemise. Il faisait tellement chaud.
-Quelqu’un (je ne sais pas si c’était un voisin ou une personne de l’église) m’a fait signe. J’étais
-tellement plongé dans mes pensées que c’est tout à fait par hasard que j’ai levé la tête à ce
-moment-là et j’ai fait signe.
-14 Hier soir, j’ai pris la voiture pour aller en direction de Charleston; je voulais essayer d’obtenir
-quelque chose. C’est comme si le Seigneur voulait me dire quelque chose, mais que Satan
-essayait de se mettre en travers de mon chemin pour m’empêcher de recevoir cela. Alors je
-pensai: «S’il fait cela, alors c’est qu’au contraire je dois persévérer dans mon attente et continuer
-de frapper à la porte jusqu’à ce qu’Il ouvre». Alors, ce matin, je tombai sur un passage de l’Ecriture
-qui m’impressionna. C’était peu après sept heures. Je m’étais levé vraiment très tôt.
-15 Hier, je n’étais pas très bien. J’avais mangé du maïs qui ne m’avait pas convenu. Je crois qu’il
-était vraiment trop épicé et j’essayais de m’en sortir. Et ce matin, vers huit heures, je suis tombé
-sur un passage de l’Ecriture qui m’a vraiment surpris. J’ai consulté de nouveau l’Ecriture. J’étais
-vraiment surpris. J’ai continué à sonder les Ecritures pendant quelques minutes. Il est possible que
-le Seigneur ait aujourd’hui un message pour nous et que Satan cherche à nous en tenir éloignés.
-     Voulez-vous amener le petit, soeur Larson? [Frère Branham fait la présentation — N.d.R.]
-Que Dieu soit avec eux et les aide.
-16 Dimanche dernier je vous ai gardés pour deux services, le matin et l’après-midi, et je crois
-que c’est difficile pour vous. Je crois que certains d’entre vous viennent de loin et doivent manquer
-un jour de travail. Ainsi, bien que lundi nous partions pour une semaine, je prévois une réunion
-pour dimanche prochain, le Seigneur voulant, à moins que l’assemblée ne préfère rester toute la
-nuit. C’est que vous êtes tellement nombreux. Quels sont ceux qui aimeraient mieux rester ce
-soir? Maintenant, quels sont ceux qui préfèrent revenir dimanche prochain? Oh là là! Il y en a
-presque autant. Qu’est-ce qu’il faut dire?
-17 C’est un long message que nous avons ce matin. Je sais bien que je m'efforce de respecter
-les ordres de l'église; mais si vous vous souvenez bien, lorsque j'ai prêché là-dessus j'ai dit: «sauf
+13 Quelqu’un est arrivé et m’a surpris alors que j’avais ôté ma chemise. Il faisait tellement chaud. Quelqu’un (je ne sais pas si c’était un voisin ou une personne de l’église) m’a fait signe. J’étais tellement plongé dans mes pensées que c’est tout à fait par hasard que j’ai levé la tête à ce moment-là et j’ai fait signe.
 
-    http://www.cmpp.ch
+14 Hier soir, j’ai pris la voiture pour aller en direction de Charleston; je voulais essayer d’obtenir quelque chose. C’est comme si le Seigneur voulait me dire quelque chose, mais que Satan essayait de se mettre en travers de mon chemin pour m’empêcher de recevoir cela. Alors je pensai: «S’il fait cela, alors c’est qu’au contraire je dois persévérer dans mon attente et continuer de frapper à la porte jusqu’à ce qu’Il ouvre». Alors, ce matin, je tombai sur un passage de l’Ecriture qui m’impressionna. C’était peu après sept heures. Je m’étais levé vraiment très tôt.
 
-RECONNAISSEZ LE JOUR ET SON MESSAGE                                                                 4
-lorsque j'enregistre». Et là c'est un enregistrement. En fin de compte, je crois que nous essaierons
-de revenir ce soir mais également dimanche prochain, si le Seigneur le veut.
-18       Alors je crois que nous essayerons de revenir ce soir et dimanche prochain si le Seigneur le
-veut. Je n’aime pas vous faire revenir deux fois comme cela, mais c’est que je sens que le temps
-presse. Pensez-y bien, quelque chose va se passer et nous n’aurons plus pour longtemps le
-privilège de nous rencontrer: soit que nous en soyons empêchés légalement, soit que Satan
-vienne se glisser entre nous pour nous disperser. Apprécions donc chaque instant pendant lequel
-nous pouvons être ensemble.
-19          Pour ceux qui doivent rentrer chez eux ce soir, qu’ils sachent que ce sera comme dimanche
-dernier, un petit message. Et bien sûr, nous pourrons vous envoyer l’enregistrement. Sinon, Dieu
-voulant, vous pourrez écouter la prédication ce soir.
-20      Hier ou avant-hier, j’avais pris quelques notes de mémoire au sujet d’un petit message datant
-de quelque temps déjà. En fait il s’agit de deux messages, dont l’un est “Une citerne crevassée” à
-moins que ce ne soit “Qui sème le vent récolte la tempête”. C’était simplement un message
-d’évangélisation. Ce matin, ce sera un message d’enseignement. Et ce soir, je parlerai soit sur
-“Une citerne crevassée”, soit sur “Qui sème le vent récolte la tempête”.
-21         Ce matin, j’aimerais lire dans les saintes Ecritures. Etes-vous bien assis? Dites: «Amen».
-[L’assemblée répond: «Amen!» — N.d.R.] C’est bien. Maintenant j’aimerais que vous regardiez
-avec moi dans vos Bibles, le livre d’Osée. Nous allons voir quelques versets du livre du prophète
-Osée. Levons-nous.
-22             «O Dieu, nous sommes indignes de prendre ce Livre dans nos mains, car nous lisons dans
-les Ecritures que personne dans le ciel, sur la terre et sous la terre n'était digne ou capable de
-prendre le Livre ou même de le regarder (Apocalypse chap. 5). Cependant, il vint Quelqu'un qui
-ressemblait à un agneau qui était là comme immolé. Il prit le Livre, car Il en était digne et Il en
-brisa les sceaux. Nous sommes prêts à regarder l’ensemble des choses qui sont écrites dans le
-Livre et que Tu veux nous révéler, car c’est le Livre de la rédemption. Tout ce qui a été racheté est
-écrit là-dedans. Puissions-nous prendre notre position ce matin dans le temps que nous vivons.
-Nous le demandons au Nom de Jésus. Amen».
-    Osée 6.1-11:
-    “Venez, retournons à l’Eternel!
-    Car il a déchiré, mais il nous guérira;
-    Il a frappé, mais il bandera nos plaies.
-    Il nous rendra la vie dans deux jours;
-    Le troisième jour il nous relèvera,
-    Et nous vivrons devant lui.
-    Connaissons, cherchons à connaître l’Eternel;
-    Sa venue est aussi certaine que celle de l’aurore.
-    Il viendra pour nous comme la pluie,
-    Comme la pluie du printemps qui arrose la terre. —
-    Que te ferai-je, Ephraïm?
-    Que te ferai-je, Juda?
-    Votre piété est comme la nuée du matin,
-    Comme la rosée qui bientôt se dissipe.
-    C’est pourquoi je les frapperai par les prophètes,
-    Je les tuerai par les paroles de ma bouche,
-    Et mes jugements éclateront comme la lumière.
-    Car j’aime la piété et non les sacrifices,
-    Et la connaissance de Dieu plus que les holocaustes.
-    Ils ont, comme le vulgaire, transgressé l’alliance;
-    C’est alors qu’ils m’ont été infidèles.
-    Galaad est une ville de malfaiteurs,
-    Elle porte des traces de sang.
-    La troupe des sacrificateurs est comme une bande en embuscade,
-    Commettant des assassinats sur le chemin de Sichem;
-    Car ils se livrent au crime.
+15 Hier, je n’étais pas très bien. J’avais mangé du maïs qui ne m’avait pas convenu. Je crois qu’il était vraiment trop épicé et j’essayais de m’en sortir. Et ce matin, vers huit heures, je suis tombé sur un passage de l’Ecriture qui m’a vraiment surpris. J’ai consulté de nouveau l’Ecriture. J’étais vraiment surpris. J’ai continué à sonder les Ecritures pendant quelques minutes. Il est possible que le Seigneur ait aujourd’hui un message pour nous et que Satan cherche à nous en tenir éloignés.
 
-        http://www.cmpp.ch
+Voulez-vous amener le petit, soeur Larson? [Frère Branham fait la présentation — N.d.R.] Que Dieu soit avec eux et les aide.
 
-RECONNAISSEZ LE JOUR ET SON MESSAGE 5
-       Dans la maison d’Israël j’ai vu des choses horribles:
-       Là Ephraïm se prostitue, Israël se souille.
-       A toi aussi, Juda, une moisson est préparée
-       Quand je ramènerai les captifs de mon peuple”.
-23 «Seigneur Jésus, donne-nous, par ton Saint-Esprit, la suite et le contexte qui a été prévu pour
-cela; nous comptons sur toi pour ce qui suivra. Au Nom de Jésus. Amen».
-24 Mon thème pour ce matin est: Reconnaissez le jour et son message. J’aimerais maintenant
-que vous considériez le rôle joué par Israël au cours des siècles. Nous avons vu cela lors de la
-dernière leçon d’école du dimanche, quand nous avons parlé au sujet de la fête des trompettes. Et
-j’aimerais attirer votre attention sur le temps d’Israël dans le grand agenda de Dieu.
-25 Je voudrais que pendant cette leçon d’école du dimanche, vous réalisiez et reconnaissiez le
-temps dans lequel nous vivons. Comme vous pouvez le constater, le temps en question est bientôt
-terminé. A cause de cela justement, il vous faut reconnaître l’heure et le temps, tout comme le
-signe et le message que vous avez à recevoir.
-26 Dimanche dernier, au cours de la prédication, nous avions pensé prêcher sur les sept
-dernières trompettes de l’Apocalypse. Je pensais en moi-même que cela allait se produire d’une
-manière éclatante, comme ce fut le cas pour les sceaux. J’avais remarqué qu’à l’ouverture de
-chacun de ces sceaux quelque chose d’extraordinaire se produisait. Lorsque nous avions prêché
-sur les sept âges de l’Eglise, tout était si parfait que le Saint-Esprit lui-même descendit parmi nous
-et nous confirma le message. Cela parut même dans les journaux et fut rendu visible à toute la
-nation. Il l’a montré magistralement dans le ciel par le moyen d’une éclipse de lune et nous prouva
-par là, des mois à l’avance, de quelle manière cela se passerait. Il l’a fait connaître dans ce
-tabernacle même. Il l’a aussi montré dans la position des nations de ce temps, quand la hiérarchie
-de Rome partit pour aller en Palestine. On a dit que ce fut le premier pape qui, depuis Pierre, s’en
-alla de ces côtés-là, car ils prétendent qu’il fut leur premier pape. C’était fantastique.
-27 Or, dans ce bâtiment-ci, avant que les sept sceaux contenant tous les mystères cachés
-fussent révélés, j’avais dessiné sur le tableau noir un diagramme concernant les âges de l’Eglise.
-Je le dessinai d’après une vision que j’avais eue, sans savoir que Dieu le prouverait lui-même
-dans le ciel, une année et demie plus tard, par le moyen d’une éclipse de lune dont les
-photographies prises furent diffusées par nos journaux nationaux dans tout le pays. Je ne savais
-pas, au moment où je prêchais, que ce mystérieux phénomène représenterait l’âge de Laodicée.
-28 Dans les journaux ne parurent que six photographies représentant les six âges. C’est parce
-que la phase correspondant à l’Eglise de Laodicée était complètement obscure. Remarquez-en
-encore la signification, telle que Dieu la fixa lui-même par ce phénomène céleste: quand je la
-dessinai moi-même sur le tableau, je laissai comme vous pouvez le voir, un tout petit bord blanc
-de lumière représentant la situation de l’église juste avant que les élus soient enlevés de la terre.
-C’est la raison pour laquelle je représentais ainsi l’église du septième âge. Mais quand Dieu, Lui,
-montra Son plan dans le ciel, cette phase-là était représentée par une obscurité complète. Cela
-signifie peut-être que le dernier élu de Laodicée a déjà été appelé. Nous ne le savons pas. On
-pourrait faire tout un sermon là-dessus.
-29 Remarquons en outre ceci: avant que les sept sceaux soient prêchés, je n'avais encore
-aucune idée que cela se passerait ainsi. Pendant que j'étais encore dans ce bâtiment, Il me parla
-à ce sujet et m’envoya à Tucson, dans l’Arizona, ou j’annonçai à tous ce qui allait arriver.
-Aujourd’hui il y a, assis parmi vous, un homme qui était présent là-bas lorsque cela eut lieu. Dieu
-me dit que sept anges apparaîtraient. Les journaux et les illustrés le publièrent dans toute la
-nation: une mystérieuse formation lumineuse, un nuage de forme pyramidale, exactement comme
-je l’ai dessiné et vous l’ai montré ici. Il s’éleva au-dessus de la place où les anges se tenaient,
-dans les parages de Tucson, dans l’Arizona, et atteignit une hauteur de 40 km environ et une
-largeur de presque 50 km. Il était visible sur toute l’étendue du territoire de l’état.
-30 Tout ceci n’est pas dit par quelqu’un qui essayerait de faire pression sur vous par un fait, mais
-bien plutôt pour vous révéler la signification spirituelle de cette heure.
-31 Le message qui en résulta ouvrit les sept sceaux révélant ainsi tous les mystères cachés de
-la Bible. Ce sont les doctrines que le monde d’aujourd’hui attaque si violemment, disant qu’elles
-sont fausses.
+16 Dimanche dernier je vous ai gardés pour deux services, le matin et l’après-midi, et je crois que c’est difficile pour vous. Je crois que certains d’entre vous viennent de loin et doivent manquer un jour de travail. Ainsi, bien que lundi nous partions pour une semaine, je prévois une réunion pour dimanche prochain, le Seigneur voulant, à moins que l’assemblée ne préfère rester toute la nuit. C’est que vous êtes tellement nombreux. Quels sont ceux qui aimeraient mieux rester ce soir? Maintenant, quels sont ceux qui préfèrent revenir dimanche prochain? Oh là là! Il y en a presque autant. Qu’est-ce qu’il faut dire?
 
-        http://www.cmpp.ch
+17 C’est un long message que nous avons ce matin. Je sais bien que je m'efforce de respecter les ordres de l'église; mais si vous vous souvenez bien, lorsque j'ai prêché là-dessus j'ai dit: «sauf lorsque j'enregistre». Et là c'est un enregistrement. En fin de compte, je crois que nous essaierons de revenir ce soir mais également dimanche prochain, si le Seigneur le veut.
 
-RECONNAISSEZ LE JOUR ET SON MESSAGE 6
-32 L’autre jour en Arizona, on mixait des enregistrements pour essayer de me faire dire des
-choses que je n’avais pas dites. Souvenez-vous de cette vision sur l’Arizona. La Bible dit: “Jésus
-dit à ses disciples: Il est impossible qu’il n’arrive pas des scandales; mais malheur à celui par qui
-ils arrivent! Il vaudrait mieux pour lui qu’on mît à son cou une pierre de moulin et qu’on le jetât
-dans la mer, que s’il scandalisait un de ces petits” (Luc 17.1,2).
-     Ailleurs, la Bible dit encore: “Si quelqu’un y ajoute quelque chose, Dieu le frappera des fléaux
-décrits dans ce livre; et si quelqu’un retranche quelque chose des paroles du livre de cette
-prophétie, Dieu retranchera sa part de l’arbre de la vie et de la ville sainte, décrits dans ce livre”
-(Apocalypse 22.18b-19).
-     Les gens donnent leur propre interprétation à la Parole qui a été donnée et essayent de lui
-faire dire quelque chose qu’elle n’a pas dit. Ce n’est pas ma parole, c’est Sa Parole.
-33 Et comme je vous l’ai expliqué un dimanche il y a plusieurs semaines, nous avons vu dans
-cette vision comment ces prophètes tournoyaient. Et j’avais dit: «Continuez simplement d’attendre.
-Tant que je me débats ainsi, Dieu ne peut pas combattre pour elle. Remettons-nous en à Lui à ce
-sujet, car c’est Lui qui prend soin de Sa Parole».
-34 Dimanche dernier, j’ai prêché sur les jours de fêtes. Entre la fête de Pâque et la fête de la
-Pentecôte, il y avait un intervalle de 50 jours. Pentecôte signifie cinquante. Là, les Israélites
-apportaient les premiers fruits et offraient à Dieu les prémices du froment. D’autre part, le jour
-après la Pâque, on offrait à Dieu, en actions de grâces, les prémices de l’orge (celle des céréales
-qui, en Palestine, mûrit la première) sous forme d’une gerbe agitée de côte et d’autre devant
-l’Eternel, un agneau, un gâteau de fleur de farine pétrie à l’huile et du vin. Ceci représente les
-prémices de l’Esprit répandu sur les hommes durant cette période prophétique de cinquante jours.
-Cette période de 7 sabbats représente les 7 âges de l’Eglise au cours desquels Dieu appelle un
-peuple d’entre les païens pour son Nom. Et nous avons passé par cette longue fête de Pentecôte.
-35 En fait ces cinquante jours correspondent exactement à sept Sabbats. Et ces sept sabbats
-représentent les sept âges de l’Eglise qui doivent être appelés au temps de la Pentecôte. Car la
-fête de la Pentecôte symbolise l’appel d’un peuple d’entre les Nations pour Son Nom. A la fin de
-ces sept sabbats venait le jour de l’Expiation, c’est-à-dire les sept trompettes. C’était un jour de
-jeûne, de repentance et de deuil. Ainsi, les sept trompettes ne se rapportent qu’à Israël.
-36 Le Seigneur ne me permit pas de prêcher sur ces sept trompettes. J’étais sur le point
-d’annoncer que j’allais parler sur ce sujet, mais je sentis en moi quelque chose qui m’empêchait de
-le faire. Billy et d’autres firent tous leurs efforts afin que tout fût prêt, y compris même l’installation
-d’un dispositif de climatisation, pour la semaine suivante, mais le Saint-Esprit ne permit pas, pour
-des raisons précises, que je prêche sur les trompettes. Je me demandai pourquoi et je dis à ma
-femme: «Je vais prier dans ma chambre». Je m’agenouillais en toute sincérité devant Dieu et Il me
-révéla que ces sept trompettes sonnèrent sous le sixième sceau, sur lequel j’avais déjà prêché.
-Voyez, tout ceci est le fait de la main surnaturelle de Dieu, il concerne Israël et nous avons traité
-cela dans le sceau qui se rapporte à la persécution des Juifs.
-37 Le temps des Nations se situe lors de cette fête de Pentecôte. Les Trompettes avaient toutes
-retenti pendant le sixième sceau. Nous avons vu cela dimanche dernier en étudiant la fête des
-trompettes. Pourquoi ce sixième sceau? Pour que les Juifs du monde entier se précipitent dans
-leur pays. Ainsi les sept trompettes ont retenti pendant le sixième sceau.
-38 A présent, par le message du septième ange, les mystères doivent être révélés. C’est le
-moment ou retentit l’appel pour les ouvriers de la onzième heure d’entre les Gentils afin qu’ils
-reçoivent le même salaire que reçurent les ouvriers de la première heure. Jésus enseignait que
-tous les ouvriers qui avaient été appelés, à quelque heure que ce fût, reçurent le même salaire,
-même celui qui était venu à la onzième heure.
-39 Ainsi tout est parfait. Le jour de la Pentecôte, vinrent les messagers de la première heure
-avec la Parole. A la suite de quoi suivit un âge sombre qui obstrua le travail et ensuite, au milieu
-du jour, vint d’abord Luther, bientôt suivi de Wesley. Ensuite arriva le message du temps du soir
-par lequel nous recevons la même chose que ceux qui étaient au commencement. Le message
-qui est délivré vers le soir est destiné à ramener les choses à leur état initial, comme elles l’étaient
-au commencement de l’église.
+18 Alors je crois que nous essayerons de revenir ce soir et dimanche prochain si le Seigneur le veut. Je n’aime pas vous faire revenir deux fois comme cela, mais c’est que je sens que le temps presse. Pensez-y bien, quelque chose va se passer et nous n’aurons plus pour longtemps le privilège de nous rencontrer: soit que nous en soyons empêchés légalement, soit que Satan vienne se glisser entre nous pour nous disperser. Apprécions donc chaque instant pendant lequel nous pouvons être ensemble.
 
+19 Pour ceux qui doivent rentrer chez eux ce soir, qu’ils sachent que ce sera comme dimanche dernier, un petit message. Et bien sûr, nous pourrons vous envoyer l’enregistrement. Sinon, Dieu voulant, vous pourrez écouter la prédication ce soir.
 
-    http://www.cmpp.ch
+20 Hier ou avant-hier, j’avais pris quelques notes de mémoire au sujet d’un petit message datant de quelque temps déjà. En fait il s’agit de deux messages, dont l’un est “Une citerne crevassée” à moins que ce ne soit “Qui sème le vent récolte la tempête”. C’était simplement un message d’évangélisation. Ce matin, ce sera un message d’enseignement. Et ce soir, je parlerai soit sur “Une citerne crevassée”, soit sur “Qui sème le vent récolte la tempête”.
 
-    RECONNAISSEZ LE JOUR ET SON MESSAGE    7
-        MA VISION DE L’EPOUSE
-40 Rappelez-vous la vision que j’eus la semaine passée. Je ne pensais pas du tout à cela.
-J’étais simplement en train de regarder dehors. C’est alors qu’est venue l’Epouse. Près de moi, j’ai
-entendu une voix qui me disait: «Voici une vision de l’Epouse». Et Elle s’est approchée. J’ai alors
-remarqué comment elle était. Elle était jeune et très jolie, vraiment adorable. Elle s’avançait d’un
-pas harmonieux, non pas comme pour une marche militaire, mais d’une démarche gracieuse
-comme des jeunes femmes savent le faire; elle passa alors sur ma gauche puis disparut hors de
-ma vue.
-41 Ensuite Il me fit regarder du côté droit et Il me montra toutes les églises, telles qu’elles se
-présentèrent au cours des âges. Oh! qu’elles étaient vulgaires! La dernière en vue était l’église de
-ces derniers temps et elle était conduite par une sorcière. Un groupe de femmes la représentaient:
-elles étaient habillées d’une manière immorale, ayant même un caractère obscène. Elles
-marchaient au rythme du twist et du rock’n’roll. Elles tenaient des sortes de papiers gris devant
-elles, leurs jupes se composaient de bandes pendant à leur ceinture, tandis qu’elles étaient
-complètement nues depuis la taille, en haut. Elles ne faisaient que tenir devant elles leurs papiers
-gris. C’est une couleur hypocrite: elle se trouve entre le blanc et le noir et ce n’est jamais blanc ou
-noir, c’est une couleur trompeuse. Il me dit: «C’est l’église».
-42 Alors le coeur faillit me manquer! Je pensai: «Si c’est tout ce que l’on peut présenter à Christ
-comme Epouse!». Tous les efforts et les choses que l’homme a pu faire pour présenter une
-Epouse à Christ n’ont-ils eu pour seul résultat que de lui présenter pour Epouse une prostituée
-vulgaire, sale et à l’aspect obscène? Cela me rendait malade.
-43 Comme la dernière passait devant nous, elle tenait son papier devant elle, en mimant les
-mouvements des danses les plus modernes (twist et rock’n’roll), c’est-à-dire en se balançant de
-côté et d’autre. Elle se complaisait dans l’acte immoral qu’elle faisait en marchant.
-44 Je ne suis pas responsable de ces choses, mais je ne fais que répéter ce que j’ai vu et Dieu
-m’est témoin que c’était l’Eglise des U.S.A.
-45 Après qu’elle eût passé, je remarquai qu’elle était complètement découverte par derrière. Et à
-nouveau je me sentis défaillir et presque malade.
-46 Alors Il me dit: «L’Epouse va revenir, comme dans la première vision». Et voici, l’Epouse
-apparut à nouveau à la suite de la précédente. C’était exactement la même Epouse que celle qui
-était passée en premier. Mon coeur bondissait de joie en sachant qu’elle aurait le même aspect et
-porterait les mêmes habits que celle qui était apparue au début. Elle doit se tenir prête à être
-appelée. Je sais que c’est la vérité. Si cela n’est pas le cas, alors toutes les visions que j’ai eues
-jusqu’à présent ont été fausses. Mais beaucoup savent que chacune des choses qui m’ont été
-dites n’était rien d’autre que la vérité: elles se sont toutes accomplies.
+21 Ce matin, j’aimerais lire dans les saintes Ecritures. Etes-vous bien assis? Dites: «Amen». [L’assemblée répond: «Amen!» — N.d.R.] C’est bien. Maintenant j’aimerais que vous regardiez avec moi dans vos Bibles, le livre d’Osée. Nous allons voir quelques versets du livre du prophète Osée. Levons-nous.
+
+22 «O Dieu, nous sommes indignes de prendre ce Livre dans nos mains, car nous lisons dans les Ecritures que personne dans le ciel, sur la terre et sous la terre n'était digne ou capable de prendre le Livre ou même de le regarder (Apocalypse chap. 5). Cependant, il vint Quelqu'un qui ressemblait à un agneau qui était là comme immolé. Il prit le Livre, car Il en était digne et Il en brisa les sceaux. Nous sommes prêts à regarder l’ensemble des choses qui sont écrites dans le Livre et que Tu veux nous révéler, car c’est le Livre de la rédemption. Tout ce qui a été racheté est écrit là-dedans. Puissions-nous prendre notre position ce matin dans le temps que nous vivons. Nous le demandons au Nom de Jésus. Amen».
+
+Osée 6.1-11:
+> “Venez, retournons à l’Eternel!
+> Car il a déchiré, mais il nous guérira;
+> Il a frappé, mais il bandera nos plaies.
+> Il nous rendra la vie dans deux jours;
+> Le troisième jour il nous relèvera,
+> Et nous vivrons devant lui.
+> Connaissons, cherchons à connaître l’Eternel;
+> Sa venue est aussi certaine que celle de l’aurore.
+> Il viendra pour nous comme la pluie,
+> Comme la pluie du printemps qui arrose la terre. —
+> Que te ferai-je, Ephraïm?
+> Que te ferai-je, Juda?
+> Votre piété est comme la nuée du matin,
+> Comme la rosée qui bientôt se dissipe.
+> C’est pourquoi je les frapperai par les prophètes,
+> Je les tuerai par les paroles de ma bouche,
+> Et mes jugements éclateront comme la lumière.
+> Car j’aime la piété et non les sacrifices,
+> Et la connaissance de Dieu plus que les holocaustes.
+> Ils ont, comme le vulgaire, transgressé l’alliance;
+> C’est alors qu’ils m’ont été infidèles.
+> Galaad est une ville de malfaiteurs,
+> Elle porte des traces de sang.
+> La troupe des sacrificateurs est comme une bande en embuscade,
+> Commettant des assassinats sur le chemin de Sichem;
+> Car ils se livrent au crime.
+> Dans la maison d’Israël j’ai vu des choses horribles:
+> Là Ephraïm se prostitue, Israël se souille.
+> A toi aussi, Juda, une moisson est préparée
+> Quand je ramènerai les captifs de mon peuple”.
+
+23 «Seigneur Jésus, donne-nous, par ton Saint-Esprit, la suite et le contexte qui a été prévu pour cela; nous comptons sur toi pour ce qui suivra. Au Nom de Jésus. Amen».
+
+24 Mon thème pour ce matin est: Reconnaissez le jour et son message. J’aimerais maintenant que vous considériez le rôle joué par Israël au cours des siècles. Nous avons vu cela lors de la dernière leçon d’école du dimanche, quand nous avons parlé au sujet de la fête des trompettes. Et j’aimerais attirer votre attention sur le temps d’Israël dans le grand agenda de Dieu.
+
+25 Je voudrais que pendant cette leçon d’école du dimanche, vous réalisiez et reconnaissiez le temps dans lequel nous vivons. Comme vous pouvez le constater, le temps en question est bientôt terminé. A cause de cela justement, il vous faut reconnaître l’heure et le temps, tout comme le signe et le message que vous avez à recevoir.
+
+26 Dimanche dernier, au cours de la prédication, nous avions pensé prêcher sur les sept dernières trompettes de l’Apocalypse. Je pensais en moi-même que cela allait se produire d’une manière éclatante, comme ce fut le cas pour les sceaux. J’avais remarqué qu’à l’ouverture de chacun de ces sceaux quelque chose d’extraordinaire se produisait. Lorsque nous avions prêché sur les sept âges de l’Eglise, tout était si parfait que le Saint-Esprit lui-même descendit parmi nous et nous confirma le message. Cela parut même dans les journaux et fut rendu visible à toute la nation. Il l’a montré magistralement dans le ciel par le moyen d’une éclipse de lune et nous prouva par là, des mois à l’avance, de quelle manière cela se passerait. Il l’a fait connaître dans ce tabernacle même. Il l’a aussi montré dans la position des nations de ce temps, quand la hiérarchie de Rome partit pour aller en Palestine. On a dit que ce fut le premier pape qui, depuis Pierre, s’en alla de ces côtés-là, car ils prétendent qu’il fut leur premier pape. C’était fantastique.
+
+27 Or, dans ce bâtiment-ci, avant que les sept sceaux contenant tous les mystères cachés fussent révélés, j’avais dessiné sur le tableau noir un diagramme concernant les âges de l’Eglise. Je le dessinai d’après une vision que j’avais eue, sans savoir que Dieu le prouverait lui-même dans le ciel, une année et demie plus tard, par le moyen d’une éclipse de lune dont les photographies prises furent diffusées par nos journaux nationaux dans tout le pays. Je ne savais pas, au moment où je prêchais, que ce mystérieux phénomène représenterait l’âge de Laodicée.
+
+28 Dans les journaux ne parurent que six photographies représentant les six âges. C’est parce que la phase correspondant à l’Eglise de Laodicée était complètement obscure. Remarquez-en encore la signification, telle que Dieu la fixa lui-même par ce phénomène céleste: quand je la dessinai moi-même sur le tableau, je laissai comme vous pouvez le voir, un tout petit bord blanc de lumière représentant la situation de l’église juste avant que les élus soient enlevés de la terre. C’est la raison pour laquelle je représentais ainsi l’église du septième âge. Mais quand Dieu, Lui, montra Son plan dans le ciel, cette phase-là était représentée par une obscurité complète. Cela signifie peut-être que le dernier élu de Laodicée a déjà été appelé. Nous ne le savons pas. On pourrait faire tout un sermon là-dessus.
+
+29 Remarquons en outre ceci: avant que les sept sceaux soient prêchés, je n'avais encore aucune idée que cela se passerait ainsi. Pendant que j'étais encore dans ce bâtiment, Il me parla à ce sujet et m’envoya à Tucson, dans l’Arizona, ou j’annonçai à tous ce qui allait arriver. Aujourd’hui il y a, assis parmi vous, un homme qui était présent là-bas lorsque cela eut lieu. Dieu me dit que sept anges apparaîtraient. Les journaux et les illustrés le publièrent dans toute la nation: une mystérieuse formation lumineuse, un nuage de forme pyramidale, exactement comme je l’ai dessiné et vous l’ai montré ici. Il s’éleva au-dessus de la place où les anges se tenaient, dans les parages de Tucson, dans l’Arizona, et atteignit une hauteur de 40 km environ et une largeur de presque 50 km. Il était visible sur toute l’étendue du territoire de l’état.
+
+30 Tout ceci n’est pas dit par quelqu’un qui essayerait de faire pression sur vous par un fait, mais bien plutôt pour vous révéler la signification spirituelle de cette heure.
+
+31 Le message qui en résulta ouvrit les sept sceaux révélant ainsi tous les mystères cachés de la Bible. Ce sont les doctrines que le monde d’aujourd’hui attaque si violemment, disant qu’elles sont fausses.
+
+32 L’autre jour en Arizona, on mixait des enregistrements pour essayer de me faire dire des choses que je n’avais pas dites. Souvenez-vous de cette vision sur l’Arizona. La Bible dit: “Jésus dit à ses disciples: Il est impossible qu’il n’arrive pas des scandales; mais malheur à celui par qui ils arrivent! Il vaudrait mieux pour lui qu’on mît à son cou une pierre de moulin et qu’on le jetât dans la mer, que s’il scandalisait un de ces petits” (Luc 17.1,2).
+
+Ailleurs, la Bible dit encore: “Si quelqu’un y ajoute quelque chose, Dieu le frappera des fléaux décrits dans ce livre; et si quelqu’un retranche quelque chose des paroles du livre de cette prophétie, Dieu retranchera sa part de l’arbre de la vie et de la ville sainte, décrits dans ce livre” (Apocalypse 22.18b-19).
+
+Les gens donnent leur propre interprétation à la Parole qui a été donnée et essayent de lui faire dire quelque chose qu’elle n’a pas dit. Ce n’est pas ma parole, c’est Sa Parole.
+
+33 Et comme je vous l’ai expliqué un dimanche il y a plusieurs semaines, nous avons vu dans cette vision comment ces prophètes tournoyaient. Et j’avais dit: «Continuez simplement d’attendre. Tant que je me débats ainsi, Dieu ne peut pas combattre pour elle. Remettons-nous en à Lui à ce sujet, car c’est Lui qui prend soin de Sa Parole».
+
+34 Dimanche dernier, j’ai prêché sur les jours de fêtes. Entre la fête de Pâque et la fête de la Pentecôte, il y avait un intervalle de 50 jours. Pentecôte signifie cinquante. Là, les Israélites apportaient les premiers fruits et offraient à Dieu les prémices du froment. D’autre part, le jour après la Pâque, on offrait à Dieu, en actions de grâces, les prémices de l’orge (celle des céréales qui, en Palestine, mûrit la première) sous forme d’une gerbe agitée de côte et d’autre devant l’Eternel, un agneau, un gâteau de fleur de farine pétrie à l’huile et du vin. Ceci représente les prémices de l’Esprit répandu sur les hommes durant cette période prophétique de cinquante jours. Cette période de 7 sabbats représente les 7 âges de l’Eglise au cours desquels Dieu appelle un peuple d’entre les païens pour son Nom. Et nous avons passé par cette longue fête de Pentecôte.
+
+35 En fait ces cinquante jours correspondent exactement à sept Sabbats. Et ces sept sabbats représentent les sept âges de l’Eglise qui doivent être appelés au temps de la Pentecôte. Car la fête de la Pentecôte symbolise l’appel d’un peuple d’entre les Nations pour Son Nom. A la fin de ces sept sabbats venait le jour de l’Expiation, c’est-à-dire les sept trompettes. C’était un jour de jeûne, de repentance et de deuil. Ainsi, les sept trompettes ne se rapportent qu’à Israël.
+
+36 Le Seigneur ne me permit pas de prêcher sur ces sept trompettes. J’étais sur le point d’annoncer que j’allais parler sur ce sujet, mais je sentis en moi quelque chose qui m’empêchait de le faire. Billy et d’autres firent tous leurs efforts afin que tout fût prêt, y compris même l’installation d’un dispositif de climatisation, pour la semaine suivante, mais le Saint-Esprit ne permit pas, pour des raisons précises, que je prêche sur les trompettes. Je me demandai pourquoi et je dis à ma femme: «Je vais prier dans ma chambre». Je m’agenouillais en toute sincérité devant Dieu et Il me révéla que ces sept trompettes sonnèrent sous le sixième sceau, sur lequel j’avais déjà prêché. Voyez, tout ceci est le fait de la main surnaturelle de Dieu, il concerne Israël et nous avons traité cela dans le sceau qui se rapporte à la persécution des Juifs.
+
+37 Le temps des Nations se situe lors de cette fête de Pentecôte. Les Trompettes avaient toutes retenti pendant le sixième sceau. Nous avons vu cela dimanche dernier en étudiant la fête des trompettes. Pourquoi ce sixième sceau? Pour que les Juifs du monde entier se précipitent dans leur pays. Ainsi les sept trompettes ont retenti pendant le sixième sceau.
+
+38 A présent, par le message du septième ange, les mystères doivent être révélés. C’est le moment ou retentit l’appel pour les ouvriers de la onzième heure d’entre les Gentils afin qu’ils reçoivent le même salaire que reçurent les ouvriers de la première heure. Jésus enseignait que tous les ouvriers qui avaient été appelés, à quelque heure que ce fût, reçurent le même salaire, même celui qui était venu à la onzième heure.
+
+39 Ainsi tout est parfait. Le jour de la Pentecôte, vinrent les messagers de la première heure avec la Parole. A la suite de quoi suivit un âge sombre qui obstrua le travail et ensuite, au milieu du jour, vint d’abord Luther, bientôt suivi de Wesley. Ensuite arriva le message du temps du soir par lequel nous recevons la même chose que ceux qui étaient au commencement. Le message qui est délivré vers le soir est destiné à ramener les choses à leur état initial, comme elles l’étaient au commencement de l’église.
+
+MA VISION DE L’EPOUSE
+
+40 Rappelez-vous la vision que j’eus la semaine passée. Je ne pensais pas du tout à cela. J’étais simplement en train de regarder dehors. C’est alors qu’est venue l’Epouse. Près de moi, j’ai entendu une voix qui me disait: «Voici une vision de l’Epouse». Et Elle s’est approchée. J’ai alors remarqué comment elle était. Elle était jeune et très jolie, vraiment adorable. Elle s’avançait d’un pas harmonieux, non pas comme pour une marche militaire, mais d’une démarche gracieuse comme des jeunes femmes savent le faire; elle passa alors sur ma gauche puis disparut hors de ma vue.
+
+41 Ensuite Il me fit regarder du côté droit et Il me montra toutes les églises, telles qu’elles se présentèrent au cours des âges. Oh! qu’elles étaient vulgaires! La dernière en vue était l’église de ces derniers temps et elle était conduite par une sorcière. Un groupe de femmes la représentaient: elles étaient habillées d’une manière immorale, ayant même un caractère obscène. Elles marchaient au rythme du twist et du rock’n’roll. Elles tenaient des sortes de papiers gris devant elles, leurs jupes se composaient de bandes pendant à leur ceinture, tandis qu’elles étaient complètement nues depuis la taille, en haut. Elles ne faisaient que tenir devant elles leurs papiers gris. C’est une couleur hypocrite: elle se trouve entre le blanc et le noir et ce n’est jamais blanc ou noir, c’est une couleur trompeuse. Il me dit: «C’est l’église».
+
+42 Alors le coeur faillit me manquer! Je pensai: «Si c’est tout ce que l’on peut présenter à Christ comme Epouse!». Tous les efforts et les choses que l’homme a pu faire pour présenter une Epouse à Christ n’ont-ils eu pour seul résultat que de lui présenter pour Epouse une prostituée vulgaire, sale et à l’aspect obscène? Cela me rendait malade.
+
+43 Comme la dernière passait devant nous, elle tenait son papier devant elle, en mimant les mouvements des danses les plus modernes (twist et rock’n’roll), c’est-à-dire en se balançant de côté et d’autre. Elle se complaisait dans l’acte immoral qu’elle faisait en marchant.
+
+44 Je ne suis pas responsable de ces choses, mais je ne fais que répéter ce que j’ai vu et Dieu m’est témoin que c’était l’Eglise des U.S.A.
+
+45 Après qu’elle eût passé, je remarquai qu’elle était complètement découverte par derrière. Et à nouveau je me sentis défaillir et presque malade.
+
+46 Alors Il me dit: «L’Epouse va revenir, comme dans la première vision». Et voici, l’Epouse apparut à nouveau à la suite de la précédente. C’était exactement la même Epouse que celle qui était passée en premier. Mon coeur bondissait de joie en sachant qu’elle aurait le même aspect et porterait les mêmes habits que celle qui était apparue au début. Elle doit se tenir prête à être appelée. Je sais que c’est la vérité. Si cela n’est pas le cas, alors toutes les visions que j’ai eues jusqu’à présent ont été fausses. Mais beaucoup savent que chacune des choses qui m’ont été dites n’était rien d’autre que la vérité: elles se sont toutes accomplies.
+
 47 Voyez-vous maintenant la corruption de l’église moderne? Elle se nomme elle-même l’église.
-48 Frère Ruddle, un très cher frère parmi tous les autres, me dit l’autre jour qu’elle lui
-apparaissait semblable à une repousse de vigne. Il était troublé par l’état actuel, l’insensibilité à
-l’Esprit dans les églises d’aujourd’hui et par tout ce qui commence à tomber en ruines. Des
-prédicateurs et pasteurs venant d’un peu partout pour me questionner demandaient: «Que s’est-il
-passé frère Branham?».
+
+48 Frère Ruddle, un très cher frère parmi tous les autres, me dit l’autre jour qu’elle lui apparaissait semblable à une repousse de vigne. Il était troublé par l’état actuel, l’insensibilité à l’Esprit dans les églises d’aujourd’hui et par tout ce qui commence à tomber en ruines. Des prédicateurs et pasteurs venant d’un peu partout pour me questionner demandaient: «Que s’est-il passé frère Branham?».
+
 49 Frère Ruddle me posa la question: «Ces églises vivent-elles par l’Esprit de Satan ou quoi?».
-50 Je lui répondis: «Non, la repousse vit de la sève du cep». Prenons un exemple: le citron. Une
-branche de citronnier pourra croître sur un oranger, mais elle ne portera pas d’oranges car elle vit
-de sa propre vie. Ainsi celle qui est nommée église est comme un rejeton greffé, vivant sous un
-nom religieux, sous le nom de l’église. Les catholiques et les protestants ne sont que des rejetons
-croissant par la sève du cep mais ils portent leurs propres fruits, car ils ne sont pas convertis. Ils
-ne sont pas dans le plan de Dieu prédestiné à l’origine. C’est la raison pour laquelle ils nient la
-Parole et produisent leurs propres fruits. Selon l’exemple donné plus haut, l’arbre authentique et
-son fruit avaient été prédestinés: des oranges ne sont produites que par un oranger. Jésus nous
-avait dit: “Je suis le cep, vous êtes les sarments”.
-51 Si cet arbre produit d’autres branches, il portera le fruit prévu à l’origine. Il doit y avoir un
-rétablissement de toutes choses. Juste à la fin de la vie du cep, il doit venir un temps de
 
-    http://www.cmpp.ch
+50 Je lui répondis: «Non, la repousse vit de la sève du cep». Prenons un exemple: le citron. Une branche de citronnier pourra croître sur un oranger, mais elle ne portera pas d’oranges car elle vit de sa propre vie. Ainsi celle qui est nommée église est comme un rejeton greffé, vivant sous un nom religieux, sous le nom de l’église. Les catholiques et les protestants ne sont que des rejetons croissant par la sève du cep mais ils portent leurs propres fruits, car ils ne sont pas convertis. Ils ne sont pas dans le plan de Dieu prédestiné à l’origine. C’est la raison pour laquelle ils nient la Parole et produisent leurs propres fruits. Selon l’exemple donné plus haut, l’arbre authentique et son fruit avaient été prédestinés: des oranges ne sont produites que par un oranger. Jésus nous avait dit: “Je suis le cep, vous êtes les sarments”.
 
-RECONNAISSEZ LE JOUR ET SON MESSAGE 8
-restauration et de rétablissement, une lumière apparaissant vers le soir, pour l’amener à maturité
-en agissant sur lui depuis l’extérieur: non par une dénomination qui aurait été greffée sur lui, mais
-comme une production originale de la Parole de Dieu. Tout cela se passera à la fin du jour: vers le
-soir, la lumière apparaîtra. Il a besoin de la lumière pour arriver à maturité.
-52 Voyez la perfection de l’Ecriture, car c’est un jour qui n’est appelé ni jour ni nuit. Le fruit ne
-peut pas mûrir tant que le soleil ne l’éclaire pas. Quoi que ce soit que vous prêchiez ou que vous
-puissiez faire, il n’arrivera pas à maturité ni ne pourra être manifesté, ni même justifié, si ce n’est
-par Celui qui a dit: “Je suis la lumière du monde”. Il doit encore se manifester une puissance, le
-Saint-Esprit lui-même, pour amener à maturité, pour justifier, prouver et manifester, que ce qu’Il a
-prédit s’accomplit dans ce jour. C’est la lumière du soir qui produit cela. Oh quel temps
-vivons-nous!
-53 L’Epouse que j’avais vue passer en vision avait le même aspect que celui qu’elle avait tout au
-début de la vision. Mais tout à coup je l’ai vue trébucher et j’ai essayé de la rattraper. En fait on
-pourrait en dire encore beaucoup plus à ce sujet et sur les temps que nous vivons.
-54 Osée nous dit au chapitre 6.1: “Venez, retournons à l’Eternel!”. Souvenez-vous, il a dit qu’ils
-seraient dispersés et ils le furent. Il a dit qu’ils reviendraient au Seigneur après avoir été dispersés
-et qu’Il banderait leurs plaies. Et c’est exactement ce qui s’est passé: Il guérira et pansera les
-plaies et, selon Ezéchiel 37, Il ramènera à la vie les ossements desséchés, car Ezéchiel avait
-aussi prévu leur retour. Notons qu’Osée dit: “après deux jours”. Il nous recevra et nous réveillera.
-Mais réveiller ne signifie pas ressusciter; ce mot a la même signification qu’en d’autres endroits de
-la Parole, et cela signifie un réveil. Il nous réveillera dans deux jours. Ce renouveau de vie nous
-introduit donc dans le troisième jour après qu’ils ont été dispersés, aveuglés et déchirés.
-55 Savez-vous que les Juifs ont été aveuglés dans le but que nous puissions, nous, recevoir la
-vue? Comme nation, ils furent déchirés et dispersés. Ils rejetèrent leur Messie afin que nous
-puissions le recevoir et afin qu’un peuple appelé d’entre les nations puisse porter son Nombres 56 La femme reçoit le nom de son mari. Ces païens aveugles qui ne sont même pas capables de
-discerner le Seigneur Jésus-Christ dans le baptême! C’est très grave, mais il faut qu’il en soit ainsi.
-Seul peut le voir celui qui a été prédestiné, mais par un autre moyen vous ne le verrez jamais. Les
-Juifs ne pouvaient pas comprendre que Jésus était leur Messie bien qu’ils aient eu des savants,
-des théologiens et des hommes remarquables qui lisaient la même Bible que vous lisez aussi.
-Nous reconnaissons pleinement que Jésus a été le Messie d’après ce qui nous a été fait connaître
-de lui, mais eux ne pouvaient pas le savoir et, aujourd’hui encore, ils ne le reconnaissent pas. Il a
-été prophétisé qu’ils seraient aveuglés.
-57 Il a aussi été prophétisé que l’église de notre temps serait misérable et aveugle et qu’elle
-rejetterait le message du temps du soir (Apocalypse 3.14-20). Remarquez dans quel état se trouve
-l’église d’après la vision: nue et aveugle et elle ne le sait même pas! Seigneur Jésus aie pitié de
-nous! La Bible dit qu’elle était nue. Auparavant je ne l’avais jamais vue comme maintenant.
-L’Eglise de Laodicée est nue et quand je l’ai vue la nuit passée dans la vision, elle était aussi nue.
-58 Je crois que nous ne sommes pas encore assez reconnaissants pour les choses que Dieu
-nous fait connaître.
-59 La vision la montrait nue sans qu’elle-même le réalise. Aveuglée… comme Israël fut aveuglé,
-afin que les païens puissent entrer; et maintenant ce sont les païens qui sont aveuglés afin que
-l’Epouse puisse être enlevée d’entre eux et qu’Israël puisse recevoir la fête des trompettes.
-60 Comme nous l’avons lu auparavant, Osée en parlant d’Israël dit: “Ils vivront devant sa face”.
-C’est la vie éternelle. Celle qui vit dans les plaisirs est morte, quoique vivante. Il a promis qu’Israël
-aurait à nouveau la vie quoiqu’il soit maintenant mort pour ce qui concerne les réalités de la fête
-de la Pentecôte.
-61 Les deux jours mentionnés dans cette référence, au verset 2, ne constituent pas des jours de
-24 heures, car cela a déjà eu lieu des centaines d’années auparavant. Cela signifie deux jours
-selon le Seigneur, c’est-à-dire 2 000 ans.
-     Il s’est écoulé 2 700 ans depuis le moment où Osée écrivit ces paroles en l’an 780 avant
-Jésus-Christ. Il dit qu’après deux jours, c’est-à-dire pendant le troisième jour, Il nous ranimera et
+51 Si cet arbre produit d’autres branches, il portera le fruit prévu à l’origine. Il doit y avoir un rétablissement de toutes choses. Juste à la fin de la vie du cep, il doit venir un temps de restauration et de rétablissement, une lumière apparaissant vers le soir, pour l’amener à maturité en agissant sur lui depuis l’extérieur: non par une dénomination qui aurait été greffée sur lui, mais comme une production originale de la Parole de Dieu. Tout cela se passera à la fin du jour: vers le soir, la lumière apparaîtra. Il a besoin de la lumière pour arriver à maturité.
 
-        http://www.cmpp.ch
+52 Voyez la perfection de l’Ecriture, car c’est un jour qui n’est appelé ni jour ni nuit. Le fruit ne peut pas mûrir tant que le soleil ne l’éclaire pas. Quoi que ce soit que vous prêchiez ou que vous puissiez faire, il n’arrivera pas à maturité ni ne pourra être manifesté, ni même justifié, si ce n’est par Celui qui a dit: “Je suis la lumière du monde”. Il doit encore se manifester une puissance, le Saint-Esprit lui-même, pour amener à maturité, pour justifier, prouver et manifester, que ce qu’Il a prédit s’accomplit dans ce jour. C’est la lumière du soir qui produit cela. Oh quel temps vivons-nous!
 
-    RECONNAISSEZ LE JOUR ET SON MESSAGE    9
-nous donnera la vie devant Sa face. C’est à ce moment-là que les trompettes entrent en scène,
-c’est-à-dire dans ces temps même où nous vivons.
-62 Les Juifs ont été dispersés, aveuglés et rassemblés à nouveau, de sorte que nous sommes
-maintenant assez loin en avant dans le troisième jour. Comprenez-vous cela? Ils furent dispersés
-de la Palestine tout au travers du monde. Ils furent aveuglés à tel point qu’ils rejetèrent leur
-Messie. Maintenant ils ont été rassemblés dans leur patrie, prêts à entendre la sonnerie des
-trompettes, ainsi qu’à reconnaître le sacrifice d’expiation. La Bible dit qu’après l’enlèvement de
-l’Eglise, ils recevront le salut et qu’ils Le reconnaîtront avec la marque des clous. Ils Lui diront:
-“D’où te viennent ces blessures?”. Et Il leur répondra: “C’est dans la maison de mes amis”. Il dit
-que chaque famille rentrera chez elle, criera et pleurera pendant des jours, comme une famille qui
-a perdu son fils unique. Rappelez-vous que la fête des trompettes était prévue dans ce but-là. Ils
-pleureront et se lamenteront pour l’offrande immolée qu’ils avaient rejetée.
-63 Ils sont dans leur pays; ils étaient dispersés, aveuglés et se trouvent maintenant rassemblés.
-Tout cela se passe pendant le 6ème sceau. Six trompettes sonnèrent pour les rassembler comme
-cela a été révélé par l’ouverture du 6ème sceau. Tout ceci se passe pendant le même temps, mais
-cependant seulement pour les Juifs car, pour nous, nous sommes depuis près de 2 000 ans dans
-la fête de la Pentecôte (la grande et septième trompette retentit alors pour la fête).
-64 Ainsi il s’est passé 2 700 ans depuis qu’Il a dit que le troisième jour Il les rassemblerait à
-nouveau et qu’ils recevraient la vie devant Sa face. Voyez-vous la promesse? L’heure est
-parfaitement écrite, comme sur la muraille. Nous reconnaissons le temps dans lequel nous vivons.
-65 Les Juifs sont maintenant dans leur patrie, attendant la fête des trompettes afin de
-reconnaître le sacrifice d’expiation, attendant Sa venue. Ils se lamenteront pour l’avoir rejeté la
-première fois. Chaque chose est placée dans sa position.
-66 Comme ministre de l’Evangile, je vois qu’il ne reste plus qu’une chose qui doit s’accomplir,
-c’est l’enlèvement de l’Epouse: l’Epoux doit venir la chercher, avant qu’Israël puisse reconnaître ce
-qui doit arriver. Ainsi ils furent dispersés, aveuglés et, maintenant, rassemblés. Que reste-t-il
-encore? L’Epouse doit être enlevée! Alors, selon Apocalypse 11, leurs prophètes les appelleront à
-la fête des trompettes pour leur faire reconnaître ce qu’ils ont fait.
-67 Remarquez que pendant le temps du sixième sceau les 144 000 élus sont appelés. Entre la
-sixième et la septième trompette, le chapitre 11 de l’Apocalypse se place exactement en parallèle
-avec le sixième sceau.
-68 Que doit-il se passer? Les deux témoins apparaissent: Moïse et Elie. Ils sont prophètes, car
-les Juifs ne croient qu’en leurs prophètes. Ils paraîtront avec le signe des prophètes et leur oeuvre
-sera celle de prophète, car ils ont déjà été prophètes avant… Cela nous montre que si vous
-mourez ou que vous quittez ce monde d’une manière ou d’une autre, votre nature ne change pas.
-Si maintenant vous êtes un menteur, vous serez aussi un menteur là-bas. Et si vous êtes d’un
-caractère emporté ici-bas, vous le serez aussi là-bas. Si vous êtes un sceptique ici-bas, vous le
-serez aussi là-bas.
-69 Hommes et femmes, il est temps de vous secouer vous-mêmes, de vous examiner
-vous-mêmes et de voir quelle est votre position, car la mort n’y changera rien. Moïse s’en est allé il
-y a près de 3 500 ans, et Elie depuis un temps presque aussi long. Et voici que dans Apocalypse 11, ils reviendront avec leur même nature en faisant les mêmes choses qu’ils faisaient alors. Ce
-que la mort change pour l’homme, c’est son lieu de résidence, mais elle ne change pas sa nature
-ni sa foi, ni aucune chose en lui; la seule chose qui changera, c’est le lieu où il demeurera.
-70 Ainsi, quelle que puisse être votre nature ce matin, vous la retrouverez alors. Si vous êtes un
-sceptique de la Parole de Dieu, vous continuerez à en douter là-bas. Peu importe votre degré de
-sanctification, votre manière de vivre, le fait de mourir ne changera rien pour vous si ce n’est votre
-lieu de résidence. Si vous ne pouvez accepter l’entière Parole de Dieu telle qu’Elle est écrite, vous
-ne le pourrez pas non plus là-bas; de toute façon, vous ne serez même pas là-bas, si tel est votre
-état d’esprit. Il vous faut L’accepter dans Sa plénitude, dans la puissance de Sa confirmation
-et dans la révélation de ce qu’Elle est, c’est alors que vous en deviendrez une partie. Il n’y a
-que Sa Parole qu’Il va ressusciter, comme Il le fit ce premier matin de Pâque. C’est Sa Parole qui
-est venue en premier, et ensuite ceux qui sont morts dans Sa Parole, en croyant Sa Parole et en
-rendant témoignage de Sa Parole.
+53 L’Epouse que j’avais vue passer en vision avait le même aspect que celui qu’elle avait tout au début de la vision. Mais tout à coup je l’ai vue trébucher et j’ai essayé de la rattraper. En fait on pourrait en dire encore beaucoup plus à ce sujet et sur les temps que nous vivons.
 
-    http://www.cmpp.ch
+54 Osée nous dit au chapitre 6.1: “Venez, retournons à l’Eternel!”. Souvenez-vous, il a dit qu’ils seraient dispersés et ils le furent. Il a dit qu’ils reviendraient au Seigneur après avoir été dispersés et qu’Il banderait leurs plaies. Et c’est exactement ce qui s’est passé: Il guérira et pansera les plaies et, selon Ezéchiel 37, Il ramènera à la vie les ossements desséchés, car Ezéchiel avait aussi prévu leur retour. Notons qu’Osée dit: “après deux jours”. Il nous recevra et nous réveillera. Mais réveiller ne signifie pas ressusciter; ce mot a la même signification qu’en d’autres endroits de la Parole, et cela signifie un réveil. Il nous réveillera dans deux jours. Ce renouveau de vie nous introduit donc dans le troisième jour après qu’ils ont été dispersés, aveuglés et déchirés.
 
-RECONNAISSEZ LE JOUR ET SON MESSAGE 10
-71 Les Juifs furent dispersés et aveuglés; ils sont maintenant à nouveau rassemblés et la chose
-qu’ils ont encore à recevoir c’est la vie.
-72 Les Gentils ont entendu l’appel, l’Epouse est prête, l’enlèvement est proche. Réalisons-nous
-cela? Pouvons-nous le croire en ce moment-même? Ou est-ce seulement une histoire qui nous a
-été racontée? Est-ce encore une autre fable ou cela est-il quelque chose de réel pour nous?
-Est-ce quelque chose qui est en nous comme une partie intégrante de nous-mêmes et
-quelque chose qui a plus de valeur que notre vie même? Quelle est notre attitude ici ce matin
-alors que nous sommes assis en ce lieu de réunion? Souvenez-vous que seul un petit troupeau
-recevra cela.
-73 Les Juifs sont maintenant dans leur patrie dans l’attente des trompettes. Ils attendent aussi
-que l’Epouse s’en aille afin qu’Apocalypse 11 puisse s’accomplir. Le temps de l’Eglise se termine.
-Les sceaux ont été ouverts avec le message qui révèle ce qui a été laissé de côté au cours des
-âges de l’Eglise et qui doit être à nouveau restauré. Israël est déjà sur scène. Alléluia! Prêt pour la
-fête des trompettes!
-74 Et vous, hommes des autres pays où ce message vous atteint, pouvez-vous vous réveiller,
-mes frères? Ou bien cela vous aveugle-t-il? Voulez-vous rejeter ce message en le considérant
-comme une fausse prophétie? Pourtant il est confirmé devant vous par le monde, par les temps
-dans lesquels nous vivons, par les gens, et par le Saint-Esprit qui fut l’auteur de la Parole. Il est
-confirmé tout à la fois d’une manière naturelle, spirituelle et matérielle. Toutes les choses
-qu’Il a dites sont accomplies et ont été prouvées.
-75 Les Juifs ont été rassemblés comme un troupeau de brebis dans leur patrie. Les loups les ont
-pourchassées et les ont refoulées là pour leur propre salut. Souvenez-vous: la bénédiction
-promise à Israël ne devait être effective que pour autant que le peuple habite dans son propre
-pays. Dieu n’a jamais béni Israël en dehors de ce pays-là. Abraham lui-même, lorsqu’il en sortit,
-fut momentanément privé de la bénédiction. Quiconque quitte ce pays est condamné. Israël ne
-peut être béni de Dieu que s’il reste dans sa patrie. Il existe maintenant là comme une nation,
-attendant l’enlèvement de l’Epouse afin que ses prophètes lui soient révélés dans ce dernier jour
-par la fête des trompettes.
-76 Les Sceaux sont ouverts. Ils nous ont été révélés. Vous qui discutez et vous disputez à
-propos de la semence du serpent, du baptême d’eau, etc., vous êtes aveugles et vous ne le savez
-même pas. Le dieu de ce monde vous a aveuglés et vous n’en avez pas conscience. (J’ai
-moi-même éprouvé ce matin, dans un dur moment de lutte, toutes ces tensions.)
+55 Savez-vous que les Juifs ont été aveuglés dans le but que nous puissions, nous, recevoir la vue? Comme nation, ils furent déchirés et dispersés. Ils rejetèrent leur Messie afin que nous puissions le recevoir et afin qu’un peuple appelé d’entre les nations puisse porter son Nombres 56 La femme reçoit le nom de son mari. Ces païens aveugles qui ne sont même pas capables de discerner le Seigneur Jésus-Christ dans le baptême! C’est très grave, mais il faut qu’il en soit ainsi. Seul peut le voir celui qui a été prédestiné, mais par un autre moyen vous ne le verrez jamais. Les Juifs ne pouvaient pas comprendre que Jésus était leur Messie bien qu’ils aient eu des savants, des théologiens et des hommes remarquables qui lisaient la même Bible que vous lisez aussi. Nous reconnaissons pleinement que Jésus a été le Messie d’après ce qui nous a été fait connaître de lui, mais eux ne pouvaient pas le savoir et, aujourd’hui encore, ils ne le reconnaissent pas. Il a été prophétisé qu’ils seraient aveuglés.
+
+57 Il a aussi été prophétisé que l’église de notre temps serait misérable et aveugle et qu’elle rejetterait le message du temps du soir (Apocalypse 3.14-20). Remarquez dans quel état se trouve l’église d’après la vision: nue et aveugle et elle ne le sait même pas! Seigneur Jésus aie pitié de nous! La Bible dit qu’elle était nue. Auparavant je ne l’avais jamais vue comme maintenant. L’Eglise de Laodicée est nue et quand je l’ai vue la nuit passée dans la vision, elle était aussi nue.
+
+58 Je crois que nous ne sommes pas encore assez reconnaissants pour les choses que Dieu nous fait connaître.
+
+59 La vision la montrait nue sans qu’elle-même le réalise. Aveuglée… comme Israël fut aveuglé, afin que les païens puissent entrer; et maintenant ce sont les païens qui sont aveuglés afin que l’Epouse puisse être enlevée d’entre eux et qu’Israël puisse recevoir la fête des trompettes.
+
+60 Comme nous l’avons lu auparavant, Osée en parlant d’Israël dit: “Ils vivront devant sa face”. C’est la vie éternelle. Celle qui vit dans les plaisirs est morte, quoique vivante. Il a promis qu’Israël aurait à nouveau la vie quoiqu’il soit maintenant mort pour ce qui concerne les réalités de la fête de la Pentecôte.
+
+61 Les deux jours mentionnés dans cette référence, au verset 2, ne constituent pas des jours de 24 heures, car cela a déjà eu lieu des centaines d’années auparavant. Cela signifie deux jours selon le Seigneur, c’est-à-dire 2 000 ans.
+
+Il s’est écoulé 2 700 ans depuis le moment où Osée écrivit ces paroles en l’an 780 avant Jésus-Christ. Il dit qu’après deux jours, c’est-à-dire pendant le troisième jour, Il nous ranimera et nous donnera la vie devant Sa face. C’est à ce moment-là que les trompettes entrent en scène, c’est-à-dire dans ces temps même où nous vivons.
+
+62 Les Juifs ont été dispersés, aveuglés et rassemblés à nouveau, de sorte que nous sommes maintenant assez loin en avant dans le troisième jour. Comprenez-vous cela? Ils furent dispersés de la Palestine tout au travers du monde. Ils furent aveuglés à tel point qu’ils rejetèrent leur Messie. Maintenant ils ont été rassemblés dans leur patrie, prêts à entendre la sonnerie des trompettes, ainsi qu’à reconnaître le sacrifice d’expiation. La Bible dit qu’après l’enlèvement de l’Eglise, ils recevront le salut et qu’ils Le reconnaîtront avec la marque des clous. Ils Lui diront: “D’où te viennent ces blessures?”. Et Il leur répondra: “C’est dans la maison de mes amis”. Il dit que chaque famille rentrera chez elle, criera et pleurera pendant des jours, comme une famille qui a perdu son fils unique. Rappelez-vous que la fête des trompettes était prévue dans ce but-là. Ils pleureront et se lamenteront pour l’offrande immolée qu’ils avaient rejetée.
+
+63 Ils sont dans leur pays; ils étaient dispersés, aveuglés et se trouvent maintenant rassemblés. Tout cela se passe pendant le 6ème sceau. Six trompettes sonnèrent pour les rassembler comme cela a été révélé par l’ouverture du 6ème sceau. Tout ceci se passe pendant le même temps, mais cependant seulement pour les Juifs car, pour nous, nous sommes depuis près de 2 000 ans dans la fête de la Pentecôte (la grande et septième trompette retentit alors pour la fête).
+
+64 Ainsi il s’est passé 2 700 ans depuis qu’Il a dit que le troisième jour Il les rassemblerait à nouveau et qu’ils recevraient la vie devant Sa face. Voyez-vous la promesse? L’heure est parfaitement écrite, comme sur la muraille. Nous reconnaissons le temps dans lequel nous vivons.
+
+65 Les Juifs sont maintenant dans leur patrie, attendant la fête des trompettes afin de reconnaître le sacrifice d’expiation, attendant Sa venue. Ils se lamenteront pour l’avoir rejeté la première fois. Chaque chose est placée dans sa position.
+
+66 Comme ministre de l’Evangile, je vois qu’il ne reste plus qu’une chose qui doit s’accomplir, c’est l’enlèvement de l’Epouse: l’Epoux doit venir la chercher, avant qu’Israël puisse reconnaître ce qui doit arriver. Ainsi ils furent dispersés, aveuglés et, maintenant, rassemblés. Que reste-t-il encore? L’Epouse doit être enlevée! Alors, selon Apocalypse 11, leurs prophètes les appelleront à la fête des trompettes pour leur faire reconnaître ce qu’ils ont fait.
+
+67 Remarquez que pendant le temps du sixième sceau les 144 000 élus sont appelés. Entre la sixième et la septième trompette, le chapitre 11 de l’Apocalypse se place exactement en parallèle avec le sixième sceau.
+
+68 Que doit-il se passer? Les deux témoins apparaissent: Moïse et Elie. Ils sont prophètes, car les Juifs ne croient qu’en leurs prophètes. Ils paraîtront avec le signe des prophètes et leur oeuvre sera celle de prophète, car ils ont déjà été prophètes avant… Cela nous montre que si vous mourez ou que vous quittez ce monde d’une manière ou d’une autre, votre nature ne change pas. Si maintenant vous êtes un menteur, vous serez aussi un menteur là-bas. Et si vous êtes d’un caractère emporté ici-bas, vous le serez aussi là-bas. Si vous êtes un sceptique ici-bas, vous le serez aussi là-bas.
+
+69 Hommes et femmes, il est temps de vous secouer vous-mêmes, de vous examiner vous-mêmes et de voir quelle est votre position, car la mort n’y changera rien. Moïse s’en est allé il y a près de 3 500 ans, et Elie depuis un temps presque aussi long. Et voici que dans Apocalypse 11, ils reviendront avec leur même nature en faisant les mêmes choses qu’ils faisaient alors. Ce que la mort change pour l’homme, c’est son lieu de résidence, mais elle ne change pas sa nature ni sa foi, ni aucune chose en lui; la seule chose qui changera, c’est le lieu où il demeurera.
+
+70 Ainsi, quelle que puisse être votre nature ce matin, vous la retrouverez alors. Si vous êtes un sceptique de la Parole de Dieu, vous continuerez à en douter là-bas. Peu importe votre degré de sanctification, votre manière de vivre, le fait de mourir ne changera rien pour vous si ce n’est votre lieu de résidence. Si vous ne pouvez accepter l’entière Parole de Dieu telle qu’Elle est écrite, vous ne le pourrez pas non plus là-bas; de toute façon, vous ne serez même pas là-bas, si tel est votre état d’esprit. Il vous faut L’accepter dans Sa plénitude, dans la puissance de Sa confirmation et dans la révélation de ce qu’Elle est, c’est alors que vous en deviendrez une partie. Il n’y a que Sa Parole qu’Il va ressusciter, comme Il le fit ce premier matin de Pâque. C’est Sa Parole qui est venue en premier, et ensuite ceux qui sont morts dans Sa Parole, en croyant Sa Parole et en rendant témoignage de Sa Parole.
+
+71 Les Juifs furent dispersés et aveuglés; ils sont maintenant à nouveau rassemblés et la chose qu’ils ont encore à recevoir c’est la vie.
+
+72 Les Gentils ont entendu l’appel, l’Epouse est prête, l’enlèvement est proche. Réalisons-nous cela? Pouvons-nous le croire en ce moment-même? Ou est-ce seulement une histoire qui nous a été racontée? Est-ce encore une autre fable ou cela est-il quelque chose de réel pour nous? Est-ce quelque chose qui est en nous comme une partie intégrante de nous-mêmes et quelque chose qui a plus de valeur que notre vie même? Quelle est notre attitude ici ce matin alors que nous sommes assis en ce lieu de réunion? Souvenez-vous que seul un petit troupeau recevra cela.
+
+73 Les Juifs sont maintenant dans leur patrie dans l’attente des trompettes. Ils attendent aussi que l’Epouse s’en aille afin qu’Apocalypse 11 puisse s’accomplir. Le temps de l’Eglise se termine. Les sceaux ont été ouverts avec le message qui révèle ce qui a été laissé de côté au cours des âges de l’Eglise et qui doit être à nouveau restauré. Israël est déjà sur scène. Alléluia! Prêt pour la fête des trompettes!
+
+74 Et vous, hommes des autres pays où ce message vous atteint, pouvez-vous vous réveiller, mes frères? Ou bien cela vous aveugle-t-il? Voulez-vous rejeter ce message en le considérant comme une fausse prophétie? Pourtant il est confirmé devant vous par le monde, par les temps dans lesquels nous vivons, par les gens, et par le Saint-Esprit qui fut l’auteur de la Parole. Il est confirmé tout à la fois d’une manière naturelle, spirituelle et matérielle. Toutes les choses qu’Il a dites sont accomplies et ont été prouvées.
+
+75 Les Juifs ont été rassemblés comme un troupeau de brebis dans leur patrie. Les loups les ont pourchassées et les ont refoulées là pour leur propre salut. Souvenez-vous: la bénédiction promise à Israël ne devait être effective que pour autant que le peuple habite dans son propre pays. Dieu n’a jamais béni Israël en dehors de ce pays-là. Abraham lui-même, lorsqu’il en sortit, fut momentanément privé de la bénédiction. Quiconque quitte ce pays est condamné. Israël ne peut être béni de Dieu que s’il reste dans sa patrie. Il existe maintenant là comme une nation, attendant l’enlèvement de l’Epouse afin que ses prophètes lui soient révélés dans ce dernier jour par la fête des trompettes.
+
+76 Les Sceaux sont ouverts. Ils nous ont été révélés. Vous qui discutez et vous disputez à propos de la semence du serpent, du baptême d’eau, etc., vous êtes aveugles et vous ne le savez même pas. Le dieu de ce monde vous a aveuglés et vous n’en avez pas conscience. (J’ai moi-même éprouvé ce matin, dans un dur moment de lutte, toutes ces tensions.)
+
 77 Ainsi en ce dernier jour, leurs prophètes ne seront pas révélés avant la fête des Trompettes.
-78 Parlant par Osée, Dieu dit à Israël: “J’ai frappé”. Par d’autres paroles, Il dit: “Je frapperai le
-peuple par les prophètes”. C’est pourquoi Dieu revendique Son peuple pour Lui. Il les taille hors du
-reste des nations. Comment? Par Son épée à deux tranchants, Sa Parole. Il équarrit Son peuple
-d’entre les nations par Sa Parole, confirmée par les prophètes. De même, Il a aussi taillé Son
-Epouse hors des dénominations par Sa Parole. Cette promesse est contenue dans Malachie
-au chapitre 3, elle doit se réaliser dans les derniers jours.
-79 Par Sa Parole, Il a séparé Ses prophètes, par là-même séparant également Israël. “Sortez du
-milieu d’eux”. Souvenez-vous: Israël désirait ressembler aux autres nations; ils vinrent alors au
-prophète Samuel qui leur dit: “Ai-je quelquefois pris votre argent? Vous ai-je quelquefois dit une
-chose au Nom du Seigneur qui ne soit pas arrivée?”.
-     Ils dirent: “Non, c’est juste, mais nous voulons quand même un roi”.
-80 C’est aussi ce chemin-là que l’église a suivi. Ils disent: “Pas de problème, nous croyons la
-Parole, mais nous devrions le faire de cette manière ou de cette façon-là”. Peu m’importe ce qu’ils
-peuvent bien dire; seule la Parole a raison. C’est au moyen des prophètes qu’Il les a séparés.
-81 Quelle heure est-il, frère? Quelle heure est-il, prédicateur? Pouvez-vous discerner l’heure
-du jour et le signe sous lequel vous vivez? Pouvez-vous le comprendre?
-82 Tout le monde se plaint qu’il n’y a plus de réveils. Les prédicateurs pleurent. J’ai lu un des
-derniers journaux édités que nous recevons ici dans notre assemblée. C’est le “Héraut de Sa
-venue”. C’est un très bon journal et j’en connais personnellement l’éditeur. Ce sont des gens pieux
-et c’est une des meilleures publications du champ missionnaire. Néanmoins tout ce qu’ils ont
 
-        http://www.cmpp.ch
+78 Parlant par Osée, Dieu dit à Israël: “J’ai frappé”. Par d’autres paroles, Il dit: “Je frapperai le peuple par les prophètes”. C’est pourquoi Dieu revendique Son peuple pour Lui. Il les taille hors du reste des nations. Comment? Par Son épée à deux tranchants, Sa Parole. Il équarrit Son peuple d’entre les nations par Sa Parole, confirmée par les prophètes. De même, Il a aussi taillé Son Epouse hors des dénominations par Sa Parole. Cette promesse est contenue dans Malachie au chapitre 3, elle doit se réaliser dans les derniers jours.
 
-    RECONNAISSEZ LE JOUR ET SON MESSAGE    11
+79 Par Sa Parole, Il a séparé Ses prophètes, par là-même séparant également Israël. “Sortez du milieu d’eux”. Souvenez-vous: Israël désirait ressembler aux autres nations; ils vinrent alors au prophète Samuel qui leur dit: “Ai-je quelquefois pris votre argent? Vous ai-je quelquefois dit une chose au Nom du Seigneur qui ne soit pas arrivée?”.
+
+Ils dirent: “Non, c’est juste, mais nous voulons quand même un roi”.
+
+80 C’est aussi ce chemin-là que l’église a suivi. Ils disent: “Pas de problème, nous croyons la Parole, mais nous devrions le faire de cette manière ou de cette façon-là”. Peu m’importe ce qu’ils peuvent bien dire; seule la Parole a raison. C’est au moyen des prophètes qu’Il les a séparés.
+
+81 Quelle heure est-il, frère? Quelle heure est-il, prédicateur? Pouvez-vous discerner l’heure du jour et le signe sous lequel vous vivez? Pouvez-vous le comprendre?
+
+82 Tout le monde se plaint qu’il n’y a plus de réveils. Les prédicateurs pleurent. J’ai lu un des derniers journaux édités que nous recevons ici dans notre assemblée. C’est le “Héraut de Sa venue”. C’est un très bon journal et j’en connais personnellement l’éditeur. Ce sont des gens pieux et c’est une des meilleures publications du champ missionnaire. Néanmoins tout ce qu’ils ont
+
+RECONNAISSEZ LE JOUR ET SON MESSAGE    11
 trouvé à imprimer a été: «Jeûnez et priez! Sonnez de la trompette! Jeûnez et priez! Le jour va
 décliner rapidement: de grandes choses se préparent. Vous tous, priez, priez, priez. Il n’est pas
 encore trop tard!».
@@ -1499,8 +1244,6 @@ tende davantage vers cet appel de Christ. Amen. C’est là notre désir, n’es
        Enfants de douleurs et de chagrin;
        Car Il vous donnera joie et réconfort
        Prenez-Le partout où vous allez.
-
-
 
 
 

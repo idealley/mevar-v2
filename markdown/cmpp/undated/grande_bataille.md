@@ -1,541 +1,249 @@
-    LA PAROLE PARLEE
+---
+source: "cmpp"
+sermon_id: "grande_bataille"
+title: "La Plus Grande Bataille Jamais Livrée"
+subtitle: "11 mars 1962, matin"
+date: "1962-03-11"
+year: 1962
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham enseigne que la plus grande bataille jamais livrée se déroule dans la pensée humaine, où Satan attaque par le doute de la Parole de Dieu. Il explique la constitution de l'homme (corps, âme, esprit) et comment la foi doit être reçue par le libre arbitre, en laissant la Parole de Dieu agir sans entraves. Il encourage les croyants à garder leur position comme les étoiles dans le ciel."
+tags:
+  - "bataille spirituelle"
+  - "foi"
+  - "Parole de Dieu"
+  - "pensée"
+  - "doute"
+  - "guérison divine"
+persons:
+  - "William Branham"
+  - "Ewald Frank"
+  - "James Bell"
+  - "Custer"
+  - "Goliath"
+  - "David"
+  - "Job"
+  - "Paul"
+  - "Jésus"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Arizona"
+  - "Phoenix"
+  - "Tucson"
+themes:
+  - "bataille spirituelle"
+  - "foi contre doute"
+  - "Parole de Dieu comme semence"
+  - "champ de bataille de la pensée"
+  - "guérison divine"
+  - "ordre divin"
+  - "libre arbitre"
+pdf_url: "http://cmpp.ch/grande_bataille.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Daniel 12"
+  - "Genèse 3"
+  - "Hébreux 4"
+  - "Jacques 4"
+  - "Matthieu 24"
+---
+LA PAROLE PARLEE
 
-    PAR
+PAR
 
-    WILLIAM MARRION BRANHAM
-
-
+WILLIAM MARRION BRANHAM
 
 
-
-   LA PLUS GRANDE BATAILLE
-        JAMAIS LIVREE
+LA PLUS GRANDE BATAILLE JAMAIS LIVREE
 (Greatest Battle Ever Fought)
 
 
-
-
-      11 mars 1962, matin
-       Branham Tabernacle
+11 mars 1962, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    LA PLUS GRANDE BATAILLE JAMAIS LIVREE    2
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
 LA PLUS GRANDE BATAILLE JAMAIS LIVREE
-    (Greatest Battle Ever Fought)
+(Greatest Battle Ever Fought)
 
-         11 mars 1962, matin
-          Branham Tabernacle
-   Jeffersonville — Indiana, U.S.A.
-
-
+11 mars 1962, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
 
-   Merci, frère Orman. Que le Seigneur vous bénisse!
-   Bonjour, chers amis. Je suis heureux d’être à nouveau ici ce matin. C’est en quelque sorte un
-peu inattendu pour moi-même, et je suis sûr pour vous aussi. J’étais en train de lire, et le Seigneur
-a mis sur mon coeur quelque chose à apporter à l’Eglise, et j’ai pensé que le temps était venu d’en
-parler. Et, lorsque je suis arrivé ici, je ne pensais pas être présent pour ce dimanche; c’est
-pourquoi, Dieu voulant, j’apporterai ce message dimanche prochain. Ce sera un long message, et
-probablement que nous ne terminerons pas avant midi et demi, ou une heure. Il y a longtemps qu’il
-est sur mon coeur, et je pense que je suis aussi redevable au public d’une réponse, car je n’ai pas
-été très actif sur le champ missionnaire. Cependant, j’ai prêché un peu partout. Mais je pense que,
-si le Seigneur le veut, je prendrai mon temps dimanche prochain pour exposer mes raisons et vous
-présenter d’une manière scripturaire ce qui est en train de se passer. Vous voyez? Tout ce qu’il en
-est de ces choses. Parce qu’il est probable que je vais bientôt m’en aller outre-mer, ou ailleurs.
-J’attends maintenant pour voir sur quel chemin Il m’enverra.
-   Il y a trois jours, ou plutôt deux, j’ai reçu un appel téléphonique vers minuit, me demandant de
-prier pour une femme qui était à l’hôpital. On m’appela, me demandant de prier (j’ai oublié le nom
-que l’on me donna, mais c’était une amie de soeur James Bell, notre soeur de couleur de cette
-église, une vraie fidèle, une femme de bien. Je crois que le nom que l’on m’a donné était
-Shepherd). Ainsi, je sortis du lit et m’agenouillai, racontant cela à ma femme, car la sonnerie du
-téléphone l’avait réveillée. Je lui dis: «Nous devons prier pour madame Shepherd; cette soeur a
-appelé, et dit qu’elle est une amie de madame James Bell».
-   Alors, nous avons prié pour elle, puis nous sommes retournés au lit, et vers les dix ou onze
-heures du jour suivant, je reçus de nouveau un appel. C’était Billy me disant qu’il ne s’agissait pas
-de madame Shepherd, mais bien de madame Bell elle-même, qu’elle était à l’hôpital, et que son
-cas était grave. Je me précipitai à l’hôpital, mais elle s’en était allée. Le Seigneur avait rappelé
-soeur Bell à Lui.
-   Soeur Bell est venue fidèlement avec nous dans cette église pendant des années. Son époux
-James, et moi-même, avons travaillé avec mon père plusieurs années pour la Pennsylvanie et
-Colgates. Il y a de cela bien des années; trente ans ou plus, je pense. Et nous aimions bien soeur
-Bell; elle était vraiment quelqu’un de bien.
-   Comme je l’ai compris, elle avait eu une violente attaque de la vésicule biliaire, et son médecin,
-qui connaissait bien son cas, était parti quelque temps de la ville. Le nouveau médecin qui
-l’ausculta recommanda une opération urgente. Mais elle n’y survécut pas. Comme je l’ai compris,
-son médecin habituel n’aurait pas prescrit cette opération, parce que sa vésicule biliaire était en
-trop mauvais état, et qu’elle avait des pierres, je crois, ou quelque chose comme cela. Le Seigneur
-a été compatissant, car elle avait eu d’autres crises, auparavant, et Il avait pris soin d’elle chaque
-fois, mais il a fallu qu’il arrive cela… Mais, disons les choses comme elles sont: Dieu a appelé
-soeur Bell, et c’est de cette façon qu’Il a voulu la prendre. Vous voyez?
-   Je ne sais pas comment il se fait que j’aie pensé qu’il s’agissait de mademoiselle Shepherd, car
-je ne connais pas mademoiselle Shepherd. Cette personne est peut-être ici ce matin, et peut-être
-que je la reconnaîtrais, si je voyais son visage. Mais on m’a dit que c’était mademoiselle
-Shepherd; si j’avais su que c’était soeur Bell qui se trouvait dans cette condition, je serais
-probablement allé directement là-bas intercéder pour elle. Mais, vous voyez, peut-être que Dieu
+Merci, frère Orman. Que le Seigneur vous bénisse!
+Bonjour, chers amis. Je suis heureux d’être à nouveau ici ce matin. C’est en quelque sorte un peu inattendu pour moi-même, et je suis sûr pour vous aussi. J’étais en train de lire, et le Seigneur a mis sur mon coeur quelque chose à apporter à l’Eglise, et j’ai pensé que le temps était venu d’en parler. Et, lorsque je suis arrivé ici, je ne pensais pas être présent pour ce dimanche; c’est pourquoi, Dieu voulant, j’apporterai ce message dimanche prochain. Ce sera un long message, et probablement que nous ne terminerons pas avant midi et demi, ou une heure. Il y a longtemps qu’il est sur mon coeur, et je pense que je suis aussi redevable au public d’une réponse, car je n’ai pas été très actif sur le champ missionnaire. Cependant, j’ai prêché un peu partout. Mais je pense que, si le Seigneur le veut, je prendrai mon temps dimanche prochain pour exposer mes raisons et vous présenter d’une manière scripturaire ce qui est en train de se passer. Vous voyez? Tout ce qu’il en est de ces choses. Parce qu’il est probable que je vais bientôt m’en aller outre-mer, ou ailleurs. J’attends maintenant pour voir sur quel chemin Il m’enverra.
 
-        http://www.cmpp.ch
+Il y a trois jours, ou plutôt deux, j’ai reçu un appel téléphonique vers minuit, me demandant de prier pour une femme qui était à l’hôpital. On m’appela, me demandant de prier (j’ai oublié le nom que l’on me donna, mais c’était une amie de soeur James Bell, notre soeur de couleur de cette église, une vraie fidèle, une femme de bien. Je crois que le nom que l’on m’a donné était Shepherd). Ainsi, je sortis du lit et m’agenouillai, racontant cela à ma femme, car la sonnerie du téléphone l’avait réveillée. Je lui dis: «Nous devons prier pour madame Shepherd; cette soeur a appelé, et dit qu’elle est une amie de madame James Bell».
 
-LA PLUS GRANDE BATAILLE JAMAIS LIVREE 3
-n’a pas voulu que nous fassions cela. Ainsi, nous savons que toutes choses concourent ensemble
-au bien de ceux qui aiment Dieu. Je suis sûr que soeur Bell aimait notre Seigneur. Elle était une
-brave femme.
-   Elle était une d’entre nous, car pour nous il n’y a pas ici de différence à cause de la couleur. La
-famille de Dieu n’est pas séparée par la couleur. Que nous soyons rouge, brun, noir ou jaune, n’a
-aucune importance. Que nous soyons blanc ou autre, nous sommes frères et soeurs en Christ.
-Ainsi, nous l’aimions, et c’est une perte pour tous ceux de ce tabernacle. Combien vont me
-manquer les grands et vigoureux «Amen!» de soeur Bell, qui venaient du coin, là-bas au fond! Et
-lorsque je la ramenais à la maison, elle parlait du Seigneur Jésus.
-   Si j’ai bien compris (je viens de l’apprendre il y a un instant), les funérailles auront lieu ici dans
-cette église mardi prochain à une heure. Et je pense que vous, frère Neville, et moi-même,
-devrons présider ce service funèbre? [Frère Branham parle à frère Neville — N.d.R.].
-   Mais, dans cette assemblée, puisque, depuis ce matin, quelqu’un manque au milieu de nous,
-restons debout un moment, par respect pour notre soeur Bell, pendant que nous inclinons nos
-têtes.
-   Dieu de la Vie, Toi qui donnes et qui reprends la vie, nous disons comme Job le dit autrefois:
-“Le Seigneur a donné, le Seigneur a repris; béni soit le Nom du Seigneur”. Il y a bien des années,
-Tu as envoyé soeur Bell parmi nous pour être une concitoyenne de ce grand Royaume de Dieu. Et
-nous Te remercions pour toute source d’inspiration qu’elle a été pour nous, car elle aimait à
-chanter, à témoigner, et elle a été tellement remplie de l’Esprit qu’elle en poussait des cris de joie.
-Elle n’a pas eu honte de l’Evangile de Jésus-Christ, car pour elle, Il était la puissance de Dieu
-conduisant au salut. Elle voyait grandir le nombre de ses années, et venir le jour où, comme
-chacun d’entre nous, elle aurait à répondre pour elle-même. Et ce matin, Tu l’as prise du milieu de
-nous pour être en Ta présence, car il est vrai que lorsque nous nous en allons d’ici, c’est pour être
-dans la présence de Dieu.
-   O Dieu, nous Te remercions pour tout. Nous Te prions de bénir son mari, mon ami James, son
-fils, ses filles et tous ceux… Nous savons que son fils est en train de venir de l’Allemagne par
-avion, où il est dans l’armée, pour rendre sur cette terre le dernier hommage à sa mère qui a quitté
-ce monde. Combien le coeur de ce jeune homme doit être ému, ce matin. Je Te prie pour lui,
-Seigneur. O Dieu, bénis-le. Bénis Jimmy, car Tu le vois travailler et faire de longues heures
-fatigantes pour faire vivre sa famille. Et je te demande que cette grande famille ne soit pas
-séparée, mais que le cercle familial se retrouve entier au jour où ils seront de l’autre côté.
-   Que nous puissions, Seigneur, resserrer les attaches de notre armure, et de notre ceinture, afin
-d’entrer dans la bataille et combattre avec plus d’ardeur que la semaine passée. Nous Te
-demandons de nous soutenir, de nous fortifier, et de nous aider, alors que nous continuons la
-course. Et que nous puissions un jour être tous rassemblés de l’autre côté. Nous Te le demandons
-au Nom de Jésus. Amen!
-   Que l’âme de notre soeur décédée repose en paix.
-   J’aimerais dire encore que le culte funéraire sera prêché ici mardi, et que chacun est le
-bienvenu, s’il veut y assister. Je pense que frère Neville a pris toutes les dispositions…
-   Aujourd’hui… Vous voyez, il n’y a pas beaucoup de monde, et l’on pourrait apporter un siège
-pour frère et soeur Slaughter, là-bas au fond… J’ai reçu votre appel, soeur Slaughter, et je suis
-allé prier aussi pour l’autre soeur, soeur Jean Slaughter, qui a une violente fièvre, de la tularémie.
-Certainement que c’est un mauvais cas, mais nous avons confiance dans le Seigneur qu’elle sera
-guérie.
-   Maintenant, nous allons lire quelques passages des Ecritures, car je veux enseigner, ce matin,
-et je prendrai mon temps, car je suis revenu de l’Arizona, et je suis un peu enroué. Et, dimanche
-prochain, n’oubliez pas… Je pense que Billy a déjà expédié les annonces… je crois que ce sera
-un long service, c’est pourquoi venez assez tôt, aussitôt que vous le pourrez. Nous
-commencerons à neuf heures trente ou dix heures, jusqu’à midi trente ou une heure. Quelque
-chose comme trois ou quatre heures de prédication, ou davantage.
+Alors, nous avons prié pour elle, puis nous sommes retournés au lit, et vers les dix ou onze heures du jour suivant, je reçus de nouveau un appel. C’était Billy me disant qu’il ne s’agissait pas de madame Shepherd, mais bien de madame Bell elle-même, qu’elle était à l’hôpital, et que son cas était grave. Je me précipitai à l’hôpital, mais elle s’en était allée. Le Seigneur avait rappelé soeur Bell à Lui.
 
-        http://www.cmpp.ch
+Soeur Bell est venue fidèlement avec nous dans cette église pendant des années. Son époux James, et moi-même, avons travaillé avec mon père plusieurs années pour la Pennsylvanie et Colgates. Il y a de cela bien des années; trente ans ou plus, je pense. Et nous aimions bien soeur Bell; elle était vraiment quelqu’un de bien.
 
-LA PLUS GRANDE BATAILLE JAMAIS LIVREE 4
-   J’aime prendre les Ecritures et les exposer (vous devriez prendre avec vous un crayon et du
-papier). S’il y a une question, vous la poserez, et peut-être que nous pourrons y répondre. Nous
-ferons ce que nous pourrons pour vous aider.
-   Maintenant, lisons quelques Ecritures pour commencer. Il y a trois endroits dans la Bible où
-j’aimerais lire. Je veux me référer à plusieurs textes de l’Ecriture ce matin, et le premier sera 1
-Pierre 5.8-10, puis Ephésiens 6.10-17, et Daniel 12.1-14.
-   Nous prendrons le temps de bien lire ces passages (à peu près tous sont assis. A part
-quelques-uns qui sont debout en arrière et sur le côté). Mais nous essaierons d’aller aussi vite que
-possible; puis, nous laisserons sortir ceux qui doivent s’en aller, et nous prierons pour les malades.
-   Il y a ici une dame; elle est couchée ici depuis ce matin; elle est très malade. Je crois qu’elle
-était très malade hier, et je voulais qu’elle puisse entendre ce que je vais dire ce matin, avant de
-prier pour elle. Je connais l’état de cette petite dame: elle est vraiment très malade! Mais nous
-avons un glorieux Père céleste qui est plus que vainqueur de toutes les maladies.
-   J’ai lu un petit article dans lequel un docteur en médecine, qui critiquait la guérison divine, a été
-vraiment surpris. Il ne permettait à personne, pas même à son infirmière, d’en parler dans son
-cabinet. Mais il arriva qu’il reçut une patiente qui avait un énorme cancer. Comme il ne voulait pas
-s’occuper de ce cas, il l’envoya à une autre clinique. La clinique ne voulut pas non plus s’en
-occuper, et ils la lui renvoyèrent.
-   Oh, c’était un cancer du sein, et elle était dans un état désespéré. Toute la peau avait été
-rongée, et le cancer s’enfonçait dans les chairs jusqu’aux côtes. Je suppose que vous comprenez
-ce que cela signifie. (Nous avons notre ami, le petit docteur de Norvège, assis avec nous ce
-matin). Il avait préparé tout ce qui était nécessaire, car ils voulaient l’opérer, et lui enlever le sein.
-C’était un travail vraiment sanglant, et il avait mis toutes sortes de pansements, etc. L’infirmière
-prépara cette dame, et l’introduisit dans la salle d’opération, puis elle retourna chercher les
-instruments qu’allaient employer le chirurgien et son assistant pour enlever ce sein. Ainsi, ils
-avaient leurs instruments étalés là, et quand il voulut commencer…
-   Son mari avait demandé de pouvoir s’asseoir au bout de la pièce pour prier. Il était un
-prédicateur de la sanctification; il était assis au pied du lit, et il priait. Naturellement que le docteur
-n’était pas très satisfait de cela, vous savez — qu’il reste là… Mais aussi longtemps qu’il ne
-regardait pas, et que cela ne lui faisait pas de mal, c’était en ordre… qu’il ne s’évanouisse pas!
-   Ainsi, pendant qu’il était assis et priait, il se fit une agitation dans la pièce, et le docteur se
-tourna pour prendre ses instruments afin de commencer à enlever ce sein. Il enleva les bandages,
-les uns après les autres, et voici qu’il n’y avait pas même une cicatrice sur la poitrine — pas même
-une cicatrice! Il dit: «N’est-elle pas… est-elle partie?». Et il s’arrêta… L’infirmière donna son
-témoignage. Les deux s’en allèrent et devinrent Pentecôtistes, furent remplis du Saint-Esprit, et
-maintenant ils servent le Seigneur.
-   Même pas une cicatrice! Le docteur Holbrook en rend témoignage lui-même: «Une minute
-auparavant, cette femme était étendue là, et il y avait sur sa poitrine l’excroissance de ce grand
-cancer. Une minute plus tard, il n’y avait même plus une cicatrice!». C’est l’un de nos meilleurs
-médecins, ici en Amérique. Il dit qu’il a été alors tout à fait convaincu. Et maintenant, il est diacre
-dans une église.
-   Vous voyez! Les gens pensent que l’Eglise est un endroit où vous allez juste pour apprendre à
-être bon, ou pour quelque chose de semblable. Ce n’est pas cela, mes amis! Non! Dieu est Dieu. Il
-est tout aussi grand aujourd’hui qu’Il l’a toujours été. Et Il sera toujours Le Même. Simplement,
-nous L’aimons.
-   Maintenant, nous voulons lire dans 1 Pierre, le cinquième chapitre, le huitième et le dixième
-versets, pour commencer.
-        “Soyez sobres, veillez. Votre adversaire, le diable, rôde comme un lion rugissant,
-      cherchant qui il dévorera. Résistez-lui avec une foi ferme, sachant que les mêmes
-      souffrances sont imposées à vos frères dans le monde.
-        Le Dieu de toutes grâces, qui vous a appelés en Jésus-Christ à sa gloire éternelle,
-      après que vous aurez souffert un peu de temps, vous perfectionnera Lui-même, vous
-      affermira, vous fortifiera, vous rendra inébranlables”.
+Comme je l’ai compris, elle avait eu une violente attaque de la vésicule biliaire, et son médecin, qui connaissait bien son cas, était parti quelque temps de la ville. Le nouveau médecin qui l’ausculta recommanda une opération urgente. Mais elle n’y survécut pas. Comme je l’ai compris, son médecin habituel n’aurait pas prescrit cette opération, parce que sa vésicule biliaire était en trop mauvais état, et qu’elle avait des pierres, je crois, ou quelque chose comme cela. Le Seigneur a été compatissant, car elle avait eu d’autres crises, auparavant, et Il avait pris soin d’elle chaque fois, mais il a fallu qu’il arrive cela… Mais, disons les choses comme elles sont: Dieu a appelé soeur Bell, et c’est de cette façon qu’Il a voulu la prendre. Vous voyez?
 
-        http://www.cmpp.ch
+Je ne sais pas comment il se fait que j’aie pensé qu’il s’agissait de mademoiselle Shepherd, car je ne connais pas mademoiselle Shepherd. Cette personne est peut-être ici ce matin, et peut-être que je la reconnaîtrais, si je voyais son visage. Mais on m’a dit que c’était mademoiselle Shepherd; si j’avais su que c’était soeur Bell qui se trouvait dans cette condition, je serais probablement allé directement là-bas intercéder pour elle. Mais, vous voyez, peut-être que Dieu n’a pas voulu que nous fassions cela. Ainsi, nous savons que toutes choses concourent ensemble au bien de ceux qui aiment Dieu. Je suis sûr que soeur Bell aimait notre Seigneur. Elle était une brave femme.
 
-LA PLUS GRANDE BATAILLE JAMAIS LIVREE                                                              5
+Elle était une d’entre nous, car pour nous il n’y a pas ici de différence à cause de la couleur. La famille de Dieu n’est pas séparée par la couleur. Que nous soyons rouge, brun, noir ou jaune, n’a aucune importance. Que nous soyons blanc ou autre, nous sommes frères et soeurs en Christ. Ainsi, nous l’aimions, et c’est une perte pour tous ceux de ce tabernacle. Combien vont me manquer les grands et vigoureux «Amen!» de soeur Bell, qui venaient du coin, là-bas au fond! Et lorsque je la ramenais à la maison, elle parlait du Seigneur Jésus.
+
+Si j’ai bien compris (je viens de l’apprendre il y a un instant), les funérailles auront lieu ici dans cette église mardi prochain à une heure. Et je pense que vous, frère Neville, et moi-même, devrons présider ce service funèbre? [Frère Branham parle à frère Neville — N.d.R.].
+
+Mais, dans cette assemblée, puisque, depuis ce matin, quelqu’un manque au milieu de nous, restons debout un moment, par respect pour notre soeur Bell, pendant que nous inclinons nos têtes.
+
+Dieu de la Vie, Toi qui donnes et qui reprends la vie, nous disons comme Job le dit autrefois: “Le Seigneur a donné, le Seigneur a repris; béni soit le Nom du Seigneur”. Il y a bien des années, Tu as envoyé soeur Bell parmi nous pour être une concitoyenne de ce grand Royaume de Dieu. Et nous Te remercions pour toute source d’inspiration qu’elle a été pour nous, car elle aimait à chanter, à témoigner, et elle a été tellement remplie de l’Esprit qu’elle en poussait des cris de joie. Elle n’a pas eu honte de l’Evangile de Jésus-Christ, car pour elle, Il était la puissance de Dieu conduisant au salut. Elle voyait grandir le nombre de ses années, et venir le jour où, comme chacun d’entre nous, elle aurait à répondre pour elle-même. Et ce matin, Tu l’as prise du milieu de nous pour être en Ta présence, car il est vrai que lorsque nous nous en allons d’ici, c’est pour être dans la présence de Dieu.
+
+O Dieu, nous Te remercions pour tout. Nous Te prions de bénir son mari, mon ami James, son fils, ses filles et tous ceux… Nous savons que son fils est en train de venir de l’Allemagne par avion, où il est dans l’armée, pour rendre sur cette terre le dernier hommage à sa mère qui a quitté ce monde. Combien le coeur de ce jeune homme doit être ému, ce matin. Je Te prie pour lui, Seigneur. O Dieu, bénis-le. Bénis Jimmy, car Tu le vois travailler et faire de longues heures fatigantes pour faire vivre sa famille. Et je te demande que cette grande famille ne soit pas séparée, mais que le cercle familial se retrouve entier au jour où ils seront de l’autre côté.
+
+Que nous puissions, Seigneur, resserrer les attaches de notre armure, et de notre ceinture, afin d’entrer dans la bataille et combattre avec plus d’ardeur que la semaine passée. Nous Te demandons de nous soutenir, de nous fortifier, et de nous aider, alors que nous continuons la course. Et que nous puissions un jour être tous rassemblés de l’autre côté. Nous Te le demandons au Nom de Jésus. Amen!
+
+Que l’âme de notre soeur décédée repose en paix.
+
+J’aimerais dire encore que le culte funéraire sera prêché ici mardi, et que chacun est le bienvenu, s’il veut y assister. Je pense que frère Neville a pris toutes les dispositions…
+
+Aujourd’hui… Vous voyez, il n’y a pas beaucoup de monde, et l’on pourrait apporter un siège pour frère et soeur Slaughter, là-bas au fond… J’ai reçu votre appel, soeur Slaughter, et je suis allé prier aussi pour l’autre soeur, soeur Jean Slaughter, qui a une violente fièvre, de la tularémie. Certainement que c’est un mauvais cas, mais nous avons confiance dans le Seigneur qu’elle sera guérie.
+
+Maintenant, nous allons lire quelques passages des Ecritures, car je veux enseigner, ce matin, et je prendrai mon temps, car je suis revenu de l’Arizona, et je suis un peu enroué. Et, dimanche prochain, n’oubliez pas… Je pense que Billy a déjà expédié les annonces… je crois que ce sera un long service, c’est pourquoi venez assez tôt, aussitôt que vous le pourrez. Nous commencerons à neuf heures trente ou dix heures, jusqu’à midi trente ou une heure. Quelque chose comme trois ou quatre heures de prédication, ou davantage.
+
+J’aime prendre les Ecritures et les exposer (vous devriez prendre avec vous un crayon et du papier). S’il y a une question, vous la poserez, et peut-être que nous pourrons y répondre. Nous ferons ce que nous pourrons pour vous aider.
+
+Maintenant, lisons quelques Ecritures pour commencer. Il y a trois endroits dans la Bible où j’aimerais lire. Je veux me référer à plusieurs textes de l’Ecriture ce matin, et le premier sera 1 Pierre 5.8-10, puis Ephésiens 6.10-17, et Daniel 12.1-14.
+
+Nous prendrons le temps de bien lire ces passages (à peu près tous sont assis. A part quelques-uns qui sont debout en arrière et sur le côté). Mais nous essaierons d’aller aussi vite que possible; puis, nous laisserons sortir ceux qui doivent s’en aller, et nous prierons pour les malades.
+
+Il y a ici une dame; elle est couchée ici depuis ce matin; elle est très malade. Je crois qu’elle était très malade hier, et je voulais qu’elle puisse entendre ce que je vais dire ce matin, avant de prier pour elle. Je connais l’état de cette petite dame: elle est vraiment très malade! Mais nous avons un glorieux Père céleste qui est plus que vainqueur de toutes les maladies.
+
+J’ai lu un petit article dans lequel un docteur en médecine, qui critiquait la guérison divine, a été vraiment surpris. Il ne permettait à personne, pas même à son infirmière, d’en parler dans son cabinet. Mais il arriva qu’il reçut une patiente qui avait un énorme cancer. Comme il ne voulait pas s’occuper de ce cas, il l’envoya à une autre clinique. La clinique ne voulut pas non plus s’en occuper, et ils la lui renvoyèrent.
+
+Oh, c’était un cancer du sein, et elle était dans un état désespéré. Toute la peau avait été rongée, et le cancer s’enfonçait dans les chairs jusqu’aux côtes. Je suppose que vous comprenez ce que cela signifie. (Nous avons notre ami, le petit docteur de Norvège, assis avec nous ce matin). Il avait préparé tout ce qui était nécessaire, car ils voulaient l’opérer, et lui enlever le sein. C’était un travail vraiment sanglant, et il avait mis toutes sortes de pansements, etc. L’infirmière prépara cette dame, et l’introduisit dans la salle d’opération, puis elle retourna chercher les instruments qu’allaient employer le chirurgien et son assistant pour enlever ce sein. Ainsi, ils avaient leurs instruments étalés là, et quand il voulut commencer…
+
+Son mari avait demandé de pouvoir s’asseoir au bout de la pièce pour prier. Il était un prédicateur de la sanctification; il était assis au pied du lit, et il priait. Naturellement que le docteur n’était pas très satisfait de cela, vous savez — qu’il reste là… Mais aussi longtemps qu’il ne regardait pas, et que cela ne lui faisait pas de mal, c’était en ordre… qu’il ne s’évanouisse pas!
+
+Ainsi, pendant qu’il était assis et priait, il se fit une agitation dans la pièce, et le docteur se tourna pour prendre ses instruments afin de commencer à enlever ce sein. Il enleva les bandages, les uns après les autres, et voici qu’il n’y avait pas même une cicatrice sur la poitrine — pas même une cicatrice! Il dit: «N’est-elle pas… est-elle partie?». Et il s’arrêta… L’infirmière donna son témoignage. Les deux s’en allèrent et devinrent Pentecôtistes, furent remplis du Saint-Esprit, et maintenant ils servent le Seigneur.
+
+Même pas une cicatrice! Le docteur Holbrook en rend témoignage lui-même: «Une minute auparavant, cette femme était étendue là, et il y avait sur sa poitrine l’excroissance de ce grand cancer. Une minute plus tard, il n’y avait même plus une cicatrice!». C’est l’un de nos meilleurs médecins, ici en Amérique. Il dit qu’il a été alors tout à fait convaincu. Et maintenant, il est diacre dans une église.
+
+Vous voyez! Les gens pensent que l’Eglise est un endroit où vous allez juste pour apprendre à être bon, ou pour quelque chose de semblable. Ce n’est pas cela, mes amis! Non! Dieu est Dieu. Il est tout aussi grand aujourd’hui qu’Il l’a toujours été. Et Il sera toujours Le Même. Simplement, nous L’aimons.
+
+Maintenant, nous voulons lire dans 1 Pierre, le cinquième chapitre, le huitième et le dixième versets, pour commencer.
+
+> “Soyez sobres, veillez. Votre adversaire, le diable, rôde comme un lion rugissant, cherchant qui il dévorera. Résistez-lui avec une foi ferme, sachant que les mêmes souffrances sont imposées à vos frères dans le monde. Le Dieu de toutes grâces, qui vous a appelés en Jésus-Christ à sa gloire éternelle, après que vous aurez souffert un peu de temps, vous perfectionnera Lui-même, vous affermira, vous fortifiera, vous rendra inébranlables”.
+
 Que Dieu soit loué!
-         Maintenant, dans l’épître aux Ephésiens… Nous voulons nous reporter au sixième chapitre des
-Ephésiens, et lire du dixième au dix-septième verset.
-     “Au reste, fortifiez-vous dans le Seigneur, et par sa force toute-puissante. Revêtez-
-             vous de toutes les armes de Dieu, afin de pouvoir tenir ferme contre les ruses du
-             diable. Car nous n’avons pas à lutter contre la chair et le sang, mais contre les
-           dominations, contre les autorités, contre les princes de ce monde de ténèbres, contre
-           les esprits méchants dans les lieux célestes. C’est pourquoi, prenez toutes les armes
-         de Dieu, afin de pouvoir résister dans les mauvais jours, et tenir ferme après avoir tout
-              surmonté. Tenez donc ferme: ayez à vos reins la vérité pour ceinture; revêtez la
-           cuirasse de la justice; mettez pour chaussure à vos pieds le zèle que donne l’Evangile
-            de paix; prenez par-dessus tout cela le bouclier de la foi, avec lequel vous pourrez
-          éteindre tous les traits enflammés du malin; prenez aussi le casque du salut, et l’épée
- de l’Esprit, qui est la Parole de Dieu”.
-Maintenant, dans le livre de Daniel, j’aimerais lire encore quelque chose. Daniel, le douzième
-     chapitre. Je veux commencer au premier verset, et lire une grande partie de ce chapitre. Jusqu’au
-quatorzième verset.
-          “En ce temps-là se lèvera Micaël, le grand chef, le défenseur des enfants de ton
-          peuple; et ce sera une époque de détresse, telle qu’il n’y en a point eue depuis que les
-            nations existent jusqu’à cette époque. En ce temps-là, ceux de ton peuple qui seront
-            trouvés inscrits dans le Livre seront sauvés. Plusieurs de ceux qui dorment dans la
-          poussière de la terre se réveilleront, les uns pour la vie éternelle, et les autres pour
-         l’opprobre, pour la honte éternelle. Ceux qui auront été intelligents brilleront comme la
-         splendeur du ciel, et ceux qui auront enseigné la justice à la multitude brilleront comme
- les étoiles, à toujours et à perpétuité.
-     Toi, Daniel, tiens secrètes ces paroles, et scelle le livre jusqu’au temps de la fin.
- Plusieurs alors le liront, et la connaissance augmentera.
-     Et moi, Daniel, je regardai, et voici, deux autres hommes se tenaient debout, l’un en
-           deçà du bord du fleuve, et l’autre au-delà du bord du fleuve. L’un d’eux dit à l’homme
-             vêtu de lin, qui se tenait au-dessus des eaux du fleuve: Quand sera la fin de ces
-              prodiges? Et j’entendis l’homme vêtu de lin, qui se tenait au-dessus des eaux du
-        fleuve; il leva vers les cieux sa main droite et sa main gauche et il jura par celui qui vit
-            éternellement que ce sera dans un temps, des temps, et la moitié d’un temps, et que
-            toutes ces choses viendront quand la force du peuple saint sera entièrement brisée”
- (Je crois que je vais m’arrêter là).
-Je veux prendre mon sujet de ce texte (si on peut l’appeler un sujet), et en tirer ce titre: La plus
-grande bataille jamais livrée. C’est cela, mon sujet pour aujourd’hui.
-                Maintenant, comment en suis-je arrivé à prendre ceci comme sujet pour ce matin? Nous
-      venons d’arriver, car quelques conseillers de l’église et moi-même nous étions en Arizona. Nous
-        sommes allés pour avoir une rencontre à Phoenix, dans le Tabernacle du frère Sharrit. Mais,
- quand j’ai découvert qu’un frère était dans la ville, et qu’il tenait une réunion sous tente, je préférai
-      ne pas faire de réunion en même temps que lui. J’ai pensé que je pourrais peut-être la faire le
-   dimanche après-midi, afin de ne pas déranger nos frères et leurs églises. Mais il se trouvait qu’il y
-   avait également un service le dimanche après-midi. Il m’était difficile, dans ces conditions, de tenir
-       une réunion. Aussi, avec les frères, nous nous sommes préparés pour aller au culte présidé par
-     frère Allen. Nous nous sommes donc rendus à la réunion du frère Allen, et il a prêché un puissant
-       sermon. Nous avons passé un bon moment à écouter frère Allen, et à entendre les chanteurs. Ce
-fut un beau culte.
-          Nous avons vu, tout au long du chemin, la main du Seigneur. N’importe où que nous allions,
-       nous pouvions voir que le Seigneur voulait nous rencontrer. Il y avait quelque chose qui nous
-    faisait sortir de nous-mêmes, et nous attirait dans le désert. C’est là, je suppose, une des raisons
-pour lesquelles j’aime ces lieux éloignés de tout. On s’en va loin du pouvoir de l’ennemi.
-      Un démon est presque inoffensif s’il n’a pas quelque chose par le moyen duquel il puisse agir.
-        Vous vous rappelez ces démons qui avaient été chassés de Légion. Ils voulaient faire encore
 
-                                             http://www.cmpp.ch
+Maintenant, dans l’épître aux Ephésiens… Nous voulons nous reporter au sixième chapitre des Ephésiens, et lire du dixième au dix-septième verset.
 
-LA PLUS GRANDE BATAILLE JAMAIS LIVREE 6
-d’autres méchancetés, et c’est pourquoi ils voulurent aller dans les porcs. Le diable a besoin de
-quelque chose pour y oeuvrer, quelqu’un par qui agir. Et c’est aussi la manière que Dieu emploie.
-Il faut qu’Il nous ait. Il dépend de nous, pour travailler au travers de nous.
-   Et plusieurs sont venus pendant notre tournée, et nous racontèrent les songes qu’ils avaient
-eus, et le Seigneur n’a jamais manqué de donner l’interprétation correcte.
-   Dans Sa bonté, Il nous conduisit là où il y avait du gibier, nous montrant où il se trouvait. C’était
-simplement merveilleux d’être là-bas, assis, le soir, autour du feu de camp, à des kilomètres et des
-kilomètres de la circulation, et de regarder le feu de camp qui projetait sa lumière vacillante sur les
-rochers des alentours, c’était extraordinaire.
-   Il y avait là un frère qui avait eu des difficultés avec sa femme. Des années auparavant, dans
-une réunion où je tenais un service de guérison, elle avait levé la tête, alors que j’avais demandé
-aux gens de tenir la tête baissée. Il y avait sur la plate-forme un mauvais esprit qui ne voulait pas
-quitter une femme, et cette dame dans la salle, avec un manque total de respect, leva tout de
-même la tête. Et l’esprit quitta la femme qui était sur la plate-forme pour entrer en elle. Il y a
-environ quatorze ans de cela, et cette dame est tombée dans un triste état, même au point de vue
-mental, jusqu’à faire des choses tout à fait fausses. Par exemple, elle laissa son propre mari, s’en
-alla, et alla se marier avec un autre homme, tandis qu’elle vivait encore avec son mari. Elle
-affirmait ne pas savoir qu’elle avait fait cela.
-   Ils essayèrent de l’examiner… Comment appelez-vous cela?… l’amnésie. Oh, je ne me rappelle
-jamais quel est ce nom. Je suppose que c’est juste, Docteur. Mais ce n’était pas cela. C’était un
-esprit. Cette dame était une de nos meilleures amies, mais depuis ce soir-là, elle me haït
-(naturellement que vous en voyez la raison!).
-   Mais quand son mari vint, et que nous nous mîmes à genoux dans la pièce, pour prier, alors le
-Saint-Esprit descendit; c’était cela. Puis, Il apparut à son mari cette nuit-là dans un rêve. Il revint
-nous raconter ce rêve, et il pensait que ce n’était qu’un rêve ordinaire. Mais nous découvrîmes que
-c’était la réponse au sujet de la guérison de sa femme. Combien le Saint-Esprit a agi
-merveilleusement! Et là-bas à Tucson, avec frère Norman et lui, le Seigneur commença de
-nouveau à faire de grandes et puissantes choses, et à donner des révélations. Un soir, je me
-trouvais avec frère Wood et frère Sothmann, c’était environ dix heures, et je regardais vers le ciel,
-quand une crainte respectueuse vint sur moi. Et je dis: «Toutes choses se trouvent dans une
-parfaite harmonie».
-   Et frère Wood dit: «Regardez ces deux petites étoiles, elles sont si proches l’une de l’autre
-qu’elles semblent briller d’un seul éclat».
-   Je dis: «Mais vous savez, frère Wood, que la science l’appelle l’Ourse (la petite et la grande
-Ourse)? Ces étoiles ne semblent pas être séparées de plus de deux pouces l’une de l’autre, et
-pourtant, elles sont plus éloignées l’une de l’autre que nous ne le sommes d’elles! Et si elles
-voulaient venir vers la terre, à la vitesse de milliers de kilomètres à l’heure, cela leur prendrait des
-centaines et des centaines d’années pour atteindre la terre». Et je dis: «Dans tous ces grands
-systèmes dont nous parlent ceux qui les observent par les télescopes, on peut voir à la distance
-de 120 millions d’années-lumière, et il y a encore et toujours des lunes et des étoiles. Cependant,
-Dieu a fait chacune d’entre elles, et Il les a toutes mises à leur place. Et Il est assis au milieu
-d’elles».
-   Et je dis: «Quelque part, là-dedans, on m’a montré une fois le zodiaque, dans un observatoire.
-Celui-ci commence avec la Vierge, passe au travers de l’âge du Cancer, et parvient jusqu’au
-dernier âge du Lion — Leo — le lion. La première venue de Christ était par la Vierge; Sa seconde
-venue sera par le Lion de la tribu de Juda». Je dis: «J’essaie de mon mieux de voir le zodiaque, et
-je ne peux le voir, mais cependant, il est là. Ceux qui ont l’habitude de ces choses-là savent qu’il
-est là. Job le vit. Les hommes avaient l’habitude de l’observer. Il était comme une Bible en ces
-temps-là. Mais Dieu Se tient au milieu de toute cette grande masse de millions et de milliards
-d’années-lumière, et Il regarde en bas. Paul se trouve là; ma mère est là quelque part, et regarde
-en bas».
-   Et je pensais à l’ordre de ces armées célestes. Chacune est à sa place. Chaque étoile de cette
-grande armée de Dieu garde parfaitement son temps. Je pensais à tous ces soldats, et comment,
-si la lune se détraquait, la terre serait de nouveau couverte d’eaux en quelques minutes. La terre
+> “Au reste, fortifiez-vous dans le Seigneur, et par sa force toute-puissante. Revêtez-vous de toutes les armes de Dieu, afin de pouvoir tenir ferme contre les ruses du diable. Car nous n’avons pas à lutter contre la chair et le sang, mais contre les dominations, contre les autorités, contre les princes de ce monde de ténèbres, contre les esprits méchants dans les lieux célestes. C’est pourquoi, prenez toutes les armes de Dieu, afin de pouvoir résister dans les mauvais jours, et tenir ferme après avoir tout surmonté. Tenez donc ferme: ayez à vos reins la vérité pour ceinture; revêtez la cuirasse de la justice; mettez pour chaussure à vos pieds le zèle que donne l’Evangile de paix; prenez par-dessus tout cela le bouclier de la foi, avec lequel vous pourrez éteindre tous les traits enflammés du malin; prenez aussi le casque du salut, et l’épée de l’Esprit, qui est la Parole de Dieu”.
 
-        http://www.cmpp.ch
+Maintenant, dans le livre de Daniel, j’aimerais lire encore quelque chose. Daniel, le douzième chapitre. Je veux commencer au premier verset, et lire une grande partie de ce chapitre. Jusqu’au quatorzième verset.
 
-LA PLUS GRANDE BATAILLE JAMAIS LIVREE 7
-serait juste comme elle était quand Dieu décida de l’employer pour nous y faire habiter. Elle était
-informe et vide, il y avait des ténèbres, et les eaux recouvraient toute la surface de la terre. Et si
-jamais la lune s’en allait, la même chose se reproduirait. Lorsque la lune s’écarte un peu de la
-terre, voilà que les marées montent. Si elle se rapproche, la marée suit simplement le mouvement.
-C’est la grande armée de Dieu.
-   Et, quand je pensais que tout cela, c’était la grande armée de Dieu… Puis, nous sommes allés
-au lit, et je recommençai à penser que pas une d’entre elles ne bougeait de sa place; toutes
-demeuraient à leur place. Et, s’il y a un mouvement quelque part au milieu d’elles, il y a une raison
-à cela, et cela affecte notre terre. Nous en voyons déjà le résultat, quelque soit celle qui se
-déplace vers un autre endroit. Cela produit son effet. Toutes choses en sont affectées.
-   Puis, je pensais que si cette grande armée céleste devait garder sa place comme cela pour
-accomplir toutes choses dans l’ordre, qu’en était-il du désordre de l’armée terrestre? Nous voyons
-que si l’un se détraque, cela désorganise tout le reste. Le programme entier de Dieu est
-bouleversé quand un seul membre sort de l’ordre. Nous devons continuellement tendre à garder
-l’ordre de l’Esprit.
-   Et ce matin, je voudrais que nous ayons, avec l’aide de Dieu, un véritable service de guérison;
-que nous puissions garder ce groupe rassemblé sous ce toit ce matin, dans une telle harmonie…
-veuille le Saint-Esprit placer chaque membre du Corps qui est ici ce matin, dans une harmonie
-telle qu’il y ait une guérison spontanée de l’âme et du corps. Si nous gardons simplement notre
-position.
-   Or, comme je le disais au commencement de cette réunion, cette dame qui avait le cancer, et
-que le docteur Hollbrook voulait opérer… Le Dieu qui a causé ce bruit dans la clinique en enlevant
-ce cancer — sans qu’il laisse même une cicatrice — ne savez-vous pas que c’est le même Dieu
-qui est ici? Et la seule chose qu’Il attend de Son armée, c’est qu’elle garde sa position, comme les
-étoiles gardent leur position.
-   Savez-vous que nous avons une guerre après l’autre, et des bruits de guerre; et si la terre
-subsiste, nous aurons encore plus de guerres. Vous rendez-vous compte qu’il n’y a en réalité que
-deux puissances dans tout l’univers? Dans tous les différends existant entre les nations, et entre
-toutes choses, il ne reste en fin de compte que deux puissances. Il y a seulement deux puissances
-et deux royaumes. Deux autorités et deux royaumes. Tout le reste, toutes les choses de moindre
-importance se rattachent à l’une ou l’autre de ces puissances. Et ces puissances sont la puissance
-de Dieu et la puissance de Satan. C’est pourquoi toute guerre, tout désordre, toutes choses qui
-surviennent sont dirigées soit par la puissance de Dieu, soit par la puissance de Satan, parce que
-ce sont les deux seules autorités qu’il y ait. Ce sont d’une part la puissance de la Vie et d’autre
-part la puissance de la mort. Ce sont là les deux seules puissances.
-   Et Satan ne peut que… La puissance qu’il a est la puissance de Dieu pervertie. Ce n’est pas
-une puissance réelle; tout ce que Satan a, est une perversion de la puissance de Dieu. La mort est
-seulement une vie pervertie; le mensonge est une vérité faussement racontée. Vous voyez?
-L’adultère est le mauvais emploi d’un acte; un acte juste mal employé. Vous voyez? Tout ce qu’a
-Satan est quelque chose qui a été perverti, mais c’est une puissance.
-   Et nous qui sommes assis ici, aujourd’hui, c’est l’une ou l’autre de ces puissances qui nous
-domine. C’est pourquoi, chassons le méchant. Prenons notre position, comme le font les étoiles
-dans le ciel.
-   La Bible parle des “astres errants (dans le livre de Jude) rejetant l’écume de leur propre honte”.
-Nous ne voulons pas être des astres errants, se demandant si ceci est juste, ou si cela est juste;
-se demandant si ceci arrivera, ou comment cela peut être. Ne vous demandez pas! Demeurez
-pareils à ces étoiles dans le ciel qui gardent leur position comme de véritables soldats. Restez à
-votre poste, et ayez la foi. La Vie et la mort…
-   Une armée… quand une nation se prépare pour faire la guerre à une autre nation, elle doit
-d’abord s’asseoir pour évaluer ce qui est juste et ce qui est faux, et pour savoir si elle a une force
-suffisante pour s’attaquer à l’autre nation, ou pas. Jésus a enseigné cela. Si l’on faisait cela, si les
-nations s’arrêtaient et s’asseyaient pour réfléchir à ces choses, chacune de son côté, il n’y aurait
-plus de guerre.
+> “En ce temps-là se lèvera Micaël, le grand chef, le défenseur des enfants de ton peuple; et ce sera une époque de détresse, telle qu’il n’y en a point eue depuis que les nations existent jusqu’à cette époque. En ce temps-là, ceux de ton peuple qui seront trouvés inscrits dans le Livre seront sauvés. Plusieurs de ceux qui dorment dans la poussière de la terre se réveilleront, les uns pour la vie éternelle, et les autres pour l’opprobre, pour la honte éternelle. Ceux qui auront été intelligents brilleront comme la splendeur du ciel, et ceux qui auront enseigné la justice à la multitude brilleront comme les étoiles, à toujours et à perpétuité. Toi, Daniel, tiens secrètes ces paroles, et scelle le livre jusqu’au temps de la fin. Plusieurs alors le liront, et la connaissance augmentera. Et moi, Daniel, je regardai, et voici, deux autres hommes se tenaient debout, l’un en deçà du bord du fleuve, et l’autre au-delà du bord du fleuve. L’un d’eux dit à l’homme vêtu de lin, qui se tenait au-dessus des eaux du fleuve: Quand sera la fin de ces prodiges? Et j’entendis l’homme vêtu de lin, qui se tenait au-dessus des eaux du fleuve; il leva vers les cieux sa main droite et sa main gauche et il jura par celui qui vit éternellement que ce sera dans un temps, des temps, et la moitié d’un temps, et que toutes ces choses viendront quand la force du peuple saint sera entièrement brisée” (Je crois que je vais m’arrêter là).
 
-        http://www.cmpp.ch
+Je veux prendre mon sujet de ce texte (si on peut l’appeler un sujet), et en tirer ce titre: La plus grande bataille jamais livrée. C’est cela, mon sujet pour aujourd’hui.
 
-LA PLUS GRANDE BATAILLE JAMAIS LIVREE 8
-   Nous constatons que si un homme ne fait pas cela, si l’état-major de la nation ne s’assied pas
-premièrement pour examiner s’ils ont raison, si leurs motifs et leurs objectifs sont justes, et s’ils ont
-suffisamment de force pour vaincre l’autre armée, alors ils peuvent être sûrs de perdre la guerre!
-   C’est là où le général Custer commit sa méprise fatale. Comme je l’ai compris, le général
-Custer avait reçu l’ordre du gouvernement de ne pas entrer dans le territoire des Sioux, parce que
-c’était une période de fête religieuse, pour eux. C’était un temps d’adoration, et ils allaient avoir
-une fête. Mais Custer avait bu, et il voulait le faire de toute façon. Qu’il y ait des ordres ou pas, il
-voulait traverser le territoire. Et alors, il tira sur quelques hommes innocents. Du moins, il tira
-contre eux, et je pense qu’il en atteignit quelques-uns. Il s’agissait d’éclaireurs qui étaient partis à
-la chasse pour nourrir le peuple, pendant que les gens étaient en adoration. Et Custer, en
-traversant le territoire, les vit, et il pensa qu’ils venaient contre lui, et c’est ainsi qu’ils tirèrent contre
-ces éclaireurs. Ceux-ci prirent la fuite, et s’en retournèrent. Que firent-ils? Ils s’armèrent, revinrent,
-et ce fut la fin du général Custer. Tout cela parce qu’il ne s’était pas assis, premièrement, pour
-réfléchir.
-   Il n’avait rien à faire là! Il n’avait pas le droit d’être là! De toute façon, ils auraient à repousser
-les Indiens de la côte Est vers l’Ouest. Ils avaient fait un traité, mais il viola ce traité. Et quand il
-rompit cet accord, il perdit la bataille.
-   Ainsi, une armée, avant qu’elle ne soit prête pour aller au combat, doit avoir des soldats d’élite.
-Ils doivent être habillés pour la bataille. Ils doivent être entraînés au combat. Et je crois que la plus
-grande bataille jamais livrée est prête à être engagée. Je crois que Dieu est en train de choisir Ses
-soldats; je crois qu’Il les aligne, les entraîne; maintenant, le front de bataille est établi, et le combat
-est prêt à commencer.
-   Cette plus grande bataille qui ait jamais été livrée, a commencé dans les cieux quand Michel et
-ses anges combattirent contre Lucifer et ses anges. Le premier combat eut lieu dans les cieux, ce
-qui fait que le péché n’a pas commencé sur la terre, mais dans le ciel. Puis, il a été rejeté du ciel,
-chassé du ciel sur la terre, et est tombé sur les hommes. Alors, le combat entre les anges est
-devenu un combat humain. Et Satan est venu pour détruire la création de Dieu. Ce que Dieu avait
-créé pour Lui-même, Satan est venu pour le détruire. C’était là son intention: détruire. Alors, le
-combat a commencé ici sur la terre, il a commencé en nous, et, depuis lors, il n’a cessé de faire
-rage.
-   Avant qu’une bataille puisse avoir lieu, il faut premièrement que soit choisi un lieu de rencontre,
-un endroit où le combat puisse se dérouler, un endroit choisi. Lors de la première guerre mondiale,
-ce lieu était un no-man’s land, c’était l’endroit où ils combattaient, l’endroit qui avait été choisi.
-   C’est comme quand Israël s’en alla faire la guerre aux Philistins; il y avait une colline de chaque
-côté de l’endroit où ils s’étaient rassemblés. Et c’est de là que sortit Goliath pour crier contre les
-armées d’Israël. C’est dans la vallée que David le rencontra, après avoir passé le petit ruisseau qui
-coulait entre les deux collines, où il prit les cailloux. Cela devait être un endroit choisi.
-   C’est là qu’il y a un terrain commun, un no-man’s land, et ils combattent en ce lieu. Il n’y en a
-pas quelques-uns qui se battent là, en haut, quelques-uns là en bas, et d’autres encore juste ici. Il
-y a un front de bataille où ils se rencontrent et éprouvent leurs forces, où chaque armée éprouve
-sa puissance contre l’autre armée. Ils s’affrontent tous au même endroit.
-   Maintenant, ne manquez pas ceci! Quand cette grande bataille a commencé sur terre, il devait
-y avoir un champ de bataille. Il fallait qu’un endroit ait été choisi, où le combat puisse s’engager et
-faire rage. Ce champ de bataille se trouve dans la pensée humaine. C’est là que le combat a
-commencé. La pensée humaine a été choisie comme champ de bataille.
-   Le combat n’a pas commencé dans quelque organisation; il n’a pas commencé pour des
-raisons matérielles, ce ne sont pas les choses d’en bas qui l’ont commencé. Par conséquent, une
-organisation ne peut jamais, jamais faire l’oeuvre de Dieu, parce que le champ de bataille où nous
-avons à rencontrer notre ennemi se trouve dans notre pensée. Vous avez à faire un choix; il est là.
-   Je voudrais que la jeune fille qui est là-bas, et qui est très malade, écoute très attentivement
-ceci.
-   Les décisions sont prises dans la pensée, dans la tête. C’est là que Satan vient à notre
-rencontre. Et les décisions existent parce que c’est ainsi que Dieu a fait l’homme. Si vous
+Maintenant, comment en suis-je arrivé à prendre ceci comme sujet pour ce matin? Nous venons d’arriver, car quelques conseillers de l’église et moi-même nous étions en Arizona. Nous sommes allés pour avoir une rencontre à Phoenix, dans le Tabernacle du frère Sharrit. Mais, quand j’ai découvert qu’un frère était dans la ville, et qu’il tenait une réunion sous tente, je préférai ne pas faire de réunion en même temps que lui. J’ai pensé que je pourrais peut-être la faire le dimanche après-midi, afin de ne pas déranger nos frères et leurs églises. Mais il se trouvait qu’il y avait également un service le dimanche après-midi. Il m’était difficile, dans ces conditions, de tenir une réunion. Aussi, avec les frères, nous nous sommes préparés pour aller au culte présidé par frère Allen. Nous nous sommes donc rendus à la réunion du frère Allen, et il a prêché un puissant sermon. Nous avons passé un bon moment à écouter frère Allen, et à entendre les chanteurs. Ce fut un beau culte.
 
-        http://www.cmpp.ch
+Nous avons vu, tout au long du chemin, la main du Seigneur. N’importe où que nous allions, nous pouvions voir que le Seigneur voulait nous rencontrer. Il y avait quelque chose qui nous faisait sortir de nous-mêmes, et nous attirait dans le désert. C’est là, je suppose, une des raisons pour lesquelles j’aime ces lieux éloignés de tout. On s’en va loin du pouvoir de l’ennemi.
 
-LA PLUS GRANDE BATAILLE JAMAIS LIVREE 9
-regardiez sur la feuille de papier que j’ai ici, vous verriez un petit croquis que j’ai fait. Il n’y a pas
-longtemps que je l’ai dessiné, et je l’ai reporté au tableau noir.
-   L’être humain est constitué comme un grain de blé. C’est une semence, et l’être humain est une
-semence. Physiquement, vous êtes la semence de votre père et de votre mère, et la vie vient du
-père, et la chair vient de la mère. Ainsi, les deux ensemble, l’oeuf et le sang, s’assemblent, et dans
-la cellule du sang se trouve la vie. C’est là que commence le développement qui va faire l’enfant.
-   La semence est formée d’une enveloppe à l’extérieur, de la chair à l’intérieur, et à l’intérieur de
-la chair se trouve le germe de vie. C’est de cette façon que nous sommes formés. Nous sommes
-corps, âme et esprit. L’extérieur, le corps, est l’enveloppe, l’intérieur (la conscience, etc.) est l’âme,
-puis à l’intérieur de l’âme se trouve l’esprit. Et l’esprit gouverne tous les autres.
-   Quand vous irez à la maison, asseyez-vous; vous dessinez trois cercles, et remarquez que le
-corps extérieur a cinq sens par lesquels on peut prendre contact avec lui; ce sont: la vue, le goût,
-le toucher, l’odorat et l’ouïe. Ce sont là les cinq sens qui dirigent le corps humain. A l’intérieur du
-corps, il y a une âme, et l’âme est dirigée par l’imagination, la conscience, la mémoire, la raison et
-les sentiments. Ce sont là les choses qui dirigent l’âme. Mais l’esprit, lui, n’a qu’un sens… l’esprit.
-Comprenez bien cela! L’esprit a un seul sens, et ce sens qui le domine est soit la foi, soit le
-doute! C’est vrai! Et il n’y a qu’un chemin pour venir à lui, c’est celui du libre arbitre. Vous pouvez
-accepter le doute ou accepter la foi; celui des deux que vous désirez voir agir en vous.
-   C’est la raison pour laquelle le rôle principal de Satan est de conduire l’esprit de l’homme à
-douter de la Parole de Dieu. Au commencement, le rôle principal de Dieu avait été de déposer Sa
-Parole dans l’esprit de l’homme. C’est cela qui se passe.
-   Si maintenant, cette église pouvait être assemblée et unie de telle façon que tous ici soient d’un
-même accord, sans qu’il y ait où que ce soit l’ombre d’un doute, il n’y aurait en l’espace de cinq
-minutes plus une seule personne faible au milieu de nous; il n’y aurait plus personne, désirant le
-Saint-Esprit, qui ne L’ait reçu. Si vous pouviez simplement être fondés sur cette chose-là!
-   C’est là où commence le combat, juste dans votre pensée. Maintenant, rappelez-vous que ceci
-n’est pas de la Science Chrétienne, la pensée dominant la matière, etc… La pensée accepte la
-Vie, qui est la Parole de Dieu, et Celle-ci apporte la Vie. Vos pensées toutes seules ne peuvent
-pas le faire, mais la Parole de Dieu amenée par le canal de vos pensées le fait. Voyez? Ce n’est
-pas la pensée, comme le fait la Science Chrétienne, disant que la pensée domine la matière. Non!
-Ce n’est pas cela. Mais votre pensée accepte la Parole, et La saisit. Par qui votre pensée est-elle
-gouvernée? — par votre esprit. Et votre esprit saisit la Parole de Dieu; c’est cette Parole qui a la
-Vie en Elle, et Elle vous apporte la Vie.
-   O frères, quand cela arrive, quand la Vie descend par ce canal en vous, alors, la Parole de Dieu
-est manifestée en vous. “Si vous demeurez en Moi, et que Mes paroles demeurent en vous, alors
-demandez ce que vous voulez, et cela vous sera accordé”.
-   Alors, que se passera-t-il? Du milieu du coeur, où se trouve l’âme, de là sortira ce qui nourrit
-tous les différents canaux. Le malheur vient de ce que l’on se tient ici avec toutes sortes de
-doutes, essayant d’accepter les choses de Là-haut. Vous devez arrêter de faire cela, et laisser
-passer la vraie Parole de Dieu au travers de chaque canal. Alors, cela sortira de soi-même,
-automatiquement. Ce qui compte, c’est ce qu’il y a à l’intérieur; Satan vous attaque par l’intérieur.
-   Vous direz: «Je ne vole pas; je ne bois pas; je ne fais pas ceci ou cela». Cela n’a aucun
-rapport; ce qui compte, c’est l’intérieur! Peu importe combien vous êtes bon, combien vous êtes
-moral, combien vous êtes fidèle; ces choses sont respectables, mais Jésus dit: “Si un homme ne
-naît de nouveau…”. Vous voyez? Il faut que quelque chose se passe à l’intérieur. Sinon, ce n’est
-qu’un faux-semblant car au fond de votre coeur, il y a encore le désir de faire le mal.
-   Il ne faut pas que ce soit artificiel, cela doit être réel. Et il y a un seul chemin pour que cela
-vienne en vous: c’est par le chemin du libre arbitre, venant dans votre âme par vos pensées. «Un
-homme est tel que sont les pensées de son coeur. Si vous dites à cette montagne: Déplace-toi!, et
-ne doutiez pas dans votre coeur, mais croyez que ce que vous avez dit arrivera, vous pouvez avoir
-ce que vous dites». Vous l’obtenez. Comprenez-vous cela? Vous voyez? C’est là que se trouve le
-champ de bataille!
+Un démon est presque inoffensif s’il n’a pas quelque chose par le moyen duquel il puisse agir. Vous vous rappelez ces démons qui avaient été chassés de Légion. Ils voulaient faire encore d’autres méchancetés, et c’est pourquoi ils voulurent aller dans les porcs. Le diable a besoin de quelque chose pour y oeuvrer, quelqu’un par qui agir. Et c’est aussi la manière que Dieu emploie. Il faut qu’Il nous ait. Il dépend de nous, pour travailler au travers de nous.
 
-        http://www.cmpp.ch
+Et plusieurs sont venus pendant notre tournée, et nous racontèrent les songes qu’ils avaient eus, et le Seigneur n’a jamais manqué de donner l’interprétation correcte.
 
-LA PLUS GRANDE BATAILLE JAMAIS LIVREE 10
-   Si seulement vous commenciez premièrement par cela! Nous désirons tellement voir quelque
-chose se faire! Nous tenons tellement à faire quelque chose pour Dieu! Cette dame voudrait
-tellement vivre; elle voudrait se bien porter. D’autres sont ici qui désirent la santé. Et quand nous
-entendons parler de ce cas, arrivé chez ce médecin, de la résurrection de ce mort, et des choses
-glorieuses et puissantes que notre Dieu a faites, alors, il y a en nous un grand désir. Et les choses
-sont telles que nous cherchons à atteindre par le moyen de ces sens (tels que la conscience) de
-saisir fermement quelque chose.
-   Très souvent, beaucoup de personnes ont mal interprété la Parole, et j’ai moi-même été
-souvent mal compris en ce que je disais au sujet de l’appel à l’autel. J’ai dit que je n’étais pas très
-favorable à l’appel pour venir à l’autel; non parce que je pense qu’il ne faudrait pas faire d’appel à
-l’autel. Mais une personne prend une autre personne par le bras, et lui dit: «Oh, frère John, savez-
-vous quoi? Vous et moi sommes voisins depuis si longtemps, venez donc à l’autel avec moi!
-Allons-y donc!».
-   Qu’est-il en train de faire? J’aimerais avoir un tableau noir ici pour que je puisse vous montrer
-ce qu’il est en train de faire. Il essaie d’agir par le moyen de son âme, de ses sentiments. Mais
-cela ne peut agir. Ce n’est pas le chemin. Certainement qu’il ne l’est pas. Peut-être est-il en train
-d’agir par la mémoire, l’un des sens de son âme: «Oh, frère John, vous aviez une mère
-merveilleuse; elle est morte il y a déjà bien longtemps!». La mémoire. Vous voyez? Vous ne
-pouvez pas faire cela. Cela doit venir par la voie du libre arbitre. Vous-même, laissez à la Parole
-de Dieu… Vous n’êtes pas venu parce que votre mère était une brave femme, vous n’êtes pas
-venu parce que vous étiez un bon voisin; vous êtes venu parce que Dieu vous a appelé à venir, et
-que vous L’avez accepté sur la base de Sa Parole. C’est cette Parole qui signifie tout.
-   Cette Parole, si vous pouvez tout enlever du chemin — la conscience… tous les sens — et
-juste laisser entrer la Parole, cette Parole produira parfaitement ce qu’Elle doit produire.
-   Voyez ici avec quoi cela est recouvert. Vous dites: «Eh bien, cette conscience, ces sentiments,
-etc., n’ont rien à faire avec cela, frère Branham!». Certainement! Si vous laissez entrer la Parole,
-et la recouvrez de la conscience, alors, elle ne peut croître. Elle deviendra une Parole déformée.
-N’avez-vous jamais vu un bon grain de blé jeté en terre, sur lequel on a laissé tomber un bâton? Il
-se déforme lors de sa croissance. C’est ainsi que grandira quelqu’un, ou quelque-chose, auquel
-une entrave a été mise.
-   Voilà. C’est ce qu’il y a avec notre foi pentecôtiste d’aujourd’hui. Nous avons laissé trop de
-choses entraver la foi qui nous a été enseignée, le Saint-Esprit vivant en nous. Nous avons laissé
-trop de choses… regardant aux autres; le diable essaie toujours de vous faire remarquer les
-manquements des autres, et il fait de son mieux pour vous garder loin du témoignage réel, de ce
-qui est authentique. Il vous montre parfois un hypocrite, lequel essaie d’imiter quelque chose. Il le
-fait parce qu’il est un imitateur. Mais si cela vient de la véritable source de la Parole de Dieu: “Le
-ciel et la terre passeront, mais ma Parole ne passera point”. Elle subsistera! Comprenez-vous cela,
-soeur?
-   Cela doit d’abord être accepté dans la pensée; puis, cela est cru par le coeur. Alors, la Parole
-de Dieu devient une réalité, puis tous les sens de l’âme et du corps sont nettoyés par le Saint-
-Esprit. Alors, vous avez le sens de Dieu, la conscience de Dieu; alors, tout ce qui est divin s’écoule
-au travers de vous. Il n’y a pas un seul doute quelque part. Rien ne peut s’élever, rien qui puisse
-venir à la mémoire et dire: «Eh bien, je me rappelle que Miss Jones a essayé de se confier en
-Dieu. Miss Telle et Telle, Miss Doe a essayé une fois de se confier en Dieu pour la guérison, et
-cela n’a pas réussi». Vous voyez? Mais si le canal a été nettoyé, qu’il a été purgé et rempli de
-l’intérieur par le Saint-Esprit, cela ne doit même pas revenir à la mémoire. Peu importe ce qui
-concerne Miss Jones, et ce qu’elle fit. C’est une affaire entre Dieu et vous, et personne d’autre que
-vous deux. Voilà! C’est là votre combat.
-   Tuez-le immédiatement! Arrêtez-le complètement sur son chemin. Il ne s’agit pas de savoir
-combien de temps vous pouvez faire durer la guerre, il faut la terminer à l’instant. Si vous venez, et
-gardez le souvenir, la conscience, et toutes ces pensées comme: «Bien, mais je risque d’échouer.
-Peut-être que ce n’est pas juste…». Ne faites pas cela du tout! Mettez tout de côté, et ouvrez le
-canal en disant: «O Dieu, Ta Parole est éternellement vraie, et Elle est pour moi. Si l’église entière
-échoue, si le monde entier manque le but, malgré tout, cela ne peut manquer le but, parce que
-c’est Ta Parole-ci que je prends!».
+Dans Sa bonté, Il nous conduisit là où il y avait du gibier, nous montrant où il se trouvait. C’était simplement merveilleux d’être là-bas, assis, le soir, autour du feu de camp, à des kilomètres et des kilomètres de la circulation, et de regarder le feu de camp qui projetait sa lumière vacillante sur les rochers des alentours, c’était extraordinaire.
 
-        http://www.cmpp.ch
+Il y avait là un frère qui avait eu des difficultés avec sa femme. Des années auparavant, dans une réunion où je tenais un service de guérison, elle avait levé la tête, alors que j’avais demandé aux gens de tenir la tête baissée. Il y avait sur la plate-forme un mauvais esprit qui ne voulait pas quitter une femme, et cette dame dans la salle, avec un manque total de respect, leva tout de même la tête. Et l’esprit quitta la femme qui était sur la plate-forme pour entrer en elle. Il y a environ quatorze ans de cela, et cette dame est tombée dans un triste état, même au point de vue mental, jusqu’à faire des choses tout à fait fausses. Par exemple, elle laissa son propre mari, s’en alla, et alla se marier avec un autre homme, tandis qu’elle vivait encore avec son mari. Elle affirmait ne pas savoir qu’elle avait fait cela.
+
+Ils essayèrent de l’examiner… Comment appelez-vous cela?… l’amnésie. Oh, je ne me rappelle jamais quel est ce nom. Je suppose que c’est juste, Docteur. Mais ce n’était pas cela. C’était un esprit. Cette dame était une de nos meilleures amies, mais depuis ce soir-là, elle me haït (naturellement que vous en voyez la raison!).
+
+Mais quand son mari vint, et que nous nous mîmes à genoux dans la pièce, pour prier, alors le Saint-Esprit descendit; c’était cela. Puis, Il apparut à son mari cette nuit-là dans un rêve. Il revint nous raconter ce rêve, et il pensait que ce n’était qu’un rêve ordinaire. Mais nous découvrîmes que c’était la réponse au sujet de la guérison de sa femme. Combien le Saint-Esprit a agi merveilleusement! Et là-bas à Tucson, avec frère Norman et lui, le Seigneur commença de nouveau à faire de grandes et puissantes choses, et à donner des révélations. Un soir, je me trouvais avec frère Wood et frère Sothmann, c’était environ dix heures, et je regardais vers le ciel, quand une crainte respectueuse vint sur moi. Et je dis: «Toutes choses se trouvent dans une parfaite harmonie».
+
+Et frère Wood dit: «Regardez ces deux petites étoiles, elles sont si proches l’une de l’autre qu’elles semblent briller d’un seul éclat».
+
+Je dis: «Mais vous savez, frère Wood, que la science l’appelle l’Ourse (la petite et la grande Ourse)? Ces étoiles ne semblent pas être séparées de plus de deux pouces l’une de l’autre, et pourtant, elles sont plus éloignées l’une de l’autre que nous ne le sommes d’elles! Et si elles voulaient venir vers la terre, à la vitesse de milliers de kilomètres à l’heure, cela leur prendrait des centaines et des centaines d’années pour atteindre la terre». Et je dis: «Dans tous ces grands systèmes dont nous parlent ceux qui les observent par les télescopes, on peut voir à la distance de 120 millions d’années-lumière, et il y a encore et toujours des lunes et des étoiles. Cependant, Dieu a fait chacune d’entre elles, et Il les a toutes mises à leur place. Et Il est assis au milieu d’elles».
+
+Et je dis: «Quelque part, là-dedans, on m’a montré une fois le zodiaque, dans un observatoire. Celui-ci commence avec la Vierge, passe au travers de l’âge du Cancer, et parvient jusqu’au dernier âge du Lion — Leo — le lion. La première venue de Christ était par la Vierge; Sa seconde venue sera par le Lion de la tribu de Juda». Je dis: «J’essaie de mon mieux de voir le zodiaque, et je ne peux le voir, mais cependant, il est là. Ceux qui ont l’habitude de ces choses-là savent qu’il est là. Job le vit. Les hommes avaient l’habitude de l’observer. Il était comme une Bible en ces temps-là. Mais Dieu Se tient au milieu de toute cette grande masse de millions et de milliards d’années-lumière, et Il regarde en bas. Paul se trouve là; ma mère est là quelque part, et regarde en bas».
+
+Et je pensais à l’ordre de ces armées célestes. Chacune est à sa place. Chaque étoile de cette grande armée de Dieu garde parfaitement son temps. Je pensais à tous ces soldats, et comment, si la lune se détraquait, la terre serait de nouveau couverte d’eaux en quelques minutes. La terre serait juste comme elle était quand Dieu décida de l’employer pour nous y faire habiter. Elle était informe et vide, il y avait des ténèbres, et les eaux recouvraient toute la surface de la terre. Et si jamais la lune s’en allait, la même chose se reproduirait. Lorsque la lune s’écarte un peu de la terre, voilà que les marées montent. Si elle se rapproche, la marée suit simplement le mouvement. C’est la grande armée de Dieu.
+
+Et, quand je pensais que tout cela, c’était la grande armée de Dieu… Puis, nous sommes allés au lit, et je recommençai à penser que pas une d’entre elles ne bougeait de sa place; toutes demeuraient à leur place. Et, s’il y a un mouvement quelque part au milieu d’elles, il y a une raison à cela, et cela affecte notre terre. Nous en voyons déjà le résultat, quelque soit celle qui se déplace vers un autre endroit. Cela produit son effet. Toutes choses en sont affectées.
+
+Puis, je pensais que si cette grande armée céleste devait garder sa place comme cela pour accomplir toutes choses dans l’ordre, qu’en était-il du désordre de l’armée terrestre? Nous voyons que si l’un se détraque, cela désorganise tout le reste. Le programme entier de Dieu est bouleversé quand un seul membre sort de l’ordre. Nous devons continuellement tendre à garder l’ordre de l’Esprit.
+
+Et ce matin, je voudrais que nous ayons, avec l’aide de Dieu, un véritable service de guérison; que nous puissions garder ce groupe rassemblé sous ce toit ce matin, dans une telle harmonie… veuille le Saint-Esprit placer chaque membre du Corps qui est ici ce matin, dans une harmonie telle qu’il y ait une guérison spontanée de l’âme et du corps. Si nous gardons simplement notre position.
+
+Or, comme je le disais au commencement de cette réunion, cette dame qui avait le cancer, et que le docteur Hollbrook voulait opérer… Le Dieu qui a causé ce bruit dans la clinique en enlevant ce cancer — sans qu’il laisse même une cicatrice — ne savez-vous pas que c’est le même Dieu qui est ici? Et la seule chose qu’Il attend de Son armée, c’est qu’elle garde sa position, comme les étoiles gardent leur position.
+
+Savez-vous que nous avons une guerre après l’autre, et des bruits de guerre; et si la terre subsiste, nous aurons encore plus de guerres. Vous rendez-vous compte qu’il n’y a en réalité que deux puissances dans tout l’univers? Dans tous les différends existant entre les nations, et entre toutes choses, il ne reste en fin de compte que deux puissances. Il y a seulement deux puissances et deux royaumes. Deux autorités et deux royaumes. Tout le reste, toutes les choses de moindre importance se rattachent à l’une ou l’autre de ces puissances. Et ces puissances sont la puissance de Dieu et la puissance de Satan. C’est pourquoi toute guerre, tout désordre, toutes choses qui surviennent sont dirigées soit par la puissance de Dieu, soit par la puissance de Satan, parce que ce sont les deux seules autorités qu’il y ait. Ce sont d’une part la puissance de la Vie et d’autre part la puissance de la mort. Ce sont là les deux seules puissances.
+
+Et Satan ne peut que… La puissance qu’il a est la puissance de Dieu pervertie. Ce n’est pas une puissance réelle; tout ce que Satan a, est une perversion de la puissance de Dieu. La mort est seulement une vie pervertie; le mensonge est une vérité faussement racontée. Vous voyez? L’adultère est le mauvais emploi d’un acte; un acte juste mal employé. Vous voyez? Tout ce qu’a Satan est quelque chose qui a été perverti, mais c’est une puissance.
+
+Et nous qui sommes assis ici, aujourd’hui, c’est l’une ou l’autre de ces puissances qui nous domine. C’est pourquoi, chassons le méchant. Prenons notre position, comme le font les étoiles dans le ciel.
+
+La Bible parle des “astres errants (dans le livre de Jude) rejetant l’écume de leur propre honte”. Nous ne voulons pas être des astres errants, se demandant si ceci est juste, ou si cela est juste; se demandant si ceci arrivera, ou comment cela peut être. Ne vous demandez pas! Demeurez pareils à ces étoiles dans le ciel qui gardent leur position comme de véritables soldats. Restez à votre poste, et ayez la foi. La Vie et la mort…
+
+Une armée… quand une nation se prépare pour faire la guerre à une autre nation, elle doit d’abord s’asseoir pour évaluer ce qui est juste et ce qui est faux, et pour savoir si elle a une force suffisante pour s’attaquer à l’autre nation, ou pas. Jésus a enseigné cela. Si l’on faisait cela, si les nations s’arrêtaient et s’asseyaient pour réfléchir à ces choses, chacune de son côté, il n’y aurait plus de guerre.
+
+Nous constatons que si un homme ne fait pas cela, si l’état-major de la nation ne s’assied pas premièrement pour examiner s’ils ont raison, si leurs motifs et leurs objectifs sont justes, et s’ils ont suffisamment de force pour vaincre l’autre armée, alors ils peuvent être sûrs de perdre la guerre!
+
+C’est là où le général Custer commit sa méprise fatale. Comme je l’ai compris, le général Custer avait reçu l’ordre du gouvernement de ne pas entrer dans le territoire des Sioux, parce que c’était une période de fête religieuse, pour eux. C’était un temps d’adoration, et ils allaient avoir une fête. Mais Custer avait bu, et il voulait le faire de toute façon. Qu’il y ait des ordres ou pas, il voulait traverser le territoire. Et alors, il tira sur quelques hommes innocents. Du moins, il tira contre eux, et je pense qu’il en atteignit quelques-uns. Il s’agissait d’éclaireurs qui étaient partis à la chasse pour nourrir le peuple, pendant que les gens étaient en adoration. Et Custer, en traversant le territoire, les vit, et il pensa qu’ils venaient contre lui, et c’est ainsi qu’ils tirèrent contre ces éclaireurs. Ceux-ci prirent la fuite, et s’en retournèrent. Que firent-ils? Ils s’armèrent, revinrent, et ce fut la fin du général Custer. Tout cela parce qu’il ne s’était pas assis, premièrement, pour réfléchir.
+
+Il n’avait rien à faire là! Il n’avait pas le droit d’être là! De toute façon, ils auraient à repousser les Indiens de la côte Est vers l’Ouest. Ils avaient fait un traité, mais il viola ce traité. Et quand il rompit cet accord, il perdit la bataille.
+
+Ainsi, une armée, avant qu’elle ne soit prête pour aller au combat, doit avoir des soldats d’élite. Ils doivent être habillés pour la bataille. Ils doivent être entraînés au combat. Et je crois que la plus grande bataille jamais livrée est prête à être engagée. Je crois que Dieu est en train de choisir Ses soldats; je crois qu’Il les aligne, les entraîne; maintenant, le front de bataille est établi, et le combat est prêt à commencer.
+
+Cette plus grande bataille qui ait jamais été livrée, a commencé dans les cieux quand Michel et ses anges combattirent contre Lucifer et ses anges. Le premier combat eut lieu dans les cieux, ce qui fait que le péché n’a pas commencé sur la terre, mais dans le ciel. Puis, il a été rejeté du ciel, chassé du ciel sur la terre, et est tombé sur les hommes. Alors, le combat entre les anges est devenu un combat humain. Et Satan est venu pour détruire la création de Dieu. Ce que Dieu avait créé pour Lui-même, Satan est venu pour le détruire. C’était là son intention: détruire. Alors, le combat a commencé ici sur la terre, il a commencé en nous, et, depuis lors, il n’a cessé de faire rage.
+
+Avant qu’une bataille puisse avoir lieu, il faut premièrement que soit choisi un lieu de rencontre, un endroit où le combat puisse se dérouler, un endroit choisi. Lors de la première guerre mondiale, ce lieu était un no-man’s land, c’était l’endroit où ils combattaient, l’endroit qui avait été choisi.
+
+C’est comme quand Israël s’en alla faire la guerre aux Philistins; il y avait une colline de chaque côté de l’endroit où ils s’étaient rassemblés. Et c’est de là que sortit Goliath pour crier contre les armées d’Israël. C’est dans la vallée que David le rencontra, après avoir passé le petit ruisseau qui coulait entre les deux collines, où il prit les cailloux. Cela devait être un endroit choisi.
+
+C’est là qu’il y a un terrain commun, un no-man’s land, et ils combattent en ce lieu. Il n’y en a pas quelques-uns qui se battent là, en haut, quelques-uns là en bas, et d’autres encore juste ici. Il y a un front de bataille où ils se rencontrent et éprouvent leurs forces, où chaque armée éprouve sa puissance contre l’autre armée. Ils s’affrontent tous au même endroit.
+
+Maintenant, ne manquez pas ceci! Quand cette grande bataille a commencé sur terre, il devait y avoir un champ de bataille. Il fallait qu’un endroit ait été choisi, où le combat puisse s’engager et faire rage. Ce champ de bataille se trouve dans la pensée humaine. C’est là que le combat a commencé. La pensée humaine a été choisie comme champ de bataille.
+
+Le combat n’a pas commencé dans quelque organisation; il n’a pas commencé pour des raisons matérielles, ce ne sont pas les choses d’en bas qui l’ont commencé. Par conséquent, une organisation ne peut jamais, jamais faire l’oeuvre de Dieu, parce que le champ de bataille où nous avons à rencontrer notre ennemi se trouve dans notre pensée. Vous avez à faire un choix; il est là.
+
+Je voudrais que la jeune fille qui est là-bas, et qui est très malade, écoute très attentivement ceci.
+
+Les décisions sont prises dans la pensée, dans la tête. C’est là que Satan vient à notre rencontre. Et les décisions existent parce que c’est ainsi que Dieu a fait l’homme. Si vous regardiez sur la feuille de papier que j’ai ici, vous verriez un petit croquis que j’ai fait. Il n’y a pas longtemps que je l’ai dessiné, et je l’ai reporté au tableau noir.
+
+L’être humain est constitué comme un grain de blé. C’est une semence, et l’être humain est une semence. Physiquement, vous êtes la semence de votre père et de votre mère, et la vie vient du père, et la chair vient de la mère. Ainsi, les deux ensemble, l’oeuf et le sang, s’assemblent, et dans la cellule du sang se trouve la vie. C’est là que commence le développement qui va faire l’enfant.
+
+La semence est formée d’une enveloppe à l’extérieur, de la chair à l’intérieur, et à l’intérieur de la chair se trouve le germe de vie. C’est de cette façon que nous sommes formés. Nous sommes corps, âme et esprit. L’extérieur, le corps, est l’enveloppe, l’intérieur (la conscience, etc.) est l’âme, puis à l’intérieur de l’âme se trouve l’esprit. Et l’esprit gouverne tous les autres.
+
+Quand vous irez à la maison, asseyez-vous; vous dessinez trois cercles, et remarquez que le corps extérieur a cinq sens par lesquels on peut prendre contact avec lui; ce sont: la vue, le goût, le toucher, l’odorat et l’ouïe. Ce sont là les cinq sens qui dirigent le corps humain. A l’intérieur du corps, il y a une âme, et l’âme est dirigée par l’imagination, la conscience, la mémoire, la raison et les sentiments. Ce sont là les choses qui dirigent l’âme. Mais l’esprit, lui, n’a qu’un sens… l’esprit. Comprenez bien cela! L’esprit a un seul sens, et ce sens qui le domine est soit la foi, soit le doute! C’est vrai! Et il n’y a qu’un chemin pour venir à lui, c’est celui du libre arbitre. Vous pouvez accepter le doute ou accepter la foi; celui des deux que vous désirez voir agir en vous.
+
+C’est la raison pour laquelle le rôle principal de Satan est de conduire l’esprit de l’homme à douter de la Parole de Dieu. Au commencement, le rôle principal de Dieu avait été de déposer Sa Parole dans l’esprit de l’homme. C’est cela qui se passe.
+
+Si maintenant, cette église pouvait être assemblée et unie de telle façon que tous ici soient d’un même accord, sans qu’il y ait où que ce soit l’ombre d’un doute, il n’y aurait en l’espace de cinq minutes plus une seule personne faible au milieu de nous; il n’y aurait plus personne, désirant le Saint-Esprit, qui ne L’ait reçu. Si vous pouviez simplement être fondés sur cette chose-là!
+
+C’est là où commence le combat, juste dans votre pensée. Maintenant, rappelez-vous que ceci n’est pas de la Science Chrétienne, la pensée dominant la matière, etc… La pensée accepte la Vie, qui est la Parole de Dieu, et Celle-ci apporte la Vie. Vos pensées toutes seules ne peuvent pas le faire, mais la Parole de Dieu amenée par le canal de vos pensées le fait. Voyez? Ce n’est pas la pensée, comme le fait la Science Chrétienne, disant que la pensée domine la matière. Non! Ce n’est pas cela. Mais votre pensée accepte la Parole, et La saisit. Par qui votre pensée est-elle gouvernée? — par votre esprit. Et votre esprit saisit la Parole de Dieu; c’est cette Parole qui a la Vie en Elle, et Elle vous apporte la Vie.
+
+O frères, quand cela arrive, quand la Vie descend par ce canal en vous, alors, la Parole de Dieu est manifestée en vous. “Si vous demeurez en Moi, et que Mes paroles demeurent en vous, alors demandez ce que vous voulez, et cela vous sera accordé”.
+
+Alors, que se passera-t-il? Du milieu du coeur, où se trouve l’âme, de là sortira ce qui nourrit tous les différents canaux. Le malheur vient de ce que l’on se tient ici avec toutes sortes de doutes, essayant d’accepter les choses de Là-haut. Vous devez arrêter de faire cela, et laisser passer la vraie Parole de Dieu au travers de chaque canal. Alors, cela sortira de soi-même, automatiquement. Ce qui compte, c’est ce qu’il y a à l’intérieur; Satan vous attaque par l’intérieur.
+
+Vous direz: «Je ne vole pas; je ne bois pas; je ne fais pas ceci ou cela». Cela n’a aucun rapport; ce qui compte, c’est l’intérieur! Peu importe combien vous êtes bon, combien vous êtes moral, combien vous êtes fidèle; ces choses sont respectables, mais Jésus dit: “Si un homme ne naît de nouveau…”. Vous voyez? Il faut que quelque chose se passe à l’intérieur. Sinon, ce n’est qu’un faux-semblant car au fond de votre coeur, il y a encore le désir de faire le mal.
+
+Il ne faut pas que ce soit artificiel, cela doit être réel. Et il y a un seul chemin pour que cela vienne en vous: c’est par le chemin du libre arbitre, venant dans votre âme par vos pensées. «Un homme est tel que sont les pensées de son coeur. Si vous dites à cette montagne: Déplace-toi!, et ne doutiez pas dans votre coeur, mais croyez que ce que vous avez dit arrivera, vous pouvez avoir ce que vous dites». Vous l’obtenez. Comprenez-vous cela? Vous voyez? C’est là que se trouve le champ de bataille!
+
+Si seulement vous commenciez premièrement par cela! Nous désirons tellement voir quelque chose se faire! Nous tenons tellement à faire quelque chose pour Dieu! Cette dame voudrait tellement vivre; elle voudrait se bien porter. D’autres sont ici qui désirent la santé. Et quand nous entendons parler de ce cas, arrivé chez ce médecin, de la résurrection de ce mort, et des choses glorieuses et puissantes que notre Dieu a faites, alors, il y a en nous un grand désir. Et les choses sont telles que nous cherchons à atteindre par le moyen de ces sens (tels que la conscience) de saisir fermement quelque chose.
+
+Très souvent, beaucoup de personnes ont mal interprété la Parole, et j’ai moi-même été souvent mal compris en ce que je disais au sujet de l’appel à l’autel. J’ai dit que je n’étais pas très favorable à l’appel pour venir à l’autel; non parce que je pense qu’il ne faudrait pas faire d’appel à l’autel. Mais une personne prend une autre personne par le bras, et lui dit: «Oh, frère John, savez-vous quoi? Vous et moi sommes voisins depuis si longtemps, venez donc à l’autel avec moi! Allons-y donc!».
+
+Qu’est-il en train de faire? J’aimerais avoir un tableau noir ici pour que je puisse vous montrer ce qu’il est en train de faire. Il essaie d’agir par le moyen de son âme, de ses sentiments. Mais cela ne peut agir. Ce n’est pas le chemin. Certainement qu’il ne l’est pas. Peut-être est-il en train d’agir par la mémoire, l’un des sens de son âme: «Oh, frère John, vous aviez une mère merveilleuse; elle est morte il y a déjà bien longtemps!». La mémoire. Vous voyez? Vous ne pouvez pas faire cela. Cela doit venir par la voie du libre arbitre. Vous-même, laissez à la Parole de Dieu… Vous n’êtes pas venu parce que votre mère était une brave femme, vous n’êtes pas venu parce que vous étiez un bon voisin; vous êtes venu parce que Dieu vous a appelé à venir, et que vous L’avez accepté sur la base de Sa Parole. C’est cette Parole qui signifie tout.
+
+Cette Parole, si vous pouvez tout enlever du chemin — la conscience… tous les sens — et juste laisser entrer la Parole, cette Parole produira parfaitement ce qu’Elle doit produire.
+
+Voyez ici avec quoi cela est recouvert. Vous dites: «Eh bien, cette conscience, ces sentiments, etc., n’ont rien à faire avec cela, frère Branham!». Certainement! Si vous laissez entrer la Parole, et la recouvrez de la conscience, alors, elle ne peut croître. Elle deviendra une Parole déformée. N’avez-vous jamais vu un bon grain de blé jeté en terre, sur lequel on a laissé tomber un bâton? Il se déforme lors de sa croissance. C’est ainsi que grandira quelqu’un, ou quelque-chose, auquel une entrave a été mise.
+
+Voilà. C’est ce qu’il y a avec notre foi pentecôtiste d’aujourd’hui. Nous avons laissé trop de choses entraver la foi qui nous a été enseignée, le Saint-Esprit vivant en nous. Nous avons laissé trop de choses… regardant aux autres; le diable essaie toujours de vous faire remarquer les manquements des autres, et il fait de son mieux pour vous garder loin du témoignage réel, de ce qui est authentique. Il vous montre parfois un hypocrite, lequel essaie d’imiter quelque chose. Il le fait parce qu’il est un imitateur. Mais si cela vient de la véritable source de la Parole de Dieu: “Le ciel et la terre passeront, mais ma Parole ne passera point”. Elle subsistera! Comprenez-vous cela, soeur?
+
+Cela doit d’abord être accepté dans la pensée; puis, cela est cru par le coeur. Alors, la Parole de Dieu devient une réalité, puis tous les sens de l’âme et du corps sont nettoyés par le Saint-Esprit. Alors, vous avez le sens de Dieu, la conscience de Dieu; alors, tout ce qui est divin s’écoule au travers de vous. Il n’y a pas un seul doute quelque part. Rien ne peut s’élever, rien qui puisse venir à la mémoire et dire: «Eh bien, je me rappelle que Miss Jones a essayé de se confier en Dieu. Miss Telle et Telle, Miss Doe a essayé une fois de se confier en Dieu pour la guérison, et cela n’a pas réussi». Vous voyez? Mais si le canal a été nettoyé, qu’il a été purgé et rempli de l’intérieur par le Saint-Esprit, cela ne doit même pas revenir à la mémoire. Peu importe ce qui concerne Miss Jones, et ce qu’elle fit. C’est une affaire entre Dieu et vous, et personne d’autre que vous deux. Voilà! C’est là votre combat.
+
+Tuez-le immédiatement! Arrêtez-le complètement sur son chemin. Il ne s’agit pas de savoir combien de temps vous pouvez faire durer la guerre, il faut la terminer à l’instant. Si vous venez, et gardez le souvenir, la conscience, et toutes ces pensées comme: «Bien, mais je risque d’échouer. Peut-être que ce n’est pas juste…». Ne faites pas cela du tout! Mettez tout de côté, et ouvrez le canal en disant: «O Dieu, Ta Parole est éternellement vraie, et Elle est pour moi. Si l’église entière échoue, si le monde entier manque le but, malgré tout, cela ne peut manquer le but, parce que c’est Ta Parole-ci que je prends!».
 
 LA PLUS GRANDE BATAILLE JAMAIS LIVREE 11
    C’est là que se déroule la bataille; tout est là. Pourquoi le Dieu Tout-puissant enlèverait-Il un
@@ -725,8 +433,8 @@ porte. Le front de la bataille se trouve là.
    Maintenant, quand vous vous placez en ordre de bataille… Le diable se trouve juste auprès de
 chaque coeur, ce matin. Il se trouve là, près du coeur de cette petite fille; il se tient près de votre
 coeur; il se tient partout dans cette salle. Il dit: «Oh, j’ai vu essayer cela auparavant. J’ai déjà
-entendu cela auparavant». Chassez-le dehors, voilà tout! Chassez-le dehors! C’est juste, chassez-
-le dehors. Que disait la Bible ici, dans notre texte? Le rejetant au dehors: c’est juste, chassez-le au
+entendu cela auparavant». Chassez-le dehors, voilà tout! Chassez-le dehors! C’est juste, chassez-le
+dehors. Que disait la Bible ici, dans notre texte? Le rejetant au dehors: c’est juste, chassez-le au
 dehors!
    Nous avons reçu un entraînement, je pense. «Que se passe-t-il avec nous autres,
 prédicateurs?». Je me demande quelle sorte d’entraînement nous avons reçu. L’entraînement de
@@ -883,7 +591,7 @@ promesse de Dieu, la Parole de Dieu. “Nous La recevrons!”.
    — “Sors du milieu de ton peuple, Abraham, ce qui ne va pas avec eux, c’est qu’ils doutent et
 sont incrédules; et ils t’attireront dans le même pétrin. Sors du milieu d’eux, et sépare-toi d’eux, et
 vis pour Moi”. Qu’est-ce que cela? “Laissez toute votre conscience, vos sens, tous ces signes-là;
-ouvrez votre pensée, et souvenez-vous que tout vient de Moi. Venez vivre avec Moi”. Amen!
+ouvez votre pensée, et souvenez-vous que tout vient de Moi. Venez vivre avec Moi”. Amen!
    Dieu appelle ce matin toute semence d’Abraham à vivre la même sorte de vie. Une grande
 bataille se déroule maintenant dans le monde entier. De quoi Dieu veut-Il que Ses enfants se
 séparent? De la vue, du goût, du toucher, de l’odorat, de l’imagination, de la conscience, de la
@@ -1255,7 +963,7 @@ parler. Tout au long de la Bible, on peut le voir agir, toujours de la même man
 seule tactique: faire en sorte que les gens ne croient pas à la Parole de Dieu.
    Ecoutez ceci, soldats de la Croix! Si vous doutez d’une seule Parole de cette Bible écrite
 par Dieu, vous êtes désarmés! Croyez-vous cela, chers amis? Vous êtes désarmés, et vous
-devez vous rendre. Méduses que vous êtes, revêtez-vous de toute l’armure de Dieu! Amen!
+devrez vous rendre. Méduses que vous êtes, revêtez-vous de toute l’armure de Dieu! Amen!
 Nous sommes en pleine bataille. Ce que Dieu dit est la vérité, mais toute parole d’homme n’est
 que mensonge. Vous voyez?
 
@@ -1326,8 +1034,8 @@ t’aiment; ils croient en toi. Mais si tu essaies de faire cette traversée dan
 essaieront de te suivre dans leur canot, et mourront tous deux. Ils ne peuvent te suivre».
    Je demandai alors: «Que dois-je faire?».
    Et ce gardien me répondit: «Retourne là-bas. Dans toute cette région, il n’y a qu’un seul
-petit hangar; il n’y en a qu’un seul. Vas-y, et remplis-le de provisions. Ces frères resteront là
-pendant que tu es au loin. Mais il faut que tu y déposes des provisions».
+petit hangar; il n’y en a qu’un seul. Vas-y, et remplis-le de provisions. Ces frères resteront
+là pendant que tu es au loin. Mais il faut que tu y déposes des provisions».
    Alors, je me mis à commander toutes sortes de choux, de navets, de radis, toutes sortes de
 choses que je me mis à entasser dans ce hangar. Puis je me réveillai. Je ne savais pas sur le
 moment ce que cela signifiait, mais je le sais maintenant. Vous comprenez? Maintenant, chers
@@ -1828,7 +1536,7 @@ d’avions! Formant un long cortège, ils défilèrent au pas de l’oie, célé
    Lorsque Staline vint avec son armée, les tanks se touchaient presque! Il bombarda Berlin
 jusqu’à ce qu’il n’en reste pratiquement plus rien. C’est tout. Et lorsqu’ils entrèrent dans la ville, ils
 célébrèrent la victoire selon leurs coutumes. J’ai vu cela dans un film d’actualités à Londres. Je les
-ai vus entrer dans la ville et célébrer leur victoire. Oh, et nous donc! Lorsqu’on nous annonça que
+ais vus entrer dans la ville et célébrer leur victoire. Oh, et nous donc! Lorsqu’on nous annonça que
 la guerre était finie, nous nous mîmes à crier, à siffler de toutes nos forces! Lorsque nos héros
 rentrèrent au pays, nous les accueillîmes avec des cris et toutes sortes d’acclamations.
    J’ai un cousin qui a fait la guerre. Il m’a raconté que, lorsqu’il revint, tous les vétérans avaient
@@ -2030,9 +1738,6 @@ Chantons encore une fois ce premier verset.
  Marchons au combat!
  Portant la Croix de Jésus,
  Allons de l’avant!
-
-
-
 
 
 

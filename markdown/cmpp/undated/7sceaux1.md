@@ -1,593 +1,301 @@
+---
+source: "cmpp"
+sermon_id: "7sceaux1"
+title: "La Révélation des Sept Sceaux"
+subtitle: "Dieu Caché et Révélé dans la Simplicité"
+date: "1963-03-17"
+year: 1963
+location: "Jeffersonville, Indiana, USA"
+preacher: "William Marrion Branham"
+summary: "Premier message de la série sur les Sept Sceaux, prêché le 17 mars 1963 au Branham Tabernacle. Frère Branham consacre le nouveau bâtiment, rappelle l'histoire de l'église, et introduit l'étude des Sceaux en lisant Ésaïe 53. Il souligne l'importance du respect dans la maison de Dieu et annonce le programme de la semaine."
+tags:
+  - "sept sceaux"
+  - "révélation"
+  - "consécration"
+  - "maison de Dieu"
+  - "respect"
+persons:
+  - "William Marrion Branham"
+  - "Billy Paul Branham"
+  - "David"
+  - "Nathan"
+  - "Salomon"
+  - "Jésus-Christ"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Tucson"
+  - "Arizona"
+themes:
+  - "consécration"
+  - "révélation des mystères"
+  - "simplicité de Dieu"
+  - "respect du sanctuaire"
+  - "préparation de l'Épouse"
+pdf_url: "http://cmpp.ch/7sceaux1.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Chroniques 17"
+  - "1 Corinthiens 13"
+  - "Apocalypse 10"
+  - "Apocalypse 19"
+  - "Apocalypse 21"
+  - "Esther 102"
+  - "Jean 14"
+  - "Jean 3"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Marc 11"
+  - "Matthieu 11"
+  - "Nombres 162"
+  - "Ésaïe 35"
+  - "Ésaïe 40"
+  - "Ésaïe 53"
+---
 BROCHURE N° 1
 
-
-
-
-REVELATION
-DES
-SEPT SCEAUX
+# RÉVÉLATION DES SEPT SCEAUX
 
 PAR
 
 WILLIAM MARRION BRANHAM
 
+---
 
+## DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ
 
+### LA RÉVÉLATION DES SEPT SCEAUX — DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ
 
+### INTRODUCTION
 
+> “Voici, je vous enverrai Elie, le prophète, avant que le jour de l’Éternel arrive, ce jour grand et redoutable. Il ramènera le coeur des pères à leurs enfants, et le coeur des enfants à leurs pères, de peur que je ne vienne frapper le pays d’interdit”.
+> — Malachie 4.5,6
 
+> “… mais qu’aux jours de la voix du septième ange, quand il sonnerait de la trompette, le mystère de Dieu s’accomplirait, comme il l’a annoncé à ses serviteurs, les prophètes”.
+> — Apocalypse 10.7
 
+La Parole du Seigneur a promis qu’Il enverrait dans le monde une fois encore l’esprit d’Elie sous la forme de ce “messager du temps de la fin” qui était l’ange du septième âge de l’Église. Nous croyons fermement que cette promesse fut réalisée par le ministère si magnifiquement confirmé de notre précieux frère, William Marrion Branham.
 
+Tout au long de la vie de cet humble serviteur du Seigneur qui fut une si belle image de l’Esprit de Christ, nous avons trouvé des manifestations de Dieu si parfaitement confirmées qu’elles ne peuvent être expliquées par aucun raisonnement naturel. Parmi les centaines de milliers de visions que le Seigneur a données au frère Branham partout dans le monde, pas une fois il n’est arrivé qu’une vision ne soit pas confirmée et attestée comme étant la Parole du Seigneur.
 
+Le 30 décembre 1962 au Branham Tabernacle de Jeffersonville en Indiana, frère Branham donna un message intitulé: MESSIEURS, EST-CE L’HEURE? Dans ce message il parla d’une vision qui lui ordonnait de partir pour Tucson en Arizona avec sa famille. Cette vision prédisait qu’une rafale aurait lieu dont la force secouerait tout le pays. Cette vision se réalisa le 28 février 1963 quand, à quarante miles au nord-est de Tucson, frère Branham fut enlevé dans une constellation de sept anges et avisé qu’il devait retourner à son église de Jeffersonville où les mystères des sept Sceaux lui seraient révélés.
 
-DIEU CACHE ET REVELE DANS LA SIMPLICITE
+Nous avons essayé de rassembler les prédications que le frère Branham a prêchées du 17 au 24 mars 1963 au Branham Tabernacle à Jeffersonville et qui sont intitulées: LA RÉVÉLATION DES SEPT SCEAUX. Toutes les fautes qu’on pourrait trouver dans ce livre ne sont que des erreurs de transcription, de ponctuation ou d’impression et ne doivent pas être prises pour des erreurs dans le message. Nous ne sommes pas des écrivains ou des éditeurs professionnels, mais nous sentons que l’heure avance et que ce message doit vous parvenir afin de vous préparer pour la prochaine venue du Seigneur, car la Parole a annoncé: “Réjouissons-nous et soyons dans l’allégresse, et donnons-lui gloire; car les noces de l’Agneau sont venues, et son épouse s’est préparée” (Apocalypse 19.7).
 
-    LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE    2
+Billy Paul BRANHAM
 
-    INTRODUCTION
+---
 
+## DIEU CACHÉ ET RÉVÉLÉ DANS LA SIMPLICITÉ
 
-    “Voici, je vous enverrai Elie, le prophète, avant que le jour de l’Eternel arrive,
-    ce jour grand et redoutable. Il ramènera le coeur des pères à leurs enfants, et le
-    coeur des enfants à leurs pères, de peur que je ne vienne frapper le pays
-    d’interdit”.
-                Malachie 4.5,6
+### (God Hiding Himself In Simplicity)
 
-  “… mais qu’aux jours de la voix du septième ange, quand il sonnerait de la
-trompette, le mystère de Dieu s’accomplirait, comme il l’a annoncé à ses
-serviteurs, les prophètes”.
-        Apocalypse 10.7
-
-
-
-   La Parole du Seigneur a promis qu’Il enverrait dans le monde une fois encore l’esprit
-d’Elie sous la forme de ce “messager du temps de la fin” qui était l’ange du septième âge
-de l’Eglise. Nous croyons fermement que cette promesse fut réalisée par le ministère si
-magnifiquement confirmé de notre précieux frère, William Marrion Branham.
-   Tout au long de la vie de cet humble serviteur du Seigneur qui fut une si belle image de
-l’Esprit de Christ, nous avons trouvé des manifestations de Dieu si parfaitement
-confirmées qu’elles ne peuvent être expliquées par aucun raisonnement naturel. Parmi les
-centaines de milliers de visions que le Seigneur a données au frère Branham partout dans
-le monde, pas une fois il n’est arrivé qu’une vision ne soit pas confirmée et attestée
-comme étant la Parole du Seigneur.
-    Le 30 décembre 1962 au Branham Tabernacle de Jeffersonville en Indiana, frère
-Branham donna un message intitulé: MESSIEURS, EST-CE L’HEURE? Dans ce message il
-parla d’une vision qui lui ordonnait de partir pour Tucson en Arizona avec sa famille. Cette
-vision prédisait qu’une rafale aurait lieu dont la force secouerait tout le pays. Cette vision
-se réalisa le 28 février 1963 quand, à quarante miles au nord-est de Tucson, frère
-Branham fut enlevé dans une constellation de sept anges et avisé qu’il devait retourner à
-son église de Jeffersonville où les mystères des sept Sceaux lui seraient révélés.
-   Nous avons essayé de rassembler les prédications que le frère Branham a prêchées
-du 17 au 24 mars 1963 au Branham Tabernacle à Jeffersonville et qui sont intitulées:
-LA REVELATION DES SEPT SCEAUX. Toutes les fautes qu’on pourrait trouver dans ce
-livre ne sont que des erreurs de transcription, de ponctuation ou d’impression et ne
-doivent pas être prises pour des erreurs dans le message. Nous ne sommes pas des
-écrivains ou des éditeurs professionnels, mais nous sentons que l’heure avance et que ce
-message doit vous parvenir afin de vous préparer pour la prochaine venue du Seigneur,
-car la Parole a annoncé: “Réjouissons-nous et soyons dans l’allégresse, et donnons-lui
-gloire; car les noces de l’Agneau sont venues, et son épouse s’est préparée” (Apocalypse 19.7).
-
-        Billy Paul BRANHAM
-
-
-    http://www.cmpp.ch
-
-    LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE    3
-
-
-
-DIEU CACHE ET REVELE DANS LA SIMPLICITE
-   (God Hiding Himself In Simplicity)
-
-
-
-      17 mars 1963, matin
-       Branham Tabernacle
+17 mars 1963, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 Bonjour, mes amis. Être ici dans ce Tabernacle, ce matin, est pour moi un des glorieux moments de mon existence. J’aime voir cette belle architecture et le bon ordre qui règne parmi les enfants de Dieu qui sont assis aujourd’hui dans cette maison.
 
+2 Je fus bien étonné en arrivant ici hier de voir ce bâtiment! Je n’avais jamais rêvé qu’il pût être ainsi! Au début quand on me montra les plans je ne vis qu’une petite chambre sur le côté; mais maintenant je découvre que cette chambre est une belle salle et nous rendons grâces au Tout-Puissant pour cette belle maison.
 
+3 Je vous apporte ce matin les salutations de ma femme et de mes enfants qui auraient bien aimé être ici pour le service de dédicace et pour cette semaine de consécration à Christ; mais les enfants sont à l’école et il n’est guère possible de les faire venir. Maintenant ils ne regrettent pratiquement plus leur ancienne maison mais nous, nous n’oublierons jamais nos sentiments fraternels envers vous.
 
-1 Bonjour, mes amis. Etre ici dans ce Tabernacle, ce matin, est pour moi un des glorieux
-moments de mon existence. J’aime voir cette belle architecture et le bon ordre qui règne parmi les
-enfants de Dieu qui sont assis aujourd’hui dans cette maison.
-2 Je fus bien étonné en arrivant ici hier de voir ce bâtiment! Je n’avais jamais rêvé qu’il pût être
-ainsi! Au début quand on me montra les plans je ne vis qu’une petite chambre sur le côté; mais
-maintenant je découvre que cette chambre est une belle salle et nous rendons grâces au
-Tout-Puissant pour cette belle maison.
-3 Je vous apporte ce matin les salutations de ma femme et de mes enfants qui auraient bien
-aimé être ici pour le service de dédicace et pour cette semaine de consécration à Christ; mais les
-enfants sont à l’école et il n’est guère possible de les faire venir. Maintenant ils ne regrettent
-pratiquement plus leur ancienne maison mais nous, nous n’oublierons jamais nos sentiments
-fraternels envers vous.
-4 Il est agréable d’avoir des amis et j’apprécie les amis partout, mais il y a quelque chose de
-spécial concernant les vieux amis. Quels que soient les nouveaux amis que vous vous fassiez ce
-n’est tout de même pas comme les vieux amis. Qu’importe les endroits où je vais, ce lieu ici me
-sera toujours sacré. Il y a environ trente ans je consacrai ce terrain à Jésus-Christ alors qu’il n’était
-rien de plus qu’un marécage, un étang. C’est pour cette raison que cette rue-ci n’a pas de
-magasins: la route devait faire un détour pour éviter l’étang qui était ici en ce temps-là.
-5 Ici poussaient des lis des étangs. Le lis est une fleur très étrange. Il naît dans la boue et il doit
-faire son chemin à travers la boue, l’eau et la vase pour se retrouver au-dessus et manifester sa
-beauté. Je pense ce matin que c’est tout à fait ce qui est arrivé ici; un petit lis des étangs a poussé
-à cet endroit et lorsqu’il est arrivé au-dessus de l’eau il a déployé ses pétales et a reflété le “Lis de
-la Vallée”.
-6 Puisse-t-il durer longtemps! Puisse-t-il être une maison entièrement consacrée à Dieu! Le
-Tabernacle lui-même a été consacré en 1933, mais nous pensons ce matin que ce serait une
-bonne chose que d’avoir de nouveau un petit service de consécration et ceci spécialement pour
-les personnes qui dans leur amour et leur consécration à Christ ont rendu tout cela possible.
-7 Et je désire remercier chacun de vous pour vos offrandes et pour tout ce que vous avez fait
-pour que cette église puisse être consacrée à Christ. J’apprécie grandement cela et je remercie
-l’assemblée de m’avoir demandé de prononcer ces paroles en l’honneur de nos braves frères de
-cette église qui n’ont pas ménagé leurs efforts: notre cher frère Banks Wood, notre cher frère Roy
-Roberson et beaucoup d’autres encore qui avec désintéressement et simplicité de coeur ont passé
-des mois à faire de cette maison ce qu’elle est aujourd’hui, eux qui ont veillé à ce que tout soit fait
-correctement.
-8 Oh! quand je suis entré et que j’ai vu cette chaire, le genre de chaire dont j’ai rêvé pendant
-toute ma vie!… Le frère Wood savait ce que je désirais! Il n’a jamais dit qu’il la construirait, mais il
-l’a construite. Et j’ai bien regardé toute la construction; tout cela est absolument parfait!
+4 Il est agréable d’avoir des amis et j’apprécie les amis partout, mais il y a quelque chose de spécial concernant les vieux amis. Quels que soient les nouveaux amis que vous vous fassiez ce n’est tout de même pas comme les vieux amis. Qu’importe les endroits où je vais, ce lieu ici me sera toujours sacré. Il y a environ trente ans je consacrai ce terrain à Jésus-Christ alors qu’il n’était rien de plus qu’un marécage, un étang. C’est pour cette raison que cette rue-ci n’a pas de magasins: la route devait faire un détour pour éviter l’étang qui était ici en ce temps-là.
 
-        http://www.cmpp.ch
+5 Ici poussaient des lis des étangs. Le lis est une fleur très étrange. Il naît dans la boue et il doit faire son chemin à travers la boue, l’eau et la vase pour se retrouver au-dessus et manifester sa beauté. Je pense ce matin que c’est tout à fait ce qui est arrivé ici; un petit lis des étangs a poussé à cet endroit et lorsqu’il est arrivé au-dessus de l’eau il a déployé ses pétales et a reflété le “Lis de la Vallée”.
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 4
-9 Je ne trouve pas de mots pour exprimer mes sentiments: c’est impossible! mais Dieu me
-comprendra. Et que chacun de vous puisse être récompensé pour sa contribution, pour tout ce
-qu’il a fait pour que cet endroit soit ce qu’il est: une maison pour le Seigneur.
-10 J’aimerais encore dire ceci: cette construction, aussi belle soit-elle à l’intérieur et à
-l’extérieur… mon beau-frère Weber Junior, qui s’est occupé de la maçonnerie… je ne vois pas
-comment il aurait pu faire mieux; c’est un travail parfait.
-11 Il y a ici un autre frère (je ne le connais pas) qui a installé la sonorisation. Je remarque que
-même dans une construction plate comme celle-ci il n’y a aucun défaut d’acoustique; les appareils
-sont placés dans le plafond à différents endroits et ainsi, en quelque lieu que je me trouve, le
-résultat est toujours le même. Dans toutes les autres salles il y a des haut-parleurs. On peut
-entendre de partout. Je crois que c’est la main du Dieu Tout-Puissant qui a fait cette installation.
-12 Ainsi donc, si notre Seigneur nous a donné un endroit où nous pouvons L’adorer… il est
-beaucoup mieux qu’il y a trente ans environ où nous commençâmes avec un sol de terre battue
-recouvert de sciure de bois et où nous étions assis près de vieux petits fourneaux à charbon.
-L’entrepreneur, le frère Wood, ainsi que le frère Roberson me dirent que ces vieux fourneaux
-finirent par mettre le feu aux piliers qui brûlèrent d’ailleurs sur deux ou trois pieds. Pourquoi
-n’ont-ils pas brûlé complètement? Dieu seul les garda. Et après avoir brûlé, tout le poids du
-Tabernacle reposant sur eux, pourquoi ne s’effondra-t-il pas? Seule la main de Dieu l’en empêcha!
-Maintenant tout est construit en acier et repose sur terre ferme. Tout est construit solidement.
-13 Je pense que c’est notre devoir aujourd’hui de faire en sorte que par la grâce de Dieu
-l’intérieur soit également juste afin de montrer notre reconnaissance à Dieu; il ne suffit pas
-seulement d’avoir une belle construction dans laquelle nous nous réunissons mais il faudrait que
-chacun de ceux qui entrent puisse voir les beaux traits caractéristiques de Jésus-Christ en chaque
-personne qui s’y trouve.
-14 Que cela puisse être un endroit consacré à notre Seigneur, un peuple consacré, car il importe
-peu que la construction soit belle (ce que nous apprécions certainement), mais il faut que ce soit le
-caractère des fidèles qui fasse la beauté de l’église. J’espère que ce sera toujours une maison de
-Dieu marquée par cette beauté-là.
-15 A l’occasion de la pose de la première pierre, une glorieuse vision me fut donnée; elle a été
-écrite et placée dans la pierre d’angle le matin où je la consacrai.
-16 Vous vous êtes peut-être demandé il y a quelques minutes pourquoi je suis en retard ce
-matin. Mon premier devoir lorsque j’entrai dans cette nouvelle église fut de marier un jeune homme
-et une jeune fille qui étaient venus à mon bureau pour cela. Que cela puisse être un symbole de ce
-que je serai un loyal ministre de Christ préparant Son Epouse pour les cérémonies du jour à venir.
-17 Et maintenant procédons comme nous l’avons fait au commencement quand nous avons
-consacré la première église. Je n’étais qu’un jeune homme. Je pouvais avoir vingt-et-un ou
-vingt-deux ans quand nous posâmes la première pierre. C’était avant que je fusse marié. Je
-voulais toujours avoir pour Dieu un endroit parfaitement en ordre afin que Son peuple pût l’y
-adorer. Et nous pouvons le faire, non pas au moyen d’une belle construction seulement mais par
-une vie consacrée. C’est le seul moyen.
-18 Et avant de prononcer la prière de dédicace nous lirons quelques passages de l’Ecriture et
-nous consacrerons de nouveau l’église de Dieu, puis je donnerai ce matin un message
-d’évangélisation pour introduire le message qui suivra.
-19 Ce soir je désire étudier le cinquième chapitre de l’Apocalypse qui relie les sept Ages de
-l’Eglise aux sept Sceaux. Puis nous aurons lundi soir le cavalier au cheval blanc; mardi soir, le
-cavalier au cheval noir et ainsi de suite, les quatre cavaliers. Puis le sixième Sceau étant ouvert
-nous aurons dimanche matin, si Dieu le permet, une réunion de prière pour les malades dans cette
-salle. Et puis dimanche soir nous terminerons. Que le Seigneur nous aide à ouvrir le septième
-Sceau qui ne comprend qu’un seul verset disant: “Et lorsqu’il ouvrit le septième sceau, il se fit un
-silence au ciel d’environ une demi-heure”. Ce silence…
-20 Je ne sais pas ce que signifient ces Sceaux. Je n’en sais pas davantage à leur sujet ce matin
-que certains d’entre vous. Nous avons des idées théologiques qui ont été émises par des hommes
-mais cela ne pourra jamais être juste. Si vous voulez savoir, cela doit être donné par inspiration;
+6 Puisse-t-il durer longtemps! Puisse-t-il être une maison entièrement consacrée à Dieu! Le Tabernacle lui-même a été consacré en 1933, mais nous pensons ce matin que ce serait une bonne chose que d’avoir de nouveau un petit service de consécration et ceci spécialement pour les personnes qui dans leur amour et leur consécration à Christ ont rendu tout cela possible.
 
-        http://www.cmpp.ch
+7 Et je désire remercier chacun de vous pour vos offrandes et pour tout ce que vous avez fait pour que cette église puisse être consacrée à Christ. J’apprécie grandement cela et je remercie l’assemblée de m’avoir demandé de prononcer ces paroles en l’honneur de nos braves frères de cette église qui n’ont pas ménagé leurs efforts: notre cher frère Banks Wood, notre cher frère Roy Roberson et beaucoup d’autres encore qui avec désintéressement et simplicité de coeur ont passé des mois à faire de cette maison ce qu’elle est aujourd’hui, eux qui ont veillé à ce que tout soit fait correctement.
 
-    LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE    5
-cela doit provenir de Dieu Lui-même, le seul qui puisse le faire, Lui, l’Agneau; et ce soir nous
-examinerons le Livre de la Rédemption.
-21 La raison pour laquelle je n’annonce pas de réunions de prière pour les malades est que je
-demeure chez des amis et que je réserve tout mon temps à l’étude et à la prière. Vous connaissez
-la vision de ces sept anges que j’ai eue à l’ouest juste avant de venir et vous comprendrez un peu
-plus tard.
-22 Ainsi dans cette salle, une fois qu’elle aura été dédicacée (ce que nous allons faire dans
-quelques minutes pour l’adoration de Dieu), nous ne devrions jamais l’utiliser pour y vendre ou
-acheter quoi que ce soit.
-23 Nous ne devrions jamais y faire de commerce, comme par exemple permettre à des
-prédicateurs d’y vendre des livres ou d’autres choses; peu importe ce que c’est, il y a d’autres
-endroits pour le faire. Nous ne devons jamais acheter ou vendre dans la maison du Seigneur; ce
-devrait être un lieu d’adoration, saint, consacré à cet effet. Il nous a donné un bel endroit;
-dédions-le Lui et consacrons-nous nous-mêmes à Lui en même temps.
-24 Bien sûr, ceci semblera un peu dur à entendre, mais ce lieu n’est pas un endroit que l’on vient
-visiter; c’est un lieu d’adoration. Nous ne devrions même jamais murmurer un seul mot ici à
-l’intérieur en dehors de l’adoration, à moins que ce ne soit absolument nécessaire. Nous ne
-devrions jamais nous appeler, circuler ou laisser courir nos enfants dans cette salle.
-25 En ce faisant et sentant depuis peu que cela devait être ainsi nous l’avons construit en
-prenant garde à ces choses. Naturellement beaucoup viennent de l’extérieur. L’assemblée de ce
-Tabernacle, elle, sait que ce bâtiment va être dédicacé pour le service du Tout-Puissant.
-26 Par conséquent, nous étant nous-mêmes consacrés, rappelons-nous que lorsque nous
-entrons dans ce sanctuaire nous devons rester silencieux et y adorer Dieu. Si nous voulons nous
-rendre visite les uns aux autres nous pouvons le faire ailleurs, mais ne venez pas en ce lieu pour y
-faire du bruit empêchant les autres d’entendre leurs propres pensées. Ceux qui en entrant y
-entendraient tout ce bruit ne sauraient plus que faire; tout deviendrait charnel.
-27 J’ai vu cela dans les églises et j’en ai été réellement peiné. Nous ne venons pas dans le
-sanctuaire du Seigneur pour nous rencontrer les uns les autres; nous venons ici pour adorer Dieu.
-Ensuite nous rentrons chez nous. Ce sanctuaire est dédié à l’adoration. Restez dehors et parlez
-tant que vous voudrez à condition que ce soit juste et saint; rendez-vous visite dans vos maisons
-mais quand vous passez cette porte gardez le silence.
-28 Vous venez ici pour Lui parler et pour qu’Il vous parle. Le malheur, c’est que nous
-parlons beaucoup et n’écoutons pas assez. C’est pourquoi quand nous venons ici
-écoutons-Le.
-29 Ce matin, il n’y a peut-être ici aucune personne qui ait été présente le jour de la dédicace de
-l’ancien Tabernacle quand le Major Ulrich faisait de la musique et que je me tenais ici derrière trois
-croix pour le service de dédicace.
-30 Les diacres se tenaient à la porte pour veiller à ce que personne ne parlât. N’entrez que
-lorsque vous avez fini vos conversations. Si vous le désirez vous allez discrètement à l’autel et
-vous priez dans le silence. Puis vous retournez à votre place, vous ouvrez la Bible. Ce que fait
-votre voisin cela le regarde! Vous n’avez rien à dire. Si vous voulez lui parler, dites-vous: «Je le
-verrai dehors. Je suis ici pour adorer le Seigneur». Lisez Sa Parole ou restez assis tranquillement.
-31 Au sujet de la musique, je ne sais pas si soeur Gertie est ici ce matin, ou soeur Gibbs. Si je
-m’en souviens bien, le vieux piano était placé là dans le coin. Et la soeur jouait doucement:
-«Là-bas, à la Croix où mon Sauveur mourut», une musique douce et mélodieuse, jusqu’à ce
-qu’arrive le moment du culte et que le conducteur du chant se lève pour diriger les cantiques; et s’il
-y avait eu un solo intéressant il aurait pu être chanté. Mais jamais de spectacle!
-32 La musique jouait sans discontinuer; alors je comprenais que c’était pour moi le moment de
-venir. Quand un prédicateur entre dans une église en prière et qu’il y a l’onction du Saint-Esprit,
-vous êtes sûr que le Ciel vous parlera. Rien de L’en empêchera. Mais si vous entrez dans la
-confusion vous serez confus et l’Esprit est attristé.
-33 Nous ne voulons pas de cela, oh non! Nous voulons entrer ici pour adorer. Nous avons des
-foyers confortables dont je vais parler dans un instant où nous pouvons voir nos amis et où nous
+8 Oh! quand je suis entré et que j’ai vu cette chaire, le genre de chaire dont j’ai rêvé pendant toute ma vie!… Le frère Wood savait ce que je désirais! Il n’a jamais dit qu’il la construirait, mais il l’a construite. Et j’ai bien regardé toute la construction; tout cela est absolument parfait!
 
-    http://www.cmpp.ch
+9 Je ne trouve pas de mots pour exprimer mes sentiments: c’est impossible! mais Dieu me comprendra. Et que chacun de vous puisse être récompensé pour sa contribution, pour tout ce qu’il a fait pour que cet endroit soit ce qu’il est: une maison pour le Seigneur.
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 6
-pouvons les inviter. Ici, c’est la Maison du Seigneur.
-34 Il y a aussi les petits enfants, les bébés. Leur seul moyen d’obtenir ce qu’ils désirent est de
-crier; ils ne connaissent rien d’autre. Quelquefois c’est parce qu’ils ont soif ou alors ils ont besoin
-de soins. C’est pour cela que nous avons par la grâce de Dieu une pièce réservée, une garderie.
-Elle se trouve juste en face de moi. C’est là que les mamans peuvent amener leurs bébés.
-35 Ils ne me gêneront peut-être pas quand je suis en chaire; il se peut même que je ne les
-remarque pas étant sous l’Onction; mais il y a d’autres personnes qui sont assises à côté d’eux et
-que cela dérange. Or elles sont venues pour écouter la prédication.
-36 C’est pourquoi je dis aux mamans: si vos petits enfants commencent à pleurnicher vous n’y
-pouvez rien. Et une vraie mère veut amener ses enfants à l’église et c’est la bonne chose à faire.
-Voilà pourquoi nous avons une pièce ici d’où vous pouvez voir tous les coins de la salle, tout
-l’auditoire, et où il y a un haut-parleur que vous pouvez régler. Il y a de petites toilettes dans un
-coin, un lavabo et toutes les facilités. Il y a des chaises pour vous asseoir et un endroit pour
-changer votre bébé si c’est nécessaire. Tout a été prévu.
-37 Et puis souvent des adolescents, quelquefois aussi des adultes, peuvent y aller. Vous savez,
-les jeunes gens aiment échanger quelques billets et faire une petite pause dans l’écoute. Mais
-vous, vous êtes assez âgés pour savoir vous tenir tranquilles. Si vous voulez devenir véritablement
-un homme et élever une famille pour le Royaume de Dieu, alors commencez dès maintenant à
-bien agir et à bien vous conduire.
-38 Il y a dans la salle des diacres qui sont chargés de l’ordre. Au cas où quelqu’un se conduirait
-mal ils ont reçu l’ordre de dire à cette personne de rester tranquille.
-39 Et si ces personnes n’ont pas ce respect il vaudrait mieux qu’elles laissent leur place à
-quelqu’un d’autre parce qu’il y en a d’autres qui désirent écouter. Celui qui vient ici le fait dans
-l’intention d’écouter et la raison pour laquelle nous sommes ici c’est pour écouter la Parole du
-Seigneur. Et alors chacun désire L’écouter et veut pouvoir le faire aussi tranquillement que
-possible, c’est-à-dire sans bavardages ni scandales.
-40 Naturellement nous nous attendons à ce que quelqu’un se mette à adorer le Seigneur, nous
-nous y attendons! C’est juste, c’est la raison pour laquelle vous êtes ici; c’est pour adorer le
-Seigneur. Oui, si vous sentez que vous devez adorer Dieu ou entonner un cantique, allez-y car
-vous êtes ici pour cela, pour adorer le Seigneur à votre manière; mais si vous parlez ou vous
-passez mutuellement des billets, vous aidez les autres à s’éloigner de l’adoration du Seigneur.
-41 Nous sentons bien que cela ne serait pas bien! Et nous aimerions que ce soit pour notre
-assemblée une règle que ce bâtiment, que cette église soit consacrée au Royaume de Dieu et à la
-prédication de la Parole: Priez! Adorez! La raison pour laquelle vous devriez venir ici, c’est pour y
-adorer.
-42 Autre chose: Quand la réunion est terminée, habituellement les gens dans l’église… mais je
-ne crois pas que ce soit le cas ici. Je m’en vais généralement avant la fin car l’onction vient et les
-visions apparaissent et je suis épuisé; je me retire dans la chambre à côté et soit Billy soit
-quelqu’un d’autre doit me conduire à la maison pour que je m’y repose un moment jusqu’à ce que
-cette fatigue s’en aille car c’est pour moi une grande tension.
-43 Mais j’ai vu cependant dans quelques églises qu’il était permis aux enfants de courir partout
-dans le sanctuaire et que d’un bout à l’autre de la salle les adultes s’interpellaient les uns les
-autres. Voilà un bon moyen de détruire les réunions présentes ou futures!
-44 Aussitôt que le service est terminé, quittez la salle; l’adoration est alors terminée. Sortez et
-parlez et faites ce que vous voulez. Si vous voulez voir quelqu’un ou lui parler, sortez avec lui ou
-allez chez lui mais ne faites pas cela dans la salle. Consacrons cet endroit à Dieu; c’est Son lieu
-de rencontre, là où nous Le rencontrons, et la Loi vient du sanctuaire bien sûr. Je crois que c’est
-cela qui est agréable à notre Père céleste.
-45 Ainsi donc, lorsque vous venez et découvrez que ces dons sont en train de venir parmi
-vous… Habituellement (j’espère que nous ne verrons jamais cela ici) quand les gens ont une
-nouvelle église ils commencent à devenir guindés; vous ne devez jamais faire cela car ici c’est un
-lieu d’adoration, c’est la maison du Seigneur. Et si les dons spirituels commencent à venir parmi
-vous…
+10 J’aimerais encore dire ceci: cette construction, aussi belle soit-elle à l’intérieur et à l’extérieur… mon beau-frère Weber Junior, qui s’est occupé de la maçonnerie… je ne vois pas comment il aurait pu faire mieux; c’est un travail parfait.
 
-        http://www.cmpp.ch
+11 Il y a ici un autre frère (je ne le connais pas) qui a installé la sonorisation. Je remarque que même dans une construction plate comme celle-ci il n’y a aucun défaut d’acoustique; les appareils sont placés dans le plafond à différents endroits et ainsi, en quelque lieu que je me trouve, le résultat est toujours le même. Dans toutes les autres salles il y a des haut-parleurs. On peut entendre de partout. Je crois que c’est la main du Dieu Tout-Puissant qui a fait cette installation.
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 7
-46 J’ai entendu dire que depuis que je suis parti, des gens de différentes régions du pays sont
-venus s’établir ici. J’en suis reconnaissant à Dieu car je crois que le matin où j’ai consacré et posé
-la première pierre ici (j’étais alors un jeune homme), j’ai prié pour qu’elle dure jusqu’à la venue du
-Seigneur Jésus-Christ. Et en ce temps-là je devais des milliers de dollars, et l’offrande dans une
-assemblée de la grandeur de celle-ci pouvait se monter à trente ou quarante cents seulement. Or
-nous devions de cent cinquante à deux cents dollars par mois.
-47 Comment aurais-je jamais pu y arriver? Mais je travaillais et je savais que je paierais. J’ai
-exercé mon ministère pastoral durant dix-sept ans sans jamais prélever un sou, mais en donnant
-tout ce que j’avais en dehors de mon nécessaire, et tout cela est tombé dans le petit tronc qui était
-au fond pour le Royaume de Dieu. Des gens prophétisèrent et prédirent que dans l’année même
-l’église serait transformée en garage!
-48 Satan essaya une fois de tout emporter par la brèche d’un procès. Quelqu’un réclama
-frauduleusement des dommages et intérêts, prétendant s’être blessé au pied en travaillant, mais il
-n’en avait rien dit d’abord; puis il nous intenta un procès, cherchant à s’emparer du Tabernacle.
-Pendant des semaines je suis resté ferme à mon poste et en dépit de tous ces malentendus et
-prédictions et de tout ce qui fut dit, il demeure aujourd’hui comme étant l’une des plus belles salles
-et l’une des plus belles églises des Etats-Unis. C’est vrai.
-49 D’ici, la Parole du Dieu Vivant s’en est allée jusqu’au bout du monde. Elle a fait le tour du
-monde visitant chaque nation sous le ciel (à notre connaissance), tout autour du monde. Soyons
-reconnaissants pour cela. Et maintenant que nous avons un endroit où nous pouvons nous tenir,
-un toit au-dessus de notre tête, une belle église bien propre pour nous réunir, consacrons-nous
-nous-mêmes de nouveau pour le service de Christ.
-50 Le frère Neville, notre cher frère, un véritable pasteur, serviteur du Dieu Vivant, s’accroche de
-toutes ses forces au message selon la mesure de sa connaissance. C’est un brave homme; il est
-si bon qu’il ne peut jamais se résoudre à élever la voix pour parler sévèrement et dire par exemple:
-«Asseyez-vous!» ou «Restez tranquilles!». J’ai remarqué cela et j’ai écouté les bandes après lui.
-51 Mais moi je peux faire cela. Alors je vous demande de vous rappeler que ce sont mes paroles
-et que tout cela est enregistré. Je prie chacun des diacres de rester à son poste et de faire son
-devoir; et vous les diacres, rappelez-vous que vous êtes désignés par Dieu pour tenir ce rôle
-consacré; c’est pareil pour vous les administrateurs.
-52 Ce n’est pas le rôle du pasteur de dire ces choses, c’est celui des diacres car ce sont eux qui
-sont la police de l’église. Par exemple, si des jeunes gens viennent de l’extérieur et se mettent à
-klaxonner (vous savez comme ils ont l’habitude de faire) ou font quelque chose de ce genre aux
-réunions; ou si une mère envoie sa fille ici et que cette fille file en voiture avec un voyou, alors que
-sa mère croit qu’elle est à l’église, c’est au diacre à s’en occuper et à dire: «Ou bien vous entrez et
-vous vous asseyez, ou bien je vous ramène moi-même chez votre mère dans ma voiture». C’est
-ainsi que vous devez agir.
-53 Rappelez-vous que l’amour corrige toujours. L’amour authentique est correctif. Ainsi, vous
-devez pouvoir supporter la correction. Les mères savent maintenant qu’il y a ici un endroit pour les
-bébés. Vous les enfants savez bien que vous ne devez plus courir à travers le bâtiment. Vous les
-adultes savez que vous ne devez pas causer ou continuer vos conversations dans la salle. Ne le
-faites pas: c’est mal. Cela n’est pas agréable à Dieu.
-54 Jésus disait: “N’est-il pas écrit: Ma maison sera appelée une maison de prière pour toutes les
-nations?”. Et ils y achetaient et y vendaient! Ayant fait un fouet avec des cordes, Il les chassa du
-Temple. Nous ne voulons certainement pas que cela arrive dans notre sanctuaire. Ainsi
-consacrons donc au Royaume de Dieu nos vies, notre église, nos devoirs, notre service et tout ce
-que nous possédons.
-55 Maintenant je vais lire une portion de l’Ecriture avant de prononcer la prière de consécration.
-Vous savez que c’est seulement une reconsécration parce que la réelle consécration a eu lieu il y
-a trente ans. Ainsi, si nous lisons l’Ecriture et la commentons pendant quelques minutes j’ai
-confiance que Dieu nous bénira.
-56 Et maintenant, oui, il y a autre chose que je désire annoncer. Nous avions l’habitude
-d’enregistrer le message et maintenant il y a une salle spéciale pour le faire. Là se trouvent des
-enregistreurs qui sont raccordés directement au micro principal.
+12 Ainsi donc, si notre Seigneur nous a donné un endroit où nous pouvons L’adorer… il est beaucoup mieux qu’il y a trente ans environ où nous commençâmes avec un sol de terre battue recouvert de sciure de bois et où nous étions assis près de vieux petits fourneaux à charbon. L’entrepreneur, le frère Wood, ainsi que le frère Roberson me dirent que ces vieux fourneaux finirent par mettre le feu aux piliers qui brûlèrent d’ailleurs sur deux ou trois pieds. Pourquoi n’ont-ils pas brûlé complètement? Dieu seul les garda. Et après avoir brûlé, tout le poids du Tabernacle reposant sur eux, pourquoi ne s’effondra-t-il pas? Seule la main de Dieu l’en empêcha! Maintenant tout est construit en acier et repose sur terre ferme. Tout est construit solidement.
 
-        http://www.cmpp.ch
+13 Je pense que c’est notre devoir aujourd’hui de faire en sorte que par la grâce de Dieu l’intérieur soit également juste afin de montrer notre reconnaissance à Dieu; il ne suffit pas seulement d’avoir une belle construction dans laquelle nous nous réunissons mais il faudrait que chacun de ceux qui entrent puisse voir les beaux traits caractéristiques de Jésus-Christ en chaque personne qui s’y trouve.
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 8
-57 Il y a aussi des salles, des robes et tout ce qu’il faut pour les baptêmes. Une chose encore:
-quelques-uns (ceux qui ne connaissent pas vraiment l’Ecriture) m’en ont voulu à cause du crucifix
-qui se trouve dans l’église. Je me rappelle ce qui est arrivé une fois à ce sujet; j’avais trois croix et
-un frère fut choqué parce qu’il avait entendu dire par une dénomination que le crucifix était un
-symbole catholique.
-58 Qu’aucun étudiant de la Bible ou chrétien né de nouveau dise que les Catholiques ont le
-monopole du crucifix. Le crucifix ne représente nullement le catholicisme. Nous croyons qu’il y a
-un seul Médiateur entre Dieu et l’homme, et que c’est Christ; mais les Catholiques croient
-en toutes sortes de médiateurs, en des milliers d’hommes, de femmes et autres choses.
-Presque n’importe quel bon Catholique qui meurt devient un intercesseur. Mais le crucifix de
-Christ représente Jésus-Christ.
-59 Savez-vous que les premiers chrétiens, d’après l’histoire de l’église primitive, portaient des
-croix sur leur dos partout où ils allaient pour montrer et témoigner qu’ils étaient Chrétiens? Les
-Catholiques prétendent que c’est eux qui faisaient ainsi. Bien entendu ils prétendent avoir été les
-premiers, mais l’église Catholique n’était même pas encore organisée au moment où les chrétiens
-portaient la croix.
-60 Vous avez entendu des gens appeler les chrétiens: “Porte-croix” (Crossback). Cela se
-réfère-t-il aux Catholiques? Non! Ce sont les vrais catholiques, L’EGLISE UNIVERSELLE DU
-SAINT-ESPRIT. Nous sommes des catholiques, des catholiques originels, des catholiques croyant
-à la Bible, les autres sont l’organisation Catholique. Nous, nous sommes libérés de cela. Nous
-sommes la continuation de la doctrine des Apôtres. Nous sommes la continuation du baptême du
-Saint-Esprit et de toutes les choses que l’église primitive possédait; mais l’église Catholique n’a
-rien de tout cela.
-61 Ainsi donc, on a dressé ici le crucifix qui avait été apporté. Il a été taillé dans le bois des
-oliviers sous lesquels Jésus avait prié; ce crucifix m’a été donné par le frère Arganbright et je veux
-le consacrer avec cette église… il a été placé au bon endroit, endroit choisi par celui qui l’a
-suspendu (je ne sais pas qui c’était) là, à ma gauche. “Il pardonna au voleur qui était à sa droite”:
-c’est moi.
-62 Il représente aussi autre chose: de même que Sa tête était penchée, laissant voir Sa
-souffrance, de même Il regarde par-dessus l’autel et Il vous attend là, vous tous, pécheurs. Ses
-regards se poseront sur vous! Plus tard on installera une lampe afin qu’au moment de l’appel à
-l’autel une lumière brille sur ceux qui s’y grouperont.
-63 Vous direz: «Pourquoi avez-vous besoin de cela? Vous ne devriez pas avoir une image!».
-Très bien, mais le même Dieu qui a dit: “Tu ne te feras point d’images taillées” a aussi dit: “Tu
-feras deux chérubins d’or… couvrant de leurs ailes le propitiatoire, le siège de miséricorde devant
-lequel le peuple prie”. Vous voyez, c’est quelque chose qu’on ne peut pas comprendre! Vous
-voyez que c’est inspiré et que le crucifix a tout de suite été suspendu à sa bonne place, et je suis
-si reconnaissant d’être celui qui est à Sa droite!
-64 Je crois qu’Il m’a pardonné, car pour ce qui est d’avoir littéralement volé quelque chose, je
-puis affirmer que je ne l’ai jamais fait de ma vie, à ma connaissance; mais j’ai tellement gaspillé
-Son temps que c’est de cette façon que je L’ai volé. J’ai fait beaucoup de choses que je n’aurais
-pas dû faire, mais je suis reconnaissant à Dieu ce matin de ce qu’Il ait pardonné mes péchés.
-65 Maintenant je désire lire 1 Chroniques 17 et parler environ cinq minutes pour le service de
-consécration; puis nous prierons et nous entrerons dans le message.
-       “Lorsque David fut établi dans sa maison, il dit à Nathan le prophète: Voici, j’habite
-     dans une maison de cèdre, et l’arche de l’alliance de l’Eternel est sous une tente. Nathan
-     répondit à David: Fais tout ce que tu as dans le coeur, car Dieu est avec toi.
-       La nuit suivante, la parole de Dieu fut adressée Nathan: Va dire à mon serviteur
-     David: Ainsi parle l’Eternel: Ce ne sera pas toi qui me bâtiras une maison pour que j’en
-     fasse ma demeure. Car je n’ai point habité dans une maison depuis le jour où j’ai fait
-     monter Israël jusqu’à ce jour; mais j’ai été de tente en tente, et de demeure en demeure.
-     Partout où j’ai marché avec tout Israël, ai-je dit un mot à quelqu’un des juges d’Israël à
-     qui j’avais ordonné de paître mon peuple, ai-je dit: Pourquoi ne me bâtissez-vous pas
-     une maison de cèdre? Maintenant, tu diras à mon serviteur David: Ainsi parle l’Eternel
+14 Que cela puisse être un endroit consacré à notre Seigneur, un peuple consacré, car il importe peu que la construction soit belle (ce que nous apprécions certainement), mais il faut que ce soit le caractère des fidèles qui fasse la beauté de l’église. J’espère que ce sera toujours une maison de Dieu marquée par cette beauté-là.
 
-        http://www.cmpp.ch
+15 À l’occasion de la pose de la première pierre, une glorieuse vision me fut donnée; elle a été écrite et placée dans la pierre d’angle le matin où je la consacrai.
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 9
-     des armées: Je t’ai pris au pâturage, derrière les brebis, pour que tu fusses chef de mon
-     peuple d’Israël; j’ai été avec toi partout où tu as marché, j’ai exterminé tous tes ennemis
-     devant toi et j’ai rendu ton nom semblable au nom des grands qui sont sur la terre”.
-66 J’aimerais dire ici que David vit la même chose que nous avons vue. David disait: “Il n’est pas
-convenable que vous m’ayez construit une maison de cèdre et que l’Arche de l’alliance de l’Eternel
-soit encore sous une tente” (faite de peaux de mouton et d’autres animaux cousues ensemble). Il
-disait: “Il n’est pas juste d’avoir une belle maison pour moi alors que l’Arche de l’alliance de mon
-Dieu demeure dans une tente!”.
-67 Ainsi, Dieu lui mit à coeur de bâtir un tabernacle. Mais David, bien qu’étant un homme plein
-d’amour et consacré à Dieu, avait cependant répandu trop de sang. David avait parlé en présence
-du prophète de cet âge qui était Nathan. Nathan, sachant que Dieu aimait David, lui répondit: “Fais
-tout ce que tu as dans le coeur, car Dieu est avec toi”. Quelle déclaration! “Fais tout ce que tu as
-dans le coeur, car Dieu est avec toi”.
-68 Et cette même nuit, voyant la consécration de David dans l’amour de Dieu et sachant que
-Nathan était dans l’erreur car il n’avait pas la permission de faire cela, Dieu dans Sa grâce
-descendit et parla à Nathan. J’ai toujours aimé ces paroles: “Va dire à mon serviteur David: Je t’ai
-pris au pâturage derrière les brebis”. Il n’était rien!
-69 J’aimerais appliquer ceci à mon cas: «Je t’ai pris de rien et je t’ai donné un nom; tu as reçu un
-nom semblable au nom des grands de ce monde». Pour expliquer cela, je vais vous faire une
-confidence de manière à en tirer un enseignement.
-70 Je repensais à l’époque où personne dans cette ville ne se souciait de moi; personne ne
-m’aimait; j’aimais les gens mais personne ne m’aimait à cause des antécédents de ma famille. Je
-dis cela sans la moindre animosité envers mes chers parents. Combien j’aimerais que ma mère
-vive encore pour entrer ce matin dans ce sanctuaire!
-71 Peut-être que Dieu permet ce matin à plusieurs vétérans qui ont donné leur argent pour
-participer à cette construction de regarder par-dessus la balustrade des cieux.
-72 La famille Branham, elle, n’avait pas bonne réputation dans le pays à cause de la boisson.
-Personne ne voulait avoir affaire à moi. Je me souviens d’avoir dit à ma femme il n’y a pas
-longtemps: «Tu te rappelles que je ne trouvais ici personne qui veuille me parler. Personne ne se
-souciait de moi; tandis que maintenant je dois me cacher pour pouvoir me reposer un peu».
-73 Mais maintenant le Seigneur nous a donné ce bel édifice et ces choses glorieuses qu’Il a
-faites. Il m’a donné, à côté de mon nom de mauvaise réputation, un nom comme en portent de
-grands hommes et Il a retranché mes ennemis partout où je suis allé. Jamais rien n’a pu Lui
-résister, combien j’en suis reconnaissant!
-74 Et comment aurais-je jamais pu savoir (alors que je n’étais qu’un petit écolier déguenillé de
-l’école d’Ingramville où j’étais la risée de toute l’école tant j’étais misérable, et que je patinais sur
-l’étang), comment aurais-je pu savoir qu’au-dessous de cet étang reposait la graine d’un lis qui
-fleurirait de la sorte? Et comment aurais-je pu savoir, alors que personne ne me parlait encore,
-qu’Il me donnerait un nom qui serait honoré parmi Son peuple?
-75 Il ne fut donc pas permis à David de construire le temple. Il ne le put pas. Mais Dieu dit: “Je te
-susciterai une semence qui bâtira le temple, et ce temple sera un temple éternel et ton fils, le Fils
-de David, aura l’autorité sur un Royaume éternel”. Salomon, le fils de David selon la chair, bâtit un
-temple au Seigneur avec sa force naturelle. Mais quand la vraie semence de David, le Fils de
-David, vint Il leur dit qu’un jour viendrait où il ne resterait plus pierre sur pierre de ce temple; Il
-essayait d’attirer leur attention sur un autre temple.
-76 Dans l’Apocalypse, Jean vit ce tabernacle (chapitre 21). Il vit le nouveau temple descendre
-des cieux, paré comme une épouse qui s’est parée pour son époux et une voix venant du temple
-disait: “Voici le tabernacle de Dieu parmi les hommes. Dieu habitera avec eux, et il essuiera toute
-larme de leurs yeux, et la mort ne sera plus, et il n’y aura plus ni deuil, ni cris, ni douleurs, car les
-premières choses sont passées”.
-77 Alors le véritable Fils de David (comme nous le verrons dans les messages de cette semaine)
-viendra dans Son temple, le temple de Dieu, le vrai Tabernacle qu’Il est allé construire maintenant.
-Car il est dit dans Jean 14: “Il y a plusieurs demeures dans la maison de mon Père, et je vais vous
+16 Vous vous êtes peut-être demandé il y a quelques minutes pourquoi je suis en retard ce matin. Mon premier devoir lorsque j’entrai dans cette nouvelle église fut de marier un jeune homme et une jeune fille qui étaient venus à mon bureau pour cela. Que cela puisse être un symbole de ce que je serai un loyal ministre de Christ préparant Son Épouse pour les cérémonies du jour à venir.
 
-        http://www.cmpp.ch
+17 Et maintenant procédons comme nous l’avons fait au commencement quand nous avons consacré la première église. Je n’étais qu’un jeune homme. Je pouvais avoir vingt-et-un ou vingt-deux ans quand nous posâmes la première pierre. C’était avant que je fusse marié. Je voulais toujours avoir pour Dieu un endroit parfaitement en ordre afin que Son peuple pût l’y adorer. Et nous pouvons le faire, non pas au moyen d’une belle construction seulement mais par une vie consacrée. C’est le seul moyen.
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 10
-préparer une place”. Que voulait-Il dire par cela? Cela a déjà été ordonné à l’avance: “… et lorsque
-je m’en serai allé, que je vous aurai préparé une place, je reviendrai et je vous prendrai avec moi”.
-Naturellement nous savons que cela sera dans l’âge glorieux à venir. La vraie semence de David,
-qui est Jésus-Christ, montera sur le trône et là Il régnera sur l’Eglise, Son Epouse, qui sera dans la
-maison avec Lui, et sur les douze tribus d’Israël pendant toute l’Eternité.
-78 Quant à ce petit tabernacle… David ne pouvait pas construire le vrai tabernacle de Dieu parce
-qu’il n’était pas préparé pour le faire; il ne pouvait rien faire, étant un mortel qui avait répandu le
-sang.
-79 Ainsi en est-il de nous aujourd’hui; nous ne pouvons pas construire un vrai Tabernacle de
-Dieu. Un Seul peut le faire, et Il est en train de le construire maintenant. Mais ce petit tabernacle,
-de même que le temple que Salomon Lui a construit, de même que tous les autres, ne sont que
-des lieux d’adoration temporaires, valables jusqu’au jour où le vrai Tabernacle sera élevé sur la
-terre; alors la justice régnera partout, et il n’y aura plus de douleurs. Il n’y aura plus d’oraisons
-funèbres prêchées dans ce tabernacle, il n’y aura plus de célébrations de mariages, mais une
-seule grande noce pour l’Eternité. Quel jour glorieux ce sera!
-80 En attendant la venue de cet autre Tabernacle prenons dès maintenant la résolution dans nos
-coeurs d’être tellement marqués du sceau de Son Esprit que nous adorions en ce lieu-ci comme si
-nous étions déjà dans le Tabernacle à venir.
-81 Maintenant levons-nous pendant que je lis la Sainte Ecriture. Apocalypse 21.1-3.
-       “Et je vis un nouveau ciel et une nouvelle terre; car le premier ciel et la première terre
-     s’en étaient allés, et la mer n’est plus. Et je vis la sainte cité, nouvelle Jérusalem,
-     descendant du ciel d’auprès de Dieu, préparée comme une épouse ornée pour son mari.
-     Et j’ouïs une grande voix venant du ciel, disant: Voici, l’habitation de Dieu est avec les
-     hommes, et il habitera avec eux; et ils seront son peuple, et Dieu lui-même sera avec
-     eux, leur Dieu”.
-82 Courbons nos têtes maintenant. Notre Père céleste, nous nous tenons dans la crainte, nous
-sommes dans le respect, dans une sainte déférence et nous Te prions, Seigneur, d’agréer le don
-que Tu nous as fait: par grâce, en argent, nécessaire pour bâtir un lieu d’adoration pour Toi. Il n’y a
-rien, aucun endroit, que nous puissions préparer sur la terre qui soit digne d’être une demeure
-pour l’Esprit de Dieu, mais nous T’offrons ceci en témoignage de notre amour et de nos sentiments
-envers Toi, Seigneur, et nous Te remercions pour tout ce que Tu as fait pour nous.
-83 La construction et l’emplacement ont été consacrés pour le service il y a longtemps; et nous
-Te remercions pour le souvenir de ce qui s’est passé. Seigneur Dieu, tout est conforme à la vision
-que Tu nous as donnée il y a des années de cela: vision dans laquelle j’ai vu une vieille maison
-réparée et remise à neuf; après cela Tu m’as envoyé de l’autre côté de la rivière.
-84 Ainsi donc, Seigneur Dieu, Créateur du ciel et de la terre, nous sommes le peuple de Ta
-bergerie, le peuple de Ton Royaume, et avec moi-même et le pasteur, l’église et le peuple, nous
-consacrons cette maison au service du Dieu Tout-Puissant, au Nom de Jésus-Christ Son Fils, pour
-le service de Dieu et dans la vénération de notre Dieu. Et puisse l’Evangile se répandre à partir de
-ce lieu de telle façon qu’il attire les gens des quatre coins du monde pour voir se manifester de ce
-lieu la gloire de Dieu. Et que ce que Tu as fait dans le passé soit encore multiplié dans l’avenir.
-85 Père, nous nous consacrons maintenant nous-mêmes avec tout ce qui est en nous pour le
-service de la Parole. Seigneur, la communauté et le peuple se consacrent aussi eux-mêmes ce
-matin pour écouter la Parole; et nous, les prédicateurs, nous nous consacrons pour la prédication
-de la Parole, pour insister en toute occasion, favorable ou non, redressant, reprenant avec
-beaucoup de patience comme cela fut écrit et déposé ici dans la pierre d’angle il y a trente ans. Tu
-as dit Toi-même que le temps viendrait où les hommes ne voudraient plus supporter la saine
-doctrine, mais ayant la démangeaison d’entendre des choses agréables, se donneraient une foule
-de docteurs selon leurs propres désirs, détourneraient l’oreille de la vérité et se tourneraient vers
-des fables.
-86 Seigneur, nous avons essayé de transmettre la Parole aux gens; puissions-nous être inspirés
-et fortifiés pour un redoublement d’efforts, Seigneur; qu’une double portion de Ton Esprit se
-répande sur cet endroit comme il en a été au jour de la dédicace du temple, quand Salomon priait
-et que le Saint-Esprit, sous la forme d’une colonne de feu et de nuée, entra par la porte principale,
+18 Et avant de prononcer la prière de dédicace nous lirons quelques passages de l’Écriture et nous consacrerons de nouveau l’église de Dieu, puis je donnerai ce matin un message d’évangélisation pour introduire le message qui suivra.
 
-        http://www.cmpp.ch
+19 Ce soir je désire étudier le cinquième chapitre de l’Apocalypse qui relie les sept Âges de l’Église aux sept Sceaux. Puis nous aurons lundi soir le cavalier au cheval blanc; mardi soir, le cavalier au cheval noir et ainsi de suite, les quatre cavaliers. Puis le sixième Sceau étant ouvert nous aurons dimanche matin, si Dieu le permet, une réunion de prière pour les malades dans cette salle. Et puis dimanche soir nous terminerons. Que le Seigneur nous aide à ouvrir le septième Sceau qui ne comprend qu’un seul verset disant: “Et lorsqu’il ouvrit le septième sceau, il se fit un silence au ciel d’environ une demi-heure”. Ce silence…
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 11
-tourna autour des chérubins et alla dans le Lieu Très-Saint pour occuper Son lieu de repos.
-87 O mon Dieu, Salomon disait: “Si Ton peuple est en difficulté en quelque endroit, s’il T’adresse
-des prières les regards tournés vers cette sainte maison, alors exauce-le du haut des Cieux!”.
-Seigneur, que le Saint-Esprit ce matin entre dans chaque coeur, dans chaque âme consacrée qui
-est ici; et la Bible dit que la gloire de l’Eternel était si grande que les sacrificateurs ne purent même
-pas entrer pour faire le service.
-88 O Seigneur Dieu! Que cela se répète une fois encore pendant que nous nous donnons
-nous-mêmes à Toi avec cette église, nous consacrant pour Ton service. Il est écrit: “Demandez et
-vous recevrez” et ce matin nous nous engageons nous-mêmes envers Toi pour le service, avec
-notre offrande de l’église, afin qu’en ce temps de la Lumière du soir pour le dernier jour nous
-puissions apporter consolation et foi au peuple qui attend que l’Epoux vienne préparer une Epouse
-conforme à l’Evangile de Christ afin que le Seigneur Jésus puisse la recevoir. Voici quels sont
-ceux que nous consacrons: moi-même, frère Neville et cette assemblée pour le service de Dieu au
-Nom de Jésus-Christ. Amen. Vous pouvez vous asseoir.
-89 David disait: “Je suis dans la joie quand on me dit: Allons à la maison de l’Eternel!”. Qu’il en
-soit toujours ainsi pour nous; que nous soyons heureux de nous rassembler dans la maison de
-l’Eternel. Amen!
-90 Après ce petit service de consécration il me reste encore une heure. Rappelez-vous
-maintenant que nous sommes consacrés: au respect, à la sainteté, à la tranquillité devant le
-Seigneur; adorez le Seigneur et soyez aussi respectueux que possible dans Sa maison. Et quand
-la réunion sera terminée, sortez de la salle immédiatement afin de donner au concierge le temps
-de la nettoyer et de la préparer pour la prochaine réunion. Ainsi il n’y aura point de confusion dans
-la maison du Seigneur.
-91 Je pense que la salle devrait pouvoir être évacuée dans le quart d’heure qui suit le service. Ne
-manquez pas d’être aimables, de serrer toutes les mains; invitez chacun à revenir! Nous nous
-attendons à avoir durant la semaine qui vient des réunions parmi les plus solennelles qui aient
-jamais été tenues dans ce tabernacle; nous nous en réjouissons!
-92 J’ai commencé à voir quelque chose de tout nouveau la nuit dernière tandis que je priais vers
-le matin. Aussi je crois que nous allons avoir des moments glorieux si le Seigneur nous vient en
-aide. Mais j’en parlerai encore ce matin.
-93 Vous savez que ce que les hommes appellent “grand” n’est quelquefois pas grand du tout;
-mais ce que Dieu appelle “grand”, les hommes, eux, l’appellent “folie”; et ce que Dieu appelle
-“folie”, les hommes l’appellent “grand”. Souvenons-nous de cela. Pesons chaque mot.
-94 Les réunions sont longues et seront encore prolongées car les sujets sont difficiles: il y a
-beaucoup d’enseignement, de consécration. Là où j’habite les gens sont très aimables et m’offrent
-toutes sortes de choses à manger, me disant: «Frère Branham, vous avez beaucoup maigri!…»,
-mais c’est parce que je suis tout le temps à la tâche. Je dois partir d’ici dimanche soir pour
-continuer tout de suite au Mexique; c’est fatigant. Mais j’essaie de ne pas trop manger et travaille
-de manière à être prêt.
-95 Je suis heureux ce matin de voir le frère Junior Jackson, le frère Ruddle et d’autres pasteurs
-autour de moi; que Dieu vous bénisse tous.
-96 Je veux vous parler ce matin sur un sujet en vue duquel j’ai pris quelques notes. Je désire
-d’abord lire Ésaïe 53. Pendant que vous cherchez ce passage, je vais faire une ou deux annonces.
-Ce soir je parlerai sur ce Livre pour faire un pont reliant le dernier âge de l’Eglise avec l’ouverture
-des Sceaux. Il y a un grand intervalle entre ces deux choses.
-97 Quand j’eus terminé les Ages de l’Eglise je parlai aussi là-bas immédiatement après des
-Soixante-dix Semaines de Daniel parce que cela s’y rapporte. Je me disais: «Maintenant si jamais
-je parle des sept Sceaux, il faudrait d’abord parler de ces Soixante-dix Semaines de Daniel afin de
-pouvoir les relier aux Sceaux, laissant quelque chose d’ouvert». C’était le 5ème chapitre du Livre
-des sept Sceaux et c’est par-là que nous commencerons ce soir.
-98 Nous essayerons de commencer de bonne heure ce soir. Est-ce que tout le monde peut être
-ici aux environs de sept heures? Très bien! Alors commençons les réunions à six heures trente par
-les cantiques et je serai là vers sept heures. Ainsi toute la semaine nous commencerons de bonne
+20 Je ne sais pas ce que signifient ces Sceaux. Je n’en sais pas davantage à leur sujet ce matin que certains d’entre vous. Nous avons des idées théologiques qui ont été émises par des hommes mais cela ne pourra jamais être juste. Si vous voulez savoir, cela doit être donné par inspiration; cela doit provenir de Dieu Lui-même, le seul qui puisse le faire, Lui, l’Agneau; et ce soir nous examinerons le Livre de la Rédemption.
 
-        http://www.cmpp.ch
+21 La raison pour laquelle je n’annonce pas de réunions de prière pour les malades est que je demeure chez des amis et que je réserve tout mon temps à l’étude et à la prière. Vous connaissez la vision de ces sept anges que j’ai eue à l’ouest juste avant de venir et vous comprendrez un peu plus tard.
 
-    LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE    12
+22 Ainsi dans cette salle, une fois qu’elle aura été dédicacée (ce que nous allons faire dans quelques minutes pour l’adoration de Dieu), nous ne devrions jamais l’utiliser pour y vendre ou acheter quoi que ce soit.
+
+23 Nous ne devrions jamais y faire de commerce, comme par exemple permettre à des prédicateurs d’y vendre des livres ou d’autres choses; peu importe ce que c’est, il y a d’autres endroits pour le faire. Nous ne devons jamais acheter ou vendre dans la maison du Seigneur; ce devrait être un lieu d’adoration, saint, consacré à cet effet. Il nous a donné un bel endroit; dédions-le Lui et consacrons-nous nous-mêmes à Lui en même temps.
+
+24 Bien sûr, ceci semblera un peu dur à entendre, mais ce lieu n’est pas un endroit que l’on vient visiter; c’est un lieu d’adoration. Nous ne devrions même jamais murmurer un seul mot ici à l’intérieur en dehors de l’adoration, à moins que ce ne soit absolument nécessaire. Nous ne devrions jamais nous appeler, circuler ou laisser courir nos enfants dans cette salle.
+
+25 En ce faisant et sentant depuis peu que cela devait être ainsi nous l’avons construit en prenant garde à ces choses. Naturellement beaucoup viennent de l’extérieur. L’assemblée de ce Tabernacle, elle, sait que ce bâtiment va être dédicacé pour le service du Tout-Puissant.
+
+26 Par conséquent, nous étant nous-mêmes consacrés, rappelons-nous que lorsque nous entrons dans ce sanctuaire nous devons rester silencieux et y adorer Dieu. Si nous voulons nous rendre visite les uns aux autres nous pouvons le faire ailleurs, mais ne venez pas en ce lieu pour y faire du bruit empêchant les autres d’entendre leurs propres pensées. Ceux qui en entrant y entendraient tout ce bruit ne sauraient plus que faire; tout deviendrait charnel.
+
+27 J’ai vu cela dans les églises et j’en ai été réellement peiné. Nous ne venons pas dans le sanctuaire du Seigneur pour nous rencontrer les uns les autres; nous venons ici pour adorer Dieu. Ensuite nous rentrons chez nous. Ce sanctuaire est dédié à l’adoration. Restez dehors et parlez tant que vous voudrez à condition que ce soit juste et saint; rendez-vous visite dans vos maisons mais quand vous passez cette porte gardez le silence.
+
+28 Vous venez ici pour Lui parler et pour qu’Il vous parle. Le malheur, c’est que nous parlons beaucoup et n’écoutons pas assez. C’est pourquoi quand nous venons ici écoutons-Le.
+
+29 Ce matin, il n’y a peut-être ici aucune personne qui ait été présente le jour de la dédicace de l’ancien Tabernacle quand le Major Ulrich faisait de la musique et que je me tenais ici derrière trois croix pour le service de dédicace.
+
+30 Les diacres se tenaient à la porte pour veiller à ce que personne ne parlât. N’entrez que lorsque vous avez fini vos conversations. Si vous le désirez vous allez discrètement à l’autel et vous priez dans le silence. Puis vous retournez à votre place, vous ouvrez la Bible. Ce que fait votre voisin cela le regarde! Vous n’avez rien à dire. Si vous voulez lui parler, dites-vous: «Je le verrai dehors. Je suis ici pour adorer le Seigneur». Lisez Sa Parole ou restez assis tranquillement.
+
+31 Au sujet de la musique, je ne sais pas si soeur Gertie est ici ce matin, ou soeur Gibbs. Si je m’en souviens bien, le vieux piano était placé là dans le coin. Et la soeur jouait doucement: «Là-bas, à la Croix où mon Sauveur mourut», une musique douce et mélodieuse, jusqu’à ce qu’arrive le moment du culte et que le conducteur du chant se lève pour diriger les cantiques; et s’il y avait eu un solo intéressant il aurait pu être chanté. Mais jamais de spectacle!
+
+32 La musique jouait sans discontinuer; alors je comprenais que c’était pour moi le moment de venir. Quand un prédicateur entre dans une église en prière et qu’il y a l’onction du Saint-Esprit, vous êtes sûr que le Ciel vous parlera. Rien de L’en empêchera. Mais si vous entrez dans la confusion vous serez confus et l’Esprit est attristé.
+
+33 Nous ne voulons pas de cela, oh non! Nous voulons entrer ici pour adorer. Nous avons des foyers confortables dont je vais parler dans un instant où nous pouvons voir nos amis et où nous pouvons les inviter. Ici, c’est la Maison du Seigneur.
+
+34 Il y a aussi les petits enfants, les bébés. Leur seul moyen d’obtenir ce qu’ils désirent est de crier; ils ne connaissent rien d’autre. Quelquefois c’est parce qu’ils ont soif ou alors ils ont besoin de soins. C’est pour cela que nous avons par la grâce de Dieu une pièce réservée, une garderie. Elle se trouve juste en face de moi. C’est là que les mamans peuvent amener leurs bébés.
+
+35 Ils ne me gêneront peut-être pas quand je suis en chaire; il se peut même que je ne les remarque pas étant sous l’Onction; mais il y a d’autres personnes qui sont assises à côté d’eux et que cela dérange. Or elles sont venues pour écouter la prédication.
+
+36 C’est pourquoi je dis aux mamans: si vos petits enfants commencent à pleurnicher vous n’y pouvez rien. Et une vraie mère veut amener ses enfants à l’église et c’est la bonne chose à faire. Voilà pourquoi nous avons une pièce ici d’où vous pouvez voir tous les coins de la salle, tout l’auditoire, et où il y a un haut-parleur que vous pouvez régler. Il y a de petites toilettes dans un coin, un lavabo et toutes les facilités. Il y a des chaises pour vous asseoir et un endroit pour changer votre bébé si c’est nécessaire. Tout a été prévu.
+
+37 Et puis souvent des adolescents, quelquefois aussi des adultes, peuvent y aller. Vous savez, les jeunes gens aiment échanger quelques billets et faire une petite pause dans l’écoute. Mais vous, vous êtes assez âgés pour savoir vous tenir tranquilles. Si vous voulez devenir véritablement un homme et élever une famille pour le Royaume de Dieu, alors commencez dès maintenant à bien agir et à bien vous conduire.
+
+38 Il y a dans la salle des diacres qui sont chargés de l’ordre. Au cas où quelqu’un se conduirait mal ils ont reçu l’ordre de dire à cette personne de rester tranquille.
+
+39 Et si ces personnes n’ont pas ce respect il vaudrait mieux qu’elles laissent leur place à quelqu’un d’autre parce qu’il y en a d’autres qui désirent écouter. Celui qui vient ici le fait dans l’intention d’écouter et la raison pour laquelle nous sommes ici c’est pour écouter la Parole du Seigneur. Et alors chacun désire L’écouter et veut pouvoir le faire aussi tranquillement que possible, c’est-à-dire sans bavardages ni scandales.
+
+40 Naturellement nous nous attendons à ce que quelqu’un se mette à adorer le Seigneur, nous nous y attendons! C’est juste, c’est la raison pour laquelle vous êtes ici; c’est pour adorer le Seigneur. Oui, si vous sentez que vous devez adorer Dieu ou entonner un cantique, allez-y car vous êtes ici pour cela, pour adorer le Seigneur à votre manière; mais si vous parlez ou vous passez mutuellement des billets, vous aidez les autres à s’éloigner de l’adoration du Seigneur.
+
+41 Nous sentons bien que cela ne serait pas bien! Et nous aimerions que ce soit pour notre assemblée une règle que ce bâtiment, que cette église soit consacrée au Royaume de Dieu et à la prédication de la Parole: Priez! Adorez! La raison pour laquelle vous devriez venir ici, c’est pour y adorer.
+
+42 Autre chose: Quand la réunion est terminée, habituellement les gens dans l’église… mais je ne crois pas que ce soit le cas ici. Je m’en vais généralement avant la fin car l’onction vient et les visions apparaissent et je suis épuisé; je me retire dans la chambre à côté et soit Billy soit quelqu’un d’autre doit me conduire à la maison pour que je m’y repose un moment jusqu’à ce que cette fatigue s’en aille car c’est pour moi une grande tension.
+
+43 Mais j’ai vu cependant dans quelques églises qu’il était permis aux enfants de courir partout dans le sanctuaire et que d’un bout à l’autre de la salle les adultes s’interpellaient les uns les autres. Voilà un bon moyen de détruire les réunions présentes ou futures!
+
+44 Aussitôt que le service est terminé, quittez la salle; l’adoration est alors terminée. Sortez et parlez et faites ce que vous voulez. Si vous voulez voir quelqu’un ou lui parler, sortez avec lui ou allez chez lui mais ne faites pas cela dans la salle. Consacrons cet endroit à Dieu; c’est Son lieu de rencontre, là où nous Le rencontrons, et la Loi vient du sanctuaire bien sûr. Je crois que c’est cela qui est agréable à notre Père céleste.
+
+45 Ainsi donc, lorsque vous venez et découvrez que ces dons sont en train de venir parmi vous… Habituellement (j’espère que nous ne verrons jamais cela ici) quand les gens ont une nouvelle église ils commencent à devenir guindés; vous ne devez jamais faire cela car ici c’est un lieu d’adoration, c’est la maison du Seigneur. Et si les dons spirituels commencent à venir parmi vous…
+
+46 J’ai entendu dire que depuis que je suis parti, des gens de différentes régions du pays sont venus s’établir ici. J’en suis reconnaissant à Dieu car je crois que le matin où j’ai consacré et posé la première pierre ici (j’étais alors un jeune homme), j’ai prié pour qu’elle dure jusqu’à la venue du Seigneur Jésus-Christ. Et en ce temps-là je devais des milliers de dollars, et l’offrande dans une assemblée de la grandeur de celle-ci pouvait se monter à trente ou quarante cents seulement. Or nous devions de cent cinquante à deux cents dollars par mois.
+
+47 Comment aurais-je jamais pu y arriver? Mais je travaillais et je savais que je paierais. J’ai exercé mon ministère pastoral durant dix-sept ans sans jamais prélever un sou, mais en donnant tout ce que j’avais en dehors de mon nécessaire, et tout cela est tombé dans le petit tronc qui était au fond pour le Royaume de Dieu. Des gens prophétisèrent et prédirent que dans l’année même l’église serait transformée en garage!
+
+48 Satan essaya une fois de tout emporter par la brèche d’un procès. Quelqu’un réclama frauduleusement des dommages et intérêts, prétendant s’être blessé au pied en travaillant, mais il n’en avait rien dit d’abord; puis il nous intenta un procès, cherchant à s’emparer du Tabernacle. Pendant des semaines je suis resté ferme à mon poste et en dépit de tous ces malentendus et prédictions et de tout ce qui fut dit, il demeure aujourd’hui comme étant l’une des plus belles salles et l’une des plus belles églises des États-Unis. C’est vrai.
+
+49 D’ici, la Parole du Dieu Vivant s’en est allée jusqu’au bout du monde. Elle a fait le tour du monde visitant chaque nation sous le ciel (à notre connaissance), tout autour du monde. Soyons reconnaissants pour cela. Et maintenant que nous avons un endroit où nous pouvons nous tenir, un toit au-dessus de notre tête, une belle église bien propre pour nous réunir, consacrons-nous nous-mêmes de nouveau pour le service de Christ.
+
+50 Le frère Neville, notre cher frère, un véritable pasteur, serviteur du Dieu Vivant, s’accroche de toutes ses forces au message selon la mesure de sa connaissance. C’est un brave homme; il est si bon qu’il ne peut jamais se résoudre à élever la voix pour parler sévèrement et dire par exemple: «Asseyez-vous!» ou «Restez tranquilles!». J’ai remarqué cela et j’ai écouté les bandes après lui.
+
+51 Mais moi je peux faire cela. Alors je vous demande de vous rappeler que ce sont mes paroles et que tout cela est enregistré. Je prie chacun des diacres de rester à son poste et de faire son devoir; et vous les diacres, rappelez-vous que vous êtes désignés par Dieu pour tenir ce rôle consacré; c’est pareil pour vous les administrateurs.
+
+52 Ce n’est pas le rôle du pasteur de dire ces choses, c’est celui des diacres car ce sont eux qui sont la police de l’église. Par exemple, si des jeunes gens viennent de l’extérieur et se mettent à klaxonner (vous savez comme ils ont l’habitude de faire) ou font quelque chose de ce genre aux réunions; ou si une mère envoie sa fille ici et que cette fille file en voiture avec un voyou, alors que sa mère croit qu’elle est à l’église, c’est au diacre à s’en occuper et à dire: «Ou bien vous entrez et vous vous asseyez, ou bien je vous ramène moi-même chez votre mère dans ma voiture». C’est ainsi que vous devez agir.
+
+53 Rappelez-vous que l’amour corrige toujours. L’amour authentique est correctif. Ainsi, vous devez pouvoir supporter la correction. Les mères savent maintenant qu’il y a ici un endroit pour les bébés. Vous les enfants savez bien que vous ne devez plus courir à travers le bâtiment. Vous les adultes savez que vous ne devez pas causer ou continuer vos conversations dans la salle. Ne le faites pas: c’est mal. Cela n’est pas agréable à Dieu.
+
+54 Jésus disait: “N’est-il pas écrit: Ma maison sera appelée une maison de prière pour toutes les nations?”. Et ils y achetaient et y vendaient! Ayant fait un fouet avec des cordes, Il les chassa du Temple. Nous ne voulons certainement pas que cela arrive dans notre sanctuaire. Ainsi consacrons donc au Royaume de Dieu nos vies, notre église, nos devoirs, notre service et tout ce que nous possédons.
+
+55 Maintenant je vais lire une portion de l’Écriture avant de prononcer la prière de consécration. Vous savez que c’est seulement une reconsécration parce que la réelle consécration a eu lieu il y a trente ans. Ainsi, si nous lisons l’Écriture et la commentons pendant quelques minutes j’ai confiance que Dieu nous bénira.
+
+56 Et maintenant, oui, il y a autre chose que je désire annoncer. Nous avions l’habitude d’enregistrer le message et maintenant il y a une salle spéciale pour le faire. Là se trouvent des enregistreurs qui sont raccordés directement au micro principal.
+
+57 Il y a aussi des salles, des robes et tout ce qu’il faut pour les baptêmes. Une chose encore: quelques-uns (ceux qui ne connaissent pas vraiment l’Écriture) m’en ont voulu à cause du crucifix qui se trouve dans l’église. Je me rappelle ce qui est arrivé une fois à ce sujet; j’avais trois croix et un frère fut choqué parce qu’il avait entendu dire par une dénomination que le crucifix était un symbole catholique.
+
+58 Qu’aucun étudiant de la Bible ou chrétien né de nouveau dise que les Catholiques ont le monopole du crucifix. Le crucifix ne représente nullement le catholicisme. Nous croyons qu’il y a un seul Médiateur entre Dieu et l’homme, et que c’est Christ; mais les Catholiques croient en toutes sortes de médiateurs, en des milliers d’hommes, de femmes et autres choses. Presque n’importe quel bon Catholique qui meurt devient un intercesseur. Mais le crucifix de Christ représente Jésus-Christ.
+
+59 Savez-vous que les premiers chrétiens, d’après l’histoire de l’église primitive, portaient des croix sur leur dos partout où ils allaient pour montrer et témoigner qu’ils étaient Chrétiens? Les Catholiques prétendent que c’est eux qui faisaient ainsi. Bien entendu ils prétendent avoir été les premiers, mais l’église Catholique n’était même pas encore organisée au moment où les chrétiens portaient la croix.
+
+60 Vous avez entendu des gens appeler les chrétiens: “Porte-croix” (Crossback). Cela se réfère-t-il aux Catholiques? Non! Ce sont les vrais catholiques, L’ÉGLISE UNIVERSELLE DU SAINT-ESPRIT. Nous sommes des catholiques, des catholiques originels, des catholiques croyant à la Bible, les autres sont l’organisation Catholique. Nous, nous sommes libérés de cela. Nous sommes la continuation de la doctrine des Apôtres. Nous sommes la continuation du baptême du Saint-Esprit et de toutes les choses que l’église primitive possédait; mais l’église Catholique n’a rien de tout cela.
+
+61 Ainsi donc, on a dressé ici le crucifix qui avait été apporté. Il a été taillé dans le bois des oliviers sous lesquels Jésus avait prié; ce crucifix m’a été donné par le frère Arganbright et je veux le consacrer avec cette église… il a été placé au bon endroit, endroit choisi par celui qui l’a suspendu (je ne sais pas qui c’était) là, à ma gauche. “Il pardonna au voleur qui était à sa droite”: c’est moi.
+
+62 Il représente aussi autre chose: de même que Sa tête était penchée, laissant voir Sa souffrance, de même Il regarde par-dessus l’autel et Il vous attend là, vous tous, pécheurs. Ses regards se poseront sur vous! Plus tard on installera une lampe afin qu’au moment de l’appel à l’autel une lumière brille sur ceux qui s’y grouperont.
+
+63 Vous direz: «Pourquoi avez-vous besoin de cela? Vous ne devriez pas avoir une image!». Très bien, mais le même Dieu qui a dit: “Tu ne te feras point d’images taillées” a aussi dit: “Tu feras deux chérubins d’or… couvrant de leurs ailes le propitiatoire, le siège de miséricorde devant lequel le peuple prie”. Vous voyez, c’est quelque chose qu’on ne peut pas comprendre! Vous voyez que c’est inspiré et que le crucifix a tout de suite été suspendu à sa bonne place, et je suis si reconnaissant d’être celui qui est à Sa droite!
+
+64 Je crois qu’Il m’a pardonné, car pour ce qui est d’avoir littéralement volé quelque chose, je puis affirmer que je ne l’ai jamais fait de ma vie, à ma connaissance; mais j’ai tellement gaspillé Son temps que c’est de cette façon que je L’ai volé. J’ai fait beaucoup de choses que je n’aurais pas dû faire, mais je suis reconnaissant à Dieu ce matin de ce qu’Il ait pardonné mes péchés.
+
+65 Maintenant je désire lire 1 Chroniques 17 et parler environ cinq minutes pour le service de consécration; puis nous prierons et nous entrerons dans le message.
+
+> “Lorsque David fut établi dans sa maison, il dit à Nathan le prophète: Voici, j’habite dans une maison de cèdre, et l’arche de l’alliance de l’Éternel est sous une tente. Nathan répondit à David: Fais tout ce que tu as dans le coeur, car Dieu est avec toi.
+> La nuit suivante, la parole de Dieu fut adressée Nathan: Va dire à mon serviteur David: Ainsi parle l’Éternel: Ce ne sera pas toi qui me bâtiras une maison pour que j’en fasse ma demeure. Car je n’ai point habité dans une maison depuis le jour où j’ai fait monter Israël jusqu’à ce jour; mais j’ai été de tente en tente, et de demeure en demeure. Partout où j’ai marché avec tout Israël, ai-je dit un mot à quelqu’un des juges d’Israël à qui j’avais ordonné de paître mon peuple, ai-je dit: Pourquoi ne me bâtissez-vous pas une maison de cèdre? Maintenant, tu diras à mon serviteur David: Ainsi parle l’Éternel des armées: Je t’ai pris au pâturage, derrière les brebis, pour que tu fusses chef de mon peuple d’Israël; j’ai été avec toi partout où tu as marché, j’ai exterminé tous tes ennemis devant toi et j’ai rendu ton nom semblable au nom des grands qui sont sur la terre”.
+
+66 J’aimerais dire ici que David vit la même chose que nous avons vue. David disait: “Il n’est pas convenable que vous m’ayez construit une maison de cèdre et que l’Arche de l’alliance de l’Éternel soit encore sous une tente” (faite de peaux de mouton et d’autres animaux cousues ensemble). Il disait: “Il n’est pas juste d’avoir une belle maison pour moi alors que l’Arche de l’alliance de mon Dieu demeure dans une tente!”.
+
+67 Ainsi, Dieu lui mit à coeur de bâtir un tabernacle. Mais David, bien qu’étant un homme plein d’amour et consacré à Dieu, avait cependant répandu trop de sang. David avait parlé en présence du prophète de cet âge qui était Nathan. Nathan, sachant que Dieu aimait David, lui répondit: “Fais tout ce que tu as dans le coeur, car Dieu est avec toi”. Quelle déclaration! “Fais tout ce que tu as dans le coeur, car Dieu est avec toi”.
+
+68 Et cette même nuit, voyant la consécration de David dans l’amour de Dieu et sachant que Nathan était dans l’erreur car il n’avait pas la permission de faire cela, Dieu dans Sa grâce descendit et parla à Nathan. J’ai toujours aimé ces paroles: “Va dire à mon serviteur David: Je t’ai pris au pâturage derrière les brebis”. Il n’était rien!
+
+69 J’aimerais appliquer ceci à mon cas: «Je t’ai pris de rien et je t’ai donné un nom; tu as reçu un nom semblable au nom des grands de ce monde». Pour expliquer cela, je vais vous faire une confidence de manière à en tirer un enseignement.
+
+70 Je repensais à l’époque où personne dans cette ville ne se souciait de moi; personne ne m’aimait; j’aimais les gens mais personne ne m’aimait à cause des antécédents de ma famille. Je dis cela sans la moindre animosité envers mes chers parents. Combien j’aimerais que ma mère vive encore pour entrer ce matin dans ce sanctuaire!
+
+71 Peut-être que Dieu permet ce matin à plusieurs vétérans qui ont donné leur argent pour participer à cette construction de regarder par-dessus la balustrade des cieux.
+
+72 La famille Branham, elle, n’avait pas bonne réputation dans le pays à cause de la boisson. Personne ne voulait avoir affaire à moi. Je me souviens d’avoir dit à ma femme il n’y a pas longtemps: «Tu te rappelles que je ne trouvais ici personne qui veuille me parler. Personne ne se souciait de moi; tandis que maintenant je dois me cacher pour pouvoir me reposer un peu».
+
+73 Mais maintenant le Seigneur nous a donné ce bel édifice et ces choses glorieuses qu’Il a faites. Il m’a donné, à côté de mon nom de mauvaise réputation, un nom comme en portent de grands hommes et Il a retranché mes ennemis partout où je suis allé. Jamais rien n’a pu Lui résister, combien j’en suis reconnaissant!
+
+74 Et comment aurais-je jamais pu savoir (alors que je n’étais qu’un petit écolier déguenillé de l’école d’Ingramville où j’étais la risée de toute l’école tant j’étais misérable, et que je patinais sur l’étang), comment aurais-je pu savoir qu’au-dessous de cet étang reposait la graine d’un lis qui fleurirait de la sorte? Et comment aurais-je pu savoir, alors que personne ne me parlait encore, qu’Il me donnerait un nom qui serait honoré parmi Son peuple?
+
+75 Il ne fut donc pas permis à David de construire le temple. Il ne le put pas. Mais Dieu dit: “Je te susciterai une semence qui bâtira le temple, et ce temple sera un temple éternel et ton fils, le Fils de David, aura l’autorité sur un Royaume éternel”. Salomon, le fils de David selon la chair, bâtit un temple au Seigneur avec sa force naturelle. Mais quand la vraie semence de David, le Fils de David, vint Il leur dit qu’un jour viendrait où il ne resterait plus pierre sur pierre de ce temple; Il essayait d’attirer leur attention sur un autre temple.
+
+76 Dans l’Apocalypse, Jean vit ce tabernacle (chapitre 21). Il vit le nouveau temple descendre des cieux, paré comme une épouse qui s’est parée pour son époux et une voix venant du temple disait: “Voici le tabernacle de Dieu parmi les hommes. Dieu habitera avec eux, et il essuiera toute larme de leurs yeux, et la mort ne sera plus, et il n’y aura plus ni deuil, ni cris, ni douleurs, car les premières choses sont passées”.
+
+77 Alors le véritable Fils de David (comme nous le verrons dans les messages de cette semaine) viendra dans Son temple, le temple de Dieu, le vrai Tabernacle qu’Il est allé construire maintenant. Car il est dit dans Jean 14: “Il y a plusieurs demeures dans la maison de mon Père, et je vais vous préparer une place”. Que voulait-Il dire par cela? Cela a déjà été ordonné à l’avance: “… et lorsque je m’en serai allé, que je vous aurai préparé une place, je reviendrai et je vous prendrai avec moi”. Naturellement nous savons que cela sera dans l’âge glorieux à venir. La vraie semence de David, qui est Jésus-Christ, montera sur le trône et là Il régnera sur l’Église, Son Épouse, qui sera dans la maison avec Lui, et sur les douze tribus d’Israël pendant toute l’Éternité.
+
+78 Quant à ce petit tabernacle… David ne pouvait pas construire le vrai tabernacle de Dieu parce qu’il n’était pas préparé pour le faire; il ne pouvait rien faire, étant un mortel qui avait répandu le sang.
+
+79 Ainsi en est-il de nous aujourd’hui; nous ne pouvons pas construire un vrai Tabernacle de Dieu. Un Seul peut le faire, et Il est en train de le construire maintenant. Mais ce petit tabernacle, de même que le temple que Salomon Lui a construit, de même que tous les autres, ne sont que des lieux d’adoration temporaires, valables jusqu’au jour où le vrai Tabernacle sera élevé sur la terre; alors la justice régnera partout, et il n’y aura plus de douleurs. Il n’y aura plus d’oraisons funèbres prêchées dans ce tabernacle, il n’y aura plus de célébrations de mariages, mais une seule grande noce pour l’Éternité. Quel jour glorieux ce sera!
+
+80 En attendant la venue de cet autre Tabernacle prenons dès maintenant la résolution dans nos coeurs d’être tellement marqués du sceau de Son Esprit que nous adorions en ce lieu-ci comme si nous étions déjà dans le Tabernacle à venir.
+
+81 Maintenant levons-nous pendant que je lis la Sainte Écriture. Apocalypse 21.1-3.
+
+> “Et je vis un nouveau ciel et une nouvelle terre; car le premier ciel et la première terre s’en étaient allés, et la mer n’est plus. Et je vis la sainte cité, nouvelle Jérusalem, descendant du ciel d’auprès de Dieu, préparée comme une épouse ornée pour son mari. Et j’ouïs une grande voix venant du ciel, disant: Voici, l’habitation de Dieu est avec les hommes, et il habitera avec eux; et ils seront son peuple, et Dieu lui-même sera avec eux, leur Dieu”.
+
+82 Courbons nos têtes maintenant. Notre Père céleste, nous nous tenons dans la crainte, nous sommes dans le respect, dans une sainte déférence et nous Te prions, Seigneur, d’agréer le don que Tu nous as fait: par grâce, en argent, nécessaire pour bâtir un lieu d’adoration pour Toi. Il n’y a rien, aucun endroit, que nous puissions préparer sur la terre qui soit digne d’être une demeure pour l’Esprit de Dieu, mais nous T’offrons ceci en témoignage de notre amour et de nos sentiments envers Toi, Seigneur, et nous Te remercions pour tout ce que Tu as fait pour nous.
+
+83 La construction et l’emplacement ont été consacrés pour le service il y a longtemps; et nous Te remercions pour le souvenir de ce qui s’est passé. Seigneur Dieu, tout est conforme à la vision que Tu nous as donnée il y a des années de cela: vision dans laquelle j’ai vu une vieille maison réparée et remise à neuf; après cela Tu m’as envoyé de l’autre côté de la rivière.
+
+84 Ainsi donc, Seigneur Dieu, Créateur du ciel et de la terre, nous sommes le peuple de Ta bergerie, le peuple de Ton Royaume, et avec moi-même et le pasteur, l’église et le peuple, nous consacrons cette maison au service du Dieu Tout-Puissant, au Nom de Jésus-Christ Son Fils, pour le service de Dieu et dans la vénération de notre Dieu. Et puisse l’Évangile se répandre à partir de ce lieu de telle façon qu’il attire les gens des quatre coins du monde pour voir se manifester de ce lieu la gloire de Dieu. Et que ce que Tu as fait dans le passé soit encore multiplié dans l’avenir.
+
+85 Père, nous nous consacrons maintenant nous-mêmes avec tout ce qui est en nous pour le service de la Parole. Seigneur, la communauté et le peuple se consacrent aussi eux-mêmes ce matin pour écouter la Parole; et nous, les prédicateurs, nous nous consacrons pour la prédication de la Parole, pour insister en toute occasion, favorable ou non, redressant, reprenant avec beaucoup de patience comme cela fut écrit et déposé ici dans la pierre d’angle il y a trente ans. Tu as dit Toi-même que le temps viendrait où les hommes ne voudraient plus supporter la saine doctrine, mais ayant la démangeaison d’entendre des choses agréables, se donneraient une foule de docteurs selon leurs propres désirs, détourneraient l’oreille de la vérité et se tourneraient vers des fables.
+
+86 Seigneur, nous avons essayé de transmettre la Parole aux gens; puissions-nous être inspirés et fortifiés pour un redoublement d’efforts, Seigneur; qu’une double portion de Ton Esprit se répande sur cet endroit comme il en a été au jour de la dédicace du temple, quand Salomon priait et que le Saint-Esprit, sous la forme d’une colonne de feu et de nuée, entra par la porte principale, tourna autour des chérubins et alla dans le Lieu Très-Saint pour occuper Son lieu de repos.
+
+87 O mon Dieu, Salomon disait: “Si Ton peuple est en difficulté en quelque endroit, s’il T’adresse des prières les regards tournés vers cette sainte maison, alors exauce-le du haut des Cieux!”. Seigneur, que le Saint-Esprit ce matin entre dans chaque coeur, dans chaque âme consacrée qui est ici; et la Bible dit que la gloire de l’Éternel était si grande que les sacrificateurs ne purent même pas entrer pour faire le service.
+
+88 O Seigneur Dieu! Que cela se répète une fois encore pendant que nous nous donnons nous-mêmes à Toi avec cette église, nous consacrant pour Ton service. Il est écrit: “Demandez et vous recevrez” et ce matin nous nous engageons nous-mêmes envers Toi pour le service, avec notre offrande de l’église, afin qu’en ce temps de la Lumière du soir pour le dernier jour nous puissions apporter consolation et foi au peuple qui attend que l’Époux vienne préparer une Épouse conforme à l’Évangile de Christ afin que le Seigneur Jésus puisse la recevoir. Voici quels sont ceux que nous consacrons: moi-même, frère Neville et cette assemblée pour le service de Dieu au Nom de Jésus-Christ. Amen. Vous pouvez vous asseoir.
+
+89 David disait: “Je suis dans la joie quand on me dit: Allons à la maison de l’Éternel!”. Qu’il en soit toujours ainsi pour nous; que nous soyons heureux de nous rassembler dans la maison de l’Éternel. Amen!
+
+90 Après ce petit service de consécration il me reste encore une heure. Rappelez-vous maintenant que nous sommes consacrés: au respect, à la sainteté, à la tranquillité devant le Seigneur; adorez le Seigneur et soyez aussi respectueux que possible dans Sa maison. Et quand la réunion sera terminée, sortez de la salle immédiatement afin de donner au concierge le temps de la nettoyer et de la préparer pour la prochaine réunion. Ainsi il n’y aura point de confusion dans la maison du Seigneur.
+
+91 Je pense que la salle devrait pouvoir être évacuée dans le quart d’heure qui suit le service. Ne manquez pas d’être aimables, de serrer toutes les mains; invitez chacun à revenir! Nous nous attendons à avoir durant la semaine qui vient des réunions parmi les plus solennelles qui aient jamais été tenues dans ce tabernacle; nous nous en réjouissons!
+
+92 J’ai commencé à voir quelque chose de tout nouveau la nuit dernière tandis que je priais vers le matin. Aussi je crois que nous allons avoir des moments glorieux si le Seigneur nous vient en aide. Mais j’en parlerai encore ce matin.
+
+93 Vous savez que ce que les hommes appellent “grand” n’est quelquefois pas grand du tout; mais ce que Dieu appelle “grand”, les hommes, eux, l’appellent “folie”; et ce que Dieu appelle “folie”, les hommes l’appellent “grand”. Souvenons-nous de cela. Pesons chaque mot.
+
+94 Les réunions sont longues et seront encore prolongées car les sujets sont difficiles: il y a beaucoup d’enseignement, de consécration. Là où j’habite les gens sont très aimables et m’offrent toutes sortes de choses à manger, me disant: «Frère Branham, vous avez beaucoup maigri!…», mais c’est parce que je suis tout le temps à la tâche. Je dois partir d’ici dimanche soir pour continuer tout de suite au Mexique; c’est fatigant. Mais j’essaie de ne pas trop manger et travaille de manière à être prêt.
+
+95 Je suis heureux ce matin de voir le frère Junior Jackson, le frère Ruddle et d’autres pasteurs autour de moi; que Dieu vous bénisse tous.
+
+96 Je veux vous parler ce matin sur un sujet en vue duquel j’ai pris quelques notes. Je désire d’abord lire Ésaïe 53. Pendant que vous cherchez ce passage, je vais faire une ou deux annonces. Ce soir je parlerai sur ce Livre pour faire un pont reliant le dernier âge de l’Église avec l’ouverture des Sceaux. Il y a un grand intervalle entre ces deux choses.
+
+97 Quand j’eus terminé les Âges de l’Église je parlai aussi là-bas immédiatement après des Soixante-dix Semaines de Daniel parce que cela s’y rapporte. Je me disais: «Maintenant si jamais je parle des sept Sceaux, il faudrait d’abord parler de ces Soixante-dix Semaines de Daniel afin de pouvoir les relier aux Sceaux, laissant quelque chose d’ouvert». C’était le 5ème chapitre du Livre des sept Sceaux et c’est par-là que nous commencerons ce soir.
+
+98 Nous essayerons de commencer de bonne heure ce soir. Est-ce que tout le monde peut être ici aux environs de sept heures? Très bien! Alors commençons les réunions à six heures trente par les cantiques et je serai là vers sept heures. Ainsi toute la semaine nous commencerons de bonne heure.
+
+LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE    12
 heure. Il n’y a personne qui aime chanter autant que les chrétiens; nous aimons chanter, nous
 aimons cela; mais maintenant nous entrons dans quelque chose d’autre. Nous sommes
 dans la Parole, vous voyez; aussi restons avec Elle.
@@ -1610,372 +1318,168 @@ même pas une instruction primaire!». Tandis que lui avait tous les diplômes p
 qu’il pourrait facilement réduire le frère Bosworth au silence, mais quand on en vint à la Parole, il
 n’était vraiment pas à la hauteur!
 
-        http://www.cmpp.ch
-
 LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 30
-304 Le frère Bosworth savait sur quoi il se tenait. Beaucoup de personnes de son assemblée
-assises ici assistaient au débat. L’autre était là, nous jetant ses méchantes paroles et nous traitant
-d’ignorants. Il finit par dire: “Les gens sensés ne croient pas cela!”.
-305 Or nous étions environ 30 000 ce soir-là. Le frère Bosworth lui répondit: «Une minute!» puis
-s’adressant à la foule: «Combien y a-t-il dans cette ville de personnes appartenant à ces grandes
-et belles églises Baptistes qui peuvent prouver par un certificat médical qu’elles ont été guéries par
-la puissance de Dieu depuis que frère Branham est dans la ville? Levez-vous!». Trois cents se
-levèrent. Il dit: «Qu’avez-vous à dire à cela?».
-306 Voilà! C’était Dieu qui se cachait dans la simplicité. Alors le contradicteur dit: «Faites venir
-le guérisseur divin, que je le voie hypnotiser quelqu’un! Je viendrai voir les résultats dans un an!».
-307 Alors Ted Kipperman et Iris (celui-là même qui avait pris la photographie) dirent: «Monsieur
-Branham n’est rien d’autre qu’un hypnotiseur. J’ai vu une femme qui avait un goître; il a dit qu’il
-allait hypnotiser cette femme et le jour suivant en parlant avec elle j’ai vu qu’elle n’avait pas de
-goître; l’homme l’avait hypnotisée».
-308 Il ne fit que me ridiculiser, disant que je devrais être chassé de la ville; qu’il le ferait volontiers
-lui-même, etc. Il y eut un grand article en première page du Houston Chronicle.
-309 Je ne dis pas un mot. J’étais là pour m’occuper des affaires de mon Père, pour me tenir à la
-Parole, c’était tout. C’est Lui qui m’avait envoyé là.
-310 Le soir quand j’allai là-bas, je dis: «Je ne suis pas un guérisseur divin [divine healer — N.d.T.].
-Ceux qui le disent sont dans l’erreur; je ne veux pas être appelé un guérisseur divin. Si le Dr Bess
-ici prêche le salut, il n’aimerait pas qu’on l’appelât un sauveur divin et lui-même dit qu’il n’est pas
-un sauveur divin. Certainement qu’il ne l’est pas, pas plus que moi-même ne suis un guérisseur
-divin. Mais: par Ses meurtrissures nous sommes guéris. C’est là-dessus que j’insiste. Autrement
-c’est une absurdité!». On ne fait que tourner en rond.
-311 Je dis: «Mais si c’est la présence et le don de Dieu, si c’est cet Ange du Seigneur que vous
-contestez, cela peut être prouvé!». C’est à peu près à ce moment-là que vint le tourbillon. Je dis:
-«Plus besoin d’en parler maintenant. Il a déjà parlé pour moi». Alors je sortis.
-312 Je suis allé à Houston, cette grande ville, une des plus belles de notre pays. Lorsque j’y suis
-retourné l’autre jour, elle faisait pitié à voir! Les rues étaient sales comme aussi les grands
-magasins de Texas Avenue. J’entrai à l’Hôtel Rice où les stars de cinéma ont l’habitude de
-descendre et allai à la cafétéria au sous-sol. Des morceaux de plâtre tombés traînaient par terre.
-Partout il n’y avait que souillure et saleté, et même parmi les prédicateurs régnait une confusion
-comme il n’y en a jamais eue et comme je n’en ai jamais entendu parler de ma vie!
-313 Pourquoi cela? Parce que refuser la Lumière, c’est marcher dans les ténèbres. Cela place
-leurs enfants dans les rangs de la mort. De même que Dieu descendit et qu’alors la simplicité fut
-manifestée et rejetée, Dieu s’est encore manifesté dans la simplicité. On en a pris cette photo qui a
-parcouru le monde entier. Même les savants ont déclaré que cette photographie suspendue à
-Washington dans la galerie des arts religieux était le seul être surnaturel à avoir jamais été
-photographié dans toute l’histoire du monde. C’est la simplicité manifestée. Vous voyez! Dieu se
-cache dans la simplicité, puis se manifeste Lui-même.
-314 Il s’était caché dans la mort de Christ, mais se manifesta Lui-même dans la résurrection et
-ainsi de suite. Cela n’a pas de fin. Nier l’existence de la lumière du soleil, c’est aller à la cave et
-fermer les yeux à la lumière. C’est vrai!
-315 Rappelez-vous que la seule façon d’être dans l’erreur c’est de commencer par refuser
-la vérité. Refusez d’ouvrir les yeux et vous vivrez dans les ténèbres! Si vous refusez de regarder,
-comment verrez-vous? Veillez aux choses simples! Il s’agit des petites choses que vous ne
-faites pas et non pas des grandes choses que vous essayez de faire.
-316 Dans Matthieu 11.14 il est dit: “Si vous voulez le comprendre, c’est lui, l’Elie qui devait venir,
-c’est lui qui a été envoyé devant moi”. C’était la simplicité.
-317 Un jour on Lui posa cette question: “Pourquoi donc les scribes disent-ils qu’Elie doit venir
-premièrement?”.
-318 Il répondit: “Le Fils de l’homme doit monter à Jérusalem. Je serai livré entre les mains des
 
-        http://www.cmpp.ch
+304 Le frère Bosworth savait sur quoi il se tenait. Beaucoup de personnes de son assemblée assises ici assistaient au débat. L’autre était là, nous jetant ses méchantes paroles et nous traitant d’ignorants. Il finit par dire: “Les gens sensés ne croient pas cela!”.
 
-    LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE    31
-pécheurs et ceux-ci mettront à mort le Fils de l’homme. Il mourra mais ressuscitera le troisième
-jour”. Il leur dit encore: “Ne racontez cette vision à personne”.
-319 Ainsi (pensez-y) les disciples qui avaient marché autrefois avec Jean, lui avaient parlé,
-avaient mangé avec lui dans le désert, qui s’étaient assis avec lui sur la berge, posèrent cette
-question: “Pourquoi les docteurs disent-ils qu’Elie doit venir premièrement?”. Tu nous dis que Tu
-vas être crucifié et que Tu ressusciteras; que Tu es le Messie, que Tu prendras le Trône; or toutes
-nos Ecritures disent qu’avant la venue du Christ, Elie viendra premièrement.
-320 Il répondit: “Il est déjà venu, mais vous ne l’avez pas reconnu”. Et qu’étaient ces gens? Des
-disciples!
-321 Je vais peut-être vous blesser un peu pendant quelques minutes. Ce n’est pas que je le
-désire, mais c’est afin que vous me compreniez bien. Ces hommes qui avaient marché avec Christ
-lui demandaient: “Pourquoi l’Ecriture dit-Elle qu’Elie doit venir premièrement?”. Ils étaient les
-propres convertis de Jean et ne l’avaient pas reconnu! Comprenez-vous ce que je veux dire? Les
-disciples, ceux-là mêmes qui avaient marché avec Jean, demandèrent à Jésus: “Pourquoi
-l’Ecriture, ou plutôt les scribes, disent-ils qu’Elie doit venir avant ces choses pour rétablir toutes
-choses?”. Il le fit pour environ une demi-douzaine de personnes, c’est tout. C’étaient tous ceux qui
-devaient recevoir cela. C’étaient ceux qui étaient prédestinés à le comprendre.
-322 Jésus dit: “Elie est déjà venu, mais ils ne l’ont pas reconnu. Cependant il a simplement fait ce
-que l’Ecriture avait annoncé qu’il ferait. Il vous a rétablis, vous tous qui me recevez et qui croyez
-en moi. Il a fait exactement ce que l’Ecriture avait dit qu’il ferait mais eux lui firent ce que l’Ecriture
-avait dit qu’ils lui feraient. Il est déjà venu, mais vous ne l’avez pas reconnu”. Etes-vous prêts?
-323 Je voudrais vous donner un petit choc. L’enlèvement se fera de la même manière. Ce sera si
-simple, ce sera sans doute pareil. L’enlèvement va se produire un de ces jours et personne ne
-s’en apercevra.
-324 Non, ne vous levez pas encore, mais méditez juste une minute. Je vais m’arrêter.
-L’enlèvement se fera d’une manière si simple qu’ils devront attendre que les jugements tombent et
-qu’ils voient le Fils de l’homme pour se dire: “Ne devait-il pas arriver ceci et cela? Elie ne devait-il
-pas nous être envoyé? Ne devait-il pas y avoir un enlèvement?”.
-325 Alors Jésus répondra: “C’est déjà arrivé, mais vous ne vous en êtes pas aperçus!”. Dieu dans
-la simplicité.
-326 Cette semaine nous allons recevoir quelques enseignements profonds sur ce sujet. Alors
-faites bien attention! Quand l’enlèvement arrivera, il y en aura si peu qui iront dans cette Epouse!
-Mais vous voyez comment les théologiens ont reçu cela? Ils ont établi des listes où ils montrent
-que dix millions de gens seront enlevés; si c’est un prédicateur Méthodiste qui parle, ce seront
-tous des Méthodistes. Si c’est un Pentecôtiste, ce sont tous des Pentecôtistes! Ils n’y sont pas du
-tout!
-327 Il y en aura peut-être un qui quittera Jeffersonville, quelqu’un qui sera enlevé et qui
-disparaîtra; ceux qui restent n’en sauront rien. Il y en a peut-être un qui quittera la Géorgie, un qui
-quittera l’Afrique. Disons qu’il y aura peut-être 500 personnes vivantes dans l’enlèvement. Ce n’est
-pas le corps de l’église, mais l’Epouse. Ce n’est pas l’église, mais l’Epouse. L’église ressuscitera
-par milliers, mais à la prochaine résurrection: “Les autres morts ne revinrent point à la vie jusqu’à
-ce que les mille ans fussent accomplis”. Mais pour ce qui est de l’Epouse, si 500 personnes étaient
-enlevées de la terre à cette minute, le monde ne s’en apercevrait même pas.
-328 Jésus dit: “De deux personnes qui seront dans un même lit, une sera prise, et l’autre laissée”.
-Cela, c’est pour la nuit. “De deux hommes qui seront dans un champ (c’est pour l’autre côté de la
-terre), l’un sera pris, l’autre laissé… Ce qui arriva du temps de Noé arrivera de même au jour du
-Fils de l’homme”.
-329 Pensez-y! Tout se passera aussi simplement que possible. Un message pressant circulera et
-voici ce que vous entendrez: «Ce pasteur est parti quelque part mais n’est pas revenu. Il est
-probablement allé chasser dans la forêt et il n’est plus revenu. Ce type est parti quelque part…».
-D’une jeune fille on dira: «Peut-être que quelqu’un l’a enlevée, puis jetée dans la rivière!».
-330 Il se peut qu’une personne seulement sur cent millions reconnaisse ce moment. A moins que
-quelqu’un ne connaisse ces choses, il dira: “Cette jeune fille a disparu! Je n’y puis rien
+305 Or nous étions environ 30 000 ce soir-là. Le frère Bosworth lui répondit: «Une minute!» puis s’adressant à la foule: «Combien y a-t-il dans cette ville de personnes appartenant à ces grandes et belles églises Baptistes qui peuvent prouver par un certificat médical qu’elles ont été guéries par la puissance de Dieu depuis que frère Branham est dans la ville? Levez-vous!». Trois cents se levèrent. Il dit: «Qu’avez-vous à dire à cela?».
 
-    http://www.cmpp.ch
+306 Voilà! C’était Dieu qui se cachait dans la simplicité. Alors le contradicteur dit: «Faites venir le guérisseur divin, que je le voie hypnotiser quelqu’un! Je viendrai voir les résultats dans un an!».
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 32
-comprendre: elle n’était jamais partie ainsi!”.
-331 Et quand ils disent que les tombes s’ouvriront! Comment les tombes vont-elles s’ouvrir? Je
-n’ai pas le temps de traiter cette question comme je voulais le faire. Je vous montre juste la
-simplicité de Dieu. Et cette chaux, cette potasse et autres produits, toutes ces choses qui sont en
-vous remplissent à peine une cuiller. C’est vrai! Et tout cela redeviendra esprit, vie!
-332 Dieu n’aura qu’à parler et l’enlèvement aura lieu. Il n’y aura pas d’anges qui descendront avec
-des pelles pour creuser les tombes et en extraire de vieilles carcasses mortes. Tout cela est né du
-péché. Qu’est-ce qui se passera alors? Il y aura un nouveau corps, de même apparence. Si nous
-avions notre ancien corps nous mourrions de nouveau. Personne ne peut dire: «Les tombeaux
-s’ouvriront; les morts en sortiront». Cela peut être vrai, mais ils ne s’ouvriront pas dans le sens
-habituel de ce mot. Assurément pas! Cela ne se passera pas de cette manière. C’est un secret
-parce qu’Il a dit qu’Il viendrait “comme un voleur dans la nuit”.
-333 Il nous a pourtant dit qu’il y aurait d’abord l’enlèvement, puis que les jugements tomberaient:
-péchés, fléaux, maladies, etc. Les gens chercheront la mort à grands cris pour échapper au
-jugement: “Seigneur, pourquoi ce jugement sur nous alors que Tu disais qu’il y aurait d’abord un
-enlèvement?”.
-334 Il répondra: “Il a déjà eu lieu et vous ne l’avez pas reconnu”. Dieu se cachant dans la
-simplicité. Oh, mes frères!
-335 Voilà. “Il a déjà eu lieu et vous ne l’avez pas reconnu”. Pourquoi les croyants ne croient-ils pas
-les simples signes de Sa venue? Ils attendent toutes ces choses dont il est parlé dans l’Ecriture:
-que la lune tombera et que le soleil s’éteindra au milieu du jour et qu’il se produira toutes sortes de
-choses.
-336 Je possède ici des notes écrites pour montrer ce que sont ces choses, et de toute façon nous
-les recevrons quand nous briserons les Sceaux cette semaine. Ces choses qui ont déjà eu lieu et
-que vous n’avez pas reconnues. Si l’Ange du Seigneur brisa ces Sceaux pour nous, rappelez-vous
-qu’avec eux sont scellés ces sept mystérieux tonnerres.
-337 Pourquoi les gens ne peuvent-ils pas croire tout bonnement à la simplicité d’un groupe
-d’hommes humbles ni à la voix des signes de Dieu? Toujours pour la même raison: la vraie Parole
-de Dieu ayant été manifestée, ils sont trop civilisés et trop lettrés pour croire à la simplicité de la
-Parole écrite. Ils veulent y ajouter leur propre interprétation: “Cela ne signifie pas ceci, cela ne
-signifie pas cela”. Eh bien oui, cela veut bien dire ceci et cela!
-338 Ecoutez-moi. Puis-je encore dire ceci rapidement? Même les visions que Dieu donne en ce
-lieu sont si mal comprises! C’est la raison pour laquelle vous m’entendez dire sur les
-bandes magnétiques: «Dites ce que disent les bandes magnétiques. Dites ce que disent les
-visions».
-339 Maintenant si vous êtes bien réveillés vous allez voir quelque chose. J’espère que je n’ai pas
-besoin de le tenir dans ma main pour vous le montrer. Le voici. Cela échappera aux sages et aux
-intelligents. Une vision, quand elle est révélée dans une telle simplicité, passe au-dessus de la tête
-des gens.
-340 Une fois à la chasse j’ai eu une vision et je vous en ai raconté tous les détails; des gens s’y
-sont achoppés. Mais Dieu me l’avait donnée dans un but précis; il s’agissait du départ de ma mère
-et d’autres choses qu’Il me faisait connaître d’avance. Tout s’est réalisé exactement comme Il me
-l’avait montré.
-341 Vous voyez! Jean-Baptiste est venu et a déclaré: “Je ne suis pas le Messie, mais je suis la
-voix de celui qui crie dans le désert…”. Et alors ses propres disciples dirent: “Pourquoi les scribes
-enseignent-ils qu’il est écrit qu’Elie doit venir premièrement?”. La simplicité de Dieu passe
-au-dessus de la tête des gens.
-342 Examinons encore ceci, avec la grâce de Dieu, et ensuite nous terminerons. Nous allons
-maintenant exposer cela avec l’aide de Dieu. Je suis désolé de vous retenir si longtemps mais
-nous reviendrons dans quelques heures.
-343 Prenons une simple goutte d’encre. Toute chose a sa raison d’être. Vous vous êtes
-rassemblés ici ce matin dans un certain but. Je mange chez toi, Charly; toi, Nelly, si tu as cuisiné
-pour moi c’est pour une raison déterminée. Tout a sa raison d’être. Cette église n’a pas été érigée
+307 Alors Ted Kipperman et Iris (celui-là même qui avait pris la photographie) dirent: «Monsieur Branham n’est rien d’autre qu’un hypnotiseur. J’ai vu une femme qui avait un goître; il a dit qu’il allait hypnotiser cette femme et le jour suivant en parlant avec elle j’ai vu qu’elle n’avait pas de goître; l’homme l’avait hypnotisée».
 
-        http://www.cmpp.ch
+308 Il ne fit que me ridiculiser, disant que je devrais être chassé de la ville; qu’il le ferait volontiers lui-même, etc. Il y eut un grand article en première page du Houston Chronicle.
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 33
-pour rien. Il n’y a rien qui soit sans but et sans cause.
-344 Prenons donc cette goutte d’encre et étudions-la. Qu’est-ce que c’est? Une goutte d’encre.
-D’où vient-elle? Cette encre noire a sa raison d’être. Elle peut servir à écrire ma libération d’un
-pénitencier ou ma grâce dans ma cellule de condamné à mort. Est-ce vrai?
-345 Elle peut écrire Jean 3.16 et sauver mon âme, si je le crois. Est-ce vrai? Elle peut encore
-signer mon arrêt de mort. Au tribunal elle peut me condamner. Elle a une raison d’être. N’est-ce
-pas vrai? Bien, regardons cette encre et voyons d’où elle vient. C’est de l’encre, elle a été faite
-avec des produits chimiques et elle est noire.
-346 Vous la laissez tomber sur vos vêtements: elle les tache. Mais nous avons fabriqué un produit
-appelé décolorant. Vous, femmes, employez le produit «Clorox». Je prends une goutte d’encre et
-je la verse dans une cuvette pleine de ce décolorant. Qu’arrive-t-il à l’encre? Le décolorant a été
-inventé et fabriqué chimiquement pour dissoudre la couleur jusqu’à ce qu’on ne puisse plus la
-trouver.
-347 Une partie du décolorant est de l’eau; l’eau c’est «H2O», ce qui est de l’hydrogène et de
-l’oxygène, et tous les deux ensemble forment un dangereux explosif. L’hydrogène et l’oxygène
-sont effectivement des cendres; des cendres chimiques, c’est ce qu’ils sont. Seulement des
-résidus chimiques. Si vous les mélangez vous obtenez de l’eau; mais séparez-les et vous aurez de
-l’hydrogène et de l’oxygène, c’est-à-dire que cela retournera à ce que c’était.
-348 Mais je ne puis pas parler de cela. Car il se peut qu’il y ait des chimistes dans la salle et je ne
-pourrais pas en parler car les chimistes l’écouteraient. Je ne connais pas les formules mais je veux
-juste l’expliquer humblement, à ma façon, ayant confiance que Dieu se révélera par ce moyen.
-349 Voyez: j’ai laissé tomber cette goutte d’encre dans le décolorant; qu’est-il arrivé?
-Immédiatement la tache noire a disparu; vous ne pourriez plus la trouver, elle est partie. Vous ne
-la verrez plus jamais. Que s’est-il passé? Vous ne pourrez plus rien voir sortir de là. Pourquoi?
-Parce qu’elle est désintégrée. La science répondrait: «Elle est retournée à ses acides originaux».
-350 D’où sont venus les acides? Vous pourriez dire: «Ils proviennent de certaines choses», dire
-par exemple que les vapeurs ont produit les acides. D’où les vapeurs sont-elles venues? Nous
-pouvons dire que les vapeurs ont été produites par les molécules. Mais d’où les molécules
-sont-elles venues? Des atomes. D’où les atomes sont-ils venus? Des électrons. D’où sont-ils
-venus? De la lumière cosmique. Vous voyez! Vous voilà bien avancés! Vous devez de nouveau
-faire appel à un chimiste! Et si c’est une substance, une création, elle doit provenir d’un Créateur,
-aussi n’est-ce pas par hasard que vous êtes assis ici.
-351 Ce n’est pas par hasard que je vous retiens ici jusqu’à midi et demi ou une heure! Les pas du
-juste sont dirigés par le Seigneur. Vous voyez? Il y a une raison à cela. Il y a une raison pour vous
-de croire. Il y a aussi une raison pour vous de ne pas croire, comme pour cette encre. Maintenant
-continuons d’analyser cela.
-352 Nous revenons en arrière jusqu’aux molécules. Prenons les molécules. Nous mettons la
-molécule numéro un avec la molécule numéro neuf et les associons avec la molécule numéro
-douze; s’il s’agit de la molécule onze, cela tourne au rouge; mais il faut la molécule douze pour
-obtenir le noir. Descendons jusqu’aux atomes. Il a fallu prendre l’atome numéro 96 plus l’atome
-numéro 43 pour arriver à l’atome 1611. Si on avait mis l’atome 1612, cela aurait donné une couleur
-pourpre. Vous continuez ainsi l’analyse toujours plus loin.
-353 Cela nous montre qu’il y a eu quelque chose au départ. C’est une simple question de bon
-sens. C’est une création et il a fallu un Créateur; tout est venu d’un Créateur et fut ensuite
-déterminé et mis sous ces différentes formes. Maintenant la science ne peut pas prendre l’atome
-B-seize fois douze fois quatorze fois, etc… ou quoi que ce soit pour faire ceci ou cela. C’est Dieu
-qui a dû faire cela. Alors c’est devenu un ensemble d’atomes et c’est alors seulement que la
-science a pu commencer à y toucher.
-354 Ensuite cela s’est transformé en molécules et ils peuvent commencer à y voir un peu plus
-clair. Ensuite cela devient quelque chose d’autre, et bientôt tout cela devient des produits
-chimiques qui se mélangent et se combinent.
-355 Je vais m’arrêter mais écoutez-moi bien. Quand l’homme pécha, il se sépara de Dieu et
-traversa un grand abîme; et il se plongea dans la mort de ce côté-ci de l’abîme. Il quitta sa position
+309 Je ne dis pas un mot. J’étais là pour m’occuper des affaires de mon Père, pour me tenir à la Parole, c’était tout. C’est Lui qui m’avait envoyé là.
 
-        http://www.cmpp.ch
+310 Le soir quand j’allai là-bas, je dis: «Je ne suis pas un guérisseur divin [divine healer — N.d.T.]. Ceux qui le disent sont dans l’erreur; je ne veux pas être appelé un guérisseur divin. Si le Dr Bess ici prêche le salut, il n’aimerait pas qu’on l’appelât un sauveur divin et lui-même dit qu’il n’est pas un sauveur divin. Certainement qu’il ne l’est pas, pas plus que moi-même ne suis un guérisseur divin. Mais: par Ses meurtrissures nous sommes guéris. C’est là-dessus que j’insiste. Autrement c’est une absurdité!». On ne fait que tourner en rond.
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 34
-et il n’y eut pas de chemin de retour. Parfaitement. Il n’y a pas de moyen qui lui permette de
-revenir. Mais alors, quand il fit cela, Dieu accepta un substitut qui était un agneau, un bouc ou un
-mouton ou quelque chose, devant verser son sang; Abel en avait parlé de l’autre côté de l’abîme.
-356 De ce côté-là il est un fils de Dieu, il est un rejeton de Dieu. Il est un héritage de la terre. Il a
-autorité sur la nature. Il peut amener à l’existence par la Parole. Pourquoi? Parce qu’il est un
-créateur lui-même. Il est un rejeton de Dieu.
-357 Mais quand il traversa l’abîme il se sépara de sa nature de fils. Alors il devint une nature
-pécheresse sous la main et la domination de Satan. Et Dieu accepta le sacrifice de ce sang
-d’origine chimique, donc terrestre; mais le sang des boeufs et des boucs ne pouvait pas
-séparer du péché; il ne pouvait que couvrir le péché.
-358 Si j’ai une tache rouge sur la main et que je la recouvre de blanc, la tache est toujours là.
-Vous voyez, elle est toujours là, mais Dieu a envoyé du Ciel un Décolorant pour le péché: C’est le
-Sang de Son propre Fils. Quand nos péchés confessés tombent dans le Décolorant de Dieu, vous
-pouvez toujours essayer de les retrouver! La couleur du péché retourne, par le moyen du
-Médiateur, et remonte les âges jusqu’à ce qu’il frappe l’accusateur, Satan, sur lequel il demeure
-jusqu’au jour du jugement.
-359 Qu’arrive-t-il au fils? Il retrouve de nouveau une parfaite communion avec le Père et se tient
-de l’autre côté de l’abîme sans aucun souvenir de péché à sa charge. Il n’y a plus de trace qui
-puisse être vue nulle part. Il est libre! Alléluia! De même que cette encre qui ne peut plus jamais
-être encre parce qu’elle a été dissoute et renvoyée à ses origines.
-360 Et si le péché est confessé et qu’il a été plongé par la main de l’homme et de la femme qui ont
-été eux-mêmes plongés dans le Sang de Jésus-Christ, cela tue tous les symptômes. Et chaque
-molécule du péché retourne à Satan et demeure sur lui jusqu’au jour du jugement où sa
-destination pour l’éternité est d’être jeté dans l’étang de feu; et l’abîme est franchi pour ne plus
-jamais revenir à la mémoire. Et l’homme est là, justifié en tant que fils de Dieu. La simplicité.
-361 Moïse était sous le sang des boeufs et des boucs quand il confessait la Parole de Dieu; aussi
-Dieu put-Il se servir de cet homme simple et mettre Sa Parole dans sa bouche. Il prouva qu’il était
-le serviteur de Jéhovah parce qu’il put sortir… Jéhovah lui parla par des visions. Il sortit et étendit
-ses mains vers l’orient. Or rappelez-vous que c’est Dieu qui lui parla; c’était la pensée de Dieu.
-Dieu se sert de l’homme. Dieu lui parla; c’est vrai!
-362 Il lui dit: “Etends cette verge qui est dans ta main du côté de l’orient et dis: Qu’il y ait des
-mouches…”.
-363 Et Moïse sous le sang des boucs et des brebis sortit, prit cette verge et la tendit dans la
-direction de l’orient, disant: “Ainsi dit le Seigneur, qu’il y ait des mouches!”. On ne vit alors aucune
-mouche. Il s’en retourna; la parole avait été prononcée! C’était une pensée; ensuite elle avait
-été prononcée, exprimée. C’était maintenant la Parole de Dieu. Elle vint sur des lèvres
-humaines, celles d’un simple homme qui était sous le sang d’un taureau ou d’un bouc.
-364 La première chose que vous auriez remarquée, c’était une mouche verte en train de voleter.
-Un moment après, il y en avait plusieurs kilos au mètre carré. Qu’était-ce? C’était la Parole de
-Dieu prononcée par Moïse, le créateur, parce que sous le sang il se tenait en la présence de Dieu
-et ce qu’il disait n’était pas sa propre parole.
-365 “Si vous demeurez en moi, et que mes paroles demeurent en vous, demandez ce que vous
-voudrez et cela vous sera accordé”. Où en est l’Eglise? “Qu’il y ait des grenouilles!”. Il n’y avait pas
-une grenouille dans le pays. En l’espace d’une heure il y en avait par endroits une épaisseur de
-plusieurs pieds. Qu’était-ce donc? C’était Dieu le Créateur se cachant dans un simple homme.
-366 Je veux maintenant vous demander quelque chose. Si le sang d’un taureau ou d’un bouc est
-utilisé comme dissolvant (il ne peut que couvrir), si ce sang peut mettre un homme dans la
-condition de prononcer la Parole créatrice de Dieu et d’amener des mouches à l’existence,
-pourquoi vous achopperiez-vous au Décolorant du Sang de Jésus-Christ, Lequel put amener à
-l’existence un écureuil ou d’autres choses par Sa Parole?
-367 Ne le faites pas. Ne vous achoppez pas à la simplicité. Croyez qu’Il est encore Dieu. Qu’il
-pardonne les péchés. Marc 11.23 dit: “Si quelqu’un dit à cette montagne: Ote-toi de là et jette-toi
-dans la mer, et s’il ne doute point en son coeur, mais croit que ce qu’il dit arrive, il le verra
+311 Je dis: «Mais si c’est la présence et le don de Dieu, si c’est cet Ange du Seigneur que vous contestez, cela peut être prouvé!». C’est à peu près à ce moment-là que vint le tourbillon. Je dis: «Plus besoin d’en parler maintenant. Il a déjà parlé pour moi». Alors je sortis.
 
-        http://www.cmpp.ch
+312 Je suis allé à Houston, cette grande ville, une des plus belles de notre pays. Lorsque j’y suis retourné l’autre jour, elle faisait pitié à voir! Les rues étaient sales comme aussi les grands magasins de Texas Avenue. J’entrai à l’Hôtel Rice où les stars de cinéma ont l’habitude de descendre et allai à la cafétéria au sous-sol. Des morceaux de plâtre tombés traînaient par terre. Partout il n’y avait que souillure et saleté, et même parmi les prédicateurs régnait une confusion comme il n’y en a jamais eue et comme je n’en ai jamais entendu parler de ma vie!
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 35
-s’accomplir”.
-368 J’ai encore trois ou quatre pages, mais nous devons nous arrêter et les laisser de côté. Je
-vous remercie. Dieu se cachant dans la simplicité. Ne comprenez-vous pas? Il y a quelque
-chose de faux quelque part. Il y a quelque chose de faux quelque part. Il y a quelque chose de
-faux quelque part. Quand Dieu fait une déclaration Il ne peut pas mentir. Il a fait la promesse. Il se
-cache dans la simplicité. C’est si simple que les sages et les intelligents disent: “Oh, c’est de la
-télépathie!” ou quelque chose de semblable.
-369 Dieu peut retourner rapidement dans les âges passés et vous dire exactement tout ce qui s’y
-est produit. Il peut vous dire exactement ce que vous êtes aujourd’hui et ce que vous serez dans
-l’avenir. C’est toujours valable grâce au décolorant de Jésus-Christ, Lequel peut prendre un
-pécheur et le blanchir et faire qu’il se tienne en la présence de Dieu. “Et si vous demeurez en moi
-et que mes paroles demeurent en vous, alors demandez ce que vous voudrez…”.
-370 “Celui qui croit en moi fera aussi les oeuvres que je fais”. “Pourquoi me condamnez-vous,
-est-ce que votre propre loi n’appelle pas dieux les prophètes à qui la Parole de Dieu a été
-adressée? Pourquoi donc me condamnez-vous quand je dis que je suis le Fils de Dieu?”. Ils
-manquèrent de voir cela. Ils manquèrent de le voir.
-371 Maintenant, Eglise, dans les messages qui viendront depuis ce soir, ne manque pas de voir
-cela! Discerne le jour dans lequel nous vivons. Rappelle-toi que le Sang de Jésus-Christ ôte tes
-péchés et les emmène si loin de toi qu’ils ne sont même plus dans le souvenir de Dieu. Il enlève
-toutes les taches.
-      Le péché avait laissé une tache cramoisie,
-      Il l’a lavée et rendue blanche comme neige.
-      Alors devant le trône
-      Je me tiens, parfait en Lui.
-372 Oh, mes frères! comment puis-je être parfait? Comment puis-je être parfait? Parce que le
-Sang (pas moi mais le Sang) se tient entre Dieu et moi. Je L’ai accepté et Il me L’a appliqué. Je
-suis un pécheur mais Il est Dieu. Mais cette substance chimique se tient entre Dieu et moi pour
-tuer le péché et Dieu me voit alors aussi blanc que l’eau qui est dans le décolorant. Le péché est
-parti. On ne peut même plus le toucher parce qu’il y a là un Sacrifice.
-373 Où est votre foi pour croire à la simple Parole de Dieu, pour croire simplement à ce que
-Dieu dit et le prendre à Sa Parole? Dieu se cache maintenant dans la simplicité, dans un
-humble petit groupe; mais un de ces jours Il se manifestera comme Il l’a toujours fait dans
-les temps passés. L’aimez-vous?
-      Je L’aime, je L’aime
-      Parce qu’Il m’aima le premier
-      Et acquit mon salut
-      Sur le bois du Calvaire.
-374 Est-ce que vous L’aimez? N’est-ce pas merveilleux? Je le souhaite et crois que le message
-produira ce qu’il était destiné à produire; qu’il vous amènera à une position où vous ne chercherez
-plus les choses fleuries ou autres. Mais quand vous voyez Dieu dans la grandeur, voyez combien
-cela est humble, et alors vous verrez Dieu.
-375 Quand Elie fut dans sa caverne, cherchant la gloire de Dieu, il y eut les tonnerres, les éclairs
-et toutes ces sensations telles que celles que nous avons aujourd’hui, sang sur la face et dans les
-mains, mais cela ne troubla aucunement le prophète. Il attendit tranquillement et il entendit une
-petite voix douce. Qu’était-ce? La Parole. Alors il se couvrit la face et sortit. Vous voyez! C’était
-cela.
-376 Rappelez-vous, mes amis, ne cherchez pas les choses spectaculaires. Vous dites: “Dieu”.
-Cela parle de grandes choses glorieuses. Un temps viendra où il arrivera ceci et cela, de grandes
-choses glorieuses. Je souhaite que vous compreniez bien ce que je vous dis: de grandes choses
-glorieuses. Quand cela arrivera ce sera grand et glorieux, mais cela sera si humble que vous
-manquerez le tout et continuerez comme si de rien n’était.
-377 Alors vous regarderez en arrière et vous direz: «Ceci ne s’est jamais passé!». Cela vous aura
-passé par-dessus la tête et vous ne l’aurez même pas vu parce que cela aura été trop simple!
+313 Pourquoi cela? Parce que refuser la Lumière, c’est marcher dans les ténèbres. Cela place leurs enfants dans les rangs de la mort. De même que Dieu descendit et qu’alors la simplicité fut manifestée et rejetée, Dieu s’est encore manifesté dans la simplicité. On en a pris cette photo qui a parcouru le monde entier. Même les savants ont déclaré que cette photographie suspendue à Washington dans la galerie des arts religieux était le seul être surnaturel à avoir jamais été photographié dans toute l’histoire du monde. C’est la simplicité manifestée. Vous voyez! Dieu se cache dans la simplicité, puis se manifeste Lui-même.
 
-        http://www.cmpp.ch
+314 Il s’était caché dans la mort de Christ, mais se manifesta Lui-même dans la résurrection et ainsi de suite. Cela n’a pas de fin. Nier l’existence de la lumière du soleil, c’est aller à la cave et fermer les yeux à la lumière. C’est vrai!
 
-LA REVELATION DES SEPT SCEAUX — DIEU CACHE ET REVELE DANS LA SIMPLICITE 36
-Dieu vit dans la simplicité pour se manifester Lui-même dans la grandeur. Qu’est-ce qui Le rend si
-grand? C’est parce qu’Il peut se rendre simple. Un grand homme ne peut pas se rendre simple; il
-doit être un grand dignitaire. Vous voyez? Mais c’est parce qu’il n’est pas encore assez grand.
-Quand il devient assez grand alors il s’abaisse ainsi et s’humilie.
-378 Comme l’a dit ce saint vieillard là-bas à Chicago: cet homme vint avec toute sa connaissance,
-son éducation, etc. et voici qu’il repartit abattu, tête baissée, marchant en vaincu. Le vieillard dit
-encore: «S’il était monté de la manière dont il est descendu, il serait descendu de la manière dont
-il est monté».
-379 C’est vrai! Humiliez-vous. Soyez humble. N’essayez pas d’être excentrique, aimez
-simplement Jésus. Dites: «Seigneur, s’il y a quelque ruse dans mon coeur, s’il y a quelque chose
-de faux, ô Père! je ne veux pas être ainsi. Toi, enlève-le. Je ne veux pas être ainsi».
-380 «Je veux être compté parmi eux en ce jour, Seigneur, et je vois que ce jour approche». Vous
-voyez que ces Sceaux commencent à… Si Dieu veut nous les ouvrir… Rappelez-vous que Lui
-seul peut le faire. Nous dépendons de Lui. Que Dieu vous bénisse!
+315 Rappelez-vous que la seule façon d’être dans l’erreur c’est de commencer par refuser la vérité. Refusez d’ouvrir les yeux et vous vivrez dans les ténèbres! Si vous refusez de regarder, comment verrez-vous? Veillez aux choses simples! Il s’agit des petites choses que vous ne faites pas et non pas des grandes choses que vous essayez de faire.
 
+316 Dans Matthieu 11.14 il est dit: “Si vous voulez le comprendre, c’est lui, l’Elie qui devait venir, c’est lui qui a été envoyé devant moi”. C’était la simplicité.
 
+317 Un jour on Lui posa cette question: “Pourquoi donc les scribes disent-ils qu’Elie doit venir premièrement?”.
 
+318 Il répondit: “Le Fils de l’homme doit monter à Jérusalem. Je serai livré entre les mains des pécheurs et ceux-ci mettront à mort le Fils de l’homme. Il mourra mais ressuscitera le troisième jour”. Il leur dit encore: “Ne racontez cette vision à personne”.
 
+319 Ainsi (pensez-y) les disciples qui avaient marché autrefois avec Jean, lui avaient parlé, avaient mangé avec lui dans le désert, qui s’étaient assis avec lui sur la berge, posèrent cette question: “Pourquoi les docteurs disent-ils qu’Elie doit venir premièrement?”. Tu nous dis que Tu vas être crucifié et que Tu ressusciteras; que Tu es le Messie, que Tu prendras le Trône; or toutes nos Ecritures disent qu’avant la venue du Christ, Elie viendra premièrement.
 
+320 Il répondit: “Il est déjà venu, mais vous ne l’avez pas reconnu”. Et qu’étaient ces gens? Des disciples!
 
+321 Je vais peut-être vous blesser un peu pendant quelques minutes. Ce n’est pas que je le désire, mais c’est afin que vous me compreniez bien. Ces hommes qui avaient marché avec Christ lui demandaient: “Pourquoi l’Ecriture dit-Elle qu’Elie doit venir premièrement?”. Ils étaient les propres convertis de Jean et ne l’avaient pas reconnu! Comprenez-vous ce que je veux dire? Les disciples, ceux-là mêmes qui avaient marché avec Jean, demandèrent à Jésus: “Pourquoi l’Ecriture, ou plutôt les scribes, disent-ils qu’Elie doit venir avant ces choses pour rétablir toutes choses?”. Il le fit pour environ une demi-douzaine de personnes, c’est tout. C’étaient tous ceux qui devaient recevoir cela. C’étaient ceux qui étaient prédestinés à le comprendre.
 
+322 Jésus dit: “Elie est déjà venu, mais ils ne l’ont pas reconnu. Cependant il a simplement fait ce que l’Ecriture avait annoncé qu’il ferait. Il vous a rétablis, vous tous qui me recevez et qui croyez en moi. Il a fait exactement ce que l’Ecriture avait dit qu’il ferait mais eux lui firent ce que l’Ecriture avait dit qu’ils lui feraient. Il est déjà venu, mais vous ne l’avez pas reconnu”. Etes-vous prêts?
 
+323 Je voudrais vous donner un petit choc. L’enlèvement se fera de la même manière. Ce sera si simple, ce sera sans doute pareil. L’enlèvement va se produire un de ces jours et personne ne s’en apercevra.
 
+324 Non, ne vous levez pas encore, mais méditez juste une minute. Je vais m’arrêter. L’enlèvement se fera d’une manière si simple qu’ils devront attendre que les jugements tombent et qu’ils voient le Fils de l’homme pour se dire: “Ne devait-il pas arriver ceci et cela? Elie ne devait-il pas nous être envoyé? Ne devait-il pas y avoir un enlèvement?”.
 
-    http://www.cmpp.ch
+325 Alors Jésus répondra: “C’est déjà arrivé, mais vous ne vous en êtes pas aperçus!”. Dieu dans la simplicité.
+
+326 Cette semaine nous allons recevoir quelques enseignements profonds sur ce sujet. Alors faites bien attention! Quand l’enlèvement arrivera, il y en aura si peu qui iront dans cette Epouse! Mais vous voyez comment les théologiens ont reçu cela? Ils ont établi des listes où ils montrent que dix millions de gens seront enlevés; si c’est un prédicateur Méthodiste qui parle, ce seront tous des Méthodistes. Si c’est un Pentecôtiste, ce sont tous des Pentecôtistes! Ils n’y sont pas du tout!
+
+327 Il y en aura peut-être un qui quittera Jeffersonville, quelqu’un qui sera enlevé et qui disparaîtra; ceux qui restent n’en sauront rien. Il y en a peut-être un qui quittera la Géorgie, un qui quittera l’Afrique. Disons qu’il y aura peut-être 500 personnes vivantes dans l’enlèvement. Ce n’est pas le corps de l’église, mais l’Epouse. Ce n’est pas l’église, mais l’Epouse. L’église ressuscitera par milliers, mais à la prochaine résurrection: “Les autres morts ne revinrent point à la vie jusqu’à ce que les mille ans fussent accomplis”. Mais pour ce qui est de l’Epouse, si 500 personnes étaient enlevées de la terre à cette minute, le monde ne s’en apercevrait même pas.
+
+328 Jésus dit: “De deux personnes qui seront dans un même lit, une sera prise, et l’autre laissée”. Cela, c’est pour la nuit. “De deux hommes qui seront dans un champ (c’est pour l’autre côté de la terre), l’un sera pris, l’autre laissé… Ce qui arriva du temps de Noé arrivera de même au jour du Fils de l’homme”.
+
+329 Pensez-y! Tout se passera aussi simplement que possible. Un message pressant circulera et voici ce que vous entendrez: «Ce pasteur est parti quelque part mais n’est pas revenu. Il est probablement allé chasser dans la forêt et il n’est plus revenu. Ce type est parti quelque part…». D’une jeune fille on dira: «Peut-être que quelqu’un l’a enlevée, puis jetée dans la rivière!».
+
+330 Il se peut qu’une personne seulement sur cent millions reconnaisse ce moment. A moins que quelqu’un ne connaisse ces choses, il dira: “Cette jeune fille a disparu! Je n’y puis rien comprendre: elle n’était jamais partie ainsi!”.
+
+331 Et quand ils disent que les tombes s’ouvriront! Comment les tombes vont-elles s’ouvrir? Je n’ai pas le temps de traiter cette question comme je voulais le faire. Je vous montre juste la simplicité de Dieu. Et cette chaux, cette potasse et autres produits, toutes ces choses qui sont en vous remplissent à peine une cuiller. C’est vrai! Et tout cela redeviendra esprit, vie!
+
+332 Dieu n’aura qu’à parler et l’enlèvement aura lieu. Il n’y aura pas d’anges qui descendront avec des pelles pour creuser les tombes et en extraire de vieilles carcasses mortes. Tout cela est né du péché. Qu’est-ce qui se passera alors? Il y aura un nouveau corps, de même apparence. Si nous avions notre ancien corps nous mourrions de nouveau. Personne ne peut dire: «Les tombeaux s’ouvriront; les morts en sortiront». Cela peut être vrai, mais ils ne s’ouvriront pas dans le sens habituel de ce mot. Assurément pas! Cela ne se passera pas de cette manière. C’est un secret parce qu’Il a dit qu’Il viendrait “comme un voleur dans la nuit”.
+
+333 Il nous a pourtant dit qu’il y aurait d’abord l’enlèvement, puis que les jugements tomberaient: péchés, fléaux, maladies, etc. Les gens chercheront la mort à grands cris pour échapper au jugement: “Seigneur, pourquoi ce jugement sur nous alors que Tu disais qu’il y aurait d’abord un enlèvement?”.
+
+334 Il répondra: “Il a déjà eu lieu et vous ne l’avez pas reconnu”. Dieu se cachant dans la simplicité. Oh, mes frères!
+
+335 Voilà. “Il a déjà eu lieu et vous ne l’avez pas reconnu”. Pourquoi les croyants ne croient-ils pas les simples signes de Sa venue? Ils attendent toutes ces choses dont il est parlé dans l’Ecriture: que la lune tombera et que le soleil s’éteindra au milieu du jour et qu’il se produira toutes sortes de choses.
+
+336 Je possède ici des notes écrites pour montrer ce que sont ces choses, et de toute façon nous les recevrons quand nous briserons les Sceaux cette semaine. Ces choses qui ont déjà eu lieu et que vous n’avez pas reconnues. Si l’Ange du Seigneur brisa ces Sceaux pour nous, rappelez-vous qu’avec eux sont scellés ces sept mystérieux tonnerres.
+
+337 Pourquoi les gens ne peuvent-ils pas croire tout bonnement à la simplicité d’un groupe d’hommes humbles ni à la voix des signes de Dieu? Toujours pour la même raison: la vraie Parole de Dieu ayant été manifestée, ils sont trop civilisés et trop lettrés pour croire à la simplicité de la Parole écrite. Ils veulent y ajouter leur propre interprétation: “Cela ne signifie pas ceci, cela ne signifie pas cela”. Eh bien oui, cela veut bien dire ceci et cela!
+
+338 Ecoutez-moi. Puis-je encore dire ceci rapidement? Même les visions que Dieu donne en ce lieu sont si mal comprises! C’est la raison pour laquelle vous m’entendez dire sur les bandes magnétiques: «Dites ce que disent les bandes magnétiques. Dites ce que disent les visions».
+
+339 Maintenant si vous êtes bien réveillés vous allez voir quelque chose. J’espère que je n’ai pas besoin de le tenir dans ma main pour vous le montrer. Le voici. Cela échappera aux sages et aux intelligents. Une vision, quand elle est révélée dans une telle simplicité, passe au-dessus de la tête des gens.
+
+340 Une fois à la chasse j’ai eu une vision et je vous en ai raconté tous les détails; des gens s’y sont achoppés. Mais Dieu me l’avait donnée dans un but précis; il s’agissait du départ de ma mère et d’autres choses qu’Il me faisait connaître d’avance. Tout s’est réalisé exactement comme Il me l’avait montré.
+
+341 Vous voyez! Jean-Baptiste est venu et a déclaré: “Je ne suis pas le Messie, mais je suis la voix de celui qui crie dans le désert…”. Et alors ses propres disciples dirent: “Pourquoi les scribes enseignent-ils qu’il est écrit qu’Elie doit venir premièrement?”. La simplicité de Dieu passe au-dessus de la tête des gens.
+
+342 Examinons encore ceci, avec la grâce de Dieu, et ensuite nous terminerons. Nous allons maintenant exposer cela avec l’aide de Dieu. Je suis désolé de vous retenir si longtemps mais nous reviendrons dans quelques heures.
+
+343 Prenons une simple goutte d’encre. Toute chose a sa raison d’être. Vous vous êtes rassemblés ici ce matin dans un certain but. Je mange chez toi, Charly; toi, Nelly, si tu as cuisiné pour moi c’est pour une raison déterminée. Tout a sa raison d’être. Cette église n’a pas été érigée pour rien. Il n’y a rien qui soit sans but et sans cause.
+
+344 Prenons donc cette goutte d’encre et étudions-la. Qu’est-ce que c’est? Une goutte d’encre. D’où vient-elle? Cette encre noire a sa raison d’être. Elle peut servir à écrire ma libération d’un pénitencier ou ma grâce dans ma cellule de condamné à mort. Est-ce vrai?
+
+345 Elle peut écrire Jean 3.16 et sauver mon âme, si je le crois. Est-ce vrai? Elle peut encore signer mon arrêt de mort. Au tribunal elle peut me condamner. Elle a une raison d’être. N’est-ce pas vrai? Bien, regardons cette encre et voyons d’où elle vient. C’est de l’encre, elle a été faite avec des produits chimiques et elle est noire.
+
+346 Vous la laissez tomber sur vos vêtements: elle les tache. Mais nous avons fabriqué un produit appelé décolorant. Vous, femmes, employez le produit «Clorox». Je prends une goutte d’encre et je la verse dans une cuvette pleine de ce décolorant. Qu’arrive-t-il à l’encre? Le décolorant a été inventé et fabriqué chimiquement pour dissoudre la couleur jusqu’à ce qu’on ne puisse plus la trouver.
+
+347 Une partie du décolorant est de l’eau; l’eau c’est «H2O», ce qui est de l’hydrogène et de l’oxygène, et tous les deux ensemble forment un dangereux explosif. L’hydrogène et l’oxygène sont effectivement des cendres; des cendres chimiques, c’est ce qu’ils sont. Seulement des résidus chimiques. Si vous les mélangez vous obtenez de l’eau; mais séparez-les et vous aurez de l’hydrogène et de l’oxygène, c’est-à-dire que cela retournera à ce que c’était.
+
+348 Mais je ne puis pas parler de cela. Car il se peut qu’il y ait des chimistes dans la salle et je ne pourrais pas en parler car les chimistes l’écouteraient. Je ne connais pas les formules mais je veux juste l’expliquer humblement, à ma façon, ayant confiance que Dieu se révélera par ce moyen.
+
+349 Voyez: j’ai laissé tomber cette goutte d’encre dans le décolorant; qu’est-il arrivé? Immédiatement la tache noire a disparu; vous ne pourriez plus la trouver, elle est partie. Vous ne la verrez plus jamais. Que s’est-il passé? Vous ne pourrez plus rien voir sortir de là. Pourquoi? Parce qu’elle est désintégrée. La science répondrait: «Elle est retournée à ses acides originaux».
+
+350 D’où sont venus les acides? Vous pourriez dire: «Ils proviennent de certaines choses», dire par exemple que les vapeurs ont produit les acides. D’où les vapeurs sont-elles venues? Nous pouvons dire que les vapeurs ont été produites par les molécules. Mais d’où les molécules sont-elles venues? Des atomes. D’où les atomes sont-ils venus? Des électrons. D’où sont-ils venus? De la lumière cosmique. Vous voyez! Vous voilà bien avancés! Vous devez de nouveau faire appel à un chimiste! Et si c’est une substance, une création, elle doit provenir d’un Créateur, aussi n’est-ce pas par hasard que vous êtes assis ici.
+
+351 Ce n’est pas par hasard que je vous retiens ici jusqu’à midi et demi ou une heure! Les pas du juste sont dirigés par le Seigneur. Vous voyez? Il y a une raison à cela. Il y a une raison pour vous de croire. Il y a aussi une raison pour vous de ne pas croire, comme pour cette encre. Maintenant continuons d’analyser cela.
+
+352 Nous revenons en arrière jusqu’aux molécules. Prenons les molécules. Nous mettons la molécule numéro un avec la molécule numéro neuf et les associons avec la molécule numéro douze; s’il s’agit de la molécule onze, cela tourne au rouge; mais il faut la molécule douze pour obtenir le noir. Descendons jusqu’aux atomes. Il a fallu prendre l’atome numéro 96 plus l’atome numéro 43 pour arriver à l’atome 1611. Si on avait mis l’atome 1612, cela aurait donné une couleur pourpre. Vous continuez ainsi l’analyse toujours plus loin.
+
+353 Cela nous montre qu’il y a eu quelque chose au départ. C’est une simple question de bon sens. C’est une création et il a fallu un Créateur; tout est venu d’un Créateur et fut ensuite déterminé et mis sous ces différentes formes. Maintenant la science ne peut pas prendre l’atome B-seize fois douze fois quatorze fois, etc… ou quoi que ce soit pour faire ceci ou cela. C’est Dieu qui a dû faire cela. Alors c’est devenu un ensemble d’atomes et c’est alors seulement que la science a pu commencer à y toucher.
+
+354 Ensuite cela s’est transformé en molécules et ils peuvent commencer à y voir un peu plus clair. Ensuite cela devient quelque chose d’autre, et bientôt tout cela devient des produits chimiques qui se mélangent et se combinent.
+
+355 Je vais m’arrêter mais écoutez-moi bien. Quand l’homme pécha, il se sépara de Dieu et traversa un grand abîme; et il se plongea dans la mort de ce côté-ci de l’abîme. Il quitta sa position et il n’y eut pas de chemin de retour. Parfaitement. Il n’y a pas de moyen qui lui permette de revenir. Mais alors, quand il fit cela, Dieu accepta un substitut qui était un agneau, un bouc ou un mouton ou quelque chose, devant verser son sang; Abel en avait parlé de l’autre côté de l’abîme.
+
+356 De ce côté-là il est un fils de Dieu, il est un rejeton de Dieu. Il est un héritage de la terre. Il a autorité sur la nature. Il peut amener à l’existence par la Parole. Pourquoi? Parce qu’il est un créateur lui-même. Il est un rejeton de Dieu.
+
+357 Mais quand il traversa l’abîme il se sépara de sa nature de fils. Alors il devint une nature pécheresse sous la main et la domination de Satan. Et Dieu accepta le sacrifice de ce sang d’origine chimique, donc terrestre; mais le sang des boeufs et des boucs ne pouvait pas séparer du péché; il ne pouvait que couvrir le péché.
+
+358 Si j’ai une tache rouge sur la main et que je la recouvre de blanc, la tache est toujours là. Vous voyez, elle est toujours là, mais Dieu a envoyé du Ciel un Décolorant pour le péché: C’est le Sang de Son propre Fils. Quand nos péchés confessés tombent dans le Décolorant de Dieu, vous pouvez toujours essayer de les retrouver! La couleur du péché retourne, par le moyen du Médiateur, et remonte les âges jusqu’à ce qu’il frappe l’accusateur, Satan, sur lequel il demeure jusqu’au jour du jugement.
+
+359 Qu’arrive-t-il au fils? Il retrouve de nouveau une parfaite communion avec le Père et se tient de l’autre côté de l’abîme sans aucun souvenir de péché à sa charge. Il n’y a plus de trace qui puisse être vue nulle part. Il est libre! Alléluia! De même que cette encre qui ne peut plus jamais être encre parce qu’elle a été dissoute et renvoyée à ses origines.
+
+360 Et si le péché est confessé et qu’il a été plongé par la main de l’homme et de la femme qui ont été eux-mêmes plongés dans le Sang de Jésus-Christ, cela tue tous les symptômes. Et chaque molécule du péché retourne à Satan et demeure sur lui jusqu’au jour du jugement où sa destination pour l’éternité est d’être jeté dans l’étang de feu; et l’abîme est franchi pour ne plus jamais revenir à la mémoire. Et l’homme est là, justifié en tant que fils de Dieu. La simplicité.
+
+361 Moïse était sous le sang des boeufs et des boucs quand il confessait la Parole de Dieu; aussi Dieu put-Il se servir de cet homme simple et mettre Sa Parole dans sa bouche. Il prouva qu’il était le serviteur de Jéhovah parce qu’il put sortir… Jéhovah lui parla par des visions. Il sortit et étendit ses mains vers l’orient. Or rappelez-vous que c’est Dieu qui lui parla; c’était la pensée de Dieu. Dieu se sert de l’homme. Dieu lui parla; c’est vrai!
+
+362 Il lui dit: “Etends cette verge qui est dans ta main du côté de l’orient et dis: Qu’il y ait des mouches…”.
+
+363 Et Moïse sous le sang des boucs et des brebis sortit, prit cette verge et la tendit dans la direction de l’orient, disant: “Ainsi dit le Seigneur, qu’il y ait des mouches!”. On ne vit alors aucune mouche. Il s’en retourna; la parole avait été prononcée! C’était une pensée; ensuite elle avait été prononcée, exprimée. C’était maintenant la Parole de Dieu. Elle vint sur des lèvres humaines, celles d’un simple homme qui était sous le sang d’un taureau ou d’un bouc.
+
+364 La première chose que vous auriez remarquée, c’était une mouche verte en train de voleter. Un moment après, il y en avait plusieurs kilos au mètre carré. Qu’était-ce? C’était la Parole de Dieu prononcée par Moïse, le créateur, parce que sous le sang il se tenait en la présence de Dieu et ce qu’il disait n’était pas sa propre parole.
+
+365 “Si vous demeurez en moi, et que mes paroles demeurent en vous, demandez ce que vous voudrez et cela vous sera accordé”. Où en est l’Eglise? “Qu’il y ait des grenouilles!”. Il n’y avait pas une grenouille dans le pays. En l’espace d’une heure il y en avait par endroits une épaisseur de plusieurs pieds. Qu’était-ce donc? C’était Dieu le Créateur se cachant dans un simple homme.
+
+366 Je veux maintenant vous demander quelque chose. Si le sang d’un taureau ou d’un bouc est utilisé comme dissolvant (il ne peut que couvrir), si ce sang peut mettre un homme dans la condition de prononcer la Parole créatrice de Dieu et d’amener des mouches à l’existence, pourquoi vous achopperiez-vous au Décolorant du Sang de Jésus-Christ, Lequel put amener à l’existence un écureuil ou d’autres choses par Sa Parole?
+
+367 Ne le faites pas. Ne vous achoppez pas à la simplicité. Croyez qu’Il est encore Dieu. Qu’il pardonne les péchés. Marc 11.23 dit: “Si quelqu’un dit à cette montagne: Ote-toi de là et jette-toi dans la mer, et s’il ne doute point en son coeur, mais croit que ce qu’il dit arrive, il le verra s’accomplir”.
+
+368 J’ai encore trois ou quatre pages, mais nous devons nous arrêter et les laisser de côté. Je vous remercie. Dieu se cachant dans la simplicité. Ne comprenez-vous pas? Il y a quelque chose de faux quelque part. Il y a quelque chose de faux quelque part. Il y a quelque chose de faux quelque part. Quand Dieu fait une déclaration Il ne peut pas mentir. Il a fait la promesse. Il se cache dans la simplicité. C’est si simple que les sages et les intelligents disent: “Oh, c’est de la télépathie!” ou quelque chose de semblable.
+
+369 Dieu peut retourner rapidement dans les âges passés et vous dire exactement tout ce qui s’y est produit. Il peut vous dire exactement ce que vous êtes aujourd’hui et ce que vous serez dans l’avenir. C’est toujours valable grâce au décolorant de Jésus-Christ, Lequel peut prendre un pécheur et le blanchir et faire qu’il se tienne en la présence de Dieu. “Et si vous demeurez en moi et que mes paroles demeurent en vous, alors demandez ce que vous voudrez…”.
+
+370 “Celui qui croit en moi fera aussi les oeuvres que je fais”. “Pourquoi me condamnez-vous, est-ce que votre propre loi n’appelle pas dieux les prophètes à qui la Parole de Dieu a été adressée? Pourquoi donc me condamnez-vous quand je dis que je suis le Fils de Dieu?”. Ils manquèrent de voir cela. Ils manquèrent de le voir.
+
+371 Maintenant, Eglise, dans les messages qui viendront depuis ce soir, ne manque pas de voir cela! Discerne le jour dans lequel nous vivons. Rappelle-toi que le Sang de Jésus-Christ ôte tes péchés et les emmène si loin de toi qu’ils ne sont même plus dans le souvenir de Dieu. Il enlève toutes les taches.
+
+> Le péché avait laissé une tache cramoisie,
+> Il l’a lavée et rendue blanche comme neige.
+> Alors devant le trône
+> Je me tiens, parfait en Lui.
+
+372 Oh, mes frères! comment puis-je être parfait? Comment puis-je être parfait? Parce que le Sang (pas moi mais le Sang) se tient entre Dieu et moi. Je L’ai accepté et Il me L’a appliqué. Je suis un pécheur mais Il est Dieu. Mais cette substance chimique se tient entre Dieu et moi pour tuer le péché et Dieu me voit alors aussi blanc que l’eau qui est dans le décolorant. Le péché est parti. On ne peut même plus le toucher parce qu’il y a là un Sacrifice.
+
+373 Où est votre foi pour croire à la simple Parole de Dieu, pour croire simplement à ce que Dieu dit et le prendre à Sa Parole? Dieu se cache maintenant dans la simplicité, dans un humble petit groupe; mais un de ces jours Il se manifestera comme Il l’a toujours fait dans les temps passés. L’aimez-vous?
+
+> Je L’aime, je L’aime
+> Parce qu’Il m’aima le premier
+> Et acquit mon salut
+> Sur le bois du Calvaire.
+
+374 Est-ce que vous L’aimez? N’est-ce pas merveilleux? Je le souhaite et crois que le message produira ce qu’il était destiné à produire; qu’il vous amènera à une position où vous ne chercherez plus les choses fleuries ou autres. Mais quand vous voyez Dieu dans la grandeur, voyez combien cela est humble, et alors vous verrez Dieu.
+
+375 Quand Elie fut dans sa caverne, cherchant la gloire de Dieu, il y eut les tonnerres, les éclairs et toutes ces sensations telles que celles que nous avons aujourd’hui, sang sur la face et dans les mains, mais cela ne troubla aucunement le prophète. Il attendit tranquillement et il entendit une petite voix douce. Qu’était-ce? La Parole. Alors il se couvrit la face et sortit. Vous voyez! C’était cela.
+
+376 Rappelez-vous, mes amis, ne cherchez pas les choses spectaculaires. Vous dites: “Dieu”. Cela parle de grandes choses glorieuses. Un temps viendra où il arrivera ceci et cela, de grandes choses glorieuses. Je souhaite que vous compreniez bien ce que je vous dis: de grandes choses glorieuses. Quand cela arrivera ce sera grand et glorieux, mais cela sera si humble que vous manquerez le tout et continuerez comme si de rien n’était.
+
+377 Alors vous regarderez en arrière et vous direz: «Ceci ne s’est jamais passé!». Cela vous aura passé par-dessus la tête et vous ne l’aurez même pas vu parce que cela aura été trop simple! Dieu vit dans la simplicité pour se manifester Lui-même dans la grandeur. Qu’est-ce qui Le rend si grand? C’est parce qu’Il peut se rendre simple. Un grand homme ne peut pas se rendre simple; il doit être un grand dignitaire. Vous voyez? Mais c’est parce qu’il n’est pas encore assez grand. Quand il devient assez grand alors il s’abaisse ainsi et s’humilie.
+
+378 Comme l’a dit ce saint vieillard là-bas à Chicago: cet homme vint avec toute sa connaissance, son éducation, etc. et voici qu’il repartit abattu, tête baissée, marchant en vaincu. Le vieillard dit encore: «S’il était monté de la manière dont il est descendu, il serait descendu de la manière dont il est monté».
+
+379 C’est vrai! Humiliez-vous. Soyez humble. N’essayez pas d’être excentrique, aimez simplement Jésus. Dites: «Seigneur, s’il y a quelque ruse dans mon coeur, s’il y a quelque chose de faux, ô Père! je ne veux pas être ainsi. Toi, enlève-le. Je ne veux pas être ainsi».
+
+380 «Je veux être compté parmi eux en ce jour, Seigneur, et je vois que ce jour approche». Vous voyez que ces Sceaux commencent à… Si Dieu veut nous les ouvrir… Rappelez-vous que Lui seul peut le faire. Nous dépendons de Lui. Que Dieu vous bénisse!

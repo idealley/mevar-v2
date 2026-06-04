@@ -1,587 +1,353 @@
+---
+source: "cmpp"
+sermon_id: "7sceaux9"
+title: "Questions et réponses sur les Sceaux"
+subtitle: "24 mars 1963, matin"
+date: "1963-03-24"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham répond à des questions sur les sept sceaux, les vierges sages et folles, le mariage après divorce, l'huile et le vin, le Livre de Vie, et le salut des Juifs. Il exhorte à ne pas interpréter les révélations et à continuer fidèlement son service."
+tags:
+  - "sept sceaux"
+  - "questions et réponses"
+  - "vierges sages"
+  - "mariage"
+  - "Livre de Vie"
+  - "salut des Juifs"
+persons:
+  - "William Marrion Branham"
+  - "Moïse"
+  - "Élie"
+  - "Énoch"
+  - "Paul"
+  - "Luther"
+  - "Wesley"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "États-Unis"
+themes:
+  - "révélation des sceaux"
+  - "interprétation biblique"
+  - "fidélité chrétienne"
+  - "prédestination"
+  - "Saint-Esprit"
+pdf_url: "http://cmpp.ch/7sceaux9.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 12"
+  - "1 Rois 17"
+  - "1 Rois 19"
+  - "Actes 2"
+  - "Apocalypse 11"
+  - "Apocalypse 16"
+  - "Apocalypse 18"
+  - "Apocalypse 20"
+  - "Apocalypse 3"
+  - "Apocalypse 5"
+  - "Apocalypse 6"
+  - "Apocalypse 7"
+  - "Daniel 9"
+  - "Esther 12"
+  - "Esther 13"
+  - "Esther 158"
+  - "Esther 182"
+  - "Genèse 4"
+  - "Jean 10"
+  - "Jean 3"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Matthieu 11"
+  - "Matthieu 22"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Matthieu 28"
+  - "Matthieu 5"
+  - "Romains 9"
+  - "Ésaïe 40"
+---
 BROCHURE N° 9
 
+RÉVÉLATION DES SEPT SCEAUX
 
+PAR WILLIAM MARRION BRANHAM
 
+QUESTIONS ET RÉPONSES SUR LES SCEAUX
 
-REVELATION
-DES
-SEPT SCEAUX
+LA RÉVÉLATION DES SEPT SCEAUX — QUESTIONS ET RÉPONSES SUR LES SCEAUX 2
 
-PAR
+QUESTIONS ET RÉPONSES SUR LES SCEAUX
+(Questions And Answers On The Seal)
 
-WILLIAM MARRION BRANHAM
-
-
-
-
-
-
-
-
-
-
-QUESTIONS ET REPONSES SUR LES SCEAUX
-
-LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 2
-
-        QUESTIONS ET REPONSES SUR LES SCEAUX
-        (Questions And Answers On The Seal)
-
-
-
-      24 mars 1963, matin
-       Branham Tabernacle
+24 mars 1963, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 Notre Père céleste, nous sommes vraiment reconnaissants pour ces moments pendant lesquels nous pouvons de nouveau être en communion autour de la Parole de Dieu dans la présence de Dieu. Nous sommes tellement reconnaissants de ce que Tu es au milieu de nous ce matin pour nous aider et nous bénir. Nous Te prions de pardonner nos péchés afin que nos lampes soient pleines d’huile, prêtes et allumées; nous Te prions aussi de nous utiliser afin d’honorer Ton glorieux Nom, car nous le demandons au Nom du Bien-aimé Fils de Dieu, Jésus-Christ. Amen. Vous pouvez vous asseoir.
 
+2 C’est au moment où je suis entré que j’ai entendu ce message. C’est vrai que nous devons garder nos lampes pleines d’huile. Vous savez, quand vous brûlez… Vous ne pouvez pas continuer sur ce que vous avez déjà fait, vous voyez, parce que quand l’huile brûle, cela donne du charbon et c’est la raison pour laquelle il faut moucher la mèche. Que vos lampes soient mouchées parce que le charbon vient au bout de la mèche.
 
+3 Beaucoup d’entre vous qui avez mon âge avez utilisé des lampes à pétrole. Il y a du charbon qui se dégage vers le haut, là où brûle la flamme: il empêche la lumière de passer. C’est pourquoi il faut faire bien attention d’enlever le charbon au fur et à mesure afin d’avancer vers le but de la haute vocation en Christ.
 
-1 Notre Père céleste, nous sommes vraiment reconnaissants pour ces moments pendant lesquels
-nous pouvons de nouveau être en communion autour de la Parole de Dieu dans la présence de
-Dieu. Nous sommes tellement reconnaissants de ce que Tu es au milieu de nous ce matin pour
-nous aider et nous bénir. Nous Te prions de pardonner nos péchés afin que nos lampes soient
-pleines d’huile, prêtes et allumées; nous Te prions aussi de nous utiliser afin d’honorer Ton
-glorieux Nom, car nous le demandons au Nom du Bien-aimé Fils de Dieu, Jésus-Christ. Amen.
-Vous pouvez vous asseoir.
-2 C’est au moment où je suis entré que j’ai entendu ce message. C’est vrai que nous devons
-garder nos lampes pleines d’huile. Vous savez, quand vous brûlez… Vous ne pouvez pas
-continuer sur ce que vous avez déjà fait, vous voyez, parce que quand l’huile brûle, cela donne du
-charbon et c’est la raison pour laquelle il faut moucher la mèche. Que vos lampes soient
-mouchées parce que le charbon vient au bout de la mèche.
-3 Beaucoup d’entre vous qui avez mon âge avez utilisé des lampes à pétrole. Il y a du charbon
-qui se dégage vers le haut, là où brûle la flamme: il empêche la lumière de passer. C’est pourquoi
-il faut faire bien attention d’enlever le charbon au fur et à mesure afin d’avancer vers le but de la
-haute vocation en Christ.
-4 Quelle magnifique journée, dehors comme dedans, avec ce temps de Pâques qui approche
-maintenant. Et ce soir nous arriverons à ce dernier Sceau, si Dieu le permet. C’est un Sceau très
-mystérieux, vraiment très mystérieux parce qu’il n’est mentionné nulle part dans les Ecritures. Il n’y
-a aucun symbole, rien à quoi s’accrocher. Il faut que cela vienne directement du Ciel.
-5 Ce sont aussi des heures assez éprouvantes pour moi. Cela a duré toute la semaine. C’est
-aujourd’hui le huitième jour que je suis enfermé dans une pièce. Et je remarque ici beaucoup de
-requêtes et il faut que je fasse un tri. Il y a beaucoup de personnes qui désirent avoir une entrevue.
-J’aime cela. J’aimerais bien pouvoir le faire maintenant, mais ce n’est pas possible pour l’instant
-car vous comprenez, l’ensemble… ce que nous essayons de faire maintenant c’est de trouver la
-révélation de la volonté du Seigneur, vous voyez. Quand nous avons une entrevue cela vous jette
-de l’autre côté, dans quelque chose d’autre, vous voyez.
-6 C’est comme pour la prière pour les malades; c’est tout à fait différent. Pour ce qui est des
-visions et autres, vous étudiez différemment et vous recevez une onction différente. La Bible dit:
-“Un arbre est planté près des courants d’eau”. Courants d’eau. Vous voyez, c’est la même eau
-mais il y a plusieurs orifices par lesquels elle peut couler. Il y a un orifice par lequel elle coule dans
-cette direction-ci, un autre dans une autre direction, etc. Tout dépend de l’orifice, mais c’est le
-même Esprit.
-7 Paul, dans 1 Corinthiens 12, fit de même; il dit qu’il y a de nombreux dons, mais que c’est le
-même Esprit. Vous voyez donc que si vous travaillez sur une certaine chose et qu’ensuite vous
-changez pour faire autre chose (vous voyez ce que je veux dire), vous étudiez dans ce sens-là et
-vous pouvez atteindre les gens.
-8 Leur coeur est fixé sur quelque chose: que sont ces Sceaux? Ils attirent leur attention.
-Qu’est-ce que c’est? Soir après soir, quand je viens ici, il y a une telle tension que je dois
+4 Quelle magnifique journée, dehors comme dedans, avec ce temps de Pâques qui approche maintenant. Et ce soir nous arriverons à ce dernier Sceau, si Dieu le permet. C’est un Sceau très mystérieux, vraiment très mystérieux parce qu’il n’est mentionné nulle part dans les Ecritures. Il n’y a aucun symbole, rien à quoi s’accrocher. Il faut que cela vienne directement du Ciel.
 
-        http://www.cmpp.ch
+5 Ce sont aussi des heures assez éprouvantes pour moi. Cela a duré toute la semaine. C’est aujourd’hui le huitième jour que je suis enfermé dans une pièce. Et je remarque ici beaucoup de requêtes et il faut que je fasse un tri. Il y a beaucoup de personnes qui désirent avoir une entrevue. J’aime cela. J’aimerais bien pouvoir le faire maintenant, mais ce n’est pas possible pour l’instant car vous comprenez, l’ensemble… ce que nous essayons de faire maintenant c’est de trouver la révélation de la volonté du Seigneur, vous voyez. Quand nous avons une entrevue cela vous jette de l’autre côté, dans quelque chose d’autre, vous voyez.
 
-LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 3
-commencer par parler d’autre chose pour la réduire, vous voyez, et ensuite le Saint-Esprit vient
-briser le Sceau. C’est chaque soir comme cela. Alors si nous changeons et que nous faisons un
-service de guérison, les gens ont tous leur esprit fixé là-dessus et nous ne pouvons passer sans
-autre de l’un à l’autre.
-9 Il y a encore autre chose. Je sais que juste au milieu de vous il y a des choses qui sont en train
-de se passer. Je sais que vous ne les voyez pas. J’affirme que vous ne les voyez pas. Vous me
-direz: «Frère Branham, c’est dur de votre part de nous dire cela!». Je le sais. Mais regardez.
-Laissez-moi vous dire ceci maintenant: je suppose que ces bandes sont simplement pour nous.
-Laissez-moi vous dire ceci. Vous ne saisissez pas ces choses et vous n’êtes pas censés les saisir.
-Aussi n’essayez pas d’interpréter quoi que ce soit. N’essayez pas d’y mettre votre propre
-interprétation. Vous ne feriez que vous en éloigner encore plus.
-10 Ecoutez mon conseil, si vous me croyez maintenant. Si Dieu m’a fait trouver grâce à vos yeux
-et que vous savez que ces révélations et autres… J’ai été longtemps ici avec vous et cela a
-toujours été juste. Et maintenant, pour prouver doublement que c’est juste, cela correspond
-exactement avec la Parole. Ainsi donc vous savez que c’est AINSI DIT LE SEIGNEUR. C’est vrai.
-Cela vous a été prouvé.
-11 Maintenant écoutez mes conseils en tant que votre frère: Ne mettez pas votre propre
-interprétation à quoi que ce soit. Continuez simplement à vivre la vie d’un bon chrétien, parce
-qu’autrement si vous faite cela, vous vous laisserez emporter loin de la chose réelle. Vous
-vous éloigneriez de nouveau de la chose réelle. Et vous êtes tous bien conscients et vous savez
-que quelque chose de mystérieux est en train de se produire. Cela est en train de se produire, et
-maintenant je sais ce que c’Esther 12 Ce n’est pas moi qui dis cela. C’est simplement la grâce de Dieu qui me fait connaître ce que
-c’est. C’est quelque chose d’extraordinaire et cela s’est passé en ce moment même, et vous
-n’avez aucune possibilité de le voir, mais que Dieu m’aide! Bible en main, je sais ce que c’Esther 13 Cela vous a déjà été dit auparavant, aussi n’essayez pas d’apporter la moindre interprétation;
-mais croyez-moi simplement en tant que votre frère, vous voyez, nous sommes en train de vivre
-dans une heure glorieuse.
-14 Nous vivons dans un temps où… Eh bien, soyez vraiment humbles, soyez des chrétiens,
-essayez de vivre pour Dieu, vivez honnêtement avec vos frères humains et aimez ceux qui ne
-vous aiment pas. N’essayez pas de faire aucune… Si vous le faites vous n’en faites que quelque
-chose de mystérieux et vous embrouillez le vrai programme de Dieu, vous voyez.
-15 Hier après-midi dans ma chambre il s’est passé quelque chose qui ne me quittera jamais, vous
-voyez. Et il y a environ deux semaines il s’est aussi passé quelque chose dont je ne pourrai jamais
-me séparer tant que je vivrai sur cette terre.
-16 Mais si cette église ici n’est pas censée connaître ces choses… C’est pourquoi n’apportez
-aucune interprétation à quoi que ce soit, vous voyez. Allez simplement de l’avant, rappelez-vous
-ce qui vous a été dit et vivez une vie chrétienne. Allez à votre église, soyez une vraie lumière où
-que vous soyez, brûlant pour Christ et disant aux gens combien vous L’aimez. Et que votre
-témoignage soit toujours plein d’amour pour ces gens parce que, vous voyez, si vous vous enfilez
-dans quelque chose d’autre, vous êtes hors de la voie tracée.
-17 Chaque fois que vous avez essayé de le faire voilà ce que cela a donné. N’essayez donc
-pas d’apporter vos interprétations. Et spécialement ce soir lorsque ce Sceau vous sera
-présenté. Vous voyez? N’essayez simplement pas de l’interpréter. Allez simplement de l’avant,
-soyez humbles et continuez en vous appuyant sur ce message tout simple. Vous pourriez dire:
-«Mais frère Branham, étant l’Eglise du Dieu Vivant, ne devrions-nous pas…?».
-18 Eh bien, comme j’essayais… Vous voyez, j’aimerais dire ceci: Ne dites pas: «Eh bien, pourquoi
-ne puis-je pas…? Je devrais pouvoir…».
-19 Non! Rappelez-vous que je dis cela pour votre bien. Je vous le dis afin que vous compreniez. Si
-vous me croyez maintenant, écoutez ce que je vous dis, vous voyez.
-20 Ici il y a un pylône que nous appelons une antenne de réception, elle reçoit la radio. On peut
-l’utiliser pour donner des avertissements et d’autres choses. C’est comme une épée dans votre
-main, vous voyez? Elle peut choisir le mal ou autre chose car elle ne reçoit son message que de
+6 C’est comme pour la prière pour les malades; c’est tout à fait différent. Pour ce qui est des visions et autres, vous étudiez différemment et vous recevez une onction différente. La Bible dit: “Un arbre est planté près des courants d’eau”. Courants d’eau. Vous voyez, c’est la même eau mais il y a plusieurs orifices par lesquels elle peut couler. Il y a un orifice par lequel elle coule dans cette direction-ci, un autre dans une autre direction, etc. Tout dépend de l’orifice, mais c’est le même Esprit.
 
-        http://www.cmpp.ch
+7 Paul, dans 1 Corinthiens 12, fit de même; il dit qu’il y a de nombreux dons, mais que c’est le même Esprit. Vous voyez donc que si vous travaillez sur une certaine chose et qu’ensuite vous changez pour faire autre chose (vous voyez ce que je veux dire), vous étudiez dans ce sens-là et vous pouvez atteindre les gens.
 
-    LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX    4
-ce qu’elle a choisi.
-21 Mais considérez par exemple ce que voit l’homme ordinaire. Il y a eu tellement de cultes et de
-clans qui se sont élevés à partir de petites effusions de l’Esprit que les gens se sont
-emballés et qu’ils ont fait tout un tas d’histoires, qu’ils se sont mis à commencer d’autres
-petits mouvements et autres choses, vous savez. Vous ne devez pas faire cela.
-22 Maintenant rappelez-vous ceci, restez comme vous êtes. N’allez pas dire: «Eh bien, le
-Seigneur…». Non! Soyez prudents.
-23 Maintenant écoutez ceci. Laissez-moi vous montrer quelque chose. Savez-vous qu’il y a des
-dizaines de milliers de voix dans cette salle en ce moment même? Ce sont littéralement les voix de
-ces gens qui sont venues par le moyen des ondes électroniques de la radio. Pourquoi ne les
-entendez-vous pas, pourtant ce sont des voix, n’est-ce pas? Elles parcourent cet espace-ci en ce
-moment. Il y a des gens, des formes, des corps qui se meuvent dans cette salle en ce moment.
-N’est-ce pas vrai? Eh bien alors, pourquoi ne les voyez-vous pas? Elles sont ici, ce sont des voix
-réelles comme ma voix. Alors pourquoi ne les entendez-vous pas?
-24 Voyez-vous, il faut qu’elles touchent quelque chose premièrement avant d’être révélées. Vous
-voyez? Comprenez-vous maintenant? Mais seulement n’interprétez rien. Si Dieu veut que vous
-connaissiez quelque chose, Il vous l’enverra; soyez vraiment, vraiment solides maintenant. Restez
-en paix. Quelque chose s’est produit. Vous comprenez ce que je veux dire, n’est-ce pas? Soyez
-simplement…
-25 N’essayez pas de vous rendre bizarre pour être un chrétien parce que vous voyez, vous
-pourriez ainsi vous retirer de Dieu. Si vous pouvez le comprendre, c’est cela, ce “troisième Pull”.
-Vous devriez avoir saisi cela l’autre jour.
-26 Rappelez-vous qu’il n’y aura pas de contrefaçons comme ce fut le cas pour les deux premiers
-“Pulls”. Voilà tout ce que vous devez savoir. Rappelez-vous simplement que vous voyez
-maintenant quelque chose en train de se produire dans cette salle, qu’il y a quelque chose de réel
-dans cette salle, les anges, la Voix de Dieu. Mais si vous ne pouvez entendre la voix naturelle
-sans qu’il y ait quelque chose pour la transmettre, alors comment pourrez-vous entendre la Voix
-spirituelle?
-27 On peut toujours faire croire que quelqu’un est en train de chanter un chant alors qu’il n’y a rien
-du tout. Mais lorsque cela touche réellement le détecteur qui doit être touché, alors cela donne une
-vraie interprétation et la confirme en montrant l’image. Vous voyez ce que je veux dire?
-28 Or l’Esprit de Dieu quand Il parle au travers de la vraie Parole, Il se confirme Lui-même pour
-montrer Lui-même que c’est juste. Comprenez-vous maintenant? Bien! Prions encore une fois
-maintenant.
-29 Père céleste, nous allons ouvrir ce Livre, qui est la partie physique qui essaie de rendre ce que
-Tu nous as ouvert dans le domaine spirituel. Et, mon Dieu, je Te prie maintenant de m’aider à
-donner l’interprétation juste à ces questions afin que l’on puisse dire qu’elles sont là pour aider les
-gens. Elles sont là pour leur donner la compréhension.
-30 Et je Te prie de me donner la compréhension pour pouvoir transmettre ces choses à Ton
-peuple afin qu’il puisse ainsi avoir la compréhension et que nous puissions vivre ensemble pour la
-gloire et l’honneur de Dieu, par le Nom de Jésus-Christ. Amen.
-31 Je voudrais juste dire ceci. Je pensais que ce bouton ici commandait l’enregistrement, mais ce
-n’est pas le cas. C’est la lampe de la chaire. Je pensais que la commande de l’enregistrement se
-faisait ici. Mais les frères m’ont dit de simplement leur faire signe vers le studio d’enregistrement
-pour qu’ils sachent quand arrêter ou faire tourner les bandes.
-32 Vous voyez, les bandes ont un ministère qui s’étend dans le monde entier. Elles vont partout.
-Elles vont chez des gens parlant toutes sortes de langages et il y a des choses que nous disons ici
-mais que nous ne dirions pas ailleurs, c’est pourquoi il faut pouvoir les arrêter.
-33 Répondre aux questions n’est pas une petite affaire! En répondant à la plupart de ces
-questions… quelques-unes n’ont pas le moindre rapport avec le message ou les Sceaux, mais
-j’essaierai malgré tout d’y répondre. On m’a dit que la plupart d’entre elles, ou en tout cas un grand
-nombre d’entre elles sont des requêtes où l’on me demande de prier pour les malades et les
-affligés et d’autres choses encore, ainsi ce ne sont pas des questions demandant une réponse; on
+8 Leur coeur est fixé sur quelque chose: que sont ces Sceaux? Ils attirent leur attention. Qu’est-ce que c’est? Soir après soir, quand je viens ici, il y a une telle tension que je dois commencer par parler d’autre chose pour la réduire, vous voyez, et ensuite le Saint-Esprit vient briser le Sceau. C’est chaque soir comme cela. Alors si nous changeons et que nous faisons un service de guérison, les gens ont tous leur esprit fixé là-dessus et nous ne pouvons passer sans autre de l’un à l’autre.
 
-    http://www.cmpp.ch
+9 Il y a encore autre chose. Je sais que juste au milieu de vous il y a des choses qui sont en train de se passer. Je sais que vous ne les voyez pas. J’affirme que vous ne les voyez pas. Vous me direz: «Frère Branham, c’est dur de votre part de nous dire cela!». Je le sais. Mais regardez. Laissez-moi vous dire ceci maintenant: je suppose que ces bandes sont simplement pour nous. Laissez-moi vous dire ceci. Vous ne saisissez pas ces choses et vous n’êtes pas censés les saisir. Aussi n’essayez pas d’interpréter quoi que ce soit. N’essayez pas d’y mettre votre propre interprétation. Vous ne feriez que vous en éloigner encore plus.
 
-LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 5
-m’en a aussi donné toute une pile au sujet de différentes choses concernant l’Ecriture et d’autres
-choses. Peut-être, si nous avons le temps, nous essaierons d’y répondre le mieux possible.
-34 Et si je fais une faute, eh bien, rappelez-vous que je n’avais pas l’intention de faire une faute.
-Etes-vous tous à votre aise? Amen! Oh, pouvoir parler des lieux célestes en Jésus-Christ!… Quel
-endroit merveilleux! Quel moment merveilleux!
-35 Depuis le temps que je suis à cette chaire dans ce tabernacle, jamais, jamais à aucun moment
-de mon ministère je ne suis entré aussi profondément qu’aujourd’hui dans le royaume de Dieu. En
-ce qui concerne le domaine spirituel je suis allé cette fois plus loin que tout ce que j’ai jamais fait, à
-aucun moment de mon ministère, en quelque réunion, à quelque endroit que ce soit. La plupart du
-temps, c’étaient des guérisons. Maintenant c’est la révélation de la Vérité par le même Esprit. Par
-le même Esprit.
-36 J’ai pu rester absolument seul, ayant logé quelque part et descendant pour aller manger. J’étais
-simplement tout seul; ainsi ce furent réellement des moments glorieux.
-37 Et maintenant, ce matin ou demain matin, si nous avons fini assez tôt, je prierai pour les
-malades ce matin si ces questions ne durent pas trop longtemps; c’est pourquoi je dois m’isoler un
-moment, vous comprenez.
-38 L’esprit humain ne peut résister que jusqu’à un certain point. Et lorsque vous en arrivez au point
-où vous êtes assis pendant une heure, engourdi par la présence de Dieu et la Colonne de Lumière
-suspendue là devant vous, vous ne pouvez pas rester là bien plus longtemps, vous voyez? L’être
-humain ne peut supporter cela.
-39 Ces questions sont vraiment bien. J’apprécie la sagesse et la manière de faire des gens!
-Maintenant pour la première question, j’essaierai d’y répondre, mais si je n’y arrive pas, vous
-voudrez bien me pardonner.
-40 Et si vous avez une interprétation différente et croyez que c’est votre idée là-dessus qui est
-juste, allez-y sans autre! Cela ne fera pas de mal parce qu’il y en a une ou deux qui n’ont aucun
-rapport avec le salut. La plupart des questions sont posées au sujet de l’autre côté de l’enlèvement
-de l’Eglise.
-41 Ainsi vous voyez que ces questions ici concernent le temps à venir et ce qui doit arriver de
-l’autre côté parce que dans notre enseignement au sujet du Livre, nous sommes maintenant
-au-delà des âges de l’Eglise. Nous sommes au-delà, dans la période de l’appel des 144 000.
+10 Ecoutez mon conseil, si vous me croyez maintenant. Si Dieu m’a fait trouver grâce à vos yeux et que vous savez que ces révélations et autres… J’ai été longtemps ici avec vous et cela a toujours été juste. Et maintenant, pour prouver doublement que c’est juste, cela correspond exactement avec la Parole. Ainsi donc vous savez que c’est AINSI DIT LE SEIGNEUR. C’est vrai. Cela vous a été prouvé.
+
+11 Maintenant écoutez mes conseils en tant que votre frère: Ne mettez pas votre propre interprétation à quoi que ce soit. Continuez simplement à vivre la vie d’un bon chrétien, parce qu’autrement si vous faite cela, vous vous laisserez emporter loin de la chose réelle. Vous vous éloigneriez de nouveau de la chose réelle. Et vous êtes tous bien conscients et vous savez que quelque chose de mystérieux est en train de se produire. Cela est en train de se produire, et maintenant je sais ce que c’Esther 12 Ce n’est pas moi qui dis cela. C’est simplement la grâce de Dieu qui me fait connaître ce que c’est. C’est quelque chose d’extraordinaire et cela s’est passé en ce moment même, et vous n’avez aucune possibilité de le voir, mais que Dieu m’aide! Bible en main, je sais ce que c’Esther 13 Cela vous a déjà été dit auparavant, aussi n’essayez pas d’apporter la moindre interprétation; mais croyez-moi simplement en tant que votre frère, vous voyez, nous sommes en train de vivre dans une heure glorieuse.
+
+14 Nous vivons dans un temps où… Eh bien, soyez vraiment humbles, soyez des chrétiens, essayez de vivre pour Dieu, vivez honnêtement avec vos frères humains et aimez ceux qui ne vous aiment pas. N’essayez pas de faire aucune… Si vous le faites vous n’en faites que quelque chose de mystérieux et vous embrouillez le vrai programme de Dieu, vous voyez.
+
+15 Hier après-midi dans ma chambre il s’est passé quelque chose qui ne me quittera jamais, vous voyez. Et il y a environ deux semaines il s’est aussi passé quelque chose dont je ne pourrai jamais me séparer tant que je vivrai sur cette terre.
+
+16 Mais si cette église ici n’est pas censée connaître ces choses… C’est pourquoi n’apportez aucune interprétation à quoi que ce soit, vous voyez. Allez simplement de l’avant, rappelez-vous ce qui vous a été dit et vivez une vie chrétienne. Allez à votre église, soyez une vraie lumière où que vous soyez, brûlant pour Christ et disant aux gens combien vous L’aimez. Et que votre témoignage soit toujours plein d’amour pour ces gens parce que, vous voyez, si vous vous enfilez dans quelque chose d’autre, vous êtes hors de la voie tracée.
+
+17 Chaque fois que vous avez essayé de le faire voilà ce que cela a donné. N’essayez donc pas d’apporter vos interprétations. Et spécialement ce soir lorsque ce Sceau vous sera présenté. Vous voyez? N’essayez simplement pas de l’interpréter. Allez simplement de l’avant, soyez humbles et continuez en vous appuyant sur ce message tout simple. Vous pourriez dire: «Mais frère Branham, étant l’Eglise du Dieu Vivant, ne devrions-nous pas…?».
+
+18 Eh bien, comme j’essayais… Vous voyez, j’aimerais dire ceci: Ne dites pas: «Eh bien, pourquoi ne puis-je pas…? Je devrais pouvoir…».
+
+19 Non! Rappelez-vous que je dis cela pour votre bien. Je vous le dis afin que vous compreniez. Si vous me croyez maintenant, écoutez ce que je vous dis, vous voyez.
+
+20 Ici il y a un pylône que nous appelons une antenne de réception, elle reçoit la radio. On peut l’utiliser pour donner des avertissements et d’autres choses. C’est comme une épée dans votre main, vous voyez? Elle peut choisir le mal ou autre chose car elle ne reçoit son message que de ce qu’elle a choisi.
+
+21 Mais considérez par exemple ce que voit l’homme ordinaire. Il y a eu tellement de cultes et de clans qui se sont élevés à partir de petites effusions de l’Esprit que les gens se sont emballés et qu’ils ont fait tout un tas d’histoires, qu’ils se sont mis à commencer d’autres petits mouvements et autres choses, vous savez. Vous ne devez pas faire cela.
+
+22 Maintenant rappelez-vous ceci, restez comme vous êtes. N’allez pas dire: «Eh bien, le Seigneur…». Non! Soyez prudents.
+
+23 Maintenant écoutez ceci. Laissez-moi vous montrer quelque chose. Savez-vous qu’il y a des dizaines de milliers de voix dans cette salle en ce moment même? Ce sont littéralement les voix de ces gens qui sont venues par le moyen des ondes électroniques de la radio. Pourquoi ne les entendez-vous pas, pourtant ce sont des voix, n’est-ce pas? Elles parcourent cet espace-ci en ce moment. Il y a des gens, des formes, des corps qui se meuvent dans cette salle en ce moment. N’est-ce pas vrai? Eh bien alors, pourquoi ne les voyez-vous pas? Elles sont ici, ce sont des voix réelles comme ma voix. Alors pourquoi ne les entendez-vous pas?
+
+24 Voyez-vous, il faut qu’elles touchent quelque chose premièrement avant d’être révélées. Vous voyez? Comprenez-vous maintenant? Mais seulement n’interprétez rien. Si Dieu veut que vous connaissiez quelque chose, Il vous l’enverra; soyez vraiment, vraiment solides maintenant. Restez en paix. Quelque chose s’est produit. Vous comprenez ce que je veux dire, n’est-ce pas? Soyez simplement…
+
+25 N’essayez pas de vous rendre bizarre pour être un chrétien parce que vous voyez, vous pourriez ainsi vous retirer de Dieu. Si vous pouvez le comprendre, c’est cela, ce “troisième Pull”. Vous devriez avoir saisi cela l’autre jour.
+
+26 Rappelez-vous qu’il n’y aura pas de contrefaçons comme ce fut le cas pour les deux premiers “Pulls”. Voilà tout ce que vous devez savoir. Rappelez-vous simplement que vous voyez maintenant quelque chose en train de se produire dans cette salle, qu’il y a quelque chose de réel dans cette salle, les anges, la Voix de Dieu. Mais si vous ne pouvez entendre la voix naturelle sans qu’il y ait quelque chose pour la transmettre, alors comment pourrez-vous entendre la Voix spirituelle?
+
+27 On peut toujours faire croire que quelqu’un est en train de chanter un chant alors qu’il n’y a rien du tout. Mais lorsque cela touche réellement le détecteur qui doit être touché, alors cela donne une vraie interprétation et la confirme en montrant l’image. Vous voyez ce que je veux dire?
+
+28 Or l’Esprit de Dieu quand Il parle au travers de la vraie Parole, Il se confirme Lui-même pour montrer Lui-même que c’est juste. Comprenez-vous maintenant? Bien! Prions encore une fois maintenant.
+
+29 Père céleste, nous allons ouvrir ce Livre, qui est la partie physique qui essaie de rendre ce que Tu nous as ouvert dans le domaine spirituel. Et, mon Dieu, je Te prie maintenant de m’aider à donner l’interprétation juste à ces questions afin que l’on puisse dire qu’elles sont là pour aider les gens. Elles sont là pour leur donner la compréhension.
+
+30 Et je Te prie de me donner la compréhension pour pouvoir transmettre ces choses à Ton peuple afin qu’il puisse ainsi avoir la compréhension et que nous puissions vivre ensemble pour la gloire et l’honneur de Dieu, par le Nom de Jésus-Christ. Amen.
+
+31 Je voudrais juste dire ceci. Je pensais que ce bouton ici commandait l’enregistrement, mais ce n’est pas le cas. C’est la lampe de la chaire. Je pensais que la commande de l’enregistrement se faisait ici. Mais les frères m’ont dit de simplement leur faire signe vers le studio d’enregistrement pour qu’ils sachent quand arrêter ou faire tourner les bandes.
+
+32 Vous voyez, les bandes ont un ministère qui s’étend dans le monde entier. Elles vont partout. Elles vont chez des gens parlant toutes sortes de langages et il y a des choses que nous disons ici mais que nous ne dirions pas ailleurs, c’est pourquoi il faut pouvoir les arrêter.
+
+33 Répondre aux questions n’est pas une petite affaire! En répondant à la plupart de ces questions… quelques-unes n’ont pas le moindre rapport avec le message ou les Sceaux, mais j’essaierai malgré tout d’y répondre. On m’a dit que la plupart d’entre elles, ou en tout cas un grand nombre d’entre elles sont des requêtes où l’on me demande de prier pour les malades et les affligés et d’autres choses encore, ainsi ce ne sont pas des questions demandant une réponse; on m’en a aussi donné toute une pile au sujet de différentes choses concernant l’Ecriture et d’autres choses. Peut-être, si nous avons le temps, nous essaierons d’y répondre le mieux possible.
+
+34 Et si je fais une faute, eh bien, rappelez-vous que je n’avais pas l’intention de faire une faute. Etes-vous tous à votre aise? Amen! Oh, pouvoir parler des lieux célestes en Jésus-Christ!… Quel endroit merveilleux! Quel moment merveilleux!
+
+35 Depuis le temps que je suis à cette chaire dans ce tabernacle, jamais, jamais à aucun moment de mon ministère je ne suis entré aussi profondément qu’aujourd’hui dans le royaume de Dieu. En ce qui concerne le domaine spirituel je suis allé cette fois plus loin que tout ce que j’ai jamais fait, à aucun moment de mon ministère, en quelque réunion, à quelque endroit que ce soit. La plupart du temps, c’étaient des guérisons. Maintenant c’est la révélation de la Vérité par le même Esprit. Par le même Esprit.
+
+36 J’ai pu rester absolument seul, ayant logé quelque part et descendant pour aller manger. J’étais simplement tout seul; ainsi ce furent réellement des moments glorieux.
+
+37 Et maintenant, ce matin ou demain matin, si nous avons fini assez tôt, je prierai pour les malades ce matin si ces questions ne durent pas trop longtemps; c’est pourquoi je dois m’isoler un moment, vous comprenez.
+
+38 L’esprit humain ne peut résister que jusqu’à un certain point. Et lorsque vous en arrivez au point où vous êtes assis pendant une heure, engourdi par la présence de Dieu et la Colonne de Lumière suspendue là devant vous, vous ne pouvez pas rester là bien plus longtemps, vous voyez? L’être humain ne peut supporter cela.
+
+39 Ces questions sont vraiment bien. J’apprécie la sagesse et la manière de faire des gens! Maintenant pour la première question, j’essaierai d’y répondre, mais si je n’y arrive pas, vous voudrez bien me pardonner.
+
+40 Et si vous avez une interprétation différente et croyez que c’est votre idée là-dessus qui est juste, allez-y sans autre! Cela ne fera pas de mal parce qu’il y en a une ou deux qui n’ont aucun rapport avec le salut. La plupart des questions sont posées au sujet de l’autre côté de l’enlèvement de l’Eglise.
+
+41 Ainsi vous voyez que ces questions ici concernent le temps à venir et ce qui doit arriver de l’autre côté parce que dans notre enseignement au sujet du Livre, nous sommes maintenant au-delà des âges de l’Eglise. Nous sommes au-delà, dans la période de l’appel des 144 000.
+
 42 Voici la première question:
-   1. Les cinq vierges sages de Matthieu 25 sont-elles les compagnes de l’Epouse ou
-      l’Epouse elle-même? Si ces vierges sages sont les compagnes de l’Epouse, où
-      est l’Epouse?
-43 Au mieux de ma compréhension, ces cinq vierges… il y en avait dix qui sortirent, vous savez, et
-ceci n’est qu’un symbole ou une parabole, comme je vais vous le montrer. Vous voyez, elles
-étaient dix. Bien sûr qu’en réalité il y en avait beaucoup plus que dix, ces dix constituant
-simplement un nombre.
-44 Mais vous voyez, les vierges sages avaient de l’huile dans leur lampe. Les vierges folles
-n’avaient pas d’huile dans leur lampe. Alors s’il y a dix vierges dans Matthieu 25, je veux dire cinq
-(si c’est la question de cette personne), cela veut-il dire qu’il n’y aura que cinq personnes…?
-45 Non, ce n’est pas ce que cela veut dire. C’est juste le symbole des vierges, vous comprenez
-(des vierges qui sortirent, ayant de l’huile dans leur lampe); elles sont une partie de cette Epouse.
-Et selon ma compréhension, remarquez que c’étaient les vierges de la dernière veille. Nous
-arrivons ainsi à ces veilles.
-46 Il y avait eu sept veilles. Et à la septième veille, l’heure de minuit que nous atteignons
-maintenant, à cette veille de minuit ces vierges s’éveillèrent, préparèrent leurs lampes et entrèrent,
-tandis que les vierges folles…
-47 Or cette partie, ces cinq (si c’est le sens de la question, signifiant qu’il n’y en avait que cinq)…
-Nous avons eu beaucoup de questions ici au sujet des sept mille etc.; ce n’était qu’un symbole,
-une partie d’entre elles. Et tous ceux qui se sont éveillés ici dans ce dernier âge, la septième veille,
-s’il n’y en avait que cinq d’éveillées en ce temps-là et qui furent enlevées entrant avec l’Epouse,
 
-        http://www.cmpp.ch
+> 1. Les cinq vierges sages de Matthieu 25 sont-elles les compagnes de l’Epouse ou l’Epouse elle-même? Si ces vierges sages sont les compagnes de l’Epouse, où est l’Epouse?
 
-LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 6
-avec l’Epoux…
-48 Or si elles-mêmes… Cela ne signifie pas qu’il n’y en aura que cinq, parce qu’il y en a qui
-dorment tout au long des âges, comme nous l’avons vu cette semaine, vous voyez.
-49 Aux jours de Paul, l’ange de l’église d’Ephèse fut Paul, le fondateur de cette église dont il fut le
-messager. Rappelez-vous que Paul, fondateur de l’église d’Ephèse, devint le messager de cette
-église. L’Esprit qui était dans le pays ce temps-là était l’Esprit du Lion. Et ce Lion est le Lion de la
-tribu de Juda qui est Christ, et Christ est la Parole. Il y avait Paul qui était la Parole pour cet
-âge-là.
-50 Des milliers se sont endormis dans cet âge. N’est-ce pas vrai? Ensuite vint l’âge suivant; et
-lorsque l’Eglise s’installa dans les âges des ténèbres, c’est l’Esprit du Boeuf qui fut manifesté,
-l’oeuvre, le travail, le sacrifice jusqu’à donner sa vie. Des milliers de milliers s’endormirent dans le
-martyre et toutes ces choses. Ils attendent, vous voyez.
-51 Ensuite il y eut l’âge suivant, celui de Luther, l’âge de la réforme. C’est alors que les sages
-allèrent avec l’habileté de l’homme. Remarquez que l’homme avança avec cela et quand il le fit
-il ajouta sa propre ruse. C’est ce qui le maria de l’autre côté, vous voyez. S’il était resté avec
-la sagesse de Dieu, réformant simplement et retirant… mais que fit-il? Après la mort de Luther, cet
-homme qui avait le message, ils constituèrent l’organisation luthérienne.
-52 Après la mort de Wesley ils établirent une organisation méthodiste, vous voyez. Vous continuez
-toujours dans cette voie. C’est ce qui se fait. Mais remarquez bien ceci. Quelqu’un pourrait
-demander ce qui en est du Pentecôtisme qui est la troisième étape.
-53 Comprenez bien que chacune de ces étapes n’a fait que se plonger momentanément dans le
-Saint-Esprit. La justification est une oeuvre du Saint-Esprit. La sanctification est une oeuvre
-du Saint-Esprit, mais le Baptême EST le Saint-Esprit.
-54 C’est la raison pour laquelle il fallait que vienne un prophète prophétique, non pas un messager
-pour cet âge parce que le Saint-Esprit vint Lui-même dans Sa plénitude dans le Baptême. Mais à
-la fin de l’âge, comme cela s’est toujours terminé pour les autres, nous trouvons là le messager
-envoyé; et toute cette confusion et ces autres choses doivent être mises à leur place. Ensuite vient
-l’enlèvement de l’Eglise.
-55 Mais tous ceux qui ont écrit ces choses au sujet du soleil devenant noir et de la lune ont placé
-ces événements dans l’ère chrétienne. Ils ont simplement manqué de voir ces trois questions qui
-avaient été posées à notre Seigneur et comment Il y a répondu.
-56 Hier soir je crois qu’il n’y a pas eu la moindre question. Nous avons pris chacune de ces
-questions et l’avons mise à sa place dans les Sceaux, et les Sceaux sont le Livre Lui-même tout
-entier, dans son ensemble. Croyez-vous cela, docteur?
-57 Tout cela tient bien ensemble. Et nous avons pris ce que Jésus dit ici. Ils avaient posé trois
-questions, vous voyez. “Quand cela arrivera-t-il? Quel sera le signe de Ta venue? Quel est le
-signe de la fin du monde?”. Il leur répondit et nous avons tiré de Sa réponse tous les Sceaux
-sauf un. Lequel? Le septième Sceau. Pourquoi? Vous voyez, parce qu’il n’est pas connu.
-C’est ainsi.
-58 Chacun d’eux a été présenté. J’ai établi le parallèle d’un bout à l’autre. Lorsque j’écrivis l’autre
-soir, je suis retourné à mes anciennes notes que j’avais prises autrefois et les ai biffées. C’est ce
-que j’ai fait. Je pense que vous avez saisi. Avez-vous saisi cela?
-59 J’ai pris des notes ici sur ce que j’allais écrire au sujet de cet autre côté. J’écrivis ces nombres,
-ce 6 et ce 11, et le 9 et le 11, mais ce n’était pas juste. C’était le contraire que j’aurais dû écrire.
-Ainsi il y avait les réponses entre la peste et la guerre, vous voyez? Voilà ce qui s’est passé.
-60 J’étais si heureux que je me comportais comme un… Je me réjouissais de cette stimulation
-venant de la révélation. Alors je notai ces choses là où j’étais et je mis deux fois onze au mauvais
-endroit. Je crois que pour l’autre côté il aurait fallu mettre neuf au lieu de onze.
-61 Malgré tout avez-vous vu quel parallèle parfait cela faisait? N’oubliez pas cela. Ce parallèle
-s’est poursuivi jusqu’au sixième Sceau où il s’est arrêté, vous voyez. Observez donc l’ouverture
-des Sceaux qui se poursuit jusqu’au sixième, et cela s’arrête. Il y a simplement un silence dans le
-Ciel (c’est tout ce qui en est dit) pendant une demi-heure.
+43 Au mieux de ma compréhension, ces cinq vierges… il y en avait dix qui sortirent, vous savez, et ceci n’est qu’un symbole ou une parabole, comme je vais vous le montrer. Vous voyez, elles étaient dix. Bien sûr qu’en réalité il y en avait beaucoup plus que dix, ces dix constituant simplement un nombre.
 
-        http://www.cmpp.ch
+44 Mais vous voyez, les vierges sages avaient de l’huile dans leur lampe. Les vierges folles n’avaient pas d’huile dans leur lampe. Alors s’il y a dix vierges dans Matthieu 25, je veux dire cinq (si c’est la question de cette personne), cela veut-il dire qu’il n’y aura que cinq personnes…?
 
-LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 7
-62 Mais il faut que je me dépêche de répondre à ces questions car vous savez, chacune pourrait
-être le sujet d’un sermon de quatre semaines. Mais ce n’est pas ce que je veux faire car je désire
-répondre aux questions de chacun, dans la mesure du possible.
-63 Ces vierges, il y en a une partie dans cet âge-ci. Chaque âge a ses vierges, vous voyez. L’ange
-vient à l’Eglise. “Ecris à l’ange de l’Eglise d’Ephèse”. Vous voyez?
-64 Et après qu’une lettre ait été écrite à l’Eglise d’Ephèse (vous pouvez comparer cela), un Sceau
-est ouvert. C’est exactement de cette manière que nous essayons de vous apporter ces choses.
-Voyez-vous ce que je veux dire? Si le Seigneur le permet.
-65 Qu’y a-t-il eu en premier? Les âges de l’Eglise. N’est-ce pas vrai? Ensuite c’est le message aux
-âges de l’Eglise. Est-ce clair pour chacun maintenant?
-66 Premièrement nous avons vu les âges de l’Eglise et leur histoire (les conciles de Nicée et
-d’avant, et tout ce que nous avons pu trouver dans l’histoire) et nous avons découvert alors que
-l’interprétation correcte de la Parole correspondait exactement avec l’histoire. Et nous sommes
-descendus jusqu’à cet âge-ci, celui de Laodicée. Nous n’avons pas besoin d’histoire pour cela
-parce que l’histoire est en train de se faire maintenant. Et alors nous avons montré ce qui serait
-dans cet âge-ci.
-67 Maintenant revenons aux Sceaux et ouvrons ce Sceau. Dieu nous ouvre ce Sceau. Qu’est-il
-donc? Premièrement il y a les messagers et les âges de l’Eglise. Ensuite viennent les sept
-Sceaux.
-68 Maintenant nous découvrons la corruption qui frappe dans le septième âge de l’Eglise, mais le
-septième Sceau ne révèle rien du tout de ce qui doit se passer en lui, vous voyez, parce qu’à la fin
-de cet âge de l’Eglise, un don prophétique doit venir révéler ces choses. Est-ce que vous me
-suivez? Bien.
-69 Remarquez combien chacun de ces Sceaux… Ensuite j’en suis venu à ces trois questions
-posées à Jésus-Christ: “Quand ces choses arriveront-elles? Quand ne restera-t-il plus pierre sur
-pierre? Quand ce centre du monde religieux sera-t-il détruit et qu’un autre sera mis à sa place?
-Quand y aura-t-il cette chevauchée de l'Antichrist?”. Vous comprenez? Et qu’est-ce qui est sorti à
-sa rencontre? La Parole! la Parole contre la parole.
-70 Ensuite cela tomba dans la politique et tout le reste; c’était le labeur du Boeuf. Vous voyez?
-Cela est venu en second, exactement comme Jésus l’a dit dans Matthieu 24. Ensuite nous
-arrivons dans la période de l’habileté, de la sagesse des réformateurs. L’être vivant à la face
-d’homme sort à la rencontre de cela. C’est ce qui est arrivé. En descendant encore plus bas, nous
-arrivons au Sceau suivant, le quatrième, où l’Antichrist devient un conglomérat qui a un nom: la
-Mort.
-71 Observez ce que dit Jésus. Il la jetterait dans le feu et tuerait même ses enfants. C’est une
-chevauchée de mort. C’est à la fois les Protestants et les Catholiques. Il y a la marque de la mort
-sur chacun d’eux. Elle et ses enfants sont détruits. Ainsi si vous vous fiez encore à votre
-dénomination, vous feriez mieux de vous en éloigner immédiatement. Quand on arrive au
-septième Sceau, Jésus s’arrête là.
-72 Il ouvrit le sixième Sceau en disant que la lune deviendrait du sang, qu’il y aurait des ténèbres
-et tout le reste, que toutes ces choses arriveraient. Nous sommes arrivés jusque là et avons ouvert
-le sixième Sceau. Après que le sixième Sceau ait été ouvert, cela nous a ramenés en arrière et
-montré ces mêmes choses.
-73 Vous voilà avec trois endroits différents dans l’Ecriture liés ensemble par la révélation, vous
-voyez. Observez ceci. L’endroit où Jésus en a parlé, l’endroit où Il a ouvert le Livre qui était caché
-depuis la fondation du monde et ensuite ici la révélation de ce jour, relient ces trois endroits; et
-trois, c’est un témoin, c’est vrai. C’est l’absolue vérité.
-74 Ces vierges dont nous parlons ici, ce sont celles qui se sont endormies, mais le Corps tout
-entier est formé de ce groupe qui va former les vierges sages. Et les vierges folles sont celles qui
-ont commencé à revenir en arrière (l’antichrist) en même temps que les vierges sages partaient.
-Ce sont elles qui essaient d’acheter de l’huile à ce moment-là.
-75 Faites attention à ceci. Vous voyez, où que vous regardiez, tout est parfait… Si je pouvais
-rester ici et parler de tout ce qui a été révélé dans cette salle, cela vous donnerait le vertige. Et
+45 Non, ce n’est pas ce que cela veut dire. C’est juste le symbole des vierges, vous comprenez (des vierges qui sortirent, ayant de l’huile dans leur lampe); elles sont une partie de cette Epouse. Et selon ma compréhension, remarquez que c’étaient les vierges de la dernière veille. Nous arrivons ainsi à ces veilles.
 
-        http://www.cmpp.ch
+46 Il y avait eu sept veilles. Et à la septième veille, l’heure de minuit que nous atteignons maintenant, à cette veille de minuit ces vierges s’éveillèrent, préparèrent leurs lampes et entrèrent, tandis que les vierges folles…
 
-LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 8
-qu’est-ce que cela vous fera quand vous aurez reçu le tout!
-76 Et vous savez, quand on se retire à l’écart des gens, alors les mystères commencent à s’ouvrir.
-Et vous voyez alors des choses que vous n’oseriez jamais dire aux gens parce qu’ils
-commenceraient à créer des petits “ismes”.
-77 Voyez simplement ce qu’a fait ce petit don de guérison, comme il a mis la confusion dans
-l’église. Chacun avait une sensation, chacun avait ceci ou cela mais au plus profond de mon coeur
-(et Dieu sait que c’est la vérité), je savais que ce n’était pas juste parce que c’est Dieu Lui-même
-qui me l’avait dit. C’est une contrefaçon; cela ne fait qu’égarer les gens. C’est bien vrai!
-78 Vous voyez, vous ne pouvez pas dire de telles choses. Il vaut mieux laisser tout cela tranquille.
-Rappelez-vous ce “troisième Pull”. Il me fut dit: «N’en parle à personne!». Qu’était-il dit que c’était?
-Combien se souviennent de cela? Bien sûr. Vous vous rappelez que dans cette vision j’essayais
-d’enfiler le lacet dans l’oeillet de ce petit soulier. Il avait dit: «Tu ne peux pas enseigner des choses
-surnaturelles à des nourrissons de la Pentecôte!».
-79 Je dis alors que cela serait le “troisième Pull” et qu’il ne serait pas connu, aussi que Dieu
-m’aide par Sa grâce. Or nous sommes maintenant tout à fait au temps de la fin. Cela ne va plus
-être très long jusqu’à ce que le Trône de la Grâce devienne le Trône du Jugement.
-80 Tandis que vous voyez apparaître ces choses et entrer ce peuple, vous feriez bien d’entrer
-vous aussi, si vous n’êtes pas déjà dedans, rassemblés à l’intérieur, dans les lieux célestes, vous
-voyez. Aussi, cela signifie plus que simplement se réjouir. Dans les lieux célestes, si vous êtes
-rassemblés en Christ, il s’agit de quelque chose de redoutable.
-81 Quand vous vous tenez près de l’Ange du Seigneur, vous pensez que vous allez pousser des
-cris! Ce n’est pas cela. Cela vous effraie au point que vous en mourez presque. Ainsi vous voyez
-qu’il y a une différence entre se réjouir simplement et danser de joie (ce qui est très bien), et en
-venir à la chose réelle.
-82 C’est quelque chose de redoutable! Non pas que vous redoutiez d’être perdu, mais vous êtes
-réellement devant l’Etre angélique et le Saint-Esprit qui se tient Lui-même là. Or ce sera une partie
-de l’Epouse. C’est ce qu’il faudra pour la constituer… tous ceux qui dorment. Et ne pouvons-nous
-pas absolument le voir? [frère Branham est interrompu par une panne d’enregistreurs — N.d.R.] …
-Est-ce que tout est en ordre maintenant? Est-ce que quelqu’un a marché sur quelque chose? Il
-devait y avoir une surcharge à cause du trop grand nombre d’enregistreurs. Bien, changez de
-bande et terminons. Voici maintenant la question suivante.
-   2. Les évangélistes doivent-ils continuer dans le champ de mission?
-83 Ce qu’elle veut dire évidemment, c’est si en cette heure-ci… Certainement, de toute façon. Il n’y
-a rien de changé. Si Jésus venait ce matin, prêchez aujourd’hui comme s’Il n’allait venir que dans
-dix ans, mais vivez comme s’Il allait venir à cette heure même.
-84 N’hésitez pas. C’est pourquoi j’essaie de vous avertir à ce sujet. Ne soyez pas bizarre ou
-étrange. Ne changez rien, mais si vous êtes en train de faire quelque chose de faux ou de mal,
-repentez-vous. Revenez à Dieu. Continuez dans votre service évangélique, simplement comme
-vous l’avez toujours fait.
-85 Si vous construisez une maison, continuez. Si Jésus vient demain, que vous soyez trouvé fidèle
-à la tâche. Si vous êtes en train de construire votre église, continuez. J’aime mieux mettre mon
-argent dans une entreprise comme celle-là que d’être trouvé avec de l’argent plein mes poches.
-Ainsi donc, persévérez et continuez comme vous êtes.
-86 Est-ce que tout le monde comprend maintenant? Continuez sans autre. Avancez simplement
-comme vous êtes. Ne vous arrêtez pas maintenant. Ne faites rien de semblable. Continuez
-simplement à avancer comme vous êtes. Continuez à servir le Seigneur!
-87 Prenons un exemple: vous êtes en train de travailler pour quelqu’un et vous voyez qu’il n’y a
-plus qu’un quart d’heure avant la fin de la journée. Si vous disiez: «Eh bien, puisqu’il ne reste plus
-qu’un quart d’heure je peux aussi bien arrêter maintenant et m’asseoir». Vous vous feriez mettre à
-la porte pour ce quart d’heure.
-88 Si vous êtes en train de semer du blé, semez votre blé. Si vous arrachez des pommes de terre,
-continuez à les arracher. Vous direz: «Mais il n’y aura personne pour les manger!». Aucune
+47 Or cette partie, ces cinq (si c’est le sens de la question, signifiant qu’il n’y en avait que cinq)… Nous avons eu beaucoup de questions ici au sujet des sept mille etc.; ce n’était qu’un symbole, une partie d’entre elles. Et tous ceux qui se sont éveillés ici dans ce dernier âge, la septième veille, s’il n’y en avait que cinq d’éveillées en ce temps-là et qui furent enlevées entrant avec l’Epouse, avec l’Epoux…
 
-        http://www.cmpp.ch
+48 Or si elles-mêmes… Cela ne signifie pas qu’il n’y en aura que cinq, parce qu’il y en a qui dorment tout au long des âges, comme nous l’avons vu cette semaine, vous voyez.
 
-LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 9
-importance! continuez à les arracher! continuez simplement comme vous êtes.
-89 L’autre jour j’ai reçu une lettre de quelqu’un à qui l’on avait dit à peu près ceci: «Eh bien, le
-temps est proche. Vendez votre ferme. Vous n’aurez pas besoin de la nourriture qu’elle vous
-produit parce que le Millénium va commencer et vous n’en aurez pas besoin. Allez de l’avant.
-Comme vos enfants ne sont pas sauvés, laissez-leur la ferme pour qu’ils aient à manger pendant
-la tribulation, ou alors vendez tous vos fermes». Ils disaient quelque chose comme cela.
-90 Je me dis: «Eh bien alors!». Si j’étais un paysan et que je sache qu’Il viendrait demain, je
-rentrerais ma moisson aujourd’hui! S’Il m’avait fait paysan, je resterais à ma tâche. C’est vrai! S’Il
-m’avait fait mécanicien…
-91 Quelqu’un est venu me dire l’autre jour: «Frère, tu sais quoi? J’ai acheté une nouvelle voiture et
-je vais te donner le deuxième jeu de clefs». Il dit à son pasteur: «Je vais te donner le deuxième jeu
-de clefs parce que l’enlèvement pourrait se produire un de ces jours et alors je n’en aurais plus
-besoin».
-92 Son pasteur, lui, manquerait l’enlèvement! Voilà ce qui s’appelle se préparer, n’est-ce pas? Et
-pourtant c’est ainsi que cela se passe! Nous ne devons pas être ainsi. Nous devons être de sains
-et solides chrétiens. Et j’ai été placé ici pour travailler jusqu’à la dernière minute. J’ai un travail à
-faire et je veux être trouvé fidèle à mon poste. S’Il venait ce matin, j’aimerais me trouver debout ici,
-en chaire.
+49 Aux jours de Paul, l’ange de l’église d’Ephèse fut Paul, le fondateur de cette église dont il fut le messager. Rappelez-vous que Paul, fondateur de l’église d’Ephèse, devint le messager de cette église. L’Esprit qui était dans le pays ce temps-là était l’Esprit du Lion. Et ce Lion est le Lion de la tribu de Juda qui est Christ, et Christ est la Parole. Il y avait Paul qui était la Parole pour cet âge-là.
+
+50 Des milliers se sont endormis dans cet âge. N’est-ce pas vrai? Ensuite vint l’âge suivant; et lorsque l’Eglise s’installa dans les âges des ténèbres, c’est l’Esprit du Boeuf qui fut manifesté, l’oeuvre, le travail, le sacrifice jusqu’à donner sa vie. Des milliers de milliers s’endormirent dans le martyre et toutes ces choses. Ils attendent, vous voyez.
+
+51 Ensuite il y eut l’âge suivant, celui de Luther, l’âge de la réforme. C’est alors que les sages allèrent avec l’habileté de l’homme. Remarquez que l’homme avança avec cela et quand il le fit il ajouta sa propre ruse. C’est ce qui le maria de l’autre côté, vous voyez. S’il était resté avec la sagesse de Dieu, réformant simplement et retirant… mais que fit-il? Après la mort de Luther, cet homme qui avait le message, ils constituèrent l’organisation luthérienne.
+
+52 Après la mort de Wesley ils établirent une organisation méthodiste, vous voyez. Vous continuez toujours dans cette voie. C’est ce qui se fait. Mais remarquez bien ceci. Quelqu’un pourrait demander ce qui en est du Pentecôtisme qui est la troisième étape.
+
+53 Comprenez bien que chacune de ces étapes n’a fait que se plonger momentanément dans le Saint-Esprit. La justification est une oeuvre du Saint-Esprit. La sanctification est une oeuvre du Saint-Esprit, mais le Baptême EST le Saint-Esprit.
+
+54 C’est la raison pour laquelle il fallait que vienne un prophète prophétique, non pas un messager pour cet âge parce que le Saint-Esprit vint Lui-même dans Sa plénitude dans le Baptême. Mais à la fin de l’âge, comme cela s’est toujours terminé pour les autres, nous trouvons là le messager envoyé; et toute cette confusion et ces autres choses doivent être mises à leur place. Ensuite vient l’enlèvement de l’Eglise.
+
+55 Mais tous ceux qui ont écrit ces choses au sujet du soleil devenant noir et de la lune ont placé ces événements dans l’ère chrétienne. Ils ont simplement manqué de voir ces trois questions qui avaient été posées à notre Seigneur et comment Il y a répondu.
+
+56 Hier soir je crois qu’il n’y a pas eu la moindre question. Nous avons pris chacune de ces questions et l’avons mise à sa place dans les Sceaux, et les Sceaux sont le Livre Lui-même tout entier, dans son ensemble. Croyez-vous cela, docteur?
+
+57 Tout cela tient bien ensemble. Et nous avons pris ce que Jésus dit ici. Ils avaient posé trois questions, vous voyez. “Quand cela arrivera-t-il? Quel sera le signe de Ta venue? Quel est le signe de la fin du monde?”. Il leur répondit et nous avons tiré de Sa réponse tous les Sceaux sauf un. Lequel? Le septième Sceau. Pourquoi? Vous voyez, parce qu’il n’est pas connu. C’est ainsi.
+
+58 Chacun d’eux a été présenté. J’ai établi le parallèle d’un bout à l’autre. Lorsque j’écrivis l’autre soir, je suis retourné à mes anciennes notes que j’avais prises autrefois et les ai biffées. C’est ce que j’ai fait. Je pense que vous avez saisi. Avez-vous saisi cela?
+
+59 J’ai pris des notes ici sur ce que j’allais écrire au sujet de cet autre côté. J’écrivis ces nombres, ce 6 et ce 11, et le 9 et le 11, mais ce n’était pas juste. C’était le contraire que j’aurais dû écrire. Ainsi il y avait les réponses entre la peste et la guerre, vous voyez? Voilà ce qui s’est passé.
+
+60 J’étais si heureux que je me comportais comme un… Je me réjouissais de cette stimulation venant de la révélation. Alors je notai ces choses là où j’étais et je mis deux fois onze au mauvais endroit. Je crois que pour l’autre côté il aurait fallu mettre neuf au lieu de onze.
+
+61 Malgré tout avez-vous vu quel parallèle parfait cela faisait? N’oubliez pas cela. Ce parallèle s’est poursuivi jusqu’au sixième Sceau où il s’est arrêté, vous voyez. Observez donc l’ouverture des Sceaux qui se poursuit jusqu’au sixième, et cela s’arrête. Il y a simplement un silence dans le Ciel (c’est tout ce qui en est dit) pendant une demi-heure.
+
+62 Mais il faut que je me dépêche de répondre à ces questions car vous savez, chacune pourrait être le sujet d’un sermon de quatre semaines. Mais ce n’est pas ce que je veux faire car je désire répondre aux questions de chacun, dans la mesure du possible.
+
+63 Ces vierges, il y en a une partie dans cet âge-ci. Chaque âge a ses vierges, vous voyez. L’ange vient à l’Eglise. “Ecris à l’ange de l’Eglise d’Ephèse”. Vous voyez?
+
+64 Et après qu’une lettre ait été écrite à l’Eglise d’Ephèse (vous pouvez comparer cela), un Sceau est ouvert. C’est exactement de cette manière que nous essayons de vous apporter ces choses. Voyez-vous ce que je veux dire? Si le Seigneur le permet.
+
+65 Qu’y a-t-il eu en premier? Les âges de l’Eglise. N’est-ce pas vrai? Ensuite c’est le message aux âges de l’Eglise. Est-ce clair pour chacun maintenant?
+
+66 Premièrement nous avons vu les âges de l’Eglise et leur histoire (les conciles de Nicée et d’avant, et tout ce que nous avons pu trouver dans l’histoire) et nous avons découvert alors que l’interprétation correcte de la Parole correspondait exactement avec l’histoire. Et nous sommes descendus jusqu’à cet âge-ci, celui de Laodicée. Nous n’avons pas besoin d’histoire pour cela parce que l’histoire est en train de se faire maintenant. Et alors nous avons montré ce qui serait dans cet âge-ci.
+
+67 Maintenant revenons aux Sceaux et ouvrons ce Sceau. Dieu nous ouvre ce Sceau. Qu’est-il donc? Premièrement il y a les messagers et les âges de l’Eglise. Ensuite viennent les sept Sceaux.
+
+68 Maintenant nous découvrons la corruption qui frappe dans le septième âge de l’Eglise, mais le septième Sceau ne révèle rien du tout de ce qui doit se passer en lui, vous voyez, parce qu’à la fin de cet âge de l’Eglise, un don prophétique doit venir révéler ces choses. Est-ce que vous me suivez? Bien.
+
+69 Remarquez combien chacun de ces Sceaux… Ensuite j’en suis venu à ces trois questions posées à Jésus-Christ: “Quand ces choses arriveront-elles? Quand ne restera-t-il plus pierre sur pierre? Quand ce centre du monde religieux sera-t-il détruit et qu’un autre sera mis à sa place? Quand y aura-t-il cette chevauchée de l'Antichrist?”. Vous comprenez? Et qu’est-ce qui est sorti à sa rencontre? La Parole! la Parole contre la parole.
+
+70 Ensuite cela tomba dans la politique et tout le reste; c’était le labeur du Boeuf. Vous voyez? Cela est venu en second, exactement comme Jésus l’a dit dans Matthieu 24. Ensuite nous arrivons dans la période de l’habileté, de la sagesse des réformateurs. L’être vivant à la face d’homme sort à la rencontre de cela. C’est ce qui est arrivé. En descendant encore plus bas, nous arrivons au Sceau suivant, le quatrième, où l’Antichrist devient un conglomérat qui a un nom: la Mort.
+
+71 Observez ce que dit Jésus. Il la jetterait dans le feu et tuerait même ses enfants. C’est une chevauchée de mort. C’est à la fois les Protestants et les Catholiques. Il y a la marque de la mort sur chacun d’eux. Elle et ses enfants sont détruits. Ainsi si vous vous fiez encore à votre dénomination, vous feriez mieux de vous en éloigner immédiatement. Quand on arrive au septième Sceau, Jésus s’arrête là.
+
+72 Il ouvrit le sixième Sceau en disant que la lune deviendrait du sang, qu’il y aurait des ténèbres et tout le reste, que toutes ces choses arriveraient. Nous sommes arrivés jusque là et avons ouvert le sixième Sceau. Après que le sixième Sceau ait été ouvert, cela nous a ramenés en arrière et montré ces mêmes choses.
+
+73 Vous voilà avec trois endroits différents dans l’Ecriture liés ensemble par la révélation, vous voyez. Observez ceci. L’endroit où Jésus en a parlé, l’endroit où Il a ouvert le Livre qui était caché depuis la fondation du monde et ensuite ici la révélation de ce jour, relient ces trois endroits; et trois, c’est un témoin, c’est vrai. C’est l’absolue vérité.
+
+74 Ces vierges dont nous parlons ici, ce sont celles qui se sont endormies, mais le Corps tout entier est formé de ce groupe qui va former les vierges sages. Et les vierges folles sont celles qui ont commencé à revenir en arrière (l’antichrist) en même temps que les vierges sages partaient. Ce sont elles qui essaient d’acheter de l’huile à ce moment-là.
+
+75 Faites attention à ceci. Vous voyez, où que vous regardiez, tout est parfait… Si je pouvais rester ici et parler de tout ce qui a été révélé dans cette salle, cela vous donnerait le vertige. Et qu’est-ce que cela vous fera quand vous aurez reçu le tout!
+
+76 Et vous savez, quand on se retire à l’écart des gens, alors les mystères commencent à s’ouvrir. Et vous voyez alors des choses que vous n’oseriez jamais dire aux gens parce qu’ils commenceraient à créer des petits “ismes”.
+
+77 Voyez simplement ce qu’a fait ce petit don de guérison, comme il a mis la confusion dans l’église. Chacun avait une sensation, chacun avait ceci ou cela mais au plus profond de mon coeur (et Dieu sait que c’est la vérité), je savais que ce n’était pas juste parce que c’est Dieu Lui-même qui me l’avait dit. C’est une contrefaçon; cela ne fait qu’égarer les gens. C’est bien vrai!
+
+78 Vous voyez, vous ne pouvez pas dire de telles choses. Il vaut mieux laisser tout cela tranquille. Rappelez-vous ce “troisième Pull”. Il me fut dit: «N’en parle à personne!». Qu’était-il dit que c’était? Combien se souviennent de cela? Bien sûr. Vous vous rappelez que dans cette vision j’essayais d’enfiler le lacet dans l’oeillet de ce petit soulier. Il avait dit: «Tu ne peux pas enseigner des choses surnaturelles à des nourrissons de la Pentecôte!».
+
+79 Je dis alors que cela serait le “troisième Pull” et qu’il ne serait pas connu, aussi que Dieu m’aide par Sa grâce. Or nous sommes maintenant tout à fait au temps de la fin. Cela ne va plus être très long jusqu’à ce que le Trône de la Grâce devienne le Trône du Jugement.
+
+80 Tandis que vous voyez apparaître ces choses et entrer ce peuple, vous feriez bien d’entrer vous aussi, si vous n’êtes pas déjà dedans, rassemblés à l’intérieur, dans les lieux célestes, vous voyez. Aussi, cela signifie plus que simplement se réjouir. Dans les lieux célestes, si vous êtes rassemblés en Christ, il s’agit de quelque chose de redoutable.
+
+81 Quand vous vous tenez près de l’Ange du Seigneur, vous pensez que vous allez pousser des cris! Ce n’est pas cela. Cela vous effraie au point que vous en mourez presque. Ainsi vous voyez qu’il y a une différence entre se réjouir simplement et danser de joie (ce qui est très bien), et en venir à la chose réelle.
+
+82 C’est quelque chose de redoutable! Non pas que vous redoutiez d’être perdu, mais vous êtes réellement devant l’Etre angélique et le Saint-Esprit qui se tient Lui-même là. Or ce sera une partie de l’Epouse. C’est ce qu’il faudra pour la constituer… tous ceux qui dorment. Et ne pouvons-nous pas absolument le voir? [frère Branham est interrompu par une panne d’enregistreurs — N.d.R.] … Est-ce que tout est en ordre maintenant? Est-ce que quelqu’un a marché sur quelque chose? Il devait y avoir une surcharge à cause du trop grand nombre d’enregistreurs. Bien, changez de bande et terminons. Voici maintenant la question suivante.
+
+> 2. Les évangélistes doivent-ils continuer dans le champ de mission?
+
+83 Ce qu’elle veut dire évidemment, c’est si en cette heure-ci… Certainement, de toute façon. Il n’y a rien de changé. Si Jésus venait ce matin, prêchez aujourd’hui comme s’Il n’allait venir que dans dix ans, mais vivez comme s’Il allait venir à cette heure même.
+
+84 N’hésitez pas. C’est pourquoi j’essaie de vous avertir à ce sujet. Ne soyez pas bizarre ou étrange. Ne changez rien, mais si vous êtes en train de faire quelque chose de faux ou de mal, repentez-vous. Revenez à Dieu. Continuez dans votre service évangélique, simplement comme vous l’avez toujours fait.
+
+85 Si vous construisez une maison, continuez. Si Jésus vient demain, que vous soyez trouvé fidèle à la tâche. Si vous êtes en train de construire votre église, continuez. J’aime mieux mettre mon argent dans une entreprise comme celle-là que d’être trouvé avec de l’argent plein mes poches. Ainsi donc, persévérez et continuez comme vous êtes.
+
+86 Est-ce que tout le monde comprend maintenant? Continuez sans autre. Avancez simplement comme vous êtes. Ne vous arrêtez pas maintenant. Ne faites rien de semblable. Continuez simplement à avancer comme vous êtes. Continuez à servir le Seigneur!
+
+87 Prenons un exemple: vous êtes en train de travailler pour quelqu’un et vous voyez qu’il n’y a plus qu’un quart d’heure avant la fin de la journée. Si vous disiez: «Eh bien, puisqu’il ne reste plus qu’un quart d’heure je peux aussi bien arrêter maintenant et m’asseoir». Vous vous feriez mettre à la porte pour ce quart d’heure.
+
+88 Si vous êtes en train de semer du blé, semez votre blé. Si vous arrachez des pommes de terre, continuez à les arracher. Vous direz: «Mais il n’y aura personne pour les manger!». Aucune importance! continuez à les arracher! continuez simplement comme vous êtes.
+
+89 L’autre jour j’ai reçu une lettre de quelqu’un à qui l’on avait dit à peu près ceci: «Eh bien, le temps est proche. Vendez votre ferme. Vous n’aurez pas besoin de la nourriture qu’elle vous produit parce que le Millénium va commencer et vous n’en aurez pas besoin. Allez de l’avant. Comme vos enfants ne sont pas sauvés, laissez-leur la ferme pour qu’ils aient à manger pendant la tribulation, ou alors vendez tous vos fermes». Ils disaient quelque chose comme cela.
+
+90 Je me dis: «Eh bien alors!». Si j’étais un paysan et que je sache qu’Il viendrait demain, je rentrerais ma moisson aujourd’hui! S’Il m’avait fait paysan, je resterais à ma tâche. C’est vrai! S’Il m’avait fait mécanicien…
+
+91 Quelqu’un est venu me dire l’autre jour: «Frère, tu sais quoi? J’ai acheté une nouvelle voiture et je vais te donner le deuxième jeu de clefs». Il dit à son pasteur: «Je vais te donner le deuxième jeu de clefs parce que l’enlèvement pourrait se produire un de ces jours et alors je n’en aurais plus besoin».
+
+92 Son pasteur, lui, manquerait l’enlèvement! Voilà ce qui s’appelle se préparer, n’est-ce pas? Et pourtant c’est ainsi que cela se passe! Nous ne devons pas être ainsi. Nous devons être de sains et solides chrétiens. Et j’ai été placé ici pour travailler jusqu’à la dernière minute. J’ai un travail à faire et je veux être trouvé fidèle à mon poste. S’Il venait ce matin, j’aimerais me trouver debout ici, en chaire.
+
 93 Vous direz: «Frère Branham, s’Il venait ce matin, ne devriez-vous pas être là dehors?».
-94 Non, certainement pas! C’est ici mon poste de travail. Je voudrais me tenir debout ici même, en
-train de prêcher lorsqu’Il viendra, disant les choses mêmes que je suis en train de dire. Alors
-quand Il viendra, je sortirai simplement et m’en irai avec Lui.
-95 Si je suis occupé à houer des pommes de terre, je continuerai à les houer de toutes mes forces,
-et quand Il viendra, je laisserai simplement tomber ma houe et m’en irai. Rappelez-vous que
-l’année du jubilé, s’ils étaient en train de travailler avec la houe, ils continuaient à travailler. Ils
-savaient que l’année du jubilé allait commencer dans peut-être dix minutes et que la trompette
-sonnerait l’année du jubilé. Ils continuaient simplement à faire les foins ou quoi que ce soit qu’ils
-étaient en train de faire, mais quand la trompette sonnait ils laissaient tomber leur fourche et s’en
-allaient. C’est ainsi. Continuez simplement à récolter votre foin jusqu’à ce que la trompette sonne.
-   3. Bien. Encore une question: Selon l’ouverture du cinquième Sceau, Moïse et Elie
-      doivent mourir. Qu’en est-il d’Enoch?
-96 Je ne sais pas. Si je ne le sais pas, je vous dirai simplement que je ne le sais pas. Je ne
-connais pas toutes les réponses, chers amis, je ne les connais pas. Et si je ne le sais pas, je vous
-le dirai simplement. Je ne vous dirai rien avant de le savoir. Je ne sais pas. Je me suis moi-même
-souvent posé cette question.
-97 Il y a eu Enoch. J’ai vu Moïse et Elie revenir et être mis à mort, mais Enoch, lui, fut enlevé avant
-le temps. J’ai souvent pensé à cela et me suis demandé ce qui en était. Mais voyez-vous, la seule
-consolation que je puisse apporter est de dire ceci: Remarquez que Moïse n’a servi Dieu que
-pendant quarante ans. Il est mort à cent vingt ans…
-98 Ce que je veux dire c’est que pendant les quarante premières années il a reçu son éducation,
-n’est-ce pas? Ensuite pendant la deuxième période de quarante ans Dieu retira de lui cette
-éducation, et pendant la troisième période de quarante ans il servit Dieu. Bien. Mais Enoch marcha
-trois cents ans devant Dieu et fut irréprochable. Moïse, lui, revient pour servir encore un peu de
-temps, lui et Elie.
-99 Je ne dis pas que cela soit juste. Je vous donne simplement cela pour une pensée. Je ne sais
-pas ce qu’il y a de juste là-dedans. Je ne peux vraiment pas vous dire ce qui s’est passé là, ou ce
-que Dieu va faire.
-   4. Quel est le nom qui sera écrit sur les gens d’Apocalypse 3.12?
-100 Je ne sais pas. Il dit qu’Il leur donne un nom nouveau. Je ne sais pas ce qu’il est, vous voyez.
-Il sera probablement révélé quand nous arriverons là-haut mais je ne sais pas ce qu’il est
-maintenant, vous voyez? Vous voyez, c’est ce qu’Il fera. Il leur donne un nom nouveau qu’ils sont
-seuls à connaître. Vous voyez?
 
-        http://www.cmpp.ch
+94 Non, certainement pas! C’est ici mon poste de travail. Je voudrais me tenir debout ici même, en train de prêcher lorsqu’Il viendra, disant les choses mêmes que je suis en train de dire. Alors quand Il viendra, je sortirai simplement et m’en irai avec Lui.
 
-    LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX    10
-   5. Frère Branham, y a-t-il un passage quelconque des Ecritures permettant le
-      mariage après le divorce? C’est très important.
-101 C’est écrit «important». Eh bien, voilà la raison pour laquelle cette question n’appartient pas à
-notre sujet. Pour autant que je puisse le voir, mon frère ou ma soeur, qui que vous soyez, cela
-n’est pas permis à moins que votre conjoint ne soit mort parce que la Bible dit que nous sommes
-liés l’un à l’autre aussi longtemps que nous vivons.
-102 Ainsi vous avez demandé s’il y avait un passage de l’Ecriture à ce sujet: «Y a-t-il un passage
-quelconque des Ecritures…?». Je ne puis en trouver, voyez-vous, car Paul a dit que le couple
-marié, si l’un des conjoints est mort, l’autre est libre d’épouser qui il veut dans le Seigneur. Mais
-jusqu’à… Faites bien attention. C’est ce qui est dit: “… jusqu’à ce que la mort nous sépare…”.
-103 C’est cela. Vous avez fait un serment à ce sujet, vous voyez; alors je ne pense pas que vous
-puissiez le faire. Si vous trouvez quelque chose et que c’est correct, très bien. Mais en ce qui me
-concerne je n’en trouve pas.
-   6. Dans Apocalypse 6.6, que signifie: “… mais ne nuis pas à l’huile ni au vin!”?
-104 C’est le Saint-Esprit. Nous avons déjà vu cela. C’est probablement quelqu’un qui est venu un
-peu en retard pour écouter le message ou qui n’a pas les bandes magnétiques, vous voyez. “… et
-ne nuis pas à l’huile ni au vin”. Que signifient l’huile et le vin? L’huile, comme nous l’avons vu dans
-les symboles, veut dire le Saint-Esprit, vous voyez.
-105 Dans la Bible le vin et l’huile sont associés ensemble dans l’adoration. Et le vin, comme
-nous l’avons vu… C’est là que j’ai eu cette idée de la stimulation. Le vin stimule. Le vin naturel
-est le type qui donne la stimulation. L’antitype donne la révélation.
-106 Pensez simplement à ceci: Qu’est-ce qui stimule l’église? La révélation. Vous voyez? Ainsi le
-vin, le vin nouveau, serait… Mais faites attention à ceci. L’huile et le vin vont ensemble dans le
-sacrifice, vont ensemble dans l’adoration de l’église. Remarquez-le, ils sont assemblés ensemble,
-reliés ensemble.
-107 Si vous avez une concordance, étudiez-la et vous verrez toute une série de passages où le
-vin et l’huile sont associés dans l’adoration. Si vous avez une concordance vous trouverez cela.
-108 Remarquez encore ceci. Vous voyez, l’huile est toujours le Saint-Esprit. Nous trouvons cela
-dans Ezéchiel et dans tout l’Ancien Testament et aussi tout au long du Nouveau Testament.
-109 Pourquoi oignons-nous d’huile les malades? Nous oignons d’huile les malades parce que
-l’huile symbolise le Saint-Esprit qui est versé sur eux, vous voyez? Les vierges sages avaient
-aussi de l’huile; les folles n’avaient pas d’huile. L’Esprit, vous voyez. C’est l’huile.
-110 L’huile représente Dieu et Dieu est Esprit, vous voyez? Dieu est la Parole. “Au
-commencement était la Parole; et la Parole était avec Dieu; la Parole a été faite chair, et elle était
-Dieu”. Or si la Parole se tient ici maintenant dans une forme naturelle… maintenant le vin c’est
-l’eau, comme la révélation qui, révélant l’interprétation de la Parole, stimule le croyant, vous voyez.
-111 Oh, mes frères, ils disent: «Je n’avais jamais vu cela avant! Oh, mes frères, quelle gloire!».
-Qu’est-ce que c’est? La stimulation de la révélation. (Moi non plus je ne connaissais pas cela
-avant l’autre jour, quand j’étais assis là-bas, vous voyez!) Que font l’huile et le vin? Ils apparaissent
-lors de la venue du cavalier au cheval noir pendant l’âge des ténèbres, le troisième âge de l’Eglise.
-112 Remarquez que là il y a juste un petit reste qui est laissé, juste un petit reste, mais ne lui
-faites pas de mal. Et je crois que si vous recevez le troisième Sceau sur bande, vous découvrirez
-que nous y avions expliqué tous les détails.
-   7. Frère Branham, le Livre de Vie de l’Agneau et le Livre de Vie sont-ils un seul et
-      même Livre?
-113 Bien sûr! Parce que tout le plan de rédemption est inscrit dans ce Livre, vous voyez? Leurs
-noms y sont. Vous dites: «Eh bien, nos noms sont inscrits dans le Livre de Vie de l’Agneau, frère
-Branham. Le mien a été inscrit l’autre soir». Non, ce n’est pas vrai. Non, ce n’est pas vrai. L’autre
-soir vous avez simplement découvert qu’il y était, parce que les noms ont été inscrits avant la
-fondation du monde, vous voyez. Et c’est un seul et même Livre, vous voyez.
+95 Si je suis occupé à houer des pommes de terre, je continuerai à les houer de toutes mes forces, et quand Il viendra, je laisserai simplement tomber ma houe et m’en irai. Rappelez-vous que l’année du jubilé, s’ils étaient en train de travailler avec la houe, ils continuaient à travailler. Ils savaient que l’année du jubilé allait commencer dans peut-être dix minutes et que la trompette sonnerait l’année du jubilé. Ils continuaient simplement à faire les foins ou quoi que ce soit qu’ils étaient en train de faire, mais quand la trompette sonnait ils laissaient tomber leur fourche et s’en allaient. C’est ainsi. Continuez simplement à récolter votre foin jusqu’à ce que la trompette sonne.
 
+> 3. Bien. Encore une question: Selon l’ouverture du cinquième Sceau, Moïse et Elie doivent mourir. Qu’en est-il d’Enoch?
 
-    http://www.cmpp.ch
+96 Je ne sais pas. Si je ne le sais pas, je vous dirai simplement que je ne le sais pas. Je ne connais pas toutes les réponses, chers amis, je ne les connais pas. Et si je ne le sais pas, je vous le dirai simplement. Je ne vous dirai rien avant de le savoir. Je ne sais pas. Je me suis moi-même souvent posé cette question.
 
-    LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX    11
-   8. Frère Branham, est-il vrai que tout Juif né depuis la venue de Christ sera sauvé?
-      Et qui sont les 144 000? Est-ce que ce sont eux les prédestinés qui doivent être
-      scellés du Saint-Esprit, et quelle est leur mission?
-114 Il y a là trois questions en une. Voici donc la première: Est-il vrai que tout Juif né depuis que
-Christ est venu dans le monde sera sauvé?
-115 Non. Personne ne sera sauvé, excepté ceux dont le nom a été inscrit dans le Livre de
-Vie de l’Agneau avant la fondation du monde, qu’ils soient Juifs ou des nations. C’est tout.
-Le Livre contient ce mystère et le Livre ne nous le dévoile que maintenant. Il ne révèle pas chaque
-nom mais le mystère du Livre pendant l’appel de ces noms. Comprenez-vous cela maintenant?
-Vous voyez.
-116 Ce Livre ne dit pas: «Voici, Lee Vayle va être sauvé dans cet âge-ci de l’église…» ou
-«Orman Neville…» ou qui que ce soit. Non! Il ne dit pas cela. Il ne fait que nous montrer, nous
-dévoiler le mystère de ce qu’est cette chose. Mais nous-mêmes le croyons par la foi. C’est ce que
-j’ai dit l’autre soir.
-117 Quelqu’un a dit: «Cela ne me servira à rien d’essayer. Frère Branham a dit l’autre soir qu’il
-n’y en aurait qu’un seul qui serait sauvé à Jeffersonville!», vous voyez? Maintenant vous
-comprenez, je ne faisais que montrer une parabole. Ce n’est pas comme cela! Il se pourrait qu’il y
-en ait des milliers de sauvés. Je ne sais pas. J’espère que tous ceux-là sont sauvés mais je n’en
-sais rien! Mais voici comment je veux croire: s’il n’y en a qu’un, que ce soit moi. Vous devez croire
-la même chose pour vous. Si ce n’est pas le cas c’est qu’il y a quelque chose de faux dans votre
-foi. Vous n’êtes pas sûr de ce que vous faites.
-118 Comment pouvez-vous marcher ainsi face à la mort quand vous ne savez pas trop bien si
-vous êtes sauvé ou pas? Comment pouvez-vous venir ici et dire à ce paralytique couché là
-aveugle et déformé: «AINSI DIT LE SEIGNEUR, lève-toi! Jésus-Christ te guérit!»?
-119 Comment pourrez-vous vous tenir près de ce petit corps froid et raidi, de ce petit être mort
-depuis des heures et des heures, gisant là, froid et rigide, et dire: «AINSI DIT LE SEIGNEUR,
-lève-toi et lève-toi sur tes pieds»! Il faut que vous sachiez de quoi vous parlez, vous voyez.
-120 Eh bien, vous dites: «La mort réclame chaque chose. C’en est fait de lui». Oui, mais quand
-la Parole de Dieu est révélée et que vous savez que c’est Dieu, cela change les choses. C’est vrai.
-Maintenant au sujet de ces Juifs, tous les Juifs ne seront pas sauvés. Certainement pas. Ils ne
-seront pas tous sauvés. Seuls ceux qui…
-121 Quand Il parle des Juifs… On leur donna le nom de Juifs après qu’ils eurent quitté
-Nébucadnetsar, je crois. On commença à leur donner le nom de Juifs parce que la tribu de Juda
-fut prise alors et c’est ainsi qu’on leur donna le nom de Juifs. Ils reçurent le nom de Juifs parce
-qu’ils venaient de Judée. Mais Israël est quelque chose de différent. “Israël” et “Juifs” sont deux
-choses totalement différentes.
-122 Tous les Juifs ne sont pas des Israélites, vous voyez. Non! Ce sont simplement des Juifs,
-mais Israël… Paul n’a jamais dit que tous les Juifs seraient sauvés; il dit que tout Israël sera
-sauvé. Pourquoi? Le nom d’Israël est le nom de la rédemption en remontant jusqu’au
-commencement, vous voyez. Tout Israël sera sauvé, mais pas tout le Judaïsme!
-123 C’est comme pour les nations; il y a des milliers de milliers de personnes, littéralement des
-millions venant de ces organisations appelées chrétiennes, Eglise de Christ et tous ces noms
-semblables. Cela ne veut rien dire du tout. Cela ne signifie pas qu’ils seront sauvés. Les gens
-disent: «Vous devez appartenir à ceci et cela, à une organisation, à une certaine organisation. Si
-votre nom n’est pas dans notre livre, vous êtes perdu».
-124 Cela, ce sont des cultes. Ce sont des cultes, vous voyez. Vous ne pouvez être sauvé que
-d’une manière, et “cela ne dépend ni de celui qui veut, ni de celui qui court, mais de Dieu qui fait
-miséricorde” (Romains 9.16). Et Dieu, par Sa prescience, a prédestiné une Eglise à Sa gloire, et
-ce sont ceux-là qui sont sauvés. C’est vrai!
-125 Or votre foi est ancrée là. Vous dites: «Eh bien, ma foi est ancrée là». Mais voyez quel genre
-de vie vous menez! Vous voyez que vous n’êtes même pas apte à être là-bas. Votre ancre est mal
-placée. Elle est dans le sable au lieu d’être sur le roc. La première petite vague l’arrachera.
+97 Il y a eu Enoch. J’ai vu Moïse et Elie revenir et être mis à mort, mais Enoch, lui, fut enlevé avant le temps. J’ai souvent pensé à cela et me suis demandé ce qui en était. Mais voyez-vous, la seule consolation que je puisse apporter est de dire ceci: Remarquez que Moïse n’a servi Dieu que pendant quarante ans. Il est mort à cent vingt ans…
+
+98 Ce que je veux dire c’est que pendant les quarante premières années il a reçu son éducation, n’est-ce pas? Ensuite pendant la deuxième période de quarante ans Dieu retira de lui cette éducation, et pendant la troisième période de quarante ans il servit Dieu. Bien. Mais Enoch marcha trois cents ans devant Dieu et fut irréprochable. Moïse, lui, revient pour servir encore un peu de temps, lui et Elie.
+
+99 Je ne dis pas que cela soit juste. Je vous donne simplement cela pour une pensée. Je ne sais pas ce qu’il y a de juste là-dedans. Je ne peux vraiment pas vous dire ce qui s’est passé là, ou ce que Dieu va faire.
+
+> 4. Quel est le nom qui sera écrit sur les gens d’Apocalypse 3.12?
+
+100 Je ne sais pas. Il dit qu’Il leur donne un nom nouveau. Je ne sais pas ce qu’il est, vous voyez. Il sera probablement révélé quand nous arriverons là-haut mais je ne sais pas ce qu’il est maintenant, vous voyez? Vous voyez, c’est ce qu’Il fera. Il leur donne un nom nouveau qu’ils sont seuls à connaître. Vous voyez?
+
+> 5. Frère Branham, y a-t-il un passage quelconque des Ecritures permettant le mariage après le divorce? C’est très important.
+
+101 C’est écrit «important». Eh bien, voilà la raison pour laquelle cette question n’appartient pas à notre sujet. Pour autant que je puisse le voir, mon frère ou ma soeur, qui que vous soyez, cela n’est pas permis à moins que votre conjoint ne soit mort parce que la Bible dit que nous sommes liés l’un à l’autre aussi longtemps que nous vivons.
+
+102 Ainsi vous avez demandé s’il y avait un passage de l’Ecriture à ce sujet: «Y a-t-il un passage quelconque des Ecritures…?». Je ne puis en trouver, voyez-vous, car Paul a dit que le couple marié, si l’un des conjoints est mort, l’autre est libre d’épouser qui il veut dans le Seigneur. Mais jusqu’à… Faites bien attention. C’est ce qui est dit: “… jusqu’à ce que la mort nous sépare…”.
+
+103 C’est cela. Vous avez fait un serment à ce sujet, vous voyez; alors je ne pense pas que vous puissiez le faire. Si vous trouvez quelque chose et que c’est correct, très bien. Mais en ce qui me concerne je n’en trouve pas.
+
+> 6. Dans Apocalypse 6.6, que signifie: “… mais ne nuis pas à l’huile ni au vin!”?
+
+104 C’est le Saint-Esprit. Nous avons déjà vu cela. C’est probablement quelqu’un qui est venu un peu en retard pour écouter le message ou qui n’a pas les bandes magnétiques, vous voyez. “… et ne nuis pas à l’huile ni au vin”. Que signifient l’huile et le vin? L’huile, comme nous l’avons vu dans les symboles, veut dire le Saint-Esprit, vous voyez.
+
+105 Dans la Bible le vin et l’huile sont associés ensemble dans l’adoration. Et le vin, comme nous l’avons vu… C’est là que j’ai eu cette idée de la stimulation. Le vin stimule. Le vin naturel est le type qui donne la stimulation. L’antitype donne la révélation.
+
+106 Pensez simplement à ceci: Qu’est-ce qui stimule l’église? La révélation. Vous voyez? Ainsi le vin, le vin nouveau, serait… Mais faites attention à ceci. L’huile et le vin vont ensemble dans le sacrifice, vont ensemble dans l’adoration de l’église. Remarquez-le, ils sont assemblés ensemble, reliés ensemble.
+
+107 Si vous avez une concordance, étudiez-la et vous verrez toute une série de passages où le vin et l’huile sont associés dans l’adoration. Si vous avez une concordance vous trouverez cela.
+
+108 Remarquez encore ceci. Vous voyez, l’huile est toujours le Saint-Esprit. Nous trouvons cela dans Ezéchiel et dans tout l’Ancien Testament et aussi tout au long du Nouveau Testament.
+
+109 Pourquoi oignons-nous d’huile les malades? Nous oignons d’huile les malades parce que l’huile symbolise le Saint-Esprit qui est versé sur eux, vous voyez? Les vierges sages avaient aussi de l’huile; les folles n’avaient pas d’huile. L’Esprit, vous voyez. C’est l’huile.
+
+110 L’huile représente Dieu et Dieu est Esprit, vous voyez? Dieu est la Parole. “Au commencement était la Parole; et la Parole était avec Dieu; la Parole a été faite chair, et elle était Dieu”. Or si la Parole se tient ici maintenant dans une forme naturelle… maintenant le vin c’est l’eau, comme la révélation qui, révélant l’interprétation de la Parole, stimule le croyant, vous voyez.
+
+111 Oh, mes frères, ils disent: «Je n’avais jamais vu cela avant! Oh, mes frères, quelle gloire!». Qu’est-ce que c’est? La stimulation de la révélation. (Moi non plus je ne connaissais pas cela avant l’autre jour, quand j’étais assis là-bas, vous voyez!) Que font l’huile et le vin? Ils apparaissent lors de la venue du cavalier au cheval noir pendant l’âge des ténèbres, le troisième âge de l’Eglise.
+
+112 Remarquez que là il y a juste un petit reste qui est laissé, juste un petit reste, mais ne lui faites pas de mal. Et je crois que si vous recevez le troisième Sceau sur bande, vous découvrirez que nous y avions expliqué tous les détails.
+
+> 7. Frère Branham, le Livre de Vie de l’Agneau et le Livre de Vie sont-ils un seul et même Livre?
+
+113 Bien sûr! Parce que tout le plan de rédemption est inscrit dans ce Livre, vous voyez? Leurs noms y sont. Vous dites: «Eh bien, nos noms sont inscrits dans le Livre de Vie de l’Agneau, frère Branham. Le mien a été inscrit l’autre soir». Non, ce n’est pas vrai. Non, ce n’est pas vrai. L’autre soir vous avez simplement découvert qu’il y était, parce que les noms ont été inscrits avant la fondation du monde, vous voyez. Et c’est un seul et même Livre, vous voyez.
+
+> 8. Frère Branham, est-il vrai que tout Juif né depuis la venue de Christ sera sauvé? Et qui sont les 144 000? Est-ce que ce sont eux les prédestinés qui doivent être scellés du Saint-Esprit, et quelle est leur mission?
+
+114 Il y a là trois questions en une. Voici donc la première: Est-il vrai que tout Juif né depuis que Christ est venu dans le monde sera sauvé?
+
+115 Non. Personne ne sera sauvé, excepté ceux dont le nom a été inscrit dans le Livre de Vie de l’Agneau avant la fondation du monde, qu’ils soient Juifs ou des nations. C’est tout. Le Livre contient ce mystère et le Livre ne nous le dévoile que maintenant. Il ne révèle pas chaque nom mais le mystère du Livre pendant l’appel de ces noms. Comprenez-vous cela maintenant? Vous voyez.
+
+116 Ce Livre ne dit pas: «Voici, Lee Vayle va être sauvé dans cet âge-ci de l’église…» ou «Orman Neville…» ou qui que ce soit. Non! Il ne dit pas cela. Il ne fait que nous montrer, nous dévoiler le mystère de ce qu’est cette chose. Mais nous-mêmes le croyons par la foi. C’est ce que j’ai dit l’autre soir.
+
+117 Quelqu’un a dit: «Cela ne me servira à rien d’essayer. Frère Branham a dit l’autre soir qu’il n’y en aurait qu’un seul qui serait sauvé à Jeffersonville!», vous voyez? Maintenant vous comprenez, je ne faisais que montrer une parabole. Ce n’est pas comme cela! Il se pourrait qu’il y en ait des milliers de sauvés. Je ne sais pas. J’espère que tous ceux-là sont sauvés mais je n’en sais rien! Mais voici comment je veux croire: s’il n’y en a qu’un, que ce soit moi. Vous devez croire la même chose pour vous. Si ce n’est pas le cas c’est qu’il y a quelque chose de faux dans votre foi. Vous n’êtes pas sûr de ce que vous faites.
+
+118 Comment pouvez-vous marcher ainsi face à la mort quand vous ne savez pas trop bien si vous êtes sauvé ou pas? Comment pouvez-vous venir ici et dire à ce paralytique couché là aveugle et déformé: «AINSI DIT LE SEIGNEUR, lève-toi! Jésus-Christ te guérit!»?
+
+119 Comment pourrez-vous vous tenir près de ce petit corps froid et raidi, de ce petit être mort depuis des heures et des heures, gisant là, froid et rigide, et dire: «AINSI DIT LE SEIGNEUR, lève-toi et lève-toi sur tes pieds»! Il faut que vous sachiez de quoi vous parlez, vous voyez.
+
+120 Eh bien, vous dites: «La mort réclame chaque chose. C’en est fait de lui». Oui, mais quand la Parole de Dieu est révélée et que vous savez que c’est Dieu, cela change les choses. C’est vrai. Maintenant au sujet de ces Juifs, tous les Juifs ne seront pas sauvés. Certainement pas. Ils ne seront pas tous sauvés. Seuls ceux qui…
+
+121 Quand Il parle des Juifs… On leur donna le nom de Juifs après qu’ils eurent quitté Nébucadnetsar, je crois. On commença à leur donner le nom de Juifs parce que la tribu de Juda fut prise alors et c’est ainsi qu’on leur donna le nom de Juifs. Ils reçurent le nom de Juifs parce qu’ils venaient de Judée. Mais Israël est quelque chose de différent. “Israël” et “Juifs” sont deux choses totalement différentes.
+
+122 Tous les Juifs ne sont pas des Israélites, vous voyez. Non! Ce sont simplement des Juifs, mais Israël… Paul n’a jamais dit que tous les Juifs seraient sauvés; il dit que tout Israël sera sauvé. Pourquoi? Le nom d’Israël est le nom de la rédemption en remontant jusqu’au commencement, vous voyez. Tout Israël sera sauvé, mais pas tout le Judaïsme!
+
+123 C’est comme pour les nations; il y a des milliers de milliers de personnes, littéralement des millions venant de ces organisations appelées chrétiennes, Eglise de Christ et tous ces noms semblables. Cela ne veut rien dire du tout. Cela ne signifie pas qu’ils seront sauvés. Les gens disent: «Vous devez appartenir à ceci et cela, à une organisation, à une certaine organisation. Si votre nom n’est pas dans notre livre, vous êtes perdu».
+
+124 Cela, ce sont des cultes. Ce sont des cultes, vous voyez. Vous ne pouvez être sauvé que d’une manière, et “cela ne dépend ni de celui qui veut, ni de celui qui court, mais de Dieu qui fait miséricorde” (Romains 9.16). Et Dieu, par Sa prescience, a prédestiné une Eglise à Sa gloire, et ce sont ceux-là qui sont sauvés. C’est vrai!
+
+125 Or votre foi est ancrée là. Vous dites: «Eh bien, ma foi est ancrée là». Mais voyez quel genre de vie vous menez! Vous voyez que vous n’êtes même pas apte à être là-bas. Votre ancre est mal placée. Elle est dans le sable au lieu d’être sur le roc. La première petite vague l’arrachera.
+
 126 Que la Parole soit révélée en quelque chose vous direz: «Mon église n’enseigne pas cela!».
-
-    http://www.cmpp.ch
 
 LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 12
 Cela montre bien que vous n’étiez pas ancré sur le roc. Vous étiez sur le sable. C’est vrai!
@@ -595,7 +361,7 @@ leur sujet. Je l’ai prise avec moi dans l’Ouest à une des églises de l’A
 j’ai oublié le nom. Il y a de ces églises là-bas en Afrique… voilà! c’est l’Eglise Réformée de
 Hollande. C’est l’Alliance de l’Eglise Réformée de Hollande.
 129 S’il y en a ici qui font partie de cette église-là, je vais leur expliquer pourquoi. Vous vous
-tenez encore à ce vieux Catéchisme de Heidelberg et c’est la raison pour laquelle vous êtes
+ tenez encore à ce vieux Catéchisme de Heidelberg et c’est la raison pour laquelle vous êtes
 toujours l’Eglise Réformée de Hollande, vous voyez. N’est-ce pas? Vous pouvez bien avoir pris un
 nom américain, cela n’y changera rien parce que là derrière vous enseignez toujours ce même
 vieux Catéchisme de Heidelberg. Demandez à votre pasteur si ce n’est pas vrai.
@@ -826,8 +592,8 @@ debout, prêchant. Et voici le Fils qui arrive pour être baptisé. Il entre dan
 Jean, puis sort de l’eau. Alors voici que le Ciel s’ouvre vers Lui et que le Saint-Esprit descend du
 Ciel semblable à une colombe, puis une Voix vient du Ciel et dit: “Celui-ci est mon Fils bien-aimé,
 en qui…”. Cette fois il y a trois personnes distinctes juste en même temps!». Oh, mes frères!
-170 Cela nous montre simplement que les gens qui ne sont pas baptisés et qui ne sont
-pas appelés à l’exercice d’un ministère n’ont rien à faire en chaire. C’est vrai. Je pourrais
+170 Cela nous montre simplement que les gens qui ne sont pas baptisés et qui ne
+sont pas appelés à l’exercice d’un ministère n’ont rien à faire en chaire. C’est vrai. Je pourrais
 maintenant prendre cette personne et, avec l’aide de Dieu, l’entortiller en un tel noeud qu’elle en
 aurait le vertige. (Je ne voulais pas… Cela ne sonne pas juste. Pardonne-moi! Je ne voulais pas
 dire cela! Seigneur, je ne voulais pas… Je L’ai senti me reprendre à cause de cela. Je ne voulais
@@ -896,7 +662,7 @@ Père? “Le Seigneur a dit à mon Seigneur: Assieds-toi à ma droite”. N’es
       l’enlèvement? Les petits enfants iront-ils aussi? Je vous remercie.
 184 La personne n’a pas signé. Si vous ne le faites pas, ce n’est d’ailleurs pas nécessaire. Mais
 vous voyez, quand Dieu a placé un nom dans le Livre de Vie de l’Agneau avant la fondation
-du monde, il n’y a rien au monde qui puisse l’effacer, parce qu’il est écrit avec l’encre du
+ du monde, il n’y a rien au monde qui puisse l’effacer, parce qu’il est écrit avec l’encre du
 Sang de Christ. Qu’il soit aussi grand que ceci, aussi grand que cela ou de quelque manière qu’il
 puisse être, il s’en ira de toute façon.
 185 Tous les enfants, toute l’église, tout ce qu’il y a… Dieu, par Sa prescience… Nous, nous ne
@@ -1124,547 +890,195 @@ jusqu’au fond, balayez et reprenez un bon départ. Amen! Gloire à Dieu!
     d’eux! Je suis en train de préparer cet enlèvement”. Il faut que vous ayez la sorte de foi qui vous
     emportera hors d’ici.
 
-   18. Quand l’alliance de Daniel 9.27 est-elle confirmée pour une semaine?
-226 Une moitié de l’alliance a été confirmée quand Jésus-Christ est venu sur la terre prêcher aux
-Juifs. Il n’est jamais allé vers les nations. Et Il a dit à Ses disciples: “N’allez pas vers les nations”.
-C’était uniquement pour les Juifs. Et Il prêcha pendant trois ans et demi, c’est-à-dire pendant une
-moitié de la soixante-dixième semaine, comme Daniel avait dit qu’Il ferait.
-227 Rappelez-vous maintenant qu’Il fut fermement confirmé aux Juifs, mais que leurs yeux
-avaient été aveuglés afin de donner une place aux nations. Ne pouvez-vous pas discerner le
-programme tout entier? Vous voyez? Il a prouvé Lui-même qu’Il était prophète, faisant exactement
-ce que le prophète ferait et leur montrant les signes des prophètes. Il dit: “Votre Parole ne dit-Elle
-pas: Si un homme dit qu’il est spirituel ou prophète, observez ce qu’il dit. Si cela arrive (si ce qu’il
-dit arrive tout le temps, continuellement)…”.
-228 Voyez ce que dit la Bible: “Frappez et on vous ouvrira, cherchez et vous trouverez,
-demandez et l’on vous donnera”. Si vous le remarquez, cela veut dire frappez, frappez
-continuellement [pour illustrer cela, frère Branham frappe à coups répétés sur le pupitre — N.d.R.]
-et restez dans cette position jusqu’à ce que vous ayez obtenu justice. Le juge n’aurait pas répondu
-si elle n’avait pas frappé à la porte avec insistance en disant: «Je suis entre vos mains!».
-Maintenant si vous essayez simplement et dites: «Seigneur, j’aimerais bien avoir cela. Amen…»,
-ce n’est pas ainsi qu’il faut faire. Restez là jusqu’à ce que vous l’obteniez. [Deuxième côté de la
-bande — N.d.R.] …cela donne ici ces trois ans et demi qui leur seront accordés encore une fois
-par les prophètes Moïse et Elie, vous voyez, comme c’est dit dans Apocalypse 11. Maintenant
-voyons la question suivante.
+18. Quand l’alliance de Daniel 9.27 est-elle confirmée pour une semaine?
+226 Une moitié de l’alliance a été confirmée quand Jésus-Christ est venu sur la terre prêcher aux Juifs. Il n’est jamais allé vers les nations. Et Il a dit à Ses disciples: “N’allez pas vers les nations”. C’était uniquement pour les Juifs. Et Il prêcha pendant trois ans et demi, c’est-à-dire pendant une moitié de la soixante-dixième semaine, comme Daniel avait dit qu’Il ferait.
+227 Rappelez-vous maintenant qu’Il fut fermement confirmé aux Juifs, mais que leurs yeux avaient été aveuglés afin de donner une place aux nations. Ne pouvez-vous pas discerner le programme tout entier? Vous voyez? Il a prouvé Lui-même qu’Il était prophète, faisant exactement ce que le prophète ferait et leur montrant les signes des prophètes. Il dit: “Votre Parole ne dit-Elle pas: Si un homme dit qu’il est spirituel ou prophète, observez ce qu’il dit. Si cela arrive (si ce qu’il dit arrive tout le temps, continuellement)…”.
+228 Voyez ce que dit la Bible: “Frappez et on vous ouvrira, cherchez et vous trouverez, demandez et l’on vous donnera”. Si vous le remarquez, cela veut dire frappez, frappez continuellement [pour illustrer cela, frère Branham frappe à coups répétés sur le pupitre — N.d.R.] et restez dans cette position jusqu’à ce que vous ayez obtenu justice. Le juge n’aurait pas répondu si elle n’avait pas frappé à la porte avec insistance en disant: «Je suis entre vos mains!». Maintenant si vous essayez simplement et dites: «Seigneur, j’aimerais bien avoir cela. Amen…», ce n’est pas ainsi qu’il faut faire. Restez là jusqu’à ce que vous l’obteniez. [Deuxième côté de la bande — N.d.R.] …cela donne ici ces trois ans et demi qui leur seront accordés encore une fois par les prophètes Moïse et Elie, vous voyez, comme c’est dit dans Apocalypse 11. Maintenant voyons la question suivante.
 
-    19. Si vous êtes de ceux qu’Il a choisis, serez-vous enlevé dans l’Epouse?
-    229   Oui. Oui monsieur, voilà une question facile!
+19. Si vous êtes de ceux qu’Il a choisis, serez-vous enlevé dans l’Epouse?
+229 Oui. Oui monsieur, voilà une question facile!
 
-    20. Frère Branham, vouliez-vous dire sept mille qui n’avaient pas fléchi le genou
-          devant Baal, ou sept cents?
-    230   Je voulais dire sept mille. Pardonnez-moi pour cela! C’était une simple façon de parler. C’est
-    comme je l’ai dit il n’y a pas longtemps. Avez-vous remarqué, quand je me tenais ici, que j’ai dit:
+20. Frère Branham, vouliez-vous dire sept mille qui n’avaient pas fléchi le genou devant Baal, ou sept cents?
+230 Je voulais dire sept mille. Pardonnez-moi pour cela! C’était une simple façon de parler. C’est comme je l’ai dit il n’y a pas longtemps. Avez-vous remarqué, quand je me tenais ici, que j’ai dit:
 
-                                                   http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 22
-“Et ils rendirent témoignage qu’ils avaient vu l’Agneau”? Vous voyez? L’Agneau était sur la terre.
-Ils rendaient témoignage qu’ils avaient vu l’Esprit de Dieu descendre sur l’Agneau.
-231 C’est comme le passage où il est dit: “Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute
-mon affection”. [Ici frère Branham fait une remarque sur la position relative du verbe et d’une
-préposition, comparant le grec, la version King James et l’anglais moderne. Il s’agit d’une simple
-question de langage pratiquement intraduisible en français — N.d.T.]
-232 Je ne voulais pas dire cela. Veuillez me pardonner. Et frères qui écouterez cette bande, et
-vous chers amis, écoutez ceci. Je ne voulais pas dire cela. Je suis un ministre de l’Evangile et
-toutes les fois que j’ai prêché là-dessus, j’ai su qu’il s’agissait de sept mille. J’ai simplement dit
-sept cents. Je ne voulais pas dire sept cents, mais je n’ai pas pris l’Ecriture pour lire. Cela m’est
-venu à l’esprit tandis que je parlais et j’ai dit sept cents au lieu de sept mille. Je fais tout le temps
-ce genre de fautes! C’est sûr que je suis bête, c’est pourquoi veuillez me pardonner. Je ne voulais
-pas dire cela.
-   21. Est-ce que l’Epouse de Christ est la même chose que le Corps de Christ?
-233 Oui, c’est certain! Mais vous voyez, je ne veux pas commencer là-dessus parce que je
-pourrais faire une prédication sur ce seul sujet, vous voyez. Je ne veux pas faire cela, mais je
-voudrais quand même vous montrer les choses. Quand Dieu donna à Adam son épouse tirée de
-son côté, Adam dit: “Elle est chair de ma chair et os de mes os”. N’est-ce pas vrai?
-234 Quand Dieu donna à Christ Son Epouse (l’Esprit donna la chair, l’Epouse), Il fut percé au
-côté au coeur et l’eau, le Sang et l’Esprit sortirent. Et cela devint chair de Sa chair et os de Ses os.
-Nous sommes (l’Epouse sera) la chair et les os de Christ. Exactement. C’est Son Epouse.
-   22. L’Epouse de Christ aura-t-elle un ministère avant l’enlèvement?
-235 Bien sûr! C’est ce qui se passe maintenant même. L’Epouse de Christ? Certainement! C’est
-le message de l’heure. L’Epouse de Christ. C’est certain, elle consiste en apôtres, prophètes,
-docteurs, évangélistes et pasteurs. N’est-ce pas vrai? C’est l’Epouse de Christ. C’est certain. Elle
-a un ministère, un glorieux ministère, le ministère de l’heure, mais il est si humble…
-236 Maintenant rappelez-vous ceci. Combien étaient-ils ici dès le début, depuis dimanche
-dernier? Vous vous rappelez sur quoi j’ai prêché? L’humilité! Oh, n’oubliez pas cela! Je vais
-d’ailleurs m’arrêter une minute là-dessus pour vous avertir de nouveau. Rappelez-vous que quand
-Dieu prédit que quelque chose de glorieux doit arriver, les gens regardent si loin avec leur sagesse
-qu’ils manquent ce qui arrive. Quand Dieu dit que quelque chose est glorieux, le monde en rit et
-dit: «Quelle bande d’ignorants!». C’est vrai. Mais quand le grand monde et la grande église disent:
-«Oh, comme c’est glorieux!», Dieu dit: «Vous n’êtes qu’une bande d’ignorants!». Vous voyez, vous
-devez faire attention… Peut-être que je ne voulais pas dire les choses de cette façon exactement,
-mais c’est bien un peu ainsi.
-237 Voyez ceci. Voici la grande et sainte église orthodoxe: «Nous connaissons la Parole. Nous
-avons des écoles, nous avons des séminaires. Nous polissons nos grands hommes, et pendant
-des centaines d’années nous avons été loyaux envers Jéhovah. Nous sommes l’Eglise. Nous
-sommes le Sanhédrin. Nous avons ici le conseil des églises ayant à la fois les Pharisiens et les
-Sadducéens et toutes les dénominations rassemblées toutes ensemble (comme c’est en train de
-se faire), nous sommes tous en un, le conseil des églises. Ici, c’est nous qui sommes les grands
-personnages. Nous savons que c’est scripturaire. Vous voyez cet espèce de pauvre type ignorant
-et barbu qui se tient au bord de la rivière, vêtu d’une simple peau de brebis et qui veut nous en
-remontrer?».
-238 Ils ne l’écouteraient certainement pas! Mais la Bible dit dans Malachie au chapitre 3: “Voici,
-j’enverrai mon messager; il préparera le chemin devant moi”. Sept cents douze ans avant que cela
-n’arrive, le grand prophète Esaïe se tint là, disant: “La voix de celui qui crie dans le désert:
-Préparez le chemin de l’Eternel, aplanissez dans le lieu stérile une route pour notre Dieu”
-(Ésaïe 40.3). C’est vrai.
-239 Beaucoup d’entre eux ont dit: “Tous les lieux élevés seront abaissés. Quand cet homme
-viendra, il pointera son doigt et déplacera des montagnes. Et tous les lieux bas, les fossés, seront
-élevés. Tous les lieux raboteux seront aplanis. Oh, frères, nous planterons du maïs dans tous les
-champs par ici; oh, nous ferons de grandes choses quand cet homme viendra”. Vous voyez?
+“Et ils rendirent témoignage qu’ils avaient vu l’Agneau”? Vous voyez? L’Agneau était sur la terre. Ils rendaient témoignage qu’ils avaient vu l’Esprit de Dieu descendre sur l’Agneau.
+231 C’est comme le passage où il est dit: “Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute mon affection”. [Ici frère Branham fait une remarque sur la position relative du verbe et d’une préposition, comparant le grec, la version King James et l’anglais moderne. Il s’agit d’une simple question de langage pratiquement intraduisible en français — N.d.T.]
+232 Je ne voulais pas dire cela. Veuillez me pardonner. Et frères qui écouterez cette bande, et vous chers amis, écoutez ceci. Je ne voulais pas dire cela. Je suis un ministre de l’Evangile et toutes les fois que j’ai prêché là-dessus, j’ai su qu’il s’agissait de sept mille. J’ai simplement dit sept cents. Je ne voulais pas dire sept cents, mais je n’ai pas pris l’Ecriture pour lire. Cela m’est venu à l’esprit tandis que je parlais et j’ai dit sept cents au lieu de sept mille. Je fais tout le temps ce genre de fautes! C’est sûr que je suis bête, c’est pourquoi veuillez me pardonner. Je ne voulais pas dire cela.
 
-        http://www.cmpp.ch
+21. Est-ce que l’Epouse de Christ est la même chose que le Corps de Christ?
+233 Oui, c’est certain! Mais vous voyez, je ne veux pas commencer là-dessus parce que je pourrais faire une prédication sur ce seul sujet, vous voyez. Je ne veux pas faire cela, mais je voudrais quand même vous montrer les choses. Quand Dieu donna à Adam son épouse tirée de son côté, Adam dit: “Elle est chair de ma chair et os de mes os”. N’est-ce pas vrai?
+234 Quand Dieu donna à Christ Son Epouse (l’Esprit donna la chair, l’Epouse), Il fut percé au côté au coeur et l’eau, le Sang et l’Esprit sortirent. Et cela devint chair de Sa chair et os de Ses os. Nous sommes (l’Epouse sera) la chair et les os de Christ. Exactement. C’est Son Epouse.
+
+22. L’Epouse de Christ aura-t-elle un ministère avant l’enlèvement?
+235 Bien sûr! C’est ce qui se passe maintenant même. L’Epouse de Christ? Certainement! C’est le message de l’heure. L’Epouse de Christ. C’est certain, elle consiste en apôtres, prophètes, docteurs, évangélistes et pasteurs. N’est-ce pas vrai? C’est l’Epouse de Christ. C’est certain. Elle a un ministère, un glorieux ministère, le ministère de l’heure, mais il est si humble…
+236 Maintenant rappelez-vous ceci. Combien étaient-ils ici dès le début, depuis dimanche dernier? Vous vous rappelez sur quoi j’ai prêché? L’humilité! Oh, n’oubliez pas cela! Je vais d’ailleurs m’arrêter une minute là-dessus pour vous avertir de nouveau. Rappelez-vous que quand Dieu prédit que quelque chose de glorieux doit arriver, les gens regardent si loin avec leur sagesse qu’ils manquent ce qui arrive. Quand Dieu dit que quelque chose est glorieux, le monde en rit et dit: «Quelle bande d’ignorants!». C’est vrai. Mais quand le grand monde et la grande église disent: «Oh, comme c’est glorieux!», Dieu dit: «Vous n’êtes qu’une bande d’ignorants!». Vous voyez, vous devez faire attention… Peut-être que je ne voulais pas dire les choses de cette façon exactement, mais c’est bien un peu ainsi.
+237 Voyez ceci. Voici la grande et sainte église orthodoxe: «Nous connaissons la Parole. Nous avons des écoles, nous avons des séminaires. Nous polissons nos grands hommes, et pendant des centaines d’années nous avons été loyaux envers Jéhovah. Nous sommes l’Eglise. Nous sommes le Sanhédrin. Nous avons ici le conseil des églises ayant à la fois les Pharisiens et les Sadducéens et toutes les dénominations rassemblées toutes ensemble (comme c’est en train de se faire), nous sommes tous en un, le conseil des églises. Ici, c’est nous qui sommes les grands personnages. Nous savons que c’est scripturaire. Vous voyez cet espèce de pauvre type ignorant et barbu qui se tient au bord de la rivière, vêtu d’une simple peau de brebis et qui veut nous en remontrer?».
+238 Ils ne l’écouteraient certainement pas! Mais la Bible dit dans Malachie au chapitre 3: “Voici, j’enverrai mon messager; il préparera le chemin devant moi”. Sept cents douze ans avant que cela n’arrive, le grand prophète Esaïe se tint là, disant: “La voix de celui qui crie dans le désert: Préparez le chemin de l’Eternel, aplanissez dans le lieu stérile une route pour notre Dieu” (Ésaïe 40.3). C’est vrai.
+239 Beaucoup d’entre eux ont dit: “Tous les lieux élevés seront abaissés. Quand cet homme viendra, il pointera son doigt et déplacera des montagnes. Et tous les lieux bas, les fossés, seront élevés. Tous les lieux raboteux seront aplanis. Oh, frères, nous planterons du maïs dans tous les champs par ici; oh, nous ferons de grandes choses quand cet homme viendra”. Vous voyez?
+
+http://www.cmpp.ch
 
 LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 23
-240 Ils s’attendaient à ce que Dieu tourne la manivelle et fasse descendre la passerelle en
-disant: “Descends, grand précurseur de mon Messie!” et aussitôt qu’il serait descendu Il aurait
-remonté la passerelle et l’aurait fait redescendre près d’un séminaire en disant: “Très bien, mon
-Fils bien-aimé, descends de là et va leur parler”.
-241 Mais oh! mes frères, voyez comment il est venu! Que se passa-t-il? Voici un homme vint qui
-n’avait aucune connaissance venant de leurs écoles, qui n’avait même pas une carte de membre
-ni aucune lettre d’introduction. Personne même ne savait s’il avait été à l’école un jour dans sa vie.
-On n’aurait pas pu le dire d’après sa manière de parler. Il n’employait même pas les termes
-ecclésiastiques. Il parlait de serpents, de haches, de désert et de choses semblables, d’arbres. Il
-n’utilisait pas les termes du monde ecclésiastique de ce jour-là, ni de ce jour-ci, ni d’aucun autre
-jour.
-242 Il vint comme un homme de la nature. Il sortit des taillis, pas rasé et les cheveux ébouriffés.
-Je ne pense pas qu’il prenait plus d’un bain tous les deux ou trois mois. C’est vrai. Il ne se mettait
-jamais en pyjama la nuit. Il n’avait jamais conduit une automobile. Il ne se lavait jamais les dents.
-Certainement pas.
-243 Mais le voici traversant le désert à grands pas comme ceci et venant leur dire: “Je suis la
-voix de Celui qui crie dans le désert: Préparez le chemin de l’Eternel, aplanissez dans le lieu stérile
-une route pour notre Dieu”.
-244 Quelques-uns des docteurs se tinrent là, disant: “Oh, dites donc mon ami, avez-vous votre
-carte?… nous ne pouvons pas coopérer avec vous dans cette campagne. Ici, nous ne pouvons
-pas faire cela. Eh bien, où est votre carte? Où est votre signe d’identification?”.
-245 Mais il les ignora simplement. Il avait un message, c’est pourquoi il continua simplement à le
-prêcher. Eux dirent: “Ah, attendez! Aujourd’hui nous allons amener l’évêque là-bas et nous verrons
-ce qu’il va dire à ce sujet. Nous irons là-bas. Nous savons qu’il est le chef de l’église et nous
-savons qu’il devra le reconnaître. Si cet homme est de Dieu, il reconnaîtra notre évêque”. Tous ces
-dignitaires se mirent en rang et allèrent s’asseoir là-bas.
-246 Mais il dit: “Race de vipère! Serpents dans l’herbe! (il parlait à tous ces dignitaires, ces “cols
-retournés”, etc.). Qui vous a appris à fuir la colère à venir? Ne savez-vous pas que votre heure est
-proche? Ne pensez pas…”.
+240 Ils s’attendaient à ce que Dieu tourne la manivelle et fasse descendre la passerelle en disant: “Descends, grand précurseur de mon Messie!” et aussitôt qu’il serait descendu Il aurait remonté la passerelle et l’aurait fait redescendre près d’un séminaire en disant: “Très bien, mon Fils bien-aimé, descends de là et va leur parler”.
+241 Mais oh! mes frères, voyez comment il est venu! Que se passa-t-il? Voici un homme vint qui n’avait aucune connaissance venant de leurs écoles, qui n’avait même pas une carte de membre ni aucune lettre d’introduction. Personne même ne savait s’il avait été à l’école un jour dans sa vie. On n’aurait pas pu le dire d’après sa manière de parler. Il n’employait même pas les termes ecclésiastiques. Il parlait de serpents, de haches, de désert et de choses semblables, d’arbres. Il n’utilisait pas les termes du monde ecclésiastique de ce jour-là, ni de ce jour-ci, ni d’aucun autre jour.
+242 Il vint comme un homme de la nature. Il sortit des taillis, pas rasé et les cheveux ébouriffés. Je ne pense pas qu’il prenait plus d’un bain tous les deux ou trois mois. C’est vrai. Il ne se mettait jamais en pyjama la nuit. Il n’avait jamais conduit une automobile. Il ne se lavait jamais les dents. Certainement pas.
+243 Mais le voici traversant le désert à grands pas comme ceci et venant leur dire: “Je suis la voix de Celui qui crie dans le désert: Préparez le chemin de l’Eternel, aplanissez dans le lieu stérile une route pour notre Dieu”.
+244 Quelques-uns des docteurs se tinrent là, disant: “Oh, dites donc mon ami, avez-vous votre carte?… nous ne pouvons pas coopérer avec vous dans cette campagne. Ici, nous ne pouvons pas faire cela. Eh bien, où est votre carte? Où est votre signe d’identification?”.
+245 Mais il les ignora simplement. Il avait un message, c’est pourquoi il continua simplement à le prêcher. Eux dirent: “Ah, attendez! Aujourd’hui nous allons amener l’évêque là-bas et nous verrons ce qu’il va dire à ce sujet. Nous irons là-bas. Nous savons qu’il est le chef de l’église et nous savons qu’il devra le reconnaître. Si cet homme est de Dieu, il reconnaîtra notre évêque”. Tous ces dignitaires se mirent en rang et allèrent s’asseoir là-bas.
+246 Mais il dit: “Race de vipère! Serpents dans l’herbe! (il parlait à tous ces dignitaires, ces “cols retournés”, etc.). Qui vous a appris à fuir la colère à venir? Ne savez-vous pas que votre heure est proche? Ne pensez pas…”.
 247 Vous dites: “Eh bien, il appartient à ceci ou à cela”.
-248 “Mais je vous dis que de ces pierres, le Dieu que je sers est capable de susciter des enfants
-à Abraham”. Oh, mes frères! Maintenant il va prendre le contre-pied de ces discours
-ecclésiastiques: “Je vous dis que la cognée est déjà mise à la racine de l’arbre. Tout arbre qui ne
-porte pas de bons fruits sera abattu et jeté au feu. Voyez, en vérité, moi, je vous baptise d’eau
-pour la repentance, mais Lui vient après moi. Alors la lune sera changée en sang et…”. Oh, mes
-frères!
-249 “Il nettoiera complètement Son aire. Il ôtera la balle et la brûlera dans un feu qui ne s’éteint
-point, mais Il serrera le grain dans le grenier. Il séparera l’ivraie du bon grain”. Oh, mes frères, quel
-message! Eux disaient: “Ce type? Oh!… Que dit-il? De quel temps s’agit-il? Oh, quelle ignorance!
-Nous avons ici même l’homme qu’il faut, le frère Jones. S’il y en a un qui fera cela en ce jour, c’est
-lui! L’évêque Untel fera cela, le Saint-Père Tel et tel”. Oh, mes frères! Vous voyez? Dieu dans la
-simplicité! Dieu agissant dans la simplicité.
-250 Et le voici tout à coup qui se tient là un jour, disant: “Oui, Il est là debout au milieu de vous!”.
-Il était si sûr d’être ce précurseur. Il savait qui il était, c’est la raison pour laquelle il pouvait les
-“enguirlander” pareillement. Il disait aussi: “Maintenant, ne tremblez pas mais allez simplement de
-l’avant et continuez. Vous, soldats, obéissez à vos supérieurs. Si vous avez fait quelque chose de
-mal, faites réparation”.
+248 “Mais je vous dis que de ces pierres, le Dieu que je sers est capable de susciter des enfants à Abraham”. Oh, mes frères! Maintenant il va prendre le contre-pied de ces discours ecclésiastiques: “Je vous dis que la cognée est déjà mise à la racine de l’arbre. Tout arbre qui ne porte pas de bons fruits sera abattu et jeté au feu. Voyez, en vérité, moi, je vous baptise d’eau pour la repentance, mais Lui vient après moi. Alors la lune sera changée en sang et…”. Oh, mes frères!
+249 “Il nettoiera complètement Son aire. Il ôtera la balle et la brûlera dans un feu qui ne s’éteint point, mais Il serrera le grain dans le grenier. Il séparera l’ivraie du bon grain”. Oh, mes frères, quel message! Eux disaient: “Ce type? Oh!… Que dit-il? De quel temps s’agit-il? Oh, quelle ignorance! Nous avons ici même l’homme qu’il faut, le frère Jones. S’il y en a un qui fera cela en ce jour, c’est lui! L’évêque Untel fera cela, le Saint-Père Tel et tel”. Oh, mes frères! Vous voyez? Dieu dans la simplicité! Dieu agissant dans la simplicité.
+250 Et le voici tout à coup qui se tient là un jour, disant: “Oui, Il est là debout au milieu de vous!”. Il était si sûr d’être ce précurseur. Il savait qui il était, c’est la raison pour laquelle il pouvait les “enguirlander” pareillement. Il disait aussi: “Maintenant, ne tremblez pas mais allez simplement de l’avant et continuez. Vous, soldats, obéissez à vos supérieurs. Si vous avez fait quelque chose de mal, faites réparation”.
 251 “Que ferons-nous? Cesserons-nous nos activités? Arrêterons-nous de faire ceci ou cela?”.
-252 Mais il leur dit: “Continuez comme auparavant. Continuez. Continuez. Allez de l’avant.
-Si vous cultiviez des pommes de terre, cultivez-les. Vous les soldats, ne faites pas de violence,
-mais faites simplement ce que vous devez faire et continuez comme vous êtes. Obéissez à vos
-maîtres et tout le reste.
-     — “Rabbi, que ferons-nous?”.
+252 Mais il leur dit: “Continuez comme auparavant. Continuez. Continuez. Allez de l’avant. Si vous cultiviez des pommes de terre, cultivez-les. Vous les soldats, ne faites pas de violence, mais faites simplement ce que vous devez faire et continuez comme vous êtes. Obéissez à vos maîtres et tout le reste.
+— “Rabbi, que ferons-nous?”.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
-    LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX    24
-253 “Continuez simplement comme vous êtes, mais il y a au milieu de vous quelqu’un que vous
-ne connaissez pas (Il savait que c’était l’heure de son message, il savait qu’il devait présenter
-cette Personne. Il savait que cette Personne était là). Il y a quelqu’un au milieu de vous mais vous
-ne Le voyez pas. Il y a des choses qui se passent dont vous ne savez rien”. Il avait dit: “Il y a
-quelque chose qui va se passer. Il sera ici et je Le reconnaîtrai”.
-254 Et finalement il dit un jour: “Voici, Il est ici. C’est l’Agneau de Dieu qui ôte le péché du
-monde”. Il dit: “Mon temps est achevé maintenant. Je vous ai présentés à Lui. Maintenant je dois
-diminuer. Je dois quitter la scène. A partir de maintenant, c’est Lui qui va prendre les choses en
-main. Le Millénium est sur le point d’arriver. Le temps est proche, à la porte”.
-255 Quand Il vint Jean dit: “Oh, Il va vous secouer! Il va séparer la balle du bon grain et Il la
-brûlera. Il nettoiera complètement Son aire et Il vient Son van dans Sa main”. Mais qu’était-Il? Un
-simple petit homme de rien du tout! Mais les autres avaient déjà un plan tout fait (oh, mes amis!)
-disant qu’Il aurait un esprit d’une grande supériorité.
-256 Il se tiendrait là-bas en Palestine, Il se tiendrait simplement là-haut sur un de Ses nuages
-blancs et cueillerait tous ces Romains pour les jeter en enfer, continuant à faire cela jusqu’à ce
-qu’il n’y en ait plus. Ils avaient prévu tout cela. Mais quand Il arriva, ce n’était qu’un petit Agneau
-qui vint parmi eux, doux et débonnaire, bousculé ici et là.
-257 Voyez ce que fit Jean. Lui qui était le prophète il dit à ses disciples: “Allez Lui demander s’Il
-est vraiment Celui qui devait venir”. C’était si humble que même ce prophète le manqua! Il
-demanda: “Est-ce Lui ou devons-nous en attendre un autre?”.
-258 Nous voyons dans Matthieu 11 qu’Il n’a jamais donné de livre aux disciples de Jean quand
-ceux-ci vinrent Lui poser la question. Jean dans sa prison était tellement décontenancé que
-comme l’a dit Pember, je crois: «Là-bas, ses yeux d’aigle furent voilés», vous voyez. Il avait dû
-redescendre sur la terre, lui qui avait été là-haut dans les airs. Mais quand les jours de sa
-prophétie furent terminés, il retomba sur la terre, vous voyez, et on le mit en prison. Il n’avait plus
-besoin de ces grandes ailes, c’est pourquoi il resta posé là. Mais il avait volé plus haut que le reste
-des hommes!
-259 Laissez-moi vous dire quelque chose. Dieu l’avait utilisé. Et Jésus le savait, vous voyez,
-parce qu’Il était Dieu incarné. Vous voyez, Il ne lui a pas donné un petit livre pour lui enseigner à
-savoir comment se comporter en prison. Il ne dit pas: “Attendez, je vais écrire une petite étude que
-vous apporterez à Jean et qui lui montrera comment se comporter quand il est en prison à cause
-de moi”. Non! Il n’a jamais dit cela.
-260 Il n’a pas dit: “Allez dire à Jean qu’il aurait dû faire son diplôme de théologie avant de
-commencer”. Si Jean avait fait cela, il aurait été comme les autres, il L’aurait aussi rejeté. Jean
-était honnête et posait une question.
-261 Jésus dit: “Attendez simplement que la réunion soit terminée et allez dire ensuite à Jean ce
-qui est arrivé. Alors il saura. Si vous lui dites ce qui se passe, il saura”. Vous voyez? “Dites-lui
-qu’étant en prison, il ne pouvait être ici, mais que vous, vous avez assisté à la rencontre et que
-vous avez vu ce qui est arrivé. Allez le lui dire”.
-262 Alors les disciples dirent: “Très bien, Maître” et passèrent de l’autre côté de la montagne.
-Jésus, assis sur une pierre, les regarda passer de l’autre côté et monter sur la montagne. Puis Il
-se tourna vers l’assemblée et dit: “Qui êtes-vous allés voir du temps de Jean?”. Il dit:
-“Qu’êtes-vous allés voir? Un homme au col retourné et vêtu d’habits somptueux, cultivé et instruit?
-Est-ce le genre d’hommes que vous êtes allés voir?”.
-263 Non. Vous savez ce qu’est ce genre d’hommes-là? Ce sont eux qui embrassent les bébés,
-vous savez, et qui travaillent dans le palais des rois. Jean n’était pas de ce type-là. Il dit encore:
-“Alors pourquoi êtes-vous allés? Pour voir un homme à qui un ministère a été donné et qui va
-l’engager dans une organisation ou quelque chose de semblable? qui, si les unitaires ne veulent
-pas de lui, ira chez les trinitaires et qui, si les trinitaires ne veulent pas de lui, ira à l’Eglise de Dieu
-ou n’importe où? Est-ce le genre d’homme vers lequel vous êtes allés, un homme secoué par tous
-les vents comme un roseau?”.
-264 Oh non! Jean n’était pas ainsi. Jésus dit alors: “Qui donc êtes-vous allés voir? Un
-prophète?”.
+LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 24
+253 “Continuez simplement comme vous êtes, mais il y a au milieu de vous quelqu’un que vous ne connaissez pas (Il savait que c’était l’heure de son message, il savait qu’il devait présenter cette Personne. Il savait que cette Personne était là). Il y a quelqu’un au milieu de vous mais vous ne Le voyez pas. Il y a des choses qui se passent dont vous ne savez rien”. Il avait dit: “Il y a quelque chose qui va se passer. Il sera ici et je Le reconnaîtrai”.
+254 Et finalement il dit un jour: “Voici, Il est ici. C’est l’Agneau de Dieu qui ôte le péché du monde”. Il dit: “Mon temps est achevé maintenant. Je vous ai présentés à Lui. Maintenant je dois diminuer. Je dois quitter la scène. A partir de maintenant, c’est Lui qui va prendre les choses en main. Le Millénium est sur le point d’arriver. Le temps est proche, à la porte”.
+255 Quand Il vint Jean dit: “Oh, Il va vous secouer! Il va séparer la balle du bon grain et Il la brûlera. Il nettoiera complètement Son aire et Il vient Son van dans Sa main”. Mais qu’était-Il? Un simple petit homme de rien du tout! Mais les autres avaient déjà un plan tout fait (oh, mes amis!) disant qu’Il aurait un esprit d’une grande supériorité.
+256 Il se tiendrait là-bas en Palestine, Il se tiendrait simplement là-haut sur un de Ses nuages blancs et cueillerait tous ces Romains pour les jeter en enfer, continuant à faire cela jusqu’à ce qu’il n’y en ait plus. Ils avaient prévu tout cela. Mais quand Il arriva, ce n’était qu’un petit Agneau qui vint parmi eux, doux et débonnaire, bousculé ici et là.
+257 Voyez ce que fit Jean. Lui qui était le prophète il dit à ses disciples: “Allez Lui demander s’Il est vraiment Celui qui devait venir”. C’était si humble que même ce prophète le manqua! Il demanda: “Est-ce Lui ou devons-nous en attendre un autre?”.
+258 Nous voyons dans Matthieu 11 qu’Il n’a jamais donné de livre aux disciples de Jean quand ceux-ci vinrent Lui poser la question. Jean dans sa prison était tellement décontenancé que comme l’a dit Pember, je crois: «Là-bas, ses yeux d’aigle furent voilés», vous voyez. Il avait dû redescendre sur la terre, lui qui avait été là-haut dans les airs. Mais quand les jours de sa prophétie furent terminés, il retomba sur la terre, vous voyez, et on le mit en prison. Il n’avait plus besoin de ces grandes ailes, c’est pourquoi il resta posé là. Mais il avait volé plus haut que le reste des hommes!
+259 Laissez-moi vous dire quelque chose. Dieu l’avait utilisé. Et Jésus le savait, vous voyez, parce qu’Il était Dieu incarné. Vous voyez, Il ne lui a pas donné un petit livre pour lui enseigner à savoir comment se comporter en prison. Il ne dit pas: “Attendez, je vais écrire une petite étude que vous apporterez à Jean et qui lui montrera comment se comporter quand il est en prison à cause de moi”. Non! Il n’a jamais dit cela.
+260 Il n’a pas dit: “Allez dire à Jean qu’il aurait dû faire son diplôme de théologie avant de commencer”. Si Jean avait fait cela, il aurait été comme les autres, il L’aurait aussi rejeté. Jean était honnête et posait une question.
+261 Jésus dit: “Attendez simplement que la réunion soit terminée et allez dire ensuite à Jean ce qui est arrivé. Alors il saura. Si vous lui dites ce qui se passe, il saura”. Vous voyez? “Dites-lui qu’étant en prison, il ne pouvait être ici, mais que vous, vous avez assisté à la rencontre et que vous avez vu ce qui est arrivé. Allez le lui dire”.
+262 Alors les disciples dirent: “Très bien, Maître” et passèrent de l’autre côté de la montagne. Jésus, assis sur une pierre, les regarda passer de l’autre côté et monter sur la montagne. Puis Il se tourna vers l’assemblée et dit: “Qui êtes-vous allés voir du temps de Jean?”. Il dit: “Qu’êtes-vous allés voir? Un homme au col retourné et vêtu d’habits somptueux, cultivé et instruit? Est-ce le genre d’hommes que vous êtes allés voir?”.
+263 Non. Vous savez ce qu’est ce genre d’hommes-là? Ce sont eux qui embrassent les bébés, vous savez, et qui travaillent dans le palais des rois. Jean n’était pas de ce type-là. Il dit encore: “Alors pourquoi êtes-vous allés? Pour voir un homme à qui un ministère a été donné et qui va l’engager dans une organisation ou quelque chose de semblable? qui, si les unitaires ne veulent pas de lui, ira chez les trinitaires et qui, si les trinitaires ne veulent pas de lui, ira à l’Eglise de Dieu ou n’importe où? Est-ce le genre d’homme vers lequel vous êtes allés, un homme secoué par tous les vents comme un roseau?”.
+264 Oh non! Jean n’était pas ainsi. Jésus dit alors: “Qui donc êtes-vous allés voir? Un prophète?”.
 
-    http://www.cmpp.ch
+http://www.cmpp.ch
 
-    LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX        25
-    265   Il dit: “Je vous dis que c’est vrai, mais je vais vous dire quelque chose que vous ne savez
-    pas, c’est qu’il était plus qu’un prophète. Il était quelque chose de plus”.
-    266   “Si vous pouvez le recevoir, il était celui dont il est écrit dans la Bible, dont il est écrit là-bas
-    dans l’Ecriture: J’enverrai mon messager devant ma face. Il préparera le chemin devant moi”
-    (Malachie 3.1). Ils n’avaient pas compris. Même les disciples n’avaient pas compris, vous voyez.
-    C’est vrai. Oh, mes frères! La simplicité! Soyez humbles! Descendez, car quand Dieu a promis
-    quelque chose de grand, vous voyez, c’est grand à Ses yeux à Lui.
-    267   Si vous voulez garder toujours cela à l’esprit… vous gardez ceci à l’esprit et quand cela
-    arrive, vous pouvez le changer. Baissez-vous et cueillez une de ces petites fleurs du printemps qui
-    viennent cette année, ou prenez simplement un brin d’herbe commune. Tenez cela dans votre
-    main et dites: “Je vais tenir cela maintenant et voir que quelque chose de si simple a fait cela, mais
-    j’aimerais bien voir le cerveau qui a été capable d’envoyer une fusée dans la lune fabriquer ce petit
-    brin d’herbe”.
-    268   Vous aurez toujours cela. Vous pouvez en être assuré, vous aurez toujours cela. Le brin
-    d’herbe a de La vie en lui, vous voyez. Il est si simple et si humble! Vous voyez, si un homme est
-    un grand homme, c’est très bien. Mais s’il est assez grand pour pouvoir devenir simple, vous
-    voyez, il trouvera Dieu. Mais s’il ne devient pas simple il ne Le verra jamais. Il faut que vous
-    deveniez simple.
+LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 25
+265 Il dit: “Je vous dis que c’est vrai, mais je vais vous dire quelque chose que vous ne savez pas, c’est qu’il était plus qu’un prophète. Il était quelque chose de plus”.
+266 “Si vous pouvez le recevoir, il était celui dont il est écrit dans la Bible, dont il est écrit là-bas dans l’Ecriture: J’enverrai mon messager devant ma face. Il préparera le chemin devant moi” (Malachie 3.1). Ils n’avaient pas compris. Même les disciples n’avaient pas compris, vous voyez. C’est vrai. Oh, mes frères! La simplicité! Soyez humbles! Descendez, car quand Dieu a promis quelque chose de grand, vous voyez, c’est grand à Ses yeux à Lui.
+267 Si vous voulez garder toujours cela à l’esprit… vous gardez ceci à l’esprit et quand cela arrive, vous pouvez le changer. Baissez-vous et cueillez une de ces petites fleurs du printemps qui viennent cette année, ou prenez simplement un brin d’herbe commune. Tenez cela dans votre main et dites: “Je vais tenir cela maintenant et voir que quelque chose de si simple a fait cela, mais j’aimerais bien voir le cerveau qui a été capable d’envoyer une fusée dans la lune fabriquer ce petit brin d’herbe”.
+268 Vous aurez toujours cela. Vous pouvez en être assuré, vous aurez toujours cela. Le brin d’herbe a de La vie en lui, vous voyez. Il est si simple et si humble! Vous voyez, si un homme est un grand homme, c’est très bien. Mais s’il est assez grand pour pouvoir devenir simple, vous voyez, il trouvera Dieu. Mais s’il ne devient pas simple il ne Le verra jamais. Il faut que vous deveniez simple.
 
- 23 a. Dans Apocalypse 5, verset 9, qui sont ceux qui chantent tandis que l’Agneau
-      prend le Livre? Sont-ce les saints qui ont été enlevés?
-269 Apocalypse 5, verset 9. Si vous le remarquez ce ne sont pas les saints. Il n’a pas encore
-réclamé Sa propriété. Ce ne sont pas les saints. N’avez-vous pas remarqué que ce sont les
-anciens et les êtres vivants, ceux qui chantent?
-270 Lisons ce passage pour cette personne. J’ai encore environ une demi-douzaine de questions
-ici et je pense que je pourrai y répondre en quelques minutes. Voyons cela. C’est Apocalypse 5.9,
-mais lisons aussi un peu avant. Lisons ce passage parce que cette personne est sincère à ce sujet
-et voudrait savoir. Ecoutez.
-     “Et lorsqu’il eut pris le livre, les quatre animaux et les vingt-quatre anciens tombèrent sur
-     leurs faces devant l’Agneau, ayant chacun une harpe et des coupes d’or pleines de
-     parfums, qui sont les prières des saints. Et ils chantent un cantique nouveau (vous
-     voyez?), disant: Tu es digne de prendre le livre, et d’en ouvrir les sceaux…”.
-271 Vous voyez? Dieu nous a rachetés et a fait de nous des sacrificateurs et des rois. Mais
-ceux-là sont un groupe céleste, ce ne sont pas encore les rachetés. Bien.
-   24. Frère Branham, si tous les gens pieux sont pris dans l’enlèvement, d’où
-      viendront Elie et Moïse?
-272 Il y a quelque chose qui ne va pas. Il y a quelque chose qui ne va pas. C’est tout. Il y a
-quelque chose qui est arrivé, vous voyez. Il y a quelque chose qui ne va plus quelque part. Tout le
-monde se sent bien? Il n’y a pas de maladie ou quoi que ce soit? [Quelqu’un dans l’assemblée
-demande à frère Branham de relire Apocalypse 5.9 — N.d.R.] Apocalypse combien, frère? Ah, la
-question! Ah, la question à laquelle nous venons de répondre. Voyons cela. [Suite de la réponse à
-la question 23 — N.d.R.]
-     “Et lorsqu’il eut pris le livre, les quatre animaux et les vingt-quatre anciens tombèrent sur
-     leurs faces devant l’Agneau, ayant chacun une harpe et des coupes d’or pleines de
-     parfums, qui sont les prières des saints. Et ils chantent un cantique nouveau, disant: Tu
-     es digne de prendre le livre, et d’en ouvrir les sceaux; car tu as été immolé (Voilà! Voilà!
-     C’est là que je m’étais trompé, vous voyez?), et tu as acheté pour Dieu par ton sang, de
-     toute tribu, et langue, et peuple, et nation…”.
-273 C’est vrai. Que pensez-vous de cela maintenant? Oh, si ce n’était pas la présence du
-Saint-Esprit, qu’était-ce? Il n’aurait pas laissé… Vous voyez, je n’avais lu que la première partie de
-ce verset. Il y avait là quelque chose d’écrit et j’essayais d’avancer, voyant l’heure qui passait.
-Mais vous voyez comment Il m’a arrêté là-dessus? Gloire à Dieu! Je n’avais pas lu la deuxième
-partie. J’ai ce passage ici. Vous voyez, il est écrit: “Et ils chantent un cantique nouveau…”. Et je
+23 a. Dans Apocalypse 5, verset 9, qui sont ceux qui chantent tandis que l’Agneau prend le Livre? Sont-ce les saints qui ont été enlevés?
+269 Apocalypse 5, verset 9. Si vous le remarquez ce ne sont pas les saints. Il n’a pas encore réclamé Sa propriété. Ce ne sont pas les saints. N’avez-vous pas remarqué que ce sont les anciens et les êtres vivants, ceux qui chantent?
+270 Lisons ce passage pour cette personne. J’ai encore environ une demi-douzaine de questions ici et je pense que je pourrai y répondre en quelques minutes. Voyons cela. C’est Apocalypse 5.9, mais lisons aussi un peu avant. Lisons ce passage parce que cette personne est sincère à ce sujet et voudrait savoir. Ecoutez.
+> “Et lorsqu’il eut pris le livre, les quatre animaux et les vingt-quatre anciens tombèrent sur leurs faces devant l’Agneau, ayant chacun une harpe et des coupes d’or pleines de parfums, qui sont les prières des saints. Et ils chantent un cantique nouveau (vous voyez?), disant: Tu es digne de prendre le livre, et d’en ouvrir les sceaux…”.
+271 Vous voyez? Dieu nous a rachetés et a fait de nous des sacrificateurs et des rois. Mais ceux-là sont un groupe céleste, ce ne sont pas encore les rachetés. Bien.
 
-          http://www.cmpp.ch
+24. Frère Branham, si tous les gens pieux sont pris dans l’enlèvement, d’où viendront Elie et Moïse?
+272 Il y a quelque chose qui ne va pas. Il y a quelque chose qui ne va pas. C’est tout. Il y a quelque chose qui est arrivé, vous voyez. Il y a quelque chose qui ne va plus quelque part. Tout le monde se sent bien? Il n’y a pas de maladie ou quoi que ce soit? [Quelqu’un dans l’assemblée demande à frère Branham de relire Apocalypse 5.9 — N.d.R.] Apocalypse combien, frère? Ah, la question! Ah, la question à laquelle nous venons de répondre. Voyons cela. [Suite de la réponse à la question 23 — N.d.R.]
+> “Et lorsqu’il eut pris le livre, les quatre animaux et les vingt-quatre anciens tombèrent sur leurs faces devant l’Agneau, ayant chacun une harpe et des coupes d’or pleines de parfums, qui sont les prières des saints. Et ils chantent un cantique nouveau, disant: Tu es digne de prendre le livre, et d’en ouvrir les sceaux; car tu as été immolé (Voilà! Voilà! C’est là que je m’étais trompé, vous voyez?), et tu as acheté pour Dieu par ton sang, de toute tribu, et langue, et peuple, et nation…”.
+273 C’est vrai. Que pensez-vous de cela maintenant? Oh, si ce n’était pas la présence du Saint-Esprit, qu’était-ce? Il n’aurait pas laissé… Vous voyez, je n’avais lu que la première partie de ce verset. Il y avait là quelque chose d’écrit et j’essayais d’avancer, voyant l’heure qui passait. Mais vous voyez comment Il m’a arrêté là-dessus? Gloire à Dieu! Je n’avais pas lu la deuxième partie. J’ai ce passage ici. Vous voyez, il est écrit: “Et ils chantent un cantique nouveau…”. Et je
+
+http://www.cmpp.ch
 
 LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 26
-m’étais arrêté là. Mais voyez la suite: “Et ils chantent un cantique nouveau, disant… car tu as été
-immolé, et tu as acheté pour Dieu par ton sang, de toute tribu, et langue, et peuple, et nation”. Bien
-sûr que ce sont eux! Oh, mes frères, mes frères! Vous voyez? D’autre part il y a une autre
-question qui va avec celle-là.
- 23 b. Pouvez-vous comparer ceux à qui il a été donné une longue robe blanche dans
-      Apocalypse 6.11 avec ceux qui ont lavé leurs robes dans le Sang de l’Agneau?
-274 Voyons cela. Apocalypse 6. Je ne peux pas répondre à la hâte, n’est-ce pas, sinon je vous
-dirai quelque chose de faux. Et Il ne veut pas que je fasse cela. C’est la vérité. C’est pourquoi, que
-le Seigneur m’aide! Le Saint-Esprit de Dieu sait que c’est la vérité, vous voyez. Je regardais la
-pendule et voyant qu’il était onze heures et demie, je pensai: «Si je ne me dépêche pas
-maintenant je ne pourrai pas prier pour les malades», et j’essaie de le faire, parce que ma pensée
-est tellement…
-275 Vous devez vous rappeler et comprendre maintenant que je ne suis qu’un être humain. Je
-suis ici depuis sept jours, et cet après-midi j’ai besoin de quelque chose que je dois trouver auprès
-de Dieu. Mais Il était tellement déterminé à ce que je ne fasse pas cette erreur qu’Il m’a rappelé
-afin que je lise le reste de ce verset.
-276 J’avais ressenti comme si quelque chose avait roulé au-dessus de moi et avait dit: «Reviens
-en arrière! Reviens en arrière!». Je pensai: «Comment, revenir en arrière? M’arrêter à cet instant
-et commencer à prier pour les malades? Que se passe-t-il? Qu’ai-je fait?». Et au moment même
-où j’en arrivai là quelqu’un me dit: «Relisez le verset». Je l’ai relu, et là au bas de la question, il y
-avait: Apocalypse 6.
-277 Vous voyez, j’avais lu la première partie. Cela a l’air d’être ainsi dans la première partie: “Et
-ils chantent un cantique nouveau…” mais plus bas, vous voyez ce qu’il y a? Il vient ensuite ceci:
-“… tu nous as achetés…”. Il s’agit bien sûr de l’Epouse, des saints qui sont enlevés. Il est certain
-qu’à ce moment-là l’Agneau a le Livre dans Sa main. Il a quitté le trône de la grâce médiatrice.
-Vous voyez?
-278 Vous voyez comme le Saint-Esprit veille sur cela? Parce que c’est exactement La même
-chose que j’ai dite l’autre soir quand Il m’a parlé dans ma chambre et que j’étais descendu ici pour
-prêcher cela à vous tous, c’est-à-dire que quand l’Agneau quitte cette place (oh, mes frères, je
-crois que nous ne ferons qu’aborder ce sujet, vous voyez) … L’Agneau a quitté Son trône et
-s’avance (c’est ainsi que je l’ai reçu quand était présente cette Lumière qui était Christ) … Quand
-l’Agneau quitte le trône où Il se tenait en tant que médiateur, Il descend ici et le jour de la
-rédemption est terminé pour l’Eglise.
-279 La rédemption suivante qui s’ouvre est pour les Juifs, les 144 000. N’est-ce pas vrai? Parce
-qu’Il a promis de retrancher l’arbre, vous savez. Maintenant voici que l’Agneau sort, alors le jour de
-la rédemption est terminé. Tout ce qui devait être racheté a déjà été racheté et inscrit dans le Livre
-et maintenant Il est sorti et ouvre le Livre. C’est vrai.
-280 Oh, merci Seigneur! Pardonne à Ton serviteur nerveux d’avoir essayé de passer sur quelque
-chose!
-281 Maintenant cette question. Pourriez-vous comparer ceux d’Apocalypse 6.11 à qui il a été
-donné de longues robes blanches?
-282 Voyons cela. Apocalypse 6.11. Bien. Où en sommes-nous avec cette question? De longues
-robes blanches… Oui, ce sont ceux qui ont été crucifiés et qui sont sous l’autel, les Juifs de ce
-temps-là. Il leur a été donné de longues robes blanches.
- 23 c. Pouvez-vous les comparer avec ceux d’Apocalypse 7.14 qui ont lavé leurs robes
-      dans le Sang de l’Agneau?
-283 Non. C’est tout différent, c’est certain. Vous voyez, nous avons découvert qu’il leur a été
-donné une longue robe blanche en ce temps-ci. Il leur a été donné une longue robe blanche
-par grâce, tandis que les autres ont lavé leurs robes dans le sang. Et ici dans l’Apocalypse, il
-y a cette grande multitude qui est venue devant Dieu, de toute race, langue et nation, et ce
-passage s’adresse exactement aux Juifs martyrs. C’est cela qui est correct.
-   24. Frère Branham, si tous les saints ont été enlevés dans l’enlèvement, d’où
+m’étais arrêté là. Mais voyez la suite: “Et ils chantent un cantique nouveau, disant… car tu as été immolé, et tu as acheté pour Dieu par ton sang, de toute tribu, et langue, et peuple, et nation”. Bien sûr que ce sont eux! Oh, mes frères, mes frères! Vous voyez? D’autre part il y a une autre question qui va avec celle-là.
 
-        http://www.cmpp.ch
+23 b. Pouvez-vous comparer ceux à qui il a été donné une longue robe blanche dans Apocalypse 6.11 avec ceux qui ont lavé leurs robes dans le Sang de l’Agneau?
+274 Voyons cela. Apocalypse 6. Je ne peux pas répondre à la hâte, n’est-ce pas, sinon je vous dirai quelque chose de faux. Et Il ne veut pas que je fasse cela. C’est la vérité. C’est pourquoi, que le Seigneur m’aide! Le Saint-Esprit de Dieu sait que c’est la vérité, vous voyez. Je regardais la pendule et voyant qu’il était onze heures et demie, je pensai: «Si je ne me dépêche pas maintenant je ne pourrai pas prier pour les malades», et j’essaie de le faire, parce que ma pensée est tellement…
+275 Vous devez vous rappeler et comprendre maintenant que je ne suis qu’un être humain. Je suis ici depuis sept jours, et cet après-midi j’ai besoin de quelque chose que je dois trouver auprès de Dieu. Mais Il était tellement déterminé à ce que je ne fasse pas cette erreur qu’Il m’a rappelé afin que je lise le reste de ce verset.
+276 J’avais ressenti comme si quelque chose avait roulé au-dessus de moi et avait dit: «Reviens en arrière! Reviens en arrière!». Je pensai: «Comment, revenir en arrière? M’arrêter à cet instant et commencer à prier pour les malades? Que se passe-t-il? Qu’ai-je fait?». Et au moment même où j’en arrivai là quelqu’un me dit: «Relisez le verset». Je l’ai relu, et là au bas de la question, il y avait: Apocalypse 6.
+277 Vous voyez, j’avais lu la première partie. Cela a l’air d’être ainsi dans la première partie: “Et ils chantent un cantique nouveau…” mais plus bas, vous voyez ce qu’il y a? Il vient ensuite ceci: “… tu nous as achetés…”. Il s’agit bien sûr de l’Epouse, des saints qui sont enlevés. Il est certain qu’à ce moment-là l’Agneau a le Livre dans Sa main. Il a quitté le trône de la grâce médiatrice. Vous voyez?
+278 Vous voyez comme le Saint-Esprit veille sur cela? Parce que c’est exactement La même chose que j’ai dite l’autre soir quand Il m’a parlé dans ma chambre et que j’étais descendu ici pour prêcher cela à vous tous, c’est-à-dire que quand l’Agneau quitte cette place (oh, mes frères, je crois que nous ne ferons qu’aborder ce sujet, vous voyez) … L’Agneau a quitté Son trône et s’avance (c’est ainsi que je l’ai reçu quand était présente cette Lumière qui était Christ) … Quand l’Agneau quitte le trône où Il se tenait en tant que médiateur, Il descend ici et le jour de la rédemption est terminé pour l’Eglise.
+279 La rédemption suivante qui s’ouvre est pour les Juifs, les 144 000. N’est-ce pas vrai? Parce qu’Il a promis de retrancher l’arbre, vous savez. Maintenant voici que l’Agneau sort, alors le jour de la rédemption est terminé. Tout ce qui devait être racheté a déjà été racheté et inscrit dans le Livre et maintenant Il est sorti et ouvre le Livre. C’est vrai.
+280 Oh, merci Seigneur! Pardonne à Ton serviteur nerveux d’avoir essayé de passer sur quelque chose!
+281 Maintenant cette question. Pourriez-vous comparer ceux d’Apocalypse 6.11 à qui il a été donné de longues robes blanches?
+282 Voyons cela. Apocalypse 6.11. Bien. Où en sommes-nous avec cette question? De longues robes blanches… Oui, ce sont ceux qui ont été crucifiés et qui sont sous l’autel, les Juifs de ce temps-là. Il leur a été donné de longues robes blanches.
+
+23 c. Pouvez-vous les comparer avec ceux d’Apocalypse 7.14 qui ont lavé leurs robes dans le Sang de l’Agneau?
+283 Non. C’est tout différent, c’est certain. Vous voyez, nous avons découvert qu’il leur a été donné une longue robe blanche en ce temps-ci. Il leur a été donné une longue robe blanche par grâce, tandis que les autres ont lavé leurs robes dans le sang. Et ici dans l’Apocalypse, il y a cette grande multitude qui est venue devant Dieu, de toute race, langue et nation, et ce passage s’adresse exactement aux Juifs martyrs. C’est cela qui est correct.
+
+24. Frère Branham, si tous les saints ont été enlevés dans l’enlèvement, d’où
+
+http://www.cmpp.ch
 
 LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 27
-      viendront Elie et Moïse? Seront-ils des Juifs, ou notre Elie, celui qui nous a été
-      donné, sera-t-il avec eux?
-284 Non. L’homme des nations qui aura été oint de cet esprit afin d’appeler les nations sera
-enlevé parce que, vous voyez, l’Eglise tout entière est enlevée. Ensuite ces deux prophètes du
-chapitre 11 entrent en scène. Alors le temps de la grâce est terminé pour les nations et envoyé
-aux Juifs. Ce ne sera donc pas le même homme. J’en suis pratiquement sûr. Mais rappelez-vous
-que je vous dis cela au mieux de ma connaissance.
+viendront Elie et Moïse? Seront-ils des Juifs, ou notre Elie, celui qui nous a été donné, sera-t-il avec eux?
+284 Non. L’homme des nations qui aura été oint de cet esprit afin d’appeler les nations sera enlevé parce que, vous voyez, l’Eglise tout entière est enlevée. Ensuite ces deux prophètes du chapitre 11 entrent en scène. Alors le temps de la grâce est terminé pour les nations et envoyé aux Juifs. Ce ne sera donc pas le même homme. J’en suis pratiquement sûr. Mais rappelez-vous que je vous dis cela au mieux de ma connaissance.
 Voyons maintenant ce que dit la question suivante.
-   25. Que font le blé et le vin d’Apocalypse 6.6?
-     Je vais voir cela en lisant ce passage.
-     “Et j’ouïs comme une voix au milieu des quatre animaux, disant: Une mesure de froment
-     pour un denier, et trois mesures d’orge pour un denier; et ne nuis pas à l’huile ni au vin”.
-285 Je pense que la signification du blé et du vin, qu’il s’agisse de l’un ou de l’autre… Si le vin
-pris à la table de communion selon 1 Corinthiens 11.24 est un symbole… l’un de ces vins est un
-symbole spirituel, tandis que l’autre est véritablement la révélation de la Parole.
-   26. La raison pour laquelle beaucoup sont malades ne serait-elle pas que nous ne
-      discernons pas le Corps du Seigneur? (c’est correct!) Mais maintenant c’est
-      révélé par l’ouverture du Sixième Sceau? (Il y a un point d’interrogation à la fin de
-      cette question.)
-286 Eh bien, l’Ecriture dit que beaucoup sont malades et faibles parmi vous parce qu’ils ne
-discernent pas le Corps du Seigneur. C’est l’exacte vérité, vous voyez, parce que le Corps du
-Seigneur est l’Epouse, et il y en a beaucoup qui ne marchent pas avec lui. C’est vrai. Vous
-voyez, ils ne savent pas comment se conduire, ils vivent n’importe comment et prennent malgré
-tout la communion. Ce n’est pas juste, vous savez.
-287 Quand les gens prennent la communion tout en mentant, volant et buvant, c’est terrible.
-Vous ne devriez pas faire cela, vous voyez.
-288 Suite de la question: «Mais maintenant c’est révélé par le Sixième Sceau?».
-289 Voyons cela maintenant. Non. Nous avons découvert à l’ouverture du Sixième Sceau
-qu’il était pour les Juifs, vous voyez. L’Eglise est loin à ce moment-là. C’est maintenant la
-période de tribulation. C’est pourquoi ce n’est pas la même chose. Non. Non, ce n’est pas cela.
-290 L’un est un vin spirituel, c’est la révélation de la Parole, et le croyant est stimulé par la
-révélation de la Parole, et l’autre est un symbole du Sang de Jésus que l’on prend à la table du
-Seigneur. Je dis cela au mieux de ma compréhension.
-   27. Y en a-t-il qui accepteront le Seigneur parmi ceux qui ne sont pas prédestinés?
-      S’ils le font, seront-ils apostats?
-291 Pas s’ils sont prédestinés. Non, ils ne le peuvent pas.
-   28. Où se trouve le passage de l’Ecriture qui montre que le Catholicisme séduira les
-      Juifs et s’emparera de leurs richesses?
-292 Où est-il dit que la Bête séduira pour obtenir la richesse? Il n’est pas dit cela. Mais nous
-présumons… Mais écoutez très attentivement la bande de l’autre soir. Je n’ai jamais dit que c’est
-ce qu’ils feraient, mais vous voyez, le Catholicisme est le groupe le plus riche de la terre. Il n’y a
-personne comme eux. Et ce qu’ils n’ont pas, ce sont les Juifs qui l’ont.
-293 Maintenant c’est là où l’économie de ce pays… Selon Lifeline, une information venant
-directement de Washington nous indique que nous vivons actuellement sur l’argent des impôts qui
-seront perçus dans quarante ans. C’est ainsi que nous dépensons aujourd’hui! Voilà le retard que
-nous avons. Nous vivons sur les impôts qui seront perçus dans quarante ans. La nation est
-«fauchée»! C’en est fait d’elle.
-294 La seule chose de sensée qu’ait jamais faite Castro fut de contrefaire la monnaie pour payer
-ses factures, puis de brûler tous les titres et de changer la monnaie. C’est la seule chose qu’il
-pouvait faire. Et il ne reste qu’une seule chose à faire aux Etats-Unis (mais rappelez-vous que ce
 
-        http://www.cmpp.ch
+25. Que font le blé et le vin d’Apocalypse 6.6?
+> Je vais voir cela en lisant ce passage.
+> “Et j’ouïs comme une voix au milieu des quatre animaux, disant: Une mesure de froment pour un denier, et trois mesures d’orge pour un denier; et ne nuis pas à l’huile ni au vin”.
+285 Je pense que la signification du blé et du vin, qu’il s’agisse de l’un ou de l’autre… Si le vin pris à la table de communion selon 1 Corinthiens 11.24 est un symbole… l’un de ces vins est un symbole spirituel, tandis que l’autre est véritablement la révélation de la Parole.
+
+26. La raison pour laquelle beaucoup sont malades ne serait-elle pas que nous ne discernons pas le Corps du Seigneur? (c’est correct!) Mais maintenant c’est révélé par l’ouverture du Sixième Sceau? (Il y a un point d’interrogation à la fin de cette question.)
+286 Eh bien, l’Ecriture dit que beaucoup sont malades et faibles parmi vous parce qu’ils ne discernent pas le Corps du Seigneur. C’est l’exacte vérité, vous voyez, parce que le Corps du Seigneur est l’Epouse, et il y en a beaucoup qui ne marchent pas avec lui. C’est vrai. Vous voyez, ils ne savent pas comment se conduire, ils vivent n’importe comment et prennent malgré tout la communion. Ce n’est pas juste, vous savez.
+287 Quand les gens prennent la communion tout en mentant, volant et buvant, c’est terrible. Vous ne devriez pas faire cela, vous voyez.
+288 Suite de la question: «Mais maintenant c’est révélé par le Sixième Sceau?».
+289 Voyons cela maintenant. Non. Nous avons découvert à l’ouverture du Sixième Sceau qu’il était pour les Juifs, vous voyez. L’Eglise est loin à ce moment-là. C’est maintenant la période de tribulation. C’est pourquoi ce n’est pas la même chose. Non. Non, ce n’est pas cela.
+290 L’un est un vin spirituel, c’est la révélation de la Parole, et le croyant est stimulé par la révélation de la Parole, et l’autre est un symbole du Sang de Jésus que l’on prend à la table du Seigneur. Je dis cela au mieux de ma compréhension.
+
+27. Y en a-t-il qui accepteront le Seigneur parmi ceux qui ne sont pas prédestinés? S’ils le font, seront-ils apostats?
+291 Pas s’ils sont prédestinés. Non, ils ne le peuvent pas.
+
+28. Où se trouve le passage de l’Ecriture qui montre que le Catholicisme séduira les Juifs et s’emparera de leurs richesses?
+292 Où est-il dit que la Bête séduira pour obtenir la richesse? Il n’est pas dit cela. Mais nous présumons… Mais écoutez très attentivement la bande de l’autre soir. Je n’ai jamais dit que c’est ce qu’ils feraient, mais vous voyez, le Catholicisme est le groupe le plus riche de la terre. Il n’y a personne comme eux. Et ce qu’ils n’ont pas, ce sont les Juifs qui l’ont.
+293 Maintenant c’est là où l’économie de ce pays… Selon Lifeline, une information venant directement de Washington nous indique que nous vivons actuellement sur l’argent des impôts qui seront perçus dans quarante ans. C’est ainsi que nous dépensons aujourd’hui! Voilà le retard que nous avons. Nous vivons sur les impôts qui seront perçus dans quarante ans. La nation est «fauchée»! C’en est fait d’elle.
+294 La seule chose de sensée qu’ait jamais faite Castro fut de contrefaire la monnaie pour payer ses factures, puis de brûler tous les titres et de changer la monnaie. C’est la seule chose qu’il pouvait faire. Et il ne reste qu’une seule chose à faire aux Etats-Unis (mais rappelez-vous que ce
+
+http://www.cmpp.ch
 
 LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 28
-n’est que William Branham qui parle. C’est mon idée. Je ne fais que des suppositions). En
-considérant simplement les choses du point de vue naturel, ce qui peut être très loin de la réalité,
-je crois que c’est dans cette question d’argent (et l’amour de l’argent est la racine de tous le mal),
-je crois que c’est justement ce qui va mettre tout cela en branle.
-295 L’église catholique, à force de faire payer les messes et tout le reste, détient les richesses du
-monde. Vous vous rappelez que la Bible dit qu’elle est riche et montre comment elle est. Et
-rappelez-vous que ses richesses ne viennent pas d’une seule nation, mais de toutes les nations
-qui sont sous le ciel. Elle tend la main partout. Elle a l’argent. Et tout ce qu’elle n’a pas, c’est Wall
-Street qui l’a, et ceux-là sont contrôlés par les Juifs.
-296 Rappelez-vous comme nous avons vu l’autre soir que Jacob, quand il est revenu après être
-devenu Israël, avait l’argent, il avait réellement l’argent, mais son argent ne pouvait rien lui faire
-acheter à Esaü. Esaü en avait lui aussi. Vous voyez, tous les deux, l’anti et l’autre… vous voyez?
-Cela joue parfaitement.
-297 Maintenant faites attention à ceci. J’avais dit qu’ils pourraient vouloir s’associer sur la base
-de l’argent et que la puissance romaine pourrait s’emparer de la puissance juive de l’argent,
-brisant l’alliance. Mais ce ne sera peut-être pas ainsi. Je sais qu’ils briseront cette alliance, mais je
-n’en connais pas la raison car ce qu’ils feront ne m’a pas été révélé.
-298 Mais voyez ceci. Que se passerait-il si aujourd’hui la seule chose que nous puissions faire…
-Si cette déclaration qui dit que nous vivons sur l’argent des impôts qui seront payés dans quarante
-ans est vraie… vous voyez, nous avons dépensé tout notre or. Nous sommes «fauchés». Nous
-n’avons plus aucun argent et nous vivons sur notre réputation passée.
-299 C’est ce que l’église fait aujourd’hui; l’église, pas l’Epouse. L’église vit sur une réputation
-passée qu’elle acquit sous le ministère du temps du Lion. «Nous sommes l’Eglise, nous
-sommes l’Eglise Mère, c’est nous qui avons commencé…». C’est vrai, vous voyez. Elle vit sur sa
-réputation.
-300 Les Méthodistes vivent sur leur réputation. Les Baptistes vivent sur leur réputation et les
-Pentecôtistes vivent sur la leur. Ils crient «Gloire à Dieu!» il y a déjà longtemps, lorsque les saints
-dansaient dans l’Esprit, ils disaient: «Le Seigneur a fait ceci et cela». C’est du passé! Frères, nous
-sommes tous devenus maintenant de grands personnages. Oh mes frères! Vous voyez? Tout cela
-est fondé sur une réputation passée.
-301 Cette nation vit sur la réputation passée de ce qu’étaient ses ancêtres. C’est la raison pour
-laquelle ils pensent qu’ils seront sauvés. Dieu n’a jamais eu égard à Israël pour ce qu’il avait
-été par le passé, mais pour ce qu’il était au moment présent.
-302 Maintenant écoutez ce que je pense, ce que je pense qui va se passer (mais cela pourrait ne
-pas être ainsi). Je crois que le temps viendra où nous serons forcés de faire face à cette
-échéance. Et quand nous en serons là, au lieu de changer notre monnaie… Qu’est-ce que cela
-ferait au groupe Philip Morris? Qu’est-ce que cela ferait aux fabricants de whisky? Qu’est-ce que
-cela ferait aux aciéries? Qu’est-ce que cela ferait à tout le commerce? Cela les ruinerait! Ils
-seraient «fauchés»! Mais si nous pouvons EMPRUNTER cet argent… Vous voyez comme elle est
-rusée?
-303 Alors la nation vendra tout à l’église et l’église et l’état seront de nouveau unis ensemble, et
-voilà où nous en serons. C’est ainsi. Remarquez cela! Bien. Maintenant la suivante.
+n’est que William Branham qui parle. C’est mon idée. Je ne fais que des suppositions). En considérant simplement les choses du point de vue naturel, ce qui peut être très loin de la réalité, je crois que c’est dans cette question d’argent (et l’amour de l’argent est la racine de tous le mal), je crois que c’est justement ce qui va mettre tout cela en branle.
+295 L’église catholique, à force de faire payer les messes et tout le reste, détient les richesses du monde. Vous vous rappelez que la Bible dit qu’elle est riche et montre comment elle est. Et rappelez-vous que ses richesses ne viennent pas d’une seule nation, mais de toutes les nations qui sont sous le ciel. Elle tend la main partout. Elle a l’argent. Et tout ce qu’elle n’a pas, c’est Wall Street qui l’a, et ceux-là sont contrôlés par les Juifs.
+296 Rappelez-vous comme nous avons vu l’autre soir que Jacob, quand il est revenu après être devenu Israël, avait l’argent, il avait réellement l’argent, mais son argent ne pouvait rien lui faire acheter à Esaü. Esaü en avait lui aussi. Vous voyez, tous les deux, l’anti et l’autre… vous voyez? Cela joue parfaitement.
+297 Maintenant faites attention à ceci. J’avais dit qu’ils pourraient vouloir s’associer sur la base de l’argent et que la puissance romaine pourrait s’emparer de la puissance juive de l’argent, brisant l’alliance. Mais ce ne sera peut-être pas ainsi. Je sais qu’ils briseront cette alliance, mais je n’en connais pas la raison car ce qu’ils feront ne m’a pas été révélé.
+298 Mais voyez ceci. Que se passerait-il si aujourd’hui la seule chose que nous puissions faire… Si cette déclaration qui dit que nous vivons sur l’argent des impôts qui seront payés dans quarante ans est vraie… vous voyez, nous avons dépensé tout notre or. Nous sommes «fauchés». Nous n’avons plus aucun argent et nous vivons sur notre réputation passée.
+299 C’est ce que l’église fait aujourd’hui; l’église, pas l’Epouse. L’église vit sur une réputation passée qu’elle acquit sous le ministère du temps du Lion. «Nous sommes l’Eglise, nous sommes l’Eglise Mère, c’est nous qui avons commencé…». C’est vrai, vous voyez. Elle vit sur sa réputation.
+300 Les Méthodistes vivent sur leur réputation. Les Baptistes vivent sur leur réputation et les Pentecôtistes vivent sur la leur. Ils crient «Gloire à Dieu!» il y a déjà longtemps, lorsque les saints dansaient dans l’Esprit, ils disaient: «Le Seigneur a fait ceci et cela». C’est du passé! Frères, nous sommes tous devenus maintenant de grands personnages. Oh mes frères! Vous voyez? Tout cela est fondé sur une réputation passée.
+301 Cette nation vit sur la réputation passée de ce qu’étaient ses ancêtres. C’est la raison pour laquelle ils pensent qu’ils seront sauvés. Dieu n’a jamais eu égard à Israël pour ce qu’il avait été par le passé, mais pour ce qu’il était au moment présent.
+302 Maintenant écoutez ce que je pense, ce que je pense qui va se passer (mais cela pourrait ne pas être ainsi). Je crois que le temps viendra où nous serons forcés de faire face à cette échéance. Et quand nous en serons là, au lieu de changer notre monnaie… Qu’est-ce que cela ferait au groupe Philip Morris? Qu’est-ce que cela ferait aux fabricants de whisky? Qu’est-ce que cela ferait aux aciéries? Qu’est-ce que cela ferait à tout le commerce? Cela les ruinerait! Ils seraient «fauchés»! Mais si nous pouvons EMPRUNTER cet argent… Vous voyez comme elle est rusée?
+303 Alors la nation vendra tout à l’église et l’église et l’état seront de nouveau unis ensemble, et voilà où nous en serons. C’est ainsi. Remarquez cela! Bien. Maintenant la suivante.
 
-   29. Si quelqu’un est dans une association organisée par notre gouvernement et qu’il
-      puisse parler selon les voies de son propre coeur, ou dans la vérité des derniers
-      jours, sera-t-il malgré tout classé parmi les prostituées?
-304 Cette organisation a reçu du gouvernement le droit de parler. Cela n’a rien à voir avec son
-coeur. S’il est un vrai croyant et né de l’Esprit de Dieu, on finira bien une fois ou l’autre par l’en
-empêcher. C’est si évident qu’il ne pourra pas ne pas le voir.
-305 Maintenant, vous voyez, je voudrais que vous vous rappeliez ceci, chers amis, c’est que,
-pour autant que je m’en souvienne, Dieu ne fait jamais et n’a jamais fait à aucun moment… Vous
-voyez, Jésus est le diapason, la clé de tout cela parce qu’Il est Dieu, Emmanuel fait chair.
+29. Si quelqu’un est dans une association organisée par notre gouvernement et qu’il puisse parler selon les voies de son propre coeur, ou dans la vérité des derniers jours, sera-t-il malgré tout classé parmi les prostituées?
+304 Cette organisation a reçu du gouvernement le droit de parler. Cela n’a rien à voir avec son coeur. S’il est un vrai croyant et né de l’Esprit de Dieu, on finira bien une fois ou l’autre par l’en empêcher. C’est si évident qu’il ne pourra pas ne pas le voir.
+305 Maintenant, vous voyez, je voudrais que vous vous rappeliez ceci, chers amis, c’est que, pour autant que je m’en souvienne, Dieu ne fait jamais et n’a jamais fait à aucun moment… Vous voyez, Jésus est le diapason, la clé de tout cela parce qu’Il est Dieu, Emmanuel fait chair.
 306 Considérez ce personnage, Jésus. Savez-vous que quand Il vint sur la terre il n’y eut, je
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 29
-pense, pas un dixième du monde qui sut qu’Il était là? Savez-vous que quand ce précurseur vint,
-que toutes ces montagnes furent abaissées et tout le reste, il n’y eut je pense pas un centième de
-la population d'Israël qui s’en soit jamais aperçu? N’est-ce pas étrange? Pourtant il y avait des
-Juifs et d’autres gens dans le monde entier.
-307 Et rappelez-vous que Jésus est venu pour être un témoin en tant que Sauveur du monde.
-Est-ce vrai? Eh bien, il y a eu peuple après peuple et après peuple, et race après race qui n’ont
-même jamais rien su de cela et qui ont passé comme si le monde ne savait rien de tout cela.
-Malgré tout pendant tout ce temps cela avançait dans le monde. Vous voyez?
-308 Pourquoi ne le leur a-t-Il pas fait connaître? Il est venu et ceux qui étaient prédestinés à la
-Vie éternelle, ce furent ceux-là qui Le reçurent. Cela n’aurait servi à rien de dire quoi que ce soit
-aux autres car Il n’aurait pas pu les racheter parce qu’ils n’étaient même pas rachetables.
-Pourquoi, quand tous ces sacrificateurs se tenaient là… Il était venu jusqu’à ce point-là parce qu’il
-avait été prévu que les prédestinés seraient là tout autour. C’est pourquoi il fallait qu’Il leur prêchât
-en tant que groupe.
-309 Mais tous ces grands érudits qui auraient dû Le reconnaître disaient: “Cet homme est
-Béelzébul. Nous ne voulons pas qu’un tel homme règne sur nous. Nous ne voulons pas de cela”.
-Et ainsi de suite. Mais une pauvre prostituée qui avait la Vie en elle, qui était prédestinée à la Vie
-éternelle et qui était accusée d’immoralité par la Parole de Dieu s’approcha, et la première fois que
-la Lumière frappa cette petite semence prédestinée, elle La reconnut très rapidement.
-310 Voyez ce vieux pêcheur qui s’approchait. Jésus était là faisant des signes et des miracles,
-dévoilant à différentes personnes les secrets de leur coeur et se révélant Lui-même. Et, mes
-frères, il y avait là ces Pharisiens qui disaient: “Cet homme est Béelzébul!”.
-311 Ils devaient apporter la réponse à leur assemblée. A tous ceux qui se tenaient là on avait dit:
-“Docteur Jones, voulez-vous aller là-bas écouter cet homme? Il semble qu’Il sache de quoi Il parle.
-Il ne parle pas comme un homme ordinaire”.
-312 “Je ne veux pas l’écouter!”. Ils étaient allés là-bas, mais Dieu ne put jamais les toucher. Ils se
-tenaient là disant: “Regardez. Regardez! Voilà un homme qui vient. C’est un de Ses disciples.
-Voilà encore un homme qui vient. Le nom de ce type est André. Vous vous en souvenez. Oh, vous
-vous rappelez le vieux pêcheur là-bas? Ce sont ses fils. C’est Simon et ses frères, vous voyez, les
-fils du vieux Jonas. Vous voyez, il Lui amène quelqu’un! Qui est-ce? Voyons ce qu’Il va faire
-maintenant. C’est le suivant. Il s’approche et Jésus dit: ton nom est Simon et tu es le fils de Jonas”.
-313 “Cet homme est Béelzébul! Vous voyez, il a quelque esprit sur lui! C’est un personnage
-bizarre. N’écoutez rien de tout cela! Restez éloignés de cela. Je ne veux plus du tout assister à
-aucune de Ses réunions. Aussitôt que c’est terminé nous partirons d’ici. Nous ne viendrons plus
-jamais par ici”.
-314 Pourquoi? C’est ce que pensaient ces hommes, ceux-là mêmes qui auraient dû être des
-disciples. Vous voyez, ceux-là mêmes vers qui Il était venu furent ceux qui Le crucifièrent. Mais il y
-avait aussi cette pauvre prostituée que tout le monde avait rejetée! Ce n’est pas que je veuille
-encourager la prostitution, surtout pas, mais je vous montre simplement cette semence
-prédestinée.
-315 Voyez ce personnage, ce vieux pêcheur. Il ne savait même pas lire. La Bible dit qu’il était
-sans instruction, n’est-ce pas vrai? Non seulement cela, mais il était ignorant. Est-ce vrai ou faux?
-Oh, si seulement nous pouvions devenir ignorants d’une quantité de choses que nous pensons
-connaître! Bien. Vous voyez, il était à la fois ignorant et sans instruction. Mais il s’approcha et vint
-en présence du Seigneur Jésus qui lui dit qui il était. A cet instant même la question fut réglée.
-316 Maintenant observez cet autre personnage qui discutait contre cela: “Regardez, il a cru cela.
-Mais voyez ce qu’il est. Vous savez ce qu’il est! Ce n’est qu’un pêcheur. Il ne connaît même pas
-l’ABC. J’ai acheté du poisson chez lui et il n’a même pas pu me signer un reçu. Voilà le genre de
-monde qui écoute des choses comme cela (merci Seigneur!).Voyez son père. C’était un ignorant
-et il ne l’a même jamais envoyé à l’école”. Mais c’est celui-là que Jésus envoya à l’école, lui
-donnant l’enseignement que Lui voulait qu’il ait.
-317 Là encore je ne veux pas encourager les gens à ne pas aller à l’école, j’espère que vous le
-comprenez, mais il y a là un type et je voudrais que vous le saisissiez. C’est ce genre-là… C’est la
+pense, pas un dixième du monde qui sut qu’Il était là? Savez-vous que quand ce précurseur vint, que toutes ces montagnes furent abaissées et tout le reste, il n’y eut je pense pas un centième de la population d'Israël qui s’en soit jamais aperçu? N’est-ce pas étrange? Pourtant il y avait des Juifs et d’autres gens dans le monde entier.
+307 Et rappelez-vous que Jésus est venu pour être un témoin en tant que Sauveur du monde. Est-ce vrai? Eh bien, il y a eu peuple après peuple et après peuple, et race après race qui n’ont même jamais rien su de cela et qui ont passé comme si le monde ne savait rien de tout cela. Malgré tout pendant tout ce temps cela avançait dans le monde. Vous voyez?
+308 Pourquoi ne le leur a-t-Il pas fait connaître? Il est venu et ceux qui étaient prédestinés à la Vie éternelle, ce furent ceux-là qui Le reçurent. Cela n’aurait servi à rien de dire quoi que ce soit aux autres car Il n’aurait pas pu les racheter parce qu’ils n’étaient même pas rachetables. Pourquoi, quand tous ces sacrificateurs se tenaient là… Il était venu jusqu’à ce point-là parce qu’il avait été prévu que les prédestinés seraient là tout autour. C’est pourquoi il fallait qu’Il leur prêchât en tant que groupe.
+309 Mais tous ces grands érudits qui auraient dû Le reconnaître disaient: “Cet homme est Béelzébul. Nous ne voulons pas qu’un tel homme règne sur nous. Nous ne voulons pas de cela”. Et ainsi de suite. Mais une pauvre prostituée qui avait la Vie en elle, qui était prédestinée à la Vie éternelle et qui était accusée d’immoralité par la Parole de Dieu s’approcha, et la première fois que la Lumière frappa cette petite semence prédestinée, elle La reconnut très rapidement.
+310 Voyez ce vieux pêcheur qui s’approchait. Jésus était là faisant des signes et des miracles, dévoilant à différentes personnes les secrets de leur coeur et se révélant Lui-même. Et, mes frères, il y avait là ces Pharisiens qui disaient: “Cet homme est Béelzébul!”.
+311 Ils devaient apporter la réponse à leur assemblée. A tous ceux qui se tenaient là on avait dit: “Docteur Jones, voulez-vous aller là-bas écouter cet homme? Il semble qu’Il sache de quoi Il parle. Il ne parle pas comme un homme ordinaire”.
+312 “Je ne veux pas l’écouter!”. Ils étaient allés là-bas, mais Dieu ne put jamais les toucher. Ils se tenaient là disant: “Regardez. Regardez! Voilà un homme qui vient. C’est un de Ses disciples. Voilà encore un homme qui vient. Le nom de ce type est André. Vous vous en souvenez. Oh, vous vous rappelez le vieux pêcheur là-bas? Ce sont ses fils. C’est Simon et ses frères, vous voyez, les fils du vieux Jonas. Vous voyez, il Lui amène quelqu’un! Qui est-ce? Voyons ce qu’Il va faire maintenant. C’est le suivant. Il s’approche et Jésus dit: ton nom est Simon et tu es le fils de Jonas”.
+313 “Cet homme est Béelzébul! Vous voyez, il a quelque esprit sur lui! C’est un personnage bizarre. N’écoutez rien de tout cela! Restez éloignés de cela. Je ne veux plus du tout assister à aucune de Ses réunions. Aussitôt que c’est terminé nous partirons d’ici. Nous ne viendrons plus jamais par ici”.
+314 Pourquoi? C’est ce que pensaient ces hommes, ceux-là mêmes qui auraient dû être des disciples. Vous voyez, ceux-là mêmes vers qui Il était venu furent ceux qui Le crucifièrent. Mais il y avait aussi cette pauvre prostituée que tout le monde avait rejetée! Ce n’est pas que je veuille encourager la prostitution, surtout pas, mais je vous montre simplement cette semence prédestinée.
+315 Voyez ce personnage, ce vieux pêcheur. Il ne savait même pas lire. La Bible dit qu’il était sans instruction, n’est-ce pas vrai? Non seulement cela, mais il était ignorant. Est-ce vrai ou faux? Oh, si seulement nous pouvions devenir ignorants d’une quantité de choses que nous pensons connaître! Bien. Vous voyez, il était à la fois ignorant et sans instruction. Mais il s’approcha et vint en présence du Seigneur Jésus qui lui dit qui il était. A cet instant même la question fut réglée.
+316 Maintenant observez cet autre personnage qui discutait contre cela: “Regardez, il a cru cela. Mais voyez ce qu’il est. Vous savez ce qu’il est! Ce n’est qu’un pêcheur. Il ne connaît même pas l’ABC. J’ai acheté du poisson chez lui et il n’a même pas pu me signer un reçu. Voilà le genre de monde qui écoute des choses comme cela (merci Seigneur!).Voyez son père. C’était un ignorant et il ne l’a même jamais envoyé à l’école”. Mais c’est celui-là que Jésus envoya à l’école, lui donnant l’enseignement que Lui voulait qu’il ait.
+317 Là encore je ne veux pas encourager les gens à ne pas aller à l’école, j’espère que vous le comprenez, mais il y a là un type et je voudrais que vous le saisissiez. C’est ce genre-là… C’est la
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX 30
 raison pour laquelle cela leur passe par-dessus la tête.
-318 Savez-vous quoi? Je dirai que pas un tiers de tous les Juifs qui étaient dans le pays ne sut
-jamais quoi que ce soit au sujet de Sa venue. Un cinquième de ce tiers L’écouta et un centième de
-ce cinquième Le reçut. Vous savez combien Il en avait. De tout le lot il en eut onze qui se tinrent à
-la croix. Où était passé le reste? Les soixante-dix s’en étaient allés.
-319 Tant qu’Il guérissait les malades et ne disait rien de Sa doctrine… Il allait simplement de
-l’avant, guérissant les malades et tout le reste… oh, mes frères! C’était l’Esprit de Dieu sur Lui!
-Croyez-vous cela? Quand Il guérissait les malades, tout était merveilleux. “C’est glorieux, Rabbi!
-Dites, frères, vous devriez le faire venir dans votre église! Vous parlez d’une puissance! Ce type
-peut réellement guérir les malades! Vous devriez… Il a un don de guérison”.
-320 Bien sûr que nous aurons alors quelques imitations (les voici qui viennent), parce que
-chaque groupe veut avoir son homme à lui. Et Le voici qui vient.
+318 Savez-vous quoi? Je dirai que pas un tiers de tous les Juifs qui étaient dans le pays ne sut jamais quoi que ce soit au sujet de Sa venue. Un cinquième de ce tiers L’écouta et un centième de ce cinquième Le reçut. Vous savez combien Il en avait. De tout le lot il en eut onze qui se tinrent à la croix. Où était passé le reste? Les soixante-dix s’en étaient allés.
+319 Tant qu’Il guérissait les malades et ne disait rien de Sa doctrine… Il allait simplement de l’avant, guérissant les malades et tout le reste… oh, mes frères! C’était l’Esprit de Dieu sur Lui! Croyez-vous cela? Quand Il guérissait les malades, tout était merveilleux. “C’est glorieux, Rabbi! Dites, frères, vous devriez le faire venir dans votre église! Vous parlez d’une puissance! Ce type peut réellement guérir les malades! Vous devriez… Il a un don de guérison”.
+320 Bien sûr que nous aurons alors quelques imitations (les voici qui viennent), parce que chaque groupe veut avoir son homme à lui. Et Le voici qui vient.
 321 Et voici que tout à coup un jour Il s’assied.
-     — “Oh, c’est sûr, Rabbi, nous irons avec Toi!”.
-322 “Très bien. Asseyez-vous. Allons-y”. Et voilà qu’Il envoie les soixante-dix. Mais un jour, après
-qu’un grand miracle fut fait, voici qu’Il s’assied et commence à leur apporter la Parole. Quand la
-trompette commence à sonner… Bien. Il commence à leur apporter la Parole, la Vérité… Ils dirent
-alors: “Oooh! attends une minute maintenant! Pour ce qui est de cela, je n’en sais rien. C’est
-contraire à la doctrine”. Ils dirent: “Eh bien, je sais que nous avons quitté la synagogue et toutes
-ces choses semblables, mais frères, peut-être que nous nous sommes trompés. Nous ferions
-mieux de retourner là-bas parce que cet homme parle par énigmes. C’est un type bizarre. Je ne
-peux pas comprendre cela”.
-323 Vous voyez? Qu’est-ce que c’était? Cette semence n’était pas prédestinée. C’est vrai. Alors
-tout de suite ils constituèrent un petit groupe pastoral et allèrent parler aux pasteurs, disant: “Eh
-bien, hem! nous ferions mieux de revenir en arrière et de retourner dans l’organisation et de
-reprendre nos cartes de membres, parce que ce type… Qui peut comprendre un homme comme
-cela? Ici Il dit ceci, et là Il dit cela”. Oh, ces gens ne comprenaient pas les choses de cette
-manière.
-324 Il parlait en énigmes à certains, mais pas à d’autres. Alors ces gens s’en allaient. Puis Il se
-tourna et regarda ces douze qui se tenaient là et dit: “Ne voulez-vous pas aussi vous en aller?”.
-325 Maintenant faites attention à ceci. Pierre dit: “Tu sais quoi? J’allais tout le temps là-bas
-autrefois. Mais maintenant où au monde irais-je? Où irais-je? Où pourrais-je aller? Je ne peux pas
-retourner à cette poubelle dans laquelle sont entassés toutes sortes de détritus du monde! Où
-irais-je? Je ne peux tout simplement pas faire cela!”.
-326 Jésus dit: “Très bien! Alors viens avec moi”. Voilà. Voyez-vous ce qui s’est passé? Douze
-sur environ deux millions et demi! Et de tous ces milliards de gens, le Sauveur du monde… Restez
-humbles! Restez simplement humbles! Faites attention. Il y avait tous ces pharisiens, mais cette
-pauvre prostituée vint et dit: “Dis donc, Tu dois être un prophète! Or nous savons que le Messie
-doit venir, et quand Il viendra, Il fera cela”.
-     Jésus lui dit: “C’est moi”.
-327 Elle répondit: “C’est cela!” et s’en alla. Et si vous aviez essayé de l’arrêter, vous n’auriez pas
-pu.
-   30. Frère Branham, salutations au Nom du Seigneur Jésus. Veuillez s’il vous plaît
-      expliquer dans Matthieu 22.11 qui est cet homme qui n’avait pas le vêtement de
-      noce. Je sais que cet homme ne pouvait pas entrer au Ciel sans ce vêtement de
-      noce. Je sais que c’était un invité et non pas l’Epouse.
-328 Oui, c’est vrai. Oui, il s’est simplement glissé à l’intérieur, vous voyez. Maintenant voyez ceci.
-Je pourrais faire toute une prédication là-dessus mais il me reste dix minutes pour terminer et prier
-pour les malades, et il me reste encore la moitié des questions. Il va falloir que je me dépêche
-vraiment après celle-là.
-329 Voici ce qui s’est passé. Si vous connaissez les coutumes orientales, vous savez que quand
-l’époux distribue des invitations pour son mariage, il n’en donne qu’un certain nombre. Et un portier
+— “Oh, c’est sûr, Rabbi, nous irons avec Toi!”.
+322 “Très bien. Asseyez-vous. Allons-y”. Et voilà qu’Il envoie les soixante-dix. Mais un jour, après qu’un grand miracle fut fait, voici qu’Il s’assied et commence à leur apporter la Parole. Quand la trompette commence à sonner… Bien. Il commence à leur apporter la Parole, la Vérité… Ils dirent alors: “Oooh! attends une minute maintenant! Pour ce qui est de cela, je n’en sais rien. C’est contraire à la doctrine”. Ils dirent: “Eh bien, je sais que nous avons quitté la synagogue et toutes ces choses semblables, mais frères, peut-être que nous nous sommes trompés. Nous ferions mieux de retourner là-bas parce que cet homme parle par énigmes. C’est un type bizarre. Je ne peux pas comprendre cela”.
+323 Vous voyez? Qu’est-ce que c’était? Cette semence n’était pas prédestinée. C’est vrai. Alors tout de suite ils constituèrent un petit groupe pastoral et allèrent parler aux pasteurs, disant: “Eh bien, hem! nous ferions mieux de revenir en arrière et de retourner dans l’organisation et de reprendre nos cartes de membres, parce que ce type… Qui peut comprendre un homme comme cela? Ici Il dit ceci, et là Il dit cela”. Oh, ces gens ne comprenaient pas les choses de cette manière.
+324 Il parlait en énigmes à certains, mais pas à d’autres. Alors ces gens s’en allaient. Puis Il se tourna et regarda ces douze qui se tenaient là et dit: “Ne voulez-vous pas aussi vous en aller?”.
+325 Maintenant faites attention à ceci. Pierre dit: “Tu sais quoi? J’allais tout le temps là-bas autrefois. Mais maintenant où au monde irais-je? Où irais-je? Où pourrais-je aller? Je ne peux pas retourner à cette poubelle dans laquelle sont entassés toutes sortes de détritus du monde! Où irais-je? Je ne peux tout simplement pas faire cela!”.
+326 Jésus dit: “Très bien! Alors viens avec moi”. Voilà. Voyez-vous ce qui s’est passé? Douze sur environ deux millions et demi! Et de tous ces milliards de gens, le Sauveur du monde… Restez humbles! Restez simplement humbles! Faites attention. Il y avait tous ces pharisiens, mais cette pauvre prostituée vint et dit: “Dis donc, Tu dois être un prophète! Or nous savons que le Messie doit venir, et quand Il viendra, Il fera cela”.
+> Jésus lui dit: “C’est moi”.
+327 Elle répondit: “C’est cela!” et s’en alla. Et si vous aviez essayé de l’arrêter, vous n’auriez pas pu.
 
-        http://www.cmpp.ch
+30. Frère Branham, salutations au Nom du Seigneur Jésus. Veuillez s’il vous plaît expliquer dans Matthieu 22.11 qui est cet homme qui n’avait pas le vêtement de noce. Je sais que cet homme ne pouvait pas entrer au Ciel sans ce vêtement de noce. Je sais que c’était un invité et non pas l’Epouse.
+328 Oui, c’est vrai. Oui, il s’est simplement glissé à l’intérieur, vous voyez. Maintenant voyez ceci. Je pourrais faire toute une prédication là-dessus mais il me reste dix minutes pour terminer et prier pour les malades, et il me reste encore la moitié des questions. Il va falloir que je me dépêche vraiment après celle-là.
+329 Voici ce qui s’est passé. Si vous connaissez les coutumes orientales, vous savez que quand l’époux distribue des invitations pour son mariage, il n’en donne qu’un certain nombre. Et un portier
 
-    LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX        31
+http://www.cmpp.ch
+
+LA REVELATION DES SEPT SCEAUX — QUESTIONS ET REPONSES SUR LES SCEAUX        31
 se tient à la porte pour donner une robe à chacun de ceux qui ont reçu une invitation, qu’il soit
 pauvre ou riche, quel qu’il soit. Tous doivent porter ce vêtement de noce.
 330 Quand l’invité se tient à la porte, cette robe lui est mise et couvre tout ce que son extérieur
@@ -2086,9 +1500,6 @@ confirmera cela si vous le croyez. Maintenant, que chacun prie. Bien, inclinons 
 412 Maintenant, Seigneur Jésus, tandis que ces gens viennent, puisse la puissance du Dieu
 Tout-Puissant vivifier leur foi immédiatement pendant qu’ils passent, au Nom de Jésus.
      [Frère Branham prie pour les malades — N.d.R.]
-
-
-
 
 
 

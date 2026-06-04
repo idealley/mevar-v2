@@ -1,6 +1,76 @@
-L’ONCTION
-DU
-TEMPS DE LA FIN
+---
+source: "cmpp"
+sermon_id: "onction_temps_fin_A4"
+title: "L'Onction du Temps de la Fin"
+preacher: "Alexis Barilier"
+summary: "Cette étude biblique examine l'onction promise dans Ésaïe 61, qui repose d'abord sur Jésus-Christ puis sur les membres de Son Corps au temps de la fin. L'auteur insiste sur la nécessité d'une communion personnelle avec le Dieu vivant, au-delà des credo religieux, et sur le rôle du message de William Branham comme précurseur pour préparer les croyants à recevoir le baptême du Saint-Esprit par Jésus seul."
+tags:
+  - "onction"
+  - "temps de la fin"
+  - "Saint-Esprit"
+  - "Ésaïe 61"
+  - "William Branham"
+  - "baptême du Saint-Esprit"
+persons:
+  - "Jésus-Christ"
+  - "Jean-Baptiste"
+  - "William Branham"
+  - "Ésaïe"
+  - "Moïse"
+places:
+  - "Jérusalem"
+  - "Golgotha"
+  - "Sion"
+themes:
+  - "onction du Saint-Esprit"
+  - "préparation de l'Épouse"
+  - "retour à la foi primitive"
+  - "communion avec Dieu"
+  - "reconstruction spirituelle"
+pdf_url: "http://cmpp.ch/onction_temps_fin_A4.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Jean 5"
+  - "Apocalypse 22"
+  - "Matthieu 3"
+  - "Ésaïe 60"
+  - "Ésaïe 61"
+---
+L'ONCTION DU TEMPS DE LA FIN
+
+"L'Esprit du Seigneur, l'Eternel, est sur moi, parce que l'Eternel m'a oint pour apporter de bonnes nouvelles AUX DEBONNAIRES: Il m'a envoyé pour panser ceux qui ont le coeur brisé, pour proclamer aux captifs la liberté, et aux prisonniers l'ouverture de la prison, pour proclamer l'année de la faveur de l'Eternel et le jour de la vengeance de notre Dieu, pour consoler tous ceux qui mènent deuil, pour mettre et donner à ceux de Sion qui mènent deuil l'ornement au lieu de la cendre, l'huile de joie au lieu du deuil, un vêtement de louange au lieu d'un esprit abattu, afin qu'ils soient appelés TEREBINTHES de justice, LE PLANT de l'Eternel pour qu'il soit glorifié".
+
+Ésaïe 61.1-3.
+
+Chers frères et soeurs en Jésus-Christ, en considérant ces merveilleuses Paroles de l'Eternel, le Dieu Vivant, le Créateur de toutes choses, ne manquons pas de voir l'importance de l'onction qu'Il annonce, car celle-ci ne concerne pas seulement la personne du "premier-né" de la nouvelle Création, notre Seigneur Jésus-Christ, à l'occasion de Son ministère exercé sur la terre dans un corps de chair semblable au nôtre. Il est véritablement la première personne humaine dans laquelle cette plénitude de l'Esprit a été manifestée, et nous en sommes infiniment reconnaissant à notre Père céleste. Mais sachons bien que cette onction promise est appelée à venir sur tous les membres de Son Corps spirituel, particulièrement au temps de la fin, avant que l'Epouse de Christ ne puisse être enlevée pour aller à la rencontre de Son Epoux céleste, et après que le témoignage du plein salut des croyants par la foi en Jésus-Christ ait été rendu une dernière fois dans le monde entier avec puissance au travers des croyants constituant le Corps de Christ. "Et cet évangile du royaume sera prêché dans la terre habitée tout entière, en témoignage à toutes les nations; et alors viendra la fin" (Mat. 24.14).
+
+Il est vrai que Jésus est le Fils Unique, le premier homme dans la foi sur lequel cette onction pouvait venir et y demeurer selon la volonté de Dieu jusqu'à l'achèvement de Son ministère. Cependant nous devons tenir compte de tout ce qui est promis dans cette Parole de Dieu, et qui concerne l'oeuvre que Dieu est venu accomplir par cette onction divine. Ainsi lorsque nous considérons toutes les paroles de ce passage biblique, nous pouvons discerner que cette même onction déjà réalisée et manifestée en Jésus, est également destinée à reposer sur "Ses frères", c'est-à-dire sur tous ceux que Jésus-Christ a engendrés à la Vie éternelle par le sacrifice de Sa précieuse Vie à Golgotha. Ceci afin que le même comportement, clairement manifesté dans le pays que Dieu a donné à Son peuple d'Israël, et qui a été réalisé par Jésus le premier-né de cette nouvelle création, soit aussi vu dans le monde entier au travers de "Ses frères", et plus particulièrement au travers de la vie terrestre et naturelle des croyants qu'Il a rachetés pour former véritablement Son Corps spirituel en ce temps de la fin. Cela devrait donc être un fait incontestable pour tout croyant en Jésus-Christ qu'en ce temps de la fin tous les membres de Son Corps sont appelés à avoir part au même comportement spirituel de leur Seigneur, du moins lorsque la même onction venue autrefois sur la Tête du Corps peut être manifestée de nouveau au travers de chacun des membres qui forment le Corps spirituel de Jésus. Ainsi il est tout à fait normal qu'un croyant biblique, véritablement disciple de Jésus-Christ, aspire à cela avec force et constance. Et il se trouve que même dès le commencement de sa marche dans la foi le croyant aspire dans ses prières à recevoir cette onction divine en lui-même, afin que la nature et les oeuvres du Fils de Dieu, son Seigneur et Maître, puissent aussi être vues dans son propre comportement par ceux qui l'entourent.
+
+C'est pourquoi nous devions aussi faire ressortir le fait que ceux qui vont obtenir cette onction ont manifesté dès le début de leur vie de foi un comportement spirituel consacré à la prière et à la recherche du Dieu Vivant, l'Eternel, le Dieu de la Bible, et qu'ils persévèrent à rechercher l'accomplissement des desseins de leur Père céleste. Et cela parce qu'ils sont parvenus à l'assurance de ne trouver le secours qui amène le changement dans leur vie de pécheur, qu'auprès de l'Eternel, le Dieu de la Bible, et non dans les credo et les ordonnances des religions fabriquées par les hommes. Ce comportement spirituel d'un croyant est décrit dans Ésaïe 61.3, lorsqu'il est question des personnes qui sont plus particulièrement touchées dans leur coeur par l'état spirituel déplorable des gens religieux au temps de la fin, et qu'ils peuvent constater dans les diverses communautés dans lesquelles ils se trouvent, au point qu'ils sont poussés à intercéder pour qu'un changement radical ait lieu. C'est aussi dans ce verset qu'était annoncée la tâche qu'allait accomplir Celui sur qui devait venir en premier cette onction divine. C'est lorsqu'il est dit que c'est: "… pour mettre et donner à ceux de Sion qui mènent deuil l'ornement au lieu de la cendre … afin qu'ils soient appelés térébinthes de justice", et qu'ils soient: "le plant de l'Eternel pour qu'il soit glorifié".
+
+Par ces paroles nous sont aussi décrites les personnes destinées à bénéficier de cette onction et à devenir des térébinthes de justice, et le plant de l'Eternel pour qu'il soit glorifié. En effet il ne peut vraiment s'agir que des croyants qui prennent conscience, par la révélation de la Parole de Dieu, de leurs manquements envers leur Père céleste. Ils en sont affligés, s'en repentent et intercèdent pour être délivrés de ce mauvais état spirituel, intercédant pour que le Seigneur vienne les visiter, eux tous qui se réclament de Jésus-Christ, ainsi que tous ceux qui forment Son peuple, afin que tous soient purifiés définitivement. Ce sont seulement ceux-là qui vont être transformés et qui vont devenir ce que l'Eternel, le Dieu de la Bible désire qu'ils soient, c'est-à-dire "… le plant de l'Eternel pour qu'Il soit glorifié". Oui, c'est seulement après avoir reçu cette onction qu'ils deviennent entre les mains de Dieu les instruments que l'Eternel peut employer pour l'accomplissement de Ses desseins; desseins qu'Il a d'ailleurs fait connaître tout au long de la Bible.
+
+Ainsi il est très important que les disciples de Jésus-Christ du temps de la fin arrivent à ne glorifier dans leur vie qu'uniquement le seul vrai Dieu révélé dans la chair, JESUS, la Parole faite chair. C'est Lui seul qui pouvait mourir pour expier le péché qui a apporté la souffrance et la mort dans le monde, c'est Lui seul qui a écrasé la tête du serpent et mit fin à son règne de la méchanceté qui produisait la mort, c'est Lui seul qui est ressuscité et qui donne une vie nouvelle au disciple de Jésus-Christ et qui baptise le croyant de Son Esprit-Saint, afin que le Seigneur Jésus prolonge Ses jours au travers de ce croyant et qu'Il puisse encore accomplir par ce disciple les mêmes oeuvres. Il ne s'agit absolument pas de mettre en avant un prophète ou un autre homme de Dieu, de glorifier un certain credo ou un Message particulier de la Bible, mais bien d'apporter dans le milieu où vit le croyant la présence de la seule personne ayant vaincu le péché d'incrédulité à l'égard de la Parole de notre Père céleste, et qui nous donne à notre tour la capacité de vaincre et de manifester la résurrection et la Vie éternelle par la foi en Jésus. Le Seigneur ressuscité veut agir de nos jours au travers des membres de Son Corps, et c'est lorsque Jésus vit réellement en eux par le Saint-Esprit, que leur vie de foi et d'obéissance à cette Parole de leur Père, de même que leur comportement de croyants accomplissant avec joie la volonté de leur merveilleux Père céleste, c'est alors que par ces croyants le témoignage de la victoire de Jésus sur tous les péchés est porté dans le monde. En effet, pour être une nouvelle création et oeuvrer dans le Royaume de Dieu à Sa gloire, il ne suffit pas simplement de revendiquer avoir reçu «le Message du temps de la fin», ou de proclamer faire partie «du réveil», mais il s'agit bien de vivre et de mettre en pratique le Message de la Parole de Dieu révélée en ce temps. Sans la présence du Seigneur Jésus en nous par Son Esprit nous ne pourrions pas accomplir ce dessein de notre Père céleste.
+
+Et pour qu'il en soit ainsi, ce qui est indispensable est une communion personnelle réelle du croyant avec le Dieu Vivant, le Dieu de toute la Bible, et une marche de disciple avec Jésus. C'est par Lui que le disciple est né de nouveau, par son Seigneur ressuscité, au point que cette vie de communion entre le Seigneur ressuscité et le croyant devienne visible aux yeux de tous par l'obéissance que ce croyant manifeste à l'égard de toute la Parole de Dieu ainsi que par les oeuvres mêmes qu'il accomplit à l'exemple du Seigneur Jésus. C'est ainsi que la réalité d'une foi véritable en la Parole de Dieu révélée en ces temps de la fin doit être rendue manifeste, afin que beaucoup de personnes puissent remarquer la présence de cette Parole au travers du comportement des disciples de Jésus-Christ. C'est véritablement par ce témoignage vécu que la Parole révélée peut être correctement annoncée dans le monde, et qu'Elle peut devenir manifeste pour ceux qui nous entourent. Et n'oublions pas que ce témoignage est plus particulièrement indispensable aux personnes qui sont conscientes de leur besoin et qui ont cherché jusque là en vain dans plusieurs religions à connaître le Dieu Vivant, le Dieu qui a parlé et qui a inspiré la Bible, car malgré les apparences il existe encore des personnes dans ce monde qui cherchent de nos jours la Vérité. Ce sont ces personnes que nous devons toucher avec le témoignage de la victoire parfaite de Jésus, afin de répondre à leur aspiration à la Vie éternelle.
+
+Il est aussi nécessaire d'être bien conscients que le monde entier se trouve dans le besoin absolu d'entendre et de voir, comme au commencement des âges de l'Eglise, l'Evangile véritable du Fils de Dieu manifesté au travers des membres de Son Corps, afin que ceux qui cherchent sincèrement à connaître le Dieu Véritable découvrent ce Dieu-là dans le comportement exemplaire des disciples de Jésus vivant selon Sa Parole. C'est alors que la personne qui cherche, ayant découvert la vérité du salut en Jésus-Christ par ce témoignage vivant, peut être également changée par la foi en l'accomplissement des promesses que la Bible offre à tous, et par la révélation du Dieu véritable en Jésus-Christ. C'est de la communion avec ce Dieu-là, le Dieu véritable révélé en l'homme Jésus-Christ, que tout être vivant a besoin dans le monde entier. Le temps des credo des dénominations religieuses est terminé. Aucune religion n'a jamais pu sauver et faire naître de nouveau une seule personne entrée dans ses rangs. Par contre nous avons les preuves et l'absolue certitude que la foi en la personne de Jésus ressuscité, vivant en nous par le Saint-Esprit, ainsi que la marche en Sa communion, apporte à tout disciple de Jésus la Vie éternelle et un changement radical dans son comportement. En vérité, en vérité: "Nous sommes dans le Véritable, savoir dans Son Fils Jésus-Christ: Lui est le Dieu véritable et la Vie éternelle" (1 Jean 5.20). "Celui qui a le Fils a la vie, celui qui n'a pas le Fils de Dieu n'a pas la vie" (1 Jean 5.12). C'est dans une foi absolue en ce Jésus, et dans une communion et une relation continuelle avec le Dieu Vivant en Lui, alors même que nous sommes encore dans ce corps de chair tel que chacun de nous l'a reçu de Dieu, que la victoire absolue sur Satan et dans tous les domaines de la vie, doit être manifestée avec les croyants en ce temps de la fin. Cela au Nom du Seigneur Jésus-Christ. Amen!
+
+Ainsi il nous est permis de comprendre que ceux qui mènent deuil en Sion, sont les croyants qui se laissent révéler par l'Esprit de Christ ce qui n'est pas conforme à l'enseignement des Ecritures dans leur vie. Ils réalisent que cela vient d'eux-mêmes, de leur propre incrédulité à l'égard de la Parole de Dieu qui leur a été donnée pour connaître l'oeuvre parfaite de Jésus-Christ, et ils réalisent que c'est en eux que cela doit changer. Quand cette révélation touche leur coeur, ils sont profondément affligés de voir leurs infidélités à l'égard des Paroles et de l'oeuvre de leur Père céleste en Jésus-Christ et c'est ce qui les pousse à chercher auprès de leur Créateur le pardon, afin qu'Il leur vienne en aide en changeant les choses en eux. Ils sont également conduits à intercéder pour les croyants dans la même situation qu'eux-mêmes, comme aussi pour ceux dans toutes les autres communautés, de sorte que partout les croyants soient réveillés de l'assoupissement et du sommeil dans lequel ils sont plongés, souvent sans même en être conscients. Ceux qui mènent deuil véritablement dans le Corps de Christ, sont également ceux qui jeûnent, qui prient et qui intercèdent pour eux-mêmes, comme ils le font aussi en faveur de leurs compagnons de route. Et en fin de compte, ceux qui combattent pour que l'oeuvre de Jésus soit glorifiée en eux et en tous croyants, sont exaucés par leur Père céleste et bénéficient de l'onction promise dans les Ecritures.
+
+On peut aussi discerner au travers de cette Ecriture que le croyant conduit par l'Esprit de Dieu à mener deuil à cause de l'état déplorable de l'Eglise, est également celui qui est amené à rechercher une communion personnelle plus profonde et plus réelle avec Celui sur qui l'Esprit du Seigneur l'Eternel est venu. C'est auprès de Lui, Jésus, que se trouve la bénédiction, parce que c'est Lui seul qui pouvait faire don, en tant que sacrifice, de la seule vie humaine agréable à Dieu, par laquelle pouvait être racheté tout homme de la mort vers laquelle nous avancions tous inexorablement. Ainsi Il est le seul homme ayant souffert la mort selon la volonté de Dieu et qui en soit ressuscité victorieusement. De plus, comme le dit l'Ecriture, c'est Lui seul qui a le pouvoir de baptiser un croyant de l'Esprit Saint. Ne nous imaginons pas que c'est en faisant partie d'une certaine communauté, aussi sanctifiés puissent être ses membres, ou parce que nous avons reconnu le prophète envoyé pour cet âge, ou parce que nous proclamons avoir accepté le Message de Dieu, que nous allons obtenir ce véritable baptême de l'Esprit.
+
+Non, mais ce baptême promis arrive exactement comme Jean-Baptiste l'a dit clairement dans Matthieu 3.11 à ceux qui recherchaient cette bénédiction de Dieu. En effet, Jean-Baptiste était bien conscient que le message qu'il portait était un appel à la repentance, pour préparer le croyant à rencontrer et recevoir Celui qui venait après lui. Car c'est bien avec le Seigneur Jésus Lui-même, que le croyant devait avoir communion et apprendre à vivre avec Lui chaque jour. C'est-à-dire avec Celui qui est le seul Sauveur, et le seul qui peut lui donner la Vie éternelle et le baptiser du Saint-Esprit. L'histoire se répète et la même chose arrive aujourd'hui avec le Message apporté par le prophète de Dieu, William Branham. Il en est tout comme autrefois avec la venue de Jean-Baptiste qui portait un Message de l'Eternel, mais qui ne faisait que précéder et préparer la venue de Celui qui baptise du Saint-Esprit, ainsi le Message de la Parole révélée, apporté par l'homme de Dieu William Branham, a été envoyé au monde entier pour nous amener à chercher à avoir une véritable rencontre avec Jésus-Christ, le ressuscité, le Dieu Véritable, car c'est encore et toujours le seul qui baptise du Saint-Esprit le croyant. C'était la raison profonde qui poussait Jean-Baptiste à exhorter ceux qui l'écoutaient à regarder à Celui qui venait après lui, c'est-à-dire à Jésus-Christ. Jean-Baptiste disait à tous clairement: "Moi, je baptise d'eau pour la repentance; mais celui qui vient après moi est plus puissant que moi… Lui vous baptisera de l'Esprit Saint et de feu…". Cette déclaration est formelle et demeure valable aujourd'hui même: Lui vous baptisera de l'Esprit-Saint et de feu. Jean-Baptiste ne voulait pas que les croyants s'attachent à sa personne, parce qu'il connaissait très bien quelle était sa condition, mais il savait que par le Message qu'il portait les croyants allaient se préparer à recevoir le Messie promis. Il en est de même aujourd'hui, et c'est pourquoi nous devons écouter le Message que Dieu nous a envoyé au travers du ministère de notre frère Branham, afin que Jésus-Christ puisse accomplir tous les desseins de Dieu au travers des membres de Son Corps. Personne d'autre ne doit donc être recherché pour recevoir le baptême du Saint-Esprit, sinon Jésus-Christ, le ressuscité, le vainqueur du péché, du juste jugement de Dieu, et de la mort, Celui à qui nous appartenons pour l'éternité. Mais il ne s'agit pas de négliger ou de mépriser l'homme de Dieu envoyé avec un Message pour préparer le croyant à recevoir comme absolu le Seigneur Jésus-Christ. Celui qui méprise ou n'écoute pas le précurseur, traitera pareillement le Seigneur Jésus quand Il voudra se révéler à lui. Et sans doute, selon la réaction que cette personne aura manifestée à l'égard du Message apporté par le précurseur, le Seigneur ne le visitera même plus. Mais si nous obéissons au Message de Dieu pour notre génération, nous rechercherons par-dessus toute autre chose à croître dans la communion de notre Seigneur Jésus-Christ.
+
+Je le répète encore une fois, ce baptême du Saint-Esprit ne vient pas de la communion qu'on peut avoir avec un certain homme de Dieu, ou de l'appartenance à une certaine doctrine ou à un certain groupe religieux. L'unique chose à rechercher est la communion et l'appartenance à une seule personne, au Seigneur ressuscité, Jésus-Christ. Pour que le croyant reçoive ce que Dieu veut lui donner, il s'agit de vivre et de marcher dans la foi avec le Fils qu'Il nous a donné, conformément à la Parole de Dieu venue à nous en ce temps de la fin et qui nous révèle ce Fils. Nous avions déjà été éclairés par les écrits de Moïse, ainsi que par ceux de tous les autres prophètes, mais Jésus est le seul homme qui a souffert la mort pour nous, le seul à l'avoir vaincue en expiant à la croix de Golgotha nos péchés et en les faisant disparaître pour toujours. Ceci afin d'accomplir la volonté de Dieu qui a toujours été de nous rétablir dans Sa communion. Il est le seul vainqueur du péché, c'est-à-dire de l'incrédulité à l'égard des paroles de Dieu, car c'est cette incrédulité envers ce que Dieu avait dit aux hommes, qui les avait tous conduits à la mort. Il est le seul à avoir annulé par Sa victoire ce qui avait séparé l'homme de Son Père céleste. Et parce qu'Il est ressuscité victorieusement Il est donc également le seul à pouvoir reconstituer véritablement les liens familiaux, les liens de compréhension et d'amour entre le Père céleste et les fils qu'Il s'est acquis au travers de l'oeuvre victorieuse de Jésus-Christ à Golgotha. Amen! Cette onction promise dans Ésaïe 61 est l'assurance pour le disciple de Jésus-Christ de parvenir à être appelé "… térébinthe de justice, le plant de l'Eternel pour qu'il soit glorifié" (Ésaïe 61.3) car c'est Lui, Jésus, qui a manifesté dans un corps semblable au nôtre cette nature de Fils de Dieu, et c'est en demeurant en Lui que cette nature peut être encore manifestée en nous. Que notre Dieu et Père soit loué et béni pour cela!
+
+C'est une chose absolument sûre qu'au commencement de l'Eglise de Jésus-Christ, les croyants devenus disciples du Seigneur ressuscité sont entrés dans la même onction qui reposait sur Jésus, la Tête du Corps de Christ, afin de former une seule famille de fils de Dieu. C'est uniquement Satan, l'adversaire de Dieu, qui, par le moyen de l'incrédulité de l'homme à l'égard de la Parole de son Père et de sa désobéissance, a amené la division dans cette communion parfaite entre le Père et tous les fils que Dieu a engendrés en Jésus. Par les divers credo et interprétations de la Parole de Dieu, par la constitution de groupes de foi et de religions, ayant chacun ses propres frontières doctrinales, Satan a divisé le Corps de Christ, et il continue de le faire partout où la révélation de la Parole est parvenue en ce temps de la fin. Mais par la même onction du Saint-Esprit venue sur la Tête du Corps, tous ceux qui sont devenus personnellement disciples de Jésus, après qu'ils aient reçu cette même onction, peuvent aussi véritablement redevenir un avec leur Seigneur, comme aussi les uns avec les autres, dans la foi et la pratique de toute la Parole de la Bible. Ainsi, inspirés et animés par la même Parole et le même Esprit de Dieu, et conformément aux promesses de la Bible, ils peuvent à nouveau accomplir les mêmes oeuvres que Jésus a faites et porter les mêmes fruits. Esaïe, au chapitre 60.21, prophétisait déjà cette unité de pensée et d'action du peuple de la Nouvelle Alliance avec sa Tête, sur Laquelle la venue de l'Esprit allait être annoncée au chapitre suivant (chap. 61).
+
+Mais c'est là, dans Ésaïe 60.21, que le Seigneur dit: "Et ton peuple, — eux tous, seront justes; ils posséderont le pays pour toujours, rejeton que j'ai planté, l'oeuvre de mes mains pour me glorifier". Et le Seigneur ajoute au verset 22: "Moi, l'Eternel, je hâterai cela en son temps". Que notre Dieu et Père soit loué et remercié pour cette Parole, car Il n'oublie aucune de Ses promesses et Il connaît le temps propice pour l'exécuter fidèlement! Amen! Comme nous le savons généralement, le Seigneur notre Dieu, en Jésus, Se présente en disant dans Apocalypse 22.13: "Moi, je suis l'alpha et l'oméga, le premier et le dernier, le commencement et la fin". Si bien que cette même onction de l'Esprit, bien présente avec les croyants du premier Age de l'Eglise, pouvait être attendue à nouveau sur le peuple de Dieu pour ce dernier Age de l'Eglise, cet âge du retour à la foi primitive. Ainsi, nous disciples de Jésus-Christ dans ces derniers temps, nous pouvons, et nous avons même l'obligation, de rechercher à recevoir une telle effusion de l'Esprit de Christ, pour qu'elle vienne sur tous les disciples de Jésus comme elle l'était au commencement. Et il est certain qu'elle viendra également sur tous ceux qui seront ajoutés au Corps de Christ jusqu'à ce que soit entré le dernier des membres de ce Corps. L'Eternel promet de hâter cela en son temps. Il y a effectivement, avant l'enlèvement, un temps de rassemblement dans un même Esprit de tous les véritables membres du Corps de Christ, parce que Christ a aimé l'Assemblée de Ses disciples et s'est livré Lui-même pour Elle, afin qu'Il la sanctifiât, en la purifiant par le lavage d'eau par la Parole. C'est alors que peut s'accomplir Ephésiens 5.27: "Afin que lui se présentât l'assemblée à lui-même, glorieuse, n'ayant ni tache, ni ride, ni rien de semblable, mais afin qu'elle fut sainte et irréprochable".
+
+Lorsque l'Esprit du Seigneur l'Eternel vient de la manière promise dans Ésaïe 61, les bonnes nouvelles qu'apporte celui sur qui est venue cette onction sont, comme le dit Darby, pour les débonnaires, c'est-à-dire pour ceux qui ont de bonnes dispositions, qui sont assez humbles de coeur pour être prêts à recevoir ce que leur envoie leur Père céleste. C'est en effet en ceux-là que le Seigneur peut rendre vivante l'onction de Son Esprit, car ce n'est qu'avec les humbles de coeur que le Seigneur peut user de Sa grâce. L'attitude du Seigneur à l'égard des orgueilleux ne peut jamais être autre que la résistance face à leur comportement orgueilleux, à moins que la repentance ne touche leur coeur et que leurs nouvelles dispositions d'esprit ne changent tout leur comportement. Cette Parole d'Ésaïe 61 ne peut s'accomplir qu'avec ceux qui ont trouvé grâce auprès de leur Père céleste et qui se tiennent humblement à Son service. C'est pourquoi il nous est dit que celui sur qui vient reposer cette onction est un envoyé, et du fait qu'il est envoyé il apporte le témoignage du Seigneur Jésus partout autour de lui. Il vient donc pour exercer cette charge de la part du Père céleste, et il a besoin d'un grand secours, d'une grande puissance spirituelle reçue de Lui, pour exercer sa charge. La première chose qu'il est appelé à exercer, c'est de: "… panser ceux qui ont le coeur brisé", puis de "… proclamer aux captifs la liberté, et aux prisonniers l'ouverture de la prison…", il doit encore "… proclamer l'année de la faveur de l'Eternel et le jour de la vengeance de notre Dieu…". De même que par sa présence il est là "pour consoler tous ceux qui mènent deuil, pour mettre et donner à ceux de Sion qui mènent deuil l'ornement au lieu de la cendre, l'huile de joie au lieu du deuil…". Il est encore appelé à donner "… un vêtement de louange au lieu d'un esprit abattu, afin qu'ils soient appelés térébinthes de justice, le plant de l'Eternel pour qu'il soit glorifié". Ce sont donc là toutes les oeuvres accomplies par Jésus, sur qui est venue cette onction, et ces mêmes oeuvres doivent aussi s'accomplir avec les membres de Son Corps sur lesquels cette onction est appelée à reposer également en ce temps de la fin. Mais comprenons bien que la venue de cette même onction sur les membres de Son Corps est indispensable à son accomplissement par les disciples de Jésus de ce temps. Prions pour cela, car c'est bien ce que nous pouvons nous attendre de l'Eglise de Jésus-Christ lorsque se réalisera le parfait accomplissement de la Parole d'Ephésiens 5.27: "Afin que Lui se présentât l'Assemblée à Lui-même, glorieuse, n'ayant ni tache, ni ride, ni rien de semblable, mais afin qu'elle fut sainte et irréprochable".
+
+Cette venue de l'onction de l'Esprit du Seigneur sur les croyants est accordée par le Seigneur en vue de l'accomplissement d'une tâche particulière, laquelle était déjà annoncée à l'avance tout au long de la Bible, et qui s'accomplit par Son Esprit selon les promesses de la Parole. Dans ce cas particulier c'est plus particulièrement au verset 4 d'Ésaïe 61 qu'est déclaré la tâche qu'accomplira celui qui est revêtu de cette onction. En effet, "ce plant de l'Eternel" oeuvrera à bâtir, à reconstruire ce qui était en ruines depuis longtemps. C'est bien là ce qui est annoncé au sujet de ceux qui vont bénéficier de cette onction: "Et… (Après avoir reçu cette onction)… ils bâtiront ce qui était ruiné dès longtemps, ils relèveront les désolations anciennes, et ils renouvelleront les villes ruinées, les lieux désolés de génération en génération". Et nous croyons que c'est précisément cette oeuvre de reconstruction qui intéresse tout croyant sincère en Jésus-Christ, c'est que chaque membre du Corps de Christ retrouve la même plénitude de la vie de Christ en lui, telle qu'elle se manifestait autrefois dans l'Assemblée des disciples de Jésus-Christ. En considération de cela nous sommes reconnaissants à notre Père céleste pour toutes les promesses qu'Il a faites dans la Bible pour ce temps de la fin, et nous nous attendons maintenant à la réédification de cette Assemblée telle que le coeur de notre Epoux céleste la désire. Nous prions donc d'autant plus pour le rassemblement dans une même foi et dans un même esprit de tous les disciples de Jésus-Christ, tel que cela a déjà été vu au commencement à Jérusalem. Mais certainement que ce ne sera pas du tout l'oeuvre d'un homme ayant un ministère spécial (Celui-ci est déjà venu, c'est JESUS), ni de l'oeuvre d'un groupe de croyants, mais que c'est l'accomplissement de la Parole de notre Dieu par l'onction de l'Esprit du Seigneur sur toute l'Assemblée des disciples de Jésus. Que notre Dieu et Père soit loué et glorifié en Jésus-Christ! Amen!
 
 
 
@@ -8,381 +78,6 @@ TEMPS DE LA FIN
 
 
 
-
-
-ALEXIS BARILIER
-
-L’ONCTION DU TEMPS DE LA FIN 2
-
-        L’ONCTION DU TEMPS DE LA FIN
-
-        “L’Esprit du Seigneur, l’Eternel, est sur moi, parce que l’Eternel m’a oint
-        pour apporter de bonnes nouvelles AUX DEBONNAIRES: Il m’a envoyé
-        pour panser ceux qui ont le coeur brisé, pour proclamer aux captifs la
-        liberté, et aux prisonniers l’ouverture de la prison, pour proclamer l’année
-        de la faveur de l’Eternel et le jour de la vengeance de notre Dieu, pour
-        consoler tous ceux qui mènent deuil, pour mettre et donner à ceux de Sion
-        qui mènent deuil l’ornement au lieu de la cendre, l’huile de joie au lieu du
-        deuil, un vêtement de louange au lieu d’un esprit abattu, afin qu’ils soient
-        appelés TEREBINTHES de justice, LE PLANT de l’Eternel pour qu’il soit
-        glorifié”.
-
-        Ésaïe 61.1-3.
-
-
-   Chers frères et soeurs en Jésus-Christ, en considérant ces merveilleuses Paroles de
-l’Eternel, le Dieu Vivant, le Créateur de toutes choses, ne manquons pas de voir
-l’importance de l’onction qu’Il annonce, car celle-ci ne concerne pas seulement la
-personne du “premier-né” de la nouvelle Création, notre Seigneur Jésus-Christ, à
-l’occasion de Son ministère exercé sur la terre dans un corps de chair semblable au
-nôtre. Il est véritablement la première personne humaine dans laquelle cette plénitude de
-l’Esprit a été manifestée, et nous en sommes infiniment reconnaissant à notre Père
-céleste. Mais sachons bien que cette onction promise est appelée à venir sur tous les
-membres de Son Corps spirituel, particulièrement au temps de la fin, avant que
-l’Epouse de Christ ne puisse être enlevée pour aller à la rencontre de Son Epoux
-céleste, et après que le témoignage du plein salut des croyants par la foi en Jésus-Christ
-ait été rendu une dernière fois dans le monde entier avec puissance au travers des
-croyants constituant le Corps de Christ. “Et cet évangile du royaume sera prêché dans
-la terre habitée tout entière, en témoignage à toutes les nations; et alors viendra la
-fin” (Mat. 24.14).
-   Il est vrai que Jésus est le Fils Unique, le premier homme dans la foi sur lequel cette
-onction pouvait venir et y demeurer selon la volonté de Dieu jusqu’à l’achèvement de
-Son ministère. Cependant nous devons tenir compte de tout ce qui est promis dans cette
-Parole de Dieu, et qui concerne l’oeuvre que Dieu est venu accomplir par cette onction
-divine. Ainsi lorsque nous considérons toutes les paroles de ce passage biblique, nous
-pouvons discerner que cette même onction déjà réalisée et manifestée en Jésus, est
-également destinée à reposer sur “Ses frères”, c’est-à-dire sur tous ceux que Jésus-Christ
-a engendrés à la Vie éternelle par le sacrifice de Sa précieuse Vie à Golgotha. Ceci
-afin que le même comportement, clairement manifesté dans le pays que Dieu a donné à
-Son peuple d’Israël, et qui a été réalisé par Jésus le premier-né de cette nouvelle création,
-soit aussi vu dans le monde entier au travers de “Ses frères”, et plus particulièrement
-au travers de la vie terrestre et naturelle des croyants qu’Il a rachetés pour former
-véritablement Son Corps spirituel en ce temps de la fin. Cela devrait donc être un fait
-incontestable pour tout croyant en Jésus-Christ qu’en ce temps de la fin tous les
-membres de Son Corps sont appelés à avoir part au même comportement spirituel
-de leur Seigneur, du moins lorsque la même onction venue autrefois sur la Tête du Corps
-peut être manifestée de nouveau au travers de chacun des membres qui forment le Corps
-spirituel de Jésus. Ainsi il est tout à fait normal qu’un croyant biblique, véritablement
-disciple de Jésus-Christ, aspire à cela avec force et constance. Et il se trouve que
-même dès le commencement de sa marche dans la foi le croyant aspire dans ses prières
-
-    http://www.cmpp.ch
-
-    L’ONCTION DU TEMPS DE LA FIN    3
-à recevoir cette onction divine en lui-même, afin que la nature et les oeuvres du Fils de
-Dieu, son Seigneur et Maître, puissent aussi être vues dans son propre comportement
-par ceux qui l’entourent.
-   C’est pourquoi nous devions aussi faire ressortir le fait que ceux qui vont obtenir cette
-onction ont manifesté dès le début de leur vie de foi un comportement spirituel consacré
-à la prière et à la recherche du Dieu Vivant, l’Eternel, le Dieu de la Bible, et qu’ils
-persévèrent à rechercher l’accomplissement des desseins de leur Père céleste. Et cela
-parce qu’ils sont parvenus à l’assurance de ne trouver le secours qui amène le
-changement dans leur vie de pécheur, qu’auprès de l’Eternel, le Dieu de la Bible, et
-non dans les credo et les ordonnances des religions fabriquées par les hommes. Ce
-comportement spirituel d’un croyant est décrit dans Ésaïe 61.3, lorsqu’il est question des
-personnes qui sont plus particulièrement touchées dans leur coeur par l’état spirituel
-déplorable des gens religieux au temps de la fin, et qu’ils peuvent constater dans les
-diverses communautés dans lesquelles ils se trouvent, au point qu’ils sont poussés à
-intercéder pour qu’un changement radical ait lieu. C’est aussi dans ce verset qu’était
-annoncée la tâche qu’allait accomplir Celui sur qui devait venir en premier cette onction
-divine. C’est lorsqu’il est dit que c’est: “… pour mettre et donner à ceux de Sion qui
-mènent deuil l’ornement au lieu de la cendre … afin qu’ils soient appelés térébinthes de
-justice”, et qu’ils soient: “le plant de l’Eternel pour qu’il soit glorifié”.
-   Par ces paroles nous sont aussi décrites les personnes destinées à bénéficier de cette
-onction et à devenir des térébinthes de justice, et le plant de l’Eternel pour qu’il soit
-glorifié. En effet il ne peut vraiment s’agir que des croyants qui prennent conscience, par
-la révélation de la Parole de Dieu, de leurs manquements envers leur Père céleste. Ils
-en sont affligés, s’en repentent et intercèdent pour être délivrés de ce mauvais état
-spirituel, intercédant pour que le Seigneur vienne les visiter, eux tous qui se réclament de
-Jésus-Christ, ainsi que tous ceux qui forment Son peuple, afin que tous soient purifiés
-définitivement. Ce sont seulement ceux-là qui vont être transformés et qui vont devenir
-ce que l’Eternel, le Dieu de la Bible désire qu’ils soient, c’est-à-dire “… le plant de
-l’Eternel pour qu’Il soit glorifié”. Oui, c’est seulement après avoir reçu cette onction qu’ils
-deviennent entre les mains de Dieu les instruments que l’Eternel peut employer pour
-l’accomplissement de Ses desseins; desseins qu’Il a d’ailleurs fait connaître tout au long
-de la Bible.
-   Ainsi il est très important que les disciples de Jésus-Christ du temps de la fin arrivent à
-ne glorifier dans leur vie qu’uniquement le seul vrai Dieu révélé dans la chair, JESUS, la
-Parole faite chair. C’est Lui seul qui pouvait mourir pour expier le péché qui a apporté la
-souffrance et la mort dans le monde, c’est Lui seul qui a écrasé la tête du serpent et mit
-fin à son règne de la méchanceté qui produisait la mort, c’est Lui seul qui est ressuscité
-et qui donne une vie nouvelle au disciple de Jésus-Christ et qui baptise le croyant de
-Son Esprit-Saint, afin que le Seigneur Jésus prolonge Ses jours au travers de ce croyant
-et qu’Il puisse encore accomplir par ce disciple les mêmes oeuvres. Il ne s’agit
-absolument pas de mettre en avant un prophète ou un autre homme de Dieu, de glorifier
-un certain credo ou un Message particulier de la Bible, mais bien d’apporter dans le
-milieu où vit le croyant la présence de la seule personne ayant vaincu le péché
-d’incrédulité à l’égard de la Parole de notre Père céleste, et qui nous donne à notre tour
-la capacité de vaincre et de manifester la résurrection et la Vie éternelle par la foi en
-Jésus. Le Seigneur ressuscité veut agir de nos jours au travers des membres de Son
-Corps, et c’est lorsque Jésus vit réellement en eux par le Saint-Esprit, que leur vie de foi
-et d’obéissance à cette Parole de leur Père, de même que leur comportement de
-croyants accomplissant avec joie la volonté de leur merveilleux Père céleste, c’est alors
-que par ces croyants le témoignage de la victoire de Jésus sur tous les péchés est porté
-dans le monde. En effet, pour être une nouvelle création et oeuvrer dans le Royaume de
-Dieu à Sa gloire, il ne suffit pas simplement de revendiquer avoir reçu «le Message du
-
-        http://www.cmpp.ch
-
-    L’ONCTION DU TEMPS DE LA FIN                     4
-temps de la fin», ou de proclamer faire partie «du réveil», mais il s’agit bien de vivre et de
-mettre en pratique le Message de la Parole de Dieu révélée en ce temps. Sans la
-présence du Seigneur Jésus en nous par Son Esprit nous ne pourrions pas accomplir ce
-dessein de notre Père céleste.
-   Et pour qu’il en soit ainsi, ce qui est indispensable est une communion personnelle
-réelle du croyant avec le Dieu Vivant, le Dieu de toute la Bible, et une marche de disciple
-avec Jésus. C’est par Lui que le disciple est né de nouveau, par son Seigneur
-ressuscité, au point que cette vie de communion entre le Seigneur ressuscité et le
-croyant devienne visible aux yeux de tous par l’obéissance que ce croyant manifeste à
-l’égard de toute la Parole de Dieu ainsi que par les oeuvres mêmes qu’il accomplit à
-l’exemple du Seigneur Jésus. C’est ainsi que la réalité d’une foi véritable en la Parole de
-Dieu révélée en ces temps de la fin doit être rendue manifeste, afin que beaucoup de
-personnes puissent remarquer la présence de cette Parole au travers du comportement
-des disciples de Jésus-Christ. C’est véritablement par ce témoignage vécu que la Parole
-révélée peut être correctement annoncée dans le monde, et qu’Elle peut devenir
-manifeste pour ceux qui nous entourent. Et n’oublions pas que ce témoignage est plus
-particulièrement indispensable aux personnes qui sont conscientes de leur besoin et
-qui ont cherché jusque là en vain dans plusieurs religions à connaître le Dieu Vivant, le
-Dieu qui a parlé et qui a inspiré la Bible, car malgré les apparences il existe encore des
-personnes dans ce monde qui cherchent de nos jours la Vérité. Ce sont ces personnes
-que nous devons toucher avec le témoignage de la victoire parfaite de Jésus, afin de
-répondre à leur aspiration à la Vie éternelle.
-   Il est aussi nécessaire d’être bien conscients que le monde entier se trouve dans le
-besoin absolu d’entendre et de voir, comme au commencement des âges de l’Eglise,
-l’Evangile véritable du Fils de Dieu manifesté au travers des membres de Son Corps,
-afin que ceux qui cherchent sincèrement à connaître le Dieu Véritable découvrent ce
-Dieu-là dans le comportement exemplaire des disciples de Jésus vivant selon Sa Parole.
-C’est alors que la personne qui cherche, ayant découvert la vérité du salut en
-Jésus-Christ par ce témoignage vivant, peut être également changée par la foi en
-l’accomplissement des promesses que la Bible offre à tous, et par la révélation du Dieu
-véritable en Jésus-Christ. C’est de la communion avec ce Dieu-là, le Dieu véritable
-révélé en l’homme Jésus-Christ, que tout être vivant a besoin dans le monde entier. Le
-temps des credo des dénominations religieuses est terminé. Aucune religion n’a jamais pu
-sauver et faire naître de nouveau une seule personne entrée dans ses rangs. Par contre
-nous avons les preuves et l’absolue certitude que la foi en la personne de Jésus
-ressuscité, vivant en nous par le Saint-Esprit, ainsi que la marche en Sa communion,
-apporte à tout disciple de Jésus la Vie éternelle et un changement radical dans son
-comportement. En vérité, en vérité: “Nous sommes dans le Véritable, savoir dans Son
-Fils Jésus-Christ: Lui est le Dieu véritable et la Vie éternelle” (1 Jean 5.20). “Celui qui a
-le Fils a la vie, celui qui n’a pas le Fils de Dieu n’a pas la vie” (1 Jean 5.12). C’est dans
-une foi absolue en ce Jésus, et dans une communion et une relation continuelle avec le
-Dieu Vivant en Lui, alors même que nous sommes encore dans ce corps de chair tel que
-chacun de nous l’a reçu de Dieu, que la victoire absolue sur Satan et dans tous les
-domaines de la vie, doit être manifestée avec les croyants en ce temps de la fin. Cela au
-Nom du Seigneur Jésus-Christ. Amen!
-   Ainsi il nous est permis de comprendre que ceux qui mènent deuil en Sion, sont les
-croyants qui se laissent révéler par l’Esprit de Christ ce qui n’est pas conforme à
-l’enseignement des Ecritures dans leur vie. Ils réalisent que cela vient d’eux-mêmes, de
-leur propre incrédulité à l’égard de la Parole de Dieu qui leur a été donnée pour connaître
-l’oeuvre parfaite de Jésus-Christ, et ils réalisent que c’est en eux que cela doit changer.
-Quand cette révélation touche leur coeur, ils sont profondément affligés de voir leurs
-infidélités à l’égard des Paroles et de l’oeuvre de leur Père céleste en Jésus-Christ et c’est
-
-                                    http://www.cmpp.ch
-
-    L’ONCTION DU TEMPS DE LA FIN    5
-ce qui les pousse à chercher auprès de leur Créateur le pardon, afin qu’Il leur vienne en
-aide en changeant les choses en eux. Ils sont également conduits à intercéder pour les
-croyants dans la même situation qu’eux-mêmes, comme aussi pour ceux dans toutes les
-autres communautés, de sorte que partout les croyants soient réveillés de
-l’assoupissement et du sommeil dans lequel ils sont plongés, souvent sans même en être
-conscients. Ceux qui mènent deuil véritablement dans le Corps de Christ, sont
-également ceux qui jeûnent, qui prient et qui intercèdent pour eux-mêmes, comme ils le
-font aussi en faveur de leurs compagnons de route. Et en fin de compte, ceux qui
-combattent pour que l’oeuvre de Jésus soit glorifiée en eux et en tous croyants, sont
-exaucés par leur Père céleste et bénéficient de l’onction promise dans les Ecritures.
-   On peut aussi discerner au travers de cette Ecriture que le croyant conduit par l’Esprit
-de Dieu à mener deuil à cause de l’état déplorable de l’Eglise, est également celui qui est
-amené à rechercher une communion personnelle plus profonde et plus réelle avec Celui
-sur qui l’Esprit du Seigneur l’Eternel est venu. C’est auprès de Lui, Jésus, que se trouve
-la bénédiction, parce que c’est Lui seul qui pouvait faire don, en tant que sacrifice, de la
-seule vie humaine agréable à Dieu, par laquelle pouvait être racheté tout homme de la
-mort vers laquelle nous avancions tous inexorablement. Ainsi Il est le seul homme ayant
-souffert la mort selon la volonté de Dieu et qui en soit ressuscité victorieusement. De
-plus, comme le dit l’Ecriture, c’est Lui seul qui a le pouvoir de baptiser un croyant de
-l’Esprit Saint. Ne nous imaginons pas que c’est en faisant partie d’une certaine
-communauté, aussi sanctifiés puissent être ses membres, ou parce que nous avons
-reconnu le prophète envoyé pour cet âge, ou parce que nous proclamons avoir accepté
-le Message de Dieu, que nous allons obtenir ce véritable baptême de l’Esprit.
-   Non, mais ce baptême promis arrive exactement comme Jean-Baptiste l’a dit clairement
-dans Matthieu 3.11 à ceux qui recherchaient cette bénédiction de Dieu. En effet, Jean-
-Baptiste était bien conscient que le message qu’il portait était un appel à la repentance,
-pour préparer le croyant à rencontrer et recevoir Celui qui venait après lui. Car c’est
-bien avec le Seigneur Jésus Lui-même, que le croyant devait avoir communion et
-apprendre à vivre avec Lui chaque jour. C’est-à-dire avec Celui qui est le seul Sauveur,
-et le seul qui peut lui donner la Vie éternelle et le baptiser du Saint-Esprit. L’histoire se
-répète et la même chose arrive aujourd’hui avec le Message apporté par le prophète de
-Dieu, William Branham. Il en est tout comme autrefois avec la venue de Jean-Baptiste qui
-portait un Message de l’Eternel, mais qui ne faisait que précéder et préparer la venue de
-Celui qui baptise du Saint-Esprit, ainsi le Message de la Parole révélée, apporté par
-l’homme de Dieu William Branham, a été envoyé au monde entier pour nous amener à
-chercher à avoir une véritable rencontre avec Jésus-Christ, le ressuscité, le Dieu
-Véritable, car c’est encore et toujours le seul qui baptise du Saint-Esprit le croyant.
-C’était la raison profonde qui poussait Jean-Baptiste à exhorter ceux qui l’écoutaient à
-regarder à Celui qui venait après lui, c’est-à-dire à Jésus-Christ. Jean-Baptiste disait à
-tous clairement: “Moi, je baptise d’eau pour la repentance; mais celui qui vient après moi
-est plus puissant que moi… Lui vous baptisera de l’Esprit Saint et de feu…”. Cette
-déclaration est formelle et demeure valable aujourd’hui même: Lui vous baptisera de
-l’Esprit-Saint et de feu. Jean-Baptiste ne voulait pas que les croyants s’attachent à sa
-personne, parce qu’il connaissait très bien quelle était sa condition, mais il savait que par
-le Message qu’il portait les croyants allaient se préparer à recevoir le Messie promis. Il
-en est de même aujourd’hui, et c’est pourquoi nous devons écouter le Message que Dieu
-nous a envoyé au travers du ministère de notre frère Branham, afin que Jésus-Christ
-puisse accomplir tous les desseins de Dieu au travers des membres de Son Corps.
-Personne d’autre ne doit donc être recherché pour recevoir le baptême du Saint-Esprit,
-sinon Jésus-Christ, le ressuscité, le vainqueur du péché, du juste jugement de Dieu, et
-de la mort, Celui à qui nous appartenons pour l’éternité. Mais il ne s’agit pas de négliger
-ou de mépriser l’homme de Dieu envoyé avec un Message pour préparer le croyant à
-recevoir comme absolu le Seigneur Jésus-Christ. Celui qui méprise ou n’écoute pas le
-
-        http://www.cmpp.ch
-
-    L’ONCTION DU TEMPS DE LA FIN                      6
-précurseur, traitera pareillement le Seigneur Jésus quand Il voudra se révéler à lui. Et
-sans doute, selon la réaction que cette personne aura manifestée à l’égard du Message
-apporté par le précurseur, le Seigneur ne le visitera même plus. Mais si nous obéissons
-au Message de Dieu pour notre génération, nous rechercherons par-dessus toute autre
-chose à croître dans la communion de notre Seigneur Jésus-Christ.
-   Je le répète encore une fois, ce baptême du Saint-Esprit ne vient pas de la communion
-qu’on peut avoir avec un certain homme de Dieu, ou de l’appartenance à une certaine
-doctrine ou à un certain groupe religieux. L’unique chose à rechercher est la communion
-et l’appartenance à une seule personne, au Seigneur ressuscité, Jésus-Christ. Pour
-que le croyant reçoive ce que Dieu veut lui donner, il s’agit de vivre et de marcher dans la
-foi avec le Fils qu’Il nous a donné, conformément à la Parole de Dieu venue à nous en ce
-temps de la fin et qui nous révèle ce Fils. Nous avions déjà été éclairés par les écrits de
-Moïse, ainsi que par ceux de tous les autres prophètes, mais Jésus est le seul homme
-qui a souffert la mort pour nous, le seul à l’avoir vaincue en expiant à la croix de
-Golgotha nos péchés et en les faisant disparaître pour toujours. Ceci afin d’accomplir la
-volonté de Dieu qui a toujours été de nous rétablir dans Sa communion. Il est le seul
-vainqueur du péché, c’est-à-dire de l’incrédulité à l’égard des paroles de Dieu, car c’est
-cette incrédulité envers ce que Dieu avait dit aux hommes, qui les avait tous conduits à la
-mort. Il est le seul à avoir annulé par Sa victoire ce qui avait séparé l’homme de Son Père
-céleste. Et parce qu’Il est ressuscité victorieusement Il est donc également le seul à
-pouvoir reconstituer véritablement les liens familiaux, les liens de compréhension et
-d’amour entre le Père céleste et les fils qu’Il s’est acquis au travers de l’oeuvre
-victorieuse de Jésus-Christ à Golgotha. Amen! Cette onction promise dans Ésaïe 61
-est l’assurance pour le disciple de Jésus-Christ de parvenir à être appelé “… térébinthe de
-justice, le plant de l’Eternel pour qu’il soit glorifié” (Ésaïe 61.3) car c’est Lui, Jésus, qui a
-manifesté dans un corps semblable au nôtre cette nature de Fils de Dieu, et c’est en
-demeurant en Lui que cette nature peut être encore manifestée en nous. Que notre
-Dieu et Père soit loué et béni pour cela!
-   C’est une chose absolument sûre qu’au commencement de l’Eglise de Jésus-Christ,
-les croyants devenus disciples du Seigneur ressuscité sont entrés dans la même onction
-qui reposait sur Jésus, la Tête du Corps de Christ, afin de former une seule famille de
-fils de Dieu. C’est uniquement Satan, l’adversaire de Dieu, qui, par le moyen de
-l’incrédulité de l’homme à l’égard de la Parole de son Père et de sa désobéissance, a
-amené la division dans cette communion parfaite entre le Père et tous les fils que Dieu a
-engendrés en Jésus. Par les divers credo et interprétations de la Parole de Dieu, par la
-constitution de groupes de foi et de religions, ayant chacun ses propres frontières
-doctrinales, Satan a divisé le Corps de Christ, et il continue de le faire partout où la
-révélation de la Parole est parvenue en ce temps de la fin. Mais par la même onction du
-Saint-Esprit venue sur la Tête du Corps, tous ceux qui sont devenus personnellement
-disciples de Jésus, après qu’ils aient reçu cette même onction, peuvent aussi
-véritablement redevenir un avec leur Seigneur, comme aussi les uns avec les autres,
-dans la foi et la pratique de toute la Parole de la Bible. Ainsi, inspirés et animés par la
-même Parole et le même Esprit de Dieu, et conformément aux promesses de la Bible, ils
-peuvent à nouveau accomplir les mêmes oeuvres que Jésus a faites et porter les
-mêmes fruits. Esaïe, au chapitre 60.21, prophétisait déjà cette unité de pensée et
-d’action du peuple de la Nouvelle Alliance avec sa Tête, sur Laquelle la venue de l’Esprit
-allait être annoncée au chapitre suivant (chap. 61).
-   Mais c’est là, dans Ésaïe 60.21, que le Seigneur dit: “Et ton peuple, — eux tous, seront
-justes; ils posséderont le pays pour toujours, rejeton que j’ai planté, l’oeuvre de mes mains
-pour me glorifier”. Et le Seigneur ajoute au verset 22: “Moi, l’Eternel, je hâterai cela en
-son temps”. Que notre Dieu et Père soit loué et remercié pour cette Parole, car Il n’oublie
-aucune de Ses promesses et Il connaît le temps propice pour l’exécuter fidèlement! Amen!
-
-                                    http://www.cmpp.ch
-
-    L’ONCTION DU TEMPS DE LA FIN    7
-Comme nous le savons généralement, le Seigneur notre Dieu, en Jésus, Se présente en
-disant dans Apocalypse 22.13: “Moi, je suis l’alpha et l’oméga, le premier et le dernier, le
-commencement et la fin”. Si bien que cette même onction de l’Esprit, bien présente avec
-les croyants du premier Age de l’Eglise, pouvait être attendue à nouveau sur le peuple de
-Dieu pour ce dernier Age de l’Eglise, cet âge du retour à la foi primitive. Ainsi, nous
-disciples de Jésus-Christ dans ces derniers temps, nous pouvons, et nous avons même
-l’obligation, de rechercher à recevoir une telle effusion de l’Esprit de Christ, pour
-qu’elle vienne sur tous les disciples de Jésus comme elle l’était au commencement. Et il
-est certain qu’elle viendra également sur tous ceux qui seront ajoutés au Corps de Christ
-jusqu’à ce que soit entré le dernier des membres de ce Corps. L’Eternel promet de hâter
-cela en son temps. Il y a effectivement, avant l’enlèvement, un temps de
-rassemblement dans un même Esprit de tous les véritables membres du Corps de
-Christ, parce que Christ a aimé l’Assemblée de Ses disciples et s’est livré Lui-même pour
-Elle, afin qu’Il la sanctifiât, en la purifiant par le lavage d’eau par la Parole. C’est alors
-que peut s’accomplir Ephésiens 5.27: “Afin que lui se présentât l’assemblée à lui-même,
-glorieuse, n’ayant ni tache, ni ride, ni rien de semblable, mais afin qu’elle fut sainte et
-irréprochable”.
-   Lorsque l’Esprit du Seigneur l’Eternel vient de la manière promise dans Ésaïe 61, les
-bonnes nouvelles qu’apporte celui sur qui est venue cette onction sont, comme le dit
-Darby, pour les débonnaires, c’est-à-dire pour ceux qui ont de bonnes dispositions, qui
-sont assez humbles de coeur pour être prêts à recevoir ce que leur envoie leur Père
-céleste. C’est en effet en ceux-là que le Seigneur peut rendre vivante l’onction de Son
-Esprit, car ce n’est qu’avec les humbles de coeur que le Seigneur peut user de Sa grâce.
-L’attitude du Seigneur à l’égard des orgueilleux ne peut jamais être autre que la résistance
-face à leur comportement orgueilleux, à moins que la repentance ne touche leur coeur
-et que leurs nouvelles dispositions d’esprit ne changent tout leur comportement. Cette
-Parole d’Ésaïe 61 ne peut s’accomplir qu’avec ceux qui ont trouvé grâce auprès de leur
-Père céleste et qui se tiennent humblement à Son service. C’est pourquoi il nous est dit
-que celui sur qui vient reposer cette onction est un envoyé, et du fait qu’il est envoyé il
-apporte le témoignage du Seigneur Jésus partout autour de lui. Il vient donc pour exercer
-cette charge de la part du Père céleste, et il a besoin d’un grand secours, d’une grande
-puissance spirituelle reçue de Lui, pour exercer sa charge. La première chose qu’il est
-appelé à exercer, c’est de: “… panser ceux qui ont le coeur brisé”, puis de “… proclamer
-aux captifs la liberté, et aux prisonniers l’ouverture de la prison…”, il doit encore
-“… proclamer l’année de la faveur de l’Eternel et le jour de la vengeance de notre
-Dieu…”. De même que par sa présence il est là “pour consoler tous ceux qui mènent
-deuil, pour mettre et donner à ceux de Sion qui mènent deuil l’ornement au lieu de la
-cendre, l’huile de joie au lieu du deuil…”. Il est encore appelé à donner “… un vêtement
-de louange au lieu d’un esprit abattu, afin qu’ils soient appelés térébinthes de justice, le
-plant de l’Eternel pour qu’il soit glorifié”. Ce sont donc là toutes les oeuvres accomplies
-par Jésus, sur qui est venue cette onction, et ces mêmes oeuvres doivent aussi
-s’accomplir avec les membres de Son Corps sur lesquels cette onction est appelée à
-reposer également en ce temps de la fin. Mais comprenons bien que la venue de cette
-même onction sur les membres de Son Corps est indispensable à son
-accomplissement par les disciples de Jésus de ce temps. Prions pour cela, car c’est bien
-ce que nous pouvons nous attendre de l’Eglise de Jésus-Christ lorsque se réalisera le
-parfait accomplissement de la Parole d’Ephésiens 5.27: “Afin que Lui se présentât
-l’Assemblée à Lui-même, glorieuse, n’ayant ni tache, ni ride, ni rien de semblable,
-mais afin qu’elle fut sainte et irréprochable”.
-   Cette venue de l’onction de l’Esprit du Seigneur sur les croyants est accordée par le
-Seigneur en vue de l’accomplissement d’une tâche particulière, laquelle était déjà
-annoncée à l’avance tout au long de la Bible, et qui s’accomplit par Son Esprit selon les
-promesses de la Parole. Dans ce cas particulier c’est plus particulièrement au verset 4
-
-                  http://www.cmpp.ch
-
-    L’ONCTION DU TEMPS DE LA FIN    8
-d’Ésaïe 61 qu’est déclaré la tâche qu’accomplira celui qui est revêtu de cette onction. En
-effet, “ce plant de l’Eternel” oeuvrera à bâtir, à reconstruire ce qui était en ruines depuis
-longtemps. C’est bien là ce qui est annoncé au sujet de ceux qui vont bénéficier de cette
-onction: “Et… (Après avoir reçu cette onction)… ils bâtiront ce qui était ruiné dès
-longtemps, ils relèveront les désolations anciennes, et ils renouvelleront les villes
-ruinées, les lieux désolés de génération en génération”. Et nous croyons que c’est
-précisément cette oeuvre de reconstruction qui intéresse tout croyant sincère en
-Jésus-Christ, c’est que chaque membre du Corps de Christ retrouve la même plénitude de
-la vie de Christ en lui, telle qu’elle se manifestait autrefois dans l’Assemblée des
-disciples de Jésus-Christ. En considération de cela nous sommes reconnaissants à notre
-Père céleste pour toutes les promesses qu’Il a faites dans la Bible pour ce temps de la
-fin, et nous nous attendons maintenant à la réédification de cette Assemblée telle que le
-coeur de notre Epoux céleste la désire. Nous prions donc d’autant plus pour le
-rassemblement dans une même foi et dans un même esprit de tous les disciples de
-Jésus-Christ, tel que cela a déjà été vu au commencement à Jérusalem. Mais
-certainement que ce ne sera pas du tout l’oeuvre d’un homme ayant un ministère spécial
-(Celui-ci est déjà venu, c’est JESUS), ni de l’oeuvre d’un groupe de croyants, mais que
-c’est l’accomplissement de la Parole de notre Dieu par l’onction de l’Esprit du
-Seigneur sur toute l’Assemblée des disciples de Jésus. Que notre Dieu et Père soit
-loué et glorifié en Jésus-Christ! Amen!
-
-
-
-
-
-
-
-
-
-
-    Editeur:
-    Centre Missionnaire de la Parole Parlée, Case Postale 5633, 1002 Lausanne (Suisse)
-    Internet: http://www.cmpp.ch / E-Mail: info@cmpp.ch
-
-        http://www.cmpp.ch
+Editeur:
+Centre Missionnaire de la Parole Parlée, Case Postale 5633, 1002 Lausanne (Suisse)
+Internet: http://www.cmpp.ch / E-Mail: info@cmpp.ch

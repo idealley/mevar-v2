@@ -1,540 +1,244 @@
-    WILLIAM MARRION BRANHAM
+---
+source: "cmpp"
+sermon_id: "rev02"
+title: "La Révélation de Jésus-Christ"
+subtitle: "Vision de Patmos"
+date: "1960-12-04"
+year: 1960
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Branham"
+summary: "William Branham enseigne sur le livre de l'Apocalypse, expliquant la divinité de Jésus-Christ, la prédestination des élus, le rôle du Saint-Esprit comme sceau, et la distinction entre les vierges sages et folles. Il aborde également les dons spirituels chez les femmes et met en garde contre l'apostasie des derniers jours."
+tags:
+  - "Apocalypse"
+  - "révélation"
+  - "divinité de Christ"
+  - "Saint-Esprit"
+  - "vierges folles"
+  - "prédestination"
+  - "dons spirituels"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Jean"
+  - "Paul"
+  - "Abraham"
+  - "Judas Iscariot"
+  - "Billy Graham"
+  - "Eddie Pruitt"
+places:
+  - "Patmos"
+  - "Jeffersonville"
+  - "Indiana"
+themes:
+  - "révélation de Jésus-Christ"
+  - "divinité de Dieu"
+  - "sceau du Saint-Esprit"
+  - "élection et prédestination"
+  - "apostasie de l'église"
+  - "dons spirituels et ordre dans l'église"
+  - "grande tribulation"
+pdf_url: "http://cmpp.ch/rev02.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "Apocalypse 1"
+  - "Apocalypse 17"
+  - "Apocalypse 19"
+  - "Apocalypse 21"
+  - "Apocalypse 6"
+  - "Daniel 7"
+  - "Hébreux 4"
+  - "Jean 15"
+  - "Jean 17"
+  - "Jean 5"
+  - "Malachie 4"
+  - "Marc 11"
+  - "Marc 16"
+  - "Matthieu 10"
+  - "Matthieu 11"
+  - "Matthieu 16"
+  - "Matthieu 17"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Nombres 69"
+  - "Zacharie 4"
+  - "Ésaïe 28"
+  - "Ésaïe 35"
+---
+WILLIAM MARRION BRANHAM
 
+LA REVELATION DE JESUS-CHRIST
 
-LA REVELATION
-     DE
- JESUS-CHRIST
+VISION DE PATMOS
 
-
-
-
-    2    Vision de Patmos
-
-    LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS    2
-
- LA REVELATION DE JESUS-CHRIST
-
-        VISION DE PATMOS
-
- 4 décembre 1960, dimanche soir
-       Branham Tabernacle
+4 décembre 1960, dimanche soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 Il me raconta: «Cela était devenu si glorieux que je pensais que l’enlèvement avait eu lieu! Je tournai la tête, et je vis les autres qui se trouvaient là. Non, ce n’était pas encore arrivé, parce que s’ils étaient encore ici-bas, alors je savais que j’étais encore ici-bas!». Ainsi, parfois, l’Esprit du Seigneur nous montre ces choses dans Sa bonté.
 
+2 Nous sommes vraiment heureux d’avoir les nombreux amis que nous voyons dans cette salle. Il y en a trop pour que je les mentionne tous. J’ai juste remarqué frère Carpenter lorsqu’il est entré; c’est lui qui nous a mariés, ma femme et moi. Frère Carpenter a été en bénédiction pour nous ici dans cette église, et nous a été en bénédiction dans la voie du ministère, comme d’ailleurs pour les prédicateurs presque partout. Et nous sommes heureux de l’avoir avec nous, lui et tant d’autres.
 
-
-1 Il me raconta: «Cela était devenu si glorieux que je pensais que l’enlèvement avait eu lieu! Je
-tournai la tête, et je vis les autres qui se trouvaient là. Non, ce n’était pas encore arrivé, parce que
-s’ils étaient encore ici-bas, alors je savais que j’étais encore ici-bas!». Ainsi, parfois, l’Esprit du
-Seigneur nous montre ces choses dans Sa bonté.
-2 Nous sommes vraiment heureux d’avoir les nombreux amis que nous voyons dans cette salle.
-Il y en a trop pour que je les mentionne tous. J’ai juste remarqué frère Carpenter lorsqu’il est entré;
-c’est lui qui nous a mariés, ma femme et moi. Frère Carpenter a été en bénédiction pour nous ici
-dans cette église, et nous a été en bénédiction dans la voie du ministère, comme d’ailleurs pour
-les prédicateurs presque partout. Et nous sommes heureux de l’avoir avec nous, lui et tant
-d’autres.
 3 Maintenant, voici une autre question qui m’a été posée hier soir:
-     Frère Branham, est-ce que les cinq vierges folles de Matthieu 25 font partie du reste les
-     nations? Si j’ai bien compris, les cinq vierges folles sont sauvées, mais doivent passer
-     par la période de la grande tribulation. Est-ce exact? Si oui, quelle sera leur destination
-     finale? Se peut-il qu’elles soient les brebis séparées des boucs de Matthieu 25.33 et 34?
-4 Voilà un très bon théologien, d’après ce que je peux voir… [Partie non enregistrée — N.d.R.]
-… Les vierges folles sont le reste dont parle l’Apocalypse; celui de la semence de la femme qui
-a gardé les commandements de Dieu et a le témoignage de Jésus-Christ. Une femme prend
-une pièce de tissu et l’étale; oui, vous savez, c’est pour se couper un vêtement. Ou plutôt, elle
-prend son patron et le pose là où elle veut, suivant ce qu’elle va couper. Et alors, ce qu’elle laisse
-de côté est appelé la chute, le reste. Elle coupe son tissu à un certain endroit de la pièce suivant le
-choix qu’elle en a fait librement. Mais ce qui tombe est appelé le reste.
-5 Remarquez maintenant qu’il y avait cinq vierges folles et cinq vierges sages; toutes étaient
-vierges, tirées de la même matière. Mais, par élection, Dieu a choisi Son Epouse avant la
-fondation du monde, et inscrit leurs noms sur le Livre de Vie de l’Agneau immolé avant la
-fondation du monde, avant même que le monde ne commence, car Dieu dans Sa pensée est
-infini.
-6 Et nous utilisons ce mot quelquefois à La place de prédestination, mais c’est devenu un
-simple cliché dans l’âge de l’église où nous vivons. Ce terme représentait sans doute quelque
-chose de glorieux du temps des martyrs, parce qu’ils y croyaient vraiment. Mais les gens se sont
-éloignés de la véritable signification de ce mot pour entrer dans les idées légalistes, dans
-l’enseignement légaliste de l’église. C’était une bonne chose, et ils étaient tous devenus
-Calvinistes, en Angleterre, si bien qu’ils n’avaient même plus de réveils, et John Wesley est venu
-prêchant la doctrine arminienne qui rétablit l’équilibre. Dieu rétablit toujours l’équilibre.
-7 Donc, les vierges folles étaient celles qui n’avaient pas d’huile dans leurs lampes, et qui, je
-crois, sont jetées dans les ténèbres du dehors où il y aura des pleurs, des lamentations et des
-grincements de dents. Si vous comparez cela à vos notes, cela vous ramène à la grande
-tribulation. Je crois qu’elles représentent ceux qui resteront en arrière et passeront par la
-grande tribulation. Il y aurait tout un sujet à traiter là-dedans, si nous en avions le temps.
-8 Maintenant, rappelez-vous, comme je l’ai déjà dit, que la première chose que vous entendrez
+> Frère Branham, est-ce que les cinq vierges folles de Matthieu 25 font partie du reste les nations? Si j’ai bien compris, les cinq vierges folles sont sauvées, mais doivent passer par la période de la grande tribulation. Est-ce exact? Si oui, quelle sera leur destination finale? Se peut-il qu’elles soient les brebis séparées des boucs de Matthieu 25.33 et 34?
 
-        http://www.cmpp.ch
+4 Voilà un très bon théologien, d’après ce que je peux voir… [Partie non enregistrée — N.d.R.] … Les vierges folles sont le reste dont parle l’Apocalypse; celui de la semence de la femme qui a gardé les commandements de Dieu et a le témoignage de Jésus-Christ. Une femme prend une pièce de tissu et l’étale; oui, vous savez, c’est pour se couper un vêtement. Ou plutôt, elle prend son patron et le pose là où elle veut, suivant ce qu’elle va couper. Et alors, ce qu’elle laisse de côté est appelé la chute, le reste. Elle coupe son tissu à un certain endroit de la pièce suivant le choix qu’elle en a fait librement. Mais ce qui tombe est appelé le reste.
 
-LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS 3
-sur les bandes magnétiques est: “Je dis ces choses conformément à ce que je crois être juste”.
-Vous voyez? Si elles sont fausses, je n’en suis pas conscient. Et je ne peux dire que ce que je
-crois. Je ne cherche pas à blesser les sentiments de qui que ce soit. Nous devons les laisser de
-côté quand nous entrons, et prendre ce qui a été dit, le sonder, et voir si cela est réellement
-conforme à l’Ecriture, ou non. C’est la meilleure façon de faire, parce qu’à l’époque où nous
-vivons, dans un pays qui a été ratissé continuellement et en tous sens par toutes sortes de
-choses, il est difficile de faire en sorte que les gens saisissent vraiment. Ce n’est pas comme dans
-un territoire vierge: vous parlez, ils croient, et c’est ainsi que cela avance.
-9 Mais ici, l’un vient avec telle idée, l’autre avec telle autre idée, et nous en arrivons à avoir
-environ neuf cents et quelques églises dénominationnelles différentes, se contredisant toutes dans
-leur enseignement; il doit donc y avoir quelqu’un dans l’erreur, et quelqu’un dans la vérité! Le seul
-moyen de le savoir, c’est de tout ramener à la Bible; laissez la Bible le prouver! Souvent les
-gens donnent leur interprétation personnelle. Mais nous essayons du mieux que nous pouvons de
-ne pas y mettre d’interprétation humaine. Nous essayons de La lire simplement telle qu’Elle est, et
-dire: “C’est ainsi”.
-10 C’est comme je l’ai toujours remarqué: si vous prenez uniquement ce qu’Il a dit, cela
-correspondra parfaitement à l’Ecriture. C’est comme lorsque vous assemblez les pièces d’un
-puzzle: vous devez regarder le modèle avant de pouvoir assembler le puzzle correctement. Sinon,
-comme je l’ai toujours dit, vous verrez sur votre tableau une vache broutant de l’herbe au sommet
-d’un arbre! Cela n’irait pas.
-11 Et si nous laissons simplement le Saint-Esprit… Qui a écrit la Bible? C’est le Saint-Esprit qui
-est descendu sur l’homme et qui a écrit la Bible! Donc, sans le Saint-Esprit, peu importe la
-qualité de votre instruction vous ne La comprendrez jamais. Jésus Lui-même a remercié Dieu
-de ce qu’Il L’avait cachée aux yeux des sages et des intelligents, et ne La révélerait qu’aux enfants
-qui sont disposés à apprendre. Tous les disciples étaient plus ou moins illettrés et incultes, sauf
-un: Paul. Et Paul dit qu’il dut oublier tout ce qu’il avait jamais connu pour pouvoir trouver Christ. De
-même, il a dit à l’église de Corinthe qu’il n’était pas venu avec la sagesse de l’homme et de grands
-discours parce qu’alors, leur foi aurait reposé sur la sagesse de l’homme; mais qu’il était venu à
-eux dans la puissance et la démonstration du Saint-Esprit, afin que leur foi repose sur les oeuvres
-du Saint-Esprit, en accord avec la Parole de Dieu. Et c’est pourquoi nous essayons de nous y
-accrocher aussi solidement que possible, parce qu’avant la fin de la semaine, ou quand la
-semaine sera finie, vous verrez exactement ce qui s’est passé, ce petit fil qui court tout au
-long des âges.
+5 Remarquez maintenant qu’il y avait cinq vierges folles et cinq vierges sages; toutes étaient vierges, tirées de la même matière. Mais, par élection, Dieu a choisi Son Epouse avant la fondation du monde, et inscrit leurs noms sur le Livre de Vie de l’Agneau immolé avant la fondation du monde, avant même que le monde ne commence, car Dieu dans Sa pensée est infini.
+
+6 Et nous utilisons ce mot quelquefois à La place de prédestination, mais c’est devenu un simple cliché dans l’âge de l’église où nous vivons. Ce terme représentait sans doute quelque chose de glorieux du temps des martyrs, parce qu’ils y croyaient vraiment. Mais les gens se sont éloignés de la véritable signification de ce mot pour entrer dans les idées légalistes, dans l’enseignement légaliste de l’église. C’était une bonne chose, et ils étaient tous devenus Calvinistes, en Angleterre, si bien qu’ils n’avaient même plus de réveils, et John Wesley est venu prêchant la doctrine arminienne qui rétablit l’équilibre. Dieu rétablit toujours l’équilibre.
+
+7 Donc, les vierges folles étaient celles qui n’avaient pas d’huile dans leurs lampes, et qui, je crois, sont jetées dans les ténèbres du dehors où il y aura des pleurs, des lamentations et des grincements de dents. Si vous comparez cela à vos notes, cela vous ramène à la grande tribulation. Je crois qu’elles représentent ceux qui resteront en arrière et passeront par la grande tribulation. Il y aurait tout un sujet à traiter là-dedans, si nous en avions le temps.
+
+8 Maintenant, rappelez-vous, comme je l’ai déjà dit, que la première chose que vous entendrez sur les bandes magnétiques est: “Je dis ces choses conformément à ce que je crois être juste”. Vous voyez? Si elles sont fausses, je n’en suis pas conscient. Et je ne peux dire que ce que je crois. Je ne cherche pas à blesser les sentiments de qui que ce soit. Nous devons les laisser de côté quand nous entrons, et prendre ce qui a été dit, le sonder, et voir si cela est réellement conforme à l’Ecriture, ou non. C’est la meilleure façon de faire, parce qu’à l’époque où nous vivons, dans un pays qui a été ratissé continuellement et en tous sens par toutes sortes de choses, il est difficile de faire en sorte que les gens saisissent vraiment. Ce n’est pas comme dans un territoire vierge: vous parlez, ils croient, et c’est ainsi que cela avance.
+
+9 Mais ici, l’un vient avec telle idée, l’autre avec telle autre idée, et nous en arrivons à avoir environ neuf cents et quelques églises dénominationnelles différentes, se contredisant toutes dans leur enseignement; il doit donc y avoir quelqu’un dans l’erreur, et quelqu’un dans la vérité! Le seul moyen de le savoir, c’est de tout ramener à la Bible; laissez la Bible le prouver! Souvent les gens donnent leur interprétation personnelle. Mais nous essayons du mieux que nous pouvons de ne pas y mettre d’interprétation humaine. Nous essayons de La lire simplement telle qu’Elle est, et dire: “C’est ainsi”.
+
+10 C’est comme je l’ai toujours remarqué: si vous prenez uniquement ce qu’Il a dit, cela correspondra parfaitement à l’Ecriture. C’est comme lorsque vous assemblez les pièces d’un puzzle: vous devez regarder le modèle avant de pouvoir assembler le puzzle correctement. Sinon, comme je l’ai toujours dit, vous verrez sur votre tableau une vache broutant de l’herbe au sommet d’un arbre! Cela n’irait pas.
+
+11 Et si nous laissons simplement le Saint-Esprit… Qui a écrit la Bible? C’est le Saint-Esprit qui est descendu sur l’homme et qui a écrit la Bible! Donc, sans le Saint-Esprit, peu importe la qualité de votre instruction vous ne La comprendrez jamais. Jésus Lui-même a remercié Dieu de ce qu’Il L’avait cachée aux yeux des sages et des intelligents, et ne La révélerait qu’aux enfants qui sont disposés à apprendre. Tous les disciples étaient plus ou moins illettrés et incultes, sauf un: Paul. Et Paul dit qu’il dut oublier tout ce qu’il avait jamais connu pour pouvoir trouver Christ. De même, il a dit à l’église de Corinthe qu’il n’était pas venu avec la sagesse de l’homme et de grands discours parce qu’alors, leur foi aurait reposé sur la sagesse de l’homme; mais qu’il était venu à eux dans la puissance et la démonstration du Saint-Esprit, afin que leur foi repose sur les oeuvres du Saint-Esprit, en accord avec la Parole de Dieu. Et c’est pourquoi nous essayons de nous y accrocher aussi solidement que possible, parce qu’avant la fin de la semaine, ou quand la semaine sera finie, vous verrez exactement ce qui s’est passé, ce petit fil qui court tout au long des âges.
+
 12 Merci d’avoir placé le tableau noir un peu plus haut! Cela va mieux ainsi.
-13 J’aimerais que nous ayons tout l’hiver à disposition, ainsi nous pourrions prendre tout le Livre
-de l’Apocalypse et l’étudier d’un bout à l’autre. Il y a là de si beaux enseignements! Je me souviens
-(je crois que c’était il y a vingt ou vingt-cinq ans, alors que l’église était toute neuve), nous avions
-commencé à étudier le Livre de l’Apocalypse au début de l’automne, et il nous a fallu presque
-jusqu’à l’automne suivant pour l’étudier d’un bout à l’autre.
-14 Je me souviens d’avoir étudié le Livre de Job. Oh, frère Wright! Je suis resté si longtemps
-dessus qu’une femme a fini par m’écrire: “Frère Branham, n’allez-vous donc jamais retirer Job de
-son tas de cendres?”. Donc, j’essayais de faire ressortir certaines choses, parce que tout était
-contenu là à cet endroit; je voulais aller jusqu’à l’endroit même où l’Esprit du Seigneur vint sur lui;
-alors que les éclairs commençaient à flamboyer et le tonnerre à gronder, l’Esprit descendit sur le
-prophète, et il vit la venue du Seigneur. Je voulais enfoncer le clou, c’est pourquoi je gardai Job
-longtemps sur son tas de cendres, afin que nous puissions faire ressortir ces choses. Je savais
-que cela pouvait, pour certains, devenir un peu lassant. Cela m’énerve, moi aussi, lorsque
-j’entends quelqu’un “tourner autour du pot” au lieu d’aller droit au but. Mais peut-être que c’est
-Dieu qui conduit cette personne à faire ainsi pour atteindre un certain but.
-15 Revenons maintenant à ce reste, avant de quitter cette question. J’espère qu’ainsi ce sera
-clair. Je crois vraiment que ce reste est choisi par Dieu. Je crois que Dieu a choisi ce reste
-avant la fondation du monde; et cela, par Sa prescience. Considérez maintenant ce mot
-prédestiné, parce que c’est un petit mot acéré qui pique les gens! Vous voyez? Mais Dieu, avant la
-fondation du monde, dans Sa pensée infinie et glorieuse, a choisi l’Eglise, a choisi Jésus, a choisi
-l’Eglise, et a pu prédire dès le commencement ce qui arriverait à la fin. S’Il est infini, il n’y a rien
 
-        http://www.cmpp.ch
+13 J’aimerais que nous ayons tout l’hiver à disposition, ainsi nous pourrions prendre tout le Livre de l’Apocalypse et l’étudier d’un bout à l’autre. Il y a là de si beaux enseignements! Je me souviens (je crois que c’était il y a vingt ou vingt-cinq ans, alors que l’église était toute neuve), nous avions commencé à étudier le Livre de l’Apocalypse au début de l’automne, et il nous a fallu presque jusqu’à l’automne suivant pour l’étudier d’un bout à l’autre.
 
-    LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS    4
-qu’Il n’ait connu. Il connaissait tous les pucerons qu’il y aurait jamais sur la terre, et combien de
-fois ils battraient des paupières!… et quelle quantité de miellée il y aurait, et combien ils en feraient
-tous ensemble. C’est cela, l’infini. Il n’y a pas moyen de l’expliquer. Et Dieu, c’est ce qu’Il est: le
-Dieu infini.
+14 Je me souviens d’avoir étudié le Livre de Job. Oh, frère Wright! Je suis resté si longtemps dessus qu’une femme a fini par m’écrire: “Frère Branham, n’allez-vous donc jamais retirer Job de son tas de cendres?”. Donc, j’essayais de faire ressortir certaines choses, parce que tout était contenu là à cet endroit; je voulais aller jusqu’à l’endroit même où l’Esprit du Seigneur vint sur lui; alors que les éclairs commençaient à flamboyer et le tonnerre à gronder, l’Esprit descendit sur le prophète, et il vit la venue du Seigneur. Je voulais enfoncer le clou, c’est pourquoi je gardai Job longtemps sur son tas de cendres, afin que nous puissions faire ressortir ces choses. Je savais que cela pouvait, pour certains, devenir un peu lassant. Cela m’énerve, moi aussi, lorsque j’entends quelqu’un “tourner autour du pot” au lieu d’aller droit au but. Mais peut-être que c’est Dieu qui conduit cette personne à faire ainsi pour atteindre un certain but.
+
+15 Revenons maintenant à ce reste, avant de quitter cette question. J’espère qu’ainsi ce sera clair. Je crois vraiment que ce reste est choisi par Dieu. Je crois que Dieu a choisi ce reste avant la fondation du monde; et cela, par Sa prescience. Considérez maintenant ce mot prédestiné, parce que c’est un petit mot acéré qui pique les gens! Vous voyez? Mais Dieu, avant la fondation du monde, dans Sa pensée infinie et glorieuse, a choisi l’Eglise, a choisi Jésus, a choisi l’Eglise, et a pu prédire dès le commencement ce qui arriverait à la fin. S’Il est infini, il n’y a rien qu’Il n’ait connu. Il connaissait tous les pucerons qu’il y aurait jamais sur la terre, et combien de fois ils battraient des paupières!… et quelle quantité de miellée il y aurait, et combien ils en feraient tous ensemble. C’est cela, l’infini. Il n’y a pas moyen de l’expliquer. Et Dieu, c’est ce qu’Il est: le Dieu infini.
+
 16 Ainsi, remarquez que la Bible dit que dans les derniers jours l’antichrist viendrait sur la terre.
-17 Maintenant, écoutez attentivement! Le seul défaut… je crois que ce frère pourrait en trouver
-des millions chez moi. Mais notre cher frère Billy Graham, l’autre jour, dans ce sermon
-remarquable qu’il a prêché dimanche dernier (et je crois vraiment qu’il venait en son temps), a dit
-que “Satan séduit même les élus”.
-18 Non! La Bible dit: “… au point de séduire, SI C’ETAIT POSSIBLE, même les élus”. Mais ce
-n’est pas possible, parce que Dieu les a choisis avant la fondation du monde. Vous voyez?
-Jésus-Christ était l’Agneau immolé avant la fondation du monde. Lorsque Dieu met quelque chose
-dans Sa pensée, lorsqu’Il prononce cette Parole, Elle ne peut jamais changer. Elle ne peut être
-altérée, car Il est infini, et Ses Paroles s’accompliront.
-19 Pensez à cela. Cette terre même sur laquelle nous nous tenons ce soir est la Parole de Dieu
-manifestée! Le monde a été assemblé à partir d’éléments qui ne sont même pas visibles. Il a
-simplement dit: “Que cela soit”, et cela fut. Comme il est donc facile pour ce Dieu de guérir un
-corps malade, s’Il est capable de produire toute une création par une simple Parole. Vous voyez?
-Sa Parole! Si nous pouvions seulement avoir la foi pour voir ce qu’est Sa Parole! Nous
-sommes si liés à la terre, et si englués dans nos pensées que nous… Oh, je ne sais pas. On nous
-a inoculé tellement de doctrines, une piqûre de ceci, une piqûre de cela, que cela nous mène à la
-confusion la plus complète. Mais si vous pouviez tout secouer, tout dénouer et revenir à cette
-connaissance qu’il est Dieu et que Sa Parole ne peut pas plus faillir que Lui ne peut faillir! Et
-si cette Parole est faillible, alors Dieu est faillible; et si Dieu est faillible, alors Il n’est pas Dieu.
-Vous voyez? Et souvenez-vous, Il ne peut pas dire quelque chose ici, et autre chose là. Pour être
-Dieu, Il doit S’en tenir à Sa première décision.
-20 Et Il ne nous a demandé qu’une seule chose: de croire que ce qu’Il a dit est la Vérité, et
-qu’Il le fera s’accomplir. Oh, que c’est beau! Vous vous attendiez à ce que quelque chose arrive
-spontanément; quelquefois cela demande simplement un petit peu de foi. Ce ne sera pas un
-miracle, mais si vous vous y tenez ferme, cela vous délivrera; restez simplement avec cela. Il a dit
-que le grain de sénevé était la plus petite de toutes les semences; mais avez-vous jamais
-remarqué que le sénevé ne se mélange avec rien d’autre? Vous ne pouvez pas croiser le
-sénevé avec quoi que ce soit d’autre, cela ne se mélange pas! Et si vous avez de la foi,
-seulement un petit peu de foi qui ne peut pas se croiser avec la moindre incrédulité ou avec
-quelque religiosité ou dogme que ce soit, et que vous restiez avec Dieu, demeurez simplement
-avec elle, elle vous portera au travers du brouillard et vous fera sortir. Oui! restez
-simplement avec cette foi.
-21 La Bible dit, dans l’Apocalypse, que: “L’antichrist, dans les derniers jours…”. Voyez ces
-églises qui se rassemblent. “L’antichrist, dans les derniers jours, séduira tous ceux qui sont sur
-cette terre et dont les noms n’ont pas été écrits dans le Livre de Vie de l’Agneau depuis la
-fondation du monde”. Quand votre nom a-t-il été inscrit dans le Livre de Vie? Avant même qu’il y
-ait un monde, vous avez été choisi pour recevoir le Saint-Esprit dans cet âge-ci!
+
+17 Maintenant, écoutez attentivement! Le seul défaut… je crois que ce frère pourrait en trouver des millions chez moi. Mais notre cher frère Billy Graham, l’autre jour, dans ce sermon remarquable qu’il a prêché dimanche dernier (et je crois vraiment qu’il venait en son temps), a dit que “Satan séduit même les élus”.
+
+18 Non! La Bible dit: “… au point de séduire, SI C’ETAIT POSSIBLE, même les élus”. Mais ce n’est pas possible, parce que Dieu les a choisis avant la fondation du monde. Vous voyez? Jésus-Christ était l’Agneau immolé avant la fondation du monde. Lorsque Dieu met quelque chose dans Sa pensée, lorsqu’Il prononce cette Parole, Elle ne peut jamais changer. Elle ne peut être altérée, car Il est infini, et Ses Paroles s’accompliront.
+
+19 Pensez à cela. Cette terre même sur laquelle nous nous tenons ce soir est la Parole de Dieu manifestée! Le monde a été assemblé à partir d’éléments qui ne sont même pas visibles. Il a simplement dit: “Que cela soit”, et cela fut. Comme il est donc facile pour ce Dieu de guérir un corps malade, s’Il est capable de produire toute une création par une simple Parole. Vous voyez? Sa Parole! Si nous pouvions seulement avoir la foi pour voir ce qu’est Sa Parole! Nous sommes si liés à la terre, et si englués dans nos pensées que nous… Oh, je ne sais pas. On nous a inoculé tellement de doctrines, une piqûre de ceci, une piqûre de cela, que cela nous mène à la confusion la plus complète. Mais si vous pouviez tout secouer, tout dénouer et revenir à cette connaissance qu’il est Dieu et que Sa Parole ne peut pas plus faillir que Lui ne peut faillir! Et si cette Parole est faillible, alors Dieu est faillible; et si Dieu est faillible, alors Il n’est pas Dieu. Vous voyez? Et souvenez-vous, Il ne peut pas dire quelque chose ici, et autre chose là. Pour être Dieu, Il doit S’en tenir à Sa première décision.
+
+20 Et Il ne nous a demandé qu’une seule chose: de croire que ce qu’Il a dit est la Vérité, et qu’Il le fera s’accomplir. Oh, que c’est beau! Vous vous attendiez à ce que quelque chose arrive spontanément; quelquefois cela demande simplement un petit peu de foi. Ce ne sera pas un miracle, mais si vous vous y tenez ferme, cela vous délivrera; restez simplement avec cela. Il a dit que le grain de sénevé était la plus petite de toutes les semences; mais avez-vous jamais remarqué que le sénevé ne se mélange avec rien d’autre? Vous ne pouvez pas croiser le sénevé avec quoi que ce soit d’autre, cela ne se mélange pas! Et si vous avez de la foi, seulement un petit peu de foi qui ne peut pas se croiser avec la moindre incrédulité ou avec quelque religiosité ou dogme que ce soit, et que vous restiez avec Dieu, demeurez simplement avec elle, elle vous portera au travers du brouillard et vous fera sortir. Oui! restez simplement avec cette foi.
+
+21 La Bible dit, dans l’Apocalypse, que: “L’antichrist, dans les derniers jours…”. Voyez ces églises qui se rassemblent. “L’antichrist, dans les derniers jours, séduira tous ceux qui sont sur cette terre et dont les noms n’ont pas été écrits dans le Livre de Vie de l’Agneau depuis la fondation du monde”. Quand votre nom a-t-il été inscrit dans le Livre de Vie? Avant même qu’il y ait un monde, vous avez été choisi pour recevoir le Saint-Esprit dans cet âge-ci!
+
 22 Et je m’associe à ce qu’a écrit Eddie Pruitt:
-    J’ai ancré mon âme dans un havre de repos,
-    Pour ne plus voguer sur l’onde sauvage.
-    Même si la tempête balaie les abîmes tourmentés,
-    En Jésus, je suis à jamais en sécurité.
-23 Il n’y a rien qui puisse nous séparer. Dieu ne peut revenir sur Sa Parole. Et s’Il est infini et
-vous donne le Saint-Esprit ici, sachant qu’Il va vous délivrer ici, quelle oeuvre est-Il en train
-d’accomplir? Si vous n’êtes pas trompé dans votre expérience, si vous avez le Saint-Esprit… Mais
-prenez garde à ce que dit la Bible, dans Ephésiens 4.30: “N’attristez pas le Saint-Esprit de Dieu
-par lequel vous avez été scellés jusqu’au…”. — Jusqu’au prochain réveil? Cela sonne-t-il juste?
-“Vous avez été scellés jusqu’au jour de votre Rédemption!”. Combien de temps? — jusqu’à votre
-rédemption!
-24 Prenez un wagon de marchandises; vous le chargez, et quand il est complètement chargé…
+> J’ai ancré mon âme dans un havre de repos,
+> Pour ne plus voguer sur l’onde sauvage.
+> Même si la tempête balaie les abîmes tourmentés,
+> En Jésus, je suis à jamais en sécurité.
 
-    http://www.cmpp.ch
+23 Il n’y a rien qui puisse nous séparer. Dieu ne peut revenir sur Sa Parole. Et s’Il est infini et vous donne le Saint-Esprit ici, sachant qu’Il va vous délivrer ici, quelle oeuvre est-Il en train d’accomplir? Si vous n’êtes pas trompé dans votre expérience, si vous avez le Saint-Esprit… Mais prenez garde à ce que dit la Bible, dans Ephésiens 4.30: “N’attristez pas le Saint-Esprit de Dieu par lequel vous avez été scellés jusqu’au…”. — Jusqu’au prochain réveil? Cela sonne-t-il juste? “Vous avez été scellés jusqu’au jour de votre Rédemption!”. Combien de temps? — jusqu’à votre rédemption!
 
-LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS 5
-Mais on ne peut pas encore le fermer; il faut d’abord que l’inspecteur vienne. Et il le contrôle, et
-vérifie s’il ne reste rien qui pourrait bouger. Le wagon pourrait être entièrement chargé, mais s’il y a
-du flottement, il faut recommencer le chargement. Et c’est là le problème, et pourquoi beaucoup
-d’entre nous n’ont pas le Saint-Esprit; quand l’Inspecteur passe Il trouve beaucoup de flottement
-(Vous voyez?), et c’est pourquoi Il ne pourra pas encore apposer Son sceau.
-25 Un grand théologien est venu me voir il y a trois ou quatre ans, et il m’a dit: «Je voudrais vous
-demander quelque chose. Abraham a cru Dieu, et cela lui fut imputé à justice».
+24 Prenez un wagon de marchandises; vous le chargez, et quand il est complètement chargé… Mais on ne peut pas encore le fermer; il faut d’abord que l’inspecteur vienne. Et il le contrôle, et vérifie s’il ne reste rien qui pourrait bouger. Le wagon pourrait être entièrement chargé, mais s’il y a du flottement, il faut recommencer le chargement. Et c’est là le problème, et pourquoi beaucoup d’entre nous n’ont pas le Saint-Esprit; quand l’Inspecteur passe Il trouve beaucoup de flottement (Vous voyez?), et c’est pourquoi Il ne pourra pas encore apposer Son sceau.
+
+25 Un grand théologien est venu me voir il y a trois ou quatre ans, et il m’a dit: «Je voudrais vous demander quelque chose. Abraham a cru Dieu, et cela lui fut imputé à justice».
 26 — «C’est vrai», ai-je répondu.
 27 — «Que pouvait-il faire de plus que croire?», dit-il.
 28 Je lui répondis: «C’est tout ce qu’il pouvait faire».
-29 Il me dit: «Alors, où vous mène votre histoire de Saint-Esprit en dehors de cela?». Vous
-savez, c’était un Baptiste. Il me dit: «Où mettez-vous votre Saint-Esprit? Si l’homme croit! Dès
-l’instant où vous croyez, vous avez reçu le Saint-Esprit».
-30 Je lui répondis: «Pas du tout! Vous introduisez une contradiction dans les Ecritures, et les
-Ecritures ne peuvent se contredire. Paul a demandé: “Avez-vous reçu le Saint-Esprit DEPUIS que
-vous avez cru?”».
+29 Il me dit: «Alors, où vous mène votre histoire de Saint-Esprit en dehors de cela?». Vous savez, c’était un Baptiste. Il me dit: «Où mettez-vous votre Saint-Esprit? Si l’homme croit! Dès l’instant où vous croyez, vous avez reçu le Saint-Esprit».
+30 Je lui répondis: «Pas du tout! Vous introduisez une contradiction dans les Ecritures, et les Ecritures ne peuvent se contredire. Paul a demandé: “Avez-vous reçu le Saint-Esprit DEPUIS que vous avez cru?”».
 31 Et il me dit: «Eh bien…».
-32 Je dis: “Il est vrai qu’Abraham, le père de la foi, donna… il avait la promesse de Dieu, et crut
-Dieu, et cela lui fut imputé à justice; mais Dieu lui donna le sceau de la circoncision comme
-signe qu’Il avait agréé sa foi”.
-33 Donc, s’Il ne vous a encore jamais scellé du Saint-Esprit, s’Il n’a encore jamais agréé votre foi
-en Lui, c’est qu’il y a du flottement en vous. Vous voyez? Vous pouvez très bien croire, c’est vrai,
-mais il y a beaucoup de flottement. Mais, lorsque chaque chose est à sa place, alors Il vous
-scelle du Saint-Esprit jusqu’au jour de votre rédemption. C’est la confirmation que Dieu a
-agrée la foi que vous professez avoir en Lui.
-34 Abraham a professé sa foi, et Dieu a dit: “Je vais te donner un signe prouvant que Je t’ai
-agréé”. Et Il lui donna le signe de la circoncision.
-35 C’est pourquoi, lorsque vous recevez Christ comme Sauveur personnel en croyant en Lui et
-que vous Lui demandez de purifier votre vie, alors, quand Il revient avec le Saint-Esprit vous
-donner le signe du Saint-Esprit, vous êtes scellé jusqu’au jour de votre rédemption.
-36 Si ce wagon de marchandises est mal chargé… Après qu’il ait été complètement chargé, on
-ferme la porte et on y appose un sceau, et il est scellé jusqu’à sa destination. La compagnie
-ferroviaire vous condamnerait à la prison à vie si vous brisiez ce sceau! Il ne peut être brisé. Il est
-scellé jusqu’à sa destination; et que personne n’essaie pendant ce temps de l’ouvrir, de regarder à
-l’intérieur, de l’examiner et de le passer en revue, ni de jeter quelques objets, ou d’ajouter d’autres
-choses. Non!
-37 Cette église-là dira sur tel dogme: “Ceci n’est pas bon, cela n’est pas bon”. Quand Dieu vous
-donne le Saint-Esprit, c’est réglé! Vous savez où vous en êtes, vous savez ce qui est arrivé, et
-vous êtes scellé pour tout le voyage jusqu’au jour de votre rédemption, qui est la destination de
-votre voyage terrestre. Oh! Cela devrait donner à chacun la foi, la foi pour croire en Dieu et se
-lever dans la puissance du Saint-Esprit.
-38 Revenons à ces vierges qui n’avaient pas le Saint-Esprit; vous vous souvenez que la seule
-chose qui leur manquait était d’avoir de l’huile dans leurs lampes. Est-ce exact? La Bible dit que
-l’huile symbolise le Saint-Esprit, c’est pourquoi nous oignons les malades avec de l’huile, parce
-que c’est un symbole du Saint-Esprit. Et si le Saint-Esprit n’est pas descendu sur elles, elles ne
-L’ont pas. Et quand Il vient elles disent aux vierges qui ont l’huile…
-39 Vous comprenez, elles sont restées en arrière dans l’âge de l’église; certaines d’entre elles
-étaient de braves personnes, mais elles n’étaient pas dans la Lumière de l’Etoile, c’est-à-dire
-que leur mèche ne trempait pas dans l’huile. Vous voyez, cette église était dehors. Elle était
-sortie; elle s’était détachée. Jean disait en son temps: “Ils se sont séparés de nous, n’ayant
-apparemment pas la foi”. Vous voyez, ils s’étaient éloignés d’eux: “Ils sont sortis du milieu de
-nous, mais ils n’étaient pas des nôtres”. Or, cela a commencé au tout début de ce premier âge
-d’Ephèse, et a continué jusqu’à l’âge actuel. Ce qui est arrivé au cours de chacun de ces âges
-s’est reporté dans les âges suivants jusqu’aujourd’hui. Dans un instant, nous allons entrer
+32 Je dis: “Il est vrai qu’Abraham, le père de la foi, donna… il avait la promesse de Dieu, et crut Dieu, et cela lui fut imputé à justice; mais Dieu lui donna le sceau de la circoncision comme signe qu’Il avait agréé sa foi”.
 
-        http://www.cmpp.ch
+33 Donc, s’Il ne vous a encore jamais scellé du Saint-Esprit, s’Il n’a encore jamais agréé votre foi en Lui, c’est qu’il y a du flottement en vous. Vous voyez? Vous pouvez très bien croire, c’est vrai, mais il y a beaucoup de flottement. Mais, lorsque chaque chose est à sa place, alors Il vous scelle du Saint-Esprit jusqu’au jour de votre rédemption. C’est la confirmation que Dieu a agrée la foi que vous professez avoir en Lui.
 
-LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS 6
-profondément dans ce sujet.
-40 Remarquons donc que ces vierges sont allées là où il y a des pleurs, des gémissements et
-des grincements de dents.
-41 Laissez-moi vous dire ceci, mon cher frère bien-aimé, parce que d’habitude, quand je viens
-dans cette église-ci, je viens seulement pour un service de guérison et de prière pour les malades;
-autrement, je suis ici ou là dans le pays. Mais c’est le moment, comme je vous le dis depuis
-longtemps, de mettre vos sentiments dans votre poche. Nous voulons maintenant nous rencontrer
-les uns les autres dans l’honnêteté et la vérité, parce que nous sommes dans les derniers jours.
-C’est vrai!
-42 Et c’est là où vous, chers frères Nazaréens et Pèlerins de la Sainteté qui êtes sous la
-sanctification, vous vous êtes trompés. Vous voyez? Saviez-vous que Judas Iscariot en est venu
-jusqu’à ce point-là? Judas a cru au Seigneur Jésus-Christ comme Sauveur, L’a accepté comme
-Sauveur. Et il fut aussi sanctifié. Il fut sanctifié dans Jean 17.17, lorsque Jésus dit: “Père,
-sanctifie-les par la Vérité. Ta Parole est la Vérité”. Et Il était la Parole.
-43 Dans Matthieu 10, il leur fut donné le pouvoir de guérir les malades, de ressusciter les morts
-et de chasser les démons. Ils sont allés dans tous les endroits du pays chasser les démons, et ils
-sont revenus se réjouissant, criant et louant Dieu. Mais Jésus leur dit: “Ne vous réjouissez pas de
-ce que les esprits vous sont soumis; mais réjouissez-vous de ce que vos noms sont écrits dans le
-livre de vie”. N’est-ce pas vrai? Et Judas était avec eux. Judas était avec eux, et c’était environ un
-an et six mois avant que Jésus soit crucifié.
-44 Mais, quand ce fut le temps de Pentecôte, le temps où Judas aurait dû recevoir le
-Saint-Esprit, c’est là qu’il montra sa couleur. Il renia Jésus et Le trahit. Et c’est jusque là que cet
-esprit arrive; au travers de Luther, et de Wesley, cette église a été élevée jusqu’à la sanctification
-avec une vie virginale, pure, propre, sainte, belle; c’étaient les gens les meilleurs que vous ayez
-jamais rencontrés. Mais, lorsqu’ils arrivent au point de parler en langues et de recevoir le
-Saint-Esprit, les Nazaréens, les Pèlerins de la Sainteté, les Méthodistes indépendants disent:
-“C’est du diable!”. Et à ce moment même, vous avez blasphémé contre le Saint-Esprit, et
-vous êtes exclus pour toujours. “Quiconque parlera contre le Fils de l’homme, il lui sera
-pardonné, mais quiconque parlera contre le Saint-Esprit, il ne lui sera pardonné ni dans ce siècle,
-ni dans le siècle à venir” (Mat. 12.32).
-45 Rappelez-vous que tous les disciples parlaient en langues. Jésus-Christ est mort sur la croix,
-parlant en langues. Alors, si vous ne pouvez pas avoir de relations, et être en bons termes
-avec eux de ce côté-ci, qu’en sera-t-il de l’autre côté? Et si ceux-ci sont des démons, alors
-ceux-là l’étaient aussi. C’est donc ici que vous pouvez voir où il a montré sa couleur. Voici ces
-vierges qui sont aussi pures que les autres, qui ont une vie pure. Si on prend les églises à
-l’ancienne mode des Nazaréens et des Pèlerins de la Sainteté, qui croyaient vraiment dans la
-sanctification, on ne pourrait rien trouver à redire dans leur vie; elles étaient aussi pures qu’il est
-possible de l’être. Ce serait une bonne chose, si nous pouvions vivre comme elles! C’est vrai, il
-faut y parvenir.
-46 Nous savons que chez les Pentecôtistes nous avons encore bien plus d’imitateurs. C’est vrai.
-Mais quand vous voyez un faux dollar, vous savez qu’il a été fait à partir d’un vrai. C’est la vérité!
-Et il y a un vrai Saint-Esprit, un Saint-Esprit véritable qui parle en langues et montre des
-signes et des prodiges, et cela dure depuis le jour de Pentecôte. De même, il faut qu’il y ait
-l’imitateur. Il faut qu’il y ait une mauvaise femme, qui ne vaut rien, pour donner tout son éclat à la
-vraie femme. Il faut qu’il y ait la nuit et de profondes ténèbres, pour montrer que la lumière du soleil
-est glorieuse. C’est vrai. Il faut être malade pour apprécier la santé. C’est une loi du pour et du
-contre; cela a toujours été et le sera toujours, aussi longtemps qu’il y aura un temps.
+34 Abraham a professé sa foi, et Dieu a dit: “Je vais te donner un signe prouvant que Je t’ai agréé”. Et Il lui donna le signe de la circoncision.
+
+35 C’est pourquoi, lorsque vous recevez Christ comme Sauveur personnel en croyant en Lui et que vous Lui demandez de purifier votre vie, alors, quand Il revient avec le Saint-Esprit vous donner le signe du Saint-Esprit, vous êtes scellé jusqu’au jour de votre rédemption.
+
+36 Si ce wagon de marchandises est mal chargé… Après qu’il ait été complètement chargé, on ferme la porte et on y appose un sceau, et il est scellé jusqu’à sa destination. La compagnie ferroviaire vous condamnerait à la prison à vie si vous brisiez ce sceau! Il ne peut être brisé. Il est scellé jusqu’à sa destination; et que personne n’essaie pendant ce temps de l’ouvrir, de regarder à l’intérieur, de l’examiner et de le passer en revue, ni de jeter quelques objets, ou d’ajouter d’autres choses. Non!
+
+37 Cette église-là dira sur tel dogme: “Ceci n’est pas bon, cela n’est pas bon”. Quand Dieu vous donne le Saint-Esprit, c’est réglé! Vous savez où vous en êtes, vous savez ce qui est arrivé, et vous êtes scellé pour tout le voyage jusqu’au jour de votre rédemption, qui est la destination de votre voyage terrestre. Oh! Cela devrait donner à chacun la foi, la foi pour croire en Dieu et se lever dans la puissance du Saint-Esprit.
+
+38 Revenons à ces vierges qui n’avaient pas le Saint-Esprit; vous vous souvenez que la seule chose qui leur manquait était d’avoir de l’huile dans leurs lampes. Est-ce exact? La Bible dit que l’huile symbolise le Saint-Esprit, c’est pourquoi nous oignons les malades avec de l’huile, parce que c’est un symbole du Saint-Esprit. Et si le Saint-Esprit n’est pas descendu sur elles, elles ne L’ont pas. Et quand Il vient elles disent aux vierges qui ont l’huile…
+
+39 Vous comprenez, elles sont restées en arrière dans l’âge de l’église; certaines d’entre elles étaient de braves personnes, mais elles n’étaient pas dans la Lumière de l’Etoile, c’est-à-dire que leur mèche ne trempait pas dans l’huile. Vous voyez, cette église était dehors. Elle était sortie; elle s’était détachée. Jean disait en son temps: “Ils se sont séparés de nous, n’ayant apparemment pas la foi”. Vous voyez, ils s’étaient éloignés d’eux: “Ils sont sortis du milieu de nous, mais ils n’étaient pas des nôtres”. Or, cela a commencé au tout début de ce premier âge d’Ephèse, et a continué jusqu’à l’âge actuel. Ce qui est arrivé au cours de chacun de ces âges s’est reporté dans les âges suivants jusqu’aujourd’hui. Dans un instant, nous allons entrer profondément dans ce sujet.
+
+40 Remarquons donc que ces vierges sont allées là où il y a des pleurs, des gémissements et des grincements de dents.
+
+41 Laissez-moi vous dire ceci, mon cher frère bien-aimé, parce que d’habitude, quand je viens dans cette église-ci, je viens seulement pour un service de guérison et de prière pour les malades; autrement, je suis ici ou là dans le pays. Mais c’est le moment, comme je vous le dis depuis longtemps, de mettre vos sentiments dans votre poche. Nous voulons maintenant nous rencontrer les uns les autres dans l’honnêteté et la vérité, parce que nous sommes dans les derniers jours. C’est vrai!
+
+42 Et c’est là où vous, chers frères Nazaréens et Pèlerins de la Sainteté qui êtes sous la sanctification, vous vous êtes trompés. Vous voyez? Saviez-vous que Judas Iscariot en est venu jusqu’à ce point-là? Judas a cru au Seigneur Jésus-Christ comme Sauveur, L’a accepté comme Sauveur. Et il fut aussi sanctifié. Il fut sanctifié dans Jean 17.17, lorsque Jésus dit: “Père, sanctifie-les par la Vérité. Ta Parole est la Vérité”. Et Il était la Parole.
+
+43 Dans Matthieu 10, il leur fut donné le pouvoir de guérir les malades, de ressusciter les morts et de chasser les démons. Ils sont allés dans tous les endroits du pays chasser les démons, et ils sont revenus se réjouissant, criant et louant Dieu. Mais Jésus leur dit: “Ne vous réjouissez pas de ce que les esprits vous sont soumis; mais réjouissez-vous de ce que vos noms sont écrits dans le livre de vie”. N’est-ce pas vrai? Et Judas était avec eux. Judas était avec eux, et c’était environ un an et six mois avant que Jésus soit crucifié.
+
+44 Mais, quand ce fut le temps de Pentecôte, le temps où Judas aurait dû recevoir le Saint-Esprit, c’est là qu’il montra sa couleur. Il renia Jésus et Le trahit. Et c’est jusque là que cet esprit arrive; au travers de Luther, et de Wesley, cette église a été élevée jusqu’à la sanctification avec une vie virginale, pure, propre, sainte, belle; c’étaient les gens les meilleurs que vous ayez jamais rencontrés. Mais, lorsqu’ils arrivent au point de parler en langues et de recevoir le Saint-Esprit, les Nazaréens, les Pèlerins de la Sainteté, les Méthodistes indépendants disent: “C’est du diable!”. Et à ce moment même, vous avez blasphémé contre le Saint-Esprit, et vous êtes exclus pour toujours. “Quiconque parlera contre le Fils de l’homme, il lui sera pardonné, mais quiconque parlera contre le Saint-Esprit, il ne lui sera pardonné ni dans ce siècle, ni dans le siècle à venir” (Mat. 12.32).
+
+45 Rappelez-vous que tous les disciples parlaient en langues. Jésus-Christ est mort sur la croix, parlant en langues. Alors, si vous ne pouvez pas avoir de relations, et être en bons termes avec eux de ce côté-ci, qu’en sera-t-il de l’autre côté? Et si ceux-ci sont des démons, alors ceux-là l’étaient aussi. C’est donc ici que vous pouvez voir où il a montré sa couleur. Voici ces vierges qui sont aussi pures que les autres, qui ont une vie pure. Si on prend les églises à l’ancienne mode des Nazaréens et des Pèlerins de la Sainteté, qui croyaient vraiment dans la sanctification, on ne pourrait rien trouver à redire dans leur vie; elles étaient aussi pures qu’il est possible de l’être. Ce serait une bonne chose, si nous pouvions vivre comme elles! C’est vrai, il faut y parvenir.
+
+46 Nous savons que chez les Pentecôtistes nous avons encore bien plus d’imitateurs. C’est vrai. Mais quand vous voyez un faux dollar, vous savez qu’il a été fait à partir d’un vrai. C’est la vérité! Et il y a un vrai Saint-Esprit, un Saint-Esprit véritable qui parle en langues et montre des signes et des prodiges, et cela dure depuis le jour de Pentecôte. De même, il faut qu’il y ait l’imitateur. Il faut qu’il y ait une mauvaise femme, qui ne vaut rien, pour donner tout son éclat à la vraie femme. Il faut qu’il y ait la nuit et de profondes ténèbres, pour montrer que la lumière du soleil est glorieuse. C’est vrai. Il faut être malade pour apprécier la santé. C’est une loi du pour et du contre; cela a toujours été et le sera toujours, aussi longtemps qu’il y aura un temps.
+
 47 Voilà où l’Eglise en est arrivée.
-48 Jésus n’a-t-Il pas dit, dans Matthieu 24, que dans les derniers jours, ces deux esprits seraient
-si proches l’un de l’autre que cela séduirait même les élus, s’il était possible? Vous voyez? Mais
-celui qui a été choisi depuis la fondation du monde a la Vie éternelle. La Vie éternelle, on ne peut
-pas s’en débarrasser. Elle est aussi éternelle que Dieu, et vous ne pouvez pas davantage cesser
-d’exister, que Dieu ne peut cesser d’exister. C’est vrai! C’est parce que vous êtes une partie de
-Dieu. Vous êtes un fils et une fille de Dieu, et votre vie a changé; vous êtes une partie de Dieu,
-vous avez la vie éternelle. Oh, je L’aime! Pas vous?
 
-        http://www.cmpp.ch
+48 Jésus n’a-t-Il pas dit, dans Matthieu 24, que dans les derniers jours, ces deux esprits seraient si proches l’un de l’autre que cela séduirait même les élus, s’il était possible? Vous voyez? Mais celui qui a été choisi depuis la fondation du monde a la Vie éternelle. La Vie éternelle, on ne peut pas s’en débarrasser. Elle est aussi éternelle que Dieu, et vous ne pouvez pas davantage cesser d’exister, que Dieu ne peut cesser d’exister. C’est vrai! C’est parce que vous êtes une partie de Dieu. Vous êtes un fils et une fille de Dieu, et votre vie a changé; vous êtes une partie de Dieu, vous avez la vie éternelle. Oh, je L’aime! Pas vous?
 
-LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS 7
-49 Maintenant, quelqu’un m’a remis une note, c’est juste une petite question. Cela ne nous
-demandera pas trop de temps d’y répondre. Et souvenez-vous, chaque fois que vous posez une
-question, je ferai de mon mieux pour y répondre, si je le peux. Mais voici une question importante:
-On voudrait savoir s’il est incorrect pour une femme de témoigner, ou de chanter, ou de
-donner des messages en langues, d’interpréter les messages, ou de donner une prophétie
-dans l’Eglise.
-50 Non, ce n’est pas incorrect, aussi longtemps que tout se passe dans l’ordre. Vous voyez?
-L’Eglise se tient dans l’ordre. La vraie manière de faire pour ceux qui parlent en langues, donnent
-des messages, etc., est de les donner avant la prédication, mais jamais pendant, parce que le
-Saint-Esprit n’agit qu’à un endroit à la fois, comme Paul le dit ici. Mais les femmes ont le don de
-prophétie, le don des langues, de l’interprétation et tous les autres, mais elles ne doivent pas
-prêcher. Elles ne doivent pas être des prédicateurs. Il leur est interdit de prêcher dans les
-églises, c’est vrai, de prendre la place de l’homme ou d’être docteur ou quoi que ce soit
-dans l’Eglise. Mais pour ce qui est des dons, la femme les a tous, et peut posséder l’un ou l’autre
-des neuf dons spirituels selon 1 Corinthiens 12, et il n’y a rien qui empêche que son message soit
-donné à sa place. Vous voyez, chaque message attend le moment propice.
-51 S’il y a quelqu’un qui parle en langues, et qu’il n’y ait pas d’interprète, qu’il se taise jusqu’à ce
-qu’il y ait un interprète. Vous voyez? D’habitude, ces messages sont donnés juste avant la
-réunion. Alors, lorsque le prédicateur s’avance, lequel est un prophète du Nouveau Testament,
-Dieu commence à agir au travers de lui. Puis, quand il a terminé, alors un message commence,
-puis un autre; tout se passe toujours dans l’ordre, toujours! Cependant, une femme a vraiment le
-droit d’exercer ces dons.
+49 Maintenant, quelqu’un m’a remis une note, c’est juste une petite question. Cela ne nous demandera pas trop de temps d’y répondre. Et souvenez-vous, chaque fois que vous posez une question, je ferai de mon mieux pour y répondre, si je le peux. Mais voici une question importante:
+> On voudrait savoir s’il est incorrect pour une femme de témoigner, ou de chanter, ou de donner des messages en langues, d’interpréter les messages, ou de donner une prophétie dans l’Eglise.
+
+50 Non, ce n’est pas incorrect, aussi longtemps que tout se passe dans l’ordre. Vous voyez? L’Eglise se tient dans l’ordre. La vraie manière de faire pour ceux qui parlent en langues, donnent des messages, etc., est de les donner avant la prédication, mais jamais pendant, parce que le Saint-Esprit n’agit qu’à un endroit à la fois, comme Paul le dit ici. Mais les femmes ont le don de prophétie, le don des langues, de l’interprétation et tous les autres, mais elles ne doivent pas prêcher. Elles ne doivent pas être des prédicateurs. Il leur est interdit de prêcher dans les églises, c’est vrai, de prendre la place de l’homme ou d’être docteur ou quoi que ce soit dans l’Eglise. Mais pour ce qui est des dons, la femme les a tous, et peut posséder l’un ou l’autre des neuf dons spirituels selon 1 Corinthiens 12, et il n’y a rien qui empêche que son message soit donné à sa place. Vous voyez, chaque message attend le moment propice.
+
+51 S’il y a quelqu’un qui parle en langues, et qu’il n’y ait pas d’interprète, qu’il se taise jusqu’à ce qu’il y ait un interprète. Vous voyez? D’habitude, ces messages sont donnés juste avant la réunion. Alors, lorsque le prédicateur s’avance, lequel est un prophète du Nouveau Testament, Dieu commence à agir au travers de lui. Puis, quand il a terminé, alors un message commence, puis un autre; tout se passe toujours dans l’ordre, toujours! Cependant, une femme a vraiment le droit d’exercer ces dons.
+
 52 J’aimerais encore prendre un peu de temps pour répondre à ceci; je vais lire l’en-tête:
-LA TRADUCTION DE LA BIBLE PAR TROIS CONFESSIONS DE FOI EST COMMENCEE.
-Washington, le 15 octobre. Des théologiens Catholiques, Protestants et Juifs, travaillant en
-équipe, ont commencé une nouvelle traduction commune des Ecritures qui pourrait
-s’avérer être la Bible de référence canonique tant attendue.
-53 Il y a d’autres choses que j’aimerais étudier un peu, là-dedans, avant de faire l’introduction. En
-d’autres termes, vous voyez exactement de quoi nous parlons, ce que l’Ecriture a dit qui se
-passerait dans ces jours: qu’ils s’uniraient ensemble pour former une image à la bête.
-Parfaitement! Ils ont essayé, et y ont travaillé, et maintenant, ils ont la meilleure occasion qu’ils
-aient jamais eue de la présenter, parce que le temps est là. Et c’est la raison pour laquelle
-j’apporte ces messages prophétiques, parce que je pense que c’est le temps opportun.
-54 A cause de ceux qui viendront tous les soirs, nous essaierons de commencer tôt et finir tôt. Si
-je n’arrive pas à terminer le sujet, alors j’annoncerai que je le terminerai le lendemain matin. Si
-nous n’arrivons pas jusqu’au verset 20 ce soir, nous continuerons demain matin à dix heures.
-Nous vous le ferons savoir à la fin de la réunion.
-55 Puis, demain soir, pour commencer, nous aborderons l’église d’Ephèse, et nous poursuivrons
-pendant sept soirées: Ephèse, Smyrne, Pergame, Thyatire, Sardes, Philadelphie, et dimanche,
-Laodicée.
-56 Quand je vois ces glorieux joyaux parsemés le long du chemin, il m’est bien difficile de ne pas
-y toucher jusque là. Voyant toutes ces choses et sentant l’Esprit qui apporte la nourriture au
-peuple, cela me donne envie de sauter dedans rapidement, et de dire quelque chose là-dessus;
-mais je dois me retenir et mettre chaque chose à sa place et en son temps. Si vous ne pouvez
-venir le soir, ne manquez pas de vous procurer les bandes ou tout autre moyen pour avoir ce
-message, parce que je voudrais que cela aille partout. Et j’ai fait ceci parce que je me sens conduit
-par le Saint-Esprit à le faire ainsi; c’est la seule raison pour laquelle je le fais. Et si je ne croyais
-pas que cela allait aider l’Eglise… Souvenez-vous aujourd’hui que l’heure va bientôt venir où nous
-ne pourrons plus tenir ces réunions. C’est pourquoi il faut le faire maintenant, pendant que nous le
-pouvons. Nous ne savons pas à quel moment ils vont arrêter ceci.
-57 Alors, toutes les églises s’uniront et donneront sa forme à la tête de la confédération des
-églises. Nous en avons un exemple avec l’ONU qui a un grand bâtiment dans lequel chaque pays
-est représenté! Et il faudra soit appartenir à l’une de ces dénominations, soit être exclu de la
-confédération des églises. Le temps est venu pour nous de montrer nos couleurs et d’être
-sûrs de ce que nous savons (et non plus de nous contenter de suppositions), mais de connaître
+> LA TRADUCTION DE LA BIBLE PAR TROIS CONFESSIONS DE FOI EST COMMENCEE.
+> Washington, le 15 octobre. Des théologiens Catholiques, Protestants et Juifs, travaillant en équipe, ont commencé une nouvelle traduction commune des Ecritures qui pourrait s’avérer être la Bible de référence canonique tant attendue.
 
-        http://www.cmpp.ch
+53 Il y a d’autres choses que j’aimerais étudier un peu, là-dedans, avant de faire l’introduction. En d’autres termes, vous voyez exactement de quoi nous parlons, ce que l’Ecriture a dit qui se passerait dans ces jours: qu’ils s’uniraient ensemble pour former une image à la bête. Parfaitement! Ils ont essayé, et y ont travaillé, et maintenant, ils ont la meilleure occasion qu’ils aient jamais eue de la présenter, parce que le temps est là. Et c’est la raison pour laquelle j’apporte ces messages prophétiques, parce que je pense que c’est le temps opportun.
 
-    LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS    8
-le AINSI DIT LE SEIGNEUR sur lequel nous nous tenons. La petite Eglise a toujours été
-minoritaire, c’est un tout petit groupe, un petit fil, comme un cordon rouge qui se faufile dans toute
-la Bible, mais c’est toujours l’Eglise. Et nous devons nous en souvenir.
-58 Juste un petit commentaire maintenant, avant de reprendre la lecture. Ce matin, nous avons
-considéré la Divinité Suprême de la Révélation de Jésus-Christ, Dieu nous Le révélant ce matin
-comme la Divinité suprême: le Grand JE SUIS (non pas “J’étais” ou “Je serai”), JE SUIS, toujours.
-Et nous remarquons, dans ce premier chapitre de l’Apocalypse… De quoi est-ce la révélation? De
-Jésus-Christ. Quelle est la première chose qu’il nous révèle de Lui-même? Le Dieu du Ciel. Non
-pas un dieu trinitaire, mais un seul Dieu. Un Dieu unique, et il Se révèle de cette façon dans le
-premier chapitre de l’Apocalypse. Il en parle quatre fois dans le premier chapitre, afin qu’il n’y ait
-pas d’erreur. La première chose que vous devez savoir: C’est qu’il n’est pas un prophète, Il n’est
-pas un dieu junior, il n’est pas un dieu secondaire, Il EST DIEU! Il est Dieu. Ainsi donc, la
-révélation a été donnée, et nous continuerons avec elle ce soir jusqu’à ce que nous arrivions à la
-septuple personnalité de Son être.
-59 Oh, que Dieu nous aide tandis que nous enseignons ces Paroles. Je les ai étudiées du point
-de vue historique, mais attendez que je me trouve en chaire avec l’inspiration! Car je sens que
-nous nous tenons ensemble dans les lieux célestes en Jésus-Christ, et que votre esprit, votre part
-qui est la langue de Feu, le Saint-Esprit qui est sur vous, passe de l’un à l’autre; Il allume le Grand
-Corps de Dieu et L’enflamme… c’est là où se trouve la révélation.
-60 Maintenant, ce dont nous parlons, cette question qui m’a été posée: “Est-ce que les
-femmes… etc.?”, c’est exactement ce qui a introduit le chaos dans l’église dès le
-commencement; ils ont ôté toutes les choses solennelles de l’auditoire pour les placer
-exclusivement en chaire. Mais Dieu est le Dieu de toute l’assemblée! Il agit dans chaque être
-humain; Il vit dans tout coeur dans lequel Il peut entrer, Il trouve ceux qui ont les dons, et agit
-au travers d’eux. Mais si le diable ne peut pas les avoir même sur un seul point, alors il vient faire
-un gros agglomérat sans valeur, et disperse le peuple. Comme disait Paul: “Quand vous vous
-réunissez, si tous parlent en langues, et qu’un ignorant entre, ne va-t-il pas dire: Vous êtes fous,
-vous êtes insensés!”? Si l’on parle en langues et tout le reste, dans le désordre, cela ne donnera
-rien. “Mais, dit-il, si quelqu’un prophétise et révèle les secrets du coeur, alors ils diront: Dieu est
-vraiment avec vous!”. Et si l’on parle en langues par révélation et en donne l’interprétation, quelque
-chose pour édifier l’église, alors toute l’église en est édifiée. Si Dieu parle au travers de quelqu’un
-dans une langue inconnue, et qu’il donne à un autre l’interprétation, disant qu’une certaine chose
-va arriver et que cette chose arrive exactement comme elle a été annoncée, alors c’est que
-l’Esprit du Seigneur est au milieu de vous. Oh, tendons à cela, chers amis, afin de maintenir ce
-feu!
-61 Maintenant, juste avant que nous prenions cette Ecriture qui est notre critère, je me demande
-si ce serait trop vous demander que de vous lever pour changer de position quelques instants,
-tandis que nous prions.
-62 Dieu Tout-puissant, qui as ressuscité le Seigneur Jésus d’entre les morts et nous L’a
-présenté, après dix-neuf cents ans, comme le Dieu infaillible du Ciel, nous Te remercions pour
-cela, et aussi pour Ta présence avec nous jour après jour dans notre marche quotidienne. Et nous
-sommes si heureux de savoir que, dans cette heure de confusion, où le monde ne sait que faire,
-creusant des trous dans la terre, et se retranchant derrière des murs de béton… mais, ô Dieu, ils
-ne peuvent se cacher de Ta colère! Il n’y a qu’un seul remède, Seigneur, un seul, et nous sommes
-si heureux de l’avoir accepté: “Lorsque je verrai le sang, je passerai au-dessus de vous”. Oh,
-comme nous sommes heureux ce soir de la protection pleinement suffisante du Sang de
-l’Agneau de Dieu, d’avoir ce Souverain Sacrificateur qui Se tient ce soir dans la gloire, faisant
-l’intercession à cause de la foi que nous professons. Nous sommes si heureux de L’avoir avec
-nous ce soir, le grand Prédicateur, le glorieux Saint-Esprit, le grand Dispensateur de l’onction, le
-grand Dispensateur de la Vie.
-63 Et maintenant, Seigneur notre Dieu, j’ai appelé ces gens à se réunir ce soir sous ce toit, non
-pas au nom de n’importe qui, mais au Nom de Jésus-Christ. Que l’Esprit qui dirigeait Son corps et
-Sa pensée et qui avait autorité sur Lui, vienne ce soir, interprète la Parole, prêche la Parole, et La
-donne à nos coeurs affamés tandis que nous nous attendons à Lui. Car nous le demandons dans
-Son Nom et pour Sa gloire. Amen! Vous pouvez vous asseoir.
+54 A cause de ceux qui viendront tous les soirs, nous essaierons de commencer tôt et finir tôt. Si je n’arrive pas à terminer le sujet, alors j’annoncerai que je le terminerai le lendemain matin. Si nous n’arrivons pas jusqu’au verset 20 ce soir, nous continuerons demain matin à dix heures. Nous vous le ferons savoir à la fin de la réunion.
 
-     http://www.cmpp.ch
+55 Puis, demain soir, pour commencer, nous aborderons l’église d’Ephèse, et nous poursuivrons pendant sept soirées: Ephèse, Smyrne, Pergame, Thyatire, Sardes, Philadelphie, et dimanche, Laodicée.
 
-    LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS    9
-64 Pour ceux qui ont leurs Bibles, nous prenons le Livre de l’Apocalypse au chapitre 1, dès le
-verset 9; prenez vos crayons et du papier, et j’essaierai de vous donner quelques dates et autres,
-au fur et à mesure que nous avançons.
-65 Notre prédication de ce matin était plutôt un sermon, dans lequel nous avons établi le
-fondement de la Divinité de la Révélation, Dieu Se révélant en Christ. Combien croient cela? Dieu
-fut révélé en Christ; Jéhovah fut révélé en Christ. Maintenant, où Dieu doit-Il être révélé? Dans
-Son Eglise, dans Son peuple, en nous! Le même Esprit, les mêmes oeuvres, la même
-manifestation, le même amour, la même clémence, la même longanimité, douceur, patience, paix,
-miséricorde, tout ce qui était en Christ est dans l’Eglise. Gardez ceci présent à l’esprit: tout ce que
-Dieu était, Il l’a versé en Christ (en Lui habitait corporellement la plénitude de la Divinité), et
-tout ce que Christ était, Il l’a versé dans l’Eglise. Dieu au-dessus de nous, Dieu avec nous,
-Dieu en nous. C’est la tri-unité de Dieu, Dieu manifesté de trois façons différentes: Père, Fils,
-Saint-Esprit.
-66 La révélation de l’Apocalypse montre qu’il n’est pas trois dieux, qu’Il n’est pas non plus
-découpé en trois morceaux. Mais Il est un seul Dieu qui était Dieu dans les jours de la
-dispensation du Père; Il était Dieu dans les jours de la dispensation du Fils, Il est Dieu dans les
-jours de la dispensation du Saint-Esprit; Il est le même Dieu. Non pas trois dieux différents, trois
-personnes, trois personnalités: Il est une seule Personne, une seule personnalité. Vous ne
-pouvez être une personnalité sans être une personne. Certains disent: “Il n’est pas trois
-personnes, mais Il est trois personnalités”. Vous ne pouvez faire cette distinction, car s’Il est une
-personnalité, Il est une personne; il faut une personne pour faire une personnalité. Donc Il est une
-seule Personne, une seule personnalité; le même hier, aujourd’hui et éternellement; l’Alpha et
-l’Oméga; Celui qui était, qui est, et qui vient. Oh, Il est simplement TOUT; j’aime cela!
-67 Observez Sa nature, Sa vie, Ses oeuvres. Cela devrait se manifester ici même dans ce
-tabernacle, comme cela se passait de Son temps (je ne dis pas ceci pour vous faire de la peine,
-Dieu m’en est témoin). Ce que je dis n’est pas seulement pour ici, mais pour le monde entier. J’en
-suis heureux! Alors, nous savons sur quoi nous nous tenons, parce que nous avons le même
-Esprit en nous, marchant avec nous et montrant qu’Il est ici. Ce n’est pas nous, c’est Lui; nous
-ne pouvons pas faire ces choses, c’est Dieu qui les fait. D’ailleurs, dans le monde scientifique, Il a
-permis que Sa photographie soit prise. Avec nous, en nous, autour de nous, au-dessus de
-nous, au travers de nous, agissant en nous et hors de nous. Oh, comme c’est merveilleux!
+56 Quand je vois ces glorieux joyaux parsemés le long du chemin, il m’est bien difficile de ne pas y toucher jusque là. Voyant toutes ces choses et sentant l’Esprit qui apporte la nourriture au peuple, cela me donne envie de sauter dedans rapidement, et de dire quelque chose là-dessus; mais je dois me retenir et mettre chaque chose à sa place et en son temps. Si vous ne pouvez venir le soir, ne manquez pas de vous procurer les bandes ou tout autre moyen pour avoir ce message, parce que je voudrais que cela aille partout. Et j’ai fait ceci parce que je me sens conduit par le Saint-Esprit à le faire ainsi; c’est la seule raison pour laquelle je le fais. Et si je ne croyais pas que cela allait aider l’Eglise… Souvenez-vous aujourd’hui que l’heure va bientôt venir où nous ne pourrons plus tenir ces réunions. C’est pourquoi il faut le faire maintenant, pendant que nous le pouvons. Nous ne savons pas à quel moment ils vont arrêter ceci.
+
+57 Alors, toutes les églises s’uniront et donneront sa forme à la tête de la confédération des églises. Nous en avons un exemple avec l’ONU qui a un grand bâtiment dans lequel chaque pays est représenté! Et il faudra soit appartenir à l’une de ces dénominations, soit être exclu de la confédération des églises. Le temps est venu pour nous de montrer nos couleurs et d’être sûrs de ce que nous savons (et non plus de nous contenter de suppositions), mais de connaître le AINSI DIT LE SEIGNEUR sur lequel nous nous tenons. La petite Eglise a toujours été minoritaire, c’est un tout petit groupe, un petit fil, comme un cordon rouge qui se faufile dans toute la Bible, mais c’est toujours l’Eglise. Et nous devons nous en souvenir.
+
+58 Juste un petit commentaire maintenant, avant de reprendre la lecture. Ce matin, nous avons considéré la Divinité Suprême de la Révélation de Jésus-Christ, Dieu nous Le révélant ce matin comme la Divinité suprême: le Grand JE SUIS (non pas “J’étais” ou “Je serai”), JE SUIS, toujours. Et nous remarquons, dans ce premier chapitre de l’Apocalypse… De quoi est-ce la révélation? De Jésus-Christ. Quelle est la première chose qu’il nous révèle de Lui-même? Le Dieu du Ciel. Non pas un dieu trinitaire, mais un seul Dieu. Un Dieu unique, et il Se révèle de cette façon dans le premier chapitre de l’Apocalypse. Il en parle quatre fois dans le premier chapitre, afin qu’il n’y ait pas d’erreur. La première chose que vous devez savoir: C’est qu’il n’est pas un prophète, Il n’est pas un dieu junior, il n’est pas un dieu secondaire, Il EST DIEU! Il est Dieu. Ainsi donc, la révélation a été donnée, et nous continuerons avec elle ce soir jusqu’à ce que nous arrivions à la septuple personnalité de Son être.
+
+59 Oh, que Dieu nous aide tandis que nous enseignons ces Paroles. Je les ai étudiées du point de vue historique, mais attendez que je me trouve en chaire avec l’inspiration! Car je sens que nous nous tenons ensemble dans les lieux célestes en Jésus-Christ, et que votre esprit, votre part qui est la langue de Feu, le Saint-Esprit qui est sur vous, passe de l’un à l’autre; Il allume le Grand Corps de Dieu et L’enflamme… c’est là où se trouve la révélation.
+
+60 Maintenant, ce dont nous parlons, cette question qui m’a été posée: “Est-ce que les femmes… etc.?”, c’est exactement ce qui a introduit le chaos dans l’église dès le commencement; ils ont ôté toutes les choses solennelles de l’auditoire pour les placer exclusivement en chaire. Mais Dieu est le Dieu de toute l’assemblée! Il agit dans chaque être humain; Il vit dans tout coeur dans lequel Il peut entrer, Il trouve ceux qui ont les dons, et agit au travers d’eux. Mais si le diable ne peut pas les avoir même sur un seul point, alors il vient faire un gros agglomérat sans valeur, et disperse le peuple. Comme disait Paul: “Quand vous vous réunissez, si tous parlent en langues, et qu’un ignorant entre, ne va-t-il pas dire: Vous êtes fous, vous êtes insensés!”? Si l’on parle en langues et tout le reste, dans le désordre, cela ne donnera rien. “Mais, dit-il, si quelqu’un prophétise et révèle les secrets du coeur, alors ils diront: Dieu est vraiment avec vous!”. Et si l’on parle en langues par révélation et en donne l’interprétation, quelque chose pour édifier l’église, alors toute l’église en est édifiée. Si Dieu parle au travers de quelqu’un dans une langue inconnue, et qu’il donne à un autre l’interprétation, disant qu’une certaine chose va arriver et que cette chose arrive exactement comme elle a été annoncée, alors c’est que l’Esprit du Seigneur est au milieu de vous. Oh, tendons à cela, chers amis, afin de maintenir ce feu!
+
+61 Maintenant, juste avant que nous prenions cette Ecriture qui est notre critère, je me demande si ce serait trop vous demander que de vous lever pour changer de position quelques instants, tandis que nous prions.
+
+62 Dieu Tout-puissant, qui as ressuscité le Seigneur Jésus d’entre les morts et nous L’a présenté, après dix-neuf cents ans, comme le Dieu infaillible du Ciel, nous Te remercions pour cela, et aussi pour Ta présence avec nous jour après jour dans notre marche quotidienne. Et nous sommes si heureux de savoir que, dans cette heure de confusion, où le monde ne sait que faire, creusant des trous dans la terre, et se retranchant derrière des murs de béton… mais, ô Dieu, ils ne peuvent se cacher de Ta colère! Il n’y a qu’un seul remède, Seigneur, un seul, et nous sommes si heureux de l’avoir accepté: “Lorsque je verrai le sang, je passerai au-dessus de vous”. Oh, comme nous sommes heureux ce soir de la protection pleinement suffisante du Sang de l’Agneau de Dieu, d’avoir ce Souverain Sacrificateur qui Se tient ce soir dans la gloire, faisant l’intercession à cause de la foi que nous professons. Nous sommes si heureux de L’avoir avec nous ce soir, le grand Prédicateur, le glorieux Saint-Esprit, le grand Dispensateur de l’onction, le grand Dispensateur de la Vie.
+
+63 Et maintenant, Seigneur notre Dieu, j’ai appelé ces gens à se réunir ce soir sous ce toit, non pas au nom de n’importe qui, mais au Nom de Jésus-Christ. Que l’Esprit qui dirigeait Son corps et Sa pensée et qui avait autorité sur Lui, vienne ce soir, interprète la Parole, prêche la Parole, et La donne à nos coeurs affamés tandis que nous nous attendons à Lui. Car nous le demandons dans Son Nom et pour Sa gloire. Amen! Vous pouvez vous asseoir.
+
+64 Pour ceux qui ont leurs Bibles, nous prenons le Livre de l’Apocalypse au chapitre 1, dès le verset 9; prenez vos crayons et du papier, et j’essaierai de vous donner quelques dates et autres, au fur et à mesure que nous avançons.
+
+65 Notre prédication de ce matin était plutôt un sermon, dans lequel nous avons établi le fondement de la Divinité de la Révélation, Dieu Se révélant en Christ. Combien croient cela? Dieu fut révélé en Christ; Jéhovah fut révélé en Christ. Maintenant, où Dieu doit-Il être révélé? Dans Son Eglise, dans Son peuple, en nous! Le même Esprit, les mêmes oeuvres, la même manifestation, le même amour, la même clémence, la même longanimité, douceur, patience, paix, miséricorde, tout ce qui était en Christ est dans l’Eglise. Gardez ceci présent à l’esprit: tout ce que Dieu était, Il l’a versé en Christ (en Lui habitait corporellement la plénitude de la Divinité), et tout ce que Christ était, Il l’a versé dans l’Eglise. Dieu au-dessus de nous, Dieu avec nous, Dieu en nous. C’est la tri-unité de Dieu, Dieu manifesté de trois façons différentes: Père, Fils, Saint-Esprit.
+
+66 La révélation de l’Apocalypse montre qu’il n’est pas trois dieux, qu’Il n’est pas non plus découpé en trois morceaux. Mais Il est un seul Dieu qui était Dieu dans les jours de la dispensation du Père; Il était Dieu dans les jours de la dispensation du Fils, Il est Dieu dans les jours de la dispensation du Saint-Esprit; Il est le même Dieu. Non pas trois dieux différents, trois personnes, trois personnalités: Il est une seule Personne, une seule personnalité. Vous ne pouvez être une personnalité sans être une personne. Certains disent: “Il n’est pas trois personnes, mais Il est trois personnalités”. Vous ne pouvez faire cette distinction, car s’Il est une personnalité, Il est une personne; il faut une personne pour faire une personnalité. Donc Il est une seule Personne, une seule personnalité; le même hier, aujourd’hui et éternellement; l’Alpha et l’Oméga; Celui qui était, qui est, et qui vient. Oh, Il est simplement TOUT; j’aime cela!
+
+67 Observez Sa nature, Sa vie, Ses oeuvres. Cela devrait se manifester ici même dans ce tabernacle, comme cela se passait de Son temps (je ne dis pas ceci pour vous faire de la peine, Dieu m’en est témoin). Ce que je dis n’est pas seulement pour ici, mais pour le monde entier. J’en suis heureux! Alors, nous savons sur quoi nous nous tenons, parce que nous avons le même Esprit en nous, marchant avec nous et montrant qu’Il est ici. Ce n’est pas nous, c’est Lui; nous ne pouvons pas faire ces choses, c’est Dieu qui les fait. D’ailleurs, dans le monde scientifique, Il a permis que Sa photographie soit prise. Avec nous, en nous, autour de nous, au-dessus de nous, au travers de nous, agissant en nous et hors de nous. Oh, comme c’est merveilleux!
+
 68 Autrefois, on chantait un petit chant:
-     JE SUIS Celui qui parla à Moïse dans le buisson ardent,
-     JE SUIS le Dieu d’Abraham, la Brillante Etoile du Matin,
-     JE SUIS la Rose de Saron; oh, d’où dites-vous que Je viens?
-     Connaissez-vous Mon Père, pouvez-vous dire Son Nom?
-     Qui dites-vous que Je suis, d’où dites-vous que Je viens?
-     Connaissez-vous Mon Père, pouvez-vous dire Son Nom?
-     JE SUIS l’Alpha et l’Oméga, le commencement et la fin,
-     JE SUIS la création tout entière, et Jésus est Mon Nombres 69 Oh, quelle merveille, la Révélation, l’Apocalypse! Mais rappelez-vous, vous ne pouvez L’avoir
-par l’intermédiaire des théologiens; Elle ne vient pas de cette façon! Cela ne peut venir qu’en tant
-que révélation. Le baptême d’eau au Nom de Jésus-Christ, ne peut être donné que par révélation.
-Seule une révélation peut nous faire connaître que Jésus et Dieu sont une seule et même
-Personne. La Bible entière est construite sur la Révélation. L’Eglise entière est construite sur la
-Révélation. Matthieu 16 dit: “Et moi aussi, je te dis que tu es Pierre; et sur ce roc (la révélation
-spirituelle) je bâtirai mon assemblée, et les portes du hadès ne prévaudront pas contre elle”. Nous
-mettons quiconque au défi de nous montrer, n’importe où, dans l’histoire ou dans l’Ecriture, un
-endroit où des personnes aient jamais été baptisées au nom du Père, du Fils et du Saint-Esprit, en
-dehors de l’église Catholique, jusqu’à Martin Luther. Ensuite, l’église Protestante…
-70 Ecoutez bien ceci, tandis que nous pénétrons dans les âges de l’église. Tout le mal qui
-existait dans cette première église s’est transmis d’un âge à l’autre. Et cela a continué
-jusqu’à ce que finalement tout se termine dans une apostasie complète au dernier jour. Tout le mal
-continua à se transmettre d’une église à l’autre, et c’est de là que sont sortis tous les petits
-“ismes”. Comme dans la Genèse, la fausse vigne a commencé à croître et à se faufiler au travers
+> JE SUIS Celui qui parla à Moïse dans le buisson ardent,
+> JE SUIS le Dieu d’Abraham, la Brillante Etoile du Matin,
+> JE SUIS la Rose de Saron; oh, d’où dites-vous que Je viens?
+> Connaissez-vous Mon Père, pouvez-vous dire Son Nom?
+> Qui dites-vous que Je suis, d’où dites-vous que Je viens?
+> Connaissez-vous Mon Père, pouvez-vous dire Son Nom?
+> JE SUIS l’Alpha et l’Oméga, le commencement et la fin,
+> JE SUIS la création tout entière, et Jésus est Mon Nom!
 
-    http://www.cmpp.ch
+69 Oh, quelle merveille, la Révélation, l’Apocalypse! Mais rappelez-vous, vous ne pouvez L’avoir par l’intermédiaire des théologiens; Elle ne vient pas de cette façon! Cela ne peut venir qu’en tant que révélation. Le baptême d’eau au Nom de Jésus-Christ, ne peut être donné que par révélation. Seule une révélation peut nous faire connaître que Jésus et Dieu sont une seule et même Personne. La Bible entière est construite sur la Révélation. L’Eglise entière est construite sur la Révélation. Matthieu 16 dit: “Et moi aussi, je te dis que tu es Pierre; et sur ce roc (la révélation spirituelle) je bâtirai mon assemblée, et les portes du hadès ne prévaudront pas contre elle”. Nous mettons quiconque au défi de nous montrer, n’importe où, dans l’histoire ou dans l’Ecriture, un endroit où des personnes aient jamais été baptisées au nom du Père, du Fils et du Saint-Esprit, en dehors de l’église Catholique, jusqu’à Martin Luther. Ensuite, l’église Protestante…
 
-LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS 10
-de l’église pour Se manifester au dernier jour. Il n’est pas étonnant que la Bible dise: “Heureux
-ceux qui échapperont en ce jour”. Oui, ceux qui échapperont à toutes ces choses!
-71 Tandis que nous parlons de l’Apocalypse, demandez à Dieu de vous donner une révélation de
-cela. Car elle ne peut être connue que par révélation, et vous ne pouvez être sauvé que par
-révélation. Vous en avez une connaissance intellectuelle, mais vous ne pouvez être sauvé tant
-que cela ne vous a pas été révélé: “Personne ne peut dire que Jésus est le Christ, si ce n’est par
-le Saint-Esprit”. C’est ce que la Bible dit. Personne ne peut dire que Jésus est le Christ avant
-d’avoir reçu le Saint-Esprit. On ne peut dire: “Le pasteur l’a dit, la Bible l’a dit. L’église le dit”. Ils ont
-raison! C’est vrai; mais vous ne le savez pas vous-même avant que le Saint-Esprit ne vous le
-révèle à VOUS, et qu’il ne soit venu en VOUS. “Personne ne peut dire que Jésus est le Christ,
-si ce n’est par le Saint-Esprit”. Cela ne vient pas par la connaissance, ni par l’intelligence.
-72 La façon dont ils vont faire une Bible… Ils vont la manipuler pour essayer de l’ajuster aux
-idées des Juifs, des Catholiques et des Protestants, alors qu’ils sont aussi différents les uns des
-autres que le jour l’est de la nuit. Je pensais que les Juifs en savaient plus long que cela; je
-suppose que l’heure est venue où cela doit arriver, où tout doit entrer dans cette grande apostasie.
-Rappelez-vous que nous ne pouvons arrêter cela, mais la seule chose que nous puissions
-faire, est de répandre la Lumière, peut-être jusqu’à nous livrer comme martyrs, et de nous tenir
-éloignés de ces choses; c’est tout ce que nous pouvons faire. Beaucoup devront le faire. C’est
-ainsi que la Bible est établie, comme d’ailleurs les choses dans lesquelles nous allons. Si je ne fais
-pas attention, j’y tomberai, moi aussi.
-73 Le premier chapitre du livre de l’Apocalypse commence par la Révélation de Jésus-Christ, et
-nous montre qui Il est. Jésus-Christ est Dieu Tout-Puissant. Nous le savons. Combien le
-croient? Dites “Amen!” [L’assemblée répond: “Amen!” — N.d.R.] Il est Dieu Tout-Puissant, et il a un
-seul Nom. Ce Nom, Jésus-Christ, est le seul Nom qui ait été donné sous le ciel par lequel
-vous puissiez être sauvés. Qu’ils aient peur devant le baptistère, cela ne m’étonne pas. Vous
-voyez? C’est à cause de cet esprit qui s’est faufilé depuis cet âge de Smyrne; et il s’est insinué
-tout au long de ce grand âge de ténèbres, et a fait une doctrine de cela, et il ressort avec elle en ce
-dernier jour. Consultez simplement l’histoire et la Bible pendant que nous étudions ces choses
-cette semaine, et vous verrez comment tout cela va être mis en plein jour.
-74 Maintenant, le point suivant. La révélation fut donnée par Christ à Jean par l’intermédiaire d’un
-ange, pour être donnée à qui? — à Ses églises, pour être révélée à Ses églises. Et les sept étoiles
-dans Sa main étaient les sept messagers aux sept églises. Et quiconque aura le message, aura ce
-même message-là, le vrai message qui a pris le départ au commencement.
-75 Demain, quand nous pénétrerons dans ces profondeurs pour voir comment Dieu a pénétré
-dans ces choses, ce sera merveilleux! C’est à vous faire pousser des cris de joie! Je lisais. Et
-ensuite, j’allais faire un petit tour en pleurant, et revenais m’asseoir à mon bureau, et puis je
-repartais. Je suis si heureux de connaître ces choses! Comment Dieu a-t-Il pu être assez
-miséricordieux envers nous pour nous laisser voir ces choses dans l’heure en laquelle nous
-vivons? C’est comme Jésus lorsqu’Il dit: “Un homme vendit tout ce qu’il avait pour acheter une
-perle”. Vous vous débarrassez des choses du monde, lui rendant ce qui lui appartient, pour obtenir
-cela. C’est vrai! Ancrez-vous complètement sur Cela. C’est l’ancre de l’âme pour voir la
-révélation de Sa Parole.
-76 Nous voyons que quiconque La lit est béni. N’est-ce pas vrai? Nous l’avons dit ce matin: s’il
-yen a qui ne peuvent pas lire, il est dit: quiconque l’entend est béni. Ainsi donc cela commence par
-une bénédiction pour ceux qui écoutent simplement quand Elle est lue, et il y a une malédiction
-sur quiconque essayera d’y ajouter ou d’en retrancher quelque chose. Donc si la Bible révèle
-clairement que Jésus est le Dieu Tout-puissant, alors malheur à celui qui retranchera cela. Oui!
-C’est une révélation. Quiconque ajoutera quoi que ce soit… C’est le canon complet de la
-Révélation; c’est le dernier Livre de Dieu, Ses dernières Paroles. Et toute révélation contraire à
-Cela est une fausse prophétie; cela ne vient pas de Dieu, parce que ce Livre est la Vérité.
-77 Et rappelez-vous que c’est le seul Livre de la Bible qui porte la signature personnelle de
-Christ. Pensez-y! Ce seul Livre est la révélation de Lui-même. Le seul Livre sur lequel Il a mis Son
-propre sceau, avec Ses bénédictions et Ses malédictions. La bénédiction pour ceux qui Le
-recevront, la malédiction pour ceux qui ne Le recevront pas.
+70 Ecoutez bien ceci, tandis que nous pénétrons dans les âges de l’église. Tout le mal qui existait dans cette première église s’est transmis d’un âge à l’autre. Et cela a continué jusqu’à ce que finalement tout se termine dans une apostasie complète au dernier jour. Tout le mal continua à se transmettre d’une église à l’autre, et c’est de là que sont sortis tous les petits “ismes”. Comme dans la Genèse, la fausse vigne a commencé à croître et à se faufiler au travers de l’église pour Se manifester au dernier jour. Il n’est pas étonnant que la Bible dise: “Heureux ceux qui échapperont en ce jour”. Oui, ceux qui échapperont à toutes ces choses!
+
+71 Tandis que nous parlons de l’Apocalypse, demandez à Dieu de vous donner une révélation de cela. Car elle ne peut être connue que par révélation, et vous ne pouvez être sauvé que par révélation. Vous en avez une connaissance intellectuelle, mais vous ne pouvez être sauvé tant que cela ne vous a pas été révélé: “Personne ne peut dire que Jésus est le Christ, si ce n’est par le Saint-Esprit”. C’est ce que la Bible dit. Personne ne peut dire que Jésus est le Christ avant d’avoir reçu le Saint-Esprit. On ne peut dire: “Le pasteur l’a dit, la Bible l’a dit. L’église le dit”. Ils ont raison! C’est vrai; mais vous ne le savez pas vous-même avant que le Saint-Esprit ne vous le révèle à VOUS, et qu’il ne soit venu en VOUS. “Personne ne peut dire que Jésus est le Christ, si ce n’est par le Saint-Esprit”. Cela ne vient pas par la connaissance, ni par l’intelligence.
+
+72 La façon dont ils vont faire une Bible… Ils vont la manipuler pour essayer de l’ajuster aux idées des Juifs, des Catholiques et des Protestants, alors qu’ils sont aussi différents les uns des autres que le jour l’est de la nuit. Je pensais que les Juifs en savaient plus long que cela; je suppose que l’heure est venue où cela doit arriver, où tout doit entrer dans cette grande apostasie. Rappelez-vous que nous ne pouvons arrêter cela, mais la seule chose que nous puissions faire, est de répandre la Lumière, peut-être jusqu’à nous livrer comme martyrs, et de nous tenir éloignés de ces choses; c’est tout ce que nous pouvons faire. Beaucoup devront le faire. C’est ainsi que la Bible est établie, comme d’ailleurs les choses dans lesquelles nous allons. Si je ne fais pas attention, j’y tomberai, moi aussi.
+
+73 Le premier chapitre du livre de l’Apocalypse commence par la Révélation de Jésus-Christ, et nous montre qui Il est. Jésus-Christ est Dieu Tout-Puissant. Nous le savons. Combien le croient? Dites “Amen!” [L’assemblée répond: “Amen!” — N.d.R.] Il est Dieu Tout-Puissant, et il a un seul Nom. Ce Nom, Jésus-Christ, est le seul Nom qui ait été donné sous le ciel par lequel vous puissiez être sauvés. Qu’ils aient peur devant le baptistère, cela ne m’étonne pas. Vous voyez? C’est à cause de cet esprit qui s’est faufilé depuis cet âge de Smyrne; et il s’est insinué tout au long de ce grand âge de ténèbres, et a fait une doctrine de cela, et il ressort avec elle en ce dernier jour. Consultez simplement l’histoire et la Bible pendant que nous étudions ces choses cette semaine, et vous verrez comment tout cela va être mis en plein jour.
+
+74 Maintenant, le point suivant. La révélation fut donnée par Christ à Jean par l’intermédiaire d’un ange, pour être donnée à qui? — à Ses églises, pour être révélée à Ses églises. Et les sept étoiles dans Sa main étaient les sept messagers aux sept églises. Et quiconque aura le message, aura ce même message-là, le vrai message qui a pris le départ au commencement.
+
+75 Demain, quand nous pénétrerons dans ces profondeurs pour voir comment Dieu a pénétré dans ces choses, ce sera merveilleux! C’est à vous faire pousser des cris de joie! Je lisais. Et ensuite, j’allais faire un petit tour en pleurant, et revenais m’asseoir à mon bureau, et puis je repartais. Je suis si heureux de connaître ces choses! Comment Dieu a-t-Il pu être assez miséricordieux envers nous pour nous laisser voir ces choses dans l’heure en laquelle nous vivons? C’est comme Jésus lorsqu’Il dit: “Un homme vendit tout ce qu’il avait pour acheter une perle”. Vous vous débarrassez des choses du monde, lui rendant ce qui lui appartient, pour obtenir cela. C’est vrai! Ancrez-vous complètement sur Cela. C’est l’ancre de l’âme pour voir la révélation de Sa Parole.
+
+76 Nous voyons que quiconque La lit est béni. N’est-ce pas vrai? Nous l’avons dit ce matin: s’il yen a qui ne peuvent pas lire, il est dit: quiconque l’entend est béni. Ainsi donc cela commence par une bénédiction pour ceux qui écoutent simplement quand Elle est lue, et il y a une malédiction sur quiconque essayera d’y ajouter ou d’en retrancher quelque chose. Donc si la Bible révèle clairement que Jésus est le Dieu Tout-puissant, alors malheur à celui qui retranchera cela. Oui! C’est une révélation. Quiconque ajoutera quoi que ce soit… C’est le canon complet de la Révélation; c’est le dernier Livre de Dieu, Ses dernières Paroles. Et toute révélation contraire à Cela est une fausse prophétie; cela ne vient pas de Dieu, parce que ce Livre est la Vérité.
+
+77 Et rappelez-vous que c’est le seul Livre de la Bible qui porte la signature personnelle de Christ. Pensez-y! Ce seul Livre est la révélation de Lui-même. Le seul Livre sur lequel Il a mis Son propre sceau, avec Ses bénédictions et Ses malédictions. La bénédiction pour ceux qui Le recevront, la malédiction pour ceux qui ne Le recevront pas.
+
 78 Maintenant, nous arrivons à l’île de Patmos pour commencer au verset 9. Disons d’abord ceci:
-
-        http://www.cmpp.ch
 
 LA REVELATION DE JESUS-CHRIST — VISION DE PATMOS 11
 nous intitulerons cette prédication: La Vision de Patmos. Cela s’est passé entre 95 et 96 de notre
@@ -764,8 +468,8 @@ les choses au point, et voyons ce que c’est. Voulez-vous que nous fassions cel
 que nous attendons? Nous verrons où Jean a été ravi, dans quel genre de jour il est allé.
 118 Lorsque Jésus est mort sur terre, et que Son oeuvre a été terminée, Il est entré quelque part.
 119 Revenons maintenant à Esaïe, chapitre 28. Lisons à partir du verset 8 (le prophète parle sept
-cent douze ans avant que ces choses n’arrivent). Combien aimeraient savoir ce que c’est que
-le vrai sabbat, le vrai repos? C’est le prophète qui en parle ici, et je vais vous montrer où ça se
+cent douze ans avant que ces choses n’arrivent). Combien aimeraient savoir ce que c’est
+que le vrai sabbat, le vrai repos? C’est le prophète qui en parle ici, et je vais vous montrer où ça se
 passe. Ésaïe 28.8: “Toutes… (le prophète prophétise ce qui se passe aujourd’hui) … toutes les
 
     http://www.cmpp.ch
@@ -815,7 +519,7 @@ cérémonie païenne! C’est un article de l’église Catholique. Les gens dé
 d’argent, et échangent des cadeaux: tout cela, c’est du paganisme! Noël est un jour d’adoration.
 127 D’ailleurs, Christ n’est pas né le 25 décembre. Ce n’était pas possible. Si vous êtes jamais allé
 en Judée, les collines sont couvertes de neige, c’est pire qu’ici. Il est né en avril, lorsque toute la
-nature s’éveille.
+ature s’éveille.
 128 Mais c’est leur tradition. Et pourquoi faisons-nous ces choses? Parce que nous suivons les
 traditions humaines au lieu des commandements de Dieu, alors que pareille chose n’a en
 réalité aucune importance. Mais ils en ont simplement fait une occasion de commerce. C’est
@@ -1012,7 +716,7 @@ rameau de citronnier et greffez-le sur un oranger, il poussera. Ou prenez n’im
 mandarine ou clémentine, ou n’importe lequel, et greffez-les sur cet arbre, et ils se
 développeront par la vie de cet oranger; mais ils ne donneront pas des oranges. L’un donnera
 des pamplemousses, un autre donnera des clémentines, un autre donnera des citrons, mais ils se
-nourrissent de la vie de l’arbre; mais si cet arbre pousse une branche lui-même, ce sera la
+ourrissent de la vie de l’arbre; mais si cet arbre pousse une branche lui-même, ce sera la
 même vie qui sera en elle, et elle portera une orange. Parce que au commencement, dans sa
 racine, il y a la vie de l’oranger, mais d’autres branches peuvent aussi en vivre, pour autant que ce
 soient des agrumes. Ils ne peuvent porter le fruit de l’original, parce qu’ils ne sont pas de
@@ -1269,7 +973,7 @@ vin de la fureur de la colère de Dieu le Tout-puissant”.
 198 Un jour, avec ces pieds d’airain de Sa justice (gloire à Dieu!), quand Il viendra comme Juge, Il
 foulera l’antichrist et tous Ses ennemis. Alléluia! Il parcourra la terre avec une verge de fer
 dans Sa main. Amen! Oh, ami pécheur, repens-toi pendant que tu as l’occasion de te repentir! Tu
-essaies de te débarrasser de cela, et tu penses que ce n’est qu’une petite histoire qui n’arrivera
+esses de te débarrasser de cela, et tu penses que ce n’est qu’une petite histoire qui n’arrivera
 jamais. Cela t’arrivera à toi!
 199 Des pieds d’airain, écrasant Ses ennemis… Parce qu’Il a souffert et foulé la cuve de
 l’ardente colère de Dieu pour payer le prix de nos péchés. Et pendant ce temps, nous autres
@@ -1467,7 +1171,7 @@ seulement en paroles, comme Paul l’a dit: “… notre Evangile ne vous a pas 
 paroles seulement, mais avec puissance, avec l’Esprit Saint, et avec une pleine persuasion…”. La
 Parole est semée dans le coeur qui a le Saint Esprit et produit ce que la Parole a dit qu’Elle
 produirait. Et la Parole peut discerner les pensées du coeur! Gloire à Dieu! C’est Elle qui
-discerne les pensées et les intentions du coeur. Voilà ce que fait la Parole.
+discerné les pensées et les intentions du coeur. Voilà ce que fait la Parole.
 233 Une épée aiguë à deux tranchants sort de Sa bouche pour réveiller les païens. Il faut que
 quelque chose se passe un de ces jours. Oui! Son Nom était la Parole de Dieu, la Parole
 manifestée. Voyez! Jésus a dit: “Allez par tout le monde…” (Marc 16). C’est Sa dernière salutation
@@ -1742,7 +1446,7 @@ dans la prière? Dieu vous bénisse!
     … [frère Branham fredonne le refrain — N.d.R.]
 275  Père céleste, il y en a beaucoup qui sont debout, désirant Te recevoir. Ils sont fatigués d’errer
 partout, ne sachant pas où ils vont, étant hors du courant de la Vie. Et ils savent qu’avant le Point
-du jour leur coeur pourrait avoir cessé de battre; et il y a devant eux la grande cataracte, la chute,
+ du jour leur coeur pourrait avoir cessé de battre; et il y a devant eux la grande cataracte, la chute,
 et leur âme qui est toujours à la dérive! Ils ont été semblables à eux-mêmes, ils ont été semblables
 au monde, mais maintenant ils veulent être semblables à Toi, Seigneur. Reçois-les dans Ton
 Royaume, ils sont à Toi, Père, parce que Tu connais leur coeur et les intentions de leur coeur. Et

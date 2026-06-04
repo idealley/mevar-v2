@@ -1,327 +1,183 @@
-    SERIE 1 N° 5
+---
+source: "cmpp"
+sermon_id: "serie1no5"
+title: "La stature de l'homme parfait"
+subtitle: "14 octobre 1962, matin"
+date: "1962-10-14"
+year: 1962
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham enseigne sur la stature de l'homme parfait, basé sur 2 Pierre 1, expliquant comment les croyants peuvent devenir participants de la nature divine par les promesses de Dieu. Il aborde la foi, l'amour pour Christ, et la croissance spirituelle, tout en partageant des témoignages de guérison et d'encouragement."
+tags:
+  - "stature parfaite"
+  - "nature divine"
+  - "foi"
+  - "promesses de Dieu"
+  - "croissance spirituelle"
+persons:
+  - "William Branham"
+  - "Simon Pierre"
+  - "Jésus-Christ"
+  - "frère Kidd"
+  - "soeur Kidd"
+  - "frère Ungren"
+  - "frère Sumner"
+  - "soeur Sumner"
+  - "frère Milano"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Louisville"
+  - "Kentucky"
+  - "New York"
+  - "Californie"
+  - "Ohio"
+themes:
+  - "stature de l'homme parfait"
+  - "participation à la nature divine"
+  - "foi précieuse"
+  - "amour pour Christ"
+  - "croissance spirituelle"
+  - "guérison divine"
+  - "témoignage"
+pdf_url: "http://cmpp.ch/serie1no5.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "Actes 10"
+  - "Actes 19"
+  - "Actes 2"
+  - "Actes 7"
+  - "Hébreux 10"
+  - "Hébreux 11"
+  - "Jean 14"
+  - "Jean 3"
+  - "Jean 5"
+  - "Jean 89"
+  - "Malachie 117"
+  - "Matthieu 28"
+  - "Matthieu 5"
+  - "Psaumes 1"
+  - "Ésaïe 28"
+---
+SERIE 1 N° 5
 
+LA PAROLE PARLEE
 
+PAR
 
-
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
- LA STATURE DE
-L’HOMME PARFAIT
-    (Stature Of A Perfect Man)
-
-
-
-     14 octobre 1962, matin
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    LA STATURE DE L’HOMME PARFAIT    2
-
+WILLIAM MARRION BRANHAM
 
 LA STATURE DE L’HOMME PARFAIT
-  (Stature Of A Perfect Man)
+(Stature Of A Perfect Man)
 
-
-
-     14 octobre 1962, matin
-       Branham Tabernacle
+14 octobre 1962, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+LA STATURE DE L’HOMME PARFAIT
 
+LA STATURE DE L’HOMME PARFAIT
+(Stature Of A Perfect Man)
 
+14 octobre 1962, matin
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
-1 Qu’il est bon de se retrouver de nouveau ce matin dans le Tabernacle. Je vous salue tous
-avec amour, ce matin. Et je pense que ce sera un grand jour pour nous tous, dans la présence du
-Seigneur. Or, tout à l’heure, j’ai reçu un message. Je désire aller droit à ce message, parce que je
-pense que c’est important, et je voudrais préserver la foule de toute impatience et défaillance.
-Vous savez, ils doivent rester longtemps, et beaucoup sont obligés de rester debout. Je veux donc
-aller droit au message.
-2 Ce soir, je désirais donc vous parler sur le sujet suivant: Le guide de ma vie. Et j’espère que
-beaucoup seront présents, à 7 heures ce soir, autant que possible. Cependant, si vous avez votre
-propre église, nous voulons naturellement que vous soyez dans votre église. C’est une obligation
-pour vous d’être là où se trouve votre devoir, afin de faire briller votre lumière.
-3 Nous espérons, chaque fois que nous revenons, que nous aurons un peu plus de place, mais
-nous avons des difficultés avec cela. Oh, partout. Ce Comité d’administration a certainement
-exploré partout. Ils envoient à une place. Ils disent que c’est en ordre. Ensuite, ils envoient cela
-ailleurs, et ils mettent leur veto, et le renvoient. Ici, ils disent que c’est en règle, et ils l’envoient en
-retour… Oh, quels temps difficiles nous vivons. Mais vous savez, Satan est toujours à combattre
-contre tout ce qui est juste.
-4 Je me demande où tu étais, Anthony. Je ne t’ai pas vu, j’ai rencontré ton père. Et j’ai regardé
-dans l’auditoire; ton père disait que tu étais assis ici. Nous sommes heureux de t’avoir, et ton père
-ici avec nous — Frère Milano, de New York. J’espère, en allant par-delà les mers, que je pourrai
-encore une fois m’évader à New York pour une courte visite, si le Seigneur le veut.
-5 Et ainsi, nous sommes très heureux pour chacun de vous. C’est tellement bien, pour vous,
-d’être ici. Nous avons eu un beau moment, hier soir; en tout cas pour ma part, avec le thème:
-Esaïe dans le Temple. Et ce matin, nous voulons enseigner sur le même sujet, si nous le pouvons.
-Construisant le Tabernacle vivant de la demeure du Dieu vivant: L’Homme Parfait — Le
-Tabernacle vivant du Dieu vivant, là où Il demeure.
-6 Je sais bien que nous avons de bons chants, ici, mais je n’arrive pas à les entendre. Ce soir,
-je vais essayer de descendre ici. Ma femme m’a parlé d’un frère Ungren (je crois que c’est son
-nom), qui vient du Tennessee. Il était présent hier soir. Je ne le vois pas ce matin. Mais je pense
-qu’il est ici quelque part, et j’aimerais l’entendre chanter ce soir, si je puis, ou bien Descendant de
-Sa Gloire, et Combien Tu es Grand. J’aimerais entendre cela. Combien parmi vous aimeraient
-entendre chanter frère Ungren? Oh, que j’aime le bon chant! Et Meda m’a dit qu’il était un genre
-de baryton. Cela me rappelle notre frère Baxter. C’est aussi un chanteur, comme nous le savons
-tous. Donc Descendant de Sa Gloire et Combien Tu es Grand. Je crois que je viens de le repérer.
-Cela sera O.K. Est-ce que c’est en règle. Frère Ungren, pour ce soir, si vous le voulez? Allez-vous
-essayer de rester ici pour la réunion de ce soir? Eh bien, je vous le dis: qu’en est-il… Je ne
-voudrais causer aucun frottement à qui que ce soit, mais pourquoi pas, à ce moment-là, si vous
-voulez venir pendant le temps de la prédication concernant les sept Sceaux? Si vous veniez,
-j’aimerais vous enregistrer, vous comprenez, pour avoir Combien Tu es Grand et aussi
-Descendant de Sa Gloire.
+1 Qu’il est bon de se retrouver de nouveau ce matin dans le Tabernacle. Je vous salue tous avec amour, ce matin. Et je pense que ce sera un grand jour pour nous tous, dans la présence du Seigneur. Or, tout à l’heure, j’ai reçu un message. Je désire aller droit à ce message, parce que je pense que c’est important, et je voudrais préserver la foule de toute impatience et défaillance. Vous savez, ils doivent rester longtemps, et beaucoup sont obligés de rester debout. Je veux donc aller droit au message.
 
-        http://www.cmpp.ch
+2 Ce soir, je désirais donc vous parler sur le sujet suivant: Le guide de ma vie. Et j’espère que beaucoup seront présents, à 7 heures ce soir, autant que possible. Cependant, si vous avez votre propre église, nous voulons naturellement que vous soyez dans votre église. C’est une obligation pour vous d’être là où se trouve votre devoir, afin de faire briller votre lumière.
 
-LA STATURE DE L’HOMME PARFAIT 3
-7 Oh, n’est-ce pas merveilleux de servir le Seigneur? Je ne sais pas ce que je ferais, si je
-n’étais pas un chrétien: c’est si bon d’être un chrétien! J’ai envie de sauter et de crier de toutes
-mes forces! Etre un chrétien — pensez-y donc! C’est être ancré totalement en Christ.
-8 Je sais que je me trompe toujours en disant le nom de cet homme — c’est soit «S.T.», ou
-«T.S.», (ou quelque chose comme cela) — Sumner, frère Sumner. Je veux le remercier, ainsi que
-sa précieuse petite femme. Je crois qu’elle a passé environ six mois à taper les “Sept Ages de
-l’Eglise”. Et maintenant, nous l’avons reçu en retour, tapé à la machine, prêt pour l’épreuve
-d’imprimerie. Et ce sera imprimé sous la forme d’un livre — Les Sept Ages de l’Eglise. Soeur
-Sumner, où que vous soyez, certainement que vous nous laisserez vous payer pour cela. Ce fut
-un grand travail — C’était aussi épais que cela. Cela me prendrait environ six mois rien que pour
-le lire. Sans compter tout le temps que cela a pris pour le transcrire des bandes magnétiques. Et
-ensuite, il fallut enlever les répétitions et en faire un livre. Nous allons le préparer, et l’envoyer à
-l’imprimerie, car nous pensons que le monde a le droit de l’avoir maintenant, et vous pourriez
-l’étudier. Et Billy me montrait justement, quand je vins ici il y a quelques instants, que maintenant,
-c’était prêt pour l’envoyer à l’imprimerie. Ainsi, soeur, le Tabernacle vous paiera pour cela. Je ne
-m’attends pas à ce que vous fassiez cela pour rien. Ou alors, si nous obtenons le livre et devons y
-mettre un prix, nous y mettrons un prix, et vous recevrez quelque chose dès qu’ils le vendront.
-Vous n’aurez qu’à parler au Conseil d’administration, ou à quelqu’un qui en fait partie. Ils
-s’occuperont de la chose pour vous. Que le Seigneur vous bénisse richement.
-9 Et voici les chers vieux frère et soeur Kidd, qui sont assis ici et qui ont presque cent ans; et
-elle, je l’ai rencontrée ici il y a un moment, et elle m’a dit: «C’est probablement la dernière fois que
-je puis vous voir, frère Billy». Je dis: «Je ne veux pas vous entendre dire cela». Ils sont juste
-comme de vieux petits père et mère. Nous aimons frère et soeur Kidd. Tout le monde les aime.
-Cela me fait quelque chose quand je les vois marcher dans l’église, un vieux petit couple comme
-cela. Et pensez, ils prêchaient l’Evangile avant ma naissance, et je suis un vieil homme! Oui,
-pensez, ils prêchaient avant que je fusse né, et me voici ici maintenant, et je commence à penser:
-«Je deviens si vieux», et réfléchissant à ce propos que je suis prêt à me retirer — alors, je vois
-frère et soeur Kidd entrer: «Gloire à Dieu!».
-10 Je dis: «Non, je me sens bien». Oui, de les voir, ils m’inspirent réellement. Alors, vous vous
-rendez compte qu’ils ont à peu près le double de mon âge, et qu’ils continuent à aller sur le champ
-de mission! Et ils vinrent ce matin. Et ils demandèrent des livres — afin qu’ils puissent les prendre
-et les vendre. Ils voulaient des bandes magnétiques, afin de pouvoir sortir et gagner des âmes par
-ces bandes. Ayant presque cent ans! Maintenant, où sont vos deux ailes dont nous parlions hier
-soir? Oui, je commence à penser à propos de «Où sont les miennes?». Quel âge avez-vous donc,
-soeur Kidd? (quatre-vingt-un ans). Quel âge avez-vous, frère Kidd? (quatre-vingt-deux ans).
-Quatre-vingt-un et quatre-vingt-deux ans, et employant encore leurs ailes dans l’action, toujours à
-l’oeuvre.
-11 Quoi qu’il puisse y avoir dans l’Ohio qui ne va pas dont soeur Kidd entende parler, le
-téléphone sonne à la maison. L’autre jour, le téléphone sonna. Et un petit bébé (une petite fille, je
-crois) était né, et ses intestins étaient à l’extérieur de l’enfant, et la vessie était à l’extérieur du
-bébé. Et le médecin ne savait que faire. Et il avait peur d’entreprendre une opération. Nous avons
-prié… [Soeur Kidd raconte le cas depuis l’auditoire. — N.d.R.] Le médecin fit une opération pour
-remettre en place, dans le corps, les intestins — et il pensait que le petit ne pourrait pas vivre. Et
-pourtant, il vécut. Il n’y avait alors pas de passage au rectum pour que les selles pussent passer.
-Soeur Kidd appela encore une fois au téléphone. Nous priâmes de nouveau, et maintenant, il y a
-un passage normal. Elle est ici comme témoin, et le médecin aussi. C’est un témoignage que le
-Seigneur Jésus, le grand Créateur… Voyez ce que Satan essaya de faire? Retrancher la vie de ce
-bébé. Et voyez, je crois que la dame [la mère de l’enfant — N.d.R.] revint au Seigneur. Soeur Kidd
-l’a conduite à Christ, après que ce grand miracle se fut accompli pour son bébé.
-12 J’ai reçu un appel, hier, de la Californie, d’un petit frère qui est pasteur là-bas, et avec lequel
-je suis allé, la première fois que je me rendis en Californie, il y a bien des années. Son petit-fils
-était né, ayant trois valves de son coeur fermées. Je lui ai raconté ce cas là. Et je lui dis: «Le Dieu
-qui a pu créer cette autre chose, et faire en sorte que cela soit bien, peut certainement guérir votre
-petit-fils. Dites à votre garçon de prendre courage». Et le garçon [le père de l’enfant malade, —
-N.d.R.] était à la réunion, la première fois que j’étais en Californie, il y a environ seize ans de cela.
-J’étais en Californie, et la réunion eut une telle influence sur ce garçon que lorsqu’ils eurent le
+3 Nous espérons, chaque fois que nous revenons, que nous aurons un peu plus de place, mais nous avons des difficultés avec cela. Oh, partout. Ce Comité d’administration a certainement exploré partout. Ils envoient à une place. Ils disent que c’est en ordre. Ensuite, ils envoient cela ailleurs, et ils mettent leur veto, et le renvoient. Ici, ils disent que c’est en règle, et ils l’envoient en retour… Oh, quels temps difficiles nous vivons. Mais vous savez, Satan est toujours à combattre contre tout ce qui est juste.
 
-        http://www.cmpp.ch
+4 Je me demande où tu étais, Anthony. Je ne t’ai pas vu, j’ai rencontré ton père. Et j’ai regardé dans l’auditoire; ton père disait que tu étais assis ici. Nous sommes heureux de t’avoir, et ton père ici avec nous — Frère Milano, de New York. J’espère, en allant par-delà les mers, que je pourrai encore une fois m’évader à New York pour une courte visite, si le Seigneur le veut.
 
-LA STATURE DE L’HOMME PARFAIT 4
-bébé, et qu’ils virent qu’il y avait quelque chose qui n’allait pas — il était bleu, et ils essayèrent de
-donner de l’oxygène a l’enfant; et il n’avait pas l’air de vouloir survivre. C’est alors que les
-médecins l’examinèrent, et trouvèrent que trois valves du coeur étaient fermées — vous voyez, il
-n’y avait aucune ouverture — juste une valve qui fonctionnait. Il appela son père et dit: «Papa,
-téléphone au frère Branham, immédiatement. Dis-lui qu’il demande à Christ: il le fera». C’est cela.
-Oh, là, là, l’influence que cela peut avoir. Voyez-vous, ce qui a été dit, hier soir: la chose juste au
-bon moment.
-13 Eh bien, nous continuons à parler, et nous n’allons jamais commencer la leçon. C’est comme
-de la mélasse, par un matin froid — c’est peut-être aussi épais que cela. Vous savez, compact.
-Nous sommes très heureux d’avoir une pareille communion. Oh oui.
-14 Calmons-nous, maintenant, et commençons la leçon. Je ne sais pas si vous pouvez voir sur
-le tableau noir [le frère Branham demande un tableau noir. — N.d.R.].
-15 Pendant qu’ils le préparent… Je commence tard ce matin… Non, non, je suis un quart
-d’heure en avance; aussi allons-nous prendre tout notre temps maintenant, parce que nous ne
-voulons pas nous presser. Quand nous nous dépêchons, nous gâtons les choses que nous allons
-vous dire. J’écoutais une bande magnétique, il y a quelques jours, et je fus tellement honteux de
-moi-même, non de ce que je disais, mais de la manière avec laquelle je le disais — trop
-rapidement, sur une tonalité trop nerveuse.
-16 Je vis l’autre jour l’endroit où ils allaient construire un grand zoo, ici au milieu de Louisville. Et
-on offrit à M. Brown (du moins je le crois) un million de dollars pour le zoo. Eh bien, si je les avais,
-je donnerais presque cela pour libérer ces animaux. Je ne pense pas que ce soit bien que l’on
-mette quoi que ce soit en cage. Je vais dans les zoos, et je vois ces pauvres vieux animaux, des
-ours, et des lions, et des bêtes qui vont et viennent, emprisonnés pour la vie. Cela vous fait de la
-peine. Après tout, ils sont capturés par l’intelligence d’un homme qui est plus habile qu’eux. Il les
-capture et les met en captivité.
-17 Maintenant, j’y pense, c’est le diable qui fait cela. Il prend les précieuses personnes qui
-devraient se promener sur de grands espaces de Dieu, des champs ou quelque chose ainsi, et
-ensuite, il les met dans une prison de quelque dénomination ou credo, ou chose semblable, il
-les attache là. C’est horrible!
-18 Je n’aime pas les zoos. Mais je me sens comme un de ces animaux, lorsque vous êtes en
-cage et que vous essayez de vous libérer — vous savez, pour en sortir et faire quelque chose.
-19 Maintenant, avant de nous approcher de la Parole, approchons-nous de l’Auteur de la Parole,
-tandis que nous inclinons nos têtes pour la prière.
-20 «Notre Père Céleste, nous sommes assemblés de nouveau ce matin dans le Nom du
-Seigneur Jésus, Ton précieux Fils — Dieu incarné, venu sur la terre pour la propitiation de nos
-péchés. Il est mort, Lui le Juste, afin que par Sa Justice, nous les injustes, nous puissions être
-rendus parfaits en Lui. Nous reconnaissons que nous sommes indignes, Seigneur. Il n’y a rien
-de bon en nous, et nous sommes tous enfermés dans une grande prison. Peu importe l’endroit où
-nous nous tenons, nous sommes cependant toujours en prison. Aucun ne peut aider l’autre. Mais
-Dieu, dans Sa grâce infinie, est descendu ouvrir la porte de la prison pour nous libérer. Nous ne
-sommes plus derrière les barreaux, maintenant. Nous ne sommes plus dans le zoo du monde,
-mais maintenant, nous sommes libres, nous sommes en dehors.
-21 Oh, combien nous L’aimons et L’adorons! Comme nous pouvons marcher à travers les grands
-champs (espaces) de Sa promesse et les voir manifestés devant nous, et de nos propres yeux voir
-le grand Dieu d’Eternité se dévoilant devant nous, et se rendant aussi réel qu’Il le fut pour les
-prophètes d’autrefois, sachant ceci: qu’ils pouvaient se reposer avec une entière assurance sur le
-fait qu’un jour, nous serons à nouveau restaurés, après que cette vie sera terminée; et que nous
-ressusciterons à une vie éternelle qui n’aura jamais de fin. Nos corps ne vieilliront pas, et nous ne
-mourrons jamais. Et nous n’aurons jamais faim, et nous ne manquerons jamais de rien. Mais nous
-marcherons avec Lui. Nous voulons L’entendre dire: “Entre dans la joie de ton Maître, qui a été
-préparée pour toi dès avant la fondation du monde”. Il en sera comme il en était pour Adam et Eve
-lorsque, avant l’apparition du péché, ils ne devaient jamais être malades, ni avoir aucun chagrin.
-Et alors, Il prépara cela pour nous, car Il savait d’avance que nous y viendrions. C’est le péché qui
-fit le grand blocage, et depuis que le péché a été ôté par le Sang de Jésus, nous sommes en route
-pour la Terre Promise, à cause de la promesse de Dieu qui est éternelle.
+5 Et ainsi, nous sommes très heureux pour chacun de vous. C’est tellement bien, pour vous, d’être ici. Nous avons eu un beau moment, hier soir; en tout cas pour ma part, avec le thème: Esaïe dans le Temple. Et ce matin, nous voulons enseigner sur le même sujet, si nous le pouvons. Construisant le Tabernacle vivant de la demeure du Dieu vivant: L’Homme Parfait — Le Tabernacle vivant du Dieu vivant, là où Il demeure.
 
-        http://www.cmpp.ch
+6 Je sais bien que nous avons de bons chants, ici, mais je n’arrive pas à les entendre. Ce soir, je vais essayer de descendre ici. Ma femme m’a parlé d’un frère Ungren (je crois que c’est son nom), qui vient du Tennessee. Il était présent hier soir. Je ne le vois pas ce matin. Mais je pense qu’il est ici quelque part, et j’aimerais l’entendre chanter ce soir, si je puis, ou bien Descendant de Sa Gloire, et Combien Tu es Grand. J’aimerais entendre cela. Combien parmi vous aimeraient entendre chanter frère Ungren? Oh, que j’aime le bon chant! Et Meda m’a dit qu’il était un genre de baryton. Cela me rappelle notre frère Baxter. C’est aussi un chanteur, comme nous le savons tous. Donc Descendant de Sa Gloire et Combien Tu es Grand. Je crois que je viens de le repérer. Cela sera O.K. Est-ce que c’est en règle. Frère Ungren, pour ce soir, si vous le voulez? Allez-vous essayer de rester ici pour la réunion de ce soir? Eh bien, je vous le dis: qu’en est-il… Je ne voudrais causer aucun frottement à qui que ce soit, mais pourquoi pas, à ce moment-là, si vous voulez venir pendant le temps de la prédication concernant les sept Sceaux? Si vous veniez, j’aimerais vous enregistrer, vous comprenez, pour avoir Combien Tu es Grand et aussi Descendant de Sa Gloire.
 
-LA STATURE DE L’HOMME PARFAIT 5
-22 Bénis-nous, Père, tandis que nous méditons Ta Parole, nous voulons savoir quelle sorte de
-personne nous devons être, afin de pouvoir nous y trouver. Tiens-nous aujourd’hui à l’écoute du
-grand Maître d’école — le Saint-Esprit, qui allait descendre et se révéler à nous par Sa Parole.
-Ainsi, nous le demandons en Son Nom, et pour Sa Gloire. Amen».
-23 Et maintenant, j’aimerais tout d’abord que nous lisions au premier chapitre de la seconde
-épître de Pierre. Et quant à vous qui avez vos crayons et vos blocs — et je crois que je l’ai dit ce
-matin — quelquefois, lorsque je tourne la tête, le son de ma voix faiblit sur les bandes. Bien sûr, je
-ne voudrais pas faire cela, et je crois parfois que j’envisagerais l’installation d’un microphone
-encastré dans le plafond ici… quelque soit l’endroit où vous seriez, vous seriez alors bien placés,
-ce serait parfait tout autour de la salle. Seulement un microphone au-dessus du plafond.
-24 Et maintenant, tandis que je parle, si vous voulez après le service faire un petit schéma de
-cette esquisse ici; car je l’ai aussi dessinée, et je prendrai une punaise, pour la mettre ici devant
-moi, si vous désirez le faire une fois. Venez un peu plus tôt cet après-midi, afin que nous puissions
-bien comprendre.
-25 Maintenant donc, nous nous approchons des Sept Sceaux. Nous venons de terminer les Sept
-Ages de l’Eglise, et ceci est un message qui nous enseigne à quoi se trouve astreint
-l’homme qui a été racheté par le Sang du Seigneur Jésus, et qui sera dans cet Age de l’Eglise
-— cet Age de l’Eglise Eternelle à la fin des Sceaux. Maintenant donc, nous savons que nous
-avons Sept Trompettes, Sept Plaies, Sept Coupes, etc. dans lesquelles nous entrons, tandis que
-nous avançons — mais nous attendons qu’il y ait plus de places, afin que les personnes puissent
-être assises.
-26 Je n’avais pas l’intention de dessiner cette esquisse. Mais l’autre jour, lorsque je me trouvais
-avec quelques-uns de mes chers amis — chez les Cox, lesquels habitent le Kentucky — je suis
-descendu, pensant que je pourrais avoir encore un jour de chasse à l’écureuil avant la fin de la
-saison. Et j’étais là-bas dans les bois, avec mon ami Charlie, qui est ici avec son frère Rodney, et
-je n’ai pas vu un seul écureuil. Je crois que je les ai tous effrayés, pendant que je criais dans les
-bois! Voici ce qui m’est venu, frères, et vous, soeurs Nellie et Margie, quand je vous ai dit que je
-vous expliquerais dimanche, lorsque je parlerais de cela. Voici ce qui m’est venu, à propos d’un
-message sur lequel j’allais me mettre à parler, et combien la suite est directement reliée à cela. Et
-oh! combien j’aime avoir le vrai Esprit pour crier là-bas dans les bois.
+7 Oh, n’est-ce pas merveilleux de servir le Seigneur? Je ne sais pas ce que je ferais, si je n’étais pas un chrétien: c’est si bon d’être un chrétien! J’ai envie de sauter et de crier de toutes mes forces! Etre un chrétien — pensez-y donc! C’est être ancré totalement en Christ.
+
+8 Je sais que je me trompe toujours en disant le nom de cet homme — c’est soit «S.T.», ou «T.S.», (ou quelque chose comme cela) — Sumner, frère Sumner. Je veux le remercier, ainsi que sa précieuse petite femme. Je crois qu’elle a passé environ six mois à taper les “Sept Ages de l’Eglise”. Et maintenant, nous l’avons reçu en retour, tapé à la machine, prêt pour l’épreuve d’imprimerie. Et ce sera imprimé sous la forme d’un livre — Les Sept Ages de l’Eglise. Soeur Sumner, où que vous soyez, certainement que vous nous laisserez vous payer pour cela. Ce fut un grand travail — C’était aussi épais que cela. Cela me prendrait environ six mois rien que pour le lire. Sans compter tout le temps que cela a pris pour le transcrire des bandes magnétiques. Et ensuite, il fallut enlever les répétitions et en faire un livre. Nous allons le préparer, et l’envoyer à l’imprimerie, car nous pensons que le monde a le droit de l’avoir maintenant, et vous pourriez l’étudier. Et Billy me montrait justement, quand je vins ici il y a quelques instants, que maintenant, c’était prêt pour l’envoyer à l’imprimerie. Ainsi, soeur, le Tabernacle vous paiera pour cela. Je ne m’attends pas à ce que vous fassiez cela pour rien. Ou alors, si nous obtenons le livre et devons y mettre un prix, nous y mettrons un prix, et vous recevrez quelque chose dès qu’ils le vendront. Vous n’aurez qu’à parler au Conseil d’administration, ou à quelqu’un qui en fait partie. Ils s’occuperont de la chose pour vous. Que le Seigneur vous bénisse richement.
+
+9 Et voici les chers vieux frère et soeur Kidd, qui sont assis ici et qui ont presque cent ans; et elle, je l’ai rencontrée ici il y a un moment, et elle m’a dit: «C’est probablement la dernière fois que je puis vous voir, frère Billy». Je dis: «Je ne veux pas vous entendre dire cela». Ils sont juste comme de vieux petits père et mère. Nous aimons frère et soeur Kidd. Tout le monde les aime. Cela me fait quelque chose quand je les vois marcher dans l’église, un vieux petit couple comme cela. Et pensez, ils prêchaient l’Evangile avant ma naissance, et je suis un vieil homme! Oui, pensez, ils prêchaient avant que je fusse né, et me voici ici maintenant, et je commence à penser: «Je deviens si vieux», et réfléchissant à ce propos que je suis prêt à me retirer — alors, je vois frère et soeur Kidd entrer: «Gloire à Dieu!».
+
+10 Je dis: «Non, je me sens bien». Oui, de les voir, ils m’inspirent réellement. Alors, vous vous rendez compte qu’ils ont à peu près le double de mon âge, et qu’ils continuent à aller sur le champ de mission! Et ils vinrent ce matin. Et ils demandèrent des livres — afin qu’ils puissent les prendre et les vendre. Ils voulaient des bandes magnétiques, afin de pouvoir sortir et gagner des âmes par ces bandes. Ayant presque cent ans! Maintenant, où sont vos deux ailes dont nous parlions hier soir? Oui, je commence à penser à propos de «Où sont les miennes?». Quel âge avez-vous donc, soeur Kidd? (quatre-vingt-un ans). Quel âge avez-vous, frère Kidd? (quatre-vingt-deux ans). Quatre-vingt-un et quatre-vingt-deux ans, et employant encore leurs ailes dans l’action, toujours à l’oeuvre.
+
+11 Quoi qu’il puisse y avoir dans l’Ohio qui ne va pas dont soeur Kidd entende parler, le téléphone sonne à la maison. L’autre jour, le téléphone sonna. Et un petit bébé (une petite fille, je crois) était né, et ses intestins étaient à l’extérieur de l’enfant, et la vessie était à l’extérieur du bébé. Et le médecin ne savait que faire. Et il avait peur d’entreprendre une opération. Nous avons prié… [Soeur Kidd raconte le cas depuis l’auditoire. — N.d.R.] Le médecin fit une opération pour remettre en place, dans le corps, les intestins — et il pensait que le petit ne pourrait pas vivre. Et pourtant, il vécut. Il n’y avait alors pas de passage au rectum pour que les selles pussent passer. Soeur Kidd appela encore une fois au téléphone. Nous priâmes de nouveau, et maintenant, il y a un passage normal. Elle est ici comme témoin, et le médecin aussi. C’est un témoignage que le Seigneur Jésus, le grand Créateur… Voyez ce que Satan essaya de faire? Retrancher la vie de ce bébé. Et voyez, je crois que la dame [la mère de l’enfant — N.d.R.] revint au Seigneur. Soeur Kidd l’a conduite à Christ, après que ce grand miracle se fut accompli pour son bébé.
+
+12 J’ai reçu un appel, hier, de la Californie, d’un petit frère qui est pasteur là-bas, et avec lequel je suis allé, la première fois que je me rendis en Californie, il y a bien des années. Son petit-fils était né, ayant trois valves de son coeur fermées. Je lui ai raconté ce cas là. Et je lui dis: «Le Dieu qui a pu créer cette autre chose, et faire en sorte que cela soit bien, peut certainement guérir votre petit-fils. Dites à votre garçon de prendre courage». Et le garçon [le père de l’enfant malade, — N.d.R.] était à la réunion, la première fois que j’étais en Californie, il y a environ seize ans de cela. J’étais en Californie, et la réunion eut une telle influence sur ce garçon que lorsqu’ils eurent le bébé, et qu’ils virent qu’il y avait quelque chose qui n’allait pas — il était bleu, et ils essayèrent de donner de l’oxygène a l’enfant; et il n’avait pas l’air de vouloir survivre. C’est alors que les médecins l’examinèrent, et trouvèrent que trois valves du coeur étaient fermées — vous voyez, il n’y avait aucune ouverture — juste une valve qui fonctionnait. Il appela son père et dit: «Papa, téléphone au frère Branham, immédiatement. Dis-lui qu’il demande à Christ: il le fera». C’est cela. Oh, là, là, l’influence que cela peut avoir. Voyez-vous, ce qui a été dit, hier soir: la chose juste au bon moment.
+
+13 Eh bien, nous continuons à parler, et nous n’allons jamais commencer la leçon. C’est comme de la mélasse, par un matin froid — c’est peut-être aussi épais que cela. Vous savez, compact. Nous sommes très heureux d’avoir une pareille communion. Oh oui.
+
+14 Calmons-nous, maintenant, et commençons la leçon. Je ne sais pas si vous pouvez voir sur le tableau noir [le frère Branham demande un tableau noir. — N.d.R.].
+
+15 Pendant qu’ils le préparent… Je commence tard ce matin… Non, non, je suis un quart d’heure en avance; aussi allons-nous prendre tout notre temps maintenant, parce que nous ne voulons pas nous presser. Quand nous nous dépêchons, nous gâtons les choses que nous allons vous dire. J’écoutais une bande magnétique, il y a quelques jours, et je fus tellement honteux de moi-même, non de ce que je disais, mais de la manière avec laquelle je le disais — trop rapidement, sur une tonalité trop nerveuse.
+
+16 Je vis l’autre jour l’endroit où ils allaient construire un grand zoo, ici au milieu de Louisville. Et on offrit à M. Brown (du moins je le crois) un million de dollars pour le zoo. Eh bien, si je les avais, je donnerais presque cela pour libérer ces animaux. Je ne pense pas que ce soit bien que l’on mette quoi que ce soit en cage. Je vais dans les zoos, et je vois ces pauvres vieux animaux, des ours, et des lions, et des bêtes qui vont et viennent, emprisonnés pour la vie. Cela vous fait de la peine. Après tout, ils sont capturés par l’intelligence d’un homme qui est plus habile qu’eux. Il les capture et les met en captivité.
+
+17 Maintenant, j’y pense, c’est le diable qui fait cela. Il prend les précieuses personnes qui devraient se promener sur de grands espaces de Dieu, des champs ou quelque chose ainsi, et ensuite, il les met dans une prison de quelque dénomination ou credo, ou chose semblable, il les attache là. C’est horrible!
+
+18 Je n’aime pas les zoos. Mais je me sens comme un de ces animaux, lorsque vous êtes en cage et que vous essayez de vous libérer — vous savez, pour en sortir et faire quelque chose.
+
+19 Maintenant, avant de nous approcher de la Parole, approchons-nous de l’Auteur de la Parole, tandis que nous inclinons nos têtes pour la prière.
+
+20 «Notre Père Céleste, nous sommes assemblés de nouveau ce matin dans le Nom du Seigneur Jésus, Ton précieux Fils — Dieu incarné, venu sur la terre pour la propitiation de nos péchés. Il est mort, Lui le Juste, afin que par Sa Justice, nous les injustes, nous puissions être rendus parfaits en Lui. Nous reconnaissons que nous sommes indignes, Seigneur. Il n’y a rien de bon en nous, et nous sommes tous enfermés dans une grande prison. Peu importe l’endroit où nous nous tenons, nous sommes cependant toujours en prison. Aucun ne peut aider l’autre. Mais Dieu, dans Sa grâce infinie, est descendu ouvrir la porte de la prison pour nous libérer. Nous ne sommes plus derrière les barreaux, maintenant. Nous ne sommes plus dans le zoo du monde, mais maintenant, nous sommes libres, nous sommes en dehors.
+
+21 Oh, combien nous L’aimons et L’adorons! Comme nous pouvons marcher à travers les grands champs (espaces) de Sa promesse et les voir manifestés devant nous, et de nos propres yeux voir le grand Dieu d’Eternité se dévoilant devant nous, et se rendant aussi réel qu’Il le fut pour les prophètes d’autrefois, sachant ceci: qu’ils pouvaient se reposer avec une entière assurance sur le fait qu’un jour, nous serons à nouveau restaurés, après que cette vie sera terminée; et que nous ressusciterons à une vie éternelle qui n’aura jamais de fin. Nos corps ne vieilliront pas, et nous ne mourrons jamais. Et nous n’aurons jamais faim, et nous ne manquerons jamais de rien. Mais nous marcherons avec Lui. Nous voulons L’entendre dire: “Entre dans la joie de ton Maître, qui a été préparée pour toi dès avant la fondation du monde”. Il en sera comme il en était pour Adam et Eve lorsque, avant l’apparition du péché, ils ne devaient jamais être malades, ni avoir aucun chagrin. Et alors, Il prépara cela pour nous, car Il savait d’avance que nous y viendrions. C’est le péché qui fit le grand blocage, et depuis que le péché a été ôté par le Sang de Jésus, nous sommes en route pour la Terre Promise, à cause de la promesse de Dieu qui est éternelle.
+
+22 Bénis-nous, Père, tandis que nous méditons Ta Parole, nous voulons savoir quelle sorte de personne nous devons être, afin de pouvoir nous y trouver. Tiens-nous aujourd’hui à l’écoute du grand Maître d’école — le Saint-Esprit, qui allait descendre et se révéler à nous par Sa Parole. Ainsi, nous le demandons en Son Nom, et pour Sa Gloire. Amen».
+
+23 Et maintenant, j’aimerais tout d’abord que nous lisions au premier chapitre de la seconde épître de Pierre. Et quant à vous qui avez vos crayons et vos blocs — et je crois que je l’ai dit ce matin — quelquefois, lorsque je tourne la tête, le son de ma voix faiblit sur les bandes. Bien sûr, je ne voudrais pas faire cela, et je crois parfois que j’envisagerais l’installation d’un microphone encastré dans le plafond ici… quelque soit l’endroit où vous seriez, vous seriez alors bien placés, ce serait parfait tout autour de la salle. Seulement un microphone au-dessus du plafond.
+
+24 Et maintenant, tandis que je parle, si vous voulez après le service faire un petit schéma de cette esquisse ici; car je l’ai aussi dessinée, et je prendrai une punaise, pour la mettre ici devant moi, si vous désirez le faire une fois. Venez un peu plus tôt cet après-midi, afin que nous puissions bien comprendre.
+
+25 Maintenant donc, nous nous approchons des Sept Sceaux. Nous venons de terminer les Sept Ages de l’Eglise, et ceci est un message qui nous enseigne à quoi se trouve astreint l’homme qui a été racheté par le Sang du Seigneur Jésus, et qui sera dans cet Age de l’Eglise — cet Age de l’Eglise Eternelle à la fin des Sceaux. Maintenant donc, nous savons que nous avons Sept Trompettes, Sept Plaies, Sept Coupes, etc. dans lesquelles nous entrons, tandis que nous avançons — mais nous attendons qu’il y ait plus de places, afin que les personnes puissent être assises.
+
+26 Je n’avais pas l’intention de dessiner cette esquisse. Mais l’autre jour, lorsque je me trouvais avec quelques-uns de mes chers amis — chez les Cox, lesquels habitent le Kentucky — je suis descendu, pensant que je pourrais avoir encore un jour de chasse à l’écureuil avant la fin de la saison. Et j’étais là-bas dans les bois, avec mon ami Charlie, qui est ici avec son frère Rodney, et je n’ai pas vu un seul écureuil. Je crois que je les ai tous effrayés, pendant que je criais dans les bois! Voici ce qui m’est venu, frères, et vous, soeurs Nellie et Margie, quand je vous ai dit que je vous expliquerais dimanche, lorsque je parlerais de cela. Voici ce qui m’est venu, à propos d’un message sur lequel j’allais me mettre à parler, et combien la suite est directement reliée à cela. Et oh! combien j’aime avoir le vrai Esprit pour crier là-bas dans les bois.
+
 27 Maintenant donc, lisons une portion du premier chapitre de 2 Pierre:
-       “Simon Pierre, serviteur et apôtre de Jésus-Christ, à ceux qui ont reçu en partage une
-     foi du même prix que la nôtre, par la justice de notre Dieu et du Sauveur Jésus-Christ”.
-     J’aime la façon dont cela est dit ici. Car tout mon sujet ce matin est basé sur la FOI.
-Laissez-moi relire ceci, écoutez bien:
-       “Simon Pierre, serviteur et apôtre de Jésus-Christ, à ceux qui on reçu en partage une
-     foi du même prix que la nôtre, par la justice de notre Dieu et du Sauveur Jésus-Christ”.
-     Remarquez qu’il est dit: “J’ai obtenu cette foi, et j’adresse ceci à ceux qui ont obtenu la même
-précieuse foi”.
-   Ceci n’est pas pour le monde extérieur, ceci est pour l’Eglise — pour ceux qui sont en
-Christ.
-       “Que la grâce et la paix vous soient multipliées par la connaissance de Dieu et de
-     Jésus notre Seigneur! Comme sa divine puissance nous a donné tout ce qui contribue à
-     la vie et à la piété, au moyen de la connaissance de celui qui nous a appelés par sa
-     propre gloire et par sa vertu, lesquelles nous assurent de sa part les plus grandes et les
-     plus précieuses promesses, afin que par elles vous deveniez participants de la nature
-     divine…”.
-     Maintenant, laissez ceci pénétrer profondément en vous. Sans prêcher ce matin, nous
-enseignons simplement cette leçon sur la Nature Divine. Je relis maintenant ce quatrième verset,
-afin que vous ne le manquiez pas:
-       “Lesquelles nous assurent… lesquelles nous assurent de sa part les plus grandes et
-     les plus précieuses promesses, afin que par elles (ces promesses), vous deveniez
-     participants de la nature divine, en fuyant la corruption qui existe dans le monde par la
-     convoitise”.
 
-        http://www.cmpp.ch
+> “Simon Pierre, serviteur et apôtre de Jésus-Christ, à ceux qui ont reçu en partage une foi du même prix que la nôtre, par la justice de notre Dieu et du Sauveur Jésus-Christ”.
 
-LA STATURE DE L’HOMME PARFAIT 6
-28 Voyez le monde — maintenant, nous lui avons échappé. Il s’adresse à l’Eglise. C’est pourquoi
-nous sommes ici ce matin, pour découvrir les exigences de Dieu. Il n’y a pas une seule personne
-ici qui, aimant Dieu, ne désire devenir davantage à la ressemblance de Christ — c’est marqué ici
-chaque chrétien. Je suis un vétéran. Regardez frère et soeur Kidd, ici: ce sont probablement les
-personnes les plus âgées de ce bâtiment. Mais si je leur demandais: «Quel est le désir de votre
-coeur?», alors ce serait: «Etre plus près de Dieu». Quand vous apprenez à connaître Christ, il y
-a quelque chose en Lui de si aimant que vous essayez d’entrer en Lui.
-29 Excusez ce que je vais vous dire. Je disais à ma femme, il n’y a pas si longtemps (tous les
-deux, nous vieillissons et…) Je lui disais: «Est-ce que tu m’aimes comme tu m’aimais autrefois?».
-«Certainement», dit-elle. Et je lui dis: «Tu sais, je t’aime tellement que je voudrais te prendre et te
-tirer au-dedans de moi, afin que nous puissions être vraiment un». Multipliez ceci par cent millions,
-alors vous découvrirez combien le croyant qui tombe amoureux de Christ veut entrer en Lui, car
-c’est ça, l’amour; et voilà, Il va nous montrer qu’à travers ces promesses, nous pouvons être
-participants de la Nature Divine de Christ. Ces corps mortels — comment donc pouvons-nous
-être participants?
-30 Ici, je pourrais encore dire quelque chose. Il y a ici quelqu’un qui ne m’a pas compris du tout.
-J’ai reçu une lettre de l’Association des Prédicateurs, qui disait que je croyais que nous étions des
-âmes soeurs, et que nous devions nous séparer de nos compagnes, si nous n’étions pas unis très
-étroitement à elles, ceci afin d’en épouser une autre, avec laquelle nous serions âme soeur. Ça,
-par exemple! Je dis: «Je ne suis pas coupable d’une pareille hérésie». J’ai toujours été opposé à
-cela. Je ne crois pas cela. Certes pas! Je crois que Dieu nous donne un conjoint. C’est vrai. Et
-alors, nous devenons une partie de l’autre. C’est tout à fait vrai. Et alors, écoutez bien, avant qu’un
-homme ne se marie, il devrait penser à cela; il devrait l’étudier.
-31 Un jeune homme me dit l’autre jour: «Vous pensez que je devrais me marier, frère Branham,
-avec telle ou telle jeune fille?». Je dis: «Qu’est-ce que vous pensez d’elle?». Il répondit: «Oh, je
-l’aime tellement!». Je lui dis: «Eh bien, si vous ne pouvez vivre sans elle, c’est mieux que vous
-l’épousiez. Mais si vous pouvez vivre sans elle, c’est mieux que vous ne l’épousiez pas. Mais si
-cela va vous faire dépérir, alors vous feriez mieux d’aller de l’avant et de l’épouser». Et ce que
-j’essayais de lui dire est ceci: que si vous l’aimez tellement… Maintenant, en ce moment, avant de
-vous marier, toutes choses ont l’air facile et bien; mais après que vous êtes marié, alors les pièges
-et les difficultés de la vie arrivent. La chose, c’est que vous en soyez tellement amoureux que vous
-vous compreniez l’un l’autre. Et lorsque vous êtes déçu d’elle ou qu’elle est déçue de vous, vous
-continuiez à vous comprendre mutuellement.
-32 Il en est de même de Christ. Nous devons tellement L’aimer, que lorsque nous
-demandons quelque chose et qu’Il ne nous le donne pas, cela ne nous ébranle pas le moins
-du monde. Voyez-vous pourquoi? Et la seule façon de pouvoir le faire, est de devenir participant
-de sa Nature Divine; c’est alors que vous comprendrez la raison pour laquelle Il ne peut pas vous
-le donner — lorsque vous êtes participant de sa Nature Divine. Maintenant, regardez ceci: “Ayant
-échappé à la corruption qui est dans le monde par la convoitise” — c’est que vous y avez
-échappé. Voyez qui cela concerne: c’est pour l’Eglise. Ceux qui sont en Christ ont été élevés
-au-dessus de ces choses. Ils ne se sont pas élevés eux-mêmes, mais c’est Christ qui les a
-élevés.
-33 Quant à mes frères et soeurs de couleur qui sont présents ici, ce matin… Je ne pense pas
-que cela leur fera du mal. Nous étions dans une réunion, il y a quelque temps. Je ne sais pas si j’ai
-jamais dit cela au Tabernacle; j’en ai parlé à maints endroits. Une soeur de couleur a dit:
-     — «Puis-je donner mon témoignage?
-     — Certainement, soeur, allez-y!».
-     Elle dit: «Je veux rendre un témoignage à la gloire de Dieu».
-     Elle dit: «Je ne suis pas ce que je devrais être, je ne suis pas ce que je voudrais être, mais
-une chose dont je suis sûre, c’est que je ne suis pas ce que j’étais autrefois».
-34 Voyez, elle est venue de quelque part; elle a été «élevée». C’est ainsi que nous savons que
-nous avons passé de la mort à la vie. Nous regardons en arrière, vers l’abîme dont nous avons été
-tirés. Voyez, nous ne sommes pas ce que nous voudrions être; pas même ce que nous devrions
-être, mais il y a une chose dont nous sommes reconnaissants: nous ne sommes pas ce que
-nous étions autrefois. Nous sommes sur le chemin; et “ayant échappé à la corruption qui est
+J’aime la façon dont cela est dit ici. Car tout mon sujet ce matin est basé sur la FOI. Laissez-moi relire ceci, écoutez bien:
 
-        http://www.cmpp.ch
+> “Simon Pierre, serviteur et apôtre de Jésus-Christ, à ceux qui on reçu en partage une foi du même prix que la nôtre, par la justice de notre Dieu et du Sauveur Jésus-Christ”.
 
-    LA STATURE DE L’HOMME PARFAIT    7
+Remarquez qu’il est dit: “J’ai obtenu cette foi, et j’adresse ceci à ceux qui ont obtenu la même précieuse foi”.
+
+Ceci n’est pas pour le monde extérieur, ceci est pour l’Eglise — pour ceux qui sont en Christ.
+
+> “Que la grâce et la paix vous soient multipliées par la connaissance de Dieu et de Jésus notre Seigneur! Comme sa divine puissance nous a donné tout ce qui contribue à la vie et à la piété, au moyen de la connaissance de celui qui nous a appelés par sa propre gloire et par sa vertu, lesquelles nous assurent de sa part les plus grandes et les plus précieuses promesses, afin que par elles vous deveniez participants de la nature divine…”.
+
+Maintenant, laissez ceci pénétrer profondément en vous. Sans prêcher ce matin, nous enseignons simplement cette leçon sur la Nature Divine. Je relis maintenant ce quatrième verset, afin que vous ne le manquiez pas:
+
+> “Lesquelles nous assurent… lesquelles nous assurent de sa part les plus grandes et les plus précieuses promesses, afin que par elles (ces promesses), vous deveniez participants de la nature divine, en fuyant la corruption qui existe dans le monde par la convoitise”.
+
+28 Voyez le monde — maintenant, nous lui avons échappé. Il s’adresse à l’Eglise. C’est pourquoi nous sommes ici ce matin, pour découvrir les exigences de Dieu. Il n’y a pas une seule personne ici qui, aimant Dieu, ne désire devenir davantage à la ressemblance de Christ — c’est marqué ici chaque chrétien. Je suis un vétéran. Regardez frère et soeur Kidd, ici: ce sont probablement les personnes les plus âgées de ce bâtiment. Mais si je leur demandais: «Quel est le désir de votre coeur?», alors ce serait: «Etre plus près de Dieu». Quand vous apprenez à connaître Christ, il y a quelque chose en Lui de si aimant que vous essayez d’entrer en Lui.
+
+29 Excusez ce que je vais vous dire. Je disais à ma femme, il n’y a pas si longtemps (tous les deux, nous vieillissons et…) Je lui disais: «Est-ce que tu m’aimes comme tu m’aimais autrefois?». «Certainement», dit-elle. Et je lui dis: «Tu sais, je t’aime tellement que je voudrais te prendre et te tirer au-dedans de moi, afin que nous puissions être vraiment un». Multipliez ceci par cent millions, alors vous découvrirez combien le croyant qui tombe amoureux de Christ veut entrer en Lui, car c’est ça, l’amour; et voilà, Il va nous montrer qu’à travers ces promesses, nous pouvons être participants de la Nature Divine de Christ. Ces corps mortels — comment donc pouvons-nous être participants?
+
+30 Ici, je pourrais encore dire quelque chose. Il y a ici quelqu’un qui ne m’a pas compris du tout. J’ai reçu une lettre de l’Association des Prédicateurs, qui disait que je croyais que nous étions des âmes soeurs, et que nous devions nous séparer de nos compagnes, si nous n’étions pas unis très étroitement à elles, ceci afin d’en épouser une autre, avec laquelle nous serions âme soeur. Ça, par exemple! Je dis: «Je ne suis pas coupable d’une pareille hérésie». J’ai toujours été opposé à cela. Je ne crois pas cela. Certes pas! Je crois que Dieu nous donne un conjoint. C’est vrai. Et alors, nous devenons une partie de l’autre. C’est tout à fait vrai. Et alors, écoutez bien, avant qu’un homme ne se marie, il devrait penser à cela; il devrait l’étudier.
+
+31 Un jeune homme me dit l’autre jour: «Vous pensez que je devrais me marier, frère Branham, avec telle ou telle jeune fille?». Je dis: «Qu’est-ce que vous pensez d’elle?». Il répondit: «Oh, je l’aime tellement!». Je lui dis: «Eh bien, si vous ne pouvez vivre sans elle, c’est mieux que vous l’épousiez. Mais si vous pouvez vivre sans elle, c’est mieux que vous ne l’épousiez pas. Mais si cela va vous faire dépérir, alors vous feriez mieux d’aller de l’avant et de l’épouser». Et ce que j’essayais de lui dire est ceci: que si vous l’aimez tellement… Maintenant, en ce moment, avant de vous marier, toutes choses ont l’air facile et bien; mais après que vous êtes marié, alors les pièges et les difficultés de la vie arrivent. La chose, c’est que vous en soyez tellement amoureux que vous vous compreniez l’un l’autre. Et lorsque vous êtes déçu d’elle ou qu’elle est déçue de vous, vous continuiez à vous comprendre mutuellement.
+
+32 Il en est de même de Christ. Nous devons tellement L’aimer, que lorsque nous demandons quelque chose et qu’Il ne nous le donne pas, cela ne nous ébranle pas le moins du monde. Voyez-vous pourquoi? Et la seule façon de pouvoir le faire, est de devenir participant de sa Nature Divine; c’est alors que vous comprendrez la raison pour laquelle Il ne peut pas vous le donner — lorsque vous êtes participant de sa Nature Divine. Maintenant, regardez ceci: “Ayant échappé à la corruption qui est dans le monde par la convoitise” — c’est que vous y avez échappé. Voyez qui cela concerne: c’est pour l’Eglise. Ceux qui sont en Christ ont été élevés au-dessus de ces choses. Ils ne se sont pas élevés eux-mêmes, mais c’est Christ qui les a élevés.
+
+33 Quant à mes frères et soeurs de couleur qui sont présents ici, ce matin… Je ne pense pas que cela leur fera du mal. Nous étions dans une réunion, il y a quelque temps. Je ne sais pas si j’ai jamais dit cela au Tabernacle; j’en ai parlé à maints endroits. Une soeur de couleur a dit:
+
+— «Puis-je donner mon témoignage?
+— Certainement, soeur, allez-y!».
+
+Elle dit: «Je veux rendre un témoignage à la gloire de Dieu».
+
+Elle dit: «Je ne suis pas ce que je devrais être, je ne suis pas ce que je voudrais être, mais une chose dont je suis sûre, c’est que je ne suis pas ce que j’étais autrefois».
+
+34 Voyez, elle est venue de quelque part; elle a été «élevée». C’est ainsi que nous savons que nous avons passé de la mort à la vie. Nous regardons en arrière, vers l’abîme dont nous avons été tirés. Voyez, nous ne sommes pas ce que nous voudrions être; pas même ce que nous devrions être, mais il y a une chose dont nous sommes reconnaissants: nous ne sommes pas ce que nous étions autrefois. Nous sommes sur le chemin; et “ayant échappé à la corruption qui est
+
+LA STATURE DE L’HOMME PARFAIT    7
 dans le monde” — ayant échappé à cela, à la convoitise et à la corruption du monde. Nous
 sommes au-dessus de cela.
 35 Or, c’est cela, le genre de personne à qui Dieu parle — la personne qui a échappé à ces
@@ -738,8 +594,8 @@ comment construire une maison, vous voyez; mais moi, je vais vous expliquer comm
 construire votre maison spirituelle, où Dieu peut habiter. Il veut demeurer en vous. Il veut vous
 rendre semblable à Lui-même. Il veut que vous soyez réfléchi… plutôt que vous reflétiez Son être.
 97 Vous savez, autrefois, quand ils faisaient de l’or, avant qu’ils n’eussent le fondeur pour le
-purifier, ils avaient l’habitude de battre l’or, puis de le travailler pour en extraire la boue, le fer, et le
-cuivre, et toutes les matières premières, et ils continuaient à le battre, à le retourner, à le battre
+purifier, ils avaient l’habitude de battre l’or, puis de le travailler pour en extraire la boue, le fer, et
+le cuivre, et toutes les matières premières, et ils continuaient à le battre, à le retourner, à le battre
 encore — comme les Indiens le font maintenant. Savez-vous comment ils pouvaient dire que tout
 le fer était parti, et toutes les saletés, et toutes les impuretés? C’est lorsque l’ouvrier qui était en
 train de battre l’or pouvait voir sa propre image se refléter comme dans un miroir. Ainsi, c’était
@@ -905,7 +761,7 @@ sommes capables de nous présenter, voir si notre intelligence est assez élevé
 
     http://www.cmpp.ch
 
-    LA STATURE DE L’HOMME PARFAIT    17
+LA STATURE DE L’HOMME PARFAIT    17
 cette charge!». — «Je crois, disent-ils, que nous avons la plus grande organisation; nous
 construisons notre organisation».
 127 Nous ne construisons pas une organisation! Je ne suis pas ici ce matin pour construire une
@@ -1017,7 +873,7 @@ l’on appliquait de l’argile sur un rocher — cela ne tiendrait pas. Cela s�
 Vous avez entendu dire cela tout le temps. Ce petit propos: «Vous ne pouvez croire la Bible» —
 eh bien, si vous avez cela dans votre pensée, n’essayez pas de l’ajouter, car cela ne marchera
 pas. A cet instant précis, l’édifice s’écroulera. Il doit être cimenté par le Saint-Esprit — je veux dire
-tenu ensemble, comme le mortier scelle la maçonnerie. Vous savez, il en est de même d’une
+ tenu ensemble, comme le mortier scelle la maçonnerie. Vous savez, il en est de même d’une
 chambre à air vulcanisée: elle dure toujours plus longtemps qu’une simple pièce collée — un peu
 
         http://www.cmpp.ch
@@ -1025,15 +881,15 @@ chambre à air vulcanisée: elle dure toujours plus longtemps qu’une simple pi
     LA STATURE DE L’HOMME PARFAIT    19
 de chaleur, et le vieux morceau se décolle de la chambre à air; la première chose à savoir est
 qu’en roulant un peu vite, cela chauffe ce petit morceau de pneu, et le fait fondre, et il se détache.
-146 Eh oui, vous voyez cela? c’est ce qui arrive à de nombreuses personnes, aujourd’hui: elles
-essaient d’appliquer leur connaissance selon la sagesse de ce monde, avec un peu de colle
+146 Eh oui, vous voyez cela? c’est ce qui arrive à de nombreuses personnes, aujourd’hui:
+elles essaient d’appliquer leur connaissance selon la sagesse de ce monde, avec un peu de colle
 de cette terre, et quand survient l’épreuve, elles disent: «Eh bien, peut-être que j’étais dans
 l’erreur». Vous voyez, lorsque l’air s’en va, vous êtes dégonflé en quelques minutes. Tous vos
 bonds ne vous ont fait aucun bien. Les gens vous voient toujours encore dans le même bourbier.
 C’est vrai. Mais si vous restez là avec la chaleur du Saint-Esprit en suffisance, Il vous unit
 étroitement à la chambre à air, jusqu’à ce qu’elle et vous ne formiez qu’un. C’est bien cela! Vous et
 la chambre à air devenez un! Quand vous restez là jusqu’à ce que vous et toutes les
-promesses de Dieu deviennent un, alors, ajoutez cela à votre foi. Si vous ne devenez pas
+promesses de Dieu deveniez un, alors, ajoutez cela à votre foi. Si vous ne devenez pas
 ainsi, ne l’ajoutez pas du tout.
 147 Vous dites: «On ne peut avoir confiance en la Parole». N’essayez pas d’ajouter cela. Si vous
 dites: «Les promesses concernant le Baptême du Saint-Esprit contenues là-dedans étaient
@@ -1200,7 +1056,7 @@ jamais vu, parce que tout le ciel va devenir noir, il y aura du tonnerre, et des
         http://www.cmpp.ch
 
 LA STATURE DE L’HOMME PARFAIT 22
-ces cent vingt ans. Vous allez voir!”. Quelques-uns des demi-croyants restèrent aux environs, mais
+ces cent vingt ans. Vous allez voir!". Quelques-uns des demi-croyants restèrent aux environs, mais
 ils n’entrèrent jamais, vous comprenez: nous en avons encore de ce genre, vous le savez bien.
 177 Ainsi, ils vinrent et dirent: “Eh bien, le vieux pourrait bien avoir eu raison, aussi allons-nous
 monter, et attendre quelques jours, ou quelques heures dans la matinée pour voir”.
@@ -1423,7 +1279,7 @@ tournant, elles aussi, vous voyez).
 218 Très bien, ajoutez ceci à votre foi, Le mettant toujours devant vous, et vous souvenant
 que C’EST LUI QUI A PROMIS. Ce n’est pas moi qui ai promis; pas non plus le pasteur (notre frère
 Neville), ce n’est pas un autre pasteur qui a promis, ce n’est pas un prêtre ou le pape; ce n’est
-aucun homme sur la terre: c’est Dieu qui fit la promesse, et Dieu est capable de tenir tout ce qu’Il a
+ aucun homme sur la terre: c’est Dieu qui fit la promesse, et Dieu est capable de tenir tout ce qu’Il a
 promis.
 
         http://www.cmpp.ch
@@ -1487,255 +1343,69 @@ C’est cela, la piété.
 
         http://www.cmpp.ch
 
-    LA STATURE DE L’HOMME PARFAIT    27
-228 Après que vous ayez fini d’aller d’ici là, de là à là, de degré en degré, vous êtes en train de
-parvenir à la parfaite stature d’un fils de Dieu. Mais il faut que vous ayez ceci, plus tout ceci, et
-vous ne pourrez pas même commencer avant d’avoir cela.
-229 Maintenant, souvenez-vous du merle avec les plumes de paon. Ne l’oubliez pas. N’essayez
-pas d’ajouter avant d’être véritablement né de nouveau, car cela n’agirait pas. Vous ne pouvez
-le faire marcher par vous-même. Cela provoquerait un effritement quelque part. Mais lorsque,
-véritablement né de nouveau, vous devenez une vraie colombe, alors, n’ajoutez rien: cela
-s’ajoute tout naturellement à vous, cela vient sur vous.
-230 Bien. Nous parvenons donc à la perfection. Très bien. Alors, septièmement, ajoutons
-l’amour fraternel — la bonté fraternelle. C’en est un tout bon, celui-ci. Juste ici le septième. Très
-bien, ajoutons donc la bonté fraternelle. Quand nous en arrivons là (à l’amour fraternel) vous vous
-mettez vous-même à la place de votre frère. Maintenant, vous dites: «Mon frère a péché contre
-moi». Pierre disait: “Lui pardonnerai-je sept fois d’un jour?”. Et Jésus répondit: “Septante fois sept
-fois”.
-231 Voyez, c’est ça, la bonté fraternelle. Maintenant, vous discernez bien si un frère est tout à fait
-en désaccord; ne vous impatientez pas avec lui. Non. Soyez gentil envers lui. Allez quand même
-vers lui.
-232 Quelqu’un a dit dernièrement: «Comment pouvez-vous croire ces choses-là de la manière que
-vous les croyez, et pourtant vous rendre aux Assemblées de Dieu, et chez les ‹Oneness›
-(Unitariens), de même qu’à tous les autres endroits?». C’est à cause de la bonté fraternelle —
-espérant qu’un jour… Il faut avoir de la patience envers chacun d’eux; de la tempérance, un esprit
-de support; de la connaissance pour comprendre ce qu’ils croient; et rappelez-vous: c’est ce qu’il y
-a dans leur coeur qui compte. La vertu qui est en vous, laissez-là sortir avec bonté, humilité
-envers eux, ayant la foi qu’un jour Dieu les fera entrer. L’amour fraternel — c’est la septième
-chose. Un, deux, trois, quatre, cinq, six, sept — sept choses.
-233 Alors, maintenant, vous êtes en train d’y parvenir. Ce qui vient immédiatement après, c’est
-la charité, qui est l’amour. Ajoutez cela. C’est la pierre de faîte. Un de ces jours, dans
-l’Eglise…
-234 Maintenant, s’il vous plaît, que l’on fasse connaître ceci par la bande enregistrée… d’autant
-plus que je n’enseigne pas ceci comme étant une doctrine — ce que je vais dire maintenant. Mais
-ce que je veux juste vous montrer, avec l’aide de Dieu, c’est que la première Bible que Dieu ait
-jamais écrite fut vraiment le zodiaque dans le ciel. Cela commença par la vierge, et finit par le lion
-(Leo). Et quand j’entrerai dans ce sixième et septième Sceau, vous découvrirez que quand cet
-autre Sceau fut ouvert, la marque du zodiaque de cet endroit-là était le cancer (cross fish). C’est
-l’âge du cancer que nous sommes en train de vivre, en ce moment. Ceci a été révélé. Et la
-première chose ensuite que le sceau dévoile, c’est le Lion (Leo) — soit la seconde venue de
-Christ. Il vint pour commencer par la vierge… Maintenant, je ne sais pas si nous aurons le temps
-ce matin… je ferai de mon mieux pour vous montrer que ces marches (degrés) sont indiquées de
-façon très précise dans la Pyramide — qui est la seconde Bible que Dieu a écrite. Enoch les
-inscrivit donc, et les mit dans la Pyramide.
-235 Et troisièmement (Dieu est toujours rendu parfait dans le troisième), Il se fit Lui-même Sa
-Parole. Souvenez-vous, dans la pyramide… (je pense que plusieurs d’entre vous, soldats, et
-d’autres encore, vous êtes allés en Egypte). La pyramide n’a pas de capuchon. Il n’y a jamais été.
-La pierre de faîte fut manquée, mais quand même…
-236 Si vous possédez un billet d’un dollar dans votre poche, regardez bien ce billet, et vous
-découvrirez à droite un aigle avec le drapeau américain. Et l’on petit lire: «Le Sceau des
-Etats-Unis». De l’autre côté, il y a la pyramide, avec une grande pierre de faite et l’oeil d’un
-homme; il est écrit de ce côté-là: «Le grand Sceau». Eh bien, si ceci est une grande nation,
-pourquoi ce grand sceau ne serait-il pas alors le propre sceau de la nation? Dieu fait en sorte
-qu’ils rendent témoignage où qu’ils aillent.
-237 Une fois, je parlais à un médecin, et je fus mis sur la sellette à propos de la guérison divine.
-Nous étions dans la rue. Il dit: «M. Branham, vous embrouillez seulement les gens avec cela». Il
-poursuivit: «Il n’y a de guérison que par les médicaments».
-238 Comme je me retournais, je vis son signe sur sa voiture — il avait ce serpent sur la perche. Je
-dis: «Vous feriez mieux d’enlever ce signe de votre voiture, car votre propre signe témoigne que
+LA STATURE DE L’HOMME PARFAIT    27
+228 Après que vous ayez fini d’aller d’ici là, de là à là, de degré en degré, vous êtes en train de parvenir à la parfaite stature d’un fils de Dieu. Mais il faut que vous ayez ceci, plus tout ceci, et vous ne pourrez pas même commencer avant d’avoir cela.
+229 Maintenant, souvenez-vous du merle avec les plumes de paon. Ne l’oubliez pas. N’essayez pas d’ajouter avant d’être véritablement né de nouveau, car cela n’agirait pas. Vous ne pouvez le faire marcher par vous-même. Cela provoquerait un effritement quelque part. Mais lorsque, véritablement né de nouveau, vous devenez une vraie colombe, alors, n’ajoutez rien: cela s’ajoute tout naturellement à vous, cela vient sur vous.
+230 Bien. Nous parvenons donc à la perfection. Très bien. Alors, septièmement, ajoutons l’amour fraternel — la bonté fraternelle. C’en est un tout bon, celui-ci. Juste ici le septième. Très bien, ajoutons donc la bonté fraternelle. Quand nous en arrivons là (à l’amour fraternel) vous vous mettez vous-même à la place de votre frère. Maintenant, vous dites: «Mon frère a péché contre moi». Pierre disait: “Lui pardonnerai-je sept fois d’un jour?”. Et Jésus répondit: “Septante fois sept fois”.
+231 Voyez, c’est ça, la bonté fraternelle. Maintenant, vous discernez bien si un frère est tout à fait en désaccord; ne vous impatientez pas avec lui. Non. Soyez gentil envers lui. Allez quand même vers lui.
+232 Quelqu’un a dit dernièrement: «Comment pouvez-vous croire ces choses-là de la manière que vous les croyez, et pourtant vous rendre aux Assemblées de Dieu, et chez les ‹Oneness› (Unitariens), de même qu’à tous les autres endroits?». C’est à cause de la bonté fraternelle — espérant qu’un jour… Il faut avoir de la patience envers chacun d’eux; de la tempérance, un esprit de support; de la connaissance pour comprendre ce qu’ils croient; et rappelez-vous: c’est ce qu’il y a dans leur coeur qui compte. La vertu qui est en vous, laissez-là sortir avec bonté, humilité envers eux, ayant la foi qu’un jour Dieu les fera entrer. L’amour fraternel — c’est la septième chose. Un, deux, trois, quatre, cinq, six, sept — sept choses.
+233 Alors, maintenant, vous êtes en train d’y parvenir. Ce qui vient immédiatement après, c’est la charité, qui est l’amour. Ajoutez cela. C’est la pierre de faîte. Un de ces jours, dans l’Eglise…
+234 Maintenant, s’il vous plaît, que l’on fasse connaître ceci par la bande enregistrée… d’autant plus que je n’enseigne pas ceci comme étant une doctrine — ce que je vais dire maintenant. Mais ce que je veux juste vous montrer, avec l’aide de Dieu, c’est que la première Bible que Dieu ait jamais écrite fut vraiment le zodiaque dans le ciel. Cela commença par la vierge, et finit par le lion (Leo). Et quand j’entrerai dans ce sixième et septième Sceau, vous découvrirez que quand cet autre Sceau fut ouvert, la marque du zodiaque de cet endroit-là était le cancer (cross fish). C’est l’âge du cancer que nous sommes en train de vivre, en ce moment. Ceci a été révélé. Et la première chose ensuite que le sceau dévoile, c’est le Lion (Leo) — soit la seconde venue de Christ. Il vint pour commencer par la vierge… Maintenant, je ne sais pas si nous aurons le temps ce matin… je ferai de mon mieux pour vous montrer que ces marches (degrés) sont indiquées de façon très précise dans la Pyramide — qui est la seconde Bible que Dieu a écrite. Enoch les inscrivit donc, et les mit dans la Pyramide.
+235 Et troisièmement (Dieu est toujours rendu parfait dans le troisième), Il se fit Lui-même Sa Parole. Souvenez-vous, dans la pyramide… (je pense que plusieurs d’entre vous, soldats, et d’autres encore, vous êtes allés en Egypte). La pyramide n’a pas de capuchon. Il n’y a jamais été. La pierre de faîte fut manquée, mais quand même…
+236 Si vous possédez un billet d’un dollar dans votre poche, regardez bien ce billet, et vous découvrirez à droite un aigle avec le drapeau américain. Et l’on petit lire: «Le Sceau des Etats-Unis». De l’autre côté, il y a la pyramide, avec une grande pierre de faite et l’oeil d’un homme; il est écrit de ce côté-là: «Le grand Sceau». Eh bien, si ceci est une grande nation, pourquoi ce grand sceau ne serait-il pas alors le propre sceau de la nation? Dieu fait en sorte qu’ils rendent témoignage où qu’ils aillent.
+237 Une fois, je parlais à un médecin, et je fus mis sur la sellette à propos de la guérison divine. Nous étions dans la rue. Il dit: «M. Branham, vous embrouillez seulement les gens avec cela». Il poursuivit: «Il n’y a de guérison que par les médicaments».
+238 Comme je me retournais, je vis son signe sur sa voiture — il avait ce serpent sur la perche. Je dis: «Vous feriez mieux d’enlever ce signe de votre voiture, car votre propre signe témoigne que
 
         http://www.cmpp.ch
 
 LA STATURE DE L’HOMME PARFAIT 28
-Dieu est un guérisseur». Un vrai médecin croit cela. Mais pour la plupart, ce sont des remèdes de
-charlatan. Le serpent sur la perche c’est Moïse qui éleva le serpent sur la perche, et leur dit
-(de la part du Seigneur): “Je suis l’Eternel qui guéris toutes tes maladies”, et ils regardaient à ce
-serpent pour la guérison divine. Et malgré tout, ils témoignent contre cela; pourtant, leur propre
-signe témoigne contre eux!
-239 Dans notre nation, ils disent les choses qui sont, mais ils se moquent de ces choses; or, leur
-propre monnaie témoigne que le sceau de tout l’univers, c’est Dieu. Voyez, cet oeil se trouvant
-au haut de ce billet d’un dollar? C’est cela, le grand Sceau!
-240 Il ne fut jamais placé sur le sommet de la pyramide. Ils ne pouvaient comprendre. Pourquoi?
-La pierre de faîte fut rejetée, la tête — Christ. Mais cela arrivera un jour.
-241 Donc, à propos de construire la vertu. En édifiant ce monument, en construisant cette stature:
-voyez, elle se met en route ici, et son fondement repose sur la foi — vertu, connaissance,
-tempérance, patience, piété, bonté fraternelle. Maintenant, que fait-elle? Alors, ils attendent la
-pierre de faîte qui est l’amour; car Dieu est amour, et Il contrôle, et Il est la puissance de
-chacune de ces choses. Bien sûr. C’est exactement cela. Juste cela. Voyez, j’ai été dans tous ces
-travaux, là-dedans, et maintenant ces petites vagues sont en train de venir vers nous. Qu’est-ce?
-Le Saint-Esprit descendant par Christ. Le Saint-Esprit est au-dessus de tout cela, cimentant tout
-étroitement. Pour construire quoi? Une Eglise parfaite, afin que la pierre de faîte puisse
-couronner le tout parfaitement. C’est manifesté au travers des Sept Ages de l’Eglise, et des
-Messagers des Sept Eglises.
-242 Il y a longtemps que cela a commencé… Où donc l’Eglise a-t-elle été premièrement fondée?
-Où l’Eglise de Pentecôte a-t-elle été premièrement fondée? — à Ephèse, par saint Paul, l’étoile
-de l’Eglise d’Ephèse — donc à Ephèse. Le second Age d’Eglise fut Smyrne — soit la vertu. Et ce
-fut Irénée, le grand homme qui éleva l’Evangile de Paul et le respecta. L’Eglise suivante fut
-Pergame — la connaissance. Martin fut le grand homme qui demeura et tint ferme. Paul, Irénée,
-Martin, et ensuite ce fut Thyatire, avec Colomban. Souvenez-vous, nous l’avons dévoilé juste là.
-Après Colomban — et le sombre Moyen Age — alors vint Sardes, qui signifie la mort et ce fut
-Luther, le Messager de cet âge. Alléluia! Et alors, qu’est-ce qui vint ensuite? Après Sardes, avec
-Luther, vint Philadelphie — piété. Wesley prêcha la sainteté. Luther, lui, disait: “Mon juste vivra
-par la foi”. Mais avec Wesley, ce fut la sanctification. C’est alors que vint la bonté fraternelle dans
-Laodicée, et nous croyons le puissant Message de la seconde apparition d’Elie qui, dans les
-derniers temps, envahira la contrée.
-243 Nous y voici — Sept Ages d’Eglise, sept marches. Dieu construisant Son Eglise la fait
-comme une personne, un individu en Lui-même. C’est la gloire, la puissance de Dieu survenant à
-travers cela, nous soudant ensemble. Par conséquent, les Pentecôtistes ont laissé derrière eux
-les Luthériens, et les Wesleyens, etc. — ils ne savent pas de quoi ils parlent. Vous voyez, ils vivent
-dans cette partie du temple. C’est la manière qui permet à des personnes de venir jusqu’ici, et
-ensuite de tomber. Mais il y en a une partie authentique et sincère, qui continue à édifier ce
-bâtiment. Venez “Je vais restituer”, dit le Seigneur.
-244 Vous vous souvenez de ceci — l’Arbre-Epouse? Vous souvenez-vous du sermon sur
-l’Arbre-Epouse? Ils l’ont dévoré, mais Il l’a émondé. Il avait des branches dénominationnelles. Il les
-a émondées. Ils élevèrent une autre église, des branches confessionnelles. Il émonda. Mais le
-coeur de cet arbre continua à grandir. “Au temps du soir, il y aura de la lumière”. Ceci, c’est
-quand vient Christ, le Saint-Esprit. Jésus descend et s’assied Lui-même à la tête de l’Eglise, et
-alors Il ressuscitera cette Eglise, laquelle est Son propre corps. Là-dedans est le corps et la
-manière dont Dieu s’attend à ce que nous, comme individus, croissions — la manière dont Il a
-amené Son Eglise à grandir. Chaque Age d’Eglise — cela devient une grande Eglise.
-245 Voyez, il n’était pas demandé à ces gens-là ce qui est demandé à ceux-ci. A ceux-ci n’était
-pas demandé ce qui l’est à ceux-là. Mais Il a élevé Son Eglise de la même manière. Il a élevé Son
-Eglise de la même manière qu’Il élève Son peuple. Alors ici, Pierre dit premièrement (donc sept
-choses): foi, vertu (voyez, cela monte), connaissance, tempérance, patience, piété, amour
-fraternel, c’est-à-dire bonté fraternelle — et ALORS vient l’amour de Dieu; le Saint-Esprit.
-Christ dans la personne du Saint-Esprit vient sur nous dans le vrai baptême du Saint-Esprit,
-et vous avez toutes ces vertus scellées en vous, alors Dieu habite dans un tabernacle, appelé la
-demeure — le Tabernacle Vivant, l’endroit d’habitation du Dieu Vivant.
+Dieu est un guérisseur». Un vrai médecin croit cela. Mais pour la plupart, ce sont des remèdes de charlatan. Le serpent sur la perche c’est Moïse qui éleva le serpent sur la perche, et leur dit (de la part du Seigneur): “Je suis l’Eternel qui guéris toutes tes maladies”, et ils regardaient à ce serpent pour la guérison divine. Et malgré tout, ils témoignent contre cela; pourtant, leur propre signe témoigne contre eux!
+239 Dans notre nation, ils disent les choses qui sont, mais ils se moquent de ces choses; or, leur propre monnaie témoigne que le sceau de tout l’univers, c’est Dieu. Voyez, cet oeil se trouvant au haut de ce billet d’un dollar? C’est cela, le grand Sceau!
+240 Il ne fut jamais placé sur le sommet de la pyramide. Ils ne pouvaient comprendre. Pourquoi? La pierre de faîte fut rejetée, la tête — Christ. Mais cela arrivera un jour.
+241 Donc, à propos de construire la vertu. En édifiant ce monument, en construisant cette stature: voyez, elle se met en route ici, et son fondement repose sur la foi — vertu, connaissance, tempérance, patience, piété, bonté fraternelle. Maintenant, que fait-elle? Alors, ils attendent la pierre de faîte qui est l’amour; car Dieu est amour, et Il contrôle, et Il est la puissance de chacune de ces choses. Bien sûr. C’est exactement cela. Juste cela. Voyez, j’ai été dans tous ces travaux, là-dedans, et maintenant ces petites vagues sont en train de venir vers nous. Qu’est-ce? Le Saint-Esprit descendant par Christ. Le Saint-Esprit est au-dessus de tout cela, cimentant tout étroitement. Pour construire quoi? Une Eglise parfaite, afin que la pierre de faîte puisse couronner le tout parfaitement. C’est manifesté au travers des Sept Ages de l’Eglise, et des Messagers des Sept Eglises.
+242 Il y a longtemps que cela a commencé… Où donc l’Eglise a-t-elle été premièrement fondée? Où l’Eglise de Pentecôte a-t-elle été premièrement fondée? — à Ephèse, par saint Paul, l’étoile de l’Eglise d’Ephèse — donc à Ephèse. Le second Age d’Eglise fut Smyrne — soit la vertu. Et ce fut Irénée, le grand homme qui éleva l’Evangile de Paul et le respecta. L’Eglise suivante fut Pergame — la connaissance. Martin fut le grand homme qui demeura et tint ferme. Paul, Irénée, Martin, et ensuite ce fut Thyatire, avec Colomban. Souvenez-vous, nous l’avons dévoilé juste là. Après Colomban — et le sombre Moyen Age — alors vint Sardes, qui signifie la mort et ce fut Luther, le Messager de cet âge. Alléluia! Et alors, qu’est-ce qui vint ensuite? Après Sardes, avec Luther, vint Philadelphie — piété. Wesley prêcha la sainteté. Luther, lui, disait: “Mon juste vivra par la foi”. Mais avec Wesley, ce fut la sanctification. C’est alors que vint la bonté fraternelle dans Laodicée, et nous croyons le puissant Message de la seconde apparition d’Elie qui, dans les derniers temps, envahira la contrée.
+243 Nous y voici — Sept Ages d’Eglise, sept marches. Dieu construisant Son Eglise la fait comme une personne, un individu en Lui-même. C’est la gloire, la puissance de Dieu survenant à travers cela, nous soudant ensemble. Par conséquent, les Pentecôtistes ont laissé derrière eux les Luthériens, et les Wesleyens, etc. — ils ne savent pas de quoi ils parlent. Vous voyez, ils vivent dans cette partie du temple. C’est la manière qui permet à des personnes de venir jusqu’ici, et ensuite de tomber. Mais il y en a une partie authentique et sincère, qui continue à édifier ce bâtiment. Venez “Je vais restituer”, dit le Seigneur.
+244 Vous vous souvenez de ceci — l’Arbre-Epouse? Vous souvenez-vous du sermon sur l’Arbre-Epouse? Ils l’ont dévoré, mais Il l’a émondé. Il avait des branches dénominationnelles. Il les a émondées. Ils élevèrent une autre église, des branches confessionnelles. Il émonda. Mais le coeur de cet arbre continua à grandir. “Au temps du soir, il y aura de la lumière”. Ceci, c’est quand vient Christ, le Saint-Esprit. Jésus descend et s’assied Lui-même à la tête de l’Eglise, et alors Il ressuscitera cette Eglise, laquelle est Son propre corps. Là-dedans est le corps et la manière dont Dieu s’attend à ce que nous, comme individus, croissions — la manière dont Il a amené Son Eglise à grandir. Chaque Age d’Eglise — cela devient une grande Eglise.
+245 Voyez, il n’était pas demandé à ces gens-là ce qui est demandé à ceux-ci. A ceux-ci n’était pas demandé ce qui l’est à ceux-là. Mais Il a élevé Son Eglise de la même manière. Il a élevé Son Eglise de la même manière qu’Il élève Son peuple. Alors ici, Pierre dit premièrement (donc sept choses): foi, vertu (voyez, cela monte), connaissance, tempérance, patience, piété, amour fraternel, c’est-à-dire bonté fraternelle — et ALORS vient l’amour de Dieu; le Saint-Esprit. Christ dans la personne du Saint-Esprit vient sur nous dans le vrai baptême du Saint-Esprit, et vous avez toutes ces vertus scellées en vous, alors Dieu habite dans un tabernacle, appelé la demeure — le Tabernacle Vivant, l’endroit d’habitation du Dieu Vivant.
 
         http://www.cmpp.ch
 
 LA STATURE DE L’HOMME PARFAIT 29
-246 Quand un homme possède ce genre de choses, alors le Saint-Esprit vient sur lui. Il se peut
-que vous parliez en langues, vous pouvez pratiquer n’importe quel don que Dieu possède. Vous
-pourriez faire cela, cependant jusqu’à ce que ces vertus-là entrent en vous, vous n’êtes
-toujours pas sur le vrai fondement de la foi. Mais quand ces vertus grandissent, et que vous
-avez ajouté ceci à cela, alors vous êtes un monument Vivant. Vous êtes une Vivante image en
-mouvement.
-247 Vous savez que les païens se prosternent devant une idole (un dieu imaginaire), et dans leur
-imagination, ils croient que ce dieu imaginaire leur répond. C’est du paganisme.
-248 C’est du Romanisme. Ils se prosternent devant toutes espèces de saints, et d’autres choses.
-Ils ont sainte Cécile, la Maison de Dieu, et tellement de différentes choses de ce genre; ils se
-prosternent devant cela, et ils croient vraiment dans leur imagination que cela symbolise le
-Dieu Vivant et véritable!
-249 Quant à nous, nous nous prosternons, mais certes pas de façon imaginaire, devant un Dieu
-Vivant, avec une vertu vivante, une connaissance vivante, une piété vivante, une image vivante —
-c’est la stature de Dieu!
-250 Qu’est-Il en train de faire? Les mêmes choses que fit Jésus. Marchant de la même manière
-qu’Il marcha. Faisant les mêmes choses qu’Il fit, car ce n’est pas une chose imaginaire! Il y a une
-réalité qui le prouve!
-251 Vous voyez ce que je veux dire? Voyez combien ces vertus, ces matériaux de construction
-typifiaient le Message de l’Eglise, les Ages de l’Eglise?
-252 Or, un de ces jours, nous allons prendre chacun de ces mots, et nous les étudierons, et
-montrerons que ceci prouve bien cela. Toutes ces choses se tiennent. Vous comprenez. Oh oui,
-que c’est merveilleux de voir ce que cela devient.
-253 C’est donc la maison dans laquelle Dieu demeure — non pas un bâtiment avec une grosse
-cloche au sommet, et une haute flèche de clocher, mais comme il est dit: “Tu m’as préparé un
-corps”. Un corps dans lequel Dieu peut habiter, dans lequel Dieu peut marcher. Dieu peut
-voir, Dieu peut parler. Dieu peut travailler — Amen! Des instruments du Dieu Vivant. Dieu
-marchant sur deux pieds, en vous. Gloire à Dieu! “Les pas du juste sont ordonnés par Dieu”. C’est
-Dieu qui marche en vous “Car vous êtes manifestement une lettre de Christ, lue par tous les
-hommes”. Et si la Vie qui est en Christ est en vous, vous porterez la vie que Christ a portée.
-254 Comme je l’ai toujours dit: Enlevez la sève d’un pêcher, et si vous pouviez la transférer par
-une transfusion dans un pommier, le pommier porterait des pêches. Il le ferait certainement.
-Quelle que soit l’apparence des branches, elles ont de la sève de pommier, ou de quelque autre
-arbre que ce soit. Vous enlevez la vie d’un pommier, vous l’enlevez complètement, et lui faites une
-“transfusion” de sève, et si vous videz la sève du pêcher dans le pommier — qu’arrivera-t-il? Il ne
-portera plus de pommes. Il portera des pêches, car il aura cette vie en lui.
-255 Quand Toi, Seigneur, Tu nous prends, nous ne sommes qu’une “courge sauvage”, un homme
-indigne, et il n’y a rien en nous, car nous sommes tous morts dans le péché, et dans l’iniquité.
-Nous sommes tous dans ces conditions-là, et alors nous-mêmes, nous pouvons être abattus, prêts
-à renoncer à trouver quoi que ce soit de bon en nous-mêmes, jusqu’à ce que Dieu prenne Sa
-pipette de transfusion — le Nom de Jésus-Christ — (car il n’y a pas d’autre nom sous le Ciel par
-lequel nous puissions être sauvés) — et Il transfère la vie de Christ en nous. Et alors, nous
-avons ce genre de foi — la foi qui était en Christ. Et la foi de Christ n’était pas basée sur ces
-Pharisiens et Sadducéens, ni dans leurs vases, leurs timbales ou leurs casseroles, ni dans leur
-façon de nettoyer leurs coupes. Elle était basée sur la Parole de Dieu. Amen! Tout cela, parce
-que Christ était la Parole, et que la Parole avait été faite chair. Ainsi donc, quand nous pouvons
-être aussi transfusés par Sa puissance, alors, nous mourons à notre propre façon de penser, et
-notre foi devient une foi authentique. ALLELUIA! Alors, la vie de Christ est infusée en nous, et
-nous devenons les créatures vivantes de Dieu — une maison d’habitation où le Saint-Esprit peut
-envoyer Ses radieuses bénédictions à travers elle, et nous sommes dans la stature de Christ.
-256 Jésus disait: “Vous me condamnez parce que j’ai dit que je suis le Fils de Dieu? N’est-il pas
-écrit: Vous êtes des dieux? Est-ce que votre propre loi ne dit pas cela?”. Ainsi en fut-il de Moïse,
-d’Elie, et de chaque prophète qui vivaient si près de Dieu que Dieu pouvait se transférer
-Lui-même droit en eux, et que lorsqu’ils parlaient, ce n’était pas eux qui parlaient, mais Dieu au
-travers d’eux. “Ne vous inquiétez ni de la manière dont vous parlerez, ni de ce que vous direz…
+246 Quand un homme possède ce genre de choses, alors le Saint-Esprit vient sur lui. Il se peut que vous parliez en langues, vous pouvez pratiquer n’importe quel don que Dieu possède. Vous pourriez faire cela, cependant jusqu’à ce que ces vertus-là entrent en vous, vous n’êtes toujours pas sur le vrai fondement de la foi. Mais quand ces vertus grandissent, et que vous avez ajouté ceci à cela, alors vous êtes un monument Vivant. Vous êtes une Vivante image en mouvement.
+247 Vous savez que les païens se prosternent devant une idole (un dieu imaginaire), et dans leur imagination, ils croient que ce dieu imaginaire leur répond. C’est du paganisme.
+248 C’est du Romanisme. Ils se prosternent devant toutes espèces de saints, et d’autres choses. Ils ont sainte Cécile, la Maison de Dieu, et tellement de différentes choses de ce genre; ils se prosternent devant cela, et ils croient vraiment dans leur imagination que cela symbolise le Dieu Vivant et véritable!
+249 Quant à nous, nous nous prosternons, mais certes pas de façon imaginaire, devant un Dieu Vivant, avec une vertu vivante, une connaissance vivante, une piété vivante, une image vivante — c’est la stature de Dieu!
+250 Qu’est-Il en train de faire? Les mêmes choses que fit Jésus. Marchant de la même manière qu’Il marcha. Faisant les mêmes choses qu’Il fit, car ce n’est pas une chose imaginaire! Il y a une réalité qui le prouve!
+251 Vous voyez ce que je veux dire? Voyez combien ces vertus, ces matériaux de construction typifiaient le Message de l’Eglise, les Ages de l’Eglise?
+252 Or, un de ces jours, nous allons prendre chacun de ces mots, et nous les étudierons, et montrerons que ceci prouve bien cela. Toutes ces choses se tiennent. Vous comprenez. Oh oui, que c’est merveilleux de voir ce que cela devient.
+253 C’est donc la maison dans laquelle Dieu demeure — non pas un bâtiment avec une grosse cloche au sommet, et une haute flèche de clocher, mais comme il est dit: “Tu m’as préparé un corps”. Un corps dans lequel Dieu peut habiter, dans lequel Dieu peut marcher. Dieu peut voir, Dieu peut parler. Dieu peut travailler — Amen! Des instruments du Dieu Vivant. Dieu marchant sur deux pieds, en vous. Gloire à Dieu! “Les pas du juste sont ordonnés par Dieu”. C’est Dieu qui marche en vous “Car vous êtes manifestement une lettre de Christ, lue par tous les hommes”. Et si la Vie qui est en Christ est en vous, vous porterez la vie que Christ a portée.
+254 Comme je l’ai toujours dit: Enlevez la sève d’un pêcher, et si vous pouviez la transférer par une transfusion dans un pommier, le pommier porterait des pêches. Il le ferait certainement. Quelle que soit l’apparence des branches, elles ont de la sève de pommier, ou de quelque autre arbre que ce soit. Vous enlevez la vie d’un pommier, vous l’enlevez complètement, et lui faites une “transfusion” de sève, et si vous videz la sève du pêcher dans le pommier — qu’arrivera-t-il? Il ne portera plus de pommes. Il portera des pêches, car il aura cette vie en lui.
+255 Quand Toi, Seigneur, Tu nous prends, nous ne sommes qu’une “courge sauvage”, un homme indigne, et il n’y a rien en nous, car nous sommes tous morts dans le péché, et dans l’iniquité. Nous sommes tous dans ces conditions-là, et alors nous-mêmes, nous pouvons être abattus, prêts à renoncer à trouver quoi que ce soit de bon en nous-mêmes, jusqu’à ce que Dieu prenne Sa pipette de transfusion — le Nom de Jésus-Christ — (car il n’y a pas d’autre nom sous le Ciel par lequel nous puissions être sauvés) — et Il transfère la vie de Christ en nous. Et alors, nous avons ce genre de foi — la foi qui était en Christ. Et la foi de Christ n’était pas basée sur ces Pharisiens et Sadducéens, ni dans leurs vases, leurs timbales ou leurs casseroles, ni dans leur façon de nettoyer leurs coupes. Elle était basée sur la Parole de Dieu. Amen! Tout cela, parce que Christ était la Parole, et que la Parole avait été faite chair. Ainsi donc, quand nous pouvons être aussi transfusés par Sa puissance, alors, nous mourons à notre propre façon de penser, et notre foi devient une foi authentique. ALLELUIA! Alors, la vie de Christ est infusée en nous, et nous devenons les créatures vivantes de Dieu — une maison d’habitation où le Saint-Esprit peut envoyer Ses radieuses bénédictions à travers elle, et nous sommes dans la stature de Christ.
+256 Jésus disait: “Vous me condamnez parce que j’ai dit que je suis le Fils de Dieu? N’est-il pas écrit: Vous êtes des dieux? Est-ce que votre propre loi ne dit pas cela?”. Ainsi en fut-il de Moïse, d’Elie, et de chaque prophète qui vivaient si près de Dieu que Dieu pouvait se transférer Lui-même droit en eux, et que lorsqu’ils parlaient, ce n’était pas eux qui parlaient, mais Dieu au travers d’eux. “Ne vous inquiétez ni de la manière dont vous parlerez, ni de ce que vous direz…
 
         http://www.cmpp.ch
 
 LA STATURE DE L’HOMME PARFAIT 30
-car ce n’est pas vous qui parlerez, c’est l’Esprit de votre Père qui parlera en vous”. Les paroles du
-Prophète ne sont pas les siennes, car il est mort au monde.
-257 Lorsqu’un homme meurt, et qu’on l’embaume, vous en retirez son sang. Vous enlevez tout
-son sang. Il n’en a plus. Alors, la seule chose que vous puissiez faire, c’est de mettre le sang d’un
-autre homme en lui, pour qu’il revienne à la vie. Vous avez enlevé tout son propre sang.
-258 Et maintenant, si nous mettons le sang de Jésus-Christ en nous! Et cela amène la FOI de
-Jésus-Christ; la VERTU de Jésus-Christ; la CONNAISSANCE de Jésus-Christ; la TEMPERANCE de
-Jésus-Christ; la PATIENCE de Jésus-Christ; la PIETE de Jésus-Christ; la BONTE FRATERNELLE
-de Jésus-Christ; et l’AMOUR DE DIEU, qui EST Jésus-Christ! Il est la tête qui vous contrôle. Et vos
-pieds sont sur le fondement, la foi. Amen! Tout est contrôlé par la tête… Vous y êtes?
+car ce n’est pas vous qui parlerez, c’est l’Esprit de votre Père qui parlera en vous”. Les paroles du Prophète ne sont pas les siennes, car il est mort au monde.
+257 Lorsqu’un homme meurt, et qu’on l’embaume, vous en retirez son sang. Vous enlevez tout son sang. Il n’en a plus. Alors, la seule chose que vous puissiez faire, c’est de mettre le sang d’un autre homme en lui, pour qu’il revienne à la vie. Vous avez enlevé tout son propre sang.
+258 Et maintenant, si nous mettons le sang de Jésus-Christ en nous! Et cela amène la FOI de Jésus-Christ; la VERTU de Jésus-Christ; la CONNAISSANCE de Jésus-Christ; la TEMPERANCE de Jésus-Christ; la PATIENCE de Jésus-Christ; la PIETE de Jésus-Christ; la BONTE FRATERNELLE de Jésus-Christ; et l’AMOUR DE DIEU, qui EST Jésus-Christ! Il est la tête qui vous contrôle. Et vos pieds sont sur le fondement, la foi. Amen! Tout est contrôlé par la tête… Vous y êtes?
     VOICI QUEL EST LE PARFAIT HOMME DE DIEU — c’est celui qui possède ces vertus.
-259 Alors Dieu est en train de représenter Son Eglise comme une Epouse — donc une femme.
-Dieu représente Son Eglise comme une Epouse, et de la même manière qu’Il a amené chaque
-individu à être Son fils afin de l’introduire dans cette Epouse, ainsi a-t-Il aussi amené l’Epouse
-au travers de ces Ages, jusqu’à ce qu’Il introduise cette Eglise unique et complète dans cette
-perfection.
-260 Voici, mon pied bouge. Pourquoi? — parce que ma tête l’a commandé. Or, il ne peut pas
-bouger comme ma main, parce que c’est mon pied. Luther ne pouvait pas faire les choses que
-nous avons faites. Et les Méthodistes ne pouvaient pas non plus les faire, parce qu’ils étaient
-quelque chose d’autre. Voyez, le pied bouge, parce que la tête l’a commandé, et la tête ne dit
-jamais: «Maintenant, pieds, devenez des mains! Oreilles, devenez des yeux!». Mais dans
-chaque âge, Dieu a placé ces choses dans Son Eglise. Et le modèle fut fait pour indiquer que
-chaque individu devait avoir ces qualités — qu’il les possède. Et lorsque cet «être», ce
-«caractère» sera achevé, c’est alors que l’Eglise sera apte à être enlevée! Et ce «caractère»,
-dans sa plénitude, c’est un serviteur de Dieu, dans l’Eglise de Dieu qui sera enlevée. Gloire!
-Vous voyez ce que je veux dire? Ça y est? Tout est là.
-261 Un homme vint, Paul, posant un fondement. Irénée commença à ajouter ceci par-dessus, et le
-prochain ajouta cela, et le suivant ceci, et le suivant cela, et cela, et cela, et cela, et ainsi de suite,
-jusqu’à ce qu’on en soit au dernier âge. Mais qu’est-ce que cela peut bien être? — c’est le
-même Esprit. Le même Esprit qui demeure en moi et me dit: «Tends la main vers ce gâteau», est
-le même Esprit qui me dit: «Pied, fais un pas». Vous voyez ce que je veux dire?
-262 Alors, l’entière stature de votre être est gouvernée et contrôlée par ces choses, et elle ne peut
-être parfaitement contrôlée que si elle possède entièrement ces qualités.
-263 Avez-vous jamais entendu ceci? Maintenant, laissez-moi vous le dire, et demeurez vrai…
-Mettez ceci dans l’oreille de votre entendement. LA SOLIDITE D’UNE CHAINE SE MESURE A SON
-ANNEAU LE PLUS FAIBLE. C’est vrai, elle n’est pas plus solide que son plus faible anneau. Peu
-importe combien solidement ces choses sont construites, s’il y a un anneau faible, c’est là que
-cela se rompra. Ainsi, ce n’est pas plus solide que son plus faible anneau.
-264 Maintenant, si vous possédez… Vous dites que vous avez ceci, et que vous n’avez pas cela:
-c’est alors là qu’elle se rompra. Si vous avez ceci, et que vous n’avez pas cela, cela se brisera.
-Comprenez-vous? Et vous ne pouvez pas avoir ceci, sans avoir cela. Alors, quand vous avez
-livré votre être tout entier, le Saint-Esprit se répand par et au travers de ces vertus. Et alors,
-vous êtes un Tabernacle Vivant.
-265 Alors, les gens vous regardent et disent: «C’est un homme plein de vertu, de connaissance, et
-il croit la Parole, il a la tempérance, la patience, la piété, la bonté fraternelle, il est plein de l’amour
-du Saint-Esprit». Qu’est-ce que cela? C’est une stature que les incroyants peuvent regarder et
-dire à son propos: «Voici un homme (ou une femme) qui sait de quoi il parle. Vous n’avez jamais
-vu une personne plus douce, aimable et pieuse».
-266 Vous êtes scellé. Un vrai sceau se voit des deux côtés. Que vous alliez ou veniez, ils voient
-tout aussi bien le sceau. Vous y voilà. Quand un homme ou une femme possède ceci, alors la
-pierre de faîte descend et les scelle dans le Royaume de Dieu qui est le Saint-Esprit.
-267 Puis, la Parole venant de là se manifeste Elle-même au travers de chacun de ces êtres, et fait
-de cet être complet un Tabernacle du Dieu Vivant — un exemple agissant et vivant du
-christianisme.
+259 Alors Dieu est en train de représenter Son Eglise comme une Epouse — donc une femme. Dieu représente Son Eglise comme une Epouse, et de la même manière qu’Il a amené chaque individu à être Son fils afin de l’introduire dans cette Epouse, ainsi a-t-Il aussi amené l’Epouse au travers de ces Ages, jusqu’à ce qu’Il introduise cette Eglise unique et complète dans cette perfection.
+260 Voici, mon pied bouge. Pourquoi? — parce que ma tête l’a commandé. Or, il ne peut pas bouger comme ma main, parce que c’est mon pied. Luther ne pouvait pas faire les choses que nous avons faites. Et les Méthodistes ne pouvaient pas non plus les faire, parce qu’ils étaient quelque chose d’autre. Voyez, le pied bouge, parce que la tête l’a commandé, et la tête ne dit jamais: «Maintenant, pieds, devenez des mains! Oreilles, devenez des yeux!». Mais dans chaque âge, Dieu a placé ces choses dans Son Eglise. Et le modèle fut fait pour indiquer que chaque individu devait avoir ces qualités — qu’il les possède. Et lorsque cet «être», ce «caractère» sera achevé, c’est alors que l’Eglise sera apte à être enlevée! Et ce «caractère», dans sa plénitude, c’est un serviteur de Dieu, dans l’Eglise de Dieu qui sera enlevée. Gloire! Vous voyez ce que je veux dire? Ça y est? Tout est là.
+261 Un homme vint, Paul, posant un fondement. Irénée commença à ajouter ceci par-dessus, et le prochain ajouta cela, et le suivant ceci, et le suivant cela, et cela, et cela, et cela, et ainsi de suite, jusqu’à ce qu’on en soit au dernier âge. Mais qu’est-ce que cela peut bien être? — c’est le même Esprit. Le même Esprit qui demeure en moi et me dit: «Tends la main vers ce gâteau», est le même Esprit qui me dit: «Pied, fais un pas». Vous voyez ce que je veux dire?
+262 Alors, l’entière stature de votre être est gouvernée et contrôlée par ces choses, et elle ne peut être parfaitement contrôlée que si elle possède entièrement ces qualités.
+263 Avez-vous jamais entendu ceci? Maintenant, laissez-moi vous le dire, et demeurez vrai… Mettez ceci dans l’oreille de votre entendement. LA SOLIDITE D’UNE CHAINE SE MESURE A SON ANNEAU LE PLUS FAIBLE. C’est vrai, elle n’est pas plus solide que son plus faible anneau. Peu importe combien solidement ces choses sont construites, s’il y a un anneau faible, c’est là que cela se rompra. Ainsi, ce n’est pas plus solide que son plus faible anneau.
+264 Maintenant, si vous possédez… Vous dites que vous avez ceci, et que vous n’avez pas cela: c’est alors là qu’elle se rompra. Si vous avez ceci, et que vous n’avez pas cela, cela se brisera. Comprenez-vous? Et vous ne pouvez pas avoir ceci, sans avoir cela. Alors, quand vous avez livré votre être tout entier, le Saint-Esprit se répand par et au travers de ces vertus. Et alors, vous êtes un Tabernacle Vivant.
+265 Alors, les gens vous regardent et disent: «C’est un homme plein de vertu, de connaissance, et il croit la Parole, il a la tempérance, la patience, la piété, la bonté fraternelle, il est plein de l’amour du Saint-Esprit». Qu’est-ce que cela? C’est une stature que les incroyants peuvent regarder et dire à son propos: «Voici un homme (ou une femme) qui sait de quoi il parle. Vous n’avez jamais vu une personne plus douce, aimable et pieuse».
+266 Vous êtes scellé. Un vrai sceau se voit des deux côtés. Que vous alliez ou veniez, ils voient tout aussi bien le sceau. Vous y voilà. Quand un homme ou une femme possède ceci, alors la pierre de faîte descend et les scelle dans le Royaume de Dieu qui est le Saint-Esprit.
+267 Puis, la Parole venant de là se manifeste Elle-même au travers de chacun de ces êtres, et fait de cet être complet un Tabernacle du Dieu Vivant — un exemple agissant et vivant du christianisme.
 
         http://www.cmpp.ch
 
 LA STATURE DE L’HOMME PARFAIT 31
-268 Ce que Christ était, ces personnes le sont, à cause de Sa Vie qui est là; ils sont en Christ,
-et leur vie est morte et cachée avec Christ en Dieu (litt.: en Christ, à travers Dieu), et scellée là par
-le Saint-Esprit — 1 Corinthiens 12. C’est vrai. Vous vous considérez comme mort. Alors, vous êtes
-né de la foi. Ensuite vient la vertu, et ces autres choses vous sont ajoutées jusqu’à ce que vous
-soyez l’image parfaite du Dieu Vivant. N’est-ce pas merveilleux?
-269 Et alors Dieu, à travers cela, a aussi suscité les Sept Ages d’Eglise pour montrer les sept
-stades qu’Il a employés pour édifier les Siens à Son image. Il a construit une Eglise parfaite à
-Son image, et à la résurrection, ce corps parfait sera ressuscité pour vivre avec Lui à jamais,
-parce que c’est une Epouse. Ainsi, cela concerne chaque Age. Dans chaque Age qui apparaît.
-270 Et on requiert davantage, souvenez-vous. Rappelez-vous ce que Paul a dit ici dans
-Hébreux 11. Que je vous lise quelque chose avant que nous terminions. Cela vous fait toujours
-une sensation assez étrange, quand on lit ceci. Je vais donc vous lire dans Hébreux 11, et à partir
-du verset 32:
+268 Ce que Christ était, ces personnes le sont, à cause de Sa Vie qui est là; ils sont en Christ, et leur vie est morte et cachée avec Christ en Dieu (litt.: en Christ, à travers Dieu), et scellée là par le Saint-Esprit — 1 Corinthiens 12. C’est vrai. Vous vous considérez comme mort. Alors, vous êtes né de la foi. Ensuite vient la vertu, et ces autres choses vous sont ajoutées jusqu’à ce que vous soyez l’image parfaite du Dieu Vivant. N’est-ce pas merveilleux?
+269 Et alors Dieu, à travers cela, a aussi suscité les Sept Ages d’Eglise pour montrer les sept stades qu’Il a employés pour édifier les Siens à Son image. Il a construit une Eglise parfaite à Son image, et à la résurrection, ce corps parfait sera ressuscité pour vivre avec Lui à jamais, parce que c’est une Epouse. Ainsi, cela concerne chaque Age. Dans chaque Age qui apparaît.
+270 Et on requiert davantage, souvenez-vous. Rappelez-vous ce que Paul a dit ici dans Hébreux 11. Que je vous lise quelque chose avant que nous terminions. Cela vous fait toujours une sensation assez étrange, quand on lit ceci. Je vais donc vous lire dans Hébreux 11, et à partir du verset 32:
        “Et que dirai-je encore? Car le temps me manquerait pour parler de Gédéon, de
     Barak, de Samson, de Jephté, de David, de Samuel, et des prophètes; qui, par la foi,
     vainquirent des royaumes, exercèrent la justice, obtinrent des promesses, fermèrent la
@@ -1751,33 +1421,10 @@ du verset 32:
     témoignage, (ici: un bon témoignage à leur foi), n’ont pas obtenu ce qui leur avait été
     promis, Dieu ayant en vue quelque chose de meilleur pour nous, afin qu’ils ne
     parvinssent pas sans nous à la perfection”.
-271 Avez-vous saisi? Ces personnes qui sont mortes ici, elles dépendent de nous et nous
-attendent. Aussi cette Eglise doit-elle parvenir à la perfection afin d’amener la résurrection.
-Et ces âmes sont sous l’autel — attendant que cette Eglise parvienne à Sa perfection. Mais quand
-Christ reviendra — et cette Eglise, vous voyez, devient plus petite en nombre, une minorité (c’est
-beaucoup plus affilé que cela, juste comme cette croix que je mets ici). Cela en vient à une pointe
-d’aiguille. Au point que l’Eglise minoritaire doit en arriver à un point culminant où le même
-genre de ministère à exercer lui sera dévolu. Parce que quand cette pierre de faîte reviendra, il
-y aura une place préparée à l’endroit où elle sera appliquée. Exactement comme il en est
-d’une vraie pyramide. Alors ce n’est pas seulement un capuchon qui est ajusté au sommet, mais il
-y a un petit rebord, une sorte de saillie, et il faut que cela soit placé là pour l’écoulement des eaux.
-Et quand cela arrivera, cette Eglise devra être affilée, aiguisée. Toutes ces pierres de la Pyramide
-sont posées avec une telle précision l’une sur l’autre qu’on ne peut pas faire pénétrer une lame de
-rasoir entre elles — ces pierres pesant des tonnes sont posées là. Comment les ont-ils portées
-là-haut? On ne le sait pas. Mais elles ont été élevées. Et quand le faîte de la pyramide descendra,
-la pyramide elle-même, le Corps de Christ, devra être affilé — pas uniquement par quelques
-doctrines et credo, ou quoi que ce soit que nous ayons appris — il faudra que ce soit aussi parfait
-que Christ, avant qu’Il vienne; Lui et ce ministère s’imbriqueront parfaitement l’un dans
-l’autre. Alors viendra l’enlèvement, et la rentrée chez soi (à la maison).
-272 Regardez où nous vivons maintenant — dans Laodicée, l’Age de l’Eglise le pire qu’il n’y ait
-jamais eu. Dans la Bible, nous découvrons que c’est le seul Age d’Eglise où Dieu soit à
-l’extérieur, en dehors de l’Eglise, heurtant, essayant d’entrer à nouveau dans Sa propre
-demeure. Les credo et dénominations l’avaient même mis en dehors de Sa propre Eglise. “Voici,
-je me tiens à la porte et je frappe. Si quelqu’un a soif, il m’ouvrira: j’entrerai et je souperai avec lui”.
-273 Le voici dans cet Age d’Eglise, et peu à peu ils l’ont mis dehors jusqu’au jour où ils l’auront
-complètement expulsé, chassé. Ils ne veulent plus rien avoir à faire avec Lui.
-274 Ainsi, vous voyez où nous allons aujourd’hui? — à l’endroit même où l’Eglise de Laodicée, à
-sa fin, est devenue tellement formaliste, au point qu’elle et le catholicisme (lequel l’a mise en
+271 Avez-vous saisi? Ces personnes qui sont mortes ici, elles dépendent de nous et nous attendent. Aussi cette Eglise doit-elle parvenir à la perfection afin d’amener la résurrection. Et ces âmes sont sous l’autel — attendant que cette Eglise parvienne à Sa perfection. Mais quand Christ reviendra — et cette Eglise, vous voyez, devient plus petite en nombre, une minorité (c’est beaucoup plus affilé que cela, juste comme cette croix que je mets ici). Cela en vient à une pointe d’aiguille. Au point que l’Eglise minoritaire doit en arriver à un point culminant où le même genre de ministère à exercer lui sera dévolu. Parce que quand cette pierre de faîte reviendra, il y aura une place préparée à l’endroit où elle sera appliquée. Exactement comme il en est d’une vraie pyramide. Alors ce n’est pas seulement un capuchon qui est ajusté au sommet, mais il y a un petit rebord, une sorte de saillie, et il faut que cela soit placé là pour l’écoulement des eaux. Et quand cela arrivera, cette Eglise devra être affilée, aiguisée. Toutes ces pierres de la Pyramide sont posées avec une telle précision l’une sur l’autre qu’on ne peut pas faire pénétrer une lame de rasoir entre elles — ces pierres pesant des tonnes sont posées là. Comment les ont-ils portées là-haut? On ne le sait pas. Mais elles ont été élevées. Et quand le faîte de la pyramide descendra, la pyramide elle-même, le Corps de Christ, devra être affilé — pas uniquement par quelques doctrines et credo, ou quoi que ce soit que nous ayons appris — il faudra que ce soit aussi parfait que Christ, avant qu’Il vienne; Lui et ce ministère s’imbriqueront parfaitement l’un dans l’autre. Alors viendra l’enlèvement, et la rentrée chez soi (à la maison).
+272 Regardez où nous vivons maintenant — dans Laodicée, l’Age de l’Eglise le pire qu’il n’y ait jamais eu. Dans la Bible, nous découvrons que c’est le seul Age d’Eglise où Dieu soit à l’extérieur, en dehors de l’Eglise, heurtant, essayant d’entrer à nouveau dans Sa propre demeure. Les credo et dénominations l’avaient même mis en dehors de Sa propre Eglise. “Voici, je me tiens à la porte et je frappe. Si quelqu’un a soif, il m’ouvrira: j’entrerai et je souperai avec lui”.
+273 Le voici dans cet Age d’Eglise, et peu à peu ils l’ont mis dehors jusqu’au jour où ils l’auront complètement expulsé, chassé. Ils ne veulent plus rien avoir à faire avec Lui.
+274 Ainsi, vous voyez où nous allons aujourd’hui? — à l’endroit même où l’Eglise de Laodicée, à sa fin, est devenue tellement formaliste, au point qu’elle et le catholicisme (lequel l’a mise en
 
         http://www.cmpp.ch
 
@@ -2029,7 +1676,7 @@ n’avaient pas besoin d’argumenter avec un homme, ils savaient où ils en ét
 savaient en qui ils croyaient. Ils continuaient à marcher dans l’Esprit. Exactement comme je le
 disais l’autre soir: «Un petit signe. C’est tout ce que Dieu avait à faire, et alors, rien ne pouvait les
 arrêter». Ils ne discutaient pas, ils n’étudiaient ni ne se fatiguaient comme nous pour savoir s’ils
-devaient faire une chose ou l’autre. Ils allaient de l’avant et le faisaient. Juste un petit signe de
+devraient faire une chose ou l’autre. Ils allaient de l’avant et le faisaient. Juste un petit signe de
 Dieu, cela suffisait. Pourquoi cela? Comment savaient-ils que c’était un signe de Dieu? Ils avaient
 là toutes ces vertus, toutes ces qualités; et au premier petit signe de Dieu, ils le confrontaient avec
 chaque parcelle de ces vertus, et avec Sa Parole. Ils savaient que c’était la Parole de Dieu, et
@@ -2151,8 +1798,8 @@ fut sauvé, et baptisé au Nom de Jésus, là-bas. C’est cela, le fin mot de l
 mourir». Je dis: «Seigneur Dieu, épargne sa vie; je Te prie, au Nom de Jésus, d’épargner sa vie».
 J’étendis mes mains sur lui; l’attaque le quitta, les convulsions cessèrent, et il se leva de son lit, et
 maintenant, il est debout, donnant son témoignage.
-331 Ajoutez à votre foi la vertu, à la vertu la connaissance, à la connaissance la tempérance, à la
-tempérance la patience, à la patience la piété, à la piété l’amour fraternel, à l’amour fraternel,
+331 Ajoutez à votre foi la vertu, à la vertu la connaissance, à la connaissance la tempérance, à
+la tempérance la patience, à la patience la piété, à la piété l’amour fraternel, à l’amour fraternel,
 l’amour, le Saint-Esprit, et Christ viendra. Parce que le Saint-Esprit, qui Lui est subordonné,
 c’est l’Esprit de Jésus-Christ dans Son Eglise pour manifester ces vertus.
 332 Oh, là, là, il est midi et quart. «Je L’aime, je L’aime, parce qu’Il m’a aimé le premier…
@@ -2177,17 +1824,9 @@ inclinées, et nos mains levées, chantons:
 
 
 
-
-
-
-
     http://www.cmpp.ch
 
 LA STATURE DE L’HOMME PARFAIT    39
-
-
-
-
 
 
 

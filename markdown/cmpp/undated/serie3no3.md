@@ -1,1086 +1,510 @@
-    SERIE 3 N° 3
+---
+source: "cmpp"
+sermon_id: "serie3no3"
+title: "Le Troisième Exode"
+subtitle: "30 juin 1963, matin"
+date: "1963-06-30"
+year: 1963
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le troisième exode du peuple de Dieu, comparant l'exode d'Israël hors d'Égypte à l'exode spirituel de l'Église des derniers jours. Il souligne que Dieu appelle son peuple à sortir des systèmes religieux organisés pour entrer dans la promesse, avant la venue du Messie. Il aborde également la jalousie des frères de Joseph comme type du rejet du Saint-Esprit par les dénominations."
+tags:
+  - "exode"
+  - "Joseph"
+  - "type et antitype"
+  - "Saint-Esprit"
+  - "organisation"
+  - "promesse"
+persons:
+  - "Moïse"
+  - "Joseph"
+  - "Abraham"
+  - "Isaac"
+  - "Jacob"
+  - "Pharaon"
+  - "Hitler"
+  - "Staline"
+  - "Mussolini"
+  - "Jésus-Christ"
+places:
+  - "Égypte"
+  - "Madian"
+  - "Horeb"
+  - "Palestine"
+  - "Jeffersonville"
+  - "Hot Springs"
+themes:
+  - "exode spirituel"
+  - "rejet du prophète"
+  - "jalousie religieuse"
+  - "accomplissement des promesses"
+  - "jugement des Amoréens"
+  - "organisation vs Esprit"
+pdf_url: "http://cmpp.ch/serie3no3.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Esther 13"
+  - "Exode 10"
+  - "Exode 11"
+  - "Exode 12"
+  - "Exode 13"
+  - "Exode 14"
+  - "Exode 15"
+  - "Exode 16"
+  - "Exode 17"
+  - "Exode 18"
+  - "Exode 19"
+  - "Exode 2"
+  - "Exode 20"
+  - "Exode 21"
+  - "Exode 22"
+  - "Exode 23"
+  - "Exode 24"
+  - "Exode 25"
+  - "Exode 26"
+  - "Exode 27"
+  - "Exode 3"
+  - "Exode 4"
+  - "Exode 5"
+  - "Exode 6"
+  - "Exode 7"
+  - "Exode 8"
+  - "Exode 9"
+  - "Jean 6"
+  - "Malachie 4"
+---
+SERIE 3 N° 3
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
+WILLIAM MARRION BRANHAM
 
 LE TROISIEME EXODE
 (The Third Exodus)
 
-
-
-
-      30 juin 1963, matin
-       Branham Tabernacle
+30 juin 1963, matin
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+LE TROISIEME EXODE
 
+Inclinons nos têtes pour une parole de prière. Et tandis que nos têtes restent inclinées, si quelqu’un voulait présenter à Dieu une requête spéciale, qu’il lève la main, tenant dans sa main sa prière.
 
+Père céleste, nous Te sommes reconnaissants de pouvoir nous rassembler encore une fois de ce côté-ci de l’éternité. Nous nous attendons ce matin à recevoir de toi des forces renouvelées afin d’avoir le courage d’aller de l’avant dans le voyage qui nous reste à faire.
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+Nous nous rassemblons comme les Hébreux qui sortaient tôt le matin pour recueillir la manne qui leur avait été dispensée pendant la nuit afin de les restaurer pour la journée qui s’annonçait. Nous nous réunissons ce matin pour recueillir la Manne spirituelle qui nous donnera la force de continuer notre voyage.
 
-    LE TROISIEME Exode 2
+Seigneur, Tu connais tous les besoins qui sont présentés dans ces mains qui se sont levées. Et je joins ma prière à la leur afin que tu pourvoies à tous leurs besoins. Guéris les malades et les affligés, Seigneur. Nous savons que Tu es Dieu et que Tu peux faire toutes choses et que Tu as promis de le faire si nous pouvons simplement faire comme nous le montre ce cantique: Crois seulement! Comme nous l’avons entendu dans ces paroles glorieuses: Marche avec le Roi et parle-Lui!
 
-       LE TROISIEME EXODE
-       (The Third Exodus)
+Maintenant, Père, bénis Ta Parole tandis que nous L’annonçons ce matin. Qu’Elle puisse trouver un lieu où demeurer dans notre coeur afin qu’Elle puisse nous apporter les choses que nous Te demandons. Nous Te le demandons au Nom du Seigneur Jésus. Amen.
 
-      30 juin 1963, matin
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
+Je crois que la Parole dit: “Je suis dans la joie quand on me dit: Allons à la maison de l’Eternel!”.
 
+Lorsque ne je quittai Hot Springs hier, frère Moore me dit: «Frère Branham, pourquoi ne viendriez-vous pas chez nous au Texas? Il y a là-bas une convention et vous pourriez vous reposer quelques jours!».
 
+Je lui répondis: «J’ai deux services aujourd’hui». Il me dit: «Deux services?». Je lui dis: «Oui!». Il me dit encore: «Lorsqu’un prédicateur parle comme vous le faites, il devrait pouvoir se reposer une semaine après chaque prédication! Regardez les pasteurs: ils donnent leur message du dimanche matin, puis ils se reposent tout le reste de la semaine. Et ce n’est qu’un petit message d’une trentaine de minutes! Tandis que vous, vous prêchez pendant deux ou trois heures jour après jour, quelque fois vous prêchez même deux fois par jour, et après votre prédication vous faites encore une ligne de prière avec le discernement. Et vous dites qu’aujourd’hui vous allez rentrer à la maison et que dimanche vous allez prêcher encore deux fois? — «Bien sûr!». — «Comment faites-vous?». Je lui répondis: «Mon secours vient du Seigneur!».
 
-   Inclinons nos têtes pour une parole de prière. Et tandis que nos têtes restent inclinées, si
-quelqu’un voulait présenter à Dieu une requête spéciale, qu’il lève la main, tenant dans sa main sa
-prière.
-   Père céleste, nous Te sommes reconnaissants de pouvoir nous rassembler encore une fois de
-ce côté-ci de l’éternité. Nous nous attendons ce matin à recevoir de toi des forces renouvelées afin
-d’avoir le courage d’aller de l’avant dans le voyage qui nous reste à faire.
-   Nous nous rassemblons comme les Hébreux qui sortaient tôt le matin pour recueillir la manne
-qui leur avait été dispensée pendant la nuit afin de les restaurer pour la journée qui s’annonçait.
-Nous nous réunissons ce matin pour recueillir la Manne spirituelle qui nous donnera la force de
-continuer notre voyage.
-   Seigneur, Tu connais tous les besoins qui sont présentés dans ces mains qui se sont levées. Et
-je joins ma prière à la leur afin que tu pourvoies à tous leurs besoins. Guéris les malades et les
-affligés, Seigneur. Nous savons que Tu es Dieu et que Tu peux faire toutes choses et que Tu as
-promis de le faire si nous pouvons simplement faire comme nous le montre ce cantique: Crois
-seulement! Comme nous l’avons entendu dans ces paroles glorieuses: Marche avec le Roi et
-parle-Lui!
-   Maintenant, Père, bénis Ta Parole tandis que nous L’annonçons ce matin. Qu’Elle puisse
-trouver un lieu où demeurer dans notre coeur afin qu’Elle puisse nous apporter les choses que
-nous Te demandons. Nous Te le demandons au Nom du Seigneur Jésus. Amen.
-   Je crois que la Parole dit: “Je suis dans la joie quand on me dit: Allons à la maison de
-l’Eternel!”.
-   Lorsque ne je quittai Hot Springs hier, frère Moore me dit: «Frère Branham, pourquoi ne
-viendriez-vous pas chez nous au Texas? Il y a là-bas une convention et vous pourriez vous
-reposer quelques jours!».
-   Je lui répondis: «J’ai deux services aujourd’hui». Il me dit: «Deux services?». Je lui dis: «Oui!».
-Il me dit encore: «Lorsqu’un prédicateur parle comme vous le faites, il devrait pouvoir se reposer
-une semaine après chaque prédication! Regardez les pasteurs: ils donnent leur message du
-dimanche matin, puis ils se reposent tout le reste de la semaine. Et ce n’est qu’un petit message
-d’une trentaine de minutes! Tandis que vous, vous prêchez pendant deux ou trois heures jour
-après jour, quelque fois vous prêchez même deux fois par jour, et après votre prédication vous
-faites encore une ligne de prière avec le discernement. Et vous dites qu’aujourd’hui vous allez
-rentrer à la maison et que dimanche vous allez prêcher encore deux fois? — «Bien sûr!». —
-«Comment faites-vous?». Je lui répondis: «Mon secours vient du Seigneur!».
-   L’heure est avancée, comme l’a dit quelqu’un dans sa prière au moment où j’entrais. L’heure
-est avancée et les besoins sont grands! C’est pourquoi nous sommes ici pour essayer d’apporter
-notre contribution à cause de l’heure glorieuse dans laquelle nous vivons.
-   Ce soir, si le Seigneur le permet, je voudrais parler sur ce sujet: Votre vie est-elle digne de
-l’Evangile? [Parole parlée, série 2, n° 8 — N.d.R.]. Je voudrais l’enregistrer. Je ne sais pas si la
-prédication de ce matin est enregistrée. Mais j’ai vu quelques-uns des responsables de
-l’enregistrement dans leur local.
-   Je pensais que frère Neville ferait ainsi: je lui avais proposé dimanche passé de donner son
-message et qu’ensuite je viendrais et apporterais quelque chose moi-même. Mais s’ils désirent
-enregistrer la leçon d’école du dimanche, c’est très bien ainsi!
+L’heure est avancée, comme l’a dit quelqu’un dans sa prière au moment où j’entrais. L’heure est avancée et les besoins sont grands! C’est pourquoi nous sommes ici pour essayer d’apporter notre contribution à cause de l’heure glorieuse dans laquelle nous vivons.
 
-        http://www.cmpp.ch
+Ce soir, si le Seigneur le permet, je voudrais parler sur ce sujet: Votre vie est-elle digne de l’Evangile? [Parole parlée, série 2, n° 8 — N.d.R.]. Je voudrais l’enregistrer. Je ne sais pas si la prédication de ce matin est enregistrée. Mais j’ai vu quelques-uns des responsables de l’enregistrement dans leur local.
 
-LE TROISIEME Exode 3
-   Dimanche prochain, si le Seigneur le permet et que nous sommes ici, j’aimerais parler sur un
-sujet que j’aurais voulu présenter il y a longtemps déjà et conformément à la promesse que j’avais
-faite, je présenterai ce message, lequel doit être enregistré ici au Tabernacle, pour commencer.
-Dans ce message, je voudrais accuser cette génération de crucifier Jésus-Christ. Je parlerai de
-cela dimanche prochain, le matin, si le Seigneur le permet. Ce soir, à sept heures ou sept heures
-et demie, je parlerai sur ce sujet: Votre vie est-elle digne de l’Evangile?
-   Quelquefois en présentant ces messages, je dis des choses passablement tranchantes. Quand
-je dis ces choses, je ne pense pas spécialement à cette église ici. Rappelez-vous que ce que je
-dis est enregistré et va dans le monde entier. Nous avons un service de distribution de bandes
-magnétiques qui couvre le monde entier, qui nous permet de distribuer ces messages jusqu’au
-fond de la jungle. Et le Saint-Esprit me conduit quelquefois à dire des choses qui pourraient
-concerner une personne en particulier en Australie ou à un endroit quelconque.
-   C’est pourquoi vous pourriez dire dans certains cas: «Cette situation n’existe pas chez nous;
-pourquoi dit-il cela?». Mais peut-être que cela est dit pour un autre endroit, vous voyez. Je suis sûr
-que vous comprenez cela.
-   Ces messages ne sont pas adressés à quelqu’un de particulier: ils sont adressés à l’Eglise
-dans son ensemble, en tout lieu. Nous disons tout ce que le Seigneur nous conduit à dire et à
-faire.
-   J’ai passé des moments glorieux à Hot Springs dans une rencontre de Pentecôtistes à
-l’ancienne mode. Je suis sûr que ceux qui sont allés là-bas ont aimé ces Pentecôtistes. Je ne
-connaissais pas ce groupe; je devais aller là-bas une semaine, mais je n’ai pu leur donner que
-deux ou trois jours. Mais il y a une chose que je voudrais dire, c’est que dans ce groupe ils savent
-ce que c’est que la foi! S’il y en a ici qui sont allés à ces rencontres… Je reconnais cette darne
-assise là dans un coin: je ne la connais pas, mais elle était là. Il y avait aussi quelques frères,
-entre autres frère Jackson et frère Palmer.
-   Voilà ce que les gens reçoivent quand ils ont la foi, vous comprenez? Vous avez remarqué
-cette ligne de guérison? Aucun de ceux qui sont entrés dans la ligne n’est sorti autrement que
-guéri par Dieu.
-   Lorsque vous avez la foi… Peut-être que certains d’entre vous ne comprennent pas cette
-émotion, ces cris, ces danses. Comprenez bien qu’ils ne font pas cela pour le public: ils crient et
-dansent devant Dieu. C’est tout.
-   Et je voudrais aussi dire ceci, c’est que je n’ai jamais vu un groupe de femmes d’apparence
-aussi pure: elles avaient toutes les cheveux longs. Quand je pense à l’apparence de certaines
-personnes que j’ai vu sortir du fond de la jungle… je ne crois pas en avoir vu ayant l’air plus
-moderne (vous savez ce que je veux dire), maquillées et tout le reste! Peut-être que je ne suis pas
-d’accord avec tout ce qu’enseignent ces Pentecôtistes, mais pour cela, je suis entièrement
-d’accord avec eux! Pour moi, ces Pentecôtistes avaient vraiment l’apparence de chrétiens.
-   Hier ou avant-hier, le Seigneur me conduisit à parler sur ce sujet: Juste une fois encore,
-Seigneur. Peut-être que certains n’ont pas compris que j’ai parlé là-dessus exprès, parce que le
-Seigneur m’y avait conduit. Ce petit groupe était en train de glisser dans quelque chose, mais le
-Seigneur avait pourvu à cela.
-   C’était tout simplement merveilleux! Vous savez comme les choses se passent. Si vous n’avez
-pas la vision spirituelle, vous n’y voyez rien du tout. Il faut que nous nous attendions à ces choses.
-   Au moment où j’entrai, le frère Ungreen était en train de chanter. C’est peut-être la deuxième
-fois que je l’entends chanter. Il chantait: Je marche avec le Roi et je parle avec Lui. Je pensai:
-«N’est-ce pas beau? marcher avec le Roi et parler avec Lui, cela signifie une communion
-constante! Pas seulement dans une église, mais en tout lieu: marcher et causer avec le Roi!».
-   Regardez là sur la paroi: il y a une carte et une petite peinture faite par un homme nommé
-George Todd. Il l’a peinte pour moi. Je ne sais pas pourquoi il a fait cela. Peut-être qu’il ne s’est
-pas lui-même posé la question. Il a peint un paysage. Une montagne apparaît au loin derrière une
-forêt; un petit ruisseau coule en murmurant; sur la rive de l’autre côté se tiennent une daine et son
-faon, l’oreille dressée, regardant de ce côté-ci du ruisseau. Je ne sais pas si monsieur Todd est ici;
-je ne le connais pas. Mais je voudrais dire ceci: le Seigneur m’a parlé quand j’ai regardé cette
-peinture. Peut-être que cet homme ne savait pas ces choses lorsqu’il fit cette peinture.
-   Vous vous souvenez de cette petite histoire du daim qu’un homme allait abattre. La mère était
+Je pensais que frère Neville ferait ainsi: je lui avais proposé dimanche passé de donner son message et qu’ensuite je viendrais et apporterais quelque chose moi-même. Mais s’ils désirent enregistrer la leçon d’école du dimanche, c’est très bien ainsi!
 
-        http://www.cmpp.ch
+Dimanche prochain, si le Seigneur le permet et que nous sommes ici, j’aimerais parler sur un sujet que j’aurais voulu présenter il y a longtemps déjà et conformément à la promesse que j’avais faite, je présenterai ce message, lequel doit être enregistré ici au Tabernacle, pour commencer. Dans ce message, je voudrais accuser cette génération de crucifier Jésus-Christ. Je parlerai de cela dimanche prochain, le matin, si le Seigneur le permet. Ce soir, à sept heures ou sept heures et demie, je parlerai sur ce sujet: Votre vie est-elle digne de l’Evangile?
 
-LE TROISIEME Exode 4
-là avec son petit près des eaux de la vie, vous comprenez? Il eut l’inspiration de montrer cette
-daine avec son petit, et moi je pensai: «C’est vrai! De l’autre côté, près des arbres aux feuilles
-toujours vertes, j’ai moi aussi une mère et son enfant qui attendent».
-   Merci, frère George Todd, si vous êtes ici ce matin! Maintenant, je voudrais donner ma leçon
-d’école du dimanche. D’habitude, je parle assez longtemps. J’ai un sujet sur le coeur je ne sais
-pas depuis quand, peut-être depuis hier. Je vieillis et je ne sais pas pendant combien de temps je
-resterai parmi vous.
-   Mais il y a dans l’église un grand sujet qui a causé pas mal de désaccord entre les hommes.
-C’est comme la fameuse pomme; j’ai prêché là-dessus et je crois fermement que l’on peut prouver
-par les Ecritures qu’il ne s’agissait pas d’une pomme. Cela a causé beaucoup de confusion.
-   Vous savez que dans un mois environ nous devrons retourner en Arizona. Mais avant de partir,
-j’aimerais, Dieu voulant, parler sur un sujet biblique qu’il vaudrait mieux ne pas enregistrer. Si vous
-l’enregistrez, ne diffusez pas la bande sans autre. Je voudrais vous dire la vérité au sujet du
-mariage et du divorce. C’est une question importante, et nous sommes dans les derniers temps où
-les mystères de Dieu doivent être révélés.
-   Hier, en passant dans les montagnes à l’aube, il me sembla entendre le Saint-Esprit me dire:
-«Enregistre cela et mets-le de côté».
-   Je ne sais pas pourquoi. Mais pour ce qui est de la vérité au sujet du mariage et du divorce… Il
-y en a qui disent: «On peut se remarier si l’on peut jurer que l’autre a commis adultère». D’autres
-disent: «S’ils se disputent sans cesse et qu’ils ne peuvent plus vivre ensemble… Mieux vaut avoir
-la paix que de vivre en enfer sur cette terre». Il y a toutes sortes de questions qui sont posées. On
-se marie de toutes les manières possibles. Il y en a qui les aspergent d’un peu d’eau bénite en leur
-disant que c’est comme s’ils n’avaient jamais été mariés, qui les bénissent et les font rentrer dans
-l’église. Il y a une grande confusion. Mais s’il y a une telle confusion, c’est qu’il doit bien y avoir
-une vérité quelque part!
-   Je le crois et je le dis en toute humilité: je crois que le Seigneur m’a révélé la vérité à ce sujet.
-Mais si l’on répandait cela dans les églises, cela risquerait de causer d’énormes dégâts. Je
-préférerais que seuls les pasteurs reçoivent les bandes, les écoutent et conduisent leur assemblée
-d’après cela. Mais j’aimerais enregistrer cela simplement afin de montrer où est la vérité dans tout
-cela.
-   Je crois que nous vivons dans les temps où ces mystères doivent être terminés, achevés. Nous
-avons montré ces choses en étudiant les sept âges de l’église et les sept Sceaux, et maintenant
-nous approchons du temps où il faudra s’occuper des sept trompettes et des sept coupes. Nous
-pourrions peut-être faire une série de réunions s’étendant sur deux semaines et traiter le tout
-ensemble.
-   J’aimerais pouvoir enregistrer cela. D’autre part, nous essayons maintenant de préparer les
-épreuves du livre des sept âges de l’église et de faire sept bandes, tâchant d’arriver à faire
-quelque chose d’aussi bon marché que possible afin que cela soit accessible à tous.
-   Ensuite, si le Seigneur tarde encore un peu et que je m’en aille, vous verrez les choses que je
-vous ai prédites au Nom du Seigneur arriver comme je vous les ai annoncées. Aucune n’a jamais
-manqué d’arriver, et il y en a encore quelques-unes qui doivent arriver plus tard.
-   Je crois que le Seigneur va nous faire faire cela sans tarder. Nous vous avertirons à temps
-parce qu’il y en a beaucoup qui aiment venir écouter ces choses, ce que j’apprécie.
-   Si personne ne croyait ou n’écoutait ces choses, à quoi cela servirait-il que je vienne ici en
-parler? Vous comprenez? Si personne ne voulait croire, ce serait comme jeter les perles devant
-les pourceaux. Mais il y en a des milliers et des milliers qui croient et s’attachent à chaque parole.
-C’est pourquoi, lorsque nous préparons ces rencontres, nous tâchons de faire en sorte qu’il vienne
-le plus de monde possible afin que Dieu soit glorifié. Nous croyons que Dieu nous montrera cela.
-D’ailleurs je ne voudrais rien faire sans en avoir été divinement inspiré.
-   Dieu a un temps pour tout, vous comprenez. Vous ne devez rien faire avant ce moment. Si vous
-envoyez votre moissonneuse-batteuse dans la moisson avant qu’elle soit mûre, vous en perdrez la
-plus grande partie. C’est pourquoi, lorsque la faucille est prête à être jetée, Dieu la jettera. C’est
-alors que nous irons à la récolte.
-   Je me sentais tellement poussé à présenter ce sujet que je me suis dit que je le laisserai
-d’abord de côté pendant une courte période. Hier je n’ai pu penser à rien d’autre toute la journée,
+Quelquefois en présentant ces messages, je dis des choses passablement tranchantes. Quand je dis ces choses, je ne pense pas spécialement à cette église ici. Rappelez-vous que ce que je dis est enregistré et va dans le monde entier. Nous avons un service de distribution de bandes magnétiques qui couvre le monde entier, qui nous permet de distribuer ces messages jusqu’au fond de la jungle. Et le Saint-Esprit me conduit quelquefois à dire des choses qui pourraient concerner une personne en particulier en Australie ou à un endroit quelconque.
 
-        http://www.cmpp.ch
+C’est pourquoi vous pourriez dire dans certains cas: «Cette situation n’existe pas chez nous; pourquoi dit-il cela?». Mais peut-être que cela est dit pour un autre endroit, vous voyez. Je suis sûr que vous comprenez cela.
 
-    LE TROISIEME Exode 5
-comme d’ailleurs toute la nuit. Je suis allé au lit vers minuit, mais je ne pouvais pas dormir. La nuit
-précédente je n’avais dormi que trois heures environ. Il y avait quelque chose qui me disait sans
-cesse: «Enregistre cette prédication sur le mariage et le divorce». Vous voyez?
-   Si le Seigneur le permet, si cela reste ainsi sur mon coeur et si le Seigneur me montre encore
-quelques choses de plus sur ce sujet, je pense que je ferai cet enregistrement.
-   Mais rappelez-vous bien cela: elle ne doit être distribuée qu’aux pasteurs et prédicateurs. Vous
-pourrez venir écouter, mais pour ce qui est de l’enregistrement… Vous comprenez, c’est parce
-que cela ira dans toutes les assemblées et que certaines pensent d’une manière, d’autres d’une
-autre manière, et que chacun se ferait son opinion personnelle. Je voudrais que mes frères dans
-le ministère prennent connaissance eux-mêmes de cette prédication, puis qu’ils disent les choses
-eux-mêmes parce que ce sont eux les responsables.
-   Ils pourraient faire entendre cette bande au juge de paix et aux magistrats afin qu’ils sachent ce
-que le Seigneur dit au sujet du mariage et du divorce. C’est quelque chose de plus sacré que ce
-que l’on pense! Et cela s’accorde parfaitement avec la semence du serpent. C’est une seule et
-même chose: c’est la suite. Cela fait partie de ces mystères.
-   Vous vous souvenez qu’aux jours du septième âge, les mystères de Dieu seraient terminés.
-Toutes ces choses inconnues seraient révélées.
-   Ce soir, vous commencez à sept heures trente, n’est-ce pas? Frère Neville, si vous avez un
-message pour ce soir, veuillez le présenter. Je n’en aurai moi-même pas pour plus de
-quarante-cinq minutes ou une heure. J’aime écouter frère Neville. Je l’aime. Il est mon frère et je
-pense qu’il est un excellent pasteur. Ce que j’aime chez frère Neville, c’est qu’il vit ce qu’il prêche.
-C’est cela le principal. Savez-vous que vous pouvez “vivre” une prédication à quelqu’un bien mieux
-que de la lui “prêcher”? “Vous êtes manifestement une lettre de Christ lue de tous les hommes”.
-   Nous pouvons ouvrir le Livre, mais c’est Dieu qui doit introduire cette leçon d’école du
-dimanche. C’est pourquoi demandons-le Lui.
-   Père céleste, c’est par la foi que nous examinons les choses futures. C’est par la foi, Seigneur,
-que nous nous attendons à Ta venue sur cette terre un de ces jours, lorsque Tu viendras
-rassembler Ton peuple pour l’enlèvement.
-   Nous voyons ces églises dénominationnelles tellement pleines de contraintes et de divergences
-qu’elles ne font en réalité que chasser les gens.
-   C’est comme en Egypte où un pharaon se leva qui ne connaissait pas Joseph. En Allemagne,
-en Russie et en Italie ce fut pareil. Il se leva dans ces peuples des Hitler, des Staline, des
-Mussolini qui haïssaient le peuple Juif. C’est pourquoi ceux-ci furent obligés de rentrer dans leur
-pays.
-   Oh Dieu, Tu as des manières de faire que nous ne comprenons pas! Ils furent arrachés à leurs
-maisons: plus de maisons en Allemagne. On s’empara de tous leurs biens. Cela se passa aussi en
-Italie et en Russie. Ne pouvant plus aller nulle part, ils furent renvoyés dans leur patrie, tout cela
-simplement pour accomplir la Parole.
-   Oh, la main aimante de Dieu! Quelquefois, quand on voit comment le peuple doit souffrir, il
-semble qu’Elle soit bien cruelle, mais malgré tout c’est la douce main de Jéhovah qui conduit Ses
-petits enfants. Seigneur, nous T’en remercions.
-   Seigneur, nous T’adressons nos prières quand nous voyons les pressions que les
-dénominations exercent sur les croyants, les excommuniant, les obligeant à inscrire leur nom sur
-leurs livres, les menaçant sans cela d’être perdus, les obligeant à couper tous les ponts avec les
-autres groupes. Ce n’est rien d’autre que la douce main de Jéhovah conduisant les Siens à l’Arbre
-de Vie.
-   Oh Dieu, je Te prie que chacun y soit conduit. Je sais qu’ils le seront car c’est Ta Parole qui le
-dit et Elle ne peut faillir. Puissions-nous être conduits à l’Arbre de Vie afin d’entrer en possession
-de la Vie Eternelle, puissions-nous voir la Main de Dieu et, par les yeux de la foi regarder au-delà
-de ces ombres dans lesquelles nous marchons aujourd’hui et voir la Terre Promise qui s’étend là
-devant nous.
-   Seigneur, veuille bénir Ta Parole ce matin ainsi que ces quelques notes que j’ai prises. Que le
-Saint-Esprit puisse venir maintenant tandis que je me consacre en ce moment afin de recevoir la
-circoncision de ma langue, de ma pensée et de mon esprit, et que cette assemblée consacre les
-oreilles de son entendement, de son coeur, et que Tu puisses nous parler à tous au travers de Ta
+Ces messages ne sont pas adressés à quelqu’un de particulier: ils sont adressés à l’Eglise dans son ensemble, en tout lieu. Nous disons tout ce que le Seigneur nous conduit à dire et à faire.
 
-                          http://www.cmpp.ch
+J’ai passé des moments glorieux à Hot Springs dans une rencontre de Pentecôtistes à l’ancienne mode. Je suis sûr que ceux qui sont allés là-bas ont aimé ces Pentecôtistes. Je ne connaissais pas ce groupe; je devais aller là-bas une semaine, mais je n’ai pu leur donner que deux ou trois jours. Mais il y a une chose que je voudrais dire, c’est que dans ce groupe ils savent ce que c’est que la foi! S’il y en a ici qui sont allés à ces rencontres… Je reconnais cette darne assise là dans un coin: je ne la connais pas, mais elle était là. Il y avait aussi quelques frères, entre autres frère Jackson et frère Palmer.
 
-    LE TROISIEME Exode 6
-Parole, car TA PAROLE EST LA VERITE. Nous le demandons au Nom de la Parole, Jésus-Christ.
-Amen.
-   Nous prenons maintenant nos Bible pour lire dans le livre de l’Exode.
-   Nous lirons Exode, chapitre 3, versets 1 à 12.
-        “Moïse faisait paître le troupeau de Jéthro, son beau-père, sacrificateur de Madian,
-      et il mena le troupeau derrière le désert, et vint à la montagne de Dieu, à Horeb.
-      L’ange de l’Eternel lui apparut dans une flamme de feu, au milieu d’un buisson. Moïse
-      regarda; et voici, le buisson était tout en feu, et le buisson ne se consumait point.
-      Moïse dit: Je veux me détourner pour voir quelle est cette grande vision et pourquoi le
-      buisson ne se consume point. L’Eternel vit qu’il se détournait pour voir (je voudrai
-      mettre l’accent sur cela) et Dieu l’appela du milieu du buisson et dit: Moïse! Moïse! Et il
-      répondit: Me voici! Dieu dit: N’approche pas d’ici, ôte tes souliers de tes pieds, car le
-      lieu sur lequel tu te tiens est une terre sainte. Et il ajouta: Je suis le Dieu de ton père, le
-      Dieu d’Abraham, le Dieu d’Isaac et le Dieu de Jacob. Moïse se cacha le visage, car il
-      craignait de regarder Dieu. L’Eternel dit: J’ai vu la souffrance de mon peuple qui est en
-      Egypte, et j’ai entendu les cris que lui font pousser ses oppresseurs, car je connais ses
-      douleurs. Je suis descendu pour le délivrer de la main des Egyptiens, et pour le faire
-      monter de ce pays dans un bon et vaste pays, dans un pays où coulent le lait et le
-      miel, dans les lieux qu’habitent les Cananéens, les Hétiens, les Amoréens, les
-      Phéréziens, les Héviens et les Jébusiens. Voici, les cris d’Israël sont venus jusqu’à moi
-      et j’ai vu l’oppression que leur font souffrir les Egyptiens. Maintenant, va; je t’enverrai
-      auprès de Pharaon, et tu feras sortir d’Egypte mon peuple, les enfants d’Israël”.
-   Avez-vous remarqué cela? “Je suis descendu… Je t’enverrai…”. Dieu allant dans la forme d’un
-homme. Relisons encore une fois ce verset 10.
-        “Maintenant, va, je t’enverrai auprès de Pharaon, et tu feras sortir d’Egypte mon
-      peuple, les enfants d’Israël. Moïse dit à Dieu: Qui suis-je pour aller vers Pharaon et
-      pour faire sortir d’Egypte les enfants d’Israël? Dieu dit: Je serai avec toi, et ceci sera
-      pour toi le signe que c’est moi qui t’envoie: quand tu auras fait sortir d’Egypte le
-      peuple, vous servirez Dieu sur cette montagne”.
-   Je ne l’avais pas remarqué mais, me sentant profondément inspiré par l’Esprit ce matin, je
-viens de le comprendre. Dieu a ramené Son serviteur dans le lieu d’où il s’était enfui et lui a donné
-comme signe une montagne. Je ne l’avais jamais remarqué jusqu’à présent! Ce sera un signe
-éternel pour toi! Vous comprenez?
-   Ce matin, nous parlerons du Troisième exode du peuple de Dieu, de l’appel du peuple de Dieu
-à sortir. Exode signifie conduit hors de, appelé hors de, emporté hors de. Je voudrais utiliser ce
-texte comme sujet pour parler du troisième exode du peuple de Dieu.
-   Bien entendu, ils ont eu beaucoup d’exodes, mais je veux parler du temps que Dieu a appelé
-un exode, c’est-à-dire une séparation d’avec le lieu où ils étaient alors.
-   Voici que Dieu Se préparait à remplir la promesse divine de la Parole qu’Il avait donnée à
-Abraham, Isaac et Jacob. Des centaines d’années avaient passé, mais Dieu n’oublie jamais Sa
-promesse. Au temps marqué, Dieu accomplit toujours Sa promesse. C’est pourquoi vous pouvez
-être assurés que ce que Dieu a promis dans Sa Bible, Il l’accomplira. Inutile d’essayer de penser
-autrement et de dire: «Oh, peut-être que le prophète s’est trompé… cela ne peut plus arriver de
-nos jours!…».
-   Cela semblait presque impossible en ce temps-là, plus impossible encore que cela nous paraît
-aujourd’hui, mais Dieu l’accomplit tout de même car Il avait promis qu’Il le ferait. D’ailleurs voyez
-avec quelle simplicité Il l’a fait: “Je suis descendu; J’ai entendu leurs cris; Je me suis souvenu de
-Ma promesse et Je suis venu pour l’accomplir, c’est pourquoi Je t’envoie. Tu agiras et Je serai
-avec toi. Certainement, Je serai avec toi! Ma présence qui ne fait jamais défaut sera avec toi où
-que tu ailles. N’aie pas peur! Je suis descendu pour délivrer”. Je suis sûr que la pensée spirituelle
-saisit cela! “Je t’envoie pour conduire Mon peuple dans un exode, pour les appeler au dehors, et
-Je serai avec toi”.
-   Comme nous pouvons nous appuyer là-dessus! Comme la foi peut se saisir de cette
-espérance! Dieu agira: Il l’a promis! Peu importent les circonstances ou ce que diront les gens,
-Dieu le fera de toute manière parce qu’Il a promis de le faire. Et Il le fait avec une telle simplicité
+Voilà ce que les gens reçoivent quand ils ont la foi, vous comprenez? Vous avez remarqué cette ligne de guérison? Aucun de ceux qui sont entrés dans la ligne n’est sorti autrement que guéri par Dieu.
 
-    http://www.cmpp.ch
+Lorsque vous avez la foi… Peut-être que certains d’entre vous ne comprennent pas cette émotion, ces cris, ces danses. Comprenez bien qu’ils ne font pas cela pour le public: ils crient et dansent devant Dieu. C’est tout.
 
-    LE TROISIEME Exode 7
-que cela passe au-dessus de la compréhension de l’esprit cultivé qui essaie de raisonner
-là-dessus. Il dira: “Comment cela pourrait-il se faire?”. Je ne veux pas dire qu’un homme ayant une
-solide intelligence et une bonne instruction ne pourra pas comprendre ces choses. Tout cela est
-très bien pour autant qu’il n’utilise pas sa culture pour raisonner, mais pour croire en Dieu.
-   Que sa culture se convertisse en la simplicité d’écouter et de croire ce que Dieu dit. Alors elle
-lui sera utile.
-   Remarquez bien que lorsqu’on essaie de prouver par le raisonnement que cela ne peut arriver,
-on est conduit loin de Dieu. C’est toujours ainsi. Cela arrive lorsque l’on essaie d’écouter sa propre
-compréhension. Si la Bible dit une chose que vous ne comprenez pas, ponctuez simplement par
-un «Amen!» et passez plus loin.
-   Pour cette leçon d’école du dimanche, au lieu de regarder dans votre Bible, vous pouvez aussi
-noter les références si vous le désirez. J’en ai marqué beaucoup.
-   Avant de découvrir ce que signifie cet exode, je voudrais comparer l’exode d’autrefois avec
-l’exode d’aujourd’hui. Vous pouvez voir que ces deux événements sont exactement parallèles.
-L’un d’eux est dans les choses naturelles, et les choses mêmes qu’Il a faites en type dans le
-domaine naturel, Il les a faites de nouveau dans le domaine spirituel. C’est “l’exode spirituel”.
-   La Parole de Dieu est merveilleuse! Comment y en a-t-il qui peuvent dire qu’Elle n’est pas
-inspirée! Ces événements se passaient il y a environ 2800 ans, vous savez. Nous pouvons voir
-comment Il a fait cette promesse et comment Il l’a accomplie. Ces choses nous ont été décrites
-afin de nous servir d’exemples. Nous voyons comment Il fait l’ombre d’une chose afin de rendre
-témoignage à la chose réelle. Si le Seigneur le permet, nous verrons cela ce soir en considérant le
-soleil et la lune.
-   Mais premièrement nous devons parcourir la Genèse pour savoir pourquoi ils étaient en
-Egypte. Pourquoi le peuple de Dieu était-il sorti de son pays? Dès le commencement, Dieu avait
-fait des promesses à Abraham, à Isaac et à Jacob en Palestine. Il leur avait donné le pays en leur
-disant: “C’est là”.
-   Alors pourquoi ce peuple n’était-il pas à la place que Dieu lui avait donnée? Voilà une question
-valable aujourd’hui encore! Dieu nous a donné une Pentecôte. Il nous a donné un livre des Actes.
-Il nous a donné le Saint-Esprit pour nous conduire et nous guider. Il nous a donné un pays:
-pourquoi sommes-nous à l’extérieur? Pourquoi l’église est-elle à l’extérieur? Pourquoi la grande
-église chrétienne d’aujourd’hui ne vit-elle pas de nouveau comme dans le livre des Actes,
-produisant les mêmes choses? Il doit y avoir une raison à cela!
-   Nous sommes en pleine dispersion, dans une situation affreuse. La chrétienté n’a jamais été
-dans un état aussi affreux qu’aujourd’hui. Et il y a un grand et terrible jugement qui est sur le point
-de tomber sur l’église, mais avant que ce jugement puisse tomber, Dieu nous appelle à un exode,
-exactement comme Il l’a fait autrefois.
-   Le péché des Amoréens est monté jusqu’au Ciel. C’est pourquoi Il nous appelle à un exode
-spirituel. Mais retournons un moment en arrière pour découvrir le type de ces choses.
-   Ils étaient allés en Egypte à cause de la jalousie qu’ils avaient à l’égard d’un de leurs frères.
-C’est la raison pour laquelle Israël était en Egypte en ce temps-là au lieu d’être dans son pays.
-Rappelez-vous bien que les promesses de Dieu n’étaient valables que pour autant qu’ils
-restassent dans leur pays.
-   Pouvez-vous comprendre de quoi nous parlions dans la prière il y a quelques instants?
-Pourquoi Dieu dut-il endurcir le coeur de Pharaon? C’est parce qu’Il devait ramener le peuple dans
-la terre promise avant de pouvoir le bénir, avant de pouvoir leur envoyer le Messie.
-   Pourquoi dut-Il endurcir le coeur d’Hitler contre les Juifs alors qu’Hitler était lui-même demi-Juif?
-Pourquoi dut-Il faire cela avec Staline, avec Mussolini?
-   Vous voyez, quand un peuple n’est pas inspiré… Dieu doit prendre les choses dont ils vivent,
-souvent même les lois du pays, afin de faire se réaliser Ses promesses.
-   C’est pourquoi Il dut endurcir le coeur de ces dictateurs pour chasser les Juifs vers la terre
-promise. Il fallait qu’il en soit ainsi.
-   Au sujet de l’histoire de Joseph… Vous trouverez cette histoire dans la Genèse et vous voudrez
-bien la lire chez vous parce que j’ai commencé cette leçon d’école du dimanche un peu tard et il
-faut que je me dépêche.
+Et je voudrais aussi dire ceci, c’est que je n’ai jamais vu un groupe de femmes d’apparence aussi pure: elles avaient toutes les cheveux longs. Quand je pense à l’apparence de certaines personnes que j’ai vu sortir du fond de la jungle… je ne crois pas en avoir vu ayant l’air plus moderne (vous savez ce que je veux dire), maquillées et tout le reste! Peut-être que je ne suis pas d’accord avec tout ce qu’enseignent ces Pentecôtistes, mais pour cela, je suis entièrement d’accord avec eux! Pour moi, ces Pentecôtistes avaient vraiment l’apparence de chrétiens.
 
-                          http://www.cmpp.ch
+Hier ou avant-hier, le Seigneur me conduisit à parler sur ce sujet: Juste une fois encore, Seigneur. Peut-être que certains n’ont pas compris que j’ai parlé là-dessus exprès, parce que le Seigneur m’y avait conduit. Ce petit groupe était en train de glisser dans quelque chose, mais le Seigneur avait pourvu à cela.
 
-    LE TROISIEME Exode 8
-   N’oubliez pas de lire cette histoire quand vous pourrez. Joseph était né après ses frères; il était
-l’avant-dernier. La pensée spirituelle comprendra cela tout de suite. Il n’était pas le dernier enfant;
-c’était Benjamin. Mais considérez l’excommunication. Joseph et Benjamin étaient de vrais frères
-de sang. C’étaient les seuls.
-   Benjamin ne fut jamais reconnu avant d’avoir rencontré Joseph. Mais après, Benjamin reçut
-une double portion de tout ce que donna Joseph.
-   Remarquez qu’il fut séparé de ses frères parce qu’il était spirituel. Bien que le dernier et le plus
-humble de la famille, il était un grand homme et ses frères le haïrent sans cause. Ils n’auraient pas
-dû le haïr; ils auraient dû le respecter. Mais pourquoi le haïssaient-ils? Parce qu’il était un de leurs
-frères? Pas exactement. Ils le haïssaient parce que Dieu agissait plus par lui que par les autres.
-   Dieu lui avait donné un entendement spirituel. Il pouvait interpréter parfaitement les songes, il
-pouvait annoncer parfaitement les choses qui allaient arriver; et il ne mâchait pas ses mots.
-   Il eut le songe de ces gerbes qui se prosternaient devant sa gerbe. Cela rendit ses frères
-furieux contre lui. Je m’imagine les entendre lui dire: «Espèce de petit saint!». Ils savaient que cela
-voulait dire qu’un jour ils devraient se prosterner devant lui.
-   C’est exactement ce qui arriva. Comment ces grands géants auraient-ils accepté de se
-prosterner devant ce petit gamin insignifiant? C’est pourtant ce qu’ils firent, et ils durent implorer sa
-grâce!
-   Mais en ce temps-là il n’avait pas de puissance. Il était encore dans la forme d’un enfant. Nous
-voyons qu’à cause de ses songes, Joseph fut ôté du milieu de ses frères (les dénominations) et
-placé dans un lieu solitaire, alors que ses frères occupaient tout le pays.
-   Mais voici quelque chose de glorieux! Nous nous rendons compte que tant qu’Israël resta dans
-son pays… C’était très bien de rester dans leur territoire, mais malgré tout cela, ils chassèrent
-l’Esprit.
-   Aujourd’hui les fondamentalistes connaissent leur position par leur compréhension intellectuelle
-de la Bible, mais ils n’ont pas l’Esprit. Ils ont rejeté Joseph, l’ont chassé dehors. Ils ne veulent rien
-de cela, ils disent que ce n’est que du fanatisme et de l’exaltation. Ils disent: «Nous ne voulons
-rien avoir à faire avec ces choses!». Ils l’ont excommunié, vendu au monde. Ces gens sont hors
-de leur communion.
-   Mais en faisant cela ils ont été ôtés de leur place, et plus tard ils ont été déportés en Egypte.
-L’histoire de ces frères jaloux offre certainement de nombreux points communs avec ce qui se
-passe aujourd’hui dans les choses spirituelles.
-   Nous sommes bien conscients que tout cela n’était que pure jalousie… non pas une pure
-jalousie, mais cette vieille jalousie souillée et impure. Il n’y a pas de pureté dans cette jalousie-là:
-c’est une jalousie mauvaise.
-   Quand ils voient la Bible et la nature de ce Dieu qui L’a écrite et S’est confirmé Lui-même et
-qu’ils la rejettent sans raison, eh bien, même si je dis que c’est par pure jalousie, c’est une jalousie
-souillée! Ils ont pu voir Dieu guérir les malades et ressusciter les morts. C’est le même Dieu que
-Celui qui vivait du temps des apôtres. C’est le même Evangile que celui qu’ils écrivirent pour nous
-préparer à ce voyage spirituel. C’est le même Dieu qui fait les mêmes choses, mais il n’y a que de
-la jalousie. Ils l’ont excommunié en disant: «Nous ne voulons pas de cela parmi nous!». Ils l’ont
-chassé.
-   Les frères de Joseph pensèrent qu’ils n’avaient pas l’usage d’un tel homme, alors pourquoi ne
-pas s’en débarrasser? C’est exactement ce qui s’est passé aujourd’hui. Ils pensent que parce que
-leurs églises sont devenues intellectuelles, qu’ils ont les gens les mieux vêtus, les plus grandes
-organisations et les pasteurs les plus intelligents, ils n’ont que faire du Saint-Esprit tel qu’Il Se
-manifestait autrefois.
-   Ils sont pleins… En d’autres termes (les actions parlant plus haut que les paroles), ils sont sûrs
-qu’avec leurs séminaires, leurs cerveaux, leurs colloques et leur pensée intellectuelle, ils sont plus
-capables que le Saint-Esprit de mettre de l’ordre dans une église. C’est pourquoi ils n’en ont plus
-besoin. C’est quelque chose dont nous n’avons plus besoin aujourd’hui.
-   Ils disent: «Ce temps-là est passé!». N’est-ce pas vrai? Nous n’avons plus besoin du
-Saint-Esprit pour guérir les malades, nous avons les médecins. Nous n’avons pas besoin du
-Saint-Esprit pour parler en langues: nous sommes assez intelligents. En faisant ainsi, nous sortons
-de notre position dans l’édifice, nous nous écartons de la ligne de vie.
+C’était tout simplement merveilleux! Vous savez comme les choses se passent. Si vous n’avez pas la vision spirituelle, vous n’y voyez rien du tout. Il faut que nous nous attendions à ces choses.
 
-                          http://www.cmpp.ch
+Au moment où j’entrai, le frère Ungreen était en train de chanter. C’est peut-être la deuxième fois que je l’entends chanter. Il chantait: Je marche avec le Roi et je parle avec Lui. Je pensai: «N’est-ce pas beau? marcher avec le Roi et parler avec Lui, cela signifie une communion constante! Pas seulement dans une église, mais en tout lieu: marcher et causer avec le Roi!».
 
-LE TROISIEME Exode 9
-   Jésus disait aux Juifs: “N’avez-vous pas lu que la pierre qu’ont rejetée ceux qui bâtissaient est
-devenue la principale de l’angle, celle sur laquelle toute la maison s’appuie?”.
-   Comprenez-vous ce que je veux dire? J’en suis sûr! La raison pour laquelle ils font cela
-aujourd’hui, c’est parce qu’ils pensent qu’ils n’ont pas besoin de ces choses. — «Nous n’avons
-pas besoin de gens qui parlent en langues! Nous n’avons pas besoin de gens qui interprètent les
-langues! Nous n’avons plus besoin des prophètes de l’Ancien Testament pour mettre notre vie en
-ordre par le Saint-Esprit! Nous avons la compréhension de ces choses!».
-   Vous voyez, ils ont adopté un système fait de main d’homme qui prend la place du Saint-Esprit.
-Pourtant, il y a des gens qui sont élus, dont le nom est inscrit dans le Livre de Vie de l’Agneau.
-Ceux-ci ne peuvent se contenter de cela. Ayant la pensée spirituelle, ils ne peuvent marcher dans
-ces choses-là. Ils ne peuvent les supporter. Peu importe si leurs parents ont vécu dans une
-organisation ou une église… Peut-être qu’ils ne disent pas grand’chose…
-   Oh non, ils ne disent rien! Mais ce sont leurs actions qui rendent témoignage! Il est la Parole; et
-le Saint-Esprit, lorsqu’Il peut les réunir, le prouve au milieu d’eux en guérissant les malades, en
-ressuscitant les morts, en parlant en langues et en chassant les démons. C’est pourquoi tout
-dépend de ce qu’il y a à l’intérieur de la personne.
-   Miss Arganbright pensait la même chose l’autre jour quand elle était accroupie dans l’allée en
-train d’arracher quelques mauvaises herbes (elle tondait le gazon). Je suis passé à côté d’elle
-sans qu’elle me voie. Je l’ai observée sans l’interrompre.
-   Soyez attentifs au Saint-Esprit et à Son oeuvre glorieuse! L’église a l’impression qu’elle n’a pas
-besoin du Saint-Esprit. Les églises vous le diront. Et les hommes peuvent vous débiter des
-discours tellement intellectuels que vous y croiriez presque! Mais arrêtons-nous un moment pour
-réfléchir.
-   Jésus n’a-t-Il pas dit que les deux esprits deviendraient si proches l’un de l’autre que cela
-séduirait les élus si c’était possible? La prédication intellectuelle deviendra si convaincante qu’elle
-pourra séduire les gens! C’est l’Evangile qui le dit. L’homme en viendra à pouvoir manipuler la
-Parole de telle manière que presque n’importe quelle personne intellectuelle (si elle se fie à son
-intelligence) condamnera le Saint-Esprit et entrera dans les voies de l’homme. Nous le voyons!
-   C’est exactement ce qu’ils pensèrent de Joseph: ils se débarrassèrent de lui. Et quand il fut en
-Egypte… Oh, quand je pense à cela! On pourrait rester sur ce sujet pendant trois ans jour et nuit,
-et trouver encore et encore des pépites du Saint-Esprit!
-   La pensée spirituelle peut comprendre comment Joseph a été emporté en Egypte afin que la
-persécution puisse se faire. Alors nous pouvons voir cette vision de Dieu, ces roues dans ces
-roues, tout cet ensemble qui se meut dans une parfaite harmonie. Voyez comment Potiphar rejette
-Joseph. Voyez ce mensonge à la suite duquel Joseph est jeté en prison où sa barbe eut le temps
-de pousser! Il avait été excommunié du milieu de ses frères, mais soudain Dieu entra en scène!
-   Nous pouvons voir ces roues dans ces roues, ce glorieux plan de Dieu conduisant toutes
-choses vers la réalisation de cet exode, préparant tout pour le jour où Il appellerait Son peuple à
-retourner dans son pays, dans sa position là où Il pourrait le bénir et placer au milieu d’eux Celui
-qu’Il avait promis d’y placer. Mais il fallait qu’ils fussent dans leur pays. Rappelez-vous bien ceci: il
-fallait qu’ils sortissent du pays dans lequel ils étaient et qu’ils entrassent dans le pays de la
-promesse avant que le Messie promis puisse venir. L’Eglise doit faire la même chose. Elle doit
-sortir du milieu de ceux qui rejettent et entrer dans la Promesse avant que le Messie puisse Se
-manifester devant elle. Comprenez-vous ces choses?
-   La vie du Messie manifestée prépare une Eglise, une Epouse. Si un homme et une femme se
-marient mais sont en désaccord, ce sont des disputes continuelles. Mais si un homme et une
-femme s’aiment et qu’ils se marient, ils sont en parfaite harmonie, ils sont un coeur et une âme
-parce qu’ils doivent être une seule chair. C’est la même chose lorsque l’Eglise peut entrer dans
-une harmonie avec Dieu telle que l’Epoux est manifesté dans l’Epouse, car ils doivent devenir Un.
-Quelle glorieuse leçon!
-   Vous voyez, la pensée spirituelle peut reconnaître que le type et la réalité sont une seule et
-même chose. Nous pourrions parler des heures sur ce sujet! Voyez ce qui est en train de se
-produire. Or, pourquoi avons-nous dû attendre des années cette oasis dans le temps?
-   La Bible nous dit que l’église s’enfuit dans le désert où elle fut nourrie pendant un certain
-temps. Pourquoi cela se passa-t-il ainsi? Vous voyez, ce sont les roues dans les roues du plan de
+Regardez là sur la paroi: il y a une carte et une petite peinture faite par un homme nommé George Todd. Il l’a peinte pour moi. Je ne sais pas pourquoi il a fait cela. Peut-être qu’il ne s’est pas lui-même posé la question. Il a peint un paysage. Une montagne apparaît au loin derrière une forêt; un petit ruisseau coule en murmurant; sur la rive de l’autre côté se tiennent une daine et son faon, l’oreille dressée, regardant de ce côté-ci du ruisseau. Je ne sais pas si monsieur Todd est ici; je ne le connais pas. Mais je voudrais dire ceci: le Seigneur m’a parlé quand j’ai regardé cette peinture. Peut-être que cet homme ne savait pas ces choses lorsqu’il fit cette peinture.
 
-        http://www.cmpp.ch
+Vous vous souvenez de cette petite histoire du daim qu’un homme allait abattre. La mère était là avec son petit près des eaux de la vie, vous comprenez? Il eut l’inspiration de montrer cette daine avec son petit, et moi je pensai: «C’est vrai! De l’autre côté, près des arbres aux feuilles toujours vertes, j’ai moi aussi une mère et son enfant qui attendent».
 
-LE TROISIEME Exode 10
-Dieu. Pourquoi cela ne s’est-il pas passé il y a longtemps déjà lorsque les hommes et les femmes
-se mirent à sortir leurs crayons et leur papier pour essayer de calculer les temps? Il y eut le juge
-Rutherford et beaucoup d’autres qui dirent que Jésus reviendrait en 1914, il y eut Mother Shipton
-bien avant lui et tous les autres qui, en essayant de faire des calculs sur la base de l’Ecriture, la
-rendirent vaine en ce qui les concerne.
-   Ces choses sont cachées, réellement cachées. Et comment l’Ecriture pourrait-Elle parler contre
-Elle-même alors que Jésus dit: “Nul ne connaît ni le jour ni l’heure”? Vous voyez, ils ne prennent
-qu’un fragment de l’Ecriture et s’accrochent à cela. Mais vous devez prendre l’Ecriture tout entière!
-Si Dieu est dans cela, Dieu manifestera que c’est la vérité. C’est comme la guérison divine. Si ce
-n’est pas la vérité, alors ce n’est pas la vérité! Dieu n’aura rien à voir dans tout cela. Mais s’Il la
-manifeste comme étant la vérité, alors c’est la vérité!
-   Comme Jésus, Dieu a dit: “S’il y a parmi vous un prophète ou quelqu’un de spirituel, Je lui
-parlerai. Et si ce qu’il dit arrive, écoutez-le”. Tout est là! Mais si la prophétie est fausse, ce n’est
-pas Dieu qui S’est trompé! Il est infini, infaillible, omnipotent et Il ne peut Se tromper. C’est
-pourquoi si un homme parle, il montre ce qu’il est: s’il parle de son propre chef, cela n’arrivera pas;
-mais s’il exprime les Paroles de Dieu, cela ne peut manquer d’arriver parce que c’est Dieu qui
-parle. Son inspiration vient de Dieu et elle ne peut être que juste. C’est ainsi que Dieu nous a dit
-de parler.
-   C’est la manière de la Bible. Dans l’Ancien Testament, Dieu dit: “S’ils ne parlent pas
-conformément à la loi et aux prophètes, c’est parce qu’il n’y a pas de vie en eux”. C’est vrai, il n’y a
-pas de vie en eux. Il faut qu’ils parlent conformément à la loi et aux prophètes. Et que ce soit la
-prophétie ou autre chose, tout doit être conforme à la Parole, sinon c’est faux.
-   Nous voyons que tout cela est arrivé parce que… Les Méthodistes, les Luthériens, les
-Baptistes, les Campbellistes et tous les autres ont eu de grands réveils. Les Nazaréens, les
-Pèlerins de la Sainteté et les Pentecôtistes ont eu de grands réveils. Mais le grand exode ne s’est
-pas produit. Pourquoi?
-   Dieu dit à Abraham qu’Il donnait le pays à sa postérité, mais que l’iniquité des Amoréens n’était
-pas encore à son comble. Dieu attendit patiemment. Les gens essaient de faire des calculs. Ils
-voient que l’Ecriture annonce des événements et disent: “Cela se passera à tel et tel moment”.
-Mais ils ne comprennent pas que l’iniquité des Amoréens n’est pas encore à son comble.
-   Ils devaient rester quatre cents ans en Egypte avant d’être délivrés. Mais ils restèrent en réalité
-quatre cent quarante ans hors de leur pays parce qu’ils avaient rejeté le prophète. Ils durent
-souffrir quarante ans de plus dans le désert avant que Dieu les délivre. Moïse dut rester quarante
-ans dans le désert avant de retourner les délivrer. Quarante années supplémentaires durent
-s’écouler parce qu’ils avaient rejeté le message.
-   Dans le temps de Dieu, quarante ans correspondent à environ une demi-minute de notre
-temps. Si mille ans représentent un jour, quarante ans ne font même pas une minute. Pensez-y.
-   Nous sommes en retard. Pourquoi? A cause de la longanimité de Dieu qui attend et observe. Il
-a suscité le réveil des Luthériens, mais ceux-ci se sont organisés. Il a suscité le réveil des
-Méthodistes, mais ceux-ci se sont organisés. Avec John Smith de l’église Baptiste Il a suscité un
-grand réveil, mais ils se sont organisés. Il a suscité le réveil de Pentecôte avec la restauration des
-dons, mais ils se sont organisés. Cela arrivera jusqu’à ce que l’iniquité arrive à son comble: alors
-Dieu en aura assez.
-   Alors il y aura un exode, et nous le verrons. Les gens pourront voir eux-mêmes, en remontant le
-cours du temps, qu’il y a une malédiction. Ils prennent de nouveau un lingot d’or et un beau
-manteau de Babylone. Voilà ce qui fait tomber la malédiction sur le peuple: c’est lorsqu’un homme
-essaie d’introduire ses propres idées.
-   Nous devons rester dans la Parole. Le commandement de Dieu était qu’il ne fallait rien toucher
-dans cette ville maudite. Ne touchez à rien! Laissez ces choses tranquilles!
-   Acan pensa qu’il pouvait prendre ce lingot d’or et ce manteau babylonien et vivre tranquillement
-comme le reste du monde. Oh, tous ces Acan qu’il y a dans le camp! Mais ces objets sont maudits
-et restent maudits! La malédiction est entrée dans le camp depuis le concile de Nicée. Elle y est
-restée depuis lors, mais Dieu laisse l’iniquité des Amoréens arriver à son comble.
-   Maintenant, si vous avez l’entendement spirituel (vous remarquez que je parle tout le temps
-d’entendement spirituel), vous pouvez voir que l’iniquité de cette nation est arrivée à son comble.
+Merci, frère George Todd, si vous êtes ici ce matin! Maintenant, je voudrais donner ma leçon d’école du dimanche. D’habitude, je parle assez longtemps. J’ai un sujet sur le coeur je ne sais pas depuis quand, peut-être depuis hier. Je vieillis et je ne sais pas pendant combien de temps je resterai parmi vous.
 
-        http://www.cmpp.ch
+Mais il y a dans l’église un grand sujet qui a causé pas mal de désaccord entre les hommes. C’est comme la fameuse pomme; j’ai prêché là-dessus et je crois fermement que l’on peut prouver par les Ecritures qu’il ne s’agissait pas d’une pomme. Cela a causé beaucoup de confusion.
 
-    LE TROISIEME Exode 11
-Elle s’est organisée, organisée, organisée, réorganisée, et maintenant elle s’associe et se joint à
-quelque chose d’autre. L’iniquité est arrivée à son comble!
-   C’est le moment de l’exode. C’est le moment de partir pour la Terre Promise. Non pas la
-promesse d’aller simplement dans un autre pays, mais à la maison, dans le millénium. C’est le
-moment de sortir de l’iniquité de cette nation. J’insisterai particulièrement là-dessus ce soir, si le
-Seigneur le permet. L’iniquité est arrivée à son comble! Elle est souillée!
-   Vous me direz: «Frère Branham, est-ce ainsi que vous parlez de votre nation?». —
-Parfaitement! — «En tant que citoyen des Etats-Unis, vous ne devriez pas dire cela!».
-   Alors, Elie n’aurait pas dû appeler la malédiction sur Israël, lui qui était Israélite! Les autres
-prophètes n’auraient pas dû non plus prononcer de malédiction sur Israël, étant citoyens de ce
-pays.
-   Mais ce qu’ils exprimaient, ce n’était pas leurs propres pensées, mais la Parole de Dieu. Tout
-dépend d’où vous tirez votre inspiration. Cela dépend d’où cela vient. Si c’est contraire à la Parole,
-laissez-le. Et je défie qui que ce soit de prouver que ce que je dis est contraire à la Parole.
-   C’est dans Apocalypse 13 que cette nation apparaît. Le nombre de cette nation Esther 13, la nation
-de la femme. Dans la Bible il est parlé d’une femme. Une femme est représentée sur notre
-monnaie. C’est la nation de la femme
-   C’est là que la pourriture de la femme a commencé, et c’est là qu’elle arrive à son achèvement.
-La pourriture a commencé en Eden par l’incrédulité en la Parole de Dieu. C’est là que les femmes
-prédicateurs et tout le reste ont commencé. La pourriture du monde jaillit de Hollywood qui est le
-pire endroit de la terre. Il y a en Amérique plus de divorces que dans le reste du monde pris dans
-son ensemble. Vous voyez?
-   Pourquoi cela? Vous le découvrirez un de ces jours si le Seigneur le permet. Vous verrez
-pourquoi il y a cette malédiction. Vous pourrez voir, dans la question du divorce, Satan a aveuglé
-les yeux du monde. Nous sommes dans une heure épouvantable! Je crois que la fin est presque
-là. La femme est pourrie jusqu’au coeur.
-   Elle apparaît dans Apocalypse 13. Rappelez-vous qu’elle s’est élevée comme un agneau:
-liberté de religion, etc. Mais elle a reçu la puissance de la bête et lui fit une image. Et elle parle
-avec autorité et fait toutes les méchantes choses que fit la bête avant elle. Et vous direz que ce
-n’est pas une prophétie pour cette nation?
-   Le péché des Amoréens est pratiquement à son comble puisqu’ils agissent déjà ainsi! Le but de
-chaque nouveau pape est d’unir les frères! Pour la pensée naturelle, c’est bien ce qu’il faut faire,
-mais aux yeux de Dieu, c’est contraire au Saint-Esprit. Nous ne pouvons pas nous associer à ces
-choses. Mais chaque église sera prise dans cette confédération!
-   Sortez de cela aussi vite que vous le pouvez! Autrement vous recevrez la marque de la bête
-SANS MEME LE SAVOIR! Sortez de cela! J’espère que ceux qui ont la pensée spirituelle
-comprendront cela, je suis sûr qu’ils le comprendront, mais pour les autres, je me demande… De
-toute manière, si vous ne pouvez aller dans tous les pays, vous pouvez envoyer des bandes. Dieu
-trouvera bien le moyen de toucher ceux qui ont la pensée spirituelle là où cette semence est
-semée. C’est vrai! Et aussitôt que la Lumière frappe cette semence, elle prend vie! Comme la
-femme au puits. Elle dit: “C’est vrai!” et elle reçut la Lumière. Sortez de ces choses maudites!
-Montrez-moi un de ces mouvements qui ne soit pas tombé après avoir pris naissance!
-Montrez-moi un de ces mouvements qui se soit relevé après être tombé! C’est pourquoi vous
-pouvez voir comme tout cela est dans l’erreur.
-   Du temps d’Israël, l’iniquité des Amoréens n’était pas encore à son comble, c’est pourquoi
-Israël dut attendre l’exode un certain temps. Mais lorsque l’iniquité des Amoréens fut à son
-comble, il y eut un exode naturel qui conduisit le peuple dans un pays naturel qui était celui où les
-Amoréens naturels avaient habité. C’était leur pays.
-   L’iniquité de la dénomination amoréenne, qui s’est donné si longtemps le nom d’église, est
-bientôt à son comble. Il y a un exode qui va se produire où Dieu manifestera Son peuple, l’Eglise,
-l’Epouse de Jésus-Christ; celle-ci partira en exode vers la Terre promise. “Il y a plusieurs
-demeures dans la maison de Mon Père”.
-   Vous n’aurez pas besoin de vous battre pour y entrer: tout est déjà préparé. Si ce tabernacle
-terrestre doit être dissous, il y en a un autre qui nous attend. “Là où Je suis, vous serez aussi”. Le
-grand exode est proche!
+Vous savez que dans un mois environ nous devrons retourner en Arizona. Mais avant de partir, j’aimerais, Dieu voulant, parler sur un sujet biblique qu’il vaudrait mieux ne pas enregistrer. Si vous l’enregistrez, ne diffusez pas la bande sans autre. Je voudrais vous dire la vérité au sujet du mariage et du divorce. C’est une question importante, et nous sommes dans les derniers temps où les mystères de Dieu doivent être révélés.
+
+Hier, en passant dans les montagnes à l’aube, il me sembla entendre le Saint-Esprit me dire: «Enregistre cela et mets-le de côté».
+
+Je ne sais pas pourquoi. Mais pour ce qui est de la vérité au sujet du mariage et du divorce… Il y en a qui disent: «On peut se remarier si l’on peut jurer que l’autre a commis adultère». D’autres disent: «S’ils se disputent sans cesse et qu’ils ne peuvent plus vivre ensemble… Mieux vaut avoir la paix que de vivre en enfer sur cette terre». Il y a toutes sortes de questions qui sont posées. On se marie de toutes les manières possibles. Il y en a qui les aspergent d’un peu d’eau bénite en leur disant que c’est comme s’ils n’avaient jamais été mariés, qui les bénissent et les font rentrer dans l’église. Il y a une grande confusion. Mais s’il y a une telle confusion, c’est qu’il doit bien y avoir une vérité quelque part!
+
+Je le crois et je le dis en toute humilité: je crois que le Seigneur m’a révélé la vérité à ce sujet. Mais si l’on répandait cela dans les églises, cela risquerait de causer d’énormes dégâts. Je préférerais que seuls les pasteurs reçoivent les bandes, les écoutent et conduisent leur assemblée d’après cela. Mais j’aimerais enregistrer cela simplement afin de montrer où est la vérité dans tout cela.
+
+Je crois que nous vivons dans les temps où ces mystères doivent être terminés, achevés. Nous avons montré ces choses en étudiant les sept âges de l’église et les sept Sceaux, et maintenant nous approchons du temps où il faudra s’occuper des sept trompettes et des sept coupes. Nous pourrions peut-être faire une série de réunions s’étendant sur deux semaines et traiter le tout ensemble.
+
+J’aimerais pouvoir enregistrer cela. D’autre part, nous essayons maintenant de préparer les épreuves du livre des sept âges de l’église et de faire sept bandes, tâchant d’arriver à faire quelque chose d’aussi bon marché que possible afin que cela soit accessible à tous.
+
+Ensuite, si le Seigneur tarde encore un peu et que je m’en aille, vous verrez les choses que je vous ai prédites au Nom du Seigneur arriver comme je vous les ai annoncées. Aucune n’a jamais manqué d’arriver, et il y en a encore quelques-unes qui doivent arriver plus tard.
+
+Je crois que le Seigneur va nous faire faire cela sans tarder. Nous vous avertirons à temps parce qu’il y en a beaucoup qui aiment venir écouter ces choses, ce que j’apprécie.
+
+Si personne ne croyait ou n’écoutait ces choses, à quoi cela servirait-il que je vienne ici en parler? Vous comprenez? Si personne ne voulait croire, ce serait comme jeter les perles devant les pourceaux. Mais il y en a des milliers et des milliers qui croient et s’attachent à chaque parole. C’est pourquoi, lorsque nous préparons ces rencontres, nous tâchons de faire en sorte qu’il vienne le plus de monde possible afin que Dieu soit glorifié. Nous croyons que Dieu nous montrera cela. D’ailleurs je ne voudrais rien faire sans en avoir été divinement inspiré.
+
+Dieu a un temps pour tout, vous comprenez. Vous ne devez rien faire avant ce moment. Si vous envoyez votre moissonneuse-batteuse dans la moisson avant qu’elle soit mûre, vous en perdrez la plus grande partie. C’est pourquoi, lorsque la faucille est prête à être jetée, Dieu la jettera. C’est alors que nous irons à la récolte.
+
+Je me sentais tellement poussé à présenter ce sujet que je me suis dit que je le laisserai d’abord de côté pendant une courte période. Hier je n’ai pu penser à rien d’autre toute la journée, comme d’ailleurs toute la nuit. Je suis allé au lit vers minuit, mais je ne pouvais pas dormir. La nuit précédente je n’avais dormi que trois heures environ. Il y avait quelque chose qui me disait sans cesse: «Enregistre cette prédication sur le mariage et le divorce». Vous voyez?
+
+Si le Seigneur le permet, si cela reste ainsi sur mon coeur et si le Seigneur me montre encore quelques choses de plus sur ce sujet, je pense que je ferai cet enregistrement.
+
+Mais rappelez-vous bien cela: elle ne doit être distribuée qu’aux pasteurs et prédicateurs. Vous pourrez venir écouter, mais pour ce qui est de l’enregistrement… Vous comprenez, c’est parce que cela ira dans toutes les assemblées et que certaines pensent d’une manière, d’autres d’une autre manière, et que chacun se ferait son opinion personnelle. Je voudrais que mes frères dans le ministère prennent connaissance eux-mêmes de cette prédication, puis qu’ils disent les choses eux-mêmes parce que ce sont eux les responsables.
+
+Ils pourraient faire entendre cette bande au juge de paix et aux magistrats afin qu’ils sachent ce que le Seigneur dit au sujet du mariage et du divorce. C’est quelque chose de plus sacré que ce que l’on pense! Et cela s’accorde parfaitement avec la semence du serpent. C’est une seule et même chose: c’est la suite. Cela fait partie de ces mystères.
+
+Vous vous souvenez qu’aux jours du septième âge, les mystères de Dieu seraient terminés. Toutes ces choses inconnues seraient révélées.
+
+Ce soir, vous commencez à sept heures trente, n’est-ce pas? Frère Neville, si vous avez un message pour ce soir, veuillez le présenter. Je n’en aurai moi-même pas pour plus de quarante-cinq minutes ou une heure. J’aime écouter frère Neville. Je l’aime. Il est mon frère et je pense qu’il est un excellent pasteur. Ce que j’aime chez frère Neville, c’est qu’il vit ce qu’il prêche. C’est cela le principal. Savez-vous que vous pouvez “vivre” une prédication à quelqu’un bien mieux que de la lui “prêcher”? “Vous êtes manifestement une lettre de Christ lue de tous les hommes”.
+
+Nous pouvons ouvrir le Livre, mais c’est Dieu qui doit introduire cette leçon d’école du dimanche. C’est pourquoi demandons-le Lui.
+
+Père céleste, c’est par la foi que nous examinons les choses futures. C’est par la foi, Seigneur, que nous nous attendons à Ta venue sur cette terre un de ces jours, lorsque Tu viendras rassembler Ton peuple pour l’enlèvement.
+
+Nous voyons ces églises dénominationnelles tellement pleines de contraintes et de divergences qu’elles ne font en réalité que chasser les gens.
+
+C’est comme en Egypte où un pharaon se leva qui ne connaissait pas Joseph. En Allemagne, en Russie et en Italie ce fut pareil. Il se leva dans ces peuples des Hitler, des Staline, des Mussolini qui haïssaient le peuple Juif. C’est pourquoi ceux-ci furent obligés de rentrer dans leur pays.
+
+Oh Dieu, Tu as des manières de faire que nous ne comprenons pas! Ils furent arrachés à leurs maisons: plus de maisons en Allemagne. On s’empara de tous leurs biens. Cela se passa aussi en Italie et en Russie. Ne pouvant plus aller nulle part, ils furent renvoyés dans leur patrie, tout cela simplement pour accomplir la Parole.
+
+Oh, la main aimante de Dieu! Quelquefois, quand on voit comment le peuple doit souffrir, il semble qu’Elle soit bien cruelle, mais malgré tout c’est la douce main de Jéhovah qui conduit Ses petits enfants. Seigneur, nous T’en remercions.
+
+Seigneur, nous T’adressons nos prières quand nous voyons les pressions que les dénominations exercent sur les croyants, les excommuniant, les obligeant à inscrire leur nom sur leurs livres, les menaçant sans cela d’être perdus, les obligeant à couper tous les ponts avec les autres groupes. Ce n’est rien d’autre que la douce main de Jéhovah conduisant les Siens à l’Arbre de Vie.
+
+Oh Dieu, je Te prie que chacun y soit conduit. Je sais qu’ils le seront car c’est Ta Parole qui le dit et Elle ne peut faillir. Puissions-nous être conduits à l’Arbre de Vie afin d’entrer en possession de la Vie Eternelle, puissions-nous voir la Main de Dieu et, par les yeux de la foi regarder au-delà de ces ombres dans lesquelles nous marchons aujourd’hui et voir la Terre Promise qui s’étend là devant nous.
+
+Seigneur, veuille bénir Ta Parole ce matin ainsi que ces quelques notes que j’ai prises. Que le Saint-Esprit puisse venir maintenant tandis que je me consacre en ce moment afin de recevoir la circoncision de ma langue, de ma pensée et de mon esprit, et que cette assemblée consacre les oreilles de son entendement, de son coeur, et que Tu puisses nous parler à tous au travers de Ta Parole, car TA PAROLE EST LA VERITE. Nous le demandons au Nom de la Parole, Jésus-Christ. Amen.
+
+Nous prenons maintenant nos Bible pour lire dans le livre de l’Exode.
+
+Nous lirons Exode, chapitre 3, versets 1 à 12.
+
+> “Moïse faisait paître le troupeau de Jéthro, son beau-père, sacrificateur de Madian, et il mena le troupeau derrière le désert, et vint à la montagne de Dieu, à Horeb. L’ange de l’Eternel lui apparut dans une flamme de feu, au milieu d’un buisson. Moïse regarda; et voici, le buisson était tout en feu, et le buisson ne se consumait point. Moïse dit: Je veux me détourner pour voir quelle est cette grande vision et pourquoi le buisson ne se consume point. L’Eternel vit qu’il se détournait pour voir (je voudrai mettre l’accent sur cela) et Dieu l’appela du milieu du buisson et dit: Moïse! Moïse! Et il répondit: Me voici! Dieu dit: N’approche pas d’ici, ôte tes souliers de tes pieds, car le lieu sur lequel tu te tiens est une terre sainte. Et il ajouta: Je suis le Dieu de ton père, le Dieu d’Abraham, le Dieu d’Isaac et le Dieu de Jacob. Moïse se cacha le visage, car il craignait de regarder Dieu. L’Eternel dit: J’ai vu la souffrance de mon peuple qui est en Egypte, et j’ai entendu les cris que lui font pousser ses oppresseurs, car je connais ses douleurs. Je suis descendu pour le délivrer de la main des Egyptiens, et pour le faire monter de ce pays dans un bon et vaste pays, dans un pays où coulent le lait et le miel, dans les lieux qu’habitent les Cananéens, les Hétiens, les Amoréens, les Phéréziens, les Héviens et les Jébusiens. Voici, les cris d’Israël sont venus jusqu’à moi et j’ai vu l’oppression que leur font souffrir les Egyptiens. Maintenant, va; je t’enverrai auprès de Pharaon, et tu feras sortir d’Egypte mon peuple, les enfants d’Israël”.
+
+Avez-vous remarqué cela? “Je suis descendu… Je t’enverrai…”. Dieu allant dans la forme d’un homme. Relisons encore une fois ce verset 10.
+
+> “Maintenant, va, je t’enverrai auprès de Pharaon, et tu feras sortir d’Egypte mon peuple, les enfants d’Israël. Moïse dit à Dieu: Qui suis-je pour aller vers Pharaon et pour faire sortir d’Egypte les enfants d’Israël? Dieu dit: Je serai avec toi, et ceci sera pour toi le signe que c’est moi qui t’envoie: quand tu auras fait sortir d’Egypte le peuple, vous servirez Dieu sur cette montagne”.
+
+Je ne l’avais pas remarqué mais, me sentant profondément inspiré par l’Esprit ce matin, je viens de le comprendre. Dieu a ramené Son serviteur dans le lieu d’où il s’était enfui et lui a donné comme signe une montagne. Je ne l’avais jamais remarqué jusqu’à présent! Ce sera un signe éternel pour toi! Vous comprenez?
+
+Ce matin, nous parlerons du Troisième exode du peuple de Dieu, de l’appel du peuple de Dieu à sortir. Exode signifie conduit hors de, appelé hors de, emporté hors de. Je voudrais utiliser ce texte comme sujet pour parler du troisième exode du peuple de Dieu.
+
+Bien entendu, ils ont eu beaucoup d’exodes, mais je veux parler du temps que Dieu a appelé un exode, c’est-à-dire une séparation d’avec le lieu où ils étaient alors.
+
+Voici que Dieu Se préparait à remplir la promesse divine de la Parole qu’Il avait donnée à Abraham, Isaac et Jacob. Des centaines d’années avaient passé, mais Dieu n’oublie jamais Sa promesse. Au temps marqué, Dieu accomplit toujours Sa promesse. C’est pourquoi vous pouvez être assurés que ce que Dieu a promis dans Sa Bible, Il l’accomplira. Inutile d’essayer de penser autrement et de dire: «Oh, peut-être que le prophète s’est trompé… cela ne peut plus arriver de nos jours!…».
+
+Cela semblait presque impossible en ce temps-là, plus impossible encore que cela nous paraît aujourd’hui, mais Dieu l’accomplit tout de même car Il avait promis qu’Il le ferait. D’ailleurs voyez avec quelle simplicité Il l’a fait: “Je suis descendu; J’ai entendu leurs cris; Je me suis souvenu de Ma promesse et Je suis venu pour l’accomplir, c’est pourquoi Je t’envoie. Tu agiras et Je serai avec toi. Certainement, Je serai avec toi! Ma présence qui ne fait jamais défaut sera avec toi où que tu ailles. N’aie pas peur! Je suis descendu pour délivrer”. Je suis sûr que la pensée spirituelle saisit cela! “Je t’envoie pour conduire Mon peuple dans un exode, pour les appeler au dehors, et Je serai avec toi”.
+
+Comme nous pouvons nous appuyer là-dessus! Comme la foi peut se saisir de cette espérance! Dieu agira: Il l’a promis! Peu importent les circonstances ou ce que diront les gens, Dieu le fera de toute manière parce qu’Il a promis de le faire. Et Il le fait avec une telle simplicité que cela passe au-dessus de la compréhension de l’esprit cultivé qui essaie de raisonner là-dessus. Il dira: “Comment cela pourrait-il se faire?”. Je ne veux pas dire qu’un homme ayant une solide intelligence et une bonne instruction ne pourra pas comprendre ces choses. Tout cela est très bien pour autant qu’il n’utilise pas sa culture pour raisonner, mais pour croire en Dieu.
+
+Que sa culture se convertisse en la simplicité d’écouter et de croire ce que Dieu dit. Alors elle lui sera utile.
+
+Remarquez bien que lorsqu’on essaie de prouver par le raisonnement que cela ne peut arriver, on est conduit loin de Dieu. C’est toujours ainsi. Cela arrive lorsque l’on essaie d’écouter sa propre compréhension. Si la Bible dit une chose que vous ne comprenez pas, ponctuez simplement par un «Amen!» et passez plus loin.
+
+Pour cette leçon d’école du dimanche, au lieu de regarder dans votre Bible, vous pouvez aussi noter les références si vous le désirez. J’en ai marqué beaucoup.
+
+Avant de découvrir ce que signifie cet exode, je voudrais comparer l’exode d’autrefois avec l’exode d’aujourd’hui. Vous pouvez voir que ces deux événements sont exactement parallèles. L’un d’eux est dans les choses naturelles, et les choses mêmes qu’Il a faites en type dans le domaine naturel, Il les a faites de nouveau dans le domaine spirituel. C’est “l’exode spirituel”.
+
+La Parole de Dieu est merveilleuse! Comment y en a-t-il qui peuvent dire qu’Elle n’est pas inspirée! Ces événements se passaient il y a environ 2800 ans, vous savez. Nous pouvons voir comment Il a fait cette promesse et comment Il l’a accomplie. Ces choses nous ont été décrites afin de nous servir d’exemples. Nous voyons comment Il fait l’ombre d’une chose afin de rendre témoignage à la chose réelle. Si le Seigneur le permet, nous verrons cela ce soir en considérant le soleil et la lune.
+
+Mais premièrement nous devons parcourir la Genèse pour savoir pourquoi ils étaient en Egypte. Pourquoi le peuple de Dieu était-il sorti de son pays? Dès le commencement, Dieu avait fait des promesses à Abraham, à Isaac et à Jacob en Palestine. Il leur avait donné le pays en leur disant: “C’est là”.
+
+Alors pourquoi ce peuple n’était-il pas à la place que Dieu lui avait donnée? Voilà une question valable aujourd’hui encore! Dieu nous a donné une Pentecôte. Il nous a donné un livre des Actes. Il nous a donné le Saint-Esprit pour nous conduire et nous guider. Il nous a donné un pays: pourquoi sommes-nous à l’extérieur? Pourquoi l’église est-elle à l’extérieur? Pourquoi la grande église chrétienne d’aujourd’hui ne vit-elle pas de nouveau comme dans le livre des Actes, produisant les mêmes choses? Il doit y avoir une raison à cela!
+
+Nous sommes en pleine dispersion, dans une situation affreuse. La chrétienté n’a jamais été dans un état aussi affreux qu’aujourd’hui. Et il y a un grand et terrible jugement qui est sur le point de tomber sur l’église, mais avant que ce jugement puisse tomber, Dieu nous appelle à un exode, exactement comme Il l’a fait autrefois.
+
+Le péché des Amoréens est monté jusqu’au Ciel. C’est pourquoi Il nous appelle à un exode spirituel. Mais retournons un moment en arrière pour découvrir le type de ces choses.
+
+Ils étaient allés en Egypte à cause de la jalousie qu’ils avaient à l’égard d’un de leurs frères. C’est la raison pour laquelle Israël était en Egypte en ce temps-là au lieu d’être dans son pays. Rappelez-vous bien que les promesses de Dieu n’étaient valables que pour autant qu’ils restassent dans leur pays.
+
+Pouvez-vous comprendre de quoi nous parlions dans la prière il y a quelques instants? Pourquoi Dieu dut-il endurcir le coeur de Pharaon? C’est parce qu’Il devait ramener le peuple dans la terre promise avant de pouvoir le bénir, avant de pouvoir leur envoyer le Messie.
+
+Pourquoi dut-Il endurcir le coeur d’Hitler contre les Juifs alors qu’Hitler était lui-même demi-Juif? Pourquoi dut-Il faire cela avec Staline, avec Mussolini?
+
+Vous voyez, quand un peuple n’est pas inspiré… Dieu doit prendre les choses dont ils vivent, souvent même les lois du pays, afin de faire se réaliser Ses promesses.
+
+C’est pourquoi Il dut endurcir le coeur de ces dictateurs pour chasser les Juifs vers la terre promise. Il fallait qu’il en soit ainsi.
+
+Au sujet de l’histoire de Joseph… Vous trouverez cette histoire dans la Genèse et vous voudrez bien la lire chez vous parce que j’ai commencé cette leçon d’école du dimanche un peu tard et il faut que je me dépêche.
+
+N’oubliez pas de lire cette histoire quand vous pourrez. Joseph était né après ses frères; il était l’avant-dernier. La pensée spirituelle comprendra cela tout de suite. Il n’était pas le dernier enfant; c’était Benjamin. Mais considérez l’excommunication. Joseph et Benjamin étaient de vrais frères de sang. C’étaient les seuls.
+
+Benjamin ne fut jamais reconnu avant d’avoir rencontré Joseph. Mais après, Benjamin reçut une double portion de tout ce que donna Joseph.
+
+Remarquez qu’il fut séparé de ses frères parce qu’il était spirituel. Bien que le dernier et le plus humble de la famille, il était un grand homme et ses frères le haïrent sans cause. Ils n’auraient pas dû le haïr; ils auraient dû le respecter. Mais pourquoi le haïssaient-ils? Parce qu’il était un de leurs frères? Pas exactement. Ils le haïssaient parce que Dieu agissait plus par lui que par les autres.
+
+Dieu lui avait donné un entendement spirituel. Il pouvait interpréter parfaitement les songes, il pouvait annoncer parfaitement les choses qui allaient arriver; et il ne mâchait pas ses mots.
+
+Il eut le songe de ces gerbes qui se prosternaient devant sa gerbe. Cela rendit ses frères furieux contre lui. Je m’imagine les entendre lui dire: «Espèce de petit saint!». Ils savaient que cela voulait dire qu’un jour ils devraient se prosterner devant lui.
+
+C’est exactement ce qui arriva. Comment ces grands géants auraient-ils accepté de se prosterner devant ce petit gamin insignifiant? C’est pourtant ce qu’ils firent, et ils durent implorer sa grâce!
+
+Mais en ce temps-là il n’avait pas de puissance. Il était encore dans la forme d’un enfant. Nous voyons qu’à cause de ses songes, Joseph fut ôté du milieu de ses frères (les dénominations) et placé dans un lieu solitaire, alors que ses frères occupaient tout le pays.
+
+Mais voici quelque chose de glorieux! Nous nous rendons compte que tant qu’Israël resta dans son pays… C’était très bien de rester dans leur territoire, mais malgré tout cela, ils chassèrent l’Esprit.
+
+Aujourd’hui les fondamentalistes connaissent leur position par leur compréhension intellectuelle de la Bible, mais ils n’ont pas l’Esprit. Ils ont rejeté Joseph, l’ont chassé dehors. Ils ne veulent rien de cela, ils disent que ce n’est que du fanatisme et de l’exaltation. Ils disent: «Nous ne voulons rien avoir à faire avec ces choses!». Ils l’ont excommunié, vendu au monde. Ces gens sont hors de leur communion.
+
+Mais en faisant cela ils ont été ôtés de leur place, et plus tard ils ont été déportés en Egypte. L’histoire de ces frères jaloux offre certainement de nombreux points communs avec ce qui se passe aujourd’hui dans les choses spirituelles.
+
+Nous sommes bien conscients que tout cela n’était que pure jalousie… non pas une pure jalousie, mais cette vieille jalousie souillée et impure. Il n’y a pas de pureté dans cette jalousie-là: c’est une jalousie mauvaise.
+
+Quand ils voient la Bible et la nature de ce Dieu qui L’a écrite et S’est confirmé Lui-même et qu’ils la rejettent sans raison, eh bien, même si je dis que c’est par pure jalousie, c’est une jalousie souillée! Ils ont pu voir Dieu guérir les malades et ressusciter les morts. C’est le même Dieu que Celui qui vivait du temps des apôtres. C’est le même Evangile que celui qu’ils écrivirent pour nous préparer à ce voyage spirituel. C’est le même Dieu qui fait les mêmes choses, mais il n’y a que de la jalousie. Ils l’ont excommunié en disant: «Nous ne voulons pas de cela parmi nous!». Ils l’ont chassé.
+
+Les frères de Joseph pensèrent qu’ils n’avaient pas l’usage d’un tel homme, alors pourquoi ne pas s’en débarrasser? C’est exactement ce qui s’est passé aujourd’hui. Ils pensent que parce que leurs églises sont devenues intellectuelles, qu’ils ont les gens les mieux vêtus, les plus grandes organisations et les pasteurs les plus intelligents, ils n’ont que faire du Saint-Esprit tel qu’Il Se manifestait autrefois.
+
+Ils sont pleins… En d’autres termes (les actions parlant plus haut que les paroles), ils sont sûrs qu’avec leurs séminaires, leurs cerveaux, leurs colloques et leur pensée intellectuelle, ils sont plus capables que le Saint-Esprit de mettre de l’ordre dans une église. C’est pourquoi ils n’en ont plus besoin. C’est quelque chose dont nous n’avons plus besoin aujourd’hui.
+
+Ils disent: «Ce temps-là est passé!». N’est-ce pas vrai? Nous n’avons plus besoin du Saint-Esprit pour guérir les malades, nous avons les médecins. Nous n’avons pas besoin du Saint-Esprit pour parler en langues: nous sommes assez intelligents. En faisant ainsi, nous sortons de notre position dans l’édifice, nous nous écartons de la ligne de vie.
+
+Jésus disait aux Juifs: “N’avez-vous pas lu que la pierre qu’ont rejetée ceux qui bâtissaient est devenue la principale de l’angle, celle sur laquelle toute la maison s’appuie?”.
+
+Comprenez-vous ce que je veux dire? J’en suis sûr! La raison pour laquelle ils font cela aujourd’hui, c’est parce qu’ils pensent qu’ils n’ont pas besoin de ces choses. — «Nous n’avons pas besoin de gens qui parlent en langues! Nous n’avons pas besoin de gens qui interprètent les langues! Nous n’avons plus besoin des prophètes de l’Ancien Testament pour mettre notre vie en ordre par le Saint-Esprit! Nous avons la compréhension de ces choses!».
+
+Vous voyez, ils ont adopté un système fait de main d’homme qui prend la place du Saint-Esprit. Pourtant, il y a des gens qui sont élus, dont le nom est inscrit dans le Livre de Vie de l’Agneau. Ceux-ci ne peuvent se contenter de cela. Ayant la pensée spirituelle, ils ne peuvent marcher dans ces choses-là. Ils ne peuvent les supporter. Peu importe si leurs parents ont vécu dans une organisation ou une église… Peut-être qu’ils ne disent pas grand’chose…
+
+Oh non, ils ne disent rien! Mais ce sont leurs actions qui rendent témoignage! Il est la Parole; et le Saint-Esprit, lorsqu’Il peut les réunir, le prouve au milieu d’eux en guérissant les malades, en ressuscitant les morts, en parlant en langues et en chassant les démons. C’est pourquoi tout dépend de ce qu’il y a à l’intérieur de la personne.
+
+Miss Arganbright pensait la même chose l’autre jour quand elle était accroupie dans l’allée en train d’arracher quelques mauvaises herbes (elle tondait le gazon). Je suis passé à côté d’elle sans qu’elle me voie. Je l’ai observée sans l’interrompre.
+
+Soyez attentifs au Saint-Esprit et à Son oeuvre glorieuse! L’église a l’impression qu’elle n’a pas besoin du Saint-Esprit. Les églises vous le diront. Et les hommes peuvent vous débiter des discours tellement intellectuels que vous y croiriez presque! Mais arrêtons-nous un moment pour réfléchir.
+
+Jésus n’a-t-Il pas dit que les deux esprits deviendraient si proches l’un de l’autre que cela séduirait les élus si c’était possible? La prédication intellectuelle deviendra si convaincante qu’elle pourra séduire les gens! C’est l’Evangile qui le dit. L’homme en viendra à pouvoir manipuler la Parole de telle manière que presque n’importe quelle personne intellectuelle (si elle se fie à son intelligence) condamnera le Saint-Esprit et entrera dans les voies de l’homme. Nous le voyons!
+
+C’est exactement ce qu’ils pensèrent de Joseph: ils se débarrassèrent de lui. Et quand il fut en Egypte… Oh, quand je pense à cela! On pourrait rester sur ce sujet pendant trois ans jour et nuit, et trouver encore et encore des pépites du Saint-Esprit!
+
+La pensée spirituelle peut comprendre comment Joseph a été emporté en Egypte afin que la persécution puisse se faire. Alors nous pouvons voir cette vision de Dieu, ces roues dans ces roues, tout cet ensemble qui se meut dans une parfaite harmonie. Voyez comment Potiphar rejette Joseph. Voyez ce mensonge à la suite duquel Joseph est jeté en prison où sa barbe eut le temps de pousser! Il avait été excommunié du milieu de ses frères, mais soudain Dieu entra en scène!
+
+Nous pouvons voir ces roues dans ces roues, ce glorieux plan de Dieu conduisant toutes choses vers la réalisation de cet exode, préparant tout pour le jour où Il appellerait Son peuple à retourner dans son pays, dans sa position là où Il pourrait le bénir et placer au milieu d’eux Celui qu’Il avait promis d’y placer. Mais il fallait qu’ils fussent dans leur pays. Rappelez-vous bien ceci: il fallait qu’ils sortissent du pays dans lequel ils étaient et qu’ils entrassent dans le pays de la promesse avant que le Messie promis puisse venir. L’Eglise doit faire la même chose. Elle doit sortir du milieu de ceux qui rejettent et entrer dans la Promesse avant que le Messie puisse Se manifester devant elle. Comprenez-vous ces choses?
+
+La vie du Messie manifestée prépare une Eglise, une Epouse. Si un homme et une femme se marient mais sont en désaccord, ce sont des disputes continuelles. Mais si un homme et une femme s’aiment et qu’ils se marient, ils sont en parfaite harmonie, ils sont un coeur et une âme parce qu’ils doivent être une seule chair. C’est la même chose lorsque l’Eglise peut entrer dans une harmonie avec Dieu telle que l’Epoux est manifesté dans l’Epouse, car ils doivent devenir Un. Quelle glorieuse leçon!
+
+Vous voyez, la pensée spirituelle peut reconnaître que le type et la réalité sont une seule et même chose. Nous pourrions parler des heures sur ce sujet! Voyez ce qui est en train de se produire. Or, pourquoi avons-nous dû attendre des années cette oasis dans le temps?
+
+La Bible nous dit que l’église s’enfuit dans le désert où elle fut nourrie pendant un certain temps. Pourquoi cela se passa-t-il ainsi? Vous voyez, ce sont les roues dans les roues du plan de Dieu. Pourquoi cela ne s’est-il pas passé il y a longtemps déjà lorsque les hommes et les femmes se mirent à sortir leurs crayons et leur papier pour essayer de calculer les temps? Il y eut le juge Rutherford et beaucoup d’autres qui dirent que Jésus reviendrait en 1914, il y eut Mother Shipton bien avant lui et tous les autres qui, en essayant de faire des calculs sur la base de l’Ecriture, la rendirent vaine en ce qui les concerne.
+
+Ces choses sont cachées, réellement cachées. Et comment l’Ecriture pourrait-Elle parler contre Elle-même alors que Jésus dit: “Nul ne connaît ni le jour ni l’heure”? Vous voyez, ils ne prennent qu’un fragment de l’Ecriture et s’accrochent à cela. Mais vous devez prendre l’Ecriture tout entière! Si Dieu est dans cela, Dieu manifestera que c’est la vérité. C’est comme la guérison divine. Si ce n’est pas la vérité, alors ce n’est pas la vérité! Dieu n’aura rien à voir dans tout cela. Mais s’Il la manifeste comme étant la vérité, alors c’est la vérité!
+
+Comme Jésus, Dieu a dit: “S’il y a parmi vous un prophète ou quelqu’un de spirituel, Je lui parlerai. Et si ce qu’il dit arrive, écoutez-le”. Tout est là! Mais si la prophétie est fausse, ce n’est pas Dieu qui S’est trompé! Il est infini, infaillible, omnipotent et Il ne peut Se tromper. C’est pourquoi si un homme parle, il montre ce qu’il est: s’il parle de son propre chef, cela n’arrivera pas; mais s’il exprime les Paroles de Dieu, cela ne peut manquer d’arriver parce que c’est Dieu qui parle. Son inspiration vient de Dieu et elle ne peut être que juste. C’est ainsi que Dieu nous a dit de parler.
+
+C’est la manière de la Bible. Dans l’Ancien Testament, Dieu dit: “S’ils ne parlent pas conformément à la loi et aux prophètes, c’est parce qu’il n’y a pas de vie en eux”. C’est vrai, il n’y a pas de vie en eux. Il faut qu’ils parlent conformément à la loi et aux prophètes. Et que ce soit la prophétie ou autre chose, tout doit être conforme à la Parole, sinon c’est faux.
+
+Nous voyons que tout cela est arrivé parce que… Les Méthodistes, les Luthériens, les Baptistes, les Campbellistes et tous les autres ont eu de grands réveils. Les Nazaréens, les Pèlerins de la Sainteté et les Pentecôtistes ont eu de grands réveils. Mais le grand exode ne s’est pas produit. Pourquoi?
+
+Dieu dit à Abraham qu’Il donnait le pays à sa postérité, mais que l’iniquité des Amoréens n’était pas encore à son comble. Dieu attendit patiemment. Les gens essaient de faire des calculs. Ils voient que l’Ecriture annonce des événements et disent: “Cela se passera à tel et tel moment”. Mais ils ne comprennent pas que l’iniquité des Amoréens n’est pas encore à son comble.
+
+Ils devaient rester quatre cents ans en Egypte avant d’être délivrés. Mais ils restèrent en réalité quatre cent quarante ans hors de leur pays parce qu’ils avaient rejeté le prophète. Ils durent souffrir quarante ans de plus dans le désert avant que Dieu les délivre. Moïse dut rester quarante ans dans le désert avant de retourner les délivrer. Quarante années supplémentaires durent s’écouler parce qu’ils avaient rejeté le message.
+
+Dans le temps de Dieu, quarante ans correspondent à environ une demi-minute de notre temps. Si mille ans représentent un jour, quarante ans ne font même pas une minute. Pensez-y.
+
+Nous sommes en retard. Pourquoi? A cause de la longanimité de Dieu qui attend et observe. Il a suscité le réveil des Luthériens, mais ceux-ci se sont organisés. Il a suscité le réveil des Méthodistes, mais ceux-ci se sont organisés. Avec John Smith de l’église Baptiste Il a suscité un grand réveil, mais ils se sont organisés. Il a suscité le réveil de Pentecôte avec la restauration des dons, mais ils se sont organisés. Cela arrivera jusqu’à ce que l’iniquité arrive à son comble: alors Dieu en aura assez.
+
+Alors il y aura un exode, et nous le verrons. Les gens pourront voir eux-mêmes, en remontant le cours du temps, qu’il y a une malédiction. Ils prennent de nouveau un lingot d’or et un beau manteau de Babylone. Voilà ce qui fait tomber la malédiction sur le peuple: c’est lorsqu’un homme essaie d’introduire ses propres idées.
+
+Nous devons rester dans la Parole. Le commandement de Dieu était qu’il ne fallait rien toucher dans cette ville maudite. Ne touchez à rien! Laissez ces choses tranquilles!
+
+Acan pensa qu’il pouvait prendre ce lingot d’or et ce manteau babylonien et vivre tranquillement comme le reste du monde. Oh, tous ces Acan qu’il y a dans le camp! Mais ces objets sont maudits et restent maudits! La malédiction est entrée dans le camp depuis le concile de Nicée. Elle y est restée depuis lors, mais Dieu laisse l’iniquité des Amoréens arriver à son comble.
+
+Maintenant, si vous avez l’entendement spirituel (vous remarquez que je parle tout le temps d’entendement spirituel), vous pouvez voir que l’iniquité de cette nation est arrivée à son comble.
+
+LE TROISIEME Exode 11
+Elle s’est organisée, organisée, organisée, réorganisée, et maintenant elle s’associe et se joint à quelque chose d’autre. L’iniquité est arrivée à son comble!
+   C’est le moment de l’exode. C’est le moment de partir pour la Terre Promise. Non pas la promesse d’aller simplement dans un autre pays, mais à la maison, dans le millénium. C’est le moment de sortir de l’iniquité de cette nation. J’insisterai particulièrement là-dessus ce soir, si le Seigneur le permet. L’iniquité est arrivée à son comble! Elle est souillée!
+   Vous me direz: «Frère Branham, est-ce ainsi que vous parlez de votre nation?». — Parfaitement! — «En tant que citoyen des Etats-Unis, vous ne devriez pas dire cela!».
+   Alors, Elie n’aurait pas dû appeler la malédiction sur Israël, lui qui était Israélite! Les autres prophètes n’auraient pas dû non plus prononcer de malédiction sur Israël, étant citoyens de ce pays.
+   Mais ce qu’ils exprimaient, ce n’était pas leurs propres pensées, mais la Parole de Dieu. Tout dépend d’où vous tirez votre inspiration. Cela dépend d’où cela vient. Si c’est contraire à la Parole, laissez-le. Et je défie qui que ce soit de prouver que ce que je dis est contraire à la Parole.
+   C’est dans Apocalypse 13 que cette nation apparaît. Le nombre de cette nation Esther 13, la nation de la femme. Dans la Bible il est parlé d’une femme. Une femme est représentée sur notre monnaie. C’est la nation de la femme
+   C’est là que la pourriture de la femme a commencé, et c’est là qu’elle arrive à son achèvement. La pourriture a commencé en Eden par l’incrédulité en la Parole de Dieu. C’est là que les femmes prédicateurs et tout le reste ont commencé. La pourriture du monde jaillit de Hollywood qui est le pire endroit de la terre. Il y a en Amérique plus de divorces que dans le reste du monde pris dans son ensemble. Vous voyez?
+   Pourquoi cela? Vous le découvrirez un de ces jours si le Seigneur le permet. Vous verrez pourquoi il y a cette malédiction. Vous pourrez voir, dans la question du divorce, Satan a aveuglé les yeux du monde. Nous sommes dans une heure épouvantable! Je crois que la fin est presque là. La femme est pourrie jusqu’au coeur.
+   Elle apparaît dans Apocalypse 13. Rappelez-vous qu’elle s’est élevée comme un agneau: liberté de religion, etc. Mais elle a reçu la puissance de la bête et lui fit une image. Et elle parle avec autorité et fait toutes les méchantes choses que fit la bête avant elle. Et vous direz que ce n’est pas une prophétie pour cette nation?
+   Le péché des Amoréens est pratiquement à son comble puisqu’ils agissent déjà ainsi! Le but de chaque nouveau pape est d’unir les frères! Pour la pensée naturelle, c’est bien ce qu’il faut faire, mais aux yeux de Dieu, c’est contraire au Saint-Esprit. Nous ne pouvons pas nous associer à ces choses. Mais chaque église sera prise dans cette confédération!
+   Sortez de cela aussi vite que vous le pouvez! Autrement vous recevrez la marque de la bête SANS MEME LE SAVOIR! Sortez de cela! J’espère que ceux qui ont la pensée spirituelle comprendront cela, je suis sûr qu’ils le comprendront, mais pour les autres, je me demande… De toute manière, si vous ne pouvez aller dans tous les pays, vous pouvez envoyer des bandes. Dieu trouvera bien le moyen de toucher ceux qui ont la pensée spirituelle là où cette semence est semée. C’est vrai! Et aussitôt que la Lumière frappe cette semence, elle prend vie! Comme la femme au puits. Elle dit: “C’est vrai!” et elle reçut la Lumière. Sortez de ces choses maudites! Montrez-moi un de ces mouvements qui ne soit pas tombé après avoir pris naissance! Montrez-moi un de ces mouvements qui se soit relevé après être tombé! C’est pourquoi vous pouvez voir comme tout cela est dans l’erreur.
+   Du temps d’Israël, l’iniquité des Amoréens n’était pas encore à son comble, c’est pourquoi Israël dut attendre l’exode un certain temps. Mais lorsque l’iniquité des Amoréens fut à son comble, il y eut un exode naturel qui conduisit le peuple dans un pays naturel qui était celui où les Amoréens naturels avaient habité. C’était leur pays.
+   L’iniquité de la dénomination amoréenne, qui s’est donné si longtemps le nom d’église, est bientôt à son comble. Il y a un exode qui va se produire où Dieu manifestera Son peuple, l’Eglise, l’Epouse de Jésus-Christ; celle-ci partira en exode vers la Terre promise. “Il y a plusieurs demeures dans la maison de Mon Père”.
+   Vous n’aurez pas besoin de vous battre pour y entrer: tout est déjà préparé. Si ce tabernacle terrestre doit être dissous, il y en a un autre qui nous attend. “Là où Je suis, vous serez aussi”. Le grand exode est proche!
 
                           http://www.cmpp.ch
 
 LE TROISIEME Exode 12
-   Voyez comment Dieu a fait cet exode, quelles préparations Il a faites, et comparons avec
-aujourd’hui.
-   Remarquez d’abord qu’avant cet exode il s’éleva un pharaon qui ne connaissait pas Joseph.
-Que représente Joseph? La partie spirituelle d’un exode spirituel. Jusque là, il y avait la liberté.
-   Rappelez-vous que la femme a été nourrie pendant un temps, des temps et la moitié d’un
-temps.
-   Mais pour finir, un pharaon vint au pouvoir, un dictateur qui ne connaissait pas la liberté de
-religion. Il vint pour les unir tous ensemble. Prenez garde à cela! Il fallait que vienne un tel
-pharaon. Et les organisations ont vécu dans l’abondance, elles ont vécu comme un sarment greffé
-dans la vraie vigne de la chrétienté, mais portant néanmoins ses propres fruits.
-   Femmes à moitié vêtues, hommes intellectuels et reniant la puissance de l’Esprit, tous ont vécu
-sous le nom d’église chrétienne. Mais ce n’est qu’une branche greffée! Le Vigneron va bientôt
-venir tailler cette vigne comme Il a dit qu’Il le ferait. Et tous ceux qui ne porteront pas de fruits
-seront retranchés, jetés dans le feu et consumés. C’est terrible à dire, mais la vérité est
-quelquefois terrible. Cela nous montre simplement comment Dieu prendra Ses enfants au travers
-des eaux profondes, des sables mouvants et de toutes ces choses. C’est ainsi qu’Il agit.
-   Rappelez-vous que le vase doit être brisé en tout petits morceaux avant d’être remodelé. C’est
-une chose terrible que de le détruire ainsi, mais il faut le faire afin qu’il puisse être remodelé.
-   Il vint un pharaon qui ne connaissait pas Joseph. Ce fut le commencement du commencement,
-ce fut le commencement de l’exode. Et lorsque cela commença à prendre la forme d’une
-puissance politique, Dieu commença à Se préparer.
-   L’iniquité des Amoréens arriva à son comble. Le temps où devait s’accomplir la promesse faite
-à Abraham était arrivé et le temps de la délivrance était proche. Dieu permit que vint au pouvoir un
-pharaon qui ne connaissait pas Joseph: c’est alors que naquit Ramsès. Juste après Seti vint
-Ramsès et Ramsès était celui qui ne connaissait pas les bénédictions de Joseph.
-   Il ne connaissait rien aux choses spirituelles. Il n’était qu’un génie de la politique. Il pouvait
-prendre l’Ethiopie et le reste des nations sous sa puissance militaire, mais tout ce qu’il connaissait,
-c’était la puissance des armes.
-   Si un homme est spirituel, il peut voir ce qui est en train de se passer maintenant. Nous avons
-un pharaon qui ne connaît pas la liberté de religion. Lorsque notre président prit son poste, il ne
-voulut pas prêter serment sur ce point-là, parce qu’il ne croit pas à la liberté de religion.
-   Que s’est-il passé l’autre jour quand fut posée cette question sur la ségrégation raciale dans le
-sud? Lorsque le gouverneur de l’Alabama… J’aimerais pouvoir parler à ce pasteur, Martin Luther
-King. Comment cet homme peut-il en tant que chef conduire son peuple dans un piège mortel?
-   Si ces gens étaient des esclaves, j’irais là-bas et je me battrais pour eux. Mais ce ne sont pas
-des esclaves, ce sont des citoyens de ce pays!
-   En ce qui concerne les écoles, si les gens ont le coeur dur et ne comprennent rien à ces
-choses, vous ne pouvez pas les conduire de force dans les choses spirituelles: il s’agit là d’une
-question politique. Il faut qu’ils acceptent cela et naissent de nouveau; alors ils comprendront ces
-choses.
-   Si seulement je pouvais parler à cet homme! Au nom de la religion il conduit ces braves gens
-vers un piège mortel et sera la cause de la mort de milliers de personnes. Mais ils ne voient que
-l’aspect naturel des choses.
-   J’étais en Louisiane lors de ces soulèvements. Il y avait là un prédicateur de couleur, un cher
-frère. Il se leva et demanda à la milice: «Puis-je leur parler? ce sont les gens de ma race».
-   Alors ce vieux prédicateur se leva et dit: «Jusqu’à ce matin, je n’ai jamais eu honte de ma
-couleur. C’est mon Créateur qui m’a fait ce que je suis».
-   C’est ainsi qu’Il désire que nous restions. C’est ainsi qu’Il demande que chaque homme reste. Il
-a fait des fleurs blanches, des fleurs bleues, des fleurs de toutes les couleurs. Ne les croisez pas!
-Vous iriez contre la nature».
-   Cet homme dit: «Jusqu’à ce matin, je n’ai jamais eu honte de ma couleur. Mais quand je vois
-mon peuple se soulever et faire les choses qu’il fait maintenant, j’ai honte pour lui».
+   Voyez comment Dieu a fait cet exode, quelles préparations Il a faites, et comparons avec aujourd’hui.
+   Remarquez d’abord qu’avant cet exode il s’éleva un pharaon qui ne connaissait pas Joseph. Que représente Joseph? La partie spirituelle d’un exode spirituel. Jusque là, il y avait la liberté.
+   Rappelez-vous que la femme a été nourrie pendant un temps, des temps et la moitié d’un temps.
+   Mais pour finir, un pharaon vint au pouvoir, un dictateur qui ne connaissait pas la liberté de religion. Il vint pour les unir tous ensemble. Prenez garde à cela! Il fallait que vienne un tel pharaon. Et les organisations ont vécu dans l’abondance, elles ont vécu comme un sarment greffé dans la vraie vigne de la chrétienté, mais portant néanmoins ses propres fruits.
+   Femmes à moitié vêtues, hommes intellectuels et reniant la puissance de l’Esprit, tous ont vécu sous le nom d’église chrétienne. Mais ce n’est qu’une branche greffée! Le Vigneron va bientôt venir tailler cette vigne comme Il a dit qu’Il le ferait. Et tous ceux qui ne porteront pas de fruits seront retranchés, jetés dans le feu et consumés. C’est terrible à dire, mais la vérité est quelquefois terrible. Cela nous montre simplement comment Dieu prendra Ses enfants au travers des eaux profondes, des sables mouvants et de toutes ces choses. C’est ainsi qu’Il agit.
+   Rappelez-vous que le vase doit être brisé en tout petits morceaux avant d’être remodelé. C’est une chose terrible que de le détruire ainsi, mais il faut le faire afin qu’il puisse être remodelé.
+   Il vint un pharaon qui ne connaissait pas Joseph. Ce fut le commencement du commencement, ce fut le commencement de l’exode. Et lorsque cela commença à prendre la forme d’une puissance politique, Dieu commença à Se préparer.
+   L’iniquité des Amoréens arriva à son comble. Le temps où devait s’accomplir la promesse faite à Abraham était arrivé et le temps de la délivrance était proche. Dieu permit que vint au pouvoir un pharaon qui ne connaissait pas Joseph: c’est alors que naquit Ramsès. Juste après Seti vint Ramsès et Ramsès était celui qui ne connaissait pas les bénédictions de Joseph.
+   Il ne connaissait rien aux choses spirituelles. Il n’était qu’un génie de la politique. Il pouvait prendre l’Ethiopie et le reste des nations sous sa puissance militaire, mais tout ce qu’il connaissait, c’était la puissance des armes.
+   Si un homme est spirituel, il peut voir ce qui est en train de se passer maintenant. Nous avons un pharaon qui ne connaît pas la liberté de religion. Lorsque notre président prit son poste, il ne voulut pas prêter serment sur ce point-là, parce qu’il ne croit pas à la liberté de religion.
+   Que s’est-il passé l’autre jour quand fut posée cette question sur la ségrégation raciale dans le sud? Lorsque le gouverneur de l’Alabama… J’aimerais pouvoir parler à ce pasteur, Martin Luther King. Comment cet homme peut-il en tant que chef conduire son peuple dans un piège mortel?
+   Si ces gens étaient des esclaves, j’irais là-bas et je me battrais pour eux. Mais ce ne sont pas des esclaves, ce sont des citoyens de ce pays!
+   En ce qui concerne les écoles, si les gens ont le coeur dur et ne comprennent rien à ces choses, vous ne pouvez pas les conduire de force dans les choses spirituelles: il s’agit là d’une question politique. Il faut qu’ils acceptent cela et naissent de nouveau; alors ils comprendront ces choses.
+   Si seulement je pouvais parler à cet homme! Au nom de la religion il conduit ces braves gens vers un piège mortel et sera la cause de la mort de milliers de personnes. Mais ils ne voient que l’aspect naturel des choses.
+   J’étais en Louisiane lors de ces soulèvements. Il y avait là un prédicateur de couleur, un cher frère. Il se leva et demanda à la milice: «Puis-je leur parler? ce sont les gens de ma race».
+   Alors ce vieux prédicateur se leva et dit: «Jusqu’à ce matin, je n’ai jamais eu honte de ma couleur. C’est mon Créateur qui m’a fait ce que je suis».
+   C’est ainsi qu’Il désire que nous restions. C’est ainsi qu’Il demande que chaque homme reste. Il a fait des fleurs blanches, des fleurs bleues, des fleurs de toutes les couleurs. Ne les croisez pas! Vous iriez contre la nature».
+   Cet homme dit: «Jusqu’à ce matin, je n’ai jamais eu honte de ma couleur. Mais quand je vois mon peuple se soulever et faire les choses qu’il fait maintenant, j’ai honte pour lui».
    Je pensai: «Que Dieu bénisse cet homme!».
    Il dit: «Vous ne faites que causer du trouble! Regardez nos écoles! Si nous n’avions pas
 
         http://www.cmpp.ch
 
 LE TROISIEME Exode 13
-d’écoles, ce serait différent, mais qui a les meilleures écoles de toute la Louisiane?
-   Prenons par exemple notre ville, Shreveport. Il y a, l’école des blancs: c’est une vieille école. Ils
-en ont construit une autre. Ils n’ont aucun jeu pour les enfants alors que notre préau en est plein!
-En plus de cela ils ont construit une grande piscine de marbre pour nos enfants. Et nous avons les
-meilleurs professeurs que l’on puisse trouver!
-   Pourquoi voulez-vous aller chez eux alors que nous avons tout chez nous, et en mieux?
-Qu’est-ce qui vous prend?».
-   Les gens dirent: «Euhhh…» et finirent par se taire. Voilà. Vous voyez? C’est une fausse
-inspiration. Autrefois, ces gens étaient des esclaves. Mais ce sont mes frères et mes soeurs. S’ils
-étaient encore dans l’esclavage, je dirais: «Joignons-nous à eux, descendons dans la rue et
-protestons!».
-   Mais ils ne sont pas esclaves. Ce sont des citoyens qui ont les mêmes droits que n’importe qui.
-Tout cela ne vient que d’une mauvaise inspiration issue de l’enfer dans le but de causer la mort de
-millions de ces gens. Ils vont faire une révolution, c’est certain! Mais ce n’est pas juste.
-   Les hommes et les femmes ont leurs droits. Que nos frères soient nous, jaunes comme les
-Japonais ou de toute autre couleur, cela ne fait aucune différence devant Dieu. Nous sommes tous
-les descendants d’un seul homme, Adam. Mais si Dieu nous a séparés et donné différentes
-couleurs, restons ainsi. Si j’étais jaune, j’aimerais rester Chinois ou Japonais. Si j’étais noir,
-j’aimerais rester noir puisque Dieu m’a fait ainsi.
-   D’ailleurs dans la race noire, il y a bien des caractères que la race blanche pourrait envier. Ils
-ne se tracassent pas comme nous; ils sont plus spirituels. Ils ont mille et une petites choses que
-nous n’aurons jamais. C’est Dieu qui les a faits ainsi. Qui pourra jamais chanter aussi bien qu’un
-choeur de Noirs? Où trouverons-nous des voix pareilles?
-   J’ai vu de ces hommes venir du fond de la brousse ne sachant distinguer leur droite de leur
-gauche; il y en avait trente ou quarante tribus. Mais lorsqu’ils se mirent à chanter, les chanteurs
-professionnels dirent: «Nous ne pourrons jamais chanter comme cela».
-   Ils font travailler des choeurs pendant des années pour leur faire maîtriser le haut et le bas de
-l’octave, mais quand ils entendent chanter ces gens primitifs, ils disent: «Ecoutez-moi cela!». Ils
-chantent à la perfection et dans différentes langues. Ils sont doués!
-   Mais vous voyez, tout cela doit arriver. C’est à cause d’un politicien que vous avez élu avec vos
-machines à voter trafiquées. L’autre jour, il y avait le gouverneur, lui qui a été élu et assermenté
-dans cette fonction par le peuple. On parla de l’aspect constitutionnel de la ségrégation. La
-constitution dit que chaque état peut agir selon ses propres vues.
-   Cela lui importait peu, mais il lut la constitution; puis il déclara: «L’école désire la ségrégation».
-Alors ils construisirent une école là-bas; seuls deux élèves de couleur voulurent y aller: les Noirs
-avaient déjà leur propre collège. Mais le gouverneur s’était contenté de lire la constitution…
-   Ces gens ne connaissent pas Joseph, la liberté! Ils font des votations entre gens de couleur,
-méconnaissant le fait que c’est le parti républicain qui les a libérés. Ils vendent leur droit d’aînesse
-à quelque chose qui les conduit à un piège mortel; c’est pour manifester que tout système humain
-doit tomber. C’est l’exacte vérité.
-   Et le président Kennedy, nationalisant cette “garde”, les a envoyés combattre leurs propres
-pères au nom d’une constitution qui viole elle-même cette constitution. Mais ce prédicateur dit:
-«Nous ne voulons pas combattre! J’espère que cette nation finira par découvrir que nous ne
-vivons plus dans une démocratie, mais sous une dictature militaire!».
-   Vous connaissez le vieux dicton: «Celui qui est né démocrate du Sud mourra démocrate du
-Sud!». Aujourd’hui, je ne sais pas… Il se trouvera sûrement un homme assez sensé pour s’éveiller
-à quelque chose. Laissez ces braves gens tranquilles! Ne les tuez pas comme cet homme qui a
-tué ce frère d’un coup de pistolet dans le dos l’autre soir, alors que ses petits enfants et sa femme
-l’attendaient à la maison. Peu importe qui est cet homme, c’est une action basse et mesquine.
-Parfaitement!
-   J’aimerais être le juge dans ce cas. Tuer un homme qui rentre à la maison vers sa femme et
-ses enfants!… C’est un citoyen, il a le droit de soutenir la cause qu’il croit être la bonne. C’était un
-brave homme.
-   J’ai vu la photo dans le Life. On voyait ce petit garçon pleurant la mort de son papa. Dire qu’un
-renégat quelconque l’a frappé par derrière dans un guet-apens! C’est à cela qu’on arrive quand on
+   d’écoles, ce serait différent, mais qui a les meilleures écoles de toute la Louisiane?
+   Prenons par exemple notre ville, Shreveport. Il y a, l’école des blancs: c’est une vieille école. Ils en ont construit une autre. Ils n’ont aucun jeu pour les enfants alors que notre préau en est plein! En plus de cela ils ont construit une grande piscine de marbre pour nos enfants. Et nous avons les meilleurs professeurs que l’on puisse trouver!
+   Pourquoi voulez-vous aller chez eux alors que nous avons tout chez nous, et en mieux? Qu’est-ce qui vous prend?».
+   Les gens dirent: «Euhhh…» et finirent par se taire. Voilà. Vous voyez? C’est une fausse inspiration. Autrefois, ces gens étaient des esclaves. Mais ce sont mes frères et mes soeurs. S’ils étaient encore dans l’esclavage, je dirais: «Joignons-nous à eux, descendons dans la rue et protestons!».
+   Mais ils ne sont pas esclaves. Ce sont des citoyens qui ont les mêmes droits que n’importe qui. Tout cela ne vient que d’une mauvaise inspiration issue de l’enfer dans le but de causer la mort de millions de ces gens. Ils vont faire une révolution, c’est certain! Mais ce n’est pas juste.
+   Les hommes et les femmes ont leurs droits. Que nos frères soient nous, jaunes comme les Japonais ou de toute autre couleur, cela ne fait aucune différence devant Dieu. Nous sommes tous les descendants d’un seul homme, Adam. Mais si Dieu nous a séparés et donné différentes couleurs, restons ainsi. Si j’étais jaune, j’aimerais rester Chinois ou Japonais. Si j’étais noir, j’aimerais rester noir puisque Dieu m’a fait ainsi.
+   D’ailleurs dans la race noire, il y a bien des caractères que la race blanche pourrait envier. Ils ne se tracassent pas comme nous; ils sont plus spirituels. Ils ont mille et une petites choses que nous n’aurons jamais. C’est Dieu qui les a faits ainsi. Qui pourra jamais chanter aussi bien qu’un choeur de Noirs? Où trouverons-nous des voix pareilles?
+   J’ai vu de ces hommes venir du fond de la brousse ne sachant distinguer leur droite de leur gauche; il y en avait trente ou quarante tribus. Mais lorsqu’ils se mirent à chanter, les chanteurs professionnels dirent: «Nous ne pourrons jamais chanter comme cela».
+   Ils font travailler des choeurs pendant des années pour leur faire maîtriser le haut et le bas de l’octave, mais quand ils entendent chanter ces gens primitifs, ils disent: «Ecoutez-moi cela!». Ils chantent à la perfection et dans différentes langues. Ils sont doués!
+   Mais vous voyez, tout cela doit arriver. C’est à cause d’un politicien que vous avez élu avec vos machines à voter trafiquées. L’autre jour, il y avait le gouverneur, lui qui a été élu et assermenté dans cette fonction par le peuple. On parla de l’aspect constitutionnel de la ségrégation. La constitution dit que chaque état peut agir selon ses propres vues.
+   Cela lui importait peu, mais il lut la constitution; puis il déclara: «L’école désire la ségrégation». Alors ils construisirent une école là-bas; seuls deux élèves de couleur voulurent y aller: les Noirs avaient déjà leur propre collège. Mais le gouverneur s’était contenté de lire la constitution…
+   Ces gens ne connaissent pas Joseph, la liberté! Ils font des votations entre gens de couleur, méconnaissant le fait que c’est le parti républicain qui les a libérés. Ils vendent leur droit d’aînesse à quelque chose qui les conduit à un piège mortel; c’est pour manifester que tout système humain doit tomber. C’est l’exacte vérité.
+   Et le président Kennedy, nationalisant cette “garde”, les a envoyés combattre leurs propres pères au nom d’une constitution qui viole elle-même cette constitution. Mais ce prédicateur dit: «Nous ne voulons pas combattre! J’espère que cette nation finira par découvrir que nous ne vivons plus dans une démocratie, mais sous une dictature militaire!».
+   Vous connaissez le vieux dicton: «Celui qui est né démocrate du Sud mourra démocrate du Sud!». Aujourd’hui, je ne sais pas… Il se trouvera sûrement un homme assez sensé pour s’éveiller à quelque chose. Laissez ces braves gens tranquilles! Ne les tuez pas comme cet homme qui a tué ce frère d’un coup de pistolet dans le dos l’autre soir, alors que ses petits enfants et sa femme l’attendaient à la maison. Peu importe qui est cet homme, c’est une action basse et mesquine. Parfaitement!
+   J’aimerais être le juge dans ce cas. Tuer un homme qui rentre à la maison vers sa femme et ses enfants!… C’est un citoyen, il a le droit de soutenir la cause qu’il croit être la bonne. C’était un brave homme.
+   J’ai vu la photo dans le Life. On voyait ce petit garçon pleurant la mort de son papa. Dire qu’un renégat quelconque l’a frappé par derrière dans un guet-apens! C’est à cela qu’on arrive quand on
 
         http://www.cmpp.ch
 
 LE TROISIEME Exode 14
-rejette Christ. C’est vrai! C’est vers cela que la nation tout entière se dirige avec sa politique. C’est
-une honte, mais nous l’avons voulu! Nous l’avons prouvé dans ces élections.
-   Ce matin, mon fils m’a demandé: «Papa, ces pèlerins, lorsqu’ils arrivèrent ici, est-ce qu’ils
-appartenaient tous à telle et telle dénomination? Ils avaient tous de ces longs vêtements!».
-   Je lui répondis: «Non, mon chéri, ils sont venus ici pour avoir la liberté de religion. C’est
-justement pour sortir de ces choses-là qu’ils sont venus».
-   Vous voyez où nous en sommes aujourd’hui? Cela nous montre bien que tous ces royaumes
-doivent tomber. (Il faut que je me dépêche.)
-   Il y a une chose pour laquelle je prie: c’est pour que le frère Martin Luther King se réveille un
-jour. Il aime son peuple, cela ne fait aucun doute. Mais s’il pouvait seulement discerner ce qui
-l’inspire! A quoi cela sert-il d’aller dans une certaine école si pour en arriver là il faut des millions
-de morts? Est-ce que ce ne serait pas de toute manière aller à l’école?
-   Si c’était une question de nourriture ou d’esclavage, cet homme serait un martyr s’il donnait sa
-vie pour une telle cause parce que ce serait une cause qui en vaudrait la peine. Mais pour une
-simple question d’école, je ne comprends pas…
+   rejette Christ. C’est vrai! C’est vers cela que la nation tout entière se dirige avec sa politique. C’est une honte, mais nous l’avons voulu! Nous l’avons prouvé dans ces élections.
+   Ce matin, mon fils m’a demandé: «Papa, ces pèlerins, lorsqu’ils arrivèrent ici, est-ce qu’ils appartenaient tous à telle et telle dénomination? Ils avaient tous de ces longs vêtements!».
+   Je lui répondis: «Non, mon chéri, ils sont venus ici pour avoir la liberté de religion. C’est justement pour sortir de ces choses-là qu’ils sont venus».
+   Vous voyez où nous en sommes aujourd’hui? Cela nous montre bien que tous ces royaumes doivent tomber. (Il faut que je me dépêche.)
+   Il y a une chose pour laquelle je prie: c’est pour que le frère Martin Luther King se réveille un jour. Il aime son peuple, cela ne fait aucun doute. Mais s’il pouvait seulement discerner ce qui l’inspire! A quoi cela sert-il d’aller dans une certaine école si pour en arriver là il faut des millions de morts? Est-ce que ce ne serait pas de toute manière aller à l’école?
+   Si c’était une question de nourriture ou d’esclavage, cet homme serait un martyr s’il donnait sa vie pour une telle cause parce que ce serait une cause qui en vaudrait la peine. Mais pour une simple question d’école, je ne comprends pas…
    Je ne pense pas que le Saint-Esprit soit du tout d’accord avec lui dans tout cela.
-   C’est tout un battage qui se fait pour soulever le peuple. Exactement comme Hitler fit en
-Allemagne. C’est ainsi qu’il fit tomber son peuple dans un piège mortel. Et les cadavres de ces
-chers Allemands se sont empilés par millions! Maintenant, c’est exactement la même chose, et
-rappelez-vous que ce que je dis est enregistré. Peut-être que vous verrez ces choses arriver après
-mon départ.
-   C’est exactement ce qui va arriver. Ces pauvres gens vont mourir comme des mouches. Il y
-aura une révolution; les noirs et les blancs se battront et ils mourront comme des mouches. Et
-qu’aurons-nous de plus quand tout sera terminé? Un tas de cadavres!
-   Sur le trône monta un pharaon qui ne connaissait pas Joseph. Aujourd’hui c’est la même chose.
-Un homme a prêté serment à la Maison-Blanche, mais il n’a pas voulu prêter serment au sujet de
-la liberté de religion.
-   Que dit le nouveau pape? Quatre choses. L’une d’elles est qu’il veut unir Catholiques et
-Protestants. Pour l’homme intellectuel, c’est la chose à faire. Pourtant la Bible dit que ce n’est pas
-la chose à faire, mais Elle dit que c’est pourtant ce qu’ils feraient. (Maintenant, avançons encore
-un peu.)
-   En ce temps-là, la puissance de Ramsès s’accrut en Egypte. L’homme naturel, Ramsès, prenait
-de l’importance. Aujourd’hui, l’homme naturel, l’antichrist, prend de l’importance par le canal de la
-politique. Il est déjà entré à la Maison-Blanche.
-   Pour ce qui concerne la religion, il a tellement séduit les gens qu’ils n’ont rien pu faire d’autre
-que tomber dans le piège. Pour ce qui est de ces grands leaders dénominationnels, pratiquement
-toutes les églises de ce pays font déjà partie de la confédération des églises. Ramsès est en train
-de croître: tous s’unissent, et c’est exactement ce qu’ils devaient faire. Et qu’est-ce que cela
-produit? Une puissance, une bête exactement semblable à la première!
-   Il y a une persécution et un boycottage qui vont tomber sur tous ceux qui ne voudront pas
-entrer dans cette union. Mais alors ce sera trop tard: vous aurez déjà pris la marque de la bête. Ne
-dites pas: «Je le ferai plus tard!». Faites-le maintenant: Ramsès est en train de croître.
-   Mais rappelez-vous que tandis que la puissance de Ramsès croissait en Egypte, Dieu avait
-Moïse dans le désert. Lui aussi était en train de croître! Ramsès avait un système politique. Dieu
-avait un système spirituel par le moyen d’un prophète qui viendrait parler au peuple. Aujourd’hui ils
-sont aussi en train de croître tous les deux. Un de ces jours le voile tombera. Le temps n’est pas
-éloigné où les cartes seront abattues.
-   L’Ecriture nous montre que le naturel est le type du spirituel. Vous ne pouvez sortir de là! Tout
-est présenté bien en évidence devant vos yeux. C’est la vérité.
-   Considérez l’Eglise actuelle, son appel, la puissance dont elle est peu à peu revêtue. Le
-Saint-Esprit descend! Les mystères de Dieu sont révélés et mis en ordre. L’église est entrée
-maintenant à la Maison-Blanche, mais la vraie Eglise est en train de se ressaisir; elle n’est pas une
-dénomination, mais elle est sortie des liens de l’iniquité, elle est sortie du pays des Amoréens.
-C’est un peuple libre!
+   C’est tout un battage qui se fait pour soulever le peuple. Exactement comme Hitler fit en Allemagne. C’est ainsi qu’il fit tomber son peuple dans un piège mortel. Et les cadavres de ces chers Allemands se sont empilés par millions! Maintenant, c’est exactement la même chose, et rappelez-vous que ce que je dis est enregistré. Peut-être que vous verrez ces choses arriver après mon départ.
+   C’est exactement ce qui va arriver. Ces pauvres gens vont mourir comme des mouches. Il y aura une révolution; les noirs et les blancs se battront et ils mourront comme des mouches. Et qu’aurons-nous de plus quand tout sera terminé? Un tas de cadavres!
+   Sur le trône monta un pharaon qui ne connaissait pas Joseph. Aujourd’hui c’est la même chose. Un homme a prêté serment à la Maison-Blanche, mais il n’a pas voulu prêter serment au sujet de la liberté de religion.
+   Que dit le nouveau pape? Quatre choses. L’une d’elles est qu’il veut unir Catholiques et Protestants. Pour l’homme intellectuel, c’est la chose à faire. Pourtant la Bible dit que ce n’est pas la chose à faire, mais Elle dit que c’est pourtant ce qu’ils feraient. (Maintenant, avançons encore un peu.)
+   En ce temps-là, la puissance de Ramsès s’accrut en Egypte. L’homme naturel, Ramsès, prenait de l’importance. Aujourd’hui, l’homme naturel, l’antichrist, prend de l’importance par le canal de la politique. Il est déjà entré à la Maison-Blanche.
+   Pour ce qui concerne la religion, il a tellement séduit les gens qu’ils n’ont rien pu faire d’autre que tomber dans le piège. Pour ce qui est de ces grands leaders dénominationnels, pratiquement toutes les églises de ce pays font déjà partie de la confédération des églises. Ramsès est en train de croître: tous s’unissent, et c’est exactement ce qu’ils devaient faire. Et qu’est-ce que cela produit? Une puissance, une bête exactement semblable à la première!
+   Il y a une persécution et un boycottage qui vont tomber sur tous ceux qui ne voudront pas entrer dans cette union. Mais alors ce sera trop tard: vous aurez déjà pris la marque de la bête. Ne dites pas: «Je le ferai plus tard!». Faites-le maintenant: Ramsès est en train de croître.
+   Mais rappelez-vous que tandis que la puissance de Ramsès croissait en Egypte, Dieu avait Moïse dans le désert. Lui aussi était en train de croître! Ramsès avait un système politique. Dieu avait un système spirituel par le moyen d’un prophète qui viendrait parler au peuple. Aujourd’hui ils sont aussi en train de croître tous les deux. Un de ces jours le voile tombera. Le temps n’est pas éloigné où les cartes seront abattues.
+   L’Ecriture nous montre que le naturel est le type du spirituel. Vous ne pouvez sortir de là! Tout est présenté bien en évidence devant vos yeux. C’est la vérité.
+   Considérez l’Eglise actuelle, son appel, la puissance dont elle est peu à peu revêtue. Le Saint-Esprit descend! Les mystères de Dieu sont révélés et mis en ordre. L’église est entrée maintenant à la Maison-Blanche, mais la vraie Eglise est en train de se ressaisir; elle n’est pas une dénomination, mais elle est sortie des liens de l’iniquité, elle est sortie du pays des Amoréens. C’est un peuple libre!
 
         http://www.cmpp.ch
 
 LE TROISIEME Exode 15
-   Dieu avait déjà suscité Son futur prophète, Moïse; mais bien qu’il eût déjà prophétisé et que sa
-prophétie eût été confirmée, il fut envoyé dans l’école du désert et caché du reste du monde. Mais
-il reçut un enseignement et une formation pendant qu’il était dans le désert.
-   L’ennemi proposera toujours son système et les incrédules l’accepteront, PARCE QUE LE
-SIGNE DE L’ENNEMI, C’EST L’INTELLECTPUALISME. Rappelez-vous ceci et ne n’oubliez jamais!
-Il n’y a que deux puissances: l’une est LA PUISSANCE SPIRITUELLE DU SAINT-ESPRIT, l’autre LA
-PUISSANCE DU DIABLE AGISSANT PAR LA PENSEE INTELLECTUELLE. C’est ainsi qu’il est entré
-dans le jardin d’Eden: par la puissance intellectuelle, afin de faire croire Eve à une conception
-intellectuelle contraire à la Parole. C’est d’une évidence telle que même les enfants peuvent le
-comprendre. Et cela a toujours été ainsi. Nous le voyons ce matin avec l’Egypte.
-   Il y avait une puissance intellectuelle agissant en Ramsès, l’élevant et lui donnant une
-puissance: mais il ne connaissait pas la liberté, il ne savait pas ce que Joseph avait fait, ce que
-l’église avait fait au commencement.
-   Aujourd’hui nous voyons la même chose se passer, la puissance intellectuelle s’introduisant
-dans l’église, s’élevant jusqu’à en devenir la tête et ne se souciant pas de ce que dit la Bible. Ils
-ont leur propre système: ce n’est plus ce que la Bible dit, c’est ce que l’église dit.
-   Les protestants se sont intégrés dans ce système jusqu’aux plus petits groupes. Ils disent: «Je
-sais que la Bible dit cela, mais ces temps sont révolus». Ils ont une forme de piété mais renient ce
-qui en fait la force. Chaque passage de l’Ecriture nous le montre.
-   Vous comprenez maintenant pourquoi je voulais enregistrer cette prédication et la diffuser.
-L’heure est arrivée! La vérité doit être connue! L’exode est proche! Vous voyez, l’aspect
-intellectuel des choses a l’air parfait: il est parfait, il est l’inspiration parfaite de Satan!
-   Pendant tout le temps que Ramsès l’intellectuel croissait et se préparait à monter sur le trône…
-Rappelez-vous qu’il fut élevé comme un frère de Moïse. L’un d’eux devait monter sur le trône
-intellectuel comme cela s’était passé auparavant avec Joseph et ses frères. Et qu’est-ce que les
-frères de Joseph firent de lui? Ils l’excommunièrent de la parole! Et la Parole est Dieu. Ils
-excommunièrent la Parole et acceptèrent un credo; et le credo devint une puissance. Oh mon
-Dieu, fais que les gens comprennent cela!
-   Que puis-je dire de plus avec ma voix? Comment puis-je dire les choses plus clairement par les
-Ecritures et sous l’inspiration du Saint-Esprit que nous sommes dans la même situation? Mais
-vous direz: «Si ces choses venaient du pape Jean, du pape Untel, de l’évêque Tel-et-tel…?».
-   Voyez-vous comment Dieu prit un insignifiant petit homme du désert? Vous dites: «Comment
-tout cela peut-il être faux?». Mais Dieu traite avec les personnes et non pas avec les groupes; Il
-traite avec les personnes! La seule chose qu’Il veut, c’est un homme avec lequel Il puisse agir.
-Voilà tout ce qu’Il veut: un homme.
-   Dans chaque âge, Il a essayé de trouver un homme. Il en trouva un du temps de Noé. Il en
-trouva un du temps d’Elie. Il en trouva un du temps de Jean-Baptiste. Un homme, c’est tout ce qu’il
-Lui faut.
-   Du temps des juges, il essaya de trouver un homme: ce fut Samson. Il donna une grande
-puissance à Samson, mais celui-ci la vendit à une femme et fut rendu aveugle. Ce n’étaient pas
-les hommes qui étaient juges, c’était Dieu.
-   Aujourd’hui encore Il essaie de trouver un homme, s’Il peut mettre la main dessus; un homme
-qui dira la vérité sans crainte, qui ne mâchera pas ses mots, qui ne sera pas dogmatique. Un
-homme qu’Il puisse tenir dans Sa main et par lequel Il puisse manifester Sa Parole vivante et
-montrer que Lui-même est vivant.
-   Je crois qu’Il peut préparer une telle personne. Je le crois! Je crois suffisamment la Bible pour
-croire cela. S’Il peut trouver un tel homme, celui-ci dira la vérité.
-   Après avoir passé par toutes ces écoles… Vous voyez, l’ennemi propose quelque chose à la
-pensée intellectuelle, parce que l’ennemi travaille avec l’intellect. Alors on s’arrête, on se met à
-raisonner et l’on dit: «Est-ce qu’au concile il ne s’est pas passé…». L’autre jour, je parlais avec un
-brave homme qui travaille dans une administration. Il me dit: «Billy, je voudrais vous poser une
-question. Vous êtes Irlandais?».
-   Je lui répondis: «Parfaitement! Je suis bien un peu confus de l’être, mais tout de même je le
-suis».
+   Dieu avait déjà suscité Son futur prophète, Moïse; mais bien qu’il eût déjà prophétisé et que sa prophétie eût été confirmée, il fut envoyé dans l’école du désert et caché du reste du monde. Mais il reçut un enseignement et une formation pendant qu’il était dans le désert.
+   L’ennemi proposera toujours son système et les incrédules l’accepteront, PARCE QUE LE SIGNE DE L’ENNEMI, C’EST L’INTELLECTPUALISME. Rappelez-vous ceci et ne n’oubliez jamais! Il n’y a que deux puissances: l’une est LA PUISSANCE SPIRITUELLE DU SAINT-ESPRIT, l’autre LA PUISSANCE DU DIABLE AGISSANT PAR LA PENSEE INTELLECTUELLE. C’est ainsi qu’il est entré dans le jardin d’Eden: par la puissance intellectuelle, afin de faire croire Eve à une conception intellectuelle contraire à la Parole. C’est d’une évidence telle que même les enfants peuvent le comprendre. Et cela a toujours été ainsi. Nous le voyons ce matin avec l’Egypte.
+   Il y avait une puissance intellectuelle agissant en Ramsès, l’élevant et lui donnant une puissance: mais il ne connaissait pas la liberté, il ne savait pas ce que Joseph avait fait, ce que l’église avait fait au commencement.
+   Aujourd’hui nous voyons la même chose se passer, la puissance intellectuelle s’introduisant dans l’église, s’élevant jusqu’à en devenir la tête et ne se souciant pas de ce que dit la Bible. Ils ont leur propre système: ce n’est plus ce que la Bible dit, c’est ce que l’église dit.
+   Les protestants se sont intégrés dans ce système jusqu’aux plus petits groupes. Ils disent: «Je sais que la Bible dit cela, mais ces temps sont révolus». Ils ont une forme de piété mais renient ce qui en fait la force. Chaque passage de l’Ecriture nous le montre.
+   Vous comprenez maintenant pourquoi je voulais enregistrer cette prédication et la diffuser. L’heure est arrivée! La vérité doit être connue! L’exode est proche! Vous voyez, l’aspect intellectuel des choses a l’air parfait: il est parfait, il est l’inspiration parfaite de Satan!
+   Pendant tout le temps que Ramsès l’intellectuel croissait et se préparait à monter sur le trône… Rappelez-vous qu’il fut élevé comme un frère de Moïse. L’un d’eux devait monter sur le trône intellectuel comme cela s’était passé auparavant avec Joseph et ses frères. Et qu’est-ce que les frères de Joseph firent de lui? Ils l’excommunièrent de la parole! Et la Parole est Dieu. Ils excommunièrent la Parole et acceptèrent un credo; et le credo devint une puissance. Oh mon Dieu, fais que les gens comprennent cela!
+   Que puis-je dire de plus avec ma voix? Comment puis-je dire les choses plus clairement par les Ecritures et sous l’inspiration du Saint-Esprit que nous sommes dans la même situation? Mais vous direz: «Si ces choses venaient du pape Jean, du pape Untel, de l’évêque Tel-et-tel…?».
+   Voyez-vous comment Dieu prit un insignifiant petit homme du désert? Vous dites: «Comment tout cela peut-il être faux?». Mais Dieu traite avec les personnes et non pas avec les groupes; Il traite avec les personnes! La seule chose qu’Il veut, c’est un homme avec lequel Il puisse agir. Voilà tout ce qu’Il veut: un homme.
+   Dans chaque âge, Il a essayé de trouver un homme. Il en trouva un du temps de Noé. Il en trouva un du temps d’Elie. Il en trouva un du temps de Jean-Baptiste. Un homme, c’est tout ce qu’il Lui faut.
+   Du temps des juges, il essaya de trouver un homme: ce fut Samson. Il donna une grande puissance à Samson, mais celui-ci la vendit à une femme et fut rendu aveugle. Ce n’étaient pas les hommes qui étaient juges, c’était Dieu.
+   Aujourd’hui encore Il essaie de trouver un homme, s’Il peut mettre la main dessus; un homme qui dira la vérité sans crainte, qui ne mâchera pas ses mots, qui ne sera pas dogmatique. Un homme qu’Il puisse tenir dans Sa main et par lequel Il puisse manifester Sa Parole vivante et montrer que Lui-même est vivant.
+   Je crois qu’Il peut préparer une telle personne. Je le crois! Je crois suffisamment la Bible pour croire cela. S’Il peut trouver un tel homme, celui-ci dira la vérité.
+   Après avoir passé par toutes ces écoles… Vous voyez, l’ennemi propose quelque chose à la pensée intellectuelle, parce que l’ennemi travaille avec l’intellect. Alors on s’arrête, on se met à raisonner et l’on dit: «Est-ce qu’au concile il ne s’est pas passé…». L’autre jour, je parlais avec un brave homme qui travaille dans une administration. Il me dit: «Billy, je voudrais vous poser une question. Vous êtes Irlandais?».
+   Je lui répondis: «Parfaitement! Je suis bien un peu confus de l’être, mais tout de même je le suis».
    Il me dit alors: «Vous savez, en réalité vous devriez être Catholique».
 
         http://www.cmpp.ch
 
 LE TROISIEME Exode 16
    Je lui répliquai: «Eh bien, je suis un véritable Catholique originel!».
-   Vous savez que la première église était l’église Catholique. Mais vous voyez ce qu’elle est
-devenue aujourd’hui? Elle a commencé le jour de Pentecôte, mais l’organisation en a fait ce
-qu’elle est aujourd’hui. Regardez l’église Pentecôtiste: elle est revenue au commencement, mais
-elle s’est organisée, elle qui faisait les choses mêmes que faisait l’église Catholique du début!
-Mais aujourd’hui, cinquante ans d’organisation ont amené l’église Pentecôtiste presque au même
-point que les deux mille ans du Catholicisme!
-   Cet homme me dit: «Ne pensez-vous pas que lorsqu’un groupe d’hommes à l’esprit
-oecuménique se rassemble (nous y voilà!) pour discuter de quelque chose et que le groupe tout
-entier est d’accord, ne pensez-vous pas qu’ils ont quand même un peu plus… Je suis venu vous
-entendre prêcher, mais je ne suis pas d’accord avec vous!».
-   Je lui dis: «La seule manière pour vous de prouver que votre désaccord est logique est de le
-prouver par la Bible!».
+   Vous savez que la première église était l’église Catholique. Mais vous voyez ce qu’elle est devenue aujourd’hui? Elle a commencé le jour de Pentecôte, mais l’organisation en a fait ce qu’elle est aujourd’hui. Regardez l’église Pentecôtiste: elle est revenue au commencement, mais elle s’est organisée, elle qui faisait les choses mêmes que faisait l’église Catholique du début! Mais aujourd’hui, cinquante ans d’organisation ont amené l’église Pentecôtiste presque au même point que les deux mille ans du Catholicisme!
+   Cet homme me dit: «Ne pensez-vous pas que lorsqu’un groupe d’hommes à l’esprit oecuménique se rassemble (nous y voilà!) pour discuter de quelque chose et que le groupe tout entier est d’accord, ne pensez-vous pas qu’ils ont quand même un peu plus… Je suis venu vous entendre prêcher, mais je ne suis pas d’accord avec vous!».
+   Je lui dis: «La seule manière pour vous de prouver que votre désaccord est logique est de le prouver par la Bible!».
    Il me rétorqua: «La Bible n’a rien à voir avec cela!».
-   Je lui répondis: «Pour vous peut-être, mais pour moi Elle a tout à y voir!». Vous comprenez?
-c’est la Parole!
-   Il me dit: «Ne pensez-vous pas qu’un groupe d’hommes à l’esprit oecuménique a plus de
-chances d’avoir raison qu’un pauvre petit ignorant comme vous?».
-   Il me dit encore: «De toute manière, en quoi est-ce votre affaire de dire quoi que ce soit contre
-notre église? Dans le premier âge de l’église, vous nous avez parlé du concile oecuménique de
-Nicée où a été fondée l’église Catholique romaine. Ne savez-vous pas qu’il y avait là des milliers
-d’hommes remplis de l’Esprit, des hommes envoyés par Dieu à ce concile? Ne pensez-vous pas
-que leur esprit était plus apte à connaître la volonté de Dieu que le vôtre, après que Dieu eût
-confirmé pendant deux mille ans que c’est cette église qui a raison?».
-   Je lui répondis: «Dieu ne l’a jamais prouvé! Si cette église est l’Eglise de Dieu, qu’elle nous
-montre les oeuvres qu’a accomplies la première Eglise! Qu’elle nous montre aujourd’hui les
-choses qu’elle a faites au commencement. La Bible Elle-même nous dit que pas un trait de lettre
-de la loi ne passerait avant que tout fût accompli. Elle dit aussi que quiconque ajouterait ou
-retrancherait un seul mot à la Parole serait retranché; que ce soit un membre où concile
-oecuménique ou qui que ce soit d’autre, c’en est fait de lui».
+   Je lui répondis: «Pour vous peut-être, mais pour moi Elle a tout à y voir!». Vous comprenez? c’est la Parole!
+   Il me dit: «Ne pensez-vous pas qu’un groupe d’hommes à l’esprit oecuménique a plus de chances d’avoir raison qu’un pauvre petit ignorant comme vous?».
+   Il me dit encore: «De toute manière, en quoi est-ce votre affaire de dire quoi que ce soit contre notre église? Dans le premier âge de l’église, vous nous avez parlé du concile oecuménique de Nicée où a été fondée l’église Catholique romaine. Ne savez-vous pas qu’il y avait là des milliers d’hommes remplis de l’Esprit, des hommes envoyés par Dieu à ce concile? Ne pensez-vous pas que leur esprit était plus apte à connaître la volonté de Dieu que le vôtre, après que Dieu eût confirmé pendant deux mille ans que c’est cette église qui a raison?».
+   Je lui répondis: «Dieu ne l’a jamais prouvé! Si cette église est l’Eglise de Dieu, qu’elle nous montre les oeuvres qu’a accomplies la première Eglise! Qu’elle nous montre aujourd’hui les choses qu’elle a faites au commencement. La Bible Elle-même nous dit que pas un trait de lettre de la loi ne passerait avant que tout fût accompli. Elle dit aussi que quiconque ajouterait ou retrancherait un seul mot à la Parole serait retranché; que ce soit un membre où concile oecuménique ou qui que ce soit d’autre, c’en est fait de lui».
    Il me dit: «Billy, vous déraillez!».
-   Je lui répondis: «Autrefois, lorsqu’Israël était un grand peuple, ils se séparèrent, comme l’ont
-fait les Catholiques et les Protestants plus tard. Israël voulait rester Israël. Mais plus tard, il y eut
-en Juda un homme juste, Josaphat, qui essayait d’observer la loi de Dieu. En Israël, par contre, il y
-avait Achab qui avait épousé par politique la fille du roi des Sidoniens, Jézabel, parce qu’il voulait
-faire alliance avec ce peuple. Il l’introduisit dans le peuple de Dieu; c’est exactement ce que nous
-faisons aujourd’hui. Là, c’est elle qui se mit à commander. C’est elle qui commandait à Achab de
-dire ceci ou cela; c’est exactement ce que nous faisons aujourd’hui. Plus tard, il voulut réunir les
-deux peuples comme aujourd’hui nous voulons réunir les deux églises. Et Achab, l’homme de
-l’organisation, dit à Josephat: “Tu verras, ce sera très bien! Nous sommes un peuple, nous
-sommes tous chrétiens. Nous sommes tous des croyants. Mettons-nous tous ensemble!”».
-   Mais lorsque la situation devint critique, Josaphat dit: “Ne penses-tu pas que nous devrions
-prier pour cela? Nous devrions consulter le Seigneur”. Achab répondit: “Oui!”.
-   Josaphat dit: “Je vais te dire ce qu’il faut faire: cherchons un prophète du Seigneur”. Mais vous
-voyez, Achab avait un système qu’il pensait être du Seigneur. Il dit à Josaphat: “J’ai quatre cents
-prophètes bien instruits et entraînés: ce sont tous des prophètes hébreux” (comme les groupes de
-ministères actuels).
-   Ils les firent venir et leur demandèrent quelle serait l’issue de la bataille. Alors ces prophètes se
-réunirent exactement comme le fait le concile oecuménique d’aujourd’hui et dirent: “Allez-y, le
-Seigneur est avec vous, car le pays nous appartient de droit. Chassez les Syriens car le pays nous
-appartient!”. Cela avait l’air tout à fait raisonnable.
-   Mais dans le coeur de Josaphat, cela ne sonnait pas tout à fait juste. Il dit à Achab: “Je sais que
-tu as quatre cents prophètes bien instruits et qu’ils sont tous d’accord” (ils s’étaient même fait des
-cornes de fer et avaient proclamé: “Ainsi dit le Seigneur!”) “Mais n’y en a-t-il pas un autre?”.
+   Je lui répondis: «Autrefois, lorsqu’Israël était un grand peuple, ils se séparèrent, comme l’ont fait les Catholiques et les Protestants plus tard. Israël voulait rester Israël. Mais plus tard, il y eut en Juda un homme juste, Josaphat, qui essayait d’observer la loi de Dieu. En Israël, par contre, il y avait Achab qui avait épousé par politique la fille du roi des Sidoniens, Jézabel, parce qu’il voulait faire alliance avec ce peuple. Il l’introduisit dans le peuple de Dieu; c’est exactement ce que nous faisons aujourd’hui. Là, c’est elle qui se mit à commander. C’est elle qui commandait à Achab de dire ceci ou cela; c’est exactement ce que nous faisons aujourd’hui. Plus tard, il voulut réunir les deux peuples comme aujourd’hui nous voulons réunir les deux églises. Et Achab, l’homme de l’organisation, dit à Josephat: “Tu verras, ce sera très bien! Nous sommes un peuple, nous sommes tous chrétiens. Nous sommes tous des croyants. Mettons-nous tous ensemble!”».
+   Mais lorsque la situation devint critique, Josaphat dit: “Ne penses-tu pas que nous devrions prier pour cela? Nous devrions consulter le Seigneur”. Achab répondit: “Oui!”.
+   Josaphat dit: “Je vais te dire ce qu’il faut faire: cherchons un prophète du Seigneur”. Mais vous voyez, Achab avait un système qu’il pensait être du Seigneur. Il dit à Josaphat: “J’ai quatre cents prophètes bien instruits et entraînés: ce sont tous des prophètes hébreux” (comme les groupes de ministères actuels).
+   Ils les firent venir et leur demandèrent quelle serait l’issue de la bataille. Alors ces prophètes se réunirent exactement comme le fait le concile oecuménique d’aujourd’hui et dirent: “Allez-y, le Seigneur est avec vous, car le pays nous appartient de droit. Chassez les Syriens car le pays nous appartient!”. Cela avait l’air tout à fait raisonnable.
+   Mais dans le coeur de Josaphat, cela ne sonnait pas tout à fait juste. Il dit à Achab: “Je sais que tu as quatre cents prophètes bien instruits et qu’ils sont tous d’accord” (ils s’étaient même fait des cornes de fer et avaient proclamé: “Ainsi dit le Seigneur!”) “Mais n’y en a-t-il pas un autre?”.
    Le politicien dit: “Que le roi ne parle pas ainsi, car ces hommes sont instruits, je les ai formés
 
         http://www.cmpp.ch
 
 LE TROISIEME Exode 17
-moi-même”. Tout est là! “Il y en a bien encore un, mais celui-là, je le hais!”.
-   Il ajouta: “C’est Michée, le fils de Jimla, mais je le hais! Ce n’est qu’un renégat. Il parle toujours
-contre moi, il dit toujours que je fais le mal, et pourtant regarde mon royaume!”.
+   moi-même”. Tout est là! “Il y en a bien encore un, mais celui-là, je le hais!”.
+   Il ajouta: “C’est Michée, le fils de Jimla, mais je le hais! Ce n’est qu’un renégat. Il parle toujours contre moi, il dit toujours que je fais le mal, et pourtant regarde mon royaume!”.
    Oui, regardons son royaume: quel gâchis!
-   Voyez vos dénominations aujourd’hui: elles ont une forme de piété, mais renient ce qui en fait la
-force. Ce genre de prophètes, vous pouvez en avoir encore des millions et mieux instruits si vous
-voulez, mais où en êtes-vous dans l’Esprit? Où est votre force? Etes-vous comme Samson, ainsi
-que je l’ai montré l’autre jour? Il était toujours aussi grand et bien charpenté, mais il n’y avait plus
-de Vie en lui.
-   L’Esprit l’avait quitté. Maintenant il était aveugle et sans force et un petit enfant le conduisait:
-tout cela à cause d’une femme. L’église est dans la même situation aujourd’hui: elle est conduite
-par la politique, les évêques, les anciens et toutes sortes de choses pareilles. Chacun cherche au
-hasard un bénéfice quelconque. Où allons-nous ainsi?
-   Nous avons vu qu’ils envoyèrent chercher Michée, le fils de Jimla. Lorsqu’il leur prophétisa
-qu’Achab serait tué s’il montait contre Ramoth en Galaad, le chef des prophètes le frappa au
-visage. Il l’a fait en toute sincérité. Il lui dit: “Par où l’Esprit de l’Eternel est-il sorti de moi pour te
-parler?”. — “Tu le verras…”. Achab dit: “Mettez Michée en prison et nourrissez-le du pain et de
-l’eau d’affliction jusqu’à ce que je revienne en paix. Alors je m’occuperai de lui!”.
-   Mais Michée savait qu’il était en ordre avec Dieu. Pourquoi? Parce que sa vision correspondait
-à la Parole. Il était prophète et son esprit et sa vision correspondaient exactement avec ce qu’avait
-dit le prophète Elie. C’est pourquoi il put dire: “Si tu reviens en paix, l’Eternel n’a point parlé par
-moi!”.
-   Je dis à cet homme qui m’avait abordé: «Qui avait raison? Un concile oecuménique de
-400 hommes élus par des hommes, ou un seul petit renégat élu par Dieu?».
+   Voyez vos dénominations aujourd’hui: elles ont une forme de piété, mais renient ce qui en fait la force. Ce genre de prophètes, vous pouvez en avoir encore des millions et mieux instruits si vous voulez, mais où en êtes-vous dans l’Esprit? Où est votre force? Etes-vous comme Samson, ainsi que je l’ai montré l’autre jour? Il était toujours aussi grand et bien charpenté, mais il n’y avait plus de Vie en lui.
+   L’Esprit l’avait quitté. Maintenant il était aveugle et sans force et un petit enfant le conduisait: tout cela à cause d’une femme. L’église est dans la même situation aujourd’hui: elle est conduite par la politique, les évêques, les anciens et toutes sortes de choses pareilles. Chacun cherche au hasard un bénéfice quelconque. Où allons-nous ainsi?
+   Nous avons vu qu’ils envoyèrent chercher Michée, le fils de Jimla. Lorsqu’il leur prophétisa qu’Achab serait tué s’il montait contre Ramoth en Galaad, le chef des prophètes le frappa au visage. Il l’a fait en toute sincérité. Il lui dit: “Par où l’Esprit de l’Eternel est-il sorti de moi pour te parler?”. — “Tu le verras…”. Achab dit: “Mettez Michée en prison et nourrissez-le du pain et de l’eau d’affliction jusqu’à ce que je revienne en paix. Alors je m’occuperai de lui!”.
+   Mais Michée savait qu’il était en ordre avec Dieu. Pourquoi? Parce que sa vision correspondait à la Parole. Il était prophète et son esprit et sa vision correspondaient exactement avec ce qu’avait dit le prophète Elie. C’est pourquoi il put dire: “Si tu reviens en paix, l’Eternel n’a point parlé par moi!”.
+   Je dis à cet homme qui m’avait abordé: «Qui avait raison? Un concile oecuménique de 400 hommes élus par des hommes, ou un seul petit renégat élu par Dieu?».
    Il me répondit: «Comment peut-on le savoir?».
-   Je lui dis: «En revenant au plan original». Comment pourrait-on construire une maison sans un
-plan?
-   Si ces prophètes s’étaient arrêtés un instant pour réfléchir et faire des recherches, ils auraient
-découvert qu’Elie avait maudit Achab. Il avait dit que les chiens lécheraient son sang, ce qu’ils
-firent plus tard. Comment pouvait-il bénir ce que Dieu avait maudit? Gomment peut-on bénir ce
-que Dieu a maudit?
+   Je lui dis: «En revenant au plan original». Comment pourrait-on construire une maison sans un plan?
+   Si ces prophètes s’étaient arrêtés un instant pour réfléchir et faire des recherches, ils auraient découvert qu’Elie avait maudit Achab. Il avait dit que les chiens lécheraient son sang, ce qu’ils firent plus tard. Comment pouvait-il bénir ce que Dieu avait maudit? Gomment peut-on bénir ce que Dieu a maudit?
    Sortez du milieu de ces choses! Venez en Christ!
    [Début de la deuxième piste de la bande incomplet — N.d.R.]
-   … mais la pensée intellectuelle dit que c’est juste. C’était là la pensée de ce cher frère. Il disait:
-“Si nous nous réunissions tous en une seule église, ne pensez-vous pas que tout irait mieux que
-d’être dispersés comme nous le sommes maintenant?”.
-   Cela ne semble-t-il pas raisonnable de penser que les Protestants et les Catholiques devraient
-chercher à se rassembler et à trouver un terrain d’entente? Mais comment deux hommes
-peuvent-ils marcher ensemble s’ils ne s’accordent pas? Comment pouvez-vous mettre ensemble
-un groupe qui ne croit pas à la guérison divine, un groupe qui y croit, un autre qui dit que c’était
-pour autrefois et d’autres qui ne croient même pas à la Bible? Quel résultat cela peut-il donner?
-Dieu n’est pas un créateur de confusion!
-   Avant que Dieu pût mettre Son Eglise en ordre, elle dut attendre dix jours et dix nuits jusqu’à ce
-qu’elle soit dans un accord parfait: c’est alors que le Saint-Esprit put descendre et en prendre la
-tête. Ce n’était pas un quelconque concile oecuménique, vous voyez. J’espère que vous
-comprenez cela.
-   Remarquez que c’est l’incrédule, celui qui est infidèle à la Parole de Dieu, qui ne prend pas
-garde à ce que dit la Parole mais qui s’attache à ses propres raisonnements. C’est ce que fit Eve
-au commencement. Elle se fia à ses raisonnements.
-   Satan dit: “Réfléchis un peu: n’est-ce pas raisonnable? Je sais que la Parole dit ceci, mais
-n’est-ce pas raisonnable de penser qu’il vaudrait mieux pour vous savoir discerner entre le bien et
-le mal?”.
+   … mais la pensée intellectuelle dit que c’est juste. C’était là la pensée de ce cher frère. Il disait: “Si nous nous réunissions tous en une seule église, ne pensez-vous pas que tout irait mieux que d’être dispersés comme nous le sommes maintenant?”.
+   Cela ne semble-t-il pas raisonnable de penser que les Protestants et les Catholiques devraient chercher à se rassembler et à trouver un terrain d’entente? Mais comment deux hommes peuvent-ils marcher ensemble s’ils ne s’accordent pas? Comment pouvez-vous mettre ensemble un groupe qui ne croit pas à la guérison divine, un groupe qui y croit, un autre qui dit que c’était pour autrefois et d’autres qui ne croient même pas à la Bible? Quel résultat cela peut-il donner? Dieu n’est pas un créateur de confusion!
+   Avant que Dieu pût mettre Son Eglise en ordre, elle dut attendre dix jours et dix nuits jusqu’à ce qu’elle soit dans un accord parfait: c’est alors que le Saint-Esprit put descendre et en prendre la tête. Ce n’était pas un quelconque concile oecuménique, vous voyez. J’espère que vous comprenez cela.
+   Remarquez que c’est l’incrédule, celui qui est infidèle à la Parole de Dieu, qui ne prend pas garde à ce que dit la Parole mais qui s’attache à ses propres raisonnements. C’est ce que fit Eve au commencement. Elle se fia à ses raisonnements.
+   Satan dit: “Réfléchis un peu: n’est-ce pas raisonnable? Je sais que la Parole dit ceci, mais n’est-ce pas raisonnable de penser qu’il vaudrait mieux pour vous savoir discerner entre le bien et le mal?”.
    Elle répondit: “Eh bien, je pense que oui!”. Et elle prit du fruit. C’est la voie du raisonnement.
    L’incrédulité prendra toujours le chemin du raisonnement, mais la foi n’y touchera pas! N’aurait-
 
         http://www.cmpp.ch
 
 LE TROISIEME Exode 18
-il pas été raisonnable de la part de notre père Abraham, le père de notre foi, dont nous sommes
-les enfants en Christ, de penser qu’il ne pouvait avoir d’enfant avec sa femme, une femme de
-soixante-cinq ans avec laquelle il avait vécu depuis son enfance? Et lorsqu’elle eut quatre-vingt-dix
-ans et lui cent, ils n’en avaient toujours pas! Si un grand comité de savants et de médecins avaient
-examiné Sara, ils auraient déclaré: “Sa matrice est desséchée et les glandes de sécrétion du lait
-sont taries depuis quarante ans! Et d’ailleurs, à son âge, son coeur ne supporterait pas le travail
-d’un accouchement!”. Tout cela était très raisonnable, mais Abraham refusa de l’écouter. Il ne se
-laissa pas ébranler malgré les circonstances parce qu’il croyait Dieu capable d’accomplir tout ce
-qu’Il disait.
-   Mais où sont les enfants d’Abraham ce matin? Vous les pasteurs qui avez peur de ne plus avoir
-à manger et d’être jetés à la rue si vous quittez cette Babylone! Où est votre foi? David a dit: “J’ai
-été jeune, j’ai vieilli; et je n’ai point vu le juste abandonné ni sa postérité mendiant son pain”. Ne
-craignez rien! Restez fidèles à Christ!
-   Mais l’incrédulité s’attache au raisonnement. Comprenez-vous cela? L’incrédulité se confie
-dans la raison qui est quelque chose du temps présent. La foi ne fait pas cela: elle regarde à la
-Parole, elle se place sur le rocher immuable, la Parole éternelle de Dieu. Amen! La foi ne regarde
-pas au raisonnement. Peu importe à quel point vous pouvez montrer que ce serait mieux de faire
-de telle ou telle manière, si la Parole dit “Non!” c’est là-dessus que la foi se base. C’est le
-sanctuaire de la foi, son lieu de repos.
-   Ce matin, je voudrais vous poser une question à vous les Luthériens, les Baptistes, les
-Catholiques et à tous ceux qui appartiennent à une dénomination quelle qu’elle soit n’importe où
-dans le monde: comment pouvez-vous mettre votre foi en votre dénomination lorsque ce qu’elle dit
-est contraire à la Parole? Quelle sorte de foi avez-vous? Ce que vous avez, ce n’est pas la foi,
-mais la faculté de raisonner. “Car la foi vient de ce que l’on entend”. De ce que l’on entend dans
-un concile oecuménique? Vous trouverez peut-être de telles choses dans un agenda
-d’anniversaires de vieilles dames, mais pas dans la Parole de Dieu! Ainsi “la foi est de ce qu’on
-entend, et ce qu’on entend de la Parole de Dieu”. Amen.
-   Montrez-moi quelqu’un qui puisse dire quelque chose de contraire à cela et prétendre que c’est
-la Parole de Dieu, alors qu’il est dit que les cieux et la terre passeront, mais que cette Parole ne
-passera pas! La foi trouve dans la Parole son sanctuaire et son lieu de repos. Elle vient se reposer
-sur ce Rocher éternel, Jésus-Christ, la Parole: elle s’appuie et se repose là.
-   Que les vents hurlent, que la tempête fasse rage: elle est en sécurité pour toujours. Elle
-s’appuie et se repose sur cette Parole. C’est là où la foi, la véritable foi chrétienne, se repose. Le
-lieu de repos est la Parole. Car elle sait que Dieu prouve toujours qu’Il est supérieur à tous Ses
-ennemis. Peu importe si la situation a l’air mauvaise! Peu importe comment les ennemis viennent!
-Même s’il semble que vous soyez vaincus, par la foi vous savez que vous avez la victoire!
-   Je dis cela pour vous, malades! Oh, combien j’aimerais que cela pénètre bien en vous! Quand
-vous saisissez cette foi qui vous dit que vous serez guéris, rien, aucune circonstance, aucun
-signe, aucun symptôme qui indiquerait que vous allez mourir ne vous ébranlera.
-   Son lieu de repos est dans le sanctuaire de la Parole de Dieu lorsque la foi, la vraie foi s’installe
-là. Pas une foi fabriquée mais la foi! Pas une espérance, la foi! L’espérance, c’est parce qu’on
-espère être dans ce sanctuaire. La foi, c’est parce qu’on y est déjà et qu’on observe les choses en
-disant: “C’est fait!”. C’est cela, la foi. C’est là que la foi trouve son lieu de repos car elle sait que
-Dieu ne laissera jamais l’ennemi prendre le dessus. Jamais! Il ne l’a jamais pu. La foi le sait, c’est
-pourquoi elle ne regarde pas aux apparences.
-   Noé savait qu’un jour son arche flotterait; ce qu’elle fit. Daniel savait que Dieu pouvait fermer la
-gueule des lions. Les jeunes Hébreux savaient que Dieu pouvait éteindre la fournaise. Jésus
-savait que Dieu Le ressusciterait, car la Parole disait: “Tu ne livreras pas mon âme au séjour des
-morts, Tu ne permettras pas que Ton bien-aimé voie la corruption”. Il savait que la corruption
-s’installe après soixante-douze heures. Il dit aussi: “Dans trois jours, Je Le relèverai”.
-   Vous voyez, il fallait qu’ils trouvent leur lieu de repos éternel dans le sanctuaire de la Parole de
-Dieu: c’est là qu’il se trouvait.
-   Le raisonnement fera de son mieux pour reconnaître… Il dira: «Ce système est sûrement le
-meilleur. C’est cela!». Il a l’air d’être le meilleur parce que vous regardez les choses du point de
-vue intellectuel. Vous pouvez prouver les raisonnements, mais vous ne pouvez prouver la foi parce
+   il pas été raisonnable de la part de notre père Abraham, le père de notre foi, dont nous sommes les enfants en Christ, de penser qu’il ne pouvait avoir d’enfant avec sa femme, une femme de soixante-cinq ans avec laquelle il avait vécu depuis son enfance? Et lorsqu’elle eut quatre-vingt-dix ans et lui cent, ils n’en avaient toujours pas! Si un grand comité de savants et de médecins avaient examiné Sara, ils auraient déclaré: “Sa matrice est desséchée et les glandes de sécrétion du lait sont taries depuis quarante ans! Et d’ailleurs, à son âge, son coeur ne supporterait pas le travail d’un accouchement!”. Tout cela était très raisonnable, mais Abraham refusa de l’écouter. Il ne se laissa pas ébranler malgré les circonstances parce qu’il croyait Dieu capable d’accomplir tout ce qu’Il disait.
+   Mais où sont les enfants d’Abraham ce matin? Vous les pasteurs qui avez peur de ne plus avoir à manger et d’être jetés à la rue si vous quittez cette Babylone! Où est votre foi? David a dit: “J’ai été jeune, j’ai vieilli; et je n’ai point vu le juste abandonné ni sa postérité mendiant son pain”. Ne craignez rien! Restez fidèles à Christ!
+   Mais l’incrédulité s’attache au raisonnement. Comprenez-vous cela? L’incrédulité se confie dans la raison qui est quelque chose du temps présent. La foi ne fait pas cela: elle regarde à la Parole, elle se place sur le rocher immuable, la Parole éternelle de Dieu. Amen! La foi ne regarde pas au raisonnement. Peu importe à quel point vous pouvez montrer que ce serait mieux de faire de telle ou telle manière, si la Parole dit “Non!” c’est là-dessus que la foi se base. C’est le sanctuaire de la foi, son lieu de repos.
+   Ce matin, je voudrais vous poser une question à vous les Luthériens, les Baptistes, les Catholiques et à tous ceux qui appartiennent à une dénomination quelle qu’elle soit n’importe où dans le monde: comment pouvez-vous mettre votre foi en votre dénomination lorsque ce qu’elle dit est contraire à la Parole? Quelle sorte de foi avez-vous? Ce que vous avez, ce n’est pas la foi, mais la faculté de raisonner. “Car la foi vient de ce que l’on entend”. De ce que l’on entend dans un concile oecuménique? Vous trouverez peut-être de telles choses dans un agenda d’anniversaires de vieilles dames, mais pas dans la Parole de Dieu! Ainsi “la foi est de ce qu’on entend, et ce qu’on entend de la Parole de Dieu”. Amen.
+   Montrez-moi quelqu’un qui puisse dire quelque chose de contraire à cela et prétendre que c’est la Parole de Dieu, alors qu’il est dit que les cieux et la terre passeront, mais que cette Parole ne passera pas! La foi trouve dans la Parole son sanctuaire et son lieu de repos. Elle vient se reposer sur ce Rocher éternel, Jésus-Christ, la Parole: elle s’appuie et se repose là.
+   Que les vents hurlent, que la tempête fasse rage: elle est en sécurité pour toujours. Elle s’appuie et se repose sur cette Parole. C’est là où la foi, la véritable foi chrétienne, se repose. Le lieu de repos est la Parole. Car elle sait que Dieu prouve toujours qu’Il est supérieur à tous Ses ennemis. Peu importe si la situation a l’air mauvaise! Peu importe comment les ennemis viennent! Même s’il semble que vous soyez vaincus, par la foi vous savez que vous avez la victoire!
+   Je dis cela pour vous, malades! Oh, combien j’aimerais que cela pénètre bien en vous! Quand vous saisissez cette foi qui vous dit que vous serez guéris, rien, aucune circonstance, aucun signe, aucun symptôme qui indiquerait que vous allez mourir ne vous ébranlera.
+   Son lieu de repos est dans le sanctuaire de la Parole de Dieu lorsque la foi, la vraie foi s’installe là. Pas une foi fabriquée mais la foi! Pas une espérance, la foi! L’espérance, c’est parce qu’on espère être dans ce sanctuaire. La foi, c’est parce qu’on y est déjà et qu’on observe les choses en disant: “C’est fait!”. C’est cela, la foi. C’est là que la foi trouve son lieu de repos car elle sait que Dieu ne laissera jamais l’ennemi prendre le dessus. Jamais! Il ne l’a jamais pu. La foi le sait, c’est pourquoi elle ne regarde pas aux apparences.
+   Noé savait qu’un jour son arche flotterait; ce qu’elle fit. Daniel savait que Dieu pouvait fermer la gueule des lions. Les jeunes Hébreux savaient que Dieu pouvait éteindre la fournaise. Jésus savait que Dieu Le ressusciterait, car la Parole disait: “Tu ne livreras pas mon âme au séjour des morts, Tu ne permettras pas que Ton bien-aimé voie la corruption”. Il savait que la corruption s’installe après soixante-douze heures. Il dit aussi: “Dans trois jours, Je Le relèverai”.
+   Vous voyez, il fallait qu’ils trouvent leur lieu de repos éternel dans le sanctuaire de la Parole de Dieu: c’est là qu’il se trouvait.
+   Le raisonnement fera de son mieux pour reconnaître… Il dira: «Ce système est sûrement le meilleur. C’est cela!». Il a l’air d’être le meilleur parce que vous regardez les choses du point de vue intellectuel. Vous pouvez prouver les raisonnements, mais vous ne pouvez prouver la foi parce que
 
         http://www.cmpp.ch
 
 LE TROISIEME Exode 19
-que si vous pouvez la prouver, ce n’est plus la foi. Mais la foi ne connaît que la Parole et la
-promesse et elle regarde vers des choses que l’oeil ne voit pas. “Or la foi est une ferme assurance
-des choses qu’on espère, une démonstration de celles qu’on ne voit pas!”. On ne peut pas
-raisonner, je ne peux pas vous prouver que cela doit se passer comme ceci ou comme cela. Je ne
-sais pas comment cela se fera. Je ne le sais pas mais je le crois. Je sais que c’est ainsi parce que
-Dieu l’a dit: cela règle la question. C’est la raison pour laquelle je sais que c’est juste.
-   Je sais que la Parole est vraie! Je sais que ce message est vrai car il est dans la Parole et je
-vois que le Dieu vivant Se meut au travers d’Elle et la confirme!
-   Nous allons vers un exode, c’est certain. La mort elle-même ne peut ébranler la foi. Un homme
-peut se tenir face à la mort et proclamer la victoire de la résurrection.
-   Paul a dit: “O mort, où est ta victoire? O mort, où est ton aiguillon?”. Parce que Christ est
-ressuscité et que ceux qui sont en Christ paraîtront avec Lui à Son avènement. La Parole ne peut
-changer! Oui, la foi fait de la Parole de Dieu son sanctuaire et son lieu d’éternel repos. Elle repose
-dans la Parole de Dieu. Si cela ne vous fait rien, je voudrais encore parler un moment. Il nous
-reste environ vingt-cinq minutes et je voudrais finir d’enregistrer cette bande.
-   Remarquez que ce nouveau roi ne connaissait pas Joseph. Quel fut son premier plan pour
-détruire la puissance d’Israël? Mettre à mort les enfants! N’est-ce pas vrai? Il essaya de détruire
-leurs enfants. Maintenant écoutez attentivement.
-   C’est le même démon, sous une forme différente, qui essaya de détruire le Fils unique de Dieu.
-Vous voyez, il commence par détruire les enfants, arrêtant les choses avant même qu’ils aient pu
-sortir. Le diable est un gaillard vraiment rusé! Il sait comment frapper quelque chose avant-même
-que cela ne commence. Il sait comment faire. Et si vous voulez le battre, il n’y a qu’un seul moyen:
-faire confiance à Christ, vous humilier et Le laisser vous conduire. Vous n’y arriverez jamais
-autrement.
-   Vous n’y arriverez jamais par votre puissance intellectuelle. Vous devez croire et Lui faire
-simplement confiance. Il est le bon Berger. CE N’EST PAS L’AFFAIRE DES BREBIS DE GARDER
-LE LOUP ELOIGNE D’ELLES, C’EST L’AFFAIRE DU BERGER. Mais si elles veulent être en
-sécurité, les brebis doivent rester avec le berger. Ma zone de sécurité est en Christ, et Christ est la
-Parole. C’est la zone de sécurité.
-   Remarquez comment le diable s’est manifesté dans la forme de Ramsès, le roi. La première
-chose qu’il fit fut de se débarrasser des enfants par mort physique; aussitôt que le Fils de Dieu fut
-né, il quitta l’Egypte parce que Dieu avait détruit l’Egypte, Il l’avait maudite et elle ne s’en est
-jamais relevée.
-   Ensuite on le trouve à Rome. Satan avait déplacé son siège à Rome. Et quelle est la première
-chose que le système romain essaya de détruire? Le Fils de Dieu. C’est toujours le même démon!
-   Aujourd’hui c’est pareil: il est venu sous la forme d’un esprit religieux qui se proclame chrétien,
-mais qui entraîne nos filles à épouser des garçons catholiques et à leur faire élever leurs enfants
-dans le Catholicisme afin de briser la puissance de l’autre parti. C’est toujours le même démon!
-C’est ce démon assis sur sept collines et portant une triple couronne. Il est aussi rusé, intelligent et
-intellectuel que le serpent; c’est la semence du serpent, ce sont les enfants du serpent. Il utilise les
-mêmes techniques intellectuelles.
-   Deux fois déjà il a fait mourir les enfants. Comment a-t-il fait? Remarquez les nombres deux et
-trois. Les deux premières fois il a fait mourir les enfants de mort physique. Mais maintenant il
-prend les enfants pour les faire mourir de mort spirituelle par le moyen des mariages mixtes.
-   Daniel n’a-t-il pas prophétisé la même chose avec ce royaume de fer et d’argile où ils
-mélangeraient les semences pour essayer de briser la puissance du peuple? N’est-ce pas
-exactement ce qui est en train d’arriver? Ils ont même réussi à introduire un président à eux!
-Ensuite ils introduiront un cardinal et enfin ils investiront tout le cabinet! Que ferez-vous alors?
-   Ensuite ils paieront la dette des Etats-Unis en empruntant l’argent à l’église: alors vous serez
-vendus. Aujourd’hui nous payons nos dettes à l’étranger avec l’argent des impôts qui seront payés
-dans quarante ans! Nous n’avons plus d’argent, c’est l’église qui le possède. La Bible ne dit-elle
-pas qu’elle était couverte d’or?
-   Ils épousent vos filles; leurs filles épousent vos fils et élèvent vos enfants dans le Catholicisme
-et les font ainsi mourir de mort spirituelle. La Bible ne dit-Elle pas qu’Il la jetterait sur un lit de
-tribulation et qu’Il ferait mourir de mort ses enfants? Voyez aussi Apocalypse 17.
+   si vous pouvez la prouver, ce n’est plus la foi. Mais la foi ne connaît que la Parole et la promesse et elle regarde vers des choses que l’oeil ne voit pas. “Or la foi est une ferme assurance des choses qu’on espère, une démonstration de celles qu’on ne voit pas!”. On ne peut pas raisonner, je ne peux pas vous prouver que cela doit se passer comme ceci ou comme cela. Je ne sais pas comment cela se fera. Je ne le sais pas mais je le crois. Je sais que c’est ainsi parce que Dieu l’a dit: cela règle la question. C’est la raison pour laquelle je sais que c’est juste.
+   Je sais que la Parole est vraie! Je sais que ce message est vrai car il est dans la Parole et je vois que le Dieu vivant Se meut au travers d’Elle et la confirme!
+   Nous allons vers un exode, c’est certain. La mort elle-même ne peut ébranler la foi. Un homme peut se tenir face à la mort et proclamer la victoire de la résurrection.
+   Paul a dit: “O mort, où est ta victoire? O mort, où est ton aiguillon?”. Parce que Christ est ressuscité et que ceux qui sont en Christ paraîtront avec Lui à Son avènement. La Parole ne peut changer! Oui, la foi fait de la Parole de Dieu son sanctuaire et son lieu d’éternel repos. Elle repose dans la Parole de Dieu. Si cela ne vous fait rien, je voudrais encore parler un moment. Il nous reste environ vingt-cinq minutes et je voudrais finir d’enregistrer cette bande.
+   Remarquez que ce nouveau roi ne connaissait pas Joseph. Quel fut son premier plan pour détruire la puissance d’Israël? Mettre à mort les enfants! N’est-ce pas vrai? Il essaya de détruire leurs enfants. Maintenant écoutez attentivement.
+   C’est le même démon, sous une forme différente, qui essaya de détruire le Fils unique de Dieu. Vous voyez, il commence par détruire les enfants, arrêtant les choses avant même qu’ils aient pu sortir. Le diable est un gaillard vraiment rusé! Il sait comment frapper quelque chose avant-même que cela ne commence. Il sait comment faire. Et si vous voulez le battre, il n’y a qu’un seul moyen: faire confiance à Christ, vous humilier et Le laisser vous conduire. Vous n’y arriverez jamais autrement.
+   Vous n’y arriverez jamais par votre puissance intellectuelle. Vous devez croire et Lui faire simplement confiance. Il est le bon Berger. CE N’EST PAS L’AFFAIRE DES BREBIS DE GARDER LE LOUP ELOIGNE D’ELLES, C’EST L’AFFAIRE DU BERGER. Mais si elles veulent être en sécurité, les brebis doivent rester avec le berger. Ma zone de sécurité est en Christ, et Christ est la Parole. C’est la zone de sécurité.
+   Remarquez comment le diable s’est manifesté dans la forme de Ramsès, le roi. La première chose qu’il fit fut de se débarrasser des enfants par mort physique; aussitôt que le Fils de Dieu fut né, il quitta l’Egypte parce que Dieu avait détruit l’Egypte, Il l’avait maudite et elle ne s’en est jamais relevée.
+   Ensuite on le trouve à Rome. Satan avait déplacé son siège à Rome. Et quelle est la première chose que le système romain essaya de détruire? Le Fils de Dieu. C’est toujours le même démon!
+   Aujourd’hui c’est pareil: il est venu sous la forme d’un esprit religieux qui se proclame chrétien, mais qui entraîne nos filles à épouser des garçons catholiques et à leur faire élever leurs enfants dans le Catholicisme afin de briser la puissance de l’autre parti. C’est toujours le même démon! C’est ce démon assis sur sept collines et portant une triple couronne. Il est aussi rusé, intelligent et intellectuel que le serpent; c’est la semence du serpent, ce sont les enfants du serpent. Il utilise les mêmes techniques intellectuelles.
+   Deux fois déjà il a fait mourir les enfants. Comment a-t-il fait? Remarquez les nombres deux et trois. Les deux premières fois il a fait mourir les enfants de mort physique. Mais maintenant il prend les enfants pour les faire mourir de mort spirituelle par le moyen des mariages mixtes.
+   Daniel n’a-t-il pas prophétisé la même chose avec ce royaume de fer et d’argile où ils mélangeraient les semences pour essayer de briser la puissance du peuple? N’est-ce pas exactement ce qui est en train d’arriver? Ils ont même réussi à introduire un président à eux! Ensuite ils introduiront un cardinal et enfin ils investiront tout le cabinet! Que ferez-vous alors?
+   Ensuite ils paieront la dette des Etats-Unis en empruntant l’argent à l’église: alors vous serez vendus. Aujourd’hui nous payons nos dettes à l’étranger avec l’argent des impôts qui seront payés dans quarante ans! Nous n’avons plus d’argent, c’est l’église qui le possède. La Bible ne dit-elle pas qu’elle était couverte d’or?
+   Ils épousent vos filles; leurs filles épousent vos fils et élèvent vos enfants dans le Catholicisme et les font ainsi mourir de mort spirituelle. La Bible ne dit-Elle pas qu’Il la jetterait sur un lit de tribulation et qu’Il ferait mourir de mort ses enfants? Voyez aussi Apocalypse 17.
 
         http://www.cmpp.ch
 
@@ -1095,7 +519,7 @@ d’organisation. Il laissait faire les autres à leur guise.
    Il laissa Moïse prendre une femme et avoir un enfant, Guershom. Il vécut là une vie agréable et
 bénie. Mais pendant tout ce temps Dieu l’instruisait et le préparait. Ce que Dieu et Son ennemi
 faisaient chacun de son côté dans les choses naturelles, physiques, ils le font chacun de son côté
-aujourd’hui dans les choses spirituelles.
+taujourd’hui dans les choses spirituelles.
    En ce temps-là ils firent mourir de mort physique, mais maintenant ils font mourir de mort
 spirituelle. En ce temps-là Dieu préparait un homme naturel, Son prophète, à descendre en
 Egypte. Et Satan préparait un Ramsès, un homme naturel; il préparait un homme naturel.
@@ -1481,8 +905,8 @@ voudraient se mettre en route.
 seulement de cette génération entrèrent dans le pays de la promesse. Du temps de Jésus-Christ il
 y en eut cent vingt. Pour ce qui est d’aujourd’hui, du temps de la fin du monde, Tu as dit: “Entrez
 par la porte étroite. Car large est la porte, spacieux est le chemin qui mènent à la perdition, et il y
-en a beaucoup qui entrent par là. Mais étroite est la porte, resserré le chemin qui mènent à la vie,
-et il y en a peu qui les trouvent”.
+a beaucoup qui entrent par là. Mais étroite est la porte, resserré le chemin qui mènent à la vie, et
+il y en a peu qui les trouvent”.
    Ces Paroles ne peuvent mentir: ce sont les Tiennes.
    Je Te prie pour eux, Seigneur. Je Te prie afin qu’en cette heure, par Ton Saint-Esprit, Tu
 circoncises leurs coeurs. Enlève d’eux tout ce qui est du monde. Circoncis leurs oreilles afin qu’ils
@@ -1534,8 +958,6 @@ prendre le Nom de Jésus-Christ et de vivre saintement dès aujourd’hui avec l
 rappelle que ce soir à sept heures et demie, Dieu voulant, je voudrais enregistrer un autre
 message.
    Jusque là, que Dieu vous bénisse!
-
-
 
 
 

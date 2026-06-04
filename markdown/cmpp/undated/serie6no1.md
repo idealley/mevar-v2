@@ -1,509 +1,184 @@
-    SERIE 6, N° 1
+---
+source: "cmpp"
+sermon_id: "serie6no1"
+title: "LE CHOIX D’UNE EPOUSE"
+subtitle: "29 avril 1965, soir"
+date: "1965-04-29"
+year: 1965
+location: "Los Angeles, Californie, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le choix d'une épouse, en utilisant l'histoire d'Isaac et Rebecca comme type de l'Épouse de Christ. Il exhorte à faire des choix sages dans le mariage, l'église et la vie spirituelle, soulignant l'importance de prier et de suivre la volonté de Dieu."
+tags:
+  - "choix"
+  - "épouse"
+  - "mariage"
+  - "église"
+  - "Rebecca"
+  - "Isaac"
+  - "Eliézer"
+persons:
+  - "William Marrion Branham"
+  - "Abraham"
+  - "Isaac"
+  - "Rebecca"
+  - "Eliézer"
+  - "Elie"
+  - "Fred Barker"
+places:
+  - "Los Angeles"
+  - "Californie"
+  - "Alaska"
+  - "Washington"
+  - "Tucson"
+  - "Louisville"
+themes:
+  - "choix"
+  - "mariage"
+  - "épouse de Christ"
+  - "obéissance"
+  - "prière"
+  - "discernement"
+  - "fin des temps"
+pdf_url: "http://cmpp.ch/serie6no1.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Apocalypse 17"
+  - "Hébreux 13"
+  - "Ésaïe 53"
+---
+SERIE 6, N° 1
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
+WILLIAM MARRION BRANHAM
 
 LE CHOIX D’UNE EPOUSE
-  (Choosing A Bride)
+(Choosing A Bride)
 
-
-
-
-      29 avril 1965, soir
-   Biltmore Hotel Auditorium
+29 avril 1965, soir
+Biltmore Hotel Auditorium
 Los Angeles — California, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+LE CHOIX D’UNE EPOUSE
 
+LE CHOIX D’UNE EPOUSE
+(Choosing A Bride)
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    LE CHOIX D’UNE EPOUSE    2
-
-     LE CHOIX D’UNE EPOUSE
-       (Choosing A Bride)
-
-      29 avril 1965, soir
-   Biltmore Hotel Auditorium
+29 avril 1965, soir
+Biltmore Hotel Auditorium
 Los Angeles — Californie, U.S.A.
 
-
-
 1 … Il y a un bon nombre de gens malades, et je ne peux pas aller immédiatement vers tous.
-2 Je suis certainement heureux d’être ici encore ce soir dans cette belle salle et parmi ce
-merveilleux groupe de personnes. Comme nous venions là il y a quelques minutes, les personnes
-se tenant dehors sur la rue ont dit qu’elles ne pouvaient pas entrer. Et j’ai dit: «Eh bien, je peux
-peut-être vous obtenir un peu de place», et ils ne les ont pas laissées descendre. Aussi, je suis
-désolé que nous n’ayons pas assez de place pour eux. Ils ont dit que le sous-sol était plein
-également, et nous en sommes désolés. Mais nous sommes heureux d’être ici et heureux de voir
-ici tous ces groupes de ministres de l’Evangile, d’hommes d’affaires, et vous, délégations des
-différentes parties du pays.
-3 J’ai eu le grand privilège de parler ce matin au petit déjeuner. Je considère certainement
-comme un honneur de pouvoir parler devant de telles précieuses personnes. Et j’étais sur le sujet:
-La balle n’héritera pas avec le blé. Je n’ai pas pu le terminer. Mais ce n’était pas la faute du frère.
-Il a essayé d’obtenir du responsable que nous puissions rester un peu plus longtemps, mais celui-
-ci n’a pas voulu nous l’accorder. Et j’apprécie certainement cela, frère Demos. C’était très, très
-gentil. Je remercie vraiment chacun de vous pour votre gentillesse. Mais ils n’ont pas voulu nous
-laisser faire, alors nous avons simplement dû arrêter. Je reprendrai donc ce sujet une autre fois
-pour le terminer. La balle n’héritera pas avec le blé. Avez-vous compris cela, vous qui étiez là-
-bas? J’espère que j’en ai assez dit pour qu’on le comprenne.
-4 Maintenant, je sais qu’il y aura un forum ce soir [Frère Branham se réfère aux questions et
-réponses concernant le baptême du Saint-Esprit, forum sponsorisé par les Hommes d’Affaires du
-Plein Evangile, et qui a passé à la télévision à Los Angeles en même temps que ce message fût
-prêché — N.d.E.], aussi, je ne veux pas vous garder ici trop longtemps afin que vous ne manquiez
-pas cela, parce que je pense que le forum que nous avons vu l’autre soir est certainement un plus
-pour les croyants pentecôtistes. Un rassemblement de si précieuses personnes et de si
-merveilleuses réponses — allant droit au but. Cela m’a fait me sentir vraiment bien de voir cela et
-j’ai confiance que le Seigneur le bénira ce soir… et que tous ceux qui regarderont puissent croire!
-C’est ma prière sincère.
-5 Nous avons reçu un grand nombre de témoignages aujourd’hui, par la poste et par les appels
-téléphoniques venant de beaucoup de personnes parmi celles qui ont été guéries lors de cette
-réunion. Je suis tellement heureux à cause de cela, de voir les gens malades guéris… C’est en
-quelque sorte mon ministère. Je monte ici pour prêcher, vous savez, je ne suis pas un
-prédicateur, en plus avec ma grammaire du Kentucky — ces expressions et tous ces mots — je
-ne peux pas dire que je suis ce que nous appelons aujourd’hui un prédicateur moderne. Je ne
-pourrais pas prétendre à cette place, parce que je n’ai aucune instruction. Mais j’aime faire
-connaître aux autres ce que je sais ou ce que je ressens à propos de ce que je sais — comment
-je l’ai appris — ce qu’Il est pour moi. Il est toute ma vie, tout ce que je ne pourrais jamais espérer
-être et bien davantage encore que j’aie jamais pu imaginer… J’ai à peine eu un ami sur terre
-quand j’étais un petit garçon! Mais je suis sans aucun doute reconnaissant d’avoir de bons amis
-aujourd’hui.
+2 Je suis certainement heureux d’être ici encore ce soir dans cette belle salle et parmi ce merveilleux groupe de personnes. Comme nous venions là il y a quelques minutes, les personnes se tenant dehors sur la rue ont dit qu’elles ne pouvaient pas entrer. Et j’ai dit: «Eh bien, je peux peut-être vous obtenir un peu de place», et ils ne les ont pas laissées descendre. Aussi, je suis désolé que nous n’ayons pas assez de place pour eux. Ils ont dit que le sous-sol était plein également, et nous en sommes désolés. Mais nous sommes heureux d’être ici et heureux de voir ici tous ces groupes de ministres de l’Evangile, d’hommes d’affaires, et vous, délégations des différentes parties du pays.
+3 J’ai eu le grand privilège de parler ce matin au petit déjeuner. Je considère certainement comme un honneur de pouvoir parler devant de telles précieuses personnes. Et j’étais sur le sujet: La balle n’héritera pas avec le blé. Je n’ai pas pu le terminer. Mais ce n’était pas la faute du frère. Il a essayé d’obtenir du responsable que nous puissions rester un peu plus longtemps, mais celui-ci n’a pas voulu nous l’accorder. Et j’apprécie certainement cela, frère Demos. C’était très, très gentil. Je remercie vraiment chacun de vous pour votre gentillesse. Mais ils n’ont pas voulu nous laisser faire, alors nous avons simplement dû arrêter. Je reprendrai donc ce sujet une autre fois pour le terminer. La balle n’héritera pas avec le blé. Avez-vous compris cela, vous qui étiez là-bas? J’espère que j’en ai assez dit pour qu’on le comprenne.
+4 Maintenant, je sais qu’il y aura un forum ce soir [Frère Branham se réfère aux questions et réponses concernant le baptême du Saint-Esprit, forum sponsorisé par les Hommes d’Affaires du Plein Evangile, et qui a passé à la télévision à Los Angeles en même temps que ce message fût prêché — N.d.E.], aussi, je ne veux pas vous garder ici trop longtemps afin que vous ne manquiez pas cela, parce que je pense que le forum que nous avons vu l’autre soir est certainement un plus pour les croyants pentecôtistes. Un rassemblement de si précieuses personnes et de si merveilleuses réponses — allant droit au but. Cela m’a fait me sentir vraiment bien de voir cela et j’ai confiance que le Seigneur le bénira ce soir… et que tous ceux qui regarderont puissent croire! C’est ma prière sincère.
+5 Nous avons reçu un grand nombre de témoignages aujourd’hui, par la poste et par les appels téléphoniques venant de beaucoup de personnes parmi celles qui ont été guéries lors de cette réunion. Je suis tellement heureux à cause de cela, de voir les gens malades guéris… C’est en quelque sorte mon ministère. Je monte ici pour prêcher, vous savez, je ne suis pas un prédicateur, en plus avec ma grammaire du Kentucky — ces expressions et tous ces mots — je ne peux pas dire que je suis ce que nous appelons aujourd’hui un prédicateur moderne. Je ne pourrais pas prétendre à cette place, parce que je n’ai aucune instruction. Mais j’aime faire connaître aux autres ce que je sais ou ce que je ressens à propos de ce que je sais — comment je l’ai appris — ce qu’Il est pour moi. Il est toute ma vie, tout ce que je ne pourrais jamais espérer être et bien davantage encore que j’aie jamais pu imaginer… J’ai à peine eu un ami sur terre quand j’étais un petit garçon! Mais je suis sans aucun doute reconnaissant d’avoir de bons amis aujourd’hui.
 [Une conversation concernant le système d’annonce au public — N.d.E.]
-6 Maintenant, pour entrer directement dans le service, tournons-nous vers la lecture de
-quelques Ecritures. J’aime toujours lire la Bible parce que c’est la Parole de Dieu. Je crois
-cela et je crois qu’Elle est la Parole infaillible de Dieu. Et maintenant, j’ai quelques Ecritures
-écrites ici et quelques notes auxquelles j’aimerais me référer dans un instant — peut-être pour
+6 Maintenant, pour entrer directement dans le service, tournons-nous vers la lecture de quelques Ecritures. J’aime toujours lire la Bible parce que c’est la Parole de Dieu. Je crois cela et je crois qu’Elle est la Parole infaillible de Dieu. Et maintenant, j’ai quelques Ecritures écrites ici et quelques notes auxquelles j’aimerais me référer dans un instant — peut-être pour quarante-cinq minutes et, alors, nous vous laisserons sortir à temps pour aller voir également ce merveilleux forum ce soir. J’ai confiance que Dieu continuera à vous bénir directement au travers de celui-ci. Je sais ce que vous avez à faire et je suis supposé prendre la route pour Tucson ce soir encore, vous voyez. Ainsi, c’est près de dix heures de route. Imaginez cela! Car comme je partirai outre mer, je dois aller le matin à l’administration pour faire quelques tests relatifs à la fièvre jaune. Je dois y aller. J’ai dû reporter le rendez-vous l’autre jour, et ils ne vont pas accepter à nouveau un «non» comme réponse. Je dois encore avoir une piqûre pour le tétanos, le typhus et les autres rappels.
+7 Aussi, je suis très reconnaissant pour cette opportunité ainsi que pour cette belle réunion que nous avons eue avant la convention. Cela a certainement fait tressaillir mon coeur. Vous êtes un merveilleux rassemblement de personnes et je crois que Dieu va vous bénir. Et quand la grande heure sonnera… Ce grand monstre, se tenant quelque part là-haut et qui s’est secoué en Alaska il y a quelques jours et a frappé de sa queue encore ce matin jusqu’à Washington, pourrait venir jusqu’ici avec une grande facilité. Et si le Saint-Esprit me disait un jour définitivement…
+8 Quelques-uns d’entre vous m’ont demandé ceci: «Est-ce que cela va se passer ici, frère Branham?». Maintenant, je ne sais pas. Je ne le sais pas et jusqu’à ce que je ne le connaisse… C’est la Vérité. J’ai toujours voulu être honnête avec vous. Je ne vais pas juste présumer, prendre quelques idées ou quelques… de ce que je crois ou quelque chose comme cela. Quand je vous dis que cela va arriver… Eh bien, Il doit me le dire d’abord et ensuite je vous le dirai. Je sais que le monde entier est dans une condition chancelante, que nous sommes à la fin des temps. Mais il y a une chose que j’ai essayé d’être…
+9 Frère Shakarian disait ce matin qu’il avait l’habitude d’aller dans les lignes de prière au fond et de prendre les cartes de prières avant que les gens ne se lèvent. Il les regardait et voyait si je leur disais bien ce qui y était écrit. Ils écrivaient toutes sortes de choses sur leurs cartes de prière, vous savez, et il voulait savoir si c’était juste. Il a dit que sur les centaines qu’il avait contrôlées, il n’y avait jamais eu une seule erreur. Il n’y en aura jamais, vous voyez, parce que… aussi longtemps que c’est Dieu. Si jamais je me projette moi-même là-dedans, alors déjà pour commencer cela serait vraiment faux.
+10 Une petite fille, dont le père est assis et m’écoute maintenant, est venue il n’y a pas bien longtemps. Elle avait eu un rêve. Elle a dit: «Frère Branham, qu’est-ce que ce rêve signifie?».
+11 J’ai dit: «Je ne le sais pas, soeur. Je dois d’abord chercher si le Seigneur veut bien me le dire». Aussi, je suis allé et ai essayé de le demander au Seigneur. Il ne me l’a jamais dit. Ainsi quand la petite fille est revenue, elle a dit: «Eh bien maintenant, quelle est l’interprétation de mon rêve?».
+12 J’ai dit: «Viens ici, ma petite, et assieds-toi». J’ai dit: «Ton père et ta mère sont vraiment de bons amis, retraités, et ils ont fait tout le chemin depuis le Canada et ont séjourné avec moi. Ils ont cru ce que j’essaie de dire et je n’ai jamais rien dit de faux volontairement à quelqu’un de ma vie. Je pense que je sais ce que le rêve veut dire, mais à moins que je voie le rêve moi-même et qu’Il me dise alors ce qu’il signifie, je ne peux pas te le dire! Vous voyez, si j’imaginais simplement quelque chose… il pourrait y avoir un temps où, entre la vie et la mort vous auriez besoin de moi, alors vous ne sauriez pas si vous devriez me croire ou non».
+13 Si je vous dis quelque chose au Nom du Seigneur, c’est véritablement Lui qui me l’a dit. Et jusqu’à aujourd’hui, durant toutes ces années à travers et autour du monde, cela n’a jamais été faux une seule fois. Maintenant, vous savez qu’un être humain ne peut pas être si infaillible que cela. Il a besoin de l’Esprit de Dieu pour faire cela.
+14 Et maintenant, j’ai un Message dont je suis tenu pour responsable. Et bien des fois, j’ai été considéré parmi les gens (peut-être par quelqu’un qui ne s’est pas assis pour réfléchir une minute) comme un affreux individu, qui n’aimait personne et qui les reprenait toujours. Ce n’est pas vrai. Ce n’est pas vrai. J’aime les gens. Mais vous savez, l’amour est correctif.
+15 Si votre petit garçon était assis là-bas dans la rue et que vous disiez: «Cher petit, je ne veux pas que tu ailles là-bas, mais…». Avec les autos passant tout près de lui, vous iriez le chercher et s’il courait à nouveau là-bas, alors, vous devriez le corriger. Si vous l’aimiez, vous le feriez.
+16 Si vous voyiez un homme dans un petit bateau qui se dirige vers les chutes et si vous saviez que le bateau coulerait lorsqu’il les atteindrait, diriez-vous: «John, peut-être que tu devrais réfléchir un instant. Peut-être que tu ne devrais pas le faire?». Si je sais qu’il ne va pas le faire, je le sortirais plutôt brusquement du bateau, si je le peux, car c’est l’amour qui fait cela.
+17 Et maintenant, dans tous ces messages que je prêche, je n’essaie jamais d’apporter quelque doctrine ou autre. Je fais cela dans ma propre église, mais ici, parmi les hommes et les femmes qui sont de diverses dénominations et qui ont des idées différentes, j’essaie juste de prendre ces prédications dans une forme douce et de les expliquer suffisamment. Si vous êtes nés de l’Esprit de Dieu, chrétiens, méthodistes, baptistes, presbytériens et autres, je crois que vous comprendrez ce que je veux dire.
+18 Maintenant ce soir, je veux aller dans Genèse, au chapitre 24. Je veux commencer à lire depuis le verset 12 du chapitre 24 de la Genèse:
 
-    http://www.cmpp.ch
+> “Et il dit: Eternel, Dieu de mon seigneur Abraham, fais-moi faire, je te prie, une heureuse rencontre aujourd’hui et use de grâce envers mon seigneur Abraham. Voici, je me tiens près de la fontaine d’eau, et les filles des gens de la ville sortent pour puiser de l’eau; qu’il arrive donc que la jeune fille à laquelle je dirai: Abaisse ta cruche, je te prie, afin que je boive, et qui dira: Bois, et j’abreuverai aussi tes chameaux, soit celle que tu as destinée à ton serviteur, à Isaac; et à cela je connaîtrai que tu as usé de grâce envers mon seigneur”.
 
-LE CHOIX D’UNE EPOUSE 3
-quarante-cinq minutes et, alors, nous vous laisserons sortir à temps pour aller voir également ce
-merveilleux forum ce soir. J’ai confiance que Dieu continuera à vous bénir directement au travers
-de celui-ci. Je sais ce que vous avez à faire et je suis supposé prendre la route pour Tucson ce
-soir encore, vous voyez. Ainsi, c’est près de dix heures de route. Imaginez cela! Car comme je
-partirai outre mer, je dois aller le matin à l’administration pour faire quelques tests relatifs à la
-fièvre jaune. Je dois y aller. J’ai dû reporter le rendez-vous l’autre jour, et ils ne vont pas accepter
-à nouveau un «non» comme réponse. Je dois encore avoir une piqûre pour le tétanos, le typhus et
-les autres rappels.
-7 Aussi, je suis très reconnaissant pour cette opportunité ainsi que pour cette belle réunion que
-nous avons eue avant la convention. Cela a certainement fait tressaillir mon coeur. Vous êtes un
-merveilleux rassemblement de personnes et je crois que Dieu va vous bénir. Et quand la grande
-heure sonnera… Ce grand monstre, se tenant quelque part là-haut et qui s’est secoué en Alaska il
-y a quelques jours et a frappé de sa queue encore ce matin jusqu’à Washington, pourrait venir
-jusqu’ici avec une grande facilité. Et si le Saint-Esprit me disait un jour définitivement…
-8 Quelques-uns d’entre vous m’ont demandé ceci: «Est-ce que cela va se passer ici, frère
-Branham?». Maintenant, je ne sais pas. Je ne le sais pas et jusqu’à ce que je ne le connaisse…
-C’est la Vérité. J’ai toujours voulu être honnête avec vous. Je ne vais pas juste présumer, prendre
-quelques idées ou quelques… de ce que je crois ou quelque chose comme cela. Quand je vous
-dis que cela va arriver… Eh bien, Il doit me le dire d’abord et ensuite je vous le dirai. Je sais
-que le monde entier est dans une condition chancelante, que nous sommes à la fin des temps.
-Mais il y a une chose que j’ai essayé d’être…
-9 Frère Shakarian disait ce matin qu’il avait l’habitude d’aller dans les lignes de prière au fond
-et de prendre les cartes de prières avant que les gens ne se lèvent. Il les regardait et voyait si je
-leur disais bien ce qui y était écrit. Ils écrivaient toutes sortes de choses sur leurs cartes de prière,
-vous savez, et il voulait savoir si c’était juste. Il a dit que sur les centaines qu’il avait contrôlées, il
-n’y avait jamais eu une seule erreur. Il n’y en aura jamais, vous voyez, parce que… aussi
-longtemps que c’est Dieu. Si jamais je me projette moi-même là-dedans, alors déjà pour
-commencer cela serait vraiment faux.
-10 Une petite fille, dont le père est assis et m’écoute maintenant, est venue il n’y a pas bien
-longtemps. Elle avait eu un rêve. Elle a dit: «Frère Branham, qu’est-ce que ce rêve signifie?».
-11 J’ai dit: «Je ne le sais pas, soeur. Je dois d’abord chercher si le Seigneur veut bien me le
-dire». Aussi, je suis allé et ai essayé de le demander au Seigneur. Il ne me l’a jamais dit. Ainsi
-quand la petite fille est revenue, elle a dit: «Eh bien maintenant, quelle est l’interprétation de mon
-rêve?».
-12 J’ai dit: «Viens ici, ma petite, et assieds-toi». J’ai dit: «Ton père et ta mère sont vraiment de
-bons amis, retraités, et ils ont fait tout le chemin depuis le Canada et ont séjourné avec moi. Ils ont
-cru ce que j’essaie de dire et je n’ai jamais rien dit de faux volontairement à quelqu’un de ma vie.
-Je pense que je sais ce que le rêve veut dire, mais à moins que je voie le rêve moi-même et qu’Il
-me dise alors ce qu’il signifie, je ne peux pas te le dire! Vous voyez, si j’imaginais simplement
-quelque chose… il pourrait y avoir un temps où, entre la vie et la mort vous auriez besoin de moi,
-alors vous ne sauriez pas si vous devriez me croire ou non».
-13 Si je vous dis quelque chose au Nom du Seigneur, c’est véritablement Lui qui me l’a dit. Et
-jusqu’à aujourd’hui, durant toutes ces années à travers et autour du monde, cela n’a jamais été
-faux une seule fois. Maintenant, vous savez qu’un être humain ne peut pas être si infaillible que
-cela. Il a besoin de l’Esprit de Dieu pour faire cela.
-14 Et maintenant, j’ai un Message dont je suis tenu pour responsable. Et bien des fois, j’ai
-été considéré parmi les gens (peut-être par quelqu’un qui ne s’est pas assis pour réfléchir une
-minute) comme un affreux individu, qui n’aimait personne et qui les reprenait toujours. Ce n’est
-pas vrai. Ce n’est pas vrai. J’aime les gens. Mais vous savez, l’amour est correctif.
-15 Si votre petit garçon était assis là-bas dans la rue et que vous disiez: «Cher petit, je ne veux
-pas que tu ailles là-bas, mais…». Avec les autos passant tout près de lui, vous iriez le chercher et
-s’il courait à nouveau là-bas, alors, vous devriez le corriger. Si vous l’aimiez, vous le feriez.
+19 Et ensuite dans le livre de l’Apocalypse… La Genèse est le premier livre de la Bible. Maintenant, dans le dernier livre de la Bible, je veux lire dans le chapitre 21 de l’Apocalypse, au verset 9. Nous connaissons ce que cette Ecriture de la Genèse ici… Vous pouvez lire tout le chapitre si vous le désirez. C’est Dieu qui envoie Eliézer… ou Abraham qui envoie Eliézer, pardonnez-moi, afin de choisir une épouse pour Isaac. Et la belle Rebecca est venue, et elle était la réponse parfaite à la prière qu’Eliézer, le serviteur d’Abraham, venait de faire. Maintenant, au verset 9 du chapitre 21 de l’Apocalypse:
 
-        http://www.cmpp.ch
+> “Et l’un des sept anges qui avaient eu les sept coupes pleines des sept dernières plaies, vint et me parla, disant: Viens ici, je te montrerai l’épouse, la femme de l’Agneau”.
 
-LE CHOIX D’UNE EPOUSE 4
-16 Si vous voyiez un homme dans un petit bateau qui se dirige vers les chutes et si vous saviez
-que le bateau coulerait lorsqu’il les atteindrait, diriez-vous: «John, peut-être que tu devrais réfléchir
-un instant. Peut-être que tu ne devrais pas le faire?». Si je sais qu’il ne va pas le faire, je le
-sortirais plutôt brusquement du bateau, si je le peux, car c’est l’amour qui fait cela.
-17 Et maintenant, dans tous ces messages que je prêche, je n’essaie jamais d’apporter
-quelque doctrine ou autre. Je fais cela dans ma propre église, mais ici, parmi les hommes et les
-femmes qui sont de diverses dénominations et qui ont des idées différentes, j’essaie juste de
-prendre ces prédications dans une forme douce et de les expliquer suffisamment. Si vous êtes
-nés de l’Esprit de Dieu, chrétiens, méthodistes, baptistes, presbytériens et autres, je crois que
-vous comprendrez ce que je veux dire.
-18 Maintenant ce soir, je veux aller dans Genèse, au chapitre 24. Je veux commencer à lire
-depuis le verset 12 du chapitre 24 de la Genèse:
-        “Et il dit: Eternel, Dieu de mon seigneur Abraham, fais-moi faire, je te prie, une
-     heureuse rencontre aujourd’hui et use de grâce envers mon seigneur Abraham. Voici, je
-     me tiens près de la fontaine d’eau, et les filles des gens de la ville sortent pour puiser de
-     l’eau; qu’il arrive donc que la jeune fille à laquelle je dirai: Abaisse ta cruche, je te prie,
-     afin que je boive, et qui dira: Bois, et j’abreuverai aussi tes chameaux, soit celle que tu as
-     destinée à ton serviteur, à Isaac; et à cela je connaîtrai que tu as usé de grâce envers
-     mon seigneur”.
-19 Et ensuite dans le livre de l’Apocalypse… La Genèse est le premier livre de la Bible.
-Maintenant, dans le dernier livre de la Bible, je veux lire dans le chapitre 21 de l’Apocalypse, au
-verset 9. Nous connaissons ce que cette Ecriture de la Genèse ici… Vous pouvez lire tout le
-chapitre si vous le désirez. C’est Dieu qui envoie Eliézer… ou Abraham qui envoie Eliézer,
-pardonnez-moi, afin de choisir une épouse pour Isaac. Et la belle Rebecca est venue, et elle était
-la réponse parfaite à la prière qu’Eliézer, le serviteur d’Abraham, venait de faire. Maintenant, au
-verset 9 du chapitre 21 de l’Apocalypse:
-        “Et l’un des sept anges qui avaient eu les sept coupes pleines des sept dernières
-     plaies, vint et me parla, disant: Viens ici, je te montrerai l’épouse, la femme de l’Agneau”.
-20 Maintenant, j’ai tiré de cela un sujet pour ce soir: Le choix d’une Epouse. Et cela c’est… Si
-mon frère en charge de l’enregistrement veut… C’est la bande magnétique avec laquelle vous
-pouvez aller de l’avant pour la distribution.
-21 Et maintenant, cela ne veut pas exactement dire que je parle uniquement à l’assemblée
-présente ici, car ces bandes magnétiques vont partout à travers le monde. Elles sont traduites
-pratiquement — oh, dans un grand nombre de langues, même dans celles des pays païens autour
-du monde. On envoie ces bandes gratuitement à des associations d’églises; elles sont traduites
-pour les gens des jungles de l’Afrique et de l’Inde et elles vont partout dans le monde.
-22 Maintenant: Le choix d’une Epouse. Dans bien des choses de la vie, nous sommes placés
-devant des choix. La manière de vivre est un choix en lui-même. Nous avons le droit de faire
-notre propre chemin, de choisir notre propre chemin, celui dans lequel nous voulons vivre.
-L’éducation est un choix. Nous pouvons choisir si nous voulons recevoir une éducation ou non.
-C’est un choix que nous avons, que ce soit juste ou faux, c’est un choix. Chaque homme,
-chaque femme, garçon ou fille doit choisir s’il veut vivre correctement ou ne pas vivre
-correctement. C’est un choix. Le choix est une grande chose.
-23 Votre destination éternelle est un choix et peut-être quelques-uns d’entre vous vont faire ce
-choix ce soir, avant la fin du service, de l’endroit où ils passeront l’éternité. Il y aura une fois… Si
-vous refusez Dieu à plusieurs reprises, il y aura une fois où vous Le refuserez pour la
-dernière fois. Il y a une ligne entre la miséricorde et le jugement et c’est une chose dangereuse
-pour un homme ou une femme, un garçon ou une fille, de passer au-delà de cette ligne, car il n’y
-a pas de retour possible lorsque que vous franchissez cette ligne de mort. Aussi ce soir, cela
-pourrait être le temps où beaucoup d’entre vous vont prendre leur décision concernant l’endroit où
-ils passeront l’éternité qui n’a pas de fin.
-24 Il y a un autre choix à faire dans la vie. C’est celui de son compagnon pour la vie. Un jeune
-homme ou une jeune femme qui entre dans la vie a un… Il lui a été donné un droit de faire un
+20 Maintenant, j’ai tiré de cela un sujet pour ce soir: Le choix d’une Epouse. Et cela c’est… Si mon frère en charge de l’enregistrement veut… C’est la bande magnétique avec laquelle vous pouvez aller de l’avant pour la distribution.
+21 Et maintenant, cela ne veut pas exactement dire que je parle uniquement à l’assemblée présente ici, car ces bandes magnétiques vont partout à travers le monde. Elles sont traduites pratiquement — oh, dans un grand nombre de langues, même dans celles des pays païens autour du monde. On envoie ces bandes gratuitement à des associations d’églises; elles sont traduites pour les gens des jungles de l’Afrique et de l’Inde et elles vont partout dans le monde.
+22 Maintenant: Le choix d’une Epouse. Dans bien des choses de la vie, nous sommes placés devant des choix. La manière de vivre est un choix en lui-même. Nous avons le droit de faire notre propre chemin, de choisir notre propre chemin, celui dans lequel nous voulons vivre. L’éducation est un choix. Nous pouvons choisir si nous voulons recevoir une éducation ou non. C’est un choix que nous avons, que ce soit juste ou faux, c’est un choix. Chaque homme, chaque femme, garçon ou fille doit choisir s’il veut vivre correctement ou ne pas vivre correctement. C’est un choix. Le choix est une grande chose.
+23 Votre destination éternelle est un choix et peut-être quelques-uns d’entre vous vont faire ce choix ce soir, avant la fin du service, de l’endroit où ils passeront l’éternité. Il y aura une fois… Si vous refusez Dieu à plusieurs reprises, il y aura une fois où vous Le refuserez pour la dernière fois. Il y a une ligne entre la miséricorde et le jugement et c’est une chose dangereuse pour un homme ou une femme, un garçon ou une fille, de passer au-delà de cette ligne, car il n’y a pas de retour possible lorsque que vous franchissez cette ligne de mort. Aussi ce soir, cela pourrait être le temps où beaucoup d’entre vous vont prendre leur décision concernant l’endroit où ils passeront l’éternité qui n’a pas de fin.
+24 Il y a un autre choix à faire dans la vie. C’est celui de son compagnon pour la vie. Un jeune homme ou une jeune femme qui entre dans la vie a un… Il lui a été donné un droit de faire un choix. Le jeune homme choisit, la jeune femme a le droit d’accepter ou de refuser, mais c’est toujours un choix des deux côtés; tous les deux, homme et femme, ont le droit de choisir.
+25 En tant que chrétien, vous avez aussi un choix. Ici, en Amérique, vous avez le choix d’aller à l’église, pour autant que je le sache. Cela est votre propre privilège d’Américain de choisir n’importe quelle église, celle à laquelle vous désirez appartenir. Cela est un choix. Vous n’avez pas besoin d’aller dans aucune d’elles si vous ne le voulez pas. Mais si vous voulez changer de l’église méthodiste à la baptiste, ou de la catholique vers une église protestante et ainsi de suite, il n’y a personne qui puisse vous dire quelque chose ou vous forcer à aller dans une certaine église. C’est notre liberté. C’est ce qu’est notre démocratie. Chaque homme peut choisir pour lui-même — liberté de religion — et cela c’est une grande chose. Dieu, aide-nous à garder cela aussi longtemps que nous le pouvons.
+26 Vous avez aussi un choix… Quand vous choisissez cette église, vous pouvez choisir celle qui vous guidera vers votre destination éternelle. Vous pouvez choisir une église qui a un certain credo — dont vous pensez que ce credo est exactement ce que vous voulez; ou une autre église qui a également son credo. Et ensuite, vous avez le choix de la Parole de Dieu. Vous devez faire votre choix. Il y a parmi nous une loi non écrite concernant le choix.
+27 Je crois que c’était Elie, une fois au Mont Carmel, après le dénouement survenu à l’heure la plus forte de la crise, comme celle vers laquelle nous allons tout droit maintenant… Peut-être que c’est pour moi ou pour vous ce soir, que nous avons à faire ce choix comme l’expérience au Mont Carmel. Franchement, je pense que cela va être au niveau mondial maintenant.
+28 Mais il y aura bientôt un temps où vous aurez un choix à faire. Vous ici, hommes des églises dénominationnelles, croyez simplement ceci: que cette heure-là arrivera droit sur vous lorsque vous serez sur le point de faire le choix. Ou vous irez dans le Concile Mondial ou vous ne serez plus jamais une dénomination. Vous aurez à le faire et ce choix vient bientôt. Et c’est aussi une chose dangereuse que d’attendre jusqu’à la dernière minute, parce que vous pourriez attraper quelque chose dont vous ne pourriez plus jamais vous débarrasser. Vous savez, il y a un temps où vous pouvez être encore avertis, ensuite, si vous franchissez cette ligne d’avertissement, alors vous êtes déjà marqués de l’autre côté — marqués au fer.
+29 Rappelez-vous que quand venait l’Année du Jubilé, le prêtre passait annonçant de sa trompette que chaque esclave pouvait s’en aller libre, mais que s’il refusait d’accepter sa liberté, alors il devait être amené au temple vers un poteau, un poinçon lui perçait l’oreille et alors, il devait servir son maître pour toujours. Et cela lui était mis, comme une sorte de boucle d’oreille. La foi vient de ce que l’on entend. Il avait entendu la trompette, mais il n’avait pas voulu l’écouter.
+30 Et bien des fois, les hommes et les femmes entendent la Vérité de Dieu et voient la Vérité justifiée et prouvée, mais ils ne veulent pas L’écouter. Il y a quelque autre raison. Il y a un autre choix qu’ils ont fait, plutôt que de faire face à la Vérité et aux faits. C’est pourquoi, leurs oreilles peuvent être fermées à l’Evangile. Ils ne L’entendront plus jamais. Mon conseil pour vous c’est que quand Dieu parle à votre coeur, agissez exactement à ce moment-là.
+31 Elie leur avait donné un choix qu’ils devaient faire: “Choisissez en ce jour, qui vous servirez! Si Dieu est Dieu, servez-Le; mais si Baal est Dieu, servez-le”.
+32 Maintenant, nous voyons que les choses naturelles sont un type des choses spirituelles dont nous avons parlé au travers de notre leçon ce matin — comme le soleil et sa nature.
+33 Ça, c’était ma première Bible. Avant que j’aie jamais lu une page dans la Bible, je connaissais Dieu. Parce que la Bible est écrite partout dans la nature et elle correspond exactement avec la Parole de Dieu: comme la mort, l’ensevelissement et la résurrection de cette nature, le lever du soleil, sa course, son coucher, sa disparition, son lever à nouveau — il y a tellement de choses dans la nature avec lesquelles nous pourrions typifier Dieu, mais que nous devons laisser de côté pour ce message.
+34 Maintenant, si le spirituel… ou le naturel est un type du spirituel, alors le choix d’une épouse dans le naturel est un type du choix de l’Epouse dans le spirituel.
+35 Maintenant, c’est une chose sérieuse quand nous choisissons une femme, un homme… parce que le voeu reste valable jusqu’à ce que la mort nous sépare. C’est comme cela que nous devrions le garder. Et vous faites ce voeu devant Dieu: que seule la mort vous séparera. Je pense que nous devrions… Un homme ayant toute sa tête et qui planifie un futur devrait choisir cette femme très soigneusement; soyez prudents dans ce que vous faites. Et une femme qui choisit un mari, ou qui accepte le choix d’un mari, devrait être vraiment prudente dans ce qu’elle fait, spécialement en ces jours. Un homme devrait penser et prier avant de choisir une femme.
+36 Je crois qu’aujourd’hui, la cause de bien des divorces… En Amérique, nous sommes en tête des cas de divorce. Nous conduisons le reste du monde. Il y a plus de divorces ici dans cette nation que n’importe où ailleurs. Et elle est supposée être et est considérée comme une nation chrétienne. Quel reproche sont pour nous ces tribunaux de divorce! Je crois que la raison de cela est que l’homme et la femme se sont éloignés de Dieu.
+37 Et nous trouvons que si un homme a prié et que si une femme a prié à ce sujet, ils devraient regarder d’abord à Dieu et dire: «Dieu, est-ce que ceci est Ton plan?» et ne pas uniquement regarder à de beaux yeux ou à de solides épaules ou à quelque chose comme cela ou à d’autres attachements du monde.
+38 Je pense qu’aujourd’hui il y a beaucoup de tricherie, exactement comme à l’école. Lorsque parfois le matin, les enfants viennent vers moi… Bien des enfants du voisinage (de mes amis) viennent et disent: «Frère Branham, voulez-vous prier pour nous? Nous avons un test aujourd’hui. J’ai travaillé toute la nuit et il me semble que je ne sois pas au point. Priez pour moi». Je pense que n’importe quel écolier… avec les parents le matin à table, pourrait dire: «Maman, John a un test aujourd’hui; prions pour lui maintenant», je crois que cela serait… Autrement, tout ce que vous auriez à faire, serait de regarder sur le papier de quelqu’un d’autre et tricher. Je crois que vous devriez juste sortir et prier sur ce sujet…
+39 Et si nous voulions étudier ce que nous faisons lorsque nous voulons nous marier, lorsque nous choisissons notre femme ou notre mari… Un homme devrait prier sérieusement car il pourrait ruiner sa vie entière. Rappelez-vous que le voeu est: «jusqu’à ce que la mort nous sépare». Et il pourrait ruiner sa vie en faisant le mauvais choix et en mariant une femme qui n’est pas faite pour être sa femme. S’il le fait malgré tout, c’est sa faute. Si la femme prend un mari et sait qu’il n’est pas fait pour elle, alors c’est sa propre faute sachant ce qui est juste et faux. Aussi, vous ne devriez pas le faire avant d’avoir prié consciencieusement.
+40 La même chose s’applique lors du choix d’une église. Maintenant, vous devez prier pour l’église avec laquelle vous avez communion. Rappelez-vous que les églises ont des esprits. Maintenant, je ne veux pas être critique, mais je réalise que je suis un vieil homme et que je dois quitter ce monde ici-bas un de ces jours. Je dois répondre au jour du jugement de ce que j’ai dit ce soir ou à tout autre moment… C’est pourquoi je dois être absolument sérieux et sincèrement convaincu. Mais si vous allez dans une église, et si vous vouliez observer le comportement de cette église, observez simplement le pasteur et vous trouverez généralement que l’église agit comme le pasteur.
+41 Parfois, je me demande si nous ne recevons pas simplement un autre esprit à la place du Saint-Esprit. Vous allez dans un endroit où un pasteur est un véritable radical, vous trouverez que l’assemblée est dans la même voie. Je peux vous amener dans une église où j’ai vu le pasteur qui se tenait debout et balançait sa tête en arrière et en avant. Vous observez l’assemblée; ils font la même chose. Vous prenez un pasteur qui fait tout au galop, en principe, l’église fait la même chose. Aussi, si je devais choisir une église, si je devais choisir une église pour y mettre ma famille, j’en choisirais une véritable, fondamentale, avec les principes du plein Evangile biblique.
+42 Choisis… Je regardais… Les garçons l’autre jour (le fils de frère Shakarian et son beau-fils) sont venus me chercher ici pour prier pour un jeune homme, un chanteur, un dandy — Fred Barker, c’était son nom — qui était tout juste revenu d’un voyage et ils m’ont appelé au téléphone pour me dire que Fred était mourant et avant que j’entre dans la maison, un autre message est arrivé: «Il pourrait être mort maintenant». Et ils ont dit qu’il avait eu une hémorragie cérébrale, qu’il était paralysé et qu’il était mourant; et sa femme voulait que je prie pour lui.
+43 J’ai pensé: «Si j’essaie de prendre l’avion, il sera mort avant que j’arrive là-bas et il pourrait être mort maintenant». Aussi, j’ai appelé rapidement et j’ai eu la petite dame au téléphone et nous avons placé le téléphone à l’oreille de Fred. Il ne pouvait pas avaler. Ils le nourrissaient artificiellement à l’aide d’un tuyau. Et quand nous avons prié pour lui, il fit un signe pour qu’on le retire de sa gorge! Il pouvait avaler. Les docteurs ne le croyaient pas, mais ils l’ont enlevé et il pouvait avaler. Et l’autre jour, il se tenait assis.
+44 Une église, choisir une église. J’ai reçu un coup de fil, il y a un moment ce matin. Un membre de mon église, une véritable femme baptiste de Louisville, elle est morte de bonne heure ce matin. Et les anciens de mon église, un véritable groupe d’hommes consacrés de mon église, se sont rassemblés et sont descendus avant que les hommes des pompes funèbres ne l’embaument. Ils se sont tenus devant elle et ont prié jusqu’à ce que la vie revienne en elle et aujourd’hui, elle vit. Pourquoi? Parce qu’ils ont été enseigné à croire que toutes ces choses sont possibles. Venez à Dieu sincèrement. Aussi, vous devez faire le bon choix.
+45 A nouveau, le genre de femme qu’un homme choisira reflètera son ambition et son caractère. Si un homme choisit la mauvaise femme, cela reflètera son caractère. Et ce à quoi il s’attache montre véritablement ce qui est en lui. Une femme reflète ce qui est dans l’homme qui la choisit pour épouse. Cela montre ce qui est au fond de lui. Ce qu’il dit à l’extérieur n’a aucune importance, observez qui il marie.
 
-        http://www.cmpp.ch
+46 Si je vais dans le bureau d’un homme qui se dit être chrétien — des pin-ups partout sur les murs avec cette vieille musique de boogie-woogie — je ne prête aucune attention à ce qu’il dit; je ne crois pas son témoignage, parce que son esprit est nourri des choses du monde. Que dire s’il mariait une fille choriste, ou s’il mariait une reine du sexe ou juste une jolie et moderne Ricketta? Cela reflète, cela montre ce qu’il a dans son esprit, quel sera son futur foyer parce qu’il la prend pour élever ses enfants, et qu’importe ce qu’elle est, c’est la manière dont elle élèvera ses enfants. Ainsi, cela reflète ce qui est dans l’homme. Un homme qui prend une femme comme cela montre simplement ce qu’il pense de l’avenir. Pouvez-vous imaginer un chrétien faisant une chose pareille? Non, certainement pas. Un véritable chrétien ne regarde pas à de telles reines de beauté, choristes et reines du sexe. Il cherchera un caractère chrétien.
 
-LE CHOIX D’UNE EPOUSE 5
-choix. Le jeune homme choisit, la jeune femme a le droit d’accepter ou de refuser, mais c’est
-toujours un choix des deux côtés; tous les deux, homme et femme, ont le droit de choisir.
-25 En tant que chrétien, vous avez aussi un choix. Ici, en Amérique, vous avez le choix d’aller à
-l’église, pour autant que je le sache. Cela est votre propre privilège d’Américain de choisir
-n’importe quelle église, celle à laquelle vous désirez appartenir. Cela est un choix. Vous n’avez
-pas besoin d’aller dans aucune d’elles si vous ne le voulez pas. Mais si vous voulez changer de
-l’église méthodiste à la baptiste, ou de la catholique vers une église protestante et ainsi de suite, il
-n’y a personne qui puisse vous dire quelque chose ou vous forcer à aller dans une certaine église.
-C’est notre liberté. C’est ce qu’est notre démocratie. Chaque homme peut choisir pour lui-
-même — liberté de religion — et cela c’est une grande chose. Dieu, aide-nous à garder cela
-aussi longtemps que nous le pouvons.
-26 Vous avez aussi un choix… Quand vous choisissez cette église, vous pouvez choisir celle qui
-vous guidera vers votre destination éternelle. Vous pouvez choisir une église qui a un certain
-credo — dont vous pensez que ce credo est exactement ce que vous voulez; ou une autre église
-qui a également son credo. Et ensuite, vous avez le choix de la Parole de Dieu. Vous devez
-faire votre choix. Il y a parmi nous une loi non écrite concernant le choix.
-27 Je crois que c’était Elie, une fois au Mont Carmel, après le dénouement survenu à l’heure la
-plus forte de la crise, comme celle vers laquelle nous allons tout droit maintenant… Peut-être que
-c’est pour moi ou pour vous ce soir, que nous avons à faire ce choix comme l’expérience au Mont
-Carmel. Franchement, je pense que cela va être au niveau mondial maintenant.
-28 Mais il y aura bientôt un temps où vous aurez un choix à faire. Vous ici, hommes des églises
-dénominationnelles, croyez simplement ceci: que cette heure-là arrivera droit sur vous lorsque
-vous serez sur le point de faire le choix. Ou vous irez dans le Concile Mondial ou vous ne
-serez plus jamais une dénomination. Vous aurez à le faire et ce choix vient bientôt. Et c’est
-aussi une chose dangereuse que d’attendre jusqu’à la dernière minute, parce que vous pourriez
-attraper quelque chose dont vous ne pourriez plus jamais vous débarrasser. Vous savez, il y a un
-temps où vous pouvez être encore avertis, ensuite, si vous franchissez cette ligne
-d’avertissement, alors vous êtes déjà marqués de l’autre côté — marqués au fer.
-29 Rappelez-vous que quand venait l’Année du Jubilé, le prêtre passait annonçant de sa
-trompette que chaque esclave pouvait s’en aller libre, mais que s’il refusait d’accepter sa liberté,
-alors il devait être amené au temple vers un poteau, un poinçon lui perçait l’oreille et alors, il devait
-servir son maître pour toujours. Et cela lui était mis, comme une sorte de boucle d’oreille. La foi
-vient de ce que l’on entend. Il avait entendu la trompette, mais il n’avait pas voulu l’écouter.
-30 Et bien des fois, les hommes et les femmes entendent la Vérité de Dieu et voient la Vérité
-justifiée et prouvée, mais ils ne veulent pas L’écouter. Il y a quelque autre raison. Il y a un autre
-choix qu’ils ont fait, plutôt que de faire face à la Vérité et aux faits. C’est pourquoi, leurs oreilles
-peuvent être fermées à l’Evangile. Ils ne L’entendront plus jamais. Mon conseil pour vous c’est
-que quand Dieu parle à votre coeur, agissez exactement à ce moment-là.
-31 Elie leur avait donné un choix qu’ils devaient faire: “Choisissez en ce jour, qui vous servirez!
-Si Dieu est Dieu, servez-Le; mais si Baal est Dieu, servez-le”.
-32 Maintenant, nous voyons que les choses naturelles sont un type des choses spirituelles dont
-nous avons parlé au travers de notre leçon ce matin — comme le soleil et sa nature.
-33 Ça, c’était ma première Bible. Avant que j’aie jamais lu une page dans la Bible, je connaissais
-Dieu. Parce que la Bible est écrite partout dans la nature et elle correspond exactement avec la
-Parole de Dieu: comme la mort, l’ensevelissement et la résurrection de cette nature, le lever du
-soleil, sa course, son coucher, sa disparition, son lever à nouveau — il y a tellement de choses
-dans la nature avec lesquelles nous pourrions typifier Dieu, mais que nous devons laisser de côté
-pour ce message.
-34 Maintenant, si le spirituel… ou le naturel est un type du spirituel, alors le choix d’une
-épouse dans le naturel est un type du choix de l’Epouse dans le spirituel.
-35 Maintenant, c’est une chose sérieuse quand nous choisissons une femme, un homme…
-parce que le voeu reste valable jusqu’à ce que la mort nous sépare. C’est comme cela que
+47 Maintenant, vous ne pouvez pas tout avoir. Il pourrait y avoir une fille qui est vraiment jolie, et une autre qui peut-être est… son physique paraît plus beau que celle-là. Et vous pourriez avoir à sacrifier l’une pour l’autre. Mais si elle n’a pas la stature d’une dame, d’une femme et si… Peu m’importe si elle est jolie ou non, vous feriez mieux de regarder à son caractère plutôt que de regarder si elle est jolie ou non.
 
-        http://www.cmpp.ch
+48 Maintenant… parce que si un chrétien doit choisir une femme, il devrait choisir une véritable femme née de nouveau; indépendamment de son apparence, c’est ce qu’elle est qui la fait. Et alors à nouveau, cela reflète son propre caractère pieux et reflète ce qui est dans son esprit et ce que son futur sera pour sa famille — élevée par une telle femme — ce que seront ses plans d’avenir pour son foyer. S’il marie une de ces modernes Rickettas, reines du sexe, que peut-il en attendre? Quelle sorte de foyer un tel homme peut-il penser avoir? S’il marie une fille qui n’a pas assez de morale elle-même pour rester à la maison et prendre soin de son foyer et qui veut travailler dans le bureau de quelqu’un, quelle sorte de ménagère sera-t-elle? Vous aurez des baby-sitters et ainsi de suite. C’est vrai.
 
-LE CHOIX D’UNE EPOUSE 6
-nous devrions le garder. Et vous faites ce voeu devant Dieu: que seule la mort vous séparera. Je
-pense que nous devrions… Un homme ayant toute sa tête et qui planifie un futur devrait choisir
-cette femme très soigneusement; soyez prudents dans ce que vous faites. Et une femme qui
-choisit un mari, ou qui accepte le choix d’un mari, devrait être vraiment prudente dans ce
-qu’elle fait, spécialement en ces jours. Un homme devrait penser et prier avant de choisir une
-femme.
-36 Je crois qu’aujourd’hui, la cause de bien des divorces… En Amérique, nous sommes en tête
-des cas de divorce. Nous conduisons le reste du monde. Il y a plus de divorces ici dans cette
-nation que n’importe où ailleurs. Et elle est supposée être et est considérée comme une nation
-chrétienne. Quel reproche sont pour nous ces tribunaux de divorce! Je crois que la raison de cela
-est que l’homme et la femme se sont éloignés de Dieu.
-37 Et nous trouvons que si un homme a prié et que si une femme a prié à ce sujet, ils devraient
-regarder d’abord à Dieu et dire: «Dieu, est-ce que ceci est Ton plan?» et ne pas uniquement
-regarder à de beaux yeux ou à de solides épaules ou à quelque chose comme cela ou à d’autres
-attachements du monde.
-38 Je pense qu’aujourd’hui il y a beaucoup de tricherie, exactement comme à l’école. Lorsque
-parfois le matin, les enfants viennent vers moi… Bien des enfants du voisinage (de mes amis)
-viennent et disent: «Frère Branham, voulez-vous prier pour nous? Nous avons un test aujourd’hui.
-J’ai travaillé toute la nuit et il me semble que je ne sois pas au point. Priez pour moi». Je pense
-que n’importe quel écolier… avec les parents le matin à table, pourrait dire: «Maman, John a un
-test aujourd’hui; prions pour lui maintenant», je crois que cela serait… Autrement, tout ce que
-vous auriez à faire, serait de regarder sur le papier de quelqu’un d’autre et tricher. Je crois que
-vous devriez juste sortir et prier sur ce sujet…
-39 Et si nous voulions étudier ce que nous faisons lorsque nous voulons nous marier, lorsque
-nous choisissons notre femme ou notre mari… Un homme devrait prier sérieusement car il
-pourrait ruiner sa vie entière. Rappelez-vous que le voeu est: «jusqu’à ce que la mort nous
-sépare». Et il pourrait ruiner sa vie en faisant le mauvais choix et en mariant une femme qui
-n’est pas faite pour être sa femme. S’il le fait malgré tout, c’est sa faute. Si la femme prend un
-mari et sait qu’il n’est pas fait pour elle, alors c’est sa propre faute sachant ce qui est juste et faux.
-Aussi, vous ne devriez pas le faire avant d’avoir prié consciencieusement.
-40 La même chose s’applique lors du choix d’une église. Maintenant, vous devez prier pour
-l’église avec laquelle vous avez communion. Rappelez-vous que les églises ont des esprits.
-Maintenant, je ne veux pas être critique, mais je réalise que je suis un vieil homme et que je dois
-quitter ce monde ici-bas un de ces jours. Je dois répondre au jour du jugement de ce que j’ai dit
-ce soir ou à tout autre moment… C’est pourquoi je dois être absolument sérieux et sincèrement
-convaincu. Mais si vous allez dans une église, et si vous vouliez observer le comportement de
-cette église, observez simplement le pasteur et vous trouverez généralement que l’église agit
-comme le pasteur.
-41 Parfois, je me demande si nous ne recevons pas simplement un autre esprit à la place
-du Saint-Esprit. Vous allez dans un endroit où un pasteur est un véritable radical, vous trouverez
-que l’assemblée est dans la même voie. Je peux vous amener dans une église où j’ai vu le
-pasteur qui se tenait debout et balançait sa tête en arrière et en avant. Vous observez
-l’assemblée; ils font la même chose. Vous prenez un pasteur qui fait tout au galop, en principe,
-l’église fait la même chose. Aussi, si je devais choisir une église, si je devais choisir une église
-pour y mettre ma famille, j’en choisirais une véritable, fondamentale, avec les principes du
-plein Evangile biblique.
-42 Choisis… Je regardais… Les garçons l’autre jour (le fils de frère Shakarian et son beau-fils)
-sont venus me chercher ici pour prier pour un jeune homme, un chanteur, un dandy — Fred
-Barker, c’était son nom — qui était tout juste revenu d’un voyage et ils m’ont appelé au téléphone
-pour me dire que Fred était mourant et avant que j’entre dans la maison, un autre message est
-arrivé: «Il pourrait être mort maintenant». Et ils ont dit qu’il avait eu une hémorragie cérébrale, qu’il
-était paralysé et qu’il était mourant; et sa femme voulait que je prie pour lui.
+49 Maintenant, je n’ai pas le goût que ces modernistes ont pour les femmes qui travaillent. Quand je vois ces femmes avec leurs uniformes de police circulant dans la ville sur leurs motos… C’est une disgrâce pour n’importe quelle ville qui autorise une femme à faire cela alors qu’il y a tant d’hommes sans travail. Cela montre la pensée moderne de notre ville; cela montre la dégradation. Nous n’avons pas besoin d’avoir ces femmes, là-dehors comme cela. Il ne devrait pas y avoir de tels emplois pour elles.
 
-        http://www.cmpp.ch
-
-LE CHOIX D’UNE EPOUSE 7
-43 J’ai pensé: «Si j’essaie de prendre l’avion, il sera mort avant que j’arrive là-bas et il pourrait
-être mort maintenant». Aussi, j’ai appelé rapidement et j’ai eu la petite dame au téléphone et nous
-avons placé le téléphone à l’oreille de Fred. Il ne pouvait pas avaler. Ils le nourrissaient
-artificiellement à l’aide d’un tuyau. Et quand nous avons prié pour lui, il fit un signe pour qu’on le
-retire de sa gorge! Il pouvait avaler. Les docteurs ne le croyaient pas, mais ils l’ont enlevé et il
-pouvait avaler. Et l’autre jour, il se tenait assis.
-
-44 Une église, choisir une église. J’ai reçu un coup de fil, il y a un moment ce matin. Un membre
-de mon église, une véritable femme baptiste de Louisville, elle est morte de bonne heure ce matin.
-Et les anciens de mon église, un véritable groupe d’hommes consacrés de mon église, se sont
-rassemblés et sont descendus avant que les hommes des pompes funèbres ne l’embaument. Ils
-se sont tenus devant elle et ont prié jusqu’à ce que la vie revienne en elle et aujourd’hui, elle vit.
-Pourquoi? Parce qu’ils ont été enseigné à croire que toutes ces choses sont possibles.
-Venez à Dieu sincèrement. Aussi, vous devez faire le bon choix.
-
-45 A nouveau, le genre de femme qu’un homme choisira reflètera son ambition et son
-caractère. Si un homme choisit la mauvaise femme, cela reflètera son caractère. Et ce à quoi il
-s’attache montre véritablement ce qui est en lui. Une femme reflète ce qui est dans l’homme qui la
-choisit pour épouse. Cela montre ce qui est au fond de lui. Ce qu’il dit à l’extérieur n’a aucune
-importance, observez qui il marie.
-
-46 Si je vais dans le bureau d’un homme qui se dit être chrétien — des pin-ups partout sur les
-murs avec cette vieille musique de boogie-woogie — je ne prête aucune attention à ce qu’il dit; je
-ne crois pas son témoignage, parce que son esprit est nourri des choses du monde. Que dire
-s’il mariait une fille choriste, ou s’il mariait une reine du sexe ou juste une jolie et moderne
-Ricketta? Cela reflète, cela montre ce qu’il a dans son esprit, quel sera son futur foyer parce qu’il
-la prend pour élever ses enfants, et qu’importe ce qu’elle est, c’est la manière dont elle élèvera
-ses enfants. Ainsi, cela reflète ce qui est dans l’homme. Un homme qui prend une femme comme
-cela montre simplement ce qu’il pense de l’avenir. Pouvez-vous imaginer un chrétien faisant
-une chose pareille? Non, certainement pas. Un véritable chrétien ne regarde pas à de telles
-reines de beauté, choristes et reines du sexe. Il cherchera un caractère chrétien.
-
-47 Maintenant, vous ne pouvez pas tout avoir. Il pourrait y avoir une fille qui est vraiment jolie, et
-une autre qui peut-être est… son physique paraît plus beau que celle-là. Et vous pourriez avoir à
-sacrifier l’une pour l’autre. Mais si elle n’a pas la stature d’une dame, d’une femme et si… Peu
-m’importe si elle est jolie ou non, vous feriez mieux de regarder à son caractère plutôt que de
-regarder si elle est jolie ou non.
-
-48 Maintenant… parce que si un chrétien doit choisir une femme, il devrait choisir une
-véritable femme née de nouveau; indépendamment de son apparence, c’est ce qu’elle est qui la
-fait. Et alors à nouveau, cela reflète son propre caractère pieux et reflète ce qui est dans son
-esprit et ce que son futur sera pour sa famille — élevée par une telle femme — ce que seront ses
-plans d’avenir pour son foyer. S’il marie une de ces modernes Rickettas, reines du sexe, que peut-
-il en attendre? Quelle sorte de foyer un tel homme peut-il penser avoir? S’il marie une fille qui
-n’a pas assez de morale elle-même pour rester à la maison et prendre soin de son foyer et
-qui veut travailler dans le bureau de quelqu’un, quelle sorte de ménagère sera-t-elle? Vous aurez
-des baby-sitters et ainsi de suite. C’est vrai.
-
-49 Maintenant, je n’ai pas le goût que ces modernistes ont pour les femmes qui travaillent.
-Quand je vois ces femmes avec leurs uniformes de police circulant dans la ville sur leurs motos…
-C’est une disgrâce pour n’importe quelle ville qui autorise une femme à faire cela alors qu’il y a
-tant d’hommes sans travail. Cela montre la pensée moderne de notre ville; cela montre la
-dégradation. Nous n’avons pas besoin d’avoir ces femmes, là-dehors comme cela. Il ne
-devrait pas y avoir de tels emplois pour elles.
-
-50 Quand Dieu donne une femme à un homme, Il lui donne la meilleure chose qu’Il puisse
-lui donner à part le salut. Mais quand une femme va pour essayer de prendre la place d’un
-homme, alors c’est la pire chose qu’il puisse y avoir.
+50 Quand Dieu donne une femme à un homme, Il lui donne la meilleure chose qu’Il puisse lui donner à part le salut. Mais quand une femme va pour essayer de prendre la place d’un homme, alors c’est la pire chose qu’il puisse y avoir.
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 8
-51 Maintenant, cela est vrai. Maintenant, nous pouvons voir l’application spirituelle. Je sais que
-c’est dur. Vous pensez que c’est dur, mais c’est la Vérité. Qu’importe combien c’est dur, nous
-devons affronter les faits. C’est ce que la Bible enseigne.
-52 Nous voyons maintenant clairement le plan spirituel de Dieu, planifiant Sa future maison
-pour Sa future Epouse — cela apparaît maintenant. Si un homme marie une reine du sexe,
-vous voyez à quelle sorte de futur il doit s’attendre. Si un homme marie une femme qui ne veut
-pas rester à la maison, vous voyez à quelle sorte de futur il doit s’attendre.
-53 Et une fois… Cela semble affreux et je sens que je dois le dire… Habituellement, si je sens
-que je dois dire la chose, je devrais la dire… C’est la manière habituelle de Dieu. J’avais l’habitude
-d’accompagner un éleveur avec lequel je travaillais, pour acheter du bétail. Et j’avais remarqué
-que le bonhomme regardait toujours droit dans les yeux de la génisse avant qu’il ne fasse les
-enchères. Alors, il lui tournait la tête et la regardait en arrière et en avant. Je considérais ce qu’il
-faisait, je l’observais. Il la regardait de haut en bas, et si elle paraissait en ordre en stature, alors il
-se tournait et la regardait en face. Parfois, il secouait la tête et s’en allait.
+51 Maintenant, cela est vrai. Maintenant, nous pouvons voir l’application spirituelle. Je sais que c’est dur. Vous pensez que c’est dur, mais c’est la Vérité. Qu’importe combien c’est dur, nous devons affronter les faits. C’est ce que la Bible enseigne.
+52 Nous voyons maintenant clairement le plan spirituel de Dieu, planifiant Sa future maison pour Sa future Epouse — cela apparaît maintenant. Si un homme marie une reine du sexe, vous voyez à quelle sorte de futur il doit s’attendre. Si un homme marie une femme qui ne veut pas rester à la maison, vous voyez à quelle sorte de futur il doit s’attendre.
+53 Et une fois… Cela semble affreux et je sens que je dois le dire… Habituellement, si je sens que je dois dire la chose, je devrais la dire… C’est la manière habituelle de Dieu. J’avais l’habitude d’accompagner un éleveur avec lequel je travaillais, pour acheter du bétail. Et j’avais remarqué que le bonhomme regardait toujours droit dans les yeux de la génisse avant qu’il ne fasse les enchères. Alors, il lui tournait la tête et la regardait en arrière et en avant. Je considérais ce qu’il faisait, je l’observais. Il la regardait de haut en bas, et si elle paraissait en ordre en stature, alors il se tournait et la regardait en face. Parfois, il secouait la tête et s’en allait.
 54 J’ai dit: «Jeff, puis-je te demander quelque chose?».
      Il a dit: «Vas-y Bill».
-     Et j’ai dit: «Eh bien, pourquoi regardes-tu toujours la vache dans les yeux?». J’ai dit: «Elle
-paraît en ordre — une bonne vache grasse».
-55 Il a dit: «Je veux te dire, mon garçon, que tu as beaucoup à apprendre», et je l’ai réalisé
-après qu’il m’ait dit: «Aucune importance comment elle est faite; elle peut être aussi potelée qu’un
-boeuf jusqu’aux sabots, mais si elle a cet espèce de regard fixe, sauvage, dans les yeux, je ne
-l’achète jamais».
+     Et j’ai dit: «Eh bien, pourquoi regardes-tu toujours la vache dans les yeux?». J’ai dit: «Elle paraît en ordre — une bonne vache grasse».
+55 Il a dit: «Je veux te dire, mon garçon, que tu as beaucoup à apprendre», et je l’ai réalisé après qu’il m’ait dit: «Aucune importance comment elle est faite; elle peut être aussi potelée qu’un boeuf jusqu’aux sabots, mais si elle a cet espèce de regard fixe, sauvage, dans les yeux, je ne l’achète jamais».
 56 J’ai dit: «Pourquoi Jeff?».
-     Eh bien dit-il: «La première chose c’est qu’elle ne va jamais rester tranquille. La chose
-suivante, c’est qu’elle ne sera jamais une mère pour son veau. Ils la mettent dans un enclos,
-c’est la raison pour laquelle est grasse». «Si vous la lâchiez avec ce regard sauvage, elle se
-précipiterait elle-même vers la mort».
-57 Et j’ai dit: «Tu sais, j’ai appris quelque chose. Je crois que cela s’applique aux femmes
-également». Ce regard fixe et sauvage, cette apparence de Ricketta — tu ferais mieux de rester
-éloigné d’elle mon garçon. Tout ce bleu au-dessus de ces yeux — je ne voudrais pas cela; je crois
-que cela ne convient pas à un chrétien. Je n’accorde aucune importance au fait que la télévision
-et les journaux disent que c’est joli, c’est la vue la plus horrible et hideuse que j’aie jamais eue
-dans ma vie.
-58 C’est à la Cafétéria de chez Clifton que j’ai vu cela pour la première fois un matin; j’ai vu
-arriver quelques jeunes femmes. Nous venions d’arriver avec le frère Arganbright et il était allé en
-bas de l’escalier. Et j’ai regardé et cette fille est entrée. J’ai pensé: «Eh bien, je ne sais pas». Je
-n’avais jamais vu cela auparavant. C’était une sorte de… Oh, c’était comme si elle était malade.
-Vous savez, juste cette apparence bizarre, une… — je ne dis pas cela pour me moquer, je le dis
-pour… Vous savez, j’ai déjà vu la lèpre. Je suis un missionnaire. J’ai vu toute sorte de
-monstruosités, vous savez ce que provoquent les maladies… Et j’étais sur le point d’aller vers
-cette jeune femme pour lui dire: «Je suis un ministre, je prie pour les malades. Voulez-vous que je
-prie pour vous?». Et je n’avais jamais rien vu de semblable. Puis deux ou trois sont arrivées ici, et
-j’ai alors reculé et attendu. Et le frère Arganbright est venu. J’ai dit: «Frère Arganbright» (il pourrait
-être ici), j’ai dit: «Que se passe-t-il avec cette femme?».
+     Eh bien dit-il: «La première chose c’est qu’elle ne va jamais rester tranquille. La chose suivante, c’est qu’elle ne sera jamais une mère pour son veau. Ils la mettent dans un enclos, c’est la raison pour laquelle est grasse». «Si vous la lâchiez avec ce regard sauvage, elle se précipiterait elle-même vers la mort».
+57 Et j’ai dit: «Tu sais, j’ai appris quelque chose. Je crois que cela s’applique aux femmes également». Ce regard fixe et sauvage, cette apparence de Ricketta — tu ferais mieux de rester éloigné d’elle mon garçon. Tout ce bleu au-dessus de ces yeux — je ne voudrais pas cela; je crois que cela ne convient pas à un chrétien. Je n’accorde aucune importance au fait que la télévision et les journaux disent que c’est joli, c’est la vue la plus horrible et hideuse que j’aie jamais eue dans ma vie.
+58 C’est à la Cafétéria de chez Clifton que j’ai vu cela pour la première fois un matin; j’ai vu arriver quelques jeunes femmes. Nous venions d’arriver avec le frère Arganbright et il était allé en bas de l’escalier. Et j’ai regardé et cette fille est entrée. J’ai pensé: «Eh bien, je ne sais pas». Je n’avais jamais vu cela auparavant. C’était une sorte de… Oh, c’était comme si elle était malade. Vous savez, juste cette apparence bizarre, une… — je ne dis pas cela pour me moquer, je le dis pour… Vous savez, j’ai déjà vu la lèpre. Je suis un missionnaire. J’ai vu toute sorte de monstruosités, vous savez ce que provoquent les maladies… Et j’étais sur le point d’aller vers cette jeune femme pour lui dire: «Je suis un ministre, je prie pour les malades. Voulez-vous que je prie pour vous?». Et je n’avais jamais rien vu de semblable. Puis deux ou trois sont arrivées ici, et j’ai alors reculé et attendu. Et le frère Arganbright est venu. J’ai dit: «Frère Arganbright» (il pourrait être ici), j’ai dit: «Que se passe-t-il avec cette femme?».
      Et il a dit: «C’est de la peinture».
-59 J’ai dit: «Eh bien!». Et j’ai pensé qu’on devrait la mettre en quarantaine dans une maison
-d’isolement quelque part, vous savez, pour empêcher que cela se transmette aux autres femmes.
-60 Vous savez, vous devez planifier, chercher et prier quand vous choisissez une femme. Car
-nous voyons cela par cette Parole de promesse, qu’elle, l’épouse qu’un homme choisira, va
-refléter son caractère. Elle reflète ce qui est en lui. Maintenant, pouvez-vous imaginer un
-homme rempli du Saint-Esprit prendre quelque chose comme cela pour femme? Je ne le vois
-simplement pas, frère. Maintenant, peut-être que je suis simplement un vieux grincheux, mais
+59 J’ai dit: «Eh bien!». Et j’ai pensé qu’on devrait la mettre en quarantaine dans une maison d’isolement quelque part, vous savez, pour empêcher que cela se transmette aux autres femmes.
+60 Vous savez, vous devez planifier, chercher et prier quand vous choisissez une femme. Car nous voyons cela par cette Parole de promesse, qu’elle, l’épouse qu’un homme choisira, va refléter son caractère. Elle reflète ce qui est en lui. Maintenant, pouvez-vous imaginer un homme rempli du Saint-Esprit prendre quelque chose comme cela pour femme? Je ne le vois simplement pas, frère. Maintenant, peut-être que je suis simplement un vieux grincheux, mais
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 9
-vous savez, je ne peux pas comprendre cela! Remarquez qu’elle va refléter ce qu’il y a en lui,
-elle va l’aider à construire son futur foyer.
-61 Maintenant, si nous regardons un instant du côté spirituel, vous voyez qu’une église qui est
-dans le monde agit comme le monde, s’attend au monde, participe au monde, prenant en compte
-les commandements de Dieu comme s’Il ne les avait jamais écrits. Pouvez-vous imaginer que
-Christ va jamais prendre une Epouse comme celle-là? Pouvez-vous L’imaginer prendre
-comme Epouse l’église moderne d’aujourd’hui? — Pas mon Seigneur. Je pourrais à peine penser
-cela. Non.
-62 Rappelez-vous maintenant qu’un homme et une femme sont un. Voudriez-vous vous unir
-vous-même à une personne comme cela? Si vous le faisiez, vous décevriez certainement ma foi
-en vous. Alors, que penser de Dieu s’unissant Lui-même à quelque chose comme cela? — une
-prostituée dénominationnelle ordinaire. Est-ce que vous croyez qu’Il le ferait? “Ayant une forme de
-piété mais reniant ce qui en fait la force”. Il ne le ferait jamais. Elle doit avoir Son caractère en elle.
-La réelle véritable Eglise née de nouveau doit avoir le caractère qui était en Christ parce
-que l’époux et l’épouse sont un. Et si Jésus a fait seulement ce qui plaisait à Dieu (gardé Sa
-Parole et manifesté Sa Parole), Son Epouse devra avoir le même type de caractère.
-63 Elle ne pourra en aucun cas être une dénomination parce qu’alors, peu importe combien vous
-voudriez dire «non», elle est contrôlée par un comité quelque part qui lui dit ce qu’elle doit faire et
-ne pas faire, et bien des fois c’est à des millions de kilomètres de la véritable Parole.
-64 C’est trop fâcheux que nous nous soyons si éloignés du véritable Guide que Dieu nous a
-laissé pour conduire l’Eglise. Il n’a jamais envoyé des anciens nommés par l’Etat. Il n’a jamais
-envoyé un évêque, un cardinal, un prêtre, un pape. Il a envoyé le Saint-Esprit pour l’Eglise,
-pour conduire l’Eglise. “Quand Lui, le Saint-Esprit sera venu, Il vous conduira dans toute la
-Vérité, vous révèlera ces choses dont je vous ai parlé, vous les rappellera et vous montrera les
-choses à venir”. C’est le Saint-Esprit qui devait faire ça. Maintenant, l’église moderne a de la haine
-pour cela! Ils n’aiment pas cela. Aussi, comment pourrait-elle être l’Epouse de Christ?
-65 Que cela représente-t-il lorsque les gens d’aujourd’hui choisissent une dénomination
-moderne? Cela reflète seulement leur pauvre compréhension de la Parole. Je ne veux pas être
-blessant, mais je désire aller assez profondément jusqu’à ce que vous preniez garde à cela.
-66 J’ai marié bien des couples, mais j’ai toujours… cela me rappelle Christ et Son Epouse. Un
-de ces mariages que j’ai fait, ici il y a quelque temps… c’était une chose extraordinaire dans ma
-vie. C’était il y a quelques années lorsque j’étais encore un jeune ministre de l’Evangile.
-67 Mon frère travaillait sur le W.P.A., je ne sais pas si quelqu’un se rappelle de cela s’il n’est pas
-aussi âgé que moi. C’était un projet du gouvernement et mon frère y travaillait à environ trente
-miles. Ils étaient en train de creuser plusieurs lacs — un projet pour la protection de la nature.
-68 Et il y avait un garçon d’Indianapolis qui travaillait là-bas avec lui, oh, à environ cent miles de
-Jeffersonville, où j’habite… où j’habitais. Et il y avait un… Il a dit à mon frère un jour: «Doc, je me
-marierais si j’avais juste assez d’argent pour payer le prédicateur. J’ai assez d’argent pour obtenir
-la licence, mais pas assez pour payer le prédicateur».
-69 Doc a dit: «Eh bien, mon frère est prédicateur, et il pourrait te marier. Il ne demande jamais
-rien aux gens pour des choses comme ça». Il a dit: «Tu veux bien lui demander s’il veut me
-marier».
-70 Eh bien, ce soir-là, mon frère me l’a demandé. Et j’ai dit: «S’ils n’ont jamais été mariés avant,
-ni l’un ni l’autre, et si tout est en ordre».
+vous savez, je ne peux pas comprendre cela! Remarquez qu’elle va refléter ce qu’il y a en lui, elle va l’aider à construire son futur foyer.
+61 Maintenant, si nous regardons un instant du côté spirituel, vous voyez qu’une église qui est dans le monde agit comme le monde, s’attend au monde, participe au monde, prenant en compte les commandements de Dieu comme s’Il ne les avait jamais écrits. Pouvez-vous imaginer que Christ va jamais prendre une Epouse comme celle-là? Pouvez-vous L’imaginer prendre comme Epouse l’église moderne d’aujourd’hui? — Pas mon Seigneur. Je pourrais à peine penser cela. Non.
+62 Rappelez-vous maintenant qu’un homme et une femme sont un. Voudriez-vous vous unir vous-même à une personne comme cela? Si vous le faisiez, vous décevriez certainement ma foi en vous. Alors, que penser de Dieu s’unissant Lui-même à quelque chose comme cela? — une prostituée dénominationnelle ordinaire. Est-ce que vous croyez qu’Il le ferait? “Ayant une forme de piété mais reniant ce qui en fait la force”. Il ne le ferait jamais. Elle doit avoir Son caractère en elle. La réelle véritable Eglise née de nouveau doit avoir le caractère qui était en Christ parce que l’époux et l’épouse sont un. Et si Jésus a fait seulement ce qui plaisait à Dieu (gardé Sa Parole et manifesté Sa Parole), Son Epouse devra avoir le même type de caractère.
+63 Elle ne pourra en aucun cas être une dénomination parce qu’alors, peu importe combien vous voudriez dire «non», elle est contrôlée par un comité quelque part qui lui dit ce qu’elle doit faire et ne pas faire, et bien des fois c’est à des millions de kilomètres de la véritable Parole.
+64 C’est trop fâcheux que nous nous soyons si éloignés du véritable Guide que Dieu nous a laissé pour conduire l’Eglise. Il n’a jamais envoyé des anciens nommés par l’Etat. Il n’a jamais envoyé un évêque, un cardinal, un prêtre, un pape. Il a envoyé le Saint-Esprit pour l’Eglise, pour conduire l’Eglise. “Quand Lui, le Saint-Esprit sera venu, Il vous conduira dans toute la Vérité, vous révèlera ces choses dont je vous ai parlé, vous les rappellera et vous montrera les choses à venir”. C’est le Saint-Esprit qui devait faire ça. Maintenant, l’église moderne a de la haine pour cela! Ils n’aiment pas cela. Aussi, comment pourrait-elle être l’Epouse de Christ?
+65 Que cela représente-t-il lorsque les gens d’aujourd’hui choisissent une dénomination moderne? Cela reflète seulement leur pauvre compréhension de la Parole. Je ne veux pas être blessant, mais je désire aller assez profondément jusqu’à ce que vous preniez garde à cela.
+66 J’ai marié bien des couples, mais j’ai toujours… cela me rappelle Christ et Son Epouse. Un de ces mariages que j’ai fait, ici il y a quelque temps… c’était une chose extraordinaire dans ma vie. C’était il y a quelques années lorsque j’étais encore un jeune ministre de l’Evangile.
+67 Mon frère travaillait sur le W.P.A., je ne sais pas si quelqu’un se rappelle de cela s’il n’est pas aussi âgé que moi. C’était un projet du gouvernement et mon frère y travaillait à environ trente miles. Ils étaient en train de creuser plusieurs lacs — un projet pour la protection de la nature.
+68 Et il y avait un garçon d’Indianapolis qui travaillait là-bas avec lui, oh, à environ cent miles de Jeffersonville, où j’habite… où j’habitais. Et il y avait un… Il a dit à mon frère un jour: «Doc, je me marierais si j’avais juste assez d’argent pour payer le prédicateur. J’ai assez d’argent pour obtenir la licence, mais pas assez pour payer le prédicateur».
+69 Doc a dit: «Eh bien, mon frère est prédicateur, et il pourrait te marier. Il ne demande jamais rien aux gens pour des choses comme ça». Il a dit: «Tu veux bien lui demander s’il veut me marier».
+70 Eh bien, ce soir-là, mon frère me l’a demandé. Et j’ai dit: «S’ils n’ont jamais été mariés avant, ni l’un ni l’autre, et si tout est en ordre».
      Il a dit: «Eh bien, je le lui demanderai».
      Et j’ai dit: «Si c’est en ordre, dis-lui de venir ici».
-71 Alors quand samedi fut venu et que le garçon descendit… Cela a toujours été une grande
-chose pour moi que de regarder en arrière à cela. C’était un après-midi pluvieux et une vieille
-chevrolet, avec les phares attachés avec du fil de fer, est arrivée devant. C’était juste après que
-j’aie perdu ma femme et j’étais en train de faire des réparations dans les deux petites chambres.
-Doc était là avec moi en les attendant.
+71 Alors quand samedi fut venu et que le garçon descendit… Cela a toujours été une grande chose pour moi que de regarder en arrière à cela. C’était un après-midi pluvieux et une vieille chevrolet, avec les phares attachés avec du fil de fer, est arrivée devant. C’était juste après que j’aie perdu ma femme et j’étais en train de faire des réparations dans les deux petites chambres. Doc était là avec moi en les attendant.
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 10
-72 Et le garçon est sorti de la voiture et pour moi, comme pour une autre personne, il n’avait
-certainement pas l’air d’un fiancé, je suppose. En ce temps, je pouvais acheter une assez bonne
-paire de chaussure pour un dollar et demi, et lui portait une paire qui était usée et son pantalon
-était vraiment ample comme un sac. Et il avait une de ces vieilles jaquettes en velours (moleskin).
-Je ne sais pas si les plus vieux d’entre vous s’en rappellent. Elle paraissait avoir passé à la
-machine à laver sans avoir été rincée et elle avait des rayures et était attachée comme cela, avec
-le coin en haut.
-73 Et la petite dame est sortie de son côté avec oh, une petite robe à petits carreaux… Je ne
-sais pas. Une fois, j’ai commis une erreur en nommant cette sorte de marchandise. Vichy
-(Gingham), je crois que c’est le nom. Je me suis trompé à nouveau. Je le fais toujours. Et j’ai dit
-une… Elle est sortie de la voiture, ils ont monté les escaliers et sont entrés. La pauvre petite
-chose… Je suppose que tout ce qu’elle avait, c’était cette robe. C’est à peine si elle avait des
-souliers. Elle avait fait de l’auto-stop depuis Indianapolis. Sa petite chevelure tombait le long de
-son dos sous la forme de longues tresses. Elle paraissait très jeune.
+72 Et le garçon est sorti de la voiture et pour moi, comme pour une autre personne, il n’avait certainement pas l’air d’un fiancé, je suppose. En ce temps, je pouvais acheter une assez bonne paire de chaussure pour un dollar et demi, et lui portait une paire qui était usée et son pantalon était vraiment ample comme un sac. Et il avait une de ces vieilles jaquettes en velours (moleskin). Je ne sais pas si les plus vieux d’entre vous s’en rappellent. Elle paraissait avoir passé à la machine à laver sans avoir été rincée et elle avait des rayures et était attachée comme cela, avec le coin en haut.
+73 Et la petite dame est sortie de son côté avec oh, une petite robe à petits carreaux… Je ne sais pas. Une fois, j’ai commis une erreur en nommant cette sorte de marchandise. Vichy (Gingham), je crois que c’est le nom. Je me suis trompé à nouveau. Je le fais toujours. Et j’ai dit une… Elle est sortie de la voiture, ils ont monté les escaliers et sont entrés. La pauvre petite chose… Je suppose que tout ce qu’elle avait, c’était cette robe. C’est à peine si elle avait des souliers. Elle avait fait de l’auto-stop depuis Indianapolis. Sa petite chevelure tombait le long de son dos sous la forme de longues tresses. Elle paraissait très jeune.
 74 Et je lui ai dit: «Etes-vous assez âgée pour vous marier?».
-Elle a dit: «Certainement. J’ai la permission écrite de mon père et de ma mère. J’ai dû la produire
-au tribunal pour obtenir ma licence».
-75 J’ai dit: «D’accord. J’aimerais parler un petit moment avec vous avant que nous célébrions le
-mariage». Ils se sont assis. Le garçon n’arrêtait pas d’inspecter la pièce du regard. Il avait
-vraiment besoin d’une coupe de cheveux! Il continuait à regarder tout autour. Il ne m’écoutait pas.
-Et j’ai dit: «Fils, je veux que tu écoutes ce que je dis».
+Elle a dit: «Certainement. J’ai la permission écrite de mon père et de ma mère. J’ai dû la produire au tribunal pour obtenir ma licence».
+75 J’ai dit: «D’accord. J’aimerais parler un petit moment avec vous avant que nous célébrions le mariage». Ils se sont assis. Le garçon n’arrêtait pas d’inspecter la pièce du regard. Il avait vraiment besoin d’une coupe de cheveux! Il continuait à regarder tout autour. Il ne m’écoutait pas. Et j’ai dit: «Fils, je veux que tu écoutes ce que je dis».
      Il a dit: «Certainement».
      Et j’ai dit: «Est-ce que tu aimes cette fille?».
      Et il a dit: «Oui, monsieur, je l’aime».
@@ -511,708 +186,177 @@ Et j’ai dit: «Fils, je veux que tu écoutes ce que je dis».
      Elle a dit: «Oui, monsieur, je l’aime».
      J’ai dit: «Maintenant, est-ce que tu as un endroit pour l’emmener après le mariage?».
      Il a dit: «Oui, Monsieur».
-76 Et j’ai dit: «Maintenant d’accord». «Je veux vous demander quelque chose. J’ai cru
-comprendre que tu travailles là-haut sur ce W.P.A».
+76 Et j’ai dit: «Maintenant d’accord». «Je veux vous demander quelque chose. J’ai cru comprendre que tu travailles là-haut sur ce W.P.A».
      Il a dit: «Oui, Monsieur». (C’est à peu près douze dollars par semaine.)
      Et j’ai dit: «Est-ce que tu penses pouvoir gagner suffisamment ta vie pour elle?».
      Il a dit: «Je ferai tout ce que je peux».
-77 Et j’ai dit: «Eh bien, c’est en ordre. Maintenant ma soeur: Que se passera-t-il s’il perd son
-travail, soeur? Qu’allez vous faire? Retourner à la maison chez maman et papa?».
+77 Et j’ai dit: «Eh bien, c’est en ordre. Maintenant ma soeur: Que se passera-t-il s’il perd son travail, soeur? Qu’allez vous faire? Retourner à la maison chez maman et papa?».
 Elle a dit: «Non, monsieur. Je vais rester avec lui».
-78 Et j’ai dit: «Et vous, monsieur, qu’allez-vous faire si vous avez trois ou quatre enfants et rien
-pour les nourrir et si vous n’avez pas de travail. Qu’allez-vous faire? La renvoyer?».
-     Il a dit: «Non, monsieur. Je continuerai à me bagarrer. Nous y arriverons d’une façon ou
-d’une autre».
+78 Et j’ai dit: «Et vous, monsieur, qu’allez-vous faire si vous avez trois ou quatre enfants et rien pour les nourrir et si vous n’avez pas de travail. Qu’allez-vous faire? La renvoyer?».
+     Il a dit: «Non, monsieur. Je continuerai à me bagarrer. Nous y arriverons d’une façon ou d’une autre».
 79 Je me suis senti petit et j’ai vu qu’il l’aimait vraiment et qu’ils s’aimaient l’un l’autre.
-     Je les ai mariés. Et je me suis demandé où il l’avait emmenée. Quelques jours plus tard, j’ai
-demandé à mon frère Doc: «Où est-ce?».
-80 Il a dit: «Descends à New Albany». C’est une petite ville en dessous de chez nous. Là-bas
-près de la rivière où il y avait de l’étain et où j’allais chaque jour lorsque j’étais contrôleur de lignes.
-Ainsi, quand le reste de mes compagnons s’asseyaient et racontaient des plaisanteries et toutes
-ces sortes de choses, je prenais la camionnette et conduisais jusqu’en bas à la rivière et priais
-pendant que… et lisais ma Bible sous une grande pièce d’étain là où se trouvait une vieille forge. Il
-y avait là-bas un tas de vieux containers pour voitures. Et ce garçon était allé là-bas et en avait
+     Je les ai mariés. Et je me suis demandé où il l’avait emmenée. Quelques jours plus tard, j’ai demandé à mon frère Doc: «Où est-ce?».
+80 Il a dit: «Descends à New Albany». C’est une petite ville en dessous de chez nous. Là-bas près de la rivière où il y avait de l’étain et où j’allais chaque jour lorsque j’étais contrôleur de lignes. Ainsi, quand le reste de mes compagnons s’asseyaient et racontaient des plaisanteries et toutes ces sortes de choses, je prenais la camionnette et conduisais jusqu’en bas à la rivière et priais pendant que… et lisais ma Bible sous une grande pièce d’étain là où se trouvait une vieille forge. Il y avait là-bas un tas de vieux containers pour voitures. Et ce garçon était allé là-bas et en avait
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 11
-pris un et y avait découpé une porte. Il avait pris du papier de journal et des «boutons Tackey»,
-des sortes de rivets. Combien d’entre-vous savent ce que sont ces «boutons Tackey?». Personne,
-alors il n’y a aucun Kentuckien ici! Prenez simplement une pièce de carton dur et mettez une
-punaise ou une petite pointe… et poussez-le dedans. C’est ça un «bouton Tackey».
-81 Ils en avaient donc mis partout. Et il était allé là-bas, à la forge et avait pris du matériel pour
-faire un escalier. Ils étaient venus et avaient ensuite pris de vieilles boîtes et confectionné une
-table. Et j’ai pensé qu’un de ces jours: «Je descendrai là-bas et verrai comment ils s’en sortent».
-82 A peu près six mois avant cela, j’avais marié la fille d’E.V. Knight au fils d’E.T. Slider. E.V.
-Knight est l’un des hommes les plus riches de la rivière Ohio. Il dirige une grande usine qui
-construit ces maisons pré-fabriquées etc… Et Slider, M. E.T. Slider est le fils d’un millionnaire actif
-dans le sable et le gravier. Et je les avais mariés.
-83 Et je suis allé dans un de ces endroits et me suis entraîné pendant à peu près deux
-semaines. Je suis retourné dans une loge et me suis agenouillé sur un coussin… et toute ces
-choses pompeuses au travers desquelles j’ai passé pour marier ce couple. C’est pourquoi quand
-ils sont sortis, il y avait… L’autre petit couple se tenait juste là, dans une vieille petite chambre où il
-y avait un petit canapé et un lit pliable — mais les deux couples ont été mariés par la même
-cérémonie.
-84 Et alors un jour j’ai pensé que je descendrais là-bas et visiterais ce riche couple. Ils n’avaient
-pas besoin de travailler; leurs parents étaient des millionnaires. Ils leur avaient construit une belle
-maison. Franchement, ces E.V. Knight, là-haut sur la colline dans ce grand palace! Les poignées
-des portes étaient en quatorze carats. Aussi, vous pouvez vous imaginer dans quelle sorte de
-maison ils vivaient! Ils n’avaient pas besoin de travailler. On leur donnait chaque année une jolie
-Cadillac. Ils étaient des enfants uniques et ils avaient simplement tout ce qu’ils voulaient.
-85 J’y suis monté un jour… Comment ai-je fait leur connaissance? Un de leurs amis était un de
-mes bons amis et nous étions en quelque sorte de bons copains. Et c’est comme cela que j’ai fait
-leur connaissance lorsqu’ils ont voulu que je les marie. Aussi, je suis allé pour leur rendre visite et
-je suis sorti de ma vieille Ford. J’ai monté les escaliers. Je me suis un peu trop approché et je les
-ai entendus.
-86 Et ils étaient en train de se disputer. Ils étaient jaloux l’un de l’autre. Ils étaient allés danser.
-C’était une très jolie fille et c’était une de ces reines de beauté. Elle avait gagné plusieurs prix là-
-bas et avait gagné quelques voitures et ces autres choses que gagnent les reines de beauté. Et je
-les ai regardés. Chacun était assis dans un coin, se disputant à propos d’un garçon avec qui elle
-avait dansé ou à propos d’une fille ou quelque chose comme cela.
-87 Quand je suis arrivé, ils ont sursauté brutalement et se sont attrapés la main l’un l’autre dans
-la pièce et ont marché ensemble vers la porte. Ils ont dit: «Hello frère Branham, comment cela va-
-t-il?».
+pris un et y avait découpé une porte. Il avait pris du papier de journal et des «boutons Tackey», des sortes de rivets. Combien d’entre-vous savent ce que sont ces «boutons Tackey?». Personne, alors il n’y a aucun Kentuckien ici! Prenez simplement une pièce de carton dur et mettez une punaise ou une petite pointe… et poussez-le dedans. C’est ça un «bouton Tackey».
+81 Ils en avaient donc mis partout. Et il était allé là-bas, à la forge et avait pris du matériel pour faire un escalier. Ils étaient venus et avaient ensuite pris de vieilles boîtes et confectionné une table. Et j’ai pensé qu’un de ces jours: «Je descendrai là-bas et verrai comment ils s’en sortent».
+82 A peu près six mois avant cela, j’avais marié la fille d’E.V. Knight au fils d’E.T. Slider. E.V. Knight est l’un des hommes les plus riches de la rivière Ohio. Il dirige une grande usine qui construit ces maisons pré-fabriquées etc… Et Slider, M. E.T. Slider est le fils d’un millionnaire actif dans le sable et le gravier. Et je les avais mariés.
+83 Et je suis allé dans un de ces endroits et me suis entraîné pendant à peu près deux semaines. Je suis retourné dans une loge et me suis agenouillé sur un coussin… et toute ces choses pompeuses au travers desquelles j’ai passé pour marier ce couple. C’est pourquoi quand ils sont sortis, il y avait… L’autre petit couple se tenait juste là, dans une vieille petite chambre où il y avait un petit canapé et un lit pliable — mais les deux couples ont été mariés par la même cérémonie.
+84 Et alors un jour j’ai pensé que je descendrais là-bas et visiterais ce riche couple. Ils n’avaient pas besoin de travailler; leurs parents étaient des millionnaires. Ils leur avaient construit une belle maison. Franchement, ces E.V. Knight, là-haut sur la colline dans ce grand palace! Les poignées des portes étaient en quatorze carats. Aussi, vous pouvez vous imaginer dans quelle sorte de maison ils vivaient! Ils n’avaient pas besoin de travailler. On leur donnait chaque année une jolie Cadillac. Ils étaient des enfants uniques et ils avaient simplement tout ce qu’ils voulaient.
+85 J’y suis monté un jour… Comment ai-je fait leur connaissance? Un de leurs amis était un de mes bons amis et nous étions en quelque sorte de bons copains. Et c’est comme cela que j’ai fait leur connaissance lorsqu’ils ont voulu que je les marie. Aussi, je suis allé pour leur rendre visite et je suis sorti de ma vieille Ford. J’ai monté les escaliers. Je me suis un peu trop approché et je les ai entendus.
+86 Et ils étaient en train de se disputer. Ils étaient jaloux l’un de l’autre. Ils étaient allés danser. C’était une très jolie fille et c’était une de ces reines de beauté. Elle avait gagné plusieurs prix là-bas et avait gagné quelques voitures et ces autres choses que gagnent les reines de beauté. Et je les ai regardés. Chacun était assis dans un coin, se disputant à propos d’un garçon avec qui elle avait dansé ou à propos d’une fille ou quelque chose comme cela.
+87 Quand je suis arrivé, ils ont sursauté brutalement et se sont attrapés la main l’un l’autre dans la pièce et ont marché ensemble vers la porte. Ils ont dit: «Hello frère Branham, comment cela va-t-il?».
      J’ai dit: «Bien. Comment allez-vous?».
      Et il a dit: «Oh, nous sommes très heureux, n’est-ce pas chérie?».
      Et elle a dit: «Oui, chéri».
-88 Vous voyez? Vous revêtez quelque chose qui n’est pas réel. Maintenant, vous ne pouvez pas
-obtenir de chaleur d’un feu en peinture. C’est comme quelques-unes de ces églises qui essaient
-de peindre la Pentecôte ou quelque chose qui a eu lieu il y a mille ans ou deux mille ans. Vous ne
-pouvez pas obtenir de chaleur d’un feu qui est peint! La Pentecôte est toute aussi réelle
-aujourd’hui qu’elle l’était alors, vous voyez. Le feu tombe toujours. Ce n’est pas un feu peint;
-c’est un feu réel.
+88 Vous voyez? Vous revêtez quelque chose qui n’est pas réel. Maintenant, vous ne pouvez pas obtenir de chaleur d’un feu en peinture. C’est comme quelques-unes de ces églises qui essaient de peindre la Pentecôte ou quelque chose qui a eu lieu il y a mille ans ou deux mille ans. Vous ne pouvez pas obtenir de chaleur d’un feu qui est peint! La Pentecôte est toute aussi réelle aujourd’hui qu’elle l’était alors, vous voyez. Le feu tombe toujours. Ce n’est pas un feu peint; c’est un feu réel.
 89 Aussi, c’était là où ils en étaient. Je ne voudrais pas vivre comme cela.
-     «Eh bien» – j’ai pensé – «vous savez, juste en bas de la falaise et au-delà de la rivière, c’est
-là que se trouve cet autre couple qui se bat pour vivre». J’ai pensé qu’un samedi après-midi, j’y
-descendrais et verrais comment ils allaient. J’avais le visage sale, mes salopettes étaient sales et
-j’avais mes outils. J’ai pensé que je m’approcherais d’eux… je m’approcherais d’eux, comme si je
-cherchais des isolateurs endommagés par la foudre ou quelque chose comme cela. Alors je
-marchais en suivant le fil téléphonique… le câble électrique, le long de la rivière. C’était environ un
+     «Eh bien» – j’ai pensé – «vous savez, juste en bas de la falaise et au-delà de la rivière, c’est là que se trouve cet autre couple qui se bat pour vivre». J’ai pensé qu’un samedi après-midi, j’y descendrais et verrais comment ils allaient. J’avais le visage sale, mes salopettes étaient sales et j’avais mes outils. J’ai pensé que je m’approcherais d’eux… je m’approcherais d’eux, comme si je cherchais des isolateurs endommagés par la foudre ou quelque chose comme cela. Alors je marchais en suivant le fil téléphonique… le câble électrique, le long de la rivière. C’était environ un
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 12
-an après que je les eusse mariés et la vieille chevrolet était là, parquée devant. La porte était
-ouverte et je pouvais les entendre parler. Alors, cela semble hypocrite, mais je me suis approché
-assez près pour entendre ce qu’ils disaient et je me suis tenu là. Je voulais juste savoir pour moi-
-même.
-90 J’aime être sûr de ce que je raconte. C’est de cette manière que je fais lorsqu’il s’agit
-de la Parole de Dieu. Vous voyez? Est-ce la Vérité ou n’est-ce pas la Vérité? Gardera-t-Il Sa
-Parole ou ne gardera-t-Il pas Sa Parole? S’Il ne garde pas Sa Parole, alors Il n’est pas Dieu, vous
-voyez. S’Il garde Sa Parole, alors, Il est Dieu, vous voyez?
-91 Et alors, je voulais voir comment ils allaient et je me suis approché de côté très facilement et
-je lui ai entendu dire: «Eh bien chérie, je voulais tellement te l’offrir».
-92 Elle a dit: «Maintenant, écoute chéri. Cette robe est bien». Elle a dit: «Elle est bien. J’apprécie
-cela, mais tu vois…».
-93 J’ai bougé de côté de telle façon que je puisse voir à travers les fissures, là où la porte avait
-été découpée dans le container à voiture. Et il était assis là et elle était sur ses genoux, bras
-dessus, bras dessous. Il avait un de ces vieux chapeaux mous… Il avait enfoncé le milieu et fait
-un trou au fond duquel il avait posé son chèque de paie. Il était posé sur la table. Il a dit: «Tant
-pour les achats, tant pour l’assurance, tant pour la voiture». Ils ne pouvaient pas joindre les deux
-bouts. Finalement, j’ai compris qu’il avait vu une petite robe à un dollar et quelque chose, là-bas
-dans une vitrine (il l’avait regardée pendant près de deux semaines). Il voulait l’obtenir. Il a dit: «Eh
-bien chérie, tu serais si jolie dans cette robe».
+an après que je les eusse mariés et la vieille chevrolet était là, parquée devant. La porte était ouverte et je pouvais les entendre parler. Alors, cela semble hypocrite, mais je me suis approché assez près pour entendre ce qu’ils disaient et je me suis tenu là. Je voulais juste savoir pour moi-même.
+90 J’aime être sûr de ce que je raconte. C’est de cette manière que je fais lorsqu’il s’agit de la Parole de Dieu. Vous voyez? Est-ce la Vérité ou n’est-ce pas la Vérité? Gardera-t-Il Sa Parole ou ne gardera-t-Il pas Sa Parole? S’Il ne garde pas Sa Parole, alors Il n’est pas Dieu, vous voyez. S’Il garde Sa Parole, alors, Il est Dieu, vous voyez?
+91 Et alors, je voulais voir comment ils allaient et je me suis approché de côté très facilement et je lui ai entendu dire: «Eh bien chérie, je voulais tellement te l’offrir».
+92 Elle a dit: «Maintenant, écoute chéri. Cette robe est bien». Elle a dit: «Elle est bien. J’apprécie cela, mais tu vois…».
+93 J’ai bougé de côté de telle façon que je puisse voir à travers les fissures, là où la porte avait été découpée dans le container à voiture. Et il était assis là et elle était sur ses genoux, bras dessus, bras dessous. Il avait un de ces vieux chapeaux mous… Il avait enfoncé le milieu et fait un trou au fond duquel il avait posé son chèque de paie. Il était posé sur la table. Il a dit: «Tant pour les achats, tant pour l’assurance, tant pour la voiture». Ils ne pouvaient pas joindre les deux bouts. Finalement, j’ai compris qu’il avait vu une petite robe à un dollar et quelque chose, là-bas dans une vitrine (il l’avait regardée pendant près de deux semaines). Il voulait l’obtenir. Il a dit: «Eh bien chérie, tu serais si jolie dans cette robe».
      Elle a dit: «Mais chéri, j’ai déjà une robe. Je n’en ai pas vraiment besoin».
-94 Vous voyez! Et cette petite reine… Et j’ai reculé et regardé en arrière. Je pouvais voir la
-flèche au sommet de l’autre maison. Je suis resté là et j’ai observé quelques minutes. J’ai pensé:
-«Qui est l’homme riche?». J’ai pensé: «Bill Branham, si tu devais choisir un endroit, lequel
-choisirais-tu?». Pour moi, je ne prendrais pas cette belle chose, là-haut au sommet de la colline,
-mais je prendrais ce caractère ici en-bas. Une réelle reine du foyer, quelqu’un qui
-m’aimerait et resterait avec moi. Quelqu’un qui essaierait d’édifier un foyer sans vous
-saigner pour de belles parures, pour chaque chose, quelqu’un qui serait avec vous — une
-partie de vous-même.
-95 Cela m’a toujours frappé de voir comment c’était. Un avait choisi une belle fille; l’autre avait
-choisi un caractère. Maintenant, la seule façon de choisir c’est d’abord de regarder au
-caractère et ensuite, si vous l’aimez, c’est bien.
-96 Remarquez que le premier Adam de Dieu n’avait eu aucune possibilité de choisir sa femme. Il
-n’avait pas eu à faire de choix. Dieu lui en avait simplement fait une et il n’avait pas eu à la choisir.
-Maintenant, nous trouvons que c’est elle qui l’a conduit à s’éloigner de la Parole de Dieu. Il n’avait
-pas eu besoin de prier sur le sujet. Ce n’est pas comme pour vous ou pour moi. Il n’avait
-pas eu un choix à faire. Et de nouveau, en lui montrant une manière moderne de vivre —
-quelque chose qu’elle n’aurait jamais dû faire, elle l’a conduit à sortir de sa juste position de fils de
-Dieu. Son caractère démontre qu’elle était dans l’erreur; ses motifs et objectifs étaient simplement
-faux — et elle l’a persuadé par ses raisonnements que la nouvelle lumière, moderne, qu’elle avait
-trouvée, qui était contraire à la Parole de Dieu, était une meilleure manière de vivre.
-97 Et aujourd’hui, combien de femmes et vice versa, d’hommes pourraient éloigner de Dieu une
-femme bonne ou un homme bon, en essayant de lui dire que sa religion… Vous, les gars
-pentecôtistes vous dites: «Cette religion, oh, c’est démodé. Ce sont de vieilles badernes». Ne
-croyez pas cela. Vous feriez mieux de prier très sérieusement avant de marier cette fille.
-Cela m’est égal combien elle est jolie — la même chose pour un homme.
-98 Elle l’a persuadé de sortir de la volonté de Dieu et lui a fait faire quelque chose qu’il n’aurait
-pas dû faire, et le faisant, cela a causé la mort de la race humaine toute entière. C’est pourquoi
-la Bible lui interdit d’enseigner ou de prêcher ou d’utiliser la Parole de Dieu d’aucune
-manière. Je sais, soeurs, que beaucoup d’entre vous disent: «Le Seigneur m’a appelée pour
-prêcher». Je ne vais pas me disputer avec vous, mais je vais vous dire que la Parole dit que
-vous ne devez pas le faire. “Elle n’enseignera pas et ne prendra pas d’autorité, mais elle doit
-garder le silence”.
-
-        http://www.cmpp.ch
+94 Vous voyez! Et cette petite reine… Et j’ai reculé et regardé en arrière. Je pouvais voir la flèche au sommet de l’autre maison. Je suis resté là et j’ai observé quelques minutes. J’ai pensé: «Qui est l’homme riche?». J’ai pensé: «Bill Branham, si tu devais choisir un endroit, lequel choisirais-tu?». Pour moi, je ne prendrais pas cette belle chose, là-haut au sommet de la colline, mais je prendrais ce caractère ici en-bas. Une réelle reine du foyer, quelqu’un qui m’aimerait et resterait avec moi. Quelqu’un qui essaierait d’édifier un foyer sans vous saigner pour de belles parures, pour chaque chose, quelqu’un qui serait avec vous — une partie de vous-même.
+95 Cela m’a toujours frappé de voir comment c’était. Un avait choisi une belle fille; l’autre avait choisi un caractère. Maintenant, la seule façon de choisir c’est d’abord de regarder au caractère et ensuite, si vous l’aimez, c’est bien.
+96 Remarquez que le premier Adam de Dieu n’avait eu aucune possibilité de choisir sa femme. Il n’avait pas eu à faire de choix. Dieu lui en avait simplement fait une et il n’avait pas eu à la choisir. Maintenant, nous trouvons que c’est elle qui l’a conduit à s’éloigner de la Parole de Dieu. Il n’avait pas eu besoin de prier sur le sujet. Ce n’est pas comme pour vous ou pour moi. Il n’avait pas eu un choix à faire. Et de nouveau, en lui montrant une manière moderne de vivre — quelque chose qu’elle n’aurait jamais dû faire, elle l’a conduit à sortir de sa juste position de fils de Dieu. Son caractère démontre qu’elle était dans l’erreur; ses motifs et objectifs étaient simplement faux — et elle l’a persuadé par ses raisonnements que la nouvelle lumière, moderne, qu’elle avait trouvée, qui était contraire à la Parole de Dieu, était une meilleure manière de vivre.
+97 Et aujourd’hui, combien de femmes et vice versa, d’hommes pourraient éloigner de Dieu une femme bonne ou un homme bon, en essayant de lui dire que sa religion… Vous, les gars pentecôtistes vous dites: «Cette religion, oh, c’est démodé. Ce sont de vieilles badernes». Ne croyez pas cela. Vous feriez mieux de prier très sérieusement avant de marier cette fille. Cela m’est égal combien elle est jolie — la même chose pour un homme.
+98 Elle l’a persuadé de sortir de la volonté de Dieu et lui a fait faire quelque chose qu’il n’aurait pas dû faire, et le faisant, cela a causé la mort de la race humaine toute entière. C’est pourquoi la Bible lui interdit d’enseigner ou de prêcher ou d’utiliser la Parole de Dieu d’aucune manière. Je sais, soeurs, que beaucoup d’entre vous disent: «Le Seigneur m’a appelée pour prêcher». Je ne vais pas me disputer avec vous, mais je vais vous dire que la Parole dit que vous ne devez pas le faire. “Elle n’enseignera pas et ne prendra pas d’autorité, mais elle doit garder le silence”.
 
 LE CHOIX D’UNE EPOUSE 13
-99 Eh bien vous dites: «Le Seigneur m’a dit de le faire». Je n’en doute pas un seul instant. Avez-
-vous entendu mon message à propos de Balaam l’autre soir? Balaam avait reçu de Dieu la
-première décision, nette et précise: «Ne le fais pas». Mais il a continué à s’obstiner dans sa
-démarche jusqu’à ce que finalement Dieu lui dise d’aller le faire. Dieu peut vous permettre de
-prêcher. Je ne dis pas qu’Il ne l’ait pas fait. Mais, ce n’est pas en accord avec Sa Parole
-originelle et Son plan, car la femme doit être soumise comme le dit la loi. C’est vrai. C’est
-pourquoi elle n’est pas supposée le faire.
-100 Maintenant remarquez à nouveau comment l’épouse naturelle typifie l’Epouse spirituelle. La
-Parole dit qu’elle avait été faite pour l’homme et non l’homme fait pour elle. Maintenant, je vais
-parler dans quelques instants à propos de l’Epouse de Christ, c’est pourquoi j’essaie de vous
-montrer l’arrière-plan de ceci.
-101 La femme a été faite pour l’homme et non l’homme pour la femme. C’est la raison pour
-laquelle la polygamie était légale sous l’ancienne loi.
-102 Regardez David, assis là-bas avec cinq cents épouses. Et la Bible dit qu’il était un homme
-selon le coeur de Dieu Lui-même — avec cinq cent épouses. Et Salomon avec mille épouses,
-mais aucune d’entre elles ne pouvait avoir un autre mari.
-103 Prenez ma cassette sur le Mariage et Divorce. Il n’y a pas si longtemps, j’étais là-haut sur le
-sommet de la montagne à Tucson, en train de prier à ce sujet. Ils ont renvoyé les écoliers à la
-maison pour pouvoir regarder cette Colonne de Feu, tournoyant autour de la montagne, allant
-comme dans un entonnoir en avant et en arrière et en haut et en bas. Les gens d’ici le savent, ils
-L’ont vue. C’était lorsqu’Il m’a dit la Vérité à propos des questions du mariage et du divorce. S’il y
-a une partie qui va d’un côté et une de l’autre, il doit bien y avoir une Vérité quelque part. Et Il a
-montré où était la Vérité après l’ouverture de ces Sept Sceaux.
-104 Remarquez maintenant qu’elle pouvait avoir seulement un époux, parce que la femme a été
-faite pour l’homme et non l’homme pour la femme. Toutes ces cinq cents femmes étaient l’épouse
-de David. C’était juste un type… Quand Christ sera assis sur le trône dans le Millenium, Son
-Epouse ne sera pas une personne, mais ce sera des dizaines de milliers — L’Epouse, tous en
-une. Et David avait beaucoup de femmes, en tant qu’individu, mais seulement… Toutes ensemble
-constituaient son épouse. Exactement comme tout le Corps des croyants est l’Epouse de
-Christ. Parce que c’était elle, la femme et Il était l’homme.
-105 Maintenant, nous avons été faits pour Christ; Christ n’a pas été fait pour nous. C’est ce
-que nous essayons de faire aujourd’hui, dans nos livres… Essayer de faire que la Parole,
-Laquelle est Christ, nous convienne au lieu d’essayer nous-mêmes de convenir à la Parole.
-C’est cela la différence.
-106 Lorsqu’un homme choisit une certaine fille dans une famille, il ne doit pas se fier à la beauté,
-car la beauté est trompeuse, et la beauté (la beauté moderne du monde) est du diable. Oh,
-j’entends bien quelqu’un dire: «Soyez prudent, ici, prédicateur!». Je dis que ces choses, qui
-sont appelées «beauté» sur cette terre sont du diable, absolument. Je vous le prouverai.
-Alors, à la lumière de cette remarque, cherchons la Parole sainte de Dieu pour voir si cela est vrai
-ou non. Si quelques-unes d’entre vous, les femmes, voulez être si jolies, regardez d’où cela vient.
-107 Nous trouvons, au commencement, que Satan était si beau, le plus beau d’entre les anges,
-jusqu’au point de les tromper. Cela montre que la beauté est dans le diable. Les proverbes
-disent… Salomon a dit: “La beauté est vaine”. C’est vrai. Le péché est magnifique. Certainement il
-l’est. Il est attrayant.
-108 J’aimerais vous dire et vous demander quelque chose à vous tous ici et j’aimerais que vous le
-remarquiez dans quelques minutes. De toutes les espèces d’animaux au monde (oiseaux…), nous
-trouvons dans la vie animale que — à l’exception de l’espèce humaine — c’est le mâle qui est
-beau et non la femelle. Pourquoi cela? Regardez le cerf — le magnifique mâle avec ses bois et sa
-biche. Regardez la poule — la petite poule tachetée et le grand et beau coq emplumé.
-109 Il n’y a aucune femelle, à part la femme qui puisse être immorale. Vous appelez une chienne
-une rôdeuse; vous appelez une truie une cochonne, mais du point de vue moral, ils ont plus de
-morale que la moitié des stars de cinéma qu’il y a ici. Ils ne peuvent être rien d’autre que moral. Et
-la femme fut la seule qui fut changée en vue de la perversion. C’est vrai. Voyez où la mène sa
+99 Eh bien vous dites: «Le Seigneur m’a dit de le faire». Je n’en doute pas un seul instant. Avez-vous entendu mon message à propos de Balaam l’autre soir? Balaam avait reçu de Dieu la première décision, nette et précise: «Ne le fais pas». Mais il a continué à s’obstiner dans sa démarche jusqu’à ce que finalement Dieu lui dise d’aller le faire. Dieu peut vous permettre de prêcher. Je ne dis pas qu’Il ne l’ait pas fait. Mais, ce n’est pas en accord avec Sa Parole originelle et Son plan, car la femme doit être soumise comme le dit la loi. C’est vrai. C’est pourquoi elle n’est pas supposée le faire.
+100 Maintenant remarquez à nouveau comment l’épouse naturelle typifie l’Epouse spirituelle. La Parole dit qu’elle avait été faite pour l’homme et non l’homme fait pour elle. Maintenant, je vais parler dans quelques instants à propos de l’Epouse de Christ, c’est pourquoi j’essaie de vous montrer l’arrière-plan de ceci.
+101 La femme a été faite pour l’homme et non l’homme pour la femme. C’est la raison pour laquelle la polygamie était légale sous l’ancienne loi.
+102 Regardez David, assis là-bas avec cinq cents épouses. Et la Bible dit qu’il était un homme selon le coeur de Dieu Lui-même — avec cinq cent épouses. Et Salomon avec mille épouses, mais aucune d’entre elles ne pouvait avoir un autre mari.
+103 Prenez ma cassette sur le Mariage et Divorce. Il n’y a pas si longtemps, j’étais là-haut sur le sommet de la montagne à Tucson, en train de prier à ce sujet. Ils ont renvoyé les écoliers à la maison pour pouvoir regarder cette Colonne de Feu, tournoyant autour de la montagne, allant comme dans un entonnoir en avant et en arrière et en haut et en bas. Les gens d’ici le savent, ils L’ont vue. C’était lorsqu’Il m’a dit la Vérité à propos des questions du mariage et du divorce. S’il y a une partie qui va d’un côté et une de l’autre, il doit bien y avoir une Vérité quelque part. Et Il a montré où était la Vérité après l’ouverture de ces Sept Sceaux.
+104 Remarquez maintenant qu’elle pouvait avoir seulement un époux, parce que la femme a été faite pour l’homme et non l’homme pour la femme. Toutes ces cinq cents femmes étaient l’épouse de David. C’était juste un type… Quand Christ sera assis sur le trône dans le Millenium, Son Epouse ne sera pas une personne, mais ce sera des dizaines de milliers — L’Epouse, tous en une. Et David avait beaucoup de femmes, en tant qu’individu, mais seulement… Toutes ensemble constituaient son épouse. Exactement comme tout le Corps des croyants est l’Epouse de Christ. Parce que c’était elle, la femme et Il était l’homme.
+105 Maintenant, nous avons été faits pour Christ; Christ n’a pas été fait pour nous. C’est ce que nous essayons de faire aujourd’hui, dans nos livres… Essayer de faire que la Parole, Laquelle est Christ, nous convienne au lieu d’essayer nous-mêmes de convenir à la Parole. C’est cela la différence.
+106 Lorsqu’un homme choisit une certaine fille dans une famille, il ne doit pas se fier à la beauté, car la beauté est trompeuse, et la beauté (la beauté moderne du monde) est du diable. Oh, j’entends bien quelqu’un dire: «Soyez prudent, ici, prédicateur!». Je dis que ces choses, qui sont appelées «beauté» sur cette terre sont du diable, absolument. Je vous le prouverai. Alors, à la lumière de cette remarque, cherchons la Parole sainte de Dieu pour voir si cela est vrai ou non. Si quelques-unes d’entre vous, les femmes, voulez être si jolies, regardez d’où cela vient.
+107 Nous trouvons, au commencement, que Satan était si beau, le plus beau d’entre les anges, jusqu’au point de les tromper. Cela montre que la beauté est dans le diable. Les proverbes disent… Salomon a dit: “La beauté est vaine”. C’est vrai. Le péché est magnifique. Certainement il l’est. Il est attrayant.
+108 J’aimerais vous dire et vous demander quelque chose à vous tous ici et j’aimerais que vous le remarquiez dans quelques minutes. De toutes les espèces d’animaux au monde (oiseaux…), nous trouvons dans la vie animale que — à l’exception de l’espèce humaine — c’est le mâle qui est beau et non la femelle. Pourquoi cela? Regardez le cerf — le magnifique mâle avec ses bois et sa biche. Regardez la poule — la petite poule tachetée et le grand et beau coq emplumé.
+109 Il n’y a aucune femelle, à part la femme qui puisse être immorale. Vous appelez une chienne une rôdeuse; vous appelez une truie une cochonne, mais du point de vue moral, ils ont plus de morale que la moitié des stars de cinéma qu’il y a ici. Ils ne peuvent être rien d’autre que moral. Et la femme fut la seule qui fut changée en vue de la perversion. C’est vrai. Voyez où la mène sa
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 14
-beauté! Maintenant c’est pourquoi nous trouvons aujourd’hui que la femme devient de plus en plus
-belle.
-110 Vous prenez Pearl Bryan. N’avez-vous jamais vu une photo de celle qui était supposée être la
-plus grande beauté d’Amérique? Il n’y avait pas un élève, dans toutes les écoles qui n’eût pas
-voulu l’avoir dans une des rangées du fond. Savez-vous que cela est supposé être ainsi? Savez-
-vous que la Bible parle de cela, que c’est de cette manière que cela se passera?
-111 Savez-vous qu’au commencement la chute est venue par la femme? La fin se passera de la
-même façon — les femmes venant au pouvoir et dominant les hommes et ainsi de suite.
-Saviez-vous que l’Ecriture dit cela? Vous savez que le jour où elle porte les habits de l’homme,
-coupe ses cheveux… Toutes ces choses sont contraires à la Parole de Dieu. Savez-vous qu’elle
-représente l’église? Observez ce que les femmes font et vous verrez ce que l’église est en train
-de faire. C’est parfaitement exact.
-112 Maintenant, c’est aussi vrai que la Parole de Dieu est vraie. Aucune autre femelle ne peut
-s’avilir comme la femme peut le faire. Et maintenant, à travers cela, étant tirée de… Elle n’était
-pas dans la création originelle. Toutes les autres femelles étaient dans la création originelle —
-animaux, oiseaux, mâle et femelle — mais dans la vie humaine, Dieu avait seulement fait un
-homme. Et Il l’a prise de lui — et une femme est un produit dérivé de l’homme parce que Dieu ne
-pouvait pas établir une telle chose. Certainement pas. Examinez les Ecritures. C’est parfaitement
-exact. Elle a été placée là-bas dans Sa création originelle, mais si elle peut se tenir elle-même
-correctement, alors elle aura une plus grande récompense que l’homme! Elle est mise à l’épreuve.
-113 La mort est venue au travers d’elle. Elle est coupable de toute mort. Mais alors Dieu a
-retourné la chose et a utilisé une femme pour ramener à nouveau la Vie. Il amena Son Fils au
-travers de la femme, une femme obéissante. Mais une femme mauvaise, c’est la pire chose qu’il y
-ait. Il n’y a rien qui puisse être aussi bas.
-114 Caïn, le fils de Satan, avait pensé que Dieu acceptait la beauté. Il le fait encore aujourd’hui.
-Caïn était le fils de Satan. «Eh bien, maintenant, vous dites…». Nous n’irons pas dans ce sujet
-(pas dans les détails), mais laissez-moi juste régler cela. La Bible dit qu’il était de ce méchant-
-là. Aussi, cela règle le problème. D’accord?
-115 Maintenant il était le fils de Satan et il pensait qu’en apportant ses dons à l’autel et en les
-présentant joliment pour l’adoration, Dieu aurait du respect pour cela. Ils pensent la même chose
-aujourd’hui. Certainement. «Nous avons bâti un grand bâtiment; nous aurons une grande
-dénomination; nous ferons le plus grand bâtiment et aurons les gens les mieux habillés, les
-ecclésiastiques les plus cultivés». Parfois Dieu est à dix millions de miles de cela. C’est vrai.
-116 Cela, c’est l’église. Ainsi, si Dieu respectait seulement l’adoration, la sincérité, le sacrifice,
-Caïn aurait été aussi juste qu’Abel. Mais c’est par révélation que celui-ci avait compris que ce
-n’était pas des pommes que ses parents avaient mangées.
-117 Je vais dire quelque chose qui semble bien peu convenable de la part d’un ministre de Dieu,
-mais je vais quand même le dire. J’entends ces autres dire des choses… faire des petites
-plaisanteries. Maintenant, je ne le pense pas. Je le dis ainsi: si manger des pommes a permis aux
-femmes de réaliser qu’elles étaient nues, nous ferions mieux de leur en donner à nouveau.
-Pardonnez-moi cela. Mais c’est comme si cela pouvait changer… Je vous ai retenu ici, parlant à
-propos des femmes et ainsi de suite; je veux vous détendre une minute pour vous préparer à ce
-qui va venir.
-118 Maintenant, remarquez que ce n’était pas des pommes. Nous savons cela. En ces jours,
-l’église est devenue scientifique avec ses réalisations, tout comme ce qui est réalisé par la main
-de l’homme; elle est devenue scientifique. Ils essaient de faire une église scientifique avec l’attrait
-des images et des grands clochers. C’est terrible que les pentecôtistes soient tombés dans cette
-ornière. Vous feriez mieux de descendre au coin de la rue avec un tambourin et l’Esprit de Dieu
-autour de vous. Mais vous essayez de vous comparer au reste d’entre eux parce que vous
-êtes devenus une dénomination. C’est ce qui a conduit cela, vous voyez. Les églises essaient
-d’être scientifiques. Et rappelez-vous que l’homme réalise des progrès grâce à la science et que
-chaque jour il se tue ainsi lui-même.
+beauté! Maintenant c’est pourquoi nous trouvons aujourd’hui que la femme devient de plus en plus belle.
+110 Vous prenez Pearl Bryan. N’avez-vous jamais vu une photo de celle qui était supposée être la plus grande beauté d’Amérique? Il n’y avait pas un élève, dans toutes les écoles qui n’eût pas voulu l’avoir dans une des rangées du fond. Savez-vous que cela est supposé être ainsi? Savez-vous que la Bible parle de cela, que c’est de cette manière que cela se passera?
+111 Savez-vous qu’au commencement la chute est venue par la femme? La fin se passera de la même façon — les femmes venant au pouvoir et dominant les hommes et ainsi de suite. Saviez-vous que l’Ecriture dit cela? Vous savez que le jour où elle porte les habits de l’homme, coupe ses cheveux… Toutes ces choses sont contraires à la Parole de Dieu. Savez-vous qu’elle représente l’église? Observez ce que les femmes font et vous verrez ce que l’église est en train de faire. C’est parfaitement exact.
+112 Maintenant, c’est aussi vrai que la Parole de Dieu est vraie. Aucune autre femelle ne peut s’avilir comme la femme peut le faire. Et maintenant, à travers cela, étant tirée de… Elle n’était pas dans la création originelle. Toutes les autres femelles étaient dans la création originelle — animaux, oiseaux, mâle et femelle — mais dans la vie humaine, Dieu avait seulement fait un homme. Et Il l’a prise de lui — et une femme est un produit dérivé de l’homme parce que Dieu ne pouvait pas établir une telle chose. Certainement pas. Examinez les Ecritures. C’est parfaitement exact. Elle a été placée là-bas dans Sa création originelle, mais si elle peut se tenir elle-même correctement, alors elle aura une plus grande récompense que l’homme! Elle est mise à l’épreuve.
+113 La mort est venue au travers d’elle. Elle est coupable de toute mort. Mais alors Dieu a retourné la chose et a utilisé une femme pour ramener à nouveau la Vie. Il amena Son Fils au travers de la femme, une femme obéissante. Mais une femme mauvaise, c’est la pire chose qu’il y ait. Il n’y a rien qui puisse être aussi bas.
+114 Caïn, le fils de Satan, avait pensé que Dieu acceptait la beauté. Il le fait encore aujourd’hui. Caïn était le fils de Satan. «Eh bien, maintenant, vous dites…». Nous n’irons pas dans ce sujet (pas dans les détails), mais laissez-moi juste régler cela. La Bible dit qu’il était de ce méchant-là. Aussi, cela règle le problème. D’accord?
+115 Maintenant il était le fils de Satan et il pensait qu’en apportant ses dons à l’autel et en les présentant joliment pour l’adoration, Dieu aurait du respect pour cela. Ils pensent la même chose aujourd’hui. Certainement. «Nous avons bâti un grand bâtiment; nous aurons une grande dénomination; nous ferons le plus grand bâtiment et aurons les gens les mieux habillés, les ecclésiastiques les plus cultivés». Parfois Dieu est à dix millions de miles de cela. C’est vrai.
+116 Cela, c’est l’église. Ainsi, si Dieu respectait seulement l’adoration, la sincérité, le sacrifice, Caïn aurait été aussi juste qu’Abel. Mais c’est par révélation que celui-ci avait compris que ce n’était pas des pommes que ses parents avaient mangées.
+117 Je vais dire quelque chose qui semble bien peu convenable de la part d’un ministre de Dieu, mais je vais quand même le dire. J’entends ces autres dire des choses… faire des petites plaisanteries. Maintenant, je ne le pense pas. Je le dis ainsi: si manger des pommes a permis aux femmes de réaliser qu’elles étaient nues, nous ferions mieux de leur en donner à nouveau. Pardonnez-moi cela. Mais c’est comme si cela pouvait changer… Je vous ai retenu ici, parlant à propos des femmes et ainsi de suite; je veux vous détendre une minute pour vous préparer à ce qui va venir.
+118 Maintenant, remarquez que ce n’était pas des pommes. Nous savons cela. En ces jours, l’église est devenue scientifique avec ses réalisations, tout comme ce qui est réalisé par la main de l’homme; elle est devenue scientifique. Ils essaient de faire une église scientifique avec l’attrait des images et des grands clochers. C’est terrible que les pentecôtistes soient tombés dans cette ornière. Vous feriez mieux de descendre au coin de la rue avec un tambourin et l’Esprit de Dieu autour de vous. Mais vous essayez de vous comparer au reste d’entre eux parce que vous êtes devenus une dénomination. C’est ce qui a conduit cela, vous voyez. Les églises essaient d’être scientifiques. Et rappelez-vous que l’homme réalise des progrès grâce à la science et que chaque jour il se tue ainsi lui-même.
 
         http://www.cmpp.ch
 
     LE CHOIX D’UNE EPOUSE                      15
-119 Regardez ce qu’il a fait lorsqu’il a inventé la poudre à fusil. Quand il a inventé l’automobile,
-cela a tué plus que ne l’a fait la poudre à fusil. Maintenant, il a la bombe à hydrogène. Je me
-demande ce qu’il va faire avec cela. Vraiment!
-120 Et ainsi est l’église. Et comme elle essaie d’accomplir des choses par la science, par des
-plans faits par l’homme, cela l’éloigne de Dieu et vous entraîne dans la mort plus qu’au
-début. C’est vrai. Ne choisissez pas votre église de la même manière que vous avez choisi votre
-femme. Ce que la science a fait pour elle est une merveille, mais vous feriez mieux de vous tenir à
-l’écart de l’église à cet égard. Il a fait le maquillage, les poudres et toutes ces autres choses.
-Choisissez le caractère de Sa Parole.
-121 Maintenant, comparons l’épouse naturelle d’aujourd’hui avec la soi-disant église-épouse
-actuelle. Comparons une femme qui va se marier aujourd’hui — observez simplement ce que la
-science a fait pour elle. Elle vient premièrement avec ses cheveux coupés — une de ces coupes à
-la Jacqueline Kennedy, vous voyez, ou quelque chose comme cela. Et vous savez ce que la Bible
-dit? La Bible donne réellement à un homme le droit, s’il le veut, de se séparer d’elle par le divorce,
-si elle fait cela. Ce n’est pas une femme honorable qui coupe ses cheveux. La Bible le dit.
-C’est vrai. Ne savez-vous pas cela? Oh, oui, j’ai tellement prêché à ce propos en Californie que
-vous devriez le savoir. C’est vrai. Non? Quel bien cela me fait-il? Elles le font de toute façon. Vous
-ne pouvez pas prendre un cochon et faire de lui un agneau.
-122 Remarquez… Vous allez me haïr après cela, mais vous allez connaître la vérité. Comparons.
-Ici, elle vient avec toute sa peinture — quelque chose qu’elle n’est pas — une épouse moderne. Si
-vous laviez son visage, vous vous enfuiriez loin d’elle — en enlevant toute cette peinture, peut-être
-vous ferait-elle peur à en mourir. Et c’est la même chose pour l’église avec sa façade
-complètement peinte de théologie «Max Factor». Les deux portent un magnifique faux visage
-— beauté faite de mains d’homme et non beauté faite par Dieu. Pas beaucoup de caractère, ni
-dans l’une, ni dans l’autre.
-123 Remarquez, exactement comme Satan, assez pour tromper! Comparons maintenant l’épouse
-moderne, portant des shorts, maquillée, aux cheveux coupés, portant des vêtements d’homme et
-écoutant un pasteur qui lui dit que c’est très bien. C’est un trompeur! Il souffrira pour cela dans
-les régions d’en-bas. C’est vrai. Elle fait cela pour tromper, pour être quelque chose qu’elle n’est
-pas.
-124 C’est de cette manière que l’église pratique: ayez ces grands doctorats, diplômes, comme
-cela vous pouvez dire: «Notre pasteur est ceci, cela et quelque chose d’autre». Peut-être qu’il ne
-connaît pas Dieu autant qu’un Hottentot connaît la nuit égyptienne! C’est vrai. Il fait une certaine
-expérience théologique dans un séminaire là-bas, mais il ne connaît rien au sujet de Dieu.
-125 L’église moderne et sa peinture théologique! Ils ont leurs femmes avec leur gloire rasée
-[cheveux — N.d.T.] par quelque soi-disant «Ricky» pasteur. Comme une Jézabel, s’il n’y en a
-jamais eu une. Cheveux courts, shorts, maquillage et tout cela accommodé à la sauce
-théologique. C’est de cette manière que l’église se tient. C’est vrai. Mais son caractère spirituel
-est loin d’être celui d’une fée du logis que Jésus vient pour prendre à Lui.
-126 Si un chrétien marie une telle femme, cela montre qu’il a chuté loin de la grâce. Son goût
-pour Dieu et son goût d’un foyer (de ce qu’un foyer devrait être) est bien éloigné lorsqu’il choisit
-une femme comme cela. Certainement, elle ne conviendrait pas au goût d’un chrétien. Son
-caractère spirituel est au plus bas — mort dans la beauté dénominationnelle et dans les
-convoitises du monde.
-127 C’est exactement là où l’église d’aujourd’hui se tient. Elle a vendu à Satan le caractère de
-Parole qui lui a été donné, pour une religion scientifique faite de mains d’homme. Elle avait
-pourtant le droit, en tant qu’Eglise de Dieu, de rester avec la Parole de Dieu et d’avoir l’Esprit
-Saint travaillant parmi elle, soudant le Corps ensemble avec la Parole et l’amour de Dieu. A
-la place de cela, elle a vendu son droit d’aînesse, comme Esaü. Elle a pris une dénomination qui
-lui laisserait faire ce qu’elle a envie de faire. C’est vrai. Simplement être aussi populaire que sa
-mère le fut, à Nicée, à Rome. La Parole de Dieu. Oh, comment tout cela est entré dans notre
-royaume pentecôtiste. C’est trop terrible, mais cela a été fait.
+119 Regardez ce qu’il a fait lorsqu’il a inventé la poudre à fusil. Quand il a inventé l’automobile, cela a tué plus que ne l’a fait la poudre à fusil. Maintenant, il a la bombe à hydrogène. Je me demande ce qu’il va faire avec cela. Vraiment!
+120 Et ainsi est l’église. Et comme elle essaie d’accomplir des choses par la science, par des plans faits par l’homme, cela l’éloigne de Dieu et vous entraîne dans la mort plus qu’au début. C’est vrai. Ne choisissez pas votre église de la même manière que vous avez choisi votre femme. Ce que la science a fait pour elle est une merveille, mais vous feriez mieux de vous tenir à l’écart de l’église à cet égard. Il a fait le maquillage, les poudres et toutes ces autres choses. Choisissez le caractère de Sa Parole.
+121 Maintenant, comparons l’épouse naturelle d’aujourd’hui avec la soi-disant église-épouse actuelle. Comparons une femme qui va se marier aujourd’hui — observez simplement ce que la science a fait pour elle. Elle vient premièrement avec ses cheveux coupés — une de ces coupes à la Jacqueline Kennedy, vous voyez, ou quelque chose comme cela. Et vous savez ce que la Bible dit? La Bible donne réellement à un homme le droit, s’il le veut, de se séparer d’elle par le divorce, si elle fait cela. Ce n’est pas une femme honorable qui coupe ses cheveux. La Bible le dit. C’est vrai. Ne savez-vous pas cela? Oh, oui, j’ai tellement prêché à ce propos en Californie que vous devriez le savoir. C’est vrai. Non? Quel bien cela me fait-il? Elles le font de toute façon. Vous ne pouvez pas prendre un cochon et faire de lui un agneau.
+122 Remarquez… Vous allez me haïr après cela, mais vous allez connaître la vérité. Comparons. Ici, elle vient avec toute sa peinture — quelque chose qu’elle n’est pas — une épouse moderne. Si vous laviez son visage, vous vous enfuiriez loin d’elle — en enlevant toute cette peinture, peut-être vous ferait-elle peur à en mourir. Et c’est la même chose pour l’église avec sa façade complètement peinte de théologie «Max Factor». Les deux portent un magnifique faux visage — beauté faite de mains d’homme et non beauté faite par Dieu. Pas beaucoup de caractère, ni dans l’une, ni dans l’autre.
+123 Remarquez, exactement comme Satan, assez pour tromper! Comparons maintenant l’épouse moderne, portant des shorts, maquillée, aux cheveux coupés, portant des vêtements d’homme et écoutant un pasteur qui lui dit que c’est très bien. C’est un trompeur! Il souffrira pour cela dans les régions d’en-bas. C’est vrai. Elle fait cela pour tromper, pour être quelque chose qu’elle n’est pas.
+124 C’est de cette manière que l’église pratique: ayez ces grands doctorats, diplômes, comme cela vous pouvez dire: «Notre pasteur est ceci, cela et quelque chose d’autre». Peut-être qu’il ne connaît pas Dieu autant qu’un Hottentot connaît la nuit égyptienne! C’est vrai. Il fait une certaine expérience théologique dans un séminaire là-bas, mais il ne connaît rien au sujet de Dieu.
+125 L’église moderne et sa peinture théologique! Ils ont leurs femmes avec leur gloire rasée [cheveux — N.d.T.] par quelque soi-disant «Ricky» pasteur. Comme une Jézabel, s’il n’y en a jamais eu une. Cheveux courts, shorts, maquillage et tout cela accommodé à la sauce théologique. C’est de cette manière que l’église se tient. C’est vrai. Mais son caractère spirituel est loin d’être celui d’une fée du logis que Jésus vient pour prendre à Lui.
+126 Si un chrétien marie une telle femme, cela montre qu’il a chuté loin de la grâce. Son goût pour Dieu et son goût d’un foyer (de ce qu’un foyer devrait être) est bien éloigné lorsqu’il choisit une femme comme cela. Certainement, elle ne conviendrait pas au goût d’un chrétien. Son caractère spirituel est au plus bas — mort dans la beauté dénominationnelle et dans les convoitises du monde.
+127 C’est exactement là où l’église d’aujourd’hui se tient. Elle a vendu à Satan le caractère de Parole qui lui a été donné, pour une religion scientifique faite de mains d’homme. Elle avait pourtant le droit, en tant qu’Eglise de Dieu, de rester avec la Parole de Dieu et d’avoir l’Esprit Saint travaillant parmi elle, soudant le Corps ensemble avec la Parole et l’amour de Dieu. A la place de cela, elle a vendu son droit d’aînesse, comme Esaü. Elle a pris une dénomination qui lui laisserait faire ce qu’elle a envie de faire. C’est vrai. Simplement être aussi populaire que sa mère le fut, à Nicée, à Rome. La Parole de Dieu. Oh, comment tout cela est entré dans notre royaume pentecôtiste. C’est trop terrible, mais cela a été fait.
 
                              http://www.cmpp.ch
 
     LE CHOIX D’UNE EPOUSE    16
-128 Juste pour une minute, remarquez une nonne dans l’église catholique. Cette femme, pour
-devenir une nonne, a pris ce dernier voile. Elle est absolument vendue à cette église. Elle est
-propriété de cette église, corps, âme et esprit. Elle n’a pas de pensée propre. Elle ne peut plus en
-avoir du moment qu’elle prend ce dernier voile. Pas de pensée propre; pas de volonté propre.
-129 Voyez là-bas, ce satan qui leur fait sa tromperie, imitant la vraie Eglise de Christ
-(l’Epouse) qui est vendue à Christ et à Sa Parole promise jusqu’à ce que la pensée même
-qui est en Christ soit en vous. Quelle différence!
-130 Et nous trouvons qu’aujourd’hui, cette église moderne, l’église moderne du monde et aussi
-l’Eglise spirituelle sont les deux fécondées pour donner naissance à des fils. L’une d’entre elles,
-issue d’une naissance dénominationnelle engendrera un de ces jours le Concile Mondial des
-Eglises, lequel produira dans le monde, l’antichrist au travers d’une dénomination. C’est
-exactement la vérité. Je pourrais bien ne pas vivre assez longtemps pour le voir, mais je pense
-que je le verrai. Vous, jeunes gens, rappelez-vous que vous avez entendu un ministre de
-l’Evangile dire cela: que finalement cela se terminera avec la marque de la bête lorsqu’elle
-aura formé le Concile Mondial des Eglises et qu’elle aura donné naissance à son fils,
-l’antichrist.
-131 L’autre est fécondée par la Parole de Dieu et donnera naissance au Corps — le Corps à
-la stature parfaite de Jésus-Christ, l’Epouse. Le Corps de Christ n’est pas encore terminé.
-Combien d’entre vous le savent? Un homme et une femme sont un. Et Christ est un avec la
-Parole. L’Epouse sera le reste de ce Corps et les deux ensemble feront à nouveau un seul
-Corps, comme l’était Adam au commencement.
-132 Un homme et sa femme sont un. Maintenant Elle, la véritable Epouse, est tellement vendue à
-Lui qu’Elle n’utilise pas ses propres pensées. Sa pensée, bien entendu est Sa volonté et Sa
-volonté est Sa Parole.
-133 Maintenant, regardez à la soi-disant épouse choisie par l’homme et comparez l’Eglise
-spirituelle à la naturelle de ce jour: une Jézabel moderne, ensorcelée par son Achab, les «Max-
-Factor» beautés et toutes ces choses. Regardez à l’église: la même manière de faire, mais une
-prostituée à la Parole du Dieu vivant — grandes dénominations, bâtiments imposants, argent à
-flot, gros salaires, tout est vendu. Des hommes se tenant au pupitre, cautionnant cela, et les
-laissant faire cela. Pure tromperie, c’est tout. Véritablement une église de Laodicée aveugle,
-exactement ce que la Bible a dit qu’elle serait.
-134 Elle dit: “Je suis riche, je me tiens comme une reine, je n’ai besoin de rien… Mais tu ne sais
-pas que tu es pauvre, misérable, aveugle et nue!”. Si cela n’est pas le «Ainsi dit le Seigneur» du
-chapitre 3 de l’Apocalypse, alors je ne l’ai jamais lu. C’est ce qu’elle est et elle ne le sait pas.
-Pensez-y!
-135 Si vous disiez à un homme ou à une femme dans la rue qu’il sont nus comme des vers et
-qu’ils vous disent: «Mêlez-vous de ce qui vous regarde!». Il y aurait là quelque part de la
-déficience mentale; il y aurait quelque chose qui ne tournerait pas rond dans leur tête. Et si vous
-lisiez la Parole de Dieu, ce que ces gens devraient faire, par le baptême du Saint-Esprit que nous
-avons aujourd’hui… Mais ces gens vous regardent comme si vous étiez fous. Vous leur dites
-qu’ils doivent naître de nouveau, qu’ils doivent croire la Bible, ils vous disent: «Ça, c’est une
-fable juive des temps passés. Notre église a le chemin!». Misérable, pauvre, aveugle et nue et ils
-ne le savent pas.
-136 Et la Bible dit que c’était la condition dans laquelle elle tomberait. Comment un vrai prophète
-pourrait-il jamais manquer de voir cela? Je ne le sais pas. Cela pénètre droit dans nos églises,
-partout. Observez simplement. Pile dans l’air du temps!
-137 La vieille prostituée et ses filles d’Apocalypse 17, donnant aux pauvres, aveugles et
-misérables sa doctrine théologique, contraire à la Parole de Dieu. Ils ont trouvé en elle les âmes
-des esclaves, des hommes et des femmes de partout. Au lieu d’attirer le peuple… Christ justifie
-Sa Parole et attire les gens. Il n’attire pas les gens des églises qui sont attirés par les grandes
-dénominations, les grandes oeuvres, les grands ceci et cela fantaisistes, mais la Parole de Dieu
-attire l’Epouse de Christ.
+128 Juste pour une minute, remarquez une nonne dans l’église catholique. Cette femme, pour devenir une nonne, a pris ce dernier voile. Elle est absolument vendue à cette église. Elle est propriété de cette église, corps, âme et esprit. Elle n’a pas de pensée propre. Elle ne peut plus en avoir du moment qu’elle prend ce dernier voile. Pas de pensée propre; pas de volonté propre.
+129 Voyez là-bas, ce satan qui leur fait sa tromperie, imitant la vraie Eglise de Christ (l’Epouse) qui est vendue à Christ et à Sa Parole promise jusqu’à ce que la pensée même qui est en Christ soit en vous. Quelle différence!
+130 Et nous trouvons qu’aujourd’hui, cette église moderne, l’église moderne du monde et aussi l’Eglise spirituelle sont les deux fécondées pour donner naissance à des fils. L’une d’entre elles, issue d’une naissance dénominationnelle engendrera un de ces jours le Concile Mondial des Eglises, lequel produira dans le monde, l’antichrist au travers d’une dénomination. C’est exactement la vérité. Je pourrais bien ne pas vivre assez longtemps pour le voir, mais je pense que je le verrai. Vous, jeunes gens, rappelez-vous que vous avez entendu un ministre de l’Evangile dire cela: que finalement cela se terminera avec la marque de la bête lorsqu’elle aura formé le Concile Mondial des Eglises et qu’elle aura donné naissance à son fils, l’antichrist.
+131 L’autre est fécondée par la Parole de Dieu et donnera naissance au Corps — le Corps à la stature parfaite de Jésus-Christ, l’Epouse. Le Corps de Christ n’est pas encore terminé. Combien d’entre vous le savent? Un homme et une femme sont un. Et Christ est un avec la Parole. L’Epouse sera le reste de ce Corps et les deux ensemble feront à nouveau un seul Corps, comme l’était Adam au commencement.
+132 Un homme et sa femme sont un. Maintenant Elle, la véritable Epouse, est tellement vendue à Lui qu’Elle n’utilise pas ses propres pensées. Sa pensée, bien entendu est Sa volonté et Sa volonté est Sa Parole.
+133 Maintenant, regardez à la soi-disant épouse choisie par l’homme et comparez l’Eglise spirituelle à la naturelle de ce jour: une Jézabel moderne, ensorcelée par son Achab, les «Max-Factor» beautés et toutes ces choses. Regardez à l’église: la même manière de faire, mais une prostituée à la Parole du Dieu vivant — grandes dénominations, bâtiments imposants, argent à flot, gros salaires, tout est vendu. Des hommes se tenant au pupitre, cautionnant cela, et les laissant faire cela. Pure tromperie, c’est tout. Véritablement une église de Laodicée aveugle, exactement ce que la Bible a dit qu’elle serait.
+134 Elle dit: “Je suis riche, je me tiens comme une reine, je n’ai besoin de rien… Mais tu ne sais pas que tu es pauvre, misérable, aveugle et nue!”. Si cela n’est pas le «Ainsi dit le Seigneur» du chapitre 3 de l’Apocalypse, alors je ne l’ai jamais lu. C’est ce qu’elle est et elle ne le sait pas. Pensez-y!
+135 Si vous disiez à un homme ou à une femme dans la rue qu’il sont nus comme des vers et qu’ils vous disent: «Mêlez-vous de ce qui vous regarde!». Il y aurait là quelque part de la déficience mentale; il y aurait quelque chose qui ne tournerait pas rond dans leur tête. Et si vous lisiez la Parole de Dieu, ce que ces gens devraient faire, par le baptême du Saint-Esprit que nous avons aujourd’hui… Mais ces gens vous regardent comme si vous étiez fous. Vous leur dites qu’ils doivent naître de nouveau, qu’ils doivent croire la Bible, ils vous disent: «Ça, c’est une fable juive des temps passés. Notre église a le chemin!». Misérable, pauvre, aveugle et nue et ils ne le savent pas.
+136 Et la Bible dit que c’était la condition dans laquelle elle tomberait. Comment un vrai prophète pourrait-il jamais manquer de voir cela? Je ne le sais pas. Cela pénètre droit dans nos églises, partout. Observez simplement. Pile dans l’air du temps!
+137 La vieille prostituée et ses filles d’Apocalypse 17, donnant aux pauvres, aveugles et misérables sa doctrine théologique, contraire à la Parole de Dieu. Ils ont trouvé en elle les âmes des esclaves, des hommes et des femmes de partout. Au lieu d’attirer le peuple… Christ justifie Sa Parole et attire les gens. Il n’attire pas les gens des églises qui sont attirés par les grandes dénominations, les grandes oeuvres, les grands ceci et cela fantaisistes, mais la Parole de Dieu attire l’Epouse de Christ.
 
 
                              http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 17
-138 Maintenant remarquez, c’est intéressant de noter comment cette église essaie d’attirer
-l’attention des gens par des vêtements fins, des choeurs bien habillés, des femmes aux cheveux
-coupés et aux visages maquillés. Et ils pensent qu’ils peuvent chanter comme un ange —
-mensonge, comme un démon qui court alentour toute la nuit pour danser… et ne réalisent rien à
-ce sujet! Ce qu’ils pensent, c’est que tout est bien, que c’est beau. Mais vous voyez, c’est une
-tromperie. Cela, ce n’est pas la Parole de Dieu, car la véritable Epouse attire l’attention de
-Dieu en gardant Sa Parole.
-139 Maintenant observons Christ. Vous dites: «Eh bien, attendez une minute, quelle est cette
-beauté dont vous parlez?». La Bible dit dans Ésaïe 53.2 que lorsque Jésus est venu sur terre, il
-n’y avait point de beauté en Lui pour nous Le faire désirer. Est-ce vrai? Il n’y a pas de beauté. S’Il
-était venu dans la beauté du monde, comme Satan aujourd’hui, les gens auraient couru autour de
-Lui et L’auraient accepté, de la même manière qu’ils acceptent l’église aujourd’hui. Ils auraient cru
-en Lui et L’auraient accepté, comme ils le font avec Satan aujourd’hui. Certainement qu’ils
-l’auraient fait. Mais Il n’est pas venu avec cette sorte de beauté, mais Il vient toujours avec la
-beauté du caractère. Christ n’était pas un bel homme, grand, fort ou imposant. Dieu ne choisit
-pas ces sortes de choses.
-140 Je me rappelle qu’une fois, un prophète s’est levé pour prendre un roi, pour faire un roi
-d’entre les fils de Jessé, pour qu’il prenne la place d’un autre roi — Saül. Alors Jessé a fait
-s’avancer ce fils. Il était un grand, imposant et beau garçon et il a dit: “La couronne ira bien sur sa
-tête”.
-141 Et le prophète vint pour verser l’huile sur lui et dit: “Dieu l’a refusé”. Et Il refusa chacun d’entre
-eux jusqu’à ce qu’il arriva à un petit garçon aux épaules tombantes, rougeaud de figure pour
-verser l’huile sur lui et qu’il dise: “Dieu l’a choisi”. Vous voyez, nous choisissons par la vue, Dieu
-par le caractère.
-142 Caractère — il n’y a jamais eu un caractère comme celui de Jésus-Christ. Il vit en Lui,
-se manifeste en Lui. Nous le voyons véritablement. Ce n’est pas la beauté du monde en Lui
-qui attire Son Epouse, c’est Son caractère — le caractère de l’Eglise que Jésus cherche; ce ne
-sont ni les grands bâtiments, ni les grandes dénominations ou le nombre important de leurs
-membres. Il a promis d’être partout là où deux ou trois sont réunis ensemble, véritablement. C’est
-là que les vrais croyants placent leurs espoirs, sur cette Parole de Dieu confirmée, la
-Vérité. Qui est-elle? Choisie par Sa Parole non pas par un charmant groupe mondain. Ils haïssent
-cela. Ce n’est pas étonnant si elle a divorcé de Lui, parce qu’elle a manqué de voir Sa
-révélation et elle ne La possède pas. La manière dont elle agit et fait, toutes ces choses
-mondaines qu’elle possède; Il ne prend pas soin d’elle… Il regarde à son caractère, au caractère
-de Christ.
-143 Maintenant, juste encore un instant; c’est cela. Il choisit une Epouse pour refléter Son
-caractère. L’église moderne d’aujourd’hui certainement manque Son programme. Ils sont à un
-million de miles parce qu’ils dénient que cela est la Vérité. Comment pourrait-il en être autrement?
-Maintenant, Il attend le jour où cette Epouse sera formée (Hébreux 13.8), juste exactement
-comment Il était. Cela doit être comme Sa propre chair, les mêmes os, le même Esprit, en toutes
-choses le même, parfaitement édifié et alors les deux deviendront un. Ils ne sont pas un tant
-que l’Eglise n’est pas cela. Le caractère qui est le Sien (la Parole pour cet âge) doit être
-modelé. Elle doit être modelée à Son image.
+138 Maintenant remarquez, c’est intéressant de noter comment cette église essaie d’attirer l’attention des gens par des vêtements fins, des choeurs bien habillés, des femmes aux cheveux coupés et aux visages maquillés. Et ils pensent qu’ils peuvent chanter comme un ange — mensonge, comme un démon qui court alentour toute la nuit pour danser… et ne réalisent rien à ce sujet! Ce qu’ils pensent, c’est que tout est bien, que c’est beau. Mais vous voyez, c’est une tromperie. Cela, ce n’est pas la Parole de Dieu, car la véritable Epouse attire l’attention de Dieu en gardant Sa Parole.
+139 Maintenant observons Christ. Vous dites: «Eh bien, attendez une minute, quelle est cette beauté dont vous parlez?». La Bible dit dans Ésaïe 53.2 que lorsque Jésus est venu sur terre, il n’y avait point de beauté en Lui pour nous Le faire désirer. Est-ce vrai? Il n’y a pas de beauté. S’Il était venu dans la beauté du monde, comme Satan aujourd’hui, les gens auraient couru autour de Lui et L’auraient accepté, de la même manière qu’ils acceptent l’église aujourd’hui. Ils auraient cru en Lui et L’auraient accepté, comme ils le font avec Satan aujourd’hui. Certainement qu’ils l’auraient fait. Mais Il n’est pas venu avec cette sorte de beauté, mais Il vient toujours avec la beauté du caractère. Christ n’était pas un bel homme, grand, fort ou imposant. Dieu ne choisit pas ces sortes de choses.
+140 Je me rappelle qu’une fois, un prophète s’est levé pour prendre un roi, pour faire un roi d’entre les fils de Jessé, pour qu’il prenne la place d’un autre roi — Saül. Alors Jessé a fait s’avancer ce fils. Il était un grand, imposant et beau garçon et il a dit: “La couronne ira bien sur sa tête”.
+141 Et le prophète vint pour verser l’huile sur lui et dit: “Dieu l’a refusé”. Et Il refusa chacun d’entre eux jusqu’à ce qu’il arriva à un petit garçon aux épaules tombantes, rougeaud de figure pour verser l’huile sur lui et qu’il dise: “Dieu l’a choisi”. Vous voyez, nous choisissons par la vue, Dieu par le caractère.
+142 Caractère — il n’y a jamais eu un caractère comme celui de Jésus-Christ. Il vit en Lui, se manifeste en Lui. Nous le voyons véritablement. Ce n’est pas la beauté du monde en Lui qui attire Son Epouse, c’est Son caractère — le caractère de l’Eglise que Jésus cherche; ce ne sont ni les grands bâtiments, ni les grandes dénominations ou le nombre important de leurs membres. Il a promis d’être partout là où deux ou trois sont réunis ensemble, véritablement. C’est là que les vrais croyants placent leurs espoirs, sur cette Parole de Dieu confirmée, la Vérité. Qui est-elle? Choisie par Sa Parole non pas par un charmant groupe mondain. Ils haïssent cela. Ce n’est pas étonnant si elle a divorcé de Lui, parce qu’elle a manqué de voir Sa révélation et elle ne La possède pas. La manière dont elle agit et fait, toutes ces choses mondaines qu’elle possède; Il ne prend pas soin d’elle… Il regarde à son caractère, au caractère de Christ.
+143 Maintenant, juste encore un instant; c’est cela. Il choisit une Epouse pour refléter Son caractère. L’église moderne d’aujourd’hui certainement manque Son programme. Ils sont à un million de miles parce qu’ils dénient que cela est la Vérité. Comment pourrait-il en être autrement? Maintenant, Il attend le jour où cette Epouse sera formée (Hébreux 13.8), juste exactement comment Il était. Cela doit être comme Sa propre chair, les mêmes os, le même Esprit, en toutes choses le même, parfaitement édifié et alors les deux deviendront un. Ils ne sont pas un tant que l’Eglise n’est pas cela. Le caractère qui est le Sien (la Parole pour cet âge) doit être modelé. Elle doit être modelée à Son image.
 144 En conclusion, j’aimerais vous dire la raison pour laquelle j’ai dit ces choses et je terminerai.
-145 L’autre nuit, vers trois heures du matin, je me suis réveillé. Maintenant, j’interroge chacun
-d’entre vous: Est-ce que je vous ai déjà dit quelque chose au Nom du Seigneur qui n’ait pas été
-vrai? Cela a toujours été vrai. Aussi aidez-moi, Dieu sait que cela est vrai. Il n’y personne nulle
-part dans le monde… Parmi les milliers de choses que je leur ai dites, Il n’a jamais manqué de
-réaliser tout ce que j’ai dit. Tout est parfaitement arrivé, même ce dont je vous ai parlé lorsque
-j’étais à Phoenix l’autre jour (ou il y a à peu près un an)… Ce message sur le sujet: Messieurs,
-quelle heure est-il? Et je vous ai dit que sept anges se rencontreraient là-bas et que cela serait
-l’ouverture de ces Sceaux et que… Le magazine Life en a fait un article, cette grande nuée
-rayonnante montant dans les airs, trente miles de haut, vingt sept miles de large et ils ont dit qu’ils
+145 L’autre nuit, vers trois heures du matin, je me suis réveillé. Maintenant, j’interroge chacun d’entre vous: Est-ce que je vous ai déjà dit quelque chose au Nom du Seigneur qui n’ait pas été vrai? Cela a toujours été vrai. Aussi aidez-moi, Dieu sait que cela est vrai. Il n’y personne nulle part dans le monde… Parmi les milliers de choses que je leur ai dites, Il n’a jamais manqué de réaliser tout ce que j’ai dit. Tout est parfaitement arrivé, même ce dont je vous ai parlé lorsque j’étais à Phoenix l’autre jour (ou il y a à peu près un an)… Ce message sur le sujet: Messieurs, quelle heure est-il? Et je vous ai dit que sept anges se rencontreraient là-bas et que cela serait l’ouverture de ces Sceaux et que… Le magazine Life en a fait un article, cette grande nuée rayonnante montant dans les airs, trente miles de haut, vingt sept miles de large et ils ont dit qu’ils
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 18
-ne comprenaient pas ce que c’était et qu’à l’heure actuelle, ils ne le savaient toujours pas. Et un
-homme qui se trouve ce soir dans ce bâtiment même, se tenait avec moi là-bas lorsque cela est
-arrivé. Exactement comme cela avait été dit.
-146 Il m’a parlé des choses qui devaient se passer et elles se sont passées exactement comme
-cela. Comment chacun de ces Sceaux furent ouverts… Il m’a parlé des mystères qui avaient été
-cachés au travers des âges des réformateurs et ainsi de suite. C’était parfaitement juste… Je me
-tenais au sommet de la colline avec des hommes, trois ou quatre d’entre eux se tiennent ici
-maintenant. Oui et bien d’autres choses encore. En montant la colline, le Saint-Esprit a dit:
-«Ramasse cette pierre». (Nous étions en train de chasser.) Il a dit: «Lance là en l’air et dis: ‹Ainsi
-dit le Seigneur›». Je l’ai fait. D’en bas est venu un petit tourbillon. Et j’ai dit: «Vous verrez la main
-de Dieu dans les vingt quatre heures».
-147 A l’homme qui est assis ici aujourd’hui, je lui ai dit le jour suivant vers dix heures: «Prépare-
-toi; va sous la voiture là-bas» (un vétéran); j’ai dit: «Quelque chose est en train de se préparer».
-Le ciel était dégagé. Du sommet d’un grand canyon, un feu tournoyant est descendu du Ciel,
-violemment, comme s’il pouvait crier et il a frappé les parois comme cela. Je me tenais debout
-juste sous lui. J’ai seulement enlevé mon chapeau, tenu ma tête. Il est venu au-dessus de moi à
-trois ou quatre pieds et a coupé net autour des parois comme cela. Il a explosé et est remonté
-dans les airs, a tournoyé à nouveau, est descendu trois fois et a même coupé le sommet des
-taillis de mesquite dans un rayon de deux cents yards.
-148 J’ai entendu mes compagnons dire: «Amen». Ils étaient là lorsque cela s’est passé, vous
-voyez. Il y a eu trois explosions. Lorsqu’ils sont sortis de dessous les voitures et venus vers moi
-après toutes ces choses, ils ont dit: «Si cela t’avait touché, on n’aurait même pas retrouvé un seul
-de tes cheveux». J’ai dit: «Ce n’était pas… C’était Lui. Il me parlait». Dieu parle dans un tourbillon,
-vous voyez.
-149 Et il y avait la même Colonne de Feu que vous voyez là sur les photographies. Et lorsque le
-tourbillon est monté, ils ont dit: «Qu’est-ce que c’est?».
-150 J’ai dit: «Le jugement va frapper la Côte ouest». Deux jours plus tard, l’Alaska s’est presque
-affaissée.
-151 Vous voyez, cela a frappé une seule fois là-bas, le premier coup… Vous devez faire quelque
-chose pour le symboliser. C’est comme lorsqu’un homme mit du sel dans un vase et le jeta dans
-l’eau en disant: «Ainsi dit le Seigneur, que nous ayons ici de l’eau douce». Et une autre fois, Jésus
-a pris de l’eau et l’a versée dans des vases et l’a transformée en vin. Vous devez avoir quelque
-chose pour le symboliser et c’est pourquoi c’est ce qui est monté et descendu dans les airs et qui
-a commencé ce petit tourbillon. [Cette pierre du paragraphe 146 — N.d.T.]
-152 Dans les vingt quatre heures, cette montagne a été ébranlée, jusqu’à ce qu’un sillon fut fait
-tout autour d’elle. Le révérend M. Blair, assis ici et qui me regarde à cet instant, était avec moi là-
-bas et a ramassé quelques morceaux… Ici se tiennent aussi Terry Sothmann et Billy Paul…
-Beaucoup d’autres frères sont également assis ici. Ils étaient là-bas et ont vu ce qui s’est passé
-lorsque cela l’a déchirée. Ce n’est pas de la fiction, c’est la Vérité. Ce n’était pas aux temps
-anciens de la Bible, mais aujourd’hui, vous voyez? Ce Dieu même qui m’a toujours montré ces
-choses, lesquelles se sont toujours réalisées exactement à la lettre. Elles n’ont jamais failli une
-seule fois. Je peux me vanter de Lui.
-153 Il y a quelques semaines, j’étais dans une vision et je me tenais sur un endroit en hauteur,
-j’étais en train de voir une avant-première de l’Eglise. J’ai remarqué qu’elle venait de mon… Je me
-tenais plutôt comme ceci, face à l’ouest, et venant de ce côté, un charmant groupe de femmes —
-vraiment bien habillées, aux cheveux longs attachés dans le dos, des manches, des jupes
-descendant jusqu’aux chevilles, et elles marchaient toutes en chantant d’une seule voix, quelque
-chose comme: «En avant soldats chrétiens, marchant comme à la guerre, en suivant la croix de
-Jésus-Christ». Elles ont passé et il y avait quelque chose là, quelque Esprit — Dieu, et Il a dit:
-«Voilà l’Epouse». Et j’ai regardé et mon coeur était heureux. Elle a tourné dans cette direction et a
-passé autour et derrière moi.
-154 Après un moment, lorsqu’elle est revenue vers moi de cette manière, il me fut dit:
-«Maintenant, l’église moderne va venir en avant-première». Et l’église asiatique est venue ici. Je
+ne comprenaient pas ce que c’était et qu’à l’heure actuelle, ils ne le savaient toujours pas. Et un homme qui se trouve ce soir dans ce bâtiment même, se tenait avec moi là-bas lorsque cela est arrivé. Exactement comme cela avait été dit.
+146 Il m’a parlé des choses qui devaient se passer et elles se sont passées exactement comme cela. Comment chacun de ces Sceaux furent ouverts… Il m’a parlé des mystères qui avaient été cachés au travers des âges des réformateurs et ainsi de suite. C’était parfaitement juste… Je me tenais au sommet de la colline avec des hommes, trois ou quatre d’entre eux se tiennent ici maintenant. Oui et bien d’autres choses encore. En montant la colline, le Saint-Esprit a dit: «Ramasse cette pierre». (Nous étions en train de chasser.) Il a dit: «Lance là en l’air et dis: ‹Ainsi dit le Seigneur›». Je l’ai fait. D’en bas est venu un petit tourbillon. Et j’ai dit: «Vous verrez la main de Dieu dans les vingt quatre heures».
+147 A l’homme qui est assis ici aujourd’hui, je lui ai dit le jour suivant vers dix heures: «Prépare-toi; va sous la voiture là-bas» (un vétéran); j’ai dit: «Quelque chose est en train de se préparer». Le ciel était dégagé. Du sommet d’un grand canyon, un feu tournoyant est descendu du Ciel, violemment, comme s’il pouvait crier et il a frappé les parois comme cela. Je me tenais debout juste sous lui. J’ai seulement enlevé mon chapeau, tenu ma tête. Il est venu au-dessus de moi à trois ou quatre pieds et a coupé net autour des parois comme cela. Il a explosé et est remonté dans les airs, a tournoyé à nouveau, est descendu trois fois et a même coupé le sommet des taillis de mesquite dans un rayon de deux cents yards.
+148 J’ai entendu mes compagnons dire: «Amen». Ils étaient là lorsque cela s’est passé, vous voyez. Il y a eu trois explosions. Lorsqu’ils sont sortis de dessous les voitures et venus vers moi après toutes ces choses, ils ont dit: «Si cela t’avait touché, on n’aurait même pas retrouvé un seul de tes cheveux». J’ai dit: «Ce n’était pas… C’était Lui. Il me parlait». Dieu parle dans un tourbillon, vous voyez.
+149 Et il y avait la même Colonne de Feu que vous voyez là sur les photographies. Et lorsque le tourbillon est monté, ils ont dit: «Qu’est-ce que c’est?».
+150 J’ai dit: «Le jugement va frapper la Côte ouest». Deux jours plus tard, l’Alaska s’est presque affaissée.
+151 Vous voyez, cela a frappé une seule fois là-bas, le premier coup… Vous devez faire quelque chose pour le symboliser. C’est comme lorsqu’un homme mit du sel dans un vase et le jeta dans l’eau en disant: «Ainsi dit le Seigneur, que nous ayons ici de l’eau douce». Et une autre fois, Jésus a pris de l’eau et l’a versée dans des vases et l’a transformée en vin. Vous devez avoir quelque chose pour le symboliser et c’est pourquoi c’est ce qui est monté et descendu dans les airs et qui a commencé ce petit tourbillon. [Cette pierre du paragraphe 146 — N.d.T.]
+152 Dans les vingt quatre heures, cette montagne a été ébranlée, jusqu’à ce qu’un sillon fut fait tout autour d’elle. Le révérend M. Blair, assis ici et qui me regarde à cet instant, était avec moi là-bas et a ramassé quelques morceaux… Ici se tiennent aussi Terry Sothmann et Billy Paul… Beaucoup d’autres frères sont également assis ici. Ils étaient là-bas et ont vu ce qui s’est passé lorsque cela l’a déchirée. Ce n’est pas de la fiction, c’est la Vérité. Ce n’était pas aux temps anciens de la Bible, mais aujourd’hui, vous voyez? Ce Dieu même qui m’a toujours montré ces choses, lesquelles se sont toujours réalisées exactement à la lettre. Elles n’ont jamais failli une seule fois. Je peux me vanter de Lui.
+153 Il y a quelques semaines, j’étais dans une vision et je me tenais sur un endroit en hauteur, j’étais en train de voir une avant-première de l’Eglise. J’ai remarqué qu’elle venait de mon… Je me tenais plutôt comme ceci, face à l’ouest, et venant de ce côté, un charmant groupe de femmes — vraiment bien habillées, aux cheveux longs attachés dans le dos, des manches, des jupes descendant jusqu’aux chevilles, et elles marchaient toutes en chantant d’une seule voix, quelque chose comme: «En avant soldats chrétiens, marchant comme à la guerre, en suivant la croix de Jésus-Christ». Elles ont passé et il y avait quelque chose là, quelque Esprit — Dieu, et Il a dit: «Voilà l’Epouse». Et j’ai regardé et mon coeur était heureux. Elle a tourné dans cette direction et a passé autour et derrière moi.
+154 Après un moment, lorsqu’elle est revenue vers moi de cette manière, il me fut dit: «Maintenant, l’église moderne va venir en avant-première». Et l’église asiatique est venue ici. Je
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 19
-n’ai jamais vu un groupe aussi sale! D’autres églises des différentes nations sont venues ici. Elles
-paraissaient horribles!
-155 Et je dis cela parce que je suis lié devant Dieu, de devoir dire la Vérité. Et lorsqu’Il dit: «Ici
-vient en avant-première l’église d’Amérique», si je n’avais jamais vu un tel groupe de démons,
-c’était bien celui-là. Ces femmes étaient complètement nues, avec une vielle chose grise, comme
-de la peau d’éléphant. Et elles le tenaient devant elles, le torse complètement nu et elles faisaient
-ces sortes de choses, comme ces danses — ces twists et toutes ces choses avec de la musique
-— que font les jeunes là-dehors. Et quand j’ai vu venir Miss USA, je me suis presque évanoui.
-156 Maintenant, ceci est «AINSI DIT LE SEIGNEUR». Si vous croyez que je suis Son serviteur,
-croyez-moi maintenant. Je ne dirais cela pour rien au monde; il n’y a pas assez d’argent dans tout
-le monde pour me faire dire cela si ce n’était pas vrai. Et lorsqu’elle est passée, c’était la chose la
-plus sale que j’aie jamais vue. J’ai pensé: «Dieu, malgré tous les efforts des prédicateurs et de
-nous autres frères pour Te donner une Epouse, c’est le mieux que nous ayons réussi à faire!».
-Elle se tortillait, tenant cette chose comme une de ces jupes Hula, la tenant devant ses parties,
-ses parties inférieures, comme ceci, dansant et se tortillant comme ces jeunes le font lors de leurs
-spectacles vulgaires — dansant le twist. C’était la Miss Chrétienté d’Amérique.
-157 Aussi, aidez-moi, avec l’aide de Dieu, c’est ainsi que cela paraît devant Sa face. J’aurais pu
-m’évanouir. J’ai pensé à tous les efforts, aux prédications pour persuader chacune d’entre elles
-avec leurs cheveux coupés. Et elles continuaient à se tortiller, tenant ceci par devant. Elles sont
-venues où je me tenais avec cet Etre surnaturel. Je ne pouvais pas Le voir. Je pouvais L’entendre
-me parler. Il était tout autour de moi. Mais lorsqu’elles ont tourné dans cette direction, elles se
-tortillaient et riaient et continuaient comme cela, tenant ceci devant elles. Maintenant, me tenant
-dans Sa présence et celle de Ses serviteurs, avec tout ce que j’avais essayé de faire, du mieux
-que je pouvais, j’ai pensé: «Dieu, quel bien cela m’a-t-il fait? Quel bien cela a-t-il fait? Tous les
-pleurs, toutes les supplications et toutes les persuasions avec les grands signes, toutes les
-merveilles et les miracles que Tu as montrés… Et comment je me suis tenu là-bas et de retour à
-la maison, je pleurais après leur avoir prêché ces choses. Quel bien cela m’a-t-il fait? Pour ensuite
-Te présenter quelque chose comme cela pour Epouse?».
-158 Et je me tenais là, la regardant passer. Vous pouvez vous imaginer — elle ne portait point de
-vêtement derrière, mais tenait devant elle ceci alors qu’elle se tortillait, jetant ses membres
-comme ce twist… Oh, comme c’était vulgaire alors qu’elle continuait à agiter son corps comme
-cela!
-159 Vous dites: «Que cela signifie-t-il, frère Branham?». Je ne sais pas. Je vous raconte
-seulement ce que j’ai vu. Et lorsqu’elles ont passé comme cela, je les ai regardées. Oh, je me suis
-réellement évanoui, je me suis retourné en pensant: «Dieu, alors, je suis condamné. Il n’est plus
-besoin pour moi d’essayer… Je ferais mieux d’abandonner».
-160 Et madame Carl Williams, si vous êtes assise ici, ce rêve dont vous m’avez parlé il y a
-quelque temps… que vous avez fait l’autre nuit et qui vous a dérangée, c’est exactement cela: le
-volant, la conduite a été enlevée de mes mains.
-161 Alors, j’ai juste pensé que je ferais mieux de l’oublier; j’étais évanoui. Puis, tout d’un coup, je
-les ai entendues revenir à nouveau. Et la même Epouse qui était passée de ce côté-là est venue
-de ce côté-ci. Ces petites dames sont venues à nouveau ici, chacune d’entre elles était habillée
-dans le costume national d’où elle venait — Suisse, Allemagne et ainsi de suite — chacune
-portant cette sorte de costume, toutes avec de longs cheveux, exactement pareilles à celles que
-j’avais vues en premier. Et elles venaient ici, marchant en chantant: «En avant soldats chrétiens,
-marchant comme à la guerre…». Et lorsqu’elles eurent passé devant le stand où nous nous
-tenions debout, d’un coup elles ont toutes ensemble regardé dans cette direction et ensuite elles
-se sont retournées et ont continué leur marche. Et comme elles commençaient à marcher en haut
-vers le ciel, une d’entre elles est allée au bord de la colline et soudainement elle est tombée,
-comme cela. Ces autres-là commençaient à marcher droit vers les cieux. A ce moment, quant
-elles entamèrent leur marche, j’ai remarqué un couple de petites filles à l’arrière (elles semblaient
-venir de quelque part comme la Suède ou la Suisse ou d’autre part), elles ont commencé à
-regarder autour d’elles… J’ai dit: «NE FAITES PAS CELA!, ne perdez pas la cadence!» et comme
+n’ai jamais vu un groupe aussi sale! D’autres églises des différentes nations sont venues ici. Elles paraissaient horribles!
+155 Et je dis cela parce que je suis lié devant Dieu, de devoir dire la Vérité. Et lorsqu’Il dit: «Ici vient en avant-première l’église d’Amérique», si je n’avais jamais vu un tel groupe de démons, c’était bien celui-là. Ces femmes étaient complètement nues, avec une vielle chose grise, comme de la peau d’éléphant. Et elles le tenaient devant elles, le torse complètement nu et elles faisaient ces sortes de choses, comme ces danses — ces twists et toutes ces choses avec de la musique — que font les jeunes là-dehors. Et quand j’ai vu venir Miss USA, je me suis presque évanoui.
+156 Maintenant, ceci est «AINSI DIT LE SEIGNEUR». Si vous croyez que je suis Son serviteur, croyez-moi maintenant. Je ne dirais cela pour rien au monde; il n’y a pas assez d’argent dans tout le monde pour me faire dire cela si ce n’était pas vrai. Et lorsqu’elle est passée, c’était la chose la plus sale que j’aie jamais vue. J’ai pensé: «Dieu, malgré tous les efforts des prédicateurs et de nous autres frères pour Te donner une Epouse, c’est le mieux que nous ayons réussi à faire!». Elle se tortillait, tenant cette chose comme une de ces jupes Hula, la tenant devant ses parties, ses parties inférieures, comme ceci, dansant et se tortillant comme ces jeunes le font lors de leurs spectacles vulgaires — dansant le twist. C’était la Miss Chrétienté d’Amérique.
+157 Aussi, aidez-moi, avec l’aide de Dieu, c’est ainsi que cela paraît devant Sa face. J’aurais pu m’évanouir. J’ai pensé à tous les efforts, aux prédications pour persuader chacune d’entre elles avec leurs cheveux coupés. Et elles continuaient à se tortiller, tenant ceci par devant. Elles sont venues où je me tenais avec cet Etre surnaturel. Je ne pouvais pas Le voir. Je pouvais L’entendre me parler. Il était tout autour de moi. Mais lorsqu’elles ont tourné dans cette direction, elles se tortillaient et riaient et continuaient comme cela, tenant ceci devant elles. Maintenant, me tenant dans Sa présence et celle de Ses serviteurs, avec tout ce que j’avais essayé de faire, du mieux que je pouvais, j’ai pensé: «Dieu, quel bien cela m’a-t-il fait? Quel bien cela a-t-il fait? Tous les pleurs, toutes les supplications et toutes les persuasions avec les grands signes, toutes les merveilles et les miracles que Tu as montrés… Et comment je me suis tenu là-bas et de retour à la maison, je pleurais après leur avoir prêché ces choses. Quel bien cela m’a-t-il fait? Pour ensuite Te présenter quelque chose comme cela pour Epouse?».
+158 Et je me tenais là, la regardant passer. Vous pouvez vous imaginer — elle ne portait point de vêtement derrière, mais tenait devant elle ceci alors qu’elle se tortillait, jetant ses membres comme ce twist… Oh, comme c’était vulgaire alors qu’elle continuait à agiter son corps comme cela!
+159 Vous dites: «Que cela signifie-t-il, frère Branham?». Je ne sais pas. Je vous raconte seulement ce que j’ai vu. Et lorsqu’elles ont passé comme cela, je les ai regardées. Oh, je me suis réellement évanoui, je me suis retourné en pensant: «Dieu, alors, je suis condamné. Il n’est plus besoin pour moi d’essayer… Je ferais mieux d’abandonner».
+160 Et madame Carl Williams, si vous êtes assise ici, ce rêve dont vous m’avez parlé il y a quelque temps… que vous avez fait l’autre nuit et qui vous a dérangée, c’est exactement cela: le volant, la conduite a été enlevée de mes mains.
+161 Alors, j’ai juste pensé que je ferais mieux de l’oublier; j’étais évanoui. Puis, tout d’un coup, je les ai entendues revenir à nouveau. Et la même Epouse qui était passée de ce côté-là est venue de ce côté-ci. Ces petites dames sont venues à nouveau ici, chacune d’entre elles était habillée dans le costume national d’où elle venait — Suisse, Allemagne et ainsi de suite — chacune portant cette sorte de costume, toutes avec de longs cheveux, exactement pareilles à celles que j’avais vues en premier. Et elles venaient ici, marchant en chantant: «En avant soldats chrétiens, marchant comme à la guerre…». Et lorsqu’elles eurent passé devant le stand où nous nous tenions debout, d’un coup elles ont toutes ensemble regardé dans cette direction et ensuite elles se sont retournées et ont continué leur marche. Et comme elles commençaient à marcher en haut vers le ciel, une d’entre elles est allée au bord de la colline et soudainement elle est tombée, comme cela. Ces autres-là commençaient à marcher droit vers les cieux. A ce moment, quant elles entamèrent leur marche, j’ai remarqué un couple de petites filles à l’arrière (elles semblaient venir de quelque part comme la Suède ou la Suisse ou d’autre part), elles ont commencé à regarder autour d’elles… J’ai dit: «NE FAITES PAS CELA!, ne perdez pas la cadence!» et comme
 
         http://www.cmpp.ch
 
     LE CHOIX D’UNE EPOUSE                      20
-je criais ainsi, je suis entré dans la vision, me tenant là-bas avec ma main tendue comme cela. J’ai
-pensé: «Eh bien…».
-162 C’est la raison pour laquelle j’ai dit ce que j’ai dit ce soir. Je veux vous poser une question:
-Est-ce plus tard que nous le pensons? Pourrait-Elle déjà avoir été appelée et choisie — scellée et
-mise à part? Il n’y en aura aucune de plus, vous savez. Cela est-il possible? Oh, oui. Oh, oui.
-Rappelez-vous ce que j’ai dit l’autre jour au déjeuner? Dans le processus de la reproduction, entre
-mâle et femelle, il y a un million de germes qui s’avancent, des millions d’ovules qui vont en avant,
-mais il n’y a qu’un seul d’entre eux qui vit et pourtant, ils se ressemblent tous — un sur un million.
-Chacun d’entre eux est le même ovule et le même type de germe. Un d’entre eux vit et le reste
-meurt. Personne ne peut dire lequel des ovules est mûr et ce qui le concerne. Dieu doit décider
-cela. S’il va devenir un garçon ou une fille, blonde ou brunette ou ce qu’il sera, Dieu décide cela.
-Pas le premier qu’il rencontre, mais le premier que Dieu décide. Peut-être qu’un arrive ici et un…
-Avez-vous déjà observé une éprouvette pour les voir se réunir? Je l’ai observé. Dieu doit décider
-cela. Chacun d’entre eux est identique — mais c’est par élection. La naissance naturelle se
-fait par élection. Dieu prend l’un d’entre un million.
-163 Lorsqu’Israël quitta l’Egypte, sur la route vers le Pays promis, il y avait approximativement
-deux millions de gens. Chacun d’entre eux était sous le même sacrifice de l’agneau, sinon ils
-n’auraient pas vécu. Chacun d’entre eux avait écouté Moïse le prophète. Chacun d’entre eux
-avait été baptisé par lui dans les eaux de la Mer Rouge. Chacun d’entre eux avait dansé — les
-femmes avec Miryam en haut et en bas le long du rivage lorsque Dieu détruisit l’ennemi. Chacun
-d’entre eux s’était tenu debout avec Moïse et ils l’avaient entendu chanter dans l’Esprit. Dans le
-désert, ils avaient tous mangé la manne qui était tombée du ciel — de la manne fraîche chaque
-nuit — laquelle est un type du Message. Chacun d’entre eux en avait mangé. Mais combien sur
-deux millions sont-ils arrivés? Deux. Un sur un million.
-164 Il y a approximativement cinq cents millions de chrétiens dans le monde aujourd’hui, en
-comptant les catholiques et tous les autres. Cinq cents millions de soi-disant croyants, dans le
-monde. Si l’enlèvement devait avoir lieu ce soir, cela signifierait, si la manière de compter était de
-un sur un million (je ne dis pas que c’est ainsi, mais que si c’était ainsi), il y aurait cinq cents
-personnes qui seraient manquantes dans les prochaines vingt-quatre heures. Vous n’en
-entendriez même jamais parler. Il y aura de toute façon bien des personnes disparues sans qu’on
-s’en inquiète.
-165 Alors, cela pourrait nous arriver, amis, comme quand Jean-Baptiste est venu. Même les
-disciples, les apôtres ou les prophètes ont dit: “Pourquoi l’Ecriture dit-elle qu’Elie doit venir
-premièrement et restaurer toutes choses?”.
+je criais ainsi, je suis entré dans la vision, me tenant là-bas avec ma main tendue comme cela. J’ai pensé: «Eh bien…».
+162 C’est la raison pour laquelle j’ai dit ce que j’ai dit ce soir. Je veux vous poser une question: Est-ce plus tard que nous le pensons? Pourrait-Elle déjà avoir été appelée et choisie — scellée et mise à part? Il n’y en aura aucune de plus, vous savez. Cela est-il possible? Oh, oui. Oh, oui. Rappelez-vous ce que j’ai dit l’autre jour au déjeuner? Dans le processus de la reproduction, entre mâle et femelle, il y a un million de germes qui s’avancent, des millions d’ovules qui vont en avant, mais il n’y a qu’un seul d’entre eux qui vit et pourtant, ils se ressemblent tous — un sur un million. Chacun d’entre eux est le même ovule et le même type de germe. Un d’entre eux vit et le reste meurt. Personne ne peut dire lequel des ovules est mûr et ce qui le concerne. Dieu doit décider cela. S’il va devenir un garçon ou une fille, blonde ou brunette ou ce qu’il sera, Dieu décide cela. Pas le premier qu’il rencontre, mais le premier que Dieu décide. Peut-être qu’un arrive ici et un… Avez-vous déjà observé une éprouvette pour les voir se réunir? Je l’ai observé. Dieu doit décider cela. Chacun d’entre eux est identique — mais c’est par élection. La naissance naturelle se fait par élection. Dieu prend l’un d’entre un million.
+163 Lorsqu’Israël quitta l’Egypte, sur la route vers le Pays promis, il y avait approximativement deux millions de gens. Chacun d’entre eux était sous le même sacrifice de l’agneau, sinon ils n’auraient pas vécu. Chacun d’entre eux avait écouté Moïse le prophète. Chacun d’entre eux avait été baptisé par lui dans les eaux de la Mer Rouge. Chacun d’entre eux avait dansé — les femmes avec Miryam en haut et en bas le long du rivage lorsque Dieu détruisit l’ennemi. Chacun d’entre eux s’était tenu debout avec Moïse et ils l’avaient entendu chanter dans l’Esprit. Dans le désert, ils avaient tous mangé la manne qui était tombée du ciel — de la manne fraîche chaque nuit — laquelle est un type du Message. Chacun d’entre eux en avait mangé. Mais combien sur deux millions sont-ils arrivés? Deux. Un sur un million.
+164 Il y a approximativement cinq cents millions de chrétiens dans le monde aujourd’hui, en comptant les catholiques et tous les autres. Cinq cents millions de soi-disant croyants, dans le monde. Si l’enlèvement devait avoir lieu ce soir, cela signifierait, si la manière de compter était de un sur un million (je ne dis pas que c’est ainsi, mais que si c’était ainsi), il y aurait cinq cents personnes qui seraient manquantes dans les prochaines vingt-quatre heures. Vous n’en entendriez même jamais parler. Il y aura de toute façon bien des personnes disparues sans qu’on s’en inquiète.
+165 Alors, cela pourrait nous arriver, amis, comme quand Jean-Baptiste est venu. Même les disciples, les apôtres ou les prophètes ont dit: “Pourquoi l’Ecriture dit-elle qu’Elie doit venir premièrement et restaurer toutes choses?”.
 166 Il a dit: “Je vous dis qu’Elie est déjà venu et vous ne l’avez pas su”.
-167 Un de ces jours, nous pourrions être laissés derrière, assis. «Qu’en est-il de l’enlèvement
-avant que la tribulation ne débute?».
+167 Un de ces jours, nous pourrions être laissés derrière, assis. «Qu’en est-il de l’enlèvement avant que la tribulation ne débute?».
 — «Cela s’est déjà passé et vous ne le savez pas».
-168 Tout le corps est scellé — restez simplement dans la cadence. Je ne dis pas que cela sera
-de cette manière; j’espère que cela ne sera pas de cette manière. Mais, amis, lorsque nous… Ce
-soir, si nous avons le sentiment dans nos coeurs que nous devrions mettre en ordre nos
-vies ainsi que les choses que nous avons faites, laissez-moi vous conseiller en tant que frère
-ministre de l’Evangile… Et je vais dire cela au pupitre pour la première fois. Je ne suis jamais allé
-aussi loin, dans aucune occasion, n’importe où sur n’importe quel sujet, que ce soir sur ce thème,
-devant le public. J’ai toujours eu une grande liberté dans ces réunions. Si vous croyez que je suis
-un prophète de Dieu, écoutez ce que je vous ai dit. Si vous avez le moindre soupçon de ce
-sentiment dans votre coeur, allez vers Dieu immédiatement. Faites-le.
-169 Hommes, arrêtez-vous juste une minute. Regardez aux credo que vous servez. Regardez
-dans vos églises. Est-ce que cela correspond exactement avec la Parole de Dieu?
-Remplissez-vous toutes les conditions? Vous dites: «Je suis un homme bon». Ainsi était
-Nicodème et tout le reste d’entre eux. Ils étaient bien… Vous voyez? Cela n’a rien à voir avec
-cela.
+168 Tout le corps est scellé — restez simplement dans la cadence. Je ne dis pas que cela sera de cette manière; j’espère que cela ne sera pas de cette manière. Mais, amis, lorsque nous… Ce soir, si nous avons le sentiment dans nos coeurs que nous devrions mettre en ordre nos vies ainsi que les choses que nous avons faites, laissez-moi vous conseiller en tant que frère ministre de l’Evangile… Et je vais dire cela au pupitre pour la première fois. Je ne suis jamais allé aussi loin, dans aucune occasion, n’importe où sur n’importe quel sujet, que ce soir sur ce thème, devant le public. J’ai toujours eu une grande liberté dans ces réunions. Si vous croyez que je suis un prophète de Dieu, écoutez ce que je vous ai dit. Si vous avez le moindre soupçon de ce sentiment dans votre coeur, allez vers Dieu immédiatement. Faites-le.
+169 Hommes, arrêtez-vous juste une minute. Regardez aux credo que vous servez. Regardez dans vos églises. Est-ce que cela correspond exactement avec la Parole de Dieu? Remplissez-vous toutes les conditions? Vous dites: «Je suis un homme bon». Ainsi était Nicodème et tout le reste d’entre eux. Ils étaient bien… Vous voyez? Cela n’a rien à voir avec cela.
 
                              http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 21
-170 Et vous femmes, je veux que vous vous regardiez dans un miroir, à ce que Dieu exige d’une
-femme. Regardez-le dans le miroir de Dieu, pas dans celui de votre église actuelle, mais
-dans le miroir de Dieu. Voyez si votre vie remplit toutes les conditions de l’Epouse spirituelle
-de Jésus-Christ.
-171 Ministres de l’Evangile, pensez de même. Est-ce que vous arrondissez les angles ici pour
-épargner les sentiments de quelqu’un là-bas? Feriez-vous cela s’ils ne vous mettaient pas hors de
-votre église? Si vous le sentez de cette manière, mon cher frère, laissez-moi vous avertir dans le
-Nom de Jésus-Christ et fuyez cela immédiatement.
-172 Et vous madame, si vous ne remplissez pas les conditions d’une chrétienne, pas celles d’une
-chrétienne nominale… mais il est dit que votre coeur et votre vie doivent être modelés exactement
-comme le certificat de mariage de Dieu l’exige ici.
-173 Et vous, membres d’églises, si votre église n’est pas capable de satisfaire aux qualifications
-de la Parole de Dieu, sortez de là et entrez en Christ. C’est un avertissement solennel. Nous
-ne connaissons pas l’heure. Vous ne savez pas quand cette ville, un de ces jours, va se trouver
-là-bas, engloutie au fond de cet océan.
-174 “O Capernaüm” a dit Jésus. “Et toi, Capernaüm, qui a été élevée jusqu’au ciel, tu seras
-abaissée jusque dans le hadès… Si ces oeuvres puissantes qui ont été faites ici avaient été faites
-à Sodome et Gomorrhe, elles subsisteraient encore aujourd’hui”. Sodome et Gomorrhe gisent au
-fond de la Mer Morte et Capernaüm est au fond de cet océan.
-175 Toi qui proclame être la cité des anges, qui t’es exaltée jusqu’au Ciel et qui a envoyé
-toutes ces choses sales et dégoûtantes, la mode et ainsi de suite, à tel point que même les
-pays étrangers viennent ici pour ramasser notre saleté et les répandre plus loin. Toi, avec
-tes belles églises et tes beaux clochers et ainsi de suite, rappelle-toi qu’un jour, tu vas te
-retrouver au fond de cette mer! Tout est crevassé en-dessous de toi déjà maintenant. La
-colère de Dieu gronde juste au-dessous de toi. Combien de temps encore va-t-il maintenir
-ce ban de sable? Lorsque cet océan là-bas va s’avancer d’une hauteur d’un mile jusque
-dans la Mer de Salton, cela sera pire que le dernier jour de Pompéi. REPENS-TOI, LOS
-ANGELES! REPENTEZ-VOUS TOUS ET TOURNEZ-VOUS VERS DIEU! L’HEURE DE SA
-COLERE EST SUR LA TERRE. FUYEZ PENDANT QU’IL EST ENCORE TEMPS DE FUIR ET
-VENEZ EN CHRIST». Prions.
-176 Cher Dieu, lorsque mon esprit est bouleversé, que mon coeur saigne de nombreuses larmes
-d’avertissements, permets, ô Dieu, que les hommes et les femmes ne prennent pas ce que j’ai dit
-comme une plaisanterie et que les hommes d’église ne pensent pas que c’est quelque chose
-préjudiciable ou contre eux. Puissent-ils voir, Seigneur, que c’est dans l’amour. Tu peux rendre
-témoignage de ce que j’ai dit, Dieu Tout-Puissant, que j’ai parcouru cette Côte de haut en bas,
-année après année, proclamant Ta Parole. Rends-moi témoignage de ce que j’ai dit, ô Dieu! Si
-cela devait se passer ce soir, j’ai dit la Vérité. Tu sais que cette vision de l’Epouse est la Vérité. Je
-l’ai reçue en Ton Nom, Seigneur et j’ai dit que c’était «AINSI DIT LE SEIGNEUR», et je sens que
-je suis conscient, Seigneur, de ce que je fais.
-177 Aussi, je Te prie, Seigneur, dans le Nom de Jésus, de laisser les gens se secouer eux-
-mêmes ce soir et qu’ils fuient la colère à venir car I-Cabod [La gloire de Dieu s’en est allée —
-N.d.T.] est écrit sur les portes et sur la nation. Une barre noire a été tracée en travers, l’Esprit de
-Dieu a été attristé et s’en est allé. Ils ont été pesés sur la balance et trouvés insuffisants. La fête
-du roi Nebucadnetsar s’est répétée à nouveau avec les beuveries et les femmes à demi-habillées
-s’appelant elles-mêmes chrétiennes.
-178 Oh, Dieu du Ciel, aie pitié de ce monde pécheur et de ce peuple de pécheurs, tels que nous
-sommes ce soir. Dieu, j’essaie de me tenir dans la brèche et demande ta miséricorde divine pour
-que Tu parles à ce peuple ce soir et que Tu attires l’attention de l’Epouse, Seigneur, pour
-qu’Elle marche non pas par le signe d’un quelconque credo, mais par le son de l’Evangile
-de notre Seigneur Jésus-Christ. Accorde-le, ô Dieu! Que ce soir il puisse être connu que Tu es
-Dieu, et que Ta Parole est la Vérité, alors que nous nous tenons solennellement en face de ces
-gens et que nous attirons leur attention sur Ta Parole. Dans le Nom de Jésus-Christ, je prie
-pour eux, Seigneur.
+170 Et vous femmes, je veux que vous vous regardiez dans un miroir, à ce que Dieu exige d’une femme. Regardez-le dans le miroir de Dieu, pas dans celui de votre église actuelle, mais dans le miroir de Dieu. Voyez si votre vie remplit toutes les conditions de l’Epouse spirituelle de Jésus-Christ.
+171 Ministres de l’Evangile, pensez de même. Est-ce que vous arrondissez les angles ici pour épargner les sentiments de quelqu’un là-bas? Feriez-vous cela s’ils ne vous mettaient pas hors de votre église? Si vous le sentez de cette manière, mon cher frère, laissez-moi vous avertir dans le Nom de Jésus-Christ et fuyez cela immédiatement.
+172 Et vous madame, si vous ne remplissez pas les conditions d’une chrétienne, pas celles d’une chrétienne nominale… mais il est dit que votre coeur et votre vie doivent être modelés exactement comme le certificat de mariage de Dieu l’exige ici.
+173 Et vous, membres d’églises, si votre église n’est pas capable de satisfaire aux qualifications de la Parole de Dieu, sortez de là et entrez en Christ. C’est un avertissement solennel. Nous ne connaissons pas l’heure. Vous ne savez pas quand cette ville, un de ces jours, va se trouver là-bas, engloutie au fond de cet océan.
+174 “O Capernaüm” a dit Jésus. “Et toi, Capernaüm, qui a été élevée jusqu’au ciel, tu seras abaissée jusque dans le hadès… Si ces oeuvres puissantes qui ont été faites ici avaient été faites à Sodome et Gomorrhe, elles subsisteraient encore aujourd’hui”. Sodome et Gomorrhe gisent au fond de la Mer Morte et Capernaüm est au fond de cet océan.
+175 Toi qui proclame être la cité des anges, qui t’es exaltée jusqu’au Ciel et qui a envoyé toutes ces choses sales et dégoûtantes, la mode et ainsi de suite, à tel point que même les pays étrangers viennent ici pour ramasser notre saleté et les répandre plus loin. Toi, avec tes belles églises et tes beaux clochers et ainsi de suite, rappelle-toi qu’un jour, tu vas te retrouver au fond de cette mer! Tout est crevassé en-dessous de toi déjà maintenant. La colère de Dieu gronde juste au-dessous de toi. Combien de temps encore va-t-il maintenir ce ban de sable? Lorsque cet océan là-bas va s’avancer d’une hauteur d’un mile jusque dans la Mer de Salton, cela sera pire que le dernier jour de Pompéi. REPENS-TOI, LOS ANGELES! REPENTEZ-VOUS TOUS ET TOURNEZ-VOUS VERS DIEU! L’HEURE DE SA COLERE EST SUR LA TERRE. FUYEZ PENDANT QU’IL EST ENCORE TEMPS DE FUIR ET VENEZ EN CHRIST». Prions.
+176 Cher Dieu, lorsque mon esprit est bouleversé, que mon coeur saigne de nombreuses larmes d’avertissements, permets, ô Dieu, que les hommes et les femmes ne prennent pas ce que j’ai dit comme une plaisanterie et que les hommes d’église ne pensent pas que c’est quelque chose préjudiciable ou contre eux. Puissent-ils voir, Seigneur, que c’est dans l’amour. Tu peux rendre témoignage de ce que j’ai dit, Dieu Tout-Puissant, que j’ai parcouru cette Côte de haut en bas, année après année, proclamant Ta Parole. Rends-moi témoignage de ce que j’ai dit, ô Dieu! Si cela devait se passer ce soir, j’ai dit la Vérité. Tu sais que cette vision de l’Epouse est la Vérité. Je l’ai reçue en Ton Nom, Seigneur et j’ai dit que c’était «AINSI DIT LE SEIGNEUR», et je sens que je suis conscient, Seigneur, de ce que je fais.
+177 Aussi, je Te prie, Seigneur, dans le Nom de Jésus, de laisser les gens se secouer eux-mêmes ce soir et qu’ils fuient la colère à venir car I-Cabod [La gloire de Dieu s’en est allée — N.d.T.] est écrit sur les portes et sur la nation. Une barre noire a été tracée en travers, l’Esprit de Dieu a été attristé et s’en est allé. Ils ont été pesés sur la balance et trouvés insuffisants. La fête du roi Nebucadnetsar s’est répétée à nouveau avec les beuveries et les femmes à demi-habillées s’appelant elles-mêmes chrétiennes.
+178 Oh, Dieu du Ciel, aie pitié de ce monde pécheur et de ce peuple de pécheurs, tels que nous sommes ce soir. Dieu, j’essaie de me tenir dans la brèche et demande ta miséricorde divine pour que Tu parles à ce peuple ce soir et que Tu attires l’attention de l’Epouse, Seigneur, pour qu’Elle marche non pas par le signe d’un quelconque credo, mais par le son de l’Evangile de notre Seigneur Jésus-Christ. Accorde-le, ô Dieu! Que ce soir il puisse être connu que Tu es Dieu, et que Ta Parole est la Vérité, alors que nous nous tenons solennellement en face de ces gens et que nous attirons leur attention sur Ta Parole. Dans le Nom de Jésus-Christ, je prie pour eux, Seigneur.
 
         http://www.cmpp.ch
 
 LE CHOIX D’UNE EPOUSE 22
-179 Sans aucun doute, ils T’ont vu Te mouvoir au travers des foules et leur dire ce qui était dans
-leurs coeurs. Tu sais exactement, Seigneur, ce qui est en train de se passer. Tu sais que cela est
-la Vérité, ô Dieu. Et je Te prie dans le Nom de Jésus. Laisse le Saint-Esprit intercéder à nouveau,
-Seigneur, et tire de cette audience, Seigneur, ceux qui sont inscrits dans le Livre de Vie de
-l’Agneau. Accorde-le, ô Dieu! Je le prie de tout mon coeur.
-180 Ces gens, Seigneur, me donneraient spontanément leur dernier centime pour soutenir le
-Message. Ils feraient tout ce qui est en leur pouvoir, mais, ô Dieu, alors lorsqu’il s’agit de faire face
-à cela et lorsque nous arrivons à cela, je prie, Dieu que cela soit la nuit où Tu les récompenses et
-déverses Ton Saint-Esprit sur cette convention. Puisse-t-il ne pas y avoir des enfantillages ou de
-l’agitation, mais des pleurs, des cris et une repentance en s’accrochant aux cornes de l’autel alors
-que nous voyons le jugement qui gronde en-dessous de nous ce soir! Accorde-le, Dieu. Je prie
-aussi sincèrement que je peux, dans le Nom de Jésus-Christ.
-181 Mon frère, ma soeur, je ne sais pas ce que je dois dire en plus. Si j’ai trouvé grâce à vos
-yeux, par la puissance de Dieu, si vous croyez que je suis Son prophète… C’est la première fois
-en public que je dis cela, mais je sens cela comme une sorte d’avertissement. Je n’aime pas faire
-cela, vous le savez. Je n’aime pas. Je n’aime pas agir comme cela. J’ai hésité à parler de ce
-Message et à dire ces choses. J’ai essayé d’éviter cela et j’ai trouvé des excuses pour ne pas le
-dire, mais cela a été dit. Cela se tiendra au jour du jugement comme un témoignage de ce que j’ai
-dit la Vérité. Cela est «AINSI DIT LE SEIGNEUR». O PENTECOTE, COURS POUR SAUVER TA
-VIE! FUIS ET SAISIS LES CORNES DE L’AUTEL ET CRIE AVANT QU’IL NE SOIT TROP TARD,
-CAR L’HEURE VIENDRA OU VOUS PLEUREREZ ET CELA NE VOUS SERVIRA PLUS A RIEN,
-CAR ESAU A CHERCHER A RETROUVER SON DROIT D’AINESSE MAIS IL NE LE PUT PAS.
-Je vous confie, ô Californie, ô Convention des Hommes d’Affaires du Plein Evangile que j’aime,
-que j’ai embrassés de tout mon coeur en vous quittant, je vous confie ce soir à Jésus-Christ.
-Fuyez en Lui! Ne laissez jamais le diable vous refroidir de ceci. Restez avec cela jusqu’à ce
-que chacun d’entre vous soit si rempli du Saint-Esprit que cela vous fera venir à cette Parole, qui
-vous relèvera, vous les femmes, et vous aussi les hommes. Si vous dites que vous avez l’Esprit
-Saint et que vous ne voulez pas accepter la Parole, alors c’est qu’un autre esprit est en
-vous. L’Esprit de Dieu est dans Sa Parole. Le Messie, la Parole ointe. L’Epouse, doit être une
-«Messie-ette», la Parole ointe.
-182 Levons-nous dans le Nom du Seigneur Jésus-Christ. Si vous n’entendiez plus jamais ma
-voix… Dieu voulant, je partirai pour l’Afrique dans quelques heures; je pourrais ne jamais revenir.
-Je ne sais pas. Mais je vous le dis de tout mon coeur, je vous ai dit la Vérité. Je n’ai pas manqué
-de vous dire tout ce que Dieu m’a dit de vous dire, je l’ai dit dans le Nom du Seigneur.
-183 C’est un moment solennel. Je ne sais pas comment l’exprimer. J’ai essayé de quitter le
-pupitre à trois ou quatre reprises, mais je n’ai pas pu le faire. C’est une heure solennelle. Ne
-l’oubliez jamais! C’est un temps où Dieu lance peut-être Son dernier appel. Je ne le sais pas. Il
-fera Son dernier appel un de ces jours. Quand? — Je ne le sais pas, je vous dis, en accord avec
-cette vision, que cette Epouse paraît bientôt prête! Observez les églises nominales qui viennent.
-Lorsque la vierge endormie vient chercher l’huile, elle ne peut pas l’obtenir. L’Epouse est
-entrée. L’enlèvement a eu lieu pendant qu’elles étaient allées chercher de l’huile; l’Epoux est
-venu. Etes-vous endormis? Réveillez-vous rapidement, revenez à vous et que chacun prie comme
-si nous allions mourir à cette minute, dans le Nom du Seigneur. Que chacun prie selon sa
-manière.
-184 Dieu Tout-Puissant, aie pitié de nous, Seigneur. Aie pitié de moi. Aie pitié de nous tous. Quel
-bien cela fait-il? Qu’importe ce que nous faisons, si nous échouons dans ces choses. Je suis là et
-demande miséricorde, ô Dieu, avant que cette grande ville ne s’enfonce dans la mer et que les
-jugements de Dieu ne balaient cette Côte. Je prie, Dieu, que Tu appelles Ton Epouse. Je Te les
-confie maintenant, dans le Nom de Jésus-Christ. Amen.
-
-
-
-
-
-
-
-    http://www.cmpp.ch
+179 Sans aucun doute, ils T’ont vu Te mouvoir au travers des foules et leur dire ce qui était dans leurs coeurs. Tu sais exactement, Seigneur, ce qui est en train de se passer. Tu sais que cela est la Vérité, ô Dieu. Et je Te prie dans le Nom de Jésus. Laisse le Saint-Esprit intercéder à nouveau, Seigneur, et tire de cette audience, Seigneur, ceux qui sont inscrits dans le Livre de Vie de l’Agneau. Accorde-le, ô Dieu! Je le prie de tout mon coeur.
+180 Ces gens, Seigneur, me donneraient spontanément leur dernier centime pour soutenir le Message. Ils feraient tout ce qui est en leur pouvoir, mais, ô Dieu, alors lorsqu’il s’agit de faire face à cela et lorsque nous arrivons à cela, je prie, Dieu que cela soit la nuit où Tu les récompenses et déverses Ton Saint-Esprit sur cette convention. Puisse-t-il ne pas y avoir des enfantillages ou de l’agitation, mais des pleurs, des cris et une repentance en s’accrochant aux cornes de l’autel alors que nous voyons le jugement qui gronde en-dessous de nous ce soir! Accorde-le, Dieu. Je prie aussi sincèrement que je peux, dans le Nom de Jésus-Christ.
+181 Mon frère, ma soeur, je ne sais pas ce que je dois dire en plus. Si j’ai trouvé grâce à vos yeux, par la puissance de Dieu, si vous croyez que je suis Son prophète… C’est la première fois en public que je dis cela, mais je sens cela comme une sorte d’avertissement. Je n’aime pas faire cela, vous le savez. Je n’aime pas. Je n’aime pas agir comme cela. J’ai hésité à parler de ce Message et à dire ces choses. J’ai essayé d’éviter cela et j’ai trouvé des excuses pour ne pas le dire, mais cela a été dit. Cela se tiendra au jour du jugement comme un témoignage de ce que j’ai dit la Vérité. Cela est «AINSI DIT LE SEIGNEUR». O PENTECOTE, COURS POUR SAUVER TA VIE! FUIS ET SAISIS LES CORNES DE L’AUTEL ET CRIE AVANT QU’IL NE SOIT TROP TARD, CAR L’HEURE VIENDRA OU VOUS PLEUREREZ ET CELA NE VOUS SERVIRA PLUS A RIEN, CAR ESAU A CHERCHER A RETROUVER SON DROIT D’AINESSE MAIS IL NE LE PUT PAS. Je vous confie, ô Californie, ô Convention des Hommes d’Affaires du Plein Evangile que j’aime, que j’ai embrassés de tout mon coeur en vous quittant, je vous confie ce soir à Jésus-Christ. Fuyez en Lui! Ne laissez jamais le diable vous refroidir de ceci. Restez avec cela jusqu’à ce que chacun d’entre vous soit si rempli du Saint-Esprit que cela vous fera venir à cette Parole, qui vous relèvera, vous les femmes, et vous aussi les hommes. Si vous dites que vous avez l’Esprit Saint et que vous ne voulez pas accepter la Parole, alors c’est qu’un autre esprit est en vous. L’Esprit de Dieu est dans Sa Parole. Le Messie, la Parole ointe. L’Epouse, doit être une «Messie-ette», la Parole ointe.
+182 Levons-nous dans le Nom du Seigneur Jésus-Christ. Si vous n’entendiez plus jamais ma voix… Dieu voulant, je partirai pour l’Afrique dans quelques heures; je pourrais ne jamais revenir. Je ne sais pas. Mais je vous le dis de tout mon coeur, je vous ai dit la Vérité. Je n’ai pas manqué de vous dire tout ce que Dieu m’a dit de vous dire, je l’ai dit dans le Nom du Seigneur.
+183 C’est un moment solennel. Je ne sais pas comment l’exprimer. J’ai essayé de quitter le pupitre à trois ou quatre reprises, mais je n’ai pas pu le faire. C’est une heure solennelle. Ne l’oubliez jamais! C’est un temps où Dieu lance peut-être Son dernier appel. Je ne le sais pas. Il fera Son dernier appel un de ces jours. Quand? — Je ne le sais pas, je vous dis, en accord avec cette vision, que cette Epouse paraît bientôt prête! Observez les églises nominales qui viennent. Lorsque la vierge endormie vient chercher l’huile, elle ne peut pas l’obtenir. L’Epouse est entrée. L’enlèvement a eu lieu pendant qu’elles étaient allées chercher de l’huile; l’Epoux est venu. Etes-vous endormis? Réveillez-vous rapidement, revenez à vous et que chacun prie comme si nous allions mourir à cette minute, dans le Nom du Seigneur. Que chacun prie selon sa manière.
+184 Dieu Tout-Puissant, aie pitié de nous, Seigneur. Aie pitié de moi. Aie pitié de nous tous. Quel bien cela fait-il? Qu’importe ce que nous faisons, si nous échouons dans ces choses. Je suis là et demande miséricorde, ô Dieu, avant que cette grande ville ne s’enfonce dans la mer et que les jugements de Dieu ne balaient cette Côte. Je prie, Dieu, que Tu appelles Ton Epouse. Je Te les confie maintenant, dans le Nom de Jésus-Christ. Amen.

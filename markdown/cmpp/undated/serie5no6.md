@@ -1,316 +1,173 @@
-    SERIE 5 N° 6
+---
+source: "cmpp"
+sermon_id: "serie5no6"
+title: "QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?"
+subtitle: "25 juillet 1965, soir"
+date: "1965-07-25"
+year: 1965
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur l'entrée triomphale de Jésus à Jérusalem, en soulignant l'accomplissement de la prophétie de Zacharie. Il compare l'attente des foules à l'attente actuelle du retour du Seigneur, et critique les chefs religieux qui ne reconnaissent pas l'accomplissement prophétique. Il encourage les croyants à être comme les aigles qui se rassemblent là où Dieu agit."
+tags:
+  - "entrée triomphale"
+  - "prophétie"
+  - "accomplissement"
+  - "montagne des Oliviers"
+  - "attente du Seigneur"
+persons:
+  - "Jésus"
+  - "Zacharie"
+  - "Marie"
+  - "Marthe"
+  - "frère Borders"
+  - "frère Léo Mercier"
+  - "frère Junior Jackson"
+  - "frère Ruddell"
+  - "frère Neville"
+  - "frère Shepherd"
+  - "frère Wood"
+  - "frère Vayle"
+  - "frère Sothman"
+places:
+  - "Jérusalem"
+  - "Bethphagé"
+  - "montagne des Oliviers"
+  - "Nazareth"
+  - "Galilée"
+  - "San José"
+  - "Precott"
+  - "Arizona"
+  - "Tucson"
+  - "Houston"
+  - "Texas"
+  - "Chicago"
+  - "New-York"
+  - "Connecticut"
+  - "Clarksville"
+  - "Jeffersonville"
+  - "Indiana"
+themes:
+  - "accomplissement prophétique"
+  - "rejet du Messie"
+  - "attente eschatologique"
+  - "discernement spirituel"
+  - "foi et guérison"
+  - "critique religieuse"
+pdf_url: "http://cmpp.ch/serie5no6.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Apocalypse 1"
+  - "Apocalypse 10"
+  - "Apocalypse 16"
+  - "Jean 14"
+  - "Jean 15"
+  - "Luc 17"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Matthieu 11"
+  - "Matthieu 21"
+  - "Psaumes 22"
+  - "Zacharie 14"
+  - "Zacharie 9"
+  - "Zacharie 95"
+  - "Ésaïe 29"
+  - "Ésaïe 40"
+---
+SERIE 5 N° 6
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
-   QUELLE ATTRACTION
-Y A-T-IL SUR LA MONTAGNE?
-   (What is the Attraction on the Mountain?)
-
-
-
-
-     25 juillet 1965, soir
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?    2
+WILLIAM MARRION BRANHAM
 
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?
- (What is the Attraction on the Mountain?)
+(What is the Attraction on the Mountain?)
 
 
-           25 Juillet 1965, soir
-             Branham Tabernacle
-      Jeffersonville — Indiana, U.S.A.
+25 juillet 1965, soir
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
+
+QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 2
+
+QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?
+(What is the Attraction on the Mountain?)
+
+25 Juillet 1965, soir
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
 Inclinons nos têtes:
-1 Dieu notre Père, ce soir c’est là notre prière sincère, car nous voyons tout ce que Tu fais pour
-les gens en ce jour. Ainsi nous Te demandons, Seigneur, de faire en sorte que nous puissions
-seulement croire, que nous puissions simplement croire que la Parole écrite rendue manifeste
-pour nous est la Vérité. Accorde-nous ces choses, Père.
-2 Maintenant, ce soir, nous voulons Te remercier pour la Lumière que ce matin Tu as répandue
-pour nous sur les Ecritures. Et ce soir nous Te prions, Seigneur, que dans la ligne de prière Tu
-authentifies Ta Parole comme étant la Vérité.
-3 Nous prions pour toutes les églises et les assemblées qui sont réunies autour de ces petits
-micros au travers de cette nation, depuis la côte Ouest jusqu’aux montagnes de l’Arizona et depuis
-les plaines du Texas jusque sur la côte Est; nous prions pour eux, Seigneur, partout où ils se sont
-réunis dans le pays. Bien des heures nous séparent à cause du décalage horaire, mais Seigneur,
-ce soir, nous les croyants, sommes unis ensemble comme un seul corps attendant la venue du
-Messie. Et nous Te prions, Père Céleste, de L’envoyer bientôt pour Ton Eglise. Car nous le
-demandons en Son Nom. Amen. (Vous pouvez vous asseoir.)
-4 Salutations en Christ à tous ceux qui se trouvent ici ce soir. Je regrette que nous soyons
-encore tellement entassés et serrés que nous pouvons à peine respirer. Même le système de l’air
-conditionné, puisqu’il y a l’air conditionné, n’agit pas beaucoup, tellement il y a de gens. S’il
-s’agissait simplement d’une église normale pleine, ces systèmes d’air conditionné vous
-frigorifieraient. Mais là, tout le monde agite son éventail et pourtant le système d’air conditionné
-fonctionne à pleine puissance.
-5 Nous envoyons nos salutations depuis la côte Est à tous nos amis en Christ qui nous
-écoutent sur la côte Ouest. Nous envoyons nos salutations à San José, à frère Borders et au
-groupe qui se trouve là-haut dans les montagnes, à Precott en Arizona; à frère Léo Mercier et à
-son groupe qui attend la venue du Seigneur. Nous envoyons nos salutations à ceux de Tucson qui
-sont assemblés ce soir et qui attendent la venue du Seigneur. A ceux de Houston au Texas qui
-attendent la venue du Seigneur. A ceux de Chicago qui attendent la venue du Seigneur. A ceux de
-la côte Est, de New-York et du Connecticut et à ces grands groupes là-bas qui attendent la venue
-du Seigneur. Nous n’avons pas de place pour qu’ils puissent s’asseoir ici, c’est pourquoi nous leur
-envoyons simplement la Parole au moyen du téléphone. Ce soir nous envoyons nos salutations à
-frère Junior Jackson ainsi qu’à son groupe de Clarksville. A frère Ruddell et à son groupe qui
-attend la venue du Seigneur. Et ce soir nous sommes assemblés ici dans notre église, le
-Tabernacle, attendant la venue du Seigneur.
-6 Maintenant beaucoup parmi vous n’ont pas assisté au service de ce matin. Mais je suis sûr
-que tous ceux qui n’étaient pas là vont se procurer l’enregistrement [Les Oints du temps de la fin,
-la Parole parlée, série 1, n° 3 — N.d.R.] car je crois que c’était le message le plus direct adressé à
-l’église depuis Messieurs, quelle heure est-il? J’ai senti l’onction du Saint-Esprit, je me suis senti
-conduit à dire ce que j’ai dit. C’était long, mais pourtant je me suis senti conduit à le faire. Et je
-crois que le Seigneur, par Sa Parole, nous a montré en quelle heure nous vivions. Assurez-vous
-de comprendre toutes ces choses mystérieuses qui se passent. Vous savez que la Bible a dit:
-“Les sages comprendront”.
+1 Dieu notre Père, ce soir c’est là notre prière sincère, car nous voyons tout ce que Tu fais pour les gens en ce jour. Ainsi nous Te demandons, Seigneur, de faire en sorte que nous puissions seulement croire, que nous puissions simplement croire que la Parole écrite rendue manifeste pour nous est la Vérité. Accorde-nous ces choses, Père.
+2 Maintenant, ce soir, nous voulons Te remercier pour la Lumière que ce matin Tu as répandue pour nous sur les Ecritures. Et ce soir nous Te prions, Seigneur, que dans la ligne de prière Tu authentifies Ta Parole comme étant la Vérité.
+3 Nous prions pour toutes les églises et les assemblées qui sont réunies autour de ces petits micros au travers de cette nation, depuis la côte Ouest jusqu’aux montagnes de l’Arizona et depuis les plaines du Texas jusque sur la côte Est; nous prions pour eux, Seigneur, partout où ils se sont réunis dans le pays. Bien des heures nous séparent à cause du décalage horaire, mais Seigneur, ce soir, nous les croyants, sommes unis ensemble comme un seul corps attendant la venue du Messie. Et nous Te prions, Père Céleste, de L’envoyer bientôt pour Ton Eglise. Car nous le demandons en Son Nom. Amen. (Vous pouvez vous asseoir.)
+4 Salutations en Christ à tous ceux qui se trouvent ici ce soir. Je regrette que nous soyons encore tellement entassés et serrés que nous pouvons à peine respirer. Même le système de l’air conditionné, puisqu’il y a l’air conditionné, n’agit pas beaucoup, tellement il y a de gens. S’il s’agissait simplement d’une église normale pleine, ces systèmes d’air conditionné vous frigorifieraient. Mais là, tout le monde agite son éventail et pourtant le système d’air conditionné fonctionne à pleine puissance.
+5 Nous envoyons nos salutations depuis la côte Est à tous nos amis en Christ qui nous écoutent sur la côte Ouest. Nous envoyons nos salutations à San José, à frère Borders et au groupe qui se trouve là-haut dans les montagnes, à Precott en Arizona; à frère Léo Mercier et à son groupe qui attend la venue du Seigneur. Nous envoyons nos salutations à ceux de Tucson qui sont assemblés ce soir et qui attendent la venue du Seigneur. A ceux de Houston au Texas qui attendent la venue du Seigneur. A ceux de Chicago qui attendent la venue du Seigneur. A ceux de la côte Est, de New-York et du Connecticut et à ces grands groupes là-bas qui attendent la venue du Seigneur. Nous n’avons pas de place pour qu’ils puissent s’asseoir ici, c’est pourquoi nous leur envoyons simplement la Parole au moyen du téléphone. Ce soir nous envoyons nos salutations à frère Junior Jackson ainsi qu’à son groupe de Clarksville. A frère Ruddell et à son groupe qui attend la venue du Seigneur. Et ce soir nous sommes assemblés ici dans notre église, le Tabernacle, attendant la venue du Seigneur.
+6 Maintenant beaucoup parmi vous n’ont pas assisté au service de ce matin. Mais je suis sûr que tous ceux qui n’étaient pas là vont se procurer l’enregistrement [Les Oints du temps de la fin, la Parole parlée, série 1, n° 3 — N.d.R.] car je crois que c’était le message le plus direct adressé à l’église depuis Messieurs, quelle heure est-il? J’ai senti l’onction du Saint-Esprit, je me suis senti conduit à dire ce que j’ai dit. C’était long, mais pourtant je me suis senti conduit à le faire. Et je crois que le Seigneur, par Sa Parole, nous a montré en quelle heure nous vivions. Assurez-vous de comprendre toutes ces choses mystérieuses qui se passent. Vous savez que la Bible a dit: “Les sages comprendront”.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 3
-7 Mais les nations et les gens deviendront de plus en plus “faibles et sages”. Songez que
-l’Américain moyen d’aujourd’hui atteint le milieu de sa vie à vingt ans: plus faible mais plus sage.
-Autrefois on n’avait pas les avions à réaction et les armes atomiques mais on vivait beaucoup plus
-longtemps. Nous devenons de plus en plus faibles et sages, et c’est notre propre sagesse qui
-va nous détruire. Nous allons nous détruire nous-mêmes. Ce n’est pas Dieu qui va nous détruire,
-c’est notre sagesse qui va nous détruire. Il en a toujours été ainsi et il en sera de nouveau ainsi.
-8 Maintenant, ce prochain dimanche matin, je ne sais pas encore sur quoi je vais parler, mais
-j’ai confiance que le Seigneur, si c’est Sa volonté, nous donnera un autre message s’Il nous laisse
-vivre jusque là et que rien n’arrive. Et ensuite, le dimanche soir, nous prierons pour les malades.
-Ensuite il me faudra retourner à la maison en Arizona afin de ramener ma famille pour que les
-enfants puissent s’inscrire à l’école. Dès que possible nous vous ferons savoir quand et où nous
-avons l’intention d’organiser des réunions au fur et à mesure qu’elles se préparent. Ainsi, que Dieu
-vous bénisse tous.
-9 Maintenant j’ai déjà quinze minutes de retard; ici à Jeffersonville, il est huit heures moins le
-quart et sur la côte Est il est neuf heures moins le quart; et sur la côte Ouest il est environ cinq
-heures. Ici, c’est presque le moment où le soleil se couche. J’aimerais vous parler pendant un
-court moment; j’aimerais essayer de trouver l’onction du Saint-Esprit, puis appeler la ligne de
-prière.
-10 Et j’aimerais que l’assemblée d’ici, ainsi que toutes les assemblées de partout ailleurs,
-trouvent un homme, un frère oint de l’Esprit qui, lorsque nous commencerons à prier pour les
-malades, ira imposer les mains sur ceux de son assemblée. Et souvenez-vous que Dieu est
-omniprésent, Il est partout. Ainsi, que ce soit là-bas au Texas, de l’autre côté en Californie, là-haut
-en Arizona, partout où vous vous trouvez, imposez les mains sur ceux qui sont malades lorsque
-nous commencerons à prier pour les malades. Et je suis sûr que Dieu entendra et répondra à nos
-prières.
-11 Il s’est passé une chose étrange l’autre dimanche soir; je sentais l’onction et le Saint-Esprit
-qui… C’était vraiment quelque chose. Cela faisait des mois et des mois (depuis la dernière fois
-que j’étais ici) que je n’avais pas expérimenté de discernement. Et le fait de monter là-haut selon
-une promesse… Vous ne pouvez pas savoir ce qu’Il va faire. Vous ne pouvez pas dire qu’Il va le
-faire. Vous devez simplement monter là-haut et attendre. Il est souverain. Il fait ce qu’Il veut. Mais
-restez là et attendez de voir ce qu’Il va faire; alors vous sentirez Cela se déverser sur vous comme
-cela.
-12 Ainsi, c’était à la fin de la réunion. Je ne savais pas qui c’était, mais un homme vint le long de
-la ligne de prière; c’était un homme grand et il était chauve sur le dessus de la tête. Il était très
-malade.
-13 Puis tout à la fin, un homme est apparu ici sur la plate-forme; il avait la tête baissée, il se
-tenait l’estomac et semblait souffrir. Et j’ai pensé que ce devait être cet homme pour lequel j’avais
-déjà prié, car il était chauve et avait la tête inclinée; de l’autre côté, il y avait un grand homme
-penché en avant. J’ai regardé autour de moi et j’ai vu le monsieur qui était assis là-bas, mais
-celui-là était réjoui. J’ai pensé: «Où est-il donc?». Je n’arrivais pas à trouver où il était. Pourtant je
-sentais bien qu’il était là; j’ai regardé l’homme devant moi. Alors je me suis senti attiré à regarder
-de ce côté et j’ai eu l’impression qu’il venait depuis l’arrière. J’ai regardé frère Neville et les deux
-frères assis là mais ce n’était pas eux. J’ai dit: «L’homme se trouve à l’intérieur du baptistère
-là-derrière». Et savez-vous qui c’était? Frère Shepherd. Je n’avais pas pu le reconnaître parce
-qu’il était assis là-derrière et priait, la tête inclinée.
-14 Il pensait qu’il allait mourir, il pensait cela depuis les dernières semaines. Sa femme lui avait
-dit qu’il devait s’acheter une nouvelle paire de chaussures et il avait dit: «Je n’en aurai pas besoin
-car je n’en ai plus pour longtemps ici».
-15 Et l’autre jour, je l’ai rencontré dans le champ de frère Wood; il était en train de crier et de
-louer le Seigneur. Il a dit: «Je peux manger du bacon, des oeufs, des tomates, tout ce que je
-veux».
-16 Or, il avait humblement cédé sa place pour aller prier là-bas derrière en dehors du passage.
-Vous voyez, vous n’avez pas besoin de carte de prière, vous avez simplement besoin d’avoir la
-foi. Vous voyez? Maintenant, je ne savais pas si vous aviez été guéri ou non, j’ai simplement dit:
+7 Mais les nations et les gens deviendront de plus en plus “faibles et sages”. Songez que l’Américain moyen d’aujourd’hui atteint le milieu de sa vie à vingt ans: plus faible mais plus sage. Autrefois on n’avait pas les avions à réaction et les armes atomiques mais on vivait beaucoup plus longtemps. Nous devenons de plus en plus faibles et sages, et c’est notre propre sagesse qui va nous détruire. Nous allons nous détruire nous-mêmes. Ce n’est pas Dieu qui va nous détruire, c’est notre sagesse qui va nous détruire. Il en a toujours été ainsi et il en sera de nouveau ainsi.
+8 Maintenant, ce prochain dimanche matin, je ne sais pas encore sur quoi je vais parler, mais j’ai confiance que le Seigneur, si c’est Sa volonté, nous donnera un autre message s’Il nous laisse vivre jusque là et que rien n’arrive. Et ensuite, le dimanche soir, nous prierons pour les malades. Ensuite il me faudra retourner à la maison en Arizona afin de ramener ma famille pour que les enfants puissent s’inscrire à l’école. Dès que possible nous vous ferons savoir quand et où nous avons l’intention d’organiser des réunions au fur et à mesure qu’elles se préparent. Ainsi, que Dieu vous bénisse tous.
+9 Maintenant j’ai déjà quinze minutes de retard; ici à Jeffersonville, il est huit heures moins le quart et sur la côte Est il est neuf heures moins le quart; et sur la côte Ouest il est environ cinq heures. Ici, c’est presque le moment où le soleil se couche. J’aimerais vous parler pendant un court moment; j’aimerais essayer de trouver l’onction du Saint-Esprit, puis appeler la ligne de prière.
+10 Et j’aimerais que l’assemblée d’ici, ainsi que toutes les assemblées de partout ailleurs, trouvent un homme, un frère oint de l’Esprit qui, lorsque nous commencerons à prier pour les malades, ira imposer les mains sur ceux de son assemblée. Et souvenez-vous que Dieu est omniprésent, Il est partout. Ainsi, que ce soit là-bas au Texas, de l’autre côté en Californie, là-haut en Arizona, partout où vous vous trouvez, imposez les mains sur ceux qui sont malades lorsque nous commencerons à prier pour les malades. Et je suis sûr que Dieu entendra et répondra à nos prières.
+11 Il s’est passé une chose étrange l’autre dimanche soir; je sentais l’onction et le Saint-Esprit qui… C’était vraiment quelque chose. Cela faisait des mois et des mois (depuis la dernière fois que j’étais ici) que je n’avais pas expérimenté de discernement. Et le fait de monter là-haut selon une promesse… Vous ne pouvez pas savoir ce qu’Il va faire. Vous ne pouvez pas dire qu’Il va le faire. Vous devez simplement monter là-haut et attendre. Il est souverain. Il fait ce qu’Il veut. Mais restez là et attendez de voir ce qu’Il va faire; alors vous sentirez Cela se déverser sur vous comme cela.
+12 Ainsi, c’était à la fin de la réunion. Je ne savais pas qui c’était, mais un homme vint le long de la ligne de prière; c’était un homme grand et il était chauve sur le dessus de la tête. Il était très malade.
+13 Puis tout à la fin, un homme est apparu ici sur la plate-forme; il avait la tête baissée, il se tenait l’estomac et semblait souffrir. Et j’ai pensé que ce devait être cet homme pour lequel j’avais déjà prié, car il était chauve et avait la tête inclinée; de l’autre côté, il y avait un grand homme penché en avant. J’ai regardé autour de moi et j’ai vu le monsieur qui était assis là-bas, mais celui-là était réjoui. J’ai pensé: «Où est-il donc?». Je n’arrivais pas à trouver où il était. Pourtant je sentais bien qu’il était là; j’ai regardé l’homme devant moi. Alors je me suis senti attiré à regarder de ce côté et j’ai eu l’impression qu’il venait depuis l’arrière. J’ai regardé frère Neville et les deux frères assis là mais ce n’était pas eux. J’ai dit: «L’homme se trouve à l’intérieur du baptistère là-derrière». Et savez-vous qui c’était? Frère Shepherd. Je n’avais pas pu le reconnaître parce qu’il était assis là-derrière et priait, la tête inclinée.
+14 Il pensait qu’il allait mourir, il pensait cela depuis les dernières semaines. Sa femme lui avait dit qu’il devait s’acheter une nouvelle paire de chaussures et il avait dit: «Je n’en aurai pas besoin car je n’en ai plus pour longtemps ici».
+15 Et l’autre jour, je l’ai rencontré dans le champ de frère Wood; il était en train de crier et de louer le Seigneur. Il a dit: «Je peux manger du bacon, des oeufs, des tomates, tout ce que je veux».
+16 Or, il avait humblement cédé sa place pour aller prier là-bas derrière en dehors du passage. Vous voyez, vous n’avez pas besoin de carte de prière, vous avez simplement besoin d’avoir la foi. Vous voyez? Maintenant, je ne savais pas si vous aviez été guéri ou non, j’ai simplement dit:
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
-    QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?    4
-«Il y a un homme qui prie, quelque chose ne va pas chez lui». Je pense que j’ai dû dire: «Il a des
-ennuis d’estomac, il prie là-derrière. Que le Seigneur Jésus vous rétablisse!». Maintenant c’est
-tout ce que je pouvais dire. Ce qui avait exercé une attraction sur moi c’est qu’il priait. Cela je
-pouvais le voir, mais ce qui arrive, je ne le sais pas. Vous voyez?
-17 Mais lorsque vous voyez! Cela revenir et que tout le monde en est conscient, lorsque Cela dit:
-“AINSI DIT LE SEIGNEUR”, alors ce n’est plus moi qui parle, c’est Lui.
-18 Mais je dis toujours: «Jésus-Christ vous a rétabli», c’est exactement la Vérité. “Il a été blessé
-pour nos transgressions, par Ses meurtrissures, nous avons été guéris”. Vous voyez?
-19 Mais lorsque vient le “AINSI DIT LE SEIGNEUR” qui vous dit ce que vous devez faire et ce
-qui va arriver, observez bien car c’est ainsi que cela se passera.
-20 Lorsque je dis: «Jésus-Christ vous guérit et vous rétablit», vous le croyez car Il l’a déjà dit. Je
-ne fais que répéter ce qu’Il a dit.
+QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 4
+«Il y a un homme qui prie, quelque chose ne va pas chez lui». Je pense que j’ai dû dire: «Il a des ennuis d’estomac, il prie là-derrière. Que le Seigneur Jésus vous rétablisse!». Maintenant c’est tout ce que je pouvais dire. Ce qui avait exercé une attraction sur moi c’est qu’il priait. Cela je pouvais le voir, mais ce qui arrive, je ne le sais pas. Vous voyez?
+17 Mais lorsque vous voyez! Cela revenir et que tout le monde en est conscient, lorsque Cela dit: “AINSI DIT LE SEIGNEUR”, alors ce n’est plus moi qui parle, c’est Lui.
+18 Mais je dis toujours: «Jésus-Christ vous a rétabli», c’est exactement la Vérité. “Il a été blessé pour nos transgressions, par Ses meurtrissures, nous avons été guéris”. Vous voyez?
+19 Mais lorsque vient le “AINSI DIT LE SEIGNEUR” qui vous dit ce que vous devez faire et ce qui va arriver, observez bien car c’est ainsi que cela se passera.
+20 Lorsque je dis: «Jésus-Christ vous guérit et vous rétablit», vous le croyez car Il l’a déjà dit. Je ne fais que répéter ce qu’Il a dit.
 21 Une vision ne fait que répéter ce qu’Il a montré. Vous comprenez?
-22 Maintenant il faudrait que nous nous dépêchions d’aller directement dans la Parole car je sais
-que beaucoup parmi vous ici ont une longue route à faire ce soir. Je prie Dieu de vous bénir, de
-vous aider et de vous protéger sur les routes. Et maintenant ce soir j’aimerais voir Matthieu au
-chapitre 21, les versets 1 à 11. Maintenant je ne sais pas si vous avez votre Bible, vous voulez
-peut-être noter ces passages; très bien.
-23 Maintenant, pour ceux qui n’ont pas entendu le message de ce matin, si vous avez un
-magnétophone…, mais nous ne poussons jamais à la vente des bandes. Nous ne poussons
-jamais à la vente de quoi que ce soit. Il arrive que lors d’une grande rencontre, on annonce qu’il y
-a des livres là-derrière. Mais nous ne retirons rien de la vente; c’est frère Vayle qui les écrit.
-L’homme qui s’occupe de l’enregistrement ici vous dira que nous ne gagnons pas d’argent avec
-les bandes. D’ailleurs nous ne pensons pas “enregistrements”, nous pensons “Message”. Et si
-quelqu’un s’imagine qu’il va pouvoir gagner de l’argent, il ne fera pas longtemps des
-enregistrements. C’est juste. Je me suis renseigné à ce sujet, je crois que nos enregistrements
-sont vendus moins de cinq dollars, entre trois et cinq dollars ou quelque chose comme cela. Que
-disent-ils? Trois et quatre dollars pour ces longs enregistrements.
-24 J’ai demandé à un certain pasteur le prix d’un de ses enregistrements; et c’est neuf dollars
-pour un message de vingt ou trente minutes.
-25 Je vois donc que notre frère Sothman là-derrière ne s’enrichit pas, ni aucun d’eux, avec ces
-enregistrements qu’ils produisent. Vous voyez, ils retirent juste assez d’argent pour s’en sortir. On
-ne peut pas leur demander de les faire pour rien car ils doivent acheter les cassettes et tout le
-reste. Et l’appareil est très cher; il faut une mise de fond d’environ dix mille dollars pour
-commencer à faire ces enregistrements.
-26 Maintenant je crois que… On ne l’a pas encore annoncé, mais il va de nouveau y avoir une
-séance pour écouter les bandes. De temps en temps les administrateurs… Je n’ai absolument rien
-à voir avec cela. Je n’ai même jamais assisté à une de ces réunions. Je ne suis ni pour ni contre.
-Les administrateurs décident à qui est le tour de faire les enregistrements et ils envoient une lettre
-à celui qui est concerné. Voilà tout ce que je sais. Ils s’occupent de cela car je ne peux même pas
-faire les présentations des bébés ni les baptêmes, alors encore moins m’occuper des
-enregistrements.
-27 J’ai l’esprit fixé sur ce Message. Il s’agit du troisième Pull et c’est celui envers lequel je veux
-être loyal et respectueux.
+22 Maintenant il faudrait que nous nous dépêchions d’aller directement dans la Parole car je sais que beaucoup parmi vous ici ont une longue route à faire ce soir. Je prie Dieu de vous bénir, de vous aider et de vous protéger sur les routes. Et maintenant ce soir j’aimerais voir Matthieu au chapitre 21, les versets 1 à 11. Maintenant je ne sais pas si vous avez votre Bible, vous voulez peut-être noter ces passages; très bien.
+23 Maintenant, pour ceux qui n’ont pas entendu le message de ce matin, si vous avez un magnétophone…, mais nous ne poussons jamais à la vente des bandes. Nous ne poussons jamais à la vente de quoi que ce soit. Il arrive que lors d’une grande rencontre, on annonce qu’il y a des livres là-derrière. Mais nous ne retirons rien de la vente; c’est frère Vayle qui les écrit. L’homme qui s’occupe de l’enregistrement ici vous dira que nous ne gagnons pas d’argent avec les bandes. D’ailleurs nous ne pensons pas “enregistrements”, nous pensons “Message”. Et si quelqu’un s’imagine qu’il va pouvoir gagner de l’argent, il ne fera pas longtemps des enregistrements. C’est juste. Je me suis renseigné à ce sujet, je crois que nos enregistrements sont vendus moins de cinq dollars, entre trois et cinq dollars ou quelque chose comme cela. Que disent-ils? Trois et quatre dollars pour ces longs enregistrements.
+24 J’ai demandé à un certain pasteur le prix d’un de ses enregistrements; et c’est neuf dollars pour un message de vingt ou trente minutes.
+25 Je vois donc que notre frère Sothman là-derrière ne s’enrichit pas, ni aucun d’eux, avec ces enregistrements qu’ils produisent. Vous voyez, ils retirent juste assez d’argent pour s’en sortir. On ne peut pas leur demander de les faire pour rien car ils doivent acheter les cassettes et tout le reste. Et l’appareil est très cher; il faut une mise de fond d’environ dix mille dollars pour commencer à faire ces enregistrements.
+26 Maintenant je crois que… On ne l’a pas encore annoncé, mais il va de nouveau y avoir une séance pour écouter les bandes. De temps en temps les administrateurs… Je n’ai absolument rien à voir avec cela. Je n’ai même jamais assisté à une de ces réunions. Je ne suis ni pour ni contre. Les administrateurs décident à qui est le tour de faire les enregistrements et ils envoient une lettre à celui qui est concerné. Voilà tout ce que je sais. Ils s’occupent de cela car je ne peux même pas faire les présentations des bébés ni les baptêmes, alors encore moins m’occuper des enregistrements.
+27 J’ai l’esprit fixé sur ce Message. Il s’agit du troisième Pull et c’est celui envers lequel je veux être loyal et respectueux.
 28 Matthieu 21.1 à 11. J’ai dit que vous pouviez chercher dans l’Ecriture:
-     “Et quand ils approchèrent de Jérusalem et qu’ils furent arrivés à Bethphagé, vers la
-     montagne des Oliviers, alors Jésus envoya deux disciples, leur disant: Allez au village qui
-     est vis-à-vis de vous, et aussitôt vous trouverez une ânesse attachée et un ânon avec
-     elle; détachez-les et amenez-les moi. Et si quelqu’un vous dit quelque chose, vous direz:
-     Le Seigneur en a besoin; et aussitôt il les enverra. Et tout cela arriva, afin que fût
-     accompli ce qui avait été dit par le prophète, disant: Dites à la fille de Sion: Voici ton roi
-     vient à toi, débonnaire et monté sur une ânesse et sur un ânon, le petit d’une ânesse. Et
+> “Et quand ils approchèrent de Jérusalem et qu’ils furent arrivés à Bethphagé, vers la montagne des Oliviers, alors Jésus envoya deux disciples, leur disant: Allez au village qui est vis-à-vis de vous, et aussitôt vous trouverez une ânesse attachée et un ânon avec elle; détachez-les et amenez-les moi. Et si quelqu’un vous dit quelque chose, vous direz: Le Seigneur en a besoin; et aussitôt il les enverra. Et tout cela arriva, afin que fût accompli ce qui avait été dit par le prophète, disant: Dites à la fille de Sion: Voici ton roi vient à toi, débonnaire et monté sur une ânesse et sur un ânon, le petit d’une ânesse. Et les disciples, s’en étant allés et ayant fait comme Jésus leur avait ordonné, amenèrent l’ânesse et l’ânon, et mirent leurs vêtements dessus; et il s’y assit. Et une immense foule étendit ses vêtements sur le chemin, et d’autres coupaient des rameaux des arbres et les répandaient sur le chemin. Et les foules qui allaient devant lui, et celles qui suivaient, criaient, disant: Hosanna au fils de David! Béni soit celui qui vient au nom du Seigneur! Hosanna dans les lieux très-hauts! Et comme il entrait dans Jérusalem, toute la ville fut émue, disant: Qui est celui-ci? Et les foules disaient: Celui-ci est Jésus, le prophète, qui est de Nazareth de Galilée”.
+29 Maintenant j’aimerais tirer de ce passage un sujet d’environ trente minutes avant que la ligne de prière ne commence; j’aimerais prendre ceci comme sujet: “Quelle attraction y a-t-il sur la montagne?”.
+30 Ainsi, cette journée avait été très éprouvante, remplie de nervosité et c’était une journée inhabituelle. Nous voyons ici que Jésus montait à Jérusalem; Il était prêt pour participer à la Pâque. C’était à Pâque que l’agneau pascal était tué et que le sang était répandu sur le siège de la grâce pour l’expiation du peuple. Il était monté depuis Bethphagé pour aller au sommet de la montagne des Oliviers qui domine une autre petite colline sur laquelle a été construite Jérusalem. Tandis qu’Il regardait, Il savait que c’était là Sa dernière visite.
+31 C’était le moment où Il allait être livré entre les mains des hommes pécheurs et où ils allaient Le tuer. Il allait mourir de la mort la plus horrible qu’ait jamais soufferte un mortel et Il allait être enseveli. Il devait être trahi par les Siens, dont certains se trouvaient avec Lui. Et Lui, étant Dieu, savait ce qui se trouvait dans leur coeur; Il savait dès le commencement qui allait Le trahir. Cet homme se trouvait près de Lui, il était installé à Son côté, il s’était occupé de compter Son argent et toutes ces choses; et Lui savait que cet homme allait Le trahir. Il savait qu’une cruelle croix romaine L’attendait là-bas. Il savait que l’eau et le sang de Son corps allaient se séparer et que le sang jaillirait en larges gouttes de son front, comme la transpiration. Il savait tout ce qui L’attendait. Et Il se tenait sur la montagne regardant en bas vers Jérusalem.
+32 Les gens de ce temps-là, qu’on qualifiait de “meilleure classe de gens religieux”, Le haïssaient. Les églises de ce temps-là Le haïssaient et Le dénoncèrent ainsi que tous ceux qui L’écoutaient. S’ils allaient assister à Ses campagnes, ils étaient immédiatement excommuniés de la communion de l’église. Il n’est pas étonnant que l’Ecriture ait dit: “Il est venu parmi les Siens et les Siens ne L’ont pas reçu”. Ceux qui auraient dû L’aimer, ceux qui auraient dû être de Son côté, furent Ses ennemis les plus acharnés.
+33 Il avait édifié Son petit groupe parmi des gens pauvres, des pêcheurs, des collecteurs d’impôts, des gens sans instruction. La Bible a dit que certains étaient même “ignorants, sans éducation”. Certains ne savaient même pas signer de leur nom. Jamais Il n’est allé chercher ses gens dans les églises.
+34 Il n’a jamais été d’accord avec quelque dirigeant d’église que ce soit. D’autre part, Il suivit véritablement la trace d’un prophète, condamnant tout ce qu’ils faisaient comme l’avaient fait les prophètes qui étaient avant Lui; eux n’étaient qu’une portion de la Parole, alors que Lui était la Parole dans Sa plénitude.
+35 Mais au milieu de tout cela, en chaque âge et avec chaque prophète, il y aura un certain nombre de personnes prédestinées à entendre ce Message et qui Le suivront. Ceux-là ignorent la foule. Ils ignorent la critique des incroyants. Ils n’ont pas de discussion avec eux. La seule chose qu’ils ont à faire, c’est de croire et de prendre chaque portion de ce Message pour s’en imprégner comme Marie qui était assise aux pieds de Jésus.
+36 Marthe préparait Son repas et Jésus lui dit: “Mais Marthe, tu t’inquiètes tellement des choses de la vie; Marie, elle, cherche les choses les meilleures”. Vous voyez, les choses de la Vie Eternelle.
+37 Nous voyons maintenant que beaucoup parmi ces gens qui avaient compris… En ce temps-là ils n’avaient pas la littérature que nous avons aujourd’hui, ils n’avaient pas la télévision ni le téléphone ni rien de tout cela; mais ils avaient eu vent en quelque sorte de ce qu’Il allait venir pour Pâque. Beaucoup de gens, ayant l’esprit porté aux choses spirituelles, savaient qu’Il était cet Agneau de la Pâque car Il leur avait déjà dit les choses qui devaient arriver.
 
-    http://www.cmpp.ch
+http://www.cmpp.ch
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 5
-     les disciples, s’en étant allés et ayant fait comme Jésus leur avait ordonné, amenèrent
-     l’ânesse et l’ânon, et mirent leurs vêtements dessus; et il s’y assit. Et une immense foule
-     étendit ses vêtements sur le chemin, et d’autres coupaient des rameaux des arbres et les
-     répandaient sur le chemin. Et les foules qui allaient devant lui, et celles qui suivaient,
-     criaient, disant: Hosanna au fils de David! Béni soit celui qui vient au nom du Seigneur!
-     Hosanna dans les lieux très-hauts! Et comme il entrait dans Jérusalem, toute la ville fut
-     émue, disant: Qui est celui-ci? Et les foules disaient: Celui-ci est Jésus, le prophète, qui
-     est de Nazareth de Galilée”.
-29 Maintenant j’aimerais tirer de ce passage un sujet d’environ trente minutes avant que la ligne
-de prière ne commence; j’aimerais prendre ceci comme sujet: “Quelle attraction y a-t-il sur la
-montagne?”.
-30 Ainsi, cette journée avait été très éprouvante, remplie de nervosité et c’était une journée
-inhabituelle. Nous voyons ici que Jésus montait à Jérusalem; Il était prêt pour participer à la
-Pâque. C’était à Pâque que l’agneau pascal était tué et que le sang était répandu sur le siège de
-la grâce pour l’expiation du peuple. Il était monté depuis Bethphagé pour aller au sommet de la
-montagne des Oliviers qui domine une autre petite colline sur laquelle a été construite Jérusalem.
-Tandis qu’Il regardait, Il savait que c’était là Sa dernière visite.
-31 C’était le moment où Il allait être livré entre les mains des hommes pécheurs et où ils allaient
-Le tuer. Il allait mourir de la mort la plus horrible qu’ait jamais soufferte un mortel et Il allait être
-enseveli. Il devait être trahi par les Siens, dont certains se trouvaient avec Lui. Et Lui, étant Dieu,
-savait ce qui se trouvait dans leur coeur; Il savait dès le commencement qui allait Le trahir. Cet
-homme se trouvait près de Lui, il était installé à Son côté, il s’était occupé de compter Son argent
-et toutes ces choses; et Lui savait que cet homme allait Le trahir. Il savait qu’une cruelle croix
-romaine L’attendait là-bas. Il savait que l’eau et le sang de Son corps allaient se séparer et que le
-sang jaillirait en larges gouttes de son front, comme la transpiration. Il savait tout ce qui L’attendait.
-Et Il se tenait sur la montagne regardant en bas vers Jérusalem.
-32 Les gens de ce temps-là, qu’on qualifiait de “meilleure classe de gens religieux”, Le
-haïssaient. Les églises de ce temps-là Le haïssaient et Le dénoncèrent ainsi que tous ceux qui
-L’écoutaient. S’ils allaient assister à Ses campagnes, ils étaient immédiatement excommuniés de
-la communion de l’église. Il n’est pas étonnant que l’Ecriture ait dit: “Il est venu parmi les Siens et
-les Siens ne L’ont pas reçu”. Ceux qui auraient dû L’aimer, ceux qui auraient dû être de Son côté,
-furent Ses ennemis les plus acharnés.
-33 Il avait édifié Son petit groupe parmi des gens pauvres, des pêcheurs, des collecteurs
-d’impôts, des gens sans instruction. La Bible a dit que certains étaient même “ignorants, sans
-éducation”. Certains ne savaient même pas signer de leur nom. Jamais Il n’est allé chercher ses
-gens dans les églises.
-34 Il n’a jamais été d’accord avec quelque dirigeant d’église que ce soit. D’autre part, Il suivit
-véritablement la trace d’un prophète, condamnant tout ce qu’ils faisaient comme l’avaient fait les
-prophètes qui étaient avant Lui; eux n’étaient qu’une portion de la Parole, alors que Lui était la
-Parole dans Sa plénitude.
-35 Mais au milieu de tout cela, en chaque âge et avec chaque prophète, il y aura un certain
-nombre de personnes prédestinées à entendre ce Message et qui Le suivront. Ceux-là ignorent la
-foule. Ils ignorent la critique des incroyants. Ils n’ont pas de discussion avec eux. La seule chose
-qu’ils ont à faire, c’est de croire et de prendre chaque portion de ce Message pour s’en imprégner
-comme Marie qui était assise aux pieds de Jésus.
-36 Marthe préparait Son repas et Jésus lui dit: “Mais Marthe, tu t’inquiètes tellement des choses
-de la vie; Marie, elle, cherche les choses les meilleures”. Vous voyez, les choses de la Vie
-Eternelle.
-37 Nous voyons maintenant que beaucoup parmi ces gens qui avaient compris… En ce temps-là
-ils n’avaient pas la littérature que nous avons aujourd’hui, ils n’avaient pas la télévision ni le
-téléphone ni rien de tout cela; mais ils avaient eu vent en quelque sorte de ce qu’Il allait venir pour
-Pâque. Beaucoup de gens, ayant l’esprit porté aux choses spirituelles, savaient qu’Il était cet
-Agneau de la Pâque car Il leur avait déjà dit les choses qui devaient arriver.
-
-        http://www.cmpp.ch
-
-    QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?    6
-38 Alors, bien sûr, comme ils savaient qu’Il devait être là et qu’ils L’aimaient, ils étaient là en train
-de L’attendre. La foule était probablement en train de pousser, de se bousculer d’une porte à
-l’autre, observant de tous côtés car ils savaient qu’à une heure donnée Il allait apparaître. Ils
-observaient.
-39 D’autres se demandaient ce qu’avaient ces gens à courir de porte en porte. “Qu’y a-t-il
-comme attraction?”.
-40 Et ils regardaient de ce côté-ci et de ce côté-là afin de découvrir ce qu’il y avait. Ils donnaient
-l’impression de chercher quelque chose dans l’attente de quelque chose qui devait arriver.
-41 Oh, comme j’aimerais changer de sujet durant quelques minutes et dire que c’est ce qui se
-passe aujourd’hui. Les gens qui cherchent à Le voir venir se trouvent dans un état de grande
-anticipation et d’expectative. Nous sentons cela, cette pression. Ils cherchent, observant chaque
-mouvement et chaque signe, les comparant avec les Ecritures.
-42 Et lorsque tout à la fin ils virent toutes ces choses qui avaient été prédites à Son sujet, ils
-surent que la fin était proche. Ils voulaient être là, c’est pourquoi ils observaient. Une partie de la
-foule, une minorité, était pour Lui. Certains, la plupart, étaient contre Lui; quatre-vingt-dix pour cent
-étaient contre Lui.
-43 Et c’est à peu près de cette manière que cela se passe dans les foules religieuses
-d’aujourd’hui; lorsqu’on en vient réellement à la Parole et à Christ, il y en a environ un pour cent
-qui va le croire. L’autre partie n’y fera pas attention, ils feront une plaisanterie quelconque à Son
-sujet ou Lui claqueront la porte au nez. Exactement la même chose. Les temps, les choses ne
-changent pas beaucoup; l’histoire ne fait que se répéter.
-44 Eh bien, nous voyons que cela provoque une tension nerveuse. C’est ce qui doit arriver. Ils
-attendaient, se demandant ce qu’Il ferait lorsqu’Il arriverait là. Ils voulaient être là afin d’avoir tout
-ce qu’Il ferait. Ils voulaient Cela. Ils voulaient voir Cela. Ils Le croyaient. D’autres avaient entendu
-dire qu’Il venait et étaient montés afin de se moquer de Lui. Ainsi après toute cette anticipation
-nerveuse lors d’une journée inhabituelle, en un temps inhabituel, alors que les églises dormaient,
-les nerfs des gens étaient sur le point de craquer. Il y avait là tellement de gens, et alors cela
-arriva.
-45 Du sommet de la montagne des Oliviers vint un petit âne blanc qui descendit la colline avec
-un groupe de gens qui criaient comme des fanatiques, arrachaient des feuilles de palmiers,
-jetaient leurs vêtements sur la route et criaient: “Hosanna au Fils de David qui vient dans le Nom
-du Seigneur!”. Voyez-vous, cette petite mule, eh bien, Celui qui la montait n’était autre que le
-Messie de l’heure, oint par Dieu.
-46 Que faisait donc Dieu? Quelle était cette attraction là sur la colline? C’était Dieu faisant
-l’histoire, c’était Dieu accomplissant la prophétie. Et cela crée toujours une attraction. Cela fait
-sortir les critiques, les vautours (du message de ce matin), et aussi les aigles. Vous voyez? Ils
-viennent tous ensemble voir ce qui se passe. Certains viennent par curiosité, certains viennent
-pour trouver une faute, d’autres viennent pour critiquer. Comme nous l’avons dit ce matin, il y en a
-de toutes sortes qui s’assemblent: des croyants, des soi-disant croyants et des incroyants. Qu’y
-a-t-il sur la montagne? La prophétie en train de s’accomplir. Maintenant nous allons voir ce
-qui se passe.
-47 Maintenant dans le livre de Zacharie, au chapitre 9 et au verset 9, Zacharie, un des
-prophètes, parlant dans l’Esprit dit: “Réjouis-toi avec transports, fille de Sion; pousse des cris de
-joie, fille de Jérusalem! Voici, ton roi vient à toi; il est juste et ayant le salut, humble et monté sur
-un âne, et sur un poulain, le petit d’une ânesse”.
-48 Maintenant, qu’est-ce qui n’allait pas avec ces scribes? Qu’est-ce qui n’allait pas avec ces
-prêtres? Qu’est-ce qui n’allait pas avec ces gens religieux? Cela avait été écrit quatre cent quatre-
-vingt-sept ans avant que cela n’arrive, par un prophète confirmé; cela avait déjà été mis en écriture
-et on avait appelé ces rouleaux de l’Ancien Testament “la Bible”. Pourquoi ne pouvaient-ils pas
-voir que cette prophétie était en train de s’accomplir? Pour la même raison qu’ils ne peuvent
-le voir aujourd’hui. Ils ont pris la Parole de Dieu et L’ont rendue sans effet pour le peuple, par
-l’enseignement des doctrines et des traditions de l’homme.
+38 Alors, bien sûr, comme ils savaient qu’Il devait être là et qu’ils L’aimaient, ils étaient là en train de L’attendre. La foule était probablement en train de pousser, de se bousculer d’une porte à l’autre, observant de tous côtés car ils savaient qu’à une heure donnée Il allait apparaître. Ils observaient.
+39 D’autres se demandaient ce qu’avaient ces gens à courir de porte en porte. “Qu’y a-t-il comme attraction?”.
+40 Et ils regardaient de ce côté-ci et de ce côté-là afin de découvrir ce qu’il y avait. Ils donnaient l’impression de chercher quelque chose dans l’attente de quelque chose qui devait arriver.
+41 Oh, comme j’aimerais changer de sujet durant quelques minutes et dire que c’est ce qui se passe aujourd’hui. Les gens qui cherchent à Le voir venir se trouvent dans un état de grande anticipation et d’expectative. Nous sentons cela, cette pression. Ils cherchent, observant chaque mouvement et chaque signe, les comparant avec les Ecritures.
+42 Et lorsque tout à la fin ils virent toutes ces choses qui avaient été prédites à Son sujet, ils surent que la fin était proche. Ils voulaient être là, c’est pourquoi ils observaient. Une partie de la foule, une minorité, était pour Lui. Certains, la plupart, étaient contre Lui; quatre-vingt-dix pour cent étaient contre Lui.
+43 Et c’est à peu près de cette manière que cela se passe dans les foules religieuses d’aujourd’hui; lorsqu’on en vient réellement à la Parole et à Christ, il y en a environ un pour cent qui va le croire. L’autre partie n’y fera pas attention, ils feront une plaisanterie quelconque à Son sujet ou Lui claqueront la porte au nez. Exactement la même chose. Les temps, les choses ne changent pas beaucoup; l’histoire ne fait que se répéter.
+44 Eh bien, nous voyons que cela provoque une tension nerveuse. C’est ce qui doit arriver. Ils attendaient, se demandant ce qu’Il ferait lorsqu’Il arriverait là. Ils voulaient être là afin d’avoir tout ce qu’Il ferait. Ils voulaient Cela. Ils voulaient voir Cela. Ils Le croyaient. D’autres avaient entendu dire qu’Il venait et étaient montés afin de se moquer de Lui. Ainsi après toute cette anticipation nerveuse lors d’une journée inhabituelle, en un temps inhabituel, alors que les églises dormaient, les nerfs des gens étaient sur le point de craquer. Il y avait là tellement de gens, et alors cela arriva.
+45 Du sommet de la montagne des Oliviers vint un petit âne blanc qui descendit la colline avec un groupe de gens qui criaient comme des fanatiques, arrachaient des feuilles de palmiers, jetaient leurs vêtements sur la route et criaient: “Hosanna au Fils de David qui vient dans le Nom du Seigneur!”. Voyez-vous, cette petite mule, eh bien, Celui qui la montait n’était autre que le Messie de l’heure, oint par Dieu.
+46 Que faisait donc Dieu? Quelle était cette attraction là sur la colline? C’était Dieu faisant l’histoire, c’était Dieu accomplissant la prophétie. Et cela crée toujours une attraction. Cela fait sortir les critiques, les vautours (du message de ce matin), et aussi les aigles. Vous voyez? Ils viennent tous ensemble voir ce qui se passe. Certains viennent par curiosité, certains viennent pour trouver une faute, d’autres viennent pour critiquer. Comme nous l’avons dit ce matin, il y en a de toutes sortes qui s’assemblent: des croyants, des soi-disant croyants et des incroyants. Qu’y a-t-il sur la montagne? La prophétie en train de s’accomplir. Maintenant nous allons voir ce qui se passe.
+47 Maintenant dans le livre de Zacharie, au chapitre 9 et au verset 9, Zacharie, un des prophètes, parlant dans l’Esprit dit: “Réjouis-toi avec transports, fille de Sion; pousse des cris de joie, fille de Jérusalem! Voici, ton roi vient à toi; il est juste et ayant le salut, humble et monté sur un âne, et sur un poulain, le petit d’une ânesse”.
+48 Maintenant, qu’est-ce qui n’allait pas avec ces scribes? Qu’est-ce qui n’allait pas avec ces prêtres? Qu’est-ce qui n’allait pas avec ces gens religieux? Cela avait été écrit quatre cent quatre-vingt-sept ans avant que cela n’arrive, par un prophète confirmé; cela avait déjà été mis en écriture et on avait appelé ces rouleaux de l’Ancien Testament “la Bible”. Pourquoi ne pouvaient-ils pas voir que cette prophétie était en train de s’accomplir? Pour la même raison qu’ils ne peuvent le voir aujourd’hui. Ils ont pris la Parole de Dieu et L’ont rendue sans effet pour le peuple, par l’enseignement des doctrines et des traditions de l’homme.
 49 Si les scribes, les prédicateurs, les pasteurs, les hommes spirituels (soi-disant), les oints,
 
-                                 http://www.cmpp.ch
+http://www.cmpp.ch
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 7
 voulaient seulement lire la Bible, ils ne se demanderaient pas ce qui se passe, ils sauraient ce
@@ -596,7 +453,7 @@ Quelle est cette attraction? Lisons encore deux versets:
 
     http://www.cmpp.ch
 
-    QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?    12
+QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?    12
 sortez de là avant que la mort ne vous frappe. Dieu L’a confirmé. Il en sera ainsi.
 100 Voyons un autre passage de l’Ecriture dans l’Ancien Testament; Malachie, au chapitre 4.
 Lisons ce court chapitre.
@@ -878,266 +735,81 @@ Prions:
         http://www.cmpp.ch
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 17
-153 Dieu bien-aimé, j’ai longuement retenu ces gens, bien plus longtemps que je n’en avais
-l’intention. Je te prie, ô Dieu, afin que tout ce qui a été dit ou fait conduise les gens de partout à
-comprendre. Et puissent-ils croire en voyant et en comprenant cela que Tu es le véritable
-Christ et que la Parole qui a été confirmée est la confirmation de Sa Parole parfaite et
-accomplie en Sa saison.
-154 Maintenant, Seigneur Jésus, selon Tes propres paroles, Tu as dit que le monde se trouverait
-dans la condition de Sodome. Nous le savons; nous pouvons le voir. Et Tu as dit de ce jour qu’il en
-serait “comme du temps de Sodome”. Trois messagers furent envoyés aux nations et au peuple
-hébreu. L’un d’eux, qui était Dieu Lui-même, le Fils de l’homme, se révéla Lui-même sous
-forme humaine et accomplit un miracle au point de dire à Abraham ce que faisait Sara
-derrière Lui dans la tente.
-155 Tu as dit que cela se répéterait lorsque les nations seraient entièrement dans la condition de
-Sodome. Et nous en sommes là, Seigneur. D’autres prophéties ont confirmé cette même chose, à
-savoir Elie qui serait envoyé au dernier jour, l’Esprit d’Elie devant venir sur la terre afin de ramener
-“le coeur des enfants vers leurs pères”. Et je te prie, ô Dieu, qu’en cette heure Tu confirmes Ta
-Parole, que Tu es le même hier, aujourd’hui et pour toujours. Accorde-le, Père. Ils sont tous Tiens.
-Je Te prie de leur accorder ces bénédictions et de confirmer ce qui a été dit pour la Gloire de Dieu.
-Au Nom de Jésus-Christ. Amen.
-156 Dire une parole, un homme peut le faire; confirmer une Parole, c’est Dieu qui le fait. Parler,
-c’est une chose; mais que Dieu le fasse, c’est autre chose. Dieu n’a pas besoin d’interprète; Il
-fait Lui-même Sa propre interprétation.
-157 Maintenant nous nous préparons à avoir une ligne de prière afin de prier pour les malades,
-Dieu voulant. Et nous savons qu’il n’y a personne, aucun homme, aucune femme, aucun être
-humain, aucun ange, qui puisse vous guérir, car Dieu l’a déjà fait. Il s’est occupé de la
-préparation; la seule chose que vous ayez à faire est de la recevoir.
-158 Il n’y a pas un homme, pas un ange, rien, pas même Dieu, qui puisse vous pardonner vos
-péchés. Cela a déjà été fait. Jésus l’a fait à la Croix. Mais cela ne vous sera d’aucun bénéfice,
-ou d’aucun profit tant que vous ne l’avez pas accepté. Vous voyez?
-159 La seule chose qu’il y ait à faire, c’est de suivre les ordres qui ont été donnés par Dieu selon
-lesquels les croyants doivent imposer les mains aux malades. Cela s’est fait tout au long des âges
-et au travers des réveils. Et on appelle cela “Dieu”.
-160 Abraham vit beaucoup de signes. Mais il vint un temps où Abraham vit son dernier signe,
-juste avant que Sodome ne soit brûlé; et c’était Dieu qui se manifestait Lui-même sous la
-forme d’un homme. Croyez-vous cela? Jésus n’a-t-Il pas dit que cela se répéterait?
-161 Maintenant combien se trouvent ici… Il y a aussi ceux qui écoutent la radio ou qui sont au
-téléphone dans tout le pays. Si vous êtes toujours en train d’écouter, préparez-vous maintenant
-pour la prière; restez en prière ainsi que vous tous qui avez les mouchoirs ici. Maintenant je ne
-peux pas dire à Dieu ce qu’Il doit faire. Non. Loin de moi la pensée même d’essayer. Il est
-souverain. Il fait ce qu’Il veut faire. Je ne peux qu’obéir et dire ce qu’Il dit.
-162 Les gens se tiennent debout contre les murs; ils sont entassés et la salle est encombrée. Je
-me demande si nous pourrions poser cette question à Dieu: “Quelle est cette attraction?”. Si
-seulement Dieu pouvait de nouveau se mouvoir parmi nous (il se peut qu’il y ait des étrangers ici),
-et s’Il pouvait montrer Sa face bénie au milieu de nous, s’Il pouvait montrer Son Esprit ici, montrer
-qu’Il est le même hier, aujourd’hui et pour toujours, afin que chacun d’entre nous puisse croire qu’il
-en est ainsi après avoir entendu ces deux messages puissants. Pourriez-vous faire cela? Très
-bien.
-163 Plutôt que d’appeler une ligne de prière alors qu’il fait si chaud, que la salle est encombrée et
-que les gens sont debout contre les murs… Je cherche le moyen d’appeler ma ligne de prière; si
-vous vous tenez là, vous ne pourrez pas y venir. Pourrais-je l’appeler de ce côté? Vous qui êtes
-malades, sur des couchettes ou allongés sur d’autres choses, vous ne pourrez pas venir. Restez
-donc où vous êtes et croyez Dieu. Si vous avez une carte de prière, tenez-là; tout ira bien. Nous
-viendrons vers vous si vous tenez à être dans une ligne de prière. Mais vous n’êtes pas obligés de
-venir dans une ligne.
+153 Dieu bien-aimé, j’ai longuement retenu ces gens, bien plus longtemps que je n’en avais l’intention. Je te prie, ô Dieu, afin que tout ce qui a été dit ou fait conduise les gens de partout à comprendre. Et puissent-ils croire en voyant et en comprenant cela que Tu es le véritable Christ et que la Parole qui a été confirmée est la confirmation de Sa Parole parfaite et accomplie en Sa saison.
+154 Maintenant, Seigneur Jésus, selon Tes propres paroles, Tu as dit que le monde se trouverait dans la condition de Sodome. Nous le savons; nous pouvons le voir. Et Tu as dit de ce jour qu’il en serait “comme du temps de Sodome”. Trois messagers furent envoyés aux nations et au peuple hébreu. L’un d’eux, qui était Dieu Lui-même, le Fils de l’homme, se révéla Lui-même sous forme humaine et accomplit un miracle au point de dire à Abraham ce que faisait Sara derrière Lui dans la tente.
+155 Tu as dit que cela se répéterait lorsque les nations seraient entièrement dans la condition de Sodome. Et nous en sommes là, Seigneur. D’autres prophéties ont confirmé cette même chose, à savoir Elie qui serait envoyé au dernier jour, l’Esprit d’Elie devant venir sur la terre afin de ramener “le coeur des enfants vers leurs pères”. Et je te prie, ô Dieu, qu’en cette heure Tu confirmes Ta Parole, que Tu es le même hier, aujourd’hui et pour toujours. Accorde-le, Père. Ils sont tous Tiens. Je Te prie de leur accorder ces bénédictions et de confirmer ce qui a été dit pour la Gloire de Dieu. Au Nom de Jésus-Christ. Amen.
+156 Dire une parole, un homme peut le faire; confirmer une Parole, c’est Dieu qui le fait. Parler, c’est une chose; mais que Dieu le fasse, c’est autre chose. Dieu n’a pas besoin d’interprète; Il fait Lui-même Sa propre interprétation.
+157 Maintenant nous nous préparons à avoir une ligne de prière afin de prier pour les malades, Dieu voulant. Et nous savons qu’il n’y a personne, aucun homme, aucune femme, aucun être humain, aucun ange, qui puisse vous guérir, car Dieu l’a déjà fait. Il s’est occupé de la préparation; la seule chose que vous ayez à faire est de la recevoir.
+158 Il n’y a pas un homme, pas un ange, rien, pas même Dieu, qui puisse vous pardonner vos péchés. Cela a déjà été fait. Jésus l’a fait à la Croix. Mais cela ne vous sera d’aucun bénéfice, ou d’aucun profit tant que vous ne l’avez pas accepté. Vous voyez?
+159 La seule chose qu’il y ait à faire, c’est de suivre les ordres qui ont été donnés par Dieu selon lesquels les croyants doivent imposer les mains aux malades. Cela s’est fait tout au long des âges et au travers des réveils. Et on appelle cela “Dieu”.
+160 Abraham vit beaucoup de signes. Mais il vint un temps où Abraham vit son dernier signe, juste avant que Sodome ne soit brûlé; et c’était Dieu qui se manifestait Lui-même sous la forme d’un homme. Croyez-vous cela? Jésus n’a-t-Il pas dit que cela se répéterait?
+161 Maintenant combien se trouvent ici… Il y a aussi ceux qui écoutent la radio ou qui sont au téléphone dans tout le pays. Si vous êtes toujours en train d’écouter, préparez-vous maintenant pour la prière; restez en prière ainsi que vous tous qui avez les mouchoirs ici. Maintenant je ne peux pas dire à Dieu ce qu’Il doit faire. Non. Loin de moi la pensée même d’essayer. Il est souverain. Il fait ce qu’Il veut faire. Je ne peux qu’obéir et dire ce qu’Il dit.
+162 Les gens se tiennent debout contre les murs; ils sont entassés et la salle est encombrée. Je me demande si nous pourrions poser cette question à Dieu: “Quelle est cette attraction?”. Si seulement Dieu pouvait de nouveau se mouvoir parmi nous (il se peut qu’il y ait des étrangers ici), et s’Il pouvait montrer Sa face bénie au milieu de nous, s’Il pouvait montrer Son Esprit ici, montrer qu’Il est le même hier, aujourd’hui et pour toujours, afin que chacun d’entre nous puisse croire qu’il en est ainsi après avoir entendu ces deux messages puissants. Pourriez-vous faire cela? Très bien.
+163 Plutôt que d’appeler une ligne de prière alors qu’il fait si chaud, que la salle est encombrée et que les gens sont debout contre les murs… Je cherche le moyen d’appeler ma ligne de prière; si vous vous tenez là, vous ne pourrez pas y venir. Pourrais-je l’appeler de ce côté? Vous qui êtes malades, sur des couchettes ou allongés sur d’autres choses, vous ne pourrez pas venir. Restez donc où vous êtes et croyez Dieu. Si vous avez une carte de prière, tenez-là; tout ira bien. Nous viendrons vers vous si vous tenez à être dans une ligne de prière. Mais vous n’êtes pas obligés de venir dans une ligne.
 
         http://www.cmpp.ch
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 18
-164 Le dernier dimanche soir, M. Shepherd n’est venu dans aucune ligne de prière. Je ne crois
-pas qu’il avait une carte de prière. M. Shepherd est-il ici ce soir? Où est-il? Est-il ici? Il est à
-l’arrière. Aviez-vous une carte de prière, M. Shepherd? Vous n’en aviez pas? Il n’en avait pas. Il
-est assis de nouveau ici ce soir. Vous avez choisi la bonne place, frère Shepherd.
-165 Il ne vous suffit pas d’être ici; il vous faut aussi avoir la foi. Souvenez-vous de cette
-femme qui toucha Son vêtement et Il le sentit. Et Il est le même hier, aujourd’hui et pour toujours.
-Et dans le Nouveau Testament, dans l’épître aux Hébreux, il est dit qu’Il est le “Souverain
-Sacrificateur” qui ce soir peut “compatir à nos infirmités”. Croyez-vous cela? Ayez donc la foi! Ne
-doutez pas de Cela. Croyez-Le et cela se passera. Vous pouvez obtenir ce que vous avez
-demandé si vous pouvez Le croire. Mais il vous faut Le croire. Le ferez-vous? Allez-vous tous Le
-croire? Combien vont-ils Le croire maintenant? Que Dieu vous bénisse
-166 Je ne sais pas qui est qui. Je ne connais aucun de vous. Ce n’est pas mon affaire de
-connaître qui que ce soit parmi vous; c’est l’affaire de Dieu de connaître ces choses. Mais Il le fera
-si vous y croyez. Allez-vous Le croire maintenant?
-167 Dieu bien-aimé, nous ne sommes certainement pas un tas de chrétiens hybrides; nous ne
-devrions pas avoir besoin d’être cajolés comme des bébés. Ce n’est pas Ton genre, Seigneur. Tu
-as des croyants robustes. La présence même de Dieu met le coeur de l’homme sur la braise. C’est
-comme pour Abraham, il croyait Dieu. Tu t’es fait connaître à lui, puis Tu lui es apparu et Tu as
-accompli un signe et il T’a cru. Tu lui as redonné un corps de jeune homme et Tu as fait la même
-chose pour sa femme, car sa femme faisait partie de son propre corps. Alors est venu l’enfant, le
-fils promis.
-168 O Dieu, Tu as promis que ce serait la même chose en ce jour. Je Te prie de confirmer
-cette Parole. Et c’est exactement à cette promesse que nous avons affaire, car il en sera comme
-à Sodome, avant que Sodome ne soit brûlé et que le jugement ne frappe Sodome, le monde des
-nations. Le jugement se prépare donc à frapper le monde des nations et les Juifs devront subir
-encore trois ans et demi la période de tribulation, les épreuves de Jacob, la suite des soixante-dix
-semaines de Daniel. Mais les jours des nations sont comptés; c’est le moment d’aller. Tu as donné
-ce signe et Tu as dit que cela se reproduirait. Accorde-le, Seigneur. Nous sommes entre Tes
-mains, agis avec nous comme Tu le juges bon. Au nom de Jésus-Christ. Amen.
-169 Maintenant, vous ne devez pas être nerveux. Qu’arriverait-il si je m’énervais? Je suis en train
-de faire une chose ici qui doit dépendre de la souveraineté de Dieu. Mais pourquoi suis-je en train
-de faire cela? Il a dit qu’il en serait ainsi. Cela règle tout. Et si Lui-même fait en sorte de confirmer
-cela devant vous, eh bien, ne pouvez-vous pas Le croire? Certainement. Ayez simplement la foi
-maintenant et croyez. Laissez-moi simplement regarder autour de moi, voir où le Saint-Esprit
-nous conduira, ce qu’Il fera. Je ne sais pas ce qu’Il va faire, cela Le regarde. Mais si vous avez
-simplement la foi, croyez seulement que “toutes choses sont possibles à ceux qui croient”. Vous
-tous qui croyez cela, levez la main et dites: «Je le crois». [L’assemblée dit: «Je le crois.» —
-N.d.R.] De tout mon coeur, je le crois.
-170 Maintenant, le chiffre trois est une confirmation; s’Il le fait clairement trois fois, cela vous
-prouve que c’est juste. Peu m’importe d’où vous êtes, qui vous êtes, ayez simplement la foi et
-croyez. Maintenant, ne bougez pas, là autour.
-171 Cette dame prie. Je ne vous connais pas. Restez simplement où vous êtes, vous n’avez pas
-besoin de venir. Je ne vous connais pas, mais vous tenez une petite fille à la main, ou sur vos
-genoux. Je vous suis absolument étranger. Et la petite fille a l’air normal, elle semble en bonne
-santé. C’est une jolie petite fille aux cheveux roux. Je la regarde, elle n’a pas l’air infirme. Je ne
-sais pas ce qu’elle a. Il se peut que ce ne soit pas elle qui est en cause, il se peut que ce soit vous.
-Mais il se trouve simplement que je vous ai vue assise ici avec cette enfant et que vous priiez. Il
-faut que je vous parle une minute pour saisir votre esprit, tout comme Jésus a dit à la femme:
-“Apporte-moi à boire”, vous voyez, simplement pour se représenter la personne. Frère Bryant et
-les autres sont assis là; je connais ces gens qui sont assis là. Il se peut qu’ils soient aussi dans le
-besoin, mais vous, vous m’êtes inconnue.
-172 Croyez-vous que je sois le prophète de Dieu? Croyez-vous que ces choses que vous avez
-entendues ce soir sont la Vérité. Maintenant, si Dieu me révèle quelque chose que vous avez fait,
-ou quelque chose que vous n’auriez pas dû faire, ou quelque chose qui ne va pas, ou ce qu’est
+164 Le dernier dimanche soir, M. Shepherd n’est venu dans aucune ligne de prière. Je ne crois pas qu’il avait une carte de prière. M. Shepherd est-il ici ce soir? Où est-il? Est-il ici? Il est à l’arrière. Aviez-vous une carte de prière, M. Shepherd? Vous n’en aviez pas? Il n’en avait pas. Il est assis de nouveau ici ce soir. Vous avez choisi la bonne place, frère Shepherd.
+165 Il ne vous suffit pas d’être ici; il vous faut aussi avoir la foi. Souvenez-vous de cette femme qui toucha Son vêtement et Il le sentit. Et Il est le même hier, aujourd’hui et pour toujours. Et dans le Nouveau Testament, dans l’épître aux Hébreux, il est dit qu’Il est le “Souverain Sacrificateur” qui ce soir peut “compatir à nos infirmités”. Croyez-vous cela? Ayez donc la foi! Ne doutez pas de Cela. Croyez-Le et cela se passera. Vous pouvez obtenir ce que vous avez demandé si vous pouvez Le croire. Mais il vous faut Le croire. Le ferez-vous? Allez-vous tous Le croire? Combien vont-ils Le croire maintenant? Que Dieu vous bénisse
+166 Je ne sais pas qui est qui. Je ne connais aucun de vous. Ce n’est pas mon affaire de connaître qui que ce soit parmi vous; c’est l’affaire de Dieu de connaître ces choses. Mais Il le fera si vous y croyez. Allez-vous Le croire maintenant?
+167 Dieu bien-aimé, nous ne sommes certainement pas un tas de chrétiens hybrides; nous ne devrions pas avoir besoin d’être cajolés comme des bébés. Ce n’est pas Ton genre, Seigneur. Tu as des croyants robustes. La présence même de Dieu met le coeur de l’homme sur la braise. C’est comme pour Abraham, il croyait Dieu. Tu t’es fait connaître à lui, puis Tu lui es apparu et Tu as accompli un signe et il T’a cru. Tu lui as redonné un corps de jeune homme et Tu as fait la même chose pour sa femme, car sa femme faisait partie de son propre corps. Alors est venu l’enfant, le fils promis.
+168 O Dieu, Tu as promis que ce serait la même chose en ce jour. Je Te prie de confirmer cette Parole. Et c’est exactement à cette promesse que nous avons affaire, car il en sera comme à Sodome, avant que Sodome ne soit brûlé et que le jugement ne frappe Sodome, le monde des nations. Le jugement se prépare donc à frapper le monde des nations et les Juifs devront subir encore trois ans et demi la période de tribulation, les épreuves de Jacob, la suite des soixante-dix semaines de Daniel. Mais les jours des nations sont comptés; c’est le moment d’aller. Tu as donné ce signe et Tu as dit que cela se reproduirait. Accorde-le, Seigneur. Nous sommes entre Tes mains, agis avec nous comme Tu le juges bon. Au nom de Jésus-Christ. Amen.
+169 Maintenant, vous ne devez pas être nerveux. Qu’arriverait-il si je m’énervais? Je suis en train de faire une chose ici qui doit dépendre de la souveraineté de Dieu. Mais pourquoi suis-je en train de faire cela? Il a dit qu’il en serait ainsi. Cela règle tout. Et si Lui-même fait en sorte de confirmer cela devant vous, eh bien, ne pouvez-vous pas Le croire? Certainement. Ayez simplement la foi maintenant et croyez. Laissez-moi simplement regarder autour de moi, voir où le Saint-Esprit nous conduira, ce qu’Il fera. Je ne sais pas ce qu’Il va faire, cela Le regarde. Mais si vous avez simplement la foi, croyez seulement que “toutes choses sont possibles à ceux qui croient”. Vous tous qui croyez cela, levez la main et dites: «Je le crois». [L’assemblée dit: «Je le crois.» — N.d.R.] De tout mon coeur, je le crois.
+170 Maintenant, le chiffre trois est une confirmation; s’Il le fait clairement trois fois, cela vous prouve que c’est juste. Peu m’importe d’où vous êtes, qui vous êtes, ayez simplement la foi et croyez. Maintenant, ne bougez pas, là autour.
+171 Cette dame prie. Je ne vous connais pas. Restez simplement où vous êtes, vous n’avez pas besoin de venir. Je ne vous connais pas, mais vous tenez une petite fille à la main, ou sur vos genoux. Je vous suis absolument étranger. Et la petite fille a l’air normal, elle semble en bonne santé. C’est une jolie petite fille aux cheveux roux. Je la regarde, elle n’a pas l’air infirme. Je ne sais pas ce qu’elle a. Il se peut que ce ne soit pas elle qui est en cause, il se peut que ce soit vous. Mais il se trouve simplement que je vous ai vue assise ici avec cette enfant et que vous priiez. Il faut que je vous parle une minute pour saisir votre esprit, tout comme Jésus a dit à la femme: “Apporte-moi à boire”, vous voyez, simplement pour se représenter la personne. Frère Bryant et les autres sont assis là; je connais ces gens qui sont assis là. Il se peut qu’ils soient aussi dans le besoin, mais vous, vous m’êtes inconnue.
+172 Croyez-vous que je sois le prophète de Dieu? Croyez-vous que ces choses que vous avez entendues ce soir sont la Vérité. Maintenant, si Dieu me révèle quelque chose que vous avez fait, ou quelque chose que vous n’auriez pas dû faire, ou quelque chose qui ne va pas, ou ce qu’est
 
         http://www.cmpp.ch
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 19
-votre désir, vous saurez si c’est juste ou faux. N’est-ce pas? Et s’Il fait cela, cela confirmera Sa
-Parole selon laquelle Il est le même hier, aujourd’hui et pour toujours et que Luc 17.30 a été
-manifesté. Le croyez-vous?
-173 Maintenant la dame a levé la main en signe que nous sommes inconnus l’un à l’autre. Je ne
-vous connais pas, mais j’essaye d’entrer en contact avec votre esprit, votre personne. Maintenant,
-vous croyez ceci de tout votre coeur. Il s’agit de la petite fille. Ce n’est pas vous. Vous êtes
-nerveuse, mais ce n’est pas votre nervosité qui vous gêne. Cette grande chose qu’il y a sur votre
-coeur concerne cette petite fille. Vous croyez que Dieu peut me dire de quoi il s’agit? Vous le
-croyez? Cela vous aiderait-il? Le croiriez-vous alors? C’est une lésion au cerveau. Est-ce juste?
-Maintenant, posez la main sur la tête de cette enfant.
-174 Dieu bien-aimé, Tu as dit: “Ces signes accompagneront ceux qui auront cru. Ils imposeront
-les mains aux malades et ils guériront”. Cette femme est une croyante. Sa main est posée sur
-l’enfant. Puisse-t-elle guérir. Je présente cette prière au nom de Jésus-Christ. Amen.
-175 Maintenant croyez-vous tous? Si vous pouvez croire, toutes choses sont possibles.
-Certainement!
-176 Je connais la dame assise près d’elle; elle regarde intensément de ce côté. Je ne peux pas
-dire son nom, mais de toute façon si je la regardais une minute, je le saurais. Je la connais de vue
-mais je ne sais pas ce qu’elle a. Croyez-vous que Dieu va me faire connaître ce que vous avez?
-Cela vous aiderait-il?… Il s’agit du diabète. Maintenant, si c’est juste, levez la main. Certainement!
-177 Il se trouve que la dame assise près de vous a la même chose. C’est une inconnue. L’autre
-dame prie pour quelqu’un, un enfant infirme. Vous croyez de tout votre coeur que Dieu veut vous
-l’accorder.
-178 Il y a quelqu’un là à l’arrière. Cet homme assis de l’autre côté essaye de se débarrasser de la
-cigarette. Vous croyez que Dieu peut vous en débarrasser? Très bien. Vous le croyez? Vous
-pouvez obtenir cela. Je n’ai jamais vu cet homme de ma vie.
-179 Il y a un homme ici. Vous voyez cette ombre noire au-dessus de cet homme qui est allongé
-sur une couchette ou une chaise juste ici? Cet homme est mourant. Il est recouvert de cette
-ombre, il a le cancer. Je ne connais pas cet homme, je ne l’ai jamais vu. Dieu connaît tout ce qui
-vous concerne. C’est la vérité, monsieur. Croyez-vous que Dieu pourrait me dire quelque chose à
-votre sujet? Cela vous aiderait-il à recevoir votre guérison? [Le frère dit: «Oui.» — N.d.R.] C’est un
-ami qui vous a amené ici. Mais vous n’êtes pas d’ici; vous venez d’un lieu où il y a un grand plan
-d’eau et où les gens font de la pêche. Oui, Albany dans la Kentucky. [C’est vrai.] C’est juste.
-Croyez, et vous pouvez retourner chez vous guéri. Croyez que c’est parti. Si vous pouviez croire!
-Vous devez Le croire, croire que cela a été fait pour vous. Vous croyez?
-180 Vous, qui venez du Tennessee, vous avez un garçon qui a de l’asthme. Il n’est pas ici, mais
-croyez-vous qu’il va être guéri? Alors portez-lui le mouchoir que vous tenez à la main. Il sera guéri
-si vous le croyez.
-181 Il y a ici une dame qui pleure. Elle est assise en face du Docteur Vayle ici. Il y a aussi une
-ombre sur elle, une ombre noire. Je n’ai jamais vu cette femme de ma vie; elle a un cancer. Elle va
-mourir si on ne fait rien pour elle. Madame, croyez-vous qu’Il va vous guérir? Vous le pouvez?
-Vous pouvez obtenir votre guérison, si simplement vous croyez.
-182 Juste derrière elle, il y a une dame assise qui tient un mouchoir sur la bouche. Elle aussi est
-malade; elle a un ulcère à l’estomac. Vous passez par des moments d’évanouissements,
-d’aveuglements et vous faites des chutes. Quelqu’un vous a amenée ici. Vous avez des troubles
-de femme. Si vous croyez, vous pouvez rentrer à la maison et être guérie.
-183 Vous, jeune homme, vous êtes un étranger; vous êtes assis juste là en face de moi et vous
-me regardez. Etes-vous Porto-Ricain ou quelque chose comme cela? Je vous suis inconnu, vous
-le savez; vous n’êtes même pas de notre pays. Mais croyez-vous que Dieu peut vous accorder le
-désir de votre coeur? Si je vous dis quel est ce désir, l’accepterez-vous, le recevrez-vous? Vous
-recherchez le baptême du Saint-Esprit. C’est juste. Recevez le Saint-Esprit, mon frère.
-184 Il y a ici un homme de couleur assis à l’arrière; il a un fardeau sur le coeur, c’est au sujet de
-sa femme. Elle n’est d’ailleurs pas là. Elle a des problèmes aux pieds. Croyez-vous qu’Il peut la
-guérir? Vous le croyez? Vous êtes étranger ici. Vous venez de l’autre côté de la mer. Vous venez
+votre désir, vous saurez si c’est juste ou faux. N’est-ce pas? Et s’Il fait cela, cela confirmera Sa Parole selon laquelle Il est le même hier, aujourd’hui et pour toujours et que Luc 17.30 a été manifesté. Le croyez-vous?
+173 Maintenant la dame a levé la main en signe que nous sommes inconnus l’un à l’autre. Je ne vous connais pas, mais j’essaye d’entrer en contact avec votre esprit, votre personne. Maintenant, vous croyez ceci de tout votre coeur. Il s’agit de la petite fille. Ce n’est pas vous. Vous êtes nerveuse, mais ce n’est pas votre nervosité qui vous gêne. Cette grande chose qu’il y a sur votre coeur concerne cette petite fille. Vous croyez que Dieu peut me dire de quoi il s’agit? Vous le croyez? Cela vous aiderait-il? Le croiriez-vous alors? C’est une lésion au cerveau. Est-ce juste? Maintenant, posez la main sur la tête de cette enfant.
+174 Dieu bien-aimé, Tu as dit: “Ces signes accompagneront ceux qui auront cru. Ils imposeront les mains aux malades et ils guériront”. Cette femme est une croyante. Sa main est posée sur l’enfant. Puisse-t-elle guérir. Je présente cette prière au nom de Jésus-Christ. Amen.
+175 Maintenant croyez-vous tous? Si vous pouvez croire, toutes choses sont possibles. Certainement!
+176 Je connais la dame assise près d’elle; elle regarde intensément de ce côté. Je ne peux pas dire son nom, mais de toute façon si je la regardais une minute, je le saurais. Je la connais de vue mais je ne sais pas ce qu’elle a. Croyez-vous que Dieu va me faire connaître ce que vous avez? Cela vous aiderait-il?… Il s’agit du diabète. Maintenant, si c’est juste, levez la main. Certainement!
+177 Il se trouve que la dame assise près de vous a la même chose. C’est une inconnue. L’autre dame prie pour quelqu’un, un enfant infirme. Vous croyez de tout votre coeur que Dieu veut vous l’accorder.
+178 Il y a quelqu’un là à l’arrière. Cet homme assis de l’autre côté essaye de se débarrasser de la cigarette. Vous croyez que Dieu peut vous en débarrasser? Très bien. Vous le croyez? Vous pouvez obtenir cela. Je n’ai jamais vu cet homme de ma vie.
+179 Il y a un homme ici. Vous voyez cette ombre noire au-dessus de cet homme qui est allongé sur une couchette ou une chaise juste ici? Cet homme est mourant. Il est recouvert de cette ombre, il a le cancer. Je ne connais pas cet homme, je ne l’ai jamais vu. Dieu connaît tout ce qui vous concerne. C’est la vérité, monsieur. Croyez-vous que Dieu pourrait me dire quelque chose à votre sujet? Cela vous aiderait-il à recevoir votre guérison? [Le frère dit: «Oui.» — N.d.R.] C’est un ami qui vous a amené ici. Mais vous n’êtes pas d’ici; vous venez d’un lieu où il y a un grand plan d’eau et où les gens font de la pêche. Oui, Albany dans la Kentucky. [C’est vrai.] C’est juste. Croyez, et vous pouvez retourner chez vous guéri. Croyez que c’est parti. Si vous pouviez croire! Vous devez Le croire, croire que cela a été fait pour vous. Vous croyez?
+180 Vous, qui venez du Tennessee, vous avez un garçon qui a de l’asthme. Il n’est pas ici, mais croyez-vous qu’il va être guéri? Alors portez-lui le mouchoir que vous tenez à la main. Il sera guéri si vous le croyez.
+181 Il y a ici une dame qui pleure. Elle est assise en face du Docteur Vayle ici. Il y a aussi une ombre sur elle, une ombre noire. Je n’ai jamais vu cette femme de ma vie; elle a un cancer. Elle va mourir si on ne fait rien pour elle. Madame, croyez-vous qu’Il va vous guérir? Vous le pouvez? Vous pouvez obtenir votre guérison, si simplement vous croyez.
+182 Juste derrière elle, il y a une dame assise qui tient un mouchoir sur la bouche. Elle aussi est malade; elle a un ulcère à l’estomac. Vous passez par des moments d’évanouissements, d’aveuglements et vous faites des chutes. Quelqu’un vous a amenée ici. Vous avez des troubles de femme. Si vous croyez, vous pouvez rentrer à la maison et être guérie.
+183 Vous, jeune homme, vous êtes un étranger; vous êtes assis juste là en face de moi et vous me regardez. Etes-vous Porto-Ricain ou quelque chose comme cela? Je vous suis inconnu, vous le savez; vous n’êtes même pas de notre pays. Mais croyez-vous que Dieu peut vous accorder le désir de votre coeur? Si je vous dis quel est ce désir, l’accepterez-vous, le recevrez-vous? Vous recherchez le baptême du Saint-Esprit. C’est juste. Recevez le Saint-Esprit, mon frère.
+184 Il y a ici un homme de couleur assis à l’arrière; il a un fardeau sur le coeur, c’est au sujet de sa femme. Elle n’est d’ailleurs pas là. Elle a des problèmes aux pieds. Croyez-vous qu’Il peut la guérir? Vous le croyez? Vous êtes étranger ici. Vous venez de l’autre côté de la mer. Vous venez
 
         http://www.cmpp.ch
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 20
-de la Jamaïque. Croyez-vous que Dieu peut me dire qui vous êtes? Vous êtes M. Brady.
-Croyez-vous? Jésus-Christ est le même hier, aujourd’hui et pour toujours.
-185 Cette dame est assise là-bas tout à l’arrière, près de Mme Wright, elle a un fardeau sur le
-coeur. Elle prie pour sa fille. Celle-ci doit subir une opération. Croyez-vous de tout votre coeur pour
-elle? Elle n’en aura pas besoin si vous pouvez l’amener à croire. Ce n’est pas moi qui peux guérir.
-186 Là-bas derrière dans la garderie, je vois l’Esprit du Seigneur, ou un Ange; il y a une Lumière
-qui se meut dans la garderie. Elle est sur une jeune femme qui a des problèmes spirituels qui la
-tracassent. Il me semble que je dois la connaître. C’est une jeune femme qui souffre aussi de
-troubles de femme. Oui, son nom est Mme West; elle vient de l’Alabama, Mme David West.
-Croyez et Dieu vous l’accordera.
-187 “Il y aura de la Lumière en ce jour lorsque le fils de l’homme sera révélé”. S’il ne s’agit
-pas de Jésus-Christ, le même hier aujourd’hui et pour toujours, je ne sais absolument pas ce que
-c’est. Croyez-vous cela? Toutes choses sont possibles pour ceux qui croient.
-188 Combien parmi ceux qui nous écoutent ici dans ce Tabernacle ou au téléphone à travers tout
-le pays veulent-ils lever la main et dire: «Je suis un croyant»? Maintenant, je m’adresse à tous
-ceux qui se trouvent dans le pays: tout le monde ici a levé la main; et cela ne fait aucun doute que
-là-bas de l’autre côté, dans tout le pays, vous avez levé la main. Maintenant fermez les yeux,
-posez simplement la main sur quelqu’un près de vous. Prenez-lui la main ou posez votre main sur
-son épaule. Mes mains sont posées sur les mouchoirs. Regardez ce qui a été fait aujourd’hui!
-Regardez ce qui est en train de se faire maintenant:
+de la Jamaïque. Croyez-vous que Dieu peut me dire qui vous êtes? Vous êtes M. Brady. Croyez-vous? Jésus-Christ est le même hier, aujourd’hui et pour toujours.
+185 Cette dame est assise là-bas tout à l’arrière, près de Mme Wright, elle a un fardeau sur le coeur. Elle prie pour sa fille. Celle-ci doit subir une opération. Croyez-vous de tout votre coeur pour elle? Elle n’en aura pas besoin si vous pouvez l’amener à croire. Ce n’est pas moi qui peux guérir.
+186 Là-bas derrière dans la garderie, je vois l’Esprit du Seigneur, ou un Ange; il y a une Lumière qui se meut dans la garderie. Elle est sur une jeune femme qui a des problèmes spirituels qui la tracassent. Il me semble que je dois la connaître. C’est une jeune femme qui souffre aussi de troubles de femme. Oui, son nom est Mme West; elle vient de l’Alabama, Mme David West. Croyez et Dieu vous l’accordera.
+187 “Il y aura de la Lumière en ce jour lorsque le fils de l’homme sera révélé”. S’il ne s’agit pas de Jésus-Christ, le même hier aujourd’hui et pour toujours, je ne sais absolument pas ce que c’est. Croyez-vous cela? Toutes choses sont possibles pour ceux qui croient.
+188 Combien parmi ceux qui nous écoutent ici dans ce Tabernacle ou au téléphone à travers tout le pays veulent-ils lever la main et dire: «Je suis un croyant»? Maintenant, je m’adresse à tous ceux qui se trouvent dans le pays: tout le monde ici a levé la main; et cela ne fait aucun doute que là-bas de l’autre côté, dans tout le pays, vous avez levé la main. Maintenant fermez les yeux, posez simplement la main sur quelqu’un près de vous. Prenez-lui la main ou posez votre main sur son épaule. Mes mains sont posées sur les mouchoirs. Regardez ce qui a été fait aujourd’hui! Regardez ce qui est en train de se faire maintenant:
         En contemplant Sa sainte face
         Resplendissante d’amour divin;
         Participants bénis de Sa grâce,
         Brillant comme des joyaux dans Sa couronne.
      Maintenant prions. Prions, partout.
-189 Dieu bien-aimé, l’heure est arrivée. Que signifie ceci? Dieu accomplissant Sa Parole! Quelle
-est l’attraction, Seigneur? C’est Dieu qui accomplit Sa Parole. Comment se fait-il qu’à travers
-tout le pays, des gens ont, au moyen du téléphone, posé leur main sur une autre personne dans le
-pays, d’une côte à l’autre, du Nord au Sud, de l’Est à l’Ouest? Ici, des gens sont assis; ils viennent
-de pays étrangers. Beaucoup viennent des Etats alentour, du Mexique, du Canada; et nous avons
-posé nos mains les uns sur les autres. Dieu accomplissant Sa Parole!
-190 Comment se fait-il qu’une personne puisse se tenir ici et, par le Saint-Esprit, appeler un
-homme comme Il le fit pour Simon Pierre: “Ton nom est Simon, tu es le fils de Jonas”?
+189 Dieu bien-aimé, l’heure est arrivée. Que signifie ceci? Dieu accomplissant Sa Parole! Quelle est l’attraction, Seigneur? C’est Dieu qui accomplit Sa Parole. Comment se fait-il qu’à travers tout le pays, des gens ont, au moyen du téléphone, posé leur main sur une autre personne dans le pays, d’une côte à l’autre, du Nord au Sud, de l’Est à l’Ouest? Ici, des gens sont assis; ils viennent de pays étrangers. Beaucoup viennent des Etats alentour, du Mexique, du Canada; et nous avons posé nos mains les uns sur les autres. Dieu accomplissant Sa Parole!
+190 Comment se fait-il qu’une personne puisse se tenir ici et, par le Saint-Esprit, appeler un homme comme Il le fit pour Simon Pierre: “Ton nom est Simon, tu es le fils de Jonas”?
      — “Va chercher ton mari et viens ici”.
      — “Je n’ai pas de mari”.
      — “C’est vrai, tu en as eu cinq”.
-191 Elle dit: “Je sais que le Messie qui va venir fera ces choses, mais qui es-Tu?”. Il dit: “Je Le
-suis”.
-192 Et Tu es le même hier, aujourd’hui et pour toujours. Et Tu as promis: “Les oeuvres que je fais,
-vous les ferez aussi. Vous en ferez de plus grandes car je m’en vais au Père. Et voici, dans ces
-derniers jours, je vous enverrai Elie, le prophète; et il changera les pensées des gens et ramènera
-le coeur des enfants à l’enseignement apostolique de la Bible. Et il y aura de la Lumière au temps
-du soir”.
+191 Elle dit: “Je sais que le Messie qui va venir fera ces choses, mais qui es-Tu?”. Il dit: “Je Le suis”.
+192 Et Tu es le même hier, aujourd’hui et pour toujours. Et Tu as promis: “Les oeuvres que je fais, vous les ferez aussi. Vous en ferez de plus grandes car je m’en vais au Père. Et voici, dans ces derniers jours, je vous enverrai Elie, le prophète; et il changera les pensées des gens et ramènera le coeur des enfants à l’enseignement apostolique de la Bible. Et il y aura de la Lumière au temps du soir”.
 193 Nous voici, grand Dieu du Ciel! L’heure est là! Les mains sont posées sur les gens.
-194 Satan, tu es vaincu. Tu es un menteur. Et en tant que serviteurs de Dieu, dans le Nom de
-Jésus-Christ, nous te commandons d’obéir à la Parole de Dieu et de sortir des gens, car il est
-écrit: “En mon Nom, ils chasseront les démons”.
-195 Tous les gens peuvent être libérés. Accorde-le, Dieu bien-aimé. Tu es le Dieu du Ciel qui, ce
-jour-là, a créé une attraction sur le Mont Calvaire en vainquant toutes les maladies et les
-infirmités ainsi que toutes les oeuvres du Diable. Tu es Dieu! Et les gens sont guéris par Tes
-meurtrissures. Ils sont libres. Au Nom de Jésus-Christ. Amen.
+194 Satan, tu es vaincu. Tu es un menteur. Et en tant que serviteurs de Dieu, dans le Nom de Jésus-Christ, nous te commandons d’obéir à la Parole de Dieu et de sortir des gens, car il est écrit: “En mon Nom, ils chasseront les démons”.
+195 Tous les gens peuvent être libérés. Accorde-le, Dieu bien-aimé. Tu es le Dieu du Ciel qui, ce jour-là, a créé une attraction sur le Mont Calvaire en vainquant toutes les maladies et les infirmités ainsi que toutes les oeuvres du Diable. Tu es Dieu! Et les gens sont guéris par Tes meurtrissures. Ils sont libres. Au Nom de Jésus-Christ. Amen.
 
         http://www.cmpp.ch
 
 QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE? 21
-196 O Dieu, tous ces mouchoirs sont posés ici tandis que l’Esprit de Dieu est présent, que
-l’onction de Jésus-Christ est sur les gens et que les grands signes qu’Il a promis sont en train de
-s’accomplir, que la terre tremble, qu’il se produit des tremblements de terre, que l’Ecriture est en
-train de s’accomplir et que la Lumière du soir brille. Je pose mon corps au travers de ces
-mouchoirs en symbole de tout le corps des croyants de l’Est, de l’Ouest, du Nord, du Sud et je dis
-au Diable: “Au Nom de Jésus-Christ, quitte chaque patient sur lequel un mouchoir est posé”, pour
-l’honneur et la gloire de la Parole de Dieu. Dans le Nom de la Parole de Dieu, Jésus-Christ de
-Nazareth. Amen.
-197 Maintenant, en tant que croyants, pouvez-vous calmement, sobrement, saintement et dans le
-bon état d’esprit, croire et accepter votre guérison du Dieu Tout-puissant dans le Nom de
-Jésus-Christ? Si vous le pouvez, gardez la main levée. Vous tous partout dans le pays, gardez la
-main levée. Aussi loin que je peux voir, chaque personne ici a la main levée; à l’intérieur, à
-l’extérieur, contre les fenêtres, sur les pas de porte, dans les garderies et partout alentour, les
-gens ont la main levée. Ils acceptent Cela. Satan est vaincu! Les meurtrissures de Jésus-Christ
-vous ont guéris, et la présence de Jésus-Christ authentifie le fait qu’Il est vivant aujourd’hui et qu’Il
-est toujours capable de garder chaque promesse qu’Il a faite. Amen! Je Le crois. Ne Le
-croyez-vous pas?
-198 Levons-nous maintenant. Au Nom du Seigneur Jésus, nous acceptons tout ce qui a été fait ou
-dit; nous L’aimons de tout notre coeur. Nous Le chérissons de tout notre coeur. Et maintenant
-tandis que vous rentrez dans vos maisons respectives, que Dieu soit avec vous. Que Dieu vous
-donne le Saint-Esprit si vous ne L’avez pas.
-199 Nous avons ici un bassin et des vêtements pour ceux qui n’ont pas été baptisés dans le Nom
-de Jésus-Christ, que ce soit homme, femme, garçon ou fille. Ne remettez pas à demain ce qui
-peut être fait aujourd’hui. Demain, il se peut que ce soit trop tard. Aujourd’hui, finissons-en avec le
-mal. Des pasteurs sont là, debout, et attendent; des vêtements attendent. Il n’y a pas d’excuses.
-Etes-vous dans l’attente? Si vous l’êtes, croyez… Peu importe de quelle manière vous avez été
-baptisés, peu importe qu’on vous ait aspergés, arrosés ou que ce soit, c’est une erreur. La
-Lumière est venue. Venez, croyez, et soyez baptisés.
-200 Que chacun d’entre vous qui n’a pas le Saint-Esprit puisse Le recevoir; qu’Il puisse, par la
-pleine puissance Divine et l’amour qu’Il vous a promis, faire de chacun de vous une nouvelle
-créature en Lui. Dieu vous bénisse.
-201 Et maintenant, en attendant de nous revoir dimanche prochain à neuf heures trente, chantons
-ce petit choeur que nous avions l’habitude de chanter il y a des années:
+196 O Dieu, tous ces mouchoirs sont posés ici tandis que l’Esprit de Dieu est présent, que l’onction de Jésus-Christ est sur les gens et que les grands signes qu’Il a promis sont en train de s’accomplir, que la terre tremble, qu’il se produit des tremblements de terre, que l’Ecriture est en train de s’accomplir et que la Lumière du soir brille. Je pose mon corps au travers de ces mouchoirs en symbole de tout le corps des croyants de l’Est, de l’Ouest, du Nord, du Sud et je dis au Diable: “Au Nom de Jésus-Christ, quitte chaque patient sur lequel un mouchoir est posé”, pour l’honneur et la gloire de la Parole de Dieu. Dans le Nom de la Parole de Dieu, Jésus-Christ de Nazareth. Amen.
+197 Maintenant, en tant que croyants, pouvez-vous calmement, sobrement, saintement et dans le bon état d’esprit, croire et accepter votre guérison du Dieu Tout-puissant dans le Nom de Jésus-Christ? Si vous le pouvez, gardez la main levée. Vous tous partout dans le pays, gardez la main levée. Aussi loin que je peux voir, chaque personne ici a la main levée; à l’intérieur, à l’extérieur, contre les fenêtres, sur les pas de porte, dans les garderies et partout alentour, les gens ont la main levée. Ils acceptent Cela. Satan est vaincu! Les meurtrissures de Jésus-Christ vous ont guéris, et la présence de Jésus-Christ authentifie le fait qu’Il est vivant aujourd’hui et qu’Il est toujours capable de garder chaque promesse qu’Il a faite. Amen! Je Le crois. Ne Le croyez-vous pas?
+198 Levons-nous maintenant. Au Nom du Seigneur Jésus, nous acceptons tout ce qui a été fait ou dit; nous L’aimons de tout notre coeur. Nous Le chérissons de tout notre coeur. Et maintenant tandis que vous rentrez dans vos maisons respectives, que Dieu soit avec vous. Que Dieu vous donne le Saint-Esprit si vous ne L’avez pas.
+199 Nous avons ici un bassin et des vêtements pour ceux qui n’ont pas été baptisés dans le Nom de Jésus-Christ, que ce soit homme, femme, garçon ou fille. Ne remettez pas à demain ce qui peut être fait aujourd’hui. Demain, il se peut que ce soit trop tard. Aujourd’hui, finissons-en avec le mal. Des pasteurs sont là, debout, et attendent; des vêtements attendent. Il n’y a pas d’excuses. Etes-vous dans l’attente? Si vous l’êtes, croyez… Peu importe de quelle manière vous avez été baptisés, peu importe qu’on vous ait aspergés, arrosés ou que ce soit, c’est une erreur. La Lumière est venue. Venez, croyez, et soyez baptisés.
+200 Que chacun d’entre vous qui n’a pas le Saint-Esprit puisse Le recevoir; qu’Il puisse, par la pleine puissance Divine et l’amour qu’Il vous a promis, faire de chacun de vous une nouvelle créature en Lui. Dieu vous bénisse.
+201 Et maintenant, en attendant de nous revoir dimanche prochain à neuf heures trente, chantons ce petit choeur que nous avions l’habitude de chanter il y a des années:
         N’oubliez pas la prière familiale,
         C’est là que Jésus veut vous rencontrer;
         Il s’occupera de tous vos besoins,
@@ -1147,16 +819,12 @@ ce petit choeur que nous avions l’habitude de chanter il y a des années:
         C’est là que Jésus veut vous rencontrer;
         Il s’occupera de tous vos besoins,
         Oh, n’oubliez pas la prière familiale.
-202 Maintenant tandis que nous le chantons de nouveau, serrez la main d’un pèlerin qui se trouve
-près de vous:
+202 Maintenant tandis que nous le chantons de nouveau, serrez la main d’un pèlerin qui se trouve près de vous:
         N’oubliez pas la prière familiale,
         Oh, c’est là que Jésus veut vous rencontrer;
         Il s’occupera de tous vos besoins,
         Oh, n’oubliez pas la prière familiale.
-203 Ne L’aimez-vous pas? Je L’aime. Je L’aime parce qu’Il m’a aimé le premier et a acquis mon
-salut (c’était cela l’attraction) sur le Mont du Calvaire. Il y avait la même attraction sur le Sunset
-Mountain, sur le Mont Nebo, sur le Mont Sinaï; la même expérience sur tous ces différent
-sommets de montagnes. Très bien, chantons cela maintenant:
+203 Ne L’aimez-vous pas? Je L’aime. Je L’aime parce qu’Il m’a aimé le premier et a acquis mon salut (c’était cela l’attraction) sur le Mont du Calvaire. Il y avait la même attraction sur le Sunset Mountain, sur le Mont Nebo, sur le Mont Sinaï; la même expérience sur tous ces différent sommets de montagnes. Très bien, chantons cela maintenant:
         Je L’aime, je L’aime
 
         http://www.cmpp.ch
@@ -1165,30 +833,15 @@ QUELLE ATTRACTION Y A-T-IL SUR LA MONTAGNE?                                     
     Parce qu’Il m’a aimé le premier
     Et acquit mon salut
     Sur le bois du Calvaire.
-204        Que tous ceux qui L’aiment disent «Amen». Maintenant, pensez simplement à ce qu’Il a fait
-pour vous. Pensez, ce soir vous pourriez être là-bas dans une salle de bar. Sans la grâce de Dieu,
-vous seriez certainement dans le tombeau comme je le serais. Qu’a-t-Il fait pour vous? Oh,
-comment pourrions-nous nous empêcher de L’aimer. Tout ce que peuvent dire les gens ne fait
-aucune différence; Il est le premier!
-205  Fermons les yeux et inclinons la tête tandis que nous chantons pour Lui. Il aime les chants; Il
-aime que nous chantions des hymnes. Chantons cela pour Lui:
+204        Que tous ceux qui L’aiment disent «Amen». Maintenant, pensez simplement à ce qu’Il a fait pour vous. Pensez, ce soir vous pourriez être là-bas dans une salle de bar. Sans la grâce de Dieu, vous seriez certainement dans le tombeau comme je le serais. Qu’a-t-Il fait pour vous? Oh, comment pourrions-nous nous empêcher de L’aimer. Tout ce que peuvent dire les gens ne fait aucune différence; Il est le premier!
+205  Fermons les yeux et inclinons la tête tandis que nous chantons pour Lui. Il aime les chants; Il aime que nous chantions des hymnes. Chantons cela pour Lui:
     Je L’aime, je L’aime
     Parce qu’Il m’a aimé le premier
     Et acquit mon salut
     Sur le bois du Calvaire.
-206       Nos têtes et nos coeurs sont inclinés en Sa présence, en reconnaissance de ce que nos yeux
-ont vu, de ce que nos oreilles ont entendu, de ce qui a été relaté de la Parole, de ce qu’a été Sa
-promesse pour nous aujourd’hui. Que Dieu vous bénisse.
-207    Ce soir nous avons un invité parmi nous, un frère, Ned Iverson; c’était auparavant un pasteur
-presbytérien. Son père et ses frères sont des pasteurs presbytériens. Si j’ai bien compris, il a été
-baptisé à nouveau aujourd’hui dans le Nom de Jésus-Christ. C’est un pasteur, et un bon en plus.
-Et maintenant, comme je suis sûr qu’il est un serviteur de Dieu, je vais lui demander d’invoquer les
-bénédictions de Dieu sur cette assemblée alors que vous allez rentrer à la maison.
-208      Frère Iverson, voulez-vous vous avancer tandis que nos têtes sont inclinées dans la prière.
-Que Dieu vous bénisse, mon frère.
-
-
-
+206       Nos têtes et nos coeurs sont inclinés en Sa présence, en reconnaissance de ce que nos yeux ont vu, de ce que nos oreilles ont entendu, de ce qui a été relaté de la Parole, de ce qu’a été Sa promesse pour nous aujourd’hui. Que Dieu vous bénisse.
+207    Ce soir nous avons un invité parmi nous, un frère, Ned Iverson; c’était auparavant un pasteur presbytérien. Son père et ses frères sont des pasteurs presbytériens. Si j’ai bien compris, il a été baptisé à nouveau aujourd’hui dans le Nom de Jésus-Christ. C’est un pasteur, et un bon en plus. Et maintenant, comme je suis sûr qu’il est un serviteur de Dieu, je vais lui demander d’invoquer les bénédictions de Dieu sur cette assemblée alors que vous allez rentrer à la maison.
+208      Frère Iverson, voulez-vous vous avancer tandis que nos têtes sont inclinées dans la prière. Que Dieu vous bénisse, mon frère.
 
 
 

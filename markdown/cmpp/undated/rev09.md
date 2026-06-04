@@ -1,209 +1,136 @@
+---
+source: "cmpp"
+sermon_id: "rev09"
+title: "La Révélation de Jésus-Christ — Les dix vierges"
+subtitle: "11 décembre 1960, dimanche matin"
+date: "1960-12-11"
+year: 1960
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Branham"
+summary: "William Branham enseigne sur la parabole des dix vierges et les âges de l'Église, en se concentrant sur la fin des temps, l'enlèvement de l'Église, et la nécessité d'être en Christ pour échapper au jugement. Il relie les prophéties de Daniel et de l'Apocalypse aux événements contemporains."
+tags:
+  - "dix vierges"
+  - "âges de l'Église"
+  - "enlèvement"
+  - "jugement"
+  - "Saint-Esprit"
+  - "guérison divine"
+  - "fin des temps"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Paul"
+  - "Irénée"
+  - "Luther"
+  - "Wesley"
+  - "Martin"
+  - "Nahum"
+  - "Elmer Frank"
+  - "George Branham"
+  - "Neville"
+  - "Stricker"
+  - "Fred"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "U.S.A."
+  - "Shreveport"
+  - "Chicago"
+  - "Oslo"
+  - "Utica Pike"
+themes:
+  - "révélation de Jésus-Christ"
+  - "âges de l'Église"
+  - "vierges sages et folles"
+  - "enlèvement"
+  - "jugement dernier"
+  - "guérison divine"
+  - "résurrection"
+  - "baptême du Saint-Esprit"
+  - "prophétie de la fin des temps"
+pdf_url: "http://cmpp.ch/rev09.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Thessaloniciens 4"
+  - "2 Corinthiens 1"
+  - "Apocalypse 11"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 22"
+  - "Apocalypse 7"
+  - "Apocalypse 9"
+  - "Daniel 7"
+  - "Juges 199"
+  - "Juges 205"
+  - "Malachie 77"
+  - "Malachie 86"
+  - "Matthieu 24"
+  - "Matthieu 25"
+  - "Romains 8"
+  - "Éphésiens 4"
+---
 WILLIAM MARRION BRANHAM
 
+La Révélation de Jésus-Christ
 
-La Révélation
-de
-Jésus-Christ
+9 Les dix vierges
 
-
-
-
-9    Les dix vierges
-
-    LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES    2
-
- LA REVELATION DE JESUS-CHRIST
-
-        LES DIX VIERGES
+LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES
 
 11 décembre 1960, dimanche matin
-       Branham Tabernacle
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 Bonjour! Je suis si heureux d’être de nouveau ici, ce matin, pour le service du Seigneur. Dehors, il fait mauvais temps, mais il fait vraiment bon ici dedans. Cette fois, nous pouvons dire qu’il fait bon être dedans et regarder dehors.
 
+2 J’ai eu une bonne nuit de repos, et je me sens beaucoup mieux ce matin. Et nous avons passé des moments merveilleux hier soir, n’est-ce pas? des moments merveilleux! J’apprécie cela. On aurait dit que la réunion était comme la suite d’une autre réunion que j’avais tenue une fois à Shreveport, comme une continuation de l’action de l’Esprit depuis ce jour-là. Aussi sommes-nous très heureux et tellement reconnaissants à Dieu pour Sa bonté et Sa miséricorde, et nous vous sommes reconnaissants à vous qui Lui livrez votre esprit, dans une volonté de coopération afin qu’Il puisse nous conduire et nous guider.
 
+3 Vous voyez, si l’auditoire est hostile, le Saint-Esprit ne révélera rien du tout. Il faut que quelque chose coopère. “Ils étaient dans le même lieu et dans une même pensée”. Et alors, un bruit est venu des Cieux. Vous voyez? Mais je pourrais prier et étudier jour et nuit dans la prière devant le Seigneur, si je viens ici (ayant peut-être l’onction sur moi) et que je sente cette hostilité, alors cela attriste l’Esprit, Le fait Se retirer, et Il ne révélera rien. Mais quand on vient ici sous l’onction et que l’on sent que l’auditoire est aussi sous l’onction, alors le Saint-Esprit commence à agir, à Se mouvoir, et à faire de grandes choses pour nous. Vous voyez?
 
-1 Bonjour! Je suis si heureux d’être de nouveau ici, ce matin, pour le service du Seigneur.
-Dehors, il fait mauvais temps, mais il fait vraiment bon ici dedans. Cette fois, nous pouvons dire
-qu’il fait bon être dedans et regarder dehors.
-2 J’ai eu une bonne nuit de repos, et je me sens beaucoup mieux ce matin. Et nous avons
-passé des moments merveilleux hier soir, n’est-ce pas? des moments merveilleux! J’apprécie cela.
-On aurait dit que la réunion était comme la suite d’une autre réunion que j’avais tenue une fois à
-Shreveport, comme une continuation de l’action de l’Esprit depuis ce jour-là. Aussi sommes-nous
-très heureux et tellement reconnaissants à Dieu pour Sa bonté et Sa miséricorde, et nous vous
-sommes reconnaissants à vous qui Lui livrez votre esprit, dans une volonté de coopération afin
-qu’Il puisse nous conduire et nous guider.
-3 Vous voyez, si l’auditoire est hostile, le Saint-Esprit ne révélera rien du tout. Il faut que
-quelque chose coopère. “Ils étaient dans le même lieu et dans une même pensée”. Et alors, un
-bruit est venu des Cieux. Vous voyez? Mais je pourrais prier et étudier jour et nuit dans la prière
-devant le Seigneur, si je viens ici (ayant peut-être l’onction sur moi) et que je sente cette hostilité,
-alors cela attriste l’Esprit, Le fait Se retirer, et Il ne révélera rien. Mais quand on vient ici sous
-l’onction et que l’on sent que l’auditoire est aussi sous l’onction, alors le Saint-Esprit commence à
-agir, à Se mouvoir, et à faire de grandes choses pour nous. Vous voyez?
-4 Je n’ai pas encore parlé au pasteur au sujet de ce matin. J’ai entendu chanter «Crois
-seulement», et alors je me suis dépêché pour voir ce qu’il avait prévu pour ce matin. Frère Neville,
-je vais commencer cette petite étude, et si j’ai terminé vers onze heures, eh bien, vous prendrez la
-relève et commencerez à prêcher; qu’en pensez-vous? [Frère Neville répond: «Oui, n’interrompez
-pas l’onction, continuez.» Frère Branham dit: «Je crois, moi aussi, que l’onction est là.» — N.d.R.]
-5 Frère Neville a toujours… Pour les étrangers qui ne sont peut-être pas encore venus ici
-auparavant (je ne voudrais pas dire cela devant lui), mais c’est un homme rempli de grâce, et il a
-toujours été ainsi. Il vit toujours ce verset qui dit: “… regardez les autres comme étant au-dessus
-de vous-même…”. Il est toujours en Christ, et regarde toujours les autres comme étant au-dessus
-de lui-même. Il est ainsi depuis que je le connais; pas seulement depuis qu’il vient ici au
-Tabernacle, mais depuis que je le connais, et cela fait déjà pas mal d’années. Si je me souviens
-bien, la première fois que j’ai vu frère Neville, ce fut lorsque j’allais l’écouter prêcher à l’église
-Méthodiste de Howard Park, il y a de cela bien des années. Je pense qu’il y a vingt ans ou plus
-que je le connais. Je crois qu’encore récemment, il travaillait pour gagner sa vie et prêchait à côté.
-C’est ainsi que j’ai vécu, moi aussi, jusqu’il y a peu de temps encore, et ensuite nous en sommes
-arrivés au point où nous ne pouvions plus rien faire d’autre que ceci. Et je suis satisfait de notre
-nouveau Patron, pas vous, frère Neville? C’est certain! Bien sûr que cela me plaît! Oui! Je suis
-tellement content de Lui!
-6 Maintenant, je crois qu’on va supprimer l’école du dimanche. Oui. L’école du dimanche des
-enfants n’aura plus lieu, parce qu’on a ôté les cloisons pour que la salle de l’église puisse
-s’étendre jusqu’au fond.
-7 Ce soir, nous allons étudier ce grand âge de la fin, l’âge de Laodicée. Hier soir, nous avons
+4 Je n’ai pas encore parlé au pasteur au sujet de ce matin. J’ai entendu chanter «Crois seulement», et alors je me suis dépêché pour voir ce qu’il avait prévu pour ce matin. Frère Neville, je vais commencer cette petite étude, et si j’ai terminé vers onze heures, eh bien, vous prendrez la relève et commencerez à prêcher; qu’en pensez-vous? [Frère Neville répond: «Oui, n’interrompez pas l’onction, continuez.» Frère Branham dit: «Je crois, moi aussi, que l’onction est là.» — N.d.R.]
 
-        http://www.cmpp.ch
+5 Frère Neville a toujours… Pour les étrangers qui ne sont peut-être pas encore venus ici auparavant (je ne voudrais pas dire cela devant lui), mais c’est un homme rempli de grâce, et il a toujours été ainsi. Il vit toujours ce verset qui dit: “… regardez les autres comme étant au-dessus de vous-même…”. Il est toujours en Christ, et regarde toujours les autres comme étant au-dessus de lui-même. Il est ainsi depuis que je le connais; pas seulement depuis qu’il vient ici au Tabernacle, mais depuis que je le connais, et cela fait déjà pas mal d’années. Si je me souviens bien, la première fois que j’ai vu frère Neville, ce fut lorsque j’allais l’écouter prêcher à l’église Méthodiste de Howard Park, il y a de cela bien des années. Je pense qu’il y a vingt ans ou plus que je le connais. Je crois qu’encore récemment, il travaillait pour gagner sa vie et prêchait à côté. C’est ainsi que j’ai vécu, moi aussi, jusqu’il y a peu de temps encore, et ensuite nous en sommes arrivés au point où nous ne pouvions plus rien faire d’autre que ceci. Et je suis satisfait de notre nouveau Patron, pas vous, frère Neville? C’est certain! Bien sûr que cela me plaît! Oui! Je suis tellement content de Lui!
 
-    LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES    3
-étudié l’âge de Philadelphie; nous avons vu le début de l’âge de Laodicée et le chevauchement
-entre ces deux âges. Il y avait ces grands mystères que Dieu a commencé à nous révéler entre
-ces deux derniers âges, “la Porte ouverte”, “Peu de puissance”, “tu as gardé Ma Parole”, “tu as
-Mon Nom”. Toutes ces petites choses, comme Dieu nous les a si merveilleusement rendues
-réelles! Nous en sommes très, très reconnaissants.
-8 Et n’oubliez pas (s’il y a des visiteurs parmi nous qui ont des malades), nous prierons pour les
-malades dimanche prochain, dans une semaine, si le Seigneur le veut. Vous remarquerez toujours
-que j’aime ajouter: “si le Seigneur le veut”. La Bible dit de faire cela: “si le Seigneur le veut”. Nous
-ne savons pas encore; Il ne m’a jamais dit autrefois que je serais ici, que l’église serait ici, que
-nous serions tous ici, ou de telles choses. Donc, si c’est Sa volonté, nous serons ici. Si ce n’est
-pas Sa volonté, nous n’y serons évidemment pas.
-9 Frère Neville l’annoncera régulièrement dans son émission radio, comme d’autres, d’ailleurs,
-ainsi que le frère d’ici et ceux qui font des émissions. C’est pourquoi, venez aussi tôt que vous le
-pouvez dimanche matin, parce que nous pensons qu’il y aura une grande foule qui viendra pour la
-prière et nous aimerions que vous puissiez être à l’intérieur. S’il y a une grande foule, il est
-toujours préférable d’avoir des cartes de prière, parce que les gens sont tellement serrés qu’ils
-finissent par se bousculer. Je crois qu’il faut faire les choses dans l’ordre, afin que les malades
-viennent un par un; cela évite la confusion dans l’assemblée.
-10 Et vous n’avez même pas besoin de vous lever avant que votre carte soit appelée. Restez
-simplement assis là où vous êtes! Si vous êtes malade et que vous vous sentiez mal, vous n’avez
-ainsi pas besoin de rester debout dans une longue file. Quand votre carte est appelée, vous vous
-avancez pour que l’on prie pour vous, puis vous vous retirez; un autre s’avance, et ainsi de suite.
-J’aime beaucoup mieux que cela se passe ainsi. D’habitude, je demande aux frères d’apporter
-quelques chaises. Comme on appelle peu de malades à la fois, s’il y en a qui se sentent mal, on
-peut les faire asseoir en attendant jusqu’à ce que leur numéro soit appelé, et que l’on puisse prier
-pour eux.
-11 Je crois vraiment dans la guérison Divine, c’est l’une des grandes doctrines de la Bible. Mais
-dans la guérison Divine, il y a plus qu’une simple guérison Divine. La guérison Divine nous indique
-seulement “qu’il y a un Dieu qui va revenir”. De quoi parle la guérison Divine? Ce sont les arrhes
-de notre résurrection. S’il n’y avait pas de guérison Divine, il n’y aurait pas non plus de
-résurrection. Et s’il n’y a pas maintenant de Saint-Esprit pour nous baptiser, il n’y a pas de Vie
-Eternelle dans le monde à venir. La Bible dit: “Ce sont les arrhes de notre salut”. Savez-vous ce
-que sont les arrhes? C’est un premier versement partiel. Si vous avez acheté une ferme dont on
-vous demande dix mille dollars et que vous en payiez deux mille, ce sont vos “arrhes”; on dit que
-ce sont les arrhes de votre paiement. Alors, si ce baptême du Saint-Esprit n’est que les arrhes de
-ce qui vient, oh, qu’est-ce que ce sera, quand nous recevrons le prix entier? Ce sera glorieux!
-12 Ce matin, si le Seigneur le permet, nous allons essayer de relier certaines de ces choses.
-Entre les âges de l’église (ceux-ci, ici même), il y a quelque chose qui se passe. Les cent
-quarante-quatre mille, le reste, les vierges folles, les vierges sages, le scellement par le
-Saint-Esprit, la marque de la bête, toutes ces choses… C’est la fin des âges, et tout tombe ici au
-même endroit; il nous faudrait le reste de l’hiver pour en venir à bout, pour voir comment tout se
-tient dans l’Apocalypse 13 Avez-vous jamais remarqué que les civilisations ont toutes suivi la même voie, Mr Wood?
-L’homme a toujours eu les mêmes cinq sens, il les a depuis qu’il est venu sur terre il y a six mille
-ans. Mais ici à la fin, dans le petit laps de temps de ces cent dernières années… En cent ans,
-l’homme a passé du char à boeufs à la fusée qui se déplace à près de deux mille miles à l’heure.
-C’est à cette vitesse qu’il est passé de la charrette à boeufs à la fusée. Et il n’y a que ces dernières
-années que cela s’est fait, je dirais guère plus de cinquante ans.
-14 Quand j’étais un petit garçon là-haut à Utica Pike, il y avait un homme du nom d’Elmer Frank
-qui vivait là. Il était une sorte de juge de paix. Il avait épousé une jeune fille qui habitait un peu plus
-loin sur la route que mon père avait faite pour son père à elle, et elle s’appelait Lusher. Cet homme
-avait une automobile qu’on faisait démarrer avec une manivelle; on sortait sur le côté et on tournait
-la manivelle comme ceci, et il n’y avait qu’une vitesse. Et il y avait une grosse poire en caoutchouc
-qui servait d’avertisseur, et il fallait corner comme cela. Et on disait: «Cette machine peut rouler à
+6 Maintenant, je crois qu’on va supprimer l’école du dimanche. Oui. L’école du dimanche des enfants n’aura plus lieu, parce qu’on a ôté les cloisons pour que la salle de l’église puisse s’étendre jusqu’au fond.
 
-    http://www.cmpp.ch
+7 Ce soir, nous allons étudier ce grand âge de la fin, l’âge de Laodicée. Hier soir, nous avons étudié l’âge de Philadelphie; nous avons vu le début de l’âge de Laodicée et le chevauchement entre ces deux âges. Il y avait ces grands mystères que Dieu a commencé à nous révéler entre ces deux derniers âges, “la Porte ouverte”, “Peu de puissance”, “tu as gardé Ma Parole”, “tu as Mon Nom”. Toutes ces petites choses, comme Dieu nous les a si merveilleusement rendues réelles! Nous en sommes très, très reconnaissants.
 
-LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES 4
-la vitesse terrifiante de vingt-cinq kilomètres à l’heure!». Papa alla chercher du sable dans la
-charrette, et le mit dans des sacs pour alourdir cette voiture, pour contrôler si elle ferait
-effectivement 25 km à l’heure. Mais vous auriez dû la voir sur ces routes! Elle ne faisait que 15 km
-à l’heure dans un sens, et 10 dans l’autre. On additionnait le tout, et vous aviez ainsi vos 25 km à
-l’heure!
-15 Je me souviens du temps où nous étions enfants. Maman nous lavait tous (nous étions cinq
-alors), et nous allions nous accrocher à la barrière pour entendre l’automobile. On l’entendait à des
-kilomètres approcher dans un rugissement formidable. Tous les gens sautaient de leurs voitures et
-retenaient leurs chevaux comme ceci, vous savez. Cette machine qui avançait sur la route, oh,
-c’était quelque chose de terrifiant! Et, j’y pense maintenant, j’avais environ sept ans. C’était vers
-1914, et pensez comme les choses ont changé depuis ce temps-là! Cela s’est passé durant les
-quarante et quelques dernières années. Il a fallu six mille ans pour faire tout cela jusqu’à
-maintenant, parce que la Bible dit que ça se passerait ainsi. “Dans les derniers jours, ils iront çà et
-là, et la connaissance augmentera”.
-16 Avez-vous jamais pensé à Nahum, lorsqu’il vit le boulevard périphérique de Chicago, il y a
-quatre mille ans? Il dit: “Les chars s’élancent avec furie dans les rues”. J’ai eu l’occasion d’aller
-dans les pays de l’Ancien Continent. Leurs rues sont comme à Oslo et à divers endroits, il n’y a
-presque pas de place pour passer, c’est juste assez large pour qu’un char puisse traverser la ville.
-Elles sont larges à peu près comme d’ici à ce mur, c’est tout. C’est juste suffisant pour qu’une
-charrette puisse passer dans la rue. Nahum dit: “Ils s’élancent dans les rues…”. Il a dit aussi: “Ils
-courent comme des éclairs”. Ce sont ces voitures. “Leur apparence est comme des torches”. Ce
-sont leurs phares. Il a dit: “Ils trébuchent dans leur marche”. Ce sont les accidents. Ce prophète
-s’est élevé au-dessus du voile du temps; il a regardé au loin il y a quatre mille ans, et il a vu arriver
-cela. Pensez-y! C’est l’inspiration.
-17 Mais nous sommes au temps de la fin, chers amis. Et l’Ecriture aussi (puisque toutes ces
-choses se passent conformément à l’Ecriture), toute l’Ecriture est ici, dans ce temps de la fin, ici
-même. Et ce matin, je pensais que si Dieu nous aide, nous relierons certaines de ces choses en
-en examinant le plus grand nombre possible. Puis, ce soir, nous étudierons ce dernier grand âge,
-celui de l’église de Laodicée. Nous verrons comment elle a reçu son message, puis s’en est
-détournée, tombant tout droit dans une tiédeur telle que Dieu la vomit de Sa bouche. En d’autres
-termes, cela Lui donne la nausée rien que d’y penser. “Je te vomirai de ma bouche”, dit-Il.
-18 J’ai noté ici quelques passages auxquels je voudrais me référer ce matin. Mais je me
-demande s’il nous serait trop pénible de nous lever d’abord un petit moment pour prier.
-19 Notre cher Père céleste, nous sommes revenus ce matin en ce jour de sabbat. Dehors, la
-pluie commence à tomber et un vent glacial souffle; mais nous sommes si heureux d’avoir un toit
-au-dessus de nos têtes aujourd’hui, d’avoir un lieu, et même une nation, où nous pouvons adorer
-Dieu selon ce que nous montre notre conscience.
-20 Comme nous voyons dans Ta Parole que cela ne va pas durer encore bien longtemps, nous
-Te demandons, ô Père, de nous oindre spécialement aujourd’hui pour que nous tirions le meilleur
-parti de ce qui est pour nous, et que nous soyons préparés pour l’heure qui va venir où nous ne
-pourrons faire cela. Nous ne savons pas encore combien de temps il y aura, combien de
-semaines, de mois ou d’années. Nous ne le savons pas, mais il arrivera un jour où nous ne
-pourrons plus le faire. Aussi, nous Te prions, Père, de nous garder sous Ta conduite Divine, que
-nos pensées soient dirigées vers Toi, et que les méditations de nos coeurs soient agréables à Tes
-yeux, ô Seigneur!
-21 Pardonne nos péchés. Nous Te le demandons en Te confessant que nous avons péché et
-que nous nous sommes écartés de Tes voies. Nous ne sommes pas dignes d’être appelés les
-Tiens; fais seulement de nous Tes enrôlés, ô Seigneur! Nous voulons accepter de faire tout ce que
-Tu nous diras de faire, toute tâche qui nous sera donnée. Nous acceptons de le faire, reçois-nous
-seulement dans Ton Royaume, ô seigneur! Que nous puissions y travailler dans ces moments
-terribles vers lesquels le monde s’avance.
-22 Bénis-nous maintenant de Ta présence, enseigne-nous par Ton Saint-Esprit, et sois glorifié
-par notre rassemblement ici. Nous Te le demandons au Nom de Jésus. Amen!
-23 Maintenant, j’aimerais premièrement souhaiter la bienvenue à chacun de mes amis que j’ai
+8 Et n’oubliez pas (s’il y a des visiteurs parmi nous qui ont des malades), nous prierons pour les malades dimanche prochain, dans une semaine, si le Seigneur le veut. Vous remarquerez toujours que j’aime ajouter: “si le Seigneur le veut”. La Bible dit de faire cela: “si le Seigneur le veut”. Nous ne savons pas encore; Il ne m’a jamais dit autrefois que je serais ici, que l’église serait ici, que nous serions tous ici, ou de telles choses. Donc, si c’est Sa volonté, nous serons ici. Si ce n’est pas Sa volonté, nous n’y serons évidemment pas.
 
-        http://www.cmpp.ch
+9 Frère Neville l’annoncera régulièrement dans son émission radio, comme d’autres, d’ailleurs, ainsi que le frère d’ici et ceux qui font des émissions. C’est pourquoi, venez aussi tôt que vous le pouvez dimanche matin, parce que nous pensons qu’il y aura une grande foule qui viendra pour la prière et nous aimerions que vous puissiez être à l’intérieur. S’il y a une grande foule, il est toujours préférable d’avoir des cartes de prière, parce que les gens sont tellement serrés qu’ils finissent par se bousculer. Je crois qu’il faut faire les choses dans l’ordre, afin que les malades viennent un par un; cela évite la confusion dans l’assemblée.
 
-    LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES    5
-remarqués ici ce matin. C’est si difficile le soir, parce que l’éclairage vient de derrière ces choses
-qui pendent, et on ne voit pas les gens dans la salle. C’est assez difficile de voir de cette estrade le
-soir, comme de jour, d’ailleurs. Je vois beaucoup de nos amis qui viennent de différents endroits
-du pays, et que je peux mieux reconnaître maintenant que le soir. Et il y en a trop pour que j’essaie
-de les nommer tous, mais je veux que vous sachiez que j’ai beaucoup d’estime pour vous. Malgré
-toutes ces paroles tranchantes de l’Ecriture que j’ai dû prononcer pour faire ressortir la Vérité… Ce
-n’est pas que je voulais cela, mais c’est Dieu qui a écrit ici de le faire. Voilà. Malgré cela, je vois
-beaucoup de mes frères qui appartiennent à des organisations, etc., qui sont assis ici avec moi,
-c’est pourquoi je vous estime vraiment beaucoup. Que Dieu vous bénisse toujours et vous aide,
-c’est ma prière!
-24 Et maintenant… [Le frère Stricker dit: «Frère Branham!» — «Oui, frère?» — «Si votre
-assemblée me permet de parler au nom de tous ceux qui sont ici, je dirai que nous voudrions vous
-exprimer toute l’estime que nous avons pour vous. Nous vous aimons, et nous prions pour que
-vous ayez la grâce qui vous donnera la force de demeurer ferme dans les choses par lesquelles
-vous aurez à passer, et que nous puissions rester à vos côtés.» — «Merci, frère Stricker!» —
-L’auditoire dit: «Amen!» — N.d.R.] Je vous remercie tous, c’est si gentil à vous de dire cela! Je
-l’apprécie vraiment beaucoup.
-25 Quelqu’un disait l’autre soir… Je crois que c’était frère Fred qui m’appelait pour me parler de
-la vision ou du songe qu’un frère avait eu et raconté juste avant de partir hier soir; il m’avait vu me
-tenir à l’horizon, et un nuage noir s’amassait derrière moi. Je sais qu’il est derrière moi. Mais il ne
-pourra rien faire avant que Dieu ait terminé, et alors, il sera temps pour moi de partir.
-26 Je pense à ceci: «Ne jamais être grand». Non, je ne veux pas être grand. Mais cela me fait
-penser au «psaume de la Vie».
+10 Et vous n’avez même pas besoin de vous lever avant que votre carte soit appelée. Restez simplement assis là où vous êtes! Si vous êtes malade et que vous vous sentiez mal, vous n’avez ainsi pas besoin de rester debout dans une longue file. Quand votre carte est appelée, vous vous avancez pour que l’on prie pour vous, puis vous vous retirez; un autre s’avance, et ainsi de suite. J’aime beaucoup mieux que cela se passe ainsi. D’habitude, je demande aux frères d’apporter quelques chaises. Comme on appelle peu de malades à la fois, s’il y en a qui se sentent mal, on peut les faire asseoir en attendant jusqu’à ce que leur numéro soit appelé, et que l’on puisse prier pour eux.
+
+11 Je crois vraiment dans la guérison Divine, c’est l’une des grandes doctrines de la Bible. Mais dans la guérison Divine, il y a plus qu’une simple guérison Divine. La guérison Divine nous indique seulement “qu’il y a un Dieu qui va revenir”. De quoi parle la guérison Divine? Ce sont les arrhes de notre résurrection. S’il n’y avait pas de guérison Divine, il n’y aurait pas non plus de résurrection. Et s’il n’y a pas maintenant de Saint-Esprit pour nous baptiser, il n’y a pas de Vie Eternelle dans le monde à venir. La Bible dit: “Ce sont les arrhes de notre salut”. Savez-vous ce que sont les arrhes? C’est un premier versement partiel. Si vous avez acheté une ferme dont on vous demande dix mille dollars et que vous en payiez deux mille, ce sont vos “arrhes”; on dit que ce sont les arrhes de votre paiement. Alors, si ce baptême du Saint-Esprit n’est que les arrhes de ce qui vient, oh, qu’est-ce que ce sera, quand nous recevrons le prix entier? Ce sera glorieux!
+
+12 Ce matin, si le Seigneur le permet, nous allons essayer de relier certaines de ces choses. Entre les âges de l’église (ceux-ci, ici même), il y a quelque chose qui se passe. Les cent quarante-quatre mille, le reste, les vierges folles, les vierges sages, le scellement par le Saint-Esprit, la marque de la bête, toutes ces choses… C’est la fin des âges, et tout tombe ici au même endroit; il nous faudrait le reste de l’hiver pour en venir à bout, pour voir comment tout se tient dans l’Apocalypse 13 Avez-vous jamais remarqué que les civilisations ont toutes suivi la même voie, Mr Wood? L’homme a toujours eu les mêmes cinq sens, il les a depuis qu’il est venu sur terre il y a six mille ans. Mais ici à la fin, dans le petit laps de temps de ces cent dernières années… En cent ans, l’homme a passé du char à boeufs à la fusée qui se déplace à près de deux mille miles à l’heure. C’est à cette vitesse qu’il est passé de la charrette à boeufs à la fusée. Et il n’y a que ces dernières années que cela s’est fait, je dirais guère plus de cinquante ans.
+
+14 Quand j’étais un petit garçon là-haut à Utica Pike, il y avait un homme du nom d’Elmer Frank qui vivait là. Il était une sorte de juge de paix. Il avait épousé une jeune fille qui habitait un peu plus loin sur la route que mon père avait faite pour son père à elle, et elle s’appelait Lusher. Cet homme avait une automobile qu’on faisait démarrer avec une manivelle; on sortait sur le côté et on tournait la manivelle comme ceci, et il n’y avait qu’une vitesse. Et il y avait une grosse poire en caoutchouc qui servait d’avertisseur, et il fallait corner comme cela. Et on disait: «Cette machine peut rouler à la vitesse terrifiante de vingt-cinq kilomètres à l’heure!». Papa alla chercher du sable dans la charrette, et le mit dans des sacs pour alourdir cette voiture, pour contrôler si elle ferait effectivement 25 km à l’heure. Mais vous auriez dû la voir sur ces routes! Elle ne faisait que 15 km à l’heure dans un sens, et 10 dans l’autre. On additionnait le tout, et vous aviez ainsi vos 25 km à l’heure!
+
+15 Je me souviens du temps où nous étions enfants. Maman nous lavait tous (nous étions cinq alors), et nous allions nous accrocher à la barrière pour entendre l’automobile. On l’entendait à des kilomètres approcher dans un rugissement formidable. Tous les gens sautaient de leurs voitures et retenaient leurs chevaux comme ceci, vous savez. Cette machine qui avançait sur la route, oh, c’était quelque chose de terrifiant! Et, j’y pense maintenant, j’avais environ sept ans. C’était vers 1914, et pensez comme les choses ont changé depuis ce temps-là! Cela s’est passé durant les quarante et quelques dernières années. Il a fallu six mille ans pour faire tout cela jusqu’à maintenant, parce que la Bible dit que ça se passerait ainsi. “Dans les derniers jours, ils iront çà et là, et la connaissance augmentera”.
+
+16 Avez-vous jamais pensé à Nahum, lorsqu’il vit le boulevard périphérique de Chicago, il y a quatre mille ans? Il dit: “Les chars s’élancent avec furie dans les rues”. J’ai eu l’occasion d’aller dans les pays de l’Ancien Continent. Leurs rues sont comme à Oslo et à divers endroits, il n’y a presque pas de place pour passer, c’est juste assez large pour qu’un char puisse traverser la ville. Elles sont larges à peu près comme d’ici à ce mur, c’est tout. C’est juste suffisant pour qu’une charrette puisse passer dans la rue. Nahum dit: “Ils s’élancent dans les rues…”. Il a dit aussi: “Ils courent comme des éclairs”. Ce sont ces voitures. “Leur apparence est comme des torches”. Ce sont leurs phares. Il a dit: “Ils trébuchent dans leur marche”. Ce sont les accidents. Ce prophète s’est élevé au-dessus du voile du temps; il a regardé au loin il y a quatre mille ans, et il a vu arriver cela. Pensez-y! C’est l’inspiration.
+
+17 Mais nous sommes au temps de la fin, chers amis. Et l’Ecriture aussi (puisque toutes ces choses se passent conformément à l’Ecriture), toute l’Ecriture est ici, dans ce temps de la fin, ici même. Et ce matin, je pensais que si Dieu nous aide, nous relierons certaines de ces choses en en examinant le plus grand nombre possible. Puis, ce soir, nous étudierons ce dernier grand âge, celui de l’église de Laodicée. Nous verrons comment elle a reçu son message, puis s’en est détournée, tombant tout droit dans une tiédeur telle que Dieu la vomit de Sa bouche. En d’autres termes, cela Lui donne la nausée rien que d’y penser. “Je te vomirai de ma bouche”, dit-Il.
+
+18 J’ai noté ici quelques passages auxquels je voudrais me référer ce matin. Mais je me demande s’il nous serait trop pénible de nous lever d’abord un petit moment pour prier.
+
+19 Notre cher Père céleste, nous sommes revenus ce matin en ce jour de sabbat. Dehors, la pluie commence à tomber et un vent glacial souffle; mais nous sommes si heureux d’avoir un toit au-dessus de nos têtes aujourd’hui, d’avoir un lieu, et même une nation, où nous pouvons adorer Dieu selon ce que nous montre notre conscience.
+
+20 Comme nous voyons dans Ta Parole que cela ne va pas durer encore bien longtemps, nous Te demandons, ô Père, de nous oindre spécialement aujourd’hui pour que nous tirions le meilleur parti de ce qui est pour nous, et que nous soyons préparés pour l’heure qui va venir où nous ne pourrons faire cela. Nous ne savons pas encore combien de temps il y aura, combien de semaines, de mois ou d’années. Nous ne le savons pas, mais il arrivera un jour où nous ne pourrons plus le faire. Aussi, nous Te prions, Père, de nous garder sous Ta conduite Divine, que nos pensées soient dirigées vers Toi, et que les méditations de nos coeurs soient agréables à Tes yeux, ô Seigneur!
+
+21 Pardonne nos péchés. Nous Te le demandons en Te confessant que nous avons péché et que nous nous sommes écartés de Tes voies. Nous ne sommes pas dignes d’être appelés les Tiens; fais seulement de nous Tes enrôlés, ô Seigneur! Nous voulons accepter de faire tout ce que Tu nous diras de faire, toute tâche qui nous sera donnée. Nous acceptons de le faire, reçois-nous seulement dans Ton Royaume, ô seigneur! Que nous puissions y travailler dans ces moments terribles vers lesquels le monde s’avance.
+
+22 Bénis-nous maintenant de Ta présence, enseigne-nous par Ton Saint-Esprit, et sois glorifié par notre rassemblement ici. Nous Te le demandons au Nom de Jésus. Amen!
+
+23 Maintenant, j’aimerais premièrement souhaiter la bienvenue à chacun de mes amis que j’ai remarqués ici ce matin. C’est si difficile le soir, parce que l’éclairage vient de derrière ces choses qui pendent, et on ne voit pas les gens dans la salle. C’est assez difficile de voir de cette estrade le soir, comme de jour, d’ailleurs. Je vois beaucoup de nos amis qui viennent de différents endroits du pays, et que je peux mieux reconnaître maintenant que le soir. Et il y en a trop pour que j’essaie de les nommer tous, mais je veux que vous sachiez que j’ai beaucoup d’estime pour vous. Malgré toutes ces paroles tranchantes de l’Ecriture que j’ai dû prononcer pour faire ressortir la Vérité… Ce n’est pas que je voulais cela, mais c’est Dieu qui a écrit ici de le faire. Voilà. Malgré cela, je vois beaucoup de mes frères qui appartiennent à des organisations, etc., qui sont assis ici avec moi, c’est pourquoi je vous estime vraiment beaucoup. Que Dieu vous bénisse toujours et vous aide, c’est ma prière!
+
+24 Et maintenant… [Le frère Stricker dit: «Frère Branham!» — «Oui, frère?» — «Si votre assemblée me permet de parler au nom de tous ceux qui sont ici, je dirai que nous voudrions vous exprimer toute l’estime que nous avons pour vous. Nous vous aimons, et nous prions pour que vous ayez la grâce qui vous donnera la force de demeurer ferme dans les choses par lesquelles vous aurez à passer, et que nous puissions rester à vos côtés.» — «Merci, frère Stricker!» — L’auditoire dit: «Amen!» — N.d.R.] Je vous remercie tous, c’est si gentil à vous de dire cela! Je l’apprécie vraiment beaucoup.
+
+25 Quelqu’un disait l’autre soir… Je crois que c’était frère Fred qui m’appelait pour me parler de la vision ou du songe qu’un frère avait eu et raconté juste avant de partir hier soir; il m’avait vu me tenir à l’horizon, et un nuage noir s’amassait derrière moi. Je sais qu’il est derrière moi. Mais il ne pourra rien faire avant que Dieu ait terminé, et alors, il sera temps pour moi de partir.
+
+26 Je pense à ceci: «Ne jamais être grand». Non, je ne veux pas être grand. Mais cela me fait penser au «psaume de la Vie».
         La vie des grands hommes nous rappelle à tous (voyez ce qu’ont fait Paul, Irénée,
         Luther, Wesley, Martin)
         La vie des grands hommes nous rappelle à tous que
@@ -220,9 +147,8 @@ penser au «psaume de la Vie».
         Le coeur prêt à la lutte (j’aime cela, pas vous?)
         Ne soyez pas un troupeau stupide que l’on conduit, (qui doit être conduit)
         Mais un héros dans le combat! (j’aime cela!)
-27 J’avais un petit frère, George; c’est ce chant-là qu’il aimait, et on le chanta à son service
-funèbre. Nous nous asseyions, autrefois, et je récitais le psaume de la Vie, et lui me récitait
-Franchissant la barre. Vous le connaissez sûrement:
+
+27 J’avais un petit frère, George; c’est ce chant-là qu’il aimait, et on le chanta à son service funèbre. Nous nous asseyions, autrefois, et je récitais le psaume de la Vie, et lui me récitait Franchissant la barre. Vous le connaissez sûrement:
         Le soleil se couche, l’étoile du soir paraît.
         Et il y a un appel clair pour moi!
         Et puisse-t-il n’y avoir aucune plainte au passage de la barre
@@ -231,69 +157,34 @@ Franchissant la barre. Vous le connaissez sûrement:
         Les flots peuvent m’entraîner au loin,
         Mais j’espère voir mon Pilote face à face,
         Lorsque j’aurai franchi la barre (je suis sûr qu’il L’a vu, quand il l’a franchie…).
+
 28 Et mon poème disait:
         Que la séparation laisse derrière moi
         Des traces de pas sur le sable du temps,
         Afin que d’autres en les voyant puissent les suivre,
-
-    http://www.cmpp.ch
-
-    LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES    6
         Prendre courage et continuer.
-29 Parce qu’un jour, Jésus viendra (c’est ce que nous allons étudier ce matin), et alors, tout sera
-terminé.
-30 Peut-être, si le Seigneur le permet, je pourrais avoir bientôt une autre série de réunions sur le
-thème: “La vraie et la fausse église”, commençant à la Genèse et passant à travers toute la Bible
-jusqu’à l’Apocalypse. Nous verrions ce que font ces deux églises. Peut-être aussi qu’un jour, si le
-Seigneur le permet, nous ferons construire une salle afin que vous puissiez avoir un peu plus de
-place pour vous asseoir. Vous seriez surpris de savoir combien sont venus me parler de cela. Ils
-viennent, c’est tout plein, et ils doivent repartir. Vous voyez? Nous n’avons pas assez de place!
-31 Cet été, quand il fera chaud, nous pourrions avoir la salle de gymnastique du lycée ou une
-autre. Nous pourrions étudier ensemble le livre de l’Apocalypse et celui de Daniel, et les relier
-ensemble de manière à bien les comprendre.
-32 Mais nous ne sommes pas venus ici pour nous occuper du peuple Juif.
-33 Comme je l’ai déjà dit, vers 1 500 au Moyen Age, la hiérarchie Catholique, au moment où elle
-s’établit, unit l’église avec l’état et proclama que le Millénium avait commencé. Ils pensaient qu’ils
-étaient réellement entrés dans le Millénium, parce que l’église avait reçu son vicaire, quelqu’un de
-semblable à Christ, qui était assis sur un trône! L’église et l’état s’étaient unis, tout s’était bien
-passé et “le glorieux Millénium était là!”. Ils croient encore cela! Mais c’est une erreur, parce que le
-Millénium ne peut venir, ne peut être introduit sans la venue de Christ.
-34 C’est Christ qui introduit le Millénium, car Il est le Fils de prospérité; quand Il viendra, alors il y
-aura un règne de mille ans. Il y aura d’abord l’enlèvement de l’Eglise, et ensuite, ce sera le retour
-de Christ. Rappelez-vous ceci: quelle est la prochaine chose que nous attendons? L’enlèvement
-de l’Eglise!
-35 Or, ne confondez pas l’enlèvement de l’Eglise avec le Trône Blanc du Jugement. Parce que,
-lors de l’enlèvement de l’Eglise, il n’y a pas de jugement: vous êtes déjà passés en jugement
-ici-bas. C’est vrai, car ceux qui sont en Christ sont libérés du jugement. Jésus a dit: “En vérité, en
-vérité, je vous le dis: Celui qui écoute ma parole, et qui croit à celui qui m’a envoyé, a la Vie
-éternelle et ne vient point en jugement, mais il est passé de la mort à la Vie”.
-36 Comment faisons-nous cela? Nous entrons en Christ et nous sommes baptisés dans un seul
-Corps, selon 1 Corinthiens 12: “Un seul corps”. Nous sommes baptisés dans le Corps de
-Jésus-Christ, et Dieu a déjà jugé ce Corps. Il ne peut nous faire passer en jugement encore une
-fois, parce qu’Il a déjà jugé ce Corps. Et par la permission et la grâce de Christ, Il nous prend en
-Lui. “Nous avons tous été baptisés dans un seul Esprit, pour former un seul corps…”. Nous
-sommes libérés de tout jugement, parce qu’Il a pris le jugement sur Lui. Oh, n’êtes-vous pas
-remplis de gratitude envers Lui? Il a pris notre condamnation! Plus de jugement! Mais pour ceux
-qui refusent de venir en Lui, dans ce Corps mystique… Comment y entre-t-on? par une poignée de
-main? Non! Par une lettre d’introduction? Non! Par un quelconque baptême d’eau? Non! “Nous
-avons tous été baptisés dans un seul Esprit (le Saint-Esprit) pour former un seul corps!”.
-37 Ce matin, nous allons mettre ces choses tout à fait au clair. Vous êtes soit dans ce Corps, soit
-en dehors de ce Corps; il n’y a pas de position intermédiaire. Il n’y a pas de chrétiens “pas si mal
-que ça”. Ou vous êtes chrétien, ou vous ne l’êtes pas! Il n’y a pas d’oiseau à la fois noir et blanc, ni
-d’homme à la fois ivre et sobre. C’est impossible. Ou bien vous êtes un chrétien, ou bien vous
-n’êtes pas un chrétien. Vous êtes soit en Christ, soit en dehors de Christ.
-38 Cela a l’air d’un enseignement, mais je suis tout sauf un docteur! L’enseignement tranche,
-c’est un don spécial dans le Corps de Christ. Premièrement, il y a les apôtres, puis les prophètes,
-puis les docteurs, les évangélistes et les pasteurs; cinq ministères dans le Corps. Et
-l’enseignement est l’un des ministères de l’Esprit. Mais je me borne à prendre ce que je vois être
-juste et à essayer de l’apporter aux gens, et j’essaie d’étudier et de faire concorder les versets qui
-vont ensemble. Mais, seul celui qui est “en Christ”, dans le Corps de Christ, est destiné à être
-agréé.
-39 Les trois premiers chapitres de l’Apocalypse ont trait à l’Eglise. Les nations, les Juifs, les
-Ethiopiens, les Africains, chaque genre de peuple dans le monde fait partie des nations pour
-former ce Corps; noirs, blancs, bruns: tous. C’est un bouquet de fleurs (c’est vrai!), que Dieu met
 
-     http://www.cmpp.ch
+29 Parce qu’un jour, Jésus viendra (c’est ce que nous allons étudier ce matin), et alors, tout sera terminé.
+
+30 Peut-être, si le Seigneur le permet, je pourrais avoir bientôt une autre série de réunions sur le thème: “La vraie et la fausse église”, commençant à la Genèse et passant à travers toute la Bible jusqu’à l’Apocalypse. Nous verrions ce que font ces deux églises. Peut-être aussi qu’un jour, si le Seigneur le permet, nous ferons construire une salle afin que vous puissiez avoir un peu plus de place pour vous asseoir. Vous seriez surpris de savoir combien sont venus me parler de cela. Ils viennent, c’est tout plein, et ils doivent repartir. Vous voyez? Nous n’avons pas assez de place!
+
+31 Cet été, quand il fera chaud, nous pourrions avoir la salle de gymnastique du lycée ou une autre. Nous pourrions étudier ensemble le livre de l’Apocalypse et celui de Daniel, et les relier ensemble de manière à bien les comprendre.
+
+32 Mais nous ne sommes pas venus ici pour nous occuper du peuple Juif.
+
+33 Comme je l’ai déjà dit, vers 1 500 au Moyen Age, la hiérarchie Catholique, au moment où elle s’établit, unit l’église avec l’état et proclama que le Millénium avait commencé. Ils pensaient qu’ils étaient réellement entrés dans le Millénium, parce que l’église avait reçu son vicaire, quelqu’un de semblable à Christ, qui était assis sur un trône! L’église et l’état s’étaient unis, tout s’était bien passé et “le glorieux Millénium était là!”. Ils croient encore cela! Mais c’est une erreur, parce que le Millénium ne peut venir, ne peut être introduit sans la venue de Christ.
+
+34 C’est Christ qui introduit le Millénium, car Il est le Fils de prospérité; quand Il viendra, alors il y aura un règne de mille ans. Il y aura d’abord l’enlèvement de l’Eglise, et ensuite, ce sera le retour de Christ. Rappelez-vous ceci: quelle est la prochaine chose que nous attendons? L’enlèvement de l’Eglise!
+
+35 Or, ne confondez pas l’enlèvement de l’Eglise avec le Trône Blanc du Jugement. Parce que, lors de l’enlèvement de l’Eglise, il n’y a pas de jugement: vous êtes déjà passés en jugement ici-bas. C’est vrai, car ceux qui sont en Christ sont libérés du jugement. Jésus a dit: “En vérité, en vérité, je vous le dis: Celui qui écoute ma parole, et qui croit à celui qui m’a envoyé, a la Vie éternelle et ne vient point en jugement, mais il est passé de la mort à la Vie”.
+
+36 Comment faisons-nous cela? Nous entrons en Christ et nous sommes baptisés dans un seul Corps, selon 1 Corinthiens 12: “Un seul corps”. Nous sommes baptisés dans le Corps de Jésus-Christ, et Dieu a déjà jugé ce Corps. Il ne peut nous faire passer en jugement encore une fois, parce qu’Il a déjà jugé ce Corps. Et par la permission et la grâce de Christ, Il nous prend en Lui. “Nous avons tous été baptisés dans un seul Esprit, pour former un seul corps…”. Nous sommes libérés de tout jugement, parce qu’Il a pris le jugement sur Lui. Oh, n’êtes-vous pas remplis de gratitude envers Lui? Il a pris notre condamnation! Plus de jugement! Mais pour ceux qui refusent de venir en Lui, dans ce Corps mystique… Comment y entre-t-on? par une poignée de main? Non! Par une lettre d’introduction? Non! Par un quelconque baptême d’eau? Non! “Nous avons tous été baptisés dans un seul Esprit (le Saint-Esprit) pour former un seul corps!”.
+
+37 Ce matin, nous allons mettre ces choses tout à fait au clair. Vous êtes soit dans ce Corps, soit en dehors de ce Corps; il n’y a pas de position intermédiaire. Il n’y a pas de chrétiens “pas si mal que ça”. Ou vous êtes chrétien, ou vous ne l’êtes pas! Il n’y a pas d’oiseau à la fois noir et blanc, ni d’homme à la fois ivre et sobre. C’est impossible. Ou bien vous êtes un chrétien, ou bien vous n’êtes pas un chrétien. Vous êtes soit en Christ, soit en dehors de Christ.
+
+38 Cela a l’air d’un enseignement, mais je suis tout sauf un docteur! L’enseignement tranche, c’est un don spécial dans le Corps de Christ. Premièrement, il y a les apôtres, puis les prophètes, puis les docteurs, les évangélistes et les pasteurs; cinq ministères dans le Corps. Et l’enseignement est l’un des ministères de l’Esprit. Mais je me borne à prendre ce que je vois être juste et à essayer de l’apporter aux gens, et j’essaie d’étudier et de faire concorder les versets qui vont ensemble. Mais, seul celui qui est “en Christ”, dans le Corps de Christ, est destiné à être agréé.
+
+39 Les trois premiers chapitres de l’Apocalypse ont trait à l’Eglise. Les nations, les Juifs, les Ethiopiens, les Africains, chaque genre de peuple dans le monde fait partie des nations pour former ce Corps; noirs, blancs, bruns: tous. C’est un bouquet de fleurs (c’est vrai!), que Dieu met.
 
 LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES 7
 sur Son autel; et il est fait de toutes les nations, races, langues et peuples.
@@ -444,7 +335,7 @@ ruèrent dans la ville et les massacrèrent au point que le sang s’écoula par
 étang se vidait; des flots de sang coulèrent par la porte. Ils incendièrent le temple, démantelèrent
 ses murailles, et il est resté ainsi jusqu’à ce jour.
 68 La mosquée d’Omar a été érigée à l’endroit où était le temple. Jésus en a parlé dans Matthieu 24. Il a dit: “Lorsque vous verrez l’abomination de la désolation, dont a parlé le prophète Daniel,
-établie en lieu saint…”. Et là, Il fait une parenthèse en disant: “ — que celui qui lit fasse attention!”.
+établie en lieu saint…”. Et là, Il fait une parenthèse en disant: “ — que celui qui lise fasse attention!”.
 Et Il continue: “… Quand vous verrez l’abomination, la souillure de la mosquée d’Omar, là où était
 autrefois le lieu saint…”. La mosquée est sur l’emplacement exact du lieu saint, à l’emplacement
 même du temple. La mosquée Mahométane est là, comme Daniel l’avait dit et comme Jésus l’a
@@ -541,8 +432,8 @@ anges auxquels il avait été donné de nuire à la terre et à la mer… (c’e
 le monde) … disant: Ne nuisez pas à la terre, ni à la mer, ni aux arbres, jusqu’à ce que nous ayons
 scellé au front les esclaves de notre Dieu”.
 90 Dieu n’est pas limité dans le temps. Il a l’éternité pour Lui. Nous mesurons le temps; les
-seules choses que nous connaissions, ce sont les longueurs, les surfaces, les distances, etc. Dieu,
-Lui, est dans l’éternité. Il n’a ni commencement, ni fin. Vous voyez, Il est éternel.
+seules choses que nous connaissions, ce sont les longueurs, les surfaces, les distances, etc.
+Dieu, Lui, est dans l’éternité. Il n’a ni commencement, ni fin. Vous voyez, Il est éternel.
 91 En 1914, le monde entier marcha contre l’Allemagne pour une guerre mondiale! C’est vrai, le
 monde entier entra en guerre. Il se passa alors une chose étrange.
 92 Je voudrais que mon cher ami ici présent, le père du frère Wood, comprenne bien cela. Il est
@@ -811,7 +702,7 @@ nuées, à la rencontre du Seigneur dans les airs, et ainsi nous serons toujours
 Nous serons changés en un instant: les cheveux gris disparaîtront, les rides s’effaceront; nous
 serons changés en un instant, en un clin d’oeil. Et nous rencontrerons d’abord nos bien-aimés:
 «Voilà maman, papa, voilà mon copain! Oh, alléluia, nous sommes prêts!». Ensuite, en même
-temps que ceux qui étaient morts, comme dit l’Ecriture: “Nous serons enlevés avec eux sur les
+ temps que ceux qui étaient morts, comme dit l’Ecriture: “Nous serons enlevés avec eux sur les
 nuées à la rencontre du Seigneur dans les airs”. C’est l’ordre de Sa venue.
 143 Oh, voir mon vieux père! Oh, voir ces bien-aimés qui ont marché dans la foi ici-bas, et les
 rencontrer! Vous voyez la tendresse de Dieu qui sait que si nous Le rencontrerions d’abord, nous
@@ -864,292 +755,136 @@ réjouissance ce sera!
 
         http://www.cmpp.ch
 
-LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES 17
-150 Voici maintenant ces cent quarante-quatre mille; c’est après cela qu’ils reçoivent l’Evangile; ils
-ne peuvent Le recevoir pendant que la Lumière est sur les nations. Les Juifs La refusent et La
-dissimulent. Lorsque l’Epouse des nations est enlevée, l’Esprit descend sur deux hommes pour
-rendre témoignage; alors les Juifs reçoivent l’Evangile, c’est-à-dire que cent quarante-quatre mille
-des tribus perdues d’Israël Le recevront. Mais l’Epouse a déjà été enlevée.
-151 Nous savons qu’il y a dix vierges. Voyons cela tout de suite dans Matthieu 25. Il nous reste
-encore pas mal de temps. Oh, j’aime la Bible!
-        Quand je prendrai mes vacances dans les Cieux,
-        Quel merveilleux voyage ce sera;
-        J’entendrai les harmonies du Choeur Céleste,
-        Je verrai la face de mon Sauveur;
-        Assis au bord de la rivière,
-        A l’ombre de l’Arbre toujours vert.
-        Je veux passer mes vacances dans les Cieux;
-        Ne voulez-vous pas prendre les vôtres avec moi?
+150 Voici maintenant ces cent quarante-quatre mille; c’est après cela qu’ils reçoivent l’Evangile; ils ne peuvent Le recevoir pendant que la Lumière est sur les nations. Les Juifs La refusent et La dissimulent. Lorsque l’Epouse des nations est enlevée, l’Esprit descend sur deux hommes pour rendre témoignage; alors les Juifs reçoivent l’Evangile, c’est-à-dire que cent quarante-quatre mille des tribus perdues d’Israël Le recevront. Mais l’Epouse a déjà été enlevée.
+
+151 Nous savons qu’il y a dix vierges. Voyons cela tout de suite dans Matthieu 25. Il nous reste encore pas mal de temps. Oh, j’aime la Bible!
+
+> Quand je prendrai mes vacances dans les Cieux,
+> Quel merveilleux voyage ce sera;
+> J’entendrai les harmonies du Choeur Céleste,
+> Je verrai la face de mon Sauveur;
+> Assis au bord de la rivière,
+> A l’ombre de l’Arbre toujours vert.
+> Je veux passer mes vacances dans les Cieux;
+> Ne voulez-vous pas prendre les vôtres avec moi?
+
 152 Maintenant, prenons le livre de Matthieu, chapitre 25, je crois:
-     “Alors, le royaume des cieux sera semblable à dix vierges qui, ayant pris leurs lampes,
-     allèrent à la rencontre de l’époux”.
+
+> “Alors, le royaume des cieux sera semblable à dix vierges qui, ayant pris leurs lampes, allèrent à la rencontre de l’époux”.
+
 153 Et maintenant:
-     “Cinq d’entre elles étaient folles, et cinq sages. Les folles, en prenant leurs lampes, ne
-     prirent point d’huile avec elles; mais les sages prirent, avec leurs lampes, de l’huile dans
-     des vases. Comme l’époux tardait… (tout au long de ces âges), … toutes s’assoupirent
-     et s’endormirent”.
-154 Tout au long des âges, les deux sont mortes; elles se sont assoupies et endormies tout au
-long des âges; elles ne sont pas perdues, mais elles sont seulement “assoupies et endormies”.
-Elles sont dans l’attente, vous voyez? On ne dit pas qu’elles sont mortes, mais qu’elles sont
-“assoupies et endormies”. Vous voyez?
-     “Au milieu de la nuit, on cria: Voici l’époux, allez à sa rencontre! Alors, toutes ces vierges
-     se réveillèrent, et préparèrent leurs lampes. Les folles dirent aux sages: Donnez-nous de
-     votre huile, car nos lampes s’éteignent. Les sages répondirent: Non, il n’y en aurait pas
-     assez pour nous et pour vous; allez plutôt chez ceux qui en vendent, et achetez-en pour
-     vous. Pendant qu’elles allaient en acheter, l’époux arriva; celles qui étaient prêtes
-     entrèrent avec Lui dans la salle des noces, et la porte fut fermée. Plus tard, les autres
-     vinrent, et dirent: Seigneur, Seigneur, ouvre-nous!… (vous voyez, ce n’étaient pas des
-     incrédules, c’étaient de braves gens) … Mais il répondit: Je vous le dis en vérité, je ne
-     vous connais pas. Veillez donc, puisque vous ne savez ni le jour, ni l’heure”.
-155 Voyons d’abord les cinq vierges sages. L’huile, dans la Bible, symbolise le Saint-Esprit. Nous
-le savons tous. C’est pourquoi nous oignons d’huile les malades; l’huile symbolise le Saint-Esprit.
-Les vierges sages avaient donc de l’huile dans leurs lampes, ce qui signifie qu’elles avaient le
-Saint-Esprit et qu’elles étaient prêtes à entrer au Repas des Noces. Nous pourrions revenir en
-arrière et lire Ezéchiel 9, etc., et le prouver par des exemples, mais j’ai noté ici près de quinze
-autres versets dont je dois encore parler. Je crois que nous l’avons déjà montré lors de notre étude
-biblique cette semaine, l’huile représente le Saint-Esprit. Nous savons tous cela.
-156 Notez bien que toutes les deux étaient des vierges. Laissez-moi vous montrer ceci. Prenons
-ces deux choses-ci. Ceci est une vierge et cela une autre vierge; celle-ci était une vierge sage —
-mais les deux étaient des vierges.
-157 Et si vous prenez ce terme de “vierge” et que vous en étudiez le sens, vous verrez qu’il
-signifie: “saint, pur, sanctifié”. Le mot sanctifié vient du mot saint, qui veut dire pur, propre. Le mot
-grec “sanctifié” signifie purifié, nettoyé — en grec, c’est le mot saint. Vous voyez? Et pour nous,
-c’est le mot pur, propre, sanctifié. Ce sont tous les trois un seul et même mot.
-158 C’est comme lorsque nous prenons le mot chien. Si je dis “dog”, c’est de l’anglais. Si je veux
-dire chien en allemand, Fred, c’est “Hund”, n’est-ce pas? Frère Norman, si je dis chien en
-espagnol, c’est “ajo”. Ajo, Hund, dog, tout cela, c’est toujours chien pour nous. Vous voyez, c’est
 
-        http://www.cmpp.ch
+> “Cinq d’entre elles étaient folles, et cinq sages. Les folles, en prenant leurs lampes, ne prirent point d’huile avec elles; mais les sages prirent, avec leurs lampes, de l’huile dans des vases. Comme l’époux tardait… (tout au long de ces âges), … toutes s’assoupirent et s’endormirent”.
 
-LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES 18
-une question d’expression.
-159 Ainsi, le mot grec pour “pur” est “sanctifié”. Pur, propre et sanctifié, c’est le même mot. Donc
-ce n’était pas une église sale et souillée; c’était une église sanctifiée, pure; “dix vierges allèrent à la
-rencontre de l’Epoux”. Qu’est-ce que cela signifie? Ce sont toutes des églises. Non pas jusqu’ici,
-dans le Catholicisme; mais jusque dans les dénominations, le Nicolaïsme. Les Baptistes prêchent
-la seconde venue de Christ; les Méthodistes prêchent la seconde venue de Christ; les Méthodistes
-prêchent la seconde venue de Christ, les Nazaréens prêchent la seconde venue de Christ, les
-Pèlerins de la Sainteté prêchent la seconde venue de Christ. N’est-ce pas vrai? “Toutes allèrent à
-la rencontre de l’Epoux”. Souvenez-vous que chacune d’elles était en route pour aller à la
-rencontre de l’Epoux. Et si Dieu tenait compte uniquement de cela, Il devrait les prendre toutes.
-160 Mais souvenez-vous d’une chose semblable, la parabole de l’autre soir, quand Dieu nous a
-parlé dans cet âge de l’église sur la doctrine de Balaam. Il y avait là Balak, chef d’une belle et
-grande nation bien organisée. Ces gens croyaient en Dieu, car regardez ce que fit Balaam lorsqu’il
-monta. Il offrit exactement le même sacrifice qu’Israël, et au même Dieu, le Dieu d’Israël, Jéhovah.
-Il bâtit sept autels. Sept est le chiffre de la perfection de Dieu.
-161 Dieu a travaillé six jours et S’est reposé le septième; le septième, l’oeuvre était parfaite,
-accomplie. Il travailla six jours dans le monde. Après les deux premiers millénaires, le monde fut
-détruit par l’eau; deux millénaires après, Christ est venu; et nous vivons maintenant dans le
-troisième bimillénaire. A la fin de chaque bimillénaire, quelque chose se passe, le monde est
-secoué. En six mille ans, Il a construit le monde; depuis six mille ans, l’église travaille contre le
-monde! Le septième millénaire est ce règne de mille ans du Millénium. Comprenez-vous cela?
-162 L’église aussi a sept âges. C’est le nombre complet des âges de l’église, sept, c’est tout. Sept
-est le chiffre de l’accomplissement de Dieu. Sept âges de l’église, sept mille ans de création, tout
-marche par sept.
-163 Il y a ces vierges qui sont allées à Sa rencontre. Les vierges folles n’avaient pas d’huile dans
-leurs lampes, mais elles avaient tout le reste: elles étaient pures, elles croyaient en Christ; elles
-prêchaient la Parole qu’elles pensaient être autorisées à prêcher par leurs dénominations; elles
-prêchaient cela, la seconde venue, le sacrifice, l’expiation. Elles étaient croyantes. Discutez un peu
-avec un bon érudit Baptiste, il vaudra mieux pour vous savoir de quoi vous parlez! C’est sûr!
-164 Mais vous voyez: “Si proches…” dit Matthieu 24.24; lisons-le tout de suite et vous verrez!
-Jésus dit que dans les derniers jours, les deux esprits seraient si proches l’un de l’autre que les
-élus eux-mêmes seraient séduits si c’était possible. Ils seront si proches que cela détournera les
-Pentecôtistes comme si de rien n’était! Certainement! Lisons maintenant Matthieu 24.24: “Car il
-s’élèvera de faux christs et de faux prophètes; et ils montreront de grands signes et des prodiges,
-de manière à séduire, si possible, même les élus”.
-165 “Faux christs, faux prophètes!”. Nous y voilà! Qu’est-ce qui s’élèvera? De faux christs, des
-gens faux disant: “Je suis le Christ!”. De faux prophètes disant: “Je suis ceci et cela”. Et ils
-séduiraient presque les élus si c’était possible. Il y a une seule façon pour vous de pouvoir être
-sauvé, c’est lorsque vous avez été choisi avant la fondation du monde; c’est cela, l’élection; vous
-êtes un élu par prescience, c’est ainsi que votre nom a été inscrit dans le Livre à ce moment-là —
-“De grands signes!…”.
-166 Considérons maintenant ces deux églises. Si seulement je pouvais trouver un moyen de
-montrer cela aux gens! Cela brûle dans mon âme! Ces églises-là sont aussi justes, pures et
-saintes que celle-ci; ce sont toutes des vierges, elles sont toutes aussi pures les unes que les
-autres. L’unique différence, c’est l’huile dans le vase, le Saint-Esprit. Et le Saint-Esprit, s’Il est
-là-dedans, Il produit la même sorte de feu que le jour de Pentecôte. Mais elles n’ont pas de feu,
-pas d’huile dans leurs lampes! Elles ont un rituel d’église, l’église est aussi ritualiste que possible,
-elles ont de belles cérémonies (je n’ai rien contre cela), des credo qui secouent votre conscience,
-des choeurs comme des chants d’anges. Et vous ne pourriez rien trouver à redire à leur vie, vous
-ne le pourriez pas! Mais malgré tout cela, elles sont dans l’erreur! C’est UNE PARTIE de la réalité,
-mais ce n’est pas TOUTE la réalité. Ce sont celles-là qui manquent l’enlèvement. Vous voyez?
-167 Maintenant, considérez ceci. Voici Moab qui descend. Nous allons voir cela maintenant, afin
-que vous puissiez comprendre. Voici Moab, une grande organisation; il était pour l’organisation; et
-voici Israël, qui n’avait pas d’organisation; nous voyons Moab élever un, deux, trois, quatre, cinq,
+154 Tout au long des âges, les deux sont mortes; elles se sont assoupies et endormies tout au long des âges; elles ne sont pas perdues, mais elles sont seulement “assoupies et endormies”. Elles sont dans l’attente, vous voyez? On ne dit pas qu’elles sont mortes, mais qu’elles sont “assoupies et endormies”. Vous voyez?
 
-        http://www.cmpp.ch
+> “Au milieu de la nuit, on cria: Voici l’époux, allez à sa rencontre! Alors, toutes ces vierges se réveillèrent, et préparèrent leurs lampes. Les folles dirent aux sages: Donnez-nous de votre huile, car nos lampes s’éteignent. Les sages répondirent: Non, il n’y en aurait pas assez pour nous et pour vous; allez plutôt chez ceux qui en vendent, et achetez-en pour vous. Pendant qu’elles allaient en acheter, l’époux arriva; celles qui étaient prêtes entrèrent avec Lui dans la salle des noces, et la porte fut fermée. Plus tard, les autres vinrent, et dirent: Seigneur, Seigneur, ouvre-nous!… (vous voyez, ce n’étaient pas des incrédules, c’étaient de braves gens) … Mais il répondit: Je vous le dis en vérité, je ne vous connais pas. Veillez donc, puisque vous ne savez ni le jour, ni l’heure”.
 
-LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES 19
-six, sept autels. Bien. Là-haut, Moab offrit un, deux, trois, quatre, cinq, six, sept taureaux. Israël,
-un, deux, trois, quatre, cinq, six, sept taureaux. Bien. Moab disait: “Un jour viendra où un homme
-(Christ) descendra sur cette terre. Il sera l’Agneau de Dieu qui ôte le péché du monde; c’est
-pourquoi nous allons mettre sept — quoi? Sept agneaux sur cet autel”. Israël dit: “C’est tout à fait
-juste: sept agneaux sur l’autel”. Vous voyez?
-168 Au commencement, Caïn éleva un autel; il fit un sacrifice, adora et fit tout ce qu’Abel avait fait,
-mais (oh, recevez bien ceci!), sans la révélation de Dieu! Alors que l’Eglise tout entière est fondée
-sur cette révélation. Jésus l’a dit: “Sur ce Rocher, Je bâtirai Mon Eglise”. Sur la Vérité, révélée
-spirituellement, de la Divinité suprême de Jésus-Christ. “Sur ce Rocher, Je bâtirai Mon Eglise”.
-169 Or, si Dieu Se contente de vos rites Méthodistes, Baptistes, Pentecôtistes, etc., s’Il n’attend
-que cela de votre part, que vous vous borniez à prêcher la seconde venue et toutes ces autres
-choses (qui sont d’ailleurs parfaitement scripturaires), comme le font les Baptistes, les
-Presbytériens et autres, alors Dieu est dans l’obligation de les prendre toutes les deux, parce que
-ce serait tout ce qu’Il exigerait. Mais, vous voyez, il y a ici la vierge folle qui n’a pas la révélation.
-Et ici, c’est la vierge sage. Moab était une organisation, une grande nation.
-170 Nous l’avons lu l’autre soir, là où il est dit: “Ces gens ne seront pas une organisation, ils seront
-errants dans le pays, demeurant sous des tentes, pauvres et humbles”. Mais Dieu avait dit:
-“N’essayez pas de les maudire, parce que Je suis avec eux!”. Considérez ceci maintenant! Ces
-gens croyaient dans les mêmes rites que les autres et adoraient le même Dieu. Mais ils n’avaient
-pas les signes et les prodiges qui les accompagnaient! Israël avait un Serpent d’airain, un Rocher
-frappé, la joie du Roi, la guérison Divine, les prophètes, toutes ces choses. Mais les autres
-n’avaient pas cela: ils avaient le rituel sans la bénédiction, sans l’Huile.
-171 C’est la même chose avec les vierges folles et les vierges sages: toutes deux étaient des
-personnes sanctifiées. Mais celles-ci avaient de l’huile, celles-là n’en avaient pas. Mais elles
-disaient: “Nous sommes aussi bonnes que vous!”. En réalité, aucun de nous n’est bon! “Vous êtes
-une bande d’exaltés!”. Bien, d’accord! Aucun de nous n’est bon, nous avons tous péché et
-sommes tous privés de la gloire de Dieu. Mais la seule façon pour vous de la connaître, ce n’est
-pas de vous joindre à une église, ni d’essayer de vivre saintement: c’est de recevoir Christ. Ce qui
-compte, ce n’est pas comment je vis, c’est ce qu’Il a fait. Ce qui compte, ce n’est pas ce que je
-suis, c’est ce qu’Il est. Il est devenu moi, afin que je puisse, par Sa grâce, devenir Lui, le Fils de
-Dieu. Comprenez-vous cela?
-172 Il y a d’une part des vierges folles, et d’autre part des vierges sages avec de l’huile dans leurs
-vases. Soudain, on entend un cri: “Voici l’Epoux, allez à Sa rencontre!”. Alors, elles se réveillent
-toutes. Mais seules celles-ci purent entrer parce qu’elles avaient de l’huile dans leurs vases. Toute
-la différence était là!
-173 Les autres ne purent pas entrer, car elles n’avaient pas d’huile dans leurs lampes! Elles s’en
-allèrent prier afin de recevoir le Saint-Esprit. Mais tandis qu’elles étaient loin, tout fut terminé. Les
-dénominations se disent: «Nous avons peut-être tort. Il vaudrait mieux que nous revenions
-chercher le baptême du Saint-Esprit». C’est ce qu’ils essaient de faire maintenant. L’avez-vous
-remarqué? Les Presbytériens… Arrêtez l’enregistrement un instant, je ne veux pas publier son
-nom [partie non enregistrée — N.d.R.] …L’Epoux vient. Et combien Sa venue est proche, si elles
-essaient maintenant d’aller acheter de l’Huile! Maintenant, est-ce que vous comprenez cela?
-“Tandis qu’elles allaient en acheter…”; elles essaient d’en acheter maintenant: toutes les églises
-essaient d’avoir un réveil, elles essaient de revenir là.
-174 Billy Graham lui-même a écrit dans le «Héraut de la Foi», de Chicago: «On ne peut pas
-ignorer le mouvement Pentecôtiste, car ils ont eu plus de convertis en un an que toutes les autres
-églises ensemble!».
-175 C’est exactement ce feu qui brûle, qui secoue, qui éprouve, qui jette le filet et le retire. Quand
-vous jetez un filet… Jésus a dit: “Le Royaume de Dieu est semblable à un homme qui est allé jeter
-un filet dans un lac; quand il l’a retiré, il y avait des tortues, des serpents, des grenouilles, des
-reptiles et toutes sortes de choses, mais il y avait aussi quelques poissons”. C’est ce que fait le
-message de Pentecôte: il balaie la terre; en jetant le filet et en le retirant, on retire des tortues, des
-écrevisses, des araignées de mer, des crapauds et toutes sortes de bestioles. Mais ce qui compte,
-c’est qu’on trouve aussi des poissons. Ce sont eux qui sont pour le Maître.
+155 Voyons d’abord les cinq vierges sages. L’huile, dans la Bible, symbolise le Saint-Esprit. Nous le savons tous. C’est pourquoi nous oignons d’huile les malades; l’huile symbolise le Saint-Esprit. Les vierges sages avaient donc de l’huile dans leurs lampes, ce qui signifie qu’elles avaient le Saint-Esprit et qu’elles étaient prêtes à entrer au Repas des Noces. Nous pourrions revenir en arrière et lire Ezéchiel 9, etc., et le prouver par des exemples, mais j’ai noté ici près de quinze autres versets dont je dois encore parler. Je crois que nous l’avons déjà montré lors de notre étude biblique cette semaine, l’huile représente le Saint-Esprit. Nous savons tous cela.
 
-        http://www.cmpp.ch
+156 Notez bien que toutes les deux étaient des vierges. Laissez-moi vous montrer ceci. Prenons ces deux choses-ci. Ceci est une vierge et cela une autre vierge; celle-ci était une vierge sage — mais les deux étaient des vierges.
 
-LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES 20
-176 Bon, vous frères croyants légalistes qui écoutez ces enregistrements et qui aimeriez les
-brûler, dites-moi ceci: quand sont-ils devenus des poissons? lorsque le filet a été jeté sur eux?
-Non, ils étaient des poissons dès le commencement! C’est vrai! Ils furent élus dès la fondation du
-monde! Ils ne le sont pas devenus en entrant au service du Maître!
-177 Voici la grenouille. Prenez une grenouille et jetez-la sur le rivage: hop, hop, hop, elle retourne
-directement dans l’eau!
-178 Il y a aussi cette écrevisse qui dit: «C’est une bande d’exaltés!». Elle recule aussitôt: «Oh,
-non! Très peu pour moi!». Et elle retourne à toute vitesse dans la vase.
-179 Il y a ce serpent qui siffle: «Je crois que le temps des miracles est passé, ce sont les docteurs
-Untel et Untel qui me l’ont dit. Oh, vous ne m’aurez pas!». Et le voilà qui s’en retourne aussitôt.
-180 C’était un serpent dès le commencement! C’était une grenouille dès le commencement! Paul
-l’a dit dans la Bible, en parlant d’eux: “Ils nous ont quittés parce qu’ils n’étaient pas des nôtres”.
-Les vierges folles…
+157 Et si vous prenez ce terme de “vierge” et que vous en étudiez le sens, vous verrez qu’il signifie: “saint, pur, sanctifié”. Le mot sanctifié vient du mot saint, qui veut dire pur, propre. Le mot grec “sanctifié” signifie purifié, nettoyé — en grec, c’est le mot saint. Vous voyez? Et pour nous, c’est le mot pur, propre, sanctifié. Ce sont tous les trois un seul et même mot.
+
+158 C’est comme lorsque nous prenons le mot chien. Si je dis “dog”, c’est de l’anglais. Si je veux dire chien en allemand, Fred, c’est “Hund”, n’est-ce pas? Frère Norman, si je dis chien en espagnol, c’est “ajo”. Ajo, Hund, dog, tout cela, c’est toujours chien pour nous. Vous voyez, c’est une question d’expression.
+
+159 Ainsi, le mot grec pour “pur” est “sanctifié”. Pur, propre et sanctifié, c’est le même mot. Donc ce n’était pas une église sale et souillée; c’était une église sanctifiée, pure; “dix vierges allèrent à la rencontre de l’Epoux”. Qu’est-ce que cela signifie? Ce sont toutes des églises. Non pas jusqu’ici, dans le Catholicisme; mais jusque dans les dénominations, le Nicolaïsme. Les Baptistes prêchent la seconde venue de Christ; les Méthodistes prêchent la seconde venue de Christ; les Méthodistes prêchent la seconde venue de Christ, les Nazaréens prêchent la seconde venue de Christ, les Pèlerins de la Sainteté prêchent la seconde venue de Christ. N’est-ce pas vrai? “Toutes allèrent à la rencontre de l’Epoux”. Souvenez-vous que chacune d’elles était en route pour aller à la rencontre de l’Epoux. Et si Dieu tenait compte uniquement de cela, Il devrait les prendre toutes.
+
+160 Mais souvenez-vous d’une chose semblable, la parabole de l’autre soir, quand Dieu nous a parlé dans cet âge de l’église sur la doctrine de Balaam. Il y avait là Balak, chef d’une belle et grande nation bien organisée. Ces gens croyaient en Dieu, car regardez ce que fit Balaam lorsqu’il monta. Il offrit exactement le même sacrifice qu’Israël, et au même Dieu, le Dieu d’Israël, Jéhovah. Il bâtit sept autels. Sept est le chiffre de la perfection de Dieu.
+
+161 Dieu a travaillé six jours et S’est reposé le septième; le septième, l’oeuvre était parfaite, accomplie. Il travailla six jours dans le monde. Après les deux premiers millénaires, le monde fut détruit par l’eau; deux millénaires après, Christ est venu; et nous vivons maintenant dans le troisième bimillénaire. A la fin de chaque bimillénaire, quelque chose se passe, le monde est secoué. En six mille ans, Il a construit le monde; depuis six mille ans, l’église travaille contre le monde! Le septième millénaire est ce règne de mille ans du Millénium. Comprenez-vous cela?
+
+162 L’église aussi a sept âges. C’est le nombre complet des âges de l’église, sept, c’est tout. Sept est le chiffre de l’accomplissement de Dieu. Sept âges de l’église, sept mille ans de création, tout marche par sept.
+
+163 Il y a ces vierges qui sont allées à Sa rencontre. Les vierges folles n’avaient pas d’huile dans leurs lampes, mais elles avaient tout le reste: elles étaient pures, elles croyaient en Christ; elles prêchaient la Parole qu’elles pensaient être autorisées à prêcher par leurs dénominations; elles prêchaient cela, la seconde venue, le sacrifice, l’expiation. Elles étaient croyantes. Discutez un peu avec un bon érudit Baptiste, il vaudra mieux pour vous savoir de quoi vous parlez! C’est sûr!
+
+164 Mais vous voyez: “Si proches…” dit Matthieu 24.24; lisons-le tout de suite et vous verrez! Jésus dit que dans les derniers jours, les deux esprits seraient si proches l’un de l’autre que les élus eux-mêmes seraient séduits si c’était possible. Ils seront si proches que cela détournera les Pentecôtistes comme si de rien n’était! Certainement! Lisons maintenant Matthieu 24.24:
+
+> “Car il s’élèvera de faux christs et de faux prophètes; et ils montreront de grands signes et des prodiges, de manière à séduire, si possible, même les élus”.
+
+165 “Faux christs, faux prophètes!”. Nous y voilà! Qu’est-ce qui s’élèvera? De faux christs, des gens faux disant: “Je suis le Christ!”. De faux prophètes disant: “Je suis ceci et cela”. Et ils séduiraient presque les élus si c’était possible. Il y a une seule façon pour vous de pouvoir être sauvé, c’est lorsque vous avez été choisi avant la fondation du monde; c’est cela, l’élection; vous êtes un élu par prescience, c’est ainsi que votre nom a été inscrit dans le Livre à ce moment-là — “De grands signes!…”.
+
+166 Considérons maintenant ces deux églises. Si seulement je pouvais trouver un moyen de montrer cela aux gens! Cela brûle dans mon âme! Ces églises-là sont aussi justes, pures et saintes que celle-ci; ce sont toutes des vierges, elles sont toutes aussi pures les unes que les autres. L’unique différence, c’est l’huile dans le vase, le Saint-Esprit. Et le Saint-Esprit, s’Il est là-dedans, Il produit la même sorte de feu que le jour de Pentecôte. Mais elles n’ont pas de feu, pas d’huile dans leurs lampes! Elles ont un rituel d’église, l’église est aussi ritualiste que possible, elles ont de belles cérémonies (je n’ai rien contre cela), des credo qui secouent votre conscience, des choeurs comme des chants d’anges. Et vous ne pourriez rien trouver à redire à leur vie, vous ne le pourriez pas! Mais malgré tout cela, elles sont dans l’erreur! C’est UNE PARTIE de la réalité, mais ce n’est pas TOUTE la réalité. Ce sont celles-là qui manquent l’enlèvement. Vous voyez?
+
+167 Maintenant, considérez ceci. Voici Moab qui descend. Nous allons voir cela maintenant, afin que vous puissiez comprendre. Voici Moab, une grande organisation; il était pour l’organisation; et voici Israël, qui n’avait pas d’organisation; nous voyons Moab élever un, deux, trois, quatre, cinq, six, sept autels. Bien. Là-haut, Moab offrit un, deux, trois, quatre, cinq, six, sept taureaux. Israël, un, deux, trois, quatre, cinq, six, sept taureaux. Bien. Moab disait: “Un jour viendra où un homme (Christ) descendra sur cette terre. Il sera l’Agneau de Dieu qui ôte le péché du monde; c’est pourquoi nous allons mettre sept — quoi? Sept agneaux sur cet autel”. Israël dit: “C’est tout à fait juste: sept agneaux sur l’autel”. Vous voyez?
+
+168 Au commencement, Caïn éleva un autel; il fit un sacrifice, adora et fit tout ce qu’Abel avait fait, mais (oh, recevez bien ceci!), sans la révélation de Dieu! Alors que l’Eglise tout entière est fondée sur cette révélation. Jésus l’a dit: “Sur ce Rocher, Je bâtirai Mon Eglise”. Sur la Vérité, révélée spirituellement, de la Divinité suprême de Jésus-Christ. “Sur ce Rocher, Je bâtirai Mon Eglise”.
+
+169 Or, si Dieu Se contente de vos rites Méthodistes, Baptistes, Pentecôtistes, etc., s’Il n’attend que cela de votre part, que vous vous borniez à prêcher la seconde venue et toutes ces autres choses (qui sont d’ailleurs parfaitement scripturaires), comme le font les Baptistes, les Presbytériens et autres, alors Dieu est dans l’obligation de les prendre toutes les deux, parce que ce serait tout ce qu’Il exigerait. Mais, vous voyez, il y a ici la vierge folle qui n’a pas la révélation. Et ici, c’est la vierge sage. Moab était une organisation, une grande nation.
+
+170 Nous l’avons lu l’autre soir, là où il est dit: “Ces gens ne seront pas une organisation, ils seront errants dans le pays, demeurant sous des tentes, pauvres et humbles”. Mais Dieu avait dit: “N’essayez pas de les maudire, parce que Je suis avec eux!”. Considérez ceci maintenant! Ces gens croyaient dans les mêmes rites que les autres et adoraient le même Dieu. Mais ils n’avaient pas les signes et les prodiges qui les accompagnaient! Israël avait un Serpent d’airain, un Rocher frappé, la joie du Roi, la guérison Divine, les prophètes, toutes ces choses. Mais les autres n’avaient pas cela: ils avaient le rituel sans la bénédiction, sans l’Huile.
+
+171 C’est la même chose avec les vierges folles et les vierges sages: toutes deux étaient des personnes sanctifiées. Mais celles-ci avaient de l’huile, celles-là n’en avaient pas. Mais elles disaient: “Nous sommes aussi bonnes que vous!”. En réalité, aucun de nous n’est bon! “Vous êtes une bande d’exaltés!”. Bien, d’accord! Aucun de nous n’est bon, nous avons tous péché et sommes tous privés de la gloire de Dieu. Mais la seule façon pour vous de la connaître, ce n’est pas de vous joindre à une église, ni d’essayer de vivre saintement: c’est de recevoir Christ. Ce qui compte, ce n’est pas comment je vis, c’est ce qu’Il a fait. Ce qui compte, ce n’est pas ce que je suis, c’est ce qu’Il est. Il est devenu moi, afin que je puisse, par Sa grâce, devenir Lui, le Fils de Dieu. Comprenez-vous cela?
+
+172 Il y a d’une part des vierges folles, et d’autre part des vierges sages avec de l’huile dans leurs vases. Soudain, on entend un cri: “Voici l’Epoux, allez à Sa rencontre!”. Alors, elles se réveillent toutes. Mais seules celles-ci purent entrer parce qu’elles avaient de l’huile dans leurs vases. Toute la différence était là!
+
+173 Les autres ne purent pas entrer, car elles n’avaient pas d’huile dans leurs lampes! Elles s’en allèrent prier afin de recevoir le Saint-Esprit. Mais tandis qu’elles étaient loin, tout fut terminé. Les dénominations se disent: «Nous avons peut-être tort. Il vaudrait mieux que nous revenions chercher le baptême du Saint-Esprit». C’est ce qu’ils essaient de faire maintenant. L’avez-vous remarqué? Les Presbytériens… Arrêtez l’enregistrement un instant, je ne veux pas publier son nom [partie non enregistrée — N.d.R.] …L’Epoux vient. Et combien Sa venue est proche, si elles essaient maintenant d’aller acheter de l’Huile! Maintenant, est-ce que vous comprenez cela? “Tandis qu’elles allaient en acheter…”; elles essaient d’en acheter maintenant: toutes les églises essaient d’avoir un réveil, elles essaient de revenir là.
+
+174 Billy Graham lui-même a écrit dans le «Héraut de la Foi», de Chicago: «On ne peut pas ignorer le mouvement Pentecôtiste, car ils ont eu plus de convertis en un an que toutes les autres églises ensemble!».
+
+175 C’est exactement ce feu qui brûle, qui secoue, qui éprouve, qui jette le filet et le retire. Quand vous jetez un filet… Jésus a dit: “Le Royaume de Dieu est semblable à un homme qui est allé jeter un filet dans un lac; quand il l’a retiré, il y avait des tortues, des serpents, des grenouilles, des reptiles et toutes sortes de choses, mais il y avait aussi quelques poissons”. C’est ce que fait le message de Pentecôte: il balaie la terre; en jetant le filet et en le retirant, on retire des tortues, des écrevisses, des araignées de mer, des crapauds et toutes sortes de bestioles. Mais ce qui compte, c’est qu’on trouve aussi des poissons. Ce sont eux qui sont pour le Maître.
+
+176 Bon, vous frères croyants légalistes qui écoutez ces enregistrements et qui aimeriez les brûler, dites-moi ceci: quand sont-ils devenus des poissons? lorsque le filet a été jeté sur eux? Non, ils étaient des poissons dès le commencement! C’est vrai! Ils furent élus dès la fondation du monde! Ils ne le sont pas devenus en entrant au service du Maître!
+
+177 Voici la grenouille. Prenez une grenouille et jetez-la sur le rivage: hop, hop, hop, elle retourne directement dans l’eau!
+
+178 Il y a aussi cette écrevisse qui dit: «C’est une bande d’exaltés!». Elle recule aussitôt: «Oh, non! Très peu pour moi!». Et elle retourne à toute vitesse dans la vase.
+
+179 Il y a ce serpent qui siffle: «Je crois que le temps des miracles est passé, ce sont les docteurs Untel et Untel qui me l’ont dit. Oh, vous ne m’aurez pas!». Et le voilà qui s’en retourne aussitôt.
+
+180 C’était un serpent dès le commencement! C’était une grenouille dès le commencement! Paul l’a dit dans la Bible, en parlant d’eux: “Ils nous ont quittés parce qu’ils n’étaient pas des nôtres”. Les vierges folles…
+
 181 Les vierges sages avaient de l’huile dans leurs lampes parce qu’elles s’étaient préparées.
-182 “Pendant qu’elles allaient en acheter…”. C’est ce que ces grandes églises essaient de faire
-maintenant même. Ces grandes églises évangéliques qui essaient d’obtenir ces grandes choses,
-et de revenir à la Bible, au point de départ: “Nous avons besoin de la bénédiction de Pentecôte”.
-Eh bien, vous pouvez imaginer quel genre de réunion ils vont avoir! Ils ne vont pas s’humilier
-jusque là et gâcher tout ce maquillage qui est sur eux! Oh, non! Ils ne vont pas abandonner leurs
-cercles féminins, leurs sociétés et toutes ces choses. Comme Esaü, ils tiennent le monde d’une
-main et essaient d’attraper Dieu de l’autre. Vous ne pouvez faire cela! Vous ne pouvez être un
-chrétien qui louche, vous comprenez, regardant à la fois vers Dieu et vers le monde. Vous devez
-centrer votre vie sur le Calvaire et rester là.
-183 Mais les voici qui essaient de revenir en arrière. Et pensez combien nous sommes près de la
-fin! Au moment même où elles partent pour acheter de l’huile, l’Epoux arrive!
-184 Oh, frère Stricker, nous en sommes si près! Nous sommes tout près de la Maison. Oh, un de
-ces jours:
-        La trompette du Seigneur sonnera,
-        Et il n’y aura plus de temps,
-        Et l’aube apparaîtra, Eternelle, lumineuse et magnifique;
-        Quand Ses rachetés de cette terre se rassembleront
-        Pour aller vers leur Maison au-delà des cieux. (Quel moment glorieux ce sera!)
-185 Les vierges folles… Vous voulez savoir ce qui va leur arriver? Il y a une chose que je veux
-expliquer. Que va-t-il arriver à ces églises? Que va-t-il arriver à ces gens qui ont fait une partie du
-chemin avec Christ, mais qui ne sont pas allés jusqu’au bout avec Lui?
-186 Dans Romains 8.9, Paul dit: “Si l’Esprit de Dieu n’est pas en vous, vous n’êtes pas de Dieu”.
-Vous appartenez à l’organisation, mais pas à Dieu. Si l’Esprit de Dieu n’est pas en vous, vous
-n’êtes pas de Dieu. Vous devez avoir l’Esprit de Dieu pour être de Dieu. C’est certain!
-187 Maintenant, parlons de la grande tribulation. Il faut que je termine ce sujet. “Ils furent jetés
-dans les ténèbres du dehors, où il y aura des pleurs, des gémissements, et des grincements de
-dents”. Cela, c’est la grande tribulation. N’est-ce pas? La grande tribulation! Et après cette
-tribulation, ces gens…
-188 Laissez-moi reprendre cela. Il s’agit du reste. Maintenant, regardez ici! Voici une pièce de
-tissu. Bon, la femme l’étend comme ceci. Elle va se faire un vêtement avec cela. Et c’est tout ce
-qu’elle possède comme tissu. Chacune des parties du tissu est de la même sorte que l’ensemble.
-D’accord?
-189 Toutes les deux étaient des vierges. Elles avaient foi en Christ, une forme de piété, elles
-allaient à l’église, faisaient de bonnes oeuvres, la charité: on ne pourrait rien trouver à redire contre
-leurs oeuvres et toutes ces choses. “Je connais tes oeuvres”; Il l’a dit dans chaque âge: “Je
-connais tes oeuvres,… mais pourtant, il te manque quelque chose”. Vous voyez?
-190 La femme, dans sa pensée, décide de la manière dont elle va établir le patron, de quelle
-façon elle coupera son tissu et dans quoi elle va le couper. D’accord? Elle garde ce qu’elle pense
 
-        http://www.cmpp.ch
+182 “Pendant qu’elles allaient en acheter…”. C’est ce que ces grandes églises essaient de faire maintenant même. Ces grandes églises évangéliques qui essaient d’obtenir ces grandes choses, et de revenir à la Bible, au point de départ: “Nous avons besoin de la bénédiction de Pentecôte”. Eh bien, vous pouvez imaginer quel genre de réunion ils vont avoir! Ils ne vont pas s’humilier jusque là et gâcher tout ce maquillage qui est sur eux! Oh, non! Ils ne vont pas abandonner leurs cercles féminins, leurs sociétés et toutes ces choses. Comme Esaü, ils tiennent le monde d’une main et essaient d’attraper Dieu de l’autre. Vous ne pouvez faire cela! Vous ne pouvez être un chrétien qui louche, vous comprenez, regardant à la fois vers Dieu et vers le monde. Vous devez centrer votre vie sur le Calvaire et rester là.
 
-LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES 21
-être suffisant, et la meilleure partie du tissu. D’accord? Parce que tout cela, c’est le même tissu,
-mais elle l’étend comme ceci peut-être, ou comme cela, elle le met à plat. Puis elle prend ses
-ciseaux et coupe. Et ce qui reste est appelé la “chute”, le “reste”. Or, qu’est-ce que ce patron?
-Comment a-t-il été connu? C’est la femme qui a choisi l’endroit où elle couperait.
-191 Dieu, avant la fondation du monde, connaissait la fin dès le commencement par Sa
-prescience. Il choisit par élection l’emplacement où Il couperait: Il connaissait la différence entre
-Esaü et Jacob. Il connaissait la différence entre le pécheur et le saint. Il connaissait la différence. Il
-connaît les motivations de chaque coeur, c’est pourquoi Il nous a élus avant, la fondation du
-monde et a inscrit nos noms dans le Livre de Vie de l’Agneau; de même, l’Agneau devait être
-immolé (Il a inscrit nos noms avant que l’Agneau soit immolé); et la Bible dit que Christ était
-l’Agneau immolé avant la fondation du monde. Et nos noms ont été inscrits dans le Livre quand Il
-fut élu autrefois pour être l’Agneau qui serait immolé; nous avons été élus afin d’être ceux pour
-lesquels Il serait immolé. Comprenez-vous cela?
-192 Ce sont donc toutes des vierges. Et ceci, c’est le petit reste, et non pas le petit rebut. Oh, non!
-Elle le conserve, le range, elle pourra l’utiliser pour autre chose. Vous voyez? Mais il ne sera pas
-utilisé là, parce que cela, c’est l’Eglise qui a été taillée. Et ces restes devront passer par le
-jugement (parce qu’ils traversent la tribulation). Comprenez-vous, maintenant?
-193 Ceci, c’est l’Eglise qui va à la Maison; et ceci, c’est le reste qui est laissé. Et ceci, ce sont les
-cent quarante-quatre mille sur la montagne de Sion, les Juifs. Il n’y a pas trois épouses différentes.
-Il y a l’Epouse, il y a le reste, et il y a les cent quarante-quatre mille. C’est exact! Jean, à
-Patmos, ne se nourrissait de rien d’autre que de la nourriture du Saint-Esprit; c’est pourquoi il avait
-tout son bon sens, et il n’y avait rien en lui qui ne tournât pas rond! Voilà comment sont les choses.
-194 Pour ce qui est de la fin des temps, combien savent que la Bible dit que “les saints jugeront la
-terre”? Paul l’a dit. Prenons maintenant le Livre de Daniel, et lisons ce qui concerne le trône blanc.
-Nous pourrions l’étudier dans l’Apocalypse, mais j’aimerais prendre cela dans Daniel. C’est la
-même chose. Daniel 7, le grand trône blanc du jugement. Commençons au verset 8 du chapitre 7
-de Daniel: “Je considérais les cornes, et voici, une autre petite corne sortit du milieu d’elles, et trois
-des premières cornes furent arrachées devant cette corne… (nous savons qu’il s’agit de Rome.
-Vous voyez?) …et voici, elle avait des yeux comme des yeux d’homme… (rappelez-vous que cette
-corne n’a pas reçu de couronne, mais c’était une corne pleine de ruse. Les autres cornes se sont
-transformées en bêtes. Celle-ci était rusée, c’était un homme, un pape au lieu d’un païen) … et
-une bouche qui parlait avec arrogance”.
-195 Continuons à lire. Verset 9: “Je regardais pendant que l’on plaçait des trônes… (c’est la fin
-des royaumes des nations. C’est le prophète qui parle. Rappelez-vous que chacune des choses
-qu’il a annoncées est arrivée, jusqu’à la dernière: nous le savons par l’histoire que nous étudions)
-… Et l’Ancien des jours s’assit. Son vêtement était blanc comme la neige… (vous savez qui c’était,
-d’après la vision de l’autre soir? C’était Jésus) … et les cheveux de sa tête étaient comme de la
-laine pure; son trône était comme des flammes de feu, et les roues comme un feu ardent. Un
-fleuve de feu coulait et sortait de devant lui. Mille milliers le servaient… (voici l’Eglise qui revient
-avec Lui) … — et dix mille millions se tenaient en sa présence… (il y a l’Epouse qui apparaît, et le
-reste du monde) … Les juges s’assirent, et les livres furent ouverts. Je regardais alors, à cause
-des paroles arrogantes que prononçait la corne; et tandis que je regardais, l’animal fut tué, et son
-corps fut anéanti, livré au feu pour être brûlé. Les autres animaux furent dépouillés de leur
-puissance, mais une prolongation de vie leur fut accordée jusqu’à un certain temps”.
-196 Les juges s’assirent, et les livres furent ouverts. C’est quand l’Epouse revient et s’assied pour
-le jugement. L’Eglise qui a été enlevée revient après ces trois ans et demi, et plus loin, dans
-l’Apocalypse, il nous est dit que: “les autres morts ne revinrent point à la vie jusqu’à ce que les
-mille ans fussent accomplis”. Combien parmi vous l’ont lu? Nous l’avons lu maintes et maintes fois:
-“… ne revinrent point à la vie, jusqu’à ce que les mille ans fussent accomplis”. Jésus revient avec
-l’Epouse.
-197 Comme je l’ai déjà dit, tout va par trois. La première fois, Il vint racheter Son Epouse; la
-deuxième fois, Il vient enlever Son Epouse (comme dans un roman d’amour: Il vient un soir et
-l’enlève au monde, et elle vient à Sa rencontre dans les airs. C’est la venue secrète du Seigneur,
-vous voyez?) Quand Il vient la deuxième fois, c’est donc pour recevoir Son Epouse. La première
+183 Mais les voici qui essaient de revenir en arrière. Et pensez combien nous sommes près de la fin! Au moment même où elles partent pour acheter de l’huile, l’Epoux arrive!
 
-        http://www.cmpp.ch
+184 Oh, frère Stricker, nous en sommes si près! Nous sommes tout près de la Maison. Oh, un de ces jours:
+
+> La trompette du Seigneur sonnera,
+> Et il n’y aura plus de temps,
+> Et l’aube apparaîtra, Eternelle, lumineuse et magnifique;
+> Quand Ses rachetés de cette terre se rassembleront
+> Pour aller vers leur Maison au-delà des cieux. (Quel moment glorieux ce sera!)
+
+185 Les vierges folles… Vous voulez savoir ce qui va leur arriver? Il y a une chose que je veux expliquer. Que va-t-il arriver à ces églises? Que va-t-il arriver à ces gens qui ont fait une partie du chemin avec Christ, mais qui ne sont pas allés jusqu’au bout avec Lui?
+
+186 Dans Romains 8.9, Paul dit:
+
+> “Si l’Esprit de Dieu n’est pas en vous, vous n’êtes pas de Dieu”.
+
+Vous appartenez à l’organisation, mais pas à Dieu. Si l’Esprit de Dieu n’est pas en vous, vous n’êtes pas de Dieu. Vous devez avoir l’Esprit de Dieu pour être de Dieu. C’est certain!
+
+187 Maintenant, parlons de la grande tribulation. Il faut que je termine ce sujet. “Ils furent jetés dans les ténèbres du dehors, où il y aura des pleurs, des gémissements, et des grincements de dents”. Cela, c’est la grande tribulation. N’est-ce pas? La grande tribulation! Et après cette tribulation, ces gens…
+
+188 Laissez-moi reprendre cela. Il s’agit du reste. Maintenant, regardez ici! Voici une pièce de tissu. Bon, la femme l’étend comme ceci. Elle va se faire un vêtement avec cela. Et c’est tout ce qu’elle possède comme tissu. Chacune des parties du tissu est de la même sorte que l’ensemble. D’accord?
+
+189 Toutes les deux étaient des vierges. Elles avaient foi en Christ, une forme de piété, elles allaient à l’église, faisaient de bonnes oeuvres, la charité: on ne pourrait rien trouver à redire contre leurs oeuvres et toutes ces choses. “Je connais tes oeuvres”; Il l’a dit dans chaque âge: “Je connais tes oeuvres,… mais pourtant, il te manque quelque chose”. Vous voyez?
+
+190 La femme, dans sa pensée, décide de la manière dont elle va établir le patron, de quelle façon elle coupera son tissu et dans quoi elle va le couper. D’accord? Elle garde ce qu’elle pense être suffisant, et la meilleure partie du tissu. D’accord? Parce que tout cela, c’est le même tissu, mais elle l’étend comme ceci peut-être, ou comme cela, elle le met à plat. Puis elle prend ses ciseaux et coupe. Et ce qui reste est appelé la “chute”, le “reste”. Or, qu’est-ce que ce patron? Comment a-t-il été connu? C’est la femme qui a choisi l’endroit où elle couperait.
+
+191 Dieu, avant la fondation du monde, connaissait la fin dès le commencement par Sa prescience. Il choisit par élection l’emplacement où Il couperait: Il connaissait la différence entre Esaü et Jacob. Il connaissait la différence entre le pécheur et le saint. Il connaissait la différence. Il connaît les motivations de chaque coeur, c’est pourquoi Il nous a élus avant, la fondation du monde et a inscrit nos noms dans le Livre de Vie de l’Agneau; de même, l’Agneau devait être immolé (Il a inscrit nos noms avant que l’Agneau soit immolé); et la Bible dit que Christ était l’Agneau immolé avant la fondation du monde. Et nos noms ont été inscrits dans le Livre quand Il fut élu autrefois pour être l’Agneau qui serait immolé; nous avons été élus afin d’être ceux pour lesquels Il serait immolé. Comprenez-vous cela?
+
+192 Ce sont donc toutes des vierges. Et ceci, c’est le petit reste, et non pas le petit rebut. Oh, non! Elle le conserve, le range, elle pourra l’utiliser pour autre chose. Vous voyez? Mais il ne sera pas utilisé là, parce que cela, c’est l’Eglise qui a été taillée. Et ces restes devront passer par le jugement (parce qu’ils traversent la tribulation). Comprenez-vous, maintenant?
+
+193 Ceci, c’est l’Eglise qui va à la Maison; et ceci, c’est le reste qui est laissé. Et ceci, ce sont les cent quarante-quatre mille sur la montagne de Sion, les Juifs. Il n’y a pas trois épouses différentes. Il y a l’Epouse, il y a le reste, et il y a les cent quarante-quatre mille. C’est exact! Jean, à Patmos, ne se nourrissait de rien d’autre que de la nourriture du Saint-Esprit; c’est pourquoi il avait tout son bon sens, et il n’y avait rien en lui qui ne tournât pas rond! Voilà comment sont les choses.
+
+194 Pour ce qui est de la fin des temps, combien savent que la Bible dit que “les saints jugeront la terre”? Paul l’a dit. Prenons maintenant le Livre de Daniel, et lisons ce qui concerne le trône blanc. Nous pourrions l’étudier dans l’Apocalypse, mais j’aimerais prendre cela dans Daniel. C’est la même chose. Daniel 7, le grand trône blanc du jugement. Commençons au verset 8 du chapitre 7 de Daniel:
+
+> “Je considérais les cornes, et voici, une autre petite corne sortit du milieu d’elles, et trois des premières cornes furent arrachées devant cette corne… (nous savons qu’il s’agit de Rome. Vous voyez?) …et voici, elle avait des yeux comme des yeux d’homme… (rappelez-vous que cette corne n’a pas reçu de couronne, mais c’était une corne pleine de ruse. Les autres cornes se sont transformées en bêtes. Celle-ci était rusée, c’était un homme, un pape au lieu d’un païen) … et une bouche qui parlait avec arrogance”.
+
+195 Continuons à lire. Verset 9:
+
+> “Je regardais pendant que l’on plaçait des trônes… (c’est la fin des royaumes des nations. C’est le prophète qui parle. Rappelez-vous que chacune des choses qu’il a annoncées est arrivée, jusqu’à la dernière: nous le savons par l’histoire que nous étudions) … Et l’Ancien des jours s’assit. Son vêtement était blanc comme la neige… (vous savez qui c’était, d’après la vision de l’autre soir? C’était Jésus) … et les cheveux de sa tête étaient comme de la laine pure; son trône était comme des flammes de feu, et les roues comme un feu ardent. Un fleuve de feu coulait et sortait de devant lui. Mille milliers le servaient… (voici l’Eglise qui revient avec Lui) … — et dix mille millions se tenaient en sa présence… (il y a l’Epouse qui apparaît, et le reste du monde) … Les juges s’assirent, et les livres furent ouverts. Je regardais alors, à cause des paroles arrogantes que prononçait la corne; et tandis que je regardais, l’animal fut tué, et son corps fut anéanti, livré au feu pour être brûlé. Les autres animaux furent dépouillés de leur puissance, mais une prolongation de vie leur fut accordée jusqu’à un certain temps”.
+
+196 Les juges s’assirent, et les livres furent ouverts. C’est quand l’Epouse revient et s’assied pour le jugement. L’Eglise qui a été enlevée revient après ces trois ans et demi, et plus loin, dans l’Apocalypse, il nous est dit que:
+
+> “les autres morts ne revinrent point à la vie jusqu’à ce que les mille ans fussent accomplis”.
+
+Combien parmi vous l’ont lu? Nous l’avons lu maintes et maintes fois: “… ne revinrent point à la vie, jusqu’à ce que les mille ans fussent accomplis”. Jésus revient avec l’Epouse.
+
+197 Comme je l’ai déjà dit, tout va par trois. La première fois, Il vint racheter Son Epouse; la deuxième fois, Il vient enlever Son Epouse (comme dans un roman d’amour: Il vient un soir et l’enlève au monde, et elle vient à Sa rencontre dans les airs. C’est la venue secrète du Seigneur, vous voyez?) Quand Il vient la deuxième fois, c’est donc pour recevoir Son Epouse. La première
 
 LA REVELATION DE JESUS-CHRIST — LES DIX VIERGES 22
 fois, Il vient pour la racheter; la deuxième fois, pour la recevoir; — et la troisième fois, Il vient avec
@@ -1180,7 +915,7 @@ dons de guérison, le baptême au Nom du Seigneur Jésus, toutes ces choses qu�
 et tous ceux qui font partie de cette Epouse prendront la position de Juges 205 Voici quelqu’un qui s’avance à la barre: «Il y a eu une réunion à tel endroit, le lui avez-vous
 dit?».
 206 Le juge répond: «Oui, je le lui ai dit!». C’est écrit là, dans le livre, et vous ne pouvez pas le
-nier: même vos pensées y sont! Vous voyez? Vous ne pouvez pas le nier: «Oui, je lui ai dit qu’il
+ier: même vos pensées y sont! Vous voyez? Vous ne pouvez pas le nier: «Oui, je lui ai dit qu’il
 devait être baptisé!».
      — «A Jeffersonville, ici, au Tabernacle?».
      — «Oui, monsieur, je le savais!», avoue l’accusé.
@@ -1272,7 +1007,7 @@ l’intention de faire travailler des femmes comme cela. Elles doivent avoir des
 leurs enfants. Elles sont toutes de petits prédicateurs, chacune d’entre elles, mais c’est à la
 maison, avec leurs enfants, lorsqu’elles les élèvent, que doit s’exercer leur ministère pastoral.
 230 Il y a deux esprits, et ils se ressemblent tellement! C’est comme pour Eve: ils sont presque
-identiques. Satan lui dit: “Dieu a-t-Il réellement dit?…”. — “Oui!”. — “Dieu a-t-Il réellement dit?…”.
+identiques. Satan lui dit: “Dieu a-t-Il réellement dit?…”. — “Oui!”. — “Dieu a-t-Il réellement dit?…”.”
 — “Oui! c’est bien ce qu’Il a dit!”. — “Dieu a-t-Il réellement dit?…”. — “Oui!”.
 231 — “Dieu l’a dit, mais, oh certainement qu’Il ne nous condamnera pas si nous sommes
 baptisés dans les titres de Père, Fils et Saint-Esprit! Est-ce que ce n’est pas tout aussi bien?”.
@@ -1284,7 +1019,7 @@ vivre, tu dis que tu es une église chrétienne, mais tu es morte! C’est vrai!
 Saint-Esprit, cela n’existe pas.
      — “Oh, cela ne convient-il pas tout aussi bien?”.
 233 — “Non! Paul a dit que non. Il a dit: “Avez-vous reçu le Saint-Esprit depuis que vous avez
-cru?”. — “Nous ne savions pas que…”.
+cru?”. — “Nous ne savions pas que…”.”
 234 Il leur demanda: “Comment avez-vous été baptisés? Venez, et soyez rebaptisés au Nom de
 Jésus-Christ! Si moi-même ou un ange du Ciel venait vous enseigner autre chose, qu’il soit
 anathème!”.
@@ -1295,21 +1030,21 @@ partout dans le monde.
 séduit. Les vierges folles furent séduites. Vous comprenez?
 237 Restez avec la Parole! C’est le seul moyen. Restez bien avec Elle, ne vous en éloignez pas.
 Restez bien avec Elle, fiez-vous à ce que Dieu a dit de faire. Peu importe ce que quelqu’un d’autre
-dira, restez dans la ligne de Dieu.
+ dira, restez dans la ligne de Dieu.
 238 Donc les vierges folles ont perdu leur position, nous le savons. Elles passeront par le
 jugement. Et si elles ont déjà entendu la Vérité, elles sont condamnées. C’est vrai. Vous ne
 trouverez jamais Jésus ailleurs que là où vous L’avez quitté.
 239 — “Vous dites que les vierges folles pourraient être inspirées par le diable?”. — Parfaitement!
 — “Et continuer à vivre purement?”. — Certainement! Judas l’a fait; il fut sauvé et sanctifié; il
 prêcha la guérison Divine et chassa les démons. Il était tout à fait dans le vrai, il en était presque
-au même point que les autres. Mais quand il s’agit de l’expérience de Pentecôte, c’est là qu’il
+eau même point que les autres. Mais quand il s’agit de l’expérience de Pentecôte, c’est là qu’il
 montra sa couleur. Il ne reçut pas le Saint-Esprit; il tourna les talons et renia le Seigneur Jésus.
 C’est exactement ce que les églises ont fait. Quand on en est arrivé à la bénédiction de Pentecôte,
 elles s’en sont retirées. Oh, vous tous ici, ne le comprenez-vous pas?
 240 Ce soir, nous allons voir la grande Pierre de Faîte. Mais je crois qu’il nous reste encore un
 peu de temps, et j’aimerais encore voir quelque chose. Je veux vous montrer la marque de la bête.
 Prenons Apocalypse 13, juste un instant, et lisons ce qu’il va faire. Apocalypse 13.15: “Et il lui fut
-donné de donner la respiration à l’image de la bête (c’est-à-dire aux églises Protestantes…)”.
+donné de donner la respiration à l’image de la bête (c’est-à-dire aux églises Protestantes…)”.”
 241 Il eut ce pouvoir parce que les églises Protestantes avaient fait une image. Au travers du
 Conseil des Eglises, un lieu se prépare où toutes les communautés Protestantes devront se réunir.
 Combien connaissent ce grand bâtiment qui a été construit pour l’ensemble des églises du monde,
@@ -1993,6 +1728,3 @@ c’est cela même dont parle la Bible! Aujourd’hui, c’est ici: nous n’avo
 de questions! Oh, venez Le recevoir, mes chers amis! Venez, recevez-Le!
 365 Teddy, tandis que nous nous préparons pour le baptême (et je prie Dieu qu’Il prépare nos
 coeurs), joue-nous: “Je Le suivrai où Il me conduira”.
-
-
-    http://www.cmpp.ch

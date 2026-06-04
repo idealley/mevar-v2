@@ -1,556 +1,186 @@
-    SERIE 4, N° 5
+---
+source: "cmpp"
+sermon_id: "serie4no5"
+title: "Tourner les regards vers Jésus"
+subtitle: "29 décembre 1963, soir"
+date: "1963-12-29"
+year: 1963
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham parle du troisième Pull, de la guérison divine et de la puissance de la Parole. Il témoigne de miracles et exhorte à regarder à Jésus en ces temps de pression croissante."
+tags:
+  - "troisième Pull"
+  - "guérison divine"
+  - "foi"
+  - "Jésus-Christ"
+  - "Parole"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Paul"
+  - "Jean-Baptiste"
+  - "Hattie Wright"
+  - "Junie Schimpf"
+  - "Margie Morgan"
+  - "George Smith"
+  - "frère Blair"
+  - "frère Ungreen"
+  - "frère Autry"
+  - "frère Wood"
+  - "frère Wheeler"
+  - "frère Mann"
+  - "frère Evans"
+  - "frère Tom Simpson"
+  - "David Wood"
+  - "frère Sharrit"
+  - "Paul Malicki"
+  - "Jimmy Pool"
+  - "Becky Branham"
+  - "Meda Branham"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "San Antonio"
+  - "Texas"
+  - "Louisville"
+  - "Kentucky"
+  - "Californie"
+  - "Fresno"
+  - "Canada"
+  - "Norvège"
+  - "Afrique"
+themes:
+  - "Troisième Pull"
+  - "Guérison divine"
+  - "Foi"
+  - "Puissance de la Parole"
+  - "Préparation à la seconde venue"
+  - "Unité des croyants"
+  - "Persécution"
+pdf_url: "http://cmpp.ch/serie4no5.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Actes 20"
+  - "Apocalypse 13"
+  - "Esther 141"
+  - "Esther 176"
+  - "Hébreux 13"
+  - "Hébreux 4"
+  - "Jean 14"
+  - "Malachie 4"
+  - "Nombres 12"
+  - "Nombres 21"
+  - "Ésaïe 45"
+---
+SERIE 4, N° 5
 
-
-
-
-    LA PAROLE PARLEE
-          PAR
-
-WILLIAM MARRION BRANHAM
-
-
-
-
-
-  TOURNER LES REGARDS
-       VERS JESUS
- (Look aways to Jesus)
-
-
-
-     29 décembre 1963, soir
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
-
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    TOURNER LES REGARDS VERS JESUS    2
-
-
-
+LA PAROLE PARLEE PAR WILLIAM MARRION BRANHAM
 
 TOURNER LES REGARDS VERS JESUS
-    (Look aways to Jesus)
+(Look aways to Jesus)
 
+29 décembre 1963, soir
+Branham Tabernacle
+Jeffersonville — Indiana, U.S.A.
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+TOURNER LES REGARDS VERS JESUS
+(Look aways to Jesus)
 
-     29 décembre 1963, soir
-       Branham Tabernacle
+29 décembre 1963, soir
+Branham Tabernacle
 Jeffersonville, Indiana, U.S.A.
 
-
-
-
-
-
-1 Tout est changé lorsque Jésus vient. Il chasse tout simplement les ténèbres et répand la
-Lumière. Nous sommes reconnaissants pour cela.
-2 C’est maintenant la première fois que Becky joue ici, à l’église, et c’est un chant très
-approprié: Lorsque Jésus vint.
-3 Ainsi nous sommes reconnaissants de pouvoir être de nouveau ici ce soir et nous vous
-remercions de votre sympathique présence de ce matin. Et j’ai maintenant un petit sujet sur lequel
-j’aimerais parler dans quelques instants, mais je dois faire quelques annonces juste avant cela. Je
-suis un tout petit peu enroué, je pense que c’est simplement parce que j’ai trop parlé. Je sais que
-je prêche pendant longtemps, mais quand je reviens ici pour faire ces enregistrements qui durent
-une heure ou deux, c’est que ceux-ci doivent faire le tour du monde. Je vous remercie donc d’avoir
-été si patients avec nous ce matin.
-4 Maintenant il y a certaines choses que j’aimerais mentionner ici. Tout d’abord j’aimerais vous
-parler de quelque chose que j’avais prévu, et je veux demander à l’église si je peux changer cela
-ce soir. Demain nous devons rentrer à la maison, nous ne serons donc pas ici pour les voeux de
-Nouvel An mais nous penserons à vous. Je crois qu’il y aura une réunion ici dans la nuit de Nouvel
-An. Oui, c’est juste, ce sera un service de veille comme ils en ont l’habitude dans la nuit de Nouvel
-An. Nous aurions aimé rester mais nous ne pourrions pas rentrer à temps pour que les petits
-puissent aller à l’école. Et ma femme doit s’occuper de laver leurs vêtements (vous connaissez
-tout cela).
-5 Je veux donc remercier chacun de vous pour toutes ces bonnes choses que vous avez faites
-pour nous à l’occasion de Noël. Je pense aussi à toutes ces soeurs qui sont montées là pour nous
-apporter de la nourriture et toutes ces choses. Lorsque nous sommes arrivés, tout était déjà cuit et
-prêt à être mangé. Je vous remercie certainement pour tout cela. Que Dieu vous bénisse. Et je
-remercie l’église pour le bon d’achat qui me permet d’obtenir des vêtements ou un complet si je le
-désire. Chaque année ils me donnent un complet. Quelques-uns de mes amis viennent de m’en
-procurer un. Ainsi comme j’aurais besoin d’autres choses, comme de chemises et de sous-
-vêtements, j’aimerais, si cela est en ordre et que l’église soit d’accord, utiliser cet argent pour cela.
-En ce moment j’ai davantage besoin de cela que d’un complet.
-6 Je pense maintenant à ce jeune homme qui a chanté pour nous, c’est frère George Smith, il
-vient de Tucson là-bas et nous sommes allés dans leur église, l’Eglise Baptiste du Nouveau
-Testament. Son père est missionnaire. Je crois qu’il a environ sept églises là-bas dans le Vieux
-Mexique. Et ce sont certainement des gens très bien. Ses parents sont des gens très bien et
-George est un jeune homme très bien. J’ai seulement regretté qu’avant de s’asseoir il ne nous ait
-pas donné une parole de témoignage sur la grâce du salut de Christ dans sa vie.
-7 Et maintenant il n’y a pas très longtemps, avant de partir pour les réunions, j’ai promis que je
-viendrais ici premièrement pour enregistrer ces messages, puis que je partirais. C’est parce que je
-
-        http://www.cmpp.ch
-
-TOURNER LES REGARDS VERS JESUS 3
-devais procurer les enregistrements aux gens que j’ai dû venir ici pour enregistrer un message
-avant d’aller le prêcher ailleurs. Cela permet ainsi à celui qui fait les enregistrements de prendre
-les bandes quand nous partons.
-8 Maintenant j’ai l’intention de partir pour une grande tournée d’évangélisation, je ne pourrai
-donc plus faire cela, vous voyez. Et celui qui s’occupe des enregistrements devra simplement les
-prendre lorsque nous partirons. Et je pense qu’après tout… Ne doit-il pas y avoir cette semaine
-une réunion au sujet des enregistrements? De toute manière, je crois que frère Sothman est ici et
-qu’il représente frère Maguire. Je ne sais pas s’il est ici. Je pense que frère Fred est ici. Quelqu’un
-a dit que oui. Je crois qu’ils doivent avoir une réunion cette semaine (peut-être demain soir) au
-sujet des enregistrements. Nous en avons parlé l’autre soir là dans la pièce. Je pense que le
-temps est venu de faire quelque chose. Ils ont fait des arrangements à ce sujet. Donc à partir de
-maintenant, lors de réunions à l’extérieur, je délivrerai probablement des messages dont je n’aurai
-pas parlé ici au Tabernacle.
-9 Et maintenant je veux rendre grâces à Dieu pour ce témoignage de frère Blair. Il se trouve
-que ce soir frère et soeur Blair sont assis juste ici devant nous. Ce sont eux qui ont ce petit garçon
-qui… Maintenant souvenez-vous, lorsque le Seigneur m’a dit que … Frère Blair était en pleurs et il
-sanglotait. Son petit garçon avait eu le visage écrasé par une voiture qui s’était renversée, et il
-était très mal en point. Mais tandis que je priais, je vis que le petit garçon allait très bien.
-Naturellement frère Blair me demanda: «Ceci est-il le AINSI DIT LE SEIGNEUR?».
-     Je dis: «Frère Blair, ceci est AINSI DIT LE SEIGNEUR».
-10 Et ce soir frère Blair se trouve ici et nous sommes certainement reconnaissants de l’avoir
-parmi nous. Il a souffert de troubles nerveux et, il n’y a pas très longtemps, Satan l’a frappé
-rudement pour essayer de l’amener à ne plus me croire. Et pendant que Satan faisait cela, le
-Seigneur vint là et lui parla de ces choses et les lui révéla. Il est simplement venu le séparer de
-cela avant le temps. Et frère Blair est un homme très bien. Je veux que vous vous souveniez de
-lui. Il est en quelque sorte pris entre deux opinions et ne sait plus ce qu’il doit faire. Il ne sait tout
-simplement pas de quel côté se tourner; mais, frère Blair, j’ai confiance que vous êtes un grand
-serviteur de Christ, et je crois qu’Il a beaucoup de travail en réserve pour vous car les lumières
-sont en train de baisser. Etiez-vous ici ce matin? Très bien.
-11 Maintenant, je suppose que la prochaine fois que je vous verrai ce sera au printemps. D’ici-là
-nous saurons si, pendant cette période où j’aurais dû être en Norvège et dans les pays
-scandinaves, nous tiendrons ces réunions ici à Jeffersonville.
-12 Maintenant, juste avant de prendre le texte… Nous devons avoir une ligne de prière et
-beaucoup de gens se tiennent debout là dans les salles et près des murs, et je sais que c’est très
-dur pour vous. Moi-même j’ai souvent dû me tenir debout; je suis passé ici il y a un instant en
-amenant ma femme et j’ai remarqué les gens qui se tenaient près des portes et je pensais: «Qui
-dit que l’Evangile n’est pas la chose la plus attirante qui soit au monde?». Certainement qu’Il l’est
-et attire ceux qui y sont intéressés. Ceux qui ne sont pas intéressés ne viendront évidemment pas.
-Mais Jésus dit: “Lorsque j’aurai été élevé de la terre, j’attirerai tous les hommes à moi”. Comme
-cela est vrai!
-13 Et quand j’arrive ici, il y a tellement de choses à dire et j’ai tellement de notes ici au sujet de
-ce que je dois dire pendant cet instant que j’oublie simplement ce que je dois dire.
-14 Maintenant j’ai entendu dire que le père de frère Ungreen a été baptisé ce matin dans le Nom
-du Seigneur Jésus-Christ. Si soeur Ungreen et les autres sont là, je veux leur dire que je suis sûr
-que c’est une très grande chose pour eux car pendant des années ce fut une constante prière.
-Frère Ungreen, mon frère, où que vous soyez, que Dieu vous bénisse richement. Et si cela n’est
-pas juste, Dieu m’en fera répondre au jour du jugement. Je sais que c’est exact. J’en prends la
-responsabilité. C’est tout à fait exact car c’est la vérité.
-15 Vous dites: «Quelle différence cela fait-il?». Cela fit une différence pour Paul. Il leur demanda
-comment ils avaient été baptisés. Ils dirent qu’ils avaient déjà été baptisés par Jean, l’homme qui
-avait baptisé Jésus. Paul dit qu’ils devaient être baptisés à nouveau dans le Nom de Jésus-Christ.
-Et dans la Bible il n’y eut pas une seule personne qui ait été baptisée dans le nom du Père, Fils et
-Saint-Esprit. Jusqu’à l’organisation de l’église catholique au Concile de Nicée, personne ne fut
-baptisé ainsi. Ce fut là que, pour la première fois, on baptisa en utilisant les titres.
-16 L’autre jour je parlais avec quelqu’un. Je dis: «Bien, si le Seigneur Jésus…». C’est Son Nom!
-
-        http://www.cmpp.ch
-
-TOURNER LES REGARDS VERS JESUS 4
-     Il dit: «Eh bien…».
-     Je dis: «Si quelqu’un vient vers vous…».
-     Il dit: «Je ne crois pas que cela fasse de différence».
-17 Je voulais simplement l’attraper dans sa propre doctrine. Je dis: «Si un homme vient vers
-vous et dit: Je suis baptisé dans le nom de la Rose de Sharon, le Lis de la vallée et l’Etoile du
-matin, diriez-vous amen! à cela?».
-     Il dit: «Certainement pas».
-     Je dis: «Le baptiseriez-vous à nouveau?». Il dit: «Oui, certainement».
-     Je dis: «Comment le baptiseriez-vous?».
-     Il dit: «Je le baptiserais au nom du Père, Fils et Saint-Esprit».
-18 Et je dis: «C’est de cette manière que je te baptiserais, dans le Nom du Père, Fils et
-Saint-Esprit. Maintenant, Rose de Sharon, Lis de la vallée et Etoile du matin ne sont pas des
-noms».
-     Il dit: «C’est juste, ce sont des titres».
-     Je dis: «Père, Fils et Saint-Esprit sont aussi des titres».
-19 Je les baptise donc dans le Nom du Père, Fils et Saint-Esprit, et le Nom du Père, Fils et
-Saint-Esprit est le Seigneur Jésus-Christ. Exactement. C’est ce que je lui dis, et il le saisit. Il
-s’agissait de frère Joseph Mattsson Boze de Chicago, la personne la plus difficile à convaincre. Je
-suppose que lorsque j’irai en Afrique, je devrai baptiser à nouveau trois ou quatre mille indigènes.
-20 Nous sommes donc reconnaissants pour la lumière de l’Evangile. Lorsqu’Il était sur terre,
-Jésus dit: “Je dis ce que j’entends”. Maintenant, pendant les dix ou quinze prochaines minutes je
-vais simplement dire quelque chose avant de prendre mon texte qui sera très court, puis nous
-aurons la ligne de prière.
-21 Dans mon ministère, j’en suis arrivé à un point où j’ai quelque chose à dire. Jésus déclara que
-ce qu’Il entendait, c’était ce qu’Il disait. Et Il dit: “Je vous ai appelés mes amis et un ami dit toutes
-choses à son ami”.
-22 Dans Actes 20.27 Paul dit: “Je n’ai mis aucune réserve à annoncer tout le conseil de Dieu”. Et
-puissé-je faire de même ce soir et dire la même chose que ce grand saint d’autrefois, puissé-je
-vous apporter le meilleur de ma connaissance et ne pas manquer de vous déclarer tout le conseil
-de Dieu.
-23 L’autre jour quelqu’un faisait jouer une de nos bandes, et simplement parce que cela
-dérangeait une personne, ils ont tiré à travers la fenêtre et blessé une femme. Aussi, un de ces
-jours, je vais sceller mon témoignage… Cependant lorsque viendra le moment, alors je serai prêt.
-Rien ne pourra me faire de mal jusqu’à ce que vienne mon temps.
-24 Nous croyons en ce même Evangile, nous croyons la Bible telle qu’elle est écrite. Cet
-Evangile est bien ajusté. Or lorsque le canon est bien réglé et ajusté et qu’il atteint le but la
-première fois, il atteindra aussi le but la deuxième fois, et toutes les autres fois.
-25 Si un arbre ou un cep pousse une branche qui porte un certain fruit, la prochaine fois que le
-cep poussera une branche, il portera la même sorte de fruit.
-26 Et Jésus est le Cep, nous sommes les branches et la première branche qui a poussé sur ce
-Cep (l’Eglise), elle écrivit le Livre des Actes. Cette première branche fut baptisée dans le Nom de
-Jésus-Christ. Ils avaient parmi eux le Dieu vivant qui fit au milieu d’eux les mêmes choses qu’Il fit
-lorsqu’Il était sur terre. Ainsi donc les gens remarquèrent que, bien qu’ils étaient ignorants et ne
-connaissaient pas ces choses, ils avaient été avec Jésus, car Sa vie était en eux.
-27 Comme je l’ai déjà dit: «Si j’avais l’esprit de Beethoven en moi, j’écrirais des chants. Si
-Beethoven vivait en moi, je serais Beethoven». Vous voyez? Si Shakespeare vivait en moi, je
-serais Shakespeare. Si Shakespeare vivait en moi, j’écrirais des poèmes, des pièces et toutes ces
-choses. Et si Christ vit en moi, je ferai les oeuvres de Christ. Il doit en être ainsi. Et qu’est-ce
-que Christ? La Parole. Il dit: “Si vous demeurez en moi et que mes paroles demeurent en vous,
-demandez ce que vous voudrez et cela vous sera accordé”, car cette Parole-là a simplement
-besoin de la Lumière, et la Lumière La fait vivre.
-28 Maintenant je vais donc vous dire quelque chose dont je ne vous ai pas encore parlé. C’est
-
-        http://www.cmpp.ch
-
-TOURNER LES REGARDS VERS JESUS 5
-cette chose que nous avons attendue si longtemps tout au long de ces années, pendant quatre ou
-cinq ans ou même plus: le troisième Pull a maintenant été confirmé et je suis sûr que vous savez
-tous de quoi il s’agit.
-29 Maintenant souvenez-vous qu’il n’y aura jamais d’imitation de cela car cela ne peut pas être.
-Cela ne le peut pas. Il est maintenant venu à l’existence et j’ai été averti que cela arriverait
-prochainement afin que ce troisième Pull puisse identifier Sa présence parmi vous. Vous voyez?
-Mais il ne sera pas utilisé de manière importante avant que ce Conseil ne renforce sa
-pression. Et quand cela se fera, quand cela se fera… Les Pentecôtistes et les autres peuvent
-presque imiter tout ce qui se fait, mais lorsque le temps viendra, lorsque la pression se fera plus
-forte, alors ce que vous avez vu temporairement, vous le verrez manifesté dans la plénitude
-de sa puissance.
-30 Ainsi je dois continuer à évangéliser tout comme j’ai été commissionné pour le faire au début;
-je dois continuer. Vous avez donc eu la Parole et vous savez ce que vous devez rechercher et
-comment vous devez vous comporter. Je dois continuer à évangéliser et vous, mes amis,
-gardez votre calme et continuez simplement d’avancer, car l’heure où quelque chose sera fait
-approche rapidement.
-31 Il se peut que vous voyiez arriver des choses étranges (rien en rapport avec le péché, ce n’est
-pas ce que je veux dire); je pense à quelque chose d’étrange par rapport à notre direction
-habituelle. En effet je suis arrivé à cette phase de mon ministère où je dois observer ce point et
-attendre le temps pour utiliser cela. Mais cela doit être utilisé! Et chacun sait qu’aussi certainement
-que le premier Pull fut identifié, le second l’a aussi été. Et si vous y réfléchissez sérieusement,
-vous qui êtes spirituels (comme le dit la Bible: celui qui a de la sagesse…), vous verrez que le
-troisième est correctement identifié. Nous savons où il se trouve. Le troisième Pull est donc ici.
-32 Ceci est tellement sacré que, comme Il me l’a dit au début, je ne dois pas beaucoup en parler.
-Il me dit: «N’en parle pas!». Vous souvenez-vous de cela? C’était il y a bien des années. Ce Pull-là
-parlait par lui-même, mais j’essayai de le leur expliquer et je fis une erreur. Ce troisième Pull sera
-la chose qui, à mon avis (je ne dis pas que c’est le Seigneur qui me dit ceci), introduira “la foi de
-l’enlèvement” pour le départ, vous voyez? Et je dois rester tranquille juste un court moment.
-33 Maintenant, vous tous qui êtes ici et vous qui écoutez cet enregistrement, souvenez-vous qu’il
-est possible que vous voyiez un changement dans mon ministère, une sorte de diminution. Non un
-essor mais une diminution. Nous sommes juste dans l’âge maintenant et cela ne peut pas aller
-plus loin. Nous devons attendre ici juste une minute jusqu’à ce que ceci arrive et mette un terme à
-cela, alors le temps viendra. Mais tout cela est entièrement identifié.
-34 Il vient un temps pour cette nation où elle exercera tout le pouvoir qu’avait la bête
-auparavant, lorsque la Rome païenne devint la Rome papale. C’est ce que cette nation fera.
-Apocalypse 13 explique entièrement cela. La bête qui avait deux cornes semblables à un agneau
-sortit de la terre. L’autre bête sortit de l’eau, de l’abondance et de la multitude des peuples. Cette
-bête aux cornes semblables à un agneau sortit d’un lieu où il n’y avait personne.
-35 Un agneau représente une religion — l’Agneau de Dieu. Souvenez-vous que cette bête parlait
-comme un agneau, c’était un agneau; mais après qu’il eut reçu le pouvoir, il parla comme un
-dragon et exerça tout le pouvoir qu’avait le dragon avant lui. Le dragon est toujours Rome. Ne
-voyez-vous donc pas ceci: la dénomination romaine, une dénomination protestante marquée, une
-image faite à la bête fabriquant un pouvoir qui forcera tous les protestants à s’unir. Vous
-devrez être dans ce Conseil des églises, sinon vous n’aurez plus de communion ou… Eh bien, il
-en est presque ainsi maintenant. Vous ne pouvez aller prêcher dans une église si vous n’avez pas
-de carte de membre ou d’autre moyen d’identification.
-36 Et dorénavant, des personnes comme nous seront séparées de tout cela. C’est exact car
-nous ne pourrons pas faire cela. Tout se resserre de plus en plus. Lorsque ce temps viendra et
-que la pression arrivera à un point tel que vous serez mis dehors, alors veillez (prenez garde
-à la chose que je vais vous dire dans quelques minutes), observez alors le troisième Pull! Il
-n’aura qu’une signification, aussi bien pour ceux qui sont totalement perdus que pour l’Epouse et
-pour l’Eglise.
-37 Nous en sommes maintenant plus proches qu’il ne semble. Je ne sais pas quand cela
-viendra, mais c’est très, très proche. Il se peut que je construise une plate-forme pour que
-quelqu’un d’autre y marche et que je sois enlevé avant qu’elle ne soit terminée. Je ne sais
-
-        http://www.cmpp.ch
-
-TOURNER LES REGARDS VERS JESUS 6
-pas. Et il se peut que le Saint-Esprit vienne la semaine prochaine et amène Jésus-Christ. Il se peut
-qu’Il vienne la semaine prochaine. Il peut même venir ce soir! Je ne sais pas quand Il viendra. Il ne
-nous le dit pas. Mais je crois réellement que le temps est tellement proche que je ne mourrai pas
-dans un âge avancé. J’ai déjà cinquante-quatre ans et je ne pourrai atteindre un âge avancé avant
-qu’Il ne soit là. Je peux être tué par balle ou de n’importe quelle autre manière, mais je ne mourrai
-pas simplement de vieillesse. J’aimerais dire quelque chose que je n’ai jamais dite auparavant.
-Tout est arrivé exactement selon l’Ecriture, selon ce qu’Il a dit il y a trente-trois ans sur la rivière là
-en bas (c’était en 1933, plutôt). Il se peut que ce ne soit pas moi qui présente Jésus-Christ au
-monde, mais le Message le fera. «Car de même que Jean-Baptiste fut envoyé comme
-précurseur de la première venue, ainsi le Message est envoyé comme précurseur de la
-seconde venue». Et Jean dit: “Voici l’Agneau de Dieu qui ôte le péché du monde”. Ainsi tout s’est
-accompli de manière parallèle et je sais qu’il en sera ainsi. Le Message ira de l’avant.
-38 Tout au long du chemin il s’est passé de grandes choses. Ce matin on m’a interviewé dans la
-pièce là-bas, en particulier un jeune homme du nom d’Autry. Il est probablement encore ici ce soir.
-Il vient de San Antonio dans le Texas. Il est venu me demander quand nous irions à Dallas, et si
-un soir nous pourrions faire un saut dans leur tabernacle. Ils vont s’occuper de cela dans les jours
-qui viennent et ils vont voir si nous pourrions le faire. Je ne suis jamais allé à San Antonio depuis
-cette première réunion.
-39 Je me souviens de cette première réunion que j’ai eue à San Antonio. Je crois que j’étais
-avec frère Coats et l’Ecole internationale de la Bible et je ne me souvenais plus dans quel
-auditorium devait avoir lieu le service. Je crois que le premier soir ou le deuxième (je crois que
-c’était plutôt le premier), alors que je me dirigeais vers la plate-forme, quelqu’un assis à l’arrière de
-la salle se leva et commença à parler en langues à la vitesse d’une mitraillette. Et à peine s’était-il
-assis qu’un autre monta sur la plate-forme et donna l’interprétation. Je m’arrêtai à ce qu’il avait dit
-et lui demandai: «Connaissez-vous cet homme?».
-40 Il dit: «Certainement pas».
-     Je dis: «Comment êtes-vous venu ici?».
-     Il dit: «Les gens pour lesquels je travaille étaient ici ce soir et ils m’ont amené». (C’était un
-cowboy).
-     Et je dis: «Que faites-vous? Le connaissez-vous?». Il dit: «Non, certainement je ne l’ai jamais
-vu».
-41 Et je dis: «Qui êtes-vous?». C’était un commerçant de la ville. Avant d’en avoir appris
-davantage, j’étais un peu sceptique au sujet du parler en langues. Je pensais que c’était charnel et
-cela aurait pu l’être; mais lorsque ce fut prononcé, l’interprétation fut exactement selon ce qu’avait
-dit l’Ange du Seigneur là-bas sur la rivière, onze ans auparavant: «De même que Jean-Baptiste fut
-envoyé pour préparer la première venue de Christ, tu es envoyé pour préparer Sa seconde
-venue». C’était cela. Cet Ange, cette Lumière (qui a été entièrement identifiée à la fois par l’Eglise,
-par la Parole, la science et toutes ces choses), apparut pour la première fois en public vers deux
-heures de l’après-midi. Elle se tenait juste là, au-dessus de l’endroit où je me trouvais dans l’eau,
-près du pont, tout près de Spring Street. Ceci s’est passé il y a bien des années. Et ce qu’il disait
-là s’était accompli à la lettre.
-42 Ce matin, ce frère me disait qu’il avait épousé une jeune fille qui n’est pas de cette église;
-c’est la fille de soeur Noid et je ne sais pas si… Etes-vous ici, frère Autry? Je ne sais pas, il venait
-de San Antonio. Je ne sais pas s’il est ici, il était ici ce matin. Et il me disait je crois que son grand-
-père, qui avait été épileptique toute sa vie, avait été amené ici lors de cette réunion.
-43 C’était tout au début du ministère lorsque par le don du discernement ils mettaient leur main
-dans la mienne, et que je leur disais ce qu’ils avaient. Et je vous avais dit (certains en sont peut-
-être témoins ce soir) qu’il arriverait que je connaîtrais même les secrets de leur coeur. Vous
-souvenez-vous que j’avais dit cela avant même que cela n’arrive? Environ cinq ou six ans plus
-tard, cela arriva au Canada pour la première fois. C’est ce qui arriva. L’Ange dit alors: «Si tu
-continues à être sincère, cela continuera simplement d’arriver». Et maintenant la troisième chose
-s’est passée. Cela continue simplement d’aller de l’avant.
-44 Ce frère dit qu’on amena son père dans la ligne, qu’on parla de son épilepsie et de ces
-choses et qu’on pria pour lui. Cela s’est passé il y a environ seize ou dix-sept ans et il dit que
-depuis il n’a jamais plus eu d’attaque. Il approche des quatre-vingt-cinq ans et n’a jamais eu
-
-        http://www.cmpp.ch
-
-TOURNER LES REGARDS VERS JESUS 7
-d’attaque depuis lors. Qu’est-ce? Jésus-Christ Le même hier, aujourd’hui et pour toujours.
-45 Margie Morgan est-elle dans la salle? Soeur Margie Morgan est une infirmière qui était rongée
-par le cancer. Combien se souviennent de soeur Morgan? Est-elle ici ou n’a-t-elle pas pu venir à
-cause de son service? Elle était sur la liste des cancéreux de Louisville; cette femme était censée
-être déjà morte depuis environ seize ou dix-sept ans. Lorsque l’avoué (un avoué chrétien), Jim
-Tom Robinson, entendit parler de cela, il alla à l’hôpital baptiste afin de vérifier si cela était juste.
-Son père faisait partie du Bureau (il était administrateur à l’hôpital baptiste) et ils firent des
-recherches. Cette femme était censée être morte depuis des années et voilà qu’elle était infirmière
-là-bas dans un hôpital à Jeffersonville. Alors qu’elle se trouvait dans cet état et qu’ils devaient la
-soutenir, elle n’avait même pas toute sa conscience; mais c’était AINSI DIT LE SEIGNEUR et elle
-est en vie.
-46 Elle est allée travailler comme infirmière à Lousiville et dans cet hôpital se trouvait quelqu’un
-de la Schimpf’s Candy… Monsieur Schimpf est-il ici ce soir? J’aimerais qu’il dise s’il est ici. Sonny
-Schimpf est un homme qui a une santé de fer. Souvent quand je… Je n’aime pas dire cela mais
-c’est la vérité. Papa avait l’habitude de me donner de l’argent si je travaillais toute la semaine.
-J’allais donc en ville et je déposais ma bicyclette près de chez frère Mike Eagan (c’est un des
-administrateurs d’ici). J’allais avec Jimmy Pool (je crois que son fils est ici ce soir), Jim, Ernest
-Fisher et moi, nous descendions en ville et, pour un nickel, nous allions voir un de ces films muets.
-Nous avions environ huit ou dix ans. Il y avait ce vieil acteur William S. Hart qui jouait dans les
-films muets (beaucoup parmi vous, les jeunes, ne l’avez pas connu). Je ne savais pas lire et je
-regardais simplement ce qui se passait. Je devais tout épeler et je ne m’en sortais pas, aussi je
-me contentais de regarder ce qu’il faisait. Il me restait souvent un deuxième nickel. Combien se
-souviennent avoir eu un cornet de crème glacée pour un penny? C’est juste. On me donnait trois
-cornets à la crème et il me restait deux pennies pour des saucisses rouges. Je ne pouvais pas
-garder les cornets à la crème, aussi je les mangeais et il me restait deux pennies. Cela
-représentait presque une demi-livre de ces saucisses. C’est Schimpf qui faisait ces choses.
-J’entrais là-dedans, m’asseyais et regardais William S. Hart.
-47 Et ce jeune homme (il était un peu plus âgé que moi) fut frappé par la maladie et cinq
-spécialistes renommés de Louisville l’examinèrent. Il ne pesait plus que quarante-cinq livres
-environ et il était mourant. Miss Morgan le soignait et il était dans une condition déplorable. Il
-souffrait de toutes sortes de maux: ses poumons étaient partis, sa gorge était partie, ses petits
-bras n’étaient pas plus gros que cela, et il était étendu là, mourant. Et Miss Morgan fut engagée
-pour ce travail et elle lui dit: «Je fus une fois une patiente atteinte du cancer», et elle commença à
-lui raconter son histoire.
-48 Il dit: «Comment dites-vous? Billy Branham? Eh bien, je lui ai vendu bon nombre de saucisses
-et de cornets de crème glacée. Je me demande s’il viendrait prier pour moi».
-49 Et j’allai prier pour Junie Schimpf et si vous aimeriez parler avec lui, il habite juste là en bas
-dans la rue, une porte ou deux après le théâtre de Léo; c’est la maison Schimpf’s Candy. Vous
-savez tous où cela se trouve. Oh, c’est un des établissements les plus vieux de Jeffersonville. Et
-tandis qu’il était étendu là, mourant et que cinq spécialistes ne lui donnaient plus que quelques
-heures à vivre, ce fut: «AINSI DIT LE SEIGNEUR, tu ne mourras pas, mais tu me vendras de
-nouveau des saucisses rouges au comptoir!».
-50 Je savais qu’il allait bien mais j’avais oublié cela depuis longtemps. Ma femme et moi-même
-étions descendus acheter quelques bonbons lorsque nous sommes venus ici, à Noël. Et je ne sais
-pas comment nous avons pensé à Schimpf car nous avions l’habitude d’aller acheter cela dans un
-de ces drugstores, mais nous nous arrêtâmes en face de chez Schimpf.
-51 Lorsque j’entrai, sa soeur me regarda et dit: «Eh bien, frère Branham, vous souvenez-vous de
-Junie?».
-52 Je dis: «Oui». Et il y avait là un bonhomme dont la santé était apparemment tout ce qu’il y a
-de plus excellente. Je me dirigeai vers le comptoir, regardai ce qui s’y trouvait et dis: «J’aimerais
-une livre de ces saucisses rouges».
-53 Et il dit: «Oui, Monsieur». Comme sa soeur était en train de servir ma femme, il sortit les
-saucisses rouges et je dis: «J’avais l’habitude d’en manger il y a bien longtemps, lorsque j’allais au
-cinéma». J’avais la tête inclinée.
-54 Et il dit: «Oui, beaucoup d’enfants achètent cela, même aujourd’hui. C’est mon père qui les
-
-        http://www.cmpp.ch
-
-TOURNER LES REGARDS VERS JESUS 8
-faisait, il s’occupait de cela». Je dis: «Je les aime vraiment». Après qu’il me les eut préparées et
-qu’il me les eut tendues, il dit: «Désirez-vous autre chose?».
-55 Je dis: «Je ne sais pas…» et je relevai la tête.
-     Il dit: «Frère Branham!».
-     Je dis: «Ce sont là les saucisses rouges dont je vous ai dit: AINSI DIT LE SEIGNEUR! il y a
-environ cinq ans».
-56 Il dit: «Frère Branham, je suis complètement guéri et il ne me reste aucune séquelle. Je suis
-seulement un peu dur d’une oreille». Je crois qu’il est dans la cinquantaine. «Je suis un peu dur
-d’une oreille car ils m’ont donné tellement d’antibiotiques lorsque j’étais là-bas».
-57 Grâce stupéfiante de Jésus-Christ! Il me reste peu de temps pour dire encore autre chose,
-mais je veux faire une remarque. Combien se souviennent des écureuils? Très bien, cela se
-rapportait à un passage de l’Ecriture embarrassant et que je n’avais jamais pu comprendre de ma
-vie. Il y en a encore un autre qui m’intriguait. Ce fut que Moïse puisse suggérer à Dieu une
-manière d’agir meilleure que la Sienne. C’est lorsque Moïse dit: “Les gens diront: Votre Dieu a été
-capable de vous faire sortir mais non de vous garder”. Et Moïse se jeta lui-même dans la brèche;
-et j’ai découvert plus tard que c’était Christ en Moïse qui défendait le peuple. Ainsi en est-il de
-cette parole de l’Ecriture (je ne voulais jamais prêcher là-dessus): “Si vous dites à cette montagne
-de se déplacer…” et vous connaissez l’histoire, je passerai donc là-dessus.
-58 Je voudrais maintenant dire combien peu je savais à quoi cela mènerait. Je pense que frère
-Wood, frère Fred et ceux qui étaient présents lorsque ceci arriva ou juste après que cela soit
-arrivé, sont ici dans la salle. Frère Rodney et frère Charlie (du Kentucky), le frère de soeur Wood
-et tous les autres étaient présents lorsque cela arriva là-bas dans le Kentucky. C’était la seconde
-fois que ceci arrivait: simplement appeler à l’existence des choses qui n’existent pas. Par cela, ce
-qui a été dit a chaque fois été confirmé par les Ecritures et nous en avons été encouragés.
-59 La troisième fois que cela arriva, ce fut avec Hattie Wright. Hattie est-elle ici ce soir? C’est la
-soeur d’Edith. Combien connaissent Hattie Wright? Frère Wood et moi-même étions assis là
-lorsque cela arriva. Le Saint-Esprit dit: «Donne-lui ce qu’elle désire»; et nous étions en train de
-parler de la manière dont ces écureuils étaient venus à l’existence. Et je dis: «La seule chose qu’il
-y ait, c’est qu’Il est Jéhovah-Jiré».
-60 Lorsqu’Abraham eut besoin d’un bélier, Dieu le pourvut d’un bélier. Et Il nous pourvut
-d’écureuils. Il pouvait appeler un écureuil à l’existence tout comme Il le fit lorsqu’il appela le bélier
-à l’existence, car Il est le Créateur. Abraham ne l’avait aucunement demandé; il continuait
-simplement à faire ce qu’il devait. Mais cela montrait que Jéhovah-Jiré était là. Et lorsque je parlai
-de cela, c’était la première fais que ce troisième Pull se manifestait avec un être humain. Il
-s’agissait de cette humble petite femme qui gagnait environ deux cents dollars par an pour vivre;
-c’était là tout ce qu’elle retirait de sa petite ferme (son mari était mort et ses deux enfants étaient
-devenus en quelque sorte sauvages). Et pourtant elle fit un don de vingt dollars pour la
-construction de ce tabernacle. Et ce matin-là, Meda m’avait donné vingt dollars pour faire les
-commissions, et je voulus les prendre pour rendre à cette femme son argent mais elle ne le voulut
-pas. Or le jour où je dis: «La seule chose que je sache, c’est qu’Il est toujours Jéhovah-Jiré»,
-Hattie était assise là derrière et elle prononça la parole qu’il fallait.
-61 Elle dit: «Ce n’est rien d’autre que la vérité». Et lorsqu’elle eut dit cela (frère Banks Wood était
-une des personnes présentes), on sentit venir quelque chose de particulier dans la chambre. Et le
-Saint-Esprit dit (c’était la même Voix qui avait parlé pour les écureuils): «Donne-lui ce qu’elle
-demandera».
-62 Je dis: «Soeur Hattie, ceci est un témoignage devant Dieu. Maintenant, s’il n’y a aucun doute
-dans votre esprit, demandez ce que vous voulez: si cela n’est pas déposé sur vos genoux, alors je
-suis un faux prophète». Elle dit: «Frère Branham… (tout le monde pleurait) que demanderai-je?».
-63 Je dis: «Vous êtes pauvre et vous vivez sur la colline là-bas; vous n’avez pas d’argent, vous
-pourriez en demander. Vous avez ici une petite soeur infirme, Edith, pour laquelle nous prions
-depuis des années: vous pourriez demander sa guérison». Je dis encore: «Votre père et votre
-mère sont vieux et malades, vous pourriez demander leur guérison. Quoi que vous demandiez,
-soeur Hattie, voyez maintenant si cela ne s’accomplit pas. C’est cette même Voix qui m’a dit:
-Donne-lui ce qu’elle demande».
-
-        http://www.cmpp.ch
-
-TOURNER LES REGARDS VERS JESUS 9
+1 Tout est changé lorsque Jésus vient. Il chasse tout simplement les ténèbres et répand la Lumière. Nous sommes reconnaissants pour cela.
+2 C’est maintenant la première fois que Becky joue ici, à l’église, et c’est un chant très approprié: Lorsque Jésus vint.
+3 Ainsi nous sommes reconnaissants de pouvoir être de nouveau ici ce soir et nous vous remercions de votre sympathique présence de ce matin. Et j’ai maintenant un petit sujet sur lequel j’aimerais parler dans quelques instants, mais je dois faire quelques annonces juste avant cela. Je suis un tout petit peu enroué, je pense que c’est simplement parce que j’ai trop parlé. Je sais que je prêche pendant longtemps, mais quand je reviens ici pour faire ces enregistrements qui durent une heure ou deux, c’est que ceux-ci doivent faire le tour du monde. Je vous remercie donc d’avoir été si patients avec nous ce matin.
+4 Maintenant il y a certaines choses que j’aimerais mentionner ici. Tout d’abord j’aimerais vous parler de quelque chose que j’avais prévu, et je veux demander à l’église si je peux changer cela ce soir. Demain nous devons rentrer à la maison, nous ne serons donc pas ici pour les voeux de Nouvel An mais nous penserons à vous. Je crois qu’il y aura une réunion ici dans la nuit de Nouvel An. Oui, c’est juste, ce sera un service de veille comme ils en ont l’habitude dans la nuit de Nouvel An. Nous aurions aimé rester mais nous ne pourrions pas rentrer à temps pour que les petits puissent aller à l’école. Et ma femme doit s’occuper de laver leurs vêtements (vous connaissez tout cela).
+5 Je veux donc remercier chacun de vous pour toutes ces bonnes choses que vous avez faites pour nous à l’occasion de Noël. Je pense aussi à toutes ces soeurs qui sont montées là pour nous apporter de la nourriture et toutes ces choses. Lorsque nous sommes arrivés, tout était déjà cuit et prêt à être mangé. Je vous remercie certainement pour tout cela. Que Dieu vous bénisse. Et je remercie l’église pour le bon d’achat qui me permet d’obtenir des vêtements ou un complet si je le désire. Chaque année ils me donnent un complet. Quelques-uns de mes amis viennent de m’en procurer un. Ainsi comme j’aurais besoin d’autres choses, comme de chemises et de sous-vêtements, j’aimerais, si cela est en ordre et que l’église soit d’accord, utiliser cet argent pour cela. En ce moment j’ai davantage besoin de cela que d’un complet.
+6 Je pense maintenant à ce jeune homme qui a chanté pour nous, c’est frère George Smith, il vient de Tucson là-bas et nous sommes allés dans leur église, l’Eglise Baptiste du Nouveau Testament. Son père est missionnaire. Je crois qu’il a environ sept églises là-bas dans le Vieux Mexique. Et ce sont certainement des gens très bien. Ses parents sont des gens très bien et George est un jeune homme très bien. J’ai seulement regretté qu’avant de s’asseoir il ne nous ait pas donné une parole de témoignage sur la grâce du salut de Christ dans sa vie.
+7 Et maintenant il n’y a pas très longtemps, avant de partir pour les réunions, j’ai promis que je viendrais ici premièrement pour enregistrer ces messages, puis que je partirais. C’est parce que je devais procurer les enregistrements aux gens que j’ai dû venir ici pour enregistrer un message avant d’aller le prêcher ailleurs. Cela permet ainsi à celui qui fait les enregistrements de prendre les bandes quand nous partons.
+8 Maintenant j’ai l’intention de partir pour une grande tournée d’évangélisation, je ne pourrai donc plus faire cela, vous voyez. Et celui qui s’occupe des enregistrements devra simplement les prendre lorsque nous partirons. Et je pense qu’après tout… Ne doit-il pas y avoir cette semaine une réunion au sujet des enregistrements? De toute manière, je crois que frère Sothman est ici et qu’il représente frère Maguire. Je ne sais pas s’il est ici. Je pense que frère Fred est ici. Quelqu’un a dit que oui. Je crois qu’ils doivent avoir une réunion cette semaine (peut-être demain soir) au sujet des enregistrements. Nous en avons parlé l’autre soir là dans la pièce. Je pense que le temps est venu de faire quelque chose. Ils ont fait des arrangements à ce sujet. Donc à partir de maintenant, lors de réunions à l’extérieur, je délivrerai probablement des messages dont je n’aurai pas parlé ici au Tabernacle.
+9 Et maintenant je veux rendre grâces à Dieu pour ce témoignage de frère Blair. Il se trouve que ce soir frère et soeur Blair sont assis juste ici devant nous. Ce sont eux qui ont ce petit garçon qui… Maintenant souvenez-vous, lorsque le Seigneur m’a dit que … Frère Blair était en pleurs et il sanglotait. Son petit garçon avait eu le visage écrasé par une voiture qui s’était renversée, et il était très mal en point. Mais tandis que je priais, je vis que le petit garçon allait très bien. Naturellement frère Blair me demanda: «Ceci est-il le AINSI DIT LE SEIGNEUR?». Je dis: «Frère Blair, ceci est AINSI DIT LE SEIGNEUR».
+10 Et ce soir frère Blair se trouve ici et nous sommes certainement reconnaissants de l’avoir parmi nous. Il a souffert de troubles nerveux et, il n’y a pas très longtemps, Satan l’a frappé rudement pour essayer de l’amener à ne plus me croire. Et pendant que Satan faisait cela, le Seigneur vint là et lui parla de ces choses et les lui révéla. Il est simplement venu le séparer de cela avant le temps. Et frère Blair est un homme très bien. Je veux que vous vous souveniez de lui. Il est en quelque sorte pris entre deux opinions et ne sait plus ce qu’il doit faire. Il ne sait tout simplement pas de quel côté se tourner; mais, frère Blair, j’ai confiance que vous êtes un grand serviteur de Christ, et je crois qu’Il a beaucoup de travail en réserve pour vous car les lumières sont en train de baisser. Etiez-vous ici ce matin? Très bien.
+11 Maintenant, je suppose que la prochaine fois que je vous verrai ce sera au printemps. D’ici-là nous saurons si, pendant cette période où j’aurais dû être en Norvège et dans les pays scandinaves, nous tiendrons ces réunions ici à Jeffersonville.
+12 Maintenant, juste avant de prendre le texte… Nous devons avoir une ligne de prière et beaucoup de gens se tiennent debout là dans les salles et près des murs, et je sais que c’est très dur pour vous. Moi-même j’ai souvent dû me tenir debout; je suis passé ici il y a un instant en amenant ma femme et j’ai remarqué les gens qui se tenaient près des portes et je pensais: «Qui dit que l’Evangile n’est pas la chose la plus attirante qui soit au monde?». Certainement qu’Il l’est et attire ceux qui y sont intéressés. Ceux qui ne sont pas intéressés ne viendront évidemment pas. Mais Jésus dit: “Lorsque j’aurai été élevé de la terre, j’attirerai tous les hommes à moi”. Comme cela est vrai!
+13 Et quand j’arrive ici, il y a tellement de choses à dire et j’ai tellement de notes ici au sujet de ce que je dois dire pendant cet instant que j’oublie simplement ce que je dois dire.
+14 Maintenant j’ai entendu dire que le père de frère Ungreen a été baptisé ce matin dans le Nom du Seigneur Jésus-Christ. Si soeur Ungreen et les autres sont là, je veux leur dire que je suis sûr que c’est une très grande chose pour eux car pendant des années ce fut une constante prière. Frère Ungreen, mon frère, où que vous soyez, que Dieu vous bénisse richement. Et si cela n’est pas juste, Dieu m’en fera répondre au jour du jugement. Je sais que c’est exact. J’en prends la responsabilité. C’est tout à fait exact car c’est la vérité.
+15 Vous dites: «Quelle différence cela fait-il?». Cela fit une différence pour Paul. Il leur demanda comment ils avaient été baptisés. Ils dirent qu’ils avaient déjà été baptisés par Jean, l’homme qui avait baptisé Jésus. Paul dit qu’ils devaient être baptisés à nouveau dans le Nom de Jésus-Christ. Et dans la Bible il n’y eut pas une seule personne qui ait été baptisée dans le nom du Père, Fils et Saint-Esprit. Jusqu’à l’organisation de l’église catholique au Concile de Nicée, personne ne fut baptisé ainsi. Ce fut là que, pour la première fois, on baptisa en utilisant les titres.
+16 L’autre jour je parlais avec quelqu’un. Je dis: «Bien, si le Seigneur Jésus…». C’est Son Nom! Il dit: «Eh bien…». Je dis: «Si quelqu’un vient vers vous…». Il dit: «Je ne crois pas que cela fasse de différence».
+17 Je voulais simplement l’attraper dans sa propre doctrine. Je dis: «Si un homme vient vers vous et dit: Je suis baptisé dans le nom de la Rose de Sharon, le Lis de la vallée et l’Etoile du matin, diriez-vous amen! à cela?». Il dit: «Certainement pas». Je dis: «Le baptiseriez-vous à nouveau?». Il dit: «Oui, certainement». Je dis: «Comment le baptiseriez-vous?». Il dit: «Je le baptiserais au nom du Père, Fils et Saint-Esprit».
+18 Et je dis: «C’est de cette manière que je te baptiserais, dans le Nom du Père, Fils et Saint-Esprit. Maintenant, Rose de Sharon, Lis de la vallée et Etoile du matin ne sont pas des noms». Il dit: «C’est juste, ce sont des titres». Je dis: «Père, Fils et Saint-Esprit sont aussi des titres».
+19 Je les baptise donc dans le Nom du Père, Fils et Saint-Esprit, et le Nom du Père, Fils et Saint-Esprit est le Seigneur Jésus-Christ. Exactement. C’est ce que je lui dis, et il le saisit. Il s’agissait de frère Joseph Mattsson Boze de Chicago, la personne la plus difficile à convaincre. Je suppose que lorsque j’irai en Afrique, je devrai baptiser à nouveau trois ou quatre mille indigènes.
+20 Nous sommes donc reconnaissants pour la lumière de l’Evangile. Lorsqu’Il était sur terre, Jésus dit: “Je dis ce que j’entends”. Maintenant, pendant les dix ou quinze prochaines minutes je vais simplement dire quelque chose avant de prendre mon texte qui sera très court, puis nous aurons la ligne de prière.
+21 Dans mon ministère, j’en suis arrivé à un point où j’ai quelque chose à dire. Jésus déclara que ce qu’Il entendait, c’était ce qu’Il disait. Et Il dit: “Je vous ai appelés mes amis et un ami dit toutes choses à son ami”.
+22 Dans Actes 20.27 Paul dit: “Je n’ai mis aucune réserve à annoncer tout le conseil de Dieu”. Et puissé-je faire de même ce soir et dire la même chose que ce grand saint d’autrefois, puissé-je vous apporter le meilleur de ma connaissance et ne pas manquer de vous déclarer tout le conseil de Dieu.
+23 L’autre jour quelqu’un faisait jouer une de nos bandes, et simplement parce que cela dérangeait une personne, ils ont tiré à travers la fenêtre et blessé une femme. Aussi, un de ces jours, je vais sceller mon témoignage… Cependant lorsque viendra le moment, alors je serai prêt. Rien ne pourra me faire de mal jusqu’à ce que vienne mon temps.
+24 Nous croyons en ce même Evangile, nous croyons la Bible telle qu’elle est écrite. Cet Evangile est bien ajusté. Or lorsque le canon est bien réglé et ajusté et qu’il atteint le but la première fois, il atteindra aussi le but la deuxième fois, et toutes les autres fois.
+25 Si un arbre ou un cep pousse une branche qui porte un certain fruit, la prochaine fois que le cep poussera une branche, il portera la même sorte de fruit.
+26 Et Jésus est le Cep, nous sommes les branches et la première branche qui a poussé sur ce Cep (l’Eglise), elle écrivit le Livre des Actes. Cette première branche fut baptisée dans le Nom de Jésus-Christ. Ils avaient parmi eux le Dieu vivant qui fit au milieu d’eux les mêmes choses qu’Il fit lorsqu’Il était sur terre. Ainsi donc les gens remarquèrent que, bien qu’ils étaient ignorants et ne connaissaient pas ces choses, ils avaient été avec Jésus, car Sa vie était en eux.
+27 Comme je l’ai déjà dit: «Si j’avais l’esprit de Beethoven en moi, j’écrirais des chants. Si Beethoven vivait en moi, je serais Beethoven». Vous voyez? Si Shakespeare vivait en moi, je serais Shakespeare. Si Shakespeare vivait en moi, j’écrirais des poèmes, des pièces et toutes ces choses. Et si Christ vit en moi, je ferai les oeuvres de Christ. Il doit en être ainsi. Et qu’est-ce que Christ? La Parole. Il dit: “Si vous demeurez en moi et que mes paroles demeurent en vous, demandez ce que vous voudrez et cela vous sera accordé”, car cette Parole-là a simplement besoin de la Lumière, et la Lumière La fait vivre.
+28 Maintenant je vais donc vous dire quelque chose dont je ne vous ai pas encore parlé. C’est cette chose que nous avons attendue si longtemps tout au long de ces années, pendant quatre ou cinq ans ou même plus: le troisième Pull a maintenant été confirmé et je suis sûr que vous savez tous de quoi il s’agit.
+29 Maintenant souvenez-vous qu’il n’y aura jamais d’imitation de cela car cela ne peut pas être. Cela ne le peut pas. Il est maintenant venu à l’existence et j’ai été averti que cela arriverait prochainement afin que ce troisième Pull puisse identifier Sa présence parmi vous. Vous voyez? Mais il ne sera pas utilisé de manière importante avant que ce Conseil ne renforce sa pression. Et quand cela se fera, quand cela se fera… Les Pentecôtistes et les autres peuvent presque imiter tout ce qui se fait, mais lorsque le temps viendra, lorsque la pression se fera plus forte, alors ce que vous avez vu temporairement, vous le verrez manifesté dans la plénitude de sa puissance.
+30 Ainsi je dois continuer à évangéliser tout comme j’ai été commissionné pour le faire au début; je dois continuer. Vous avez donc eu la Parole et vous savez ce que vous devez rechercher et comment vous devez vous comporter. Je dois continuer à évangéliser et vous, mes amis, gardez votre calme et continuez simplement d’avancer, car l’heure où quelque chose sera fait approche rapidement.
+31 Il se peut que vous voyez arriver des choses étranges (rien en rapport avec le péché, ce n’est pas ce que je veux dire); je pense à quelque chose d’étrange par rapport à notre direction habituelle. En effet je suis arrivé à cette phase de mon ministère où je dois observer ce point et attendre le temps pour utiliser cela. Mais cela doit être utilisé! Et chacun sait qu’aussi certainement que le premier Pull fut identifié, le second l’a aussi été. Et si vous y réfléchissez sérieusement, vous qui êtes spirituels (comme le dit la Bible: celui qui a de la sagesse…), vous verrez que le troisième est correctement identifié. Nous savons où il se trouve. Le troisième Pull est donc ici.
+32 Ceci est tellement sacré que, comme Il me l’a dit au début, je ne dois pas beaucoup en parler. Il me dit: «N’en parle pas!». Vous souvenez-vous de cela? C’était il y a bien des années. Ce Pull-là parlait par lui-même, mais j’essayai de le leur expliquer et je fis une erreur. Ce troisième Pull sera la chose qui, à mon avis (je ne dis pas que c’est le Seigneur qui me dit ceci), introduira “la foi de l’enlèvement” pour le départ, vous voyez? Et je dois rester tranquille juste un court moment.
+33 Maintenant, vous tous qui êtes ici et vous qui écoutez cet enregistrement, souvenez-vous qu’il est possible que vous voyez un changement dans mon ministère, une sorte de diminution. Non un essor mais une diminution. Nous sommes juste dans l’âge maintenant et cela ne peut pas aller plus loin. Nous devons attendre ici juste une minute jusqu’à ce que ceci arrive et mette un terme à cela, alors le temps viendra. Mais tout cela est entièrement identifié.
+34 Il vient un temps pour cette nation où elle exercera tout le pouvoir qu’avait la bête auparavant, lorsque la Rome païenne devint la Rome papale. C’est ce que cette nation fera. Apocalypse 13 explique entièrement cela. La bête qui avait deux cornes semblables à un agneau sortit de la terre. L’autre bête sortit de l’eau, de l’abondance et de la multitude des peuples. Cette bête aux cornes semblables à un agneau sortit d’un lieu où il n’y avait personne.
+35 Un agneau représente une religion — l’Agneau de Dieu. Souvenez-vous que cette bête parlait comme un agneau, c’était un agneau; mais après qu’il eut reçu le pouvoir, il parla comme un dragon et exerça tout le pouvoir qu’avait le dragon avant lui. Le dragon est toujours Rome. Ne voyez-vous donc pas ceci: la dénomination romaine, une dénomination protestante marquée, une image faite à la bête fabriquant un pouvoir qui forcera tous les protestants à s’unir. Vous devrez être dans ce Conseil des églises, sinon vous n’aurez plus de communion ou… Eh bien, il en est presque ainsi maintenant. Vous ne pouvez aller prêcher dans une église si vous n’avez pas de carte de membre ou d’autre moyen d’identification.
+36 Et dorénavant, des personnes comme nous seront séparées de tout cela. C’est exact car nous ne pourrons pas faire cela. Tout se resserre de plus en plus. Lorsque ce temps viendra et que la pression arrivera à un point tel que vous serez mis dehors, alors veillez (prenez garde à la chose que je vais vous dire dans quelques minutes), observez alors le troisième Pull! Il n’aura qu’une signification, aussi bien pour ceux qui sont totalement perdus que pour l’Epouse et pour l’Eglise.
+37 Nous en sommes maintenant plus proches qu’il ne semble. Je ne sais pas quand cela viendra, mais c’est très, très proche. Il se peut que je construise une plate-forme pour que quelqu’un d’autre y marche et que je sois enlevé avant qu’elle ne soit terminée. Je ne sais pas. Et il se peut que le Saint-Esprit vienne la semaine prochaine et amène Jésus-Christ. Il se peut qu’Il vienne la semaine prochaine. Il peut même venir ce soir! Je ne sais pas quand Il viendra. Il ne nous le dit pas. Mais je crois réellement que le temps est tellement proche que je ne mourrai pas dans un âge avancé. J’ai déjà cinquante-quatre ans et je ne pourrai atteindre un âge avancé avant qu’Il ne soit là. Je peux être tué par balle ou de n’importe quelle autre manière, mais je ne mourrai pas simplement de vieillesse. J’aimerais dire quelque chose que je n’ai jamais dite auparavant. Tout est arrivé exactement selon l’Ecriture, selon ce qu’Il a dit il y a trente-trois ans sur la rivière là en bas (c’était en 1933, plutôt). Il se peut que ce ne soit pas moi qui présente Jésus-Christ au monde, mais le Message le fera. «Car de même que Jean-Baptiste fut envoyé comme précurseur de la première venue, ainsi le Message est envoyé comme précurseur de la seconde venue». Et Jean dit: “Voici l’Agneau de Dieu qui ôte le péché du monde”. Ainsi tout s’est accompli de manière parallèle et je sais qu’il en sera ainsi. Le Message ira de l’avant.
+38 Tout au long du chemin il s’est passé de grandes choses. Ce matin on m’a interviewé dans la pièce là-bas, en particulier un jeune homme du nom d’Autry. Il est probablement encore ici ce soir. Il vient de San Antonio dans le Texas. Il est venu me demander quand nous irions à Dallas, et si un soir nous pourrions faire un saut dans leur tabernacle. Ils vont s’occuper de cela dans les jours qui viennent et ils vont voir si nous pourrions le faire. Je ne suis jamais allé à San Antonio depuis cette première réunion.
+39 Je me souviens de cette première réunion que j’ai eue à San Antonio. Je crois que j’étais avec frère Coats et l’Ecole internationale de la Bible et je ne me souvenais plus dans quel auditorium devait avoir lieu le service. Je crois que le premier soir ou le deuxième (je crois que c’était plutôt le premier), alors que je me dirigeais vers la plate-forme, quelqu’un assis à l’arrière de la salle se leva et commença à parler en langues à la vitesse d’une mitraillette. Et à peine s’était-il assis qu’un autre monta sur la plate-forme et donna l’interprétation. Je m’arrêtai à ce qu’il avait dit et lui demandai: «Connaissez-vous cet homme?».
+40 Il dit: «Certainement pas». Je dis: «Comment êtes-vous venu ici?». Il dit: «Les gens pour lesquels je travaille étaient ici ce soir et ils m’ont amené». (C’était un cowboy). Et je dis: «Que faites-vous? Le connaissez-vous?». Il dit: «Non, certainement je ne l’ai jamais vu».
+41 Et je dis: «Qui êtes-vous?». C’était un commerçant de la ville. Avant d’en avoir appris davantage, j’étais un peu sceptique au sujet du parler en langues. Je pensais que c’était charnel et cela aurait pu l’être; mais lorsque ce fut prononcé, l’interprétation fut exactement selon ce qu’avait dit l’Ange du Seigneur là-bas sur la rivière, onze ans auparavant: «De même que Jean-Baptiste fut envoyé pour préparer la première venue de Christ, tu es envoyé pour préparer Sa seconde venue». C’était cela. Cet Ange, cette Lumière (qui a été entièrement identifiée à la fois par l’Eglise, par la Parole, la science et toutes ces choses), apparut pour la première fois en public vers deux heures de l’après-midi. Elle se tenait juste là, au-dessus de l’endroit où je me trouvais dans l’eau, près du pont, tout près de Spring Street. Ceci s’est passé il y a bien des années. Et ce qu’il disait là s’était accompli à la lettre.
+42 Ce matin, ce frère me disait qu’il avait épousé une jeune fille qui n’est pas de cette église; c’est la fille de soeur Noid et je ne sais pas si… Etes-vous ici, frère Autry? Je ne sais pas, il venait de San Antonio. Je ne sais pas s’il est ici, il était ici ce matin. Et il me disait je crois que son grand-père, qui avait été épileptique toute sa vie, avait été amené ici lors de cette réunion.
+43 C’était tout au début du ministère lorsque par le don du discernement ils mettaient leur main dans la mienne, et que je leur disais ce qu’ils avaient. Et je vous avais dit (certains en sont peut-être témoins ce soir) qu’il arriverait que je connaîtrais même les secrets de leur coeur. Vous souvenez-vous que j’avais dit cela avant même que cela n’arrive? Environ cinq ou six ans plus tard, cela arriva au Canada pour la première fois. C’est ce qui arriva. L’Ange dit alors: «Si tu continues à être sincère, cela continuera simplement d’arriver». Et maintenant la troisième chose s’est passée. Cela continue simplement d’aller de l’avant.
+44 Ce frère dit qu’on amena son père dans la ligne, qu’on parla de son épilepsie et de ces choses et qu’on pria pour lui. Cela s’est passé il y a environ seize ou dix-sept ans et il dit que depuis il n’a jamais plus eu d’attaque. Il approche des quatre-vingt-cinq ans et n’a jamais eu d’attaque depuis lors. Qu’est-ce? Jésus-Christ Le même hier, aujourd’hui et pour toujours.
+45 Margie Morgan est-elle dans la salle? Soeur Margie Morgan est une infirmière qui était rongée par le cancer. Combien se souviennent de soeur Morgan? Est-elle ici ou n’a-t-elle pas pu venir à cause de son service? Elle était sur la liste des cancéreux de Louisville; cette femme était censée être déjà morte depuis environ seize ou dix-sept ans. Lorsque l’avoué (un avoué chrétien), Jim Tom Robinson, entendit parler de cela, il alla à l’hôpital baptiste afin de vérifier si cela était juste. Son père faisait partie du Bureau (il était administrateur à l’hôpital baptiste) et ils firent des recherches. Cette femme était censée être morte depuis des années et voilà qu’elle était infirmière là-bas dans un hôpital à Jeffersonville. Alors qu’elle se trouvait dans cet état et qu’ils devaient la soutenir, elle n’avait même pas toute sa conscience; mais c’était AINSI DIT LE SEIGNEUR et elle est en vie.
+46 Elle est allée travailler comme infirmière à Lousiville et dans cet hôpital se trouvait quelqu’un de la Schimpf’s Candy… Monsieur Schimpf est-il ici ce soir? J’aimerais qu’il dise s’il est ici. Sonny Schimpf est un homme qui a une santé de fer. Souvent quand je… Je n’aime pas dire cela mais c’est la vérité. Papa avait l’habitude de me donner de l’argent si je travaillais toute la semaine. J’allais donc en ville et je déposais ma bicyclette près de chez frère Mike Eagan (c’est un des administrateurs d’ici). J’allais avec Jimmy Pool (je crois que son fils est ici ce soir), Jim, Ernest Fisher et moi, nous descendions en ville et, pour un nickel, nous allions voir un de ces films muets. Nous avions environ huit ou dix ans. Il y avait ce vieil acteur William S. Hart qui jouait dans les films muets (beaucoup parmi vous, les jeunes, ne l’avez pas connu). Je ne savais pas lire et je regardais simplement ce qui se passait. Je devais tout épeler et je ne m’en sortais pas, aussi je me contentais de regarder ce qu’il faisait. Il me restait souvent un deuxième nickel. Combien se souviennent avoir eu un cornet de crème glacée pour un penny? C’est juste. On me donnait trois cornets à la crème et il me restait deux pennies pour des saucisses rouges. Je ne pouvais pas garder les cornets à la crème, aussi je les mangeais et il me restait deux pennies. Cela représentait presque une demi-livre de ces saucisses. C’est Schimpf qui faisait ces choses. J’entrais là-dedans, m’asseyais et regardais William S. Hart.
+47 Et ce jeune homme (il était un peu plus âgé que moi) fut frappé par la maladie et cinq spécialistes renommés de Louisville l’examinèrent. Il ne pesait plus que quarante-cinq livres environ et il était mourant. Miss Morgan le soignait et il était dans une condition déplorable. Il souffrait de toutes sortes de maux: ses poumons étaient partis, sa gorge était partie, ses petits bras n’étaient pas plus gros que cela, et il était étendu là, mourant. Et Miss Morgan fut engagée pour ce travail et elle lui dit: «Je fus une fois une patiente atteinte du cancer», et elle commença à lui raconter son histoire.
+48 Il dit: «Comment dites-vous? Billy Branham? Eh bien, je lui ai vendu bon nombre de saucisses et de cornets de crème glacée. Je me demande s’il viendrait prier pour moi».
+49 Et j’allai prier pour Junie Schimpf et si vous aimeriez parler avec lui, il habite juste là en bas dans la rue, une porte ou deux après le théâtre de Léo; c’est la maison Schimpf’s Candy. Vous savez tous où cela se trouve. Oh, c’est un des établissements les plus vieux de Jeffersonville. Et tandis qu’il était étendu là, mourant et que cinq spécialistes ne lui donnaient plus que quelques heures à vivre, ce fut: «AINSI DIT LE SEIGNEUR, tu ne mourras pas, mais tu me vendras de nouveau des saucisses rouges au comptoir!».
+50 Je savais qu’il allait bien mais j’avais oublié cela depuis longtemps. Ma femme et moi-même étions descendus acheter quelques bonbons lorsque nous sommes venus ici, à Noël. Et je ne sais pas comment nous avons pensé à Schimpf car nous avions l’habitude d’aller acheter cela dans un de ces drugstores, mais nous nous arrêtâmes en face de chez Schimpf.
+51 Lorsque j’entrai, sa soeur me regarda et dit: «Eh bien, frère Branham, vous souvenez-vous de Junie?».
+52 Je dis: «Oui». Et il y avait là un bonhomme dont la santé était apparemment tout ce qu’il y a de plus excellente. Je me dirigeai vers le comptoir, regardai ce qui s’y trouvait et dis: «J’aimerais une livre de ces saucisses rouges».
+53 Et il dit: «Oui, Monsieur». Comme sa soeur était en train de servir ma femme, il sortit les saucisses rouges et je dis: «J’avais l’habitude d’en manger il y a bien longtemps, lorsque j’allais au cinéma». J’avais la tête inclinée.
+54 Et il dit: «Oui, beaucoup d’enfants achètent cela, même aujourd’hui. C’est mon père qui les faisait, il s’occupait de cela». Je dis: «Je les aime vraiment». Après qu’il me les eut préparées et qu’il me les eut tendues, il dit: «Désirez-vous autre chose?».
+55 Je dis: «Je ne sais pas…» et je relevai la tête. Il dit: «Frère Branham!». Je dis: «Ce sont là les saucisses rouges dont je vous ai dit: AINSI DIT LE SEIGNEUR! il y a environ cinq ans».
+56 Il dit: «Frère Branham, je suis complètement guéri et il ne me reste aucune séquelle. Je suis seulement un peu dur d’une oreille». Je crois qu’il est dans la cinquantaine. «Je suis un peu dur d’une oreille car ils m’ont donné tellement d’antibiotiques lorsque j’étais là-bas».
+57 Grâce stupéfiante de Jésus-Christ! Il me reste peu de temps pour dire encore autre chose, mais je veux faire une remarque. Combien se souviennent des écureuils? Très bien, cela se rapportait à un passage de l’Ecriture embarrassant et que je n’avais jamais pu comprendre de ma vie. Il y en a encore un autre qui m’intriguait. Ce fut que Moïse puisse suggérer à Dieu une manière d’agir meilleure que la Sienne. C’est lorsque Moïse dit: “Les gens diront: Votre Dieu a été capable de vous faire sortir mais non de vous garder”. Et Moïse se jeta lui-même dans la brèche; et j’ai découvert plus tard que c’était Christ en Moïse qui défendait le peuple. Ainsi en est-il de cette parole de l’Ecriture (je ne voulais jamais prêcher là-dessus): “Si vous dites à cette montagne de se déplacer…” et vous connaissez l’histoire, je passerai donc là-dessus.
+58 Je voudrais maintenant dire combien peu je savais à quoi cela mènerait. Je pense que frère Wood, frère Fred et ceux qui étaient présents lorsque ceci arriva ou juste après que cela soit arrivé, sont ici dans la salle. Frère Rodney et frère Charlie (du Kentucky), le frère de soeur Wood et tous les autres étaient présents lorsque cela arriva là-bas dans le Kentucky. C’était la seconde fois que ceci arrivait: simplement appeler à l’existence des choses qui n’existent pas. Par cela, ce qui a été dit a chaque fois été confirmé par les Ecritures et nous en avons été encouragés.
+59 La troisième fois que cela arriva, ce fut avec Hattie Wright. Hattie est-elle ici ce soir? C’est la soeur d’Edith. Combien connaissent Hattie Wright? Frère Wood et moi-même étions assis là lorsque cela arriva. Le Saint-Esprit dit: «Donne-lui ce qu’elle désire»; et nous étions en train de parler de la manière dont ces écureuils étaient venus à l’existence. Et je dis: «La seule chose qu’il y ait, c’est qu’Il est Jéhovah-Jiré».
+60 Lorsqu’Abraham eut besoin d’un bélier, Dieu le pourvut d’un bélier. Et Il nous pourvut d’écureuils. Il pouvait appeler un écureuil à l’existence tout comme Il le fit lorsqu’il appela le bélier à l’existence, car Il est le Créateur. Abraham ne l’avait aucunement demandé; il continuait simplement à faire ce qu’il devait. Mais cela montrait que Jéhovah-Jiré était là. Et lorsque je parlai de cela, c’était la première fois que ce troisième Pull se manifestait avec un être humain. Il s’agissait de cette humble petite femme qui gagnait environ deux cents dollars par an pour vivre; c’était là tout ce qu’elle retirait de sa petite ferme (son mari était mort et ses deux enfants étaient devenus en quelque sorte sauvages). Et pourtant elle fit un don de vingt dollars pour la construction de ce tabernacle. Et ce matin-là, Meda m’avait donné vingt dollars pour faire les commissions, et je voulus les prendre pour rendre à cette femme son argent mais elle ne le voulut pas. Or le jour où je dis: «La seule chose que je sache, c’est qu’Il est toujours Jéhovah-Jiré», Hattie était assise là derrière et elle prononça la parole qu’il fallait.
+61 Elle dit: «Ce n’est rien d’autre que la vérité». Et lorsqu’elle eut dit cela (frère Banks Wood était une des personnes présentes), on sentit venir quelque chose de particulier dans la chambre. Et le Saint-Esprit dit (c’était la même Voix qui avait parlé pour les écureuils): «Donne-lui ce qu’elle demandera».
+62 Je dis: «Soeur Hattie, ceci est un témoignage devant Dieu. Maintenant, s’il n’y a aucun doute dans votre esprit, demandez ce que vous voulez: si cela n’est pas déposé sur vos genoux, alors je suis un faux prophète». Elle dit: «Frère Branham… (tout le monde pleurait) que demanderai-je?».
+63 Je dis: «Vous êtes pauvre et vous vivez sur la colline là-bas; vous n’avez pas d’argent, vous pourriez en demander. Vous avez ici une petite soeur infirme, Edith, pour laquelle nous prions depuis des années: vous pourriez demander sa guérison». Je dis encore: «Votre père et votre mère sont vieux et malades, vous pourriez demander leur guérison. Quoi que vous demandiez, soeur Hattie, voyez maintenant si cela ne s’accomplit pas. C’est cette même Voix qui m’a dit: Donne-lui ce qu’elle demande».
 64 Elle regarda autour d’elle et dit: «Que dois-je dire, frère Branham?».
-65 Je dis: «Dites quel est votre désir. Pensez à votre plus grand désir et dites-le». Et il y avait là
-ses garçons en train de rire et même de ricaner. Elle dit: «Mon plus grand désir est le salut de mes
-deux garçons».
-66 Je dis: «Je vous les donne dans le Nom de Jésus-Christ!». Les deux se donnèrent au
-Seigneur, et depuis ils sont fidèles dans cette église et prennent part à la communion; ces petits
-gars sont assis là, font le lavage des pieds avec les hommes et toutes ces choses. Nous en
-sommes tous témoins. Elle avait fait le vrai choix. Sa mère devait mourir elle aussi, ainsi que tous
-les autres d’ailleurs. Le salut de ses enfants demeure éternellement.
-     C’était la troisième fois que cela arrivait.
-67 La quatrième fois que cela arriva (je l’ai justement expliqué la dernière fois que j’étais ici), ce
-fut là-haut sur la montagne où se déchaînait cette tempête. Combien en ont entendu parler?
-C’était lorsque cette tempête faisait rage. Dieu qui se tient ici est mon Juge. Je descendais la
-montagne en compagnie de David Wood (il est ici quelque part, je pense). Il m’avait fait un
-sandwich, un véritable sandwich. Je crois qu’il essayait de m’en donner un comme celui que
-j’avais confectionné à son papa quelques années auparavant! Il avait de la viande mélangée à
-toutes sortes de choses et j’avais mis ce sandwich dans ma chemise. Comme il pleuvait, il ne me
-restait plus qu’un morceau de pâte. Je descendais donc de la montagne et il y avait un orage
-terrifiant. Je ne pouvais même pas voir ma main devant moi. Tout ce que je sais, c’est qu’on était
-presque renversé tellement le vent tourbillonnait. Certains ici en sont témoins, en particulier un de
-nos fidèles diacres, frère Wheeler. Etes-vous ici, frère Wheeler? Où est-il? Ah, juste ici.
-68 Il y avait aussi frère Mann, un prédicateur méthodiste de New Albany. Est-il ici ce soir? Je ne
-sais pas s’il est ici.
-69 Frère Banks Wood… Etes-vous ici, frère Banks? Il est dans la salle d’enregistrement. Très
-bien. Je crois qu’il y avait aussi David Wood et frère Evans. Est-ce juste, frère Evans? Il se tient là
-près du mur, il était aussi présent. Deux jours durant la radio avait annoncé qu’un puissant blizzard
-balayerait le pays.
-70 Frère Tom Simpson est ici ce soir. Lorsqu’il est rentré du Canada, ils lui ont demandé de ne
-pas passer par ici car il ne pourrait pas traverser le pays; un blizzard allait venir. Frère Tom,
-êtes-vous ici? Où êtes-vous? Le voici, il est assis juste ici. Des nuages s’élevèrent et je dis:
-«Frères…». Tout le monde s’empressa de partir. Il y avait là une centaine de personnes mais
-aucune ne resta en arrière, excepté notre petit groupe et le cow-boy qui nous servait de guide.
-71 Et nous allions rester. J’appelai soeur Evans et la priai d’appeler ma femme pour lui
-demander de dire à Tony d’envoyer quelqu’un d’autre pour tenir la réunion du déjeuner des
-hommes d’affaires, si je ne pouvais y aller moi-même. Et ce jour-là sur la montagne, je dis:
-«Maintenant, à partir du moment où tombera la plus petite goutte de pluie, il ne s’écoulera pas plus
-de dix ou quinze minutes avant que ces blizzards ne vous empêchent de voir votre main; en un
-instant il tombera vingt pieds de neige sur la montagne».
-72 Vous pouvez lire dans les journaux comment les gens qui sont ainsi restés en arrière ont péri,
-et toutes ces choses. Mais nous savions comment nous en sortir, et ils savaient où nous étions;
-nous nous sentîmes donc conduits à rester. Ainsi, alors que le blizzard commençait à souffler, je
-me mis à descendre la montagne; je ne me trouvais qu’à environ un demi-mile de mon lieu de
-départ lorsque la Voix de Dieu me dit: «Retourne en arrière». Et je retournai comme Il me le dit.
-73 Après cela j’attendis un moment, mangeant ce sandwich que m’avait donné David, puis je
-retournai là-haut et m’assis. Alors que j’étais assis là, que le vent soufflait et tordait la cime des
-arbres, que tout pliait devant lui, que le grésil tombait et que la neige tourbillonnait, une Voix dit:
-«Je suis le Dieu de la création!». Je levai les yeux et me demandai d’où cela pouvait venir.
-Peut-être était-ce le vent. Il dit: «J’ai créé les cieux et la terre. J’ai calmé les vents impétueux sur la
-mer». Et Il continua de parler. Je me levai et ôtai mon chapeau. Il dit: «Parle simplement à la
-tempête et elle cessera. Ce que tu diras s’accomplira».
-74 Et je dis: «Tempête, arrête-toi, et toi soleil, brille normalement durant quatre jours jusqu’à ce
-que nous soyons partis de là».
-75 A peine avais-je fini de dire cela que le grésil, la neige et toutes ces choses s’arrêtèrent, et un
-moment après un chaud soleil brillait dans mon dos. Je vis que les vents qui soufflaient de l’Est
-
-        http://www.cmpp.ch
-
-TOURNER LES REGARDS VERS JESUS 10
-soufflaient maintenant de l’ouest. Ils avaient changé de direction et retournaient en arrière comme
-ceci, et les nuages s’élevèrent dans les airs comme une chose mystérieuse et en quelques
-minutes le soleil se mit à briller.
-76 Puis un peu plus tard, comme vous le savez, le Seigneur Jésus me parla au sujet de ma
-femme. Cela fait vingt-deux ans que nous sommes mariés et je n’ai jamais été à la maison lors
-d’un anniversaire. Lors du premier anniversaire de notre mariage, je l’emmenai pour une partie de
-chasse car je n’avais pas les moyens de faire une partie de chasse et encore un voyage de lune
-de miel. C’est pourquoi je fis en quelque sorte les deux à la fois. Et depuis, j’ai toujours été à la
-chasse. Je sentis que ma manière de la traiter…
-77 Maintenant c’était la quatrième fois que cela arrivait. Je voudrais dire quelque chose. Je dois
-dire exactement la vérité. Il y a environ seize ans, je me trouvais en Californie avec frère Sharrit.
-J’avais une réunion. Il y avait Meda et moi-même, frère et soeur Sharrit et d’autres encore, et nous
-étions à l’hôtel. Il y avait aussi un homme nommé Paul Malicki. Il est souvent venu ici à ce
-tabernacle. C’est un Arménien fortuné et, à Fresno en Californie où ils vivaient, sa femme avait
-donné naissance à un enfant. Il descendit, amena sa femme et me fit venir à l’hôtel. Il dit: «Puis-je
-amener ma femme, frère Branham?». Je dis: «Oui, naturellement». Le lendemain, je devais aller à
-Catalina.
-78 Il amena donc sa femme, elle était tellement malade. Je dis: «Mettez votre main sur la
-mienne, soeur Malicki, nous allons voir ce que le Seigneur nous dira». A peine avait-elle posé sa
-main sur moi que je dis: «Oh, c’est la fièvre du lait».
+65 Je dis: «Dites quel est votre désir. Pensez à votre plus grand désir et dites-le». Et il y avait là ses garçons en train de rire et même de ricaner. Elle dit: «Mon plus grand désir est le salut de mes deux garçons».
+66 Je dis: «Je vous les donne dans le Nom de Jésus-Christ!». Les deux se donnèrent au Seigneur, et depuis ils sont fidèles dans cette église et prennent part à la communion; ces petits gars sont assis là, font le lavage des pieds avec les hommes et toutes ces choses. Nous en sommes tous témoins. Elle avait fait le vrai choix. Sa mère devait mourir elle aussi, ainsi que tous les autres d’ailleurs. Le salut de ses enfants demeure éternellement. C’était la troisième fois que cela arrivait.
+67 La quatrième fois que cela arriva (je l’ai justement expliqué la dernière fois que j’étais ici), ce fut là-haut sur la montagne où se déchaînait cette tempête. Combien en ont entendu parler? C’était lorsque cette tempête faisait rage. Dieu qui se tient ici est mon Juge. Je descendais la montagne en compagnie de David Wood (il est ici quelque part, je pense). Il m’avait fait un sandwich, un véritable sandwich. Je crois qu’il essayait de m’en donner un comme celui que j’avais confectionné à son papa quelques années auparavant! Il avait de la viande mélangée à toutes sortes de choses et j’avais mis ce sandwich dans ma chemise. Comme il pleuvait, il ne me restait plus qu’un morceau de pâte. Je descendais donc de la montagne et il y avait un orage terrifiant. Je ne pouvais même pas voir ma main devant moi. Tout ce que je sais, c’est qu’on était presque renversé tellement le vent tourbillonnait. Certains ici en sont témoins, en particulier un de nos fidèles diacres, frère Wheeler. Etes-vous ici, frère Wheeler? Où est-il? Ah, juste ici.
+68 Il y avait aussi frère Mann, un prédicateur méthodiste de New Albany. Est-il ici ce soir? Je ne sais pas s’il est ici.
+69 Frère Banks Wood… Etes-vous ici, frère Banks? Il est dans la salle d’enregistrement. Très bien. Je crois qu’il y avait aussi David Wood et frère Evans. Est-ce juste, frère Evans? Il se tient là près du mur, il était aussi présent. Deux jours durant la radio avait annoncé qu’un puissant blizzard balayerait le pays.
+70 Frère Tom Simpson est ici ce soir. Lorsqu’il est rentré du Canada, ils lui ont demandé de ne pas passer par ici car il ne pourrait pas traverser le pays; un blizzard allait venir. Frère Tom, êtes-vous ici? Où êtes-vous? Le voici, il est assis juste ici. Des nuages s’élevèrent et je dis: «Frères…». Tout le monde s’empressa de partir. Il y avait là une centaine de personnes mais aucune ne resta en arrière, excepté notre petit groupe et le cow-boy qui nous servait de guide.
+71 Et nous allions rester. J’appelai soeur Evans et la priai d’appeler ma femme pour lui demander de dire à Tony d’envoyer quelqu’un d’autre pour tenir la réunion du déjeuner des hommes d’affaires, si je ne pouvais y aller moi-même. Et ce jour-là sur la montagne, je dis: «Maintenant, à partir du moment où tombera la plus petite goutte de pluie, il ne s’écoulera pas plus de dix ou quinze minutes avant que ces blizzards ne vous empêchent de voir votre main; en un instant il tombera vingt pieds de neige sur la montagne».
+72 Vous pouvez lire dans les journaux comment les gens qui sont ainsi restés en arrière ont péri, et toutes ces choses. Mais nous savions comment nous en sortir, et ils savaient où nous étions; nous nous sentîmes donc conduits à rester. Ainsi, alors que le blizzard commençait à souffler, je me mis à descendre la montagne; je ne me trouvais qu’à environ un demi-mile de mon lieu de départ lorsque la Voix de Dieu me dit: «Retourne en arrière». Et je retournai comme Il me le dit.
+73 Après cela j’attendis un moment, mangeant ce sandwich que m’avait donné David, puis je retournai là-haut et m’assis. Alors que j’étais assis là, que le vent soufflait et tordait la cime des arbres, que tout pliait devant lui, que le grésil tombait et que la neige tourbillonnait, une Voix dit: «Je suis le Dieu de la création!». Je levai les yeux et me demandai d’où cela pouvait venir. Peut-être était-ce le vent. Il dit: «J’ai créé les cieux et la terre. J’ai calmé les vents impétueux sur la mer». Et Il continua de parler. Je me levai et ôtai mon chapeau. Il dit: «Parle simplement à la tempête et elle cessera. Ce que tu diras s’accomplira».
+74 Et je dis: «Tempête, arrête-toi, et toi soleil, brille normalement durant quatre jours jusqu’à ce que nous soyons partis de là».
+75 A peine avais-je fini de dire cela que le grésil, la neige et toutes ces choses s’arrêtèrent, et un moment après un chaud soleil brillait dans mon dos. Je vis que les vents qui soufflaient de l’Est soufflaient maintenant de l’ouest. Ils avaient changé de direction et retournaient en arrière comme ceci, et les nuages s’élevèrent dans les airs comme une chose mystérieuse et en quelques minutes le soleil se mit à briller.
+76 Puis un peu plus tard, comme vous le savez, le Seigneur Jésus me parla au sujet de ma femme. Cela fait vingt-deux ans que nous sommes mariés et je n’ai jamais été à la maison lors d’un anniversaire. Lors du premier anniversaire de notre mariage, je l’emmenai pour une partie de chasse car je n’avais pas les moyens de faire une partie de chasse et encore un voyage de lune de miel. C’est pourquoi je fis en quelque sorte les deux à la fois. Et depuis, j’ai toujours été à la chasse. Je sentis que ma manière de la traiter…
+77 Maintenant c’était la quatrième fois que cela arrivait. Je voudrais dire quelque chose. Je dois dire exactement la vérité. Il y a environ seize ans, je me trouvais en Californie avec frère Sharrit. J’avais une réunion. Il y avait Meda et moi-même, frère et soeur Sharrit et d’autres encore, et nous étions à l’hôtel. Il y avait aussi un homme nommé Paul Malicki. Il est souvent venu ici à ce tabernacle. C’est un Arménien fortuné et, à Fresno en Californie où ils vivaient, sa femme avait donné naissance à un enfant. Il descendit, amena sa femme et me fit venir à l’hôtel. Il dit: «Puis-je amener ma femme, frère Branham?». Je dis: «Oui, naturellement». Le lendemain, je devais aller à Catalina.
+78 Il amena donc sa femme, elle était tellement malade. Je dis: «Mettez votre main sur la mienne, soeur Malicki, nous allons voir ce que le Seigneur nous dira». A peine avait-elle posé sa main sur moi que je dis: «Oh, c’est la fièvre du lait».
 79 Elle dit: «Il ne me semble pas en avoir les symptômes».
 80 Je dit: «Observez bien…». Et deux jours plus tard ils la soignaient pour une fièvre du lait.
-81 C’est comme pour le petit Jimmy Pool ici. L’autre jour, ils pensaient qu’il avait eu une attaque
-cardiaque et c’était une crise d’asthme. Je posai la main sur lui et dis: «Observez-le pendant deux
-jours. Il a la rougeole et c’est en train de sortir. C’est la fièvre». L’autre soir j’ai rencontré son papa.
-Il dit: «La rougeole s’est déclarée et il en est tout couvert».
-82 Je parlai donc à soeur Malicki, elle avait sa main posée sur la mienne. Elle dit: «Frère
-Branham, il est surprenant d’observer cela. Ceci marche-t-il avec chaque main?».
-83 Je dis: «Eh bien oui, si quelque chose ne va pas avec le patient. J’ai posé la main sur telle
-personne (beaucoup étaient là et l’ont vu) et il ne s’est rien passé». Je dis: «Voici ma femme, tout
-va bien pour elle». Elle était assise là. Je lui dis: «Regarde ici, pose ta main sur la mienne». Elle
-posa sa main sur la mienne. A peine avait-elle fait cela que je dis: «Tu as un kyste sur l’ovaire
-gauche. Tu as une maladie de femme». Elle dit: «Je ne sens rien de spécial».
-84 Je dis: «Mais c’est pourtant ce que tu as». Becky, ma fille qui a joué il y a un moment, avait
-deux ans. Sarah devait venir deux ans plus tard. Et ma femme subit alors une césarienne et je
-demandai au docteur Dillman (notre médecin à Cordon): «Lorsque vous ouvrirez, regardez cet
-ovaire gauche». C’est ce qu’il fit et il dit qu’il n’y avait rien d’anormal. Je posai ma main et c’était
-toujours là.
-85 Quatre ans plus tard vint Joseph. Je demandai au docteur de regarder de nouveau. Il ne vit
-rien d’anormal. Je posai ma main, c’était toujours là. Et nous n’y pensâmes plus.
-86 Voici ce que j’ai à dire. Je n’aime pas en parler mais la vérité doit être dite, vous voyez, et
-c’est là ce que nous voulons. Dites toujours la vérité, peu importe ce qui arrive.
-87 Des années passèrent et nous ne remarquâmes jamais rien. Je ne dis pas cela parce qu’elle
-est assise ici, je le dis aussi quand elle n’y est pas. Vous le savez, je ne crois pas qu’il y ait de
-meilleure femme au monde que la mienne et j’espère qu’elle restera toujours ainsi. Je veux être un
-mari loyal et j’espère que chaque jeune homme dans cette salle aura une femme comme la
-mienne lorsqu’il se mariera. Je ne sais pas combien de temps nous vivrons ainsi, mais j’espère
-que ce sera pour le restant de nos jours sur cette terre. Nous avons toujours été très heureux
-ensemble.
-88 C’est Dieu qui me dit de l’épouser alors que je me refusais à le faire (elle ne le savait pas).
-Non parce que je ne l’aimais pas, mais parce que je ne pensais pas être capable de lui assurer
-une existence convenable. C’était une femme très bien et je ne la méritais pas. Et elle continua de
-prier et ouvrit la Bible. Elle dit: «Seigneur, je n’ai jamais fait ceci auparavant, mais donne-moi une
-parole de l’Ecriture qui m’aidera. Si je dois l’oublier, il faut que je l’oublie». Elle ouvrit la Bible. Elle
-
-        http://www.cmpp.ch
+81 C’est comme pour le petit Jimmy Pool ici. L’autre jour, ils pensaient qu’il avait eu une attaque cardiaque et c’était une crise d’asthme. Je posai la main sur lui et dis: «Observez-le pendant deux jours. Il a la rougeole et c’est en train de sortir. C’est la fièvre». L’autre soir j’ai rencontré son papa. Il dit: «La rougeole s’est déclarée et il en est tout couvert».
+82 Je parlai donc à soeur Malicki, elle avait sa main posée sur la mienne. Elle dit: «Frère Branham, il est surprenant d’observer cela. Ceci marche-t-il avec chaque main?».
+83 Je dis: «Eh bien oui, si quelque chose ne va pas avec le patient. J’ai posé la main sur telle personne (beaucoup étaient là et l’ont vu) et il ne s’est rien passé». Je dis: «Voici ma femme, tout va bien pour elle». Elle était assise là. Je lui dis: «Regarde ici, pose ta main sur la mienne». Elle posa sa main sur la mienne. A peine avait-elle fait cela que je dis: «Tu as un kyste sur l’ovaire gauche. Tu as une maladie de femme». Elle dit: «Je ne sens rien de spécial».
+84 Je dis: «Mais c’est pourtant ce que tu as». Becky, ma fille qui a joué il y a un moment, avait deux ans. Sarah devait venir deux ans plus tard. Et ma femme subit alors une césarienne et je demandai au docteur Dillman (notre médecin à Cordon): «Lorsque vous ouvrirez, regardez cet ovaire gauche». C’est ce qu’il fit et il dit qu’il n’y avait rien d’anormal. Je posai ma main et c’était toujours là.
+85 Quatre ans plus tard vint Joseph. Je demandai au docteur de regarder de nouveau. Il ne vit rien d’anormal. Je posai ma main, c’était toujours là. Et nous n’y pensâmes plus.
+86 Voici ce que j’ai à dire. Je n’aime pas en parler mais la vérité doit être dite, vous voyez, et c’est là ce que nous voulons. Dites toujours la vérité, peu importe ce qui arrive.
+87 Des années passèrent et nous ne remarquâmes jamais rien. Je ne dis pas cela parce qu’elle est assise ici, je le dis aussi quand elle n’y est pas. Vous le savez, je ne crois pas qu’il y ait de meilleure femme au monde que la mienne et j’espère qu’elle restera toujours ainsi. Je veux être un mari loyal et j’espère que chaque jeune homme dans cette salle aura une femme comme la mienne lorsqu’il se mariera. Je ne sais pas combien de temps nous vivrons ainsi, mais j’espère que ce sera pour le restant de nos jours sur cette terre. Nous avons toujours été très heureux ensemble.
+88 C’est Dieu qui me dit de l’épouser alors que je me refusais à le faire (elle ne le savait pas). Non parce que je ne l’aimais pas, mais parce que je ne pensais pas être capable de lui assurer une existence convenable. C’était une femme très bien et je ne la méritais pas. Et elle continua de prier et ouvrit la Bible. Elle dit: «Seigneur, je n’ai jamais fait ceci auparavant, mais donne-moi une parole de l’Ecriture qui m’aidera. Si je dois l’oublier, il faut que je l’oublie». Elle ouvrit la Bible. Elle
 
 TOURNER LES REGARDS VERS JESUS 11
 alla dans un petit hangar et pria. Et lorsqu’elle ouvrit la Bible, elle tomba sur Malachie 4: «Voici, je
@@ -603,7 +233,7 @@ responsabilité. Il devait avoir parlé de mon ministère à ce spécialiste car
 que cette tumeur sorte». Nous lui avions dit que nous allions à Tucson. Comme il avait habité
 là-bas, il dit alors: «Eh bien, il y a un spécialiste là-bas. C’est un de mes chers amis. Je vais vous
 envoyer vers lui». Il lui écrivit donc une lettre disant: «Madame Branham est une dame très
-gentille…». Il continua ainsi et lui envoya un diagramme montrant la grosseur de la tumeur (c’était
+ gentille…». Il continua ainsi et lui envoya un diagramme montrant la grosseur de la tumeur (c’était
 alors devenu une grosse tumeur). Je crois que dans sa lettre il parlait de moi comme d’un
 “guérisseur divin”. C’était tout ce qu’il savait dire pour expliquer mon ministère. Mais je dis: «Si
 cela doit être enlevé, je suis d’accord que vous l’enleviez». Mais ceci était pour tester notre foi.
@@ -1451,7 +1081,7 @@ c’est juste ou faux car cette partie de vie vous l’avez vécue. Il vous a é
 vous croyez cela et qu’Il vous dise ce qui en est, ce sera alors terminé et cela agira avec chacun
 ici.
 277 Que chacun soit vraiment respectueux maintenant. Cette dame souffre d’une maladie de la
-gorge. Si c’est juste, levez la main. Je ne l’ai donc jamais vue de ma vie. C’est juste. C’est pour
+ gorge. Si c’est juste, levez la main. Je ne l’ai donc jamais vue de ma vie. C’est juste. C’est pour
 cela qu’elle est ici, afin que je prie pour sa gorge. Or juste maintenant, dès que j’ai eu dit cela
 (ou juste avant) elle a reconnu que quelque chose était proche. Juste maintenant quelque chose
 s’approche d’elle. Vous pouvez voir cette émotion qu’elle ressent, c’est un sentiment d’une réelle
@@ -1500,14 +1130,3 @@ c’est une perforation d’estomac.
 d’ici, cela a été un réel sacrifice pour vous de venir ici. C’est vrai! Vous venez du Tennessee. C’est
 juste. Madame Harkness, retournez chez vous, ne doutez pas. Vous serez guérie, si vous pouvez
 croire.
-
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch

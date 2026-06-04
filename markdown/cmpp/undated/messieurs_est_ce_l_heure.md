@@ -1,25 +1,89 @@
-    LA PAROLE PARLEE
+---
+source: "cmpp"
+sermon_id: "messieurs_est_ce_l_heure"
+title: "Messieurs, est-ce l'heure?"
+subtitle: "30 décembre 1962, soir"
+date: "1962-12-30"
+year: 1962
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le thème des signes de la fin des temps, en s'appuyant sur Apocalypse 10. Il partage des visions et des songes prophétiques, notamment celui de Frère Jackson, et insiste sur la nécessité de s'en tenir à la Parole de Dieu. Il évoque également la photographie de la Lumière surnaturelle et l'accomplissement des prophéties."
+tags:
+  - "fin des temps"
+  - "prophétie"
+  - "visions"
+  - "signes"
+  - "Apocalypse"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Jean-Baptiste"
+  - "Paul"
+  - "Silas"
+  - "Nébucadnetsar"
+  - "Elie"
+  - "Abraham"
+  - "Frère Jackson"
+  - "Frère Beeler"
+  - "Frère Sothmann"
+  - "Frère Wood"
+  - "Soeur Kidd"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Géorgie"
+  - "Babylone"
+  - "Jérusalem"
+  - "Palestine"
+  - "Kentucky"
+  - "Southern Pines"
+themes:
+  - "prophétie biblique"
+  - "révélation divine"
+  - "signes des temps"
+  - "fidélité à la Parole"
+  - "ministère prophétique"
+  - "préparation pour la seconde venue"
+pdf_url: "http://cmpp.ch/messieurs_est_ce_l_heure.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 15"
+  - "1 Timothée 3"
+  - "Apocalypse 1"
+  - "Apocalypse 10"
+  - "Apocalypse 17"
+  - "Apocalypse 3"
+  - "Apocalypse 5"
+  - "Apocalypse 6"
+  - "Colossiens 4"
+  - "Esther 134"
+  - "Esther 136"
+  - "Esther 159"
+  - "Galates 2"
+  - "Hébreux 13"
+  - "Malachie 4"
+  - "Matthieu 13"
+  - "Romains 11"
+  - "Romains 16"
+  - "Éphésiens 3"
+  - "Éphésiens 5"
+  - "Éphésiens 6"
+---
+LA PAROLE PARLEE
 
-    PAR
+PAR
 
-    WILLIAM MARRION BRANHAM
-
-
-
+WILLIAM MARRION BRANHAM
 
 
 MESSIEURS, EST-CE L’HEURE?
    (Sirs, is the Time?)
 
 
-
-
-
      30 décembre 1962, soir
        Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
-
-
 
 
     «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
@@ -34,84 +98,27 @@ Jeffersonville — Indiana, U.S.A.
 Jeffersonville — Indiana, U.S.A.
 
 
-
-
-1 Bonsoir, chers amis. Je suis si heureux ce soir d’être de nouveau au service du Seigneur
-notre Dieu. Je vous ai retenus si longtemps ce matin qu’il me semble que je dois vraiment me
-dépêcher ce soir. Oh, c’est terrible, tous ces gens qui ont dû rester debout! Et ce n’est pas mieux
-ce soir. Mais le temps n’est plus éloigné où nous aurons de la place pour tout le monde. Ce sera
-dès que le bâtiment sera terminé.
-2 Non, ce soir nous ne prévoyons pas de rester trop longtemps. Mais demain soir nous
-resterons plus longtemps. S’il y en a parmi vous qui peuvent venir demain soir, nous nous
-attendons à passer des moments glorieux dans le Seigneur. Il y aura quelques hommes très bien
-ici demain soir. Nous aurons tout notre temps et nous servirons le Repas du Seigneur à minuit. Je
-suis sûr que vous aimerez y participer. Tandis que le reste du monde va faire la fête, crier, faire du
-bruit, boire et tout le reste, nous nous inclinerons simplement avec respect devant Dieu en prenant
-le Repas du Seigneur et nous commencerons l’année en consacrant nos coeurs à Dieu.
-3 Il y aura quelques bons prédicateurs ici demain soir, un frère de Géorgie, le frère Palmer, un
-excellent prédicateur. Le frère Junior Jackson sera ici demain soir ainsi que les frères Beeler et
-Neville, oh, mes frères, et quantité d’autres! De braves hommes de Dieu seront là. Il y aura le frère
-Willard Collins et tous ces frères qui nous ont donné de si glorieux messages. Peut-être que
-d’autres viendront encore, de sorte que nous nous attendons à passer de glorieux moments
-demain soir.
-4 Ma femme m’avait dit: «Ne le dis pas!». Mais il faut quand même que je le dise. Je suis
-désolé de m’être trompé ce matin, quand j’ai dit empire au lieu d’umpire [arbitre — N.d.T.]. Billy qui
-se trouvait au fond dit: «Le voilà encore qui se trompe».
-5 Je disais: «Il fallait qu’il y ait un empire». Je voulais dire “umpire”, arbitre. Il faut faire avec moi
-comme disait ce Hollandais, vous savez: «Ne me prenez pas pour ce que je dis, mais pour ce que
-je veux dire». C’est pourquoi je m’étais dit: «Après toutes ces années, je pense qu’ils me
-comprendront».
-6 Vous savez qu’il y a maintenant trente ans que je suis dans cette chaire. Trente ans dans ce
-tabernacle! Vous devriez me connaître depuis ce temps, n’est-ce pas? Oh, mes frères, mon
-instruction est si limitée! Je ne sais pas parler, mais je fais fidèlement du bruit pour le Seigneur!
-7 Une fois je parlais sans savoir que le docteur Lamsa qui a traduit la Bible Lamsa était présent.
-Il vint parler de l’Urim et du Thummim et parla aussi de cette Lumière. Il dit: «Que se passe-t-il
-avec les gens aujourd’hui? La raison pour laquelle les traducteurs ne sont pas arrivés à traduire la
-Bible correctement est qu’ils ont essayé de traduire d’après le haut hébreu alors que Jésus,
-lorsqu’Il parlait, employait la langue populaire comme les gens dans la rue». Vous savez qu’il y a
-un passage de l’Ecriture dans Luc où il est dit: “Les gens du peuple L’écoutaient avec joie”. Il
-parlait leur langage. J’espère que c’est de nouveau le cas!
-8 Nous sommes heureux pour le Seigneur! Quand je vois ces femmes debout… C’est déjà
-assez regrettable de voir les hommes rester debout, sans compter ces garçons et ces filles qui
-doivent tous s’appuyer contre les murs, ainsi que les petits enfants, mais nous n’avons pas assez
-de places assises. Nous prions donc pour la prochaine fois que nous aurons des réunions après
-celles de cette semaine. Vous savez, la prochaine fois, pour autant que nous le sachions, ce sera
-ces sept Sceaux. Et si le Seigneur le permet, nous commencerons ce sujet aussitôt que l’église
-sera terminée et que nous pourrons l’occuper. Nous referons la consécration, puis nous ferons
+1 Bonsoir, chers amis. Je suis si heureux ce soir d’être de nouveau au service du Seigneur notre Dieu. Je vous ai retenus si longtemps ce matin qu’il me semble que je dois vraiment me dépêcher ce soir. Oh, c’est terrible, tous ces gens qui ont dû rester debout! Et ce n’est pas mieux ce soir. Mais le temps n’est plus éloigné où nous aurons de la place pour tout le monde. Ce sera dès que le bâtiment sera terminé.
+2 Non, ce soir nous ne prévoyons pas de rester trop longtemps. Mais demain soir nous resterons plus longtemps. S’il y en a parmi vous qui peuvent venir demain soir, nous nous attendons à passer des moments glorieux dans le Seigneur. Il y aura quelques hommes très bien ici demain soir. Nous aurons tout notre temps et nous servirons le Repas du Seigneur à minuit. Je suis sûr que vous aimerez y participer. Tandis que le reste du monde va faire la fête, crier, faire du bruit, boire et tout le reste, nous nous inclinerons simplement avec respect devant Dieu en prenant le Repas du Seigneur et nous commencerons l’année en consacrant nos coeurs à Dieu.
+3 Il y aura quelques bons prédicateurs ici demain soir, un frère de Géorgie, le frère Palmer, un excellent prédicateur. Le frère Junior Jackson sera ici demain soir ainsi que les frères Beeler et Neville, oh, mes frères, et quantité d’autres! De braves hommes de Dieu seront là. Il y aura le frère Willard Collins et tous ces frères qui nous ont donné de si glorieux messages. Peut-être que d’autres viendront encore, de sorte que nous nous attendons à passer de glorieux moments demain soir.
+4 Ma femme m’avait dit: «Ne le dis pas!». Mais il faut quand même que je le dise. Je suis désolé de m’être trompé ce matin, quand j’ai dit empire au lieu d’umpire [arbitre — N.d.T.]. Billy qui se trouvait au fond dit: «Le voilà encore qui se trompe».
+5 Je disais: «Il fallait qu’il y ait un empire». Je voulais dire “umpire”, arbitre. Il faut faire avec moi comme disait ce Hollandais, vous savez: «Ne me prenez pas pour ce que je dis, mais pour ce que je veux dire». C’est pourquoi je m’étais dit: «Après toutes ces années, je pense qu’ils me comprendront».
+6 Vous savez qu’il y a maintenant trente ans que je suis dans cette chaire. Trente ans dans ce tabernacle! Vous devriez me connaître depuis ce temps, n’est-ce pas? Oh, mes frères, mon instruction est si limitée! Je ne sais pas parler, mais je fais fidèlement du bruit pour le Seigneur!
+7 Une fois je parlais sans savoir que le docteur Lamsa qui a traduit la Bible Lamsa était présent. Il vint parler de l’Urim et du Thummim et parla aussi de cette Lumière. Il dit: «Que se passe-t-il avec les gens aujourd’hui? La raison pour laquelle les traducteurs ne sont pas arrivés à traduire la Bible correctement est qu’ils ont essayé de traduire d’après le haut hébreu alors que Jésus, lorsqu’Il parlait, employait la langue populaire comme les gens dans la rue». Vous savez qu’il y a un passage de l’Ecriture dans Luc où il est dit: “Les gens du peuple L’écoutaient avec joie”. Il parlait leur langage. J’espère que c’est de nouveau le cas!
+8 Nous sommes heureux pour le Seigneur! Quand je vois ces femmes debout… C’est déjà assez regrettable de voir les hommes rester debout, sans compter ces garçons et ces filles qui doivent tous s’appuyer contre les murs, ainsi que les petits enfants, mais nous n’avons pas assez de places assises. Nous prions donc pour la prochaine fois que nous aurons des réunions après celles de cette semaine. Vous savez, la prochaine fois, pour autant que nous le sachions, ce sera ces sept Sceaux. Et si le Seigneur le permet, nous commencerons ce sujet aussitôt que l’église sera terminée et que nous pourrons l’occuper. Nous referons la consécration, puis nous ferons
 
         http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 3
-une, deux ou même trois semaines de réunions ordinaires, puis nous commencerons ces Sceaux.
-Nous nous attendons à passer des moments glorieux dans le Seigneur ces jours-là. Pour vous qui
-habitez hors de ville, nous vous enverrons des invitations et vous ferons savoir la date une ou
-deux semaines à l’avance.
-9 L’entrepreneur, si j’ai bien compris ce que m’a dit Billy ce soir, devrait avoir terminé le dix
-février. S’il a terminé le dix, nous commencerons autour du quinze. Nous commencerons aussitôt
-qu’ils auront terminé.
-10 Notre vieille soeur Kidd m’a appelé il n’y a pas longtemps. Elle était presque en larmes. Elle
-me dit: «Frère Branham, nous avons tellement essayé de faire démarrer notre vieille voiture, mais
-elle ne veut pas! Priez pour qu’elle démarre et je viendrai demain». Elle dit encore: «Je me
-demande si je pourrai trouver un endroit pour loger».
-11 Je lui répondis: «Ne vous en faites pas! Soeur Kidd, nous vous aurons trouvé une chambre
-aussitôt que vous serez là».
-12 Elle me dit: «Soyez béni! Mais si vous avez des réunions jusqu’à midi, je n’aimerais pas sortir
-à midi».
-13 Vous savez, elle et frère Kidd ont tous deux environs quatre-vingt-cinq ans, et ils sont encore
-dans le ministère. Vous savez ce qu’ils font? Ils se sont procuré un enregistreur et vont faire
-écouter mes messages d’un hôpital à l’autre et de maison en maison. En voilà qui ne se sont pas
-retirés pour prendre leur retraite! Cela, c’est garder sa foi jusqu’à la fin pour mourir l’épée à la
-main. C’est ainsi qu’il faut faire. C’est comme cela que je voudrais faire.
-14 Elle me dit encore: «Vous savez, si je vais sur la route à midi ou après minuit pour rentrer à la
-maison, je suis à moitié morte de peur avec tous ces gens qui foncent sur les routes sous l’empire
-du démon de la boisson».
-15 Frère Pat, elle est sûrement ici. Cette chère soeur! Combien connaissent soeur Kidd? Nous
-voyons bien que c’est une sainte.
-16 Pensez donc. Des années avant ma naissance (et je suis déjà vieux!) elle était là-bas dans
-les montagnes avec frère Kidd. Elle lavait le linge toute la journée sur sa planche à lessive pour
-gagner les quinze ou vingt cents qui permettaient à son mari d’aller prêcher le soir là-bas dans les
-mines de charbon du Kentucky, dans des endroits où il ne pouvait aller prêcher qu’accompagné
-d’un garde du corps armé. Oh, mes frères, cela me fait penser à ce cantique:
+une, deux ou même trois semaines de réunions ordinaires, puis nous commencerons ces Sceaux. Nous nous attendons à passer des moments glorieux dans le Seigneur ces jours-là. Pour vous qui habitez hors de ville, nous vous enverrons des invitations et vous ferons savoir la date une ou deux semaines à l’avance.
+9 L’entrepreneur, si j’ai bien compris ce que m’a dit Billy ce soir, devrait avoir terminé le dix février. S’il a terminé le dix, nous commencerons autour du quinze. Nous commencerons aussitôt qu’ils auront terminé.
+10 Notre vieille soeur Kidd m’a appelé il n’y a pas longtemps. Elle était presque en larmes. Elle me dit: «Frère Branham, nous avons tellement essayé de faire démarrer notre vieille voiture, mais elle ne veut pas! Priez pour qu’elle démarre et je viendrai demain». Elle dit encore: «Je me demande si je pourrai trouver un endroit pour loger».
+11 Je lui répondis: «Ne vous en faites pas! Soeur Kidd, nous vous aurons trouvé une chambre aussitôt que vous serez là».
+12 Elle me dit: «Soyez béni! Mais si vous avez des réunions jusqu’à midi, je n’aimerais pas sortir à midi».
+13 Vous savez, elle et frère Kidd ont tous deux environs quatre-vingt-cinq ans, et ils sont encore dans le ministère. Vous savez ce qu’ils font? Ils se sont procuré un enregistreur et vont faire écouter mes messages d’un hôpital à l’autre et de maison en maison. En voilà qui ne se sont pas retirés pour prendre leur retraite! Cela, c’est garder sa foi jusqu’à la fin pour mourir l’épée à la main. C’est ainsi qu’il faut faire. C’est comme cela que je voudrais faire.
+14 Elle me dit encore: «Vous savez, si je vais sur la route à midi ou après minuit pour rentrer à la maison, je suis à moitié morte de peur avec tous ces gens qui foncent sur les routes sous l’empire du démon de la boisson».
+15 Frère Pat, elle est sûrement ici. Cette chère soeur! Combien connaissent soeur Kidd? Nous voyons bien que c’est une sainte.
+16 Pensez donc. Des années avant ma naissance (et je suis déjà vieux!) elle était là-bas dans les montagnes avec frère Kidd. Elle lavait le linge toute la journée sur sa planche à lessive pour gagner les quinze ou vingt cents qui permettaient à son mari d’aller prêcher le soir là-bas dans les mines de charbon du Kentucky, dans des endroits où il ne pouvait aller prêcher qu’accompagné d’un garde du corps armé. Oh, mes frères, cela me fait penser à ce cantique:
         Dois-je être transporté au Ciel
         Sur un lit de facilité
         Alors que d’autres ont combattu pour gagner le prix
@@ -119,426 +126,127 @@ d’un garde du corps armé. Oh, mes frères, cela me fait penser à ce cantique
         Je dois combattre si je veux régner.
         Augmente mon courage, Seigneur…
      Et je désire le soutien de Sa Parole. C’est ce dont j’ai besoin ce soir.
-17 Maintenant je suppose que les enregistreurs sont en marche. Oh, je suis désolé! Il y avait ici
-ce matin une soeur qui voulait présenter un bébé. Je lui ai dit que nous le ferions ce soir. Demain
-soir nous présenterons des bébés, nous aurons un service de guérison et tout ce que nous
-pourrons faire. Nous aurons tout le temps qu’il faudra.
+17 Maintenant je suppose que les enregistreurs sont en marche. Oh, je suis désolé! Il y avait ici ce matin une soeur qui voulait présenter un bébé. Je lui ai dit que nous le ferions ce soir. Demain soir nous présenterons des bébés, nous aurons un service de guérison et tout ce que nous pourrons faire. Nous aurons tout le temps qu’il faudra.
      [Présentation de l’enfant non enregistrée — N.d.R.]
-18 Je vais maintenant demander aux enfants et aux adolescents de m’accorder une petite
-faveur. Je sais que c’est difficile et que vous ne pouvez pas rester tranquilles très longtemps parce
-que cela vous donne des crampes. Mais je vais aborder ce soir un sujet que je n’ai jamais touché
-auparavant. Il y a quelque chose dont je vais parler et je ne pensais pas que je parlerais jamais sur
-un tel sujet.
-19 La raison pour laquelle ce matin je n’ai pas voulu faire ces choses avant le message est que
-je n’aurais jamais pu arriver au bout de mon sujet, l’Absolu. D’ailleurs je ne pense pas y arriver
-jamais. J’espère ne jamais y arriver! Il est si merveilleux!
-20 Mais ce soir, je vais parler de quelque chose que je ne connais pas. C’est vraiment
-quelque chose pour un prédicateur de dire qu’il va parler de quelque chose qu’il ne connaît pas!
+18 Je vais maintenant demander aux enfants et aux adolescents de m’accorder une petite faveur. Je sais que c’est difficile et que vous ne pouvez pas rester tranquilles très longtemps parce que cela vous donne des crampes. Mais je vais aborder ce soir un sujet que je n’ai jamais touché auparavant. Il y a quelque chose dont je vais parler et je ne pensais pas que je parlerais jamais sur un tel sujet.
+19 La raison pour laquelle ce matin je n’ai pas voulu faire ces choses avant le message est que je n’aurais jamais pu arriver au bout de mon sujet, l’Absolu. D’ailleurs je ne pense pas y arriver jamais. J’espère ne jamais y arriver! Il est si merveilleux!
+20 Mais ce soir, je vais parler de quelque chose que je ne connais pas. C’est vraiment quelque chose pour un prédicateur de dire qu’il va parler de quelque chose qu’il ne connaît pas!
 
         http://www.cmpp.ch
 
     MESSIEURS, EST-CE L’HEURE?                     4
-Mais je vais m’aventurer, pensant qu’au mieux de ma connaissance, cette église pourrait
-comprendre. Je ne voudrais d’aucune sorte vous priver de quelque chose qui pourrait vous être
-profitable.
-21 Au sujet de cet enregistrement (je suppose que l’on est en train d’enregistrer), si jamais vous
-receviez cette bande et que vous l’écoutiez, si quelque chose vous intrigue, ne dites rien de
-moins que ce qu’il y a sur la bande. Ne dites rien de contraire à ce qu’il y a sur la bande.
-22 Il y en a tellement qui écrivent au sujet de la semence du serpent, disant que c’est ceci ou
-cela. J’ai réécouté la bande: je ne dis pas les choses de cette manière. Les gens jugent mal les
-choses.
-23 Vous savez, Jésus, un certain temps après Sa résurrection, marchait sur le rivage avec les
-apôtres. Jean s’appuyait sur Son sein. Les autres demandèrent: “Qu’adviendra-t-il de cet
-homme?”.
-24 Jésus dit: “Que vous importe s’il reste jusqu’à ce que je vienne?”. Là-dessus on se mit à dire
-que Jean vivrait jusqu’à la venue de Jésus. Et l’Ecriture dit: “Pourtant Il n’avait jamais dit cela de
-cette manière”.
-25 Vous voyez, ce n’est pas ce qu’Il avait dit, Il avait simplement dit: “Que VOUS importe s’il
-demeure jusqu’à ce que je vienne?”.
+Mais je vais m’aventurer, pensant qu’au mieux de ma connaissance, cette église pourrait comprendre. Je ne voudrais d’aucune sorte vous priver de quelque chose qui pourrait vous être profitable.
+21 Au sujet de cet enregistrement (je suppose que l’on est en train d’enregistrer), si jamais vous receviez cette bande et que vous l’écoutiez, si quelque chose vous intrigue, ne dites rien de moins que ce qu’il y a sur la bande. Ne dites rien de contraire à ce qu’il y a sur la bande.
+22 Il y en a tellement qui écrivent au sujet de la semence du serpent, disant que c’est ceci ou cela. J’ai réécouté la bande: je ne dis pas les choses de cette manière. Les gens jugent mal les choses.
+23 Vous savez, Jésus, un certain temps après Sa résurrection, marchait sur le rivage avec les apôtres. Jean s’appuyait sur Son sein. Les autres demandèrent: “Qu’adviendra-t-il de cet homme?”.
+24 Jésus dit: “Que vous importe s’il reste jusqu’à ce que je vienne?”. Là-dessus on se mit à dire que Jean vivrait jusqu’à la venue de Jésus. Et l’Ecriture dit: “Pourtant Il n’avait jamais dit cela de cette manière”.
+25 Vous voyez, ce n’est pas ce qu’Il avait dit, Il avait simplement dit: “Que VOUS importe s’il demeure jusqu’à ce que je vienne?”.
 26 Jésus n’avait jamais dit que Jean demeurerait, mais c’est si facile de comprendre de travers!
-27 Ce n’est pas que je condamne quelqu’un de faire ainsi, parce que moi aussi je le fais. Tout le
-monde le fait. Si les apôtres qui marchaient avec notre Seigneur L’ont compris de travers (et ils ne
-L’avaient jamais clairement compris)… Juste à la fin ceux-ci dirent: “Maintenant nous comprenons!
-Maintenant nous croyons et nous sommes sûrs qu’aucun homme n’a rien besoin de Te dire, car
-Tu connais toutes choses”.
-28 Jésus leur dit: “Vous croyez maintenant? Après tout ce temps, vous arrive-t-il enfin de
-croire?”.
-29 C’est simplement humain et nous sommes tous humains. Nous comprenons de travers, mais
-si cela vous semble un peu déroutant, repassez la bande et écoutez attentivement. Alors je suis
-sûr que le Saint-Esprit vous le révélera.
-30 Maintenant vous les jeunes et les enfants, si vous voulez bien retenir vos «amen» encore un
-moment. Attendez encore un petit moment parce que je voudrais que ces choses soient bien
-comprises vu que beaucoup n’auront pas la bande. C’est pourquoi je voudrais être bien sûr que
-vous saisissiez bien ces choses. Nous allons les aborder pendant, disons trente-cinq ou quarante
-minutes, avec autant de respect que possible parce que pour moi ce sont des moments
-extraordinaires. Il s’est passé là quelque chose, et je ne sais pas qu’en faire. Pour autant que je le
-sache, je suis dans la situation la plus embarrassante de tout mon ministère. C’est pourquoi
-inclinons nos têtes maintenant avant de nous approcher de la Parole.
-31 Père céleste, il y a quelque temps j’ai prêché sur ce sujet: Présumer. Présumer, c’est
-s’aventurer sans autorité. Peut-être que ce soir, Seigneur, je vais prendre sur moi d’interpréter
-quelque chose aux gens sans en avoir eu la vision. C’est pourquoi, Seigneur, arrête-moi aux
-points où je dois être arrêté. Ferme ma bouche, Seigneur. Tu as fermé la bouche des lions quand
-Daniel était dans la fosse afin qu’ils ne lui fassent pas de mal. Seigneur, je prie afin que si
-j’essayais d’interpréter faussement quelque chose… Tu as encore le pouvoir de fermer une
-bouche! Mais si c’est la vérité, alors, Seigneur, bénis-la et fais-la jaillir. Tu connais la situation et ce
-qui est sur le point d’arriver. C’est pourquoi je suis venu à ce tout dernier moment dans cette
-chaire afin d’essayer d’interpréter ces choses. Je Te prie de nous aider.
-32 Bénis cette petite église, ce groupe qui vient ici sous ce toit, qui séjourne avec nous dans
-cette ville et qui est venu de nombreux états. Oh, quand les ombres du soir descendent, nous
-sommes si heureux d’avoir un lieu où aller! Quand le monde est dans une telle confusion et qu’il
-ne sait plus où il en est, nous sommes heureux que le Nom du Seigneur soit une Tour puissante,
-et les justes courent se cacher en Elle où ils sont en sécurité. Ce ne sont pas simplement des
-mots, mais une révélation.
-33 C’est pourquoi nous Te prions, Seigneur, tandis que la lumière du soir vient au coucher du
-soleil. Et nous croyons que c’est le temps dans lequel nous vivons, que c’est le coucher du soleil.
+27 Ce n’est pas que je condamne quelqu’un de faire ainsi, parce que moi aussi je le fais. Tout le monde le fait. Si les apôtres qui marchaient avec notre Seigneur L’ont compris de travers (et ils ne L’avaient jamais clairement compris)… Juste à la fin ceux-ci dirent: “Maintenant nous comprenons! Maintenant nous croyons et nous sommes sûrs qu’aucun homme n’a rien besoin de Te dire, car Tu connais toutes choses”.
+28 Jésus leur dit: “Vous croyez maintenant? Après tout ce temps, vous arrive-t-il enfin de croire?”.
+29 C’est simplement humain et nous sommes tous humains. Nous comprenons de travers, mais si cela vous semble un peu déroutant, repassez la bande et écoutez attentivement. Alors je suis sûr que le Saint-Esprit vous le révélera.
+30 Maintenant vous les jeunes et les enfants, si vous voulez bien retenir vos «amen» encore un moment. Attendez encore un petit moment parce que je voudrais que ces choses soient bien comprises vu que beaucoup n’auront pas la bande. C’est pourquoi je voudrais être bien sûr que vous saisissiez bien ces choses. Nous allons les aborder pendant, disons trente-cinq ou quarante minutes, avec autant de respect que possible parce que pour moi ce sont des moments extraordinaires. Il s’est passé là quelque chose, et je ne sais pas qu’en faire. Pour autant que je le sache, je suis dans la situation la plus embarrassante de tout mon ministère. C’est pourquoi inclinons nos têtes maintenant avant de nous approcher de la Parole.
+31 Père céleste, il y a quelque temps j’ai prêché sur ce sujet: Présumer. Présumer, c’est s’aventurer sans autorité. Peut-être que ce soir, Seigneur, je vais prendre sur moi d’interpréter quelque chose aux gens sans en avoir eu la vision. C’est pourquoi, Seigneur, arrête-moi aux points où je dois être arrêté. Ferme ma bouche, Seigneur. Tu as fermé la bouche des lions quand Daniel était dans la fosse afin qu’ils ne lui fassent pas de mal. Seigneur, je prie afin que si j’essayais d’interpréter faussement quelque chose… Tu as encore le pouvoir de fermer une bouche! Mais si c’est la vérité, alors, Seigneur, bénis-la et fais-la jaillir. Tu connais la situation et ce qui est sur le point d’arriver. C’est pourquoi je suis venu à ce tout dernier moment dans cette chaire afin d’essayer d’interpréter ces choses. Je Te prie de nous aider.
+32 Bénis cette petite église, ce groupe qui vient ici sous ce toit, qui séjourne avec nous dans cette ville et qui est venu de nombreux états. Oh, quand les ombres du soir descendent, nous sommes si heureux d’avoir un lieu où aller! Quand le monde est dans une telle confusion et qu’il ne sait plus où il en est, nous sommes heureux que le Nom du Seigneur soit une Tour puissante, et les justes courent se cacher en Elle où ils sont en sécurité. Ce ne sont pas simplement des mots, mais une révélation.
+33 C’est pourquoi nous Te prions, Seigneur, tandis que la lumière du soir vient au coucher du soleil. Et nous croyons que c’est le temps dans lequel nous vivons, que c’est le coucher du soleil.
 
                                   http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 5
-Nous te remercions très solennellement, Seigneur, et de tout notre coeur pour les choses que Tu
-as faites pour nous. Seigneur, je Te remercie pour les visions que Tu as données tout au long de
-cet âge. Chacune a été parfaite et chaque interprétation de songe a été exacte. C’est pourquoi
-nous savons que cela ne pouvait venir que de Toi, Seigneur, car nous sommes des mortels, nous
-sommes tous nés dans le péché et il n’y a pas une seule chose saine en nous. Mais penser que
-Tu as pu prendre une chose telle qu’un être humain, le laver par l’eau de la Parole et par le Sang
-de Christ, et étendre cette main de telle manière qu’une personne n’utilise plus sa propre pensée,
-mais laisse entrer la Pensée de Christ qui connaît toutes choses! Tu la fais entrer et parler et Tu
-utilises un tel tabernacle! Merci, ô Père. Nous bénissons Ton saint Nom. Ce soir nous bénissons
-ce petit groupe en Ton Nom. Nous bénissons le pasteur, frère Neville, ce vaillant serviteur de Dieu.
-Nous bénissons les diacres et les responsables ainsi que tout membre du Corps de Christ ici ou
-dans le monde entier au Nom du Seigneur Jésus.
-34 Oh, quand nous voyons cette ombre ténébreuse, souillée, horrible, tomber sur la face de la
-chrétienté, nous savons que le temps arrive à sa fin. Il y aura un enlèvement et l’Eglise sera
-enlevée. Seigneur, fais-nous marcher de l’avant en regardant à l’Auteur et au Consommateur,
-Christ. Accorde-le, Seigneur, et tandis que nous avançons maintenant, donne-nous au Nom du
-Seigneur Jésus d’entreprendre ces choses qui ont été mises sur notre coeur, et nous prions que
-Tu soies avec nous et que Tu nous aides afin que Tu en aies de la gloire, Seigneur, car nous nous
-remettons à Toi avec Ta Parole au Nom de Jésus-Christ. Amen.
-35 Maintenant si vous avez un crayon et du papier, j’aimerais que vous puissiez écrire différentes
-choses ou tout ce que vous voudrez. Soyez simplement prêts. Vous aussi avec les enregistreurs.
-Si vous le voulez, notez les passages de l’Ecriture quand vous voudrez, parce que je crois que
-c’est l’Ecriture qui compte.
-36 Je voudrais lire ce soir un passage de l’Ecriture dans le Livre de la Révélation de
-Jésus-Christ. Je crois que c’est la révélation de Jésus-Christ telle qu’elle est écrite dans le Livre.
-Toute révélation qui serait contraire à celle-là serait fausse. Je crois qu’il vaut la peine de répéter
-cela. TOUTE REVELATION QUI NE CORRESPOND PAS AVEC CETTE REVELATION ET QUI
-N’APPORTE PAS CETTE REVELATION A LA LUMIERE EST UNE FAUSSE REVELATION. ELLE
-DOIT ETRE SCRIPTURAIRE.
-37 Dans le dixième chapitre du Livre de la révélation de Jésus-Christ je voudrais lire les sept
-premiers versets. Ecoutez attentivement maintenant et priez pour moi.
-        “Et je vis un autre ange puissant descendant du ciel, revêtu d’une nuée, et
-     l’arc-en-ciel sur sa tête, et son visage comme le soleil, et ses pieds comme des colonnes
-     de feu; et il avait dans sa main un petit livre ouvert. Et il mit son pied droit sur la mer et le
-     gauche sur la terre; et il cria à haute voix, comme un lion rugit; et quand il cria, les sept
-     tonnerres firent entendre leurs propres voix. Et quand les sept tonnerres eurent parlé,
-     j’allais écrire; et j’ouïs une voix venant du ciel, disant: Scelle les choses que les sept
-     tonnerres ont prononcées et ne les écris pas. Et l’ange que j’avais vu se tenir sur la mer
-     et sur la terre, leva sa main droite vers le ciel, et jura par celui qui vit aux siècles des
-     siècles, lequel a créé le ciel et les choses qui y sont, et la terre et les choses qui y sont,
-     et la mer et les choses qui y sont, qu’il n’y aurait plus de délai, mais qu’aux jours de la
-     voix du septième ange, quand il sera sur le point de sonner de la trompette, le mystère
-     de Dieu aussi sera terminé, comme il en a annoncé la bonne nouvelle à ses esclaves les
-     prophètes”.
-38 Si je voulais donner un titre à mon sujet de ce soir, ce serait: Monsieur, est-ce le signe de la
-fin?
-39 Nous savons tous que nous sommes en train de vivre une période glorieuse pour l’Eglise
-mais des temps horribles pour l’incrédule. Nous vivons dans l’un des temps les plus dangereux de
-tous, de tous ceux qu’il y ait jamais eus depuis le commencement du monde. Aucun prophète,
-aucun apôtre n’a jamais, à aucune époque, vécu des temps semblables à ceux que nous vivons
-maintenant. C’EST LA FIN.
-40 C’est écrit dans les cieux. C’est écrit sur la face de la terre. C’est écrit dans chaque journal.
-C’EST LA FIN, si vous pouvez lire ce que la main a écrit. Les prophètes ont vécu à l’époque où la
-main avait écrit sur le mur pour une seule nation, mais nous vivons une époque où la main a écrit
-sur le mur pour ce TEMPS-CI. Pour toutes les nations, pour toute la terre, pour toutes choses le
+Nous te remercions très solennellement, Seigneur, et de tout notre coeur pour les choses que Tu as faites pour nous. Seigneur, je Te remercie pour les visions que Tu as données tout au long de cet âge. Chacune a été parfaite et chaque interprétation de songe a été exacte. C’est pourquoi nous savons que cela ne pouvait venir que de Toi, Seigneur, car nous sommes des mortels, nous sommes tous nés dans le péché et il n’y a pas une seule chose saine en nous. Mais penser que Tu as pu prendre une chose telle qu’un être humain, le laver par l’eau de la Parole et par le Sang de Christ, et étendre cette main de telle manière qu’une personne n’utilise plus sa propre pensée, mais laisse entrer la Pensée de Christ qui connaît toutes choses! Tu la fais entrer et parler et Tu utilises un tel tabernacle! Merci, ô Père. Nous bénissons Ton saint Nom. Ce soir nous bénissons ce petit groupe en Ton Nom. Nous bénissons le pasteur, frère Neville, ce vaillant serviteur de Dieu. Nous bénissons les diacres et les responsables ainsi que tout membre du Corps de Christ ici ou dans le monde entier au Nom du Seigneur Jésus.
+34 Oh, quand nous voyons cette ombre ténébreuse, souillée, horrible, tomber sur la face de la chrétienté, nous savons que le temps arrive à sa fin. Il y aura un enlèvement et l’Eglise sera enlevée. Seigneur, fais-nous marcher de l’avant en regardant à l’Auteur et au Consommateur, Christ. Accorde-le, Seigneur, et tandis que nous avançons maintenant, donne-nous au Nom du Seigneur Jésus d’entreprendre ces choses qui ont été mises sur notre coeur, et nous prions que Tu soies avec nous et que Tu nous aides afin que Tu en aies de la gloire, Seigneur, car nous nous remettons à Toi avec Ta Parole au Nom de Jésus-Christ. Amen.
+35 Maintenant si vous avez un crayon et du papier, j’aimerais que vous puissiez écrire différentes choses ou tout ce que vous voudrez. Soyez simplement prêts. Vous aussi avec les enregistreurs. Si vous le voulez, notez les passages de l’Ecriture quand vous voudrez, parce que je crois que c’est l’Ecriture qui compte.
+36 Je voudrais lire ce soir un passage de l’Ecriture dans le Livre de la Révélation de Jésus-Christ. Je crois que c’est la révélation de Jésus-Christ telle qu’elle est écrite dans le Livre. Toute révélation qui serait contraire à celle-là serait fausse. Je crois qu’il vaut la peine de répéter cela. TOUTE REVELATION QUI NE CORRESPOND PAS AVEC CETTE REVELATION ET QUI N’APPORTE PAS CETTE REVELATION A LA LUMIERE EST UNE FAUSSE REVELATION. ELLE DOIT ETRE SCRIPTURAIRE.
+37 Dans le dixième chapitre du Livre de la révélation de Jésus-Christ je voudrais lire les sept premiers versets. Ecoutez attentivement maintenant et priez pour moi.
+        “Et je vis un autre ange puissant descendant du ciel, revêtu d’une nuée, et l’arc-en-ciel sur sa tête, et son visage comme le soleil, et ses pieds comme des colonnes de feu; et il avait dans sa main un petit livre ouvert. Et il mit son pied droit sur la mer et le gauche sur la terre; et il cria à haute voix, comme un lion rugit; et quand il cria, les sept tonnerres firent entendre leurs propres voix. Et quand les sept tonnerres eurent parlé, j’allais écrire; et j’ouïs une voix venant du ciel, disant: Scelle les choses que les sept tonnerres ont prononcées et ne les écris pas. Et l’ange que j’avais vu se tenir sur la mer et sur la terre, leva sa main droite vers le ciel, et jura par celui qui vit aux siècles des siècles, lequel a créé le ciel et les choses qui y sont, et la terre et les choses qui y sont, et la mer et les choses qui y sont, qu’il n’y aurait plus de délai, mais qu’aux jours de la voix du septième ange, quand il sera sur le point de sonner de la trompette, le mystère de Dieu aussi sera terminé, comme il en a annoncé la bonne nouvelle à ses esclaves les prophètes”.
+38 Si je voulais donner un titre à mon sujet de ce soir, ce serait: Monsieur, est-ce le signe de la fin?
+39 Nous savons tous que nous sommes en train de vivre une période glorieuse pour l’Eglise mais des temps horribles pour l’incrédule. Nous vivons dans l’un des temps les plus dangereux de tous, de tous ceux qu’il y ait jamais eus depuis le commencement du monde. Aucun prophète, aucun apôtre n’a jamais, à aucune époque, vécu des temps semblables à ceux que nous vivons maintenant. C’EST LA FIN.
+40 C’est écrit dans les cieux. C’est écrit sur la face de la terre. C’est écrit dans chaque journal. C’EST LA FIN, si vous pouvez lire ce que la main a écrit. Les prophètes ont vécu à l’époque où la main avait écrit sur le mur pour une seule nation, mais nous vivons une époque où la main a écrit sur le mur pour ce TEMPS-CI. Pour toutes les nations, pour toute la terre, pour toutes choses le
 
         http://www.cmpp.ch
 
     MESSIEURS, EST-CE L’HEURE?    6
-temps est à la fin. C’est pourquoi nous devons sonder les Ecritures pour découvrir dans
-quelle heure nous vivons.
-41 Un vrai prophète de Dieu ira toujours à l’Ecriture. Alors il sera absolument sûr que les choses
-seront de cette manière-là. Dans l’Ancien Testament quand des prophètes disaient quoi que ce
-soit, il y avait toujours quelque part un prophète avec la Parole, un prophète qui s’en tenait à la
-Parole. Il regardait à Dieu pour les visions. Si sa vision était contraire à la Parole, alors sa vision
-était fausse. C’est la manière de Dieu de faire parvenir Sa Parole à Son peuple.
-42 Je ne sais pas très bien où commencer. Cela a été pour moi un grand privilège de savoir que
-le Tabernacle était ma première église. C’est une chose glorieuse. Je ne l’oublierai jamais, même
-si Jésus tardait et que je doive vivre encore des centaines d’années. Je me rappellerai le jour où
-j’ai posé la pierre angulaire, là au coin, et la vision qu’Il me donna de ce tabernacle ce matin-là.
-Vous vous en souvenez tous. C’est écrit dans les brochures. Cela s’est accompli absolument, à la
-lettre. Il n’en manquait rien.
-43 Je ne crois pas que de tout ce dont Il m’a parlé durant toutes ces années de ma vie il y ait
-quoi que ce soit, des choses que j’ai dites aux gens, qui ne soit arrivé. Beaucoup de gens sont
-venus avec des songes que par Sa grâce Il m’a laissé leur interpréter. Beaucoup sont aussi venus
-avec des songes et des problèmes que j’ai été incapable d’interpréter.
-44 Mais je n’ai pas essayé de vous donner un truc qui aurait toutes les réponses. J’ai essayé
-d’être honnête et de vous dire ce qui était la vérité et je ne pouvais vous le dire que comme
-Il me l’avait dit. Je pouvais vous le dire comme cela me venait.
-45 Je voudrais vous mettre en garde. Dans ces jours où nous vivons (je ne dis pas cela contre
-les gens), si vous voyez quelqu’un qui a réponse à tout, c’est contraire à la Parole.
-46 Jésus a dit: “Il y avait beaucoup de lépreux du temps d’Elie, mais un seul fut guéri”. Il y avait
-de nombreuses veuves du temps d’Elie, mais il fut envoyé vers une seule. Nous découvrons que
-Dieu fait beaucoup de choses qu’Il ne révèle pas à Ses serviteurs, et aucun serviteur n’est plus
-grand que son Seigneur. Et il y a encore ceci, c’est que Dieu ne partagera Sa gloire avec
-personne. Il est Dieu. Quand un serviteur en arrive au point où il essaie de prendre la place de
-Dieu, Dieu prend sa vie et l’expédie ailleurs. Nous devons nous en souvenir.
-47 Maintenant au sujet de ces visions et de leur interprétation, je ne peux pas donner
-l’interprétation d’un songe avant d’avoir vu exactement par une vision ce que ce songe était.
-Beaucoup d’entre vous sont venus me raconter leur songe mais ne pouvaient même pas me le
-raconter complètement. Quand je voyais le songe venir en moi, je me tournais vers eux et leur
-disais qu’ils en avaient omis une grande partie, et alors je leur disais ce qu’ils avaient omis. Vous
-savez que c’est vrai. Si c’est vrai, dites: «Amen». Il y avait des choses que vous ne me disiez pas.
-Vous voyez? C’est pourquoi Nébucadnetsar avait dit: “Si vous ne pouvez pas me dire ce que j’ai
-rêvé, comment saurai-je que vous en avez reçu l’interprétation?”.
-48 Mais nous ne devons pas prendre toutes ces impressions et dire: «C’est AINSI DIT LE
-SEIGNEUR!». Nous ne devons pas faire cela. Nous devons avoir une voix directe, une
-réponse de Dieu, avant de pouvoir dire que c’est Dieu. Pas une impression. Pas une
-sensation. Cela a beau faire des vibrations. Vous pourriez dire: «Je crois que cela pourrait être
-ainsi». Mais quand vous dites: «AINSI DIT LE SEIGNEUR», ce n’est pas vous. Observez ce qui se
-passe sur l’estrade. Avez-vous déjà vu cela manquer? Le «AINSI DIT LE SEIGNEUR» est parfait.
-Il n’a jamais menti. Aussi longtemps que c’est AINSI DIT LE SEIGNEUR, cela ne peut manquer.
-49 Jusqu’à présent Il m’a protégé parce que je me suis attendu à Lui. Je n’ai pas essayé de
-rechercher la popularité ou la vaine gloire de l’homme. J’ai essayé de mon mieux de vivre
-humblement, de vivre le genre de vie que je pense qu’un chrétien doit vivre. Je n’ai pas été
-capable de le faire par ce qui est en moi, mais c’est Lui qui l’a fait jusqu’à ce jour. Comme je l’ai
-dit, Il est Celui qui m’a conduit.
-50 Beaucoup de choses pourraient encore être dites ainsi, mais cela prendrait trop de temps.
-Mais vous êtes tous conscients de ces choses. La seule raison pour laquelle j’ai fait dire «Amen» il
-y a un petit moment à ceux qui m’avaient raconté leurs songes et à qui j’avais dit ce qu’ils avaient
-omis, c’est que ce message est enregistré et qu’il sera entendu par des hommes de toutes
-nations. Et quand ils entendront cet «Amen», ils sauront que ce sont les voix de ceux qui sont
-placés sous ce ministère et qui sont assez avisés pour ne rien faire de faux ou dire «Amen» à
+temps est à la fin. C’est pourquoi nous devons sonder les Ecritures pour découvrir dans quelle heure nous vivons.
+41 Un vrai prophète de Dieu ira toujours à l’Ecriture. Alors il sera absolument sûr que les choses seront de cette manière-là. Dans l’Ancien Testament quand des prophètes disaient quoi que ce soit, il y avait toujours quelque part un prophète avec la Parole, un prophète qui s’en tenait à la Parole. Il regardait à Dieu pour les visions. Si sa vision était contraire à la Parole, alors sa vision était fausse. C’est la manière de Dieu de faire parvenir Sa Parole à Son peuple.
+42 Je ne sais pas très bien où commencer. Cela a été pour moi un grand privilège de savoir que le Tabernacle était ma première église. C’est une chose glorieuse. Je ne l’oublierai jamais, même si Jésus tardait et que je doive vivre encore des centaines d’années. Je me rappellerai le jour où j’ai posé la pierre angulaire, là au coin, et la vision qu’Il me donna de ce tabernacle ce matin-là. Vous vous en souvenez tous. C’est écrit dans les brochures. Cela s’est accompli absolument, à la lettre. Il n’en manquait rien.
+43 Je ne crois pas que de tout ce dont Il m’a parlé durant toutes ces années de ma vie il y ait quoi que ce soit, des choses que j’ai dites aux gens, qui ne soit arrivé. Beaucoup de gens sont venus avec des songes que par Sa grâce Il m’a laissé leur interpréter. Beaucoup sont aussi venus avec des songes et des problèmes que j’ai été incapable d’interpréter.
+44 Mais je n’ai pas essayé de vous donner un truc qui aurait toutes les réponses. J’ai essayé d’être honnête et de vous dire ce qui était la vérité et je ne pouvais vous le dire que comme Il me l’avait dit. Je pouvais vous le dire comme cela me venait.
+45 Je voudrais vous mettre en garde. Dans ces jours où nous vivons (je ne dis pas cela contre les gens), si vous voyez quelqu’un qui a réponse à tout, c’est contraire à la Parole.
+46 Jésus a dit: “Il y avait beaucoup de lépreux du temps d’Elie, mais un seul fut guéri”. Il y avait de nombreuses veuves du temps d’Elie, mais il fut envoyé vers une seule. Nous découvrons que Dieu fait beaucoup de choses qu’Il ne révèle pas à Ses serviteurs, et aucun serviteur n’est plus grand que son Seigneur. Et il y a encore ceci, c’est que Dieu ne partagera Sa gloire avec personne. Il est Dieu. Quand un serviteur en arrive au point où il essaie de prendre la place de Dieu, Dieu prend sa vie et l’expédie ailleurs. Nous devons nous en souvenir.
+47 Maintenant au sujet de ces visions et de leur interprétation, je ne peux pas donner l’interprétation d’un songe avant d’avoir vu exactement par une vision ce que ce songe était. Beaucoup d’entre vous sont venus me raconter leur songe mais ne pouvaient même pas me le raconter complètement. Quand je voyais le songe venir en moi, je me tournais vers eux et leur disais qu’ils en avaient omis une grande partie, et alors je leur disais ce qu’ils avaient omis. Vous savez que c’est vrai. Si c’est vrai, dites: «Amen». Il y avait des choses que vous ne me disiez pas. Vous voyez? C’est pourquoi Nébucadnetsar avait dit: “Si vous ne pouvez pas me dire ce que j’ai rêvé, comment saurai-je que vous en avez reçu l’interprétation?”.
+48 Mais nous ne devons pas prendre toutes ces impressions et dire: «C’est AINSI DIT LE SEIGNEUR!». Nous ne devons pas faire cela. Nous devons avoir une voix directe, une réponse de Dieu, avant de pouvoir dire que c’est Dieu. Pas une impression. Pas une sensation. Cela a beau faire des vibrations. Vous pourriez dire: «Je crois que cela pourrait être ainsi». Mais quand vous dites: «AINSI DIT LE SEIGNEUR», ce n’est pas vous. Observez ce qui se passe sur l’estrade. Avez-vous déjà vu cela manquer? Le «AINSI DIT LE SEIGNEUR» est parfait. Il n’a jamais menti. Aussi longtemps que c’est AINSI DIT LE SEIGNEUR, cela ne peut manquer.
+49 Jusqu’à présent Il m’a protégé parce que je me suis attendu à Lui. Je n’ai pas essayé de rechercher la popularité ou la vaine gloire de l’homme. J’ai essayé de mon mieux de vivre humblement, de vivre le genre de vie que je pense qu’un chrétien doit vivre. Je n’ai pas été capable de le faire par ce qui est en moi, mais c’est Lui qui l’a fait jusqu’à ce jour. Comme je l’ai dit, Il est Celui qui m’a conduit.
+50 Beaucoup de choses pourraient encore être dites ainsi, mais cela prendrait trop de temps. Mais vous êtes tous conscients de ces choses. La seule raison pour laquelle j’ai fait dire «Amen» il y a un petit moment à ceux qui m’avaient raconté leurs songes et à qui j’avais dit ce qu’ils avaient omis, c’est que ce message est enregistré et qu’il sera entendu par des hommes de toutes nations. Et quand ils entendront cet «Amen», ils sauront que ce sont les voix de ceux qui sont placés sous ce ministère et qui sont assez avisés pour ne rien faire de faux ou dire «Amen» à
 
     http://www.cmpp.ch
 
     MESSIEURS, EST-CE L’HEURE?                      7
 quelque chose de faux. Amen veut dire ainsi soit-il. Cela signifie sanctionner.
-51 Dans toute ma vie, depuis ma plus tendre enfance il y a quelque chose qui m’a toujours
-tracassé. J’ai vécu une vie très bizarre et difficile à comprendre. Même ma femme se gratte la tête
-et me dit: «Bill, je ne crois pas que personne ne pourra jamais te comprendre».
-52 Je lui dis: «Je ne comprends pas moi-même». Parce que je me suis remis entre les mains de
-Christ il y a de nombreuses années. C’est Lui qui conduit. Je n’essaie pas de comprendre. Je vais
-simplement où Il me conduit, au mieux de ma connaissance.
-53 Je suis reconnaissant d’avoir une gentille femme et de gentils enfants et aussi de ce que ma
-femme et mes enfants ont confiance que je ne leur dirais rien de faux. Ils croient cela. Chaque fois
-que je leur dis quelque chose, ils s’y tiennent. Ils savent que je ne leur dirais jamais quelque chose
-de faux. Alors dirais-je quoi que ce soit de faux à un enfant de Dieu? En tout cas pas
-volontairement! Dieu veut que Ses enfants reçoivent la bonne sorte de formation. Soyons
-honnêtes et véridiques avec eux et Il bénira. Je le crois.
-54 Tout au long du voyage il y a eu des choses qui sont arrivées et que je ne comprenais pas.
-Une des choses que je ne pouvais comprendre quand j’étais un petit garçon, c’était ces visions qui
-me venaient. Je les voyais et disais à mes parents des choses qui allaient arriver. Ils pensaient
-que c’était simplement mes nerfs. Mais ce qui était étrange, c’est que cela arrivait juste comme je
-l’avais dit. Vous me direz: «Etait-ce avant votre conversion?».
-55 Oui. La Bible dit: «Les dons et les appels sont sans repentance». Vous êtes né dans ce
-monde pour un certain but. Ce n’est pas votre repentance qui apporte les dons. Ils ont été
-prédestinés pour vous.
-56 Quand j’étais petit, je n’aimais pas la contrée où je vivais. D’une manière ou d’une autre,
-j’aspirais à aller vers l’ouest.
-57 Petit garçon, je fus opéré à la suite d’un coup de fusil que j’avais reçu. En sortant de la
-première anesthésie, je pensai que j’étais descendu dans les tourments. L’éther m’avait assommé
-et je crois que je suis resté inconscient pendant huit heures. Les médecins se faisaient du souci,
-se demandant s’ils arriveraient jamais à me réveiller. Ils avaient fait une longue opération sans
-pénicilline et j’avais perdu beaucoup de sang. Mes deux jambes avaient presque été arrachées
-par le coup de fusil qu’avait laissé partir mon camarade.
-58 Sept mois plus tard je dus retourner sous narcose et en sortant de l’anesthésie, je pensais
-que je me tenais dans les prairies de l’Ouest. Il y avait une grande croix d’or dans le ciel, et la
-gloire de Dieu descendait d’elle avec éclat, et moi je me tenais là ainsi.
-59 Quand la Lumière que vous avez vue sur la photo ce soir et qui a été prouvée par la
-recherche scientifique comme étant un Etre surnaturel… Pour moi c’est la même Lumière que
-celle qui jeta Paul à terre. C’est la même Lumière que celle qui conduisait de nuit les enfants
-d'Israël. Avez-vous remarqué cet ange, ici, vêtu d’une nuée? Vous voyez, le jour Il était une nuée.
-60 C’est cette même Lumière, bien que les gens n’aient pas compris, pensant que c’était faux et
-que c’était simplement moi qui disais cela. Mais il est apparu que le Saint-Esprit a des instruments
-scientifiques avec lesquels des gens, en confirmation de cela, en ont pris des photographies
-plusieurs fois. J’avais dit: «II y a une personne couverte d'une ombre de mort», et l’on vit une
-ombre noire sur elle.
-61 Il y a quelques semaines, je prêchais dans une ville. Vous savez, d’habitude on ne prend pas
-de photos pendant la prédication (c’est pourtant ce qui s’était déjà fait quand cette photo-ci avait
-été prise), mais quelqu’un avait une caméra. J’avais dit à une femme assise au fond, une
-étrangère (cela se passait à Southern Pines): «Il y a une ombre sur vous, miss Untel (une dame
-que je n’avais jamais vue de ma vie). Vous venez de chez le médecin et vous avez deux cancers,
-un sur chaque sein, et vous êtes abandonnée des médecins. Vous êtes couverte du capuchon noir
-de la mort».
-62 Quelque chose dit à une soeur qui était assise à proximité et qui avait un appareil de photo
-muni d’un flash: «Prends une photo!». Mais elle ne voulait pas le faire. Elle entendit encore une
-fois: «Prends une photo!». Mais elle ne le faisait toujours pas. Cette voix parla encore une fois.
-Alors elle prit son appareil et fit la photo, et la voici, prouvée scientifiquement. Elle est sur le
-panneau d’affichage. On y voit une ombre en forme de capuchon noir.
+51 Dans toute ma vie, depuis ma plus tendre enfance il y a quelque chose qui m’a toujours tracassé. J’ai vécu une vie très bizarre et difficile à comprendre. Même ma femme se gratte la tête et me dit: «Bill, je ne crois pas que personne ne pourra jamais te comprendre».
+52 Je lui dis: «Je ne comprends pas moi-même». Parce que je me suis remis entre les mains de Christ il y a de nombreuses années. C’est Lui qui conduit. Je n’essaie pas de comprendre. Je vais simplement où Il me conduit, au mieux de ma connaissance.
+53 Je suis reconnaissant d’avoir une gentille femme et de gentils enfants et aussi de ce que ma femme et mes enfants ont confiance que je ne leur dirais rien de faux. Ils croient cela. Chaque fois que je leur dis quelque chose, ils s’y tiennent. Ils savent que je ne leur dirais jamais quelque chose de faux. Alors dirais-je quoi que ce soit de faux à un enfant de Dieu? En tout cas pas volontairement! Dieu veut que Ses enfants reçoivent la bonne sorte de formation. Soyons honnêtes et véridiques avec eux et Il bénira. Je le crois.
+54 Tout au long du voyage il y a eu des choses qui sont arrivées et que je ne comprenais pas. Une des choses que je ne pouvais comprendre quand j’étais un petit garçon, c’était ces visions qui me venaient. Je les voyais et disais à mes parents des choses qui allaient arriver. Ils pensaient que c’était simplement mes nerfs. Mais ce qui était étrange, c’est que cela arrivait juste comme je l’avais dit. Vous me direz: «Etait-ce avant votre conversion?».
+55 Oui. La Bible dit: «Les dons et les appels sont sans repentance». Vous êtes né dans ce monde pour un certain but. Ce n’est pas votre repentance qui apporte les dons. Ils ont été prédestinés pour vous.
+56 Quand j’étais petit, je n’aimais pas la contrée où je vivais. D’une manière ou d’une autre, j’aspirais à aller vers l’ouest.
+57 Petit garçon, je fus opéré à la suite d’un coup de fusil que j’avais reçu. En sortant de la première anesthésie, je pensai que j’étais descendu dans les tourments. L’éther m’avait assommé et je crois que je suis resté inconscient pendant huit heures. Les médecins se faisaient du souci, se demandant s’ils arriveraient jamais à me réveiller. Ils avaient fait une longue opération sans pénicilline et j’avais perdu beaucoup de sang. Mes deux jambes avaient presque été arrachées par le coup de fusil qu’avait laissé partir mon camarade.
+58 Sept mois plus tard je dus retourner sous narcose et en sortant de l’anesthésie, je pensais que je me tenais dans les prairies de l’Ouest. Il y avait une grande croix d’or dans le ciel, et la gloire de Dieu descendait d’elle avec éclat, et moi je me tenais là ainsi.
+59 Quand la Lumière que vous avez vue sur la photo ce soir et qui a été prouvée par la recherche scientifique comme étant un Etre surnaturel… Pour moi c’est la même Lumière que celle qui jeta Paul à terre. C’est la même Lumière que celle qui conduisait de nuit les enfants d'Israël. Avez-vous remarqué cet ange, ici, vêtu d’une nuée? Vous voyez, le jour Il était une nuée.
+60 C’est cette même Lumière, bien que les gens n’aient pas compris, pensant que c’était faux et que c’était simplement moi qui disais cela. Mais il est apparu que le Saint-Esprit a des instruments scientifiques avec lesquels des gens, en confirmation de cela, en ont pris des photographies plusieurs fois. J’avais dit: «II y a une personne couverte d'une ombre de mort», et l’on vit une ombre noire sur elle.
+61 Il y a quelques semaines, je prêchais dans une ville. Vous savez, d’habitude on ne prend pas de photos pendant la prédication (c’est pourtant ce qui s’était déjà fait quand cette photo-ci avait été prise), mais quelqu’un avait une caméra. J’avais dit à une femme assise au fond, une étrangère (cela se passait à Southern Pines): «Il y a une ombre sur vous, miss Untel (une dame que je n’avais jamais vue de ma vie). Vous venez de chez le médecin et vous avez deux cancers, un sur chaque sein, et vous êtes abandonnée des médecins. Vous êtes couverte du capuchon noir de la mort».
+62 Quelque chose dit à une soeur qui était assise à proximité et qui avait un appareil de photo muni d’un flash: «Prends une photo!». Mais elle ne voulait pas le faire. Elle entendit encore une fois: «Prends une photo!». Mais elle ne le faisait toujours pas. Cette voix parla encore une fois. Alors elle prit son appareil et fit la photo, et la voici, prouvée scientifiquement. Elle est sur le panneau d’affichage. On y voit une ombre en forme de capuchon noir.
 
                                   http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 8
-63 Ensuite quand la femme crut et que l’on eut prié pour elle, une seconde photo fut faite après
-la première, et il n’y a plus rien. J’avais dit: «L’ombre est partie». Cette dame est toujours vivante
-par la grâce de Dieu.
-64 Voyez-vous ce que je veux dire? Si vous dites la vérité, peut-être que l’on se moquera de
-vous pendant un certain temps, peut-être que vous serez incompris pendant un certain
-temps, mais Dieu confirmera que c’est la vérité, si vous voulez simplement rester avec cela.
-Tenez ferme simplement! Peut-être que cela prendra des années comme pour Abraham et les
-autres, mais Il fera toujours en sorte que ce soit la vérité.
-65 Quand cet ange descendit… et je suppose qu’à part ma femme il y a ici ce soir des gens qui
-viennent depuis trente ans et qui étaient tout près quand cela descendit. Y a-t-il maintenant
-quelqu’un dans cet auditoire qui était présent quand l’Ange du Seigneur descendit la première fois
-au bord de la rivière devant les gens? Veuillez lever la main. Oui, en voilà. Je vois madame Wilson
-qui lève la main. Elle était là. Ma femme aussi y était. Je ne connais pas tous ceux qui se tenaient
-au bord de la rivière devant de très nombreuses personnes quand j’étais en train de baptiser à
-deux heures de l’après-midi. Tout à coup de ce ciel d’airain (il n’avait pas plu depuis une semaine),
-Il descendit avec un fort grondement et dit: «De même que Jean-Baptiste fut envoyé pour
-préparer la première venue de Christ, tu es envoyé avec un message pour préparer la
-seconde venue de Christ».
-66 Beaucoup d’hommes d’affaires de la ville se tenant sur la rive me demandèrent ce que cela
-signifiait. Je leur dis: «Ce n’est pas pour moi, c’est pour vous». Il se dirigea vers l’ouest tandis qu’Il
-remontait. Il repartit tout droit par-dessus le pont dans la direction de l’ouest.
-67 Plus tard j’ai fait la connaissance d’un astronome, c’est-à-dire d’un mage. Il m’a dit que les
-étoiles s’étaient réunies en une certaine constellation quand les sages de Babylone virent
-descendre vers la Palestine ces trois étoiles formant une constellation. Vous m’avez souvent
-entendu dire cela. Savez-vous que ces dernières semaines il a été prouvé que c’était la vérité?
-68 Frère Sothmann, n’auriez-vous pas pris ce journal avec vous ici ce soir? C’est dans le journal,
-sur une feuille du Journal du Dimanche du 9 décembre. Un reporter est allé là-bas où ils ont
-déterré toutes ces choses et il est prouvé qu’en réalité, l’année dans laquelle nous allons entrer est
-1970. En déterrant des cailloux on a prouvé que notre calendrier était faux et qu’il y avait un
-décalage de sept ans! Il est plus tard que nous ne le pensons!
-69 D’ailleurs je ne vois pas le frère Fred. Frère Sothmann, êtes-vous là? Avez-vous le journal
-avec vous, frère Sothmann? Il a le journal. Peut-être que demain soir je vous demanderai de nous
-lire cela. Ce soir nous n’avons pas le temps.
-70 Ainsi vous pouvez voir et observer les choses exactement. Ces mages, ces mages juifs là-
-bas à Babylone, en étudiant les étoiles, ils virent ces étoiles entrer dans leur constellation, et
-quand elles y furent entrées, ils surent que le Messie était sur la terre. Après deux ans de voyage
-ils arrivèrent à Jérusalem et demandèrent: “Où est Celui qui est né Roi des Juifs?” en parcourant
-les rues. Mais Israël se moqua d’eux: “Quelle bande de fanatiques!”. Ils n’avaient rien su de cela.
-Mais le Messie était sur la terre! Vous connaissez le reste de l’histoire. Nous la lirons d’ailleurs
-demain soir.
-71 Nous revenons maintenant à ceci, c’est que les visions ne manquent pas de s’accomplir,
-parce qu’elles sont de Dieu. Pendant tout le long de mon voyage sur cette terre, c’est quelque
-chose qui m’a entraîné, exerçant une traction sur moi. Quand ce mage me dit ces choses (je
-n’étais alors qu’un jeune homme, c’était quand j’étais garde-chasse ou même avant, je crois), cela
-m’effraya parce que j’avais peur de ce qu’étaient les mages. Mais plus tard je découvris que les
-mages de la Bible avaient raison parce que Dieu annonce les choses dans le Ciel avant de les
-annoncer sur la terre. C’est pourquoi ils observaient ces corps célestes.
-72 Pierre dit: “Dieu ne regarde pas aux personnes dans aucune nation, mais dans toutes les
-nations Dieu accepte ceux qui Le craignent”.
-73 J’essayai d’abandonner la pensée… Oh, cela prendrait des heures pour vous expliquer
-comment cela se dirigeait dans cette direction. Mais j’avais peur de cela! Ce mage m’avait dit: «Tu
-n’auras jamais de succès dans l’est. Tu es né sous un certain signe. Ce signe, cette constellation,
-quand elle est passée par là le jour de ta naissance, elle se tenait en direction de l’ouest. Tu dois
-aller vers l’ouest».
+63 Ensuite quand la femme crut et que l’on eut prié pour elle, une seconde photo fut faite après la première, et il n’y a plus rien. J’avais dit: «L’ombre est partie». Cette dame est toujours vivante par la grâce de Dieu.
+64 Voyez-vous ce que je veux dire? Si vous dites la vérité, peut-être que l’on se moquera de vous pendant un certain temps, peut-être que vous serez incompris pendant un certain temps, mais Dieu confirmera que c’est la vérité, si vous voulez simplement rester avec cela. Tenez ferme simplement! Peut-être que cela prendra des années comme pour Abraham et les autres, mais Il fera toujours en sorte que ce soit la vérité.
+65 Quand cet ange descendit… et je suppose qu’à part ma femme il y a ici ce soir des gens qui viennent depuis trente ans et qui étaient tout près quand cela descendit. Y a-t-il maintenant quelqu’un dans cet auditoire qui était présent quand l’Ange du Seigneur descendit la première fois au bord de la rivière devant les gens? Veuillez lever la main. Oui, en voilà. Je vois madame Wilson qui lève la main. Elle était là. Ma femme aussi y était. Je ne connais pas tous ceux qui se tenaient au bord de la rivière devant de très nombreuses personnes quand j’étais en train de baptiser à deux heures de l’après-midi. Tout à coup de ce ciel d’airain (il n’avait pas plu depuis une semaine), Il descendit avec un fort grondement et dit: «De même que Jean-Baptiste fut envoyé pour préparer la première venue de Christ, tu es envoyé avec un message pour préparer la seconde venue de Christ».
+66 Beaucoup d’hommes d’affaires de la ville se tenant sur la rive me demandèrent ce que cela signifiait. Je leur dis: «Ce n’est pas pour moi, c’est pour vous». Il se dirigea vers l’ouest tandis qu’Il remontait. Il repartit tout droit par-dessus le pont dans la direction de l’ouest.
+67 Plus tard j’ai fait la connaissance d’un astronome, c’est-à-dire d’un mage. Il m’a dit que les étoiles s’étaient réunies en une certaine constellation quand les sages de Babylone virent descendre vers la Palestine ces trois étoiles formant une constellation. Vous m’avez souvent entendu dire cela. Savez-vous que ces dernières semaines il a été prouvé que c’était la vérité?
+68 Frère Sothmann, n’auriez-vous pas pris ce journal avec vous ici ce soir? C’est dans le journal, sur une feuille du Journal du Dimanche du 9 décembre. Un reporter est allé là-bas où ils ont déterré toutes ces choses et il est prouvé qu’en réalité, l’année dans laquelle nous allons entrer est 1970. En déterrant des cailloux on a prouvé que notre calendrier était faux et qu’il y avait un décalage de sept ans! Il est plus tard que nous ne le pensons!
+69 D’ailleurs je ne vois pas le frère Fred. Frère Sothmann, êtes-vous là? Avez-vous le journal avec vous, frère Sothmann? Il a le journal. Peut-être que demain soir je vous demanderai de nous lire cela. Ce soir nous n’avons pas le temps.
+70 Ainsi vous pouvez voir et observer les choses exactement. Ces mages, ces mages juifs là-bas à Babylone, en étudiant les étoiles, ils virent ces étoiles entrer dans leur constellation, et quand elles y furent entrées, ils surent que le Messie était sur la terre. Après deux ans de voyage ils arrivèrent à Jérusalem et demandèrent: “Où est Celui qui est né Roi des Juifs?” en parcourant les rues. Mais Israël se moqua d’eux: “Quelle bande de fanatiques!”. Ils n’avaient rien su de cela. Mais le Messie était sur la terre! Vous connaissez le reste de l’histoire. Nous la lirons d’ailleurs demain soir.
+71 Nous revenons maintenant à ceci, c’est que les visions ne manquent pas de s’accomplir, parce qu’elles sont de Dieu. Pendant tout le long de mon voyage sur cette terre, c’est quelque chose qui m’a entraîné, exerçant une traction sur moi. Quand ce mage me dit ces choses (je n’étais alors qu’un jeune homme, c’était quand j’étais garde-chasse ou même avant, je crois), cela m’effraya parce que j’avais peur de ce qu’étaient les mages. Mais plus tard je découvris que les mages de la Bible avaient raison parce que Dieu annonce les choses dans le Ciel avant de les annoncer sur la terre. C’est pourquoi ils observaient ces corps célestes.
+72 Pierre dit: “Dieu ne regarde pas aux personnes dans aucune nation, mais dans toutes les nations Dieu accepte ceux qui Le craignent”.
+73 J’essayai d’abandonner la pensée… Oh, cela prendrait des heures pour vous expliquer comment cela se dirigeait dans cette direction. Mais j’avais peur de cela! Ce mage m’avait dit: «Tu n’auras jamais de succès dans l’est. Tu es né sous un certain signe. Ce signe, cette constellation, quand elle est passée par là le jour de ta naissance, elle se tenait en direction de l’ouest. Tu dois aller vers l’ouest».
 
         http://www.cmpp.ch
 
     MESSIEURS, EST-CE L’HEURE?    9
-74 Je me disais: «Oublie cela!». Je n’avais rien à faire avec ces choses. Mais pendant tout ce
-temps, cela ne sortait pas de mon coeur.
-75 Ensuite quand j’étais allé là-haut au sujet de ces visions, je ne pouvais toujours pas
-comprendre. Mes frères baptistes me disaient que c’était du diable. Ensuite quand l’Ange apparut,
-Il mit chaque chose à sa place par rapport à l’Ecriture et me dit que c’était comme autrefois quand
-les sacrificateurs ergotaient sur des choses, ne sachant rien du tout du genre de vêtements qu’ils
-devaient porter et de tout le reste et discutaillant au sujet de leurs divergences, alors que pendant
-ce temps les mages suivaient l’étoile de Christ.
-76 Tandis que les prédicateurs disaient que Jésus était un imposteur, un Béelzébul, un démon
-se leva et dit: “Nous savons qui Tu es! Tu es le Saint de Dieu! Pourquoi viens-Tu nous tourmenter
-avant le temps?”.
-77 Quand Paul et Silas allèrent prêcher l’Evangile, les prédicateurs de ce pays dirent: “Ces
-hommes sont des imposteurs! Ils déchirent nos églises et tout le reste, bouleversant le monde
-avec leur corruption!”.
-78 Mais qu’arriva-t-il? Il y avait aussi là une diseuse de bonne aventure une femme-mage qui dit:
-“Ce sont des hommes de Dieu qui nous enseignent les voies de la Vie”.
-79 Paul réprimanda cet esprit en elle. Il n’avait besoin d’aucune aide pour témoigner de ce qu’il
-était. Jésus les a toujours fait taire. Mais c’est pour vous montrer que quelquefois les démons en
-connaissent plus au sujet des choses de Dieu que les prédicateurs parce que ceux-ci
-deviennent tellement liés à l’esprit ecclésiastique. C’était ainsi dans la Bible et Dieu ne change
-pas.
-80 Un jour, il y a cinq ans de cela, je revenais en voiture de chez frère Norman. Je venais d’avoir
-une réunion là-bas et le Seigneur Dieu m’apparut dans une vision. J’étais assis devant le portail,
-près de ma maison. C’est comme s’il faisait mauvais temps.
-81 Beaucoup d’entre vous se rappellent cette vision. Elle est inscrite dans mon livre de visions.
-Je les note afin d’être sûr de ne pas les oublier.
-82 Dans cette vision, il y avait quelque chose qui avait traversé le chemin et il y avait des pierres
-partout dans ma cour. Il y avait des machines de chantier tout le long du chemin et des arbres
-avaient été coupés et déracinés. Je voulus entrer par le portail mais il était bloqué par des pierres.
-Je me mis à dire à l’homme: «Que se passe-t-il?». Il devint très hostile. Il me poussa en arrière et
-dit: «C’est ainsi qu’il faut vous traiter, vous les prédicateurs!».
-83 Je dis: «Je vous demande simplement pourquoi vous faites cela. Vous venez ici de mon côté
-de la rue. Pourquoi faites-vous cela?». Il fit mine de me donner une gifle et me repoussa en
-arrière.
-84 Je pensais: «Je vais simplement lui dire qu’il ne sait pas de quoi il parle». Mais une voix parla
-et me dit: «Ne fais pas cela. Tu es un ministre de l’Evangile».
+74 Je me disais: «Oublie cela!». Je n’avais rien à faire avec ces choses. Mais pendant tout ce temps, cela ne sortait pas de mon coeur.
+75 Ensuite quand j’étais allé là-haut au sujet de ces visions, je ne pouvais toujours pas comprendre. Mes frères baptistes me disaient que c’était du diable. Ensuite quand l’Ange apparut, Il mit chaque chose à sa place par rapport à l’Ecriture et me dit que c’était comme autrefois quand les sacrificateurs ergotaient sur des choses, ne sachant rien du tout du genre de vêtements qu’ils devaient porter et de tout le reste et discutaillant au sujet de leurs divergences, alors que pendant ce temps les mages suivaient l’étoile de Christ.
+76 Tandis que les prédicateurs disaient que Jésus était un imposteur, un Béelzébul, un démon se leva et dit: “Nous savons qui Tu es! Tu es le Saint de Dieu! Pourquoi viens-Tu nous tourmenter avant le temps?”.
+77 Quand Paul et Silas allèrent prêcher l’Evangile, les prédicateurs de ce pays dirent: “Ces hommes sont des imposteurs! Ils déchirent nos églises et tout le reste, bouleversant le monde avec leur corruption!”.
+78 Mais qu’arriva-t-il? Il y avait aussi là une diseuse de bonne aventure une femme-mage qui dit: “Ce sont des hommes de Dieu qui nous enseignent les voies de la Vie”.
+79 Paul réprimanda cet esprit en elle. Il n’avait besoin d’aucune aide pour témoigner de ce qu’il était. Jésus les a toujours fait taire. Mais c’est pour vous montrer que quelquefois les démons en connaissent plus au sujet des choses de Dieu que les prédicateurs parce que ceux-ci deviennent tellement liés à l’esprit ecclésiastique. C’était ainsi dans la Bible et Dieu ne change pas.
+80 Un jour, il y a cinq ans de cela, je revenais en voiture de chez frère Norman. Je venais d’avoir une réunion là-bas et le Seigneur Dieu m’apparut dans une vision. J’étais assis devant le portail, près de ma maison. C’est comme s’il faisait mauvais temps.
+81 Beaucoup d’entre vous se rappellent cette vision. Elle est inscrite dans mon livre de visions. Je les note afin d’être sûr de ne pas les oublier.
+82 Dans cette vision, il y avait quelque chose qui avait traversé le chemin et il y avait des pierres partout dans ma cour. Il y avait des machines de chantier tout le long du chemin et des arbres avaient été coupés et déracinés. Je voulus entrer par le portail mais il était bloqué par des pierres. Je me mis à dire à l’homme: «Que se passe-t-il?». Il devint très hostile. Il me poussa en arrière et dit: «C’est ainsi qu’il faut vous traiter, vous les prédicateurs!».
+83 Je dis: «Je vous demande simplement pourquoi vous faites cela. Vous venez ici de mon côté de la rue. Pourquoi faites-vous cela?». Il fit mine de me donner une gifle et me repoussa en arrière.
+84 Je pensais: «Je vais simplement lui dire qu’il ne sait pas de quoi il parle». Mais une voix parla et me dit: «Ne fais pas cela. Tu es un ministre de l’Evangile».
 Je dis: «Très bien!».
-85 Je me retournai et voici à ma droite, arrêté devant le portail, un de ces vieux chariots de la
-Prairie, vous savez, un de ces chariots couverts, et il était attelé. Ma femme était assise de l’autre
-côté du siège du cocher. Je regardai vers l’arrière et vis mes enfants assis à l’arrière. Je montai
-dans le chariot et dis à ma femme: «Chérie, j’ai résisté autant que j’ai pu».
-86 Je pris les rênes, tirai celles du cheval de tête et partis en direction de l’ouest. Une voix me
-dit: «Quand cela arrivera, va vers l’ouest».
-87 Le frère Wood, l’entrepreneur qui a fait notre église ici et qui est aussi l’un de nos
-responsables… Combien se souviennent de la vision maintenant? Vous vous rappelez que je vous
-l’ai dite? C’est sûr! Elle est notée sur le papier. J’avais dit au frère Wood… C’est lui qui a acheté
-de l’église cette parcelle là-bas entre deux. Il s’apprêtait à construire là une maison en pierre. Mais
-je lui dis: «Ne faites pas cela, frère Wood, parce que vous ne reverriez jamais votre argent». Il y a
-peut-être de cela cinq ans. Je lui dis: «Ils vont peut-être faire passer ce pont par là». Ces pierres
-éparpillées là étaient probablement les débris de ma cave, de mon allée et autres. Au lieu de
-pierres, c’étaient des morceaux de béton, et ils les mettront là parce qu’ils ont dit dans le journal
-que c’est ce qu’ils essaient de faire. Eh bien, il ne fit pas cette construction. Finalement une année
-ou deux plus tard, ils décidèrent de faire passer ce pont par là. Cela régla la question, alors
+85 Je me retournai et voici à ma droite, arrêté devant le portail, un de ces vieux chariots de la Prairie, vous savez, un de ces chariots couverts, et il était attelé. Ma femme était assise de l’autre côté du siège du cocher. Je regardai vers l’arrière et vis mes enfants assis à l’arrière. Je montai dans le chariot et dis à ma femme: «Chérie, j’ai résisté autant que j’ai pu».
+86 Je pris les rênes, tirai celles du cheval de tête et partis en direction de l’ouest. Une voix me dit: «Quand cela arrivera, va vers l’ouest».
+87 Le frère Wood, l’entrepreneur qui a fait notre église ici et qui est aussi l’un de nos responsables… Combien se souviennent de la vision maintenant? Vous vous rappelez que je vous l’ai dite? C’est sûr! Elle est notée sur le papier. J’avais dit au frère Wood… C’est lui qui a acheté de l’église cette parcelle là-bas entre deux. Il s’apprêtait à construire là une maison en pierre. Mais je lui dis: «Ne faites pas cela, frère Wood, parce que vous ne reverriez jamais votre argent». Il y a peut-être de cela cinq ans. Je lui dis: «Ils vont peut-être faire passer ce pont par là». Ces pierres éparpillées là étaient probablement les débris de ma cave, de mon allée et autres. Au lieu de pierres, c’étaient des morceaux de béton, et ils les mettront là parce qu’ils ont dit dans le journal que c’est ce qu’ils essaient de faire. Eh bien, il ne fit pas cette construction. Finalement une année ou deux plus tard, ils décidèrent de faire passer ce pont par là. Cela régla la question, alors
 
         http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 10
 j’oubliai cela et laissai tomber cette affaire.
-88 Maintenant une chose étrange est arrivée il y a environ un an. Je tenais une réunion un soir
-chez frère Junior Jackson. Il est assis juste ici. C’est un pasteur méthodiste qui a reçu le Saint-
-Esprit et qui a été baptisé au Nom de Jésus-Christ. Il est maintenant pasteur de l’une de nos
-églises-soeurs.
-89 Je dis ceci de tout mon coeur simplement pour vous montrer comment Dieu s’occupe de ces
-gens; je ne connais aucune assemblée dans le monde entier, je ne connais plus aucune
-assemblée où je crois que l’Esprit de Dieu soit comme dans cette assemblée-là. Ils ont leurs
-différences. Ils ne sont bien sûr pas au point où ils devraient être (et aucun de nous n’y est) mais
-je n’en connais pas qui soient plus près.
-90 Je vous raconte cela pour vous montrer les choses, sachant ce qui allait arriver. Frère
-Jackson eut un songe. Il ne pouvait pas s’en débarrasser. Il ne pouvait pas supporter cela, alors
-que j’allais quitter son église.
+88 Maintenant une chose étrange est arrivée il y a environ un an. Je tenais une réunion un soir chez frère Junior Jackson. Il est assis juste ici. C’est un pasteur méthodiste qui a reçu le Saint-Esprit et qui a été baptisé au Nom de Jésus-Christ. Il est maintenant pasteur de l’une de nos églises-soeurs.
+89 Je dis ceci de tout mon coeur simplement pour vous montrer comment Dieu s’occupe de ces gens; je ne connais aucune assemblée dans le monde entier, je ne connais plus aucune assemblée où je crois que l’Esprit de Dieu soit comme dans cette assemblée-là. Ils ont leurs différences. Ils ne sont bien sûr pas au point où ils devraient être (et aucun de nous n’y est) mais je n’en connais pas qui soient plus près.
+90 Je vous raconte cela pour vous montrer les choses, sachant ce qui allait arriver. Frère Jackson eut un songe. Il ne pouvait pas s’en débarrasser. Il ne pouvait pas supporter cela, alors que j’allais quitter son église.
 91 Il y a combien de temps de cela, frère Jackson?
 [Frère Jackson dit: «J’ai eu ce songe en février 1961.» — N.d.R.]
-92 C’est en février 1961 qu’il a eu ce songe. Il vint vers moi et me dit: «J’ai quelque chose sur le
-coeur que je dois vous dire, frère Branham».
+92 C’est en février 1961 qu’il a eu ce songe. Il vint vers moi et me dit: «J’ai quelque chose sur le coeur que je dois vous dire, frère Branham».
      Je lui dis: «Allez-y, frère Jackson».
-93 Il me dit: «J’ai eu un songe». Et le voici. Je restais assis dans le silence, écoutant et
-observant. Il dit: «J’ai rêvé qu’il y avait une grande et haute montagne qui avait l’air d’être placée
-dans une sorte de champ d’herbe ou quelque chose comme cela. Au sommet de cette montagne,
-là où l’eau avait arraché la terre, il y avait un rocher qui formait comme le sommet de la montagne.
-C’était du rocher et non pas de l’herbe. Là où l’eau avait passé, elle avait gravé comme des
-inscriptions dans ces rochers et vous vous teniez là, interprétant les inscriptions sur ces rochers».
-Et voici dans quels termes il me raconta la suite: «Avec les frères de Géorgie et des alentours,
-nous nous tenions tous ensemble, vous écoutant interpréter ces mystérieuses inscriptions sur
-cette montagne».
-94 Il continua: «Ensuite vous avez pris quelque chose comme si cela se trouvait dans l’air,
-quelque chose comme une barre à mine ou un levier (c’était bien cela, n’est-ce pas, frère?). C’était
-quelque chose de semblable à une barre à mine très tranchante». Le frère dit encore: «Comment
-vous avez fait, je n’en sais rien. Vous avez frappé le sommet de cette montagne, l’avez arraché,
-ôtant la calotte du sommet. Elle avait la forme d’une pyramide. Et vous en avez arraché le
-sommet». (C’était des mois et des mois avant que le message sur la pyramide ait été prêché). Il
-dit: «Là-dessous il y avait de la pierre blanche, du granit, et vous avez dit: le soleil, ou la lumière
-n’a jamais lui là-dessus auparavant. Regardez cela. Observez cela».
-95 C’est vrai, parce que le monde a été formé avant qu’il y ait de la lumière. Nous le savons tous!
-Dieu se mouvait au-dessus des eaux, et au commencement Il parla pour avoir de la lumière, Il est
-donc naturel que pendant la période de sa formation cette pierre n’ait jamais vu la lumière luire sur
-elle.
-96 Il dit donc: «Regardez ceci: la lumière n’est jamais venue sur elle auparavant». Quand tous
-furent montés, je leur dis d’observer cela, et tous vinrent regarder à l’intérieur. Mais le frère dit que,
-tandis qu’ils regardaient tous à l’intérieur, lui-même (je crois que c’est ainsi) m’observait du coin de
-l’oeil. Je me mis à glisser de côté et à m’éloigner vers l’ouest, vers le soleil couchant, montant sur
-une colline et redescendant de l’autre côté, montant sur une autre colline et redescendant de
-l’autre côté, devenant de plus en plus petit jusqu’au moment où je disparus de leur vue.
-97 Il dit: «Alors au bout d’un moment, les frères se retournèrent et dirent: A-t-il disparu? Où est-il
-allé?». Et il dit que certains partirent dans une direction, d’autres dans une autre, d’autres encore
-ailleurs et que très peu restèrent à regarder ce que je leur avais dit de regarder.
-98 Remarquez maintenant l’interprétation du songe dont je n’avais jamais parlé, ni à lui ni aux
-autres. Je dis: «Oui…» et mon coeur tremblait. J’observais. Or cette mystérieuse inscription…
-mais attendons. Je veux laisser cela un petit instant.
-99 Il n’y a pas longtemps, frère Beeler… D’habitude frère Beeler est avec nous. Etes-vous ici,
-frère Beeler? Oui, il est là en arrière. Billy m’avait dit: «Frère Beeler est tourmenté. Il a eu un songe
-
-        http://www.cmpp.ch
+93 Il me dit: «J’ai eu un songe». Et le voici. Je restais assis dans le silence, écoutant et observant. Il dit: «J’ai rêvé qu’il y avait une grande et haute montagne qui avait l’air d’être placée dans une sorte de champ d’herbe ou quelque chose comme cela. Au sommet de cette montagne, là où l’eau avait arraché la terre, il y avait un rocher qui formait comme le sommet de la montagne. C’était du rocher et non pas de l’herbe. Là où l’eau avait passé, elle avait gravé comme des inscriptions dans ces rochers et vous vous teniez là, interprétant les inscriptions sur ces rochers». Et voici dans quels termes il me raconta la suite: «Avec les frères de Géorgie et des alentours, nous nous tenions tous ensemble, vous écoutant interpréter ces mystérieuses inscriptions sur cette montagne».
+94 Il continua: «Ensuite vous avez pris quelque chose comme si cela se trouvait dans l’air, quelque chose comme une barre à mine ou un levier (c’était bien cela, n’est-ce pas, frère?). C’était quelque chose de semblable à une barre à mine très tranchante». Le frère dit encore: «Comment vous avez fait, je n’en sais rien. Vous avez frappé le sommet de cette montagne, l’avez arraché, ôtant la calotte du sommet. Elle avait la forme d’une pyramide. Et vous en avez arraché le sommet». (C’était des mois et des mois avant que le message sur la pyramide ait été prêché). Il dit: «Là-dessous il y avait de la pierre blanche, du granit, et vous avez dit: le soleil, ou la lumière n’a jamais lui là-dessus auparavant. Regardez cela. Observez cela».
+95 C’est vrai, parce que le monde a été formé avant qu’il y ait de la lumière. Nous le savons tous! Dieu se mouvait au-dessus des eaux, et au commencement Il parla pour avoir de la lumière, Il est donc naturel que pendant la période de sa formation cette pierre n’ait jamais vu la lumière luire sur elle.
+96 Il dit donc: «Regardez ceci: la lumière n’est jamais venue sur elle auparavant». Quand tous furent montés, je leur dis d’observer cela, et tous vinrent regarder à l’intérieur. Mais le frère dit que, tandis qu’ils regardaient tous à l’intérieur, lui-même (je crois que c’est ainsi) m’observait du coin de l’oeil. Je me mis à glisser de côté et à m’éloigner vers l’ouest, vers le soleil couchant, montant sur une colline et redescendant de l’autre côté, montant sur une autre colline et redescendant de l’autre côté, devenant de plus en plus petit jusqu’au moment où je disparus de leur vue.
+97 Il dit: «Alors au bout d’un moment, les frères se retournèrent et dirent: A-t-il disparu? Où est-il allé?». Et il dit que certains partirent dans une direction, d’autres dans une autre, d’autres encore ailleurs et que très peu restèrent à regarder ce que je leur avais dit de regarder.
+98 Remarquez maintenant l’interprétation du songe dont je n’avais jamais parlé, ni à lui ni aux autres. Je dis: «Oui…» et mon coeur tremblait. J’observais. Or cette mystérieuse inscription… mais attendons. Je veux laisser cela un petit instant.
+99 Il n’y a pas longtemps, frère Beeler… D’habitude frère Beeler est avec nous. Etes-vous ici, frère Beeler? Oui, il est là en arrière. Billy m’avait dit: «Frère Beeler est tourmenté. Il a eu un songe
 
 MESSIEURS, EST-CE L’HEURE? 11
 étrange». J’allai un soir chez frère Beeler pendant que je faisais des visites. Il me dit: «Frère
@@ -957,7 +665,7 @@ elle ne peut être interprétée que par l’Ecriture. C’est là que je voudra
 choses ensemble. Maintenant vous êtes ici présents et vous qui écoutez cette bande, soyez bien
 sûrs de dire ces choses de la manière que je les dis, parce qu’elles peuvent être très
 facilement interprétées. Etes-vous pressés? Bien! Je vous remercie d’être si tranquilles et si
-gentils.
+ gentils.
 173 Au sujet de ce septième ange et de cette prédication dont le titre est: Messieurs, est-ce le
 signe du temps de la fin? dans quels temps vivons-nous? Quelle heure de la journée est-ce? Nous
 sommes comme le lutteur fatigué d’avoir lutté toute la nuit et qui allume la lumière pour voir quelle
@@ -1024,7 +732,7 @@ Vous voyez, à ce sujet cela s’imbrique exactement dans ces sept Sceaux dont n
 parler. Les sept Sceaux dont nous essaierons de parler quand le moment sera venu sont les sept
 Sceaux écrits, et ces sept Sceaux, comme vous le savez, sont simplement la manifestation des
 sept anges des sept Eglises. Mais il y a sept autres Sceaux qui sont sur le revers du Livre, à
-l’extérieur de la Bible. Remarquez cela car nous y viendrons dans un moment.
+extérieur de la Bible. Remarquez cela car nous y viendrons dans un moment.
 184 Avant de commencer cela je voudrais vous demander si vous êtes fatigués. Voudriez-vous
 vous lever pour changer de position?
 185 Maintenant écoutez attentivement. Le septième ange d’Apocalypse 10.7 est le messager du
@@ -1052,340 +760,110 @@ mystères sont les suivants:
         http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 20
-189 Le premier mystère est le mystère du Royaume des Cieux. C’est celui dont nous parlons
-maintenant dans Matthieu 13.3-15.
-    Le deuxième mystère est celui de l’aveuglement d'Israël pendant cet âge (contexte de
-Romains 11.25).
-    Le troisième mystère est celui de la translation des saints vivant au temps de la fin dans cet
-âge-ci (1 Corinthiens 15 et aussi 1 Thess. 4.14-17).
-    Le quatrième mystère est celui de l’Eglise du Nouveau Testament formant un seul corps
-composé à la fois des Juifs et des nations (Éphésiens 3.1-11; Romains 16.25; Éphésiens 6.19; Colossiens 4.3).
+189 Le premier mystère est le mystère du Royaume des Cieux. C’est celui dont nous parlons maintenant dans Matthieu 13.3-15.
+    Le deuxième mystère est celui de l’aveuglement d'Israël pendant cet âge (contexte de Romains 11.25).
+    Le troisième mystère est celui de la translation des saints vivant au temps de la fin dans cet âge-ci (1 Corinthiens 15 et aussi 1 Thess. 4.14-17).
+    Le quatrième mystère est celui de l’Eglise du Nouveau Testament formant un seul corps composé à la fois des Juifs et des nations (Éphésiens 3.1-11; Romains 16.25; Éphésiens 6.19; Colossiens 4.3).
     Le cinquième mystère est celui de l’Eglise en tant qu’Epouse de Christ (Éphésiens 5.28-32).
-    Le sixième mystère est celui du Christ vivant, le même hier, aujourd’hui et éternellement
-(Galates 2.20; Hébreux 13.8 et encore de nombreux endroits semblables).
-    Le septième mystère est celui de Dieu en Christ en tant que plénitude de la Divinité
-incarnée, incarnée en Celui par Lequel toute la sagesse divine et toute piété sont restituées à
-l’homme.
+    Le sixième mystère est celui du Christ vivant, le même hier, aujourd’hui et éternellement (Galates 2.20; Hébreux 13.8 et encore de nombreux endroits semblables).
+    Le septième mystère est celui de Dieu en Christ en tant que plénitude de la Divinité incarnée, incarnée en Celui par Lequel toute la sagesse divine et toute piété sont restituées à l’homme.
     Le neuvième mystère est celui de l’iniquité décrit dans 2 Thessaloniciens et ailleurs.
-    Le dixième mystère est celui des sept étoiles d’Apocalypse 1.20 (nous venons d’examiner
-cela. Les sept Etoiles sont les sept Eglises, les sept messagers, etc.).
+    Le dixième mystère est celui des sept étoiles d’Apocalypse 1.20 (nous venons d’examiner cela. Les sept Etoiles sont les sept Eglises, les sept messagers, etc.).
     Le onzième mystère est celui de Babylone, la prostituée d’Apocalypse 17.5-7.
-190 Ce sont ici quelques-uns des mystères que cet ange doit dévoiler. Il doit dévoiler tous les
-mystères de Dieu. Et quant aux autres, je les cite avec respect, ne me référant pas à moi-même
-mais à l’ange de Dieu. Ce sont:
+190 Ce sont ici quelques-uns des mystères que cet ange doit dévoiler. Il doit dévoiler tous les mystères de Dieu. Et quant aux autres, je les cite avec respect, ne me référant pas à moi-même mais à l’ange de Dieu. Ce sont:
 191 La semence du serpent, mystère qui avait été caché pendant toutes ces années.
-192 La question de la grâce mise au point. Non pas la disgrâce mais la grâce réelle, la vraie
-grâce.
-193 Le fait qu’il n’y ait pas un enfer qui brûle éternellement. Vous brûlerez peut-être pendant
-des millions d’années, mais tout ce qui est éternel n’a ni commencement ni fin, alors que l’enfer a
-été créé. Ce sont tous des mystères!
-194 Le mystère du baptême du Saint-Esprit sans aucune sensation, mais où la Personne de
-Christ accomplit en vous les mêmes oeuvres que celles qu’Il fit autrefois.
-195 Le mystère du baptême d’eau (où un trinitarisme extrémiste a introduit les titres de Père,
-Fils et Saint-Esprit), et le mystère de la Divinité qui est accompli dans le baptême au Nom de
-Jésus-Christ selon le Livre des Actes et que doit recevoir l’Eglise de notre temps. Ce sont là
-quelques-uns de ces mystères.
-196 Et le mystère du retour de la Colonne de Feu! Amen! C’est la chose même qui devait
-arriver, et nous la voyons!
-197 Oh, nous pourrions continuer à énumérer ces mystères. Nous avons vu cette Colonne de Feu
-qui conduisait les enfants d'Israël. C’est la même qui frappa Paul sur le chemin de Damas et c’est
-encore la même aujourd’hui qui vient avec la même puissance, faisant les mêmes choses,
-révélant la même Parole et se tenant mot pour mot à la Bible.
-198 Quand la trompette sonne, il s’agit de la trompette de l’Evangile. Et dans la Bible, la
-sonnerie de la trompette veut dire ceci: Soyez prêts pour une guerre scripturaire. Prenez-vous des
-notes? Une guerre scripturaire. Paul a dit dans 1 Corinthiens 14.8 si vous voulez le noter: “Si la
-trompette donne un son confus, comment l’homme saura-t-il à quoi il doit se préparer?”. Et si elle
-ne donne pas un son scripturaire, une confirmation de la Parole de Dieu manifestée, comment la
-reconnaîtrons-nous au temps de la fin? Si nous disons que nous croyons que Jésus-Christ est le
-même hier aujourd’hui et éternellement mais renions Ses signes et Ses miracles, ceux auxquels
-croit le règne tout entier de la nature qui croit en Lui et par lesquels l’Eglise tout entière doit croire
-en Lui, comment saurons-nous nous préparer?
-199 Quelqu’un vient avec un tableau où il représente toutes choses, puis quelqu’un d’autre vient
-lui aussi avec un autre tableau où il représente toutes choses en sens contraire du premier. Puis
+192 La question de la grâce mise au point. Non pas la disgrâce mais la grâce réelle, la vraie grâce.
+193 Le fait qu’il n’y ait pas un enfer qui brûle éternellement. Vous brûlerez peut-être pendant des millions d’années, mais tout ce qui est éternel n’a ni commencement ni fin, alors que l’enfer a été créé. Ce sont tous des mystères!
+194 Le mystère du baptême du Saint-Esprit sans aucune sensation, mais où la Personne de Christ accomplit en vous les mêmes oeuvres que celles qu’Il fit autrefois.
+195 Le mystère du baptême d’eau (où un trinitarisme extrémiste a introduit les titres de Père, Fils et Saint-Esprit), et le mystère de la Divinité qui est accompli dans le baptême au Nom de Jésus-Christ selon le Livre des Actes et que doit recevoir l’Eglise de notre temps. Ce sont là quelques-uns de ces mystères.
+196 Et le mystère du retour de la Colonne de Feu! Amen! C’est la chose même qui devait arriver, et nous la voyons!
+197 Oh, nous pourrions continuer à énumérer ces mystères. Nous avons vu cette Colonne de Feu qui conduisait les enfants d'Israël. C’est la même qui frappa Paul sur le chemin de Damas et c’est encore la même aujourd’hui qui vient avec la même puissance, faisant les mêmes choses, révélant la même Parole et se tenant mot pour mot à la Bible.
+198 Quand la trompette sonne, il s’agit de la trompette de l’Evangile. Et dans la Bible, la sonnerie de la trompette veut dire ceci: Soyez prêts pour une guerre scripturaire. Prenez-vous des notes? Une guerre scripturaire. Paul a dit dans 1 Corinthiens 14.8 si vous voulez le noter: “Si la trompette donne un son confus, comment l’homme saura-t-il à quoi il doit se préparer?”. Et si elle ne donne pas un son scripturaire, une confirmation de la Parole de Dieu manifestée, comment la reconnaîtrons-nous au temps de la fin? Si nous disons que nous croyons que Jésus-Christ est le même hier aujourd’hui et éternellement mais renions Ses signes et Ses miracles, ceux auxquels croit le règne tout entier de la nature qui croit en Lui et par lesquels l’Eglise tout entière doit croire en Lui, comment saurons-nous nous préparer?
+199 Quelqu’un vient avec un tableau où il représente toutes choses, puis quelqu’un d’autre vient lui aussi avec un autre tableau où il représente toutes choses en sens contraire du premier. Puis
 
         http://www.cmpp.ch
 
     MESSIEURS, EST-CE L’HEURE?    21
-l’autre vient dire: «C’est comme ceci!», revenant là-dessus. D’autres encore écrivent des livres et
-d’autres choses. Mais Dieu vient dans la puissance de Sa résurrection, et qui parlera contre
-cela? Si Jésus-Christ est le même hier, aujourd’hui et éternellement Il accomplira aujourd’hui et
-éternellement les mêmes choses qu’hier. C’est ce que cet ange doit faire: prendre ces
-mystères, ces choses laissées en suspens sur lesquelles les gens se sont précipités.
-200 Remarquez que si elle donne un son confus, non scripturaire, qui peut se préparer?
-Avez-vous remarqué chacun de ces âges tandis que je vous parlais de l’entrée de l’Eglise?
-Chaque fois qu’une trompette sonnait, un Sceau était brisé. Et une trompette, cela signifie la
-guerre! Si elle ne donne pas un son scripturaire que se passe-t-il? Mais laissez-moi rappeler ceci à
-votre mémoire. Ne le manquez pas maintenant.
-201 Remarquez que chaque âge a eu son messager. Nous le savons, Paul fut le premier
-messager. Et quand la première trompette sonna et que le premier Sceau fut brisé, Paul fut le
-premier messager comme nous l’avons découvert. Que fit-il? Il déclara la guerre! A quoi? A l’église
-officielle parce qu’elle ne croyait pas au signe messianique que Jésus leur avait donné.
+l’autre vient dire: «C’est comme ceci!», revenant là-dessus. D’autres encore écrivent des livres et d’autres choses. Mais Dieu vient dans la puissance de Sa résurrection, et qui parlera contre cela? Si Jésus-Christ est le même hier, aujourd’hui et éternellement Il accomplira aujourd’hui et éternellement les mêmes choses qu’hier. C’est ce que cet ange doit faire: prendre ces mystères, ces choses laissées en suspens sur lesquelles les gens se sont précipités.
+200 Remarquez que si elle donne un son confus, non scripturaire, qui peut se préparer? Avez-vous remarqué chacun de ces âges tandis que je vous parlais de l’entrée de l’Eglise? Chaque fois qu’une trompette sonnait, un Sceau était brisé. Et une trompette, cela signifie la guerre! Si elle ne donne pas un son scripturaire que se passe-t-il? Mais laissez-moi rappeler ceci à votre mémoire. Ne le manquez pas maintenant.
+201 Remarquez que chaque âge a eu son messager. Nous le savons, Paul fut le premier messager. Et quand la première trompette sonna et que le premier Sceau fut brisé, Paul fut le premier messager comme nous l’avons découvert. Que fit-il? Il déclara la guerre! A quoi? A l’église officielle parce qu’elle ne croyait pas au signe messianique que Jésus leur avait donné.
 202 Et pourtant ils auraient dû reconnaître ce signe! Ils auraient dû reconnaître Jésus!
-203 Rappelez-vous que Paul est venu à la fin de l’âge. Tous les messagers viennent à la fin de
-leur âge. C’est au temps de la fin que ces choses sont apportées.
-204 Paul, reconnaissant les Ecritures et sachant que Jésus était le Messie, réprimanda les
-synagogues de lieu en lieu avec les Ecritures, mais fut chassé de chacune d’elles au point qu’il
-finit par secouer la poussière de ses pieds et se tourner vers les nations.
-205 Qu’était-ce? Une sonnerie de trompette, un ange messager se tenant là avec la Parole.
-Oh, mes frères, ne manquez pas cela maintenant! La Parole! Et Paul, avec l’interprétation sans
-mélange de la Parole de Dieu, réprimanda chacune de ces synagogues. Cela lui coûta la vie.
-206 Puis nous sommes passés à Irénée, le messager de l’âge suivant, puis à Martin dans l’âge
-d’après, où ils commencèrent à recevoir la doctrine des Nicolaïtes. Tous réprimandèrent leur âge.
-Martin réprimanda son âge. Puis il y eut Luther, le cinquième messager, qui réprimanda l’église
-catholique par la Parole de Dieu. Il disait: “Mon juste vivra par la foi” et “Ce n’est pas littéralement
-le corps de Christ”. Il jeta à terre leur système de communion, sortit de là et réprimanda l’église
-catholique. La trompette avait sonné! C’est vrai. N’est-ce pas vrai?
-207 John Wesley fut suscité aux jours de l’église anglicane quand elle disait: «Il n’y a plus de
-raison d’avoir des réveils!», commençant à se ramollir. Mais John Wesley se tint debout avec le
-message de la deuxième oeuvre de la grâce, la sanctification. Et il réprimanda l’église
-anglicane avec la trompette de l’Evangile, préparant la guerre. C’est ce qu’il a fait.
-208 Nous sommes maintenant dans l’âge de Laodicée où ils ont de nouveau fait des
-dénominations: méthodiste, baptiste, presbytérienne, luthérienne, pentecôtiste, et nous
-attendons qu’un prophète vienne réprimander cet âge et les détourner de leur iniquité.
-209 Alors si cela a été la tendance tout au long des âges, est-ce que Dieu va changer Sa
-tendance aujourd’hui? Il ne peut pas la changer! Il doit garder Sa direction habituelle.
-Rappelez-vous que ce messager est le septième ange, qu’il doit prendre tous ces mystères et les
-rassembler.
-210 Remarquez que le septième ange doit réprimander cette riche église de Laodicée. “Je suis
-riche, je me suis enrichie, je n’ai besoin de rien”. Il dit: “Tu es une pauvre misérable, aveugle et
-nue, et tu ne le sais pas!”. C’est cela, son message.
-211 O Dieu, envoie-nous un prophète sans crainte avec le AINSI DIT LE SEIGNEUR afin que la
-Parole de Dieu confirmée passe à travers lui et prouve qu’il est envoyé de Dieu. Et quand il
-viendra, il réprimandera ces âges. Il le fera, c’est certain! Il dressera cette église de Laodicée
-contre lui. Certainement! C’est ce qu’ils ont fait dans tous les autres âges. Cela ne changera pas
-dans cet âge-ci. Il faut que ce soit pareil.
-212 Remarquez maintenant ce qui se passera dans cet âge de Laodicée. Le septième ange, le
-messager de l’âge de Laodicée, terminera tous les mystères qui avaient été perdus dans les
-batailles faites autrefois pour la vérité.
+203 Rappelez-vous que Paul est venu à la fin de l’âge. Tous les messagers viennent à la fin de leur âge. C’est au temps de la fin que ces choses sont apportées.
+204 Paul, reconnaissant les Ecritures et sachant que Jésus était le Messie, réprimanda les synagogues de lieu en lieu avec les Ecritures, mais fut chassé de chacune d’elles au point qu’il finit par secouer la poussière de ses pieds et se tourner vers les nations.
+205 Qu’était-ce? Une sonnerie de trompette, un ange messager se tenant là avec la Parole. Oh, mes frères, ne manquez pas cela maintenant! La Parole! Et Paul, avec l’interprétation sans mélange de la Parole de Dieu, réprimanda chacune de ces synagogues. Cela lui coûta la vie.
+206 Puis nous sommes passés à Irénée, le messager de l’âge suivant, puis à Martin dans l’âge d’après, où ils commencèrent à recevoir la doctrine des Nicolaïtes. Tous réprimandèrent leur âge. Martin réprimanda son âge. Puis il y eut Luther, le cinquième messager, qui réprimanda l’église catholique par la Parole de Dieu. Il disait: “Mon juste vivra par la foi” et “Ce n’est pas littéralement le corps de Christ”. Il jeta à terre leur système de communion, sortit de là et réprimanda l’église catholique. La trompette avait sonné! C’est vrai. N’est-ce pas vrai?
+207 John Wesley fut suscité aux jours de l’église anglicane quand elle disait: «Il n’y a plus de raison d’avoir des réveils!», commençant à se ramollir. Mais John Wesley se tint debout avec le message de la deuxième oeuvre de la grâce, la sanctification. Et il réprimanda l’église anglicane avec la trompette de l’Evangile, préparant la guerre. C’est ce qu’il a fait.
+208 Nous sommes maintenant dans l’âge de Laodicée où ils ont de nouveau fait des dénominations: méthodiste, baptiste, presbytérienne, luthérienne, pentecôtiste, et nous attendons qu’un prophète vienne réprimander cet âge et les détourner de leur iniquité.
+209 Alors si cela a été la tendance tout au long des âges, est-ce que Dieu va changer Sa tendance aujourd’hui? Il ne peut pas la changer! Il doit garder Sa direction habituelle. Rappelez-vous que ce messager est le septième ange, qu’il doit prendre tous ces mystères et les rassembler.
+210 Remarquez que le septième ange doit réprimander cette riche église de Laodicée. “Je suis riche, je me suis enrichie, je n’ai besoin de rien”. Il dit: “Tu es une pauvre misérable, aveugle et nue, et tu ne le sais pas!”. C’est cela, son message.
+211 O Dieu, envoie-nous un prophète sans crainte avec le AINSI DIT LE SEIGNEUR afin que la Parole de Dieu confirmée passe à travers lui et prouve qu’il est envoyé de Dieu. Et quand il viendra, il réprimandera ces âges. Il le fera, c’est certain! Il dressera cette église de Laodicée contre lui. Certainement! C’est ce qu’ils ont fait dans tous les autres âges. Cela ne changera pas dans cet âge-ci. Il faut que ce soit pareil.
+212 Remarquez maintenant ce qui se passera dans cet âge de Laodicée. Le septième ange, le messager de l’âge de Laodicée, terminera tous les mystères qui avaient été perdus dans les batailles faites autrefois pour la vérité.
 213 Luther vint, mais il n’avait pas toute la vérité, Il n’avait que la justification. C’est vrai. Puis vint
 
                 http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 22
-un autre messager, nommé John Wesley, avec la sanctification. Lui non plus n’avait pas tout. La
-Bible dit que c’était l’âge de Philadelphie. Puis vient l’âge de l’église de Laodicée avec le Baptême
-de l’Esprit, mais ils gâchèrent tout et retournèrent dans le formalisme comme ils l’avaient fait au
-commencement, alors que Jésus devait être regardé comme étant l’Alpha et l’Oméga, Ses mains
-se posant l’une dans une direction et l’autre dans l’autre direction, étant le Premier et le Dernier.
-214 Son Esprit descendit le jour de Pentecôte et remplit ce groupe-là. Mais l’église s’assécha
-progressivement jusqu’à ce qu’elle passât par les âges des ténèbres, passant par les sept
-chandeliers, par les sept âges de l’Eglise. Le dernier est le plus éloigné de Lui. Il y eut presque
-mille ans d’âges de ténèbres avec l’église catholique. Luther commença à apporter la lumière
-suivante en se rapprochant un tout petit peu plus de la Parole. Ensuite la lumière suivante
-s’approcha encore un petit peu plus. Enfin il y eut la lumière de Laodicée, et alors les choses
-revinrent exactement comme elles étaient au commencement. Elles retournèrent au même gâchis
-que celui dans lequel elles étaient au commencement. Ne comprenez-vous pas ce que je veux
-dire?
-215 Maintenant observez ceci. Là-bas il y a une grande partie de la vérité qui est perdue.
-Pourquoi? Parce qu’ils ont fait des compromis avec la vérité. Mais ce septième ange ne fera pas
-de compromis avec quoi que ce soit. Il rassemble tout ce qui était resté en suspens, il le
-rassemble, et quand il sonne de la trompette, tout le mystère de Dieu doit être terminé. Dieu
-l’a envoyé. Tous les mystères cachés lui ont été révélés. Mais alors, si ce sont des mystères
-cachés, il faut que cet homme soit un prophète. N’avons-nous pas examiné ces choses et vu
-que le prophète qui viendrait dans les derniers jours serait ce grand Elie que nous attendons?
-C’est parce que ces mystères qui ont été cachés aux théologiens devront être révélés par Dieu, et
-la Parole vient seulement au prophète. Nous le savons! Il sera le deuxième Elie comme promis.
-Oh, mes frères, le message qu’il apportera concernera le mystère de toutes ces choses.
-216 Nous avons le baptême d’eau où tout a été mélangé. C’est vrai. L’un asperge, l’autre arrose, il
-y en a qui disent Père, Fils et Saint-Esprit, il y en a qui font ceci ou cela, celui-ci baptise trois fois,
-face en avant, une fois pour un dieu appelé “Père”, une fois pour un dieu appelé “Fils” et une fois
-pour un dieu appelé “Saint-Esprit”. Un autre dit: «C’est faux, vous devez baptiser en arrière trois
-fois de cette manière-ci». Oh, quel gâchis! Mais tout cela a été rétabli car il n’y a qu’un seul Dieu et
-Son Nom est Jésus-Christ, et il n’y a aucun autre nom sous le ciel… Nulle part dans la Bible il y a
-aucun texte de l’Ecriture où quiconque ait jamais été baptisé autrement qu’au Nom de Jésus-
-Christ. Personne, dans la nouvelle Eglise, l’Eglise de Jésus-Christ, n’a jamais été aspergé ni
-arrosé d’une autre manière. Pas une seule fois on a utilisé dans une cérémonie de baptême la
-formule: «Je te baptise au Nom du Père, du Fils et du Saint-Esprit». Ce sont des credo et autres
-choses semblables. Et dans cette bataille pour la vérité, ces choses en suspens avaient été
-perdues. Mais Dieu a dit qu’Il les restaurerait de nouveau dans les derniers jours. “Je restaurerai,
-dit le Seigneur”. Nous avons étudié cela il n’y a pas longtemps avec l’Arbre de l’Epouse.
-217 Il faut un prophète pour cela. La Bible dit qu’il serait là. C’est vrai. Malachie 4 dit qu’il sera là,
-et nous le croyons. Nous attendons sa venue et nous attendons sa manifestation. Et nous
-verrons la Parole de Dieu confirmée.
-218 Il n’y en a que quelques-uns qui comprendront cela. “Comme il en était aux jours de Noé,
-ainsi en sera-t-il à la venue du Fils de l’homme”. Qui fut sauvé? Huit âmes! Aux jours de Lot il y en
-eut en réalité trois qui furent sauvées. Sa femme commença à sortir mais se perdit. C’est ainsi qu’il
-en sera à la venue du Fils de l’homme. Il y en aura très peu qui seront sauvés, enlevés en ce
-temps-là. Un des mystères est celui de l’enlèvement de cette Eglise, comme Lot qui fut enlevé.
-Noé fut enlevé et l’Eglise sera aussi enlevée. Un groupe entre, un groupe sort et l’autre monte en
-haut. On peut le voir exactement, parfaitement. La Parole vient!
-219 C’est ainsi que le Livre qui était écrit à l’intérieur est achevé quand tous ces mystères ont fini
-d’être proclamés au son de la trompette.
-220 Laissez-moi lire cela de nouveau afin que vous soyez bien sûrs. Voyons. “… mais qu’aux
-jours de la voix du septième ange (le dernier ange), quand il sera sur le point de sonner de la
-trompette, le mystère de Dieu aussi sera terminé”.
-221 Quel est le mystère de Dieu, ou en tout cas l’un d’eux? Paul dit dans 1 Timothée 3.16: “Et,
-sans contredit, le mystère de la piété est grand…”. Car Dieu fut manifesté dans la chair. Nous
+un autre messager, nommé John Wesley, avec la sanctification. Lui non plus n’avait pas tout. La Bible dit que c’était l’âge de Philadelphie. Puis vient l’âge de l’église de Laodicée avec le Baptême de l’Esprit, mais ils gâchèrent tout et retournèrent dans le formalisme comme ils l’avaient fait au commencement, alors que Jésus devait être regardé comme étant l’Alpha et l’Oméga, Ses mains se posant l’une dans une direction et l’autre dans l’autre direction, étant le Premier et le Dernier.
+214 Son Esprit descendit le jour de Pentecôte et remplit ce groupe-là. Mais l’église s’assécha progressivement jusqu’à ce qu’elle passât par les âges des ténèbres, passant par les sept chandeliers, par les sept âges de l’Eglise. Le dernier est le plus éloigné de Lui. Il y eut presque mille ans d’âges de ténèbres avec l’église catholique. Luther commença à apporter la lumière suivante en se rapprochant un tout petit peu plus de la Parole. Ensuite la lumière suivante s’approcha encore un petit peu plus. Enfin il y eut la lumière de Laodicée, et alors les choses revinrent exactement comme elles étaient au commencement. Elles retournèrent au même gâchis que celui dans lequel elles étaient au commencement. Ne comprenez-vous pas ce que je veux dire?
+215 Maintenant observez ceci. Là-bas il y a une grande partie de la vérité qui est perdue. Pourquoi? Parce qu’ils ont fait des compromis avec la vérité. Mais ce septième ange ne fera pas de compromis avec quoi que ce soit. Il rassemble tout ce qui était resté en suspens, il le rassemble, et quand il sonne de la trompette, tout le mystère de Dieu doit être terminé. Dieu l’a envoyé. Tous les mystères cachés lui ont été révélés. Mais alors, si ce sont des mystères cachés, il faut que cet homme soit un prophète. N’avons-nous pas examiné ces choses et vu que le prophète qui viendrait dans les derniers jours serait ce grand Elie que nous attendons? C’est parce que ces mystères qui ont été cachés aux théologiens devront être révélés par Dieu, et la Parole vient seulement au prophète. Nous le savons! Il sera le deuxième Elie comme promis. Oh, mes frères, le message qu’il apportera concernera le mystère de toutes ces choses.
+216 Nous avons le baptême d’eau où tout a été mélangé. C’est vrai. L’un asperge, l’autre arrose, il y en a qui disent Père, Fils et Saint-Esprit, il y en a qui font ceci ou cela, celui-ci baptise trois fois, face en avant, une fois pour un dieu appelé “Père”, une fois pour un dieu appelé “Fils” et une fois pour un dieu appelé “Saint-Esprit”. Un autre dit: «C’est faux, vous devez baptiser en arrière trois fois de cette manière-ci». Oh, quel gâchis! Mais tout cela a été rétabli car il n’y a qu’un seul Dieu et Son Nom est Jésus-Christ, et il n’y a aucun autre nom sous le ciel… Nulle part dans la Bible il y a aucun texte de l’Ecriture où quiconque ait jamais été baptisé autrement qu’au Nom de Jésus-Christ. Personne, dans la nouvelle Eglise, l’Eglise de Jésus-Christ, n’a jamais été aspergé ni arrosé d’une autre manière. Pas une seule fois on a utilisé dans une cérémonie de baptême la formule: «Je te baptise au Nom du Père, du Fils et du Saint-Esprit». Ce sont des credo et autres choses semblables. Et dans cette bataille pour la vérité, ces choses en suspens avaient été perdues. Mais Dieu a dit qu’Il les restaurerait de nouveau dans les derniers jours. “Je restaurerai, dit le Seigneur”. Nous avons étudié cela il n’y a pas longtemps avec l’Arbre de l’Epouse.
+217 Il faut un prophète pour cela. La Bible dit qu’il serait là. C’est vrai. Malachie 4 dit qu’il sera là, et nous le croyons. Nous attendons sa venue et nous attendons sa manifestation. Et nous verrons la Parole de Dieu confirmée.
+218 Il n’y en a que quelques-uns qui comprendront cela. “Comme il en était aux jours de Noé, ainsi en sera-t-il à la venue du Fils de l’homme”. Qui fut sauvé? Huit âmes! Aux jours de Lot il y en eut en réalité trois qui furent sauvées. Sa femme commença à sortir mais se perdit. C’est ainsi qu’il en sera à la venue du Fils de l’homme. Il y en aura très peu qui seront sauvés, enlevés en ce temps-là. Un des mystères est celui de l’enlèvement de cette Eglise, comme Lot qui fut enlevé. Noé fut enlevé et l’Eglise sera aussi enlevée. Un groupe entre, un groupe sort et l’autre monte en haut. On peut le voir exactement, parfaitement. La Parole vient!
+219 C’est ainsi que le Livre qui était écrit à l’intérieur est achevé quand tous ces mystères ont fini d’être proclamés au son de la trompette.
+220 Laissez-moi lire cela de nouveau afin que vous soyez bien sûrs. Voyons. “… mais qu’aux jours de la voix du septième ange (le dernier ange), quand il sera sur le point de sonner de la trompette, le mystère de Dieu aussi sera terminé”.
+221 Quel est le mystère de Dieu, ou en tout cas l’un d’eux? Paul dit dans 1 Timothée 3.16: “Et, sans contredit, le mystère de la piété est grand…”. Car Dieu fut manifesté dans la chair. Nous
 
         http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 23
-L’avons touché de nos mains, nous L’avons vu et Il a été reçu dans la gloire. Les anges en ont
-rendu témoignage et Dieu a été confirmé ici sur terre.
-222 Bien sûr que c’est un grand mystère, mais il a été résolu entièrement. Il n’y a pas un Père, un
-Fils et un Saint-Esprit, c’est-à-dire trois dieux, mais un seul Dieu en trois offices. L’office de Père
-du temps de Moïse, l’office de Fils du temps de Christ et l’office du Saint-Esprit dans notre
-dispensation. Trois dispensations du même Dieu et non pas trois dieux.
+L’avons touché de nos mains, nous L’avons vu et Il a été reçu dans la gloire. Les anges en ont rendu témoignage et Dieu a été confirmé ici sur terre.
+222 Bien sûr que c’est un grand mystère, mais il a été résolu entièrement. Il n’y a pas un Père, un Fils et un Saint-Esprit, c’est-à-dire trois dieux, mais un seul Dieu en trois offices. L’office de Père du temps de Moïse, l’office de Fils du temps de Christ et l’office du Saint-Esprit dans notre dispensation. Trois dispensations du même Dieu et non pas trois dieux.
 223 Le mystère est terminé maintenant. La Bible dit qu’il devait l’être.
-224 J’ai vu l’autre jour en quoi les savants essaient de me contredire dans ce que j’ai l’habitude de
-dire. Quand je disais: «Qui peut croire qu’Eve a mangé une pomme?», la science dit (je l’ai vu écrit
-l’autre jour en gros titres dans le journal) qu’elle a mangé un abricot! Non-sens! Est-ce cela qui
-l’aurait séduite? Certainement pas. C’est ce que Caïn pensait, vous savez. C’est pourquoi il
-apporta des fruits, mais Dieu n’agréa pas son sacrifice. A Abel, qui était juste, il fut révélé que
-c’était du sang, c’est pourquoi il apporta du sang. O Dieu, dans quelle Eglise et dans quel âge
-nous vivons!
-225 Le Livre qui est écrit à l’intérieur est achevé quand cet ange cesse (veuillez bien comprendre
-ceci), quand le message du septième ange est achevé: Le mystère de la divinité, le mystère de la
-semence du serpent, tous les autres mystères et toutes ces autres choses telles que la nature de
-“Fils éternel” comme ils disent. Comment peut-Il être un Fils éternel alors que l’éternité n’a ni
-commencement ni fin? Un fils est quelque chose qui est engendré. Comment cela peut-il avoir un
-sens?
-226 Comment peut-il y avoir un enfer éternel alors que l’enfer a été créé? Je crois à un enfer qui
-brûle. Certainement! C’est la Bible qui le dit, mais il est là pour détruire. La Bible dit: “Bénis sont
-ceux qui n’ont point part à la seconde mort”. Vous voyez? Vous voyez, vous n’êtes pas détruit par
-la seconde mort. La première mort est physique. La seconde est une mort spirituelle où tout
-est terminé. L’âme qui pèche, c’est celle qui mourra. Vous serez punis pour vos péchés
-peut-être pendant des centaines de milliers d’années, mais il ne peut pas y avoir d’enfer éternel
-parce que la Bible dit que l’enfer a été créé. Comment peut-il être créé et être éternel? La Bible
-dit que l’enfer a été créé pour le diable et ses anges. Alors s’il a été créé, il ne peut être éternel
-parce que ce qui est éternel n’a ni commencement ni fin.
-227 C’est ainsi que nous ne pouvons jamais mourir, parce que nous avons toujours été. Nous
-sommes une partie de Dieu, le rejeton de Dieu. Lui est la seule chose éternelle qui soit. Vous
-ne pouvez pas plus mourir que Dieu parce que vous êtes éternel avec Lui. Amen! Alors cela
-va arriver! Alléluia! De toute manière nous commençons à être fatigués de cette vieille demeure
-pour pestiférés.
-228 Remarquez ce Livre écrit. Quand cet ange termine tous ces mystères restés en suspens qui
-s’étaient perdus pendant la bataille de Luther, la bataille de Wesley, la bataille des Pentecôtistes…
-mais la Bible dit que quelqu’un viendra et que dans les jours où il sonnera de la trompette, tous
-ces mystères… Les unitaires se sont emballés sur le Nom de Jésus. Les trinitaires se sont
-emballés sur les titres de Père, Fils et Saint-Esprit, exactement comme ils l’avaient fait lors du
-concile de Nicée. Ils ont fait la même chose. Aussi bien l’un que l’autre étaient dans l’erreur. Mais
-maintenant, au milieu de la voie, il y a la vérité qui est contenue dans l’Ecriture. Vous voyez où
-nous en sommes? L’Ange du Seigneur!
-229 Remarquez ce que dit Apocalypse 5.1. Ecoutez maintenant. “Et je vis dans la droite de celui
-qui était assis sur le trône, un Livre, écrit au dedans (l’écriture était à l’intérieur) et sur le revers,
-scellé de sept sceaux”.
-230 Il y a donc une écriture à l’intérieur du Livre, mais le revers a sept Sceaux et là est écrit
-quelque chose qui n’est pas écrit dans le Livre. Et maintenant c’est Jean le “révélateur” qui parle.
-Rappelez-vous que ce n’était pas écrit dans le Livre: “Aux jours de la voix du septième ange, tout
-ce mystère qui est écrit à l’intérieur sera terminé”. Il en sera pris soin en ce jour-là.
+224 J’ai vu l’autre jour en quoi les savants essaient de me contredire dans ce que j’ai l’habitude de dire. Quand je disais: «Qui peut croire qu’Eve a mangé une pomme?», la science dit (je l’ai vu écrit l’autre jour en gros titres dans le journal) qu’elle a mangé un abricot! Non-sens! Est-ce cela qui l’aurait séduite? Certainement pas. C’est ce que Caïn pensait, vous savez. C’est pourquoi il apporta des fruits, mais Dieu n’agréa pas son sacrifice. A Abel, qui était juste, il fut révélé que c’était du sang, c’est pourquoi il apporta du sang. O Dieu, dans quelle Eglise et dans quel âge nous vivons!
+225 Le Livre qui est écrit à l’intérieur est achevé quand cet ange cesse (veuillez bien comprendre ceci), quand le message du septième ange est achevé: Le mystère de la divinité, le mystère de la semence du serpent, tous les autres mystères et toutes ces autres choses telles que la nature de “Fils éternel” comme ils disent. Comment peut-Il être un Fils éternel alors que l’éternité n’a ni commencement ni fin? Un fils est quelque chose qui est engendré. Comment cela peut-il avoir un sens?
+226 Comment peut-il y avoir un enfer éternel alors que l’enfer a été créé? Je crois à un enfer qui brûle. Certainement! C’est la Bible qui le dit, mais il est là pour détruire. La Bible dit: “Bénis sont ceux qui n’ont point part à la seconde mort”. Vous voyez? Vous voyez, vous n’êtes pas détruit par la seconde mort. La première mort est physique. La seconde est une mort spirituelle où tout est terminé. L’âme qui pèche, c’est celle qui mourra. Vous serez punis pour vos péchés peut-être pendant des centaines de milliers d’années, mais il ne peut pas y avoir d’enfer éternel parce que la Bible dit que l’enfer a été créé. Comment peut-il être créé et être éternel? La Bible dit que l’enfer a été créé pour le diable et ses anges. Alors s’il a été créé, il ne peut être éternel parce que ce qui est éternel n’a ni commencement ni fin.
+227 C’est ainsi que nous ne pouvons jamais mourir, parce que nous avons toujours été. Nous sommes une partie de Dieu, le rejeton de Dieu. Lui est la seule chose éternelle qui soit. Vous ne pouvez pas plus mourir que Dieu parce que vous êtes éternel avec Lui. Amen! Alors cela va arriver! Alléluia! De toute manière nous commençons à être fatigués de cette vieille demeure pour pestiférés.
+228 Remarquez ce Livre écrit. Quand cet ange termine tous ces mystères restés en suspens qui s’étaient perdus pendant la bataille de Luther, la bataille de Wesley, la bataille des Pentecôtistes… mais la Bible dit que quelqu’un viendra et que dans les jours où il sonnera de la trompette, tous ces mystères… Les unitaires se sont emballés sur le Nom de Jésus. Les trinitaires se sont emballés sur les titres de Père, Fils et Saint-Esprit, exactement comme ils l’avaient fait lors du concile de Nicée. Ils ont fait la même chose. Aussi bien l’un que l’autre étaient dans l’erreur. Mais maintenant, au milieu de la voie, il y a la vérité qui est contenue dans l’Ecriture. Vous voyez où nous en sommes? L’Ange du Seigneur!
+229 Remarquez ce que dit Apocalypse 5.1. Ecoutez maintenant. “Et je vis dans la droite de celui qui était assis sur le trône, un Livre, écrit au dedans (l’écriture était à l’intérieur) et sur le revers, scellé de sept sceaux”.
+230 Il y a donc une écriture à l’intérieur du Livre, mais le revers a sept Sceaux et là est écrit quelque chose qui n’est pas écrit dans le Livre. Et maintenant c’est Jean le “révélateur” qui parle. Rappelez-vous que ce n’était pas écrit dans le Livre: “Aux jours de la voix du septième ange, tout ce mystère qui est écrit à l’intérieur sera terminé”. Il en sera pris soin en ce jour-là.
 231 Comprenez-vous maintenant ce que je veux dire? Me suivez-vous?
-232 C’est alors qu’il est temps pour les sept Voix d’Apocalypse 10 d’être révélées. Quand le Livre
-est terminé, il ne reste qu’une seule chose, ce sont les sept mystérieuses voix de tonnerre
-qui sont écrites sur le revers du Livre et qu’il fut interdit à Jean d’écrire. Lisons cela.
+232 C’est alors qu’il est temps pour les sept Voix d’Apocalypse 10 d’être révélées. Quand le Livre est terminé, il ne reste qu’une seule chose, ce sont les sept mystérieuses voix de tonnerre qui sont écrites sur le revers du Livre et qu’il fut interdit à Jean d’écrire. Lisons cela.
 
         http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 24
 (Apocalypse 10.1).
-       “Et je vis un autre ange puissant descendant du ciel, revêtu d’une nuée, et
-     l’arc-en-ciel sur sa tête, et son visage comme le soleil, et ses pieds comme des
-     colonnes de feu; et il avait dans sa main un petit livre ouvert (maintenant observez
-     ceci). Et il mit son pied droit sur la mer et le gauche sur la terre; et il cria à haute voix,
-     comme un lion rugit; et quand il cria, les sept tonnerres firent entendre leurs propres
-     voix. (Attention!) Et quand les sept tonnerres eurent parlé, j’allais écrire (quelque chose
-     avait été dit et il se prépara à écrire). Et j’ouïs une voix venant du ciel, disant (vous
-     voyez où se trouvaient les voix qui étaient dans les tonnerres: elles n’étaient pas au
-     ciel, mais sur la terre. Les tonnerres n’ont jamais fait entendre leur voix depuis le
-     ciel, mais depuis la terre): scelle (S–C–E–L–L–E) les choses que les sept tonnerres
-     ont prononcées et ne les écris pas”.
-233 Cela se trouve sur le revers. Quand un livre est achevé… Il n’a pas dit que c’était sur le
-devant, mais sur le revers. Après qu’il ait été entièrement achevé, les voix de ces sept
-tonnerres sont la seule chose attachée au Livre qui ne soit pas révélée. Ce n’est même pas
-écrit dans le Livre.
-234 Oh, mes frères! J’aimerais tellement faire saisir cela aux gens! Cette fois-ci, ne manquez pas
-cela! Ne manquez pas cela s’il vous plaît! Je suis sur le point de vous quitter. Ne manquez pas
-cela! Ecoutez comme vous n’avez jamais encore écouté! Ces Sceaux sont sur le revers du Livre,
-et au temps où le septième ange sonne de la trompette, tous les mystères qui sont écrits dans le
-Livre sont achevés. Et immédiatement après, le Livre qui était ouvert et où quelque chose était
-écrit à l’intérieur est fermé. Les mystères de Dieu sont terminés. Et ce sont ici les mystères de
-Dieu: L’enlèvement de l’Eglise et toutes ces autres choses. Les mystères sont terminés.
-235 Quand ce septième ange a révélé chaque mystère en sonnant de la trompette, c’est
-terminé. Que chacun soit ce qu’il peut être! Quoi qu’il puisse être. La Parole de Dieu ne peut pas
-mentir et Il a dit: “… mais qu’aux jours de la voix du septième ange, quand il sera sur le point de
-sonner de la trompette, le mystère de Dieu aussi sera terminé, comme il en a annoncé la bonne
-nouvelle à ses esclaves les prophètes”.
-236 Toutes ces choses, comme Rome qui est la prostituée et toutes les églises protestantes qui
-ont fait des dénominations après elle et sont devenues des prostituées elles aussi. Vous voyez?
-Tous ces mystères dont les prophètes ont parlé seront révélés ici même en cette dernière heure.
-Et quand ce septième ange se lève dans l’âge de Laodicée et commence à sonner la vraie
-trompette, parce que ce sera contraire à leurs idées ils ne le croiront pas. C’est certain qu’ils
-ne le croiront pas. Mais ce sera un prophète inspiré, parce qu’il n’y a aucun moyen de s’imaginer
-cela. L’homme essaie d’imaginer la trinité jusqu’à en avoir les cheveux blancs et de venir fou.
-Personne ne peut comprendre cela! Ils croient toujours qu’Eve a mangé une pomme et toutes ces
-choses. Tout cela parce que c’est à la tradition que ces hommes se sont attachés, exactement
-comme Jésus a trouvé l’église. Il faudra que ce soit un prophète conduit divinement, à qui la
-Parole de Dieu vienne avec la vraie interprétation de la révélation de Jésus-Christ. Ainsi donc il
-faudra que ce soit de cette manière. Que Dieu nous vienne en aide.
-237 Quand sa trompette sonne… Maintenant ceci est AINSI DIT LE SEIGNEUR! Pour nous c’est
-clair. Quand il proclame son message, il déclare la guerre comme Paul le fit à l’église officielle,
-comme les autres l’ont fait, Luther, Wesley contre l’organisation. Quand il déclare la guerre et leur
-dit qu’ils mentent et que ce n’est pas la vérité, et qu’ils séduisent les hommes, quand il sonne de la
-trompette pour cela, cela ne manquera jamais d’arriver parce qu’il sera confirmé par la Parole de
-Dieu. Vous saurez exactement ce que c’est. Et quand il sonne de la trompette, c’est pour appeler
-ceux qui sont dans Babylone: “Sortez de Babylone, mon peuple, et n’ayez pas part à ses péchés!”.
-C’est Dieu qui l’a envoyé. Ne le manquez pas!
-238 Quand il commencera donc à sonner de la trompette, le mystère sera terminé. Remarquez
-maintenant ceci: il est alors temps pour les voix des sept Sceaux d’Apocalypse 10 d’être
-révélées. Comprenez-vous cela? Alors tous les mystères du Livre sont achevés et la Bible dit ici
-que cet ange terminera ces mystères. Quand les hommes des autres âges combattirent pour la
-vérité, ils combattirent pour la justification, pour la sanctification, ils combattirent pour ceci, ils
-combattirent pour cela, mais que firent-ils? Ils se détournèrent et s’organisèrent. Ce fut pareil avec
-les Pentecôtistes, les Baptistes, les Presbytériens, les Luthériens, chacun fit la même chose,
+       “Et je vis un autre ange puissant descendant du ciel, revêtu d’une nuée, et l’arc-en-ciel sur sa tête, et son visage comme le soleil, et ses pieds comme des colonnes de feu; et il avait dans sa main un petit livre ouvert (maintenant observez ceci). Et il mit son pied droit sur la mer et le gauche sur la terre; et il cria à haute voix, comme un lion rugit; et quand il cria, les sept tonnerres firent entendre leurs propres voix. (Attention!) Et quand les sept tonnerres eurent parlé, j’allais écrire (quelque chose avait été dit et il se prépara à écrire). Et j’ouïs une voix venant du ciel, disant (vous voyez où se trouvaient les voix qui étaient dans les tonnerres: elles n’étaient pas au ciel, mais sur la terre. Les tonnerres n’ont jamais fait entendre leur voix depuis le ciel, mais depuis la terre): scelle (S–C–E–L–L–E) les choses que les sept tonnerres ont prononcées et ne les écris pas”.
+233 Cela se trouve sur le revers. Quand un livre est achevé… Il n’a pas dit que c’était sur le devant, mais sur le revers. Après qu’il ait été entièrement achevé, les voix de ces sept tonnerres sont la seule chose attachée au Livre qui ne soit pas révélée. Ce n’est même pas écrit dans le Livre.
+234 Oh, mes frères! J’aimerais tellement faire saisir cela aux gens! Cette fois-ci, ne manquez pas cela! Ne manquez pas cela s’il vous plaît! Je suis sur le point de vous quitter. Ne manquez pas cela! Ecoutez comme vous n’avez jamais encore écouté! Ces Sceaux sont sur le revers du Livre, et au temps où le septième ange sonne de la trompette, tous les mystères qui sont écrits dans le Livre sont achevés. Et immédiatement après, le Livre qui était ouvert et où quelque chose était écrit à l’intérieur est fermé. Les mystères de Dieu sont terminés. Et ce sont ici les mystères de Dieu: L’enlèvement de l’Eglise et toutes ces autres choses. Les mystères sont terminés.
+235 Quand ce septième ange a révélé chaque mystère en sonnant de la trompette, c’est terminé. Que chacun soit ce qu’il peut être! Quoi qu’il puisse être. La Parole de Dieu ne peut pas mentir et Il a dit: “… mais qu’aux jours de la voix du septième ange, quand il sera sur le point de sonner de la trompette, le mystère de Dieu aussi sera terminé, comme il en a annoncé la bonne nouvelle à ses esclaves les prophètes”.
+236 Toutes ces choses, comme Rome qui est la prostituée et toutes les églises protestantes qui ont fait des dénominations après elle et sont devenues des prostituées elles aussi. Vous voyez? Tous ces mystères dont les prophètes ont parlé seront révélés ici même en cette dernière heure. Et quand ce septième ange se lève dans l’âge de Laodicée et commence à sonner la vraie trompette, parce que ce sera contraire à leurs idées ils ne le croiront pas. C’est certain qu’ils ne le croiront pas. Mais ce sera un prophète inspiré, parce qu’il n’y a aucun moyen de s’imaginer cela. L’homme essaie d’imaginer la trinité jusqu’à en avoir les cheveux blancs et de venir fou. Personne ne peut comprendre cela! Ils croient toujours qu’Eve a mangé une pomme et toutes ces choses. Tout cela parce que c’est à la tradition que ces hommes se sont attachés, exactement comme Jésus a trouvé l’église. Il faudra que ce soit un prophète conduit divinement, à qui la Parole de Dieu vienne avec la vraie interprétation de la révélation de Jésus-Christ. Ainsi donc il faudra que ce soit de cette manière. Que Dieu nous vienne en aide.
+237 Quand sa trompette sonne… Maintenant ceci est AINSI DIT LE SEIGNEUR! Pour nous c’est clair. Quand il proclame son message, il déclare la guerre comme Paul le fit à l’église officielle, comme les autres l’ont fait, Luther, Wesley contre l’organisation. Quand il déclare la guerre et leur dit qu’ils mentent et que ce n’est pas la vérité, et qu’ils séduisent les hommes, quand il sonne de la trompette pour cela, cela ne manquera jamais d’arriver parce qu’il sera confirmé par la Parole de Dieu. Vous saurez exactement ce que c’est. Et quand il sonne de la trompette, c’est pour appeler ceux qui sont dans Babylone: “Sortez de Babylone, mon peuple, et n’ayez pas part à ses péchés!”. C’est Dieu qui l’a envoyé. Ne le manquez pas!
+238 Quand il commencera donc à sonner de la trompette, le mystère sera terminé. Remarquez maintenant ceci: il est alors temps pour les voix des sept Sceaux d’Apocalypse 10 d’être révélées. Comprenez-vous cela? Alors tous les mystères du Livre sont achevés et la Bible dit ici que cet ange terminera ces mystères. Quand les hommes des autres âges combattirent pour la vérité, ils combattirent pour la justification, pour la sanctification, ils combattirent pour ceci, ils combattirent pour cela, mais que firent-ils? Ils se détournèrent et s’organisèrent. Ce fut pareil avec les Pentecôtistes, les Baptistes, les Presbytériens, les Luthériens, chacun fit la même chose,
 
         http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 25
-chacun se détourna et fit la même chose. Et la Bible dit dans Apocalypse 17 que c’est ce qu’ils
-feraient. C’est la vieille mère prostituée et ses filles, le mystère Babylone.
-239 La Bible dit ici que ce serait l’un des mystères qui seraient dévoilés. Les protestants sont des
-prostituées qui commettent la fornication spirituelle en conduisant les gens par des dénominations,
-avec leur coupe d’iniquité de doctrines fabriquées par l’homme et en les détournant de la fontaine
-remplie de Sang où la puissance du Dieu Tout-Puissant coule librement afin de manifester
-Jésus-Christ.
-240 Si c’est vrai, Dieu le confirmera. Et c’est ce qu’Il a fait. Et Il continuera! Mais quand cela arrive,
-la Parole est terminée.
-241 Maintenant il ne reste plus qu’une seule chose. Ce sont ces sept tonnerres que nous ne
-connaissons pas. Mais ils n’ont pas tonné en vain! Dieu ne fait pas quelque chose simplement
-pour s’amuser. Nous jouons et agissons bêtement, mais pas Dieu. Avec Dieu tout est oui et non. Il
-ne raconte pas d’histoires. Il ne raconte pas de blagues. Il pense ce qu’Il dit et Il ne dit rien à moins
-que cela n’ait une signification.
-242 Et ces sept tonnerres qui sont ici même dans la révélation de Jésus-Christ sont un mystère.
-La Bible ne dit-Elle pas que ceci est la révélation de Jésus-Christ? Eh bien, il y a là-dedans un
-mystère caché! Quel est-il? Ce sont les sept tonnerres qui le détiennent. Jean était juste sur le
-point d’écrire quand une voix descendit du Ciel et dit: “Ne l’écris pas! Scelle cela! Mets-le sur le
-revers du Livre”. Il faut que cela soit révélé. Ce sont les mystères!
-243 Maintenant nous résolvons ces choses par le Saint-Esprit. Il nous dit que ce n’étaient pas des
-pommes. C’était quelque chose de sexuel. C’est Lui qui nous a dit ces choses. Personne n’est
-capable de s’opposer à cela. Mais je n’ai jamais vu de ma vie un prédicateur être d’accord avec
-cela. Pourtant je leur ai demandé…
-244 Vous savez ce qui s’est passé à Chicago quand nous avons dû nous tenir devant environ 350
-prédicateurs (vous les femmes qui êtes venues de Chicago, vous étiez là et vous avez entendu
-parler de cela). Le Seigneur m’avait parlé trois jours auparavant. Il m’avait dit: «Ils vont te tendre
-un piège. Tiens-toi à la fenêtre et je te le montrerai». Il dit: «Mr. Carlson et Tommy Hicks viendront
-à ta rencontre demain matin pour aller déjeuner et tu diras à Tommy de rester. Voici ce qui va se
-passer. Dis-leur qu’ils ne tiendront pas la réunion à l’endroit qu’ils pensent. Ils iront à un autre
-endroit». Il dit encore: «Ne crains rien, je serai avec toi!». Cela me suffisait.
-245 Le lendemain matin, Mr. Carlson, président des Hommes d’Affaires du Plein Evangile,
-m’appela au téléphone et dit: «Frère Branham, je voudrais aller déjeuner avec vous».
+chacun se détourna et fit la même chose. Et la Bible dit dans Apocalypse 17 que c’est ce qu’ils feraient. C’est la vieille mère prostituée et ses filles, le mystère Babylone.
+239 La Bible dit ici que ce serait l’un des mystères qui seraient dévoilés. Les protestants sont des prostituées qui commettent la fornication spirituelle en conduisant les gens par des dénominations, avec leur coupe d’iniquité de doctrines fabriquées par l’homme et en les détournant de la fontaine remplie de Sang où la puissance du Dieu Tout-Puissant coule librement afin de manifester Jésus-Christ.
+240 Si c’est vrai, Dieu le confirmera. Et c’est ce qu’Il a fait. Et Il continuera! Mais quand cela arrive, la Parole est terminée.
+241 Maintenant il ne reste plus qu’une seule chose. Ce sont ces sept tonnerres que nous ne connaissons pas. Mais ils n’ont pas tonné en vain! Dieu ne fait pas quelque chose simplement pour s’amuser. Nous jouons et agissons bêtement, mais pas Dieu. Avec Dieu tout est oui et non. Il ne raconte pas d’histoires. Il ne raconte pas de blagues. Il pense ce qu’Il dit et Il ne dit rien à moins que cela n’ait une signification.
+242 Et ces sept tonnerres qui sont ici même dans la révélation de Jésus-Christ sont un mystère. La Bible ne dit-Elle pas que ceci est la révélation de Jésus-Christ? Eh bien, il y a là-dedans un mystère caché! Quel est-il? Ce sont les sept tonnerres qui le détiennent. Jean était juste sur le point d’écrire quand une voix descendit du Ciel et dit: “Ne l’écris pas! Scelle cela! Mets-le sur le revers du Livre”. Il faut que cela soit révélé. Ce sont les mystères!
+243 Maintenant nous résolvons ces choses par le Saint-Esprit. Il nous dit que ce n’étaient pas des pommes. C’était quelque chose de sexuel. C’est Lui qui nous a dit ces choses. Personne n’est capable de s’opposer à cela. Mais je n’ai jamais vu de ma vie un prédicateur être d’accord avec cela. Pourtant je leur ai demandé…
+244 Vous savez ce qui s’est passé à Chicago quand nous avons dû nous tenir devant environ 350 prédicateurs (vous les femmes qui êtes venues de Chicago, vous étiez là et vous avez entendu parler de cela). Le Seigneur m’avait parlé trois jours auparavant. Il m’avait dit: «Ils vont te tendre un piège. Tiens-toi à la fenêtre et je te le montrerai». Il dit: «Mr. Carlson et Tommy Hicks viendront à ta rencontre demain matin pour aller déjeuner et tu diras à Tommy de rester. Voici ce qui va se passer. Dis-leur qu’ils ne tiendront pas la réunion à l’endroit qu’ils pensent. Ils iront à un autre endroit». Il dit encore: «Ne crains rien, je serai avec toi!». Cela me suffisait.
+245 Le lendemain matin, Mr. Carlson, président des Hommes d’Affaires du Plein Evangile, m’appela au téléphone et dit: «Frère Branham, je voudrais aller déjeuner avec vous».
      Je lui dis: «Très bien». Je dis: «Veillez à ce que Tommy Hicks soit là lui aussi».
-246 Nous descendîmes au “Town and Country” et là il me dit: «Eh bien, frère Branham, je me
-demande…».
+246 Nous descendîmes au “Town and Country” et là il me dit: «Eh bien, frère Branham, je me demande…».
 247 Je dis: «Tommy, veux-tu me faire une faveur?». Il me dit: «Bien sûr, frère Branham!».
      Je dis: «Accepterais-tu de parler à ma place?».
      Il dit: «Oh, je ne peux pas faire cela».
-248 Je dis: «Pourquoi? Je n’ai fait que l’école primaire et je dirais empire pour umpire, tu vois. Je
-ne saurai pas parler devant eux et ce sera l’association pastorale du Grand Chicago. Comment
-pourrais-je parler devant eux avec mon instruction primaire, Tommy? Toi, tu es un docteur en
-théologie». Je dis: «Toi, tu sais parler, moi pas».
+248 Je dis: «Pourquoi? Je n’ai fait que l’école primaire et je dirais empire pour umpire, tu vois. Je ne saurai pas parler devant eux et ce sera l’association pastorale du Grand Chicago. Comment pourrais-je parler devant eux avec mon instruction primaire, Tommy? Toi, tu es un docteur en théologie». Je dis: «Toi, tu sais parler, moi pas».
      Il me dit: «Frère Branham, je ne peux pas faire cela».
 249 Je dis: «Pourquoi? Je t’ai souvent rendu service». Je le lui dis sans détour.
 250 Alors frère Carlson dit: «Oh, frère Branham, il ne peut pas faire cela!».
      Je dis: «Pourquoi?».
      Il dit: «Eh bien… euh… euh… euh… heu…».
-251 Je dis: «Vous savez pourquoi? Vous savez vous-mêmes pourquoi mais vous ne voulez pas
-me le dire. C’est parce qu’ils m’ont tendu un piège». Je dis: «Frère Carlson, vous avez loué cette
-salle d’hôtel, n’est-ce pas, où nous avions notre banquet l’autre fois?».
+251 Je dis: «Vous savez pourquoi? Vous savez vous-mêmes pourquoi mais vous ne voulez pas me le dire. C’est parce qu’ils m’ont tendu un piège». Je dis: «Frère Carlson, vous avez loué cette salle d’hôtel, n’est-ce pas, où nous avions notre banquet l’autre fois?».
      — «Oui».
 
         http://www.cmpp.ch
@@ -1393,174 +871,51 @@ salle d’hôtel, n’est-ce pas, où nous avions notre banquet l’autre fois?�
 MESSIEURS, EST-CE L’HEURE? 26
      Je dis: «Vous ne l’aurez pas cette fois-ci».
 252 Il me dit: «Eh bien, frère Branham, nous avons payé une avance pour cette salle».
-253 Je dis: «Vous avez beau l’avoir fait, ce n’est pas là qu’aura lieu la rencontre. C’est une salle
-de couleur verte et nous irons dans une salle de couleur brune. Je serai au fond dans un coin. Le
-docteur Needle sera assis à droite. Cet homme de couleur et sa femme seront assis ici et ainsi de
-suite. Il y aura un prêtre bouddhiste assis à mon extrême droite et il sera habillé de telle et telle
-manière». Je dis encore: «Tu sais de quoi il s’agit, Tommy! Tu sais que l’association pastorale du
-Grand Chicago va me jeter un défi au sujet du baptême au Nom de Jésus-Christ. L’association
-pastorale du Grand Chicago va me jeter un défi au sujet du parler en langues en tant qu’évidence
-du Saint-Esprit. Ils me jetteront un défi au sujet de la semence du serpent et de la prédication de la
-grâce».
-254 Tommy me lança un regard et dit: «Que Dieu me vienne en aide! Je ne crois même pas que
-j’irai!».
+253 Je dis: «Vous avez beau l’avoir fait, ce n’est pas là qu’aura lieu la rencontre. C’est une salle de couleur verte et nous irons dans une salle de couleur brune. Je serai au fond dans un coin. Le docteur Needle sera assis à droite. Cet homme de couleur et sa femme seront assis ici et ainsi de suite. Il y aura un prêtre bouddhiste assis à mon extrême droite et il sera habillé de telle et telle manière». Je dis encore: «Tu sais de quoi il s’agit, Tommy! Tu sais que l’association pastorale du Grand Chicago va me jeter un défi au sujet du baptême au Nom de Jésus-Christ. L’association pastorale du Grand Chicago va me jeter un défi au sujet du parler en langues en tant qu’évidence du Saint-Esprit. Ils me jetteront un défi au sujet de la semence du serpent et de la prédication de la grâce».
+254 Tommy me lança un regard et dit: «Que Dieu me vienne en aide! Je ne crois même pas que j’irai!».
      Je dis: «Oui, tu viendras!».
-255 Le jour suivant, la personne qui avait reçu son avance la lui rendit en disant: «Nous devons
-recevoir un orchestre. Nous l’avions inscrit, mais nous l’avions oublié et perdu le papier. Nous
-devons donner la salle à l’orchestre et vous ne pourrez pas l’avoir». Nous allâmes alors au “Town
-and Country”.
-256 Lorsque j’entrai ce matin-là, ils s’y trouvaient tous. Je m’assis derrière mon pupitre au fond et
-j’attendis. Ils avaient fini de déjeuner. Je les regardai (nous avions déjeuné dans une salle puis
-étions sortis pour venir dans celle-là). C’était cela l’association pastorale du Grand Chicago. Je les
-regardai. Chacun se présenta: Docteur en théologie, Docteur en ceci, Docteur en cela, et ainsi de
-suite. Je restai simplement assis et les écoutais.
-257 Quand ils eurent fini, frère Carlson se leva et dit (vous connaissez tous Hank Carlson. Nous
-l’avons ici enregistré sur bande. Si vous voulez en acheter une, il y en a ici): «Messieurs,
-maintenant je vais vous présenter frère Branham». Il dit: «Vous pouvez être en désaccord avec lui
-sur sa doctrine, mais laissez-moi vous dire quelque chose. Il y a trois jours, nous étions assis
-quelque part, et si cet homme ne m’a pas raconté tout ce qui s’est passé ici ce matin, alors je ne
-suis pas ici maintenant! Il m’a dit que vous alliez l’interroger au sujet de sa doctrine et me dit aussi
-que je devrais laisser l’autre salle et venir ici. Il m’a dit exactement où se trouverait le docteur
-Mede et où tous les gens seraient assis, exactement, et les voici. Vous pouvez ne pas être
-d’accord avec lui, mais je vous dis une chose, c’est qu’il est sans crainte au sujet de ce qu’il
-pense». Puis il dit: «Maintenant, frère Branham, je vous laisse la place».
-258 Je dis: «Avant de commencer (j’ai relu ce que j’ai fait ce matin-là. Je n’ai pas été désobéissant
-à la vision céleste), mettons ceci au clair. Vous dites tous que vous êtes des docteurs en théologie
-et moi je suis ici tout seul. Si c’est bien le cas, vous voulez m’interroger au sujet du baptême au
-Nom de Jésus. Nous commencerons donc par cela. Je voudrais que l’un de vous apporte sa Bible
-et vienne ici à côté de moi pour discuter sur un des sujets quelconques que j’ai enseignés». Je dis:
-«Venez ici vers moi et prouvez-moi par la Parole de Dieu que c’est faux!». J’attendis. Personne ne
-dit rien. Je dis: «Je demande à quelqu’un d’entre vous de venir ici vers moi. Que se passe-t-il avec
-vous? Laissez-moi donc tranquille si vous avez peur de venir ici vers moi!». Mais ce n’est pas de
-moi qu’ils avaient peur, c’était de cet Ange du Dieu Tout-Puissant, et ils savaient que s’Il pouvait
-prédire ma venue… ils étaient plus intelligents que je ne pensais. Ils savaient qu’il valait mieux
-pour eux rester à leur place.
-259 Ils ne vinrent pas. Que se passe-t-il? C’est si glorieux et ils savent que c’est tellement vrai! Je
-l’ai enregistré sur bande et à n’importe quel endroit je suis prêt à parler de ces choses en chrétien
-avec n’importe quel frère. Je ne veux me disputer avec personne, mais je voudrais que vous
-veniez prouver qu’il y a quelque chose de faux dans cette Parole, non pas au moyen de vos
-manuels, non pas par ce que le docteur Untel ou le saint ceci ou cela a dit. Je veux connaître ce
-que Dieu a dit. C’est cela la base. Moi je désire connaître ce que c’est, eux pas.
-260 Voyez maintenant. Quand il est temps pour les sept Voix d’Apocalypse 10 (et il est temps
-pour les sept Voix quand le Livre est achevé) d’être révélées… Ecoutez ceci maintenant (je ne
-vais plus vous garder longtemps encore, je sais que je vous fatigue. Il est dix heures moins vingt).
-Ecoutez attentivement maintenant. Je sais que vous êtes debout et que vous devez changer de
+255 Le jour suivant, la personne qui avait reçu son avance la lui rendit en disant: «Nous devons recevoir un orchestre. Nous l’avions inscrit, mais nous l’avions oublié et perdu le papier. Nous devons donner la salle à l’orchestre et vous ne pourrez pas l’avoir». Nous allâmes alors au “Town and Country”.
+256 Lorsque j’entrai ce matin-là, ils s’y trouvaient tous. Je m’assis derrière mon pupitre au fond et j’attendis. Ils avaient fini de déjeuner. Je les regardai (nous avions déjeuné dans une salle puis étions sortis pour venir dans celle-là). C’était cela l’association pastorale du Grand Chicago. Je les regardai. Chacun se présenta: Docteur en théologie, Docteur en ceci, Docteur en cela, et ainsi de suite. Je restai simplement assis et les écoutais.
+257 Quand ils eurent fini, frère Carlson se leva et dit (vous connaissez tous Hank Carlson. Nous l’avons ici enregistré sur bande. Si vous voulez en acheter une, il y en a ici): «Messieurs, maintenant je vais vous présenter frère Branham». Il dit: «Vous pouvez être en désaccord avec lui sur sa doctrine, mais laissez-moi vous dire quelque chose. Il y a trois jours, nous étions assis quelque part, et si cet homme ne m’a pas raconté tout ce qui s’est passé ici ce matin, alors je ne suis pas ici maintenant! Il m’a dit que vous alliez l’interroger au sujet de sa doctrine et me dit aussi que je devrais laisser l’autre salle et venir ici. Il m’a dit exactement où se trouverait le docteur Mede et où tous les gens seraient assis, exactement, et les voici. Vous pouvez ne pas être d’accord avec lui, mais je vous dis une chose, c’est qu’il est sans crainte au sujet de ce qu’il pense». Puis il dit: «Maintenant, frère Branham, je vous laisse la place».
+258 Je dis: «Avant de commencer (j’ai relu ce que j’ai fait ce matin-là. Je n’ai pas été désobéissant à la vision céleste), mettons ceci au clair. Vous dites tous que vous êtes des docteurs en théologie et moi je suis ici tout seul. Si c’est bien le cas, vous voulez m’interroger au sujet du baptême au Nom de Jésus. Nous commencerons donc par cela. Je voudrais que l’un de vous apporte sa Bible et vienne ici à côté de moi pour discuter sur un des sujets quelconques que j’ai enseignés». Je dis: «Venez ici vers moi et prouvez-moi par la Parole de Dieu que c’est faux!». J’attendis. Personne ne dit rien. Je dis: «Je demande à quelqu’un d’entre vous de venir ici vers moi. Que se passe-t-il avec vous? Laissez-moi donc tranquille si vous avez peur de venir ici vers moi!». Mais ce n’est pas de moi qu’ils avaient peur, c’était de cet Ange du Dieu Tout-Puissant, et ils savaient que s’Il pouvait prédire ma venue… ils étaient plus intelligents que je ne pensais. Ils savaient qu’il valait mieux pour eux rester à leur place.
+259 Ils ne vinrent pas. Que se passe-t-il? C’est si glorieux et ils savent que c’est tellement vrai! Je l’ai enregistré sur bande et à n’importe quel endroit je suis prêt à parler de ces choses en chrétien avec n’importe quel frère. Je ne veux me disputer avec personne, mais je voudrais que vous veniez prouver qu’il y a quelque chose de faux dans cette Parole, non pas au moyen de vos manuels, non pas par ce que le docteur Untel ou le saint ceci ou cela a dit. Je veux connaître ce que Dieu a dit. C’est cela la base. Moi je désire connaître ce que c’est, eux pas.
+260 Voyez maintenant. Quand il est temps pour les sept Voix d’Apocalypse 10 (et il est temps pour les sept Voix quand le Livre est achevé) d’être révélées… Ecoutez ceci maintenant (je ne vais plus vous garder longtemps encore, je sais que je vous fatigue. Il est dix heures moins vingt). Ecoutez attentivement maintenant. Je sais que vous êtes debout et que vous devez changer de
 
         http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 27
-position. Je serai heureux quand l’église sera transformée et que vous n’aurez plus besoin d’être
-tellement serrés. Nous pourrons alors prêcher toute la journée. Remarquez ceci maintenant.
-Remarquez que ces sept Voix étaient des tonnerres, et qu’ils tonnaient.
+position. Je serai heureux quand l’église sera transformée et que vous n’aurez plus besoin d’être tellement serrés. Nous pourrons alors prêcher toute la journée. Remarquez ceci maintenant. Remarquez que ces sept Voix étaient des tonnerres, et qu’ils tonnaient.
 261 Que Dieu nous aide! Si je me trompe, Seigneur pardonne-moi.
-262 Je vais vous poser une question. Un tonnerre gronda quand cette Voix se fit entendre. Avez-
-vous remarqué ces sept Sceaux qui ont suivi les sept âges de l’Eglise? Quand le premier Sceau
-fut ouvert il y eut un tonnerre. Quand le premier Sceau du Livre fut ouvert il y eut un tonnerre. Le
-premier Sceau sur le revers du Livre ne s’ouvrira-t-il pas de la même manière? Dieu ne change
-pas Son programme.
-263 Voyons Apocalypse 6.1: “Et je vis, lorsque l’Agneau ouvrit l’un des sept Sceaux, et j’entendis
-l’un des quatre animaux disant comme une voix de tonnerre: Viens et vois”.
-264 Il n’y a donc jamais eu d’autre tonnerre, et quand le dernier Sceau fut ouvert il y eut dans le
-Ciel un silence d’environ une demi-heure. Mais quand le premier Sceau fut ouvert, il y eut un coup
-de tonnerre.
-265 Oh, église, serait-ce cela? En sommes-nous à ce point-là? Chers amis, réfléchissez!
-Peut-être… j’espère que ce n’est pas le cas, mais si c’était le cas? Qu’est-ce que c’était que ce
-coup de tonnerre? Devant Dieu et devant cette Bible ouverte, je ne mens pas! Il y eut un coup de
-tonnerre qui secoua la terre. Et quand le premier de ces sept Sceaux fut ouvert dans la Bible, il y
-eut un coup de tonnerre, un seul, qui secoua le tout. Un tonnerre! Alors si les Sceaux qui sont sur
-le revers s’ouvrent, n’y aura-t-il pas aussi un tonnerre? Je ne sais pas. Je ne peux pas le dire.
-266 Il y eut un tonnerre. Le premier Sceau. Le Sceau était un tonnerre, la trompette sonna en ce
-temps-là, et la trompette fut sonnée le jour de Pentecôte, c’est évident (mais je ne veux pas entrer
-là-dedans).
-267 Or si la vision était scripturaire (la vision dont je parle est celle que j’ai eue samedi passé, le
-matin, c’est-à-dire il y a une semaine), SI, et rappelez-vous cela, SI la vision était scripturaire, elle
-doit être interprétée par l’Ecriture, elle doit être dans la continuité de la même Ecriture (j’attends
-simplement, pour que cela pénètre bien). Si ce que j’ai vu… Ce que c’est, je n’en sais rien, mais
-j’en ai été mortellement effrayé! Les choses sont-elles consommées? Sommes-nous à la fin?
-Rappelez-vous que cet Ange a dit que quand cela arriverait, il jura qu’il n’y aurait plus de temps. Je
-me demande si nous saisissons véritablement cela!
-268 Vous direz: «Eh bien, il semble que ce coup de tonnerre vient de cette direction-ci!». Frères, il
-viendra à la minute où vous n’y penserez pas! Quand vous l’entendrez, ce sera pour la dernière
-fois.
-269 Maintenant est-ce clair? Quand le premier Sceau a été ouvert (le Sceau qui était à l’intérieur
-du Livre, ces mystères qui étaient en train d’être annoncés par une sonnerie), la justification, la
-sanctification, l’église catholique romaine, les protestants et toutes leurs rivalités, toutes ces
-choses laissées en suspens dans la Parole de Dieu, le septième ange vient les rassembler et les
-expliquer. Vous voyez? Et quand il termine, sept tonnerres font entendre leurs voix. Et Jean
-commença à écrire. Mais la voix lui dit: “N’écris pas cela, scelle-le”. Des Sceaux qui étaient à
-l’intérieur du Livre, le premier fut ouvert. Il s’ouvrit avec un tonnerre.
-270 Si cela est scripturaire, cela ne peut être que… Si un passage de l’Ecriture est quelque chose
-qui est censé provenir de la Bible… C’est comme si vous essayiez de me dire qu’une chose telle
-que le purgatoire existe. Mais il n’y a aucun passage de la Bible pour soutenir cette idée.
-271 Ne me parlez pas du livre des Macchabées (qui est peut-être très bien) ou du quatrième livre
-de Daniel, qu’un ange aurait soi-disant saisi par les cheveux et emporté quelque part. Rien de cela
-n’a jamais eu lieu dans la Bible! Quant à cette histoire où Jésus de Nazareth aurait fabriqué un
-petit oiseau d’argile, lui aurait fixé des pattes et lui aurait dit: «Vole, petit oiseau!», elle n’a pas de
-sens. Il n’y a rien dans la Bible pour confirmer cela.
-272 C’est pourquoi Dieu a fait en sorte que les traducteurs n’ajoutent pas ces dogmes et ces
-non-sens. Les frères Macchabées étaient peut-être de braves gens, je ne dis pas le contraire,
-mais cette histoire n’est pas scripturaire. La Bible est la révélation complète de Jésus-Christ.
-Rien ne peut y être ajouté et rien ne peut en être ôté. Et si nous rajoutons ces livres, ils ne
-correspondent pas au reste de la Bible. Il y a soixante-six livres dans la Bible et il n’y a pas une
+262 Je vais vous poser une question. Un tonnerre gronda quand cette Voix se fit entendre. Avez-vous remarqué ces sept Sceaux qui ont suivi les sept âges de l’Eglise? Quand le premier Sceau fut ouvert il y eut un tonnerre. Quand le premier Sceau du Livre fut ouvert il y eut un tonnerre. Le premier Sceau sur le revers du Livre ne s’ouvrira-t-il pas de la même manière? Dieu ne change pas Son programme.
+263 Voyons Apocalypse 6.1: “Et je vis, lorsque l’Agneau ouvrit l’un des sept Sceaux, et j’entendis l’un des quatre animaux disant comme une voix de tonnerre: Viens et vois”.
+264 Il n’y a donc jamais eu d’autre tonnerre, et quand le dernier Sceau fut ouvert il y eut dans le Ciel un silence d’environ une demi-heure. Mais quand le premier Sceau fut ouvert, il y eut un coup de tonnerre.
+265 Oh, église, serait-ce cela? En sommes-nous à ce point-là? Chers amis, réfléchissez! Peut-être… j’espère que ce n’est pas le cas, mais si c’était le cas? Qu’est-ce que c’était que ce coup de tonnerre? Devant Dieu et devant cette Bible ouverte, je ne mens pas! Il y eut un coup de tonnerre qui secoua la terre. Et quand le premier de ces sept Sceaux fut ouvert dans la Bible, il y eut un coup de tonnerre, un seul, qui secoua le tout. Un tonnerre! Alors si les Sceaux qui sont sur le revers s’ouvrent, n’y aura-t-il pas aussi un tonnerre? Je ne sais pas. Je ne peux pas le dire.
+266 Il y eut un tonnerre. Le premier Sceau. Le Sceau était un tonnerre, la trompette sonna en ce temps-là, et la trompette fut sonnée le jour de Pentecôte, c’est évident (mais je ne veux pas entrer là-dedans).
+267 Or si la vision était scripturaire (la vision dont je parle est celle que j’ai eue samedi passé, le matin, c’est-à-dire il y a une semaine), SI, et rappelez-vous cela, SI la vision était scripturaire, elle doit être interprétée par l’Ecriture, elle doit être dans la continuité de la même Ecriture (j’attends simplement, pour que cela pénètre bien). Si ce que j’ai vu… Ce que c’est, je n’en sais rien, mais j’en ai été mortellement effrayé! Les choses sont-elles consommées? Sommes-nous à la fin? Rappelez-vous que cet Ange a dit que quand cela arriverait, il jura qu’il n’y aurait plus de temps. Je me demande si nous saisissons véritablement cela!
+268 Vous direz: «Eh bien, il semble que ce coup de tonnerre vient de cette direction-ci!». Frères, il viendra à la minute où vous n’y penserez pas! Quand vous l’entendrez, ce sera pour la dernière fois.
+269 Maintenant est-ce clair? Quand le premier Sceau a été ouvert (le Sceau qui était à l’intérieur du Livre, ces mystères qui étaient en train d’être annoncés par une sonnerie), la justification, la sanctification, l’église catholique romaine, les protestants et toutes leurs rivalités, toutes ces choses laissées en suspens dans la Parole de Dieu, le septième ange vient les rassembler et les expliquer. Vous voyez? Et quand il termine, sept tonnerres font entendre leurs voix. Et Jean commença à écrire. Mais la voix lui dit: “N’écris pas cela, scelle-le”. Des Sceaux qui étaient à l’intérieur du Livre, le premier fut ouvert. Il s’ouvrit avec un tonnerre.
+270 Si cela est scripturaire, cela ne peut être que… Si un passage de l’Ecriture est quelque chose qui est censé provenir de la Bible… C’est comme si vous essayiez de me dire qu’une chose telle que le purgatoire existe. Mais il n’y a aucun passage de la Bible pour soutenir cette idée.
+271 Ne me parlez pas du livre des Macchabées (qui est peut-être très bien) ou du quatrième livre de Daniel, qu’un ange aurait soi-disant saisi par les cheveux et emporté quelque part. Rien de cela n’a jamais eu lieu dans la Bible! Quant à cette histoire où Jésus de Nazareth aurait fabriqué un petit oiseau d’argile, lui aurait fixé des pattes et lui aurait dit: «Vole, petit oiseau!», elle n’a pas de sens. Il n’y a rien dans la Bible pour confirmer cela.
+272 C’est pourquoi Dieu a fait en sorte que les traducteurs n’ajoutent pas ces dogmes et ces non-sens. Les frères Macchabées étaient peut-être de braves gens, je ne dis pas le contraire, mais cette histoire n’est pas scripturaire. La Bible est la révélation complète de Jésus-Christ. Rien ne peut y être ajouté et rien ne peut en être ôté. Et si nous rajoutons ces livres, ils ne correspondent pas au reste de la Bible. Il y a soixante-six livres dans la Bible et il n’y a pas une
 
         http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 28
 seule parole qui en contredira une autre.
-273 Si donc ceci est la continuation de la sonnerie de ces sept dernières trompettes, ou de ces
-sept derniers tonnerres qui s’avancent, les mystères et le dernier Sceau doivent concorder avec le
-reste de l’Ecriture. Et si ces premiers qui étaient à l’intérieur s’ouvrirent à un coup de tonnerre, les
-seconds, ceux qui sont sur le revers, feront de même.
-274 Observez ce qui se passe. Si la vision est scripturaire, elle doit être interprétée par l’Ecriture
-ou être une continuation de la même Ecriture.
-275 Remarquez Apocalypse 10.3,4. Sept tonnerres… Sept tonnerres! Et remarquez ce qui se
-passe ensuite dans ces versets 3 et 4. Que se passe-t-il? Il y a un serment de cet Ange puissant
-qui proclame que le temps est terminé. Vous voyez, quand ces tonnerres font entendre leurs voix,
-l’Ange… pensez à cela! Un Ange vêtu d’une nuée, la tête couverte d’un arc-en-ciel (eh bien, nous
-savons qui c’est) pose un pied sur la terre et l’autre sur la mer et lève la main en jurant que quand
-ces sept tonnerres feront entendre leurs voix il n’y aura plus de temps. Si le ministère des
-mystères de Dieu est terminé, que se passe-t-il quand ces sept mystères s’avancent?
-276 C’est dans une humble petite église comme la nôtre que le Tout-Puissant est venu et a
-regardé la bassesse de Son peuple.
-277 Vous direz: «Eh bien, je ne pense pas que cela soit ainsi». Peut-être, mais si c’était ainsi?
-Alors le temps est écoulé. Avez-vous pensé à cela? Prenez les choses au sérieux! Il est peut-être
-plus tard que nous ne le pensons.
-278 Il y a eu ces étoiles qui ont pris leur place là-bas dans cette constellation. Il y a eu cet ange
-qui est venu et qui a dit: «De même que Jean est venu achever l’Ancien Testament et préparer
-l’introduction de Christ, ton message rassemblera les points en suspens et présentera le Messie
-juste avant Sa venue». C’est le message des derniers jours. Remarquez que cet Ange puissant a
-juré avec serment qu’il n’y aurait plus de temps. Maintenant je ne veux pas vous garder trop
-longtemps. Pensez simplement à cela une minute maintenant.
-279 Ecoutez ceci maintenant. Cet Ange est descendu du Ciel. Vous voyez, les sept autres anges
-des sept églises étaient des messagers terrestres, mais cet Ange… tout le message est terminé.
-Le septième Ange achève le tout. Cet Ange ne vient pas de la terre. Il n’est pas un homme de la
-terre comme les messagers des âges de l’Eglise. Ce temps-là est terminé. Mais cet Ange
-apporte l’annonce suivante (et un ange est un messager) et descend du Ciel revêtu de cette
-Colonne de Feu, de cette nuée, et il a un arc-en-ciel sur la tête. Un arc-en-ciel est une alliance.
-C’est Christ, et Il pose un pied sur la terre et l’autre sur la mer et jure qu’il n’y aura plus de
-temps.
+273 Si donc ceci est la continuation de la sonnerie de ces sept dernières trompettes, ou de ces sept derniers tonnerres qui s’avancent, les mystères et le dernier Sceau doivent concorder avec le reste de l’Ecriture. Et si ces premiers qui étaient à l’intérieur s’ouvrirent à un coup de tonnerre, les seconds, ceux qui sont sur le revers, feront de même.
+274 Observez ce qui se passe. Si la vision est scripturaire, elle doit être interprétée par l’Ecriture ou être une continuation de la même Ecriture.
+275 Remarquez Apocalypse 10.3,4. Sept tonnerres… Sept tonnerres! Et remarquez ce qui se passe ensuite dans ces versets 3 et 4. Que se passe-t-il? Il y a un serment de cet Ange puissant qui proclame que le temps est terminé. Vous voyez, quand ces tonnerres font entendre leurs voix, l’Ange… pensez à cela! Un Ange vêtu d’une nuée, la tête couverte d’un arc-en-ciel (eh bien, nous savons qui c’est) pose un pied sur la terre et l’autre sur la mer et lève la main en jurant que quand ces sept tonnerres feront entendre leurs voix il n’y aura plus de temps. Si le ministère des mystères de Dieu est terminé, que se passe-t-il quand ces sept mystères s’avancent?
+276 C’est dans une humble petite église comme la nôtre que le Tout-Puissant est venu et a regardé la bassesse de Son peuple.
+277 Vous direz: «Eh bien, je ne pense pas que cela soit ainsi». Peut-être, mais si c’était ainsi? Alors le temps est écoulé. Avez-vous pensé à cela? Prenez les choses au sérieux! Il est peut-être plus tard que nous ne le pensons.
+278 Il y a eu ces étoiles qui ont pris leur place là-bas dans cette constellation. Il y a eu cet ange qui est venu et qui a dit: «De même que Jean est venu achever l’Ancien Testament et préparer l’introduction de Christ, ton message rassemblera les points en suspens et présentera le Messie juste avant Sa venue». C’est le message des derniers jours. Remarquez que cet Ange puissant a juré avec serment qu’il n’y aurait plus de temps. Maintenant je ne veux pas vous garder trop longtemps. Pensez simplement à cela une minute maintenant.
+279 Ecoutez ceci maintenant. Cet Ange est descendu du Ciel. Vous voyez, les sept autres anges des sept églises étaient des messagers terrestres, mais cet Ange… tout le message est terminé. Le septième Ange achève le tout. Cet Ange ne vient pas de la terre. Il n’est pas un homme de la terre comme les messagers des âges de l’Eglise. Ce temps-là est terminé. Mais cet Ange apporte l’annonce suivante (et un ange est un messager) et descend du Ciel revêtu de cette Colonne de Feu, de cette nuée, et il a un arc-en-ciel sur la tête. Un arc-en-ciel est une alliance. C’est Christ, et Il pose un pied sur la terre et l’autre sur la mer et jure qu’il n’y aura plus de temps.
 280 Où en sommes-nous, messieurs? Que signifie tout cela? Je vous le demande!
-281 Les autres anges étaient des messagers, des hommes de la terre. Mais cet Ange-ci… Ces
-choses avaient été dites à l’ange de l’église de Laodicée, à l’ange de l’église d’Ephèse qui étaient
-des messagers de cette terre. Vous voyez? Des hommes, des messagers, des prophètes et ainsi
-de suite, envoyés à l’Eglise. Mais Celui-ci ne vient pas de la terre. Il descend du Ciel parce que les
-mystères sont tous terminés. Et quand les mystères sont terminés, l’Ange dit: “Il n’y a plus de
-temps!”. Alors les sept tonnerres font entendre leurs voix.
-282 Ne serait-ce pas quelque chose destiné à nous faire savoir comment entrer dans la foi pour
-l’enlèvement? Est-ce cela qui nous fera sauter par-dessus les murs? Est-ce que quelque chose
-est sur le point d’arriver, et alors ces vieux corps vils et défigurés seront changés? Puis-je vivre
-pour voir cela, ô Seigneur? Est-ce si près que je le verrai? Est-ce cette génération? Messieurs,
-mes frères, QUELLE HEURE EST-IL? OU EN SOMMES-NOUS?
-283 Regardons l’horloge ou le calendrier pour voir à quelle date nous sommes. Israël est en
-Palestine, sa patrie. Le signe de la fin, l’étoile à six branches de David, vieille de deux mille ou
-presque deux mille cinq cents ans, le drapeau le plus ancien flotte à présent. Israël est de retour
-dans sa patrie. “Quand le figuier poussera ses bourgeons, cette génération ne mourra pas, ne
-passera pas, que toutes choses soient accomplies”.
+281 Les autres anges étaient des messagers, des hommes de la terre. Mais cet Ange-ci… Ces choses avaient été dites à l’ange de l’église de Laodicée, à l’ange de l’église d’Ephèse qui étaient des messagers de cette terre. Vous voyez? Des hommes, des messagers, des prophètes et ainsi de suite, envoyés à l’Eglise. Mais Celui-ci ne vient pas de la terre. Il descend du Ciel parce que les mystères sont tous terminés. Et quand les mystères sont terminés, l’Ange dit: “Il n’y a plus de temps!”. Alors les sept tonnerres font entendre leurs voix.
+282 Ne serait-ce pas quelque chose destiné à nous faire savoir comment entrer dans la foi pour l’enlèvement? Est-ce cela qui nous fera sauter par-dessus les murs? Est-ce que quelque chose est sur le point d’arriver, et alors ces vieux corps vils et défigurés seront changés? Puis-je vivre pour voir cela, ô Seigneur? Est-ce si près que je le verrai? Est-ce cette génération? Messieurs, mes frères, QUELLE HEURE EST-IL? OU EN SOMMES-NOUS?
+283 Regardons l’horloge ou le calendrier pour voir à quelle date nous sommes. Israël est en Palestine, sa patrie. Le signe de la fin, l’étoile à six branches de David, vieille de deux mille ou presque deux mille cinq cents ans, le drapeau le plus ancien flotte à présent. Israël est de retour dans sa patrie. “Quand le figuier poussera ses bourgeons, cette génération ne mourra pas, ne passera pas, que toutes choses soient accomplies”.
         Les nations se brisent,
         Israël se réveille,
         Signes prédits par les prophètes!
-
-        http://www.cmpp.ch
 
 MESSIEURS, EST-CE L’HEURE? 29
         Les jours des nations sont comptés,
@@ -1647,7 +1002,7 @@ Pourrait-ce être ceci: le mystère des tonnerres qui ramènera la pierre de fa�
 300 Le premier Pull… Vous vous rappelez ce qui s’est passé? J’avais essayé de l’expliquer. Mais
 Il avait dit: «Ne fais pas cela!».
 301 Le deuxième Pull… Il avait dit: «N’essaie pas…», mais j’avais quand même tiré. Vous vous en
-souvenez? Vous vous en souvenez tous, c’est sur les bandes et ailleurs.
+souverez? Vous vous en souvenez tous, c’est sur les bandes et ailleurs.
 302 Ensuite il dit: «Il va venir maintenant un troisième Pull, mais n’essaie pas de l’expliquer».
 303 Avez-vous vu comment j’ai abordé cela ce soir? Je ne sais pas! Mais je me sens obligé
 envers mon église de dire quelque chose. Vous en tirerez vos propres conclusions.
@@ -1801,7 +1156,7 @@ sur cette terre. Ensuite quand la vie sera terminée, reçois-nous en haut dans 
 nous le demandons au Nom de Jésus. Amen.
 331 Que chacun de vous purifie entièrement son coeur. Déposez toutes choses, chaque fardeau.
 Maintenez-le hors de votre chemin. Ne laissez rien vous troubler. N’ayez pas peur! Il n’y a rien qui
-doive vous faire peur. Si Jésus vient, c’est un moment pour lequel le monde tout entier a gémi et
+doit vous faire peur. Si Jésus vient, c’est un moment pour lequel le monde tout entier a gémi et
 crié. Si c’est quelque chose qui est en train de jaillir maintenant pour la venue d’un nouveau don
 ou autre, ce sera merveilleux. Si le temps vient où les sept tonnerres doivent être révélés à l’Eglise
 pour qu’elle puisse s’en aller, je n’en sais rien. J’ai simplement déclaré ce que j’ai vu.
@@ -1917,8 +1272,6 @@ Je L’aime (tout ce pourquoi j’ai vécu)
 Parce qu’Il m’a aimé le premier,
 Et a acquis mon salut
 Sur le bois du Calvaire.
-
-
 
 
 

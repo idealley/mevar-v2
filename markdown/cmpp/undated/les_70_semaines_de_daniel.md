@@ -1,705 +1,271 @@
-    LES 70 SEMAINES
-    DE DANIEL
-
+---
+source: "cmpp"
+sermon_id: "les_70_semaines_de_daniel"
+title: "LES 70 SEMAINES DE DANIEL"
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Cet exposé détaille la prophétie des 70 semaines d'années de Daniel 9, son accomplissement historique jusqu'à la crucifixion de Christ, et son application eschatologique pour Israël. L'auteur explique la répartition des semaines, réfute les interprétations erronées, et relie les événements actuels (reconnaissance Vatican-Israël, unification européenne) à la dernière semaine à venir."
+tags:
+  - "prophétie"
+  - "Daniel"
+  - "70 semaines"
+  - "eschatologie"
+  - "Israël"
+  - "antichrist"
+persons:
+  - "Daniel"
+  - "Jérémie"
+  - "Nébémie"
+  - "Artaxerxès"
+  - "Cyrus"
+  - "Zorobabel"
+  - "Joshua"
+  - "Aggée"
+  - "Zacharie"
+  - "Esdras"
+  - "Moïse"
+  - "Élie"
+  - "William Branham"
+  - "Irénée"
+  - "Polycarpe"
+  - "Jean"
+  - "Paul"
+  - "Jésus-Christ"
+  - "Satan"
+  - "Antichrist"
+places:
+  - "Jérusalem"
+  - "Babylone"
+  - "Assyrie"
+  - "Rome"
+  - "Vatican"
+  - "Krefeld"
+themes:
+  - "prophétie biblique"
+  - "accomplissement prophétique"
+  - "temps de la fin"
+  - "alliance de sept ans"
+  - "tribulation"
+  - "enlèvement de l'Église"
+  - "rétablissement d'Israël"
+  - "reconstruction du Temple"
+  - "union européenne"
+  - "rôle du Vatican"
+pdf_url: "http://cmpp.ch/les_70_semaines_de_daniel.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 3"
+  - "2 Chroniques 3"
+  - "2 Chroniques 36"
+  - "2 Corinthiens 3"
+  - "Actes 2"
+  - "Actes 20"
+  - "Actes 3"
+  - "Aggée 1"
+  - "Aggée 2"
+  - "Apocalypse 1"
+  - "Apocalypse 10"
+  - "Apocalypse 11"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Apocalypse 20"
+  - "Apocalypse 9"
+  - "Daniel 12"
+  - "Daniel 2"
+  - "Daniel 4"
+  - "Daniel 5"
+  - "Daniel 7"
+  - "Daniel 8"
+  - "Daniel 9"
+  - "Deutéronome 18"
+  - "Deutéronome 4"
+  - "Ecclésiaste 3"
+  - "Esdras 1"
+  - "Esdras 5"
+  - "Esther 640"
+  - "Exode 25"
+  - "Genèse 22"
+  - "Genèse 5"
+  - "Genèse 6"
+  - "Genèse 7"
+  - "Hébreux 1"
+  - "Hébreux 12"
+  - "Jean 11"
+  - "Josué 1"
+  - "Jérémie 25"
+  - "Jérémie 28"
+  - "Jérémie 29"
+  - "Luc 2"
+  - "Luc 21"
+  - "Luc 3"
+  - "Lévitique 25"
+  - "Michée 4"
+  - "Nombres 4"
+  - "Néhémie 1"
+  - "Néhémie 10"
+---
+LES 70 SEMAINES DE DANIEL
 
 ET LES EVENEMENTS ACTUELS
-       A LA LUMIERE
- DE LA PROPHETIE BIBLIQUE
+A LA LUMIERE DE LA PROPHETIE BIBLIQUE
 
+EWALD FRANK
 
+Du plus profond du coeur je vous salue tous au Nom de notre Seigneur Jésus-Christ par cette parole de Daniel 12.9: "Va, Daniel; car ces paroles sont cachées et scellées jusqu'au temps de la fin".
 
+Daniel, comme tous les prophètes de l'Ancien Testament sont entrés dans la gloire sans voir ni expérimenter eux-mêmes ce qui leur avait été révélé par l'Esprit et qu'ils avaient la charge de publier. Paul, comme aussi tous les apôtres, sont également entrés dans la gloire après avoir confirmé chacun pour sa part les prophéties arrivées à leur accomplissement. La révélation accordée au prophète Daniel concerne particulièrement Israël et elle devait demeurée scellée jusqu'au temps de la fin, c'est-à-dire jusqu'aux derniers jours. Pour ma part, je ne connais aucun passage dans les exposés de Paul ou des autres apôtres dans lequel soit cité une seule fois le livre de Daniel. Alors qu'ils ont mentionné des centaines de fois les passages d'actualité concernant l'histoire du salut.
 
+Dans les évangiles, notre Seigneur Jésus S'est référé une seule fois à Daniel, et c'est lorsqu'Il montra aux croyants de Judée ce qui allait arriver en leur temps. Le Seigneur leur dit: "Et quand vous verrez Jérusalem environnée d'armées, sachez alors que sa désolation est proche. Alors, que ceux qui sont en Judée s'enfuient dans les montagnes; et que ceux qui sont au milieu de Jérusalem s'en retirent…" (Luc 21.20-21). La chose arriva réellement, et les véritables croyants s'enfuirent de Jérusalem et échappèrent de cette manière à la mort lorsque la ville fut détruite en l'an 70.
 
+Aujourd'hui nous possédons la plénitude des paroles prophétiques, ainsi que les paroles des apôtres, et en vérité nous avons le privilège de voir ce que d'autres ne virent pas, et entendre ce que d'autres n'entendirent pas. Le Seigneur voudrait pouvoir dire que nos yeux et notre coeur sont bienheureux, à cause de ce qu'Il nous a fait reconnaître dans quelle mesure Il avait merveilleusement ordonné toutes choses. De ce point de vue c'est réellement le temps le plus glorieux et le plus puissant que les hommes aient le pouvoir d'expérimenter sur la terre avec Dieu.
 
+L'édition du livre sur l'Apocalypse se faisant un peu attendre, je me suis décidé à faire imprimer à part cet exposé sur le livre de Daniel. Il apparaîtra éventuellement plus tard dans le livre sur l'Apocalypse en tant que 23ème chapitre. Par la publication de cet exposé en avant-première, je souhaite avoir été utile à chacun, avec l'aide de Dieu.
 
+Les événements actuels au Proche-Orient ont conduit les connaisseurs de la Bible à se pencher de nouveau sur le livre de Daniel. C'est tout particulièrement la vision des soixante-dix semaines qui est un fondement approprié pour une meilleure compréhension des prophéties bibliques liées à ce qui se passe en Israël. Il est alors nécessaire de considérer les choses passées et celles du présent, car c'est de cette manière seulement que le futur pourra être rendu compréhensible.
 
+Le prophète Daniel se trouvait dans la captivité babylonienne avec son peuple et il sondait les écrits du prophète Jérémie pour trouver des éclaircissements sur la fin de l'oppression des soixante-dix ans (Daniel 9). Ensuite il pria Dieu avec ferveur et épancha son coeur devant le Seigneur. Après sa longue prière de repentance pour les péchés de son peuple et son intercession pour leur pardon, la réponse vint de Dieu; cependant elle ne se rapportait pas du tout au temps de la captivité, mais bien aux événements à venir concernant Israël et le Messie, et cela jusqu'à la fin. "Et je parlais encore, et je priais et confessais mon péché et le péché de mon peuple Israël, et je présentais ma supplication devant l'Eternel, mon Dieu, pour la sainte montagne de mon Dieu, — je parlais encore en priant, et l'homme Gabriel que j'avais vu dans la vision au commencement, volant avec rapidité, me toucha vers le temps de l'offrande de gâteau du soir. Et il me fit comprendre, et me parla, et dit: Daniel, je suis maintenant sorti pour éclairer ton intelligence". "Au commencement de tes supplications la parole est sortie, et je suis venu pour te la déclarer, car tu es un bien-aimé. Comprends donc la parole, et sois intelligent dans la vision: Soixante-dix semaines ont été déterminées sur ton peuple et sur ta sainte ville, pour clore la transgression, et pour en finir avec le péché, et pour faire propitiation pour l'iniquité, et pour introduire la justice des siècles, et pour sceller la vision et le prophète, et pour oindre le saint des saints". "Et sache, et comprends: Depuis le sortie de la parole pour rétablir et rebâtir Jérusalem, jusqu'au Messie, le prince, il y a sept semaines et soixante-deux semaines; la place et le fossé seront rebâtis, et cela en des temps de trouble. Et après les soixante-deux semaines, le Messie sera retranché et n'aura rien; et le peuple du prince qui viendra, détruira la ville et le lieu saint, et la fin en sera avec débordement; et jusqu'à la fin il y aura guerre, un décret de désolations. Et il (le prince) confirmera une alliance avec la multitude pour une semaine; et au milieu de la semaine il fera cesser le sacrifice et l'offrande; et à cause de la protection des abominations il y aura un désolateur, et jusqu'à ce que la consomption et ce qui est décrété soient versés sur la désolée" (Daniel 9.20-27).
 
-    EWALD FRANK
+Remarquons que la révélation sur les soixante-dix semaines d'années fut donnée à Daniel alors qu'elles étaient encore à venir, car les soixante-dix ans de captivité à Babylone touchaient à leur fin. A cette époque soixante-huit ans s'étaient déjà écoulés.
 
-LES 70 SEMAINES DE DANIEL… 2
+Le prophète Jérémie avait prophétisé la captivité babylonienne de soixante-dix ans comme punition des Juifs, et cela entre autres parce qu'ils n'avaient pas respecté l'année de sabbat. Dieu n'exigeait pas seulement le septième jour de la semaine comme jour de repos; Il exigeait la septième année comme année sabbatique "… et la septième année, il y aura un sabbat de repos pour le pays, un sabbat consacré à l'Eternel: tu ne sèmeras pas ton champ, et tu ne tailleras pas ta vigne" (Lévitique 25.1-7; 26.33-35). Parce que le commandement de Dieu n'avait pas été observé, la détresse vint sur Son peuple. "Afin que fût accomplie la parole de l'Eternel, dite par la bouche de Jérémie, jusqu'à ce que le pays eût joui de ses sabbats. Tous les jours de sa désolation il se reposa, jusqu'à ce que soixante-dix ans fussent accomplis" (2 Chroniques 36.21).
 
-        LES 70 SEMAINES DE DANIEL
-        ET LES EVENEMENTS ACTUELS
-        A LA LUMIERE DE LA PROPHETIE BIBLIQUE
+En rapport avec l'année sabbatique, le grand jour de la réconciliation, qui était proclamée au son des trompettes, l'Eternel Dieu ordonna également l'année du Jubilé. "Et tu compteras sept sabbats d'années, sept fois sept ans; et les jours de ces sept sabbats d'années te feront quarante-neuf ans… et vous sanctifierez l'année de l'an cinquantième, et vous publierez la liberté dans le pays à tous ses habitants: ce sera pour vous un jubilé…" (Lévitique 25.8-13). Après le retour de la captivité à Babylone, le peuple de Dieu s'engagea par un voeu irrévocable à observer entre autres l'année de sabbat. "Et que, si les peuples du pays apportaient des marchandises ou toutes sortes de grains, le jour du sabbat, pour les vendre, nous n'en prendrions pas le jour du sabbat, ni en un jour saint; et que nous laisserions la terre en friche la septième année et remettrions toute espèce de dettes" (Néhémie 10.29-32).
 
-   Du plus profond du coeur je vous salue tous au Nom de notre Seigneur Jésus-Christ par cette
-parole de Daniel 12.9: “Va, Daniel; car ces paroles sont cachées et scellées jusqu’au temps de la
-fin”.
-   Daniel, comme tous les prophètes de l’Ancien Testament sont entrés dans la gloire sans voir ni
-expérimenter eux-mêmes ce qui leur avait été révélé par l’Esprit et qu’ils avaient la charge de
-publier. Paul, comme aussi tous les apôtres, sont également entrés dans la gloire après avoir
-confirmé chacun pour sa part les prophéties arrivées à leur accomplissement. La révélation
-accordée au prophète Daniel concerne particulièrement Israël et elle devait demeurée scellée
-jusqu’au temps de la fin, c’est-à-dire jusqu’aux derniers jours. Pour ma part, je ne connais
-aucun passage dans les exposés de Paul ou des autres apôtres dans lequel soit cité une seule
-fois le livre de Daniel. Alors qu’ils ont mentionné des centaines de fois les passages d’actualité
-concernant l’histoire du salut.
-   Dans les évangiles, notre Seigneur Jésus S’est référé une seule fois à Daniel, et c’est lorsqu’Il
-montra aux croyants de Judée ce qui allait arriver en leur temps. Le Seigneur leur dit: “Et quand
-vous verrez Jérusalem environnée d’armées, sachez alors que sa désolation est proche. Alors,
-que ceux qui sont en Judée s’enfuient dans les montagnes; et que ceux qui sont au milieu de
-Jérusalem s’en retirent…” (Luc 21.20-21). La chose arriva réellement, et les véritables croyants
-s’enfuirent de Jérusalem et échappèrent de cette manière à la mort lorsque la ville fut détruite en
-l’an 70.
-   Aujourd’hui nous possédons la plénitude des paroles prophétiques, ainsi que les paroles des
-apôtres, et en vérité nous avons le privilège de voir ce que d’autres ne virent pas, et entendre ce
-que d’autres n’entendirent pas. Le Seigneur voudrait pouvoir dire que nos yeux et notre coeur sont
-bienheureux, à cause de ce qu’Il nous a fait reconnaître dans quelle mesure Il avait
-merveilleusement ordonné toutes choses. De ce point de vue c’est réellement le temps le plus
-glorieux et le plus puissant que les hommes aient le pouvoir d’expérimenter sur la terre avec Dieu.
-   L’édition du livre sur l’Apocalypse se faisant un peu attendre, je me suis décidé à faire imprimer
-à part cet exposé sur le livre de Daniel. Il apparaîtra éventuellement plus tard dans le livre sur
-l’Apocalypse en tant que 23ème chapitre. Par la publication de cet exposé en avant-première, je
-souhaite avoir été utile à chacun, avec l’aide de Dieu.
-   Les événements actuels au Proche-Orient ont conduit les connaisseurs de la Bible à se
-pencher de nouveau sur le livre de Daniel. C’est tout particulièrement la vision des soixante-dix
-semaines qui est un fondement approprié pour une meilleure compréhension des prophéties
-bibliques liées à ce qui se passe en Israël. Il est alors nécessaire de considérer les choses
-passées et celles du présent, car c’est de cette manière seulement que le futur pourra être rendu
-compréhensible.
-   Le prophète Daniel se trouvait dans la captivité babylonienne avec son peuple et il sondait les
-écrits du prophète Jérémie pour trouver des éclaircissements sur la fin de l’oppression des
-soixante-dix ans (Daniel 9). Ensuite il pria Dieu avec ferveur et épancha son coeur devant le
-Seigneur. Après sa longue prière de repentance pour les péchés de son peuple et son
-intercession pour leur pardon, la réponse vint de Dieu; cependant elle ne se rapportait pas du tout
-au temps de la captivité, mais bien aux événements à venir concernant Israël et le Messie, et cela
-jusqu’à la fin. “Et je parlais encore, et je priais et confessais mon péché et le péché de mon peuple
-Israël, et je présentais ma supplication devant l’Eternel, mon Dieu, pour la sainte montagne de
-mon Dieu, — je parlais encore en priant, et l’homme Gabriel que j’avais vu dans la vision au
-commencement, volant avec rapidité, me toucha vers le temps de l’offrande de gâteau du soir. Et il
-me fit comprendre, et me parla, et dit: Daniel, je suis maintenant sorti pour éclairer ton
-intelligence”. “Au commencement de tes supplications la parole est sortie, et je suis venu pour te la
+Voici la teneur de la prophétie de Jérémie: "Et il arrivera, quand les soixante-dix semaines seront accomplies, que je visiterai sur le roi de Babylone et sur cette nation-là leur iniquité, dit l'Eternel…" (Jérémie 25.12). "Car ainsi dit l'Eternel: Lorsque soixante-dix ans seront accomplis pour Babylone, je vous visiterai, et j'accomplirai envers vous ma bonne parole, pour vous faire revenir en ce lieu" (Jérémie 29.10). Le faux prophète Hanania prétendit que ceux qui avaient été emmenés reviendraient avant deux ans (Jérémie 28.3,11). Là-dessus Jérémie lui annonça qu'il mourrait cette même année, et c'est ce qui arriva (Jérémie 28.15-17).
 
-        http://www.cmpp.ch
+LA CHOSE DOIT ETRE PRISE D'UNE MANIERE RIGOUREUSE
 
-LES 70 SEMAINES DE DANIEL… 3
-déclarer, car tu es un bien-aimé. Comprends donc la parole, et sois intelligent dans la vision:
-Soixante-dix semaines ont été déterminées sur ton peuple et sur ta sainte ville, pour clore la
-transgression, et pour en finir avec le péché, et pour faire propitiation pour l’iniquité, et pour
-introduire la justice des siècles, et pour sceller la vision et le prophète, et pour oindre le saint des
-saints”. “Et sache, et comprends: Depuis le sortie de la parole pour rétablir et rebâtir
-Jérusalem, jusqu’au Messie, le prince, il y a sept semaines et soixante-deux semaines; la place et
-le fossé seront rebâtis, et cela en des temps de trouble. Et après les soixante-deux semaines, le
-Messie sera retranché et n’aura rien; et le peuple du prince qui viendra, détruira la ville et le lieu
-saint, et la fin en sera avec débordement; et jusqu’à la fin il y aura guerre, un décret de
-désolations. Et il (le prince) confirmera une alliance avec la multitude pour une semaine; et au
-milieu de la semaine il fera cesser le sacrifice et l’offrande; et à cause de la protection des
-abominations il y aura un désolateur, et jusqu’à ce que la consomption et ce qui est décrété soient
-versés sur la désolée” (Daniel 9.20-27).
-   Remarquons que la révélation sur les soixante-dix semaines d’années fut donnée à Daniel alors
-qu’elles étaient encore à venir, car les soixante-dix ans de captivité à Babylone touchaient à leur
-fin. A cette époque soixante-huit ans s’étaient déjà écoulés.
-   Le prophète Jérémie avait prophétisé la captivité babylonienne de soixante-dix ans comme
-punition des Juifs, et cela entre autres parce qu’ils n’avaient pas respecté l’année de sabbat. Dieu
-n’exigeait pas seulement le septième jour de la semaine comme jour de repos; Il exigeait la
-septième année comme année sabbatique “… et la septième année, il y aura un sabbat de repos
-pour le pays, un sabbat consacré à l’Eternel: tu ne sèmeras pas ton champ, et tu ne tailleras pas
-ta vigne” (Lévitique 25.1-7; 26.33-35). Parce que le commandement de Dieu n’avait pas été observé, la
-détresse vint sur Son peuple. “Afin que fût accomplie la parole de l’Eternel, dite par la bouche de
-Jérémie, jusqu’à ce que le pays eût joui de ses sabbats. Tous les jours de sa désolation il se
-reposa, jusqu’à ce que soixante-dix ans fussent accomplis” (2 Chroniques 36.21).
-   En rapport avec l’année sabbatique, le grand jour de la réconciliation, qui était proclamée au
-son des trompettes, l’Eternel Dieu ordonna également l’année du Jubilé. “Et tu compteras sept
-sabbats d’années, sept fois sept ans; et les jours de ces sept sabbats d’années te feront
-quarante-neuf ans… et vous sanctifierez l’année de l’an cinquantième, et vous publierez la liberté
-dans le pays à tous ses habitants: ce sera pour vous un jubilé…” (Lévitique 25.8-13). Après le retour de
-la captivité à Babylone, le peuple de Dieu s’engagea par un voeu irrévocable à observer entre
-autres l’année de sabbat. “Et que, si les peuples du pays apportaient des marchandises ou toutes
-sortes de grains, le jour du sabbat, pour les vendre, nous n’en prendrions pas le jour du sabbat, ni
-en un jour saint; et que nous laisserions la terre en friche la septième année et remettrions toute
-espèce de dettes” (Néhémie 10.29-32).
-   Voici la teneur de la prophétie de Jérémie: “Et il arrivera, quand les soixante-dix semaines
-seront accomplies, que je visiterai sur le roi de Babylone et sur cette nation-là leur iniquité, dit
-l’Eternel…” (Jérémie 25.12). “Car ainsi dit l’Eternel: Lorsque soixante-dix ans seront accomplis pour
-Babylone, je vous visiterai, et j’accomplirai envers vous ma bonne parole, pour vous faire revenir
-en ce lieu” (Jérémie 29.10). Le faux prophète Hanania prétendit que ceux qui avaient été emmenés
-reviendraient avant deux ans (Jérémie 28.3,11). Là-dessus Jérémie lui annonça qu’il mourrait cette
-même année, et c’est ce qui arriva (Jérémie 28.15-17).
+Beaucoup d'enseignants de la Bible ont de la peine à ordonner correctement les événements dans le temps parce qu'ils n'ont pas remarqué qu'après la mort de Salomon le royaume fut divisé entre Juda et Israël. Il y eut alors, d'une part, la tribu de Juda, avec Benjamin, sous l'autorité de Roboam (932-916 av. J.-C.) et avec pour capitale Jérusalem, et d'autre part, les dix tribus, connues sous le nom de royaume d'Israël, sous l'autorité de Jéroboam (932-911 av. J.-C.) avec pour capitale Samarie. Le roi de Juda le plus notoire fut Josaphat (874-850 av. J.-C.), alors que le plus connu d'Israël fut Achab (875-854 av. J.-C.). Il est important de le noter parce qu'il y eut deux déportations différentes, et que par conséquent il y eut deux captivités. Israël, c'est-à-dire les dix tribus, furent emmenées en Assyrie en 721 av. J.-C. Les deux tribus, Benjamin et Juda furent emmenées en captivité à Babylone passablement plus tard, c'est à dire seulement en 606 avant Christ. C'est de cette captivité, laquelle dura exactement 70 années, qu'il est question ici, c'est à dire de 606 à 536 avant Christ. A cette époque environ 40 000 personnes revinrent à Jérusalem de la captivité de Babylone, afin de reconstruire le Temple. C'est de cette manière que se terminèrent les soixante-dix années de captivité prophétisées par Jérémie, lesquelles n'ont rien à faire avec les soixante-dix semaines d'années dont parle Daniel 9. Seule les deux tribus qui furent emmenées captives à Babylone, purent en revenir. La doctrine connue sous le nom de «British Israël», prétendant qu'eux sont les 10 tribus disparues, est fausse.
 
-        LA CHOSE DOIT ETRE PRISE
-        D’UNE MANIERE RIGOUREUSE
-   Beaucoup d’enseignants de la Bible ont de la peine à ordonner correctement les événements
-dans le temps parce qu’ils n’ont pas remarqué qu’après la mort de Salomon le royaume fut divisé
-entre Juda et Israël. Il y eut alors, d’une part, la tribu de Juda, avec Benjamin, sous l’autorité de
-Roboam (932-916 av. J.-C.) et avec pour capitale Jérusalem, et d’autre part, les dix tribus,
-connues sous le nom de royaume d’Israël, sous l’autorité de Jéroboam (932-911 av. J.-C.) avec
-pour capitale Samarie. Le roi de Juda le plus notoire fut Josaphat (874-850 av. J.-C.), alors que le
-plus connu d’Israël fut Achab (875-854 av. J.-C.). Il est important de le noter parce qu’il y eut deux
-déportations différentes, et que par conséquent il y eut deux captivités. Israël, c’est-à-dire les dix
-tribus, furent emmenées en Assyrie en 721 av. J.-C. Les deux tribus, Benjamin et Juda furent
+Au premier chapitre d'Esdras des renseignements nous sont donnés sur l'ordre édicté pour la reconstruction du Temple — non pas de la ville et de ses murs. "Et la première année de Cyrus, roi de Perse, afin que fût accomplie la parole de l'Eternel dite par la bouche de Jérémie, l'Eternel réveilla l'esprit de Cyrus, roi de Perse; et il fit une proclamation dans tout son royaume, et la publia aussi par écrit, disant: Ainsi dit Cyrus, roi de Perse: L'Eternel, le Dieu des cieux, m'a donné tous les royaumes de la terre, et il m'a chargé de lui bâtir une maison à Jérusalem, qui est en Juda. Qui d'entre vous, quel qu'il soit, est de son peuple, — que son Dieu soit avec lui, et qu'il monte à Jérusalem, qui est en Juda, et qu'il bâtisse la maison de l'Eternel, le Dieu d'Israël, lui est Dieu à Jérusalem" (Esdras 1.1-3).
 
-        http://www.cmpp.ch
+Le prophète Esaïe était en fonction entre les années 740 à 680 av. J.-C. Lui aussi parla de cette captivité, et il prophétisa au sujet de Cyrus qui fut commissionné plus tard: "… qui confirme la parole de mon serviteur et accomplis le conseil de mes messagers; qui dis à Jérusalem: Tu seras habitée, et aux villes de Juda: Vous serez bâties, et je relèverai ses ruines; moi qui dis à l'abîme: Sois sec, et je dessécherai tes fleuves; qui dis de Cyrus: Il est mon berger, et il accomplira tout mon bon plaisir, disant à Jérusalem: Tu seras bâtie, et au temple: Tes fondements seront posés" (Ésaïe 44.26-28).
 
-LES 70 SEMAINES DE DANIEL… 4
-emmenées en captivité à Babylone passablement plus tard, c’est à dire seulement en 606 avant
-Christ. C’est de cette captivité, laquelle dura exactement 70 années, qu’il est question ici, c’est à
-dire de 606 à 536 avant Christ. A cette époque environ 40 000 personnes revinrent à Jérusalem
-de la captivité de Babylone, afin de reconstruire le Temple. C’est de cette manière que se
-terminèrent les soixante-dix années de captivité prophétisées par Jérémie, lesquelles n’ont
-rien à faire avec les soixante-dix semaines d’années dont parle Daniel 9. Seule les deux tribus qui
-furent emmenées captives à Babylone, purent en revenir. La doctrine connue sous le nom de
-«British Israël», prétendant qu’eux sont les 10 tribus disparues, est fausse.
-   Au premier chapitre d’Esdras des renseignements nous sont donnés sur l’ordre édicté pour la
-reconstruction du Temple — non pas de la ville et de ses murs. “Et la première année de Cyrus, roi
-de Perse, afin que fût accomplie la parole de l’Eternel dite par la bouche de Jérémie, l’Eternel
-réveilla l’esprit de Cyrus, roi de Perse; et il fit une proclamation dans tout son royaume, et la publia
-aussi par écrit, disant: Ainsi dit Cyrus, roi de Perse: L’Eternel, le Dieu des cieux, m’a donné tous
-les royaumes de la terre, et il m’a chargé de lui bâtir une maison à Jérusalem, qui est en Juda.
-Qui d’entre vous, quel qu’il soit, est de son peuple, — que son Dieu soit avec lui, et qu’il monte à
-Jérusalem, qui est en Juda, et qu’il bâtisse la maison de l’Eternel, le Dieu d’Israël, lui est Dieu à
-Jérusalem” (Esdras 1.1-3).
-   Le prophète Esaïe était en fonction entre les années 740 à 680 av. J.-C. Lui aussi parla de cette
-captivité, et il prophétisa au sujet de Cyrus qui fut commissionné plus tard: “… qui confirme la
-parole de mon serviteur et accomplis le conseil de mes messagers; qui dis à Jérusalem: Tu seras
-habitée, et aux villes de Juda: Vous serez bâties, et je relèverai ses ruines; moi qui dis à l’abîme:
-Sois sec, et je dessécherai tes fleuves; qui dis de Cyrus: Il est mon berger, et il accomplira tout
-mon bon plaisir, disant à Jérusalem: Tu seras bâtie, et au temple: Tes fondements seront posés”
-(Ésaïe 44.26-28).
-   Au temps du retour de la captivité de Babylone vivaient Zorobabel, fils de Shealthiel, Joshua,
-fils de Jotsadak, ainsi que les prophètes Aggée et Zacharie. “Et Zorobabel, fils de Shealthiel, et
-Joshua, fils de Jotsadak, le grand sacrificateur, et tout le reste du peuple, écoutèrent la voix de
-l’Eternel, leur Dieu, et les paroles d’Aggée le prophète, selon la mission que lui avait donnée
-l’Eternel, leur Dieu; et le peuple craignit l’Eternel. Et Aggée, le messager de l’Eternel, parla au
-peuple par le message de l’Eternel, disant: Je suis avec vous, dit l’Eternel. Et l’Eternel réveilla
-l’esprit de Zorobabel, fils de Shealthiel, gouverneur de Juda, et l’esprit de Joshua, fils de Jotsadak
-le grand sacrificateur, et l’esprit de tout le reste du peuple; et ils vinrent et travaillèrent à la maison
-de l’Eternel des armées, leur Dieu…” (Aggée 1.12-14).
-   Le prophète Aggée prophétisa au sujet du Temple qui allait être rebâti: “La dernière gloire de
-cette maison sera plus grande que la première, dit l’Eternel des armées, et dans ce lieu, je
-donnerai la paix, dit l’Eternel des armées” (Aggée 2.9). “Considérez-le bien, je vous prie, dès ce
-jour et dorénavant, depuis le vingt-quatrième jour du neuvième mois, depuis le jour où le temple de
-l’Eternel a été fondé; considérez-le bien” (Aggée 2.18).
-   Dans le prophète Zacharie nous trouvons également quelques indications sur la reconstruction
-du Temple: “Et l’ange de l’Eternel prit la parole et dit: Eternel des armées, jusqu’à quand
-n’useras-tu pas de miséricorde envers Jérusalem, et envers les villes de Juda, contre lesquelles tu
-as été indigné ces soixante-dix ans? Et l’Eternel répondit à l’ange qui parlait avec moi, de bonnes
-paroles, des paroles de consolation. Et l’ange qui parlait avec moi me dit: Crie, disant: Ainsi dit
-l’Eternel des armées: Je suis jaloux d’une grande jalousie à l’égard de Jérusalem et à l’égard de
-Sion… C’est pourquoi, ainsi dit l’Eternel: Je suis revenu à Jérusalem avec miséricorde; ma
-maison y sera bâtie, dit l’Eternel des armées, et le cordeau sera étendu sur Jérusalem”
-(Zacharie 1.12-16).
-   Lors de la reconstruction du Temple, l’accent fut mis sur le fait qu’il devait être reconstruit sur
-son premier emplacement (Esdras 5.15; 6.7, etc.). Le fondement primitif fut dégagé, et c’est sur lui
-que fut édifié un nouveau Temple, lequel jusque dans les moindres détails était exactement
-comme le premier. C’est ainsi qu’il doit en être également de l’Eglise du Nouveau Testament.
-Avant le retour de Jésus-Christ, Elle doit en toutes choses être rétablie à nouveau selon le modèle
-apostolique primitif, c’est-à-dire sur le fondement des apôtres et des prophètes (1 Corinthiens 3.10-11;
-Éphésiens 2.20-22). C’est aussi ce qui arrivera de nouveau avec le Temple à Jérusalem. Il sera rebâti
+Au temps du retour de la captivité de Babylone vivaient Zorobabel, fils de Shealthiel, Joshua, fils de Jotsadak, ainsi que les prophètes Aggée et Zacharie. "Et Zorobabel, fils de Shealthiel, et Joshua, fils de Jotsadak, le grand sacrificateur, et tout le reste du peuple, écoutèrent la voix de l'Eternel, leur Dieu, et les paroles d'Aggée le prophète, selon la mission que lui avait donnée l'Eternel, leur Dieu; et le peuple craignit l'Eternel. Et Aggée, le messager de l'Eternel, parla au peuple par le message de l'Eternel, disant: Je suis avec vous, dit l'Eternel. Et l'Eternel réveilla l'esprit de Zorobabel, fils de Shealthiel, gouverneur de Juda, et l'esprit de Joshua, fils de Jotsadak le grand sacrificateur, et l'esprit de tout le reste du peuple; et ils vinrent et travaillèrent à la maison de l'Eternel des armées, leur Dieu…" (Aggée 1.12-14).
 
-        http://www.cmpp.ch
+Le prophète Aggée prophétisa au sujet du Temple qui allait être rebâti: "La dernière gloire de cette maison sera plus grande que la première, dit l'Eternel des armées, et dans ce lieu, je donnerai la paix, dit l'Eternel des armées" (Aggée 2.9). "Considérez-le bien, je vous prie, dès ce jour et dorénavant, depuis le vingt-quatrième jour du neuvième mois, depuis le jour où le temple de l'Eternel a été fondé; considérez-le bien" (Aggée 2.18).
 
-    LES 70 SEMAINES DE DANIEL…                                                                        5
-    sur son ancien emplacement. Comme ont pu le constater les archéologues et chercheurs juifs,
-    le Temple ne se trouve pas sur l’élévation de Morija où Abraham offrit Isaac en sacrifice (et où se
-    trouve maintenant le Dôme du Rocher, ou mosquée d’Omar), mais exactement cinquante mètres
-    plus au nord. Les Juifs terminent leur prière au mur des lamentations en faisant le voeu que
-    l’Eternel leur accorde d’assister à la reconstruction du Temple et à la venue du Messie.
+Dans le prophète Zacharie nous trouvons également quelques indications sur la reconstruction du Temple: "Et l'ange de l'Eternel prit la parole et dit: Eternel des armées, jusqu'à quand n'useras-tu pas de miséricorde envers Jérusalem, et envers les villes de Juda, contre lesquelles tu as été indigné ces soixante-dix ans? Et l'Eternel répondit à l'ange qui parlait avec moi, de bonnes paroles, des paroles de consolation. Et l'ange qui parlait avec moi me dit: Crie, disant: Ainsi dit l'Eternel des armées: Je suis jaloux d'une grande jalousie à l'égard de Jérusalem et à l'égard de Sion… C'est pourquoi, ainsi dit l'Eternel: Je suis revenu à Jérusalem avec miséricorde; ma maison y sera bâtie, dit l'Eternel des armées, et le cordeau sera étendu sur Jérusalem" (Zacharie 1.12-16).
 
-        LA RECONSTRUCTION DE JERUSALEM
-   Résumons cela encore une fois: le prophète Daniel sonda les écrits de Jérémie au sujet de la
-fin des 70 ans de la captivité babylonienne, laquelle arriva presque deux ans plus tard lorsqu’ils
-reçurent la permission de reconstruire le Temple à Jérusalem. La ville elle-même ne fut
-reconstruite avec ses murailles qu’environ 100 ans plus tard. D’après les paroles de l’ange
-Gabriel, c’est là que commencent les soixante-dix semaines d’années. De même que nous
-connaissons une semaine de jours, ainsi le Seigneur se sert de la notion de semaine d’années.
-   Dans l’ensemble, les soixante-dix semaines sont destinées à atteindre un sextuple but, comme
-cela est exprimé dans le texte suivant: “Au commencement de tes supplications la parole est
-sortie, et je suis venu pour te la déclarer, car tu es un bien-aimé. Comprends donc la parole, et
-sois intelligent dans la vision: Soixante-dix semaines ont été déterminées sur ton peuple et sur ta
-sainte ville,
-   1. pour clore la transgression, et
-   2. pour en finir avec les péchés, et
-   3. pour faire propitiation pour l’iniquité et
-   4. pour introduire la justice des siècles, et
-   5. pour sceller la vision et le prophète, et
-   6. pour oindre le saint des saints”.
-   L’attention de l’homme de Dieu fut plus particulièrement attirée sur les commentaires suivants:
-“Et sache, et comprends: Depuis la sortie de la parole pour rétablir et rebâtir Jérusalem,
-jusqu’au Messie, le prince, il y a sept semaines et soixante-deux semaines; la place et le
-fossé seront rebâtis, et cela en des temps de trouble. Et après les soixante-deux semaines, le
-Messie sera retranché et n’aura rien; et le peuple du prince qui viendra, détruira la ville et le lieu
-saint, et la fin en sera avec débordement; et jusqu’à la fin il y aura guerre, un décret de désolation.
-Et il (le prince) confirmera une alliance avec la multitude pour une semaine; et au milieu de la
-semaine il fera cesser le sacrifice et l’offrande; et à cause de la protection des abominations il y
-aura un désolateur, et jusqu’à ce que la consomption et ce qui est décrété soient versés sur la
-désolée” (Daniel 9.23-27).
-   Ceux qui connaissent la Parole prophétique et l’histoire ont exposé d’une manière
-convainquante la division des temps depuis qu’est sorti le décret de rebâtir Jérusalem, jusqu’au
-temps de la venue de Christ, le Messie. La base pour calculer la répartition de ce temps est la
-parole que l’ange Gabriel a adressée au prophète Daniel. Remarquons-le bien: Les trois mesures
-de temps du texte de Daniel, c’est-à-dire les sept, et soixante-deux, et une semaine d’années
-donnent exactement les 490 ans dont il a été question. Elles concernent Israël. Le temps de grâce
-et de salut pour les nations se trouve entre la 69ème et la 70ème semaine d’années.
-   Conformément à l’ordonnance fixée dans la parole prophétique, l’ordre a été donné par le roi de
-Perse Artaxerxès en 445 av. J.-C. de rebâtir Jérusalem — non pas le Temple, car la
-reconstruction de celui-ci était déjà achevée et il avait été consacré. En ce temps c’était le
-serviteur de Dieu Néhémie qui avait présenté devant Dieu, dans la prière, ce qui concernait Israël
-et Jérusalem. Il rappela à l’Eternel la parole du prophète Moïse: “Souviens-toi, je te prie de la
-parole que tu as commandée à ton serviteur Moïse (Deutéronome 4.27-31), en disant: Si vous êtes
-infidèles, Je vous disperserai parmi les peuples; et si vous revenez à moi, et que vous gardiez mes
-commandements et que vous les pratiquiez, quand vos dispersés seraient au bout des cieux, je
-les rassemblerai de là et je les ramènerai au lieu que j’ai choisi pour y faire demeurer mon
-nom” (Néhémie 1.8-9).
+Lors de la reconstruction du Temple, l'accent fut mis sur le fait qu'il devait être reconstruit sur son premier emplacement (Esdras 5.15; 6.7, etc.). Le fondement primitif fut dégagé, et c'est sur lui que fut édifié un nouveau Temple, lequel jusque dans les moindres détails était exactement comme le premier. C'est ainsi qu'il doit en être également de l'Eglise du Nouveau Testament. Avant le retour de Jésus-Christ, Elle doit en toutes choses être rétablie à nouveau selon le modèle apostolique primitif, c'est-à-dire sur le fondement des apôtres et des prophètes (1 Corinthiens 3.10-11; Éphésiens 2.20-22). C'est aussi ce qui arrivera de nouveau avec le Temple à Jérusalem. Il sera rebâti sur son ancien emplacement. Comme ont pu le constater les archéologues et chercheurs juifs, le Temple ne se trouve pas sur l'élévation de Morija où Abraham offrit Isaac en sacrifice (et où se trouve maintenant le Dôme du Rocher, ou mosquée d'Omar), mais exactement cinquante mètres plus au nord. Les Juifs terminent leur prière au mur des lamentations en faisant le voeu que l'Eternel leur accorde d'assister à la reconstruction du Temple et à la venue du Messie.
 
-                                  http://www.cmpp.ch
+LA RECONSTRUCTION DE JERUSALEM
 
-    LES 70 SEMAINES DE DANIEL…    6
-   Ceci peut nous paraître singulier, mais ce Néhémie était en ce temps-là échanson auprès du
-roi. Il peut arriver que Dieu place Ses gens dans une haute position au sein du gouvernement
-lorsqu’il est temps que s’accomplisse Sa Parole. Néhémie avait pleuré des jours entiers, il avait
-jeûné et adressé ses supplications au Dieu du ciel. Le roi le remarqua et lui demanda
-immédiatement: “Pourquoi as-tu mauvais visage, et pourtant tu n’es pas malade? Cela n’est rien
-que de la tristesse de coeur” (Néhémie 2.2). Là-dessus Néhémie exposa l’objet de sa demande. Dans
-sa prière il n’avait pas seulement exposé les affaires du peuple de Dieu en général, il avait rappelé
-à Dieu la promesse qu’Il avait faite du temps de Moïse. C’est de cette manière qu’il avait touché le
-coeur de Dieu qui est lié à Ses promesses. Dieu commence à agir lorsque le temps est
-accompli et que Son peuple Lui rappelle les promesses qu’Il a faites.
-   Le sacrificateur Esdras et le gouverneur Néhémie agirent ensemble environ cinquante ans
-après la consécration du Temple. Esdras donne un coup d’oeil rétrospectif et une récapitulation
-de tout ce qui s’est passé en rapport avec le retour de la captivité de Babylone et la reconstruction
-du Temple. C’est lui qui ordonna le culte à Dieu conformément aux prescriptions de la loi de Moïse
-(Néhémie 8.13-18). Néhémie fit disparaître tout le mélange qu’il y avait parmi le peuple
-(Néhémie 13.23-31). Dans Néhémie nous est décrit de quelle manière et dans quelles circonstances
-les constructeurs de la ville et des murs exécutèrent l’ouvrage qui leur avait été confié.
-   En ce qui concerne le partage du temps, il faut prendre garde au fait que nous avons affaire à
-deux projets de reconstruction qui sont séparés l’un de l’autre dans le temps, c’est-à-dire la
-reconstruction du Temple, puis celle de la ville. Dans Néhémie et aussi dans Daniel, il n’est pas
-question de la reconstruction du Temple, mais bien de la reconstruction de Jérusalem avec
-ses murs et ses fossés. Le décret dont il est question ici fut proclamé en 445 av. J.-C. par
-Artaxerxès. Depuis ce décret jusqu’à la mort de Christ devaient s’écouler 7 semaines d’années,
-c’est-à-dire 49 ans, et 62 semaines d’années, c’est à dire 434 ans, ce qui fait ensemble 483 ans.
-Si nous considérons que l’année prophétique compte 360 jours par an, nous arrivons exactement
-à l’année de la crucifixion de notre Seigneur. Ainsi les 7 + 62 donnent 69 semaines d’années,
-c’est-à-dire exactement 483 ans qui se sont accomplis.
+Résumons cela encore une fois: le prophète Daniel sonda les écrits de Jérémie au sujet de la fin des 70 ans de la captivité babylonienne, laquelle arriva presque deux ans plus tard lorsqu'ils reçurent la permission de reconstruire le Temple à Jérusalem. La ville elle-même ne fut reconstruite avec ses murailles qu'environ 100 ans plus tard. D'après les paroles de l'ange Gabriel, c'est là que commencent les soixante-dix semaines d'années. De même que nous connaissons une semaine de jours, ainsi le Seigneur se sert de la notion de semaine d'années.
 
-    REPARTITION SCRIPTURAIRE
+Dans l'ensemble, les soixante-dix semaines sont destinées à atteindre un sextuple but, comme cela est exprimé dans le texte suivant: "Au commencement de tes supplications la parole est sortie, et je suis venu pour te la déclarer, car tu es un bien-aimé. Comprends donc la parole, et sois intelligent dans la vision: Soixante-dix semaines ont été déterminées sur ton peuple et sur ta sainte ville,
+1. pour clore la transgression, et
+2. pour en finir avec les péchés, et
+3. pour faire propitiation pour l'iniquité et
+4. pour introduire la justice des siècles, et
+5. pour sceller la vision et le prophète, et
+6. pour oindre le saint des saints".
 
-   Selon le témoignage des Ecritures il reste donc encore une semaine d’années pour Israël, ce
-qui fait sept années complètes. Pour ces derniers sept ans, qui commenceront à peu de chose
-près avec l’enlèvement de l’Epouse des nations, un traité sera conclu entre Rome — plus
-exactement dit, entre l’Etat du Vatican et Israël: “Et il (l’antichrist) confirmera une alliance avec la
-multitude pour une semaine; et au milieu de la semaine il fera cesser le sacrifice et l’offrande; et
-à cause de la protection des abominations il y aura un désolateur, et jusqu’à ce que la
-consomption et ce qui est décrété soient versés sur la désolée” (Daniel 9.27). C’est une
-déclaration très claire faite par Dieu.
-   La doctrine disant que Jésus-Christ a déjà accompli la première moitié de la soixante-
-dixième semaine d’années est fausse. Nous devons aussi demander clairement à l’égard de ce
-point: Que dit l’Ecriture à ce sujet? L’Ecriture dit qu’il n’y a sur ce thème que trois mesures de
-temps dans le prophète Daniel: 7, 62 et 1 semaine d’années. L’Ecriture dit plus loin que le Messie,
-l’Oint, sera mis à mort après les 62 semaines d’années (pas après 62 et 1/2 semaines d’années).
-C’est le AINSI DIT L’ETERNEL de Sa Parole: “Et après les soixante-deux semaines, le Messie
-sera retranché…” (Daniel 9.26).
-   Il n’y a pas un seul passage biblique affirmant que notre Seigneur aurait prêché trois ans et
-demi, et qu’Il aurait conclu une alliance de sept ans qui ensuite aurait été rompue au milieu de ce
-temps. Selon le temps fixé par Moïse pour le service de ceux qui servaient dans la tente
-d’assignation (Nombres 4.13), Jésus a commencé son ministère de Fils de l’homme dans sa trentième
-année (Luc 3.23). Les Saintes Ecritures ne nous donnent pas d’éclaircissements sur le temps
-durant lequel Il a exercé Son ministère, et c’est d’une manière inconsidérée que l’on a dit cela. Ce
-n’est pas davantage scripturaire de dire que Noé a prêché pendant 120 ans. Noé était âgé de cinq
-cents ans lorsque lui naquirent ses fils (Genèse 5.32). Lorsqu’il reçut sa mission, ses fils étaient déjà
-mariés (Genèse 6.18). Et le déluge vint lorsqu’il avait six cents ans (Genèse 7.11).
+L'attention de l'homme de Dieu fut plus particulièrement attirée sur les commentaires suivants: "Et sache, et comprends: Depuis la sortie de la parole pour rétablir et rebâtir Jérusalem, jusqu'au Messie, le prince, il y a sept semaines et soixante-deux semaines; la place et le fossé seront rebâtis, et cela en des temps de trouble. Et après les soixante-deux semaines, le Messie sera retranché et n'aura rien; et le peuple du prince qui viendra, détruira la ville et le lieu saint, et la fin en sera avec débordement; et jusqu'à la fin il y aura guerre, un décret de désolation. Et il (le prince) confirmera une alliance avec la multitude pour une semaine; et au milieu de la semaine il fera cesser le sacrifice et l'offrande; et à cause de la protection des abominations il y aura un désolateur, et jusqu'à ce que la consomption et ce qui est décrété soient versés sur la désolée" (Daniel 9.23-27).
 
-       http://www.cmpp.ch
+Ceux qui connaissent la Parole prophétique et l'histoire ont exposé d'une manière convainquante la division des temps depuis qu'est sorti le décret de rebâtir Jérusalem, jusqu'au temps de la venue de Christ, le Messie. La base pour calculer la répartition de ce temps est la parole que l'ange Gabriel a adressée au prophète Daniel. Remarquons-le bien: Les trois mesures de temps du texte de Daniel, c'est-à-dire les sept, et soixante-deux, et une semaine d'années donnent exactement les 490 ans dont il a été question. Elles concernent Israël. Le temps de grâce et de salut pour les nations se trouve entre la 69ème et la 70ème semaine d'années.
 
-LES 70 SEMAINES DE DANIEL… 7
-   Comment peut-on ainsi confondre Christ avec l’antichrist et employer le même verset pour les
-deux? Si les premiers trois ans et demi de la soixante-dixième semaine de Daniel se rapportaient à
-Lui, quelle alliance Christ aurait-Il conclue pour la rompre ensuite? Jésus n’a pas rompu
-l’ancienne alliance, car Il n’est pas venu pour annuler la loi et les prophètes, mais bien pour
-accomplir la loi et les prophètes. Il n’a fait aucune alliance avec Rome qu’Il aurait rompue
-ensuite; et avec Israël Il n’a pas davantage rompu d’alliance, au contraire: Il a établi la Nouvelle
-Alliance par le Sang de l’alliance, et cette Nouvelle Alliance est une Alliance Eternelle. Cela frise le
-blasphème d’employer un passage biblique parlant uniquement de l’antichrist, pour prétendre
-qu’il se rapporterait en partie à Christ et en partie à l’antichrist.
+Conformément à l'ordonnance fixée dans la parole prophétique, l'ordre a été donné par le roi de Perse Artaxerxès en 445 av. J.-C. de rebâtir Jérusalem — non pas le Temple, car la reconstruction de celui-ci était déjà achevée et il avait été consacré. En ce temps c'était le serviteur de Dieu Néhémie qui avait présenté devant Dieu, dans la prière, ce qui concernait Israël et Jérusalem. Il rappela à l'Eternel la parole du prophète Moïse: "Souviens-toi, je te prie de la parole que tu as commandée à ton serviteur Moïse (Deutéronome 4.27-31), en disant: Si vous êtes infidèles, Je vous disperserai parmi les peuples; et si vous revenez à moi, et que vous gardiez mes commandements et que vous les pratiquiez, quand vos dispersés seraient au bout des cieux, je les rassemblerai de là et je les ramènerai au lieu que j'ai choisi pour y faire demeurer mon nom" (Néhémie 1.8-9).
 
-   Le Seigneur n’a pas davantage fait cesser le sacrifice et l’offrande. Tout a continué comme de
-coutume jusqu’en l’an 70 après Christ. Et à cette époque “la consomption n’a pas été versée sur la
-désolée”. De tout ce qui est dit au verset 27 de Daniel 9, rien ne se rapporte à Christ, mais au
-contraire tout se rapporte à l’antichrist. Des centaines d’autres citations sur lesquelles on
-insiste ne peuvent pas annuler un seul verset de la Parole de Dieu. Celui qui est de Dieu donne
-raison à Dieu et découvre ensuite tout le contexte. Que le ministère de Jésus-Christ ait duré deux
-ou trois ans, peu importe, il s’est accompli de toute façon à la fin des soixante-deux semaines
-d’années. C’est le AINSI DIT L’ETERNEL de Sa Parole. Car avant qu’aient eu lieu les soixante-
-deux semaines d’années, les sept premières semaines d’années s’étaient écoulées, si bien
-qu’ensemble elles donnent la période de 69 semaines d’années. Ce chiffre indique exactement
-l’année où le Seigneur a donné Sa vie et a été crucifié. En toutes choses la Parole de Dieu est
-parfaitement exacte. Que tout l’honneur en soit rendu au Seigneur!
+Ceci peut nous paraître singulier, mais ce Néhémie était en ce temps-là échanson auprès du roi. Il peut arriver que Dieu place Ses gens dans une haute position au sein du gouvernement lorsqu'il est temps que s'accomplisse Sa Parole. Néhémie avait pleuré des jours entiers, il avait jeûné et adressé ses supplications au Dieu du ciel. Le roi le remarqua et lui demanda immédiatement: "Pourquoi as-tu mauvais visage, et pourtant tu n'es pas malade? Cela n'est rien que de la tristesse de coeur" (Néhémie 2.2). Là-dessus Néhémie exposa l'objet de sa demande. Dans sa prière il n'avait pas seulement exposé les affaires du peuple de Dieu en général, il avait rappelé à Dieu la promesse qu'Il avait faite du temps de Moïse. C'est de cette manière qu'il avait touché le coeur de Dieu qui est lié à Ses promesses. Dieu commence à agir lorsque le temps est accompli et que Son peuple Lui rappelle les promesses qu'Il a faites.
 
-   Lors des premiers trois ans et demi de la dernière semaine d’années qui reste encore pour
-Israël, entreront en scène les deux témoins pour Israël: “Et je donnerai puissance à mes deux
-témoins, et ils prophétiseront mille deux cent soixante jours, vêtus de sacs” (Apocalypse 11.3). Pendant
-trois ans et demi ils manifestent la Parole de la Toute-puissance divine. Leur ministère nous
-rappelle ceux de Moïse et d’Elie, car au travers de ce ministère arrivent les mêmes choses. Les
-cieux sont fermés pendant les trois ans et demi de leur ministère prophétique — il en était ainsi du
-temps d’Elie; les eaux sont changées en sang — c’est ce qui s’était passé du temps de Moïse.
-Moïse et Elie sont mentionnés dans les trois derniers versets de l’Ancien Testament, dans le
-prophète Malachie. Ce sont aussi eux qui descendirent sur la montagne de la transfiguration
-(Mat. 17). Cependant, directement lorsque leur ministère s’achèvera, les deux prophètes seront
-mis à mort. C’est alors que la première moitié de la semaine d’années est passée, que
-l’alliance est rompue, et que les trois ans et demi de tribulation commencent “… et elles
-seront livrées en sa main jusqu’à un temps et des temps et une moitié de temps” (Daniel 7.25b).
-“… et le pouvoir d’agir quarante-deux mois lui fut donné” (Apocalypse 13.5b). C’est le moment où le
-pape alors en fonction s’assiéra avec pompe dans le Temple entre-temps reconstruit à Jérusalem,
-et le sceptre en main il exposera au peuple juif sa version de la foi, c’est-à-dire la version
-catholique. C’est alors qu’éclate «la bombe».
+Le sacrificateur Esdras et le gouverneur Néhémie agirent ensemble environ cinquante ans après la consécration du Temple. Esdras donne un coup d'oeil rétrospectif et une récapitulation de tout ce qui s'est passé en rapport avec le retour de la captivité de Babylone et la reconstruction du Temple. C'est lui qui ordonna le culte à Dieu conformément aux prescriptions de la loi de Moïse (Néhémie 8.13-18). Néhémie fit disparaître tout le mélange qu'il y avait parmi le peuple (Néhémie 13.23-31). Dans Néhémie nous est décrit de quelle manière et dans quelles circonstances les constructeurs de la ville et des murs exécutèrent l'ouvrage qui leur avait été confié.
 
-   Mais le Seigneur, lors de Sa venue soudaine, anéantira “le fils de la perdition” par le souffle de
-Sa bouche (2 Thess. 2). Par Sa “venue”, il n’est pas question du retour de Jésus-Christ en tant
-qu’Epoux venant chercher l’Epouse-Eglise (Mat. 25; 1 Thess. 4), pas davantage que de Sa venue
-en gloire, lorsque tout oeil Le verra (Mat. 24.30; Apocalypse 1.7). [Voir la brochure: Le retour de Christ]
-En ce temps-là, le Seigneur Se révèle aux Juifs en tant qu’Ange de l’Alliance (Apocalypse 10).
-Cependant, premièrement, ils sont trompés par le faux Sauveur, le “Messie” de la part duquel ils
-attendent de l’aide.
+En ce qui concerne le partage du temps, il faut prendre garde au fait que nous avons affaire à deux projets de reconstruction qui sont séparés l'un de l'autre dans le temps, c'est-à-dire la reconstruction du Temple, puis celle de la ville. Dans Néhémie et aussi dans Daniel, il n'est pas question de la reconstruction du Temple, mais bien de la reconstruction de Jérusalem avec ses murs et ses fossés. Le décret dont il est question ici fut proclamé en 445 av. J.-C. par Artaxerxès. Depuis ce décret jusqu'à la mort de Christ devaient s'écouler 7 semaines d'années, c'est-à-dire 49 ans, et 62 semaines d'années, c'est à dire 434 ans, ce qui fait ensemble 483 ans. Si nous considérons que l'année prophétique compte 360 jours par an, nous arrivons exactement à l'année de la crucifixion de notre Seigneur. Ainsi les 7 + 62 donnent 69 semaines d'années, c'est-à-dire exactement 483 ans qui se sont accomplis.
 
-   Dans Daniel 12 la question posée à l’homme vêtu de lin, est celle de savoir combien cela
-durera depuis ce temps jusqu’à la fin de ces prodiges. Au verset 7, l’homme qui jure par Celui qui
-vit éternellement nous renvoie clairement à Apocalypse 10.5 où l’ange puissant déclare qu’il n’y
-aurait plus de délai. La réponse faite dans Daniel 12.7 est celle-ci: “Et j’entendis l’homme vêtu de
-lin qui était au-dessus des eaux du fleuve; et il leva sa main droite et sa main gauche vers les
-cieux, et jura par celui qui vit éternellement que ce serait pour un temps déterminé, et des temps
-déterminés, et une moitié de temps; et lorsqu’il aura achevé de briser la force du peuple saint,
-toutes ces choses seront achevées”. Ce sont là les derniers trois ans et demi.
+REPARTITION SCRIPTURAIRE
 
-        http://www.cmpp.ch
+Selon le témoignage des Ecritures il reste donc encore une semaine d'années pour Israël, ce qui fait sept années complètes. Pour ces derniers sept ans, qui commenceront à peu de chose près avec l'enlèvement de l'Epouse des nations, un traité sera conclu entre Rome — plus exactement dit, entre l'Etat du Vatican et Israël: "Et il (l'antichrist) confirmera une alliance avec la multitude pour une semaine; et au milieu de la semaine il fera cesser le sacrifice et l'offrande; et à cause de la protection des abominations il y aura un désolateur, et jusqu'à ce que la consomption et ce qui est décrété soient versés sur la désolée" (Daniel 9.27). C'est une déclaration très claire faite par Dieu.
 
-    LES 70 SEMAINES DE DANIEL…    8
-   Jusqu’à la fin Dieu est exact dans Sa Parole, même lorsqu’Il détermine des jours. Le ministère
-des deux prophètes dure 1260 jours (Apocalypse 11.3), et c’est exactement trois ans et demi. Pendant
-ce temps le Temple est rebâti. C’est la “mi-temps” de la semaine d’années. Mais après la
-reconstruction et la mensuration du Temple, la sainte Cité est foulée aux pieds pendant quarante-
-deux mois. C’est exactement les trois ans et demi dont parle Apocalypse 11.2: “… car il a été
-donné aux nations, et elles fouleront aux pieds la cité sainte quarante-deux mois”. Luc 21.24b dit:
-“… et Jérusalem sera foulée aux pieds par les nations jusqu’à ce que les temps des nations soient
-accomplis”. Le prophète Daniel parle aussi de l’homme qui jette la vérité à terre, qui fait cesser le
-sacrifice continuel et élève la transgression qui désole, comme il parle aussi du lieu du sanctuaire
-qui est renversé (Daniel 8.11-14).
-   La deuxième moitié de cette semaine d’années subit deux prolongations: “Et depuis le temps
-où le sacrifice continuel sera ôté et où l’abomination qui désole sera placée, il y aura mille deux
-cent quatre-vingt-dix jours” (Daniel 12.11). Il y aura donc 30 jours de plus jusqu’à ce que la
-consomption décrétée soit déversée sur la désolée. Puis il nous est donné encore un troisième
-nombre de jours, c’est à dire 1335. Visiblement 45 jours seront encore nécessaires pour qu’aient
-lieu les derniers événements, comme par exemple le jugement des nations (Ésaïe 2.4; Michée 4.3;
-Mat. 25.32; Apocalypse 11.18; 20.4; etc. ); c’est seulement après cela que la Royauté peut
-commencer. Toutes choses doivent êtres ramenées à leur état parfait. La création tout entière
-attend et soupire après l’instant où elle sera affranchie de la servitude de la corruption
-(Romains 8.19-22).
-   En rapport avec la dernière mesure de temps il est dit: “Bienheureux celui qui attend et qui
-parvient à mille trois cent trente-cinq jours!” (Daniel 12.12). C’est avec cela que se terminent les
-choses qui doivent arriver lors de la dernière phase, jusqu’au nouvel ordre institué avant
-l’établissement du règne de mille ans. Bienheureux donc celui qui persévère tout droit jusqu’à la
-fin, car ceux qui restent sur la terre entrent alors dans le millénium. L’ensemble de la création
-pourra reprendre son souffle et le monde entier se trouvera dans une condition paradisiaque.
-Selon le témoignage des Ecritures il n’y a pas une fin totale du monde, avec une entière
-destruction, comme certains l’enseignent de façon erronée, mais seulement une épuration et
-une purification par le feu, laquelle conduira à un merveilleux recommencement, au sujet
-duquel toute la création se réjouit déjà. C’est alors que, paisiblement, le loup habitera avec
-l’agneau, la vache paîtra avec l’ourse (Ésaïe 11.6-9), car dans cette période Satan aura été lié et jeté
-dans l’abîme (Apocalypse 20).
-        SIGNES DES TEMPS
-   La reconnaissance diplomatique mutuelle entre Israël et l’Etat du Vatican n’est pas l’alliance
-annoncée par les Ecritures. Une telle reconnaissance est habituelle entre les Etats de ce monde et
-elle n’est pas limitée dans le temps. Lors du traité conclu pour sept ans il ne s’agira pas
-d’échange d’ambassadeurs et de dispositions pour la représentation diplomatique; mais au
-contraire il s’agira d’établir les droits et les devoirs des trois religions mondiales implantées
-à Jérusalem, la ville sainte du Judaïsme, du Christianisme et de l’Islam. Il y a un seul homme sur
-terre que les Juifs comme les Musulmans tiennent en haute estime, et c’est le Pape, car il est
-respecté comme figure centrale de toutes les religions. Ses rapports avec le monde arabe sont
-également empreintes de sérénité. Ainsi il incombera au Vatican de jouer son rôle lors des
-négociations, pour faire des concessions selon le désir d’Israël et inclure dans le traité la
-reconstruction du Temple. A cette occasion il parlera des droits de l’homme et de la même
-importance à accorder aux trois religions monothéistes. Tout cela arrivera afin que l’Ecriture soit
-accomplie.
-   En ce qui concerne la répartition de la prophétie de Daniel dans le temps, tous les hommes de
-renom au cours de l’histoire de l’Eglise, à commencer par Irénée qui avait été avec Polycarpe,
-lequel avait aussi été en communion avec Jean qui écrivit l’Apocalypse, tous ont enseigné d’un
-parfait accord à ce sujet. Dans ces temps modernes ce sont l’historien Larkin, le traducteur de la
-Bible, Scofield, et l’homme de Dieu, William Branham, qui sont en parfait accord dans leurs
-déclarations. Souvent les gens n’écoutent pas qu’elle est exactement la question posée et c’est la
-raison pour laquelle ils ne comprennent pas non plus correctement la réponse. Par exemple,
-lorsque la question posée est celle-ci: «Combien de temps Dieu a-t-Il réservé au ministère des
+La doctrine disant que Jésus-Christ a déjà accompli la première moitié de la soixante-dixième semaine d'années est fausse. Nous devons aussi demander clairement à l'égard de ce point: Que dit l'Ecriture à ce sujet? L'Ecriture dit qu'il n'y a sur ce thème que trois mesures de temps dans le prophète Daniel: 7, 62 et 1 semaine d'années. L'Ecriture dit plus loin que le Messie, l'Oint, sera mis à mort après les 62 semaines d'années (pas après 62 et 1/2 semaines d'années). C'est le AINSI DIT L'ETERNEL de Sa Parole: "Et après les soixante-deux semaines, le Messie sera retranché…" (Daniel 9.26).
 
-    http://www.cmpp.ch
+Il n'y a pas un seul passage biblique affirmant que notre Seigneur aurait prêché trois ans et demi, et qu'Il aurait conclu une alliance de sept ans qui ensuite aurait été rompue au milieu de ce temps. Selon le temps fixé par Moïse pour le service de ceux qui servaient dans la tente d'assignation (Nombres 4.13), Jésus a commencé son ministère de Fils de l'homme dans sa trentième année (Luc 3.23). Les Saintes Ecritures ne nous donnent pas d'éclaircissements sur le temps durant lequel Il a exercé Son ministère, et c'est d'une manière inconsidérée que l'on a dit cela. Ce n'est pas davantage scripturaire de dire que Noé a prêché pendant 120 ans. Noé était âgé de cinq cents ans lorsque lui naquirent ses fils (Genèse 5.32). Lorsqu'il reçut sa mission, ses fils étaient déjà mariés (Genèse 6.18). Et le déluge vint lorsqu'il avait six cents ans (Genèse 7.11).
 
-LES 70 SEMAINES DE DANIEL… 9
-deux prophètes pour les Juifs?». La réponse est: «Trois ans et demi». Mais si la question est:
-«Combien de temps y a-t-il entre la fin du temps de la grâce pour les nations et le
-commencement du millénium?» la réponse doit alors correspondre à la chose demandée. Celui
-qui cependant pense avoir trouvé une contradiction dans ce que frère Branham a enseigné, c’est
-que dans ce cas il a négligé de consulter les déclarations faites par les Saintes Ecritures.
-   Dans la prédication Les soixante-dix semaines d’années de Daniel, le serviteur de Dieu, William
-Branham, n’a pas donné de réponse qui pourrait être mal comprise, mais il a toujours enseigné
-avec conviction qu’une période de sept ans était à venir pour Israël. Il dit: «So now, there’s no more
-guessing about it. We know now that each week meant seven years. Have you got it? Let’s say it together: ‹One week
-equals seven years›. Now we know we got it. One week equals seven years» [§ 104]. «Ainsi, maintenant il n’y a plus de
-supposition à faire à ce sujet. Nous savons que chaque semaine signifie sept années. L’avez-vous compris? Disons
-ensemble: ‹Une semaine est égale à sept ans›. Nous connaissons maintenant que c’est ainsi. Une semaine est égale à
-sept ans».
-   «Now, if they’ve already had sixty-nine weeks and lived exactly the way God said they did, and it happened exactly
-the way God said it would do,then there’s one more week promised to the Jews» [§ 108]. «Maintenant, s’ils ont déjà vécu
-leurs soixante-neuf semaines, et cela exactement comme Dieu le leur avait dit à l’avance, et que c’est arrivé exactement
-comme Dieu l’a dit, alors il y a encore une semaine promise pour les Juifs».
-   «… then there’s one more week left for the Jews. Is that right? And that’s exactly seven years» [p. 124]. «… alors il
-reste encore une semaine pour les Juifs. Est-ce juste? Et ce sont exactement sept ans».
-   «The moment He starts that seventieth week, or seven years, the Church is gone. Can you see it, friends? Raise up
-your hand if you can see it». «Au moment où Il commence la soixante-dixième semaine, ou les sept années, l’Eglise est
-partie. Pouvez-vous le voir, mes amis? Levez vos mains, si vous pouvez le voir».
-   «The moment He starts the seventhieth week, or seven years, the Church is gone. Now, listen. I’m quoting again, so
-you won’t forget. This is what the Holy Spirit put upon my pen while I was writing» [p. 130]. «Au moment où Il commence
-la soixante-dixième semaine, ou les sept années, l’Eglise est partie. Ecoutez maintenant. Je le cite encore afin que
-vous ne l’oubliiez pas. C’est ce que le Saint-Esprit a mis sous ma plume, alors que j’écrivais».
-   Conformément à cette citation répétée, le commencement de la dernière semaine d’années a
-lieu presque en même temps que l’enlèvement de l’Epouse. Le commencement spirituel pour
-Israël débute alors. La reprise de relations diplomatiques entre Israël et l’Etat du Vatican était
-nécessaire pour que de futures négociations puissent avoir lieu au sujet de Jérusalem et que
-l’alliance annoncée par Daniel 9.27 puisse être conclue. Israël s’orientera également vers la
-communauté Européenne.
-   Le livre de Daniel est l’Apocalypse de l’Ancien Testament. C’est en lui qu’est dévoilé ce qui va
-arriver avec Israël jusqu’à la fin. Le premier empereur qui soumit Israël était Nebucadnedsar. C’est
-avec lui que commença l’exercice de la puissance païenne des quatre empires. De même que le
-premier dominateur reçu un coeur de bête, ainsi en sera-t-il avec le dernier: “Que son coeur
-d’homme soit changé, et qu’un coeur de bête lui soit donné; et que sept temps passent sur lui”
-(Daniel 4.16). Dans le même chapitre il est encore dit trois fois qu’il y aura sept temps, c’est-à-dire
-sept années, pendant lesquelles ce premier dominateur du monde deviendrait une bête. La
-même chose se réalisera avec le dernier dominateur: pendant les derniers sept ans, lorsque
-Satan est précipité sur la terre (Apocalypse 12.9), il prend possession de ce dominateur et lui donne son
-trône (Apocalypse 13.2), pour qu’il se conduise comme une bête. Pendant les premiers trois ans et demi
-il ne pourra pas encore exercer la puissance absolue sur le monde, parce qu’en ce temps-là les
-deux prophètes accompliront leur ministère avec la toute-puissance divine. Mais dans les
-derniers trois ans et demi il agira avec la bestialité satanique, c’est-à-dire pendant le temps de
-la persécution de la grande tribulation. C’est déjà de cette manière qu’Irénée († 202) et d’autres
-enseignants de la Bible l’ont exposé.
-   En ce qui concerne le développement prophétique du temps de la fin, voici ce que dit à l’avance
-l’homme de Dieu William Branham, dans sa prédication du 19 mars 1962, faite à Tifton, Georgia,
-USA, quelques mois seulement après la construction du mur de Berlin: «Une pluie d’enseignement a
-lieu. Une pluie d’enseignement a eu lieu dans les nations. Le communisme a été semé parmi les hommes dans chaque
-nation. Un réveil de Rome a eu lieu. Savez-vous ce qui va se passer si alors… la partie Est de Berlin sera rendue? Cela
+Comment peut-on ainsi confondre Christ avec l'antichrist et employer le même verset pour les deux? Si les premiers trois ans et demi de la soixante-dixième semaine de Daniel se rapportaient à Lui, quelle alliance Christ aurait-Il conclue pour la rompre ensuite? Jésus n'a pas rompu l'ancienne alliance, car Il n'est pas venu pour annuler la loi et les prophètes, mais bien pour accomplir la loi et les prophètes. Il n'a fait aucune alliance avec Rome qu'Il aurait rompue ensuite; et avec Israël Il n'a pas davantage rompu d'alliance, au contraire: Il a établi la Nouvelle Alliance par le Sang de l'alliance, et cette Nouvelle Alliance est une Alliance Eternelle. Cela frise le blasphème d'employer un passage biblique parlant uniquement de l'antichrist, pour prétendre qu'il se rapporterait en partie à Christ et en partie à l'antichrist.
 
-        http://www.cmpp.ch
+Le Seigneur n'a pas davantage fait cesser le sacrifice et l'offrande. Tout a continué comme de coutume jusqu'en l'an 70 après Christ. Et à cette époque "la consomption n'a pas été versée sur la désolée". De tout ce qui est dit au verset 27 de Daniel 9, rien ne se rapporte à Christ, mais au contraire tout se rapporte à l'antichrist. Des centaines d'autres citations sur lesquelles on insiste ne peuvent pas annuler un seul verset de la Parole de Dieu. Celui qui est de Dieu donne raison à Dieu et découvre ensuite tout le contexte. Que le ministère de Jésus-Christ ait duré deux ou trois ans, peu importe, il s'est accompli de toute façon à la fin des soixante-deux semaines d'années. C'est le AINSI DIT L'ETERNEL de Sa Parole. Car avant qu'aient eu lieu les soixante-deux semaines d'années, les sept premières semaines d'années s'étaient écoulées, si bien qu'ensemble elles donnent la période de 69 semaines d'années. Ce chiffre indique exactement l'année où le Seigneur a donné Sa vie et a été crucifié. En toutes choses la Parole de Dieu est parfaitement exacte. Que tout l'honneur en soit rendu au Seigneur!
 
-    LES 70 SEMAINES DE DANIEL…                      10
-placera le communisme… Je veux dire l’Empire Romain, exactement dans la position où il était du temps de Jésus-
-Christ. C’est certain qu’il en sera ainsi. Exactement».
-   Puisque le monde communiste n’existe plus, il n’est donc plus une menace pour la religion
-catholique romaine. Au contraire, elle vit un nouvel essor dans les pays anciennement
-communistes. Pour celui qui connaît ce qui se passe à l’arrière-plan, il sait quel rôle le Vatican a
-joué dans l’écroulement du communisme. La guerre froide est terminée, le mur de Berlin a disparu,
-l’Allemagne est réunifiée et l’Europe est en plein processus d’unification. En même temps le
-catholicisme universel s’élève, et c’est ainsi qu’apparaît à nouveau sous nos yeux l’Empire
-Romain. C’est le 25 mars 1957 qu’a été signé le traité de Rome, lequel représente le fondement
-de la communauté économique européenne. Ce traité n’aurait pas pu être conclu dans aucune
-autre ville du monde. La politique mondiale ne peut se faire que dans la capitale mondiale. Dans
-cette affaire il s’agit de l’Empire Romain, qui en tant que dernier empire mondial vu par Daniel, doit
-subsister jusqu’à la fin. L’asservissement de tous les peuples sera amené par la puissance
-politique de Rome, c’est-à-dire du Vatican, et la persécution des chrétiens bibliques et des
-Juifs croyants sera exercée par la puissance religieuse de Rome, c’est-à-dire du Vatican.
-   Au temps de Jésus, Israël se trouvait sous la domination romaine. Depuis 63 av. J.-C. le pays
-de Judée était une partie de l’Empire Romain. Le royaume des Macchabées avait pris fin dans la
-violence. L’empereur romain Auguste, au temps de la naissance de Jésus, ordonna un
-recensement dans tout l’empire romain, dont la Judée faisait aussi partie (Luc 2.15). En tant que
-Juif, Paul était né citoyen romain (Actes 20.25-29). Le général romain Titus assiégea Jérusalem et la
-détruisit en l’an 70 après Christ.
-   L’empire Romain subsiste jusqu’à la fin. Sur le nouveau passeport de la “Communauté des
-douze” ne se trouve plus mentionné le pays d’origine en premier, mais bien “Communauté
-Européenne”, laquelle sera sous peu remplacée par “Union Européenne”. Déjà maintenant le Droit
-Européen a la prééminence sur le Droit National. Des cours de justice nationales envoient des
-jugements à la Cour de justice européenne à Luxembourg pour qu’ils soient soumis à son examen
-et contrôlé. Le Conseil de l’Europe, la Banque Centrale européenne, ainsi que les onze institutions
-les plus importantes ont déjà trouvé leur place. L’Union Européenne est en même temps la
-base du gouvernement mondial, lequel, assurément, allié à la capitale religieuse mondiale,
-le Vatican à Rome, exercera le pouvoir.
-   Les négociations entre Israël, l’Etat du Vatican, l’OLP et les Etats arabes se poursuivront en
-dépit des plus grandes difficultés. Le 30 décembre 1993 eut lieu la signature de documents entre
-le Vatican et Israël, et un jour plus tard seulement, le 31 décembre 1993, la même délégation du
-Vatican négociait avec l’OLP. Nous pouvons en déduire que les événements eschatologiques
-annoncés à l’avance sont très proches et vont s’accomplir l’un après l’autre. Toujours à nouveau
-l’on parle de la signification «historique» et de l’établissement de la paix et de la sécurité,
-d’événements «historiques», de traités «historiques», et même de la poignée de main «historique»
-entre Jean Paul II et le grand Rabbin de Jérusalem, Meir Lau, à Castel Gandolfo, ainsi que celle
-échangée entre Arafat et Rabin à Washington.
-   Selon la convention signée le 13 septembre 1993 à Washington, les négociations sur le statut
-final de Jérusalem doivent commencer dans trois ans et doivent être terminées au plus tard deux
-ans après. Le politicien des Etats-Unis bien connu, Henry Kissinger, né juif à Fürth près de
-Nuremberg, disait immédiatement après la signature de cette convention: «Peres walked into a
-trap». — «Pérès est tombé dans un piège». Le nom de Pérès signifie d’après Daniel 5.28 «divisé»,
-et c’est ainsi que Pérès divise son propre pays. Du point de vue biblique, le tracé des frontières du
-pays promis, fixé par Dieu, est tout autre. Les deux tribus et demi, Ruben, Gad et Manassé,
-avaient leur territoire à l’est du Jourdain (Josué 1.12-15). Ainsi Israël, au contraire, aurait dû recevoir
-encore des territoires afin que soit accomplie l’ordonnance divine du point de vue
-géographique. C’est encore une chose qui s’accomplira sûrement. Le territoire des Etats arabes
-dans son ensemble Esther 640 fois plus grand que celui d’Israël et ceux-ci pourraient sans autre faire
-s’établir chez eux leurs camarades de combat et de foi.
-   Sur les 120 députés de la Knesset, 61 ont approuvé le traité. De telle sorte qu’une seule voix a
-fait pencher la balance. Le 1er octobre 1993 les ministres des finances des pays les plus fortunés
-décidèrent à New-York de mettre à la disposition de l’OLP 2 milliards d’US dollar pour la
+Lors des premiers trois ans et demi de la dernière semaine d'années qui reste encore pour Israël, entreront en scène les deux témoins pour Israël: "Et je donnerai puissance à mes deux témoins, et ils prophétiseront mille deux cent soixante jours, vêtus de sacs" (Apocalypse 11.3). Pendant trois ans et demi ils manifestent la Parole de la Toute-puissance divine. Leur ministère nous rappelle ceux de Moïse et d'Elie, car au travers de ce ministère arrivent les mêmes choses. Les cieux sont fermés pendant les trois ans et demi de leur ministère prophétique — il en était ainsi du temps d'Elie; les eaux sont changées en sang — c'est ce qui s'était passé du temps de Moïse. Moïse et Elie sont mentionnés dans les trois derniers versets de l'Ancien Testament, dans le prophète Malachie. Ce sont aussi eux qui descendirent sur la montagne de la transfiguration (Mat. 17). Cependant, directement lorsque leur ministère s'achèvera, les deux prophètes seront mis à mort. C'est alors que la première moitié de la semaine d'années est passée, que l'alliance est rompue, et que les trois ans et demi de tribulation commencent "… et elles seront livrées en sa main jusqu'à un temps et des temps et une moitié de temps" (Daniel 7.25b). "… et le pouvoir d'agir quarante-deux mois lui fut donné" (Apocalypse 13.5b). C'est le moment où le pape alors en fonction s'assiéra avec pompe dans le Temple entre-temps reconstruit à Jérusalem, et le sceptre en main il exposera au peuple juif sa version de la foi, c'est-à-dire la version catholique. C'est alors qu'éclate «la bombe».
 
-                                  http://www.cmpp.ch
+Mais le Seigneur, lors de Sa venue soudaine, anéantira "le fils de la perdition" par le souffle de Sa bouche (2 Thess. 2). Par Sa "venue", il n'est pas question du retour de Jésus-Christ en tant qu'Epoux venant chercher l'Epouse-Eglise (Mat. 25; 1 Thess. 4), pas davantage que de Sa venue en gloire, lorsque tout oeil Le verra (Mat. 24.30; Apocalypse 1.7). [Voir la brochure: Le retour de Christ] En ce temps-là, le Seigneur Se révèle aux Juifs en tant qu'Ange de l'Alliance (Apocalypse 10). Cependant, premièrement, ils sont trompés par le faux Sauveur, le "Messie" de la part duquel ils attendent de l'aide.
 
-LES 70 SEMAINES DE DANIEL… 11
-construction de son territoire. La part promise par Israël à cet effet était de 75 millions. Le
-4 octobre 1993 Arafat fit connaître son désir de consacrer le 75% de cette somme à la constitution
-de la police et de l’armée, ainsi qu’à son équipement. Le développement dans cette région s’avère
-prendre des formes intéressantes.
+Dans Daniel 12 la question posée à l'homme vêtu de lin, est celle de savoir combien cela durera depuis ce temps jusqu'à la fin de ces prodiges. Au verset 7, l'homme qui jure par Celui qui vit éternellement nous renvoie clairement à Apocalypse 10.5 où l'ange puissant déclare qu'il n'y aurait plus de délai. La réponse faite dans Daniel 12.7 est celle-ci: "Et j'entendis l'homme vêtu de lin qui était au-dessus des eaux du fleuve; et il leva sa main droite et sa main gauche vers les cieux, et jura par celui qui vit éternellement que ce serait pour un temps déterminé, et des temps déterminés, et une moitié de temps; et lorsqu'il aura achevé de briser la force du peuple saint, toutes ces choses seront achevées". Ce sont là les derniers trois ans et demi.
 
-        JERUSALEM — LA PIERRE PESANTE
+Jusqu'à la fin Dieu est exact dans Sa Parole, même lorsqu'Il détermine des jours. Le ministère des deux prophètes dure 1260 jours (Apocalypse 11.3), et c'est exactement trois ans et demi. Pendant ce temps le Temple est rebâti. C'est la "mi-temps" de la semaine d'années. Mais après la reconstruction et la mensuration du Temple, la sainte Cité est foulée aux pieds pendant quarante-deux mois. C'est exactement les trois ans et demi dont parle Apocalypse 11.2: "… car il a été donné aux nations, et elles fouleront aux pieds la cité sainte quarante-deux mois". Luc 21.24b dit: "… et Jérusalem sera foulée aux pieds par les nations jusqu'à ce que les temps des nations soient accomplis". Le prophète Daniel parle aussi de l'homme qui jette la vérité à terre, qui fait cesser le sacrifice continuel et élève la transgression qui désole, comme il parle aussi du lieu du sanctuaire qui est renversé (Daniel 8.11-14).
 
-   Ce n’est pas Gaza ou Jéricho, pas plus que la Côte occidentale ou les hauteurs du Golan qui
-seront une pierre pesante pour tous les peuples, mais bien Jérusalem. Tous ceux qui s’en
-chargeront s’y meurtriront certainement (Zacharie 12.2-3). Par le traité de Gaza et de Jéricho les
-peuples des alentours se trouvent placés directement devant la porte d’entrée de Jérusalem.
-Toutes les nations de l’ONU ont pris maintenant position pour Arafat, et par cela même contre
-Israël. C’est cet homme là qui en 1974 énonçait son plan de conquête comme suit: «Dans la première
-phase nous établirons des têtes de ponts stratégiques à Gaza et Jéricho pour conquérir Jérusalem à partir de là. Car
-celui qui tient Jérusalem a tout Israël». Six jours après la signature du traité à Washington, c’est-à-dire le
-19 septembre 1993, devant 19 ministres des affaires étrangères de la Ligue arabe, au Caire, il
-répéta le même plan d’échelonnement. Il lut, tiré du statut de l’OLP, sa thèse bien connue et
-termina par ces mots: «Notre but est l’anéantissement d’Israël». Lors de plusieurs guerres déjà — et
-Arafat y était depuis la première, en 1948 on voulait, comme ils disent, «jeter Israël à la mer».
-   Jusqu’aujourd’hui Jérusalem a été uniquement la capitale d’Israël, jamais celle d’un
-autre peuple. Pour les deux autres religions mondiales, le Catholicisme et l’Islam, cette ville était
-jusqu’ici d’importance plutôt moyenne. Mais singulièrement maintenant, ces deux religions jettent
-leurs regards d’une manière croissante sur Israël et plus particulièrement sur Jérusalem. Elles
-négligent La Mecque et Médina, Lourdes et Fatima, et se concentrent de toutes leurs forces
-sur Jérusalem. Le Vatican fait même valoir des prétentions sur des propriétés du temps des
-Croisades. De quel droit fait-il cela?
-   Ainsi la devise de l’OLP est: premièrement Gaza et la Côte occidentale, ensuite Jérusalem et
-tout Israël. C’est pourquoi Arafat a fait imprimer les armoiries de son Etat couvrant tout Israël, de
-Eilat en passant par Jérusalem et Tel Aviv, jusqu’à Haïffa. D’après son point de vue c’est là
-l’Etat Palestinien — lequel n’a en vérité jamais existé comme tel — qui devrait maintenant naître.
-L’usage du nom de Palestine vient de la désignation gréco-romaine «Palaistine» et était employée
-pour le pays des Philistins. C’est aujourd’hui ce qui forme la bande de Gaza, rien de plus. Bien que
-le Premier ministre Israélien Rabin ait souligné à Washington la notion de paix — lorsqu’il cita
-cette parole d’Ecclésiaste 3.8: “… un temps d’aimer, et un temps de haïr; un temps de guerre, et
-un temps de paix” — des temps tout à fait mauvais se trouvent encore devant le peuple d’Israël et
-la ville de Jérusalem.
-   Les Saintes Ecritures ne disent pas qu’une véritable paix sera établie par des négociations
-politiques et religieuses. En réalité, ce qui arrive maintenant n’est que la réalisation de cette
-expression: On parle de paix et on débat de cela. Cependant cet avertissement de l’Ecriture
-demeure: “Quand ils diront: Paix et sûreté, alors une subite destruction viendra sur eux, comme
-les douleurs sur celle qui est enceinte, et ils n’échapperont point” (1 Thess. 5.3).
-   Le 29 septembre 1938 déjà, le Premier Ministre britannique Chamberlain annonçait, après la
-signature du traité de Munich avec Hitler: «Peace in our days» — «Paix en nos jours». A peine
-deux mois plus tard, à savoir le 9 novembre 1938, les synagogues dans l’Allemagne d’Hitler
-étaient en flammes. 91 Juifs furent assassinés par les nazis, plus de 26 000 furent amenés dans
-des camps de concentration et un nombre incalculable de commerces juifs furent dévastés. Le
-13 septembre 1993, à Washington, le slogan était: «Peace in our time» — «Paix en notre temps».
-Cependant, ce qui arrivera est ce que Dieu a prédit dans les Saintes Ecritures, par exemple
-dans Zacharie 12 et 14, comme aussi dans d’autres passages.
+La deuxième moitié de cette semaine d'années subit deux prolongations: "Et depuis le temps où le sacrifice continuel sera ôté et où l'abomination qui désole sera placée, il y aura mille deux cent quatre-vingt-dix jours" (Daniel 12.11). Il y aura donc 30 jours de plus jusqu'à ce que la consomption décrétée soit déversée sur la désolée. Puis il nous est donné encore un troisième nombre de jours, c'est à dire 1335. Visiblement 45 jours seront encore nécessaires pour qu'aient lieu les derniers événements, comme par exemple le jugement des nations (Ésaïe 2.4; Michée 4.3; Mat. 25.32; Apocalypse 11.18; 20.4; etc. ); c'est seulement après cela que la Royauté peut commencer. Toutes choses doivent êtres ramenées à leur état parfait. La création tout entière attend et soupire après l'instant où elle sera affranchie de la servitude de la corruption (Romains 8.19-22).
+
+En rapport avec la dernière mesure de temps il est dit: "Bienheureux celui qui attend et qui parvient à mille trois cent trente-cinq jours!" (Daniel 12.12). C'est avec cela que se terminent les choses qui doivent arriver lors de la dernière phase, jusqu'au nouvel ordre institué avant l'établissement du règne de mille ans. Bienheureux donc celui qui persévère tout droit jusqu'à la fin, car ceux qui restent sur la terre entrent alors dans le millénium. L'ensemble de la création pourra reprendre son souffle et le monde entier se trouvera dans une condition paradisiaque. Selon le témoignage des Ecritures il n'y a pas une fin totale du monde, avec une entière destruction, comme certains l'enseignent de façon erronée, mais seulement une épuration et une purification par le feu, laquelle conduira à un merveilleux recommencement, au sujet duquel toute la création se réjouit déjà. C'est alors que, paisiblement, le loup habitera avec l'agneau, la vache paîtra avec l'ourse (Ésaïe 11.6-9), car dans cette période Satan aura été lié et jeté dans l'abîme (Apocalypse 20).
+
+SIGNES DES TEMPS
+
+La reconnaissance diplomatique mutuelle entre Israël et l'Etat du Vatican n'est pas l'alliance annoncée par les Ecritures. Une telle reconnaissance est habituelle entre les Etats de ce monde et elle n'est pas limitée dans le temps. Lors du traité conclu pour sept ans il ne s'agira pas d'échange d'ambassadeurs et de dispositions pour la représentation diplomatique; mais au contraire il s'agira d'établir les droits et les devoirs des trois religions mondiales implantées à Jérusalem, la ville sainte du Judaïsme, du Christianisme et de l'Islam. Il y a un seul homme sur terre que les Juifs comme les Musulmans tiennent en haute estime, et c'est le Pape, car il est respecté comme figure centrale de toutes les religions. Ses rapports avec le monde arabe sont également empreintes de sérénité. Ainsi il incombera au Vatican de jouer son rôle lors des négociations, pour faire des concessions selon le désir d'Israël et inclure dans le traité la reconstruction du Temple. A cette occasion il parlera des droits de l'homme et de la même importance à accorder aux trois religions monothéistes. Tout cela arrivera afin que l'Ecriture soit accomplie.
+
+En ce qui concerne la répartition de la prophétie de Daniel dans le temps, tous les hommes de renom au cours de l'histoire de l'Eglise, à commencer par Irénée qui avait été avec Polycarpe, lequel avait aussi été en communion avec Jean qui écrivit l'Apocalypse, tous ont enseigné d'un parfait accord à ce sujet. Dans ces temps modernes ce sont l'historien Larkin, le traducteur de la Bible, Scofield, et l'homme de Dieu, William Branham, qui sont en parfait accord dans leurs déclarations. Souvent les gens n'écoutent pas qu'elle est exactement la question posée et c'est la raison pour laquelle ils ne comprennent pas non plus correctement la réponse. Par exemple, lorsque la question posée est celle-ci: «Combien de temps Dieu a-t-Il réservé au ministère des deux prophètes pour les Juifs?». La réponse est: «Trois ans et demi». Mais si la question est: «Combien de temps y a-t-il entre la fin du temps de la grâce pour les nations et le commencement du millénium?» la réponse doit alors correspondre à la chose demandée. Celui qui cependant pense avoir trouvé une contradiction dans ce que frère Branham a enseigné, c'est que dans ce cas il a négligé de consulter les déclarations faites par les Saintes Ecritures.
+
+Dans la prédication Les soixante-dix semaines d'années de Daniel, le serviteur de Dieu, William Branham, n'a pas donné de réponse qui pourrait être mal comprise, mais il a toujours enseigné avec conviction qu'une période de sept ans était à venir pour Israël. Il dit: «So now, there's no more guessing about it. We know now that each week meant seven years. Have you got it? Let's say it together: ‹One week equals seven years›. Now we know we got it. One week equals seven years» [§ 104]. «Ainsi, maintenant il n'y a plus de supposition à faire à ce sujet. Nous savons que chaque semaine signifie sept années. L'avez-vous compris? Disons ensemble: ‹Une semaine est égale à sept ans›. Nous connaissons maintenant que c'est ainsi. Une semaine est égale à sept ans».
+
+«Now, if they've already had sixty-nine weeks and lived exactly the way God said they did, and it happened exactly the way God said it would do,then there's one more week promised to the Jews» [§ 108]. «Maintenant, s'ils ont déjà vécu leurs soixante-neuf semaines, et cela exactement comme Dieu le leur avait dit à l'avance, et que c'est arrivé exactement comme Dieu l'a dit, alors il y a encore une semaine promise pour les Juifs».
+
+«… then there's one more week left for the Jews. Is that right? And that's exactly seven years» [p. 124]. «… alors il reste encore une semaine pour les Juifs. Est-ce juste? Et ce sont exactement sept ans».
+
+«The moment He starts that seventieth week, or seven years, the Church is gone. Can you see it, friends? Raise up your hand if you can see it». «Au moment où Il commence la soixante-dixième semaine, ou les sept années, l'Eglise est partie. Pouvez-vous le voir, mes amis? Levez vos mains, si vous pouvez le voir».
+
+«The moment He starts the seventhieth week, or seven years, the Church is gone. Now, listen. I'm quoting again, so you won't forget. This is what the Holy Spirit put upon my pen while I was writing» [p. 130]. «Au moment où Il commence la soixante-dixième semaine, ou les sept années, l'Eglise est partie. Ecoutez maintenant. Je le cite encore afin que vous ne l'oubliiez pas. C'est ce que le Saint-Esprit a mis sous ma plume, alors que j'écrivais».
+
+Conformément à cette citation répétée, le commencement de la dernière semaine d'années a lieu presque en même temps que l'enlèvement de l'Epouse. Le commencement spirituel pour Israël débute alors. La reprise de relations diplomatiques entre Israël et l'Etat du Vatican était nécessaire pour que de futures négociations puissent avoir lieu au sujet de Jérusalem et que l'alliance annoncée par Daniel 9.27 puisse être conclue. Israël s'orientera également vers la communauté Européenne.
+
+Le livre de Daniel est l'Apocalypse de l'Ancien Testament. C'est en lui qu'est dévoilé ce qui va arriver avec Israël jusqu'à la fin. Le premier empereur qui soumit Israël était Nebucadnedsar. C'est avec lui que commença l'exercice de la puissance païenne des quatre empires. De même que le premier dominateur reçu un coeur de bête, ainsi en sera-t-il avec le dernier: "Que son coeur d'homme soit changé, et qu'un coeur de bête lui soit donné; et que sept temps passent sur lui" (Daniel 4.16). Dans le même chapitre il est encore dit trois fois qu'il y aura sept temps, c'est-à-dire sept années, pendant lesquelles ce premier dominateur du monde deviendrait une bête. La même chose se réalisera avec le dernier dominateur: pendant les derniers sept ans, lorsque Satan est précipité sur la terre (Apocalypse 12.9), il prend possession de ce dominateur et lui donne son trône (Apocalypse 13.2), pour qu'il se conduise comme une bête. Pendant les premiers trois ans et demi il ne pourra pas encore exercer la puissance absolue sur le monde, parce qu'en ce temps-là les deux prophètes accompliront leur ministère avec la toute-puissance divine. Mais dans les derniers trois ans et demi il agira avec la bestialité satanique, c'est-à-dire pendant le temps de la persécution de la grande tribulation. C'est déjà de cette manière qu'Irénée († 202) et d'autres enseignants de la Bible l'ont exposé.
+
+En ce qui concerne le développement prophétique du temps de la fin, voici ce que dit à l'avance l'homme de Dieu William Branham, dans sa prédication du 19 mars 1962, faite à Tifton, Georgia, USA, quelques mois seulement après la construction du mur de Berlin: «Une pluie d'enseignement a lieu. Une pluie d'enseignement a eu lieu dans les nations. Le communisme a été semé parmi les hommes dans chaque nation. Un réveil de Rome a eu lieu. Savez-vous ce qui va se passer si alors… la partie Est de Berlin sera rendue? Cela placera le communisme… Je veux dire l'Empire Romain, exactement dans la position où il était du temps de Jésus-Christ. C'est certain qu'il en sera ainsi. Exactement».
+
+Puisque le monde communiste n'existe plus, il n'est donc plus une menace pour la religion catholique romaine. Au contraire, elle vit un nouvel essor dans les pays anciennement communistes. Pour celui qui connaît ce qui se passe à l'arrière-plan, il sait quel rôle le Vatican a joué dans l'écroulement du communisme. La guerre froide est terminée, le mur de Berlin a disparu, l'Allemagne est réunifiée et l'Europe est en plein processus d'unification. En même temps le catholicisme universel s'élève, et c'est ainsi qu'apparaît à nouveau sous nos yeux l'Empire Romain. C'est le 25 mars 1957 qu'a été signé le traité de Rome, lequel représente le fondement de la communauté économique européenne. Ce traité n'aurait pas pu être conclu dans aucune autre ville du monde. La politique mondiale ne peut se faire que dans la capitale mondiale. Dans cette affaire il s'agit de l'Empire Romain, qui en tant que dernier empire mondial vu par Daniel, doit subsister jusqu'à la fin. L'asservissement de tous les peuples sera amené par la puissance politique de Rome, c'est-à-dire du Vatican, et la persécution des chrétiens bibliques et des Juifs croyants sera exercée par la puissance religieuse de Rome, c'est-à-dire du Vatican.
+
+Au temps de Jésus, Israël se trouvait sous la domination romaine. Depuis 63 av. J.-C. le pays de Judée était une partie de l'Empire Romain. Le royaume des Macchabées avait pris fin dans la violence. L'empereur romain Auguste, au temps de la naissance de Jésus, ordonna un recensement dans tout l'empire romain, dont la Judée faisait aussi partie (Luc 2.15). En tant que Juif, Paul était né citoyen romain (Actes 20.25-29). Le général romain Titus assiégea Jérusalem et la détruisit en l'an 70 après Christ.
+
+L'empire Romain subsiste jusqu'à la fin. Sur le nouveau passeport de la "Communauté des douze" ne se trouve plus mentionné le pays d'origine en premier, mais bien "Communauté Européenne", laquelle sera sous peu remplacée par "Union Européenne". Déjà maintenant le Droit Européen a la prééminence sur le Droit National. Des cours de justice nationales envoient des jugements à la Cour de justice européenne à Luxembourg pour qu'ils soient soumis à son examen et contrôlé. Le Conseil de l'Europe, la Banque Centrale européenne, ainsi que les onze institutions les plus importantes ont déjà trouvé leur place. L'Union Européenne est en même temps la base du gouvernement mondial, lequel, assurément, allié à la capitale religieuse mondiale, le Vatican à Rome, exercera le pouvoir.
+
+Les négociations entre Israël, l'Etat du Vatican, l'OLP et les Etats arabes se poursuivront en dépit des plus grandes difficultés. Le 30 décembre 1993 eut lieu la signature de documents entre le Vatican et Israël, et un jour plus tard seulement, le 31 décembre 1993, la même délégation du Vatican négociait avec l'OLP. Nous pouvons en déduire que les événements eschatologiques annoncés à l'avance sont très proches et vont s'accomplir l'un après l'autre. Toujours à nouveau l'on parle de la signification «historique» et de l'établissement de la paix et de la sécurité, d'événements «historiques», de traités «historiques», et même de la poignée de main «historique» entre Jean Paul II et le grand Rabbin de Jérusalem, Meir Lau, à Castel Gandolfo, ainsi que celle échangée entre Arafat et Rabin à Washington.
+
+Selon la convention signée le 13 septembre 1993 à Washington, les négociations sur le statut final de Jérusalem doivent commencer dans trois ans et doivent être terminées au plus tard deux ans après. Le politicien des Etats-Unis bien connu, Henry Kissinger, né juif à Fürth près de Nuremberg, disait immédiatement après la signature de cette convention: «Peres walked into a trap». — «Pérès est tombé dans un piège». Le nom de Pérès signifie d'après Daniel 5.28 «divisé», et c'est ainsi que Pérès divise son propre pays. Du point de vue biblique, le tracé des frontières du pays promis, fixé par Dieu, est tout autre. Les deux tribus et demi, Ruben, Gad et Manassé, avaient leur territoire à l'est du Jourdain (Josué 1.12-15). Ainsi Israël, au contraire, aurait dû recevoir encore des territoires afin que soit accomplie l'ordonnance divine du point de vue géographique. C'est encore une chose qui s'accomplira sûrement. Le territoire des Etats arabes dans son ensemble Esther 640 fois plus grand que celui d'Israël et ceux-ci pourraient sans autre faire s'établir chez eux leurs camarades de combat et de foi.
+
+Sur les 120 députés de la Knesset, 61 ont approuvé le traité. De telle sorte qu'une seule voix a fait pencher la balance. Le 1er octobre 1993 les ministres des finances des pays les plus fortunés décidèrent à New-York de mettre à la disposition de l'OLP 2 milliards d'US dollar pour la construction de son territoire. La part promise par Israël à cet effet était de 75 millions. Le 4 octobre 1993 Arafat fit connaître son désir de consacrer le 75% de cette somme à la constitution de la police et de l'armée, ainsi qu'à son équipement. Le développement dans cette région s'avère prendre des formes intéressantes.
+
+JERUSALEM — LA PIERRE PESANTE
+
+Ce n’est pas Gaza ou Jéricho, pas plus que la Côte occidentale ou les hauteurs du Golan qui seront une pierre pesante pour tous les peuples, mais bien Jérusalem. Tous ceux qui s’en chargeront s’y meurtriront certainement (Zacharie 12.2-3). Par le traité de Gaza et de Jéricho les peuples des alentours se trouvent placés directement devant la porte d’entrée de Jérusalem. Toutes les nations de l’ONU ont pris maintenant position pour Arafat, et par cela même contre Israël. C’est cet homme là qui en 1974 énonçait son plan de conquête comme suit: «Dans la première phase nous établirons des têtes de ponts stratégiques à Gaza et Jéricho pour conquérir Jérusalem à partir de là. Car celui qui tient Jérusalem a tout Israël». Six jours après la signature du traité à Washington, c’est-à-dire le 19 septembre 1993, devant 19 ministres des affaires étrangères de la Ligue arabe, au Caire, il répéta le même plan d’échelonnement. Il lut, tiré du statut de l’OLP, sa thèse bien connue et termina par ces mots: «Notre but est l’anéantissement d’Israël». Lors de plusieurs guerres déjà — et Arafat y était depuis la première, en 1948 on voulait, comme ils disent, «jeter Israël à la mer».
+   Jusqu’aujourd’hui Jérusalem a été uniquement la capitale d’Israël, jamais celle d’un autre peuple. Pour les deux autres religions mondiales, le Catholicisme et l’Islam, cette ville était jusqu’ici d’importance plutôt moyenne. Mais singulièrement maintenant, ces deux religions jettent leurs regards d’une manière croissante sur Israël et plus particulièrement sur Jérusalem. Elles négligent La Mecque et Médina, Lourdes et Fatima, et se concentrent de toutes leurs forces sur Jérusalem. Le Vatican fait même valoir des prétentions sur des propriétés du temps des Croisades. De quel droit fait-il cela?
+   Ainsi la devise de l’OLP est: premièrement Gaza et la Côte occidentale, ensuite Jérusalem et tout Israël. C’est pourquoi Arafat a fait imprimer les armoiries de son Etat couvrant tout Israël, de Eilat en passant par Jérusalem et Tel Aviv, jusqu’à Haïffa. D’après son point de vue c’est là l’Etat Palestinien — lequel n’a en vérité jamais existé comme tel — qui devrait maintenant naître. L’usage du nom de Palestine vient de la désignation gréco-romaine «Palaistine» et était employée pour le pays des Philistins. C’est aujourd’hui ce qui forme la bande de Gaza, rien de plus. Bien que le Premier ministre Israélien Rabin ait souligné à Washington la notion de paix — lorsqu’il cita cette parole d’Ecclésiaste 3.8: “… un temps d’aimer, et un temps de haïr; un temps de guerre, et un temps de paix” — des temps tout à fait mauvais se trouvent encore devant le peuple d’Israël et la ville de Jérusalem.
+   Les Saintes Ecritures ne disent pas qu’une véritable paix sera établie par des négociations politiques et religieuses. En réalité, ce qui arrive maintenant n’est que la réalisation de cette expression: On parle de paix et on débat de cela. Cependant cet avertissement de l’Ecriture demeure: “Quand ils diront: Paix et sûreté, alors une subite destruction viendra sur eux, comme les douleurs sur celle qui est enceinte, et ils n’échapperont point” (1 Thess. 5.3).
+   Le 29 septembre 1938 déjà, le Premier Ministre britannique Chamberlain annonçait, après la signature du traité de Munich avec Hitler: «Peace in our days» — «Paix en nos jours». A peine deux mois plus tard, à savoir le 9 novembre 1938, les synagogues dans l’Allemagne d’Hitler étaient en flammes. 91 Juifs furent assassinés par les nazis, plus de 26 000 furent amenés dans des camps de concentration et un nombre incalculable de commerces juifs furent dévastés. Le 13 septembre 1993, à Washington, le slogan était: «Peace in our time» — «Paix en notre temps». Cependant, ce qui arrivera est ce que Dieu a prédit dans les Saintes Ecritures, par exemple dans Zacharie 12 et 14, comme aussi dans d’autres passages.
 
         LES DERNIERS JOURS
 
-   En ce qui concerne le temps de grâce pour les nations, il continuera jusqu’à ce que Dieu exerce
-à nouveau Sa grâce envers Israël. Cette période de temps, en rapport avec l’Eglise et Israël, est
+   En ce qui concerne le temps de grâce pour les nations, il continuera jusqu’à ce que Dieu exerce à nouveau Sa grâce envers Israël. Cette période de temps, en rapport avec l’Eglise et Israël, est
 
         http://www.cmpp.ch
 
 LES 70 SEMAINES DE DANIEL… 12
-aussi appelée au sens prophétique “Les derniers jours”. L’auteur de l’épître aux Hébreux
-développe dès le commencement le fait que Dieu après avoir à plusieurs reprises et de plusieurs
-manières parlé aux pères par les prophètes, “… à la fin de ces jours-là, nous a parlé dans le Fils”
-(Hébreux 1.2).
-   La période pendant laquelle le Saint-Esprit est déversé et agit se trouve exprimée par Pierre qui
-cite la formule prophétique: “Et il arrivera aux derniers jours, dit Dieu, que je répandrai de mon
-Esprit sur toute chair…” (Actes 2.17). Par cela il se rapporte à l’effusion du Saint-Esprit qui a
-commencé il y a environ deux mille ans au jour bien connu de Pentecôte. A partir de ce jour-là,
-pour cette période de deux mille ans qui est presque entièrement derrière nous, Pierre emploie le
-terme prophétique: “Aux derniers jours”. Le tout dernier jour est “le jour du Seigneur”, le septième
-millénaire.
-   Dans sa deuxième prédication après Pentecôte, Pierre se rapporte à Deutéronome 18.15 à 18
-pour montrer que Christ, le Messie, est le Prophète duquel Moïse a prophétisé en disant: “… et il
-arrivera que toute âme qui n’écoutera pas ce prophète sera exterminée d’entre le peuple”. Et il dit
-encore que tous les prophètes, depuis Samuel, “ont aussi annoncé ces jours” (Actes 3.22-24). Ces
-deux derniers jours s’en vont lentement, mais sûrement vers leur fin. Le tout dernier jour est le
-septième jour. Dans Jean 11.24, Marthe dit à Jésus: “Je sais qu’il ressuscitera en la résurrection,
-au dernier jour”. Au commencement du dernier jour a lieu la première résurrection, et à la fin
-ont lieu la dernière résurrection et le jugement dernier (Apocalypse 20.11-15).
-   Le prophète Osée a également mentionné ces derniers jours en rapport avec la dispersion
-d’Israël: “Venez, retournons à l’Eternel, car lui a déchiré, et il nous guérira; il a frappé, et il bandera
-nos plaies. Dans deux jours, il nous fera vivre; au troisième jour, il nous mettra debout, et nous
-vivrons devant sa face” (Osée 6.1-2). Les deux jours qui sont mentionnés représentent les deux
-mille ans pendant lesquels Israël a été dispersé, et c’est à la fin de ces jours qu’il est rassemblé
-comme beaucoup de passages bibliques en témoignent, et comme nous pouvons le constater en
-notre génération. “Mais n’ignorez pas cette chose, bien-aimés, c’est qu’un jour est devant le
-Seigneur comme mille ans, et mille ans comme un jour” (2 Pier. 3.8).
-   Le rassemblement qui a lieu après deux jours, ne signifie pas qu’ils aient déjà reçu de Dieu la
-vie, car elle ne peut leur être donnée que lorsqu’ils reconnaîtront leur Messie. C’est en effet en
-Lui seul que se trouve la Vie éternelle pour tous les hommes, puisque c’est aussi uniquement
-en Jésus-Christ que Dieu S’est révélé personnellement pour apporter le salut à l’humanité. A
-l’égard d’Israël il est dit: “… au troisième jour, il nous mettra debout…” (Osée 6.2). Cela signifie
-que c’est après notre temps: Quand commencera à paraître pour Israël le temps de grâce — qui
-tombe déjà dans le jour du Seigneur — c’est là qu’ils recevront de Dieu la vie. Par le ministère
-des deux prophètes qui leur seront envoyés, ils reconnaîtront leur Messie. “Car si leur réjection est
-la réconciliation du monde, quelle sera leur réception, sinon la vie d’entre les morts” (Romains 11.15).
-   Jusque là, malgré leur rassemblement et la résurrection de la nation, le voile de Moïse demeure
-toujours sur eux. C’est de cette manière que Paul le présente dans 2 Corinthiens 3.15: “Mais
-jusqu’à aujourd’hui, lorsque Moïse est lu, le voile demeure sur leur coeur; mais quand il se
-tournera vers le Seigneur, le voile sera ôté”.
-   Le plan divin de salut se déroule exactement de la manière que Dieu l’a conçu dès l’éternité. En
-réalité nous nous trouvons au milieu de l’accomplissement et de la réalisation des prophéties
-bibliques des temps de la fin. A tout moment il est possible que le temps de grâce pour les
-nations arrive à sa fin, que la perfection de l’Epouse soit atteinte et que son enlèvement ait
-lieu, que Dieu fasse un nouveau commencement spirituel avec Israël, que l’alliance avec
-l’antichrist soit conclue et le Temple rebâti.
-   Nous pouvons reconnaître au fait suivant combien les Juifs comptent avec la réalisation des
-promesses: Sous la patronage du ministère israélien des Cultes et du Haut-Rabbinat,
-93 ustensiles en usage dans le Temple ont déjà été préparés. Ils peuvent être vus à Jérusalem, à
-la Misgav Ladach Street 24. Le prochain objet de culte qui sera confectionné est le chandelier,
-haut de 1.80 m. conformément à Exode 25.31 à 40, et qui sera tiré par martelage d’un seul bloc
-d’or de 43 kg. La préparation de l’Arche de l’alliance n’est pas prévue, parce que les Juifs instruits
+aussi appelée au sens prophétique “Les derniers jours”. L’auteur de l’épître aux Hébreux développe dès le commencement le fait que Dieu après avoir à plusieurs reprises et de plusieurs manières parlé aux pères par les prophètes, “… à la fin de ces jours-là, nous a parlé dans le Fils” (Hébreux 1.2).
+   La période pendant laquelle le Saint-Esprit est déversé et agit se trouve exprimée par Pierre qui cite la formule prophétique: “Et il arrivera aux derniers jours, dit Dieu, que je répandrai de mon Esprit sur toute chair…” (Actes 2.17). Par cela il se rapporte à l’effusion du Saint-Esprit qui a commencé il y a environ deux mille ans au jour bien connu de Pentecôte. A partir de ce jour-là, pour cette période de deux mille ans qui est presque entièrement derrière nous, Pierre emploie le terme prophétique: “Aux derniers jours”. Le tout dernier jour est “le jour du Seigneur”, le septième millénaire.
+   Dans sa deuxième prédication après Pentecôte, Pierre se rapporte à Deutéronome 18.15 à 18 pour montrer que Christ, le Messie, est le Prophète duquel Moïse a prophétisé en disant: “… et il arrivera que toute âme qui n’écoutera pas ce prophète sera exterminée d’entre le peuple”. Et il dit encore que tous les prophètes, depuis Samuel, “ont aussi annoncé ces jours” (Actes 3.22-24). Ces deux derniers jours s’en vont lentement, mais sûrement vers leur fin. Le tout dernier jour est le septième jour. Dans Jean 11.24, Marthe dit à Jésus: “Je sais qu’il ressuscitera en la résurrection, au dernier jour”. Au commencement du dernier jour a lieu la première résurrection, et à la fin ont lieu la dernière résurrection et le jugement dernier (Apocalypse 20.11-15).
+   Le prophète Osée a également mentionné ces derniers jours en rapport avec la dispersion d’Israël: “Venez, retournons à l’Eternel, car lui a déchiré, et il nous guérira; il a frappé, et il bandera nos plaies. Dans deux jours, il nous fera vivre; au troisième jour, il nous mettra debout, et nous vivrons devant sa face” (Osée 6.1-2). Les deux jours qui sont mentionnés représentent les deux mille ans pendant lesquels Israël a été dispersé, et c’est à la fin de ces jours qu’il est rassemblé comme beaucoup de passages bibliques en témoignent, et comme nous pouvons le constater en notre génération. “Mais n’ignorez pas cette chose, bien-aimés, c’est qu’un jour est devant le Seigneur comme mille ans, et mille ans comme un jour” (2 Pier. 3.8).
+   Le rassemblement qui a lieu après deux jours, ne signifie pas qu’ils aient déjà reçu de Dieu la vie, car elle ne peut leur être donnée que lorsqu’ils reconnaîtront leur Messie. C’est en effet en Lui seul que se trouve la Vie éternelle pour tous les hommes, puisque c’est aussi uniquement en Jésus-Christ que Dieu S’est révélé personnellement pour apporter le salut à l’humanité. A l’égard d’Israël il est dit: “… au troisième jour, il nous mettra debout…” (Osée 6.2). Cela signifie que c’est après notre temps: Quand commencera à paraître pour Israël le temps de grâce — qui tombe déjà dans le jour du Seigneur — c’est là qu’ils recevront de Dieu la vie. Par le ministère des deux prophètes qui leur seront envoyés, ils reconnaîtront leur Messie. “Car si leur réjection est la réconciliation du monde, quelle sera leur réception, sinon la vie d’entre les morts” (Romains 11.15).
+   Jusque là, malgré leur rassemblement et la résurrection de la nation, le voile de Moïse demeure toujours sur eux. C’est de cette manière que Paul le présente dans 2 Corinthiens 3.15: “Mais jusqu’à aujourd’hui, lorsque Moïse est lu, le voile demeure sur leur coeur; mais quand il se tournera vers le Seigneur, le voile sera ôté”.
+   Le plan divin de salut se déroule exactement de la manière que Dieu l’a conçu dès l’éternité. En réalité nous nous trouvons au milieu de l’accomplissement et de la réalisation des prophéties bibliques des temps de la fin. A tout moment il est possible que le temps de grâce pour les nations arrive à sa fin, que la perfection de l’Epouse soit atteinte et que son enlèvement ait lieu, que Dieu fasse un nouveau commencement spirituel avec Israël, que l’alliance avec l’antichrist soit conclue et le Temple rebâti.
+   Nous pouvons reconnaître au fait suivant combien les Juifs comptent avec la réalisation des promesses: Sous la patronage du ministère israélien des Cultes et du Haut-Rabbinat, 93 ustensiles en usage dans le Temple ont déjà été préparés. Ils peuvent être vus à Jérusalem, à la Misgav Ladach Street 24. Le prochain objet de culte qui sera confectionné est le chandelier, haut de 1.80 m. conformément à Exode 25.31 à 40, et qui sera tiré par martelage d’un seul bloc d’or de 43 kg. La préparation de l’Arche de l’alliance n’est pas prévue, parce que les Juifs instruits
 
         http://www.cmpp.ch
 
     LES 70 SEMAINES DE DANIEL…    13
-dans les Ecritures croient qu’au contraire des autres ustensiles du Temple emportés comme butin
-de guerre, celle-ci se trouve intacte dans une chambre sous les ruines du Temple.
-   Ces Juifs ayant de la connaissance dans les Ecritures disent ouvertement qu’ils comptent sur
-un futur dans l’immédiat. Ils sont persuadés qu’avec la naissance et la fondation de l’Etat d’Israël
-en mai 1948, Dieu a réintroduit à nouveau Son peuple dans le rythme originel des Jubilés. Ils
-croient qu’après 49 ans un Jubilé sera de nouveau publié, comme il avait été ordonné pour Israël
-en son temps par Moïse. D’après leurs calculs ce devrait être en 1998. Nous ne pouvons
-cependant pas fixer une année déterminée pour les événements qui sont encore en suspens;
-cependant nous devrions prendre conscience que la réalisation de ceux-ci est imminente. Le
-retour du peuple d’Israël dans le pays promis doit entraîner nécessairement après lui toutes ces
-choses qui lui sont promises. Pour l’Eglise, cela signifie qu’Elle se trouve à l’ultime degré de
-l’alarme. Avant que Dieu ne commence Son plan de salut pour Israël, Son plan de Rédemption
-concernant l’Eglise des nations doit être terminé. Le commencement de la soixante-dixième
-semaine d’années s’est approché d’une manière tangible, et pour nous le retour de l’Epoux céleste
-venant introduire son Epouse terrestre dans la demeure qu’Il lui a préparée s’est d’autant plus
-approché.
-   Parce que nous pouvons voir toutes ces choses s’accomplir, et que nous pouvons les mettre à
-leur place, nous savons que nous pouvons lever notre tête. Ce ne sont pas des choses que nous
-présumons, mais à cause des événements bibliques prophétiques qui s’accomplissent,
-nous savons que le retour de notre Seigneur est maintenant véritablement proche; avec cela
-la rédemption des corps de ceux qui appartiennent à l’Eglise-Epouse et leur enlèvement est
-réellement directement devant nous. Sans aucun doute, personne ne connaît ni le jour ni l’heure,
-et ce n’est pas du tout nécessaire. Nous devons au contraire travailler à notre salut avec crainte et
-tremblement (Philippiens 2.12), et demeurer sobres en toutes choses, c’est-à-dire qu’il faut que nous
-continuions à vivre et faire des projets comme si nous avions encore toute une vie devant nous.
-Celui qui veut bâtir une maison, qu’il la bâtisse. Celui qui désire se perfectionner dans sa
-profession, qu’il le fasse. Celui qui veut se marier, qu’il se marie, et ainsi de suite. Quel que soient
-les projets terrestres que nous faisons, poursuivons-les, mais en tout cela prenons
-constamment garde à être prêts en tout temps.
-   La situation dans laquelle se trouvent actuellement chacun des enfants de Dieu, de même que
-celle des communautés, ne demeurera pas telle qu’elle est maintenant jusqu’à la fin. Dieu fera
-encore de grandes choses. Il a promis d’ébranler encore une fois les cieux et la terre
-(Hébreux 12.26-28). Nous pouvons compter sur une courte mais puissante action de l’Esprit, laquelle
-va déboucher sur la résurrection, la transmutation et l’enlèvement. La clôture de cet Age sera
-constituée par une puissante vivification et un réveil à l’intérieur de l’Eglise-Epouse. Dans ce court
-laps de temps, l’oppression s’exercera, et en ceux qui sont prêts se fera entendre ce cri: “Viens
-bientôt, Seigneur Jésus!”. Alors l’Esprit et l’Epouse diront: “Viens!”. C’est l’appel qui retentit en
-dernier: “Amen! Viens Seigneur Jésus!”.
-   Au cours de toutes les années de mon ministère je n’ai encore jamais traité du thème des
-soixante-dix semaines d’années. Cependant ceci est maintenant véritablement d’actualité et c’est
-pourquoi l’Esprit de Dieu me l’a tout particulièrement montré. J’ai confiance que c’est juste, comme
-lorsque frère Branham disait: «C’est ce que le Saint-Esprit a mis sous ma plume pendant que
-j’écrivais». Le Saint-Esprit ne peut dicter que ce qu’Il a dicté lorsque pour la première fois la Parole
-est sortie de la bouche de Dieu. Je remercie Dieu de n’avoir aucune propre doctrine à défendre.
-Comme il est juste dans un ministère suscité par Dieu, je puis laisser parler Dieu Lui-même. A Lui
-seul revienne toute la gloire! Je souhaite que cet exposé vous ait tous aidé véritablement.
+dans les Ecritures croient qu’au contraire des autres ustensiles du Temple emportés comme butin de guerre, celle-ci se trouve intacte dans une chambre sous les ruines du Temple.
+   Ces Juifs ayant de la connaissance dans les Ecritures disent ouvertement qu’ils comptent sur un futur dans l’immédiat. Ils sont persuadés qu’avec la naissance et la fondation de l’Etat d’Israël en mai 1948, Dieu a réintroduit à nouveau Son peuple dans le rythme originel des Jubilés. Ils croient qu’après 49 ans un Jubilé sera de nouveau publié, comme il avait été ordonné pour Israël en son temps par Moïse. D’après leurs calculs ce devrait être en 1998. Nous ne pouvons cependant pas fixer une année déterminée pour les événements qui sont encore en suspens; cependant nous devrions prendre conscience que la réalisation de ceux-ci est imminente. Le retour du peuple d’Israël dans le pays promis doit entraîner nécessairement après lui toutes ces choses qui lui sont promises. Pour l’Eglise, cela signifie qu’Elle se trouve à l’ultime degré de l’alarme. Avant que Dieu ne commence Son plan de salut pour Israël, Son plan de Rédemption concernant l’Eglise des nations doit être terminé. Le commencement de la soixante-dixième semaine d’années s’est approché d’une manière tangible, et pour nous le retour de l’Epoux céleste venant introduire son Epouse terrestre dans la demeure qu’Il lui a préparée s’est d’autant plus approché.
+   Parce que nous pouvons voir toutes ces choses s’accomplir, et que nous pouvons les mettre à leur place, nous savons que nous pouvons lever notre tête. Ce ne sont pas des choses que nous présumons, mais à cause des événements bibliques prophétiques qui s’accomplissent, nous savons que le retour de notre Seigneur est maintenant véritablement proche; avec cela la rédemption des corps de ceux qui appartiennent à l’Eglise-Epouse et leur enlèvement est réellement directement devant nous. Sans aucun doute, personne ne connaît ni le jour ni l’heure, et ce n’est pas du tout nécessaire. Nous devons au contraire travailler à notre salut avec crainte et tremblement (Philippiens 2.12), et demeurer sobres en toutes choses, c’est-à-dire qu’il faut que nous continuions à vivre et faire des projets comme si nous avions encore toute une vie devant nous. Celui qui veut bâtir une maison, qu’il la bâtisse. Celui qui désire se perfectionner dans sa profession, qu’il le fasse. Celui qui veut se marier, qu’il se marie, et ainsi de suite. Quel que soient les projets terrestres que nous faisons, poursuivons-les, mais en tout cela prenons constamment garde à être prêts en tout temps.
+   La situation dans laquelle se trouvent actuellement chacun des enfants de Dieu, de même que celle des communautés, ne demeurera pas telle qu’elle est maintenant jusqu’à la fin. Dieu fera encore de grandes choses. Il a promis d’ébranler encore une fois les cieux et la terre (Hébreux 12.26-28). Nous pouvons compter sur une courte mais puissante action de l’Esprit, laquelle va déboucher sur la résurrection, la transmutation et l’enlèvement. La clôture de cet Age sera constituée par une puissante vivification et un réveil à l’intérieur de l’Eglise-Epouse. Dans ce court laps de temps, l’oppression s’exercera, et en ceux qui sont prêts se fera entendre ce cri: “Viens bientôt, Seigneur Jésus!”. Alors l’Esprit et l’Epouse diront: “Viens!”. C’est l’appel qui retentit en dernier: “Amen! Viens Seigneur Jésus!”.
+   Au cours de toutes les années de mon ministère je n’ai encore jamais traité du thème des soixante-dix semaines d’années. Cependant ceci est maintenant véritablement d’actualité et c’est pourquoi l’Esprit de Dieu me l’a tout particulièrement montré. J’ai confiance que c’est juste, comme lorsque frère Branham disait: «C’est ce que le Saint-Esprit a mis sous ma plume pendant que j’écrivais». Le Saint-Esprit ne peut dicter que ce qu’Il a dicté lorsque pour la première fois la Parole est sortie de la bouche de Dieu. Je remercie Dieu de n’avoir aucune propre doctrine à défendre. Comme il est juste dans un ministère suscité par Dieu, je puis laisser parler Dieu Lui-même. A Lui seul revienne toute la gloire! Je souhaite que cet exposé vous ait tous aidé véritablement.
         Agissant de la part de Dieu.
         E. Frank
-
-
-
 
 
 
@@ -711,144 +277,32 @@ LES 70 SEMAINES DE DANIEL… 14
 
         APPENDICE
         LE RETABLISSEMENT DU QUATRIEME EMPIRE
-   Comme l’on chantait sous le Troisième Reich: «… car aujourd’hui l’Allemagne nous appartient,
-et demain le monde entier», ainsi maintenant dans le «Quatrième Reich», le texte pourrait être le
-suivant: «… car aujourd’hui l’Europe nous appartient, et demain le monde entier».
-   Le prophète Daniel vit se succéder en vision les empires de ce monde. La situation politique et
-historique lui fut plus particulièrement montrée dans une vue d’ensemble. Cela commença par
-l’Empire Babylonien (606-536 av. J.-C.), qui fut suivit de celui des Mèdes et des Perses
-(jusqu’en 330 av. J.-C.), puis de celui des Grecs (jusqu’en 30 av. J.-C.), et finalement l’Empire
-Romain. (Comment cela aurait-il pu en être autrement?) Dans Daniel 2.40-44 le prophète décrit
-plus particulièrement le dernier empire: “Et le quatrième royaume sera fort comme le fer. De même
-que le fer broie et écrase tout et que le fer brise toutes ces choses, il broiera et brisera”
-(Daniel 2.40).
-   L’empire a la solidité du fer des pays industriels de l’Ouest et la fragilité de l’argile de la faible
-économie des pays de l’Est européen. Cela est décrit symboliquement par une statue ayant sa
-tête, sa poitrine, ses bras, ses hanches, ses jambes, ses pieds, y compris ses dix doigts en partie
-d’argile et en partie de fer. L’union tient seulement pour un certain temps, car le fer et l’argile ne se
-laissent pas mélanger, mais ils seront unis l’un à l’autre pour être la puissance fatale du temps de
-la fin. Cependant, à la fin des temps, le Dieu du Ciel anéantira tous les royaumes qui se sont unis
-dans ce dernier empire, et Il établira Son Royaume éternel. La Pierre, que nous connaissons
-comme la Pierre de l’angle, est aussi la Pierre du faîte, et Elle se détachera sans le secours
-d’aucune main humaine, et détruira le dernier empire (Daniel 2.34-35).
-   Dans le chapitre 7, le prophète entre encore davantage dans les détails de ce quatrième empire
-et il écrit: “Après cela je vis dans les visions de la nuit, et voici une quatrième bête, effrayante et
-terrible et extraordinairement puissante, et elle avait de grandes dents de fer: elle dévorait et
-écrasait; et ce qui restait, elle le foulait avec ses pieds. Et elle était différente de toutes les bêtes
-qui étaient avant elle; et elle avait dix cornes… Alors je désirai de savoir la vérité touchant la
-quatrième bête, qui était différente d’elles toutes, extraordinairement terrible: ses dents étaient de
-fer, et ses ongles, d’airain; elle dévorait, écrasait, et foulait avec ses pieds ce qui restait… Il dit
-ainsi: La quatrième bête sera un quatrième royaume sur la terre, qui sera différent de tous
-les royaumes, et dévorera toute la terre, et la foulera aux pieds et l’écrasera. Et les dix
-cornes… ce sont dix rois qui surgiront du royaume…” (Daniel 7.7,19,23,24).
-   Celui qui connaît les prophéties bibliques sait que les têtes représentent la conduite et le
-gouvernement, alors que les cornes indiquent la puissance d’attaque militaire et religieuse. Dans
-l’alliance des pays de l’Ouest nous avons les G7, qui sont les plus importants pays industriels du
-monde. La Russie, sans droit de parole, est tolérée en tant que huitième pays. Dans Apocalypse 13.1-10 nous trouvons également une description de la dernière puissance mondiale. Le dragon
-lui-même donne à cette dernière bête, sa force, son trône et une grande autorité (v. 2).
-   De même que Dieu a choisi une ville sur la terre, à partir de laquelle Il va régner, c’est-à-dire
-Jérusalem, ainsi Satan a réellement choisi Rome comme capitale mondiale. Dans les prophéties
-bibliques, la constellation de la dernière puissance mondiale politique et religieuse nous est décrite
-sans équivoque dans Apocalypse, chapitres 17 et 18. L’image de la prostituée chevauchant la
-bête est claire. La puissance spirituelle religieuse chevauche la puissance temporelle politique, ce
-qui veut dire qu’elle tient les rênes entre ses mains. L’ensemble constitue la «Grande Babylone» et
-ce sont les sept têtes qui la conduise, mais ces têtes indiquent aussi les sept montagnes où la
-puissance mondiale religieuse, qui exerce en même temps la puissance mondiale politique, se
-trouve à la maison. Le huitième est le représentant, c’est-à-dire celui qui représente le monde
-religieux entier et appartient politiquement aux sept. Les dix cornes, les dix Etats, se rangent à son
-côté «par contrainte» et mettent leur puissance à sa disposition aussi longtemps que nécessaire,
-jusqu’à ce que les Paroles de Dieu soient accomplies (v. 12-18).
-   Actuellement, exactement dix Etats de l’ancien bloc de l’Est veulent entrer dans l’alliance de
-l’Ouest dont ils ne font pas encore partie. D’ici au 1er mai 2004, ils devraient y être incorporés
-pleinement. La première assemblée commune de l’OTAN [«Nato» en anglais] a déjà eu lieu les 22
+   Comme l’on chantait sous le Troisième Reich: «… car aujourd’hui l’Allemagne nous appartient, et demain le monde entier», ainsi maintenant dans le «Quatrième Reich», le texte pourrait être le suivant: «… car aujourd’hui l’Europe nous appartient, et demain le monde entier».
+   Le prophète Daniel vit se succéder en vision les empires de ce monde. La situation politique et historique lui fut plus particulièrement montrée dans une vue d’ensemble. Cela commença par l’Empire Babylonien (606-536 av. J.-C.), qui fut suivit de celui des Mèdes et des Perses (jusqu’en 330 av. J.-C.), puis de celui des Grecs (jusqu’en 30 av. J.-C.), et finalement l’Empire Romain. (Comment cela aurait-il pu en être autrement?) Dans Daniel 2.40-44 le prophète décrit plus particulièrement le dernier empire: “Et le quatrième royaume sera fort comme le fer. De même que le fer broie et écrase tout et que le fer brise toutes ces choses, il broiera et brisera” (Daniel 2.40).
+   L’empire a la solidité du fer des pays industriels de l’Ouest et la fragilité de l’argile de la faible économie des pays de l’Est européen. Cela est décrit symboliquement par une statue ayant sa tête, sa poitrine, ses bras, ses hanches, ses jambes, ses pieds, y compris ses dix doigts en partie d’argile et en partie de fer. L’union tient seulement pour un certain temps, car le fer et l’argile ne se laissent pas mélanger, mais ils seront unis l’un à l’autre pour être la puissance fatale du temps de la fin. Cependant, à la fin des temps, le Dieu du Ciel anéantira tous les royaumes qui se sont unis dans ce dernier empire, et Il établira Son Royaume éternel. La Pierre, que nous connaissons comme la Pierre de l’angle, est aussi la Pierre du faîte, et Elle se détachera sans le secours d’aucune main humaine, et détruira le dernier empire (Daniel 2.34-35).
+   Dans le chapitre 7, le prophète entre encore davantage dans les détails de ce quatrième empire et il écrit: “Après cela je vis dans les visions de la nuit, et voici une quatrième bête, effrayante et terrible et extraordinairement puissante, et elle avait de grandes dents de fer: elle dévorait et écrasait; et ce qui restait, elle le foulait avec ses pieds. Et elle était différente de toutes les bêtes qui étaient avant elle; et elle avait dix cornes… Alors je désirai de savoir la vérité touchant la quatrième bête, qui était différente d’elles toutes, extraordinairement terrible: ses dents étaient de fer, et ses ongles, d’airain; elle dévorait, écrasait, et foulait avec ses pieds ce qui restait… Il dit ainsi: La quatrième bête sera un quatrième royaume sur la terre, qui sera différent de tous les royaumes, et dévorera toute la terre, et la foulera aux pieds et l’écrasera. Et les dix cornes… ce sont dix rois qui surgiront du royaume…” (Daniel 7.7,19,23,24).
+   Celui qui connaît les prophéties bibliques sait que les têtes représentent la conduite et le gouvernement, alors que les cornes indiquent la puissance d’attaque militaire et religieuse. Dans l’alliance des pays de l’Ouest nous avons les G7, qui sont les plus importants pays industriels du monde. La Russie, sans droit de parole, est tolérée en tant que huitième pays. Dans Apocalypse 13.1-10 nous trouvons également une description de la dernière puissance mondiale. Le dragon lui-même donne à cette dernière bête, sa force, son trône et une grande autorité (v. 2).
+   De même que Dieu a choisi une ville sur la terre, à partir de laquelle Il va régner, c’est-à-dire Jérusalem, ainsi Satan a réellement choisi Rome comme capitale mondiale. Dans les prophéties bibliques, la constellation de la dernière puissance mondiale politique et religieuse nous est décrite sans équivoque dans Apocalypse, chapitres 17 et 18. L’image de la prostituée chevauchant la bête est claire. La puissance spirituelle religieuse chevauche la puissance temporelle politique, ce qui veut dire qu’elle tient les rênes entre ses mains. L’ensemble constitue la «Grande Babylone» et ce sont les sept têtes qui la conduise, mais ces têtes indiquent aussi les sept montagnes où la puissance mondiale religieuse, qui exerce en même temps la puissance mondiale politique, se trouve à la maison. Le huitième est le représentant, c’est-à-dire celui qui représente le monde religieux entier et appartient politiquement aux sept. Les dix cornes, les dix Etats, se rangent à son côté «par contrainte» et mettent leur puissance à sa disposition aussi longtemps que nécessaire, jusqu’à ce que les Paroles de Dieu soient accomplies (v. 12-18).
+   Actuellement, exactement dix Etats de l’ancien bloc de l’Est veulent entrer dans l’alliance de l’Ouest dont ils ne font pas encore partie. D’ici au 1er mai 2004, ils devraient y être incorporés pleinement. La première assemblée commune de l’OTAN [«Nato» en anglais] a déjà eu lieu les 22
 
         http://www.cmpp.ch
 
 LES 70 SEMAINES DE DANIEL… 15
-et 23 novembre 2002 à Prague, et elle a une signification historique. La Russie aussi devrait entrer
-dans l’Union Européenne, selon ce que demandent les politiciens à Bruxelles, mais également
-d’autres Etats. Le président des Etats-Unis Georges W. Bush, tout juste après le sommet de
-l’OTAN à Prague, a rencontré le chef du Kremlin, Wladimir Putin, à Saint-Pétersbourg. Sous nos
-yeux s’accomplissent les prophéties bibliques. Nous le voyons, nous vivons cela! Egalement en ce
-qui concerne le développement politique, nous sommes tout proche de la fin. Ce n’est que tout à la
-fin que sera manifesté qui sont les dix cornes. Non seulement elles engageront leur force de
-frappe en troupes terrestres, mais seront aussi en mesure de consumer par le feu la grande
-prostituée, Babylone (Apocalypse 17.16-18). Ce sera un moment tout à fait décisif lorsque Israël sera
-reçu dans l’Europe Unie, comme Netanyahou il n’y a pas longtemps, appelé en tant que ministre
-des affaires étrangères dans le cabinet de Sharon, l’a proposé lors de sa première conférence de
-presse, en novembre 2002. Conformément à Daniel, ce sera un traité de sept ans, comme l’étaient
-déjà les Accords d’Oslo. Ce traité de sept ans sera toutefois rompu après trois ans et demi (Daniel 9.27).
+et 23 novembre 2002 à Prague, et elle a une signification historique. La Russie aussi devrait entrer dans l’Union Européenne, selon ce que demandent les politiciens à Bruxelles, mais également d’autres Etats. Le président des Etats-Unis Georges W. Bush, tout juste après le sommet de l’OTAN à Prague, a rencontré le chef du Kremlin, Wladimir Putin, à Saint-Pétersbourg. Sous nos yeux s’accomplissent les prophéties bibliques. Nous le voyons, nous vivons cela! Egalement en ce qui concerne le développement politique, nous sommes tout proche de la fin. Ce n’est que tout à la fin que sera manifesté qui sont les dix cornes. Non seulement elles engageront leur force de frappe en troupes terrestres, mais seront aussi en mesure de consumer par le feu la grande prostituée, Babylone (Apocalypse 17.16-18). Ce sera un moment tout à fait décisif lorsque Israël sera reçu dans l’Europe Unie, comme Netanyahou il n’y a pas longtemps, appelé en tant que ministre des affaires étrangères dans le cabinet de Sharon, l’a proposé lors de sa première conférence de presse, en novembre 2002. Conformément à Daniel, ce sera un traité de sept ans, comme l’étaient déjà les Accords d’Oslo. Ce traité de sept ans sera toutefois rompu après trois ans et demi (Daniel 9.27).
 
-   Depuis le 1ᵉʳ janvier 2002, nous vivons l’Union Monétaire Européenne: 380 millions de
-personnes sur le vieux continent payent avec la même monnaie. Le quatrième empire est présent
-et exerce maintenant partout où c’est nécessaire, au travers des décisions de l’ONU, une autorité
-de fer dans le monde entier. En premier lieu, après l’unification de l’Europe, les Etats-Unis en tant
-que dernière puissance du monde restante, conduisent encore sous le couvert de «lutte
-anti-terroriste». L’Europe Unie, en tant que «puissance mondiale» dans laquelle sont réunies la
-religion, la politique, le pouvoir économique, prendra à la fin la direction de la politique mondiale.
+   Depuis le 1ᵉʳ janvier 2002, nous vivons l’Union Monétaire Européenne: 380 millions de personnes sur le vieux continent payent avec la même monnaie. Le quatrième empire est présent et exerce maintenant partout où c’est nécessaire, au travers des décisions de l’ONU, une autorité de fer dans le monde entier. En premier lieu, après l’unification de l’Europe, les Etats-Unis en tant que dernière puissance du monde restante, conduisent encore sous le couvert de «lutte anti-terroriste». L’Europe Unie, en tant que «puissance mondiale» dans laquelle sont réunies la religion, la politique, le pouvoir économique, prendra à la fin la direction de la politique mondiale.
 
-   Ce qu’il faut aussi remarquer, c’est la concentration du pouvoir inébranlable de l’Etat du
-Vatican. Il a réussi à confirmer son indépendance en tant qu’Etat, en faisant frapper une émission
-spéciale de 65 000 exemplaires de la monnaie de l’euro en cours avec le portrait du Pape, et cela
-malgré l’opposition de la Banque Centrale Européenne. Les huit sortes de pièces ne sont
-cependant pas en libre circulation. Les collectionneurs paient déjà maintenant plus de 500 euro
-pour un jeu de pièces de monnaies d’une valeur nominale de seulement 3.88 euro. La monnaie à
-l’effigie du Pape est considérée comme précieuse parce que c’est lui, en 1989, qui a renversé le
-communisme mondial et uni l’Europe sous la domination «catholique-chrétienne»! Tous les initiés
-savent que la politique du Vatican a joué le rôle principal, aussi bien dans la réunification de
-l’Allemagne que dans celle de l’Europe, comme aussi dans la globalisation et l’union de la
-communauté des Etats de ce monde. Il continuera à jouer un rôle jusqu’à la réalisation du nouvel
-ordre mondial. Les Etats-Unis, qui déjà depuis leur naissance voulaient instituer un nouvel ordre
-mondial, comme cela est écrit en latin sur le billet de un dollar — NOVUS ORDO SECLORUM —
-seront à la fin relevés de leur position de puissance mondiale prédominante et devront se
-contenter de la deuxième place, afin que le «nouvel ordre mondial» puisse être établi.
+   Ce qu’il faut aussi remarquer, c’est la concentration du pouvoir inébranlable de l’Etat du Vatican. Il a réussi à confirmer son indépendance en tant qu’Etat, en faisant frapper une émission spéciale de 65 000 exemplaires de la monnaie de l’euro en cours avec le portrait du Pape, et cela malgré l’opposition de la Banque Centrale Européenne. Les huit sortes de pièces ne sont cependant pas en libre circulation. Les collectionneurs paient déjà maintenant plus de 500 euro pour un jeu de pièces de monnaies d’une valeur nominale de seulement 3.88 euro. La monnaie à l’effigie du Pape est considérée comme précieuse parce que c’est lui, en 1989, qui a renversé le communisme mondial et uni l’Europe sous la domination «catholique-chrétienne»! Tous les initiés savent que la politique du Vatican a joué le rôle principal, aussi bien dans la réunification de l’Allemagne que dans celle de l’Europe, comme aussi dans la globalisation et l’union de la communauté des Etats de ce monde. Il continuera à jouer un rôle jusqu’à la réalisation du nouvel ordre mondial. Les Etats-Unis, qui déjà depuis leur naissance voulaient instituer un nouvel ordre mondial, comme cela est écrit en latin sur le billet de un dollar — NOVUS ORDO SECLORUM — seront à la fin relevés de leur position de puissance mondiale prédominante et devront se contenter de la deuxième place, afin que le «nouvel ordre mondial» puisse être établi.
 
-   Le terrible événement du 11 septembre 2001 aux Etats-Unis, lorsque des terroristes islamistes
-tranchèrent la gorge des pilotes et dirigèrent les avions entièrement occupés contre les tours
-jumelles du World Trade Center à New York, a l’effet d’un signal d’avertissement. Le désir du
-Président américain est de prendre toutes les nations dans «son bateau» pour sa lutte contre le
-terrorisme. Ainsi une étrange constellation prend forme, certain se ralliant spontanément, d’autre
-sous la contrainte politique, c’est-à-dire sous la «pression exercée à cause du pétrole». Puisque
-c’est le temps de la fin, là aussi nous devons consulter les prophéties du temps de la fin qui s’y
-rapportent, car en elles se trouvent décrit à l’avance le cours des événements et de l’histoire. En
-ce qui concerne l’Irak, l’Euphrate est citée, laquelle prend sa source en Turquie, arrose tout l’Irak,
-passe à côté de Bagdad, traverse la Mésopotamie en passant près de Ur en Chaldée, puis à côté
-de Bassora et débouche enfin dans le Golfe Persique. Là, où se trouvait le Paradis, là, où se
-trouvait le berceau de l’humanité, là, où Abraham a vécu, c’est là aussi que se trouvent liés les
-quatre anges de jugement, qui attendent d’être déliés lorsque le tiers de l’humanité devra être
-mis à mort. “… disant au sixième ange qui avait la trompette: Délie les quatre anges qui sont liés
-sur le grand fleuve Euphrate. Et les quatre anges qui étaient préparés pour l’heure et le jour et le
-mois et l’année, furent déliés, afin de tuer le tiers des hommes” (Apocalypse 9.14-15). Là-bas, dans le
-Paradis, Satan a entraîné les premiers hommes sous son influence. C’est là que la tragédie de
-l’humanité a commencé, sous sa domination directe. Dans cette région, le prince de ce monde va
-unir, à la fin, tous les royaumes du Nord et de l’Est, afin de conduire l’attaque contre Israël, au
+   Le terrible événement du 11 septembre 2001 aux Etats-Unis, lorsque des terroristes islamistes tranchèrent la gorge des pilotes et dirigèrent les avions entièrement occupés contre les tours jumelles du World Trade Center à New York, a l’effet d’un signal d’avertissement. Le désir du Président américain est de prendre toutes les nations dans «son bateau» pour sa lutte contre le terrorisme. Ainsi une étrange constellation prend forme, certain se ralliant spontanément, d’autre sous la contrainte politique, c’est-à-dire sous la «pression exercée à cause du pétrole». Puisque c’est le temps de la fin, là aussi nous devons consulter les prophéties du temps de la fin qui s’y rapportent, car en elles se trouvent décrit à l’avance le cours des événements et de l’histoire. En ce qui concerne l’Irak, l’Euphrate est citée, laquelle prend sa source en Turquie, arrose tout l’Irak, passe à côté de Bagdad, traverse la Mésopotamie en passant près de Ur en Chaldée, puis à côté de Bassora et débouche enfin dans le Golfe Persique. Là, où se trouvait le Paradis, là, où se trouvait le berceau de l’humanité, là, où Abraham a vécu, c’est là aussi que se trouvent liés les quatre anges de jugement, qui attendent d’être déliés lorsque le tiers de l’humanité devra être mis à mort. “… disant au sixième ange qui avait la trompette: Délie les quatre anges qui sont liés sur le grand fleuve Euphrate. Et les quatre anges qui étaient préparés pour l’heure et le jour et le mois et l’année, furent déliés, afin de tuer le tiers des hommes” (Apocalypse 9.14-15). Là-bas, dans le Paradis, Satan a entraîné les premiers hommes sous son influence. C’est là que la tragédie de l’humanité a commencé, sous sa domination directe. Dans cette région, le prince de ce monde va unir, à la fin, tous les royaumes du Nord et de l’Est, afin de conduire l’attaque contre Israël, au
 
         http://www.cmpp.ch
 
     LES 70 SEMAINES DE DANIEL…    16
-cours de laquelle le monde sera embrasé — particulièrement les Etats-Unis d’Amérique qui se
-tiennent aux côtés d’Israël.
-   Dans la politique mondiale, il s’agit encore une fois principalement d’Israël. Il s’agit de
-Jérusalem, du Mont du Temple, de Morija où Abraham offrit Isaac en sacrifice (Genèse 22), de l’aire
-au milieu des monts de Morija que David acheta du Jébusien Ornan pour 600 sicles d’or et sur
-lequel Salomon bâtit le Temple (2 Chroniques 3.1).
-   Celui qui reçoit des lettres d’Irak voit sur le timbre poste le Président irakien, une arme à la
-main, posté devant le Dôme du Rocher sur l’esplanade du Temple à Jérusalem. En dépit de ce
-que peuvent entreprendre les Etats-Unis, l’ONU ou l’EU, le Mont du Temple et Israël demeurent
-jusqu’à la fin la pomme de discorde. Même les prières faites dans de bonnes intentions par les
-croyants bibliques ne changent rien au plan des temps de la fin arrêté par Dieu. Ce n’est qu’au
-dernier moment, et même lors du nouveau commencement, que s’accomplira cette parole: “Et il
-arrivera, à la fin des jours, que la montagne de la maison de l’Eternel sera établie sur le sommet
-des montagnes, et sera élevée au-dessus des collines” (Michée 4.1a). Mais si la préparation de la
-grande tragédie, qui aura lieu après l’enlèvement de l’Epouse, est déjà pleinement en cours,
-combien proche doit être l’enlèvement de l’Eglise-Epouse! C’est pourquoi notre préparation doit
-être le commandement de l’heure, “afin que vous soyez estimés dignes d’échapper à toutes
-ces choses qui doivent arriver…” et cela devrait être notre souhait et notre prière (Luc 21.36).
-   Lorsque nous observons tout ce qui se passe maintenant en Europe, en Israël et dans le
-monde entier, on peut sans cesse dire et répéter, en gardant l’oeil sur l’accomplissement des
-prophéties bibliques: “Aujourd’hui cette Ecriture est accomplie devant vos yeux!”. Parmi les
-croyants bibliques qui ont véritablement reconnu le temps et l’heure, le cri «Maranatha, viens
-bientôt!», devrait retentir toujours plus fort.
+cours de laquelle le monde sera embrasé — particulièrement les Etats-Unis d’Amérique qui se tiennent aux côtés d’Israël.
+   Dans la politique mondiale, il s’agit encore une fois principalement d’Israël. Il s’agit de Jérusalem, du Mont du Temple, de Morija où Abraham offrit Isaac en sacrifice (Genèse 22), de l’aire au milieu des monts de Morija que David acheta du Jébusien Ornan pour 600 sicles d’or et sur lequel Salomon bâtit le Temple (2 Chroniques 3.1).
+   Celui qui reçoit des lettres d’Irak voit sur le timbre poste le Président irakien, une arme à la main, posté devant le Dôme du Rocher sur l’esplanade du Temple à Jérusalem. En dépit de ce que peuvent entreprendre les Etats-Unis, l’ONU ou l’EU, le Mont du Temple et Israël demeurent jusqu’à la fin la pomme de discorde. Même les prières faites dans de bonnes intentions par les croyants bibliques ne changent rien au plan des temps de la fin arrêté par Dieu. Ce n’est qu’au dernier moment, et même lors du nouveau commencement, que s’accomplira cette parole: “Et il arrivera, à la fin des jours, que la montagne de la maison de l’Eternel sera établie sur le sommet des montagnes, et sera élevée au-dessus des collines” (Michée 4.1a). Mais si la préparation de la grande tragédie, qui aura lieu après l’enlèvement de l’Epouse, est déjà pleinement en cours, combien proche doit être l’enlèvement de l’Eglise-Epouse! C’est pourquoi notre préparation doit être le commandement de l’heure, “afin que vous soyez estimés dignes d’échapper à toutes ces choses qui doivent arriver…” et cela devrait être notre souhait et notre prière (Luc 21.36).
+   Lorsque nous observons tout ce qui se passe maintenant en Europe, en Israël et dans le monde entier, on peut sans cesse dire et répéter, en gardant l’oeil sur l’accomplissement des prophéties bibliques: “Aujourd’hui cette Ecriture est accomplie devant vos yeux!”. Parmi les croyants bibliques qui ont véritablement reconnu le temps et l’heure, le cri «Maranatha, viens bientôt!», devrait retentir toujours plus fort.
 
 
 

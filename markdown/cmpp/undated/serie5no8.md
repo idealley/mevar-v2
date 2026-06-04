@@ -1,37 +1,101 @@
-    SERIE 5, N° 8
+---
+source: "cmpp"
+sermon_id: "serie5no8"
+title: "Christ est révélé dans Sa propre Parole"
+subtitle: "22 août 1965, matin"
+date: "1965-08-22"
+year: 1965
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la révélation de Christ dans Sa Parole, expliquant que la Bible est l'absolu de Dieu, non un livre de systèmes ou de morale, mais la révélation de Jésus-Christ. Il souligne l'unité de Christ et de la Parole, la prédestination des croyants en Dieu dès le commencement, et la nécessité d'un absolu dans la vie chrétienne."
+tags:
+  - "révélation"
+  - "Parole de Dieu"
+  - "absolu"
+  - "prédestination"
+  - "Bible"
+  - "Jésus-Christ"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Moïse"
+  - "Jérémie"
+  - "Ésaïe"
+  - "Élie"
+  - "Malachie"
+  - "Pierre"
+  - "Paul"
+  - "Jean"
+  - "George Washington"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Tucson"
+  - "Prescott"
+  - "Arizona"
+  - "Clarksville"
+  - "New-Albany"
+  - "Louisville"
+  - "Arabie"
+  - "Patmos"
+themes:
+  - "révélation de Christ"
+  - "autorité de la Bible"
+  - "absolu"
+  - "prédestination"
+  - "amour de Dieu"
+  - "prière"
+  - "jugement"
+  - "science et foi"
+pdf_url: "http://cmpp.ch/serie5no8.pdf"
+llm_cleaned: true
+bible_refs:
+  - "2 Pierre 1"
+  - "2 Timothée 3"
+  - "Apocalypse 1"
+  - "Apocalypse 10"
+  - "Apocalypse 22"
+  - "Esther 102"
+  - "Galates 1"
+  - "Hébreux 1"
+  - "Hébreux 13"
+  - "Hébreux 4"
+  - "Jean 1"
+  - "Jean 14"
+  - "Jean 15"
+  - "Jérémie 1"
+  - "Luc 17"
+  - "Malachie 4"
+  - "Ésaïe 53:1"
+---
+SERIE 5, N° 8
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-       CHRIST EST REVELE DANS
-          SA PROPRE PAROLE
+   CHRIST EST REVELE DANS
+      SA PROPRE PAROLE
 (Christ is revealed in his own word)
 
 
 
-
-
-      22 août 1965, matin
-       Branham Tabernacle
+  22 août 1965, matin
+   Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    CHRIST EST REVELE DANS SA PROPRE PAROLE    2
+CHRIST EST REVELE DANS SA PROPRE PAROLE    2
 
 Christ est révélé dans Sa propre Parole
   (Christ is revealed in his own word)
 
-           22 août1965, matin
+          22 août1965, matin
            Branham Tabernacle
     Jeffersonville — Indiana, U.S.A.
 
@@ -544,7 +608,7 @@ au sujet de sa famille et de ce qu’il devrait faire. Puis il est sorti et s’
 
         http://www.cmpp.ch
 
-    CHRIST EST REVELE DANS SA PROPRE PAROLE    11
+CHRIST EST REVELE DANS SA PROPRE PAROLE    11
 quelques minutes, un autre homme est venu devant moi comme cela mais il avait la tête inclinée.
 Je n’arrivais pas à comprendre et je l’ai regardé encore une fois, mais ce n’était pas lui, car il y
 avait quelque chose de différent. Et je n’arrivais pas à retrouver l’autre homme. J’ai regardé autour
@@ -600,7 +664,6 @@ moitié et le Nouveau Testament en est l’autre moitié. Mettez-les ensemble et
 l’entière révélation de Jésus-Christ. Là, le prophète parle, et ici Il est Lui-même en
 Personne. Vous voyez? Deux moitiés, un tout.
 
-
     http://www.cmpp.ch
 
     CHRIST EST REVELE DANS SA PROPRE PAROLE    12
@@ -635,9 +698,9 @@ qui dit: “Tu n’auras pas d’autre dieu devant Moi”. Très bien. Cela fera
 un tas d’adorateurs païens adorant trois dieux différents. Vous voyez quelle sorte de Bible vous
 auriez? A ce moment-là, cela ferait de nous ce que les Juifs disent que nous sommes. Ils disent:
 «Lequel de vos dieux est votre dieu?». Vous voyez? Vous ne devez donc pas mal interpréter la
-Bible, car Jésus Lui-même est l’interprétation de la Bible puisque cette partie de Son Corps a
-été manifesté en cet âge. S’il s’agit de l’âge de la main, ce doit être une main et il ne peut alors
-pas s’agir de l’âge de la tête. S’il s’agit de l’âge de la voix, alors il ne peut pas s’agir de l’âge du
+Bible, car Jésus Lui-même est l’interprétation de la Bible puisque cette partie de Son Corps
+a été manifesté en cet âge. S’il s’agit de l’âge de la main, ce doit être une main et il ne peut
+alors pas s’agir de l’âge de la tête. S’il s’agit de l’âge de la voix, alors il ne peut pas s’agir de l’âge du
 pied. Vous voyez? Et maintenant, nous en sommes à l’âge des yeux. Et ensuite ce sera Lui-
 même qui viendra. Vous voyez comme c’est prophétique.
 77 Vous voyez, il nous faut remonter jusqu’à l’âge du commencement, lors de la fondation, cet
@@ -703,7 +766,7 @@ tous les autres qui sont sortis de cette grande Réformation.
 85 Puis est venu Wesley; ce fut un autre âge qui s’est épanoui en un épi. Il y eut donc Wesley,
 Atterbury, Jean et son frère et tous les autres; c’étaient de grands hommes de Dieu dont le
 message balaya littéralement le pays. Puis les gens s’organisèrent et cela mourut. Puis on
-eut l’impression qu’une graine allait de nouveau jaillir, et en fin de compte, ce fut la balle, la
+eût l’impression qu’une graine allait de nouveau jaillir, et en fin de compte, ce fut la balle, la
 Pentecôte. Mais derrière tout cela se trouvait un petit bourgeon. Et remarquez qu’habituellement…
 Je crois qu’environ trois ou quatre ans après que Luther ait été dans le champ de mission, l’église
 luthérienne s’est organisée. Peu de temps après que Wesley soit sorti du champ de mission,
@@ -900,7 +963,7 @@ observer le Corps se constituer pour en revenir à la forme de l’Epouse. Très
 109 Les croyants croient cela, tout comme Abraham considérait les choses qui étaient contraires
 à cela comme si elle n’existaient pas.
 110 La Parole discerne également les secrets des coeurs. Dans Hébreux 4.12, il est écrit qu’Elle
-discerne les secrets des coeurs.
+discerné les secrets des coeurs.
 111 Les prophètes ne comprenaient pas toujours ce qu’ils écrivaient ou ce qu’ils disaient;
 autrement, ils n’auraient pas dit ces choses s’ils les avaient comprises. Vous voyez? Mais la Bible
 a dit qu’ils étaient mus par le Saint-Esprit. Mus! Lorsque le Saint-Esprit vous met en mouvement,
@@ -1502,14 +1565,3 @@ pouvez venir ici, frère Vayle…
      Notre frère Vayle ici écrit des livres. Et un de ses livres est prêt. C’est “Les sept Ages de
 l’Eglise”. Et il est en train de travailler sur “Les sept Sceaux”. Nous espérons les avoir très bientôt.
 Très bien. Frère Lee Vayle, que Dieu vous bénisse.
-
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch

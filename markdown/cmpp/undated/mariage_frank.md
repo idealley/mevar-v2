@@ -1,287 +1,158 @@
-LE MARIAGE:
-
-PROBLEME ANCIEN
-
-
-
-
-
-
-
-
+---
+source: "cmpp"
+sermon_id: "mariage_frank"
+title: "LE MARIAGE: PROBLEME ANCIEN"
+location: "Krefeld"
+preacher: "Ewald Frank"
+summary: "Un exposé biblique sur le mariage et le divorce, basé sur la prédication de William Branham du 21 février 1965. L'auteur examine les enseignements de l'Ancien et du Nouveau Testament, soulignant l'importance de la révélation divine et de l'obéissance à la Parole de Dieu. Il aborde les origines du mariage dans la Genèse, la chute d'Adam et Ève, et les implications pour les croyants d'aujourd'hui."
+tags:
+  - "mariage"
+  - "divorce"
+  - "William Branham"
+  - "révélation"
+  - "obéissance"
+  - "Genèse"
+  - "adultère"
+persons:
+  - "Ewald Frank"
+  - "William Branham"
+  - "Adam"
+  - "Ève"
+  - "Satan"
+  - "Jésus-Christ"
+  - "Paul"
+  - "Michée"
+  - "Achab"
+  - "Josaphat"
+  - "Sédécias"
+  - "Moïse"
+  - "Eusèbe"
+  - "Athanase"
+places:
+  - "Krefeld"
+  - "Jeffersonville"
+  - "Israël"
+themes:
+  - "mariage et divorce"
+  - "révélation prophétique"
+  - "obéissance à la Parole"
+  - "chute et rédemption"
+  - "rôle de l'homme et de la femme"
+  - "autorité de l'Écriture"
+  - "derniers temps"
+pdf_url: "http://cmpp.ch/mariage_frank.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 14"
+  - "1 Corinthiens 5"
+  - "1 Corinthiens 6"
+  - "1 Corinthiens 7"
+  - "1 Corinthiens 9"
+  - "1 Jean 3"
+  - "1 Timothée 2"
+  - "1 Timothée 3"
+  - "1 Timothée 5"
+  - "2 Chroniques 18"
+  - "2 Corinthiens 2"
+  - "2 Corinthiens 6"
+  - "2 Samuel 12:25"
+  - "2 Timothée 3"
+  - "Actes 16"
+  - "Actes 2"
+  - "Actes 28"
+  - "Actes 3:19-21"
+  - "Aggée 2"
+  - "Amos 3"
+  - "Apocalypse 10"
+  - "Apocalypse 2"
+  - "Cantique des cantiques 8"
+  - "Colossiens 4:16"
+  - "Deutéronome 22"
+  - "Deutéronome 24"
+  - "Deutéronome 27"
+  - "Ecclésiaste 9"
+  - "Esther 1"
+  - "Exode 21"
+  - "Galates 1"
+  - "Genèse 1"
+  - "Genèse 18"
+  - "Genèse 2"
+  - "Genèse 20"
+  - "Genèse 26"
+  - "Genèse 3"
+  - "Hébreux 12"
+  - "Hébreux 13"
+  - "Hébreux 2"
+  - "Jacques 2"
+  - "Jacques 5"
+  - "Jean 13"
+  - "Jean 17"
+  - "Jean 3"
+  - "Jean 7"
+  - "Jean 8"
+  - "Jude 14:15"
+---
+LE MARIAGE: PROBLEME ANCIEN
 
 “… jusqu'à ce que la mort vous sépare?”
 
-
-
-
-
-
-
-
-
-
 “Ce que Dieu a uni!… ”
 
-
-
-
-
-
-
-
-
-
 Un exposé du point de vue biblique
-
 
 par
 
 Ewald FRANK
 
-LE MARIAGE: PROBLEME ANCIEN 2
+## INTRODUCTION
 
-        INTRODUCTION
-   A cause de certains événements, il est devenu nécessaire, comme le dit Paul à l’Eglise de
-Corinthe, de répondre aux questions “… au sujet desquelles vous m’avez écrit”. Le thème tout
-particulier du mariage doit donc être encore une fois éclairé à fond.
-   Comme au sujet de toutes les autres doctrines: les sortir du domaine des discussions et les
-exposer par de claires déclarations bibliques, en les plaçant au-dessus de tout doute; ainsi en
-sera-t-il, avec l’aide de Dieu, pour ce thème très compliqué mais si important aussi longtemps que
-nous vivrons sur la terre. Etant donné que les crises surgissant entre couples sont aussi
-anciennes que le mariage même, elles ont préoccupé les gens du temps de Moïse, du temps de
-notre Seigneur et des apôtres, et de tous les temps. Mais ceci se rapporte tout spécialement au
-temps présent. Nous trouvons les réponses à toutes les questions et problèmes reliés à ce sujet
-dans les Saintes Ecritures. Il n’y a malheureusement pas de chapitre où les questions et réponses
-sur ce thème complexe seraient rassemblées et traitées entièrement, comme nous le désirerions.
-Les passages traitant de cela, comme pour d’autres thèmes, sont dispersés et ne forment
-quelquefois qu’une partie des réponses ici et là; ils doivent donc être cherchés pour pouvoir être
-mis ensemble.
-   Nous vivons dans la dernière période de l’Eglise, dans laquelle, par la révélation de l’Esprit, tout
-a été révélé et doit être ramené à l’état originel, dans l’ordre divin. Notre Père céleste se soucie du
-bien-être des Siens, et sur ce thème Il ne nous a pas laissé dans l’incertitude. Il sait combien de
-coeurs sont dans la peine à cause du manque de paix dans les familles, et parce qu’Il veut en
-préserver Ses enfants pour qu’ils puissent Le servir d’un cœ ur joyeux et d’une âme légère, Il a
-également donné des indications dans ce domaine, comme un bon Père.
-   La prédication “Mariage et Divorce”, que William Branham a donnée le 21 février 1965, est en
-relation avec les Saintes Ecritures et constitue le fondement de cette publication. Comme Paul au
-commencement, il a reçu directement du Seigneur la charge d’exposer, conformément aux
-Ecritures, le thème du “Mariage et Divorce”. Selon ses propres paroles, le contexte de ce thème
-lui fut donné avec les passages bibliques s’y rapportant. Il insista, disant que cette révélation qu’il
-devait apporter à l’Eglise faisait partie intégrante des “mystères” qui avaient été révélés lors de
-l’ouverture des Sceaux. Comme on le sait, une “révélation” est quelque chose que l’on ne
-connaissait pas auparavant. Cependant William Branham a hésité à exposer ce thème, parce qu’il
-craignait d’être mal compris, et même éventuellement de provoquer des séparations et d’autres
-choses. Dans sa prédication Le troisième Exode du 30 juin 1963, il dit à plusieurs reprises que
-quelque chose lui parla. Citation: «Enregistre cette prédication sur le mariage et le divorce. Vous
-voyez? Si le Seigneur le permet, si cela reste ainsi sur mon cœ ur, et si le Seigneur me montre
-encore quelque chose de plus sur ce sujet, je pense que je ferai cet enregistrement». Il ajouta
-même: «Ils pourraient faire entendre cette bande au juge de paix et aux magistrats afin qu’ils
-sachent ce que le Seigneur dit au sujet du mariage et du divorce». [Série 3, N° 3, p.5]
-   Ce n’est qu’après que le Seigneur lui eut commandé d’aller à nouveau dans les montagnes, où
-une fois de plus le Seigneur descendit dans la nuée surnaturelle et lui parla du mariage et du
-divorce, qu’il apporta à son église de Jeffersonville le message qui lui avait été révélé. Citation:
-«Quelque chose me dit: ‹Va dans la montagne et je te parlerai,›… Toute la ville le regarda: C’était
-une journée radieuse où il n’y avait aucun nuage, à part ce grand nuage de couleur ambrée
-suspendu là et ayant la forme d’un entonnoir, puis remontant et s’étalant. Chers amis, c’est à ce
-moment-là que me fut révélé ce que je vais vous dire maintenant même, c’est pourquoi ne le
-manquez pas» [Mariage et Divorce p. 40, § 252-258]
-   Aujourd’hui se renouvelle ce qui s’est toujours passé: On aimerait volontiers entendre un
-prophète, mais en même temps on s’attend à ce qu’il dise ce que nos oreilles sont habituées à
-entendre, c’est-à-dire tout ce que les autres ont déjà enseigné. Une idée professée depuis
-longtemps ou une idée qui semble appropriée et être très religieuse peut cependant être
-profondément non biblique. Les 400 hommes se trouvant sous l’esprit de mensonge, du temps
-d’Achab, étaient des prophètes reconnus, de vrais prophètes de l’Assemblée d’Israël. Par contre
-Michée était “un prophète de Dieu”. Cela fait une différence énorme. Notre Seigneur Jésus a
-prédit que dans les derniers temps se lèveraient beaucoup de faux prophètes. Mais Il a aussi
+A cause de certains événements, il est devenu nécessaire, comme le dit Paul à l’Eglise de Corinthe, de répondre aux questions “… au sujet desquelles vous m’avez écrit”. Le thème tout particulier du mariage doit donc être encore une fois éclairé à fond.
 
-        http://www.cmpp.ch
+Comme au sujet de toutes les autres doctrines: les sortir du domaine des discussions et les exposer par de claires déclarations bibliques, en les plaçant au-dessus de tout doute; ainsi en sera-t-il, avec l’aide de Dieu, pour ce thème très compliqué mais si important aussi longtemps que nous vivrons sur la terre. Etant donné que les crises surgissant entre couples sont aussi anciennes que le mariage même, elles ont préoccupé les gens du temps de Moïse, du temps de notre Seigneur et des apôtres, et de tous les temps. Mais ceci se rapporte tout spécialement au temps présent. Nous trouvons les réponses à toutes les questions et problèmes reliés à ce sujet dans les Saintes Ecritures. Il n’y a malheureusement pas de chapitre où les questions et réponses sur ce thème complexe seraient rassemblées et traitées entièrement, comme nous le désirerions. Les passages traitant de cela, comme pour d’autres thèmes, sont dispersés et ne forment quelquefois qu’une partie des réponses ici et là; ils doivent donc être cherchés pour pouvoir être mis ensemble.
 
-LE MARIAGE: PROBLEME ANCIEN 3
-confirmé ce qui est promis dans le prophète Malachie, qu’un “prophète Elie”viendrait pour rétablir
-toutes choses (Mat. 17.11; Actes 3:19-21), avant que le grand et terrible jour de l’Eternel n’arrive.
-La Parole est toujours venue aux prophètes, et ceux-ci pouvaient rendre témoignage du jour, du
-mois et de l’année où ils L’avaient reçue (Aggée 2. 1,10,18 et autres). Ce qui est écrit est encore
-valable aujourd’hui: “Or le Seigneur, l’Eternel, ne fera rien, qu’il ne révèle son secret à ses
-serviteurs les prophètes”(Amos 3.7; Apocalypse 10.7, et autres).
-   Le messager venu appeler Michée , dit au serviteur envoyé par Dieu: “… que ta parole donc,
-soit, je te prie, comme celle de l’un d’eux, et annonce du bien”(2 Chroniques 18.12,13). Car Sédécias, le
-prophète principal au milieu d’eux, s’était fait des cornes de fer, il avait prophétisé puissamment et
-s’était écrié: “Ainsi dit l’Eternel!” (v. 10). Mais ce n’était pas “Ainsi dit l’Eternel des armées”, mais
-bien “Ainsi dit Sédécias”. Lorsque tout d’abord l’homme de Dieu commença par dire ce que tous
-les autres avaient dit, même Achab, le roi apostat, reconnut que quelque chose sonnait faux et il
-commanda, et même conjura le prophète “… de ne me dire que la vérité au nom de l’Eternel”
-(v. 15). Là-dessus Michée prononça devant les deux rois, Josaphat et Achab, la révélation qui lui
-avait été donnée. Car, bien qu’ayant entendu les 400 prophètes, Josaphat demanda s’il n’y en
-avait pas encore “un autre”par lequel Dieu ait parlé. La révélation disait: “C’est pourquoi écoutez
-la parole de l’Eternel. J’ai vu l’Eternel assis sur son trône , et toute l’armée des cieux se tenant à
-sa droite et à sa gauche… ”(v. 18).
-   Seul Michée avait la Parole de l’Eternel, le vrai Esprit de Dieu, et le AINSI DIT L’ETERNEL; les
-autres prophètes avaient un esprit de mensonge, relié à une opinion religieuse. Tant qu’un
-homme prétendument “envoyé par Dieu” publie la même chose que ce que disent, ou ont dit tous
-les autres, Dieu n’a pas parlé par lui. Ce n’est que lorsqu’il fait connaître la révélation reçue de
-Dieu, laquelle se différencie toujours de l’enseignement général et traditionnel mais cependant
-est toujours en accord avec le témoignage des Saintes Ecritures, alors c’est l’Eternel qui a parlé.
-   Frère Branham avait les passages bibliques correspondants que le Seigneur lui avait montrés,
-et il les donnait chaque fois dans le contexte juste, montrant les rapports existants; c’est pourquoi
-les observateurs négligeants l’appelaient “un prophète demeuré pris dans l’Ancien Testament”.
-Mais malgré les comparaisons tirées de l’Ancien Testament, sa prédication était clairement dirigée
-vers l’Eglise du Seigneur de ces derniers temps. Le Dieu de l’Ancien Testament est cependant
-encore et toujours le Dieu du Nouveau Testament. Il est toujours le même, hier, aujourd’hui et
-éternellement, et cette Parole demeure: “Toute écriture est inspirée de Dieu, et utile pour
-enseigner, pour convaincre, pour corriger, pour instruire… ”(2 Timothée 3.16).
-   Lorsqu’il est dit dans le Nouveau Testament: “Comme le dit l’écriture… ” ou “Comme il est
-écrit… ” ou “Afin que s’accomplisse tout ce qui est écrit… ”, c’est toujours de l’Ancien Testament
-dont il est question. En effet le Nouveau Testament n’était qu’en gestation. Pendant les deux
-premiers siècles, les évangiles et les épîtres des apôtres furent mis en circulation dans les églises.
-Paul mentionne ceci dans son épître aux Colossiens: “Et quand la lettre aura été lue parmi vous,
-faites qu’elle soit lue aussi dans l’assemblée des Laodicéens, et vous aussi lisez celle qui viendra
-de Laodicée”(Colossiens 4:16).
-   Ce n’est qu’à la fin du troisième et au commencement du quatrième siècle qu’Eusèbe et
-Athanase rassemblèrent ces écrits en un seul livre, que nous connaissons sous le nom de
-“Nouvau Testament”, lequel est désigné comme canon, ce qui veut dire “norme” ou “règle”. Tant
-les prédications du Seigneur que celles des apôtres ne résultaient à l’origine uniquement que des
-textes de l’Ancien Testament. “Et il leur dit: Ce sont ici les paroles que je vous disais quand j’étais
-encore avec vous, qu’il fallait que toutes les choses qui sont écrites de moi dans la loi de Moïse, et
-dans les prophètes, et dans les psaumes, fussent accomplies. Alors il leur ouvrit l’intelligence pour
-entendre les écritures” (Luc 24.44,45). Notre Seigneur s’écria dans Jean 7.38: “Celui qui croit en
-moi selon ce que dit l’écriture… ”. Luc rend témoignage que Paul “… leur exposait la vérité, en
-rendant témoignage du royaume de Dieu, depuis le matin jusqu’au soir, cherchant à les persuader
-des choses concernant Jésus, et par la loi de Moïse et par les prophètes”(Actes 28.23). Depuis
-Matthieu 1 et dans tous les évangiles, comme avant l’événement de Pentecôte, et naturellement le
-jour de Pentecôte (Actes 2), comme lors de chaque pas fait en avant dans l’histoire du salut, ou
-dans chaque enseignement biblique des épîtres des apôtres et cela jusqu'à celui de Jude, les
-passages correspondants de l’Ancien Testament ont été cités.
+Nous vivons dans la dernière période de l’Eglise, dans laquelle, par la révélation de l’Esprit, tout a été révélé et doit être ramené à l’état originel, dans l’ordre divin. Notre Père céleste se soucie du bien-être des Siens, et sur ce thème Il ne nous a pas laissé dans l’incertitude. Il sait combien de coeurs sont dans la peine à cause du manque de paix dans les familles, et parce qu’Il veut en préserver Ses enfants pour qu’ils puissent Le servir d’un coeur joyeux et d’une âme légère, Il a également donné des indications dans ce domaine, comme un bon Père.
 
+La prédication “Mariage et Divorce”, que William Branham a donnée le 21 février 1965, est en relation avec les Saintes Ecritures et constitue le fondement de cette publication. Comme Paul au commencement, il a reçu directement du Seigneur la charge d’exposer, conformément aux Ecritures, le thème du “Mariage et Divorce”. Selon ses propres paroles, le contexte de ce thème lui fut donné avec les passages bibliques s’y rapportant. Il insista, disant que cette révélation qu’il devait apporter à l’Eglise faisait partie intégrante des “mystères” qui avaient été révélés lors de l’ouverture des Sceaux. Comme on le sait, une “révélation” est quelque chose que l’on ne connaissait pas auparavant. Cependant William Branham a hésité à exposer ce thème, parce qu’il craignait d’être mal compris, et même éventuellement de provoquer des séparations et d’autres choses. Dans sa prédication Le troisième Exode du 30 juin 1963, il dit à plusieurs reprises que quelque chose lui parla. Citation: «Enregistre cette prédication sur le mariage et le divorce. Vous voyez? Si le Seigneur le permet, si cela reste ainsi sur mon coeur, et si le Seigneur me montre encore quelque chose de plus sur ce sujet, je pense que je ferai cet enregistrement». Il ajouta même: «Ils pourraient faire entendre cette bande au juge de paix et aux magistrats afin qu’ils sachent ce que le Seigneur dit au sujet du mariage et du divorce». [Série 3, N° 3, p.5]
 
-    http://www.cmpp.ch
+Ce n’est qu’après que le Seigneur lui eut commandé d’aller à nouveau dans les montagnes, où une fois de plus le Seigneur descendit dans la nuée surnaturelle et lui parla du mariage et du divorce, qu’il apporta à son église de Jeffersonville le message qui lui avait été révélé. Citation: «Quelque chose me dit: ‹Va dans la montagne et je te parlerai,›… Toute la ville le regarda: C’était une journée radieuse où il n’y avait aucun nuage, à part ce grand nuage de couleur ambrée suspendu là et ayant la forme d’un entonnoir, puis remontant et s’étalant. Chers amis, c’est à ce moment-là que me fut révélé ce que je vais vous dire maintenant même, c’est pourquoi ne le manquez pas» [Mariage et Divorce p. 40, § 252-258]
 
-    LE MARIAGE: PROBLEME ANCIEN                                                                          4
-         Les doctrines non reliées à la loi de Dieu sont les doctrines de “l’inique”, comme le dit Paul au
-          chapitre 2 de 2 Thessaloniciens. Dieu est lié à Sa Parole pour toujours, et Il lie également les
-      Siens à cette Parole afin qu’ils expérimentent réellement la liberté. Ceci convient tout à fait à la
-                prédication du Nouveau Testament, et le fait que frère Branham emploie des exemples que le
-            Seigneur Lui-même a donné et qui viennent de la vie pratique de l’Ancien Testament, est tout à
-         fait caractéristique. “Afin que l’homme de Dieu soit accompli et parfaitement accompli pour toute
-    bonne oeuvre”(2 Timothée 3.17).
-              Une doctrine ne peut être “biblique” que lorsque les deux, l’Ancien et le Nouveau Testament,
-            sont pris en considération et amenés à l’harmonie. C’est pour cette raison que les confessions
-              chrétiennes sont sur le chemin de l’erreur, parce qu’elles se sont détachées du fondement de
-               l’Ancien Testament. Dans sa prédication “Mariage et Divorce”, l’homme de Dieu nous surprend
-              sans cesse par ses comparaisons inhabituelles qu’il n’aurait, comme nous le savons tous, pas
-    utilisées de lui-même. Dans l’humilité qui lui avait été donnée, il dit: “Parce que c’est une question
-      biblique, il doit y avoir aussi une réponse biblique”. Cependant, les réponses bibliques qu’il donne
-              ne conviennent pas à la représentation moderne que nous en avons. L’esprit de ce temps règne
-     partout sous la bannière de l’égalité. La pleine émancipation est “à la mode”, et malheur à celui qui
-    se réclame des déclarations de la Bible qu’il appelle “vieux jeu et dépassées”.
+Aujourd’hui se renouvelle ce qui s’est toujours passé: On aimerait volontiers entendre un prophète, mais en même temps on s’attend à ce qu’il dise ce que nos oreilles sont habituées à entendre, c’est-à-dire tout ce que les autres ont déjà enseigné. Une idée professée depuis longtemps ou une idée qui semble appropriée et être très religieuse peut cependant être profondément non biblique. Les 400 hommes se trouvant sous l’esprit de mensonge, du temps d’Achab, étaient des prophètes reconnus, de vrais prophètes de l’Assemblée d’Israël. Par contre Michée était “un prophète de Dieu”. Cela fait une différence énorme. Notre Seigneur Jésus a prédit que dans les derniers temps se lèveraient beaucoup de faux prophètes. Mais Il a aussi confirmé ce qui est promis dans le prophète Malachie, qu’un “prophète Elie” viendrait pour rétablir toutes choses (Mat. 17.11; Actes 3:19-21), avant que le grand et terrible jour de l’Eternel n’arrive. La Parole est toujours venue aux prophètes, et ceux-ci pouvaient rendre témoignage du jour, du mois et de l’année où ils L’avaient reçue (Aggée 2. 1,10,18 et autres). Ce qui est écrit est encore valable aujourd’hui: “Or le Seigneur, l’Eternel, ne fera rien, qu’il ne révèle son secret à ses serviteurs les prophètes” (Amos 3.7; Apocalypse 10.7, et autres).
 
-        RECU DU SEIGNEUR
+Le messager venu appeler Michée, dit au serviteur envoyé par Dieu: “… que ta parole donc, soit, je te prie, comme celle de l’un d’eux, et annonce du bien” (2 Chroniques 18.12,13). Car Sédécias, le prophète principal au milieu d’eux, s’était fait des cornes de fer, il avait prophétisé puissamment et s’était écrié: “Ainsi dit l’Eternel!” (v. 10). Mais ce n’était pas “Ainsi dit l’Eternel des armées”, mais bien “Ainsi dit Sédécias”. Lorsque tout d’abord l’homme de Dieu commença par dire ce que tous les autres avaient dit, même Achab, le roi apostat, reconnut que quelque chose sonnait faux et il commanda, et même conjura le prophète “… de ne me dire que la vérité au nom de l’Eternel” (v. 15). Là-dessus Michée prononça devant les deux rois, Josaphat et Achab, la révélation qui lui avait été donnée. Car, bien qu’ayant entendu les 400 prophètes, Josaphat demanda s’il n’y en avait pas encore “un autre” par lequel Dieu ait parlé. La révélation disait: “C’est pourquoi écoutez la parole de l’Eternel. J’ai vu l’Eternel assis sur son trône, et toute l’armée des cieux se tenant à sa droite et à sa gauche… ” (v. 18).
 
-   Dans l’introduction de sa prédication frère Branham mentionne (p.5, § 25) 10’000 cas dans
-lesquels quelque chose lui a été révélé et annoncé à l’avance, des choses qui se sont toutes
-accomplies. Il laissa son Assemblée, qui avait entendu de ses oreilles et vu ces choses de ses
-propres yeux pendant toutes ces années, confirmer cela par un puissant “Amen!”. Ensuite il
-montra que les deux pensées doctrinales qui prévalent, lesquelles sont tout à fait opposées l’une
-à l’autre, sont fausses du point de vue biblique, bien qu’elles soient partout prêchées et crues.
-Citation: «Si c’est ainsi, nous avons deux écoles de pensée au sujet du mariage et du divorce.
-L’une dit qu’un homme ne peut être marié qu’une seule fois, à moins que sa femme ne soit morte.
-C’est une des questions. Mais si vous suivez cette voie-là vous passez par-dessus bord. L’autre
-dit: “Oh, si le mari ou la femme (l’un ou l’autre) a commis adultère, l’autre peut le répudier et se
-remarier”. Mais dans cette voie aussi vous passez par-dessus bord». (p. 9, § 50).
-   Quelquefois il est déplaisant de faire mention d’événements tout à fait privés, mais Dieu qui se
-soucie de notre bien-être d’une manière si paternelle, le fait aussi pour nos relations entre
-humains, et il a fait écrire pour toujours Ses enseignements, Ses commandements et Ses
-interdictions. Il est Celui qui sait le mieux de quoi nous sommes formés, ce qui est bon pour nous,
-et comment la transgression des lois concernant notre corps se répercutent sur notre vie
-spirituelle. C’est la désobéissance manifestée dans nos actions corporelles, qui finalement
-causera des dommages à notre âme et nous séparera de notre Dieu. C’est pourquoi, pour un
-enfant de Dieu, tout ce qui se trouve dans les Ecritures est obligatoire. En donnant la loi, Dieu a
-placé devant notre choix la vie et la mort, la malédiction et la bénédiction — la vie en suivant Sa
-Parole dans l’obéissance, la mort en la transgressant par la désobéissance. Notre Sauveur, Lui
-qui a pris notre place, a été obéissant même jusqu'à la mort de la croix (Philippiens 2.8), afin de nous
-racheter de la désobéissance d’Adam (Romains 5.19 et autres). Notre Rédempteur dit: “… mais qui
-désobéit au Fils ne verra pas la vie, mais la colère de Dieu demeure sur lui” (Jean 3.36). Pierre
-écrit: “Comme des enfants d’obéissance, ne vous conformant pas à vos convoitises d’autrefois
-… ”(1 Pier. 1.14). Il n’existe que “deux paires de souliers”: l’incrédulité et la désobéissance, et la
-foi et l’obéissance. Quelle paire de souliers portons-nous? Il ne s’agit pas ici de penser aux autres,
-mais bien de nous laisser interpeller tout à fait personnellement par la Parole de Dieu.
-   Tous les passages bibliques se rapportant à une chose doivent être mis ensemble. Celui qui
-prend pour lui-même un seul passage de la Bible, sans considérer les autres, fait violence à la
-Parole de Dieu. Cette Parole n’est pas là pour donner raison à qui que ce soit et encore moins
-pour appuyer notre propre interprétation. Nous vivons pour donner raison à Dieu et nous
-soumettre à chacune de Ses Paroles. Par exemple, celui qui ne discerne pas et ne considère pas
-quelle est la parole adressée à l’homme, et quelle est celle adressée à la femme n’a pas
-réellement compris la chose, ou c’est peut-être parce qu’il ne veut pas du tout le savoir
+Seul Michée avait la Parole de l’Eternel, le vrai Esprit de Dieu, et le AINSI DIT L’ETERNEL; les autres prophètes avaient un esprit de mensonge, relié à une opinion religieuse. Tant qu’un homme prétendument “envoyé par Dieu” publie la même chose que ce que disent, ou ont dit tous les autres, Dieu n’a pas parlé par lui. Ce n’est que lorsqu’il fait connaître la révélation reçue de Dieu, laquelle se différencie toujours de l’enseignement général et traditionnel mais cependant est toujours en accord avec le témoignage des Saintes Ecritures, alors c’est l’Eternel qui a parlé.
 
-                 http://www.cmpp.ch
+Frère Branham avait les passages bibliques correspondants que le Seigneur lui avait montrés, et il les donnait chaque fois dans le contexte juste, montrant les rapports existants; c’est pourquoi les observateurs négligeants l’appelaient “un prophète demeuré pris dans l’Ancien Testament”. Mais malgré les comparaisons tirées de l’Ancien Testament, sa prédication était clairement dirigée vers l’Eglise du Seigneur de ces derniers temps. Le Dieu de l’Ancien Testament est cependant encore et toujours le Dieu du Nouveau Testament. Il est toujours le même, hier, aujourd’hui et éternellement, et cette Parole demeure: “Toute écriture est inspirée de Dieu, et utile pour enseigner, pour convaincre, pour corriger, pour instruire… ” (2 Timothée 3.16).
 
-LE MARIAGE: PROBLEME ANCIEN 5
-correctement. Toutefois, quand Dieu dit “il”, c’est bien à l’homme qu’Il pense, et s’Il dit “elle” il
-s’agit de la femme. Dieu pense toujours ce qu’Il dit, et Il dit ce qu’Il pense.
+Lorsqu’il est dit dans le Nouveau Testament: “Comme le dit l’écriture… ” ou “Comme il est écrit… ” ou “Afin que s’accomplisse tout ce qui est écrit… ”, c’est toujours de l’Ancien Testament dont il est question. En effet le Nouveau Testament n’était qu’en gestation. Pendant les deux premiers siècles, les évangiles et les épîtres des apôtres furent mis en circulation dans les églises. Paul mentionne ceci dans son épître aux Colossiens: “Et quand la lettre aura été lue parmi vous, faites qu’elle soit lue aussi dans l’assemblée des Laodicéens, et vous aussi lisez celle qui viendra de Laodicée” (Colossiens 4:16).
 
-        C’EST AINSI QUE CELA COMMENCA
+Ce n’est qu’à la fin du troisième et au commencement du quatrième siècle qu’Eusèbe et Athanase rassemblèrent ces écrits en un seul livre, que nous connaissons sous le nom de “Nouveau Testament”, lequel est désigné comme canon, ce qui veut dire “norme” ou “règle”. Tant les prédications du Seigneur que celles des apôtres ne résultaient à l’origine uniquement que des textes de l’Ancien Testament. “Et il leur dit: Ce sont ici les paroles que je vous disais quand j’étais encore avec vous, qu’il fallait que toutes les choses qui sont écrites de moi dans la loi de Moïse, et dans les prophètes, et dans les psaumes, fussent accomplies. Alors il leur ouvrit l’intelligence pour entendre les écritures” (Luc 24.44,45). Notre Seigneur s’écria dans Jean 7.38: “Celui qui croit en moi selon ce que dit l’écriture… ”. Luc rend témoignage que Paul “… leur exposait la vérité, en rendant témoignage du royaume de Dieu, depuis le matin jusqu’au soir, cherchant à les persuader des choses concernant Jésus, et par la loi de Moïse et par les prophètes” (Actes 28.23). Depuis Matthieu 1 et dans tous les évangiles, comme avant l’événement de Pentecôte, et naturellement le jour de Pentecôte (Actes 2), comme lors de chaque pas fait en avant dans l’histoire du salut, ou dans chaque enseignement biblique des épîtres des apôtres et cela jusqu'à celui de Jude, les passages correspondants de l’Ancien Testament ont été cités.
 
-   C’est au commencement, c’est-à-dire dans le livre de la Genèse (qui veut dire “origine”,
-“commencement”) que frère Branham va tout d’abord, là ou se trouve l’origine de tout mal, là où
-se trouve la chute dans le péché, et à cela est liée la première désobéissance, la première
-transgression de la Parole, la première séduction, le premier adultère, et ainsi de suite. Le frère
-expose comment Eve était en Adam lors de la création du corps spirituel (Genèse 1), et comment au
-2ème chapitre, par une action ayant eu lieu sur la terre, Eve fut sortie d’Adam et lui fut présentée.
-Ainsi est présenté devant nos yeux depuis le commencement “l’histoire du salut” à l’intérieur de
-l’histoire de l’humanité: L’Epouse de Christ était déjà dans le Sauveur alors qu’Il se trouvait dans
-un corps spirituel, mais Elle ne sortit de Lui que lorsqu’Il apparut dans un corps de chair et
-accomplit la rédemption à la croix de Golgotha.
-   Dans cette prédication frère Branham dit ensuite qu’au commencement il n’y avait dans la
-création “qu’une paire” de chaque genre, c’est-à-dire un mâle et une femelle. Il fait ressortir la
-pensée que la création originelle n’était pas encline au péché et ne pouvait pas être séduite
-(p. 23). C’est la raison pour laquelle l’ennemi s’empara de la femme, qui n’était pas dans la
-création originelle en tant que personne indépendante au côté d’Adam mais qui fut au contraire
-tirée plus tard de lui. Le commandement suivant fut donné par Dieu l’Eternel à Adam, alors qu’Eve
-était encore en lui: “Tu mangeras librement de tout arbre du jardin; mais de l’arbre de la
-connaissance du bien et du mal, tu n’en mangeras pas; car, au jour que tu en mangeras, tu
-mourras certainement” (Genèse 2.16,17). Dieu avait parlé à Adam, mais l’ennemi, lui, choisit Eve
-comme partenaire de conversation, et il l’embrouilla dans des arguments sur “ce que Dieu avait
-dit”. Aujourd’hui encore l’ennemi emploie les même paroles par la bouche de beaucoup de
-personnes: “Dieu aurait-Il pensé cela?” et “Dieu aurait-il réellement dit… ?”, et déjà s’ensuit
-l’altération des Paroles de Dieu. Dieu avait pensé à un arbre particulier dont le fruit ne devait pas
-être mangé, “l’arbre de la connaissance”; l’ennemi, lui, parla de “tous les arbres”. En effet il
-demeura sur le thème, mais non dans la vérité.
-   Lors du premier acte de la création, les deux, mâle et femelle, ne constituaient qu’une forme:
-“Et Dieu créa l’homme à son image; il le créa à l’image de Dieu; il les créa mâle et femelle”
-(Genèse 26-29). Bien que toute la création eut été achevée et estimée très bonne, et que Dieu se
-reposa le septième jour de toute Son œ uvre après avoir béni et sanctifié ce septième jour
-(Genèse 2.1-3), il est dit au chapitre 2.5b: “… et il n’y avait pas d’homme pour travailler le sol… ”.Ce
-ne fut qu’après que son corps de chair ait été formé, qu’Adam put être plongé dans le sommeil et
-qu’Eve put être retirée de lui. Dans ce corps de chair naturel, l’homme pouvait accomplir tous les
-travaux de la terre, mais c’est également dans ce corps qu’il tomba; c’est pourquoi l’Eternel dut
-venir dans ce corps naturel pour nous sortir de la chute du péché et nous racheter. Le Sauveur fut
-rendu semblable en toutes choses à ceux qui devaient être sauvés (Hébreux 2.17), afin que lors de
-l’achèvement ils puissent devenir semblables à Lui (1 Jean 3.2). C’est parce que le premier
-engendrement avait eu lieu par la séduction du serpent que l’humanité engendrée de manière
-charnelle est tombée sous la domination du méchant. Caïn était un fils “du méchant”
-(1 Jean 3.12). Dans le “notre Père” nous prions: “… délivre-nous du malin” (Mat. 6.13b). Le
-Seigneur des Cieux devait venir dans un corps humain par l’engendrement de l’Esprit, afin de
-nous libérer de la chute du péché d’une manière réelle, et nous racheter de la puissance “du
-méchant”.
-   Dès le moment où Eve se laissa entraîner par les arguments du serpent, elle se trouva sous
-l’autorité de Satan. Elle amena ensuite Adam sous la même influence dans laquelle elle se
-trouvait et l’entraîna dans la chute du péché, par la transgression d’un commandement pourtant
-bien clair. Il se trouve que toute femme influençant son mari contre la Parole de Dieu est, comme
-Eve, tombée sous l’inspiration “du méchant”. Il est évident que, comme autrefois, de telles
-discussions se font avec des arguments sur “ce que Dieu a dit”. Dans une telle situation, sans que
-les femmes ne le remarquent, l’ennemi tord la Parole de Dieu dans leur tête et sur leurs lèvres.
-Satan se sert toujours de la Parole de Dieu dans l’intention de tromper; il vint aussi à notre
+Les doctrines non reliées à la loi de Dieu sont les doctrines de “l’inique”, comme le dit Paul au chapitre 2 de 2 Thessaloniciens. Dieu est lié à Sa Parole pour toujours, et Il lie également les Siens à cette Parole afin qu’ils expérimentent réellement la liberté. Ceci convient tout à fait à la prédication du Nouveau Testament, et le fait que frère Branham emploie des exemples que le Seigneur Lui-même a donné et qui viennent de la vie pratique de l’Ancien Testament, est tout à fait caractéristique. “Afin que l’homme de Dieu soit accompli et parfaitement accompli pour toute bonne oeuvre” (2 Timothée 3.17).
 
-        http://www.cmpp.ch
+Une doctrine ne peut être “biblique” que lorsque les deux, l’Ancien et le Nouveau Testament, sont pris en considération et amenés à l’harmonie. C’est pour cette raison que les confessions chrétiennes sont sur le chemin de l’erreur, parce qu’elles se sont détachées du fondement de l’Ancien Testament. Dans sa prédication “Mariage et Divorce”, l’homme de Dieu nous surprend sans cesse par ses comparaisons inhabituelles qu’il n’aurait, comme nous le savons tous, pas utilisées de lui-même. Dans l’humilité qui lui avait été donnée, il dit: “Parce que c’est une question biblique, il doit y avoir aussi une réponse biblique”. Cependant, les réponses bibliques qu’il donne ne conviennent pas à la représentation moderne que nous en avons. L’esprit de ce temps règne partout sous la bannière de l’égalité. La pleine émancipation est “à la mode”, et malheur à celui qui se réclame des déclarations de la Bible qu’il appelle “vieux jeu et dépassées”.
 
-    LE MARIAGE: PROBLEME ANCIEN                                    6
-    Seigneur avec le “il est écrit”, car ce n’est qu’ainsi qu’il peut faire tomber des enfants de Dieu. Tout
-    mensonge est en fait une vérité présentée sens dessus dessous, c’est-à-dire tordue. Nous devons
-    donc suivre l’exemple de notre Seigneur et le rencontrer avec le “mais il est aussi écrit “. Satan
-    prend des citations de la Bible, isolées et hors de leur contexte, pour tenter les croyants, mais
-    nous, nous prenons toute la Parole pour résister à ce tentateur.
+## RECU DU SEIGNEUR
 
-        LA FIN DU “COMMENCEMENT”
+Dans l’introduction de sa prédication frère Branham mentionne (p.5, § 25) 10’000 cas dans lesquels quelque chose lui a été révélé et annoncé à l’avance, des choses qui se sont toutes accomplies. Il laissa son Assemblée, qui avait entendu de ses oreilles et vu ces choses de ses propres yeux pendant toutes ces années, confirmer cela par un puissant “Amen!”. Ensuite il montra que les deux pensées doctrinales qui prévalent, lesquelles sont tout à fait opposées l’une à l’autre, sont fausses du point de vue biblique, bien qu’elles soient partout prêchées et crues. Citation: «Si c’est ainsi, nous avons deux écoles de pensée au sujet du mariage et du divorce. L’une dit qu’un homme ne peut être marié qu’une seule fois, à moins que sa femme ne soit morte. C’est une des questions. Mais si vous suivez cette voie-là vous passez par-dessus bord. L’autre dit: “Oh, si le mari ou la femme (l’un ou l’autre) a commis adultère, l’autre peut le répudier et se remarier”. Mais dans cette voie aussi vous passez par-dessus bord». (p. 9, § 50).
+
+Quelquefois il est déplaisant de faire mention d’événements tout à fait privés, mais Dieu qui se soucie de notre bien-être d’une manière si paternelle, le fait aussi pour nos relations entre humains, et il a fait écrire pour toujours Ses enseignements, Ses commandements et Ses interdictions. Il est Celui qui sait le mieux de quoi nous sommes formés, ce qui est bon pour nous, et comment la transgression des lois concernant notre corps se répercutent sur notre vie spirituelle. C’est la désobéissance manifestée dans nos actions corporelles, qui finalement causera des dommages à notre âme et nous séparera de notre Dieu. C’est pourquoi, pour un enfant de Dieu, tout ce qui se trouve dans les Ecritures est obligatoire. En donnant la loi, Dieu a placé devant notre choix la vie et la mort, la malédiction et la bénédiction — la vie en suivant Sa Parole dans l’obéissance, la mort en la transgressant par la désobéissance. Notre Sauveur, Lui qui a pris notre place, a été obéissant même jusqu'à la mort de la croix (Philippiens 2.8), afin de nous racheter de la désobéissance d’Adam (Romains 5.19 et autres). Notre Rédempteur dit: “… mais qui désobéit au Fils ne verra pas la vie, mais la colère de Dieu demeure sur lui” (Jean 3.36). Pierre écrit: “Comme des enfants d’obéissance, ne vous conformant pas à vos convoitises d’autrefois … ” (1 Pier. 1.14). Il n’existe que “deux paires de souliers”: l’incrédulité et la désobéissance, et la foi et l’obéissance. Quelle paire de souliers portons-nous? Il ne s’agit pas ici de penser aux autres, mais bien de nous laisser interpeller tout à fait personnellement par la Parole de Dieu.
+
+Tous les passages bibliques se rapportant à une chose doivent être mis ensemble. Celui qui prend pour lui-même un seul passage de la Bible, sans considérer les autres, fait violence à la Parole de Dieu. Cette Parole n’est pas là pour donner raison à qui que ce soit et encore moins pour appuyer notre propre interprétation. Nous vivons pour donner raison à Dieu et nous soumettre à chacune de Ses Paroles. Par exemple, celui qui ne discerne pas et ne considère pas quelle est la parole adressée à l’homme, et quelle est celle adressée à la femme n’a pas réellement compris la chose, ou c’est peut-être parce qu’il ne veut pas du tout le savoir correctement. Toutefois, quand Dieu dit “il”, c’est bien à l’homme qu’Il pense, et s’Il dit “elle” il s’agit de la femme. Dieu pense toujours ce qu’Il dit, et Il dit ce qu’Il pense.
+
+## C’EST AINSI QUE CELA COMMENCA
+
+C’est au commencement, c’est-à-dire dans le livre de la Genèse (qui veut dire “origine”, “commencement”) que frère Branham va tout d’abord, là ou se trouve l’origine de tout mal, là où se trouve la chute dans le péché, et à cela est liée la première désobéissance, la première transgression de la Parole, la première séduction, le premier adultère, et ainsi de suite. Le frère expose comment Eve était en Adam lors de la création du corps spirituel (Genèse 1), et comment au 2ème chapitre, par une action ayant eu lieu sur la terre, Eve fut sortie d’Adam et lui fut présentée. Ainsi est présenté devant nos yeux depuis le commencement “l’histoire du salut” à l’intérieur de l’histoire de l’humanité: L’Epouse de Christ était déjà dans le Sauveur alors qu’Il se trouvait dans un corps spirituel, mais Elle ne sortit de Lui que lorsqu’Il apparut dans un corps de chair et accomplit la rédemption à la croix de Golgotha.
+
+Dans cette prédication frère Branham dit ensuite qu’au commencement il n’y avait dans la création “qu’une paire” de chaque genre, c’est-à-dire un mâle et une femelle. Il fait ressortir la pensée que la création originelle n’était pas encline au péché et ne pouvait pas être séduite (p. 23). C’est la raison pour laquelle l’ennemi s’empara de la femme, qui n’était pas dans la création originelle en tant que personne indépendante au côté d’Adam mais qui fut au contraire tirée plus tard de lui. Le commandement suivant fut donné par Dieu l’Eternel à Adam, alors qu’Eve était encore en lui: “Tu mangeras librement de tout arbre du jardin; mais de l’arbre de la connaissance du bien et du mal, tu n’en mangeras pas; car, au jour que tu en mangeras, tu mourras certainement” (Genèse 2.16,17). Dieu avait parlé à Adam, mais l’ennemi, lui, choisit Eve comme partenaire de conversation, et il l’embrouilla dans des arguments sur “ce que Dieu avait dit”. Aujourd’hui encore l’ennemi emploie les même paroles par la bouche de beaucoup de personnes: “Dieu aurait-Il pensé cela?” et “Dieu aurait-il réellement dit… ?”, et déjà s’ensuit l’altération des Paroles de Dieu. Dieu avait pensé à un arbre particulier dont le fruit ne devait pas être mangé, “l’arbre de la connaissance”; l’ennemi, lui, parla de “tous les arbres”. En effet il demeura sur le thème, mais non dans la vérité.
+
+Lors du premier acte de la création, les deux, mâle et femelle, ne constituaient qu’une forme: “Et Dieu créa l’homme à son image; il le créa à l’image de Dieu; il les créa mâle et femelle” (Genèse 26-29). Bien que toute la création eut été achevée et estimée très bonne, et que Dieu se reposa le septième jour de toute Son oeuvre après avoir béni et sanctifié ce septième jour (Genèse 2.1-3), il est dit au chapitre 2.5b: “… et il n’y avait pas d’homme pour travailler le sol… ”. Ce ne fut qu’après que son corps de chair ait été formé, qu’Adam put être plongé dans le sommeil et qu’Eve put être retirée de lui. Dans ce corps de chair naturel, l’homme pouvait accomplir tous les travaux de la terre, mais c’est également dans ce corps qu’il tomba; c’est pourquoi l’Eternel dut venir dans ce corps naturel pour nous sortir de la chute du péché et nous racheter. Le Sauveur fut rendu semblable en toutes choses à ceux qui devaient être sauvés (Hébreux 2.17), afin que lors de l’achèvement ils puissent devenir semblables à Lui (1 Jean 3.2). C’est parce que le premier engendrement avait eu lieu par la séduction du serpent que l’humanité engendrée de manière charnelle est tombée sous la domination du méchant. Caïn était un fils “du méchant” (1 Jean 3.12). Dans le “notre Père” nous prions: “… délivre-nous du malin” (Mat. 6.13b). Le Seigneur des Cieux devait venir dans un corps humain par l’engendrement de l’Esprit, afin de nous libérer de la chute du péché d’une manière réelle, et nous racheter de la puissance “du méchant”.
+
+Dès le moment où Eve se laissa entraîner par les arguments du serpent, elle se trouva sous l’autorité de Satan. Elle amena ensuite Adam sous la même influence dans laquelle elle se trouvait et l’entraîna dans la chute du péché, par la transgression d’un commandement pourtant bien clair. Il se trouve que toute femme influençant son mari contre la Parole de Dieu est, comme Eve, tombée sous l’inspiration “du méchant”. Il est évident que, comme autrefois, de telles discussions se font avec des arguments sur “ce que Dieu a dit”. Dans une telle situation, sans que les femmes ne le remarquent, l’ennemi tord la Parole de Dieu dans leur tête et sur leurs lèvres. Satan se sert toujours de la Parole de Dieu dans l’intention de tromper; il vint aussi à notre Seigneur avec le “il est écrit”, car ce n’est qu’ainsi qu’il peut faire tomber des enfants de Dieu. Tout mensonge est en fait une vérité présentée sens dessus dessous, c’est-à-dire tordue. Nous devons donc suivre l’exemple de notre Seigneur et le rencontrer avec le “mais il est aussi écrit “. Satan prend des citations de la Bible, isolées et hors de leur contexte, pour tenter les croyants, mais nous, nous prenons toute la Parole pour résister à ce tentateur.
+
+LA FIN DU “COMMENCEMENT”
    C’est avec une grande colère que l’Eternel Dieu a réagi à la chute dans le péché. Il maudit le
 serpent, qui perdit aussitôt la parole et sa forme originelle. Il pouvait auparavant parler et se tenir
 debout, mais dès ce moment il dut ramper sur le sol en tant que reptile. Eve n’a pas été maudite,
@@ -432,21 +303,21 @@ ce que Dieu fait encore aujourd’hui.
 
                Le prophète Ezéchiel devait déjà s’élever contre les prophétesses, après avoir tout d’abord
     repris les prophètes et condamné leurs actions. (Ezé. 13). Le Seigneur lui commanda: “…         tourne
-    ta face contre les filles de ton peuple qui prophétisent d’après leur propre cœ ur… ”(v. 17). Pour les
-    femmes qui agissaient encore plus méchamment et habilement, c’est par un “Malheur!” que le
-    prophète s’adresse à elles. “Malheur à celles qui cousent des coussinets (pratique magique)… ”
-    (v. 18), qui sont taillés de façon à s’adapter à tous les cas. Par leurs prophéties elles rendent
-    captives les âmes qu’elles tuent par leurs fausses inspirations c’est-à-dire par le venin du serpent
-    qui s’y trouve; dans ce cas il ne s’agit pas de prophétie, mais bien de divination. La divination peut
-    dire des choses justes, cependant la prophétie est de Dieu, alors que l’autre vient du diable (voyez
-    Actes 16.16-18; 21.7-14 et autres). Dans une prophétie produite par l’Esprit de Dieu et qui est
-    adressée à l’Eglise, il y a toujours trois marques distinctives:    l’édification, l’exhortation et la
-    consolation (1 Corinthiens 14.3). Tout ce qui vient de Dieu conduit à Lui et nous unit à Lui; non pas
-    avec le vase qu’il a employé pour parler. Les faux prophètes, et plus particulièrement les
-    fausses prophétesses, se font reconnaître à ceci: elles parlent en effet de Dieu pour se présenter
-    comme tout particulièrement spirituelles,           mais elles lient les gens à elles-mêmes par le don
-    qu’elles semblent avoir, et les rendent dépendants de leurs prophéties et de leurs soi-disant
-    “révélations personnelles”.
+ta face contre les filles de ton peuple qui prophétisent d’après leur propre cœ ur… ”(v. 17). Pour les
+femmes qui agissaient encore plus méchamment et habilement, c’est par un “Malheur!” que le
+prophète s’adresse à elles. “Malheur à celles qui cousent des coussinets (pratique magique)… ”
+(v. 18), qui sont taillés de façon à s’adapter à tous les cas. Par leurs prophéties elles rendent
+captives les âmes qu’elles tuent par leurs fausses inspirations c’est-à-dire par le venin du serpent
+qui s’y trouve; dans ce cas il ne s’agit pas de prophétie, mais bien de divination. La divination peut
+dire des choses justes, cependant la prophétie est de Dieu, alors que l’autre vient du diable (voyez
+Actes 16.16-18; 21.7-14 et autres). Dans une prophétie produite par l’Esprit de Dieu et qui est
+adressée à l’Eglise, il y a toujours trois marques distinctives:    l’édification, l’exhortation et la
+consolation (1 Corinthiens 14.3). Tout ce qui vient de Dieu conduit à Lui et nous unit à Lui; non pas
+avec le vase qu’il a employé pour parler. Les faux prophètes, et plus particulièrement les
+fausses prophétesses, se font reconnaître à ceci: elles parlent en effet de Dieu pour se présenter
+comme tout particulièrement spirituelles,           mais elles lient les gens à elles-mêmes par le don
+qu’elles semblent avoir, et les rendent dépendants de leurs prophéties et de leurs soi-disant
+“révélations personnelles”.
 
         http://www.cmpp.ch
 
@@ -566,7 +437,7 @@ nul ne peut voir le Seigneur. (Hébreux 12.14). Dans cette liste se trouve entre
 
         http://www.cmpp.ch
 
-    LE MARIAGE: PROBLEME ANCIEN                                                                         11
+LE MARIAGE: PROBLEME ANCIEN                                                                         11
 laquelle comprend les relations entre homme ou femme avec des bêtes, ainsi que la vie en
 commun contre nature d’homme avec homme et de femme avec femme, comme d’ailleurs Paul
 en parle clairement dans Romains. “Tu ne coucheras point avec un mâle, comme on couche avec
@@ -808,7 +679,7 @@ Le pardon et la réconciliation sont enracinés dans l’amour divin, L’ergote
 fondées dans le manque d’amour et l’irréconciliabilité. La question se pose toujours: Quelle est
 l’intention qui se cache derrière les paroles et les actions de celui qui amène les affaires sur le
 devant de la scène? Est-ce dirigé contre la Parole de Dieu? Alors, il est clair que Satan a
-commencé son œ uvre de destruction.
+commencé son œuvre de destruction.
    L’Eglise de Corinthe était touchée par un cas particulier et le Ainsi dit le Seigneur est venu à
 elle: “Mais quant à ceux qui sont mariés, je leur enjoins, non pas moi, mais le Seigneur: que la
 femme ne soit pas séparée du mari; (et si elle est séparée, qu’elle demeure sans être mariée, ou
@@ -858,7 +729,7 @@ cette manière de se conduire, laquelle méprise Dieu et Sa Parole, et encore mo
         http://www.cmpp.ch
 
     LE MARIAGE: PROBLEME ANCIEN                                                                   16
-    Mais ils veulent à tout prix expérimenter leur perfectionnement et l’achèvement de l’œ uvre de Dieu
+    Mais ils veulent à tout prix expérimenter leur perfectionnement et l’achèvement de l’œuvre de Dieu
     en eux en faisant la parfaite volonté de Dieu. Pour “les appelés” il est possible que la volonté
     permissive de Dieu leur suffise. Mais pour celui qui agit tout à fait contre la Parole de Dieu, il n’est
     pas davantage un appelé qu’un élu; il est doublement trompé.
@@ -954,7 +825,7 @@ bénédictions d’une femme bénie: en enseignant les jeunes soeurs qui vont en
 mariage, en partageant avec elles leurs propres expériences dans le chemin de la vie, afin
 qu’elles aussi soient bénies dans leur famille. Mais qu’en est-il de celles qui font exactement le
 contraire de ce que dit l’Ecriture et qui, au lieu d’enseigner l’obéissance, invitent directement à la
-désobéissance? Seule une sœ ur en Christ, qui a pris une position biblique à l’égard de son mari et
+désobéissance? Seule une sœur en Christ, qui a pris une position biblique à l’égard de son mari et
 de ses enfants, peut apprendre aux jeunes soeurs, conformément à la parole de l’apôtre à servir
 réellement d’une manière bénie dans son union et sa famille. Autrement, elle causera exactement
 le contraire, comme nous pouvons l’expérimenter depuis des années dans le développement de
@@ -989,7 +860,7 @@ prononcer ce qui est juste conformément à l’Ecriture. L’administration de 
 uniquement conformément au livre de la loi divine et sans acception de personne; cela ne se
 passe pas à la maison, mais bien dans l’Eglise. “Obéissez à vos conducteurs et soyez soumis, car
 ils veillent pour vos âmes, comme ayant à rendre compte… ”(Hébreux 13.17).
-   Tout frère et toute sœ ur qui ont des problèmes de couple, ou même un problème de divorce, et
+   Tout frère et toute sœur qui ont des problèmes de couple, ou même un problème de divorce, et
 qui se soustraient aux ministères que Dieu a placés dans l’Eglise, se trompent eux-mêmes. Parce
 qu’ils ne respectent pas les bergers et la Parole de Dieu ils suivent leur propre chemin, c’est-à-dire
 qu’ils prennent un avocat et vont au juge, comme si ceux-ci étaient compétents pour les croyants.
@@ -1035,7 +906,7 @@ jugement: tu n’auras pas égard à la personne du pauvre, et tu n’honoreras 
 riche; tu jugeras ton prochain avec justice. Tu n’iras point ça et là médisant parmi ton peuple. Tu
 ne t’élèveras pas contre la vie de ton prochain. Moi je suis l’Eternel” (Lévitique 19.15,16). A maintes
 reprises Paul avertit: “… et ne donnez pas occasion au diable (le calomniateur)”(Éphésiens 4.27).
-   Lorsque quelqu’un a sur le cœ ur la communion conjugale, il laissera les choses privées à
+   Lorsque quelqu’un a sur le cœur la communion conjugale, il laissera les choses privées à
 l’endroit qui leur appartient, c’est-à-dire à la maison. Les époux doivent parler de tout ensemble,
 mais non pas l’un de l’autre. Ils doivent parler sur toutes choses, non disputer sur elles, mais prier
 pour elles. Ils doivent aussi se donner du temps l’un à l’autre pour examiner et recevoir ce que le
@@ -1062,11 +933,11 @@ royaume de Dieux. La grâce à bon marché sur laquelle plusieurs se reposent n�
 n’existe que la grâce qui a coûté un grand prix. Le prix de rachat était le précieux Sang de
 l’Agneau de Dieu. David demandait: “Eternel! qui séjournera dans ta tente? qui demeurera en ta
 montagne sainte? Celui qui marche dans l’intégrité, et qui fait ce qui est juste, et qui parle la vérité
-de son cœ ur; qui ne médit pas de sa langue; qui ne fait pas de mal à son compagnon, et qui ne
+de son cœur; qui ne médit pas de sa langue; qui ne fait pas de mal à son compagnon, et qui ne
 fait pas venir l’opprobre sur son prochain”(Psaumes 15.1-3).
    Seul celui qui se laisse ici placer sous le jugement de la Parole, qui se laisse corriger et se
 soumet à l’ordre biblique, appartiendra à l’Eglise des premiers-nés. Celui qui méprise l’Eglise de
-Dieu et l’œ uvre de Dieu est aveuglé par l’orgueil, et il est séduit. Tous les arguments que l’on
+Dieu et l’œuvre de Dieu est aveuglé par l’orgueil, et il est séduit. Tous les arguments que l’on
 pourra présenter pour tranquilliser sa propre conscience n’auront aucune valeur devant Dieu et
 devant le Tribunal suprême. La seule chose valable devant Lui est ce qu’Il a ordonné Lui-même et
 commandé. Celui qui se glorifie d’avoir retrouvé sa liberté, mais qui a laissé derrière lui le chagrin
@@ -1075,7 +946,7 @@ et la souffrance des coeurs, est aveuglé.
 tout particulièrement spirituel, en pensant appartenir à l’Eglise-Epouse? Non, et encore une fois
 non, cela ne marche pas auprès de Dieu! Nous avons à croire, à agir et à marcher comme le dit
 l’Ecriture. Le Seigneur amène Son Eglise à l’achèvement, Laquelle, à la fin comme au
-commencement, ne sera qu’un cœ ur et qu’une âme. Il unit Son Corps, qui est composé de
+commencement, ne sera qu’un cœur et qu’une âme. Il unit Son Corps, qui est composé de
 beaucoup de membres, sous Lui-même qui en est la Tête. Frère Branham relève maintes fois que
 les choses concernant mariage et divorce ont besoin d’être révélées à chacun. Avec cela il ne
 pense pas à une révélation “particulière”, mais bien à celle qui est donnée par Dieu Lui-même
@@ -1089,7 +960,7 @@ après avoir lu l’exposé de tous les passages bibliques.
 
                                    http://www.cmpp.ch
 
-    LE MARIAGE: PROBLEME ANCIEN                      20
+LE MARIAGE: PROBLEME ANCIEN                      20
 exemple John Wesley épousa une veuve avec quatre enfants et souffrit terriblement durant son
 mariage. Mais aucun d’eux n’a agi contre nature, ayant été homosexuel ou ayant pratiqué la
 fornication.
@@ -1133,7 +1004,7 @@ le droit d’aînesse. Il lui a fait grâce et l’a béni. Dieu voit le cœ ur 
 compte leurs péchés. D’un homme rusé et trompeur Dieu fit un combattant pour Dieu, lequel lutta
 jusqu’au lever du soleil et jusqu'à ce qu’un nouveau jour se lève.
    Moïse était marié avec Séphora et il prit encore pour femme une Ethiopienne, et c’est à cause
-de cela tout spécialement que sa sœ ur Myriam ainsi que son frère Aaron, s’irritèrent et
+cela tout spécialement que sa sœ ur Myriam ainsi que son frère Aaron, s’irritèrent et
 s’emportèrent contre lui (Nombres 12). Cette irritation compréhensible de l’homme était une
 abomination pour le Législateur. Le Seigneur ne permit à aucun de toucher à Ses oints, même
 pas à un frère ou à une sœ ur selon la chair. Les serviteurs de Dieu ne sont pas des personnes
@@ -1407,9 +1278,6 @@ cet exposé n’est pas destiné à être utilisé pour faire des reproches à q
 l’autre ce qui est adressé à l’homme ou à la femme; mais que chacun le lise pour soi-même dans
 la prière, pour son propre profit, et qu’il laisse le Seigneur lui parler par cet exposé. Alors tous
 seront secourus. Ma prière est que Dieu accorde Sa grâce pour cela.
-
-
-
 
 
 

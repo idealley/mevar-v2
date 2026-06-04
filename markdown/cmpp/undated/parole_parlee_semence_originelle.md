@@ -1,10 +1,91 @@
-    LA PAROLE PARLEE
+---
+source: "cmpp"
+sermon_id: "parole_parlee_semence_originelle"
+title: "La Parole parlée est la semence originelle"
+subtitle: "18 mars 1962, matin et après-midi"
+date: "1962-03-18"
+year: 1962
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham enseigne que la Parole de Dieu est éternelle, infaillible et ne peut être mélangée ou hybridée avec des doctrines humaines. Il explique que chaque parole prononcée par Dieu est une semence originelle qui produit selon son espèce, et que toute tentative d'hybridation mène à la mort spirituelle. Il souligne l'importance de croire la Bible littéralement sans y ajouter ni retrancher."
+tags:
+  - "Parole de Dieu"
+  - "semence originelle"
+  - "hybridation"
+  - "foi"
+  - "autorité biblique"
+persons:
+  - "William Marrion Branham"
+  - "Moïse"
+  - "Jésus-Christ"
+  - "Eve"
+  - "Paul"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "U.S.A."
+  - "Chicago"
+  - "Tifton"
+  - "Géorgie"
+themes:
+  - "Parole de Dieu éternelle"
+  - "semence originelle"
+  - "hybridation spirituelle"
+  - "autorité de l'Écriture"
+  - "jugement par la Parole"
+  - "foi dans la Parole"
+pdf_url: "http://cmpp.ch/parole_parlee_semence_originelle.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11"
+  - "1 Corinthiens 2"
+  - "1 Corinthiens 4"
+  - "1 Corinthiens 6"
+  - "1 Pierre 2"
+  - "1 Samuel 8"
+  - "2 Timothée 3"
+  - "Actes 10"
+  - "Actes 19"
+  - "Actes 2"
+  - "Actes 28"
+  - "Apocalypse 13"
+  - "Apocalypse 17"
+  - "Apocalypse 22"
+  - "Apocalypse 27"
+  - "Galates 1"
+  - "Genèse 1"
+  - "Genèse 17"
+  - "Hébreux 11"
+  - "Hébreux 13"
+  - "Hébreux 6"
+  - "Jean 13"
+  - "Jean 14"
+  - "Jean 15"
+  - "Jean 20"
+  - "Jean 3"
+  - "Jean 5"
+  - "Jean 8"
+  - "Joël 2"
+  - "Jude 8"
+  - "Luc 10"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Marc 1"
+  - "Marc 13"
+  - "Matthieu 16"
+  - "Matthieu 24"
+  - "Matthieu 28"
+  - "Romains 11"
+  - "Romains 8"
+  - "Ésaïe 54"
+  - "Ésaïe 7"
+  - "Ésaïe 9"
+---
+LA PAROLE PARLEE
 
-    PAR
+PAR
 
-    WILLIAM MARRION BRANHAM
-
-
+WILLIAM MARRION BRANHAM
 
 
 LA PAROLE PARLEE EST LA
@@ -12,14 +93,9 @@ LA PAROLE PARLEE EST LA
    (The Spoken Word is The Original Seed)
 
 
-
-
 18 mars 1962, matin et après-midi
         Branham Tabernacle
  Jeffersonville — Indiana, U.S.A.
-
-
-
 
 
 
@@ -34,7 +110,6 @@ LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE
            18 mars 1962, matin
             Branham Tabernacle
      Jeffersonville — Indiana, U.S.A.
-
 
 
 
@@ -110,7 +185,7 @@ puisse être préparée.
 ma vie, qui m’as conduit par Ta grâce jusqu’à cette heure, je sens que c’était dans Ta volonté que
 j’explique aux gens pourquoi j’ai agi et fait les choses de cette façon. Puisse cela les frapper,
 Seigneur, de telle façon que les gens aient une meilleure compréhension du caractère particulier
-de Ton serviteur.
+ de Ton serviteur.
      Accorde-nous ces choses, Père, et que ces passages de l’Ecriture, ce texte et ces notes que
 nous avons relevés pendant la semaine en priant et en étudiant puissent tomber dans un bon
 terrain partout où ils ont été entendus, un terrain qui puisse les retenir et les nourrir. Alors toute la
@@ -197,8 +272,8 @@ se mouvait au-dessus des eaux. Dieu dit: Que la lumière soit! Et la lumière fu
         http://www.cmpp.ch
 
 LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 5
-lumière était bonne; et Dieu sépara la lumière d’avec les ténèbres. Dieu appela la lumière jour, et il
-appela les ténèbres nuit. Ainsi il y eut un soir, et il y eut un matin: ce fut le premier jour.
+lumière était bonne; et Dieu sépara la lumière d’avec les ténèbres. Dieu appela la lumière jour, et
+il appela les ténèbres nuit. Ainsi il y eut un soir, et il y eut un matin: ce fut le premier jour.
     Dieu dit: Qu’il y ait une étendue entre les eaux, et qu’elle sépare les eaux d’avec les eaux. Et
 Dieu fit l’étendue, et il sépara les eaux qui sont au-dessous de l’étendue d’avec les eaux qui sont
 au-dessus de l’étendue. Et cela fut ainsi. Dieu appela l’étendue ciel. Ainsi il y eut un soir, et il y eut
@@ -390,7 +465,7 @@ NOM du Père, du Fils et du Saint-Esprit! Vous êtes baptisé dans quelques titr
 appartiennent à un Nom. Si cela n’est pas la révélation correcte, alors la Bible ne serait pas la
 Vérité quand Elle déclare que chacun baptisa au Nom de Jésus-Christ. Mais si la Bible baptise…
 Si tous les apôtres au travers des âges baptisèrent au Nom de Jésus-Christ après que Jésus leur
-eut donné l’ordre de baptiser AU NOM du Père, du Fils et du Saint-Esprit, alors la Bible se
+eût donné l’ordre de baptiser AU NOM du Père, du Fils et du Saint-Esprit, alors la Bible se
 contredit absolument! Mais si vous regardez bien, ce n’est pas le cas. Ils ont fait simplement ce
 qu’Il a dit. Pas dans les titres, mais AU NOM. Ainsi, il n’y a aucune contradiction.
     Combien pourrais-je encore citer de passages (je les ai même notés) où les gens prétendent
@@ -541,7 +616,7 @@ meilleure apparence, mais elle est morte. Replantez-le, il ne peut se reproduire
 
     http://www.cmpp.ch
 
-    LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    11
+LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    11
 c’est fini. C’est comme Eve, vous voyez? Elle produisit une récolte hybride. Voyez ce qui se passe
 avec nous aujourd’hui. Vous pouvez regarder autour de vous aujourd’hui et voir que c’est vrai.
 Certainement! Ce n’est pas le dessein de Dieu, pas du tout! Je dois retenir quelque chose à quoi
@@ -744,7 +819,7 @@ connaissance.
 crois ce que je crois. Cela doit revenir à cette Parole. C’est la raison pour laquelle je dis que si
 quelqu’un désire discuter avec moi et me parler au sujet de cette Parole, qu’il vienne! C’est vrai.
 J’ai tout le temps proposé cela. Si vous pensez que baptiser au Nom de Jésus-Christ n’est pas la
-manière juste, venez m’en parler. Si vous ne croyez pas qu’il y ait une chose telle que la semence
+maniere juste, venez m’en parler. Si vous ne croyez pas qu’il y ait une chose telle que la semence
 du serpent, venez me voir. Prenons simplement la Parole. Si vous ne croyez pas que les femmes
 devraient avoir les cheveux longs et que c’est là leur couverture, venez m’en parler avec la Parole.
 Si vous ne croyez pas que la fin des temps est proche et que ces choses dont je parle sont…
@@ -1062,8 +1137,8 @@ exactement comme vous étiez censé l’être au commencement. Vous voyez?
 
     http://www.cmpp.ch
 
-    LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    20
-    Christ ne pouvait s’empêcher d’être ce qu’Il était. Il était le Fils de Dieu. Tout est là.
+LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    20
+Christ ne pouvait s’empêcher d’être ce qu’Il était. Il était le Fils de Dieu. Tout est là.
 Voyez-vous maintenant ce que je veux dire? Si vous avez été prédestiné à cela, vous verrez la
 Parole de Dieu, vous La croirez. Pourquoi? (voilà quelque chose de nouveau). Pourquoi?
 N’avez-vous jamais entendu parler de l’hérédité dans une famille? Un fils reflétera quelque peu
@@ -1478,8 +1553,8 @@ avec Ses Sodomites! Et Abraham reçut le fils promis.
 ira dans le grenier”. Vous voyez. La dernière pluie est proche. Je ne veux pas m’attarder sur cette
 question parce que j’ai ici quelque chose de vraiment bien là-dessus.
     Les deux dénominations s’uniront. Les Pentecôtistes et les autres s’uniront, mais la Parole
-restera avec La Semence promise d’Abraham comme Elle le fit alors. Jésus dit: “Comme il en
-fut du temps…”. Avez-vous des oreilles pour entendre? Des yeux pour voir? Un entendement pour
+restera avec La Semence promise d’Abraham comme Elle le fit alors. Jésus dit: “Comme il
+en fut du temps…”. Avez-vous des oreilles pour entendre? Des yeux pour voir? Un entendement pour
 comprendre? Jésus dit: “Comme il en fut…”. “N’est-il pas écrit…”. N’est-ce pas ce que Jésus dirait
 s’Il se tenait ici ce matin? Ne dirait-Il pas: “N’est-il pas écrit que comme il en fut aux jours de
 Sodome, il en serait de même à la venue du Fils de l’homme?”. Ne voyez-vous pas les deux
@@ -1580,8 +1655,6 @@ langues et interpréter, tout en niant l’existence de Jésus-Christ. J’ai vu
 langues et qui vivait avec la femme d’un autre. Il se tenait là et me regardait en face; et une vision
 vint devant moi. Je l’appelai à l’écart et l’obligeai à le reconnaître. Vous appelez cela le
 Saint-Esprit?
-
-                                http://www.cmpp.ch
 
 LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 29
     Vous direz: «Frère Branham, ne croyez-vous pas que le Saint-Esprit parle en langues?».
@@ -1827,7 +1900,7 @@ savons que cela est écrit dans les Ecritures et je Te prie, Père, que cela des
 de ceux qui m’écoutent et qu’ils comprennent que Paul est celui qui conduisit et ordonna à ceux
 qui n’étaient pas baptisés au Nom de Jésus-Christ pour la rémission de leurs péchés de l’être de
 nouveau, car Paul était celui qui leur avait donné l’ordre d’être rebaptisés. Puisse cela toucher les
-gens, Père. Puissent-ils réaliser que ce service de baptême est bien conforme à la Vérité, sachant
+ gens, Père. Puissent-ils réaliser que ce service de baptême est bien conforme à la Vérité, sachant
 qu’ils ne peuvent produire une seule Parole de l’Ecriture pour soutenir leur idée trinitaire de trois
 dieux. Père, nous croyons bien sûr que Tu es une trinité de fonctions: Père, Fils et Saint-Esprit.
 Très certainement nous croyons cela, Seigneur, mais sans faire de Toi trois dieux. Nous faisons
@@ -1855,8 +1928,6 @@ Jésus!
     [Frère Branham prie sur les mouchoirs — N.d.R.]
         Oh, combien j’aime Jésus!
         Parce qu’Il m’aima le premier!
-
-
 
 
 
@@ -1897,7 +1968,7 @@ Ta Parole, et nous voulons La présenter telle qu’elle est et ensuite, Seigneu
 L’arroseras de l’Esprit. Nous Te demandons, tandis que nous nous remettons à Toi avec ce
 message, de nous utiliser au Nom de Jésus. Amen!
     Maintenant, dépêchons-nous. Ma femme me disait ce matin combien c’est pénible pour les
-gens qui attrapent des crampes dans les jambes, spécialement les dames et les personnes qui
+ gens qui attrapent des crampes dans les jambes, spécialement les dames et les personnes qui
 comme moi avancent en âge et doivent rester debout. J’apprécie votre loyauté. Maintenant nous
 allons retourner directement au message et continuer. Je ne veux pas faire les choses trop
 hâtivement, mais je veux me dépêcher suffisamment pour tâcher de finir si possible cet
@@ -2098,7 +2169,7 @@ l’épouse qui séduit par la Parole. Comprenez-vous cela?
 
         http://www.cmpp.ch
 
-    LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    38
+LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    38
 cela. Pourquoi? Parce qu’elle n’est pas l’original; elle est un dérivé. L’épouse, aujourd’hui, est un
 dérivé. Elle se donne le nom d’épouse, mais ce qu’elle est vient de matériaux des organisations et
 non pas de la Parole. Il y a juste assez de Parole en elle pour en faire une espèce de dérivé
@@ -2619,7 +2690,7 @@ temps-là, que c’était ainsi du temps des apôtres mais que ce n’était que
 
      http://www.cmpp.ch
 
-    LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    47
+LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    47
 n’était que pour les apôtres». Vous, soi-disant église de Christ, «parlez quand la Bible parle,
 autrement taisez-vous!». J’aimerais bien vous entendre dire quelque chose à ce sujet. Mais vous
 vous taisez! La Parole de Dieu ferme la bouche à tous. Personne ne peut se glorifier. C’est vrai!
@@ -2961,8 +3032,8 @@ suivante, cet unique-là en avait produit soixante. Mais moi, je peux faire six 
         http://www.cmpp.ch
 
     LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    53
-de réveil et avoir vingt mille convertis, mais lorsque je reviens six mois plus tard on n’en trouve
-même plus vingt!».
+    de réveil et avoir vingt mille convertis, mais lorsque je reviens six mois plus tard on n’en trouve
+    même plus vingt!».
     Que s’est-il passé? Ce n’étaient pas des convertis! Ils étaient convertis à la
 dénomination, c’est tout. C’est certain: si vous plantez une semence dénominationnelle,
 c’est ce que vous obtiendrez: «Venez frères, joignez-vous à l’église; inscrivez votre nom sur le
@@ -3133,523 +3204,147 @@ l’air et Cria: “Gloire à Dieu! Gloire à Dieu! Gloire à Dieu! Gloire à Di
      http://www.cmpp.ch
 
 LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 56
-     Je pensai: «Que signifie cela? J’ai bien vu ce blé pousser des cris, mais que signifie cette
-mauvaise herbe?». Ensuite, Il dit: «Lis Hébreux 6».
-     “La pluie tombe sur les justes et sur les injustes”. Toute l’affaire est là! C’est pourquoi nous
-n’avons pas aujourd’hui une épouse prête pour Christ. Nous avons semé des semences
-dénominationnelles au lieu de la Parole. Qu’est-ce que cela a produit? Cela a produit quelques
-enfants dénominationnels de plus. C’est vrai. Mais, au milieu de tout cela, un peu de blé est
-tombé. C’est vrai.
-     Mais considérez que le même Esprit qui fait parler en langues le véritable et authentique
-croyant, le véritable Esprit qui fait de l’authentique croyant un chrétien (parce qu’Il irrigue une
-Parole, une semence), ce même Esprit remplit de joie et fait crier pareillement un substitut comme
-l’hybride d’Eve, et le fait se sentir joyeux autant que les autres à ce sujet. Quelle est la vérité
-là-dessus? C’est la semence qui est mauvaise dès le commencement.
-     Ainsi, toutes vos démonstrations charnelles ne signifient rien du tout: “Quand je parlerais les
-langues des hommes et des anges, si je n’ai pas l’amour, cela ne me sert de rien. Quand j’aurais
-même toute la foi jusqu’à transporter des montagnes, si je n’ai pas l’amour, cela ne me sert de
-rien. Quand je distribuerais tous mes biens pour la nourriture des pauvres, si je n’ai pas l’amour,
-cela ne me sert de bien. Quand je parlerais les langues des hommes et des anges, je ne suis
-qu’un airain qui résonne ou une cymbale qui retentit”. Voyez-vous, ce n’est rien. Ecoute, église: le
-Pentecôtisme n’est rien du tout! Pourquoi? Parce que c’est une semence hybride. Elle ne peut
-venir à la Parole.
-     C’est cela. Le corps qui donne de nouveau naissance au Corps de Christ doit venir d’une
-matrice vierge. La Parole, c’est vrai! Mais écoutez ceci: (c’était un slogan baptiste) elle a produit
-«un million de plus en 1944». C’est pourquoi les dénominations pentecôtistes n’ont pas pu
-donner la naissance spirituelle pour produire à la fois les manifestations et le Christ. Ce
-n’était qu’une pluie d’ensemencement. Celle-ci a produit une église dénominationnelle qui
-fusionna bientôt avec les grandes églises évangéliques. Elle a suivi la voie de Koré. Elle a rejoint
-les dénominations.
-     Retournons dans l’Ancien Testament pour y trouver quelques types et ensuite, je
-commencerai quelque chose dans quelques minutes, puis je vous laisserai partir. Retournons
-dans l’Ancien Testament pour trouver des types qui prouvent ces choses. J’ai pris plusieurs
-heures pour préparer ce sujet. Maintenant, nous allons changer de sujet, changer de programme.
-Premièrement je vais prendre quelques pages ici. Je vais aller aussi vite que possible parce qu’il
-nous reste très peu de temps. Etes-vous fatigués? Non! Bien. Alors allons-y!
-     C’est la raison pour laquelle nous avons toutes ces choses. Maintenant si tout ce que je vous
-ai dit ne concorde pas avec la Bible, la Parole de Dieu, c’est faux. C’est faux! Et toutes ces
-images… Je vais me dépêcher pour la suite sans les expliquer afin que nous puissions arriver au
-bout. Je vous promets que j’irai aussi vite que possible.
-     J’en étais arrivé au point où je me trouvais dans l’Esprit. Je réunis l’église pour lui montrer et
-lui prouver par la Parole exactement ce qui était arrivé tout au long; quand cela arriva, je pensai:
-«Seigneur, les gens sont là; maintenant que puis-je leur dire? Je ne peux pas prédire le futur. Je
-ne peux pas leur dire ce qu’il faut faire, alors que ferai-je? Je les laisserai simplement le bec dans
-l’eau!». Je levai les mains et dis: «O Dieu, il me semble que je fais ceci selon Ta volonté. Je n’ai
-jamais fait cela auparavant parce que la semence n’avait pas encore été semée. Mais je crois que
-c’est maintenant le moment pour moi de le dire. Mais que vais-je dire?».
-     Et, aussi distinctement que vous pouvez entendre ma voix, quelque chose me dit: «Prends ta
-plume». Je vous le lirai dans une minute. Et lorsque j’eus terminé, la réponse était là. Je ne savais
-même pas ce que j’écrivais. J’ai simplement commencé à écrire et lorsque j’eus terminé, je posai
-la plume, je levai les yeux et dis: «O mon Dieu, sois miséricordieux, c’est exactement cela! C’est
-ce que j’attendais». Maintenant il y a certaines choses que j’ai dû laisser de côté, nous y viendrons
-dans un petit moment, Dieu voulant.
-     L’Ancien Testament tout entier est fait de types qui pointent nos regards vers Christ et
-Son Eglise. Croyez-vous qu’Adam et Eve pointent nos regards vers Christ et Son Eglise?
-Croyez-vous que Jéhovah et Son Epouse pointent nos regards vers Christ et Son Eglise?
-Eh bien, si ce sont des types et que ceci est la réalité, elle doit être comme le type, parce que la
+Je pensai: «Que signifie cela? J’ai bien vu ce blé pousser des cris, mais que signifie cette mauvaise herbe?». Ensuite, Il dit: «Lis Hébreux 6».
+“La pluie tombe sur les justes et sur les injustes”. Toute l’affaire est là! C’est pourquoi nous n’avons pas aujourd’hui une épouse prête pour Christ. Nous avons semé des semences dénominationnelles au lieu de la Parole. Qu’est-ce que cela a produit? Cela a produit quelques enfants dénominationnels de plus. C’est vrai. Mais, au milieu de tout cela, un peu de blé est tombé. C’est vrai.
+Mais considérez que le même Esprit qui fait parler en langues le véritable et authentique croyant, le véritable Esprit qui fait de l’authentique croyant un chrétien (parce qu’Il irrigue une Parole, une semence), ce même Esprit remplit de joie et fait crier pareillement un substitut comme l’hybride d’Eve, et le fait se sentir joyeux autant que les autres à ce sujet. Quelle est la vérité là-dessus? C’est la semence qui est mauvaise dès le commencement.
+Ainsi, toutes vos démonstrations charnelles ne signifient rien du tout: “Quand je parlerais les langues des hommes et des anges, si je n’ai pas l’amour, cela ne me sert de rien. Quand j’aurais même toute la foi jusqu’à transporter des montagnes, si je n’ai pas l’amour, cela ne me sert de rien. Quand je distribuerais tous mes biens pour la nourriture des pauvres, si je n’ai pas l’amour, cela ne me sert de bien. Quand je parlerais les langues des hommes et des anges, je ne suis qu’un airain qui résonne ou une cymbale qui retentit”. Voyez-vous, ce n’est rien. Ecoute, église: le Pentecôtisme n’est rien du tout! Pourquoi? Parce que c’est une semence hybride. Elle ne peut venir à la Parole.
+C’est cela. Le corps qui donne de nouveau naissance au Corps de Christ doit venir d’une matrice vierge. La Parole, c’est vrai! Mais écoutez ceci: (c’était un slogan baptiste) elle a produit «un million de plus en 1944». C’est pourquoi les dénominations pentecôtistes n’ont pas pu donner la naissance spirituelle pour produire à la fois les manifestations et le Christ. Ce n’était qu’une pluie d’ensemencement. Celle-ci a produit une église dénominationnelle qui fusionna bientôt avec les grandes églises évangéliques. Elle a suivi la voie de Koré. Elle a rejoint les dénominations.
+Retournons dans l’Ancien Testament pour y trouver quelques types et ensuite, je commencerai quelque chose dans quelques minutes, puis je vous laisserai partir. Retournons dans l’Ancien Testament pour trouver des types qui prouvent ces choses. J’ai pris plusieurs heures pour préparer ce sujet. Maintenant, nous allons changer de sujet, changer de programme. Premièrement je vais prendre quelques pages ici. Je vais aller aussi vite que possible parce qu’il nous reste très peu de temps. Etes-vous fatigués? Non! Bien. Alors allons-y!
+C’est la raison pour laquelle nous avons toutes ces choses. Maintenant si tout ce que je vous ai dit ne concorde pas avec la Bible, la Parole de Dieu, c’est faux. C’est faux! Et toutes ces images… Je vais me dépêcher pour la suite sans les expliquer afin que nous puissions arriver au bout. Je vous promets que j’irai aussi vite que possible.
+J’en étais arrivé au point où je me trouvais dans l’Esprit. Je réunis l’église pour lui montrer et lui prouver par la Parole exactement ce qui était arrivé tout au long; quand cela arriva, je pensai: «Seigneur, les gens sont là; maintenant que puis-je leur dire? Je ne peux pas prédire le futur. Je ne peux pas leur dire ce qu’il faut faire, alors que ferai-je? Je les laisserai simplement le bec dans l’eau!». Je levai les mains et dis: «O Dieu, il me semble que je fais ceci selon Ta volonté. Je n’ai jamais fait cela auparavant parce que la semence n’avait pas encore été semée. Mais je crois que c’est maintenant le moment pour moi de le dire. Mais que vais-je dire?».
+Et, aussi distinctement que vous pouvez entendre ma voix, quelque chose me dit: «Prends ta plume». Je vous le lirai dans une minute. Et lorsque j’eus terminé, la réponse était là. Je ne savais même pas ce que j’écrivais. J’ai simplement commencé à écrire et lorsque j’eus terminé, je posai la plume, je levai les yeux et dis: «O mon Dieu, sois miséricordieux, c’est exactement cela! C’est ce que j’attendais». Maintenant il y a certaines choses que j’ai dû laisser de côté, nous y viendrons dans un petit moment, Dieu voulant.
+L’Ancien Testament tout entier est fait de types qui pointent nos regards vers Christ et Son Eglise. Croyez-vous qu’Adam et Eve pointent nos regards vers Christ et Son Eglise? Croyez-vous que Jéhovah et Son Epouse pointent nos regards vers Christ et Son Eglise? Eh bien, si ce sont des types et que ceci est la réalité, elle doit être comme le type, parce que la
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 57
-réalité est conforme au type. Christ est la Tête, la véritable Pierre de Dieu. Croyez-vous cela?
-La véritable Parole. L’Epouse est le Corps.
-     Voulez-vous quelques passages des Ecritures sur ce sujet afin que vous puissiez les lire?
-(Je voulais lire les Ecritures, mais je ne le ferai pas.) 1 Pierre 2.1-6; Ephésiens 5.23. Lisez ces
-deux chapitres.
-     L’Ancien Testament pointe nos regards vers Christ! Regardez ici: laissez-moi prendre ceci
-comme exemple (si ma femme n’a pas pris mon dollar… Le voici! Je me suis acheté des
-sandwiches il n’y a pas longtemps. Excusez-moi, mes amis, je ne devrais pas parler ainsi, j’ai une
-brave femme. Maintenant, je crois que si ce n’était grâce à elle, je n’aurais pas ce dollar; mais la
-miséricorde de Dieu nous l’a donné et elle m’a aidé). Au verso de celui-ci, il semble que si c’est
-bien là notre monnaie, le sceau américain qui est sur le côté gauche du dollar devrait être le grand
-sceau de notre pays. Est-ce vrai? Eh bien, pourquoi la pyramide est-elle appelée le grand sceau?
-Même notre monnaie doit en rendre témoignage. Oui, chaque fois que vous envoyez une carte
-postale ou quelque chose d’autre, ce nombre témoigne de l’année de la naissance de notre
-Seigneur: 1962. Tout rend témoignage de Christ, vous voyez?
-     Avez-vous remarqué que le grand sceau, c’est la pyramide? Saviez-vous qu’on n’a jamais
-placé de pierre de faîte sur la pyramide? Combien savent cela? C’est certain! Je suis allé là-bas
-en Egypte, au Caire; je l’ai vue. Il n’y a jamais eu de pierre de faîte. Pourquoi? La pierre angulaire
-a été rejetée. C’était la pierre angulaire qui soutenait ce bâtiment. C’est une clef de voûte.
-Combien savent ce qu’est une clef de voûte? Lorsqu’on construit une arche, c’est la clef de voûte
-qui la fait tenir. La pierre angulaire est ce qui soutient le bâtiment, n’est-ce pas vrai? Et la pierre
-angulaire dans la pyramide était la pierre du faîte, c’est-à-dire la clef de voûte qui fait tenir le tout
-ensemble. Ainsi, la clef de voûte a été rejetée.
-     Avez-vous remarqué ici en haut comment elle se trouve séparée au-dessus de la pyramide?
-Que représentait cela lorsqu’Enoch la construisit?
-     Voici ce qui est arrivé: C’est semblable à la venue de l’Eglise de l’Evangile. Regardez en bas,
-la partie large de la pyramide représente les premiers jours de la Réforme: le simple fait de vous
-appeler un chrétien et de renier l’église catholique signifiait que vous alliez être mis à mort.
-Ensuite, on prêcha la justification par la foi.
-     Maintenant observez les trois qui viennent de nouveau. John Wesley est venu prêcher la
-sanctification. L’église devient de plus en plus une minorité. Vous voyez, cela descend dans cette
-direction.
-     Après les jours de sanctification de John Wesley vint l’église pentecôtiste; Dieu en retira un
-reste, tous ceux qui acceptaient la Parole. Lorsque cela arriva au mouvement pentecôtiste, la
-coupe fut encore bien plus sévère parce qu’il y avait la restauration des dons. Cela les conduisait
-de plus en plus vers le haut. Qu’est-ce que cela signifie? Là tout en bas on est encore loin des
-regards de la Tête. Ici c’est un peu plus près de la Tête. Ici c’est encore plus près, mais cela doit
-s’ajuster absolument avec le reste. Cela doit être ajusté. Dans la pyramide vous ne pourriez pas
-glisser une lame de rasoir entre les blocs de pierre, tant l’assemblage est ajusté. Il paraît que
-c’était pareil avec le temple de Salomon.
-     Dieu retire les élus de cette église pentecôtiste, cette hybride. Il les retire et accomplit la
-Parole. Cela doit devenir ajusté à un point tel que la Parole Elle-même fusionnera avec cette
-Parole. Voici la Pierre du faîte qui crie: “Grâce, grâce, grâce merveilleuse!”. La Pierre du faîte!
-Vous êtes comme ceci, vous voyez, sur ceci. Voyez-vous comment c’est ici tout en bas? Mais cela
-se rapproche de plus en plus (le ministère). Voici Luther avec la justification; voici Wesley avec
-ceux qui sont sanctifiés. Et voilà les Pentecôtistes avec la restauration des dons.
-     De là, Dieu en prend un lot, les ajuste pour en faire un ministère exactement conforme à cette
-Parole-là, parce que cela doit s’ajuster avec la Parole. Voilà l’Epouse; Il l’enlève.
-     Christ fut donc manifesté pour détruire les oeuvres du diable. Le croyez-vous? Maintenant je
-ne peux pas expliquer tout cela; je vais simplement passer en revue les points principaux afin que
-vous, ne restiez pas trop longtemps. Christ fut manifesté pour détruire les oeuvres du diable.
-Est-ce vrai? Croyez-vous tous cela? Qu’était-Il? La Parole de Dieu qui détruit les oeuvres de
-l’hybride, du diable. Est-ce vrai? Il fut suscité pour faire cela; Il naquit pour être cela, pour
-détruire les oeuvres du diable.
+réalité est conforme au type. Christ est la Tête, la véritable Pierre de Dieu. Croyez-vous cela? La véritable Parole. L’Epouse est le Corps.
+Voulez-vous quelques passages des Ecritures sur ce sujet afin que vous puissiez les lire? (Je voulais lire les Ecritures, mais je ne le ferai pas.) 1 Pierre 2.1-6; Ephésiens 5.23. Lisez ces deux chapitres.
+L’Ancien Testament pointe nos regards vers Christ! Regardez ici: laissez-moi prendre ceci comme exemple (si ma femme n’a pas pris mon dollar… Le voici! Je me suis acheté des sandwiches il n’y a pas longtemps. Excusez-moi, mes amis, je ne devrais pas parler ainsi, j’ai une brave femme. Maintenant, je crois que si ce n’était grâce à elle, je n’aurais pas ce dollar; mais la miséricorde de Dieu nous l’a donné et elle m’a aidé). Au verso de celui-ci, il semble que si c’est bien là notre monnaie, le sceau américain qui est sur le côté gauche du dollar devrait être le grand sceau de notre pays. Est-ce vrai? Eh bien, pourquoi la pyramide est-elle appelée le grand sceau? Même notre monnaie doit en rendre témoignage. Oui, chaque fois que vous envoyez une carte postale ou quelque chose d’autre, ce nombre témoigne de l’année de la naissance de notre Seigneur: 1962. Tout rend témoignage de Christ, vous voyez?
+Avez-vous remarqué que le grand sceau, c’est la pyramide? Saviez-vous qu’on n’a jamais placé de pierre de faîte sur la pyramide? Combien savent cela? C’est certain! Je suis allé là-bas en Egypte, au Caire; je l’ai vue. Il n’y a jamais eu de pierre de faîte. Pourquoi? La pierre angulaire a été rejetée. C’était la pierre angulaire qui soutenait ce bâtiment. C’est une clef de voûte. Combien savent ce qu’est une clef de voûte? Lorsqu’on construit une arche, c’est la clef de voûte qui la fait tenir. La pierre angulaire est ce qui soutient le bâtiment, n’est-ce pas vrai? Et la pierre angulaire dans la pyramide était la pierre du faîte, c’est-à-dire la clef de voûte qui fait tenir le tout ensemble. Ainsi, la clef de voûte a été rejetée.
+Avez-vous remarqué ici en haut comment elle se trouve séparée au-dessus de la pyramide? Que représentait cela lorsqu’Enoch la construisit?
+Voici ce qui est arrivé: C’est semblable à la venue de l’Eglise de l’Evangile. Regardez en bas, la partie large de la pyramide représente les premiers jours de la Réforme: le simple fait de vous appeler un chrétien et de renier l’église catholique signifiait que vous alliez être mis à mort. Ensuite, on prêcha la justification par la foi.
+Maintenant observez les trois qui viennent de nouveau. John Wesley est venu prêcher la sanctification. L’église devient de plus en plus une minorité. Vous voyez, cela descend dans cette direction.
+Après les jours de sanctification de John Wesley vint l’église pentecôtiste; Dieu en retira un reste, tous ceux qui acceptaient la Parole. Lorsque cela arriva au mouvement pentecôtiste, la coupe fut encore bien plus sévère parce qu’il y avait la restauration des dons. Cela les conduisait de plus en plus vers le haut. Qu’est-ce que cela signifie? Là tout en bas on est encore loin des regards de la Tête. Ici c’est un peu plus près de la Tête. Ici c’est encore plus près, mais cela doit s’ajuster absolument avec le reste. Cela doit être ajusté. Dans la pyramide vous ne pourriez pas glisser une lame de rasoir entre les blocs de pierre, tant l’assemblage est ajusté. Il paraît que c’était pareil avec le temple de Salomon.
+Dieu retire les élus de cette église pentecôtiste, cette hybride. Il les retire et accomplit la Parole. Cela doit devenir ajusté à un point tel que la Parole Elle-même fusionnera avec cette Parole. Voici la Pierre du faîte qui crie: “Grâce, grâce, grâce merveilleuse!”. La Pierre du faîte! Vous êtes comme ceci, vous voyez, sur ceci. Voyez-vous comment c’est ici tout en bas? Mais cela se rapproche de plus en plus (le ministère). Voici Luther avec la justification; voici Wesley avec ceux qui sont sanctifiés. Et voilà les Pentecôtistes avec la restauration des dons.
+De là, Dieu en prend un lot, les ajuste pour en faire un ministère exactement conforme à cette Parole-là, parce que cela doit s’ajuster avec la Parole. Voilà l’Epouse; Il l’enlève.
+Christ fut donc manifesté pour détruire les oeuvres du diable. Le croyez-vous? Maintenant je ne peux pas expliquer tout cela; je vais simplement passer en revue les points principaux afin que vous, ne restiez pas trop longtemps. Christ fut manifesté pour détruire les oeuvres du diable. Est-ce vrai? Croyez-vous tous cela? Qu’était-Il? La Parole de Dieu qui détruit les oeuvres de l’hybride, du diable. Est-ce vrai? Il fut suscité pour faire cela; Il naquit pour être cela, pour détruire les oeuvres du diable.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 58
-     Maintenant Son Corps doit faire la même chose, parce que la Tête et le Corps sont
-ensemble, n’est-ce pas? Si Christ est la Tête (Il était la Parole), Son Corps doit être pareil à Sa
-Tête. N’est-ce pas vrai? Une Eglise de la Parole, née de la Parole! Née virginalement de la
-Parole et non pas d’une manière dénominationnelle. Née virginalement de la Parole.
-     C’est par la Tête que le Corps opère. N’est-ce pas vrai? Mon corps ne peut pas se mouvoir
-avant que ma tête ne lui dise de bouger. Mais que se passerait-il si ma tête était de chair et mon
-corps de béton? Il ne pourrait se mouvoir. La tête aurait beau dire: «bouge, bouge, bouge, bouge,
-bouge» il n’y aurait rien à quoi le message pourrait être envoyé, n’est-ce pas? Alors si ma tête
-est Christ et que mon corps soit une dénomination, comment cela va-t-il agir? Comment la
-pureté et la prostitution pourraient-elles oeuvrer ensemble?
-     Oh, j’aime ceci, frères, c’est moi qui vous le dis! J’aimerais une fois prêcher sur
-quelques-unes de ces choses. C’est par le moyen de la tête que le corps opère, et la Tête est la
-Parole. N’est-ce pas vrai? La Tête est la Parole! Faisons maintenant une comparaison avec
-l’église moderne. Pourquoi n’a-t-elle pas de miracles en elle? Pourquoi n’a-t-elle pas la Parole en
-elle? La Parole ne peut pas l’atteindre parce que la dénomination la stoppe. C’est certain!
-     Si par exemple un bon et pieux homme de Dieu vient prêcher la Parole de Dieu de son mieux
-à partir de la Bible, la dénomination dit: «Oh non! Pas de cela! Faites-le sortir d’ici!». Vous voyez?
-Le Corps ne peut pas se mouvoir. Il ne peut que s’essouffler.
-     Le Corps poursuit l’oeuvre et accomplit les oeuvres que la Tête lui commande de faire.
-Montrez-moi où Elle ait jamais dit: “Organise-toi!”. Montrez-moi où la Tête ait jamais dit qu’il était
-permis à la femme de se couper les cheveux! Montrez-le-moi: on ne le trouve pas! Montrez-moi
-où la Tête dit: “Je fais ces oeuvres, mais vous ne les ferez pas!”. Montrez-le-moi! En réalité la
-Tête dit ceci (si vous voulez noter ce passage, c’est Jean 14.12): “Les oeuvres que je fais, vous
-les ferez aussi”. C’est Son Corps, vous voyez.
-     Voyez-vous maintenant pourquoi j’ai veillé avec tant de zèle à la sorte de semence que
-j’ai plantée pour le Corps? La pluie va bientôt tomber, je veux dire la pluie VERITABLE. Et il
-faut qu’elle ait une semence sur laquelle tomber. J’espère vivre pour le voir! Comprenez-vous
-maintenant? Ce sera la Parole vivante comme Elle était au commencement, la Parole parlée
-de Dieu qui aura Sa puissance parce qu’Elle est en Lui dans Son propre Corps, travaillant
-selon Sa manière à Lui. Veillez aux promesses que Dieu a faites à ce Corps!
-     Maintenant nous arrivons à quelque chose, nous arrivons à la montagne de Sion. Regardons
-ce qu’Il a dit de ce Corps, de celui qui est né d’une naissance virginale. Nous en voyons les
-imitations; nous les voyons chaque jour. Mais venons-en à ce véritable Corps et voyons ce qu’Il a
-dit à son sujet. Bien! Voici ce qu’Il a promis.
-     Croyez-vous que Jean 3.16 est la vérité? Il faut vraiment que je le lise. Tout est là. Bien. Que
-tous ceux qui croient Jean 3.16: “Car Dieu a tant aimé le monde qu’Il a donné son Fils unique…”
-disent «amen». Je vous conjure de croire tout le reste! Je parle du Corps maintenant.
-     Commençons avec Jean 20 depuis le verset 19. Ecoutez attentivement.
-     Je vous conjure de croire cela! Oh, combien j’aime ces choses! Oh si je pouvais seulement
-voir le Saint-Esprit planer ici au-dessus et dire: «C’est moi». Ecoutez:
-     “Le soir de ce jour, qui était le premier de la semaine, les portes du lieu où se trouvaient les
-disciples étant fermées à cause de la crainte qu’ils avaient des Juifs, Jésus vint, se présenta au
-milieu d’eux, et leur dit: La paix soit avec vous! Et quand il eut dit cela, il leur montra ses mains et
-son côté. Les disciples furent dans la joie en voyant le Seigneur. Jésus leur dit de nouveau: La
-paix soit avec vous! (Oh, êtes-vous prêts?) Comme le Père m’a envoyé (Il est la Parole, la
-Semence, la Semence-Parole), moi aussi je vous envoie (Croyez-vous cela? Ne nous arrêtons
-pas là; il y a encore plus). Après ces paroles, il souffla sur eux, et leur dit: Recevez le Saint-Esprit.
-Ceux à qui vous pardonnerez les péchés, ils leur seront pardonnés; et ceux à qui vous les
-retiendrez, ils leur seront retenus”.
-     Est-ce la vérité? A qui a-t-Il dit cela? A la Semence, à la Parole. Pourquoi? Ils ne
-pouvaient naître que par la Parole. Voilà la raison. Croyez-vous cela? Maintenant prenons
-Matthieu 16.19. Lisons cela pendant une minute.
-     “Je te donnerai les clefs du royaume des cieux: Ce que tu lieras sur la terre sera lié dans les
+Maintenant Son Corps doit faire la même chose, parce que la Tête et le Corps sont ensemble, n’est-ce pas? Si Christ est la Tête (Il était la Parole), Son Corps doit être pareil à Sa Tête. N’est-ce pas vrai? Une Eglise de la Parole, née de la Parole! Née virginalement de la Parole et non pas d’une manière dénominationnelle. Née virginalement de la Parole.
+C’est par la Tête que le Corps opère. N’est-ce pas vrai? Mon corps ne peut pas se mouvoir avant que ma tête ne lui dise de bouger. Mais que se passerait-il si ma tête était de chair et mon corps de béton? Il ne pourrait se mouvoir. La tête aurait beau dire: «bouge, bouge, bouge, bouge, bouge» il n’y aurait rien à quoi le message pourrait être envoyé, n’est-ce pas? Alors si ma tête est Christ et que mon corps soit une dénomination, comment cela va-t-il agir? Comment la pureté et la prostitution pourraient-elles oeuvrer ensemble?
+Oh, j’aime ceci, frères, c’est moi qui vous le dis! J’aimerais une fois prêcher sur quelques-unes de ces choses. C’est par le moyen de la tête que le corps opère, et la Tête est la Parole. N’est-ce pas vrai? La Tête est la Parole! Faisons maintenant une comparaison avec l’église moderne. Pourquoi n’a-t-elle pas de miracles en elle? Pourquoi n’a-t-elle pas la Parole en elle? La Parole ne peut pas l’atteindre parce que la dénomination la stoppe. C’est certain!
+Si par exemple un bon et pieux homme de Dieu vient prêcher la Parole de Dieu de son mieux à partir de la Bible, la dénomination dit: «Oh non! Pas de cela! Faites-le sortir d’ici!». Vous voyez? Le Corps ne peut pas se mouvoir. Il ne peut que s’essouffler.
+Le Corps poursuit l’oeuvre et accomplit les oeuvres que la Tête lui commande de faire. Montrez-moi où Elle ait jamais dit: “Organise-toi!”. Montrez-moi où la Tête ait jamais dit qu’il était permis à la femme de se couper les cheveux! Montrez-le-moi: on ne le trouve pas! Montrez-moi où la Tête dit: “Je fais ces oeuvres, mais vous ne les ferez pas!”. Montrez-le-moi! En réalité la Tête dit ceci (si vous voulez noter ce passage, c’est Jean 14.12): “Les oeuvres que je fais, vous les ferez aussi”. C’est Son Corps, vous voyez.
+Voyez-vous maintenant pourquoi j’ai veillé avec tant de zèle à la sorte de semence que j’ai plantée pour le Corps? La pluie va bientôt tomber, je veux dire la pluie VERITABLE. Et il faut qu’elle ait une semence sur laquelle tomber. J’espère vivre pour le voir! Comprenez-vous maintenant? Ce sera la Parole vivante comme Elle était au commencement, la Parole parlée de Dieu qui aura Sa puissance parce qu’Elle est en Lui dans Son propre Corps, travaillant selon Sa manière à Lui. Veillez aux promesses que Dieu a faites à ce Corps!
+Maintenant nous arrivons à quelque chose, nous arrivons à la montagne de Sion. Regardons ce qu’Il a dit de ce Corps, de celui qui est né d’une naissance virginale. Nous en voyons les imitations; nous les voyons chaque jour. Mais venons-en à ce véritable Corps et voyons ce qu’Il a dit à son sujet. Bien! Voici ce qu’Il a promis.
+Croyez-vous que Jean 3.16 est la vérité? Il faut vraiment que je le lise. Tout est là. Bien. Que tous ceux qui croient Jean 3.16: “Car Dieu a tant aimé le monde qu’Il a donné son Fils unique…” disent «amen». Je vous conjure de croire tout le reste! Je parle du Corps maintenant.
+Commençons avec Jean 20 depuis le verset 19. Ecoutez attentivement.
+Je vous conjure de croire cela! Oh, combien j’aime ces choses! Oh si je pouvais seulement voir le Saint-Esprit planer ici au-dessus et dire: «C’est moi». Ecoutez:
+“Le soir de ce jour, qui était le premier de la semaine, les portes du lieu où se trouvaient les disciples étant fermées à cause de la crainte qu’ils avaient des Juifs, Jésus vint, se présenta au milieu d’eux, et leur dit: La paix soit avec vous! Et quand il eut dit cela, il leur montra ses mains et son côté. Les disciples furent dans la joie en voyant le Seigneur. Jésus leur dit de nouveau: La paix soit avec vous! (Oh, êtes-vous prêts?) Comme le Père m’a envoyé (Il est la Parole, la Semence, la Semence-Parole), moi aussi je vous envoie (Croyez-vous cela? Ne nous arrêtons pas là; il y a encore plus). Après ces paroles, il souffla sur eux, et leur dit: Recevez le Saint-Esprit. Ceux à qui vous pardonnerez les péchés, ils leur seront pardonnés; et ceux à qui vous les retiendrez, ils leur seront retenus”.
+Est-ce la vérité? A qui a-t-Il dit cela? A la Semence, à la Parole. Pourquoi? Ils ne pouvaient naître que par la Parole. Voilà la raison. Croyez-vous cela? Maintenant prenons Matthieu 16.19. Lisons cela pendant une minute.
+“Je te donnerai les clefs du royaume des cieux: Ce que tu lieras sur la terre sera lié dans les
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 59
 cieux, et ce que tu délieras sur la terre sera délié dans les cieux”.
-    Je vous conjure de croire cela! Et si cela n’est pas la Parole, Jean 3.16 n’est pas non plus la
-Parole! Pourquoi prendriez-vous l’un et pas l’autre? Toute la Parole de Dieu est vraie, mais Elle
-doit entrer dans une matrice vierge où rien d’autre ne se trouve que la Semence.
-Croyez-vous cela? Bien! Maintenant considérez cela bien attentivement.
-    Je sais que la prostituée le prétend aussi et qu’ils pardonnent les péchés par leur puissance
-dénominationnelle. Mais voyez leurs enfants: ils sont de tous les bals, se coupent les cheveux, se
-barbouillent comme des clowns; les hommes vivent avec les femmes d’autres hommes et flirtent
-dans la rue; ils ont des bains mixtes et tout le reste. Ils peuvent bien pardonner! Ils pardonnent les
-péchés à leur manière, mais leurs fruits montrent ce qu’ils sont. Ce qu’ils font n’est pas juste! Que
-font-elles? Elles portent des shorts, se coupent les cheveux et se maquillent. Jésus a dit: “Vous
-les reconnaîtrez à leurs fruits”, au genre de semence qu’ils sont. C’est cela.
-    La semence dénominationnelle donne un pardon dénominationnel. C’est exactement
-cela. Dieu a dit: “Que la Parole produise selon son espèce”. C’est ce qu’Elle fait. C’est vrai. Oh,
-frères, les Ecritures sont vraies! Le croyez-vous?
-    Le Saint-Esprit rend témoignage du don prédestiné que l’église prétend avoir. Comment? En
-arrosant la Parole et en ponctuant la Parole d’un “amen”.
-    Lorsqu’Elle dit: “Repentez-vous et soyez baptisés au Nom de Jésus-Christ”, c’est: “AMEN!”.
-Lorsqu’Elle dit ces autres choses, c’est: “AMEN!”. Voilà! C’est “AMEN” à tout, vous voyez. Il
-ponctue la Parole. Dieu prédestina le don à venir, le don de remettre les péchés, mais cela fut
-donné au Corps Parole rempli de l’Esprit parce que la Parole seule peut pardonner les péchés,
-parce que la Parole est Dieu.
-    Comme les pharisiens avaient raison! J’ai mentionné ce matin que nous y arriverions.
-Maintenant j’ai utilisé tout mon temps. Les pharisiens dirent: “Cet homme prétend pardonner les
-péchés; nous savons qu’il blasphème, car Dieu seul peut pardonner les péchés. Et cet homme a
-pardonné des péchés!”. Ils ne savaient pas qu’Il était la Parole. La Parole pardonne les péchés
-parce qu’Elle est Dieu. Dieu savait d’avance par Sa prescience quels seraient ceux qui prendraient
-ce don et qui l’utiliseraient de façon correcte. Ceux qui l’ont sont confirmés par la Parole de Dieu,
-avec le reste de la Parole et l’Esprit. Est-ce clair? Certains voudraient vous faire croire que cela
-vient par les études et les diplômes, en allant à l’école tant de temps, en devenant évêque, en
-étudiant pour être pape, cardinal ou quelque chose de ce genre. Certains voudraient nous faire
-croire que cela vient ainsi, ou par l’imposition des mains, ou par quelque chose à faire. Mais ils
-sont en dehors de la Parole!
-    Romains 11.29 dit: “Dieu ne se repent pas de ses dons et de son appel”. C’est Dieu qui les
-donne. C’est aussi dans Jean 15.16, si vous voulez le noter. Ecoutez bien ceci maintenant: de Son
-temps, comme Jésus était différent des dénominations d’alors! Je voudrais m’arrêter un moment
-là-dessus. Ils regardaient derrière eux en remontant dans le temps et disaient: “Nous sommes les
-disciples de Moïse; nous savons que Dieu est apparu à Moïse dans le buisson ardent, nous le
-savons!”. Ils connaissaient l’histoire de Moïse mais ils ne reconnurent pas le Dieu de Moïse
-lorsqu’Il se tint devant eux dans Jean 8 et qu’Il leur dit: “Avant que Moïse fût, avant
-qu’Abraham fût, JE SUIS”. C’était le buisson ardent! Pourtant ils connaissaient l’histoire de
-Moïse!
-    C’est pareil aujourd’hui. Ils prétendent connaître la Parole de Christ mais ne connaissent pas
-le Dieu qui était en Christ. Qui peut être réchauffé par la peinture d’un feu, par une expérience de
-séminaire? Ils connaissaient Moïse, mais pas son Dieu!
-    Jésus pouvait dire et disait effectivement: AMEN! Ecoutez ceci, frères. Je me sens
-maintenant comme David quand il faisait tournoyer sa fronde. J’espère que je ne vous semble pas
-sacrilège, mes amis! Je me sens très bien; je commence à me sentir plutôt bien maintenant.
-    Jésus pouvait dire et dit effectivement: “Le Père qui m’a envoyé est en moi et comme il m’a
-envoyé, moi aussi je vous envoie”. Il dit cela à Ses disciples. “Le père qui m’a envoyé est avec
-moi. Si je ne fais pas les oeuvres de la Parole promises par mon Père, alors ne me croyez pas.
-Mais ce sont elles qui témoignent de moi!”. Alléluia! O église, où en es-tu? Ils disaient: “Nous
-savons que Dieu a fait cela, mais pas aujourd’hui. Nous savons que Dieu était avec Moïse”.
+Je vous conjure de croire cela! Et si cela n’est pas la Parole, Jean 3.16 n’est pas non plus la Parole! Pourquoi prendriez-vous l’un et pas l’autre? Toute la Parole de Dieu est vraie, mais Elle doit entrer dans une matrice vierge où rien d’autre ne se trouve que la Semence. Croyez-vous cela? Bien! Maintenant considérez cela bien attentivement.
+Je sais que la prostituée le prétend aussi et qu’ils pardonnent les péchés par leur puissance dénominationnelle. Mais voyez leurs enfants: ils sont de tous les bals, se coupent les cheveux, se barbouillent comme des clowns; les hommes vivent avec les femmes d’autres hommes et flirtent dans la rue; ils ont des bains mixtes et tout le reste. Ils peuvent bien pardonner! Ils pardonnent les péchés à leur manière, mais leurs fruits montrent ce qu’ils sont. Ce qu’ils font n’est pas juste! Que font-elles? Elles portent des shorts, se coupent les cheveux et se maquillent. Jésus a dit: “Vous les reconnaîtrez à leurs fruits”, au genre de semence qu’ils sont. C’est cela.
+La semence dénominationnelle donne un pardon dénominationnel. C’est exactement cela. Dieu a dit: “Que la Parole produise selon son espèce”. C’est ce qu’Elle fait. C’est vrai. Oh, frères, les Ecritures sont vraies! Le croyez-vous?
+Le Saint-Esprit rend témoignage du don prédestiné que l’église prétend avoir. Comment? En arrosant la Parole et en ponctuant la Parole d’un “amen”.
+Lorsqu’Elle dit: “Repentez-vous et soyez baptisés au Nom de Jésus-Christ”, c’est: “AMEN!”. Lorsqu’Elle dit ces autres choses, c’est: “AMEN!”. Voilà! C’est “AMEN” à tout, vous voyez. Il ponctue la Parole. Dieu prédestina le don à venir, le don de remettre les péchés, mais cela fut donné au Corps Parole rempli de l’Esprit parce que la Parole seule peut pardonner les péchés, parce que la Parole est Dieu.
+Comme les pharisiens avaient raison! J’ai mentionné ce matin que nous y arriverions. Maintenant j’ai utilisé tout mon temps. Les pharisiens dirent: “Cet homme prétend pardonner les péchés; nous savons qu’il blasphème, car Dieu seul peut pardonner les péchés. Et cet homme a pardonné des péchés!”. Ils ne savaient pas qu’Il était la Parole. La Parole pardonne les péchés parce qu’Elle est Dieu. Dieu savait d’avance par Sa prescience quels seraient ceux qui prendraient ce don et qui l’utiliseraient de façon correcte. Ceux qui l’ont sont confirmés par la Parole de Dieu, avec le reste de la Parole et l’Esprit. Est-ce clair? Certains voudraient vous faire croire que cela vient par les études et les diplômes, en allant à l’école tant de temps, en devenant évêque, en étudiant pour être pape, cardinal ou quelque chose de ce genre. Certains voudraient nous faire croire que cela vient ainsi, ou par l’imposition des mains, ou par quelque chose à faire. Mais ils sont en dehors de la Parole!
+Romains 11.29 dit: “Dieu ne se repent pas de ses dons et de son appel”. C’est Dieu qui les donne. C’est aussi dans Jean 15.16, si vous voulez le noter. Ecoutez bien ceci maintenant: de Son temps, comme Jésus était différent des dénominations d’alors! Je voudrais m’arrêter un moment là-dessus. Ils regardaient derrière eux en remontant dans le temps et disaient: “Nous sommes les disciples de Moïse; nous savons que Dieu est apparu à Moïse dans le buisson ardent, nous le savons!”. Ils connaissaient l’histoire de Moïse mais ils ne reconnurent pas le Dieu de Moïse lorsqu’Il se tint devant eux dans Jean 8 et qu’Il leur dit: “Avant que Moïse fût, avant qu’Abraham fût, JE SUIS”. C’était le buisson ardent! Pourtant ils connaissaient l’histoire de Moïse!
+C’est pareil aujourd’hui. Ils prétendent connaître la Parole de Christ mais ne connaissent pas le Dieu qui était en Christ. Qui peut être réchauffé par la peinture d’un feu, par une expérience de séminaire? Ils connaissaient Moïse, mais pas son Dieu!
+Jésus pouvait dire et disait effectivement: AMEN! Ecoutez ceci, frères. Je me sens maintenant comme David quand il faisait tournoyer sa fronde. J’espère que je ne vous semble pas sacrilège, mes amis! Je me sens très bien; je commence à me sentir plutôt bien maintenant.
+Jésus pouvait dire et dit effectivement: “Le Père qui m’a envoyé est en moi et comme il m’a envoyé, moi aussi je vous envoie”. Il dit cela à Ses disciples. “Le père qui m’a envoyé est avec moi. Si je ne fais pas les oeuvres de la Parole promises par mon Père, alors ne me croyez pas. Mais ce sont elles qui témoignent de moi!”. Alléluia! O église, où en es-tu? Ils disaient: “Nous savons que Dieu a fait cela, mais pas aujourd’hui. Nous savons que Dieu était avec Moïse”.
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
-    LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    60
-     Jésus avait aussi dit: “Le Dieu qui est avec moi est en moi, mais si vous ne le croyez pas,
-regardez ce qui est écrit de moi. Regardez ce que les Ecritures disent que je ferai; si je ne
-corresponds pas aux Ecritures, alors ne me croyez pas!”.
-     Je ne veux pas être sacrilège, mais je veux dire ceci du message que je prêche: si Dieu ne
-confirme pas qu’il est la vérité, alors il ne l’est pas. Mais si la Parole confirme que je vous
-dis la vérité, alors croyez la Parole! C’est Elle qui témoigne si je dis la vérité ou non. C’est Elle
-qui en rend témoignage. C’est Elle qui rend témoignage du ministère qu’Il m’a donné. Il l’a promis
-pour les derniers jours. C’est là! Il a dit ce que ferait ce ministère. Il est là! Nous entrons tout droit
-dans cela maintenant. Vous verrez si oui ou non c’est la vérité.
-     Que ce soit Dieu qui rende témoignage! Si les oeuvres, les choses que je prêche ne rendent
-pas témoignage que c’est la vérité, alors ce n’est pas la vérité. Mais si la Parole en parle et
-qu’effectivement cela arrive, qu’en ferez-vous?
-     Jésus a dit: “Je vous connais! Vous croyez connaître Moïse. Vous pouvez bien connaître
-l’histoire de Moïse, mais vous ne connaissez pas son Dieu car j’étais avant Moïse. J’étais Celui qui
-parla à Moïse. Je suis le JE SUIS! Je suis la PAROLE”. Ils ne pouvaient pas le voir parce qu’ils
-étaient de leur père le diable. Leurs dénominations ne voulaient pas les laisser voir cela. Mais cela
-n’a pas empêché la Parole d’aller de l’avant, et comme d’habitude Elle est tombée sur
-quelques-uns, et de là est sortie une Epouse dans cette génération.
-     Quelle différence avec la peinture d’un feu! Jésus disait: “Le Père qui m’a envoyé est avec
-moi et les oeuvres que je fais en témoignent parce que je vais faire les mêmes choses que les
-Ecritures ont dit que je ferais”. Les Juifs connaissaient leur Dieu historique. C’est pareil
-aujourd’hui. S’ils connaissaient un Dieu historique c’est parce qu’ils avaient une semence
-historique! Pourquoi ne Le reçurent-ils pas? Parce qu’ils étaient hybridés avec les dénominations.
-Jésus savait qui L’avait envoyé car Celui qui L’avait envoyé était en Lui et il n’y avait aucune
-dénomination attachée à Lui. Amen! Ils disaient: “De quelle école vient-Il? Où a-t-Il reçu cette
-sagesse? D’où Lui vient cette connaissance?”. Ils ne pouvaient pas trouver d’école où Il soit allé et
-pourtant, à douze ans, Il confondait les scribes et les pharisiens. Oh, mes frères! C’était
-l’accomplissement.
-     Pourquoi ne purent-ils Le reprendre quand Il n’était qu’en enfant? Parce qu’Il était la Parole
-de Dieu! Ils ne pouvaient pas résister à cela! Il n’est pas surprenant que les gens furent étonnés
-de Sa doctrine. Avez-vous déjà lu cela? C’est dans Marc 1.22, si vous voulez le noter. Les gens
-étaient étonnés de Sa doctrine parce qu’Il parlait comme ayant autorité. Vous comprenez, Il savait
-de quoi Il parlait. L’Eglise devrait avoir maintenant une double portion de l’Esprit! Car de même
-qu’il est vrai qu’Elisée reçut une double portion de l’Esprit qui était sur Elie lorsque son vêtement
-tomba sur lui, la même chose doit venir de Jésus-Christ.
-     Mais vous direz: «Oh, frère Branham, vous parlez de Son Eglise». C’est vrai, c’est Son
-Corps. Ma femme n’est-elle pas une partie de mon corps? Votre femme n’est-elle pas une partie
-de votre corps, chair de votre chair et os de vos os, une sainte union? N’est-ce pas vrai? C’est la
-raison pour laquelle un chrétien ne doit pas épouser une prostituée, vous voyez. Ce n’est pas
-juste, non, parce que cela brise toutes les choses de Dieu.
-     Mais vous direz: «Frère Branham, attendez une minute! Vous dites que l’Esprit de Christ
-repose sur…». La Bible dit qu’Il y serait! N’est-ce pas vrai? Ésaïe 9.6 dit: “Car un enfant nous est
-né, un Fils nous est donné; on L’appellera Conseiller, Prince de la Paix, Dieu Puissant, Père
-Eternel. Il n’y aura pas de fin à Son Royaume et le gouvernement sera sur Son…”. Quoi?
-[l’assemblée répond: «épaule.» — N.d.R.]. C’est une partie de Son Corps! C’est Son Corps,
-n’est-ce pas? Ses épaules font partie de Son Corps! Où se trouve le gouvernement sur la
-terre? Dans Son Corps! Les saints jugeront la terre, n’est-ce pas?
-     Paul dit dans 1 Corinthiens 6.1: “Si quelqu’un de vous, lorsqu’Il a un différend avec un autre,
-ose-t-il plaider devant les injustes et non devant les saints?”. C’est vrai: les saints jugeront le
-monde. Sur quoi se trouvera le gouvernement? Sur les épaules, sur Son Corps. Le gouvernement
-est sur Ses épaules. C’est une partie du Corps.
-     Qu’est-ce? Sa force terrestre. La force terrestre de Dieu est dans Sa Parole faite chair
-dans Son Corps ici sur terre, La faisant s’accomplir.
-     Ecoutez, laissons de côté une partie de cela. Les messagers de Dieu ont toujours été rejetés.
+LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 60
+Jésus avait aussi dit: “Le Dieu qui est avec moi est en moi, mais si vous ne le croyez pas, regardez ce qui est écrit de moi. Regardez ce que les Ecritures disent que je ferai; si je ne corresponds pas aux Ecritures, alors ne me croyez pas!”.
+Je ne veux pas être sacrilège, mais je veux dire ceci du message que je prêche: si Dieu ne confirme pas qu’il est la vérité, alors il ne l’est pas. Mais si la Parole confirme que je vous dis la vérité, alors croyez la Parole! C’est Elle qui témoigne si je dis la vérité ou non. C’est Elle qui en rend témoignage. C’est Elle qui rend témoignage du ministère qu’Il m’a donné. Il l’a promis pour les derniers jours. C’est là! Il a dit ce que ferait ce ministère. Il est là! Nous entrons tout droit dans cela maintenant. Vous verrez si oui ou non c’est la vérité.
+Que ce soit Dieu qui rende témoignage! Si les oeuvres, les choses que je prêche ne rendent pas témoignage que c’est la vérité, alors ce n’est pas la vérité. Mais si la Parole en parle et qu’effectivement cela arrive, qu’en ferez-vous?
+Jésus a dit: “Je vous connais! Vous croyez connaître Moïse. Vous pouvez bien connaître l’histoire de Moïse, mais vous ne connaissez pas son Dieu car j’étais avant Moïse. J’étais Celui qui parla à Moïse. Je suis le JE SUIS! Je suis la PAROLE”. Ils ne pouvaient pas le voir parce qu’ils étaient de leur père le diable. Leurs dénominations ne voulaient pas les laisser voir cela. Mais cela n’a pas empêché la Parole d’aller de l’avant, et comme d’habitude Elle est tombée sur quelques-uns, et de là est sortie une Epouse dans cette génération.
+Quelle différence avec la peinture d’un feu! Jésus disait: “Le Père qui m’a envoyé est avec moi et les oeuvres que je fais en témoignent parce que je vais faire les mêmes choses que les Ecritures ont dit que je ferais”. Les Juifs connaissaient leur Dieu historique. C’est pareil aujourd’hui. S’ils connaissaient un Dieu historique c’est parce qu’ils avaient une semence historique! Pourquoi ne Le reçurent-ils pas? Parce qu’ils étaient hybridés avec les dénominations. Jésus savait qui L’avait envoyé car Celui qui L’avait envoyé était en Lui et il n’y avait aucune dénomination attachée à Lui. Amen! Ils disaient: “De quelle école vient-Il? Où a-t-Il reçu cette sagesse? D’où Lui vient cette connaissance?”. Ils ne pouvaient pas trouver d’école où Il soit allé et pourtant, à douze ans, Il confondait les scribes et les pharisiens. Oh, mes frères! C’était l’accomplissement.
+Pourquoi ne purent-ils Le reprendre quand Il n’était qu’en enfant? Parce qu’Il était la Parole de Dieu! Ils ne pouvaient pas résister à cela! Il n’est pas surprenant que les gens furent étonnés de Sa doctrine. Avez-vous déjà lu cela? C’est dans Marc 1.22, si vous voulez le noter. Les gens étaient étonnés de Sa doctrine parce qu’Il parlait comme ayant autorité. Vous comprenez, Il savait de quoi Il parlait. L’Eglise devrait avoir maintenant une double portion de l’Esprit! Car de même qu’il est vrai qu’Elisée reçut une double portion de l’Esprit qui était sur Elie lorsque son vêtement tomba sur lui, la même chose doit venir de Jésus-Christ.
+Mais vous direz: «Oh, frère Branham, vous parlez de Son Eglise». C’est vrai, c’est Son Corps. Ma femme n’est-elle pas une partie de mon corps? Votre femme n’est-elle pas une partie de votre corps, chair de votre chair et os de vos os, une sainte union? N’est-ce pas vrai? C’est la raison pour laquelle un chrétien ne doit pas épouser une prostituée, vous voyez. Ce n’est pas juste, non, parce que cela brise toutes les choses de Dieu.
+Mais vous direz: «Frère Branham, attendez une minute! Vous dites que l’Esprit de Christ repose sur…». La Bible dit qu’Il y serait! N’est-ce pas vrai? Ésaïe 9.6 dit: “Car un enfant nous est né, un Fils nous est donné; on L’appellera Conseiller, Prince de la Paix, Dieu Puissant, Père Eternel. Il n’y aura pas de fin à Son Royaume et le gouvernement sera sur Son…”. Quoi? [l’assemblée répond: «épaule.» — N.d.R.]. C’est une partie de Son Corps! C’est Son Corps, n’est-ce pas? Ses épaules font partie de Son Corps! Où se trouve le gouvernement sur la terre? Dans Son Corps! Les saints jugeront la terre, n’est-ce pas?
+Paul dit dans 1 Corinthiens 6.1: “Si quelqu’un de vous, lorsqu’Il a un différend avec un autre, ose-t-il plaider devant les injustes et non devant les saints?”. C’est vrai: les saints jugeront le monde. Sur quoi se trouvera le gouvernement? Sur les épaules, sur Son Corps. Le gouvernement est sur Ses épaules. C’est une partie du Corps.
+Qu’est-ce? Sa force terrestre. La force terrestre de Dieu est dans Sa Parole faite chair dans Son Corps ici sur terre, La faisant s’accomplir.
+Ecoutez, laissons de côté une partie de cela. Les messagers de Dieu ont toujours été rejetés.
 
-     http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 61
-Croyez-vous cela? Moïse fut rejeté. N’est-ce pas vrai? Jésus fut rejeté. Luc 10.16 dit qu’Il fut
-rejeté. Dans 1 Samuel 8.7, le message de Dieu fut rejeté. Dieu avait un messager, un prophète
-appelé Samuel. Le croyez-vous? Ils le rejetèrent, lui et son message. Ils prirent le monde. Voici la
-loi de Dieu. (Je ne sais pas s’il faut dire cela ou non.) Voici la loi de Dieu: la loi de Dieu est de
-recevoir un serviteur confirmé. Prenons une minute pour le prouver. Je veux prendre un
-passage des Ecritures pour cela, Jean 13.20: “En vérité, en vérité, je vous le dis, celui qui reçoit
-celui que j’aurai envoyé me reçoit; et celui qui me reçoit reçoit celui qui m’a envoyé”.
-    Un serviteur confirmé! Oh, frères, il y aurait là de quoi faire un millier de prédications! C’est
-vrai. Oh, mes frères, c’est ici la loi de Dieu: RECEVEZ-LA!
-    Samuel descendit vers eux et leur dit: “Je veux vous demander quelque chose: Vous ai-je
-déjà dit quelque chose au Nom du Seigneur qui ne soit pas arrivé?”.
-    — “Non”.
-    — “Ai-je déjà prélevé des offrandes pour construire de grands bâtiments, faire de grandes
-choses et me glorifier?”.
-    — “Non”.
-    — “Dieu n’a-t-Il pas répondu à la Parole que j’ai dite et ne l’a-t-Il pas confirmée?”.
-    — “Oui”.
-    — “Alors pourquoi ne m’écoutez-vous pas?”.
-    Les pharisiens disaient à Jésus: “Nous savons que tu es né dans la fornication!”. Mais Il leur
-répondit: “Lequel parmi vous me convaincra de péché? Laissez-moi vous apporter la Parole de
-Dieu et voir si vous La croyez. Voyons si Dieu La confirme en vous. Laissez-moi parler de
-moi-même. Si je parle de mon propre chef, je suis un menteur; mais si je parle de Dieu et que
-Dieu parle par mon intermédiaire par Sa Parole, alors c’est la Vérité. Alors qui croit la Parole de
-Dieu: moi ou vous?”. Ah! Ils ne purent répliquer!
-    Jésus dit: “Celui qui reçoit ceux que j’envoie me reçoit”. Ceux qu’Il envoie! “Et ceux qui me
-reçoivent reçoivent Celui qui m’a envoyé”. Je souhaiterais que nous ayons le temps de nous
-attarder là-dessus.
-    Vous pouvez seulement servir Dieu comme vous le faites et croire les serviteurs que Dieu
-envoie. Vous ne pouvez servir Dieu sur cette terre que lorsque les serviteurs de Dieu
-envoyés sur la terre par inspiration divine interprètent la Parole pour vous.
-    Croyez-vous cela? Voulez-vous noter quelques passages de l’Ecriture relatifs à cela? Dans
-1 Corinthiens 4.16. Paul dit: “Soyez mes imitateurs comme je le suis moi-même de Christ”. Voyez
-aussi 1 Corinthiens 11.1 et Luc 10.16. Voyez ce que dit Jésus dans ces passages. Luc 10.16:
-“Celui qui vous écoute m’écoute, et celui qui vous rejette me rejette; et celui qui me rejette, rejette
-celui qui m’a envoyé”.
-    Cela prouve que Dieu proclame Son message par l’intermédiaire de Ses serviteurs. Il l’a
-toujours fait ainsi. C’est vrai.
-    C’est ici la puissance de l’Eglise croyante: Christ a tout pouvoir dans le Ciel et sur la terre. Le
-croyez-vous? Alors qu’en est-il s’Il est en vous? Christ a-t-Il tout pouvoir? Matthieu 28.18. Bien!
-    Il est la Parole Semence dans Son Corps: Lui en nous devient la Parole Semence en
-nous. Tout ce que Dieu était, Il l’a versé en Christ et tout ce que Christ était a été versé
-dans l’Eglise: c’est cela le pouvoir.
-    Maintenant soyez attentifs à ceci: souvenez-vous de la loi de. Dieu concernant la
-reproduction. Souvenez-vous-en: C’est “chacun selon son espèce”. N’est-ce pas vrai? La
-Semence de Christ, la Parole, doit venir par l’intermédiaire de Son Corps. (Commencez-vous
-à être fatigués? Juste une minute encore. Restons tranquilles et prions.) Je veux faire entrer cela
-profondément; je veux que cela pénètre bien. La Semence de Christ DOIT, d-o-i-t, doit venir
-par l’intermédiaire de Son Corps, non pas par l’intermédiaire d’une dénomination, mais par
-l’intermédiaire d’une semence née de nouveau, une semence de la Parole. Elle doit venir au
-travers d’elle.
-    Souvenez-vous en bien, qu’est-ce que c’est? La Semence de Christ! Comment vient ma
+Croyez-vous cela? Moïse fut rejeté. N’est-ce pas vrai? Jésus fut rejeté. Luc 10.16 dit qu’Il fut rejeté. Dans 1 Samuel 8.7, le message de Dieu fut rejeté. Dieu avait un messager, un prophète appelé Samuel. Le croyez-vous? Ils le rejetèrent, lui et son message. Ils prirent le monde. Voici la loi de Dieu. (Je ne sais pas s’il faut dire cela ou non.) Voici la loi de Dieu: la loi de Dieu est de recevoir un serviteur confirmé. Prenons une minute pour le prouver. Je veux prendre un passage des Ecritures pour cela, Jean 13.20: “En vérité, en vérité, je vous le dis, celui qui reçoit celui que j’aurai envoyé me reçoit; et celui qui me reçoit reçoit celui qui m’a envoyé”.
+Un serviteur confirmé! Oh, frères, il y aurait là de quoi faire un millier de prédications! C’est vrai. Oh, mes frères, c’est ici la loi de Dieu: RECEVEZ-LA!
+Samuel descendit vers eux et leur dit: “Je veux vous demander quelque chose: Vous ai-je déjà dit quelque chose au Nom du Seigneur qui ne soit pas arrivé?”.
+— “Non”.
+— “Ai-je déjà prélevé des offrandes pour construire de grands bâtiments, faire de grandes choses et me glorifier?”.
+— “Non”.
+— “Dieu n’a-t-Il pas répondu à la Parole que j’ai dite et ne l’a-t-Il pas confirmée?”.
+— “Oui”.
+— “Alors pourquoi ne m’écoutez-vous pas?”.
+Les pharisiens disaient à Jésus: “Nous savons que tu es né dans la fornication!”. Mais Il leur répondit: “Lequel parmi vous me convaincra de péché? Laissez-moi vous apporter la Parole de Dieu et voir si vous La croyez. Voyons si Dieu La confirme en vous. Laissez-moi parler de moi-même. Si je parle de mon propre chef, je suis un menteur; mais si je parle de Dieu et que Dieu parle par mon intermédiaire par Sa Parole, alors c’est la Vérité. Alors qui croit la Parole de Dieu: moi ou vous?”. Ah! Ils ne purent répliquer!
+Jésus dit: “Celui qui reçoit ceux que j’envoie me reçoit”. Ceux qu’Il envoie! “Et ceux qui me reçoivent reçoivent Celui qui m’a envoyé”. Je souhaiterais que nous ayons le temps de nous attarder là-dessus.
+Vous pouvez seulement servir Dieu comme vous le faites et croire les serviteurs que Dieu envoie. Vous ne pouvez servir Dieu sur cette terre que lorsque les serviteurs de Dieu envoyés sur la terre par inspiration divine interprètent la Parole pour vous.
+Croyez-vous cela? Voulez-vous noter quelques passages de l’Ecriture relatifs à cela? Dans 1 Corinthiens 4.16. Paul dit: “Soyez mes imitateurs comme je le suis moi-même de Christ”. Voyez aussi 1 Corinthiens 11.1 et Luc 10.16. Voyez ce que dit Jésus dans ces passages. Luc 10.16: “Celui qui vous écoute m’écoute, et celui qui vous rejette me rejette; et celui qui me rejette, rejette celui qui m’a envoyé”.
+Cela prouve que Dieu proclame Son message par l’intermédiaire de Ses serviteurs. Il l’a toujours fait ainsi. C’est vrai.
+C’est ici la puissance de l’Eglise croyante: Christ a tout pouvoir dans le Ciel et sur la terre. Le croyez-vous? Alors qu’en est-il s’Il est en vous? Christ a-t-Il tout pouvoir? Matthieu 28.18. Bien!
+Il est la Parole Semence dans Son Corps: Lui en nous devient la Parole Semence en nous. Tout ce que Dieu était, Il l’a versé en Christ et tout ce que Christ était a été versé dans l’Eglise: c’est cela le pouvoir.
+Maintenant soyez attentifs à ceci: souvenez-vous de la loi de. Dieu concernant la reproduction. Souvenez-vous-en: C’est “chacun selon son espèce”. N’est-ce pas vrai? La Semence de Christ, la Parole, doit venir par l’intermédiaire de Son Corps. (Commencez-vous à être fatigués? Juste une minute encore. Restons tranquilles et prions.) Je veux faire entrer cela profondément; je veux que cela pénètre bien. La Semence de Christ DOIT, d-o-i-t, doit venir par l’intermédiaire de Son Corps, non pas par l’intermédiaire d’une dénomination, mais par l’intermédiaire d’une semence née de nouveau, une semence de la Parole. Elle doit venir au travers d’elle.
+Souvenez-vous en bien, qu’est-ce que c’est? La Semence de Christ! Comment vient ma
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
-    LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    62
-semence? Par l’intermédiaire de mon corps. Comment vient la semence d’un pommier? Par
-l’intermédiaire du corps. La semence vient par l’intermédiaire du corps et l’Eglise est le
-Corps de Christ. N’est-ce pas vrai? L’Eglise de la Bible! Cette naissance (la nouvelle naissance)
-Le produit Lui-même dans un corps. Son Eglise est Sa Parole afin que les gens puissent voir
-la confirmation d’Hébreux 13.8: “Jésus-Christ est le même hier, aujourd’hui et éternellement”.
-Croyez-vous cela? Ceux-ci ne sont pas des hybrides dénominationnels. Ce sont ceux qui sont
-dans l’orbite, attendant le compte à rebours (vous comprenez ce que je veux dire), se préparant à
-partir sur une fusée. Gloire à Dieu! Ceux-ci ne sont pas des hybrides dénominationnels, ils ne se
-tiennent pas avec eux, ils ne sont pas de ce genre-la. Non! Ils sont la Semence.
-    Paul craignait que les gens ne soient attirés par une certaine manière de s’exprimer venant
-de son instruction et de son éducation. C’est dans 1 Corinthiens 2.1-8, si vous voulez le noter.
-Dans ce passage Paul dit: “Je ne suis pas allé chez vous avec une supériorité de langage (comme
-un intellectuel) pour que votre foi soit une foi de séminaire, je suis allé vers vous dans la simplicité,
-avec une démonstration du Saint-Esprit et de puissance afin que votre foi fût fondée sur la Parole
-de Dieu”. Parfaitement!
-    Bien que l’église dénominationnelle ait mille fois plus de membres que l’Epouse…
-Croyez-vous cela? Croyez-vous que la Bible l’enseigne? Il l’a promis dans Ésaïe 54.1.
-Voulez-vous que je le lise? Très bien. Si vous voulez voir à quel endroit Il a promis qu’ils
-seraient plus nombreux, voyons Ésaïe 54.1: “Exulte, stérile, qui n’enfantais pas. Eclate en chants
-de triomphe et pousse des cris de joie, toi qui n’as pas été en travail! Car les fils de la
-désolée sont plus nombreux que les fils de la femme mariée, dit l’Eternel”.
-    Est-ce la vérité? Les fils de la prostituée sont plus nombreux que ceux de la femme mariée.
-Ils sont beaucoup plus nombreux, c’est sûr! Mais bien qu’ils soient plus nombreux, ils n’ont pas de
-vrai père!
-    Or les semences dénominationnelles sont représentées dans Jude 8-13. C’est l’église
-mondaine: “des nuées sans eau rejetant l’écume de leurs impuretés…”. L’église pentecôtiste de
-ce groupe dénominationnel est représentée dans 2 Timothée 3.1-8: “ayant l’apparence de la
-piété”. Leur semence produit selon son espèce.
-    Oh, nous allons entrer maintenant dans quelque chose de profond! Considérez cette Eglise
-Semence, cette Eglise véritable qui a le Sperme véritable. Remarquez aussi comment cet
-eunuque était allé chez tous les docteurs en théologie. Mais rappelez-vous bien que Dieu n’a
-jamais confié Sa prédication et Son Evangile à un ange. Combien le savent? Combien savent que
-Galates 1.8 dit: “… quand un ange du ciel annoncerait un autre Evangile que celui que nous vous
-avons prêché, qu’il soit anathème”. Ainsi l’ange est dans l’erreur s’il diffère de la Parole. Dieu est
-descendu en dessous des anges et a confié l’Evangile aux hommes, ceux-ci étant des fils. Le
-croyez-vous? Maintenant considérez bien ceci: Il ne l’a jamais confié aux anges. Remarquez qu’Il
-ne l’a pas fait.
-    Philippe était allé à Jérusalem à l’occasion de la fête de Pentecôte pour adorer. Combien
-disent: “Amen” à cela? L’eunuque, lui, était allé avec tous les docteurs en théologie et autres, mais
-pourquoi n’a-t-il rien reçu là? Il revient en étudiant la prophétie d’Esaïe.
-    Bien que ce soit un ange qui ait conduit Philippe vers lui, le germe de Vie devait venir
-par l’intermédiaire du Corps, de Philippe. Oh, frères, maintenant nous sommes dans la ligne!
-Comment est venu le germe? Par l’intermédiaire de l’ange? L’ange lui montra où aller. Un ange
-est un messager; mais ici, c’est un fils. PHILIPPE avait le germe, le message, la Parole. C’est
-ainsi qu’un enfant peut naître. PHILIPPE lui imposa les mains. PHILIPPE le baptisa au nom de
-Jésus-Christ; c’est alors que vint l’Esprit de Dieu. Assurément.
-    Le germe devait donc venir du Corps. De quel corps? Du Corps de Christ. C’est vrai. Et
-Philippe était un membre du Corps.
-    Maintenant écoutez, ceci: la même chose arriva dans Actes 10.48. Pierre était sur le toit de la
-maison. Un ange le dirigea vers la maison de Corneille, mais d’où vint la Parole? Du Corps! Je me
-sens plutôt bien, j’ai envie de continuer le voyage! Un ange vint et lui dit: “Ne t’inquiète pas; ne
-regarde pas cela comme impur, va de l’avant; ne pense à rien!”. Et tandis que Pierre prononçait
-ces mots (pas l’ange, pas le cardinal), tandis que Pierre prononçait ces paroles, que se passa-t-il?
-Il était le Corps, il avait la Parole. La Parole trouva prise! Oh, frères! L’ange dirigea, mais la Vie
+LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 62
+semence? Par l’intermédiaire de mon corps. Comment vient la semence d’un pommier? Par l’intermédiaire du corps. La semence vient par l’intermédiaire du corps et l’Eglise est le Corps de Christ. N’est-ce pas vrai? L’Eglise de la Bible! Cette naissance (la nouvelle naissance) Le produit Lui-même dans un corps. Son Eglise est Sa Parole afin que les gens puissent voir la confirmation d’Hébreux 13.8: “Jésus-Christ est le même hier, aujourd’hui et éternellement”. Croyez-vous cela? Ceux-ci ne sont pas des hybrides dénominationnels. Ce sont ceux qui sont dans l’orbite, attendant le compte à rebours (vous comprenez ce que je veux dire), se préparant à partir sur une fusée. Gloire à Dieu! Ceux-ci ne sont pas des hybrides dénominationnels, ils ne se tiennent pas avec eux, ils ne sont pas de ce genre-la. Non! Ils sont la Semence.
+Paul craignait que les gens ne soient attirés par une certaine manière de s’exprimer venant de son instruction et de son éducation. C’est dans 1 Corinthiens 2.1-8, si vous voulez le noter. Dans ce passage Paul dit: “Je ne suis pas allé chez vous avec une supériorité de langage (comme un intellectuel) pour que votre foi soit une foi de séminaire, je suis allé vers vous dans la simplicité, avec une démonstration du Saint-Esprit et de puissance afin que votre foi fût fondée sur la Parole de Dieu”. Parfaitement!
+Bien que l’église dénominationnelle ait mille fois plus de membres que l’Epouse… Croyez-vous cela? Croyez-vous que la Bible l’enseigne? Il l’a promis dans Ésaïe 54.1. Voulez-vous que je le lise? Très bien. Si vous voulez voir à quel endroit Il a promis qu’ils seraient plus nombreux, voyons Ésaïe 54.1: “Exulte, stérile, qui n’enfantais pas. Eclate en chants de triomphe et pousse des cris de joie, toi qui n’as pas été en travail! Car les fils de la désolée sont plus nombreux que les fils de la femme mariée, dit l’Eternel”.
+Est-ce la vérité? Les fils de la prostituée sont plus nombreux que ceux de la femme mariée. Ils sont beaucoup plus nombreux, c’est sûr! Mais bien qu’ils soient plus nombreux, ils n’ont pas de vrai père!
+Or les semences dénominationnelles sont représentées dans Jude 8-13. C’est l’église mondaine: “des nuées sans eau rejetant l’écume de leurs impuretés…”. L’église pentecôtiste de ce groupe dénominationnel est représentée dans 2 Timothée 3.1-8: “ayant l’apparence de la piété”. Leur semence produit selon son espèce.
+Oh, nous allons entrer maintenant dans quelque chose de profond! Considérez cette Eglise Semence, cette Eglise véritable qui a le Sperme véritable. Remarquez aussi comment cet eunuque était allé chez tous les docteurs en théologie. Mais rappelez-vous bien que Dieu n’a jamais confié Sa prédication et Son Evangile à un ange. Combien le savent? Combien savent que Galates 1.8 dit: “… quand un ange du ciel annoncerait un autre Evangile que celui que nous vous avons prêché, qu’il soit anathème”. Ainsi l’ange est dans l’erreur s’il diffère de la Parole. Dieu est descendu en dessous des anges et a confié l’Evangile aux hommes, ceux-ci étant des fils. Le croyez-vous? Maintenant considérez bien ceci: Il ne l’a jamais confié aux anges. Remarquez qu’Il ne l’a pas fait.
+Philippe était allé à Jérusalem à l’occasion de la fête de Pentecôte pour adorer. Combien disent: “Amen” à cela? L’eunuque, lui, était allé avec tous les docteurs en théologie et autres, mais pourquoi n’a-t-il rien reçu là? Il revient en étudiant la prophétie d’Esaïe.
+Bien que ce soit un ange qui ait conduit Philippe vers lui, le germe de Vie devait venir par l’intermédiaire du Corps, de Philippe. Oh, frères, maintenant nous sommes dans la ligne! Comment est venu le germe? Par l’intermédiaire de l’ange? L’ange lui montra où aller. Un ange est un messager; mais ici, c’est un fils. PHILIPPE avait le germe, le message, la Parole. C’est ainsi qu’un enfant peut naître. PHILIPPE lui imposa les mains. PHILIPPE le baptisa au nom de Jésus-Christ; c’est alors que vint l’Esprit de Dieu. Assurément.
+Le germe devait donc venir du Corps. De quel corps? Du Corps de Christ. C’est vrai. Et Philippe était un membre du Corps.
+Maintenant écoutez, ceci: la même chose arriva dans Actes 10.48. Pierre était sur le toit de la maison. Un ange le dirigea vers la maison de Corneille, mais d’où vint la Parole? Du Corps! Je me sens plutôt bien, j’ai envie de continuer le voyage! Un ange vint et lui dit: “Ne t’inquiète pas; ne regarde pas cela comme impur, va de l’avant; ne pense à rien!”. Et tandis que Pierre prononçait ces mots (pas l’ange, pas le cardinal), tandis que Pierre prononçait ces paroles, que se passa-t-il? Il était le Corps, il avait la Parole. La Parole trouva prise! Oh, frères! L’ange dirigea, mais la Vie
 
-    http://www.cmpp.ch
+http://www.cmpp.ch
 
-    LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    63
+LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 63
 vint par l’intermédiaire du Corps de Christ.
-    C’est une vision qui dirigea Paul tandis qu’il était sur le chemin de Damas, mais Ananias
-(c’était le germe) avait la Parole. Amen! Ce prophète Ananias eut une vision dans laquelle une
-voix lui dit: “Va là-bas lui imposer les mains”.
-    Il dit: “Frère Saul, pendant que tu venais ici, le Seigneur t’est apparu sur la route”. Comment
-le savait-il? Il avait la Parole. La Parole du Seigneur vient au prophète. Il prophétisa, allant là-bas,
-et il dit: “Il m’a envoyé ici pour que je puisse t’imposer les mains afin que tu guérisses et que tu
-reçoives le Saint-Esprit. Reçois la vue!”. Et les écailles tombèrent de ses yeux. Il se leva et fut
-baptisé au Nom de Jésus et se mit à étudier. Un ange dirigea cela, c’est vrai, mais Paul avait le
-germe Semence.
-    Il faut qu’il y ait l’Esprit de Dieu, la Semence, pour donner la Vie éternelle. Oh, mes
-frères!
-    Je vais vous lire quelque chose. Je vais lire pendant une dizaine de minutes. D’accord? Je
-pourrais continuer à parler là-dessus mais il vaut mieux que j’aille de l’avant pour que nous
-puissions sortir à l’heure. C’est juste cinq heures moins vingt-cinq. Je ne sais pas à quelle heure
-nous arriverons en Géorgie! J’aimerais pouvoir m’arrêter et développer un peu ceci, mais je vais
-simplement le lire très lentement.
-    Maintenant écoutez attentivement. C’était pour noter cela que j’avais dû prendre ma plume,
-au moins pour une partie. Comprenez-vous, mes amis, pourquoi j’ai pris la position que j’ai prise?
-Comprenez-vous pourquoi j’ai lutté pour m’éloigner de ces dénominations et obtenir une véritable
-Eglise de Dieu? Comprenez-vous pourquoi Elle doit venir de la Parole? Cela ne peut pas venir
-par la sagesse des hommes; cela doit venir par la Parole de Dieu. C’est la raison pour
-laquelle je crois la Parole simplement comme Elle est écrite. Je n’ajouterai ni ne retrancherai
-rien; je la prêcherai ainsi et je continuerai à aller de l’avant.
-    Or, frères (vous qui écoutez cette bande), si vous n’êtes pas d’accord avec moi, je prierai
-pour vous. Si je suis dans l’erreur, priez pour moi. Je vais en lire quelque chose maintenant; je
-voudrais que vous l’écoutiez très attentivement. C’est là que l’Esprit m’a dit: «Prends ta plume».
-Je vous en apporterai une partie, mais j’en laisserai aussi une partie de côté.
-    Voilà: Voici ce que j’essaie de vous faire comprendre: la loi de reproduction est de
-reproduire selon son espèce (Genèse 1.11). En ces derniers jours, la véritable
-Epouse-Eglise arrive à la Pierre de faîte. Ce sera la super-Eglise, une super-race tandis
-qu’Elle approche de la glorieuse Pierre de faîte. Elle sera tellement semblable à Lui qu’elle
-sera à Son image même, de manière à être unie à Lui. Ils seront UN. Elle sera la
-manifestation même de la Parole du Dieu vivant. Les dénominations ne peuvent jamais
-produire cela. Elles produiront leurs credo et leurs dogmes mélangés avec la Parole et cela
-donnera un produit hybride.
-    Le premier fils était la Parole Semence parlée de Dieu. Il lui fut donné une épouse
-(je passe simplement en revue ce que l’Esprit m’a ordonné de noter), une épouse afin de se
-reproduire lui-même. Mais elle tomba. (Vous voyez, c’est pour cela qu’une épouse lui fut
-donnée, pour produire un autre fils de Dieu; mais elle tomba en faisant une hybridation). Elle
-devait Le reproduire Lui-même, mais elle tomba, causant sa mort.
-    Le second fils, une Parole Semence parlée par Dieu, reçut comme Adam une épouse,
-mais avant qu’il pût l’épouser, elle était tombée elle aussi. Comme l’épouse d’Adam, elle
-avait le libre arbitre, ayant le choix de croire la Parole de Dieu et de vivre, ou d’en douter et
-de mourir, ce qu’elle fit.
-    Mais dans ce petit groupe de la vraie Semence de la Parole, Dieu présentera à Christ
-une Epouse bien-aimée, une vierge, une vierge de Sa Parole, et par l’intermédiaire de ce
-groupe, par le moyen de ce groupe, s’accomplira tout ce qui a été promis, car Sa Parole est
-dans cette vierge qui ne connaît ni dogmes ni credo fabriqués par l’homme. La Parole de la
-promesse était en Lui comme Elle était en Marie: Dieu Lui-même manifesté. Il agira
-Lui-même par Sa propre parole de promesses afin d’accomplir tout ce qui a été écrit de Lui.
-Ce qu’Il fit en sortant d’une matrice vierge, type de la matrice spirituelle d’aujourd’hui, la
-vierge d’aujourd’hui le fera pareillement en acceptant sa Parole: “Qu’il me soit fait selon Ta
-Parole”. Bien que cela ait été dit par un ange, c’était la Parole écrite (Ésaïe 9.6). Ils
+C’est une vision qui dirigea Paul tandis qu’il était sur le chemin de Damas, mais Ananias (c’était le germe) avait la Parole. Amen! Ce prophète Ananias eut une vision dans laquelle une voix lui dit: “Va là-bas lui imposer les mains”.
+Il dit: “Frère Saul, pendant que tu venais ici, le Seigneur t’est apparu sur la route”. Comment le savait-il? Il avait la Parole. La Parole du Seigneur vient au prophète. Il prophétisa, allant là-bas, et il dit: “Il m’a envoyé ici pour que je puisse t’imposer les mains afin que tu guérisses et que tu reçoives le Saint-Esprit. Reçois la vue!”. Et les écailles tombèrent de ses yeux. Il se leva et fut baptisé au Nom de Jésus et se mit à étudier. Un ange dirigea cela, c’est vrai, mais Paul avait le germe Semence.
+Il faut qu’il y ait l’Esprit de Dieu, la Semence, pour donner la Vie éternelle. Oh, mes frères!
+Je vais vous lire quelque chose. Je vais lire pendant une dizaine de minutes. D’accord? Je pourrais continuer à parler là-dessus mais il vaut mieux que j’aille de l’avant pour que nous puissions sortir à l’heure. C’est juste cinq heures moins vingt-cinq. Je ne sais pas à quelle heure nous arriverons en Géorgie! J’aimerais pouvoir m’arrêter et développer un peu ceci, mais je vais simplement le lire très lentement.
+Maintenant écoutez attentivement. C’était pour noter cela que j’avais dû prendre ma plume, au moins pour une partie. Comprenez-vous, mes amis, pourquoi j’ai pris la position que j’ai prise? Comprenez-vous pourquoi j’ai lutté pour m’éloigner de ces dénominations et obtenir une véritable Eglise de Dieu? Comprenez-vous pourquoi Elle doit venir de la Parole? Cela ne peut pas venir par la sagesse des hommes; cela doit venir par la Parole de Dieu. C’est la raison pour laquelle je crois la Parole simplement comme Elle est écrite. Je n’ajouterai ni ne retrancherai rien; je la prêcherai ainsi et je continuerai à aller de l’avant.
+Or, frères (vous qui écoutez cette bande), si vous n’êtes pas d’accord avec moi, je prierai pour vous. Si je suis dans l’erreur, priez pour moi. Je vais en lire quelque chose maintenant; je voudrais que vous l’écoutiez très attentivement. C’est là que l’Esprit m’a dit: «Prends ta plume». Je vous en apporterai une partie, mais j’en laisserai aussi une partie de côté.
+Voilà: Voici ce que j’essaie de vous faire comprendre: la loi de reproduction est de reproduire selon son espèce (Genèse 1.11). En ces derniers jours, la véritable Epouse-Eglise arrive à la Pierre de faîte. Ce sera la super-Eglise, une super-race tandis qu’Elle approche de la glorieuse Pierre de faîte. Elle sera tellement semblable à Lui qu’elle sera à Son image même, de manière à être unie à Lui. Ils seront UN. Elle sera la manifestation même de la Parole du Dieu vivant. Les dénominations ne peuvent jamais produire cela. Elles produiront leurs credo et leurs dogmes mélangés avec la Parole et cela donnera un produit hybride.
+Le premier fils était la Parole Semence parlée de Dieu. Il lui fut donné une épouse (je passe simplement en revue ce que l’Esprit m’a ordonné de noter), une épouse afin de se reproduire lui-même. Mais elle tomba. (Vous voyez, c’est pour cela qu’une épouse lui fut donnée, pour produire un autre fils de Dieu; mais elle tomba en faisant une hybridation). Elle devait Le reproduire Lui-même, mais elle tomba, causant sa mort.
+Le second fils, une Parole Semence parlée par Dieu, reçut comme Adam une épouse, mais avant qu’il pût l’épouser, elle était tombée elle aussi. Comme l’épouse d’Adam, elle avait le libre arbitre, ayant le choix de croire la Parole de Dieu et de vivre, ou d’en douter et de mourir, ce qu’elle fit.
+Mais dans ce petit groupe de la vraie Semence de la Parole, Dieu présentera à Christ une Epouse bien-aimée, une vierge, une vierge de Sa Parole, et par l’intermédiaire de ce groupe, par le moyen de ce groupe, s’accomplira tout ce qui a été promis, car Sa Parole est dans cette vierge qui ne connaît ni dogmes ni credo fabriqués par l’homme. La Parole de la promesse était en Lui comme Elle était en Marie: Dieu Lui-même manifesté. Il agira Lui-même par Sa propre parole de promesses afin d’accomplir tout ce qui a été écrit de Lui. Ce qu’Il fit en sortant d’une matrice vierge, type de la matrice spirituelle d’aujourd’hui, la vierge d’aujourd’hui le fera pareillement en acceptant sa Parole: “Qu’il me soit fait selon Ta Parole”. Bien que cela ait été dit par un ange, c’était la Parole écrite (Ésaïe 9.6). Ils
 
-                                http://www.cmpp.ch
+http://www.cmpp.ch
 
 LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 64
-L’aimeront et auront Sa puissance, car Il est leur Tête et ils sont Ses sujets, sujets de Sa
-Tête. Le gouvernement de Christ est Sien.
-    Remarquez cette harmonie! Jésus ne faisait jamais rien avant que le Père ne le Lui ait
-montré. (Voyez l’harmonie entre Dieu et Christ, dans Jean 5.19). C’est ainsi que fera l’Epouse:
-Il lui montre Sa Parole de Vie (Il la lui montre) et elle La reçoit; elle ne doute jamais d’Elle.
-    Rien ne peut lui faire du mal, même pas la mort; car si la Semence est plantée, l’Eau la
-ressuscitera. Amen! (maintenant je pousse un grand alléluia!) Voici le secret: la Parole ainsi
-que la pensée de Christ est dans l’Epouse afin qu’elle connaisse ce qu’Il veut qui soit fait
-avec la Parole et elle le fait en Son Nom. Elle a le AINSI DIT LE SEIGNEUR.
-    Ainsi la Semence est fécondée. Alors le Saint-Esprit l’arrose jusqu’à ce qu’elle ait crû
-et remplisse son rôle. Elle ne fait que Sa volonté. (Amen! c’est ce que je crois). Personne ne
-peut la persuader de faire autrement. Elle a le AINSI DIT LE SEIGNEUR, sinon elle reste
-tranquille. Ainsi elle fera les oeuvres de Dieu, car c’est Lui en elle qui continue à accomplir
-Sa Parole, comme Il L’accomplit en Son temps. Il n’acheva pas tout quand Il était ici-bas
-car le temps n’était pas encore arrivé.
-    Tenons-nous debout comme Josué et Caleb. (Soyez bien attentifs maintenant: cela va
-avoir un fondement spirituel.) Tenons-nous debout comme Josué et Caleb alors que la Terre
-promise commence à être en vue! Le temps approche. JOSUE en hébreu signifie SAUVEUR
-et représente le conducteur promis pour le temps de la fin, celui qui doit enlever l’Eglise.
-Caleb représente le vrai croyant qui resta avec Josué. Dieu suscita un Israël vierge par Sa
-Parole, mais ils voulurent quelque chose de différent. C’est ce qu’a fait l’église du dernier
-jour.
-    Remarquez que Dieu n’a pas fait partir Israël avant le temps que Lui-même avait fixé.
-(Maintenant écoutez ceci: cela a une profonde signification.) Josué attendit ce moment-là! Oh,
-les gens eurent beau dire: “Dieu nous a donné le pays, Il en a fait la promesse; partons
-maintenant et prenons-le”. Ils auraient pu dire: “Josué, tu as manqué ta mission; tu n’es
-qu’une mauviette! Pourquoi ne fais-tu pas quelque chose? D’habitude, tu connaissais le
-AINSI DIT LE SEIGNEUR au moment même et quelle était la volonté de Dieu!”. Mais si ce
-sage prophète envoyé de Dieu connaissait la promesse de Dieu, il savait aussi attendre,
-pour l’accomplissement de cette promesse, qu’une décision précise vienne de Dieu pour
-son temps.
-    Quand le temps fut venu, Dieu donna la décision à Josué qui était resté avec Lui par la
-Parole car Il ne pouvait pas se fier aux autres. Mais en lui Il pouvait avoir confiance. Cela se
-répétera de la même manière!
-    C’est comme Moïse, ce puissant prophète oint. Il savait que Dieu allait l’utiliser car
-Dieu avait prouvé à Moïse qu’il était Son serviteur par sa naissance singulière. La
-délivrance de la semence d’Abraham arriva au temps marqué. (comprenez-vous cela?) Moïse
-ne resta pas en Egypte pour discuter de points scripturaires avec eux. Il ne disputa pas
-avec les prêtres mais alla dans le désert, servant le Seigneur jusqu’à ce que le peuple soit
-prêt à le recevoir. Il était venu leur rendre témoignage, mais ils ne voulurent pas le recevoir.
-Dieu appela Son prophète dans le désert. Dieu avait rendu témoignage qu’Il l’avait choisi et
-l’attente ne vint pas à cause de Moïse, mais à cause du peuple qui devait être prêt à
-recevoir Moïse. Moïse pensait que les enfants d’Israël comprendraient qu’il était envoyé.
-(Ce n’est pas moi qui ai écrit cela, c’est Lui. C’est pareil aujourd’hui.)
-    C’est comme Elie. Après que ce prophète puissamment confirmé à qui venait la Parole
-de Dieu eut fini de prêcher son message à ce groupe moderniste américain et à la première
-dame du pays qui avait les cheveux coupés comme cette Jézabel peinte et son groupe,
-Dieu vint confirmer Son prophète. Chaque fois qu’il prophétisait, c’était la vérité. Dieu dut
-l’appeler hors du champ de mission jusqu’au moment où il appela de grandes plaies sur
-cette génération parce qu’elle avait rejeté le message de son prophète et la Parole de Dieu
-qui lui avait été envoyée.
-    Dieu l’envoya se cacher dans le désert. Pas même le roi ne put l’en faire sortir. Et ceux
-qui essayèrent de le faire sortir contre la volonté de Dieu moururent pour l’avoir fait! (Oh,
-gloire à Dieu!). Mais lorsque Dieu parla à Son fidèle prophète par une vision, il sortit du
+L’aimeront et auront Sa puissance, car Il est leur Tête et ils sont Ses sujets, sujets de Sa Tête. Le gouvernement de Christ est Sien.
+Remarquez cette harmonie! Jésus ne faisait jamais rien avant que le Père ne le Lui ait montré. (Voyez l’harmonie entre Dieu et Christ, dans Jean 5.19). C’est ainsi que fera l’Epouse: Il lui montre Sa Parole de Vie (Il la lui montre) et elle La reçoit; elle ne doute jamais d’Elle.
+Rien ne peut lui faire du mal, même pas la mort; car si la Semence est plantée, l’Eau la ressuscitera. Amen! (maintenant je pousse un grand alléluia!) Voici le secret: la Parole ainsi que la pensée de Christ est dans l’Epouse afin qu’elle connaisse ce qu’Il veut qui soit fait avec la Parole et elle le fait en Son Nom. Elle a le AINSI DIT LE SEIGNEUR.
+Ainsi la Semence est fécondée. Alors le Saint-Esprit l’arrose jusqu’à ce qu’elle ait crû et remplisse son rôle. Elle ne fait que Sa volonté. (Amen! c’est ce que je crois). Personne ne peut la persuader de faire autrement. Elle a le AINSI DIT LE SEIGNEUR, sinon elle reste tranquille. Ainsi elle fera les oeuvres de Dieu, car c’est Lui en elle qui continue à accomplir Sa Parole, comme Il L’accomplit en Son temps. Il n’acheva pas tout quand Il était ici-bas car le temps n’était pas encore arrivé.
+Tenons-nous debout comme Josué et Caleb. (Soyez bien attentifs maintenant: cela va avoir un fondement spirituel.) Tenons-nous debout comme Josué et Caleb alors que la Terre promise commence à être en vue! Le temps approche. JOSUE en hébreu signifie SAUVEUR et représente le conducteur promis pour le temps de la fin, celui qui doit enlever l’Eglise. Caleb représente le vrai croyant qui resta avec Josué. Dieu suscita un Israël vierge par Sa Parole, mais ils voulurent quelque chose de différent. C’est ce qu’a fait l’église du dernier jour.
+Remarquez que Dieu n’a pas fait partir Israël avant le temps que Lui-même avait fixé. (Maintenant écoutez ceci: cela a une profonde signification.) Josué attendit ce moment-là! Oh, les gens eurent beau dire: “Dieu nous a donné le pays, Il en a fait la promesse; partons maintenant et prenons-le”. Ils auraient pu dire: “Josué, tu as manqué ta mission; tu n’es qu’une mauviette! Pourquoi ne fais-tu pas quelque chose? D’habitude, tu connaissais le AINSI DIT LE SEIGNEUR au moment même et quelle était la volonté de Dieu!”. Mais si ce sage prophète envoyé de Dieu connaissait la promesse de Dieu, il savait aussi attendre, pour l’accomplissement de cette promesse, qu’une décision précise vienne de Dieu pour son temps.
+Quand le temps fut venu, Dieu donna la décision à Josué qui était resté avec Lui par la Parole car Il ne pouvait pas se fier aux autres. Mais en lui Il pouvait avoir confiance. Cela se répétera de la même manière!
+C’est comme Moïse, ce puissant prophète oint. Il savait que Dieu allait l’utiliser car Dieu avait prouvé à Moïse qu’il était Son serviteur par sa naissance singulière. La délivrance de la semence d’Abraham arriva au temps marqué. (comprenez-vous cela?) Moïse ne resta pas en Egypte pour discuter de points scripturaires avec eux. Il ne disputa pas avec les prêtres mais alla dans le désert, servant le Seigneur jusqu’à ce que le peuple soit prêt à le recevoir. Il était venu leur rendre témoignage, mais ils ne voulurent pas le recevoir. Dieu appela Son prophète dans le désert. Dieu avait rendu témoignage qu’Il l’avait choisi et l’attente ne vint pas à cause de Moïse, mais à cause du peuple qui devait être prêt à recevoir Moïse. Moïse pensait que les enfants d’Israël comprendraient qu’il était envoyé. (Ce n’est pas moi qui ai écrit cela, c’est Lui. C’est pareil aujourd’hui.)
+C’est comme Elie. Après que ce prophète puissamment confirmé à qui venait la Parole de Dieu eut fini de prêcher son message à ce groupe moderniste américain et à la première dame du pays qui avait les cheveux coupés comme cette Jézabel peinte et son groupe, Dieu vint confirmer Son prophète. Chaque fois qu’il prophétisait, c’était la vérité. Dieu dut l’appeler hors du champ de mission jusqu’au moment où il appela de grandes plaies sur cette génération parce qu’elle avait rejeté le message de son prophète et la Parole de Dieu qui lui avait été envoyée.
+Dieu l’envoya se cacher dans le désert. Pas même le roi ne put l’en faire sortir. Et ceux qui essayèrent de le faire sortir contre la volonté de Dieu moururent pour l’avoir fait! (Oh, gloire à Dieu!). Mais lorsque Dieu parla à Son fidèle prophète par une vision, il sortit du
 
-        http://www.cmpp.ch
+http://www.cmpp.ch
 
-    LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    65
+LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE    65
 désert avec le AINSI DIT LE SEIGNEUR. Que fit-il? Il retourna directement à la Parole. Il
 apporta les douze pierres et les mit ensemble.
     C’est comme Jean-Baptiste, le fidèle précurseur de Christ, le prophète oint. Ni l’école
@@ -3885,14 +3580,3 @@ LA PAROLE PARLEE EST LA SEMENCE ORIGINELLE 69
 que nous nous rendions compte que nous sommes à la fin de la route. Chaque signe est ici
 devant nous. Je suis sûr, Seigneur, que la pensée spirituelle a saisi ce que j’ai dit il y a quelques
 minutes. Je Te prie, Seigneur, afin qu’ils comprennent où nous en sommes.
-
-
-
-
-
-
-
-
-
-
-    http://www.cmpp.ch

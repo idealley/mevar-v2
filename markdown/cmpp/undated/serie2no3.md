@@ -1,542 +1,317 @@
-    SERIE 2 N° 3
+---
+source: "cmpp"
+sermon_id: "serie2no3"
+title: "L'ABSOLU"
+subtitle: "30 décembre 1962, matin"
+date: "1962-12-30"
+year: 1962
+location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur le concept d'absolu, une foi inébranlable en Dieu et en Sa Parole, illustré par les exemples de Job, Abraham, Moïse, Daniel, et Paul. Il partage également son témoignage personnel d'une affaire d'impôts résolue par la prière et la foi."
+tags:
+  - "absolu"
+  - "foi"
+  - "Parole de Dieu"
+  - "témoignage"
+  - "guérison divine"
+persons:
+  - "Job"
+  - "Abraham"
+  - "Moïse"
+  - "Daniel"
+  - "Paul"
+  - "Jésus-Christ"
+  - "Pharaon"
+  - "Agrippa"
+  - "Ananias"
+places:
+  - "Damas"
+  - "Jérusalem"
+  - "Egypte"
+  - "Mer Rouge"
+  - "Rome"
+themes:
+  - "Absolu de Dieu"
+  - "Foi inébranlable"
+  - "Obéissance à Dieu"
+  - "Expérience personnelle avec Dieu"
+  - "Puissance de la Parole"
+pdf_url: "http://cmpp.ch/serie2no3.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Actes 23"
+  - "Actes 25"
+  - "Actes 26"
+  - "Apocalypse 22"
+  - "Hébreux 11"
+  - "Jean 15"
+  - "Jean 5"
+  - "Jean 8"
+  - "Malachie 3"
+  - "Malachie 4"
+  - "Matthieu 11"
+  - "Philippiens 1"
+---
+SERIE 2 N° 3
+
+LA PAROLE PARLEE
+
+PAR
+
+WILLIAM MARRION BRANHAM
 
 
-    LA PAROLE PARLEE
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
-
-
-   L’ABSOLU
+L’ABSOLU
 (The Absolute)
 
 
 
-
-    30 décembre 1962, matin
-       Branham Tabernacle
+30 décembre 1962, matin
+   Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
 
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
+L’ABSOLU    2
 
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    L’ABSOLU    2
-
-   L’ABSOLU
+L’ABSOLU
 (The Absolute)
 
 
-    30 décembre 1962, matin
-       Branham Tabernacle
+30 décembre 1962, matin
+   Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
 
 
+Je suis très heureux de me trouver ici ce matin et d’avoir pu entendre cette exhortation en montant en chaire. Pardonnez-moi d’être en retard, il y avait des malades dehors, dans des voitures, dans des ambulances, et j’ai dû prendre ceux qui ne pouvaient pas entrer avant de pouvoir entrer moi-même.
 
-   Je suis très heureux de me trouver ici ce matin et d’avoir pu entendre cette exhortation en
-montant en chaire. Pardonnez-moi d’être en retard, il y avait des malades dehors, dans des
-voitures, dans des ambulances, et j’ai dû prendre ceux qui ne pouvaient pas entrer avant de
-pouvoir entrer moi-même.
-   Il y a ici une soeur, avec son bébé. Ne pourrait-elle pas venir cet après-midi? Je prêcherai
-encore ce soir, si le Seigneur le permet. Si elle ne peut pas venir ce soir pour la consécration de
-son enfant, qu’elle vienne maintenant. Mais si elle peut venir ce soir, cela nous arrangerait mieux.
-Mais qu’elle fasse comme cela lui convient. Si elle ne peut pas revenir ce soir, nous consacrerons
-ce petit maintenant. Si elle veut venir ce matin, qu’elle vienne maintenant.
-   Ce soir, je désire parler sur un sujet spécial, un sujet prophétique. Le titre de ce message sera:
-Monsieur, est-ce l’heure? [Sir, is this the Time? — N.d.T.]. Ainsi donc, si le Seigneur le permet, je
-parlerai ce soir sur ce sujet: Monsieur, est-ce l’heure? Je voudrais aussi profiter de l’occasion…
-Beaucoup de choses se sont passées ces derniers jours; elles font se diriger nos regards sur
-quelque chose que je ne comprends pas. Mais les voies de Dieu échappent à l’intelligence
-humaine, et nous devons donc marcher par la foi. Si on pouvait expliquer Dieu, alors il n’y aurait
-plus besoin d’avoir la foi, parce qu’alors on aurait la connaissance. Mais nous devons
-simplement marcher par la foi.
-   Ce matin, je pensais vous donner un message évangélique ordinaire, mais j’ai changé d’avis en
-descendant; vous êtes si nombreux et avez attendu si longtemps. Ce soir, il s’agira peut-être de
-quelque chose d’un peu différent. Mais je continue à vous dire ce que je veux vous dire.
-   Puisque vous êtes si nombreux, il y a quelque chose que je voudrais vous dire, quelque chose
-que j’ai tu ces dernières semaines. Vos prières au sujet de cette affaire d’impôts que j’ai eue avec
-le gouvernement ont été exaucées. Tout est réglé. Comme beaucoup d’entre vous le savent, ils
-me reprochaient ces chèques concernant la dernière campagne. Ils essayèrent de dire que cet
-argent venait de moi, et voulurent me faire payer l’impôt sur les quelque 350’000 dollars qu’ils
-disaient m’appartenir. Ce n’était pas mon argent, mais celui de la campagne. L’église sait cela.
-Vous le savez tous.
-   Je vais vous décrire brièvement ce qui s’est passé. Je crois qu’il y a presque cinq ans qu’ils
-étaient sur cette affaire, étudiant ce cas, cherchant à connaître ma moralité, etc. Mais je suis si
-reconnaissant qu’ils n’aient rien pu trouver contre moi; ils n’ont ainsi pas pu m’accuser de quoi que
-ce soit. Ils n’ont pas pu m’accuser, mais ont reconnu que j’avais fait cela par ignorance. Ne
-connaissant pas la loi, je signais tous les chèques que l’on m’apportait, et je les donnais pour la
-campagne d’évangélisation. Mais il paraît que dès le moment où j’apposais mon nom sur ces
-chèques, ils m’appartenaient. Vous comprenez? Peu importait que… Ils me dirent: «C’était très
-bien de votre part. Ils vous appartenaient, et ensuite vous les donniez à l’église. Mais, sitôt que
-votre nom y était inscrit, ils vous appartenaient. Peu importait leur destination, ils vous avaient été
-adressés». Si les donateurs avaient inscrit sur ces chèques: «Don personnel», il n’y aurait pas eu
-de problème. Mais ils écrivaient simplement: William Branham. Et lorsque je signais… Mais
-finalement, par la prière…
-   Vous vous rappelez qu’il n’y a pas longtemps, j’ai eu une vision. Il y avait un homme de grande
-taille d’apparence sombre comme de la fumée ou de la suie, couvert d’écailles comme un
+Il y a ici une soeur, avec son bébé. Ne pourrait-elle pas venir cet après-midi? Je prêcherai encore ce soir, si le Seigneur le permet. Si elle ne peut pas venir ce soir pour la consécration de son enfant, qu’elle vienne maintenant. Mais si elle peut venir ce soir, cela nous arrangerait mieux. Mais qu’elle fasse comme cela lui convient. Si elle ne peut pas revenir ce soir, nous consacrerons ce petit maintenant. Si elle veut venir ce matin, qu’elle vienne maintenant.
 
-        http://www.cmpp.ch
+Ce soir, je désire parler sur un sujet spécial, un sujet prophétique. Le titre de ce message sera: Monsieur, est-ce l’heure? [Sir, is this the Time? — N.d.T.]. Ainsi donc, si le Seigneur le permet, je parlerai ce soir sur ce sujet: Monsieur, est-ce l’heure? Je voudrais aussi profiter de l’occasion… Beaucoup de choses se sont passées ces derniers jours; elles font se diriger nos regards sur quelque chose que je ne comprends pas. Mais les voies de Dieu échappent à l’intelligence humaine, et nous devons donc marcher par la foi. Si on pouvait expliquer Dieu, alors il n’y aurait plus besoin d’avoir la foi, parce qu’alors on aurait la connaissance. Mais nous devons simplement marcher par la foi.
 
-L’ABSOLU 3
-crocodile, qui s’avançait vers moi. Il avait des doigts de fer, et sur lui était écrit: “Gouvernement
-des Etats-Unis”. Moi, je n’avais en main qu’un petit couteau. J’étais totalement impuissant devant
-lui. Mais le Seigneur entra en scène, et cet homme fut vaincu. Rappelez-vous que je vous ai
-raconté cela il y a déjà pas mal de temps.
-   L’autre jour, ils m’ont proposé de faire un compromis. Mon avocat, M. Orbison de New Albany,
-et Ice & Miller, d’Indianapolis, m’ont demandé de venir les trouver. J’y suis allé avec frère
-Roberson, ma femme, et les responsables de l’église. Et là, ils nous dirent que le gouvernement
-serait d’accord de faire un compromis.
-   Je leur dis: «Si je dois quoi que ce soit à qui que ce soit, je le paierai. Je ferai de mon mieux».
-«Mais,» dis-je, «cela, je ne le dois pas! Dieu m’en est témoin! Et pourquoi ne m’accusent-ils pas, si
-je suis coupable? Ils ont eu cinq ans pour chercher quelque chose contre moi, et ils n’ont rien
-trouvé!». Je dis alors: «Je ne paierai rien jusqu’à ce que la preuve soit apportée que je le dois!».
-   Alors, l’avocat me fit entrer et me dit: «Maintenant, nous pouvons y aller. Le Gouvernement va
-instruire cette affaire». Il me dit: «La seule chose que nous puissions trouver contre vous est
-que…».
-   Je n’ai pas fait les choses comme j’aurais dû les faire. Je ne connais rien en comptabilité, alors,
-j’ai agi selon ce que je pensais être honnête. Ces chèques n’ont jamais été portés à mon compte,
-mais toujours à celui de l’église, de la campagne, etc. Je ne pouvais pas faire autrement.
-   Mais ils me dirent: «Nous sommes d’accord de faire un compromis, et de vous libérer pour
-15’000 dollars, plus 10’000 dollars d’amende». Les honoraires de l’avocat étaient fixés, eux, à
-15’000 dollars. Tout cela me faisait 40’000 dollars à payer!… Mais je leur dis: «Où pensez-vous
-donc que je vais trouver ces 40’000 dollars? Vous avez vu mon compte en banque: il ne contient
-pas plus de 100 dollars, et peut-être même moins». Je leur dis: «Où voulez-vous que j’aille
-chercher ces 40’000 dollars? Je n’ai aucune fortune. Je n’ai rien!».
-   Il me dit: «M. Branham, s’il y a procès, nous gagnerons certainement. Voici ce que je vais faire:
-ils vont prétendre que tout vous appartient parce que vous avez signé ces chèques. Ils vont
-essayer de le prouver, malgré que vous ayez porté cet argent aux comptes de l’église et de la
-Campagne Branham».
-   Ils ne peuvent trouver un cent que j’aurais dépensé pour mes besoins personnels. C’est cela, la
-vérité. Dieu le sait! Il y a un homme ici qui peut en témoigner. Il a été avec moi pendant tout ce
-temps. Je n’ai pas dépensé un seul cent pour moi-même. Tout a été dépensé pour le Royaume de
-Dieu, jusqu’au dernier centime.
-   Mais cela n’eut aucun effet. Ils dirent que cet argent était d’abord à moi, ensuite à l’église, et
-pour la campagne. Ils ont une manière de faire, vous savez — toutes sortes de détours. Aussi, je
-leurs dis: «Je ne paierai pas un sou!».
-   Mon avocat me dit: «Nous pouvons arranger l’affaire de cette manière. Je peux faire déclarer
-cet argent comme étant des dons personnels. Mais alors, tout ce qui est au-dessus de dix mille
-dollars sera considéré comme fortune, et vous vous retrouverez au même point qu’avant, et ils
-passeront encore cinq ans à contrôler tout cela».
-   Vous comprenez, lorsque vous avez rempli un chèque, il passe au contrôle, et est photocopié.
-Bien sûr, j’avais tous les talons.
-   Il me dit donc: «Alors, vous en serez au même point qu’auparavant. Autre chose encore, M.
-Branham. Si jamais vous avez un procès de ce genre avec le Gouvernement, peu importe ce qui a
-pu vous arriver, pour le public, vous serez considéré comme un escroc». Vous voyez?
-   Voyez ce qui est arrivé à ce prédicateur baptiste du Mississipi. Une femme l’accusa de l’avoir
-outragée. Mais cet homme put prouver qu’il n’était même pas dans la ville ce jour-là, ni le jour
-précédent, ni le jour suivant. Il put le prouver de telle manière que le juge lui proposa de poursuivre
-la femme pour diffamation. Mais lui, dit: «Laissez-la aller».
-   Mais, savez-vous ce qui arriva quand on fit un sondage d’opinion dans le pays à ce sujet? 75%
-des Américains dirent: «Il n’y a pas de fumée sans feu!». Et ce pauvre homme, aussi innocent que
-vous et moi à ce sujet, devra porter cet opprobre jusqu’au jour de sa mort, bien qu’il n’ait rien eu à
-se reprocher dans cette affaire.
+Ce matin, je pensais vous donner un message évangélique ordinaire, mais j’ai changé d’avis en descendant; vous êtes si nombreux et avez attendu si longtemps. Ce soir, il s’agira peut-être de quelque chose d’un peu différent. Mais je continue à vous dire ce que je veux vous dire.
 
-        http://www.cmpp.ch
+Puisque vous êtes si nombreux, il y a quelque chose que je voudrais vous dire, quelque chose que j’ai tu ces dernières semaines. Vos prières au sujet de cette affaire d’impôts que j’ai eue avec le gouvernement ont été exaucées. Tout est réglé. Comme beaucoup d’entre vous le savent, ils me reprochaient ces chèques concernant la dernière campagne. Ils essayèrent de dire que cet argent venait de moi, et voulurent me faire payer l’impôt sur les quelque 350’000 dollars qu’ils disaient m’appartenir. Ce n’était pas mon argent, mais celui de la campagne. L’église sait cela. Vous le savez tous.
 
-L’ABSOLU 4
-   Pendant un certain temps, je fus vraiment malheureux, en pensant qu’ayant consacré ma vie au
-Royaume de Dieu, essayant d’amener les gens à payer leurs impôts, et de faire en sorte que les
-malfaiteurs deviennent honnêtes, je dusse moi-même être accusé d’escroquerie.
-   Je pensai: «Qu’ai-je bien pu faire?». Et alors, il me vint à l’idée de chercher dans ma Bible. Je
-vis alors que chaque homme, sans exception, qui eut un ministère spirituel, fut attaqué par Satan
-qui essaya de le faire passer pour quelqu’un d’immoral, et qu’il fut en butte aux attaques du
-gouvernement. Revoyez toute l’histoire, Moïse, Daniel, les Hébreux, Jean-Baptiste, Jésus-Christ
-(qui mourut condamné à la peine capitale par le gouvernement), Paul, Pierre, Jacques, fils de
-Zébédée, Jacques le Mineur — tous moururent à cause de leur gouvernement, parce que chaque
-gouvernement est le siège de Satan. C’est Jésus qui l’a dit; c’est la Bible qui le dit.
-   Chaque gouvernement est sous l’autorité de Satan. Il y aura un gouvernement qui sera
-dirigé par Christ: ce sera pendant le Millénium. Mais tous ces gouvernements actuels, quoi que
-nous puissions en penser, sont sous la domination de Satan. “Tous les royaumes de la terre
-m’appartiennent. J’en fais ce que je veux. Si tu m’adores, je te les donnerai!”.
-   Mais Jésus dit: “Retire-toi, Satan! Car il est écrit: Tu adoreras le Seigneur, ton Dieu, et tu le
-serviras lui seul”.
-   Je me décourageai en causant avec ma femme. Je rentrai à la maison, et dis: «Non! Si je
-devais cet argent, je le paierais. Je ne le dois pas, par conséquent, je ne paierai rien! Un point,
-c’est tout! De toute façon, comment pourrais-je le payer?».
-   Aussi rentrai-je à la maison, et je dis à ma femme: «Meda, débarbouille la figure des enfants et
-prépare leurs vêtements; nous nous en allons. Tout est sens dessus dessous! Qu’ai-je fait? Moi,
-payer 40’000 dollars? Tu ne comprends pas ce que cela signifie pour moi!». Mais elle, comme une
-gentille petite femme qu’elle est, me dit… Je lui avais dit: «Je m’en vais!».
-   Elle me dit: «Penses-tu que cela servirait à quelque chose? As-tu prié à ce sujet?».
-   Je pensai: «Peut-être que j’aurais avantage à prier de nouveau». Je recommençai, et il me
-sembla qu’Il me citait une Parole des Saintes Ecritures. Nous devons toujours sonder les
-Ecritures, et voir ce que Dieu a fait.
-   Un jour, on Lui posa une question, essayant de Le faire accuser le gouvernement. Ils Lui
-demandèrent: “Est-il juste pour nous autres Juifs libres de payer le tribut à César?”.
-   Il leur répondit: “Avez-vous une pièce de monnaie? De qui est cette effigie?”.
-   — “De César!”.
-   — “Alors, rendez à César ce qui est à César, et à Dieu ce qui est à Dieu!”.
-   Cela me fit réfléchir. Je lus ce passage dans la Bible. Je pensai: «C’est vrai, Seigneur! Mais
-cela n’appartenait pas à César, mais à Toi. Si cet argent avait été à moi, et que j’aie dû payer plus
-d’impôts, cela eût été différent. Cela aurait appartenu à César. Mais dans ce cas, cela
-T’appartient! Cela n’appartient pas du tout à César!».
-   Vous savez, Il donne toujours la réponse dans la Parole. Je continuai à lire un peu plus loin, et
-je vis ceci: Il dit à Simon: «N’as-tu pas un hameçon dans ta poche? D’habitude, tu as toujours un
-hameçon et une ficelle avec toi. Et je viens de faire ce matin un dépôt à la banque des poissons,
-dans la rivière. J’ai fait un dépôt, et le banquier donnera certainement ce qu’il a. Va jeter ton
-hameçon dans la rivière, et quand tu auras trouvé le banquier, ouvre-lui la bouche: il te donnera
-l’argent. Ne les scandalise pas! Paie, Simon, pour Moi et pour toi!».
-   Je pensai: «C’est vrai, mon Dieu! Tu possèdes des banques de poissons dans tout le pays. Je
-ne sais pas comment Tu feras».
-   Je réunis les frères, qui m’apportèrent leur soutien et me permirent aussi de payer les 40’000
-dollars. Je rentrai chez moi, et là, je me demandai comment j’allais rédiger ce chèque pour qu’ils
-ne recommencent plus à m’attaquer. Je dis: «Afin que je sois libéré de toutes taxes»…?… Celui
-qui endossera celui-là, cela pourrait lui causer pas mal d’ennuis!
-   Je téléphonai sans arrêt à la banque pour savoir s’ils l’avaient accepté, et enfin Bob me dit:
-«C’est en ordre, Billy, ils l’ont accepté!».
-   Alors, je rentrai et j’embrassai ma femme en lui disant: «Chérie, tout est en ordre!».
-   Quelle sensation merveilleuse que d’être libéré! Ils m’ont accordé des facilités de paiement, et
-je peux ainsi payer à raison de 4000 dollars par année. Ainsi, je ne dois plus perdre mon temps
+Je vais vous décrire brièvement ce qui s’est passé. Je crois qu’il y a presque cinq ans qu’ils étaient sur cette affaire, étudiant ce cas, cherchant à connaître ma moralité, etc. Mais je suis si reconnaissant qu’ils n’aient rien pu trouver contre moi; ils n’ont ainsi pas pu m’accuser de quoi que ce soit. Ils n’ont pas pu m’accuser, mais ont reconnu que j’avais fait cela par ignorance. Ne connaissant pas la loi, je signais tous les chèques que l’on m’apportait, et je les donnais pour la campagne d’évangélisation. Mais il paraît que dès le moment où j’apposais mon nom sur ces chèques, ils m’appartenaient. Vous comprenez? Peu importait que… Ils me dirent: «C’était très bien de votre part. Ils vous appartenaient, et ensuite vous les donniez à l’église. Mais, sitôt que votre nom y était inscrit, ils vous appartenaient. Peu importait leur destination, ils vous avaient été adressés». Si les donateurs avaient inscrit sur ces chèques: «Don personnel», il n’y aurait pas eu de problème. Mais ils écrivaient simplement: William Branham. Et lorsque je signais… Mais finalement, par la prière…
 
-        http://www.cmpp.ch
+Vous vous rappelez qu’il n’y a pas longtemps, j’ai eu une vision. Il y avait un homme de grande taille d’apparence sombre comme de la fumée ou de la suie, couvert d’écailles comme un crocodile, qui s’avançait vers moi. Il avait des doigts de fer, et sur lui était écrit: “Gouvernement des Etats-Unis”. Moi, je n’avais en main qu’un petit couteau. J’étais totalement impuissant devant lui. Mais le Seigneur entra en scène, et cet homme fut vaincu. Rappelez-vous que je vous ai raconté cela il y a déjà pas mal de temps.
 
-L’ABSOLU 5
-maintenant: il faut que j’aille travailler. Il me va falloir dix ans pour payer cela, si Jésus ne vient pas
-avant. Mais quand Il viendra, les dettes seront de toute façon réglées, et… Mais vos prières m’ont
-beaucoup aidé. (Je dois encore parler de ce cas un petit moment.) Je vous remercie infiniment.
-Que Dieu vous bénisse! Quoi qu’il arrive, je n’oublierai jamais cela.
-   Ce soir, si le Seigneur le permet, je désire vous parler de quelques faits que je connais. Tâchez
-de venir! Rappelez-vous le sujet de ce soir: Messieurs, est-ce l’heure?
-   Je crois qu’il y a un programme établi pour cette semaine, pour aujourd’hui, demain et lundi.
-Lundi, c’est la longue veille. Ensuite, mardi, c’est le Nouvel-An; si vous êtes hors de ville, vous
-pouvez à ce moment-là rentrer à la maison. Nous aurons quelques bons prédicateurs pour cette
-rencontre. Chacun parlera à son tour, jusqu’à ce que nous arrivions à minuit. Quelquefois, on
-prend la Sainte-Cène (je ne sais pas si elle est prévue cette fois-ci). Pendant que le monde
-s’amuse et fait la fête, crie et boit, nous, nous prenons la Sainte-Cène! Amen! Nous
-commençons la nouvelle année par le Repas du Seigneur.
-   Vous êtes tous cordialement invités et j’espère que le Dieu du Ciel vous donnera l’occasion de
-venir, si vous le pouvez.
-   Avant de lire la Parole, je voudrais encore remercier l’église pour le beau complet que vous
-m’avez acheté. Merci infiniment. Cela représente beaucoup pour moi. Toutes vos cartes de voeux,
-etc., toutes ces choses de Noël, tous ces dons que vous avez envoyés à ma famille. Cela me
-touche profondément. Rien ne peut me toucher davantage que de savoir que cela vient de vous.
-   Quelques-uns m’ont aussi envoyé des cadeaux de Noël en argent. Un frère m’a envoyé un
-agenda sur lequel mon nom est inscrit, et on peut lire la prière du Seigneur. Il y a encore beaucoup
-de choses comme cela que nous aimons beaucoup. Ma femme et moi, et les enfants, nous vous
-remercions beaucoup. Je voudrais vous dire une petite phrase très courte, mais je pense que c’est
-la chose la plus belle qu’un homme puisse dire. C’est: «Dieu vous bénisse!». Je crois qu’on ne
-peut pas dire plus.
-   Il y a encore ces frères qui m’ont offert un fusil. J’ai déjà mis le complet que vous m’avez donné
-pour venir ici, mais je ne pouvais pas amener le fusil à l’église! Cela n’aurait pas été convenable.
-Je vous remercie, chers frères! Je voulais dire leurs noms, mais l’un d’eux me dit: «Oh non, frère
-Branham, cela nous enlèverait tout notre plaisir!».
-   Je pensai alors: «Peut-être que les autres pensent la même chose». Mais j’ai relevé vos noms,
-ils sont inscrits. Je n’oublierai jamais cela. Que le Seigneur vous bénisse richement!
-   Vous savez comment je me détends. Je vais dans mon bureau et je repense à tout ce que j’ai
-fait. Quand je suis tellement tendu que je ne peux plus travailler, je me mets à penser à telle ou
-telle partie de chasse ou de pêche. J’aime cela. Que Dieu vous bénisse.
-   Maintenant, inclinons nos têtes un moment avant de nous approcher de la Parole. Je pense
-qu’il y a trop de requêtes ce matin pour que nous puissions les nommer toutes, mais pendant que
-nous prions, pensez à votre requête personnelle, et gardez-la dans votre coeur, et levez la
-main, disant: «Oh Dieu! Tu sais à quoi je pense maintenant!».
-   Seigneur Jésus, Tu vois toutes ces mains. Tu sais tout ce qu’elles cachent. Sous cette main, il y
-a une requête. Et nous venons maintenant nous incliner devant le Trône du Dieu Vivant, cette
-grande perle blanche qui s’étend au-delà de l’espace et du temps; c’est là qu’est assis Jéhovah,
-notre Dieu; c’est là que le Sang de Christ est sur l’autel. Et nous parlons au travers de ce Sang par
-Celui qui a dit: “Tout ce que vous demanderez au Père en Mon Nom, Il vous l’accordera!”. Père,
-n’écouteras-Tu pas ce matin, et ne répondras-Tu pas à leurs requêtes? J’apporte ma prière avec
-les leurs en Te demandant de les exaucer.
-   Il y a ici des mouchoirs déposés par ceux qui sont malades et affligés. Il est dit dans la Bible
-qu’ils prirent des mouchoirs et des linges qui avaient touché Paul. Ils furent posés sur les malades,
-et les malades furent guéris, et les mauvais esprits furent chassés. Et, Père, nous savons depuis
-longtemps, et nous savons encore maintenant, que je ne suis pas Paul. Mais, après tout, ce
-n’était pas Paul, mais Christ en lui… Et, selon ce que dit l’Ecriture, Tu es Le Même hier,
-aujourd’hui et éternellement.
-   Seigneur, ces gens ici croient que si nous le demandons à Dieu, si nous prenons ces
-mouchoirs et les posons sur les malades, ceux-ci guériront. Je prie afin qu’il en soit ainsi,
-Seigneur. Quand ces mouchoirs sont placés sur les malades… Lorsque Israël se mit en marche
+L’autre jour, ils m’ont proposé de faire un compromis. Mon avocat, M. Orbison de New Albany, et Ice & Miller, d’Indianapolis, m’ont demandé de venir les trouver. J’y suis allé avec frère Roberson, ma femme, et les responsables de l’église. Et là, ils nous dirent que le gouvernement serait d’accord de faire un compromis.
 
-        http://www.cmpp.ch
+Je leur dis: «Si je dois quoi que ce soit à qui que ce soit, je le paierai. Je ferai de mon mieux». «Mais,» dis-je, «cela, je ne le dois pas! Dieu m’en est témoin! Et pourquoi ne m’accusent-ils pas, si je suis coupable? Ils ont eu cinq ans pour chercher quelque chose contre moi, et ils n’ont rien trouvé!». Je dis alors: «Je ne paierai rien jusqu’à ce que la preuve soit apportée que je le dois!».
 
-    L’ABSOLU          6
-pour sortir d’Egypte, marchant sur le chemin prescrit par Dieu pour arriver au pays de la
-promesse, la Mer Rouge barrait ce chemin. Mais Dieu, au travers de la Colonne de Feu, jeta un
-regard irrité sur les eaux, et les eaux eurent peur et s’écartèrent, laissant passer Israël qui marcha
-sur la terre sèche, vers la Terre promise.
-   Aujourd’hui, Seigneur, regarde au travers du Sang de Jésus. Tu vois cet acte de foi que nous
-accomplissons ici ce matin. Que Satan prenne peur et s’éloigne! Que chacun des pélerins qui sont
-ici présents, et chacun de ceux sur qui ces mouchoirs seront posés — que la route s’ouvre devant
-eux, et que la maladie s’éloigne. Qu’ils puissent poursuivre leur route vers la terre promise,
-conduits par le Saint-Esprit, la Colonne de Feu. Accorde-le nous, Seigneur!
-   Bénis les services, les paroles, la prédication, la lecture. Puisse le Saint-Esprit prendre la
-Parole ce matin et la distribuer à chacun de nous, Seigneur, parce que nous nous approchons peu
-à peu de quelque chose d’extraordinaire que nous ne connaissons pas. Nos coeurs sont
-étrangement émus, Seigneur, et nous Te prions avant de nous approcher de Toi et de Ta Parole,
-afin que Tu nous en donnes l’interprétation. Nous Te le demandons au Nom de Jésus. Amen!
-   N’oubliez pas que ce soir, je prêcherai sur ce sujet: Messieurs, est-ce l’heure?
-   Ce matin, j’aimerais vous lire un passage dans le Livre des Actes. Nous pourrions lire à deux ou
-trois endroits: Actes 26.15, puis, Actes 25.15; ensuite, Actes 23.11. Nous n’aurons probablement
-pas le temps de le lire, mais vous pouvez encore ajouter Philippiens 1.20. Tous ces passages se
-rapportent aux mêmes paroles.
-   Actes 26.15: Nous lisons ceci.
-     “Je répondis: Qui es-tu, Seigneur? Et le Seigneur dit: Je suis Jésus que tu persécutes.
-     Mais lève-toi, et tiens-toi sur tes pieds; car je te suis apparu pour t’établir ministre et
-   témoin des choses que tu as vues et de celles pour lesquelles je t’apparaîtrai. Je t’ai choisi
-   du milieu de ce peuple et du milieu des païens, vers qui je t’envoie, afin que tu leur ouvres
-   les yeux, pour qu’ils passent des ténèbres à la lumière et de la puissance de Satan à
-   Dieu, pour qu’ils reçoivent, par la foi en moi, le pardon des péchés et l’héritage avec
-   les sanctifiés.
-   En conséquence, roi Agrippa, je n’ai point résisté à la vision céleste: à ceux de Damas d’abord,
-puis à Jérusalem, dans toute la Judée, et chez les païens, j’ai prêché la repentance et la
-conversion à Dieu, avec la pratique d’oeuvres dignes de la repentance”.
-    Ensuite, Actes 23.11:
-     “La nuit suivante, le Seigneur apparut à Paul, et dit: Prends courage: car, de même que tu
-   as rendu témoignage de moi dans Jérusalem, il faut aussi que tu rendes témoignage dans
-   Rome”.
-   Que Dieu puisse ajouter Ses bénédictions à la lecture de Sa Sainte Parole, pleine de grâce,
-que nous avons devant nous.
-   Il n’y a pas longtemps, j’ai entendu un homme employer le mot absolu. Je pensai: «C’est un
-bien beau mot! Je l’ai souvent entendu». Absolument!…
-   J’ai regardé dans le dictionnaire de Webster. Voici le sens qu’il en donne: «Parfait en
-soi-même; d’une puissance illimitée; plus spécialement: fondamental, final, définitif». Et,
-quelque chose de définitif, c’est “l’Amen”. L’absolu, c’est quelque chose ayant “une puissance
-illimitée”. C’est quelque chose de “parfait en soi-même”. Tout est là! Je pensai: «Quelle chose
-merveilleuse! quel mot magnifique!».
-   Une parole est une pensée exprimée. Il faut premièrement qu’il y ait une pensée; ensuite, elle
-devient une parole, parce que vous ne pouvez pas prononcer vos paroles sans qu’il y ait une
-pensée derrière elles.
-   Lorsque nous parlons en langues, nous n’avons pas de pensée propre; c’est Dieu qui prend
-nos pensées; c’est la Pensée de Dieu qui S’exprime par nos lèvres. Vous ne pensez pas, vous ne
-comprenez pas ce que vous dites quand vous parlez en langues, s’il s’agit d’un langage inspiré.
-Quand vous interprétez, vous ne savez pas ce que vous dites. Vous le dites simplement. Vous
-comprenez? Cela vient de Dieu. Lorsque vous prophétisez, vous n’utilisez pas vos propres
-pensées. Cela vient de Dieu, parce qu’alors, vous dites des choses qu’il ne vous viendrait pas
-normalement à l’esprit de dire. Vous comprenez?
+Alors, l’avocat me fit entrer et me dit: «Maintenant, nous pouvons y aller. Le Gouvernement va instruire cette affaire». Il me dit: «La seule chose que nous puissions trouver contre vous est que…».
 
-    http://www.cmpp.ch
+Je n’ai pas fait les choses comme j’aurais dû les faire. Je ne connais rien en comptabilité, alors, j’ai agi selon ce que je pensais être honnête. Ces chèques n’ont jamais été portés à mon compte, mais toujours à celui de l’église, de la campagne, etc. Je ne pouvais pas faire autrement.
 
-L’ABSOLU 7
-   L’absolu est quelque chose de définitif. C’est pourquoi je pense que chacun devrait avoir un
-absolu. Il y a toujours eu un absolu derrière tout ce qui s’est fait de grand. Peu importe ce qui
-a été fait, mais il y a eu là derrière un absolu. Et quiconque veut accomplir quelque chose doit
-avoir premièrement un absolu. Et c’est cela qui vous conduit en toutes choses, jusqu’à “l’amen”,
-jusqu’à la fin. En d’autres termes, il vous faut quelque chose à quoi vous rattacher. C’est le
-point d’attache qui vous relie à toute réalisation… Il se trouve quelque part. Votre chemin peut
-passer par bien des détours avant d’y arriver. Mais il est “l’amen” final. Il doit y avoir une telle
-chose. Vous ne pouvez traverser l’existence sans ce point d’attache.
-   Lorsque vous vous êtes marié, il a bien fallu que quelque chose se meuve en vous jusqu’à ce
-que vous ayez fini par vous attacher à ce crochet. Ce fut normalement l’amour que vous portiez à
-votre femme ou à votre mari. Peut-être qu’elle n’est pas aussi jolie que la femme de John.
-Peut-être qu’elle n’est pas ceci ou cela, mais il y a en elle quelque chose qui vous a frappé.
-Vous direz: «Elle n’est peut-être pas aussi jolie que l’autre, mais il y avait là un absolu qui la
-rendait différente des autres. Et c’est à cela que vous tenez. Et si ce point d’attache, cet
-absolu, n’est pas là, il est préférable pour vous de ne pas vous marier!
-   Nous pouvons penser à de nombreuses personnes dans la Bible qui avaient un absolu. Nous
-pourrions rester sur ce sujet pendant deux semaines entières à chercher des absolus dans la
-Bible, et nous ne ferions qu’effleurer le sujet. Laissez-moi vous parler d’un exemple.
-   Voyez Job. Lui avait un Absolu! Tout alla mal pour cet homme, un homme juste. Nous
-n’oserions pas dire qu’il n’était pas juste, parce que c’est Dieu Lui-même qui l’affirme. Il n’y avait
-sur la terre personne de semblable à Job. Il était parfait aux yeux de Dieu. Et il le savait, parce
-qu’il avait un Critère absolu — il avait un Absolu.
-   Quand tout alla au plus mal, quand la maladie le frappa, ses amis lui dirent: “Voilà, Job, cela
-prouve bien que tu es un pécheur!”. Ensuite, les prêtres vinrent (ceux qui vinrent soi-disant pour
-consoler Job) et, au lieu de le consoler, ils ne virent rien d’autre que le péché dans sa vie, à cause
-de la manière dont Dieu l’avait traité.
-   Ses enfants moururent. Tous ses biens furent consumés par le feu. Tout alla vraiment mal pour
-lui; sa vie même était menacée, lorsqu’il était assis sur la cendre, n’ayant plus qu’un tesson pour
-gratter les ulcères qui le couvraient des pieds à la tête. Et même sa femme, la mère de ses
-enfants, lui dit: “Maudis Dieu, et meurs!”. Mais, face à eux tous, Job avait un Absolu!
-   Oh, si en période de maladie nous pouvions nous accrocher à cet Absolu! Job savait qu’il avait
-fait la volonté de Dieu, et il avait la foi en ce qu’il avait fait, parce que c’était Jéhovah qui l’avait
-demandé. Si seulement nous pouvions agir ainsi! Jéhovah demandait un holocauste pour les
-péchés. Et Job faisait des holocaustes non seulement pour lui, mais également pour sa famille,
-parce que Dieu le demandait.
-   Vous direz: «Oh, si seulement Il ne demandait que cela, aujourd’hui!».
-   Il demande moins que cela: Il vous demande d’avoir foi en Sa Parole. Et si vous faites de Sa
-Parole votre Absolu, alors vous pouvez accrocher votre âme à chaque Promesse Divine de la
-Bible. Peu importe combien les vagues vous secouent: vous êtes arrimé! C’est là votre Absolu.
-   Il s’en tint fermement à Cela, et lors même que ses amis vinrent le “réconforter” en lui disant
-qu’il avait péché, lui savait qu’il n’en était rien. Il était juste, parce qu’il avait fait la volonté de Dieu.
-Et lorsqu’ils vinrent lui dire: “Tes enfants sont morts, tes chameaux, tous tes biens sont consumés
-par le feu du ciel…”.
-   Voyez l’argument qu’employèrent ses amis: “Le feu est descendu du ciel. Tu vois, Job, cela
-prouve bien que…”.
-   — “Cela ne prouve rien du tout!”.
-   — “Il n’aurait pas frappé tes enfants — Job, tu n’es qu’un homme…”.
-   Mais Job dit: “Je sais que j’ai fait ce qui est juste!”. Il maintint sa position. Il avait quelque chose
-sur quoi se fonder. C’était cela. Il l’avait accepté. Il avait fait exactement ce que Dieu lui avait dit de
-faire. Il en était absolument sûr!
-   Alors, lorsqu’il arriva au point où se trouvait l’Absolu, il sentit la ligne se tendre et donner des
-secousses. Jusqu’alors, elle était restée détendue. Mais elle commença à se tendre, et l’Esprit vint
-sur lui. Alors, il se leva et se mit à prophétiser, disant: “Je sais que mon Rédempteur est
+Mais ils me dirent: «Nous sommes d’accord de faire un compromis, et de vous libérer pour 15’000 dollars, plus 10’000 dollars d’amende». Les honoraires de l’avocat étaient fixés, eux, à 15’000 dollars. Tout cela me faisait 40’000 dollars à payer!… Mais je leur dis: «Où pensez-vous donc que je vais trouver ces 40’000 dollars? Vous avez vu mon compte en banque: il ne contient pas plus de 100 dollars, et peut-être même moins». Je leur dis: «Où voulez-vous que j’aille chercher ces 40’000 dollars? Je n’ai aucune fortune. Je n’ai rien!».
 
-        http://www.cmpp.ch
+Il me dit: «M. Branham, s’il y a procès, nous gagnerons certainement. Voici ce que je vais faire: ils vont prétendre que tout vous appartient parce que vous avez signé ces chèques. Ils vont essayer de le prouver, malgré que vous ayez porté cet argent aux comptes de l’église et de la Campagne Branham».
 
-    L’ABSOLU    8
-vivant!”. Amen! Vous comprenez? Lorsque la ligne se tendit, il entra en contact avec son Absolu.
-Il savait que ce qu’il faisait était juste, et qu’un jour, il arriverait jusqu’à Lui. “Je sais que mon
-Rédempteur est vivant, et qu’Il se lèvera; quand je n’aurai plus de chair, je verrai Dieu!”. — Dès ce
-moment, il savait. Son Absolu l’avait arrimé.
-   Abraham, lui aussi, avait un Absolu. Il descendit de Babylone, de la tour qui y avait été
-construite, dans le désert de Schinéar, et il séjourna là-bas avec son père. Il était peut-être un
-paysan. Mais un jour, alors qu’il était peut-être dans la forêt en train de cueillir des baies ou de
-chasser pour sa nourriture, Dieu lui parla. Il avait alors soixante-quinze ans.
-   Sa femme, Sarah, en avait soixante-cinq. Ils n’avaient pas d’enfants. Mais Dieu lui dit: “Sarah
-t’enfantera un fils, mais pour cela, va-t-en d’ici!”.
-   Il y a toujours une condition aux promesses de Dieu. Vous devez absolument… peu
-importe combien vous croyez à la promesse, elle est toujours soumise à des conditions. Nous
-pourrions nous arrêter ici et parcourir les Ecritures pendant des heures pour montrer que la
-condition est ce qu’il y a de plus important. Vous pouvez être aussi fondamental que possible:
-c’est la condition sous laquelle est faite la promesse qui compte — qu’il s’agisse de
-prédestination ou autre.
-   Remarquez bien qu’Abraham eut foi en Dieu et que cela lui fut imputé à justice. Pensez à la
-chose horrible que ce serait, dans notre monde civilisé, que de rencontrer un homme de
-soixante-quinze ans et une femme âgée de soixante-cinq ans, ayant vécu ensemble depuis tout
-jeunes (en effet, Sarah était la demi-soeur d’Abraham), et qui auraient la perspective d’avoir un
-enfant. Mais lui avait un Absolu. Rien n’aurait pu l’ébranler.
-   Et lorsque, le premier mois ayant passé, rien ne s’était produit, il garda son Absolu, parce qu’il
-savait que Dieu lui avait parlé. Le deuxième mois, la deuxième année, la dixième année, et jusqu’à
-la vingt-cinquième année, il garda son Absolu (il avait alors cent ans, et Sarah, quatre-vingt-dix.)
-   Et, en guise de nécrologie, la Bible dit: “Abraham ne chancela pas lors de la promesse de Dieu,
-mais demeura ferme dans la foi, donnant gloire à Dieu”. Pourquoi cela? Y avez-vous songé? Il
-avait l’Absolu, et la seule chose qu’il dû faire était de se séparer de son peuple. Dieu ne lui
-accorda pas Sa bénédiction avant qu’il n’obéît à Son ordre. Il prit son père avec lui. Son père
-mourut. Il prit aussi Lot avec lui. Après que Lot se fût séparé d’Abraham, Dieu lui dit: “Parcours le
-pays!”. Avec Dieu et Sa Parole, il faut toujours l’obéissance; il y a toujours une condition à Ses
-promesses.
-   Prenons maintenant le cas de Moïse. Moïse, le serviteur-prophète fugitif que Dieu avait élevé et
-instruit dans le palais de Pharaon… Avec toute son instruction théologique, la première fois qu’il
-sortit, il tua un homme. A la première difficulté, il eut mortellement peur. Pourquoi? — parce qu’il
-n’avait pas d’Absolu. Il n’avait que le témoignage de sa mère concernant sa naissance.
-   C’était un enfant étrange. Il avait le témoignage de sa mère. Il avait des rouleaux (peut-être du
-papier sur lequel on avait écrit, et qu’ils avaient emporté avec eux), dans lesquels il était dit que
-Dieu viendrait visiter Ses enfants. Il savait que le temps était là (comme nous le savons, nous
-aussi, en ce qui nous concerne). Nous savons que quelque chose va arriver.
-   Moïse savait que l’heure avait sonné, et il savait qu’il avait été choisi. Mais il n’avait pas encore
-d’Absolu. Vous voyez? Un jour, dans le désert, alors qu’il s’était perdu, Dieu lui apparut dans le
-Buisson Ardent, et dit “Moïse, J’ai vu l’affliction de Mon peuple. J’ai entendu leurs gémissements et
-leurs pleurs, lorsqu’ils sont courbés sous le fouet des surveillants qui les maltraitent. Et Je me suis
-souvenu de Ma promesse. Je suis venu pour les délivrer. Maintenant, va en Egypte!”. Oh, mon
-Dieu!
-   Moïse se mit à gémir, disant: “Je ne sais pas m’exprimer, je parle mal. Ils ne voudraient pas me
-croire!”.
-   Mais Dieu dit: “Que tiens-tu dans ta main?”.
-   — “Un bâton”.
-   — “Jette-le à terre” — et il devint un serpent! Dieu lui dit encore: “Prends-le par la queue!” — il
-redevint un bâton. Dieu lui donnait ainsi l’assurance, la confirmation. Quand Dieu donne
-l’Absolu, Il donne toujours une confirmation de cet Absolu.
+Ils ne peuvent trouver un cent que j’aurais dépensé pour mes besoins personnels. C’est cela, la vérité. Dieu le sait! Il y a un homme ici qui peut en témoigner. Il a été avec moi pendant tout ce temps. Je n’ai pas dépensé un seul cent pour moi-même. Tout a été dépensé pour le Royaume de Dieu, jusqu’au dernier centime.
 
-    http://www.cmpp.ch
+Mais cela n’eut aucun effet. Ils dirent que cet argent était d’abord à moi, ensuite à l’église, et pour la campagne. Ils ont une manière de faire, vous savez — toutes sortes de détours. Aussi, je leurs dis: «Je ne paierai pas un sou!».
 
-    L’ABSOLU                      9
-   Aussi, quand Moïse fut devant Pharaon et qu’il jeta son bâton à terre devant les magiciens et
-Pharaon (les magiciens, eux aussi, jetèrent leur bâton), il n’eut pas à s’enfuir en disant: “Je me
-suis trompé. J’ai essayé de faire un tour de magie élémentaire. Peut-être que je me suis trompé”.
-Non! Il savait! Il savait qu’il avait rencontré Dieu. Aussi garda-t-il son calme. Il avait fait
-exactement ce que Dieu lui avait dit de faire. Job, lui aussi, avait fait exactement ce que Dieu lui
-avait dit de faire. Moïse avait suivi Ses commandements. Il demeura plein de confiance, et
-regarda la Gloire de Dieu Se manifester!
-   Moïse était attaché à son Absolu, à sa mission, et il garda son calme. Et quand il fit cela,
-son serpent engloutit les autres serpents. Vous comprenez? Il était attaché à son Absolu! Dieu
-avait dit: “Quand tu délivreras les enfants d’Israël, ils viendront M’adorer sur cette montagne”.
-   Mais voyez comment l’ennemi essaiera par tous les moyens de vous éloigner de cet Absolu!
-Aussitôt qu’ils furent sortis d’Egypte, ils se trouvèrent acculés au bord de la mer Rouge. Il y avait
-des montagnes de chaque côté. Ils avaient suivi une vallée qui arrivait au bord de la mer Rouge, et
-il n’y avait aucun moyen d’échapper, ni à gauche, ni à droite — et l’armée de Pharaon qui arrivait
-derrière eux! Ils étaient vraiment en mauvaise posture. Vous voyez comment le diable vous met
-dans des situations où vous ne savez plus quoi faire! Mais rappelez-vous que si vous êtes
-attaché à cet Absolu, vous ne risquez plus rien. Moïse savait que Dieu lui avait promis “qu’ils
-iraient L’adorer sur cette montagne quand lui, Moïse, les aurait fait sortir d’Egypte. Et qu’Il se
-tiendrait à ses côtés pour conduire ce peuple à la terre promise”. Il crut à cette promesse, et Dieu
-envoya un vent d’orient qui retira les eaux de la mer, et ils firent la traversée à pied sec. Ils
-avaient un Absolu!
-   Nous pourrions continuer à parcourir les Ecritures. Il y eut aussi Daniel et son Absolu.
-Schadrac, Méschac et Abed-Nego avec leur Absolu. David aussi avait son Absolu. Tous avaient
-un Absolu!
-   Paul aussi en avait un, lui dont nous avons lu un passage, tout à l’heure. Il avait une vocation
-centrée sur Christ, et cela, c’était son Absolu. C’est la raison pour laquelle il n’eut pas peur de ce
-que Agrippa allait lui dire. Il se tint devant lui (et nous savons qu’Agrippa était Juif). Mais lorsqu’il
-dut comparaître devant ces rois et autres grands personnages, Dieu l’avait déjà averti qu’il aurait à
-le faire. Il avait un Absolu, c’est pourquoi il raconta exactement sa vision céleste. Il dit: “Ce n’est
-pas déshonorant de faire cela. Je ne me suis pas mal conduit”. Mais il resta soumis jusque dans
-les moindres détails, car il avait un Absolu. Et cela, c’est l’Absolu de toute vie centrée sur
-Christ.
-   Cette rencontre que fit Paul face à face avec Dieu sur le chemin de Damas eut une grande
-importance pour lui. Souvenez-vous qu’auparavant, il était un érudit. Il était un docteur connaissant
-à fond les Ecritures, mais n’avait pas d’autre Absolu que le Sanhédrin qui lui assurait son
-appui, et qui l’avait confirmé comme étant un grand docteur. Il était un grand homme dans son
-domaine, mais il n’était pas bien solide. Son Absolu était d’ailleurs aussi fort que
-l’organisation à laquelle il appartenait; il ne pouvait être plus fort. Il agissait fidèlement selon
-son Absolu, persécutant les Chrétiens et semant le trouble parmi eux. Il participa même à la mort
-d’Etienne, qui fut lapidé en sa présence.
-   Je pense que c’est cette raison qui le poussa plus tard à aller à Jérusalem malgré
-l’avertissement du prophète qui lui avait dit: “N’y va pas, parce que tu iras en prison et tu seras
-enchaîné”.
-   Mais Paul lui répondit: “Je le sais. Je ne vais pas simplement à Jérusalem pour témoigner,
-mais parce que je dois y aller; je suis prêt à mourir pour Christ”. Il avait compris ce qu’il avait fait,
-et son ambition était de sceller son témoignage dans son propre sang, mourant ainsi comme un
-martyr, parce qu’il avait tué un des martyrs de Dieu.
-   Et maintenant, il était sur le chemin de Damas, revêtu de toute son autorité. (Il avait été instruit
-par Gamaliel dans toute la religion des Juifs.) Malgré cela, il manquait d’assurance, et ne
-pouvait pas faire certaines choses. Tout à coup, il y eut une grande lumière et un bruit de tonnerre,
-et il tomba sur le sol. Quand il se releva, il y avait là une Lumière qui brillait tellement qu’il en fut
-aveuglé. Quelle chose étrange! Personne d’autre que lui ne vit la Lumière. Elle fut tellement
-réelle pour lui qu’Elle l’aveugla: Il ne vit plus rien, étant devenu totalement aveugle pendant que
+Mon avocat me dit: «Nous pouvons arranger l’affaire de cette manière. Je peux faire déclarer cet argent comme étant des dons personnels. Mais alors, tout ce qui est au-dessus de dix mille dollars sera considéré comme fortune, et vous vous retrouverez au même point qu’avant, et ils passeront encore cinq ans à contrôler tout cela».
 
-                http://www.cmpp.ch
+Vous comprenez, lorsque vous avez rempli un chèque, il passe au contrôle, et est photocopié. Bien sûr, j’avais tous les talons.
 
-L’ABSOLU 10
-la Colonne de Feu flamboyait devant lui. Il entendit une Voix lui dire: “Saul, Saul, pourquoi me
-persécutes-tu?”.
-   Paul répondit: “Seigneur, qui es-tu?”.
-   Il reprit: “Je suis Jésus que tu persécutes. Il te serait dur de regimber contre les aiguillons”.
-“… lève-toi, entre dans la ville et on te dira ce que tu dois faire!”.
-   Ananias, un homme, un prophète, eut une vision pendant qu’il priait, et vint chercher Saul après
-qu’il se fût relevé et qu’il fût entré dans la ville. Ce prophète, Ananias, imposa les mains à Saul, et
-le guérit par la guérison Divine.
-   Alors, il se releva, fut baptisé, lavé de ses péchés au Nom du Seigneur. Alors, il eut un Absolu.
-Il ne fut plus jamais le même après cela. Il alla d’église en église, de lieu en lieu, essayant de
-construire ce qu’il avait essayé de détruire auparavant.
-   Combien de pays, combien le monde chrétien ont aujourd’hui besoin de cet Absolu! Ceux
-qui fabriquent les credo ont essayé, au moyen de doctrines d’hommes, de discréditer la Parole
-de Dieu et de faire croire qu’Elle n’est pas la même hier, aujourd’hui et éternellement. Ils ont
-besoin d’un Absolu, de faire une expérience semblable à celle que fit Paul sur le chemin de
-Damas. Ils ont besoin de rencontrer le Dieu Vivant qui peut guérir les malades, ressusciter
-les morts et chasser les démons — ils ont besoin d’un véritable Absolu.
-   Paul savait que quelque chose lui était arrivé, quelque chose que personne ne pouvait lui
-enlever. Plus rien d’autre ne comptait. Il était lié — un point, c’est tout! Peu importait ce qui pouvait
-arriver, il savait qu’il était lié, que sa vie était liée à Christ. Oh, la vie qu’il mena à partir de ce
-jour fut bien différente de sa vie d’avant sa conversion!
-   Rappelez-vous qu’il avait toujours été un homme religieux. Et ceci s’adresse à vous tous (je
-sais que vous comprenez bien que cette prédication est enregistrée et que les bandes seront
-écoutées dans le monde entier). Quelques-uns sont présents ici, ce matin. D’autres entendront
-cela dans d’autres nations, au moyen d’un interprète (ce message sera donné aux différentes
-tribus d’Afrique, aux Hottentots, etc.) Vous l’entendrez aussi, vous, les chefs religieux qui avez
-reçu un enseignement biblique (vous avez appris toutes les données historiques et êtes
-capables d’expliquer ces choses). Mais, si vous n’avez pas un Absolu, si vous n’en avez pas
-fait vous-même l’expérience (ou si l’expérience que vous avez faite ne vous fait pas approuver
-chacune des paroles de ce message comme étant parfaitement juste pour l’église d’aujourd’hui,
-comme pour celle d’autrefois); si vous mettez votre confiance dans ce que pense votre
-dénomination (qui dit: «Le temps des miracles est passé; il n’y a pas de guérison divine; le
-baptême du Saint-Esprit, tel qu’il fut donné le jour de Pentecôte, n’est pas pour aujourd’hui»); si
-c’est tout ce que vous avez, cher frère, chère soeur, alors vous avez besoin d’une expérience
-semblable à celle du chemin de Damas!
-   Vous avez besoin de rencontrer le Dieu Vivant — il ne s’agit pas simplement de recevoir une
-pensée mystique dans votre esprit, d’éprouver une sensation quelconque, mais de passer par
-l’expérience d’une véritable… Ce même Jésus qui parcourut la Galilée est vivant parmi nous
-aujourd’hui et vit éternellement. Il est le Même hier, aujourd’hui et éternellement — c’est un
-Absolu; vous n’avez pas besoin de le recevoir de quelqu’un d’autre, mais c’est quelque chose que
-vous devez recevoir vous-même. Ce n’est pas quelque sensation.
-   S’il s’agit d’une sensation (cela peut avoir été une sensation réelle, biblique), et que quelqu’un
-essaie de vous convaincre que cela, c’était bon pour autrefois, faites bien attention! Il y a un bon
-moyen de savoir à quoi vous en tenir: c’est d’éprouver par la Parole! C’est cela, le critère!
-   Si la maison n’est pas conforme aux plans, le propriétaire la démolira et la reconstruira selon
-les plans. Elle doit être conforme aux plans.
-   Peu importent les expériences par lesquelles vous avez passé. Si quelque chose en vous
-vous dit que la Bible n’est pas vraie, que la puissance de Dieu, les apôtres, prophètes,
-prédicateurs, pasteurs, que les dons du Saint-Esprit et tout cela ne sont plus exactement aussi
-valables qu’au jour de Pentecôte, où l’Esprit descendit sur les apôtres, alors, il y a quelque
-chose de faux dans votre absolu! Il est attaché à une dénomination, plutôt qu’à la Bible de
-Dieu, car il est dit: “Les cieux et la terre passeront, mais ma Parole ne passera point!”.
+Il me dit donc: «Alors, vous en serez au même point qu’auparavant. Autre chose encore, M. Branham. Si jamais vous avez un procès de ce genre avec le Gouvernement, peu importe ce qui a pu vous arriver, pour le public, vous serez considéré comme un escroc». Vous voyez?
 
-        http://www.cmpp.ch
+Voyez ce qui est arrivé à ce prédicateur baptiste du Mississipi. Une femme l’accusa de l’avoir outragée. Mais cet homme put prouver qu’il n’était même pas dans la ville ce jour-là, ni le jour précédent, ni le jour suivant. Il put le prouver de telle manière que le juge lui proposa de poursuivre la femme pour diffamation. Mais lui, dit: «Laissez-la aller».
+
+Mais, savez-vous ce qui arriva quand on fit un sondage d’opinion dans le pays à ce sujet? 75% des Américains dirent: «Il n’y a pas de fumée sans feu!». Et ce pauvre homme, aussi innocent que vous et moi à ce sujet, devra porter cet opprobre jusqu’au jour de sa mort, bien qu’il n’ait rien eu à se reprocher dans cette affaire.
+
+Pendant un certain temps, je fus vraiment malheureux, en pensant qu’ayant consacré ma vie au Royaume de Dieu, essayant d’amener les gens à payer leurs impôts, et de faire en sorte que les malfaiteurs deviennent honnêtes, je dusse moi-même être accusé d’escroquerie.
+
+Je pensai: «Qu’ai-je bien pu faire?». Et alors, il me vint à l’idée de chercher dans ma Bible. Je vis alors que chaque homme, sans exception, qui eut un ministère spirituel, fut attaqué par Satan qui essaya de le faire passer pour quelqu’un d’immoral, et qu’il fut en butte aux attaques du gouvernement. Revoyez toute l’histoire, Moïse, Daniel, les Hébreux, Jean-Baptiste, Jésus-Christ (qui mourut condamné à la peine capitale par le gouvernement), Paul, Pierre, Jacques, fils de Zébédée, Jacques le Mineur — tous moururent à cause de leur gouvernement, parce que chaque gouvernement est le siège de Satan. C’est Jésus qui l’a dit; c’est la Bible qui le dit.
+
+Chaque gouvernement est sous l’autorité de Satan. Il y aura un gouvernement qui sera dirigé par Christ: ce sera pendant le Millénium. Mais tous ces gouvernements actuels, quoi que nous puissions en penser, sont sous la domination de Satan. “Tous les royaumes de la terre m’appartiennent. J’en fais ce que je veux. Si tu m’adores, je te les donnerai!”.
+
+Mais Jésus dit: “Retire-toi, Satan! Car il est écrit: Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul”.
+
+Je me décourageai en causant avec ma femme. Je rentrai à la maison, et dis: «Non! Si je devais cet argent, je le paierais. Je ne le dois pas, par conséquent, je ne paierai rien! Un point, c’est tout! De toute façon, comment pourrais-je le payer?».
+
+Aussi rentrai-je à la maison, et je dis à ma femme: «Meda, débarbouille la figure des enfants et prépare leurs vêtements; nous nous en allons. Tout est sens dessus dessous! Qu’ai-je fait? Moi, payer 40’000 dollars? Tu ne comprends pas ce que cela signifie pour moi!». Mais elle, comme une gentille petite femme qu’elle est, me dit… Je lui avais dit: «Je m’en vais!».
+
+Elle me dit: «Penses-tu que cela servirait à quelque chose? As-tu prié à ce sujet?».
+
+Je pensai: «Peut-être que j’aurais avantage à prier de nouveau». Je recommençai, et il me sembla qu’Il me citait une Parole des Saintes Ecritures. Nous devons toujours sonder les Ecritures, et voir ce que Dieu a fait.
+
+Un jour, on Lui posa une question, essayant de Le faire accuser le gouvernement. Ils Lui demandèrent: “Est-il juste pour nous autres Juifs libres de payer le tribut à César?”.
+
+Il leur répondit: “Avez-vous une pièce de monnaie? De qui est cette effigie?”.
+
+— “De César!”.
+
+— “Alors, rendez à César ce qui est à César, et à Dieu ce qui est à Dieu!”.
+
+Cela me fit réfléchir. Je lus ce passage dans la Bible. Je pensai: «C’est vrai, Seigneur! Mais cela n’appartenait pas à César, mais à Toi. Si cet argent avait été à moi, et que j’aie dû payer plus d’impôts, cela eût été différent. Cela aurait appartenu à César. Mais dans ce cas, cela T’appartient! Cela n’appartient pas du tout à César!».
+
+Vous savez, Il donne toujours la réponse dans la Parole. Je continuai à lire un peu plus loin, et je vis ceci: Il dit à Simon: «N’as-tu pas un hameçon dans ta poche? D’habitude, tu as toujours un hameçon et une ficelle avec toi. Et je viens de faire ce matin un dépôt à la banque des poissons, dans la rivière. J’ai fait un dépôt, et le banquier donnera certainement ce qu’il a. Va jeter ton hameçon dans la rivière, et quand tu auras trouvé le banquier, ouvre-lui la bouche: il te donnera l’argent. Ne les scandalise pas! Paie, Simon, pour Moi et pour toi!».
+
+Je pensai: «C’est vrai, mon Dieu! Tu possèdes des banques de poissons dans tout le pays. Je ne sais pas comment Tu feras».
+
+Je réunis les frères, qui m’apportèrent leur soutien et me permirent aussi de payer les 40’000 dollars. Je rentrai chez moi, et là, je me demandai comment j’allais rédiger ce chèque pour qu’ils ne recommencent plus à m’attaquer. Je dis: «Afin que je sois libéré de toutes taxes»…?… Celui qui endossera celui-là, cela pourrait lui causer pas mal d’ennuis!
+
+Je téléphonai sans arrêt à la banque pour savoir s’ils l’avaient accepté, et enfin Bob me dit: «C’est en ordre, Billy, ils l’ont accepté!».
+
+Alors, je rentrai et j’embrassai ma femme en lui disant: «Chérie, tout est en ordre!».
+
+Quelle sensation merveilleuse que d’être libéré! Ils m’ont accordé des facilités de paiement, et je peux ainsi payer à raison de 4000 dollars par année. Ainsi, je ne dois plus perdre mon temps maintenant: il faut que j’aille travailler. Il me va falloir dix ans pour payer cela, si Jésus ne vient pas avant. Mais quand Il viendra, les dettes seront de toute façon réglées, et… Mais vos prières m’ont beaucoup aidé. (Je dois encore parler de ce cas un petit moment.) Je vous remercie infiniment. Que Dieu vous bénisse! Quoi qu’il arrive, je n’oublierai jamais cela.
+
+Ce soir, si le Seigneur le permet, je désire vous parler de quelques faits que je connais. Tâchez de venir! Rappelez-vous le sujet de ce soir: Messieurs, est-ce l’heure?
+
+Je crois qu’il y a un programme établi pour cette semaine, pour aujourd’hui, demain et lundi. Lundi, c’est la longue veille. Ensuite, mardi, c’est le Nouvel-An; si vous êtes hors de ville, vous pouvez à ce moment-là rentrer à la maison. Nous aurons quelques bons prédicateurs pour cette rencontre. Chacun parlera à son tour, jusqu’à ce que nous arrivions à minuit. Quelquefois, on prend la Sainte-Cène (je ne sais pas si elle est prévue cette fois-ci). Pendant que le monde s’amuse et fait la fête, crie et boit, nous, nous prenons la Sainte-Cène! Amen! Nous commençons la nouvelle année par le Repas du Seigneur.
+
+Vous êtes tous cordialement invités et j’espère que le Dieu du Ciel vous donnera l’occasion de venir, si vous le pouvez.
+
+Avant de lire la Parole, je voudrais encore remercier l’église pour le beau complet que vous m’avez acheté. Merci infiniment. Cela représente beaucoup pour moi. Toutes vos cartes de voeux, etc., toutes ces choses de Noël, tous ces dons que vous avez envoyés à ma famille. Cela me touche profondément. Rien ne peut me toucher davantage que de savoir que cela vient de vous.
+
+Quelques-uns m’ont aussi envoyé des cadeaux de Noël en argent. Un frère m’a envoyé un agenda sur lequel mon nom est inscrit, et on peut lire la prière du Seigneur. Il y a encore beaucoup de choses comme cela que nous aimons beaucoup. Ma femme et moi, et les enfants, nous vous remercions beaucoup. Je voudrais vous dire une petite phrase très courte, mais je pense que c’est la chose la plus belle qu’un homme puisse dire. C’est: «Dieu vous bénisse!». Je crois qu’on ne peut pas dire plus.
+
+Il y a encore ces frères qui m’ont offert un fusil. J’ai déjà mis le complet que vous m’avez donné pour venir ici, mais je ne pouvais pas amener le fusil à l’église! Cela n’aurait pas été convenable. Je vous remercie, chers frères! Je voulais dire leurs noms, mais l’un d’eux me dit: «Oh non, frère Branham, cela nous enlèverait tout notre plaisir!».
+
+Je pensai alors: «Peut-être que les autres pensent la même chose». Mais j’ai relevé vos noms, ils sont inscrits. Je n’oublierai jamais cela. Que le Seigneur vous bénisse richement!
+
+Vous savez comment je me détends. Je vais dans mon bureau et je repense à tout ce que j’ai fait. Quand je suis tellement tendu que je ne peux plus travailler, je me mets à penser à telle ou telle partie de chasse ou de pêche. J’aime cela. Que Dieu vous bénisse.
+
+Maintenant, inclinons nos têtes un moment avant de nous approcher de la Parole. Je pense qu’il y a trop de requêtes ce matin pour que nous puissions les nommer toutes, mais pendant que nous prions, pensez à votre requête personnelle, et gardez-la dans votre coeur, et levez la main, disant: «Oh Dieu! Tu sais à quoi je pense maintenant!».
+
+Seigneur Jésus, Tu vois toutes ces mains. Tu sais tout ce qu’elles cachent. Sous cette main, il y a une requête. Et nous venons maintenant nous incliner devant le Trône du Dieu Vivant, cette grande perle blanche qui s’étend au-delà de l’espace et du temps; c’est là qu’est assis Jéhovah, notre Dieu; c’est là que le Sang de Christ est sur l’autel. Et nous parlons au travers de ce Sang par Celui qui a dit: “Tout ce que vous demanderez au Père en Mon Nom, Il vous l’accordera!”. Père, n’écouteras-Tu pas ce matin, et ne répondras-Tu pas à leurs requêtes? J’apporte ma prière avec les leurs en Te demandant de les exaucer.
+
+Il y a ici des mouchoirs déposés par ceux qui sont malades et affligés. Il est dit dans la Bible qu’ils prirent des mouchoirs et des linges qui avaient touché Paul. Ils furent posés sur les malades, et les malades furent guéris, et les mauvais esprits furent chassés. Et, Père, nous savons depuis longtemps, et nous savons encore maintenant, que je ne suis pas Paul. Mais, après tout, ce n’était pas Paul, mais Christ en lui… Et, selon ce que dit l’Ecriture, Tu es Le Même hier, aujourd’hui et éternellement.
+
+Seigneur, ces gens ici croient que si nous le demandons à Dieu, si nous prenons ces mouchoirs et les posons sur les malades, ceux-ci guériront. Je prie afin qu’il en soit ainsi, Seigneur. Quand ces mouchoirs sont placés sur les malades… Lorsque Israël se mit en marche pour sortir d’Egypte, marchant sur le chemin prescrit par Dieu pour arriver au pays de la promesse, la Mer Rouge barrait ce chemin. Mais Dieu, au travers de la Colonne de Feu, jeta un regard irrité sur les eaux, et les eaux eurent peur et s’écartèrent, laissant passer Israël qui marcha sur la terre sèche, vers la Terre promise.
+
+Aujourd’hui, Seigneur, regarde au travers du Sang de Jésus. Tu vois cet acte de foi que nous accomplissons ici ce matin. Que Satan prenne peur et s’éloigne! Que chacun des pélerins qui sont ici présents, et chacun de ceux sur qui ces mouchoirs seront posés — que la route s’ouvre devant eux, et que la maladie s’éloigne. Qu’ils puissent poursuivre leur route vers la terre promise, conduits par le Saint-Esprit, la Colonne de Feu. Accorde-le nous, Seigneur!
+
+Bénis les services, les paroles, la prédication, la lecture. Puisse le Saint-Esprit prendre la Parole ce matin et la distribuer à chacun de nous, Seigneur, parce que nous nous approchons peu à peu de quelque chose d’extraordinaire que nous ne connaissons pas. Nos coeurs sont étrangement émus, Seigneur, et nous Te prions avant de nous approcher de Toi et de Ta Parole, afin que Tu nous en donnes l’interprétation. Nous Te le demandons au Nom de Jésus. Amen!
+
+N’oubliez pas que ce soir, je prêcherai sur ce sujet: Messieurs, est-ce l’heure?
+
+Ce matin, j’aimerais vous lire un passage dans le Livre des Actes. Nous pourrions lire à deux ou trois endroits: Actes 26.15, puis, Actes 25.15; ensuite, Actes 23.11. Nous n’aurons probablement pas le temps de le lire, mais vous pouvez encore ajouter Philippiens 1.20. Tous ces passages se rapportent aux mêmes paroles.
+
+Actes 26.15: Nous lisons ceci.
+
+> “Je répondis: Qui es-tu, Seigneur? Et le Seigneur dit: Je suis Jésus que tu persécutes. Mais lève-toi, et tiens-toi sur tes pieds; car je te suis apparu pour t’établir ministre et témoin des choses que tu as vues et de celles pour lesquelles je t’apparaîtrai. Je t’ai choisi du milieu de ce peuple et du milieu des païens, vers qui je t’envoie, afin que tu leur ouvres les yeux, pour qu’ils passent des ténèbres à la lumière et de la puissance de Satan à Dieu, pour qu’ils reçoivent, par la foi en moi, le pardon des péchés et l’héritage avec les sanctifiés.
+
+En conséquence, roi Agrippa, je n’ai point résisté à la vision céleste: à ceux de Damas d’abord, puis à Jérusalem, dans toute la Judée, et chez les païens, j’ai prêché la repentance et la conversion à Dieu, avec la pratique d’oeuvres dignes de la repentance”.
+
+Ensuite, Actes 23.11:
+
+> “La nuit suivante, le Seigneur apparut à Paul, et dit: Prends courage: car, de même que tu as rendu témoignage de moi dans Jérusalem, il faut aussi que tu rendes témoignage dans Rome”.
+
+Que Dieu puisse ajouter Ses bénédictions à la lecture de Sa Sainte Parole, pleine de grâce, que nous avons devant nous.
+
+Il n’y a pas longtemps, j’ai entendu un homme employer le mot absolu. Je pensai: «C’est un bien beau mot! Je l’ai souvent entendu». Absolument!…
+
+J’ai regardé dans le dictionnaire de Webster. Voici le sens qu’il en donne: «Parfait en soi-même; d’une puissance illimitée; plus spécialement: fondamental, final, définitif». Et, quelque chose de définitif, c’est “l’Amen”. L’absolu, c’est quelque chose ayant “une puissance illimitée”. C’est quelque chose de “parfait en soi-même”. Tout est là! Je pensai: «Quelle chose merveilleuse! quel mot magnifique!».
+
+Une parole est une pensée exprimée. Il faut premièrement qu’il y ait une pensée; ensuite, elle devient une parole, parce que vous ne pouvez pas prononcer vos paroles sans qu’il y ait une pensée derrière elles.
+
+Lorsque nous parlons en langues, nous n’avons pas de pensée propre; c’est Dieu qui prend nos pensées; c’est la Pensée de Dieu qui S’exprime par nos lèvres. Vous ne pensez pas, vous ne comprenez pas ce que vous dites quand vous parlez en langues, s’il s’agit d’un langage inspiré. Quand vous interprétez, vous ne savez pas ce que vous dites. Vous le dites simplement. Vous comprenez? Cela vient de Dieu. Lorsque vous prophétisez, vous n’utilisez pas vos propres pensées. Cela vient de Dieu, parce qu’alors, vous dites des choses qu’il ne vous viendrait pas normalement à l’esprit de dire. Vous comprenez?
+
+L’absolu est quelque chose de définitif. C’est pourquoi je pense que chacun devrait avoir un absolu. Il y a toujours eu un absolu derrière tout ce qui s’est fait de grand. Peu importe ce qui a été fait, mais il y a eu là derrière un absolu. Et quiconque veut accomplir quelque chose doit avoir premièrement un absolu. Et c’est cela qui vous conduit en toutes choses, jusqu’à “l’amen”, jusqu’à la fin. En d’autres termes, il vous faut quelque chose à quoi vous rattacher. C’est le point d’attache qui vous relie à toute réalisation… Il se trouve quelque part. Votre chemin peut passer par bien des détours avant d’y arriver. Mais il est “l’amen” final. Il doit y avoir une telle chose. Vous ne pouvez traverser l’existence sans ce point d’attache.
+
+Lorsque vous vous êtes marié, il a bien fallu que quelque chose se meuve en vous jusqu’à ce que vous ayez fini par vous attacher à ce crochet. Ce fut normalement l’amour que vous portiez à votre femme ou à votre mari. Peut-être qu’elle n’est pas aussi jolie que la femme de John. Peut-être qu’elle n’est pas ceci ou cela, mais il y a en elle quelque chose qui vous a frappé. Vous direz: «Elle n’est peut-être pas aussi jolie que l’autre, mais il y avait là un absolu qui la rendait différente des autres. Et c’est à cela que vous tenez. Et si ce point d’attache, cet absolu, n’est pas là, il est préférable pour vous de ne pas vous marier!
+
+Nous pouvons penser à de nombreuses personnes dans la Bible qui avaient un absolu. Nous pourrions rester sur ce sujet pendant deux semaines entières à chercher des absolus dans la Bible, et nous ne ferions qu’effleurer le sujet. Laissez-moi vous parler d’un exemple.
+
+Voyez Job. Lui avait un Absolu! Tout alla mal pour cet homme, un homme juste. Nous n’oserions pas dire qu’il n’était pas juste, parce que c’est Dieu Lui-même qui l’affirme. Il n’y avait sur la terre personne de semblable à Job. Il était parfait aux yeux de Dieu. Et il le savait, parce qu’il avait un Critère absolu — il avait un Absolu.
+
+Quand tout alla au plus mal, quand la maladie le frappa, ses amis lui dirent: “Voilà, Job, cela prouve bien que tu es un pécheur!”. Ensuite, les prêtres vinrent (ceux qui vinrent soi-disant pour consoler Job) et, au lieu de le consoler, ils ne virent rien d’autre que le péché dans sa vie, à cause de la manière dont Dieu l’avait traité.
+
+Ses enfants moururent. Tous ses biens furent consumés par le feu. Tout alla vraiment mal pour lui; sa vie même était menacée, lorsqu’il était assis sur la cendre, n’ayant plus qu’un tesson pour gratter les ulcères qui le couvraient des pieds à la tête. Et même sa femme, la mère de ses enfants, lui dit: “Maudis Dieu, et meurs!”. Mais, face à eux tous, Job avait un Absolu!
+
+Oh, si en période de maladie nous pouvions nous accrocher à cet Absolu! Job savait qu’il avait fait la volonté de Dieu, et il avait la foi en ce qu’il avait fait, parce que c’était Jéhovah qui l’avait demandé. Si seulement nous pouvions agir ainsi! Jéhovah demandait un holocauste pour les péchés. Et Job faisait des holocaustes non seulement pour lui, mais également pour sa famille, parce que Dieu le demandait.
+
+Vous direz: «Oh, si seulement Il ne demandait que cela, aujourd’hui!».
+
+Il demande moins que cela: Il vous demande d’avoir foi en Sa Parole. Et si vous faites de Sa Parole votre Absolu, alors vous pouvez accrocher votre âme à chaque Promesse Divine de la Bible. Peu importe combien les vagues vous secouent: vous êtes arrimé! C’est là votre Absolu.
+
+Il s’en tint fermement à Cela, et lors même que ses amis vinrent le “réconforter” en lui disant qu’il avait péché, lui savait qu’il n’en était rien. Il était juste, parce qu’il avait fait la volonté de Dieu. Et lorsqu’ils vinrent lui dire: “Tes enfants sont morts, tes chameaux, tous tes biens sont consumés par le feu du ciel…”.
+
+Voyez l’argument qu’employèrent ses amis: “Le feu est descendu du ciel. Tu vois, Job, cela prouve bien que…”.
+
+— “Cela ne prouve rien du tout!”.
+
+— “Il n’aurait pas frappé tes enfants — Job, tu n’es qu’un homme…”.
+
+Mais Job dit: “Je sais que j’ai fait ce qui est juste!”. Il maintint sa position. Il avait quelque chose sur quoi se fonder. C’était cela. Il l’avait accepté. Il avait fait exactement ce que Dieu lui avait dit de faire. Il en était absolument sûr!
+
+Alors, lorsqu’il arriva au point où se trouvait l’Absolu, il sentit la ligne se tendre et donner des secousses. Jusqu’alors, elle était restée détendue. Mais elle commença à se tendre, et l’Esprit vint sur lui. Alors, il se leva et se mit à prophétiser, disant: “Je sais que mon Rédempteur est vivant!”. Amen! Vous comprenez? Lorsque la ligne se tendit, il entra en contact avec son Absolu. Il savait que ce qu’il faisait était juste, et qu’un jour, il arriverait jusqu’à Lui. “Je sais que mon Rédempteur est vivant, et qu’Il se lèvera; quand je n’aurai plus de chair, je verrai Dieu!”. — Dès ce moment, il savait. Son Absolu l’avait arrimé.
+
+Abraham, lui aussi, avait un Absolu. Il descendit de Babylone, de la tour qui y avait été construite, dans le désert de Schinéar, et il séjourna là-bas avec son père. Il était peut-être un paysan. Mais un jour, alors qu’il était peut-être dans la forêt en train de cueillir des baies ou de chasser pour sa nourriture, Dieu lui parla. Il avait alors soixante-quinze ans.
+
+Sa femme, Sarah, en avait soixante-cinq. Ils n’avaient pas d’enfants. Mais Dieu lui dit: “Sarah t’enfantera un fils, mais pour cela, va-t-en d’ici!”.
+
+Il y a toujours une condition aux promesses de Dieu. Vous devez absolument… peu importe combien vous croyez à la promesse, elle est toujours soumise à des conditions. Nous pourrions nous arrêter ici et parcourir les Ecritures pendant des heures pour montrer que la condition est ce qu’il y a de plus important. Vous pouvez être aussi fondamental que possible: c’est la condition sous laquelle est faite la promesse qui compte — qu’il s’agisse de prédestination ou autre.
+
+Remarquez bien qu’Abraham eut foi en Dieu et que cela lui fut imputé à justice. Pensez à la chose horrible que ce serait, dans notre monde civilisé, que de rencontrer un homme de soixante-quinze ans et une femme âgée de soixante-cinq ans, ayant vécu ensemble depuis tout jeunes (en effet, Sarah était la demi-soeur d’Abraham), et qui auraient la perspective d’avoir un enfant. Mais lui avait un Absolu. Rien n’aurait pu l’ébranler.
+
+Et lorsque, le premier mois ayant passé, rien ne s’était produit, il garda son Absolu, parce qu’il savait que Dieu lui avait parlé. Le deuxième mois, la deuxième année, la dixième année, et jusqu’à la vingt-cinquième année, il garda son Absolu (il avait alors cent ans, et Sarah, quatre-vingt-dix.)
+
+Et, en guise de nécrologie, la Bible dit: “Abraham ne chancela pas lors de la promesse de Dieu, mais demeura ferme dans la foi, donnant gloire à Dieu”. Pourquoi cela? Y avez-vous songé? Il avait l’Absolu, et la seule chose qu’il dû faire était de se séparer de son peuple. Dieu ne lui accorda pas Sa bénédiction avant qu’il n’obéît à Son ordre. Il prit son père avec lui. Son père mourut. Il prit aussi Lot avec lui. Après que Lot se fût séparé d’Abraham, Dieu lui dit: “Parcours le pays!”. Avec Dieu et Sa Parole, il faut toujours l’obéissance; il y a toujours une condition à Ses promesses.
+
+Prenons maintenant le cas de Moïse. Moïse, le serviteur-prophète fugitif que Dieu avait élevé et instruit dans le palais de Pharaon… Avec toute son instruction théologique, la première fois qu’il sortit, il tua un homme. A la première difficulté, il eut mortellement peur. Pourquoi? — parce qu’il n’avait pas d’Absolu. Il n’avait que le témoignage de sa mère concernant sa naissance.
+
+C’était un enfant étrange. Il avait le témoignage de sa mère. Il avait des rouleaux (peut-être du papier sur lequel on avait écrit, et qu’ils avaient emporté avec eux), dans lesquels il était dit que Dieu viendrait visiter Ses enfants. Il savait que le temps était là (comme nous le savons, nous aussi, en ce qui nous concerne). Nous savons que quelque chose va arriver.
+
+Moïse savait que l’heure avait sonné, et il savait qu’il avait été choisi. Mais il n’avait pas encore d’Absolu. Vous voyez? Un jour, dans le désert, alors qu’il s’était perdu, Dieu lui apparut dans le Buisson Ardent, et dit “Moïse, J’ai vu l’affliction de Mon peuple. J’ai entendu leurs gémissements et leurs pleurs, lorsqu’ils sont courbés sous le fouet des surveillants qui les maltraitent. Et Je me suis souvenu de Ma promesse. Je suis venu pour les délivrer. Maintenant, va en Egypte!”. Oh, mon Dieu!
+
+Moïse se mit à gémir, disant: “Je ne sais pas m’exprimer, je parle mal. Ils ne voudraient pas me croire!”.
+
+Mais Dieu dit: “Que tiens-tu dans ta main?”.
+
+— “Un bâton”.
+
+— “Jette-le à terre” — et il devint un serpent! Dieu lui dit encore: “Prends-le par la queue!” — il redevint un bâton. Dieu lui donnait ainsi l’assurance, la confirmation. Quand Dieu donne l’Absolu, Il donne toujours une confirmation de cet Absolu.
+
+Aussi, quand Moïse fut devant Pharaon et qu’il jeta son bâton à terre devant les magiciens et Pharaon (les magiciens, eux aussi, jetèrent leur bâton), il n’eut pas à s’enfuir en disant: “Je me suis trompé. J’ai essayé de faire un tour de magie élémentaire. Peut-être que je me suis trompé”. Non! Il savait! Il savait qu’il avait rencontré Dieu. Aussi garda-t-il son calme. Il avait fait exactement ce que Dieu lui avait dit de faire. Job, lui aussi, avait fait exactement ce que Dieu lui avait dit de faire. Moïse avait suivi Ses commandements. Il demeura plein de confiance, et regarda la Gloire de Dieu Se manifester!
+
+Moïse était attaché à son Absolu, à sa mission, et il garda son calme. Et quand il fit cela, son serpent engloutit les autres serpents. Vous comprenez? Il était attaché à son Absolu! Dieu avait dit: “Quand tu délivreras les enfants d’Israël, ils viendront M’adorer sur cette montagne”.
+
+Mais voyez comment l’ennemi essaiera par tous les moyens de vous éloigner de cet Absolu! Aussitôt qu’ils furent sortis d’Egypte, ils se trouvèrent acculés au bord de la mer Rouge. Il y avait des montagnes de chaque côté. Ils avaient suivi une vallée qui arrivait au bord de la mer Rouge, et il n’y avait aucun moyen d’échapper, ni à gauche, ni à droite — et l’armée de Pharaon qui arrivait derrière eux! Ils étaient vraiment en mauvaise posture. Vous voyez comment le diable vous met dans des situations où vous ne savez plus quoi faire! Mais rappelez-vous que si vous êtes attaché à cet Absolu, vous ne risquez plus rien. Moïse savait que Dieu lui avait promis “qu’ils iraient L’adorer sur cette montagne quand lui, Moïse, les aurait fait sortir d’Egypte. Et qu’Il se tiendrait à ses côtés pour conduire ce peuple à la terre promise”. Il crut à cette promesse, et Dieu envoya un vent d’orient qui retira les eaux de la mer, et ils firent la traversée à pied sec. Ils avaient un Absolu!
+
+Nous pourrions continuer à parcourir les Ecritures. Il y eut aussi Daniel et son Absolu. Schadrac, Méschac et Abed-Nego avec leur Absolu. David aussi avait son Absolu. Tous avaient un Absolu!
+
+Paul aussi en avait un, lui dont nous avons lu un passage, tout à l’heure. Il avait une vocation centrée sur Christ, et cela, c’était son Absolu. C’est la raison pour laquelle il n’eut pas peur de ce que Agrippa allait lui dire. Il se tint devant lui (et nous savons qu’Agrippa était Juif). Mais lorsqu’il dut comparaître devant ces rois et autres grands personnages, Dieu l’avait déjà averti qu’il aurait à le faire. Il avait un Absolu, c’est pourquoi il raconta exactement sa vision céleste. Il dit: “Ce n’est pas déshonorant de faire cela. Je ne me suis pas mal conduit”. Mais il resta soumis jusque dans les moindres détails, car il avait un Absolu. Et cela, c’est l’Absolu de toute vie centrée sur Christ.
+
+Cette rencontre que fit Paul face à face avec Dieu sur le chemin de Damas eut une grande importance pour lui. Souvenez-vous qu’auparavant, il était un érudit. Il était un docteur connaissant à fond les Ecritures, mais n’avait pas d’autre Absolu que le Sanhédrin qui lui assurait son appui, et qui l’avait confirmé comme étant un grand docteur. Il était un grand homme dans son domaine, mais il n’était pas bien solide. Son Absolu était d’ailleurs aussi fort que l’organisation à laquelle il appartenait; il ne pouvait être plus fort. Il agissait fidèlement selon son Absolu, persécutant les Chrétiens et semant le trouble parmi eux. Il participa même à la mort d’Etienne, qui fut lapidé en sa présence.
+
+Je pense que c’est cette raison qui le poussa plus tard à aller à Jérusalem malgré l’avertissement du prophète qui lui avait dit: “N’y va pas, parce que tu iras en prison et tu seras enchaîné”.
+
+Mais Paul lui répondit: “Je le sais. Je ne vais pas simplement à Jérusalem pour témoigner, mais parce que je dois y aller; je suis prêt à mourir pour Christ”. Il avait compris ce qu’il avait fait, et son ambition était de sceller son témoignage dans son propre sang, mourant ainsi comme un martyr, parce qu’il avait tué un des martyrs de Dieu.
+
+Et maintenant, il était sur le chemin de Damas, revêtu de toute son autorité. (Il avait été instruit par Gamaliel dans toute la religion des Juifs.) Malgré cela, il manquait d’assurance, et ne pouvait pas faire certaines choses. Tout à coup, il y eut une grande lumière et un bruit de tonnerre, et il tomba sur le sol. Quand il se releva, il y avait là une Lumière qui brillait tellement qu’il en fut aveuglé. Quelle chose étrange! Personne d’autre que lui ne vit la Lumière. Elle fut tellement réelle pour lui qu’Elle l’aveugla: Il ne vit plus rien, étant devenu totalement aveugle pendant que la Colonne de Feu flamboyait devant lui. Il entendit une Voix lui dire: “Saul, Saul, pourquoi me persécutes-tu?”.
+
+Paul répondit: “Seigneur, qui es-tu?”.
+
+Il reprit: “Je suis Jésus que tu persécutes. Il te serait dur de regimber contre les aiguillons”. “… lève-toi, entre dans la ville et on te dira ce que tu dois faire!”.
+
+Ananias, un homme, un prophète, eut une vision pendant qu’il priait, et vint chercher Saul après qu’il se fût relevé et qu’il fût entré dans la ville. Ce prophète, Ananias, imposa les mains à Saul, et le guérit par la guérison Divine.
+
+Alors, il se releva, fut baptisé, lavé de ses péchés au Nom du Seigneur. Alors, il eut un Absolu. Il ne fut plus jamais le même après cela. Il alla d’église en église, de lieu en lieu, essayant de construire ce qu’il avait essayé de détruire auparavant.
+
+Combien de pays, combien le monde chrétien ont aujourd’hui besoin de cet Absolu! Ceux qui fabriquent les credo ont essayé, au moyen de doctrines d’hommes, de discréditer la Parole de Dieu et de faire croire qu’Elle n’est pas la même hier, aujourd’hui et éternellement. Ils ont besoin d’un Absolu, de faire une expérience semblable à celle que fit Paul sur le chemin de Damas. Ils ont besoin de rencontrer le Dieu Vivant qui peut guérir les malades, ressusciter les morts et chasser les démons — ils ont besoin d’un véritable Absolu.
+
+Paul savait que quelque chose lui était arrivé, quelque chose que personne ne pouvait lui enlever. Plus rien d’autre ne comptait. Il était lié — un point, c’est tout! Peu importait ce qui pouvait arriver, il savait qu’il était lié, que sa vie était liée à Christ. Oh, la vie qu’il mena à partir de ce jour fut bien différente de sa vie d’avant sa conversion!
+
+Rappelez-vous qu’il avait toujours été un homme religieux. Et ceci s’adresse à vous tous (je sais que vous comprenez bien que cette prédication est enregistrée et que les bandes seront écoutées dans le monde entier). Quelques-uns sont présents ici, ce matin. D’autres entendront cela dans d’autres nations, au moyen d’un interprète (ce message sera donné aux différentes tribus d’Afrique, aux Hottentots, etc.) Vous l’entendrez aussi, vous, les chefs religieux qui avez reçu un enseignement biblique (vous avez appris toutes les données historiques et êtes capables d’expliquer ces choses). Mais, si vous n’avez pas un Absolu, si vous n’en avez pas fait vous-même l’expérience (ou si l’expérience que vous avez faite ne vous fait pas approuver chacune des paroles de ce message comme étant parfaitement juste pour l’église d’aujourd’hui, comme pour celle d’autrefois); si vous mettez votre confiance dans ce que pense votre dénomination (qui dit: «Le temps des miracles est passé; il n’y a pas de guérison divine; le baptême du Saint-Esprit, tel qu’il fut donné le jour de Pentecôte, n’est pas pour aujourd’hui»); si c’est tout ce que vous avez, cher frère, chère soeur, alors vous avez besoin d’une expérience semblable à celle du chemin de Damas!
+
+Vous avez besoin de rencontrer le Dieu Vivant — il ne s’agit pas simplement de recevoir une pensée mystique dans votre esprit, d’éprouver une sensation quelconque, mais de passer par l’expérience d’une véritable… Ce même Jésus qui parcourut la Galilée est vivant parmi nous aujourd’hui et vit éternellement. Il est le Même hier, aujourd’hui et éternellement — c’est un Absolu; vous n’avez pas besoin de le recevoir de quelqu’un d’autre, mais c’est quelque chose que vous devez recevoir vous-même. Ce n’est pas quelque sensation.
+
+S’il s’agit d’une sensation (cela peut avoir été une sensation réelle, biblique), et que quelqu’un essaie de vous convaincre que cela, c’était bon pour autrefois, faites bien attention! Il y a un bon moyen de savoir à quoi vous en tenir: c’est d’éprouver par la Parole! C’est cela, le critère!
+
+Si la maison n’est pas conforme aux plans, le propriétaire la démolira et la reconstruira selon les plans. Elle doit être conforme aux plans.
+
+Peu importent les expériences par lesquelles vous avez passé. Si quelque chose en vous vous dit que la Bible n’est pas vraie, que la puissance de Dieu, les apôtres, prophètes, prédicateurs, pasteurs, que les dons du Saint-Esprit et tout cela ne sont plus exactement aussi valables qu’au jour de Pentecôte, où l’Esprit descendit sur les apôtres, alors, il y a quelque chose de faux dans votre absolu! Il est attaché à une dénomination, plutôt qu’à la Bible de Dieu, car il est dit: “Les cieux et la terre passeront, mais ma Parole ne passera point!”.
 
 L’ABSOLU 11
    Prenez garde à ce qu’est votre Absolu. Vous pouvez être parfaitement sûr de votre bonne
@@ -696,7 +471,7 @@ retranchant rien à la Parole), alors nous pourrons voir dans notre vie les mêm
 ceux qu’obtinrent tous ceux qui restèrent ancrés dans cette Parole, alors c’est que notre ancre
 tient solidement. La Vie de Christ s’incarnant en vous presque comme elle le fut en Christ, parce
 que c’était Dieu en Christ réconciliant le monde avec Lui-même… et vous voyez Dieu en vous
-gardant le même cap de la Parole, exactement dans la même voie que suivit Jésus, et vous
+Gardant le même cap de la Parole, exactement dans la même voie que suivit Jésus, et vous
 voyez Sa Vie…
    “Vous ferez aussi les oeuvres que Je fais. Celui qui croit en Moi (non pas celui qui prétend
 croire, ou qui pense croire, mais celui qui croit) — celui qui croit en Moi fera aussi les oeuvres
@@ -1056,8 +831,8 @@ en large, mais je crois que cela nous atteint maintenant. Ecoutez-Le! Oui! Le vo
 C’est vrai!
    C’est la lumière rouge qui s’allume, comme je l’ai déjà dit, et cela décide de tout. La lumière
 rouge vous dit qui doit passer. Peu importe ce que pensent les gens, c’est la lumière rouge qui
-décide. Il y aura un embouteillage si vous ne vous souciez pas de la lumière rouge! Il faut qu’il y ait
-un absolu. Oui!
+décide. Il y aura un embouteillage si vous ne vous souciez pas de la lumière rouge! Il faut qu’il y
+Ait un absolu. Oui!
    L’Eglise, elle aussi, doit avoir un Absolu. Vous devez avoir votre absolu pour les membres de
 l’église. Mais aujourd’hui, chaque église a son propre absolu. Vous voyez? Elles n’essaient pas de
 prendre…
@@ -1107,7 +882,7 @@ face…”. Il s’agit de Malachie 3, et non pas de Malachie 4. Si cela avait �
 
         http://www.cmpp.ch
 
-    L’ABSOLU            21
+L’ABSOLU            21
 terre entière serait consumée par le feu et les justes marcheraient sur les cendres des
 méchants. Ne confondez pas, chers frères! Faites dire à la Parole exactement ce qu’elle dit!
 Parfaitement! Il a promis cela pour les derniers jours, et cela arrivera!
@@ -1761,9 +1536,6 @@ aussi pour vous?
       Parce qu’Il m’aima le premier,
       Et acquit mon salut
       Sur le Bois du Calvaire.
-
-
-
 
 
 

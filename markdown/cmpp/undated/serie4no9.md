@@ -1,625 +1,283 @@
-    SERIE 4 N° 9
+---
+source: "cmpp"
+sermon_id: "serie4no9"
+title: "Citernes crevassées"
+subtitle: "26 juillet 1964, soir"
+date: "1964-07-26"
+year: 1964
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur Jérémie 2.12-13, comparant les systèmes religieux dénominationnels à des citernes crevassées qui ne retiennent pas l'eau vive de Dieu. Il exhorte les croyants à revenir à la source de la Parole et à fuir les systèmes humains qui mènent à l'apostasie et à la marque de la bête."
+tags:
+  - "citernes crevassées"
+  - "dénominations"
+  - "apostasie"
+  - "eau vive"
+  - "Saint-Esprit"
+  - "marque de la bête"
+  - "réveil"
+persons:
+  - "William Marrion Branham"
+  - "Jérémie"
+  - "Moïse"
+  - "Jean-Baptiste"
+  - "Hérode"
+  - "Lee Vayle"
+  - "Mike Egan"
+  - "Roy Roberson"
+  - "Wood"
+  - "Ruddel"
+  - "Willard Crase"
+  - "John"
+  - "Blair"
+  - "Jackson"
+  - "Ruddell"
+  - "Briant"
+  - "Ben"
+  - "Madame Wilson"
+  - "Roosevelt"
+  - "Mussolini"
+  - "Hitler"
+  - "Luther"
+  - "Wesley"
+  - "Smith"
+  - "Calvin"
+places:
+  - "Branham Tabernacle"
+  - "Jeffersonville"
+  - "Indiana"
+  - "États-Unis"
+  - "Arizona"
+  - "Colombie britannique"
+  - "Colorado"
+  - "Californie"
+  - "Arkansas"
+  - "Popular Bluff"
+  - "Rome"
+  - "Éthiopie"
+  - "Pays de Galles"
+themes:
+  - "abandon de Dieu"
+  - "systèmes humains"
+  - "pureté de la Parole"
+  - "Saint-Esprit"
+  - "apostasie"
+  - "marque de la bête"
+  - "réveil"
+  - "fontaine d'eau vive"
+  - "citernes crevassées"
+pdf_url: "http://cmpp.ch/serie4no9.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Esther 13"
+  - "Jean 14"
+  - "Jean 3"
+  - "Jean 7"
+  - "Jérémie 2"
+  - "Psaumes 36"
+  - "Ésaïe 40"
+---
+SERIE 4 N° 9
 
+LA PAROLE PARLEE
 
+PAR
 
-    LA PAROLE PARLEE
-
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
-
+WILLIAM MARRION BRANHAM
 
 CITERNES CREVASSEES
  (Broken cisterns)
 
-
-
-
-     26 juillet 1964, soir
-       Branham Tabernacle
+26 juillet 1964, soir
+ Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
-
-
-
-
-
-
-
-    «LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
-
-    CITERNES CREVASSEES    2
+«LA PAROLE PARLEE EST LA SEMENCE ORIGINALE»
 
 CITERNES CREVASSEES
  (Broken cisterns)
 
-
-
-     26 juillet 1964, soir
-       Branham Tabernacle
+26 juillet 1964, soir
+ Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
+1 Prions. Seigneur, maintenant nous croyons. Nous croyons dans le Fils de Dieu et c’est au travers de Lui que nous acceptons la Vie Eternelle. Nous nous sommes de nouveau réunis cet après-midi (ou plutôt ce soir) pour un autre service, et nous avons confiance en Toi pour ce message et en ce que Tu nous diras ce soir. Nous croyons en Toi, Seigneur, et nous nous attendons à Toi. Tu as dit: “Ceux qui s’attendent à l’Eternel renouvelleront leurs forces, ils s’élèveront avec des ailes comme des aigles” (Ésaïe 40.31). Et, tandis que nous nous attendons à Toi, nous Te prions, ô Dieu, de nous donner cette puissance de nous élever.
 
+2 Nous Te remercions pour ces gens et pour ce qu’ils signifient pour moi. Je Te remercie pour cela, Père. Ils sont Tes joyaux. Et ce soir, ô Dieu, je Te prie de Te manifester à eux de la manière dont ils ont besoin. S’il y a des malades ici, puissent-ils être guéris. S’il y a un doute dans l’esprit de quelqu’un, chasse-le, Seigneur, et donne-nous simplement Ta présence et Tes bénédictions, car nous en avons besoin, Seigneur, Tu es tout ce dont nous avons besoin et sans Toi nous ne pouvons rien faire.
 
+3 Nous Te prions de recevoir nos remerciements pour tout ce que Tu as fait. C’est dans le Nom de Jésus-Christ que nous recherchons Tes bénédictions. Amen. (Vous pouvez vous asseoir.)
 
-1 Prions. Seigneur, maintenant nous croyons. Nous croyons dans le Fils de Dieu et
-c’est au travers de Lui que nous acceptons la Vie Eternelle. Nous nous sommes de
-nouveau réunis cet après-midi (ou plutôt ce soir) pour un autre service, et nous avons
-confiance en Toi pour ce message et en ce que Tu nous diras ce soir. Nous croyons en
-Toi, Seigneur, et nous nous attendons à Toi. Tu as dit: “Ceux qui s’attendent à l’Eternel
-renouvelleront leurs forces, ils s’élèveront avec des ailes comme des aigles” (Ésaïe 40.31).
-Et, tandis que nous nous attendons à Toi, nous Te prions, ô Dieu, de nous donner cette
-puissance de nous élever.
-2 Nous Te remercions pour ces gens et pour ce qu’ils signifient pour moi. Je Te
-remercie pour cela, Père. Ils sont Tes joyaux. Et ce soir, ô Dieu, je Te prie de Te
-manifester à eux de la manière dont ils ont besoin. S’il y a des malades ici, puissent-ils
-être guéris. S’il y a un doute dans l’esprit de quelqu’un, chasse-le, Seigneur, et
-donne-nous simplement Ta présence et Tes bénédictions, car nous en avons besoin,
-Seigneur, Tu es tout ce dont nous avons besoin et sans Toi nous ne pouvons rien faire.
-3 Nous Te prions de recevoir nos remerciements pour tout ce que Tu as fait. C’est dans
-le Nom de Jésus-Christ que nous recherchons Tes bénédictions. Amen. (Vous pouvez
-vous asseoir.)
-4 Eh bien, ce dimanche soir, il fait un peu plus frais que dimanche passé. Nous sommes
-donc très reconnaissants à nos frères qui ont travaillé aussi fidèlement pour réussir cela.
-J’en connais deux ou trois: frère Mike Egan que je vois là derrière, frère Mike et frère
-Sothmann; je crois qu’il y a aussi frère Roy Roberson et frère Wood et tous ceux qui
-transpiraient là-dessous, essayant de faire tout leur possible pour que nous ayons ce
-message aujourd’hui. Nous en sommes donc très reconnaissants.
-5 Maintenant, si le Seigneur le veut, dimanche prochain le matin, j’aimerais avoir un
-service de guérison et prier pour les malades. Si le Seigneur le veut, nous réserverons ce
-dimanche-là pour un service de guérison.
-6 J’ai remarqué ce matin qu’il y avait tout un tas de mouchoirs ici. Tandis que vous
-priiez et chantiez, j’ai prié sur les mouchoirs et ce soir il y en a encore plus ici. Nous
-croyons donc que Dieu guérit les malades, il y a tellement de grands témoignages de
-guérisons parmi nous et partout dans le monde. Et nous sommes reconnaissants pour
-cela.
-7 Et comme je dois m’en aller pour quelque temps et que jusqu’à présent nous nous
-sommes surtout occupés de l’enseignement et du Message, j’ai pensé que ce serait une
-bonne chose si, dimanche prochain, nous avions un service de guérison et que nous
-priions pour les malades. Et nous avons confiance que le Seigneur nous donnera de
-glorieux moments.
+4 Eh bien, ce dimanche soir, il fait un peu plus frais que dimanche passé. Nous sommes donc très reconnaissants à nos frères qui ont travaillé aussi fidèlement pour réussir cela. J’en connais deux ou trois: frère Mike Egan que je vois là derrière, frère Mike et frère Sothmann; je crois qu’il y a aussi frère Roy Roberson et frère Wood et tous ceux qui transpiraient là-dessous, essayant de faire tout leur possible pour que nous ayons ce message aujourd’hui. Nous en sommes donc très reconnaissants.
 
-        http://www.cmpp.ch
+5 Maintenant, si le Seigneur le veut, dimanche prochain le matin, j’aimerais avoir un service de guérison et prier pour les malades. Si le Seigneur le veut, nous réserverons ce dimanche-là pour un service de guérison.
 
-CITERNES CREVASSEES 3
-8 Maintenant, ce soir, beaucoup d’entre vous devront conduire longtemps. Aujourd’hui,
-tandis que je prenais mon repas à la cafétéria du Blue Boar, je discutais avec des groupes
-de gens, il y a parmi eux beaucoup de gens très bien. Je suis allé leur serrer la main et
-discuter avec eux; ce sont des personnes que je n’avais jamais rencontrées avant qu’elles
-ne viennent à l’église. Et je suis reconnaissant d’avoir de tels amis, et je veux remercier
-chacun de vous. Certains d’entre vous ont recueilli des mûres et nous les ont apportées.
-Et l’un de vous nous avez apporté un bidon de sirop, je crois que c’était de la mélasse, et
-des choses ainsi. Vous ne savez pas ce que cela représente pour moi. Et un matin, alors
-que je m’étais levé pour sortir de la maison…
-9 Il y avait un frère l’autre matin qui était vraiment mal en point; il n’avait pas d’habits ni
-rien et il voulait que je lui procure quelques habits. Je sortis et faillis trébucher sur un
-panier de mûres qui se trouvait là. Je dis: «Est-ce vous qui avez apporté ces mûres?».
-10 Et il dit: «Non, je n’ai rien à voir avec cela. Je suis venu ici avant l’aube et elles y
-étaient déjà». Et c’était mon bon frère Ruddel qui me les avait apportées. Ce sont des
-choses que j’apprécie tellement.
-11 Billy Paul vient juste de me dire il y a quelques instants que ce soir ils ont recueilli une
-offrande pour moi dans l’assemblée. Je vous en remercie. Je ne voulais pas que vous
-fassiez cela. J’apprécie réellement vos efforts et tout le reste mais ce n’était pas
-nécessaire. Mais que le Seigneur vous bénisse. Vous savez que la Bible dit: “Tout ce que
-vous avez fait à l’un de ces petits, c’est à moi que vous l’avez fait”.
-12 Maintenant, j’aimerais vous parler directement du Message. Certains peuvent avoir
-l’impression que je pense que Jésus va venir ce matin ou ce soir. C’est ce que je fais! Je
-ne dis pas qu’Il va le faire. Et je vous répète qu’il se peut qu’Il vienne la semaine
-prochaine, il se peut que ce soit l’année prochaine. Il se peut que cela soit dans dix ans.
-Je ne sais pas quand Il viendra, mais il y a quelque chose que je veux que vous
-gardiez toujours à l’esprit: vous devez être prêts à chaque heure et à chaque
-minute. Vous voyez? Car s’Il ne vient pas aujourd’hui, il se peut qu’Il soit là demain.
-Gardez donc cela à l’esprit: Il vient.
-13 Je ne sais pas à quel moment viendra ma dernière heure sur cette terre, personne
-parmi nous ne le sait. Et personne parmi nous ne sait quand Il viendra. D’après Ses
-propres paroles, Il ne le sait pas Lui-même. Il dit que seul le Père sait quand Il viendra;
-même le Fils ne sait pas quand Il viendra. Ce sera lorsque Dieu L’enverra de nouveau
-vers nous. Mais nous attendons Sa venue. Et s’Il ne vient pas pendant ma génération, Il
-peut venir pendant la suivante. S’Il ne vient pas pendant celle-ci, Il viendra pendant la
-suivante. Mais pour ma part, je vois qu’il reste très peu de temps. D’après moi, cela
-pourrait arriver à n’importe quelle minute. Maintenant, cela ne signifie pas que vous verrez
-le ciel se changer et toutes ces choses. Ce n’est pas de la venue du Seigneur que je
-parle. Je parle de l’enlèvement.
-14 Vous voyez, il y a trois venues. Il vient en trois noms. Il vient dans une trinité: Père,
-Fils et Saint-Esprit. Et à chaque fois il s’agit du même Christ, du même Dieu.
-15 Maintenant, nous savons qu’Il vient pour manifester trois oeuvres de grâce:
-justification, sanctification, baptême du Saint-Esprit. Toutes les choses de Dieu sont
-rendues parfaites en trois. Il vint donc premièrement pour racheter Son Epouse, Il vient
-deuxièmement dans l’enlèvement pour prendre Son Epouse, Il vient troisièmement
-avec Son Epouse. Ce sera le Roi et la Reine. C’est pour ce moment-là que beaucoup de
-gens attendent Sa venue. Mais lorsqu’Il viendra cette fois, seuls ceux qui seront prêts
-sauront quand Il vient. Il y aura tout simplement des gens qui seront absents. Les autres
-ne sauront pas ce qui leur est arrivé. Ils auront tout simplement été enlevés en un instant.
-Ils seront tout simplement absents, changés. En un moment, en un clin d’oeil ils ne seront
-plus là. Soyez donc prêts pour cela. Il serait horrible de découvrir un matin l’absence d’un
+6 J’ai remarqué ce matin qu’il y avait tout un tas de mouchoirs ici. Tandis que vous priiez et chantiez, j’ai prié sur les mouchoirs et ce soir il y en a encore plus ici. Nous croyons donc que Dieu guérit les malades, il y a tellement de grands témoignages de guérisons parmi nous et partout dans le monde. Et nous sommes reconnaissants pour cela.
 
-        http://www.cmpp.ch
+7 Et comme je dois m’en aller pour quelque temps et que jusqu’à présent nous nous sommes surtout occupés de l’enseignement et du Message, j’ai pensé que ce serait une bonne chose si, dimanche prochain, nous avions un service de guérison et que nous priions pour les malades. Et nous avons confiance que le Seigneur nous donnera de glorieux moments.
 
-    CITERNES CREVASSEES                      4
-bien-aimé que personne ne peut retrouver. Ne serait-ce pas trop dommage de découvrir
-que cela est arrivé et que vous l’avez manqué? Ainsi restez simplement près de Dieu.
-16 Lundi, Dieu voulant, je ramènerai ma famille en Arizona où ils vont à l’école, puis je
-reviendrai.
-17 Je n’aurai pas de services là-bas. Je vais très rarement en Arizona; je vais souvent
-ailleurs. Lundi, je ramènerai ma femme là-bas, puis je reviendrai ici. Et depuis ici, je
-partirai pour la Colombie britannique. Puis je retournerai dans le Colorado. Je serai de
-nouveau en Arizona quelque temps avant Noël, j’y resterai juste deux ou trois jours pour
-que la famille soit ensemble, puis, si le Seigneur le permet, je serai de nouveau ici
-pendant les fêtes de Noël afin d’avoir des réunions pendant la semaine de Nouvel An.
-18 Vous voyez donc que je suis ici dix fois plus qu’ailleurs car nous n’avons pas d’église
-ni de réunions en dehors d’ici; pour ce qui est des réunions d’église, nous n’avons rien en
-dehors d’ici. C’est là l’inconvénient: je n’ai nulle part où envoyer les enfants pour qu’ils
-entendent le Message comme le font vos enfants en venant ici. Et c’est l’un des
-inconvénients que nous avons. Mais d’autre part ils sont tous en meilleure santé. C’est un
-climat chaud et très sec mais tous les enfants semblent en meilleure santé. Je ne suis pas
-là-bas assez longtemps pour savoir si le climat est sain ou pas. Je suis toujours en route
-et je crois que je suis né pour être un errant.
-19 Ma femme m’appelle un coup de vent (je sais qu’elle est ici, je vais entendre parler de
-cela après le service!). En d’autres termes, je suis constamment en mouvement. Cela fait
-vingt-deux ans que je suis marié, et j’ai parfois l’impression d’être un étranger à la maison
-car je dois toujours partir. Mais j’attends le moment où nous serons installés à la maison.
-Mais pour le moment, la bataille se poursuit, donc restons en prière.
-20 N’oubliez pas dimanche prochain, si le Seigneur le permet, d’amener vos malades et
-les affligés. Venez tôt, prenez place, il y aura sûrement ensuite un groupe pour lequel on
-priera. Nous devrons distribuer des cartes de prière. S’il n’y en a pas assez, nous ne
-distribuerons pas de cartes de prière, nous en donnerons juste assez pour former une
-petite ligne de deux ou trois douzaines de personnes ou quelque chose ainsi. Mais nous
-distribuerons probablement des cartes de prière. Nous le ferons donc sûrement une heure
-avant le service régulier qui aura lieu, je pense… Vers huit heures ou huit heures trente, ils
-distribueront les cartes de prière; dimanche prochain, ils ouvriront l’église puis ils
-donneront les cartes de prière. Prenez donc soin d’amener vos bien-aimés. Amenez-les
-ici. Il fera bon et frais dans l’église (je dis cela pour les malades), et nous ferons tout notre
-possible pour prier pour eux.
+8 Maintenant, ce soir, beaucoup d’entre vous devront conduire longtemps. Aujourd’hui, tandis que je prenais mon repas à la cafétéria du Blue Boar, je discutais avec des groupes de gens, il y a parmi eux beaucoup de gens très bien. Je suis allé leur serrer la main et discuter avec eux; ce sont des personnes que je n’avais jamais rencontrées avant qu’elles ne viennent à l’église. Et je suis reconnaissant d’avoir de tels amis, et je veux remercier chacun de vous. Certains d’entre vous ont recueilli des mûres et nous les ont apportées. Et l’un de vous nous avez apporté un bidon de sirop, je crois que c’était de la mélasse, et des choses ainsi. Vous ne savez pas ce que cela représente pour moi. Et un matin, alors que je m’étais levé pour sortir de la maison…
+
+9 Il y avait un frère l’autre matin qui était vraiment mal en point; il n’avait pas d’habits ni rien et il voulait que je lui procure quelques habits. Je sortis et faillis trébucher sur un panier de mûres qui se trouvait là. Je dis: «Est-ce vous qui avez apporté ces mûres?».
+
+10 Et il dit: «Non, je n’ai rien à voir avec cela. Je suis venu ici avant l’aube et elles y étaient déjà». Et c’était mon bon frère Ruddel qui me les avait apportées. Ce sont des choses que j’apprécie tellement.
+
+11 Billy Paul vient juste de me dire il y a quelques instants que ce soir ils ont recueilli une offrande pour moi dans l’assemblée. Je vous en remercie. Je ne voulais pas que vous fassiez cela. J’apprécie réellement vos efforts et tout le reste mais ce n’était pas nécessaire. Mais que le Seigneur vous bénisse. Vous savez que la Bible dit: “Tout ce que vous avez fait à l’un de ces petits, c’est à moi que vous l’avez fait”.
+
+12 Maintenant, j’aimerais vous parler directement du Message. Certains peuvent avoir l’impression que je pense que Jésus va venir ce matin ou ce soir. C’est ce que je fais! Je ne dis pas qu’Il va le faire. Et je vous répète qu’il se peut qu’Il vienne la semaine prochaine, il se peut que ce soit l’année prochaine. Il se peut que cela soit dans dix ans. Je ne sais pas quand Il viendra, mais il y a quelque chose que je veux que vous gardiez toujours à l’esprit: vous devez être prêts à chaque heure et à chaque minute. Vous voyez? Car s’Il ne vient pas aujourd’hui, il se peut qu’Il soit là demain. Gardez donc cela à l’esprit: Il vient.
+
+13 Je ne sais pas à quel moment viendra ma dernière heure sur cette terre, personne parmi nous ne le sait. Et personne parmi nous ne sait quand Il viendra. D’après Ses propres paroles, Il ne le sait pas Lui-même. Il dit que seul le Père sait quand Il viendra; même le Fils ne sait pas quand Il viendra. Ce sera lorsque Dieu L’enverra de nouveau vers nous. Mais nous attendons Sa venue. Et s’Il ne vient pas pendant ma génération, Il peut venir pendant la suivante. S’Il ne vient pas pendant celle-ci, Il viendra pendant la suivante. Mais pour ma part, je vois qu’il reste très peu de temps. D’après moi, cela pourrait arriver à n’importe quelle minute. Maintenant, cela ne signifie pas que vous verrez le ciel se changer et toutes ces choses. Ce n’est pas de la venue du Seigneur que je parle. Je parle de l’enlèvement.
+
+14 Vous voyez, il y a trois venues. Il vient en trois noms. Il vient dans une trinité: Père, Fils et Saint-Esprit. Et à chaque fois il s’agit du même Christ, du même Dieu.
+
+15 Maintenant, nous savons qu’Il vient pour manifester trois oeuvres de grâce: justification, sanctification, baptême du Saint-Esprit. Toutes les choses de Dieu sont rendues parfaites en trois. Il vint donc premièrement pour racheter Son Epouse, Il vient deuxièmement dans l’enlèvement pour prendre Son Epouse, Il vient troisièmement avec Son Epouse. Ce sera le Roi et la Reine. C’est pour ce moment-là que beaucoup de gens attendent Sa venue. Mais lorsqu’Il viendra cette fois, seuls ceux qui seront prêts sauront quand Il vient. Il y aura tout simplement des gens qui seront absents. Les autres ne sauront pas ce qui leur est arrivé. Ils auront tout simplement été enlevés en un instant. Ils seront tout simplement absents, changés. En un moment, en un clin d’oeil ils ne seront plus là. Soyez donc prêts pour cela. Il serait horrible de découvrir un matin l’absence d’un bien-aimé que personne ne peut retrouver. Ne serait-ce pas trop dommage de découvrir que cela est arrivé et que vous l’avez manqué? Ainsi restez simplement près de Dieu.
+
+16 Lundi, Dieu voulant, je ramènerai ma famille en Arizona où ils vont à l’école, puis je reviendrai.
+
+17 Je n’aurai pas de services là-bas. Je vais très rarement en Arizona; je vais souvent ailleurs. Lundi, je ramènerai ma femme là-bas, puis je reviendrai ici. Et depuis ici, je partirai pour la Colombie britannique. Puis je retournerai dans le Colorado. Je serai de nouveau en Arizona quelque temps avant Noël, j’y resterai juste deux ou trois jours pour que la famille soit ensemble, puis, si le Seigneur le permet, je serai de nouveau ici pendant les fêtes de Noël afin d’avoir des réunions pendant la semaine de Nouvel An.
+
+18 Vous voyez donc que je suis ici dix fois plus qu’ailleurs car nous n’avons pas d’église ni de réunions en dehors d’ici; pour ce qui est des réunions d’église, nous n’avons rien en dehors d’ici. C’est là l’inconvénient: je n’ai nulle part où envoyer les enfants pour qu’ils entendent le Message comme le font vos enfants en venant ici. Et c’est l’un des inconvénients que nous avons. Mais d’autre part ils sont tous en meilleure santé. C’est un climat chaud et très sec mais tous les enfants semblent en meilleure santé. Je ne suis pas là-bas assez longtemps pour savoir si le climat est sain ou pas. Je suis toujours en route et je crois que je suis né pour être un errant.
+
+19 Ma femme m’appelle un coup de vent (je sais qu’elle est ici, je vais entendre parler de cela après le service!). En d’autres termes, je suis constamment en mouvement. Cela fait vingt-deux ans que je suis marié, et j’ai parfois l’impression d’être un étranger à la maison car je dois toujours partir. Mais j’attends le moment où nous serons installés à la maison. Mais pour le moment, la bataille se poursuit, donc restons en prière.
+
+20 N’oubliez pas dimanche prochain, si le Seigneur le permet, d’amener vos malades et les affligés. Venez tôt, prenez place, il y aura sûrement ensuite un groupe pour lequel on priera. Nous devrons distribuer des cartes de prière. S’il n’y en a pas assez, nous ne distribuerons pas de cartes de prière, nous en donnerons juste assez pour former une petite ligne de deux ou trois douzaines de personnes ou quelque chose ainsi. Mais nous distribuerons probablement des cartes de prière. Nous le ferons donc sûrement une heure avant le service régulier qui aura lieu, je pense… Vers huit heures ou huit heures trente, ils distribueront les cartes de prière; dimanche prochain, ils ouvriront l’église puis ils donneront les cartes de prière. Prenez donc soin d’amener vos bien-aimés. Amenez-les ici. Il fera bon et frais dans l’église (je dis cela pour les malades), et nous ferons tout notre possible pour prier pour eux.
+
 21 Je vous remercie de nouveau pour votre offrande.
-22 Et maintenant, ce soir, nous allons lire quelques mots de la Parole de Dieu;
-préparez-vous à être de nouveau en Sa Présence et à ce qu’Il nous apporte Sa Parole.
-Maintenant, nous savons que nous pouvons lire un texte, mais Dieu doit nous en révéler
-le contexte, vous voyez? Nous pouvons prendre un texte, mais Dieu doit nous en révéler
-le contexte.
-23 Et pendant que vous cherchez le livre de Jérémie, au deuxième chapitre, j’aimerais
-vous dire que je suis heureux d’avoir frère Lee Vayle parmi nous, c’est un précieux frère
-dans le Seigneur; et je pense aussi à ce frère ici (je ne me souviens plus de son nom), je
-crois que c’est frère Willard Crase. Et je vois des frères qui viennent de l’Arkansas, comme
-frère John et tous ceux qui viennent des environs de Popular Bluff; il y a aussi frère Blair.
-Et, oh, il y a aussi frère Jackson et frère Ruddell; il y en a tellement d’autres que je ne
-peux… J’aimerais pouvoir appeler chacun par son nom, mais je ne peux vraiment pas le
-faire et vous le comprenez. J’ai vu que frère Briant était assis ici. Il est celui qui
-habituellement souligne dans son coin ce que je dis par son «Amen». Ben est connu de
-chacun à cause de sa voix.
 
-                           http://www.cmpp.ch
+22 Et maintenant, ce soir, nous allons lire quelques mots de la Parole de Dieu; préparez-vous à être de nouveau en Sa Présence et à ce qu’Il nous apporte Sa Parole. Maintenant, nous savons que nous pouvons lire un texte, mais Dieu doit nous en révéler le contexte, vous voyez? Nous pouvons prendre un texte, mais Dieu doit nous en révéler le contexte.
 
-CITERNES CREVASSEES 5
-24 Une fois, alors que je me trouvais en Californie, j’ai prêché un message pour les
-Baptistes qui étaient dans la vallée. Ils avaient une grande tente là-bas et il y avait un bon
-nombre de Baptistes, des aristocrates. Je n’entendais jamais un amen! de nulle part, vous
-savez. Certaines femmes avaient sûrement peur d’abîmer la peinture de leur visage. Et la
-première chose que je vis, vous savez, fut une paire de pieds qui sautèrent ainsi en l’air,
-puis deux grosses mains et une tête noire qui cria: «amen!» en hurlant ainsi. Je regardai
-en bas et dis: «Ben, d’où es-tu sorti?». C’était vraiment lui qui avait dit «amen».
-25 Je vois que sa femme l’observe un peu. Eh bien, il est en train de perdre cette
-chevelure noire, mais c’est très bien. Ne te fais pas de souci à cause de cela; il y a
-longtemps que j’ai perdu les miens.
-26 Ainsi donc, n’oubliez pas de prier. Maintenant, tandis que nous en arrivons à la vraie
-partie du service, souvenez-vous que si nous, nous lisons Sa Parole, c’est Dieu qui La
-bénit. Elle ne retournera pas à Lui à vide mais Elle accomplira tout ce pour quoi Elle
-était prévue. Et je sais qu’en lisant la Parole je serai toujours dans le vrai. Lorsque je
-lis Sa Parole, Dieu honore Sa Parole.
-27 Maintenant, levons-nous par respect pour la Parole et lisons dans Jérémie, chapitre 2,
-versets 12 et 13:
-    “Cieux, soyez étonnés de ceci, frissonnez, et soyez extrêmement confondus, dit
-    l’Eternel. Car mon peuple à fait deux maux: ils m’ont abandonné, moi, la source
-    des eaux vives, pour se creuser des citernes, des citernes crevassées qui ne
-    retiennent pas l’eau”.
-28 Inclinons nos têtes maintenant. O Dieu, Ta Parole a été lue et nous Te prions
-d’honorer cette Parole et de nous en montrer les parallèles ce soir. Tandis que nous
-observons les jours passés et que nous prenons Israël comme exemple tel que nous
-l’enseigne la Bible, nous pouvons voir ce que Tu leur faisais quand Ils obéissaient à Ta
-Parole et ce que Tu leur faisais quand ils désobéissaient à Ta Parole; cela doit nous
-apprendre ce que nous devons faire. Nous Te prions donc de nous parler ce soir de
-manière très spéciale afin que nous puissions savoir comment nous conduire en ce jour
-dont nous avons parlé ce matin et dans lequel nous vivons. Car nous Te le demandons
-dans le Nom de Jésus. Amen. (Vous pouvez vous asseoir.)
+23 Et pendant que vous cherchez le livre de Jérémie, au deuxième chapitre, j’aimerais vous dire que je suis heureux d’avoir frère Lee Vayle parmi nous, c’est un précieux frère dans le Seigneur; et je pense aussi à ce frère ici (je ne me souviens plus de son nom), je crois que c’est frère Willard Crase. Et je vois des frères qui viennent de l’Arkansas, comme frère John et tous ceux qui viennent des environs de Popular Bluff; il y a aussi frère Blair. Et, oh, il y a aussi frère Jackson et frère Ruddell; il y en a tellement d’autres que je ne peux… J’aimerais pouvoir appeler chacun par son nom, mais je ne peux vraiment pas le faire et vous le comprenez. J’ai vu que frère Briant était assis ici. Il est celui qui habituellement souligne dans son coin ce que je dis par son «Amen». Ben est connu de chacun à cause de sa voix.
+
+24 Une fois, alors que je me trouvais en Californie, j’ai prêché un message pour les Baptistes qui étaient dans la vallée. Ils avaient une grande tente là-bas et il y avait un bon nombre de Baptistes, des aristocrates. Je n’entendais jamais un amen! de nulle part, vous savez. Certaines femmes avaient sûrement peur d’abîmer la peinture de leur visage. Et la première chose que je vis, vous savez, fut une paire de pieds qui sautèrent ainsi en l’air, puis deux grosses mains et une tête noire qui cria: «amen!» en hurlant ainsi. Je regardai en bas et dis: «Ben, d’où es-tu sorti?». C’était vraiment lui qui avait dit «amen».
+
+25 Je vois que sa femme l’observe un peu. Eh bien, il est en train de perdre cette chevelure noire, mais c’est très bien. Ne te fais pas de souci à cause de cela; il y a longtemps que j’ai perdu les miens.
+
+26 Ainsi donc, n’oubliez pas de prier. Maintenant, tandis que nous en arrivons à la vraie partie du service, souvenez-vous que si nous, nous lisons Sa Parole, c’est Dieu qui La bénit. Elle ne retournera pas à Lui à vide mais Elle accomplira tout ce pour quoi Elle était prévue. Et je sais qu’en lisant la Parole je serai toujours dans le vrai. Lorsque je lis Sa Parole, Dieu honore Sa Parole.
+
+27 Maintenant, levons-nous par respect pour la Parole et lisons dans Jérémie, chapitre 2, versets 12 et 13:
+
+> “Cieux, soyez étonnés de ceci, frissonnez, et soyez extrêmement confondus, dit l’Eternel. Car mon peuple à fait deux maux: ils m’ont abandonné, moi, la source des eaux vives, pour se creuser des citernes, des citernes crevassées qui ne retiennent pas l’eau”.
+
+28 Inclinons nos têtes maintenant. O Dieu, Ta Parole a été lue et nous Te prions d’honorer cette Parole et de nous en montrer les parallèles ce soir. Tandis que nous observons les jours passés et que nous prenons Israël comme exemple tel que nous l’enseigne la Bible, nous pouvons voir ce que Tu leur faisais quand Ils obéissaient à Ta Parole et ce que Tu leur faisais quand ils désobéissaient à Ta Parole; cela doit nous apprendre ce que nous devons faire. Nous Te prions donc de nous parler ce soir de manière très spéciale afin que nous puissions savoir comment nous conduire en ce jour dont nous avons parlé ce matin et dans lequel nous vivons. Car nous Te le demandons dans le Nom de Jésus. Amen. (Vous pouvez vous asseoir.)
+
 29 Ce soir, pendant un court instant, je veux parler sur le sujet des citernes crevassées.
-30 Israël a commis deux grands péchés. Dieu dit qu’ils se sont détournés de Lui, de
-la Fontaine de Vie, et qu’ils se sont creusé eux-mêmes des citernes pour y boire.
-31 La raison pour laquelle j’ai pensé à ce texte est qu’il serait un parallèle à ce que j’ai dit
-ce matin au sujet de l’heure dans laquelle nous vivons et de la cause pour laquelle nous
-luttons.
-32 Et nous regardons à Israël comme étant un exemple nous montrant ce que fut Dieu,
-et Il doit toujours rester Le même. Et il y a une chose que Dieu a toujours honorée, c’est
-Sa manière de pourvoir aux besoins des gens. Et lorsqu’ils s’écartaient de cette manière,
-alors Dieu était déshonoré, et Dieu faisait souffrir les gens pour s’être éloignés de ce qu’Il
-leur avait dit de faire. Peu importe ce que c’était. Il leur donna même une loi: “Ne touchez
-pas, ne prenez pas, ne goûtez pas”, non pas à cause du mal qu’il y avait à le faire, mais à
-cause du mal qu’il y avait à désobéir à ce qu’Il avait dit. Et il n’y a jamais de loi sans
-punition, car s’il n’y avait pas de punition, alors la loi n’aurait pas de sens; la loi n’est
-rien sans punition.
-33 Maintenant nous découvrons que ce qu’ils firent en ce jour semble être un parallèle à
-ce que nous faisons aujourd’hui, à ce que font les gens d’église.
-34 Nous voyons aujourd’hui une chose étrange ici. Quelques-uns peuvent trouver
-étrange que Dieu dise: “Ils se sont creusé des citernes, des citernes crevassées”.
 
-        http://www.cmpp.ch
+30 Israël a commis deux grands péchés. Dieu dit qu’ils se sont détournés de Lui, de la Fontaine de Vie, et qu’ils se sont creusé eux-mêmes des citernes pour y boire.
 
-    CITERNES CREVASSEES    6
-Maintenant, certains parmi vous ne savent peut-être pas ce qu’est une citerne. Combien
-savent ce qu’est une citerne? Bien, presque tout le monde le sait. Si vous avez grandi
-dans une ferme, vous savez ce qu’est une citerne. Je me souviens avoir avalé
-suffisamment de bestioles pour savoir ce qu’est une citerne. J’avais prêché dans la
-campagne, dans les taillis de charmilles, et il y avait là une grosse cruche remplie d’eau de
-citerne, de cette eau de pluie, vous savez, qui vieillit; puis, la nuit, les bestioles s’y mettent.
-Ainsi, je sais ce qu’est l’eau de citerne.
-35 Une citerne est un endroit que l’on creuse dans le sol en lieu et place d’une source.
-Lorsque les gens n’ont pas de source, ils creusent une citerne. En d’autres termes, une
-citerne est un réservoir ou un puits fait par l’homme, un puits que l’homme creuse dans
-le sol pour recueillir l’eau qu’il veut utiliser. Certains utilisent cette eau pour faire la
-lessive, d’autres l’utilisent comme eau potable, et peut-être de différentes autres manières.
-Il fut un temps où toute l’eau que nous utilisions venait d’une citerne. Nous avions une
-vieille citerne munie d’une roue que nous devions faire tourner, tourner et encore tourner
-pour faire remonter l’eau; il y avait des petits seaux pour prendre l’eau de la citerne.
-36 Eh bien, nous remarquons qu’il y a une chose qui différencie une citerne d’une
-source. Une citerne va finir par se vider. La citerne ne peut pas se remplir toute seule.
-Elle n’est pas fiable. Vous ne pouvez pas avoir confiance dans une citerne. La fiabilité
-d’une citerne dépend des pluies qui tombent, que cela soit au printemps ou en hiver.
-Habituellement c’est en hiver, lorsque tombent la neige et la pluie, que la citerne se remplit
-d’eau. Et si elle ne recueille pas cette eau, alors vous n’avez pas d’eau. La citerne se
-dessèche. Et elle ne peut se remplir toute seule. La vieille citerne ne peut pas se remplir
-elle-même; c’est grâce à la pluie qui tombe qu’elle se remplit.
-37 Et il y a une autre chose que j’aimerais vous faire remarquer au sujet de la citerne.
-Habituellement la grange est deux fois plus grande que la maison et ils recueillent l’eau du
-toit de la grange pour la mettre dans la citerne. Je me souviens de cette vieille citerne là
-dehors et dans laquelle plongeaient les tuyaux de la gouttière venant du toit de la grange.
-Cette citerne se remplissait de l’eau venant du toit de la grange autour de laquelle
-piétinaient tous les animaux de l’écurie; et par temps sec, toute la saleté de la basse-cour
-venait sur le sommet de la grange. Puis l’eau venait et nettoyait toute la saleté du toit en la
-faisant descendre dans un abreuvoir, puis dans un caniveau et enfin dans une citerne faite
-par l’homme. Et si alors ce n’était pas de la saleté que vous aviez, je ne sais pas ce
-que vous aviez avec une citerne! Certainement! Tout cela est fait par l’homme et c’est
-aussi sale que possible.
-38 Vous savez, sur une de ces citernes nous avions l’habitude de poser un chiffon qui
-servait de filtre. Avez-vous jamais su ce que c’était? Nous devions y poser un chiffon qui
-servait de filtre afin d’attraper toutes les bestioles et les choses qui venaient du toit de la
-grange et de tout autour et qui se déplaçaient d’un endroit à l’autre jusque dans la citerne.
-Et nous avions l’habitude d’y poser un chiffon qui servait de filtre afin d’attraper toute
-l’écume et la saleté que nous pouvions. Naturellement, nous ne pouvions pas attraper
-toute la saleté, ce filtre ne retenait que les grosses saletés qui descendaient et y
-tombaient. La punaise pouvait tomber dans ce filtre mais le jus de cette punaise s’en allait
-dans l’eau. Ainsi c’était vraiment de la saleté que vous aviez lorsque vous aviez une
-vieille citerne sale.
-39 Si vous laissiez l’eau qui se trouvait là pendant quelques jours, elle commençait à
-stagner. Si vous laissez l’eau qui se trouve dans une citerne, elle commence à stagner, et
-elle se remplit de grenouilles, de lézards, de serpents et de ce que nous appelons
-“branle-queues”, de ces espèces de petits… Je ne sais pas si ce sont des parasites. Je ne
-sais pas comment vous les appelez, mais il y a de ces petites choses dans l’eau et nous
-les appelons des “branle-queue”. Vous savez ce que c’est. Combien savent de quoi je
-parle? Oh, bien sûr, tous les paysans connaissent cela. Lorsque les eaux croupissent, ces
+31 La raison pour laquelle j’ai pensé à ce texte est qu’il serait un parallèle à ce que j’ai dit ce matin au sujet de l’heure dans laquelle nous vivons et de la cause pour laquelle nous luttons.
 
-        http://www.cmpp.ch
+32 Et nous regardons à Israël comme étant un exemple nous montrant ce que fut Dieu, et Il doit toujours rester Le même. Et il y a une chose que Dieu a toujours honorée, c’est Sa manière de pourvoir aux besoins des gens. Et lorsqu’ils s’écartaient de cette manière, alors Dieu était déshonoré, et Dieu faisait souffrir les gens pour s’être éloignés de ce qu’Il leur avait dit de faire. Peu importe ce que c’était. Il leur donna même une loi: “Ne touchez pas, ne prenez pas, ne goûtez pas”, non pas à cause du mal qu’il y avait à le faire, mais à cause du mal qu’il y avait à désobéir à ce qu’Il avait dit. Et il n’y a jamais de loi sans punition, car s’il n’y avait pas de punition, alors la loi n’aurait pas de sens; la loi n’est rien sans punition.
 
-CITERNES CREVASSEES 7
-bêtes aiment à y venir; ces bêtes viennent réellement parce que les eaux sont stagnantes.
-Et le fait que ces eaux croupissent attire les animaux qui aiment ce qui stagne.
-40 Il en est pratiquement de même avec nos églises aujourd’hui. L’un des grands
-péchés qu’ait commis l’Eglise aujourd’hui, tout comme Israël en ce temps-là, est de
-L’avoir abandonné, Lui la Fontaine d’Eau vive, et de s’être creusé des citernes faites
-par l’homme. Et ces citernes sont devenues une demeure pour tout ce qui aime cette
-sorte d’eau. Des lézards, des grenouilles et toutes sortes de germes malpropres y vivent
-car il s’agit d’un réservoir artificiel; et c’est dans cette sorte de réservoir que demeurent
-ces choses. C’est un parfait exemple de nos dénominations aujourd’hui.
-41 Maintenant vous dites: «Frère Branham, pourquoi frappez-vous si durement ces
-gens?». C’est parce qu’il faut frapper cela. Cela doit être frappé. Fuyez loin de ces
-choses car elles finiront par former la marque de la bête. Souvenez-vous de cela,
-c’est la Vérité! Ce sera la marque de la bête; la dénomination conduira directement à cela.
-Elle est à présent sur la voie qui la conduira directement au pouvoir par la force…
-42 Observez, dans le vieil empire Romain, c’est exactement ce qui les conduisit à cette
-marque de l’apostasie. Vous découvrez que personne ne pouvait acheter ni vendre sans
-la marque de la bête. Il devait l’avoir.
-43 Il n’y aura que deux classes de gens sur terre; il y aura ceux qui auront le Sceau
-de Dieu, et ceux qui auront la marque de la bête, seulement deux classes. Vous devez
-donc avoir soit l’un soit l’autre. Et il y aura une apostasie, une marque de la religion
-apostate.
-44 Il va y avoir une image de la bête. Comme nous l’avons étudié, nous découvrons que
-Rome a été, est et sera la bête. Exactement. Il n’y a aucun moyen pour que ce soit
-autre chose que Rome.
-45 Et que fit Rome? La Rome païenne fut convertie en une Rome papale et organisa un
-système, un système universel qui força tout le monde à adopter cette seule religion, s’il
-ne voulait pas être mis à mort.
-46 Et il est étrange de voir apparaître ces Etats-Unis sur scène, semblables à un agneau.
-Et cet agneau a deux petites cornes qui sont dans ce cas les pouvoirs civils et
-religieux. Et nous découvrons ensuite que tandis qu’il était un agneau, il parlait comme
-un dragon et exerça tout le pouvoir qu’avait le dragon avant lui. Et la Bible nous déclare
-qu’ils dirent: “Faisons-nous une image de la bête”. Une image est quelque chose de
-semblable à autre chose. Et dès maintenant, nous pouvons voir que dans cette condition
-d’apostasie, l’église est en train de former le Conseil mondial des églises, ce qui est
-une image du pouvoir de Rome qui forcera les gens à faire la même chose que fit cette
-Rome païenne ou plutôt papale. Ainsi, il n’y a aucun moyen pour qu’il puisse arriver autre
-chose. C’est la vérité.
-47 Et c’est pourquoi je frappe là-dessus pendant mon âge et pendant mon temps car
-cela doit être frappé. L’appel vient disant: “Sortez du milieu d’elle, mon peuple, afin de ne
-pas participer à ses péchés!…”.
-48 Maintenant, je compare cela à des citernes sales, souillées. Il est la Fontaine de la
-Vie; Il est l’Eau Vive. Et l’homme a quitté cela pour se creuser des citernes qui ne
-peuvent recueillir que la saleté. C’est la seule chose qu’elles puissent recueillir. Et c’est ce
-que fait le système dénominationnel: il attrape tout ce qui passe par là, tout ce qui veut se
-joindre. Ils sont désireux de recueillir cette personne si elle a de l’argent ou si elle s’habille
-d’une certaine manière. Peu importe qui elle est, d’où elle vient, ils la prendront de toute
-façon.
-49 Maintenant, nous voyons de nouveau que cette marque de la bête qui fut formée là…
-Le nombre de l’Amérique Esther 13; elle est née avec 13 colonies, son drapeau a 13 étoiles
+33 Maintenant nous découvrons que ce qu’ils firent en ce jour semble être un parallèle à ce que nous faisons aujourd’hui, à ce que font les gens d’église.
 
-        http://www.cmpp.ch
+34 Nous voyons aujourd’hui une chose étrange ici. Quelques-uns peuvent trouver étrange que Dieu dise: “Ils se sont creusé des citernes, des citernes crevassées”. Maintenant, certains parmi vous ne savent peut-être pas ce qu’est une citerne. Combien savent ce qu’est une citerne? Bien, presque tout le monde le sait. Si vous avez grandi dans une ferme, vous savez ce qu’est une citerne. Je me souviens avoir avalé suffisamment de bestioles pour savoir ce qu’est une citerne. J’avais prêché dans la campagne, dans les taillis de charmilles, et il y avait là une grosse cruche remplie d’eau de citerne, de cette eau de pluie, vous savez, qui vieillit; puis, la nuit, les bestioles s’y mettent. Ainsi, je sais ce qu’est l’eau de citerne.
 
-    CITERNES CREVASSEES    8
-et 13 rayures et elle apparaît même dans Apocalypse au chapitre 13. Et sur nos pièces de
-monnaie, l’Amérique a toujours été représentée par une femme. Même la tête indienne
-frappée sur les pennies est le profil d’une femme. Nous savons cela et nous en
-connaissons l’histoire. Toutes choses, la cloche de la Liberté, la statue de la Liberté et
-toutes ces choses représentent une femme. Le nombre de la femme Esther 13, vous voyez?
-50 Maintenant, il est merveilleux de voir ces choses. Et j’avais prédit par une révélation
-de Dieu, une vision que j’avais eue en 1933, que sept choses devaient arriver avant la fin
-des temps. Et l’une d’entre elles était que Mussolini, qui était en train de devenir dictateur,
-le deviendrait réellement, qu’il envahirait l’Ethiopie et s’en emparerait. Et l’Esprit avait dit:
-«Et cette entreprise provoquera sa chute».
-51 Je me demande s’il y a encore des vétérans qui se souviennent de me l’avoir entendu
-dire dans ce Hedman’s Hall où nous prêchions il y a bien des années. Y a-t-il quelqu’un,
-ce soir dans cette salle, qui se trouvait dans cette vieille salle du Redman’s Hall où j’avais
-prêché à ce sujet alors qu’ils avaient envoyé le N.R.A.; c’était pendant le premier mandat
-de Roosevelt? Je suppose qu’il n’y en a aucun ici. Y en a-t-il un? Oui, oui, il y en a un.
-Oui, il y a une personne, c’est madame Wilson, je me souviens d’elle. Il y a aussi ma
-femme qui est assise là derrière. Il en reste deux de la génération de ce jour-là. Ce fut
-lorsqu’ils dirent que ce N.R.A. était la marque de la bête et que j’avais répondu: «Ce n’est
-absolument pas cela! Pas du tout. La marque de la bête ne vient pas d’ici, elle vient de
-Rome et cette chose ne peut pas être la marque de la bête».
-52 Maintenant, souvenez-vous que ces choses ont été dites. J’avais dit qu’Adolphe Hitler
-aurait une fin mystérieuse; j’avais aussi dit qu’il déclarerait la guerre aux Etats-Unis; j’avais
-dit que les Allemands construiraient une immense chose en béton, on vivrait même
-là-dedans et qu’à cause de cela les Américains connaîtraient précisément à cet endroit
-une grande défaite (il s’agissait de la ligne Siegfried), et cela onze ans avant même qu’on
-ne commence de la construire Puis j’avais dit qu’Hitler arriverait à sa fin et que les
-Etats-Unis gagneraient la guerre.
-53 J’avais aussi dit qu’il y aurait trois “ismes”: nazisme, fascisme et communisme. Puis
-j’avais dit que tout cela se fondrait dans le communisme. La Russie prendrait tout cela
-dans le communisme.
-54 Puis je dis: «La science augmentera tellement, l’homme deviendra tellement
-intelligent, il inventera tellement de choses qu’il fabriquera une voiture ressemblant à un
-oeuf, ayant pour toit une glace et dirigée d’une autre manière que par un volant». Et
-maintenant ils ont cette voiture.
-55 Et j’avais dit: «Ensuite, la moralité de nos femmes chutera de manière tellement
-dégradante qu’elles deviendront une honte pour toutes les nations. Elles porteront des
-vêtements d’homme. Elles continueront d’enlever leurs vêtements jusqu’à ne porter
-réellement que leurs sous-vêtements. C’est cela. Et finalement, elles en viendront à ne
-porter qu’une feuille de figuier». Et vous remarquerez que dans le dernier Life Magazine,
-ils montrent des femmes portant des feuilles de figuier; elles sont vêtues de ces nouveaux
-costumes du soir, ou de ces robes qu’elles portent en soirée; ce sont des vêtements
-transparents, on peut voir à travers et il y a simplement une feuille de figuier pour cacher
-un certain endroit de leur corps. Et comme vêtements du haut, elles portent des bustiers
-sans bretelles, et elles exposent leur corps… Et voyez comment ces choses sont arrivées.
-56 Puis je dis: «Je vois une femme aux Etats-Unis, semblable à une grande reine ou
-quelque chose ainsi. Elle était très belle à regarder mais son coeur était cruel. Et elle fit
-marcher la nation du même pas qu’elle».
-57 Mais je dis: «Il me dit finalement de regarder de nouveau vers l’Est, et lorsque je l’eus
-fait, je vis que le monde avait explosé. Et aussi loin que je pouvais regarder, je ne pouvais
-voir que des morceaux de bois et des rochers fumants qui avaient été soufflés de la terre.
+35 Une citerne est un endroit que l’on creuse dans le sol en lieu et place d’une source. Lorsque les gens n’ont pas de source, ils creusent une citerne. En d’autres termes, une citerne est un réservoir ou un puits fait par l’homme, un puits que l’homme creuse dans le sol pour recueillir l’eau qu’il veut utiliser. Certains utilisent cette eau pour faire la lessive, d’autres l’utilisent comme eau potable, et peut-être de différentes autres manières. Il fut un temps où toute l’eau que nous utilisions venait d’une citerne. Nous avions une vieille citerne munie d’une roue que nous devions faire tourner, tourner et encore tourner pour faire remonter l’eau; il y avait des petits seaux pour prendre l’eau de la citerne.
 
-        http://www.cmpp.ch
+36 Eh bien, nous remarquons qu’il y a une chose qui différencie une citerne d’une source. Une citerne va finir par se vider. La citerne ne peut pas se remplir toute seule. Elle n’est pas fiable. Vous ne pouvez pas avoir confiance dans une citerne. La fiabilité d’une citerne dépend des pluies qui tombent, que cela soit au printemps ou en hiver. Habituellement c’est en hiver, lorsque tombent la neige et la pluie, que la citerne se remplit d’eau. Et si elle ne recueille pas cette eau, alors vous n’avez pas d’eau. La citerne se dessèche. Et elle ne peut se remplir toute seule. La vieille citerne ne peut pas se remplir elle-même; c’est grâce à la pluie qui tombe qu’elle se remplit.
 
-    CITERNES CREVASSEES    9
-Et cela devait arriver avant la fin du monde!». En trente-trois ans, cinq de ces sept choses
-se sont déjà accomplies!
-58 Et maintenant, nous sommes à la fin des temps! Je viens de parler contre ce système
-dénominationnel. Et ce soir, je continue de croire qu’il s’agit d’un cloaque, d’un endroit
-recueillant la saleté. Je ne peux pas croire que Dieu accepterait jamais une telle
-chose dans Son Eglise car Celle-ci doit être née de l’Esprit de Dieu, puis Elle doit
-être nettoyée avant de pouvoir être appelée Sienne. Nous sommes baptisés dans le
-Corps mystique de Christ par le baptême du Saint-Esprit.
-59 Oui, ce système est un parfait exemple de la dénomination. Un homme sage devrait
-regarder cela et ne jamais y entrer car, à travers les âges, Dieu a montré qu’Il était contre
-cela et qu’Il ne travaillerait jamais avec cela. N’importe quel groupe… Chaque fois qu’un
-homme s’est levé avec un message comme Luther, Wesley, Smith, Calvin et les autres,
-dès qu’ils commençaient à s’organiser, Dieu les mettait de côté et ne les visitait plus
-jamais par un réveil.
-60 Observez l’histoire. Jamais Dieu n’a pris une dénomination pour en faire sortir un
-réveil. Nulle part on ne trouve cela. L’histoire et la Bible prouvent donc qu’il s’agit d’une
-chose malpropre aux yeux de Dieu. C’est pourquoi je ne veux rien avoir à faire avec cela.
-Et c’est pourquoi je suis contre cela et essaye d’en faire sortir les gens.
-61 Comme il en fut au temps d’Israël, ainsi en est-il maintenant; nous sommes invités à
-regarder à Israël comme exemple. Tant qu’ils restèrent avec la Source, ils étaient très
-bien. Mais lorsqu’ils se mirent à se creuser des citernes, des systèmes faits par les
-hommes, Dieu les laissa complètement tomber. Il fera de même avec nous. Ils L’ont
-abandonné, Lui, la Source des Eaux Vives. C’était là le reproche que Dieu avait contre
-eux, de vouloir faire quelque chose afin de pouvoir dire: «Voyez ce que nous avons fait!».
-62 Maintenant, pendant le voyage de Moïse, alors que par grâce Dieu leur avait donné
-un prophète, une Colonne de feu qui allait devant eux et les avait authentifiés par des
-signes et des merveilles, que Sa grâce avait pourvu à toutes ces choses, Israël voulait
-encore… Ils voulurent la loi. Ils refusèrent la grâce pour prendre la loi. C’est
-exactement ce que font les gens aujourd’hui; ils refusent la Parole pour prendre un
-système dénominationnel, car c’est ainsi qu’ils peuvent faire ce qu’ils veulent et se
-débrouiller par eux-mêmes. Mais avec Christ, vous ne pouvez faire cela! Vous devez être
-nettoyés et propres afin d’être en Christ!
-63 Pouvez-vous imaginer quelqu’un abandonnant le puits artésien au profit de quelque
-citerne ou système humain? Pouvez-vous vous représenter les conditions mentales d’une
-personne qui, ayant la possibilité de boire l’eau fraîche d’un puits artésien, abandonnerait
-cela pour une citerne faite par l’homme et remplie de grenouilles, de lézards, “d’asticots” et
-toutes sortes d’autres choses? Cela me semble vraiment insensé, mais c’est exactement
-ce que les gens ont fait. Ils ont abandonné la Parole, la Véritable Fontaine de la
-Source et de la puissance de Dieu, pour boire aux citernes qu’ils se sont creusé
-eux-mêmes? Comme ils firent alors, ils font aujourd’hui.
-    Il dit: “Ils m’ont abandonné”. Il dit cela dans Jérémie 2, verset 13: “Ils m’ont
-abandonné, moi, la Fontaine d’Eau Vive”.
-64 Maintenant, nous avons vu ce qu’est une citerne. Nous avons vu ce qu’elle recueille.
-Nous avons vu comment elle est faite. Il s’agit d’une chose faite par l’homme et qui
-recueille ce qui descend d’un toit sale. L’eau qui descend tombe d’abord sur un toit sale,
-elle nettoie d’abord ce toit puis elle descend à travers une gouttière faite par l’homme dans
-un réservoir fait par l’homme. Et toute la saleté se rassemble là, ainsi que les germes, les
-lézards, les grenouilles et toutes les bêtes de la terre qui sont ainsi. Et remarquez qu’il
-s’agit d’animaux impurs: les asticots sont des bêtes qui aiment l’eau stagnante. Un asticot
-ne peut pas vivre dans l’eau claire. S’il y va, cela le tuera. Il doit être dans une eau
+37 Et il y a une autre chose que j’aimerais vous faire remarquer au sujet de la citerne. Habituellement la grange est deux fois plus grande que la maison et ils recueillent l’eau du toit de la grange pour la mettre dans la citerne. Je me souviens de cette vieille citerne là dehors et dans laquelle plongeaient les tuyaux de la gouttière venant du toit de la grange. Cette citerne se remplissait de l’eau venant du toit de la grange autour de laquelle piétinaient tous les animaux de l’écurie; et par temps sec, toute la saleté de la basse-cour venait sur le sommet de la grange. Puis l’eau venait et nettoyait toute la saleté du toit en la faisant descendre dans un abreuvoir, puis dans un caniveau et enfin dans une citerne faite par l’homme. Et si alors ce n’était pas de la saleté que vous aviez, je ne sais pas ce que vous aviez avec une citerne! Certainement! Tout cela est fait par l’homme et c’est aussi sale que possible.
 
-        http://www.cmpp.ch
+38 Vous savez, sur une de ces citernes nous avions l’habitude de poser un chiffon qui servait de filtre. Avez-vous jamais su ce que c’était? Nous devions y poser un chiffon qui servait de filtre afin d’attraper toutes les bestioles et les choses qui venaient du toit de la grange et de tout autour et qui se déplaçaient d’un endroit à l’autre jusque dans la citerne. Et nous avions l’habitude d’y poser un chiffon qui servait de filtre afin d’attraper toute l’écume et la saleté que nous pouvions. Naturellement, nous ne pouvions pas attraper toute la saleté, ce filtre ne retenait que les grosses saletés qui descendaient et y tombaient. La punaise pouvait tomber dans ce filtre mais le jus de cette punaise s’en allait dans l’eau. Ainsi c’était vraiment de la saleté que vous aviez lorsque vous aviez une vieille citerne sale.
 
-    CITERNES CREVASSEES    10
-stagnante.
-65 Et c’est ainsi qu’il en est avec beaucoup de ces parasites d’aujourd’hui. Ils ne
-peuvent vivre dans l’Eau fraîche du Saint-Esprit. C’est la raison pour laquelle ils
-demeurent aussi obstinément contre la Parole et disent qu’Elle se contredit
-Elle-même, qu’il n’y a rien en Elle. C’est parce qu’ils doivent avoir une espèce de
-réservoir d’eau stagnante pour y frétiller. C’est juste. Il en est de même avec les
-grenouilles, les lézards, les têtards et toutes ces bêtes. Ils doivent se tenir autour des
-marais ou des bassins d’eau stagnante pour pouvoir vivre, car c’est leur nature de vivre
-là-dedans. Et vous ne pouvez pas changer un animal tant que vous ne changez pas sa
-nature. Et vous ne pouvez faire en sorte qu’un homme voie la Parole de Dieu tant
-que sa nature n’est pas changée. Et lorsque sa nature est changée et qu’il devient un
-fils de Dieu et que le Saint-Esprit vient sur lui… C’est le Saint-Esprit qui a écrit la Parole de
-Dieu.
-66 Aujourd’hui j’ai discuté avec mon bon ami, le Dr Lee Vayle qui est ici maintenant. Il est
-plutôt un théologien. Et nous avons l’habitude d’avoir de bonnes et intéressantes
-discussions sur la Parole de Dieu. C’est très bien. Et il me demanda un jour si je pensais
-que la preuve initiale du Saint-Esprit était le parler en langues. C’était il y a bien des
-années. Je dis: «Non, je ne le vois pas de cette manière».
-    Il dit: «Moi non plus, bien que l’on m’ait enseigné cela». Puis il dit: «Quelle en serait la
-preuve, pensez-vous?».
-67 Je dis: «La preuve la plus parfaite à laquelle je puisse penser est l’amour». Et nous
-continuâmes à parler de cela. Puis je pensai: «Cela avait l’air d’être vraiment très bien».
-Je retins donc simplement ceci: «Si un homme a l’amour». Mais un jour, le Seigneur me
-redressa par une vision et Il dit que la preuve que des gens avaient l’Esprit était qu’ils
-pouvaient recevoir la Parole, non pas l’amour ni le parler en langues mais recevoir la
-Parole.
-68 Et alors le Dr Vayle me dit que c’était scripturaire, car dans Jean 14 Jésus dit:
-“Lorsque le Saint-Esprit sera sur vous, Il vous révélera ces choses que je vous ai
-enseignées et vous montrera les choses à venir”. C’est donc cela la véritable preuve du
-Saint-Esprit. Il ne m’a encore jamais rien dit de faux. C’est cela: la preuve que quelqu’un
-a le Saint-Esprit est qu’il peut croire la Parole, qu’il peut La recevoir. Jésus n’a jamais
-dit: “Lorsque le Saint-Esprit viendra, vous parlerez en langues”. Il n’a jamais dit que
-lorsque le Saint-Esprit viendrait vous feriez ces choses, mais Il a dit: “Il prendra ces
-choses qui viennent de moi et vous les montrera, et Il vous montrera les choses qui sont à
-venir”. Selon Jésus Lui-même, c’est donc cela la véritable preuve que quelqu’un possède
-le Saint-Esprit.
-69 Ainsi vous pouvez voir pourquoi les gens ont toutes ces sensations et font toutes ces
-choses par lesquelles ils vivent. Vous voyez, cela devient une dénomination ou un
-réservoir d’eau stagnante; or jamais une dénomination ne reposera sur la parfaite
-Parole de Dieu. Cela ne peut pas se faire car vous ne pouvez faire de Dieu une
-dénomination. Certainement pas!
-70 Comme preuve de cela, prenez un groupe d’hommes pouvant croire la Parole et
-laissez-les s’organiser. Vous savez, en moins d’une année vous aurez là un groupe de
-Rickies dont vous ne pourrez rien faire. Ils prennent de l’influence et vous ne pouvez
-rien faire là-contre. Ce n’est pas le système de Dieu. Ce n’est pas cela. Nous savons
-donc que cette chose est devenue morte et qu’elle devint une citerne et un endroit où
-chacun fait des compromis sur ceci ou cela afin d’attirer des membres ou de faire entrer
-des gens.
-71 Nous découvrons que ce système a commencé du temps d’Israël lorsqu’ils creusèrent
-des citernes. Et il y eut un homme et un groupe de pharisiens qui avaient creusé des
+39 Si vous laissiez l’eau qui se trouvait là pendant quelques jours, elle commençait à stagner. Si vous laissez l’eau qui se trouve dans une citerne, elle commence à stagner, et elle se remplit de grenouilles, de lézards, de serpents et de ce que nous appelons “branle-queues”, de ces espèces de petits… Je ne sais pas si ce sont des parasites. Je ne sais pas comment vous les appelez, mais il y a de ces petites choses dans l’eau et nous les appelons des “branle-queue”. Vous savez ce que c’est. Combien savent de quoi je parle? Oh, bien sûr, tous les paysans connaissent cela. Lorsque les eaux croupissent, ces bêtes aiment à y venir; ces bêtes viennent réellement parce que les eaux sont stagnantes. Et le fait que ces eaux croupissent attire les animaux qui aiment ce qui stagne.
 
-    http://www.cmpp.ch
+40 Il en est pratiquement de même avec nos églises aujourd’hui. L’un des grands péchés qu’ait commis l’Eglise aujourd’hui, tout comme Israël en ce temps-là, est de L’avoir abandonné, Lui la Fontaine d’Eau vive, et de s’être creusé des citernes faites par l’homme. Et ces citernes sont devenues une demeure pour tout ce qui aime cette sorte d’eau. Des lézards, des grenouilles et toutes sortes de germes malpropres y vivent car il s’agit d’un réservoir artificiel; et c’est dans cette sorte de réservoir que demeurent ces choses. C’est un parfait exemple de nos dénominations aujourd’hui.
 
-    CITERNES CREVASSEES                      11
-citernes. Et ils avaient un homme nommé Hérode qui avait été proclamé gouverneur de
-l’état. Et il descendit pour écouter un homme qui ne s’était pas mêlé à leurs
-dénominations. C’était un prophète. Et jamais un prophète n’a eu à se mêler à une
-dénomination, mais au contraire il la hait.
-72 Ce prophète commença par déclarer: “Ne commencez pas à dire en vous-mêmes que
-vous avez Abraham pour père, car je vous dirai que de ces pierres Dieu est capable de
-susciter des enfants à Abraham”. Et ils lui amenèrent un dignitaire; ce dignitaire avait pris
-la femme de son frère et s’était marié avec elle. Et que fit ce prophète lorsqu’il fut devant
-lui? Ils pensèrent qu’il se compromettrait et dirait: “Maintenant, monsieur, vous avez une
-bonne place là-bas. Vous devriez… Je suis tellement heureux que vous soyez ici
-aujourd’hui pour m’écouter!”. Non, Jean s’avança directement vers lui et dit: “Tu n’avais
-pas le droit de la prendre”. La première chose qu’il fit fut de lui crier son péché à la figure.
-73 Vous voyez, les dénominations font des réservoirs d’eau stagnante où les
-hommes peuvent vivre avec des femmes et où leurs femmes peuvent se comporter
-pareillement, se couper les cheveux, porter des shorts et des choses ainsi et continuer de
-s’appeler des chrétiennes; mais une véritable fontaine de la puissance de Dieu
-(alléluia!) ne peut rester là car ces choses la font sortir. “Je suis la Fontaine des Eaux
-Vives. Ils m’ont abandonné pour se creuser des citernes”.
-74 Nous avons découvert ce qu’est une fontaine d’eau vive. Nous avons découvert ce
-qu’est une citerne. Maintenant, qu’est-ce qu’une fontaine d’eau vive? C’est un puits
-artésien. «Qu’est-ce qu’un puits artésien, frère Branham?». C’est un puits dont la source
-vient toujours d’en bas et fait jaillir l’eau à l’extérieur. C’est une source qui coule
-toujours. Elle ne dépend que d’elle-même et ne produit que de l’eau fraîche et
-propre, c’est cela un puits artésien, une fontaine d’eau vive. Elle n’est pas morte ni
-stagnante; elle est vivante. Elle change constamment, elle apporte toujours quelque chose
-de nouveau de ses ressources, elle est toujours en mouvement. Elle tire ses ressources
-de son lit, elle est une fontaine d’eaux vives jaillissantes et se purifiant d’elles-êmes. C’est
-de l’eau propre et pure. Cette fontaine ne dépend que d’elle-même; vous n’avez pas
-besoin d’attendre que les pluies viennent remplir son réservoir. Elle est toujours en train
-de bouillonner et de donner librement son eau. Vous n’avez pas besoin de pomper, ni de
-faire remonter le sceau, ni de tordre, ni de s’y joindre, ni rien. C’est simplement une
-fontaine d’eaux vives.
-75 Vous savez, si vous utilisez ces vieilles citernes, vous devez prendre une manivelle et
-la tourner, la tourner et la tourner encore, puis pomper et faire toutes ces choses juste
-pour faire sortir un peu de cette eau stagnante; mais une fontaine d’eaux vives donne son
-eau librement sans qu’on ait besoin de pomper, ni de se joindre, ni rien.
-76 Oh, que je suis heureux que nous ayons cette Fontaine! Oui, certainement! Elle n’a
-pas besoin d’être filtrée pour ramasser les parasites car elle plonge tellement
-profondément dans le roc qu’il n’y a aucun parasite là-bas. Elle n’a pas besoin d’avoir
-un chiffon qui pende là-dessus et serve de filtre éducatif (c’est juste). Elle n’a pas besoin
-d’un système mondial fait par les hommes, elle n’a pas besoin de la sagesse des
-dénominations pour vous dire au travers d’un psychiatre si vous êtes capable de prêcher
-ou non. Elle n’a pas de ces chiffons malpropres servant de filtre au-dessus d’elle. Elle les
-rejetterait dès que vous l’auriez posé dessus. Vous ne pouvez pas faire cela. Cette source
-bouillonne constamment. Si vous y posiez un de ces chiffons, elle le rejetterait entièrement
-d’un côté ou de l’autre. Elle n’a pas le temps de s’occuper d’un chiffon dénominationnel.
-77 Vous n’avez pas besoin de filtre ni de passoire, vous n’avez pas besoin de pomper ni
-de secouer ni quoi que ce soit d’autre. Elle se trouve simplement ici, elle bouillonne. Elle
-ne dépend pas des pluies locales pour la remplir. Les pluies, ce sont les réveils. Là où se
-trouve cette fontaine de Vie, là où se trouve le corps mort, les aigles
+41 Maintenant vous dites: «Frère Branham, pourquoi frappez-vous si durement ces gens?». C’est parce qu’il faut frapper cela. Cela doit être frappé. Fuyez loin de ces choses car elles finiront par former la marque de la bête. Souvenez-vous de cela, c’est la Vérité! Ce sera la marque de la bête; la dénomination conduira directement à cela. Elle est à présent sur la voie qui la conduira directement au pouvoir par la force…
 
-                           http://www.cmpp.ch
+42 Observez, dans le vieil empire Romain, c’est exactement ce qui les conduisit à cette marque de l’apostasie. Vous découvrez que personne ne pouvait acheter ni vendre sans la marque de la bête. Il devait l’avoir.
 
-CITERNES CREVASSEES 12
-s’assembleront. Vous n’avez pas besoin de pomper pour avoir un réveil, vous n’avez pas
-besoin de pomper pour avoir quoi que ce soit. La seule chose que vous ayez à faire est de
-venir à la fontaine. Elle est toujours remplie d’une bonne eau fraîche, et elle ne tarit
-jamais. Elle continue simplement de bouillonner.
-78 Vous n’avez pas besoin d’aller à la citerne et de dire: «Eh bien, s’il pleut et que l’eau
-descende du toit de la grange, nous aurons quelque chose à boire». Mon Dieu, mon Dieu!
-Ce n’est pas cela. Ce puits artésien fait constamment jaillir une bonne eau fraîche.
-Vous pouvez compter dessus. Vous n’avez pas besoin de dire: «Eh bien, je vais aller à
-cette vieille citerne. Nous avions l’habitude de boire de son eau, mais il n’a pas plu depuis
-longtemps. Je pense qu’elle doit être sèche».
-79 C’est ainsi que sont certains de ces systèmes humains. Vous pouvez entrer là-dedans
-si vous avez un grand programme, une grosse affaire que vous avez vendue, quelque
-chose qui paraisse très grand, s’il y a de grandes parties de plaisir et toutes ces choses
-comme les jeux de banco et ces réunions dans les sous-sols; ces distractions rempliraient
-une maison entière de gens. Mais si vous allez vers cette fontaine qui bouillonne
-constamment, vous trouverez là des gens venus boire à longs traits cette eau fraîche;
-vous pouvez compter sur cette source. Les gens disent: «Cela fait dix ans qu’ils n’ont pas
-eu de réveil». Si c’est cette fontaine qui vous fait vivre, il y a constamment un réveil
-en cours.
-80 C’est comme ce qu’a dit ce petit Gallois. Un jour, alors qu’ils avaient ce réveil au pays
-de Galles, quelques dignitaires des Etats-Unis, de ces grands docteurs de la théologie,
-vinrent au pays de Galles pour voir de quoi il s’agissait et où cela se passait. Ils avaient
-donc des cols retournés et des chapeaux haut-de-forme et ils descendaient la rue, et un
-petit policier vint à passer, tenant à la main son vieux petit bâton qu’il faisait tournoyer en
-sifflant: «A la Croix où mourut mon Sauveur, c’est là, tandis que je pleurais pour être
-purifié de mon péché, que le Sang fut appliqué dans mon coeur; gloire à Son Nom!»; et il
-marchait ainsi dans la rue. Ils dirent donc: «On dirait un homme religieux, allons le
-questionner». Et ils dirent: «Monsieur!».
-    Il dit: «Oui, Monsieur!».
-    Ils dirent: «Nous venons des Etats-Unis. Nous sommes une délégation. Nous sommes
-venus ici pour étudier le réveil du pays de Galles, comme on l’appelle. Nous sommes
-docteurs en théologie et nous sommes venus ici pour examiner cela. Nous voudrions
-savoir où a lieu ce réveil».
-    Il dit: «Messieurs, vous y êtes arrivés. Je suis le réveil gallois. Amen! Le réveil du pays
-de Galles est en moi! Voici où il se trouve!».
-81 C’est ainsi qu’il en est lorsque vous vivez par cette Fontaine des Eaux Vives. Elle vit
-tout le temps, elle bouillonne encore, encore et encore; elle ne s’arrête jamais. Il n’y
-a pas besoin d’aller voir s’il y a de l’eau, s’il a plu il n’y a pas très longtemps; il n’y a pas
-besoin de faire cela. C’est la Fontaine d’Eau Vive.
-82 Comme je l’ai dit, elle donne son eau librement. Vous n’avez pas besoin d’y poser des
-chiffons éducatifs avant d’envoyer quelqu’un prêcher, vous n’avez pas besoin de voir s’il
-épelle bien ses mots, s’il les prononce de la bonne manière, s’il utilise les noms, les
-pronoms, les adjectifs et toutes ces choses de manière correcte. Beaucoup d’entre eux ne
-savent même pas ce que c’est. Mais cela ne les empêche pas de vivre à la Fontaine.
-83 Cette source ne dépend pas des pluies locales pour la remplir, elle ne dépend pas
-non plus des réveils locaux, elle n’a pas besoin de cela car sa puissance et sa pureté se
-trouvent en elle-même. Là où se trouve la Parole, là est Son pouvoir propre.
-Lorsqu’un homme peut La recevoir dans son coeur, il reçoit en même temps Sa
-pureté, Son pouvoir. Ces choses se trouvent dans la Parole Elle-même. Elle fait
+43 Il n’y aura que deux classes de gens sur terre; il y aura ceux qui auront le Sceau de Dieu, et ceux qui auront la marque de la bête, seulement deux classes. Vous devez donc avoir soit l’un soit l’autre. Et il y aura une apostasie, une marque de la religion apostate.
 
-        http://www.cmpp.ch
+44 Il va y avoir une image de la bête. Comme nous l’avons étudié, nous découvrons que Rome a été, est et sera la bête. Exactement. Il n’y a aucun moyen pour que ce soit autre chose que Rome.
+
+45 Et que fit Rome? La Rome païenne fut convertie en une Rome papale et organisa un système, un système universel qui força tout le monde à adopter cette seule religion, s’il ne voulait pas être mis à mort.
+
+46 Et il est étrange de voir apparaître ces Etats-Unis sur scène, semblables à un agneau. Et cet agneau a deux petites cornes qui sont dans ce cas les pouvoirs civils et religieux. Et nous découvrons ensuite que tandis qu’il était un agneau, il parlait comme un dragon et exerça tout le pouvoir qu’avait le dragon avant lui. Et la Bible nous déclare qu’ils dirent: “Faisons-nous une image de la bête”. Une image est quelque chose de semblable à autre chose. Et dès maintenant, nous pouvons voir que dans cette condition d’apostasie, l’église est en train de former le Conseil mondial des églises, ce qui est une image du pouvoir de Rome qui forcera les gens à faire la même chose que fit cette Rome païenne ou plutôt papale. Ainsi, il n’y a aucun moyen pour qu’il puisse arriver autre chose. C’est la vérité.
+
+47 Et c’est pourquoi je frappe là-dessus pendant mon âge et pendant mon temps car cela doit être frappé. L’appel vient disant: “Sortez du milieu d’elle, mon peuple, afin de ne pas participer à ses péchés!…”
+
+48 Maintenant, je compare cela à des citernes sales, souillées. Il est la Fontaine de la Vie; Il est l’Eau Vive. Et l’homme a quitté cela pour se creuser des citernes qui ne peuvent recueillir que la saleté. C’est la seule chose qu’elles puissent recueillir. Et c’est ce que fait le système dénominationnel: il attrape tout ce qui passe par là, tout ce qui veut se joindre. Ils sont désireux de recueillir cette personne si elle a de l’argent ou si elle s’habille d’une certaine manière. Peu importe qui elle est, d’où elle vient, ils la prendront de toute façon.
+
+49 Maintenant, nous voyons de nouveau que cette marque de la bête qui fut formée là… Le nombre de l’Amérique Esther 13; elle est née avec 13 colonies, son drapeau a 13 étoiles et 13 rayures et elle apparaît même dans Apocalypse au chapitre 13. Et sur nos pièces de monnaie, l’Amérique a toujours été représentée par une femme. Même la tête indienne frappée sur les pennies est le profil d’une femme. Nous savons cela et nous en connaissons l’histoire. Toutes choses, la cloche de la Liberté, la statue de la Liberté et toutes ces choses représentent une femme. Le nombre de la femme Esther 13, vous voyez?
+
+50 Maintenant, il est merveilleux de voir ces choses. Et j’avais prédit par une révélation de Dieu, une vision que j’avais eue en 1933, que sept choses devaient arriver avant la fin des temps. Et l’une d’entre elles était que Mussolini, qui était en train de devenir dictateur, le deviendrait réellement, qu’il envahirait l’Ethiopie et s’en emparerait. Et l’Esprit avait dit: «Et cette entreprise provoquera sa chute».
+
+51 Je me demande s’il y a encore des vétérans qui se souviennent de me l’avoir entendu dire dans ce Hedman’s Hall où nous prêchions il y a bien des années. Y a-t-il quelqu’un, ce soir dans cette salle, qui se trouvait dans cette vieille salle du Redman’s Hall où j’avais prêché à ce sujet alors qu’ils avaient envoyé le N.R.A.; c’était pendant le premier mandat de Roosevelt? Je suppose qu’il n’y en a aucun ici. Y en a-t-il un? Oui, oui, il y en a un. Oui, il y a une personne, c’est madame Wilson, je me souviens d’elle. Il y a aussi ma femme qui est assise là derrière. Il en reste deux de la génération de ce jour-là. Ce fut lorsqu’ils dirent que ce N.R.A. était la marque de la bête et que j’avais répondu: «Ce n’est absolument pas cela! Pas du tout. La marque de la bête ne vient pas d’ici, elle vient de Rome et cette chose ne peut pas être la marque de la bête».
+
+52 Maintenant, souvenez-vous que ces choses ont été dites. J’avais dit qu’Adolphe Hitler aurait une fin mystérieuse; j’avais aussi dit qu’il déclarerait la guerre aux Etats-Unis; j’avais dit que les Allemands construiraient une immense chose en béton, on vivrait même là-dedans et qu’à cause de cela les Américains connaîtraient précisément à cet endroit une grande défaite (il s’agissait de la ligne Siegfried), et cela onze ans avant même qu’on ne commence de la construire Puis j’avais dit qu’Hitler arriverait à sa fin et que les Etats-Unis gagneraient la guerre.
+
+53 J’avais aussi dit qu’il y aurait trois “ismes”: nazisme, fascisme et communisme. Puis j’avais dit que tout cela se fondrait dans le communisme. La Russie prendrait tout cela dans le communisme.
+
+54 Puis je dis: «La science augmentera tellement, l’homme deviendra tellement intelligent, il inventera tellement de choses qu’il fabriquera une voiture ressemblant à un oeuf, ayant pour toit une glace et dirigée d’une autre manière que par un volant». Et maintenant ils ont cette voiture.
+
+55 Et j’avais dit: «Ensuite, la moralité de nos femmes chutera de manière tellement dégradante qu’elles deviendront une honte pour toutes les nations. Elles porteront des vêtements d’homme. Elles continueront d’enlever leurs vêtements jusqu’à ne porter réellement que leurs sous-vêtements. C’est cela. Et finalement, elles en viendront à ne porter qu’une feuille de figuier». Et vous remarquerez que dans le dernier Life Magazine, ils montrent des femmes portant des feuilles de figuier; elles sont vêtues de ces nouveaux costumes du soir, ou de ces robes qu’elles portent en soirée; ce sont des vêtements transparents, on peut voir à travers et il y a simplement une feuille de figuier pour cacher un certain endroit de leur corps. Et comme vêtements du haut, elles portent des bustiers sans bretelles, et elles exposent leur corps… Et voyez comment ces choses sont arrivées.
+
+56 Puis je dis: «Je vois une femme aux Etats-Unis, semblable à une grande reine ou quelque chose ainsi. Elle était très belle à regarder mais son coeur était cruel. Et elle fit marcher la nation du même pas qu’elle».
+
+57 Mais je dis: «Il me dit finalement de regarder de nouveau vers l’Est, et lorsque je l’eus fait, je vis que le monde avait explosé. Et aussi loin que je pouvais regarder, je ne pouvais voir que des morceaux de bois et des rochers fumants qui avaient été soufflés de la terre. Et cela devait arriver avant la fin du monde!». En trente-trois ans, cinq de ces sept choses se sont déjà accomplies!
+
+58 Et maintenant, nous sommes à la fin des temps! Je viens de parler contre ce système dénominationnel. Et ce soir, je continue de croire qu’il s’agit d’un cloaque, d’un endroit recueillant la saleté. Je ne peux pas croire que Dieu accepterait jamais une telle chose dans Son Eglise car Celle-ci doit être née de l’Esprit de Dieu, puis Elle doit être nettoyée avant de pouvoir être appelée Sienne. Nous sommes baptisés dans le Corps mystique de Christ par le baptême du Saint-Esprit.
+
+59 Oui, ce système est un parfait exemple de la dénomination. Un homme sage devrait regarder cela et ne jamais y entrer car, à travers les âges, Dieu a montré qu’Il était contre cela et qu’Il ne travaillerait jamais avec cela. N’importe quel groupe… Chaque fois qu’un homme s’est levé avec un message comme Luther, Wesley, Smith, Calvin et les autres, dès qu’ils commençaient à s’organiser, Dieu les mettait de côté et ne les visitait plus jamais par un réveil.
+
+60 Observez l’histoire. Jamais Dieu n’a pris une dénomination pour en faire sortir un réveil. Nulle part on ne trouve cela. L’histoire et la Bible prouvent donc qu’il s’agit d’une chose malpropre aux yeux de Dieu. C’est pourquoi je ne veux rien avoir à faire avec cela. Et c’est pourquoi je suis contre cela et essaye d’en faire sortir les gens.
+
+61 Comme il en fut au temps d’Israël, ainsi en est-il maintenant; nous sommes invités à regarder à Israël comme exemple. Tant qu’ils restèrent avec la Source, ils étaient très bien. Mais lorsqu’ils se mirent à se creuser des citernes, des systèmes faits par les hommes, Dieu les laissa complètement tomber. Il fera de même avec nous. Ils L’ont abandonné, Lui, la Source des Eaux Vives. C’était là le reproche que Dieu avait contre eux, de vouloir faire quelque chose afin de pouvoir dire: «Voyez ce que nous avons fait!».
+
+62 Maintenant, pendant le voyage de Moïse, alors que par grâce Dieu leur avait donné un prophète, une Colonne de feu qui allait devant eux et les avait authentifiés par des signes et des merveilles, que Sa grâce avait pourvu à toutes ces choses, Israël voulait encore… Ils voulurent la loi. Ils refusèrent la grâce pour prendre la loi. C’est exactement ce que font les gens aujourd’hui; ils refusent la Parole pour prendre un système dénominationnel, car c’est ainsi qu’ils peuvent faire ce qu’ils veulent et se débrouiller par eux-mêmes. Mais avec Christ, vous ne pouvez faire cela! Vous devez être nettoyés et propres afin d’être en Christ!
+
+63 Pouvez-vous imaginer quelqu’un abandonnant le puits artésien au profit de quelque citerne ou système humain? Pouvez-vous vous représenter les conditions mentales d’une personne qui, ayant la possibilité de boire l’eau fraîche d’un puits artésien, abandonnerait cela pour une citerne faite par l’homme et remplie de grenouilles, de lézards, “d’asticots” et toutes sortes d’autres choses? Cela me semble vraiment insensé, mais c’est exactement ce que les gens ont fait. Ils ont abandonné la Parole, la Véritable Fontaine de la Source et de la puissance de Dieu, pour boire aux citernes qu’ils se sont creusé eux-mêmes? Comme ils firent alors, ils font aujourd’hui.
+
+> Il dit: “Ils m’ont abandonné”. Il dit cela dans Jérémie 2, verset 13: “Ils m’ont abandonné, moi, la Fontaine d’Eau Vive”.
+
+64 Maintenant, nous avons vu ce qu’est une citerne. Nous avons vu ce qu’elle recueille. Nous avons vu comment elle est faite. Il s’agit d’une chose faite par l’homme et qui recueille ce qui descend d’un toit sale. L’eau qui descend tombe d’abord sur un toit sale, elle nettoie d’abord ce toit puis elle descend à travers une gouttière faite par l’homme dans un réservoir fait par l’homme. Et toute la saleté se rassemble là, ainsi que les germes, les lézards, les grenouilles et toutes les bêtes de la terre qui sont ainsi. Et remarquez qu’il s’agit d’animaux impurs: les asticots sont des bêtes qui aiment l’eau stagnante. Un asticot ne peut pas vivre dans l’eau claire. S’il y va, cela le tuera. Il doit être dans une eau stagnante.
+
+65 Et c’est ainsi qu’il en est avec beaucoup de ces parasites d’aujourd’hui. Ils ne peuvent vivre dans l’Eau fraîche du Saint-Esprit. C’est la raison pour laquelle ils demeurent aussi obstinément contre la Parole et disent qu’Elle se contredit Elle-même, qu’il n’y a rien en Elle. C’est parce qu’ils doivent avoir une espèce de réservoir d’eau stagnante pour y frétiller. C’est juste. Il en est de même avec les grenouilles, les lézards, les têtards et toutes ces bêtes. Ils doivent se tenir autour des marais ou des bassins d’eau stagnante pour pouvoir vivre, car c’est leur nature de vivre là-dedans. Et vous ne pouvez pas changer un animal tant que vous ne changez pas sa nature. Et vous ne pouvez faire en sorte qu’un homme voie la Parole de Dieu tant que sa nature n’est pas changée. Et lorsque sa nature est changée et qu’il devient un fils de Dieu et que le Saint-Esprit vient sur lui… C’est le Saint-Esprit qui a écrit la Parole de Dieu.
+
+66 Aujourd’hui j’ai discuté avec mon bon ami, le Dr Lee Vayle qui est ici maintenant. Il est plutôt un théologien. Et nous avons l’habitude d’avoir de bonnes et intéressantes discussions sur la Parole de Dieu. C’est très bien. Et il me demanda un jour si je pensais que la preuve initiale du Saint-Esprit était le parler en langues. C’était il y a bien des années. Je dis: «Non, je ne le vois pas de cette manière».
+
+> Il dit: «Moi non plus, bien que l’on m’ait enseigné cela». Puis il dit: «Quelle en serait la preuve, pensez-vous?».
+
+67 Je dis: «La preuve la plus parfaite à laquelle je puisse penser est l’amour». Et nous continuâmes à parler de cela. Puis je pensai: «Cela avait l’air d’être vraiment très bien». Je retins donc simplement ceci: «Si un homme a l’amour». Mais un jour, le Seigneur me redressa par une vision et Il dit que la preuve que des gens avaient l’Esprit était qu’ils pouvaient recevoir la Parole, non pas l’amour ni le parler en langues mais recevoir la Parole.
+
+68 Et alors le Dr Vayle me dit que c’était scripturaire, car dans Jean 14 Jésus dit: “Lorsque le Saint-Esprit sera sur vous, Il vous révélera ces choses que je vous ai enseignées et vous montrera les choses à venir”. C’est donc cela la véritable preuve du Saint-Esprit. Il ne m’a encore jamais rien dit de faux. C’est cela: la preuve que quelqu’un a le Saint-Esprit est qu’il peut croire la Parole, qu’il peut La recevoir. Jésus n’a jamais dit: “Lorsque le Saint-Esprit viendra, vous parlerez en langues”. Il n’a jamais dit que lorsque le Saint-Esprit viendrait vous feriez ces choses, mais Il a dit: “Il prendra ces choses qui viennent de moi et vous les montrera, et Il vous montrera les choses qui sont à venir”. Selon Jésus Lui-même, c’est donc cela la véritable preuve que quelqu’un possède le Saint-Esprit.
+
+69 Ainsi vous pouvez voir pourquoi les gens ont toutes ces sensations et font toutes ces choses par lesquelles ils vivent. Vous voyez, cela devient une dénomination ou un réservoir d’eau stagnante; or jamais une dénomination ne reposera sur la parfaite Parole de Dieu. Cela ne peut pas se faire car vous ne pouvez faire de Dieu une dénomination. Certainement pas!
+
+70 Comme preuve de cela, prenez un groupe d’hommes pouvant croire la Parole et laissez-les s’organiser. Vous savez, en moins d’une année vous aurez là un groupe de Rickies dont vous ne pourrez rien faire. Ils prennent de l’influence et vous ne pouvez rien faire là-contre. Ce n’est pas le système de Dieu. Ce n’est pas cela. Nous savons donc que cette chose est devenue morte et qu’elle devint une citerne et un endroit où chacun fait des compromis sur ceci ou cela afin d’attirer des membres ou de faire entrer des gens.
+
+71 Nous découvrons que ce système a commencé du temps d’Israël lorsqu’ils creusèrent des citernes. Et il y eut un homme et un groupe de pharisiens qui avaient creusé des citernes. Et ils avaient un homme nommé Hérode qui avait été proclamé gouverneur de l’état. Et il descendit pour écouter un homme qui ne s’était pas mêlé à leurs dénominations. C’était un prophète. Et jamais un prophète n’a eu à se mêler à une dénomination, mais au contraire il la hait.
+
+72 Ce prophète commença par déclarer: “Ne commencez pas à dire en vous-mêmes que vous avez Abraham pour père, car je vous dirai que de ces pierres Dieu est capable de susciter des enfants à Abraham”. Et ils lui amenèrent un dignitaire; ce dignitaire avait pris la femme de son frère et s’était marié avec elle. Et que fit ce prophète lorsqu’il fut devant lui? Ils pensèrent qu’il se compromettrait et dirait: “Maintenant, monsieur, vous avez une bonne place là-bas. Vous devriez… Je suis tellement heureux que vous soyez ici aujourd’hui pour m’écouter!”. Non, Jean s’avança directement vers lui et dit: “Tu n’avais pas le droit de la prendre”. La première chose qu’il fit fut de lui crier son péché à la figure.
+
+73 Vous voyez, les dénominations font des réservoirs d’eau stagnante où les hommes peuvent vivre avec des femmes et où leurs femmes peuvent se comporter pareillement, se couper les cheveux, porter des shorts et des choses ainsi et continuer de s’appeler des chrétiennes; mais une véritable fontaine de la puissance de Dieu (alléluia!) ne peut rester là car ces choses la font sortir. “Je suis la Fontaine des Eaux Vives. Ils m’ont abandonné pour se creuser des citernes”.
+
+74 Nous avons découvert ce qu’est une fontaine d’eau vive. Nous avons découvert ce qu’est une citerne. Maintenant, qu’est-ce qu’une fontaine d’eau vive? C’est un puits artésien. «Qu’est-ce qu’un puits artésien, frère Branham?». C’est un puits dont la source vient toujours d’en bas et fait jaillir l’eau à l’extérieur. C’est une source qui coule toujours. Elle ne dépend que d’elle-même et ne produit que de l’eau fraîche et propre, c’est cela un puits artésien, une fontaine d’eau vive. Elle n’est pas morte ni stagnante; elle est vivante. Elle change constamment, elle apporte toujours quelque chose de nouveau de ses ressources, elle est toujours en mouvement. Elle tire ses ressources de son lit, elle est une fontaine d’eaux vives jaillissantes et se purifiant d’elles-êmes. C’est de l’eau propre et pure. Cette fontaine ne dépend que d’elle-même; vous n’avez pas besoin d’attendre que les pluies viennent remplir son réservoir. Elle est toujours en train de bouillonner et de donner librement son eau. Vous n’avez pas besoin de pomper, ni de faire remonter le sceau, ni de tordre, ni de s’y joindre, ni rien. C’est simplement une fontaine d’eaux vives.
+
+75 Vous savez, si vous utilisez ces vieilles citernes, vous devez prendre une manivelle et la tourner, la tourner et la tourner encore, puis pomper et faire toutes ces choses juste pour faire sortir un peu de cette eau stagnante; mais une fontaine d’eaux vives donne son eau librement sans qu’on ait besoin de pomper, ni de se joindre, ni rien.
+
+76 Oh, que je suis heureux que nous ayons cette Fontaine! Oui, certainement! Elle n’a pas besoin d’être filtrée pour ramasser les parasites car elle plonge tellement profondément dans le roc qu’il n’y a aucun parasite là-bas. Elle n’a pas besoin d’avoir un chiffon qui pende là-dessus et serve de filtre éducatif (c’est juste). Elle n’a pas besoin d’un système mondial fait par les hommes, elle n’a pas besoin de la sagesse des dénominations pour vous dire au travers d’un psychiatre si vous êtes capable de prêcher ou non. Elle n’a pas de ces chiffons malpropres servant de filtre au-dessus d’elle. Elle les rejetterait dès que vous l’auriez posé dessus. Vous ne pouvez pas faire cela. Cette source bouillonne constamment. Si vous y posiez un de ces chiffons, elle le rejetterait entièrement d’un côté ou de l’autre. Elle n’a pas le temps de s’occuper d’un chiffon dénominationnel.
+
+77 Vous n’avez pas besoin de filtre ni de passoire, vous n’avez pas besoin de pomper ni de secouer ni quoi que ce soit d’autre. Elle se trouve simplement ici, elle bouillonne. Elle ne dépend pas des pluies locales pour la remplir. Les pluies, ce sont les réveils. Là où se trouve cette fontaine de Vie, là où se trouve le corps mort, les aigles s’assembleront. Vous n’avez pas besoin de pomper pour avoir un réveil, vous n’avez pas besoin de pomper pour avoir quoi que ce soit. La seule chose que vous ayez à faire est de venir à la fontaine. Elle est toujours remplie d’une bonne eau fraîche, et elle ne tarit jamais. Elle continue simplement de bouillonner.
+
+78 Vous n’avez pas besoin d’aller à la citerne et de dire: «Eh bien, s’il pleut et que l’eau descende du toit de la grange, nous aurons quelque chose à boire». Mon Dieu, mon Dieu! Ce n’est pas cela. Ce puits artésien fait constamment jaillir une bonne eau fraîche. Vous pouvez compter dessus. Vous n’avez pas besoin de dire: «Eh bien, je vais aller à cette vieille citerne. Nous avions l’habitude de boire de son eau, mais il n’a pas plu depuis longtemps. Je pense qu’elle doit être sèche».
+
+79 C’est ainsi que sont certains de ces systèmes humains. Vous pouvez entrer là-dedans si vous avez un grand programme, une grosse affaire que vous avez vendue, quelque chose qui paraisse très grand, s’il y a de grandes parties de plaisir et toutes ces choses comme les jeux de banco et ces réunions dans les sous-sols; ces distractions rempliraient une maison entière de gens. Mais si vous allez vers cette fontaine qui bouillonne constamment, vous trouverez là des gens venus boire à longs traits cette eau fraîche; vous pouvez compter sur cette source. Les gens disent: «Cela fait dix ans qu’ils n’ont pas eu de réveil». Si c’est cette fontaine qui vous fait vivre, il y a constamment un réveil en cours.
+
+80 C’est comme ce qu’a dit ce petit Gallois. Un jour, alors qu’ils avaient ce réveil au pays de Galles, quelques dignitaires des Etats-Unis, de ces grands docteurs de la théologie, vinrent au pays de Galles pour voir de quoi il s’agissait et où cela se passait. Ils avaient donc des cols retournés et des chapeaux haut-de-forme et ils descendaient la rue, et un petit policier vint à passer, tenant à la main son vieux petit bâton qu’il faisait tournoyer en sifflant: «A la Croix où mourut mon Sauveur, c’est là, tandis que je pleurais pour être purifié de mon péché, que le Sang fut appliqué dans mon coeur; gloire à Son Nom!»; et il marchait ainsi dans la rue. Ils dirent donc: «On dirait un homme religieux, allons le questionner». Et ils dirent: «Monsieur!».
+
+> Il dit: «Oui, Monsieur!».
+
+> Ils dirent: «Nous venons des Etats-Unis. Nous sommes une délégation. Nous sommes venus ici pour étudier le réveil du pays de Galles, comme on l’appelle. Nous sommes docteurs en théologie et nous sommes venus ici pour examiner cela. Nous voudrions savoir où a lieu ce réveil».
+
+> Il dit: «Messieurs, vous y êtes arrivés. Je suis le réveil gallois. Amen! Le réveil du pays de Galles est en moi! Voici où il se trouve!».
+
+81 C’est ainsi qu’il en est lorsque vous vivez par cette Fontaine des Eaux Vives. Elle vit tout le temps, elle bouillonne encore, encore et encore; elle ne s’arrête jamais. Il n’y a pas besoin d’aller voir s’il y a de l’eau, s’il a plu il n’y a pas très longtemps; il n’y a pas besoin de faire cela. C’est la Fontaine d’Eau Vive.
+
+82 Comme je l’ai dit, elle donne son eau librement. Vous n’avez pas besoin d’y poser des chiffons éducatifs avant d’envoyer quelqu’un prêcher, vous n’avez pas besoin de voir s’il épelle bien ses mots, s’il les prononce de la bonne manière, s’il utilise les noms, les pronoms, les adjectifs et toutes ces choses de manière correcte. Beaucoup d’entre eux ne savent même pas ce que c’est. Mais cela ne les empêche pas de vivre à la Fontaine.
+
+83 Cette source ne dépend pas des pluies locales pour la remplir, elle ne dépend pas non plus des réveils locaux, elle n’a pas besoin de cela car sa puissance et sa pureté se trouvent en elle-même. Là où se trouve la Parole, là est Son pouvoir propre. Lorsqu’un homme peut La recevoir dans son coeur, il reçoit en même temps Sa pureté, Son pouvoir. Ces choses se trouvent dans la Parole Elle-même. Elle fait
 
 CITERNES CREVASSEES 13
 jaillir la Vie.
@@ -784,7 +442,7 @@ Cette femme dit: “Jacob, notre père, creusa ce puits, il but de son eau et so
     CITERNES CREVASSEES    16
 aussi; n’est-elle donc pas assez bonne?”.
 106 Il dit: “Mais après que vous ayez tiré de cette eau, vous avez encore soif et vous
-devez revenir ici pour en avoir. Mais l’eau que je vous donne vient d’une Fontaine, d’un
+devenez revenir ici pour en avoir. Mais l’eau que je vous donne vient d’une Fontaine, d’un
 Geyser, elle jaillit de l’intérieur et vous n’avez pas besoin de venir ici, elle se trouve juste
 en vous”.
 107 Remarquez, lorsqu’elle eut découvert qu’une Fontaine scripturaire lui avait parlé au
@@ -903,7 +561,7 @@ Louons-Le avec des psaumes; que tout ce qui respire loue le Seigneur, louons le
 Seigneur!”. Dieu se réjouit en Son peuple. Qu’ils apprennent à dire «Amen!» lorsque
 quelque chose de juste est dit.
 121 Pourquoi ne pas se détourner de ce système et de cette citerne du monde pour
-aller vers le fidèle système de Dieu, le Puits artésien, Jésus-Christ? Pourquoi ne vous
+aller vers le fidèle système de Dieu, le Puits artésien, Jésus-Christ? Pourquoi ne vous-
 tournez- vous pas vers Lui? Alors que Dieu nous approvisionne abondamment en joie, en
 louanges et en satisfaction. Le calme de mes nerfs vient de Dieu. Lorsque je n’en peux
 plus, je trouve ma satisfaction en Christ, non dans une cigarette, non dans les choses du
@@ -947,7 +605,7 @@ je veux boire cette Eau fraîche qui emplit mon âme de joie. Il se peut que je 
 que je ne puisse même plus faire une autre tournée et que je ne puisse plus aller nulle
 part, alors je peux m’agenouiller, poser mon doigt sur une promesse et dire:
 «Seigneur Dieu, Tu es ma Force, Tu es ma Satisfaction, Tu es mon Tout». Je peux
-alors commencer à sentir quelque chose qui bouillonne là, à l’intérieur de moi, c’est alors
+lors commencer à sentir quelque chose qui bouillonne là, à l’intérieur de moi, c’est alors
 que je sors de cet abattement.
 127 Alors que j’avais passé cinquante ans, je me réveillai un matin… Vous savez
 comment c’est, vous pouvez à peine sortir un pied du lit. Oh, je n’arrivais même pas à faire
@@ -966,19 +624,19 @@ qui est assis ici se souvient de l’endroit. Et dans cette grande salle, ce pas
 homme allait mourir. Son foie avait éclaté, sa rate était sortie de sa place; des tonnes de
 matériel étaient tombées sur lui.
 129 Au déjeuner, je m’assis pour parler avec ma femme. Je dis: «Chérie, sais-tu ce que
-Jésus ferait s’Il était là?». Lorsque cet homme me soutenait (je crois cette Parole), c’était
-Christ qu’il soutenait. Je dis: «C’est un coup du diable». Si Jésus était là, Il irait poser Ses
-mains saintes sur lui et ce garçon irait bien. Peu importe que son foie ait éclaté, il irait bien
-car Jésus viendrait ici sachant exactement qui Il est. Jésus connaissait Son appel, les
-Ecritures avaient raison; au travers de Lui, Elles trouvaient qu’Il savait qui Il était et
-il n’y avait pas l’ombre d’un doute à ce sujet. Il poserait Ses mains sur lui et dirait:
-«Mon fils, sois guéri et sors de là». Et je dis: «Il n’y aurait alors pas assez de démons dans
-l’enfer pour tuer ce garçon. Il irait bien». Mais je dis: «Vois-tu, chérie, Il était Jésus, les
-Mains saintes de Dieu. Moi, je suis un pécheur; je suis né par le moyen du sexe. Mon père
-et ma mère étaient tous deux des pécheurs. Et je ne suis qu’un bon à rien. Mais sais-tu
-quoi? Si le Seigneur me donnait une vision et m’envoyait là-bas, ce serait différent. Alors
-j’irais, je poserais mes mains sur lui. S’Il me donnait une vision ce garçon sortirait de ce
-lit».
+Jésus ferait s’Il était là?». Lorsque cet homme me soutenait (je crois cette Parole),
+c’était Christ qu’il soutenait. Je dis: «C’est un coup du diable». Si Jésus était là, Il irait
+poser Ses mains saintes sur lui et ce garçon irait bien. Peu importe que son foie ait éclaté,
+il irait bien car Jésus viendrait ici sachant exactement qui Il est. Jésus connaissait
+Son appel, les Ecritures avaient raison; au travers de Lui, Elles trouvaient qu’Il savait
+qui Il était et il n’y avait pas l’ombre d’un doute à ce sujet. Il poserait Ses mains sur lui
+et dirait: «Mon fils, sois guéri et sors de là». Et je dis: «Il n’y aurait alors pas assez de
+démons dans l’enfer pour tuer ce garçon. Il irait bien». Mais je dis: «Vois-tu, chérie, Il était
+Jésus, les Mains saintes de Dieu. Moi, je suis un pécheur; je suis né par le moyen du
+sexe. Mon père et ma mère étaient tous deux des pécheurs. Et je ne suis qu’un bon à
+rien. Mais sais-tu quoi? Si le Seigneur me donnait une vision et m’envoyait là-bas, ce
+serait différent. Alors j’irais, je poserais mes mains sur lui. S’Il me donnait une vision ce
+garçon sortirait de ce lit».
 130 Puis je me mis à penser: «Après tout, si c’était une vision, que serait-ce? Ce serait les
 mêmes mains malpropres qui se poseraient sur lui, le même homme qui prierait pour lui et
 poserait ses mêmes mains malpropres sur lui». Puis je pensai encore: «Je suis Son
@@ -1207,27 +865,27 @@ moment-là, ils seront simplement dans le repos.
 
         http://www.cmpp.ch
 
-    CITERNES CREVASSEES    24
-        Prenez avec vous le Nom de Jésus
-        Tel un bouclier vous préservant de tout piège;
-        Et lorsque les tentations autour de vous s’assemblent,
-        Murmurez simplement ce saint Nom dans la prière.
+CITERNES CREVASSEES    24
+    Prenez avec vous le Nom de Jésus
+    Tel un bouclier vous préservant de tout piège;
+    Et lorsque les tentations autour de vous s’assemblent,
+    Murmurez simplement ce saint Nom dans la prière.
 160 Les démons fuiront alors. Souvenez-vous simplement que nous espérons vous
 rencontrer ici dimanche matin. Amenez les malades et les affligés. Je prierai pour vous. A
 présent, priez pour moi. Voulez-vous le faire? Dites: «Amen!». [l’assemblée dit: «Amen!»
 — N.d.R.] Je prierai que Dieu vous bénisse.
-        Précieux Nom (précieux Nom). Oh, combien il est doux!
-        Espérance de la terre et joie du Ciel;
-        Précieux Nom, oh, quel doux Nom!
-        Espérance de la terre et joie du Ciel.
-        Au Nom de Jésus prosternés,
-        Tombez agenouillés à Ses pieds,
-        Dans le Ciel, Roi des rois nous Le couronnerons
-        Lorsque notre voyage sera achevé.
-        Précieux Nom (précieux Nom; n’est-il pas doux et précieux?)
-        Espérance de la terre et joie du Ciel;
-        Précieux Nom (précieux Nom), oh quel doux Nom! (Oh, quel doux Nom!)
-        Espérance de la terre et joie du Ciel.
+    Précieux Nom (précieux Nom). Oh, combien il est doux!
+    Espérance de la terre et joie du Ciel;
+    Précieux Nom, oh, quel doux Nom!
+    Espérance de la terre et joie du Ciel.
+    Au Nom de Jésus prosternés,
+    Tombez agenouillés à Ses pieds,
+    Dans le Ciel, Roi des rois nous Le couronnerons
+    Lorsque notre voyage sera achevé.
+    Précieux Nom (précieux Nom; n’est-il pas doux et précieux?)
+    Espérance de la terre et joie du Ciel;
+    Précieux Nom (précieux Nom), oh quel doux Nom! (Oh, quel doux Nom!)
+    Espérance de la terre et joie du Ciel.
 161 Il m’est toujours très difficile de vous quitter. Bien que je sache que vous brûlez tous,
 mais il y a quelque chose à ce sujet… Chantons encore une fois, voulez-vous? N’est-ce
 pas? Soeur, voulez-vous jouer «Béni soit le lien qui nous unit»? Combien connaissent ce
@@ -1237,20 +895,17 @@ joignaient à autour du Tabernacle, tandis que nous chantions ce chant. Béni so
 nous unit. J’en ai enseveli beaucoup là-bas au cimetière. Ils attendent. Je les reverrai. Je
 les ai vus un jour dans une vision tandis que je regardai au-delà du voile; ils sont là-bas.
 Inclinons nos têtes tandis nous chantons.
-        Béni soit le lien qui unit
-        Nos coeurs dans l’amour chrétien.
-        La communion de nos pensées de même nature,
-        Est pareille à celle d’En-haut.
-        Lorsque (maintenant, tendez la main à quelqu’un et tenez la sienne) nous devons
-        nous séparer,
-        Nous ressentons une peine intérieure.
-        Mais nous serons toujours unis de coeur,
-        Et nous espérons nous rencontrer à nouveau.
-    Alors que nos têtes sont inclinées, je remets maintenant le service entre les mains du
+    Béni soit le lien qui unit
+    Nos coeurs dans l’amour chrétien.
+    La communion de nos pensées de même nature,
+    Est pareille à celle d’En-haut.
+    Lorsque (maintenant, tendez la main à quelqu’un et tenez la sienne) nous devons
+    nous séparer,
+    Nous ressentons une peine intérieure.
+    Mais nous serons toujours unis de coeur,
+    Et nous espérons nous rencontrer à nouveau.
+Alors que nos têtes sont inclinées, je remets maintenant le service entre les mains du
 pasteur, et il nous congédiera dans la prière.
-
-
-
 
 
 

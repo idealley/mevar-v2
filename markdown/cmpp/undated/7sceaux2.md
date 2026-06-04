@@ -1,544 +1,263 @@
+---
+source: "cmpp"
+sermon_id: "7sceaux2"
+title: "La Révélation des Sept Sceaux"
+subtitle: "La Brèche entre les sept âges de l’Eglise et les sept Sceaux"
+date: "1963-03-17"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham introduit l'étude des sept Sceaux de l'Apocalypse, expliquant la brèche entre les âges de l'Église et les Sceaux. Il relate une vision où il reçoit l'épée du Roi et souligne que seul l'Agneau peut ouvrir le Livre scellé. Il annonce que la révélation des mystères aura lieu au temps du septième ange, à la fin des âges de l'Église."
+tags:
+  - "sept sceaux"
+  - "apocalypse"
+  - "révélation"
+  - "agneau"
+  - "rédemption"
+  - "septième ange"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Jean"
+  - "Adam"
+  - "Ève"
+  - "Noé"
+  - "Lot"
+  - "Abraham"
+  - "Enoch"
+  - "Géronimo"
+  - "Cochise"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Phoenix"
+  - "Sabino Canyon"
+  - "Tucson"
+  - "Tombstone"
+themes:
+  - "révélation des mystères"
+  - "rédemption"
+  - "sceau du Saint-Esprit"
+  - "chute de l'homme"
+  - "autorité perdue"
+  - "fin des temps"
+  - "septième ange"
+pdf_url: "http://cmpp.ch/7sceaux2.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Actes 151"
+  - "Apocalypse 1"
+  - "Apocalypse 10"
+  - "Apocalypse 11"
+  - "Apocalypse 5"
+  - "Genèse 49"
+  - "Jean 161"
+  - "Lévitique 25"
+  - "Malachie 4"
+  - "Romains 8"
+  - "Zacharie 3"
+  - "Zacharie 4"
+---
 BROCHURE N° 2
 
-
-
-
-REVELATION
-DES
-SEPT SCEAUX
+# RÉVÉLATION DES SEPT SCEAUX
 
 PAR
 
 WILLIAM MARRION BRANHAM
 
+---
 
+## LA BRECHE
 
+### LA RÉVÉLATION DES SEPT SCEAUX — LA BRECHE 2
 
+**LA BRECHE**
+**entre les sept âges de l’Eglise et les sept Sceaux**
+*(The Breach Between The Seven Church Ages And The Seven Seals)*
 
+**17 mars 1963, soir**
+**Branham Tabernacle**
+**Jeffersonville — Indiana, U.S.A.**
 
+1 Bonsoir, mes amis. C’est un grand privilège d’être de retour ici ce soir dans la maison du Seigneur pour le service, vivant encore de la Manne reçue ce matin où nos âmes furent abondamment bénies par Sa glorieuse présence.
 
+2 Ce soir nous allons commencer en parlant sur ce sujet: La Brèche entre les sept âges de l’Eglise et les sept Sceaux. Comme je le disais cet après-midi à un ami: peut-être, si le Seigneur le permet (c’est-à-dire s’Il ne me prend pas à Sa Maison, si je ne vais pas à l’étranger ou autre chose) je pourrais revenir ici au cours de cet été, car j’aimerais parler aussi des sept dernières Trompettes parce qu’elles relient le tout ensemble. Puis il y a les sept derniers Fléaux; tout cela se fond ensemble comme nous le verrons plus loin.
 
+3 Il se peut que je parle assez longuement ce soir. Malgré toutes les prédications que j’ai faites à Phoenix, je n’ai pas été enroué une seule fois; je crois que j’ai assuré vingt-sept services sans être enroué; mais ici, le climat est mauvais. Nous sommes dans une vallée et quelque soit le prédicateur qui parle il attrape un mal de gorge.
 
+4 Une fois, un médecin de mes amis regarda ma gorge pour voir ce qui n’allait pas; il ne trouva rien, à part un peu de cal sur les cordes vocales. Cela vient en prêchant. On s’y habitue, vous savez. Je me sentis rassuré, du moment que je pouvais continuer à prêcher. Cela ne fait rien puisque c’est pour le Royaume de Dieu.
 
-LA BRECHE
+5 Ainsi, nous pouvons ne pas porter dans notre corps les stigmates de Jésus-Christ comme le fit Paul après avoir été battu, mais nous pouvons porter une marque qui vient en prêchant et en élevant notre voix contre ce qui est mal. Ainsi sommes-nous reconnaissants de ne plus être battus comme ils le furent autrefois, du moins jusqu’à présent.
 
-LA REVELATION DES SEPT SCEAUX — LA BRECHE 2
+6 Combien y en a-t-il ici qui ont lu ou entendu la prédication *Messieurs, est-ce l’heure?* Vous savez, la prédication *Messieurs, est-ce l’heure?* Si vous ne l’avez pas entendue, alors je souhaite que d’une manière ou d’une autre vous puissiez l’entendre. C’est quelque chose qui m’avait un peu troublé.
 
-        LA BRECHE
-        entre les sept âges de l’Eglise et les sept Sceaux
-        (The Breach Between The Seven Church Ages And The Seven Seals)
+7 J’étais sur le point de tout laisser tomber avant de commencer le service. Il y a environ une dizaine de jours j’étais tellement troublé que je ne voulais plus prêcher ni présider quoi que ce soit parce que je ne comprenais plus. Cela paraissait être une chose mauvaise, mais je ne savais pas ce que c’était. Aussi un matin de bonne heure suis-je monté dans le Sabino Canyon, qui n’est éloigné de la maison que de trente ou quarante minutes en auto, par une route qui durant trente miles grimpe dans la montagne. C’est un endroit étrange là-haut. Il peut faire ici dans le désert 25 ou 30°C, et en une demi-heure je peux être dans plus de deux mètres de neige au sommet de la montagne.
 
+8 Il n’y a pas longtemps nous étions à Phoenix où il faisait environ -2°C (ils avaient chauffé la piscine et des gens y nageaient) et après quarante minutes de voiture il faisait 40° sous zéro à Flagstaff. Cela vient de la différence entre les courants d’altitude et le désert. C’est très sain pour les asthmatiques.
 
+9 Je suis donc allé dans le Canyon, et ensuite j’ai grimpé aussi haut que je le pouvais. Et là j’ai demandé au Seigneur ce que tout cela signifiait. J’étais très embarrassé et ne savais plus que faire.
 
-       17 mars 1963, soir
-       Branham Tabernacle
-Jeffersonville — Indiana, U.S.A.
+10 Alors pendant que je priais, une chose étrange est arrivée. Je veux être honnête. Il est possible que je me sois endormi. Cela aurait pu être une extase ou une vision. J’incline plutôt à croire que ce fut une vision. J’avais les mains levées, disant: «Seigneur, que signifie cette explosion, et qui sont ces sept anges dans cette constellation pyramidale qui me soulevèrent de la terre en m’entraînant vers l’Est? Que veut dire tout cela?».
 
+11 Tandis que j’étais en prière, quelque chose arriva, quelque chose me tomba dans la main (je sais que si vous ne comprenez pas les choses spirituelles, ceci peut vous paraître étrange), mais quelque chose me tomba dans la main; je regardai: c’était une épée. La poignée était faite des perles les plus belles que j’aie jamais vues. La garde (vous savez comme je le suppose c’est ce qui protège les mains dans un duel) était d’or; et la lame n’était pas très longue, mais elle était coupante comme un rasoir; elle étincelait comme de l’argent poli. C’était la chose la plus belle que j’eusse jamais vue. En la prenant, je vis qu’elle s’adaptait exactement à ma main. Je me dis: «N’est-elle pas belle?». Je la regardais et pensais: «J’ai toujours eu peur des épées et je suis heureux de ne pas avoir vécu à une époque où on les utilisait parce que j’ai peur même d’un couteau». Et je pensais: «Que pourrais-je bien faire de cela?».
 
+12 Et pendant que je la tenais dans ma main, une voix vint de quelque part disant: «C’est l’épée du Roi!». Puis la vision me quitta.
 
+13 Je me demandais ce que signifiait: «C’est l’épée du Roi!». Et je pensai: «Si cette voix avait dit: ‹C’est l’épée D’UN roi›, j’aurais peut-être compris, mais elle avait dit: ‹L’épée DU Roi›». Je n’en avais peut-être pas le droit mais je pensai: «Il n’y en a qu’UN qui soit le Roi: c’est Dieu. Et Son Epée est plus tranchante qu’une épée quelconque à deux tranchants… Si vous demeurez en moi et que mes paroles demeurent en vous…». Vous comprenez?
 
-1 Bonsoir, mes amis. C’est un grand privilège d’être de retour ici ce soir dans la maison du
-Seigneur pour le service, vivant encore de la Manne reçue ce matin où nos âmes furent
-abondamment bénies par Sa glorieuse présence.
-2 Ce soir nous allons commencer en parlant sur ce sujet: La Brèche entre les sept âges de
-l’Eglise et les sept Sceaux. Comme je le disais cet après-midi à un ami: peut-être, si le Seigneur le
-permet (c’est-à-dire s’Il ne me prend pas à Sa Maison, si je ne vais pas à l’étranger ou autre
-chose) je pourrais revenir ici au cours de cet été, car j’aimerais parler aussi des sept dernières
-Trompettes parce qu’elles relient le tout ensemble. Puis il y a les sept derniers Fléaux; tout cela se
-fond ensemble comme nous le verrons plus loin.
-3 Il se peut que je parle assez longuement ce soir. Malgré toutes les prédications que j’ai faites
-à Phoenix, je n’ai pas été enroué une seule fois; je crois que j’ai assuré vingt-sept services sans
-être enroué; mais ici, le climat est mauvais. Nous sommes dans une vallée et quelque soit le
-prédicateur qui parle il attrape un mal de gorge.
-4 Une fois, un médecin de mes amis regarda ma gorge pour voir ce qui n’allait pas; il ne trouva
-rien, à part un peu de cal sur les cordes vocales. Cela vient en prêchant. On s’y habitue, vous
-savez. Je me sentis rassuré, du moment que je pouvais continuer à prêcher. Cela ne fait rien
-puisque c’est pour le Royaume de Dieu.
-5 Ainsi, nous pouvons ne pas porter dans notre corps les stigmates de Jésus-Christ comme le
-fit Paul après avoir été battu, mais nous pouvons porter une marque qui vient en prêchant et en
-élevant notre voix contre ce qui est mal. Ainsi sommes-nous reconnaissants de ne plus être battus
-comme ils le furent autrefois, du moins jusqu’à présent.
-6 Combien y en a-t-il ici qui ont lu ou entendu la prédication Messieurs, est-ce l’heure? Vous
-savez, la prédication Messieurs, est-ce l’heure? Si vous ne l’avez pas entendue, alors je souhaite
-que d’une manière ou d’une autre vous puissiez l’entendre. C’est quelque chose qui m’avait un
-peu troublé.
-7 J’étais sur le point de tout laisser tomber avant de commencer le service. Il y a environ une
-dizaine de jours j’étais tellement troublé que je ne voulais plus prêcher ni présider quoi que ce soit
-parce que je ne comprenais plus. Cela paraissait être une chose mauvaise, mais je ne savais pas
-ce que c’était. Aussi un matin de bonne heure suis-je monté dans le Sabino Canyon, qui n’est
-éloigné de la maison que de trente ou quarante minutes en auto, par une route qui durant trente
-miles grimpe dans la montagne. C’est un endroit étrange là-haut. Il peut faire ici dans le désert 25
-ou 30°C, et en une demi-heure je peux être dans plus de deux mètres de neige au sommet de la
-montagne.
-8 Il n’y a pas longtemps nous étions à Phoenix où il faisait environ -2°C (ils avaient chauffé la
-piscine et des gens y nageaient) et après quarante minutes de voiture il faisait 40° sous zéro à
-Flagstaff. Cela vient de la différence entre les courants d’altitude et le désert. C’est très sain pour
-les asthmatiques.
+14 Je pensai au duel. Bien que je ne comprenne aucune des règles du duel, pour autant que je le sache, chacun essaie de frapper l’autre de son épée et si pour finir mon adversaire et moi bloquons nos épées l’une contre l’autre mon épée détourne la force de mon adversaire qui essaie de me percer le coeur, ce que j’essaie de faire moi aussi. Mais nos épées sont entrecroisées et celui qui peut repousser l’autre peut diriger son épée tout droit vers le coeur de son adversaire. C’est pareil avec l’épée de la Parole: il faut une main pleine d’une foi forte pour retenir l’ennemi et lui plonger son épée dans le coeur.
 
-        http://www.cmpp.ch
+15 Je ne savais pas ces choses mais je vous ai dit tout ce que j’ai reçu de Lui et que je peux vous dire. N’est-ce pas notre Seigneur qui disait que tout ce qu’Il avait reçu du Père Il l’avait dit et n’en avait rien retenu? Ainsi nous voulons faire ces choses simplement comme elles viennent.
 
-LA REVELATION DES SEPT SCEAUX — LA BRECHE 3
-9 Je suis donc allé dans le Canyon, et ensuite j’ai grimpé aussi haut que je le pouvais. Et là j’ai
-demandé au Seigneur ce que tout cela signifiait. J’étais très embarrassé et ne savais plus que
-faire.
-10 Alors pendant que je priais, une chose étrange est arrivée. Je veux être honnête. Il est
-possible que je me sois endormi. Cela aurait pu être une extase ou une vision. J’incline plutôt à
-croire que ce fut une vision. J’avais les mains levées, disant: «Seigneur, que signifie cette
-explosion, et qui sont ces sept anges dans cette constellation pyramidale qui me soulevèrent de la
-terre en m’entraînant vers l’Est? Que veut dire tout cela?».
-11 Tandis que j’étais en prière, quelque chose arriva, quelque chose me tomba dans la main (je
-sais que si vous ne comprenez pas les choses spirituelles, ceci peut vous paraître étrange), mais
-quelque chose me tomba dans la main; je regardai: c’était une épée. La poignée était faite des
-perles les plus belles que j’aie jamais vues. La garde (vous savez comme je le suppose c’est ce
-qui protège les mains dans un duel) était d’or; et la lame n’était pas très longue, mais elle était
-coupante comme un rasoir; elle étincelait comme de l’argent poli. C’était la chose la plus belle que
-j’eusse jamais vue. En la prenant, je vis qu’elle s’adaptait exactement à ma main. Je me dis:
-«N’est-elle pas belle?». Je la regardais et pensais: «J’ai toujours eu peur des épées et je suis
-heureux de ne pas avoir vécu à une époque où on les utilisait parce que j’ai peur même d’un
-couteau». Et je pensais: «Que pourrais-je bien faire de cela?».
-12 Et pendant que je la tenais dans ma main, une voix vint de quelque part disant: «C’est l’épée
-du Roi!». Puis la vision me quitta.
-13 Je me demandais ce que signifiait: «C’est l’épée du Roi!». Et je pensai: «Si cette voix avait dit:
-‹C’est l’épée D’UN roi›, j’aurais peut-être compris, mais elle avait dit: ‹L’épée DU Roi›». Je n’en
-avais peut-être pas le droit mais je pensai: «Il n’y en a qu’UN qui soit le Roi: c’est Dieu. Et Son
-Epée est plus tranchante qu’une épée quelconque à deux tranchants… Si vous demeurez en moi
-et que mes paroles demeurent en vous…». Vous comprenez?
-14 Je pensai au duel. Bien que je ne comprenne aucune des règles du duel, pour autant que je le
-sache, chacun essaie de frapper l’autre de son épée et si pour finir mon adversaire et moi
-bloquons nos épées l’une contre l’autre mon épée détourne la force de mon adversaire qui essaie
-de me percer le coeur, ce que j’essaie de faire moi aussi. Mais nos épées sont entrecroisées et
-celui qui peut repousser l’autre peut diriger son épée tout droit vers le coeur de son adversaire.
-C’est pareil avec l’épée de la Parole: il faut une main pleine d’une foi forte pour retenir l’ennemi et
-lui plonger son épée dans le coeur.
-15 Je ne savais pas ces choses mais je vous ai dit tout ce que j’ai reçu de Lui et que je peux
-vous dire. N’est-ce pas notre Seigneur qui disait que tout ce qu’Il avait reçu du Père Il l’avait dit et
-n’en avait rien retenu? Ainsi nous voulons faire ces choses simplement comme elles viennent.
-16 Si donc vous voulez être remplis de sagesse et prier, je suis sûr que bientôt vous
-comprendrez certaines choses. J’espère que quelque chose vous sera révélé.
-17 Maintenant ouvrons nos Bibles au chapitre 5 de l’Apocalypse. Demain soir nous verrons le
-premier Sceau. Les quatre premiers Sceaux sont ouverts par quatre cavaliers, un dans chacun
-des Sceaux qui frappent la terre. Je pense que les quatre premiers jours passeront assez
-rapidement. Mais ensuite le cinquième, le sixième et le septième Sceau dureront probablement
-très longtemps. C’est pourquoi je vous donnerai peut-être un peu de temps pour vous reposer.
-18 Nous pensons commencer la réunion à sept heures tous les soirs de cette semaine et je
-monterai en chaire à 7h.30 exactement. Je ne connais pas l’heure exacte à laquelle nous
-terminerons parce que je ne sais pas qui est le premier cavalier. Je ne connais pas le second, ni le
-troisième, le quatrième, le cinquième, le sixième ou le septième Sceau. En ce moment je ne les
-connais pas. Je suis entièrement dépendant de Lui.
-19 Essayons de commencer cette semaine, par la grâce de Dieu et avec Son aide, croyant que
-si vous comprenez profondément… Vous savez, dans les visions vous ne pouvez pas révéler les
-choses avant que cela ne vous soit permis. Combien de fois m’avez-vous entendu dire: «Vous
-entrez dans une maison. Peut-être qu’un chapeau doit être posé là car cet enfant malade ne sera
-pas guéri avant que tout se présente comme cela vous a été montré dans la vision». Je ne peux
-pas le leur dire, ni poser le chapeau moi-même. Il doit y être mis d’une autre façon. Quelqu’un
-d’autre doit le prendre et le changer de place et quand tout est en ordre les choses peuvent être
+16 Si donc vous voulez être remplis de sagesse et prier, je suis sûr que bientôt vous comprendrez certaines choses. J’espère que quelque chose vous sera révélé.
 
-        http://www.cmpp.ch
+17 Maintenant ouvrons nos Bibles au chapitre 5 de l’Apocalypse. Demain soir nous verrons le premier Sceau. Les quatre premiers Sceaux sont ouverts par quatre cavaliers, un dans chacun des Sceaux qui frappent la terre. Je pense que les quatre premiers jours passeront assez rapidement. Mais ensuite le cinquième, le sixième et le septième Sceau dureront probablement très longtemps. C’est pourquoi je vous donnerai peut-être un peu de temps pour vous reposer.
 
-LA REVELATION DES SEPT SCEAUX — LA BRECHE 4
-révélées. C’est pourquoi soyez dans la prière.
-20 Avant que nous ouvrions le Livre, parlons-Lui en inclinant nos têtes. Seigneur Jésus, nous
-sommes totalement insuffisants. Nous ne voulons d’aucune manière approcher ce Livre Sacré
-dans cette heure très sainte alors que les âmes attendent de connaître leur destinée sans Te
-demander, Seigneur, que Celui qui Seul peut révéler ce Livre vienne maintenant bénir les faibles
-efforts de Ton serviteur.
-21 Bénis la Parole au fur et à mesure qu’Elle est annoncée. Qu’Elle puisse aller dans la
-puissance de l’Esprit. Et prépare le terrain spirituel de ceux qui ont faim et soif de connaître la
-justice et la volonté de Dieu; puisse-t-Elle tomber dans la bonne terre et produire du fruit selon son
-espèce. Accorde-le, Seigneur! Toute la gloire T’en reviendra! Que les affamés et les assoiffés
-trouvent ce soir la nourriture et le breuvage dans Ta Parole. Nous Te le demandons au Nom de
-Jésus de qui vient la révélation. Amen.
-22 Prenons le 5ème chapitre de l’Apocalypse; ici ce ne sont pas les sept Sceaux. C’est la brèche
-entre les âges de l’Eglise et les sept Sceaux. Il y avait un 4ème chapitre dans lequel une chose
-nous a été révélée et qui aura lieu après que l’Eglise soit enlevée. Car l’Eglise est enlevée au 4ème
-chapitre de l’Apocalypse et ne reparaît plus avant le 19ème chapitre. C’est pourquoi l’Eglise ne
-passe pas par la tribulation. Je sais que cela est contraire à ce que m’ont dit presque tous les
-enseignants auxquels j’ai parlé, mais ce n’est pas volontairement que je suis en désaccord avec
-eux. Je désire être votre frère et je dois enseigner exactement ce que je vois. Si je ne le fais pas,
-cela ne correspondrait plus, vous comprenez. Que l’Eglise soit enlevée avant ou après la
-tribulation, je veux partir avec elle; c’est cela le principal.
-23 Ainsi ces choses nous les présumons seulement, parce qu’étant sans instruction je cherche
-les types. Je regarde et je vois ce qui était dans l’Ancien Testament, lequel est un type ou une
-ombre du Nouveau Testament; c’est ainsi que je peux avoir quelque idée de ce qu’est le Nouveau
-Testament. De même, l’entrée de Noé dans l’arche avant le commencement de la tribulation est
-un type pour nous. Mais avant même que Noé entrât dans l’arche, Enoch fut enlevé avant que rien
-n’arrivât. Et Lot fut appelé hors de Sodome avant le début de la tribulation, de la destruction. Mais
-Abraham fut toujours en dehors de cela. Vous voyez: c’est un type.
+18 Nous pensons commencer la réunion à sept heures tous les soirs de cette semaine et je monterai en chaire à 7h.30 exactement. Je ne connais pas l’heure exacte à laquelle nous terminerons parce que je ne sais pas qui est le premier cavalier. Je ne connais pas le second, ni le troisième, le quatrième, le cinquième, le sixième ou le septième Sceau. En ce moment je ne les connais pas. Je suis entièrement dépendant de Lui.
+
+19 Essayons de commencer cette semaine, par la grâce de Dieu et avec Son aide, croyant que si vous comprenez profondément… Vous savez, dans les visions vous ne pouvez pas révéler les choses avant que cela ne vous soit permis. Combien de fois m’avez-vous entendu dire: «Vous entrez dans une maison. Peut-être qu’un chapeau doit être posé là car cet enfant malade ne sera pas guéri avant que tout se présente comme cela vous a été montré dans la vision». Je ne peux pas le leur dire, ni poser le chapeau moi-même. Il doit y être mis d’une autre façon. Quelqu’un d’autre doit le prendre et le changer de place et quand tout est en ordre les choses peuvent être révélées. C’est pourquoi soyez dans la prière.
+
+20 Avant que nous ouvrions le Livre, parlons-Lui en inclinant nos têtes. Seigneur Jésus, nous sommes totalement insuffisants. Nous ne voulons d’aucune manière approcher ce Livre Sacré dans cette heure très sainte alors que les âmes attendent de connaître leur destinée sans Te demander, Seigneur, que Celui qui Seul peut révéler ce Livre vienne maintenant bénir les faibles efforts de Ton serviteur.
+
+21 Bénis la Parole au fur et à mesure qu’Elle est annoncée. Qu’Elle puisse aller dans la puissance de l’Esprit. Et prépare le terrain spirituel de ceux qui ont faim et soif de connaître la justice et la volonté de Dieu; puisse-t-Elle tomber dans la bonne terre et produire du fruit selon son espèce. Accorde-le, Seigneur! Toute la gloire T’en reviendra! Que les affamés et les assoiffés trouvent ce soir la nourriture et le breuvage dans Ta Parole. Nous Te le demandons au Nom de Jésus de qui vient la révélation. Amen.
+
+22 Prenons le 5ème chapitre de l’Apocalypse; ici ce ne sont pas les sept Sceaux. C’est la brèche entre les âges de l’Eglise et les sept Sceaux. Il y avait un 4ème chapitre dans lequel une chose nous a été révélée et qui aura lieu après que l’Eglise soit enlevée. Car l’Eglise est enlevée au 4ème chapitre de l’Apocalypse et ne reparaît plus avant le 19ème chapitre. C’est pourquoi l’Eglise ne passe pas par la tribulation. Je sais que cela est contraire à ce que m’ont dit presque tous les enseignants auxquels j’ai parlé, mais ce n’est pas volontairement que je suis en désaccord avec eux. Je désire être votre frère et je dois enseigner exactement ce que je vois. Si je ne le fais pas, cela ne correspondrait plus, vous comprenez. Que l’Eglise soit enlevée avant ou après la tribulation, je veux partir avec elle; c’est cela le principal.
+
+23 Ainsi ces choses nous les présumons seulement, parce qu’étant sans instruction je cherche les types. Je regarde et je vois ce qui était dans l’Ancien Testament, lequel est un type ou une ombre du Nouveau Testament; c’est ainsi que je peux avoir quelque idée de ce qu’est le Nouveau Testament. De même, l’entrée de Noé dans l’arche avant le commencement de la tribulation est un type pour nous. Mais avant même que Noé entrât dans l’arche, Enoch fut enlevé avant que rien n’arrivât. Et Lot fut appelé hors de Sodome avant le début de la tribulation, de la destruction. Mais Abraham fut toujours en dehors de cela. Vous voyez: c’est un type.
+
 24 Maintenant nous allons lire les quelques premiers versets du chapitre 5.
-     “Et je vis dans la droite de celui qui était assis sur le trône, un livre, écrit au-dedans et sur
-     le revers, scellé de sept sceaux. Et je vis un ange puissant, proclamant à haute voix: Qui
-     est digne d’ouvrir le livre et d’en rompre les sceaux? Et personne, ni dans le ciel ni sur la
-     terre, ni au-dessous de la terre, ne pouvait ouvrir le livre ni le regarder. (Quel Livre!) Et
-     moi, je pleurais fort, parce que nul n’était trouvé digne d’ouvrir le livre ni de le regarder.
-     (Vous vous rendez compte de cette indignité! Aucun homme, nulle part, n’était trouvé
-     digne de le regarder!) Et l’un des anciens me dit: Ne pleure pas; voici, le lion qui est de la
-     tribu de Juda, la racine de David, a vaincu pour ouvrir le livre et ses sept sceaux. Et je vis
-     au milieu du trône et des quatre animaux, et au milieu des anciens, un agneau qui se
-     tenait là, comme immolé, ayant sept cornes et sept yeux, qui sont les sept Esprits de
-     Dieu, envoyés sur toute la terre. Et il vint et prit le livre de la main droite de celui qui était
-     assis sur le trône”.
+
+> “Et je vis dans la droite de celui qui était assis sur le trône, un livre, écrit au-dedans et sur le revers, scellé de sept sceaux. Et je vis un ange puissant, proclamant à haute voix: Qui est digne d’ouvrir le livre et d’en rompre les sceaux? Et personne, ni dans le ciel ni sur la terre, ni au-dessous de la terre, ne pouvait ouvrir le livre ni le regarder. (Quel Livre!) Et moi, je pleurais fort, parce que nul n’était trouvé digne d’ouvrir le livre ni de le regarder. (Vous vous rendez compte de cette indignité! Aucun homme, nulle part, n’était trouvé digne de le regarder!) Et l’un des anciens me dit: Ne pleure pas; voici, le lion qui est de la tribu de Juda, la racine de David, a vaincu pour ouvrir le livre et ses sept sceaux. Et je vis au milieu du trône et des quatre animaux, et au milieu des anciens, un agneau qui se tenait là, comme immolé, ayant sept cornes et sept yeux, qui sont les sept Esprits de Dieu, envoyés sur toute la terre. Et il vint et prit le livre de la main droite de celui qui était assis sur le trône”.
+
 25 Arrêtons un instant de lire Apocalypse 5.1-7.
-26 Ce Livre scellé de sept Sceaux est révélé au temps des sept Tonnerres d’Apocalypse 10.
-Prenons donc Apocalypse 10 un petit instant afin que vous en ayez la compréhension avant
-d’entrer dans ce sujet. Nous sommes à la fin des temps car écoutez:
-     “Et je vis un autre ange puissant descendant du ciel, revêtu d’une nuée, et l’arc-en-ciel
-     sur sa tête…”.
-27 Remarquez que c’est Christ parce que Lui, dans l’Ancien Testament était appelé l’Ange de
-l’Alliance; maintenant Il vient tout droit vers les Juifs car l’Eglise est achevée. Bien!
-     “… et son visage comme le soleil, et ses pieds comme des colonnes de feu”.
-28 Vous souvenez-vous de cet Ange d’Apocalypse 1? C’est pareil. Un ange est un messager,
-et Il est un Messager pour Israël. L’Eglise a été enlevée. Maintenant… ou plutôt sur le point
-d’être enlevée. Il vient pour Son Eglise. Maintenant écoutez bien ceci:
 
-        http://www.cmpp.ch
+26 Ce Livre scellé de sept Sceaux est révélé au temps des sept Tonnerres d’Apocalypse 10. Prenons donc Apocalypse 10 un petit instant afin que vous en ayez la compréhension avant d’entrer dans ce sujet. Nous sommes à la fin des temps car écoutez:
 
-    LA REVELATION DES SEPT SCEAUX — LA BRECHE    5
-     “… et il avait dans sa main un petit livre ouvert”.
-29 Ici il était fermé et scellé, là il est ouvert; il a été ouvert. Depuis le temps du scellement nous
-arrivons à ce soir; maintenant le Livre est ouvert. Un petit Livre dans Sa main, il était ouvert. Le
-soleil… comme des colonnes… attendez une minute, nous allons relire cela:
-     “… et il avait dans sa main un petit livre ouvert. Et il mit son pied droit sur la mer et le
-     gauche sur la terre; et il cria à haute voix, comme un lion rugit (nous savons qu’Il est le
-     Lion de la tribu de Juda. Là Il est un Agneau, mais ici Il est le Lion); et quand il cria, les
-     sept tonnerres firent entendre leurs propres voix (Jean avait reçu l’ordre d’écrire ce qu’il
-     voyait, aussi l’apôtre et prophète prit-il sa plume pour l’écrire). Et quand les sept
-     tonnerres eurent parlé, j’allais écrire; et j’ouïs une voix venant du ciel, disant: Scelle les
-     choses que les sept tonnerres ont prononcées et ne les écris pas. (Cela, c’est ce que
-     nous ne connaissons pas. Cela doit encore être révélé; ce que dirent ces sept tonnerres
-     n’est pas écrit dans l’Ecriture Sainte.)
-     Et l’ange que j’avais vu se tenir sur la mer et sur la terre, leva sa main droite vers le ciel
-     (écoutez bien ceci!), et jura par celui qui vit aux siècles des siècles, lequel a créé le ciel et
-     les choses qui y sont, et la terre et les choses qui y sont, et la mer et les choses qui y
-     sont, qu’il n’y aurait plus de délai (faites attention! voici un verset que je veux
-     approfondir), mais qu’aux jours de la voix du septième ange, quand il serait sur le point
-     de sonner de la trompette, le mystère de Dieu aussi sera terminé, comme il en a annoncé
-     la bonne nouvelle à ses esclaves les prophètes.
-30 Ainsi, le mystère du Livre scellé sept fois sera révélé quand la voix de l’ange du
-septième âge de l’Eglise se fera entendre. Le septième ange commence à sonner et voici
-les messages qui ont été écrits là, et nous les avons sous forme de bandes magnétiques et
-de brochures.
-31 Ainsi, quand le message commence à être annoncé le mystère de Dieu doit être accompli en
-ce temps-là. Mais remarquons que le Livre du mystère de Dieu n’est pas révélé avant que le
-message du septième ange soit proclamé. Aussi ces points seront-ils importants dans les Sceaux,
-j’en suis sûr, parce que tout, jusqu’au moindre petit morceau, doit être lié ensemble. C’est écrit
-sous forme de mystères parce qu’aucun homme, nulle part, ne le connaît, si ce n’est Dieu seul,
-Jésus-Christ.
-32 C’est un Livre, un Livre mystérieux. C’est un Livre de Rédemption (nous allons voir cela
-tout-à-l’heure). Nous savons donc que ce Livre de Rédemption ne sera pas entièrement compris, il
-a été sondé au cours de six âges de l’Eglise, mais à la fin, quand le septième ange commence à
-proclamer son mystère, il réunit toutes les choses en suspens que ces gens avaient sondées et les
-mystères descendus d’auprès de Dieu en tant que Parole de Dieu, et il révèle l’entière révélation
-de Dieu. Alors le problème de la divinité et de tout le reste est résolu. Tous les mystères, la
-semence du serpent et tout le reste doivent être révélés.
-33 Vous voyez, je n’essaie pas de fabriquer cela; c’est AINSI DIT LE SEIGNEUR. J’ai lu pour
-vous dans le Livre qu’à la proclamation du message du septième ange le mystère de Dieu serait
-achevé, comme Il l’a annoncé à Ses saints prophètes (les prophètes qui ont écrit la Parole). A la
-proclamation du septième âge de l’Eglise (le dernier) tout ce qui avait été sondé et était
-resté en suspens tout au long de ces âges sera réglé ensemble. Et lorsque les Sceaux seront
-brisés et le mystère révélé, alors descend l’Ange, le Messager, Christ, posant Ses pieds sur la
-terre et sur la mer et ayant un arc-en-ciel au-dessus de la tête. Ainsi donc, rappelez-vous que ce
-septième ange est sur la terre au temps où ces choses arrivent.
-34 Tandis que Jean donnait son message, dans le même temps le Messie est venu. Jean savait
-qu’il Le verrait parce qu’il devait Le présenter. Et nous comprenons bien dans les Ecritures
-(Malachie 4) qu’il doit y avoir un prophète semblable à Jean, un Elie à qui la Parole de Dieu peut
-venir; il doit révéler par le Saint-Esprit tous les mystères de Dieu et ramener la foi des enfants à la
-foi des pères apostoliques, restaurer tous ces mystères qui avaient été sondés pendant ces
-années dénominationnelles. C’est ce que dit la Parole. Je suis responsable de ce qu’Elle dit, vous
-comprenez? Cela est écrit. C’est vrai. C’est comme ça.
-35 Nous voyons donc que ce Livre scellé sept fois est le mystère de la rédemption. C’est un Livre
-de rédemption venu de Dieu. Ainsi donc, en ce temps-là tous les mystères seront accomplis à la
+> “Et je vis un autre ange puissant descendant du ciel, revêtu d’une nuée, et l’arc-en-ciel sur sa tête…”.
 
-    http://www.cmpp.ch
+27 Remarquez que c’est Christ parce que Lui, dans l’Ancien Testament était appelé l’Ange de l’Alliance; maintenant Il vient tout droit vers les Juifs car l’Eglise est achevée. Bien!
 
-LA REVELATION DES SEPT SCEAUX — LA BRECHE 6
-proclamation de ce messager. Voici donc l’ange sur la terre et un autre Ange, un puissant
-Messager qui descend. Ce premier ange était un ange terrestre, un messager. Mais voici
-maintenant un autre Ange qui descend du Ciel avec un arc-en-ciel, l’alliance, vous voyez. Ce ne
-peut être que Christ, exactement tel qu’Il est dans le premier chapitre de l’Apocalypse où Il se tient
-au milieu des sept chandeliers d’or, avec un arc-en-ciel ayant l’aspect d’une pierre de jaspe et de
-sardoine.
-36 Ici, Il revient au chapitre 10 après le temps de Sa venue où tous les mystères doivent être
-achevés, où les Sceaux doivent être brisés et qu’il est proclamé qu’il n’y aurait plus de délai. Et Il
-dit “qu’aux jours de la voix du septième ange, quand il sera sur le point de sonner de la trompette,
-le mystère de Dieu aussi sera terminé”. Et c’est le temps pour l’Ange d’apparaître. Où que nous
-soyons, nous sommes très proches. C’est vrai.
-37 Remarquez maintenant que les sept Sceaux contiennent le mystère du Livre; tant que nous
-ne pouvons pas voir ce qui est scellé dans les sept Sceaux nous ne pouvons que présumer ces
-choses. Parce que, comme je vous l’ai dit ce matin dans mon petit message: Dieu caché dans la
-simplicité, nous pouvons être sûrs de manquer ces choses, à moins qu’elles ne soient absolument,
-authentiquement révélées par le Saint-Esprit et confirmées de même. Comprenez-vous? Si le
-prophète se lève et vous dit ceci ou cela et que Dieu ne le confirme pas, alors ne vous en occupez
-pas car Dieu, dans toute déclaration, dans toutes choses doit confirmer pour faire que ce soit juste.
-Ainsi Ses enfants doivent-ils veiller attentivement à ces choses et demeurer vigilants.
-38 Remarquez que les sept Sceaux sur le Livre ont scellé ce Livre. Le Livre est parfaitement
-scellé. Comprenez-vous? Le Livre est un Livre parfaitement scellé jusqu’à ce que les sept Sceaux
-soient brisés. Il est scellé de sept Sceaux.
-39 Ceci est différent des sept tonnerres. Il y a sept Sceaux sur le Livre et ces Sceaux ne
-seront pas déliés avant le message du septième ange. C’est pourquoi nous présumons, mais la
-révélation authentique de Dieu sera rendue parfaite dans cette proclamation de la Vérité
-confirmée. C’est exactement ce que dit la Parole. Les mystères seront terminés en ce temps-là.
-Ce Livre scellé sept fois, souvenez-vous-en, était fermé au chapitre 5 de l’Apocalypse; au chapitre
-10 il est ouvert.
-40 Maintenant nous allons voir ce que dit la Parole, sur la façon dont il fut ouvert. Son contenu
-n’est pas révélé avant que l’Agneau ne prenne le Livre, n’en brise les Sceaux et ne L’ouvre. C’est
-l’Agneau qui doit prendre le Livre: il est à Lui. Rappelez-vous qu’aucun homme dans les cieux,
-ou sur la terre, pape, évêque, cardinal, surveillant général ou qui que ce soit ne peut briser ces
-Sceaux, ni révéler le Livre; l’Agneau seul le peut. Et nous avons sondé, présumé, nous nous
-sommes achoppés et étonnés, c’est la raison pour laquelle nous sommes tous dans une telle
-confusion. Mais nous avons la promesse divine que ce Livre de Rédemption sera parfaitement
-ouvert par l’Agneau et que ses Sceaux seront déliés par Lui dans les derniers jours, jours que
-nous sommes en train de vivre maintenant; on ne pourra pas les connaître avant que l’Agneau ne
-prenne le Livre et n’en brise les Sceaux. Car souvenez-vous, le Livre était dans les mains de Celui
-qui est assis sur le Trône. Et l’Agneau s’approcha de Celui qui est assis sur le Trône et prit le Livre
-de Sa main droite. IL PRIT le Livre.
-41 Oh, que c’est profond! Nous essaierons d’expliquer cela si nous le pouvons avec l’aide du
-Saint-Esprit. Car nous dépendons de Lui. Et nous verrons plus tard que c’est le temps de la fin
-lorsqu’il n’y a plus de délai. Aucune dénomination n’a le droit d’interpréter le Livre. Aucun homme
-n’a le droit de L’interpréter. C’est l’Agneau qui L’interprète, et l’Agneau est Celui qui en prononce
-les Paroles, et l’Agneau fait en sorte que la Parole soit connue en la confirmant et en Lui donnant
-vie. C’est vrai!
-42 Remarquez que ce Livre n’est pas révélé avant que les âges de l’Eglise et les âges des
-dénominations ne soient écoulés et qu’il n’y ait plus de délai. Voyez-vous cela? Ce n’est révélé
-qu’après que les âges de l’Eglise et les âges dénominationnels soient écoulés complètement.
-C’est pour cela que règne aujourd’hui une telle confusion. Ils cueillent un petit bout de doctrine
-et courent d’un côté en disant: «Voilà ce que c’est!». Un autre cueille une autre doctrine et
-court de l’autre côté en disant: «Voilà ce que c’est!». Et chacun construit une dénomination
-là-dessus, au point qu’il y a des centaines de dénominations. Mais dans tout cela vous voyez
-toujours la confusion. Les gens se demandent: «Qu’est-ce qui est la vérité?». N’est-ce pas la
-condition actuelle?
+> “… et son visage comme le soleil, et ses pieds comme des colonnes de feu”.
 
-        http://www.cmpp.ch
+28 Vous souvenez-vous de cet Ange d’Apocalypse 1? C’est pareil. Un ange est un messager, et Il est un Messager pour Israël. L’Eglise a été enlevée. Maintenant… ou plutôt sur le point d’être enlevée. Il vient pour Son Eglise. Maintenant écoutez bien ceci:
 
-LA REVELATION DES SEPT SCEAUX — LA BRECHE 7
-43 Mais ensuite Il promet que lorsque ce temps sera achevé il y aura la proclamation par la voix
-du septième ange et qu’en ce temps-là, le Livre sera révélé. Ainsi ne dites pas: «Ces personnes
-d’autrefois ne sont pas sauvées». Mais il y avait des mystères qu’ils ne pouvaient pas comprendre:
-Comment Dieu peut-Il être trois et pourtant Un seul? Comment l’Ecriture peut-Elle dire: “… les
-baptisant au nom du Père, du Fils et du Saint-Esprit” et, faisant volte-face, dire ensuite: “… et que
-chacun de vous soit baptisé au nom de Jésus-Christ”? Vous voyez? Et tant d’autres choses
-encore. Comment Eve put-elle causer la ruine du monde entier en mangeant une pomme?
-Comment est-ce possible? Mais nous avons la promesse que ces mystères seraient révélés au
-temps de la fin. Tous ces grands guerriers comme Irénée, Martin, Polycarpe, Luther, Wesley et
-tant d’autres ont laissé beaucoup de petites choses en suspens; ils sont venus et ont vécu juste
-assez longtemps pour apporter une certaine lumière et la faire briller, mais ont laissé beaucoup de
-choses dans l’obscurité. Ensuite vinrent ceux de l’âge de la Pentecôte qui, comme les Luthériens,
-sont restés en plan. Ne dites pas qu’ils n’étaient pas dans la vérité: ils l’étaient, mais il restait
-toujours des choses en suspens qui ne pouvaient pas être expliquées. Pourquoi? Parce que les
-Sceaux n’avaient pas été brisés pour révéler entièrement ce que sont ces choses.
-44 Mais dans le dernier âge, tous ces mystères doivent être résolus et mis à la disposition de
-tous; les Sceaux doivent être ouverts par l’Agneau et révélés à l’Eglise, alors il n’y a plus de délai.
-Vous voyez comme c’est merveilleux? C’est alors que le Livre est le Livre de la Rédemption.
-Ensuite nous continuerons et verrons ce qui en est des 144 000, etc. Ceux-là, ce sont des Juifs.
-45 Lisons un peu dans Ephésiens 1.13,14. Je vois que beaucoup d’entre vous prennent des
-notes et écrivent des références dans leur Bible. C’est très bien, j’aime vous voir faire cela pour
-qu’à la maison vous puissiez relire ces passages. En les étudiant par vous-mêmes vous les
-comprendrez mieux; étudiez-les et demandez à Dieu de vous aider à comprendre. Lisons donc.
-“En lui vous aussi, après avoir entendu la parole de la vérité, l’Evangile de votre salut, en lui vous
-avez cru et vous avez été scellés du Saint-Esprit qui avait été promis, lequel est un gage de notre
-héritage, pour la rédemption de ceux que Dieu s’est acquis, à la louange de sa gloire”.
-46 Tandis que les Saintes Ecritures sont encore ouvertes, vous voyez là que le Saint-Esprit
-Lui-même est un Sceau. Le Saint-Esprit est un Sceau. Que signifie un Sceau? C’est une
-oeuvre achevée. Le Saint-Esprit étant un Sceau pour l’individu. Et pour celui-ci, quand il
-reçoit le Saint-Esprit, le temps des pleurs et des gémissements est passé parce que c’est
-une oeuvre achevée.
-47 J’avais l’habitude de travailler pour la compagnie de chemins de fer et de charger des wagons
-avec des bidons et autres produits venant de la fabrique de conserves. Mais avant que ce wagon
-pût être scellé, l’inspecteur venait voir s’il était chargé correctement; sinon à la première secousse
-la marchandise se serait défoncée, dispersée et endommagée, et la compagnie de chemins de fer
-aurait été tenue pour responsable. Cet inspecteur s’assurait donc que chaque chose était bien à
-sa place. Si ce n’était pas le cas il condamnait le chargement et nous devions le recommencer
-jusqu’à ce que l’inspecteur soit satisfait. Alors il fermait la porte et y apposait un sceau, et
-personne ne pouvait briser ce sceau jusqu’à ce que le wagon soit arrivé à destination.
-48 C’est ce que fait le Saint-Esprit. Il va, Il inspecte… La raison pour laquelle vous ne pouvez pas
-avoir ces choses, c’est parce que vous dites: «J’ai parlé en langues, j’ai crié, j’ai dansé dans
-l’Esprit!». Cela n’a aucun rapport! Le Saint-Esprit inspecte cette personne jusqu’à ce qu’Il soit
-entièrement satisfait et reconnaisse qu’elle est prête. Alors Il la scelle pour sa destination
-éternelle. Plus rien ne peut jamais briser ce sceau.
-49 La Bible dit dans Ephésiens 4.30: “N’attristez pas le Saint-Esprit de Dieu par lequel vous avez
-été scellés pour le jour de la rédemption”.
-50 Retenez ce mot: rédemption. Jusqu’au jour où le Livre de la Rédemption est révélé et que le
-Rédempteur vient réclamer Sa possession. Rien d’autre ne peut le faire. Ne L’attristez pas! Faites
-ce qui plaît à Dieu car le Livre est scellé maintenant et vous êtes scellés. Le Saint-Esprit Lui-même
-est le Sceau.
-51 Selon le dictionnaire, un sceau signifie une oeuvre achevée. Quand le septième Sceau est
-brisé, le mystère de Dieu qui était scellé de ces Sceaux mystérieux est achevé jusqu’au jour où il
-sera ouvert; alors ce qui est à l’intérieur est révélé.
-52 Si quelqu’un demande ce qu’il y a dans ce wagon, vous répondez: «Il devrait y avoir ceci et
+> “… et il avait dans sa main un petit livre ouvert”.
 
-        http://www.cmpp.ch
+29 Ici il était fermé et scellé, là il est ouvert; il a été ouvert. Depuis le temps du scellement nous arrivons à ce soir; maintenant le Livre est ouvert. Un petit Livre dans Sa main, il était ouvert. Le soleil… comme des colonnes… attendez une minute, nous allons relire cela:
 
-    LA REVELATION DES SEPT SCEAUX — LA BRECHE    8
-cela. Il devrait y avoir…». Vous présumez. Mais quand le sceau est brisé et que la porte est
-ouverte vous voyez à l’intérieur, vous voyez exactement ce qui se trouve dedans. Vous
-comprenez? Mais cela n’arrivera qu’au temps de la fin.
-53 Un sceau signifie encore autre chose: la propriété. Le sceau porte une marque qui désigne le
-propriétaire. Quand vous êtes acheté par le Sang de Jésus-Christ et scellé par le
-Saint-Esprit, vous n’appartenez plus au monde ni à rien de ce qui est au monde. Vous êtes
-la propriété de Dieu.
-54 Autre chose encore: Un sceau est une assurance. Le sceau signifie que vous êtes
-assuré. Vous qui ne croyez pas en l’éternelle assurance, sachez qu’un sceau signifie:
-sécurité, garantie jusqu’à la destination. Malheur à celui qui essaierait de briser ce sceau! Et le
-Sceau du Saint-Esprit ne peut être brisé. M’avez-vous déjà entendu raconter que des gens disent:
-«Le diable m’a fait faire cela»? Non, non, ce n’est pas le diable! C’est simplement que vous n’étiez
-pas à l’intérieur et scellé; parce que quand vous êtes scellé à l’intérieur, lui est scellé à
-l’extérieur.
-55 C’est vous qui êtes sorti à la rencontre du diable. Il ne pouvait pas entrer en vous parce que le
-seul processus qu’il aurait pu suivre pour entrer en vous est celui que vous avez utilisé
-vous-même. Il aurait dû être sauvé, sanctifié et rempli du Saint-Esprit; alors il aurait été votre frère.
-Mais vous voyez il ne l’a pas fait, oh, non! C’est vous qui vous êtes approché de la ligne de
-séparation, revenant à la convoitise des choses de ce monde. Vous n’êtes jamais entré
-complètement en Canaan, de l’autre côté du Jourdain. Qui est la mort à soi-même.
-56 Maintenant remarquez ceci. Ce Livre est scellé, et vous êtes scellés avec le Livre jusqu’au
-jour de la Rédemption. Lisons encore Romains 8.22,23. Ce texte nous servira de toile de fond. Et
-je pense que nous comprendrons un peu mieux si chaque personne lit pour elle-même. Pendant
-ce temps, je vous indique quelques passages de l’Ecriture que vous pourrez considérer.
-“Or, nous savons que jusqu’à ce jour, la création tout entière soupire et souffre les douleurs de
-l’enfantement. Et ce n’est pas elle seulement, mais nous aussi, qui avons les prémices de l’Esprit,
-nous aussi nous soupirons en nous-mêmes en attendant l’adoption, la rédemption de notre corps”.
-57 Oh, mes frères! N’est-ce pas particulièrement réjouissant pour nous les vieux? L’attente de
-cette heure devrait nous réjouir. Nous comprenons que cela se passera lors de la première
-résurrection. Vous voyez, la nature gémit, nous gémissons, toutes choses gémissent parce que
-nous nous rendons compte qu’il y a quelque chose qui ne va pas. Et la seule raison pour laquelle
-vous pouvez gémir et attendre est parce qu’il y a une vie nouvelle qui est entrée en vous, qui parle
-d’un nouveau monde.
-58 Il n’y a pas longtemps ma femme et moi sommes allés au supermarché et nous avons vu une
-chose étonnante: une dame qui portait une robe; c’était si étrange! La plupart d’entre elles ne
-portent pas de robe. En quelque manière elles sont négligentes; elles oublient de mettre une robe
-pour sortir (elles oublient volontairement!).
-59 Alors Méda me dit: «BiIl, pourquoi cela?». Je répondis: «Oh, c’est simplement l’esprit de la
-nation!». En Allemagne ils ont un certain esprit. En Finlande ils ont un esprit national. En Amérique
-nous avons aussi un esprit national. Notre esprit national est celui de la bouffonnerie, de la
-plaisanterie. Vous savez pourquoi? Nous avons été fondés sur la doctrine des apôtres. Nous
-avons été fondés sur la conduite de grands hommes tels que Washington et Lincoln, mais nous
-nous sommes éloignés de ce fondement et nous savons ce qui nous attend. Nous savons qu’une
-bombe atomique porte sur elle notre nom. Nous savons que l’esclavage nous attend. Ne vous
-trompez pas vous-mêmes.
-60 Cela me fait penser à ces comédiens qui débitent leurs plaisanteries, et aux femmes et aux
-hommes qui se comportent ensemble indécemment. Cela me rappelle ce petit garçon qui traverse
-le cimetière en sifflant, essayant de se prouver à lui-même qu’il n’a pas peur. Bien sûr qu’il a peur!
-Il ne trompe personne c’est pourquoi il siffle. Il essaie de prouver qu’il n’a pas peur, mais il a peur!
-61 C’est ce qui ne va pas aujourd’hui. Mais quel espoir béni pour le croyant qui élève ses mains,
-parce que sa rédemption approche quand il voit ces choses apparaître. C’est un moment glorieux
-pour le croyant.
-62 Nos corps gémissent. N’avez-vous jamais remarqué comment un arbre lutte pour vivre? Il
+> “… et il avait dans sa main un petit livre ouvert. Et il mit son pied droit sur la mer et le gauche sur la terre; et il cria à haute voix, comme un lion rugit (nous savons qu’Il est le Lion de la tribu de Juda. Là Il est un Agneau, mais ici Il est le Lion); et quand il cria, les sept tonnerres firent entendre leurs propres voix (Jean avait reçu l’ordre d’écrire ce qu’il voyait, aussi l’apôtre et prophète prit-il sa plume pour l’écrire). Et quand les sept tonnerres eurent parlé, j’allais écrire; et j’ouïs une voix venant du ciel, disant: Scelle les choses que les sept tonnerres ont prononcées et ne les écris pas. (Cela, c’est ce que nous ne connaissons pas. Cela doit encore être révélé; ce que dirent ces sept tonnerres n’est pas écrit dans l’Ecriture Sainte.)
+> Et l’ange que j’avais vu se tenir sur la mer et sur la terre, leva sa main droite vers le ciel (écoutez bien ceci!), et jura par celui qui vit aux siècles des siècles, lequel a créé le ciel et les choses qui y sont, et la terre et les choses qui y sont, et la mer et les choses qui y sont, qu’il n’y aurait plus de délai (faites attention! voici un verset que je veux approfondir), mais qu’aux jours de la voix du septième ange, quand il serait sur le point de sonner de la trompette, le mystère de Dieu aussi sera terminé, comme il en a annoncé la bonne nouvelle à ses esclaves les prophètes.
 
-     http://www.cmpp.ch
+30 Ainsi, **le mystère du Livre scellé sept fois sera révélé quand la voix de l’ange du septième âge de l’Eglise se fera entendre.** Le septième ange commence à sonner et voici les messages qui ont été écrits là, et nous les avons sous forme de bandes magnétiques et de brochures.
 
-LA REVELATION DES SEPT SCEAUX — LA BRECHE 9
-veut vivre. Avez-vous observé comment un animal qui va mourir se débat? C’est pareil pour
-l’homme et pour toute chose. La nature gémit. Nous gémissons en nous-mêmes. Nous savons que
-quelque chose est faux. Et nous voyons par ces versets que quelque chose a été perdu, à la fois
-pour l’homme et pour la terre. Toute la création a perdu quelque chose, car nous voyons d’après
-cette Parole inspirée que ces soupirs ont leur raison d’être. Vous ne gémissez pas sans raison.
-Comme je le disais au sujet de l’encre, il y a une raison.
-63 C’est pareil avec la prière pour les malades tant que vous n’aurez pas trouvé la cause. Je
-connais le remède mais je dois trouver la cause. C’est pourquoi les visions sont tellement
-nécessaires et qu’elles ont été promises. Elles révèlent les secrets du coeur; elles montrent à la
-personne où elle a fait une erreur et ce qu’elle doit faire. Peu importe la quantité de
-médicaments que vous prenez, d’huile que vous versez sur leur tête ou combien l’on crie
-en priant sur vous; s’il y a quelque chose de faux, il restera là. Quand je dis «il», c’est
-Satan.
-64 Aujourd’hui, aussi avancés que nous soyons en médecine, nous sommes encore ignorants de
-ces choses. Vous dites: «Il a un cancer». Eh bien, cela ne signifie rien, cela ne fait que désigner la
-maladie; c’est le terme médical: le cancer. Ce nom n’a aucun rapport avec ce qu’est la maladie.
-C’est par ce nom qu’on la désigne; nous l’appelons simplement du nom de cancer. Mais ce que
-c’est en réalité, analysez-le: c’est le diable.
-65 Ainsi nous disons le péché; nous l’appelons simplement péché; mais analysons-le. Qu’est-ce
-que le péché? Beaucoup de gens disent: «C’est boire, commettre adultère, etc.». Non! cela, ce
-sont les attributs du péché. Ce sont les effets du péché, mais le péché réel est l’incrédulité. C’est
-ainsi qu’il est nommé et mis en évidence. Si vous êtes un croyant vous ne faites pas ces choses.
-Vous avez beau essayer de vous faire saint et essayer d’être religieux; si vous faites ces choses
-vous êtes un incrédule. C’est scripturaire.
-66 Quelque chose a donc été perdu et il y a des gémissements. Ces choses essaient de revenir
-à leur condition originelle. Imaginez quelqu’un tombant dans une fosse profonde et se débattant,
-s’accrochant, se hissant… Il faut d’une façon ou d’une autre qu’il sorte de là! Il n’est pas dans sa
-position originelle et il crie frénétiquement, il s’accroche aux murs, il fait du bruit, se débat, gémit
-parce qu’il veut retourner à sa position originelle.
-67 De même quand une personne est frappée de maladie, de douleurs et de souffrances
-(autrefois elle n’était pas ainsi), alors elle gémit. Pourquoi? Elle n’est pas dans la bonne position, il
-y a quelque chose qui ne va pas et elle gémit, essayant de revenir là où elle se trouvait quand elle,
-avait la santé. Et quand la nature et les hommes gémissent, comme dit la Bible, cela montre que
-quelque chose les a sortis de la position qui devait être la leur. Ils sont tombés de quelque part.
-68 Nous n’avons pas besoin que qui que ce soit interprète cela pour nous. Car nous savons avec
-certitude que c’est de la Vie éternelle que les hommes sont tombés, et qu’ils ont perdu leur droit à
-la Vie éternelle par la chute d’Adam et d’Eve, qu’ils sont tombés de la Vie éternelle dans la mort
-dans le jardin d’Eden, entraînant avec eux toute la nature dans la mort.
-69 Jamais un arbre n’est mort avant Adam. Aucun animal ne serait mort avant Adam. Il n’y a
-qu’une chose qui ne puisse pas mourir, c’est Dieu parce qu’Il est éternel. C’est la seule manière
-pour nous d’être gardés de la mort: nous devons avoir en nous la Vie éternelle afin d’être fils et
-filles de Dieu. Mais comme je le disais dans le message de ce matin, nous sommes morts lorsque
-nous avons vendu notre droit d’aînesse au péché et que nous avons traversé l’abîme. Maintenant
-nous sommes hors de portée de Dieu, de cet autre côté de l’abîme.
-70 Bien sûr, quand Adam tomba dans la mort il apporta la mort à toute la création. Il lui fut donné
-le libre arbitre. Cela lui fut donné tout comme à nous afin qu’il pût faire un choix.
-71 Au commencement il y avait un arbre du bien et du mal devant Adam et Eve, et ce même
-arbre est placé devant chacun de nous. Voyez, Dieu ne fait pas pour Adam et pour Eve… Vous
-direz: «C’est leur faute». Non, pas maintenant: c’est votre faute. Vous ne pouvez pas mettre la
-faute sur Adam maintenant, vous devez la mettre sur vous-mêmes parce que “le bien et le
-mal” sont placés devant vous. Nous sommes sur la même base qu’Adam et Eve.
-72 Mais quand nous sommes rachetés nous ne voulons plus notre propre choix, nous voulons
-Son choix. Mais Adam et Eve voulurent faire leur propre choix. Ils voulurent découvrir ce qu’était la
-sagesse. Ils la sondèrent et cela causa la mort.
+31 Ainsi, quand le message commence à être annoncé le mystère de Dieu doit être accompli en ce temps-là. Mais remarquons que le Livre du mystère de Dieu n’est pas révélé avant que le message du septième ange soit proclamé. Aussi ces points seront-ils importants dans les Sceaux, j’en suis sûr, parce que tout, jusqu’au moindre petit morceau, doit être lié ensemble. C’est écrit sous forme de mystères parce qu’aucun homme, nulle part, ne le connaît, si ce n’est Dieu seul, Jésus-Christ.
 
-        http://www.cmpp.ch
+32 C’est un Livre, un Livre mystérieux. C’est un Livre de Rédemption (nous allons voir cela tout-à-l’heure). Nous savons donc que ce Livre de Rédemption ne sera pas entièrement compris, il a été sondé au cours de six âges de l’Eglise, mais à la fin, quand le septième ange commence à proclamer son mystère, il réunit toutes les choses en suspens que ces gens avaient sondées et les mystères descendus d’auprès de Dieu en tant que Parole de Dieu, et il révèle l’entière révélation de Dieu. Alors le problème de la divinité et de tout le reste est résolu. Tous les mystères, la semence du serpent et tout le reste doivent être révélés.
 
-LA REVELATION DES SEPT SCEAUX — LA BRECHE 10
-73 Quand un homme a été racheté il ne s’inquiète plus d’érudition, il ne s’inquiète plus des
-choses du monde, de la sagesse du monde. Il ne désire plus faire de choix du tout. Christ a été
-son choix, et c’est tout; il est racheté. Il ne veut simplement plus se conduire lui-même. Il n’a plus
-besoin que qui que ce soit lui dise où aller et que faire. Il attend de découvrir le choix de son
-Créateur; ensuite il va au Nom de son Créateur, là où son Créateur lui dit d’aller.
-74 Mais l’homme qui recherche la sagesse veut se renseigner. «Cette paroisse est très bien,
-mais on m’offre davantage là-bas: c’est donc là que j’irai!». Vous voyez la sagesse!
-75 Adam pécha en prêtant attention au raisonnement de sa femme, au lieu de s’en tenir à
-la Parole de Dieu. C’est cela qui fit pécher Adam. Sa femme raisonna avec Satan, puis en
-apporta le produit à Adam qui se détacha de la Parole de Dieu et se dépouilla. Il perdit aussi son
-héritage quand il perdit sa communion et son droit à la Vie. Rappelez-vous: “Le jour où tu en
-mangeras, tu mourras”.
-76 Et quand il perdit sa Vie, il perdit aussi son héritage dans la Vie, parce qu’il avait reçu
-autorité complète et suprême sur la terre. Il était le dieu de la terre. Dieu est le Dieu de tout
-l’univers, Il est Dieu partout. Mais Son fils avait cette terre sous sa propre autorité. Il pouvait parler,
-donner des noms, il pouvait ordonner, il pouvait stopper la nature; il pouvait faire tout ce qu’il
-voulait. Mais quand il perdit sa Vie, il perdit son héritage.
-77 Ainsi, Adam aurait pu dire: “Que cette montagne-ci soit déplacée là-bas!”. Et c’eût été fait.
-Adam aurait pu dire: “Que cet arbre-ci soit arraché et planté là-bas”. C’eût été fait vous voyez, car
-il avait l’autorité complète et suprême en tant que dieu mineur au-dessous de Dieu notre Père,
-parce qu’il était un fils de Dieu.
-78 Maintenant pourrions-nous nous arrêter ici une minute et avoir notre véritable prédication?
-Car si le sang, à ce moment-là, a purifie Adam et l’a rétabli, qu’en est-il aujourd’hui? Regardez ce
-que le Fils de Dieu, le second Adam a fait. Il dit: “Les oeuvres que je fais, vous les ferez
-aussi”.
-79 Adam perdit son héritage, la terre. Elle passa de ses mains à celles de celui auquel il s’était
-vendu: Satan. Il vendit sa foi en Dieu pour les raisonnements de Satan. Par conséquent sa Vie
-éternelle, son droit à l’Arbre de Vie, son droit à cette terre qui lui appartenait, tout cela il
-l’abandonna aux mains de Satan. Il le fit passer de ses mains à celles de Satan. Par conséquent
-tout sur la terre se corrompit et fut pollué, et la semence d’Adam a détruit l’héritage qu’Adam aurait
-dû avoir, c’est-à-dire la terre. C’est vrai! Vous voyez! La semence d’Adam.
-80 L’autre jour à Tucson où j’habite, je parlais à quelqu’un sur le haut de la montagne. Regardant
-la plaine, je disais: «Que pensez-vous de cela? Il y a trois cents ans, lorsque les vieux Papagos
-arrivaient là-bas sur leurs traîneaux avec femmes et enfants, ils s’installaient quelque part et
-vivaient paisiblement. Il n’y avait ni adultère ni whisky ni jeux, rien du tout parmi eux; ils vivaient
-proprement. Les coyotes descendaient chaque nuit le long du torrent en glapissant là où se trouve
-Tucson aujourd’hui; sur les rives le mesquite et le cactus fleurissaient et en regardant tout cela,
-Jéhovah devait sourire. Mais l’homme blanc est arrivé et qu’a-t-il fait? Il a arraché les cactus, il a
-souillé le pays avec ses boîtes de bière et ses bouteilles de whisky; il a détruit la morale de la
-nation. La seule façon pour lui de se débarrasser rapidement de l’Indien fut de détruire sa
-nourriture: le bison».
-81 L’autre jour au musée de Tombstone je vis des images de Geronimo. Beaucoup d’entre vous
-pourraient penser que Geronimo était un renégat; pour moi il était un Américain authentique qui se
-battait seulement pour défendre sa juste cause car Dieu lui avait donné un pays, une nation, un
-endroit pour vivre. Je ne le blâme pas pour ce qu’il a fait. Car ces soldats blancs vinrent ici et
-prirent le pays par force, et les tuèrent comme des mouches. Il y avait là des images de ce qu’était
-l’hôpital de Geronimo: deux ou trois couvertures étalées sur des buissons de mesquite; ces
-blessés étaient les véritables Américains, des Indiens qui se battaient pour des droits reçus de
-Dieu. Geronimo tenait un bébé dans ses bras, regardant ses propres guerriers, des blessés
-ensanglantés et mourants; ils n’avaient ni pénicilline ni aucune possibilité de les soulager; pourtant
-c’étaient des Américains authentiques, placés là par Dieu. Geronimo, un renégat? Moi, c’est ce
-que j’appelle un vrai gentleman!
-82 Cochise ne se serait jamais rendu. C’était un vieillard. Mais l’armée américaine vint (eux
-étaient tous bien vêtus) et tua les bisons. Ils organisèrent des parties de chasse (Sharpe inventa le
+33 Vous voyez, je n’essaie pas de fabriquer cela; c’est AINSI DIT LE SEIGNEUR. J’ai lu pour vous dans le Livre qu’à la proclamation du message du septième ange le mystère de Dieu serait achevé, comme Il l’a annoncé à Ses saints prophètes (les prophètes qui ont écrit la Parole). **A la proclamation du septième âge de l’Eglise (le dernier) tout ce qui avait été sondé et était resté en suspens tout au long de ces âges sera réglé ensemble.** Et lorsque les Sceaux seront brisés et le mystère révélé, alors descend l’Ange, le Messager, Christ, posant Ses pieds sur la terre et sur la mer et ayant un arc-en-ciel au-dessus de la tête. Ainsi donc, rappelez-vous que ce septième ange est sur la terre au temps où ces choses arrivent.
 
-        http://www.cmpp.ch
+34 Tandis que Jean donnait son message, dans le même temps le Messie est venu. Jean savait qu’il Le verrait parce qu’il devait Le présenter. Et nous comprenons bien dans les Ecritures (Malachie 4) qu’il doit y avoir un prophète semblable à Jean, un Elie à qui la Parole de Dieu peut venir; il doit révéler par le Saint-Esprit tous les mystères de Dieu et ramener la foi des enfants à la foi des pères apostoliques, restaurer tous ces mystères qui avaient été sondés pendant ces années dénominationnelles. C’est ce que dit la Parole. Je suis responsable de ce qu’Elle dit, vous comprenez? Cela est écrit. C’est vrai. C’est comme ça.
+
+35 Nous voyons donc que ce Livre scellé sept fois est le mystère de la rédemption. C’est un Livre de rédemption venu de Dieu. Ainsi donc, en ce temps-là tous les mystères seront accomplis à la proclamation de ce messager. Voici donc l’ange sur la terre et un autre Ange, un puissant Messager qui descend. Ce premier ange était un ange terrestre, un messager. Mais voici maintenant un autre Ange qui descend du Ciel avec un arc-en-ciel, l’alliance, vous voyez. Ce ne peut être que Christ, exactement tel qu’Il est dans le premier chapitre de l’Apocalypse où Il se tient au milieu des sept chandeliers d’or, avec un arc-en-ciel ayant l’aspect d’une pierre de jaspe et de sardoine.
+
+36 Ici, Il revient au chapitre 10 après le temps de Sa venue où tous les mystères doivent être achevés, où les Sceaux doivent être brisés et qu’il est proclamé qu’il n’y aurait plus de délai. Et Il dit “qu’aux jours de la voix du septième ange, quand il sera sur le point de sonner de la trompette, le mystère de Dieu aussi sera terminé”. Et c’est le temps pour l’Ange d’apparaître. Où que nous soyons, nous sommes très proches. C’est vrai.
+
+37 Remarquez maintenant que les sept Sceaux contiennent le mystère du Livre; tant que nous ne pouvons pas voir ce qui est scellé dans les sept Sceaux nous ne pouvons que présumer ces choses. Parce que, comme je vous l’ai dit ce matin dans mon petit message: Dieu caché dans la simplicité, nous pouvons être sûrs de manquer ces choses, à moins qu’elles ne soient absolument, authentiquement révélées par le Saint-Esprit et confirmées de même. Comprenez-vous? Si le prophète se lève et vous dit ceci ou cela et que Dieu ne le confirme pas, alors ne vous en occupez pas car Dieu, dans toute déclaration, dans toutes choses doit confirmer pour faire que ce soit juste. Ainsi Ses enfants doivent-ils veiller attentivement à ces choses et demeurer vigilants.
+
+38 Remarquez que les sept Sceaux sur le Livre ont scellé ce Livre. Le Livre est parfaitement scellé. Comprenez-vous? Le Livre est un Livre parfaitement scellé jusqu’à ce que les sept Sceaux soient brisés. Il est scellé de sept Sceaux.
+
+39 Ceci est différent des sept tonnerres. Il y a sept Sceaux sur le Livre et ces Sceaux ne seront pas déliés avant le message du septième ange. C’est pourquoi nous présumons, mais la révélation authentique de Dieu sera rendue parfaite dans cette proclamation de la Vérité confirmée. C’est exactement ce que dit la Parole. Les mystères seront terminés en ce temps-là. Ce Livre scellé sept fois, souvenez-vous-en, était fermé au chapitre 5 de l’Apocalypse; au chapitre 10 il est ouvert.
+
+40 Maintenant nous allons voir ce que dit la Parole, sur la façon dont il fut ouvert. Son contenu n’est pas révélé avant que l’Agneau ne prenne le Livre, n’en brise les Sceaux et ne L’ouvre. C’est l’Agneau qui doit prendre le Livre: il est à Lui. Rappelez-vous qu’aucun homme dans les cieux, ou sur la terre, pape, évêque, cardinal, surveillant général ou qui que ce soit ne peut briser ces Sceaux, ni révéler le Livre; l’Agneau seul le peut. Et nous avons sondé, présumé, nous nous sommes achoppés et étonnés, c’est la raison pour laquelle nous sommes tous dans une telle confusion. Mais nous avons la promesse divine que ce Livre de Rédemption sera parfaitement ouvert par l’Agneau et que ses Sceaux seront déliés par Lui dans les derniers jours, jours que nous sommes en train de vivre maintenant; on ne pourra pas les connaître avant que l’Agneau ne prenne le Livre et n’en brise les Sceaux. Car souvenez-vous, le Livre était dans les mains de Celui qui est assis sur le Trône. Et l’Agneau s’approcha de Celui qui est assis sur le Trône et prit le Livre de Sa main droite. IL PRIT le Livre.
+
+41 Oh, que c’est profond! Nous essaierons d’expliquer cela si nous le pouvons avec l’aide du Saint-Esprit. Car nous dépendons de Lui. Et nous verrons plus tard que c’est le temps de la fin lorsqu’il n’y a plus de délai. Aucune dénomination n’a le droit d’interpréter le Livre. Aucun homme n’a le droit de L’interpréter. C’est l’Agneau qui L’interprète, et l’Agneau est Celui qui en prononce les Paroles, et l’Agneau fait en sorte que la Parole soit connue en la confirmant et en Lui donnant vie. C’est vrai!
+
+42 Remarquez que ce Livre n’est pas révélé avant que les âges de l’Eglise et les âges des dénominations ne soient écoulés et qu’il n’y ait plus de délai. Voyez-vous cela? Ce n’est révélé qu’après que les âges de l’Eglise et les âges dénominationnels soient écoulés complètement. C’est pour cela que règne aujourd’hui une telle confusion. Ils cueillent un petit bout de doctrine et courent d’un côté en disant: «Voilà ce que c’est!». Un autre cueille une autre doctrine et court de l’autre côté en disant: «Voilà ce que c’est!». Et chacun construit une dénomination là-dessus, au point qu’il y a des centaines de dénominations. Mais dans tout cela vous voyez toujours la confusion. Les gens se demandent: «Qu’est-ce qui est la vérité?». N’est-ce pas la condition actuelle?
+
+43 Mais ensuite Il promet que lorsque ce temps sera achevé il y aura la proclamation par la voix du septième ange et qu’en ce temps-là, le Livre sera révélé. Ainsi ne dites pas: «Ces personnes d’autrefois ne sont pas sauvées». Mais il y avait des mystères qu’ils ne pouvaient pas comprendre: Comment Dieu peut-Il être trois et pourtant Un seul? Comment l’Ecriture peut-Elle dire: “… les baptisant au nom du Père, du Fils et du Saint-Esprit” et, faisant volte-face, dire ensuite: “… et que chacun de vous soit baptisé au nom de Jésus-Christ”? Vous voyez? Et tant d’autres choses encore. Comment Eve put-elle causer la ruine du monde entier en mangeant une pomme? Comment est-ce possible? Mais nous avons la promesse que ces mystères seraient révélés au temps de la fin. Tous ces grands guerriers comme Irénée, Martin, Polycarpe, Luther, Wesley et tant d’autres ont laissé beaucoup de petites choses en suspens; ils sont venus et ont vécu juste assez longtemps pour apporter une certaine lumière et la faire briller, mais ont laissé beaucoup de choses dans l’obscurité. Ensuite vinrent ceux de l’âge de la Pentecôte qui, comme les Luthériens, sont restés en plan. Ne dites pas qu’ils n’étaient pas dans la vérité: ils l’étaient, mais il restait toujours des choses en suspens qui ne pouvaient pas être expliquées. Pourquoi? Parce que les Sceaux n’avaient pas été brisés pour révéler entièrement ce que sont ces choses.
+
+44 Mais dans le dernier âge, tous ces mystères doivent être résolus et mis à la disposition de tous; les Sceaux doivent être ouverts par l’Agneau et révélés à l’Eglise, alors il n’y a plus de délai. Vous voyez comme c’est merveilleux? C’est alors que le Livre est le Livre de la Rédemption. Ensuite nous continuerons et verrons ce qui en est des 144 000, etc. Ceux-là, ce sont des Juifs.
+
+45 Lisons un peu dans Ephésiens 1.13,14. Je vois que beaucoup d’entre vous prennent des notes et écrivent des références dans leur Bible. C’est très bien, j’aime vous voir faire cela pour qu’à la maison vous puissiez relire ces passages. En les étudiant par vous-mêmes vous les comprendrez mieux; étudiez-les et demandez à Dieu de vous aider à comprendre. Lisons donc.
+
+> “En lui vous aussi, après avoir entendu la parole de la vérité, l’Evangile de votre salut, en lui vous avez cru et vous avez été scellés du Saint-Esprit qui avait été promis, lequel est un gage de notre héritage, pour la rédemption de ceux que Dieu s’est acquis, à la louange de sa gloire”.
+
+46 Tandis que les Saintes Ecritures sont encore ouvertes, vous voyez là que le Saint-Esprit Lui-même est un Sceau. **Le Saint-Esprit est un Sceau.** Que signifie un Sceau? C’est une oeuvre achevée. Le Saint-Esprit étant un Sceau pour l’individu. Et pour celui-ci, quand il reçoit le Saint-Esprit, le temps des pleurs et des gémissements est passé parce que c’est une oeuvre achevée.
+
+47 J’avais l’habitude de travailler pour la compagnie de chemins de fer et de charger des wagons avec des bidons et autres produits venant de la fabrique de conserves. Mais avant que ce wagon pût être scellé, l’inspecteur venait voir s’il était chargé correctement; sinon à la première secousse la marchandise se serait défoncée, dispersée et endommagée, et la compagnie de chemins de fer aurait été tenue pour responsable. Cet inspecteur s’assurait donc que chaque chose était bien à sa place. Si ce n’était pas le cas il condamnait le chargement et nous devions le recommencer jusqu’à ce que l’inspecteur soit satisfait. Alors il fermait la porte et y apposait un sceau, et personne ne pouvait briser ce sceau jusqu’à ce que le wagon soit arrivé à destination.
+
+48 C’est ce que fait le Saint-Esprit. Il va, Il inspecte… La raison pour laquelle vous ne pouvez pas avoir ces choses, c’est parce que vous dites: «J’ai parlé en langues, j’ai crié, j’ai dansé dans l’Esprit!». Cela n’a aucun rapport! Le Saint-Esprit inspecte cette personne jusqu’à ce qu’Il soit entièrement satisfait et reconnaisse qu’elle est prête. Alors Il la scelle pour sa destination éternelle. Plus rien ne peut jamais briser ce sceau.
+
+49 La Bible dit dans Ephésiens 4.30: “N’attristez pas le Saint-Esprit de Dieu par lequel vous avez été scellés pour le jour de la rédemption”.
+
+50 Retenez ce mot: **rédemption**. Jusqu’au jour où le Livre de la Rédemption est révélé et que le Rédempteur vient réclamer Sa possession. Rien d’autre ne peut le faire. Ne L’attristez pas! Faites ce qui plaît à Dieu car le Livre est scellé maintenant et vous êtes scellés. Le Saint-Esprit Lui-même est le Sceau.
+
+51 Selon le dictionnaire, un sceau signifie une oeuvre achevée. Quand le septième Sceau est brisé, le mystère de Dieu qui était scellé de ces Sceaux mystérieux est achevé jusqu’au jour où il sera ouvert; alors ce qui est à l’intérieur est révélé.
+
+52 Si quelqu’un demande ce qu’il y a dans ce wagon, vous répondez: «Il devrait y avoir ceci et cela. Il devrait y avoir…». Vous présumez. Mais quand le sceau est brisé et que la porte est ouverte vous voyez à l’intérieur, vous voyez exactement ce qui se trouve dedans. Vous comprenez? Mais cela n’arrivera qu’au temps de la fin.
+
+53 Un sceau signifie encore autre chose: **la propriété**. Le sceau porte une marque qui désigne le propriétaire. Quand vous êtes acheté par le Sang de Jésus-Christ et scellé par le Saint-Esprit, vous n’appartenez plus au monde ni à rien de ce qui est au monde. Vous êtes la propriété de Dieu.
+
+54 Autre chose encore: Un sceau est **une assurance**. Le sceau signifie que vous êtes assuré. Vous qui ne croyez pas en l’éternelle assurance, sachez qu’un sceau signifie: sécurité, garantie jusqu’à la destination. Malheur à celui qui essaierait de briser ce sceau! Et le Sceau du Saint-Esprit ne peut être brisé. M’avez-vous déjà entendu raconter que des gens disent: «Le diable m’a fait faire cela»? Non, non, ce n’est pas le diable! C’est simplement que vous n’étiez pas à l’intérieur et scellé; parce que quand vous êtes scellé à l’intérieur, lui est scellé à l’extérieur.
+
+55 C’est vous qui êtes sorti à la rencontre du diable. Il ne pouvait pas entrer en vous parce que le seul processus qu’il aurait pu suivre pour entrer en vous est celui que vous avez utilisé vous-même. Il aurait dû être sauvé, sanctifié et rempli du Saint-Esprit; alors il aurait été votre frère. Mais vous voyez il ne l’a pas fait, oh, non! C’est vous qui vous êtes approché de la ligne de séparation, revenant à la convoitise des choses de ce monde. Vous n’êtes jamais entré complètement en Canaan, de l’autre côté du Jourdain. Qui est la mort à soi-même.
+
+56 Maintenant remarquez ceci. Ce Livre est scellé, et vous êtes scellés avec le Livre jusqu’au jour de la Rédemption. Lisons encore Romains 8.22,23. Ce texte nous servira de toile de fond. Et je pense que nous comprendrons un peu mieux si chaque personne lit pour elle-même. Pendant ce temps, je vous indique quelques passages de l’Ecriture que vous pourrez considérer.
+
+> “Or, nous savons que jusqu’à ce jour, la création tout entière soupire et souffre les douleurs de l’enfantement. Et ce n’est pas elle seulement, mais nous aussi, qui avons les prémices de l’Esprit, nous aussi nous soupirons en nous-mêmes en attendant l’adoption, la rédemption de notre corps”.
+
+57 Oh, mes frères! N’est-ce pas particulièrement réjouissant pour nous les vieux? L’attente de cette heure devrait nous réjouir. Nous comprenons que cela se passera lors de la première résurrection. Vous voyez, la nature gémit, nous gémissons, toutes choses gémissent parce que nous nous rendons compte qu’il y a quelque chose qui ne va pas. Et la seule raison pour laquelle vous pouvez gémir et attendre est parce qu’il y a une vie nouvelle qui est entrée en vous, qui parle d’un nouveau monde.
+
+58 Il n’y a pas longtemps ma femme et moi sommes allés au supermarché et nous avons vu une chose étonnante: une dame qui portait une robe; c’était si étrange! La plupart d’entre elles ne portent pas de robe. En quelque manière elles sont négligentes; elles oublient de mettre une robe pour sortir (elles oublient volontairement!).
+
+59 Alors Méda me dit: «BiIl, pourquoi cela?». Je répondis: «Oh, c’est simplement l’esprit de la nation!». En Allemagne ils ont un certain esprit. En Finlande ils ont un esprit national. En Amérique nous avons aussi un esprit national. Notre esprit national est celui de la bouffonnerie, de la plaisanterie. Vous savez pourquoi? Nous avons été fondés sur la doctrine des apôtres. Nous avons été fondés sur la conduite de grands hommes tels que Washington et Lincoln, mais nous nous sommes éloignés de ce fondement et nous savons ce qui nous attend. Nous savons qu’une bombe atomique porte sur elle notre nom. Nous savons que l’esclavage nous attend. Ne vous trompez pas vous-mêmes.
+
+60 Cela me fait penser à ces comédiens qui débitent leurs plaisanteries, et aux femmes et aux hommes qui se comportent ensemble indécemment. Cela me rappelle ce petit garçon qui traverse le cimetière en sifflant, essayant de se prouver à lui-même qu’il n’a pas peur. Bien sûr qu’il a peur! Il ne trompe personne c’est pourquoi il siffle. Il essaie de prouver qu’il n’a pas peur, mais il a peur!
+
+61 C’est ce qui ne va pas aujourd’hui. Mais quel espoir béni pour le croyant qui élève ses mains, parce que sa rédemption approche quand il voit ces choses apparaître. C’est un moment glorieux pour le croyant.
+
+62 Nos corps gémissent. N’avez-vous jamais remarqué comment un arbre lutte pour vivre? Il veut vivre. Avez-vous observé comment un animal qui va mourir se débat? C’est pareil pour l’homme et pour toute chose. La nature gémit. Nous gémissons en nous-mêmes. Nous savons que quelque chose est faux. Et nous voyons par ces versets que quelque chose a été perdu, à la fois pour l’homme et pour la terre. Toute la création a perdu quelque chose, car nous voyons d’après cette Parole inspirée que ces soupirs ont leur raison d’être. Vous ne gémissez pas sans raison. Comme je le disais au sujet de l’encre, il y a une raison.
+
+63 C’est pareil avec la prière pour les malades tant que vous n’aurez pas trouvé la cause. Je connais le remède mais je dois trouver la cause. C’est pourquoi les visions sont tellement nécessaires et qu’elles ont été promises. Elles révèlent les secrets du coeur; elles montrent à la personne où elle a fait une erreur et ce qu’elle doit faire. Peu importe la quantité de médicaments que vous prenez, d’huile que vous versez sur leur tête ou combien l’on crie en priant sur vous; s’il y a quelque chose de faux, il restera là. Quand je dis «il», c’est Satan.
+
+64 Aujourd’hui, aussi avancés que nous soyons en médecine, nous sommes encore ignorants de ces choses. Vous dites: «Il a un cancer». Eh bien, cela ne signifie rien, cela ne fait que désigner la maladie; c’est le terme médical: le cancer. Ce nom n’a aucun rapport avec ce qu’est la maladie. C’est par ce nom qu’on la désigne; nous l’appelons simplement du nom de cancer. Mais ce que c’est en réalité, analysez-le: c’est le diable.
+
+65 Ainsi nous disons le péché; nous l’appelons simplement péché; mais analysons-le. Qu’est-ce que le péché? Beaucoup de gens disent: «C’est boire, commettre adultère, etc.». Non! cela, ce sont les attributs du péché. Ce sont les effets du péché, mais le péché réel est l’incrédulité. C’est ainsi qu’il est nommé et mis en évidence. Si vous êtes un croyant vous ne faites pas ces choses. Vous avez beau essayer de vous faire saint et essayer d’être religieux; si vous faites ces choses vous êtes un incrédule. C’est scripturaire.
+
+66 Quelque chose a donc été perdu et il y a des gémissements. Ces choses essaient de revenir à leur condition originelle. Imaginez quelqu’un tombant dans une fosse profonde et se débattant, s’accrochant, se hissant… Il faut d’une façon ou d’une autre qu’il sorte de là! Il n’est pas dans sa position originelle et il crie frénétiquement, il s’accroche aux murs, il fait du bruit, se débat, gémit parce qu’il veut retourner à sa position originelle.
+
+67 De même quand une personne est frappée de maladie, de douleurs et de souffrances (autrefois elle n’était pas ainsi), alors elle gémit. Pourquoi? Elle n’est pas dans la bonne position, il y a quelque chose qui ne va pas et elle gémit, essayant de revenir là où elle se trouvait quand elle, avait la santé. Et quand la nature et les hommes gémissent, comme dit la Bible, cela montre que quelque chose les a sortis de la position qui devait être la leur. Ils sont tombés de quelque part.
+
+68 Nous n’avons pas besoin que qui que ce soit interprète cela pour nous. Car nous savons avec certitude que c’est de la Vie éternelle que les hommes sont tombés, et qu’ils ont perdu leur droit à la Vie éternelle par la chute d’Adam et d’Eve, qu’ils sont tombés de la Vie éternelle dans la mort dans le jardin d’Eden, entraînant avec eux toute la nature dans la mort.
+
+69 Jamais un arbre n’est mort avant Adam. Aucun animal ne serait mort avant Adam. Il n’y a qu’une chose qui ne puisse pas mourir, c’est Dieu parce qu’Il est éternel. C’est la seule manière pour nous d’être gardés de la mort: nous devons avoir en nous la Vie éternelle afin d’être fils et filles de Dieu. Mais comme je le disais dans le message de ce matin, nous sommes morts lorsque nous avons vendu notre droit d’aînesse au péché et que nous avons traversé l’abîme. Maintenant nous sommes hors de portée de Dieu, de cet autre côté de l’abîme.
+
+70 Bien sûr, quand Adam tomba dans la mort il apporta la mort à toute la création. Il lui fut donné le libre arbitre. Cela lui fut donné tout comme à nous afin qu’il pût faire un choix.
+
+71 Au commencement il y avait un arbre du bien et du mal devant Adam et Eve, et ce même arbre est placé devant chacun de nous. Voyez, Dieu ne fait pas pour Adam et pour Eve… Vous direz: «C’est leur faute». Non, pas maintenant: c’est votre faute. Vous ne pouvez pas mettre la faute sur Adam maintenant, vous devez la mettre sur vous-mêmes parce que “le bien et le mal” sont placés devant vous. Nous sommes sur la même base qu’Adam et Eve.
+
+72 Mais quand nous sommes rachetés nous ne voulons plus notre propre choix, nous voulons Son choix. Mais Adam et Eve voulurent faire leur propre choix. Ils voulurent découvrir ce qu’était la sagesse. Ils la sondèrent et cela causa la mort.
+
+73 Quand un homme a été racheté il ne s’inquiète plus d’érudition, il ne s’inquiète plus des choses du monde, de la sagesse du monde. Il ne désire plus faire de choix du tout. Christ a été son choix, et c’est tout; il est racheté. Il ne veut simplement plus se conduire lui-même. Il n’a plus besoin que qui que ce soit lui dise où aller et que faire. Il attend de découvrir le choix de son Créateur; ensuite il va au Nom de son Créateur, là où son Créateur lui dit d’aller.
+
+74 Mais l’homme qui recherche la sagesse veut se renseigner. «Cette paroisse est très bien, mais on m’offre davantage là-bas: c’est donc là que j’irai!». Vous voyez la sagesse!
+
+75 Adam pécha en prêtant attention au raisonnement de sa femme, au lieu de s’en tenir à la Parole de Dieu. C’est cela qui fit pécher Adam. Sa femme raisonna avec Satan, puis en apporta le produit à Adam qui se détacha de la Parole de Dieu et se dépouilla. Il perdit aussi son héritage quand il perdit sa communion et son droit à la Vie. Rappelez-vous: “Le jour où tu en mangeras, tu mourras”.
+
+76 Et quand il perdit sa Vie, il perdit aussi son héritage dans la Vie, parce qu’il avait reçu autorité complète et suprême sur la terre. Il était le dieu de la terre. Dieu est le Dieu de tout l’univers, Il est Dieu partout. Mais Son fils avait cette terre sous sa propre autorité. Il pouvait parler, donner des noms, il pouvait ordonner, il pouvait stopper la nature; il pouvait faire tout ce qu’il voulait. Mais quand il perdit sa Vie, il perdit son héritage.
+
+77 Ainsi, Adam aurait pu dire: “Que cette montagne-ci soit déplacée là-bas!”. Et c’eût été fait. Adam aurait pu dire: “Que cet arbre-ci soit arraché et planté là-bas”. C’eût été fait vous voyez, car il avait l’autorité complète et suprême en tant que dieu mineur au-dessous de Dieu notre Père, parce qu’il était un fils de Dieu.
+
+78 Maintenant pourrions-nous nous arrêter ici une minute et avoir notre véritable prédication? Car si le sang, à ce moment-là, a purifié Adam et l’a rétabli, qu’en est-il aujourd’hui? Regardez ce que le Fils de Dieu, le second Adam a fait. Il dit: “Les oeuvres que je fais, vous les ferez aussi”.
+
+79 Adam perdit son héritage, la terre. Elle passa de ses mains à celles de celui auquel il s’était vendu: Satan. Il vendit sa foi en Dieu pour les raisonnements de Satan. Par conséquent sa Vie éternelle, son droit à l’Arbre de Vie, son droit à cette terre qui lui appartenait, tout cela il l’abandonna aux mains de Satan. Il le fit passer de ses mains à celles de Satan. Par conséquent tout sur la terre se corrompit et fut pollué, et la semence d’Adam a détruit l’héritage qu’Adam aurait dû avoir, c’est-à-dire la terre. C’est vrai! Vous voyez! La semence d’Adam.
+
+80 L’autre jour à Tucson où j’habite, je parlais à quelqu’un sur le haut de la montagne. Regardant la plaine, je disais: «Que pensez-vous de cela? Il y a trois cents ans, lorsque les vieux Papagos arrivaient là-bas sur leurs traîneaux avec femmes et enfants, ils s’installaient quelque part et vivaient paisiblement. Il n’y avait ni adultère ni whisky ni jeux, rien du tout parmi eux; ils vivaient proprement. Les coyotes descendaient chaque nuit le long du torrent en glapissant là où se trouve Tucson aujourd’hui; sur les rives le mesquite et le cactus fleurissaient et en regardant tout cela, Jéhovah devait sourire. Mais l’homme blanc est arrivé et qu’a-t-il fait? Il a arraché les cactus, il a souillé le pays avec ses boîtes de bière et ses bouteilles de whisky; il a détruit la morale de la nation. La seule façon pour lui de se débarrasser rapidement de l’Indien fut de détruire sa nourriture: le bison».
+
+81 L’autre jour au musée de Tombstone je vis des images de Geronimo. Beaucoup d’entre vous pourraient penser que Geronimo était un renégat; pour moi il était un Américain authentique qui se battait seulement pour défendre sa juste cause car Dieu lui avait donné un pays, une nation, un endroit pour vivre. Je ne le blâme pas pour ce qu’il a fait. Car ces soldats blancs vinrent ici et prirent le pays par force, et les tuèrent comme des mouches. Il y avait là des images de ce qu’était l’hôpital de Geronimo: deux ou trois couvertures étalées sur des buissons de mesquite; ces blessés étaient les véritables Américains, des Indiens qui se battaient pour des droits reçus de Dieu. Geronimo tenait un bébé dans ses bras, regardant ses propres guerriers, des blessés ensanglantés et mourants; ils n’avaient ni pénicilline ni aucune possibilité de les soulager; pourtant c’étaient des Américains authentiques, placés là par Dieu. Geronimo, un renégat? Moi, c’est ce que j’appelle un vrai gentleman!
+
+82 Cochise ne se serait jamais rendu. C’était un vieillard. Mais l’armée américaine vint (eux étaient tous bien vêtus) et tua les bisons. Ils organisèrent des parties de chasse (Sharpe inventa le
 
 LA REVELATION DES SEPT SCEAUX — LA BRECHE 11
 fusil à bisons) et ils disaient: «Oh, j’ai eu une bonne journée aujourd’hui (on les tirait depuis les
@@ -735,7 +454,7 @@ un rouleau? Dans un livre scellé on ne pouvait cependant ouvrir qu’un rouleau
 qu’était le mystère. Ensuite on ouvrait le suivant et on pouvait voir ce qui était réclamé; puis on en
 ouvrait encore un et on voyait ce qui était réclamé dans celui-là.
 118 La chose entière ici se trouve dans les sept Sceaux. Les mystères de Dieu depuis la fondation
-du monde sont tous scellés là-dedans et révélés par sept Sceaux différents; ainsi, Dieu voulant,
+ du monde sont tous scellés là-dedans et révélés par sept Sceaux différents; ainsi, Dieu voulant,
 nous ouvrirons ces Sceaux et nous regarderons le Livre d’un bout à l’autre et nous découvrirons
 tout ce qui les concerne. J’espère que nous passerons des moments glorieux.
 119 Le mystère de la rédemption est scellé, et ce livre ne peut pas être ouvert avant le message
@@ -1051,7 +770,7 @@ plus. Satan ne cesse de me dire que vous êtes fatigués. C’est peut-être vra
 
      http://www.cmpp.ch
 
-    LA REVELATION DES SEPT SCEAUX — LA BRECHE    20
+LA REVELATION DES SEPT SCEAUX — LA BRECHE    20
 même.
 188 Les sept cornes sont les sept églises, vous voyez? les sept âges de l’Eglise parce que
 c’est la protection de l’Agneau. Ses droits sur la terre, c’est avec un groupe de gens envoyés
@@ -1288,7 +1007,7 @@ Intercesseur”.
 232 Maintenant Il s’avance, sortant de l’Eternité, du Trône du Père où Il était assis en tant
 qu’Intercesseur. Il vient maintenant pour être Roi, pour gouverner les nations avec une verge de
 fer. Le jugement est placé. Oh, mes frères! Notre Parent Rédempteur détient tout cela. C’est juste,
-oui!
+ oui!
 233 Que fait-Il? Il interpelle ce contestataire, Satan: “Ils sont miens maintenant, je les ai fait sortir
 du tombeau”. Puis Il prend tous les menteurs, ceux qui corrompent la Parole et tous ceux qui
 agissent de cette manière, avec Satan, et les détruit dans l’étang de feu. Tout est fini maintenant. Il

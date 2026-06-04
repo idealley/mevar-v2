@@ -1,539 +1,179 @@
+---
+source: "cmpp"
+sermon_id: "7sceaux7"
+title: "Révélation des Sept Sceaux"
+subtitle: "Cinquième Sceau"
+date: "1963-03-22"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "Prédication sur le cinquième sceau de l'Apocalypse (6.9-11), expliquant que les âmes sous l'autel sont celles des martyrs de la Parole. Branham montre qu'après le quatrième sceau, il n'y a plus d'être vivant pour annoncer les sceaux, car l'Église est enlevée et l'antichrist a achevé sa course. Il insiste sur la simplicité de Dieu et la révélation par la foi."
+tags:
+  - "cinquième sceau"
+  - "âmes sous l'autel"
+  - "martyrs"
+  - "antichrist"
+  - "simplicité de Dieu"
+persons:
+  - "William Branham"
+  - "Jésus-Christ"
+  - "Jean"
+  - "Irénée"
+  - "Polycarpe"
+  - "Saint Martin"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "États-Unis"
+themes:
+  - "révélation des sceaux"
+  - "martyre"
+  - "enlèvement de l'Église"
+  - "antichrist"
+  - "simplicité divine"
+  - "foi contre sagesse"
+pdf_url: "http://cmpp.ch/7sceaux7.pdf"
+llm_cleaned: true
+bible_refs:
+  - "Actes 15"
+  - "Actes 19"
+  - "Actes 20"
+  - "Apocalypse 10"
+  - "Apocalypse 11"
+  - "Apocalypse 12"
+  - "Apocalypse 13"
+  - "Apocalypse 19"
+  - "Apocalypse 2"
+  - "Apocalypse 22"
+  - "Apocalypse 28"
+  - "Apocalypse 3"
+  - "Apocalypse 6"
+  - "Malachie 4"
+  - "Matthieu 28"
+  - "Romains 11"
+  - "Ésaïe 35"
+  - "Ésaïe 59"
+---
 BROCHURE N° 7
 
-
-
-
-REVELATION
-DES
-SEPT SCEAUX
+RÉVÉLATION DES SEPT SCEAUX
 
 PAR
 
 WILLIAM MARRION BRANHAM
 
+---
 
+CINQUIÈME SCEAU
 
+**Révélation des Sept Sceaux / Le Cinquième Sceau**
 
+**Le Cinquième Sceau**
 
-
-
-
-
-
-CINQUIEME SCEAU
-
-    REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU    2
-
-    LE CINQUIEME SCEAU
-
-
-
-       22 mars 1963, soir
-       Branham Tabernacle
+22 mars 1963, soir
+Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
 
-
-
-
-
 1 Que Dieu soit remercié pour Son amour. Inclinons maintenant nos têtes pour la prière.
-2 Père céleste plein de grâces, Dieu Tout-puissant qui as ramené Jésus-Christ d’entre les morts
-et nous L’as présenté en ces derniers jours dans la puissance du Saint-Esprit, nous Te sommes
-reconnaissants pour ces puissantes visitations du Dieu immortel. Et maintenant, Père, une autre
-heure est devant nous qui pourrait bien changer la destinée éternelle de beaucoup de gens. Et
-pour nous approcher de ceci, Seigneur, nous sommes insuffisants parce qu’il est dit dans les
-Ecritures que c’est l’Agneau qui prit le Livre et en ouvrit les Sceaux.
-3 O Agneau de Dieu, approche-Toi, nous T’en prions. Nous T’invoquons, Seigneur, Toi le
-glorieux Rédempteur. Avance-Toi et montre-nous Ton plan de rédemption qui a été caché tout au
-long de ces années. Père, brise ce soir pour nous le Cinquième Sceau et révèle-nous ce qui est
-sous ce Sceau afin qu’en partant nous soyons de meilleurs chrétiens que maintenant, que nous
-soyons plus propres à la tâche qui nous attend. Nous Te le demandons au Nom de Jésus. Amen.
-4 Bonsoir, chers amis. Je considère comme un grand privilège d’être ici ce soir pour ce grand
-événement. Je ne connais pas d’endroit où je pourrais me sentir mieux qu’ici à travailler à l’oeuvre
-du Roi. Maintenant pour en venir plus particulièrement à ces leçons auxquelles nous nous
-attendons, s’Il ne m’accordait pas Sa révélation, je ne pourrais rien vous apporter.
-5 Je n’essaie pas d’utiliser aucune de mes propres pensées ou quoi que ce soit d’autre,
-je vous l’apporte simplement comme Il la donnera. C’est juste. Et je suis sûr que si je n’utilise
-pas mes propres pensées, mais que cela vient comme c’est toujours venu (et pendant toute ma
-vie cela n’a jamais été faux), cela ne sera pas non plus faux cette fois.
-6 C’est tellement glorieux et nous sommes très, très reconnaissants de ce qu’Il a fait pour nous.
-C’est la main mystérieuse et glorieuse du Dieu Vivant. Que pourrait-il y avoir de plus grand, quel
-plus grand privilège pourrions-nous avoir que celui d’avoir en notre présence le Roi des rois, le
-Seigneur des seigneurs?
-7 Nous sonnerions probablement des fanfares, nous hisserions les drapeaux et déroulerions les
-tapis et tout le reste, si le président de la Nation venait dans la ville. Ce serait très bien et cela
-honorerait la cité. Mais pensez que ce soir c’est le Roi des rois, Dieu, que nous invitons dans notre
-petit tabernacle. Il ne désire pas que l’on déroule des tapis et tout le reste. Il désire que des coeurs
-humbles soient préparés afin qu’Il puisse prendre ces coeurs humbles et leur révéler les bonnes
-choses qu’Il a en réserve pour tous ceux qui L’aiment.
-8 Nous avons reçu un témoignage que j’aimerais vous donner. Peut-être que je me trompe, je
-l’ai juste entendu, je pourrais me tromper, mais je pense que les gens auxquels ce témoignage
-s’applique sont ici.
-9 Ainsi donc il y a quelques jours, alors que je rentrais chez moi en Arizona, nous avons reçu un
-appel disant qu’un petit garçon était atteint de fièvre rhumatismale, et cela peut aller jusqu’au
-coeur. Son père et sa mère sont de très chers amis. C’était l’un des diacres de notre église ici, le
-frère Collins. Son petit garçon, le petit Mikie (le camarade de jeu de Joe), souffrait de fièvre
-rhumatismale au coeur. Les médecins l’avaient renvoyé à la maison et mis au lit, et avaient dit aux
-parents de ne pas le laisser se lever, ni même de le soulever pour lui donner de l’eau à boire, tant
-il allait mal. Il devait boire avec une paille. Et les parents, pleins de foi, vinrent au tabernacle et
-
-        http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 3
-crurent.
-10 Nous avions annoncé des services de guérison pour dimanche, mais voyant que nous allions
-devoir répondre à des questions, nous avons dû supprimer le service de guérison. Pourtant j’avais
-un petit quelque chose sur le coeur. Le père et la mère voulurent savoir s’ils pouvaient amener
-l’enfant dans la salle; ils apportèrent le petit à l’extérieur et le Saint-Esprit le déclara guéri.
-11 Alors les parents, tenant compte de cette Parole, ramenèrent le petit à la maison et
-l’envoyèrent à l’école. Ils l’envoyèrent tout simplement à l’école! Le médecin l’apprit. Il ne fut pas
-très content de cela; il dit bien sûr à la mère que le gosse devrait être au lit; mais elle lui raconta
-l’histoire.
-12 Je crois que ce médecin est un chrétien croyant d’une dénomination, les Adventistes du
-Septième Jour. Alors il dit: «Il est temps que j’examine cet enfant. Vous auriez dû au moins le faire
-examiner».
-13 La mère dit: «Très bien». Elle amena l’enfant et le médecin l’examina. Le sang, où la fièvre
-rhumatismale se loge… J’ai appris que le médecin fut tellement stupéfait qu’il ne sut que faire. Le
-garçonnet était parfaitement normal, bien et en bonne santé.
-14 Les Collins sont-ils ici? Je l’ai peut-être mal raconté. Est-ce juste, soeur Collins? C’est le petit
-Mikie Collins, âgé de six ou sept ans; et cela est arrivé dans cette salle même il y a environ trois
-jours.
-15 Oh, il fallait bien qu’il y ait Quelqu’un dans cette salle, en plus des êtres humains! C’était le
-glorieux et puissant Jéhovah, c’est vrai, venu pour honorer Sa Parole. Je suis si reconnaissant
-d’entendre cela. Je sais que nous le sommes tous. Non seulement moi mais nous tous, car qu’en
-serait-il si c’était votre petit garçon, ou mon petit garçon?
-16 Et rappelez-vous que le témoignage que je viens de vous donner n’en est qu’un parmi
-d’autres. Cela arrive partout, c’est juste pour vous montrer que mon véritable ministère est la
-guérison divine. Mais je suis ici pour ces Sceaux. Un peu plus tard vous comprendrez pourquoi je
-devais faire cela. Ainsi je ne suis pas un docteur ni un théologien. Je prie simplement pour les
-malades et j’aime le Seigneur.
-17 Hier soir, nous avons donné le témoignage de la petite fille. J’ai son nom, et Billy a quelque
-part celui des parents et qui ils sont. Cette fillette était au dernier stade de la leucémie. C’était si
-grave qu’on ne pouvait plus la nourrir par la bouche; elle devait avoir des transfusions de sang.
-Elle était si mignonne. Elle était petite pour son âge (comme cette petite demoiselle ici, je pense;
-elle n’était pas plus haute que cela). Ils étaient comme la plupart d’entre nous. Vous pouviez voir
-d’après les vêtements de l’enfant et des parents qu’ils étaient très pauvres, vraiment très pauvres,
-mais réellement respectueux, et le Saint-Esprit déclara l’enfant guéri.
-18 Pensez donc, la leucémie! Le sang était si mauvais qu’on ne pouvait même plus la nourrir par
-la bouche. Elle avait dû aller à l’hôpital et être alimentée par les veines. Je crois que c’était du
-glucose ou autre chose. Je ne connais pas les termes médicaux concernant cette maladie mais
-quoi qu’il en soit il fallait la nourrir ainsi. Mais avant de quitter cette salle, l’enfant réclama un
-hamburger!
-19 C’est après que les parents eurent entendu le AINSI DIT LE SEIGNEUR du Saint-Esprit. Ils
-étaient étrangers et n’étaient jamais venus ici auparavant. Mais un brave vieux couple, frère et
-soeur Kidd, leur avait trouvé des places quelques minutes avant, les avait instruits sur ce qu’ils
-devaient faire et écouter. Et voilà l’enfant qui mange son sandwich en rentrant à la maison!
-20 Deux ou trois jours après elle était à l’école! Puis elle alla chez le médecin qui fut stupéfait! Il
-dit: «On ne trouve pas la moindre trace de leucémie chez cette enfant». Ainsi, à l’instant même, la
-puissance du Dieu Tout-Puissant prend un système sanguin, le purifie complètement et y rétablit la
-pulsation d’une nouvelle vie, parce que votre système sanguin c’est votre vie de mortel. C’est lui
-qui crée les nouvelles cellules et élimine les anciennes. Et ce que c’est, je vais vous le dire: c’est
-un acte créateur du Dieu Tout-Puissant que de prendre un système sanguin contaminé par le
-cancer au point que le petit être était devenu jaune et enflé; et après quelques instants il avait un
-système sanguin tout neuf.
-21 Je crois (je ne vais pas parler en Son Nom; je vais parler selon la révélation de ma foi), que ce
-qui s’est produit l’autre jour dans le Sabino Canyon… Je crois que l’heure vient où des membres
-
-        http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 4
-manquants repousseront par la puissance glorieuse du Créateur. Je crois que, s’Il est capable de
-faire apparaître un écureuil parfaitement constitué, à combien plus forte raison en sera-t-il de
-même pour un homme ou une femme à qui il manquerait un membre. Il est Dieu! Je L’aime.
-22 J’ai commencé à parler sur ces sujets et je m’aperçois que je continue à parler alors qu’il y a
-des gens debout dans la salle, les couloirs et partout. C’est pourquoi je vais en venir directement
-au message et je veux dire ceci… Je voudrais adresser mes remerciements à Celui qui est
-omniprésent; en effet, aujourd’hui, ne sachant pas la moindre chose au sujet de ce cinquième
-Sceau, cela m’est venu de la même manière mystérieuse ce matin, environ une heure avant
-l’aube, alors que j’étais en prière. Je me suis tenu ces cinq ou six derniers jours dans une petite
-chambre, sans voir personne. Je n’en sortais que pour prendre mes repas avec quelques amis
-d’ici. Vous les connaissez bien: ce sont frère et soeur Wood. J’ai logé chez eux, et tout le monde a
-été gentil avec moi. Il n’y a rien eu de spécial, mais j’essaie de rester tout près du message de ces
-Sceaux. C’est important. Je crois que c’est l’heure de leur révélation.
-23 Et maintenant je voudrais que vous soyez bien sûrs… Dès que vous le pouvez, demandez par
-écrit ce que vous ne comprenez pas au sujet des sept Sceaux, et déposez-le sur ce podium. Frère
-Neville, ou quelqu’un d’autre pourrait peut-être mettre une boîte ici. Ah, j’en vois déjà! J’aimerais
-avoir ces questions ce soir déjà afin de pouvoir les étudier un peu pour dimanche matin.
-24 Cette fois, et cette fois spécialement, ne posez pas ce genre de questions: «Est-ce que ceci
-est l’évidence du Saint-Esprit?». Vous voyez. J’aimerais en avoir sur ce que je viens de vous
-enseigner, vous voyez, afin de ne traiter que ce sujet comme nous l’avons fait pour les âges de
-l’Eglise, parce que c’est ce dont nous nous occupons maintenant.
-25 C’est comme quand nous prions pour les malades. C’est une sorte de prière différente et vous
-êtes oint pour cela. C’est une chose différente, vous savez, et vous cherchez Dieu pour trouver. «Y
-aura-t-il quelqu’un là ce soir, Seigneur?».
-26 «Oui, ce sera quelqu’un qui porte une robe jaune et qui sera assis dans le coin à droite, et
-quand tu l’appelleras, donne-lui ce nom-ci et dis qu’elle a fait ceci et cela et qu’elle a ceci et cela.
-Tu descendras là et tu observeras, et elle sera là». Voilà. Vous voyez, c’est différent. Je prie ainsi:
-«Seigneur Jésus, quelle est l’interprétation de cela. Révèle-le moi».
-27 Maintenant ressortons notre épée, la Parole. J’apprécie autant le soutien spirituel de frère
-Neville que son amour fraternel. Il est là derrière moi, priant pour moi ainsi que vous tous ici. Et
-maintenant comme nous sommes vendredi soir… Nous ne pouvons toucher tous les points. Si
-nous prenions un seul de ces Sceaux, il faudrait des mois et des mois pour le voir d’un bout à
-l’autre de l’Ecriture et on n’aurait encore pas fini, parce qu’un seul Sceau par lui-même lie
-ensemble l’Ecriture tout entière, de la Genèse à l’Apocalypse 28 Ainsi, ce que j’essaie de faire, c’est d’éviter de m’en éloigner; je note un passage de l’Ecriture
-ou fais une petite note quelque part sur ce sujet, et j’essaie de ne pas m’y attarder trop longtemps.
-Je dois veiller à cela parce que, quand je parle, j’espère que c’est l’inspiration juste. Si je
-commence à parler et que je sente que je m’éloigne de mon sujet, je reviens en arrière, regardant
-dans une autre direction pour essayer de trouver un autre passage des Ecritures sur lequel
-continuer, vous voyez, afin de donner un peu de lumière pour l’éclairer sur ce côté-là, au lieu
-d’essayer de continuer dans la direction précédente.
-29 Maintenant donc nous allons étudier ce soir le cinquième Sceau, par la grâce de Dieu et avec
-Son aide. Il est court, mais un peu plus long que le précédent. Les quatre cavaliers avaient deux
-versets chacun. Celui-ci en a trois. Le cinquième Sceau commence donc au sixième chapitre de
-l’Apocalypse, verset 9.
-30 Si vous êtes étranger ici, vous n’avez peut-être pas entendu parler de ces quatre cavaliers.
-Vous voyez, quelquefois vous revenez en arrière et prenez un embranchement, et en ce faisant
-vous vous attendez à ce que les gens comprennent. Alors s’il y a un petit quelque chose que vous
-ne compreniez pas, prenez patience ou écoutez la bande magnétique, et je suis sûr que vous en
-retirerez une bénédiction. J’en ai reçues, j’espère que vous aussi.
+2 Père céleste plein de grâces, Dieu Tout-puissant qui as ramené Jésus-Christ d’entre les morts et nous L’as présenté en ces derniers jours dans la puissance du Saint-Esprit, nous Te sommes reconnaissants pour ces puissantes visitations du Dieu immortel. Et maintenant, Père, une autre heure est devant nous qui pourrait bien changer la destinée éternelle de beaucoup de gens. Et pour nous approcher de ceci, Seigneur, nous sommes insuffisants parce qu’il est dit dans les Ecritures que c’est l’Agneau qui prit le Livre et en ouvrit les Sceaux.
+3 O Agneau de Dieu, approche-Toi, nous T’en prions. Nous T’invoquons, Seigneur, Toi le glorieux Rédempteur. Avance-Toi et montre-nous Ton plan de rédemption qui a été caché tout au long de ces années. Père, brise ce soir pour nous le Cinquième Sceau et révèle-nous ce qui est sous ce Sceau afin qu’en partant nous soyons de meilleurs chrétiens que maintenant, que nous soyons plus propres à la tâche qui nous attend. Nous Te le demandons au Nom de Jésus. Amen.
+4 Bonsoir, chers amis. Je considère comme un grand privilège d’être ici ce soir pour ce grand événement. Je ne connais pas d’endroit où je pourrais me sentir mieux qu’ici à travailler à l’oeuvre du Roi. Maintenant pour en venir plus particulièrement à ces leçons auxquelles nous nous attendons, s’Il ne m’accordait pas Sa révélation, je ne pourrais rien vous apporter.
+5 Je n’essaie pas d’utiliser aucune de mes propres pensées ou quoi que ce soit d’autre, je vous l’apporte simplement comme Il la donnera. C’est juste. Et je suis sûr que si je n’utilise pas mes propres pensées, mais que cela vient comme c’est toujours venu (et pendant toute ma vie cela n’a jamais été faux), cela ne sera pas non plus faux cette fois.
+6 C’est tellement glorieux et nous sommes très, très reconnaissants de ce qu’Il a fait pour nous. C’est la main mystérieuse et glorieuse du Dieu Vivant. Que pourrait-il y avoir de plus grand, quel plus grand privilège pourrions-nous avoir que celui d’avoir en notre présence le Roi des rois, le Seigneur des seigneurs?
+7 Nous sonnerions probablement des fanfares, nous hisserions les drapeaux et déroulerions les tapis et tout le reste, si le président de la Nation venait dans la ville. Ce serait très bien et cela honorerait la cité. Mais pensez que ce soir c’est le Roi des rois, Dieu, que nous invitons dans notre petit tabernacle. Il ne désire pas que l’on déroule des tapis et tout le reste. Il désire que des coeurs humbles soient préparés afin qu’Il puisse prendre ces coeurs humbles et leur révéler les bonnes choses qu’Il a en réserve pour tous ceux qui L’aiment.
+8 Nous avons reçu un témoignage que j’aimerais vous donner. Peut-être que je me trompe, je l’ai juste entendu, je pourrais me tromper, mais je pense que les gens auxquels ce témoignage s’applique sont ici.
+9 Ainsi donc il y a quelques jours, alors que je rentrais chez moi en Arizona, nous avons reçu un appel disant qu’un petit garçon était atteint de fièvre rhumatismale, et cela peut aller jusqu’au coeur. Son père et sa mère sont de très chers amis. C’était l’un des diacres de notre église ici, le frère Collins. Son petit garçon, le petit Mikie (le camarade de jeu de Joe), souffrait de fièvre rhumatismale au coeur. Les médecins l’avaient renvoyé à la maison et mis au lit, et avaient dit aux parents de ne pas le laisser se lever, ni même de le soulever pour lui donner de l’eau à boire, tant il allait mal. Il devait boire avec une paille. Et les parents, pleins de foi, vinrent au tabernacle et crurent.
+10 Nous avions annoncé des services de guérison pour dimanche, mais voyant que nous allions devoir répondre à des questions, nous avons dû supprimer le service de guérison. Pourtant j’avais un petit quelque chose sur le coeur. Le père et la mère voulurent savoir s’ils pouvaient amener l’enfant dans la salle; ils apportèrent le petit à l’extérieur et le Saint-Esprit le déclara guéri.
+11 Alors les parents, tenant compte de cette Parole, ramenèrent le petit à la maison et l’envoyèrent à l’école. Ils l’envoyèrent tout simplement à l’école! Le médecin l’apprit. Il ne fut pas très content de cela; il dit bien sûr à la mère que le gosse devrait être au lit; mais elle lui raconta l’histoire.
+12 Je crois que ce médecin est un chrétien croyant d’une dénomination, les Adventistes du Septième Jour. Alors il dit: «Il est temps que j’examine cet enfant. Vous auriez dû au moins le faire examiner».
+13 La mère dit: «Très bien». Elle amena l’enfant et le médecin l’examina. Le sang, où la fièvre rhumatismale se loge… J’ai appris que le médecin fut tellement stupéfait qu’il ne sut que faire. Le garçonnet était parfaitement normal, bien et en bonne santé.
+14 Les Collins sont-ils ici? Je l’ai peut-être mal raconté. Est-ce juste, soeur Collins? C’est le petit Mikie Collins, âgé de six ou sept ans; et cela est arrivé dans cette salle même il y a environ trois jours.
+15 Oh, il fallait bien qu’il y ait Quelqu’un dans cette salle, en plus des êtres humains! C’était le glorieux et puissant Jéhovah, c’est vrai, venu pour honorer Sa Parole. Je suis si reconnaissant d’entendre cela. Je sais que nous le sommes tous. Non seulement moi mais nous tous, car qu’en serait-il si c’était votre petit garçon, ou mon petit garçon?
+16 Et rappelez-vous que le témoignage que je viens de vous donner n’en est qu’un parmi d’autres. Cela arrive partout, c’est juste pour vous montrer que mon véritable ministère est la guérison divine. Mais je suis ici pour ces Sceaux. Un peu plus tard vous comprendrez pourquoi je devais faire cela. Ainsi je ne suis pas un docteur ni un théologien. Je prie simplement pour les malades et j’aime le Seigneur.
+17 Hier soir, nous avons donné le témoignage de la petite fille. J’ai son nom, et Billy a quelque part celui des parents et qui ils sont. Cette fillette était au dernier stade de la leucémie. C’était si grave qu’on ne pouvait plus la nourrir par la bouche; elle devait avoir des transfusions de sang. Elle était si mignonne. Elle était petite pour son âge (comme cette petite demoiselle ici, je pense; elle n’était pas plus haute que cela). Ils étaient comme la plupart d’entre nous. Vous pouviez voir d’après les vêtements de l’enfant et des parents qu’ils étaient très pauvres, vraiment très pauvres, mais réellement respectueux, et le Saint-Esprit déclara l’enfant guéri.
+18 Pensez donc, la leucémie! Le sang était si mauvais qu’on ne pouvait même plus la nourrir par la bouche. Elle avait dû aller à l’hôpital et être alimentée par les veines. Je crois que c’était du glucose ou autre chose. Je ne connais pas les termes médicaux concernant cette maladie mais quoi qu’il en soit il fallait la nourrir ainsi. Mais avant de quitter cette salle, l’enfant réclama un hamburger!
+19 C’est après que les parents eurent entendu le AINSI DIT LE SEIGNEUR du Saint-Esprit. Ils étaient étrangers et n’étaient jamais venus ici auparavant. Mais un brave vieux couple, frère et soeur Kidd, leur avait trouvé des places quelques minutes avant, les avait instruits sur ce qu’ils devaient faire et écouter. Et voilà l’enfant qui mange son sandwich en rentrant à la maison!
+20 Deux ou trois jours après elle était à l’école! Puis elle alla chez le médecin qui fut stupéfait! Il dit: «On ne trouve pas la moindre trace de leucémie chez cette enfant». Ainsi, à l’instant même, la puissance du Dieu Tout-Puissant prend un système sanguin, le purifie complètement et y rétablit la pulsation d’une nouvelle vie, parce que votre système sanguin c’est votre vie de mortel. C’est lui qui crée les nouvelles cellules et élimine les anciennes. Et ce que c’est, je vais vous le dire: c’est un acte créateur du Dieu Tout-Puissant que de prendre un système sanguin contaminé par le cancer au point que le petit être était devenu jaune et enflé; et après quelques instants il avait un système sanguin tout neuf.
+21 Je crois (je ne vais pas parler en Son Nom; je vais parler selon la révélation de ma foi), que ce qui s’est produit l’autre jour dans le Sabino Canyon… Je crois que l’heure vient où des membres manquants repousseront par la puissance glorieuse du Créateur. Je crois que, s’Il est capable de faire apparaître un écureuil parfaitement constitué, à combien plus forte raison en sera-t-il de même pour un homme ou une femme à qui il manquerait un membre. Il est Dieu! Je L’aime.
+22 J’ai commencé à parler sur ces sujets et je m’aperçois que je continue à parler alors qu’il y a des gens debout dans la salle, les couloirs et partout. C’est pourquoi je vais en venir directement au message et je veux dire ceci… Je voudrais adresser mes remerciements à Celui qui est omniprésent; en effet, aujourd’hui, ne sachant pas la moindre chose au sujet de ce cinquième Sceau, cela m’est venu de la même manière mystérieuse ce matin, environ une heure avant l’aube, alors que j’étais en prière. Je me suis tenu ces cinq ou six derniers jours dans une petite chambre, sans voir personne. Je n’en sortais que pour prendre mes repas avec quelques amis d’ici. Vous les connaissez bien: ce sont frère et soeur Wood. J’ai logé chez eux, et tout le monde a été gentil avec moi. Il n’y a rien eu de spécial, mais j’essaie de rester tout près du message de ces Sceaux. C’est important. Je crois que c’est l’heure de leur révélation.
+23 Et maintenant je voudrais que vous soyez bien sûrs… Dès que vous le pouvez, demandez par écrit ce que vous ne comprenez pas au sujet des sept Sceaux, et déposez-le sur ce podium. Frère Neville, ou quelqu’un d’autre pourrait peut-être mettre une boîte ici. Ah, j’en vois déjà! J’aimerais avoir ces questions ce soir déjà afin de pouvoir les étudier un peu pour dimanche matin.
+24 Cette fois, et cette fois spécialement, ne posez pas ce genre de questions: «Est-ce que ceci est l’évidence du Saint-Esprit?». Vous voyez. J’aimerais en avoir sur ce que je viens de vous enseigner, vous voyez, afin de ne traiter que ce sujet comme nous l’avons fait pour les âges de l’Eglise, parce que c’est ce dont nous nous occupons maintenant.
+25 C’est comme quand nous prions pour les malades. C’est une sorte de prière différente et vous êtes oint pour cela. C’est une chose différente, vous savez, et vous cherchez Dieu pour trouver. «Y aura-t-il quelqu’un là ce soir, Seigneur?».
+26 «Oui, ce sera quelqu’un qui porte une robe jaune et qui sera assis dans le coin à droite, et quand tu l’appelleras, donne-lui ce nom-ci et dis qu’elle a fait ceci et cela et qu’elle a ceci et cela. Tu descendras là et tu observeras, et elle sera là». Voilà. Vous voyez, c’est différent. Je prie ainsi: «Seigneur Jésus, quelle est l’interprétation de cela. Révèle-le moi».
+27 Maintenant ressortons notre épée, la Parole. J’apprécie autant le soutien spirituel de frère Neville que son amour fraternel. Il est là derrière moi, priant pour moi ainsi que vous tous ici. Et maintenant comme nous sommes vendredi soir… Nous ne pouvons toucher tous les points. Si nous prenions un seul de ces Sceaux, il faudrait des mois et des mois pour le voir d’un bout à l’autre de l’Ecriture et on n’aurait encore pas fini, parce qu’un seul Sceau par lui-même lie ensemble l’Ecriture tout entière, de la Genèse à l’Apocalypse 28 Ainsi, ce que j’essaie de faire, c’est d’éviter de m’en éloigner; je note un passage de l’Ecriture ou fais une petite note quelque part sur ce sujet, et j’essaie de ne pas m’y attarder trop longtemps. Je dois veiller à cela parce que, quand je parle, j’espère que c’est l’inspiration juste. Si je commence à parler et que je sente que je m’éloigne de mon sujet, je reviens en arrière, regardant dans une autre direction pour essayer de trouver un autre passage des Ecritures sur lequel continuer, vous voyez, afin de donner un peu de lumière pour l’éclairer sur ce côté-là, au lieu d’essayer de continuer dans la direction précédente.
+29 Maintenant donc nous allons étudier ce soir le cinquième Sceau, par la grâce de Dieu et avec Son aide. Il est court, mais un peu plus long que le précédent. Les quatre cavaliers avaient deux versets chacun. Celui-ci en a trois. Le cinquième Sceau commence donc au sixième chapitre de l’Apocalypse, verset 9.
+30 Si vous êtes étranger ici, vous n’avez peut-être pas entendu parler de ces quatre cavaliers. Vous voyez, quelquefois vous revenez en arrière et prenez un embranchement, et en ce faisant vous vous attendez à ce que les gens comprennent. Alors s’il y a un petit quelque chose que vous ne compreniez pas, prenez patience ou écoutez la bande magnétique, et je suis sûr que vous en retirerez une bénédiction. J’en ai reçues, j’espère que vous aussi.
 31 Maintenant tout le monde est-il prêt? Lisons du verset 9 au verset 11 y compris.
-     “Et lorsqu’il ouvrit le cinquième sceau, je vis sous l’autel les âmes de ceux qui avaient été
-     égorgés pour la parole de Dieu et pour le témoignage qu’ils avaient rendu. Et elles
-
-        http://www.cmpp.ch
-
-    REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU    5
-    criaient à haute voix, disant: Jusques à quand, ô Souverain, saint et véritable, ne juges-tu
-    pas et ne venges-tu pas notre sang sur ceux qui habitent sur la terre? Et il leur fut donné
-    à chacun une longue robe blanche; et il leur fut dit qu’ils se reposassent encore un peu
-    de temps, jusqu’à ce que, et leurs compagnons d’esclavage et leurs frères qui devaient
-    être mis à mort comme eux, fussent au complet”.
-32 Cela est assez mystérieux. Et maintenant je dis ceci à cause des bandes magnétiques, des
-pasteurs et des enseignants qui sont ici présents: Si vous avez un point de vue différent de
-celui-ci, cela a été mon cas. Mais ce que je vais dire vient de l’inspiration qui a
-complètement changé ma vision de cela.
-33 Je découvre, tandis que vous voyez ces choses révélées, que cela nous ramène en arrière et
-met ensemble les âges de l’Eglise et l’Ecriture, et lie le tout; c’est la raison pour laquelle je crois
-que cela vient de Dieu.
-34 Nous réalisons cela et je pense que nous dépendons parfois de ce qu’un grand docteur peut
-en avoir dit et c’est très bien. Je ne condamne pas le docteur d’aucune manière. Je ne condamne
-personne. Je condamne seulement le péché d’incrédulité et non pas les personnes.
-35 Certaines personnes ont dit: «Vous condamnez les organisations». Non. Ce que je
-condamne, c’est le système de l’organisation et non pas les gens qui s’y trouvent, le
-groupe de gens qui forment l’organisation. Mais le système par lequel ils sont gouvernés,
-c’est cela que je condamne, aussi bien chez les Catholiques que chez les Protestants.
-36 Plusieurs de mes meilleurs amis sont catholiques. Cet homme est peut-être assis ici ce soir.
-Savez-vous que si nous avons pu construire ce tabernacle, c’est parce qu’un Catholique romain a
-pris mon parti au Tribunal, défendant ma cause mieux que personne. Parfaitement. Et ils n’ont pas
-pu s’opposer à cette construction. C’est vrai.
-37 On nous avait dit qu’il y aurait trop de monde, et d’autres choses ainsi. «Oh, vous ne pouvez
-pas mettre quatre-vingt personnes de plus dans cette église!».
-38 Cet homme dit: «Cette église est là et j’en connais le pasteur. Cette église a été établie là.
-Pourquoi les autres pourraient-ils agrandir, et pas eux?». C’était un Catholique romain, un de mes
-bons amis. Certainement!
-39 Je parlais un jour à un Catholique, un véritable ami, Avant que je parte il avait une
-quincaillerie. Il me disait: «Billy, je sais que tu ne crois pas en notre système de religion, mais je te
-le dis carrément: Dieu a vraiment exaucé tes prières en notre faveur. Je crois que si tu avais des
-difficultés quelconques, où que ce soit dans cette nation, chaque Catholique de ce pays viendrait
-vers toi». Il ne disait pas: chaque “Catholique” mais chaque “Porte-Croix”, comme il les appelait. Je
-le répète comme il me l’a dit.
-40 Certes, ils revendiquent ce nom parce que les premiers chrétiens portaient des croix sur le
-dos. Nous savons cela par l’histoire. Et ils prétendent être les premiers chrétiens, ce qu’ils
-sont, mais le système les a fait sortir du chemin, vous voyez, et ces gens, Catholiques, Juifs,
-ou quels qu’ils soient, ce sont des êtres humains, issus du même arbre que nous. Vous
-comprenez? C’est vrai. Ce sont des gens qui aiment, mangent, boivent, dorment comme n’importe
-qui d’autre. Alors nous ne devons jamais condamner des individus, pas un seul, vous voyez?
-41 Nous ne devons pas condamner les individus, mais en tant que pasteur, je dois frapper
-le serpent qui mord ces gens, vous voyez? Quant à moi, je ne le ferais pas, si ce n’était Dieu
-qui me l’avait ordonné. J’ai le devoir de le faire et je dois rester véridique et fidèle.
-42 Si un Catholique, un Juif ou n’importe qui d’autre venait ici pour que je prie pour lui, que ce
-soit un Mahométan, un Grec, un Orthodoxe ou qui que ce soit, s’il venait ici pour que l’on prie pour
-lui, je prierais pour lui aussi sincèrement que pour les miens. C’est vrai. Certainement, parce que
-c’est un être humain. Vous savez, j’ai prié pour des Bouddhistes, des Chiites, des Djains, des
-Mahométans et toutes sortes de gens comme cela, vous voyez, et je ne leur pose aucune
-question. Je ne fais que prier pour eux, parce que ce sont des êtres humains qui désirent être en
-bonne santé et que j’essaie de leur rendre la vie un peu plus facile.
-43 Beaucoup d’entre vous ici (je sais qu’il y a ici au moins deux ou trois authentiques érudits qui
-sont cultivés et connaissent la doctrine d’autres hommes à ce sujet). Je désire que ces frères
-sachent que je ne condamne pas ces hommes. J’exprime seulement ce que le Seigneur me
-
-    http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 6
-montre. C’est tout.
-44 Nous ne devons jamais penser qu’une simple blanchisseuse ou un simple laboureur ne
-puisse pas recevoir de révélation de Dieu parce qu’en réalité, Dieu se révèle toujours dans la
-simplicité. Pour commencer cette série de prédications, nous avons eu la journée de dimanche
-passé pour montrer comment Il se révèle dans Sa simplicité. C’est ce qui fait qu’Il est grand.
-45 Maintenant laissez-moi revoir cela un instant. Ce qui rend Dieu grand, c’est qu’Il peut se
-rendre si simple. C’est ce qui fait qu’Il est grand. Dieu est grand et Il peut se mettre Lui-même dans
-une forme si simple que les sages de ce monde ne peuvent Le trouver. Ils ne peuvent tout
-simplement pas Le trouver parce qu’Il se fait trop simple. Alors faites bien attention à ceci. Voilà
-en soi le mystère de la révélation de Jésus-Christ. Il est en cela: Il ne peut rien y avoir de plus
-grand que Dieu et vous ne pouvez rien faire d’aussi simple qu’Il se fait Lui-même, vous voyez?
-Voilà ce qui fait qu’Il est grand.
-46 Un grand homme peut devenir encore un petit peu plus grand et peut-être s’abaisser jusqu’à
-vous et dire: «Comment allez-vous?» ou quelque chose comme cela, mais il ne peut se faire petit.
-Il y a quelque chose en lui: il est humain. Il ne lui est pas possible de se faire petit, parce que
-lorsqu’il devient trop petit, la première chose qu’il fera alors, vous savez, c’est de se référer à ce
-que quelqu’un d’autre a fait, et ainsi il recommencera à se mettre en avant. Mais la voie pour
-s’élever c’est de descendre en Dieu.
-47 Les sages de ce monde essaient par leur sagesse de Le trouver. En s’élevant de cette
-manière ils s’éloignent de Lui. Si vous essayez d’expliquer quelque chose par les mathématiques
-ou autrement, souvenez-vous qu’Il l’a même dit dans la Bible, dans Ésaïe 35, je crois; c’est
-tellement simple que même un délinquant le comprendrait, même un insensé ne s’y égarera pas.
-48 Avec leur sagesse, les sages manquent cela de beaucoup; ils s’éloignent de plus en plus de
-Lui en essayant de Le trouver par la sagesse. Maintenant n’oubliez pas cela. C’est enregistré,
-vous savez. Les sages, dans leur sagesse, vont si loin pour essayer de Le trouver par leur
-sagesse qu’ils Le manquent, vous voyez. S’ils pouvaient être assez grands pour être assez
-simples, ils pourraient Le trouver. Si vous êtes assez grands pour devenir assez simples.
-49 Vous voyez, cela est réellement la vérité. Je suis allé voir des gens à leur bureau qui étaient
-vraiment des personnalités, de grands rois, vous savez, des potentats, des monarques; ce sont
-généralement de grands hommes. Je suis aussi allé à un endroit où un homme changeait de
-vêtements à chaque occasion; c’était peut-être quelque ministre qui voulait discuter avec moi un
-moment. Il semble que le monde ne pourrait pas tourner sans eux et cela leur est monté à la tête,
-vous voyez. Mais un grand homme s’assied et essaie de vous faire croire que c’est vous qui êtes
-le grand homme; il peut s’humilier.
-50 Voyez-vous, Dieu est si grand qu’Il peut s’humilier à un point tel qu’aucun être humain ne
-puisse descendre aussi bas, vous voyez. C’est tout. Mais ils essaient de Le trouver en envoyant
-les jeunes à l’école pour obtenir des titres universitaires. Ils essaient de Le trouver par la
-terminologie théologique de la Bible et ils essaient de Le trouver par des programmes éducatifs,
-des programmes d’organisations et en embellissant les choses. Mais Il n’est pas là du tout. Vous
-vous battez simplement contre du vent, c’est tout. Vous vous éloignez.
-51 S’ils pouvaient être assez grands pour être assez simples, ils Le trouveraient dans cette
-direction, en étant simples. Mais tant que vous allez vers la sagesse, vous vous éloignez de Lui.
-Maintenant, laissez-moi vous présenter cela de telle manière que vous ne le manquiez pas. Aussi
-longtemps que vous essayez de trouver Dieu par la sagesse, comme ce fut le cas dans le jardin
-d’Eden, comme ce fut le cas du temps de Moïse, comme ce fut le cas du temps de Noé, comme
-ce fut le cas du temps de Christ, du temps de Jean, du temps des apôtres et jusqu’à ce jour,
-quand vous essayez de vous représenter Dieu et de Le trouver par la sagesse, vous vous éloignez
-de plus en plus de Lui! Vous essayez de comprendre ces choses. Il n’y a aucun moyen de
-comprendre. Acceptez-le simplement. Croyez-le simplement. N’essayez pas de comprendre.
-52 Il y a beaucoup de choses que je ne puis comprendre. Il n’y a pas beaucoup de choses que je
-comprenne. Je ne comprends pas pourquoi ces jeunes assis ici mangent la même nourriture que
-moi et ont une chevelure abondante, alors que je n’en ai pas. Je ne le comprends pas. On m’a dit
-que c’est le calcium qui les fait pousser, et je dois sans cesse me couper les ongles, mais je n’ai
-pas du tout de cheveux à couper! Cela, je ne le comprends pas.
-
-        http://www.cmpp.ch
-
-    REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU    7
-53 Comme on le disait autrefois (cela pourrait changer un peu notre position dans les choses
-sérieuses, mais c’est une chose sérieuse, bien que je n’en sois pas encore arrivé au Sceau),
-comment se fait-il qu’une vache noire qui mange de l’herbe verte donne du lait blanc qui devient
-du beurre jaune? Je ne pourrais vraiment pas l’expliquer, parce que voyez-vous, chacun est un
-produit de l’autre. Je ne puis l’expliquer.
-54 Je ne sais pas pourquoi, de deux lis ou de deux fleurs de la même race, l’une est rouge et
-l’autre jaune, l’une brune et l’autre bleue. Je ne le comprends pas. C’est le même soleil qui les
-éclaire. D’où vient leur couleur? Vous voyez? Je ne puis l’expliquer et il faut l’accepter comme
-cela.
-55 J’aimerais qu’un grand théologien puisse m’expliquer comment la terre reste sur son orbite.
-J’aimerais que, scientifiquement, vous puissiez lancer une balle en l’air, la faire tourner et lui faire
-subir une seconde révolution à la même place, mais vous ne pourriez pas le faire. Et pourtant tout
-est si parfaitement synchronisé qu’on peut déterminer à la minute près l’éclipse de soleil qui aura
-lieu dans vingt ans. On n’a pas de montre, de pendule ou d’autre machine aussi parfaite et
-pourtant cela demeure stable. Et puis il y a l’axe de la terre qui est incliné; que se passerait-il s’il se
-redressait un petit peu? Vous vous rendriez simplement ridicule en essayant d’expliquer cela.
-56 Ainsi, voyez-vous, n’essayez pas d’acquérir de la sagesse pour comprendre. Croyez
-simplement ce qu’Il dit: plus vous pourrez devenir simple, mieux cela vaudra. Voilà. Et alors vous
-trouverez. Je suis si reconnaissant pour cela, reconnaissant qu’Il se soit fait Lui-même si simple.
-Bien. Lisons le 9ème verset du chapitre 6.
-     “Et lorsqu’il ouvrit le cinquième sceau, je vis sous l’autel les âmes de ceux qui avaient été
-     égorgés pour la parole de Dieu et pour le témoignage qu’ils avaient rendu”.
-57 Remarquez qu’il n’est plus fait mention d’une autre bête ou d’un être vivant dans cette
-annonce du cinquième Sceau. Souvenez-vous qu’il y en eut un pour le premier Sceau, pour le
-deuxième, le troisième et le quatrième Sceau, mais pas ici, vous voyez. Revenons un peu en
-arrière sur ces Sceaux.
-     “Et lorsqu’il ouvrit le quatrième sceau, j’entendis la voix du quatrième animal, disant:
-     Viens et vois”.
-     “Et lorsqu’il ouvrit le troisième sceau, j’entendis le troisième animal disant: Viens et vois”.
-     “… le second animal disant: Viens et vois”.
-     Enfin il y a le premier animal qui dit: “… Viens et vois”.
-58 Mais lorsque nous arrivons au cinquième Sceau, il n’y a plus d’être vivant. Remarquez: “Et
-lorsqu’il ouvrit le cinquième sceau, je vis sous l’autel…”. Nous voyons tout de suite qu’il n’y a pas
-d’être vivant, et une bête ce présente une puissance, nous le savons. Ici il n’y a plus d’être vivant.
-59 En étudiant la révélation dans les Eglises nous avons découvert que l’une de ces créatures
-était un lion; l’autre était un veau, l’autre encore était un homme et la dernière était un aigle. Nous
-avons trouvé dans les âges de l’Eglise que ces quatre êtres vivants représentant quatre
-puissances étaient rassemblés autour des Actes des apôtres de la même manière que les
-bannières autour du tabernacle dans le désert.
-60 Vous comprenez cela, c’est pourquoi je ne prendrai pas le temps d’entrer dans cela
-maintenant. Nous avons déjà exposé ces choses exactement. Ces animaux veillaient à ce que
-l’Agneau et la Parole accomplissent la Parole exactement comme dans le désert ils le firent auprès
-de l’arche de l’alliance qui se trouvait dans le lieu saint.
-61 Nous avons même montré leur position par les couleurs tribales d'Israël. Combien ont-ils
-entendu les sept âges de l’Eglise? La plupart d’entre vous, les deux tiers, je pense. Remarquez
-que même la nature des êtres vivants était exactement un emblème tribal pour les douze tribus
-groupées en quatre groupes de trois, sur chaque côté du tabernacle. Et les quatre êtres vivants se
-tenaient là et veillaient sur ces tribus dans les quatre directions.
-62 Nous avons pris les Evangiles et montré exactement que si vous vouliez entrer dans l’arche,
-les quatre êtres vivants gardaient l’arche de l’alliance. Puis nous avons découvert que l’alliance
-de la nouvelle Eglise était représentée sur terre par le Saint-Esprit. Le Sang nous avait
-renvoyé le Saint-Esprit, et les quatre êtres vivants représentaient les douze tribus d’Israël; ils
-
-    http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 8
-veillaient; nous avons découvert leur nature et nous avons rapporté cette nature à chacun des
-quatre Evangiles et montré que c’était exactement la même. L’un parlait au lion, l’autre au veau,
-c’étaient les quatre Evangiles. Voilà. Les quatre Evangiles sont la protection du Saint-Esprit.
-Amen!
-63 Je me suis toujours demandé et cela m’a frappé, car il y a environ six ans je crois, j’ai entendu
-un grand homme dire que les Actes des apôtres étaient juste la charpente. J’ai souvent entendu
-dire cela; mais entendre un homme qui de son état, étant prédicateur et docteur, a écrit quelques-
-uns des livres célèbres que les gens lisent partout, dire que les Actes des apôtres ne sont pas
-propres à l’enseignement de l’Eglise, alors que les Actes des apôtres en sont le fondement même!
-Ce n’est pas la charpente, mais le fondement. Parce que la Bible dit que le fondement de Dieu
-est établi sur la doctrine des apôtres. C’est vrai! Christ est la pierre angulaire.
-64 Et lorsque cet homme vint là et fit cette remarque, le coeur me manqua. Je pensai: «Ce n’est
-pas étonnant…». Eh bien maintenant je le vois dans les Sceaux. Cela n’avait simplement pas été
-révélé. C’est tout.
-65 Ils étaient là, ils se tenaient là. Il y a quelque chose qui dit simplement cela. Remarquez qu’ils
-montaient la garde. Lorsque nous en sommes arrivés à Matthieu 28.19 et que nous avons relevé
-cela tout au long de Matthieu qui est représenté par un lion, et que nous sommes arrivés là, nous
-avons découvert exactement pourquoi ils baptisaient au Nom de Jésus-Christ. Le voilà, se tenant
-là avec cette Ecriture-même pour garder le dépôt sacré du Baptême au Nom de Jésus-Christ.
-(Voilà que je reviens dans les âges de l’Eglise, maintenant!)
-66 Alors que nous abordons le cinquième Sceau remarquez qu’aucun cavalier ne s’avance
-et qu’il n’y a pas d’être vivant pour l’annoncer. L’Agneau a ouvert le Sceau et Jean l’a vu. Il n’y
-avait personne là pour dire: “Viens et vois”. Remarquez qu’il n’y a là aucune puissance d’être
-vivant. Et il n’y a pas d’être vivant pour annoncer le sixième Sceau. Et pour le septième Sceau il
-n’y a pas d’être vivant, ni de puissance pour l’annoncer, il n’y a personne.
-67 Donc, après le quatrième Sceau, il n’y a plus d’annonce par aucune puissance d’êtres vivants
-pour les cinquième, sixième et septième Sceaux.
-68 Maintenant remarquez (j’aime ceci) qu’au temps du cavalier et des quatre chevaux (le cavalier
-au singulier, mais quatre chevaux différents), il y avait un être vivant qui annonçait la puissance.
-Chaque fois que le cavalier enfourchait un autre cheval et s’avançait pour chevaucher, une autre
-sorte d’être vivant sortait et l’annonçait. C’est un grand mystère, c’est LE mystère. Pourquoi? Il
-annonce le mystère.
-69 Pourquoi n’y en a-t-il pas un ici pour annoncer le cinquième Sceau? Voilà pourquoi. Selon la
-révélation que le Seigneur Jésus m’a donnée aujourd’hui de bonne heure ce matin, le
-mystère des âges de l’Eglise est déjà terminé à ce moment-là. En ce temps-là le mystère de
-I’antichrist est révélé. L’antichrist a accompli sa dernière chevauchée; et nous le découvrons sur
-le cheval livide aux nombreuses couleurs mélangées qui poursuit son chemin en chevauchant vers
-la perdition (nous verrons cela quand nous étudierons les trompettes. J’aimerais bien vous le
-montrer maintenant, mais nous sortirions de nouveau du sujet).
-70 C’est pour cela qu’il n’y a plus personne. Vous savez, il n’y a rien qui ne soit écrit sans raison.
-Vous vous rappelez quand j’ai dit au début: «Il ne peut rien y avoir sans raison».
-71 Vous rappelez-vous la petite goutte d’encre? Vous voyez, il faut maintenant trouver la raison.
-Il y a une raison pour laquelle il n’y avait pas besoin d’une bête ou d’une puissance pour annoncer
-l’ouverture de ce Sceau. Et seul Dieu peut révéler pourquoi (tout est là) parce que tout repose en
-Lui.
-72 Mais la raison pour laquelle Il révéla, pour autant que je le comprenne, c’est à cause du
-mystère du Livre de la Rédemption, dans la mesure où l’antichrist est révélé. Et à ce moment-là
-l’Eglise est loin. Et ces choses ne se passent pas du tout pendant les âges de l’Eglise. C’est vrai!
-Elles se passent en dehors des âges de l’Eglise. A ce moment-là l’Eglise a été enlevée;
-absolument. Au quatrième chapitre de l’Apocalypse, l’Eglise monte et ne revient pas avant son
-retour avec son Roi au chapitre 19. Mais ces Sceaux révèlent ici ce qui a été, ce qui est et ce qui
-sera. Vous voyez? Ainsi ce qui devait être pour les âges de l’Eglise a été révélé par ces Sceaux; et
-maintenant observez ce que cela signifie.
-
-        http://www.cmpp.ch
-
-REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 9
-73 Les quatre étapes de son cavalier ont été révélées. Les quatre étapes de l’antichrist sur son
-cheval ont été révélées en ce temps-là; c’est pourquoi il n’y en a plus besoin. Les quatre êtres
-vivants de Dieu étaient là pour annoncer le cavalier tandis qu’il chevauchait. Quatre êtres vivants,
-ce sont quatre puissances.
-74 Nous savons, par l’interprétation des symboles bibliques, que le mot être vivant signifie
-puissance. Voyons cela de plus près. Les quatre êtres vivants dans la Bible représentent une
-puissance parmi le peuple. Il en est de même dans Daniel, lorsqu’il vit s’élever une certaine nation:
-c’était un ours se tenant sur le côté et qui avait trois côtes dans la gueule. C’est un symbole. Puis il
-vit s’élever une autre puissance, un bouc qui représentait quelque chose. Puis il vit s’élever une
-autre puissance, un léopard ayant plusieurs têtes. Il représentait un certain royaume. Puis il vit se
-dresser une autre bête, un grand lion avec des dents, qui piétinait le reste. Il représentait une
-puissance entièrement différente.
-75 L’un était le royaume de Nebucadnetsar. Il s’agit d’une autre espèce de songe. Daniel eut une
-vision. Nebucadnetsar fit un songe et Daniel l’interpréta, et cela concordait avec la vision. Amen!
-76 Oh, si vous saviez ce qui s’est passé. Ce qui s’est passé avant que nous partions d’ici! Vous
-comprenez? Eh bien, six songes clairs correspondirent exactement avec la vision. Un songe
-interprété est une vision; parce qu’une personne n’est peut-être pas née avec le subconscient
-qui lui permette de voir une vision tout en étant éveillée, alors Dieu plonge dans son subconscient
-et lui parle. Car Il a promis que dans les derniers jours Il visiterait Son peuple par des songes et
-aussi par des visions.
-77 La vision se produit lorsque vous êtes bien éveillé (comme je le suis maintenant) et que
-certaines choses sont révélées. Vous êtes là et dites exactement ce que c’est, vous voyez ce qui
-s’est passé et ce qui va arriver et ainsi de suite. Par contre c’est un songe lorsque vous dormez,
-que vos cinq sens sont inactifs et que vous êtes dans votre subconscient. Vous êtes quelque part
-parce que quand vous revenez, vous vous rappelez où vous avez été. Vous vous en souvenez
-toute votre vie; il s’agit donc de votre subconscient.
-78 Comme le sénateur Upshow le disait: «Vous ne pouvez pas être quelque chose que vous
-n’êtes pas». C’est juste. Si vous êtes né voyant, c’est que pour pouvoir faire cela il faut que les
-deux consciences soient tout à fait ensemble. Non pas l’une ici avec les cinq sens en activité, et
-l’autre là-bas qui n’apparaît que lorsque vous dormez et que vos cinq sens sont inactifs. Mais si
-vous êtes né voyant et que les deux sont tout à fait ensemble, vous n’allez pas dormir. Vous
-passez simplement de l’un à l’autre, vous n’allez pas dormir. Il n’y a pas assez de temps pour
-dormir et vous ne pouvez vous y forcer. Ainsi les dons et les appels sont prédestinés par Dieu. Ce
-sont les dons et les appels de Dieu et la Bible dit qu’Il ne s’en repent pas. Vous voyez? Ils ont été
-ordonnés avant la fondation du monde.
-79 Nous voyons que la bête de Daniel signifie qu’une puissance était en train de se lever parmi le
-peuple. De même ici, la vision de Jean montre que c’était une puissance, des nations qui
-s’élevaient.
-80 Ainsi dans Apocalypse 13, les Etats-Unis apparaissent comme un agneau. Alors, si vous
-croyez mieux le savoir, vous pourrez dire que ce passage parle d’une puissance nationale. La bête
-représente aussi une puissance sainte, saviez-vous cela? Remarquez que lorsqu’Eliézer, le
-serviteur d’Abraham, vint chercher Rebecca, il la fit monter sur un chameau, le chameau même
-qu’elle avait abreuvé. Et elle alla sur ce chameau à la rencontre de l’époux qu’elle n’avait
-jamais vu. La bête même qu’elle avait abreuvée était ce qui la porta à sa demeure future et à
-son mari.
-81 C’est la même chose aujourd’hui, voyez-vous. La chose même que l’Eglise est en train
-d’abreuver, c’est la semence, la semence de la Parole, c’est la Parole même, qui devient
-vivante et nous transporte auprès de notre Epoux que nous n’avons pas encore vu, vous
-comprenez?
-82 Voyez comme c’est parfait! Isaac avait quitté la maison et était sorti dans les champs loin de
-sa maison lorsque Rebecca le vit; et l’Eglise rencontre Christ dans les airs et Il la ramène dans la
-Maison du Père où les demeures sont préparées. Isaac prit Rebecca de la même manière.
-83 Et remarquez qu’ils s’aimèrent au premier regard. Oh, mes frères, elle courut à sa rencontre!
-C’est de cette manière que l’Eglise rencontrera Christ dans les airs pour être à jamais avec Lui.
-
-        http://www.cmpp.ch
-
-    REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU    10
-84 Maintenant revenez à vos Bibles. Ces bêtes sont des puissances. Remarquez-le bien!
-J’aimerais maintenant que vous remarquiez que le diable avait ses quatre bêtes de couleurs
-changeantes pour avancer. Il avait ses quatre bêtes, un cheval blanc, un cheval roux, un cheval
-noir, dont les couleurs mélangées firent ce quatrième cheval de couleur livide.
-85 Et nous avons vu que chacun de ces chevaux était une étape de son ministère, une étape de
-l’église primitive qui s’était formée en une dénomination à Nicée. L’Eglise originelle de Pentecôte
-sur laquelle le Saint-Esprit était descendu et fut versé prit un esprit antichrist, forma une
-organisation, donna naissance à quelques filles d’organisations, changea son pouvoir trois fois et
-le mit en un pour faire ainsi un cheval livide auquel il fut donné le nom de mort et qu’elle
-chevaucha jusque dans l’éternité. C’est aussi clair que possible.
-86 Maintenant remarquez qu’il lui est donné ce cheval et qu’il le monte. Maintenant, faites bien
-attention! Lorsque l’antichrist fit sa première apparition, sous quelle forme apparut-il? Sous la
-forme d’un cheval blanc, aussi innocent qu’il était possible de l’être, une simple doctrine dans
-l’église. Ils voulaient la communion fraternelle. Votre communion est avec Christ. Mais ils ne
-pouvaient la supporter. Ils voulaient avoir… Eh bien, vous savez que de petits clans se lèveront
-dans l’église. Vous le savez, vous les pasteurs. Comme ils disent: «Qui se ressemble
-s’assemble». Mais si nous sommes des frères, nés de nouveau, ce n’est pas l’attitude à prendre.
-Non!
-87 Si nous voyons quelque chose de faux dans nos frères, prions simplement et gardons
-cela devant Dieu et aimons cet homme jusqu’à ce que nous l’amenions en plein dans la
-présence de Dieu. Voilà réellement la manière de faire.
-88 Vous le savez, il y aura là-dedans de la mauvaise herbe, parce que Jésus a dit qu’il y en
-aurait, mais ne l’arrachez pas parce que vous arracheriez le blé avec elle, vous voyez. Laissez-les
-tranquilles. Laissez-Le faire la séparation quand le temps sera venu. Laissez tout croître
-ensemble.
-89 Remarquez que quand la bête sortit, l’antichrist sortit sur une bête qui était son pouvoir. Oh,
-j’aime cela! Oh, je commence à me sentir plein de piété maintenant! C’est peut-être la stimulation.
-90 Voyez maintenant, lorsque l’antichrist… Ces révélations en présence de cette boule de Feu
-suspendue là dans la salle! Oh, mes frères! Bien que je La voie depuis mon enfance, chaque fois
-qu’Elle s’approche de moi, Elle m’alerte. Elle me met presque dans un état d’inconscience. On ne
-s’habitue jamais à cela. C’est impossible. C’est trop sacré.
-91 Remarquez, tandis que l’antichrist s’avançait sur la bête de son ministère, Dieu
-envoyait une bête pour la combattre. Vous voyez? Maintenant, regardez. Chaque fois que
-l’antichrist montait son cheval, sa bête pour annoncer son ministère, Dieu Lui aussi envoie Sa bête
-avec son propre masque pour annoncer Son combat contre lui.
-92 Or l’Ecriture dit: “Quand l’ennemi viendra comme un fleuve, l’Esprit de l’Eternel lèvera un
-étendard contre lui” (Ésaïe 59.19 — Darby). Ainsi lorsque l’ennemi sortit en tant qu’antichrist, Dieu
-envoya un certain type de puissance pour le rencontrer. Puis lorsqu’il sortit de nouveau sous la
-forme du cavalier au cheval roux (autre couleur, autre puissance, autre ministère), Dieu envoya
-une autre puissance contre lui pour le combattre afin de maintenir Son Eglise. Lorsque fut envoyé
-le troisième cavalier, Dieu envoya de nouveau une bête, Sa troisième, pour l’annoncer. Ensuite il
-envoya le quatrième, et Dieu envoya Sa quatrième bête. Alors en ce temps-là l’antichrist arriva à
-sa fin, ainsi que les âges de l’Eglise. Regardez. Ceci est vraiment bien.
-93 Maintenant quand nous voyons que le diable changeait quatre fois de bête, cela montre quel
-pouvoir il révélait au monde, et comment celui-ci prenait fin dans ce cheval livide, couleur de mort.
-Voyons maintenant la puissance utilisée par Dieu dans ces bêtes pour les combattre.
-94 La première bête de Dieu qu’Il envoya à la rencontre de l’antichrist… L’esprit antichrist, quand
-il parlait, n’était alors rien de plus que son enseignement. Souvenez-vous que lorsque l’antichrist fit
-sa première chevauchée, c’était un ministère d’enseignement. L’antichrist chevaucha pour
-commencer en un ministère d’enseignement.
-95 Observez celui qui s’en va à sa rencontre, le Lion, le Lion de la tribu de Juda qui est la Parole.
-Lorsque son faux enseignement apparut, la Parole véritable vint à sa rencontre. C’est la raison
-pour laquelle nous avons un Irénée, un Polycarpe, un Saint Martin et tous les autres. Alors que
-
-     http://www.cmpp.ch
+> “Et lorsqu’il ouvrit le cinquième sceau, je vis sous l’autel les âmes de ceux qui avaient été égorgés pour la parole de Dieu et pour le témoignage qu’ils avaient rendu. Et elles criaient à haute voix, disant: Jusques à quand, ô Souverain, saint et véritable, ne juges-tu pas et ne venges-tu pas notre sang sur ceux qui habitent sur la terre? Et il leur fut donné à chacun une longue robe blanche; et il leur fut dit qu’ils se reposassent encore un peu de temps, jusqu’à ce que, et leurs compagnons d’esclavage et leurs frères qui devaient être mis à mort comme eux, fussent au complet”.
+32 Cela est assez mystérieux. Et maintenant je dis ceci à cause des bandes magnétiques, des pasteurs et des enseignants qui sont ici présents: Si vous avez un point de vue différent de celui-ci, cela a été mon cas. Mais ce que je vais dire vient de l’inspiration qui a complètement changé ma vision de cela.
+33 Je découvre, tandis que vous voyez ces choses révélées, que cela nous ramène en arrière et met ensemble les âges de l’Eglise et l’Ecriture, et lie le tout; c’est la raison pour laquelle je crois que cela vient de Dieu.
+34 Nous réalisons cela et je pense que nous dépendons parfois de ce qu’un grand docteur peut en avoir dit et c’est très bien. Je ne condamne pas le docteur d’aucune manière. Je ne condamne personne. Je condamne seulement le péché d’incrédulité et non pas les personnes.
+35 Certaines personnes ont dit: «Vous condamnez les organisations». Non. Ce que je condamne, c’est le système de l’organisation et non pas les gens qui s’y trouvent, le groupe de gens qui forment l’organisation. Mais le système par lequel ils sont gouvernés, c’est cela que je condamne, aussi bien chez les Catholiques que chez les Protestants.
+36 Plusieurs de mes meilleurs amis sont catholiques. Cet homme est peut-être assis ici ce soir. Savez-vous que si nous avons pu construire ce tabernacle, c’est parce qu’un Catholique romain a pris mon parti au Tribunal, défendant ma cause mieux que personne. Parfaitement. Et ils n’ont pas pu s’opposer à cette construction. C’est vrai.
+37 On nous avait dit qu’il y aurait trop de monde, et d’autres choses ainsi. «Oh, vous ne pouvez pas mettre quatre-vingt personnes de plus dans cette église!».
+38 Cet homme dit: «Cette église est là et j’en connais le pasteur. Cette église a été établie là. Pourquoi les autres pourraient-ils agrandir, et pas eux?». C’était un Catholique romain, un de mes bons amis. Certainement!
+39 Je parlais un jour à un Catholique, un véritable ami, Avant que je parte il avait une quincaillerie. Il me disait: «Billy, je sais que tu ne crois pas en notre système de religion, mais je te le dis carrément: Dieu a vraiment exaucé tes prières en notre faveur. Je crois que si tu avais des difficultés quelconques, où que ce soit dans cette nation, chaque Catholique de ce pays viendrait vers toi». Il ne disait pas: chaque “Catholique” mais chaque “Porte-Croix”, comme il les appelait. Je le répète comme il me l’a dit.
+40 Certes, ils revendiquent ce nom parce que les premiers chrétiens portaient des croix sur le dos. Nous savons cela par l’histoire. Et ils prétendent être les premiers chrétiens, ce qu’ils sont, mais le système les a fait sortir du chemin, vous voyez, et ces gens, Catholiques, Juifs, ou quels qu’ils soient, ce sont des êtres humains, issus du même arbre que nous. Vous comprenez? C’est vrai. Ce sont des gens qui aiment, mangent, boivent, dorment comme n’importe qui d’autre. Alors nous ne devons jamais condamner des individus, pas un seul, vous voyez?
+41 Nous ne devons pas condamner les individus, mais en tant que pasteur, je dois frapper le serpent qui mord ces gens, vous voyez? Quant à moi, je ne le ferais pas, si ce n’était Dieu qui me l’avait ordonné. J’ai le devoir de le faire et je dois rester véridique et fidèle.
+42 Si un Catholique, un Juif ou n’importe qui d’autre venait ici pour que je prie pour lui, que ce soit un Mahométan, un Grec, un Orthodoxe ou qui que ce soit, s’il venait ici pour que l’on prie pour lui, je prierais pour lui aussi sincèrement que pour les miens. C’est vrai. Certainement, parce que c’est un être humain. Vous savez, j’ai prié pour des Bouddhistes, des Chiites, des Djains, des Mahométans et toutes sortes de gens comme cela, vous voyez, et je ne leur pose aucune question. Je ne fais que prier pour eux, parce que ce sont des êtres humains qui désirent être en bonne santé et que j’essaie de leur rendre la vie un peu plus facile.
+43 Beaucoup d’entre vous ici (je sais qu’il y a ici au moins deux ou trois authentiques érudits qui sont cultivés et connaissent la doctrine d’autres hommes à ce sujet). Je désire que ces frères sachent que je ne condamne pas ces hommes. J’exprime seulement ce que le Seigneur me montre. C’est tout.
+44 Nous ne devons jamais penser qu’une simple blanchisseuse ou un simple laboureur ne puisse pas recevoir de révélation de Dieu parce qu’en réalité, Dieu se révèle toujours dans la simplicité. Pour commencer cette série de prédications, nous avons eu la journée de dimanche passé pour montrer comment Il se révèle dans Sa simplicité. C’est ce qui fait qu’Il est grand.
+45 Maintenant laissez-moi revoir cela un instant. Ce qui rend Dieu grand, c’est qu’Il peut se rendre si simple. C’est ce qui fait qu’Il est grand. Dieu est grand et Il peut se mettre Lui-même dans une forme si simple que les sages de ce monde ne peuvent Le trouver. Ils ne peuvent tout simplement pas Le trouver parce qu’Il se fait trop simple. Alors faites bien attention à ceci. Voilà en soi le mystère de la révélation de Jésus-Christ. Il est en cela: Il ne peut rien y avoir de plus grand que Dieu et vous ne pouvez rien faire d’aussi simple qu’Il se fait Lui-même, vous voyez? Voilà ce qui fait qu’Il est grand.
+46 Un grand homme peut devenir encore un petit peu plus grand et peut-être s’abaisser jusqu’à vous et dire: «Comment allez-vous?» ou quelque chose comme cela, mais il ne peut se faire petit. Il y a quelque chose en lui: il est humain. Il ne lui est pas possible de se faire petit, parce que lorsqu’il devient trop petit, la première chose qu’il fera alors, vous savez, c’est de se référer à ce que quelqu’un d’autre a fait, et ainsi il recommencera à se mettre en avant. Mais la voie pour s’élever c’est de descendre en Dieu.
+47 Les sages de ce monde essaient par leur sagesse de Le trouver. En s’élevant de cette manière ils s’éloignent de Lui. Si vous essayez d’expliquer quelque chose par les mathématiques ou autrement, souvenez-vous qu’Il l’a même dit dans la Bible, dans Ésaïe 35, je crois; c’est tellement simple que même un délinquant le comprendrait, même un insensé ne s’y égarera pas.
+48 Avec leur sagesse, les sages manquent cela de beaucoup; ils s’éloignent de plus en plus de Lui en essayant de Le trouver par la sagesse. Maintenant n’oubliez pas cela. C’est enregistré, vous savez. Les sages, dans leur sagesse, vont si loin pour essayer de Le trouver par leur sagesse qu’ils Le manquent, vous voyez. S’ils pouvaient être assez grands pour être assez simples, ils pourraient Le trouver. Si vous êtes assez grands pour devenir assez simples.
+49 Vous voyez, cela est réellement la vérité. Je suis allé voir des gens à leur bureau qui étaient vraiment des personnalités, de grands rois, vous savez, des potentats, des monarques; ce sont généralement de grands hommes. Je suis aussi allé à un endroit où un homme changeait de vêtements à chaque occasion; c’était peut-être quelque ministre qui voulait discuter avec moi un moment. Il semble que le monde ne pourrait pas tourner sans eux et cela leur est monté à la tête, vous voyez. Mais un grand homme s’assied et essaie de vous faire croire que c’est vous qui êtes le grand homme; il peut s’humilier.
+50 Voyez-vous, Dieu est si grand qu’Il peut s’humilier à un point tel qu’aucun être humain ne puisse descendre aussi bas, vous voyez. C’est tout. Mais ils essaient de Le trouver en envoyant les jeunes à l’école pour obtenir des titres universitaires. Ils essaient de Le trouver par la terminologie théologique de la Bible et ils essaient de Le trouver par des programmes éducatifs, des programmes d’organisations et en embellissant les choses. Mais Il n’est pas là du tout. Vous vous battez simplement contre du vent, c’est tout. Vous vous éloignez.
+51 S’ils pouvaient être assez grands pour être assez simples, ils Le trouveraient dans cette direction, en étant simples. Mais tant que vous allez vers la sagesse, vous vous éloignez de Lui. Maintenant, laissez-moi vous présenter cela de telle manière que vous ne le manquiez pas. Aussi longtemps que vous essayez de trouver Dieu par la sagesse, comme ce fut le cas dans le jardin d’Eden, comme ce fut le cas du temps de Moïse, comme ce fut le cas du temps de Noé, comme ce fut le cas du temps de Christ, du temps de Jean, du temps des apôtres et jusqu’à ce jour, quand vous essayez de vous représenter Dieu et de Le trouver par la sagesse, vous vous éloignez de plus en plus de Lui! Vous essayez de comprendre ces choses. Il n’y a aucun moyen de comprendre. Acceptez-le simplement. Croyez-le simplement. N’essayez pas de comprendre.
+52 Il y a beaucoup de choses que je ne puis comprendre. Il n’y a pas beaucoup de choses que je comprenne. Je ne comprends pas pourquoi ces jeunes assis ici mangent la même nourriture que moi et ont une chevelure abondante, alors que je n’en ai pas. Je ne le comprends pas. On m’a dit que c’est le calcium qui les fait pousser, et je dois sans cesse me couper les ongles, mais je n’ai pas du tout de cheveux à couper! Cela, je ne le comprends pas.
+53 Comme on le disait autrefois (cela pourrait changer un peu notre position dans les choses sérieuses, mais c’est une chose sérieuse, bien que je n’en sois pas encore arrivé au Sceau), comment se fait-il qu’une vache noire qui mange de l’herbe verte donne du lait blanc qui devient du beurre jaune? Je ne pourrais vraiment pas l’expliquer, parce que voyez-vous, chacun est un produit de l’autre. Je ne puis l’expliquer.
+54 Je ne sais pas pourquoi, de deux lis ou de deux fleurs de la même race, l’une est rouge et l’autre jaune, l’une brune et l’autre bleue. Je ne le comprends pas. C’est le même soleil qui les éclaire. D’où vient leur couleur? Vous voyez? Je ne puis l’expliquer et il faut l’accepter comme cela.
+55 J’aimerais qu’un grand théologien puisse m’expliquer comment la terre reste sur son orbite. J’aimerais que, scientifiquement, vous puissiez lancer une balle en l’air, la faire tourner et lui faire subir une seconde révolution à la même place, mais vous ne pourriez pas le faire. Et pourtant tout est si parfaitement synchronisé qu’on peut déterminer à la minute près l’éclipse de soleil qui aura lieu dans vingt ans. On n’a pas de montre, de pendule ou d’autre machine aussi parfaite et pourtant cela demeure stable. Et puis il y a l’axe de la terre qui est incliné; que se passerait-il s’il se redressait un petit peu? Vous vous rendriez simplement ridicule en essayant d’expliquer cela.
+56 Ainsi, voyez-vous, n’essayez pas d’acquérir de la sagesse pour comprendre. Croyez simplement ce qu’Il dit: plus vous pourrez devenir simple, mieux cela vaudra. Voilà. Et alors vous trouverez. Je suis si reconnaissant pour cela, reconnaissant qu’Il se soit fait Lui-même si simple. Bien. Lisons le 9ème verset du chapitre 6.
+> “Et lorsqu’il ouvrit le cinquième sceau, je vis sous l’autel les âmes de ceux qui avaient été égorgés pour la parole de Dieu et pour le témoignage qu’ils avaient rendu”.
+57 Remarquez qu’il n’est plus fait mention d’une autre bête ou d’un être vivant dans cette annonce du cinquième Sceau. Souvenez-vous qu’il y en eut un pour le premier Sceau, pour le deuxième, le troisième et le quatrième Sceau, mais pas ici, vous voyez. Revenons un peu en arrière sur ces Sceaux.
+> “Et lorsqu’il ouvrit le quatrième sceau, j’entendis la voix du quatrième animal, disant: Viens et vois”.
+> “Et lorsqu’il ouvrit le troisième sceau, j’entendis le troisième animal disant: Viens et vois”.
+> “… le second animal disant: Viens et vois”.
+> Enfin il y a le premier animal qui dit: “… Viens et vois”.
+58 Mais lorsque nous arrivons au cinquième Sceau, il n’y a plus d’être vivant. Remarquez: “Et lorsqu’il ouvrit le cinquième sceau, je vis sous l’autel…”. Nous voyons tout de suite qu’il n’y a pas d’être vivant, et une bête ce présente une puissance, nous le savons. Ici il n’y a plus d’être vivant.
+59 En étudiant la révélation dans les Eglises nous avons découvert que l’une de ces créatures était un lion; l’autre était un veau, l’autre encore était un homme et la dernière était un aigle. Nous avons trouvé dans les âges de l’Eglise que ces quatre êtres vivants représentant quatre puissances étaient rassemblés autour des Actes des apôtres de la même manière que les bannières autour du tabernacle dans le désert.
+60 Vous comprenez cela, c’est pourquoi je ne prendrai pas le temps d’entrer dans cela maintenant. Nous avons déjà exposé ces choses exactement. Ces animaux veillaient à ce que l’Agneau et la Parole accomplissent la Parole exactement comme dans le désert ils le firent auprès de l’arche de l’alliance qui se trouvait dans le lieu saint.
+61 Nous avons même montré leur position par les couleurs tribales d'Israël. Combien ont-ils entendu les sept âges de l’Eglise? La plupart d’entre vous, les deux tiers, je pense. Remarquez que même la nature des êtres vivants était exactement un emblème tribal pour les douze tribus groupées en quatre groupes de trois, sur chaque côté du tabernacle. Et les quatre êtres vivants se tenaient là et veillaient sur ces tribus dans les quatre directions.
+62 Nous avons pris les Evangiles et montré exactement que si vous vouliez entrer dans l’arche, les quatre êtres vivants gardaient l’arche de l’alliance. Puis nous avons découvert que l’alliance de la nouvelle Eglise était représentée sur terre par le Saint-Esprit. Le Sang nous avait renvoyé le Saint-Esprit, et les quatre êtres vivants représentaient les douze tribus d’Israël; ils veillaient; nous avons découvert leur nature et nous avons rapporté cette nature à chacun des quatre Evangiles et montré que c’était exactement la même. L’un parlait au lion, l’autre au veau, c’étaient les quatre Evangiles. Voilà. Les quatre Evangiles sont la protection du Saint-Esprit. Amen!
+63 Je me suis toujours demandé et cela m’a frappé, car il y a environ six ans je crois, j’ai entendu un grand homme dire que les Actes des apôtres étaient juste la charpente. J’ai souvent entendu dire cela; mais entendre un homme qui de son état, étant prédicateur et docteur, a écrit quelques-uns des livres célèbres que les gens lisent partout, dire que les Actes des apôtres ne sont pas propres à l’enseignement de l’Eglise, alors que les Actes des apôtres en sont le fondement même! Ce n’est pas la charpente, mais le fondement. Parce que la Bible dit que le fondement de Dieu est établi sur la doctrine des apôtres. C’est vrai! Christ est la pierre angulaire.
+64 Et lorsque cet homme vint là et fit cette remarque, le coeur me manqua. Je pensai: «Ce n’est pas étonnant…». Eh bien maintenant je le vois dans les Sceaux. Cela n’avait simplement pas été révélé. C’est tout.
+65 Ils étaient là, ils se tenaient là. Il y a quelque chose qui dit simplement cela. Remarquez qu’ils montaient la garde. Lorsque nous en sommes arrivés à Matthieu 28.19 et que nous avons relevé cela tout au long de Matthieu qui est représenté par un lion, et que nous sommes arrivés là, nous avons découvert exactement pourquoi ils baptisaient au Nom de Jésus-Christ. Le voilà, se tenant là avec cette Ecriture-même pour garder le dépôt sacré du Baptême au Nom de Jésus-Christ. (Voilà que je reviens dans les âges de l’Eglise, maintenant!)
+66 Alors que nous abordons le cinquième Sceau remarquez qu’aucun cavalier ne s’avance et qu’il n’y a pas d’être vivant pour l’annoncer. L’Agneau a ouvert le Sceau et Jean l’a vu. Il n’y avait personne là pour dire: “Viens et vois”. Remarquez qu’il n’y a là aucune puissance d’être vivant. Et il n’y a pas d’être vivant pour annoncer le sixième Sceau. Et pour le septième Sceau il n’y a pas d’être vivant, ni de puissance pour l’annoncer, il n’y a personne.
+67 Donc, après le quatrième Sceau, il n’y a plus d’annonce par aucune puissance d’êtres vivants pour les cinquième, sixième et septième Sceaux.
+68 Maintenant remarquez (j’aime ceci) qu’au temps du cavalier et des quatre chevaux (le cavalier au singulier, mais quatre chevaux différents), il y avait un être vivant qui annonçait la puissance. Chaque fois que le cavalier enfourchait un autre cheval et s’avançait pour chevaucher, une autre sorte d’être vivant sortait et l’annonçait. C’est un grand mystère, c’est LE mystère. Pourquoi? Il annonce le mystère.
+69 Pourquoi n’y en a-t-il pas un ici pour annoncer le cinquième Sceau? Voilà pourquoi. Selon la révélation que le Seigneur Jésus m’a donnée aujourd’hui de bonne heure ce matin, le mystère des âges de l’Eglise est déjà terminé à ce moment-là. En ce temps-là le mystère de I’antichrist est révélé. L’antichrist a accompli sa dernière chevauchée; et nous le découvrons sur le cheval livide aux nombreuses couleurs mélangées qui poursuit son chemin en chevauchant vers la perdition (nous verrons cela quand nous étudierons les trompettes. J’aimerais bien vous le montrer maintenant, mais nous sortirions de nouveau du sujet).
+70 C’est pour cela qu’il n’y a plus personne. Vous savez, il n’y a rien qui ne soit écrit sans raison. Vous vous rappelez quand j’ai dit au début: «Il ne peut rien y avoir sans raison».
+71 Vous rappelez-vous la petite goutte d’encre? Vous voyez, il faut maintenant trouver la raison. Il y a une raison pour laquelle il n’y avait pas besoin d’une bête ou d’une puissance pour annoncer l’ouverture de ce Sceau. Et seul Dieu peut révéler pourquoi (tout est là) parce que tout repose en Lui.
+72 Mais la raison pour laquelle Il révéla, pour autant que je le comprenne, c’est à cause du mystère du Livre de la Rédemption, dans la mesure où l’antichrist est révélé. Et à ce moment-là l’Eglise est loin. Et ces choses ne se passent pas du tout pendant les âges de l’Eglise. C’est vrai! Elles se passent en dehors des âges de l’Eglise. A ce moment-là l’Eglise a été enlevée; absolument. Au quatrième chapitre de l’Apocalypse, l’Eglise monte et ne revient pas avant son retour avec son Roi au chapitre 19. Mais ces Sceaux révèlent ici ce qui a été, ce qui est et ce qui sera. Vous voyez? Ainsi ce qui devait être pour les âges de l’Eglise a été révélé par ces Sceaux; et maintenant observez ce que cela signifie.
+73 Les quatre étapes de son cavalier ont été révélées. Les quatre étapes de l’antichrist sur son cheval ont été révélées en ce temps-là; c’est pourquoi il n’y en a plus besoin. Les quatre êtres vivants de Dieu étaient là pour annoncer le cavalier tandis qu’il chevauchait. Quatre êtres vivants, ce sont quatre puissances.
+74 Nous savons, par l’interprétation des symboles bibliques, que le mot être vivant signifie puissance. Voyons cela de plus près. Les quatre êtres vivants dans la Bible représentent une puissance parmi le peuple. Il en est de même dans Daniel, lorsqu’il vit s’élever une certaine nation: c’était un ours se tenant sur le côté et qui avait trois côtes dans la gueule. C’est un symbole. Puis il vit s’élever une autre puissance, un bouc qui représentait quelque chose. Puis il vit s’élever une autre puissance, un léopard ayant plusieurs têtes. Il représentait un certain royaume. Puis il vit se dresser une autre bête, un grand lion avec des dents, qui piétinait le reste. Il représentait une puissance entièrement différente.
+75 L’un était le royaume de Nebucadnetsar. Il s’agit d’une autre espèce de songe. Daniel eut une vision. Nebucadnetsar fit un songe et Daniel l’interpréta, et cela concordait avec la vision. Amen!
+76 Oh, si vous saviez ce qui s’est passé. Ce qui s’est passé avant que nous partions d’ici! Vous comprenez? Eh bien, six songes clairs correspondirent exactement avec la vision. Un songe interprété est une vision; parce qu’une personne n’est peut-être pas née avec le subconscient qui lui permette de voir une vision tout en étant éveillée, alors Dieu plonge dans son subconscient et lui parle. Car Il a promis que dans les derniers jours Il visiterait Son peuple par des songes et aussi par des visions.
+77 La vision se produit lorsque vous êtes bien éveillé (comme je le suis maintenant) et que certaines choses sont révélées. Vous êtes là et dites exactement ce que c’est, vous voyez ce qui s’est passé et ce qui va arriver et ainsi de suite. Par contre c’est un songe lorsque vous dormez, que vos cinq sens sont inactifs et que vous êtes dans votre subconscient. Vous êtes quelque part parce que quand vous revenez, vous vous rappelez où vous avez été. Vous vous en souvenez toute votre vie; il s’agit donc de votre subconscient.
+78 Comme le sénateur Upshow le disait: «Vous ne pouvez pas être quelque chose que vous n’êtes pas». C’est juste. Si vous êtes né voyant, c’est que pour pouvoir faire cela il faut que les deux consciences soient tout à fait ensemble. Non pas l’une ici avec les cinq sens en activité, et l’autre là-bas qui n’apparaît que lorsque vous dormez et que vos cinq sens sont inactifs. Mais si vous êtes né voyant et que les deux sont tout à fait ensemble, vous n’allez pas dormir. Vous passez simplement de l’un à l’autre, vous n’allez pas dormir. Il n’y a pas assez de temps pour dormir et vous ne pouvez vous y forcer. Ainsi les dons et les appels sont prédestinés par Dieu. Ce sont les dons et les appels de Dieu et la Bible dit qu’Il ne s’en repent pas. Vous voyez? Ils ont été ordonnés avant la fondation du monde.
+79 Nous voyons que la bête de Daniel signifie qu’une puissance était en train de se lever parmi le peuple. De même ici, la vision de Jean montre que c’était une puissance, des nations qui s’élevaient.
+80 Ainsi dans Apocalypse 13, les Etats-Unis apparaissent comme un agneau. Alors, si vous croyez mieux le savoir, vous pourrez dire que ce passage parle d’une puissance nationale. La bête représente aussi une puissance sainte, saviez-vous cela? Remarquez que lorsqu’Eliézer, le serviteur d’Abraham, vint chercher Rebecca, il la fit monter sur un chameau, le chameau même qu’elle avait abreuvé. Et elle alla sur ce chameau à la rencontre de l’époux qu’elle n’avait jamais vu. La bête même qu’elle avait abreuvée était ce qui la porta à sa demeure future et à son mari.
+81 C’est la même chose aujourd’hui, voyez-vous. La chose même que l’Eglise est en train d’abreuver, c’est la semence, la semence de la Parole, c’est la Parole même, qui devient vivante et nous transporte auprès de notre Epoux que nous n’avons pas encore vu, vous comprenez?
+82 Voyez comme c’est parfait! Isaac avait quitté la maison et était sorti dans les champs loin de sa maison lorsque Rebecca le vit; et l’Eglise rencontre Christ dans les airs et Il la ramène dans la Maison du Père où les demeures sont préparées. Isaac prit Rebecca de la même manière.
+83 Et remarquez qu’ils s’aimèrent au premier regard. Oh, mes frères, elle courut à sa rencontre! C’est de cette manière que l’Eglise rencontrera Christ dans les airs pour être à jamais avec Lui.
+84 Maintenant revenez à vos Bibles. Ces bêtes sont des puissances. Remarquez-le bien! J’aimerais maintenant que vous remarquiez que le diable avait ses quatre bêtes de couleurs changeantes pour avancer. Il avait ses quatre bêtes, un cheval blanc, un cheval roux, un cheval noir, dont les couleurs mélangées firent ce quatrième cheval de couleur livide.
+85 Et nous avons vu que chacun de ces chevaux était une étape de son ministère, une étape de l’église primitive qui s’était formée en une dénomination à Nicée. L’Eglise originelle de Pentecôte sur laquelle le Saint-Esprit était descendu et fut versé prit un esprit antichrist, forma une organisation, donna naissance à quelques filles d’organisations, changea son pouvoir trois fois et le mit en un pour faire ainsi un cheval livide auquel il fut donné le nom de mort et qu’elle chevaucha jusque dans l’éternité. C’est aussi clair que possible.
+86 Maintenant remarquez qu’il lui est donné ce cheval et qu’il le monte. Maintenant, faites bien attention! Lorsque l’antichrist fit sa première apparition, sous quelle forme apparut-il? Sous la forme d’un cheval blanc, aussi innocent qu’il était possible de l’être, une simple doctrine dans l’église. Ils voulaient la communion fraternelle. Votre communion est avec Christ. Mais ils ne pouvaient la supporter. Ils voulaient avoir… Eh bien, vous savez que de petits clans se lèveront dans l’église. Vous le savez, vous les pasteurs. Comme ils disent: «Qui se ressemble s’assemble». Mais si nous sommes des frères, nés de nouveau, ce n’est pas l’attitude à prendre. Non!
+87 Si nous voyons quelque chose de faux dans nos frères, prions simplement et gardons cela devant Dieu et aimons cet homme jusqu’à ce que nous l’amenions en plein dans la présence de Dieu. Voilà réellement la manière de faire.
+88 Vous le savez, il y aura là-dedans de la mauvaise herbe, parce que Jésus a dit qu’il y en aurait, mais ne l’arrachez pas parce que vous arracheriez le blé avec elle, vous voyez. Laissez-les tranquilles. Laissez-Le faire la séparation quand le temps sera venu. Laissez tout croître ensemble.
+89 Remarquez que quand la bête sortit, l’antichrist sortit sur une bête qui était son pouvoir. Oh, j’aime cela! Oh, je commence à me sentir plein de piété maintenant! C’est peut-être la stimulation.
+90 Voyez maintenant, lorsque l’antichrist… Ces révélations en présence de cette boule de Feu suspendue là dans la salle! Oh, mes frères! Bien que je La voie depuis mon enfance, chaque fois qu’Elle s’approche de moi, Elle m’alerte. Elle me met presque dans un état d’inconscience. On ne s’habitue jamais à cela. C’est impossible. C’est trop sacré.
+91 Remarquez, tandis que l’antichrist s’avançait sur la bête de son ministère, Dieu envoyait une bête pour la combattre. Vous voyez? Maintenant, regardez. Chaque fois que l’antichrist montait son cheval, sa bête pour annoncer son ministère, Dieu Lui aussi envoie Sa bête avec son propre masque pour annoncer Son combat contre lui.
+92 Or l’Ecriture dit: “Quand l’ennemi viendra comme un fleuve, l’Esprit de l’Eternel lèvera un étendard contre lui” (Ésaïe 59.19 — Darby). Ainsi lorsque l’ennemi sortit en tant qu’antichrist, Dieu envoya un certain type de puissance pour le rencontrer. Puis lorsqu’il sortit de nouveau sous la forme du cavalier au cheval roux (autre couleur, autre puissance, autre ministère), Dieu envoya une autre puissance contre lui pour le combattre afin de maintenir Son Eglise. Lorsque fut envoyé le troisième cavalier, Dieu envoya de nouveau une bête, Sa troisième, pour l’annoncer. Ensuite il envoya le quatrième, et Dieu envoya Sa quatrième bête. Alors en ce temps-là l’antichrist arriva à sa fin, ainsi que les âges de l’Eglise. Regardez. Ceci est vraiment bien.
+93 Maintenant quand nous voyons que le diable changeait quatre fois de bête, cela montre quel pouvoir il révélait au monde, et comment celui-ci prenait fin dans ce cheval livide, couleur de mort. Voyons maintenant la puissance utilisée par Dieu dans ces bêtes pour les combattre.
+94 La première bête de Dieu qu’Il envoya à la rencontre de l’antichrist… L’esprit antichrist, quand il parlait, n’était alors rien de plus que son enseignement. Souvenez-vous que lorsque l’antichrist fit sa première chevauchée, c’était un ministère d’enseignement. L’antichrist chevaucha pour commencer en un ministère d’enseignement.
+95 Observez celui qui s’en va à sa rencontre, le Lion, le Lion de la tribu de Juda qui est la Parole. Lorsque son faux enseignement apparut, la Parole véritable vint à sa rencontre. C’est la raison pour laquelle nous avons un Irénée, un Polycarpe, un Saint Martin et tous les autres. Alors que
 
 REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 11
 l’antichrist chevauchait avec ses faux enseignements, Dieu envoya Son enseignement, la
@@ -563,7 +203,7 @@ Autre chose, le veau est également une bête de sacrifice. Vous voyez, ils donn
 aussi librement qu’ils le pouvaient.
 100 Au Moyen Age, pendant un millier d’années, le catholicisme contrôla le monde et avec eux
 c’était «oui» ou «non». Cela ne leur faisait rien de mourir. Si c’était la mort, c’était très bien. Ils
-allaient et mouraient de toute manière. Pourquoi? C’était l’esprit même de cet âge!
+aillaient et mouraient de toute manière. Pourquoi? C’était l’esprit même de cet âge!
 101 C’est la raison pour laquelle Irénée, Polycarpe, Jean, Paul, tous ces grands et puissants
 hommes, sont sortis pour combattre cette chose. Paul l’avait vu. Il dit: “Je sais qu’après mon
 départ, des loups entreront au milieu de vous, des frères enseignant des choses perverses, et cela
@@ -1042,19 +682,14 @@ recevoir une Epouse des nations. Oh, mes frères! Cela ne vous fait-il pas quelq
 voyez-vous qui ils sont? Voilà.
 202 Remarquez que bien qu’ils aient essayé de se débarrasser de Joseph, sa grâce parvint
 
-        http://www.cmpp.ch
+jusqu’à eux. Bien qu’ils aient essayé de se débarrasser de Jésus, Il revient encore parce qu’ils étaient aveugles et donne à chacun une longue robe blanche. Il les prendra à la maison de toute façon. Cela ne fait pour Lui aucune différence parce qu’Il le dit: “Je les sauverai tous de toute façon!”.
 
-REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 20
-jusqu’à eux. Bien qu’ils aient essayé de se débarrasser de Jésus, Il revient encore parce qu’ils
-étaient aveugles et donne à chacun une longue robe blanche. Il les prendra à la maison de toute
-façon. Cela ne fait pour Lui aucune différence parce qu’Il le dit: “Je les sauverai tous de toute
-façon!”.
-203 Maintenant voyons le verset 10. Remarquez qu’ils criaient vengeance, vous voyez, alors que
-s’il s’était agi de l’Epouse, ils auraient dit comme Etienne: “Père, pardonne-leur!”, vous voyez. Mais
-ceux-là sont des Juifs qui viennent d’entrer. Ils crient vengeance.
-204 Remarquez de nouveau ceci. Il dit: “Ce sont tes frères, les Juifs”. Et ceux-ci voulaient leur
-revanche.
+203 Maintenant voyons le verset 10. Remarquez qu’ils criaient vengeance, vous voyez, alors que s’il s’était agi de l’Epouse, ils auraient dit comme Etienne: “Père, pardonne-leur!”, vous voyez. Mais ceux-là sont des Juifs qui viennent d’entrer. Ils crient vengeance.
+
+204 Remarquez de nouveau ceci. Il dit: “Ce sont tes frères, les Juifs”. Et ceux-ci voulaient leur revanche.
+
 205 Ils disaient: “Oh, nous aimerions que tu viennes nous venger ici en bas”.
+
 206 Il leur répondit: “Encore un peu de temps, encore un peu de temps…”. Lisons cela, verset 10:
      “Et elles criaient à haute voix, disant : Jusques à quand, ô Souverain, saint et véritable,
      ne juges-tu pas et ne venges-tu pas notre sang sur ceux qui habitent sur la terre? Et il
@@ -1063,494 +698,252 @@ revanche.
      d’esclavage (vous voyez? Qu’est-ce que c’est? Ce sont les prophètes qui sont en train de
      prêcher à Israël) et leurs frères qui devaient être mis à mort (vous voyez, ceux qui sont
      prédestinés à être mis à mort) comme eux, fussent au complet”.
-207 Vous voyez, en d’autres termes, ils sont prédestinés à cela. Ce sont les Ecritures qu’ils
-doivent accomplir. Ils doivent simplement se reposer pour un peu de temps. “Maintenant vous
-avez vos longues robes et vous allez entrer à la maison. Restez assis là encore un peu de temps”.
-Vous voyez? Attendre encore un peu.
-208 Remarquez ceci, maintenant. “Tes frères doivent encore être mis à mort”, ce qui signifie que
-les 144 000 doivent encore être appelés dans la tribulation. 144 000 sont appelés.
-209 J’aimerais avoir du temps. Nous pourrions étudier ce sujet demain soir, si le Seigneur le
-permet, juste avant de passer à un autre Sceau. Observez ceci maintenant. Ils devaient être
-martyrisés par l’antichrist dans sa dernière chevauchée (comme nous venons de le voir) lorsqu’il
-brise cette alliance avec ces Juifs là en bas et qu’il poursuit sa course. Ces Juifs, les 144 000,
-doivent être appelés à sortir par les deux témoins d’Apocalypse 11.
-210 Vous vous souvenez qu’ils prophétiseraient. Vous avez lu cela. Combien ont-ils lu cela?
-Certes, nous tous connaissons les Ecritures. Et ces deux témoins prophétisent au temps de la
-seconde moitié des soixante-dix semaines de Daniel. Il s’agit là des derniers trois ans et demi.
-211 Vous souvenez-vous comment nous avons étudié les soixante-dix semaines de Daniel? J’ai
-dit que nous en aurions besoin lorsque nous arriverions ici. Je n’en connaissais pas la raison, mais
-quelque chose me disait que nous en aurions besoin, et maintenant nous y voilà, vous voyez.
-Remarquez qu’au temps de Daniel… Souvenez-vous qu’il fut dit à Daniel que le Messie viendrait
-(le prince, le Messie plutôt) et qu’Il prophétiserait. Israël avait encore soixante-dix semaines, et au
-milieu de la soixante-dixième semaine, le Messie serait retranché et le sacrifice quotidien supprimé
-(n’est-ce pas vrai?), mais il restait encore trois semaines et demie déterminées. Dans cette
-période, Il prend l’Epouse des nations. Maintenant elle monte, et quand elle monte, deux
-prophètes arrivent en Israël, vous voyez.
-212 Et ces âmes qui avaient été martyrisées jusque là, ces vrais Juifs qui avaient été jusque là,
-leur nom était inscrit dans le Livre. Ils avaient eu une vie droite, avaient fait ce qui est juste, vivant
-le judaïsme point par point. Ils furent martyrisés par Eichmann et bien d’autres. Des gens
-honnêtes, il y en eut des millions que les Allemands fusillèrent, assassinèrent, tuèrent, pendirent
-aux clôtures, brûlèrent, les détruisant dans les fours crématoires et leur faisant toutes sortes
-d’autres choses. Ces hommes assoiffés de sang, Hitler, Staline, Mussolini et tous ces gens qui
-haïssaient les Juifs!
-213 Je pense que l’une des choses qui maintiennent cette nation ensemble c’est qu’on y a
-toujours respecté les Juifs, qu’on leur a donné une place. Si vous honorez un Juif, Dieu vous
-honorera. Il y a tout un groupe de Juifs qui ne sont que des renégats, exactement comme parmi
-les nations. C’est pareil. Mais quant au vrai Juif, Dieu a inscrit son nom dans le Livre avant la
-fondation du monde, et dans ce temps, ils ont été mis à mort!
+
+207 Vous voyez, en d’autres termes, ils sont prédestinés à cela. Ce sont les Ecritures qu’ils doivent accomplir. Ils doivent simplement se reposer pour un peu de temps. “Maintenant vous avez vos longues robes et vous allez entrer à la maison. Restez assis là encore un peu de temps”. Vous voyez? Attendre encore un peu.
+
+208 Remarquez ceci, maintenant. “Tes frères doivent encore être mis à mort”, ce qui signifie que les 144 000 doivent encore être appelés dans la tribulation. 144 000 sont appelés.
+
+209 J’aimerais avoir du temps. Nous pourrions étudier ce sujet demain soir, si le Seigneur le permet, juste avant de passer à un autre Sceau. Observez ceci maintenant. Ils devaient être martyrisés par l’antichrist dans sa dernière chevauchée (comme nous venons de le voir) lorsqu’il brise cette alliance avec ces Juifs là en bas et qu’il poursuit sa course. Ces Juifs, les 144 000, doivent être appelés à sortir par les deux témoins d’Apocalypse 11.
+
+210 Vous vous souvenez qu’ils prophétiseraient. Vous avez lu cela. Combien ont-ils lu cela? Certes, nous tous connaissons les Ecritures. Et ces deux témoins prophétisent au temps de la seconde moitié des soixante-dix semaines de Daniel. Il s’agit là des derniers trois ans et demi.
+
+211 Vous souvenez-vous comment nous avons étudié les soixante-dix semaines de Daniel? J’ai dit que nous en aurions besoin lorsque nous arriverions ici. Je n’en connaissais pas la raison, mais quelque chose me disait que nous en aurions besoin, et maintenant nous y voilà, vous voyez. Remarquez qu’au temps de Daniel… Souvenez-vous qu’il fut dit à Daniel que le Messie viendrait (le prince, le Messie plutôt) et qu’Il prophétiserait. Israël avait encore soixante-dix semaines, et au milieu de la soixante-dixième semaine, le Messie serait retranché et le sacrifice quotidien supprimé (n’est-ce pas vrai?), mais il restait encore trois semaines et demie déterminées. Dans cette période, Il prend l’Epouse des nations. Maintenant elle monte, et quand elle monte, deux prophètes arrivent en Israël, vous voyez.
+
+212 Et ces âmes qui avaient été martyrisées jusque là, ces vrais Juifs qui avaient été jusque là, leur nom était inscrit dans le Livre. Ils avaient eu une vie droite, avaient fait ce qui est juste, vivant le judaïsme point par point. Ils furent martyrisés par Eichmann et bien d’autres. Des gens honnêtes, il y en eut des millions que les Allemands fusillèrent, assassinèrent, tuèrent, pendirent aux clôtures, brûlèrent, les détruisant dans les fours crématoires et leur faisant toutes sortes d’autres choses. Ces hommes assoiffés de sang, Hitler, Staline, Mussolini et tous ces gens qui haïssaient les Juifs!
+
+213 Je pense que l’une des choses qui maintiennent cette nation ensemble c’est qu’on y a toujours respecté les Juifs, qu’on leur a donné une place. Si vous honorez un Juif, Dieu vous honorera. Il y a tout un groupe de Juifs qui ne sont que des renégats, exactement comme parmi les nations. C’est pareil. Mais quant au vrai Juif, Dieu a inscrit son nom dans le Livre avant la fondation du monde, et dans ce temps, ils ont été mis à mort!
 
         http://www.cmpp.ch
 
     REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU    21
-214 Pensez maintenant comme ceci est parfait. Juste après que des millions de Juifs, de gens
-innocents, aient été massacrés par les nations du monde, l’Ecriture dit ici qu’à ce moment-là,
-chacun est sous l’autel, réalisant ce qui est arrivé. Et il leur est donné des robes blanches.
-215 Et ils disaient: “Ne pouvons-nous pas rentrer tout de suite dans le Royaume?”. Le royaume
-juif doit être établi sur la terre, vous le savez. Jean dit que le royaume… c’est le royaume de
-l’Evangile, vous voyez, mais le royaume des Juifs sera prêché par ces deux prophètes.
-Remarquez donc ici le royaume de la terre. Le royaume des Cieux est prêché aux nations. Le
-royaume ici sur terre sera établi dans le Millénium par les Juifs. Remarquez cela maintenant.
-Ici avant même que ces deux témoins entrent en scène, ces Juifs qui furent mis à mort par
-Eichmann et les autres, à chacun de ceux qui ont été prédestinés il est donné par grâce une
-longue robe blanche. Amen. A chacun d’eux il est donné une longue robe blanche.
-Remarquez-vous maintenant ce qui s’est passé?
-216 En regardant cette horloge, là-bas, je vois que l’heure avance. Je vois tous ces pauvres gens
-debout là-bas. Que Dieu vous vienne en aide, frères. J’espère qu’il sera aussi donné une longue
-robe blanche à chacun de vous en ce jour. Vous êtes debout, vous appuyant tantôt sur une jambe,
-tantôt sur l’autre parce qu’elles vous font mal, et certains de vous travaillent toute la journée. Je
-sais ce que c’est. Je vois aussi quelques pauvres femmes âgées debout. Quelques hommes
-donnent leur siège aux femmes et quelqu’un d’autre laisse sa place à une mère avec son enfant.
-Je vois tout cela et je suis sûr que Lui aussi le voit. C’est pourquoi je voudrais ne pas vous garder
-trop longtemps. Si je peux simplement vous amener à voir le message, c’est tout ce que je désire.
-217 Remarquez maintenant ces Juifs. Je dois faire ceci afin de vous montrer la révélation de ce
-Sceau pour que vous voyiez ces âmes sous l’autel et qui elles sont.
-218 Mais rappelez-vous que le Messie fut retranché au milieu de la seconde moitié de la semaine
-de Daniel. C’est le milieu. Eh bien, qu’est-ce que la moitié de sept? Trois et demi. Combien de
-temps Christ prêcha-t-Il? [L’assemblée répond: «Trois ans et demi.» — N.d.R.]. C’est juste. Mais
-combien d’années ont-elles encore été déterminées pour le peuple d’Israël? De nouveau trois ans
-et demi.
-219 Mais pendant ce temps, voyez ce qui arrive à l’Epouse des nations qui a été choisie dans les
-sept âges de l’Eglise et qui a été enlevée. Quand tout cela arrive ainsi, tous ces Juifs qui ont été
-martyrisés à cause de l’aveuglement et qui sont maintenant sous l’autel, Dieu vient à eux et leur
-dit: “Voyez-vous ce qui s’est passé? Maintenant je vais donner à chacun de vous une longue robe
-blanche”.
+214 Pensez maintenant comme ceci est parfait. Juste après que des millions de Juifs, de gens innocents, aient été massacrés par les nations du monde, l’Ecriture dit ici qu’à ce moment-là, chacun est sous l’autel, réalisant ce qui est arrivé. Et il leur est donné des robes blanches.
+
+215 Et ils disaient: “Ne pouvons-nous pas rentrer tout de suite dans le Royaume?”. Le royaume juif doit être établi sur la terre, vous le savez. Jean dit que le royaume… c’est le royaume de l’Evangile, vous voyez, mais le royaume des Juifs sera prêché par ces deux prophètes. Remarquez donc ici le royaume de la terre. Le royaume des Cieux est prêché aux nations. Le royaume ici sur terre sera établi dans le Millénium par les Juifs. Remarquez cela maintenant. Ici avant même que ces deux témoins entrent en scène, ces Juifs qui furent mis à mort par Eichmann et les autres, à chacun de ceux qui ont été prédestinés il est donné par grâce une longue robe blanche. Amen. A chacun d’eux il est donné une longue robe blanche. Remarquez-vous maintenant ce qui s’est passé?
+
+216 En regardant cette horloge, là-bas, je vois que l’heure avance. Je vois tous ces pauvres gens debout là-bas. Que Dieu vous vienne en aide, frères. J’espère qu’il sera aussi donné une longue robe blanche à chacun de vous en ce jour. Vous êtes debout, vous appuyant tantôt sur une jambe, tantôt sur l’autre parce qu’elles vous font mal, et certains de vous travaillent toute la journée. Je sais ce que c’est. Je vois aussi quelques pauvres femmes âgées debout. Quelques hommes donnent leur siège aux femmes et quelqu’un d’autre laisse sa place à une mère avec son enfant. Je vois tout cela et je suis sûr que Lui aussi le voit. C’est pourquoi je voudrais ne pas vous garder trop longtemps. Si je peux simplement vous amener à voir le message, c’est tout ce que je désire.
+
+217 Remarquez maintenant ces Juifs. Je dois faire ceci afin de vous montrer la révélation de ce Sceau pour que vous voyiez ces âmes sous l’autel et qui elles sont.
+
+218 Mais rappelez-vous que le Messie fut retranché au milieu de la seconde moitié de la semaine de Daniel. C’est le milieu. Eh bien, qu’est-ce que la moitié de sept? Trois et demi. Combien de temps Christ prêcha-t-Il? [L’assemblée répond: «Trois ans et demi.» — N.d.R.]. C’est juste. Mais combien d’années ont-elles encore été déterminées pour le peuple d’Israël? De nouveau trois ans et demi.
+
+219 Mais pendant ce temps, voyez ce qui arrive à l’Epouse des nations qui a été choisie dans les sept âges de l’Eglise et qui a été enlevée. Quand tout cela arrive ainsi, tous ces Juifs qui ont été martyrisés à cause de l’aveuglement et qui sont maintenant sous l’autel, Dieu vient à eux et leur dit: “Voyez-vous ce qui s’est passé? Maintenant je vais donner à chacun de vous une longue robe blanche”.
+
 220 Ils disaient: “Combien de temps, Seigneur? Allons-nous entrer maintenant?”.
-221 Il répondit: “Non, non, non, non. Vos compagnons de service juifs doivent encore souffrir un
-peu. Ils doivent encore souffrir le martyre, comme vous avez dû le souffrir. La bête doit se saisir
-d’eux lorsqu’elle rompra l’alliance”.
-222 Remarquez ceci, souvenez-vous donc que ces prophètes doivent prophétiser selon
-Apocalypse 11 (vous avez levé la main pour montrer que vous l’aviez lu), et ils recevront la
-puissance (et si Dieu le permet, nous découvrirons dans un instant qui ils sont). Remarquez
-maintenant ces prophètes. C’est la Bible Elle-même qui nous le dit. Certainement. C’est certain,
-vous voyez. Remarquez qu’au milieu de ces trois semaines et demie pendant lesquelles ils
-prophétisent… et l’Apocalypse dit qu’ils prophétiseront mille deux cent soixante jours.
-223 Or le calendrier juif, qui est le calendrier normal de Dieu, compte exactement trente jours par
-mois. C’est le calendrier romain qui a mélangé les choses. Le calendrier normal a trente jours par
-mois.
-224 Maintenant si vous prenez trois ans et demi en mois de trente jours, vous obtiendrez mille
-deux cent soixante jours; mille deux cent soixante jours font exactement trois ans et demi. Vous
-voyez donc qu’il n’y a pas d’erreur là-dedans. C’est ainsi. Cela correspond comme deux pièces qui
-s’emboîtent ensemble. Remarquez que les deux prophètes ont prêché aux Juifs trois ans et demi.
-C’est alors que les 144 000 sont appelés.
-225 Remarquez que ces deux prophètes sont exactement Moïse et Elie. Considérez maintenant
-leur ministère. Observez ce que font ces prophètes. Ils ont le pouvoir de frapper la terre d’une plaie
-aussi souvent qu’ils le veulent. Qui a fait cela? Moïse. Ils ont le pouvoir de fermer le ciel afin qu’il
+
+221 Il répondit: “Non, non, non, non. Vos compagnons de service juifs doivent encore souffrir un peu. Ils doivent encore souffrir le martyre, comme vous avez dû le souffrir. La bête doit se saisir d’eux lorsqu’elle rompra l’alliance”.
+
+222 Remarquez ceci, souvenez-vous donc que ces prophètes doivent prophétiser selon Apocalypse 11 (vous avez levé la main pour montrer que vous l’aviez lu), et ils recevront la puissance (et si Dieu le permet, nous découvrirons dans un instant qui ils sont). Remarquez maintenant ces prophètes. C’est la Bible Elle-même qui nous le dit. Certainement. C’est certain, vous voyez. Remarquez qu’au milieu de ces trois semaines et demie pendant lesquelles ils prophétisent… et l’Apocalypse dit qu’ils prophétiseront mille deux cent soixante jours.
+
+223 Or le calendrier juif, qui est le calendrier normal de Dieu, compte exactement trente jours par mois. C’est le calendrier romain qui a mélangé les choses. Le calendrier normal a trente jours par mois.
+
+224 Maintenant si vous prenez trois ans et demi en mois de trente jours, vous obtiendrez mille deux cent soixante jours; mille deux cent soixante jours font exactement trois ans et demi. Vous voyez donc qu’il n’y a pas d’erreur là-dedans. C’est ainsi. Cela correspond comme deux pièces qui s’emboîtent ensemble. Remarquez que les deux prophètes ont prêché aux Juifs trois ans et demi. C’est alors que les 144 000 sont appelés.
+
+225 Remarquez que ces deux prophètes sont exactement Moïse et Elie. Considérez maintenant leur ministère. Observez ce que font ces prophètes. Ils ont le pouvoir de frapper la terre d’une plaie aussi souvent qu’ils le veulent. Qui a fait cela? Moïse. Ils ont le pouvoir de fermer le ciel afin qu’il
 
     http://www.cmpp.ch
 
 REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 22
-ne pleuve pas pendant les jours de leur ministère. Qui ferma les cieux pendant trois ans et demi?
-[l’assemblée répond: «Elie.» — N.d.R.]. Nous y voilà. Ce sont eux.
-226 L’homme, quand il meurt, sa condition ne change pas. Ce qu’il a été fait ne change pas.
-Lorsque Saül rétrograda et qu’il n’y avait pas de prophètes dans le pays il ne pouvait comprendre
-ce qu’il devait faire. Il était dans une mauvaise posture et il devait monter à la bataille. Alors il alla
-trouver la sorcière d’En-Dor. Elle pouvait faire cela simplement avec le sang des taureaux et des
-boucs. Et elle invoqua l’esprit de Samuel; et lorsque Samuel monta, il se tint là dans sa robe de
-prophète. Non seulement cela, mais il était toujours un prophète. Il dit: “Pourquoi m’as-tu tiré de
-mon repos alors que tu es devenu ennemi de Dieu? A cette heure-ci, demain soir, tu tomberas
-dans la bataille, et à cette heure-ci, demain soir, tu seras avec moi”. Et c’est exactement ce qui
-arriva.
-227 C’était toujours un prophète. Et ces personnages-ci sont toujours des prophètes. Nous allons
-approfondir cela dans un instant.
-228 Oh, combien j’aime cette Parole! Il n’est pas étonnant que “l’homme ne vivra pas de pain
-seulement, mais de toute parole qui sort de la bouche de Dieu”. Ces deux prophètes sont Moïse et
-Elie, selon le modèle des oeuvres qu’ils ont de nouveau refaites. Cela a toujours été leur ministère.
-229 Par rapport à ce qu’ils avaient fait ils n’ont pas changé. Rappelez-vous que ces hommes ne
-sont jamais morts. Observez ceci. Ne mélangez pas. Avant de nous éloigner de cela, ne
-confondez pas le cinquième ministère d’Elie avec son quatrième ministère. Je vous l’ai dit l’Eglise
-des nations s’attend à la venue d’Elie. C’est vrai. Et ici il est avec les Juifs. Souvenez-vous, il ne
-peut venir quatre fois. C’est le nombre de l’ennemi. Il faut que ce soit cinq fois.
-230 La première fois qu’il vint, il était Elie lui-même. La deuxième fois qu’il vint, il était
-Elisée. Lorsqu’il vint la fois suivante, qui était-il? Jean-Baptiste. Quand il vient la prochaine
-fois, c’est pour le septième ange. Et quand il vient pour la cinquième fois il est là-bas avec
-Moïse. Oui, certainement. Ne faites pas de confusion avec lui.
-231 Cinq. Si vous connaissez les nombres de la Bible, cinq est le nombre de la grâce agissante et
-c’est ce qu’Il a fait. Maintenant observez ceci, si vous ne savez pas ce que c’est. Jésus n’était-Il
-pas une oeuvre de grâce? Voyez: J–E–S–U–S, cinq. Oeuvre [en anglais: “labor” — N.d.T.]
-L–A–B–O–R, cinq, oeuvre d’amour pour vous. Et si vous arrivez jusqu’à Lui, comment y viendrez-
-vous? Par quel moyen? Par la foi [F–A–I–T–H] manifestée par les oeuvres [L–A–B–O–R]. N’est-ce
-pas vrai? Oeuvre [labor] est le nombre de la grâce.
-232 Remarquez que le premier Elie, c’était lui. Le deuxième fut Elisée. Le troisième fut Jean. Le
-quatrième fut le septième ange ou dernier messager à l’Eglise, conformément à Malachie 4 et
-Apocalypse 10.7. Donc la cinquième fois il est un messager pour les Juifs, pour les 144 000,
-pour les Juifs après que l’Eglise soit partie.
-233 J’ai une sensation un peu bizarre. Je voudrais bien que vous compreniez ces choses
-maintenant. Si certains pensent encore que le prophète de Malachie 4, qui doit ramener le peuple,
-est le même que celui qui doit descendre chez les Juifs, s’ils pensent que c’est la même personne,
-laissez-moi redresser les choses pendant quelques minutes. C’est un peu déconcertant car
-rappelez-vous que dans Malachie 4 il est dit: “… ramènera la foi des enfants à leurs pères”. Vous
-voyez? “à leurs pères”.
-234 Maintenant laissez-moi vous montrer la différence de ministère. S’il venait pour ramener les
-enfants à la foi de leurs pères, il rejetterait Christ. Il retournerait à la Loi. N’est-ce pas vrai?
-Les pères gardaient la Loi. Saisissez-vous cela?
-235 Remarquez que lorsqu’Elie vient accomplir son ministère dans Malachie 4, il est seul. Mais
-lorsqu’il vient exercer son ministère parmi les Juifs dans Apocalypse 11, il a Moïse avec lui. Il n’y a
-donc pas la moindre confusion. Avez-vous saisi cela? Quand Elie vient dans Malachie 4, il est
-seul. Ensuite Moïse viendra avec Elie.
-236 Cette même inspiration dit qu’Elie viendrait dans la dernière partie de l’âge de l’Eglise afin de
-ramener la foi des enfants à la foi originelle des pères (foi apostolique). Ils auraient dû revenir,
-mais l’antichrist les a tous attirés au dehors. Le prophète était venu pour ramener, comme le
-montre l’ensemble des Ecritures, vous voyez. Il vient seul, vous voyez? Mais quand il vient pour
-les 144 000, la Bible dit clairement qu’il n’y en a pas un, mais qu’ils sont deux.
+ne pleuve pas pendant les jours de leur ministère. Qui ferma les cieux pendant trois ans et demi? [l’assemblée répond: «Elie.» — N.d.R.]. Nous y voilà. Ce sont eux.
+
+226 L’homme, quand il meurt, sa condition ne change pas. Ce qu’il a été fait ne change pas. Lorsque Saül rétrograda et qu’il n’y avait pas de prophètes dans le pays il ne pouvait comprendre ce qu’il devait faire. Il était dans une mauvaise posture et il devait monter à la bataille. Alors il alla trouver la sorcière d’En-Dor. Elle pouvait faire cela simplement avec le sang des taureaux et des boucs. Et elle invoqua l’esprit de Samuel; et lorsque Samuel monta, il se tint là dans sa robe de prophète. Non seulement cela, mais il était toujours un prophète. Il dit: “Pourquoi m’as-tu tiré de mon repos alors que tu es devenu ennemi de Dieu? A cette heure-ci, demain soir, tu tomberas dans la bataille, et à cette heure-ci, demain soir, tu seras avec moi”. Et c’est exactement ce qui arriva.
+
+227 C’était toujours un prophète. Et ces personnages-ci sont toujours des prophètes. Nous allons approfondir cela dans un instant.
+
+228 Oh, combien j’aime cette Parole! Il n’est pas étonnant que “l’homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu”. Ces deux prophètes sont Moïse et Elie, selon le modèle des oeuvres qu’ils ont de nouveau refaites. Cela a toujours été leur ministère.
+
+229 Par rapport à ce qu’ils avaient fait ils n’ont pas changé. Rappelez-vous que ces hommes ne sont jamais morts. Observez ceci. Ne mélangez pas. Avant de nous éloigner de cela, ne confondez pas le cinquième ministère d’Elie avec son quatrième ministère. Je vous l’ai dit l’Eglise des nations s’attend à la venue d’Elie. C’est vrai. Et ici il est avec les Juifs. Souvenez-vous, il ne peut venir quatre fois. C’est le nombre de l’ennemi. Il faut que ce soit cinq fois.
+
+230 La première fois qu’il vint, il était Elie lui-même. La deuxième fois qu’il vint, il était Elisée. Lorsqu’il vint la fois suivante, qui était-il? Jean-Baptiste. Quand il vient la prochaine fois, c’est pour le septième ange. Et quand il vient pour la cinquième fois il est là-bas avec Moïse. Oui, certainement. Ne faites pas de confusion avec lui.
+
+231 Cinq. Si vous connaissez les nombres de la Bible, cinq est le nombre de la grâce agissante et c’est ce qu’Il a fait. Maintenant observez ceci, si vous ne savez pas ce que c’est. Jésus n’était-Il pas une oeuvre de grâce? Voyez: J–E–S–U–S, cinq. Oeuvre [en anglais: “labor” — N.d.T.] L–A–B–O–R, cinq, oeuvre d’amour pour vous. Et si vous arrivez jusqu’à Lui, comment y viendrez-vous? Par quel moyen? Par la foi [F–A–I–T–H] manifestée par les oeuvres [L–A–B–O–R]. N’est-ce pas vrai? Oeuvre [labor] est le nombre de la grâce.
+
+232 Remarquez que le premier Elie, c’était lui. Le deuxième fut Elisée. Le troisième fut Jean. Le quatrième fut le septième ange ou dernier messager à l’Eglise, conformément à Malachie 4 et Apocalypse 10.7. Donc la cinquième fois il est un messager pour les Juifs, pour les 144 000, pour les Juifs après que l’Eglise soit partie.
+
+233 J’ai une sensation un peu bizarre. Je voudrais bien que vous compreniez ces choses maintenant. Si certains pensent encore que le prophète de Malachie 4, qui doit ramener le peuple, est le même que celui qui doit descendre chez les Juifs, s’ils pensent que c’est la même personne, laissez-moi redresser les choses pendant quelques minutes. C’est un peu déconcertant car rappelez-vous que dans Malachie 4 il est dit: “… ramènera la foi des enfants à leurs pères”. Vous voyez? “à leurs pères”.
+
+234 Maintenant laissez-moi vous montrer la différence de ministère. S’il venait pour ramener les enfants à la foi de leurs pères, il rejetterait Christ. Il retournerait à la Loi. N’est-ce pas vrai? Les pères gardaient la Loi. Saisissez-vous cela?
+
+235 Remarquez que lorsqu’Elie vient accomplir son ministère dans Malachie 4, il est seul. Mais lorsqu’il vient exercer son ministère parmi les Juifs dans Apocalypse 11, il a Moïse avec lui. Il n’y a donc pas la moindre confusion. Avez-vous saisi cela? Quand Elie vient dans Malachie 4, il est seul. Ensuite Moïse viendra avec Elie.
+
+236 Cette même inspiration dit qu’Elie viendrait dans la dernière partie de l’âge de l’Eglise afin de ramener la foi des enfants à la foi originelle des pères (foi apostolique). Ils auraient dû revenir, mais l’antichrist les a tous attirés au dehors. Le prophète était venu pour ramener, comme le montre l’ensemble des Ecritures, vous voyez. Il vient seul, vous voyez? Mais quand il vient pour les 144 000, la Bible dit clairement qu’il n’y en a pas un, mais qu’ils sont deux.
 
         http://www.cmpp.ch
 
 REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 23
-237 Et ce ministère ne pouvait pas ramener les Juifs à la loi parce qu’il vient prêcher aux 144 000
-Christ, le Messie qui avait été retranché. Amen! C’est comme cela. C’est pourquoi ne confondez
-pas. Ce n’est pas confus. Les Ecritures ne mentent pas, pas le moins du monde. Gloire à Dieu!
-Oh, quand j’ai vu cette Lumière!
-238 Je dis: «Merci, Seigneur!» quand j’observais ces choses se dérouler devant moi, quand je vis
-Elie sortir seul dans ce premier âge. Il était seul, alors; mais quand je le vis réapparaître ailleurs, il
-n’était plus seul, il y avait deux personnes. Je m’écriai: «Voilà! C’est cela, Seigneur! Amen!
-Maintenant je vois». Cela pourrait paraître un peu confus à certains, mais Il m’a dit de le
-mentionner; c’est pourquoi je l’ai fait.
-239 Remarquez que ces hommes sont maintenus vivants par Dieu depuis leur ministère originel
-pour un service futur. Ils avaient accompli un si bon service, vous voyez! Pensez-y, l’esprit d’Elie
-exerce son ministère cinq fois, celui de Moïse deux fois. Remarquez qu’ils sont gardés en
-vie pour un service ultérieur. Aucun d’eux n’est mort maintenant. Croyez-vous cela? Ils ont été
-vus tous deux vivants, parlant à Jésus sur la montagne de la Transfiguration. Mais rappelez-vous
-qu’ils doivent mourir.
-240 Or Moïse mourut réellement, mais il se releva car il est un type parfait de Christ, vous voyez.
-Personne n’a jamais su où il avait été enseveli. Les anges vinrent le prendre. Il eut des anges
-comme porteurs de cercueil. Aucun mortel ne pouvait l’amener là où il devait aller. Il avait terminé
-son rôle, c’est tout. Des anges transportèrent sa dépouille là où elle devait aller et personne ne sait
-où. Même Satan ne le savait pas et il disputa le corps à l’archange. Il dit: “Je ne puis comprendre
-ce qui est arrivé à Moïse. Je l’ai vu là-haut tremblant, regardant le pays tout entier et regardant en
-arrière vers les enfants d'Israël, etc. Je l’ai vu trembler, puis monter sur le rocher, et c’est la
-dernière fois que je l’ai vu”.
-241 C’est le Rocher! c’est le Rocher! Que je me tienne sur ce Rocher à la fin de ma route.
-Certainement! Mon frère de couleur avait l’habitude de venir ici chanter un petit choeur:
+237 Et ce ministère ne pouvait pas ramener les Juifs à la loi parce qu’il vient prêcher aux 144 000 Christ, le Messie qui avait été retranché. Amen! C’est comme cela. C’est pourquoi ne confondez pas. Ce n’est pas confus. Les Ecritures ne mentent pas, pas le moins du monde. Gloire à Dieu! Oh, quand j’ai vu cette Lumière!
+
+238 Je dis: «Merci, Seigneur!» quand j’observais ces choses se dérouler devant moi, quand je vis Elie sortir seul dans ce premier âge. Il était seul, alors; mais quand je le vis réapparaître ailleurs, il n’était plus seul, il y avait deux personnes. Je m’écriai: «Voilà! C’est cela, Seigneur! Amen! Maintenant je vois». Cela pourrait paraître un peu confus à certains, mais Il m’a dit de le mentionner; c’est pourquoi je l’ai fait.
+
+239 Remarquez que ces hommes sont maintenus vivants par Dieu depuis leur ministère originel pour un service futur. Ils avaient accompli un si bon service, vous voyez! Pensez-y, l’esprit d’Elie exerce son ministère cinq fois, celui de Moïse deux fois. Remarquez qu’ils sont gardés en vie pour un service ultérieur. Aucun d’eux n’est mort maintenant. Croyez-vous cela? Ils ont été vus tous deux vivants, parlant à Jésus sur la montagne de la Transfiguration. Mais rappelez-vous qu’ils doivent mourir.
+
+240 Or Moïse mourut réellement, mais il se releva car il est un type parfait de Christ, vous voyez. Personne n’a jamais su où il avait été enseveli. Les anges vinrent le prendre. Il eut des anges comme porteurs de cercueil. Aucun mortel ne pouvait l’amener là où il devait aller. Il avait terminé son rôle, c’est tout. Des anges transportèrent sa dépouille là où elle devait aller et personne ne sait où. Même Satan ne le savait pas et il disputa le corps à l’archange. Il dit: “Je ne puis comprendre ce qui est arrivé à Moïse. Je l’ai vu là-haut tremblant, regardant le pays tout entier et regardant en arrière vers les enfants d'Israël, etc. Je l’ai vu trembler, puis monter sur le rocher, et c’est la dernière fois que je l’ai vu”.
+
+241 C’est le Rocher! c’est le Rocher! Que je me tienne sur ce Rocher à la fin de ma route. Certainement! Mon frère de couleur avait l’habitude de venir ici chanter un petit choeur:
         Si je le pouvais, je me tiendrais
         Certainement debout sur ce Rocher
         Où se tenait Moïse.
 242 Certainement! Moi aussi je veux me tenir sur ce Rocher. Je m’y tiens par la foi.
-243 Mais rappelez-vous qu’Elie était fatigué parce qu’il avait encore beaucoup de travail à faire. Il
-était passablement usé. Aussi Dieu envoya-t-Il un char qui l’emporta dans Sa maison. N’est-ce pas
-vrai? Il l’enleva. Elie ne mourut pas parce que Dieu le garda en vie. Il avait une oeuvre future pour
-lui. Qu’Il oigne un homme et entre dans son esprit, cet homme doit toutefois goûter à la mort. C’est
-dans Apocalypse au chapitre 11. De toute façon je suis sur ce passage. Observez et voyez s’ils ne
-sont pas tués tous les deux. Certainement! Les deux doivent goûter à la mort. C’est vrai! Après
-que leur ministère soit fini, ils goûtent à la mort. Apocalypse 11. Commençons au verset 7.
+
+243 Mais rappelez-vous qu’Elie était fatigué parce qu’il avait encore beaucoup de travail à faire. Il était passablement usé. Aussi Dieu envoya-t-Il un char qui l’emporta dans Sa maison. N’est-ce pas vrai? Il l’enleva. Elie ne mourut pas parce que Dieu le garda en vie. Il avait une oeuvre future pour lui. Qu’Il oigne un homme et entre dans son esprit, cet homme doit toutefois goûter à la mort. C’est dans Apocalypse au chapitre 11. De toute façon je suis sur ce passage. Observez et voyez s’ils ne sont pas tués tous les deux. Certainement! Les deux doivent goûter à la mort. C’est vrai! Après que leur ministère soit fini, ils goûtent à la mort. Apocalypse 11. Commençons au verset 7.
      “Et quand ils auront achevé leur témoignage, la bête qui monte de l’abîme leur fera la
      guerre… (oh, mes bien-aimés, elle ne peut supporter cela. Ces fanatiques sont revenus.
      Alors elle sort de l’abîme et leur fait la guerre), et les vaincra, et les mettra à mort (mais
      observez ce qui se passe. Ils sont parfaitement représentés en type); et leur corps mort
      sera étendu sur la place de la grande ville qui est appelée spirituellement Sodome et
      Egypte, où aussi leur Seigneur a été crucifié (Jérusalem)”.
-244 Alors ne doivent-ils pas affronter la mort, après que leur ministère soit terminé? Pourquoi? Le
-ministère du septième ange, le ministère d’Elie au septième ange, pourquoi ne pouvait-il pas être
-exercé par Moïse aussi bien que par Elie, s’il était immortel? Pourquoi Dieu n’a-t-Il pas dit: “Elie, tu
-as tellement travaillé et tout le reste, à tous ces différents endroits, que je crois que je vais
-simplement envoyer Moïse”?
-245 Regardez le ministère de Moïse. Elie était un prophète pour toutes les nations. Moïse, lui,
-était un législateur seulement pour les Juifs. C’est la raison pour laquelle Moïse vient avec
-Elie…
-246 Ces Juifs disent: “Attendez! Ici nous gardons toujours la Loi. Mais voilà qu’il y a Moïse
-lui-même, et Elie est avec lui. Vous voyez. Il vient seulement pour les Juifs. Vous voyez,
-Moïse ne vient que pour les Juifs. Elie fut un prophète pour toutes les nations, alors que Moïse, lui,
+244 Alors ne doivent-ils pas affronter la mort, après que leur ministère soit terminé? Pourquoi? Le ministère du septième ange, le ministère d’Elie au septième ange, pourquoi ne pouvait-il pas être exercé par Moïse aussi bien que par Elie, s’il était immortel? Pourquoi Dieu n’a-t-Il pas dit: “Elie, tu as tellement travaillé et tout le reste, à tous ces différents endroits, que je crois que je vais simplement envoyer Moïse”?
+
+245 Regardez le ministère de Moïse. Elie était un prophète pour toutes les nations. Moïse, lui, était un législateur seulement pour les Juifs. C’est la raison pour laquelle Moïse vient avec Elie…
+
+246 Ces Juifs disent: “Attendez! Ici nous gardons toujours la Loi. Mais voilà qu’il y a Moïse lui-même, et Elie est avec lui. Vous voyez. Il vient seulement pour les Juifs. Vous voyez, Moïse ne vient que pour les Juifs. Elie fut un prophète pour toutes les nations, alors que Moïse, lui,
 
         http://www.cmpp.ch
 
 REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 24
 ne fut un prophète et un législateur que pour les Juifs. C’était cela son message: la Loi.
-247 Mais quel fut le message d’Elie? Il s’adressait aux femmes aux cheveux coupés, aux
-dénominations. Oui, il les réprimanda fortement, ces femmes au visage peint. Il leur dit qu’elles
-seraient jetées en pâture aux chiens. Il les réprimanda réellement.
-248 Et quand son esprit vint sur Jean, ce dernier sortit du désert en frappant du pied et fit la même
-chose. C’est vrai. Il dit: “Ne pensez pas que vous appartenez à ceci ou à cela. De ces pierres, Dieu
-est capable de susciter des enfants à Abraham”. Puis il continua sa route et dit: “Et tu viens me
-dire que tu as épousé ton propre beau-frère? La loi te défend de le faire”. Oh, frères, il leur disait
-les choses, certainement!
-249 Remarquez que ces âmes doivent attendre encore un peu que les 144 000 aient subi le
-martyre. Cela ne fait-il pas de la Bible un tout?
-250 Si je veux vous laisser partir un peu tôt, je vois que mon temps est terminé, mais j’ai encore
-quelques petites choses à vous dire, si vous pouvez le supporter. Je sais qu’il fait très chaud et je
-transpire, mais écoutez ceci. J’ai juste quelque chose à vous dire. C’est si bon que cela brûle dans
-mon coeur. J’espère que vous n’avez pas oublié, vous voyez.
-251 Laissez-moi vous dire ceci en Sa présence. C’est que par Sa grâce, il n’y a pas longtemps Il
-m’a aussi laissé voir les miens en longues robes blanches. Vous en souvenez-vous? Vous vous
-rappelez l’histoire (il n’y a pas longtemps) de l’Epouse des nations. Maintenant ils sont là-haut,
-ayant tous revêtu une longue robe blanche.
-252 J’avais été à une réunion. Cela se passait il y a environ un an. Je m’éveillai un matin et en me
-soulevant, j’appelai ma femme: «Chérie!». Elle ne bougea point. Je devais me lever et conduire les
-enfants à l’ancienne école tout près d’ici. Je m’étais soulevé dans le lit. Vous connaissez ces vieux
-lits à l’ancienne mode. Il y a une sorte de grand panneau du côté de la tête et on peut s’y appuyer.
-J’étais appuyé ainsi.
-253 Je pensai: «Mon vieux, tu as déjà cinquante-trois ans. Si tu veux faire quelque chose pour
-Dieu, tu ferais bien de t’y mettre parce que dans quelque temps tu seras trop vieux».
-254 Je pensai: «C’est vrai. Mon vieux, tu sais, tu n’es pas encore allé très loin et tu devras bientôt
-t’en aller. Tu as vécu déjà un an de plus que ton père. Tu vas bientôt devoir partir». Je pensai: «Et
-je n’ai encore rien fait pour Dieu; j’aurais toujours aimé faire quelque chose pour Lui. Il faut
-vraiment que je me dépêche de le faire, mais si je veux le faire je ne sais pas comment le faire,
-tout est là».
-255 Je pensai encore: «J’espère que je vivrai pour voir Sa venue. Je ne tiens pas du tout à être un
-fantôme ou un esprit». J’ai toujours eu peur des esprits. C’est comme si je devais rencontrer le
-frère Neville et que je le voie sous la forme d’un petit nuage blanc, voletant par là, et il faudrait que
-je dise: «Bonjour, frère Neville!».
-256 Il me répondrait: «Bonjour, frère Branham» avec un autre sens, car il ne pourrait pas parler.
-Pourtant, je saurais parfaitement qu’il s’agit de frère Neville. Je voudrais lui serrer la main comme
-je le fais toujours, parce que c’est tout ce que je sais faire en tant qu’être humain. Vous voyez, je
-voudrais lui serrer la main, mais il n’aurait pas de main. Elle serait là-bas pourrie au fond de la
-tombe. Vous voyez?
-257 Je pensai: «Oh, j’espère bien que je n’aurai pas à passer par là!». Pour dire la vérité j’avais
-peur de mourir, non pas d’être perdu, mais je ne voulais pas être un esprit. Je voulais rester un
-homme. Je voulais attendre l’enlèvement, vous voyez. Je voulais simplement rester comme cela.
-Je ne voulais pas devenir un esprit.
-258 Alors que j’étais étendu, pensant à cela, quelque chose se produisit tout à coup. Vous savez
-tous et vous connaissez tous les visions. Et si c’était une vision, je n’en ai jamais eue de pareille et
-pourtant j’en ai eues depuis que je suis un petit garçon. Soudain quelque chose se passa et je me
-sentis partir. Je me dis: «Oh! Oh! Je suis donc déjà mort, et je suis parti». Vous comprenez?
-J’arrivai quelque part; alors je pensai: «Je crois que je vais regarder en arrière».
-259 Chers amis, c’était aussi réel que ma présence ici. Je me tournai pour regarder en arrière et
-j’étais là, étendu sur le lit. J’étais étendu là, couché à côté de ma femme.
+247 Mais quel fut le message d’Elie? Il s’adressait aux femmes aux cheveux coupés, aux dénominations. Oui, il les réprimanda fortement, ces femmes au visage peint. Il leur dit qu’elles seraient jetées en pâture aux chiens. Il les réprimanda réellement.
+
+248 Et quand son esprit vint sur Jean, ce dernier sortit du désert en frappant du pied et fit la même chose. C’est vrai. Il dit: “Ne pensez pas que vous appartenez à ceci ou à cela. De ces pierres, Dieu est capable de susciter des enfants à Abraham”. Puis il continua sa route et dit: “Et tu viens me dire que tu as épousé ton propre beau-frère? La loi te défend de le faire”. Oh, frères, il leur disait les choses, certainement!
+
+249 Remarquez que ces âmes doivent attendre encore un peu que les 144 000 aient subi le martyre. Cela ne fait-il pas de la Bible un tout?
+
+250 Si je veux vous laisser partir un peu tôt, je vois que mon temps est terminé, mais j’ai encore quelques petites choses à vous dire, si vous pouvez le supporter. Je sais qu’il fait très chaud et je transpire, mais écoutez ceci. J’ai juste quelque chose à vous dire. C’est si bon que cela brûle dans mon coeur. J’espère que vous n’avez pas oublié, vous voyez.
+
+251 Laissez-moi vous dire ceci en Sa présence. C’est que par Sa grâce, il n’y a pas longtemps Il m’a aussi laissé voir les miens en longues robes blanches. Vous en souvenez-vous? Vous vous rappelez l’histoire (il n’y a pas longtemps) de l’Epouse des nations. Maintenant ils sont là-haut, ayant tous revêtu une longue robe blanche.
+
+252 J’avais été à une réunion. Cela se passait il y a environ un an. Je m’éveillai un matin et en me soulevant, j’appelai ma femme: «Chérie!». Elle ne bougea point. Je devais me lever et conduire les enfants à l’ancienne école tout près d’ici. Je m’étais soulevé dans le lit. Vous connaissez ces vieux lits à l’ancienne mode. Il y a une sorte de grand panneau du côté de la tête et on peut s’y appuyer. J’étais appuyé ainsi.
+
+253 Je pensai: «Mon vieux, tu as déjà cinquante-trois ans. Si tu veux faire quelque chose pour Dieu, tu ferais bien de t’y mettre parce que dans quelque temps tu seras trop vieux».
+
+254 Je pensai: «C’est vrai. Mon vieux, tu sais, tu n’es pas encore allé très loin et tu devras bientôt t’en aller. Tu as vécu déjà un an de plus que ton père. Tu vas bientôt devoir partir». Je pensai: «Et je n’ai encore rien fait pour Dieu; j’aurais toujours aimé faire quelque chose pour Lui. Il faut vraiment que je me dépêche de le faire, mais si je veux le faire je ne sais pas comment le faire, tout est là».
+
+255 Je pensai encore: «J’espère que je vivrai pour voir Sa venue. Je ne tiens pas du tout à être un fantôme ou un esprit». J’ai toujours eu peur des esprits. C’est comme si je devais rencontrer le frère Neville et que je le voie sous la forme d’un petit nuage blanc, voletant par là, et il faudrait que je dise: «Bonjour, frère Neville!».
+
+256 Il me répondrait: «Bonjour, frère Branham» avec un autre sens, car il ne pourrait pas parler. Pourtant, je saurais parfaitement qu’il s’agit de frère Neville. Je voudrais lui serrer la main comme je le fais toujours, parce que c’est tout ce que je sais faire en tant qu’être humain. Vous voyez, je voudrais lui serrer la main, mais il n’aurait pas de main. Elle serait là-bas pourrie au fond de la tombe. Vous voyez?
+
+257 Je pensai: «Oh, j’espère bien que je n’aurai pas à passer par là!». Pour dire la vérité j’avais peur de mourir, non pas d’être perdu, mais je ne voulais pas être un esprit. Je voulais rester un homme. Je voulais attendre l’enlèvement, vous voyez. Je voulais simplement rester comme cela. Je ne voulais pas devenir un esprit.
+
+258 Alors que j’étais étendu, pensant à cela, quelque chose se produisit tout à coup. Vous savez tous et vous connaissez tous les visions. Et si c’était une vision, je n’en ai jamais eue de pareille et pourtant j’en ai eues depuis que je suis un petit garçon. Soudain quelque chose se passa et je me sentis partir. Je me dis: «Oh! Oh! Je suis donc déjà mort, et je suis parti». Vous comprenez? J’arrivai quelque part; alors je pensai: «Je crois que je vais regarder en arrière».
+
+259 Chers amis, c’était aussi réel que ma présence ici. Je me tournai pour regarder en arrière et j’étais là, étendu sur le lit. J’étais étendu là, couché à côté de ma femme.
+
 260 Je pensai: «Eh bien, j’ai probablement eu une crise cardiaque». Vous voyez? Je pensai: «Eh
 
         http://www.cmpp.ch
 
 REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 25
-bien, je suis mort instantanément», ce qui est une belle manière de s’en aller. Je pensai donc:
-«C’était une crise cardiaque, je n’ai pas eu à souffrir». Je regardai et pensai: «Eh bien, c’est
-étrange, je suis couché là-bas, et me voici debout ici».
-261 Alors je me tournai, et je vis comme un grand champ herbeux. Je dis: «Eh bien, je me
-demande ce que c’est». Soudain, tandis que je regardais, je vis accourir, pieds nus, des milliers de
-milliers de jeunes femmes, toutes en longues robes blanches, leurs longs cheveux descendant
-jusqu’à la taille, et elles couraient tout droit vers moi.
-262 Je pensai: «Qu’est-ce que c’est?». Je me tournai et regardai en arrière et me voyais là. Puis
-je regardai vers le haut dans cette direction, et les voici qui venaient. Je me mordis un doigt et dis:
-«Je ne suis pas exactement endormi», car j’avais des sensations. Je dis: «Eh bien, il y a ici
-quelque chose de bizarre». Et toutes ces femmes qui arrivaient en courant! Je n’avais jamais vu
-de femmes aussi jolies et elles venaient toutes tout droit vers moi. Et alors qu’elles accouraient
-vers moi … vous savez comment j’ai été. On dit que je hais les femmes, mais ce n’est pas vrai,
-vous voyez. Je pense qu’une bonne femme est un joyau. Mais je pense aussi qu’une pas bonne
-est, comme dit Salomon: “de l’eau dans ton sang”, et je n’ai certainement pas besoin de femmes
-de mauvaise réputation ou de femmes émancipées.
-263 Dans cette vision toutes ces femmes s’approchèrent et commencèrent à m’entourer de leurs
-bras. C’est quelque chose d’inhabituel! Vous savez que je ne tolérerais pas cela. Je vais devoir
-dire cela d’une certaine manière parce que je me trouve dans une assemblée mixte. C’étaient des
-femmes. C’étaient des femmes et chacune d’elles me serrait dans ses bras en disant: «Notre cher
-frère!». L’une venait me serrer dans ses bras, ensuite une autre venait me serrer dans ses bras. Je
-me tenais là à regarder et pensais: «Eh bien, qu’est-ce que c’est maintenant?». Je me tenais
-simplement là. Vous voyez? Je pensais: «Qu’est-il arrivé?». Je regardai en bas. J’étais toujours
-couché là en bas et j’étais en même temps ici debout. Je pensais: «C’est bizarre, je ne comprends
-pas». Et ces femmes qui criaient: «Oh! notre frère bien-aimé!» en me serrant dans leurs bras! Et à
-leur contact je sentais qu’en toutes choses c’étaient des femmes véritables.
-264 Maintenant, chères soeurs, pardonnez-moi pour ce que je vais dire. Vous écoutez bien ce que
-dit votre médecin. Et si notre pensée n’est pas pure, nous ne sommes pas des chrétiens. Ma vie a
-toujours été pure, Dieu le sait. Lorsque j’étais un petit garçon, l’Ange du Seigneur m’ordonna de ne
-pas souiller mon corps, de ne pas fumer ni boire; c’est la vérité. Par la grâce de Dieu j’ai gardé
-cela. Quand j’étais encore un pécheur je ne courais pas avec les femmes. Mais si un homme serre
-une femme dans ses bras, l’homme étant fait de cellules mâles et elle de cellules femelles, il y a
-toujours une sensation. Qui que vous soyez, ne me dites pas que vous n’êtes pas ainsi, si vous
-êtes en bonne santé. Mais là-bas il n’y a plus de cellules différentes. Là-bas vous ne pécherez
-jamais plus. Il y a un changement. Il n’y a plus qu’un simple amour fraternel envers ces femmes.
-265 Vue avec les yeux de la grâce, je pense qu’une femme, une femme de bien qui se conduit
-correctement et se comporte comme une dame est l’exemple d’un joyau sur cette terre. J’aime tout
-ce qui est gracieux. Je pense que si ce n’est pas le cas, c’est simplement comme le Christ et
-l’antichrist, c’est la même chose. J’aime tout ce qui est naturel.
-266 C’est comme un beau cheval. Il témoigne de ce qu’est vraiment un beau cheval. Ou quelque
-chose comme cela, une belle montagne, une belle femme, un bel homme, ou tout ce qui est dans
-la manière de faire de Dieu. J’ai toujours admiré cela, ce sont des choses parfaites. Mais ces
-femmes avaient beau me serrer dans leurs bras (et comprenez bien que c’étaient de vraies
-femmes), il ne pouvait y avoir aucun péché. Les glandes mâles et les glandes femelles n’existaient
-plus. Dieu soit béni! Ces femmes étaient totalement mes soeurs.
-267 Je regardai mes mains. Je vis qu’elles étaient si jeunes! Je me regardai, j’étais jeune moi
-aussi. J’ai perdu mes cheveux quand j’étais jeune homme parce qu’un coiffeur m’a versé du
-phénol sur la tête. Cela a toujours été une affaire pour moi parce que j’ai toujours le cuir chevelu
-très délicat, vous savez, et je m’enrhume très facilement. Les racines de mes cheveux sont
-toujours là mais elles ont été brûlées par le phénol et les cheveux ne peuvent plus jamais
-repousser. Il y a déjà longtemps de cela, je demandais à ma femme de me procurer une sorte de
-petite perruque pour me couvrir la tête, mais cela m’a toujours gêné de la porter parce qu’elle avait
-l’air de quelque chose de faux et que je ne veux rien de faux. Je me dis alors: «Bien, je vais
-simplement porter un calot». Ce que je fis pendant un certain temps, mais savez-vous ce qui
-arriva? Les gens commencèrent à m’appeler “Evêque”, disant que je voulais… alors, je cessai de
+bien, je suis mort instantanément», ce qui est une belle manière de s’en aller. Je pensai donc: «C’était une crise cardiaque, je n’ai pas eu à souffrir». Je regardai et pensai: «Eh bien, c’est étrange, je suis couché là-bas, et me voici debout ici».
+
+261 Alors je me tournai, et je vis comme un grand champ herbeux. Je dis: «Eh bien, je me demande ce que c’est». Soudain, tandis que je regardais, je vis accourir, pieds nus, des milliers de milliers de jeunes femmes, toutes en longues robes blanches, leurs longs cheveux descendant jusqu’à la taille, et elles couraient tout droit vers moi.
+
+262 Je pensai: «Qu’est-ce que c’est?». Je me tournai et regardai en arrière et me voyais là. Puis je regardai vers le haut dans cette direction, et les voici qui venaient. Je me mordis un doigt et dis: «Je ne suis pas exactement endormi», car j’avais des sensations. Je dis: «Eh bien, il y a ici quelque chose de bizarre». Et toutes ces femmes qui arrivaient en courant! Je n’avais jamais vu de femmes aussi jolies et elles venaient toutes tout droit vers moi. Et alors qu’elles accouraient vers moi … vous savez comment j’ai été. On dit que je hais les femmes, mais ce n’est pas vrai, vous voyez. Je pense qu’une bonne femme est un joyau. Mais je pense aussi qu’une pas bonne est, comme dit Salomon: “de l’eau dans ton sang”, et je n’ai certainement pas besoin de femmes de mauvaise réputation ou de femmes émancipées.
+
+263 Dans cette vision toutes ces femmes s’approchèrent et commencèrent à m’entourer de leurs bras. C’est quelque chose d’inhabituel! Vous savez que je ne tolérerais pas cela. Je vais devoir dire cela d’une certaine manière parce que je me trouve dans une assemblée mixte. C’étaient des femmes. C’étaient des femmes et chacune d’elles me serrait dans ses bras en disant: «Notre cher frère!». L’une venait me serrer dans ses bras, ensuite une autre venait me serrer dans ses bras. Je me tenais là à regarder et pensais: «Eh bien, qu’est-ce que c’est maintenant?». Je me tenais simplement là. Vous voyez? Je pensais: «Qu’est-il arrivé?». Je regardai en bas. J’étais toujours couché là en bas et j’étais en même temps ici debout. Je pensais: «C’est bizarre, je ne comprends pas». Et ces femmes qui criaient: «Oh! notre frère bien-aimé!» en me serrant dans leurs bras! Et à leur contact je sentais qu’en toutes choses c’étaient des femmes véritables.
+
+264 Maintenant, chères soeurs, pardonnez-moi pour ce que je vais dire. Vous écoutez bien ce que dit votre médecin. Et si notre pensée n’est pas pure, nous ne sommes pas des chrétiens. Ma vie a toujours été pure, Dieu le sait. Lorsque j’étais un petit garçon, l’Ange du Seigneur m’ordonna de ne pas souiller mon corps, de ne pas fumer ni boire; c’est la vérité. Par la grâce de Dieu j’ai gardé cela. Quand j’étais encore un pécheur je ne courais pas avec les femmes. Mais si un homme serre une femme dans ses bras, l’homme étant fait de cellules mâles et elle de cellules femelles, il y a toujours une sensation. Qui que vous soyez, ne me dites pas que vous n’êtes pas ainsi, si vous êtes en bonne santé. Mais là-bas il n’y a plus de cellules différentes. Là-bas vous ne pécherez jamais plus. Il y a un changement. Il n’y a plus qu’un simple amour fraternel envers ces femmes.
+
+265 Vue avec les yeux de la grâce, je pense qu’une femme, une femme de bien qui se conduit correctement et se comporte comme une dame est l’exemple d’un joyau sur cette terre. J’aime tout ce qui est gracieux. Je pense que si ce n’est pas le cas, c’est simplement comme le Christ et l’antichrist, c’est la même chose. J’aime tout ce qui est naturel.
+
+266 C’est comme un beau cheval. Il témoigne de ce qu’est vraiment un beau cheval. Ou quelque chose comme cela, une belle montagne, une belle femme, un bel homme, ou tout ce qui est dans la manière de faire de Dieu. J’ai toujours admiré cela, ce sont des choses parfaites. Mais ces femmes avaient beau me serrer dans leurs bras (et comprenez bien que c’étaient de vraies femmes), il ne pouvait y avoir aucun péché. Les glandes mâles et les glandes femelles n’existaient plus. Dieu soit béni! Ces femmes étaient totalement mes soeurs.
+
+267 Je regardai mes mains. Je vis qu’elles étaient si jeunes! Je me regardai, j’étais jeune moi aussi. J’ai perdu mes cheveux quand j’étais jeune homme parce qu’un coiffeur m’a versé du phénol sur la tête. Cela a toujours été une affaire pour moi parce que j’ai toujours le cuir chevelu très délicat, vous savez, et je m’enrhume très facilement. Les racines de mes cheveux sont toujours là mais elles ont été brûlées par le phénol et les cheveux ne peuvent plus jamais repousser. Il y a déjà longtemps de cela, je demandais à ma femme de me procurer une sorte de petite perruque pour me couvrir la tête, mais cela m’a toujours gêné de la porter parce qu’elle avait l’air de quelque chose de faux et que je ne veux rien de faux. Je me dis alors: «Bien, je vais simplement porter un calot». Ce que je fis pendant un certain temps, mais savez-vous ce qui arriva? Les gens commencèrent à m’appeler “Evêque”, disant que je voulais… alors, je cessai de
 
         http://www.cmpp.ch
 
 REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 26
 le porter et me résignai à attraper de gros rhumes.
-268 Mais vous pouvez simplement ouvrir les fenêtres pour laisser entrer un peu d’air. Je suis déjà
-enrhumé!
-269 Je suis allé chez un médecin pour avoir son avis. Il me dit: «Après avoir prêché vos pores
-sont ouverts et vous êtes en sueur. Alors vous prenez un courant d’air qui vous envoie un microbe
-de rhume; cela descend ensuite dans votre gorge et le lendemain vous êtes enroué. Voilà!».
-270 Vous autres qui avez tous vos cheveux, vous ne savez pas combien vous devriez être
-reconnaissants! C’est vrai. J’ai découvert qu’un de ces jours je vais aussi perdre mes dents et il
-me faudra un dentier, ou alors me passer de dents.
-271 Je pense que c’est la même chose pour un homme s’il désire porter une perruque que pour
-une femme de porter un de ces postiches ou quoi que ce soit qu’elle met dans ses cheveux pour
-les arranger. Vous voyez? Mais bien sûr que si vous le faites, tout dépend de la raison pour
-laquelle vous le faites.
-272 Mais en me tenant là-bas, je sentis que j’avais de nouveau mes cheveux! Oh, mes frères,
-j’étais jeune, et toutes ces jeunes femmes… Je pensai: «Eh bien, n’est-ce pas étrange? Les
-voilà…». Je les voyais toutes accourir. En les regardant, je vis approcher Hope. Vous savez, elle
-est morte à vingt-deux ans. Elle était toujours aussi jolie. Beaucoup d’entre nous se souviennent
-de ses grands yeux sombres et de sa longue chevelure noire qui lui descendait dans le dos. Elle
-était allemande.
-273 Je pensai: «Lorsqu’elle viendra vers moi, elle m’appellera: ‹Bill!›. Je sais qu’elle le fera. Je
-sais qu’elle dira: ‹Bill!› lorsqu’elle viendra ici». J’observai. Chacune de ces femmes venait me
-serrer dans ses bras, disant: «Notre frère bien-aimé, nous sommes si heureuses de te voir!».
-274 Il me semblait qu’elles étaient toutes habillées de la même façon mais leurs cheveux étaient
-différents, vous voyez; il en venait des rousses, des blondes, des brunes, mais toutes étaient
-jeunes. Et lorsque Hope s’approcha je pensai: «Voyons ce qu’elle va dire»; elle me regarda et dit:
-«Oh! notre frère bien-aimé!». Elle me serra dans ses bras et s’en alla simplement. Ensuite d’autres
-femmes vinrent me serrer dans leurs bras.
-275 Puis j’entendis un bruit et regardai dans cette direction, et voici qu’une troupe de jeunes
-hommes s’approchait; ils étaient tous âgés d’environ vingt ans. Certains avaient des cheveux
-noirs, d’autres blonds; ils étaient tous pieds nus et vêtus de longues robes blanches. Ils
-accouraient tous et se mirent à me serrer dans leurs bras, criant: «Notre frère bien-aimé!».
-276 Je me retournai et me voyais toujours couché là-bas. Je pensai: «C’est bien étrange!». Juste
-à ce moment une voix se mit à me parler, mais je ne vis jamais cette voix. Elle me dit: «Tu as été
-réuni aux tiens». Alors un homme me saisit et me déposa sur quelque chose de grand et de haut
-comme cela.
+268 Mais vous pouvez simplement ouvrir les fenêtres pour laisser entrer un peu d’air. Je suis déjà enrhumé!
+
+269 Je suis allé chez un médecin pour avoir son avis. Il me dit: «Après avoir prêché vos pores sont ouverts et vous êtes en sueur. Alors vous prenez un courant d’air qui vous envoie un microbe de rhume; cela descend ensuite dans votre gorge et le lendemain vous êtes enroué. Voilà!».
+
+270 Vous autres qui avez tous vos cheveux, vous ne savez pas combien vous devriez être reconnaissants! C’est vrai. J’ai découvert qu’un de ces jours je vais aussi perdre mes dents et il me faudra un dentier, ou alors me passer de dents.
+
+271 Je pense que c’est la même chose pour un homme s’il désire porter une perruque que pour une femme de porter un de ces postiches ou quoi que ce soit qu’elle met dans ses cheveux pour les arranger. Vous voyez? Mais bien sûr que si vous le faites, tout dépend de la raison pour laquelle vous le faites.
+
+272 Mais en me tenant là-bas, je sentis que j’avais de nouveau mes cheveux! Oh, mes frères, j’étais jeune, et toutes ces jeunes femmes… Je pensai: «Eh bien, n’est-ce pas étrange? Les voilà…». Je les voyais toutes accourir. En les regardant, je vis approcher Hope. Vous savez, elle est morte à vingt-deux ans. Elle était toujours aussi jolie. Beaucoup d’entre nous se souviennent de ses grands yeux sombres et de sa longue chevelure noire qui lui descendait dans le dos. Elle était allemande.
+
+273 Je pensai: «Lorsqu’elle viendra vers moi, elle m’appellera: ‹Bill!›. Je sais qu’elle le fera. Je sais qu’elle dira: ‹Bill!› lorsqu’elle viendra ici». J’observai. Chacune de ces femmes venait me serrer dans ses bras, disant: «Notre frère bien-aimé, nous sommes si heureuses de te voir!».
+
+274 Il me semblait qu’elles étaient toutes habillées de la même façon mais leurs cheveux étaient différents, vous voyez; il en venait des rousses, des blondes, des brunes, mais toutes étaient jeunes. Et lorsque Hope s’approcha je pensai: «Voyons ce qu’elle va dire»; elle me regarda et dit: «Oh! notre frère bien-aimé!». Elle me serra dans ses bras et s’en alla simplement. Ensuite d’autres femmes vinrent me serrer dans leurs bras.
+
+275 Puis j’entendis un bruit et regardai dans cette direction, et voici qu’une troupe de jeunes hommes s’approchait; ils étaient tous âgés d’environ vingt ans. Certains avaient des cheveux noirs, d’autres blonds; ils étaient tous pieds nus et vêtus de longues robes blanches. Ils accouraient tous et se mirent à me serrer dans leurs bras, criant: «Notre frère bien-aimé!».
+
+276 Je me retournai et me voyais toujours couché là-bas. Je pensai: «C’est bien étrange!». Juste à ce moment une voix se mit à me parler, mais je ne vis jamais cette voix. Elle me dit: «Tu as été réuni aux tiens». Alors un homme me saisit et me déposa sur quelque chose de grand et de haut comme cela.
+
 277 Je demandai: «Pourquoi as-tu fait cela?».
+
 278 Il me dit: «Sur la terre, tu fus un conducteur».
-279 Je dis: «Eh bien, je ne comprends pas cela». Et cette voix qui continuait à me parler (je ne
-pus jamais voir cette voix. Elle était simplement au-dessus de moi et me parlait). Je dis: «Eh bien,
-si je suis mort, j’aimerais voir Jésus. Il était toute ma vie; j’aimerais bien Le voir!».
-280 Alors elle me dit: «Tu ne peux Le voir maintenant. Il est encore plus haut». Vous voyez, cela
-se passait encore sous l’autel, le sixième endroit où l’homme va, vous voyez, et non pas le
-septième où se trouve Dieu. Avant le septième il faut passer par le sixième. Ils étaient tous là et
-passaient près de moi. Et il me semblait y en avoir des millions. Quand j’étais là, ces hommes et
-ces femmes passaient continuellement vers moi, me serrant dans leurs bras et m’appelant leur
-frère.
-281 J’étais assis là lorsqu’une voix me dit: «Tu as été réuni aux tiens comme Jacob a été réuni à
-son peuple».
+
+279 Je dis: «Eh bien, je ne comprends pas cela». Et cette voix qui continuait à me parler (je ne pus jamais voir cette voix. Elle était simplement au-dessus de moi et me parlait). Je dis: «Eh bien, si je suis mort, j’aimerais voir Jésus. Il était toute ma vie; j’aimerais bien Le voir!».
+
+280 Alors elle me dit: «Tu ne peux Le voir maintenant. Il est encore plus haut». Vous voyez, cela se passait encore sous l’autel, le sixième endroit où l’homme va, vous voyez, et non pas le septième où se trouve Dieu. Avant le septième il faut passer par le sixième. Ils étaient tous là et passaient près de moi. Et il me semblait y en avoir des millions. Quand j’étais là, ces hommes et ces femmes passaient continuellement vers moi, me serrant dans leurs bras et m’appelant leur frère.
+
+281 J’étais assis là lorsqu’une voix me dit: «Tu as été réuni aux tiens comme Jacob a été réuni à son peuple».
+
 282 Je dis: «Tous ceux-là sont-ils les miens? Sont-ce tous des Branham?».
+
 283 La voix me répondit: «Non, ce sont tous ceux que tu as convertis à Christ».
+
 284 En regardant autour de moi je vis approcher une femme vraiment jolie. Elle avait la même
 
         http://www.cmpp.ch
 
 REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 27
-apparence que toutes les autres. Elle jeta ses bras autour de moi, disant: «Oh, mon frère
-bien-aimé!». Et elle me regarda.
-285 Je pensai: «Oh, elle a l’air d’un ange». Elle se retira et la voix me dit: «Ne l’as-tu pas
-reconnue?». Je répondis: «Non, je ne l’ai pas reconnue».
-286 Elle me dit: «Tu l’as conduite à Christ quand elle avait passé quatre-vingt-dix ans. Sais-tu
-pourquoi elle a tant d’estime pour toi?».
+apparence que toutes les autres. Elle jeta ses bras autour de moi, disant: «Oh, mon frère bien-aimé!». Et elle me regarda.
+285 Je pensai: «Oh, elle a l’air d’un ange». Elle se retira et la voix me dit: «Ne l’as-tu pas reconnue?». Je répondis: «Non, je ne l’ai pas reconnue».
+
+286 Elle me dit: «Tu l’as conduite à Christ quand elle avait passé quatre-vingt-dix ans. Sais-tu pourquoi elle a tant d’estime pour toi?».
+
 287 Je dis: «Cette jolie fille avait plus de quatre-vingt-dix ans?».
-288 La voix me répondit: «Elle ne peut plus jamais changer maintenant. C’est la raison pour
-laquelle elle dit: ‹Frère bien-aimé!›».
-289 Je pensai: «Oh, dire que j’avais peur de cela! Mais tous ces gens sont réels». Ils n’allaient
-nulle part; ils n’étaient pas fatigués d’être là. Je dis: «Eh bien, pourquoi ne puis-je voir Jésus?».
-290 La voix me répondit: «Eh bien, Il viendra un jour. Il viendra vers toi premièrement, et alors tu
-seras jugé. Ces gens, ce sont ceux que tu as convertis et que tu as conduits».
+
+288 La voix me répondit: «Elle ne peut plus jamais changer maintenant. C’est la raison pour laquelle elle dit: ‹Frère bien-aimé!›».
+
+289 Je pensai: «Oh, dire que j’avais peur de cela! Mais tous ces gens sont réels». Ils n’allaient nulle part; ils n’étaient pas fatigués d’être là. Je dis: «Eh bien, pourquoi ne puis-je voir Jésus?».
+
+290 La voix me répondit: «Eh bien, Il viendra un jour. Il viendra vers toi premièrement, et alors tu seras jugé. Ces gens, ce sont ceux que tu as convertis et que tu as conduits».
+
 291 Je demandai: «Tu veux dire qu’Il me jugera en tant que conducteur?».
      Elle dit: «Oui».
      Je dis: «Chaque conducteur doit-il être jugé de cette façon?».
      Elle dit: «Oui».
      Je dis: «Qu’en est-il de Paul?».
      — «Il doit être jugé avec les siens».
-292 Je dis: «Eh bien, si son groupe entre, alors le mien entrera aussi, parce que j’ai prêché
-exactement la même Parole». Je dis encore: «Quand il baptisa au Nom de Jésus je le fis aussi.
-J’ai prêché…». Et il y en avait des millions qui criaient tous ensemble: «C’est là-dessus que nous
-nous reposons!».
-293 Je pensai: «Oh, si seulement j’avais su cela avant de venir, j’aurais fait venir les gens ici. Ils
-ne peuvent pas se permettre de manquer cela».
-294 La voix dit encore: «Un jour, Il viendra et alors… Ici, nous ne mangeons ni ne buvons ni ne
-dormons; nous sommes simplement tous un».
-295 Eh bien, ce n’est pas seulement parfait; c’est au-delà du parfait. Ce n’est pas seulement
-sublime; c’est au-delà du sublime. Il n’y a aucun nom auquel nous puissions penser, il n’y a aucun
-mot de notre vocabulaire pour le dire. Vous êtes simplement arrivé, c’est tout. Alors je me dis: «Eh
-bien, ce sera parfait, alors qu’allons-nous faire ensuite?».
-296 La voix dit: «Ensuite, quand Jésus viendra, Il te jugera pour ton ministère. Ensuite nous
-revenons sur terre et prenons un corps». (Eh bien, je n’avais encore jamais pensé à cela, mais
-c’est exactement ce que dit l’Ecriture). Elle me dit: «Ensuite nous revenons sur terre et prenons un
-corps. Puis nous mangeons. Ici nous ne mangeons ni ne dormons, mais là-bas nous mangerons.
-Mais nous retournerons sur la terre».
-297 Je pensai: «Oh, n’est-ce pas merveilleux?». Oh, mes frères! Et moi qui avais peur de cela!
-Pourquoi avoir peur de mourir si c’est pour en arriver là? C’est la perfection plus la perfection plus
-la perfection! Oh que c’est merveilleux! Vous voyez, nous étions juste sous l’autel. C’était cela.
-Nous étions juste sous l’autel, attendant Sa venue, quand Il pourrait venir prendre pour les
-ressusciter ceux qui étaient endormis, ceux donc le corps était endormi dans la poussière. Quand
-Il viendra Il nous ressuscitera de la même manière que Jésus quand Il a traversé le Paradis et a
-enlevé Abraham, Isaac et tous les autres, vous savez, qui s’attendaient à la première résurrection.
-Ils entrèrent dans la ville et apparurent à beaucoup. C’est parfaitement scripturaire. Il y avait là une
-vision, ou quoi que ce soit, et c’était parfaitement scripturaire.
-298 Je me dis: «Eh bien, n’est-ce pas merveilleux?». Tandis que je pensais à cela, j’entendis
-comme un hennissement de cheval. Je regardai: c’était le petit Prince, mon petit cheval de selle
-que j’avais l’habitude de monter (je l’appréciais tellement). Et le voilà à côté de moi, appuyant sa
-tête sur mon épaule comme il le faisait quand je lui donnais un morceau de sucre, vous savez. Je
-passai le bras autour de son cou et lui dis: «Prince, je savais bien que tu serais là!».
+292 Je dis: «Eh bien, si son groupe entre, alors le mien entrera aussi, parce que j’ai prêché exactement la même Parole». Je dis encore: «Quand il baptisa au Nom de Jésus je le fis aussi. J’ai prêché…». Et il y en avait des millions qui criaient tous ensemble: «C’est là-dessus que nous nous reposons!».
+
+293 Je pensai: «Oh, si seulement j’avais su cela avant de venir, j’aurais fait venir les gens ici. Ils ne peuvent pas se permettre de manquer cela».
+
+294 La voix dit encore: «Un jour, Il viendra et alors… Ici, nous ne mangeons ni ne buvons ni ne dormons; nous sommes simplement tous un».
+
+295 Eh bien, ce n’est pas seulement parfait; c’est au-delà du parfait. Ce n’est pas seulement sublime; c’est au-delà du sublime. Il n’y a aucun nom auquel nous puissions penser, il n’y a aucun mot de notre vocabulaire pour le dire. Vous êtes simplement arrivé, c’est tout. Alors je me dis: «Eh bien, ce sera parfait, alors qu’allons-nous faire ensuite?».
+
+296 La voix dit: «Ensuite, quand Jésus viendra, Il te jugera pour ton ministère. Ensuite nous revenons sur terre et prenons un corps». (Eh bien, je n’avais encore jamais pensé à cela, mais c’est exactement ce que dit l’Ecriture). Elle me dit: «Ensuite nous revenons sur terre et prenons un corps. Puis nous mangeons. Ici nous ne mangeons ni ne dormons, mais là-bas nous mangerons. Mais nous retournerons sur la terre».
+
+297 Je pensai: «Oh, n’est-ce pas merveilleux?». Oh, mes frères! Et moi qui avais peur de cela! Pourquoi avoir peur de mourir si c’est pour en arriver là? C’est la perfection plus la perfection plus la perfection! Oh que c’est merveilleux! Vous voyez, nous étions juste sous l’autel. C’était cela. Nous étions juste sous l’autel, attendant Sa venue, quand Il pourrait venir prendre pour les ressusciter ceux qui étaient endormis, ceux donc le corps était endormi dans la poussière. Quand Il viendra Il nous ressuscitera de la même manière que Jésus quand Il a traversé le Paradis et a enlevé Abraham, Isaac et tous les autres, vous savez, qui s’attendaient à la première résurrection. Ils entrèrent dans la ville et apparurent à beaucoup. C’est parfaitement scripturaire. Il y avait là une vision, ou quoi que ce soit, et c’était parfaitement scripturaire.
+
+298 Je me dis: «Eh bien, n’est-ce pas merveilleux?». Tandis que je pensais à cela, j’entendis comme un hennissement de cheval. Je regardai: c’était le petit Prince, mon petit cheval de selle que j’avais l’habitude de monter (je l’appréciais tellement). Et le voilà à côté de moi, appuyant sa tête sur mon épaule comme il le faisait quand je lui donnais un morceau de sucre, vous savez. Je passai le bras autour de son cou et lui dis: «Prince, je savais bien que tu serais là!».
 
         http://www.cmpp.ch
 
 REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 28
-299 Je sentis quelque chose me lécher la main. C’était mon vieux chien de chasse. Lorsque M.
-Short l’empoisonna, je jurai de le tuer pour cela. J’avais environ seize ans en ce temps-là. Il l’avait
-empoisonné. Mon père m’avait attrapé alors que j’avais pris mon fusil pour aller tuer cet homme,
-juste dans le bureau de police. Je lui dis: «Je vais le tuer». J’allai vers la tombe de mon chien et je
-dis: «Fritz, tu as été pour moi un vrai compagnon. Tu m’as protégé, tu m’as accompagné à l’école;
-et quand tu serais devenu vieux j’aurais pris soin de toi; mais maintenant ils t’ont tué! Fritz, je te
-promets que cet homme ne vivra pas! Je te promets qu’il ne vivra pas. Je le surprendrai un jour
-qu’il marchera dans la rue et alors je lui tomberai dessus. C’est pour toi que je le ferai».
-300 Mais savez-vous ce qui est arrivé? J’ai conduit cet homme à Christ, je l’ai baptisé au Nom de
-Jésus et c’est moi qui l’ai enseveli quand il est mort. En effet je m’étais moi-même converti
-quelques années après cela; et je voyais alors les choses différemment: j’aimais cet homme au
-lieu de le haïr.
-301 Et voilà Fritz qui se tenait là, me léchant la main. Je regardai. Je ne pouvais pas pleurer.
-Personne ne pouvait pleurer. Tout était joie. Vous ne pouviez être triste parce que tout était
-bonheur. Vous ne pouviez mourir parce que tout était Vie. Vous ne pouviez vieillir parce que tout
-était jeunesse. Tout était simplement parfait. Je pensai: «N’est-ce pas merveilleux?». Et ces
-millions… Oh, mes frères! j’étais vraiment à la maison, vous voyez.
-302 A ce moment, j’entendis une voix qui disait: «TOUT ce que tu as jamais aimé (c’est la
-récompense pour mon service, mais je n’ai pas besoin de récompense), et tous ceux qui t’ont
-jamais aimé, Dieu te les a donnés!».
-303 Je dis: «Loué soit le Seigneur!». Je me sentais tout drôle. Je pensais: «Que se passe-t-il? Je
-me sens tout drôle». Je me tournai et regardai, et voici que là-bas sur mon lit, mon corps remuait.
-Je me dis: «Oh, il ne faut sûrement pas que je retourne là-bas! Ne me laisse pas retourner là-bas!
-Ne me laisse pas!». Mais l’Evangile devait être prêché. En une seconde j’étais de nouveau sur
-mon lit, vous voyez, comme cela.
-304 Vous avez pu lire le récit de cette vision il y a environ deux mois dans “Voice”, le journal des
-Hommes d’Affaires Chrétiens. Cette histoire a fait le tour du monde. Et frère Norman (je crois qu’il
-est quelque part ici ce soir) l’a transcrite et en a fait un traité qui est allé partout. Beaucoup de
-pasteurs m’ont écrit à ce sujet; il y en a eu des centaines. Un de ces hommes dit: «Frère Branham,
-cette vision décrite dans le Voice des Hommes d’Affaires Chrétiens…». Et Tommy Nickel est un
-homme pour qui j’ai beaucoup d’estime. Il m’a écrit, bien qu’il ne fasse plus partie des Hommes
-d’Affaires Chrétiens (je ne sais pas pourquoi, mais il n’en fait plus partie). Il n’hésita pas à écrire
-dans ce journal trinitaire: «Vu que Paul baptisait au Nom de Jésus et ordonnait aux gens de faire
-de même, moi aussi j’ai fait de même». Il l’écrivit sans détours.
-305 Je pensai: «Eh bien alors!». Dans sa lettre, ce pasteur disait: «Frère Branham, votre
-vision…». Bien sûr, cela pouvait avoir été une vision. Je n’aime pas beaucoup parler d’une
-translation. Si j’avais été emporté jusqu’au premier ciel, et que j’aie vu toutes ces choses, alors
-qu’est-ce que Paul a dû voir en montant jusqu’au troisième ciel! Il dit qu’il ne lui fut même pas
-possible d’en parler, vous voyez, quand il fut enlevé là-haut; Si j’ai été ravi en esprit, je ne le sais
-pas, je ne saurais le dire. Je ne pourrais pas vous le dire.
-306 Mais ce pasteur dit: «Frère Branham, votre vision m’a semblé tout à fait conforme aux
-Ecritures, et ceci jusqu’au moment où vous m’avez parlé d’un cheval qui se trouverait là». Il dit:
-«Un cheval au Ciel?». Vous voyez, la pensée de la sagesse humaine ecclésiastique. Il dit: «Le
-Ciel a été fait pour les êtres humains, et non pas pour les chevaux».
-307 J’étais assis ici. Billy, mon fils qui est ici avait posé la lettre ici même dans l’ancien bureau de
-l’église il y a trois ou quatre mois. Je répondis: «Mon cher frère, je suis surpris de votre sagesse et
-de votre connaissance des Ecritures. Mais je n’ai jamais dit que j’étais allé au Ciel. J’ai dit que
-c’était un endroit semblable au Paradis, parce que Christ était encore plus haut. Mais si cela peut
-vous satisfaire, lisez Apocalypse 19 où Jésus sort des Cieux des cieux montant un cheval blanc, et
-tous les saints sont avec Lui sur des chevaux blancs». C’est vrai! Absolument! Absolument! Et là-
-haut dans ce même lieu il y en avait un qui avait l’apparence d’un aigle, et un autre semblable à un
-veau…
-308 Oh, mes frères! d’où venaient donc ces chevaux qui emportèrent Elie? C’est simplement pour
-vous montrer que la pensée humaine a toujours besoin d’avoir quelque chose à quoi redire. C’est
+299 Je sentis quelque chose me lécher la main. C’était mon vieux chien de chasse. Lorsque M. Short l’empoisonna, je jurai de le tuer pour cela. J’avais environ seize ans en ce temps-là. Il l’avait empoisonné. Mon père m’avait attrapé alors que j’avais pris mon fusil pour aller tuer cet homme, juste dans le bureau de police. Je lui dis: «Je vais le tuer». J’allai vers la tombe de mon chien et je dis: «Fritz, tu as été pour moi un vrai compagnon. Tu m’as protégé, tu m’as accompagné à l’école; et quand tu serais devenu vieux j’aurais pris soin de toi; mais maintenant ils t’ont tué! Fritz, je te promets que cet homme ne vivra pas! Je te promets qu’il ne vivra pas. Je le surprendrai un jour qu’il marchera dans la rue et alors je lui tomberai dessus. C’est pour toi que je le ferai».
+
+300 Mais savez-vous ce qui est arrivé? J’ai conduit cet homme à Christ, je l’ai baptisé au Nom de Jésus et c’est moi qui l’ai enseveli quand il est mort. En effet je m’étais moi-même converti quelques années après cela; et je voyais alors les choses différemment: j’aimais cet homme au lieu de le haïr.
+
+301 Et voilà Fritz qui se tenait là, me léchant la main. Je regardai. Je ne pouvais pas pleurer. Personne ne pouvait pleurer. Tout était joie. Vous ne pouviez être triste parce que tout était bonheur. Vous ne pouviez mourir parce que tout était Vie. Vous ne pouviez vieillir parce que tout était jeunesse. Tout était simplement parfait. Je pensai: «N’est-ce pas merveilleux?». Et ces millions… Oh, mes frères! j’étais vraiment à la maison, vous voyez.
+
+302 A ce moment, j’entendis une voix qui disait: «TOUT ce que tu as jamais aimé (c’est la récompense pour mon service, mais je n’ai pas besoin de récompense), et tous ceux qui t’ont jamais aimé, Dieu te les a donnés!».
+
+303 Je dis: «Loué soit le Seigneur!». Je me sentais tout drôle. Je pensais: «Que se passe-t-il? Je me sens tout drôle». Je me tournai et regardai, et voici que là-bas sur mon lit, mon corps remuait. Je me dis: «Oh, il ne faut sûrement pas que je retourne là-bas! Ne me laisse pas retourner là-bas! Ne me laisse pas!». Mais l’Evangile devait être prêché. En une seconde j’étais de nouveau sur mon lit, vous voyez, comme cela.
+
+304 Vous avez pu lire le récit de cette vision il y a environ deux mois dans “Voice”, le journal des Hommes d’Affaires Chrétiens. Cette histoire a fait le tour du monde. Et frère Norman (je crois qu’il est quelque part ici ce soir) l’a transcrite et en a fait un traité qui est allé partout. Beaucoup de pasteurs m’ont écrit à ce sujet; il y en a eu des centaines. Un de ces hommes dit: «Frère Branham, cette vision décrite dans le Voice des Hommes d’Affaires Chrétiens…». Et Tommy Nickel est un homme pour qui j’ai beaucoup d’estime. Il m’a écrit, bien qu’il ne fasse plus partie des Hommes d’Affaires Chrétiens (je ne sais pas pourquoi, mais il n’en fait plus partie). Il n’hésita pas à écrire dans ce journal trinitaire: «Vu que Paul baptisait au Nom de Jésus et ordonnait aux gens de faire de même, moi aussi j’ai fait de même». Il l’écrivit sans détours.
+
+305 Je pensai: «Eh bien alors!». Dans sa lettre, ce pasteur disait: «Frère Branham, votre vision…». Bien sûr, cela pouvait avoir été une vision. Je n’aime pas beaucoup parler d’une translation. Si j’avais été emporté jusqu’au premier ciel, et que j’aie vu toutes ces choses, alors qu’est-ce que Paul a dû voir en montant jusqu’au troisième ciel! Il dit qu’il ne lui fut même pas possible d’en parler, vous voyez, quand il fut enlevé là-haut; Si j’ai été ravi en esprit, je ne le sais pas, je ne saurais le dire. Je ne pourrais pas vous le dire.
+
+306 Mais ce pasteur dit: «Frère Branham, votre vision m’a semblé tout à fait conforme aux Ecritures, et ceci jusqu’au moment où vous m’avez parlé d’un cheval qui se trouverait là». Il dit: «Un cheval au Ciel?». Vous voyez, la pensée de la sagesse humaine ecclésiastique. Il dit: «Le Ciel a été fait pour les êtres humains, et non pas pour les chevaux».
+
+307 J’étais assis ici. Billy, mon fils qui est ici avait posé la lettre ici même dans l’ancien bureau de l’église il y a trois ou quatre mois. Je répondis: «Mon cher frère, je suis surpris de votre sagesse et de votre connaissance des Ecritures. Mais je n’ai jamais dit que j’étais allé au Ciel. J’ai dit que c’était un endroit semblable au Paradis, parce que Christ était encore plus haut. Mais si cela peut vous satisfaire, lisez Apocalypse 19 où Jésus sort des Cieux des cieux montant un cheval blanc, et tous les saints sont avec Lui sur des chevaux blancs». C’est vrai! Absolument! Absolument! Et là-haut dans ce même lieu il y en avait un qui avait l’apparence d’un aigle, et un autre semblable à un veau…
+
+308 Oh, mes frères! d’où venaient donc ces chevaux qui emportèrent Elie? C’est simplement pour vous montrer que la pensée humaine a toujours besoin d’avoir quelque chose à quoi redire. C’est
 
         http://www.cmpp.ch
 
@@ -1558,7 +951,7 @@ REVELATION DES SEPT SCEAUX / LE CINQUIEME SCEAU 29
 vrai.
 309 Remarquez maintenant ce bien-aimé et pieux Jean (je pensais que ce serait le bon moment
 pour introduire cela juste avant de terminer). Si Jean put voir ses frères là-haut, ses frères qui
-devaient encore souffrir un peu, eh bien, à moi, le Seigneur Dieu m’a permis de voir mes frères et
+devraient encore souffrir un peu, eh bien, à moi, le Seigneur Dieu m’a permis de voir mes frères et
 les saints qui attendent la venue du Seigneur.
 310 Vous remarquerez qu’ils n’étaient pas sous l’autel du sacrifice. Les miens n’y étaient pas;
 mais ceux-là y étaient. C’étaient des martyrs, vous voyez. Les miens n’étaient pas sous l’autel des
@@ -1587,7 +980,7 @@ qu’il n’y a pas d’autel du sacrifice dans le Ciel, mais qu’il croit que 
 dans le Ciel est celui des parfums. Mais à vous, chers frères, je dis ceci, non pour contredire mon
 frère que j’espère revoir de l’autre côté, non pas pour contredire ce grand enseignant, mais
 simplement pour vous montrer la contradiction. Ce qu’il dit contredit l’ouverture de ce Sceau en ce
-dernier jour. Ce Sceau annule totalement cette doctrine des âmes qui dorment. Ces âmes sont
+derrier jour. Ce Sceau annule totalement cette doctrine des âmes qui dorment. Ces âmes sont
 vivantes. Elles ne sont pas mortes!
 315 Remarquez ceci maintenant. S’il n’y avait pas d’autel du sacrifice dans le Ciel, où serait
 déposé l’Agneau, le sacrifice pour le péché? Il doit y avoir un endroit où est déposé l’Agneau
@@ -1626,7 +1019,7 @@ recevoir le corps spirituel. Ce corps mortel revêt l’immortalité. Le terrest
 comprenez? Il y a un corps naturel qui est pécheur; mais il y a un autre corps vers lequel nous
 allons et qui est semblable au premier dans sa constitution. Et je suis si reconnaissant à Dieu de
 pouvoir vous dire, moi, votre pasteur et votre frère, que j’ai vu ces gens dans ce corps et que je les
-ai touchés de mes mains! Cela est vrai.
+ais touchés de mes mains! Cela est vrai.
 322 Maintenant observez ceci. Voyez Moïse. Elie, après que Moïse soit mort et qu’il ait été
 emporté au Ciel, se tint sur la montagne de la Transfiguration avec son sens du parler, de l’ouïe,
 avec sa compréhension, et parla à Jésus avant la crucifixion. Alors quel genre de corps avait-il?
@@ -1749,9 +1142,6 @@ L’aime:
        Parce qu’Il m’aima le premier
        Et acquit mon salut
        Sur le bois du Calvaire.
-
-
-
 
 
 

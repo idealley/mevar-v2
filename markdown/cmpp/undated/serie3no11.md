@@ -1,13 +1,58 @@
-    SERIE 3 N° 11
+---
+source: "cmpp"
+sermon_id: "serie3no11"
+title: "CELUI QUI EST EN VOUS"
+subtitle: "10 novembre 1963, soir"
+date: "1963-11-10"
+year: 1963
+location: "Jeffersonville, Indiana, U.S.A."
+preacher: "William Marrion Branham"
+summary: "William Branham prêche sur la puissance de Celui qui est en nous, plus grand que celui qui est dans le monde. Il partage des témoignages de guérison, des expériences personnelles et des réflexions sur les derniers temps, exhortant les croyants à rester fidèles à la Parole et à avoir foi en Dieu."
+tags:
+  - "foi"
+  - "guérison"
+  - "derniers temps"
+  - "Parole de Dieu"
+  - "Saint-Esprit"
+persons:
+  - "Jésus"
+  - "David Du Plessis"
+  - "Billy Graham"
+  - "frère Dauch"
+  - "frère Roy Roberson"
+  - "frère Blair"
+places:
+  - "Jeffersonville"
+  - "Indiana"
+  - "Arizona"
+  - "Colorado"
+  - "New York"
+themes:
+  - "puissance de Dieu"
+  - "foi et prière"
+  - "discernement spirituel"
+  - "séparation du monde"
+  - "enlèvement de l'Église"
+pdf_url: "http://cmpp.ch/serie3no11.pdf"
+llm_cleaned: true
+bible_refs:
+  - "1 Jean 4"
+  - "Hébreux 13"
+  - "Jean 14"
+  - "Josué 166"
+  - "Marc 11"
+  - "Matthieu 28"
+  - "Psaumes 34"
+  - "Romains 9"
+  - "Ésaïe 14"
+---
+SERIE 3 N° 11
 
+LA PAROLE PARLEE
 
-    LA PAROLE PARLEE
+PAR
 
-    PAR
-
-    WILLIAM MARRION BRANHAM
-
-
+WILLIAM MARRION BRANHAM
 
 
 
@@ -16,12 +61,9 @@ CELUI QUI EST EN VOUS
 
 
 
-
      10 novembre 1963, soir
        Branham Tabernacle
 Jeffersonville — Indiana, U.S.A.
-
-
 
 
 
@@ -41,1042 +83,262 @@ Jeffersonville — Indiana, U.S.A.
 
 
      Merci. Que le Seigneur vous bénisse.
-1 Restons debout un moment tandis que nous prions. Inclinons nos têtes et que tous ceux qui
-désirent qu’on se souvienne d’eux dans cette prière lèvent la main et disent: «Seigneur, me voici».
-2 O Dieu très saint, Dieu plein de grâce, nous plaçons ces personnes devant Toi avec leurs
-requêtes. Elles T’ont demandé que l’on se souvienne d’elles et, Seigneur, je lève la main moi
-aussi. Je Te prie d’être miséricordieux envers nous. Tu connais nos besoins et nous voulons Te
-prier comme Tu nous l’as enseigné: “Que ton règne vienne; que ta volonté soit faite sur la terre
-comme au ciel”. Père, ce soir nous Te demandons grâce et liberté d’esprit afin de pouvoir apporter
-à ce peuple la vérité de l’Evangile et ce que nous croyons être le message de cette heure pour
-Ton Eglise; Seigneur, nous Te prions afin que nous soyons une portion de cette Eglise qui doit
-être appelée le dernier jour. Et Père, si nous ne sommes pas cette portion, révèle-nous ce que
-nous devons faire pour en être une et donne-nous grâce et pouvoir en cette heure difficile qui est
-sur la terre pour éprouver tous ceux qui y demeurent. Donne-nous de Ton Saint-Esprit pour nous
-conduire et nous guider afin que nous puissions à la fin venir à Toi dans la paix pour cette Vie
-éternelle à laquelle tous les croyants aspirent depuis le commencement des temps. Aide-nous,
-Seigneur, nous le demandons au Nom de Jésus. Amen. Vous pouvez vous asseoir.
-3 Je suis vraiment reconnaissant du privilège d’être ici ce soir à cause de la grâce de Dieu qui
-nous a été donnée par l’intermédiaire de Jésus.
-4 En ce qui concerne le message de ce matin [les âmes qui sont en prison maintenant —
-N.d.T.] je voudrais que chacun comprenne parfaitement. Je fais confiance à Dieu que nous ne
-sommes pas encore en ce temps-là. Mais le message est vrai. Le message est vrai. Même si
-le temps n’est pas encore là, il arrivera. Et cela a tellement l’air d’être ce temps-là que je me
-suis senti comme Paul qui a dit jadis: “Car je n’ai mis aucune réserve à vous annoncer tout le
-conseil de Dieu”. Vous voyez, tout ce qui devait être accompli.
-5 Ce matin j’ai fait quelque chose: je regrette d’avoir dit ce que j’ai dit. J’ai nommé un frère que
-je crois être dans l’erreur. Je n’aurais pas dû le faire. Je ne donne jamais le nom des personnes. Si
-l’enregistrement tombe entre ses mains, je voudrais le voir et lui parler car je considère ce frère
-comme un homme de bien, comme un brave homme; il a prêché ici dans cette chaire, c’est le frère
-David Du Plessis. Je n’avais pas l’intention de prononcer son nom. J’étais préoccupé par le
-message, me demandant: «Et si le moment était venu?». Et j’ai nommé ce frère. Ce n’est pas
-dans mes habitudes. Je regrette de l’avoir fait. J’aime le frère David Du Plessis. Il est notre frère.
-Et je pense vraiment qu’un homme intelligent comme lui devrait être mieux instruit dans l’Ecriture.
-6 Je vais vous dire de quoi il s’agit. Il s’agit d’une conversation que nous avons eue, David et
-moi, un jour qu’il parla pour moi à une réunion. Il prêcha du haut de cette chaire même, dans
-l’ancienne salle. Et son frère Justus fut mon interprète en Afrique du Sud où je vais retourner. Ils
-viennent d’une excellente famille pentecôtiste, c’est quelqu’un de très bien. Je crois que David fut
-un certain temps président des Assemblées Mondiales de Pentecôte et dirigea la Conférence
-Mondiale de Pentecôte. Il était l’un des présidents. Plus tard il vint aux Etats-Unis et s’établit au
-Texas où il travailla avec frère Gordon Lindsay. Là il commença à prêcher à différents endroits.
-7 Mais ce qui s’est passé, là où je pense que notre estimé frère a commis une erreur (cela
-aurait pu m’arriver à moi aussi comme à n’importe qui) c’est quand il a commencé à traiter avec
-les grands personnages. Il parlait tout le temps de l’université de Princeton et de ces gens qui
-l’invitaient; il pensait faire ainsi ce qui est juste alors qu’il ne faisait que donner de la nourriture à
-
-        http://www.cmpp.ch
-
-CELUI QUI EST EN VOUS 3
-ces grandes machines. Vous voyez? Et il s’en réjouissait tellement! Et il n’est pas le seul! Il y a
-aussi les hommes d’affaires du Plein Evangile qui soutiennent mes réunions dans le monde entier.
-J’aime ces hommes mais je ne suis absolument pas d’accord avec eux parce qu’ils ont abandonné
-les principes sur la base desquels ils avaient commencé et sont en train de devenir en tous points
-semblables à n’importe quelle autre organisation. Ils ne cherchent pas à rester Pentecôtistes, mais
-essaient de mélanger la Pentecôte avec le reste.
-8 Il me semblait qu’un brave homme et quelqu’un de bien comme le frère Du Plessis aurait dû
-connaître suffisamment les Ecritures pour savoir que lorsque les vierges folles vont chercher de
-l’huile, l’heure est passée. Vous comprenez? Rappelez-vous que quand elles vinrent acheter de
-l’huile il n’y en avait plus. C’est ce que dit l’Ecriture. Et elles dirent à l’Eglise: “Donnez-nous de
-votre huile”, mais ne la reçurent pas. Elles avaient beau faire des sauts, parler en langues et tout
-le reste, mais selon la propre Parole de Dieu, elles ne l’ont pas reçue. Vous voyez? Elles sont
-restées dans les ténèbres du dehors où il y a des pleurs, des gémissements et des grincements
-de dents, alors que l’Epouse élue est déjà entrée. Les vierges sages avaient de l’huile dans leurs
-lampes.
-9 Je connais un autre homme que j’ai rencontré l’autre jour. Ce qui se passe avec ces gens
-bien, c’est qu’ils en arrivent à exercer une certaine emprise sur les gens, si vous comprenez
-ce que je veux dire. Et tout de suite ils ont le sentiment que cela vient de Dieu, alors que si
-souvent c’est le diable qui fait cela! Vous comprenez?
-10 Jésus avait eu la possibilité d’aller devant Hérode. Il en avait eu la possibilité avant beaucoup
-d’autres et c’est pour cela qu’ils voulaient Le montrer en spectacle. C’est ce qu’ils essaient tous de
-faire avec la Pentecôte. Le mouvement de Pentecôte est sorti de toutes ces choses pour être
-différent, mais comme la truie lavée retourne à son bourbier et le chien à ce qu’il a vomi, il est
-revenu en arrière et est maintenant dans le Conseil Oecuménique. Vous voyez? C’est consternant,
-c’est une honte!
-11 Oh mon Dieu, garde-moi petit et humble afin qu’Il puisse révéler Sa vérité! Vous voyez, je n’ai
-jamais voulu faire cela. Je n’ai jamais cherché à briller et avoir de l’éclat dans le monde, mais
-plutôt à me mettre en route avec ce petit groupe des méprisés qui appartiennent au Seigneur et à
-rester avec la Parole!
-12 Parlons maintenant de l’union du Conseil Oecuménique avec le Vatican. Croyez-vous qu’ils
-puissent s’unir sur la base de la Parole? Ils peuvent le faire dans l’organisation mais ils ne
-peuvent pas le faire dans la Parole. C’est vrai. Il n’y a pas de compromis possible, vous voyez.
-ce sont toutes deux des organisations qui suivent la même ligne: l’une est la mère, l’autre la fille.
-Pour ce qui concerne cette Parole je suis aussi fermement opposé aux dénominations
-Méthodistes, Baptistes et Presbytériennes qu’au Catholicisme, car elles sont mère et filles selon
-ce que dit cette Parole. C’est sur cette Parole que je me tiens, vous voyez, sur chaque mot de
-cette Parole.
-13 Ce cher frère et sa femme sont de bons amis à moi. Beaucoup d’entre vous ont vu le journal
-illustré. Comment ce cher frère a-t-il pu laisser sa femme se coiffer ainsi? Quelqu’un lui a dit
-qu’elle ressemblait à Jacqueline Kennedy; en effet, elle s’est fait une de ces grandes coiffures
-bouffantes. Qu’est-ce que cela signifie? Elle s’associe tout le temps à cette sorte de gens, et
-finalement… Si un homme prend une mauvaise femme, ou elle deviendra une brave femme ou
-c’est lui qui deviendra mauvais. Dis-moi qui tu fréquentes et je te dirai qui tu es. Qui se ressemble
-s’assemble. Restez éloigné de ce qui brille!
-14 L’autre jour je suis descendu dans une mine là-bas dans les montagnes de l’Arizona près de
-la frontière du Mexique. J’étais avec le frère Sothmann qui est assis ici. J’ai déterré quelque chose
-qui avait exactement l’apparence de l’or, et la seule chose qui vous permette de dire que ce n’est
-pas de l’or, c’est que cela brille davantage que l’or. Cela brille et l’or ne brille pas: il luit, vous
-comprenez. On appelle cela “l’or des fous”. Cela ne vaut même pas la pierre dans laquelle elle se
-trouve: c’est de la pyrite de fer. Les savants déclarent que l’eau, les acides et tout le reste n’ont
-jamais pu en faire de l’or. Cela brille plus que l’or mais n’en a pas la composition chimique. Et c’est
-exactement ainsi qu’est une grande partie de cette chrétienté qui fait semblant. Cela brille et
-ressemble à Hollywood. Mais l’Eglise, elle, luit par l’Evangile. Vous voyez?
-15 Une soeur d’ici a eu la gentillesse de faire un agrandissement de la photo des sept anges qui
-se trouve dans le magazine Life et de me l’envoyer. Billy vient de me la montrer. Voici cette photo.
-
-        http://www.cmpp.ch
-
-CELUI QUI EST EN VOUS 4
-Vous remarquerez que ce nuage, tandis qu’il s’en allait en remontant après que les anges eurent
-délivré leur message, avait la forme d’une pyramide, exactement comme je vous avais dit qu’il
-serait trois mois avant son apparition, n’est-ce pas? Et l’ange éminent dont les ailes étaient sur le
-côté vers l’arrière, vous vous en souvenez bien. J’avais dit: «Sa tête était tournée vers mot et il
-venait me parler». Ne voyez-vous même pas ses ailes là? Et là il y a l’ange. Exactement comme
-cela avait été prédit.
+1 Restons debout un moment tandis que nous prions. Inclinons nos têtes et que tous ceux qui désirent qu’on se souvienne d’eux dans cette prière lèvent la main et disent: «Seigneur, me voici».
+2 O Dieu très saint, Dieu plein de grâce, nous plaçons ces personnes devant Toi avec leurs requêtes. Elles T’ont demandé que l’on se souvienne d’elles et, Seigneur, je lève la main moi aussi. Je Te prie d’être miséricordieux envers nous. Tu connais nos besoins et nous voulons Te prier comme Tu nous l’as enseigné: “Que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel”. Père, ce soir nous Te demandons grâce et liberté d’esprit afin de pouvoir apporter à ce peuple la vérité de l’Evangile et ce que nous croyons être le message de cette heure pour Ton Eglise; Seigneur, nous Te prions afin que nous soyons une portion de cette Eglise qui doit être appelée le dernier jour. Et Père, si nous ne sommes pas cette portion, révèle-nous ce que nous devons faire pour en être une et donne-nous grâce et pouvoir en cette heure difficile qui est sur la terre pour éprouver tous ceux qui y demeurent. Donne-nous de Ton Saint-Esprit pour nous conduire et nous guider afin que nous puissions à la fin venir à Toi dans la paix pour cette Vie éternelle à laquelle tous les croyants aspirent depuis le commencement des temps. Aide-nous, Seigneur, nous le demandons au Nom de Jésus. Amen. Vous pouvez vous asseoir.
+3 Je suis vraiment reconnaissant du privilège d’être ici ce soir à cause de la grâce de Dieu qui nous a été donnée par l’intermédiaire de Jésus.
+4 En ce qui concerne le message de ce matin [les âmes qui sont en prison maintenant — N.d.T.] je voudrais que chacun comprenne parfaitement. Je fais confiance à Dieu que nous ne sommes pas encore en ce temps-là. Mais le message est vrai. Le message est vrai. Même si le temps n’est pas encore là, il arrivera. Et cela a tellement l’air d’être ce temps-là que je me suis senti comme Paul qui a dit jadis: “Car je n’ai mis aucune réserve à vous annoncer tout le conseil de Dieu”. Vous voyez, tout ce qui devait être accompli.
+5 Ce matin j’ai fait quelque chose: je regrette d’avoir dit ce que j’ai dit. J’ai nommé un frère que je crois être dans l’erreur. Je n’aurais pas dû le faire. Je ne donne jamais le nom des personnes. Si l’enregistrement tombe entre ses mains, je voudrais le voir et lui parler car je considère ce frère comme un homme de bien, comme un brave homme; il a prêché ici dans cette chaire, c’est le frère David Du Plessis. Je n’avais pas l’intention de prononcer son nom. J’étais préoccupé par le message, me demandant: «Et si le moment était venu?». Et j’ai nommé ce frère. Ce n’est pas dans mes habitudes. Je regrette de l’avoir fait. J’aime le frère David Du Plessis. Il est notre frère. Et je pense vraiment qu’un homme intelligent comme lui devrait être mieux instruit dans l’Ecriture.
+6 Je vais vous dire de quoi il s’agit. Il s’agit d’une conversation que nous avons eue, David et moi, un jour qu’il parla pour moi à une réunion. Il prêcha du haut de cette chaire même, dans l’ancienne salle. Et son frère Justus fut mon interprète en Afrique du Sud où je vais retourner. Ils viennent d’une excellente famille pentecôtiste, c’est quelqu’un de très bien. Je crois que David fut un certain temps président des Assemblées Mondiales de Pentecôte et dirigea la Conférence Mondiale de Pentecôte. Il était l’un des présidents. Plus tard il vint aux Etats-Unis et s’établit au Texas où il travailla avec frère Gordon Lindsay. Là il commença à prêcher à différents endroits.
+7 Mais ce qui s’est passé, là où je pense que notre estimé frère a commis une erreur (cela aurait pu m’arriver à moi aussi comme à n’importe qui) c’est quand il a commencé à traiter avec les grands personnages. Il parlait tout le temps de l’université de Princeton et de ces gens qui l’invitaient; il pensait faire ainsi ce qui est juste alors qu’il ne faisait que donner de la nourriture à ces grandes machines. Vous voyez? Et il s’en réjouissait tellement! Et il n’est pas le seul! Il y a aussi les hommes d’affaires du Plein Evangile qui soutiennent mes réunions dans le monde entier. J’aime ces hommes mais je ne suis absolument pas d’accord avec eux parce qu’ils ont abandonné les principes sur la base desquels ils avaient commencé et sont en train de devenir en tous points semblables à n’importe quelle autre organisation. Ils ne cherchent pas à rester Pentecôtistes, mais essaient de mélanger la Pentecôte avec le reste.
+8 Il me semblait qu’un brave homme et quelqu’un de bien comme le frère Du Plessis aurait dû connaître suffisamment les Ecritures pour savoir que lorsque les vierges folles vont chercher de l’huile, l’heure est passée. Vous comprenez? Rappelez-vous que quand elles vinrent acheter de l’huile il n’y en avait plus. C’est ce que dit l’Ecriture. Et elles dirent à l’Eglise: “Donnez-nous de votre huile”, mais ne la reçurent pas. Elles avaient beau faire des sauts, parler en langues et tout le reste, mais selon la propre Parole de Dieu, elles ne l’ont pas reçue. Vous voyez? Elles sont restées dans les ténèbres du dehors où il y a des pleurs, des gémissements et des grincements de dents, alors que l’Epouse élue est déjà entrée. Les vierges sages avaient de l’huile dans leurs lampes.
+9 Je connais un autre homme que j’ai rencontré l’autre jour. Ce qui se passe avec ces gens bien, c’est qu’ils en arrivent à exercer une certaine emprise sur les gens, si vous comprenez ce que je veux dire. Et tout de suite ils ont le sentiment que cela vient de Dieu, alors que si souvent c’est le diable qui fait cela! Vous comprenez?
+10 Jésus avait eu la possibilité d’aller devant Hérode. Il en avait eu la possibilité avant beaucoup d’autres et c’est pour cela qu’ils voulaient Le montrer en spectacle. C’est ce qu’ils essaient tous de faire avec la Pentecôte. Le mouvement de Pentecôte est sorti de toutes ces choses pour être différent, mais comme la truie lavée retourne à son bourbier et le chien à ce qu’il a vomi, il est revenu en arrière et est maintenant dans le Conseil Oecuménique. Vous voyez? C’est consternant, c’est une honte!
+11 Oh mon Dieu, garde-moi petit et humble afin qu’Il puisse révéler Sa vérité! Vous voyez, je n’ai jamais voulu faire cela. Je n’ai jamais cherché à briller et avoir de l’éclat dans le monde, mais plutôt à me mettre en route avec ce petit groupe des méprisés qui appartiennent au Seigneur et à rester avec la Parole!
+12 Parlons maintenant de l’union du Conseil Oecuménique avec le Vatican. Croyez-vous qu’ils puissent s’unir sur la base de la Parole? Ils peuvent le faire dans l’organisation mais ils ne peuvent pas le faire dans la Parole. C’est vrai. Il n’y a pas de compromis possible, vous voyez. ce sont toutes deux des organisations qui suivent la même ligne: l’une est la mère, l’autre la fille. Pour ce qui concerne cette Parole je suis aussi fermement opposé aux dénominations Méthodistes, Baptistes et Presbytériennes qu’au Catholicisme, car elles sont mère et filles selon ce que dit cette Parole. C’est sur cette Parole que je me tiens, vous voyez, sur chaque mot de cette Parole.
+13 Ce cher frère et sa femme sont de bons amis à moi. Beaucoup d’entre vous ont vu le journal illustré. Comment ce cher frère a-t-il pu laisser sa femme se coiffer ainsi? Quelqu’un lui a dit qu’elle ressemblait à Jacqueline Kennedy; en effet, elle s’est fait une de ces grandes coiffures bouffantes. Qu’est-ce que cela signifie? Elle s’associe tout le temps à cette sorte de gens, et finalement… Si un homme prend une mauvaise femme, ou elle deviendra une brave femme ou c’est lui qui deviendra mauvais. Dis-moi qui tu fréquentes et je te dirai qui tu es. Qui se ressemble s’assemble. Restez éloigné de ce qui brille!
+14 L’autre jour je suis descendu dans une mine là-bas dans les montagnes de l’Arizona près de la frontière du Mexique. J’étais avec le frère Sothmann qui est assis ici. J’ai déterré quelque chose qui avait exactement l’apparence de l’or, et la seule chose qui vous permette de dire que ce n’est pas de l’or, c’est que cela brille davantage que l’or. Cela brille et l’or ne brille pas: il luit, vous comprenez. On appelle cela “l’or des fous”. Cela ne vaut même pas la pierre dans laquelle elle se trouve: c’est de la pyrite de fer. Les savants déclarent que l’eau, les acides et tout le reste n’ont jamais pu en faire de l’or. Cela brille plus que l’or mais n’en a pas la composition chimique. Et c’est exactement ainsi qu’est une grande partie de cette chrétienté qui fait semblant. Cela brille et ressemble à Hollywood. Mais l’Eglise, elle, luit par l’Evangile. Vous voyez?
+15 Une soeur d’ici a eu la gentillesse de faire un agrandissement de la photo des sept anges qui se trouve dans le magazine Life et de me l’envoyer. Billy vient de me la montrer. Voici cette photo. Vous remarquerez que ce nuage, tandis qu’il s’en allait en remontant après que les anges eurent délivré leur message, avait la forme d’une pyramide, exactement comme je vous avais dit qu’il serait trois mois avant son apparition, n’est-ce pas? Et l’ange éminent dont les ailes étaient sur le côté vers l’arrière, vous vous en souvenez bien. J’avais dit: «Sa tête était tournée vers mot et il venait me parler». Ne voyez-vous même pas ses ailes là? Et là il y a l’ange. Exactement comme cela avait été prédit.
 16 Il n’y a que Dieu qui puisse faire cela. Il y a aussi là la photographie d’une femme…
-17 Dans l’exercice du discernement, j’avais dit: «Cette personne est couverte d’un voile de mort,
-c’est un voile sombre».
-18 Il y en a qui disent: «C’est vous qui le dites!». Vous voyez, ceux qui parlent ainsi sont ceux qui
-ne peuvent parcourir tout le chemin: ils ne peuvent pas voir ces choses. Ils peuvent crier avec
-vous, parler avec vous; mais quand il s’agit de croire tout réellement, de toute leur âme et de tout
-leur corps, ils ne peuvent pas le faire. Mais voyez-vous, si c’est Dieu qui est dans cela et qui dit
-la vérité, c’est que nous sommes dans les derniers temps de l’histoire; nous voici à la fin de
-l’histoire du monde. Elle se termine. Un de ces jours il n’y aura plus de temps. Dieu
-confirme toutes choses, à la fois spirituellement et scientifiquement!
+17 Dans l’exercice du discernement, j’avais dit: «Cette personne est couverte d’un voile de mort, c’est un voile sombre».
+18 Il y en a qui disent: «C’est vous qui le dites!». Vous voyez, ceux qui parlent ainsi sont ceux qui ne peuvent parcourir tout le chemin: ils ne peuvent pas voir ces choses. Ils peuvent crier avec vous, parler avec vous; mais quand il s’agit de croire tout réellement, de toute leur âme et de tout leur corps, ils ne peuvent pas le faire. Mais voyez-vous, si c’est Dieu qui est dans cela et qui dit la vérité, c’est que nous sommes dans les derniers temps de l’histoire; nous voici à la fin de l’histoire du monde. Elle se termine. Un de ces jours il n’y aura plus de temps. Dieu confirme toutes choses, à la fois spirituellement et scientifiquement!
 19 Quand j’étais un petit garçon je disais: «Une colonne de feu ressemble à une étoile».
-20 Combien se souviennent-ils de ce temps où on l’appelait une étoile? Quand elle apparut au
-bord de la rivière où le Seigneur dit: «De même que Jean-Baptiste fut envoyé…»?
-21 Pour finir Elle est descendue et on a pu en prendre une photo. Nous l’avions ici quelque part.
-Oui, il paraît qu’elle est là-bas dans le coin, mais je ne peux la voir. Cela prouve scientifiquement
-que c’est la vérité.
-22 J’ai aussi parlé de ces personnes dont j’avais dit qu’elles étaient couvertes d’une ombre. Il y
-avait là une femme qui prit une photographie. Cette photo avait été prise par un appareil ordinaire.
-J’avais dit à la malade (une personne s’en était étonnée): «Vous avez sur vous le voile de la mort.
-C’est le cancer. Il y a une ombre obscure». L’autre femme se retourna et prit une photo. Elle est
-venue ici pour en rendre témoignage et elle est peut-être ici ce soir, pour autant que je le sache. Il
-y avait cette femme couverte comme d’un capuchon noir et nous en avons la preuve scientifique
-que c’est la vérité. Immédiatement après que la femme eût été déclarée bien, on fit une autre
-photo qui révéla qu’il n’y avait plus ce capuchon. Qu’est-ce qui a impressionné le film? Et qu’est-ce
-qui n’était plus sur le film quand la femme fut déclarée guérie? Comprenez-vous cela?
-23 Me tenant ici même, je vous avais dit que les anges allaient venir. Frère Fred (je l’ai vu il y a
-un moment, je pense qu’il était là-bas mais je l’ai perdu de vue. Ah oui, il est là-bas au fond!) se
-tenait à un ou deux miles de moi. Il entendit l’explosion et le bruit des rochers qui tombaient.
-N’est-ce pas, frère Fred? Et voici qu’apparurent ces anges avec leur message. Ils formaient une
-pyramide comme je vous l’avais montré ici même. Je vous avais montré avant de m’en aller
-comment ils se tiendraient. Des quantités de photos ont été prises de cela dans toute la région,
-jusqu’au Mexique. Cette pyramide avait trente miles de haut sur vingt-sept de large et elle était à
-une altitude telle qu’il n’y avait plus d’humidité. L’humidité ne s’élève pas à plus de huit ou neuf
-miles. Cela se passait donc à une altitude où il n’y avait rien pour faire de l’humidité. Vous
-comprenez? Ce nuage avait trente miles de haut sur vingt-sept de large, ou le contraire. Le
-magazine Life en a publié la photo dans son numéro du 17 mai, je crois.
-24 Il y a donc la preuve scientifique que c’est la vérité. Ainsi nous n’avons pas à nous tourmenter
-pour savoir si c’est la vérité. Cela a été prouvé scientifiquement et spirituellement. Et ce qui a été
-dit s’est accompli. C’est pourquoi le message des sept Sceaux, quand il est terminé, est le
-message de la Bible tout entière. Les sept Sceaux terminent le Nouveau Testament et Le
-scellent. C’est vrai. Nous savons que c’est ainsi parce que cela a été annoncé prophétiquement,
-que cela a été démontré par la science et par la Parole. Trois ont rendu témoignage que c’est la
-vérité.
-25 Par conséquent nous savons que nous sommes au temps de la fin. Nous y sommes. Nous y
-sommes mais à quel point nous sommes avancés, je ne le sais pas. Il ne le fera pas savoir car Sa
-venue sera comme celle d’un voleur dans la nuit. Mais mon ami, mon frère, ma soeur, soyons
-prêts de toute façon! Jugeons-nous nous-mêmes simplement. Car le monde continuera tel quel. Ils
-ne sauront même pas que c’est arrivé. Quand les portes de la grâce seront fermées les
-prédicateurs continueront à prêcher le salut, amenant les gens à la repentance comme cela s’est
-
-        http://www.cmpp.ch
-
-CELUI QUI EST EN VOUS 5
-toujours fait. Ce qui s’est fait dans les autres âges se fera aussi dans cet âge-ci. Et l’enlèvement
-sera si soudain et si rapide qu’ils seront partis avant même que le monde ne se soit aperçu
-de leur absence. C’est vrai. Le monde n’en saura rien. Le Seigneur vient et enlève Son Epouse
-sans bruit. Elle sera partie et ils n’en sauront rien. C’est pourquoi restez dans la prière! Priez pour
-moi. Je prie pour vous. Nous ne savons pas quand cette heure sera là, mais nous croyons qu’elle
-sera bientôt là. Restez éloignés de ce qui brille! Restez avec L’Evangile, vous voyez, restez là et
-priez!
-26 Billy m’a remis une note disant que quelqu’un désire présenter un bébé. Est-ce bien cela?
-Veuillez lever la main. Oui! deux bébés. Bien! Apportez-les ici. Notre soeur qui joue du piano
-pourrait-elle venir un moment pour la présentation de ces bébés. Nous ne voulons oublier
-personne.
-27 Rappelez-vous maintenant que demain soir à cette heure-ci, si le Seigneur le permet, je serai
-à New York City. Nous allons là-bas sur le champ de bataille combattre le bon combat de la foi.
+20 Combien se souviennent-ils de ce temps où on l’appelait une étoile? Quand elle apparut au bord de la rivière où le Seigneur dit: «De même que Jean-Baptiste fut envoyé…»?
+21 Pour finir Elle est descendue et on a pu en prendre une photo. Nous l’avions ici quelque part. Oui, il paraît qu’elle est là-bas dans le coin, mais je ne peux la voir. Cela prouve scientifiquement que c’est la vérité.
+22 J’ai aussi parlé de ces personnes dont j’avais dit qu’elles étaient couvertes d’une ombre. Il y avait là une femme qui prit une photographie. Cette photo avait été prise par un appareil ordinaire. J’avais dit à la malade (une personne s’en était étonnée): «Vous avez sur vous le voile de la mort. C’est le cancer. Il y a une ombre obscure». L’autre femme se retourna et prit une photo. Elle est venue ici pour en rendre témoignage et elle est peut-être ici ce soir, pour autant que je le sache. Il y avait cette femme couverte comme d’un capuchon noir et nous en avons la preuve scientifique que c’est la vérité. Immédiatement après que la femme eût été déclarée bien, on fit une autre photo qui révéla qu’il n’y avait plus ce capuchon. Qu’est-ce qui a impressionné le film? Et qu’est-ce qui n’était plus sur le film quand la femme fut déclarée guérie? Comprenez-vous cela?
+23 Me tenant ici même, je vous avais dit que les anges allaient venir. Frère Fred (je l’ai vu il y a un moment, je pense qu’il était là-bas mais je l’ai perdu de vue. Ah oui, il est là-bas au fond!) se tenait à un ou deux miles de moi. Il entendit l’explosion et le bruit des rochers qui tombaient. N’est-ce pas, frère Fred? Et voici qu’apparurent ces anges avec leur message. Ils formaient une pyramide comme je vous l’avais montré ici même. Je vous avais montré avant de m’en aller comment ils se tiendraient. Des quantités de photos ont été prises de cela dans toute la région, jusqu’au Mexique. Cette pyramide avait trente miles de haut sur vingt-sept de large et elle était à une altitude telle qu’il n’y avait plus d’humidité. L’humidité ne s’élève pas à plus de huit ou neuf miles. Cela se passait donc à une altitude où il n’y avait rien pour faire de l’humidité. Vous comprenez? Ce nuage avait trente miles de haut sur vingt-sept de large, ou le contraire. Le magazine Life en a publié la photo dans son numéro du 17 mai, je crois.
+24 Il y a donc la preuve scientifique que c’est la vérité. Ainsi nous n’avons pas à nous tourmenter pour savoir si c’est la vérité. Cela a été prouvé scientifiquement et spirituellement. Et ce qui a été dit s’est accompli. C’est pourquoi le message des sept Sceaux, quand il est terminé, est le message de la Bible tout entière. Les sept Sceaux terminent le Nouveau Testament et Le scellent. C’est vrai. Nous savons que c’est ainsi parce que cela a été annoncé prophétiquement, que cela a été démontré par la science et par la Parole. Trois ont rendu témoignage que c’est la vérité.
+25 Par conséquent nous savons que nous sommes au temps de la fin. Nous y sommes. Nous y sommes mais à quel point nous sommes avancés, je ne le sais pas. Il ne le fera pas savoir car Sa venue sera comme celle d’un voleur dans la nuit. Mais mon ami, mon frère, ma soeur, soyons prêts de toute façon! Jugeons-nous nous-mêmes simplement. Car le monde continuera tel quel. Ils ne sauront même pas que c’est arrivé. Quand les portes de la grâce seront fermées les prédicateurs continueront à prêcher le salut, amenant les gens à la repentance comme cela s’est toujours fait. Ce qui s’est fait dans les autres âges se fera aussi dans cet âge-ci. Et l’enlèvement sera si soudain et si rapide qu’ils seront partis avant même que le monde ne se soit aperçu de leur absence. C’est vrai. Le monde n’en saura rien. Le Seigneur vient et enlève Son Epouse sans bruit. Elle sera partie et ils n’en sauront rien. C’est pourquoi restez dans la prière! Priez pour moi. Je prie pour vous. Nous ne savons pas quand cette heure sera là, mais nous croyons qu’elle sera bientôt là. Restez éloignés de ce qui brille! Restez avec L’Evangile, vous voyez, restez là et priez!
+26 Billy m’a remis une note disant que quelqu’un désire présenter un bébé. Est-ce bien cela? Veuillez lever la main. Oui! deux bébés. Bien! Apportez-les ici. Notre soeur qui joue du piano pourrait-elle venir un moment pour la présentation de ces bébés. Nous ne voulons oublier personne.
+27 Rappelez-vous maintenant que demain soir à cette heure-ci, si le Seigneur le permet, je serai à New York City. Nous allons là-bas sur le champ de bataille combattre le bon combat de la foi.
 28 Venez ici soeur, s’il vous plaît; ici devant. Je tiendrai ces petits. Merci.
-29 Combien prieront pour moi? Si Dieu le permet (ce que j’espère), dimanche prochain, si cela
-convient au frère Neville, en allant vers la Louisiane je m’arrêterai ici pour tenir une réunion dans
-cette église.
-30 Je voudrais vous remercier tous pour votre gentillesse. Il y a une dame qui m’a envoyé une
-boîte de bonbons. J’apprécie cela. Je ne sais pas qui est cette dame, mais quelqu’un m’a envoyé
-une boîte de bonbons et des friandises. C’était vraiment délicieux. Je m’en suis régalé et je vous
-remercie! Vous pensez peut-être que ces petites choses ont peu de signification mais elles en ont
-beaucoup! Ce sont de petits témoignages d’affection. Et ces choses que me donnent tous ces
-gens, je les montre à Billy Paul. Vous ne pouvez pas savoir à quel point j’apprécie cela! Que Dieu
-vous bénisse! Je m’en souviendrai et si c’est ainsi, à combien plus forte raison Dieu s’en
-souvient-Il, Lui aussi! Vous comprenez? “Ce que vous avez fait à l’un de ces petits de mes frères,
-c’est à moi que vous l’avez fait”. Vous voyez? Il y aura miséricorde pour ceux qui auront fait
-miséricorde.
-31 Voici maintenant ces beaux petits bébés. J’aimerais que vous restiez ici, puis après nous
-chanterons: «Faites-les entrer». Bien! Frères, venez ici juste un instant. [Présentation des bébés
-— N.d.R.]
-32 Je L’aime. Pas vous? Il est merveilleux! Je vous ai promis de terminer à huit heures et demie,
-ce qui me donne une demi-heure. Je ne sais pas, peut-être que je ferai un petit peu plus
-longtemps.
-33 Je suis content de voir le frère Dauch ici ce matin. Je ne sais pas où est allé l’autre homme.
-Mais s’il a jamais eu un sosie [personne qui ressemble beaucoup à une autre — N.d.T.] c’était cet
-homme. Je me disais: «Lequel des deux est le frère Dauch?». Je regardais ici et là voulant en
-parler, mais j’étais tellement pris par mon message. Vous savez, frère Dauch, vous n’avez pas du
-tout changé! Je suis très heureux de vous voir en si bonne santé.
-34 Récemment on m’a téléphoné de Tucson pour me demander de prier pour lui car quelque
-chose d’autre lui était arrivé. Je crois que frère Dauch a quatre-vingt-dix ou quatre-vingt-onze ans.
-Notre corps se détruit, mais: “Les maux du juste sont en grand nombre; mais l’Eternel le délivre de
-tous” (Psaumes 34.19). Parfois quand le corps en arrive au point où il ne tient plus en semble, je sais
-qu’il se tient à une Main. Bien que ce corps ne soit qu’une motte de terre, Dieu a promis de le
-ressusciter au dernier jour. J’en suis si reconnaissant!
-35 Je me souviens de frère Dauch quand il descendit dans le bassin pour être baptisé au Nom
-de Jésus-Christ. Il n’avait pas même de vêtement de baptême, mais il voulut y aller malgré tout. Et
-Dieu a manifesté Sa grâce envers cet homme. Pensez donc, il a dépassé de vingt ans le temps
-que Dieu lui avait promis! Vous voyez? Si ce n’est pas la grâce! Et l’autre jour, le voici de nouveau
-étendu par terre avec un arrêt du coeur: il avait encore eu une crise cardiaque! Mais Dieu n’a-t-Il
-pas guéri cet homme et ne l’a-t-Il pas relevé! Je crois que son médecin est mort depuis lors.
-N’est-ce pas vrai? Le médecin était juif et soignait le frère. Nous nous étions rencontrés dans le
-hall d’entrée où il m’avait parlé de frère Dauch. Et lui aussi s’en est allé! Comme Ton amour est
-profond, ô Seigneur! Combien Ton amour est grand!
-
-        http://www.cmpp.ch
-
-CELUI QUI EST EN VOUS 6
-36 Il y a là des mouchoirs sur lesquels nous allons prier quelques minutes, mais je vais d’abord
-vous parler un peu de la foi. Ensuite nous verrons ce que le Seigneur nous conduira à faire et ce
-que nous ferons ensuite. Laissons-Le prendre les choses en main, c’est ce qu’il y a de mieux.
-37 Oh! être assis ensemble dans les lieux célestes! En sortant du restaurant j’ai demandé à
-quelques-uns de mes amis: «Restez-vous pour la réunion?».
+29 Combien prieront pour moi? Si Dieu le permet (ce que j’espère), dimanche prochain, si cela convient au frère Neville, en allant vers la Louisiane je m’arrêterai ici pour tenir une réunion dans cette église.
+30 Je voudrais vous remercier tous pour votre gentillesse. Il y a une dame qui m’a envoyé une boîte de bonbons. J’apprécie cela. Je ne sais pas qui est cette dame, mais quelqu’un m’a envoyé une boîte de bonbons et des friandises. C’était vraiment délicieux. Je m’en suis régalé et je vous remercie! Vous pensez peut-être que ces petites choses ont peu de signification mais elles en ont beaucoup! Ce sont de petits témoignages d’affection. Et ces choses que me donnent tous ces gens, je les montre à Billy Paul. Vous ne pouvez pas savoir à quel point j’apprécie cela! Que Dieu vous bénisse! Je m’en souviendrai et si c’est ainsi, à combien plus forte raison Dieu s’en souvient-Il, Lui aussi! Vous comprenez? “Ce que vous avez fait à l’un de ces petits de mes frères, c’est à moi que vous l’avez fait”. Vous voyez? Il y aura miséricorde pour ceux qui auront fait miséricorde.
+31 Voici maintenant ces beaux petits bébés. J’aimerais que vous restiez ici, puis après nous chanterons: «Faites-les entrer». Bien! Frères, venez ici juste un instant. [Présentation des bébés — N.d.R.]
+32 Je L’aime. Pas vous? Il est merveilleux! Je vous ai promis de terminer à huit heures et demie, ce qui me donne une demi-heure. Je ne sais pas, peut-être que je ferai un petit peu plus longtemps.
+33 Je suis content de voir le frère Dauch ici ce matin. Je ne sais pas où est allé l’autre homme. Mais s’il a jamais eu un sosie [personne qui ressemble beaucoup à une autre — N.d.T.] c’était cet homme. Je me disais: «Lequel des deux est le frère Dauch?». Je regardais ici et là voulant en parler, mais j’étais tellement pris par mon message. Vous savez, frère Dauch, vous n’avez pas du tout changé! Je suis très heureux de vous voir en si bonne santé.
+34 Récemment on m’a téléphoné de Tucson pour me demander de prier pour lui car quelque chose d’autre lui était arrivé. Je crois que frère Dauch a quatre-vingt-dix ou quatre-vingt-onze ans. Notre corps se détruit, mais: “Les maux du juste sont en grand nombre; mais l’Eternel le délivre de tous” (Psaumes 34.19). Parfois quand le corps en arrive au point où il ne tient plus en semble, je sais qu’il se tient à une Main. Bien que ce corps ne soit qu’une motte de terre, Dieu a promis de le ressusciter au dernier jour. J’en suis si reconnaissant!
+35 Je me souviens de frère Dauch quand il descendit dans le bassin pour être baptisé au Nom de Jésus-Christ. Il n’avait pas même de vêtement de baptême, mais il voulut y aller malgré tout. Et Dieu a manifesté Sa grâce envers cet homme. Pensez donc, il a dépassé de vingt ans le temps que Dieu lui avait promis! Vous voyez? Si ce n’est pas la grâce! Et l’autre jour, le voici de nouveau étendu par terre avec un arrêt du coeur: il avait encore eu une crise cardiaque! Mais Dieu n’a-t-Il pas guéri cet homme et ne l’a-t-Il pas relevé! Je crois que son médecin est mort depuis lors. N’est-ce pas vrai? Le médecin était juif et soignait le frère. Nous nous étions rencontrés dans le hall d’entrée où il m’avait parlé de frère Dauch. Et lui aussi s’en est allé! Comme Ton amour est profond, ô Seigneur! Combien Ton amour est grand!
+36 Il y a là des mouchoirs sur lesquels nous allons prier quelques minutes, mais je vais d’abord vous parler un peu de la foi. Ensuite nous verrons ce que le Seigneur nous conduira à faire et ce que nous ferons ensuite. Laissons-Le prendre les choses en main, c’est ce qu’il y a de mieux.
+37 Oh! être assis ensemble dans les lieux célestes! En sortant du restaurant j’ai demandé à quelques-uns de mes amis: «Restez-vous pour la réunion?».
 38 Ils m’ont dit: «Oui!».
-39 Je leur dis: «Vous devrez probablement conduire jusque vers minuit ou une heure». Ceux qui
-habitent très loin pensent arriver à la maison vers 6 heures du matin. N’oublions pas que ce sont
-des êtres humains et qu’ils se fatiguent tout comme moi. Ils vont dans la région du Tennessee.
-Que le Seigneur les bénisse.
-40 Il y a tant de choses que je voudrais vous dire que je pourrais utiliser pour cela tout le temps
-disponible. Je ne vous vois pas souvent et j’aime m’entretenir avec vous. Et si je ne peux pas vous
-dire ce que je pense de vous… Je voudrais le dire à ces frères; quelques-uns ont donné congé à
-leur assemblée pour venir ici.
-41 Ici ce matin frère Jackson a donné une belle interprétation d’une langue inconnue dans
-laquelle un frère avait parlé, confirmant que cela venait de Dieu. Avez-vous remarqué qu’Il n’a
-jamais dit que ce n’était pas faux? Il n’a jamais dit que ce n’était pas ainsi, Il a simplement averti
-qu’il fallait écouter. Vous voyez, frère Junior était là ce matin, ayant donné congé à son église. Je
-crois que c’est pareil avec d’autres frères ayant des assemblées dans la région de Sellersburg.
-42 Frère Ruddell était là ce matin. Je ne sais pas si ces frères sont encore là ce soir. Oui! ils sont
-là! Que le Seigneur vous bénisse, frère Ruddell, et vous aussi. Je ne sais pas comment exprimer
-ce que je pense, mais peut-être que lorsque nous serons de l’autre côté, j’aimerais m’asseoir avec
-chacun de vous pendant dix mille ans de suite afin que nous puissions parler de ces choses.
-43 Tandis que la moisson mûrit et qu’il y a peu d’ouvriers, entrons-y tout droit au cas où il s’y
-trouverait encore un pécheur. Il se peut qu’il y avait quelqu’un ce soir qui change de voie
-complètement. Et si cela n’est pas arrivé ce matin, ce soir pourrait voir les livres se fermer.
-Rappelez-vous que plus un seul n’entrera quand ces noms auront été rachetés!
-44 Maintenant, que chacun écoute bien attentivement avant que je lise l’Ecriture. Tous ceux qui
-seront rachetés, Dieu a mis leur nom dans le Livre de Vie de l’Agneau avant même que le
-monde n’ait été créé. Combien d’entre vous le savent? C’est l’Ecriture qui le dit. Et dans les
-derniers jours l’antichrist sera si proche de la chose réelle, de la vraie Eglise (tout sera
-exactement comme était Juda) que cela séduirait les Elus eux-mêmes si c’était possible.
-N’est-ce pas vrai? Mais aucun homme ne peut venir à Jésus si Dieu ne le Lui envoie. Et tous ceux
-que Dieu Lui a donnés viendront à Lui. Et quand Il prendra le Livre, ayant appelé le dernier nom…
-45 Vous voyez, tous ceux de l’âge de Luther, Il les a fait sortir. Tous ceux de l’âge de Wesley, Il
-les a fait sortir. Tous ceux des différents âges jusqu’à l’âge. de Pentecôte, Il les a fait sortir. Ils
-seront là-bas de l’autre côté et ne seront pas jugés avec les autres, ils seront enlevés. Et quand
-sort le dernier nom écrit dans le Livre de Vie de l’Agneau qui a été immolé avant la
-fondation du monde, quand ce dernier nom a été racheté, l’oeuvre est terminée. Il s’avance
-alors pour réclamer ceux qu’Il a rachetés. Cela fait saigner notre coeur! Mais si cela arrivait mille
-ans plus tard, pas un seul ne serait racheté. Et personne ne peut être racheté à moins d’avoir
-été inscrit dans le Livre de Vie de l’Agneau avant la fondation du monde. Qui sont-ils? Je
-n’en sais rien! Personne d’autre ne le sait, vous voyez, Dieu seul le sait. J’ai cette confiance
-que le nom de chacun de nous se trouve dans le Livre. Si le mien y est, je suis sûr de me retrouver
-là-bas. S’il n’y est pas je n’y serai pas, un point c’est tout. C’est l’affaire de Dieu. “Cela ne dépend
-pas de celui qui veut, ni de celui qui court, mais de Dieu qui fait grâce” (Romains 9.16).
-46 Maintenant approchons-nous de la Parole avec respect et sincérité. Je crois que c’est ainsi
-que nous devons faire. Arrêtons avec toutes ces sottises! Soyons respectueux et sincères! J’ai
-remarqué ces confessions que les gens ont faites lors d’une émission de télévision de Billy
-Graham. Je n’ai rien contre Billy Graham. Ce soir-là il a donné un magnifique message en
-Californie, le même que moi il y a peu de temps quand j’ai prêché sur Daniel où il est dit: “Tu as
-été pesé dans la balance et tu as été trouvé manquant de poids”. Combien ont vu cela?
-Beaucoup, je suppose.
-47 Avez-vous remarqué ces personnes remontant par les bas-côtés, mâchant du chewing-gum,
-riant et se bousculant? Ce n’est pas ainsi que l’on marche quand c’est une question de vie ou de
-
-        http://www.cmpp.ch
-
-    CELUI QUI EST EN VOUS    7
-mort. Ce n’est pas regretter ses péchés et se repentir, vous voyez? C’est exactement ce qu’a dit
-Billy: «Prendre une décision». Une décision prise froidement et les yeux secs n’est rien du tout.
-Vous voyez, cela n’est rien du tout! Vous devez être affligé à cause du péché et vous en
-détourner. Billy ne l’a-t-il pas dit lui-même? «J’ai peur que sur trente mille personne, on n’en
-retrouve pas trente l’année suivante». Il a dit l’autre jour: «Que se passe-t-il avec New York? J’ai
-eu là une grande réunion et qu’est-il arrivé? Le péché est pire que jamais». Et cela continuera à
-empirer!
-48 Il n’y aura pas de repentance à l’échelle nationale. La nation est perdue. Il ne reste plus que
-vous, les personnes individuelles, et bientôt ce sera terminé si ce n’est pas déjà le cas. Notez bien
-cela, jeunes enfants: Remarquez si jusqu’à présent ce qu’a dit frère Branham (mais ce n’est pas
-frère Branham qui l’a dit) est juste ou faux; le péché va croître et croître jusqu’à ce qu’un jour
-les cieux s’embraseront et tomberont sur la terre et que la terre se consumera dans une
-ardente flamme. Mais alors les rachetés ne seront plus là, ils seront partis.
-49 Maintenant nous allons lire dans le livre de Marc au onzième chapitre, puis dans 1 Jean 4.4 et
-dans Matthieu 28.20. Voilà ce que j’aimerais lire.
-50 D’abord Marc, chapitre 11, les versets 12 à 24. Ecoutez attentivement tandis que nous lisons.
-Cela soutiendra un petit témoignage et quelques paroles d’exhortation, puis nous verrons ce que
-le Seigneur nous conduira à faire. Que chacun reste assis et soit dans la prière tandis que nous
-lisons.
+39 Je leur dis: «Vous devrez probablement conduire jusque vers minuit ou une heure». Ceux qui habitent très loin pensent arriver à la maison vers 6 heures du matin. N’oublions pas que ce sont des êtres humains et qu’ils se fatiguent tout comme moi. Ils vont dans la région du Tennessee. Que le Seigneur les bénisse.
+40 Il y a tant de choses que je voudrais vous dire que je pourrais utiliser pour cela tout le temps disponible. Je ne vous vois pas souvent et j’aime m’entretenir avec vous. Et si je ne peux pas vous dire ce que je pense de vous… Je voudrais le dire à ces frères; quelques-uns ont donné congé à leur assemblée pour venir ici.
+41 Ici ce matin frère Jackson a donné une belle interprétation d’une langue inconnue dans laquelle un frère avait parlé, confirmant que cela venait de Dieu. Avez-vous remarqué qu’Il n’a jamais dit que ce n’était pas faux? Il n’a jamais dit que ce n’était pas ainsi, Il a simplement averti qu’il fallait écouter. Vous voyez, frère Junior était là ce matin, ayant donné congé à son église. Je crois que c’est pareil avec d’autres frères ayant des assemblées dans la région de Sellersburg.
+42 Frère Ruddell était là ce matin. Je ne sais pas si ces frères sont encore là ce soir. Oui! ils sont là! Que le Seigneur vous bénisse, frère Ruddell, et vous aussi. Je ne sais pas comment exprimer ce que je pense, mais peut-être que lorsque nous serons de l’autre côté, j’aimerais m’asseoir avec chacun de vous pendant dix mille ans de suite afin que nous puissions parler de ces choses.
+43 Tandis que la moisson mûrit et qu’il y a peu d’ouvriers, entrons-y tout droit au cas où il s’y trouverait encore un pécheur. Il se peut qu’il y avait quelqu’un ce soir qui change de voie complètement. Et si cela n’est pas arrivé ce matin, ce soir pourrait voir les livres se fermer. Rappelez-vous que plus un seul n’entrera quand ces noms auront été rachetés!
+44 Maintenant, que chacun écoute bien attentivement avant que je lise l’Ecriture. Tous ceux qui seront rachetés, Dieu a mis leur nom dans le Livre de Vie de l’Agneau avant même que le monde n’ait été créé. Combien d’entre vous le savent? C’est l’Ecriture qui le dit. Et dans les derniers jours l’antichrist sera si proche de la chose réelle, de la vraie Eglise (tout sera exactement comme était Juda) que cela séduirait les Elus eux-mêmes si c’était possible. N’est-ce pas vrai? Mais aucun homme ne peut venir à Jésus si Dieu ne le Lui envoie. Et tous ceux que Dieu Lui a donnés viendront à Lui. Et quand Il prendra le Livre, ayant appelé le dernier nom…
+45 Vous voyez, tous ceux de l’âge de Luther, Il les a fait sortir. Tous ceux de l’âge de Wesley, Il les a fait sortir. Tous ceux des différents âges jusqu’à l’âge. de Pentecôte, Il les a fait sortir. Ils seront là-bas de l’autre côté et ne seront pas jugés avec les autres, ils seront enlevés. Et quand sort le dernier nom écrit dans le Livre de Vie de l’Agneau qui a été immolé avant la fondation du monde, quand ce dernier nom a été racheté, l’oeuvre est terminée. Il s’avance alors pour réclamer ceux qu’Il a rachetés. Cela fait saigner notre coeur! Mais si cela arrivait mille ans plus tard, pas un seul ne serait racheté. Et personne ne peut être racheté à moins d’avoir été inscrit dans le Livre de Vie de l’Agneau avant la fondation du monde. Qui sont-ils? Je n’en sais rien! Personne d’autre ne le sait, vous voyez, Dieu seul le sait. J’ai cette confiance que le nom de chacun de nous se trouve dans le Livre. Si le mien y est, je suis sûr de me retrouver là-bas. S’il n’y est pas je n’y serai pas, un point c’est tout. C’est l’affaire de Dieu. “Cela ne dépend pas de celui qui veut, ni de celui qui court, mais de Dieu qui fait grâce” (Romains 9.16).
+46 Maintenant approchons-nous de la Parole avec respect et sincérité. Je crois que c’est ainsi que nous devons faire. Arrêtons avec toutes ces sottises! Soyons respectueux et sincères! J’ai remarqué ces confessions que les gens ont faites lors d’une émission de télévision de Billy Graham. Je n’ai rien contre Billy Graham. Ce soir-là il a donné un magnifique message en Californie, le même que moi il y a peu de temps quand j’ai prêché sur Daniel où il est dit: “Tu as été pesé dans la balance et tu as été trouvé manquant de poids”. Combien ont vu cela? Beaucoup, je suppose.
+47 Avez-vous remarqué ces personnes remontant par les bas-côtés, mâchant du chewing-gum, riant et se bousculant? Ce n’est pas ainsi que l’on marche quand c’est une question de vie ou de mort. Ce n’est pas regretter ses péchés et se repentir, vous voyez? C’est exactement ce qu’a dit Billy: «Prendre une décision». Une décision prise froidement et les yeux secs n’est rien du tout. Vous voyez, cela n’est rien du tout! Vous devez être affligé à cause du péché et vous en détourner. Billy ne l’a-t-il pas dit lui-même? «J’ai peur que sur trente mille personne, on n’en retrouve pas trente l’année suivante». Il a dit l’autre jour: «Que se passe-t-il avec New York? J’ai eu là une grande réunion et qu’est-il arrivé? Le péché est pire que jamais». Et cela continuera à empirer!
+48 Il n’y aura pas de repentance à l’échelle nationale. La nation est perdue. Il ne reste plus que vous, les personnes individuelles, et bientôt ce sera terminé si ce n’est pas déjà le cas. Notez bien cela, jeunes enfants: Remarquez si jusqu’à présent ce qu’a dit frère Branham (mais ce n’est pas frère Branham qui l’a dit) est juste ou faux; le péché va croître et croître jusqu’à ce qu’un jour les cieux s’embraseront et tomberont sur la terre et que la terre se consumera dans une ardente flamme. Mais alors les rachetés ne seront plus là, ils seront partis.
+49 Maintenant nous allons lire dans le livre de Marc au onzième chapitre, puis dans 1 Jean 4.4 et dans Matthieu 28.20. Voilà ce que j’aimerais lire.
+50 D’abord Marc, chapitre 11, les versets 12 à 24. Ecoutez attentivement tandis que nous lisons. Cela soutiendra un petit témoignage et quelques paroles d’exhortation, puis nous verrons ce que le Seigneur nous conduira à faire. Que chacun reste assis et soit dans la prière tandis que nous lisons.
 51 Marc 11.12-24:
-       “Le lendemain, après qu’ils furent sortis de Béthanie, Jésus eut faim. Apercevant de
-     loin un figuier qui avait des feuilles, il alla voir s’il y trouverait quelque chose; et, s’en
-     étant approché, il ne trouva que des feuilles, car ce n’était pas la saison des figues.
-     Prenant alors la parole, il lui dit: Que jamais personne ne mange de ton fruit! Et ses
-     disciples l’entendirent.
-       Ils arrivèrent à Jérusalem, et Jésus entra dans le temple. Il se mit à chasser ceux qui
-     vendaient et qui achetaient dans le temple; il renversa les tables des changeurs, et les
-     sièges des vendeurs de pigeons; et il ne laissait personne transporter aucun objet à
-     travers le temple. Et il enseignait et disait: N’est-il pas écrit: Ma maison sera appelée une
-     maison de prière pour toutes les nations? Mais vous, vous en avez fait une caverne de
-     voleurs.
-       Les principaux sacrificateurs et les scribes, l’ayant entendu, cherchèrent les moyens
-     de le faire périr; car ils le craignaient, parce que toute la foule était frappée de sa
-     doctrine. Quand le soir fut venu, Jésus sortit de la ville.
-       Le matin (c’était un autre jour) en passant, les disciples virent le figuier séché
-     jusqu’aux racines (le miracle eut lieu dans les vingt-quatre heures après qu’Il lui eût dit:
-     Personne ne mangera de ton fruit. Apparemment rien ne se passa sur le moment même;
-     mais le lendemain il était sec). Pierre, se rappelant ce qui s’était passé, dit à Jésus:
-     Rabbi, regarde, le figuier que tu as maudit a séché. Jésus prit la parole et leur dit: Ayez
-     foi en Dieu. Je vous le dis en vérité, si quelqu’un dit cette montagne: Ote-toi de là et
-     jette-toi dans la mer et s’il ne doute point en son coeur, mais croit que ce qu’il dit arrive, il
-     le verra s’accomplir. C’est pourquoi je vous dis: Tout ce que vous demanderez en priant,
-     croyez que vous l’avez reçu, et vous le verrez s’accomplir. Et, lorsque vous êtes debout
-     faisant votre prière, si vous avez quelque chose contre quelqu’un pardonnez, afin que
-     votre Père qui est dans les cieux vous pardonne aussi vos offenses. Mais si vous ne
-     pardonnez pas, votre Père qui est dans les cieux ne vous pardonnera pas non plus vos
-     offenses” (C’est à une condition).
+       “Le lendemain, après qu’ils furent sortis de Béthanie, Jésus eut faim. Apercevant de loin un figuier qui avait des feuilles, il alla voir s’il y trouverait quelque chose; et, s’en étant approché, il ne trouva que des feuilles, car ce n’était pas la saison des figues. Prenant alors la parole, il lui dit: Que jamais personne ne mange de ton fruit! Et ses disciples l’entendirent.
+       Ils arrivèrent à Jérusalem, et Jésus entra dans le temple. Il se mit à chasser ceux qui vendaient et qui achetaient dans le temple; il renversa les tables des changeurs, et les sièges des vendeurs de pigeons; et il ne laissait personne transporter aucun objet à travers le temple. Et il enseignait et disait: N’est-il pas écrit: Ma maison sera appelée une maison de prière pour toutes les nations? Mais vous, vous en avez fait une caverne de voleurs.
+       Les principaux sacrificateurs et les scribes, l’ayant entendu, cherchèrent les moyens de le faire périr; car ils le craignaient, parce que toute la foule était frappée de sa doctrine. Quand le soir fut venu, Jésus sortit de la ville.
+       Le matin (c’était un autre jour) en passant, les disciples virent le figuier séché jusqu’aux racines (le miracle eut lieu dans les vingt-quatre heures après qu’Il lui eût dit: Personne ne mangera de ton fruit. Apparemment rien ne se passa sur le moment même; mais le lendemain il était sec). Pierre, se rappelant ce qui s’était passé, dit à Jésus: Rabbi, regarde, le figuier que tu as maudit a séché. Jésus prit la parole et leur dit: Ayez foi en Dieu. Je vous le dis en vérité, si quelqu’un dit cette montagne: Ote-toi de là et jette-toi dans la mer et s’il ne doute point en son coeur, mais croit que ce qu’il dit arrive, il le verra s’accomplir. C’est pourquoi je vous dis: Tout ce que vous demanderez en priant, croyez que vous l’avez reçu, et vous le verrez s’accomplir. Et, lorsque vous êtes debout faisant votre prière, si vous avez quelque chose contre quelqu’un pardonnez, afin que votre Père qui est dans les cieux vous pardonne aussi vos offenses. Mais si vous ne pardonnez pas, votre Père qui est dans les cieux ne vous pardonnera pas non plus vos offenses” (C’est à une condition).
 52 Maintenant nous lisons 1 Jean 4.4:
-       “Vous, petits enfants, vous êtes de Dieu et vous les avez vaincus (écoutez
-     attentivement), parce que celui qui est en vous est plus grand que celui qui est dans le
-     monde”.
+       “Vous, petits enfants, vous êtes de Dieu et vous les avez vaincus (écoutez attentivement), parce que celui qui est en vous est plus grand que celui qui est dans le monde”.
 53 Puis-je le lire encore une fois?
-       “Vous, petits enfants, vous êtes de Dieu et vous les avez vaincus (il parle de
-     l’antichrist), parce que celui qui est en vous est plus grand que celui qui est dans le
-     monde”.
-
-    http://www.cmpp.ch
-
-CELUI QUI EST EN VOUS 8
-     (Il y a deux pronoms, vous voyez; celui, pronom personnel; celui qui est dans le monde et
-Celui qui est en vous). “Celui qui est en vous est plus grand que celui qui est dans le monde”.
+       “Vous, petits enfants, vous êtes de Dieu et vous les avez vaincus (il parle de l’antichrist), parce que celui qui est en vous est plus grand que celui qui est dans le monde”.
+     (Il y a deux pronoms, vous voyez; celui, pronom personnel; celui qui est dans le monde et Celui qui est en vous). “Celui qui est en vous est plus grand que celui qui est dans le monde”.
 54 Lisons aussi Matthieu 28.20:
-       “Enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous
-     tous les jours, jusqu’à la fin du monde”.
-55 Je voudrais tirer de ce passage un sujet pour ce soir: Celui qui est en vous. Là-dessus je
-voudrais édifier votre foi en vue bien sûr, d’un service de prière. Nous commencerons aussi vite
-que possible.
-56 Comme je vous l’ai dit, j’aime vous mettre au courant des événements qui ont eu lieu et
-j’attends d’habitude de venir ici à l’église pour vous les raconter. Si d’autres désirent les entendre
-ils peuvent les écouter sur les bandes, mais j’attends d’être ici pour en parler. En ce qui concerne
-l’événement dont je vais vous parler maintenant, il y a ici plusieurs hommes, des frères chrétiens,
-qui en ont été témoins. Parmi ceux qui étaient présents, il y avait les frères Banks Wood, David
-Wood, frère Evans et son fils Ronald. Il y avait aussi notre cher diacre, frère Wheeler. Il y en avait
-aussi un autre, le frère Mann de New Albany. Frère Mann est-il ici? C’est un prédicateur
-méthodiste que j’ai baptisé dernièrement au Nom de Jésus-Christ. Il était aussi là quand cela est
-arrivé.
-57 Il y a un certain temps déjà, quelques années que j’avais un lourd fardeau sur le coeur. Je
-ressentais cela comme si j’avais fait quelque chose de faux. J’examinai ma vie en long et en large
-pour voir ce qui était faux. Je dis: «Seigneur, si j’ai fait quoi que ce soit de faux, révèle-le moi et
-j’irai le réparer». Mais rien ne m’était révélé. Je dis: «Ai-je blessé quelqu’un? Ai-je omis de faire
-quelque chose? Est-ce que je ne lis pas assez? Est-ce que je ne prie pas assez?». J’ai lu et prié,
-et je pensai: «Révèle-le moi! Ai-je fait du mal à quelqu’un quelque part? Si c’est le cas je réparerai.
-Montre-le-moi simplement! Je ne veux pas porter ce fardeau». Depuis cinq ans, depuis que j’ai
-quitté le champ de mission, il y a eu un fardeau sur mon coeur.
-58 Je suis allé à la montagne, je suis allé au bord de la mer, je suis allé partout, j’ai prié et prié et
-prié mais ce poids ne diminuait pas. J’ai pensé à tout pour voir si j’avais fait quelque chose. Mais
-le fardeau était toujours là! C’est comme si j’étais dans des liens. Et ce qui est étrange, c’est que
-ce poids a été ôté ce matin, juste au moment où j’apportais le message. Est-ce Dieu qui me
-retenait dans ce but? Je ne sais pas. Vous voyez, ces choses sont toutes dans ma pensée. Vous
-pouvez imaginer ce qu’il y a dans le coeur de l’homme quand il doit faire face à de telles situations!
-Penser à ce qui est en train de se passer et le savoir pour le dire aux gens. Savoir que certains
-suivront la mauvaise pente, que certains suivront cette voie-ci et d’autres cette voie-là, vous savez
-comme cela se passe. Les uns croiront, les autres pas. Mais ce sont ces choses-là que l’on doit
-endurer.
-59 Comment parler sans blesser les gens? Comment dire les choses de manière qu’elles fassent
-effet? Comment le dire afin de montrer aux gens que vous ne vous en prenez pas à eux mais que
-vous les aimez? Comment être strict et ferme tout en restant plein d’amour pour eux? Comment
-présenter les choses? Et cependant malheur à moi si je ne les présente pas! Vous voyez? C’est
-cela. Il n’est pas étonnant que l’on soit nerveux et déchiré!
-60 J’étais venu de l’Arizona pour rencontrer un groupe de frères qui chassent avec moi chaque
-année dans le Colorado. Quelques-uns m’ont demandé: «Pourquoi allez-vous à la chasse?
-Qu’est-ce qui vous y pousse?». Vous voyez, ici vous faites le plein tandis que moi je fais le vide.
-Là-bas, c’est moi qui fais le plein afin de pouvoir me vider ici. Vous comprenez? Je ne vais pas
-simplement pour chasser du gibier. Ceux qui sont venus avec moi savent que des centaines
-d’animaux sont déjà passés à ma portée sans que je les aie même visés.
-61 Il n’y a pas longtemps, j’avais commencé à chasser du gibier pour les hommes d’affaires
-chrétiens. En partant ils me disaient: «Billy, rapporte-moi un mâle, rapporte-moi une femelle,
-rapporte-moi un élan, rapporte-moi ceci ou cela!». Je partais simplement et je tuais du gibier à
-droite et à gauche. Le Seigneur m’aidait, en sorte que je pouvais le trouver, le voir, être un bon
-tireur et le toucher. Et eux étaient assis là et parlaient de leurs affaires.
-62 Puis le Seigneur me dit de ne plus faire cela. Je me suis senti mal à l’aise à ce sujet et je Lui
-ai promis de ne plus le faire. J’ai dit: «En cas d’urgence ou si quelqu’un en a besoin je le ferai.
-Mais s’ils n’en ont pas besoin je ne le ferai plus». Ces hommes ont tout l’argent qu’il faut pour
-
-        http://www.cmpp.ch
-
-CELUI QUI EST EN VOUS 9
-s’acheter de la viande de boeuf et tout le reste. Alors pourquoi ferais-je cela? Si vous n’en avez
-pas l’usage, laissez vivre les animaux!
-63 C’est ainsi que je ne vais à la chasse que pour être seul. Si quelqu’un vient avec moi, il sait
-que je ne vais pas à la chasse avec n’importe qui. J’y vais seul pour être seul. Je rejoins les autres
-pour avoir une communion fraternelle le soir, pour nous tenir ensemble dans la prière, etc. Il y
-avait là beaucoup d’autres pasteurs. Cette année il y avait dans la montagne notre frère Palmer. Il
-me semble l’avoir vu quelque part il y a un instant. Il est assis ici, c’est le frère Palmer. Il y a aussi
-le frère Bob Lambert qui est ici ce matin. Je l’ai entendu s’exclamer quelque part. Je pense qu’il
-est encore là. Il y a aussi les deux frères Martin. Je suppose qu’ils sont là. Sont-ils là, les frères
-Martin? Frère Martin, vous m’avez appelé l’autre jour; c’était bien. Cet homme, ce frère prédicateur
-a été guéri.
-64 Est-elle ici, la personne pour laquelle j’ai prié l’autre jour au téléphone? J’ai oublié son nom.
-C’est quelqu’un qui vient de l’Arkansas. Sa femme m’a appelé. Il avait un côté tout enflé et
-beaucoup de fièvre; il était mourant. C’est celui-là même que l’on appela alors qu’il assistait à une
-réunion à Hot Springs. C’est un homme de belle apparence. S’il est ici, je ne pense pas qu’il
-voudra se lever. J’ai oublié son nom. Ah oui, Blair! C’est le frère Blair. Combien d’entre vous
-étaient à cette réunion de Hot Springs? Le Saint-Esprit s’était adressé à ce jeune homme, lui
-disant que Satan cherchait à le faire me désavouer, à lui faire dire que je suis un faux prophète.
-Ce jeune homme témoigna que c’était la vérité. Vous voyez ce que le diable cherchait à faire?
-Mais cet homme ne va pas chez les médecins. Il ne croit pas qu’il faille y aller. Mais Satan savait
-que cette maladie allait le frapper et qu’il pourrait le tuer sur le coup, vous voyez. C’est pour cela
-qu’il essayait de le faire me désavouer. Mais le Saint-Esprit l’appela dans Sa grâce (cet homme
-n’était pas de chez nous) et lui dit de ne pas le faire. Il lui dit de ne pas faire cela.
-65 Et l’autre soir sa femme m’avait appelé. Elle m’avait dit: «Frère Branham, je crois qu’il est en
-train de mourir. Il est tout enflé, il a de la fièvre, il commence à délirer. La dernière chose qu’il ait
-dite est: appelle frère Branham!».
+       “Enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu’à la fin du monde”.
+55 Je voudrais tirer de ce passage un sujet pour ce soir: Celui qui est en vous. Là-dessus je voudrais édifier votre foi en vue bien sûr, d’un service de prière. Nous commencerons aussi vite que possible.
+56 Comme je vous l’ai dit, j’aime vous mettre au courant des événements qui ont eu lieu et j’attends d’habitude de venir ici à l’église pour vous les raconter. Si d’autres désirent les entendre ils peuvent les écouter sur les bandes, mais j’attends d’être ici pour en parler. En ce qui concerne l’événement dont je vais vous parler maintenant, il y a ici plusieurs hommes, des frères chrétiens, qui en ont été témoins. Parmi ceux qui étaient présents, il y avait les frères Banks Wood, David Wood, frère Evans et son fils Ronald. Il y avait aussi notre cher diacre, frère Wheeler. Il y en avait aussi un autre, le frère Mann de New Albany. Frère Mann est-il ici? C’est un prédicateur méthodiste que j’ai baptisé dernièrement au Nom de Jésus-Christ. Il était aussi là quand cela est arrivé.
+57 Il y a un certain temps déjà, quelques années que j’avais un lourd fardeau sur le coeur. Je ressentais cela comme si j’avais fait quelque chose de faux. J’examinai ma vie en long et en large pour voir ce qui était faux. Je dis: «Seigneur, si j’ai fait quoi que ce soit de faux, révèle-le moi et j’irai le réparer». Mais rien ne m’était révélé. Je dis: «Ai-je blessé quelqu’un? Ai-je omis de faire quelque chose? Est-ce que je ne lis pas assez? Est-ce que je ne prie pas assez?». J’ai lu et prié, et je pensai: «Révèle-le moi! Ai-je fait du mal à quelqu’un quelque part? Si c’est le cas je réparerai. Montre-le-moi simplement! Je ne veux pas porter ce fardeau». Depuis cinq ans, depuis que j’ai quitté le champ de mission, il y a eu un fardeau sur mon coeur.
+58 Je suis allé à la montagne, je suis allé au bord de la mer, je suis allé partout, j’ai prié et prié et prié mais ce poids ne diminuait pas. J’ai pensé à tout pour voir si j’avais fait quelque chose. Mais le fardeau était toujours là! C’est comme si j’étais dans des liens. Et ce qui est étrange, c’est que ce poids a été ôté ce matin, juste au moment où j’apportais le message. Est-ce Dieu qui me retenait dans ce but? Je ne sais pas. Vous voyez, ces choses sont toutes dans ma pensée. Vous pouvez imaginer ce qu’il y a dans le coeur de l’homme quand il doit faire face à de telles situations! Penser à ce qui est en train de se passer et le savoir pour le dire aux gens. Savoir que certains suivront la mauvaise pente, que certains suivront cette voie-ci et d’autres cette voie-là, vous savez comme cela se passe. Les uns croiront, les autres pas. Mais ce sont ces choses-là que l’on doit endurer.
+59 Comment parler sans blesser les gens? Comment dire les choses de manière qu’elles fassent effet? Comment le dire afin de montrer aux gens que vous ne vous en prenez pas à eux mais que vous les aimez? Comment être strict et ferme tout en restant plein d’amour pour eux? Comment présenter les choses? Et cependant malheur à moi si je ne les présente pas! Vous voyez? C’est cela. Il n’est pas étonnant que l’on soit nerveux et déchiré!
+60 J’étais venu de l’Arizona pour rencontrer un groupe de frères qui chassent avec moi chaque année dans le Colorado. Quelques-uns m’ont demandé: «Pourquoi allez-vous à la chasse? Qu’est-ce qui vous y pousse?». Vous voyez, ici vous faites le plein tandis que moi je fais le vide. Là-bas, c’est moi qui fais le plein afin de pouvoir me vider ici. Vous comprenez? Je ne vais pas simplement pour chasser du gibier. Ceux qui sont venus avec moi savent que des centaines d’animaux sont déjà passés à ma portée sans que je les aie même visés.
+61 Il n’y a pas longtemps, j’avais commencé à chasser du gibier pour les hommes d’affaires chrétiens. En partant ils me disaient: «Billy, rapporte-moi un mâle, rapporte-moi une femelle, rapporte-moi un élan, rapporte-moi ceci ou cela!». Je partais simplement et je tuais du gibier à droite et à gauche. Le Seigneur m’aidait, en sorte que je pouvais le trouver, le voir, être un bon tireur et le toucher. Et eux étaient assis là et parlaient de leurs affaires.
+62 Puis le Seigneur me dit de ne plus faire cela. Je me suis senti mal à l’aise à ce sujet et je Lui ai promis de ne plus le faire. J’ai dit: «En cas d’urgence ou si quelqu’un en a besoin je le ferai. Mais s’ils n’en ont pas besoin je ne le ferai plus». Ces hommes ont tout l’argent qu’il faut pour s’acheter de la viande de boeuf et tout le reste. Alors pourquoi ferais-je cela? Si vous n’en avez pas l’usage, laissez vivre les animaux!
+63 C’est ainsi que je ne vais à la chasse que pour être seul. Si quelqu’un vient avec moi, il sait que je ne vais pas à la chasse avec n’importe qui. J’y vais seul pour être seul. Je rejoins les autres pour avoir une communion fraternelle le soir, pour nous tenir ensemble dans la prière, etc. Il y avait là beaucoup d’autres pasteurs. Cette année il y avait dans la montagne notre frère Palmer. Il me semble l’avoir vu quelque part il y a un instant. Il est assis ici, c’est le frère Palmer. Il y a aussi le frère Bob Lambert qui est ici ce matin. Je l’ai entendu s’exclamer quelque part. Je pense qu’il est encore là. Il y a aussi les deux frères Martin. Je suppose qu’ils sont là. Sont-ils là, les frères Martin? Frère Martin, vous m’avez appelé l’autre jour; c’était bien. Cet homme, ce frère prédicateur a été guéri.
+64 Est-elle ici, la personne pour laquelle j’ai prié l’autre jour au téléphone? J’ai oublié son nom. C’est quelqu’un qui vient de l’Arkansas. Sa femme m’a appelé. Il avait un côté tout enflé et beaucoup de fièvre; il était mourant. C’est celui-là même que l’on appela alors qu’il assistait à une réunion à Hot Springs. C’est un homme de belle apparence. S’il est ici, je ne pense pas qu’il voudra se lever. J’ai oublié son nom. Ah oui, Blair! C’est le frère Blair. Combien d’entre vous étaient à cette réunion de Hot Springs? Le Saint-Esprit s’était adressé à ce jeune homme, lui disant que Satan cherchait à le faire me désavouer, à lui faire dire que je suis un faux prophète. Ce jeune homme témoigna que c’était la vérité. Vous voyez ce que le diable cherchait à faire? Mais cet homme ne va pas chez les médecins. Il ne croit pas qu’il faille y aller. Mais Satan savait que cette maladie allait le frapper et qu’il pourrait le tuer sur le coup, vous voyez. C’est pour cela qu’il essayait de le faire me désavouer. Mais le Saint-Esprit l’appela dans Sa grâce (cet homme n’était pas de chez nous) et lui dit de ne pas le faire. Il lui dit de ne pas faire cela.
+65 Et l’autre soir sa femme m’avait appelé. Elle m’avait dit: «Frère Branham, je crois qu’il est en train de mourir. Il est tout enflé, il a de la fièvre, il commence à délirer. La dernière chose qu’il ait dite est: appelle frère Branham!».
      Je dis: «Avez-vous quelque chose sous la main, votre sac, avec un mouchoir?».
      — «Non». (Moi j’étais à Tucson et elle dans l’Arkansas.)
      — «Avez-vous quoi que ce soit?».
-     Elle dit, je crois, qu’elle avait un foulard. Je dis alors: «Posez votre main sur le foulard. Tenez
-maintenant le téléphone dans l’autre main». Alors j’ai prié et demandé à Dieu d’être miséricordieux
-et de faire lâcher prise à cet ennemi.
-66 Ensuite elle alla poser le foulard sur son mari et le lendemain matin c’est lui qui m’appela!
-Vous voyez? Vous voyez? Moins de vingt-quatre heures après!
-67 Je n’ai pas encore vu ce soir notre cher frère Roy Roberson. Je vous dis tout de suite que
-c’est un militaire. J’espère qu’il comprend bien que je ne condamne pas cela. Il était sergent dans
-l’armée et là tout est strict. Il faut s’habituer à mener les hommes comme on le fait à l’armée. Il
-disait: «Eh bien, toutes ces choses spirituelles, ce n’est pas pour moi!»; il n’en voulait pas. Mais le
-Seigneur l’a épargné, sinon il aurait été mort. Pendant un long moment on le tint pour mort. Mais le
-Seigneur le guérit. Il L’a toujours suivi depuis lors. Mais il ne connaissait rien des visions et de ce
-qu’il appelait “ces trucs spirituels”.
-68 Mais beaucoup connaissent la vision qui fut donnée à frère Roy il n’y a pas longtemps, avant
-même que je me rende là-bas, où il me vit sur la montagne et où il y eut cette Lumière et la Voix
-qui en sortait. Cela ôta tout doute de frère Roy.
-69 L’autre soir il tomba malade avec une forte fièvre. La température et tout s’aggrava tant que le
-médecin lui donna toutes sortes de médicaments. Mais cela ne servit à rien et il en vint à ne plus
-pouvoir bouger. Ses jambes et tout le reste étaient comme paralysés.
-70 Le pauvre frère avait été grièvement blessé par un obus allemand de 88 et je crois que son
-groupe tout entier fut tué, excepté lui qui fut grièvement blessé.
-71 Et l’autre soir, savez-vous ce qui s’est passé quand sa brave femme m’a appelé? J’ai dit à
-soeur Roberson: «Avez-vous quelque chose sous la main?».
+     Elle dit, je crois, qu’elle avait un foulard. Je dis alors: «Posez votre main sur le foulard. Tenez maintenant le téléphone dans l’autre main». Alors j’ai prié et demandé à Dieu d’être miséricordieux et de faire lâcher prise à cet ennemi.
+66 Ensuite elle alla poser le foulard sur son mari et le lendemain matin c’est lui qui m’appela! Vous voyez? Vous voyez? Moins de vingt-quatre heures après!
+67 Je n’ai pas encore vu ce soir notre cher frère Roy Roberson. Je vous dis tout de suite que c’est un militaire. J’espère qu’il comprend bien que je ne condamne pas cela. Il était sergent dans l’armée et là tout est strict. Il faut s’habituer à mener les hommes comme on le fait à l’armée. Il disait: «Eh bien, toutes ces choses spirituelles, ce n’est pas pour moi!»; il n’en voulait pas. Mais le Seigneur l’a épargné, sinon il aurait été mort. Pendant un long moment on le tint pour mort. Mais le Seigneur le guérit. Il L’a toujours suivi depuis lors. Mais il ne connaissait rien des visions et de ce qu’il appelait “ces trucs spirituels”.
+68 Mais beaucoup connaissent la vision qui fut donnée à frère Roy il n’y a pas longtemps, avant même que je me rende là-bas, où il me vit sur la montagne et où il y eut cette Lumière et la Voix qui en sortait. Cela ôta tout doute de frère Roy.
+69 L’autre soir il tomba malade avec une forte fièvre. La température et tout s’aggrava tant que le médecin lui donna toutes sortes de médicaments. Mais cela ne servit à rien et il en vint à ne plus pouvoir bouger. Ses jambes et tout le reste étaient comme paralysés.
+70 Le pauvre frère avait été grièvement blessé par un obus allemand de 88 et je crois que son groupe tout entier fut tué, excepté lui qui fut grièvement blessé.
+71 Et l’autre soir, savez-vous ce qui s’est passé quand sa brave femme m’a appelé? J’ai dit à soeur Roberson: «Avez-vous quelque chose sous la main?».
 72 Elle me dit: «J’ai un mouchoir sur lequel il aimerait que vous priiez».
-73 Je lui répondis: «Allez le chercher». Moi, j’étais à Tucson. Elle posa sa main sur le mouchoir
-pendant que je priai, réprimandant la maladie. Puis je dis: «Soeur Roberson, cette maladie va s’en
-aller!».
-
-        http://www.cmpp.ch
-
-CELUI QUI EST EN VOUS 10
-74 Quelque chose me dit simplement: «Cette maladie va s’en aller; dis-le!». Et dans la
-demi-heure, la fièvre était partie et le frère était dans la cuisine, cherchant quelque chose à
-manger. Vous voyez? Vous voyez?
-75 Voilà ce que j’essaie de vous dire: «Ne perdez jamais confiance!». Ne laissez pas Satan vous
-parler en mal de moi malgré qu’il y aurait beaucoup à en dire! Mais gardez cette confiance, sans
-quoi cela n’arrivera pas. Ne regardez pas à moi en tant qu’homme. Je suis un homme, je fais
-beaucoup d’erreurs; mais regardez à ce que je dis de Lui. C’est de Lui qu’il s’agit, c’est Lui qui
-compte!
-76 Quand nous retournâmes au Colorado, la saison avait été très sèche. Le gibier était rare. Le
-Seigneur bénit frère Wheeler et lui donna un beau trophée. Nous en étions si heureux car c’était la
-première fois qu’il allait à la chasse dans les bois. Le Seigneur le bénit. Puis moi aussi j’eus un
-grand trophée comme j’en désirais depuis vingt ans! Il y a longtemps que frère Banks et moi en
-cherchions un. Mais passant d’une région chaude à une région froide, mon fusil s’était déréglé et
-j’atteignis l’animal, qui se tenait entre deux arbres, plus bas qu’il n’aurait fallu pour le tuer sur le
-coup. Mais malgré que je l’ai touché si haut, il fit un bond et sembla tomber ainsi.
-77 Billy qui était avec moi dit: «Tu l’as eu». Je le croyais moi aussi. Mais quand nous nous
-rendîmes sur place il n’y avait rien. Il me dit alors: «Tu as touché un arbre». J’ai regardé partout: il
-n’y avait aucune trace sur un arbre. J’ai poursuivi mes recherches. C’est à ce moment qu’il y eut
-un signe avertisseur. Il y avait une centaine d’hommes un peu plus haut que là où nous étions.
-Frère Palmer et les autres en sont témoins. Frère Welch Evans était aussi là avec son garçon
-Ronnie. (Je crois que je lui ai téléphoné il y a un certain temps.) Une quantité d’hommes étaient
-montés plus haut que là où nous étions, dans ce qu’on appelle un “camp de vaches”, là où se
-tiennent les cow-boys pour garder les troupeaux de vaches séparés les uns des autres. Autrefois
-j’allais dans ce camp moi-même pour m’occuper du bétail et garder les troupeaux séparés.
-78 Il y avait là-haut une centaines d’hommes environ. Mais chacun sait que dans ce pays quand
-la radio annonce une tempête il vaut mieux s’en aller immédiatement. C’est pourquoi frère Palmer
-et les autres étaient partis plus tôt, n’ayant qu’une voiture à trois vitesses. Il fallait qu’ils quittent cet
-endroit à cause du mauvais temps car vous savez, autrement on peut rester bloqués là pendant
-des semaines. Les prévisions météorologiques, les journaux et la radio avaient annoncé une
-tempête de neige. Un groupe après l’autre, ils partirent pratiquement tous de ce camp là-haut
-parce qu’ils savaient que c’était le moment.
-79 Mais mes frères avaient un permis de chasse pour deux cerfs et ne voulaient pas partir. J’ai
-donc dit: «Nous resterons!». Mais j’avais une réunion six jours plus tard et devais rentrer à Tucson.
-80 Ainsi ma petite femme… Nous sommes mariés depuis vingt-deux ans. Et depuis vingt ans
-pour notre anniversaire de mariage je suis toujours monté là. J’ai là un petit coin où je me retire
-toujours pour prier, et il ressemble à l’endroit où je l’avais amenée.
-81 Vous voyez, je n’avais pas assez d’argent pour faire à la fois une expédition de chasse et un
-voyage de noces, alors j’ai pris ma femme avec moi à la chasse en guise de voyage de noces.
-Nous étions à New York et je me rappelle l’avoir aidée à enjamber des troncs et autres obstacles
-et l’avoir conduite à cet endroit. J’ai un petit coin là-bas et je pense toujours à elle quand j’y vais le
-jour de notre anniversaire de mariage, le 23 octobre. C’est le jour de l’ouverture de la chasse, et
-depuis vingt ans je n’ai jamais été à la maison ce jour-là, mais toujours là-haut.
-82 Ainsi donc ce jour était notre anniversaire. Le soir, autour du feu de camp, je dis aux frères:
-«Si vous voulez rester, rappelez-vous que nous pouvons être bloqués ici pendant un mois!». Car
-j’ai vu six mètres de neige tomber d’une seule nuit. Un jour il fait beau et sec, le lendemain la neige
-est haute comme cela, peut-être jusqu’à dépasser le toit de votre tente. Alors il faut rester jusqu’à
-ce qu’elle ait fondu. Vous êtes loin de tout. En cas d’urgence ils envoient un hélicoptère,
-naturellement. Mais en général personne ne périt et il ne vous reste plus qu’à attendre là.
-83 Après avoir entendu les prévisions du temps tout le monde fila en vitesse. Il ne restait plus
-que nous et je dis aux frères: «Maintenant décidez-vous. Si vous voulez rester, je reste avec vous
-pour chasser et je téléphone à ma femme pour lui souhaiter un bon anniversaire. J’irai aussi
-acheter des victuailles parce que nous risquons de devoir rester ici. Nous avons manqué de pain
-la dernière fois et je ne veux plus voir encore de ces crêpes! Oh, ces crêpes! J’en ai mangé au
-Canada pendant vingt-et-un jours et j’en ai par-dessus la tête!». Je voulais me procurer du pain.
-
-        http://www.cmpp.ch
+73 Je lui répondis: «Allez le chercher». Moi, j’étais à Tucson. Elle posa sa main sur le mouchoir pendant que je priai, réprimandant la maladie. Puis je dis: «Soeur Roberson, cette maladie va s’en aller!».
+74 Quelque chose me dit simplement: «Cette maladie va s’en aller; dis-le!». Et dans la demi-heure, la fièvre était partie et le frère était dans la cuisine, cherchant quelque chose à manger. Vous voyez? Vous voyez?
+75 Voilà ce que j’essaie de vous dire: «Ne perdez jamais confiance!». Ne laissez pas Satan vous parler en mal de moi malgré qu’il y aurait beaucoup à en dire! Mais gardez cette confiance, sans quoi cela n’arrivera pas. Ne regardez pas à moi en tant qu’homme. Je suis un homme, je fais beaucoup d’erreurs; mais regardez à ce que je dis de Lui. C’est de Lui qu’il s’agit, c’est Lui qui compte!
+76 Quand nous retournâmes au Colorado, la saison avait été très sèche. Le gibier était rare. Le Seigneur bénit frère Wheeler et lui donna un beau trophée. Nous en étions si heureux car c’était la première fois qu’il allait à la chasse dans les bois. Le Seigneur le bénit. Puis moi aussi j’eus un grand trophée comme j’en désirais depuis vingt ans! Il y a longtemps que frère Banks et moi en cherchions un. Mais passant d’une région chaude à une région froide, mon fusil s’était déréglé et j’atteignis l’animal, qui se tenait entre deux arbres, plus bas qu’il n’aurait fallu pour le tuer sur le coup. Mais malgré que je l’ai touché si haut, il fit un bond et sembla tomber ainsi.
+77 Billy qui était avec moi dit: «Tu l’as eu». Je le croyais moi aussi. Mais quand nous nous rendîmes sur place il n’y avait rien. Il me dit alors: «Tu as touché un arbre». J’ai regardé partout: il n’y avait aucune trace sur un arbre. J’ai poursuivi mes recherches. C’est à ce moment qu’il y eut un signe avertisseur. Il y avait une centaine d’hommes un peu plus haut que là où nous étions. Frère Palmer et les autres en sont témoins. Frère Welch Evans était aussi là avec son garçon Ronnie. (Je crois que je lui ai téléphoné il y a un certain temps.) Une quantité d’hommes étaient montés plus haut que là où nous étions, dans ce qu’on appelle un “camp de vaches”, là où se tiennent les cow-boys pour garder les troupeaux de vaches séparés les uns des autres. Autrefois j’allais dans ce camp moi-même pour m’occuper du bétail et garder les troupeaux séparés.
+78 Il y avait là-haut une centaines d’hommes environ. Mais chacun sait que dans ce pays quand la radio annonce une tempête il vaut mieux s’en aller immédiatement. C’est pourquoi frère Palmer et les autres étaient partis plus tôt, n’ayant qu’une voiture à trois vitesses. Il fallait qu’ils quittent cet endroit à cause du mauvais temps car vous savez, autrement on peut rester bloqués là pendant des semaines. Les prévisions météorologiques, les journaux et la radio avaient annoncé une tempête de neige. Un groupe après l’autre, ils partirent pratiquement tous de ce camp là-haut parce qu’ils savaient que c’était le moment.
+79 Mais mes frères avaient un permis de chasse pour deux cerfs et ne voulaient pas partir. J’ai donc dit: «Nous resterons!». Mais j’avais une réunion six jours plus tard et devais rentrer à Tucson.
+80 Ainsi ma petite femme… Nous sommes mariés depuis vingt-deux ans. Et depuis vingt ans pour notre anniversaire de mariage je suis toujours monté là. J’ai là un petit coin où je me retire toujours pour prier, et il ressemble à l’endroit où je l’avais amenée.
+81 Vous voyez, je n’avais pas assez d’argent pour faire à la fois une expédition de chasse et un voyage de noces, alors j’ai pris ma femme avec moi à la chasse en guise de voyage de noces. Nous étions à New York et je me rappelle l’avoir aidée à enjamber des troncs et autres obstacles et l’avoir conduite à cet endroit. J’ai un petit coin là-bas et je pense toujours à elle quand j’y vais le jour de notre anniversaire de mariage, le 23 octobre. C’est le jour de l’ouverture de la chasse, et depuis vingt ans je n’ai jamais été à la maison ce jour-là, mais toujours là-haut.
+82 Ainsi donc ce jour était notre anniversaire. Le soir, autour du feu de camp, je dis aux frères: «Si vous voulez rester, rappelez-vous que nous pouvons être bloqués ici pendant un mois!». Car j’ai vu six mètres de neige tomber d’une seule nuit. Un jour il fait beau et sec, le lendemain la neige est haute comme cela, peut-être jusqu’à dépasser le toit de votre tente. Alors il faut rester jusqu’à ce qu’elle ait fondu. Vous êtes loin de tout. En cas d’urgence ils envoient un hélicoptère, naturellement. Mais en général personne ne périt et il ne vous reste plus qu’à attendre là.
+83 Après avoir entendu les prévisions du temps tout le monde fila en vitesse. Il ne restait plus que nous et je dis aux frères: «Maintenant décidez-vous. Si vous voulez rester, je reste avec vous pour chasser et je téléphone à ma femme pour lui souhaiter un bon anniversaire. J’irai aussi acheter des victuailles parce que nous risquons de devoir rester ici. Nous avons manqué de pain la dernière fois et je ne veux plus voir encore de ces crêpes! Oh, ces crêpes! J’en ai mangé au Canada pendant vingt-et-un jours et j’en ai par-dessus la tête!». Je voulais me procurer du pain.
 
 CELUI QUI EST EN VOUS 11
-84 Ils dirent qu’ils désiraient rester. Il n’y avait donc rien d’autre à faire que de rester. Frère Mann
-et moi descendîmes acheter les provisions. J’appelai ma femme au téléphone, mais il n’y eut pas
-de réponse. J’attendis environ une heure pendant laquelle nous achetâmes nos marchandises,
-puis je retournai téléphoner, toujours sans résultat. Alors j’appelai la soeur Evans (je crois qu’elle
-est ici). Oui, frère et soeur Evans sont ici.
-85 Soeur Evans me dit: «J’appellerai soeur Branham et lui souhaiterai un bon anniversaire de
-votre part!». Elle était sortie acheter de la nourriture pour les enfants. Nous revînmes au camp. Le
-matin suivant, qu’y avait-il dans le ciel? Des nuages! Il n’avait pas plu de tout l’automne et tout
-était vraiment sec. En raison de la sécheresse la saison de la chasse fut prolongée de quelques
-jours.
-86 Ce matin-là je dis aux frères: «A la première goutte de pluie, au premier flocon de neige, au
-premier grésil, revenez au camp au grand galop parce que quinze minutes plus tard vous ne
-verrez plus votre main devant vous parce qu’alors vous serez en pleine tourmente et vous auriez
-beau connaître parfaitement ce pays, si vous restez là vous périrez. Parfois on ne peut même pas
-respirer tant est fort ce grésil, et vous mourez sur place». J’ajoutai: «Dès que ce grésil commence,
-filez vers le camp aussi vite que vous le pouvez, où que vous soyez».
-87 Je leur dis: «Montez là-haut et postez-vous dans les ravins. Je monterai tout en haut et ferai
-rouler des cailloux pour effrayer les cerfs afin qu’ils descendent et vous tirerez ce que vous
-voudrez».
-88 Alors je commençai à monter là-haut et j’arrivai à un endroit que nous appelons “la Selle”, un
-petit coin que je traverse toujours pour aller à un endroit appelé “Quakeknob” qui se trouve juste
-sur la ligne de partage des eaux à une altitude passablement élevée. Au moment où j’étais
-presque arrivé à cette petite “Selle”, les nuages devinrent de plus en plus noirs. Toutes les voitures
-étaient parties, il ne restait plus là-haut que nous et les cow-boys du camp. Cela empirait et
-quelques minutes plus tard, la pluie se mit à tomber. Je mis mon fusil à l’abri sous mon manteau
-pour que la lunette ne s’embue pas et que la monture ne soit pas mouillée. Je croisai la trace d’un
-ours ou de quelque chose qui passait par là, alors je tins mon viseur ainsi et allai m’asseoir un
-moment sous un arbre. Je me mis à prier: «Seigneur Dieu, Tu es le grand Jéhovah et je T’aime».
-89 Combien d’expériences n’ai-je pas faites! J’indiquai au frère Palmer et aux autres frères
-l’endroit où j’avais vu une fois l’aigle s’élever. Vous savez, c’est l’endroit où toutes ces choses sont
-arrivées. Pour moi, être là-bas est une question de tempérament. J’ai fait tant d’expériences
-glorieuses avec mon Seigneur dans ces montagnes! Je ne peux pas monter là-haut sans Le voir. Il
-est simplement partout!
-90 Du grésil se mit à tomber et le vent commença à tourbillonner comme cela. Je me dis: «Eh
-bien, même si je connais le chemin pour redescendre, il vaut mieux me mettre en route
-immédiatement».
-91 Je regardai vers le bas mais ne pouvais même pas voir le fond de la vallée à cause des
-nuages qui se tordaient et tourbillonnaient et de ce grésil qui chassait. La tempête était là! Depuis
-plusieurs jours les prévisions du temps avaient annoncé l’arrivée d’une grosse tempête de neige.
-92 Le frère Tom Simpson est ici, venant du Canada. Il entendit les prévisions météorologiques et
-on lui conseilla d’éviter cette région car on prévoyait une tempête de neige. Où êtes-vous frère
-Tom? Ah, ici! La tempête arrivait et chacun avait pris ses dispositions.
-93 Je cachai mon fusil sous ma chemise rouge et entrepris la descente. J’étais alors à un
-demi-mile de la “Selle”; la neige tombait à gros flocons comme ceci et le vent soufflait et
-tourbillonnait dans la montagne. Je ne voyais plus le fond de la vallée. Je pouvais voir tout au plus
-à vingt ou trente pieds devant moi. Je savais que je devais arriver à cette petite arête que nous
-appelions le dos d’âne, puis suivre un ruisseau. Ensuite, je savais où me diriger si le temps se
-gâtait vraiment trop.
-94 Je me mis en route et quand j’étais à mi-chemin de la descente, Quelque chose me dit aussi
-clairement que vous pouvez m’entendre maintenant: «Arrête et retourne d’où tu viens!».
-95 Je me dis: «A quoi est-ce que je pense? Ce n’est peut-être que dans ma pensée!». Mais je ne
-pouvais simplement plus avancer d’un seul pas.
-96 Ce matin-là, David m’avait remis un sandwich. Je crois qu’il cherchait à me rendre la pareille
-parce qu’un jour j’avais préparé pour son père un sandwich à l’oignon et au miel (je crois que
-c’était tout ce que nous avions). Il m’avait fait une farce et oh, je ne savais pas du tout ce qu’il y
+84 Ils dirent qu’ils désiraient rester. Il n’y avait donc rien d’autre à faire que de rester. Frère Mann et moi descendîmes acheter les provisions. J’appelai ma femme au téléphone, mais il n’y eut pas de réponse. J’attendis environ une heure pendant laquelle nous achetâmes nos marchandises, puis je retournai téléphoner, toujours sans résultat. Alors j’appelai la soeur Evans (je crois qu’elle est ici). Oui, frère et soeur Evans sont ici.
+85 Soeur Evans me dit: «J’appellerai soeur Branham et lui souhaiterai un bon anniversaire de votre part!». Elle était sortie acheter de la nourriture pour les enfants. Nous revînmes au camp. Le matin suivant, qu’y avait-il dans le ciel? Des nuages! Il n’avait pas plu de tout l’automne et tout était vraiment sec. En raison de la sécheresse la saison de la chasse fut prolongée de quelques jours.
+86 Ce matin-là je dis aux frères: «A la première goutte de pluie, au premier flocon de neige, au premier grésil, revenez au camp au grand galop parce que quinze minutes plus tard vous ne verrez plus votre main devant vous parce qu’alors vous serez en pleine tourmente et vous auriez beau connaître parfaitement ce pays, si vous restez là vous périrez. Parfois on ne peut même pas respirer tant est fort ce grésil, et vous mourez sur place». J’ajoutai: «Dès que ce grésil commence, filez vers le camp aussi vite que vous le pouvez, où que vous soyez».
+87 Je leur dis: «Montez là-haut et postez-vous dans les ravins. Je monterai tout en haut et ferai rouler des cailloux pour effrayer les cerfs afin qu’ils descendent et vous tirerez ce que vous voudrez».
+88 Alors je commençai à monter là-haut et j’arrivai à un endroit que nous appelons “la Selle”, un petit coin que je traverse toujours pour aller à un endroit appelé “Quakeknob” qui se trouve juste sur la ligne de partage des eaux à une altitude passablement élevée. Au moment où j’étais presque arrivé à cette petite “Selle”, les nuages devinrent de plus en plus noirs. Toutes les voitures étaient parties, il ne restait plus là-haut que nous et les cow-boys du camp. Cela empirait et quelques minutes plus tard, la pluie se mit à tomber. Je mis mon fusil à l’abri sous mon manteau pour que la lunette ne s’embue pas et que la monture ne soit pas mouillée. Je croisai la trace d’un ours ou de quelque chose qui passait par là, alors je tins mon viseur ainsi et allai m’asseoir un moment sous un arbre. Je me mis à prier: «Seigneur Dieu, Tu es le grand Jéhovah et je T’aime».
+89 Combien d’expériences n’ai-je pas faites! J’indiquai au frère Palmer et aux autres frères l’endroit où j’avais vu une fois l’aigle s’élever. Vous savez, c’est l’endroit où toutes ces choses sont arrivées. Pour moi, être là-bas est une question de tempérament. J’ai fait tant d’expériences glorieuses avec mon Seigneur dans ces montagnes! Je ne peux pas monter là-haut sans Le voir. Il est simplement partout!
+90 Du grésil se mit à tomber et le vent commença à tourbillonner comme cela. Je me dis: «Eh bien, même si je connais le chemin pour redescendre, il vaut mieux me mettre en route immédiatement».
+91 Je regardai vers le bas mais ne pouvais même pas voir le fond de la vallée à cause des nuages qui se tordaient et tourbillonnaient et de ce grésil qui chassait. La tempête était là! Depuis plusieurs jours les prévisions du temps avaient annoncé l’arrivée d’une grosse tempête de neige.
+92 Le frère Tom Simpson est ici, venant du Canada. Il entendit les prévisions météorologiques et on lui conseilla d’éviter cette région car on prévoyait une tempête de neige. Où êtes-vous frère Tom? Ah, ici! La tempête arrivait et chacun avait pris ses dispositions.
+93 Je cachai mon fusil sous ma chemise rouge et entrepris la descente. J’étais alors à un demi-mile de la “Selle”; la neige tombait à gros flocons comme ceci et le vent soufflait et tourbillonnait dans la montagne. Je ne voyais plus le fond de la vallée. Je pouvais voir tout au plus à vingt ou trente pieds devant moi. Je savais que je devais arriver à cette petite arête que nous appelions le dos d’âne, puis suivre un ruisseau. Ensuite, je savais où me diriger si le temps se gâtait vraiment trop.
+94 Je me mis en route et quand j’étais à mi-chemin de la descente, Quelque chose me dit aussi clairement que vous pouvez m’entendre maintenant: «Arrête et retourne d’où tu viens!».
+95 Je me dis: «A quoi est-ce que je pense? Ce n’est peut-être que dans ma pensée!». Mais je ne pouvais simplement plus avancer d’un seul pas.
+96 Ce matin-là, David m’avait remis un sandwich. Je crois qu’il cherchait à me rendre la pareille parce qu’un jour j’avais préparé pour son père un sandwich à l’oignon et au miel (je crois que c’était tout ce que nous avions). Il m’avait fait une farce et oh, je ne savais pas du tout ce qu’il y
 
         http://www.cmpp.ch
 
 CELUI QUI EST EN VOUS 12
-avait dans ce paquet. Je l’avais caché dans ma chemise, mais maintenant il était tout mouillé. J’ai
-pensé: «Je vais m’arrêter et le manger. Après, cela ira mieux». Je sortis mon sandwich et le
-mangeai. Il était environ dix heures. Pendant ce temps je pensai: «Maintenant cela ira!». Je
-recommençai à descendre, mais Quelque chose me dit: «Retourne d’où tu viens».
-97 Retourner dans cette tempête? Remonter un demi-mile ou plus dans la montagne, dans ces
-bois sombres où l’on n’y voit pas plus loin que d’ici à cet orgue? Je suis en train de devenir un
-vieillard et il y a maintenant trente-trois ans que je suis un chrétien et je sais que, si ridicule que
-cela puisse paraître, il faut toujours prêter attention à ce que dit le Seigneur. Faites ce que le
-Seigneur dit!
-98 Je remontai jusqu’à la “Selle” en cherchant mon chemin. Il tombait de plus en plus de cette
-neige mêlée de pluie et il faisait de plus en plus sombre. Je m’assis, rajustai ma veste et cachai de
-nouveau mon viseur sous ma chemise. Je pensai: «Qu’est-ce que je fais ici? Pourquoi dois-je
-revenir ici?».
-99 J’attendis quelques minutes. J’étais en train de me relever quand j’entendis clairement une
-Voix qui dit: «Je suis le Créateur des cieux et de la terre. C’est moi qui crée le vent et la pluie».
-J’ôtai mon chapeau.
+avait dans ce paquet. Je l’avais caché dans ma chemise, mais maintenant il était tout mouillé. J’ai pensé: «Je vais m’arrêter et le manger. Après, cela ira mieux». Je sortis mon sandwich et le mangeai. Il était environ dix heures. Pendant ce temps je pensai: «Maintenant cela ira!». Je recommençai à descendre, mais Quelque chose me dit: «Retourne d’où tu viens».
+97 Retourner dans cette tempête? Remonter un demi-mile ou plus dans la montagne, dans ces bois sombres où l’on n’y voit pas plus loin que d’ici à cet orgue? Je suis en train de devenir un vieillard et il y a maintenant trente-trois ans que je suis un chrétien et je sais que, si ridicule que cela puisse paraître, il faut toujours prêter attention à ce que dit le Seigneur. Faites ce que le Seigneur dit!
+98 Je remontai jusqu’à la “Selle” en cherchant mon chemin. Il tombait de plus en plus de cette neige mêlée de pluie et il faisait de plus en plus sombre. Je m’assis, rajustai ma veste et cachai de nouveau mon viseur sous ma chemise. Je pensai: «Qu’est-ce que je fais ici? Pourquoi dois-je revenir ici?».
+99 J’attendis quelques minutes. J’étais en train de me relever quand j’entendis clairement une Voix qui dit: «Je suis le Créateur des cieux et de la terre. C’est moi qui crée le vent et la pluie». J’ôtai mon chapeau.
 100 Je dis: «Glorieux Jéhovah, est-ce Toi?».
-101 Il répondit: «Je suis celui qui a fait cesser le vent sur la mer, je suis celui qui a apaisé les
-vagues. C’est moi qui ai créé les cieux et la terre. N’est-ce pas moi qui t’ai dit de demander des
-écureuils et ils sont venus à l’existence? Je suis Dieu».
-102 Quand une voix vous parle, observez l’Ecriture. Si ce n’est pas scripturaire, laissez
-tomber. Même si cela est exprimé, restez éloignés de cela!
+101 Il répondit: «Je suis celui qui a fait cesser le vent sur la mer, je suis celui qui a apaisé les vagues. C’est moi qui ai créé les cieux et la terre. N’est-ce pas moi qui t’ai dit de demander des écureuils et ils sont venus à l’existence? Je suis Dieu».
+102 Quand une voix vous parle, observez l’Ecriture. Si ce n’est pas scripturaire, laissez tomber. Même si cela est exprimé, restez éloignés de cela!
 103 Je répondis: «Oui Seigneur».
-104 Il dit: «Parle à ces vents dans cette tempête et ils s’en iront». Or, cette Bible est là devant moi
-et toute ma vie est en Elle.
-105 Je me levai et dis: «Je ne doute pas de ta Voix, Seigneur». Puis je dis: «Nuages, neige, pluie,
-grésil je suis fâché de votre venue. Au Nom de Jésus-Christ, retournez chez vous! Je commande
-au soleil de venir immédiatement et de briller pendant quatre jours jusqu’à ce que notre partie de
-chasse soit terminée et que je parte avec mes frères».
-106 Le vent soufflait de toutes ses forces. Puis il commença à diminuer, devint de plus en plus
-faible et s’arrêta!
-107 Je demeurai immobile. Mes frères là-haut se demandaient ce qui se passait. Le grésil et la
-pluie avaient cessé. Un vent tourbillonnant se leva qui chassa les nuages dans toutes les
-directions, à l’est, au nord, à l’ouest et au sud. En quelques minutes le soleil brilla, radieux et
-chaud. C’est la vérité! Dieu sait que c’est la vérité! Je restais simplement là à regarder, mon
-chapeau à la main.
+104 Il dit: «Parle à ces vents dans cette tempête et ils s’en iront». Or, cette Bible est là devant moi et toute ma vie est en Elle.
+105 Je me levai et dis: «Je ne doute pas de ta Voix, Seigneur». Puis je dis: «Nuages, neige, pluie, grésil je suis fâché de votre venue. Au Nom de Jésus-Christ, retournez chez vous! Je commande au soleil de venir immédiatement et de briller pendant quatre jours jusqu’à ce que notre partie de chasse soit terminée et que je parte avec mes frères».
+106 Le vent soufflait de toutes ses forces. Puis il commença à diminuer, devint de plus en plus faible et s’arrêta!
+107 Je demeurai immobile. Mes frères là-haut se demandaient ce qui se passait. Le grésil et la pluie avaient cessé. Un vent tourbillonnant se leva qui chassa les nuages dans toutes les directions, à l’est, au nord, à l’ouest et au sud. En quelques minutes le soleil brilla, radieux et chaud. C’est la vérité! Dieu sait que c’est la vérité! Je restais simplement là à regarder, mon chapeau à la main.
 108 J’étais tout engourdi.
-109 Je pensai: «Le Dieu même de la création. Tout est dans Sa main! Qu’est-Il en train de me dire
-par là?».
-110 Je ramassai mon fusil, essuyai la lunette et me mis à descendre la montagne. Quelque chose
-me dit: «Pourquoi ne ferais-tu pas une promenade avec moi dans ce désert, pourquoi ne
-marcherais-tu pas avec moi?».
-111 Je répondis: «Oui Seigneur, de tout mon coeur. Marcher avec Toi est une des choses les plus
-glorieuses que je pourrais faire». Je mis mon fusil sur l’épaule et commençai à descendre à
-travers cette forêt vierge, où jamais la hache n’avait été portée.
-112 Tout en suivant des pistes de gibier je pensai: «Hier était notre anniversaire de mariage. Je
-vais aller à notre endroit juste un moment pour adresser en pensée un petit salut à Meda, sur ce
-monticule où se dresse un petit bosquet de trembles. Je crois que je vais aller jusque-là en
-souvenir de notre anniversaire. Puis je redescendrai en contournant ces bois épais et me dirigerai
-vers Corral Peaks en retournant par ce chemin». Je marchais simplement et me réjouissais.
-113 Je disais: «Père, je sais que Tu marches avec moi; quel privilège! Je ne pourrais pas marcher
-avec personne de plus grand! C’est Dieu Lui-même!». Et quel bon soleil brillait tandis que je
-quittais les montagnes!
+109 Je pensai: «Le Dieu même de la création. Tout est dans Sa main! Qu’est-Il en train de me dire par là?».
+110 Je ramassai mon fusil, essuyai la lunette et me mis à descendre la montagne. Quelque chose me dit: «Pourquoi ne ferais-tu pas une promenade avec moi dans ce désert, pourquoi ne marcherais-tu pas avec moi?».
+111 Je répondis: «Oui Seigneur, de tout mon coeur. Marcher avec Toi est une des choses les plus glorieuses que je pourrais faire». Je mis mon fusil sur l’épaule et commençai à descendre à travers cette forêt vierge, où jamais la hache n’avait été portée.
+112 Tout en suivant des pistes de gibier je pensai: «Hier était notre anniversaire de mariage. Je vais aller à notre endroit juste un moment pour adresser en pensée un petit salut à Meda, sur ce monticule où se dresse un petit bosquet de trembles. Je crois que je vais aller jusque-là en souvenir de notre anniversaire. Puis je redescendrai en contournant ces bois épais et me dirigerai vers Corral Peaks en retournant par ce chemin». Je marchais simplement et me réjouissais.
+113 Je disais: «Père, je sais que Tu marches avec moi; quel privilège! Je ne pourrais pas marcher avec personne de plus grand! C’est Dieu Lui-même!». Et quel bon soleil brillait tandis que je quittais les montagnes!
 
         http://www.cmpp.ch
 
 CELUI QUI EST EN VOUS 13
-114 Trois jours plus tard je m’arrêtai à une station d’essence et dis: «Belle journée, n’est-ce
-pas?». Il n’avait pas plu dans cette région avant la fin des quatre jours. Le soleil avait brillé chaque
-jour. N’est-ce pas vrai frères? Il n’y avait pas eu un nuage dans le ciel!
+114 Trois jours plus tard je m’arrêtai à une station d’essence et dis: «Belle journée, n’est-ce pas?». Il n’avait pas plu dans cette région avant la fin des quatre jours. Le soleil avait brillé chaque jour. N’est-ce pas vrai frères? Il n’y avait pas eu un nuage dans le ciel!
 115 En arrivant à la station d’essence je dis: «C’est vraiment une belle journée!».
      — «Certainement».
      — «Il a fait terriblement sec!».
-116 L’employé répondit: «Il s’est passé quelque chose d’étrange, vous savez Ils avaient annoncé
-une grande tempête de neige, mais tout à coup elle s’est arrêtée».
-117 Je descendis avec mon fils Billy pour faire quelques achats près de la frontière du Nouveau
-Mexique. Le matin, avant de partir, je dis à l’employé du magasin: «Nous avons eu une belle
-journée!».
+116 L’employé répondit: «Il s’est passé quelque chose d’étrange, vous savez Ils avaient annoncé une grande tempête de neige, mais tout à coup elle s’est arrêtée».
+117 Je descendis avec mon fils Billy pour faire quelques achats près de la frontière du Nouveau Mexique. Le matin, avant de partir, je dis à l’employé du magasin: «Nous avons eu une belle journée!».
      — «Oui, en effet».
      — «On dirait qu’il a fait passablement sec».
      — «Oui, c’est vrai».
      — «Etes-vous d’ici?».
-118 — «Non, je viens du Wisconsin, mais je suis ici depuis vingt ans, c’est pourquoi je crois
-pouvoir dire que je suis ici chez moi». Je lui dis: «Alors vous êtes d’ici?». Il me dit: «Bien sûr!»
+118 — «Non, je viens du Wisconsin, mais je suis ici depuis vingt ans, c’est pourquoi je crois pouvoir dire que je suis ici chez moi». Je lui dis: «Alors vous êtes d’ici?». Il me dit: «Bien sûr!»
 119 Alors je remarquai: «On dirait qu’il y a eu beaucoup de poussière».
-120 Il me répondit: «Vous savez, il s’est passé la chose la plus étrange. Les prévisions du temps
-avaient annoncé une tempête et beaucoup de neige. Cela a réellement commencé, puis cela s’est
-arrêté!».
+120 Il me répondit: «Vous savez, il s’est passé la chose la plus étrange. Les prévisions du temps avaient annoncé une tempête et beaucoup de neige. Cela a réellement commencé, puis cela s’est arrêté!».
 121 Je dis: «Pas possible!».
-122 Puis je rentrai à la maison. Frère Tom dit qu’on l’avait averti de ne pas aller de ce côté car on
-attendait une tempête de neige. Mais il a pu traverser toute la région sans recevoir la moindre
-goutte de pluie! Dieu est toujours Dieu, vous voyez, comme Il l’a toujours été! Vous comprenez?
-123 J’espère que ma femme n’entendra pas cette partie de l’enregistrement. Mais je vais vous
-raconter quelque chose. Je ne fais que vous dire la vérité. C’est la seule manière de dire les
-choses. Je me suis souvent demandé pourquoi elle ne se plaint jamais quand je pars pour la
-chasse un jour d’anniversaire. Vous savez ce que je me suis dit? «Il y a tellement de monde à la
-maison. Et vous savez comme je suis toujours nerveux. Je n’aime parler que de Dieu, de la Bible
-et des choses comme cela. Peut-être qu’elle pense que cela lui donne un peu de repos. Alors elle
-m’envoie quelques jours à la chasse. C’est un peu mon impression quand j’y vais».
-124 Je lui ferai des excuses. Je demanderai à Dieu de me pardonner de telles pensées! C’est une
-travailleuse, vous savez. Elle est toujours à la cuisine ou occupée à quelque chose.
-125 Ceux de vous qui la connaissent savent que la machine à laver ne s’arrête jamais! Moi, je lui
-dis: «Ne lave pas tout le temps! Parle-moi! Tu sais que je t’aime et j’aimerais que tu me dises
-quelque chose. Dis-moi que tu m’aimes, toi aussi!».
+122 Puis je rentrai à la maison. Frère Tom dit qu’on l’avait averti de ne pas aller de ce côté car on attendait une tempête de neige. Mais il a pu traverser toute la région sans recevoir la moindre goutte de pluie! Dieu est toujours Dieu, vous voyez, comme Il l’a toujours été! Vous comprenez?
+123 J’espère que ma femme n’entendra pas cette partie de l’enregistrement. Mais je vais vous raconter quelque chose. Je ne fais que vous dire la vérité. C’est la seule manière de dire les choses. Je me suis souvent demandé pourquoi elle ne se plaint jamais quand je pars pour la chasse un jour d’anniversaire. Vous savez ce que je me suis dit? «Il y a tellement de monde à la maison. Et vous savez comme je suis toujours nerveux. Je n’aime parler que de Dieu, de la Bible et des choses comme cela. Peut-être qu’elle pense que cela lui donne un peu de repos. Alors elle m’envoie quelques jours à la chasse. C’est un peu mon impression quand j’y vais».
+124 Je lui ferai des excuses. Je demanderai à Dieu de me pardonner de telles pensées! C’est une travailleuse, vous savez. Elle est toujours à la cuisine ou occupée à quelque chose.
+125 Ceux de vous qui la connaissent savent que la machine à laver ne s’arrête jamais! Moi, je lui dis: «Ne lave pas tout le temps! Parle-moi! Tu sais que je t’aime et j’aimerais que tu me dises quelque chose. Dis-moi que tu m’aimes, toi aussi!».
 126 Elle répond: «Tu sais bien que je t’aime», puis se remet à laver de plus belle.
-127 — «Je ne voudrais pas que tu fasses cela. J’aimerais que tu viennes ici t’asseoir près de
-moi».
+127 — «Je ne voudrais pas que tu fasses cela. J’aimerais que tu viennes ici t’asseoir près de moi».
 128 — «Oh Bill, j’ai tellement de travail maintenant!».
-129 Alors j’ai pensé: «Va là-bas, qu’elle ait le temps de faire son travail». Et je suis parti en
-pensant cela. Rappelez-vous que j’ai placé cette Bible ici afin que vous voyiez que je me tiens
-devant la Parole.
-130 Alors que je marchais, quelque chose m’arriva. Je pensais au temps où je l’emmenai là-haut
-en voyage de noce. Elle était jolie, petite, avec des cheveux noirs et des yeux bruns. Je la portais
-au-dessus des troncs et m’efforçais de l’amener jusqu’à l’endroit où j’avais tué un ours. Je voulais
-montrer cet endroit à ma femme. Elle avait mis mes bottes de cow-boy (il y a de cela vingt-deux
-ans, je crois. Nous nous sommes mariés en 1941. Je la portais pour passer sur les troncs.)
-131 Je pensai: «Pauvre petite compagne qui a dû me supporter pendant tout ce temps! Elle a
-maintenant les cheveux gris!». Je ne m’étais pas rasé plusieurs jours et je m’aperçus que ma
-barbe était grise. Et j’ai pensé: «Eh bien, mon vieux, tu es bientôt au bout! Si tu veux faire quelque
-chose, tu ferais bien de te dépêcher, tu vieillis toi aussi!».
+129 Alors j’ai pensé: «Va là-bas, qu’elle ait le temps de faire son travail». Et je suis parti en pensant cela. Rappelez-vous que j’ai placé cette Bible ici afin que vous voyiez que je me tiens devant la Parole.
+130 Alors que je marchais, quelque chose m’arriva. Je pensais au temps où je l’emmenai là-haut en voyage de noce. Elle était jolie, petite, avec des cheveux noirs et des yeux bruns. Je la portais au-dessus des troncs et m’efforçais de l’amener jusqu’à l’endroit où j’avais tué un ours. Je voulais montrer cet endroit à ma femme. Elle avait mis mes bottes de cow-boy (il y a de cela vingt-deux ans, je crois. Nous nous sommes mariés en 1941. Je la portais pour passer sur les troncs.)
+131 Je pensai: «Pauvre petite compagne qui a dû me supporter pendant tout ce temps! Elle a maintenant les cheveux gris!». Je ne m’étais pas rasé plusieurs jours et je m’aperçus que ma barbe était grise. Et j’ai pensé: «Eh bien, mon vieux, tu es bientôt au bout! Si tu veux faire quelque chose, tu ferais bien de te dépêcher, tu vieillis toi aussi!».
 
         http://www.cmpp.ch
 
 CELUI QUI EST EN VOUS 14
-132 Tandis que je poursuivais mon chemin il se passa quelque chose. Tout à coup et jusque dans
-les moindres détails je fus un jeune homme. J’avais les pensées d’un jeune homme. J’avais la tête
-baissée et en la relevant je vis, aussi clairement que si elle avait été là, Meda devant moi me
-tendant les bras. Je m’arrêtai, me frottai les yeux, regardai et dis: «Meda, est-ce toi ma chérie?».
-133 Je regardai là et me demandai: «Qu’est-il arrivé?» et je songeai: «Oui, je marche avec Lui».
-Puis tout changea. Je redevins un vieil homme: la vision m’avait quitté.
-134 Je m’arrêtai, enlevai mon chapeau et, le tenant sur mon coeur je dis: «Jésus, j’ai un tel
-fardeau sur le coeur depuis des années! Je n’ai pas besoin de Te le dire! Je me suis repenti, je me
-suis repenti, j’ai fait tout ce que je savais. Pourquoi ce fardeau ne me quitte-t-il pas?».
-135 Je me remis en route et me mis à escalader ce petit monticule qui se trouvait à environ trente
-à quarante yards devant moi. En montant je commençai à me sentir vraiment faible. Il y avait là un
-tremble épais d’une dizaine de pouces à la forme élancée comme une flèche. Je me sentis si
-fatigué que je trébuchai. J’avais remis ma casquette et je m’appuyai contre le tremble. En réalité
-c’est un peuplier, mais il ressemble plutôt à un bouleau. Je m’appuyai contre cet arbre. Je me
-tenais là, la tête baissée, laissant ce bon soleil me chauffer le dos. Et je pensai: «C’est ce même
-Dieu qui a chassé cette pluie et ce vent!».
+132 Tandis que je poursuivais mon chemin il se passa quelque chose. Tout à coup et jusque dans les moindres détails je fus un jeune homme. J’avais les pensées d’un jeune homme. J’avais la tête baissée et en la relevant je vis, aussi clairement que si elle avait été là, Meda devant moi me tendant les bras. Je m’arrêtai, me frottai les yeux, regardai et dis: «Meda, est-ce toi ma chérie?».
+133 Je regardai là et me demandai: «Qu’est-il arrivé?» et je songeai: «Oui, je marche avec Lui». Puis tout changea. Je redevins un vieil homme: la vision m’avait quitté.
+134 Je m’arrêtai, enlevai mon chapeau et, le tenant sur mon coeur je dis: «Jésus, j’ai un tel fardeau sur le coeur depuis des années! Je n’ai pas besoin de Te le dire! Je me suis repenti, je me suis repenti, j’ai fait tout ce que je savais. Pourquoi ce fardeau ne me quitte-t-il pas?».
+135 Je me remis en route et me mis à escalader ce petit monticule qui se trouvait à environ trente à quarante yards devant moi. En montant je commençai à me sentir vraiment faible. Il y avait là un tremble épais d’une dizaine de pouces à la forme élancée comme une flèche. Je me sentis si fatigué que je trébuchai. J’avais remis ma casquette et je m’appuyai contre le tremble. En réalité c’est un peuplier, mais il ressemble plutôt à un bouleau. Je m’appuyai contre cet arbre. Je me tenais là, la tête baissée, laissant ce bon soleil me chauffer le dos. Et je pensai: «C’est ce même Dieu qui a chassé cette pluie et ce vent!».
 136 Puis j’entendis comme un bruit: «Toc, toc, toc…».
-137 Je me demandai: «Qu’est-ce? Le vent a chassé la pluie, et le soleil brille. Qu’est-ce que ce
-clapotis?». Je regardai à terre. C’étaient des larmes qui ruisselaient sur mon visage et tombaient à
-travers ma barbe grise sur les feuilles sèches que Dieu avait séchées et qui étaient devant moi.
-J’étais appuyé ainsi, la tête contre l’arbre, une main pendante et l’autre tenant la courroie du fusil.
-Je me tenais ainsi et je pleurais.
-138 Je dis: «Oh, Seigneur, je ne suis pas digne d’être Ton serviteur. J’ai commis bien des erreurs.
-Ce n’est pas intentionnellement que j’ai commis des erreurs, Seigneur! Et Tu as été si bon pour
-moi!».
+137 Je me demandai: «Qu’est-ce? Le vent a chassé la pluie, et le soleil brille. Qu’est-ce que ce clapotis?». Je regardai à terre. C’étaient des larmes qui ruisselaient sur mon visage et tombaient à travers ma barbe grise sur les feuilles sèches que Dieu avait séchées et qui étaient devant moi. J’étais appuyé ainsi, la tête contre l’arbre, une main pendante et l’autre tenant la courroie du fusil. Je me tenais ainsi et je pleurais.
+138 Je dis: «Oh, Seigneur, je ne suis pas digne d’être Ton serviteur. J’ai commis bien des erreurs. Ce n’est pas intentionnellement que j’ai commis des erreurs, Seigneur! Et Tu as été si bon pour moi!».
 139 Mes yeux se fermèrent. J’entendis un martèlement de pas sur le sol.
-140 Je levai les yeux et vis arriver trois cerfs, juste en face de moi. Je pensai: «Un pour frère
-Evans, un pour les frères Wood…». Il y avait trois cerfs, vous voyez? Je me dis: «C’est juste ce
-que je cherchais et ils sont à bonne portée». Je tendis le bras vers mon fusil, puis me dis: «Je ne
-peux pas faire cela! J’ai promis à Dieu de ne pas le faire».
+140 Je levai les yeux et vis arriver trois cerfs, juste en face de moi. Je pensai: «Un pour frère Evans, un pour les frères Wood…». Il y avait trois cerfs, vous voyez? Je me dis: «C’est juste ce que je cherchais et ils sont à bonne portée». Je tendis le bras vers mon fusil, puis me dis: «Je ne peux pas faire cela! J’ai promis à Dieu de ne pas le faire».
 141 Mais quelque chose me dit: «Mais ils sont là!».
-142 Je pensai: «C’est ce que quelqu’un a dit un jour à David: C’est Dieu qui l’a livré entre tes
-mains!». Il s’agissait du roi Saül, vous savez.
+142 Je pensai: «C’est ce que quelqu’un a dit un jour à David: C’est Dieu qui l’a livré entre tes mains!». Il s’agissait du roi Saül, vous savez.
 143 Joab dit à David: “Tue-le, il est couché là!”.
 144 Mais David répondit: “Que Dieu me garde de lever la main contre Son oint!”.
-145 Ces cerfs se tenaient là et me regardaient. Je songeais: «Ils ne peuvent pas s’en aller. Ils
-n’ont aucune possibilité de s’en aller. Ils ne sont pas à trente yards et j’ai mon fusil! Je suis là et il y
-a trois cerfs! Non, je ne peux pas faire cela! Je ne le peux pas!». C’étaient une biche et deux
-grands faons. Je ne pouvais tout simplement pas prendre mon fusil. Je me dis: «Je ne peux pas!».
-Je ne fis pas un mouvement. Je restai là simplement. Je dis: «Je ne peux pas le faire parce que
-j’ai promis à Dieu de ne pas le faire. Ces frères n’ont pas besoin de ces cerfs. Je ne peux tout
-simplement pas!».
-146 Et cette biche qui s’approchait au pas… Maintenant écoutez ceci: Depuis quatre ou cinq jours
-une centaine d’hommes les pourchassaient. Ces bêtes sont-elles peureuses? La moindre trace de
-rouge les fait s’enfuir et j’avais une chemise et une casquette rouges! Mais elles étaient là toutes
-trois à me regarder bien en face.
-147 Je dis: «Petite maman, prends tes enfants et va dans les bois! Tu es à ma merci, ta vie est
-entre mes mains, mais je ne te ferai aucun mal. J’ai promis à Dieu de ne pas le faire». Elle
-s’approcha. Elle me regarda. Toutes trois s’approchèrent si près qu’elles auraient pu manger dans
-ma main. Puis le vent se mit à souffler droit sur elles. Elle fit demi-tour et les trois s’éloignèrent un
-peu.
-148 Puis elles revinrent, marchant droit sur moi. Je me tenais immobile. Je dis: «Retournez dans
-ces bois que j’aime aussi. Vivez! Votre vie est entre mes mains, mais je l’épargne. Vous ne
-pourriez pas m’échapper, et vous le savez». J’aurais pu les tuer toutes trois en trois secondes, le
+145 Ces cerfs se tenaient là et me regardaient. Je songeais: «Ils ne peuvent pas s’en aller. Ils n’ont aucune possibilité de s’en aller. Ils ne sont pas à trente yards et j’ai mon fusil! Je suis là et il y a trois cerfs! Non, je ne peux pas faire cela! Je ne le peux pas!». C’étaient une biche et deux grands faons. Je ne pouvais tout simplement pas prendre mon fusil. Je me dis: «Je ne peux pas!». Je ne fis pas un mouvement. Je restai là simplement. Je dis: «Je ne peux pas le faire parce que j’ai promis à Dieu de ne pas le faire. Ces frères n’ont pas besoin de ces cerfs. Je ne peux tout simplement pas!».
+146 Et cette biche qui s’approchait au pas… Maintenant écoutez ceci: Depuis quatre ou cinq jours une centaine d’hommes les pourchassaient. Ces bêtes sont-elles peureuses? La moindre trace de rouge les fait s’enfuir et j’avais une chemise et une casquette rouges! Mais elles étaient là toutes trois à me regarder bien en face.
+147 Je dis: «Petite maman, prends tes enfants et va dans les bois! Tu es à ma merci, ta vie est entre mes mains, mais je ne te ferai aucun mal. J’ai promis à Dieu de ne pas le faire». Elle s’approcha. Elle me regarda. Toutes trois s’approchèrent si près qu’elles auraient pu manger dans ma main. Puis le vent se mit à souffler droit sur elles. Elle fit demi-tour et les trois s’éloignèrent un peu.
+148 Puis elles revinrent, marchant droit sur moi. Je me tenais immobile. Je dis: «Retournez dans ces bois que j’aime aussi. Vivez! Votre vie est entre mes mains, mais je l’épargne. Vous ne pourriez pas m’échapper, et vous le savez». J’aurais pu les tuer toutes trois en trois secondes, le
 
         http://www.cmpp.ch
 
 CELUI QUI EST EN VOUS 15
-temps de faire feu et elles n’auraient pu échapper, placées ainsi devant moi. Mais je dis: «Je vous
-épargne. Allez! Vivez!». Je restai là. Elles s’en allèrent trottinant dans les bois.
-149 Je m’essuyai le visage ainsi et à ce moment même il se passa quelque chose! Une Voix
-parfaitement claire parla du ciel, de ce ciel bleu sans un nuage. Tout cela s’était passé très
-rapidement. La Voix me dit: «Tu t’es souvenu de ta promesse, n’est-ce pas?».
+temps de faire feu et elles n’auraient pu échapper, placées ainsi devant moi. Mais je dis: «Je vous épargne. Allez! Vivez!». Je restai là. Elles s’en allèrent trottinant dans les bois.
+149 Je m’essuyai le visage ainsi et à ce moment même il se passa quelque chose! Une Voix parfaitement claire parla du ciel, de ce ciel bleu sans un nuage. Tout cela s’était passé très rapidement. La Voix me dit: «Tu t’es souvenu de ta promesse, n’est-ce pas?».
 150 — «Oui, Seigneur».
-151 — «Alors moi aussi je me souviendrai de la mienne. Je ne te quitterai ne t’abandonnerai
-jamais!». Le fardeau quitta mon cœur. Il n’est jamais revenu. Puisse-t-il ne jamais revenir!
-152 Puis je rentrai à Tucson. Chose étrange, il ne s’est jamais passé au tant de choses depuis
-que j’y suis revenu. Je crois que c’est Dieu qui les gardait pour cette heure-là. Je pense que le
-moment est proche où quelque chose doit se passer.
-153 Si seulement nous pouvions recevoir cette vérité! Si, un instant seulement, nous pouvions
-nous rendre compte de ce que signifie cette Parole:
-       “… celui qui est en vous est plus grand que celui qui est dans le monde”. (Nous ne
-     pouvons comprendre cela, cependant nous disons que nous le croyons et nous savons
-     que c’est la vérité, mais en réalité nous ne le comprenons pas).
-       “… celui qui est en vous est plus grand que celui qui est dans le monde” (Qu’est-ce
-     qui est en vous et qui est plus grand? Christ, l’Oint! Dieu qui était en Christ est en vous.)
+151 — «Alors moi aussi je me souviendrai de la mienne. Je ne te quitterai ne t’abandonnerai jamais!». Le fardeau quitta mon cœur. Il n’est jamais revenu. Puisse-t-il ne jamais revenir!
+152 Puis je rentrai à Tucson. Chose étrange, il ne s’est jamais passé au tant de choses depuis que j’y suis revenu. Je crois que c’est Dieu qui les gardait pour cette heure-là. Je pense que le moment est proche où quelque chose doit se passer.
+153 Si seulement nous pouvions recevoir cette vérité! Si, un instant seulement, nous pouvions nous rendre compte de ce que signifie cette Parole:
+       “… celui qui est en vous est plus grand que celui qui est dans le monde”. (Nous ne pouvons comprendre cela, cependant nous disons que nous le croyons et nous savons que c’est la vérité, mais en réalité nous ne le comprenons pas.)
+       “… celui qui est en vous est plus grand que celui qui est dans le monde” (Qu’est-ce qui est en vous et qui est plus grand? Christ, l’Oint! Dieu qui était en Christ est en vous.)
        “… celui qui est en vous est plus grand que celui qui est dans le monde”.
-154 Alors s’Il est en vous, ce n’est plus vous qui vivez, c’est Lui qui vit en vous. Vous voyez? Ce
-n’est pas votre pensée, ce que vous pensez de ceci ou de cela. C’est ce que Lui en a dit.
-Comprenez-vous cela? Par conséquent s’Il est en vous Il ne reniera absolument pas ce qu’Il
-a dit. Il ne le pourrait pas! Mais Il maintiendra ce qu’Il a dit et Il essaie de trouver cette personne
-par le canal de laquelle Il puisse se confirmer.
-155 Mais cela ne veut pas dire qu’Il doive le faire pour chacun. Du temps où Moïse conduisait
-les enfants d’Israël il y en avait un: c’était Moïse. Le reste du peuple suivait simplement le
-message, vous voyez. Quelques-uns essayèrent de s’élever pour l’imiter mais Dieu dit: “Séparez-
-vous d’eux!” et Il les engloutit simplement! Vous voyez? Vous comprenez?
-156 Mais: “Celui qui est en vous est plus grand que celui qui est dans le monde”. Dieu en vous
-comme Il L’était en Jésus-Christ. Parce que tout ce que Dieu était, Il le déversa en Christ et tout ce
-que Christ était Il le déversa dans l’Eglise. Comprenez-vous cela? C’est Dieu en vous. “Celui qui
-est en vous…”.
-157 Il n’est pas étonnant que les vents et les vagues lui aient obéi, aient obéi à Sa Parole. Ils ont
-obéi à Ses Paroles parce que c’était la Parole de Dieu venant par Lui. Il était un homme mais Il
-était la Parole faite chair, vous voyez. Et quand Il parlait, c’était Dieu parlant par le moyen de
-lèvres humaines. Vous voyez? Il n’est donc pas étonnant que vents et vagues lui obéirent. Le
-Créateur Lui-même qui avait créé les vents et les vagues était en Lui. Pensez à cela. Pensez-y
-profondément avant que j’arrive au moment où nous terminerons. Il n’est pas étonnant que les
-démons aient été paralysés à Sa Parole! C’était Dieu en Lui! C’était Dieu en Christ. Les
-démons étaient paralysés. (Il n’est pas étonnant que les morts qui retournaient à la poussière ne
-puissent pas rester couchés là devant Sa Parole! Car Il était la Parole. Il dit à Lazare qui était mort
-depuis quatre jours et empestait déjà (au bout de ce temps sa face et son nez s’étaient déjà
-affaissés): “Lazare, sors!”. Et un homme mort se dressa sur ses pieds! Pourquoi? Parce que c’était
-Dieu qui avait parlé! Celui qui était en Christ, c’était Dieu. Les morts ne pouvaient rester morts en
-Sa présence! C’était Dieu en Christ.
-158 Et rappelez-vous que c’est Dieu qui créa le vent; c’est de l’air. Dieu créa les vagues; c’est de
-l’eau. Mais quand le diable entra dans tout cela, il le bouleversa pour amener la destruction. Dieu
-créa les hommes afin qu’ils soient des fils de Dieu, mais quand le diable entre en eux, cela apporte
-le trouble! Ainsi c’était le diable qui, entré dans les vents, envoya cette tempête. Le Créateur qui a
-créé le vent ne pouvait-Il pas dire: “Retourne d’où tu viens car c’est moi qui t’ai créé”? N’est-ce pas
-le même Créateur qui se tint au sommet de cette montagne l’autre jour? N’est-ce pas le Même qui
-pouvait prendre un morceau d’un poisson en le rompant et faire croître un autre morceau? En
-réalité Il n’aurait pas eu besoin de faire cela. Il lui aurait suffi de le dire. N’est-ce pas le même
-Créateur qui créa les écureuils? Ainsi donc, Celui qui était en Christ est en nous, vous
+154 Alors s’Il est en vous, ce n’est plus vous qui vivez, c’est Lui qui vit en vous. Vous voyez? Ce n’est pas votre pensée, ce que vous pensez de ceci ou de cela. C’est ce que Lui en a dit. Comprenez-vous cela? Par conséquent s’Il est en vous Il ne reniera absolument pas ce qu’Il a dit. Il ne le pourrait pas! Mais Il maintiendra ce qu’Il a dit et Il essaie de trouver cette personne par le canal de laquelle Il puisse se confirmer.
+155 Mais cela ne veut pas dire qu’Il doive le faire pour chacun. Du temps où Moïse conduisait les enfants d’Israël il y en avait un: c’était Moïse. Le reste du peuple suivait simplement le message, vous voyez. Quelques-uns essayèrent de s’élever pour l’imiter mais Dieu dit: “Séparez-vous d’eux!” et Il les engloutit simplement! Vous voyez? Vous comprenez?
+156 Mais: “Celui qui est en vous est plus grand que celui qui est dans le monde”. Dieu en vous comme Il L’était en Jésus-Christ. Parce que tout ce que Dieu était, Il le déversa en Christ et tout ce que Christ était Il le déversa dans l’Eglise. Comprenez-vous cela? C’est Dieu en vous. “Celui qui est en vous…”.
+157 Il n’est pas étonnant que les vents et les vagues lui aient obéi, aient obéi à Sa Parole. Ils ont obéi à Ses Paroles parce que c’était la Parole de Dieu venant par Lui. Il était un homme mais Il était la Parole faite chair, vous voyez. Et quand Il parlait, c’était Dieu parlant par le moyen de lèvres humaines. Vous voyez? Il n’est donc pas étonnant que vents et vagues lui obéirent. Le Créateur Lui-même qui avait créé les vents et les vagues était en Lui. Pensez à cela. Pensez-y profondément avant que j’arrive au moment où nous terminerons. Il n’est pas étonnant que les démons aient été paralysés à Sa Parole! C’était Dieu en Lui! C’était Dieu en Christ. Les démons étaient paralysés. (Il n’est pas étonnant que les morts qui retournaient à la poussière ne puissent pas rester couchés là devant Sa Parole! Car Il était la Parole. Il dit à Lazare qui était mort depuis quatre jours et empestait déjà (au bout de ce temps sa face et son nez s’étaient déjà affaissés): “Lazare, sors!”. Et un homme mort se dressa sur ses pieds! Pourquoi? Parce que c’était Dieu qui avait parlé! Celui qui était en Christ, c’était Dieu. Les morts ne pouvaient rester morts en Sa présence! C’était Dieu en Christ.
+158 Et rappelez-vous que c’est Dieu qui créa le vent; c’est de l’air. Dieu créa les vagues; c’est de l’eau. Mais quand le diable entra dans tout cela, il le bouleversa pour amener la destruction. Dieu créa les hommes afin qu’ils soient des fils de Dieu, mais quand le diable entre en eux, cela apporte le trouble! Ainsi c’était le diable qui, entré dans les vents, envoya cette tempête. Le Créateur qui a créé le vent ne pouvait-Il pas dire: “Retourne d’où tu viens car c’est moi qui t’ai créé”? N’est-ce pas le même Créateur qui se tint au sommet de cette montagne l’autre jour? N’est-ce pas le Même qui pouvait prendre un morceau d’un poisson en le rompant et faire croître un autre morceau? En réalité Il n’aurait pas eu besoin de faire cela. Il lui aurait suffi de le dire. N’est-ce pas le même Créateur qui créa les écureuils? Ainsi donc, Celui qui était en Christ est en nous, vous
 
         http://www.cmpp.ch
 
 CELUI QUI EST EN VOUS 16
-voyez? Car Il fait les mêmes oeuvres qu’autrefois, les mêmes choses. Les morts ne peuvent
-rester morts en Sa Présence et en celle de Sa Parole.
-159 Nous avons cinq témoignages de bonne foi au sujet de personnes qui étaient mortes et qui,
-après que le Seigneur eût donné une vision et lorsqu’on alla vers elles, ressuscitèrent. L’un d’eux
-est assis ici en ce moment même. Il était mort à l’endroit même où il est assis en ce moment. Et le
-voici vivant et qui peut vous dire: «Je suis mort d’une crise cardiaque!». Sa femme est infirmière.
-Nous allâmes vers lui: toute vie était sortie de lui, ses yeux étaient révulsés, c’en était fait de lui!
-Mais le voici vivant, vous voyez? Car “Celui qui est ici en nous est plus grand que celui qui est
-dans le monde”. Vous voyez?
-160 Il est plus grand! C’est Dieu le Créateur! Les vents et les vagues durent Lui obéir! Les démons
-furent paralysés! Toute la nature Lui obéit parce qu’Il est le Créateur de la nature. Oh, penser à
-cela ôte la morsure de ces choses! Alors nous comprenons ces choses. Qu’est-ce que c’est? Ce
-n’est pas l’homme! L’homme ne peut pas faire cela car l’homme est une partie de la création.
-Mais les vents et les vagues obéissent au Créateur, vous voyez? Et il faut le Créateur pour
-faire cela, car “Celui qui est en vous est plus grand que celui qui est dans le monde”. Celui qui
-peut causer le tumulte c’est celui qui est dans le monde. Celui qui est en vous est le Créateur qui a
-fait le vent. Il peut réprimander le diable et le faire sortir du vent, alors c’est le calme. Il peut
-réprimander le diable et le faire sortir de la tempête, alors il n’y a plus de tempête. Il est le
-Créateur: “Celui qui est en vous est plus grand que celui qui est dans le monde”.
-161 Vous voyez, le diable est du monde. Le monde lui appartient; il a toujours été à lui. “Te voilà
-tombé du ciel, astre brillant (Lucifer), fils de l’aurore!” (Ésaïe 14.12). Vous voyez, ce monde lui
-appartenait et quand il fut chassé du ciel, il y retourna.
-162 Il est celui qui a dit à Christ: “Ces royaumes m’appartiennent. J’en fais ce que je veux”. Ils lui
-appartiennent et il est “celui qui est dans le monde”.
-163 Jean a dit aux disciples: “Vous avez entendu parler de l’antichrist qui doit venir et il est déjà ici
-à l’oeuvre dans les fils de la rébellion; mais, petits enfants, vous n’êtes pas de ce monde. Vous
-êtes de Dieu. Et celui qui est en vous est plus grand que celui qui est dans le monde”. C’est Christ
-en vous!
-164 Celui qui a créé les cieux et la terre fut manifesté dans la Personne de Jésus-Christ: Dieu en
-Christ réconciliant le monde avec Lui-même. Voyons ceci! Vous direz: «Oh, frère Branham, ce
-n’était pas le Fils de Dieu». Bien! Cherchons s’Il est l’Eternel, le Dieu qui vit à jamais.
-165 Celui qui était en Josué était plus grand que le soleil. Et Josué était un homme né dans le
-péché comme vous et moi, mais Celui qui était en Josué était plus grand que le soleil qui suivait sa
-route selon le commandement de Dieu. Dieu commanda au soleil de briller et de parcourir sa
-trajectoire; et celle-ci est gouvernée et contrôlée par les lois de Dieu. Mais Celui qui était en Josué
-était plus grand que les lois de Dieu car le Créateur Lui-même était en Josué quand il regarda le
-soleil et dit: “Reste où tu es, et toi lune, reste à ta place jusqu’à ce que j’aie terminé cette bataille!”.
-Et le soleil et la lune lui obéirent, car Celui qui était en Josué était plus grand que le soleil et la
-lune. Il était en Josué 166 Celui qui était en Moïse était plus grand que l’Egypte. L’Egypte avait les plus puissantes
-armées du monde. Elle avait conquis le monde à cette époque. Mais Celui qui était en Moïse était
-plus grand que l’Egypte car Moïse vainquit l’Egypte. Celui qui était en Moïse était plus grand que
-la nature elle-même. Avez-vous jamais pensé à ceci, c’est que Dieu prit Sa Parole et la donna à
-Moïse, disant: “Sors et commande au soleil de ne pas briller”. Et le soleil devint noir comme de la
-poix! N’est-ce pas vrai? Il peut commander au soleil de briller et aux nuages de se dissiper, mais Il
-peut aussi faire que le soleil devienne noir! Il est Dieu. Il peut faire tout ce qu’Il désire et Il est dans
-l’enfant qui croit. Amen! C’est ainsi.
-167 Il n’y avait pas une seule mouche en vue. C’était peut-être l’hiver où il n’y a pas de mouches,
-mais Dieu dit à Moïse: “Va et prononce ma Parole. Je mettrai dans ta pensée ce que tu dois dire.
-Va là-bas, ramasse un peu de poussière du sol et lance cette poussière en l’air”.
-168 Il dit aussi: “Qu’il y ait des puces!”. Les puces se mirent à grouiller partout, probablement sur
-plusieurs centimètres d’épaisseur; elles couvrirent le sol en quelques heures. N’est-ce pas vrai? Le
-Créateur!
-169 Il n’y avait pas de grenouilles, mais il étendit sa verge et dit: “Qu’il y ait des grenouilles!”. Et il y
-en eut partout des monceaux au point que le pays tout entier en fut empesté. N’est-ce pas vrai?
+voyez? Car Il fait les mêmes oeuvres qu’autrefois, les mêmes choses. Les morts ne peuvent rester morts en Sa Présence et en celle de Sa Parole.
+159 Nous avons cinq témoignages de bonne foi au sujet de personnes qui étaient mortes et qui, après que le Seigneur eût donné une vision et lorsqu’on alla vers elles, ressuscitèrent. L’un d’eux est assis ici en ce moment même. Il était mort à l’endroit même où il est assis en ce moment. Et le voici vivant et qui peut vous dire: «Je suis mort d’une crise cardiaque!». Sa femme est infirmière. Nous allâmes vers lui: toute vie était sortie de lui, ses yeux étaient révulsés, c’en était fait de lui! Mais le voici vivant, vous voyez? Car “Celui qui est ici en nous est plus grand que celui qui est dans le monde”. Vous voyez?
+160 Il est plus grand! C’est Dieu le Créateur! Les vents et les vagues durent Lui obéir! Les démons furent paralysés! Toute la nature Lui obéit parce qu’Il est le Créateur de la nature. Oh, penser à cela ôte la morsure de ces choses! Alors nous comprenons ces choses. Qu’est-ce que c’est? Ce n’est pas l’homme! L’homme ne peut pas faire cela car l’homme est une partie de la création. Mais les vents et les vagues obéissent au Créateur, vous voyez? Et il faut le Créateur pour faire cela, car “Celui qui est en vous est plus grand que celui qui est dans le monde”. Celui qui peut causer le tumulte c’est celui qui est dans le monde. Celui qui est en vous est le Créateur qui a fait le vent. Il peut réprimander le diable et le faire sortir du vent, alors c’est le calme. Il peut réprimander le diable et le faire sortir de la tempête, alors il n’y a plus de tempête. Il est le Créateur: “Celui qui est en vous est plus grand que celui qui est dans le monde”.
+161 Vous voyez, le diable est du monde. Le monde lui appartient; il a toujours été à lui. “Te voilà tombé du ciel, astre brillant (Lucifer), fils de l’aurore!” (Ésaïe 14.12). Vous voyez, ce monde lui appartenait et quand il fut chassé du ciel, il y retourna.
+162 Il est celui qui a dit à Christ: “Ces royaumes m’appartiennent. J’en fais ce que je veux”. Ils lui appartiennent et il est “celui qui est dans le monde”.
+163 Jean a dit aux disciples: “Vous avez entendu parler de l’antichrist qui doit venir et il est déjà ici à l’oeuvre dans les fils de la rébellion; mais, petits enfants, vous n’êtes pas de ce monde. Vous êtes de Dieu. Et celui qui est en vous est plus grand que celui qui est dans le monde”. C’est Christ en vous!
+164 Celui qui a créé les cieux et la terre fut manifesté dans la Personne de Jésus-Christ: Dieu en Christ réconciliant le monde avec Lui-même. Voyons ceci! Vous direz: «Oh, frère Branham, ce n’était pas le Fils de Dieu». Bien! Cherchons s’Il est l’Eternel, le Dieu qui vit à jamais.
+165 Celui qui était en Josué était plus grand que le soleil. Et Josué était un homme né dans le péché comme vous et moi, mais Celui qui était en Josué était plus grand que le soleil qui suivait sa route selon le commandement de Dieu. Dieu commanda au soleil de briller et de parcourir sa trajectoire; et celle-ci est gouvernée et contrôlée par les lois de Dieu. Mais Celui qui était en Josué était plus grand que les lois de Dieu car le Créateur Lui-même était en Josué quand il regarda le soleil et dit: “Reste où tu es, et toi lune, reste à ta place jusqu’à ce que j’aie terminé cette bataille!”. Et le soleil et la lune lui obéirent, car Celui qui était en Josué était plus grand que le soleil et la lune. Il était en Josué 166 Celui qui était en Moïse était plus grand que l’Egypte. L’Egypte avait les plus puissantes armées du monde. Elle avait conquis le monde à cette époque. Mais Celui qui était en Moïse était plus grand que l’Egypte car Moïse vainquit l’Egypte. Celui qui était en Moïse était plus grand que la nature elle-même. Avez-vous jamais pensé à ceci, c’est que Dieu prit Sa Parole et la donna à Moïse, disant: “Sors et commande au soleil de ne pas briller”. Et le soleil devint noir comme de la poix! N’est-ce pas vrai? Il peut commander au soleil de briller et aux nuages de se dissiper, mais Il peut aussi faire que le soleil devienne noir! Il est Dieu. Il peut faire tout ce qu’Il désire et Il est dans l’enfant qui croit. Amen! C’est ainsi.
+167 Il n’y avait pas une seule mouche en vue. C’était peut-être l’hiver où il n’y a pas de mouches, mais Dieu dit à Moïse: “Va et prononce ma Parole. Je mettrai dans ta pensée ce que tu dois dire. Va là-bas, ramasse un peu de poussière du sol et lance cette poussière en l’air”.
+168 Il dit aussi: “Qu’il y ait des puces!”. Les puces se mirent à grouiller partout, probablement sur plusieurs centimètres d’épaisseur; elles couvrirent le sol en quelques heures. N’est-ce pas vrai? Le Créateur!
+169 Il n’y avait pas de grenouilles, mais il étendit sa verge et dit: “Qu’il y ait des grenouilles!”. Et il y en eut partout des monceaux au point que le pays tout entier en fut empesté. N’est-ce pas vrai?
 
         http://www.cmpp.ch
 
 CELUI QUI EST EN VOUS 17
-170 Quand il arriva à la mer Rouge qui lui barrait la route Dieu dit: “Parle à la mer!”. Et Moïse parla
-à la mer. Celui qui était en Moïse était plus grand que la mer elle-même. N’est-ce pas vrai? Oh,
-mes frères! Vous voyez que Celui qui était en Moïse était plus grand que celui qui est dans le
-monde! Celui qui était en Moïse était plus grand que toutes les choses naturelles qui sont dans le
-monde. Il commandait à la nature. Quoi que Dieu lui dise de faire, il l’exprimait et cela était ainsi.
-171 Ce même Dieu est avec nous ce soir! et non seulement AVEC nous, mais EN nous! Il a
-prouvé qu’Il était en nous! “Celui qui est en vous est plus grand que celui qui est dans le monde”.
-De quoi avons-nous peur, du monde?
-172 L’autre jour on a découvert une dent de dinosaure près des chutes du Niagara. Je suppose
-que vous en avez tous entendu parler. Elle pesait trois kilos. Je pensais qu’ils diraient qu’elle
-venait d’un homme, mais ils l’ont finalement identifiée comme venant d’un quelconque animal
-préhistorique. Ces animaux ont probablement vécu une fois sur la terre. Où sont-ils maintenant?
-Savez-vous que le Dieu tout puissant pourrait commander aux dinosaures de venir sur la terre? Et
-dans l’heure qui suivrait, il pourrait y en avoir une couche épaisse de quarante miles! Savez-vous
-que Dieu pourrait détruire le monde avec des puces? Il pourrait appeler les puces. Où vont-elles
-quand elles meurent? Que devient la mouche commune? Que devient la sauterelle? L’hiver vient
-et il fait quarante degrés sous zéro. Puis, le printemps suivant, c’est plein de sauterelles! D’où
-viennent-elles? Il est le Créateur qui les appelle à l’existence. Il est Dieu. La nature obéit à Sa
-Parole.
-173 C’est là que certains frères tombent dans l’exaltation. Ils ont L’IMPRESSION que Dieu a
-dit de faire telle ou telle chose et disent que c’est AINSI DIT LE SEIGNEUR alors que ce n’est
-pas vrai. C’est la raison pour laquelle la chose n’arrive pas. Mais quand c’est réellement Dieu
-qui vous parle, cela arrive nécessairement, cela doit se passer ainsi et pas autrement. Quand Dieu
-le prononce, cela doit être.
-174 Celui qui était en Moïse est plus grand que celui qui était en Egypte. Celui qui était en Moïse
-était plus grand que tout ce que Pharaon pouvait faire avec tous ses enchantements. Celui qui
-était en Moïse était plus grand que celui qui était dans les magiciens, vous voyez? Celui qui était
-en Moïse était plus grand que toute la nature.
-175 Celui qui était en Daniel était plus grand que les lions. Il pouvait arrêter ces lions affamés.
-Celui qui arrête est plus grand que ce qu’il arrête. Les lions se ruèrent affamés vers Daniel pour le
-dévorer, mais Celui qui était en Daniel était plus grand que celui qui était dans les lions.
-176 Lorsque le lion fut créé au commencement il était l’ami de l’homme. C’est le diable qui le fait
-faire ce qu’il fait maintenant. C’est vrai. Au millénium le loup et l’agneau paîtront ensemble et le
-lion mangera de la paille comme le boeuf et se couchera avec lui. Ils ne blesseront ni ne détruiront
-au millénium. Le diable sera loin. C’est le diable qui fait que les animaux sauvages déchirent et
-dévorent comme ils le font. C’est Satan qui fait cela. Mais Celui qui était en Daniel était plus grand
-que celui qui était dans le lion. Vous comprenez? Celui qui était dans ce prophète était plus grand
-que celui qui était dans le lion.
-177 Celui qui était dans les jeunes Hébreux était plus grand que celui qui était dans le feu. Car ils
-furent jetés dans le feu et Celui qui était en eux était avec eux et empêcha le feu de les brûler
-quand la fournaise fut chauffée sept fois plus qu’elle ne l’avait jamais été. N’est-ce pas vrai? Celui
-qui était avec les Hébreux était plus grand que celui qui était dans le monde.
-178 Nébuchadnetsar avait fait chauffer la fournaise sept fois plus qu’elle ne l’avait jamais été. Il
-avait été inspiré par le diable parce que ces Hébreux prenaient le parti de la Parole de Dieu et il
-les jeta dans la fournaise chauffée sept fois plus, mais ce feu ne put leur causer la moindre
-brûlure. Celui qui était avec Schadrac, Méschac et Abed-Nego était plus grand que celui qui était
-dans le monde. Certainement! Oh, mes frères!
-179 Celui qui était en Elie était plus grand que le ciel d’airain, car il pouvait faire venir la pluie d’un
-ciel d’airain qui n’avait pas donné une goutte de pluie depuis trois ans et six mois. Celui qui était
-en Elie était plus grand que la mort car quand vint le moment où il devait mourir, Dieu vit ce vieux
-prophète fatigué qui avait réprimandé Jézabel pour son maquillage et ces choses modernes et qui
-était maintenant fatigué. Dieu ne l’obligea même pas à marcher jusqu’à la Maison comme Enoch,
-mais Il lui envoya un char pour l’emporter et le conduire à la Maison. Celui qui était en Elie était
-plus grand que celui qui était à Jérusalem, en Judée et dans les montagnes. Celui qui était en Elie
-était plus grand que la mort elle-même. Celui qui était en Elie était plus grand que la tombe, car il
+170 Quand il arriva à la mer Rouge qui lui barrait la route Dieu dit: “Parle à la mer!”. Et Moïse parla à la mer. Celui qui était en Moïse était plus grand que la mer elle-même. N’est-ce pas vrai? Oh, mes frères! Vous voyez que Celui qui était en Moïse était plus grand que celui qui est dans le monde! Celui qui était en Moïse était plus grand que toutes les choses naturelles qui sont dans le monde. Il commandait à la nature. Quoi que Dieu lui dise de faire, il l’exprimait et cela était ainsi.
+171 Ce même Dieu est avec nous ce soir! et non seulement AVEC nous, mais EN nous! Il a prouvé qu’Il était en nous! “Celui qui est en vous est plus grand que celui qui est dans le monde”. De quoi avons-nous peur, du monde?
+172 L’autre jour on a découvert une dent de dinosaure près des chutes du Niagara. Je suppose que vous en avez tous entendu parler. Elle pesait trois kilos. Je pensais qu’ils diraient qu’elle venait d’un homme, mais ils l’ont finalement identifiée comme venant d’un quelconque animal préhistorique. Ces animaux ont probablement vécu une fois sur la terre. Où sont-ils maintenant? Savez-vous que le Dieu tout puissant pourrait commander aux dinosaures de venir sur la terre? Et dans l’heure qui suivrait, il pourrait y en avoir une couche épaisse de quarante miles! Savez-vous que Dieu pourrait détruire le monde avec des puces? Il pourrait appeler les puces. Où vont-elles quand elles meurent? Que devient la mouche commune? Que devient la sauterelle? L’hiver vient et il fait quarante degrés sous zéro. Puis, le printemps suivant, c’est plein de sauterelles! D’où viennent-elles? Il est le Créateur qui les appelle à l’existence. Il est Dieu. La nature obéit à Sa Parole.
+173 C’est là que certains frères tombent dans l’exaltation. Ils ont L’IMPRESSION que Dieu a dit de faire telle ou telle chose et disent que c’est AINSI DIT LE SEIGNEUR alors que ce n’est pas vrai. C’est la raison pour laquelle la chose n’arrive pas. Mais quand c’est réellement Dieu qui vous parle, cela arrive nécessairement, cela doit se passer ainsi et pas autrement. Quand Dieu le prononce, cela doit être.
+174 Celui qui était en Moïse est plus grand que celui qui était en Egypte. Celui qui était en Moïse était plus grand que tout ce que Pharaon pouvait faire avec tous ses enchantements. Celui qui était en Moïse était plus grand que celui qui était dans les magiciens, vous voyez? Celui qui était en Moïse était plus grand que toute la nature.
+175 Celui qui était en Daniel était plus grand que les lions. Il pouvait arrêter ces lions affamés. Celui qui arrête est plus grand que ce qu’il arrête. Les lions se ruèrent affamés vers Daniel pour le dévorer, mais Celui qui était en Daniel était plus grand que celui qui était dans les lions.
+176 Lorsque le lion fut créé au commencement il était l’ami de l’homme. C’est le diable qui le fait faire ce qu’il fait maintenant. C’est vrai. Au millénium le loup et l’agneau paîtront ensemble et le lion mangera de la paille comme le boeuf et se couchera avec lui. Ils ne blesseront ni ne détruiront au millénium. Le diable sera loin. C’est le diable qui fait que les animaux sauvages déchirent et dévorent comme ils le font. C’est Satan qui fait cela. Mais Celui qui était en Daniel était plus grand que celui qui était dans le lion. Vous comprenez? Celui qui était dans ce prophète était plus grand que celui qui était dans le lion.
+177 Celui qui était dans les jeunes Hébreux était plus grand que celui qui était dans le feu. Car ils furent jetés dans le feu et Celui qui était en eux était avec eux et empêcha le feu de les brûler quand la fournaise fut chauffée sept fois plus qu’elle ne l’avait jamais été. N’est-ce pas vrai? Celui qui était avec les Hébreux était plus grand que celui qui était dans le monde.
+178 Nébuchadnetsar avait fait chauffer la fournaise sept fois plus qu’elle ne l’avait jamais été. Il avait été inspiré par le diable parce que ces Hébreux prenaient le parti de la Parole de Dieu et il les jeta dans la fournaise chauffée sept fois plus, mais ce feu ne put leur causer la moindre brûlure. Celui qui était avec Schadrac, Méschac et Abed-Nego était plus grand que celui qui était dans le monde. Certainement! Oh, mes frères!
+179 Celui qui était en Elie était plus grand que le ciel d’airain, car il pouvait faire venir la pluie d’un ciel d’airain qui n’avait pas donné une goutte de pluie depuis trois ans et six mois. Celui qui était en Elie était plus grand que la mort car quand vint le moment où il devait mourir, Dieu vit ce vieux prophète fatigué qui avait réprimandé Jézabel pour son maquillage et ces choses modernes et qui était maintenant fatigué. Dieu ne l’obligea même pas à marcher jusqu’à la Maison comme Enoch, mais Il lui envoya un char pour l’emporter et le conduire à la Maison. Celui qui était en Elie était plus grand que celui qui était à Jérusalem, en Judée et dans les montagnes. Celui qui était en Elie était plus grand que la mort elle-même. Celui qui était en Elie était plus grand que la tombe, car il
 
         http://www.cmpp.ch
 
 CELUI QUI EST EN VOUS 18
-échappa à la tombe, il échappa à la mort et monta simplement à la Maison dans un char. Vous
-voyez? C’est Celui-là qui était plus grand et Il était en Elie!
+échappa à la tombe, il échappa à la mort et monta simplement à la Maison dans un char. Vous voyez? C’est Celui-là qui était plus grand et Il était en Elie!
 180 Vous dites: «Mais Elie était un grand homme».
-181 Attendez un instant. La Bible dit: “C’était un homme ayant les mêmes passions que vous et
-moi”. C’est vrai. Mais quand il priait il croyait qu’il avait reçu la chose pour laquelle il priait. C’est ce
-que Jésus nous a dit: “Quand vous priez croyez que vous avez reçu ce que vous demandez et ce
-sera fait” (Marc 11.24). Il pria sérieusement pour qu’il ne plût pas, et il ne plut pas pendant trois
-ans et six mois, vous voyez? Celui qui était en Elie était plus grand que la nature.
-182 Alors qu’en est-il de la guérison des malades? Vous voyez? Celui qui est en vous est plus
-grand que la maladie! Car la maladie est quelque chose qui interrompt les lois mêmes de
-Dieu. Mais Celui qui est en vous, le Guérisseur et le Créateur, est plus grand que le diable
-qui a interrompu le programme même de votre vie. “Celui qui est en vous est plus grand que
-celui qui est dans le monde”. Vous comprenez? Celui qui était en Elie était plus grand. Celui qui
-était en Esaïe était plus grand que le temps qui passait. C’était pareil avec tous ces prophètes car
-ils virent au-delà du temps. Vous voyez.
-183 [Partie non enregistrée — N.d.R.] Job vit la venue du Seigneur et dit: “Mon Rédempteur est
-vivant et le dernier jour Il se tiendra sur la terre; et bien que les vers auront détruit ce corps, je
-verrai Dieu dans ma chair”. Celui qui était en Job est plus grand que la mort; Il est plus grand car
-la mort essaya de s’emparer de lui mais ne le put pas. Elle ne le put pas car il a dit: “Je
-ressusciterai!”, et Il le fit. Il le fit.
-184 Ecoutez, j’aimerais avoir plus de temps pour continuer là-dessus. Mais j’aimerais vous poser
-une question sur une remarque qu’on m’a faite l’autre jour à propos de Christ en vous. Ne vous
-reposez pas sur quelque chose que vous avez fait, disant: «J’ai senti un petit frisson, j’ai parlé en
-langues, j’ai dansé dans l’Esprit». Je n’ai rien là contre, c’est très bien, mais ne vous reposez
-pas là-dessus, vous voyez. Votre vie doit être cette Bible. Tout est là! Vous et cette Parole
-doivent devenir un, vous comprenez. Et alors Elle se manifestera Elle-même.
-Comprenez-vous cela?
-185 Si ce soir vous pouviez dire de tout votre coeur que l’esprit de Shakespeare vivait en vous,
-que Shakespeare vivait en vous, savez-vous ce que vous feriez? Vous feriez les oeuvres de
-Shakespeare. Vous composeriez des poèmes, des pièces de théâtre, etc. car Shakespeare était
-ce genre d’artiste (un grand écrivain, un poète). Si donc Shakespeare vivait en vous, vous feriez
-les oeuvres de Shakespeare, n’est-ce pas vrai?
-186 Si Beethoven vivait en vous, que feriez-vous? Que se passerait-il si Beethoven vivait en
-vous? Vous écririez de la musique comme Beethoven le grand compositeur. Vous composeriez de
-la musique comme Beethoven, parce que Beethoven serait votre vie. Vous seriez un Beethoven
-réincarné. Si Beethoven vivait en vous vous feriez les oeuvres de Beethoven, parce que
-Beethoven vivrait en vous. N’est-ce pas vrai?
-187 Mais Celui qui est en vous, c’est Christ. Et si Christ est en vous, vous ferez les oeuvres
-de Christ. Si Christ vit en vous. Il l’a dit dans Jean 14.12: “Celui qui croit en moi fera aussi les
-oeuvres que je fais…” si vous êtes en Christ ou si Christ vit en vous. Or Christ est la Parole, n’est-
-ce pas, et la Parole vient à Ses prophètes. Si Christ vivait en vous les oeuvres de Christ se
-feraient par vous. La vie de Christ serait vécue par votre moyen. Les oeuvres qu’Il a faites, la vie
-qu’Il a vécue, chaque chose vivrait en vous. C’est exactement comme si Shakespeare, Beethoven
-ou qui que ce soit vivait en vous.
-188 Si c’est Sa Vie! Mais si vous continuez à vivre de votre propre vie, ce seront alors vos
-propres oeuvres que vous ferez, vous voyez. Mais si vous vivez de la vie de Christ, si Christ est
-en vous, alors: “Celui qui est en vous est plus grand que celui qui est dans le monde!”. Mais si ce
-qui est en vous ce sont des doutes et des sentiments de frustration au sujet de la promesse de
-Dieu, alors Christ n’est pas là! Vous vous êtes seulement monté la tête. Mais si Christ vit en vous,
-Il reconnaîtra Sa Parole et accomplira Sa promesse. Vous voyez? Il le fera.
-189 “Quand vous priez, croyez que vous recevrez ce que vous avez demandé et cela vous sera
-donné. Si vous dites à cette montagne: Ote-toi de là, et ne doutiez pas dans votre coeur, mais
-croyez que ce que vous dites arrivera, vous pourrez avoir ce que vous dites. Le Père est à
-l’oeuvre, et je suis à l’oeuvre jusqu’à présent. En vérité, en vérité je vous le dis, le Fils ne peut rien
-faire de Lui-même, mais ce qu’Il voit faire au Père, le Fils le fait pareillement”. Vous voyez? Et
+181 Attendez un instant. La Bible dit: “C’était un homme ayant les mêmes passions que vous et moi”. C’est vrai. Mais quand il priait il croyait qu’il avait reçu la chose pour laquelle il priait. C’est ce que Jésus nous a dit: “Quand vous priez croyez que vous avez reçu ce que vous demandez et ce sera fait” (Marc 11.24). Il pria sérieusement pour qu’il ne plût pas, et il ne plut pas pendant trois ans et six mois, vous voyez? Celui qui était en Elie était plus grand que la nature.
+182 Alors qu’en est-il de la guérison des malades? Vous voyez? Celui qui est en vous est plus grand que la maladie! Car la maladie est quelque chose qui interrompt les lois mêmes de Dieu. Mais Celui qui est en vous, le Guérisseur et le Créateur, est plus grand que le diable qui a interrompu le programme même de votre vie. “Celui qui est en vous est plus grand que celui qui est dans le monde”. Vous comprenez? Celui qui était en Elie était plus grand. Celui qui était en Esaïe était plus grand que le temps qui passait. C’était pareil avec tous ces prophètes car ils virent au-delà du temps. Vous voyez.
+183 [Partie non enregistrée — N.d.R.] Job vit la venue du Seigneur et dit: “Mon Rédempteur est vivant et le dernier jour Il se tiendra sur la terre; et bien que les vers auront détruit ce corps, je verrai Dieu dans ma chair”. Celui qui était en Job est plus grand que la mort; Il est plus grand car la mort essaya de s’emparer de lui mais ne le put pas. Elle ne le put pas car il a dit: “Je ressusciterai!”, et Il le fit. Il le fit.
+184 Ecoutez, j’aimerais avoir plus de temps pour continuer là-dessus. Mais j’aimerais vous poser une question sur une remarque qu’on m’a faite l’autre jour à propos de Christ en vous. Ne vous reposez pas sur quelque chose que vous avez fait, disant: «J’ai senti un petit frisson, j’ai parlé en langues, j’ai dansé dans l’Esprit». Je n’ai rien là contre, c’est très bien, mais ne vous reposez pas là-dessus, vous voyez. Votre vie doit être cette Bible. Tout est là! Vous et cette Parole doivent devenir un, vous comprenez. Et alors Elle se manifestera Elle-même. Comprenez-vous cela?
+185 Si ce soir vous pouviez dire de tout votre coeur que l’esprit de Shakespeare vivait en vous, que Shakespeare vivait en vous, savez-vous ce que vous feriez? Vous feriez les oeuvres de Shakespeare. Vous composeriez des poèmes, des pièces de théâtre, etc. car Shakespeare était ce genre d’artiste (un grand écrivain, un poète). Si donc Shakespeare vivait en vous, vous feriez les oeuvres de Shakespeare, n’est-ce pas vrai?
+186 Si Beethoven vivait en vous, que feriez-vous? Que se passerait-il si Beethoven vivait en vous? Vous écririez de la musique comme Beethoven le grand compositeur. Vous composeriez de la musique comme Beethoven, parce que Beethoven serait votre vie. Vous seriez un Beethoven réincarné. Si Beethoven vivait en vous vous feriez les oeuvres de Beethoven, parce que Beethoven vivrait en vous. N’est-ce pas vrai?
+187 Mais Celui qui est en vous, c’est Christ. Et si Christ est en vous, vous ferez les oeuvres de Christ. Si Christ vit en vous. Il l’a dit dans Jean 14.12: “Celui qui croit en moi fera aussi les oeuvres que je fais…” si vous êtes en Christ ou si Christ vit en vous. Or Christ est la Parole, n’est-ce pas, et la Parole vient à Ses prophètes. Si Christ vivait en vous les oeuvres de Christ se feraient par vous. La vie de Christ serait vécue par votre moyen. Les oeuvres qu’Il a faites, la vie qu’Il a vécue, chaque chose vivrait en vous. C’est exactement comme si Shakespeare, Beethoven ou qui que ce soit vivait en vous.
+188 Si c’est Sa Vie! Mais si vous continuez à vivre de votre propre vie, ce seront alors vos propres oeuvres que vous ferez, vous voyez. Mais si vous vivez de la vie de Christ, si Christ est en vous, alors: “Celui qui est en vous est plus grand que celui qui est dans le monde!”. Mais si ce qui est en vous ce sont des doutes et des sentiments de frustration au sujet de la promesse de Dieu, alors Christ n’est pas là! Vous vous êtes seulement monté la tête. Mais si Christ vit en vous, Il reconnaîtra Sa Parole et accomplira Sa promesse. Vous voyez? Il le fera.
+189 “Quand vous priez, croyez que vous recevrez ce que vous avez demandé et cela vous sera donné. Si vous dites à cette montagne: Ote-toi de là, et ne doutiez pas dans votre coeur, mais croyez que ce que vous dites arrivera, vous pourrez avoir ce que vous dites. Le Père est à l’oeuvre, et je suis à l’oeuvre jusqu’à présent. En vérité, en vérité je vous le dis, le Fils ne peut rien faire de Lui-même, mais ce qu’Il voit faire au Père, le Fils le fait pareillement”. Vous voyez? Et
 
         http://www.cmpp.ch
 
 CELUI QUI EST EN VOUS 19
-quand le Père Lui montra ce qu’Il devait faire, Il alla de l’avant sans manquer en quoi que ce soit et
-dit: “Qu’il en soit ainsi!” et cela fut ainsi! C’est ce même Christ qui vit en vous! Il vit en nous. Alors
-nous ferons Ses oeuvres parce que Christ est la Parole. Et une promesse de la Parole vous
-apporte la guérison. Le croyez-vous? C’est certain!
-190 Il dit: “Je ne vous laisserai pas sans consolation car j’ai déjà prié pour vous”. Il dit: “Je viendrai
-à vous, je serai en vous. Je (la Personne, Christ sous la forme du Saint-Esprit) viendrai vivre en
-vous. Alors vous ne serez plus vous-mêmes. C’est moi qui serai en vous et Celui qui est en vous
-est plus grand que celui qui est dans le monde”. Vous comprenez? Hébreux 13.8 dit: “Il est le
-même hier, aujourd’hui, et éternellement”.
-191 Celui qui était en Noé était plus grand que le jugement par les eaux. Et Celui qui est en vous
-est plus grand que le jugement par le feu. Vous voyez. Celui qui est en vous est plus grand car Il a
-payé le prix du jugement et a conquis le jugement pour vous. Il n’y a plus besoin d’avoir peur.
-Vous êtes du bon côté. Oui, Celui qui était en Noé était plus grand que celui qui était dans le
-jugement par l’eau qui détruisit le monde qui n’avait pas cru, car Noé, lui, avait cru. Et Celui qui
-était en Noé, en Qui Noé croyait et Qui lui parlait était plus grand que celui qui était dans le monde.
-Que Noé échappe à tous les jugements à cause de la Parole de Dieu était quelque chose de plus
-grand que le jugement et cela le transporta au-dessus du jugement. Plus grand. Nous pourrions
-nous étendre sur ce sujet encore un moment, vous savez!
-192 Celui qui était en David était plus grand que l’ours qui lui volait ses moutons. Celui qui était en
-David était plus grand que le lion qui lui enleva un de ses agneaux. Celui qui était en David était
-plus grand que l’ennemi Goliath, ce grand Philistin qui se tenait là, haut de douze ou quatorze
-pieds, aux doigts longs de quatorze pouces et dont la lance était comme une ensouple de
-tisserand recouverte de trois pouces de métal. Mais Ce qui était en David était plus grand que ce
-qui était en Goliath dont la puissance n’était que dans les muscles. C’était un guerrier. Il dit à
-David qu’il le cueillerait du bout de sa lance et le pendrait bien haut, donnant sa chair en pâture
-aux oiseaux.
-193 Mais David dit: “Tu viens à ma rencontre en tant que Philistin, au nom d’un Philistin et tu me
-maudis au nom du dieu philistin. Tu t’es vanté de ce que tu allais faire. Tu viens à ma rencontre
-avec l’armure et la lance. Mais moi je viens à ta rencontre au Nom du Seigneur Dieu et aujourd’hui
-j’ôterai ta tête de dessus tes épaules”. Et c’est ce qu’il fit car Celui qui inspirait ce courage à David
-était le plus grand.
-194 Celui qui est en vous est plus grand que cette chaise roulante. Celui qui est en vous est plus
-grand que cette civière. Celui qui est en vous est plus grand que ce cancer. Celui qui est en vous
-est plus grand que cette affliction. Il est plus grand que tout ce que le diable pourrait vous mettre
-dessus. “Celui qui est en vous est plus grand que celui qui est dans le monde”. Il est plus grand!
-C’est certain!
-195 Ce qui était en David était plus grand. C’était Dieu qui était en David. Celui qui est en nous
-c’est Christ. Il fut Celui qui conquit chaque ennemi pour nous. Quand Il était sur terre Il conquit le
-péché, Il conquit la maladie, Il conquit la mort, Il conquit le séjour des morts, Il conquit le sépulcre.
-Et maintenant Il vit en nous en tant que Conquérant! Il a vaincu la maladie, le séjour des morts, la
-mort, le sépulcre et est venu à nous pour nous rendre libres de toutes ces choses. Et Celui qui est
-en nous est plus grand que celui qui peut mettre tout ce bluff sur vous. “Celui qui est en vous est
-plus grand que celui qui est dans le monde”.
-196 C’est ainsi qu’arrivèrent ces miracles. C’est de cette manière que le vent cessa l’autre jour. Un
-être humain pourrait-il faire cela? Certainement pas. C’est impossible. Quand je pleurais là-haut
-dans cette tourmente… Combien y a-t-il ici de ceux qui étaient là-haut? Que tous ceux qui étaient
-là-bas dans le Colorado à ce moment-là lèvent la main! Bien! Je crois que frère Fred est le seul qui
-était présent. Peut-être que frère Mann y était aussi ainsi que frère Evans. Oui, frère Evans était là
-cette fois.
-197 Remarquez-le. N’est-ce pas la vérité? N’est-ce pas ainsi que cela s’est passé quand cette
-pluie et ce vent se sont simplement arrêtés? Qu’était-ce? Ma parole? Non! C’est parce qu’Il m’a dit
-de parler. Celui qui est en nous est plus grand que n’importe quel phénomène naturel. Ce Dieu qui
-a pu calmer les vagues de la mer, n’est-ce pas le même qui a renvoyé les vents en leur lieu? Celui
-qui a pu obscurcir le soleil, n’est-ce pas le même qui a pu faire briller le soleil? Car: “Celui qui est
-en vous est plus grand que celui qui est dans le monde”. Vous saisissez? Bien!
-
-        http://www.cmpp.ch
+quand le Père Lui montra ce qu’Il devait faire, Il alla de l’avant sans manquer en quoi que ce soit et dit: “Qu’il en soit ainsi!” et cela fut ainsi! C’est ce même Christ qui vit en vous! Il vit en nous. Alors nous ferons Ses oeuvres parce que Christ est la Parole. Et une promesse de la Parole vous apporte la guérison. Le croyez-vous? C’est certain!
+190 Il dit: “Je ne vous laisserai pas sans consolation car j’ai déjà prié pour vous”. Il dit: “Je viendrai à vous, je serai en vous. Je (la Personne, Christ sous la forme du Saint-Esprit) viendrai vivre en vous. Alors vous ne serez plus vous-mêmes. C’est moi qui serai en vous et Celui qui est en vous est plus grand que celui qui est dans le monde”. Vous comprenez? Hébreux 13.8 dit: “Il est le même hier, aujourd’hui, et éternellement”.
+191 Celui qui était en Noé était plus grand que le jugement par les eaux. Et Celui qui est en vous est plus grand que le jugement par le feu. Vous voyez. Celui qui est en vous est plus grand car Il a payé le prix du jugement et a conquis le jugement pour vous. Il n’y a plus besoin d’avoir peur. Vous êtes du bon côté. Oui, Celui qui était en Noé était plus grand que celui qui était dans le jugement par l’eau qui détruisit le monde qui n’avait pas cru, car Noé, lui, avait cru. Et Celui qui était en Noé, en Qui Noé croyait et Qui lui parlait était plus grand que celui qui était dans le monde. Que Noé échappe à tous les jugements à cause de la Parole de Dieu était quelque chose de plus grand que le jugement et cela le transporta au-dessus du jugement. Plus grand. Nous pourrions nous étendre sur ce sujet encore un moment, vous savez!
+192 Celui qui était en David était plus grand que l’ours qui lui volait ses moutons. Celui qui était en David était plus grand que le lion qui lui enleva un de ses agneaux. Celui qui était en David était plus grand que l’ennemi Goliath, ce grand Philistin qui se tenait là, haut de douze ou quatorze pieds, aux doigts longs de quatorze pouces et dont la lance était comme une ensouple de tisserand recouverte de trois pouces de métal. Mais Ce qui était en David était plus grand que ce qui était en Goliath dont la puissance n’était que dans les muscles. C’était un guerrier. Il dit à David qu’il le cueillerait du bout de sa lance et le pendrait bien haut, donnant sa chair en pâture aux oiseaux.
+193 Mais David dit: “Tu viens à ma rencontre en tant que Philistin, au nom d’un Philistin et tu me maudis au nom du dieu philistin. Tu t’es vanté de ce que tu allais faire. Tu viens à ma rencontre avec l’armure et la lance. Mais moi je viens à ta rencontre au Nom du Seigneur Dieu et aujourd’hui j’ôterai ta tête de dessus tes épaules”. Et c’est ce qu’il fit car Celui qui inspirait ce courage à David était le plus grand.
+194 Celui qui est en vous est plus grand que cette chaise roulante. Celui qui est en vous est plus grand que cette civière. Celui qui est en vous est plus grand que ce cancer. Celui qui est en vous est plus grand que cette affliction. Il est plus grand que tout ce que le diable pourrait vous mettre dessus. “Celui qui est en vous est plus grand que celui qui est dans le monde”. Il est plus grand! C’est certain!
+195 Ce qui était en David était plus grand. C’était Dieu qui était en David. Celui qui est en nous c’est Christ. Il fut Celui qui conquit chaque ennemi pour nous. Quand Il était sur terre Il conquit le péché, Il conquit la maladie, Il conquit la mort, Il conquit le séjour des morts, Il conquit le sépulcre. Et maintenant Il vit en nous en tant que Conquérant! Il a vaincu la maladie, le séjour des morts, la mort, le sépulcre et est venu à nous pour nous rendre libres de toutes ces choses. Et Celui qui est en nous est plus grand que celui qui peut mettre tout ce bluff sur vous. “Celui qui est en vous est plus grand que celui qui est dans le monde”.
+196 C’est ainsi qu’arrivèrent ces miracles. C’est de cette manière que le vent cessa l’autre jour. Un être humain pourrait-il faire cela? Certainement pas. C’est impossible. Quand je pleurais là-haut dans cette tourmente… Combien y a-t-il ici de ceux qui étaient là-haut? Que tous ceux qui étaient là-bas dans le Colorado à ce moment-là lèvent la main! Bien! Je crois que frère Fred est le seul qui était présent. Peut-être que frère Mann y était aussi ainsi que frère Evans. Oui, frère Evans était là cette fois.
+197 Remarquez-le. N’est-ce pas la vérité? N’est-ce pas ainsi que cela s’est passé quand cette pluie et ce vent se sont simplement arrêtés? Qu’était-ce? Ma parole? Non! C’est parce qu’Il m’a dit de parler. Celui qui est en nous est plus grand que n’importe quel phénomène naturel. Ce Dieu qui a pu calmer les vagues de la mer, n’est-ce pas le même qui a renvoyé les vents en leur lieu? Celui qui a pu obscurcir le soleil, n’est-ce pas le même qui a pu faire briller le soleil? Car: “Celui qui est en vous est plus grand que celui qui est dans le monde”. Vous saisissez? Bien!
 
 CELUI QUI EST EN VOUS 20
 198 C’est pourquoi ces vrais miracles peuvent être faits: c’est parce qu’il s’agit d’une promesse de
@@ -1267,7 +529,7 @@ chose qui n’est pas convenable. A ce moment-là je désirerais quitter ce mond
 ce monde avant que de telles choses ne m’arrivent. Vous comprenez? Je ne désire pas faire cela!
 236 Mais aussi longtemps que je vivrai, je m’efforcerai de faire ce qui est juste, j’essaierai de vivre
 comme un chrétien doit le faire et de laisser Dieu prendre Sa Parole afin que vous m’entendiez me
-tenir auprès d’Elle. Bien que cela me coûte la perte de tant d’amis, que cela me rendre impopulaire
+ tenir auprès d’Elle. Bien que cela me coûte la perte de tant d’amis, que cela me rendre impopulaire
 au monde, que je sois haï de beaucoup et chassé des dénominations, je veux malgré tout rester
 fidèle à cette Parole. C’est la Parole de Dieu. Et j’aime Dieu! Ainsi, c’est la Parole de Dieu. Et je
 vous dis ceci: “Il est le même hier, aujourd’hui et éternellement, et Il est en nous maintenant”.
@@ -1360,7 +622,7 @@ Croyez-vous que je sois Son prophète? Oh, vous le devez! Je vous remercie. Dieu
 Vous êtes Madame White. Vous venez de Fort Worth au Texas. Vous avez une maladie
 musculaire, un état nerveux. Vous allez très mal et vous n’avez plus rien à espérer de la science
 médicale. Votre mari a un besoin spirituel pour lequel il prie. Vous avez un fils qui souffre du dos et
-du coeur. Vous avez sur vos genoux un petit garçon qui a des troubles du langage pour lesquels
+ du coeur. Vous avez sur vos genoux un petit garçon qui a des troubles du langage pour lesquels
 vous priez. Si c’est bien cela, levez la main. “Celui qui est en vous est plus grand que celui qui est
 dans le monde”. Croyez-vous cela? De tout votre coeur? De tout votre coeur?
 Inclinons nos têtes.
