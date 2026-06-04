@@ -1,0 +1,43 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import { entryDate, visibleTags } from "$lib/works";
+
+const all = await getCollection("works");
+const mevar = all.filter((e) => e.data.source === "mevar");
+
+type AuthorRow = { name: string; count: number; latest: Date };
+const map = new Map<string, AuthorRow>();
+for (const e of mevar) {
+  const authors = (e.data.authors ?? []) as string[];
+  const d = entryDate(e) ?? new Date(0);
+  for (const a of authors) {
+    const row = map.get(a) ?? { name: a, count: 0, latest: new Date(0) };
+    row.count++;
+    if (d > row.latest) row.latest = d;
+    map.set(a, row);
+  }
+}
+const authors = [...map.values()].sort((a, b) => b.count - a.count);
+---
+
+<Layout title="Auteurs — Mevar" description="Auteurs des prédications, exhortations et études bibliques de Mevar">
+  <div class="container mx-auto px-4 py-12 md:py-16">
+    <header class="max-w-2xl mb-10">
+      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">Auteurs</h1>
+      <p class="text-lg text-muted-foreground">
+        Les voix qui portent le message au sein de la mission MEVAR.
+      </p>
+    </header>
+    <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      {authors.map((a) => (
+        <li class="rounded-lg border bg-card p-5 hover:border-primary/50 transition">
+          <div class="font-semibold text-lg">{a.name}</div>
+          <div class="text-sm text-muted-foreground mt-1">
+            {a.count} publication{a.count > 1 ? "s" : ""}
+          </div>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Layout>
