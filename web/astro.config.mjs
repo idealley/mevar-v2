@@ -8,6 +8,7 @@ import AstroPWA from "@vite-pwa/astro";
 // https://astro.build/config
 export default defineConfig({
   site: "https://mevar.org",
+  trailingSlash: "always",
   integrations: [
     svelte(),
     AstroPWA({

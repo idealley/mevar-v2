@@ -1,0 +1,83 @@
+# Mevar — SEO continuity from legacy Ghost URLs.
+# Format: <from>  <to>  <status>     (Cloudflare Pages / Netlify)
+
+# ─── Renamed pages ──────────────────────────────────────────────────────────
+/about/                /a-propos/                301
+/about                 /a-propos/                301
+/authors/              /auteurs/                 301
+/authors               /auteurs/                 301
+/authors/:slug/        /auteurs/:slug/           301
+/sitemap/              /sitemap.xml              301
+
+# ─── Tag pages now grouped under /themes/ ───────────────────────────────────
+# Geographic / location tags (Ghost stored at root /<slug>/)
+/abidjan/              /themes/abidjan/          301
+/benin/                /themes/benin/            301
+/biasso/               /themes/biasso/           301
+/bouake/               /themes/bouake/           301
+/burkina-fasso/        /themes/burkina-faso/     301
+/cote-divoire/         /themes/cote-divoire/     301
+/congo-brazzaville/    /themes/congo-brazzaville/ 301
+/cotonou/              /themes/cotonou/          301
+/dabou/                /themes/dabou/            301
+/guiberoua/            /themes/guiberoua/        301
+/hounde/               /themes/hounde/           301
+/kouassikro/           /themes/kouassikro/       301
+/koukloubo/            /themes/koukloubo/        301
+/koumassi/             /themes/koumassi/         301
+/krakro/               /themes/krakro/           301
+/lagos/                /themes/lagos/            301
+/lausanne/             /themes/lausanne/         301
+/morofe/               /themes/morofe/           301
+/mougnondzi/           /themes/mougnondzi/       301
+/muraz/                /themes/muraz/            301
+/ndouffou/             /themes/ndouffou/         301
+/nigeria/              /themes/nigeria/          301
+/pointe-noire/         /themes/pointe-noire/     301
+/sinfra/               /themes/sinfra/           301
+/so-tchanwe/           /themes/so-tchanwe/       301
+/soubre/               /themes/soubre/           301
+/suisse/               /themes/suisse/           301
+
+# Topical tags
+/audio/                /themes/audio/            301
+/babylone/             /themes/babylone/         301
+/chaine-de-priere/     /themes/chaine-de-priere/ 301
+/chantier/             /themes/chantier/         301
+/la-foi/               /themes/la-foi/           301
+/le-combat-spirituel/  /themes/le-combat-spirituel/ 301
+/le-message-des-sept-sceaux/ /themes/le-message-des-sept-sceaux/ 301
+/les-complots-de-satan/ /themes/les-complots-de-satan/ 301
+/les-signes-dun-ministere-ou-dune-oeuvre-authentique-de-dieu/ /themes/les-signes-d-un-ministere-authentique/ 301
+/video/                /themes/video/            301
+/y-a-t-il-quelque-chose-dimpossible-a-dieu/ /themes/y-a-t-il-quelque-chose-d-impossible-a-dieu/ 301
+
+# Year tags
+/2004/                 /annees/2004/             301
+/2006/                 /annees/2006/             301
+/2007/                 /annees/2007/             301
+/2008/                 /annees/2008/             301
+/2009/                 /annees/2009/             301
+/2010/                 /annees/2010/             301
+/2011/                 /annees/2011/             301
+/2012/                 /annees/2012/             301
+/2013/                 /annees/2013/             301
+/2014/                 /annees/2014/             301
+/2015/                 /annees/2015/             301
+/2016/                 /annees/2016/             301
+/2017/                 /annees/2017/             301
+/2018/                 /annees/2018/             301
+/2019/                 /annees/2019/             301
+/2020/                 /annees/2020/             301
+/2021/                 /annees/2021/             301
+/2022/                 /annees/2022/             301
+/2023/                 /annees/2023/             301
+/2024/                 /annees/2024/             301
+
+# Month tags
+/janvier/              /themes/janvier/          301
+/novembre/             /themes/novembre/         301
+
+# ─── Posts: KEEP at root URLs (no redirect; serve directly via [slug].astro)
+# 325 mevar post slugs continue to resolve at https://mevar.org/<slug>/
+# Implemented via /src/pages/[mevarslug].astro (TODO).
