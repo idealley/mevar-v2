@@ -18,8 +18,8 @@ import path from "node:path";
 
 const root = path.resolve(import.meta.dirname, "..");
 const source = process.argv[2];
-if (!["onedrive", "le-scribe", "branham", "mevar-pdfs"].includes(source)) {
-  console.error("usage: 73-apply-llm.mjs <onedrive|le-scribe|branham|mevar-pdfs>");
+if (!["onedrive", "le-scribe", "branham", "mevar-pdfs", "cmpp"].includes(source)) {
+  console.error("usage: 73-apply-llm.mjs <onedrive|le-scribe|branham|mevar-pdfs|cmpp>");
   process.exit(2);
 }
 
@@ -153,9 +153,10 @@ for (const cacheFile of fs.readdirSync(cacheDir)) {
   if (Array.isArray(cache.themes)) entry.themes = [...new Set(cache.themes)];
   entry.llm_cleaned = true;
 
-  // Compute local_md if missing (le-scribe / branham manifests don't store it)
+  // Compute local_md if missing (le-scribe / branham / cmpp manifests don't store it)
   function computeMd(year) {
     if (source === "le-scribe") return `markdown/le-scribe/${year ?? "undated"}/${entry.sermon_id}.md`;
+    if (source === "cmpp") return `markdown/cmpp/${year ?? "undated"}/${entry.sermon_id}.md`;
     if (source === "branham") return `markdown/branham/${year}/${entry.sermon_id}.md`;
     return entry.local_md;
   }
@@ -178,6 +179,17 @@ for (const cacheFile of fs.readdirSync(cacheDir)) {
         }
         mdPath = path.join(root, altPath);
       }
+    }
+  }
+  if (!fs.existsSync(mdPath) && source === "cmpp") {
+    // LLM may have corrected entry.year but the file still sits under its
+    // original year directory (often "undated"). Search all year dirs.
+    const candidates = fs.readdirSync(path.join(root, "markdown/cmpp"))
+      .map((d) => path.join("markdown/cmpp", d, `${entry.sermon_id}.md`))
+      .filter((p) => fs.existsSync(path.join(root, p)));
+    if (candidates.length === 1) {
+      entry.local_md = candidates[0];
+      mdPath = path.join(root, candidates[0]);
     }
   }
   if (!fs.existsSync(mdPath)) {

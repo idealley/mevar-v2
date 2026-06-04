@@ -17,16 +17,16 @@ const MODEL = process.env.DEEPSEEK_MODEL || "deepseek-chat";
 const ENDPOINT = "https://api.deepseek.com/v1/chat/completions";
 
 const source = process.argv[2];
-if (!source || !["le-scribe", "branham", "mevar-pdfs"].includes(source)) {
-  console.error("usage: 72-llm-fanout-multi.mjs <le-scribe|branham|mevar-pdfs>");
+if (!source || !["le-scribe", "branham", "mevar-pdfs", "cmpp"].includes(source)) {
+  console.error("usage: 72-llm-fanout-multi.mjs <le-scribe|branham|mevar-pdfs|cmpp>");
   process.exit(2);
 }
 
-const CHUNK_SIZE = 45000;
+const CHUNK_SIZE = Number(process.env.CHUNK_SIZE) || 45000;
 const MAX_OUTPUT_TOKENS = 16000;
-const CONCURRENCY = 4;
+const CONCURRENCY = Number(process.env.CONCURRENCY) || 4;
 const MAX_RETRIES = 4;
-const REQUEST_TIMEOUT_MS = 240000;
+const REQUEST_TIMEOUT_MS = Number(process.env.REQUEST_TIMEOUT_MS) || 240000;
 
 // ── Source-specific prompts ──────────────────────────────────────────────────
 const PROMPTS = {
@@ -58,6 +58,40 @@ Réponse : JSON STRICT uniquement. Schéma :
   "cleaned_markdown": "Le corps complet en markdown propre"
 }`,
     body: `Tu nettoies un résumé français de prédication de William Branham. C'est UNE PARTIE d'un document plus long. Préserve les numéros de paragraphe (ex: "1.", "2.") en format **N.**. Préserve mots originaux. Mets bibles en blockquote. Réponse : JSON STRICT { "cleaned_markdown": "..." }.`,
+  },
+  "cmpp": {
+    full: `Tu es un éditeur expert qui prépare des publications françaises de cmpp.ch (Christliche Missions-Mitteilung Pour la Parole / Mission Chrétienne Pour la Parole, fondée par Ewald Frank) pour publication propre. Tu reçois du texte brut extrait de PDF et dois le nettoyer en Markdown bien formaté et extraire des métadonnées structurées.
+
+Le corpus cmpp contient principalement deux types :
+- **Lettres circulaires** : courriers mensuels écrits par Ewald Frank (parfois Russ Hubert ou autre serviteur) — kind = "exhortation"
+- **Brochures / études** : études bibliques, souvent traductions françaises de prédications de William Branham — kind = "bible_study"
+
+Règles strictes :
+- PRÉSERVE les mots originaux exactement. NE PARAPHRASE PAS, NE RÉSUME PAS, NE RÉÉCRIS PAS — uniquement le formatage.
+- Recolle les paragraphes coupés au milieu d'une phrase (extraction PDF).
+- Mets en blockquote (>) les citations bibliques clairement délimitées.
+- Conserve les majuscules sur les noms propres : Dieu, Seigneur, Christ, Jésus, Esprit, Eglise, Parole, etc.
+- Supprime numéros de page, en-têtes/pieds répétitifs, marques de copyright isolées.
+- Pour les lettres circulaires, l'en-tête contient typiquement la salutation du verset, "LETTRE CIRCULAIRE", et le mois/année — utilise pour extraire date et subtitle.
+- Pour les brochures Branham traduites, l'auteur original est William Branham même si Ewald Frank est traducteur ou éditeur.
+
+Réponse : JSON STRICT uniquement. Schéma :
+{
+  "title": "Titre principal",
+  "subtitle": "Sous-titre, mois/année pour lettre circulaire, ou null",
+  "kind": "exhortation | bible_study | book | article | testimony | communique",
+  "date": "YYYY-MM-DD ou YYYY-MM-01 si seul le mois est connu, sinon null",
+  "year": 1974,
+  "location": "Krefeld par défaut pour Ewald Frank, sinon précise",
+  "preacher": "Auteur du document (Ewald Frank, William Branham, etc.)",
+  "summary": "Résumé 2-3 phrases",
+  "tags": ["1-5 tags thématiques en français"],
+  "persons": ["personnes bibliques et historiques mentionnées"],
+  "places": ["lieux géographiques"],
+  "themes": ["3-7 concepts thématiques"],
+  "cleaned_markdown": "Le corps complet en markdown propre"
+}`,
+    body: `Tu nettoies une publication cmpp.ch française. C'est UNE PARTIE d'un document plus long. Préserve les mots originaux. Bibles en blockquote. Réponse : JSON STRICT { "cleaned_markdown": "..." }.`,
   },
   "mevar-pdfs": {
     full: `Tu es un éditeur expert qui prépare des prédications/exhortations françaises de mevar.org pour publication propre. Tu reçois du texte brut extrait de PDF et dois le nettoyer en Markdown bien formaté et extraire des métadonnées structurées.
@@ -126,6 +160,10 @@ function loadDocs() {
   if (source === "le-scribe") {
     const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/le-scribe.json"), "utf8"));
     return m.map((e) => ({ id: e.sermon_id, mdPath: `markdown/le-scribe/${e.year ?? "undated"}/${e.sermon_id}.md` }));
+  }
+  if (source === "cmpp") {
+    const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/cmpp.json"), "utf8"));
+    return m.map((e) => ({ id: e.sermon_id, mdPath: `markdown/cmpp/${e.year ?? "undated"}/${e.sermon_id}.md` }));
   }
   if (source === "mevar-pdfs") {
     const m = JSON.parse(fs.readFileSync(path.join(root, "manifests/mevar-pdfs-corpus.json"), "utf8"));
