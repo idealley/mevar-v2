@@ -28,6 +28,10 @@ bible_refs:
   - "Luc 5:37-38"
   - "Malachie 3:1"
   - "Ézéchiel 47"
+series_id: "le-nouveau-ministere"
+series: "Le nouveau ministère"
+series_part: 1
+series_total: 4
 ---
 Gloire à Dieu. On va lire Ézéchiel 47. Dimanche passé, j’étais sous l’onction de la prophétie donc j’ai dû parler directement. En venant à l’Église, j’avais pris des notes et quand j’étais assis là, cette onction est venue donc j’ai dû parler directement sans vraiment aller dans la lecture des écritures parce que, pour annoncer une nouvelle ère on n’a pas besoin de lire l’Écriture. Par exemple, il est écrit dans Mathieu 25 qu’il y a un cri de minuit, mais au moment où le temps arrive exactement pour la manifestation du cri de minuit, ce n’est pas une écriture qu’on va lire. C’est un prophète qui va dire « Il est minuit ». C’est la différence. **Donc c’est dans cet esprit-là que j’ai dit qu’il n’y a pas d’écriture à lire parce qu’il s’agit de dire que nous sommes entrés dans un nouveau temps, et tu ne vas pas trouver d’écriture pour dire cela. L’Écriture est là depuis 2000 ans au moins, donc ce qui se passe à l’instant T c’est une proclamation prophétique et c’est clair**. Ensuite, on peut rechercher dans les écritures puisqu’il y a des prophéties qui sont déjà là, qui ont parlé de l’événement. On peut alors regarder et dire ce qu’il y a à dire.
 

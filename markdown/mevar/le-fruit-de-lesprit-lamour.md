@@ -34,6 +34,10 @@ bible_refs:
   - "Jean 13:34-35"
   - "Jean 5"
   - "Romains 13:8"
+series_id: "le-fruit-de-lesprit-lamour"
+series: "Le fruit de l’Esprit"
+series_part: 1
+series_total: 3
 ---
 On va commencer une série d'enseignements sur le fruit de l'Esprit. C'est un enseignement de façon générale sur le fruit de l'Esprit mais, je vais mettre des particularités à chaque fois. Aujourd'hui, on mettra l'accent sur l'amour. Puis, on va prendre les autres fruits qu’on va mettre en exergue et essayer d'expliquer un peu. Le texte de base, on le retrouve dans Galates. C'est un texte que nous connaissons, mais il y a des explications qui sont importantes qu'on va donner ce matin. Dans Galates chapitre 5, on lira à partir du verset 22 :
 

@@ -22,6 +22,10 @@ bible_refs:
   - "2 Corinthiens 3"
   - "2 Timothée 2"
   - "Actes 15"
+series_id: "le-ministere-de-lesprit"
+series: "Le Ministère de l'Esprit"
+series_part: 2
+series_total: 2
 ---
 Nous allons lire dans 2 Corinthiens, chapitre 3. On commence au premier verset :
 

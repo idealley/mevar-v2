@@ -32,6 +32,10 @@ bible_refs:
   - "Daniel 12"
   - "Malachie 3"
   - "Malachie 4"
+series_id: "le-jour-du-seigneur"
+series: "Le jour du Seigneur"
+series_part: 4
+series_total: 5
 ---
 **Prêché à Koumassi, le 12 novembre 2023**
 

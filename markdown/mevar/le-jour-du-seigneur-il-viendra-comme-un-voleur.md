@@ -23,6 +23,10 @@ bible_refs:
   - "Apocalypse 16"
   - "Daniel 12"
   - "Malachie 4"
+series_id: "le-jour-du-seigneur"
+series: "Le jour du Seigneur"
+series_part: 3
+series_total: 5
 ---
 ### **Prêché à Koumassi, le 29 octobre 2023**
 

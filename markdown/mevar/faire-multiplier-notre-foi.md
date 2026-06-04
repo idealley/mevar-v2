@@ -23,6 +23,10 @@ bible_refs:
   - "Luc 19"
   - "Luc 19:30-31"
   - "Marc 11"
+series_id: "faire-front-par-la-foi"
+series: "Faire front par la Foi"
+series_part: 4
+series_total: 5
 ---
 Le Seigneur dit dans Luc 19 :
 

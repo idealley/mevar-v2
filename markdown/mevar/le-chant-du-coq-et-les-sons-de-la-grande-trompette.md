@@ -71,6 +71,10 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 11:11-12"
   - "Ésaïe 18:1-3"
+series_id: "trois-grandes-visions-du-message-de-la-fin-des-temps"
+series: "Trois grandes visions du message de la fin des temps"
+series_part: 3
+series_total: 3
 ---
 ### Exhortation spéciale de Novembre 2024
 

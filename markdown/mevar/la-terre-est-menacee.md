@@ -34,6 +34,10 @@ bible_refs:
   - "Ésaïe 65:19"
   - "Ésaïe 65:20"
   - "Ézéchiel 47"
+series_id: "le-nouveau-ministere"
+series: "Le nouveau ministère"
+series_part: 3
+series_total: 4
 ---
 Que Dieu soit béni. Nous allons lire dans Ésaïe chapitre 65 à partir du verset 17 :
 

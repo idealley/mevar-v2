@@ -70,6 +70,10 @@ bible_refs:
   - "Matthieu 25:3"
   - "Matthieu 25:5"
   - "Matthieu 25:6"
+series_id: "trois-grandes-visions-du-message-de-la-fin-des-temps"
+series: "Trois grandes visions du message de la fin des temps"
+series_part: 2
+series_total: 3
 ---
 Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous. Je vous salue de la part du Seigneur Jésus-Christ notre Dieu, par cette Parole du prophète Ésaïe « **Consolez, consolez mon peuple, Dit votre Dieu**. » (Ésaïe 40:1), et aussi par celle du Seigneur à ses disciples au moment de la séparation. « **Que votre cœur ne se trouble point. Croyez en Dieu, et croyez en moi »** (Jean 14:1-2) C’est avec beaucoup d’émotion et de reconnaissance au Maître que nous avons tous appris la nouvelle du rappel à Dieu de notre bien-aimé frère Frank, **le samedi 8 juin 2024**, à l’âge de 90 ans. Nous sommes reconnaissants au Seigneur pour la vie de frère Frank et surtout pour la position qu’Il lui a donnée dans le royaume de Dieu durant toutes ces années. N’eût été sa présence et son travail acharné parmi nous qui avons reconnu son ministère, nous nous serions certainement égarés comme plusieurs avec ce beau message de la fin des temps.
 

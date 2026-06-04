@@ -47,6 +47,10 @@ bible_refs:
   - "Ésaïe 66:10-14"
   - "Ésaïe 66:22"
   - "Ézéchiel 47"
+series_id: "le-nouveau-ministere"
+series: "Le nouveau ministère"
+series_part: 4
+series_total: 4
 ---
 ## La vision du nouveau ministère
 

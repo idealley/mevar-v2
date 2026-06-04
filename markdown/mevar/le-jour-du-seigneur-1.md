@@ -49,6 +49,10 @@ bible_refs:
   - "Ésaïe 13:10"
   - "Ésaïe 13:11"
   - "Ésaïe 13:9-10"
+series_id: "le-jour-du-seigneur"
+series: "Le jour du Seigneur"
+series_part: 1
+series_total: 5
 ---
 ### **Prêché à koumassi, le 29 octobre 2023**
 

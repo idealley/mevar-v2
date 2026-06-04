@@ -43,6 +43,10 @@ bible_refs:
   - "Malachie 4"
   - "Romains 2"
   - "Romains 2:12-16"
+series_id: "le-jour-du-seigneur"
+series: "Le jour du Seigneur"
+series_part: 2
+series_total: 5
 ---
 On va aborder le sujet sur le jour de l’archange Michel. On va lire d’abord dans Daniel 12. Vous allez voir combien de fois la bible, la Parole de Dieu, est claire. Comme je le disais la dernière fois, la différence entre la bible et les autres livres, c’est que la bible a déjà dit à l’avance ce qui va se passer. C’est par là qu’on reconnaît Dieu. Dieu, c’est celui qui est capable de dire à l’avance, plusieurs millénaires ou bien plusieurs siècles avant les événements, ce qui arrive. Il faut ajouter le jour de l’archange Michel au jour du Seigneur parce que nous sommes dans le jour du Seigneur. Cela se passe dans le jour du Seigneur. Vous allez comprendre.
 

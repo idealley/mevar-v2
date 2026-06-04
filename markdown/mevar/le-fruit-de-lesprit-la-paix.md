@@ -34,6 +34,10 @@ bible_refs:
   - "Éphésiens 2:13-18"
   - "Ésaïe 9"
   - "Ésaïe 9:5"
+series_id: "le-fruit-de-lesprit-lamour"
+series: "Le fruit de l’Esprit"
+series_part: 3
+series_total: 3
 ---
 Gloire à Dieu. Que Dieu nous bénisse. Nous allons continuer ce qu'on a commencé il y a déjà quelques temps. Et je pense qu'on va se laisser conduire par l’Esprit de Dieu et nous allons lire quelques Écritures. Le passage de base que nous connaissons déjà, c'est Galates chapitre 5, verset 22 :
 

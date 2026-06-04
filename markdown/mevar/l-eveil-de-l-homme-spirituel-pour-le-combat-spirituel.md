@@ -55,6 +55,10 @@ bible_refs:
   - "Éphésiens 2"
   - "Éphésiens 2:6"
   - "Ézéchiel 36:24-26"
+series_id: "l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel"
+series: "L'éveil de l'homme spirituel pour le combat spirituel"
+series_part: 1
+series_total: 2
 ---
 > _**_**_**Ainsi, dès maintenant, nous ne connaissons plus personne selon la chair ; et si nous avons connu Christ selon la chair, maintenant nous le connaissons plus de cette manière.**_**_** _(2 Corinthiens 5:16)__
 
