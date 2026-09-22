@@ -149,14 +149,16 @@ for (const [ref, sermon] of links) {
 }
 for (const [sermonRef, refs] of claimants) {
   if (refs.length < 2) continue;
+  const sermon = links.get(refs[0]);
   for (const ref of refs) {
+    const summary = summaries.find((s) => s.ref === ref);
     links.delete(ref);
     unresolved.push({
       le_scribe: ref,
-      title: summaries.find((s) => s.ref === ref).fields.title ?? null,
-      subtitle: null,
+      title: summary.fields.title ?? null,
+      subtitle: summary.fields.subtitle ?? null,
       reason: `${refs.length} summaries claim ${sermonRef}`,
-      candidates: [{ branham: sermonRef, title: null }],
+      candidates: [{ branham: sermonRef, title: sermon.fields.title ?? null }],
     });
   }
   stats["claimed twice"] = (stats["claimed twice"] ?? 0) + refs.length;
