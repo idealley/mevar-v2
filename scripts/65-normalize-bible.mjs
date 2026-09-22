@@ -13,7 +13,7 @@
 //   3) Collect found refs per file into manifests.
 //
 // CLI:
-//   node scripts/65-normalize-bible.mjs               # process all 5 sources
+//   node scripts/65-normalize-bible.mjs               # process all 5 French sources
 //   node scripts/65-normalize-bible.mjs <glob>        # process matched files only
 //   node scripts/65-normalize-bible.mjs --dry         # report only, don't write
 
@@ -240,7 +240,7 @@ const targets = args.filter((a) => !a.startsWith("--"));
 
 const sources = targets.length > 0
   ? targets.map((t) => path.resolve(t))
-  : ["mevar", "onedrive", "branham", "le-scribe", "cmpp", "local"]
+  : ["mevar", "onedrive", "le-scribe", "cmpp", "local"] // branham is English: 66 owns it
       .map((s) => path.join(root, "markdown", s))
       .filter((d) => fs.existsSync(d));
 
