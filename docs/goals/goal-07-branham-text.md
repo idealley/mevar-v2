@@ -14,16 +14,16 @@ citations Branham speaks aloud are never found.
 - **French names inside English sermons.** Before goal 02, `65` (the French
   normalizer) also ran over `markdown/branham/`. It read English words as book
   abbreviations and rewrote them: "The Bible says it is. 65 He's here" became
-  "The Bible says it Ésaïe 65 He's here". Measured on 2026-09-22: 681 spots
-  (`Ésaïe`, `Sophonie`, `Hébreux`, `Actes`, `Habacuc`, `Marc`, `Juges`), in
-  377 files. A reader sees them.
+  "The Bible says it Ésaïe 65 He's here". Measured on 2026-09-22: 560 spots
+  (`Ésaïe` 358, `Sophonie` 154, `Hébreux` 39, `Actes`, `Habacuc`, `Marc`,
+  `Juges`), in 377 files. A reader sees them.
 - **English words turned into citations by `66`.** A book name that ends a
   sentence, followed by the paragraph number, became a reference: "the book of
   Revelation. 12 And" became "Revelation 12 And"; "that's my job. 9" became
-  "Job 9"; "I am. 14" became "Amos 14". 118 such spots align with the source.
+  "Job 9"; "I am. 14" became "Amos 14". About 120 such spots align with the source.
   They are false refs, and the swallowed period changes the text.
 - **Spoken citations are invisible.** Branham reads his text aloud: "Saint John
-  the 4th chapter", "In the 20th chapter of Numbers". 2,948 + 614 occurrences,
+  the 4th chapter", "In the 20th chapter of Numbers". About 2,000 of them,
   none in `bible-refs.json`. 181 Branham files have no refs at all.
 
 The damage cannot be undone from our text alone: the regex swallowed an
@@ -31,7 +31,7 @@ optional period, so "is. 65" and "is 65" both became "Ésaïe 65". The source
 can. Every Branham file carries its branham.org PDF in `pdf_url`, and
 `20-download-pdfs.mjs` fetches them (1,206 PDFs, 152 MB, gitignored `pdfs/`).
 Aligned on the words around each spot, the PDF gives the original back: 5 of 5
-in the pilot, 633 of 681 French-name spots in the full measurement.
+in the pilot, and over 90% of the French-name spots in the full measurement.
 
 ## Work items
 
