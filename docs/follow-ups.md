@@ -6,9 +6,9 @@ Living list of stuff we know about and have decided to defer, with enough contex
 
 **Status**: 65 and 66 only match `Book chapter:verse` in numerals. Branham reads his text aloud instead: **2,948** occurrences of "`Saint John the 4th chapter`" / "`Kings, the 6th chapter`" in the Branham corpus, 365 of them naming the verse too ("`Saint Matthew the 4th chapter, the 23rd verse`"). None of those is in `bible-refs.json`, so a sermon's principal reading — the passage it opens with — is usually the one reference that is missing.
 
-**Fix**: a second pattern for `<Book>,? (the )?<N>(st|nd|rd|th) chapter(,? (and )?the <M>(st|nd|rd|th) verse)?`, with the ordinals mapped to numbers. Worth doing before the site ships reference-based navigation; it roughly doubles the coverage of the Branham corpus.
+The book also comes after the chapter: "`In the 20th chapter of Numbers, I read these words:`" (`53-0512`), **614** more occurrences of "`the <N>th chapter of <Book>`".
 
-Not every case is mechanical: `53-0512` reads "`Numbers, I read these words:`" and then quotes the passage without ever naming the chapter.
+**Fix**: two more patterns, `<Book>,? (the )?<N>(st|nd|rd|th) chapter(,? (and )?the <M>(st|nd|rd|th) verse)?` and `the <N>(st|nd|rd|th) chapter of <Book>`, with the ordinals mapped to numbers. Worth doing before the site ships reference-based navigation; it roughly doubles the coverage of the Branham corpus.
 
 ## Printed page furniture is inside the sermon bodies
 
