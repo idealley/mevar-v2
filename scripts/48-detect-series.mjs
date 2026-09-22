@@ -55,7 +55,7 @@ const ORDINALS = { premiere: 1, deuxieme: 2, troisieme: 3, quatrieme: 4, cinquie
 const deaccent = (s_) => s_.toLowerCase().normalize("NFD").replace(/\p{Diacritic}/gu, "");
 
 function partOf(post) {
-  const title = deaccent(post.title ?? "");
+  const title = deaccent(post.title);
   const paren = title.match(/\(\s*(?:partie\s*)?(\d+)\s*\)/);
   if (paren) return Number(paren[1]);
   const ordinal = title.match(/(premiere|deuxieme|troisieme|quatrieme|cinquieme|sixieme|septieme)\s*partie/);
@@ -67,7 +67,7 @@ function partOf(post) {
 
 // Title without its part marker, as lowercase accent-free words.
 function stemWords(post) {
-  return deaccent(post.title ?? "")
+  return deaccent(post.title)
     .replace(/\(\s*(?:partie\s*)?\d+\s*\)/g, " ")
     .replace(/(premiere|deuxieme|troisieme|quatrieme|cinquieme|sixieme|septieme)\s*partie/g, " ")
     .replace(/partie\s*\d+/g, " ")
@@ -135,11 +135,8 @@ function partFromSlug(slug) {
   const num = slug.match(/-(\d)$/);
   if (num) return Number(num[1]);
   // French ordinals
-  const ord = slug.match(/-(premi[èe]re|deuxi[èe]me|troisi[èe]me|quatri[èe]me|cinqui[èe]me|sixi[èe]me|septi[èe]me)-partie/);
-  if (ord) {
-    const map = { premiere: 1, première: 1, deuxieme: 2, deuxième: 2, troisieme: 3, troisième: 3, quatrieme: 4, quatrième: 4, cinquieme: 5, cinquième: 5, sixieme: 6, sixième: 6, septieme: 7, septième: 7 };
-    return map[ord[1]] ?? null;
-  }
+  const ord = slug.match(/-(premiere|deuxieme|troisieme|quatrieme|cinquieme|sixieme|septieme)-partie/);
+  if (ord) return ORDINALS[ord[1]];
   // "partie-N" anywhere
   const partN = slug.match(/partie-(\d+)/);
   if (partN) return Number(partN[1]);
@@ -162,7 +159,6 @@ function commonPrefix(strings) {
 
 const series = [];
 for (const [root_, members] of groups) {
-  if (members.length < 2) continue;
   const enriched = members.map((slug) => {
     const p = bySlug.get(slug);
     return {

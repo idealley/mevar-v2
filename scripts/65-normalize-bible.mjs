@@ -155,7 +155,6 @@ const REF_RE = new RegExp(
   "giu",
 );
 
-// Render a canonical reference. We always emit "Book chap:verse[-verse][,verse...]".
 // ─── Impossible references ───────────────────────────────────────────────────
 // "Sophonie 155" is a book name followed by a paragraph number, not a chapter.
 // Max chapter per book.
@@ -185,6 +184,7 @@ function isPossible(book, chapter, verses) {
   return !verses.some((v) => Number(v) > MAX_VERSE);
 }
 
+// Render a canonical reference. We always emit "Book chap:verse[-verse][,verse...]".
 function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
   let out = `${book} ${chapter}`;
   if (verseStart !== undefined && verseStart !== null) {
