@@ -101,7 +101,9 @@ export const BOOKS_EN = [
   ["Proverbs", "Prov", "Prv", "Pr", "Pro"],
   ["Ecclesiastes", "Eccl", "Ecc", "Ec", "Qoh", "Qoheleth"],
   ["Song of Solomon", "Song of Songs", "Song", "SoS", "Cant", "Canticles"],
-  ["Isaiah", "Isa", "Is"],
+  // no "Is" or "Am": in the Branham text they are the verbs ("it is. 65",
+  // "I am. 14", "Is 52 here?" for a prayer card), never a citation.
+  ["Isaiah", "Isa"],
   ["Jeremiah", "Jer", "Jr"],
   ["Lamentations", "Lam", "Lm", "La"],
   ["Ezekiel", "Ezek", "Ez", "Eze"],
@@ -110,7 +112,7 @@ export const BOOKS_EN = [
   // "Joël" is what the French pass left in these English transcripts —
   // 47 of its 48 occurrences here are real Joel citations, mostly Joel 2:28.
   ["Joel", "Joël", "Jl"],
-  ["Amos", "Am"],
+  ["Amos"],
   ["Obadiah", "Obad", "Ob"],
   ["Jonah", "Jon", "Jnh"],
   ["Micah", "Mic", "Mi"],
