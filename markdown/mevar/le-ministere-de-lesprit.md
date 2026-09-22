@@ -23,7 +23,7 @@ bible_refs:
   - "2 Timothée 2"
   - "Actes 15"
 series_id: "le-ministere-de-lesprit"
-series: "Le ministère de l"
+series: "Le ministère de l’Esprit"
 series_part: 1
 series_total: 2
 ---

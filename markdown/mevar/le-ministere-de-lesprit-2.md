@@ -30,7 +30,7 @@ bible_refs:
   - "Éphésiens 4"
   - "Ézéchiel 34"
 series_id: "le-ministere-de-lesprit"
-series: "Le ministère de l"
+series: "Le ministère de l’Esprit"
 series_part: 2
 series_total: 2
 ---

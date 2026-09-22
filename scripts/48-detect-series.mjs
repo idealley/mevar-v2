@@ -146,13 +146,15 @@ function partFromSlug(slug) {
   return null;
 }
 
-// Case-insensitive so "Faire front par la Foi" and "Faire front par la foi"
-// agree; the prefix is returned with the first title's casing.
+// Case and apostrophe shape are ignored, so "Faire front par la Foi" agrees
+// with "Faire front par la foi" and "l’Esprit" with "l'Esprit"; the prefix is
+// returned with the first title's own spelling.
+const prefixKey = (s) => s.toLowerCase().replace(/[\u2018\u2019]/g, "'");
 function commonPrefix(strings) {
   if (!strings.length) return "";
   let n = strings[0].length;
   for (const s of strings.slice(1)) {
-    while (n && s.slice(0, n).toLowerCase() !== strings[0].slice(0, n).toLowerCase()) n--;
+    while (n && prefixKey(s.slice(0, n)) !== prefixKey(strings[0].slice(0, n))) n--;
     if (!n) return "";
   }
   return strings[0].slice(0, n);
@@ -179,21 +181,21 @@ for (const [root_, members] of groups) {
 
   // Series name = trimmed common title prefix, or fall back to first title
   let name = commonPrefix(enriched.map((e) => e.title))
-    .replace(/[\s\-–—:,.]+$/u, "")
+    .replace(/[\s\-–—:,.(]+$/u, "")
     .trim();
   if (name.length < 8) {
     // Common prefix too short — strip a "– La paix" / "- 2" / "- partie 5" tail from first title
     name = enriched[0].title
       .replace(/\s*[–\-—]\s*(premi[èe]re|deuxi[èe]me|troisi[èe]me|quatri[èe]me|cinqui[èe]me)?\s*partie\s*\d*\s*$/i, "")
       .replace(/\s*[–\-—]\s*\d+\s*$/, "")
-      .replace(/[\s\-–—:,.]+$/u, "")
+      .replace(/[\s\-–—:,.(]+$/u, "")
       .trim();
   }
   // Trim trailing "(1)", "(2)", "- 1", "– N" leftover from first member's title
   name = name
     .replace(/\s*\(\s*\d+\s*\)\s*$/, "")
     .replace(/\s*[–\-—]\s*\d+\s*$/, "")
-    .replace(/[\s\-–—:,.]+$/u, "")
+    .replace(/[\s\-–—:,.(]+$/u, "")
     .trim();
 
   const id = enriched[0].slug.replace(/-\d+$/, "").replace(/-(premi[èe]re|deuxi[èe]me|troisi[èe]me|quatri[èe]me)-partie$/, "");
