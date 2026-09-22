@@ -144,7 +144,11 @@ const REF_RE = new RegExp(
   "(?:" +
   "\\s*[:,]\\s*" +                        // chap-verse separator
   "(\\d{1,3})" +                          // verse start (group 3)
-  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3}))?" +  // optional verse end (group 4)
+  // optional verse end (group 4) — not one that is itself followed by
+  // ":<digit>", a new chapter:verse. A bare colon is fine: French writes
+  // "Jean 17:22-26 : « … »" with a space before the colon.
+  // So "Hébreux 8:13-13:8" does not read "13" as the end of a range.
+  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +  // optional verse end (group 4)
   "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" + // additional verse list (group 5)
   ")?" +
   "(?![\\d])",                            // not followed by another digit (avoids 24:55 partial match in 24:555)

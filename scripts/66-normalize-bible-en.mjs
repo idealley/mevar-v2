@@ -124,9 +124,15 @@ const REF_RE = new RegExp(
   "(?:" +
   "\\s*[:,]\\s*" +
   "(\\d{1,3})" +
-  // optional verse end (group 4) — not one that is itself followed by ":",
-  // so "Hebrews 8:13-13:8" does not read "13" as the end of a range
-  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3}))?" +
+  // optional verse end (group 4) — not one that is itself followed by
+  // ":<digit>", a new chapter:verse. A bare colon is fine: French writes
+  // "Jean 17:22-26 : « … »" with a space before the colon.
+  // So "Hebrews 8:13-13:8" does not read "13" as the end of a range.
+  // optional verse end (group 4) — not one that is itself followed by
+  // ":<digit>", a new chapter:verse. A bare colon is fine: French writes
+  // "Jean 17:22-26 : « … »" with a space before the colon.
+  // So "Hebrews 8:13-13:8" does not read "13" as the end of a range.
+  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +
   "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" +
   ")?" +
   "(?![\\d])",

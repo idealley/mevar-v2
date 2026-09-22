@@ -71,6 +71,7 @@ bible_refs:
   - "Daniel 7:25"
   - "Jean 8:12"
   - "Matthieu 24:14"
+  - "Matthieu 25:5"
   - "Matthieu 25:5-6"
   - "Matthieu 5:13"
   - "Matthieu 5:14"

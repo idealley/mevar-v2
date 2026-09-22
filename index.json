@@ -3397,7 +3397,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1951/51-0727.md",
-    "size_bytes": 82707,
+    "size_bytes": 82704,
     "line_count": 1405
   },
   {
@@ -32531,8 +32531,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1957/57-1006.md",
-    "size_bytes": 131403,
-    "line_count": 1568
+    "size_bytes": 131383,
+    "line_count": 1567
   },
   {
     "source": "branham",
@@ -174852,8 +174852,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exhomimars2011.md",
-    "size_bytes": 70796,
-    "line_count": 313
+    "size_bytes": 70816,
+    "line_count": 314
   },
   {
     "source": "onedrive",
