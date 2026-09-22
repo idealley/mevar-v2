@@ -50,7 +50,7 @@ bible_refs:
   - "Jean 3:2"
   - "Jean 5:19"
   - "Jean 6:38"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Luc 24:49"
   - "Luc 4:23"
 ---
@@ -64,7 +64,7 @@ bible_refs:
 
 *(Titres similaires ou identiques : le 14.6.1953 ; le 23.1.1955 ; le 20.2.1955 ; le 20.6.1955 ; en février 1956)*
 
-**1.** à **2.** Je vous aime de l’amour de Christ. Lisons Jude 3 :
+**1.** à **2.** Je vous aime de l’amour de Christ. Lisons Jude 1:3 :
 > “Bien-aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.”
 
 Cette exhortation a été écrite en l’an 66, soit 33 ans après la Pentecôte. En si peu de temps l’Église immergée en Christ par le Saint-Esprit s’était égarée ! Il n’est pas question ici d’“une” foi, mais de “la” foi. Il y a une seule foi, un seul Seigneur, un seul baptême. C’est la foi en Jésus-Christ. Les gens se disent Méthodistes, ou Catholiques, mais il y a une seule foi.

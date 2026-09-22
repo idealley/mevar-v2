@@ -61,7 +61,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 14:14"
   - "Jean 5:19"
-  - "Jude 4"
+  - "Jude 1:4"
   - "Luc 24:49"
   - "Luc 6:1"
   - "Matthieu 18:19"
@@ -174,7 +174,7 @@ Lisons Jean 12:35 à 40
 
 **49.** N’acceptez que ce qui vient de la Bible. Elle est la référence. Et les choses que le Dieu tout-puissant qui sait tout, a prédites pour les derniers temps se produiront encore avant la venue du Seigneur. Il a prévenu que du faux viendrait aussi. Comment le distinguer ? On vous dira de regarder à ce qui se passe ici et là. La Parole n’a jamais failli. Mais voyez ces prédicateurs, ces prophètes avec leur “Ainsi dit le Seigneur” ! Si c’est selon les Ecritures, cela s’accomplira.
 
-**50.** C’est l’heure où, “de même que Jannès et Jambrès s'opposèrent à Moïse, de même ces hommes s'opposent à la vérité, étant corrompus d'entendement, réprouvés en ce qui concerne la foi.” [2 Timothée 3:8]. Ils ne peuvent pas croire. Ce sont des hommes “dont la condamnation est écrite depuis longtemps, des impies, qui changent la grâce de notre Dieu en dissolution.” [Jude 4]. Comment pourraient-ils croire, comment pourrait-on faire cesser cette folie généralisée alors que Dieu a dit que cela n’aurait pas lieu. Comment les distinguer ? Le vrai Esprit de Dieu accompagnera la Parole, car il est toujours le même.
+**50.** C’est l’heure où, “de même que Jannès et Jambrès s'opposèrent à Moïse, de même ces hommes s'opposent à la vérité, étant corrompus d'entendement, réprouvés en ce qui concerne la foi.” [2 Timothée 3:8]. Ils ne peuvent pas croire. Ce sont des hommes “dont la condamnation est écrite depuis longtemps, des impies, qui changent la grâce de notre Dieu en dissolution.” [Jude 1:4]. Comment pourraient-ils croire, comment pourrait-on faire cesser cette folie généralisée alors que Dieu a dit que cela n’aurait pas lieu. Comment les distinguer ? Le vrai Esprit de Dieu accompagnera la Parole, car il est toujours le même.
 
 **51.** Il y a des malades ici ce soir. Je ne connais aucun de vous, si ce n’est ma femme, le frère Gertie et deux ou trois autres. Combien ont besoin de guérison du corps ? … 60% environ. Que ferait Jésus-Christ s’il se tenait ici ce soir ? Il ne pourrait que s’appuyer sur la Parole ? La Bible ne dit pas qu’un homme avec de l’huile suintant de ses mains oindrait le malade, ou qu’un archevêque parlerait, mais que ceux qui sont fils de Dieu seraient conduits par l’Esprit. Jésus dirait que la guérison est une œuvre déjà achevée. De même, qui peut donner le salut à une âme ? Ni le pape de Rome, ni l’évêque de Canterbury, ni personne. Mais c’est votre foi personnelle en l’œuvre de Christ achevée au Calvaire.
 

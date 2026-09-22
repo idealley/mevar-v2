@@ -2081,7 +2081,7 @@ J’ai écrit quelques mots à l’église, mais Diotrèphe qui aime à
 être le premier parmi eux, ne nous reçoit pas. C’est pourquoi,
 si je viens, je rappellerai les actes qu’il commet, en répandant
 contre nous des Paroles mauvaises ; non content de cela, lui-
-même ne reçoit pas les frères… (3 Jean 9-10).
+même ne reçoit pas les frères… (3 Jean 1:9-10).
 
 Cette situation se découvre souvent avec les anciens
 dont certains croient être les chefs des assemblées locales et
@@ -2494,7 +2494,7 @@ Jean aussi écrit à Gaïus en ces termes : Tu feras bien de
 pourvoir à leur voyage d’une manière digne de Dieu, car, c’est
 pour le nom du Seigneur qu’ils sont partis, sans rien recevoir
 des païens. Nous devons donc accueillir de tels hommes, afin
-d’être ouvriers avec eux pour la Vérité (3 Jean 6-8).
+d’être ouvriers avec eux pour la Vérité (3 Jean 1:6-8).
 Paul écrivant aux philippiens souligna aussi l’œuvre
 qu’ils accomplissaient en sa faveur : Cependant vous avez
 bien fait de prendre part à ma tribulation. Vous le savez vous-
@@ -5677,7 +5677,7 @@ de l’assemblée qu’il dirige pour prêcher la parole de vie au
 peuple de Dieu, a donné la main d’association à ce
 prédicateur. Jean parle de Diotrèphe qui ne recevait pas les
 frères. J’ai écrit quelques mots à l’église ; mais Diotrèphe, qui
-aime à être le premier parmi eux, ne nous reçoit point (3 Jean 9). Ce Diotrèphe n’avait jamais voulu donner la main
+aime à être le premier parmi eux, ne nous reçoit point (3 Jean 1:9). Ce Diotrèphe n’avait jamais voulu donner la main
 d’association aux frères pour l’exercice de leur ministère
 dans son assemblée. Jean se plaignait de lui parce qu’il
 n’avait pas un bon comportement.

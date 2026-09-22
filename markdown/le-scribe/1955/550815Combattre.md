@@ -40,10 +40,10 @@ pdf_url: "http://le-scribe.org/pdfiles/550815Combattre.pdf"
 llm_cleaned: true
 bible_refs:
   - "Jean 5:19"
-  - "Jude 3"
+  - "Jude 1:3"
 original: "branham/1955/55-0815"
 ---
-**1.** Je suis fatigué à cause du décalage horaire, et on vient tout juste de me réveiller. Lisons Jude 3 :
+**1.** Je suis fatigué à cause du décalage horaire, et on vient tout juste de me réveiller. Lisons Jude 1:3 :
 > “Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.”
 
 **2.** Ce livre est écrit en mystères par le Saint-Esprit. Il ne peut se comprendre intellectuellement, mais seulement si Dieu le révèle. C'est caché aux sages, et révélé aux enfants qui veulent apprendre. Le Saint-Esprit le révèle au cœur ouvert. [Prière].

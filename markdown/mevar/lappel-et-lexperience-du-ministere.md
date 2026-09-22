@@ -59,7 +59,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 8:45"
   - "Job 33:14-15"
-  - "Jude 14"
+  - "Jude 1:14"
   - "Juges 13:25"
   - "Juges 13:30-40"
   - "Jérémie 1:12"
@@ -136,7 +136,7 @@ Dans Genèse 15:12-17, Abraham veillait sur son sacrifice quand il s’endormit 
 
 Dieu s’adresse à chacun de ses envoyés selon qu’Il veut. Cependant, avec la même personne, Il adopte plusieurs manières. On ne peut établir de doctrine en cela. Enfin, un oint peut clairement discerner dans son propre cœur, l’appel du Seigneur. Ainsi le maître imprime cela en lui. **C’est le cas d’Esdras et de Néhémie.** Pour eux, il n’y a eu ni voix, ni songe, ni vision. Mais nous avons vu dans la suite, que le Seigneur les avait véritablement envoyés. Ce n’est pas parce qu’on fréquente un serviteur de Dieu qu’on a forcément un appel.
 
-**J’ai aussi remarqué que l’onction appelle l’onction.** Car un serviteur de Dieu oint reconnaît aisément celui sur qui repose une onction. Ils s’attirent le plus souvent. Et il y a une attraction particulière entre ceux qui sont appelés à travailler en équipe. Le diable aime tout ce qui est érigé en règle pour les imiter. Aussi, le Seigneur a gardé le domaine sous sa souveraineté. Pour ces raisons, la bible ne nous révèle pas l’appel de puissants prophètes tels qu’Elie. **Le début de son ministère est si banal que son développement étonne.** Voici ce qui est dit de lui en introduction : « _**Elie le tischbite, l’un des habitants de Galaad, dit à Achab… »**_ (1 Rois 17:1). Le texte ne dit pas au moins le prophète ou un prophète. C’est aussi le cas de Hénoc qui : _**« marcha avec Dieu ; puis il ne fut plus, parce que Dieu le prit »**_ (Genèse 5:21-24). C’est Jude qui nous apprend plus tard que Hénoc était un prophète. Jude 14 et 15 :
+**J’ai aussi remarqué que l’onction appelle l’onction.** Car un serviteur de Dieu oint reconnaît aisément celui sur qui repose une onction. Ils s’attirent le plus souvent. Et il y a une attraction particulière entre ceux qui sont appelés à travailler en équipe. Le diable aime tout ce qui est érigé en règle pour les imiter. Aussi, le Seigneur a gardé le domaine sous sa souveraineté. Pour ces raisons, la bible ne nous révèle pas l’appel de puissants prophètes tels qu’Elie. **Le début de son ministère est si banal que son développement étonne.** Voici ce qui est dit de lui en introduction : « _**Elie le tischbite, l’un des habitants de Galaad, dit à Achab… »**_ (1 Rois 17:1). Le texte ne dit pas au moins le prophète ou un prophète. C’est aussi le cas de Hénoc qui : _**« marcha avec Dieu ; puis il ne fut plus, parce que Dieu le prit »**_ (Genèse 5:21-24). C’est Jude qui nous apprend plus tard que Hénoc était un prophète. Jude 1:14 et 15 :
 
 > _**c’est aussi pour eux que Hénoc, le septième depuis Adam, a prophétisé en ces termes** : voici le seigneur est venu avec ses saintes myriades, pour exercer le jugement contre tous, et pour faire rendre compte à tous les impies parmi eux de tous les actes d’impiété qu’ils ont commis et de toutes les paroles injurieuses qu’ont proférées contre lui des pécheurs ._
 

@@ -62,8 +62,8 @@ bible_refs:
   - "1 Samuel 15"
   - "1 Timothée 5"
   - "2 Chroniques 20"
-  - "3 Jean 6"
-  - "3 Jean 9"
+  - "3 Jean 1:6-8"
+  - "3 Jean 1:9-10"
   - "Actes 13"
   - "Actes 18"
   - "Actes 20"
@@ -102,7 +102,7 @@ Notre Seigneur Jésus, en tant que chef de l’œuvre tient dans sa main droite,
 
 En effet, le mot ministère signifie « service ». Pris dans cette simple définition, il peut s’appliquer à tous les services dans la maison de Dieu. Dans cette compréhension, on peut dire que la fonction d’ancien ou de diacre est un ministère — de même que le service d’une femme mariée dans son foyer. Mais, la particularité des cinq Ministères dont il est question dans Éphésiens 4.11, par rapport aux autres services dans l’église est que ces cinq Ministères sont strictement liés à la prédication de la Parole de Dieu. Ce sont cinq services de la Parole. Ainsi, ces cinq types de Ministres sont au service de la Parole de Dieu. Les Ministres de la Parole portent la Parole, chacun individuellement. Là où il y a des rassemblements, les Ministres de la Parole doivent être les premiers à prendre la Parole pour la prédication. Car la prédication dans la maison de Dieu est premièrement réservée de manière exclusive aux Ministres de la Parole. Les choses sont ainsi et doivent le demeurer. Il est malséant et regrettable de constater que certains frères, sous prétexte d’une quelconque responsabilité dans l’église, refusent de donner la Parole à ceux qui y ont droit, privant ainsi le peuple de Dieu de l’exercice des ministères qui doivent l’amener à la perfection. La jalousie ne doit pas prévaloir dans cette affaire, mais seulement le soucis de parfaire le Corps de Christ.
 
-Il y avait un homme de ce genre dans une église, se nommant Diotrèphe, lequel refusait de recevoir les Ministres de la Parole. Jean écrit à son sujet en ces termes : J’ai écrit quelques mots à l’église, mais Diotrèphe qui aime à être le premier parmi eux, ne nous reçoit pas. C’est pourquoi, si je viens, je rappellerai les actes qu’il commet, en répandant contre nous des Paroles mauvaises ; non content de cela, lui-même ne reçoit pas les frères… (3 Jean 9-10).
+Il y avait un homme de ce genre dans une église, se nommant Diotrèphe, lequel refusait de recevoir les Ministres de la Parole. Jean écrit à son sujet en ces termes : J’ai écrit quelques mots à l’église, mais Diotrèphe qui aime à être le premier parmi eux, ne nous reçoit pas. C’est pourquoi, si je viens, je rappellerai les actes qu’il commet, en répandant contre nous des Paroles mauvaises ; non content de cela, lui-même ne reçoit pas les frères… (3 Jean 1:9-10).
 
 Cette situation se découvre souvent avec les anciens dont certains croient être les chefs des assemblées locales et avec d’autres dirigeants d’assemblées locales. Mais les choses ne sont pas ainsi, car, ceux dont les destinés sont liées à l’Église qui est le Corps du Christ sont les Ministres de la Parole. Aucun ancien n’a été fait don à l’Église, ni aucun diacre, mais les Ministres de la Parole ont été faits don à l’Église. Ce sont eux les esclaves de celui qui nous a tous rachetés. C’est pourquoi, dans l’œuvre de Dieu, tout appartient aux Ministres de la Parole. Les Ministres sont ceux qui furent premièrement établis dans l’Église, lesquels établirent à leur tour des anciens sur les communautés pour les aider à exercer le ministère pastoral dans les assemblées locales.
 
@@ -208,7 +208,7 @@ Toutefois, le Seigneur demande à ses disciples de ne pas aller de maison en mai
 
 > Aie soin de pourvoir au voyage de Zénas, le docteur de la loi, d’Apollos en sorte que rien ne leur manque. Il faut que les nôtres aussi apprennent à exceller dans les œuvres bonnes pour subvenir aux nécessités urgentes, afin de ne pas être sans fruits (Tite 3.13-14).
 
-Jean aussi écrit à Gaïus en ces termes : ... tu feras bien de pourvoir à leur voyage d’une manière digne de Dieu, car, c’est pour le nom du Seigneur qu’ils sont partis, sans rien recevoir des païns. Nous devons donc accueillir de tels hommes, afin d’être ouvriers avec eux pour la Vérité (3 Jean 6-8).
+Jean aussi écrit à Gaïus en ces termes : ... tu feras bien de pourvoir à leur voyage d’une manière digne de Dieu, car, c’est pour le nom du Seigneur qu’ils sont partis, sans rien recevoir des païns. Nous devons donc accueillir de tels hommes, afin d’être ouvriers avec eux pour la Vérité (3 Jean 1:6-8).
 
 Paul écrivant aux philippiens souligna aussi l’œuvre qu’ils accomplissaient en sa faveur : Cependant vous avez bien fait de prendre part à ma tribulation. Vous le savez vous-mêmes, philippiens, au commencement de la prédication de l’Évangile, quand j’ai quitté la macédoine, aucune église n’entra en compte avec moi pour ce qu’elle donnait et recevait ; vous avez été les seuls à le faire, car, à Thessalonique déjà, et à deux reprises, vous m’avez envoyé de quoi pourvoir à mes besoins (Philippiens 4.14-16).
 

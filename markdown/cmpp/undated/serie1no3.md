@@ -84,7 +84,7 @@ bible_refs:
   - "Jean 5"
   - "Jean 6"
   - "Jean 8"
-  - "Jude 9"
+  - "Jude 1:9"
   - "Jérémie 1"
   - "Luc 11"
   - "Luc 17"
@@ -499,7 +499,7 @@ elle le crut. Mais ce fut Eve et non Adam. De même, c’est la communauté, mai
 201 Il y eut de même Moïse, représentant «les croyants», puis Jannès et Jambrès «les incrédules», enfin Balaam le «soi-disant croyant». Là aussi, trois classes de gens. Remarquez que les incrédules (les églises confessionnelles) ne croient en aucun signe. Ce sont les églises froides et formalistes du monde. Les «soi-disant croyants» sont l’enveloppe, la balle, puis viennent les vrais croyants.
 202 Considérez maintenant l’effronterie des «soi-disant croyants» et des incrédules. Satan osa dire en présence de la Véritable Parole: “Il est écrit” (Mat. 4.4-6). Pourquoi Satan fit-il cela? Parce qu’il connaissait bien la Parole pour cette heure, mais il doutait que cet Homme humble et petit fût La Parole. “Si tu es le Fils de Dieu…,” dit-il. “Je sais que le Fils de Dieu doit venir, car Il l’a dit et il est écrit qu’il chargera Ses anges de veiller sur Lui. Mais si tu L’es, prouve-le moi. Fais un miracle afin que je le voie”.
 203 Regardez aussi Judas qui, pendant ce temps-là, vivait avec eux — un soi-disant croyant — pourtant revêtu de la vraie Parole. Comme ils sont effrontés! «Ne faites donc pas attention à pareil non-sens» disent les soi-disant croyants. «Là, il n’y a rien du tout. N’allez pas à leurs rassemblements. Il n’y a que du bruit et de l’imagination et cela n’existe que dans vos pensées» disent-ils en présence de la Parole.
-204 Satan alla directement là où se trouvait la Parole. Comme la Bible le mentionne dans Jude 9, l’archange alors qu’il contestait avec le diable, lui dit: “Que l’Eternel te réprime”. Il était opposé à la Parole même. C’est ici l’Antichrist, l’oint, s’opposant à la véritable Parole de ce temps, Jésus-Christ lui-même, en disant “il est écrit”. Ce sera si proche de la réalité que les élus seraient séduits, s’il était possible. La raison pour laquelle les élus ne sont pas séduits: ils sont eux-mêmes la Parole.
+204 Satan alla directement là où se trouvait la Parole. Comme la Bible le mentionne dans Jude 1:9, l’archange alors qu’il contestait avec le diable, lui dit: “Que l’Eternel te réprime”. Il était opposé à la Parole même. C’est ici l’Antichrist, l’oint, s’opposant à la véritable Parole de ce temps, Jésus-Christ lui-même, en disant “il est écrit”. Ce sera si proche de la réalité que les élus seraient séduits, s’il était possible. La raison pour laquelle les élus ne sont pas séduits: ils sont eux-mêmes la Parole.
 205 La vie qui est dans la racine (je vous le disais tout à l’heure) ne peut se renier elle-même. De même Jérémie, lui, savait exactement qui il était, quoi qu’en dît Hanania. Moïse également connaissait la Parole de Dieu sans s’inquiéter de ce que les faux prophètes pouvaient raconter. Moïse disait: “Il est écrit!”. Achab disait: “Je crois mes prophètes. Mon organisation est juste. Jetez cet homme en prison et nourrissez-le du pain d’affliction. N’ayez aucune communion avec lui et, lorsque je reviendrai en paix, je m’occuperai de lui”. Michée lui répondit: “Si réellement tu reviens, alors le Seigneur ne m’a pas parlé”. Michée savait qu’il avait le “Ainsi parle le Seigneur”, que
 
         http://www.cmpp.ch

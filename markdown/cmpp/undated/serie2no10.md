@@ -55,7 +55,7 @@ bible_refs:
   - "Genèse 22"
   - "Jean 1"
   - "Jean 6"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Luc 17"
   - "Malachie 4"
   - "Romains 8"
@@ -819,7 +819,7 @@ cette foi dont je viens de parler, ô Seigneur. Je me rappelle que Tu dis, dans 
         http://www.cmpp.ch
 
 LES OEUVRES SONT L’EXPRESSION DE LA FOI 29
-de Jude 3: “… afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois
+de Jude 1:3: “… afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois
 pour toutes…”. Et s’ils ont posé des mouchoirs sur le corps des saints, ce n’est pas parce que
 c’étaient des gens spéciaux, mais parce que c’étaient des croyants. Ils étaient des hommes de
 même nature que nous. Il est dit: “Elie était de la même nature que nous. Il pria avec ferveur

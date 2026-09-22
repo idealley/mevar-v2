@@ -48,7 +48,7 @@ bible_refs:
   - "Jean 17:17"
   - "Jean 3:5"
   - "Jean 6:37,54"
-  - "Jude 4"
+  - "Jude 1:4"
   - "Luc 10:20"
   - "Luc 22:32"
   - "Nombres 19:2"
@@ -107,7 +107,7 @@ Plusieurs disent que Jésus-Christ est le Fils de Dieu, mais c'est leur intellig
 
 **17.** §95 à 98- C'est pourquoi votre âme crie en vous vers le Père Céleste. Cela vous donne la foi, et vous devenez une Semence d'Abraham, et vous ne doutez pas de la Promesse, mais vous louez Dieu. Pourquoi alors ne pouvez-vous pas rester sauvé entre les réveils ? Abraham a attendu 25 ans d'avoir un fils, et pourtant sa foi et sa connaissance de Dieu ne faisaient que grandir.
 
-**18.** §99 à 105- Certains ne seront jamais sauvés, ils sont prédestinés à la perdition. D'autres sont prédestinés au salut. Vous avez du mal à saisir cela ! Pourtant Jude 4 parle des “hommes dont la condamnation est écrite depuis longtemps” , 2 Timothée 3:8 nous parle de Jannès et Jambrès réprouvés en ce qui concerne la foi. Voyez ces gens dans les églises qui font semblant de louer, ces femmes qui prétendent être appelées par Dieu pour prêcher alors que Dieu a dit qu'il ne le ferait jamais, ces gens qui prétendent avoir le Saint-Esprit et n'avoir besoin de personne pour être enseignés, alors que Dieu a placé des docteurs dans l'Eglise !
+**18.** §99 à 105- Certains ne seront jamais sauvés, ils sont prédestinés à la perdition. D'autres sont prédestinés au salut. Vous avez du mal à saisir cela ! Pourtant Jude 1:4 parle des “hommes dont la condamnation est écrite depuis longtemps” , 2 Timothée 3:8 nous parle de Jannès et Jambrès réprouvés en ce qui concerne la foi. Voyez ces gens dans les églises qui font semblant de louer, ces femmes qui prétendent être appelées par Dieu pour prêcher alors que Dieu a dit qu'il ne le ferait jamais, ces gens qui prétendent avoir le Saint-Esprit et n'avoir besoin de personne pour être enseignés, alors que Dieu a placé des docteurs dans l'Eglise !
 
 **19.** §106 à 108- On n'est pas sauvé parce qu'on s'est arrêté de fumer, ou parce qu'on a senti un frisson dans le dos, ou parce qu'on a senti un vent fort. Je suis sauvé parce que j'ai rempli les conditions de Dieu, et que je l'ai accepté selon sa Parole. Jésus s'est opposé à Satan uniquement par la Parole.
 

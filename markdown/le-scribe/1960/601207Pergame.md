@@ -67,7 +67,7 @@ bible_refs:
   - "Jean 16:2"
   - "Jean 5:19"
   - "Jean 6:44,37"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Juges 7:5-6"
   - "Luc 12:32"
   - "Matthieu 28:19"
@@ -121,7 +121,7 @@ original: "branham/1960/60-1207"
 
 **127 à 132** - Constantin a organisé des distractions mondaines pour rassembler l'église. L'église Nicolaïte est tombée dans le piège. Et aujourd'hui les églises protestantes organisent elles aussi des jeux d'argent, des soirées, des ventes paroissiales pour payer le pasteur. Autrefois, la dîme suffisait. Tel était le plan de Dieu, mais l'homme l'a hybridé. Au Concile de Nicée, en l'an 325, environ quinze cents évêques, et cinq fois plus de laïcs, se sont rassemblés. Mais les Nicolaïtes du plan de Constantin ont eu la majorité, ils ont établi les évêques et les cardinaux, et ôté le Saint-Esprit. Les Démocrates ont fait pareil aujourd'hui dans notre pays avec des machines à voter truquées. Nixon n'avait ainsi aucune chance contre Kennedy.
 
-**133** - Dès le début, l'idée était d'introduire un homme, d'imposer la doctrine Nicolaïte. Et ce Président élégant rassemblera les païens et les chrétiens formalistes. J'ai serré la main à l'archevêque de Canterbury, mais il est allé rendre visite au pape, pour la première fois depuis des siècles. Qu'est-ce que cela signifie ? C'est pourquoi je suis ici, c'est pourquoi ces messages sont enregistrés et sont envoyés dans le monde entier pour avertir les gens et les faire revenir à la foi. Jude voulait "combattre pour la foi qui a été transmise aux saints une fois pour toutes" [Jude 3], car ils commençaient à s'en éloigner. Combien en sont éloignés aujourd'hui ?
+**133** - Dès le début, l'idée était d'introduire un homme, d'imposer la doctrine Nicolaïte. Et ce Président élégant rassemblera les païens et les chrétiens formalistes. J'ai serré la main à l'archevêque de Canterbury, mais il est allé rendre visite au pape, pour la première fois depuis des siècles. Qu'est-ce que cela signifie ? C'est pourquoi je suis ici, c'est pourquoi ces messages sont enregistrés et sont envoyés dans le monde entier pour avertir les gens et les faire revenir à la foi. Jude voulait "combattre pour la foi qui a été transmise aux saints une fois pour toutes" [Jude 1:3], car ils commençaient à s'en éloigner. Combien en sont éloignés aujourd'hui ?
 
 **137 à 144** - Le Concile de Nicée fut confus et orageux. Les Nicolaïtes prirent le dessus pour que les évêques dirigent l'église. Aujourd'hui encore l'église Catholique vous dit de ne pas lire la Bible, et que ce n'est pas à vous de l'interpréter, mais à l'évêque. C'est toujours la même sorte de christianisme. Constantin a employé la stratégie de Balaam :
 

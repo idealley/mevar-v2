@@ -62,7 +62,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 15:7"
   - "Jean 3:3"
-  - "Jude 4"
+  - "Jude 1:4"
   - "Juges 15:15"
   - "Luc 16:8"
   - "Luc 17:26"
@@ -116,7 +116,7 @@ Etre “persévérant”, c’est persister pour atteindre un but.
 
 **16.** Les prêtres Madianites lui ont dit de ne pas se ridiculiser alors qu’il réussissait si bien comme gardien de moutons. Il a répondu : “J’ai rencontré Dieu, et il m’a dit de le faire”. Là où sa science avait échoué, la Parole de Dieu a réussi, car elle ne peut faillir. La pensée naturelle ne sait rien de Dieu, mais elle croit savoir. Dieu se rit de leur ignorance, et prend un cœur humble qui écoutera. Parce qu’il avait entendu Dieu, Moïse a persévéré même quand les bâtons des autres se sont transformés en serpents. Il avait foi en ce que Dieu avait dit, car la promesse était conforme aux Ecritures. Quand vous voyez Dieu confirmer sa promesse, alors vous pouvez persévérer. Si seulement les hommes pouvaient s’élever dans le Saint-Esprit et saisir Dieu !
 
-**17.** Mais on ne peut rien dire à certains, car ils sont prédestinés à la condamnation, ce sont des hommes “dont la condamnation est écrite depuis longtemps, des impies, qui changent la grâce de notre Dieu en dérèglement” [Jude 4]. C’est horrible d’écouter prêcher la Bible et de ne pas croire ! David avait cru en Dieu, et avait tué un lion et un ours avec sa fronde. Et un jour, il était présent quand le géant a défié Israël. Le diable agit ainsi quand il pense avoir l’avantage sur vous ! Saül et ses guerriers bien entraînés avaient peur. Mais le frêle David a relevé le défi lancé par le Philistin contre l’armée du Dieu vivant. Dieu trouve toujours un homme qui possède le courage d’aller selon la Vérité. Peu importaient à David son jeune âge et sa petite taille.
+**17.** Mais on ne peut rien dire à certains, car ils sont prédestinés à la condamnation, ce sont des hommes “dont la condamnation est écrite depuis longtemps, des impies, qui changent la grâce de notre Dieu en dérèglement” [Jude 1:4]. C’est horrible d’écouter prêcher la Bible et de ne pas croire ! David avait cru en Dieu, et avait tué un lion et un ours avec sa fronde. Et un jour, il était présent quand le géant a défié Israël. Le diable agit ainsi quand il pense avoir l’avantage sur vous ! Saül et ses guerriers bien entraînés avaient peur. Mais le frêle David a relevé le défi lancé par le Philistin contre l’armée du Dieu vivant. Dieu trouve toujours un homme qui possède le courage d’aller selon la Vérité. Peu importaient à David son jeune âge et sa petite taille.
 
 **18.** Saül a voulu lui prêter sa lourde armure. Mais l’armure cléricale ne convient pas à un homme de Dieu. S’il avait appris à combattre avec des diplômes et des credo, il ne serait pas allé au combat. Il s’est avancé avec ce qu’il savait de Dieu. La promesse de Dieu ne revient pas à lui sans avoir accompli son œuvre [Ésaïe 55:11]. David a persévéré, malgré l’opposition de ses frères : “Le Dieu qui m’a délivré du lion me délivrera de ce Philistin qui prétend que le temps des miracles est terminé, alors que Dieu est toujours le même”.
 

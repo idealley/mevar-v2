@@ -54,7 +54,7 @@ bible_refs:
   - "Exode 14:13"
   - "Hébreux 13:8"
   - "Jean 5:19"
-  - "Jude 4"
+  - "Jude 1:4"
   - "Proverbes 16:9"
   - "Psaumes 42:7"
 original: "branham/1956/56-0814"
@@ -130,7 +130,7 @@ original: "branham/1956/56-0814"
 
 **35.** Un pêcher donne des pêches car la vie du pêcher est en lui. Pour un croyant ces choses sont mortes, sinon elles porteraient leurs fruits. Jésus est présent ici sous la forme de l'Esprit. Quand il était sur terre, il a dit en Jean 5:19 : “Le Fils ne peut rien faire de lui-même, il ne fait que ce qu'il voit faire au Père; et tout ce que le Père fait, le Fils aussi le fait pareillement.” Le Père lui donnait une vision selon sa Parole infaillible. Il a dit à Nathanaël quel était son problème, mais les pharisiens l'ont traité de Belzébul. Jésus a prévenu que dire cela après la venue du Saint-Esprit ne serait jamais pardonné. Or nous sommes dans cet âge du Saint-Esprit. La Samaritaine a reconnu le Prophète quand il lui a dit son passé. Il a su qu'une femme avait touché son vêtement, mais c'est en regardant dans la foule qu'il l'a identifiée et lui a parlé.
 
-**36.** Elle avait attiré Dieu au travers de Christ. Vous pouvez de même toucher ce soir le Souverain sacrificateur qui peut être touché par nos infirmités. Livrez-vous comme moi à l'amour de Dieu, et Dieu déploiera sa Présence et agira comme autrefois sur terre. “Vous ferez les mêmes choses que moi, et même plus, car je vais au Père, car vous agirez en plusieurs lieux.” Mais il y aura toujours des incrédules quoi qu'il se passe, car ils naissent avec cet esprit. Selon Jude, leur condamnation est prédestinée depuis longtemps [Jude 4].
+**36.** Elle avait attiré Dieu au travers de Christ. Vous pouvez de même toucher ce soir le Souverain sacrificateur qui peut être touché par nos infirmités. Livrez-vous comme moi à l'amour de Dieu, et Dieu déploiera sa Présence et agira comme autrefois sur terre. “Vous ferez les mêmes choses que moi, et même plus, car je vais au Père, car vous agirez en plusieurs lieux.” Mais il y aura toujours des incrédules quoi qu'il se passe, car ils naissent avec cet esprit. Selon Jude, leur condamnation est prédestinée depuis longtemps [Jude 1:4].
 
 **37.** Considérez Caïn et Abel, Esaü et Jacob. Par prescience Dieu a haï l'un et aimé l'autre. Jésus a dit que des millions d'incrédules ne le verraient plus, mais les croyants le verront, car il sera avec eux et même en eux jusqu'à la fin du monde. Si nous déployons l'amour vers lui, il est tenu, selon sa promesse, d'agir comme autrefois. Et Dieu a placé divers ministères dans l'Eglise pour son perfectionnement.
 

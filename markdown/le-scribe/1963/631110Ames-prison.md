@@ -68,7 +68,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 6:49"
   - "Jean 8:44"
-  - "Jude 5"
+  - "Jude 1:5"
   - "Luc 13:34"
   - "Malachie 4:3"
   - "Matthieu 23:27-33"
@@ -79,7 +79,7 @@ bible_refs:
 
 **17.** Quelque chose m'a frappé il y a un mois. Et ce que je vais dire, c'est quelque chose que je présume, c'est-à-dire que j'avance sans autorité. L'heure est-elle arrivée ? J'espère me tromper.
 
-**28.** Lisons Jude 5 et 6
+**28.** Lisons Jude 1:5 et 6
 > “Je veux vous rappeler, à vous qui savez fort bien toutes ces choses, que le Seigneur, après avoir sauvé le peuple et l'avoir tiré du pays d'Egypte, fit ensuite périr les incrédules (il les a détruits parce qu'ils n'ont pas persévéré dans le message) ; - et qu'il a réservé pour le jugement du grand jour, enchaînés éternellement par les ténèbres, les anges qui n'ont pas gardé leur dignité, mais qui ont abandonné leur propre demeure” (ils seront jugés avec les incrédules).
 
 Lisons aussi 2 Pierre 2:4

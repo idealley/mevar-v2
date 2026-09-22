@@ -48,7 +48,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 5:24"
   - "Jean 5:39"
-  - "Jude 4"
+  - "Jude 1:4"
   - "Matthieu 12:42"
   - "Nombres 20:11"
   - "Romains 8:28"
@@ -68,7 +68,7 @@ original: "branham/1958/58-0625"
 
 > “La reine du Midi se lèvera, au jour du jugement, avec cette génération et la condamnera, parce qu'elle vint des extrémités de la terre pour entendre la sagesse de Salomon, et voici, il y a ici plus que Salomon”.
 
-**5.** Notre Seigneur avait accompli des miracles et discerné les pensées, et il a été traité de Béelzébul par les théologiens de son temps. Il a prévenu qu’après la venue du Saint-Esprit, dire une telle chose ne serait jamais pardonné. “Si je ne fais pas les œuvres de mon Père, ne me croyez pas, mais, si je les fais,… croyez à ces œuvres” [Jean 10:37-38]. Il existe deux églises, l’une naturelle, l’autre spirituelle, et elles sont mélangées comme l’a dit Jésus dans la parabole du semeur de blé et du semeur d’ivraie. Le bon semeur a dit de les laisser pousser ensemble. L’église spirituelle est l’Eglise élue mise à part par Dieu seul, et ce sont eux qui entendront la Parole. Certains hommes sont destinés à la condamnation et ils “changent en dérèglement la grâce de Dieu” [Jude 4] : quoi que vous fassiez, certains ne seront jamais sauvés, et ils sont pourtant très religieux.
+**5.** Notre Seigneur avait accompli des miracles et discerné les pensées, et il a été traité de Béelzébul par les théologiens de son temps. Il a prévenu qu’après la venue du Saint-Esprit, dire une telle chose ne serait jamais pardonné. “Si je ne fais pas les œuvres de mon Père, ne me croyez pas, mais, si je les fais,… croyez à ces œuvres” [Jean 10:37-38]. Il existe deux églises, l’une naturelle, l’autre spirituelle, et elles sont mélangées comme l’a dit Jésus dans la parabole du semeur de blé et du semeur d’ivraie. Le bon semeur a dit de les laisser pousser ensemble. L’église spirituelle est l’Eglise élue mise à part par Dieu seul, et ce sont eux qui entendront la Parole. Certains hommes sont destinés à la condamnation et ils “changent en dérèglement la grâce de Dieu” [Jude 1:4] : quoi que vous fassiez, certains ne seront jamais sauvés, et ils sont pourtant très religieux.
 
 **6.** L’antichrist est un esprit religieux. Bénis sont ceux qui voient et entendent, car on ne peut comprendre que par une révélation de Dieu. L’Eglise est fondée sur la révélation que Christ est le Fils de Dieu. Quand le surnaturel a lieu, cela attire toujours une foule mélangée, comme par exemple lors de la sortie d’Egypte avec Moïse. C’est étonnant que Luther ait pu se préserver du fanatisme qui a accompagné son réveil. De même, il y a beaucoup de charnel chez les Pentecôtistes, mais il y a aussi du Saint-Esprit véritable. Bénis sont ceux qui sont conduits vers le Calvaire et selon la Parole, et non par des sensations.
 

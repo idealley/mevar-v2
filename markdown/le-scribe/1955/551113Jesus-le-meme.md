@@ -52,7 +52,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 15:7"
   - "Jean 5:19"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Marc 16"
   - "Ésaïe 53:5"
 original: "branham/1955/55-1113"
@@ -86,7 +86,7 @@ Thème central : Jésus se manifeste aujourd’hui avec les mêmes signes qu’a
 **23.** [Prière]. Lisons Hébreux 13:8
 > “Jésus Christ est le même hier, aujourd'hui, et éternellement.”
 
-Lisons aussi Jude 3
+Lisons aussi Jude 1:3
 > “Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.”
 
 **25.** C'est le seul verset où il nous est demandé de combattre. Notre église doit combattre pour la foi délivrée aux saints. Pour moi, les dénominations signifient peu de chose, et je les respecte. Sur le champ de bataille de la guérison, j'ai fait face, en une après-midi, à dix-sept religions qui niaient Jésus. Que valent nos disputes dénominationnelles, alors que les 2/3 du monde n'ont pas entendu parler de lui ? C'est un péché. Là-bas, la question est de les faire passer du paganisme au Seigneur. Quand le communisme viendra par ici, vous serez heureux de rencontrer un frère, quelle que soit son étiquette. Dieu nous obligera à agir ainsi si nécessaire. Et je crois que Jésus-Christ est toujours le même.

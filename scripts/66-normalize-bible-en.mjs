@@ -157,8 +157,6 @@ const MAX_VERSE = 176; // Psalm 119
 
 let dropped = 0;
 function isPossible(book, chapter, verses) {
-  // A one-chapter book cited without a verse ("Jude 23"): the number is the verse.
-  if (MAX_CHAPTER[book] === 1 && !verses.length) return Number(chapter) <= MAX_VERSE;
   if (Number(chapter) > MAX_CHAPTER[book]) return false;
   return !verses.some((v) => Number(v) > MAX_VERSE);
 }
@@ -184,6 +182,9 @@ function normalize(md) {
   const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!canonical) return match;
+    // A one-chapter book cited without a verse ("Jude 23"): the number is the
+    // verse. "Jude 1" alone stays the chapter, which is the whole book.
+    if (MAX_CHAPTER[canonical] === 1 && !verseStart && chap !== "1") [chap, verseStart] = ["1", chap];
     const verses = [verseStart, verseEnd, ...(extra ?? "").split(/\D+/)].filter(Boolean);
     if (!isPossible(canonical, chap, verses)) {
       // A paragraph number, not a chapter — leave the text alone, record nothing.

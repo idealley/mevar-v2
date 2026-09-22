@@ -59,7 +59,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 15:7"
   - "Jean 8:46"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Luc 17:28,30"
   - "Malachie 4:24"
   - "Marc 16:17-18"
@@ -117,7 +117,7 @@ Tout chemin autre que celui prévu par Dieu est perverti, et Dieu ne varie pas. 
 
 **61.** à 65- A Nicée [en 325], après Luther, après Wesley, etc., il y a eu des inoculations d’enseignements humains hybrides. L’église a besoin d’une confirmation des Ecritures. “Celui qui croit en moi fera, lui aussi, les œuvres que moi je fais”(Jean 14:12), et “Il en sera comme aux jours de Lot et Sodome … le jour où le Fils de l’homme se révèlera” (Luc 17:28,30). Un signe de résurrection a été promis pour ce temps de la fin où les femmes se rendent de plus en plus séduisantes comme en Genèse 6:2 (“Les fils de Dieu virent que les filles des hommes étaient belles, et ce fut parmi elles qu’ils choisirent leurs femmes”). Ces femmes indécentes ne comprennent pas qu’un esprit impur est sur elles. Elles méritent la prison ! Le châtiment selon la loi de Dieu, c’est la mort. Tout est corrompu.
 
-**66.** à 69- Dieu a promis un signe scripturaire de résurrection, Jésus-Christ et son Eglise devenant UN, une restauration de la foi originelle selon Malachie 4:24. “Je vous exhorte à combattre pour la foi qui a été transmise aux saints une fois pour toutes” (Jude 3), avec les signes de la Présence de Jésus-Christ. Soyez sincères ! Purifiez-vous ! Sinon, n’avancez pas dans la ligne de prière. Que votre repentance soit sincère. Ne croyez pas que la bonté de Dieu vous permet de faire tout ce que vous voulez. Restez jusqu’à ce que le Saint-Esprit vous fasse confesser vos péchés et accepter Jésus-Christ !
+**66.** à 69- Dieu a promis un signe scripturaire de résurrection, Jésus-Christ et son Eglise devenant UN, une restauration de la foi originelle selon Malachie 4:24. “Je vous exhorte à combattre pour la foi qui a été transmise aux saints une fois pour toutes” (Jude 1:3), avec les signes de la Présence de Jésus-Christ. Soyez sincères ! Purifiez-vous ! Sinon, n’avancez pas dans la ligne de prière. Que votre repentance soit sincère. Ne croyez pas que la bonté de Dieu vous permet de faire tout ce que vous voulez. Restez jusqu’à ce que le Saint-Esprit vous fasse confesser vos péchés et accepter Jésus-Christ !
 
 **70.** à 78- Le Messie s’est fait connaître à la Samaritaine par le signe du prophète, en dévoilant ce qui n’allait pas dans sa vie, et le témoignage de cette femme a suffi pour que toute la ville croie. Acceptez le chemin pourvu par Dieu en ces temps de la fin ! Si vous êtes malade ou pécheur, Dieu a pourvu un chemin, Jésus-Christ, le même hier, aujourd’hui et éternellement, et le Saint-Esprit est Christ sous la forme de l’Esprit dans l’Eglise. Le jour vient où la colère de Dieu va tomber pendant le Sixième Sceau sur ce monde souillé, et où tout sera détruit à Chicago et partout ailleurs. Mais l’Epouse sera partie avant. (Appel à la conversion. Prière).
 

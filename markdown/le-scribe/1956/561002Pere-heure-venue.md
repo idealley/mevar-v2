@@ -41,7 +41,7 @@ bible_refs:
   - "2 Samuel 5:24"
   - "Hébreux 11:4"
   - "Jean 17:1"
-  - "Jude 12"
+  - "Jude 1:12-13"
   - "Luc 24:49"
   - "Marc 16"
   - "Marc 8:18"
@@ -71,7 +71,7 @@ Et lisons aussi Jean 17:1
 
 **5.** Je sais que parmi vous plusieurs parlent mieux que moi des Écritures. Mais nous sommes associés, et je veux mettre en garde ceux qui refusent de marcher sur le chemin que Dieu nous a demandé de suivre. Le roi Achab était indifférent aux choses de Dieu, comme les croyants tièdes d'aujourd'hui. Il allait où soufflait le vent. Dieu veut des gens qui savent où ils vont, inébranlables, avec les voiles tendues vers le Calvaire. La voile est bien orientée quand ce vent vous souffle en pleine figure. C'est ainsi qu'il faut régler la voile.
 
-**6.** Un vrai croyant regarde toujours au Calvaire, et ne suit pas les vents venus d'ailleurs. Il n'est pas emporté à tout vent de doctrine. Il ne suit que la direction du Calvaire. Jude a parlé des "nuées sans eaux poussées par les vents, d'astres errants" [Jude 12-13]. Si un chrétien est né dans le Royaume, alors ses désirs, sa vie, tout est pointé vers Christ. S'il a un peu de courage, il abandonnera le formalisme froid et la science du texte grec.
+**6.** Un vrai croyant regarde toujours au Calvaire, et ne suit pas les vents venus d'ailleurs. Il n'est pas emporté à tout vent de doctrine. Il ne suit que la direction du Calvaire. Jude a parlé des "nuées sans eaux poussées par les vents, d'astres errants" [Jude 1:12-13]. Si un chrétien est né dans le Royaume, alors ses désirs, sa vie, tout est pointé vers Christ. S'il a un peu de courage, il abandonnera le formalisme froid et la science du texte grec.
 
 **7.** Un homme m'a dit avoir passé cinq ans à examiner le sens d'un mot grec, et que trouver ce sens avait été une bénédiction. J'ai répondu qu'en cinq ans j'avais gagné un demi-million d'âmes à Christ sans connaître un mot de grec. Ce qui importe, ce n'est pas ce que vous connaissez, mais "qui" vous connaissez. Ces choses sont de la folie si elles ne font pas du bien. C'est lui qu'il faut connaître. Et si la personne se focalise sur Christ de façon uniquement émotionnelle, elle glissera vers le fanatisme, et elle ira où il y aura du brouhaha. Ne regardez qu'à l'Agneau de Dieu, et vivez.
 

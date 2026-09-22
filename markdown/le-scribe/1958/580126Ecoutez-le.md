@@ -49,7 +49,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 14:2"
   - "Jean 1:50"
-  - "Jude 11"
+  - "Jude 1:11"
   - "Matthieu 17:1"
   - "Psaumes 103:3"
   - "Éphésiens 1:5"
@@ -79,7 +79,7 @@ original: "branham/1958/58-0126"
 
 **22.** A l’inverse, un enfant peut faire comme le père, et faire les choses qui plaisent au père. Le tuteur est alors fier de faire son rapport : “Votre fils vous ressemble, il croit ce que vous avez écrit, que vous êtes le Je Suis.” Dieu veut que nous soyons obéissants. Certes, celui qui est né de nouveau est sauvé, mais une église désobéissante sera toujours infirme. Vos dénominations ne devraient pas être des barrières. Le pâturage est pour l’Eglise de Dieu, pour toutes les brebis. Mais si le fils était obéissant, à sa majorité il était revêtu publiquement d’un vêtement royal, et sa signature valait celle du père. Il était héritier de tout. L’Eglise devrait en être là. “Celui qui croit en moi fera aussi les œuvres que je fais” [Jean 14:12]. Si vous avez été revêtu du Saint-Esprit, adopté et baptisé du Saint-Esprit, demandez, et cela vous sera accordé.
 
-**25.** Avez-vous reçu un faux esprit ? Aimez-vous les choses du monde ? Etes-vous mis à part ? Dieu ne nous demande rien que le Fils n’ait pu faire. Peu avant la crucifixion, Dieu a adopté son Fils obéissant, il l’a recouvert d’un vêtement éblouissant devant des témoins célestes et terrestres. “Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute mon affection : écoutez-le !” Il était adopté : “Tout pouvoir m’a été donné aux cieux et sur la terre”. C’était Dieu adoptant son Fils. Mais l’église a contourné cela, et est allée vers la théologie humaine. Dès que Dieu fait un geste, l’homme devient émotif, il s’excite et imite. Il en a été ainsi en chaque âge. Une foule mélangée est sortie d’Egypte, et l’Eternel a demandé à Moïse de se séparer de Koré et de ces gens. Il doit en aller de même dans les derniers jours, et ils subiront le destin de Koré [cf. Jude 11].
+**25.** Avez-vous reçu un faux esprit ? Aimez-vous les choses du monde ? Etes-vous mis à part ? Dieu ne nous demande rien que le Fils n’ait pu faire. Peu avant la crucifixion, Dieu a adopté son Fils obéissant, il l’a recouvert d’un vêtement éblouissant devant des témoins célestes et terrestres. “Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute mon affection : écoutez-le !” Il était adopté : “Tout pouvoir m’a été donné aux cieux et sur la terre”. C’était Dieu adoptant son Fils. Mais l’église a contourné cela, et est allée vers la théologie humaine. Dès que Dieu fait un geste, l’homme devient émotif, il s’excite et imite. Il en a été ainsi en chaque âge. Une foule mélangée est sortie d’Egypte, et l’Eternel a demandé à Moïse de se séparer de Koré et de ces gens. Il doit en aller de même dans les derniers jours, et ils subiront le destin de Koré [cf. Jude 1:11].
 
 **27.** Voyez l’excitation de Pierre devant le surnaturel. Il a voulu construire trois tabernacles, mais Moïse représente la loi en laquelle il n’y a pas de salut. Pierre voulait un tabernacle pour ceux qui veulent garder le sabbat. La loi est le policier qui vous montre votre péché, qui vous met en prison, mais ne peut vous en sortir. Elie représente le jugement de Dieu. Ceux qui ont voulu se saisir de lui ont été consumés [2 Rois 1:10,12].
 

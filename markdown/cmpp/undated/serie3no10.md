@@ -56,8 +56,8 @@ bible_refs:
   - "Jean 14"
   - "Jean 4"
   - "Jean 6"
-  - "Jude 5"
-  - "Jude 6"
+  - "Jude 1:5"
+  - "Jude 1:6"
   - "Malachie 4"
   - "Matthieu 1"
   - "Matthieu 23"
@@ -116,10 +116,10 @@ Jeffersonville — Indiana, U.S.A.
 26 J'ai traversé les sept mers, je suis allé partout, mais il n'y a aucun endroit qui me semble aussi consacré que ce lieu-ci. Il y a ici quelque chose de spécial. J'ai prêché pratiquement dans le monde entier, mais nulle part, à aucun moment je n'ai senti l'Esprit de Dieu au milieu de nous comme lorsque je me tiens ici en chaire. C'est vrai.
 27 Quand j'ai posé la première pierre, j'ai dit: «Seigneur, ne laisse pas tomber cela!». Les gens disaient: «Dans deux mois ce sera un garage!». J'ai prié: «Ne laisse pas tomber cela, que ce lieu soit là avec des gens qui prient dedans quand Jésus reviendra!». Je crois qu'il en sera ainsi.
 28 Maintenant ouvrons la Bible et attendons-nous à ce que le Seigneur nous donne de Ses bénédictions. Nous allons lire quelques passages des Ecritures. J'en ai inscrit quelques-uns auxquels je veux me référer et j'ai pris quelques notes. Je vais d'abord lire trois passages que je vais vous indiquer.
-29 D'abord Jude 5 et 6. Jude n'a qu'un seul livre comme vous le savez. Nous lirons ensuite 2 Pierre 2.4,5 et 1 Pierre 3.18-20. Dieu voulant, mon sujet de ce matin sera: Les âmes qui sont en prison maintenant. Ames enfermées, condamnées pour toujours, n'ayant aucun moyen d'être sauvées. "Les âmes qui ont été emprisonnées maintenant".
+29 D'abord Jude 1:5 et 6. Jude n'a qu'un seul livre comme vous le savez. Nous lirons ensuite 2 Pierre 2.4,5 et 1 Pierre 3.18-20. Dieu voulant, mon sujet de ce matin sera: Les âmes qui sont en prison maintenant. Ames enfermées, condamnées pour toujours, n'ayant aucun moyen d'être sauvées. "Les âmes qui ont été emprisonnées maintenant".
 30 Lisons d'abord dans le livre de Jude. J'aimerais le lire tout entier, mais pour gagner du temps (car il est déjà 10h30), je commencerai au verset 5. Jude était le demi-frère de Jésus-Christ, comme nous le savons tous. Il était le fils de Joseph.
 > "Or je désire vous rappeler, à vous qui une fois saviez tout, que le Seigneur, ayant délivré le peuple du pays d'Egypte, a détruit ensuite ceux qui n'ont pas cru…".
-31 Il les a d'abord sauvés en les conduisant hors d'Egypte, puis Il dut les détruire parce qu'ils ne persévérèrent pas dans leur message. Jude 6:
+31 Il les a d'abord sauvés en les conduisant hors d'Egypte, puis Il dut les détruire parce qu'ils ne persévérèrent pas dans leur message. Jude 1:6:
 > "… et qu'il a réservé dans des liens éternels, sous l'obscurité, pour le jugement du grand jour, les anges qui n'ont pas gardé leur origine, mais qui ont abandonné leur propre demeure".
 32 Les anges qui étaient au ciel autrefois mais qui n'ont pas gardé leur origine sont tombés et sont maintenant pour toujours enchaînés dans des chaînes de ténèbres; ils sont gardés dans cette condition jusqu'au jugement du grand jour où ils seront jugés avec tout le reste des incrédules. Remontons maintenant d'un ou deux livres et lisons dans 2 Pierre 2.4.
 33 "Car si Dieu n'a pas épargné les anges qui ont péché, mais s'il les a précipités dans les abîmes de ténèbres et les réserve pour le jugement; s'il n'a pas épargné l'ancien monde, mais s'il a sauvé Noé, lui huitième, ce prédicateur de la justice, lorsqu'il fit venir le déluge sur un monde d'impies" (Il n'a pas épargné les anges; Il les a enchaînés dans des chaînes de ténèbres et du temps de Noé a condamné le monde entier à la destruction).

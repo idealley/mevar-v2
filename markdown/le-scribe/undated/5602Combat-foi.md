@@ -57,7 +57,7 @@ foi personnelle au Seigneur Jésus.
  __________________________________
  §7 à 9- [Remerciements divers]. Tout le monde peut tourner les pages de la Bible, mais nul
 ne peut en donner la compréhension si ce n'est Christ, car elle a été écrite sous
-inspiration. [Prière]. Lisons Jude 3
+inspiration. [Prière]. Lisons Jude 1:3
  “Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti
 obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une
 fois pour toutes.”
