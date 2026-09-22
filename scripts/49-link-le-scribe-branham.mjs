@@ -173,8 +173,13 @@ function setField(file, key, value) {
   const text = fs.readFileSync(file, "utf8");
   const m = text.match(/^(---\n)([\s\S]*?)(\n---\n)([\s\S]*)$/);
   if (!m) return false;
-  const lines = m[2].split("\n").filter((l) => !l.startsWith(`${key}: `));
-  if (value) lines.push(`${key}: ${JSON.stringify(value)}`);
+  // Replaced where it stands, so a field another script appended after it
+  // (47's bible_refs) does not swap places with it on every run.
+  const lines = m[2].split("\n");
+  const i = lines.findIndex((l) => l.startsWith(`${key}: `));
+  const line = value ? [`${key}: ${JSON.stringify(value)}`] : [];
+  if (i === -1) lines.push(...line);
+  else lines.splice(i, 1, ...line);
   const out = m[1] + lines.join("\n") + m[3] + m[4];
   if (out === text) return false;
   fs.writeFileSync(file, out);
