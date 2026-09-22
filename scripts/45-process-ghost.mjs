@@ -2,8 +2,10 @@
 // Process the Ghost export into clean per-post markdown with proper frontmatter.
 //
 // Additive: markdown/mevar/ is ours once written. Only slugs with no file yet
-// are created; posts edited on Ghost since their file was written are printed
-// so a human can decide what to carry over.
+// are created; posts Ghost has edited since the last import are printed so a
+// human can decide what to carry over. The comparison is against the
+// `updated_at` the previous import recorded in manifests/mevar.json — file
+// mtimes are checkout times on a fresh clone and say nothing.
 //
 // Usage:
 //   node scripts/45-process-ghost.mjs [export.json]   # default: newest mevar.ghost.*.json at the repo root
@@ -103,6 +105,7 @@ for (const post of posts) {
   const importTags = allTags.filter((t) => IMPORT_TAG_RE.test(t.name));
   const postAuthors = authorsByPost.get(post.id) ?? [];
 
+  const prev = existingBySlug.get(post.slug);
   const url = post.canonical_url || `https://mevar.org/${post.slug}/`;
   const publishedAt = post.published_at ?? post.created_at;
   const publishedDate = publishedAt ? publishedAt.slice(0, 10) : null;
@@ -144,8 +147,9 @@ for (const post of posts) {
   const filePath = path.join(outDir, `${post.slug}.md`);
   if (fs.existsSync(filePath)) {
     // Existing markdown is ours — cleaned, patched, hand-edited. Never overwrite.
-    if (post.updated_at && new Date(post.updated_at) > fs.statSync(filePath).mtime) {
-      editedOnGhost.push({ slug: post.slug, updated_at: post.updated_at });
+    const imported = prev?.updated_at;
+    if (post.updated_at && imported && post.updated_at > imported) {
+      editedOnGhost.push({ slug: post.slug, was: imported, now: post.updated_at });
     }
   } else {
     fs.writeFileSync(filePath, fm.join("\n") + md + "\n");
@@ -173,9 +177,9 @@ for (const post of posts) {
     pathname: new URL(url).pathname.replace(/\/$/, "") || "/",
     ghost_id: post.id,
     uuid: post.uuid,
+    updated_at: post.updated_at ?? null,
     has_import_tag: importTags.length > 0,
   };
-  const prev = existingBySlug.get(post.slug);
   manifest.push(prev ? { ...prev, ...entry } : entry);
 }
 
@@ -212,8 +216,8 @@ console.log(`mevar markdown:`);
 console.log(`  posts in export: ${posts.length}`);
 console.log(`  new slugs written: ${newSlugs.length}`);
 for (const slug of newSlugs) console.log(`    + ${slug}`);
-console.log(`  edited on Ghost since their file was written: ${editedOnGhost.length}`);
-for (const e of editedOnGhost) console.log(`    ~ ${e.slug} (${e.updated_at})`);
+console.log(`  edited on Ghost since the last import: ${editedOnGhost.length}`);
+for (const e of editedOnGhost) console.log(`    ~ ${e.slug} (${e.was} → ${e.now})`);
 console.log(`  tags: ${tagsOut.length} (${tagsOut.filter((t) => t.post_count > 0).length} in use)`);
 console.log(`  authors: ${authorsOut.length}`);
 console.log(`  date range: ${manifest.at(-1)?.published_at} → ${manifest[0]?.published_at}`);
