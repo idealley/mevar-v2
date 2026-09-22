@@ -1,5 +1,7 @@
 #!/usr/bin/env node
-// Normalize French Bible references to a single canonical form: "Book chap:verse[-verse]".
+// Find French Bible references and record them in one canonical form,
+// "Book chap:verse[-verse]", in manifests/bible-refs.json. The text is never
+// changed: the preacher's words stay as written, only the ref is canonical.
 // Examples handled (illustrative — full list in BOOK_VARIANTS):
 //   "Mt 24:6" "Math. 24, 6" "Matth 24:5-7" "Matthieu 24 :5-7"
 //   "1Cor 5:20-21" "I Cor. 5:20-21" "1 Cor 5:20-21" "Première Corinthiens 5:20"
@@ -9,7 +11,7 @@
 // Strategy:
 //   1) Build a single regex of all book-name forms (sorted longest-first to avoid
 //      matching "Jean" inside "1 Jean"; numbered books detected with a prefix).
-//   2) Run replace() over every markdown body; emit canonical form.
+//   2) Match every markdown body; render each hit in canonical form.
 //   3) Collect found refs per file into manifests.
 //
 // CLI:
@@ -128,9 +130,11 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
 
 function normalize(md) {
   const found = [];
-  const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
+  for (const match of md.matchAll(REF_RE)) {
+    const [text, bookVariant, , , verseEnd, extra] = match;
+    let [, , chap, verseStart] = match;
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
-    if (!canonical) return match;
+    if (!canonical) continue;
     // A one-chapter book cited without a verse ("Jude 23"): the number is the
     // verse. "Jude 1" alone stays the chapter, which is the whole book.
     if (MAX_CHAPTER[canonical] === 1 && !verseStart && chap !== "1") [chap, verseStart] = ["1", chap];
@@ -138,7 +142,7 @@ function normalize(md) {
     if (!isPossible(canonical, chap, verses)) {
       // A paragraph number, not a chapter — leave the text alone, record nothing.
       dropped++;
-      return match;
+      continue;
     }
     const rendered = renderRef({
       book: canonical,
@@ -148,9 +152,8 @@ function normalize(md) {
       extra: extra ?? null,
     });
     found.push(rendered);
-    return rendered;
-  });
-  return { md: out, refs: [...new Set(found)].sort() };
+  }
+  return [...new Set(found)].sort();
 }
 
 // ─── Driver ──────────────────────────────────────────────────────────────────
@@ -179,7 +182,7 @@ const sources = targets.length > 0
 const refsBySource = {};
 const refsByFile = {};
 const scanned = [];
-let totalFiles = 0, totalRefs = 0, modified = 0;
+let totalFiles = 0, totalRefs = 0;
 
 for (const source of sources) {
   const sourceName = path.basename(source);
@@ -190,21 +193,14 @@ for (const source of sources) {
     scanned.push(path.relative(root, file));
     refsBySource[sourceName].files++;
     const text = fs.readFileSync(file, "utf8");
-    // Skip frontmatter; only normalize body
-    const fmMatch = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
-    const fm = fmMatch ? fmMatch[1] : "";
-    const body = fmMatch ? fmMatch[2] : text;
+    const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
 
-    const { md: cleanedBody, refs } = normalize(body);
+    const refs = normalize(body);
     if (refs.length) {
       totalRefs += refs.length;
       refsBySource[sourceName].refs += refs.length;
       for (const r of refs) refsBySource[sourceName].unique.add(r);
       refsByFile[path.relative(root, file)] = refs;
-    }
-    if (cleanedBody !== body && !dryRun) {
-      fs.writeFileSync(file, fm + cleanedBody);
-      modified++;
     }
   }
 }
@@ -212,7 +208,6 @@ for (const source of sources) {
 // Output stats
 console.log(`bible refs normalized:`);
 console.log(`  files scanned: ${totalFiles}`);
-console.log(`  files modified: ${modified}`);
 console.log(`  total ref instances: ${totalRefs}`);
 console.log(`  impossible refs dropped: ${dropped}`);
 console.log(`  by source:`);

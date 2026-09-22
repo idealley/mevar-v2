@@ -2,8 +2,9 @@
 // English-Bible reference normalizer for the Branham corpus.
 // Same architecture as 65-normalize-bible.mjs, but with English book names + aliases.
 //
-// Output canonical form: "Book chap:verse[-end][,extras]"
-// e.g. "Matt 24:6", "1 Cor. 5,20-21" → "Matthew 24:6", "1 Corinthians 5:20-21"
+// Records each ref in canonical form, "Book chap:verse[-end][,extras]", e.g.
+// "Matt 24:6", "1 Cor. 5,20-21" → "Matthew 24:6", "1 Corinthians 5:20-21".
+// The text is never changed: the preacher's words stay, only the ref is canonical.
 //
 // CLI:
 //   node scripts/66-normalize-bible-en.mjs                # process branham markdown
@@ -112,15 +113,17 @@ const SPOKEN = [
 
 function normalize(md) {
   const found = [];
-  const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
+  for (const match of md.matchAll(REF_RE)) {
+    const [text, bookVariant, , , verseEnd, extra] = match;
+    let [, , chap, verseStart] = match;
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
-    if (!canonical) return match;
+    if (!canonical) continue;
     // The branham.org text never writes a citation with a lowercase book name,
     // or with a period between book and chapter: "that's my job. 9 And",
     // "the book of Revelation. 12 And" are a sentence end and a paragraph number.
-    if (/^\p{Ll}/u.test(bookVariant) || match[bookVariant.length] === ".") {
+    if (/^\p{Ll}/u.test(bookVariant) || text[bookVariant.length] === ".") {
       notCitations++;
-      return match;
+      continue;
     }
     // A one-chapter book cited without a verse ("Jude 23"): the number is the
     // verse. "Jude 1" alone stays the chapter, which is the whole book.
@@ -129,7 +132,7 @@ function normalize(md) {
     if (!isPossible(canonical, chap, verses)) {
       // A paragraph number, not a chapter — leave the text alone, record nothing.
       dropped++;
-      return match;
+      continue;
     }
     const rendered = renderRef({
       book: canonical,
@@ -139,18 +142,16 @@ function normalize(md) {
       extra: extra ?? null,
     });
     found.push(rendered);
-    return rendered;
-  });
-  // Spoken citations are recorded, never rewritten: the words stay the preacher's.
-  for (const m of out.matchAll(SPOKEN[0])) spoken(m[1], m[2], m[3]);
-  for (const m of out.matchAll(SPOKEN[1])) spoken(m[2], m[1]);
+  }
+  for (const m of md.matchAll(SPOKEN[0])) spoken(m[1], m[2], m[3]);
+  for (const m of md.matchAll(SPOKEN[1])) spoken(m[2], m[1]);
   function spoken(bookVariant, chapter, verse) {
     const book = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!isPossible(book, chapter, verse ? [verse] : [])) return;
     found.push(renderRef({ book, chapter, verseStart: verse ?? null, verseEnd: null, extra: null }));
     spokenRefs++;
   }
-  return { md: out, refs: [...new Set(found)].sort() };
+  return [...new Set(found)].sort();
 }
 
 function* walk(target) {
@@ -175,7 +176,7 @@ const sources = targets.length > 0
 
 const refsByFile = {};
 const scanned = [];
-let totalFiles = 0, totalRefs = 0, modified = 0;
+let totalFiles = 0, totalRefs = 0;
 const refsBySource = {};
 
 for (const sourceDir of sources) {
@@ -186,26 +187,19 @@ for (const sourceDir of sources) {
     scanned.push(path.relative(root, file));
     refsBySource[sourceName].files++;
     const text = fs.readFileSync(file, "utf8");
-    const fmMatch = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
-    const fm = fmMatch ? fmMatch[1] : "";
-    const body = fmMatch ? fmMatch[2] : text;
-    const { md: cleanedBody, refs } = normalize(body);
+    const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
+    const refs = normalize(body);
     if (refs.length) {
       totalRefs += refs.length;
       refsBySource[sourceName].refs += refs.length;
       for (const r of refs) refsBySource[sourceName].unique.add(r);
       refsByFile[path.relative(root, file)] = refs;
     }
-    if (cleanedBody !== body && !dryRun) {
-      fs.writeFileSync(file, fm + cleanedBody);
-      modified++;
-    }
   }
 }
 
 console.log(`English bible refs normalized:`);
 console.log(`  files scanned: ${totalFiles}`);
-console.log(`  files modified: ${modified}`);
 console.log(`  total ref instances: ${totalRefs}`);
 console.log(`  impossible refs dropped: ${dropped}`);
 console.log(`  lowercase or dotted book names skipped: ${notCitations}`);
