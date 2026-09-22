@@ -58,16 +58,17 @@ in the pilot, and over 90% of the French-name spots in the full measurement.
 
 - Page furniture (`THE SPOKEN WORD` footers, running headers), its own follow-up.
 - Wording the LLM cleanup changed ("Saint John the 5th chapter: Jesus" became
-  "John 5: Jesus"): 159 "Saint John" spots differ from the source. Not damage
-  from this pipeline; a question for Samuel below.
+  "John 5: Jesus"). Not damage from the normalizers.
 - The French sources and `65`.
 
 ## Question for Samuel (does not block)
 
 `65` and `66` rewrite every citation in the body to canonical form: "First
 Corinthians 13" becomes "1 Corinthians 13", "Saint John 5" becomes "John 5".
-That changes how the preacher said it. Keep canonical text, or leave the text
-as spoken and only record the canonical ref (as item 3 does)?
+That changes how the preacher said it: 159 Branham spots read "John" where
+branham.org has "Saint John", and 39 "1 Corinthians" where it has "First
+Corinthians". Keep canonical text, or leave the text as spoken and only record
+the canonical ref (as item 3 does)?
 
 ## Acceptance evidence
 
