@@ -79,7 +79,7 @@ const MAX_CHAPTER = {
 };
 const MAX_VERSE = 176; // Psalm 119
 
-let dropped = 0, notCitations = 0;
+let dropped = 0, notCitations = 0, spokenRefs = 0;
 function isPossible(book, chapter, verses) {
   if (Number(chapter) > MAX_CHAPTER[book]) return false;
   return !verses.some((v) => Number(v) > MAX_VERSE);
@@ -100,6 +100,15 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
   }
   return out;
 }
+
+// Branham reads his text aloud: "Saint John the 4th chapter, the 23rd verse",
+// "In the 20th chapter of Numbers". Case-sensitive, like the rule above: a
+// lowercase book name is prose.
+const ORD = "(\\d{1,3})(?:st|nd|rd|th)";
+const SPOKEN = [
+  new RegExp(`(?<!\\p{L})(${BOOK_ALT}),? the ${ORD} chapter(?:,? (?:and )?the ${ORD} verse)?`, "gu"),
+  new RegExp(`the ${ORD} chapter of (${BOOK_ALT})(?!\\p{L})`, "gu"),
+];
 
 function normalize(md) {
   const found = [];
@@ -132,6 +141,15 @@ function normalize(md) {
     found.push(rendered);
     return rendered;
   });
+  // Spoken citations are recorded, never rewritten: the words stay the preacher's.
+  for (const m of out.matchAll(SPOKEN[0])) spoken(m[1], m[2], m[3]);
+  for (const m of out.matchAll(SPOKEN[1])) spoken(m[2], m[1]);
+  function spoken(bookVariant, chapter, verse) {
+    const book = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
+    if (!isPossible(book, chapter, verse ? [verse] : [])) return;
+    found.push(renderRef({ book, chapter, verseStart: verse ?? null, verseEnd: null, extra: null }));
+    spokenRefs++;
+  }
   return { md: out, refs: [...new Set(found)].sort() };
 }
 
@@ -191,6 +209,7 @@ console.log(`  files modified: ${modified}`);
 console.log(`  total ref instances: ${totalRefs}`);
 console.log(`  impossible refs dropped: ${dropped}`);
 console.log(`  lowercase or dotted book names skipped: ${notCitations}`);
+console.log(`  spoken citations recorded: ${spokenRefs}`);
 console.log(`  by source:`);
 for (const [src, s] of Object.entries(refsBySource)) {
   console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
