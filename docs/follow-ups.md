@@ -26,7 +26,7 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## `100-ingest-surrealdb.mjs` never deletes an edge
 
-**Symptom**: all eight edge types — `by`, `cites`, `mentions`, `mentions_place`, `has_theme`, `has_tag`, `contains`, `based_on` — go through the same insert-only `inChunks`. Re-ingesting after the corpus changed adds the new edges and leaves the old ones. Goal 02 dropped 374 impossible bible refs, so an existing database keeps 374 stale `cites` edges; a corrected `original` link leaves both `based_on` edges, since the unique index is on `(in, out)`.
+**Symptom**: all eight edge types — `by`, `cites`, `mentions`, `mentions_place`, `has_theme`, `has_tag`, `contains`, `based_on` — go through the same insert-only `inChunks`. Re-ingesting after the corpus changed adds the new edges and leaves the old ones. Against `origin/main`, goal 02 removes 477 (file, reference) pairs from `manifests/bible-refs.json` (impossible chapters, the "you're" misreads, malformed ranges, and the 83 one-chapter refs that change form), so a database ingested before it keeps up to 477 stale `cites` edges; a corrected `original` link leaves both `based_on` edges, since the unique index is on `(in, out)`.
 
 **Fix**: delete a work's outgoing edges of each type before relating the current set, or diff against what is stored. One pass over all eight types, not one type at a time. Until then, a corpus change means rebuilding the database rather than re-ingesting on top.
 
@@ -42,9 +42,9 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Status**: 799 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 111 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 77 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter.
 
-One link is known to be wrong: `530607Demons-religieux` → `53-0607A "The Ministry of Christ"`. The subtitle says "dimanche après-midi" so the time-of-day rule takes it, but the titles do not match — Le-Scribe's date for the demonology series looks to be off by a day or two. Check it against `53-0608` before trusting that pair.
+Three links are suspect because the titles disagree, and all three point at Le-Scribe dates drifting by a day or two: `530607Demons-religieux` → `53-0607A "The Ministry of Christ"` (time-of-day rule), and `530606Demons-physique` → `53-0606 "An Ensign"` and `600803Jehova-J` → `60-0803 "Abraham"` (the only sermon that day). No rule in the script can see this, since the only evidence is a French title against an English one; the human pass should start with them. The "claimed twice" rows show the same drift: `550118Ange` claims `55-0118 "This Great Warrior, David"`.
 
-**Fix**: a human pass over the 120, or model the summary→sermon relation as many-to-one on both sides.
+**Fix**: a human pass over the 111, or model the summary→sermon relation as many-to-one on both sides.
 
 ## Markdown files with no frontmatter
 
