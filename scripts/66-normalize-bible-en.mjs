@@ -128,6 +128,34 @@ const REF_RE = new RegExp(
   "giu",
 );
 
+// ─── Impossible references ───────────────────────────────────────────────────
+// "Zephaniah 155" is a book name followed by a paragraph number, not a chapter.
+// Max chapter per book; for the one-chapter books the number that follows the
+// name is a verse, so their entry is the verse count instead.
+const MAX_CHAPTER = {
+  "Genesis": 50, "Exodus": 40, "Leviticus": 27, "Numbers": 36,
+  "Deuteronomy": 34, "Joshua": 24, "Judges": 21, "Ruth": 4, "1 Samuel": 31,
+  "2 Samuel": 24, "1 Kings": 22, "2 Kings": 25, "1 Chronicles": 29,
+  "2 Chronicles": 36, "Ezra": 10, "Nehemiah": 13, "Esther": 10, "Job": 42,
+  "Psalms": 150, "Proverbs": 31, "Ecclesiastes": 12, "Song of Solomon": 8,
+  "Isaiah": 66, "Jeremiah": 52, "Lamentations": 5, "Ezekiel": 48, "Daniel": 12,
+  "Hosea": 14, "Joel": 4, "Amos": 9, "Obadiah": 21, "Jonah": 4, "Micah": 7,
+  "Nahum": 3, "Habakkuk": 3, "Zephaniah": 3, "Haggai": 2, "Zechariah": 14,
+  "Malachi": 4, "Matthew": 28, "Mark": 16, "Luke": 24, "John": 21, "Acts": 28,
+  "Romans": 16, "1 Corinthians": 16, "2 Corinthians": 13, "Galatians": 6,
+  "Ephesians": 6, "Philippians": 4, "Colossians": 4, "1 Thessalonians": 5,
+  "2 Thessalonians": 3, "1 Timothy": 6, "2 Timothy": 4, "Titus": 3,
+  "Philemon": 25, "Hebrews": 13, "James": 5, "1 Peter": 5, "2 Peter": 3,
+  "1 John": 5, "2 John": 13, "3 John": 15, "Jude": 25, "Revelation": 22,
+};
+const MAX_VERSE = 176; // Psalm 119
+
+let dropped = 0;
+function isPossible(book, chapter, verses) {
+  if (Number(chapter) > MAX_CHAPTER[book]) return false;
+  return !verses.some((v) => Number(v) > MAX_VERSE);
+}
+
 function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
   let out = `${book} ${chapter}`;
   if (verseStart !== undefined && verseStart !== null) {
@@ -149,6 +177,12 @@ function normalize(md) {
   const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!canonical) return match;
+    const verses = [verseStart, verseEnd, ...(extra ?? "").split(/\D+/)].filter(Boolean);
+    if (!isPossible(canonical, chap, verses)) {
+      // A paragraph number, not a chapter — leave the text alone, record nothing.
+      dropped++;
+      return match;
+    }
     const rendered = renderRef({
       book: canonical,
       chapter: chap,
@@ -216,6 +250,7 @@ console.log(`English bible refs normalized:`);
 console.log(`  files scanned: ${totalFiles}`);
 console.log(`  files modified: ${modified}`);
 console.log(`  total ref instances: ${totalRefs}`);
+console.log(`  impossible refs dropped: ${dropped}`);
 console.log(`  by source:`);
 for (const [src, s] of Object.entries(refsBySource)) {
   console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
