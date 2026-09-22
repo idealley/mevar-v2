@@ -99,6 +99,7 @@ node scripts/73-apply-llm.mjs <source>                # apply cache → markdown
 
 # 5. Bible reference normalization
 node scripts/65-normalize-bible.mjs                   # French (a path argument limits it, and merges)
+node scripts/65b-restore-branham-from-source.mjs      # branham: undo old damage from the PDFs (needs 20 first)
 node scripts/66-normalize-bible-en.mjs                # English (branham)
 node scripts/47-lift-manifest-fields.mjs              # bible_refs + urls into frontmatter
 

@@ -47,10 +47,15 @@ Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well
 
 | Script                          | Languages          | Output                                   |
 | ------------------------------- | ------------------ | ---------------------------------------- |
-| `65-normalize-bible.mjs`        | French — LSG style | rewrites refs in markdown to `Matthieu 24:6` form |
-| `66-normalize-bible-en.mjs`     | English — KJV style | rewrites refs to `Matthew 24:6` form     |
+| `65-normalize-bible.mjs`        | French — LSG style | rewrites refs in markdown to `Matthieu 24:6` form; not `branham/` |
+| `65b-restore-branham-from-source.mjs` | English | puts back words old runs turned into book names, from the branham.org PDFs |
+| `66-normalize-bible-en.mjs`     | English — KJV style | rewrites refs to `Matthew 24:6` form; records spoken ones ("Saint John the 4th chapter") without rewriting |
 
-Both write to `manifests/bible-refs.json` (merged, keyed by markdown path). 37k+ refs normalized corpus-wide.
+The book tables live in `scripts/bible-books.mjs`. Both normalizers merge into
+`manifests/bible-refs.json`, keyed by markdown path. 65b needs the Branham PDFs
+first (`20-download-pdfs.mjs manifests/branham-<year>.json`, 152 MB, gitignored)
+and lists the French names it cannot align in
+`manifests/branham-restore-unaligned.json`.
 
 ## Stage 5 — Index assembly
 

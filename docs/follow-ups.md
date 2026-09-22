@@ -2,19 +2,11 @@
 
 Living list of stuff we know about and have decided to defer, with enough context to pick back up.
 
-## Spelled-out scripture citations are not detected
+## Branham text the restoration could not reach
 
-**Status**: 65 and 66 only match `Book chapter:verse` in numerals. Branham reads his text aloud instead: **2,948** occurrences of "`Saint John the 4th chapter`" / "`Kings, the 6th chapter`" in the Branham corpus, 365 of them naming the verse too ("`Saint Matthew the 4th chapter, the 23rd verse`"). None of those is in `bible-refs.json`, so a sermon's principal reading — the passage it opens with — is usually the one reference that is missing.
+**Status**: goal 07 put back 634 words from the branham.org PDFs. 41 French book names remain in `markdown/branham/`, listed with their context in `manifests/branham-restore-unaligned.json`: the LLM cleanup changed the words around them, so they do not align with the source.
 
-The book also comes after the chapter: "`In the 20th chapter of Numbers, I read these words:`" (`53-0512`), **614** more occurrences of "`the <N>th chapter of <Book>`".
-
-**Fix**: two more patterns, `<Book>,? (the )?<N>(st|nd|rd|th) chapter(,? (and )?the <M>(st|nd|rd|th) verse)?` and `the <N>(st|nd|rd|th) chapter of <Book>`, with the ordinals mapped to numbers. Worth doing before the site ships reference-based navigation; it roughly doubles the coverage of the Branham corpus.
-
-## French book names left inside the English Branham text
-
-**Status**: before goal 02, 65 (the French normalizer) also ran over `markdown/branham/` and rewrote English words it took for book abbreviations. The text still carries it: **358** `Ésaïe <n>` in 270 files ("The Bible says it Ésaïe 65 He's here", from "is" + paragraph 65), **154** `Sophonie <n>` in 131 files ("so"), **39** `Hébreux <n>` in 38 files ("he"), plus a handful of `Actes`, `Habacuc`, `Marc`, `Juges`: **377** files in all. A reader sees these mid-sentence. Goal 02 stopped the cause (65 no longer scans Branham) and repaired the two cases whose original is certain (`Joël` → `Joel`, `you'Revelation` → `you're`).
-
-**Fix**: not mechanical. The French regex also swallowed an optional period after the abbreviation ("is. 65" and "is 65" both became "Ésaïe 65"), so the original punctuation cannot be restored from the text alone. Either compare against the branham.org source, or accept "is 65" and note it. Belongs with the page-furniture cleanup, since the "65" is usually a paragraph number there too.
+**Fix**: a human pass over the 41, reading each against its PDF (`pdf_url`).
 
 ## Printed page furniture is inside the sermon bodies
 
