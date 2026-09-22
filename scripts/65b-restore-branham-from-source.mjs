@@ -6,12 +6,17 @@
 // "it Ésaïe 65" for "it is. 65"; 66 wrote "Job 9" for "that's my job. 9".
 // Our text cannot tell "is. 65" from "is 65" any more; the PDF can.
 //
-// For each "<book name> <number>" in a Branham body, the two words before it
-// and the words after it are looked up in the PDF text. When they are found
-// exactly once, and the book name is French (never right in an English
-// sermon) or the PDF's word ends a sentence, the book name is replaced by the
-// PDF's word(s). Nothing else in the text changes. French names that cannot
-// be aligned go to manifests/branham-restore-unaligned.json.
+// Two passes per file, both anchored on the two words before a spot and the
+// words after it, which must be found exactly once in the PDF text:
+//   1. "<book name> <number>" where the name is French (never right in an
+//      English sermon) or the PDF's word ends a sentence: the name goes back
+//      to the PDF's word(s).
+//   2. Every citation 66 used to write in canonical form ("John 5:24"): the
+//      span goes back to what the PDF says ("Saint John 5:24", "First
+//      Corinthians 13"), when that starts with the same book. The preacher's
+//      words stay; 66 maps them to the canonical ref.
+// Nothing else in the text changes. French names that cannot be aligned go to
+// manifests/branham-restore-unaligned.json.
 //
 // Needs the PDFs: node scripts/20-download-pdfs.mjs manifests/branham-<year>.json
 // Run after 65, before 66.
@@ -26,12 +31,21 @@ const mdRoot = path.join(root, "markdown/branham");
 const pdfRoot = path.join(root, "pdfs/branham");
 
 const EN = new Set(BOOKS_EN.map((row) => row[0]));
+const EN_OF = new Map(BOOKS_EN.flatMap((row) => row.map((v) => [v.toLowerCase(), row[0]])));
+const VARIANTS = [...EN_OF.keys()].sort((a, b) => b.length - a.length);
 const FR_ONLY = new Set(BOOKS_FR.map((row) => row[0]).filter((name) => !EN.has(name)));
 const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const NAME_RE = new RegExp(
   `(?<!\\p{L})(${[...FR_ONLY, ...EN].sort((a, b) => b.length - a.length).map(esc).join("|")}) (\\d{1,3}(?::\\d{1,3}|st|nd|rd|th)?)(?![\\d\\p{L}])`,
   "gu",
 );
+
+// A citation in the canonical form 66 used to write into the text.
+const CITE_RE = new RegExp(
+  `(?<!\\p{L})(${[...EN].sort((a, b) => b.length - a.length).map(esc).join("|")}) \\d{1,3}(?::\\d{1,3}(?:-\\d{1,3})?(?:,\\d{1,3}(?:-\\d{1,3})?)*)?(?![\\d\\p{L}])`,
+  "gu",
+);
+const bookOf = (span) => EN_OF.get(VARIANTS.find((v) => span.toLowerCase().startsWith(v + " ")));
 
 // Our text has markdown emphasis and the PDF does not; quotes may be curly on
 // one side and straight on the other.
@@ -80,6 +94,19 @@ for (const file of walk(mdRoot)) {
       restored++;
     } else if (!word && FR_ONLY.has(name)) {
       unaligned.push({ file: path.relative(root, file), spot, context: flat(body.slice(Math.max(0, hit.index - 80), hit.index + spot.length + 60)).trim() });
+    }
+  }
+
+  const restoredWords = out;
+  for (const hit of [...restoredWords.matchAll(CITE_RE)].reverse()) {
+    const [spot, name] = hit;
+    const before = flat(restoredWords.slice(Math.max(0, hit.index - 300), hit.index)).trimEnd().split(" ").slice(-2).join(" ");
+    const after = flat(restoredWords.slice(hit.index + spot.length, hit.index + spot.length + 300)).trimStart().split(" ").slice(0, 3).join(" ");
+    const found = [...source.matchAll(new RegExp(`${pattern(before)} (.{1,60}?) ?${pattern(after)}`, "g"))];
+    const span = found.length === 1 ? found[0][1].trim() : null;
+    if (span && span !== spot && !span.includes("THE SPOKEN WORD") && bookOf(span) === name) {
+      out = out.slice(0, hit.index) + span + out.slice(hit.index + spot.length);
+      restored++;
     }
   }
 
