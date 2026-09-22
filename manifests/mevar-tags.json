@@ -11,7 +11,7 @@
     "slug": "exhortations",
     "description": "Ainsi donc ne dormons pas comme les autres, mais veillons et soyons sobres; [...] car Dieu ne nous a pas destinés à la colère, mais à l'acquisition du salut par notre Seigneur Jésus Christ, qui est mort pour nous, afin que, soit que nous veillions, soit que nous dormions, nous vivions ensemble avec lui. C'est pourquoi exhortez-vous l'un l'autre et édifiez-vous l'un l'autre, chacun en particulier, comme aussi vous le faites. (1 Thessaloniciens 5:6-11)",
     "visibility": "public",
-    "post_count": 109
+    "post_count": 110
   },
   {
     "name": "2020",
@@ -471,6 +471,20 @@
   {
     "name": "KouKloubo",
     "slug": "koukloubo",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "2026",
+    "slug": "2026",
+    "description": null,
+    "visibility": "public",
+    "post_count": 1
+  },
+  {
+    "name": "Août",
+    "slug": "aout",
     "description": null,
     "visibility": "public",
     "post_count": 1

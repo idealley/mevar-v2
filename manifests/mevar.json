@@ -1,6 +1,39 @@
 [
   {
     "source": "mevar",
+    "sermon_id": "ce-qui-arrive-le-jour-du-seigneur",
+    "title": "Ce qui arrive – Le Jour du Seigneur",
+    "year": 2026,
+    "published_at": "2026-09-10",
+    "type": "post",
+    "status": "published",
+    "featured": true,
+    "visibility": "public",
+    "excerpt": null,
+    "feature_image": "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2026/09/grok-image-77b57cd6-0f17-4d73-ac32-d532d76516f2.jpg",
+    "tags": [
+      "Exhortations",
+      "2026",
+      "Août"
+    ],
+    "tag_slugs": [
+      "exhortations",
+      "2026",
+      "aout"
+    ],
+    "authors": [
+      "Parfait M'bra"
+    ],
+    "pdf_url": null,
+    "audio_url": null,
+    "stream_url": "https://mevar.org/ce-qui-arrive-le-jour-du-seigneur/",
+    "pathname": "/ce-qui-arrive-le-jour-du-seigneur",
+    "ghost_id": "6aa1c8681fbd2600018f2706",
+    "uuid": "e0c3940d-89ed-4d4d-8ce7-a09b286eca8a",
+    "has_import_tag": false
+  },
+  {
+    "source": "mevar",
     "sermon_id": "ketura-et-ses-enfants-ou-la-foi-qui-prospere",
     "title": "Kétura et ses enfants ou la foi qui prospère",
     "year": 2024,
