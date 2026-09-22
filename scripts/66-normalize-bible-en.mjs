@@ -3,7 +3,7 @@
 // Same architecture as 65-normalize-bible.mjs, but with English book names + aliases.
 //
 // Records each ref in canonical form, "Book chap:verse[-end][,extras]", e.g.
-// "Matt 24:6", "1 Cor. 5,20-21" → "Matthew 24:6", "1 Corinthians 5:20-21".
+// "Matt 24:6", "First Corinthians 5, 20-21" → "Matthew 24:6", "1 Corinthians 5:20-21".
 // The text is never changed: the preacher's words stay, only the ref is canonical.
 //
 // CLI:
@@ -43,7 +43,8 @@ const BOOK_ALT = variantsSorted.map(escRe).join("|");
 const REF_RE = new RegExp(
   "(?<![\\p{L}])" +
   "(" + BOOK_ALT + ")" +
-  "\\.?" +
+  // no optional period: in the Branham text "job. 9" is a sentence end and a
+  // paragraph number, never a citation
   "\\s*" +
   "(\\d{1,3})" +
   "(?:" +
@@ -118,10 +119,9 @@ function normalize(md) {
     let [, , chap, verseStart] = match;
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!canonical) continue;
-    // The branham.org text never writes a citation with a lowercase book name,
-    // or with a period between book and chapter: "that's my job. 9 And",
-    // "the book of Revelation. 12 And" are a sentence end and a paragraph number.
-    if (/^\p{Ll}/u.test(bookVariant) || text[bookVariant.length] === ".") {
+    // The branham.org text never writes a citation with a lowercase book name:
+    // "is 65", "my job 9" are prose followed by a paragraph number.
+    if (/^\p{Ll}/u.test(bookVariant)) {
       notCitations++;
       continue;
     }
@@ -202,7 +202,7 @@ console.log(`English bible refs normalized:`);
 console.log(`  files scanned: ${totalFiles}`);
 console.log(`  total ref instances: ${totalRefs}`);
 console.log(`  impossible refs dropped: ${dropped}`);
-console.log(`  lowercase or dotted book names skipped: ${notCitations}`);
+console.log(`  lowercase book names skipped: ${notCitations}`);
 console.log(`  spoken citations recorded: ${spokenRefs}`);
 console.log(`  by source:`);
 for (const [src, s] of Object.entries(refsBySource)) {
