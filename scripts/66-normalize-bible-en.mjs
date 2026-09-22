@@ -114,7 +114,7 @@ const SPOKEN = [
 function normalize(md) {
   const found = [];
   for (const match of md.matchAll(REF_RE)) {
-    const [text, bookVariant, , , verseEnd, extra] = match;
+    const [, bookVariant, , , verseEnd, extra] = match;
     let [, , chap, verseStart] = match;
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!canonical) continue;
