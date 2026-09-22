@@ -48,7 +48,9 @@ const BOOKS = [
   ["Ezekiel", "Ezek", "Ez", "Eze"],
   ["Daniel", "Dan", "Dn", "Da"],
   ["Hosea", "Hos", "Ho"],
-  ["Joel", "Jl"],
+  // "Joël" is what the French pass left in these English transcripts —
+  // 47 of its 48 occurrences here are real Joel citations, mostly Joel 2:28.
+  ["Joel", "Joël", "Jl"],
   ["Amos", "Am"],
   ["Obadiah", "Obad", "Ob"],
   ["Jonah", "Jon", "Jnh"],
