@@ -7,13 +7,17 @@
 //   </figure>
 // — the `__GHOST_URL__` prefix is unambiguous: it's an internal site link.
 //
+// A link alone is NOT a series: Ghost bookmark cards are also used for
+// "see also" and for announcements ("Nouveau site web" links to three
+// unrelated articles). An edge only counts as a series edge when the two
+// posts also share a title stem, or both carry an explicit part number and
+// those numbers differ.
+//
 // Approach:
 //   1. Walk Ghost JSON posts; extract internal-bookmark targets per post.
-//   2. Build an undirected graph (each bookmark = edge).
-//   3. Connected components = series.
-//   4. Order members chronologically (published_at), and parse explicit
-//      part numbers from slugs (-1, -2, -3, -premiere/-deuxieme/-partie-N)
-//      to override when present.
+//   2. Keep only the bookmark pairs that pass the series test above.
+//   3. Connected components over the kept edges = series.
+//   4. Order members by explicit part number, else by published_at.
 //   5. Pick a series name = longest common title prefix, fallback to the
 //      first member's title minus the part suffix.
 //   6. Write manifests/mevar-series.json and lift `series` / `series_part`
@@ -45,7 +49,51 @@ for (const p of posts) {
   if (targets.size) links.set(p.slug, targets);
 }
 
-// ── 2. Connected components ─────────────────────────────────────────────────
+// ── 2. Keep only the pairs that look like a series ──────────────────────────
+// Explicit part number: "(3)", "(Partie 5)", "— deuxième partie", slug "-2".
+const ORDINALS = { premiere: 1, deuxieme: 2, troisieme: 3, quatrieme: 4, cinquieme: 5, sixieme: 6, septieme: 7 };
+const deaccent = (s_) => s_.toLowerCase().normalize("NFD").replace(/\p{Diacritic}/gu, "");
+
+function partOf(post) {
+  const title = deaccent(post.title ?? "");
+  const paren = title.match(/\(\s*(?:partie\s*)?(\d+)\s*\)/);
+  if (paren) return Number(paren[1]);
+  const ordinal = title.match(/(premiere|deuxieme|troisieme|quatrieme|cinquieme|sixieme|septieme)\s*partie/);
+  if (ordinal) return ORDINALS[ordinal[1]];
+  const partN = title.match(/partie\s*(\d+)/);
+  if (partN) return Number(partN[1]);
+  return partFromSlug(post.slug);
+}
+
+// Title without its part marker, as lowercase accent-free words.
+function stemWords(post) {
+  return deaccent(post.title ?? "")
+    .replace(/\(\s*(?:partie\s*)?\d+\s*\)/g, " ")
+    .replace(/(premiere|deuxieme|troisieme|quatrieme|cinquieme|sixieme|septieme)\s*partie/g, " ")
+    .replace(/partie\s*\d+/g, " ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+    .split(" ")
+    .filter(Boolean);
+}
+
+// Two titles share a stem when their first words agree: at least 2 words and
+// 8 characters, enough to separate "Le fruit de l'Esprit – La joie" from
+// "Le royaume de Dieu".
+function sharesStem(a, b) {
+  const wa = stemWords(a), wb = stemWords(b);
+  let n = 0;
+  while (n < wa.length && n < wb.length && wa[n] === wb[n]) n++;
+  return n >= 2 && wa.slice(0, n).join(" ").length >= 8;
+}
+
+function isSeriesPair(a, b) {
+  if (sharesStem(a, b)) return true;
+  const pa = partOf(a), pb = partOf(b);
+  return pa != null && pb != null && pa !== pb;
+}
+
+// ── 3. Connected components over the kept edges ─────────────────────────────
 const parent = new Map();
 function find(x) {
   if (!parent.has(x)) parent.set(x, x);
@@ -59,21 +107,32 @@ function union(a, b) {
   const ra = find(a), rb = find(b);
   if (ra !== rb) parent.set(ra, rb);
 }
+
+const linked = new Set(); // every slug that survived at least one edge
+const rejected = [];
 for (const [slug, targets] of links) {
-  for (const t of targets) union(slug, t);
+  for (const t of targets) {
+    if (isSeriesPair(bySlug.get(slug), bySlug.get(t))) {
+      union(slug, t);
+      linked.add(slug);
+      linked.add(t);
+    } else {
+      rejected.push(`${slug} → ${t}`);
+    }
+  }
 }
 
 const groups = new Map(); // root → [slugs]
-for (const slug of links.keys()) {
+for (const slug of linked) {
   const r = find(slug);
   if (!groups.has(r)) groups.set(r, []);
   groups.get(r).push(slug);
 }
 
-// ── 3. Order + name each series ─────────────────────────────────────────────
+// ── 4. Order + name each series ─────────────────────────────────────────────
 function partFromSlug(slug) {
-  // Explicit numeric suffix: -1 / -2 / -3 …
-  const num = slug.match(/-(\d+)$/);
+  // Explicit single-digit suffix: -1 / -2 / -3 … (a 4-digit tail is a year)
+  const num = slug.match(/-(\d)$/);
   if (num) return Number(num[1]);
   // French ordinals
   const ord = slug.match(/-(premi[èe]re|deuxi[èe]me|troisi[èe]me|quatri[èe]me|cinqui[èe]me|sixi[èe]me|septi[èe]me)-partie/);
@@ -87,14 +146,16 @@ function partFromSlug(slug) {
   return null;
 }
 
+// Case-insensitive so "Faire front par la Foi" and "Faire front par la foi"
+// agree; the prefix is returned with the first title's casing.
 function commonPrefix(strings) {
   if (!strings.length) return "";
-  let prefix = strings[0];
+  let n = strings[0].length;
   for (const s of strings.slice(1)) {
-    while (!s.startsWith(prefix)) prefix = prefix.slice(0, -1);
-    if (!prefix) return "";
+    while (n && s.slice(0, n).toLowerCase() !== strings[0].slice(0, n).toLowerCase()) n--;
+    if (!n) return "";
   }
-  return prefix;
+  return strings[0].slice(0, n);
 }
 
 const series = [];
@@ -106,7 +167,7 @@ for (const [root_, members] of groups) {
       slug,
       title: p.title,
       published_at: p.published_at,
-      explicit_part: partFromSlug(slug),
+      explicit_part: partOf(p),
     };
   });
   enriched.sort((a, b) => {
@@ -150,38 +211,47 @@ for (const [root_, members] of groups) {
 
 series.sort((a, b) => a.id.localeCompare(b.id));
 
-// ── 4. Write manifest ───────────────────────────────────────────────────────
+// ── 5. Write manifest ───────────────────────────────────────────────────────
 const outPath = path.join(root, "manifests/mevar-series.json");
 fs.writeFileSync(outPath, JSON.stringify(series, null, 2));
 console.log(`detected ${series.length} series across ${series.reduce((n, s) => n + s.members.length, 0)} posts → ${path.relative(root, outPath)}`);
 for (const s of series) {
   console.log(`  ${s.id}  (${s.members.length})  "${s.name}"`);
+  for (const m of s.members) console.log(`      ${m.part}. ${m.slug}  —  ${m.title}`);
 }
+console.log(`rejected ${rejected.length} bookmark pairs (link without a shared stem or part numbers):`);
+for (const r of rejected) console.log(`  ${r}`);
 
-// ── 5. Lift series fields into each member's frontmatter ────────────────────
+// ── 6. Lift series fields into every mevar markdown ─────────────────────────
+// Rewritten from scratch each run: a post that leaves a series must lose its
+// series fields too.
+const memberOf = new Map(); // slug → { series, member }
+for (const s of series) for (const m of s.members) memberOf.set(m.slug, { s, m });
+
 let touched = 0;
-for (const s of series) {
-  for (const m of s.members) {
-    const mdPath = path.join(root, "markdown/mevar", `${m.slug}.md`);
-    if (!fs.existsSync(mdPath)) continue;
-    const text = fs.readFileSync(mdPath, "utf8");
-    const fmMatch = text.match(/^(---\n)([\s\S]*?)(\n---\n)([\s\S]*)$/);
-    if (!fmMatch) continue;
-    let fm = fmMatch[2];
-    const body = fmMatch[4];
+const mdDir = path.join(root, "markdown/mevar");
+for (const file of fs.readdirSync(mdDir).filter((f) => f.endsWith(".md"))) {
+  const mdPath = path.join(mdDir, file);
+  const text = fs.readFileSync(mdPath, "utf8");
+  const fmMatch = text.match(/^(---\n)([\s\S]*?)(\n---\n)([\s\S]*)$/);
+  if (!fmMatch) continue;
 
-    // Strip prior series_id / series / series_part lines (so re-runs stay clean)
-    fm = fm
-      .split("\n")
-      .filter((l) => !/^(series_id|series|series_part|series_total):/.test(l))
-      .join("\n");
+  let fm = fmMatch[2]
+    .split("\n")
+    .filter((l) => !/^(series_id|series|series_part|series_total):/.test(l))
+    .join("\n");
 
-    fm += `\nseries_id: ${JSON.stringify(s.id)}`;
-    fm += `\nseries: ${JSON.stringify(s.name)}`;
-    fm += `\nseries_part: ${m.part}`;
-    fm += `\nseries_total: ${s.members.length}`;
+  const hit = memberOf.get(path.basename(file, ".md"));
+  if (hit) {
+    fm += `\nseries_id: ${JSON.stringify(hit.s.id)}`;
+    fm += `\nseries: ${JSON.stringify(hit.s.name)}`;
+    fm += `\nseries_part: ${hit.m.part}`;
+    fm += `\nseries_total: ${hit.s.members.length}`;
+  }
 
-    fs.writeFileSync(mdPath, fmMatch[1] + fm + fmMatch[3] + body);
+  const out = fmMatch[1] + fm + fmMatch[3] + fmMatch[4];
+  if (out !== text) {
+    fs.writeFileSync(mdPath, out);
     touched++;
   }
 }

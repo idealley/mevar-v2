@@ -26,10 +26,6 @@ bible_refs:
   - "Marc 11:20-26"
   - "Matthieu 14"
   - "Matthieu 14:25-32"
-series_id: "faire-front-par-la-foi"
-series: "Faire front par la Foi"
-series_part: 3
-series_total: 5
 ---
 « Vivre la prière » est une parole d’exhortation sur la foi. Nous devons la vivre. La prière ne doit pas être séparée de notre attitude. Quand nous prions, nous devons avoir un comportement qui l’accompagne.
 

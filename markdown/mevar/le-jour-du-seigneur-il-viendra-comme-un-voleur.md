@@ -25,7 +25,7 @@ bible_refs:
   - "Malachie 4"
 series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
-series_part: 3
+series_part: 2
 series_total: 5
 ---
 ### **Prêché à Koumassi, le 29 octobre 2023**

@@ -17,10 +17,6 @@ uuid: "ff646ce2-7cad-4348-958d-d8727dc179e2"
 stream_url: "https://mevar.org/nouveau-site-web/"
 bible_refs:
   - "1 Pierre 1:2"
-series_id: "l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel"
-series: "L'éveil de l'homme spirituel pour le combat spirituel"
-series_part: 2
-series_total: 2
 ---
 19 mai 2023:  
 nouvelle fonctionalité: pdf download.

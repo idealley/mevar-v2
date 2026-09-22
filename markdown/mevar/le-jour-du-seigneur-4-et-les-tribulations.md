@@ -48,7 +48,7 @@ bible_refs:
   - "Zacharie 12:10-12"
 series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
-series_part: 5
+series_part: 4
 series_total: 5
 ---
 Gloire à Dieu. On va commencer dans Mathieu 24 à partir du verset 15 :

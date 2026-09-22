@@ -30,8 +30,8 @@ bible_refs:
   - "Éphésiens 4"
   - "Ézéchiel 34"
 series_id: "le-ministere-de-lesprit"
-series: "Le Ministère de l'Esprit"
-series_part: 1
+series: "Le ministère de l"
+series_part: 2
 series_total: 2
 ---
 On va revenir dans le texte qu’on a lu dimanche passé. C’était 2 Corinthiens 3 :
