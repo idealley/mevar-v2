@@ -1,0 +1,4183 @@
+{
+  "version": "2.18",
+  "children": [
+    {
+      "type": "frame",
+      "id": "s8jPTZ",
+      "x": 0,
+      "y": 0,
+      "name": "Web — Accueil",
+      "clip": true,
+      "width": 1440,
+      "fill": "$paper",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "V9rFth",
+          "name": "Nav",
+          "width": "fill_container",
+          "fill": "$paper",
+          "stroke": "$line",
+          "strokeWidth": {
+            "bottom": 1
+          },
+          "padding": [
+            18,
+            48
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "j4V82h",
+              "name": "Brand",
+              "gap": 10,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "OhP5a",
+                  "name": "Mark",
+                  "width": 26,
+                  "height": 26,
+                  "icon": "bird",
+                  "library": "phosphor",
+                  "fill": "$brick"
+                },
+                {
+                  "type": "text",
+                  "id": "ofGpA",
+                  "name": "Wordmark",
+                  "fill": "$ink",
+                  "content": "MEVAR",
+                  "fontFamily": "$font-display",
+                  "fontSize": 22,
+                  "fontWeight": "500",
+                  "letterSpacing": 2
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zOXNv",
+              "name": "Links",
+              "gap": 30,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "EfmkX",
+                  "name": "Prédications",
+                  "fill": "$ink-soft",
+                  "content": "Prédications",
+                  "fontFamily": "$font-body",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "VocW6",
+                  "name": "Exhortations",
+                  "fill": "$ink-soft",
+                  "content": "Exhortations",
+                  "fontFamily": "$font-body",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "TvM3Z",
+                  "name": "Publications",
+                  "fill": "$ink-soft",
+                  "content": "Publications",
+                  "fontFamily": "$font-body",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "V70j5r",
+                  "name": "Études bibliques",
+                  "fill": "$ink-soft",
+                  "content": "Études bibliques",
+                  "fontFamily": "$font-body",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "OIRPG",
+                  "name": "À propos",
+                  "fill": "$ink-soft",
+                  "content": "À propos",
+                  "fontFamily": "$font-body",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "NYVdE",
+              "name": "Actions",
+              "gap": 16,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "IKkPn",
+                  "name": "Search",
+                  "width": 18,
+                  "height": 18,
+                  "icon": "search",
+                  "library": "lucide",
+                  "fill": "$ink-soft"
+                },
+                {
+                  "type": "icon",
+                  "id": "gLqeO",
+                  "name": "Theme",
+                  "width": 18,
+                  "height": 18,
+                  "icon": "moon",
+                  "library": "lucide",
+                  "fill": "$ink-soft"
+                },
+                {
+                  "type": "frame",
+                  "id": "bVGss",
+                  "name": "Subscribe Button",
+                  "fill": "$brick",
+                  "cornerRadius": 4,
+                  "padding": [
+                    10,
+                    18
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "qPYZw",
+                      "name": "Label",
+                      "fill": "$paper",
+                      "content": "S'abonner",
+                      "fontFamily": "$font-body",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "JxpyK",
+          "name": "Hero",
+          "width": "fill_container",
+          "height": 700,
+          "children": [
+            {
+              "type": "frame",
+              "id": "vy6sv",
+              "name": "Hero Copy",
+              "width": "fill_container",
+              "height": "fill_container",
+              "layout": "vertical",
+              "gap": 26,
+              "padding": [
+                0,
+                72
+              ],
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "UtkZ1",
+                  "name": "Eyebrow",
+                  "fill": "$clay",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "MISSION D'ÉVANGÉLISATION ET DE RÉVEIL",
+                  "fontFamily": "$font-body",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 2.4
+                },
+                {
+                  "type": "text",
+                  "id": "Ll0ed",
+                  "name": "Headline",
+                  "fill": "$ink",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "La Parole, vivante\net actuelle.",
+                  "lineHeight": 1.06,
+                  "fontFamily": "$font-display",
+                  "fontSize": 76,
+                  "fontWeight": "300"
+                },
+                {
+                  "type": "text",
+                  "id": "X0Xvw",
+                  "name": "Intro",
+                  "fill": "$ink-soft",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Prédications, exhortations et études bibliques — une bibliothèque vivante pour nourrir la foi, semaine après semaine.",
+                  "lineHeight": 1.6,
+                  "fontFamily": "$font-body",
+                  "fontSize": 17,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "hI90Q",
+                  "name": "CTA Row",
+                  "gap": 14,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "nuVSz",
+                      "name": "Primary CTA",
+                      "fill": "$brick",
+                      "cornerRadius": 4,
+                      "gap": 9,
+                      "padding": [
+                        15,
+                        26
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "X2BHI",
+                          "name": "Label",
+                          "fill": "$paper",
+                          "content": "Écouter les prédications",
+                          "fontFamily": "$font-body",
+                          "fontSize": 14,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "icon",
+                          "id": "l7S9Gd",
+                          "name": "Arrow",
+                          "width": 16,
+                          "height": 16,
+                          "icon": "arrow-right",
+                          "library": "lucide",
+                          "fill": "$paper"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "IRPOO",
+                      "name": "Secondary CTA",
+                      "cornerRadius": 4,
+                      "stroke": "$line",
+                      "strokeWidth": 1,
+                      "padding": [
+                        15,
+                        26
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "DfQPi",
+                          "name": "Label",
+                          "fill": "$ink",
+                          "content": "Découvrir la mission",
+                          "fontFamily": "$font-body",
+                          "fontSize": 14,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "e127vO",
+              "name": "Hero Image",
+              "metadata": {
+                "type": "unsplash",
+                "username": "ulianasys",
+                "link": "https://unsplash.com/@ulianasys",
+                "author": "Uliana Sys"
+              },
+              "width": 620,
+              "height": "fill_container",
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "https://images.unsplash.com/photo-1563337095-dcf47d3a9554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzI3MDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+                "mode": "fill"
+              }
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "yybJj",
+          "name": "Label Row",
+          "width": "fill_container",
+          "fill": "$paper-alt",
+          "stroke": "$line",
+          "strokeWidth": {
+            "top": 1,
+            "bottom": 1
+          },
+          "padding": [
+            16,
+            72
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "jbnbp",
+              "name": "PRÉDICATIONS",
+              "fill": "$ink-soft",
+              "content": "PRÉDICATIONS",
+              "fontFamily": "$font-body",
+              "fontSize": 11,
+              "fontWeight": "500",
+              "letterSpacing": 1.8
+            },
+            {
+              "type": "rectangle",
+              "id": "gHhZW",
+              "name": "Divider 0",
+              "fill": "$line",
+              "width": 1,
+              "height": 14
+            },
+            {
+              "type": "text",
+              "id": "jxv2a",
+              "name": "EXHORTATIONS",
+              "fill": "$ink-soft",
+              "content": "EXHORTATIONS",
+              "fontFamily": "$font-body",
+              "fontSize": 11,
+              "fontWeight": "500",
+              "letterSpacing": 1.8
+            },
+            {
+              "type": "rectangle",
+              "id": "sSxP9",
+              "name": "Divider 1",
+              "fill": "$line",
+              "width": 1,
+              "height": 14
+            },
+            {
+              "type": "text",
+              "id": "rwjuK",
+              "name": "PUBLICATIONS",
+              "fill": "$ink-soft",
+              "content": "PUBLICATIONS",
+              "fontFamily": "$font-body",
+              "fontSize": 11,
+              "fontWeight": "500",
+              "letterSpacing": 1.8
+            },
+            {
+              "type": "rectangle",
+              "id": "UnM80",
+              "name": "Divider 2",
+              "fill": "$line",
+              "width": 1,
+              "height": 14
+            },
+            {
+              "type": "text",
+              "id": "U9VlU",
+              "name": "ÉTUDES BIBLIQUES",
+              "fill": "$ink-soft",
+              "content": "ÉTUDES BIBLIQUES",
+              "fontFamily": "$font-body",
+              "fontSize": 11,
+              "fontWeight": "500",
+              "letterSpacing": 1.8
+            },
+            {
+              "type": "rectangle",
+              "id": "jAPis",
+              "name": "Divider 3",
+              "fill": "$line",
+              "width": 1,
+              "height": 14
+            },
+            {
+              "type": "text",
+              "id": "t3QBn",
+              "name": "AUTEURS",
+              "fill": "$ink-soft",
+              "content": "AUTEURS",
+              "fontFamily": "$font-body",
+              "fontSize": 11,
+              "fontWeight": "500",
+              "letterSpacing": 1.8
+            },
+            {
+              "type": "rectangle",
+              "id": "iqm8b",
+              "name": "Divider 4",
+              "fill": "$line",
+              "width": 1,
+              "height": 14
+            },
+            {
+              "type": "text",
+              "id": "DBP4u",
+              "name": "THÈMES",
+              "fill": "$ink-soft",
+              "content": "THÈMES",
+              "fontFamily": "$font-body",
+              "fontSize": 11,
+              "fontWeight": "500",
+              "letterSpacing": 1.8
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "I6cHbe",
+          "name": "Featured",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 32,
+          "padding": [
+            72,
+            72,
+            56,
+            72
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "sVdXb",
+              "name": "Section Head",
+              "width": "fill_container",
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "FU7Mc",
+                  "name": "Title",
+                  "fill": "$clay",
+                  "content": "À LA UNE",
+                  "fontFamily": "$font-body",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 2.4
+                },
+                {
+                  "type": "text",
+                  "id": "r4aUE",
+                  "name": "Date",
+                  "fill": "$ink-soft",
+                  "content": "Semaine du 14 septembre",
+                  "fontFamily": "$font-body",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "bDIZI",
+              "name": "Featured Article",
+              "width": "fill_container",
+              "gap": 52,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "bApe9",
+                  "name": "Featured Image",
+                  "metadata": {
+                    "type": "unsplash",
+                    "username": "gvchana",
+                    "link": "https://unsplash.com/@gvchana",
+                    "author": "GV Chana"
+                  },
+                  "width": 700,
+                  "height": 470,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "https://images.unsplash.com/photo-1764268176913-251512eab5db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzI3MDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 4
+                },
+                {
+                  "type": "frame",
+                  "id": "gsIqJ",
+                  "name": "Featured Copy",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 20,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "FYrUl",
+                      "name": "Meta",
+                      "gap": 10,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "AfZsJ",
+                          "name": "Category",
+                          "fill": "$brick",
+                          "content": "EXHORTATIONS",
+                          "fontFamily": "$font-body",
+                          "fontSize": 11,
+                          "fontWeight": "600",
+                          "letterSpacing": 1.8
+                        },
+                        {
+                          "type": "rectangle",
+                          "cornerRadius": 2,
+                          "id": "JW2Kf",
+                          "name": "Dot",
+                          "fill": "$ink-soft",
+                          "width": 3,
+                          "height": 3
+                        },
+                        {
+                          "type": "text",
+                          "id": "P9b7M",
+                          "name": "Read time",
+                          "fill": "$ink-soft",
+                          "content": "33 min de lecture",
+                          "fontFamily": "$font-body",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "Gz4bo",
+                      "name": "Title",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Ce qui arrive — Le Jour du Seigneur",
+                      "lineHeight": 1.12,
+                      "fontFamily": "$font-display",
+                      "fontSize": 44,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "S6I2g7",
+                      "name": "Excerpt",
+                      "fill": "$ink-soft",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Une lecture attentive des signes annoncés par les prophètes, et ce qu'ils demandent à l'Église d'aujourd'hui : la vigilance, la sainteté et l'espérance.",
+                      "lineHeight": 1.65,
+                      "fontFamily": "$font-body",
+                      "fontSize": 16,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "t04g0",
+                      "name": "Author",
+                      "gap": 12,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "EW4HB",
+                          "name": "Avatar",
+                          "fill": "$paper-alt",
+                          "width": 34,
+                          "height": 34
+                        },
+                        {
+                          "type": "frame",
+                          "id": "b5Huno",
+                          "name": "Author Text",
+                          "layout": "vertical",
+                          "gap": 2,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "gmkhG",
+                              "name": "Name",
+                              "fill": "$ink",
+                              "content": "Pasteur Daniel Kayembe",
+                              "fontFamily": "$font-body",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "text",
+                              "id": "uF2bF",
+                              "name": "Date",
+                              "fill": "$ink-soft",
+                              "content": "18 septembre 2026",
+                              "fontFamily": "$font-body",
+                              "fontSize": 12,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "G1gFx",
+                      "name": "Read Link",
+                      "gap": 8,
+                      "padding": [
+                        8,
+                        0,
+                        0,
+                        0
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "A2aIo",
+                          "name": "Label",
+                          "fill": "$brick",
+                          "content": "Lire l'exhortation",
+                          "fontFamily": "$font-body",
+                          "fontSize": 14,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "icon",
+                          "id": "XfQwX",
+                          "name": "Arrow",
+                          "width": 15,
+                          "height": 15,
+                          "icon": "arrow-right",
+                          "library": "lucide",
+                          "fill": "$brick"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "IbSJ0",
+          "name": "Latest",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 36,
+          "padding": [
+            56,
+            72,
+            80,
+            72
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "iW80D",
+              "name": "Section Head",
+              "width": "fill_container",
+              "justifyContent": "space_between",
+              "alignItems": "end",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "iReyR",
+                  "name": "Head Copy",
+                  "layout": "vertical",
+                  "gap": 8,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "Q2LW9",
+                      "name": "Eyebrow",
+                      "fill": "$clay",
+                      "content": "DERNIÈRES PARUTIONS",
+                      "fontFamily": "$font-body",
+                      "fontSize": 11,
+                      "fontWeight": "600",
+                      "letterSpacing": 2.4
+                    },
+                    {
+                      "type": "text",
+                      "id": "O2aL1x",
+                      "name": "Title",
+                      "fill": "$ink",
+                      "content": "Publications récentes",
+                      "fontFamily": "$font-display",
+                      "fontSize": 38,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "uZRC2",
+                  "name": "See All",
+                  "gap": 8,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "zipZo",
+                      "name": "Label",
+                      "fill": "$ink",
+                      "content": "Toute la bibliothèque",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "icon",
+                      "id": "cFBW4",
+                      "name": "Arrow",
+                      "width": 16,
+                      "height": 16,
+                      "icon": "arrow-up-right",
+                      "library": "lucide",
+                      "fill": "$ink"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "D6ZhPe",
+              "name": "Row 1",
+              "width": "fill_container",
+              "gap": 36,
+              "children": [
+                {
+                  "id": "RII2G",
+                  "type": "ref",
+                  "ref": "XETdm",
+                  "name": "Kétura et ses enfants, ou la foi qui prospère",
+                  "width": "fill_container",
+                  "descendants": {
+                    "uP4sQ": {
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1786600700096-b31effd94e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIyNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      }
+                    },
+                    "NU7iX": {
+                      "content": "PRÉDICATIONS"
+                    },
+                    "MjPZF": {
+                      "content": "Kétura et ses enfants, ou la foi qui prospère"
+                    },
+                    "o8e2V": {
+                      "content": "Daniel Kayembe"
+                    },
+                    "bMrnb": {
+                      "content": "23 min"
+                    }
+                  }
+                },
+                {
+                  "id": "vwNXj",
+                  "type": "ref",
+                  "ref": "XETdm",
+                  "name": "Faire multiplier notre foi",
+                  "width": "fill_container",
+                  "descendants": {
+                    "uP4sQ": {
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1651718978644-d966db1f8c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIyNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      }
+                    },
+                    "NU7iX": {
+                      "content": "EXHORTATIONS"
+                    },
+                    "MjPZF": {
+                      "content": "Faire multiplier notre foi"
+                    },
+                    "o8e2V": {
+                      "content": "Esther Mbala"
+                    },
+                    "bMrnb": {
+                      "content": "11 min"
+                    }
+                  }
+                },
+                {
+                  "id": "Tt4rk",
+                  "type": "ref",
+                  "ref": "XETdm",
+                  "name": "Le chant du coq et les sons de la grande trompette",
+                  "width": "fill_container",
+                  "descendants": {
+                    "uP4sQ": {
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1611793422298-52ba15b0637a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIyNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      }
+                    },
+                    "NU7iX": {
+                      "content": "PRÉDICATIONS"
+                    },
+                    "MjPZF": {
+                      "content": "Le chant du coq et les sons de la grande trompette"
+                    },
+                    "o8e2V": {
+                      "content": "Daniel Kayembe"
+                    },
+                    "bMrnb": {
+                      "content": "32 min"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "M0Lgh",
+              "name": "Row 2",
+              "width": "fill_container",
+              "gap": 36,
+              "children": [
+                {
+                  "id": "fG94t",
+                  "type": "ref",
+                  "ref": "XETdm",
+                  "name": "La position de l'archange Michel au jour du Seigneur",
+                  "width": "fill_container",
+                  "descendants": {
+                    "uP4sQ": {
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1734958103260-0b5b2ff2d584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIyNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      }
+                    },
+                    "NU7iX": {
+                      "content": "ÉTUDES BIBLIQUES"
+                    },
+                    "MjPZF": {
+                      "content": "La position de l'archange Michel au jour du Seigneur"
+                    },
+                    "o8e2V": {
+                      "content": "Joseph Ilunga"
+                    },
+                    "bMrnb": {
+                      "content": "40 min"
+                    }
+                  }
+                },
+                {
+                  "id": "kTzul",
+                  "type": "ref",
+                  "ref": "XETdm",
+                  "name": "Le fruit de l'Esprit — la paix",
+                  "width": "fill_container",
+                  "descendants": {
+                    "uP4sQ": {
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1661443962653-e08f4bc594df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIyNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      }
+                    },
+                    "NU7iX": {
+                      "content": "PRÉDICATIONS"
+                    },
+                    "MjPZF": {
+                      "content": "Le fruit de l'Esprit — la paix"
+                    },
+                    "o8e2V": {
+                      "content": "Esther Mbala"
+                    },
+                    "bMrnb": {
+                      "content": "53 min"
+                    }
+                  }
+                },
+                {
+                  "id": "TvmW3",
+                  "type": "ref",
+                  "ref": "XETdm",
+                  "name": "Vivre la prière de la foi",
+                  "width": "fill_container",
+                  "descendants": {
+                    "uP4sQ": {
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1585860095562-08f80ef43d43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIyNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      }
+                    },
+                    "NU7iX": {
+                      "content": "EXHORTATIONS"
+                    },
+                    "MjPZF": {
+                      "content": "Vivre la prière de la foi"
+                    },
+                    "o8e2V": {
+                      "content": "Marie Tshibangu"
+                    },
+                    "bMrnb": {
+                      "content": "13 min"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "D99n7W",
+          "name": "Audio Slab",
+          "width": "fill_container",
+          "fill": "$ink",
+          "gap": 80,
+          "padding": [
+            80,
+            72
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "K1QXF",
+              "name": "Slab Copy",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 22,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "srdYf",
+                  "name": "Eyebrow",
+                  "fill": "#C97B55",
+                  "content": "À L'ÉCOUTE",
+                  "fontFamily": "$font-body",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 2.4
+                },
+                {
+                  "type": "text",
+                  "id": "K4wiNi",
+                  "name": "Title",
+                  "fill": "$paper",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Chaque message\nvous suit, partout.",
+                  "lineHeight": 1.12,
+                  "fontFamily": "$font-display",
+                  "fontSize": 46,
+                  "fontWeight": "300"
+                },
+                {
+                  "type": "text",
+                  "id": "lOB6l",
+                  "name": "Body",
+                  "fill": "#B7ADA1",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Écoutez les prédications hors connexion, reprenez là où vous vous êtes arrêté, et recevez chaque semaine la nouvelle parution dans votre boîte mail.",
+                  "lineHeight": 1.65,
+                  "fontFamily": "$font-body",
+                  "fontSize": 16,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "XAgAp",
+                  "name": "Newsletter",
+                  "gap": 10,
+                  "padding": [
+                    10,
+                    0,
+                    0,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "ps5JF",
+                      "name": "Input",
+                      "width": 320,
+                      "cornerRadius": 4,
+                      "stroke": "#4A423B",
+                      "strokeWidth": 1,
+                      "padding": [
+                        14,
+                        16
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "EVFBz",
+                          "name": "Placeholder",
+                          "fill": "#8B8177",
+                          "content": "votre@email.com",
+                          "fontFamily": "$font-body",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "mmNoy",
+                      "name": "Submit",
+                      "fill": "$clay",
+                      "cornerRadius": 4,
+                      "padding": [
+                        14,
+                        24
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "r8biq",
+                          "name": "Label",
+                          "fill": "$paper",
+                          "content": "S'abonner",
+                          "fontFamily": "$font-body",
+                          "fontSize": 14,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "k0HLc",
+              "name": "Audio List",
+              "width": 540,
+              "layout": "vertical",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "ldaPq",
+                  "name": "Track 1",
+                  "width": "fill_container",
+                  "stroke": "#3A332D",
+                  "strokeWidth": {
+                    "top": 1,
+                    "bottom": 1
+                  },
+                  "gap": 16,
+                  "padding": [
+                    18,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "HIQ8Y",
+                      "name": "Play",
+                      "width": 40,
+                      "height": 40,
+                      "fill": "$clay",
+                      "cornerRadius": 20,
+                      "stroke": "#4A423B",
+                      "strokeWidth": 1,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "AprsQ",
+                          "name": "Icon",
+                          "width": 15,
+                          "height": 15,
+                          "icon": "play",
+                          "library": "phosphor",
+                          "fill": "$paper"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "f6pCP3",
+                      "name": "Track Text",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "IEWLA",
+                          "name": "Title",
+                          "fill": "$paper",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Ce qui arrive — Le Jour du Seigneur",
+                          "fontFamily": "$font-body",
+                          "fontSize": 15,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "text",
+                          "id": "H8bycR",
+                          "name": "Cat",
+                          "fill": "#8B8177",
+                          "content": "Exhortations",
+                          "fontFamily": "$font-body",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "FLHbj",
+                      "name": "Duration",
+                      "fill": "#B7ADA1",
+                      "content": "48:12",
+                      "fontFamily": "$font-body",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "kSCqn",
+                  "name": "Track 2",
+                  "width": "fill_container",
+                  "stroke": "#3A332D",
+                  "strokeWidth": {
+                    "bottom": 1
+                  },
+                  "gap": 16,
+                  "padding": [
+                    18,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "qyr2D",
+                      "name": "Play",
+                      "width": 40,
+                      "height": 40,
+                      "fill": "#00000000",
+                      "cornerRadius": 20,
+                      "stroke": "#4A423B",
+                      "strokeWidth": 1,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "UEDUS",
+                          "name": "Icon",
+                          "width": 15,
+                          "height": 15,
+                          "icon": "play",
+                          "library": "phosphor",
+                          "fill": "#B7ADA1"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "Q9HE7",
+                      "name": "Track Text",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "XDZsZ",
+                          "name": "Title",
+                          "fill": "$paper",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Kétura et ses enfants",
+                          "fontFamily": "$font-body",
+                          "fontSize": 15,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "text",
+                          "id": "VSxwO",
+                          "name": "Cat",
+                          "fill": "#8B8177",
+                          "content": "Prédications",
+                          "fontFamily": "$font-body",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "ft6vh",
+                      "name": "Duration",
+                      "fill": "#B7ADA1",
+                      "content": "31:05",
+                      "fontFamily": "$font-body",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "aJd9N",
+                  "name": "Track 3",
+                  "width": "fill_container",
+                  "stroke": "#3A332D",
+                  "strokeWidth": {
+                    "bottom": 1
+                  },
+                  "gap": 16,
+                  "padding": [
+                    18,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "q2LDYV",
+                      "name": "Play",
+                      "width": 40,
+                      "height": 40,
+                      "fill": "#00000000",
+                      "cornerRadius": 20,
+                      "stroke": "#4A423B",
+                      "strokeWidth": 1,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "exugs",
+                          "name": "Icon",
+                          "width": 15,
+                          "height": 15,
+                          "icon": "play",
+                          "library": "phosphor",
+                          "fill": "#B7ADA1"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "Fldns",
+                      "name": "Track Text",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "gkvXf",
+                          "name": "Title",
+                          "fill": "$paper",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Le fruit de l'Esprit — la paix",
+                          "fontFamily": "$font-body",
+                          "fontSize": 15,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "text",
+                          "id": "wopAR",
+                          "name": "Cat",
+                          "fill": "#8B8177",
+                          "content": "Prédications",
+                          "fontFamily": "$font-body",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "vrVIA",
+                      "name": "Duration",
+                      "fill": "#B7ADA1",
+                      "content": "52:40",
+                      "fontFamily": "$font-body",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "SOowN",
+                  "name": "Track 4",
+                  "width": "fill_container",
+                  "stroke": "#3A332D",
+                  "strokeWidth": {
+                    "bottom": 1
+                  },
+                  "gap": 16,
+                  "padding": [
+                    18,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "potjZ",
+                      "name": "Play",
+                      "width": 40,
+                      "height": 40,
+                      "fill": "#00000000",
+                      "cornerRadius": 20,
+                      "stroke": "#4A423B",
+                      "strokeWidth": 1,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "McVLb",
+                          "name": "Icon",
+                          "width": 15,
+                          "height": 15,
+                          "icon": "play",
+                          "library": "phosphor",
+                          "fill": "#B7ADA1"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "xrU1J",
+                      "name": "Track Text",
+                      "width": "fill_container",
+                      "layout": "vertical",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "mpFVS",
+                          "name": "Title",
+                          "fill": "$paper",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Vivre la prière de la foi",
+                          "fontFamily": "$font-body",
+                          "fontSize": 15,
+                          "fontWeight": "500"
+                        },
+                        {
+                          "type": "text",
+                          "id": "OLgoO",
+                          "name": "Cat",
+                          "fill": "#8B8177",
+                          "content": "Exhortations",
+                          "fontFamily": "$font-body",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "sLydf",
+                      "name": "Duration",
+                      "fill": "#B7ADA1",
+                      "content": "18:27",
+                      "fontFamily": "$font-body",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "FCL71",
+          "name": "Footer",
+          "width": "fill_container",
+          "fill": "$paper-alt",
+          "layout": "vertical",
+          "gap": 48,
+          "padding": [
+            64,
+            72,
+            36,
+            72
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "vGC9E",
+              "name": "Footer Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "q1aULD",
+                  "name": "Footer Brand",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 14,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "l8CFDN",
+                      "name": "Brand",
+                      "gap": 10,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "Ypppr",
+                          "name": "Mark",
+                          "width": 24,
+                          "height": 24,
+                          "icon": "bird",
+                          "library": "phosphor",
+                          "fill": "$brick"
+                        },
+                        {
+                          "type": "text",
+                          "id": "NZuaI",
+                          "name": "Wordmark",
+                          "fill": "$ink",
+                          "content": "MEVAR",
+                          "fontFamily": "$font-display",
+                          "fontSize": 20,
+                          "fontWeight": "500",
+                          "letterSpacing": 2
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "Vkwzs",
+                      "name": "Tagline",
+                      "fill": "$ink-soft",
+                      "textGrowth": "fixed-width",
+                      "width": 360,
+                      "content": "Mission d'Évangélisation et de Réveil. Une bibliothèque libre de prédications, exhortations et études bibliques.",
+                      "lineHeight": 1.65,
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Z8P39",
+                  "name": "EXPLORER",
+                  "width": 190,
+                  "layout": "vertical",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "oW3oG",
+                      "name": "Head",
+                      "fill": "$ink",
+                      "content": "EXPLORER",
+                      "fontFamily": "$font-body",
+                      "fontSize": 10,
+                      "fontWeight": "600",
+                      "letterSpacing": 1.8
+                    },
+                    {
+                      "type": "text",
+                      "id": "U3aYn",
+                      "name": "Prédications",
+                      "fill": "$ink-soft",
+                      "content": "Prédications",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "a1nhz",
+                      "name": "Exhortations",
+                      "fill": "$ink-soft",
+                      "content": "Exhortations",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "wEyth",
+                      "name": "Publications",
+                      "fill": "$ink-soft",
+                      "content": "Publications",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "v15WH",
+                      "name": "Études bibliques",
+                      "fill": "$ink-soft",
+                      "content": "Études bibliques",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "W5k9d",
+                  "name": "LA MISSION",
+                  "width": 190,
+                  "layout": "vertical",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "dBNre",
+                      "name": "Head",
+                      "fill": "$ink",
+                      "content": "LA MISSION",
+                      "fontFamily": "$font-body",
+                      "fontSize": 10,
+                      "fontWeight": "600",
+                      "letterSpacing": 1.8
+                    },
+                    {
+                      "type": "text",
+                      "id": "C48d6f",
+                      "name": "À propos",
+                      "fill": "$ink-soft",
+                      "content": "À propos",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "b6gn1g",
+                      "name": "Auteurs",
+                      "fill": "$ink-soft",
+                      "content": "Auteurs",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "rbOHC",
+                      "name": "Courage soldats du Christ",
+                      "fill": "$ink-soft",
+                      "content": "Courage soldats du Christ",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Y7g7B",
+                      "name": "Nous contacter",
+                      "fill": "$ink-soft",
+                      "content": "Nous contacter",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ciwsD",
+                  "name": "SUIVRE",
+                  "width": 190,
+                  "layout": "vertical",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "gmaJm",
+                      "name": "Head",
+                      "fill": "$ink",
+                      "content": "SUIVRE",
+                      "fontFamily": "$font-body",
+                      "fontSize": 10,
+                      "fontWeight": "600",
+                      "letterSpacing": 1.8
+                    },
+                    {
+                      "type": "text",
+                      "id": "J1WZrB",
+                      "name": "Newsletter",
+                      "fill": "$ink-soft",
+                      "content": "Newsletter",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "NMFiO",
+                      "name": "Flux RSS",
+                      "fill": "$ink-soft",
+                      "content": "Flux RSS",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "r3BsO",
+                      "name": "Podcast",
+                      "fill": "$ink-soft",
+                      "content": "Podcast",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "T2T4E",
+                      "name": "Faire un don",
+                      "fill": "$ink-soft",
+                      "content": "Faire un don",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "dtpf8",
+              "name": "Footer Bottom",
+              "width": "fill_container",
+              "stroke": "$line",
+              "strokeWidth": {
+                "top": 1
+              },
+              "padding": [
+                22,
+                0,
+                0,
+                0
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "UFa7c",
+                  "name": "Copyright",
+                  "fill": "$ink-soft",
+                  "content": "MEVAR © 2026 — Tous droits réservés",
+                  "fontFamily": "$font-body",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "GCYGC",
+                  "name": "Social",
+                  "gap": 18,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "lBXLC",
+                      "name": "rss",
+                      "width": 17,
+                      "height": 17,
+                      "icon": "rss",
+                      "library": "lucide",
+                      "fill": "$ink-soft"
+                    },
+                    {
+                      "type": "icon",
+                      "id": "vVh3v",
+                      "name": "youtube",
+                      "width": 17,
+                      "height": 17,
+                      "icon": "youtube",
+                      "library": "lucide",
+                      "fill": "$ink-soft"
+                    },
+                    {
+                      "type": "icon",
+                      "id": "YpmU0",
+                      "name": "facebook",
+                      "width": 17,
+                      "height": 17,
+                      "icon": "facebook",
+                      "library": "lucide",
+                      "fill": "$ink-soft"
+                    },
+                    {
+                      "type": "icon",
+                      "id": "STppS",
+                      "name": "mail",
+                      "width": 17,
+                      "height": 17,
+                      "icon": "mail",
+                      "library": "lucide",
+                      "fill": "$ink-soft"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "XETdm",
+      "x": 0,
+      "y": -480,
+      "name": "Article Card",
+      "reusable": true,
+      "width": 380,
+      "layout": "vertical",
+      "gap": 16,
+      "children": [
+        {
+          "type": "frame",
+          "id": "uP4sQ",
+          "name": "Thumb",
+          "width": "fill_container",
+          "height": 210,
+          "fill": "$paper-alt",
+          "cornerRadius": 4
+        },
+        {
+          "type": "frame",
+          "id": "FSO3R",
+          "name": "Body",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 10,
+          "children": [
+            {
+              "type": "text",
+              "id": "NU7iX",
+              "name": "Category",
+              "fill": "$brick",
+              "content": "PRÉDICATIONS",
+              "fontFamily": "$font-body",
+              "fontSize": 10,
+              "fontWeight": "600",
+              "letterSpacing": 1.8
+            },
+            {
+              "type": "text",
+              "id": "MjPZF",
+              "name": "Title",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Titre de l'article",
+              "lineHeight": 1.22,
+              "fontFamily": "$font-display",
+              "fontSize": 23,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "pwW0J",
+              "name": "Meta",
+              "gap": 8,
+              "padding": [
+                4,
+                0,
+                0,
+                0
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "o8e2V",
+                  "name": "Author",
+                  "fill": "$ink-soft",
+                  "content": "Daniel Kayembe",
+                  "fontFamily": "$font-body",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "rectangle",
+                  "cornerRadius": 2,
+                  "id": "k5meY",
+                  "name": "Dot",
+                  "fill": "$ink-soft",
+                  "width": 3,
+                  "height": 3
+                },
+                {
+                  "type": "text",
+                  "id": "bMrnb",
+                  "name": "Time",
+                  "fill": "$ink-soft",
+                  "content": "20 min",
+                  "fontFamily": "$font-body",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "sCtcA",
+      "x": 0,
+      "y": -660,
+      "name": "Status Bar",
+      "reusable": true,
+      "width": 390,
+      "padding": [
+        16,
+        26,
+        10,
+        30
+      ],
+      "justifyContent": "space_between",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "cWKKL",
+          "name": "Time",
+          "fill": "$ink",
+          "content": "9:41",
+          "fontFamily": "$font-body",
+          "fontSize": 15,
+          "fontWeight": "600"
+        },
+        {
+          "type": "frame",
+          "id": "Y2tPKE",
+          "name": "Status Icons",
+          "gap": 6,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "icon",
+              "id": "tCgkr",
+              "name": "signal",
+              "width": 16,
+              "height": 16,
+              "icon": "signal",
+              "library": "lucide",
+              "fill": "$ink"
+            },
+            {
+              "type": "icon",
+              "id": "FJbLS",
+              "name": "wifi",
+              "width": 16,
+              "height": 16,
+              "icon": "wifi",
+              "library": "lucide",
+              "fill": "$ink"
+            },
+            {
+              "type": "icon",
+              "id": "j9maxd",
+              "name": "battery-full",
+              "width": 16,
+              "height": 16,
+              "icon": "battery-full",
+              "library": "lucide",
+              "fill": "$ink"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "toCsX",
+      "x": 450,
+      "y": -660,
+      "name": "Tab Bar",
+      "reusable": true,
+      "width": 390,
+      "fill": "$paper",
+      "stroke": "$line",
+      "strokeWidth": {
+        "top": 1
+      },
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "v8gGb",
+          "name": "Tabs",
+          "width": "fill_container",
+          "padding": [
+            12,
+            16,
+            10,
+            16
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "YlAvT",
+              "name": "Accueil",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 5,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "jOWwt",
+                  "name": "Icon",
+                  "width": 23,
+                  "height": 23,
+                  "icon": "house",
+                  "library": "phosphor",
+                  "weight": 600,
+                  "fill": "$brick"
+                },
+                {
+                  "type": "text",
+                  "id": "dHjtI",
+                  "name": "Label",
+                  "fill": "$brick",
+                  "content": "Accueil",
+                  "fontFamily": "$font-body",
+                  "fontSize": 10,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "M3jZN",
+              "name": "Écouter",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 5,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "hhP9U",
+                  "name": "Icon",
+                  "width": 23,
+                  "height": 23,
+                  "icon": "headphones",
+                  "library": "phosphor",
+                  "weight": 400,
+                  "fill": "$ink-soft"
+                },
+                {
+                  "type": "text",
+                  "id": "PP9pW",
+                  "name": "Label",
+                  "fill": "$ink-soft",
+                  "content": "Écouter",
+                  "fontFamily": "$font-body",
+                  "fontSize": 10,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "pJuJK",
+              "name": "Bible",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 5,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "JXAHZ",
+                  "name": "Icon",
+                  "width": 23,
+                  "height": 23,
+                  "icon": "book-open",
+                  "library": "phosphor",
+                  "weight": 400,
+                  "fill": "$ink-soft"
+                },
+                {
+                  "type": "text",
+                  "id": "RqD9W",
+                  "name": "Label",
+                  "fill": "$ink-soft",
+                  "content": "Bible",
+                  "fontFamily": "$font-body",
+                  "fontSize": 10,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "tf8Pd",
+              "name": "Recherche",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 5,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "ufXMI",
+                  "name": "Icon",
+                  "width": 23,
+                  "height": 23,
+                  "icon": "magnifying-glass",
+                  "library": "phosphor",
+                  "weight": 400,
+                  "fill": "$ink-soft"
+                },
+                {
+                  "type": "text",
+                  "id": "kGOCG",
+                  "name": "Label",
+                  "fill": "$ink-soft",
+                  "content": "Recherche",
+                  "fontFamily": "$font-body",
+                  "fontSize": 10,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "I995E",
+          "name": "Home Indicator Area",
+          "width": "fill_container",
+          "height": 24,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": 3,
+              "id": "fZyEM",
+              "name": "Home Indicator",
+              "fill": "$ink",
+              "width": 134,
+              "height": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "eVvpk",
+      "x": 0,
+      "y": 3335,
+      "name": "Mobile — Accueil",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$paper",
+      "layout": "vertical",
+      "children": [
+        {
+          "id": "S8Jpb",
+          "type": "ref",
+          "ref": "sCtcA",
+          "name": "Status Bar",
+          "width": "fill_container"
+        },
+        {
+          "type": "frame",
+          "id": "Rnaef",
+          "name": "Header",
+          "width": "fill_container",
+          "padding": [
+            4,
+            20,
+            14,
+            20
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "cMBJc",
+              "name": "Brand",
+              "gap": 8,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "Z8xxZ0",
+                  "name": "Mark",
+                  "width": 22,
+                  "height": 22,
+                  "icon": "bird",
+                  "library": "phosphor",
+                  "fill": "$brick"
+                },
+                {
+                  "type": "text",
+                  "id": "y0Y4dR",
+                  "name": "Wordmark",
+                  "fill": "$ink",
+                  "content": "MEVAR",
+                  "fontFamily": "$font-display",
+                  "fontSize": 19,
+                  "fontWeight": "500",
+                  "letterSpacing": 1.8
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "FPB6u",
+              "name": "Header Actions",
+              "gap": 16,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "ZBVqv",
+                  "name": "Bell",
+                  "width": 20,
+                  "height": 20,
+                  "icon": "bell",
+                  "library": "lucide",
+                  "fill": "$ink-soft"
+                },
+                {
+                  "type": "ellipse",
+                  "id": "WFxkx",
+                  "name": "Avatar",
+                  "fill": "$paper-alt",
+                  "width": 30,
+                  "height": 30,
+                  "stroke": "$line",
+                  "strokeWidth": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "RRZzL",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 18,
+          "padding": [
+            0,
+            20
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "mMxh9",
+              "name": "Featured Card",
+              "metadata": {
+                "type": "unsplash",
+                "username": "___atmos",
+                "link": "https://unsplash.com/@___atmos",
+                "author": "Caroline Badran"
+              },
+              "clip": true,
+              "width": "fill_container",
+              "height": 268,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "https://images.unsplash.com/photo-1781178894069-4cd08bb5e40c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzI3MDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+                "mode": "fill"
+              },
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "justifyContent": "end",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "B9ZH3C",
+                  "name": "Scrim",
+                  "width": "fill_container",
+                  "fill": "#16110Ecc",
+                  "layout": "vertical",
+                  "gap": 8,
+                  "padding": [
+                    56,
+                    18,
+                    18,
+                    18
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "n7iI8F",
+                      "name": "Category",
+                      "fill": "#E0A883",
+                      "content": "EXHORTATIONS · À LA UNE",
+                      "fontFamily": "$font-body",
+                      "fontSize": 10,
+                      "fontWeight": "600",
+                      "letterSpacing": 1.6
+                    },
+                    {
+                      "type": "text",
+                      "id": "b3GKyS",
+                      "name": "Title",
+                      "fill": "$paper",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Ce qui arrive — Le Jour du Seigneur",
+                      "lineHeight": 1.18,
+                      "fontFamily": "$font-display",
+                      "fontSize": 27,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "C5wuX",
+                      "name": "Meta",
+                      "gap": 8,
+                      "padding": [
+                        2,
+                        0,
+                        0,
+                        0
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "c6Dw1",
+                          "name": "Author",
+                          "fill": "#CFC5B8",
+                          "content": "Daniel Kayembe",
+                          "fontFamily": "$font-body",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        },
+                        {
+                          "type": "rectangle",
+                          "cornerRadius": 2,
+                          "id": "C8j1oW",
+                          "name": "Dot",
+                          "fill": "#CFC5B8",
+                          "width": 3,
+                          "height": 3
+                        },
+                        {
+                          "type": "text",
+                          "id": "XfIYV",
+                          "name": "Time",
+                          "fill": "#CFC5B8",
+                          "content": "33 min",
+                          "fontFamily": "$font-body",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "ep1hG",
+              "name": "Chips",
+              "width": "fill_container",
+              "gap": 7,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "GZ3r2",
+                  "name": "Tout",
+                  "fill": "$ink",
+                  "cornerRadius": 20,
+                  "stroke": "$line",
+                  "padding": [
+                    7,
+                    11
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "W6ztrV",
+                      "name": "Label",
+                      "fill": "$paper",
+                      "content": "Tout",
+                      "fontFamily": "$font-body",
+                      "fontSize": 11.5,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "qn4jW",
+                  "name": "Prédications",
+                  "fill": "#00000000",
+                  "cornerRadius": 20,
+                  "stroke": "$line",
+                  "strokeWidth": 1,
+                  "padding": [
+                    7,
+                    11
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "rMPbM",
+                      "name": "Label",
+                      "fill": "$ink-soft",
+                      "content": "Prédications",
+                      "fontFamily": "$font-body",
+                      "fontSize": 11.5,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "CwIJM",
+                  "name": "Exhortations",
+                  "fill": "#00000000",
+                  "cornerRadius": 20,
+                  "stroke": "$line",
+                  "strokeWidth": 1,
+                  "padding": [
+                    7,
+                    11
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "uGVzB",
+                      "name": "Label",
+                      "fill": "$ink-soft",
+                      "content": "Exhortations",
+                      "fontFamily": "$font-body",
+                      "fontSize": 11.5,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "sepML",
+                  "name": "Études",
+                  "fill": "#00000000",
+                  "cornerRadius": 20,
+                  "stroke": "$line",
+                  "strokeWidth": 1,
+                  "padding": [
+                    7,
+                    11
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "bbc3a",
+                      "name": "Label",
+                      "fill": "$ink-soft",
+                      "content": "Études",
+                      "fontFamily": "$font-body",
+                      "fontSize": 11.5,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Lsx61",
+              "name": "Continue Card",
+              "width": "fill_container",
+              "fill": "$paper-alt",
+              "cornerRadius": 10,
+              "gap": 12,
+              "padding": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Jk51x",
+                  "name": "Thumb",
+                  "metadata": {
+                    "type": "unsplash",
+                    "username": "sabrinarizzo",
+                    "link": "https://unsplash.com/@sabrinarizzo",
+                    "author": "Sabrina Rizzo"
+                  },
+                  "width": 52,
+                  "height": 52,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "https://images.unsplash.com/photo-1761839321322-88f782f02e24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIzMzZ8&ixlib=rb-4.1.0&q=80&w=1080",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 8
+                },
+                {
+                  "type": "frame",
+                  "id": "mdg9L",
+                  "name": "Text",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "S6baP",
+                      "name": "Label",
+                      "fill": "$clay",
+                      "content": "REPRENDRE L'ÉCOUTE",
+                      "fontFamily": "$font-body",
+                      "fontSize": 9.5,
+                      "fontWeight": "600",
+                      "letterSpacing": 1.4
+                    },
+                    {
+                      "type": "text",
+                      "id": "J7ZpC",
+                      "name": "Title",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Kétura et ses enfants",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "klZKY",
+                      "name": "Progress",
+                      "width": "fill_container",
+                      "height": 3,
+                      "fill": "$line",
+                      "cornerRadius": 2,
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "cornerRadius": 2,
+                          "id": "U4Kel",
+                          "name": "Fill",
+                          "fill": "$brick",
+                          "width": 96,
+                          "height": 3
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "wqqxY",
+                  "name": "Play",
+                  "width": 38,
+                  "height": 38,
+                  "fill": "$brick",
+                  "cornerRadius": 19,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "sItWR",
+                      "name": "Icon",
+                      "width": 14,
+                      "height": 14,
+                      "icon": "play",
+                      "library": "phosphor",
+                      "fill": "$paper"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "EPx7k",
+              "name": "List Head",
+              "width": "fill_container",
+              "padding": [
+                4,
+                0,
+                0,
+                0
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "gr79v",
+                  "name": "Title",
+                  "fill": "$ink",
+                  "content": "Récemment publié",
+                  "fontFamily": "$font-display",
+                  "fontSize": 20,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "text",
+                  "id": "z1jfTh",
+                  "name": "See All",
+                  "fill": "$clay",
+                  "content": "Voir tout",
+                  "fontFamily": "$font-body",
+                  "fontSize": 12.5,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zYPLX",
+              "name": "List",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 18,
+              "children": [
+                {
+                  "id": "qVP7L",
+                  "type": "ref",
+                  "ref": "unEAV",
+                  "name": "Faire multiplier notre foi",
+                  "width": "fill_container",
+                  "descendants": {
+                    "iWX81": {
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1522409164712-f66b8c27f68e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIzNDl8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      }
+                    },
+                    "FEMGg": {
+                      "content": "EXHORTATIONS"
+                    },
+                    "tzlsh": {
+                      "content": "Faire multiplier notre foi"
+                    },
+                    "NFomZ": {
+                      "content": "Esther Mbala · 11 min"
+                    }
+                  }
+                },
+                {
+                  "id": "RNhjv",
+                  "type": "ref",
+                  "ref": "unEAV",
+                  "name": "Le chant du coq et la grande trompette",
+                  "width": "fill_container",
+                  "descendants": {
+                    "iWX81": {
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1786192691388-364dbaded76c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzIzNDl8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      }
+                    },
+                    "FEMGg": {
+                      "content": "PRÉDICATIONS"
+                    },
+                    "tzlsh": {
+                      "content": "Le chant du coq et la grande trompette"
+                    },
+                    "NFomZ": {
+                      "content": "Daniel Kayembe · 32 min"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "HtRpc",
+          "type": "ref",
+          "ref": "toCsX",
+          "name": "Tab Bar",
+          "width": "fill_container"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "unEAV",
+      "x": 900,
+      "y": -660,
+      "name": "Mobile List Row",
+      "reusable": true,
+      "width": 350,
+      "gap": 13,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "iWX81",
+          "name": "Thumb",
+          "width": 76,
+          "height": 76,
+          "fill": "$paper-alt",
+          "cornerRadius": 9
+        },
+        {
+          "type": "frame",
+          "id": "dfvTR",
+          "name": "Text",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 5,
+          "children": [
+            {
+              "type": "text",
+              "id": "FEMGg",
+              "name": "Category",
+              "fill": "$brick",
+              "content": "PRÉDICATIONS",
+              "fontFamily": "$font-body",
+              "fontSize": 9.5,
+              "fontWeight": "600",
+              "letterSpacing": 1.4
+            },
+            {
+              "type": "text",
+              "id": "tzlsh",
+              "name": "Title",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Titre de l'article",
+              "lineHeight": 1.25,
+              "fontFamily": "$font-display",
+              "fontSize": 17,
+              "fontWeight": "500"
+            },
+            {
+              "type": "text",
+              "id": "NFomZ",
+              "name": "Meta",
+              "fill": "$ink-soft",
+              "content": "Daniel Kayembe · 23 min",
+              "fontFamily": "$font-body",
+              "fontSize": 11.5,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "H1gSP",
+      "x": 470,
+      "y": 3335,
+      "name": "Mobile — Lecture",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$paper",
+      "layout": "vertical",
+      "children": [
+        {
+          "id": "kiQu9",
+          "type": "ref",
+          "ref": "sCtcA",
+          "name": "Status Bar",
+          "width": "fill_container"
+        },
+        {
+          "type": "frame",
+          "id": "U99UW",
+          "name": "App Bar",
+          "width": "fill_container",
+          "layout": "vertical",
+          "children": [
+            {
+              "type": "frame",
+              "id": "oZgNQ",
+              "name": "Bar",
+              "width": "fill_container",
+              "padding": [
+                6,
+                20,
+                14,
+                20
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "W2vAL",
+                  "name": "Back",
+                  "width": 24,
+                  "height": 24,
+                  "icon": "chevron-left",
+                  "library": "lucide",
+                  "fill": "$ink"
+                },
+                {
+                  "type": "text",
+                  "id": "sYYDh",
+                  "name": "Context",
+                  "fill": "$ink-soft",
+                  "content": "EXHORTATIONS",
+                  "fontFamily": "$font-body",
+                  "fontSize": 10,
+                  "fontWeight": "600",
+                  "letterSpacing": 1.6
+                },
+                {
+                  "type": "frame",
+                  "id": "xTkyU",
+                  "name": "Actions",
+                  "gap": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "Yxge5",
+                      "name": "Bookmark",
+                      "width": 19,
+                      "height": 19,
+                      "icon": "bookmark",
+                      "library": "lucide",
+                      "fill": "$ink"
+                    },
+                    {
+                      "type": "icon",
+                      "id": "Ddjr5",
+                      "name": "Share",
+                      "width": 19,
+                      "height": 19,
+                      "icon": "share",
+                      "library": "lucide",
+                      "fill": "$ink"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "W5y4Kj",
+              "name": "Reading Progress",
+              "width": "fill_container",
+              "height": 2,
+              "fill": "$line",
+              "children": [
+                {
+                  "type": "rectangle",
+                  "id": "nIsYb",
+                  "name": "Fill",
+                  "fill": "$brick",
+                  "width": 134,
+                  "height": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "j4ls5",
+          "name": "Article Image",
+          "metadata": {
+            "type": "unsplash",
+            "username": "marekpiwnicki",
+            "link": "https://unsplash.com/@marekpiwnicki",
+            "author": "Marek Piwnicki"
+          },
+          "width": "fill_container",
+          "height": 212,
+          "fill": {
+            "type": "image",
+            "enabled": true,
+            "url": "https://images.unsplash.com/photo-1764706201931-3e2c69922162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzI3MDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+            "mode": "fill"
+          }
+        },
+        {
+          "type": "frame",
+          "id": "OCqgV",
+          "name": "Article",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 12,
+          "padding": [
+            22,
+            22,
+            0,
+            22
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "yHXL2",
+              "name": "Title",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Ce qui arrive — Le Jour du Seigneur",
+              "lineHeight": 1.2,
+              "fontFamily": "$font-display",
+              "fontSize": 28,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "COhq8",
+              "name": "Byline",
+              "width": "fill_container",
+              "stroke": "$line",
+              "strokeWidth": {
+                "bottom": 1
+              },
+              "gap": 11,
+              "padding": [
+                2,
+                0,
+                10,
+                0
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "ellipse",
+                  "id": "FUHWB",
+                  "name": "Avatar",
+                  "fill": "$paper-alt",
+                  "width": 34,
+                  "height": 34
+                },
+                {
+                  "type": "frame",
+                  "id": "RlOeQ",
+                  "name": "Byline Text",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 2,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "iCOcY",
+                      "name": "Name",
+                      "fill": "$ink",
+                      "content": "Daniel Kayembe",
+                      "fontFamily": "$font-body",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Ru7rb",
+                      "name": "Meta",
+                      "fill": "$ink-soft",
+                      "content": "18 sept. 2026 · 33 min de lecture",
+                      "fontFamily": "$font-body",
+                      "fontSize": 11.5,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "ClN4s",
+              "name": "Lead",
+              "fill": "$brick",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "« Car le jour du Seigneur viendra comme un voleur dans la nuit. »",
+              "lineHeight": 1.5,
+              "fontFamily": "$font-display",
+              "fontSize": 17,
+              "fontWeight": "normal",
+              "fontStyle": "italic"
+            },
+            {
+              "type": "text",
+              "id": "t94g0",
+              "name": "Para 1",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Les prophètes n'ont pas décrit ce jour pour nourrir la curiosité, mais pour réveiller la vigilance. Chaque signe annoncé appelle une réponse : se tenir prêt, veiller, demeurer dans la sainteté.",
+              "lineHeight": 1.72,
+              "fontFamily": "$font-body",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "o9Ok8",
+              "name": "Para 2",
+              "fill": "$ink",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "L'Église d'aujourd'hui est invitée à relire ces textes non comme une menace, mais comme une promesse adressée à ceux qui attendent.",
+              "lineHeight": 1.72,
+              "fontFamily": "$font-body",
+              "fontSize": 15,
+              "fontWeight": "normal"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "N9NLFF",
+          "name": "Listen Bar",
+          "width": "fill_container",
+          "fill": "$ink",
+          "layout": "vertical",
+          "children": [
+            {
+              "type": "frame",
+              "id": "EiY9h",
+              "name": "Bar",
+              "width": "fill_container",
+              "gap": 13,
+              "padding": [
+                14,
+                20
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "bIm2G",
+                  "name": "Play",
+                  "width": 42,
+                  "height": 42,
+                  "fill": "$clay",
+                  "cornerRadius": 21,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "dK9Nv",
+                      "name": "Icon",
+                      "width": 15,
+                      "height": 15,
+                      "icon": "play",
+                      "library": "phosphor",
+                      "fill": "$paper"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "uDFxX",
+                  "name": "Text",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 3,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "vU5d8",
+                      "name": "Label",
+                      "fill": "#E0A883",
+                      "content": "ÉCOUTER LA VERSION AUDIO",
+                      "fontFamily": "$font-body",
+                      "fontSize": 9.5,
+                      "fontWeight": "600",
+                      "letterSpacing": 1.4
+                    },
+                    {
+                      "type": "text",
+                      "id": "nOOhA",
+                      "name": "Duration",
+                      "fill": "$paper",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "48 min · lu par l'auteur",
+                      "fontFamily": "$font-body",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "icon",
+                  "id": "fJQyA",
+                  "name": "Expand",
+                  "width": 20,
+                  "height": 20,
+                  "icon": "chevron-up",
+                  "library": "lucide",
+                  "fill": "#B7ADA1"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "swZod",
+              "name": "Home Indicator Area",
+              "width": "fill_container",
+              "height": 24,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "rectangle",
+                  "cornerRadius": 3,
+                  "id": "BR0Cd",
+                  "name": "Home Indicator",
+                  "fill": "#6B6156",
+                  "width": 134,
+                  "height": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "QYPI9",
+      "x": 940,
+      "y": 3335,
+      "name": "Mobile — Lecteur audio",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "#17120F",
+      "layout": "vertical",
+      "children": [
+        {
+          "id": "LWhvM",
+          "type": "ref",
+          "ref": "sCtcA",
+          "name": "Status Bar",
+          "width": "fill_container",
+          "descendants": {
+            "cWKKL": {
+              "fill": "$paper"
+            },
+            "tCgkr": {
+              "fill": "$paper"
+            },
+            "FJbLS": {
+              "fill": "$paper"
+            },
+            "j9maxd": {
+              "fill": "$paper"
+            }
+          }
+        },
+        {
+          "type": "frame",
+          "id": "W3hyMo",
+          "name": "App Bar",
+          "width": "fill_container",
+          "padding": [
+            6,
+            20,
+            10,
+            20
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "icon",
+              "id": "ZvsOT",
+              "name": "Collapse",
+              "width": 24,
+              "height": 24,
+              "icon": "chevron-down",
+              "library": "lucide",
+              "fill": "$paper"
+            },
+            {
+              "type": "text",
+              "id": "wazvW",
+              "name": "Context",
+              "fill": "#8B8177",
+              "content": "EN LECTURE",
+              "fontFamily": "$font-body",
+              "fontSize": 10,
+              "fontWeight": "600",
+              "letterSpacing": 1.6
+            },
+            {
+              "type": "icon",
+              "id": "wVOZy",
+              "name": "More",
+              "width": 22,
+              "height": 22,
+              "icon": "ellipsis",
+              "library": "lucide",
+              "fill": "$paper"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "H2eAB",
+          "name": "Player",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 26,
+          "padding": [
+            22,
+            28,
+            0,
+            28
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "C7sjJ0",
+              "name": "Artwork",
+              "metadata": {
+                "type": "unsplash",
+                "username": "bgoodpic",
+                "link": "https://unsplash.com/@bgoodpic",
+                "author": "Barney Goodman"
+              },
+              "width": "fill_container",
+              "height": 334,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "https://images.unsplash.com/photo-1785064038737-24b0b1410edb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MzI1ODZ8&ixlib=rb-4.1.0&q=80&w=1080",
+                "mode": "fill"
+              },
+              "cornerRadius": 18,
+              "effect": {
+                "type": "shadow",
+                "shadowType": "outer",
+                "color": "#00000066",
+                "offset": {
+                  "x": 0,
+                  "y": 18
+                },
+                "blur": 40
+              }
+            },
+            {
+              "type": "frame",
+              "id": "djZMq",
+              "name": "Track Info",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "oUNu0",
+                  "name": "Category",
+                  "fill": "#E0A883",
+                  "content": "PRÉDICATIONS · SÉRIE LA FOI",
+                  "fontFamily": "$font-body",
+                  "fontSize": 10,
+                  "fontWeight": "600",
+                  "letterSpacing": 1.6
+                },
+                {
+                  "type": "text",
+                  "id": "ju2LJ",
+                  "name": "Title",
+                  "fill": "$paper",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Kétura et ses enfants, ou la foi qui prospère",
+                  "lineHeight": 1.22,
+                  "fontFamily": "$font-display",
+                  "fontSize": 25,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "qUPOh",
+                  "name": "Author",
+                  "fill": "#B7ADA1",
+                  "content": "Daniel Kayembe",
+                  "fontFamily": "$font-body",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "wQkRt",
+              "name": "Scrubber",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "v4yICe",
+                  "name": "Track",
+                  "width": "fill_container",
+                  "height": 12,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "VYb7B",
+                      "name": "Elapsed Fill",
+                      "fill": "$clay",
+                      "width": 128,
+                      "height": 4
+                    },
+                    {
+                      "type": "ellipse",
+                      "id": "Mijmf",
+                      "name": "Knob",
+                      "fill": "$paper",
+                      "width": 12,
+                      "height": 12
+                    },
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "pcLm5",
+                      "name": "Rest",
+                      "fill": "#3A332D",
+                      "width": "fill_container",
+                      "height": 4
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "a4Ue4u",
+                  "name": "Times",
+                  "width": "fill_container",
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "l7BoT",
+                      "name": "Elapsed",
+                      "fill": "#B7ADA1",
+                      "content": "11:42",
+                      "fontFamily": "$font-body",
+                      "fontSize": 11.5,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "WdD9S",
+                      "name": "Remaining",
+                      "fill": "#8B8177",
+                      "content": "-19:23",
+                      "fontFamily": "$font-body",
+                      "fontSize": 11.5,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "xEMCD",
+              "name": "Controls",
+              "width": "fill_container",
+              "padding": 4,
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "p5nJV",
+                  "name": "Shuffle",
+                  "width": 20,
+                  "height": 20,
+                  "icon": "shuffle",
+                  "library": "lucide",
+                  "fill": "#8B8177"
+                },
+                {
+                  "type": "icon",
+                  "id": "ssvpC",
+                  "name": "Back 15",
+                  "width": 27,
+                  "height": 27,
+                  "icon": "rotate-ccw",
+                  "library": "lucide",
+                  "fill": "$paper"
+                },
+                {
+                  "type": "frame",
+                  "id": "hs6Oa",
+                  "name": "Play",
+                  "width": 74,
+                  "height": 74,
+                  "fill": "$clay",
+                  "cornerRadius": 37,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "dOgpR",
+                      "name": "Icon",
+                      "width": 26,
+                      "height": 26,
+                      "icon": "pause",
+                      "library": "phosphor",
+                      "weight": 600,
+                      "fill": "$paper"
+                    }
+                  ]
+                },
+                {
+                  "type": "icon",
+                  "id": "CzOfH",
+                  "name": "Forward 30",
+                  "width": 27,
+                  "height": 27,
+                  "icon": "rotate-cw",
+                  "library": "lucide",
+                  "fill": "$paper"
+                },
+                {
+                  "type": "icon",
+                  "id": "eXbfN",
+                  "name": "Repeat",
+                  "width": 20,
+                  "height": 20,
+                  "icon": "repeat",
+                  "library": "lucide",
+                  "fill": "#8B8177"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "OLP2i",
+              "name": "Extras",
+              "width": "fill_container",
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "zUfuH",
+                  "name": "1,0×",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "k02XA7",
+                      "name": "Icon",
+                      "width": 19,
+                      "height": 19,
+                      "icon": "gauge",
+                      "library": "lucide",
+                      "fill": "#B7ADA1"
+                    },
+                    {
+                      "type": "text",
+                      "id": "I2LfeF",
+                      "name": "Label",
+                      "fill": "#8B8177",
+                      "content": "1,0×",
+                      "fontFamily": "$font-body",
+                      "fontSize": 10.5,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "n54HL",
+                  "name": "Minuteur",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "foHAm",
+                      "name": "Icon",
+                      "width": 19,
+                      "height": 19,
+                      "icon": "moon",
+                      "library": "lucide",
+                      "fill": "#B7ADA1"
+                    },
+                    {
+                      "type": "text",
+                      "id": "g7OQEx",
+                      "name": "Label",
+                      "fill": "#8B8177",
+                      "content": "Minuteur",
+                      "fontFamily": "$font-body",
+                      "fontSize": 10.5,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "IcHiN",
+                  "name": "Transcription",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "Eavkj",
+                      "name": "Icon",
+                      "width": 19,
+                      "height": 19,
+                      "icon": "file-text",
+                      "library": "lucide",
+                      "fill": "#B7ADA1"
+                    },
+                    {
+                      "type": "text",
+                      "id": "pJQGQ",
+                      "name": "Label",
+                      "fill": "#8B8177",
+                      "content": "Transcription",
+                      "fontFamily": "$font-body",
+                      "fontSize": 10.5,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "EX49d",
+                  "name": "Hors ligne",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "Z4mwB8",
+                      "name": "Icon",
+                      "width": 19,
+                      "height": 19,
+                      "icon": "download",
+                      "library": "lucide",
+                      "fill": "#B7ADA1"
+                    },
+                    {
+                      "type": "text",
+                      "id": "M2ksm9",
+                      "name": "Label",
+                      "fill": "#8B8177",
+                      "content": "Hors ligne",
+                      "fontFamily": "$font-body",
+                      "fontSize": 10.5,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "v0dnPg",
+          "name": "Home Indicator Area",
+          "width": "fill_container",
+          "height": 30,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": 3,
+              "id": "TrX1j",
+              "name": "Home Indicator",
+              "fill": "#6B6156",
+              "width": 134,
+              "height": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "C4A46y",
+      "x": 1410,
+      "y": 3335,
+      "name": "Mobile — Recherche",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$paper",
+      "layout": "vertical",
+      "children": [
+        {
+          "id": "P9u3q",
+          "type": "ref",
+          "ref": "sCtcA",
+          "name": "Status Bar",
+          "width": "fill_container"
+        },
+        {
+          "type": "frame",
+          "id": "DuYsd",
+          "name": "Header",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 16,
+          "padding": [
+            6,
+            20,
+            16,
+            20
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "K2DgZy",
+              "name": "Title",
+              "fill": "$ink",
+              "content": "Rechercher",
+              "fontFamily": "$font-display",
+              "fontSize": 32,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "RWgzi",
+              "name": "Search Field",
+              "width": "fill_container",
+              "fill": "$paper-alt",
+              "cornerRadius": 10,
+              "gap": 10,
+              "padding": [
+                13,
+                14
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon",
+                  "id": "w7DKOg",
+                  "name": "Icon",
+                  "width": 18,
+                  "height": 18,
+                  "icon": "search",
+                  "library": "lucide",
+                  "fill": "$ink-soft"
+                },
+                {
+                  "type": "text",
+                  "id": "iyzRZ",
+                  "name": "Placeholder",
+                  "fill": "$ink-soft",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Un thème, un verset, un auteur…",
+                  "fontFamily": "$font-body",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "icon",
+                  "id": "UE1k6",
+                  "name": "Mic",
+                  "width": 18,
+                  "height": 18,
+                  "icon": "mic",
+                  "library": "lucide",
+                  "fill": "$ink-soft"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "SMtIn",
+          "name": "Content",
+          "width": "fill_container",
+          "height": "fill_container",
+          "layout": "vertical",
+          "gap": 26,
+          "padding": [
+            0,
+            20
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "EjcHx",
+              "name": "Themes",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "CWfqg",
+                  "name": "Caption",
+                  "fill": "$ink-soft",
+                  "content": "PARCOURIR PAR THÈME",
+                  "fontFamily": "$font-body",
+                  "fontSize": 10,
+                  "fontWeight": "600",
+                  "letterSpacing": 1.6
+                },
+                {
+                  "type": "frame",
+                  "id": "MlKvy",
+                  "name": "Theme Row 1",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "K86fc",
+                      "name": "La foi",
+                      "width": "fill_container",
+                      "height": 100,
+                      "fill": "#EDE5D8",
+                      "cornerRadius": 10,
+                      "layout": "vertical",
+                      "padding": 14,
+                      "justifyContent": "space_between",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "uobpF",
+                          "name": "Icon",
+                          "width": 22,
+                          "height": 22,
+                          "icon": "flame",
+                          "library": "phosphor",
+                          "fill": "$brick"
+                        },
+                        {
+                          "type": "text",
+                          "id": "iPo6O",
+                          "name": "Label",
+                          "fill": "$ink",
+                          "content": "La foi",
+                          "fontFamily": "$font-display",
+                          "fontSize": 18,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "W70yw8",
+                      "name": "La prière",
+                      "width": "fill_container",
+                      "height": 100,
+                      "fill": "#E6DAC6",
+                      "cornerRadius": 10,
+                      "layout": "vertical",
+                      "padding": 14,
+                      "justifyContent": "space_between",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "WGRQH",
+                          "name": "Icon",
+                          "width": 22,
+                          "height": 22,
+                          "icon": "heart",
+                          "library": "lucide",
+                          "fill": "$brick"
+                        },
+                        {
+                          "type": "text",
+                          "id": "O4nya",
+                          "name": "Label",
+                          "fill": "$ink",
+                          "content": "La prière",
+                          "fontFamily": "$font-display",
+                          "fontSize": 18,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "IX5E6",
+                  "name": "Theme Row 2",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "lApDs",
+                      "name": "Prophétie",
+                      "width": "fill_container",
+                      "height": 100,
+                      "fill": "#E6DAC6",
+                      "cornerRadius": 10,
+                      "layout": "vertical",
+                      "padding": 14,
+                      "justifyContent": "space_between",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "wtjBw",
+                          "name": "Icon",
+                          "width": 22,
+                          "height": 22,
+                          "icon": "eye",
+                          "library": "phosphor",
+                          "fill": "$brick"
+                        },
+                        {
+                          "type": "text",
+                          "id": "bqd6d",
+                          "name": "Label",
+                          "fill": "$ink",
+                          "content": "Prophétie",
+                          "fontFamily": "$font-display",
+                          "fontSize": 18,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "PwAKo",
+                      "name": "Esprit Saint",
+                      "width": "fill_container",
+                      "height": 100,
+                      "fill": "#EDE5D8",
+                      "cornerRadius": 10,
+                      "layout": "vertical",
+                      "padding": 14,
+                      "justifyContent": "space_between",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "WgdLm",
+                          "name": "Icon",
+                          "width": 22,
+                          "height": 22,
+                          "icon": "wind",
+                          "library": "phosphor",
+                          "fill": "$brick"
+                        },
+                        {
+                          "type": "text",
+                          "id": "D7Ycr",
+                          "name": "Label",
+                          "fill": "$ink",
+                          "content": "Esprit Saint",
+                          "fontFamily": "$font-display",
+                          "fontSize": 18,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "y0sv5",
+                  "name": "Theme Row 3",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "B96JY",
+                      "name": "L'Église",
+                      "width": "fill_container",
+                      "height": 100,
+                      "fill": "#EDE5D8",
+                      "cornerRadius": 10,
+                      "layout": "vertical",
+                      "padding": 14,
+                      "justifyContent": "space_between",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "dIQDv",
+                          "name": "Icon",
+                          "width": 22,
+                          "height": 22,
+                          "icon": "users-three",
+                          "library": "phosphor",
+                          "fill": "$brick"
+                        },
+                        {
+                          "type": "text",
+                          "id": "MlUDH",
+                          "name": "Label",
+                          "fill": "$ink",
+                          "content": "L'Église",
+                          "fontFamily": "$font-display",
+                          "fontSize": 18,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "AwdAm",
+                      "name": "Espérance",
+                      "width": "fill_container",
+                      "height": 100,
+                      "fill": "#E6DAC6",
+                      "cornerRadius": 10,
+                      "layout": "vertical",
+                      "padding": 14,
+                      "justifyContent": "space_between",
+                      "children": [
+                        {
+                          "type": "icon",
+                          "id": "kzJSj",
+                          "name": "Icon",
+                          "width": 22,
+                          "height": 22,
+                          "icon": "sun-horizon",
+                          "library": "phosphor",
+                          "fill": "$brick"
+                        },
+                        {
+                          "type": "text",
+                          "id": "uZG1z",
+                          "name": "Label",
+                          "fill": "$ink",
+                          "content": "Espérance",
+                          "fontFamily": "$font-display",
+                          "fontSize": 18,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "j22wp",
+              "name": "Recent",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "KMjUm",
+                  "name": "Caption",
+                  "fill": "$ink-soft",
+                  "content": "RECHERCHES RÉCENTES",
+                  "fontFamily": "$font-body",
+                  "fontSize": 10,
+                  "fontWeight": "600",
+                  "letterSpacing": 1.6
+                },
+                {
+                  "type": "frame",
+                  "id": "QKclY",
+                  "name": "Le jour du Seigneur",
+                  "width": "fill_container",
+                  "stroke": "$line",
+                  "strokeWidth": {
+                    "bottom": 1
+                  },
+                  "gap": 11,
+                  "padding": [
+                    13,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "ioBi4",
+                      "name": "Clock",
+                      "width": 16,
+                      "height": 16,
+                      "icon": "clock-counter-clockwise",
+                      "library": "phosphor",
+                      "fill": "$ink-soft"
+                    },
+                    {
+                      "type": "text",
+                      "id": "pyses",
+                      "name": "Query",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Le jour du Seigneur",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "icon",
+                      "id": "FYHQ4",
+                      "name": "Go",
+                      "width": 15,
+                      "height": 15,
+                      "icon": "arrow-up-left",
+                      "library": "lucide",
+                      "fill": "$ink-soft"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "XFKKR",
+                  "name": "Fruit de l'Esprit",
+                  "width": "fill_container",
+                  "stroke": "$line",
+                  "strokeWidth": {
+                    "bottom": 1
+                  },
+                  "gap": 11,
+                  "padding": [
+                    13,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "K5xHZH",
+                      "name": "Clock",
+                      "width": 16,
+                      "height": 16,
+                      "icon": "clock-counter-clockwise",
+                      "library": "phosphor",
+                      "fill": "$ink-soft"
+                    },
+                    {
+                      "type": "text",
+                      "id": "zRmBq",
+                      "name": "Query",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Fruit de l'Esprit",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "icon",
+                      "id": "gRWl1",
+                      "name": "Go",
+                      "width": 15,
+                      "height": 15,
+                      "icon": "arrow-up-left",
+                      "library": "lucide",
+                      "fill": "$ink-soft"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "EeiQ8",
+                  "name": "Abraham et Kétura",
+                  "width": "fill_container",
+                  "stroke": "$line",
+                  "strokeWidth": {
+                    "bottom": 1
+                  },
+                  "gap": 11,
+                  "padding": [
+                    13,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "ig56I",
+                      "name": "Clock",
+                      "width": 16,
+                      "height": 16,
+                      "icon": "clock-counter-clockwise",
+                      "library": "phosphor",
+                      "fill": "$ink-soft"
+                    },
+                    {
+                      "type": "text",
+                      "id": "S83E8",
+                      "name": "Query",
+                      "fill": "$ink",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Abraham et Kétura",
+                      "fontFamily": "$font-body",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "icon",
+                      "id": "XKT7M",
+                      "name": "Go",
+                      "width": 15,
+                      "height": 15,
+                      "icon": "arrow-up-left",
+                      "library": "lucide",
+                      "fill": "$ink-soft"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "NjQk1",
+          "type": "ref",
+          "ref": "toCsX",
+          "name": "Tab Bar",
+          "width": "fill_container",
+          "descendants": {
+            "jOWwt": {
+              "fill": "$ink-soft"
+            },
+            "dHjtI": {
+              "fill": "$ink-soft",
+              "fontWeight": "400"
+            },
+            "ufXMI": {
+              "fill": "$brick"
+            },
+            "kGOCG": {
+              "fill": "$brick",
+              "fontWeight": "600"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "paper": {
+      "type": "color",
+      "value": "#F7F3EC"
+    },
+    "paper-alt": {
+      "type": "color",
+      "value": "#EDE5D8"
+    },
+    "ink": {
+      "type": "color",
+      "value": "#1E1916"
+    },
+    "ink-soft": {
+      "type": "color",
+      "value": "#6B6156"
+    },
+    "brick": {
+      "type": "color",
+      "value": "#6E2E1B"
+    },
+    "clay": {
+      "type": "color",
+      "value": "#B4532F"
+    },
+    "line": {
+      "type": "color",
+      "value": "#DED4C4"
+    },
+    "font-display": {
+      "type": "string",
+      "value": "Newsreader"
+    },
+    "font-body": {
+      "type": "string",
+      "value": "Inter"
+    }
+  },
+  "fileToken": "e98eabd3-b510-458d-a8ef-5a27645caf37"
+}
