@@ -11,7 +11,8 @@
 // "see also" and for announcements ("Nouveau site web" links to three
 // unrelated articles). An edge only counts as a series edge when the two
 // posts also share a title stem, or both carry an explicit part number and
-// those numbers differ.
+// those numbers differ. And a series stays within one kind: a sermon and the
+// exhortation on the same theme ("L'esprit babylonien") are related, not parts.
 //
 // Approach:
 //   1. Walk Ghost JSON posts; extract internal-bookmark targets per post.
@@ -87,7 +88,15 @@ function sharesStem(a, b) {
   return n >= 2 && wa.slice(0, n).join(" ").length >= 8;
 }
 
+// Kind tags, in the order web/src/lib/utils.ts deriveKind reads them.
+const KIND_TAGS = ["Prédications", "Exhortations", "Etudes Bibliques", "Publications"];
+const tagsBySlug = new Map(
+  JSON.parse(fs.readFileSync(path.join(root, "manifests/mevar.json"), "utf8")).map((e) => [e.sermon_id, e.tags]),
+);
+const kindOf = (post) => KIND_TAGS.find((t) => tagsBySlug.get(post.slug).includes(t));
+
 function isSeriesPair(a, b) {
+  if (kindOf(a) !== kindOf(b)) return false;
   if (sharesStem(a, b)) return true;
   const pa = partOf(a), pb = partOf(b);
   return pa != null && pb != null && pa !== pb;
@@ -218,7 +227,7 @@ for (const s of series) {
   console.log(`  ${s.id}  (${s.members.length})  "${s.name}"`);
   for (const m of s.members) console.log(`      ${m.part}. ${m.slug}  —  ${m.title}`);
 }
-console.log(`rejected ${rejected.length} bookmark pairs (link without a shared stem or part numbers):`);
+console.log(`rejected ${rejected.length} bookmark pairs (different kinds, or no shared stem or part numbers):`);
 for (const r of rejected) console.log(`  ${r}`);
 
 // ── 6. Lift series fields into every mevar markdown ─────────────────────────

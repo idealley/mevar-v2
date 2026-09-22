@@ -35,10 +35,6 @@ bible_refs:
   - "Genèse 11:1-9"
   - "Luc 17"
   - "Matthieu 25:5"
-series_id: "lesprit-babylonien"
-series: "L'esprit babylonien"
-series_part: 1
-series_total: 2
 ---
 Mes frères et sœurs, que le nom du Seigneur soit béni ! Nous sommes reconnaissants au Seigneur qui permet encore ce rassemblement. Toutes les occasions sont bonnes pour écouter la Parole de Dieu – toutes les occasions sont bonnes pour nous approcher du Seigneur **dans la connaissance de Sa Parole et dans la connaissance de Sa Volonté,** parce que nous sommes parvenus à un temps **où chacun d’entre nous doit connaître la Volonté de Dieu** – chacun doit **connaître le cheminement de l’Esprit Saint dans l’Eglise** – parce que nous le savons tous, que l’Esprit a été donné au commencement de l’Eglise **pour conduire le Peuple de Dieu,** depuis le premier âge jusqu’au dernier âge – **jusqu’à l’enlèvement.**
 

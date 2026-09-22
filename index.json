@@ -159150,8 +159150,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/lesprit-babylonien.md",
-    "size_bytes": 66777,
-    "line_count": 233
+    "size_bytes": 66684,
+    "line_count": 229
   },
   {
     "source": "mevar",
@@ -159187,8 +159187,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/lesprit-babylonien-exhortation.md",
-    "size_bytes": 4073,
-    "line_count": 42
+    "size_bytes": 3980,
+    "line_count": 38
   },
   {
     "source": "mevar",

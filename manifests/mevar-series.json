@@ -112,23 +112,5 @@
         "part": 2
       }
     ]
-  },
-  {
-    "id": "lesprit-babylonien",
-    "name": "L'esprit babylonien",
-    "members": [
-      {
-        "slug": "lesprit-babylonien",
-        "title": "L'esprit babylonien",
-        "published_at": "2006-11-02T23:00:00.000Z",
-        "part": 1
-      },
-      {
-        "slug": "lesprit-babylonien-exhortation",
-        "title": "L'esprit babylonien",
-        "published_at": "2006-11-08T23:00:00.000Z",
-        "part": 2
-      }
-    ]
   }
 ]

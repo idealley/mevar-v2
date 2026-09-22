@@ -19,10 +19,6 @@ stream_url: "https://mevar.org/lesprit-babylonien-exhortation/"
 bible_refs:
   - "Daniel 3"
   - "Jérémie 51:6"
-series_id: "lesprit-babylonien"
-series: "L'esprit babylonien"
-series_part: 2
-series_total: 2
 ---
 ## Exhortation du mois de novembre 2006
 
