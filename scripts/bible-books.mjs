@@ -2,6 +2,9 @@
 // 66 (English) and 65b (which restores the Branham text from its source).
 // First entry of each row is the canonical name, the rest are accepted variants.
 
+// The three build their regexes from these names.
+export const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
 // ─── French (Segond names) ───────────────────────────────────────────────────
 // Matched case- and diacritic-insensitively (65's normForMatch).
 export const BOOKS_FR = [

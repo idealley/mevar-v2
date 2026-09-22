@@ -24,7 +24,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
-import { BOOKS_FR, BOOKS_EN } from "./bible-books.mjs";
+import { BOOKS_FR, BOOKS_EN, escRe } from "./bible-books.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const mdRoot = path.join(root, "markdown/branham");
@@ -34,15 +34,14 @@ const EN = new Set(BOOKS_EN.map((row) => row[0]));
 const EN_OF = new Map(BOOKS_EN.flatMap((row) => row.map((v) => [v.toLowerCase(), row[0]])));
 const VARIANTS = [...EN_OF.keys()].sort((a, b) => b.length - a.length);
 const FR_ONLY = new Set(BOOKS_FR.map((row) => row[0]).filter((name) => !EN.has(name)));
-const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const NAME_RE = new RegExp(
-  `(?<!\\p{L})(${[...FR_ONLY, ...EN].sort((a, b) => b.length - a.length).map(esc).join("|")}) (\\d{1,3}(?::\\d{1,3}|st|nd|rd|th)?)(?![\\d\\p{L}])`,
+  `(?<!\\p{L})(${[...FR_ONLY, ...EN].sort((a, b) => b.length - a.length).map(escRe).join("|")}) (\\d{1,3}(?::\\d{1,3}|st|nd|rd|th)?)(?![\\d\\p{L}])`,
   "gu",
 );
 
 // A citation in the canonical form 66 used to write into the text.
 const CITE_RE = new RegExp(
-  `(?<!\\p{L})(${[...EN].sort((a, b) => b.length - a.length).map(esc).join("|")}) \\d{1,3}(?::\\d{1,3}(?:-\\d{1,3})?(?:,\\d{1,3}(?:-\\d{1,3})?)*)?(?![\\d\\p{L}])`,
+  `(?<!\\p{L})(${[...EN].sort((a, b) => b.length - a.length).map(escRe).join("|")}) \\d{1,3}(?::\\d{1,3}(?:-\\d{1,3})?(?:,\\d{1,3}(?:-\\d{1,3})?)*)?(?![\\d\\p{L}])`,
   "gu",
 );
 const bookOf = (span) => EN_OF.get(VARIANTS.find((v) => span.toLowerCase().startsWith(v + " ")));
@@ -50,7 +49,7 @@ const bookOf = (span) => EN_OF.get(VARIANTS.find((v) => span.toLowerCase().start
 // Our text has markdown emphasis and the PDF does not; quotes may be curly on
 // one side and straight on the other.
 const flat = (s) => s.replace(/\*+/g, "").replace(/\s+/g, " ");
-const pattern = (s) => esc(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]');
+const pattern = (s) => escRe(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]');
 
 function* walk(dir) {
   for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -85,7 +84,7 @@ for (const file of walk(mdRoot)) {
     const before = flat(body.slice(Math.max(0, hit.index - 300), hit.index)).trimEnd().split(" ").slice(-2).join(" ");
     const after = flat(body.slice(hit.index + spot.length, hit.index + spot.length + 300)).replace(/^\./, "").trimStart().split(" ").slice(0, 3).join(" ");
     // The PDF may carry a page footer between the word and the paragraph number.
-    const re = new RegExp(`${pattern(before)} (\\S+(?: \\S+)?) (?:\\d{1,3} THE SPOKEN WORD )?${esc(number)}\\.? ${pattern(after)}`, "g");
+    const re = new RegExp(`${pattern(before)} (\\S+(?: \\S+)?) (?:\\d{1,3} THE SPOKEN WORD )?${escRe(number)}\\.? ${pattern(after)}`, "g");
     const found = [...source.matchAll(re)];
     const word = found.length === 1 ? found[0][1] : null;
 

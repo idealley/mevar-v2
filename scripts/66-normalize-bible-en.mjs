@@ -13,7 +13,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
-import { BOOKS_EN as BOOKS } from "./bible-books.mjs";
+import { BOOKS_EN as BOOKS, escRe } from "./bible-books.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 
@@ -37,7 +37,6 @@ const variantsSorted = [...ALL_VARIANTS]
   .map((v) => v.trim())
   .sort((a, b) => b.length - a.length);
 
-function escRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
 const BOOK_ALT = variantsSorted.map(escRe).join("|");
 
 const REF_RE = new RegExp(
