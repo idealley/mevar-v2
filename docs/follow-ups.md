@@ -10,6 +10,12 @@ The book also comes after the chapter: "`In the 20th chapter of Numbers, I read 
 
 **Fix**: two more patterns, `<Book>,? (the )?<N>(st|nd|rd|th) chapter(,? (and )?the <M>(st|nd|rd|th) verse)?` and `the <N>(st|nd|rd|th) chapter of <Book>`, with the ordinals mapped to numbers. Worth doing before the site ships reference-based navigation; it roughly doubles the coverage of the Branham corpus.
 
+## French book names left inside the English Branham text
+
+**Status**: before goal 02, 65 (the French normalizer) also ran over `markdown/branham/` and rewrote English words it took for book abbreviations. The text still carries it: **358** `Ésaïe <n>` in 270 files ("The Bible says it Ésaïe 65 He's here", from "is" + paragraph 65), **154** `Sophonie <n>` in 131 files ("so"), **39** `Hébreux <n>` in 38 files ("he"), plus a handful of `Actes`, `Habacuc`, `Marc`, `Juges`: **377** files in all. A reader sees these mid-sentence. Goal 02 stopped the cause (65 no longer scans Branham) and repaired the two cases whose original is certain (`Joël` → `Joel`, `you'Revelation` → `you're`).
+
+**Fix**: not mechanical. The French regex also swallowed an optional period after the abbreviation ("is. 65" and "is 65" both became "Ésaïe 65"), so the original punctuation cannot be restored from the text alone. Either compare against the branham.org source, or accept "is 65" and note it. Belongs with the page-furniture cleanup, since the "65" is usually a paragraph number there too.
+
 ## Printed page furniture is inside the sermon bodies
 
 **Status**: the PDF extractor merged the booklet's running headers and footers into the text. `THE SPOKEN WORD` appears **5,894** times across **840** Branham files, and `QUES TIONS A ND ANSWERS ON` (a spaced-out running header) 23 times. A reader sees it: `53-0729` reads "…and now we're 18 THE SPOKEN WORD at the eye age".
@@ -40,11 +46,11 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## Le-Scribe summaries with no Branham link
 
-**Status**: 799 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 111 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 77 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter.
+**Status**: 796 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 114 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 77 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter, and 3 where Le-Scribe's date is known to be wrong.
 
-Three links are suspect because the titles disagree, and all three point at Le-Scribe dates drifting by a day or two: `530607Demons-religieux` → `53-0607A "The Ministry of Christ"` (time-of-day rule), and `530606Demons-physique` → `53-0606 "An Ensign"` and `600803Jehova-J` → `60-0803 "Abraham"` (the only sermon that day). No rule in the script can see this, since the only evidence is a French title against an English one; the human pass should start with them. The "claimed twice" rows show the same drift: `550118Ange` claims `55-0118 "This Great Warrior, David"`.
+Those 3 are the place to start, because the right sermon is already known: `530606Demons-physique` is `53-0608A "Demonology, Physical Realm"`, `530607Demons-religieux` is `53-0609A "Demonology, Religious Realm"`; `600803Jehova-J` has no Jehovah-Jireh sermon within four days. The same drift shows in the "claimed twice" rows: `550118Ange` claims `55-0118 "This Great Warrior, David"`. More links of the "only sermon that day" kind may carry it unseen; nothing but a French title against an English one reveals it.
 
-**Fix**: a human pass over the 111, or model the summary→sermon relation as many-to-one on both sides.
+**Fix**: a human pass over the 114, or model the summary→sermon relation as many-to-one on both sides.
 
 ## Markdown files with no frontmatter
 

@@ -135,7 +135,7 @@ node scripts/50-build-index.mjs                       # build master index.json,
 - **3,106 markdown files** (~174 MB)
 - **2,741 LLM-cleaned** with full NER (persons / places / themes / summary)
 - **36,328 normalized Bible references** (31,220 French + 5,108 English), 9,414 distinct
-- **799 of 910 Le-Scribe summaries** linked to the English sermon they summarize
+- **796 of 910 Le-Scribe summaries** linked to the English sermon they summarize
 - **70 unique tags** on mevar (Prédications 208×, Exhortations 109×, Etudes Bibliques 47×, year tags, etc.)
 - **6 authors** (Parfait M'bra, Samuel Pouyt, Stéphane Pouyt, André Kadjany, Pierre Kouadio, Irié Anderson)
 - **Coverage**: 1947 (Branham) to 2024+ (mevar)
