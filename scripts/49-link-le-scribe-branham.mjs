@@ -113,6 +113,10 @@ function resolve(summary, candidates) {
   return [null, `${candidates.length} sermons that day`];
 }
 
+// Checked by hand: Le-Scribe dates these a day or two off, so the date lands
+// on a sermon with an unrelated title. Left for the human pass, never linked.
+const WRONG_DATE = new Set(["530606Demons-physique", "530607Demons-religieux", "600803Jehova-J"]);
+
 const links = new Map(); // summary.ref → sermon
 const unresolved = [];
 const stats = {};
@@ -123,6 +127,7 @@ for (const summary of summaries) {
 
   let sermon = null, how;
   if (!summary.hasFrontmatter) how = "no frontmatter in the Le-Scribe file";
+  else if (WRONG_DATE.has(summary.id)) how = "Le-Scribe date contradicts the title";
   else if (!day) how = "no date in the Le-Scribe id";
   else if (candidates.length === 0) how = "no Branham sermon that day";
   else if (candidates.length === 1) [sermon, how] = [candidates[0], "only sermon that day"];

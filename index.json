@@ -6859,8 +6859,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1953/53-0606.md",
-    "size_bytes": 65078,
-    "line_count": 440
+    "size_bytes": 65027,
+    "line_count": 439
   },
   {
     "source": "branham",
@@ -6923,8 +6923,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1953/53-0607A.md",
-    "size_bytes": 71523,
-    "line_count": 892
+    "size_bytes": 71471,
+    "line_count": 891
   },
   {
     "source": "branham",
@@ -45490,8 +45490,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1960/60-0803.md",
-    "size_bytes": 97527,
-    "line_count": 1294
+    "size_bytes": 97483,
+    "line_count": 1293
   },
   {
     "source": "branham",
@@ -97556,10 +97556,10 @@
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
-    "original": "branham/1953/53-0606",
+    "original": null,
     "local_md": "markdown/le-scribe/1953/530606Demons-physique.md",
-    "size_bytes": 17409,
-    "line_count": 105
+    "size_bytes": 17376,
+    "line_count": 104
   },
   {
     "source": "le-scribe",
@@ -97619,10 +97619,10 @@
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
-    "original": "branham/1953/53-0607A",
+    "original": null,
     "local_md": "markdown/le-scribe/1953/530607Demons-religieux.md",
-    "size_bytes": 28224,
-    "line_count": 149
+    "size_bytes": 28190,
+    "line_count": 148
   },
   {
     "source": "le-scribe",
@@ -125761,10 +125761,10 @@
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
-    "original": "branham/1960/60-0803",
+    "original": null,
     "local_md": "markdown/le-scribe/1960/600803Jehova-J.md",
-    "size_bytes": 46113,
-    "line_count": 238
+    "size_bytes": 46080,
+    "line_count": 237
   },
   {
     "source": "le-scribe",

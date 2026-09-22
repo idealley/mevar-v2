@@ -63,7 +63,6 @@ bible_refs:
   - "Nombres 16"
   - "Romains 11:29"
   - "Éphésiens 4:8"
-original: "branham/1953/53-0607A"
 ---
 **1.** [Prière].
 

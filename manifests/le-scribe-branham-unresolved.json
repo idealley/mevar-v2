@@ -51,6 +51,34 @@
     ]
   },
   {
+    "le_scribe": "le-scribe/1953/530606Demons-physique",
+    "title": "Démonologie, domaine physique",
+    "subtitle": "6 juin 1953, après-midi",
+    "reason": "Le-Scribe date contradicts the title",
+    "candidates": [
+      {
+        "branham": "branham/1953/53-0606",
+        "title": "An Ensign"
+      }
+    ]
+  },
+  {
+    "le_scribe": "le-scribe/1953/530607Demons-religieux",
+    "title": "Démonologie ; Domaine religieux",
+    "subtitle": "7 juin 1953, dimanche après-midi, Connersville (Indiana)",
+    "reason": "Le-Scribe date contradicts the title",
+    "candidates": [
+      {
+        "branham": "branham/1953/53-0607A",
+        "title": "The Ministry of Christ"
+      },
+      {
+        "branham": "branham/1953/53-0607E",
+        "title": "A Testimony"
+      }
+    ]
+  },
+  {
     "le_scribe": "le-scribe/1955/550118Ange",
     "title": "Comment l'Ange est venu à moi, et son ordre de mission",
     "subtitle": "65-0117",
@@ -831,6 +859,18 @@
       {
         "branham": "branham/1960/60-0611E",
         "title": "Faith Is the Sixth Sense"
+      }
+    ]
+  },
+  {
+    "le_scribe": "le-scribe/1960/600803Jehova-J",
+    "title": "Jéhovah-Jiré (suite)",
+    "subtitle": "JEHOVAH-JIREH",
+    "reason": "Le-Scribe date contradicts the title",
+    "candidates": [
+      {
+        "branham": "branham/1960/60-0803",
+        "title": "Abraham"
       }
     ]
   },
