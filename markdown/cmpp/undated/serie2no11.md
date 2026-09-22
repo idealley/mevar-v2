@@ -51,8 +51,6 @@ bible_refs:
   - "Job 23"
   - "Malachie 4"
   - "Matthieu 1"
-  - "Nombres 107"
-  - "Nombres 185"
   - "Psaumes 119"
   - "Romains 8"
   - "Zacharie 4"

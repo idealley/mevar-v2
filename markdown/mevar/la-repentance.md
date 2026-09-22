@@ -29,7 +29,6 @@ bible_refs:
   - "Jacques 5:16"
   - "Jean 16"
   - "Jean 4"
-  - "Lamentations 13"
   - "Marc 3:29"
   - "Matthieu 13:22"
   - "Matthieu 1:4-5"

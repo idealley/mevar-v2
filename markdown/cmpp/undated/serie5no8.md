@@ -55,7 +55,6 @@ bible_refs:
   - "Apocalypse 1"
   - "Apocalypse 10"
   - "Apocalypse 22"
-  - "Esther 102"
   - "Galates 1"
   - "Hébreux 1"
   - "Hébreux 13"

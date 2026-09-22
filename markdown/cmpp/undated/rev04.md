@@ -52,7 +52,6 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 12"
   - "Exode 19"
-  - "Jean 95"
 ---
 WILLIAM MARRION BRANHAM
 

@@ -59,7 +59,6 @@ bible_refs:
   - "Luc 24"
   - "Marc 16"
   - "Matthieu 28"
-  - "Nombres 100"
   - "Romains 5"
 ---
 WILLIAM MARRION BRANHAM

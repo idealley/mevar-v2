@@ -61,7 +61,6 @@ bible_refs:
   - "Job 1:21"
   - "Job 38:7"
   - "Matthieu 1:21"
-  - "Nombres 250"
   - "Romains 8:19"
   - "Romains 8:29-30"
   - "Romains 9:16"

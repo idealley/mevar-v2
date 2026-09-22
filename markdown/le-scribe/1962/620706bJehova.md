@@ -62,7 +62,6 @@ bible_refs:
   - "Genèse 24:65"
   - "Jean 14:12"
   - "Jean 17:17"
-  - "Jean 24:19"
   - "Jean 6:33,35"
   - "Juges 6:24"
   - "Jérémie 23:6"

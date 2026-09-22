@@ -45,7 +45,6 @@ bible_refs:
   - "1 Corinthiens 2"
   - "1 Pierre 3"
   - "1 Timothée 5"
-  - "2 Pierre 105"
   - "2 Pierre 2"
   - "Apocalypse 1"
   - "Apocalypse 10"
@@ -62,7 +61,6 @@ bible_refs:
   - "Malachie 4"
   - "Matthieu 1"
   - "Matthieu 23"
-  - "Nombres 189"
 ---
 SERIE 3 N° 10
 

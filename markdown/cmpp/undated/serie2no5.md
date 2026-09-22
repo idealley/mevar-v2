@@ -46,8 +46,6 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 12"
   - "Actes 1"
-  - "Esther 140"
-  - "Esther 25"
   - "Galates 3"
   - "Hébreux 4"
   - "Joël 2"

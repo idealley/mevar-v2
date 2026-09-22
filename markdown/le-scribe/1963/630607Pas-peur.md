@@ -53,7 +53,6 @@ bible_refs:
   - "Marc 16:17-18"
   - "Matthieu 14:22"
   - "Romains 8:1"
-  - "Ésaïe 720"
   - "Ézéchiel 16"
 ---
 **Résumé de!: “N’ayez pas peur” (7 Juin 1963, soir)**

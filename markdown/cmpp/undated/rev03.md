@@ -48,16 +48,12 @@ llm_cleaned: true
 bible_refs:
   - "Actes 19"
   - "Actes 2"
-  - "Esther 29"
   - "Galates 1"
   - "Hébreux 11"
   - "Hébreux 13"
   - "Hébreux 6"
-  - "Jean 178"
   - "Marc 16"
   - "Matthieu 5"
-  - "Nombres 128"
-  - "Nombres 82"
 ---
 WILLIAM MARRION BRANHAM
 

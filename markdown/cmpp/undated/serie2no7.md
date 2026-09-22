@@ -47,7 +47,6 @@ bible_refs:
   - "Actes 19"
   - "Apocalypse 13"
   - "Apocalypse 17"
-  - "Esther 13"
   - "Genèse 20"
   - "Jean 17"
   - "Jean 5"

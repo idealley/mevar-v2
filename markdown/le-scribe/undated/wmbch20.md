@@ -46,7 +46,6 @@ bible_refs:
   - "Luc 12:56"
   - "Matthieu 16:3"
   - "Matthieu 24:30,31"
-  - "Philippiens 6:17"
   - "Psaumes 1"
 ---
 **CHAPITRE VINGT**

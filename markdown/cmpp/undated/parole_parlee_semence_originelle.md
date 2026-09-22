@@ -51,7 +51,6 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 17"
   - "Apocalypse 22"
-  - "Apocalypse 27"
   - "Galates 1"
   - "Genèse 1"
   - "Genèse 17"

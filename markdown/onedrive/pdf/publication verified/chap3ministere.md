@@ -88,7 +88,6 @@ bible_refs:
   - "Luc 24:44"
   - "Philippiens 1"
   - "Philippiens 4"
-  - "Philippiens 8"
   - "Romains 1"
   - "Romains 15"
   - "Tite 1"

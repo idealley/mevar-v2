@@ -60,7 +60,6 @@ bible_refs:
   - "Apocalypse 19:2"
   - "Apocalypse 2:20"
   - "Deutéronome 23:2"
-  - "Esther 666"
   - "Exode 20:5"
   - "Galates 1:8"
   - "Jean 6:37,44"

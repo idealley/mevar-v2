@@ -39,7 +39,6 @@ bible_refs:
   - "Apocalypse 5"
   - "Apocalypse 6"
   - "Lévitique 16:7-10"
-  - "Malachie 5:5"
   - "Matthieu 25"
   - "Matthieu 25:6"
   - "Michée 5:2-4"

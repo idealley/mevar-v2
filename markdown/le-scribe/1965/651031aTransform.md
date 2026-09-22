@@ -48,7 +48,6 @@ bible_refs:
   - "1 Jean 2:15"
   - "Apocalypse 3:18"
   - "Daniel 3"
-  - "Esther 13"
   - "Genèse 1:26-27"
   - "Genèse 2:4"
   - "Genèse 2:7"

@@ -58,7 +58,6 @@ bible_refs:
   - "Matthieu 25"
   - "Matthieu 6"
   - "Michée 3"
-  - "Proverbes 113"
   - "Psaumes 50"
   - "Romains 12"
   - "Zacharie 11"

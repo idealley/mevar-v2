@@ -42,13 +42,11 @@ pdf_url: "http://cmpp.ch/rev15.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 10"
-  - "Apocalypse 143"
   - "Daniel 7"
   - "Jean 14"
   - "Jérémie 32"
   - "Matthieu 1"
   - "Matthieu 28"
-  - "Nombres 227"
 ---
 WILLIAM MARRION BRANHAM
 

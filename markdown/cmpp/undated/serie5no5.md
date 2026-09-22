@@ -50,7 +50,6 @@ bible_refs:
   - "Joël 2"
   - "Luc 17"
   - "Malachie 4"
-  - "Malachie 85"
   - "Marc 7"
   - "Matthieu 15"
 ---

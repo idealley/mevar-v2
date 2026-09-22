@@ -23,7 +23,6 @@ stream_url: "https://mevar.org/babylone-la-grande-ville/"
 bible_refs:
   - "Apocalypse 17"
   - "Apocalypse 18"
-  - "Esther 11"
   - "Matthieu 24"
   - "Ésaïe 58"
 ---

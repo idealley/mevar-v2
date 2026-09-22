@@ -49,9 +49,7 @@ pdf_url: "http://cmpp.ch/la_parole_de_dieu_demeure_eternellement.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Chroniques 1"
-  - "1 Corinthiens 10"
   - "1 Corinthiens 12"
-  - "1 Corinthiens 13"
   - "1 Corinthiens 15"
   - "1 Corinthiens 4"
   - "1 Corinthiens 6"
@@ -82,7 +80,6 @@ bible_refs:
   - "Actes 8"
   - "Actes 9"
   - "Amos 3"
-  - "Amos 5"
   - "Apocalypse 1"
   - "Apocalypse 10"
   - "Apocalypse 11"
@@ -98,6 +95,9 @@ bible_refs:
   - "Apocalypse 3"
   - "Apocalypse 5"
   - "Apocalypse 6"
+  - "Apocalypse 7"
+  - "Apocalypse 8"
+  - "Apocalypse 9"
 ---
 LA PAROLE DE DIEU DEMEURE ETERNELLEMENT
 

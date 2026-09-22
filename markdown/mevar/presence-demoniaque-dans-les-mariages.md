@@ -21,7 +21,6 @@ bible_refs:
   - "1 Rois 3:1-2"
   - "Genèse 2:18-25"
   - "Genèse 34"
-  - "Malachie 6"
   - "Matthieu 12:34"
   - "Matthieu 3:7"
 ---

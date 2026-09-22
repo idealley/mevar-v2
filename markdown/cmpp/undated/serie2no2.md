@@ -46,7 +46,6 @@ bible_refs:
   - "Jérémie 29"
   - "Luc 16"
   - "Matthieu 5"
-  - "Ésaïe 712"
 ---
 SERIE 2 N° 2
 

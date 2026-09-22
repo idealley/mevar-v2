@@ -63,8 +63,6 @@ llm_cleaned: true
 bible_refs:
   - "Actes 20"
   - "Apocalypse 13"
-  - "Esther 141"
-  - "Esther 176"
   - "Hébreux 13"
   - "Hébreux 4"
   - "Jean 14"

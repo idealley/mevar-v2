@@ -21,7 +21,6 @@ stream_url: "https://mevar.org/le-cavalier-au-cheval-blanc-du-premier-sceau-d-ap
 bible_refs:
   - "1 Jean 4"
   - "Apocalypse 2"
-  - "Apocalypse 7"
   - "Matthieu 24:28"
   - "Matthieu 24:31"
   - "Ésaïe 46"

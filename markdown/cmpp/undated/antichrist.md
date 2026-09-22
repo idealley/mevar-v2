@@ -58,6 +58,7 @@ bible_refs:
   - "1 Timothée 6"
   - "2 Corinthiens 1"
   - "2 Corinthiens 11"
+  - "2 Corinthiens 4"
   - "2 Pierre 2"
   - "2 Thessaloniciens 2"
   - "2 Timothée 1"
@@ -93,7 +94,6 @@ bible_refs:
   - "Exode 20"
   - "Galates 1"
   - "Galates 6"
-  - "Genèse 2"
 ---
 # L'ANTICHRIST
 

@@ -41,7 +41,6 @@ bible_refs:
   - "Jacques 5"
   - "Marc 3"
   - "Matthieu 23"
-  - "Psaumes 119"
   - "Psaumes 145"
   - "Romains 11"
   - "Éphésiens 4"

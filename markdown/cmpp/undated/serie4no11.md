@@ -36,7 +36,6 @@ pdf_url: "http://cmpp.ch/serie4no11.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 22"
-  - "Apocalypse 64"
   - "Jean 14"
   - "Jonas 1"
   - "Luc 17"

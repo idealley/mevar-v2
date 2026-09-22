@@ -53,8 +53,6 @@ bible_refs:
   - "Jean 14"
   - "Jean 3"
   - "Jean 5"
-  - "Jean 89"
-  - "Malachie 117"
   - "Matthieu 28"
   - "Matthieu 5"
   - "Psaumes 1"

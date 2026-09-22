@@ -65,7 +65,6 @@ bible_refs:
   - "Marc 9"
   - "Matthieu 24"
   - "Michée 5"
-  - "Nombres 63"
   - "Psaumes 16"
   - "Zacharie 14"
   - "Ésaïe 53"

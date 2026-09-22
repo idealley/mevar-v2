@@ -42,6 +42,7 @@ themes:
 pdf_url: "http://cmpp.ch/grande_bataille.pdf"
 llm_cleaned: true
 bible_refs:
+  - "1 Pierre 5"
   - "Daniel 12"
   - "Genèse 3"
   - "Hébreux 4"

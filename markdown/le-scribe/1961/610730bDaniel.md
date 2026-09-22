@@ -37,7 +37,6 @@ bible_refs:
   - "2 Chroniques 5:13"
   - "2 Thessaloniciens 2:4"
   - "2 Thessaloniciens 2:7"
-  - "2 Thessaloniciens 5"
   - "Apocalypse 11"
   - "Apocalypse 19:1"
   - "Apocalypse 19:21"

@@ -54,7 +54,6 @@ bible_refs:
   - "Apocalypse 10"
   - "Apocalypse 17"
   - "Apocalypse 6"
-  - "Esther 60"
   - "Hébreux 13"
   - "Hébreux 4"
   - "Jean 14"

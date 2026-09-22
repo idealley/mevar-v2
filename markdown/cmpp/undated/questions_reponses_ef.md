@@ -45,7 +45,6 @@ bible_refs:
   - "1 Jean 3"
   - "1 Jean 4"
   - "1 Jean 5"
-  - "1 Pierre 269"
   - "1 Rois 1"
   - "1 Rois 8"
   - "1 Samuel 8"
@@ -56,7 +55,6 @@ bible_refs:
   - "2 Corinthiens 11"
   - "2 Corinthiens 5"
   - "2 Corinthiens 6"
-  - "2 Pierre 981"
   - "2 Rois 18"
   - "2 Timothée 2"
   - "Actes 1"
@@ -64,6 +62,7 @@ bible_refs:
   - "Actes 15"
   - "Actes 17"
   - "Actes 2"
+  - "Actes 8"
   - "Actes 9"
   - "Amos 1"
   - "Amos 3"
@@ -86,6 +85,7 @@ bible_refs:
   - "Daniel 9"
   - "Deutéronome 19"
   - "Deutéronome 21"
+  - "Deutéronome 22"
 ---
 # DES PERSONNES INTERROGENT… DIEU REPOND PAR SA PAROLE
 

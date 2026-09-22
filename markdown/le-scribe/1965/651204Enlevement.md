@@ -59,7 +59,6 @@ bible_refs:
   - "Apocalypse 11:11-12"
   - "Apocalypse 3:17-20"
   - "Deutéronome 16:1-6"
-  - "Esther 13"
   - "Exode 7:11"
   - "Jean 10:37"
   - "Jean 11:38-44"

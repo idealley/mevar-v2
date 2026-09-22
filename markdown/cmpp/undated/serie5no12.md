@@ -42,7 +42,6 @@ themes:
 pdf_url: "http://cmpp.ch/serie5no12.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Esther 178"
   - "Jean 14"
   - "Malachie 4"
 ---

@@ -58,7 +58,6 @@ bible_refs:
   - "Deutéronome 18:18-19"
   - "Exode 14:10"
   - "Exode 15:24"
-  - "Habacuc 4:15"
   - "Hébreux 13:8"
   - "Jean 10:37"
   - "Jean 14:12"

@@ -48,7 +48,6 @@ bible_refs:
   - "2 Samuel 5:24,1"
   - "2 Timothée 4:7-8"
   - "Jean 14:19"
-  - "Marc 19:17"
   - "Matthieu 12:26"
   - "Matthieu 13:18"
   - "Matthieu 15:3"

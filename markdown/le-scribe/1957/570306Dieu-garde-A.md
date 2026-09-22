@@ -52,7 +52,6 @@ bible_refs:
   - "Jean 5:24"
   - "Matthieu 24:26"
   - "Matthieu 24:26-27"
-  - "Matthieu 7:222-3"
 ---
 Résumé de : “ Dieu est fidèle à sa Parole - 1” (6.03.1957)
 

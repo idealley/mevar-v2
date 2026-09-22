@@ -90,7 +90,6 @@ bible_refs:
   - "Luc 17"
   - "Luc 18"
   - "Luc 4"
-  - "Malachie 112"
   - "Malachie 4"
   - "Marc 16"
   - "Matthieu 23"

@@ -56,7 +56,6 @@ bible_refs:
   - "Apocalypse 18:24"
   - "Apocalypse 19:11-16"
   - "Apocalypse 1:16"
-  - "Apocalypse 25:9"
   - "Apocalypse 2:12"
   - "Apocalypse 2:14"
   - "Apocalypse 2:15-16"

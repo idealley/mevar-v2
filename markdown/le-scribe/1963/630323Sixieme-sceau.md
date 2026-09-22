@@ -90,7 +90,7 @@ bible_refs:
   - "Jean 10:35"
   - "Jean 12:38"
   - "Jean 14:2-3"
-  - "Jean 24:31"
+  - "Jean 6:31"
 ---
 **Résumé de!: “Le sixième Sceau” (23 mars 1963 soir)**
 

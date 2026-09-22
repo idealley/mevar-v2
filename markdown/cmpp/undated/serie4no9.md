@@ -69,7 +69,6 @@ themes:
 pdf_url: "http://cmpp.ch/serie4no9.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Esther 13"
   - "Jean 14"
   - "Jean 3"
   - "Jean 7"

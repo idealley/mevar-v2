@@ -49,7 +49,6 @@ bible_refs:
   - "1 Corinthiens 3"
   - "Jacques 5"
   - "Jean 19"
-  - "Jean 95"
   - "Luc 1"
   - "Malachie 4"
   - "Matthieu 17"

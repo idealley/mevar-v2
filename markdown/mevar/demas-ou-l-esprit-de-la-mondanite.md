@@ -19,7 +19,6 @@ stream_url: "https://mevar.org/demas-ou-l-esprit-de-la-mondanite/"
 bible_refs:
   - "Ecclésiaste 1"
   - "Luc 11:31"
-  - "Malachie 22"
 ---
 Je voudrais parler de la mondanité ce matin. C’est un sujet que les chrétiens pensent maîtriser parce que lorsqu’on parle du monde, on a une manière légère de voir les choses. Amen. Nous allons commencer à lire dans 2 Timothée chapitre 4 verset 6 à 10:
 

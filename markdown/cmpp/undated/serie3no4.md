@@ -47,7 +47,6 @@ bible_refs:
   - "Exode 14"
   - "Jean 14"
   - "Marc 11"
-  - "Osée 84"
 ---
 SERIE 3 N° 4
 

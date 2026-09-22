@@ -48,7 +48,6 @@ mevar_match:
   similarity: 0.76
 llm_cleaned: true
 bible_refs:
-  - "Esther 70"
   - "Jérémie 1"
   - "Jérémie 12"
   - "Jérémie 29"

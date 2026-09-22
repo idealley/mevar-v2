@@ -59,7 +59,6 @@ bible_refs:
   - "Malachie 4"
   - "Malachie 4:5"
   - "Malachie 4:5-6"
-  - "Marc 17:18"
   - "Romains 8:1"
   - "Romains 8:9"
   - "Zacharie 14:7"

@@ -51,7 +51,6 @@ bible_refs:
   - "Josué 1:5-6"
   - "Jérémie 1:4-5"
   - "Nombres 16:3"
-  - "Romains 27:21"
   - "Romains 3:4"
   - "Ésaïe 35:8"
 ---

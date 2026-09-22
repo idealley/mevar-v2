@@ -55,7 +55,6 @@ bible_refs:
   - "Daniel 2:45"
   - "Daniel 5"
   - "Deutéronome 13:1-3"
-  - "Esther 13"
   - "Exode 15:20-21"
   - "Exode 19"
   - "Exode 20"

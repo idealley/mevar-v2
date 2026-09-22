@@ -55,7 +55,6 @@ bible_refs:
   - "Jean 14:1-7"
   - "Jean 14:10"
   - "Jean 17:24"
-  - "Lévitique 121:44"
   - "Marc 16"
   - "Matthieu 22:1-14"
   - "Ésaïe 7:14"

@@ -49,7 +49,6 @@ mevar_match:
   similarity: 0.57
 llm_cleaned: true
 bible_refs:
-  - "Jacques 14"
   - "Jean 19"
   - "Luc 2"
   - "Marc 6:3"

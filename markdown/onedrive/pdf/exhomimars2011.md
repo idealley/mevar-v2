@@ -66,7 +66,6 @@ bible_refs:
   - "Apocalypse 18:15-24"
   - "Apocalypse 6"
   - "Colossiens 1:21-27"
-  - "Daniel 16"
   - "Daniel 2"
   - "Daniel 7"
   - "Daniel 7:25"

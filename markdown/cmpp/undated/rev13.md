@@ -61,8 +61,6 @@ llm_cleaned: true
 bible_refs:
   - "Actes 19"
   - "Actes 2"
-  - "Actes 348"
-  - "Actes 353"
   - "Apocalypse 1"
   - "Apocalypse 11:13"
   - "Apocalypse 15"
@@ -86,7 +84,6 @@ bible_refs:
   - "Matthieu 10"
   - "Matthieu 17"
   - "Matthieu 28"
-  - "Matthieu 29"
   - "Ésaïe 6"
 ---
 WILLIAM MARRION BRANHAM

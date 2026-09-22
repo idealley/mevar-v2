@@ -51,7 +51,6 @@ bible_refs:
   - "Daniel 12:3"
   - "Daniel 2"
   - "Deutéronome 18:15"
-  - "Esther 13"
   - "Galates 1:18"
   - "Hébreux 13:8"
   - "Jean 10:33"
