@@ -79,7 +79,7 @@ const MAX_CHAPTER = {
 };
 const MAX_VERSE = 176; // Psalm 119
 
-let dropped = 0;
+let dropped = 0, notCitations = 0;
 function isPossible(book, chapter, verses) {
   if (Number(chapter) > MAX_CHAPTER[book]) return false;
   return !verses.some((v) => Number(v) > MAX_VERSE);
@@ -106,6 +106,13 @@ function normalize(md) {
   const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!canonical) return match;
+    // The branham.org text never writes a citation with a lowercase book name,
+    // or with a period between book and chapter: "that's my job. 9 And",
+    // "the book of Revelation. 12 And" are a sentence end and a paragraph number.
+    if (/^\p{Ll}/u.test(bookVariant) || match[bookVariant.length] === ".") {
+      notCitations++;
+      return match;
+    }
     // A one-chapter book cited without a verse ("Jude 23"): the number is the
     // verse. "Jude 1" alone stays the chapter, which is the whole book.
     if (MAX_CHAPTER[canonical] === 1 && !verseStart && chap !== "1") [chap, verseStart] = ["1", chap];
@@ -183,6 +190,7 @@ console.log(`  files scanned: ${totalFiles}`);
 console.log(`  files modified: ${modified}`);
 console.log(`  total ref instances: ${totalRefs}`);
 console.log(`  impossible refs dropped: ${dropped}`);
+console.log(`  lowercase or dotted book names skipped: ${notCitations}`);
 console.log(`  by source:`);
 for (const [src, s] of Object.entries(refsBySource)) {
   console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
