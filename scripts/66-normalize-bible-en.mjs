@@ -88,7 +88,8 @@ const BOOKS = [
   ["2 John", "2 Jn", "2Jn", "2Jo", "2J", "II John", "II Jn", "Second John"],
   ["3 John", "3 Jn", "3Jn", "3Jo", "3J", "III John", "III Jn", "Third John"],
   ["Jude", "Jud", "Jd"],
-  ["Revelation", "Revelations", "Rev", "Rv", "Re", "Apoc", "Apocalypse"],
+  // no "Re": it only ever matched the "re" of "you're 28" plus a page number.
+  ["Revelation", "Revelations", "Rev", "Rv", "Apoc", "Apocalypse"],
 ];
 
 function normForMatch(s) {
@@ -123,6 +124,8 @@ const REF_RE = new RegExp(
   "(?:" +
   "\\s*[:,]\\s*" +
   "(\\d{1,3})" +
+  // optional verse end (group 4) — not one that is itself followed by ":",
+  // so "Hebrews 8:13-13:8" does not read "13" as the end of a range
   "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3}))?" +
   "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" +
   ")?" +
