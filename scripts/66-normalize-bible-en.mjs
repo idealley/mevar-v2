@@ -162,9 +162,13 @@ function normalize(md) {
   return { md: out, refs: [...new Set(found)].sort() };
 }
 
-function* walk(dir) {
-  for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
-    const p = path.join(dir, ent.name);
+function* walk(target) {
+  if (fs.statSync(target).isFile()) {
+    if (target.endsWith(".md")) yield target;
+    return;
+  }
+  for (const ent of fs.readdirSync(target, { withFileTypes: true })) {
+    const p = path.join(target, ent.name);
     if (ent.isDirectory()) yield* walk(p);
     else if (ent.isFile() && p.endsWith(".md")) yield p;
   }
@@ -179,6 +183,7 @@ const sources = targets.length > 0
   : [path.join(root, "markdown", "branham")];
 
 const refsByFile = {};
+const scanned = [];
 let totalFiles = 0, totalRefs = 0, modified = 0;
 const refsBySource = {};
 
@@ -187,6 +192,7 @@ for (const sourceDir of sources) {
   refsBySource[sourceName] = { files: 0, refs: 0, unique: new Set() };
   for (const file of walk(sourceDir)) {
     totalFiles++;
+    scanned.push(path.relative(root, file));
     refsBySource[sourceName].files++;
     const text = fs.readFileSync(file, "utf8");
     const fmMatch = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
@@ -216,10 +222,14 @@ for (const [src, s] of Object.entries(refsBySource)) {
 }
 
 if (!dryRun) {
-  // Merge with existing bible-refs.json (don't overwrite French refs)
-  const existingPath = path.join(root, "manifests/bible-refs.json");
-  const existing = fs.existsSync(existingPath) ? JSON.parse(fs.readFileSync(existingPath, "utf8")) : {};
-  for (const [k, v] of Object.entries(refsByFile)) existing[k] = v;
-  fs.writeFileSync(existingPath, JSON.stringify(existing, null, 2));
-  console.log(`  merged into manifests/bible-refs.json`);
+  // Merge with existing bible-refs.json (don't overwrite French refs).
+  // A scanned file with no refs left loses its key.
+  const outPath = path.join(root, "manifests/bible-refs.json");
+  const merged = fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, "utf8")) : {};
+  for (const rel of scanned) {
+    if (refsByFile[rel]) merged[rel] = refsByFile[rel];
+    else delete merged[rel];
+  }
+  fs.writeFileSync(outPath, JSON.stringify(merged, null, 2));
+  console.log(`  merged ${scanned.length} scanned files into manifests/bible-refs.json (${Object.keys(merged).length} keys)`);
 }

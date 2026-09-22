@@ -188,9 +188,13 @@ function normalize(md) {
 }
 
 // ─── Driver ──────────────────────────────────────────────────────────────────
-function* walk(dir) {
-  for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
-    const p = path.join(dir, ent.name);
+function* walk(target) {
+  if (fs.statSync(target).isFile()) {
+    if (target.endsWith(".md")) yield target;
+    return;
+  }
+  for (const ent of fs.readdirSync(target, { withFileTypes: true })) {
+    const p = path.join(target, ent.name);
     if (ent.isDirectory()) yield* walk(p);
     else if (ent.isFile() && p.endsWith(".md")) yield p;
   }
@@ -208,6 +212,7 @@ const sources = targets.length > 0
 
 const refsBySource = {};
 const refsByFile = {};
+const scanned = [];
 let totalFiles = 0, totalRefs = 0, modified = 0;
 
 for (const source of sources) {
@@ -216,6 +221,7 @@ for (const source of sources) {
 
   for (const file of walk(source)) {
     totalFiles++;
+    scanned.push(path.relative(root, file));
     refsBySource[sourceName].files++;
     const text = fs.readFileSync(file, "utf8");
     // Skip frontmatter; only normalize body
@@ -247,11 +253,16 @@ for (const [src, s] of Object.entries(refsBySource)) {
   console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
 }
 
-// Persist per-file refs for later use (frontmatter integration etc.)
+// Persist per-file refs for later use (frontmatter integration etc.).
+// Merge, so a targeted run only rewrites the files it scanned — with no
+// target this is still a full rebuild of every French source.
 if (!dryRun) {
-  fs.writeFileSync(
-    path.join(root, "manifests/bible-refs.json"),
-    JSON.stringify(refsByFile, null, 2),
-  );
-  console.log(`  wrote manifests/bible-refs.json`);
+  const outPath = path.join(root, "manifests/bible-refs.json");
+  const merged = fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, "utf8")) : {};
+  for (const rel of scanned) {
+    if (refsByFile[rel]) merged[rel] = refsByFile[rel];
+    else delete merged[rel];
+  }
+  fs.writeFileSync(outPath, JSON.stringify(merged, null, 2));
+  console.log(`  merged ${scanned.length} scanned files into manifests/bible-refs.json (${Object.keys(merged).length} keys)`);
 }
