@@ -4,9 +4,19 @@ Living list of stuff we know about and have decided to defer, with enough contex
 
 ## Branham text the restoration could not reach
 
-**Status**: goal 07 put back 634 words from the branham.org PDFs. 41 French book names remain in `markdown/branham/`, listed with their context in `manifests/branham-restore-unaligned.json`: the LLM cleanup changed the words around them, so they do not align with the source.
+**Status**: goal 07 put back what the branham.org PDFs say in about 690 sermons. 39 French book names remain in `markdown/branham/`, listed with their context in `manifests/branham-restore-unaligned.json`: the LLM cleanup changed the words around them, so they do not align with the source.
 
-**Fix**: a human pass over the 41, reading each against its PDF (`pdf_url`).
+**Fix**: a human pass over the 39, reading each against its PDF (`pdf_url`).
+
+## 65 reads a book name inside a number or a glued prefix
+
+**Status**: 66 and 65b refuse a book name that starts inside a number since goal 07 ("2 John" in "212 John"). 65 still accepts it, and changing that moves 47 French refs: some are wrong today ("1Jean 5:21" is recorded as "Jean 5:21", because "1Jean" is not a variant), and would simply disappear without a variant for the glued form.
+
+**Fix**: add the glued numbered forms ("1Jean", "2Rois", …) to BOOKS_FR, then refuse a digit before a book name, and check the 47.
+
+## Running headers are recorded as refs
+
+**Status**: the printed page header "AN EXODUS 19" (with the page number) gives `Exodus 19, 21, 23 … 35` in `56-0615.md`; `GENESIS`, `JOB`, `EXODUS` headers elsewhere the same. 66 matches case-insensitively and its prose rule only refuses a lowercase book name. Since goal 07 the headers are back in capitals in the text, so an all-capitals rule would now catch them. Part of the page-furniture item below.
 
 ## The French sources still carry 65's canonical rewrites
 
