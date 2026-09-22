@@ -12,85 +12,9 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { BOOKS_EN as BOOKS } from "./bible-books.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
-
-// ─── Book dictionary ─────────────────────────────────────────────────────────
-// First entry of each row is the canonical name. Subsequent are accepted variants.
-// Includes both standard and aggressive abbreviations seen in transcribed sermons.
-const BOOKS = [
-  // Old Testament
-  ["Genesis", "Gen", "Gn", "Ge"],
-  ["Exodus", "Exo", "Ex", "Exod"],
-  ["Leviticus", "Lev", "Lv", "Levit"],
-  ["Numbers", "Num", "Nm", "Nb", "Nu"],
-  ["Deuteronomy", "Deut", "Dt", "De"],
-  ["Joshua", "Josh", "Jos", "Js", "Jsh"],
-  ["Judges", "Judg", "Jdg", "Jg", "Jgs"],
-  ["Ruth", "Rt", "Ru"],
-  ["1 Samuel", "1 Sam", "1Sam", "1S", "1Sm", "I Samuel", "I Sam", "First Samuel"],
-  ["2 Samuel", "2 Sam", "2Sam", "2S", "2Sm", "II Samuel", "II Sam", "Second Samuel"],
-  ["1 Kings", "1 Kgs", "1Kgs", "1K", "1Ki", "I Kings", "I Kgs", "First Kings"],
-  ["2 Kings", "2 Kgs", "2Kgs", "2K", "2Ki", "II Kings", "II Kgs", "Second Kings"],
-  ["1 Chronicles", "1 Chr", "1Chr", "1Ch", "I Chronicles", "I Chr", "First Chronicles"],
-  ["2 Chronicles", "2 Chr", "2Chr", "2Ch", "II Chronicles", "II Chr", "Second Chronicles"],
-  ["Ezra", "Ezr"],
-  ["Nehemiah", "Neh", "Ne"],
-  ["Esther", "Est", "Esth"],
-  ["Job", "Jb"],
-  ["Psalms", "Psalm", "Ps", "Psa", "Pss", "Psm"],
-  ["Proverbs", "Prov", "Prv", "Pr", "Pro"],
-  ["Ecclesiastes", "Eccl", "Ecc", "Ec", "Qoh", "Qoheleth"],
-  ["Song of Solomon", "Song of Songs", "Song", "SoS", "Cant", "Canticles"],
-  ["Isaiah", "Isa", "Is"],
-  ["Jeremiah", "Jer", "Jr"],
-  ["Lamentations", "Lam", "Lm", "La"],
-  ["Ezekiel", "Ezek", "Ez", "Eze"],
-  ["Daniel", "Dan", "Dn", "Da"],
-  ["Hosea", "Hos", "Ho"],
-  // "Joël" is what the French pass left in these English transcripts —
-  // 47 of its 48 occurrences here are real Joel citations, mostly Joel 2:28.
-  ["Joel", "Joël", "Jl"],
-  ["Amos", "Am"],
-  ["Obadiah", "Obad", "Ob"],
-  ["Jonah", "Jon", "Jnh"],
-  ["Micah", "Mic", "Mi"],
-  ["Nahum", "Nah", "Na"],
-  ["Habakkuk", "Hab", "Hb"],
-  ["Zephaniah", "Zeph", "Zep", "Zp"],
-  ["Haggai", "Hag", "Hg"],
-  ["Zechariah", "Zech", "Zec", "Zc"],
-  ["Malachi", "Mal", "Ml"],
-  // New Testament
-  ["Matthew", "Saint Matthew", "St. Matthew", "St Matthew", "Matt", "Math", "Mt"],
-  ["Mark", "Saint Mark", "St. Mark", "St Mark", "Mk", "Mr"],
-  ["Luke", "Saint Luke", "St. Luke", "St Luke", "Lk", "Lu"],
-  ["John", "Saint John", "St. John", "St John", "Jn", "Joh", "Jhn"],
-  ["Acts", "Ac", "Act", "Acts of the Apostles"],
-  ["Romans", "Rom", "Rm", "Ro"],
-  ["1 Corinthians", "1 Cor", "1Cor", "1Co", "1C", "I Corinthians", "I Cor", "First Corinthians"],
-  ["2 Corinthians", "2 Cor", "2Cor", "2Co", "2C", "II Corinthians", "II Cor", "Second Corinthians"],
-  ["Galatians", "Gal", "Ga"],
-  ["Ephesians", "Eph", "Ephes", "Ep"],
-  ["Philippians", "Phil", "Php", "Phl", "Ph"],
-  ["Colossians", "Col", "Cl"],
-  ["1 Thessalonians", "1 Thess", "1Thess", "1 Thes", "1Thes", "1 Th", "1Th", "I Thessalonians", "I Thess", "First Thessalonians"],
-  ["2 Thessalonians", "2 Thess", "2Thess", "2 Thes", "2Thes", "2 Th", "2Th", "II Thessalonians", "II Thess", "Second Thessalonians"],
-  ["1 Timothy", "1 Tim", "1Tim", "1Ti", "1T", "I Timothy", "I Tim", "First Timothy"],
-  ["2 Timothy", "2 Tim", "2Tim", "2Ti", "2T", "II Timothy", "II Tim", "Second Timothy"],
-  ["Titus", "Tit", "Ti"],
-  ["Philemon", "Phlm", "Phm", "Philem"],
-  ["Hebrews", "Heb", "Hbr", "He"],
-  ["James", "Jas", "Jm"],
-  ["1 Peter", "1 Pet", "1Pet", "1 Pt", "1Pt", "1P", "1Pe", "I Peter", "I Pet", "First Peter"],
-  ["2 Peter", "2 Pet", "2Pet", "2 Pt", "2Pt", "2P", "2Pe", "II Peter", "II Pet", "Second Peter"],
-  ["1 John", "1 Jn", "1Jn", "1Jo", "1J", "I John", "I Jn", "First John"],
-  ["2 John", "2 Jn", "2Jn", "2Jo", "2J", "II John", "II Jn", "Second John"],
-  ["3 John", "3 Jn", "3Jn", "3Jo", "3J", "III John", "III Jn", "Third John"],
-  ["Jude", "Jud", "Jd"],
-  // no "Re": it only ever matched the "re" of "you're 28" plus a page number.
-  ["Revelation", "Revelations", "Rev", "Rv", "Apoc", "Apocalypse"],
-];
 
 function normForMatch(s) {
   return s
