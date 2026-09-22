@@ -12,8 +12,9 @@ branch from `main`, so they must land first:
 ```bash
 cd ~/projects/mevar-v2
 rm .git/claude-stale-index.lock            # leftover from a sandbox session
-git add docs/goals markdown/mevar/ce-qui-arrive-le-jour-du-seigneur.md manifests/
-git commit -m "docs(goals): v1 goals 01-06 + import the 2026-09 Ghost post"
+git add AGENTS.md CLAUDE.md DELIVERY.md VISION.md docs/goals \
+        markdown/mevar/ce-qui-arrive-le-jour-du-seigneur.md manifests/
+git commit -m "docs: operating contract, delivery, vision, v1 goals; import the 2026-09 Ghost post"
 git push
 gh auth status                             # PRs are opened with gh
 ```
@@ -23,19 +24,14 @@ gh auth status                             # PRs are opened with gh
 ## Common preamble (every block starts with this)
 
 ```
-Read docs/goals/README.md, then the goal file named below. The README's rules
-are binding, its rule 5 (simplest code that works) most of all.
-
-Setup, on this Mac:
-  git fetch origin && git worktree add ../mevar-v2-<branch> -b <branch> origin/main
-  cd ../mevar-v2-<branch> && npm install && (cd web && npm install)
-Work only in that worktree. Commit as you go, Conventional Commits, one
-conceptual change per commit. When the acceptance evidence in the goal file is
-met, push and open a non-draft PR with `gh pr create` against main. The PR
-description opens with the problem, names the goal file, and lists every
-acceptance item with the command you ran and its output. Report deviations
-from the goal file and anything you found that belongs in another goal. Do not
-merge. Stop at the goal's stop points.
+Read AGENTS.md, VISION.md, DELIVERY.md, docs/goals/README.md, then the goal
+file named below, in that order. Follow DELIVERY.md exactly: worktree from
+origin/main, npm install on this Mac at the root and in web/, atomic
+Conventional Commits, the gates for what you touch, the independent
+subagent review with the prompt given there, then a non-draft PR with
+`gh pr create` whose description opens with the problem and lists every
+acceptance item with the command you ran and its output. Do not merge. Stop
+at the stop points. End with the report DELIVERY.md asks for.
 ```
 
 ---

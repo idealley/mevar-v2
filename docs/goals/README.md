@@ -31,25 +31,9 @@ before Ghost is cancelled, not before the site goes live.
 
 ## Rules for every goal
 
-1. **Worktree and branch per goal** (`goal-01-local-assets`, etc.). Never on
-   `main`. Atomic Conventional Commits, as in the existing history
-   (`feat(web):`, `data(mevar):`, `fix(scripts):`, `docs:`).
-2. **Installs happen on the Mac**, never from a Linux sandbox. A sandbox
-   install writes Linux binaries that break the macOS checkout.
-3. **Never change the wording of a sermon, article or book.** Pipeline and
-   formatting changes only. Goal 04 is the one exception and has its own rules.
-4. **`markdown/` is the source of truth for the site.** Manifests and
-   `index.json` are derived. A change to a derived file without the change
-   that produces it is a bug.
-5. **Simplest code that works.** No abstraction for a possible future need,
-   no config option nobody asked for, no defensive checks against states the
-   types or the pipeline already exclude. A new dependency needs one sentence
-   of justification in the PR. The reviewer rejects a PR on this rule alone.
-6. **Gate for anything touching `web/`:** `npm run build` in `web/` passes on
-   the full corpus, plus the goal's own acceptance checks. Gate for
-   `scripts/`: rerun the script and show `git diff --stat` is limited to what
-   the goal predicts.
-7. **Stop points:** Cloudflare account actions, secrets, DNS, and switching
-   Ghost off are Samuel's. Prepare, document the exact clicks, stop.
-8. **Report** at the end: gates run with their output, deviations from the
-   goal file, anything discovered that belongs in another goal.
+The hard rules are in `AGENTS.md`; the procedure (worktree, commits, gates,
+review, PR, stop points) is `DELIVERY.md`. Both are binding for every goal
+here. One rule decides most reviews: the simplest code that works, no
+abstraction for a future that has not arrived, no check on a state the types
+or the pipeline already exclude. A goal file may add its own rules; it may
+not relax those.
