@@ -48,18 +48,6 @@ function* walk(dir) {
   }
 }
 
-// Replace a `key:` line and its "  - " list in the frontmatter, in place.
-// A null block removes the key; a missing key is appended.
-function replaceBlock(fm, key, block) {
-  const lines = fm.split("\n");
-  const i = lines.indexOf(`${key}:`);
-  if (i === -1) return block ? `${fm}\n${block}` : fm;
-  let j = i + 1;
-  while (j < lines.length && lines[j].startsWith("  - ")) j++;
-  lines.splice(i, j - i, ...(block ? block.split("\n") : []));
-  return lines.join("\n");
-}
-
 let touched = 0, addedPdf = 0, addedAudio = 0, addedRefs = 0;
 const KEYS = ["pdf_url", "audio_url", "stream_url"];
 
@@ -97,13 +85,20 @@ for (const filePath of walk(path.join(root, "markdown"))) {
   // frontmatter for sermon transcripts). A ref the manifest dropped goes.
   const fmRel = `markdown/${rel.split(path.sep).join("/")}`;
   const refs = refsByFile[fmRel] ?? [];
-  const block = refs.length
-    ? `bible_refs:\n${refs.slice(0, 50).map((r) => "  - " + JSON.stringify(r)).join("\n")}`
-    : null;
-  const before = fm;
-  fm = replaceBlock(fm, "bible_refs", block);
-  if (fm !== before) {
-    if (!/^bible_refs:/m.test(before)) addedRefs++;
+  // Replace the `bible_refs:` line and its "  - " list in place, append it
+  // when missing, drop it when the manifest has nothing left.
+  const block = refs.length ? ["bible_refs:", ...refs.slice(0, 50).map((r) => "  - " + JSON.stringify(r))] : [];
+  const lines = fm.split("\n");
+  const i = lines.indexOf("bible_refs:");
+  if (i === -1) lines.push(...block);
+  else {
+    let j = i + 1;
+    while (j < lines.length && lines[j].startsWith("  - ")) j++;
+    lines.splice(i, j - i, ...block);
+  }
+  if (lines.join("\n") !== fm) {
+    if (i === -1) addedRefs++;
+    fm = lines.join("\n");
     changed = true;
   }
 

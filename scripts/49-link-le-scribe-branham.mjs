@@ -58,7 +58,6 @@ const SUFFIX_ORDER = ["", "S", "M", "A", "B", "E", "X"];
 const byDay = new Map();
 for (const s of sermons) {
   const m = s.id.match(/^(\d{2})-(\d{4})([A-Z]?)$/);
-  if (!m) continue;
   s.suffix = m[3];
   const day = m[1] + m[2];
   if (!byDay.has(day)) byDay.set(day, []);
@@ -74,7 +73,7 @@ const norm = (s) =>
     .replace(/[^a-z0-9]+/g, " ").trim();
 
 // Matched against norm(), which has already turned "après-midi" into "apres midi".
-const TIME_SUFFIX = [[/\bmatin\b/, "M"], [/\bapres[ -]?midi\b/, "A"], [/\bsoir\b/, "E"]];
+const TIME_SUFFIX = [[/\bmatin\b/, "M"], [/\bapres midi\b/, "A"], [/\bsoir\b/, "E"]];
 
 function resolve(summary, candidates) {
   const subtitle = norm(summary.fields.subtitle);

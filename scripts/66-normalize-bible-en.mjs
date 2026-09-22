@@ -268,7 +268,7 @@ if (!dryRun) {
   // Merge with existing bible-refs.json (don't overwrite French refs).
   // A scanned file with no refs left loses its key.
   const outPath = path.join(root, "manifests/bible-refs.json");
-  const merged = fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, "utf8")) : {};
+  const merged = JSON.parse(fs.readFileSync(outPath, "utf8"));
   for (const rel of scanned) {
     if (refsByFile[rel]) merged[rel] = refsByFile[rel];
     else delete merged[rel];

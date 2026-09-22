@@ -299,7 +299,7 @@ for (const [src, s] of Object.entries(refsBySource)) {
 // target this is still a full rebuild of every French source.
 if (!dryRun) {
   const outPath = path.join(root, "manifests/bible-refs.json");
-  const merged = fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, "utf8")) : {};
+  const merged = JSON.parse(fs.readFileSync(outPath, "utf8"));
   for (const rel of scanned) {
     if (refsByFile[rel]) merged[rel] = refsByFile[rel];
     else delete merged[rel];

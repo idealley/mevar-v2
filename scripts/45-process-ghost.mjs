@@ -90,7 +90,7 @@ const IMPORT_TAG_RE = /^#Import\b/;
 // Ghost owns the fields it exports; everything else is preserved.
 const manifestPath = path.join(root, "manifests/mevar.json");
 const existingBySlug = new Map(
-  (fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, "utf8")) : [])
+  JSON.parse(fs.readFileSync(manifestPath, "utf8"))
     .map((e) => [e.sermon_id, e]),
 );
 
