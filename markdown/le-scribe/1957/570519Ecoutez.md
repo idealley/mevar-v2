@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 4:4"
   - "Romains 11:29"
   - "Ésaïe 49:15-16"
+original: "branham/1957/57-0519A"
 ---
 Résumé de : “Ecoutez-le ” (19.05.1957 ; après-midi)
 

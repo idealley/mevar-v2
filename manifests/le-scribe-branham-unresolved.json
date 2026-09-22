@@ -51,38 +51,6 @@
     ]
   },
   {
-    "le_scribe": "le-scribe/1953/530607Demons-religieux",
-    "title": "Démonologie ; Domaine religieux",
-    "subtitle": "7 juin 1953, dimanche après-midi, Connersville (Indiana)",
-    "reason": "2 sermons that day",
-    "candidates": [
-      {
-        "branham": "branham/1953/53-0607A",
-        "title": "The Ministry of Christ"
-      },
-      {
-        "branham": "branham/1953/53-0607E",
-        "title": "A Testimony"
-      }
-    ]
-  },
-  {
-    "le_scribe": "le-scribe/1955/550116Position",
-    "title": "Position en Christ",
-    "subtitle": "16 janvier 1955, après-midi",
-    "reason": "2 sermons that day",
-    "candidates": [
-      {
-        "branham": "branham/1955/55-0116A",
-        "title": "The Believer's Position in Christ"
-      },
-      {
-        "branham": "branham/1955/55-0116E",
-        "title": "Jesus Christ the Same Yesterday, Today, and Forever"
-      }
-    ]
-  },
-  {
     "le_scribe": "le-scribe/1955/550118Ange",
     "title": "Comment l'Ange est venu à moi, et son ordre de mission",
     "subtitle": null,
@@ -150,22 +118,6 @@
     "le_scribe": "le-scribe/1955/550220Combattre",
     "title": "Combattre pour la foi",
     "subtitle": "65-0120",
-    "reason": "2 sermons that day",
-    "candidates": [
-      {
-        "branham": "branham/1955/55-0220A",
-        "title": "The Second Coming"
-      },
-      {
-        "branham": "branham/1955/55-0220E",
-        "title": "Contend For The Faith"
-      }
-    ]
-  },
-  {
-    "le_scribe": "le-scribe/1955/550220Seconde-venue",
-    "title": "La seconde venue",
-    "subtitle": "20 février 1955, dimanche après-midi, Phoenix (Arizona)",
     "reason": "2 sermons that day",
     "candidates": [
       {
@@ -294,22 +246,6 @@
     "candidates": []
   },
   {
-    "le_scribe": "le-scribe/1956/560930Ecoutez-le",
-    "title": "Ecoutez-Le",
-    "subtitle": "30 septembre 1956, dimanche après-midi, Chicago (Illinois), 72 minutes",
-    "reason": "2 sermons that day",
-    "candidates": [
-      {
-        "branham": "branham/1956/56-0930A",
-        "title": "Hear Ye Him"
-      },
-      {
-        "branham": "branham/1956/56-0930E",
-        "title": "Witnesses"
-      }
-    ]
-  },
-  {
     "le_scribe": "le-scribe/1956/561005Jezabel",
     "title": "La Jézabel au visage fardé",
     "subtitle": "Painted Face Jezebel",
@@ -352,22 +288,6 @@
       {
         "branham": "branham/1957/57-0421E",
         "title": "And Their Eyes Were Opened And They Knew Him"
-      }
-    ]
-  },
-  {
-    "le_scribe": "le-scribe/1957/570519Ecoutez",
-    "title": "Ecoutez-le",
-    "subtitle": "19 mai 1957, dimanche après-midi, Saskatoon (Saskatchewan), 106 minutes",
-    "reason": "2 sermons that day",
-    "candidates": [
-      {
-        "branham": "branham/1957/57-0519A",
-        "title": "Hear Ye Him"
-      },
-      {
-        "branham": "branham/1957/57-0519E",
-        "title": "Love"
       }
     ]
   },
@@ -589,22 +509,6 @@
       {
         "branham": "branham/1958/58-0309E",
         "title": "Will The Church Go Before The Tribulation?"
-      }
-    ]
-  },
-  {
-    "le_scribe": "le-scribe/1958/580316Aigle",
-    "title": "Pareil à l'aigle qui éveille sa couvée, voltige sur ses petits",
-    "subtitle": "16 mars 1958, après-midi",
-    "reason": "2 sermons that day",
-    "candidates": [
-      {
-        "branham": "branham/1958/58-0316A",
-        "title": "As The Eagle Stirs Her Nest And Fluttereth Over Her Young"
-      },
-      {
-        "branham": "branham/1958/58-0316E",
-        "title": "Door to the Heart"
       }
     ]
   },
@@ -1034,22 +938,6 @@
     ]
   },
   {
-    "le_scribe": "le-scribe/1962/620128Paradoxe",
-    "title": "Paradoxe",
-    "subtitle": "28 janvier 1962, dimanche après-midi, Phœnix (Arizona)",
-    "reason": "2 sermons that day",
-    "candidates": [
-      {
-        "branham": "branham/1962/62-0128M",
-        "title": "Unbelief Does Not Hinder God"
-      },
-      {
-        "branham": "branham/1962/62-0128A",
-        "title": "A Paradox"
-      }
-    ]
-  },
-  {
     "le_scribe": "le-scribe/1962/620318aSemence",
     "title": "La Parole parlée est la Semence originelle - Première partie",
     "subtitle": null,
@@ -1334,22 +1222,6 @@
       {
         "branham": "branham/1963/63-0803E",
         "title": "Influence"
-      }
-    ]
-  },
-  {
-    "le_scribe": "le-scribe/1963/630804Encore-une-fois",
-    "title": "Encore une fois",
-    "subtitle": "4 Août 1963, dimanche après-midi, Chicago (Illinois)",
-    "reason": "2 sermons that day",
-    "candidates": [
-      {
-        "branham": "branham/1963/63-0804A",
-        "title": "Once More"
-      },
-      {
-        "branham": "branham/1963/63-0804E",
-        "title": "Calling Jesus On The Scene"
       }
     ]
   },

@@ -50,6 +50,7 @@ bible_refs:
   - "Éphésiens 1:2-3"
   - "Éphésiens 1:4"
   - "Éphésiens 1:5"
+original: "branham/1955/55-0116A"
 ---
 **2.** J'avais prévu de parler sur les promesses inébranlables de Dieu, mais le Seigneur m'a dit qu'il ne valait mieux pas. Le frère Joseph Boze a parlé des photos de l'Ange de l'Eternel. Nous en apporterons demain, car nous ne vendons rien le dimanche. Ce soir, nous prierons pour les malades, et nous distribuerons les cartes de prière vers six heures. Nous les distribuons au jour le jour, pour que ceux qui viennent plus tard aient une chance d'en avoir. C'est notre expérience de huit années de voyages.
 

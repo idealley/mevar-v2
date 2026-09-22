@@ -72,7 +72,8 @@ const norm = (s) =>
   (s ?? "").toLowerCase().normalize("NFD").replace(/\p{Diacritic}/gu, "")
     .replace(/[^a-z0-9]+/g, " ").trim();
 
-const TIME_SUFFIX = [[/\bmatin\b/, "M"], [/\bapres-?midi\b/, "A"], [/\bsoir\b/, "E"]];
+// Matched against norm(), which has already turned "après-midi" into "apres midi".
+const TIME_SUFFIX = [[/\bmatin\b/, "M"], [/\bapres[ -]?midi\b/, "A"], [/\bsoir\b/, "E"]];
 
 function resolve(summary, candidates) {
   const subtitle = norm(summary.fields.subtitle);
