@@ -59,55 +59,86 @@ function* walk(dir) {
   }
 }
 
-let files = 0, restored = 0;
-const unaligned = [];
+const before2 = (text, at) => flat(text.slice(Math.max(0, at - 300), at)).trimEnd().split(" ").slice(-2).join(" ");
+const after3 = (text, at) => flat(text.slice(at, at + 300)).trimStart().split(" ").slice(0, 3).join(" ");
 
-for (const file of walk(mdRoot)) {
-  const text = fs.readFileSync(file, "utf8");
-  const [, fm, body] = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
-  const hits = [...body.matchAll(NAME_RE)];
-  if (!hits.length) continue;
-
-  const id = path.basename(file, ".md");
-  // 20-download-pdfs.mjs files a PDF under the manifest's year, which is not
-  // always the markdown's directory.
-  const pdf = fs.readdirSync(pdfRoot).map((year) => path.join(pdfRoot, year, `${id}.pdf`)).find((p) => fs.existsSync(p));
-  if (!pdf) {
-    console.error(`no PDF for ${id}: run scripts/20-download-pdfs.mjs first`);
-    process.exit(1);
-  }
-  const source = flat(execFileSync(path.join(root, "node_modules/.bin/lit"), ["parse", "--no-ocr", "-q", pdf], { encoding: "utf8", maxBuffer: 1 << 26 }));
-
-  let out = body;
-  for (const hit of hits.reverse()) {
+// Pass 1: a book name that is French, or where the PDF ends a sentence.
+function restoreNames(text, source, left) {
+  let out = text;
+  for (const hit of [...text.matchAll(NAME_RE)].reverse()) {
     const [spot, name, number] = hit;
-    const before = flat(body.slice(Math.max(0, hit.index - 300), hit.index)).trimEnd().split(" ").slice(-2).join(" ");
-    const after = flat(body.slice(hit.index + spot.length, hit.index + spot.length + 300)).replace(/^\./, "").trimStart().split(" ").slice(0, 3).join(" ");
+    const before = before2(text, hit.index);
+    // Skip the period our text puts after a paragraph number ("80. And").
+    const end = hit.index + spot.length;
+    const after = after3(text, text[end] === "." ? end + 1 : end);
     // The PDF may carry a page footer between the word and the paragraph number.
     const re = new RegExp(`${pattern(before)} (\\S+(?: \\S+)?) (?:\\d{1,3} THE SPOKEN WORD )?${escRe(number)}\\.? ${pattern(after)}`, "g");
     const found = [...source.matchAll(re)];
     const word = found.length === 1 ? found[0][1] : null;
-
     if (word && word !== name && (FR_ONLY.has(name) || word.endsWith("."))) {
       out = out.slice(0, hit.index) + word + out.slice(hit.index + name.length);
       restored++;
     } else if (!word && FR_ONLY.has(name)) {
-      unaligned.push({ file: path.relative(root, file), spot, context: flat(body.slice(Math.max(0, hit.index - 80), hit.index + spot.length + 60)).trim() });
+      left.push({ spot, context: flat(text.slice(Math.max(0, hit.index - 80), hit.index + spot.length + 60)).trim() });
     }
   }
+  return out;
+}
 
-  const restoredWords = out;
-  for (const hit of [...restoredWords.matchAll(CITE_RE)].reverse()) {
+// Pass 2: a citation in canonical form goes back to how the PDF says it. The
+// span may not contain its own anchor: where Branham repeats himself ("Acts
+// 2:4, Acts 2:4, Acts 2:4") a lazy span would otherwise start at an earlier
+// repetition and copy it in a second time.
+function restoreCitations(text, source) {
+  let out = text;
+  for (const hit of [...text.matchAll(CITE_RE)].reverse()) {
     const [spot, name] = hit;
-    const before = flat(restoredWords.slice(Math.max(0, hit.index - 300), hit.index)).trimEnd().split(" ").slice(-2).join(" ");
-    const after = flat(restoredWords.slice(hit.index + spot.length, hit.index + spot.length + 300)).trimStart().split(" ").slice(0, 3).join(" ");
-    const found = [...source.matchAll(new RegExp(`${pattern(before)} (.{1,60}?) ?${pattern(after)}`, "g"))];
+    const before = pattern(before2(text, hit.index));
+    const after = pattern(after3(text, hit.index + spot.length));
+    const found = [...source.matchAll(new RegExp(`${before} ((?:(?!${before}).){1,60}?) ?${after}`, "g"))];
     const span = found.length === 1 ? found[0][1].trim() : null;
     if (span && span !== spot && !span.includes("THE SPOKEN WORD") && bookOf(span) === name) {
       out = out.slice(0, hit.index) + span + out.slice(hit.index + spot.length);
       restored++;
     }
   }
+  return out;
+}
+
+const mdFiles = [...walk(mdRoot)];
+// 20-download-pdfs.mjs files a PDF under the manifest's year, which is not
+// always the markdown's directory. All are checked before any file is written.
+const years = fs.readdirSync(pdfRoot);
+const pdfOf = new Map(mdFiles.map((f) => {
+  const id = path.basename(f, ".md");
+  return [f, years.map((y) => path.join(pdfRoot, y, `${id}.pdf`)).find((p) => fs.existsSync(p))];
+}));
+const missing = mdFiles.filter((f) => !pdfOf.get(f));
+if (missing.length) {
+  console.error(`${missing.length} Branham PDFs missing: run scripts/20-download-pdfs.mjs first`);
+  process.exit(1);
+}
+
+let files = 0, restored = 0;
+const unaligned = [];
+
+for (const file of mdFiles) {
+  const text = fs.readFileSync(file, "utf8");
+  const [, fm, body] = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
+  if (!NAME_RE.test(body)) continue;
+  NAME_RE.lastIndex = 0;
+
+  const source = flat(execFileSync(path.join(root, "node_modules/.bin/lit"), ["parse", "--no-ocr", "-q", pdfOf.get(file)], { encoding: "utf8", maxBuffer: 1 << 26 }));
+
+  // A restored word can fix the context of the spot next to it, so the two
+  // passes repeat until nothing moves; the run ends at its own fixed point.
+  let out = body, prev, left;
+  do {
+    prev = out;
+    left = [];
+    out = restoreCitations(restoreNames(out, source, left), source);
+  } while (out !== prev);
+  unaligned.push(...left.map((l) => ({ file: path.relative(root, file), ...l })));
 
   if (out !== body) {
     fs.writeFileSync(file, fm + out);
