@@ -8,6 +8,12 @@ Living list of stuff we know about and have decided to defer, with enough contex
 
 **Fix**: a human pass over the 41, reading each against its PDF (`pdf_url`).
 
+## The French sources still carry 65's canonical rewrites
+
+**Status**: until goal 07, 65 rewrote every French citation it found into canonical form ("Math. 24, 6" became "Matthieu 24:6", "1Cor 5:20" became "1 Corinthiens 5:20"). It no longer does, and Samuel's rule is that the preacher's words stay; but the text already rewritten in `mevar`, `onedrive`, `le-scribe`, `cmpp` and `local` still reads canonical.
+
+**Fix**: the same approach as 65b, against each source's original: the Ghost export for `mevar` (at the repo root), the `pdf_url` PDFs for `le-scribe` and `cmpp`, the OneDrive originals for `onedrive`. Its own goal.
+
 ## Printed page furniture is inside the sermon bodies
 
 **Status**: the PDF extractor merged the booklet's running headers and footers into the text. `THE SPOKEN WORD` appears **5,894** times across **840** Branham files, and `QUES TIONS A ND ANSWERS ON` (a spaced-out running header) 23 times. A reader sees it: `53-0729` reads "…and now we're 18 THE SPOKEN WORD at the eye age".
