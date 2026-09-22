@@ -1,8 +1,15 @@
 #!/usr/bin/env node
 // Process the Ghost export into clean per-post markdown with proper frontmatter.
 //
+// Additive: markdown/mevar/ is ours once written. Only slugs with no file yet
+// are created; posts edited on Ghost since their file was written are printed
+// so a human can decide what to carry over.
+//
+// Usage:
+//   node scripts/45-process-ghost.mjs [export.json]   # default: newest mevar.ghost.*.json at the repo root
+//
 // Output:
-//   markdown/mevar/<slug>.md (overwrites existing dirty-crawl content)
+//   markdown/mevar/<slug>.md (new slugs only)
 //   manifests/mevar.json (new structure with tags, authors, status, type)
 //   manifests/mevar-tags.json (tag taxonomy)
 //   manifests/mevar-authors.json (author roster)
@@ -10,10 +17,13 @@
 import fs from "node:fs";
 import path from "node:path";
 import TurndownService from "turndown";
+import { resolveGhostExport } from "./ghost-export.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
-const ghostFile = path.join(root, "mevar.ghost.2026-04-30-20-28-29.json");
 const outDir = path.join(root, "markdown", "mevar");
+
+const ghostFile = resolveGhostExport(root);
+console.log(`ghost export: ${path.relative(root, ghostFile)}`);
 
 const exp = JSON.parse(fs.readFileSync(ghostFile, "utf8"));
 const data = exp.db[0].data;
@@ -65,8 +75,6 @@ function yamlString(v) {
   return JSON.stringify(String(v));
 }
 
-// Wipe existing mevar markdown so we don't keep dirty/orphan files
-if (fs.existsSync(outDir)) fs.rmSync(outDir, { recursive: true, force: true });
 fs.mkdirSync(outDir, { recursive: true });
 
 function replaceGhostUrls(s) {
@@ -75,8 +83,17 @@ function replaceGhostUrls(s) {
 
 const IMPORT_TAG_RE = /^#Import\b/;
 
+// Existing manifest entries carry fields added downstream (local_image, …).
+// Ghost owns the fields it exports; everything else is preserved.
+const manifestPath = path.join(root, "manifests/mevar.json");
+const existingBySlug = new Map(
+  (fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, "utf8")) : [])
+    .map((e) => [e.sermon_id, e]),
+);
+
 const manifest = [];
-let written = 0;
+const newSlugs = [];
+const editedOnGhost = [];
 for (const post of posts) {
   const html = replaceGhostUrls(post.html ?? "");
   const md = html ? td.turndown(html) : replaceGhostUrls(post.plaintext ?? "");
@@ -125,10 +142,17 @@ for (const post of posts) {
   fm.push("");
 
   const filePath = path.join(outDir, `${post.slug}.md`);
-  fs.writeFileSync(filePath, fm.join("\n") + md + "\n");
-  written++;
+  if (fs.existsSync(filePath)) {
+    // Existing markdown is ours — cleaned, patched, hand-edited. Never overwrite.
+    if (post.updated_at && new Date(post.updated_at) > fs.statSync(filePath).mtime) {
+      editedOnGhost.push({ slug: post.slug, updated_at: post.updated_at });
+    }
+  } else {
+    fs.writeFileSync(filePath, fm.join("\n") + md + "\n");
+    newSlugs.push(post.slug);
+  }
 
-  manifest.push({
+  const entry = {
     source: "mevar",
     sermon_id: post.slug,
     title: post.title,
@@ -150,7 +174,9 @@ for (const post of posts) {
     ghost_id: post.id,
     uuid: post.uuid,
     has_import_tag: importTags.length > 0,
-  });
+  };
+  const prev = existingBySlug.get(post.slug);
+  manifest.push(prev ? { ...prev, ...entry } : entry);
 }
 
 manifest.sort((a, b) => {
@@ -158,7 +184,7 @@ manifest.sort((a, b) => {
   if (ya !== yb) return yb - ya;
   return (b.published_at ?? "").localeCompare(a.published_at ?? "");
 });
-fs.writeFileSync(path.join(root, "manifests/mevar.json"), JSON.stringify(manifest, null, 2));
+fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
 
 // Tag taxonomy + author roster
 const tagsOut = tags
@@ -183,7 +209,11 @@ const authorsOut = users.map((u) => ({
 fs.writeFileSync(path.join(root, "manifests/mevar-authors.json"), JSON.stringify(authorsOut, null, 2));
 
 console.log(`mevar markdown:`);
-console.log(`  posts written: ${written}`);
+console.log(`  posts in export: ${posts.length}`);
+console.log(`  new slugs written: ${newSlugs.length}`);
+for (const slug of newSlugs) console.log(`    + ${slug}`);
+console.log(`  edited on Ghost since their file was written: ${editedOnGhost.length}`);
+for (const e of editedOnGhost) console.log(`    ~ ${e.slug} (${e.updated_at})`);
 console.log(`  tags: ${tagsOut.length} (${tagsOut.filter((t) => t.post_count > 0).length} in use)`);
 console.log(`  authors: ${authorsOut.length}`);
-console.log(`  date range: ${manifest.at(-1)?.date} → ${manifest[0]?.date}`);
+console.log(`  date range: ${manifest.at(-1)?.published_at} → ${manifest[0]?.published_at}`);

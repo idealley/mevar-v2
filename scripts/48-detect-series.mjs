@@ -21,10 +21,10 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { resolveGhostExport } from "./ghost-export.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
-const ghostJsonPath = process.argv[2]
-  ?? path.join(root, "mevar.ghost.2026-04-30-20-28-29.json");
+const ghostJsonPath = resolveGhostExport(root);
 const dump = JSON.parse(fs.readFileSync(ghostJsonPath, "utf8"));
 const posts = dump.db[0].data.posts.filter((p) => p.status === "published" && p.type === "post");
 
