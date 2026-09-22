@@ -40,7 +40,7 @@ const variantsSorted = [...ALL_VARIANTS]
 const BOOK_ALT = variantsSorted.map(escRe).join("|");
 
 const REF_RE = new RegExp(
-  "(?<![\\p{L}])" +
+  "(?<![\\p{L}\\d])" +  // not "2 John" inside a paragraph number "212 John"
   "(" + BOOK_ALT + ")" +
   // no optional period: in the Branham text "job. 9" is a sentence end and a
   // paragraph number, never a citation
@@ -107,7 +107,7 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
 // lowercase book name is prose.
 const ORD = "(\\d{1,3})(?:st|nd|rd|th)";
 const SPOKEN = [
-  new RegExp(`(?<!\\p{L})(${BOOK_ALT}),? the ${ORD} chapter(?:,? (?:and )?the ${ORD} verse)?`, "gu"),
+  new RegExp(`(?<![\\p{L}\\d])(${BOOK_ALT}),? the ${ORD} chapter(?:,? (?:and )?the ${ORD} verse)?`, "gu"),
   new RegExp(`the ${ORD} chapter of (${BOOK_ALT})(?!\\p{L})`, "gu"),
 ];
 

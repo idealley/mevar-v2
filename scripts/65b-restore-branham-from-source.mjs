@@ -35,20 +35,22 @@ const EN_OF = new Map(BOOKS_EN.flatMap((row) => row.map((v) => [v.toLowerCase(),
 const VARIANTS = [...EN_OF.keys()].sort((a, b) => b.length - a.length);
 const FR_ONLY = new Set(BOOKS_FR.map((row) => row[0]).filter((name) => !EN.has(name)));
 const NAME_RE = new RegExp(
-  `(?<!\\p{L})(${[...FR_ONLY, ...EN].sort((a, b) => b.length - a.length).map(escRe).join("|")}) (\\d{1,3}(?::\\d{1,3}|st|nd|rd|th)?)(?![\\d\\p{L}])`,
+  `(?<![\\p{L}\\d])(${[...FR_ONLY, ...EN].sort((a, b) => b.length - a.length).map(escRe).join("|")}) (\\d{1,3}(?::\\d{1,3}|st|nd|rd|th)?)(?![\\d\\p{L}])`,
   "gu",
 );
 
 // A citation in the canonical form 66 used to write into the text.
 const CITE_RE = new RegExp(
-  `(?<!\\p{L})(${[...EN].sort((a, b) => b.length - a.length).map(escRe).join("|")}) \\d{1,3}(?::\\d{1,3}(?:-\\d{1,3})?(?:,\\d{1,3}(?:-\\d{1,3})?)*)?(?![\\d\\p{L}])`,
+  `(?<![\\p{L}\\d])(${[...EN].sort((a, b) => b.length - a.length).map(escRe).join("|")}) \\d{1,3}(?::\\d{1,3}(?:-\\d{1,3})?(?:,\\d{1,3}(?:-\\d{1,3})?)*)?(?![\\d\\p{L}])`,
   "gu",
 );
 const bookOf = (span) => EN_OF.get(VARIANTS.find((v) => span.toLowerCase().startsWith(v + " ")));
 
 // Our text has markdown emphasis and the PDF does not; quotes may be curly on
 // one side and straight on the other.
-const flat = (s) => s.replace(/\*+/g, "").replace(/\s+/g, " ");
+// A range the PDF broke across two lines ("32:1-" / "12") comes out of lit as
+// "32:1- 12"; it is one range.
+const flat = (s) => s.replace(/\*+/g, "").replace(/\s+/g, " ").replace(/(\d)- (\d)/g, "$1-$2");
 const pattern = (s) => escRe(s).replace(/['‘’]/g, "['‘’]").replace(/["“”]/g, '["“”]');
 
 function* walk(dir) {
