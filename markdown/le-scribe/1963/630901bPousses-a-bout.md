@@ -69,6 +69,7 @@ bible_refs:
   - "Ruth 1:16-17"
   - "Éphésiens 1:4"
   - "Ésaïe 55:12"
+original: "branham/1963/63-0901E"
 ---
 **Résumé de!: “Poussés à bout” (1er septembre 1963 soir)**
 

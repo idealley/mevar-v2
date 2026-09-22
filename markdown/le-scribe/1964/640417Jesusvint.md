@@ -60,6 +60,7 @@ bible_refs:
   - "Luc 8:41-56"
   - "Luc 8:43-48"
   - "Marc 10:47"
+original: "branham/1964/64-0417"
 ---
 Résumé de : “Alors Jésus vint et appela” (17 avril 1964, soir)
 

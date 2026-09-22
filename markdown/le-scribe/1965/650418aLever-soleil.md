@@ -65,6 +65,7 @@ bible_refs:
   - "Romains 8:11"
   - "Zacharie 14:7"
   - "Ésaïe 3:16"
+original: "branham/1965/65-0418M"
 ---
 **1.** [Prière]. Après avoir eu la vision [décembre 1962] selon laquelle je rencontrerai une pyramide de sept anges accompagnée d'une violente explosion, je suis allé dans le Sabino Canyon [janvier 1963] où une Epée a été placée dans ma main et une Voix a dit : “C'est l'Epée du Roi”. Plus tard, la pyramide des anges est réellement apparue [février 1963], et au même moment un mystérieux nuage de 40 km de large en forme de pyramide s'est formé à plus de 40 km d'altitude, avec comme des ailes autour de cette masse lumineuse, là où il n'existe pas d'humidité. Vous savez ce que cela signifie, mais pas les savants. Il m'a été dit : “Les Sept Sceaux seront ouverts, le septuple mystère de la Bible fermé depuis la fondation du monde va être révélé”. Nous avons eu la révélation de ces sept mystères, ce que fut l'église, ce qu’elle était en Christ au commencement, et comment cela serait révélé dans les derniers jours. Les questions du “Mariage et divorce”, de la “Semence du serpent”, etc., ont été révélées à ce petit groupe.
 

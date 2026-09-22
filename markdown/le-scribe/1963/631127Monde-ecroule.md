@@ -64,6 +64,7 @@ bible_refs:
   - "Romains 3:4"
   - "Éphésiens 4:30"
   - "Ésaïe 9:5"
+original: "branham/1963/63-1127"
 ---
 **Résumé de!: “Le monde s'effondre” (27 novembre 1963 soir)**
 

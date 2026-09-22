@@ -46,6 +46,7 @@ bible_refs:
   - "Néhémie 5"
   - "Psaumes 37:23"
   - "Romains 8:19-23"
+original: "branham/1957/57-0310E"
 ---
 **Résumé de : “Ecoutez-le” (10.03.1957)**
 

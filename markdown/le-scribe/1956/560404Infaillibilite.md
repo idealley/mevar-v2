@@ -62,6 +62,7 @@ bible_refs:
   - "Romains 8:30"
   - "Ésaïe 28:16"
   - "Ésaïe 40:3"
+original: "branham/1956/56-0404"
 ---
 **1.** [Prière]. J'ai tout mélangé ce matin avec une mauvaise indication du lieu de la réunion, mais sans conséquences. Je ne suis pas digne des compliments qui m'ont été adressés en introduction. Je ne suis qu'un serviteur du Seigneur. Nous sommes heureux d'avoir un Dieu capable de nous bénir. Qu'en serait-il si nous n'avions pas un Père céleste ? Nous devrions être toujours heureux. Dieu ne veut pas que vous soyez triste. Un mauvais caractère est horrible. Cela provoque le cancer. 60% des maladies viennent de là. C'est vous qui paierez. Restez joyeux.
 

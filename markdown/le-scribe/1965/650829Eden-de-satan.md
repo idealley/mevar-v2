@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 16:17-18"
   - "Proverbes 14:12"
   - "Ésaïe 14:12"
+original: "branham/1965/65-0829"
 ---
 Résumé de : “L'Eden de Satan” (29 août 1965, soir)
 

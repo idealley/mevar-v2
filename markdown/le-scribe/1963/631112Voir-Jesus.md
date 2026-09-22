@@ -69,6 +69,7 @@ bible_refs:
   - "Jean 8:44"
   - "Luc 17:28"
   - "Romains 14:17"
+original: "branham/1963/63-1112"
 ---
 **Résumé de!: “Nous voudrions voir Jésus” (12 novembre 1963, soir)**
 

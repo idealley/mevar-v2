@@ -76,6 +76,7 @@ bible_refs:
   - "Romains 9:11"
   - "Zacharie 14:7"
   - "Éphésiens 4:30"
+original: "branham/1960/60-0221"
 ---
 **Résumé de!: “Entendre, reconnaître, mettrre en œuvre la Parole de Dieu” (21 février 1960, matin)**
 

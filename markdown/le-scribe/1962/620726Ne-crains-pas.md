@@ -55,6 +55,7 @@ bible_refs:
   - "Luc 7:36-49"
   - "Marc 10:46-53"
   - "Matthieu 14:26"
+original: "branham/1962/62-0726"
 ---
 **1.** [Prière]. Je remercie le frère Eddie de m'avoir invité pour ces trois soirs. J'aimerais avoir l'enregistrement du chant que je viens d'entendre. Je suis allé pêcher aujourd'hui avec un frère Indien, Robert Johnson. Il aimerait que je reste quelque temps dans la réserve. Il m'a raconté combien le Seigneur l'avait béni, lui et sa femme. Il avait une question, nous avons prié dans la barque, et j'ai dit : "Par ceci, tu vas savoir ce qu'il faut dire". Et aussitôt la barque a semblé heurter un tronc, mais il n'y avait rien. Ainsi, ce frère en gardera le souvenir à toujours. Il voulait savoir quoi dire aux parents d'une personne, et quoi faire si Satan essayait de revenir.
 

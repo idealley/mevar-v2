@@ -41,6 +41,7 @@ llm_cleaned: true
 bible_refs:
   - "Jean 5:19"
   - "Jude 3"
+original: "branham/1955/55-0815"
 ---
 **1.** Je suis fatigué à cause du décalage horaire, et on vient tout juste de me réveiller. Lisons Jude 3 :
 > “Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.”

@@ -53,6 +53,7 @@ bible_refs:
   - "Nombres 16:3"
   - "Romains 3:4"
   - "Ésaïe 35:8"
+original: "branham/1952/52-0713A"
 ---
 **“Premières expériences spirituelles” (13 juillet 1952)**
 

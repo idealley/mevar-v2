@@ -46,6 +46,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 6:44"
   - "Jérémie 1:5"
+original: "branham/1957/57-0106"
 ---
 **1.** Notre petite réunion a été parmi les meilleures que j’ai connues. Je remercie les pasteurs Littlefield et Hall, et les autres, tous ceux grâce à qui cela a été possible, le maire, la police, l’hôtel, etc. Un pays est ce qu’est son peuple. J’avais demandé qu’il n’y ait pas d’offrande prélevée pour moi, mais le frère Littlefield a insisté. Je n’en ai jamais demandé de ma vie. J’ai été pasteur sans demander un sou pendant 12 ans. J’aurais pu devenir millionnaire. Je préfère avoir des amis que de l’argent. Chaque centime sera bien utilisé, car je sais que c’est une part de votre vie. Mes charges sont de 100 dollars par jour. Je n’ai aucun programme radio ou télé. Je suis ainsi libre pour visiter les petites églises.
 

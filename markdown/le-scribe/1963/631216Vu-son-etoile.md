@@ -57,6 +57,7 @@ bible_refs:
   - "Nombres 24:17"
   - "Romains 8:28"
   - "Ésaïe 9:5"
+original: "branham/1963/63-1216"
 ---
 **Résumé de!: “Nous avons vu son étoile et nous sommes venus l'adorer” (16 décembre 1963 soir)**
 

@@ -55,6 +55,7 @@ bible_refs:
   - "Marc 5:25-34"
   - "Romains 10:17"
   - "Romains 4:17"
+original: "branham/1958/58-0105"
 ---
 **1.** [Prière]. C’est maintenant notre seule chance d’être mortel, et de gagner une âme. Faisons-le cette semaine, faites venir les malades. Cet après-midi, j’ai prêché sur “Pourquoi nous devons naître de nouveau”, mais nos enregistrements ne sont pas vendus le dimanche. Le frère Leo s’occupe de cela. Lisons Marc 11:20-23
 

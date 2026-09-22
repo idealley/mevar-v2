@@ -41,6 +41,7 @@ bible_refs:
   - "Hébreux 12:1-2"
   - "Marc 8:18"
   - "Romains 8:28"
+original: "branham/1960/60-0328"
 ---
 **1.** [Cantique. Prière] …
 

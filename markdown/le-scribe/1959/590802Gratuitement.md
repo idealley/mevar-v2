@@ -46,6 +46,7 @@ bible_refs:
   - "Psaumes 34:19"
   - "Psaumes 46:1"
   - "Ésaïe 55:1"
+original: "branham/1959/59-0802"
 ---
 **1.** Le frère Neville m'informe qu'on ne m'entend pas au fond. Je suis si petit que je dois faire du bruit pour montrer que je suis présent ! C'est ce que je disais à Mrs. Edith Ehalt qui me reprochait le bruit que mes souliers à crampons faisaient quand je montais les marches du temps où je travaillais pour la Régie d'Électricité.
 

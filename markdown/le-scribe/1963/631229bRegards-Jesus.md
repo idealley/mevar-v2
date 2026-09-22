@@ -72,6 +72,7 @@ bible_refs:
   - "Ésaïe 53:5"
   - "Ésaïe 9:5"
   - "Ézéchiel 1:16"
+original: "branham/1963/63-1229E"
 ---
 **1.** Frère Blair ici présent a été attaqué par Satan pour qu'il ne me fasse plus confiance, et il avait un problème nerveux. Le Seigneur est venu et lui a révélé certaines choses, et l'a écarté de cela. Un jour son fils avait eu le visage écrasé par une voiture, mais j'avais eu une vision montrant le garçon en parfaite santé.
 

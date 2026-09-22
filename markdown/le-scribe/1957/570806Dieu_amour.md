@@ -42,6 +42,7 @@ bible_refs:
   - "Jean 10:42"
   - "Jean 1:42"
   - "Jean 3:16"
+original: "branham/1957/57-0806"
 ---
 **1.** [Prière]. Il y a là plusieurs lettres, avec peut-être des mouchoirs, et je prie chaque soir sur eux. D’habitude j’attends l’Onction de l’Esprit dans la pièce. C’est alors plus efficace. Si c’est de la superstition, alors c’est celle de Paul, car il pratiquait cela, et nous pratiquons ce que la Bible enseigne [cf. Actes 19:11-12]. Plusieurs oignent les mouchoirs d’huile. Je suis pour tout ce que Dieu bénit, mais notez que Paul n’a jamais oint les mouchoirs, et qu’il s’agissait de mouchoirs ou de linges ayant touché son corps. Je crois que Paul, un fondamentaliste, avait tiré cela du récit où Élisée demande à son serviteur de déposer son bâton sur le fils tout juste mort de la Sunamite [2 R. 4:29]. Élisée savait que tout ce qu’il touchait était béni, à condition que la femme croie de même.
 

@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 28"
   - "Romains 10:17"
   - "Zacharie 14:7"
+original: "branham/1956/56-0304"
 ---
 *Préparer une voie de secours* (4.3.1956)
 

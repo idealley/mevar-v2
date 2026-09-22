@@ -61,6 +61,7 @@ bible_refs:
   - "Romains 8:14"
   - "Ésaïe 49:15-16"
   - "Ésaïe 9:6"
+original: "branham/1959/59-0407"
 ---
 “Conduit par l’Esprit” (7 avril 1959)
 

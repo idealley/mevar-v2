@@ -52,6 +52,7 @@ bible_refs:
   - "Matthieu 12:42"
   - "Nombres 20:11"
   - "Romains 8:28"
+original: "branham/1958/58-0625"
 ---
 **IL Y A ICI PLUS QUE SALOMON**
 

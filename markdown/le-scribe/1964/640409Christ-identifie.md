@@ -63,6 +63,7 @@ bible_refs:
   - "Malachie 4"
   - "Marc 7:9,13"
   - "Nombres 12:6"
+original: "branham/1964/64-0409"
 ---
 *Le Christ de tous les âges identifié*
 *9 avril 1964, jeudi soir, Birmingham (Alabama)*

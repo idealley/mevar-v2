@@ -61,6 +61,7 @@ bible_refs:
   - "Ésaïe 1:3"
   - "Ésaïe 53:2"
   - "Ésaïe 53:5"
+original: "branham/1959/59-0708E"
 ---
 **1.** S’il y a une ville où j’aimerais vivre, c’est à Cleveland, car c’est un grand centre religieux. Ce matin, j’ai consacré une église nouvelle, et ses membres se sont consacrés au service du Seigneur. Je remercie les frères Littlefield et Hall, et les autres pasteurs présents pour leur coopération et leur attachement au réveil de notre époque.
 

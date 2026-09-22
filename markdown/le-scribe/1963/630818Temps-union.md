@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 16:1-3"
   - "Michée 1:8"
   - "Psaumes 86:1"
+original: "branham/1963/63-0818"
 ---
 **LE TEMPS ET LE SIGNE DE L'UNION**
 *THE SIGN OF THE UNITING TIME*

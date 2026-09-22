@@ -59,6 +59,7 @@ bible_refs:
   - "Jude 1"
   - "Luc 16:16"
   - "Marc 9:2-3"
+original: "branham/1956/56-0225"
 ---
 *Résumé de : "Jésus-Christ est le même hier, aujourd'hui et éternellement" (25 février soir 1956)*
 

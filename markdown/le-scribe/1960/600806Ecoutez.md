@@ -68,6 +68,7 @@ bible_refs:
   - "Romains 8:19"
   - "Ésaïe 1:18"
   - "Ésaïe 53:5"
+original: "branham/1960/60-0806"
 ---
 **1.** [Prière et actions de grâces] … nous avons appris qu’il y a eu des guérisons au cours des jours précédents. Une tumeur a disparu, et des gens ont été guéris après application de mouchoirs. Deux ou trois personnes venues en fauteuils roulants se sont senties mieux une fois revenues chez elles, et marchaient un ou deux jours plus tard … [Prière sur des mouchoirs et pour la suite de la réunion] …
 

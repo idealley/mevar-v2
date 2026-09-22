@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 5:19"
   - "Matthieu 14:22"
   - "Ésaïe 66:1"
+original: "branham/1960/60-0305"
 ---
 **1.** [Prière] …
 

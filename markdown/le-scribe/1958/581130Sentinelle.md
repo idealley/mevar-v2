@@ -46,6 +46,7 @@ bible_refs:
   - "Marc 12:42"
   - "Ésaïe 21"
   - "Ésaïe 53:5"
+original: "branham/1958/58-1130"
 ---
 *Résumé de : “Sentinelle, que dis-tu de la nuit?” (30 novembre 1958, matin)*
 

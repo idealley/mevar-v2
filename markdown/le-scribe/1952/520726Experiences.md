@@ -52,6 +52,7 @@ bible_refs:
   - "Matthieu 24:37"
   - "Zacharie 4:6"
   - "Ésaïe 53:5"
+original: "branham/1952/52-0726"
 ---
 **1.** Les nés de nouveau sont des représentants de Christ. Nous ne sommes plus de ce monde, nous sommes passés de la mort à la Vie, héritiers de Dieu avec Christ, assis ensemble dans les lieux célestes en Christ-Jésus ! “Ce sont des choses que l'œil n'a point vues, que l'oreille n'a point entendues, et qui ne sont point montées au cœur de l'homme, des choses que Dieu a préparées pour ceux qui l'aiment.” [1 Corinthiens 2:9]. Je crois que Jésus guérit les malades. J’ai entendu un grand théologien tordre les Écritures, dire que “la maladie est de Dieu”, inviter à lui faire bon accueil et à la supporter pour la gloire de Dieu !
 

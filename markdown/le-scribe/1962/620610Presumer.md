@@ -61,6 +61,7 @@ bible_refs:
   - "Éphésiens 5:27"
   - "Ésaïe 28:10"
   - "Ésaïe 28:10-11"
+original: "branham/1962/62-0610M"
 ---
 **Résumé de!: “Présumer” (8 avril 1962, matin)**
 

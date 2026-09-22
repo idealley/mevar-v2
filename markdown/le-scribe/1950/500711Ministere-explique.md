@@ -49,6 +49,7 @@ bible_refs:
   - "Marc 11:24"
   - "Marc 16:18"
   - "Romains 10:17"
+original: "branham/1950/50-0711"
 ---
 **SIGNIFICATION DE CE MINISTERE**
 *MINISTRY EXPLAINED*

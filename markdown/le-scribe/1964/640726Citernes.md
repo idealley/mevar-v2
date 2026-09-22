@@ -57,6 +57,7 @@ bible_refs:
   - "Jérémie 2:13"
   - "Psaumes 36:10"
   - "Zacharie 13:1"
+original: "branham/1964/64-0726E"
 ---
 **Résumé de!: “Des citernes crevassées” (26 juillet 1964 soir)**
 

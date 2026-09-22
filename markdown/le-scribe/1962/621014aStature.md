@@ -85,6 +85,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Éphésiens 4:11-15"
   - "Ésaïe 6:1-8"
+original: "branham/1962/62-1014M"
 ---
 **LA STATURE D'UN HOMME PARFAIT**
 *THE STATURE OF A PERFECT MAN*

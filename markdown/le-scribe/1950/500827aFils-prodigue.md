@@ -38,6 +38,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Jean 2:15"
   - "Luc 15:11"
+original: "branham/1950/50-0827A"
 ---
 **LE FILS PRODIGUE**
 

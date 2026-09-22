@@ -74,6 +74,7 @@ bible_refs:
   - "Romains 8:35-39"
   - "Éphésiens 2:6"
   - "Éphésiens 4:14"
+original: "branham/1963/63-1201M"
 ---
 **1.** [Prière]. Que le Seigneur brise pour nous ce matin le Pain de Vie, qui est la révélation de Jésus-Christ. Il y a un instant, le Saint-Esprit a ôté le cancer d'une femme venue du Texas. Il y a aussi une femme de pasteur qui est venue. Elle était si nerveuse qu'elle avait du mal à respirer. Le Seigneur me l'avait montrée en vision assise ici. J'ai vu aussi que son mari avait un ulcère parce qu'il était préoccupé par sa femme. Dieu a apaisé cette femme, et je peux dire que cet ulcère est terminé.
 

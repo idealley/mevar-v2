@@ -58,6 +58,7 @@ bible_refs:
   - "Psaumes 16:8-11"
   - "Psaumes 22:1"
   - "Romains 9:16"
+original: "branham/1964/64-0312"
 ---
 **1.** [Prière]. Chaque auditoire est composé d'esprits, et parfois Jésus a ainsi été empêché de faire beaucoup de guérisons dans son propre pays [Mat. 13:58]. Un jour il a dû s'occuper d'un sourd à l'écart de la foule [Marc 7:33]. Lisons Luc 24:13 à 32
 

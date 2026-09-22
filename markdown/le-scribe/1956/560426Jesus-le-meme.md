@@ -53,6 +53,7 @@ bible_refs:
   - "Marc 16"
   - "Matthieu 11:25"
   - "Psaumes 22:6"
+original: "branham/1956/56-0426"
 ---
 **Résumé de : “Jésus-Christ le même” (26 avril 1956)**
 

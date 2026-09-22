@@ -71,6 +71,7 @@ bible_refs:
   - "Nombres 27:21"
   - "Romains 4:17"
   - "Romains 4:20"
+original: "branham/1962/62-0724"
 ---
 *Résumé de!: “Nous voudrions voir Jésus” (24 juillet 1962, soir)*
 

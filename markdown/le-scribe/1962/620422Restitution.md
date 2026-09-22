@@ -111,6 +111,7 @@ bible_refs:
   - "Romains 8:30"
   - "Zacharie 14:7"
   - "Ézéchiel 37:9"
+original: "branham/1962/62-0422"
 ---
 **RESTITUTION DE L'ARBRE DE L'EPOUSE**
 

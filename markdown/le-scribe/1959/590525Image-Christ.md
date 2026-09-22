@@ -45,6 +45,7 @@ bible_refs:
   - "Jean 3:3"
   - "Jean 6:44"
   - "Zacharie 4:6"
+original: "branham/1959/59-0525"
 ---
 “Des images de Christ” (25 mai 1959)
 

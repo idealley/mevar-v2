@@ -63,6 +63,7 @@ bible_refs:
   - "Romains 5:19"
   - "Zacharie 14:7"
   - "Ésaïe 7:10-16"
+original: "branham/1959/59-1227M"
 ---
 *Un Super-Signe*
 *A Super Sign*

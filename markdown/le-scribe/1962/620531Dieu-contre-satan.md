@@ -53,6 +53,7 @@ bible_refs:
   - "Josué 24:14-15"
   - "Proverbes 18:10"
   - "Psaumes 91:7"
+original: "branham/1962/62-0531"
 ---
 *Résumé de!: “La guerre entre Dieu et Satan” (31 mai 1962, soir)*
 

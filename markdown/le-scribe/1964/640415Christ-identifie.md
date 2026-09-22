@@ -68,6 +68,7 @@ bible_refs:
   - "Luc 2:48"
   - "Philippiens 3:13"
   - "Zacharie 14:7"
+original: "branham/1964/64-0415"
 ---
 *Christ est identifié en tous les âges comme étant le même*
 *15 avril 1964, mercredi soir, Tampa (Floride)*

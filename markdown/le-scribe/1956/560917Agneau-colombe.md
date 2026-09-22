@@ -34,6 +34,7 @@ themes:
   - "Amour maternel"
 pdf_url: "http://le-scribe.org/pdfiles/560917Agneau-colombe.pdf"
 llm_cleaned: true
+original: "branham/1956/56-0917"
 ---
 **1.** Une fois le jugement terminé lors du Déluge, la colombe, symbole de paix, est revenue avec un rameau d'olivier. Elle peut voler comme le corbeau charognard, mais son régime alimentaire est différent. Elle est faite différemment et n'a pas de bile. Elle ne peut manger que des choses pures. C'est l'image d'un chrétien ayant la Colombe dans son cœur. Il ne peut supporter les choses du monde. Il n'a pas de bile, pas d'amertume en lui. Il est doux.
 

@@ -92,6 +92,7 @@ bible_refs:
   - "Matthieu 24"
   - "Matthieu 24:6"
   - "Nombres 16:1-40"
+original: "branham/1963/63-0319"
 ---
 **Résumé de!: “Deuxième Sceau” (19 mars 1963 soir)**
 

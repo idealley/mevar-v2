@@ -47,6 +47,7 @@ bible_refs:
   - "Nombres 19"
   - "Nombres 19:9"
   - "Ésaïe 1:18"
+original: "branham/1956/56-0120"
 ---
 **1.** Je suis heureux d'avoir eu un court temps de communion avec le frère Jackson. Peu importe que son église soit petite. La communion sera éternelle de l'autre côté. Notre planning est déjà très chargé pour l'année. Nous aurons une tente de douze mille places au sud du Canada. J'ai noté que les hommes sur terre sont tous les mêmes quand ils deviennent chrétiens. Vous savez que ce sont des frères. Je suis venu autrefois à Battle Creek, mais, durant la campagne, une vision m'avait envoyé ailleurs, et j'espérai revenir au Michigan pour terminer mes réunions.
 

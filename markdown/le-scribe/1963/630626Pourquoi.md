@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 11"
   - "Jean 15:5"
   - "Jérémie 8:22"
+original: "branham/1963/63-0626"
 ---
 **Résumé de!: “Pourquoi ?” (26 Juin 1963, soir)**
 

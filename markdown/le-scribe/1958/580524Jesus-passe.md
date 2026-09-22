@@ -60,6 +60,7 @@ bible_refs:
   - "Luc 18:37-38"
   - "Psaumes 103:3"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0524"
 ---
 **1.** [Prière]. Deux jours ne suffisent pas pour ce que nous voudrions faire. Il faut du temps pour que les malades guéris témoignent à d’autres, et ainsi de suite. Je suis heureux de voir mon ami Harry Burt Caul ici-présent. Je ne l’avais pas vu depuis des années, et nous avons beaucoup chassé ensemble dans ces montagnes.
 

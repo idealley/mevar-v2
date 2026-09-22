@@ -59,6 +59,7 @@ bible_refs:
   - "Romains 4:20"
   - "Romains 9:16"
   - "Ézéchiel 20:12"
+original: "branham/1958/58-0127"
 ---
 **Résumé de : “Jéhovah-Jiré” (27 janvier 1958, soir)**
 

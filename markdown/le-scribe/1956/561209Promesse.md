@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 1:29-32"
   - "Jean 5:24"
   - "Luc 12:8"
+original: "branham/1956/56-1209A"
 ---
 *Résumé de : “La promesse faite par Dieu” ( 9 décembre 1956)*
 

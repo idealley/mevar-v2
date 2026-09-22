@@ -66,6 +66,7 @@ bible_refs:
   - "Matthieu 4:23-25"
   - "Romains 10:17"
   - "Romains 8:28"
+original: "branham/1951/51-0501"
 ---
 **1.** *Exhortation au sujet de la guérison* (1er mai 1951, soir)
 

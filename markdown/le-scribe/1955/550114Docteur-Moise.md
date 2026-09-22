@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 2:15"
   - "Osée 11:1"
   - "Proverbes 14:12"
+original: "branham/1955/55-0114"
 ---
 Résumé de : “Docteur Moïse” (14 janvier 1955, soir)
 

@@ -73,6 +73,7 @@ bible_refs:
   - "Lévitique 25:25"
   - "Romains 4:17"
   - "Zacharie 14:7"
+original: "branham/1949/49-1225"
 ---
 **LA DIVINITE DE JESUS-CHRIST**
 *THE DEITY OF JESUS-CHRIST*

@@ -91,6 +91,7 @@ bible_refs:
   - "Jean 12:38"
   - "Jean 14:2-3"
   - "Jean 6:31"
+original: "branham/1963/63-0323"
 ---
 **Résumé de!: “Le sixième Sceau” (23 mars 1963 soir)**
 

@@ -44,6 +44,7 @@ bible_refs:
   - "Matthieu 5:47,48"
   - "Romains 8:1"
   - "Romains 8:30"
+original: "branham/1957/57-0419"
 ---
 **Résumé de!: “La perfection” (19 avril 1957, soir)**
 

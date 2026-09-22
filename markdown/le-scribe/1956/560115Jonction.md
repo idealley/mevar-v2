@@ -43,6 +43,7 @@ bible_refs:
   - "Joël 2:28"
   - "Luc 17:26"
   - "Luc 21:28"
+original: "branham/1956/56-0115"
 ---
 **LE CARREFOUR DU TEMPS**
 

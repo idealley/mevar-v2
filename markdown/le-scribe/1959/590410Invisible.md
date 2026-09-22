@@ -49,6 +49,7 @@ bible_refs:
   - "Hébreux 11:27"
   - "Jean 10:4"
   - "Jean 14:16-17,16"
+original: "branham/1959/59-0410"
 ---
 **1.** [Prière].
 

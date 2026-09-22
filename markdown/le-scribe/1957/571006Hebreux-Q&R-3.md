@@ -76,6 +76,7 @@ bible_refs:
   - "Genèse 4:16,17"
   - "Luc 17:26"
   - "Romains 8:1,4"
+original: "branham/1957/57-1006"
 ---
 **Résumé de!: “Hébreux, questions et réponses, troisième partie” (6 Octobre 1957, soir)**
 

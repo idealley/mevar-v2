@@ -52,6 +52,7 @@ bible_refs:
   - "Ésaïe 11:9,65"
   - "Ésaïe 38:1"
   - "Ésaïe 65:21-22"
+original: "branham/1963/63-0724"
 ---
 **1.** J'apprécie toutes ces sœurs ici, vêtues décemment, les cheveux longs. Ce matin j'ai été informé que le frère Dauch, âgé de 91 ans, venait de tomber, et qu'il respirait à peine. J'ai prié au pied de mon lit. J'ai pu prendre contact avec cet esprit, et il est revenu à la vie.
 

@@ -64,6 +64,7 @@ bible_refs:
   - "Luc 24:25-31"
   - "Matthieu 27:42"
   - "Ésaïe 9:6"
+original: "branham/1956/56-0401M"
 ---
 Résumé de : “Le puissant vainqueur” (1er avril 1956)
 

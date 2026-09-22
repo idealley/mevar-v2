@@ -49,6 +49,7 @@ bible_refs:
   - "Luc 18:42-43"
   - "Matthieu 28:29"
   - "Ésaïe 40:31"
+original: "branham/1957/57-0127E"
 ---
 **1.** [Prière]. Je remercie le Dr. Lee Vayle et les pasteurs qui ont coopéré à cette campagne, et l’auditoire pour sa fidélité aux réunions. J’aimerais parler avec chacun d’entre vous, mais ce n’est pas possible car la moisson est mûre. Mais nous nous verrons un jour de l’autre côté. Nous envisageons d’aller en Afrique, en Inde, au Japon, avec les plus grandes réunions religieuses de l’histoire. Il n’y a que 2 000 membres du Plein Evangile au Japon. Cette grande nation est sans Dieu et ils vénèrent Bouddha.
 

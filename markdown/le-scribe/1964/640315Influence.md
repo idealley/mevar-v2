@@ -66,6 +66,7 @@ bible_refs:
   - "Psaumes 16:8"
   - "Psaumes 51:7"
   - "Ésaïe 6:1-8"
+original: "branham/1964/64-0315"
 ---
 **Résumé de : “Influence” (15 mars 1964, après-midi)**
 

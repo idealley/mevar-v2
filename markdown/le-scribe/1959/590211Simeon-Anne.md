@@ -43,6 +43,7 @@ bible_refs:
   - "Luc 2:36-38"
   - "Romains 8:14"
   - "Ésaïe 49:15"
+original: "branham/1959/59-0211"
 ---
 **Résumé de : “Siméon et Anne” (11 février 1959, soir)**
 

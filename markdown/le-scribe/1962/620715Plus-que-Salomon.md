@@ -59,6 +59,7 @@ bible_refs:
   - "Marc 7:9,13"
   - "Matthieu 12:38"
   - "Ésaïe 9:6"
+original: "branham/1962/62-0715"
 ---
 Résumé de!: “Voici, il y a ici un plus grand que tout autre” (15 juillet 1962, après-midi)
 

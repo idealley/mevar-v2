@@ -45,6 +45,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Luc 8:43-50"
   - "Marc 5:30"
+original: "branham/1959/59-0406"
 ---
 “Un nouveau ministère” (6 avril 1959)
 

@@ -36,6 +36,7 @@ themes:
   - "présence du Saint-Esprit"
 pdf_url: "http://le-scribe.org/pdfiles/510721Vie-demons.pdf"
 llm_cleaned: true
+original: "branham/1951/51-0721"
 ---
 **1.** J’étais chez ma mère, et, après avoir bavardé avec elle, je suis allé me coucher, mais je n’ai pas pu m’endormir. Si cela vous arrive, faites attention, c’est peut-être Dieu qui s’occupe de vous. J’avais un poids sur le cœur, j’ai pensé que quelqu’un était malade, je me suis mis à genoux, mais je n’arrivais pas à vraiment prier. J’ai levé les yeux, j’ai vu du blanc dans un coin, et j’ai cru que maman avait laissé du linge repassé. Cela s’est approché de moi. Je suis entré dedans, ou c’est entré en moi, et je me suis retrouvé marchant dans un pays désert, et j’ai entendu un agneau bêler de façon pitoyable. J’ai cherché dans les buissons, et ce n’était pas un agneau, mais un appel humain : “Milltown ! Milltown !” Le mercredi suivant, j’ai questionné mon église, mais personne ne connaissait un endroit de ce nom. J’ai reposé la question le dimanche. Un frère, George Wright, connaissait l’endroit, un village de cinq cents ou mille habitants. J’ai annoncé que je m’y rendrais le samedi.
 

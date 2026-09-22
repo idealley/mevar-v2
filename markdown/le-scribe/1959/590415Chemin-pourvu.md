@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 25:37-40"
   - "Matthieu 7:23"
   - "Proverbes 14:12"
+original: "branham/1959/59-0415A"
 ---
 **1.** Je suis heureux d’être dans l’une des rares églises où on adore en Esprit, et de sentir ce réconfort en laissant couler l’Esprit de Dieu. J’avais demandé que soient enregistrés ces chants inspirés par l’Esprit, et je suis heureux que le Seigneur ait permis que cela se fasse.
 

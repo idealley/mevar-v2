@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 18:20"
   - "Philippiens 1:17"
   - "Romains 8"
+original: "branham/1957/57-0309B"
 ---
 *Je restaurerai* (9.03.1957)
 

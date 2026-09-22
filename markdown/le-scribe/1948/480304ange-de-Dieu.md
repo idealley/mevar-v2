@@ -58,6 +58,7 @@ bible_refs:
   - "Marc 6:5"
   - "Matthieu 4:23-24"
   - "Ésaïe 53:5"
+original: "branham/1948/48-0304"
 ---
 *Résumé de!: “L’Ange de Dieu” (4 mars 1948, soir)*
 

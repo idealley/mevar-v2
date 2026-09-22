@@ -71,6 +71,7 @@ bible_refs:
   - "Psaumes 42:2"
   - "Romains 4:20"
   - "Ésaïe 28:10-12"
+original: "branham/1963/63-0114"
 ---
 **Résumé de!: “Une trompette rend un son confus” (14 Janvier 1963)**
 

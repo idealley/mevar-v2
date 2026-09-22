@@ -38,6 +38,7 @@ bible_refs:
   - "Jean 3:3"
   - "Job 14:1-22"
   - "Job 19:25"
+original: "branham/1963/63-1118"
 ---
 *Service funèbre de Garnett Peake*
 *18 novembre 1963, lundi après-midi, Campbellsville (Kentucky)*

@@ -58,6 +58,7 @@ bible_refs:
   - "Psaumes 98:4"
   - "Zacharie 14:7"
   - "Ésaïe 53:5"
+original: "branham/1957/57-0804A"
 ---
 Résumé de : “Le grand ordre de mission” (4.08.1957)
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Job 33:24"
   - "Luc 21:28"
   - "Romains 8:1"
+original: "branham/1953/53-0326"
 ---
 **“Israël à la Mer Rouge (a)”**
 

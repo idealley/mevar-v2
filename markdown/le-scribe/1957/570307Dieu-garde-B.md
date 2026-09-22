@@ -62,6 +62,7 @@ bible_refs:
   - "Matthieu 24:35"
   - "Matthieu 3:2"
   - "Romains 9:22,1"
+original: "branham/1957/57-0307"
 ---
 Résumé de : “ Dieu est fidèle à sa Parole - 2” (7.03.1957)
 

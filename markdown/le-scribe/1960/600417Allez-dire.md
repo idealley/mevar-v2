@@ -62,6 +62,7 @@ bible_refs:
   - "Matthieu 15:26"
   - "Matthieu 16:18"
   - "Matthieu 28:18"
+original: "branham/1960/60-0417M"
 ---
 **1.** [Cantique, prière].
 

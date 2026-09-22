@@ -64,6 +64,7 @@ bible_refs:
   - "Philippiens 2:12"
   - "Proverbes 18:10"
   - "Psaumes 61:4"
+original: "branham/1962/62-0611"
 ---
 *C'est Moi, n'ayez pas peur* (11 juin 1962, soir)
 

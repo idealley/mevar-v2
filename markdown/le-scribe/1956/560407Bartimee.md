@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 12:32"
   - "Matthieu 18:6"
   - "Ésaïe 53:5"
+original: "branham/1956/56-0407"
 ---
 **Résumé de : “L'aveugle Bartmée” (7 avril 1956)**
 

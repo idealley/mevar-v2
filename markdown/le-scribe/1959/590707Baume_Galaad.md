@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 3:17"
   - "Psaumes 103:3"
   - "Ésaïe 53:5"
+original: "branham/1959/59-0707"
 ---
 “Un Baume en Galaad” (7 juillet 1959)
 

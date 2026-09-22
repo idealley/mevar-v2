@@ -41,6 +41,7 @@ bible_refs:
   - "Jean 4:46"
   - "Luc 17:26"
   - "Marc 9:14-29"
+original: "branham/1950/50-0814"
 ---
 **TÉMOIGNAGE**
 

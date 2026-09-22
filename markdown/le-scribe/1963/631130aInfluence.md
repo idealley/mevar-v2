@@ -53,6 +53,7 @@ bible_refs:
   - "Psaumes 84:11"
   - "Romains 8:39"
   - "Ésaïe 6:1-8"
+original: "branham/1963/63-1130B"
 ---
 **INFLUENCE**
 

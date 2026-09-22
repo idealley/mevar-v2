@@ -76,6 +76,7 @@ bible_refs:
   - "Matthieu 9:12"
   - "Romains 1:20,2"
   - "Romains 6:23"
+original: "branham/1963/63-0721"
 ---
 **Résumé de!: “Il se soucie de vous. Vous souciez-vous de lui ?” (21 juillet 1963 matin)**
 

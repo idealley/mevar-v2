@@ -70,6 +70,7 @@ bible_refs:
   - "Malachie 4"
   - "Psaumes 16:10"
   - "Romains 4:20"
+original: "branham/1962/62-1230M"
 ---
 **Résumé de!: “L’Absolu” (30 décembre 1962, matin)**
 

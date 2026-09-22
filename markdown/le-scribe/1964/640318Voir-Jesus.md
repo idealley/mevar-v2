@@ -68,6 +68,7 @@ bible_refs:
   - "Nombres 12:6"
   - "Philippiens 3:13-14"
   - "Éphésiens 4:11"
+original: "branham/1964/64-0318"
 ---
 **Résumé de!: “Messieurs, nous voudrions voir Jésus” (4 mars1964, soir)**
 

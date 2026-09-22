@@ -64,6 +64,7 @@ bible_refs:
   - "Malachie 4:24"
   - "Marc 16:17-18"
   - "Marc 7:13"
+original: "branham/1963/63-0731"
 ---
 *Résumé de!: “Dieu n’a pourvu qu’un seul chemin en toutes choses”, (31 Juillet 1963, soir)*
 

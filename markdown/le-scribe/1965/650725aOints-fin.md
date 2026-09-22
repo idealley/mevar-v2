@@ -78,6 +78,7 @@ bible_refs:
   - "Nombres 24:9"
   - "Romains 15:12"
   - "Zacharie 14:7"
+original: "branham/1965/65-0725M"
 ---
 **Résumé de : “Les oints du temps de la fin” (25 juillet 1965, matin)**
 

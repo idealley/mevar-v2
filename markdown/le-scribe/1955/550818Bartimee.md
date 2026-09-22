@@ -37,6 +37,7 @@ llm_cleaned: true
 bible_refs:
   - "Marc 10:46"
   - "Marc 10:46-53"
+original: "branham/1955/55-0818"
 ---
 *Résumé de : “L'aveugle Bartimée ” (18 août 1955, soir)*
 

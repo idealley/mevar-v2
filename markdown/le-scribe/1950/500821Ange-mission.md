@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 4:38"
   - "Matthieu 4:23-25"
   - "Nombres 20:11"
+original: "branham/1950/50-0821"
 ---
 **L'ANGE ET SON ORDRE DE MISSION**
 *THE ANGEL AND THE COMMISSION*

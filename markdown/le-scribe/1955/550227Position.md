@@ -52,6 +52,7 @@ bible_refs:
   - "Éphésiens 1:4"
   - "Éphésiens 1:4-5"
   - "Ésaïe 53:5"
+original: "branham/1955/55-0227A"
 ---
 *Résumé de : “Position d’un croyant en Christ” (27 février 1955, après-midi)*
 

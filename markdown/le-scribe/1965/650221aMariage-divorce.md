@@ -95,6 +95,7 @@ bible_refs:
   - "Proverbes 5:5"
   - "Romains 9:14-23"
   - "Ésaïe 53:2"
+original: "branham/1965/65-0221M"
 ---
 “Mariage et divorce” (21 février 1965, matin)
 

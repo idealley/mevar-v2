@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 8:57-58"
   - "Éphésiens 4:11"
   - "Ésaïe 53:5"
+original: "branham/1957/57-0226"
 ---
 *Nous voudrions voir Jésus* (26.02.1957)
 

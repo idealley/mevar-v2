@@ -57,6 +57,7 @@ bible_refs:
   - "Romains 8:30"
   - "Ésaïe 38:1-8"
   - "Ésaïe 53:5"
+original: "branham/1953/53-0328"
 ---
 **1.** ISRAEL ET L'EGLISE - 4 : ISRAEL DEVANT LE SERPENT D'AIRAIN (ou ISRAEL A KADES BARNEA)
 

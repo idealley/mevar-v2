@@ -36,6 +36,7 @@ bible_refs:
   - "2 Rois 4:29"
   - "Actes 19"
   - "Jean 4:46"
+original: "branham/1951/51-0722E"
 ---
 **1.** Merci pour votre lettre, pour votre coopération durant ces jours. Je n’ai jamais rencontré des gens aussi aimables. Merci pour votre offrande. Elle sera entièrement utilisée pour la gloire de Dieu. Je n’ai jamais prélevé d’offrande de toute ma vie. Un jour j’ai décidé de le faire parce que j’étais très endetté, et ma femme a décidé de m’accompagner “pour voir cela”. J’ai demandé au frère Wiseheart de prendre mon chapeau et de faire la quête. Quand j’ai vu une vieille sœur extraire quelques pièces de ses poches, cela m’a déchiré, et j’ai dit que je n’avais pas eu cette intention. Le frère Ryan m’a apporté un vieux vélo que j’ai repeint. Je l’ai vendu et j’ai pu payer mes dettes.
 

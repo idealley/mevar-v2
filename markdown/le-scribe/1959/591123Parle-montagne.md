@@ -44,6 +44,7 @@ bible_refs:
   - "Marc 11:20-24"
   - "Psaumes 34:8"
   - "Ésaïe 53:5"
+original: "branham/1959/59-1123"
 ---
 *Résumé de!: “Parle à cette montagne” (23 novembre 1959, soir)*
 

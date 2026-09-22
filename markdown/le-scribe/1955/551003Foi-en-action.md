@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 14:10"
   - "Jean 14:13"
   - "Romains 4:19-21"
+original: "branham/1955/55-1003"
 ---
 **LA FOI EN ACTION**
 

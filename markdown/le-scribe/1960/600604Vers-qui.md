@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 22:11-13"
   - "Matthieu 28:20"
   - "Proverbes 14:12"
+original: "branham/1960/60-0604"
 ---
 **1.** Je suis heureux de la présence du frère Ruddell et de son église. Il est comme un fils. J’ai travaillé avec son père. Après avoir suivi l’école biblique, cela n’a pas été facile pour lui à cause de sa timidité, et maintenant on voit le fruit de ses efforts, et ce n’est encore qu’un début.
 

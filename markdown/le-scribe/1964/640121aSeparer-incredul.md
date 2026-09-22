@@ -76,6 +76,7 @@ bible_refs:
   - "Nombres 6"
   - "Romains 3:4"
   - "Ésaïe 9:5"
+original: "branham/1964/64-0121"
 ---
 **Résumé de!: “La Parole de Dieu demande une séparation totale d’avec l'incrédulité”**
 *(21 Janvier 1964, matin)*

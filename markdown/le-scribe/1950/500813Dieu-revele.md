@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "2 Rois 7"
   - "Exode 3:1"
+original: "branham/1950/50-0813E"
 ---
 **1.** Nous sommes réunis afin de prier pour les malades. Lisons Exode 3:1 à 2
     “Moïse faisait paître le troupeau de Jéthro, son beau-père, sacrificateur de Madian ; et il mena le

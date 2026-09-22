@@ -57,6 +57,7 @@ bible_refs:
   - "Proverbes 28:13"
   - "Zacharie 9:9"
   - "Ésaïe 6:10"
+original: "branham/1959/59-1122"
 ---
 **1.** Je suis encore dans la joie de ce qui s’est passé hier soir. En me levant ce matin, je me sentais comme au sommet du monde. Je crois que c’est le début d’un nouveau ministère, et, en venant hier, j’ai senti l’opposition de Satan, Il fera tout pour m’en empêcher. Ce ministère est sur le point de se manifester. J’en parlerai demain soir.
 

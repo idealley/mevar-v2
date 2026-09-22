@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 6:47"
   - "Romains 8:28"
   - "Éphésiens 2:6"
+original: "branham/1962/62-0506"
 ---
 *Possédant toutes choses* (6 mai 1962, soir)
 

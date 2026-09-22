@@ -50,6 +50,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 6:37"
   - "Jérémie 8:22"
+original: "branham/1962/62-0622E"
 ---
 **1.** [Prière]. A ma naissance, à mon mariage où ma femme m'a attendu une heure à cause d'un appel à l'hôpital, etc., j'ai toujours été en retard, et j'espère l'être pour mes funérailles afin de servir le Seigneur. J'ai appris que mon ami, le frère Demos Shakarian, a été sérieusement malade. Je me souviens de Raymond Richey [NDT : Raymond T. Richey, 1893-1968] qui a eu une crise cardiaque alors que nous entrions dans la salle à Long Beach. Il avait été en Corée [NDT : en 1935-1936] et avait outrepassé ses forces. Moi aussi, il me semble ne pas avoir assez de temps, et cela me rend nerveux. Que le Seigneur me donne la sagesse pour maîtriser mon zèle. J'apprécie la communion fraternelle de ces réunions. Elles ne brillent pas autant qu'au début, mais, selon l'histoire, un réveil dure trois ans, et un pasteur donne le meilleur de lui-même en trois ans, puis il vit sur sa réputation. C'est pourquoi je vis par la Parole, et je crois que la Bible est ce qu'il y a de plus merveilleux. C'est le Saint-Esprit qui la rend vivante.
 

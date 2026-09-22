@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 15:7"
   - "Marc 11:23"
   - "Matthieu 13:45-46"
+original: "branham/1963/63-0717"
 ---
 **Résumé de!: “Paul, prisonnier de Christ” (17 juillet 1963 soir)**
 

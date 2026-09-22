@@ -75,6 +75,7 @@ bible_refs:
   - "Éphésiens 4:30"
   - "Ésaïe 28:10-12"
   - "Ésaïe 28:8-9"
+original: "branham/1959/59-1216"
 ---
 **Résumé de!: “Qu'est-ce que le Saint-Esprit ?” (16 décembre 1959, soir)**
 

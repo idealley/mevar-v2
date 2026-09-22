@@ -64,6 +64,7 @@ bible_refs:
   - "Romains 9:13"
   - "Éphésiens 2:6"
   - "Ésaïe 53:5"
+original: "branham/1956/56-0223"
 ---
 **1.** [Chant : "Crois seulement", prière]. Ce cantique, qui est chanté dans toutes les langues, est l'un de mes préférés. C'est celui de mes campagnes. Il sera chanté pour mes funérailles. Je crois que Jésus-Christ est le Fils de Dieu, qu'il revient sur terre, que je suis justifié par la foi. On m'a reproché de trop parler de Jésus. Mais on ne peut pas parler assez de lui. Je parlerai ce soir de l'Alliance car beaucoup ne connaissent pas leur position, et cela rend les guérisons difficiles. Il faut savoir comment s'approcher de Dieu pour ce qu'il a pourvu.
 

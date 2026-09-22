@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 7:9-10"
   - "Romains 4:20"
   - "Ésaïe 9:6"
+original: "branham/1959/59-0417"
 ---
 **1.** [Prière] … Il a dit : “Si mon peuple sur qui est invoqué mon nom se rassemble et prie, je l'exaucerai des cieux” [cf. 2 Chroniques 7:14]. Quelle promesse !
 

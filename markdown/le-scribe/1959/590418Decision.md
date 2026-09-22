@@ -68,6 +68,7 @@ bible_refs:
   - "Romains 3:4"
   - "Éphésiens 5:18"
   - "Ésaïe 35:8"
+original: "branham/1959/59-0418"
 ---
 **1.** [Prière] …
 

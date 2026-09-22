@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 12:42"
   - "Romains 4:21"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0517E"
 ---
 *Le péché d’incrédulité* (17 mai 1958, soir)
 

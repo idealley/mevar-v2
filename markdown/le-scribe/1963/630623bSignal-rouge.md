@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 24:32"
   - "Ésaïe 3:16"
   - "Ésaïe 5:1-7"
+original: "branham/1963/63-0623E"
 ---
 **Résumé de!: “Le clignotant rouge de sa venue” (23 juin 1963 soir)**
 

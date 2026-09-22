@@ -89,6 +89,7 @@ bible_refs:
   - "Hébreux 13:14"
   - "Hébreux 13:8"
   - "Hébreux 4:12"
+original: "branham/1960/60-1218"
 ---
 Résumé de “Le Son confus” (18.12.1960)
 

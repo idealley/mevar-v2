@@ -72,6 +72,7 @@ bible_refs:
   - "Luc 8:43-48"
   - "Matthieu 15:21-28"
   - "Ésaïe 40:3"
+original: "branham/1964/64-0305"
 ---
 **Résumé de!: “Persévérer” (5 mars 1964, soir)**
 

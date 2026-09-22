@@ -69,6 +69,7 @@ bible_refs:
   - "Nombres 12:6"
   - "Romains 4:20-21"
   - "Ésaïe 7:14"
+original: "branham/1964/64-0320"
 ---
 **1.** J’ai été surpris en voyant mon ami Joseph Boze ! Lisons Hébreux 1:1-3
     “Après avoir autrefois, à plusieurs reprises et de plusieurs manières, parlé à nos pères par les prophètes, - Dieu, dans ces derniers temps, nous a parlé par le Fils, qu'il a établi héritier de toutes choses, par lequel il a aussi créé le monde, - et qui, étant le reflet de sa gloire et l'empreinte de sa personne, et soutenant toutes choses par sa parole puissante, a fait la purification des péchés et s'est assis à la droite de la majesté divine dans les lieux très hauts”.

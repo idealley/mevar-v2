@@ -42,6 +42,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Psaumes 23:4"
   - "Zacharie 14:7"
+original: "branham/1958/58-0609"
 ---
 *Message à l'église de Laodicée* (9 juin 1958, soir)
 

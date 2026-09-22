@@ -65,6 +65,7 @@ bible_refs:
   - "Marc 16:15-18"
   - "Marc 7:33"
   - "Psaumes 103:3"
+original: "branham/1951/51-0727"
 ---
 **UNE SEULE VERITABLE EGLISE VIVANTE**
 *ONLY ONE TRUE LIVING CHURCH*

@@ -84,6 +84,7 @@ bible_refs:
   - "Romains 8:22"
   - "Romains 8:30"
   - "Zacharie 4:6"
+original: "branham/1962/62-0401"
 ---
 **1.** Avant d'interpréter le songe d'une personne, je dois le voir moi-même, car les gens omettent des détails. J'ai eu un songe il y a quelques semaines [cf. la prédication “La plus grande bataille jamais livrée” du 11 mars 1962, §300-315]. J'étais avec ma femme, et George Smith, qui m'avait entraîné rudement à la boxe autrefois, affrontait sur un ring de grands et jeunes gaillards qui n'ont pas tenu longtemps. J'ai dit à ma femme [Meda] : “C'est lui qui m'entraînait”. Puis un homme m'a proposé un petit canot blanc en plastique pour une traversée. Ce canot aurait pu longer le rivage, mais pas traverser. J'ai alors vu les frères Wood et Fred Sothmann dans un canot vert, avec tout un équipement de camping. Le gardien m'a proposé d'aller avec eux, mais je n'ai pas voulu car ils étaient inexpérimentés. Le gardien m'a dit : “Mais ils vous aiment. Pourquoi ne pas amasser de la nourriture pour eux ?”. Et j'ai trouvé un petit endroit isolé, c'était ce tabernacle, et j'y ai entreposé un tas de beaux légumes. Puis je me suis réveillé.
 

@@ -49,6 +49,7 @@ bible_refs:
   - "Romains 4:21"
   - "Romains 8:1"
   - "Ésaïe 53:7"
+original: "branham/1956/56-0805"
 ---
 Résumé de!: “L'Eglise et sa condition” (5 août 1956)
 

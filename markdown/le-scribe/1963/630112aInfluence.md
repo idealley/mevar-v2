@@ -60,6 +60,7 @@ bible_refs:
   - "Philippiens 1:21"
   - "Ésaïe 40:31"
   - "Ésaïe 6:1-8"
+original: "branham/1963/63-0112"
 ---
 **Résumé de!: “Influence” (12 Janvier 1963, matin)**
 

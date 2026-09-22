@@ -61,6 +61,7 @@ bible_refs:
   - "Luc 6:26"
   - "Marc 9:7"
   - "Ésaïe 53:1"
+original: "branham/1964/64-1205"
 ---
 *Le Chef-d'Œuvre de Dieu reconnu*
 *5 décembre 1964, samedi soir, Yuma (Arizona)*

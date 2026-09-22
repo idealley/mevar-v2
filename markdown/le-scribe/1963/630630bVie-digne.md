@@ -88,6 +88,7 @@ bible_refs:
   - "Matthieu 19:16-22"
   - "Matthieu 22:2-10"
   - "Romains 9:3"
+original: "branham/1963/63-0630E"
 ---
 **Résumé de!: “Votre vie est-elle digne de l'Evangile ?” (30 juin1963 soir)**
 

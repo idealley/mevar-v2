@@ -97,6 +97,7 @@ bible_refs:
   - "Éphésiens 2:19-20"
   - "Éphésiens 3:14-15"
   - "Ésaïe 9:5"
+original: "branham/1960/60-1210"
 ---
 **Résumé de!:** “L’âge de l’église de Philadelphie” (10 décembre 1960, soir)
 

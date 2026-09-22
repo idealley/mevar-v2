@@ -55,6 +55,7 @@ bible_refs:
   - "Jean 6:53"
   - "Nombres 25:1"
   - "Romains 16:1"
+original: "branham/1965/65-0815"
 ---
 **1.** Après une séance au stand de tir avec le jeune Joe Capps, nous avons fait un détour chez Billy, et j'ai été alors appelé au téléphone par le frère Capps. Dieu dispose toutes choses, car sans ce détour chez Billy, Capps n'aurait pas pu me contacter : son fils était en salle d'opération pour une péritonite grave. Tout va bien maintenant. J'espère pouvoir aller à la chasse aux écureuils ces jours-ci, c'est ma détente préférée. Je remercie Dieu pour votre pasteur Orman Neville qui est satisfait de vous. Ce matin, je parlerai seulement à cœur ouvert, car je n'ai pas de sujet précis.
 

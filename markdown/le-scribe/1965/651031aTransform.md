@@ -63,6 +63,7 @@ bible_refs:
   - "Romains 12:1-2"
   - "Ésaïe 14:12-14"
   - "Ésaïe 7:14"
+original: "branham/1965/65-1031M"
 ---
 **Résumé de : “La puissance de transformation” (31 octobre 1965, matin)**
 

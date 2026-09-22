@@ -65,6 +65,7 @@ bible_refs:
   - "Marc 11:24"
   - "Éphésiens 5:27"
   - "Ésaïe 53:5"
+original: "branham/1951/51-0717"
 ---
 **MANIFESTATION DE L’ESPRIT**
 *MANIFESTATION OF THE SPIRIT*

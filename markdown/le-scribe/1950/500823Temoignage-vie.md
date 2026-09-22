@@ -44,6 +44,7 @@ bible_refs:
   - "Luc 4:33"
   - "Marc 1:24"
   - "Matthieu 9:18"
+original: "branham/1950/50-0823"
 ---
 *23 août 1950, mercredi soir, Cleveland (Ohio)*
 

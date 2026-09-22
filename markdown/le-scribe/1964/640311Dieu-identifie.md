@@ -60,6 +60,7 @@ bible_refs:
   - "Nombres 18:15"
   - "Nombres 22"
   - "Nombres 23:1,14"
+original: "branham/1964/64-0311"
 ---
 Résumé de!: “Dieu est identifié par ses caractéristiques” (11 mars 1964 soir)
 

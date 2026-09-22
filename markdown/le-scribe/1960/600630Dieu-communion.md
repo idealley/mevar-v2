@@ -56,6 +56,7 @@ bible_refs:
   - "Philippiens 1:21"
   - "Psaumes 133:2"
   - "Romains 5:1"
+original: "branham/1960/60-0630"
 ---
 **LE MOYEN POURVU PAR DIEU POUR UNE COMMUNION AVEC DIEU**
 

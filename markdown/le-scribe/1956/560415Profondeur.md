@@ -45,6 +45,7 @@ bible_refs:
   - "Luc 2:25-31"
   - "Psaumes 42:7"
   - "Ésaïe 53:4-6"
+original: "branham/1956/56-0415"
 ---
 **Résumé de : "La profondeur appelle la profondeur" (15 avril 1956)**
 

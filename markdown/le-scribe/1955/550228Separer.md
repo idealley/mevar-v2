@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 5:19"
   - "Marc 16"
   - "Marc 6:3-6"
+original: "branham/1955/55-0228"
 ---
 **Résumé de : “Se séparer de l’incrédulité” (28 février 1955, soir)**
 

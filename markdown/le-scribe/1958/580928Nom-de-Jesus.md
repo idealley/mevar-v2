@@ -52,6 +52,7 @@ bible_refs:
   - "Matthieu 28:19"
   - "Romains 3:4"
   - "Éphésiens 4:11"
+original: "branham/1958/58-0928M"
 ---
 **1.** N'oubliez pas que ce n'est pas votre frère qui a mal agi, mais le diable. C'est donc le diable qu'il faut accuser, et non pas le frère. [Prière]. Comme hier, cette réunion est consacrée à l'étude de ce que cette assemblée croit.
 

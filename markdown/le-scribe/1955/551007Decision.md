@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 3:16"
   - "Nombres 13:30"
   - "Ésaïe 53:5"
+original: "branham/1955/55-1007"
 ---
 **LE POUVOIR DE DECISION-**
 *THE POWER OF DECISION*

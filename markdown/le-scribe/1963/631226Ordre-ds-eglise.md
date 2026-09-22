@@ -47,6 +47,7 @@ bible_refs:
   - "1 Jean 2:19"
   - "Actes 6:3"
   - "Matthieu 17:27"
+original: "branham/1963/63-1226"
 ---
 **Résumé de!: “L'ordre dans l'église” (26 décembre 1963 soir)**
 

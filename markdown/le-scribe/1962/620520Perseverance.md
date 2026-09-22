@@ -59,6 +59,7 @@ bible_refs:
   - "Marc 7:24-30"
   - "Romains 10:17"
   - "Romains 8:30"
+original: "branham/1962/62-0520"
 ---
 **Résumé de!: “Persévérance” (20 mai 1962, après-midi)**
 

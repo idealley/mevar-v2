@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 10:35"
   - "Jean 8:48"
   - "Éphésiens 4:11-12"
+original: "branham/1964/64-0614E"
 ---
 *Résumé de!: “L'insensé” (14 juin 1964, soir)*
 

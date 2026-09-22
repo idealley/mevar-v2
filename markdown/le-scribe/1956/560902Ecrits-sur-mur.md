@@ -49,6 +49,7 @@ bible_refs:
   - "Hébreux 12:1"
   - "Marc 13:29-30"
   - "Ésaïe 18:23"
+original: "branham/1956/56-0902"
 ---
 **1.** Le frère Neville et sa sœur accepteraient-ils de chanter un cantique ?... elle n'est pas encore là. Nous sommes ici ce soir pour adorer le Seigneur Jésus. Nous revenons du Saskatchewan où beaucoup ont été sauvés, et il y a eu de grands signes parmi nous. On a trouvé récemment un cancer chez notre frère Burns, et il n'en avait plus que pour quelques jours. Il sera de retour mercredi. A l'hôpital nous avons prié pour un jeune garçon, inconscient depuis dix semaines après un choc à la suite d'une rupture de freins. Je ne crois pas que les parents soient nés de nouveau, mais ils ont promis de le servir s'il réveillait leur enfant. Il a les jambes brisées. Joignez-vous à mes prières. On doit me téléphoner dès qu'il se réveillera.
 

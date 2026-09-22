@@ -91,6 +91,7 @@ bible_refs:
   - "Ésaïe 28:8"
   - "Ésaïe 53:5"
   - "Ésaïe 7:14"
+original: "branham/1964/64-1221"
 ---
 **Résumé de!: “Pourquoi fallait-il que ce soit des bergers” (21 décembre 1964, soir)**
 

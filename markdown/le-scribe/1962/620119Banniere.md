@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 14:10,5"
   - "Romains 10:17"
   - "Ésaïe 5:26"
+original: "branham/1962/62-0119"
 ---
 **UNE BANNIERE**
 

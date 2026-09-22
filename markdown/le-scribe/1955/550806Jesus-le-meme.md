@@ -56,6 +56,7 @@ bible_refs:
   - "Jude 3"
   - "Marc 16"
   - "Ésaïe 53:5"
+original: "branham/1955/55-0806"
 ---
 **1.** C'est un plaisir de revenir dans le Kentucky où je n'ai pas tenu beaucoup de réunions de guérison. Mais j'ai beaucoup prêché du côté de Burkersville où je suis né. Ma famille est enterrée à l'église Méthodiste de Whitehill, près de Glasgow, après Renox Creek. Ceci est une réunion interdénominationnelle, nous aimons le Seigneur, et voulons communier avec tous autour de ses bénédictions.
 

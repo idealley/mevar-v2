@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 5:24-34"
   - "Matthieu 12:38"
   - "Ésaïe 49:15-16"
+original: "branham/1963/63-0605"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (5 Juin 1963, soir)*
 

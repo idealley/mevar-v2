@@ -54,6 +54,7 @@ bible_refs:
   - "Marc 7:13"
   - "Matthieu 12:41"
   - "Psaumes 103:3"
+original: "branham/1962/62-0725"
 ---
 *Résumé de!: “Il y a ici plus que Salomon” (25 juillet 1962, soir)*
 

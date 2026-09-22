@@ -54,6 +54,7 @@ bible_refs:
   - "Malachie 3:10"
   - "Psaumes 103"
   - "Zacharie 14:7"
+original: "branham/1960/60-0109"
 ---
 “Nous voudrions voir Jésus” (le 9 janvier 1960)
 

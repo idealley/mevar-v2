@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 15:9"
   - "Matthieu 19:1-8"
   - "Éphésiens 2:9-10"
+original: "branham/1960/60-1127M"
 ---
 **IL N’EN ETAIT PAS AINSI AU COMMENCEMENT**
 *27 novembre 1960, dimanche matin, Shreveport (Louisiane). 49 minutes.*

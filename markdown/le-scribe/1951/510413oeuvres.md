@@ -55,6 +55,7 @@ bible_refs:
   - "Marc 9:38"
   - "Nombres 20:11"
   - "Psaumes 42:2"
+original: "branham/1951/51-0413"
 ---
 **LES ŒUVRES QUE JE FAIS RENDENT TÉMOIGNAGE DE MOI**
 *WORKS THAT I DO BEAR WITNESS OF ME*

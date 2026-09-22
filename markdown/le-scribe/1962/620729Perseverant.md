@@ -73,6 +73,7 @@ bible_refs:
   - "Romains 4:20"
   - "Romains 4:21"
   - "Ésaïe 55:11"
+original: "branham/1962/62-0729"
 ---
 *Persévérant (ou Persévérance)*
 *29 juillet 1962, dimanche après-midi, Victoria (British Columbia, Canada)*

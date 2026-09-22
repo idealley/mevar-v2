@@ -48,6 +48,7 @@ bible_refs:
   - "Romains 1:16"
   - "Zacharie 14:7"
   - "Ésaïe 53:5"
+original: "branham/1955/55-1120"
 ---
 **Résumé de : "Qu'y a-t-il dans ta main ?" (20 novembre 1955, après-midi)**
 

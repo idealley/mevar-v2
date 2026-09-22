@@ -100,6 +100,7 @@ bible_refs:
   - "Ésaïe 4:1-5"
   - "Ésaïe 65:17-25"
   - "Ésaïe 65:25"
+original: "branham/1964/64-0802"
 ---
 **Résumé de!: “La demeure future de l'Epoux céleste et de l'Epouse terrestre” (2 août1964)**
 

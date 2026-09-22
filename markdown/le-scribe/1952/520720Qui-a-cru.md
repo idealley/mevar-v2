@@ -55,6 +55,7 @@ bible_refs:
   - "Matthieu 8:17"
   - "Ésaïe 53"
   - "Ésaïe 53:1"
+original: "branham/1952/52-0720E"
 ---
 **“Qui a cru notre à ce qui nous était annoncé ?” (20.07.1952)**
 

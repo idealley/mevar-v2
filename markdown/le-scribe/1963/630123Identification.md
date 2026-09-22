@@ -67,6 +67,7 @@ bible_refs:
   - "Marc 16:18"
   - "Philippiens 2:5"
   - "Éphésiens 2:6"
+original: "branham/1963/63-0123"
 ---
 **Résumé de!: “Identification” (23 Janvier 1963, soir)**
 

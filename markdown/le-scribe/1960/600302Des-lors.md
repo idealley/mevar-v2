@@ -49,6 +49,7 @@ bible_refs:
   - "Matthieu 3:9"
   - "Matthieu 4:16-17"
   - "Ésaïe 53:5"
+original: "branham/1960/60-0302"
 ---
 “Dès ce moment” (le 2 mars 1960)
 

@@ -66,6 +66,7 @@ bible_refs:
   - "Jean 8:58"
   - "Luc 17:28,30"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0515"
 ---
 *Jésus-Christ est le même hier, aujourd'hui et éternellement*
 *15 mai 1958, jeudi soir, Fairfield (Maine)*

@@ -75,6 +75,7 @@ bible_refs:
   - "Nombres 22:22-35"
   - "Nombres 23:29"
   - "Nombres 23:9"
+original: "branham/1960/60-1207"
 ---
 *L'âge de l'église de Pergame* (7 décembre 1960, soir)
 

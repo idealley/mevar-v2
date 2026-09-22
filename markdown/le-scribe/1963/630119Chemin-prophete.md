@@ -60,6 +60,7 @@ bible_refs:
   - "Nombres 22"
   - "Proverbes 18:10"
   - "Ézéchiel 16"
+original: "branham/1963/63-0119"
 ---
 **Résumé de!: “Le chemin d’un vrai prophète” (19 Janvier1963)**
 

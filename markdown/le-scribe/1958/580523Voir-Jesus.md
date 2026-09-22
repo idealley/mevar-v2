@@ -62,6 +62,7 @@ bible_refs:
   - "Nombres 27:21,1"
   - "Psaumes 103:3"
   - "Zacharie 14:7"
+original: "branham/1958/58-0523"
 ---
 **Résumé de : “Nous voudrions voir Jésus” (23 mai 1958, soir)**
 

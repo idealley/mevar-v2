@@ -56,6 +56,7 @@ bible_refs:
   - "Romains 8:28"
   - "Tite 1:14"
   - "Ésaïe 48:20"
+original: "branham/1958/58-1005M"
 ---
 **1.** Je ne condamne pas les autres églises, mais les enseignements contraires aux Ecritures, et les choses qu'elles permettent. Je ne condamne pas les Catholiques, mais la doctrine de leur église, tout comme dans les dénominations Protestantes. Dieu apprécie la loyauté et la sincérité. Tout homme, même un coureur de jupons, apprécie une vraie femme loyale. Si vous êtes fidèles à ce que vous croyez, alors vous aurez foi en ce que vous dites.
 

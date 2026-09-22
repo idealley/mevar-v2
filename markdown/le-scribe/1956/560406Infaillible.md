@@ -70,6 +70,7 @@ bible_refs:
   - "Matthieu 28:20"
   - "Matthieu 8"
   - "Ésaïe 53"
+original: "branham/1956/56-0406"
 ---
 **Résumé de : “La Parole infaillible de Dieu” (6 avril 1956)**
 

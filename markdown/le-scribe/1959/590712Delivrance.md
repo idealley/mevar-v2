@@ -48,6 +48,7 @@ bible_refs:
   - "Luc 12:32"
   - "Nombres 13"
   - "Ésaïe 53:5"
+original: "branham/1959/59-0712"
 ---
 *Résumé de!: “Une délivrance totale” (12 juillet 1959, matin)*
 

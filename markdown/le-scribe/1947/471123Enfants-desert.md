@@ -58,6 +58,7 @@ bible_refs:
   - "Nombres 22:24"
   - "Nombres 22:8"
   - "Philémon 10"
+original: "branham/1947/47-1123"
 ---
 **LES ENFANTS DANS LE DESERT**
 *CHILDREN IN THE WILDERNESS*

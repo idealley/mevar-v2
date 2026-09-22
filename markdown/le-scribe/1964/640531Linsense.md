@@ -50,6 +50,7 @@ bible_refs:
   - "Malachie 3:1"
   - "Matthieu 24:24"
   - "Éphésiens 5:19"
+original: "branham/1964/64-0531"
 ---
 **L'INSENSE**
 

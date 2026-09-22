@@ -51,6 +51,7 @@ bible_refs:
   - "Luc 8:43-48"
   - "Marc 16"
   - "Marc 3:28-29"
+original: "branham/1958/58-0501"
 ---
 *1er mai 1958, jeudi soir, New York (New York)*
 

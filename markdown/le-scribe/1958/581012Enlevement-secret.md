@@ -47,6 +47,7 @@ bible_refs:
   - "Apocalypse 19:7"
   - "Luc 17:34,36"
   - "Marc 16:17"
+original: "branham/1958/58-1012"
 ---
 **Résumé de : “L’enlèvement secret de l’Eglise” (12 octobre 1958, matin)**
 

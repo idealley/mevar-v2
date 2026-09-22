@@ -42,6 +42,7 @@ bible_refs:
   - "Jean 10:7"
   - "Jean 15:7"
   - "Jean 5:24"
+original: "branham/1956/56-0129"
 ---
 *Résumé de!: “Le Surnaturel” (29 janvier 1956, matin)*
 

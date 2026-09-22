@@ -85,6 +85,7 @@ bible_refs:
   - "Romains 9:16"
   - "Éphésiens 2:2"
   - "Ésaïe 14:12"
+original: "branham/1963/63-1110E"
 ---
 **1.** [Prière].
 

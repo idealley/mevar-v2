@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 16:2"
   - "Jean 5:19"
   - "Zacharie 14:7"
+original: "branham/1957/57-0302"
 ---
 **1.** [Cantique, prière]. Je crois que la foi vient de ce qui est écrit, et que Dieu garde sa Parole. Lisons Jean 11:17 “Jésus, étant arrivé, trouva que Lazare était déjà depuis quatre jours dans le sépulcre.”
 

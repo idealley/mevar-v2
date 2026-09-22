@@ -46,6 +46,7 @@ bible_refs:
   - "Luc 7:11-16"
   - "Luc 8:41-56"
   - "Ésaïe 6:10"
+original: "branham/1950/50-0811"
 ---
 **LA PISCINE DE BETHESDA**
 *THE POOL OF BETHESDA*

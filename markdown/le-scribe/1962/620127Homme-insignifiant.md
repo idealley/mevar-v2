@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 6:44,37"
   - "Luc 7:36"
   - "Luc 7:39"
+original: "branham/1962/62-0127"
 ---
 **L'HOMME LE PLUS INSIGNIFIANT QUE JE CONNAISSE**
 

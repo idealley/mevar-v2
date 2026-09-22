@@ -45,6 +45,7 @@ bible_refs:
   - "Romains 3:12"
   - "Romains 8:37"
   - "Ésaïe 35:8"
+original: "branham/1957/57-0421S"
 ---
 *Résumé de!: “Le grand et puissant Conquérant” (21 avril 1957, matin)*
 

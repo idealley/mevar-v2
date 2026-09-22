@@ -56,6 +56,7 @@ bible_refs:
   - "Josué 5:14"
   - "Luc 19:40"
   - "Marc 11:24"
+original: "branham/1950/50-0819"
 ---
 **MONTRE-NOUS LE PÈRE**
 *SHOW US THE FATHER*

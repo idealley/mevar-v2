@@ -55,6 +55,7 @@ bible_refs:
   - "Matthieu 6:26"
   - "Romains 8:19"
   - "Éphésiens 4:8"
+original: "branham/1960/60-0712"
 ---
 **Résumé de : "Ecoutez-le" (le 12 juillet 1960)**
 

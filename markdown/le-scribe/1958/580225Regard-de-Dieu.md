@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 8:58"
   - "Psaumes 32"
+original: "branham/1958/58-0225"
 ---
 *Résumé de : "Le regard de Dieu" (25 février 1958, soir)*
 

@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 16"
   - "Marc 16:15"
   - "Matthieu 10"
+original: "branham/1958/58-0330A"
 ---
 *Propos sur les missions* (30 mars 1958, après-midi)
 

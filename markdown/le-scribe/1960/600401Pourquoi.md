@@ -39,6 +39,7 @@ bible_refs:
   - "Jérémie 8:22"
   - "Matthieu 15:9"
   - "Psaumes 16:10"
+original: "branham/1960/60-0401M"
 ---
 “Pourquoi ?” (le 1er avril 1960)
 

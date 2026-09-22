@@ -86,6 +86,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 1:6"
   - "Ésaïe 60:2"
+original: "branham/1962/62-0603"
 ---
 **Résumé de!: “L'évangélisation du temps de la fin” (3 juin 1962, matin)**
 

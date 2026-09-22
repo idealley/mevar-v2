@@ -71,6 +71,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Éphésiens 4:8"
   - "Ésaïe 7:14"
+original: "branham/1965/65-1204"
 ---
 *L'Enlèvement*
 

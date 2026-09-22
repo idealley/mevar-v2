@@ -50,6 +50,7 @@ bible_refs:
   - "Luc 9:35"
   - "Éphésiens 4:30"
   - "Ésaïe 53:5"
+original: "branham/1956/56-0224"
 ---
 *Résumé de : "Jéhovah Jireh" (24 février soir 1956)*
 

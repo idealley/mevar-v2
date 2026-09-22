@@ -64,6 +64,7 @@ bible_refs:
   - "Marc 16"
   - "Proverbes 14:12"
   - "Romains 8:30"
+original: "branham/1960/60-0606"
 ---
 “Vers qui irions-nous ?” (le 6 juin1960)
 

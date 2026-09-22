@@ -39,6 +39,7 @@ bible_refs:
   - "Psaumes 63"
   - "Ésaïe 28:8"
   - "Ézéchiel 9:4"
+original: "branham/1958/58-0611"
 ---
 **1.** [Prière]. Mes associés Mr. Mercier et Mr. Goad s'occupent des enregistrements et les vendent au tiers d'un prix normal. Nous le faisons pour aider les gens, et non pour vendre Jésus-Christ. Quant au livre "Un homme envoyé de Dieu", nous l'achetons au frère Lindsay et les revendons à prix réduit. Ce matin au restaurant un pasteur m'a dit que j'avais prié pour sa fille qui souffrait de crises d'épilepsie, et que depuis lors elle n'avait plus eu de crise. J'avais envoyé un mouchoir à un de ses voisins dont deux valvules cardiaques étaient obturées, et il va bien.
 

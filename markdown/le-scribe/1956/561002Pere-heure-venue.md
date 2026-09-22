@@ -47,6 +47,7 @@ bible_refs:
   - "Marc 8:18"
   - "Matthieu 5:28"
   - "Ésaïe 40"
+original: "branham/1956/56-1002A"
 ---
 **Père, l'heure est venue**
 

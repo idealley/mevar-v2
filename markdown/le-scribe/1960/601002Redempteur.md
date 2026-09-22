@@ -70,6 +70,7 @@ bible_refs:
   - "Ruth 3:4"
   - "Ruth 4:11"
   - "Ésaïe 3:16"
+original: "branham/1960/60-1002"
 ---
 Résumé de : “Le Parent Rédempteur” (le 02.10.1960)
 

@@ -44,6 +44,7 @@ bible_refs:
   - "Jean 5:19"
   - "Luc 8:43-48"
   - "Zacharie 14:7"
+original: "branham/1956/56-0421"
 ---
 **1.** En voyant ce tas de mouchoirs, je suis heureux que vous croyiez que c'est conforme à la Parole. En Afrique il y en avait seize sacs, et le journal a dit que j'étais superstitieux. Ils ne connaissent pas la Bible. Demain après-midi aura lieu la dernière réunion, et les cartes de prière seront distribuées. Je remercie le frère Glenn de permettre ainsi à chacun d'être le matin dans son assemblée. Chaque chrétien est tenu d'appartenir à une assemblée, et ne peut se contenter de rester chez lui à lire la Bible. Nous devons nous réunir. J'ai beaucoup apprécié la prédication du frère baptiste Johnson ce matin. Nous œuvrons tous pour la même cause.
 

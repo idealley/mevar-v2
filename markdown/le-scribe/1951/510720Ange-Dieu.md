@@ -46,6 +46,7 @@ bible_refs:
   - "Actes 27:21"
   - "Daniel 10:13"
   - "Marc 11:24"
+original: "branham/1951/51-0720"
 ---
 **L'ANGE DE DIEU**
 *THE ANGEL OF GOD*

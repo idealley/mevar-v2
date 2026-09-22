@@ -72,6 +72,7 @@ bible_refs:
   - "Marc 9:23"
   - "Matthieu 17:14-21"
   - "Philippiens 3:8"
+original: "branham/1963/63-0714M"
 ---
 **Résumé de!: “Pourquoi crier ? Parle !” (14 juillet 1963, matin)**
 

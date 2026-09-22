@@ -55,6 +55,7 @@ bible_refs:
   - "Jude 3"
   - "Marc 16"
   - "Ésaïe 53:5"
+original: "branham/1955/55-1113"
 ---
 *Résumé de : “Jésus-Christ le même hier, aujourd'hui, et éternellement” (13 novembre 1955, après-midi)*
 

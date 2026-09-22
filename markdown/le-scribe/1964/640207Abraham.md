@@ -50,6 +50,7 @@ bible_refs:
   - "Nombres 13"
   - "Proverbes 14:12"
   - "Romains 8:37"
+original: "branham/1964/64-0207"
 ---
 *Le patriarche Abraham* (7 février 1964, soir)
 

@@ -77,6 +77,7 @@ bible_refs:
   - "Matthieu 8:12"
   - "Romains 8:31"
   - "Éphésiens 4:30"
+original: "branham/1957/57-0925"
 ---
 **Résumé de!: "Hébreux, questions et réponses, première partie" (25 septembre 1957, soir)**
 

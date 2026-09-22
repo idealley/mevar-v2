@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 14:19,12"
   - "Matthieu 12:42"
   - "Romains 8:28"
+original: "branham/1958/58-0620"
 ---
 *Résumé de : "La reine du Midi" (20 juin 1958, soir)*
 

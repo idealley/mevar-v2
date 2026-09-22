@@ -50,6 +50,7 @@ bible_refs:
   - "Nombres 21"
   - "Nombres 22"
   - "Ésaïe 59:19"
+original: "branham/1953/53-0329"
 ---
 *Israël dans son pays (29. 03. 1953)*
 

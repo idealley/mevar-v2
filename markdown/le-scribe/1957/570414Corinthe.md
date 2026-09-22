@@ -60,6 +60,7 @@ bible_refs:
   - "Matthieu 7:23"
   - "Proverbes 14:12,16"
   - "Psaumes 1"
+original: "branham/1957/57-0414"
 ---
 **1.** Je suis enroué après 4 mois de prédication sans interruption, et j’ai prévenu le frère Neville que je parlerai peu ce matin. Nous avons reçu de nombreux appels téléphoniques, et j’ai vu que mon jeune fils était en train de manger des billes de verre. Cela nous a occupé une bonne partie de la nuit. Après ces réunions, je pars au Canada, puis outremer.
 

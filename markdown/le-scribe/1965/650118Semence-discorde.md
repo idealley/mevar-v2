@@ -52,6 +52,7 @@ bible_refs:
   - "Nombres 21:4-9"
   - "Ésaïe 29:13"
   - "Ésaïe 53:5"
+original: "branham/1965/65-0118"
 ---
 **Résumé de : “La semence de discorde” (18 Janvier 1965, soir)**
 

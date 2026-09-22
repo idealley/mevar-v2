@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 7:13-14"
   - "Philippiens 2:12"
   - "Ézéchiel 9:4"
+original: "branham/1959/59-0301M"
 ---
 **ETROITE EST LA PORTE**
 *1er mars 1959, dimanche matin, Jeffersonville (Indiana).*

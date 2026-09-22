@@ -51,6 +51,7 @@ bible_refs:
   - "Marc 16:17-18"
   - "Nombres 24:13"
   - "Ésaïe 53:5"
+original: "branham/1950/50-0815"
 ---
 **QUELLE ATTITUDE ET QUI EST DIEU ?**
 *ATTITUDE AND WHOS IS GOD ?*

@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 11:21"
   - "Jean 9"
   - "Marc 7:24"
+original: "branham/1964/64-0619"
 ---
 **Résumé de : “Persévérant” (19 juin 1964, soir)**
 

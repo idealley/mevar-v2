@@ -64,6 +64,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 35:5"
   - "Ésaïe 7:14"
+original: "branham/1965/65-0218"
 ---
 **Résumé de : "La semence n'hérite pas avec la balle" (18 février 1965, soir)**
 

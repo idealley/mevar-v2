@@ -57,6 +57,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 5"
   - "Ésaïe 61"
+original: "branham/1956/56-0715"
 ---
 Résumé de : “La marque de la Bête” (15 juillet 1956)
 

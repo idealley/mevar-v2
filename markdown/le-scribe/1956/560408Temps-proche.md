@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 6:44"
   - "Zacharie 14:7"
+original: "branham/1956/56-0408E"
 ---
 **1.** [Prière]. Je suis toujours heureux d'être avec mes frères Joseph Boze et Elnar Ekberg, Hutchinson, et avec vous tous. Je suis très touché par tous vos cadeaux d'anniversaire. Si tout Chicago était comme cette assemblée, il n'y aurait plus besoin de police. Il en sera ainsi quand Jésus va venir pour recevoir ses serviteurs. Je veux en faire partie car il m'a aimé.
 

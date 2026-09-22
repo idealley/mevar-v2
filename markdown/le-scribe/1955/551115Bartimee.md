@@ -55,6 +55,7 @@ bible_refs:
   - "Luc 18:35"
   - "Psaumes 34:8"
   - "Ésaïe 53:5"
+original: "branham/1955/55-1115"
 ---
 **1.** Jésus est ici, car nous sommes réunis en son Nom. On me dit toujours que je parle trop longtemps, car il y a des gens qui travaillent. Je vais essayer d'être plus bref ce soir. Nous avons une chaise roulante et une civière de moins depuis hier soir. Quant aux nouveaux convertis, trouvez une bonne église qui prêche l'Evangile et croit en la guérison divine. Il y a des pasteurs sur l'estrade qui croient en ce ministère. J'apprécie les églises des “Foursquare” . Il y a aussi les pasteurs Teeford, Roth McPherson, Cummings, O.L. Jaggers. Ce sont de chers frères. Il y a de petits contentieux entre ces églises, mais cela importe peu.
 

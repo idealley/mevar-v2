@@ -46,6 +46,7 @@ bible_refs:
   - "Matthieu 8"
   - "Ésaïe 53"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0518"
 ---
 **UNE FOI EPROUVEE DONNE DE BONS FRUITS**
 

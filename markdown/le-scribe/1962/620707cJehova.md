@@ -68,6 +68,7 @@ bible_refs:
   - "Proverbes 12:4"
   - "Romains 10:17"
   - "Ésaïe 61"
+original: "branham/1962/62-0707"
 ---
 **Résumé de!: “Jehova-Jiré . Troisième partie” (7 juillet 1962, soir)**
 

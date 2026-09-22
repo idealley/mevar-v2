@@ -40,6 +40,7 @@ bible_refs:
   - "Luc 17:30"
   - "Luc 4:16-21"
   - "Ésaïe 61:1-2"
+original: "branham/1965/65-0125"
 ---
 Résumé de : “Aujourd'hui cette Ecriture est accomplie” (25 Janvier 1965, soir)
 

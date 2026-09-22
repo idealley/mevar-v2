@@ -65,6 +65,7 @@ bible_refs:
   - "Marc 16:17"
   - "Romains 4:20"
   - "Ésaïe 53:5"
+original: "branham/1955/55-0109M"
 ---
 **1.** La semaine prochaine, nous débuterons un nouveau tour du monde : Chicago, Lubbock, Phoenix, puis la Californie, Honolulu. Merci de prier pour ma santé. Je dépends de vos prières quand je pars. Nous prions ici pour les malades, mais nous n'annonçons jamais de réunion de guérisons, car il n'y a pas de salle assez grande par ici, et il y a peu d'églises du plein Evangile dans la région.
 

@@ -53,6 +53,7 @@ bible_refs:
   - "Marc 11:22"
   - "Marc 11:22-23"
   - "Psaumes 23:4"
+original: "branham/1958/58-0530"
 ---
 Résumé de : “Une foi éprouvée par le temps” (30 mai 1958, soir)
 

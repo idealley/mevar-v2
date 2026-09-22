@@ -73,6 +73,7 @@ bible_refs:
   - "Romains 4:20"
   - "Ésaïe 1:6"
   - "Ésaïe 49:15-16"
+original: "branham/1962/62-0628"
 ---
 **1.** [Prière]. J’ai revu ce matin un homme qui était venu à une réunion, il y a une quinzaine d’années, et qui avait essayé de s’infiltrer dans la ligne de prière sans carte de prière parce qu’il voulait me parler. Il avait seulement voulu savoir comment s’épelait mon nom, et il était reparti satisfait. J’avais trouvé cela étrange, et je lui avais demandé la raison de sa question. Vingt ans auparavant, au début du mouvement de Pentecôte, lui et sa femme avaient reçu les dons du parler en langues et de l’interprétation prophétique. Et en arrivant en ville, il avait appris par la presse ma venue, et mon nom lui avait semblé familier. Avec son épouse, ils avaient recherché et retrouvé au grenier le recueil de leurs anciennes prophéties, dont celle-ci : “Ainsi dit le Seigneur, il arrivera dans le futur, juste avant le temps de la fin, que mon serviteur William Branham viendra prier pour les malades sur la côte Ouest”. C’était vers 1915, et je n’avais encore que 7 ou 8 ans.
 

@@ -69,6 +69,7 @@ bible_refs:
   - "Psaumes 81:16"
   - "Romains 9:10-13"
   - "Éphésiens 4:30"
+original: "branham/1960/60-0607"
 ---
 Résumé de “Entendre, accepter, et agir” (le 7 juin 1960)
 

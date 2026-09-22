@@ -79,6 +79,7 @@ bible_refs:
   - "Psaumes 110:1,16"
   - "Psaumes 61"
   - "Ésaïe 1:16"
+original: "branham/1960/60-1125"
 ---
 **Résumé de "Conférence" (le 25 novembre 1960)**
 

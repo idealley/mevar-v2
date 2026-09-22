@@ -39,6 +39,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Rois 18:36"
   - "Hébreux 11:6"
+original: "branham/1951/51-0928"
 ---
 **SUR TA PAROLE, SEIGNEUR**
 *AT THY WORD LORD*

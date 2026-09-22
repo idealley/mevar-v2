@@ -55,6 +55,7 @@ bible_refs:
   - "Luc 8:42"
   - "Marc 10:47"
   - "Marc 9:23"
+original: "branham/1964/64-0213"
 ---
 **Résumé de!: “Alors Jésus vint et appela” (13 février 1964, soir)**
 

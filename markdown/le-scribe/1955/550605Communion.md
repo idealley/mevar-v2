@@ -44,6 +44,7 @@ bible_refs:
   - "Hébreux 10:2"
   - "Job 19:25-27"
   - "Luc 17:26"
+original: "branham/1955/55-0605"
 ---
 **1.** Nous espérons de bonnes réunions dans la semaine qui vient, grâce à vos prières qui sont le seul moyen du succès. Si tous prient, alors Dieu agira. Mon ministère est de prier pour les malades, et c’est le responsable de la campagne qui prêche. Ce sont deux choses différentes. Les gens croient que je m’isole d’eux, mais j’aimerais les rencontrer. Mais j’ai appris que si je suis parmi les gens, je suis éloigné de Dieu. Nous aurons l’éternité pour communier ensemble. Quand nous étions enfants, mon père disait que nous ne pouvions pas aller nous baigner tant que la moisson n’était pas terminée. Je donne rendez-vous à chacun après cette vie ! Nous parlerons alors avec Daniel, avec Étienne…
 

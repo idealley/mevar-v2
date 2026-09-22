@@ -51,6 +51,7 @@ bible_refs:
   - "Matthieu 11:10"
   - "Zacharie 14:7"
   - "Ésaïe 7:10-14"
+original: "branham/1962/62-0624"
 ---
 **Résumé de!: “Le Super Signe” (24 juin 1962, après-midi)**
 

@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 4:9"
   - "Psaumes 23:4"
   - "Zacharie 14:7"
+original: "branham/1960/60-0301"
 ---
 **1.** *Lui-même prend soin de vous* (1er mars 1960)
 

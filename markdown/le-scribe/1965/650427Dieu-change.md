@@ -47,6 +47,7 @@ bible_refs:
   - "Nombres 24:8"
   - "Proverbes 14:12"
   - "Romains 9:13"
+original: "branham/1965/65-0427"
 ---
 *Résumé de : "Dieu change-t-il d'avis ?" (27 avril 1965, soir)*
 

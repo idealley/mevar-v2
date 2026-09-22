@@ -40,6 +40,7 @@ bible_refs:
   - "Marc 8:34-37"
   - "Matthieu 16:25"
   - "Psaumes 34:8"
+original: "branham/1956/56-0513"
 ---
 **Résumé de!: “Enseignement sur Moïse” (13 mai 1956, matin)**
 

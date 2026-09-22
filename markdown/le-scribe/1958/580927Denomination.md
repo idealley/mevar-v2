@@ -72,6 +72,7 @@ bible_refs:
   - "Romains 9:13"
   - "Romains 9:17"
   - "Ésaïe 1"
+original: "branham/1958/58-0927"
 ---
 **5.** Dans les réunions de guérison, votre foi naturelle ne peut pas faire grand chose. Elle peut prétendre posséder quelque chose, mais, s'il y a un doute dans le subconscient, cela ne marchera pas. Il faut donc, quand vous commencez à croire, que le subconscient prenne le relais de votre foi, et que la Foi de Dieu donne la confirmation.
 

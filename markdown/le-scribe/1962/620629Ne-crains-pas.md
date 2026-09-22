@@ -71,6 +71,7 @@ bible_refs:
   - "Luc 17:28-30"
   - "Luc 8:40-56"
   - "Matthieu 14:22"
+original: "branham/1962/62-0629"
 ---
 *Résumé de!: “N’ayez pas peur, c’est Moi” (29 juin 1962, soir)*
 

@@ -46,6 +46,7 @@ bible_refs:
   - "Hébreux 10:5"
   - "Romains 5:1"
   - "Éphésiens 2:20,1"
+original: "branham/1962/62-1111M"
 ---
 **Résumé de : “Consécration” (11 novembre 1962, matin)**
 

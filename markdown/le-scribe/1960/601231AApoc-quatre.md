@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 16"
   - "Philippiens 3:14"
   - "Ésaïe 40:3"
+original: "branham/1960/60-1231"
 ---
 Résumé de!: “Apocalypse, chapitre quatre – première partie” (31 décembre 1960, soir)
 

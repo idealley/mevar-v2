@@ -57,6 +57,7 @@ bible_refs:
   - "Romains 9:15,16"
   - "Romains 9:6-7"
   - "Romains 9:9"
+original: "branham/1953/53-0325"
 ---
 *Israël en Egypte* (25 mars 1953, soir)
 

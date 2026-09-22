@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 5:30"
   - "Éphésiens 4:30"
   - "Ésaïe 53:5"
+original: "branham/1951/51-0508"
 ---
 **TROUVERAI-JE LA FOI QUAND JE REVIENDRAI ?**
 *WILL I FIND FAITH WHEN I RETURN ?*

@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 7:24"
   - "Psaumes 34:8"
   - "Romains 8:38,39"
+original: "branham/1956/56-0617"
 ---
 *Résumé de!: “Le livre de l'Apocalypse est écrit en symboles” (17 juin 1956, matin)*
 

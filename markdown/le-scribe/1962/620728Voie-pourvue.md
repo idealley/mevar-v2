@@ -68,6 +68,7 @@ bible_refs:
   - "Romains 1:16"
   - "Zacharie 14:7"
   - "Ésaïe 35:8"
+original: "branham/1962/62-0728"
 ---
 *Dieu a pourvu un Chemin* (28 juillet 1962, soir)
 

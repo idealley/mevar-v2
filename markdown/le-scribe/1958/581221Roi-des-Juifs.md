@@ -54,6 +54,7 @@ bible_refs:
   - "Luc 14:15-24"
   - "Matthieu 2:1"
   - "Michée 5:1"
+original: "branham/1958/58-1221M"
 ---
 **Où est le Roi des Juifs**
 

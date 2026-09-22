@@ -70,6 +70,7 @@ bible_refs:
   - "Romains 4:20"
   - "Zacharie 14:7"
   - "Ézéchiel 4:4-7"
+original: "branham/1962/62-0407"
 ---
 **LE SIGNE DE SA VENUE**
 *THE SIGN OF HIS COMING*

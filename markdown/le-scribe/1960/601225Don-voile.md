@@ -71,6 +71,7 @@ bible_refs:
   - "Ésaïe 53:5"
   - "Ésaïe 66:8"
   - "Ésaïe 7:14"
+original: "branham/1960/60-1225"
 ---
 **Résumé de : “Le Don voilé de Dieu” (le 25.12.1960)**
 

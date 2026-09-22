@@ -54,6 +54,7 @@ bible_refs:
   - "Luc 16:19-31"
   - "Philippiens 2:5-11"
   - "Ésaïe 9:5,7"
+original: "branham/1964/64-0216"
 ---
 *Identification* (16 février 1964, soir)
 

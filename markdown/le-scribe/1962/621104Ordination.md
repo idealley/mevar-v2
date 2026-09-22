@@ -42,6 +42,7 @@ bible_refs:
   - "Jean 15:5"
   - "Jean 3:13"
   - "Psaumes 150:6"
+original: "branham/1962/62-1104E"
 ---
 **1.** Dieu est omniprésent. Il a dit : “Personne n’est monté au Ciel, si ce n’est le Fils de l’homme qui est dans le Ciel” [Jean 3:13]. Jésus nous a laissés deux commandements matériels : la communion et le baptême d’eau. Il n’y a rien d’autre [cf. §90]. Heureux ceux qui observent ses commandements pour avoir le droit de pénétrer dans l’Arbre de Vie, dans la Ville sainte, et “dehors les chiens et les débauchés” [Apocalypse 22:15]. La Cène est réglementée, car elle nous expose à la lumière.
 

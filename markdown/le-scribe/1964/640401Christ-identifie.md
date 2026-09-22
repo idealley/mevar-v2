@@ -57,6 +57,7 @@ bible_refs:
   - "Malachie 4"
   - "Marc 5:25-34"
   - "Zacharie 14:7"
+original: "branham/1964/64-0401"
 ---
 *Résumé de : “Le Christ de tous les âges identifié” (1er avril 1964, soir)*
 

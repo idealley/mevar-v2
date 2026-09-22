@@ -69,6 +69,7 @@ bible_refs:
   - "Éphésiens 1:13"
   - "Ésaïe 53:5"
   - "Ésaïe 9:6"
+original: "branham/1960/60-0522E"
 ---
 **“Adoption” (le 22 mai 1960, soir)**
 

@@ -61,6 +61,7 @@ bible_refs:
   - "Nombres 32:23"
   - "Psaumes 91:7"
   - "Romains 11:8,10"
+original: "branham/1960/60-0229"
 ---
 “La tempête annoncée” (le 28 février 1960)
 

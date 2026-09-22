@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 16"
   - "Romains 11:29"
   - "Ésaïe 53:5"
+original: "branham/1955/55-0611"
 ---
 Résumé de : “Qu’y a-t-il dans ta main ?” (11 juin 1955, soir)
 

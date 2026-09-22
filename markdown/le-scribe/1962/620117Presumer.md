@@ -53,6 +53,7 @@ bible_refs:
   - "Marc 16:17"
   - "Nombres 14:41"
   - "Ésaïe 28:11"
+original: "branham/1962/62-0117"
 ---
 *Présumer*
 *17 janvier 1962, mercredi soir, Phœnix (Arizona)*

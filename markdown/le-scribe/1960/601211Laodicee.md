@@ -58,6 +58,7 @@ bible_refs:
   - "Proverbes 12:4"
   - "Romains 11:15-27"
   - "Romains 11:20"
+original: "branham/1960/60-1211E"
 ---
 **L'AGE DE L'EGLISE DE LAODICEE**
 *THE LAODICEAN CHURCH AGE*

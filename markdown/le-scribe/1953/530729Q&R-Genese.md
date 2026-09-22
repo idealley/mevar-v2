@@ -96,6 +96,7 @@ bible_refs:
   - "Matthieu 24:32"
   - "Matthieu 25:1-12"
   - "Matthieu 5"
+original: "branham/1953/53-0729"
 ---
 *Questions et réponses sur la Genèse (29. 07. 1953)*
 

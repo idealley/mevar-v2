@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 17:1"
   - "Psaumes 103:3"
   - "Éphésiens 1:5"
+original: "branham/1958/58-0126"
 ---
 *26 janvier 1958, dimanche soir, Waterloo (Iowa)*
 

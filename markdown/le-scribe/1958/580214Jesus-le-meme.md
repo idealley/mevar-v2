@@ -59,6 +59,7 @@ bible_refs:
   - "Romains 5:17"
   - "Éphésiens 1:5"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0214"
 ---
 *Jésus-Christ est le même hier, aujourd'hui et éternellement (ou : Nous voudrions voir Jésus)*
 *14 février 1958, vendredi soir, Terre Haute (Indiana)*

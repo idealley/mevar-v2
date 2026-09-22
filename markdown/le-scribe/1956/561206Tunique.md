@@ -41,6 +41,7 @@ bible_refs:
   - "Jean 5:19"
   - "Marc 16"
   - "Psaumes 42:7"
+original: "branham/1956/56-1206"
 ---
 Résumé de : “Une tunique de seconde main” (6 décembre 1956)
 

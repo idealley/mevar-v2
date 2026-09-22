@@ -47,6 +47,7 @@ bible_refs:
   - "Matthieu 12:38"
   - "Nombres 27:21"
   - "Osée 11:1"
+original: "branham/1962/62-0721"
 ---
 **1.** [Prière]. Le Saint-Esprit nous a prouvé qu'il était ici. Les pasteurs ici présents seront heureux d'accueillir dans leurs églises les gens de passage. Je dis toujours aussi que c'est un péché "d'envoyer" les enfants à l'école du dimanche : allez avec eux !
 

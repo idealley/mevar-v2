@@ -47,6 +47,7 @@ bible_refs:
   - "Apocalypse 3:22"
   - "Daniel 5:25"
   - "Luc 17:26-30"
+original: "branham/1958/58-0618"
 ---
 **L'écriture sur le mur**
 

@@ -44,6 +44,7 @@ bible_refs:
   - "Job 19:25"
   - "Matthieu 24:35"
   - "Ruth 1:16"
+original: "branham/1955/55-1119"
 ---
 **Rédemption**
 

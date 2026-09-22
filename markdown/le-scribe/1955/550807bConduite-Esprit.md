@@ -44,6 +44,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 21:11"
   - "Ésaïe 53:5"
+original: "branham/1955/55-0807E"
 ---
 **1.** Lisons Luc 2:25-30
 

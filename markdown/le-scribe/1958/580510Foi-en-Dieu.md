@@ -58,6 +58,7 @@ bible_refs:
   - "Marc 11:22"
   - "Romains 4:17"
   - "Romains 4:21"
+original: "branham/1958/58-0510"
 ---
 *Ayez foi en Dieu* (10 mai 1958, soir)
 

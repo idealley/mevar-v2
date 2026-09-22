@@ -50,6 +50,7 @@ bible_refs:
   - "Romains 4:20"
   - "Zacharie 14:7"
   - "Ésaïe 28:10-11"
+original: "branham/1962/62-0521"
 ---
 **Résumé de!: “Convaincu, puis impliqué” (21 mai 1962, soir)**
 

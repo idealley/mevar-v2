@@ -55,6 +55,7 @@ bible_refs:
   - "Jérémie 8:22"
   - "Marc 11:24"
   - "Marc 5:6"
+original: "branham/1959/59-0813"
 ---
 “Pourquoi ?” (13 août 1959)
 

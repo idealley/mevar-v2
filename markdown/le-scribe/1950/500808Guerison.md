@@ -30,6 +30,7 @@ llm_cleaned: true
 bible_refs:
   - "Josué 1:6-7"
   - "Marc 16:17-18"
+original: "branham/1950/50-0808"
 ---
 **1.** Lisons Josué 1:6-7
    “Fortifie-toi et prends courage, car c’est toi qui mettras ce peuple en possession du pays que j’ai juré à leurs pères de leur donner. – Fortifie-toi seulement et aie bon courage, …”

@@ -46,6 +46,7 @@ bible_refs:
   - "Luc 2:25-30"
   - "Marc 11:24"
   - "Philippiens 3:10"
+original: "branham/1950/50-0405"
 ---
 **3 à 4**- Dans ma jeunesse, je n’ai pas eu beaucoup d’amis car je ne fumais pas et ne buvais pas. Puis quand, une fois converti, j’ai vu que l’Evangile était la puissance de Dieu, j’ai été considéré comme un fanatique. Mais j’ai ensuite rencontré des croyants qui m’ont accepté comme leur frère. Je compte sur vos prières. La prière est la clé qui ouvre toutes les portes de Dieu. Quand vous priez, croyez que vous recevez ce que vous demandez [cf. Marc 11:24; Mat. 21:22]. J’ai dit à un pasteur qui avait quitté son église d’y retourner, car Dieu n’appelle pas les gens à quitter leur église, mais à s’unir en lui.
 

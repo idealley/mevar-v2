@@ -64,6 +64,7 @@ bible_refs:
   - "Matthieu 8:23-27"
   - "Psaumes 23:4"
   - "Éphésiens 2:6"
+original: "branham/1963/63-1103"
 ---
 **Aller réveiller Jésus**
 

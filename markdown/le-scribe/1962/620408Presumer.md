@@ -58,6 +58,7 @@ bible_refs:
   - "Nombres 14:11"
   - "Nombres 14:37"
   - "Ésaïe 28:10"
+original: "branham/1962/62-0408"
 ---
 **Résumé de!: “Présumer” (8 avril 1962, matin)**
 

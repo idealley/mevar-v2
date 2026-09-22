@@ -57,6 +57,7 @@ bible_refs:
   - "Marc 16:17"
   - "Nombres 16"
   - "Ésaïe 9:5"
+original: "branham/1964/64-0719E"
 ---
 **1.** [Prière]. Avant de venir, je demande toujours à Dieu un passage qui vous soit utile. Bien des gens viennent me demander un “Ainsi dit le Seigneur” pour leurs bien-aimés, mais je ne peux pas le faire s'il ne m'a pas parlé auparavant. Cela ne doit pas se faire sur un élan, sinon je ne serais plus crédible. Par contre, je peux prier. Beaucoup de pasteurs sont venus ces derniers temps se faire rebaptiser au Nom du Seigneur Jésus-Christ. C'est le vrai baptême au Nom “du Père, Fils et Saint-Esprit”, car ce Nom, c'est le “Seigneur Jésus-Christ”. Je m'en tiens à la Parole, ma Haute Retraite, même si j'ai perdu beaucoup d'amis à cause de cela. Lui aussi a été traité de démon.
 

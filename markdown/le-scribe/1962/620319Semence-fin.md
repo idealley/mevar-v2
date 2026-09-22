@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 24"
   - "Romains 4:20"
   - "Ésaïe 66:8"
+original: "branham/1962/62-0319"
 ---
 **Résumé de!: “La semence-signe du temps de la fin” (19 mars 1962, soir)**
 

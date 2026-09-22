@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 10:42"
   - "Psaumes 42:7"
   - "Ésaïe 53:6"
+original: "branham/1952/52-0727"
 ---
 **“Conduit par l’Esprit” (27.07.1952)**
 

@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 8:12"
   - "Matthieu 2:1"
   - "Romains 8:28"
+original: "branham/1958/58-0112A"
 ---
 **Résumé de : “Pour accomplir ses prodiges” (12 janvier 1958, après-midi)**
 

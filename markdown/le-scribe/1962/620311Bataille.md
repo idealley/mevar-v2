@@ -83,6 +83,7 @@ bible_refs:
   - "Éphésiens 2:6"
   - "Éphésiens 6:11"
   - "Ésaïe 59:19"
+original: "branham/1962/62-0311"
 ---
 *Résumé de!: “La plus grande bataille jamais livrée” (11 mars 1962, matin)*
 

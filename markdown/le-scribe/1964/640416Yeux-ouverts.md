@@ -66,6 +66,7 @@ bible_refs:
   - "Marc 16:18"
   - "Psaumes 16:10"
   - "Ésaïe 7:14"
+original: "branham/1964/64-0416"
 ---
 **Résumé de!:** “Quand leurs yeux furent ouverts ils le reconnurent” (16 avril 1964, soir)
 

@@ -60,6 +60,7 @@ bible_refs:
   - "Jude 3"
   - "Marc 11:24"
   - "Ésaïe 53:5"
+original: "branham/1955/55-0603"
 ---
 Résumé de : "Jésus-Christ est le même hier, aujourd'hui, et éternellement" (3 juin 1955, soir)
 

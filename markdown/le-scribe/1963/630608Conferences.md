@@ -46,6 +46,7 @@ bible_refs:
   - "Éphésiens 5:27"
   - "Ésaïe 1:11-15"
   - "Ésaïe 1:18"
+original: "branham/1963/63-0608"
 ---
 *Conférences*
 

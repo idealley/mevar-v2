@@ -58,6 +58,7 @@ bible_refs:
   - "Hébreux 11:19"
   - "Matthieu 27:52"
   - "Ésaïe 53:5"
+original: "branham/1955/55-1118"
 ---
 **LA FOI D'ABRAHAM**
 *18 novembre 1955, vendredi soir, San Fernando (Californie)*

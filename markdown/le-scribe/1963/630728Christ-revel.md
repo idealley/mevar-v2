@@ -89,6 +89,7 @@ bible_refs:
   - "Malachie 4:5"
   - "Malachie 4:6"
   - "Marc 16:17-18"
+original: "branham/1963/63-0728"
 ---
 **1.** [Prière]. Nous sommes réunis pour savoir comment vivre aujourd'hui, et en quel jour nous vivons. J'ai obéi à la vision où il m'a demandé d'emmagasiner de la nourriture [NDT : allusion à une vision de mars 1962].
 

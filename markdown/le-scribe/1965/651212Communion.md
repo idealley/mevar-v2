@@ -42,6 +42,7 @@ bible_refs:
   - "Actes 5:1-11"
   - "Jean 6:53"
   - "Ésaïe 28:8,13"
+original: "branham/1965/65-1212"
 ---
 **1.** Nous en avons vu assez pour savoir que nous devons nous abandonner à Dieu et le servir. Nous voyons aussi que le monde devient fou. C'est le temps de la fin, et notre vie est si courte, alors que Dieu est infini, et qu’il n'a ni commencement ni fin.
 

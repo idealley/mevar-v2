@@ -94,6 +94,7 @@ bible_refs:
   - "Marc 16:17-18"
   - "Matthieu 1:18-19"
   - "Matthieu 22:11-14"
+original: "branham/1963/63-0324M"
 ---
 **Résumé de!: “Questions & réponses sur les Sceaux” (24 mars 1963, matin)**
 

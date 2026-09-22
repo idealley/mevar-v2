@@ -75,6 +75,7 @@ bible_refs:
   - "Matthieu 8:23-27"
   - "Nombres 12:6"
   - "Zacharie 14:7"
+original: "branham/1963/63-0117"
 ---
 **Résumé de!: “Réveiller Jésus” (17 Janvier 1963)**
 

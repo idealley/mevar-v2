@@ -49,6 +49,7 @@ bible_refs:
   - "Proverbes 18:10"
   - "Psaumes 103:5"
   - "Ésaïe 32:1-2"
+original: "branham/1963/63-0113M"
 ---
 **Résumé de!: “Relâchez la pression” (13 Janvier 1963, matin)**
 

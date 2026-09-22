@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 6:44"
   - "Ézéchiel 8"
   - "Ézéchiel 9:3"
+original: "branham/1955/55-0312"
 ---
 Résumé de : “La marque de christ” (12 mars 1955, soir)
 

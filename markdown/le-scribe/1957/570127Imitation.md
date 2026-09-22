@@ -45,6 +45,7 @@ bible_refs:
   - "Luc 5:37"
   - "Matthieu 11:29-30"
   - "Ézéchiel 36:26"
+original: "branham/1957/57-0127A"
 ---
 *Résumé de : “L’imitation du christianisme” (27 janvier 1957)*
 

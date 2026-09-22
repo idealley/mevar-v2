@@ -54,6 +54,7 @@ bible_refs:
   - "Malachie 3:1"
   - "Malachie 4:5-6"
   - "Ésaïe 52:11"
+original: "branham/1965/65-0124"
 ---
 **Résumé de : “Les douleurs de l'enfantement” (24 Janvier 1965, après-midi)**
 

@@ -56,6 +56,7 @@ bible_refs:
   - "Psaumes 23:4"
   - "Psaumes 34:8"
   - "Ésaïe 6:1-8"
+original: "branham/1963/63-0803E"
 ---
 *Résumé de!: “Influence” (3 Août 1963, soir)*
 

@@ -56,6 +56,7 @@ bible_refs:
   - "Matthieu 17:1"
   - "Psaumes 37:23"
   - "Romains 1:16"
+original: "branham/1957/57-0807"
 ---
 Résumé de : “Ecoutez-le” (7.08.1957)
 

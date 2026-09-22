@@ -62,6 +62,7 @@ bible_refs:
   - "Malachie 3"
   - "Malachie 3:6"
   - "Zacharie 14:7"
+original: "branham/1964/64-0617"
 ---
 Résumé de : “Le Christ identifié en tous les âges” (17 juin 1964, soir)
 

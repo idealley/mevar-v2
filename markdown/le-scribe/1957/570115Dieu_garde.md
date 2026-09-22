@@ -70,6 +70,7 @@ bible_refs:
   - "Matthieu 8:17"
   - "Éphésiens 4:30"
   - "Ésaïe 9:6"
+original: "branham/1957/57-0115"
 ---
 **1.** Nous sommes heureux d’être au service d’un tel Roi dans cette petite église qui n’arbore pas un nom de dénomination mais un titre : “Eglise pour tous, porte ouverte, maison de prière”. Cela ne veut pas dire qu’elle est pire ou meilleure que les autres églises. Le directeur d’un Institut luthérien de Minneapolis m’a écrit une lettre incendiaire de 22 pages. Il avait bravé une tempête de neige pour aller m’écouter, et “n’avait vu qu’un diseur de bonne aventure, à la théologie défaillante, et prétendant que le diable ne guérissait pas.” Il ajoutait que si j’avais 25 ans de ministère, il prêchait déjà avant que je ne vienne au monde.
 

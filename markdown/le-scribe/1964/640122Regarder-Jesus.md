@@ -68,6 +68,7 @@ bible_refs:
   - "Ésaïe 6"
   - "Ésaïe 9:5"
   - "Ézéchiel 1:16"
+original: "branham/1964/64-0122"
 ---
 *Regarder à Jésus* (22 janvier 1964, soir)
 

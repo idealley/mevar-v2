@@ -65,6 +65,7 @@ bible_refs:
   - "Romains 2:29"
   - "Romains 3:10-12,23"
   - "Romains 4:20"
+original: "branham/1959/59-0416"
 ---
 “El-Shaddaï” (16.04.1959)
 

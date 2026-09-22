@@ -33,6 +33,7 @@ pdf_url: "http://le-scribe.org/pdfiles/631201Ceremonie-mariage.pdf"
 llm_cleaned: true
 bible_refs:
   - "Hébreux 13:4"
+original: "branham/1963/63-1201X"
 ---
 *Résumé de!: “Cérémonie de mariage” (1er décembre 1963, 8 heures du matin)*
 

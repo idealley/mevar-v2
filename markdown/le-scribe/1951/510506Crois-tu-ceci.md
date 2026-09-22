@@ -59,6 +59,7 @@ bible_refs:
   - "Luc 1:13"
   - "Proverbes 30:8-9"
   - "Psaumes 121:1-2"
+original: "branham/1951/51-0506A"
 ---
 **CROIS-TU CECI ?**
 *BELIEVEST THOU THIS ?*

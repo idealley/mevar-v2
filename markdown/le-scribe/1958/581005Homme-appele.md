@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 4"
   - "Marc 16:17"
   - "Marc 5:25-30"
+original: "branham/1958/58-1005E"
 ---
 **Résumé de : “Un homme appelé par Dieu” (5 octobre 1958, soir)**
 

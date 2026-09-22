@@ -55,6 +55,7 @@ bible_refs:
   - "1 Rois 8:29-30"
   - "Luc 2:25-30"
   - "Marc 11:24"
+original: "branham/1951/51-0507"
 ---
 **1.** Le frère Hall m’a lu toutes ces lettres, et je suis heureux de lire tous ces témoignages. Une femme raconte qu’elle avait un cancer au dernier stade, et dans mon hôtel je lui ai décrit son état d’après une vision. Elle est guérie, et elle est dans l’auditoire. Des paralysés, des sourds, des muets, des aveugles ont été guéris. Demos Shakarian est présent. Et voici le Sénateur Upshaw. Je voudrais vous saluer tous à Jeffersonville avant de partir en Afrique, en Rhodésie [NDT : octobre], puis en Inde, avant de revenir par Jérusalem.
 

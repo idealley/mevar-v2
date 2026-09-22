@@ -58,6 +58,7 @@ bible_refs:
   - "Matthieu 7:22-23"
   - "Osée 4:6"
   - "Ésaïe 40:1-5"
+original: "branham/1963/63-0120M"
 ---
 *La voix de Dieu en ces derniers jours*
 *20 janvier 1963, dimanche matin, Phoenix (Arizona)*

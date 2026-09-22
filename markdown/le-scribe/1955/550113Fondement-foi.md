@@ -47,6 +47,7 @@ bible_refs:
   - "Jean 5:19"
   - "Jean 5:24"
   - "Marc 16:17"
+original: "branham/1955/55-0113"
 ---
 **Résumé de!: “Le fondement essentiel de la foi” (13 janvier 1955, soir)**
 

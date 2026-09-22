@@ -68,6 +68,7 @@ bible_refs:
   - "Psaumes 103:3"
   - "Psaumes 82:6"
   - "Romains 10:17"
+original: "branham/1964/64-0304"
 ---
 **Résumé de!: “Messieurs, nous voudrions voir Jésus” (4 mars1964, soir)**
 
