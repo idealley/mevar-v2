@@ -2,28 +2,39 @@
 
 Living list of stuff we know about and have decided to defer, with enough context to pick back up.
 
-## English bible-ref coverage gap
+## Bible-ref false positives from short book names
 
-**Status**: 442 / 1,206 branham markdown files have detected refs in `manifests/bible-refs.json`. Should be closer to 1,200 — every Branham sermon cites Scripture.
+**Symptom**: 60-odd `Esther <n>` refs in files that never mention Esther.
 
-**Cause**: `66-normalize-bible-en.mjs` was run BEFORE the LLM cleanup pass rewrote bodies. After LLM applied (`73-apply-llm.mjs branham`), the cleaned bodies have canonicalised refs that the regex would catch better. The English normalizer was not re-run.
+**Cause**: `Est` is an accepted abbreviation for Esther in `65-normalize-bible.mjs`, and `est` is the French verb. `c'est 11 heures` becomes `Esther 11`. The same shape hits `Job` (`Jb`), `Ruth`, `Amos`, `Ge`, `Ne`.
 
-**Fix** (5 min):
+**Fix**: drop the variants that collide with common French words, or require a chapter:verse pair (not a bare chapter) for the two-letter variants. The impossible-chapter filter added in goal 02 catches only the ones above the book's chapter count.
 
-```bash
-node scripts/66-normalize-bible-en.mjs           # re-scan branham/, merge into bible-refs.json
-node scripts/100-ingest-surrealdb.mjs            # rebuild cites edges (preserves embeddings)
-```
+## Le-Scribe summaries with no Branham link
 
-## Bogus refs from over-eager regex
+**Status**: 790 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 120 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 86 still ambiguous between two sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter.
 
-**Symptom**: e.g. `"Sophonie 155"` shows up — but Sophonie has only 3 chapters.
+**Fix**: a human pass over the 120, or model the summary→sermon relation as many-to-one on both sides.
 
-**Cause**: regex matches a book name followed by what's actually a paragraph number from the cleaned text (`...la sophonie. 155 Le frère...`).
+## Markdown files with no frontmatter
 
-**Fix**: bound chapter ≤ 150 in `65-normalize-bible.mjs` and `66-normalize-bible-en.mjs` (Psalms is the longest at 150). Also bound verse ≤ 176 (Ps 119). Easier: hardcode max-chapter per book.
+**Status**: 7 files — `markdown/local/*.md` (2) and 5 Le-Scribe files (`1950/500115Crois-tu`, `1962/620714Son-confus`, `1962/620623Perseverant`, `undated/5003xxDon&appel`, `undated/5602Combat-foi`). Every script that patches frontmatter skips them, so they carry no metadata and no bible refs.
 
-Currently affects ~50-100 records out of 8,810 — small noise, but the bogus refs aren't wrong, just impossible. Worth filtering at the normalizer level rather than post-hoc.
+**Fix**: run them through `64-add-frontmatter.mjs`, or drop them.
+
+## Branham `date` frontmatter does not match the sermon id
+
+**Symptom**: `markdown/branham/1958/58-0501.md` has `date: "1955-01-29"` and `subtitle: "55-0129"`; `62-0704` has `date: "1965-01-17"`.
+
+**Cause**: the metadata extractor read the date off the wrong element on branham.org. The sermon id is authoritative — that is why `49-link-le-scribe-branham.mjs` matches on the id, not on `date`.
+
+**Fix**: rebuild `date` from `sermon_id` for the branham source.
+
+## `npm install` fails in `web/`
+
+**Symptom**: `ERESOLVE`: `@vite-pwa/astro@1.2.0` peers `astro@^1 || … || ^5`, the project is on `astro@6.2.2`.
+
+**Fix**: upgrade or drop `@vite-pwa/astro`. Until then `npm install --legacy-peer-deps`.
 
 ## Two stubborn embedding failures
 
@@ -51,15 +62,6 @@ node scripts/130-seed-strongs.mjs          # parses TAGNT + TAHOT, merges Strong
 ## Auth not wired
 
 See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + the 7 steps documented there.
-
-## No Astro frontend yet
-
-The graph is queryable but there's no UI. Decisions to make when starting:
-
-- Astro vs SvelteKit (Astro better for content-heavy SSG, SvelteKit better if there's lots of interactivity)
-- How to handle SurrealDB connection in serverless / edge functions (HTTP transport per request, not pooled WebSockets)
-- Markdown rendering: directly from `markdown/` files at build time, or pulled from SurrealDB? (Files are cleaner; DB allows live editing.)
-- Image strategy: `images/mevar/` is the local copy; bake into static assets or serve from CDN?
 
 ## No production deployment
 

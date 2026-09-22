@@ -1,43 +1,28 @@
-# Astro Starter Kit: Minimal
+# mevar.org — the site
+
+Astro, static output. Every page is built from `markdown/` at the repo root;
+there is no database and no server at request time. Most visits come from
+Africa, so pages stay light and cache well.
+
+## Run it
 
 ```sh
-npm create astro@latest -- --template minimal
+npm install          # in this directory, not at the repo root
+npm run dev          # localhost:4321, mevar posts only (fast)
+npm run dev:all      # the full corpus, about 3,100 works — slow to start
+npm run build        # static site into ./dist/
+npm run preview      # serve ./dist/ as it will be served in production
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+`npm run dev` sets `CONTENT_SOURCES=mevar`; `npm run build` raises Node's heap
+to 8 GB because the full corpus does not fit in the default.
 
-## 🚀 Project Structure
+## Where things are
 
-Inside of your Astro project, you'll see the following folders and files:
+- `src/pages/` — one file per route, plus `works/` for the corpus itself
+- `src/components/`, `src/layouts/` — Astro and Svelte components
+- `src/content.config.ts` — how `markdown/` is loaded into content collections
+- `public/` — static assets served as-is
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+A change to the corpus means rerunning the pipeline scripts at the repo root,
+not editing anything here.
