@@ -2,10 +2,11 @@
 // Process the Ghost export into clean per-post markdown with proper frontmatter.
 //
 // Additive: markdown/mevar/ is ours once written. Only slugs with no file yet
-// are created; posts Ghost has edited since the last import are printed so a
-// human can decide what to carry over. The comparison is against the
-// `updated_at` the previous import recorded in manifests/mevar.json — file
-// mtimes are checkout times on a fresh clone and say nothing.
+// are created; posts Ghost has edited since their file was imported are
+// printed so a human can decide what to carry over. manifests/mevar.json keeps
+// the Ghost `updated_at` of the version each file was imported from, and it
+// only moves when 45 writes the file, so an edited post stays listed. File
+// mtimes would not do: they are checkout times on a fresh clone.
 //
 // Usage:
 //   node scripts/45-process-ghost.mjs [export.json]   # default: newest mevar.ghost.*.json at the repo root
@@ -145,11 +146,11 @@ for (const post of posts) {
   fm.push("");
 
   const filePath = path.join(outDir, `${post.slug}.md`);
-  if (fs.existsSync(filePath)) {
+  const exists = fs.existsSync(filePath);
+  if (exists) {
     // Existing markdown is ours — cleaned, patched, hand-edited. Never overwrite.
-    const imported = prev?.updated_at;
-    if (post.updated_at && imported && post.updated_at > imported) {
-      editedOnGhost.push({ slug: post.slug, was: imported, now: post.updated_at });
+    if (post.updated_at > prev.updated_at) {
+      editedOnGhost.push({ slug: post.slug, was: prev.updated_at, now: post.updated_at });
     }
   } else {
     fs.writeFileSync(filePath, fm.join("\n") + md + "\n");
@@ -177,7 +178,7 @@ for (const post of posts) {
     pathname: new URL(url).pathname.replace(/\/$/, "") || "/",
     ghost_id: post.id,
     uuid: post.uuid,
-    updated_at: post.updated_at ?? null,
+    updated_at: exists ? prev.updated_at : post.updated_at,
     has_import_tag: importTags.length > 0,
   };
   manifest.push(prev ? { ...prev, ...entry } : entry);
@@ -216,7 +217,7 @@ console.log(`mevar markdown:`);
 console.log(`  posts in export: ${posts.length}`);
 console.log(`  new slugs written: ${newSlugs.length}`);
 for (const slug of newSlugs) console.log(`    + ${slug}`);
-console.log(`  edited on Ghost since the last import: ${editedOnGhost.length}`);
+console.log(`  edited on Ghost since their file was imported: ${editedOnGhost.length}`);
 for (const e of editedOnGhost) console.log(`    ~ ${e.slug} (${e.was} → ${e.now})`);
 console.log(`  tags: ${tagsOut.length} (${tagsOut.filter((t) => t.post_count > 0).length} in use)`);
 console.log(`  authors: ${authorsOut.length}`);
