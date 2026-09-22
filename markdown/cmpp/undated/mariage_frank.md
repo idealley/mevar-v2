@@ -92,7 +92,7 @@ bible_refs:
   - "Jean 3"
   - "Jean 7"
   - "Jean 8"
-  - "Jude 14:15"
+  - "Jude 7"
 ---
 LE MARIAGE: PROBLEME ANCIEN
 

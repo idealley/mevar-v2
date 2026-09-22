@@ -141,8 +141,7 @@ const REF_RE = new RegExp(
 
 // ─── Impossible references ───────────────────────────────────────────────────
 // "Zephaniah 155" is a book name followed by a paragraph number, not a chapter.
-// Max chapter per book; for the one-chapter books the number that follows the
-// name is a verse, so their entry is the verse count instead.
+// Max chapter per book.
 const MAX_CHAPTER = {
   "Genesis": 50, "Exodus": 40, "Leviticus": 27, "Numbers": 36,
   "Deuteronomy": 34, "Joshua": 24, "Judges": 21, "Ruth": 4, "1 Samuel": 31,
@@ -150,19 +149,21 @@ const MAX_CHAPTER = {
   "2 Chronicles": 36, "Ezra": 10, "Nehemiah": 13, "Esther": 10, "Job": 42,
   "Psalms": 150, "Proverbs": 31, "Ecclesiastes": 12, "Song of Solomon": 8,
   "Isaiah": 66, "Jeremiah": 52, "Lamentations": 5, "Ezekiel": 48, "Daniel": 12,
-  "Hosea": 14, "Joel": 4, "Amos": 9, "Obadiah": 21, "Jonah": 4, "Micah": 7,
+  "Hosea": 14, "Joel": 4, "Amos": 9, "Obadiah": 1, "Jonah": 4, "Micah": 7,
   "Nahum": 3, "Habakkuk": 3, "Zephaniah": 3, "Haggai": 2, "Zechariah": 14,
   "Malachi": 4, "Matthew": 28, "Mark": 16, "Luke": 24, "John": 21, "Acts": 28,
   "Romans": 16, "1 Corinthians": 16, "2 Corinthians": 13, "Galatians": 6,
   "Ephesians": 6, "Philippians": 4, "Colossians": 4, "1 Thessalonians": 5,
   "2 Thessalonians": 3, "1 Timothy": 6, "2 Timothy": 4, "Titus": 3,
-  "Philemon": 25, "Hebrews": 13, "James": 5, "1 Peter": 5, "2 Peter": 3,
-  "1 John": 5, "2 John": 13, "3 John": 15, "Jude": 25, "Revelation": 22,
+  "Philemon": 1, "Hebrews": 13, "James": 5, "1 Peter": 5, "2 Peter": 3,
+  "1 John": 5, "2 John": 1, "3 John": 1, "Jude": 1, "Revelation": 22,
 };
 const MAX_VERSE = 176; // Psalm 119
 
 let dropped = 0;
 function isPossible(book, chapter, verses) {
+  // A one-chapter book cited without a verse ("Jude 23"): the number is the verse.
+  if (MAX_CHAPTER[book] === 1 && !verses.length) return Number(chapter) <= MAX_VERSE;
   if (Number(chapter) > MAX_CHAPTER[book]) return false;
   return !verses.some((v) => Number(v) > MAX_VERSE);
 }
