@@ -11,6 +11,7 @@ from Cloudflare, Ghost switched off". One goal per worktree and per PR.
 | 04 | [Drafts editorial pass](goal-04-drafts-editorial.md): the 7 drafts become publishable | 02 | Samuel reads each draft |
 | 05 | [Search and deploy](goal-05-search-and-deploy.md): Pagefind, Cloudflare Pages, Africa budget | 01, 03 | Cloudflare project, secrets, DNS |
 | 06 | [Email on Resend](goal-06-email-on-resend.md): signup, member import, publication emails | 01, 05 | Resend account, DNS, real import, every real send |
+| 07 | [Branham text](goal-07-branham-text.md): restore the text from branham.org, find spoken citations | 02 | none |
 
 [DISPATCH.md](DISPATCH.md) holds the text to paste for each goal. 01 and 02 can run in parallel. 04 can run any time after 02. 06 must be live
 before Ghost is cancelled, not before the site goes live.
