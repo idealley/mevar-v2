@@ -147,10 +147,12 @@ for (const post of posts) {
 
   const filePath = path.join(outDir, `${post.slug}.md`);
   const exists = fs.existsSync(filePath);
+  // A file with no manifest entry (imported by hand) adopts this export's version.
+  const imported = exists ? prev?.updated_at ?? post.updated_at : post.updated_at;
   if (exists) {
     // Existing markdown is ours — cleaned, patched, hand-edited. Never overwrite.
-    if (post.updated_at > prev.updated_at) {
-      editedOnGhost.push({ slug: post.slug, was: prev.updated_at, now: post.updated_at });
+    if (post.updated_at > imported) {
+      editedOnGhost.push({ slug: post.slug, was: imported, now: post.updated_at });
     }
   } else {
     fs.writeFileSync(filePath, fm.join("\n") + md + "\n");
@@ -178,7 +180,7 @@ for (const post of posts) {
     pathname: new URL(url).pathname.replace(/\/$/, "") || "/",
     ghost_id: post.id,
     uuid: post.uuid,
-    updated_at: exists ? prev.updated_at : post.updated_at,
+    updated_at: imported,
     has_import_tag: importTags.length > 0,
   };
   manifest.push(prev ? { ...prev, ...entry } : entry);
