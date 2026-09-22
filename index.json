@@ -76353,8 +76353,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1965/65-0822M.md",
-    "size_bytes": 112606,
-    "line_count": 1166
+    "size_bytes": 112655,
+    "line_count": 1167
   },
   {
     "source": "branham",
@@ -147604,10 +147604,10 @@
     "feature_image": null,
     "local_image": null,
     "llm_cleaned": true,
-    "original": null,
+    "original": "branham/1965/65-0822M",
     "local_md": "markdown/le-scribe/1965/650822Christ-revele.md",
-    "size_bytes": 25755,
-    "line_count": 149
+    "size_bytes": 25789,
+    "line_count": 150
   },
   {
     "source": "le-scribe",

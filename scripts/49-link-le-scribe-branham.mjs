@@ -5,10 +5,11 @@
 // Both ids start with the same date: "630112aInfluence" and "63-0112".
 // One Branham sermon that day → the link is certain. Several → disambiguate,
 // in this order:
-//   1. the Le-Scribe `subtitle` is often the English title verbatim;
-//   2. "matin" / "après-midi" / "soir" in the subtitle against Branham's
+//   1. the Le-Scribe `subtitle` sometimes names the sermon id outright;
+//   2. it is more often the English title, verbatim or in part;
+//   3. "matin" / "après-midi" / "soir" in the subtitle against Branham's
 //      M / A / E suffix;
-//   3. the a/b/c suffix of the Le-Scribe id against the day's sermons in
+//   4. the a/b/c suffix of the Le-Scribe id against the day's sermons in
 //      time order.
 // Anything still ambiguous is left unlinked and listed in
 // manifests/le-scribe-branham-unresolved.json. Never guessed.
@@ -78,7 +79,13 @@ const TIME_SUFFIX = [[/\bmatin\b/, "M"], [/\bapres[ -]?midi\b/, "A"], [/\bsoir\b
 function resolve(summary, candidates) {
   const subtitle = norm(summary.fields.subtitle);
 
-  // 1. English title, verbatim then contained
+  // 1. The subtitle is sometimes the sermon id itself. Only trust it when it
+  // names one of that day's sermons — most of these ids are stray ("65-0117"
+  // on a 1955 summary).
+  const named = candidates.filter((c) => c.id === summary.fields.subtitle?.trim());
+  if (named.length === 1) return [named[0], "sermon id in the subtitle"];
+
+  // 2. English title, verbatim then contained
   if (subtitle) {
     let hit = candidates.filter((c) => norm(c.fields.title) === subtitle);
     if (hit.length === 1) return [hit[0], "title"];
@@ -89,14 +96,14 @@ function resolve(summary, candidates) {
     if (hit.length === 1) return [hit[0], "title-part"];
   }
 
-  // 2. Time of day named in the subtitle
+  // 3. Time of day named in the subtitle
   for (const [re, suffix] of TIME_SUFFIX) {
     if (!re.test(subtitle)) continue;
     const hit = candidates.filter((c) => c.suffix === suffix);
     if (hit.length === 1) return [hit[0], "time-of-day"];
   }
 
-  // 3. a/b/c suffix of the Le-Scribe id → nth sermon of the day
+  // 4. a/b/c suffix of the Le-Scribe id → nth sermon of the day
   const letter = summary.id.match(/^\d{6}([a-c])/)?.[1];
   if (letter) {
     const nth = candidates["abc".indexOf(letter)];
