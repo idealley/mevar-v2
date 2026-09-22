@@ -2,6 +2,28 @@
 
 Living list of stuff we know about and have decided to defer, with enough context to pick back up.
 
+## Spelled-out scripture citations are not detected
+
+**Status**: 65 and 66 only match `Book chapter:verse` in numerals. Branham reads his text aloud instead: **2,948** occurrences of "`Saint John the 4th chapter`" / "`Kings, the 6th chapter`" in the Branham corpus, 365 of them naming the verse too ("`Saint Matthew the 4th chapter, the 23rd verse`"). None of those is in `bible-refs.json`, so a sermon's principal reading — the passage it opens with — is usually the one reference that is missing.
+
+**Fix**: a second pattern for `<Book>,? (the )?<N>(st|nd|rd|th) chapter(,? (and )?the <M>(st|nd|rd|th) verse)?`, with the ordinals mapped to numbers. Worth doing before the site ships reference-based navigation; it roughly doubles the coverage of the Branham corpus.
+
+Not every case is mechanical: `53-0512` reads "`Numbers, I read these words:`" and then quotes the passage without ever naming the chapter.
+
+## Printed page furniture is inside the sermon bodies
+
+**Status**: the PDF extractor merged the booklet's running headers and footers into the text. `THE SPOKEN WORD` appears **5,894** times across **840** Branham files, and `QUES TIONS A ND ANSWERS ON` (a spaced-out running header) 23 times. A reader sees it: `53-0729` reads "…and now we're 18 THE SPOKEN WORD at the eye age".
+
+It also feeds the bible-ref normalizer false positives, because the page number sits right after a book name: the 8 `Genesis 19 / 21 / 23 … / 33` refs in `53-0729` are all the page numbers of the booklet *Questions and Answers on Genesis*, and none of those chapters is cited anywhere in the sermon.
+
+**Fix**: strip the furniture at the extraction stage, then rerun 66. Doing it in the normalizer would clean the manifest and leave the visible text broken.
+
+## `47` truncates `bible_refs` alphabetically at 50
+
+**Status**: 90 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah` — 3,956 references in all. `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut.
+
+**Fix**: decide what the page should show, then either lift the cap or keep the references in order of appearance rather than alphabetically. The normalizer sorts them, so order of appearance is not recoverable today.
+
 ## `100-ingest-surrealdb.mjs` never deletes an edge
 
 **Symptom**: all eight edge types — `by`, `cites`, `mentions`, `mentions_place`, `has_theme`, `has_tag`, `contains`, `based_on` — go through the same insert-only `inChunks`. Re-ingesting after the corpus changed adds the new edges and leaves the old ones. Goal 02 dropped 374 impossible bible refs, so an existing database keeps 374 stale `cites` edges; a corrected `original` link leaves both `based_on` edges, since the unique index is on `(in, out)`.
