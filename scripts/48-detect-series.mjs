@@ -17,7 +17,7 @@
 //   1. Walk Ghost JSON posts; extract internal-bookmark targets per post.
 //   2. Keep only the bookmark pairs that pass the series test above.
 //   3. Connected components over the kept edges = series.
-//   4. Order members by explicit part number, else by published_at.
+//   4. Order members by explicit part number when both have one, else by date.
 //   5. Pick a series name = longest common title prefix, fallback to the
 //      first member's title minus the part suffix.
 //   6. Write manifests/mevar-series.json and lift `series` / `series_part`
@@ -168,10 +168,11 @@ for (const [root_, members] of groups) {
       explicit_part: partOf(p),
     };
   });
+  // Part numbers order two members that both carry one; otherwise publication
+  // date does. "Le nouveau ministère" (no number) came out a week before its
+  // "deuxième partie", and must not sort after it.
   enriched.sort((a, b) => {
     if (a.explicit_part != null && b.explicit_part != null) return a.explicit_part - b.explicit_part;
-    if (a.explicit_part != null) return -1;
-    if (b.explicit_part != null) return 1;
     return new Date(a.published_at) - new Date(b.published_at);
   });
 
