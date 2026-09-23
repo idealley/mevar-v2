@@ -85,3 +85,20 @@ know would 404:
 - `file web/public/brand/icon-192.png` says PNG.
 - Build time and peak memory of the full-corpus build, reported. They are
   inputs for goal 05.
+
+## From goal 05 (2026-09-23)
+
+Goal 05 ran before this goal. What it left for this one:
+
+- Build time and peak memory are measured in goal 05's PR (full build,
+  Mac: 230 s cold, 7.0 GB peak RSS); this goal measures again after
+  removing the duplicate mevar pages.
+- `works/[...slug].astro` does not give drafts `data-pagefind-body`.
+  Once the one filter in `src/lib/works.ts` stops building drafts, delete
+  the `indexed` constant and set `data-pagefind-body` unconditionally.
+- The taxonomy pages are lists of WorkCards: paginate them with
+  `PAGE_SIZE` from `src/lib/works.ts` (60), as the four category pages
+  are. No list page ships more than 60 cards.
+- The service worker already caches every navigation, root post URLs
+  included; nothing to change in `astro.config.mjs`.
+
