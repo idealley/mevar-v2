@@ -17,7 +17,9 @@ export default defineConfig({
     sitemap(),
     AstroPWA({
       registerType: "autoUpdate",
-      includeAssets: ["favicon.svg", "favicon.ico", "brand/logo.svg", "brand/icon-192.png", "brand/icon-512.png"],
+      // What every page shows. The manifest icons are fetched by the browser
+      // when a reader installs the app, not precached (icon-512 is 85 KB).
+      includeAssets: ["favicon.svg", "favicon.ico", "brand/logo.svg"],
         manifest: {
           name: "Mevar",
           short_name: "Mevar",
@@ -37,7 +39,7 @@ export default defineConfig({
           // The shell only. Pages and images are cached when a reader opens
           // them, never in bulk: the full corpus is 3,000+ pages, and our
           // readers are on metered phones.
-          globPatterns: ["_astro/*.{js,css}", "index.html", "hors-ligne/index.html", "brand/*.{svg,png}"],
+          globPatterns: ["_astro/*.{js,css}", "index.html", "hors-ligne/index.html"],
           // The plugin defaults this to "/", which would answer every
           // navigation with the home page once pages are not precached.
           navigateFallback: null,
