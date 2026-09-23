@@ -53,6 +53,7 @@ bible_refs:
   - "Jude 1:3"
   - "Luc 24:49"
   - "Luc 4:23"
+original: "branham/1955/55-0123E"
 ---
 **Résumé de :** *“Combattre avec force pour la foi” (23 janvier 1955, soir)*
 

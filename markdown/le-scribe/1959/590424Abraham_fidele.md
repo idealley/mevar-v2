@@ -56,6 +56,7 @@ bible_refs:
   - "Matthieu 27:46"
   - "Psaumes 22:1"
   - "Ésaïe 59:19"
+original: "branham/1959/59-0424A"
 ---
 “La foi d’Abraham” (24 avril 1959)
 

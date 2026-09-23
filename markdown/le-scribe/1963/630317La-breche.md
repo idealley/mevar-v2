@@ -81,6 +81,7 @@ bible_refs:
   - "Zacharie 3:8-9"
   - "Zacharie 4:10"
   - "Éphésiens 4:30"
+original: "branham/1963/63-0317E"
 ---
 **Résumé de!: “La brèche entre les 7 âges de l'Eglise et les 7 Sceaux” (17 mars 1963 soir)**
 

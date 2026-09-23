@@ -50,6 +50,7 @@ bible_refs:
   - "Proverbes 14:12"
   - "Romains 9:13"
   - "Ésaïe 53:5"
+original: "branham/1957/57-0922E"
 ---
 *Résumé de!: “Hébreux, chapitre 7, deuxième partie” (22 septembre 1957, soir)*
 

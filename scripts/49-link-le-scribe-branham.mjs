@@ -72,6 +72,11 @@ const norm = (s) =>
   (s ?? "").toLowerCase().normalize("NFD").replace(/\p{Diacritic}/gu, "")
     .replace(/[^a-z0-9]+/g, " ").trim();
 
+// Content words of a normalized title, crudely stemmed ("projects",
+// "projected" → "project").
+const STOP = new Set("and the of to in on is are was be it he his him god lord jesus christ when what who how why that this for with by from not we you".split(" "));
+const stems = (s) => new Set(s.split(" ").filter((w) => w.length > 2 && !STOP.has(w)).map((w) => w.replace(/(ing|ed|es|s)$/, "").slice(0, 6)));
+
 // Matched against norm(), which has already turned "après-midi" into "apres midi".
 const TIME_SUFFIX = [[/\bmatin\b/, "M"], [/\bapres midi\b/, "A"], [/\bsoir\b/, "E"]];
 
@@ -108,6 +113,13 @@ function resolve(summary, candidates) {
     const nth = candidates["abc".indexOf(letter)];
     if (nth) return [nth, "abc-suffix"];
   }
+
+  // 5. The English title in other words: "When Love Projects" for "When Love
+  // Is Projected". Trusted only when exactly one of the day's sermons shares a
+  // content word with the subtitle.
+  const words = stems(subtitle);
+  const hit = candidates.filter((c) => [...stems(norm(c.fields.title))].some((w) => words.has(w)));
+  if (hit.length === 1) return [hit[0], "title-words"];
 
   return [null, `${candidates.length} sermons that day`];
 }
@@ -173,8 +185,13 @@ function setField(file, key, value) {
   const text = fs.readFileSync(file, "utf8");
   const m = text.match(/^(---\n)([\s\S]*?)(\n---\n)([\s\S]*)$/);
   if (!m) return false;
-  const lines = m[2].split("\n").filter((l) => !l.startsWith(`${key}: `));
-  if (value) lines.push(`${key}: ${JSON.stringify(value)}`);
+  // Replaced where it stands, so a field another script appended after it
+  // (47's bible_refs) does not swap places with it on every run.
+  const lines = m[2].split("\n");
+  const i = lines.findIndex((l) => l.startsWith(`${key}: `));
+  const line = value ? [`${key}: ${JSON.stringify(value)}`] : [];
+  if (i === -1) lines.push(...line);
+  else lines.splice(i, 1, ...line);
   const out = m[1] + lines.join("\n") + m[3] + m[4];
   if (out === text) return false;
   fs.writeFileSync(file, out);

@@ -1,5 +1,7 @@
 #!/usr/bin/env node
-// Normalize French Bible references to a single canonical form: "Book chap:verse[-verse]".
+// Find French Bible references and record them in one canonical form,
+// "Book chap:verse[-verse]", in manifests/bible-refs.json. The text is never
+// changed: the preacher's words stay as written, only the ref is canonical.
 // Examples handled (illustrative — full list in BOOK_VARIANTS):
 //   "Mt 24:6" "Math. 24, 6" "Matth 24:5-7" "Matthieu 24 :5-7"
 //   "1Cor 5:20-21" "I Cor. 5:20-21" "1 Cor 5:20-21" "Première Corinthiens 5:20"
@@ -9,7 +11,7 @@
 // Strategy:
 //   1) Build a single regex of all book-name forms (sorted longest-first to avoid
 //      matching "Jean" inside "1 Jean"; numbered books detected with a prefix).
-//   2) Run replace() over every markdown body; emit canonical form.
+//   2) Match every markdown body; render each hit in canonical form.
 //   3) Collect found refs per file into manifests.
 //
 // CLI:
@@ -19,83 +21,9 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { BOOKS_FR as BOOKS, escRe } from "./bible-books.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
-
-// ─── Book dictionary ─────────────────────────────────────────────────────────
-// First entry of each row is the canonical name. Subsequent are accepted
-// variants (case-insensitive, diacritic-insensitive — see normForMatch()).
-// Trailing period and surrounding whitespace handled by the regex builder.
-const BOOKS = [
-  // Old Testament
-  ["Genèse", "Genese", "Gen", "Gn", "Gé", "Ge"],
-  ["Exode", "Ex", "Exo", "Exod"],
-  ["Lévitique", "Levitique", "Lev", "Lév", "Lv"],
-  ["Nombres", "Nb", "Nbr", "Nom", "Nombr", "Nomb"],
-  ["Deutéronome", "Deuteronome", "Deut", "Deu", "Dt"],
-  ["Josué", "Josue", "Jos", "Js"],
-  ["Juges", "Jug", "Jg", "Jgs"],
-  ["Ruth", "Rt", "Ru"],
-  ["1 Samuel", "1 Sam", "1Sam", "1S", "1Sm", "I Samuel", "I Sam"],
-  ["2 Samuel", "2 Sam", "2Sam", "2S", "2Sm", "II Samuel", "II Sam"],
-  ["1 Rois", "1 Roi", "1Roi", "1R", "1Rs", "I Rois"],
-  ["2 Rois", "2 Roi", "2Roi", "2R", "2Rs", "II Rois"],
-  ["1 Chroniques", "1 Chr", "1Chr", "1Ch", "1Chro", "I Chroniques", "I Chr"],
-  ["2 Chroniques", "2 Chr", "2Chr", "2Ch", "2Chro", "II Chroniques", "II Chr"],
-  ["Esdras", "Esd"],
-  ["Néhémie", "Nehemie", "Néh", "Neh", "Ne"],
-  ["Esther", "Est", "Esth"],
-  ["Job", "Jb"],
-  ["Psaumes", "Psaume", "Ps", "Psa", "Psau"],
-  ["Proverbes", "Prov", "Pro", "Pr", "Prv"],
-  ["Ecclésiaste", "Ecclesiaste", "Eccl", "Ecc", "Ec", "Qoh", "Qohélet", "Qo"],
-  ["Cantique des cantiques", "Cantique", "Cant", "Ct"],
-  ["Ésaïe", "Esaie", "Esaïe", "Esa", "Esaï", "Es", "És", "Is", "Isa", "Isaïe", "Isaie"],
-  ["Jérémie", "Jeremie", "Jér", "Jer", "Jr"],
-  ["Lamentations", "Lam", "Lm"],
-  ["Ézéchiel", "Ezechiel", "Ézéch", "Ezech", "Ez", "Éz"],
-  ["Daniel", "Dan", "Dn"],
-  ["Osée", "Osee", "Os", "Osé", "Hos"],
-  ["Joël", "Joel", "Jl", "Joe"],
-  ["Amos", "Am"],
-  ["Abdias", "Abd", "Ab"],
-  ["Jonas", "Jon", "Jna"],
-  ["Michée", "Michee", "Mich", "Mic", "Mi"],
-  ["Nahum", "Nah", "Na"],
-  ["Habacuc", "Hab", "Ha", "Hb"],
-  ["Sophonie", "Soph", "Sph", "So"],
-  ["Aggée", "Aggee", "Agg", "Ag"],
-  ["Zacharie", "Zach", "Zac", "Za"],
-  ["Malachie", "Mal", "Ml"],
-  // New Testament
-  ["Matthieu", "Matth", "Math", "Matt", "Mt"],
-  ["Marc", "Mc", "Mr"],
-  ["Luc", "Lc", "Lu"],
-  ["Jean", "Jn", "Je"],
-  ["Actes", "Actes des Apôtres", "Act", "Ac", "Actes des apotres"],
-  ["Romains", "Romain", "Rom", "Rm", "Ro"],
-  ["1 Corinthiens", "1 Corinthien", "1 Cor", "1Cor", "1Co", "1C", "I Corinthiens", "I Corinthien", "I Cor"],
-  ["2 Corinthiens", "2 Corinthien", "2 Cor", "2Cor", "2Co", "2C", "II Corinthiens", "II Corinthien", "II Cor"],
-  ["Galates", "Galate", "Gal", "Ga"],
-  ["Éphésiens", "Ephesiens", "Ephesien", "Éphésien", "Eph", "Éph", "Ep"],
-  ["Philippiens", "Phil", "Phl", "Php", "Ph"],
-  ["Colossiens", "Col", "Co"],
-  ["1 Thessaloniciens", "1 Thes", "1Thes", "1 Th", "1Th", "I Thessaloniciens", "I Thes"],
-  ["2 Thessaloniciens", "2 Thes", "2Thes", "2 Th", "2Th", "II Thessaloniciens", "II Thes"],
-  ["1 Timothée", "1 Tim", "1Tim", "1Ti", "1T", "I Timothée", "I Tim"],
-  ["2 Timothée", "2 Tim", "2Tim", "2Ti", "2T", "II Timothée", "II Tim"],
-  ["Tite", "Tt", "Tit", "Ti"],
-  ["Philémon", "Philemon", "Phm", "Phlm", "Phlmn"],
-  ["Hébreux", "Hebreux", "Hebreu", "Hébreu", "Héb", "Heb", "He"],
-  ["Jacques", "Jac", "Jacq", "Jc", "Jq"],
-  ["1 Pierre", "1 P", "1P", "1Pi", "1Pe", "I Pierre", "I P"],
-  ["2 Pierre", "2 P", "2P", "2Pi", "2Pe", "II Pierre", "II P"],
-  ["1 Jean", "1 Jn", "1Jn", "1J", "I Jean"],
-  ["2 Jean", "2 Jn", "2Jn", "2J", "II Jean"],
-  ["3 Jean", "3 Jn", "3Jn", "3J", "III Jean"],
-  ["Jude", "Jd"],
-  ["Apocalypse", "Apocal", "Apoc", "Apo", "Ap"],
-];
 
 // Match-key normalization: lowercase, strip diacritics, drop trailing periods,
 // collapse whitespace. Used both for building the lookup map AND when matching
@@ -128,7 +56,6 @@ const variantsSorted = [...ALL_VARIANTS]
   .map((v) => v.trim())
   .sort((a, b) => b.length - a.length);
 
-function escRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
 const BOOK_ALT = variantsSorted.map(escRe).join("|");
 
 // Allow optional trailing period and optional spaces before chapter number.
@@ -202,9 +129,11 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
 
 function normalize(md) {
   const found = [];
-  const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
+  for (const match of md.matchAll(REF_RE)) {
+    const [, bookVariant, , , verseEnd, extra] = match;
+    let [, , chap, verseStart] = match;
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
-    if (!canonical) return match;
+    if (!canonical) continue;
     // A one-chapter book cited without a verse ("Jude 23"): the number is the
     // verse. "Jude 1" alone stays the chapter, which is the whole book.
     if (MAX_CHAPTER[canonical] === 1 && !verseStart && chap !== "1") [chap, verseStart] = ["1", chap];
@@ -212,7 +141,7 @@ function normalize(md) {
     if (!isPossible(canonical, chap, verses)) {
       // A paragraph number, not a chapter — leave the text alone, record nothing.
       dropped++;
-      return match;
+      continue;
     }
     const rendered = renderRef({
       book: canonical,
@@ -222,9 +151,8 @@ function normalize(md) {
       extra: extra ?? null,
     });
     found.push(rendered);
-    return rendered;
-  });
-  return { md: out, refs: [...new Set(found)].sort() };
+  }
+  return [...new Set(found)].sort();
 }
 
 // ─── Driver ──────────────────────────────────────────────────────────────────
@@ -253,7 +181,7 @@ const sources = targets.length > 0
 const refsBySource = {};
 const refsByFile = {};
 const scanned = [];
-let totalFiles = 0, totalRefs = 0, modified = 0;
+let totalFiles = 0, totalRefs = 0;
 
 for (const source of sources) {
   const sourceName = path.basename(source);
@@ -264,21 +192,14 @@ for (const source of sources) {
     scanned.push(path.relative(root, file));
     refsBySource[sourceName].files++;
     const text = fs.readFileSync(file, "utf8");
-    // Skip frontmatter; only normalize body
-    const fmMatch = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
-    const fm = fmMatch ? fmMatch[1] : "";
-    const body = fmMatch ? fmMatch[2] : text;
+    const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
 
-    const { md: cleanedBody, refs } = normalize(body);
+    const refs = normalize(body);
     if (refs.length) {
       totalRefs += refs.length;
       refsBySource[sourceName].refs += refs.length;
       for (const r of refs) refsBySource[sourceName].unique.add(r);
       refsByFile[path.relative(root, file)] = refs;
-    }
-    if (cleanedBody !== body && !dryRun) {
-      fs.writeFileSync(file, fm + cleanedBody);
-      modified++;
     }
   }
 }
@@ -286,7 +207,6 @@ for (const source of sources) {
 // Output stats
 console.log(`bible refs normalized:`);
 console.log(`  files scanned: ${totalFiles}`);
-console.log(`  files modified: ${modified}`);
 console.log(`  total ref instances: ${totalRefs}`);
 console.log(`  impossible refs dropped: ${dropped}`);
 console.log(`  by source:`);

@@ -46,6 +46,7 @@ bible_refs:
   - "Joël 1:4"
   - "Joël 2:25"
   - "Ézéchiel 9:4"
+original: "branham/1959/59-0301E"
 ---
 **Résumé de!: “Que fais-tu ici ?” (1er mars 1959, soir)**
 

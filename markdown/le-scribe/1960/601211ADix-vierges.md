@@ -92,6 +92,7 @@ bible_refs:
   - "Zacharie 12:12"
   - "Zacharie 13:6"
   - "Éphésiens 4:30"
+original: "branham/1960/60-1211M"
 ---
 Résumé de!: “Les dix vierges et les 144 000” (11 décembre 1960, matin)
 _____________________________________________________

@@ -2,19 +2,27 @@
 
 Living list of stuff we know about and have decided to defer, with enough context to pick back up.
 
-## Spelled-out scripture citations are not detected
+## Branham text the restoration could not reach
 
-**Status**: 65 and 66 only match `Book chapter:verse` in numerals. Branham reads his text aloud instead: **2,948** occurrences of "`Saint John the 4th chapter`" / "`Kings, the 6th chapter`" in the Branham corpus, 365 of them naming the verse too ("`Saint Matthew the 4th chapter, the 23rd verse`"). None of those is in `bible-refs.json`, so a sermon's principal reading — the passage it opens with — is usually the one reference that is missing.
+**Status**: goal 07 put back what the branham.org PDFs say in about 690 sermons. 39 French book names remain in `markdown/branham/`, listed with their context in `manifests/branham-restore-unaligned.json`: the LLM cleanup changed the words around them, so they do not align with the source.
 
-The book also comes after the chapter: "`In the 20th chapter of Numbers, I read these words:`" (`53-0512`), **614** more occurrences of "`the <N>th chapter of <Book>`".
+**Fix**: a human pass over the 39, reading each against its PDF (`pdf_url`).
 
-**Fix**: two more patterns, `<Book>,? (the )?<N>(st|nd|rd|th) chapter(,? (and )?the <M>(st|nd|rd|th) verse)?` and `the <N>(st|nd|rd|th) chapter of <Book>`, with the ordinals mapped to numbers. Worth doing before the site ships reference-based navigation; it roughly doubles the coverage of the Branham corpus.
+## 65 reads a book name inside a number or a glued prefix
 
-## French book names left inside the English Branham text
+**Status**: 66 and 65b refuse a book name that starts inside a number since goal 07 ("2 John" in "212 John"). 65 still accepts it, and changing that moves 47 French refs: some are wrong today ("1Jean 5:21" is recorded as "Jean 5:21", because "1Jean" is not a variant), and would simply disappear without a variant for the glued form.
 
-**Status**: before goal 02, 65 (the French normalizer) also ran over `markdown/branham/` and rewrote English words it took for book abbreviations. The text still carries it: **358** `Ésaïe <n>` in 270 files ("The Bible says it Ésaïe 65 He's here", from "is" + paragraph 65), **154** `Sophonie <n>` in 131 files ("so"), **39** `Hébreux <n>` in 38 files ("he"), plus a handful of `Actes`, `Habacuc`, `Marc`, `Juges`: **377** files in all. A reader sees these mid-sentence. Goal 02 stopped the cause (65 no longer scans Branham) and repaired the two cases whose original is certain (`Joël` → `Joel`, `you'Revelation` → `you're`).
+**Fix**: add the glued numbered forms ("1Jean", "2Rois", …) to BOOKS_FR, then refuse a digit before a book name, and check the 47.
 
-**Fix**: not mechanical. The French regex also swallowed an optional period after the abbreviation ("is. 65" and "is 65" both became "Ésaïe 65"), so the original punctuation cannot be restored from the text alone. Either compare against the branham.org source, or accept "is 65" and note it. Belongs with the page-furniture cleanup, since the "65" is usually a paragraph number there too.
+## Running headers are recorded as refs
+
+**Status**: the printed page header "AN EXODUS 19" (with the page number) gives `Exodus 19, 21, 23 … 35` in `56-0615.md`; `GENESIS`, `JOB`, `EXODUS` headers elsewhere the same. 66 matches case-insensitively and its prose rule only refuses a lowercase book name. Since goal 07 the headers are back in capitals in the text, so an all-capitals rule would now catch them. Part of the page-furniture item below.
+
+## The French sources still carry 65's canonical rewrites
+
+**Status**: until goal 07, 65 rewrote every French citation it found into canonical form ("Math. 24, 6" became "Matthieu 24:6", "1Cor 5:20" became "1 Corinthiens 5:20"). It no longer does, and Samuel's rule is that the preacher's words stay; but the text already rewritten in `mevar`, `onedrive`, `le-scribe`, `cmpp` and `local` still reads canonical.
+
+**Fix**: the same approach as 65b, against each source's original: the Ghost export for `mevar` (at the repo root), the `pdf_url` PDFs for `le-scribe` and `cmpp`, the OneDrive originals for `onedrive`. Its own goal.
 
 ## Printed page furniture is inside the sermon bodies
 
@@ -29,6 +37,12 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 **Status**: 90 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah` — 3,956 references in all. `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut.
 
 **Fix**: decide what the page should show, then either lift the cap or keep the references in order of appearance rather than alphabetically. The normalizer sorts them, so order of appearance is not recoverable today.
+
+## `100` keeps only the first verse group of a list
+
+**Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 875 of 38,118 refs carry a list (goal 07 added the "and" lists).
+
+**Fix**: split a list into one `bible_ref` per group at ingest (and a `cites` edge to each), or have 65/66 emit one ref per group. Needs a SurrealDB run to verify; none was available for goal 07.
 
 ## `100-ingest-surrealdb.mjs` never deletes an edge
 
@@ -46,11 +60,11 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## Le-Scribe summaries with no Branham link
 
-**Status**: 796 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 114 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 77 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter, and 3 where Le-Scribe's date is known to be wrong.
+**Status**: 813 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 97 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 60 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter, and 3 where Le-Scribe's date is known to be wrong.
 
 Those 3 are the place to start, because the right sermon is already known: `530606Demons-physique` is `53-0608A "Demonology, Physical Realm"`, `530607Demons-religieux` is `53-0609A "Demonology, Religious Realm"`; `600803Jehova-J` has no Jehovah-Jireh sermon within four days. The same drift shows in the "claimed twice" rows: `550118Ange` claims `55-0118 "This Great Warrior, David"`. More links of the "only sermon that day" kind may carry it unseen; nothing but a French title against an English one reveals it.
 
-**Fix**: a human pass over the 114, or model the summary→sermon relation as many-to-one on both sides.
+**Fix**: a human pass over the 97, or model the summary→sermon relation as many-to-one on both sides.
 
 ## Markdown files with no frontmatter
 

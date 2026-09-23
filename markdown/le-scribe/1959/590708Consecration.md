@@ -70,6 +70,7 @@ bible_refs:
   - "Ésaïe 1:18"
   - "Ésaïe 28:10-12"
   - "Ésaïe 40:31"
+original: "branham/1959/59-0708M"
 ---
 “Consécration d’une église” (8 juillet 1959)
 

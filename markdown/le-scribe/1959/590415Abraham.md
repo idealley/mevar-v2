@@ -62,6 +62,7 @@ bible_refs:
   - "Romains 4:17-18"
   - "Ésaïe 52:11,2"
   - "Ésaïe 53:5"
+original: "branham/1959/59-0415E"
 ---
 **LA FOI D'ABRAHAM**
 *FAITHFUL ABRAHAM*

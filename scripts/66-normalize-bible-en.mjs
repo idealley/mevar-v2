@@ -2,8 +2,9 @@
 // English-Bible reference normalizer for the Branham corpus.
 // Same architecture as 65-normalize-bible.mjs, but with English book names + aliases.
 //
-// Output canonical form: "Book chap:verse[-end][,extras]"
-// e.g. "Matt 24:6", "1 Cor. 5,20-21" → "Matthew 24:6", "1 Corinthians 5:20-21"
+// Records each ref in canonical form, "Book chap:verse[-end][,extras]", e.g.
+// "Matt 24:6", "First Corinthians 5, 20-21" → "Matthew 24:6", "1 Corinthians 5:20-21".
+// The text is never changed: the preacher's words stay, only the ref is canonical.
 //
 // CLI:
 //   node scripts/66-normalize-bible-en.mjs                # process branham markdown
@@ -12,85 +13,9 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { BOOKS_EN as BOOKS, escRe } from "./bible-books.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
-
-// ─── Book dictionary ─────────────────────────────────────────────────────────
-// First entry of each row is the canonical name. Subsequent are accepted variants.
-// Includes both standard and aggressive abbreviations seen in transcribed sermons.
-const BOOKS = [
-  // Old Testament
-  ["Genesis", "Gen", "Gn", "Ge"],
-  ["Exodus", "Exo", "Ex", "Exod"],
-  ["Leviticus", "Lev", "Lv", "Levit"],
-  ["Numbers", "Num", "Nm", "Nb", "Nu"],
-  ["Deuteronomy", "Deut", "Dt", "De"],
-  ["Joshua", "Josh", "Jos", "Js", "Jsh"],
-  ["Judges", "Judg", "Jdg", "Jg", "Jgs"],
-  ["Ruth", "Rt", "Ru"],
-  ["1 Samuel", "1 Sam", "1Sam", "1S", "1Sm", "I Samuel", "I Sam", "First Samuel"],
-  ["2 Samuel", "2 Sam", "2Sam", "2S", "2Sm", "II Samuel", "II Sam", "Second Samuel"],
-  ["1 Kings", "1 Kgs", "1Kgs", "1K", "1Ki", "I Kings", "I Kgs", "First Kings"],
-  ["2 Kings", "2 Kgs", "2Kgs", "2K", "2Ki", "II Kings", "II Kgs", "Second Kings"],
-  ["1 Chronicles", "1 Chr", "1Chr", "1Ch", "I Chronicles", "I Chr", "First Chronicles"],
-  ["2 Chronicles", "2 Chr", "2Chr", "2Ch", "II Chronicles", "II Chr", "Second Chronicles"],
-  ["Ezra", "Ezr"],
-  ["Nehemiah", "Neh", "Ne"],
-  ["Esther", "Est", "Esth"],
-  ["Job", "Jb"],
-  ["Psalms", "Psalm", "Ps", "Psa", "Pss", "Psm"],
-  ["Proverbs", "Prov", "Prv", "Pr", "Pro"],
-  ["Ecclesiastes", "Eccl", "Ecc", "Ec", "Qoh", "Qoheleth"],
-  ["Song of Solomon", "Song of Songs", "Song", "SoS", "Cant", "Canticles"],
-  ["Isaiah", "Isa", "Is"],
-  ["Jeremiah", "Jer", "Jr"],
-  ["Lamentations", "Lam", "Lm", "La"],
-  ["Ezekiel", "Ezek", "Ez", "Eze"],
-  ["Daniel", "Dan", "Dn", "Da"],
-  ["Hosea", "Hos", "Ho"],
-  // "Joël" is what the French pass left in these English transcripts —
-  // 47 of its 48 occurrences here are real Joel citations, mostly Joel 2:28.
-  ["Joel", "Joël", "Jl"],
-  ["Amos", "Am"],
-  ["Obadiah", "Obad", "Ob"],
-  ["Jonah", "Jon", "Jnh"],
-  ["Micah", "Mic", "Mi"],
-  ["Nahum", "Nah", "Na"],
-  ["Habakkuk", "Hab", "Hb"],
-  ["Zephaniah", "Zeph", "Zep", "Zp"],
-  ["Haggai", "Hag", "Hg"],
-  ["Zechariah", "Zech", "Zec", "Zc"],
-  ["Malachi", "Mal", "Ml"],
-  // New Testament
-  ["Matthew", "Saint Matthew", "St. Matthew", "St Matthew", "Matt", "Math", "Mt"],
-  ["Mark", "Saint Mark", "St. Mark", "St Mark", "Mk", "Mr"],
-  ["Luke", "Saint Luke", "St. Luke", "St Luke", "Lk", "Lu"],
-  ["John", "Saint John", "St. John", "St John", "Jn", "Joh", "Jhn"],
-  ["Acts", "Ac", "Act", "Acts of the Apostles"],
-  ["Romans", "Rom", "Rm", "Ro"],
-  ["1 Corinthians", "1 Cor", "1Cor", "1Co", "1C", "I Corinthians", "I Cor", "First Corinthians"],
-  ["2 Corinthians", "2 Cor", "2Cor", "2Co", "2C", "II Corinthians", "II Cor", "Second Corinthians"],
-  ["Galatians", "Gal", "Ga"],
-  ["Ephesians", "Eph", "Ephes", "Ep"],
-  ["Philippians", "Phil", "Php", "Phl", "Ph"],
-  ["Colossians", "Col", "Cl"],
-  ["1 Thessalonians", "1 Thess", "1Thess", "1 Thes", "1Thes", "1 Th", "1Th", "I Thessalonians", "I Thess", "First Thessalonians"],
-  ["2 Thessalonians", "2 Thess", "2Thess", "2 Thes", "2Thes", "2 Th", "2Th", "II Thessalonians", "II Thess", "Second Thessalonians"],
-  ["1 Timothy", "1 Tim", "1Tim", "1Ti", "1T", "I Timothy", "I Tim", "First Timothy"],
-  ["2 Timothy", "2 Tim", "2Tim", "2Ti", "2T", "II Timothy", "II Tim", "Second Timothy"],
-  ["Titus", "Tit", "Ti"],
-  ["Philemon", "Phlm", "Phm", "Philem"],
-  ["Hebrews", "Heb", "Hbr", "He"],
-  ["James", "Jas", "Jm"],
-  ["1 Peter", "1 Pet", "1Pet", "1 Pt", "1Pt", "1P", "1Pe", "I Peter", "I Pet", "First Peter"],
-  ["2 Peter", "2 Pet", "2Pet", "2 Pt", "2Pt", "2P", "2Pe", "II Peter", "II Pet", "Second Peter"],
-  ["1 John", "1 Jn", "1Jn", "1Jo", "1J", "I John", "I Jn", "First John"],
-  ["2 John", "2 Jn", "2Jn", "2Jo", "2J", "II John", "II Jn", "Second John"],
-  ["3 John", "3 Jn", "3Jn", "3Jo", "3J", "III John", "III Jn", "Third John"],
-  ["Jude", "Jud", "Jd"],
-  // no "Re": it only ever matched the "re" of "you're 28" plus a page number.
-  ["Revelation", "Revelations", "Rev", "Rv", "Apoc", "Apocalypse"],
-];
 
 function normForMatch(s) {
   return s
@@ -112,13 +37,17 @@ const variantsSorted = [...ALL_VARIANTS]
   .map((v) => v.trim())
   .sort((a, b) => b.length - a.length);
 
-function escRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
 const BOOK_ALT = variantsSorted.map(escRe).join("|");
 
+const LIST_SEP = "(?:\\s*[,;]\\s*|\\s+and\\s+)";
+const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).map((row) => escRe(row[0].slice(2))))].join("|");
+const LIST_NUM = `\\d{1,3}(?!\\s*:\\s*\\d|\\s+(?:${NUMBERED})(?!\\p{L}))`;
+
 const REF_RE = new RegExp(
-  "(?<![\\p{L}])" +
+  "(?<![\\p{L}\\d])" +  // not "2 John" inside a paragraph number "212 John"
   "(" + BOOK_ALT + ")" +
-  "\\.?" +
+  // no optional period: in the Branham text "job. 9" is a sentence end and a
+  // paragraph number, never a citation
   "\\s*" +
   "(\\d{1,3})" +
   "(?:" +
@@ -128,7 +57,10 @@ const REF_RE = new RegExp(
   // ":<digit>", a new chapter:verse, so "Hebrews 8:13-13:8" does not read
   // "13" as the end of a range.
   "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +
-  "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" +
+  // additional verses (group 5), after "," ";" or "and" ("Hebrews 13:12 and
+  // 13"). A number that starts the next citation is not one of them: "and 2
+  // Corinthians", ", 1 Peter", "and 4:2".
+  `(?:${LIST_SEP}(${LIST_NUM}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:${LIST_SEP}${LIST_NUM}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?` +
   ")?" +
   "(?![\\d])",
   "giu",
@@ -155,7 +87,7 @@ const MAX_CHAPTER = {
 };
 const MAX_VERSE = 176; // Psalm 119
 
-let dropped = 0;
+let dropped = 0, notCitations = 0, spokenRefs = 0;
 function isPossible(book, chapter, verses) {
   if (Number(chapter) > MAX_CHAPTER[book]) return false;
   return !verses.some((v) => Number(v) > MAX_VERSE);
@@ -168,7 +100,7 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
     if (verseEnd !== undefined && verseEnd !== null) out += `-${verseEnd}`;
     if (extra) {
       const parts = extra
-        .split(/\s*[,;]\s*/)
+        .split(/\s*[,;]\s*|\s+and\s+/)
         .map((p) => p.replace(/\s*[-–—]\s*/g, "-").trim())
         .filter(Boolean);
       if (parts.length) out += "," + parts.join(",");
@@ -177,11 +109,38 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
   return out;
 }
 
+// Branham reads his text aloud: "Saint John the 4th chapter, the 23rd verse",
+// "In the 20th chapter of Numbers". Case-sensitive, like the rule above: a
+// lowercase book name is prose.
+// The grammar words may be capitalized and a line may break anywhere; "the" is
+// often dropped ("First John, 1st chapter", "the 19th chapter, 42nd verse"),
+// and "and" can join the book to its chapter ("Revelation and the 6th chapter").
+// Verses may be a list. A book cut off and restated,
+// "the 13th chapter of Ex-…of Genesis", is the restated one.
+const ORD = "(\\d{1,3})(?:st|nd|rd|th)";
+const THE = "(?:[Tt]he\\s+)?";
+const ORDN = "\\d{1,3}(?:st|nd|rd|th)";
+const AND = "(?:,?\\s+(?:and\\s+)?)";
+// "the 3rd and 4th verses", or each with its own "verse": "34th verse and 35th verse".
+const VERSES = `(?:${AND}${THE}(${ORDN}(?:${AND}${THE}${ORDN})*\\s+[Vv]erses?(?:${AND}${THE}${ORDN}\\s+[Vv]erses?)*))?`;
+const SPOKEN = [
+  new RegExp(`(?<![\\p{L}\\d])(${BOOK_ALT})(?:['’]s\\s+Gospel)?(?:,|\\s+and)?\\s+${THE}${ORD}\\s+[Cc]hapter${VERSES}`, "gu"),
+  new RegExp(`[Tt]he\\s+${ORD}\\s+[Cc]hapter\\s+of\\s+(${BOOK_ALT})(?:-[….]*\\s*of\\s+(${BOOK_ALT}))?(?!\\p{L})${VERSES}`, "gu"),
+];
+
 function normalize(md) {
   const found = [];
-  const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
+  for (const match of md.matchAll(REF_RE)) {
+    const [, bookVariant, , , verseEnd, extra] = match;
+    let [, , chap, verseStart] = match;
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
-    if (!canonical) return match;
+    if (!canonical) continue;
+    // The branham.org text never writes a citation with a lowercase book name:
+    // "is 65", "my job 9" are prose followed by a paragraph number.
+    if (/^\p{Ll}/u.test(bookVariant)) {
+      notCitations++;
+      continue;
+    }
     // A one-chapter book cited without a verse ("Jude 23"): the number is the
     // verse. "Jude 1" alone stays the chapter, which is the whole book.
     if (MAX_CHAPTER[canonical] === 1 && !verseStart && chap !== "1") [chap, verseStart] = ["1", chap];
@@ -189,7 +148,7 @@ function normalize(md) {
     if (!isPossible(canonical, chap, verses)) {
       // A paragraph number, not a chapter — leave the text alone, record nothing.
       dropped++;
-      return match;
+      continue;
     }
     const rendered = renderRef({
       book: canonical,
@@ -199,9 +158,17 @@ function normalize(md) {
       extra: extra ?? null,
     });
     found.push(rendered);
-    return rendered;
-  });
-  return { md: out, refs: [...new Set(found)].sort() };
+  }
+  for (const m of md.matchAll(SPOKEN[0])) spoken(m[1], m[2], m[3]);
+  for (const m of md.matchAll(SPOKEN[1])) spoken(m[3] ?? m[2], m[1], m[4]);
+  function spoken(bookVariant, chapter, verseList) {
+    const book = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
+    const verses = verseList?.match(/\d+/g) ?? [];
+    if (!isPossible(book, chapter, verses)) return;
+    found.push(renderRef({ book, chapter, verseStart: verses[0] ?? null, verseEnd: null, extra: verses.slice(1).join(",") || null }));
+    spokenRefs++;
+  }
+  return [...new Set(found)].sort();
 }
 
 function* walk(target) {
@@ -226,7 +193,7 @@ const sources = targets.length > 0
 
 const refsByFile = {};
 const scanned = [];
-let totalFiles = 0, totalRefs = 0, modified = 0;
+let totalFiles = 0, totalRefs = 0;
 const refsBySource = {};
 
 for (const sourceDir of sources) {
@@ -237,28 +204,23 @@ for (const sourceDir of sources) {
     scanned.push(path.relative(root, file));
     refsBySource[sourceName].files++;
     const text = fs.readFileSync(file, "utf8");
-    const fmMatch = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
-    const fm = fmMatch ? fmMatch[1] : "";
-    const body = fmMatch ? fmMatch[2] : text;
-    const { md: cleanedBody, refs } = normalize(body);
+    const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
+    const refs = normalize(body);
     if (refs.length) {
       totalRefs += refs.length;
       refsBySource[sourceName].refs += refs.length;
       for (const r of refs) refsBySource[sourceName].unique.add(r);
       refsByFile[path.relative(root, file)] = refs;
     }
-    if (cleanedBody !== body && !dryRun) {
-      fs.writeFileSync(file, fm + cleanedBody);
-      modified++;
-    }
   }
 }
 
 console.log(`English bible refs normalized:`);
 console.log(`  files scanned: ${totalFiles}`);
-console.log(`  files modified: ${modified}`);
 console.log(`  total ref instances: ${totalRefs}`);
 console.log(`  impossible refs dropped: ${dropped}`);
+console.log(`  lowercase book names skipped: ${notCitations}`);
+console.log(`  spoken citations recorded: ${spokenRefs}`);
 console.log(`  by source:`);
 for (const [src, s] of Object.entries(refsBySource)) {
   console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);

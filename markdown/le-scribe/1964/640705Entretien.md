@@ -29,6 +29,7 @@ pdf_url: "http://le-scribe.org/pdfiles/640705Entretien.pdf"
 llm_cleaned: true
 bible_refs:
   - "Jean 5:24"
+original: "branham/1964/64-0705X"
 ---
 *Entretien avec la sœur Bruce* (5 juillet 1964, matin)
 

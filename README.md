@@ -99,6 +99,7 @@ node scripts/73-apply-llm.mjs <source>                # apply cache → markdown
 
 # 5. Bible reference normalization
 node scripts/65-normalize-bible.mjs                   # French (a path argument limits it, and merges)
+node scripts/65b-restore-branham-from-source.mjs      # branham: undo old damage from the PDFs (needs 20 first)
 node scripts/66-normalize-bible-en.mjs                # English (branham)
 node scripts/47-lift-manifest-fields.mjs              # bible_refs + urls into frontmatter
 
@@ -135,7 +136,7 @@ node scripts/50-build-index.mjs                       # build master index.json,
 - **3,106 markdown files** (~174 MB)
 - **2,741 LLM-cleaned** with full NER (persons / places / themes / summary)
 - **36,328 normalized Bible references** (31,220 French + 5,108 English), 9,414 distinct
-- **796 of 910 Le-Scribe summaries** linked to the English sermon they summarize
+- **813 of 910 Le-Scribe summaries** linked to the English sermon they summarize
 - **70 unique tags** on mevar (Prédications 208×, Exhortations 109×, Etudes Bibliques 47×, year tags, etc.)
 - **6 authors** (Parfait M'bra, Samuel Pouyt, Stéphane Pouyt, André Kadjany, Pierre Kouadio, Irié Anderson)
 - **Coverage**: 1947 (Branham) to 2024+ (mevar)
