@@ -119,7 +119,7 @@ const ORD = "(\\d{1,3})(?:st|nd|rd|th)";
 const THE = "(?:[Tt]he\\s+)?";
 const SPOKEN = [
   new RegExp(`(?<![\\p{L}\\d])(${BOOK_ALT})(?:['’]s\\s+Gospel)?(?:,|\\s+and)?\\s+${THE}${ORD}\\s+[Cc]hapter(?:,?\\s+(?:and\\s+)?${THE}${ORD}\\s+[Vv]erse)?`, "gu"),
-  new RegExp(`[Tt]he\\s+${ORD}\\s+[Cc]hapter\\s+of\\s+(${BOOK_ALT})(?!\\p{L})`, "gu"),
+  new RegExp(`[Tt]he\\s+${ORD}\\s+[Cc]hapter\\s+of\\s+(${BOOK_ALT})(?!\\p{L})(?:,?\\s+(?:and\\s+)?${THE}${ORD}\\s+[Vv]erse)?`, "gu"),
 ];
 
 function normalize(md) {
@@ -154,7 +154,7 @@ function normalize(md) {
     found.push(rendered);
   }
   for (const m of md.matchAll(SPOKEN[0])) spoken(m[1], m[2], m[3]);
-  for (const m of md.matchAll(SPOKEN[1])) spoken(m[2], m[1]);
+  for (const m of md.matchAll(SPOKEN[1])) spoken(m[2], m[1], m[3]);
   function spoken(bookVariant, chapter, verse) {
     const book = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!isPossible(book, chapter, verse ? [verse] : [])) return;
