@@ -4,8 +4,10 @@
 //
 //   images -> images/mevar/content/<name>   files -> files/mevar/<name>
 //
-// The original file name is kept; two URLs with the same name are both
-// prefixed with their `YYYY-MM` path segment. A mevar.org file already in
+// The original file name is kept. A URL whose name another URL has (in this
+// run, or on disk from an earlier one) is prefixed with its `YYYY-MM` path
+// segment. A URL a `local_pdf:` already points at keeps that file. A mevar.org
+// file already in
 // pdfs/mevar-cdn/ (80-download-mevar-pdfs.mjs) is copied instead of fetched.
 //
 // Rewrite: body links become root-relative. Frontmatter keeps the remote URL
@@ -31,20 +33,31 @@ const split = (text) => text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/).slice(1)
 const assetLines = (fm) => fm.split("\n").filter((l) => !l.startsWith("feature_image:"));
 
 const urls = new Set();
+const known = new Map(); // url -> href, from `pdf_download:` / `pdf_url:` + `local_pdf:` pairs
 for (const file of docs) {
   const [fm, body] = split(fs.readFileSync(file, "utf8"));
   for (const u of [...assetLines(fm).join("\n").matchAll(URL_RE), ...body.matchAll(URL_RE)]) urls.add(u[0]);
+  const pair = fm.match(/^(?:pdf_download|pdf_url): "(.*)"\nlocal_pdf: "(.*)"$/m);
+  if (pair) known.set(pair[1], pair[2]);
 }
 
 const nameOf = (url) => decodeURIComponent(url.split("/").pop());
 const byName = new Map();
 for (const url of urls) byName.set(nameOf(url), (byName.get(nameOf(url)) ?? 0) + 1);
 
+// On disk under this name, or as the WebP 93-optimize-images.mjs made of it.
+const taken = (dir, name) =>
+  [name, name.replace(IMAGE_RE, ".webp")].some((n) => fs.existsSync(path.join(root, dir, n)));
+
 const local = new Map(); // url -> { disk, href }
 for (const url of urls) {
+  if (known.has(url)) {
+    local.set(url, { disk: path.join(root, decodeURIComponent(known.get(url))), href: known.get(url) });
+    continue;
+  }
   let name = nameOf(url);
-  if (byName.get(name) > 1) name = `${url.match(/\/(\d{4})\/(\d{2})\/[^/]+$/).slice(1).join("-")}-${name}`;
   const dir = IMAGE_RE.test(name) ? "images/mevar/content" : "files/mevar";
+  if (byName.get(name) > 1 || taken(dir, name)) name = `${url.match(/\/(\d{4})\/(\d{2})\/[^/]+$/).slice(1).join("-")}-${name}`;
   local.set(url, { disk: path.join(root, dir, name), href: `/${dir}/${encodeURIComponent(name)}` });
 }
 
