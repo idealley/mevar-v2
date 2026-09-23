@@ -37,9 +37,12 @@ for (const entry of fs.readdirSync(path.join(root, "images"), { recursive: true 
 }
 
 // local_image is `images/...` (the card template adds the slash), body links
-// from 92 are `/images/...`.
+// from 92 are `/images/...` with the name encoded.
 const relink = (text) =>
-  text.replace(/(["(]\/?)(images\/[^")\s]+)/g, (_, open, rel) => open + (renamed.get(rel) ?? rel));
+  text.replace(/(["(]\/?)(images\/[^")\s]+)/g, (link, open, rel) => {
+    const next = renamed.get(decodeURIComponent(rel));
+    return next ? open + next.split("/").map(encodeURIComponent).join("/") : link;
+  });
 
 let files = 0;
 const docs = fs.readdirSync(path.join(root, "markdown"), { recursive: true }).filter((f) => f.endsWith(".md"));
