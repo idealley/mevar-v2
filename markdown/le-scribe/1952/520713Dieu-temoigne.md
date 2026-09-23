@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 8:31"
   - "Matthieu 9:25"
   - "Nombres 14:18"
+original: "branham/1952/52-0713E"
 ---
 **1.** Le frère Baxter m’a fait part de votre offrande. Merci du fond du cœur. Je suis resté 7 mois sans réunion. La situation a été difficile pour la famille, et j’ai des frais très importants. J’emploierai chaque centime à la gloire de Dieu, et je lui demande qu’il vous le rende au centuple.
 

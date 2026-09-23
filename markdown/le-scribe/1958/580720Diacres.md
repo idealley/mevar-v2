@@ -43,6 +43,7 @@ pdf_url: "http://le-scribe.org/pdfiles/580720Diacres.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Timothée 3:8-13"
+original: "branham/1958/58-0720E"
 ---
 **1.** L'église est souveraine dans le choix des diacres. C'est l'église qui élit ses diacres, ses pasteurs, ses administrateurs, etc. L'église est composée de ceux qui la soutiennent par leur présence, leur dîme. Nous remercions le précédent bureau des diacres pour leur service, Cox, Fleeman, Higginbotham, Deatsman. Chaque année le bureau est dissous et il y a de nouvelles élections, les diacres précédents pouvant se représenter. Nos administrateurs sont William Morgan, Mike Egan, Banks Wood, Roy Roberson.
 

@@ -54,11 +54,11 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 ## Le-Scribe summaries with no Branham link
 
-**Status**: 796 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 114 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 77 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter, and 3 where Le-Scribe's date is known to be wrong.
+**Status**: 813 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 97 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 60 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter, and 3 where Le-Scribe's date is known to be wrong.
 
 Those 3 are the place to start, because the right sermon is already known: `530606Demons-physique` is `53-0608A "Demonology, Physical Realm"`, `530607Demons-religieux` is `53-0609A "Demonology, Religious Realm"`; `600803Jehova-J` has no Jehovah-Jireh sermon within four days. The same drift shows in the "claimed twice" rows: `550118Ange` claims `55-0118 "This Great Warrior, David"`. More links of the "only sermon that day" kind may carry it unseen; nothing but a French title against an English one reveals it.
 
-**Fix**: a human pass over the 114, or model the summary→sermon relation as many-to-one on both sides.
+**Fix**: a human pass over the 97, or model the summary→sermon relation as many-to-one on both sides.
 
 ## Markdown files with no frontmatter
 
