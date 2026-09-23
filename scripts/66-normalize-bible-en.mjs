@@ -115,12 +115,14 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
 // The grammar words may be capitalized and a line may break anywhere; "the" is
 // often dropped ("First John, 1st chapter", "the 19th chapter, 42nd verse"),
 // and "and" can join the book to its chapter ("Revelation and the 6th chapter").
-// Verses may be a list ("the 3rd and 4th verses"). A book cut off and restated,
+// Verses may be a list. A book cut off and restated,
 // "the 13th chapter of Ex-…of Genesis", is the restated one.
 const ORD = "(\\d{1,3})(?:st|nd|rd|th)";
 const THE = "(?:[Tt]he\\s+)?";
 const ORDN = "\\d{1,3}(?:st|nd|rd|th)";
-const VERSES = `(?:,?\\s+(?:and\\s+)?${THE}(${ORDN}(?:,?\\s+(?:and\\s+)?${THE}${ORDN})*)\\s+[Vv]erses?)?`;
+const AND = "(?:,?\\s+(?:and\\s+)?)";
+// "the 3rd and 4th verses", or each with its own "verse": "34th verse and 35th verse".
+const VERSES = `(?:${AND}${THE}(${ORDN}(?:${AND}${THE}${ORDN})*\\s+[Vv]erses?(?:${AND}${THE}${ORDN}\\s+[Vv]erses?)*))?`;
 const SPOKEN = [
   new RegExp(`(?<![\\p{L}\\d])(${BOOK_ALT})(?:['’]s\\s+Gospel)?(?:,|\\s+and)?\\s+${THE}${ORD}\\s+[Cc]hapter${VERSES}`, "gu"),
   new RegExp(`[Tt]he\\s+${ORD}\\s+[Cc]hapter\\s+of\\s+(${BOOK_ALT})(?:-[….]*\\s*of\\s+(${BOOK_ALT}))?(?!\\p{L})${VERSES}`, "gu"),
