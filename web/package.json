@@ -32,5 +32,10 @@
   "devDependencies": {
     "pagefind": "^1.5.2",
     "tailwind-variants": "^3.2.2"
+  },
+  "overrides": {
+    "@vite-pwa/astro": {
+      "astro": "$astro"
+    }
   }
 }
