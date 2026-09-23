@@ -3,7 +3,7 @@
 **Status:** in progress (dispatched 2026-09-22 by Samuel, on PR #1: "we can
 restore it using branham.org", "we can do one PR")
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, `markdown/branham/`, `docs/`)
-**Depends on:** 02 (this branch is stacked on `goal-02-corpus-gaps`)
+**Depends on:** 02 (merged as PR #1, 2026-09-23)
 **Rules:** [README.md](README.md)
 
 ## Problem
