@@ -39,6 +39,10 @@ const variantsSorted = [...ALL_VARIANTS]
 
 const BOOK_ALT = variantsSorted.map(escRe).join("|");
 
+const LIST_SEP = "(?:\\s*[,;]\\s*|\\s+and\\s+)";
+const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).map((row) => escRe(row[0].slice(2))))].join("|");
+const LIST_NUM = `\\d{1,3}(?!\\s*:\\s*\\d|\\s+(?:${NUMBERED})(?!\\p{L}))`;
+
 const REF_RE = new RegExp(
   "(?<![\\p{L}\\d])" +  // not "2 John" inside a paragraph number "212 John"
   "(" + BOOK_ALT + ")" +
@@ -53,7 +57,10 @@ const REF_RE = new RegExp(
   // ":<digit>", a new chapter:verse, so "Hebrews 8:13-13:8" does not read
   // "13" as the end of a range.
   "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +
-  "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" +
+  // additional verses (group 5), after "," ";" or "and" ("Hebrews 13:12 and
+  // 13"). A number that starts the next citation is not one of them: "and 2
+  // Corinthians", ", 1 Peter", "and 4:2".
+  `(?:${LIST_SEP}(${LIST_NUM}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:${LIST_SEP}${LIST_NUM}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?` +
   ")?" +
   "(?![\\d])",
   "giu",
@@ -93,7 +100,7 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
     if (verseEnd !== undefined && verseEnd !== null) out += `-${verseEnd}`;
     if (extra) {
       const parts = extra
-        .split(/\s*[,;]\s*/)
+        .split(/\s*[,;]\s*|\s+and\s+/)
         .map((p) => p.replace(/\s*[-–—]\s*/g, "-").trim())
         .filter(Boolean);
       if (parts.length) out += "," + parts.join(",");
