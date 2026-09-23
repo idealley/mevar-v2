@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/dispensateurs_des_biens_de_christ_11_02_2016.pdf"
+local_pdf: "/files/mevar/dispensateurs_des_biens_de_christ_11_02_2016.pdf"
 source: "mevar"
 sermon_id: "dispensateurs-des-biens-du-christ"
 title: "Dispensateurs des biens du Christ"
@@ -111,4 +112,4 @@ Mais quand ça murmure, est-ce que ça c’est bon ? Ce n’est pas bon ! Et il 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/dispensateurs_des_biens_de_christ_11_02_2016.pdf)
+[Télécharger le PDF](/files/mevar/dispensateurs_des_biens_de_christ_11_02_2016.pdf)

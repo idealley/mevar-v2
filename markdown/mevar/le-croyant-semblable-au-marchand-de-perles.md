@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf"
+local_pdf: "/files/mevar/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf"
 source: "mevar"
 sermon_id: "le-croyant-semblable-au-marchand-de-perles"
 title: "Le croyant semblable au marchand de perles"
@@ -138,4 +139,4 @@ Mes chers amis, le Royaume des cieux est semblable à un marchand qui cherche de
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf)

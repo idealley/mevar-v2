@@ -34,6 +34,7 @@ themes:
   - "restauration de l'Église"
   - "victoire sur le péché"
 pdf_url: "https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
+local_pdf: "/files/mevar/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
 llm_cleaned: true
 ---
 *Le témoignage de Dieu*

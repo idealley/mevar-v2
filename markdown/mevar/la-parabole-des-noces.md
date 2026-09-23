@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-parabole-des-noces/"
 feature_image: "https://mevar.org/content/images/2022/12/rain.jpg"
-local_image: "images/mevar/la-parabole-des-noces.jpg"
+local_image: "images/mevar/la-parabole-des-noces.webp"
 tags:
   - "Etudes Bibliques"
   - "2019"
@@ -187,7 +187,7 @@ Deuxièmement, que tous les chrétiens qui avaient compris et entendu le message
 
 Finalement, les vierges qui se réveillent se préparent. Oui les folles comme les sages se préparent, mais il manque un élément aux vierges folles pour se préparer : l’huile, l’Esprit de Dieu. C’est la seule différence entre les vierges folles et les vierges sages. Toutes les deux sont vierges, toutes les deux sont pures, mais les folles n’ont pas d’huile, n’ont plus d’huile. Elles n’ont pas l’Esprit de Dieu. Pour être plus précis, elles l’ont mais l’Esprit s’éteint, leur lampe ne brûle plus. La religion a éteint l’Esprit, la religion a éteint la révélation. Les vierges folles n’avancent plus dans la lumière de Dieu, dans la révélation continuelle que Dieu donne, mais elles vivent sur les choses anciennes qu’elles ont institutionnalisées, transformées en religion.
 
-![](https://mevar.org/content/images/2022/12/apocalypse_12.jpg)
+![](/images/mevar/content/apocalypse_12.webp)
 
 \### La naissance du Fils mâle
 

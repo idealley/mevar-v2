@@ -40,6 +40,7 @@ themes:
   - "accomplissement prophétique"
   - "combat spirituel"
 pdf_url: "https://mevar.org/content/files/2022/12/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf"
+local_pdf: "/files/mevar/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf"
 llm_cleaned: true
 ---
 *Exhortation De Mars 2020*

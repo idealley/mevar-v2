@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf"
+local_pdf: "/files/mevar/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf"
 source: "mevar"
 sermon_id: "l-ancien-testament-et-le-royaume-de-dieu"
 title: "L’ Ancien Testament et le Royaume de Dieu"
@@ -220,4 +221,4 @@ Je vais m’arrêter là. S’il y a d’autres notions, nous aurons le temps de
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf)
+[Télécharger le PDF](/files/mevar/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf)

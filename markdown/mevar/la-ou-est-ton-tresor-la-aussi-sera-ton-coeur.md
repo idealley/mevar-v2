@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/La_ou_est_ton_tresor_09-03-19.pdf"
+local_pdf: "/files/mevar/La_ou_est_ton_tresor_09-03-19.pdf"
 source: "mevar"
 sermon_id: "la-ou-est-ton-tresor-la-aussi-sera-ton-coeur"
 title: "Là où est ton trésor, là aussi sera ton cœur"
@@ -144,4 +145,4 @@ Que Dieu nous bénisse. J’ai voulu compléter ce matin pour que cela reste dan
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/La_ou_est_ton_tresor_09-03-19.pdf)
+[Télécharger le PDF](/files/mevar/La_ou_est_ton_tresor_09-03-19.pdf)

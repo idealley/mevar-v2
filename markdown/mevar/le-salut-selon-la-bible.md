@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_salut_selon_la_bible.pdf"
+local_pdf: "/files/mevar/le_salut_selon_la_bible.pdf"
 source: "mevar"
 sermon_id: "le-salut-selon-la-bible"
 title: "Le salut selon la Bible"
@@ -219,4 +220,4 @@ Il nous faut donc nous tourner vers Dieu, vers Jésus Christ qui est Le seul qui
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_salut_selon_la_bible.pdf)
+[Télécharger le PDF](/files/mevar/le_salut_selon_la_bible.pdf)

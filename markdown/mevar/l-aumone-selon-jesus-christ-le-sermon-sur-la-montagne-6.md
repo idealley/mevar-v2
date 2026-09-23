@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6/"
 feature_image: "https://mevar.org/content/images/2022/12/aumone.jpg"
-local_image: "images/mevar/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6.jpg"
+local_image: "images/mevar/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6.webp"
 tags:
   - "Prédications"
   - "Etudes Bibliques"

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/afin_que_les_oeuvres_soient_accomplies.pdf"
+local_pdf: "/files/mevar/afin_que_les_oeuvres_soient_accomplies.pdf"
 source: "mevar"
 sermon_id: "afin-que-les-oeuvres-de-dieu-soient-accomplies"
 title: "Afin que les œuvres de Dieu soient accomplies"
@@ -195,4 +196,4 @@ Cantique d’adoration.
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/afin_que_les_oeuvres_soient_accomplies.pdf)
+[Télécharger le PDF](/files/mevar/afin_que_les_oeuvres_soient_accomplies.pdf)

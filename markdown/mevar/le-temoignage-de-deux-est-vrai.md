@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf"
+local_pdf: "/files/mevar/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf"
 source: "mevar"
 sermon_id: "le-temoignage-de-deux-est-vrai"
 title: "Le témoignage de deux est vrai"
@@ -82,4 +83,4 @@ Mes chers amis, j’ai voulu par cette courte exhortation nous rappeler que nous
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf)
+[Télécharger le PDF](/files/mevar/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf)

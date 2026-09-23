@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels/"
 feature_image: "https://mevar.org/content/images/2022/12/bound-with-chains-of-the-spirit-and-of-men11.jpg"
-local_image: "images/mevar/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels.jpg"
+local_image: "images/mevar/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels.webp"
 tags:
   - "Etudes Bibliques"
   - "Prédications"

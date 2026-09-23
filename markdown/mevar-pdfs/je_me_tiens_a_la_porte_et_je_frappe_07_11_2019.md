@@ -39,6 +39,7 @@ themes:
   - "Foi et œuvres"
   - "Purification de la parole"
 pdf_url: "https://mevar.org/content/files/2022/12/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf"
+local_pdf: "/files/mevar/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf"
 llm_cleaned: true
 ---
 > **Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi.** (Apocalypse 3:20)

@@ -37,6 +37,7 @@ themes:
   - "baptême de feu"
   - "premier commandement"
 pdf_url: "https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_2021.pdf"
+local_pdf: "/files/mevar/holocoste-exhortation_mars_2021.pdf"
 llm_cleaned: true
 ---
 *Exhortation De Mars 2021*

@@ -28,6 +28,7 @@ themes:
   - "sanctification"
   - "préparation à l'enlèvement"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf"
+local_pdf: "/files/mevar/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.pdf"
 llm_cleaned: true
 ---
 Exhortation de Janvier 2020

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf"
+local_pdf: "/files/mevar/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf"
 source: "mevar"
 sermon_id: "et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez"
 title: "Et soudain entrera dans son temple, le Seigneur que vous cherchez"
@@ -84,4 +85,4 @@ Nous sommes dans un grand combat, nous sommes dans une œuvre particulière et i
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf)
+[Télécharger le PDF](/files/mevar/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.pdf)

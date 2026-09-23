@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/C_est_ici_votre_heure_et_la_puissance_des_tenebres.pdf"
+local_pdf: "/files/mevar/C_est_ici_votre_heure_et_la_puissance_des_tenebres.pdf"
 source: "mevar"
 sermon_id: "c-est-ici-votre-heure-et-la-puissance-des-tenebres"
 title: "C’est ici votre heure et la puissance des ténèbres"
@@ -93,4 +94,4 @@ C’est ici votre heure, **l’heure de la Lumière, l’heure du Soleil, l’he
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/C_est_ici_votre_heure_et_la_puissance_des_tenebres.pdf)
+[Télécharger le PDF](/files/mevar/C_est_ici_votre_heure_et_la_puissance_des_tenebres.pdf)

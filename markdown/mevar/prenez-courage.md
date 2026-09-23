@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_1_aout_2006_prenez_courage.pdf"
+local_pdf: "/files/mevar/exhortation_speciale_1_aout_2006_prenez_courage.pdf"
 source: "mevar"
 sermon_id: "prenez-courage"
 title: "Prenez courage"
@@ -252,4 +253,4 @@ En Christ notre Seigneur !
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_1_aout_2006_prenez_courage.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_speciale_1_aout_2006_prenez_courage.pdf)

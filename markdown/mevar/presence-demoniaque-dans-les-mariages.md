@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/presence_demoniaque_dans_les_mariages.pdf"
+local_pdf: "/files/mevar/presence_demoniaque_dans_les_mariages.pdf"
 source: "mevar"
 sermon_id: "presence-demoniaque-dans-les-mariages"
 title: "Présence démoniaque dans les mariages"
@@ -190,4 +191,4 @@ Quand ils sont là, ils se manifestent de plusieurs manières. Pour nous qui avo
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/presence_demoniaque_dans_les_mariages.pdf)
+[Télécharger le PDF](/files/mevar/presence_demoniaque_dans_les_mariages.pdf)

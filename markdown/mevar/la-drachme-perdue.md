@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-drachme-perdue/"
 feature_image: "https://mevar.org/content/images/2023/01/Parable_of_the_Lost_Drachma_by_Fetti.jpg"
-local_image: "images/mevar/la-drachme-perdue.jpg"
+local_image: "images/mevar/la-drachme-perdue.webp"
 tags:
   - "Prédications"
   - "2010"

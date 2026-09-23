@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_aout_08_2016_toutes_choses_s_accompliront.pdf"
+local_pdf: "/files/mevar/exhortation_speciale_aout_08_2016_toutes_choses_s_accompliront.pdf"
 source: "mevar"
 sermon_id: "toutes-choses-s-accompliront"
 title: "Toutes choses s'accompliront"
@@ -376,4 +377,4 @@ La grâce d’être Ministre de l’Evangile a été faite aux croyants juifs et
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_08_2016_toutes_choses_s_accompliront.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_speciale_aout_08_2016_toutes_choses_s_accompliront.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2026/09/ce-qui-arrive-le-jour-du-seigneur-exho-speciale-aout-2026.pdf"
+local_pdf: "/files/mevar/ce-qui-arrive-le-jour-du-seigneur-exho-speciale-aout-2026.pdf"
 source: "mevar"
 sermon_id: "ce-qui-arrive-le-jour-du-seigneur"
 title: "Ce qui arrive – Le Jour du Seigneur"
@@ -10,6 +11,7 @@ status: "published"
 url: "https://mevar.org/ce-qui-arrive-le-jour-du-seigneur/"
 featured: true
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2026/09/grok-image-77b57cd6-0f17-4d73-ac32-d532d76516f2.jpg"
+local_image: "images/mevar/ce-qui-arrive-le-jour-du-seigneur.webp"
 tags:
   - "Exhortations"
   - "2026"
@@ -244,7 +246,7 @@ Fr M’BRA Parfait**
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2026/09/ce-qui-arrive-le-jour-du-seigneur-exho-speciale-aout-2026.pdf)
+[Télécharger le PDF](/files/mevar/ce-qui-arrive-le-jour-du-seigneur-exho-speciale-aout-2026.pdf)
 
 * * *
 

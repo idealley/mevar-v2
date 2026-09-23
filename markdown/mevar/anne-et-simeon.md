@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/anne-et-simeon/"
 feature_image: "https://mevar.org/content/images/2023/01/simeon-jesus.jpeg"
-local_image: "images/mevar/anne-et-simeon.jpeg"
+local_image: "images/mevar/anne-et-simeon.webp"
 tags:
   - "Prédications"
   - "Lagos"

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/LA-VISION-DU-NOUVEAU-MINISTE-RE-.pdf"
+local_pdf: "/files/mevar/LA-VISION-DU-NOUVEAU-MINISTE-RE-.pdf"
 source: "mevar"
 sermon_id: "lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere"
 title: "L’achèvement de l'œuvre de Dieu dans l'Église"
@@ -10,7 +11,7 @@ status: "published"
 url: "https://mevar.org/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere/"
 featured: true
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/billy-huynh-v9bnfMCyKbg-unsplash.jpg"
-local_image: "images/mevar/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere.jpg"
+local_image: "images/mevar/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere.webp"
 tags:
   - "Publications"
   - "Exhortations"
@@ -136,7 +137,7 @@ Bien-aimés, n’oublions pas ce que nous avons entendu dès le départ par la 
 
 ### Télécharger la publication complète avec les prédications :
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/LA-VISION-DU-NOUVEAU-MINISTE-RE-.pdf)
+[Télécharger le PDF](/files/mevar/LA-VISION-DU-NOUVEAU-MINISTE-RE-.pdf)
 
 ### Prédications individuelles :
 

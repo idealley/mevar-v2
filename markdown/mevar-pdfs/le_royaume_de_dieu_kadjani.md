@@ -33,6 +33,7 @@ themes:
   - "restauration"
   - "vie dans le Royaume"
 pdf_url: "https://mevar.org/content/files/2022/12/le_royaume_de_dieu_kadjani.pdf"
+local_pdf: "/files/mevar/le_royaume_de_dieu_kadjani.pdf"
 llm_cleaned: true
 ---
 LE ROYAUME DE DIEU

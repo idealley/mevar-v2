@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_intercesseurs_de_minuit.pdf"
+local_pdf: "/files/mevar/exhortation_speciale_aout_2006_intercesseurs_de_minuit.pdf"
 source: "mevar"
 sermon_id: "les-intercesseurs-de-minuit"
 title: "Les intercesseurs de Minuit"
@@ -113,4 +114,4 @@ En Christ notre Seigneur
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_intercesseurs_de_minuit.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_speciale_aout_2006_intercesseurs_de_minuit.pdf)

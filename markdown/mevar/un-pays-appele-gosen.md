@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/un_pays_appele_gosen_19_mai_2013.pdf"
+local_pdf: "/files/mevar/un_pays_appele_gosen_19_mai_2013.pdf"
 source: "mevar"
 sermon_id: "un-pays-appele-gosen"
 title: "Un pays appelé Gosen"
@@ -158,4 +159,4 @@ Cantique de louange.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/un_pays_appele_gosen_19_mai_2013.pdf)
+[Télécharger le PDF](/files/mevar/un_pays_appele_gosen_19_mai_2013.pdf)

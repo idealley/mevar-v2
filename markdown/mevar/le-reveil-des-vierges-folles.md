@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-reveil-des-vierges-folles/"
 feature_image: "https://mevar.org/content/images/2022/12/ten-virgins.jpeg"
-local_image: "images/mevar/le-reveil-des-vierges-folles.jpeg"
+local_image: "images/mevar/le-reveil-des-vierges-folles.webp"
 tags:
   - "Prédications"
   - "audio"

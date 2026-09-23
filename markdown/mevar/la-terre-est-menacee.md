@@ -9,7 +9,7 @@ status: "published"
 url: "https://mevar.org/la-terre-est-menacee/"
 featured: true
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/burning-earth.jpeg"
-local_image: "images/mevar/la-terre-est-menacee.jpeg"
+local_image: "images/mevar/la-terre-est-menacee.webp"
 tags:
   - "Prédications"
   - "2023"

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_aout_2017_une_porte_ouverte.pdf"
+local_pdf: "/files/mevar/exhortation_fin_aout_2017_une_porte_ouverte.pdf"
 source: "mevar"
 sermon_id: "une-porte-ouverte"
 title: "Une porte ouverte"
@@ -154,4 +155,4 @@ Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2017_une_porte_ouverte.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_fin_aout_2017_une_porte_ouverte.pdf)

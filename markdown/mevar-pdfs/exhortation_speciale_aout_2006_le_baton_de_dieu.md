@@ -42,6 +42,7 @@ themes:
   - "vaillants héros"
   - "Babylone"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf"
+local_pdf: "/files/mevar/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf"
 llm_cleaned: true
 ---
 *Exhortation spéciale du Mois d'Août 2006*

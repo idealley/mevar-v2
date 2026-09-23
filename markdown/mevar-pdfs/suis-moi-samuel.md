@@ -34,6 +34,7 @@ themes:
   - "Révélation divine"
   - "Signes et miracles"
 pdf_url: "https://mevar.org/content/files/2022/12/suis-moi-samuel.pdf"
+local_pdf: "/files/mevar/suis-moi-samuel.pdf"
 llm_cleaned: true
 ---
 **Suis-moi !**

@@ -34,6 +34,7 @@ themes:
   - "obéissance"
   - "travail dans l'œuvre de Dieu"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf"
+local_pdf: "/files/mevar/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf"
 llm_cleaned: true
 ---
 Exhortation de Novembre – Décembre 2019

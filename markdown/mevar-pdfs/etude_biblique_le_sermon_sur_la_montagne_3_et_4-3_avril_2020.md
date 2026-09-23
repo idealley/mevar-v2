@@ -36,6 +36,7 @@ themes:
   - "sacrificature de Melchisédech"
   - "nouvelle naissance"
 pdf_url: "https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
+local_pdf: "/files/mevar/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
 llm_cleaned: true
 ---
 ÉTUDE BIBLIQUE – LA LOI DE MOÏSE DANS LE ROYAUME DE DIEU- 1

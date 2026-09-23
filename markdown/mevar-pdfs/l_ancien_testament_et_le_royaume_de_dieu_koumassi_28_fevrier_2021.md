@@ -44,6 +44,7 @@ themes:
   - "Mariage"
   - "Habitation du Saint-Esprit"
 pdf_url: "https://mevar.org/content/files/2022/12/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf"
+local_pdf: "/files/mevar/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf"
 llm_cleaned: true
 ---
 L’Ancien Testament et le Royaume de Dieu

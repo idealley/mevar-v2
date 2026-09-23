@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/qui_sera_enleve.pdf"
+local_pdf: "/files/mevar/qui_sera_enleve.pdf"
 source: "mevar"
 sermon_id: "qui-sera-enleve"
 title: "Qui sera enlevé?"
@@ -879,4 +880,4 @@ C’est sur cette exhortation que je mets un point final à cet exposé. Que not
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/qui_sera_enleve.pdf)
+[Télécharger le PDF](/files/mevar/qui_sera_enleve.pdf)

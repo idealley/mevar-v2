@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/nous-avons-vu-son-etoile/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/rois-mages-etoile.jpeg"
-local_image: "images/mevar/nous-avons-vu-son-etoile.jpeg"
+local_image: "images/mevar/nous-avons-vu-son-etoile.webp"
 tags:
   - "Exhortations"
   - "2014"

@@ -42,6 +42,7 @@ themes:
   - "grande tribulation"
   - "colère de l'Agneau"
 pdf_url: "https://mevar.org/content/files/2022/12/le_septieme_sceau_premiere_partie_6_09_2019.pdf"
+local_pdf: "/files/mevar/le_septieme_sceau_premiere_partie_6_09_2019.pdf"
 llm_cleaned: true
 ---
 Le Message des 7 sceaux, le 7e sceau (première partie)

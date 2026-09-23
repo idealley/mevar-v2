@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/7_sceaux_4.pdf"
+local_pdf: "/files/mevar/7_sceaux_4.pdf"
 source: "mevar"
 sermon_id: "le-quatrieme-cinquieme-et-sixeme-sceaux"
 title: "Le quatrième, cinquième et sixème sceaux"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-quatrieme-cinquieme-et-sixeme-sceaux/"
 feature_image: "https://mevar.org/content/images/2022/12/death-pale-horse.png"
-local_image: "images/mevar/le-quatrieme-cinquieme-et-sixeme-sceaux.png"
+local_image: "images/mevar/le-quatrieme-cinquieme-et-sixeme-sceaux.webp"
 tags:
   - "Le Message des Sept Sceaux"
   - "Prédications"
@@ -213,4 +214,4 @@ L’esprit religieux est au milieu. Quand vous voyez Jésus d’un côté et Sat
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/7_sceaux_4.pdf)
+[Télécharger le PDF](/files/mevar/7_sceaux_4.pdf)

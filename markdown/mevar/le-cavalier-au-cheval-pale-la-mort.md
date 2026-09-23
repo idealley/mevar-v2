@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/7_sceaux_3.pdf"
+local_pdf: "/files/mevar/7_sceaux_3.pdf"
 source: "mevar"
 sermon_id: "le-cavalier-au-cheval-pale-la-mort"
 title: "Le Cavalier au Cheval Pâle: La Mort"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-cavalier-au-cheval-pale-la-mort/"
 feature_image: "https://mevar.org/content/images/2022/12/eagle-snake.jpg"
-local_image: "images/mevar/le-cavalier-au-cheval-pale-la-mort.jpg"
+local_image: "images/mevar/le-cavalier-au-cheval-pale-la-mort.webp"
 tags:
   - "Le Message des Sept Sceaux"
   - "Prédications"
@@ -162,4 +163,4 @@ Que Dieu soit béni. Je pense qu’on a fini.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/7_sceaux_3.pdf)
+[Télécharger le PDF](/files/mevar/7_sceaux_3.pdf)

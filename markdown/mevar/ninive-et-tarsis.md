@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/ninive_et_tarsis_28_06_2015.pdf"
+local_pdf: "/files/mevar/ninive_et_tarsis_28_06_2015.pdf"
 source: "mevar"
 sermon_id: "ninive-et-tarsis"
 title: "Ninive et Tarsis"
@@ -230,4 +231,4 @@ J’ai été long excusez-moi. Ce n’est pas dans mes habitudes, mais je voulai
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/ninive_et_tarsis_28_06_2015.pdf)
+[Télécharger le PDF](/files/mevar/ninive_et_tarsis_28_06_2015.pdf)

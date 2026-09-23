@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/on_l_appelera_samuel_exhortation_fin_fevrier_2010.pdf"
+local_pdf: "/files/mevar/on_l_appelera_samuel_exhortation_fin_fevrier_2010.pdf"
 source: "mevar"
 sermon_id: "on-l-appellera-samuel"
 title: "On l’appellera Samuel"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/on-l-appellera-samuel/"
 feature_image: "https://mevar.org/content/images/2022/12/samuel.jpg"
-local_image: "images/mevar/on-l-appellera-samuel.jpg"
+local_image: "images/mevar/on-l-appellera-samuel.webp"
 tags:
   - "Exhortations"
   - "Etudes Bibliques"
@@ -380,4 +381,4 @@ A vous tous qui êtes près et au loin, je dis Maranatha ! Jésus-Christ revient
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/on_l_appelera_samuel_exhortation_fin_fevrier_2010.pdf)
+[Télécharger le PDF](/files/mevar/on_l_appelera_samuel_exhortation_fin_fevrier_2010.pdf)

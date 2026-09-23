@@ -36,6 +36,7 @@ themes:
   - "guérison divine"
   - "renouvellement de l'intelligence"
 pdf_url: "https://mevar.org/content/files/2022/12/les-sentiments-justes-exhortation-fevrier-2020.pdf"
+local_pdf: "/files/mevar/les-sentiments-justes-exhortation-fevrier-2020.pdf"
 llm_cleaned: true
 ---
 Exhortation de Février 2020

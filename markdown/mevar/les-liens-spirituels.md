@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf"
+local_pdf: "/files/mevar/les_liens_spirituels_1_et_2-6_avril_2020.pdf"
 source: "mevar"
 sermon_id: "les-liens-spirituels"
 title: "Les liens spirituels (1)"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-liens-spirituels/"
 feature_image: "https://mevar.org/content/images/2022/12/bound-with-chains-of-the-spirit-and-of-men11.jpg"
-local_image: "images/mevar/les-liens-spirituels.jpg"
+local_image: "images/mevar/les-liens-spirituels.webp"
 tags:
   - "Prédications"
   - "Etudes Bibliques"
@@ -122,4 +123,4 @@ Que Dieu nous bénisse et que sa grâce et sa paix soient sur nous. Qu’Il nous
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf)
+[Télécharger le PDF](/files/mevar/les_liens_spirituels_1_et_2-6_avril_2020.pdf)

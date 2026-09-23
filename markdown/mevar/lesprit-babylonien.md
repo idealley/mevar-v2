@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/lesprit-babylonien/"
 feature_image: "https://mevar.org/content/images/2023/01/1200px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited-768x562.jpg"
-local_image: "images/mevar/lesprit-babylonien.jpg"
+local_image: "images/mevar/lesprit-babylonien.webp"
 tags:
   - "Prédications"
   - "2006"

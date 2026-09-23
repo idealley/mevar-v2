@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/des_noms_sous_les_propheties_06.06.2021.pdf"
+local_pdf: "/files/mevar/des_noms_sous_les_propheties_06.06.2021.pdf"
 source: "mevar"
 sermon_id: "des-noms-sous-les-propheties"
 title: "Des noms sous les prophéties"
@@ -182,4 +183,4 @@ Ils n’étaient pas des rabbins, ni des pharisiens. **On ne les considérait pa
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/des_noms_sous_les_propheties_06.06.2021.pdf)
+[Télécharger le PDF](/files/mevar/des_noms_sous_les_propheties_06.06.2021.pdf)

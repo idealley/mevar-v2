@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2014_la_nuit_et_le_jour_des_esprits.pdf"
+local_pdf: "/files/mevar/exhortation_de_janvier_2014_la_nuit_et_le_jour_des_esprits.pdf"
 source: "mevar"
 sermon_id: "la-nuit-et-le-jour-des-esprits"
 title: "La Nuit et le Jour des Esprits"
@@ -186,4 +187,4 @@ Frères, c’est avec beaucoup de joie, de paix et de vie que nous continuons la
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2014_la_nuit_et_le_jour_des_esprits.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_janvier_2014_la_nuit_et_le_jour_des_esprits.pdf)

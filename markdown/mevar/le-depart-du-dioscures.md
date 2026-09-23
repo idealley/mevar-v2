@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_juillet_2014_le_depart_du_dioscures.pdf"
+local_pdf: "/files/mevar/exhortation_de_juillet_2014_le_depart_du_dioscures.pdf"
 source: "mevar"
 sermon_id: "le-depart-du-dioscures"
 title: "Le départ du Dioscures"
@@ -190,4 +191,4 @@ Alors mes bien-aimés, qu’en est-il de notre piété ? Qu’en est-il de notre
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_juillet_2014_le_depart_du_dioscures.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_juillet_2014_le_depart_du_dioscures.pdf)

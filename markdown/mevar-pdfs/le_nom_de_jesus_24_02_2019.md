@@ -30,6 +30,7 @@ themes:
   - "Libération spirituelle"
   - "Foi et assurance"
 pdf_url: "https://mevar.org/content/files/2022/12/le_nom_de_jesus_24_02_2019.pdf"
+local_pdf: "/files/mevar/le_nom_de_jesus_24_02_2019.pdf"
 llm_cleaned: true
 ---
 Nous remercions encore le Seigneur ce matin. On va lire la Parole de Dieu. Hier nous avons entendu qu'on est toujours appelés à faire un choix. Vous serez toujours placés devant un choix à faire. Ce sera la voie de Dieu ou bien la voie de l'ennemi. Ce sera toujours comme ça. On est appelés à toujours choisir la voie de Dieu, parce que c'est sur la voie de Dieu qu'on a le bonheur et la paix. Ce matin j'ai une chose importante à vous dire et il est bien que chacun de nous saisisse cela. Ce sont des choses que nous savons déjà, mais quand Dieu parle de cela aujourd'hui, il faut essayer de comprendre ce que ça veut dire. Alors on va lire dans Philippiens chapitre 2, à partir du verset 5 voilà ce qui est écrit :

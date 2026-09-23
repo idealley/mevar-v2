@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_offrande_sallee_15_01_2017.pdf"
+local_pdf: "/files/mevar/l_offrande_sallee_15_01_2017.pdf"
 source: "mevar"
 sermon_id: "l-offrande-salee"
 title: "L’Offrande salée"
@@ -89,4 +90,4 @@ Quand on pleure à cause du Seigneur, c’est du sel qu’on répand sur notre o
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_offrande_sallee_15_01_2017.pdf)
+[Télécharger le PDF](/files/mevar/l_offrande_sallee_15_01_2017.pdf)

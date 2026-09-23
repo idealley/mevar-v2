@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf"
+local_pdf: "/files/mevar/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf"
 source: "mevar"
 sermon_id: "l-oeuvre-de-dieu-un-investissement"
 title: "L’œuvre de Dieu – un investissement"
@@ -95,4 +96,4 @@ Que Dieu soit béni et qu’il nous aide. Nous travaillons parce que nous savons
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf)
+[Télécharger le PDF](/files/mevar/l_oeuvre_de_dieu-un_investissement-abidjan-12.08.2021.pdf)

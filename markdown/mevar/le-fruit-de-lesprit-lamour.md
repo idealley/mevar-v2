@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/fruit-de-l-esprit-l-amour-30.06.2024.pdf"
+local_pdf: "/files/mevar/fruit-de-l-esprit-l-amour-30.06.2024.pdf"
 source: "mevar"
 sermon_id: "le-fruit-de-lesprit-lamour"
 title: "Le fruit de l’Esprit - L'amour"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-fruit-de-lesprit-lamour/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/necatrines-2.jpg"
-local_image: "images/mevar/le-fruit-de-lesprit-lamour.jpg"
+local_image: "images/mevar/le-fruit-de-lesprit-lamour.webp"
 tags:
   - "Prédications"
   - "2024"
@@ -292,6 +293,6 @@ M’anime de l’Esprit. »
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/fruit-de-l-esprit-l-amour-30.06.2024.pdf)
+[Télécharger le PDF](/files/mevar/fruit-de-l-esprit-l-amour-30.06.2024.pdf)
 
 [Le fruit de l’Esprit – La paixGloire à Dieu. Que Dieu nous bénisse. Nous allons continuer ce qu’on a commencé il y a déjà quelques temps. Et je pense qu’on va se laisser conduire par l’Esprit de Dieu et nous allons lire quelques Écritures. Le passage de base que nous connaissons déjà, c’est Galates chapitreMEVARParfait M’bra](https://mevar.org/le-fruit-de-lesprit-la-paix/)[Le fruit de l’Esprit – La joieGloire à Dieu ! L’ancien évangile, c’est l’évangile qui a été prêché par Jésus et qui continue d’être prêché par le Saint-Esprit. Ce n’est pas l’évangile de la prospérité qu’on voit dans le monde aujourd’hui, dans le monde des religieux dans les églises fondées parMEVARParfait M’bra](https://mevar.org/le-fruit-de-lesprit-la-joie/)

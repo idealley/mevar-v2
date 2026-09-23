@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_septieme_sceau_premiere_partie_6_09_2019.pdf"
+local_pdf: "/files/mevar/le_septieme_sceau_premiere_partie_6_09_2019.pdf"
 source: "mevar"
 sermon_id: "le-septieme-sceau"
 title: "Le septième sceau"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-septieme-sceau/"
 feature_image: "https://mevar.org/content/images/2022/12/seventh-seal.jpg"
-local_image: "images/mevar/le-septieme-sceau.jpg"
+local_image: "images/mevar/le-septieme-sceau.webp"
 tags:
   - "Prédications"
   - "Le Message des Sept Sceaux"
@@ -244,4 +245,4 @@ Nous devons comprendre que la situation de l’Église a évolué et va continue
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_septieme_sceau_premiere_partie_6_09_2019.pdf)
+[Télécharger le PDF](/files/mevar/le_septieme_sceau_premiere_partie_6_09_2019.pdf)

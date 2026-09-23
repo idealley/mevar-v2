@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-animaux-instruments-dans-les-mains-de-dieu/"
 feature_image: "https://mevar.org/content/images/2022/12/jonah-and-the-whale-of-a-story.jpg"
-local_image: "images/mevar/les-animaux-instruments-dans-les-mains-de-dieu.jpg"
+local_image: "images/mevar/les-animaux-instruments-dans-les-mains-de-dieu.webp"
 tags:
   - "Y a-t-il quelque chose d'impossible à Dieu?"
   - "audio"

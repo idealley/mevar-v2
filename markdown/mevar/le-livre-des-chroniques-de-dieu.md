@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2017_le_livre_des_chroniques_de_dieu.pdf"
+local_pdf: "/files/mevar/exhortation_fin_fevrier_2017_le_livre_des_chroniques_de_dieu.pdf"
 source: "mevar"
 sermon_id: "le-livre-des-chroniques-de-dieu"
 title: "Le livre des chroniques de Dieu"
@@ -184,4 +185,4 @@ Mes bien-aimés frères et sœurs, pratiquons la parole de Dieu que nous avons e
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2017_le_livre_des_chroniques_de_dieu.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_fin_fevrier_2017_le_livre_des_chroniques_de_dieu.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/demas_ou_l_esprit_de_la_mondanite_16_03_2016.pdf"
+local_pdf: "/files/mevar/demas_ou_l_esprit_de_la_mondanite_16_03_2016.pdf"
 source: "mevar"
 sermon_id: "demas-ou-l-esprit-de-la-mondanite"
 title: "Démas, ou l’esprit de la mondanité"
@@ -156,4 +157,4 @@ Prions ensemble.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/demas_ou_l_esprit_de_la_mondanite_16_03_2016.pdf)
+[Télécharger le PDF](/files/mevar/demas_ou_l_esprit_de_la_mondanite_16_03_2016.pdf)

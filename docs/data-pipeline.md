@@ -64,12 +64,18 @@ and lists the French names it cannot align in
 
 `50-build-index.mjs` reads all manifests, walks `markdown/`, emits `index.json` (one row per doc with all fields needed for ingest).
 
-## Stage 6 — Image download (mevar feature images)
+## Stage 6 — Mevar assets off Ghost
+
+Everything mevar links on `mevar.org/content/` and the DigitalOcean CDN is
+committed and served from our domain (`web/public/images`, `web/public/files`).
 
 | Script                              | Action                                                  |
 | ----------------------------------- | ------------------------------------------------------- |
-| `90-download-mevar-images.mjs`      | downloads 110 unique CDN URLs to `images/mevar/`        |
+| `90-download-mevar-images.mjs`      | feature images to `images/mevar/<slug>.<ext>`          |
 | `91-patch-mevar-frontmatter.mjs`    | adds `local_image:` field to each mevar md frontmatter |
+| `92-download-mevar-assets.mjs`      | body images to `images/mevar/content/`, PDFs to `files/mevar/`; body links root-relative, `local_pdf:` next to `pdf_download:` / `pdf_url:` |
+| `93-optimize-images.mjs`            | `images/` to WebP, under 80 KB a file where it can     |
+| `check-local-assets.mjs`            | every local `images/` and `files/` link in `markdown/` resolves |
 
 ## Stage 7 — SurrealDB ingest
 

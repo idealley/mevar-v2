@@ -34,6 +34,7 @@ themes:
   - "combat spirituel"
   - "préparation à l'enlèvement"
 pdf_url: "https://mevar.org/content/files/2022/12/les_liens_spirituels_1_et_2-6_avril_2020.pdf"
+local_pdf: "/files/mevar/les_liens_spirituels_1_et_2-6_avril_2020.pdf"
 llm_cleaned: true
 ---
 Les liens spirituels - 1 -

@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/larche-et-les-adorateurs/"
 feature_image: "https://mevar.org/content/images/2023/01/ox-ark.jpg"
-local_image: "images/mevar/larche-et-les-adorateurs.jpg"
+local_image: "images/mevar/larche-et-les-adorateurs.webp"
 tags:
   - "Prédications"
   - "2011"

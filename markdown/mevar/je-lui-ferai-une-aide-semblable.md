@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/aide_semblable_anderson.pdf"
+local_pdf: "/files/mevar/aide_semblable_anderson.pdf"
 source: "mevar"
 sermon_id: "je-lui-ferai-une-aide-semblable"
 title: "Je lui ferai une aide semblable"
@@ -243,4 +244,4 @@ En conclusion, prions pour nos maisons, pour nos foyers. Assumons ensemble nos c
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/aide_semblable_anderson.pdf)
+[Télécharger le PDF](/files/mevar/aide_semblable_anderson.pdf)

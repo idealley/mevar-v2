@@ -41,6 +41,7 @@ themes:
   - "vigilance spirituelle"
   - "enlèvement"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation-la-fin-d-une-epoque-novembre-2022.pdf"
+local_pdf: "/files/mevar/exhortation-la-fin-d-une-epoque-novembre-2022.pdf"
 llm_cleaned: true
 ---
 Exhortation Spéciale de Novembre 2022

@@ -42,6 +42,7 @@ themes:
   - "sainteté"
   - "séduction"
 pdf_url: "https://mevar.org/content/files/2022/12/7_sceaux_4.pdf"
+local_pdf: "/files/mevar/7_sceaux_4.pdf"
 llm_cleaned: true
 ---
 *Prêché à Koumassi le dimanche 22 juillet 2019, par le Frère M'BRA Parfait.*

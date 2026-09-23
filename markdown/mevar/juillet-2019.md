@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/sujets_de_priere_juillet_2019.pdf"
+local_pdf: "/files/mevar/sujets_de_priere_juillet_2019.pdf"
 source: "mevar"
 sermon_id: "juillet-2019"
 title: "Juillet 2019"
@@ -43,4 +44,4 @@ Par les écritures, nous savons que c’est Jésus-Christ qui est Le Sauveur. Si
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/sujets_de_priere_juillet_2019.pdf)
+[Télécharger le PDF](/files/mevar/sujets_de_priere_juillet_2019.pdf)

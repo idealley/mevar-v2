@@ -25,6 +25,7 @@ themes:
   - "persévérance"
   - "haine du mal"
 pdf_url: "https://mevar.org/content/files/2022/12/la_crainte_de_l_eternel_samuel.pdf"
+local_pdf: "/files/mevar/la_crainte_de_l_eternel_samuel.pdf"
 llm_cleaned: true
 ---
 La Crainte de l’Eternel

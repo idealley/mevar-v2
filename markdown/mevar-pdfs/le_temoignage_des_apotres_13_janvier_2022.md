@@ -38,6 +38,7 @@ themes:
   - "vrais disciples"
   - "Babylone"
 pdf_url: "https://mevar.org/content/files/2022/12/le_temoignage_des_apotres_13_janvier_2022.pdf"
+local_pdf: "/files/mevar/le_temoignage_des_apotres_13_janvier_2022.pdf"
 llm_cleaned: true
 ---
 Le témoignage des apôtres

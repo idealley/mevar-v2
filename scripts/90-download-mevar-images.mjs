@@ -3,7 +3,8 @@
 // and add local_image field to each manifest entry.
 //
 // Filename convention: <post-slug>.<ext>  (post-slug is mevar's sermon_id slug).
-// Re-runs are idempotent: skips downloads already on disk.
+// Re-runs are idempotent: skips downloads already on disk, and keeps a
+// local_image that exists (93-optimize-images.mjs re-encodes it to WebP).
 
 import fs from "node:fs";
 import path from "node:path";
@@ -25,6 +26,10 @@ const queue = [...tasks];
 let done = 0, ok = 0, cached = 0, failed = 0;
 
 async function downloadOne(entry) {
+  if (entry.local_image && fs.existsSync(path.join(root, entry.local_image))) {
+    cached++;
+    return;
+  }
   const ext = extFrom(entry.feature_image);
   const filename = `${entry.sermon_id}.${ext}`;
   const localPath = path.join(outDir, filename);

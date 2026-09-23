@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_marche_de_l_incredulite_01_12_2016.pdf"
+local_pdf: "/files/mevar/la_marche_de_l_incredulite_01_12_2016.pdf"
 source: "mevar"
 sermon_id: "la-marche-de-l-incredulite"
 title: "La marche de l’incrédulité"
@@ -106,4 +107,4 @@ Par le passé on a entendu la Parole, on ne l’a pas pratiquée. C’est pour c
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_marche_de_l_incredulite_01_12_2016.pdf)
+[Télécharger le PDF](/files/mevar/la_marche_de_l_incredulite_01_12_2016.pdf)

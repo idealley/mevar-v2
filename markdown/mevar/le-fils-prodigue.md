@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_fils_prodigue_09_11_2013.pdf"
+local_pdf: "/files/mevar/le_fils_prodigue_09_11_2013.pdf"
 source: "mevar"
 sermon_id: "le-fils-prodigue"
 title: "Le fils prodigue"
@@ -116,4 +117,4 @@ Ne soyons pas comme ce fils qui ne voulait plus de l'autorité de son père. Nou
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_fils_prodigue_09_11_2013.pdf)
+[Télécharger le PDF](/files/mevar/le_fils_prodigue_09_11_2013.pdf)

@@ -2,6 +2,20 @@
 
 Living list of stuff we know about and have decided to defer, with enough context to pick back up.
 
+## Assets dead on Ghost
+
+**Status**: goal 01 moved every mevar image and PDF off Ghost, except eight that Ghost answers 404 for (2026-09-23). Their links still point at mevar.org and die with it:
+
+- feature image of `le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse`: `https://mevar.org/content/images/2022/12/quatres-cavaliers-de-l'apocalypse.jpg`. The same name with a hyphen for the apostrophe (`quatres-cavaliers-de-l-apocalypse.jpg`) answers 200 and is probably the same image; not used, unconfirmed.
+- PDF links, all `https://mevar.org/content/files/2022/12/`:
+  - `la_parabole_des_talents_5-=1_2014.pdf` in `la-parabole-des-talents`
+  - `JUMEAUX1%20.pdf`, `JUMEAUX%202.pdf`, `JUMEAUX%203.pdf` in `les-freres-jumeaux-du-message-du-temps-de-la-fin-1`, `-2`, `-3`
+  - `Bonne%20vision%20de%20la%20sanctification.pdf` in `le-sermon-sur-la-montagne-audio-5`
+  - `Un%20peuple%20de%20sacrificateurs.pdf` in `un-peuple-de-sacrificateurs`
+  - `LES%20PLEURS%20ET%20LES%20GRINCEMENTS%20DE%20DENTS.pdf` in `des-pleurs-et-des-grincements-de-dents`
+
+**Fix**: Samuel finds the files (OneDrive, Ghost admin), drops them in `images/mevar/` and `files/mevar/`, and points the links at them; or the links go.
+
 ## Branham text the restoration could not reach
 
 **Status**: goal 07 put back what the branham.org PDFs say in about 690 sermons. 39 French book names remain in `markdown/branham/`, listed with their context in `manifests/branham-restore-unaligned.json`: the LLM cleanup changed the words around them, so they do not align with the source.

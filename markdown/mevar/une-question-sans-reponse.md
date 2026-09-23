@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/question_sans_reponse_25_octobre_2020.pdf"
+local_pdf: "/files/mevar/question_sans_reponse_25_octobre_2020.pdf"
 source: "mevar"
 sermon_id: "une-question-sans-reponse"
 title: "Une question sans réponse"
@@ -99,4 +100,4 @@ Que Dieu soit béni. On va se remettre entre les mains du Seigneur. Qu’Il soit
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/question_sans_reponse_25_octobre_2020.pdf)
+[Télécharger le PDF](/files/mevar/question_sans_reponse_25_octobre_2020.pdf)

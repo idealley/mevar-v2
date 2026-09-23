@@ -56,7 +56,11 @@ know would 404:
    the URL: `@astrojs/rss` at `/rss/`, the 30 newest published Ghost-source
    works, title plus summary plus link. Add "`dist/rss/index.xml` or the
    route Astro emits for `/rss/` exists and validates" to the check script.
-8. **Housekeeping.** `@astrojs/sitemap`. Real PNG and ICO icons generated
+8. **Local PDFs.** Goal 01 left the templates alone. The PDF button in
+   `works/[...slug].astro` reads `pdf_url`, still mevar.org for the 69
+   `mevar-pdfs` works: read `local_pdf` first (goal 01 set it next to every
+   downloaded `pdf_url` and `pdf_download`).
+9. **Housekeeping.** `@astrojs/sitemap`. Real PNG and ICO icons generated
    from `public/brand/logo.svg`. `og:image` from `local_image`. Canonical
    link tag on every page.
 

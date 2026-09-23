@@ -38,6 +38,7 @@ themes:
   - "victoire sur l'incrédulité"
   - "discernement"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_septembre_2019_braver_la_grande_foule.pdf"
+local_pdf: "/files/mevar/exhortation_septembre_2019_braver_la_grande_foule.pdf"
 llm_cleaned: true
 ---
 Exhortation de Septembre 2019

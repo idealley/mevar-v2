@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_vision_du_souverain_berger_01_04_2018.pdf"
+local_pdf: "/files/mevar/la_vision_du_souverain_berger_01_04_2018.pdf"
 source: "mevar"
 sermon_id: "la-vision-du-bon-berger"
 title: "La vision du bon Berger"
@@ -138,4 +139,4 @@ Si tu ignores les autres Ministères, ton Assemblée ne sera pas arrosée. Allé
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_vision_du_souverain_berger_01_04_2018.pdf)
+[Télécharger le PDF](/files/mevar/la_vision_du_souverain_berger_01_04_2018.pdf)

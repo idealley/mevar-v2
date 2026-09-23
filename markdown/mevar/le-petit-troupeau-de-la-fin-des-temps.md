@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_petit_troupeau_de_la_fin_des_temps_8_11_2012.pdf"
+local_pdf: "/files/mevar/le_petit_troupeau_de_la_fin_des_temps_8_11_2012.pdf"
 source: "mevar"
 sermon_id: "le-petit-troupeau-de-la-fin-des-temps"
 title: "Le petit troupeau de la fin des temps"
@@ -145,4 +146,4 @@ Cantique d'adoration.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_petit_troupeau_de_la_fin_des_temps_8_11_2012.pdf)
+[Télécharger le PDF](/files/mevar/le_petit_troupeau_de_la_fin_des_temps_8_11_2012.pdf)

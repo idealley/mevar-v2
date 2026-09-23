@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/medecin_gueris-toi_toi-meme_15_02_2015.pdf"
+local_pdf: "/files/mevar/medecin_gueris-toi_toi-meme_15_02_2015.pdf"
 source: "mevar"
 sermon_id: "medecin-gueris-toi-toi-meme"
 title: "Médecin, guéris-toi toi-même"
@@ -107,4 +108,4 @@ J’ai commencé à réfléchir et je me suis dit que toutes ces affaires qui pr
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/medecin_gueris-toi_toi-meme_15_02_2015.pdf)
+[Télécharger le PDF](/files/mevar/medecin_gueris-toi_toi-meme_15_02_2015.pdf)

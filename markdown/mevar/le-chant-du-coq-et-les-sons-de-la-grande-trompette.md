@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/12/le-chant-du-coq-et-les-sons-de-la-grande-trompette_exhortation-speciale-novembre-2024.pdf"
+local_pdf: "/files/mevar/le-chant-du-coq-et-les-sons-de-la-grande-trompette_exhortation-speciale-novembre-2024.pdf"
 source: "mevar"
 sermon_id: "le-chant-du-coq-et-les-sons-de-la-grande-trompette"
 title: "Le chant du coq et les sons de la grande trompette"
@@ -328,7 +329,7 @@ Missionnaire**
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/12/le-chant-du-coq-et-les-sons-de-la-grande-trompette_exhortation-speciale-novembre-2024.pdf)
+[Télécharger le PDF](/files/mevar/le-chant-du-coq-et-les-sons-de-la-grande-trompette_exhortation-speciale-novembre-2024.pdf)
 
 * * *
 

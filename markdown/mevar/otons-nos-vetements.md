@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf"
+local_pdf: "/files/mevar/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf"
 source: "mevar"
 sermon_id: "otons-nos-vetements"
 title: "Ôtons nos vêtements"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/otons-nos-vetements/"
 feature_image: "https://mevar.org/content/images/2022/12/lavage-des-pieds.jpg"
-local_image: "images/mevar/otons-nos-vetements.jpg"
+local_image: "images/mevar/otons-nos-vetements.webp"
 tags:
   - "Prédications"
   - "2020"
@@ -141,4 +142,4 @@ Vaut mieux que mille ailleurs
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf)
+[Télécharger le PDF](/files/mevar/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf)

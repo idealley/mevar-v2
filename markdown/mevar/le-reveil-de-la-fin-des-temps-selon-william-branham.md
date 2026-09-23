@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_reveil_selon_william_branham_17_11_2012.pdf"
+local_pdf: "/files/mevar/le_reveil_selon_william_branham_17_11_2012.pdf"
 source: "mevar"
 sermon_id: "le-reveil-de-la-fin-des-temps-selon-william-branham"
 title: "Le réveil de la Fin des Temps selon William Branham"
@@ -96,4 +97,4 @@ Que le péché ne domine pas sur nous. Que le monde ne domine pas sur nous. Nous
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_reveil_selon_william_branham_17_11_2012.pdf)
+[Télécharger le PDF](/files/mevar/le_reveil_selon_william_branham_17_11_2012.pdf)

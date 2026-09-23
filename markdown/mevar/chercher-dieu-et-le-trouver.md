@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf"
+local_pdf: "/files/mevar/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf"
 source: "mevar"
 sermon_id: "chercher-dieu-et-le-trouver"
 title: "Chercher Dieu et le trouver!"
@@ -110,4 +111,4 @@ La vérité est que le chrétien est protégé contre les puissances des ténèb
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf)
+[Télécharger le PDF](/files/mevar/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf)

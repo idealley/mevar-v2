@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
+local_pdf: "/files/mevar/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
 source: "mevar"
 sermon_id: "les-miracles-et-les-fruits-de-l-esprit"
 title: "Les miracles et les fruits de l’Esprit"
@@ -173,4 +174,4 @@ Ce qu’on va présenter à Dieu, ce ne sont pas les miracles, ni les prophétie
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf)
+[Télécharger le PDF](/files/mevar/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf)

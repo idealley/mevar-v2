@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_choix_samuel_15_09_2017.pdf"
+local_pdf: "/files/mevar/le_choix_samuel_15_09_2017.pdf"
 source: "mevar"
 sermon_id: "le-choix"
 title: "Le Choix"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-choix/"
 feature_image: "https://mevar.org/content/images/2022/12/veau-d-or.jpg"
-local_image: "images/mevar/le-choix.jpg"
+local_image: "images/mevar/le-choix.webp"
 tags:
   - "Prédications"
   - "2017"
@@ -218,4 +219,4 @@ Que la grâce et la paix du Seigneur soient sur les lecteurs.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_choix_samuel_15_09_2017.pdf)
+[Télécharger le PDF](/files/mevar/le_choix_samuel_15_09_2017.pdf)

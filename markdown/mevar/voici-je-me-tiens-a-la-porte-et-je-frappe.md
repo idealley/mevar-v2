@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf"
+local_pdf: "/files/mevar/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf"
 source: "mevar"
 sermon_id: "voici-je-me-tiens-a-la-porte-et-je-frappe"
 title: "Voici, je me tiens à la porte, et je frappe"
@@ -211,4 +212,4 @@ Stéphane Pouyt
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf)
+[Télécharger le PDF](/files/mevar/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.pdf)

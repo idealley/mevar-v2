@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/jesus_christ_le_meme_hier_aujourd_hui_et_eternellement_09_05_2015.pdf"
+local_pdf: "/files/mevar/jesus_christ_le_meme_hier_aujourd_hui_et_eternellement_09_05_2015.pdf"
 source: "mevar"
 sermon_id: "jesus-christ-est-le-meme-hier-aujourd-hui-et-eternellement"
 title: "Jésus-Christ est le même hier, aujourd’hui et éternellement"
@@ -150,4 +151,4 @@ Ma prières, c’est que chacun de nous comprenne ces choses. La foi qu’on doi
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/jesus_christ_le_meme_hier_aujourd_hui_et_eternellement_09_05_2015.pdf)
+[Télécharger le PDF](/files/mevar/jesus_christ_le_meme_hier_aujourd_hui_et_eternellement_09_05_2015.pdf)

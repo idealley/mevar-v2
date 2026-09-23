@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_maison_construite_sur_le_roc_stephane.pdf"
+local_pdf: "/files/mevar/la_maison_construite_sur_le_roc_stephane.pdf"
 source: "mevar"
 sermon_id: "la-maison-construite-sur-le-roc"
 title: "La maison construite sur le roc"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-maison-construite-sur-le-roc/"
 feature_image: "https://mevar.org/content/images/2022/12/lighthouse-storm.jpg"
-local_image: "images/mevar/la-maison-construite-sur-le-roc.jpg"
+local_image: "images/mevar/la-maison-construite-sur-le-roc.webp"
 tags:
   - "Exhortations"
   - "2021"
@@ -88,4 +89,4 @@ Stéphane Pouyt, novembre 2017
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_maison_construite_sur_le_roc_stephane.pdf)
+[Télécharger le PDF](/files/mevar/la_maison_construite_sur_le_roc_stephane.pdf)

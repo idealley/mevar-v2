@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/combat_contre_l_ennemi_2012_burkina.pdf"
+local_pdf: "/files/mevar/combat_contre_l_ennemi_2012_burkina.pdf"
 source: "mevar"
 sermon_id: "combat-contre-lennemi"
 title: "Combat contre l'ennemi"
@@ -117,4 +118,4 @@ Séance de prière.
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/combat_contre_l_ennemi_2012_burkina.pdf)
+[Télécharger le PDF](/files/mevar/combat_contre_l_ennemi_2012_burkina.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/ange_de_la_marche.pdf"
+local_pdf: "/files/mevar/ange_de_la_marche.pdf"
 source: "mevar"
 sermon_id: "lange-de-la-marche"
 title: "L’Ange de la marche"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/lange-de-la-marche/"
 feature_image: "https://mevar.org/content/images/2023/01/ange-josu-.jpeg"
-local_image: "images/mevar/lange-de-la-marche.jpeg"
+local_image: "images/mevar/lange-de-la-marche.webp"
 tags:
   - "Prédications"
   - "2007"
@@ -110,4 +111,4 @@ Et je le dis toujours aux frères : moi je ne marche pas avec un homme. Nous som
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/ange_de_la_marche.pdf)
+[Télécharger le PDF](/files/mevar/ange_de_la_marche.pdf)

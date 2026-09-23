@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/servons-le-seigneur/"
 feature_image: "https://mevar.org/content/images/2022/12/aimer-et-servir.jpg"
-local_image: "images/mevar/servons-le-seigneur.jpg"
+local_image: "images/mevar/servons-le-seigneur.webp"
 tags:
   - "Prédications"
   - "audio"

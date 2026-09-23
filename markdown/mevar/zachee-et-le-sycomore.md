@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/zachee-et-le-sycomore/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/zachee-et-le-sycomore.jpeg"
-local_image: "images/mevar/zachee-et-le-sycomore.jpeg"
+local_image: "images/mevar/zachee-et-le-sycomore.webp"
 tags:
   - "Exhortations"
   - "2011"

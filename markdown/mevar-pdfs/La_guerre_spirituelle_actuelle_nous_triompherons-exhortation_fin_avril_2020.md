@@ -40,6 +40,7 @@ themes:
   - "souffrance du soldat"
   - "révélation des desseins de Dieu"
 pdf_url: "https://mevar.org/content/files/2022/12/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf"
+local_pdf: "/files/mevar/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf"
 llm_cleaned: true
 ---
 Exhortation Fin Avril 2020

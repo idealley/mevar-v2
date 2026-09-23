@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_crainte_de_l_eternel_samuel.pdf"
+local_pdf: "/files/mevar/la_crainte_de_l_eternel_samuel.pdf"
 source: "mevar"
 sermon_id: "la-crainte-de-l-eternel"
 title: "La Crainte de l’Eternel"
@@ -100,4 +101,4 @@ C’est pour cela que nous devons respecter les ordonnances de Dieu, respecter s
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_crainte_de_l_eternel_samuel.pdf)
+[Télécharger le PDF](/files/mevar/la_crainte_de_l_eternel_samuel.pdf)

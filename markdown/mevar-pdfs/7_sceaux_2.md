@@ -38,6 +38,7 @@ themes:
   - "réforme"
   - "ténèbres spirituelles"
 pdf_url: "https://mevar.org/content/files/2022/12/7_sceaux_2.pdf"
+local_pdf: "/files/mevar/7_sceaux_2.pdf"
 llm_cleaned: true
 ---
 Le Message des 7 sceaux (Deuxième et troisième sceau)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/07/6_KETURA-ET-SES-ENFANTS-OU-LA-FOI-QUI-PROSPRE_18-02-24--1-.pdf"
+local_pdf: "/files/mevar/6_KETURA-ET-SES-ENFANTS-OU-LA-FOI-QUI-PROSPRE_18-02-24--1-.pdf"
 source: "mevar"
 sermon_id: "ketura-et-ses-enfants-ou-la-foi-qui-prospere"
 title: "Kétura et ses enfants ou la foi qui prospère"
@@ -93,7 +94,7 @@ Que le Nom du Seigneur soit béni. Nous allons nous remettre entre les mains du 
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/07/6_KETURA-ET-SES-ENFANTS-OU-LA-FOI-QUI-PROSPRE_18-02-24--1-.pdf)
+[Télécharger le PDF](/files/mevar/6_KETURA-ET-SES-ENFANTS-OU-LA-FOI-QUI-PROSPRE_18-02-24--1-.pdf)
 
 * * *
 

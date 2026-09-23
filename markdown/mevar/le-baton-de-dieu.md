@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf"
+local_pdf: "/files/mevar/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf"
 source: "mevar"
 sermon_id: "le-baton-de-dieu"
 title: "Le bâton de Dieu"
@@ -179,4 +180,4 @@ Prière d'ensemble
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_speciale_aout_2006_le_baton_de_dieu.pdf)

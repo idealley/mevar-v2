@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
+local_pdf: "/files/mevar/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
 source: "mevar"
 sermon_id: "soyez-parfaits-comme-votre-pere-celeste-est-parfait"
 title: "Soyez parfaits comme votre Père Céleste est parfait"
@@ -90,4 +91,4 @@ Quand nous lisons Hébreux 11, on peut voir que Paul a raconté en quelques mots
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf)

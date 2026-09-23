@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_25_07_2015.pdf"
+local_pdf: "/files/mevar/la_foi_et_la_nature_divine_25_07_2015.pdf"
 source: "mevar"
 sermon_id: "la-foi-et-la-nature-divine"
 title: "La foi et la nature divine (1)"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-foi-et-la-nature-divine/"
 feature_image: "https://mevar.org/content/images/2022/12/Joshua_commands_the_sun_and_moon_to_stand_still.jpg"
-local_image: "images/mevar/la-foi-et-la-nature-divine.jpg"
+local_image: "images/mevar/la-foi-et-la-nature-divine.webp"
 tags:
   - "Prédications"
   - "2015"
@@ -141,4 +142,4 @@ Prions ensemble.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_25_07_2015.pdf)
+[Télécharger le PDF](/files/mevar/la_foi_et_la_nature_divine_25_07_2015.pdf)

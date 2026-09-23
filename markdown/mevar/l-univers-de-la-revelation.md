@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_univers_de_la_revelations_1_22.10.2018.pdf"
+local_pdf: "/files/mevar/l_univers_de_la_revelations_1_22.10.2018.pdf"
 source: "mevar"
 sermon_id: "l-univers-de-la-revelation"
 title: "L’Univers de la révélation (1)"
@@ -221,4 +222,4 @@ Mon âme est à Jésus Bis
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_univers_de_la_revelations_1_22.10.2018.pdf)
+[Télécharger le PDF](/files/mevar/l_univers_de_la_revelations_1_22.10.2018.pdf)

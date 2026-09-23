@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
+local_pdf: "/files/mevar/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
 source: "mevar"
 sermon_id: "si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde"
 title: "Si vous aviez de la foi comme un grain de moutarde"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde/"
 feature_image: "https://mevar.org/content/images/2022/12/graine_de_moutarde.jpg"
-local_image: "images/mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde.jpg"
+local_image: "images/mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde.webp"
 tags:
   - "Exhortations"
   - "La foi"
@@ -138,4 +139,4 @@ Après la parabole du juge inique Jésus se demande s’il trouvera la foi sur l
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf)
+[Télécharger le PDF](/files/mevar/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/07/depart-a-la-maison-du-servirteur-fidele-et-prudent-exhortation_speciale_juin_2024_v2.pdf"
+local_pdf: "/files/mevar/depart-a-la-maison-du-servirteur-fidele-et-prudent-exhortation_speciale_juin_2024_v2.pdf"
 source: "mevar"
 sermon_id: "le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit"
 title: "Le départ du serviteur fidèle et prudent à la maison et la dernière action de l'Esprit"
@@ -10,7 +11,7 @@ status: "published"
 url: "https://mevar.org/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit/"
 featured: true
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/07/chant-du-coq.jpg"
-local_image: "images/mevar/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit.jpg"
+local_image: "images/mevar/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit.webp"
 tags:
   - "Exhortations"
   - "2024"
@@ -375,7 +376,7 @@ C’est avec cette déclaration riche de sens du Seigneur Jésus-Christ que je v
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/07/depart-a-la-maison-du-servirteur-fidele-et-prudent-exhortation_speciale_juin_2024_v2.pdf)
+[Télécharger le PDF](/files/mevar/depart-a-la-maison-du-servirteur-fidele-et-prudent-exhortation_speciale_juin_2024_v2.pdf)
 
 * * *
 

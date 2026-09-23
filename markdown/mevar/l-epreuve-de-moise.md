@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Epreuve_de_Moise_1.pdf"
+local_pdf: "/files/mevar/Epreuve_de_Moise_1.pdf"
 source: "mevar"
 sermon_id: "l-epreuve-de-moise"
 title: "L’épreuve de Moïse (1)"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-epreuve-de-moise/"
 feature_image: "https://mevar.org/content/images/2022/12/moses-with-tables.jpg"
-local_image: "images/mevar/l-epreuve-de-moise.jpg"
+local_image: "images/mevar/l-epreuve-de-moise.webp"
 tags:
   - "Prédications"
   - "2018"
@@ -159,4 +160,4 @@ On va se remettre entre les mains du Seigneur, dire merci à Dieu, qui peut nous
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Epreuve_de_Moise_1.pdf)
+[Télécharger le PDF](/files/mevar/Epreuve_de_Moise_1.pdf)

@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/est-ici-votre-heure-et-la-puissance-des-tenebres/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/clint-mckoy-093ymJ5AgE4-unsplash.jpg"
-local_image: "images/mevar/est-ici-votre-heure-et-la-puissance-des-tenebres.jpg"
+local_image: "images/mevar/est-ici-votre-heure-et-la-puissance-des-tenebres.webp"
 tags:
   - "Prédications"
   - "2006"

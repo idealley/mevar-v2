@@ -31,7 +31,8 @@
     "ghost_id": "6aa1c8681fbd2600018f2706",
     "uuid": "e0c3940d-89ed-4d4d-8ce7-a09b286eca8a",
     "has_import_tag": false,
-    "updated_at": "2026-09-10T10:27:39.000Z"
+    "updated_at": "2026-09-10T10:27:39.000Z",
+    "local_image": "images/mevar/ce-qui-arrive-le-jour-du-seigneur.webp"
   },
   {
     "source": "mevar",
@@ -144,7 +145,7 @@
     "ghost_id": "68307d24a21b7c0001857303",
     "uuid": "dbb67f38-7050-4cfd-9de2-8466c772a9e2",
     "has_import_tag": false,
-    "local_image": "images/mevar/le-fruit-de-lesprit-la-paix.jpg",
+    "local_image": "images/mevar/le-fruit-de-lesprit-la-paix.webp",
     "updated_at": "2025-05-24T13:28:38.000Z"
   },
   {
@@ -183,7 +184,7 @@
     "ghost_id": "68307c1ca21b7c00018572df",
     "uuid": "e7e3da31-bad7-49d8-9e38-3a3489fca951",
     "has_import_tag": false,
-    "local_image": "images/mevar/le-fruit-de-lesprit-la-joie.jpg",
+    "local_image": "images/mevar/le-fruit-de-lesprit-la-joie.webp",
     "updated_at": "2025-05-24T13:27:56.000Z"
   },
   {
@@ -216,7 +217,7 @@
     "ghost_id": "6683e5024c9dd40001d7e4fe",
     "uuid": "70e7156c-a852-4260-af5d-4cb240503889",
     "has_import_tag": false,
-    "local_image": "images/mevar/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit.jpg",
+    "local_image": "images/mevar/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit.webp",
     "updated_at": "2024-07-08T09:40:03.000Z"
   },
   {
@@ -255,7 +256,7 @@
     "ghost_id": "68307630a21b7c00018572bd",
     "uuid": "ea652f81-0c5c-4c0c-a1e7-812874fb0672",
     "has_import_tag": false,
-    "local_image": "images/mevar/le-fruit-de-lesprit-lamour.jpg",
+    "local_image": "images/mevar/le-fruit-de-lesprit-lamour.webp",
     "updated_at": "2025-05-24T13:26:37.000Z"
   },
   {
@@ -322,7 +323,7 @@
     "ghost_id": "659594c5bed6f40001882e2d",
     "uuid": "20aeb1dd-e1e7-46a8-8023-40ec8e7966b6",
     "has_import_tag": false,
-    "local_image": "images/mevar/sentinelle-que-dis-tu-de-la-nuit.jpeg",
+    "local_image": "images/mevar/sentinelle-que-dis-tu-de-la-nuit.webp",
     "updated_at": "2024-01-04T16:02:41.000Z"
   },
   {
@@ -543,7 +544,7 @@
     "ghost_id": "664c97445f06290001fc7e9a",
     "uuid": "fdf12ec1-4f8b-4274-9834-467f67e2cf41",
     "has_import_tag": false,
-    "local_image": "images/mevar/le-jour-du-seigneur-1.jpg",
+    "local_image": "images/mevar/le-jour-du-seigneur-1.webp",
     "updated_at": "2024-07-22T13:03:13.000Z"
   },
   {
@@ -714,7 +715,7 @@
     "ghost_id": "65303622ebe2d20001226fd6",
     "uuid": "7fe2d7e1-6fbd-46d8-bf64-e1e6541e592e",
     "has_import_tag": false,
-    "local_image": "images/mevar/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere.jpg",
+    "local_image": "images/mevar/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere.webp",
     "updated_at": "2023-10-21T11:06:17.000Z"
   },
   {
@@ -749,7 +750,7 @@
     "ghost_id": "653032bcebe2d20001226f95",
     "uuid": "617501eb-3e2d-436a-8bb2-cc901a7de5bb",
     "has_import_tag": false,
-    "local_image": "images/mevar/la-terre-est-menacee.jpeg",
+    "local_image": "images/mevar/la-terre-est-menacee.webp",
     "updated_at": "2023-10-18T20:16:19.000Z"
   },
   {
@@ -818,7 +819,7 @@
     "ghost_id": "6530269febe2d20001226f23",
     "uuid": "96fe99df-2404-41e8-9c22-34bf76d36079",
     "has_import_tag": false,
-    "local_image": "images/mevar/le-nouveau-ministere.gif",
+    "local_image": "images/mevar/le-nouveau-ministere.webp",
     "updated_at": "2023-10-30T09:34:38.000Z"
   },
   {
@@ -853,7 +854,7 @@
     "ghost_id": "649ad6f2825fdf0001690a7f",
     "uuid": "b5e7443e-c545-47c6-bf3f-5233bcc72199",
     "has_import_tag": false,
-    "local_image": "images/mevar/les-sources-de-la-foi.jpg",
+    "local_image": "images/mevar/les-sources-de-la-foi.webp",
     "updated_at": "2025-06-24T08:23:04.000Z"
   },
   {
@@ -892,7 +893,7 @@
     "ghost_id": "64779cd1c6dd100001090175",
     "uuid": "46942f6a-3a2d-4318-8662-39ad0ba8f1b9",
     "has_import_tag": false,
-    "local_image": "images/mevar/la-foi-la-mer-et-les-tempetes.jpeg",
+    "local_image": "images/mevar/la-foi-la-mer-et-les-tempetes.webp",
     "updated_at": "2025-06-24T08:24:46.000Z"
   },
   {
@@ -1360,7 +1361,7 @@
     "ghost_id": "6448fa86db90770001518fb9",
     "uuid": "a987c674-210a-494a-a4cf-932aad1563a3",
     "has_import_tag": true,
-    "local_image": "images/mevar/servons-le-seigneur.jpg",
+    "local_image": "images/mevar/servons-le-seigneur.webp",
     "updated_at": "2022-12-30T22:54:46.000Z"
   },
   {
@@ -1559,7 +1560,7 @@
     "ghost_id": "6448fa86db90770001518fbf",
     "uuid": "1e8f75e1-b6b1-43d0-940f-3ca715d34ca5",
     "has_import_tag": true,
-    "local_image": "images/mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde.jpg",
+    "local_image": "images/mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde.webp",
     "updated_at": "2025-06-24T08:23:13.000Z"
   },
   {
@@ -1714,7 +1715,7 @@
     "ghost_id": "6448fa86db90770001518ffb",
     "uuid": "eb7397b1-92d3-4e14-91bd-6438fc347561",
     "has_import_tag": true,
-    "local_image": "images/mevar/etre-agreable-a-dieu-par-la-foi-1.jpg",
+    "local_image": "images/mevar/etre-agreable-a-dieu-par-la-foi-1.webp",
     "updated_at": "2025-06-24T08:26:55.000Z"
   },
   {
@@ -1793,7 +1794,7 @@
     "ghost_id": "6448fa86db90770001518ffc",
     "uuid": "b22c6ac0-5aa8-4e30-ad21-4aedcb069c7d",
     "has_import_tag": true,
-    "local_image": "images/mevar/samuel.jpeg",
+    "local_image": "images/mevar/samuel.webp",
     "updated_at": "2023-05-18T17:55:42.000Z"
   },
   {
@@ -1922,7 +1923,7 @@
     "ghost_id": "6448fa86db90770001518fa7",
     "uuid": "dae8a9ac-2e0a-41f5-a70a-0284bddbbff4",
     "has_import_tag": true,
-    "local_image": "images/mevar/holocauste.jpg",
+    "local_image": "images/mevar/holocauste.webp",
     "updated_at": "2022-12-29T20:38:27.000Z"
   },
   {
@@ -2095,7 +2096,7 @@
     "ghost_id": "6448fa86db90770001518fac",
     "uuid": "992f91e8-3a5c-4437-9ae9-6caa8d04b080",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-maison-construite-sur-le-roc.jpg",
+    "local_image": "images/mevar/la-maison-construite-sur-le-roc.webp",
     "updated_at": "2023-01-03T10:16:53.000Z"
   },
   {
@@ -2288,7 +2289,7 @@
     "ghost_id": "6448fa86db90770001518fae",
     "uuid": "7b733b6e-66fc-45c7-9c53-43a805889d21",
     "has_import_tag": true,
-    "local_image": "images/mevar/l-enjeu-du-combat-contre-goliath-1.jpeg",
+    "local_image": "images/mevar/l-enjeu-du-combat-contre-goliath-1.webp",
     "updated_at": "2023-01-24T15:08:35.000Z"
   },
   {
@@ -2325,7 +2326,7 @@
     "ghost_id": "6448fa86db90770001518f5c",
     "uuid": "08a2af20-93fb-497e-b2a7-bde23c1bbdf5",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie.jpg",
+    "local_image": "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie.webp",
     "updated_at": "2023-12-14T19:03:32.000Z"
   },
   {
@@ -2454,7 +2455,7 @@
     "ghost_id": "6448fa86db90770001518f60",
     "uuid": "af551933-65c9-4ed2-ba2c-79d0a2acf937",
     "has_import_tag": true,
-    "local_image": "images/mevar/otons-nos-vetements.jpg",
+    "local_image": "images/mevar/otons-nos-vetements.webp",
     "updated_at": "2022-12-29T20:38:14.000Z"
   },
   {
@@ -2487,7 +2488,7 @@
     "ghost_id": "6448fa86db90770001518f61",
     "uuid": "7e768017-0bf5-44ca-9d7b-4c7f8630c7c1",
     "has_import_tag": true,
-    "local_image": "images/mevar/ne-donnez-pas-acces-au-diable.jpg",
+    "local_image": "images/mevar/ne-donnez-pas-acces-au-diable.webp",
     "updated_at": "2022-12-29T20:38:14.000Z"
   },
   {
@@ -2520,7 +2521,7 @@
     "ghost_id": "6448fa86db90770001518f62",
     "uuid": "16b3c114-e20e-4f21-a2d8-9aac3357d500",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-grande-trompette-qui-sonne.jpg",
+    "local_image": "images/mevar/la-grande-trompette-qui-sonne.webp",
     "updated_at": "2022-12-29T20:38:14.000Z"
   },
   {
@@ -2625,7 +2626,7 @@
     "ghost_id": "6448fa86db90770001518f65",
     "uuid": "6cca748d-11e1-403e-bd62-33fe46e31c2d",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-sermon-sur-la-montagne-matthieu-5-1-12.jpg",
+    "local_image": "images/mevar/le-sermon-sur-la-montagne-matthieu-5-1-12.webp",
     "updated_at": "2022-12-30T14:01:40.000Z"
   },
   {
@@ -2658,7 +2659,7 @@
     "ghost_id": "6448fa86db90770001518f66",
     "uuid": "278689cb-31a1-40a8-806d-d34cded7cb80",
     "has_import_tag": true,
-    "local_image": "images/mevar/covid-19-ou-la-mort-dans-les-nations.jpg",
+    "local_image": "images/mevar/covid-19-ou-la-mort-dans-les-nations.webp",
     "updated_at": "2022-12-29T20:38:15.000Z"
   },
   {
@@ -2695,7 +2696,7 @@
     "ghost_id": "6448fa86db90770001518f67",
     "uuid": "972e3ebf-2ef9-40aa-9f3e-0ecadcd8e1ca",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-sermon-sur-la-montagne-deuxieme-partie.jpg",
+    "local_image": "images/mevar/le-sermon-sur-la-montagne-deuxieme-partie.webp",
     "updated_at": "2022-12-30T14:02:03.000Z"
   },
   {
@@ -2732,7 +2733,7 @@
     "ghost_id": "6448fa86db90770001518f68",
     "uuid": "94d16719-afb6-4749-8557-8473369a0cc4",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-femme-de-sunem.jpg",
+    "local_image": "images/mevar/la-femme-de-sunem.webp",
     "updated_at": "2022-12-30T14:02:28.000Z"
   },
   {
@@ -2769,7 +2770,7 @@
     "ghost_id": "6448fa86db90770001518f69",
     "uuid": "406e5c1d-5936-4b24-a765-e1ee4276d779",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-sermon-sur-la-montagne-matthieu-5-17-24.jpg",
+    "local_image": "images/mevar/le-sermon-sur-la-montagne-matthieu-5-17-24.webp",
     "updated_at": "2022-12-30T14:05:26.000Z"
   },
   {
@@ -2806,7 +2807,7 @@
     "ghost_id": "6448fa86db90770001518f6a",
     "uuid": "f8aa068b-27b5-496a-990a-2781b1a68ea8",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-sermon-sur-la-montagne-4.jpg",
+    "local_image": "images/mevar/le-sermon-sur-la-montagne-4.webp",
     "updated_at": "2022-12-30T14:22:51.000Z"
   },
   {
@@ -2843,7 +2844,7 @@
     "ghost_id": "6448fa86db90770001518f6b",
     "uuid": "d37b7572-a224-4e0b-a5d6-44e0a5277964",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-liens-spirituels.jpg",
+    "local_image": "images/mevar/les-liens-spirituels.webp",
     "updated_at": "2022-12-30T14:26:58.000Z"
   },
   {
@@ -2880,7 +2881,7 @@
     "ghost_id": "6448fa86db90770001518f6c",
     "uuid": "360b1714-4a68-4fe6-966f-b319e8b61a93",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-liens-spirituels-deuxieme-partie.jpg",
+    "local_image": "images/mevar/les-liens-spirituels-deuxieme-partie.webp",
     "updated_at": "2022-12-30T14:22:33.000Z"
   },
   {
@@ -2917,7 +2918,7 @@
     "ghost_id": "6448fa86db90770001518f6d",
     "uuid": "d5173af6-7b15-4125-a191-b95d11ee95c9",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels.jpg",
+    "local_image": "images/mevar/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels.webp",
     "updated_at": "2022-12-30T14:27:45.000Z"
   },
   {
@@ -2952,7 +2953,7 @@
     "ghost_id": "6448fa86db90770001518f6e",
     "uuid": "f50a00b0-fcb0-4d20-9063-a1ae61f5d8af",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-chute-de-sedecias.jpg",
+    "local_image": "images/mevar/la-chute-de-sedecias.webp",
     "updated_at": "2022-12-30T14:28:02.000Z"
   },
   {
@@ -2989,7 +2990,7 @@
     "ghost_id": "6448fa86db90770001518f6f",
     "uuid": "513abe86-bc54-451b-9c69-427a2114d86a",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-sermon-sur-la-montagne-audio-5.jpg",
+    "local_image": "images/mevar/le-sermon-sur-la-montagne-audio-5.webp",
     "updated_at": "2022-12-30T14:25:24.000Z"
   },
   {
@@ -3026,7 +3027,7 @@
     "ghost_id": "6448fa86db90770001518f70",
     "uuid": "18261ec2-bcf0-4cc7-bbbf-7a9c3902a51d",
     "has_import_tag": true,
-    "local_image": "images/mevar/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6.jpg",
+    "local_image": "images/mevar/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6.webp",
     "updated_at": "2022-12-30T14:29:15.000Z"
   },
   {
@@ -3065,7 +3066,7 @@
     "ghost_id": "6448fa86db90770001518f71",
     "uuid": "129c60dc-4b8c-44d0-bad0-f057fcfc0ebe",
     "has_import_tag": true,
-    "local_image": "images/mevar/l-election-par-les-oeuvres-de-la-foi.jpg",
+    "local_image": "images/mevar/l-election-par-les-oeuvres-de-la-foi.webp",
     "updated_at": "2025-06-24T08:24:02.000Z"
   },
   {
@@ -3102,7 +3103,7 @@
     "ghost_id": "6448fa86db90770001518f72",
     "uuid": "ca8810a5-47df-4087-a3d4-f549f89f04c9",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-priere-selon-jesus-le-sermon-sur-la-montagne-7.jpg",
+    "local_image": "images/mevar/la-priere-selon-jesus-le-sermon-sur-la-montagne-7.webp",
     "updated_at": "2022-12-30T14:42:52.000Z"
   },
   {
@@ -3137,7 +3138,7 @@
     "ghost_id": "6448fa86db90770001518f73",
     "uuid": "d048e412-53c3-4fce-97d4-5b4c3b71c445",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-freres-jumeaux-du-message-du-temps-de-la-fin-2.png",
+    "local_image": "images/mevar/les-freres-jumeaux-du-message-du-temps-de-la-fin-2.webp",
     "updated_at": "2022-12-30T14:35:08.000Z"
   },
   {
@@ -3172,7 +3173,7 @@
     "ghost_id": "6448fa86db90770001518f74",
     "uuid": "865bec89-6311-42ab-923d-5a5cb6cdde09",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-freres-jumeaux-du-message-du-temps-de-la-fin-1.png",
+    "local_image": "images/mevar/les-freres-jumeaux-du-message-du-temps-de-la-fin-1.webp",
     "updated_at": "2022-12-30T14:40:44.000Z"
   },
   {
@@ -3209,7 +3210,7 @@
     "ghost_id": "6448fa86db90770001518f75",
     "uuid": "1d19507c-dace-4909-b6a0-fea7b0fb80e2",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-freres-jumeaux-du-message-du-temps-de-la-fin-3.png",
+    "local_image": "images/mevar/les-freres-jumeaux-du-message-du-temps-de-la-fin-3.webp",
     "updated_at": "2022-12-30T14:42:30.000Z"
   },
   {
@@ -3244,7 +3245,7 @@
     "ghost_id": "6448fa86db90770001518f76",
     "uuid": "ae291afd-9582-47d1-9de5-28b4314e3bfe",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-parabole-des-talents-audio-1.jpg",
+    "local_image": "images/mevar/la-parabole-des-talents-audio-1.webp",
     "updated_at": "2022-12-30T14:45:42.000Z"
   },
   {
@@ -3279,7 +3280,7 @@
     "ghost_id": "6448fa86db90770001518f77",
     "uuid": "d0950c5c-ddbe-4e47-9acb-32a023fc78d9",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-parabole-des-talents-2.jpg",
+    "local_image": "images/mevar/la-parabole-des-talents-2.webp",
     "updated_at": "2022-12-30T14:45:22.000Z"
   },
   {
@@ -3314,7 +3315,7 @@
     "ghost_id": "6448fa86db90770001518f78",
     "uuid": "58fe2726-28f9-4771-af8c-1507b57ddd79",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-reveil-des-vierges-folles.jpeg",
+    "local_image": "images/mevar/le-reveil-des-vierges-folles.webp",
     "updated_at": "2022-12-30T14:43:12.000Z"
   },
   {
@@ -3383,7 +3384,7 @@
     "ghost_id": "6448fa86db90770001518f7a",
     "uuid": "0ce572e0-b60b-4c0e-8450-0354fc6a10a9",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-parabole-du-vigneron.jpg",
+    "local_image": "images/mevar/la-parabole-du-vigneron.webp",
     "updated_at": "2022-12-30T14:44:26.000Z"
   },
   {
@@ -3454,7 +3455,7 @@
     "ghost_id": "6448fa86db90770001518f7c",
     "uuid": "af68c157-303a-437b-be9c-7b36e3e57cd3",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-bouclier-de-la-foi.jpg",
+    "local_image": "images/mevar/le-bouclier-de-la-foi.webp",
     "updated_at": "2025-06-24T08:23:27.000Z"
   },
   {
@@ -3487,7 +3488,7 @@
     "ghost_id": "6448fa86db90770001518f7d",
     "uuid": "6d8ba311-ba67-4ead-809f-383473814a06",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-guerre-spirituelle-actuelle-nous-triompherons.jpg",
+    "local_image": "images/mevar/la-guerre-spirituelle-actuelle-nous-triompherons.webp",
     "updated_at": "2022-12-29T20:38:19.000Z"
   },
   {
@@ -4274,7 +4275,7 @@
     "ghost_id": "6448fa86db90770001518f92",
     "uuid": "2c891ebb-9b31-491e-90bf-7f650ae04d9c",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-complots-de-la-vengeance-2-les-complots-de-satan-11.jpeg",
+    "local_image": "images/mevar/les-complots-de-la-vengeance-2-les-complots-de-satan-11.webp",
     "updated_at": "2022-12-30T14:48:36.000Z"
   },
   {
@@ -4313,7 +4314,7 @@
     "ghost_id": "6448fa86db90770001518f93",
     "uuid": "4f06f740-5a77-43c0-a710-bcc5eb8397d7",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-complots-de-la-vengeance-1-les-complots-de-satan.jpg",
+    "local_image": "images/mevar/les-complots-de-la-vengeance-1-les-complots-de-satan.webp",
     "updated_at": "2022-12-30T14:49:03.000Z"
   },
   {
@@ -4388,7 +4389,7 @@
     "ghost_id": "6448fa86db90770001518f95",
     "uuid": "071bec14-2305-424d-8e96-f514501aff04",
     "has_import_tag": true,
-    "local_image": "images/mevar/rester-eveille.jpg",
+    "local_image": "images/mevar/rester-eveille.webp",
     "updated_at": "2022-12-30T13:58:34.000Z"
   },
   {
@@ -4571,7 +4572,7 @@
     "ghost_id": "6448fa86db90770001518f9a",
     "uuid": "f61989d2-ee12-44ee-941d-d596b8376dd9",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-animaux-instruments-dans-les-mains-de-dieu.jpg",
+    "local_image": "images/mevar/les-animaux-instruments-dans-les-mains-de-dieu.webp",
     "updated_at": "2022-12-30T13:58:57.000Z"
   },
   {
@@ -4672,7 +4673,7 @@
     "ghost_id": "6448fa86db90770001518f9d",
     "uuid": "28d7f55f-b2ed-4044-bd4f-079e02084bf2",
     "has_import_tag": true,
-    "local_image": "images/mevar/manger-le-sacrifice.png",
+    "local_image": "images/mevar/manger-le-sacrifice.webp",
     "updated_at": "2022-12-29T20:38:25.000Z"
   },
   {
@@ -4741,7 +4742,7 @@
     "ghost_id": "6448fa86db90770001518f9f",
     "uuid": "90d71f7e-718e-4493-9c58-e5e21cba3632",
     "has_import_tag": true,
-    "local_image": "images/mevar/l-epreuve-d-anne-2.jpg",
+    "local_image": "images/mevar/l-epreuve-d-anne-2.webp",
     "updated_at": "2022-12-30T13:57:55.000Z"
   },
   {
@@ -4778,7 +4779,7 @@
     "ghost_id": "6448fa86db90770001518fa0",
     "uuid": "b5f78be9-eb20-43db-a558-82248e410d3b",
     "has_import_tag": true,
-    "local_image": "images/mevar/l-epreuve-d-anne-1.jpg",
+    "local_image": "images/mevar/l-epreuve-d-anne-1.webp",
     "updated_at": "2022-12-30T13:57:27.000Z"
   },
   {
@@ -4949,7 +4950,7 @@
     "ghost_id": "6448fa86db90770001518f3a",
     "uuid": "5214e5a3-f8b2-4bfb-b722-db7bbefae327",
     "has_import_tag": true,
-    "local_image": "images/mevar/l-epreuve-de-moise-deuxieme-partie.jpg",
+    "local_image": "images/mevar/l-epreuve-de-moise-deuxieme-partie.webp",
     "updated_at": "2022-12-31T15:13:58.000Z"
   },
   {
@@ -5146,7 +5147,7 @@
     "ghost_id": "6448fa86db90770001518f40",
     "uuid": "d313001d-63a0-4f12-ab7e-b70208d9171b",
     "has_import_tag": true,
-    "local_image": "images/mevar/l-appel-a-sortir-de-babylone.jpg",
+    "local_image": "images/mevar/l-appel-a-sortir-de-babylone.webp",
     "updated_at": "2023-01-09T15:24:05.000Z"
   },
   {
@@ -5247,7 +5248,7 @@
     "ghost_id": "6448fa86db90770001518f43",
     "uuid": "6694bb3d-b09c-4d42-8161-3076e8f6f946",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-cheval-roux-et-le-cheval-noir.jpg",
+    "local_image": "images/mevar/le-cheval-roux-et-le-cheval-noir.webp",
     "updated_at": "2022-12-29T20:38:06.000Z"
   },
   {
@@ -5282,7 +5283,7 @@
     "ghost_id": "6448fa86db90770001518f44",
     "uuid": "21b4c6d4-c28a-4f78-9284-f33ab07a58d7",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-quatrieme-cinquieme-et-sixeme-sceaux.png",
+    "local_image": "images/mevar/le-quatrieme-cinquieme-et-sixeme-sceaux.webp",
     "updated_at": "2022-12-29T20:38:06.000Z"
   },
   {
@@ -5317,7 +5318,7 @@
     "ghost_id": "6448fa86db90770001518f45",
     "uuid": "84e45095-47e9-4336-b438-b2e344e0b635",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-cavalier-au-cheval-pale-la-mort.jpg",
+    "local_image": "images/mevar/le-cavalier-au-cheval-pale-la-mort.webp",
     "updated_at": "2022-12-29T20:38:07.000Z"
   },
   {
@@ -5382,7 +5383,7 @@
     "ghost_id": "6448fa86db90770001518f47",
     "uuid": "e72e386b-aa20-41b1-895c-6ebce812c2ce",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste.jpg",
+    "local_image": "images/mevar/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste.webp",
     "updated_at": "2023-01-01T15:41:07.000Z"
   },
   {
@@ -5417,7 +5418,7 @@
     "ghost_id": "6448fa86db90770001518f48",
     "uuid": "b1f22a90-3da5-422f-8d93-2218c24cf12e",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-septieme-sceau.jpg",
+    "local_image": "images/mevar/le-septieme-sceau.webp",
     "updated_at": "2022-12-29T20:38:08.000Z"
   },
   {
@@ -5514,7 +5515,7 @@
     "ghost_id": "6448fa86db90770001518f4b",
     "uuid": "ea45de97-733b-4ac2-991c-0829718bb0ff",
     "has_import_tag": true,
-    "local_image": "images/mevar/un-peuple-de-sacrificateurs.jpg",
+    "local_image": "images/mevar/un-peuple-de-sacrificateurs.webp",
     "updated_at": "2022-12-29T20:38:08.000Z"
   },
   {
@@ -5547,7 +5548,7 @@
     "ghost_id": "6448fa86db90770001518f4c",
     "uuid": "ba8bb8ea-8787-4344-bbb9-c4899e61b459",
     "has_import_tag": true,
-    "local_image": "images/mevar/gog-prince-of-magog.jpg",
+    "local_image": "images/mevar/gog-prince-of-magog.webp",
     "updated_at": "2022-12-29T20:38:09.000Z"
   },
   {
@@ -5580,7 +5581,7 @@
     "ghost_id": "6448fa86db90770001518f4d",
     "uuid": "1b6f2d01-83e7-4f5a-9a42-02d780dbf5df",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-parabole-des-noces.jpg",
+    "local_image": "images/mevar/la-parabole-des-noces.webp",
     "updated_at": "2022-12-29T20:38:09.000Z"
   },
   {
@@ -5613,7 +5614,7 @@
     "ghost_id": "6448fa86db90770001518f4e",
     "uuid": "c5334170-a82a-4084-89fe-7cd4466d1168",
     "has_import_tag": true,
-    "local_image": "images/mevar/qui-est-dieu.jpeg",
+    "local_image": "images/mevar/qui-est-dieu.webp",
     "updated_at": "2022-12-29T20:38:09.000Z"
   },
   {
@@ -5682,7 +5683,7 @@
     "ghost_id": "6448fa86db90770001518f50",
     "uuid": "7c6af23e-e65a-4ef3-b3ae-2e57c4a0b275",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie.jpg",
+    "local_image": "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie.webp",
     "updated_at": "2023-12-14T19:04:40.000Z"
   },
   {
@@ -5719,7 +5720,7 @@
     "ghost_id": "6448fa86db90770001518f51",
     "uuid": "69430c96-8b58-4b2c-85e9-684c13dc15a5",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie.jpg",
+    "local_image": "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie.webp",
     "updated_at": "2023-12-14T19:05:10.000Z"
   },
   {
@@ -5820,7 +5821,7 @@
     "ghost_id": "6448fa86db90770001518f54",
     "uuid": "aac1f6f5-450b-4d58-8ffc-023bfe327efe",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie.jpg",
+    "local_image": "images/mevar/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie.webp",
     "updated_at": "2023-12-16T19:55:16.000Z"
   },
   {
@@ -5891,7 +5892,7 @@
     "ghost_id": "6448fa86db90770001518f56",
     "uuid": "c1db25b7-aaba-4918-b82d-61a9acdb4ad3",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-loi-et-les-chretiens.jpg",
+    "local_image": "images/mevar/la-loi-et-les-chretiens.webp",
     "updated_at": "2022-12-29T20:38:12.000Z"
   },
   {
@@ -5992,7 +5993,7 @@
     "ghost_id": "6448fa86db90770001518f59",
     "uuid": "d1fac105-b79b-4627-af21-59d056876da1",
     "has_import_tag": true,
-    "local_image": "images/mevar/suis-moi.jpg",
+    "local_image": "images/mevar/suis-moi.webp",
     "updated_at": "2022-12-29T20:38:12.000Z"
   },
   {
@@ -6025,7 +6026,7 @@
     "ghost_id": "6448fa86db90770001518f5a",
     "uuid": "011953ca-4786-4f03-9c74-d7f2add1e18b",
     "has_import_tag": true,
-    "local_image": "images/mevar/qu-a-vraiment-vu-zacharie.jpg",
+    "local_image": "images/mevar/qu-a-vraiment-vu-zacharie.webp",
     "updated_at": "2024-01-22T10:19:49.000Z"
   },
   {
@@ -6382,7 +6383,7 @@
     "ghost_id": "6448fa86db90770001518f39",
     "uuid": "227b6f92-9d6f-4f82-ad7f-c5c253c92dd1",
     "has_import_tag": true,
-    "local_image": "images/mevar/l-epreuve-de-moise.jpg",
+    "local_image": "images/mevar/l-epreuve-de-moise.webp",
     "updated_at": "2022-12-31T15:16:20.000Z"
   },
   {
@@ -6551,7 +6552,7 @@
     "ghost_id": "6448fa86db90770001518f22",
     "uuid": "64440052-60c1-4f06-a68e-4ad1475a9b58",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-doctrine-de-balaam.jpg",
+    "local_image": "images/mevar/la-doctrine-de-balaam.webp",
     "updated_at": "2022-12-29T20:37:57.000Z"
   },
   {
@@ -6650,7 +6651,7 @@
     "ghost_id": "6448fa86db90770001518f25",
     "uuid": "a8881358-7132-48c8-b3a6-5bdedf426602",
     "has_import_tag": true,
-    "local_image": "images/mevar/david-et-goliath.jpg",
+    "local_image": "images/mevar/david-et-goliath.webp",
     "updated_at": "2022-12-29T20:37:58.000Z"
   },
   {
@@ -6683,7 +6684,7 @@
     "ghost_id": "6448fa86db90770001518f26",
     "uuid": "e39b509d-82f6-4ca3-b628-f466a2ab070c",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-culte-de-la-vierge-marie.png",
+    "local_image": "images/mevar/le-culte-de-la-vierge-marie.webp",
     "updated_at": "2022-12-29T20:37:58.000Z"
   },
   {
@@ -6748,7 +6749,7 @@
     "ghost_id": "6448fa86db90770001518f28",
     "uuid": "57fc2045-9337-451a-a8df-3ee51225ccd2",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-deguisement-de-la-femme-de-jeroboam.jpg",
+    "local_image": "images/mevar/le-deguisement-de-la-femme-de-jeroboam.webp",
     "updated_at": "2022-12-29T20:37:59.000Z"
   },
   {
@@ -6813,7 +6814,7 @@
     "ghost_id": "6448fa86db90770001518f2a",
     "uuid": "47e2e2cc-dc58-4508-828a-3aee33c8e17e",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-choix.jpg",
+    "local_image": "images/mevar/le-choix.webp",
     "updated_at": "2024-01-24T20:28:36.000Z"
   },
   {
@@ -7464,7 +7465,7 @@
     "ghost_id": "6448fa86db90770001518f04",
     "uuid": "1466fac8-b8e2-4645-9e4f-61947230c52b",
     "has_import_tag": true,
-    "local_image": "images/mevar/notre-generation-verra-la-guerre.jpg",
+    "local_image": "images/mevar/notre-generation-verra-la-guerre.webp",
     "updated_at": "2022-12-29T20:37:48.000Z"
   },
   {
@@ -7561,7 +7562,7 @@
     "ghost_id": "6448fa86db90770001518f08",
     "uuid": "5a51d456-97a8-4a0a-8540-15acf9f45a3a",
     "has_import_tag": true,
-    "local_image": "images/mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit.jpg",
+    "local_image": "images/mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit.webp",
     "updated_at": "2022-12-29T20:37:50.000Z"
   },
   {
@@ -7660,7 +7661,7 @@
     "ghost_id": "6448fa86db90770001518f0c",
     "uuid": "81fd3135-d4dd-4898-86fd-7f20021b163f",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-foi-et-la-nature-divine.jpg",
+    "local_image": "images/mevar/la-foi-et-la-nature-divine.webp",
     "updated_at": "2025-06-24T08:26:13.000Z"
   },
   {
@@ -7695,7 +7696,7 @@
     "ghost_id": "6448fa86db90770001518f0d",
     "uuid": "9ef40a72-0ec3-4c6d-957b-d2cd9ddfbfeb",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-foi-et-la-nature-divine-deuxieme-partie.jpg",
+    "local_image": "images/mevar/la-foi-et-la-nature-divine-deuxieme-partie.webp",
     "updated_at": "2025-06-24T08:27:28.000Z"
   },
   {
@@ -7792,7 +7793,7 @@
     "ghost_id": "6448fa86db90770001518f11",
     "uuid": "48d765b3-5f45-46fa-9d2b-dcb93c1c09d2",
     "has_import_tag": true,
-    "local_image": "images/mevar/a-qui-comparerai-je-cette-generation.jpg",
+    "local_image": "images/mevar/a-qui-comparerai-je-cette-generation.webp",
     "updated_at": "2023-01-16T10:00:13.000Z"
   },
   {
@@ -8409,7 +8410,7 @@
     "ghost_id": "6448fa86db90770001518fed",
     "uuid": "784c28f2-1268-4d18-acdf-c13fd2d55f58",
     "has_import_tag": true,
-    "local_image": "images/mevar/nous-avons-vu-son-etoile.jpeg",
+    "local_image": "images/mevar/nous-avons-vu-son-etoile.webp",
     "updated_at": "2023-05-02T15:36:30.000Z"
   },
   {
@@ -8442,7 +8443,7 @@
     "ghost_id": "6448fa86db90770001518ff4",
     "uuid": "a5571c5f-8a7b-449b-82c9-7a5aee6a8ac2",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-fils-male-lanon-prophetique.jpeg",
+    "local_image": "images/mevar/le-fils-male-lanon-prophetique.webp",
     "updated_at": "2023-01-16T15:17:14.000Z"
   },
   {
@@ -8511,7 +8512,7 @@
     "ghost_id": "6448fa86db90770001518efb",
     "uuid": "66283a96-4e09-4ea2-ab6b-976abbbbbfdf",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-liberateurs-du-peuple-de-dieu.jpg",
+    "local_image": "images/mevar/les-liberateurs-du-peuple-de-dieu.webp",
     "updated_at": "2023-01-24T15:21:38.000Z"
   },
   {
@@ -8614,7 +8615,7 @@
     "ghost_id": "6448fa86db90770001518ee7",
     "uuid": "3ca0f283-ed0c-4570-8287-ddc865f5db8b",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-bataille-de-jericho-la-conquete-du-pays-de-canaan.jpg",
+    "local_image": "images/mevar/la-bataille-de-jericho-la-conquete-du-pays-de-canaan.webp",
     "updated_at": "2023-12-14T19:06:02.000Z"
   },
   {
@@ -8777,7 +8778,7 @@
     "ghost_id": "6448fa86db90770001518eec",
     "uuid": "af68408b-5c76-43f2-b3ff-8ea0a9e2b360",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-voeux-de-jephte.jpg",
+    "local_image": "images/mevar/le-voeux-de-jephte.webp",
     "updated_at": "2022-12-29T20:37:42.000Z"
   },
   {
@@ -9262,7 +9263,7 @@
     "ghost_id": "6448fa86db90770001518fe9",
     "uuid": "32eb778e-6327-4c0f-b708-b4b090e49564",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-porteurs-du-royaume-de-dieu.jpg",
+    "local_image": "images/mevar/les-porteurs-du-royaume-de-dieu.webp",
     "updated_at": "2023-01-19T13:48:12.000Z"
   },
   {
@@ -9466,7 +9467,7 @@
     "ghost_id": "6448fa86db90770001518fd1",
     "uuid": "bfa36585-c34c-44b4-915c-6acc38b4232d",
     "has_import_tag": true,
-    "local_image": "images/mevar/larche-et-les-adorateurs.jpg",
+    "local_image": "images/mevar/larche-et-les-adorateurs.webp",
     "updated_at": "2023-01-06T14:00:11.000Z"
   },
   {
@@ -9499,7 +9500,7 @@
     "ghost_id": "6448fa86db90770001518ffa",
     "uuid": "4cdd69f3-3792-48f7-9eb2-ee98f18f47b9",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-chute-deutychus.jpg",
+    "local_image": "images/mevar/la-chute-deutychus.webp",
     "updated_at": "2023-01-24T09:50:30.000Z"
   },
   {
@@ -9532,7 +9533,7 @@
     "ghost_id": "6448fa86db90770001518fe8",
     "uuid": "cb3b8d23-0bdb-4739-ace0-287d75444bf8",
     "has_import_tag": true,
-    "local_image": "images/mevar/zachee-et-le-sycomore.jpeg",
+    "local_image": "images/mevar/zachee-et-le-sycomore.webp",
     "updated_at": "2023-05-02T14:35:06.000Z"
   },
   {
@@ -9665,7 +9666,7 @@
     "ghost_id": "6448fa86db90770001518ff2",
     "uuid": "843e40c0-d400-4b10-aefa-77661de603df",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david.jpg",
+    "local_image": "images/mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david.webp",
     "updated_at": "2023-01-17T10:54:18.000Z"
   },
   {
@@ -9700,7 +9701,7 @@
     "ghost_id": "6448fa86db90770001518edf",
     "uuid": "ca09981a-aa29-4b05-a8d2-e9c6fb094ea1",
     "has_import_tag": true,
-    "local_image": "images/mevar/on-l-appellera-samuel.jpg",
+    "local_image": "images/mevar/on-l-appellera-samuel.webp",
     "updated_at": "2022-12-29T20:37:38.000Z"
   },
   {
@@ -9733,7 +9734,7 @@
     "ghost_id": "6448fa86db90770001518ff1",
     "uuid": "493bc731-488f-47be-8c3a-b245223aa1c2",
     "has_import_tag": true,
-    "local_image": "images/mevar/le-semeur-de-miniuit.jpeg",
+    "local_image": "images/mevar/le-semeur-de-miniuit.webp",
     "updated_at": "2023-01-17T13:33:22.000Z"
   },
   {
@@ -9766,7 +9767,7 @@
     "ghost_id": "6448fa86db90770001518ff7",
     "uuid": "31351155-7709-4c2d-8878-efe00e1070eb",
     "has_import_tag": true,
-    "local_image": "images/mevar/laveugle-bartimee.jpeg",
+    "local_image": "images/mevar/laveugle-bartimee.webp",
     "updated_at": "2023-05-03T09:38:47.000Z"
   },
   {
@@ -9803,7 +9804,7 @@
     "ghost_id": "6448fa86db90770001518fdf",
     "uuid": "e9c7ef27-808a-41c5-8a8f-edcd15763819",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-drachme-perdue.jpg",
+    "local_image": "images/mevar/la-drachme-perdue.webp",
     "updated_at": "2023-01-12T16:14:44.000Z"
   },
   {
@@ -10001,7 +10002,7 @@
     "ghost_id": "6448fa86db90770001518ff6",
     "uuid": "0781f036-64b2-4df9-9ab5-5edf6372d89e",
     "has_import_tag": true,
-    "local_image": "images/mevar/jesus-christ-architecte-et-constructeur.jpg",
+    "local_image": "images/mevar/jesus-christ-architecte-et-constructeur.webp",
     "updated_at": "2023-05-03T06:53:29.000Z"
   },
   {
@@ -10264,7 +10265,7 @@
     "ghost_id": "6448fa86db90770001518ff9",
     "uuid": "ef4c8d17-a10f-449c-8943-a5a373c6f4b2",
     "has_import_tag": true,
-    "local_image": "images/mevar/la-grande-tentation-et-le-chemin-de-la-gloire.jpg",
+    "local_image": "images/mevar/la-grande-tentation-et-le-chemin-de-la-gloire.webp",
     "updated_at": "2023-01-24T14:34:45.000Z"
   },
   {
@@ -10297,7 +10298,7 @@
     "ghost_id": "6448fa86db90770001518fef",
     "uuid": "153d8f05-af4f-40d3-8d20-d6137b12f52d",
     "has_import_tag": true,
-    "local_image": "images/mevar/appel-a-lhumilite-et-a-la-simplicite.png",
+    "local_image": "images/mevar/appel-a-lhumilite-et-a-la-simplicite.webp",
     "updated_at": "2023-01-17T17:07:14.000Z"
   },
   {
@@ -10330,7 +10331,7 @@
     "ghost_id": "6448fa86db90770001518edc",
     "uuid": "96d15d11-3f17-4399-b416-c00d735744e0",
     "has_import_tag": true,
-    "local_image": "images/mevar/les-prisonniers-de-la-religion.jpg",
+    "local_image": "images/mevar/les-prisonniers-de-la-religion.webp",
     "updated_at": "2022-12-29T20:37:37.000Z"
   },
   {
@@ -10397,7 +10398,7 @@
     "ghost_id": "6448fa86db90770001518fea",
     "uuid": "3c9275ab-7374-463b-a8a0-7c55ad8aa2db",
     "has_import_tag": true,
-    "local_image": "images/mevar/appel-a-la-guerre-appel-au-combat-contre-babylone.jpeg",
+    "local_image": "images/mevar/appel-a-la-guerre-appel-au-combat-contre-babylone.webp",
     "updated_at": "2023-05-02T14:33:27.000Z"
   },
   {
@@ -10468,7 +10469,7 @@
     "ghost_id": "6450f0b8d18a430001749241",
     "uuid": "42f71d2a-8c36-462c-b7ea-701f70c41ecf",
     "has_import_tag": false,
-    "local_image": "images/mevar/la-lepre-de-nahaman.jpeg",
+    "local_image": "images/mevar/la-lepre-de-nahaman.webp",
     "updated_at": "2023-05-02T13:39:17.000Z"
   },
   {
@@ -10505,7 +10506,7 @@
     "ghost_id": "6448fa86db90770001518fe0",
     "uuid": "966dba54-3fbb-430a-9e98-25f1ef2ca40c",
     "has_import_tag": true,
-    "local_image": "images/mevar/ebranlez-les-prisons.jpeg",
+    "local_image": "images/mevar/ebranlez-les-prisons.webp",
     "updated_at": "2023-01-13T16:54:14.000Z"
   },
   {
@@ -10542,7 +10543,7 @@
     "ghost_id": "6448fa86db90770001518fc8",
     "uuid": "5a9d58a9-6900-41ea-939d-9dab10582413",
     "has_import_tag": true,
-    "local_image": "images/mevar/lange-de-la-marche.jpeg",
+    "local_image": "images/mevar/lange-de-la-marche.webp",
     "updated_at": "2023-01-01T23:35:56.000Z"
   },
   {
@@ -10715,7 +10716,7 @@
     "ghost_id": "6448fa86db90770001518fc9",
     "uuid": "df6847f7-b038-42b0-bbb6-d0d5d4b27ecb",
     "has_import_tag": true,
-    "local_image": "images/mevar/anne-et-simeon.jpeg",
+    "local_image": "images/mevar/anne-et-simeon.webp",
     "updated_at": "2023-01-01T23:47:43.000Z"
   },
   {
@@ -11153,7 +11154,7 @@
     "ghost_id": "6448fa86db90770001518fd5",
     "uuid": "6d1b055e-ecc8-4398-83bb-83d6919f63b9",
     "has_import_tag": true,
-    "local_image": "images/mevar/lesprit-babylonien.jpg",
+    "local_image": "images/mevar/lesprit-babylonien.webp",
     "updated_at": "2023-01-09T14:53:21.000Z"
   },
   {
@@ -11254,7 +11255,7 @@
     "ghost_id": "651bde6c30c1cf0001c926e3",
     "uuid": "69f8be43-e36f-4ef6-a0cb-c37eadb9dbf0",
     "has_import_tag": false,
-    "local_image": "images/mevar/est-ici-votre-heure-et-la-puissance-des-tenebres.jpg",
+    "local_image": "images/mevar/est-ici-votre-heure-et-la-puissance-des-tenebres.webp",
     "updated_at": "2023-10-03T11:38:30.000Z"
   },
   {

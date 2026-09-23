@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Appel_a_sortir_de_Babylone.pdf"
+local_pdf: "/files/mevar/Appel_a_sortir_de_Babylone.pdf"
 source: "mevar"
 sermon_id: "l-appel-a-sortir-de-babylone"
 title: "L’ Appel à sortir de Babylone"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-appel-a-sortir-de-babylone/"
 feature_image: "https://mevar.org/content/images/2022/12/tour-babel-pieter-brueghel.jpg"
-local_image: "images/mevar/l-appel-a-sortir-de-babylone.jpg"
+local_image: "images/mevar/l-appel-a-sortir-de-babylone.webp"
 tags:
   - "Prédications"
   - "Le Message des Sept Sceaux"
@@ -206,4 +207,4 @@ Les réseaux sociaux, comme je l’ai dit tout à l’heure, Facebook, Twitter ;
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Appel_a_sortir_de_Babylone.pdf)
+[Télécharger le PDF](/files/mevar/Appel_a_sortir_de_Babylone.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_vision_prophetique_16_06_2013.pdf"
+local_pdf: "/files/mevar/la_vision_prophetique_16_06_2013.pdf"
 source: "mevar"
 sermon_id: "la-vision-prophetique-fait-la-difference"
 title: "La vision prophétique fait la différence"
@@ -166,4 +167,4 @@ Cantiques d’adoration.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_vision_prophetique_16_06_2013.pdf)
+[Télécharger le PDF](/files/mevar/la_vision_prophetique_16_06_2013.pdf)

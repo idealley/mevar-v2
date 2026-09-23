@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/5_FAIRE-MULTIPLIER-NOTRE-FOI_21-10-23.pdf"
+local_pdf: "/files/mevar/5_FAIRE-MULTIPLIER-NOTRE-FOI_21-10-23.pdf"
 source: "mevar"
 sermon_id: "faire-multiplier-notre-foi"
 title: "Faire multiplier notre foi"
@@ -62,7 +63,7 @@ Que Dieu nous bénisse et que sa grâce et sa paix soient sur nous.
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/5_FAIRE-MULTIPLIER-NOTRE-FOI_21-10-23.pdf)
+[Télécharger le PDF](/files/mevar/5_FAIRE-MULTIPLIER-NOTRE-FOI_21-10-23.pdf)
 
 * * *
 

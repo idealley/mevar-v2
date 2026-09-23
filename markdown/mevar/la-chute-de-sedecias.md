@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-chute-de-sedecias/"
 feature_image: "https://mevar.org/content/images/2022/12/sedecias-yeux-creve.jpg"
-local_image: "images/mevar/la-chute-de-sedecias.jpg"
+local_image: "images/mevar/la-chute-de-sedecias.webp"
 tags:
   - "Prédications"
   - "audio"

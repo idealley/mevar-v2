@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/a_moi_la_vengeance_a_moi_la_retribution_23_02_2014.pdf"
+local_pdf: "/files/mevar/a_moi_la_vengeance_a_moi_la_retribution_23_02_2014.pdf"
 source: "mevar"
 sermon_id: "a-moi-la-retribution-a-moi-la-vengeance"
 title: "A Moi la rétribution - à moi la vengeance"
@@ -166,4 +167,4 @@ Cantique d’adoration.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/a_moi_la_vengeance_a_moi_la_retribution_23_02_2014.pdf)
+[Télécharger le PDF](/files/mevar/a_moi_la_vengeance_a_moi_la_retribution_23_02_2014.pdf)

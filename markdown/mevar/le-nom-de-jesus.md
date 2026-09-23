@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_nom_de_jesus_24_02_2019.pdf"
+local_pdf: "/files/mevar/le_nom_de_jesus_24_02_2019.pdf"
 source: "mevar"
 sermon_id: "le-nom-de-jesus"
 title: "Le nom de Jésus"
@@ -115,4 +116,4 @@ Nous allons prier. On va rendre grâce à Dieu pour ce qu’Il a fait pour nous.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_nom_de_jesus_24_02_2019.pdf)
+[Télécharger le PDF](/files/mevar/le_nom_de_jesus_24_02_2019.pdf)

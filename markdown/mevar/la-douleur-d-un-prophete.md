@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_douleur_d_un_prophete_26_08_2012.pdf"
+local_pdf: "/files/mevar/la_douleur_d_un_prophete_26_08_2012.pdf"
 source: "mevar"
 sermon_id: "la-douleur-d-un-prophete"
 title: "La douleur d’un prophète"
@@ -248,4 +249,4 @@ Cantique d’adoration.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_douleur_d_un_prophete_26_08_2012.pdf)
+[Télécharger le PDF](/files/mevar/la_douleur_d_un_prophete_26_08_2012.pdf)

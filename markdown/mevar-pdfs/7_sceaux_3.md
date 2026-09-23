@@ -51,6 +51,7 @@ themes:
   - "persécution"
   - "faux prophètes"
 pdf_url: "https://mevar.org/content/files/2022/12/7_sceaux_3.pdf"
+local_pdf: "/files/mevar/7_sceaux_3.pdf"
 llm_cleaned: true
 ---
 Le Message des 7 Sceaux (4e sceau-1er partie)

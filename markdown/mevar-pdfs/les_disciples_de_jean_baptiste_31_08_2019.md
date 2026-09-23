@@ -48,6 +48,7 @@ themes:
   - "Soif de Dieu"
   - "Unité dans la Parole"
 pdf_url: "https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste_31_08_2019.pdf"
+local_pdf: "/files/mevar/les_disciples_de_jean_baptiste_31_08_2019.pdf"
 llm_cleaned: true
 ---
 Les croyants du Message du Temps de la Fin

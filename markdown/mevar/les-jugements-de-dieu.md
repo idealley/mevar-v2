@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/jugements_de_dieu_22_aout_2020.pdf"
+local_pdf: "/files/mevar/jugements_de_dieu_22_aout_2020.pdf"
 source: "mevar"
 sermon_id: "les-jugements-de-dieu"
 title: "Les jugements de Dieu"
@@ -179,4 +180,4 @@ Vous voyez ! Dieu a fait pousser ce ricin en un jour, en une nuit. C’est du ja
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/jugements_de_dieu_22_aout_2020.pdf)
+[Télécharger le PDF](/files/mevar/jugements_de_dieu_22_aout_2020.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_appel_de_1933_21_06_2015.pdf"
+local_pdf: "/files/mevar/l_appel_de_1933_21_06_2015.pdf"
 source: "mevar"
 sermon_id: "l-appel-de-1933"
 title: "L' Appel de 1933"
@@ -197,6 +198,6 @@ C’est toujours comme ça. Est-ce que vous comprenez ? Alors, celui qui pense q
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_appel_de_1933_21_06_2015.pdf)
+[Télécharger le PDF](/files/mevar/l_appel_de_1933_21_06_2015.pdf)
 
 [Médecin, guéris-toi toi-mêmeC’est un sujet pour poursuivre un peu tout ce dont nous avons parlé dimanche passé. Amen ! Nous lisons dans Luc 4:23. Jésus leur dit : sans doute vous m’appliquerez ce proverbe : Médecin guéris-toi toi-même ; et vous me direz : fais ici dans ta patrie, tout ce que nous avonsMEVARParfait M’bra](https://mevar.org/medecin-gueris-toi-toi-meme/)[Ébranlez les prisons !Alléluia ! [Ass : Amen ! Réd.] Que Le Nom du Seigneur soit béni ! Nous allons prier. Seigneur notre Dieu, que Ton Nom soit béni, que Ton Nom soit glorifié ce matin. Nous Te sommes reconnaissants parce que Tu nous a rassemblés pour T’adorer et Te magnifier. Et ce matin, c’estMEVARParfait M’bra](https://mevar.org/ebranlez-les-prisons/)

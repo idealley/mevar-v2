@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/qui-est-dieu/"
 feature_image: "https://mevar.org/content/images/2022/12/alpha-omega.jpeg"
-local_image: "images/mevar/qui-est-dieu.jpeg"
+local_image: "images/mevar/qui-est-dieu.webp"
 tags:
   - "Etudes Bibliques"
   - "2019"

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
+local_pdf: "/files/mevar/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
 source: "mevar"
 sermon_id: "l-enjeu-du-combat-contre-goliath-1"
 title: "L’enjeu du combat contre Goliath"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-enjeu-du-combat-contre-goliath-1/"
 feature_image: "https://mevar.org/content/images/2022/12/david-goliath.jpeg"
-local_image: "images/mevar/l-enjeu-du-combat-contre-goliath-1.jpeg"
+local_image: "images/mevar/l-enjeu-du-combat-contre-goliath-1.webp"
 tags:
   - "Prédications"
   - "2021"
@@ -103,4 +104,4 @@ Vraiment, vraiment
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf)
+[Télécharger le PDF](/files/mevar/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf)

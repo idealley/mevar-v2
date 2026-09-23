@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_aout_2016_la_voix_de_l_offrande.pdf"
+local_pdf: "/files/mevar/exhortation_fin_aout_2016_la_voix_de_l_offrande.pdf"
 source: "mevar"
 sermon_id: "la-voix-de-l-offrande"
 title: "La voix de l'offrande"
@@ -134,4 +135,4 @@ L’assistance ne connaissait pas Celui qui exprimait le point de vue de la Foi.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2016_la_voix_de_l_offrande.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_fin_aout_2016_la_voix_de_l_offrande.pdf)

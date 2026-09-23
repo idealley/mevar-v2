@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/exho_-juillet_2013.pdf"
+local_pdf: "/files/mevar/exho_-juillet_2013.pdf"
 source: "mevar"
 sermon_id: "qu-ismael-vive-devant-ta-face"
 title: "Qu'Ismaël vive devant ta face"
@@ -186,4 +187,4 @@ Nous sommes dans ce processus mes frères. Il faut persévérer jusqu’à l’�
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/exho_-juillet_2013.pdf)
+[Télécharger le PDF](/files/mevar/exho_-juillet_2013.pdf)

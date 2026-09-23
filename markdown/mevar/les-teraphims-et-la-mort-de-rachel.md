@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf"
+local_pdf: "/files/mevar/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf"
 source: "mevar"
 sermon_id: "les-teraphims-et-la-mort-de-rachel"
 title: "Les téraphim et la mort de Rachel"
@@ -174,4 +175,4 @@ Au moment où nous entrons dans cette nouvelle phase de l’œuvre de Dieu, que 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.pdf)

@@ -48,6 +48,7 @@ themes:
   - "postérité de la femme"
   - "message du temps de la fin"
 pdf_url: "https://mevar.org/content/files/2022/12/des_noms_sous_les_propheties_06.06.2021.pdf"
+local_pdf: "/files/mevar/des_noms_sous_les_propheties_06.06.2021.pdf"
 llm_cleaned: true
 ---
 Des noms sous des prophéties

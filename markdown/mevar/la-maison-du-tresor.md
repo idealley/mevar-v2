@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_aout_2018.pdf"
+local_pdf: "/files/mevar/exhortation_aout_2018.pdf"
 source: "mevar"
 sermon_id: "la-maison-du-tresor"
 title: "La Maison du Trésor"
@@ -110,4 +111,4 @@ Mes chers frères et sœurs, si Dieu a des problèmes avec une attitude chez les
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_aout_2018.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_aout_2018.pdf)

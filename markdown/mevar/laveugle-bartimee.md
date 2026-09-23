@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/laveugle-bartimee/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/bartimee.jpeg"
-local_image: "images/mevar/laveugle-bartimee.jpeg"
+local_image: "images/mevar/laveugle-bartimee.webp"
 tags:
   - "Exhortations"
   - "2010"

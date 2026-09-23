@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_fruit_de_la_repentance_4_08_2013.pdf"
+local_pdf: "/files/mevar/le_fruit_de_la_repentance_4_08_2013.pdf"
 source: "mevar"
 sermon_id: "le-fruit-de-la-repentance"
 title: "Le fruit de la repentance"
@@ -159,4 +160,4 @@ Prions le Seigneur. Séance de prière.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_fruit_de_la_repentance_4_08_2013.pdf)
+[Télécharger le PDF](/files/mevar/le_fruit_de_la_repentance_4_08_2013.pdf)

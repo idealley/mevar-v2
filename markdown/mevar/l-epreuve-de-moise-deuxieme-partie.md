@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Epreuve_de_Moise_2.pdf"
+local_pdf: "/files/mevar/Epreuve_de_Moise_2.pdf"
 source: "mevar"
 sermon_id: "l-epreuve-de-moise-deuxieme-partie"
 title: "L’épreuve de Moïse (2)"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-epreuve-de-moise-deuxieme-partie/"
 feature_image: "https://mevar.org/content/images/2022/12/moses-with-tables.jpg"
-local_image: "images/mevar/l-epreuve-de-moise-deuxieme-partie.jpg"
+local_image: "images/mevar/l-epreuve-de-moise-deuxieme-partie.webp"
 tags:
   - "Prédications"
   - "2019"
@@ -124,4 +125,4 @@ J’espère qu’on peut entrer dans la nouvelle année avec ces paroles. **L’
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Epreuve_de_Moise_2.pdf)
+[Télécharger le PDF](/files/mevar/Epreuve_de_Moise_2.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_mars_2014_l_amour_et_la_connaissance.pdf"
+local_pdf: "/files/mevar/exhortation_mars_2014_l_amour_et_la_connaissance.pdf"
 source: "mevar"
 sermon_id: "l-amour-et-la-connaissance"
 title: "L'amour et la connaissance"
@@ -90,4 +91,4 @@ Mes frères, recherchons ensemble l’Amour qui édifie, au moment où nous avon
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_mars_2014_l_amour_et_la_connaissance.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_mars_2014_l_amour_et_la_connaissance.pdf)

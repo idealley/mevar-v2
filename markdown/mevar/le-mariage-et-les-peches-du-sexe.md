@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/le_mariae_et_les_peches_du_sexe.pdf"
+local_pdf: "/files/mevar/le_mariae_et_les_peches_du_sexe.pdf"
 source: "mevar"
 sermon_id: "le-mariage-et-les-peches-du-sexe"
 title: "Le mariage et les péchés du sexe"
@@ -142,4 +143,4 @@ Puisque Dieu le créateur n’a pas pu apporter l’application de Sa doctrine e
 
 Lire la suite en téléchargeant gratuitement le livre _Le mariage et les péchés du sexe_:
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/le_mariae_et_les_peches_du_sexe.pdf)
+[Télécharger le PDF](/files/mevar/le_mariae_et_les_peches_du_sexe.pdf)

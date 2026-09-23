@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf"
+local_pdf: "/files/mevar/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf"
 source: "mevar"
 sermon_id: "les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie"
 title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu (1)"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie/"
 feature_image: "https://mevar.org/content/images/2022/12/jesus-healing-a-man-born-blind.jpg"
-local_image: "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie.jpg"
+local_image: "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie.webp"
 tags:
   - "Les signes d’un Ministère ou d’une œuvre authentique de Dieu"
   - "Prédications"
@@ -211,4 +212,4 @@ Tout cela fait que, les signes au milieu de nous, ce n’est pas facile parce qu
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf)
+[Télécharger le PDF](/files/mevar/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf)

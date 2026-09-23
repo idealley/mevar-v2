@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_univers_de_la_revelation_2_29.10.2018.pdf"
+local_pdf: "/files/mevar/l_univers_de_la_revelation_2_29.10.2018.pdf"
 source: "mevar"
 sermon_id: "l-univers-de-la-revelation-deuxieme-partie"
 title: "L’ Univers de la révélation (2)"
@@ -153,4 +154,4 @@ On est dans une onction frères, n’oubliez pas cela. Et cette onction dans laq
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_univers_de_la_revelation_2_29.10.2018.pdf)
+[Télécharger le PDF](/files/mevar/l_univers_de_la_revelation_2_29.10.2018.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf"
+local_pdf: "/files/mevar/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf"
 source: "mevar"
 sermon_id: "le-ministere-de-l-esprit-dans-le-royaume-de-dieu"
 title: "Le ministère de l’Esprit dans le royaume de Dieu"
@@ -170,4 +171,4 @@ Que le Seigneur soit avec chacun de nous et qu’Il nous aide à comprendre ses 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf)
+[Télécharger le PDF](/files/mevar/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.pdf)

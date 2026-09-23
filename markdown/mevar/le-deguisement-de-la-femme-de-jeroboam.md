@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_juin_2017_le_deguisement_de_la_femme_de_jeroboam.pdf"
+local_pdf: "/files/mevar/exhortation_juin_2017_le_deguisement_de_la_femme_de_jeroboam.pdf"
 source: "mevar"
 sermon_id: "le-deguisement-de-la-femme-de-jeroboam"
 title: "Le déguisement de la femme de Jéroboam"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-deguisement-de-la-femme-de-jeroboam/"
 feature_image: "https://mevar.org/content/images/2022/12/the-wife-of-jeroboam.jpg"
-local_image: "images/mevar/le-deguisement-de-la-femme-de-jeroboam.jpg"
+local_image: "images/mevar/le-deguisement-de-la-femme-de-jeroboam.webp"
 tags:
   - "Exhortations"
   - "2017"
@@ -132,4 +133,4 @@ Mes chers amis, nous ne sommes pas dans le royaume de Jéroboam, mais bien dans 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_juin_2017_le_deguisement_de_la_femme_de_jeroboam.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_juin_2017_le_deguisement_de_la_femme_de_jeroboam.pdf)

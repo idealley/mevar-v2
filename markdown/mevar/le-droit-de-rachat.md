@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_droit_de_rachat_12_01_2014.pdf"
+local_pdf: "/files/mevar/le_droit_de_rachat_12_01_2014.pdf"
 source: "mevar"
 sermon_id: "le-droit-de-rachat"
 title: "Le droit de rachat"
@@ -158,4 +159,4 @@ Aujourd’hui, les hommes sont menés par milliers ou même par millions à la m
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_droit_de_rachat_12_01_2014.pdf)
+[Télécharger le PDF](/files/mevar/le_droit_de_rachat_12_01_2014.pdf)

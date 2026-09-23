@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/03/ministere-de-l-Esprit-1_17-12-23.pdf"
+local_pdf: "/files/mevar/ministere-de-l-Esprit-1_17-12-23.pdf"
 source: "mevar"
 sermon_id: "le-ministere-de-lesprit"
 title: "Le ministère de l’Esprit (1)"
@@ -221,6 +222,6 @@ Cet esprit a des armes qu’il utilise pour détruire l’église. Donc, les pri
 
 Que Dieu nous bénisse. Je vais m’arrêter là. J’ai beaucoup parlé. Je vais m’arrêter là et on va se remettre entre les mains du Seigneur. Vous communiquerez les dates et les informations aux uns et aux autres qui ne sont pas venus. Moi, je vais faire un mot pour tous afin que l’on puisse commencer à prier. Que Dieu nous bénisse et que sa grâce et sa paix soient sur nous.
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/03/ministere-de-l-Esprit-1_17-12-23.pdf)
+[Télécharger le PDF](/files/mevar/ministere-de-l-Esprit-1_17-12-23.pdf)
 
 [Le Ministère de l’Esprit (2)On va revenir dans le texte qu’on a lu dimanche passé. C’était 2 Corinthiens 3 : Commençons-nous de nouveau à nous recommander nous-mêmes ? Ou avons-nous besoin, comme quelques-uns, de lettres de recommandation auprès de vous, ou de votre part ? 2 C’est vous qui êtes notre lettre, écrite dans nosMEVARParfait M’bra](https://mevar.org/le-ministere-de-lesprit-2/)

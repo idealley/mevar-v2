@@ -10,7 +10,7 @@ status: "published"
 url: "https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-2/"
 featured: true
 feature_image: "https://mevar.org/content/images/2022/12/Jacob-and-Esau.png"
-local_image: "images/mevar/les-freres-jumeaux-du-message-du-temps-de-la-fin-2.png"
+local_image: "images/mevar/les-freres-jumeaux-du-message-du-temps-de-la-fin-2.webp"
 tags:
   - "Prédications"
   - "audio"

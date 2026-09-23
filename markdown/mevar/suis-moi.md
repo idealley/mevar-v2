@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/suis-moi-samuel.pdf"
+local_pdf: "/files/mevar/suis-moi-samuel.pdf"
 source: "mevar"
 sermon_id: "suis-moi"
 title: "Suis-moi"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/suis-moi/"
 feature_image: "https://mevar.org/content/images/2022/12/follow-me.jpg"
-local_image: "images/mevar/suis-moi.jpg"
+local_image: "images/mevar/suis-moi.webp"
 tags:
   - "Etudes Bibliques"
   - "Exhortations"
@@ -257,4 +258,4 @@ Dieu étant au ciel, Il promet de faire, à travers nous qui sommes sur la terre
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/suis-moi-samuel.pdf)
+[Télécharger le PDF](/files/mevar/suis-moi-samuel.pdf)

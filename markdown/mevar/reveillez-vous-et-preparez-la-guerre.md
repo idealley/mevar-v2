@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_juillet_2006_reveillez-vous_et_preparez_la_guerre.pdf"
+local_pdf: "/files/mevar/exhortation_juillet_2006_reveillez-vous_et_preparez_la_guerre.pdf"
 source: "mevar"
 sermon_id: "reveillez-vous-et-preparez-la-guerre"
 title: "Réveillez-vous et préparez la guerre"
@@ -222,4 +223,4 @@ Fr. M’BRA Parfait
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_juillet_2006_reveillez-vous_et_preparez_la_guerre.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_juillet_2006_reveillez-vous_et_preparez_la_guerre.pdf)

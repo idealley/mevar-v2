@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_doctrine_de_Balaam.pdf"
+local_pdf: "/files/mevar/la_doctrine_de_Balaam.pdf"
 source: "mevar"
 sermon_id: "la-doctrine-de-balaam"
 title: "La doctrine de Balaam"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-doctrine-de-balaam/"
 feature_image: "https://mevar.org/content/images/2022/12/Balaam.jpg"
-local_image: "images/mevar/la-doctrine-de-balaam.jpg"
+local_image: "images/mevar/la-doctrine-de-balaam.webp"
 tags:
   - "Exhortations"
   - "2017"
@@ -195,4 +196,4 @@ Soyons donc prudent et écoutons ce que Dieu nous dit et surtout mettons le en p
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_doctrine_de_Balaam.pdf)
+[Télécharger le PDF](/files/mevar/la_doctrine_de_Balaam.pdf)

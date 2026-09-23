@@ -37,6 +37,7 @@ themes:
   - "pratique de l'Évangile"
   - "renoncement à soi"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
+local_pdf: "/files/mevar/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
 llm_cleaned: true
 ---
 *Exhortation de Mars 2022*

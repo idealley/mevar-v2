@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-bouclier-de-la-foi/"
 feature_image: "https://mevar.org/content/images/2022/12/faith-1500x750.jpg"
-local_image: "images/mevar/le-bouclier-de-la-foi.jpg"
+local_image: "images/mevar/le-bouclier-de-la-foi.webp"
 tags:
   - "Prédications"
   - "Le combat spirituel"

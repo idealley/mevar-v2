@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/3_LA-FOI-ET-LA-BENEDICTION_22-01-23.pdf"
+local_pdf: "/files/mevar/3_LA-FOI-ET-LA-BENEDICTION_22-01-23.pdf"
 source: "mevar"
 sermon_id: "faire-front-par-la-foi-deuxieme-partie"
 title: "Faire front par la foi  — deuxième partie"
@@ -154,7 +155,7 @@ _Chant : Je suis dans la joie lorsqu’on me dit allons à la maison de l’Ét
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/3_LA-FOI-ET-LA-BENEDICTION_22-01-23.pdf)
+[Télécharger le PDF](/files/mevar/3_LA-FOI-ET-LA-BENEDICTION_22-01-23.pdf)
 
 * * *
 

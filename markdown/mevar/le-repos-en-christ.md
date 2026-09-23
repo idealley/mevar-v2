@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_repose_en_christ_20_10_2013.pdf"
+local_pdf: "/files/mevar/le_repose_en_christ_20_10_2013.pdf"
 source: "mevar"
 sermon_id: "le-repos-en-christ"
 title: "Le repos en Christ"
@@ -159,4 +160,4 @@ Donc frères, travaillons dans l’esprit de nous reposer. Celui qui travaille s
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_repose_en_christ_20_10_2013.pdf)
+[Télécharger le PDF](/files/mevar/le_repose_en_christ_20_10_2013.pdf)

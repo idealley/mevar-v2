@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-election-par-les-oeuvres-de-la-foi/"
 feature_image: "https://mevar.org/content/images/2022/12/abraham-and-isaac-harold-copping.jpg"
-local_image: "images/mevar/l-election-par-les-oeuvres-de-la-foi.jpg"
+local_image: "images/mevar/l-election-par-les-oeuvres-de-la-foi.webp"
 tags:
   - "Etudes Bibliques"
   - "Prédications"

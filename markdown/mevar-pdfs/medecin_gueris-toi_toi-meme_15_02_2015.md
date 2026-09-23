@@ -34,6 +34,7 @@ themes:
   - "appelés et élus"
   - "traitement divin"
 pdf_url: "https://mevar.org/content/files/2022/12/medecin_gueris-toi_toi-meme_15_02_2015.pdf"
+local_pdf: "/files/mevar/medecin_gueris-toi_toi-meme_15_02_2015.pdf"
 llm_cleaned: true
 ---
 *Prêché à Koumassi le Dimanche 15 Février 2015 par le frère M’BRA Parfait*

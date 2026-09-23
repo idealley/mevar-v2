@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/etre-agreable-a-dieu-par-la-foi-1/"
 feature_image: "https://mevar.org/content/images/2023/01/job.jpg"
-local_image: "images/mevar/etre-agreable-a-dieu-par-la-foi-1.jpg"
+local_image: "images/mevar/etre-agreable-a-dieu-par-la-foi-1.webp"
 tags:
   - "Prédications"
   - "2022"

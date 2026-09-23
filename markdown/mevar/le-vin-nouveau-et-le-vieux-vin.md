@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_07_2018_le_vin_nouveau_et_le_vieux_vin.pdf"
+local_pdf: "/files/mevar/exhortation_07_2018_le_vin_nouveau_et_le_vieux_vin.pdf"
 source: "mevar"
 sermon_id: "le-vin-nouveau-et-le-vieux-vin"
 title: "Le vin nouveau et le vieux vin"
@@ -152,4 +153,4 @@ Comme dans les âges passés, le diable ne voudra pas que ce fruit soit manifest
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_07_2018_le_vin_nouveau_et_le_vieux_vin.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_07_2018_le_vin_nouveau_et_le_vieux_vin.pdf)

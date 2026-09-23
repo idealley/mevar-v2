@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/3_signes_d_un_ministere_01_12_19.pdf"
+local_pdf: "/files/mevar/3_signes_d_un_ministere_01_12_19.pdf"
 source: "mevar"
 sermon_id: "les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie"
 title: "Les signes d’une œuvre ou d’un Ministère authentique de Dieu (3)"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie/"
 feature_image: "https://mevar.org/content/images/2022/12/False-Prophets.jpg"
-local_image: "images/mevar/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie.jpg"
+local_image: "images/mevar/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie.webp"
 tags:
   - "Les signes d’un Ministère ou d’une œuvre authentique de Dieu"
   - "Prédications"
@@ -181,4 +182,4 @@ Donc les signes d’un ministère ou d’une œuvre authentique, nous les avons 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/3_signes_d_un_ministere_01_12_19.pdf)
+[Télécharger le PDF](/files/mevar/3_signes_d_un_ministere_01_12_19.pdf)

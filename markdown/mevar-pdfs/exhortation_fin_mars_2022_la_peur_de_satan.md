@@ -37,6 +37,7 @@ themes:
   - "Foi et courage"
   - "Délivrance"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_fin_mars_2022_la_peur_de_satan.pdf"
+local_pdf: "/files/mevar/exhortation_fin_mars_2022_la_peur_de_satan.pdf"
 llm_cleaned: true
 ---
 **Exhortation Fin Mars 2022**

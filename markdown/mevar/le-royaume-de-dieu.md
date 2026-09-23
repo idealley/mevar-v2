@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_royaume_de_dieu_kadjani.pdf"
+local_pdf: "/files/mevar/le_royaume_de_dieu_kadjani.pdf"
 source: "mevar"
 sermon_id: "le-royaume-de-dieu"
 title: "Le royaume de Dieu"
@@ -47,4 +48,4 @@ Pasteur et Missionnaire, appelé par le Seigneur Jésus-Christ afin de prendre p
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_royaume_de_dieu_kadjani.pdf)
+[Télécharger le PDF](/files/mevar/le_royaume_de_dieu_kadjani.pdf)

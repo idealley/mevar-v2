@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Exhortation_de_Juillet_2019.pdf"
+local_pdf: "/files/mevar/Exhortation_de_Juillet_2019.pdf"
 source: "mevar"
 sermon_id: "la-position-de-sauveur"
 title: "La position de sauveur"
@@ -141,4 +142,4 @@ Mes bien-aimés, c’est vraiment le temps de prendre la position du sauveur pou
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Exhortation_de_Juillet_2019.pdf)
+[Télécharger le PDF](/files/mevar/Exhortation_de_Juillet_2019.pdf)

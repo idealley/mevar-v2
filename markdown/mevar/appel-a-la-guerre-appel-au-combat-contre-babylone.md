@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/appel-a-la-guerre-appel-au-combat-contre-babylone/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/babylone.jpeg"
-local_image: "images/mevar/appel-a-la-guerre-appel-au-combat-contre-babylone.jpeg"
+local_image: "images/mevar/appel-a-la-guerre-appel-au-combat-contre-babylone.webp"
 tags:
   - "Exhortations"
   - "2007"

@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-femme-de-sunem/"
 feature_image: "https://mevar.org/content/images/2022/12/femme-de-sumen-elisee.jpg"
-local_image: "images/mevar/la-femme-de-sunem.jpg"
+local_image: "images/mevar/la-femme-de-sunem.webp"
 tags:
   - "Prédications"
   - "Exhortations"

@@ -40,6 +40,7 @@ themes:
   - "Message du temps de la fin"
   - "Séduction dans l'Église"
 pdf_url: "https://mevar.org/content/files/2022/12/Appel_a_sortir_de_Babylone.pdf"
+local_pdf: "/files/mevar/Appel_a_sortir_de_Babylone.pdf"
 llm_cleaned: true
 ---
 *Prêché à Koumassi par frère M'BRA Parfait, le dimanche 09 Juin 2019*

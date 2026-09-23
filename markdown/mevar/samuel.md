@@ -9,7 +9,7 @@ status: "published"
 url: "https://mevar.org/samuel/"
 featured: true
 feature_image: "https://mevar.org/content/images/2023/04/samuel.jpeg"
-local_image: "images/mevar/samuel.jpeg"
+local_image: "images/mevar/samuel.webp"
 tags:
   - "Prédications"
   - "2021"

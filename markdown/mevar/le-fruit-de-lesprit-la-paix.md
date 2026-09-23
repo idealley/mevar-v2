@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-paix-14.07.2024.pdf"
+local_pdf: "/files/mevar/le-fruit-de-l-esprit-la-paix-14.07.2024.pdf"
 source: "mevar"
 sermon_id: "le-fruit-de-lesprit-la-paix"
 title: "Le fruit de l’Esprit – La paix"
@@ -9,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-fruit-de-lesprit-la-paix/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/necatrines.jpg"
-local_image: "images/mevar/le-fruit-de-lesprit-la-paix.jpg"
+local_image: "images/mevar/le-fruit-de-lesprit-la-paix.webp"
 tags:
   - "Prédications"
   - "2024"
@@ -275,7 +276,7 @@ Christ achève en nous son œuvre. Et ça implique la souffrance, ça implique l
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-paix-14.07.2024.pdf)
+[Télécharger le PDF](/files/mevar/le-fruit-de-l-esprit-la-paix-14.07.2024.pdf)
 
 * * *
 
