@@ -105,10 +105,14 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
 // Branham reads his text aloud: "Saint John the 4th chapter, the 23rd verse",
 // "In the 20th chapter of Numbers". Case-sensitive, like the rule above: a
 // lowercase book name is prose.
+// The grammar words may be capitalized and a line may break anywhere; "the" is
+// often dropped ("First John, 1st chapter", "the 19th chapter, 42nd verse"),
+// and "and" can join the book to its chapter ("Revelation and the 6th chapter").
 const ORD = "(\\d{1,3})(?:st|nd|rd|th)";
+const THE = "(?:[Tt]he\\s+)?";
 const SPOKEN = [
-  new RegExp(`(?<![\\p{L}\\d])(${BOOK_ALT}),? the ${ORD} chapter(?:,? (?:and )?the ${ORD} verse)?`, "gu"),
-  new RegExp(`the ${ORD} chapter of (${BOOK_ALT})(?!\\p{L})`, "gu"),
+  new RegExp(`(?<![\\p{L}\\d])(${BOOK_ALT})(?:['’]s\\s+Gospel)?(?:,|\\s+and)?\\s+${THE}${ORD}\\s+[Cc]hapter(?:,?\\s+(?:and\\s+)?${THE}${ORD}\\s+[Vv]erse)?`, "gu"),
+  new RegExp(`[Tt]he\\s+${ORD}\\s+[Cc]hapter\\s+of\\s+(${BOOK_ALT})(?!\\p{L})`, "gu"),
 ];
 
 function normalize(md) {
