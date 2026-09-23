@@ -12445,7 +12445,7 @@
   "markdown/branham/1950/50-0823.md": [
     "1 Corinthians 12",
     "Acts 19",
-    "Matthew 9"
+    "Matthew 9:18,26"
   ],
   "markdown/branham/1951/51-0415A.md": [
     "Job 7:27"
@@ -12558,7 +12558,7 @@
   "markdown/branham/1954/54-1205.md": [
     "1 Corinthians 13",
     "Hebrews 13:8",
-    "John 12",
+    "John 12:20,21,22",
     "John 5"
   ],
   "markdown/branham/1954/54-1207.md": [
@@ -12660,6 +12660,7 @@
     "Ephesians 4:30",
     "Exodus 13",
     "Genesis 22",
+    "Genesis 22:7,8",
     "Joel 2:28",
     "John 6",
     "Romans 4"
@@ -13215,7 +13216,7 @@
     "Leviticus 8:10",
     "Matthew 24",
     "Matthew 27",
-    "Revelation 19",
+    "Revelation 19:1,16",
     "Revelation 19:21",
     "Revelation 20",
     "Revelation 20:13",
@@ -13228,6 +13229,7 @@
   ],
   "markdown/branham/1961/61-0806.md": [
     "2 Thessalonians 2",
+    "2 Thessalonians 2:3,4",
     "Acts 15:14",
     "Daniel 12",
     "Daniel 2:34",
@@ -13304,7 +13306,7 @@
     "Romans 3"
   ],
   "markdown/branham/1962/62-0311.md": [
-    "1 Peter 5",
+    "1 Peter 5:8,10",
     "1 Peter 5:8-10",
     "Daniel 12",
     "Daniel 12:1-14",
@@ -13618,7 +13620,7 @@
   ],
   "markdown/branham/1963/63-0323.md": [
     "Daniel 12",
-    "Exodus 10",
+    "Exodus 10:21,23",
     "Exodus 10:21-23",
     "Isaiah 13",
     "John 6",
@@ -13759,7 +13761,7 @@
     "Acts 1",
     "Acts 2",
     "Acts 20:24",
-    "Hebrews 2",
+    "Hebrews 2:14,15",
     "Isaiah 1",
     "Isaiah 9:6",
     "James 5",
@@ -13892,7 +13894,7 @@
     "James 5:14",
     "Luke 17:30",
     "Malachi 4",
-    "Mark 11",
+    "Mark 11:22,23",
     "Mark 16",
     "Revelation 10"
   ],
@@ -14142,7 +14144,7 @@
     "Genesis 17",
     "Job 14",
     "Job 42",
-    "Luke 17",
+    "Luke 17:28,29,30",
     "Luke 17:30",
     "Malachi 4",
     "Mark 11",
@@ -36478,7 +36480,7 @@
   ],
   "markdown/branham/1948/48-0304.md": [
     "John 5:19",
-    "Matthew 4"
+    "Matthew 4:23,24"
   ],
   "markdown/branham/1949/49-0718.md": [
     "John 5"
@@ -37364,7 +37366,7 @@
     "Hebrews 10",
     "Hebrews 10:47",
     "Hebrews 13:8",
-    "John 12",
+    "John 12:20,21,22",
     "John 5",
     "John 5:19",
     "Matthew 4"
@@ -37619,20 +37621,21 @@
     "Hebrews 10",
     "John 5:24",
     "Revelation 7",
-    "Revelation 9"
+    "Revelation 9:3,4"
   ],
   "markdown/branham/1955/55-0400.md": [
     "John 4"
   ],
   "markdown/branham/1955/55-0403.md": [
     "Hebrews 9",
-    "Job 19",
+    "Job 19:23,24,25",
     "John 14"
   ],
   "markdown/branham/1955/55-0410M.md": [
     "Galatians 1:8",
     "Isaiah 61",
-    "John 21"
+    "John 21",
+    "John 21:3,4"
   ],
   "markdown/branham/1955/55-0410S.md": [
     "Genesis 22",
@@ -38239,7 +38242,7 @@
     "Psalms 103:3"
   ],
   "markdown/branham/1957/57-0106.md": [
-    "Genesis 22",
+    "Genesis 22:7,8,14",
     "Hebrews 13:8",
     "John 5:19"
   ],
@@ -38372,6 +38375,7 @@
   ],
   "markdown/branham/1957/57-0326.md": [
     "Genesis 22",
+    "Genesis 22:7,8",
     "Hebrews 3:1",
     "John 1",
     "John 4",
@@ -38406,7 +38410,7 @@
   ],
   "markdown/branham/1957/57-0420.md": [
     "1 Corinthians 12:13",
-    "Acts 2",
+    "Acts 2:25,26,27",
     "John 5:24",
     "Matthew 24:6",
     "Matthew 27"
@@ -38607,9 +38611,9 @@
     "Hebrews 10",
     "John 4",
     "Matthew 3",
-    "Matthew 5",
     "Matthew 5:28",
-    "Matthew 5:45"
+    "Matthew 5:45",
+    "Matthew 5:45,46"
   ],
   "markdown/branham/1957/57-0908M.md": [
     "1 Corinthians 12",
@@ -38765,7 +38769,7 @@
     "John 5:19"
   ],
   "markdown/branham/1958/58-0112A.md": [
-    "Acts 10",
+    "Acts 10:34,35",
     "Exodus 13",
     "Matthew 10:10",
     "Matthew 2"
@@ -39199,7 +39203,7 @@
   "markdown/branham/1959/59-0301M.md": [
     "1 Corinthians 13",
     "Deuteronomy 14:2",
-    "Matthew 7"
+    "Matthew 7:13,14"
   ],
   "markdown/branham/1959/59-0329E.md": [
     "John 4"
@@ -39247,7 +39251,7 @@
   ],
   "markdown/branham/1959/59-0409.md": [
     "Isaiah 9:6",
-    "Luke 1"
+    "Luke 1:37,38"
   ],
   "markdown/branham/1959/59-0410.md": [
     "2 Corinthians 4:18",
@@ -40166,6 +40170,7 @@
     "Isaiah 9",
     "John 1",
     "John 12",
+    "John 12:20,21",
     "John 14:12",
     "John 4",
     "John 5",
@@ -40286,10 +40291,10 @@
   ],
   "markdown/branham/1961/61-0209.md": [
     "Acts 2",
-    "Exodus 13",
     "Exodus 19",
     "Galatians 3",
     "Genesis 12",
+    "Genesis 13",
     "Genesis 22:14",
     "Hebrews 7",
     "John 15"
@@ -40385,7 +40390,7 @@
     "Hebrews 3",
     "Hebrews 4",
     "Isaiah 9:6",
-    "Luke 2",
+    "Luke 2:25,26",
     "Psalms 103:3",
     "Revelation 3"
   ],
@@ -41019,7 +41024,7 @@
     "John 6"
   ],
   "markdown/branham/1962/62-0513E.md": [
-    "Isaiah 32",
+    "Isaiah 32:1,2",
     "Isaiah 32:2",
     "Proverbs 18:10"
   ],
@@ -41221,7 +41226,7 @@
     "Revelation 17"
   ],
   "markdown/branham/1962/62-0708.md": [
-    "Genesis 22",
+    "Genesis 22:16,17",
     "Isaiah 7:14",
     "John 11",
     "John 5:24",
@@ -41453,6 +41458,7 @@
     "John 8",
     "John 8:35",
     "Leviticus 25",
+    "Leviticus 25:9,10",
     "Mark 16",
     "Revelation 17"
   ],
@@ -41492,6 +41498,7 @@
   ],
   "markdown/branham/1962/62-1209.md": [
     "1 Corinthians 11",
+    "1 Corinthians 11:23,24,25",
     "Hebrews 13:8",
     "John 3:16"
   ],
@@ -41623,7 +41630,7 @@
     "James 5:14",
     "John 14:12",
     "John 3:16",
-    "Judges 16",
+    "Judges 16:27,28",
     "Revelation 17"
   ],
   "markdown/branham/1963/63-0120M.md": [
@@ -41708,6 +41715,7 @@
     "Mark 11:22",
     "Matthew 11",
     "Matthew 11:10",
+    "Matthew 11:25,26",
     "Revelation 21",
     "Revelation 5"
   ],
@@ -41729,7 +41737,8 @@
     "Revelation 3:2",
     "Revelation 4",
     "Revelation 6:9",
-    "Romans 11"
+    "Romans 11",
+    "Romans 11:25,26"
   ],
   "markdown/branham/1963/63-0324E.md": [
     "1 Kings 12",
@@ -41862,7 +41871,7 @@
   "markdown/branham/1963/63-0628M.md": [
     "Acts 19",
     "Acts 2",
-    "Judges 16",
+    "Judges 16:27,28",
     "Revelation 17"
   ],
   "markdown/branham/1963/63-0630E.md": [
@@ -42299,6 +42308,7 @@
     "Isaiah 6",
     "Isaiah 60",
     "Isaiah 60:1",
+    "Isaiah 60:1,2",
     "John 14:12",
     "Malachi 3",
     "Psalms 62:1-8",
@@ -42311,7 +42321,7 @@
     "Hebrews 1",
     "Hebrews 4",
     "John 1",
-    "Matthew 24"
+    "Matthew 24:32,35"
   ],
   "markdown/branham/1964/64-0121.md": [
     "Genesis 13",
@@ -42362,7 +42372,7 @@
   ],
   "markdown/branham/1964/64-0206E.md": [
     "Genesis 1",
-    "Genesis 22",
+    "Genesis 22:7,8",
     "Hebrews 13:8",
     "Hebrews 4",
     "John 14:12",
@@ -42840,6 +42850,7 @@
   ],
   "markdown/branham/1964/64-0726E.md": [
     "Jeremiah 2",
+    "Jeremiah 2:12,13",
     "Jeremiah 2:14",
     "John 14",
     "John 3:16",
@@ -43100,8 +43111,8 @@
     "Matthew 28",
     "Matthew 28:1",
     "Matthew 28:1-10",
-    "Revelation 1",
     "Revelation 1:17",
+    "Revelation 1:17,18",
     "Revelation 1:17-18",
     "Romans 8",
     "Romans 8:11"
@@ -43133,6 +43144,7 @@
     "Matthew 27",
     "Matthew 27:51",
     "Revelation 1",
+    "Revelation 1:17,18",
     "Revelation 1:18",
     "Romans 8:1",
     "Romans 8:11"
@@ -43343,7 +43355,7 @@
     "2 Peter 1:20,21",
     "2 Timothy 3:16",
     "2 Timothy 3:3",
-    "Exodus 4",
+    "Exodus 4:10,12",
     "Galatians 1:8",
     "Hebrews 1",
     "Hebrews 13:8",
@@ -43399,7 +43411,7 @@
     "Psalms 16:10",
     "Revelation 10",
     "Revelation 3",
-    "Romans 12"
+    "Romans 12:1,2"
   ],
   "markdown/branham/1965/65-0919.md": [
     "1 Corinthians 13",
@@ -43525,7 +43537,7 @@
     "Luke 15"
   ],
   "markdown/branham/1951/51-0413.md": [
-    "John 10",
+    "John 10:22,25",
     "John 4"
   ],
   "markdown/branham/1951/51-0507.md": [
@@ -43712,8 +43724,8 @@
     "Matthew 24:35"
   ],
   "markdown/branham/1957/57-0324.md": [
-    "Ezekiel 36",
-    "Ezekiel 36:26"
+    "Ezekiel 36:26",
+    "Ezekiel 36:26,27"
   ],
   "markdown/branham/1957/57-0421S.md": [
     "Matthew 28"

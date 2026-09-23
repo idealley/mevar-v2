@@ -549,7 +549,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1948/48-0304.md",
-    "size_bytes": 63850,
+    "size_bytes": 63856,
     "line_count": 427
   },
   {
@@ -2230,7 +2230,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1950/50-0823.md",
-    "size_bytes": 66877,
+    "size_bytes": 66883,
     "line_count": 563
   },
   {
@@ -12989,7 +12989,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1954/54-0718E.md",
-    "size_bytes": 78544,
+    "size_bytes": 78553,
     "line_count": 457
   },
   {
@@ -14745,7 +14745,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1954/54-1205.md",
-    "size_bytes": 76703,
+    "size_bytes": 76712,
     "line_count": 523
   },
   {
@@ -15830,7 +15830,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1951/51-0413.md",
-    "size_bytes": 60304,
+    "size_bytes": 60310,
     "line_count": 265
   },
   {
@@ -19077,7 +19077,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1955/55-0312.md",
-    "size_bytes": 61221,
+    "size_bytes": 61225,
     "line_count": 348
   },
   {
@@ -19343,7 +19343,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1955/55-0403.md",
-    "size_bytes": 107370,
+    "size_bytes": 107379,
     "line_count": 1620
   },
   {
@@ -19452,8 +19452,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1955/55-0410M.md",
-    "size_bytes": 103658,
-    "line_count": 1006
+    "size_bytes": 103676,
+    "line_count": 1007
   },
   {
     "source": "branham",
@@ -23728,8 +23728,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1956/56-0224.md",
-    "size_bytes": 72852,
-    "line_count": 406
+    "size_bytes": 72873,
+    "line_count": 407
   },
   {
     "source": "branham",
@@ -27887,7 +27887,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1957/57-0106.md",
-    "size_bytes": 93082,
+    "size_bytes": 93089,
     "line_count": 489
   },
   {
@@ -29432,7 +29432,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1957/57-0324.md",
-    "size_bytes": 86588,
+    "size_bytes": 86594,
     "line_count": 466
   },
   {
@@ -29556,8 +29556,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1957/57-0326.md",
-    "size_bytes": 95428,
-    "line_count": 484
+    "size_bytes": 95449,
+    "line_count": 485
   },
   {
     "source": "branham",
@@ -29944,7 +29944,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1957/57-0420.md",
-    "size_bytes": 46186,
+    "size_bytes": 46195,
     "line_count": 350
   },
   {
@@ -31988,7 +31988,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1957/57-0908E.md",
-    "size_bytes": 100044,
+    "size_bytes": 100050,
     "line_count": 914
   },
   {
@@ -33317,7 +33317,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1958/58-0112A.md",
-    "size_bytes": 48616,
+    "size_bytes": 48622,
     "line_count": 322
   },
   {
@@ -37697,7 +37697,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1959/59-0301M.md",
-    "size_bytes": 90525,
+    "size_bytes": 90531,
     "line_count": 1111
   },
   {
@@ -38318,7 +38318,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1959/59-0409.md",
-    "size_bytes": 55918,
+    "size_bytes": 55924,
     "line_count": 400
   },
   {
@@ -48097,7 +48097,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1961/61-0209.md",
-    "size_bytes": 102597,
+    "size_bytes": 102598,
     "line_count": 1367
   },
   {
@@ -48801,7 +48801,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1961/61-0308.md",
-    "size_bytes": 99707,
+    "size_bytes": 99713,
     "line_count": 490
   },
   {
@@ -51199,7 +51199,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1961/61-0730E.md",
-    "size_bytes": 93798,
+    "size_bytes": 93803,
     "line_count": 928
   },
   {
@@ -51264,8 +51264,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1961/61-0806.md",
-    "size_bytes": 127751,
-    "line_count": 1085
+    "size_bytes": 127779,
+    "line_count": 1086
   },
   {
     "source": "branham",
@@ -52723,7 +52723,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1962/62-0311.md",
-    "size_bytes": 154353,
+    "size_bytes": 154358,
     "line_count": 1346
   },
   {
@@ -53161,7 +53161,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1962/62-0513E.md",
-    "size_bytes": 62063,
+    "size_bytes": 62067,
     "line_count": 445
   },
   {
@@ -55152,7 +55152,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1962/62-0708.md",
-    "size_bytes": 98663,
+    "size_bytes": 98669,
     "line_count": 1179
   },
   {
@@ -56461,8 +56461,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1962/62-1122.md",
-    "size_bytes": 86262,
-    "line_count": 559
+    "size_bytes": 86286,
+    "line_count": 560
   },
   {
     "source": "branham",
@@ -56763,8 +56763,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1962/62-1209.md",
-    "size_bytes": 53563,
-    "line_count": 298
+    "size_bytes": 53595,
+    "line_count": 299
   },
   {
     "source": "branham",
@@ -57770,7 +57770,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1963/63-0120E.md",
-    "size_bytes": 81407,
+    "size_bytes": 81413,
     "line_count": 387
   },
   {
@@ -58528,7 +58528,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1963/63-0323.md",
-    "size_bytes": 143603,
+    "size_bytes": 143609,
     "line_count": 1891
   },
   {
@@ -59595,7 +59595,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1963/63-0628M.md",
-    "size_bytes": 77283,
+    "size_bytes": 77289,
     "line_count": 608
   },
   {
@@ -62166,7 +62166,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1963/63-1201M.md",
-    "size_bytes": 72681,
+    "size_bytes": 72687,
     "line_count": 478
   },
   {
@@ -63138,7 +63138,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1964/64-0206E.md",
-    "size_bytes": 62405,
+    "size_bytes": 62409,
     "line_count": 458
   },
   {
@@ -65856,7 +65856,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1964/64-0621.md",
-    "size_bytes": 81933,
+    "size_bytes": 81939,
     "line_count": 700
   },
   {
@@ -66240,8 +66240,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1964/64-0726E.md",
-    "size_bytes": 83360,
-    "line_count": 921
+    "size_bytes": 83383,
+    "line_count": 922
   },
   {
     "source": "branham",
@@ -66737,7 +66737,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1964/64-0120.md",
-    "size_bytes": 77571,
+    "size_bytes": 77577,
     "line_count": 1007
   },
   {
@@ -70208,8 +70208,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1961/61-0118.md",
-    "size_bytes": 105087,
-    "line_count": 1304
+    "size_bytes": 105107,
+    "line_count": 1305
   },
   {
     "source": "branham",
@@ -72971,8 +72971,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1963/63-0317M.md",
-    "size_bytes": 156362,
-    "line_count": 1031
+    "size_bytes": 156385,
+    "line_count": 1032
   },
   {
     "source": "branham",
@@ -73092,8 +73092,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1963/63-0322.md",
-    "size_bytes": 140426,
-    "line_count": 1239
+    "size_bytes": 140448,
+    "line_count": 1240
   },
   {
     "source": "branham",
@@ -73485,8 +73485,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1964/64-0119.md",
-    "size_bytes": 91185,
-    "line_count": 1173
+    "size_bytes": 91205,
+    "line_count": 1174
   },
   {
     "source": "branham",
@@ -74186,7 +74186,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1965/65-0410.md",
-    "size_bytes": 123337,
+    "size_bytes": 123343,
     "line_count": 1436
   },
   {
@@ -74498,7 +74498,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1965/65-0911.md",
-    "size_bytes": 111718,
+    "size_bytes": 111722,
     "line_count": 1034
   },
   {
@@ -75372,8 +75372,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1965/65-0418M.md",
-    "size_bytes": 121429,
-    "line_count": 896
+    "size_bytes": 121454,
+    "line_count": 897
   },
   {
     "source": "branham",
@@ -76353,7 +76353,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1965/65-0822M.md",
-    "size_bytes": 112723,
+    "size_bytes": 112729,
     "line_count": 1170
   },
   {
@@ -76826,7 +76826,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1965/65-1127E.md",
-    "size_bytes": 100060,
+    "size_bytes": 100069,
     "line_count": 601
   },
   {

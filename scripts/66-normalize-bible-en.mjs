@@ -115,11 +115,15 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
 // The grammar words may be capitalized and a line may break anywhere; "the" is
 // often dropped ("First John, 1st chapter", "the 19th chapter, 42nd verse"),
 // and "and" can join the book to its chapter ("Revelation and the 6th chapter").
+// Verses may be a list ("the 3rd and 4th verses"). A book cut off and restated,
+// "the 13th chapter of Ex-…of Genesis", is the restated one.
 const ORD = "(\\d{1,3})(?:st|nd|rd|th)";
 const THE = "(?:[Tt]he\\s+)?";
+const ORDN = "\\d{1,3}(?:st|nd|rd|th)";
+const VERSES = `(?:,?\\s+(?:and\\s+)?${THE}(${ORDN}(?:,?\\s+(?:and\\s+)?${THE}${ORDN})*)\\s+[Vv]erses?)?`;
 const SPOKEN = [
-  new RegExp(`(?<![\\p{L}\\d])(${BOOK_ALT})(?:['’]s\\s+Gospel)?(?:,|\\s+and)?\\s+${THE}${ORD}\\s+[Cc]hapter(?:,?\\s+(?:and\\s+)?${THE}${ORD}\\s+[Vv]erse)?`, "gu"),
-  new RegExp(`[Tt]he\\s+${ORD}\\s+[Cc]hapter\\s+of\\s+(${BOOK_ALT})(?!\\p{L})(?:,?\\s+(?:and\\s+)?${THE}${ORD}\\s+[Vv]erse)?`, "gu"),
+  new RegExp(`(?<![\\p{L}\\d])(${BOOK_ALT})(?:['’]s\\s+Gospel)?(?:,|\\s+and)?\\s+${THE}${ORD}\\s+[Cc]hapter${VERSES}`, "gu"),
+  new RegExp(`[Tt]he\\s+${ORD}\\s+[Cc]hapter\\s+of\\s+(${BOOK_ALT})(?:-[….]*\\s*of\\s+(${BOOK_ALT}))?(?!\\p{L})${VERSES}`, "gu"),
 ];
 
 function normalize(md) {
@@ -154,11 +158,12 @@ function normalize(md) {
     found.push(rendered);
   }
   for (const m of md.matchAll(SPOKEN[0])) spoken(m[1], m[2], m[3]);
-  for (const m of md.matchAll(SPOKEN[1])) spoken(m[2], m[1], m[3]);
-  function spoken(bookVariant, chapter, verse) {
+  for (const m of md.matchAll(SPOKEN[1])) spoken(m[3] ?? m[2], m[1], m[4]);
+  function spoken(bookVariant, chapter, verseList) {
     const book = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
-    if (!isPossible(book, chapter, verse ? [verse] : [])) return;
-    found.push(renderRef({ book, chapter, verseStart: verse ?? null, verseEnd: null, extra: null }));
+    const verses = verseList?.match(/\d+/g) ?? [];
+    if (!isPossible(book, chapter, verses)) return;
+    found.push(renderRef({ book, chapter, verseStart: verses[0] ?? null, verseEnd: null, extra: verses.slice(1).join(",") || null }));
     spokenRefs++;
   }
   return [...new Set(found)].sort();
