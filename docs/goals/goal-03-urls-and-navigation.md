@@ -94,7 +94,8 @@ Goal 05 ran before this goal. What it left for this one:
   Mac: 230 s cold, 7.0 GB peak RSS); this goal measures again after
   removing the duplicate mevar pages.
 - `works/[...slug].astro` does not give drafts `data-pagefind-body`.
-  Once the one filter in `src/lib/works.ts` stops building drafts, delete
+  Once the draft filter this goal adds to `src/lib/works.ts` stops
+  building drafts, delete
   the `indexed` constant and set `data-pagefind-body` unconditionally.
 - The taxonomy pages are lists of WorkCards: paginate them with
   `PAGE_SIZE` from `src/lib/works.ts` (60), as the four category pages
