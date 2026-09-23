@@ -37,10 +37,12 @@ export default defineConfig({
           ],
         },
         workbox: {
-          // The shell only. Pages and images are cached when a reader opens
+          // The shell only, and no JS: no page loads an island today, and an
+          // island's JS comes with the page that uses it. Pages and images
+          // are cached when a reader opens
           // them, never in bulk: the full corpus is 3,000+ pages, and our
           // readers are on metered phones.
-          globPatterns: ["_astro/*.{js,css}", "index.html", "hors-ligne/index.html"],
+          globPatterns: ["_astro/*.css", "index.html", "hors-ligne/index.html"],
           // The plugin defaults this to "/", which would answer every
           // navigation with the home page once pages are not precached.
           navigateFallback: null,
