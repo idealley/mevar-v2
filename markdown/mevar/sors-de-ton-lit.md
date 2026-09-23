@@ -35,9 +35,11 @@ Luc chapitre 5 verset 17 (Luc 5:17-23) :
 
 On va lire Jean chapitre 5 verset 9 (Jean 5:1-9) :
 
-> _**1**Après cela, il y eut une fête des Juifs, et Jésus monta à Jérusalem. **2**Or, à Jérusalem, près de la porte des brebis, il y a une piscine qui s’appelle en hébreu Béthesda, et qui a cinq portiques. **3**Sous ces portiques étaient couchés en grand nombre des malades, des aveugles, des boiteux, des paralytiques, qui attendaient le mouvement de l’eau ; **4**car un ange descendait de temps en temps dans la piscine, et agitait l’eau ; et celui qui y descendait le premier après que l’eau avait été agitée était guéri, quelle que fût sa maladie. **5**Là se trouvait un homme malade depuis trente-huit ans. **6**Jésus, l’ayant vu couché, et sachant qu’il était malade depuis longtemps, lui dit : Veux-tu être guéri ? **7**Le malade lui répondit : Seigneur, je n’ai personne pour me jeter dans la piscine quand l’eau est agitée, et, pendant que j’y vais, un autre descend avant moi. **8**Lève-toi, lui dit Jésus, prends ton lit, et marche. **9**Aussitôt cet homme fut guéri ; il prit son lit, et marcha._
+> _**1**Après cela, il y eut une fête des Juifs, et Jésus monta à Jérusalem. **2**Or, à Jérusalem, près de la porte des brebis, il y a une piscine qui s’appelle en hébreu Béthesda,_
 
-(Béthesda veut dire Maison de miséricorde.)
+(Béthesda veut dire Maison de miséricorde)
+
+> _et qui a cinq portiques. **3**Sous ces portiques étaient couchés en grand nombre des malades, des aveugles, des boiteux, des paralytiques, qui attendaient le mouvement de l’eau ; **4**car un ange descendait de temps en temps dans la piscine, et agitait l’eau ; et celui qui y descendait le premier après que l’eau avait été agitée était guéri, quelle que fût sa maladie. **5**Là se trouvait un homme malade depuis trente-huit ans. **6**Jésus, l’ayant vu couché, et sachant qu’il était malade depuis longtemps, lui dit : Veux-tu être guéri ? **7**Le malade lui répondit : Seigneur, je n’ai personne pour me jeter dans la piscine quand l’eau est agitée, et, pendant que j’y vais, un autre descend avant moi. **8**Lève-toi, lui dit Jésus, prends ton lit, et marche. **9**Aussitôt cet homme fut guéri ; il prit son lit, et marcha._
 
 Amen !
 
