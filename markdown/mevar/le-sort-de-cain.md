@@ -18,7 +18,9 @@ uuid: "bb075f30-c801-488d-9dcd-7da4d7e08602"
 stream_url: "https://mevar.org/le-sort-de-cain/"
 bible_refs:
   - "Apocalypse 3"
+  - "Genèse 4:1-16"
   - "Hébreux 11"
+  - "Matthieu 24:14"
   - "Ésaïe 53"
 ---
 Genèse chapitre 4. Le sort de Caïn. C’est là que nous allons lire. Genèse chapitre 4 à partir du premier verset (Genèse 4:1-16) :

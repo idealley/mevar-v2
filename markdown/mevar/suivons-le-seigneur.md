@@ -17,7 +17,9 @@ ghost_id: "651beb0230c1cf0001c9278f"
 uuid: "e68ff87b-e959-46c5-be5e-b16c2945dd74"
 stream_url: "https://mevar.org/suivons-le-seigneur/"
 bible_refs:
-  - "Jean 3"
+  - "Actes 1:21-23"
+  - "Jean 12:26"
+  - "Jean 3:16"
 ---
 Nous rendons grâce à Dieu pour ce soir et aussi pour notre présence parmi vous. Effectivement, on a eu à cœur de vous rendre visite et je pense que c’est le Seigneur qui a mis cela dans notre cœur. Ma prière, c’est que chacun de nous puisse bénéficier de ce temps de communion fraternelle autour de la Parole de Dieu. Amen. S’il y a une chose importante pour l’homme, c’est la Parole de Dieu. Nous avons été créés par le Seigneur et ce qu’Il veut, c’est que chacun de nous écoute Sa voix pour être sauvé. Amen ! Car l’homme est tombé dans la perdition depuis qu’il y a eu la chute dans le jardin d’Éden. La chute dans le péché a conduit l’homme à la perdition et le Seigneur a établi un plan, un programme spirituel pour racheter l’homme qui s’est perdu, qui s’est éloigné de Dieu.
 

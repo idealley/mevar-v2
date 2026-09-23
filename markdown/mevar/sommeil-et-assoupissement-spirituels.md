@@ -20,7 +20,7 @@ stream_url: "https://mevar.org/sommeil-et-assoupissement-spirituels/"
 bible_refs:
   - "Apocalypse 17"
   - "Luc 17"
-  - "Matthieu 25"
+  - "Matthieu 25:5"
 ---
 Que le nom du Seigneur soit béni ! Nous sommes à la quatrième réunion aujourd’hui. Et dans l’ensemble, je crois que ça va quatorze réunions aujourd’hui. Mais je crois que nous nous comprenons, frères et sœurs. Tout ce que nous prêchons a pour objectif d’apporter le Réveil dans les cœurs des uns et des autres, parce que nous sommes parvenus à un temps où on doit se réveiller. Alléluia ! À Minuit, l’Église doit parvenir au Réveil, parce qu’on n’a pas été appelé à sortir des dénominations pour entrer dans le sommeil et l’assoupissement. Ce n’est pour cela qu’on a été appelé, frères et sœurs ! Ce sont des choses qu’on doit bien savoir, parce qu’il y a des frères, moi, j’ai entendu des frères dire que le sommeil et l’assoupissement, c’est la volonté de Dieu. J’ai entendu cela de mes propres oreilles. Et il y a même des serviteurs de Dieu qui croient comme cela…
 
