@@ -18,6 +18,8 @@ const kind = deriveKind(fm);
 const date = formatDateFr((fm.date as string | null) ?? (fm.published_at as string | null));
 // Branham's own text is English; everything else is French.
 const lang = fm.source === "branham" ? "en" : "fr";
+// Ghost posts name their preacher in `authors`, the other sources in `preacher`.
+const preacher = fm.preacher ?? fm.authors?.[0];
 const pdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
 
 const series = fm.series
@@ -40,7 +42,7 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
   lang={lang}
 >
   <article class="container mx-auto px-4 py-8 md:py-12 max-w-3xl" data-pagefind-body>
-    {fm.preacher && <meta data-pagefind-filter="preacher[content]" content={fm.preacher} />}
+    {preacher && <meta data-pagefind-filter="preacher[content]" content={preacher} />}
     {fm.year && <meta data-pagefind-filter="year[content]" content={String(fm.year)} />}
     {fm.source && <meta data-pagefind-filter="source[content]" content={fm.source} />}
     <!-- Header: only the title is indexed, as the result's title -->
