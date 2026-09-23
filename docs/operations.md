@@ -102,6 +102,11 @@ node scripts/140-embed-works.mjs             # only embeds works whose content_h
 
 ```bash
 node scripts/45-process-ghost.mjs            # regenerate markdown/mevar from new export
+node scripts/90-download-mevar-images.mjs    # then 91, 92, 93: the new posts' assets
+node scripts/91-patch-mevar-frontmatter.mjs
+node scripts/92-download-mevar-assets.mjs
+node scripts/93-optimize-images.mjs
+node scripts/check-local-assets.mjs
 node scripts/65-normalize-bible.mjs          # re-normalize all sources (idempotent)
 node scripts/50-build-index.mjs
 node scripts/100-ingest-surrealdb.mjs

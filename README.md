@@ -37,7 +37,9 @@ manifests/
   le-scribe-branham-unresolved.json  # summaries with no certain Branham sermon
   onedrive-mevar-overlap.json   # cross-source duplicate report
 
-images/mevar/                   # downloaded mevar feature images (110 files)
+images/mevar/                   # mevar feature images, WebP (111 files)
+images/mevar/content/           # images mevar bodies link, WebP (21 files)
+files/mevar/                    # PDFs mevar links (188 files, 50 MB)
 
 scripts/                        # all pipeline scripts (numbered by stage)
 index.json                      # master index across all sources
@@ -62,7 +64,9 @@ persons: [...]              # NER: Bible characters + historical
 places: [...]               # NER: places mentioned
 themes: [...]               # NER: thematic concepts
 feature_image: "https://..."  # remote URL (mevar)
-local_image: "images/mevar/<slug>.<ext>"  # local file
+local_image: "images/mevar/<slug>.webp"  # local file, what the site reads
+pdf_download: "https://..."  # remote PDF (mevar); pdf_url in mevar-pdfs
+local_pdf: "/files/mevar/<name>.pdf"  # local copy of either
 series: "Le jour du Seigneur"  # mevar article series, with series_id / series_part / series_total
 original: "branham/1963/63-0112"      # le-scribe: the English sermon summarized
 summary_fr: "le-scribe/1963/630112aInfluence"  # branham: the French summary
@@ -111,6 +115,9 @@ node scripts/82-prepare-mevar-pdfs.mjs                # build corpus manifest
 # 7. Images
 node scripts/90-download-mevar-images.mjs             # download feature_images
 node scripts/91-patch-mevar-frontmatter.mjs           # add local_image to frontmatter
+node scripts/92-download-mevar-assets.mjs             # body images + PDFs off Ghost, links rewritten
+node scripts/93-optimize-images.mjs                   # images/ to WebP, 8 MB budget
+node scripts/check-local-assets.mjs                   # every local asset link resolves
 
 # 8. Links between sources
 node scripts/48-detect-series.mjs                     # mevar article series
