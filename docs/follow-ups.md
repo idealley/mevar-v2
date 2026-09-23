@@ -38,6 +38,12 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Fix**: decide what the page should show, then either lift the cap or keep the references in order of appearance rather than alphabetically. The normalizer sorts them, so order of appearance is not recoverable today.
 
+## `100` keeps only the first verse group of a list
+
+**Status**: a ref like `Mark 8:16,35` or `Hebrews 13:12,13` is one canonical string in `bible-refs.json`. `parseRef` in `100-ingest-surrealdb.mjs` reads `(?:,[\d,\-]+)?` and drops it, so the `bible_ref` record covers verse 16 only and its seeded text is incomplete. 875 of 38,118 refs carry a list (goal 07 added the "and" lists).
+
+**Fix**: split a list into one `bible_ref` per group at ingest (and a `cites` edge to each), or have 65/66 emit one ref per group. Needs a SurrealDB run to verify; none was available for goal 07.
+
 ## `100-ingest-surrealdb.mjs` never deletes an edge
 
 **Symptom**: all eight edge types — `by`, `cites`, `mentions`, `mentions_place`, `has_theme`, `has_tag`, `contains`, `based_on` — go through the same insert-only `inChunks`. Re-ingesting after the corpus changed adds the new edges and leaves the old ones. Against `origin/main`, goal 02 removes 477 (file, reference) pairs from `manifests/bible-refs.json` (impossible chapters, the "you're" misreads, malformed ranges, and the 83 one-chapter refs that change form), so a database ingested before it keeps up to 477 stale `cites` edges; a corrected `original` link leaves both `based_on` edges, since the unique index is on `(in, out)`.
