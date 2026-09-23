@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "CONTENT_SOURCES=mevar astro dev",
     "dev:all": "astro dev",
-    "build": "NODE_OPTIONS='--max-old-space-size=8192' astro build && pagefind --site dist",
+    "build": "NODE_OPTIONS='--max-old-space-size=8192' astro build && pagefind --site dist --force-language fr",
     "preview": "astro preview",
     "check:dist": "node scripts/check-dist.mjs",
     "astro": "astro",

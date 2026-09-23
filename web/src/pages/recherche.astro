@@ -40,9 +40,6 @@ import Layout from "../layouts/Layout.astro";
       const ui = new PagefindUI({
         element: "#search",
         showImages: false,
-        // This page is French, so Pagefind loads the French index; the
-        // Branham sermons are in the English one.
-        mergeIndex: [{ bundlePath: "/pagefind/", language: "en" }],
       });
       start.remove();
       const input = document.querySelector<HTMLInputElement>("#search input");

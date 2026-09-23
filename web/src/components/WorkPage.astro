@@ -16,8 +16,7 @@ const { Content } = await render(entry);
 const fm = entry.data;
 const kind = deriveKind(fm);
 const date = formatDateFr((fm.date as string | null) ?? (fm.published_at as string | null));
-// Branham's own text is English; everything else is French. Pagefind reads
-// <html lang> to pick the stemmer and the index.
+// Branham's own text is English; everything else is French.
 const lang = fm.source === "branham" ? "en" : "fr";
 const pdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
 
