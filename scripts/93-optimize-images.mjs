@@ -2,8 +2,8 @@
 // Re-encode every PNG, JPEG and GIF under images/ to WebP, inside 1600 px.
 // Width and quality step down until the file is under 80 KB: the 8 MB budget
 // for images/ over about 130 images. An animated GIF becomes an animated WebP.
-// The original is removed and every link to it in markdown/ and
-// manifests/mevar.json follows.
+// Every link to it in markdown/ and manifests/mevar.json follows, then the
+// original is removed: a run that stops halfway leaves it to be redone.
 //
 // Idempotent: a second run finds nothing left to re-encode.
 
@@ -31,7 +31,6 @@ for (const entry of fs.readdirSync(path.join(root, "images"), { recursive: true 
   }
   const next = rel.replace(/\.[^.]+$/, ".webp");
   fs.writeFileSync(path.join(root, next), out);
-  fs.rmSync(src);
   renamed.set(rel, next);
   console.log(`${rel}  ${(fs.statSync(path.join(root, next)).size / 1024).toFixed(0)} KB`);
 }
@@ -52,4 +51,5 @@ for (const doc of [...docs.map((f) => path.join("markdown", f)), "manifests/meva
   const next = relink(text);
   if (next !== text) { fs.writeFileSync(file, next); files++; }
 }
+for (const rel of renamed.keys()) fs.rmSync(path.join(root, rel));
 console.log(`re-encoded: ${renamed.size}  files relinked: ${files}`);
