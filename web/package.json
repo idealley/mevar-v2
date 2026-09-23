@@ -11,7 +11,9 @@
     "build": "NODE_OPTIONS='--max-old-space-size=8192' astro build && pagefind --site dist",
     "preview": "astro preview",
     "check:dist": "node scripts/check-dist.mjs",
-    "astro": "astro"
+    "astro": "astro",
+    "check:limits": "node scripts/check-pages-limits.mjs",
+    "deploy": "npm run build && npm run check:limits && npx wrangler@4 pages deploy dist --project-name=mevar"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
