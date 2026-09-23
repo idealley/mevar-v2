@@ -42,6 +42,7 @@ bible_refs:
   - "Luc 2:25"
   - "Matthieu 4:4"
   - "Nombres 24:17"
+original: "branham/1955/55-1001"
 ---
 Résumé de : “Dans l'attente ” (1er octobre 1955, soir)
 

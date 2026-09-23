@@ -55,6 +55,7 @@ bible_refs:
   - "Romains 8:23,9"
   - "Éphésiens 1:5"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0301E"
 ---
 *Résumé de : “Ecoutez-le” (1er mars 1958, soir)*
 

@@ -54,7 +54,7 @@ bible_refs:
   - "Jean 4:18"
   - "Jean 4:26"
   - "Jean 5:19"
-  - "Jude 4"
+  - "Jude 1:4"
   - "Luc 24:13"
   - "Luc 24:30,31"
   - "Psaumes 34:8"
@@ -75,7 +75,7 @@ Thème central : Les manifestations surnaturelles, sur l'estrade même, confirme
 **1.** Lisons Luc 24:30,31
 > “Pendant qu'il était à table avec eux, il prit le pain; et, après avoir rendu grâces, il le rompit, et le leur donna. Alors leurs yeux s'ouvrirent, et ils le reconnurent ; mais il disparut de devant eux. Et ils se dirent l'un à l'autre : Notre cœur ne brûlait-il pas au dedans de nous, lorsqu'il nous parlait en chemin et nous expliquait les Ecritures ?”
 
-**2 à 5.** Que Dieu nous ouvre les yeux ce soir d'une façon ou d'une autre. Jésus a dit : “Encore un peu de temps, et le monde ne me verra plus; mais vous, vous me verrez, car je suis avec vous, et je serai en vous” [cf. Jean 14:19,17]. Mais certains, de par leur propre choix, ne croiront pas en lui et ne verront rien. Comme l'a dit Jude, ils sont venus au monde pour être condamnés [cf. Jude 4]. Mais je crois que, comme moi, vous êtes venus ce soir pour marcher plus près de Dieu, et repartir meilleur qu'avant.
+**2 à 5.** Que Dieu nous ouvre les yeux ce soir d'une façon ou d'une autre. Jésus a dit : “Encore un peu de temps, et le monde ne me verra plus; mais vous, vous me verrez, car je suis avec vous, et je serai en vous” [cf. Jean 14:19,17]. Mais certains, de par leur propre choix, ne croiront pas en lui et ne verront rien. Comme l'a dit Jude, ils sont venus au monde pour être condamnés [cf. Jude 1:4]. Mais je crois que, comme moi, vous êtes venus ce soir pour marcher plus près de Dieu, et repartir meilleur qu'avant.
 
 **6 à 9.** Peu avant Son départ, Jésus a dit : “Celui qui croit en moi, fera aussi les œuvres que je fais, et il en fera de plus grandes, parce que je m'en vais au Père” [Jean 14:12]. Il est venu comme un Homme humble, parlant simplement, vivant au milieu des pauvres. Le vêtement qu'il portait lui avait été donné : “Les renards ont des tanières, et les oiseaux du ciel ont des nids ; mais le Fils de l'homme n'a pas où reposer sa tête” [Mat. 8:20]. Et je pense que tous dans notre cœur nous voudrions voir Jésus.
 

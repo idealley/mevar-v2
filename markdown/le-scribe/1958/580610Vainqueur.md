@@ -56,6 +56,7 @@ bible_refs:
   - "Job 19:25"
   - "Psaumes 24:7"
   - "Psaumes 24:8"
+original: "branham/1958/58-0610"
 ---
 Résumé de : “Le puissant vainqueur” (10 juin 1958, soir)
 

@@ -58,6 +58,7 @@ bible_refs:
   - "Luc 8:46"
   - "Marc 6:5-6"
   - "Ésaïe 7:14"
+original: "branham/1964/64-0205"
 ---
 *Dieu est son propre interprète* (5 février 1964, soir)
 

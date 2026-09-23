@@ -50,6 +50,7 @@ bible_refs:
   - "Luc 18:42"
   - "Matthieu 10:42"
   - "Romains 8:35"
+original: "branham/1957/57-0809"
 ---
 Résumé de : “L’aveugle Bartimée” (9.08.1957)
 

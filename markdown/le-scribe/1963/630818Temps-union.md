@@ -44,12 +44,13 @@ bible_refs:
   - "Jean 14:20"
   - "Jean 15:7"
   - "Jean 9:20-22"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Luc 21:20"
   - "Malachie 4:5-6"
   - "Matthieu 16:1-3"
   - "Michée 1:8"
   - "Psaumes 86:1"
+original: "branham/1963/63-0818"
 ---
 **LE TEMPS ET LE SIGNE DE L'UNION**
 *THE SIGN OF THE UNITING TIME*
@@ -89,7 +90,7 @@ Lisons aussi Matthieu 16:1-3:
 
 **91.** Dieu unit son Epouse en ce moment même, pour l'enlèvement, en l'unissant à son Epoux, à la Parole. Tandis que les églises s'unissent dans le Conseil Mondial des Eglises, l'Epouse et la Parole deviennent UN à un point tel que l'Epouse fait les œuvres de l'Epouse. “Le Seigneur lui-même, à un signal donné, à la voix d'un archange, et au son de la trompette de Dieu, descendra du ciel, et les morts en Christ ressusciteront premièrement. - Ensuite, nous les vivants, qui seront restés, nous serons tous ensemble enlevés avec eux sur des nuées, à la rencontre du Seigneur dans les airs, et ainsi nous seront tous avec le Seigneur” [1 Thess. 4:16-17].
 
-**95.** L'union de la Parole ramène “la foi qui a été transmise aux saints une fois pour toutes” [Jude 3]. Aujourd'hui, c'est la seule époque où cela pouvait se faire, car c'est l'heure du rassemblement de toutes les paroles dispersées depuis Nicée, et c'est dans les derniers jours que la foi des pères est restituée à l'Epouse, et qu'il y a la Colonne de Feu et tous ces signes. C'est le temps de l'union pour l'Eglise ! Nous voyons Dieu s'unir à son Epouse jusqu'à ce que Dieu et l'Eglise ne soient plus qu'UN. Depuis les premiers âges, il n'y a jamais eu la Colonne de Feu. Il a révélé les Sceaux et donné un signe quand il a fait descendre du Ciel les 7 anges [NDT : allusion à la rencontre avec les 7 anges le 28 février 1963 à la Sunset Mountain, et à l’apparition d'un Nuage mystérieux dans le ciel].
+**95.** L'union de la Parole ramène “la foi qui a été transmise aux saints une fois pour toutes” [Jude 1:3]. Aujourd'hui, c'est la seule époque où cela pouvait se faire, car c'est l'heure du rassemblement de toutes les paroles dispersées depuis Nicée, et c'est dans les derniers jours que la foi des pères est restituée à l'Epouse, et qu'il y a la Colonne de Feu et tous ces signes. C'est le temps de l'union pour l'Eglise ! Nous voyons Dieu s'unir à son Epouse jusqu'à ce que Dieu et l'Eglise ne soient plus qu'UN. Depuis les premiers âges, il n'y a jamais eu la Colonne de Feu. Il a révélé les Sceaux et donné un signe quand il a fait descendre du Ciel les 7 anges [NDT : allusion à la rencontre avec les 7 anges le 28 février 1963 à la Sunset Mountain, et à l’apparition d'un Nuage mystérieux dans le ciel].
 
 **98.** “Si vous demeurez en moi et que mes paroles demeurent en vous, demandez ce que vous voudrez, et cela vous sera accordé” [Jean 15:7]. C'est l'Epouse qui s'unit à la Parole, et non pas à un credo dénominationnel. Dans les derniers jours, il se passe des choses qui ne se sont jamais produites auparavant. C'est le signe de Dieu. “Et quand les 7 tonnerres eurent fait entendre leurs voix, j'allais écrire; et j'entendis du ciel une voix qui disait : Scelle ce qu'on dit les 7 tonnerres, et ne l'écris pas. - Et l'Ange, que je voyais debout sur la mer et sur la terre, leva la main droite vers le ciel, - et jura par celui qui vit aux siècles des siècles, qui a créé le ciel et les choses qui y sont, et la mer et les choses qui y sont, qu'il n'y aurait plus de temps, - mais qu'aux jours de la voix du septième ange, quand il sonnerait de la trompette, le mystère de Dieu s'accomplirait, comme il l'a annoncé à ses serviteurs, les prophètes” [Apocalypse 10:4-7]. Ce 7ème ange d'Apocalypse 10, est l'ange d'un message, d'une voix, du message de l'âge. Alors le mystère de Dieu est terminé.
 

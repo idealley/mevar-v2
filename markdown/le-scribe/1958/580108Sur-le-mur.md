@@ -40,6 +40,7 @@ bible_refs:
   - "Actes 2:38"
   - "Daniel 5:25"
   - "Proverbes 14:12"
+original: "branham/1958/58-0108"
 ---
 *Résumé de!: “L'écriture sur le mur” (8 janvier 1958, soir)*
 

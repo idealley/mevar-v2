@@ -46,6 +46,7 @@ bible_refs:
   - "Psaumes 16:10"
   - "Psaumes 37:23"
   - "Psaumes 84:10"
+original: "branham/1957/57-0407E"
 ---
 *Résumé de: Alors Jésus vint (7.04.1957)*
 

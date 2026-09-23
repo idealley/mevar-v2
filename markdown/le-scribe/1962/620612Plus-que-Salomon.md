@@ -68,6 +68,7 @@ bible_refs:
   - "Nombres 27:21"
   - "Psaumes 37:31"
   - "Ésaïe 49:15-16"
+original: "branham/1962/62-0612"
 ---
 **Résumé de!: “Il y a ici plus que Salomon” (12 Juin 1962, soir)**
 

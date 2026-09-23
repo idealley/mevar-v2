@@ -50,7 +50,6 @@ bible_refs:
   - "2 Thessaloniciens 2"
   - "Actes 2"
   - "Apocalypse 6"
-  - "Esther 95"
   - "Malachie 4:5-6"
   - "Matthieu 24"
   - "Éphésiens 5:26-27"

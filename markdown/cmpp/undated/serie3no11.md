@@ -39,7 +39,6 @@ bible_refs:
   - "1 Jean 4"
   - "Hébreux 13"
   - "Jean 14"
-  - "Josué 166"
   - "Marc 11"
   - "Matthieu 28"
   - "Psaumes 34"

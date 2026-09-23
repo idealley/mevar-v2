@@ -67,6 +67,7 @@ bible_refs:
   - "Ésaïe 53:7"
   - "Ésaïe 53:9"
   - "Ésaïe 9:5"
+original: "branham/1965/65-0801E"
 ---
 **Résumé de : “Les évènements éclairés par la prophétie” (1er août 1965, soir)**
 

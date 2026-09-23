@@ -53,6 +53,7 @@ bible_refs:
   - "Proverbes 28:13"
   - "Psaumes 46:1"
   - "Ésaïe 40:31"
+original: "branham/1959/59-0810"
 ---
 **1.** …Nous prierons pour les malades demain soir et les jours suivants. J’ai ressenti que c’était en accord avec la volonté de Dieu. Les cartes de prière seront distribuées demain à 6 heures ½. Ce serait bien qu’il y ait des réunions de prière toute la journée, car on ne peut rien obtenir de Dieu sans s’approcher de lui.
 

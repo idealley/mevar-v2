@@ -68,6 +68,7 @@ bible_refs:
   - "Romains 9:18"
   - "Romains 9:20"
   - "Zacharie 4:6"
+original: "branham/1958/58-0928E"
 ---
 *“La semence du serpent” (28 septembre 1958, soir)*
 

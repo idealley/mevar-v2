@@ -65,6 +65,7 @@ bible_refs:
   - "Marc 16:15,17"
   - "Matthieu 28:1-10"
   - "Romains 8:11"
+original: "branham/1965/65-0410"
 ---
 Résumé de : “Le Sceau de Pâque” [10 avril 1965, matin)
 

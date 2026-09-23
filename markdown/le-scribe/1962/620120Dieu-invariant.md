@@ -67,6 +67,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 40:8"
   - "Ésaïe 9:5,7"
+original: "branham/1962/62-0120"
 ---
 *Un Dieu qui ne varie pas mais qui agit de façon inattendue* (20 janvier 1962, soir)
 

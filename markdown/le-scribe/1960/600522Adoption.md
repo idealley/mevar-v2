@@ -61,7 +61,6 @@ bible_refs:
   - "Job 1:21"
   - "Job 38:7"
   - "Matthieu 1:21"
-  - "Nombres 250"
   - "Romains 8:19"
   - "Romains 8:29-30"
   - "Romains 9:16"
@@ -70,6 +69,7 @@ bible_refs:
   - "Éphésiens 1:13"
   - "Ésaïe 53:5"
   - "Ésaïe 9:6"
+original: "branham/1960/60-0522E"
 ---
 **“Adoption” (le 22 mai 1960, soir)**
 

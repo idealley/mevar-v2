@@ -59,12 +59,12 @@ bible_refs:
   - "Malachie 4"
   - "Malachie 4:5"
   - "Malachie 4:5-6"
-  - "Marc 17:18"
   - "Romains 8:1"
   - "Romains 8:9"
   - "Zacharie 14:7"
   - "Ésaïe 35:5"
   - "Ésaïe 7:14"
+original: "branham/1965/65-0218"
 ---
 **Résumé de : "La semence n'hérite pas avec la balle" (18 février 1965, soir)**
 

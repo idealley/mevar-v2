@@ -41,6 +41,7 @@ bible_refs:
   - "Jean 5:19"
   - "Luc 8:46"
   - "Éphésiens 4:11"
+original: "branham/1956/56-0408A"
 ---
 *Résumé de : “Qu’est-ce qu’une vision ?” (8 avril 1956)*
 

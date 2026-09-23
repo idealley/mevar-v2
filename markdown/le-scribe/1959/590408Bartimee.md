@@ -47,6 +47,7 @@ bible_refs:
   - "Luc 18:37-38"
   - "Marc 10:46-53"
   - "Psaumes 103"
+original: "branham/1959/59-0408"
 ---
 **“L’aveugle Bartimée” (8 avril 1959)**
 

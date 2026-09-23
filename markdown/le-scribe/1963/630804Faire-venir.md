@@ -56,6 +56,7 @@ bible_refs:
   - "Psaumes 23:4"
   - "Éphésiens 4:30"
   - "Ésaïe 9:5"
+original: "branham/1963/63-0804E"
 ---
 *Résumé de!: “Faire entrer Jésus sur scène” (4 août 1963, soir)*
 

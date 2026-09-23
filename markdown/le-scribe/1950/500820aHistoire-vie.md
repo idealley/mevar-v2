@@ -48,6 +48,7 @@ bible_refs:
   - "Hébreux 11:13"
   - "Hébreux 13:10-14"
   - "Job 38:4,7"
+original: "branham/1950/50-0820A"
 ---
 **HISTOIRE DE MA VIE**
 *LIFE STORY*

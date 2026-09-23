@@ -53,6 +53,7 @@ bible_refs:
   - "Luc 22:17"
   - "Malachie 4"
   - "Marc 11:22"
+original: "branham/1965/65-0117"
 ---
 *Un paradoxe* (17 janvier 1965, après-midi)
 

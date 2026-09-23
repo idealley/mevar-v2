@@ -71,6 +71,7 @@ bible_refs:
   - "Luc 19:40"
   - "Marc 11:24"
   - "Psaumes 42:7"
+original: "branham/1959/59-1129"
 ---
 **Résumé de!: “Fais-nous voir Dieu” (29 novembre 1959, après-midi)**
 

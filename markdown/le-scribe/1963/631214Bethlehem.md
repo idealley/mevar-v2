@@ -69,6 +69,7 @@ bible_refs:
   - "Ruth 1:22"
   - "Zacharie 4:6"
   - "Ésaïe 40:4"
+original: "branham/1963/63-1214"
 ---
 **Résumé de!: “Pourquoi la petite ville de Bethléhem ?” (14 décembre 1963 matin)**
 

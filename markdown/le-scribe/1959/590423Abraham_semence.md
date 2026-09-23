@@ -56,6 +56,7 @@ bible_refs:
   - "Nombres 18:16-16"
   - "Psaumes 103:3"
   - "Romains 4:17"
+original: "branham/1959/59-0423"
 ---
 **LA SEMENCE D'ABRAHAM**
 *23 avril 1959, jeudi après-midi, San Jose (Californie). 65 minutes.*

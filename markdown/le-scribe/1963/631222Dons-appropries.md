@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 26:6-13"
   - "Matthieu 2:1-12"
   - "Romains 12:1"
+original: "branham/1963/63-1222"
 ---
 **1.** Quand un sujet de prédication me vient à l'esprit, je le note aussitôt sur un carnet, et plus tard je l'utilise. J'ai ainsi reçu le thème de ce soir il y a peu de temps au Colorado.
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Marc 16:15-18"
   - "Nombres 12:6"
   - "Ésaïe 6:9-10"
+original: "branham/1964/64-0214"
 ---
 *La Voix du Signe* (14 février 1964, après-midi)
 

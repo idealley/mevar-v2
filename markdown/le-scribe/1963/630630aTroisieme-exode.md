@@ -88,6 +88,7 @@ bible_refs:
   - "Nombres 23:1"
   - "Psaumes 15:10"
   - "Romains 10:17"
+original: "branham/1963/63-0630M"
 ---
 **Résumé de!: “Le troisième exode” (30 juin1963 matin)**
 

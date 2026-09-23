@@ -52,6 +52,7 @@ bible_refs:
   - "Luc 9:62"
   - "Marc 9:23"
   - "Ézéchiel 18:4,20"
+original: "branham/1956/56-0128"
 ---
 **1.** Je suis heureux de revoir le frère et la sœur Rogers, malgré la neige. C'est merveilleux de savoir que le Père exauce nos désirs quand ils sont selon sa volonté, selon sa Parole. J'ai expliqué au frère Collins qu'avant d'agir, j'essaie toujours de savoir si c'est sa volonté, et je teste mes motivations, je vérifie qu'il n'y a pas d'égoïsme. L'égoïsme équivaut à ne pas être dans sa volonté. Quand tout sonne juste, tout est alors possible.
 

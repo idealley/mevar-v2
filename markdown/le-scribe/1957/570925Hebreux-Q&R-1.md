@@ -69,7 +69,7 @@ bible_refs:
   - "Jean 5:24"
   - "Jean 6:35,51"
   - "Jude 1"
-  - "Jude 4"
+  - "Jude 1:4"
   - "Matthieu 1:18"
   - "Matthieu 25:1-13"
   - "Matthieu 25:46"
@@ -77,6 +77,7 @@ bible_refs:
   - "Matthieu 8:12"
   - "Romains 8:31"
   - "Éphésiens 4:30"
+original: "branham/1957/57-0925"
 ---
 **Résumé de!: "Hébreux, questions et réponses, première partie" (25 septembre 1957, soir)**
 
@@ -102,7 +103,7 @@ Puis Jean a vu une foule immense tirée de diverses nations [Apocalypse 7:9], l'
 Ainsi donc, ceux qui sont rejetés, sont des Juifs rejetés pour un peu de temps des bénédictions, mais ils ne sont pas rejetés de la pensée de Dieu. Il ne peut pas oublier Israël. Quand le dernier Gentil sera entré, alors leurs yeux s'ouvriront.
 
 **Q 3 (§86)** - Selon les Ecritures, certains ne seront pas sauvés. Jésus n'est-il mort que pour ceux que le Père lui a donnés dans le monde entier, pour ceux qui sont destinés à la Vie Eternelle et élus selon son bon plaisir dès avant la fondation du monde ?
-C'est vrai. Certains hommes sont prédestinés à être condamnés. C'est pourquoi Jude, s'adressant à des élus, a écrit : "Il s'est glissé parmi vous certains hommes, dont la condamnation est écrite depuis longtemps, ..." [Jude 4]. Dieu n'agit pas arbitrairement. Jésus est mort pour tous, mais Dieu, bien que voulant que tous soient sauvés, savait, par pré-connaissance, qui serait sauvé. Ainsi, Dieu a envoyé Jésus vers ceux que Dieu savait vouloir être sauvés.
+C'est vrai. Certains hommes sont prédestinés à être condamnés. C'est pourquoi Jude, s'adressant à des élus, a écrit : "Il s'est glissé parmi vous certains hommes, dont la condamnation est écrite depuis longtemps, ..." [Jude 1:4]. Dieu n'agit pas arbitrairement. Jésus est mort pour tous, mais Dieu, bien que voulant que tous soient sauvés, savait, par pré-connaissance, qui serait sauvé. Ainsi, Dieu a envoyé Jésus vers ceux que Dieu savait vouloir être sauvés.
 
 **Q 4 (§102)** - Je ne comprend pas ce que vous avez dit au sujet du baptême d'eau d'après Matthieu : "Jésus, s'étant approché, leur parla ainsi : Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations mes disciples, les baptisant au Nom du Père, du Fils et du Saint-Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit" [Mat. 28:18,19].
 Jésus est Dieu, sinon, Dieu, qui lui a donné tout pouvoir, serait désormais sans pouvoir.

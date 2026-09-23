@@ -42,6 +42,7 @@ pdf_url: "http://le-scribe.org/pdfiles/570811Don-Bible.pdf"
 llm_cleaned: true
 bible_refs:
   - "Psaumes 63:1-3"
+original: "branham/1957/57-0811A"
 ---
 **1.** Je suis heureux de voir qu’il y a autant de monde que les autres soirs, ce qui n’est pas d’habitude le cas un dimanche après-midi ! J’ai dit au frère Carver combien j’ai aimé les chants. J’ai reçu il y a un instant la lettre du frère Fandler, un ami de Suisse ici présent, postée à Anchorage, Alaska.
 

@@ -46,6 +46,7 @@ bible_refs:
   - "Jean 8:44"
   - "Marc 11:24"
   - "Matthieu 12:42"
+original: "branham/1958/58-0503"
 ---
 *La reine de Saba* (3 mai 1958, soir)
 

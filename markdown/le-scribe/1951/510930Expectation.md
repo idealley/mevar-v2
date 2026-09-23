@@ -41,10 +41,11 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/510930Expectation.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Jude 4"
+  - "Jude 1:4"
   - "Luc 17:26"
   - "Luc 2:25-30"
   - "Matthieu 4:23"
+original: "branham/1951/51-0930E"
 ---
 **1 à 7**- Comme souvent, je dois partir avant que les résultats de cette campagne ne soient manifestés. Merci pour cette offrande. Mais je ne la mérite pas, et je n’en demande jamais. Notre famille vit modestement, et cela nous suffit. Tout sera utilisé pour les missions à l’étranger. [W.M. Branham présente à l’auditoire son épouse Meda, sa fille Rebekah, née le 21 mars 1946, son fils Billy Paul, né le 13 septembre 1935]. J’ai laissé Sarah [née le 19 mars 1951] à la maison. Priez pour eux pendant que je serai en Afrique. J’ai prié pour que Dieu guérisse partout dans l’auditoire en ce dernier soir, et je crois qu’il va le faire. Il a toujours répondu à mes prières sincères. Prier pour des motifs égoïstes ne servirait à rien.
 
@@ -84,7 +85,7 @@ Lisons aussi Luc 2:25-30
 
 **56 à 58**- Sœur, je ne vous connais pas … vous aimez faire du bien autour de vous … vous êtes dans les affaires, dans la confection … vous souffrez de migraines … vous jeûnez depuis plusieurs jours … vous avez été opérée … vous venez d’éprouver une sensation curieuse qui vous pousse vers l’avant … [Prière] … Allez, et réjouissez-vous. Croyez tous ! Dieu est en train de témoigner que ces choses sont vraies. Vous admirez ces choses, mais acceptez-les maintenant. On n’explique pas Dieu, vous devez croire Dieu.
 
-**59 à 63**- Madame, je ne vous connais pas … je témoigne que la Lumière était au-dessus de moi à ma naissance, elle m’a suivi, c’était prédestiné avant la fondation du monde. La condamnation de certains hommes, tels que Pharaon et Judas, le fils de la perdition, est écrite depuis longtemps [Jude 4]. S’il y a la moindre étincelle pour Dieu dans votre cœur, remerciez-le et servez-le ! Je le représente en ces derniers jours … sœur, cette sensation, c’est Dieu … soyez aussi respectueuse que possible … vous êtes un peu nerveuse dans cette Présence … un homme a un esprit, et ces ondes en venant par ici produisent des visions … vous souffrez du cœur et du foie … on a déjà prié pour vous lors d’une grande réunion … avec le frère Osborn … levez la main si c’est vrai … [Prière]
+**59 à 63**- Madame, je ne vous connais pas … je témoigne que la Lumière était au-dessus de moi à ma naissance, elle m’a suivi, c’était prédestiné avant la fondation du monde. La condamnation de certains hommes, tels que Pharaon et Judas, le fils de la perdition, est écrite depuis longtemps [Jude 1:4]. S’il y a la moindre étincelle pour Dieu dans votre cœur, remerciez-le et servez-le ! Je le représente en ces derniers jours … sœur, cette sensation, c’est Dieu … soyez aussi respectueuse que possible … vous êtes un peu nerveuse dans cette Présence … un homme a un esprit, et ces ondes en venant par ici produisent des visions … vous souffrez du cœur et du foie … on a déjà prié pour vous lors d’une grande réunion … avec le frère Osborn … levez la main si c’est vrai … [Prière]
 
 **64 à 65**- Sœur, croyez-vous de tout votre cœur que vous êtes guérie ? … pour conforter votre foi, je vois un chirurgien … vous avez été opérée des reins … allez, et réjouissez-vous, ne proclamez que votre guérison, et rien d’autre. Après être passé par une ligne de prière, ne passez pas par une autre … - … Sœur, croyez-vous que Jésus-Christ est ici pour vous bénir ? … vous souffrez d’anémie, et aussi du cœur, et c’est en relation avec vos nerfs … au Nom du Seigneur Jésus-Christ, allez, et réjouissez-vous …
 

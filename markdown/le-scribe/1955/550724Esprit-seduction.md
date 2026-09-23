@@ -58,6 +58,7 @@ bible_refs:
   - "Psaumes 126:5,6"
   - "Psaumes 51:19"
   - "Ésaïe 6:7"
+original: "branham/1955/55-0724"
 ---
 Résumé de!: “Esprits séducteurs ou Parole de Dieu” (24 juillet 1955, matin)
 

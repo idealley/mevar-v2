@@ -69,6 +69,7 @@ bible_refs:
   - "Luc 1:38"
   - "Nombres 13"
   - "Proverbes 3:1-6"
+original: "branham/1965/65-0120"
 ---
 **Résumé de : “Ne t'appuie pas sur ton intelligence” (20 Janvier 1965, soir)**
 

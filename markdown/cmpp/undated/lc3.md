@@ -42,7 +42,6 @@ bible_refs:
   - "Apocalypse 10"
   - "Apocalypse 2"
   - "Deutéronome 18"
-  - "Deutéronome 43"
   - "Hébreux 10"
   - "Hébreux 12"
   - "Hébreux 13"

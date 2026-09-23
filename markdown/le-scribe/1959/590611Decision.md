@@ -44,6 +44,7 @@ bible_refs:
   - "Genèse 24:58"
   - "Jean 15:7"
   - "Marc 11:24"
+original: "branham/1959/59-0611"
 ---
 **1.** … [Prière pour la réunion, pour que les pasteurs repartent avec une vision renouvelée, pour les grands malades qui téléphonent depuis les hôpitaux de la région, etc.] …
 

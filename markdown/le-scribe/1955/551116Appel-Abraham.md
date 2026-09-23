@@ -50,6 +50,7 @@ bible_refs:
   - "Job 25:26"
   - "Matthieu 17:27"
   - "Romains 4:20"
+original: "branham/1955/55-1116"
 ---
 **1.** Je vais encore essayer de ne pas être trop long. Pour ma part, je prie sur les mouchoirs, nous les envoyons, et il y a eu de grandes victoires. Mais je ne les oints pas; car il n'y a pas d'Ecritures pour cela. Je crois par contre à l'onction pour les malades. J'envoie des milliers de mouchoirs par semaine dans le monde, ou plutôt des rubans. Une Allemande sur un fauteuil roulant à cause de l'arthrite avait lu mon livre et m'a envoyé un mouchoir. Nous avons aussi une chaîne de prière dans le monde entier. Elle a mis le mouchoir dans ses sous-vêtements, puis elle a prié pour chasser le démon. Elle s'est levée de sa chaise et est allée au travail ! C'était une foi très simple.
 

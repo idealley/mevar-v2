@@ -51,6 +51,7 @@ bible_refs:
   - "Nombres 19:9"
   - "Nombres 25:1"
   - "Psaumes 119:11"
+original: "branham/1965/65-0822E"
 ---
 *Le filtre d'un homme qui réfléchit* (22 août 1965, soir)
 

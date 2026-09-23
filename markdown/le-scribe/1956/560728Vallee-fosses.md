@@ -44,6 +44,7 @@ pdf_url: "http://le-scribe.org/pdfiles/560728Vallee-fosses.pdf"
 llm_cleaned: true
 bible_refs:
   - "2 Rois 3:16"
+original: "branham/1956/56-0728"
 ---
 *Résumé de : “Remplissez de fosses la vallée” (28 juillet 1956)*
 

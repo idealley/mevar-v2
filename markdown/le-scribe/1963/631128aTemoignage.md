@@ -45,6 +45,7 @@ bible_refs:
   - "Marc 11:23"
   - "Nombres 12:1-16"
   - "Psaumes 23"
+original: "branham/1963/63-1128M"
 ---
 **Résumé de!: “Témoignage” (28 novembre 1963 matin)**
 

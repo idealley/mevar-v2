@@ -65,6 +65,7 @@ bible_refs:
   - "Malachie 4:3"
   - "Psaumes 16:10"
   - "Ésaïe 40:3"
+original: "branham/1964/64-0212"
 ---
 **Résumé de!: “Quand leurs yeux furent ouverts” (12 février 1964, soir)**
 

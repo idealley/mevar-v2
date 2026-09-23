@@ -51,7 +51,6 @@ bible_refs:
   - "Apocalypse 13"
   - "Apocalypse 17"
   - "Apocalypse 22"
-  - "Apocalypse 27"
   - "Galates 1"
   - "Genèse 1"
   - "Genèse 17"
@@ -66,7 +65,7 @@ bible_refs:
   - "Jean 5"
   - "Jean 8"
   - "Joël 2"
-  - "Jude 8"
+  - "Jude 1:8-13"
   - "Luc 10"
   - "Malachie 3"
   - "Malachie 4"
@@ -3306,7 +3305,7 @@ semence? Par l’intermédiaire de mon corps. Comment vient la semence d’un po
 Paul craignait que les gens ne soient attirés par une certaine manière de s’exprimer venant de son instruction et de son éducation. C’est dans 1 Corinthiens 2.1-8, si vous voulez le noter. Dans ce passage Paul dit: “Je ne suis pas allé chez vous avec une supériorité de langage (comme un intellectuel) pour que votre foi soit une foi de séminaire, je suis allé vers vous dans la simplicité, avec une démonstration du Saint-Esprit et de puissance afin que votre foi fût fondée sur la Parole de Dieu”. Parfaitement!
 Bien que l’église dénominationnelle ait mille fois plus de membres que l’Epouse… Croyez-vous cela? Croyez-vous que la Bible l’enseigne? Il l’a promis dans Ésaïe 54.1. Voulez-vous que je le lise? Très bien. Si vous voulez voir à quel endroit Il a promis qu’ils seraient plus nombreux, voyons Ésaïe 54.1: “Exulte, stérile, qui n’enfantais pas. Eclate en chants de triomphe et pousse des cris de joie, toi qui n’as pas été en travail! Car les fils de la désolée sont plus nombreux que les fils de la femme mariée, dit l’Eternel”.
 Est-ce la vérité? Les fils de la prostituée sont plus nombreux que ceux de la femme mariée. Ils sont beaucoup plus nombreux, c’est sûr! Mais bien qu’ils soient plus nombreux, ils n’ont pas de vrai père!
-Or les semences dénominationnelles sont représentées dans Jude 8-13. C’est l’église mondaine: “des nuées sans eau rejetant l’écume de leurs impuretés…”. L’église pentecôtiste de ce groupe dénominationnel est représentée dans 2 Timothée 3.1-8: “ayant l’apparence de la piété”. Leur semence produit selon son espèce.
+Or les semences dénominationnelles sont représentées dans Jude 1:8-13. C’est l’église mondaine: “des nuées sans eau rejetant l’écume de leurs impuretés…”. L’église pentecôtiste de ce groupe dénominationnel est représentée dans 2 Timothée 3.1-8: “ayant l’apparence de la piété”. Leur semence produit selon son espèce.
 Oh, nous allons entrer maintenant dans quelque chose de profond! Considérez cette Eglise Semence, cette Eglise véritable qui a le Sperme véritable. Remarquez aussi comment cet eunuque était allé chez tous les docteurs en théologie. Mais rappelez-vous bien que Dieu n’a jamais confié Sa prédication et Son Evangile à un ange. Combien le savent? Combien savent que Galates 1.8 dit: “… quand un ange du ciel annoncerait un autre Evangile que celui que nous vous avons prêché, qu’il soit anathème”. Ainsi l’ange est dans l’erreur s’il diffère de la Parole. Dieu est descendu en dessous des anges et a confié l’Evangile aux hommes, ceux-ci étant des fils. Le croyez-vous? Maintenant considérez bien ceci: Il ne l’a jamais confié aux anges. Remarquez qu’Il ne l’a pas fait.
 Philippe était allé à Jérusalem à l’occasion de la fête de Pentecôte pour adorer. Combien disent: “Amen” à cela? L’eunuque, lui, était allé avec tous les docteurs en théologie et autres, mais pourquoi n’a-t-il rien reçu là? Il revient en étudiant la prophétie d’Esaïe.
 Bien que ce soit un ange qui ait conduit Philippe vers lui, le germe de Vie devait venir par l’intermédiaire du Corps, de Philippe. Oh, frères, maintenant nous sommes dans la ligne! Comment est venu le germe? Par l’intermédiaire de l’ange? L’ange lui montra où aller. Un ange est un messager; mais ici, c’est un fils. PHILIPPE avait le germe, le message, la Parole. C’est ainsi qu’un enfant peut naître. PHILIPPE lui imposa les mains. PHILIPPE le baptisa au nom de Jésus-Christ; c’est alors que vint l’Esprit de Dieu. Assurément.

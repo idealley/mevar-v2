@@ -60,6 +60,7 @@ bible_refs:
   - "Psaumes 36:9-10"
   - "Romains 3:4"
   - "Ésaïe 32:2"
+original: "branham/1965/65-0123"
 ---
 **1.** [Prière]. J’ai apprécié qu’un frère baptiste soit venu me voir ce matin pour s’excuser devant Dieu du mal qu’il avait pensé de moi. J’ai été baptiste moi aussi, et j’ai rencontré des pentecôtistes la première fois à Dowagiac, Michigan. Les prédicateurs avaient parlé de ce que Jésus avait fait sur terre. Mais le soir, un prédicateur Noir de plus de 80 ans, en redingote, avait prêché sur ce qui s’était passé au ciel : “Où étais-tu … quand les étoiles du matin éclataient en chants d’allégresse, et que tous les fils de Dieu poussaient des cris de joie ?” [Job 38:7]. L’Esprit s’est emparé de lui, et il bondissait sur l’estrade ! J’avais environ 20 ans : “Si tel est l’effet produit sur ce vieil homme, qu’est-ce que cela produira sur moi !” Cet homme manquait de temps pour sa prédication ! On m’a parlé d’un orateur apprécié de son église qui avait l’habitude de prêcher exactement trente minutes tous les dimanches, mais un jour il a prêché trois heures. Les anciens lui ont demandé pourquoi. Il a répondu : “D’habitude, je mets une pastille dans la bouche, et il faut trente minutes pour qu’elle fonde. Aujourd’hui, j’ai pris un bouton !”
 

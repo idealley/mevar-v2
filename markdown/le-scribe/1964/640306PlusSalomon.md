@@ -68,6 +68,7 @@ bible_refs:
   - "Nombres 16:21"
   - "Philippiens 3:13-14"
   - "Romains 9:16"
+original: "branham/1964/64-0306"
 ---
 **Résumé de!: “Il y a maintenant ici plus que Salomon” (6 mars 1964, soir)**
 

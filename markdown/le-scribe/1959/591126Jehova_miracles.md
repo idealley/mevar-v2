@@ -62,6 +62,7 @@ bible_refs:
   - "Marc 11:23"
   - "Proverbes 23:7"
   - "Ésaïe 9:6"
+original: "branham/1959/59-1126"
 ---
 **1.** J’ai apprécié cette chorale. J’ai toujours voulu chanter. Mais, dès que j’essaie, ma femme, ici présente, se sauve ! Mais un jour au Ciel vous entendrez quelqu’un chanter : “Grâce étonnante” et vous saurez que j’ai enfin réussi ! Vous avez profité de la prédication dans vos églises ce matin : priez pour vos pasteurs, et Dieu vous communiquera des messages.
 

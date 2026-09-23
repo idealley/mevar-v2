@@ -49,6 +49,7 @@ bible_refs:
   - "Proverbes 28:13"
   - "Psaumes 119"
   - "Psaumes 46:1"
+original: "branham/1959/59-0706"
 ---
 “En réfléchissant à nos voies” (le 6 juillet 1959)
 

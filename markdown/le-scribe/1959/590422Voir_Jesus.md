@@ -55,6 +55,7 @@ bible_refs:
   - "Matthieu 10:6"
   - "Romains 8:28"
   - "Zacharie 14:7"
+original: "branham/1959/59-0422"
 ---
 “Nous voudrions voir Jésus” (22 avril 1959)
 

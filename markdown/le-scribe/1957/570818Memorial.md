@@ -50,6 +50,7 @@ bible_refs:
   - "Marc 10:38"
   - "Matthieu 24:35"
   - "Matthieu 3:9"
+original: "branham/1957/57-0818"
 ---
 **1.** … Je suis revenu à la maison pour chasser l'écureuil à cette époque de l'année. J'ai besoin de me reposer. Depuis notre dernière réunion, je suis passé de 75 kg à 67 kg, et je flotte dans mes vêtements ! Une sœur désirait perdre autant de poids : je lui ai conseillé de prêcher ! Mais nous en aurons bientôt fini avec les épreuves.
 

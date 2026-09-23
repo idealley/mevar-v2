@@ -23,7 +23,6 @@ bible_refs:
   - "2 Corinthiens 3:17"
   - "2 Jean 1:8"
   - "2 Pierre 1:5-10"
-  - "2 Pierre 5:8"
   - "2 Thessaloniciens 3:10"
   - "2 Thessaloniciens 3:11-12"
   - "Actes 18:24-25"
@@ -67,6 +66,7 @@ bible_refs:
   - "Marc 6:3"
   - "Matthieu 11:12"
   - "Matthieu 13:22"
+  - "Matthieu 13:25"
 ---
 ## Exhortation spéciale du mois d'août 2006
 

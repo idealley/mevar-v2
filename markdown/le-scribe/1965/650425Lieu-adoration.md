@@ -63,6 +63,7 @@ bible_refs:
   - "Éphésiens 3:5"
   - "Éphésiens 4:30"
   - "Ésaïe 7:14"
+original: "branham/1965/65-0425"
 ---
 **Résumé de : “Le lieu d'adoration que Dieu a choisi” (25 avril 1965, après-midi)**
 

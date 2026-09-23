@@ -54,6 +54,7 @@ bible_refs:
   - "Marc 16:19"
   - "Psaumes 16:8"
   - "Ésaïe 6:1-8"
+original: "branham/1964/64-0215"
 ---
 **INFLUENCES**
 

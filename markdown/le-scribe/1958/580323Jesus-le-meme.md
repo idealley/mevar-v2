@@ -52,6 +52,7 @@ bible_refs:
   - "Psaumes 103:3"
   - "Ésaïe 42:2"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0323"
 ---
 *Résumé de : “Jésus-Christ est le même hier, aujourd’hui et éternellement” (23 mars 1958, soir)*
 

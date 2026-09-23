@@ -50,7 +50,6 @@ bible_refs:
   - "Apocalypse 19"
   - "Apocalypse 2"
   - "Apocalypse 6"
-  - "Cantique des cantiques 335"
   - "Genèse 1"
   - "Jean 1"
   - "Jean 11"

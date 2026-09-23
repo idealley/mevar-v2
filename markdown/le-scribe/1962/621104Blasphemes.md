@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 8:46,10"
   - "Éphésiens 1:5"
   - "Éphésiens 4:30"
+original: "branham/1962/62-1104M"
 ---
 **Résumé de!: “Des noms de blasphème” (4 Novembre 1962, matin)**
 

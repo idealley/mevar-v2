@@ -58,6 +58,7 @@ bible_refs:
   - "Nombres 22:6"
   - "Nombres 25:1-9"
   - "Romains 4:12"
+original: "branham/1965/65-0418E"
 ---
 *Arrive-t-il à Dieu de changer sa pensée au sujet de sa Parole?* (18 avril 1965, soir)
 

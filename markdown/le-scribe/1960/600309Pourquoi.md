@@ -84,6 +84,7 @@ bible_refs:
   - "Romains 8:31"
   - "Ésaïe 35:1-7"
   - "Ézéchiel 34:26"
+original: "branham/1960/60-0309"
 ---
 “Pourquoi ?” (le 9 mars 1960)
 

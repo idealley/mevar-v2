@@ -47,6 +47,7 @@ bible_refs:
   - "Genèse 22:7-8,14"
   - "Jean 5:19"
   - "Jean 8:44,7"
+original: "branham/1955/55-0624"
 ---
 Résumé de : “Abraham” (24 juin 1955, soir)
 

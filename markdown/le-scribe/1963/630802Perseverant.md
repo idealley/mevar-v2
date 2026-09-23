@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 9"
   - "Jean 9:3"
   - "Matthieu 15:21-28"
+original: "branham/1963/63-0802"
 ---
 **PERSEVERANT**
 

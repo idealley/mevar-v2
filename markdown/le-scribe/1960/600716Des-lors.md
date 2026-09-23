@@ -63,6 +63,7 @@ bible_refs:
   - "Psaumes 51:5-6,58"
   - "Romains 4:20"
   - "Ésaïe 9:5"
+original: "branham/1960/60-0716"
 ---
 Résumé de : “Dès ce moment” (le 16 juillet 1960)
 

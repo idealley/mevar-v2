@@ -407,6 +407,11 @@ for (const e of index) {
     const rid = refIdByCanonical.get(r);
     if (rid) citesEdges.push([wid, rid]);
   }
+  // based_on (Le-Scribe summary → the Branham sermon it summarizes)
+  if (e.original) {
+    const target = workIdBySource.get(`branham/${e.original.split("/").pop()}`);
+    if (target) basedOnEdges.push([wid, target]);
+  }
   // based_on (mevar_match)
   if (e.mevar_match?.url) {
     const slug = e.mevar_match.url.replace(/\/$/, "").split("/").pop();

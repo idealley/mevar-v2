@@ -71,7 +71,7 @@ bible_refs:
   - "2 Corinthiens 6:14-18"
   - "2 Pierre 3:1-3"
   - "2 Timothée 4:12"
-  - "3 Jean 8"
+  - "3 Jean 1:8-10"
   - "Actes 12:1-2"
   - "Actes 15"
   - "Actes 15:37-40"
@@ -686,7 +686,7 @@ L’Église souffre du comportement des serviteurs charnels qui aiment les premi
 > **Gardez-vous des scribes, qui aiment à se promener en robes longues, et à être salués dans les places publiques ; qui recherchent les premiers sièges dans les synagogues, et les premières places dans les festins** (Luc 20:46)
 
 Jean parle de Diotrèphe qui aimait à être le premier parmi les frères :
-> **Nous devons donc accueillir de tels hommes, afin d’être ouvriers avec eux pour la vérité. J’ai écrit quelques mots à l’Église ; mais Diotrèphe, qui aime à être le premier parmi eux, ne nous reçoit pas. C’est pourquoi, si je viens, je rappellerai les actes qu’il commet, en répandant contre nous des paroles mauvaises ; non content de cela, lui-même ne reçoit pas les frères, et ceux qui voudraient le faire, il les en empêche et les chasse de l’Église.** (3 Jean 8-10)
+> **Nous devons donc accueillir de tels hommes, afin d’être ouvriers avec eux pour la vérité. J’ai écrit quelques mots à l’Église ; mais Diotrèphe, qui aime à être le premier parmi eux, ne nous reçoit pas. C’est pourquoi, si je viens, je rappellerai les actes qu’il commet, en répandant contre nous des paroles mauvaises ; non content de cela, lui-même ne reçoit pas les frères, et ceux qui voudraient le faire, il les en empêche et les chasse de l’Église.** (3 Jean 1:8-10)
 
 Cet esprit est vieux depuis le début de l’Église. Cet esprit qui aime dominer les enfants de Dieu et qui répand de mauvaises paroles sur les serviteurs de Dieu. Aujourd’hui, beaucoup font des querelles dans les assemblées pour se positionner devant les frères comme les premiers ou les plus grands. Mais dans tout cela, personne ne veut suivre la consigne du Seigneur : que celui qui veut être le plus grand soit le serviteur de ses frères. Et celui qui veut être le premier soit l’esclave de tous. Mais sachons-le tous : Dieu juge en ce moment même Son peuple. Nous sommes dans le jugement de Dieu qui commence par Sa propre maison.
 

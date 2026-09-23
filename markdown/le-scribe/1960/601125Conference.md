@@ -55,7 +55,6 @@ bible_refs:
   - "Daniel 2:45"
   - "Daniel 5"
   - "Deutéronome 13:1-3"
-  - "Esther 13"
   - "Exode 15:20-21"
   - "Exode 19"
   - "Exode 20"
@@ -80,6 +79,7 @@ bible_refs:
   - "Psaumes 110:1,16"
   - "Psaumes 61"
   - "Ésaïe 1:16"
+original: "branham/1960/60-1125"
 ---
 **Résumé de "Conférence" (le 25 novembre 1960)**
 

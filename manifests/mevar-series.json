@@ -14,42 +14,6 @@
         "title": "Faire front par la foi  — deuxième partie",
         "published_at": "2025-06-26T13:50:51.000Z",
         "part": 2
-      },
-      {
-        "slug": "vivre-la-priere-de-la-foi",
-        "title": "Vivre la prière de la Foi",
-        "published_at": "2025-06-24T07:56:55.000Z",
-        "part": 3
-      },
-      {
-        "slug": "faire-multiplier-notre-foi",
-        "title": "Faire multiplier notre foi",
-        "published_at": "2025-06-24T08:33:33.000Z",
-        "part": 4
-      },
-      {
-        "slug": "ketura-et-ses-enfants-ou-la-foi-qui-prospere",
-        "title": "Kétura et ses enfants ou la foi qui prospère",
-        "published_at": "2025-07-04T20:12:50.000Z",
-        "part": 5
-      }
-    ]
-  },
-  {
-    "id": "l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel",
-    "name": "L'éveil de l'homme spirituel pour le combat spirituel",
-    "members": [
-      {
-        "slug": "l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel",
-        "title": "L'éveil de l'homme spirituel pour le combat spirituel",
-        "published_at": "2009-02-07T23:00:00.000Z",
-        "part": 1
-      },
-      {
-        "slug": "nouveau-site-web",
-        "title": "Nouveau site web",
-        "published_at": "2023-01-01T14:49:39.000Z",
-        "part": 2
       }
     ]
   },
@@ -88,45 +52,45 @@
         "part": 1
       },
       {
-        "slug": "la-position-de-larchange-michel-au-jour-du-seigneur-partie-5",
-        "title": "La position de l’archange Michel au jour du Seigneur (Partie 5)",
-        "published_at": "2024-07-22T12:57:57.000Z",
-        "part": 2
-      },
-      {
         "slug": "le-jour-du-seigneur-il-viendra-comme-un-voleur",
         "title": "Le jour du Seigneur (2) - Il viendra comme un voleur",
         "published_at": "2024-05-21T13:05:15.000Z",
-        "part": 3
+        "part": 2
       },
       {
         "slug": "le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin",
         "title": "Le jour du Seigneur (3) - Et le Message du Temps de la Fin",
         "published_at": "2024-05-21T13:05:42.000Z",
-        "part": 4
+        "part": 3
       },
       {
         "slug": "le-jour-du-seigneur-4-et-les-tribulations",
         "title": "Le jour du Seigneur (4) - Et les tribulations",
         "published_at": "2024-06-13T12:46:43.000Z",
+        "part": 4
+      },
+      {
+        "slug": "la-position-de-larchange-michel-au-jour-du-seigneur-partie-5",
+        "title": "La position de l’archange Michel au jour du Seigneur (Partie 5)",
+        "published_at": "2024-07-22T12:57:57.000Z",
         "part": 5
       }
     ]
   },
   {
     "id": "le-ministere-de-lesprit",
-    "name": "Le Ministère de l'Esprit",
+    "name": "Le ministère de l’Esprit",
     "members": [
-      {
-        "slug": "le-ministere-de-lesprit-2",
-        "title": "Le Ministère de l'Esprit (2)",
-        "published_at": "2023-12-23T23:00:00.000Z",
-        "part": 1
-      },
       {
         "slug": "le-ministere-de-lesprit",
         "title": "Le ministère de l’Esprit (1)",
         "published_at": "2023-12-17T17:10:00.000Z",
+        "part": 1
+      },
+      {
+        "slug": "le-ministere-de-lesprit-2",
+        "title": "Le Ministère de l'Esprit (2)",
+        "published_at": "2023-12-23T23:00:00.000Z",
         "part": 2
       }
     ]
@@ -136,52 +100,16 @@
     "name": "Le nouveau ministère",
     "members": [
       {
-        "slug": "le-nouveau-ministere-deuxieme-partie",
-        "title": "Le nouveau ministère — deuxième partie",
-        "published_at": "2023-08-06T19:16:00.000Z",
-        "part": 1
-      },
-      {
         "slug": "le-nouveau-ministere",
         "title": "Le nouveau ministère",
         "published_at": "2023-07-30T18:40:00.000Z",
-        "part": 2
-      },
-      {
-        "slug": "la-terre-est-menacee",
-        "title": "La terre est menacée",
-        "published_at": "2023-08-13T19:32:00.000Z",
-        "part": 3
-      },
-      {
-        "slug": "lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere",
-        "title": "L’achèvement de l'œuvre de Dieu dans l'Église",
-        "published_at": "2023-10-18T20:14:12.000Z",
-        "part": 4
-      }
-    ]
-  },
-  {
-    "id": "trois-grandes-visions-du-message-de-la-fin-des-temps",
-    "name": "Trois grandes visions du message de la fin des temps",
-    "members": [
-      {
-        "slug": "trois-grandes-visions-du-message-de-la-fin-des-temps",
-        "title": "Trois grandes visions du message de la fin des temps",
-        "published_at": "2023-01-04T13:59:49.000Z",
         "part": 1
       },
       {
-        "slug": "le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit",
-        "title": "Le départ du serviteur fidèle et prudent à la maison et la dernière action de l'Esprit",
-        "published_at": "2024-07-02T12:13:14.000Z",
+        "slug": "le-nouveau-ministere-deuxieme-partie",
+        "title": "Le nouveau ministère — deuxième partie",
+        "published_at": "2023-08-06T19:16:00.000Z",
         "part": 2
-      },
-      {
-        "slug": "le-chant-du-coq-et-les-sons-de-la-grande-trompette",
-        "title": "Le chant du coq et les sons de la grande trompette",
-        "published_at": "2024-12-01T11:43:20.000Z",
-        "part": 3
       }
     ]
   }

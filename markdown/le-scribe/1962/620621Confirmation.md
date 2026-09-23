@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 5:19"
   - "Marc 5:25-34"
   - "Romains 4:20"
+original: "branham/1962/62-0621E"
 ---
 **Résumé de!: “Confirmation et preuve” (21 juin 1962, soir)**
 

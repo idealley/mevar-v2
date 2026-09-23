@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 15:21-28"
   - "Romains 10:17"
   - "Romains 4:20-21"
+original: "branham/1963/63-0113E"
 ---
 *Persévérance* (13 Janvier 1963, après-midi)
 

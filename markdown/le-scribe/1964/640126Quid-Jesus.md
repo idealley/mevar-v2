@@ -60,6 +60,7 @@ bible_refs:
   - "Ésaïe 29:18"
   - "Ésaïe 55:11"
   - "Ésaïe 7:14"
+original: "branham/1964/64-0126"
 ---
 *Que ferons-nous de ce Jésus qu'on appelle Christ ?* (26 Janvier 1964, après-midi)
 

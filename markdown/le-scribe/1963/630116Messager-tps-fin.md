@@ -99,6 +99,7 @@ bible_refs:
   - "Zacharie 14:6"
   - "Ésaïe 1:6"
   - "Ésaïe 28:8"
+original: "branham/1963/63-0116"
 ---
 **1.** Résumé de!: “Le Messager du temps de la fin” (16 janvier 1963, soir)
 

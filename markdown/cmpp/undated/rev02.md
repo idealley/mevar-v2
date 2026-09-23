@@ -60,7 +60,6 @@ bible_refs:
   - "Matthieu 17"
   - "Matthieu 24"
   - "Matthieu 25"
-  - "Nombres 69"
   - "Zacharie 4"
   - "Ésaïe 28"
   - "Ésaïe 35"

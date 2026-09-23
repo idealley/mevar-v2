@@ -55,7 +55,6 @@ bible_refs:
   - "Job 8"
   - "Job 9"
   - "Luc 17:26-32"
-  - "Malachie 9"
   - "Matthieu 16:23"
   - "Éphésiens 6:13"
 ---

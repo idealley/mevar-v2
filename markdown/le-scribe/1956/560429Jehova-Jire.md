@@ -45,6 +45,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 5:19"
   - "Jean 8:57-58"
+original: "branham/1956/56-0429"
 ---
 **JEHOVAH JIREH**
 

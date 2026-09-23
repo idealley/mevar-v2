@@ -47,7 +47,6 @@ bible_refs:
   - "1 Timothée 3"
   - "Apocalypse 10"
   - "Apocalypse 3"
-  - "Esther 113"
   - "Genèse 1"
   - "Genèse 4"
   - "Hébreux 10"

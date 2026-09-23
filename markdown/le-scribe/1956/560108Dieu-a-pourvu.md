@@ -48,6 +48,7 @@ bible_refs:
   - "Hébreux 12:1"
   - "Luc 10:30-35"
   - "Ésaïe 53:5"
+original: "branham/1956/56-0108"
 ---
 **Résumé de : "Dieu a pourvu un chemin" (8 janvier 1956)**
 

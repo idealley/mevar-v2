@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 19:14"
   - "Matthieu 1:18"
   - "Matthieu 28:19"
+original: "branham/1959/59-0329M"
 ---
 **1.** Toutes nos actions doivent être fondées sur les Ecritures. Selon les catholiques, l’église catholique a été établie par Jésus-Christ, avec les apôtres comme premiers prêtres, et Pierre comme premier Pape. La Bible aurait été écrite par cette première église catholique, et cette église a le pouvoir de tout changer comme elle veut.
 

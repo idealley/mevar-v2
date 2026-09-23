@@ -66,6 +66,7 @@ bible_refs:
   - "Matthieu 19:28"
   - "Nombres 19"
   - "Ésaïe 53:5"
+original: "branham/1961/61-0101"
 ---
 **1.** [Cantique]. J’ai apprécié hier soir les sermons de Pat Tyler, de J.T. Parnell, etc. Si nous avons un nouveau Tabernacle, il sera en pente, ce qui permettra de mieux voir l’auditoire pour l’exercice du don de discernement. Le frère Littlefield a promis de nous aider pour les plans. Nous allons commencer l’année, comme nous commençons la journée : en priant. Une nuit, alors que Billy Paul avait trois ou quatre ans, il a eu soif. J’étais très fatigué, et je lui ai dit d’aller à la cuisine, mais il avait peur. Je l’ai donc pris par la main, et heureusement, car il a glissé, et il m’a serré un peu plus fort. Moi non plus, je ne peux pas faire un pas s’il ne me tient pas la main, car je peux glisser à tout moment. Il sait comment nous diriger. Laissons donc de côté ce qui est en dehors de lui.
 

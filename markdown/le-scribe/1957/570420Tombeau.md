@@ -65,6 +65,7 @@ bible_refs:
   - "Psaumes 24:7"
   - "Romains 4:20"
   - "Éphésiens 4:8"
+original: "branham/1957/57-0420"
 ---
 **Résumé de!: “La mise au tombeau” (20 avril 1957, soir)**
 

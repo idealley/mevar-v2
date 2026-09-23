@@ -65,6 +65,7 @@ bible_refs:
   - "Matthieu 21:10-11"
   - "Nombres 25:1-3"
   - "Nombres 25:6-13"
+original: "branham/1964/64-1227"
 ---
 **Résumé de : “Qui est-ce selon vous ?” (27 décembre 1964, matin)**
 

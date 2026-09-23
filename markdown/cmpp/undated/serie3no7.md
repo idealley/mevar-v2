@@ -45,7 +45,6 @@ bible_refs:
   - "1 Thessaloniciens 4"
   - "2 Corinthiens 7"
   - "Jean 5"
-  - "Jonas 134"
   - "Matthieu 28"
   - "Ésaïe 38"
 ---

@@ -59,6 +59,7 @@ bible_refs:
   - "Josué 10:12"
   - "Marc 11:23"
   - "Ésaïe 55:11"
+original: "branham/1962/62-0128A"
 ---
 *Paradoxe*
 *28 janvier 1962, dimanche après-midi, Phœnix (Arizona)*

@@ -54,6 +54,7 @@ bible_refs:
   - "Hébreux 11:1"
   - "Hébreux 11:6"
   - "Jean 14:10"
+original: "branham/1947/47-0412"
 ---
 **1.** C’est mon troisième déplacement en quatre jours, et je serai encore ailleurs demain. C’est ainsi depuis six mois. Cela me navre de devoir partir alors que les gens commencent tout juste à voir Dieu agir surnaturellement ! J’aimerais rester un mois en un même endroit pour un réveil, pour avoir le temps de réunir des témoignages. Je vais me reposer un mois dans les Rocheuses en mai, seul avec Dieu, avant de revenir et de repartir au Canada.
 

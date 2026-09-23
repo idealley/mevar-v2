@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 27:52-53"
   - "Nombres 14:18"
   - "Psaumes 24:8-10"
+original: "branham/1957/57-0808"
 ---
 **1.** Merci frère Sothmann. [Courte prière].
 

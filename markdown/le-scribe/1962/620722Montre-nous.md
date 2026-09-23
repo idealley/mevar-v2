@@ -53,6 +53,7 @@ bible_refs:
   - "Jean 14:8-9"
   - "Jean 16:16"
   - "Jean 5:39,10"
+original: "branham/1962/62-0722"
 ---
 *Montre-nous le Père, et cela nous suffira* (22 juillet 1962, après-midi)
 

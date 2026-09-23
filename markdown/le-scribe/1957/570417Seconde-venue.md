@@ -52,6 +52,7 @@ bible_refs:
   - "Luc 15:8"
   - "Luc 21:30"
   - "Nombres 24:9"
+original: "branham/1957/57-0417"
 ---
 **Résumé de!: “La Seconde Venue du Seigneur” (17 avril 1957, soir)**
 

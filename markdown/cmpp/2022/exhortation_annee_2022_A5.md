@@ -35,7 +35,6 @@ bible_refs:
   - "1 Jean 4"
   - "2 Timothée 2"
   - "Colossiens 3"
-  - "Esther 4"
   - "Genèse 3"
   - "Jean 13"
   - "Jean 8"

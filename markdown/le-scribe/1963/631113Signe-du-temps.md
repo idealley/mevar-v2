@@ -54,6 +54,7 @@ bible_refs:
   - "Romains 10:17"
   - "Ésaïe 49:15-16"
   - "Ésaïe 59:19"
+original: "branham/1963/63-1113"
 ---
 **LE SIGNE DE NOTRE TEMPS**
 

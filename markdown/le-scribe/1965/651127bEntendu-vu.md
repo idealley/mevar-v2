@@ -75,6 +75,7 @@ bible_refs:
   - "Marc 7:25-30"
   - "Ésaïe 53:5"
   - "Ésaïe 9:5"
+original: "branham/1965/65-1127E"
 ---
 *J'avais entendu, mais maintenant je vois*
 *I Have Heard But Now I See*

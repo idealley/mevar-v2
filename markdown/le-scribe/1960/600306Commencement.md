@@ -50,6 +50,7 @@ bible_refs:
   - "Marc 7:13"
   - "Matthieu 15:9"
   - "Matthieu 19:8"
+original: "branham/1960/60-0306"
 ---
 **1.** [Prière pour la suite de la réunion] …
 

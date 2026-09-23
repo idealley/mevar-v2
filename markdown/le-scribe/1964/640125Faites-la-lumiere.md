@@ -60,6 +60,7 @@ bible_refs:
   - "Ésaïe 40:3"
   - "Ésaïe 42:1-7"
   - "Ésaïe 7:14,9"
+original: "branham/1964/64-0125"
 ---
 **Résumé de!: “Faites la lumière” (25 janvier 1964, matin)**
 

@@ -64,6 +64,7 @@ bible_refs:
   - "Éphésiens 2:6"
   - "Éphésiens 4:11"
   - "Ésaïe 40:8"
+original: "branham/1962/62-1216"
 ---
 **Résumé de!: “L’écroulement du monde” (16 Décembre1962, matin)**
 

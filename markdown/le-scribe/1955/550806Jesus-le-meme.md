@@ -53,9 +53,10 @@ bible_refs:
   - "Actes 2:22"
   - "Hébreux 11:1"
   - "Jean 5:19"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Marc 16"
   - "Ésaïe 53:5"
+original: "branham/1955/55-0806"
 ---
 **1.** C'est un plaisir de revenir dans le Kentucky où je n'ai pas tenu beaucoup de réunions de guérison. Mais j'ai beaucoup prêché du côté de Burkersville où je suis né. Ma famille est enterrée à l'église Méthodiste de Whitehill, près de Glasgow, après Renox Creek. Ceci est une réunion interdénominationnelle, nous aimons le Seigneur, et voulons communier avec tous autour de ses bénédictions.
 
@@ -67,7 +68,7 @@ bible_refs:
 
 **5.** Si vous leur parlez de la Bible, ils vous riront au nez. Mais si un paralysé se lève après que le Saint-Esprit a enseigné la Bible, alors ils donnent gloire à Dieu. Je crois annoncer la vérité. Pour affronter l'ennemi, il faut être sincère. Beaucoup peuvent ouvrir la Bible, mais il faut le Saint-Esprit pour l'interpréter et la révéler. C'est un livre oriental caché aux sages et aux prudents, et qui ne s'étudie pas par l'instruction.
 
-**6.** J'ai rencontré beaucoup de missionnaires qui sont passés par l'Asbury College comme le frère Neville. Amenez des inconvertis demain. [Prière]. Lisons Jude 3 : “Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.”
+**6.** J'ai rencontré beaucoup de missionnaires qui sont passés par l'Asbury College comme le frère Neville. Amenez des inconvertis demain. [Prière]. Lisons Jude 1:3 : “Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.”
 
 **7.** Jude a écrit cela 33 ans après la Pentecôte pour les exhorter à combattre de tout leur cœur, et non avec un cœur partagé, pour la foi transmise aux saints. On entend dire : “ceci est contraire à notre foi, ou à notre enseignement”, mais il y a un seul Seigneur, un seul baptême, une seule foi, celle du Seigneur Jésus-Christ. Les Méthodistes, les Baptistes, les Pentecôtistes pensent tous avoir la vraie foi, mais ils pensent tous différemment. A ce que vous croyez, il faudrait ajouter ce que Dieu montrera, et être prêt à apprendre. Alors votre cœur sera ouvert. “Si nous marchons dans la lumière, comme il est lui-même dans la lumière, nous sommes mutuellement en communion, et le sang de Jésus son Fils nous purifie de tout péché” (1 Jean 1:7). C'est l'enseignement éternel de Dieu.
 

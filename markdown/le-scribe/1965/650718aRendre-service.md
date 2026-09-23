@@ -65,6 +65,7 @@ bible_refs:
   - "Psaumes 46:2"
   - "Zacharie 14:7"
   - "Ésaïe 40:31"
+original: "branham/1965/65-0718M"
 ---
 *Essayer de rendre un service à Dieu sans que ce soit sa volonté* (18 juillet 1965, matin)
 

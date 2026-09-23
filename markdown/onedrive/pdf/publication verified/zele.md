@@ -50,7 +50,6 @@ bible_refs:
   - "2 Corinthiens 1:24"
   - "2 Corinthiens 3:17"
   - "2 Jean 1:8"
-  - "2 Pierre 5:8"
   - "Actes 18:24-25"
   - "Actes 18:3"
   - "Actes 1:14"
@@ -95,6 +94,7 @@ bible_refs:
   - "Matthieu 20:28"
   - "Matthieu 24:42"
   - "Matthieu 24:45"
+  - "Matthieu 25:1-5"
 ---
 ## Ayez du zèle et non de la paresse !
 

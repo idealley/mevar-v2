@@ -73,6 +73,7 @@ bible_refs:
   - "Psaumes 61:4"
   - "Romains 4:20-21"
   - "Ésaïe 35:8"
+original: "branham/1963/63-1124E"
 ---
 *Trois sortes de croyants* (24 novembre 1963 soir)
 

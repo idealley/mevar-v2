@@ -80,7 +80,6 @@ bible_refs:
   - "Daniel 6"
   - "Daniel 7:9-10"
   - "Daniel 9:37"
-  - "Esther 11"
   - "Genèse 2:23"
   - "Genèse 4:1"
   - "Jean 14:10"
@@ -94,6 +93,8 @@ bible_refs:
   - "Malachie 4"
   - "Marc 16:17-18"
   - "Matthieu 1:18-19"
+  - "Matthieu 22:11-14"
+original: "branham/1963/63-0324M"
 ---
 **Résumé de!: “Questions & réponses sur les Sceaux” (24 mars 1963, matin)**
 

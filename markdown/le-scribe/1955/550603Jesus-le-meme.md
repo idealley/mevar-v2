@@ -57,9 +57,10 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 14:19"
   - "Jean 5:19"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Marc 11:24"
   - "Ésaïe 53:5"
+original: "branham/1955/55-0603"
 ---
 Résumé de : "Jésus-Christ est le même hier, aujourd'hui, et éternellement" (3 juin 1955, soir)
 
@@ -77,7 +78,7 @@ Thème central : Jésus se manifeste aujourd'hui avec les mêmes signes qu'autre
 
 **5 à 6**- C'est notre première réunion, et nous voulons nous appuyer sur les Ecritures. La guérison fait partie de l'expiation : "Il était blessé pour nos péchés, brisé pour nos iniquités ; … et c'est par ses meurtrissures que nous sommes guéris" (Ésaïe 53:5). Il a guéri tout malade, c'est déjà fait. C'est l'Evangile. Le rôle d'un pasteur est de prêcher la Parole. Mais ni lui, ni son message, ni vos cris ne vous sauvent. C'est votre foi au Seigneur Jésus ressuscité qui vous sauve. Vous devez d'abord croire de tout votre cœur. Il est Sacrificateur et il intercède sur la base de ce que nous confessons. Tout ce qui fait partie de la Rédemption vous appartient. Dieu vous a donné un carnet de chèques signés du Nom de Jésus, valable pour toutes les bénédictions qu'il a acquises à la Croix. N'ayez pas peur de les utiliser ! "Tout ce que vous demanderez au Père en priant en mon Nom, croyez que vous l'avez reçu, et vous le verrez s'accomplir" (cf. Marc 11:24).
 
-**7 à 8**- Dieu a envoyé des dons de guérison. Ce n'est pas qu'un homme puisse vous guérir. Mais il a foi en ce qu'il annonce selon la Bible. Ces dons sont prédestinés par Dieu et placés dans l'Eglise. Vous naissez avec, et tout est pour le perfectionnement et le rassemblement de l'Eglise. Vous connaissez le Sénateur Upshaw de Georgie. Je l'ai vu en vision alors qu'il tombait d'une meule sur le dos, puis je lui ai annoncé sa guérison. Il est reparti sans chaise roulante ! Lisons Jude 3
+**7 à 8**- Dieu a envoyé des dons de guérison. Ce n'est pas qu'un homme puisse vous guérir. Mais il a foi en ce qu'il annonce selon la Bible. Ces dons sont prédestinés par Dieu et placés dans l'Eglise. Vous naissez avec, et tout est pour le perfectionnement et le rassemblement de l'Eglise. Vous connaissez le Sénateur Upshaw de Georgie. Je l'ai vu en vision alors qu'il tombait d'une meule sur le dos, puis je lui ai annoncé sa guérison. Il est reparti sans chaise roulante ! Lisons Jude 1:3
 
 > "Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes."
 

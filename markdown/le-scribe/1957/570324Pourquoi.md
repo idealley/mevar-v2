@@ -51,6 +51,7 @@ bible_refs:
   - "Matthieu 9:17"
   - "Romains 11:29"
   - "Ézéchiel 36:26-27"
+original: "branham/1957/57-0324"
 ---
 **1.** Je dois être vendredi à Wichita, Kansas. Je ne peux prendre la route du Nord à cause de la neige. Nous parlions de la date du départ, et j'ai pensé au cantique "Crois seulement" qui m'accompagne, depuis dix ans, quand je viens sur l'estrade. Si je dois partir avant la venue de Jésus, il est prévu que je serai enseveli avec ce chant !
 

@@ -38,6 +38,7 @@ bible_refs:
   - "Jean 5"
   - "Marc 8:23"
   - "Nombres 22"
+original: "branham/1947/47-1207"
 ---
 **1.** Mon avion était resté au sol, et je n'ai donc pas pu venir dimanche dernier. Mais j'ai appris que des frères avaient prié pour les malades, et qu'il y avait eu plusieurs guérisons. C'est mon 6ème dimanche ici. Vous vous souvenez de ce qui s'est passé ici en chaire, il y a deux semaines. Ce fut horrible pour moi. Je vais vous expliquer cela tout à l'heure [cf. §12 et s.]. Il y a eu de grandes réunions dans les Territoires du Nord-Ouest (Canada), et je me suis même retrouvé inconscient pendant 44 heures. Il y a eu de grandes bénédictions à Vancouver, Portland, Salem, Ashland, Boise, … Mais pour moi l'unité de l'Eglise dans l'adoration est plus importante que les guérisons.
 

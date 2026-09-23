@@ -65,6 +65,7 @@ bible_refs:
   - "Malachie 4:5"
   - "Marc 10"
   - "Marc 10:17-22"
+original: "branham/1965/65-1207"
 ---
 **1.** Il est facile de bâtir un mur droit, mais nous bâtissons une maison, et construire les angles est difficile. [Prière]. Lisons Marc 10:17-22
 

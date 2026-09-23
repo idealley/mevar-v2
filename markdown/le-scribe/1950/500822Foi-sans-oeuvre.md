@@ -50,6 +50,7 @@ bible_refs:
   - "Luc 12:8"
   - "Marc 11:24"
   - "Romains 4"
+original: "branham/1950/50-0822"
 ---
 **LA FOI SANS LES ŒUVRES EST MORTE**
 *FAITH WITHOUT WORKS IS DEAD*

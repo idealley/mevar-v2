@@ -66,6 +66,7 @@ bible_refs:
   - "Psaumes 16:10"
   - "Romains 8:37"
   - "Ésaïe 40:3"
+original: "branham/1962/62-0610E"
 ---
 **Résumé de!: “Convaincu, puis impliqué” (10 juin 1962, soir)**
 

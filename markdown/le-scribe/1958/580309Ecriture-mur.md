@@ -49,6 +49,7 @@ bible_refs:
   - "Proverbes 14:12,16"
   - "Romains 3:23"
   - "Ésaïe 3:16"
+original: "branham/1958/58-0309M"
 ---
 **1.** Le sujet de ce soir sera : “L’Eglise part-elle avant la grande tribulations ?”. Il y a un débat à ce sujet. Les cartes de prière seront distribuées à 18 heures 30. [Prière]. Lisons Daniel 5:25 :
 

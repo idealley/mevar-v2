@@ -49,6 +49,7 @@ bible_refs:
   - "Juges 16:27-28"
   - "Juges 16:3"
   - "Juges 16:30"
+original: "branham/1963/63-1201E"
 ---
 **Résumé de!: “Juste encore une fois, Seigneur” (1er décembre 1963 soir)**
 

@@ -47,7 +47,6 @@ bible_refs:
   - "Apocalypse 10"
   - "Apocalypse 11"
   - "Apocalypse 3"
-  - "Esther 13"
   - "Genèse 1"
   - "Genèse 4"
   - "Jean 11"

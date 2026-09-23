@@ -66,6 +66,7 @@ bible_refs:
   - "Matthieu 11:10"
   - "Romains 4:20"
   - "Ésaïe 7:14"
+original: "branham/1965/65-0426"
 ---
 **LA PAROLE CONFIRMEE DE DIEU**
 

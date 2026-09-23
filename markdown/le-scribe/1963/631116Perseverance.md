@@ -60,6 +60,7 @@ bible_refs:
   - "Josué 1:3"
   - "Marc 7:24-30"
   - "Matthieu 15:21-28"
+original: "branham/1963/63-1116E"
 ---
 **Résumé de!: “Persévérance” (16 novembre 1963, soir)**
 

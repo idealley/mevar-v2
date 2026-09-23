@@ -75,6 +75,7 @@ bible_refs:
   - "Ruth 1:16"
   - "Éphésiens 4:30"
   - "Ésaïe 59:19"
+original: "branham/1959/59-1217"
 ---
 *Résumé de!: “Dans quel but le Saint-Esprit a-t-il été donné” (17 décembre 1959, soir)*
 

@@ -49,6 +49,7 @@ bible_refs:
   - "Marc 6:45"
   - "Psaumes 46:2"
   - "Ésaïe 40:31"
+original: "branham/1959/59-1120"
 ---
 “Un prophète comme Moïse” (20.11.1959)
 

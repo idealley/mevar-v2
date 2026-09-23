@@ -51,6 +51,7 @@ bible_refs:
   - "Romains 8:38-39"
   - "Éphésiens 2:20"
   - "Éphésiens 4:5"
+original: "branham/1963/63-0623M"
 ---
 **Résumé de!: “Se tenir sur la brèche” (23 juin1963 matin)**
 

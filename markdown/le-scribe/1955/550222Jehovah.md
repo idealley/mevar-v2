@@ -56,6 +56,7 @@ bible_refs:
   - "Jérémie 23:6,33"
   - "Lévitique 20:8,21"
   - "Psaumes 23:1"
+original: "branham/1955/55-0222"
 ---
 *JEHOVAH JIREH*
 *22 février 1955, mardi soir, Phoenix (Arizona)*

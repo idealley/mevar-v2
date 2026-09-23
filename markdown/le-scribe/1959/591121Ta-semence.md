@@ -52,6 +52,7 @@ bible_refs:
   - "Hébreux 11:33"
   - "Matthieu 11:23"
   - "Ésaïe 53:5"
+original: "branham/1959/59-1121"
 ---
 “Ta postérité possédera la porte de ses ennemis” (21 novembre 1959)
 

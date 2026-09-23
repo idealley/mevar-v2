@@ -45,6 +45,7 @@ llm_cleaned: true
 bible_refs:
   - "2 Rois 2:12"
   - "Marc 11:24"
+original: "branham/1956/56-1125M"
 ---
 **UNE TUNIQUE DE SECONDE MAIN**
 

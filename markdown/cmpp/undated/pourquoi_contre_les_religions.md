@@ -51,7 +51,6 @@ bible_refs:
   - "Actes 2"
   - "Apocalypse 17"
   - "Apocalypse 18"
-  - "Esther 87"
   - "Galates 1"
   - "Galates 5"
   - "Jean 3"

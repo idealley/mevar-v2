@@ -59,6 +59,7 @@ bible_refs:
   - "Marc 5:25-34"
   - "Marc 5:30"
   - "Romains 10:17"
+original: "branham/1963/63-0604"
 ---
 **Résumé de!: “Jésus-Christ est le même, hier, aujourd’hui et éternellement” (4 Juin 1963, soir )**
 

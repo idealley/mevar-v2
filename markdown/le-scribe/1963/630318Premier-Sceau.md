@@ -99,6 +99,7 @@ bible_refs:
   - "Jean 14:6"
   - "Jean 18:36"
   - "Jean 1:1"
+original: "branham/1963/63-0318"
 ---
 **Résumé de!: “Le Premier Sceau” (18 mars 1963 soir)**
 

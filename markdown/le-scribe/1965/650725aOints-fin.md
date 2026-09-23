@@ -66,7 +66,7 @@ bible_refs:
   - "Jean 1:5"
   - "Jean 6:44,37"
   - "Jean 9:28"
-  - "Jude 9"
+  - "Jude 1:9"
   - "Jérémie 25:11"
   - "Jérémie 28:1,10"
   - "Luc 18:8"
@@ -78,6 +78,7 @@ bible_refs:
   - "Nombres 24:9"
   - "Romains 15:12"
   - "Zacharie 14:7"
+original: "branham/1965/65-0725M"
 ---
 **Résumé de : “Les oints du temps de la fin” (25 juillet 1965, matin)**
 
@@ -147,7 +148,7 @@ Ils se tourneront vers des fables, des dogmes. Les paroles entendues lors de la 
 
 **167.** à **176.** Les vrais oints se distinguent par la Parole, et non par les prodiges. Un “faux oint” ne prétend jamais être Jésus, mais il est opposé à la Parole, et il se dit “oint”. Ce ne sont pas des Méthodistes ou des Baptistes, mais des gens qui croient au baptême du Saint-Esprit, qui font des miracles, des Pentecôtistes, très proches de la vérité. C'est Eve, l'église qui se prétend l'Epouse, qui reçoit la fausse Parole. Mais Adam, le Christ, n'a pas cru Satan. Ces “faux oints” sont oints d'un esprit dénominationnel, et non de la Parole. Ce ne sont pas de “faux Jésus”, mais de “faux christs”.
 
-**177.** à **187.** Vous savez que les gens peuvent être classés en trois races, celles de Sem, Cham et Japhet, ou en trois catégories. Il y a les croyants, tel Moïse. Il y a les soi-disant croyants, tels Balaam et Judas, la balle. Il y a les incroyants, tels Jannès et Jambrès, l'église dénominationnelle froide et mondaine. Les incroyants et les soi-disant croyants sont audacieux : voyez comment Satan a tenté Eve et Jésus, en présence même de la Parole. Satan a même contesté le corps de Moïse contre l'archange Michel [Jude 9]. L'anti-christ s'oppose directement à la Parole du jour. Si les élus ne sont pas séduits, c'est parce qu'ils sont la Parole en sa saison, leur vie vient de la racine, ils ne peuvent pas renier la Parole. Moïse, Jérémie et Michée savaient, car c'était écrit. Moïse ne s'est pas laissé séduire par les imitateurs pour se joindre à eux. Il est resté tranquille. Achab, lui, croyait sa dénomination.
+**177.** à **187.** Vous savez que les gens peuvent être classés en trois races, celles de Sem, Cham et Japhet, ou en trois catégories. Il y a les croyants, tel Moïse. Il y a les soi-disant croyants, tels Balaam et Judas, la balle. Il y a les incroyants, tels Jannès et Jambrès, l'église dénominationnelle froide et mondaine. Les incroyants et les soi-disant croyants sont audacieux : voyez comment Satan a tenté Eve et Jésus, en présence même de la Parole. Satan a même contesté le corps de Moïse contre l'archange Michel [Jude 1:9]. L'anti-christ s'oppose directement à la Parole du jour. Si les élus ne sont pas séduits, c'est parce qu'ils sont la Parole en sa saison, leur vie vient de la racine, ils ne peuvent pas renier la Parole. Moïse, Jérémie et Michée savaient, car c'était écrit. Moïse ne s'est pas laissé séduire par les imitateurs pour se joindre à eux. Il est resté tranquille. Achab, lui, croyait sa dénomination.
 
 **188.** à **194.** Un vrai croyant, c'est la semence prédestinée pour tenir ferme en ce jour. Le Royaume est en lui. Un jour la mauvaise herbe viendra : “Ceux qui me disent : Seigneur, Seigneur ! n'entreront pas tous dans le royaume des cieux, mais celui-là seul qui fait la volonté de mon Père qui est dans les cieux. - Plusieurs me diront en ce jour-là : Seigneur, Seigneur, n'avons-nous pas prophétisé (ce sont des oints) par ton nom ? n'avons-nous pas chassé des démons par ton nom ? et n'avons-nous pas fait beaucoup de miracles par ton nom ? - Alors je leur dirai ouvertement : Je ne vous ai jamais connus (ils sont restés attachés à leur dénomination), retirez-vous de moi vous qui commettez l'iniquité” [Mat. 7:21-23]. L’iniquité, c'est voir le message confirmé, mais rester attaché à sa dénomination, c'est ne pas faire ce que l'on sait devoir faire. Ils refusent d'être baptisés au Nom de Jésus. Ils vont jusqu'à un certain point, puis reculent. Ils refusent la Parole confirmée et manifestée.
 

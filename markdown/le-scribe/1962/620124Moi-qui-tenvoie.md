@@ -72,6 +72,7 @@ bible_refs:
   - "Ésaïe 28:19"
   - "Ésaïe 40:31"
   - "Ésaïe 55:11"
+original: "branham/1962/62-0124"
 ---
 **Résumé de!: “N’est-ce pas moi qui t’envoie!?” (24 janvier 1962, soir)**
 

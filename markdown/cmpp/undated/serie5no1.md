@@ -61,8 +61,6 @@ bible_refs:
   - "Malachie 3"
   - "Malachie 4"
   - "Marc 16"
-  - "Nombres 42"
-  - "Nombres 69"
   - "Romains 8"
   - "Éphésiens 2"
 ---

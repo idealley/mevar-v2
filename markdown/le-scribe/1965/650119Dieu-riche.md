@@ -55,6 +55,7 @@ bible_refs:
   - "Matthieu 21:21"
   - "Nombres 21:4-9"
   - "Ésaïe 53:5"
+original: "branham/1965/65-0119"
 ---
 **Résumé de : “Le Dieu qui est riche en miséricorde” (19 Janvier 1965, soir)**
 

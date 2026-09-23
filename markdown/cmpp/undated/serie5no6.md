@@ -69,7 +69,6 @@ bible_refs:
   - "Psaumes 22"
   - "Zacharie 14"
   - "Zacharie 9"
-  - "Zacharie 95"
   - "Ésaïe 29"
   - "Ésaïe 40"
 ---

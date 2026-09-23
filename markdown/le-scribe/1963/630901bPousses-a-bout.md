@@ -64,12 +64,12 @@ bible_refs:
   - "Luc 11:31"
   - "Luc 16:16"
   - "Luc 22:44"
-  - "Luc 43"
   - "Luc 8:41-42"
   - "Marc 10:46-53"
   - "Ruth 1:16-17"
   - "Éphésiens 1:4"
   - "Ésaïe 55:12"
+original: "branham/1963/63-0901E"
 ---
 **Résumé de!: “Poussés à bout” (1er septembre 1963 soir)**
 

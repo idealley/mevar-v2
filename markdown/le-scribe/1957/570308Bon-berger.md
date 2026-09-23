@@ -62,6 +62,7 @@ bible_refs:
   - "Psaumes 1:1-3"
   - "Psaumes 81:16"
   - "Ésaïe 40:4"
+original: "branham/1957/57-0308"
 ---
 Résumé de : “ Le bon Berger du troupeau” (8.03.1957)
 

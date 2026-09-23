@@ -45,7 +45,6 @@ bible_refs:
   - "Apocalypse 19"
   - "Apocalypse 2"
   - "Apocalypse 22"
-  - "Apocalypse 28"
   - "Apocalypse 3"
   - "Apocalypse 6"
   - "Malachie 4"

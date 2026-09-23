@@ -57,6 +57,7 @@ bible_refs:
   - "Proverbes 14:12"
   - "Romains 4:20"
   - "Ésaïe 53:5"
+original: "branham/1960/60-0713"
 ---
 **Résumé de : "L'aveugle Bartimée" (le 13 juillet 1960)**
 

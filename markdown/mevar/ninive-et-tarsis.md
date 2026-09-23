@@ -25,7 +25,6 @@ bible_refs:
   - "Apocalypse 21"
   - "Exode 14:13-31"
   - "Jonas 1:1-15"
-  - "Jonas 8"
   - "Malachie 4"
   - "Éphésiens 4:11"
   - "Ésaïe 27:12-13"

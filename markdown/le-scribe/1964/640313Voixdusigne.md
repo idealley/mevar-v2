@@ -69,6 +69,7 @@ bible_refs:
   - "Nombres 16:1"
   - "Zacharie 14:7"
   - "Ésaïe 40:3"
+original: "branham/1964/64-0313"
 ---
 *Résumé de : “La Voix du Signe” (13 mars 1964, soir)*
 

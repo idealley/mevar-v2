@@ -68,6 +68,7 @@ bible_refs:
   - "Luc 4:18-19"
   - "Ésaïe 40:31"
   - "Ésaïe 61"
+original: "branham/1962/62-0908"
 ---
 **Résumé de!: “Le stade présent de mon ministère” (8 septembre 1962, soir)**
 

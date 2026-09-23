@@ -63,6 +63,7 @@ bible_refs:
   - "Psaumes 80:1-8"
   - "Psaumes 80:8"
   - "Ésaïe 53:5"
+original: "branham/1959/59-0920"
 ---
 “Planter une vigne et où la planter” (le 20 septembre 1959)
 

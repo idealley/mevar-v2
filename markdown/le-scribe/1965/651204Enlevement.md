@@ -59,12 +59,11 @@ bible_refs:
   - "Apocalypse 11:11-12"
   - "Apocalypse 3:17-20"
   - "Deutéronome 16:1-6"
-  - "Esther 13"
   - "Exode 7:11"
   - "Jean 10:37"
   - "Jean 11:38-44"
   - "Jean 5:36"
-  - "Jude 14"
+  - "Jude 1:14"
   - "Luc 17:28,30"
   - "Malachie 4:5"
   - "Psaumes 24:9-10"
@@ -72,6 +71,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Éphésiens 4:8"
   - "Ésaïe 7:14"
+original: "branham/1965/65-1204"
 ---
 *L'Enlèvement*
 
@@ -103,7 +103,7 @@ Lisons aussi 2 Pierre 3:3-6
 
 **92.** Comment entrer dans cette Épouse ? Ce n'est pas en adhérant à une dénomination, en parlant en langues, en dansant dans l'Esprit, etc. C'est par le baptême du Saint-Esprit : “Nous avons tous été baptisés dans un seul Esprit” (1 Corinthiens 12:13), et l'Esprit est la Vie de Christ. La Semence-Parole donne vie à la semence qui est en vous. J'ai vu un oranger dont les branches greffées portaient des citrons, des mandarines, des pamplemousses. Chacune de ces branches portait son fruit propre, mais ne portait pas d'oranges, le fruit originel du tronc. Une branche Méthodiste ne porte que des enfants Méthodistes. Mais une branche issue naturellement du tronc porte des oranges : l'arbre produit alors selon son espèce. Or Jésus veut du fruit pour lui-même, et son Épouse doit enfanter des enfants-Parole, et non pas des enfants dénominationnels. Une branche prédestinée ne donnera que des oranges. Mais il y a tant d'imitations, de concurrence charnelle et de fanatisme !
 
-**104.** La Bible ne dit jamais que Caïn était fils d'Adam, mais elle dit qu'il était du malin [1 Jean 3:12]. Enoch était donc le septième depuis Adam [Jude 14], un type des sept âges de l'Église. Il a été enlevé, ce qui indique que l'Enlèvement a lieu au septième âge. Enoch typifie l'Épouse des derniers jours, enlevée sans passer par la mort. Jésus a prouvé qu'il était le Messager de son âge, et ses disciples ont cru malgré leur incompréhension. Ils étaient choisis. Et dans le septième âge, le septième ange commence à dévoiler les mystères de Dieu, les Sceaux. Dieu agit par analogie avec la nature. Un arbre naît, pousse, perd ses feuilles, et au printemps il ressuscite. Le grain de blé a été enfoui, il a pourri, puis la plante a commencé à sortir avec Luther, cela a continué jusqu'à l'aigrette missionnaire de Wesley, et on en arrive à la balle trompeuse pentecôtiste, porteuse du vrai grain minuscule caché en elle. La Vie, le Message, a traversé tout cela jusqu'au sommet. L'Épouse sort à chaque âge, mais le reste meurt. Nous en sommes là.
+**104.** La Bible ne dit jamais que Caïn était fils d'Adam, mais elle dit qu'il était du malin [1 Jean 3:12]. Enoch était donc le septième depuis Adam [Jude 1:14], un type des sept âges de l'Église. Il a été enlevé, ce qui indique que l'Enlèvement a lieu au septième âge. Enoch typifie l'Épouse des derniers jours, enlevée sans passer par la mort. Jésus a prouvé qu'il était le Messager de son âge, et ses disciples ont cru malgré leur incompréhension. Ils étaient choisis. Et dans le septième âge, le septième ange commence à dévoiler les mystères de Dieu, les Sceaux. Dieu agit par analogie avec la nature. Un arbre naît, pousse, perd ses feuilles, et au printemps il ressuscite. Le grain de blé a été enfoui, il a pourri, puis la plante a commencé à sortir avec Luther, cela a continué jusqu'à l'aigrette missionnaire de Wesley, et on en arrive à la balle trompeuse pentecôtiste, porteuse du vrai grain minuscule caché en elle. La Vie, le Message, a traversé tout cela jusqu'au sommet. L'Épouse sort à chaque âge, mais le reste meurt. Nous en sommes là.
 
 **117.** Tout doit être manifesté à la fin, dans le grain. “Ce qui arriva du temps de Lot, de Sodome, arrivera pareillement ... le jour où le Fils de l'homme commencera à se révéler” [cf. Luc 17:28,30], à révéler ce qu'il est en ce jour, la Parole pour ce jour, par la manifestation du Saint-Esprit. Avant la destruction de Sodome, il a révélé les pensées secrètes de Sarah. C'était lui, le Tout-Puissant. Il doit donc en aller pareillement aujourd'hui. Voyez la perversion du monde, même dans les églises, et ces aveugles qui restent attachés à leur tradition et qui ne voient pas Dieu se faisant reconnaître. Quand le messager du septième âge débute son message, les mystères des choses tordues auparavant sont révélés. Et nous voyons le Fils de l'homme confirmant comme promis son message parmi son peuple. C'est à la septième veille qu'il vient, et je crois que l'Enlèvement arrivera entre 6 et 9 h du matin.
 

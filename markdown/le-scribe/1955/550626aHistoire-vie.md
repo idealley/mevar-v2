@@ -40,6 +40,7 @@ bible_refs:
   - "Matthieu 9:22"
   - "Matthieu 9:29"
   - "Proverbes 13:15"
+original: "branham/1955/55-0626A"
 ---
 Résumé de : “Histoire de ma vie” (26 juin 1955, après-midi)
 

@@ -76,6 +76,7 @@ bible_refs:
   - "Philippiens 1:21"
   - "Romains 4:20-21"
   - "Éphésiens 5:27"
+original: "branham/1963/63-0801"
 ---
 **1.** J’ai beaucoup apprécié ce cantique. Il y a une puissance dans un chant, et l’armée de Dieu avance en chantant pour porter l’arche, et avant le combat. Nous sommes réunis ce soir pour la bataille, avec le Nom de Jésus-Christ sur nos bannières. Lisons Josué 10:12 à 14
 

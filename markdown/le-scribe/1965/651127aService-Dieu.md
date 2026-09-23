@@ -70,6 +70,7 @@ bible_refs:
   - "Ésaïe 27:3"
   - "Ésaïe 40:31"
   - "Ézéchiel 3:1"
+original: "branham/1965/65-1127B"
 ---
 **ESSAYER DE RENDRE UN SERVICE A DIEU EN DEHORS DE SA VOLONTE**
 

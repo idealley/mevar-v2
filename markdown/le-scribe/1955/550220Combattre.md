@@ -55,7 +55,7 @@ bible_refs:
   - "Jean 1:49"
   - "Jean 5:19"
   - "Jean 5:24"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Psaumes 103:3"
 ---
 **1.** Je suis heureux d’être à nouveau ici pour vous apporter le message que le Seigneur m’a donné pour le Royaume et la gloire de son Eglise. Nous envisageons de tenir une réunion chez les Apaches. J’ai noté que la façon d’agir du Saint-Esprit dans mes réunions semble bizarre aux Américains. C’est à cause de toutes ces dénominations et de ces opinions qui les endoctrinent. L’Amérique est devenue une Babylone moderne.
@@ -70,7 +70,7 @@ bible_refs:
 
 **6.** Je voudrais arriver à prêcher l’Evangile sur la base du Sang versé, à élever les gens, puis à prier pour eux tandis qu’ils défilent. J’ai fait cela il y a quelques semaines. Une centaine de personnes se sont avancées, et il y a eu seize grands miracles dans la salle : polio, etc. Parfois, je vois ce qui ne va pas chez une personne, le manque de foi, mais je ne dis rien. La foi vient de ce qu’on entend la Parole de Dieu. Ensuite il y a les apôtres et les prophètes, les dons de guérison, les miracles, le parler en langues, etc., pour l’édification du Corps de Christ, le perfectionnement de l’Eglise. Tous les membres du Corps sont en activité, et ce n’était pas seulement à la Pentecôte.
 
-**7.** Je vous aime, et je suis ici pour vous aider. Dieu ne guérit pas pour seulement montrer sa puissance, car la nature suffirait pour cela, mais pour que, par votre témoignage de guérison, d’autres puissent croire au Seigneur Jésus-Christ comme leur Sauveur. Je peux tourner les pages de la Bible, mais il faut le Saint-Esprit pour ouvrir la Parole. [Prière]. Lisons Jude 3 :
+**7.** Je vous aime, et je suis ici pour vous aider. Dieu ne guérit pas pour seulement montrer sa puissance, car la nature suffirait pour cela, mais pour que, par votre témoignage de guérison, d’autres puissent croire au Seigneur Jésus-Christ comme leur Sauveur. Je peux tourner les pages de la Bible, mais il faut le Saint-Esprit pour ouvrir la Parole. [Prière]. Lisons Jude 1:3 :
 
 > “Bien-aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes.”
 

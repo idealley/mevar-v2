@@ -55,10 +55,10 @@ bible_refs:
   - "Jean 14:1-7"
   - "Jean 14:10"
   - "Jean 17:24"
-  - "Lévitique 121:44"
   - "Marc 16"
   - "Matthieu 22:1-14"
   - "Ésaïe 7:14"
+original: "branham/1965/65-1205"
 ---
 **1.** Je me souviens de ces parents venus de loin en voiture jusqu'ici, portant leur bébé mort. J'ai prié et il a ouvert les yeux. Je n'ai même pas pensé à leur demander s'ils étaient Chrétiens ! J'aime tenir la réunion dans une église, plutôt que dans une salle publique où je crois que demeurent des esprits impurs. Nous pouvons ouvrir la Bible, mais c'est le Saint-Esprit qui la révèle. Le monde sera jugé par Jésus-Christ, la Parole, et non par une dénomination. Et ce qui est écrit par Dieu s'accomplira. C'est Dieu lui-même qui interprète sa Parole en la confirmant en sa saison. Moïse n'a pas pris le message de Noé, ni Jésus celui de Moïse, ni Luther celui de Rome. A chaque âge est allouée une portion des Ecritures qui s'accomplit au jour promis. En lisant les Ecritures, ils auraient dû savoir que Jésus était le Messie, car il faisait vivre la Parole pour son jour. Aujourd'hui aussi, Dieu témoigne de la Parole en accomplissant ce qu'il avait promis. Nous sommes au jour où les pluies de la première et de l'arrière-saison tombent ensemble, avec des signes et des prodiges.
 

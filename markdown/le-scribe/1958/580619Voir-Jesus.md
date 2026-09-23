@@ -59,6 +59,7 @@ bible_refs:
   - "Néhémie 1"
   - "Zacharie 13:7"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0619E"
 ---
 **Pouvons-nous voir Jésus ?**
 

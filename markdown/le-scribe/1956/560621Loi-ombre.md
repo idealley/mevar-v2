@@ -55,6 +55,7 @@ bible_refs:
   - "Psaumes 23"
   - "Romains 4:17"
   - "Romains 8:1"
+original: "branham/1956/56-0621"
 ---
 **Résumé de : “La Loi était l'ombre des choses” (21 juin 1956)**
 

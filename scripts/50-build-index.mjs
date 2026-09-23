@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Walk markdown/ + manifests/ to produce a master index.json:
-// [{ source, sermon_id?, title, date?, year?, location?, source_url, pdf_url?, local_md, size_bytes, line_count }]
+// [{ source, sermon_id?, title, date?, year?, location?, source_url, pdf_url?, original?, local_md, size_bytes, line_count }]
 //
 // Usage: node scripts/50-build-index.mjs
 
@@ -47,6 +47,8 @@ for (const mdPath of walk(mdRoot)) {
   const basename = path.basename(mdPath, ".md");
 
   const manifest = manifestEntries.get(`${source}/${basename}`);
+  // Written by 49-link-le-scribe-branham.mjs — frontmatter, not a manifest.
+  const original = text.match(/^original: "(.+)"$/m)?.[1] ?? null;
 
   index.push({
     source,
@@ -74,6 +76,7 @@ for (const mdPath of walk(mdRoot)) {
     feature_image: manifest?.feature_image ?? null,
     local_image: manifest?.local_image ?? null,
     llm_cleaned: manifest?.llm_cleaned ?? false,
+    original,
     local_md: rel,
     size_bytes: stat.size,
     line_count: lineCount,

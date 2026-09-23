@@ -61,6 +61,7 @@ bible_refs:
   - "Marc 4:35-41"
   - "Matthieu 28:20"
   - "Romains 10:17"
+original: "branham/1963/63-1130E"
 ---
 **Résumé de!: “Aller réveiller Jésus” (30 novembre 1963 soir)**
 

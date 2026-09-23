@@ -79,6 +79,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 53:1"
   - "Ésaïe 53:5"
+original: "branham/1965/65-0822M"
 ---
 *Christ est révélé dans sa propre Parole*
 *22 août 1965, dimanche matin, Jeffersonville (Indiana)*

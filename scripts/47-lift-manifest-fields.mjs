@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Lift fields from manifests + bible-refs.json into each markdown's frontmatter.
-// Idempotent — if a key is already set, leave it.
+// Idempotent. pdf_url / audio_url / stream_url are left alone once set;
+// bible_refs is rewritten from the manifest, which is what produces it.
 //
 // Lifts:
 //   - pdf_url       (from manifests/<source>.json or per-year branham manifests)
@@ -80,13 +81,24 @@ for (const filePath of walk(path.join(root, "markdown"))) {
     }
   }
 
-  // Lift bible_refs (cap at 50 — avoid huge frontmatter for sermon transcripts)
+  // bible_refs follows manifests/bible-refs.json (cap at 50 — avoid huge
+  // frontmatter for sermon transcripts). A ref the manifest dropped goes.
   const fmRel = `markdown/${rel.split(path.sep).join("/")}`;
-  const refs = refsByFile[fmRel];
-  if (refs?.length && !/^bible_refs:/m.test(fm)) {
-    const top = refs.slice(0, 50);
-    fm += `\nbible_refs:\n${top.map((r) => "  - " + JSON.stringify(r)).join("\n")}`;
-    addedRefs++;
+  const refs = refsByFile[fmRel] ?? [];
+  // Replace the `bible_refs:` line and its "  - " list in place, append it
+  // when missing, drop it when the manifest has nothing left.
+  const block = refs.length ? ["bible_refs:", ...refs.slice(0, 50).map((r) => "  - " + JSON.stringify(r))] : [];
+  const lines = fm.split("\n");
+  const i = lines.indexOf("bible_refs:");
+  if (i === -1) lines.push(...block);
+  else {
+    let j = i + 1;
+    while (j < lines.length && lines[j].startsWith("  - ")) j++;
+    lines.splice(i, j - i, ...block);
+  }
+  if (lines.join("\n") !== fm) {
+    if (i === -1) addedRefs++;
+    fm = lines.join("\n");
     changed = true;
   }
 

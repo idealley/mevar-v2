@@ -63,6 +63,7 @@ bible_refs:
   - "Psaumes 133:1-2"
   - "Romains 5:1"
   - "Éphésiens 5:25-26"
+original: "branham/1960/60-0709"
 ---
 **1.** [Prière de consécration] …
 

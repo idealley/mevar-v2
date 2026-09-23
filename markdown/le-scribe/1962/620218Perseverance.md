@@ -75,6 +75,7 @@ bible_refs:
   - "Marc 4:35-41"
   - "Marc 7:26"
   - "Matthieu 15:21-28"
+original: "branham/1962/62-0218"
 ---
 **Résumé de!: “Persévérance” (18 février 1962, matin)**
 

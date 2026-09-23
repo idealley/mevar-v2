@@ -43,7 +43,6 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 15"
   - "2 Chroniques 1"
-  - "Esther 45"
   - "Jacques 1"
   - "Ésaïe 22"
 ---

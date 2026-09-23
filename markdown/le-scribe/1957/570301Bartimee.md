@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 6:6"
   - "Philippiens 1:8"
   - "Ésaïe 9:6"
+original: "branham/1957/57-0301"
 ---
 **1.** [Prière]. Nous attendons de grandes choses pour cette semaine et la semaine prochaine. Je suis enroué suite à un coup de froid à Minneapolis, Minnesota, après être sorti d’une salle surchauffée. De plus je vieillis, et un fil a dû être placé sur une dent, ce qui me ralentit car ma langue la frotte. J’ai appris que 22 églises soutenaient ces réunions, et c’est un privilège d’adorer ensemble. La coopération entre églises est une chose glorieuse.
 

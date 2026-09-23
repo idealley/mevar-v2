@@ -56,6 +56,7 @@ bible_refs:
   - "Juges 3:31"
   - "Luc 10:19"
   - "Ésaïe 40:3"
+original: "branham/1962/62-0118"
 ---
 **1.** C’est un plaisir d’être avec le frère Groomer et son église. Je suis en retard à cause de la tempête qui nous a fait perdre deux jours. Hier soir nous avons eu une réunion formidable, mais j’ai prêché quatre heures ! Je vois ici le frère et la sœur Dauch qui conduisent 240 km plusieurs fois par an pour aller de Macon, Georgie, jusqu’à Jeffersonville. Comme Abraham, nous sommes pèlerins et étrangers en ce monde, en attendant la Cité dont Dieu est l’Architecte [Hébreux 11:10].
 

@@ -47,7 +47,6 @@ bible_refs:
   - "Apocalypse 22"
   - "Apocalypse 3"
   - "Apocalypse 6"
-  - "Esther 187"
   - "Jean 6"
   - "Job 14"
   - "Job 19"
@@ -56,7 +55,6 @@ bible_refs:
   - "Luc 3"
   - "Malachie 3"
   - "Malachie 4"
-  - "Nombres 56"
   - "Osée 6"
 ---
 SERIE 1 N° 1

@@ -84,6 +84,7 @@ bible_refs:
   - "Matthieu 24"
   - "Néhémie 2:1"
   - "Néhémie 4:9,13,16"
+original: "branham/1961/61-0806"
 ---
 **1.** Nous allons terminer aujourd'hui ce message sur les "70 semaines". Peut-être certains ne seront-ils pas d'accord avec certaines choses, mais si votre façon de voir était différente de la mienne, j'écouterais avec plaisir ce que vous auriez à dire. J'apporte ces messages pour l'édification de l'Eglise universelle de Christ, mais sans chercher à me mettre en avant ou à imposer une idée. Je lis ce que d'autres ont dit, puis je vais devant Dieu avec cela, et je ne bouge pas jusqu'à ce que je puisse l'expliquer de la Genèse à l'Apocalypse. Alors je sais que c'est à peu près juste. Comme Salomon, je veux aider les gens, et ne pas les tromper. Et je suis reconnaissant à tous ceux qui m'aident, les frères Mercier, Roy Borders, Neville, Billy Paul, Gene, Teddy, etc.
 

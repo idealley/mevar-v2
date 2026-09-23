@@ -37,7 +37,6 @@ bible_refs:
   - "2 Chroniques 5:13"
   - "2 Thessaloniciens 2:4"
   - "2 Thessaloniciens 2:7"
-  - "2 Thessaloniciens 5"
   - "Apocalypse 11"
   - "Apocalypse 19:1"
   - "Apocalypse 19:21"
@@ -64,6 +63,7 @@ bible_refs:
   - "Ésaïe 11:1"
   - "Ésaïe 65:17"
   - "Ésaïe 66:8"
+original: "branham/1961/61-0730E"
 ---
 **1.** [Remarques diverses, salutations, remerciements]. S'il n'y avait personne pour m'aimer et écouter le message, il ne servirait à rien, et les poteaux et les arbres ne comprendraient rien. Il faut des gens comme vous pour venir m'écouter malgré la chaleur.
 

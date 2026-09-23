@@ -57,6 +57,7 @@ bible_refs:
   - "Psaumes 103:2-3"
   - "Psaumes 23:4"
   - "Éphésiens 5:27"
+original: "branham/1957/57-0407M"
 ---
 **1.** [Salutations]. Pâque aura lieu le 21. J'aimerais que nous ayons des réunions fraternelles du vendredi au dimanche de Pâque où aura lieu une séance de baptêmes. Ce Tabernacle est ma première et seule église. Nous aimerions aussi avoir une réunion avec les enfants. La venue du printemps nous fait penser à la résurrection. La Parole de Dieu s'accorde avec la nature. Invitez vos voisins à venir écouter la Parole et adorer ensemble. Nous invitons aussi les chanteurs des différentes églises à venir chanter pour nous.
 

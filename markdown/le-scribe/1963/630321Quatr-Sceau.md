@@ -89,6 +89,7 @@ bible_refs:
   - "Joël 2:28"
   - "Jérémie 1:12"
   - "Luc 24:49"
+original: "branham/1963/63-0321"
 ---
 **Résumé de!: “Le quatrième Sceau” (21 mars 1963 soir)**
 

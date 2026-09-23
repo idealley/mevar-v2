@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 18:20"
   - "Nombres 12:6"
   - "Romains 4:20"
+original: "branham/1957/57-0309E"
 ---
 **1 à 2-** [Prière]. J’avais oublié qu’il y aurait une ligne de prière ce soir, et je vais donc changer le sujet de ma prédication. Nous avons eu une excellente communion ce matin. Nos livres sont encore en vente ce soir, car nous ne vendons rien le dimanche. Ils ne nous rapportent rien, nous les achetons à Mr. Lindsay. Le but est de répandre le message. Cette campagne se terminera demain soir.
 

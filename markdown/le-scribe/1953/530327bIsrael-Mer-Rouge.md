@@ -70,6 +70,7 @@ bible_refs:
   - "Éphésiens 4:30"
   - "Ésaïe 28:8,9"
   - "Ésaïe 28:9-13"
+original: "branham/1953/53-0327"
 ---
 **“Israël et la Mer Rouge (b)”** - *(27 mars 1953, soir)*
 

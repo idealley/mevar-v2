@@ -74,6 +74,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 7:14"
   - "Ésaïe 9:6"
+original: "branham/1962/62-0712"
 ---
 **NOUS VOUDRIONS VOIR JESUS**
 *WE WOULD SEE JESUS*

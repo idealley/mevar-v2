@@ -17,7 +17,6 @@ ghost_id: "6448fa86db90770001518ee1"
 uuid: "8ee9e478-3579-49a6-b740-e5cb3ee95bf0"
 stream_url: "https://mevar.org/la-douleur-d-un-prophete/"
 bible_refs:
-  - "Esther 70"
   - "Jérémie 1"
   - "Jérémie 12"
   - "Jérémie 29"

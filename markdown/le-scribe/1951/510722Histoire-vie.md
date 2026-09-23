@@ -49,6 +49,7 @@ bible_refs:
   - "Hébreux 13:10-14"
   - "Jean 5:24"
   - "Matthieu 24"
+original: "branham/1951/51-0722A"
 ---
 *Histoire de ma vie*
 *Life Story*

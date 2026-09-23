@@ -46,7 +46,6 @@ bible_refs:
   - "Genèse 1"
   - "Jacques 5"
   - "Jean 14"
-  - "Jean 3"
   - "Jude 1"
   - "Jérémie 1"
   - "Jérémie 5"

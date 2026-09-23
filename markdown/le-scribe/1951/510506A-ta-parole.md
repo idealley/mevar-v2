@@ -41,6 +41,7 @@ bible_refs:
   - "Jean 10:18"
   - "Jean 14:12"
   - "Jean 4:46-54"
+original: "branham/1951/51-0506E"
 ---
 **SUR TA PAROLE**
 *AT THY WORD*

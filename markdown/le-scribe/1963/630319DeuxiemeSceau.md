@@ -66,7 +66,6 @@ bible_refs:
   - "Apocalypse 3:17"
   - "Apocalypse 6:3"
   - "Daniel 2:31-35"
-  - "Esther 666"
   - "Exode 21:1"
   - "Exode 7:10-12"
   - "Genèse 18:12-15"
@@ -92,6 +91,8 @@ bible_refs:
   - "Marc 5:25-34"
   - "Matthieu 24"
   - "Matthieu 24:6"
+  - "Nombres 16:1-40"
+original: "branham/1963/63-0319"
 ---
 **Résumé de!: “Deuxième Sceau” (19 mars 1963 soir)**
 

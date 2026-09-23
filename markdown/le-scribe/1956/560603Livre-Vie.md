@@ -52,6 +52,7 @@ bible_refs:
   - "Matthieu 5:48"
   - "Romains 8:1"
   - "Romains 8:30"
+original: "branham/1956/56-0603"
 ---
 **1.** Je devais être dans le Kentucky, mais j'ai dû venir à cause du frère Lyle et du fils de Mrs. Ferguson très gravement malades. J'irai néanmoins prier pour les malades à New Albany, mais je préfère jeûner trois jours avant une réunion de ce genre. J'attends de grandes choses de la réunion à Indianapolis. Je suis parfois épuisé, mais, après deux jours de repos, quelque chose me pousse à nouveau en avant. Nous sommes ici pour servir le Seigneur. Je n'ai rien préparé faute de temps, et je viens de choisir quelques versets, et j'ai pris la Bible Collins écrite en caractères plus grands, car j'ai plus de 40 ans.
 

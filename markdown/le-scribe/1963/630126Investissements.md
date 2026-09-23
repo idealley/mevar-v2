@@ -55,6 +55,7 @@ bible_refs:
   - "Luc 16:19-31"
   - "Luc 16:27"
   - "Matthieu 19:16"
+original: "branham/1963/63-0126"
 ---
 **Résumé de!: “Investissements” (26 Janvier 1963, matin)**
 

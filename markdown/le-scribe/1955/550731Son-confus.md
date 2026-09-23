@@ -57,6 +57,7 @@ bible_refs:
   - "Matthieu 22:14,7"
   - "Proverbes 14:12"
   - "Psaumes 1:1"
+original: "branham/1955/55-0731"
 ---
 **1.** La réunion en Allemagne a été reportée d'une autre semaine, car le stade était pris. La semaine prochaine, nous serons à Campbellsville, avec des réunions de guérison. Nous partirons pour l'Allemagne à 11 heures du matin, et je prêcherai le lendemain à Francfort avant d'aller à Berlin où je rencontrerai Hal Herman, un ancien directeur de studio d'Hollywood qui prêche l'Evangile sous tente.
 

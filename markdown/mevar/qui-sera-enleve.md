@@ -55,7 +55,6 @@ bible_refs:
   - "2 Corinthiens 5:16-18"
   - "2 Corinthiens 5:5"
   - "2 Corinthiens 6:16"
-  - "2 Pierre 5:8"
   - "2 Rois 2:9-11"
   - "2 Rois 8:19"
   - "2 Thessaloniciens 2"
@@ -67,6 +66,7 @@ bible_refs:
   - "Actes 10:34-35"
   - "Actes 20:7-11"
   - "Actes 2:38"
+  - "Actes 2:38-39"
 ---
 ## Table des matières
 

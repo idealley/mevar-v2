@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 1:12"
   - "Jean 5:39"
   - "Luc 17:28"
+original: "branham/1963/63-0118"
 ---
 **Résumé de!: “L’Esprit de vérité” (18 Janvier 1963)**
 

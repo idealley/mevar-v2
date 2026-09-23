@@ -279,7 +279,7 @@ Une fois pour toutes notre Sauveur s’est expliqué avec Satan, et Il l’a vai
 
 Cependant le vieil adversaire s’élève encore contre les croyants et les accuse auprès de Dieu. C’est pourquoi Christ, le médiateur de la Nouvelle Alliance, demeure en tant que Souverain Sacrificateur notre avocat auprès de Dieu, jusqu’à ce que l’Eglise soit achevée. Cependant, au moment où le nombre des rachetés est complet et qu’ils apparaissent devant Dieu “sans tache ni ride”, Satan ne peut plus rien réussir contre les élus de Dieu. C’est alors qu’il est précipité sur la terre avec une grande puissance, avec ceux qui le suivent.
 
-Comme nous l’avons vu dans Apocalypse 12.7-9, c’est l’archange Michel qui a pour tâche d’élever la voix et de renvoyer en son lieu l’ennemi déjà vaincu. C’est également lui qui a contesté avec le diable le corps mort de Moïse (Jude 9). Au temps déterminé, c’est encore lui qui se lèvera en faveur du peuple d’Israël, comme il est écrit: “En ce temps-là se lèvera Micaël, le grand chef, qui tient pour les fils de ton peuple” (Daniel 12.1). Cela ne me surprendrait pas que ce soit lui qui, lors de l’établissement du Millénium, lie Satan et le jette dans l’abîme (Apocalypse 20.1-3). La doctrine qui prétend que l’archange Michel serait Christ est complètement absurde. La vérité est que Jahwé de l’Ancien Testament est Jésus du Nouveau Testament, le même Seigneur hier, aujourd’hui et éternellement. Michel ou Gabriel sont encore dans le Nouveau Testament ce qu’ils étaient dans l’Ancien.
+Comme nous l’avons vu dans Apocalypse 12.7-9, c’est l’archange Michel qui a pour tâche d’élever la voix et de renvoyer en son lieu l’ennemi déjà vaincu. C’est également lui qui a contesté avec le diable le corps mort de Moïse (Jude 1:9). Au temps déterminé, c’est encore lui qui se lèvera en faveur du peuple d’Israël, comme il est écrit: “En ce temps-là se lèvera Micaël, le grand chef, qui tient pour les fils de ton peuple” (Daniel 12.1). Cela ne me surprendrait pas que ce soit lui qui, lors de l’établissement du Millénium, lie Satan et le jette dans l’abîme (Apocalypse 20.1-3). La doctrine qui prétend que l’archange Michel serait Christ est complètement absurde. La vérité est que Jahwé de l’Ancien Testament est Jésus du Nouveau Testament, le même Seigneur hier, aujourd’hui et éternellement. Michel ou Gabriel sont encore dans le Nouveau Testament ce qu’ils étaient dans l’Ancien.
 
 Il n’y aura plus de bataille entre le Vainqueur de Golgotha et les puissances vaincues de l’ennemi qui se trouvent encore dans les lieux célestes (Éphésiens 6.10-17). “Il s’est assis à perpétuité à la droite de Dieu, attendant désormais jusqu’à ce que ses ennemis soient mis pour marchepied de ses pieds” (Hébreux 10.13). Lors de Son retour, l’Epoux se consacrera uniquement à Son Epouse et ne s’occupera de rien d’autre.
 
@@ -697,7 +697,7 @@ Roi (Apocalypse 2.26-28), mais ils auront également part au jugement. Paul écr
 que les saints jugeront le monde?… Ne savez-vous pas que nous jugerons les anges?”
 (1 Corinthiens 6.2,3). En se rapportant à cela, Enoch a prophétisé: “Voici, le Seigneur est venu au milieu
 des saintes myriades, pour exécuter le jugement contre tous, et pour convaincre tous les impies”
-(Jude 14.15).
+(Jude 1:14.15).
    Il est écrit dans Matthieu 25.31,32: “Or, quand le fils de l’homme viendra dans sa gloire, et tous
 les anges avec lui, alors il s’assiéra sur le trône de sa gloire, et toutes les nations seront
 assemblées devant lui; et il séparera les uns d’avec les autres, comme un berger sépare les brebis

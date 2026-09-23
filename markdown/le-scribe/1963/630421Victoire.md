@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 14:12"
   - "Jean 1:29"
   - "Josué 1:5"
+original: "branham/1963/63-0421"
 ---
 **Résumé de!: “Jour de victoire” (21 Avril 1963, matin)**
 

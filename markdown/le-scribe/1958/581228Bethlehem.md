@@ -62,6 +62,7 @@ bible_refs:
   - "Ruth 1:16"
   - "Ruth 1:22"
   - "Ruth 4:20"
+original: "branham/1958/58-1228"
 ---
 **Résumé de : “Pourquoi la petite Bethléhem ?” (28 décembre 1958)**
 

@@ -92,7 +92,7 @@ bible_refs:
   - "Jean 3"
   - "Jean 7"
   - "Jean 8"
-  - "Jude 14:15"
+  - "Jude 1:7"
 ---
 LE MARIAGE: PROBLEME ANCIEN
 
@@ -449,7 +449,7 @@ pareillement, laissant l’usage naturel de la femme, se sont embrasés dans leu
 envers l’autre, commettant l’infamie, mâles avec mâles, et recevant en eux-mêmes la due
 récompense de leur égarement” (Romains 1.26,27). “Comme Sodome et Gomorrhe, et les villes
 d’alentour, s’étant abandonnées à la fornication de la même manière que ceux-là, et étant allées
-après une autre chair, sont là comme exemple, subissant la peine d’un feu éternel”(Jude 7).
+après une autre chair, sont là comme exemple, subissant la peine d’un feu éternel”(Jude 1:7).
    Comme notre Seigneur Lui-même l’a dit à l’avance, à la fin des temps il en sera comme aux
 jours de Sodome et de Gomorrhe; tout à fait officiellement les choses justes sont présentées
 comme fausses, et les choses fausses comme justes; des homosexuels sont mariés dans des

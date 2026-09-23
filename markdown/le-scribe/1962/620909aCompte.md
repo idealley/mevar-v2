@@ -47,6 +47,7 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 14:2"
   - "Jean 5:24"
+original: "branham/1962/62-0909M"
 ---
 **COMPTE A REBOURS**
 *9 septembre 1962, dimanche matin, Jeffersonville (Indiana)*

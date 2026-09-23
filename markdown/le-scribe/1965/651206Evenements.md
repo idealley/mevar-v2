@@ -93,6 +93,7 @@ bible_refs:
   - "Ésaïe 53:9"
   - "Ésaïe 7:14"
   - "Ésaïe 9:5"
+original: "branham/1965/65-1206"
 ---
 **1.** C'est un temps de perversion, une époque horrible, mais glorieuse aussi. Hier un pasteur a eu un accident de cheval, le dos écrasé, les reins atteints. On m'a téléphoné à une heure du matin. J'ai prié au téléphone, et il est ici ce soir ! Je me souviens d'une réunion sous tente ici : un couple avait roulé toute la journée pour apporter leur bébé mort. J'ai pris le corps raide et froid, j'ai prié, il s'est mis à bouger, j'ai continué à prier, et il s'est mis à crier. Je ne sais même pas si les parents étaient Chrétiens. L'église pentecôtiste se meurt elle aussi. La seule solution, c'est Jésus-Christ. [Prière]. Lisons Luc 24:13 à 27
 

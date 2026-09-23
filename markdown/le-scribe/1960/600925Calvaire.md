@@ -46,6 +46,7 @@ bible_refs:
   - "Matthieu 7:21"
   - "Proverbes 14:12"
   - "Ézéchiel 18:20"
+original: "branham/1960/60-0925"
 ---
 “Ce jour-là sur le Calvaire” (le 25 septembre 1960)
 

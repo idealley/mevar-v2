@@ -57,6 +57,7 @@ bible_refs:
   - "Jean 2:19"
   - "Psaumes 46:2"
   - "Romains 4:17"
+original: "branham/1959/59-1227E"
 ---
 **Résumé de!: “Un Super-Sens” (27 décembre 1959, soir)**
 

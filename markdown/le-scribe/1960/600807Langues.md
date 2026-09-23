@@ -65,6 +65,7 @@ bible_refs:
   - "Actes 8:26-39"
   - "Apocalypse 22:19"
   - "Galates 1:8"
+original: "branham/1960/60-0807"
 ---
 *Débat sur le parler en langues*
 *7 août 1960, dimanche matin, Yakima (Washington)*

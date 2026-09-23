@@ -75,6 +75,7 @@ bible_refs:
   - "Ésaïe 14:12-13"
   - "Ésaïe 9:5-6"
   - "Ézéchiel 3:1"
+original: "branham/1965/65-0911"
 ---
 **1.** Je salue le frère Carls Williams. Trois ans avant que cela n’arrive, j’avais vu Florence Shakarian alitée, et tendant en vain les bras vers moi, et une horloge indiquait environ trois heures du matin. Lors de la réunion où l’évêque Stanley était présent [24 janvier 1965], plusieurs ont prophétisé sa guérison. Elle était une grande chanteuse remplie de l’Esprit [elle venait de mourir le matin du 11 septembre 1965 à 3h45]. J’avais rencontré sa mère dans un coma cancéreux, j’avais prié pour elle et elle avait été guérie avant de mourir deux ans plus tard. Je ne veux pas prier pour Florence, nous l’avons déjà fait, mais pour Demos et Rose. [Prière]. Je serai à Tucson dimanche soir. Lisons Romains 12:1-2
 

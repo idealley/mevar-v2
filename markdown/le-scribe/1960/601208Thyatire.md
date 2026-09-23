@@ -89,6 +89,7 @@ bible_refs:
   - "Romains 3:4"
   - "Éphésiens 2:6"
   - "Ésaïe 49:15"
+original: "branham/1960/60-1208"
 ---
 **Résumé de!: “L’âge de l’église de Thyatire” (8 décembre 1960, soir)**
 

@@ -70,6 +70,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Zacharie 4:1"
   - "Éphésiens 2:8-9"
+original: "branham/1961/61-0827"
 ---
 Résumé de : “Le message de grâce” (27.08.1961)
 __________________________________

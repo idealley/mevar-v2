@@ -44,6 +44,7 @@ bible_refs:
   - "Genèse 22:7"
   - "Hébreux 11:6"
   - "Jean 5:19"
+original: "branham/1955/55-1117"
 ---
 *Résumé de : “Jéhovah Jiré” (17 novembre 1955, soir)*
 

@@ -48,6 +48,7 @@ bible_refs:
   - "Jean 5:19"
   - "Marc 16"
   - "Matthieu 12:42"
+original: "branham/1958/58-0613"
 ---
 *LA REINE DU MIDI*
 *QUEEN OF THE SOUTH*

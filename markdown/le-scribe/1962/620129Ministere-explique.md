@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 5:19"
   - "Marc 16"
   - "Marc 5:30"
+original: "branham/1962/62-0129"
 ---
 **SIGNIFICATION DE CE MINISTERE**
 *EXPLAINING THE MINISTRY*

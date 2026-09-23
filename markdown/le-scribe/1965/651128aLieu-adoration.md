@@ -72,6 +72,7 @@ bible_refs:
   - "Zacharie 4:7"
   - "Éphésiens 2:6"
   - "Éphésiens 4:30"
+original: "branham/1965/65-1128M"
 ---
 **1.** Le frère Brown vient de me dire : “J'ai enfin compris hier le sens profond de votre prédication. Si nous pouvions y entrer, tous les obstacles seraient renversés”. Il a raison. Le jeune Ernie Fandler voudrait que je retourne à Shawano où un Luthérien mort pendant la réunion est, à la parole du Seigneur, revenu à la vie. Les Protestants de France prient aussi pour que j'aille chez eux. La plante commence juste à fleurir. Quant à l'avenir, je me souviens de la vision du cavalier venant de l'Ouest sur un cheval blanc, et c'est cette piste que nous foulerons [cf. prédication “Et tu ne le sais pas” du 15 août 1965, §251 à 265]. Cela est proche. J'aime cette assemblée sortie des dénominations qui accepte ce message. Je suis un peu enroué, parce que j'ai oublié ma perruque.
 

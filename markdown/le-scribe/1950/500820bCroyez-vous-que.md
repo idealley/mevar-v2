@@ -46,6 +46,7 @@ bible_refs:
   - "Luc 19:40"
   - "Marc 9:22,25"
   - "Matthieu 9:27"
+original: "branham/1950/50-0820E"
 ---
 *20 août 1950, dimanche soir, Cleveland (Ohio)*
 

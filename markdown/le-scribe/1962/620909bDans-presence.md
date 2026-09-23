@@ -62,6 +62,7 @@ bible_refs:
   - "Ésaïe 21:11"
   - "Ésaïe 6:1"
   - "Ésaïe 6:5"
+original: "branham/1962/62-0909E"
 ---
 *Résumé de!: “Dans sa présence” (9 septembre 1962, soir)*
 

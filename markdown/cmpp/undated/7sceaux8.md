@@ -40,20 +40,16 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 12"
   - "Apocalypse 11"
-  - "Apocalypse 119"
   - "Apocalypse 13"
   - "Apocalypse 19"
   - "Apocalypse 22"
   - "Apocalypse 6"
   - "Apocalypse 8"
   - "Daniel 12"
-  - "Daniel 175"
   - "Exode 10"
   - "Jean 6"
-  - "Matthieu 118"
   - "Matthieu 24"
   - "Matthieu 27"
-  - "Nombres 302"
   - "Romains 11"
 ---
 BROCHURE N° 8

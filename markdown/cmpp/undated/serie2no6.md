@@ -42,7 +42,6 @@ bible_refs:
   - "Jean 14"
   - "Jean 17"
   - "Matthieu 10"
-  - "Ruth 28"
 ---
 SERIE 2 N° 6
 

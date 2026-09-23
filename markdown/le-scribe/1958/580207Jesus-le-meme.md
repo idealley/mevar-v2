@@ -61,6 +61,7 @@ bible_refs:
   - "Nombres 27:21,1"
   - "Psaumes 103:3"
   - "Ésaïe 59:19"
+original: "branham/1958/58-0207"
 ---
 **1.** [Prière]. Il y a une vingtaine d'années, alors que j'étais jeune pasteur baptiste, je suis passé près d'ici, à Mishawaka, au retour d'une partie de pêche à Dowagiac, Michigan. Ce fut ma première rencontre avec des Pentecôtistes. Leur comportement m'a étonné, ils frappaient des mains, tombaient à terre. Ils m'ont demandé de prêcher, alors que j'étais en T-shirt. J'ai prêché sur le riche qui a levé les yeux en enfer [Luc 16:23]. Il pleurait parce que Dieu n'y était pas. Il pleurait parce qu'il n'y avait là ni enfant, ni prédicateur. J'ai pleuré, et l'Esprit m'a saisi. J'ai alors su que j'étais l'un d'eux. Je suis heureux d'être avec votre pasteur, le frère Summerhall.
 

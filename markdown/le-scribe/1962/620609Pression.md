@@ -61,6 +61,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Ésaïe 32:1-2"
   - "Ésaïe 32:2"
+original: "branham/1962/62-0609E"
 ---
 *Relâcher la pression* (9 juin 1962, soir)
 

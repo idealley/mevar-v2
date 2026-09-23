@@ -45,6 +45,7 @@ bible_refs:
   - "Marc 7:33"
   - "Matthieu 9:23-26"
   - "Psaumes 66:18"
+original: "branham/1960/60-0330"
 ---
 “L’aveugle Bartimée” (le 30 mars 1960)
 

@@ -64,6 +64,7 @@ bible_refs:
   - "Marc 11:22"
   - "Philippiens 2:9"
   - "Ésaïe 7:14,9"
+original: "branham/1964/64-0206B"
 ---
 *Un paradoxe* (6 février 1964, matin)
 

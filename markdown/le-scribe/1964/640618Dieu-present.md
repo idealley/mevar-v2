@@ -54,6 +54,7 @@ bible_refs:
   - "Luc 17:34"
   - "Luc 7:36-50"
   - "Matthieu 12:38"
+original: "branham/1964/64-0618"
 ---
 *Dieu présent mais non identifié* (18 juin 1964, soir)
 

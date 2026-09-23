@@ -73,6 +73,7 @@ bible_refs:
   - "Zacharie 9:9"
   - "Ésaïe 29:6"
   - "Ésaïe 40:3"
+original: "branham/1965/65-0725E"
 ---
 **1.** [Prière]. La prédication de ce matin [“Les oints du temps de la fin”] était le message le plus direct depuis “Messieurs quelle heure est-il ?” [30 décembre 1962]. J'ai senti l'onction du Saint-Esprit, et le Seigneur nous a montré en quelle heure nous vivons. “Ceux qui auront de l'intelligence comprendront” [Daniel 12:10]. Mais notre sagesse nous détruira. Ce soir, j'aimerais trouver l'onction du Saint-Esprit et appeler la ligne de prière.
 

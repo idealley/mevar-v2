@@ -51,13 +51,14 @@ bible_refs:
   - "Genèse 26:22"
   - "Matthieu 11:1-15"
   - "Matthieu 3:10,12"
-  - "Philémon 18"
+  - "Philémon 1:18"
+original: "branham/1959/59-1001"
 ---
 **1.** On se sent à l’aise dans cette jolie église. J’ai aimé le poème lu par le frère Graham. Ceux qui n’ont jamais été pris en faute n’ont jamais compris cela, et cherchent toujours à rabaisser les autres. Moi aussi je sais ce que signifie être fautif. Un homme est un jour allé chez “Ballard and Ballard” [NDR : célèbre joailler] pour être embauché. On lui a demandé pourquoi il n’y avait pas de gomme au bout de son crayon ? “Je ne me trompe jamais.” – “Dans ce cas, je ne peux vous prendre : vous ne feriez rien.” Celui qui ne fait pas d’erreur n’est bon à rien. Mais un vrai soldat se relève et essaie à nouveau. J’ai souvent dit à Dieu que j’avais honte de moi : “Permets que je me relève et que j’essaie à nouveau.” Il m’a toujours relevé.
 
 **2.** Il ne se passe pas une heure sans que nous commettions une faute. Et devant Dieu toute faute est grande. Si Paul devait mourir chaque jour, à plus forte raison doit-il en être ainsi pour nous. Et un chrétien doit donc pardonner celui qui commet une faute en voulant bien faire. L’église est grandement fautive sur ce point. Au lieu de relever cette personne, on l’enfonce encore plus, alors que Christ s’est penché vers nous quand nous étions au plus bas, et nous a relevés. Cela montre quel Esprit nous devrions avoir.
 
-**3.** Paul aimait tant Jésus-Christ qu’il a écrit au propriétaire d’un esclave qui s’était enfui : “Et s'il t'a fait quelque tort, ou s'il te doit quelque chose, mets-le sur mon compte.” [Philémon 18]. Il était chrétien depuis si longtemps qu’il savait ce que pardonner signifie : lui-même avait été pardonné. Tout chrétien qui a été vraiment pardonné le sait aussi.
+**3.** Paul aimait tant Jésus-Christ qu’il a écrit au propriétaire d’un esclave qui s’était enfui : “Et s'il t'a fait quelque tort, ou s'il te doit quelque chose, mets-le sur mon compte.” [Philémon 1:18]. Il était chrétien depuis si longtemps qu’il savait ce que pardonner signifie : lui-même avait été pardonné. Tout chrétien qui a été vraiment pardonné le sait aussi.
 
 **4.** J’ai écouté ce que Graham a dit du frère Busty, de son vrai nom Everett, le père du frère et de la sœur Creech. Il a un cancer, et les médecins l’ont seulement recousu. Priez pour lui. Je suis allé le voir. Il m’a dit : “Je sais pourquoi je suis ici. Il est avec moi depuis lors. Quelque chose m’a imposé les mains il y a quelques jours.” Et il a vu un arc-en-ciel dans un coin de la pièce. On sait alors que quelque chose va se passer.
 

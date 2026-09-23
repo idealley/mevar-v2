@@ -77,7 +77,7 @@ bible_refs:
   - "Luc 6"
   - "Matthieu 19"
   - "Matthieu 9"
-  - "Philémon 24"
+  - "Philémon 1:24"
   - "Psaumes 105"
   - "Tite 1"
   - "Tite 2"
@@ -152,7 +152,7 @@ Premier cas : dans Luc 6/12 à 16, Jésus a prié toute la nuit et le matin venu
 
 Deuxième cas : dans Tite 1/5-16. Tite devait choisir et « établir des anciens dans l'église » de crête. Il devait tenir compte de leurs caractères, leur situation matrimoniale, mais aussi leur témoignage auprès des frères et sœurs. Ce sont des critères objectifs observables (à l'œil nu) dont il pouvait se servir pour designer ses collaborateurs.
 
-Malgré toutes ces mesures, il y a toujours la souveraineté de Dieu qui n'est pas en notre pouvoir. Il y aura donc des trahisons et des séparations. C'est inévitable. Tout serviteur de Dieu qui craint cela court le risque d'être hypocrite et sans fermeté dans l'œuvre. Ainsi, Jésus a prié toute la nuit, mais cela ne l'a pas empêché de choisir judas Iscariote qui l'a livré plus tard (Luc 6/12-16 ; Jean 6/70-71). Paul de même n'a pas pu échapper à la trahison de certains de ses compagnons. On a Phygelle et Hermogene (2 Timothée 1/15); Hyménée et Philète (2 timohée2/17-18) et Démas (2 Timothée 4/10 ; Philémon 24 ; Colossiens 4/14). Et la plus spectaculaire séparation est celle de barnabas et paul (Actes 15/36-41). Comme on peut le voir, le contrôle sur l'avenir d'une collaboration ou association est impossible.
+Malgré toutes ces mesures, il y a toujours la souveraineté de Dieu qui n'est pas en notre pouvoir. Il y aura donc des trahisons et des séparations. C'est inévitable. Tout serviteur de Dieu qui craint cela court le risque d'être hypocrite et sans fermeté dans l'œuvre. Ainsi, Jésus a prié toute la nuit, mais cela ne l'a pas empêché de choisir judas Iscariote qui l'a livré plus tard (Luc 6/12-16 ; Jean 6/70-71). Paul de même n'a pas pu échapper à la trahison de certains de ses compagnons. On a Phygelle et Hermogene (2 Timothée 1/15); Hyménée et Philète (2 timohée2/17-18) et Démas (2 Timothée 4/10 ; Philémon 1:24 ; Colossiens 4/14). Et la plus spectaculaire séparation est celle de barnabas et paul (Actes 15/36-41). Comme on peut le voir, le contrôle sur l'avenir d'une collaboration ou association est impossible.
 
 « …que personne ne le méprise. Accompagnez-le en paix… »
 

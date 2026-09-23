@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "Actes 7:44"
   - "Psaumes 10:5"
+original: "branham/1965/65-1121"
 ---
 **Résumé de : “Quelle maison me bâtirez-vous?” (21 novembre 1965, matin)**
 

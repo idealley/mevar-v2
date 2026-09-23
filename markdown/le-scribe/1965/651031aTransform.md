@@ -48,7 +48,6 @@ bible_refs:
   - "1 Jean 2:15"
   - "Apocalypse 3:18"
   - "Daniel 3"
-  - "Esther 13"
   - "Genèse 1:26-27"
   - "Genèse 2:4"
   - "Genèse 2:7"
@@ -64,6 +63,7 @@ bible_refs:
   - "Romains 12:1-2"
   - "Ésaïe 14:12-14"
   - "Ésaïe 7:14"
+original: "branham/1965/65-1031M"
 ---
 **Résumé de : “La puissance de transformation” (31 octobre 1965, matin)**
 

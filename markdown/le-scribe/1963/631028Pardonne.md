@@ -63,6 +63,7 @@ bible_refs:
   - "Romains 8:29"
   - "Ésaïe 1:11"
   - "Ésaïe 53:5"
+original: "branham/1963/63-1028"
 ---
 **Résumé de!: “Etre pardonné” (28 Octobre 1963)**
 

@@ -74,6 +74,7 @@ bible_refs:
   - "Philippiens 2:1-8"
   - "Zacharie 14:7"
   - "Éphésiens 1:4,1"
+original: "branham/1964/64-0629"
 ---
 **Résumé de : “Le Dieu puissant dévoilé devant nous” (29 juin 1964, soir)**
 

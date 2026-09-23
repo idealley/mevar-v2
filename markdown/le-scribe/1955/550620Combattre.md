@@ -40,10 +40,11 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 13:8"
   - "Jean 5:19"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Marc 6:5-6"
+original: "branham/1955/55-0620"
 ---
-**1.** Lisons Jude 3 :
+**1.** Lisons Jude 1:3 :
 > "Bien aimés, comme je désirais vivement vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire afin de vous exhorter à combattre pour la foi qui a été transmise aux saints une fois pour toutes."
 
 Ce texte a été écrit 33 ans après la Pentecôte, et ils s'étaient déjà égarés. Je précise que je ne guéris pas, je ne suis que votre frère en Christ. Je ne suis pas contre les médecins : ce sont des dons de Dieu, et les savants ont inventé de bonnes choses, l'auto, etc. Je ne prends pas la place des médecins, je prie pour leur succès. Mais quand ils ne peuvent rien, nous avons le droit d'aller vers Jésus. J'ai vu en dix ans des milliers d'infirmes guéris, trois résurrections de gens déclarés morts, dont deux aux USA et un à Helsinki.

@@ -46,6 +46,7 @@ bible_refs:
   - "Jacques 5:11"
   - "Job 19:25-27"
   - "Nombres 19"
+original: "branham/1962/62-0519"
 ---
 *19 mai 1962, samedi soir, Green Lake (Wisconsin)*
 

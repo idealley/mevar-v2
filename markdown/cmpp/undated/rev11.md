@@ -49,8 +49,6 @@ bible_refs:
   - "Apocalypse 19"
   - "Apocalypse 3"
   - "Apocalypse 4"
-  - "Apocalypse 45"
-  - "Apocalypse 57"
   - "Jean 10"
   - "Jean 21"
   - "Matthieu 16"

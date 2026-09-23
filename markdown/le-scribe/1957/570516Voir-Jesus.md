@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 4"
   - "Éphésiens 4:8"
   - "Ésaïe 28:8"
+original: "branham/1957/57-0516"
 ---
 Résumé de : “Nous voudrions voir Jésus ” (16.05.1957)
 

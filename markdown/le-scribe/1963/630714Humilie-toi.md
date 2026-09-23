@@ -39,6 +39,7 @@ bible_refs:
   - "Jacques 5:13-15"
   - "Marc 16"
   - "Marc 16:15-20"
+original: "branham/1963/63-0714E"
 ---
 *Humilie-toi*
 

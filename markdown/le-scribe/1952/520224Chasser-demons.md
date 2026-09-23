@@ -42,6 +42,7 @@ bible_refs:
   - "Romains 4:18,19"
   - "Romains 4:20"
   - "Ésaïe 53:5"
+original: "branham/1952/52-0224"
 ---
 **Résumé de!: “Croire en Dieu” (24.2.52!; parfois daté à tort le 26. 08. 1951)**
 

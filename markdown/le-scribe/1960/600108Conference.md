@@ -54,6 +54,7 @@ bible_refs:
   - "Romains 4:17"
   - "Romains 4:20"
   - "Ésaïe 1:18"
+original: "branham/1960/60-0108"
 ---
 *Une conférence avec Dieu* (le 1960)
 

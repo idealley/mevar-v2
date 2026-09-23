@@ -58,7 +58,6 @@ bible_refs:
   - "Deutéronome 18:18-19"
   - "Exode 14:10"
   - "Exode 15:24"
-  - "Habacuc 4:15"
   - "Hébreux 13:8"
   - "Jean 10:37"
   - "Jean 14:12"
@@ -76,6 +75,7 @@ bible_refs:
   - "Matthieu 8:23-27"
   - "Nombres 12:6"
   - "Zacharie 14:7"
+original: "branham/1963/63-0117"
 ---
 **Résumé de!: “Réveiller Jésus” (17 Janvier 1963)**
 

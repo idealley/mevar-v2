@@ -52,7 +52,7 @@ bible_refs:
   - "Josué 7:1-21"
   - "Joël 1:4"
   - "Joël 2:28"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Marc 16:17"
   - "Nombres 14:41"
   - "Romains 16:3-4"
@@ -61,6 +61,7 @@ bible_refs:
   - "Éphésiens 5:27"
   - "Ésaïe 28:10"
   - "Ésaïe 28:10-11"
+original: "branham/1962/62-0610M"
 ---
 **Résumé de!: “Présumer” (8 avril 1962, matin)**
 
@@ -108,7 +109,7 @@ bible_refs:
 
 **17.** Israël présumait que Dieu était avec eux, parce que Dieu les avait retirés d’Egypte, leur avait envoyé la Colonne de Feu, et avait noyé leurs ennemis. Mais la Parole de Dieu leur avait dit par Moïse de ne pas attaquer. De même, les Pentecôtistes racontent avoir reçu le Saint-Esprit ou avoir été guéris, mais ne franchissez pas cette limite ! Les Amalécites sont de l’autre côté, le péché se trouve au-delà des frontières de la Parole, et Dieu vous laissera tomber. Vous dites : “Du moment que j’appartiens à l’église, où est la différence ?” Moïse leur a dit de ne pas agir comme les autres nations.
 
-**18.** Comme Moïse, je vous le demande : ai-je pris votre argent ou mendié pour de grands programmes ? tout ce que je vous ai dit au Nom du Seigneur ne s’est-il pas accompli ? Restez avec la Parole. Le message et le messager doivent être selon les temps de la fin pour ramener la foi des enfants à celle des pères. “Combattez pour la foi qui a été transmise aux saints une fois pour toute” [Jude 3]. Puis c’est devenu une doctrine, le “nicolaïsme”, qui signifie “l’emporter sur les laïcs”. Au lieu de laisser le Saint-Esprit agir parmi les gens, ils ont placé un homme saint. Puis ils ont créé une organisation qui pendant des siècles a persécuté ceux qui ne s’inclinaient pas. Puis Luther est venu, mais ils se sont organisés, et Dieu a émondé. Il en a été de même avec Wesley. Puis est venu le troisième message.
+**18.** Comme Moïse, je vous le demande : ai-je pris votre argent ou mendié pour de grands programmes ? tout ce que je vous ai dit au Nom du Seigneur ne s’est-il pas accompli ? Restez avec la Parole. Le message et le messager doivent être selon les temps de la fin pour ramener la foi des enfants à celle des pères. “Combattez pour la foi qui a été transmise aux saints une fois pour toute” [Jude 1:3]. Puis c’est devenu une doctrine, le “nicolaïsme”, qui signifie “l’emporter sur les laïcs”. Au lieu de laisser le Saint-Esprit agir parmi les gens, ils ont placé un homme saint. Puis ils ont créé une organisation qui pendant des siècles a persécuté ceux qui ne s’inclinaient pas. Puis Luther est venu, mais ils se sont organisés, et Dieu a émondé. Il en a été de même avec Wesley. Puis est venu le troisième message.
 
 **19.** La sauterelle, le jélek, le hasil et le gazam, ont mangé le fruit, puis les feuilles, puis l’écorce, puis la vie, conquérant ainsi les laïcs. Mais Dieu a promis de restaurer [cf. Joël 1:4 et 2:25]. Cela a commencé avec Luther et Wesley. Puis sont venus les Pentecôtistes. Eux aussi se sont organisés et ils sont retranchés. Qu’en est-il de ces réveils ? La pluie tombe sur la terre pour l’habiller et la préparer pour le fruit, “mais si elle produit des épines et des chardons, elle est réprouvée et près d’être maudite, et on finit par y mettre le feu” [Hébreux 6:8]. Ils se groupent pour être brûlés, et ils finiront en un seul groupe, le Conseil mondial des Eglises, formant ainsi l’image de Bête. Ils craignent le communisme, alors que la Bible dit que c’est le Romanisme qui dominera le monde, comme le montre la vision de Daniel sur le royaume des Nations. Mais tous présument que c’est juste, et ils se joignent à cela.
 

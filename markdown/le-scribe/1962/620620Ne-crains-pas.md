@@ -64,6 +64,7 @@ bible_refs:
   - "Marc 5:25-34"
   - "Matthieu 14:22"
   - "Zacharie 14:7"
+original: "branham/1962/62-0620"
 ---
 **Résumé de!: “N’ayez pas peur” (20 juin 1962, soir)**
 

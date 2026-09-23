@@ -55,6 +55,7 @@ bible_refs:
   - "Marc 16"
   - "Romains 8:28"
   - "Éphésiens 5:27"
+original: "branham/1950/50-0716"
 ---
 **CROIS-TU CELA ?**
 *BELIEVEST THOU THIS ?*

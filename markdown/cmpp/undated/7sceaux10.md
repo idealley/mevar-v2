@@ -59,7 +59,6 @@ bible_refs:
   - "Apocalypse 14"
   - "Apocalypse 7"
   - "Deutéronome 29"
-  - "Esther 176"
   - "Matthieu 24"
   - "Ésaïe 9"
 ---

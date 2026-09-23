@@ -45,7 +45,6 @@ pdf_url: "http://le-scribe.org/pdfiles/590415Abraham.pdf"
 llm_cleaned: true
 bible_refs:
   - "Apocalypse 12:11"
-  - "Colossiens 6:17"
   - "Exode 13:13"
   - "Genèse 14:18-20"
   - "Genèse 15"

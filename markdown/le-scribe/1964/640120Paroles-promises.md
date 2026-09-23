@@ -46,6 +46,7 @@ bible_refs:
   - "Matthieu 24:32-35"
   - "Nombres 12:11-16"
   - "Éphésiens 5:27"
+original: "branham/1964/64-0120"
 ---
 *Ses infaillibles paroles de promesses*
 *His Unfailing Words of Promise*

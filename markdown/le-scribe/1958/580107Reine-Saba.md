@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 3:29"
   - "Matthieu 12:42"
   - "Romains 9:16"
+original: "branham/1958/58-0107"
 ---
 *Résumé de : “La reine de Saba” (7 janvier 1958, soir)*
 

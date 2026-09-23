@@ -51,6 +51,7 @@ bible_refs:
   - "Luc 4:5-9"
   - "Proverbes 30:8"
   - "Zacharie 14:7"
+original: "branham/1958/58-0520"
 ---
 *Le signe du temps* (20 mai 1958, soir)
 

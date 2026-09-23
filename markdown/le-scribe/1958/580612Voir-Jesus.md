@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 8:58"
   - "Marc 3:28-29"
   - "Zacharie 13:7"
+original: "branham/1958/58-0612"
 ---
 *Résumé de : “Nous voudrions voir Jésus” (12 juin 1958, soir)*
 

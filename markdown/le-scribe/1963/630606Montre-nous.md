@@ -50,6 +50,7 @@ bible_refs:
   - "Marc 5:24-34"
   - "Marc 7:13"
   - "Ésaïe 35:8"
+original: "branham/1963/63-0606"
 ---
 **Résumé de!: “Montre-nous le Père” (6 Juin 1963, soir)**
 

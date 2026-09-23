@@ -49,8 +49,6 @@ bible_refs:
   - "Apocalypse 17"
   - "Apocalypse 19"
   - "Apocalypse 2"
-  - "Esther 153"
-  - "Esther 199"
   - "Esther 9"
   - "Jean 14"
   - "Joël 2"

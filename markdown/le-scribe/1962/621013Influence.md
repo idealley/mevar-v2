@@ -58,6 +58,7 @@ bible_refs:
   - "Psaumes 34:8"
   - "Éphésiens 4:11-12"
   - "Ésaïe 6:1-8"
+original: "branham/1962/62-1013"
 ---
 **Résumé de!: “L’influence d’un autre” (13 Octobre1962, soir)**
 

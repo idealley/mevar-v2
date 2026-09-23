@@ -53,6 +53,7 @@ bible_refs:
   - "Romains 5:10"
   - "Ésaïe 32:1-2"
   - "Ésaïe 40:31"
+original: "branham/1962/62-0518"
 ---
 **1.** [Prière]. Que les anges de Dieu prennent position au milieu de nous. J’ai entendu des frères Pentecôtistes annoncer la venue d’un grand réveil. Le réveil que nous avons connu a cessé, mais quelque chose de glorieux doit venir. Après une longue étude des Ecritures, je commence à croire que vient le temps de la récolte pour les fruits du soir. Rome a coupé l’Arbre parfait porteur de fruits parfaits, et l’a pendu à un bois fait de main d’homme. Mais au troisième jour, il est ressuscité. L’Arbre de l’Epouse est venu est a été coupé lui aussi par l’ennemi au Moyen Age, mais Dieu avait promis de restaurer. Il a été émondé avec Luther, puis avec les Méthodistes, puis avec les Pentecôtistes, mais sous la Lumière du soir le fruit mûrit à son sommet. Lisons Proverbes 18:10
 

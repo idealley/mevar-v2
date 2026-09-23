@@ -46,6 +46,7 @@ bible_refs:
   - "Josué 1:3"
   - "Lévitique 14:1-7"
   - "Proverbes 18:10"
+original: "branham/1962/62-0121E"
 ---
 **LES NOCES DE L'AGNEAU**
 *MARRIAGE OF THE LAMB*

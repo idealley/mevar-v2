@@ -73,6 +73,7 @@ bible_refs:
   - "Zacharie 14:7"
   - "Éphésiens 2:1-2"
   - "Ésaïe 14:12-14"
+original: "branham/1965/65-0801M"
 ---
 **Résumé de : “Le dieu de cet âge mauvais” (1er août 1965, matin)**
 

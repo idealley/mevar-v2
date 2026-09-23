@@ -57,6 +57,7 @@ bible_refs:
   - "Marc 9:42,16"
   - "Matthieu 17:1"
   - "Ézéchiel 9:4"
+original: "branham/1958/58-0328"
 ---
 *Résumé de : “Ecoutez-le” (28 mars 1958, soir)*
 

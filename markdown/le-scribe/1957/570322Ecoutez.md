@@ -59,6 +59,7 @@ bible_refs:
   - "Nombres 19:1-22"
   - "Éphésiens 1:5"
   - "Ézéchiel 9:4"
+original: "branham/1957/57-0322"
 ---
 **1.** [Prière, salutations]. Après le séisme ressenti aujourd'hui, ce serait bien de parler de la seconde venue de Christ, mais il y en aura d'autres, et cela nous rappelle que Jésus est vivant et que sa Parole est véridique.
 

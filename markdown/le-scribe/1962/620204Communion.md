@@ -54,6 +54,7 @@ bible_refs:
   - "Jean 6:57"
   - "Proverbes 18:10"
   - "Ésaïe 40:2"
+original: "branham/1962/62-0204"
 ---
 **Résumé de!: “Communion” [4 février 1962, soir]**
 

@@ -58,6 +58,7 @@ bible_refs:
   - "Luc 17:28"
   - "Philippiens 3:10"
   - "Psaumes 1:3"
+original: "branham/1964/64-0206E"
 ---
 **Résumé de!: “La voie de Dieu pourvue en ce jour” (6 février 1964, soir)**
 

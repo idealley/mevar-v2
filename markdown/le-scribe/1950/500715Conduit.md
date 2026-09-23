@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "2 Rois 4:8-37"
   - "Matthieu 9:27"
+original: "branham/1950/50-0715"
 ---
 **CONDUIT PAR L'ESPRIT**
 *LED BY THE SPIRIT*

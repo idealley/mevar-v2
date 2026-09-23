@@ -58,6 +58,7 @@ bible_refs:
   - "Matthieu 15:9"
   - "Matthieu 16:18"
   - "Matthieu 19:8"
+original: "branham/1959/59-1125"
 ---
 “Il n’en était pas ainsi au commencement” (25 novembre 1959)
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Marc 16:18,9"
   - "Romains 8:37"
   - "Éphésiens 4:30"
+original: "branham/1964/64-0322"
 ---
 **Résumé de!: “Possédant les portes de l’ennemi après l’épreuve” (22 mars 1964)**
 

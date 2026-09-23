@@ -42,6 +42,7 @@ bible_refs:
   - "Jacques 4:4"
   - "Jean 14:12"
   - "Juges 16:10-20"
+original: "branham/1959/59-0628M"
 ---
 *Résumé de!: “Une église séduite par le monde” (28 juin 1959, matin)*
 

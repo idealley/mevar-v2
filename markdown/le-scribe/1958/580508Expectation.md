@@ -65,6 +65,7 @@ bible_refs:
   - "Luc 2:36-38"
   - "Marc 16:15-18"
   - "Ésaïe 9:5"
+original: "branham/1958/58-0508"
 ---
 **1.** [Prière]. C’est notre dernière soirée. Mais nous nous reverrons au Ciel, et Dieu a pour ceux qui l’aiment des choses que l’œil n’a pas vues. Aimez le Seigneur Jésus et donnez gloire au Père. Priez pour le salut des perdus et la guérison des malades. La guérison ne vient pas avec un évangéliste de passage, même si Dieu l’utilise, mais Dieu est dans l’Eglise, il est en vous. Il vous guérira quand vous croirez.
 

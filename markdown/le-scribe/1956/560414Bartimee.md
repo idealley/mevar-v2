@@ -46,6 +46,7 @@ bible_refs:
   - "Marc 11:24"
   - "Marc 16"
   - "Matthieu 26:39"
+original: "branham/1956/56-0414"
 ---
 **Résumé de : ”L’aveugle Bartimée” (14 avril 1956)**
 

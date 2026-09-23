@@ -62,6 +62,7 @@ bible_refs:
   - "Romains 3:4"
   - "Romains 4:19"
   - "Romains 4:20-21"
+original: "branham/1963/63-0825E"
 ---
 **LA FOI PARFAITE**
 

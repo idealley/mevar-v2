@@ -45,13 +45,11 @@ themes:
 pdf_url: "http://cmpp.ch/7sceaux2.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Actes 151"
   - "Apocalypse 1"
   - "Apocalypse 10"
   - "Apocalypse 11"
   - "Apocalypse 5"
   - "Genèse 49"
-  - "Jean 161"
   - "Lévitique 25"
   - "Malachie 4"
   - "Romains 8"

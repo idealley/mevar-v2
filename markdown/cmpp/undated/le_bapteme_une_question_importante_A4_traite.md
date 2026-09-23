@@ -48,8 +48,6 @@ bible_refs:
   - "Jean 17"
   - "Luc 24"
   - "Matthieu 28"
-  - "Néhémie 7"
-  - "Psaumes 9"
   - "Romains 13"
   - "Romains 6"
   - "Éphésiens 1"

@@ -52,6 +52,7 @@ bible_refs:
   - "Matthieu 4:17"
   - "Romains 3:4"
   - "Romains 4:20"
+original: "branham/1962/62-0713"
 ---
 **Résumé de!: “Dès ce moment” (13 juillet 1962, soir)**
 

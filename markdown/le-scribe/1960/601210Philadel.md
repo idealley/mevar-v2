@@ -86,7 +86,7 @@ bible_refs:
   - "Jean 17:12"
   - "Jean 17:17"
   - "Jean 6:44"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Luc 10:17-20"
   - "Matthieu 1:18"
   - "Matthieu 28:19"
@@ -97,6 +97,7 @@ bible_refs:
   - "Éphésiens 2:19-20"
   - "Éphésiens 3:14-15"
   - "Ésaïe 9:5"
+original: "branham/1960/60-1210"
 ---
 **Résumé de!:** “L’âge de l’église de Philadelphie” (10 décembre 1960, soir)
 
@@ -114,7 +115,7 @@ Thème central : Etude du message adressé à l’ange de l’Eglise de Philadel
 
 **18.** à 25- Récapitulons. Le premier âge a été celui d’Ephèse, et a duré de 55, date de la fondation de l’église d’Ephèse par Paul, son ange, jusqu’en 170. Le second âge a été celui de Smyrne qui a duré de 170 à 312, et dont l’ange fut Irénée. Le troisième âge a été celui de Pergame qui a duré de 312 à 606, et dont l’ange fut Martin. L’âge suivant a été celui de Thyatire qui a duré de 606 à 1520, et dont l’ange fut Colomban. L’âge suivant a été celui de Sardes qui a duré de 1520 à 1750, et dont l’ange fut Luther. Ce soir nous étudions l’âge de Philadelphie, qui a duré de 1750 à 1906, et dont l’ange a été John Wesley [1703-1791]. Ces églises exprimaient les caractères de chaque âge correspondant. Nous mettrons les détails historiques dans le livre, car nous sommes rassemblés pour recevoir ce qui est donné par inspiration, assis ensemble dans les lieux célestes en Jésus-Christ.
 
-**26.** à 34- Hier soir, nous avons étudié Sardes qui est une église à la fois “morte” et “rescapée” comme l’indique son nom. Elle est morte sous la longue domination papale de l’âge des ténèbres. C’est le niveau le plus bas jamais atteint par le christianisme, et qu’il n’atteindra jamais plus, même comparé à Laodicée. Retenez que, quoi qu’il arrive durant un âge, cela se poursuit durant les autres âges, et tous les âges se chevauchent. Un âge passe, et un ange vient entre les deux pour restaurer la foi perdue. “Combattez pour la foi qui a été transmise aux saints une fois pour toutes” [Jude 3]. C’est à Sardes que l’église, née à Thyatire, s’est mariée. Nous verrons demain que c’est à la fin que l’ange apparaît pour reprocher à l’église la perte de son premier amour, comme cela a eu lieu tout au long des âges, et pour essayer de la ramener. Et l’Eglise est enlevée à la Maison au temps du message. Nous nous en approchons.
+**26.** à 34- Hier soir, nous avons étudié Sardes qui est une église à la fois “morte” et “rescapée” comme l’indique son nom. Elle est morte sous la longue domination papale de l’âge des ténèbres. C’est le niveau le plus bas jamais atteint par le christianisme, et qu’il n’atteindra jamais plus, même comparé à Laodicée. Retenez que, quoi qu’il arrive durant un âge, cela se poursuit durant les autres âges, et tous les âges se chevauchent. Un âge passe, et un ange vient entre les deux pour restaurer la foi perdue. “Combattez pour la foi qui a été transmise aux saints une fois pour toutes” [Jude 1:3]. C’est à Sardes que l’église, née à Thyatire, s’est mariée. Nous verrons demain que c’est à la fin que l’ange apparaît pour reprocher à l’église la perte de son premier amour, comme cela a eu lieu tout au long des âges, et pour essayer de la ramener. Et l’Eglise est enlevée à la Maison au temps du message. Nous nous en approchons.
 
 **35.** à 41- John Wesley est né le 17 juin 1703 à Epworth, Angleterre, le 15e de dix-neuf enfants de son père pasteur et de Suzanne, une sainte qui trouvait le temps d’enseigner la Bible à ses enfants. Charles, le frère de John, a composé des cantiques très inspirés. John a été associé à Georges Whitefield, et ils furent les premiers messagers de la sanctification. Pendant 50 ans, John se levait chaque matin à 4 heures, prêchait à 5 heures. Il prêchait deux à quatre fois par jour, et parcourait à cheval 4 500 miles par an ! Beaucoup se sont moqués de lui, mais ils sont aujourd’hui oubliés. Il a prêché plus de 40 mille sermons. On l’a appelé “Méthodiste” à cause de sa façon de faire. Cet âge “Méthodiste” sort un peu de Philadelphie et chevauche l’âge “Pentecôtiste” de Laodicée.
 

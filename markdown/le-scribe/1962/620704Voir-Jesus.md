@@ -69,6 +69,7 @@ bible_refs:
   - "Marc 8:22"
   - "Nombres 27:21"
   - "Zacharie 14:7"
+original: "branham/1962/62-0704"
 ---
 **1.** Je ne viens pas pour guérir les malades, mais pour prier pour eux. Un fusil Winchester m'a été offert, des amis l'ont fait transformer en Weatherby, et il m'a explosé à la figure. La pression avait été trop forte. Nous aussi, nous devons éviter la pression pour ne pas exploser. Si ce fusil avait été un Weatherby d'origine, il n'aurait pas explosé : une partie seulement avait été convertie, et il n'a donc pas pu supporter la pression. Un chrétien mort à ses propres pensées, Né de nouveau, passé de la mort à la Vie, peut supporter la pression que le Saint-Esprit lui impose. Mais il y a trop de religiosité psychique aujourd'hui.
 

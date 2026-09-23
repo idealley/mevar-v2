@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 4:4"
   - "Matthieu 8:8"
   - "Proverbes 13:24"
+original: "branham/1959/59-0812"
 ---
 “Discerner le Corps du Seigneur” (12 août 1959)
 

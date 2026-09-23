@@ -63,6 +63,7 @@ bible_refs:
   - "Matthieu 28:20"
   - "Psaumes 103:3"
   - "Zacharie 14:7"
+original: "branham/1960/60-1126"
 ---
 **1.** [Prière] …
 **2.** Nous n’avons pas distribué de cartes de prière en prévision d’une séance de baptêmes

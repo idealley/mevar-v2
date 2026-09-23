@@ -55,6 +55,7 @@ bible_refs:
   - "Matthieu 17:1"
   - "Matthieu 3:9"
   - "Ésaïe 28:11-12"
+original: "branham/1960/60-0313"
 ---
 **1.** Que les frères s'approchent pour que nous imposions les mains sur ces linges. On nous demande souvent de les oindre, mais si on examine les Ecritures, Paul ne les oignait pas : ils avaient seulement touché son corps. Nous allons donc prier sur eux. Priez avec nous. [Prière] …
 

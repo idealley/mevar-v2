@@ -62,6 +62,7 @@ bible_refs:
   - "Romains 8:30"
   - "Zacharie 14:7"
   - "Ésaïe 52:11"
+original: "branham/1962/62-0705"
 ---
 **Résumé de!: “Jehova-Jiré . Première partie” (5 juillet 1962, soir)**
 

@@ -42,7 +42,6 @@ bible_refs:
   - "2 Corinthiens 5"
   - "Apocalypse 10"
   - "Apocalypse 19"
-  - "Esther 17"
   - "Exode 33"
   - "Genèse 1"
   - "Genèse 18"

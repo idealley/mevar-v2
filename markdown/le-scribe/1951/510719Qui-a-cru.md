@@ -52,6 +52,7 @@ bible_refs:
   - "Jean 14:10"
   - "Jean 5:1"
   - "Ésaïe 53:1"
+original: "branham/1951/51-0719"
 ---
 **1.** Mon épouse va peut-être me rejoindre pendant la réunion. Nous avons reçu parfois plus de soixante appels téléphoniques par heure, jour et nuit, et des gens attendent à la porte. Mais nous sommes heureux de le servir. Je suis heureux de voir le Sénateur Upshaw présent. Il était l’une de ces personnes importantes auxquelles l’Ange avait fait allusion et que je devais rencontrer. Comment croire cela ! Mon premier choc a été lorsque le roi George d’Angleterre m’a envoyé un télégramme afin que j’aille prier pour sa sclérose en plaques, et Dieu l’a guéri. Mr. Upshaw était Sénateur de Georgie, et candidat à la Présidence vers 1919.
 

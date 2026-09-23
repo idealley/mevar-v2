@@ -46,6 +46,7 @@ bible_refs:
   - "Proverbes 14:12"
   - "Ésaïe 53:5"
   - "Ézéchiel 36:26-27"
+original: "branham/1956/56-0121"
 ---
 **LE VOILE INTERIEUR**
 *THE INTER VEIL*

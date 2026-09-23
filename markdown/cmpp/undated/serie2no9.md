@@ -45,7 +45,6 @@ bible_refs:
   - "1 Rois 10"
   - "2 Pierre 3"
   - "Apocalypse 22"
-  - "Esther 79"
   - "Hébreux 13"
   - "Hébreux 4"
   - "Hébreux 6"

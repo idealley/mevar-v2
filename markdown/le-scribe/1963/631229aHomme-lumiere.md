@@ -82,6 +82,7 @@ bible_refs:
   - "Ésaïe 42:1-7"
   - "Ésaïe 7:14"
   - "Ésaïe 9:5"
+original: "branham/1963/63-1229M"
 ---
 **Résumé de!: “Il y a un homme ici qui peut faire la lumière” (29 décembre 1963 matin)**
 

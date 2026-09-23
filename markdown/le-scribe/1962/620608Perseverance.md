@@ -56,6 +56,7 @@ bible_refs:
   - "Jean 11:24"
   - "Jean 6:44"
   - "Matthieu 15:21-28"
+original: "branham/1962/62-0608"
 ---
 **Résumé de!: “Persévérance” (8 juin 1963, soir)**
 

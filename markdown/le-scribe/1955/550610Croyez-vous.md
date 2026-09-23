@@ -39,6 +39,7 @@ bible_refs:
   - "Actes 19:12"
   - "Jean 16:29"
   - "Ésaïe 49:15-16"
+original: "branham/1955/55-0610"
 ---
 Résumé de : “Croyez-vous maintenant ?” (10 juin 1955, soir)
 

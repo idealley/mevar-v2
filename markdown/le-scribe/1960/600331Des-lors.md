@@ -48,6 +48,7 @@ bible_refs:
   - "Matthieu 25:40-42"
   - "Matthieu 4:16-17"
   - "Romains 4:17"
+original: "branham/1960/60-0331"
 ---
 **1.** [Prière] …
 

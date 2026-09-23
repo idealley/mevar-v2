@@ -52,6 +52,7 @@ bible_refs:
   - "Psaumes 42:2"
   - "Ésaïe 1:18"
   - "Ésaïe 40:31"
+original: "branham/1959/59-0125"
 ---
 *Résumé de!: “Comptez sur Dieu” (25 janvier 1959, matin)*
 

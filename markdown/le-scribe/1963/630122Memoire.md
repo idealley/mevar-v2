@@ -75,6 +75,7 @@ bible_refs:
   - "Marc 16:17-18"
   - "Marc 3:29"
   - "Ésaïe 6:5"
+original: "branham/1963/63-0122"
 ---
 *En souvenir du Seigneur*
 *22 Janvier 1963, mardi soir, Phœnix (Arizona)*

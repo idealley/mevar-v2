@@ -58,6 +58,7 @@ bible_refs:
   - "Matthieu 12:42"
   - "Romains 10:17"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0208"
 ---
 **1.** [Prière]. Si vous désirez entendre ce que le Seigneur vous a dit dans la ligne de prière, les enregistrements sont disponibles ce soir, mais pas demain, car nous n'autorisons aucune vente le dimanche. C'est le même Esprit qui agit dans la prédication et pour la guérison des malades, mais l'onction est différente, et ce n'est pas très bon de passer de l'une à l'autre. C'est pourquoi j'aime d'abord prêcher plusieurs soirs, et je dois raccourcir les lignes de prière. Le surnaturel consomme une partie de votre vitalité. Vingt minutes de prédication inspirée sont plus épuisantes que huit heures à pelleter. Et une vision est plus épuisante que deux heures de prédication, mais je ne peux pas expliquer cela, et je ne le comprends pas moi-même. Lisons Matthieu 12:42
 

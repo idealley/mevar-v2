@@ -50,6 +50,7 @@ bible_refs:
   - "Matthieu 14:58"
   - "Matthieu 17:1-5"
   - "Ésaïe 49:15-16"
+original: "branham/1956/56-1215"
 ---
 Résumé de : “Ecoutez-le” (15 décembre 1956)
 

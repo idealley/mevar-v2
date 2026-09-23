@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 5:24"
   - "Jean 8:32"
   - "Nombres 20:7-11"
+original: "branham/1955/55-0224"
 ---
 **Résumé de : “L’Eau du Rocher” (24 février 1955, soir)**
 

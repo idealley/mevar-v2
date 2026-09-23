@@ -87,6 +87,7 @@ bible_refs:
   - "Malachie 4"
   - "Malachie 4:5"
   - "Marc 10:47"
+original: "branham/1964/64-0614M"
 ---
 **Résumé de!: “Dieu dévoilé” (14 juin1964 matin)**
 

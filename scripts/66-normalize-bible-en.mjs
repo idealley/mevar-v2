@@ -48,7 +48,9 @@ const BOOKS = [
   ["Ezekiel", "Ezek", "Ez", "Eze"],
   ["Daniel", "Dan", "Dn", "Da"],
   ["Hosea", "Hos", "Ho"],
-  ["Joel", "Jl"],
+  // "Joël" is what the French pass left in these English transcripts —
+  // 47 of its 48 occurrences here are real Joel citations, mostly Joel 2:28.
+  ["Joel", "Joël", "Jl"],
   ["Amos", "Am"],
   ["Obadiah", "Obad", "Ob"],
   ["Jonah", "Jon", "Jnh"],
@@ -86,7 +88,8 @@ const BOOKS = [
   ["2 John", "2 Jn", "2Jn", "2Jo", "2J", "II John", "II Jn", "Second John"],
   ["3 John", "3 Jn", "3Jn", "3Jo", "3J", "III John", "III Jn", "Third John"],
   ["Jude", "Jud", "Jd"],
-  ["Revelation", "Revelations", "Rev", "Rv", "Re", "Apoc", "Apocalypse"],
+  // no "Re": it only ever matched the "re" of "you're 28" plus a page number.
+  ["Revelation", "Revelations", "Rev", "Rv", "Apoc", "Apocalypse"],
 ];
 
 function normForMatch(s) {
@@ -121,12 +124,42 @@ const REF_RE = new RegExp(
   "(?:" +
   "\\s*[:,]\\s*" +
   "(\\d{1,3})" +
-  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3}))?" +
+  // optional verse end (group 4) — not one that is itself followed by
+  // ":<digit>", a new chapter:verse, so "Hebrews 8:13-13:8" does not read
+  // "13" as the end of a range.
+  "(?:\\s*[\\-\\u2013\\u2014]\\s*(\\d{1,3})(?!\\s*:\\s*\\d))?" +
   "(?:\\s*[,;]\\s*(\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?(?:\\s*[,;]\\s*\\d{1,3}(?:\\s*[\\-\\u2013\\u2014]\\s*\\d{1,3})?)*))?" +
   ")?" +
   "(?![\\d])",
   "giu",
 );
+
+// ─── Impossible references ───────────────────────────────────────────────────
+// "Zephaniah 155" is a book name followed by a paragraph number, not a chapter.
+// Max chapter per book.
+const MAX_CHAPTER = {
+  "Genesis": 50, "Exodus": 40, "Leviticus": 27, "Numbers": 36,
+  "Deuteronomy": 34, "Joshua": 24, "Judges": 21, "Ruth": 4, "1 Samuel": 31,
+  "2 Samuel": 24, "1 Kings": 22, "2 Kings": 25, "1 Chronicles": 29,
+  "2 Chronicles": 36, "Ezra": 10, "Nehemiah": 13, "Esther": 10, "Job": 42,
+  "Psalms": 150, "Proverbs": 31, "Ecclesiastes": 12, "Song of Solomon": 8,
+  "Isaiah": 66, "Jeremiah": 52, "Lamentations": 5, "Ezekiel": 48, "Daniel": 12,
+  "Hosea": 14, "Joel": 3, "Amos": 9, "Obadiah": 1, "Jonah": 4, "Micah": 7,
+  "Nahum": 3, "Habakkuk": 3, "Zephaniah": 3, "Haggai": 2, "Zechariah": 14,
+  "Malachi": 4, "Matthew": 28, "Mark": 16, "Luke": 24, "John": 21, "Acts": 28,
+  "Romans": 16, "1 Corinthians": 16, "2 Corinthians": 13, "Galatians": 6,
+  "Ephesians": 6, "Philippians": 4, "Colossians": 4, "1 Thessalonians": 5,
+  "2 Thessalonians": 3, "1 Timothy": 6, "2 Timothy": 4, "Titus": 3,
+  "Philemon": 1, "Hebrews": 13, "James": 5, "1 Peter": 5, "2 Peter": 3,
+  "1 John": 5, "2 John": 1, "3 John": 1, "Jude": 1, "Revelation": 22,
+};
+const MAX_VERSE = 176; // Psalm 119
+
+let dropped = 0;
+function isPossible(book, chapter, verses) {
+  if (Number(chapter) > MAX_CHAPTER[book]) return false;
+  return !verses.some((v) => Number(v) > MAX_VERSE);
+}
 
 function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
   let out = `${book} ${chapter}`;
@@ -149,6 +182,15 @@ function normalize(md) {
   const out = md.replace(REF_RE, (match, bookVariant, chap, verseStart, verseEnd, extra) => {
     const canonical = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
     if (!canonical) return match;
+    // A one-chapter book cited without a verse ("Jude 23"): the number is the
+    // verse. "Jude 1" alone stays the chapter, which is the whole book.
+    if (MAX_CHAPTER[canonical] === 1 && !verseStart && chap !== "1") [chap, verseStart] = ["1", chap];
+    const verses = [verseStart, verseEnd, ...(extra ?? "").split(/\D+/)].filter(Boolean);
+    if (!isPossible(canonical, chap, verses)) {
+      // A paragraph number, not a chapter — leave the text alone, record nothing.
+      dropped++;
+      return match;
+    }
     const rendered = renderRef({
       book: canonical,
       chapter: chap,
@@ -162,9 +204,13 @@ function normalize(md) {
   return { md: out, refs: [...new Set(found)].sort() };
 }
 
-function* walk(dir) {
-  for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
-    const p = path.join(dir, ent.name);
+function* walk(target) {
+  if (fs.statSync(target).isFile()) {
+    if (target.endsWith(".md")) yield target;
+    return;
+  }
+  for (const ent of fs.readdirSync(target, { withFileTypes: true })) {
+    const p = path.join(target, ent.name);
     if (ent.isDirectory()) yield* walk(p);
     else if (ent.isFile() && p.endsWith(".md")) yield p;
   }
@@ -179,6 +225,7 @@ const sources = targets.length > 0
   : [path.join(root, "markdown", "branham")];
 
 const refsByFile = {};
+const scanned = [];
 let totalFiles = 0, totalRefs = 0, modified = 0;
 const refsBySource = {};
 
@@ -187,6 +234,7 @@ for (const sourceDir of sources) {
   refsBySource[sourceName] = { files: 0, refs: 0, unique: new Set() };
   for (const file of walk(sourceDir)) {
     totalFiles++;
+    scanned.push(path.relative(root, file));
     refsBySource[sourceName].files++;
     const text = fs.readFileSync(file, "utf8");
     const fmMatch = text.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/);
@@ -210,16 +258,21 @@ console.log(`English bible refs normalized:`);
 console.log(`  files scanned: ${totalFiles}`);
 console.log(`  files modified: ${modified}`);
 console.log(`  total ref instances: ${totalRefs}`);
+console.log(`  impossible refs dropped: ${dropped}`);
 console.log(`  by source:`);
 for (const [src, s] of Object.entries(refsBySource)) {
   console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
 }
 
 if (!dryRun) {
-  // Merge with existing bible-refs.json (don't overwrite French refs)
-  const existingPath = path.join(root, "manifests/bible-refs.json");
-  const existing = fs.existsSync(existingPath) ? JSON.parse(fs.readFileSync(existingPath, "utf8")) : {};
-  for (const [k, v] of Object.entries(refsByFile)) existing[k] = v;
-  fs.writeFileSync(existingPath, JSON.stringify(existing, null, 2));
-  console.log(`  merged into manifests/bible-refs.json`);
+  // Merge with existing bible-refs.json (don't overwrite French refs).
+  // A scanned file with no refs left loses its key.
+  const outPath = path.join(root, "manifests/bible-refs.json");
+  const merged = JSON.parse(fs.readFileSync(outPath, "utf8"));
+  for (const rel of scanned) {
+    if (refsByFile[rel]) merged[rel] = refsByFile[rel];
+    else delete merged[rel];
+  }
+  fs.writeFileSync(outPath, JSON.stringify(merged, null, 2));
+  console.log(`  merged ${scanned.length} scanned files into manifests/bible-refs.json (${Object.keys(merged).length} keys)`);
 }

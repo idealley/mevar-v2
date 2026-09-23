@@ -54,6 +54,7 @@ bible_refs:
   - "Job 42:8"
   - "Matthieu 19:14"
   - "Psaumes 16:10"
+original: "branham/1952/52-0718"
 ---
 “J’écouterai par égard pour lui seul” (18.07.1952)
 

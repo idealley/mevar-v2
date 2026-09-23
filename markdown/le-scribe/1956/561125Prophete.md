@@ -46,6 +46,7 @@ pdf_url: "http://le-scribe.org/pdfiles/561125Prophete.pdf"
 llm_cleaned: true
 bible_refs:
   - "Esdras 9:1-5"
+original: "branham/1956/56-1125E"
 ---
 **1.** Nous avons parlé ce matin du prophète revêtu d'une tunique de seconde main. Nous portons nous aussi une tunique de seconde main qui est considérée par Dieu comme étant justice en Christ Jésus. Nous ne prenons pas la tunique mitée d'une théologie humaine qui dit que le temps des miracles est fini, et qu'il n'y a plus d'omniprésence du Saint-Esprit aujourd'hui. [Enregistrement interrompu] … Nous ne comptons pas sur nos aptitudes, mais sur celle de Jésus-Christ. Quand j'arriverai au Jourdain, à la sombre porte que chacun de nous doit franchir, je veux avoir cette tunique. Je suis heureux de ne pas me retrouver là-bas en croyant avoir fait de grandes choses, mais en me reconnaissant comme étant un pécheur revêtu de sa justice, et comme possédant le témoignage que je connais Jésus dans la puissance de sa résurrection, afin de m'avancer quand il appellera les morts.
 

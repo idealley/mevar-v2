@@ -49,6 +49,7 @@ bible_refs:
   - "Marc 16"
   - "Matthieu 12:42"
   - "Éphésiens 4:11"
+original: "branham/1956/56-1001"
 ---
 **LE MINISTERE EXPLIQUE**
 *THE MINISTRY EXPLAINED*

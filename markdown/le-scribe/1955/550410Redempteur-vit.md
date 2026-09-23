@@ -42,6 +42,7 @@ bible_refs:
   - "Matthieu 27:52-53"
   - "Psaumes 16:9-10"
   - "Ésaïe 9:6"
+original: "branham/1955/55-0410S"
 ---
 **1.** Je vous salue en ce matin de Pâque où nous célébrons le plus grand de tous les évènements, la Résurrection de notre Seigneur Jésus. Toute notre espérance repose là-dessus. Job avait vu ce jour. Lisons ces quelques mots de Job 19:25 :
 > "Je sais que mon Rédempteur est vivant".

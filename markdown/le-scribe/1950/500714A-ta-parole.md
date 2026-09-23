@@ -52,6 +52,7 @@ bible_refs:
   - "Luc 5:1"
   - "Luc 8:51,53"
   - "Marc 7:33"
+original: "branham/1950/50-0714"
 ---
 **SUR TA PAROLE SEIGNEUR**
 *AT THY WORD LORD*

@@ -59,6 +59,7 @@ bible_refs:
   - "Matthieu 23:29"
   - "Nombres 20:7-12"
   - "Romains 10:17"
+original: "branham/1957/57-0805"
 ---
 **1.** [Prière]. Lisons Matthieu 12:42
       “La reine du Midi se lèvera, au jour du jugement, avec cette génération et la condamnera, parce qu'elle vint des extrémités de la terre pour entendre la sagesse de Salomon, et voici, il y a ici plus que Salomon.”

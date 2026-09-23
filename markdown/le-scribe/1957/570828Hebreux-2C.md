@@ -46,6 +46,7 @@ bible_refs:
   - "Hébreux 2:17-18"
   - "Hébreux 7:3"
   - "Jean 6:31,33,49,50"
+original: "branham/1957/57-0828"
 ---
 **Résumé de!: “Hébreux, chapitre 2, troisième partie” (28 août 1957, soir)**
 

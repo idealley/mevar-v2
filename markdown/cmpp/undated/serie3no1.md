@@ -56,7 +56,6 @@ llm_cleaned: true
 bible_refs:
   - "2 Timothée 4"
   - "Genèse 1"
-  - "Malachie 54"
   - "Nombres 16"
   - "Romains 8"
 ---

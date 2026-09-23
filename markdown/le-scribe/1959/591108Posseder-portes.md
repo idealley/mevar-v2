@@ -61,6 +61,7 @@ bible_refs:
   - "Marc 16:17"
   - "Nombres 14"
   - "Nombres 24:9"
+original: "branham/1959/59-1108"
 ---
 *Résumé de!: “Possédant les portes de l'ennemi” (8 novembre 1959, matin)*
 

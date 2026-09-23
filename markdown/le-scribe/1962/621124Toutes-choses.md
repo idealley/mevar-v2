@@ -49,6 +49,7 @@ bible_refs:
   - "Romains 8:32"
   - "Ésaïe 1"
   - "Ésaïe 53:5"
+original: "branham/1962/62-1124E"
 ---
 *Résumé de!: “Toutes choses” (24 novembre 1962, soir)*
 

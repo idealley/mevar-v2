@@ -50,6 +50,7 @@ bible_refs:
   - "Luc 2:25-30"
   - "Nombres 24:17"
   - "Romains 10:17"
+original: "branham/1951/51-0714"
 ---
 **1 à 5**- Je n’ai jamais vu l’Esprit de Dieu tomber aussi rapidement qu’hier soir. J’étais épuisé, et quand la Lumière s’est répandue dans toute la salle, je ne pouvais plus parler. Je me souviens seulement des huissiers qui me conduisaient vers le parking. Le frère Baxter m’a dit que c’était la première fois qu’il se trouvait à terre ainsi. Merci pour les fleurs, le miel, les mûres, etc. J’aime aller à la pêche loin de la foule, et j’emporte du miel avec moi. Un jour, deux oursons étaient entrés sous ma tente et puisaient dans mon pot. Ils étaient couverts de miel comme dans une réunion du Saint-Esprit à l’ancienne mode !
 

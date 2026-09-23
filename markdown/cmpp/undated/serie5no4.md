@@ -46,7 +46,6 @@ pdf_url: "http://cmpp.ch/serie5no4.pdf"
 llm_cleaned: true
 bible_refs:
   - "Actes 2"
-  - "Esther 113"
   - "Genèse 24"
   - "Hébreux 13"
   - "Luc 24"

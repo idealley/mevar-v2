@@ -39,6 +39,7 @@ themes:
   - "discernement des esprits"
 pdf_url: "http://le-scribe.org/pdfiles/550826WMB-parle.pdf"
 llm_cleaned: true
+original: "branham/1955/55-0826"
 ---
 **1.** … elle s’est agenouillée, ce qui est une bonne façon de s’approcher, elle lui a donné son vrai Titre : “Seigneur, si tu avais été ici, mon frère ne serait pas mort.” Notez son respect. Face à la mort, elle croyait encore en lui. “Quoi que tu lui demanderas, Dieu te l’accordera.” Madame, vous ne pouvez pas quitter ce fauteuil, vous avez un cancer, et vous avez un problème cardiaque, les médecins ont fait de leur mieux, mais ne peuvent plus rien pour vous. Mais maintenant encore, Seigneur, “quoi que tu lui demanderas, Dieu te l’accordera.”
 

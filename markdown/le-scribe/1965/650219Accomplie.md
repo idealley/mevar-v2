@@ -85,6 +85,7 @@ bible_refs:
   - "Osée 11:1"
   - "Zacharie 14:7"
   - "Ésaïe 61:1-2"
+original: "branham/1965/65-0219"
 ---
 **AUJOURD'HUI CETTE ECRITURE EST ACCOMPLIE**
 *THIS DAY THIS SCRIPTURE IS FULFILLED*

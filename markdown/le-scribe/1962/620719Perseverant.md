@@ -65,6 +65,7 @@ bible_refs:
   - "Luc 17:26"
   - "Marc 7:24-30"
   - "Matthieu 15:21-28"
+original: "branham/1962/62-0719E"
 ---
 *Persévérant (ou Persévérance)*
 *19 juillet 1962, jeudi soir, Salem (Oregon)*

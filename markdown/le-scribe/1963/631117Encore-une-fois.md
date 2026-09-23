@@ -61,6 +61,7 @@ bible_refs:
   - "Marc 16:15-17"
   - "Marc 16:17-18"
   - "Marc 7:13"
+original: "branham/1963/63-1117"
 ---
 *Résumé de!: “Encore une fois” (17 novembre 1963, soir)*
 

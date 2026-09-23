@@ -83,7 +83,6 @@ bible_refs:
   - "Ecclésiaste 3"
   - "Esdras 1"
   - "Esdras 5"
-  - "Esther 640"
   - "Exode 25"
   - "Genèse 22"
   - "Genèse 5"
@@ -104,6 +103,7 @@ bible_refs:
   - "Nombres 4"
   - "Néhémie 1"
   - "Néhémie 10"
+  - "Néhémie 13"
 ---
 LES 70 SEMAINES DE DANIEL
 

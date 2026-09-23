@@ -51,6 +51,7 @@ bible_refs:
   - "Joël 1:4"
   - "Joël 2:25"
   - "Proverbes 14:12"
+original: "branham/1955/55-0607"
 ---
 **1.** Billy m’a prévenu il y a un instant que je devais prêcher ce soir parce que le frère Jack Moore n’était pas là. Le frère Baxter a été mon manager pendant des années, mais il n’est pas là car il est très occupé par d’autres réunions, et cela fait trop de fers au feu. Je suis la direction de l’Esprit du Seigneur, et c’est un peu difficile pour un manager. Il y avait quatre cents villes du pays qui m’attendaient. Parfois j’indique une direction, et le manager m’indique les endroits qui sont sur le chemin.
 

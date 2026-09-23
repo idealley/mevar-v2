@@ -30,7 +30,7 @@ bible_refs:
 series_id: "faire-front-par-la-foi"
 series: "Faire front par la Foi"
 series_part: 2
-series_total: 5
+series_total: 2
 ---
 Nous allons continuer et achever ce que nous avions commencé, parlant de la foi. C’est le deuxième point : _La foi et la bénédiction_. Cela rentre dans [le cadre de la première prédication](https://mevar.org/faire-front-par-la-foi-premiere-partie/) et aussi d’[une série de prédications que nous sommes en train de donner ces temps-ci](https://mevar.org/la-foi/). Après nous allons mettre tout cela dans un document et le relier pour le peuple de Dieu.
 

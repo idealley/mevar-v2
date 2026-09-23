@@ -60,7 +60,7 @@ bible_refs:
   - "1 Rois 21:19"
   - "1 Samuel 17:40"
   - "2 Rois 4:29"
-  - "3 Jean 2"
+  - "3 Jean 1:2"
   - "Daniel 12:1-7"
   - "Daniel 2"
   - "Exode 15:26"
@@ -73,7 +73,7 @@ bible_refs:
   - "Jean 15:7"
   - "Jean 4:4"
   - "Jean 5:24"
-  - "Jude 13"
+  - "Jude 1:13"
   - "Marc 11:22-24"
   - "Marc 16:17-18"
   - "Psaumes 91:7"
@@ -83,6 +83,7 @@ bible_refs:
   - "Éphésiens 2:6"
   - "Éphésiens 6:11"
   - "Ésaïe 59:19"
+original: "branham/1962/62-0311"
 ---
 *Résumé de!: “La plus grande bataille jamais livrée” (11 mars 1962, matin)*
 
@@ -111,7 +112,7 @@ Lisons aussi Daniel 12:1-7
 
 **6.** L'autre jour je contemplais l'immensité du ciel étoilé. Dieu a mis chaque étoile à sa place. Dieu se tient au milieu de cette armée céleste, regardant d’en haut. Paul s’y trouve. Le Ciel était comme une Bible du temps de Job, Jésus est venu avec le signe de la Vierge et revient avec le signe du Lion de Juda [NDT : cf. à ce sujet la “Companion Bible”, annexe 12]. Un seul dérèglement des astres, et la terre serait détruite. De même sur terre, le programme entier de Dieu est bouleversé quand un seul membre sort de l'ordre. Que l'Esprit place et maintienne ce matin chaque membre du Corps dans une parfaite harmonie, à sa place, pour la guérison de l'âme et du corps.
 
-**7.** Dieu attend seulement que son armée soit en position comme le sont les étoiles. Il n'y a que deux royaumes, deux puissances, dans le monde : celle de Dieu, et celle de Satan, ou encore celle de la vie et celle de la mort, et vous êtes dominé par l'une ou l'autre. La puissance de Satan est la puissance de Dieu pervertie, elle n'est pas réelle. La mort est la vie pervertie, le mensonge est la vérité pervertie, l’adultère est un acte juste perverti. Tout ce qui est de Satan est perverti. Nous ne voulons pas être des astres errants, des vagues rejetant l'écume de leurs impuretés [Jude 13]. Restez à votre poste comme les étoiles, avec la foi.
+**7.** Dieu attend seulement que son armée soit en position comme le sont les étoiles. Il n'y a que deux royaumes, deux puissances, dans le monde : celle de Dieu, et celle de Satan, ou encore celle de la vie et celle de la mort, et vous êtes dominé par l'une ou l'autre. La puissance de Satan est la puissance de Dieu pervertie, elle n'est pas réelle. La mort est la vie pervertie, le mensonge est la vérité pervertie, l’adultère est un acte juste perverti. Tout ce qui est de Satan est perverti. Nous ne voulons pas être des astres errants, des vagues rejetant l'écume de leurs impuretés [Jude 1:13]. Restez à votre poste comme les étoiles, avec la foi.
 
 **8.** Avant d'engager le combat, il faut réfléchir, l'armée doit vérifier si les motifs sont bons, si ses forces sont suffisantes. La plus grande bataille jamais livrée est prête à être engagée. Dieu est en train de choisir ses soldats et de les entraîner. C'est une bataille qui a commencé là où le péché à débuté, au Ciel, entre Michel et Lucifer, une bataille d’anges. Puis Satan a été chassé sur terre, et c'est devenu un combat humain sur la terre. Satan veut détruire ce que Dieu a créé pour lui-même. Le champ de bataille se trouve dans la pensée humaine. Les décisions se prennent en effet dans la tête, et c'est là que Satan vous rencontre, dans la pensée.
 
@@ -127,7 +128,7 @@ Lisons aussi Daniel 12:1-7
 
 **14.** Le champ de bataille est dans l'âme, dans la pensée qui est la porte de l’esprit. Votre pensée accepte ou rejette l'esprit. Cela n'a rien à voir avec des sensations. Quand votre pensée se ferme à votre conscience, à vos sentiments, à votre mémoire, et s'ouvre à l'Esprit de la Parole, alors le doute et la crainte sont chassés. Il ne reste que la Parole, la Vérité, et Satan ne peut combattre contre cela. Cette bataille dans la pensée humaine fait rage depuis Eden, quand Satan a enrobé et déformé une partie de la Parole, en proposant un chemin plus facile, plus raisonnable. Restez avec la Parole ! Satan est entré en Eve par le canal de son raisonnement, elle a ouvert sa pensée et s'est laissée séduire par ce serpent plus bel homme que son mari. Un homme ne peut pécher avant de rejeter premièrement la Parole et la Présence de Dieu. Tous les malheurs du monde viennent de cet instant en Eden. Renversez les raisonnements et appuyez-vous sur “Dieu a dit” !
 
-**15.** Utilisez la bombe de la foi en la Parole de Dieu qui, appuyée sur la Parole, pulvérisera tout démon et toute maladie ! Pourquoi cela agit-il avec certains et pas avec d'autres ? A cause du canal ! Il ne suffit pas de voir de l’extérieur, il faut que ce soit à l'intérieur. Cela ne peut pas venir par le raisonnement ou par les sens, mais par le canal de Dieu. Ne raisonnez pas, Dieu veut “que tu prospères à tous égards et sois en bonne santé” [3 Jean 2]. Si Satan passe par ces canaux de la raison, des sentiments, de la vue, etc., il ira jusqu'au fond de l'âme, dans la pensée, et il prendra alors la direction des choses. Il s’acharnera, mais il ne peut vous atteindre que si vous l'acceptez. C'est ainsi qu'il est entré en Eve. Jésus est vivant, Dieu guérit, voilà le message ! Prenez ce que Dieu dit.
+**15.** Utilisez la bombe de la foi en la Parole de Dieu qui, appuyée sur la Parole, pulvérisera tout démon et toute maladie ! Pourquoi cela agit-il avec certains et pas avec d'autres ? A cause du canal ! Il ne suffit pas de voir de l’extérieur, il faut que ce soit à l'intérieur. Cela ne peut pas venir par le raisonnement ou par les sens, mais par le canal de Dieu. Ne raisonnez pas, Dieu veut “que tu prospères à tous égards et sois en bonne santé” [3 Jean 1:2]. Si Satan passe par ces canaux de la raison, des sentiments, de la vue, etc., il ira jusqu'au fond de l'âme, dans la pensée, et il prendra alors la direction des choses. Il s’acharnera, mais il ne peut vous atteindre que si vous l'acceptez. C'est ainsi qu'il est entré en Eve. Jésus est vivant, Dieu guérit, voilà le message ! Prenez ce que Dieu dit.
 
 **16.** Abraham n'a pas raisonné quand Dieu lui a dit qu'il enfanterait malgré son âge. Agé de cent ans, il confessait encore la Parole de Dieu, parlant “des choses qui n'étaient point comme si elles étaient” [Romains 4:17]. L'espoir n'aurait servi à rien. N'espérez pas être guéri, ou être chrétien, ou obtenir le Saint-Esprit ! Abraham a cru contre tout espoir [Romains 4:18] ! La foi est au-delà de l'espérance, elle vient de l'intérieur, elle passe par la porte de la pensée, là où est la ligne de front.
 

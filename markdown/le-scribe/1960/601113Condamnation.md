@@ -75,6 +75,7 @@ bible_refs:
   - "Ésaïe 38:1-6"
   - "Ésaïe 53"
   - "Ésaïe 6:6"
+original: "branham/1960/60-1113"
 ---
 **1.** [Salutations. Instruction pour que tous les participants soient bien assis] …
 

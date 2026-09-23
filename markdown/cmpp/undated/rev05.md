@@ -48,7 +48,6 @@ bible_refs:
   - "Hébreux 4"
   - "Jean 1"
   - "Matthieu 28"
-  - "Nombres 203"
   - "Nombres 24"
 ---
 WILLIAM MARRION BRANHAM

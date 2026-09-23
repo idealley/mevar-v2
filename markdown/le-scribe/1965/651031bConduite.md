@@ -45,6 +45,7 @@ bible_refs:
   - "Luc 16:21"
   - "Marc 10:17-22"
   - "Éphésiens 6:2"
+original: "branham/1965/65-1031A"
 ---
 **1.** à **19.** Merci pour ces cadeaux, et j'ai beaucoup apprécié les chants de ces enfants, les prophètes et les prophétesses de l'âge à venir, s'il y en a un. J'ai vu qu'ils étaient élevés dans le Seigneur par leurs mères, comme Moïse par la sienne. Le premier commandement avec une promesse, celle d'une longue vie, est celui du respect dû aux parents [Éphésiens 6:2; Exode 20:12]. [Prière]. Lisons Marc 10:17-22
 

@@ -58,6 +58,7 @@ bible_refs:
   - "1 Timothée 6"
   - "2 Corinthiens 1"
   - "2 Corinthiens 11"
+  - "2 Corinthiens 4"
   - "2 Pierre 2"
   - "2 Thessaloniciens 2"
   - "2 Timothée 1"
@@ -93,7 +94,6 @@ bible_refs:
   - "Exode 20"
   - "Galates 1"
   - "Galates 6"
-  - "Genèse 2"
 ---
 # L'ANTICHRIST
 
@@ -895,7 +895,7 @@ Le Christ que l’église du pape présente n’est pas le Christ de Dieu; c’e
 
 Comme nous l’avons vu dans toutes les Ecritures que nous avons citées Christ Lui-même se référa toujours à la Parole de Dieu. C’est pourquoi nous devons une fois encore insister et dire qu’en appeler verbalement à Christ et n’avoir qu’une simple confession de Christ ne sert à rien si cela n’est pas tel que l’Ecriture le dit et l’exige. Chacun doit prendre sa décision pour soi-même et savoir en qui il veut croire et en qui il veut se confier. Nous ne pouvons donner ici qu’un conseil, c’est de s’expliquer d’une manière vraiment critique et rigoureuse dans les choses spirituelles et ne croire que Dieu et Sa Parole.
 
-Nous vivons maintenant peu avant l’achèvement du temps de la grâce. Toutes les vérités bibliques doivent à nouveau être remises sur le chandelier sans compromis. Dans les différents âges, ils furent nombreux les prédicateurs de réveils à publier les vérités bibliques qui avaient été perdues, et cela malgré l’opposition des églises établies. Beaucoup d’entre eux durent perdre leur vie à cause de la Parole de Dieu. Tous les véritables croyants sont appelés à combattre pour la foi qui a été transmise une fois pour toutes aux saints de Christ (Jude 3). Nous avons été placés maintenant dans la lutte spirituelle finale. Dans la mesure où nous nous trouvons aux côtés de Dieu, Il sera avec nous jusqu’à ce que de la foi nous passerons dans les choses que nous verrons. Les portes du séjour des morts ne prévaudront point contre l’Eglise de Dieu (Mat. 16.18).
+Nous vivons maintenant peu avant l’achèvement du temps de la grâce. Toutes les vérités bibliques doivent à nouveau être remises sur le chandelier sans compromis. Dans les différents âges, ils furent nombreux les prédicateurs de réveils à publier les vérités bibliques qui avaient été perdues, et cela malgré l’opposition des églises établies. Beaucoup d’entre eux durent perdre leur vie à cause de la Parole de Dieu. Tous les véritables croyants sont appelés à combattre pour la foi qui a été transmise une fois pour toutes aux saints de Christ (Jude 1:3). Nous avons été placés maintenant dans la lutte spirituelle finale. Dans la mesure où nous nous trouvons aux côtés de Dieu, Il sera avec nous jusqu’à ce que de la foi nous passerons dans les choses que nous verrons. Les portes du séjour des morts ne prévaudront point contre l’Eglise de Dieu (Mat. 16.18).
 
 Je souhaite du fond du coeur à tous les lecteurs les riches bénédictions de Dieu.
 

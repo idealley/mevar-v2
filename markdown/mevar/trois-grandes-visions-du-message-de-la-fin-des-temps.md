@@ -65,10 +65,6 @@ bible_refs:
   - "Néhémie 2:5"
   - "Néhémie 8:1-3"
   - "Proverbes 29:18"
-series_id: "trois-grandes-visions-du-message-de-la-fin-des-temps"
-series: "Trois grandes visions du message de la fin des temps"
-series_part: 1
-series_total: 3
 ---
 Ce texte est extrait du livre [Les 5 ministères de la parole](https://mevar.org/les-5-ministeres-de-la-parole/).
 

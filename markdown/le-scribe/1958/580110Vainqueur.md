@@ -57,6 +57,7 @@ llm_cleaned: true
 bible_refs:
   - "Apocalypse 6:1"
   - "Jean 5:19"
+original: "branham/1958/58-0110"
 ---
 **LE PUISSANT VAINQUEUR**
 *THE MIGHTY CONQUEROR*

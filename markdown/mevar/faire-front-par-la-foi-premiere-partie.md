@@ -32,7 +32,7 @@ bible_refs:
 series_id: "faire-front-par-la-foi"
 series: "Faire front par la Foi"
 series_part: 1
-series_total: 5
+series_total: 2
 ---
 « Faire front par la foi » est un sujet que je vais aborder en deux temps. Certainement qu’on ne pourra pas finir aujourd’hui. On aura le temps de revenir là-dessus. Mais on va déjà commencer. Nous lisons Marc 11 à partir du verset 22 :
 

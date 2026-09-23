@@ -46,6 +46,7 @@ bible_refs:
   - "Psaumes 42:2"
   - "Romains 8:29-30"
   - "Ésaïe 49:15"
+original: "branham/1962/62-1209"
 ---
 **1.** Il y a un instant j’ai été appelé à prier pour un malade, or il faut aller le plus vite possible auprès d’un malade. Les démarches pour le nouveau tabernacle sont enfin terminées. Ma fille Becky [Rebekah] veut abandonner le piano, mais je crois que sa sœur Sarah a un don musical. Personnellement, j’aime les cantiques joués à la trompette.
 

@@ -59,6 +59,7 @@ bible_refs:
   - "Jean 5:19,14"
   - "Jean 5:36"
   - "Matthieu 9:27"
+original: "branham/1951/51-0509"
 ---
 **CROIS-TU QUE JE PUISSE FAIRE CELA ?**
 *BELIEVE YE THAT I CAN DO THIS ?*

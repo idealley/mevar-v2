@@ -52,6 +52,7 @@ bible_refs:
   - "Hébreux 10:19-23"
   - "Matthieu 8"
   - "Ésaïe 53"
+original: "branham/1956/56-0213"
 ---
 **1.** [Chant, prière]. J'ai appris que le frère Allen est en prison. Je ne connais pas son cas. Le frère Jack Coe a été incarcéré la semaine dernière à Miami, pour avoir ôté l'appareil de la jambe d'un enfant. Prions pour eux. [Prière pour ces deux frères]. Si j'étais à leur place, j'aimerais que l'on prie pour moi.
 

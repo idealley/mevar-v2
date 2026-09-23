@@ -49,6 +49,7 @@ bible_refs:
   - "Matthieu 11:25"
   - "Ésaïe 35:8"
   - "Ésaïe 53:1"
+original: "branham/1963/63-0412E"
 ---
 *Résumé de!: "Dieu caché dans la simplicité" (12 Avril 1963 soir)*
 

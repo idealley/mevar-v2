@@ -62,6 +62,7 @@ bible_refs:
   - "Juges 15:13-14,16"
   - "Juges 15:15"
   - "Juges 16:27"
+original: "branham/1963/63-0120E"
 ---
 **Résumé de!: “Juste encore une fois Seigneur” (20 janvier 1963)**
 

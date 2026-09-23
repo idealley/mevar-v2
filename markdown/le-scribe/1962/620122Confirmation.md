@@ -59,6 +59,7 @@ bible_refs:
   - "Marc 5:25-34"
   - "Zacharie 14:8"
   - "Éphésiens 4:30"
+original: "branham/1962/62-0122"
 ---
 **Résumé de!: “Confirmation de l’ordre de mission” (22 janvier 1962, soir)**
 

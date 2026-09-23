@@ -57,6 +57,7 @@ bible_refs:
   - "Malachie 3"
   - "Marc 6:6"
   - "Ésaïe 6:1-8"
+original: "branham/1963/63-1114"
 ---
 **1.** [Prière]. La seule chose qui puisse limiter Dieu, c’est notre foi. “Il ne put faire là aucun miracle, si ce n’est qu’il imposa les mains à quelques malades et les guérit. Et il s’étonnait de leur incrédulité” (Marc 6:6). Il nous suffit d’être parfaitement connecté à lui. “Si vous aviez de la foi et que vous ne doutiez point, … quand vous diriez à cette montagne : Ote-toi de là et jette-toi dans la mer, cela se ferait. – Tout ce que vous demanderez avec foi par la prière, vous le recevrez” (Mat. 21:21-22).
 

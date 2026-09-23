@@ -53,6 +53,7 @@ bible_refs:
   - "Romains 10:17"
   - "Romains 3:3"
   - "Ésaïe 28:8"
+original: "branham/1962/62-0128M"
 ---
 **Résumé de!: “L'incrédulité n'arrête pas Dieu” [28 janvier 1962]**
 

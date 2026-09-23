@@ -43,6 +43,7 @@ bible_refs:
   - "Actes 2:6"
   - "Actes 8:18"
   - "Romains 6:1-5"
+original: "branham/1959/59-1220E"
 ---
 **Résumé de : « Identifié à Christ » (20 décembre 1959)**
 

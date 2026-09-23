@@ -57,7 +57,8 @@ bible_refs:
   - "Nombres 22:22"
   - "Nombres 22:24"
   - "Nombres 22:8"
-  - "Philémon 10"
+  - "Philémon 1:10-21"
+original: "branham/1947/47-1123"
 ---
 **LES ENFANTS DANS LE DESERT**
 *CHILDREN IN THE WILDERNESS*
@@ -80,7 +81,7 @@ Thème central : L’Eglise arrive à la dernière étape où elle doit se sépa
 **26.** Au cours des dimanches précédents, nous avons étudié les récits du serpent d’airain (Nombres 21), du rocher frappé [à Meriba ; cf. Nombres 20], et comment Dieu a pourvu à tous les besoins du peuple pendant leur voyage. C’était un type de l’Eglise d’aujourd’hui, un peuple sorti des ténèbres d’Egypte pour aller en terre promise, conduit par une Lumière, celle de Christ, et guéri et nourri par Dieu. Pour tout pécheur il y a une Source de Sang qui le lave de toute tache. Notre Terre promise est en Jean 14:1-3 :
 > “Que votre cœur ne se trouble point. Croyez en Dieu et croyez en moi. – Il y a plusieurs demeures dans la maison de mon Père : si cela n’était pas, je vous l’aurais dit. Je vais vous préparer une place. – Et, lorsque je m’en serai allé, et que je vous aurai préparé une place, je reviendrai, et je vous prendrai avec moi, afin que là où je suis vous y soyez aussi”.
 
-**29.** Je me sens parfois comme l’esclave en fuite pour qui Paul éprouvait une telle affection (Onésime, cf. Philémon 10-21). Paul connaissait la valeur de la croix, et savait aimer les autres : “S’il t’a fait quelque tort, ou s’il te doit quelque chose, mets-le sur mon compte”. Quand le peuple a murmuré, Moïse a frappé le rocher avec un bâton de jugement, le bâton qui avait fait venir les plaies sur un peuple incroyant. Dieu ne pouvait conduire ces gens que par un sacrifice d’expiation. C’est pareil aujourd’hui.
+**29.** Je me sens parfois comme l’esclave en fuite pour qui Paul éprouvait une telle affection (Onésime, cf. Philémon 1:10-21). Paul connaissait la valeur de la croix, et savait aimer les autres : “S’il t’a fait quelque tort, ou s’il te doit quelque chose, mets-le sur mon compte”. Quand le peuple a murmuré, Moïse a frappé le rocher avec un bâton de jugement, le bâton qui avait fait venir les plaies sur un peuple incroyant. Dieu ne pouvait conduire ces gens que par un sacrifice d’expiation. C’est pareil aujourd’hui.
 
 **31.** Considérez Joseph, un type de Christ, rejeté par ses frères, portant un manteau aux couleurs de l’arc-en-ciel de l’alliance, un manteau renvoyé à son père. Jeté dans une citerne, il a été considéré comme mort, mais en fait rien ne pouvait se faire sans passer par lui dans la capitale du monde. De même, Christ est assis à la droite de la majesté divine, et nul ne peut venir à Dieu sans passer par lui. Les destins du panetier et de l’échanson typifiaient ceux des deux brigands à la croix. Après sa mort, les os de Joseph étaient un signe pour les Hébreux, l’annonce d’un départ futur. Christ nous a laissé, non pas des os, mais une tombe vide.
 

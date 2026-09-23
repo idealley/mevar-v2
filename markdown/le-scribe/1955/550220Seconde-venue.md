@@ -50,6 +50,7 @@ bible_refs:
   - "Marc 16"
   - "Marc 16:14-15"
   - "Marc 16:17-18"
+original: "branham/1955/55-0220A"
 ---
 **1.** Je suis venu cinq ou six fois à Phoenix. Nous irons ensuite sur la côte Ouest. Nous envisageons d’aller à Honolulu. Notre cher frère Roberts a tenu une belle réunion ici il y a quelques semaines. Nous nous rassemblons autour de la Parole pour sauver des âmes, ramener les égarés, guérir les malades et voir Jésus-Christ glorifié dans son peuple. C’est la première fois que je débute une campagne un après-midi. Ces réunions sont interdénominationnelles, et nous souhaitons que les membres et les pasteurs de chaque église soient bénis.
 

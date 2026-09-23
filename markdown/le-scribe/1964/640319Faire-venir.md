@@ -59,6 +59,7 @@ bible_refs:
   - "Malachie 4"
   - "Marc 4:36-41"
   - "Marc 5:30"
+original: "branham/1964/64-0319"
 ---
 *Résumé de!: “Faire entrer Jésus sur scène” (19 mars 1963, soir)*
 

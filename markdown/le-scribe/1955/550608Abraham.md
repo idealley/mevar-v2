@@ -72,6 +72,7 @@ bible_refs:
   - "Jean 6:44"
   - "Marc 9:24"
   - "Romains 9:16"
+original: "branham/1955/55-0608"
 ---
 **1.** Sa grâce m’a sauvé d’une vie de péché et m’a donné l’occasion d’annoncer l’Evangile. Le frère Moore n’est pas là. Cela m’oblige à ne pas me cantonner à la prière pour les malades, or ce sont deux onctions différentes. Ce serait bien de pouvoir prier pour chacun. Nous attendons quelque chose qui permettra cela [NDT : allusion à la vision de la tente]. Si vous saviez ce que signifie être dans une vision ! Je n’y suis pour rien. C’est entrer dans un autre monde, parfois trente ans en arrière dans la vie d’une personne, dans un autre pays, et vous savez cependant que les gens d’ici vous entendent.
 

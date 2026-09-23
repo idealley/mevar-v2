@@ -48,6 +48,7 @@ bible_refs:
   - "Joël 2:28"
   - "Juges 16:3"
   - "Ésaïe 53:5"
+original: "branham/1957/57-0120M"
 ---
 **L'IMITATION DU CHRISTIANISME**
 *THE IMPERSONATION OF CHRISTIANITY*

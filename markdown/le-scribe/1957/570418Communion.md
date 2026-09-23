@@ -44,6 +44,7 @@ bible_refs:
   - "Jean 6:44"
   - "Matthieu 26:27"
   - "Psaumes 51:7"
+original: "branham/1957/57-0418"
 ---
 **Résumé de!: “La Communion” (18 avril 1957)**
 

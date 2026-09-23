@@ -56,6 +56,7 @@ bible_refs:
   - "1 Rois 8:48-49"
   - "Jean 4:46"
   - "Jean 5:19,14"
+original: "branham/1951/51-0729E"
 ---
 **LE SECOND MIRACLE**
 

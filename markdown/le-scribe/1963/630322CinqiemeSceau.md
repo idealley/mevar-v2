@@ -79,6 +79,7 @@ bible_refs:
   - "Zacharie 13:6"
   - "Ésaïe 35:8"
   - "Ésaïe 59:19"
+original: "branham/1963/63-0322"
 ---
 **Résumé de!: “Le Cinquième Sceau” (22 mars 1963 soir)**
 

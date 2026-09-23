@@ -72,6 +72,7 @@ bible_refs:
   - "Ésaïe 40:3"
   - "Ésaïe 7:14"
   - "Ésaïe 9:5"
+original: "branham/1964/64-0816"
 ---
 **Résumé de!: “La Parole confirmée de Dieu” (16 août 1964)**
 

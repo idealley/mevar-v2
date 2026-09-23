@@ -64,6 +64,7 @@ bible_refs:
   - "Romains 6:23"
   - "Ésaïe 7:14"
   - "Ézéchiel 16:6,9"
+original: "branham/1964/64-0411"
 ---
 *L'amnésie spirituelle* (11 avril 1964, soir)
 

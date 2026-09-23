@@ -98,6 +98,7 @@ bible_refs:
   - "Luc 1:35"
   - "Luc 23:46"
   - "Lévitique 8:12"
+original: "branham/1963/63-0320"
 ---
 **Résumé de!: “Le Troisième Sceau” (20 mars 1963 soir)**
 

@@ -54,11 +54,12 @@ bible_refs:
   - "Jean 14:19,20"
   - "Jean 15:5"
   - "Jean 5:19"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Nombres 27:21,1"
   - "Romains 5:17"
   - "Éphésiens 1:5"
   - "Ésaïe 53:5"
+original: "branham/1958/58-0214"
 ---
 *Jésus-Christ est le même hier, aujourd'hui et éternellement (ou : Nous voudrions voir Jésus)*
 *14 février 1958, vendredi soir, Terre Haute (Indiana)*
@@ -85,7 +86,7 @@ Ce verset m'émeut à chaque fois. Nous aspirons tous à voir Jésus-Christ. La 
 
 **8.** C'est bien d'avoir une belle église bien organisée avec des gens érudits, mais il a dit d'aller prêcher l'Évangile dans le monde entier, or l'Évangile n'est pas en paroles seulement, mais dans une puissance et une démonstration du Saint-Esprit [cf. 1 Corinthiens 2:4], une vie de résurrection coulant parmi les membres. Mais un pied de potiron ne donnera que des potirons, tandis que Christ dans l'Église dynamisera les sarments qui seront en lui pour qu'ils portent les mêmes fruits que lorsqu'il était sur terre.
 
-**9.** Jude 3 nous dit de combattre pour la foi qui a été transmise aux saints une fois pour toutes. Chaque dénomination pense combattre pour cette foi. Mais l'Église revient à la forme originale, comme le grain qui devient une plantule, puis une tige, puis un épis. C'était toujours la même vie, mais chaque étape marquait un progrès sur la précédente, et les Wesleyiens ont pensé qu'ils n'avaient plus besoin des Luthériens. Les Pentecôtistes sont venus avec la restauration des dons. A la fin, c'est le temps de la maturation. Il y a beaucoup de "ismes", mais Dieu obtiendra un grain parfait, avec le même Saint-Esprit qu'au début.
+**9.** Jude 1:3 nous dit de combattre pour la foi qui a été transmise aux saints une fois pour toutes. Chaque dénomination pense combattre pour cette foi. Mais l'Église revient à la forme originale, comme le grain qui devient une plantule, puis une tige, puis un épis. C'était toujours la même vie, mais chaque étape marquait un progrès sur la précédente, et les Wesleyiens ont pensé qu'ils n'avaient plus besoin des Luthériens. Les Pentecôtistes sont venus avec la restauration des dons. A la fin, c'est le temps de la maturation. Il y a beaucoup de "ismes", mais Dieu obtiendra un grain parfait, avec le même Saint-Esprit qu'au début.
 
 **10.** D'habitude, il y a trois soirées d'enseignement avant d'organiser une ligne de prière, afin que les gens comprennent la Parole. Vous imaginez ce que cela représente pour que le Saint-Esprit fasse entrer cela dans les cœurs en une seule soirée ! Si nous trouvons ce que Jésus était autrefois, nous saurons ce qu'il est aujourd'hui, et comment il doit se manifester comme Messie de la même manière. La plénitude de la Divinité était en Christ, mais il n'a jamais utilisé la puissance du Père : il a seulement utilisé la Parole écrite du Père : "L'homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu" [Mat. 4:4]. Il a vaincu le diable par la Parole du Père. Elle le vaincra en tout lieu et en tout temps. La bonne attitude mentale envers la promesse de Dieu la fera s'accomplir. Si vous la regardez et l'acceptez comme Dieu l'a écrite, Dieu la vivifiera.
 

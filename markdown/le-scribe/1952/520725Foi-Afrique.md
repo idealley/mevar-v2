@@ -45,7 +45,7 @@ pdf_url: "http://le-scribe.org/pdfiles/520725Foi-Afrique.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Rois 13"
-  - "3 Jean 2"
+  - "3 Jean 1:2"
   - "Actes 27:21"
   - "Jean 4:46"
   - "Josué 1:2-9"
@@ -53,8 +53,9 @@ bible_refs:
   - "Matthieu 18:18"
   - "Nombres 16"
   - "Romains 11:29"
+original: "branham/1952/52-0725"
 ---
-**1.** Je suis heureux d’être ici pour servir le Seigneur et vous parler de Jésus-Christ, de son sacrifice pour votre corps et pour votre âme, pour votre joie. Jean écrivait : “Je souhaite que tu sois en bonne santé.” [3 Jean 2]. C’est la volonté de Dieu que nous soyons en bonne santé si nous pouvons avoir la foi. Je peux me tromper, mais j’ai découvert que 80% des gens qui disent avoir la foi n’ont en fait que de l’espoir. La foi est une certitude, elle est positive et inébranlable.
+**1.** Je suis heureux d’être ici pour servir le Seigneur et vous parler de Jésus-Christ, de son sacrifice pour votre corps et pour votre âme, pour votre joie. Jean écrivait : “Je souhaite que tu sois en bonne santé.” [3 Jean 1:2]. C’est la volonté de Dieu que nous soyons en bonne santé si nous pouvons avoir la foi. Je peux me tromper, mais j’ai découvert que 80% des gens qui disent avoir la foi n’ont en fait que de l’espoir. La foi est une certitude, elle est positive et inébranlable.
 
 **2.** L’âme a 2 sens. Le corps est gouverné par 5 sens : la vision, le goût, le toucher, l’odorat, l’ouïe. La foi est le 6e sens du corps. Les chrétiens superficiels craignent de se lancer dans les profondeurs. Ils veulent avoir pied. Lors du voyage en Afrique, le Seigneur m’avait dit où aller et quoi faire. Mais tout avait été organisé différemment, les organisateurs ne comprenaient pas, et ils ne m’ont pas laissé faire. “Bien, mais vous le paierez.” J’ai encore prié, et Dieu m’a donné la permission de continuer, mais il m’a dit que je paierais, et j’ai payé comme toute l’équipe. C’est moi qui ai le plus souffert avec une amibiase détectée plus tard. Si nous avions fait ce que le Seigneur avait dit, deux cent mille âmes auraient sans doute été sauvées.
 

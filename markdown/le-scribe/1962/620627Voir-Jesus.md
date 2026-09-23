@@ -49,6 +49,7 @@ bible_refs:
   - "Jean 5:39,10"
   - "Jean 8:57"
   - "Zacharie 14:7"
+original: "branham/1962/62-0627"
 ---
 **Résumé de!: "Nous voudrions voir Jésus" (27 juin 1962, soir)**
 

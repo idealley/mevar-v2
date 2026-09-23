@@ -62,7 +62,6 @@ bible_refs:
   - "Genèse 24:65"
   - "Jean 14:12"
   - "Jean 17:17"
-  - "Jean 24:19"
   - "Jean 6:33,35"
   - "Juges 6:24"
   - "Jérémie 23:6"
@@ -71,6 +70,7 @@ bible_refs:
   - "Psaumes 1:3"
   - "Psaumes 23:1"
   - "Ésaïe 53:5"
+original: "branham/1962/62-0706"
 ---
 **1.** [Prière]. Suivons l'exemple d'Abraham dont nous avons parlé hier soir, et que sa foi nous soit révélée afin de croire la Parole. Voir hier soir tous ces gens accepter la Vérité m'a plus bouleversé que tous les miracles dont j'ai été témoin dans le passé. L'Epouse est peut-être déjà prête. Le réveil est terminé, nous ne faisons plus que glaner. C'est au temps du soir que le serviteur d'Abraham, après beaucoup d'efforts, a trouvé la personnalité qui convenait. L'étape suivante a été la préparation de l'épouse pour l'époux. S'il doit y avoir un réveil, c'est sur le fondement de cœurs honnêtes, comme hier soir, qu'il peut se produire. Mais trop de gens sont arrogants, les semences dénominationnelles ne veulent pas écouter. Les religieux traitaient Jésus de démon, mais, dès que la Lumière a frappé la Samaritaine, une semence prédestinée, elle a reconnu le Prophète-Messie, elle a vu la Parole.
 

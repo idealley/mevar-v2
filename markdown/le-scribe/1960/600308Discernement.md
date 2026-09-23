@@ -68,6 +68,7 @@ bible_refs:
   - "Ésaïe 53:9"
   - "Ésaïe 7:14"
   - "Ésaïe 7:14,9"
+original: "branham/1960/60-0308"
 ---
 “Le discernement de l’Esprit” (le 8 mars 1960)
 

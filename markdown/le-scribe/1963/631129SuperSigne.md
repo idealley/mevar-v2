@@ -66,6 +66,7 @@ bible_refs:
   - "Matthieu 8:8"
   - "Éphésiens 4:11-12"
   - "Ésaïe 7:10-14"
+original: "branham/1963/63-1129"
 ---
 **Résumé de!: “Le Super Signe” (29 novembre 1963 soir)**
 

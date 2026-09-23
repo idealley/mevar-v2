@@ -83,6 +83,7 @@ bible_refs:
   - "Romains 8:1"
   - "Romains 8:4"
   - "Romains 9:16"
+original: "branham/1963/63-0825M"
 ---
 **Résumé de!: “Comment puis-je vaincre” (25 août 1963 matin)**
 

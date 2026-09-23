@@ -55,6 +55,7 @@ bible_refs:
   - "Nombres 22:23"
   - "Éphésiens 4"
   - "Ésaïe 28:8,10"
+original: "branham/1955/55-1008"
 ---
 Résumé de : “Les conséquences d'une décision” (8 octobre 1955, soir)
 

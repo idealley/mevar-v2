@@ -63,6 +63,7 @@ bible_refs:
   - "Philippiens 2:9"
   - "Zacharie 14:7"
   - "Éphésiens 3:15"
+original: "branham/1962/62-0123"
 ---
 **1.** Oral Roberts sera avec nous mercredi soir. Sur le champ de bataille, nos différences d’opinions n’existent plus, et j’apprécie de rencontrer des gens de dénominations différentes. Nous étions neuf garçons et une fille, nous nous battions, mais si l’un de nous avait été attaqué de l’extérieur, nous serions tous venus à sa rescousse ! Il en est ainsi chez les enfants de Dieu.
 

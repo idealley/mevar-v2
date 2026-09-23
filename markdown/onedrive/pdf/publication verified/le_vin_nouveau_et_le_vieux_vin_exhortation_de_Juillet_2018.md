@@ -68,7 +68,6 @@ bible_refs:
   - "Luc 17"
   - "Luc 4"
   - "Luc 5:37-39"
-  - "Malachie 6"
   - "Marc 2:21"
   - "Marc 9:7"
   - "Matthieu 25"

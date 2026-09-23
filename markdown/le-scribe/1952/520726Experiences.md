@@ -46,12 +46,13 @@ bible_refs:
   - "Hébreux 13:8"
   - "Jean 16:30"
   - "Jean 5:19"
-  - "Jude 4"
+  - "Jude 1:4"
   - "Luc 13:15-16"
   - "Matthieu 23:15"
   - "Matthieu 24:37"
   - "Zacharie 4:6"
   - "Ésaïe 53:5"
+original: "branham/1952/52-0726"
 ---
 **1.** Les nés de nouveau sont des représentants de Christ. Nous ne sommes plus de ce monde, nous sommes passés de la mort à la Vie, héritiers de Dieu avec Christ, assis ensemble dans les lieux célestes en Christ-Jésus ! “Ce sont des choses que l'œil n'a point vues, que l'oreille n'a point entendues, et qui ne sont point montées au cœur de l'homme, des choses que Dieu a préparées pour ceux qui l'aiment.” [1 Corinthiens 2:9]. Je crois que Jésus guérit les malades. J’ai entendu un grand théologien tordre les Écritures, dire que “la maladie est de Dieu”, inviter à lui faire bon accueil et à la supporter pour la gloire de Dieu !
 
@@ -83,7 +84,7 @@ bible_refs:
 
 **15.** Le lendemain du jour où ce pasteur a écrit son article à Houston, le frère Bosworth m’a appelé. Il brûle à 75 ans de retourner en Afrique : “Les Américains ne veulent pas Dieu. A quoi bon prêcher partout, ils mélangent tout et ne savent que croire, alors qu’en Afrique ils n’ont rien entendu. Allons vers eux.” Alors que la Puissance de Dieu est là, il y a des sièges vides dans cette salle ! “Ce qui arriva du temps de Noé arrivera de même à l'avènement du Fils de l'homme.” [Matthieu 24:37]. Ils sont indifférents. On leur a injecté trop de baume. Ils sont prédestinés à cela, à être perdus. Cela vous choque, mais c’est la vérité.
 
-**16.** Jude 4 parle “d’hommes dont la condamnation est écrite depuis longtemps, … qui changent la grâce de notre Dieu en dissolution …” Ils sont prédestinés à cette condamnation, comme l’ont été Pharaon, Judas Iscariot et bien d’autres. Ne piétinez pas ce qui est à Dieu ! S’il frappe à votre cœur, soyez reconnaissant de ce que Dieu vous accorde le privilège de vous appeler à son Royaume. Vous êtes peut-être encore en dehors. Le frère Bosworth est venu me voir : “Ce gars te lance un défi !” – “C’est sans importance.” Il y a eu un autre article le lendemain : “Il a peur d’affronter la vérité et la Bible : cela montre de quoi il est fait. Ces gesticulateurs sont ainsi faits.”
+**16.** Jude 1:4 parle “d’hommes dont la condamnation est écrite depuis longtemps, … qui changent la grâce de notre Dieu en dissolution …” Ils sont prédestinés à cette condamnation, comme l’ont été Pharaon, Judas Iscariot et bien d’autres. Ne piétinez pas ce qui est à Dieu ! S’il frappe à votre cœur, soyez reconnaissant de ce que Dieu vous accorde le privilège de vous appeler à son Royaume. Vous êtes peut-être encore en dehors. Le frère Bosworth est venu me voir : “Ce gars te lance un défi !” – “C’est sans importance.” Il y a eu un autre article le lendemain : “Il a peur d’affronter la vérité et la Bible : cela montre de quoi il est fait. Ces gesticulateurs sont ainsi faits.”
 
 **17.** J’ai vu des personnes crier, faire n’importe quoi et exagérer et éloigner ainsi les gens, mais je préfère un feu incontrôlé plutôt que l’absence de feu. Mais je n’ai jamais entendu une église reconnaître qu’elle était composée de “gesticulateurs”. C’est le mot que cet homme a employé dans le Houston Chronicle pour se faire valoir. Bosworth voulait que je réagisse. “Dieu ne m’a pas envoyé pour me disputer, mais pour prier pour les gens.”
 

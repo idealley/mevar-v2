@@ -56,6 +56,7 @@ bible_refs:
   - "Marc 7:24-30"
   - "Romains 4:18,20"
   - "Zacharie 14:7"
+original: "branham/1963/63-0428"
 ---
 **REGARDEZ**
 

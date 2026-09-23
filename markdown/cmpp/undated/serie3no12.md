@@ -49,7 +49,6 @@ bible_refs:
   - "Actes 19"
   - "Apocalypse 13"
   - "Apocalypse 17"
-  - "Apocalypse 93"
   - "Galates 1"
   - "Hébreux 10"
   - "Hébreux 13"

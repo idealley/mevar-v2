@@ -68,6 +68,7 @@ bible_refs:
   - "Matthieu 5:18"
   - "Romains 11:29"
   - "Zacharie 14:7"
+original: "branham/1960/60-0210M"
 ---
 **1.** C’est un privilège pour moi de me présenter devant tous ces pasteurs pour exposer l’espérance qui est en moi. Lors d’une précédente venue dans cette île, j’avais prêché devant les Hommes d’Affaires du Plein Evangile. J’ai toujours pensé qu’une campagne doit être placée sous les auspices d’une association pastorale, pour un emploi des dons de Dieu selon la norme biblique, en vue de l’unité et de la communion des croyants. Je crois que dans toutes les églises il y a des saints de Dieu, et que nous ne devrions pas être divisés. Le plan de Dieu est que nous soyons un. “A ceci tous connaîtront que vous êtes mes disciples, si vous avez de l'amour les uns pour les autres.” [Jean 13:35].
 

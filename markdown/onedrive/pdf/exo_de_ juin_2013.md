@@ -48,7 +48,6 @@ bible_refs:
   - "Job 42:5"
   - "Luc 24:49"
   - "Luc 4:14"
-  - "Malachie 9"
   - "Matthieu 24:14"
   - "Romains 13:14"
   - "Ésaïe 42"

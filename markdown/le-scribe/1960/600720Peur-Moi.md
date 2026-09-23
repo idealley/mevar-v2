@@ -65,6 +65,7 @@ bible_refs:
   - "Romains 8:34"
   - "Ésaïe 1:18"
   - "Ésaïe 53:3"
+original: "branham/1960/60-0720"
 ---
 **1.** [Salutations]. J'ai découvert ce matin le tarif du motel, et j'ai changé d'endroit. J'ai expliqué au frère Folst que l'église ne doit pas faire une telle dépense, ce n'est pas chrétien. Je devrais être en Allemagne, mais il y a eu des problèmes.
 

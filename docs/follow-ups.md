@@ -2,28 +2,75 @@
 
 Living list of stuff we know about and have decided to defer, with enough context to pick back up.
 
-## English bible-ref coverage gap
+## Spelled-out scripture citations are not detected
 
-**Status**: 442 / 1,206 branham markdown files have detected refs in `manifests/bible-refs.json`. Should be closer to 1,200 — every Branham sermon cites Scripture.
+**Status**: 65 and 66 only match `Book chapter:verse` in numerals. Branham reads his text aloud instead: **2,948** occurrences of "`Saint John the 4th chapter`" / "`Kings, the 6th chapter`" in the Branham corpus, 365 of them naming the verse too ("`Saint Matthew the 4th chapter, the 23rd verse`"). None of those is in `bible-refs.json`, so a sermon's principal reading — the passage it opens with — is usually the one reference that is missing.
 
-**Cause**: `66-normalize-bible-en.mjs` was run BEFORE the LLM cleanup pass rewrote bodies. After LLM applied (`73-apply-llm.mjs branham`), the cleaned bodies have canonicalised refs that the regex would catch better. The English normalizer was not re-run.
+The book also comes after the chapter: "`In the 20th chapter of Numbers, I read these words:`" (`53-0512`), **614** more occurrences of "`the <N>th chapter of <Book>`".
 
-**Fix** (5 min):
+**Fix**: two more patterns, `<Book>,? (the )?<N>(st|nd|rd|th) chapter(,? (and )?the <M>(st|nd|rd|th) verse)?` and `the <N>(st|nd|rd|th) chapter of <Book>`, with the ordinals mapped to numbers. Worth doing before the site ships reference-based navigation; it roughly doubles the coverage of the Branham corpus.
 
-```bash
-node scripts/66-normalize-bible-en.mjs           # re-scan branham/, merge into bible-refs.json
-node scripts/100-ingest-surrealdb.mjs            # rebuild cites edges (preserves embeddings)
-```
+## French book names left inside the English Branham text
 
-## Bogus refs from over-eager regex
+**Status**: before goal 02, 65 (the French normalizer) also ran over `markdown/branham/` and rewrote English words it took for book abbreviations. The text still carries it: **358** `Ésaïe <n>` in 270 files ("The Bible says it Ésaïe 65 He's here", from "is" + paragraph 65), **154** `Sophonie <n>` in 131 files ("so"), **39** `Hébreux <n>` in 38 files ("he"), plus a handful of `Actes`, `Habacuc`, `Marc`, `Juges`: **377** files in all. A reader sees these mid-sentence. Goal 02 stopped the cause (65 no longer scans Branham) and repaired the two cases whose original is certain (`Joël` → `Joel`, `you'Revelation` → `you're`).
 
-**Symptom**: e.g. `"Sophonie 155"` shows up — but Sophonie has only 3 chapters.
+**Fix**: not mechanical. The French regex also swallowed an optional period after the abbreviation ("is. 65" and "is 65" both became "Ésaïe 65"), so the original punctuation cannot be restored from the text alone. Either compare against the branham.org source, or accept "is 65" and note it. Belongs with the page-furniture cleanup, since the "65" is usually a paragraph number there too.
 
-**Cause**: regex matches a book name followed by what's actually a paragraph number from the cleaned text (`...la sophonie. 155 Le frère...`).
+## Printed page furniture is inside the sermon bodies
 
-**Fix**: bound chapter ≤ 150 in `65-normalize-bible.mjs` and `66-normalize-bible-en.mjs` (Psalms is the longest at 150). Also bound verse ≤ 176 (Ps 119). Easier: hardcode max-chapter per book.
+**Status**: the PDF extractor merged the booklet's running headers and footers into the text. `THE SPOKEN WORD` appears **5,894** times across **840** Branham files, and `QUES TIONS A ND ANSWERS ON` (a spaced-out running header) 23 times. A reader sees it: `53-0729` reads "…and now we're 18 THE SPOKEN WORD at the eye age".
 
-Currently affects ~50-100 records out of 8,810 — small noise, but the bogus refs aren't wrong, just impossible. Worth filtering at the normalizer level rather than post-hoc.
+It also feeds the bible-ref normalizer false positives, because the page number sits right after a book name: the 8 `Genesis 19 / 21 / 23 … / 33` refs in `53-0729` are all the page numbers of the booklet *Questions and Answers on Genesis*, and none of those chapters is cited anywhere in the sermon.
+
+**Fix**: strip the furniture at the extraction stage, then rerun 66. Doing it in the normalizer would clean the manifest and leave the visible text broken.
+
+## `47` truncates `bible_refs` alphabetically at 50
+
+**Status**: 90 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah` — 3,956 references in all. `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut.
+
+**Fix**: decide what the page should show, then either lift the cap or keep the references in order of appearance rather than alphabetically. The normalizer sorts them, so order of appearance is not recoverable today.
+
+## `100-ingest-surrealdb.mjs` never deletes an edge
+
+**Symptom**: all eight edge types — `by`, `cites`, `mentions`, `mentions_place`, `has_theme`, `has_tag`, `contains`, `based_on` — go through the same insert-only `inChunks`. Re-ingesting after the corpus changed adds the new edges and leaves the old ones. Against `origin/main`, goal 02 removes 477 (file, reference) pairs from `manifests/bible-refs.json` (impossible chapters, the "you're" misreads, malformed ranges, and the 83 one-chapter refs that change form), so a database ingested before it keeps up to 477 stale `cites` edges; a corrected `original` link leaves both `based_on` edges, since the unique index is on `(in, out)`.
+
+**Fix**: delete a work's outgoing edges of each type before relating the current set, or diff against what is stored. One pass over all eight types, not one type at a time. Until then, a corpus change means rebuilding the database rather than re-ingesting on top.
+
+## Bible-ref false positives from short book names
+
+**Symptom**: 60-odd `Esther <n>` refs in files that never mention Esther.
+
+**Cause**: `Est` is an accepted abbreviation for Esther in `65-normalize-bible.mjs`, and `est` is the French verb. `c'est 11 heures` becomes `Esther 11`. The same shape hits `Job` (`Jb`), `Ruth`, `Amos`, `Ge`, `Ne`.
+
+**Fix**: drop the variants that collide with common French words, or require a chapter:verse pair (not a bare chapter) for the two-letter variants. The impossible-chapter filter added in goal 02 catches only the ones above the book's chapter count.
+
+## Le-Scribe summaries with no Branham link
+
+**Status**: 796 of 910 linked by `49-link-le-scribe-branham.mjs`. The other 114 are in `manifests/le-scribe-branham-unresolved.json` with their candidates: 77 still ambiguous between sermons the same day, 10 with no Branham sermon that day, 10 where two summaries claim one sermon (Hébreux 2A/2B and Semence 1re/2e parts are one sermon split in two summaries — the schema has one `summary_fr` per sermon), 9 with no date in the id (`wmbch15`, `59xxxxDiacres`), 5 with no frontmatter, and 3 where Le-Scribe's date is known to be wrong.
+
+Those 3 are the place to start, because the right sermon is already known: `530606Demons-physique` is `53-0608A "Demonology, Physical Realm"`, `530607Demons-religieux` is `53-0609A "Demonology, Religious Realm"`; `600803Jehova-J` has no Jehovah-Jireh sermon within four days. The same drift shows in the "claimed twice" rows: `550118Ange` claims `55-0118 "This Great Warrior, David"`. More links of the "only sermon that day" kind may carry it unseen; nothing but a French title against an English one reveals it.
+
+**Fix**: a human pass over the 114, or model the summary→sermon relation as many-to-one on both sides.
+
+## Markdown files with no frontmatter
+
+**Status**: 7 files — `markdown/local/*.md` (2) and 5 Le-Scribe files (`1950/500115Crois-tu`, `1962/620714Son-confus`, `1962/620623Perseverant`, `undated/5003xxDon&appel`, `undated/5602Combat-foi`). Every script that patches frontmatter skips them, so they carry no metadata and no bible refs.
+
+**Fix**: run them through `64-add-frontmatter.mjs`, or drop them.
+
+## Branham `date` frontmatter does not match the sermon id
+
+**Symptom**: `markdown/branham/1958/58-0501.md` has `date: "1955-01-29"` and `subtitle: "55-0129"`; `62-0704` has `date: "1965-01-17"`.
+
+**Cause**: the metadata extractor read the date off the wrong element on branham.org. The sermon id is authoritative — that is why `49-link-le-scribe-branham.mjs` matches on the id, not on `date`.
+
+**Fix**: rebuild `date` from `sermon_id` for the branham source.
+
+## `npm install` fails in `web/`
+
+**Symptom**: `ERESOLVE`: `@vite-pwa/astro@1.2.0` peers `astro@^1 || … || ^5`, the project is on `astro@6.2.2`.
+
+**Fix**: upgrade or drop `@vite-pwa/astro`. Until then `npm install --legacy-peer-deps`.
 
 ## Two stubborn embedding failures
 
@@ -51,15 +98,6 @@ node scripts/130-seed-strongs.mjs          # parses TAGNT + TAHOT, merges Strong
 ## Auth not wired
 
 See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + the 7 steps documented there.
-
-## No Astro frontend yet
-
-The graph is queryable but there's no UI. Decisions to make when starting:
-
-- Astro vs SvelteKit (Astro better for content-heavy SSG, SvelteKit better if there's lots of interactivity)
-- How to handle SurrealDB connection in serverless / edge functions (HTTP transport per request, not pooled WebSockets)
-- Markdown rendering: directly from `markdown/` files at build time, or pulled from SurrealDB? (Files are cleaner; DB allows live editing.)
-- Image strategy: `images/mevar/` is the local copy; bake into static assets or serve from CDN?
 
 ## No production deployment
 

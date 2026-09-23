@@ -45,6 +45,7 @@ bible_refs:
   - "Marc 5:25"
   - "Nombres 20:7-8"
   - "Ésaïe 53:5"
+original: "branham/1950/50-0827E"
 ---
 *27 août 1950, dimanche soir, Cleveland (Ohio)*
 

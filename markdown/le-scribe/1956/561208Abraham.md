@@ -51,6 +51,7 @@ bible_refs:
   - "Jean 5:24"
   - "Psaumes 103:3"
   - "Romains 4:17"
+original: "branham/1956/56-1208"
 ---
 Résumé de : “Abraham” (8 décembre 1956)
 __________________________________

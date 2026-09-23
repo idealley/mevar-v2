@@ -53,7 +53,7 @@ bible_refs:
   - "Jean 5:39"
   - "Joël 1:4"
   - "Joël 2:25"
-  - "Jude 3"
+  - "Jude 1:3"
   - "Luc 14:21-23"
   - "Luc 17:28"
   - "Luc 19:42"
@@ -65,6 +65,7 @@ bible_refs:
   - "Romains 2:29"
   - "Romains 3:10-12,23"
   - "Romains 4:20"
+original: "branham/1959/59-0416"
 ---
 “El-Shaddaï” (16.04.1959)
 
@@ -90,7 +91,7 @@ Quand Dieu fait une promesse, il la tient. Abraham en était persuadé, aussi ri
 **18.** Je suis loin d’être un théologien ou un enseignant, mais j’aime dire aux autres ce que je sais du Seigneur. J’espère qu’écouter signifie autant pour vous que pour moi d’en parler. Nous serons ainsi tous bénis. Abraham était un homme ordinaire, mais Dieu a vu son cœur. L’homme regarde aux apparences, mais Dieu regarde au cœur. Peu importe donc que vous soyez illettré.
 **19.** En Eden, le diable a visé la tête, l’intellect. Dieu a choisi le cœur, la foi. Pour marcher par la foi, il faut croire des choses qu’on ne peut voir, ni même comprendre. Nous lui soumettons les raisonnements. Ce que Dieu dit, nous ne le considérons plus intellectuellement, mais nous le laissons imbiber notre cœur et nous regardons comme nul ce qui est contraire. Nous regardons Celui qui a fait la promesse. C’est le problème aujourd’hui : il y a trop de prédications intellectuelles, or les raisonnements ne servent à rien.
 **20.** J’aimerais avoir le temps de parler de la restauration de la vraie Eglise de Dieu, comment elle a été dévorée par le gazam, la sauterelle, et tous ces insectes [Joël 1:4]. C’est en fait toujours le même insecte sous différentes formes de sa vie. Ils ont tout tordu et fabriqué des choses humaines. Dieu ne restaurera jamais un héritage à partie de cela, mais à partir de la souche : “Je restaurerai !” [Joël 2:25]. Et il est en train de restaurer la foi dans son peuple.
-**21.** Jude a exhorté [Jude 3] “à combattre pour la foi qui a été transmise aux saints une fois pour toutes.” Ils allaient s’en éloigner. Si cela est arrivé 33 ans après la mort de Christ, de combien se sont-ils éloignés ce soir ? Mais Dieu a dit qu’il ramènerait l’Eglise à son état initial.
+**21.** Jude a exhorté [Jude 1:3] “à combattre pour la foi qui a été transmise aux saints une fois pour toutes.” Ils allaient s’en éloigner. Si cela est arrivé 33 ans après la mort de Christ, de combien se sont-ils éloignés ce soir ? Mais Dieu a dit qu’il ramènerait l’Eglise à son état initial.
 **22.** Il nous faut revenir en arrière, et c’est pourquoi je parle d’Abraham. Il y a dans les églises deux groupes. Les fondamentalistes connaissent leur position en Christ mais n’ont pas la foi qui va avec : ils ont un gros compte en banque mais ne savent pas rédiger un chèque. Les pentecôtistes ont beaucoup de foi, mais ne savent pas qui ils sont : ils savent rédiger un chèque mais n’ont rien en banque. Si le Saint-Esprit qui est chez les Pentecôtistes pouvait entrer chez les fondamentalistes, ou si les pentecôtistes connaissaient leur position, il se passerait quelque chose.
 **23.** Mais ceux qui ont le Saint-Esprit ne savent pas quoi en faire. Ils le laissent jaillir sans l’utiliser pour le Seigneur. Quand Benjamin Franklin a ressenti le courant électrique, il a crié : “Je l’ai !”. Mais il n’a eu l’électricité que lorsqu’elle a servi à quelque chose. De même, le Saint-Esprit éclairera le monde si nous pouvons le mettre en œuvre.
 **24.** Notez que les gens sont fatigués des campagnes de guérison de ces derniers temps avec la pression venue de l’estrade : “Ma main le ressent ! vous le sentez ? vous le sentez ? vous le sentez ?” Vous n’avez rien ressenti ! Et si c’était le cas, il n’y avait rien d’autre ! Jésus n’a pas demandé : “Le ressentez-vous ?” mais : “Le croyez-vous ?” La foi n’est pas quelque chose que l’on ressent. La foi est un sixième sens qui sait sans avoir à toucher, goûter, sentir ou voir : Jésus a parlé et cela suffit.

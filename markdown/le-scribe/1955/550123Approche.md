@@ -50,6 +50,7 @@ bible_refs:
   - "Jean 6:44"
   - "Psaumes 65"
   - "Romains 8:39"
+original: "branham/1955/55-0123A"
 ---
 *Venir dans la Présence de Dieu* (23 janvier 1955, après-midi)
 

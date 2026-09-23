@@ -60,6 +60,7 @@ bible_refs:
   - "Ésaïe 1:16"
   - "Ésaïe 35:8"
   - "Ézéchiel 9:4"
+original: "branham/1960/60-0608"
 ---
 **Résumé de “Tenir des conférences” (le 8 juin 1960)**
 

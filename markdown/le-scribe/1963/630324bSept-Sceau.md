@@ -79,6 +79,7 @@ bible_refs:
   - "Romains 9:33"
   - "Éphésiens 4:30"
   - "Ésaïe 9:5"
+original: "branham/1963/63-0324E"
 ---
 **LE SEPTIÈME SCEAU**
 *THE SEVENTH SEAL*
