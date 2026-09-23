@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/notre_volonte_1_12_2013.pdf"
+local_pdf: "/files/mevar/notre_volonte_1_12_2013.pdf"
 source: "mevar"
 sermon_id: "notre-volonte"
 title: "Notre Volonté"
@@ -166,4 +167,4 @@ Après trente ans de foi, il y en a qui ne connaissent pas le pardon. **Après t
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/notre_volonte_1_12_2013.pdf)
+[Télécharger le PDF](/files/mevar/notre_volonte_1_12_2013.pdf)

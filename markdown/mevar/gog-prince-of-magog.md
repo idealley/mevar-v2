@@ -44,8 +44,8 @@ Le monde de Noé
 
 Russie avec Meshchera.
 
-![](https://mevar.org/content/images/2022/12/Muromian-map.png)
+![](/images/mevar/content/Muromian-map.png)
 
 Fleuves
 
-![](https://mevar.org/content/images/2022/12/Okarivermap.png)
+![](/images/mevar/content/Okarivermap.png)

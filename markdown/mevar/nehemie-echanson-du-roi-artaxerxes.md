@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2015_nehemie_echanson_du_roi_artaxerxes.pdf"
+local_pdf: "/files/mevar/exhortation_fin_fevrier_2015_nehemie_echanson_du_roi_artaxerxes.pdf"
 source: "mevar"
 sermon_id: "nehemie-echanson-du-roi-artaxerxes"
 title: "Néhémie - Echanson du Roi Artaxerxés"
@@ -142,4 +143,4 @@ Mes frères et sœurs, la foi de Rahab avait franchi la muraille de Jéricho. C�
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_fevrier_2015_nehemie_echanson_du_roi_artaxerxes.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_fin_fevrier_2015_nehemie_echanson_du_roi_artaxerxes.pdf)

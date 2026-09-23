@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/03/ministere-de-l-Esprit-2_24-12-23.pdf"
+local_pdf: "/files/mevar/ministere-de-l-Esprit-2_24-12-23.pdf"
 source: "mevar"
 sermon_id: "le-ministere-de-lesprit-2"
 title: "Le Ministère de l'Esprit (2)"
@@ -256,6 +257,6 @@ Et je profite de l’occasion pour dire aux frères qui nous écoutent aussi, ca
 
 Le frère Salomon va nous congédier.
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/03/ministere-de-l-Esprit-2_24-12-23.pdf)
+[Télécharger le PDF](/files/mevar/ministere-de-l-Esprit-2_24-12-23.pdf)
 
 [Le ministère de l’Esprit (1)Nous allons lire dans 2 Corinthiens, chapitre 3. On commence au premier verset : 1 Commençons-nous de nouveau à nous recommander nous-mêmes ? Ou avons-nous besoin, comme quelques-uns, de lettres de recommandation auprès de vous, ou de votre part ? 2 C’est vous qui êtes notre lettre, écrite dans nos cœurs, connue etMEVARParfait M’bra](https://mevar.org/le-ministere-de-lesprit/)

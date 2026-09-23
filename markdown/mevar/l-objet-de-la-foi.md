@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_objet_de_la_foi_11_12_2017.pdf"
+local_pdf: "/files/mevar/l_objet_de_la_foi_11_12_2017.pdf"
 source: "mevar"
 sermon_id: "l-objet-de-la-foi"
 title: "L'objet de la foi"
@@ -192,4 +193,4 @@ C’est comme les rois d’avant, pour peu, ils peuvent ordonner qu’on te coup
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_objet_de_la_foi_11_12_2017.pdf)
+[Télécharger le PDF](/files/mevar/l_objet_de_la_foi_11_12_2017.pdf)

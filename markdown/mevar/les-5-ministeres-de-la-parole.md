@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/les_cinq_ministeres_de_la_parole.pdf"
+local_pdf: "/files/mevar/les_cinq_ministeres_de_la_parole.pdf"
 source: "mevar"
 sermon_id: "les-5-ministeres-de-la-parole"
 title: "Les 5 ministères de la Parole"
@@ -89,4 +90,4 @@ Dans cet exposé, j’apporte à l’ensemble des saints, ma petite expérience 
 
 Télécharger le livre _Les cinq ministères de la parole:_
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/les_cinq_ministeres_de_la_parole.pdf)
+[Télécharger le PDF](/files/mevar/les_cinq_ministeres_de_la_parole.pdf)

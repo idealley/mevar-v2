@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/dieu_regarde_le_coeur_exhortation_de_Juillet_2020.pdf"
+local_pdf: "/files/mevar/dieu_regarde_le_coeur_exhortation_de_Juillet_2020.pdf"
 source: "mevar"
 sermon_id: "dieu-regarde-au-coeur"
 title: "Dieu regarde au coeur"
@@ -168,4 +169,4 @@ Mes bien-aimés frères et sœurs, pour nous, la joie devrait être grande d’a
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/dieu_regarde_le_coeur_exhortation_de_Juillet_2020.pdf)
+[Télécharger le PDF](/files/mevar/dieu_regarde_le_coeur_exhortation_de_Juillet_2020.pdf)

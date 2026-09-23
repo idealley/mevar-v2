@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_decembre_2013.pdf"
+local_pdf: "/files/mevar/exhortation_decembre_2013.pdf"
 source: "mevar"
 sermon_id: "la-solution-a-la-souffrance"
 title: "La Solution à la Souffrance"
@@ -115,4 +116,4 @@ Mes frères, je nous exhorte à la simplicité et à l’humilité. Quelqu’un 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_decembre_2013.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_decembre_2013.pdf)

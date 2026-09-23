@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_aout_2006_ayez_du_zele_et_non_de_la_paresse.pdf"
+local_pdf: "/files/mevar/exhortation_aout_2006_ayez_du_zele_et_non_de_la_paresse.pdf"
 source: "mevar"
 sermon_id: "ayez-du-zele-et-non-de-la-paresse"
 title: "Ayez du zèle et non de la paresse !"
@@ -270,4 +271,4 @@ Votre Frère en Christ par le Sang de l'Agneau.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_aout_2006_ayez_du_zele_et_non_de_la_paresse.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_aout_2006_ayez_du_zele_et_non_de_la_paresse.pdf)

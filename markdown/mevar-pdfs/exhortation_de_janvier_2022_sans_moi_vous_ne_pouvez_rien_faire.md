@@ -29,6 +29,7 @@ themes:
   - "Mammon"
   - "Abondance spirituelle"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.pdf"
+local_pdf: "/files/mevar/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.pdf"
 llm_cleaned: true
 ---
 Exhortation de Janvier 2022

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/manger-le-sacrifice-20-octobre-2020.pdf"
+local_pdf: "/files/mevar/manger-le-sacrifice-20-octobre-2020.pdf"
 source: "mevar"
 sermon_id: "manger-le-sacrifice"
 title: "Manger le Sacrifice"
@@ -217,4 +218,4 @@ La deuxième prophétie du vingt-quatrième jour parle de notre époque. Et c’
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/manger-le-sacrifice-20-octobre-2020.pdf)
+[Télécharger le PDF](/files/mevar/manger-le-sacrifice-20-octobre-2020.pdf)

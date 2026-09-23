@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Qui_est-ce_qui_plante_une_vigne_et_n_en_mange_pas_le_fruit_exhortation_de_Mai_2015.pdf"
+local_pdf: "/files/mevar/Qui_est-ce_qui_plante_une_vigne_et_n_en_mange_pas_le_fruit_exhortation_de_Mai_2015.pdf"
 source: "mevar"
 sermon_id: "qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit"
 title: "Qui est-ce qui plante une vigne et n’en mange pas le fruit ?"
@@ -287,4 +288,4 @@ Mes bien-aimés frères et sœurs, je vous aime de tout mon cœur, vous qui me c
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Qui_est-ce_qui_plante_une_vigne_et_n_en_mange_pas_le_fruit_exhortation_de_Mai_2015.pdf)
+[Télécharger le PDF](/files/mevar/Qui_est-ce_qui_plante_une_vigne_et_n_en_mange_pas_le_fruit_exhortation_de_Mai_2015.pdf)

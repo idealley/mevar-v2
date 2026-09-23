@@ -32,6 +32,7 @@ themes:
   - "humiliation et orgueil"
   - "désert comme lieu de formation"
 pdf_url: "https://mevar.org/content/files/2022/12/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
+local_pdf: "/files/mevar/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
 llm_cleaned: true
 ---
 *Prêché le 8 août 2021 à Koumassi par Parfait M’BRA*

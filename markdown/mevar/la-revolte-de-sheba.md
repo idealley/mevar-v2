@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_aout_2014_la_revolte_de_sheba.pdf"
+local_pdf: "/files/mevar/exhortation_fin_aout_2014_la_revolte_de_sheba.pdf"
 source: "mevar"
 sermon_id: "la-revolte-de-sheba"
 title: "La révolte de Shéba"
@@ -120,4 +121,4 @@ Mes bien-aimés frères et sœurs, ne nous contentons pas d’un faux réveil pa
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_aout_2014_la_revolte_de_sheba.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_fin_aout_2014_la_revolte_de_sheba.pdf)

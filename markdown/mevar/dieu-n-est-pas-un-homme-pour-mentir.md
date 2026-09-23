@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/dieu_n_est_pas_un_homme_pour_mentir_05_09_2015.pdf"
+local_pdf: "/files/mevar/dieu_n_est_pas_un_homme_pour_mentir_05_09_2015.pdf"
 source: "mevar"
 sermon_id: "dieu-n-est-pas-un-homme-pour-mentir"
 title: "Dieu n'est pas un homme pour mentir"
@@ -133,4 +134,4 @@ Les enfants d’Israël sont entrés en Canaan. Dieu a dit : _tuez tout le monde
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/dieu_n_est_pas_un_homme_pour_mentir_05_09_2015.pdf)
+[Télécharger le PDF](/files/mevar/dieu_n_est_pas_un_homme_pour_mentir_05_09_2015.pdf)

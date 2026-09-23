@@ -42,6 +42,7 @@ themes:
   - "Crainte de Dieu"
   - "Fin des temps et règne millénaire"
 pdf_url: "https://mevar.org/content/files/2022/12/jugements_de_dieu_22_aout_2020.pdf"
+local_pdf: "/files/mevar/jugements_de_dieu_22_aout_2020.pdf"
 llm_cleaned: true
 ---
 *Les jugements de Dieu, prêché le 22 Août 2020 à Abidjan par le frère M’BRA Parfait*

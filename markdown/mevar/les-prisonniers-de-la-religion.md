@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/les_prisonniers_de_la_religion_24_03_2007.pdf"
+local_pdf: "/files/mevar/les_prisonniers_de_la_religion_24_03_2007.pdf"
 source: "mevar"
 sermon_id: "les-prisonniers-de-la-religion"
 title: "Les prisonniers de la religion"
@@ -170,4 +171,4 @@ C’est un symbole. C’est pour nous exhorter à la délivrance ; nous exhorter
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_prisonniers_de_la_religion_24_03_2007.pdf)
+[Télécharger le PDF](/files/mevar/les_prisonniers_de_la_religion_24_03_2007.pdf)

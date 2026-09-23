@@ -37,6 +37,7 @@ themes:
   - "faux prophètes"
   - "discernement"
 pdf_url: "https://mevar.org/content/files/2022/12/4_eprouvez_les_signes_05_01_20.pdf"
+local_pdf: "/files/mevar/4_eprouvez_les_signes_05_01_20.pdf"
 llm_cleaned: true
 ---
 Les signes d’un Ministère ou d’une œuvre authentique de Dieu - 4e partie – ou Comment éprouver les signes

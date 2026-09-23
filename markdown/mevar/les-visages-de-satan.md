@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_juin_2018_les_visages_de_satan.pdf"
+local_pdf: "/files/mevar/exhortation_de_juin_2018_les_visages_de_satan.pdf"
 source: "mevar"
 sermon_id: "les-visages-de-satan"
 title: "Les visages de Satan"
@@ -113,4 +114,4 @@ Comme le dit Apocalypse, si nous sommes fidèles, Dieu nous gardera dans l’ép
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_juin_2018_les_visages_de_satan.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_juin_2018_les_visages_de_satan.pdf)

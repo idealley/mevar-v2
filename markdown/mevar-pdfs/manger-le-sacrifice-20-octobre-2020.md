@@ -39,6 +39,7 @@ themes:
   - "l'Église comme temple de Dieu"
   - "la prophétie d'Aggée"
 pdf_url: "https://mevar.org/content/files/2022/12/manger-le-sacrifice-20-octobre-2020.pdf"
+local_pdf: "/files/mevar/manger-le-sacrifice-20-octobre-2020.pdf"
 llm_cleaned: true
 ---
 *Pouyt Samuel - Muraz - Suisse - 20.10.2020*

@@ -35,6 +35,7 @@ themes:
   - "zèle"
   - "confiance en Dieu"
 pdf_url: "https://mevar.org/content/files/2022/12/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf"
+local_pdf: "/files/mevar/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf"
 llm_cleaned: true
 ---
 *Exhortation de Fin d’Année 2022*

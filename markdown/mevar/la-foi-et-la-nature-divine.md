@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_25_07_2015.pdf"
+local_pdf: "/files/mevar/la_foi_et_la_nature_divine_25_07_2015.pdf"
 source: "mevar"
 sermon_id: "la-foi-et-la-nature-divine"
 title: "La foi et la nature divine (1)"
@@ -141,4 +142,4 @@ Prions ensemble.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_foi_et_la_nature_divine_25_07_2015.pdf)
+[Télécharger le PDF](/files/mevar/la_foi_et_la_nature_divine_25_07_2015.pdf)

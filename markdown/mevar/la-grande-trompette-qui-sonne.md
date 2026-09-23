@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la-grande-trompette-qui-sonne-27-28-02-2020.pdf"
+local_pdf: "/files/mevar/la-grande-trompette-qui-sonne-27-28-02-2020.pdf"
 source: "mevar"
 sermon_id: "la-grande-trompette-qui-sonne"
 title: "La grande trompette qui sonne"
@@ -274,4 +275,4 @@ Le Message nous ramène au Seigneur Jésus-Christ. Alléluia ! C’est un Messag
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la-grande-trompette-qui-sonne-27-28-02-2020.pdf)
+[Télécharger le PDF](/files/mevar/la-grande-trompette-qui-sonne-27-28-02-2020.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Jesus_et_Marie_21_mai_2018.pdf"
+local_pdf: "/files/mevar/Jesus_et_Marie_21_mai_2018.pdf"
 source: "mevar"
 sermon_id: "jesus-et-marie"
 title: "Jésus et Marie"
@@ -127,4 +128,4 @@ Prions le Seigneur
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Jesus_et_Marie_21_mai_2018.pdf)
+[Télécharger le PDF](/files/mevar/Jesus_et_Marie_21_mai_2018.pdf)

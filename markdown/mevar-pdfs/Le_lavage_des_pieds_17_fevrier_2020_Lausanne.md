@@ -34,6 +34,7 @@ themes:
   - "dépouillement"
   - "responsabilité de l'Église"
 pdf_url: "https://mevar.org/content/files/2022/12/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf"
+local_pdf: "/files/mevar/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.pdf"
 llm_cleaned: true
 ---
 Ôtons nos vêtements

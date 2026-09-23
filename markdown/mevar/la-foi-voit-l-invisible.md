@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_foi_saisit_l_invisible_4_01_2015.pdf"
+local_pdf: "/files/mevar/la_foi_saisit_l_invisible_4_01_2015.pdf"
 source: "mevar"
 sermon_id: "la-foi-voit-l-invisible"
 title: "La Foi voit l’invisible"
@@ -145,4 +146,4 @@ Que Dieu nous bénisse ! Nous allons nous remettre entre les mains de Dieu…
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_foi_saisit_l_invisible_4_01_2015.pdf)
+[Télécharger le PDF](/files/mevar/la_foi_saisit_l_invisible_4_01_2015.pdf)

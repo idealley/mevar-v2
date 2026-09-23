@@ -33,6 +33,7 @@ themes:
   - "prière d'intercession"
   - "pureté spirituelle"
 pdf_url: "https://mevar.org/content/files/2022/12/le_chemin_de_saul_21_aout_2021.pdf"
+local_pdf: "/files/mevar/le_chemin_de_saul_21_aout_2021.pdf"
 llm_cleaned: true
 ---
 Le chemin de Saül

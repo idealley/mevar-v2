@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2018_seigneur_je_te_suivrai_partout_ou_tu_iras.pdf"
+local_pdf: "/files/mevar/exhortation_de_fevrier_2018_seigneur_je_te_suivrai_partout_ou_tu_iras.pdf"
 source: "mevar"
 sermon_id: "seigneur-je-te-suivrai-partout-ou-tu-iras"
 title: "Seigneur, Je te suivrai, partout ou tu iras"
@@ -137,4 +138,4 @@ Mes bien-aimés frères et sœurs, serviteurs de Jésus-Christ, voulons-nous sui
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2018_seigneur_je_te_suivrai_partout_ou_tu_iras.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_fevrier_2018_seigneur_je_te_suivrai_partout_ou_tu_iras.pdf)

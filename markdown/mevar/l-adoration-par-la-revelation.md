@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_septembre_2006_l-adoration_par_la_revelation.pdf"
+local_pdf: "/files/mevar/exhortation_septembre_2006_l-adoration_par_la_revelation.pdf"
 source: "mevar"
 sermon_id: "l-adoration-par-la-revelation"
 title: "L'adoration par la révélation"
@@ -278,4 +279,4 @@ Nous allons chanter un cantique d'adoration et puis le Pasteur Flory va s'approc
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_septembre_2006_l-adoration_par_la_revelation.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_septembre_2006_l-adoration_par_la_revelation.pdf)

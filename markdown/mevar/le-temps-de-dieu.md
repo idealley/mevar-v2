@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_speciale_de_decembre_2021.pdf"
+local_pdf: "/files/mevar/exhortation_speciale_de_decembre_2021.pdf"
 source: "mevar"
 sermon_id: "le-temps-de-dieu"
 title: "Le Temps de Dieu"
@@ -153,4 +154,4 @@ Mes chers frères et sœurs, nous sommes dans le temps de Dieu et tous les chang
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_speciale_de_decembre_2021.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_speciale_de_decembre_2021.pdf)

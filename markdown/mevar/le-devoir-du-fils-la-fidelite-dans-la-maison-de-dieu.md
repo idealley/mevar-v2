@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_mi_avril_2017_le_devoir_du_fils_la_fidelite_dans_la_maison_de_dieu.pdf"
+local_pdf: "/files/mevar/exhortation_mi_avril_2017_le_devoir_du_fils_la_fidelite_dans_la_maison_de_dieu.pdf"
 source: "mevar"
 sermon_id: "le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu"
 title: "Le devoir du fils - la fidélité dans la maison de Dieu"
@@ -127,4 +128,4 @@ Mes chers amis, notre devoir vis-à-vis de Celui qui nous a aimés et qui nous a
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_mi_avril_2017_le_devoir_du_fils_la_fidelite_dans_la_maison_de_dieu.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_mi_avril_2017_le_devoir_du_fils_la_fidelite_dans_la_maison_de_dieu.pdf)

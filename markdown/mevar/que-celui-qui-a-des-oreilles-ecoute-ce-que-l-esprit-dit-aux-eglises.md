@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/que_celui_qui_a_des_oreils_ecoute_ce_que_l_esprit_dit_aux_eglises_08_novembre_2007.pdf"
+local_pdf: "/files/mevar/que_celui_qui_a_des_oreils_ecoute_ce_que_l_esprit_dit_aux_eglises_08_novembre_2007.pdf"
 source: "mevar"
 sermon_id: "que-celui-qui-a-des-oreilles-ecoute-ce-que-l-esprit-dit-aux-eglises"
 title: "Que celui qui a des oreilles écoute ce que l’Esprit dit aux Eglises"
@@ -128,4 +129,4 @@ Nous sommes dans les temps du réveil et ce que Dieu a annoncé dans le message 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/que_celui_qui_a_des_oreils_ecoute_ce_que_l_esprit_dit_aux_eglises_08_novembre_2007.pdf)
+[Télécharger le PDF](/files/mevar/que_celui_qui_a_des_oreils_ecoute_ce_que_l_esprit_dit_aux_eglises_08_novembre_2007.pdf)

@@ -32,6 +32,7 @@ themes:
   - "jugement de Dieu"
   - "grâce et dons irrévocables"
 pdf_url: "https://mevar.org/content/files/2022/12/la_doctrine_de_Balaam.pdf"
+local_pdf: "/files/mevar/la_doctrine_de_Balaam.pdf"
 llm_cleaned: true
 ---
 La doctrine de Balaam

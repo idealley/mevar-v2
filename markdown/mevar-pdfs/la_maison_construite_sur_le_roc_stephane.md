@@ -29,6 +29,7 @@ themes:
   - "vierges folles"
   - "œuvres justes"
 pdf_url: "https://mevar.org/content/files/2022/12/la_maison_construite_sur_le_roc_stephane.pdf"
+local_pdf: "/files/mevar/la_maison_construite_sur_le_roc_stephane.pdf"
 llm_cleaned: true
 ---
 LA MAISON CONSTRUITE SUR LE ROC

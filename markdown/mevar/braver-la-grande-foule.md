@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_septembre_2019_braver_la_grande_foule.pdf"
+local_pdf: "/files/mevar/exhortation_septembre_2019_braver_la_grande_foule.pdf"
 source: "mevar"
 sermon_id: "braver-la-grande-foule"
 title: "Braver la Grande Foule"
@@ -104,4 +105,4 @@ Mes chers amis, qu’en est-il de nous ? Qu’en est-il ne notre foi ? **Marchon
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_septembre_2019_braver_la_grande_foule.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_septembre_2019_braver_la_grande_foule.pdf)

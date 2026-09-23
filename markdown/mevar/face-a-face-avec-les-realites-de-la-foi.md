@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf"
+local_pdf: "/files/mevar/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf"
 source: "mevar"
 sermon_id: "face-a-face-avec-les-realites-de-la-foi"
 title: "Face à face avec les réalités de la foi"
@@ -140,4 +141,4 @@ Mes bien-aimés frères et sœurs, nous faisons face à toutes les réalités de
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf)
+[Télécharger le PDF](/files/mevar/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf)

@@ -25,6 +25,7 @@ themes:
   - "Prière pour les ennemis"
   - "Esprit d'accusation"
 pdf_url: "https://mevar.org/content/files/2022/12/sujets_de_priere_juillet_2019.pdf"
+local_pdf: "/files/mevar/sujets_de_priere_juillet_2019.pdf"
 llm_cleaned: true
 ---
 SUJETS DE PRIERE DE JUILLET 2019

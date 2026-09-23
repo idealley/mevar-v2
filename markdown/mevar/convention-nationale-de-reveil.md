@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/prophetie_convention_lakota_2018.pdf"
+local_pdf: "/files/mevar/prophetie_convention_lakota_2018.pdf"
 source: "mevar"
 sermon_id: "convention-nationale-de-reveil"
 title: "Convention Nationale de Réveil"
@@ -191,4 +192,4 @@ Vous êtes de puissants vainqueurs, vous êtes vainqueurs. Alléluia ! Vous ête
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/prophetie_convention_lakota_2018.pdf)
+[Télécharger le PDF](/files/mevar/prophetie_convention_lakota_2018.pdf)

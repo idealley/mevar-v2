@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_voeu_de_jephte_06_octobre_2013.pdf"
+local_pdf: "/files/mevar/le_voeu_de_jephte_06_octobre_2013.pdf"
 source: "mevar"
 sermon_id: "le-voeux-de-jephte"
 title: "Le vœux de Jephté"
@@ -129,4 +130,4 @@ Que Dieu nous bénisse ! Je vais m’arrêter là. Que la grâce et la paix du S
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_voeu_de_jephte_06_octobre_2013.pdf)
+[Télécharger le PDF](/files/mevar/le_voeu_de_jephte_06_octobre_2013.pdf)

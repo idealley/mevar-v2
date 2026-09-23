@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_octobre_2017_les_coeurs_durs.pdf"
+local_pdf: "/files/mevar/exhortation_octobre_2017_les_coeurs_durs.pdf"
 source: "mevar"
 sermon_id: "les-coeurs-durs"
 title: "Les coeurs durs"
@@ -179,4 +180,4 @@ Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_octobre_2017_les_coeurs_durs.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_octobre_2017_les_coeurs_durs.pdf)

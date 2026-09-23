@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
+local_pdf: "/files/mevar/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
 source: "mevar"
 sermon_id: "le-temoignage-de-dieu"
 title: "Le témoignage de Dieu"
@@ -129,4 +130,4 @@ Le cri de Minuit est venu pour que nous sortions de ce lot de gens séduits qui 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvier_2022.pdf)
+[Télécharger le PDF](/files/mevar/Le_temoignage_de_Dieu_15_janvier_2022.pdf)

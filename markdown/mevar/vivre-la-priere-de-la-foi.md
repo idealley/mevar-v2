@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/1_VIVRE-LA-PRIERE-DE-LA-FOI_03-10-21.pdf"
+local_pdf: "/files/mevar/1_VIVRE-LA-PRIERE-DE-LA-FOI_03-10-21.pdf"
 source: "mevar"
 sermon_id: "vivre-la-priere-de-la-foi"
 title: "Vivre la prière de la Foi"
@@ -85,7 +86,7 @@ _Chant : Je suis vainqueur, alléluia_
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/1_VIVRE-LA-PRIERE-DE-LA-FOI_03-10-21.pdf)
+[Télécharger le PDF](/files/mevar/1_VIVRE-LA-PRIERE-DE-LA-FOI_03-10-21.pdf)
 
 * * *
 

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_mai_2014_l_ile_de_patmos_l_ile_de_la_revelation.pdf"
+local_pdf: "/files/mevar/exhortation_mai_2014_l_ile_de_patmos_l_ile_de_la_revelation.pdf"
 source: "mevar"
 sermon_id: "l-ile-de-patmos-l-ile-de-la-revelation"
 title: "L’Île de patmos – l’Île de la revelation"
@@ -123,4 +124,4 @@ Que la grâce et la paix de notre Seigneur Jésus-Christ soient avec vous tous �
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_mai_2014_l_ile_de_patmos_l_ile_de_la_revelation.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_mai_2014_l_ile_de_patmos_l_ile_de_la_revelation.pdf)

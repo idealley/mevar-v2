@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_avril_2014_le_soldat_urie.pdf"
+local_pdf: "/files/mevar/exhortation_avril_2014_le_soldat_urie.pdf"
 source: "mevar"
 sermon_id: "le-soldat-urie"
 title: "Le Soldat Urie"
@@ -90,4 +91,4 @@ Mes bien-aimés, que la grâce et la paix de notre Seigneur et Sauveur soient av
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_avril_2014_le_soldat_urie.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_avril_2014_le_soldat_urie.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf"
+local_pdf: "/files/mevar/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf"
 source: "mevar"
 sermon_id: "souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi"
 title: "Souviens-toi donc d'où tu es tombé et repens-toi"
@@ -74,4 +75,4 @@ Que la grâce et la paix de notre Seigneur Jésus-Christ soient avec chacun de n
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf)
+[Télécharger le PDF](/files/mevar/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_choix_samuel_15_09_2017.pdf"
+local_pdf: "/files/mevar/le_choix_samuel_15_09_2017.pdf"
 source: "mevar"
 sermon_id: "le-choix"
 title: "Le Choix"
@@ -218,4 +219,4 @@ Que la grâce et la paix du Seigneur soient sur les lecteurs.
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_choix_samuel_15_09_2017.pdf)
+[Télécharger le PDF](/files/mevar/le_choix_samuel_15_09_2017.pdf)

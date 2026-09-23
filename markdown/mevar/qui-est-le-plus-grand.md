@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/broch_plusgrand.pdf"
+local_pdf: "/files/mevar/broch_plusgrand.pdf"
 source: "mevar"
 sermon_id: "qui-est-le-plus-grand"
 title: "Qui est le plus grand ?"
@@ -41,4 +42,4 @@ Lorsque nous regardons ce passage, Paul ne parle pas des faux prophètes qui n�
 
 ### Télécharger gratuitement la brochure :
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/broch_plusgrand.pdf)
+[Télécharger le PDF](/files/mevar/broch_plusgrand.pdf)

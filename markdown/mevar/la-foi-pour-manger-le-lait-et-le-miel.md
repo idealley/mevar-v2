@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_mars_2017_la_foi_pour_manger_le_lait_et_le_miel.pdf"
+local_pdf: "/files/mevar/exhortation_de_mars_2017_la_foi_pour_manger_le_lait_et_le_miel.pdf"
 source: "mevar"
 sermon_id: "la-foi-pour-manger-le-lait-et-le-miel"
 title: "La foi pour manger le lait et le miel"
@@ -215,4 +216,4 @@ Ma prière est que chacun de nous comprenne ce qui se passe réellement dans l�
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_mars_2017_la_foi_pour_manger_le_lait_et_le_miel.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_mars_2017_la_foi_pour_manger_le_lait_et_le_miel.pdf)

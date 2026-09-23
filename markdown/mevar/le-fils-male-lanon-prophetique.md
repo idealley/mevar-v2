@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/Exho_octobre-2014.pdf"
+local_pdf: "/files/mevar/Exho_octobre-2014.pdf"
 source: "mevar"
 sermon_id: "le-fils-male-lanon-prophetique"
 title: "Le fils mâle — l'ânon prophétique"
@@ -301,4 +302,4 @@ Mes frères et sœurs, entrons dans une réelle méditation sur notre relation a
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/Exho_octobre-2014.pdf)
+[Télécharger le PDF](/files/mevar/Exho_octobre-2014.pdf)

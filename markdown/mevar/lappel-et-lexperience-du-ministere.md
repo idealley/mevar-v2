@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/le_ministere_anders.pdf"
+local_pdf: "/files/mevar/le_ministere_anders.pdf"
 source: "mevar"
 sermon_id: "lappel-et-lexperience-du-ministere"
 title: "L'appel et l'expérience du ministère"
@@ -432,4 +433,4 @@ En conclusion, je ne crois pas avoir tout dit dans ce petit exposé. C’est tou
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/le_ministere_anders.pdf)
+[Télécharger le PDF](/files/mevar/le_ministere_anders.pdf)

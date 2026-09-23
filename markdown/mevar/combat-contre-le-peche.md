@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/combat.pdf"
+local_pdf: "/files/mevar/combat.pdf"
 source: "mevar"
 sermon_id: "combat-contre-le-peche"
 title: "Combat contre le péché"
@@ -128,4 +129,4 @@ Frères, sachez que les démons ne sont pas vos amis. Il y a des frères qui pas
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/combat.pdf)
+[Télécharger le PDF](/files/mevar/combat.pdf)

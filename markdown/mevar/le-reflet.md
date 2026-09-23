@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_reflet_11_10_2015.pdf"
+local_pdf: "/files/mevar/le_reflet_11_10_2015.pdf"
 source: "mevar"
 sermon_id: "le-reflet"
 title: "Le reflet"
@@ -77,4 +78,4 @@ Dans cette position, le diable ne pourra pas vous atteindre. Par où va-t-il pas
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_reflet_11_10_2015.pdf)
+[Télécharger le PDF](/files/mevar/le_reflet_11_10_2015.pdf)

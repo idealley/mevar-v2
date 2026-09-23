@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/les_liberateurs_du_peuple_de_dieu_13_07_2014.pdf"
+local_pdf: "/files/mevar/les_liberateurs_du_peuple_de_dieu_13_07_2014.pdf"
 source: "mevar"
 sermon_id: "les-liberateurs-du-peuple-de-dieu"
 title: "Les libérateurs du peuple de Dieu"
@@ -127,4 +128,4 @@ La pluie dévoile beaucoup de choses et cela m’a fait réfléchir. J’ai comp
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_liberateurs_du_peuple_de_dieu_13_07_2014.pdf)
+[Télécharger le PDF](/files/mevar/les_liberateurs_du_peuple_de_dieu_13_07_2014.pdf)

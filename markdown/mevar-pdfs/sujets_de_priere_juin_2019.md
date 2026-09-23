@@ -26,6 +26,7 @@ themes:
   - "délivrance familiale"
   - "bénédiction de l'alliance"
 pdf_url: "https://mevar.org/content/files/2022/12/sujets_de_priere_juin_2019.pdf"
+local_pdf: "/files/mevar/sujets_de_priere_juin_2019.pdf"
 llm_cleaned: true
 ---
 SUJETS DE PRIERE DE JUIN

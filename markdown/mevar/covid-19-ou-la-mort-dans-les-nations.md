@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf"
+local_pdf: "/files/mevar/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf"
 source: "mevar"
 sermon_id: "covid-19-ou-la-mort-dans-les-nations"
 title: "COVID-19 ou la mort dans les nations"
@@ -98,4 +99,4 @@ Que se passera-t-il alors le jour de l’enlèvement ? Que deviendra le monde lo
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf)
+[Télécharger le PDF](/files/mevar/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.pdf)

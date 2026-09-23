@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2014_tu_demandes_une_chose_difficile.pdf"
+local_pdf: "/files/mevar/exhortation_de_fevrier_2014_tu_demandes_une_chose_difficile.pdf"
 source: "mevar"
 sermon_id: "tu-demandes-une-chose-difficile"
 title: "Tu demandes une chose difficile"
@@ -114,4 +115,4 @@ Fr M’BRA Parfait
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_fevrier_2014_tu_demandes_une_chose_difficile.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_fevrier_2014_tu_demandes_une_chose_difficile.pdf)

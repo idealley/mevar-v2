@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_marche_des_vierges_29_11_2013.pdf"
+local_pdf: "/files/mevar/la_marche_des_vierges_29_11_2013.pdf"
 source: "mevar"
 sermon_id: "la-marche-prophetique-des-dix-vierges"
 title: "La marche prophétique des dix vierges"
@@ -215,4 +216,4 @@ Quand tu lis et comprend mieux les versets de la Bible qui parlent de toi, je pe
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_marche_des_vierges_29_11_2013.pdf)
+[Télécharger le PDF](/files/mevar/la_marche_des_vierges_29_11_2013.pdf)

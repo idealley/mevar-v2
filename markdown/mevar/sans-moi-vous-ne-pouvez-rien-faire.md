@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.pdf"
+local_pdf: "/files/mevar/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.pdf"
 source: "mevar"
 sermon_id: "sans-moi-vous-ne-pouvez-rien-faire"
 title: "Sans Moi vous ne pouvez rien faire"
@@ -87,4 +88,4 @@ Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur J�
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.pdf)

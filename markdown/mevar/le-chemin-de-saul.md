@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_chemin_de_saul_21_aout_2021.pdf"
+local_pdf: "/files/mevar/le_chemin_de_saul_21_aout_2021.pdf"
 source: "mevar"
 sermon_id: "le-chemin-de-saul"
 title: "Le chemin de Saül"
@@ -79,4 +80,4 @@ Donc, ce soir, on va prier. Nous sommes venus par la foi. Celui qui sait que Die
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_chemin_de_saul_21_aout_2021.pdf)
+[Télécharger le PDF](/files/mevar/le_chemin_de_saul_21_aout_2021.pdf)

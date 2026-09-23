@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/2_signes_d_un_ministere_17_11_19.pdf"
+local_pdf: "/files/mevar/2_signes_d_un_ministere_17_11_19.pdf"
 source: "mevar"
 sermon_id: "les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie"
 title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu (2)"
@@ -209,4 +210,4 @@ Nos affaires ne resteront pas avec le diable. Nous sommes dans le même combat q
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/2_signes_d_un_ministere_17_11_19.pdf)
+[Télécharger le PDF](/files/mevar/2_signes_d_un_ministere_17_11_19.pdf)

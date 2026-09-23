@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf"
+local_pdf: "/files/mevar/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf"
 source: "mevar"
 sermon_id: "le-processus-de-la-maturation-du-fils-de-l-eglise"
 title: "Le Processus de la maturation du fils de l’Église"
@@ -99,4 +100,4 @@ Au moment où je vous parle cela fait 10 ans que ça s’est passé : c’était
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf)
+[Télécharger le PDF](/files/mevar/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf)

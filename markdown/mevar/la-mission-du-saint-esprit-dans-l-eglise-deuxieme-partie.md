@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_mission_du_st-esprit_deuxieme_partie_21_01_2017.pdf"
+local_pdf: "/files/mevar/la_mission_du_st-esprit_deuxieme_partie_21_01_2017.pdf"
 source: "mevar"
 sermon_id: "la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie"
 title: "La mission du Saint-Esprit dans l’Eglise (2)"
@@ -146,4 +147,4 @@ Que Dieu nous bénisse et que vraiment sa grâce soit avec nous. Je pense que j�
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_mission_du_st-esprit_deuxieme_partie_21_01_2017.pdf)
+[Télécharger le PDF](/files/mevar/la_mission_du_st-esprit_deuxieme_partie_21_01_2017.pdf)

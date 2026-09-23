@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/2_FAIRE-FRONT-PAR-LA-FOI_08-01-23.pdf"
+local_pdf: "/files/mevar/2_FAIRE-FRONT-PAR-LA-FOI_08-01-23.pdf"
 source: "mevar"
 sermon_id: "faire-front-par-la-foi-premiere-partie"
 title: "Faire front par la Foi - première partie"
@@ -174,7 +175,7 @@ On n’a pas à lutter contre la chair et le sang. Celui qui a la foi, il en a f
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/06/2_FAIRE-FRONT-PAR-LA-FOI_08-01-23.pdf)
+[Télécharger le PDF](/files/mevar/2_FAIRE-FRONT-PAR-LA-FOI_08-01-23.pdf)
 
 * * *
 

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-joie-07.07.2024.pdf"
+local_pdf: "/files/mevar/le-fruit-de-l-esprit-la-joie-07.07.2024.pdf"
 source: "mevar"
 sermon_id: "le-fruit-de-lesprit-la-joie"
 title: "Le fruit de l’Esprit – La joie"
@@ -228,7 +229,7 @@ Quelqu'un dirait qu'il est devenu un criminel ce jour-là. Ce n’est pas une af
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2025/05/le-fruit-de-l-esprit-la-joie-07.07.2024.pdf)
+[Télécharger le PDF](/files/mevar/le-fruit-de-l-esprit-la-joie-07.07.2024.pdf)
 
 * * *
 

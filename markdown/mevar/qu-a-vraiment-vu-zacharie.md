@@ -86,9 +86,9 @@ Michael Rood nous donne les dimensions modernisées suivantes en expliquant qu'e
 
 Zacharie a donc vu quelque chose voler et il a utilisé le mot megillah car c'était le seul mot de son vocabulaire qui se rapprochait de ce qu'il voyait. Voilà deux exemples de megillah en argent qui devraient permettre à un lecteur du vingt-et-unième siècle de faire le raisonnement inverse de celui de Zacharie :
 
-![](https://mevar.org/content/images/2022/12/megillah_2.jpg)
+![](/images/mevar/content/megillah_2.jpg)
 
-![](https://mevar.org/content/images/2022/12/megillah_3_esther.jpg)
+![](/images/mevar/content/megillah_3_esther.jpg)
 
 ##### Deux _megillot_ dans des cylindres en argent, et un plus simple en bois
 

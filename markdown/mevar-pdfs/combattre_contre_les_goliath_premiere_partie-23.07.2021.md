@@ -37,6 +37,7 @@ themes:
   - "délivrance"
   - "réveil spirituel"
 pdf_url: "https://mevar.org/content/files/2022/12/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
+local_pdf: "/files/mevar/combattre_contre_les_goliath_premiere_partie-23.07.2021.pdf"
 llm_cleaned: true
 ---
 L'enjeu du combat contre Goliath – Partie 1

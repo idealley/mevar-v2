@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/Aux_jours_du_saint_esprit.pdf"
+local_pdf: "/files/mevar/Aux_jours_du_saint_esprit.pdf"
 source: "mevar"
 sermon_id: "aux-jours-du-saint-esprit"
 title: "Aux Jours du Saint-Esprit"
@@ -194,4 +195,4 @@ _Plus près de Toi ». \[Réd.\]_
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Aux_jours_du_saint_esprit.pdf)
+[Télécharger le PDF](/files/mevar/Aux_jours_du_saint_esprit.pdf)

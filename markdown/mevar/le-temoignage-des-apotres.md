@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_temoignage_des_apotres_13_janvier_2022.pdf"
+local_pdf: "/files/mevar/le_temoignage_des_apotres_13_janvier_2022.pdf"
 source: "mevar"
 sermon_id: "le-temoignage-des-apotres"
 title: "Le témoignage des apôtres"
@@ -127,4 +128,4 @@ Frères et sœurs, que Dieu nous fortifie, que Dieu nous encourage et que, vraim
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_temoignage_des_apotres_13_janvier_2022.pdf)
+[Télécharger le PDF](/files/mevar/le_temoignage_des_apotres_13_janvier_2022.pdf)

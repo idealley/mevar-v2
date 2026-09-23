@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.pdf"
+local_pdf: "/files/mevar/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.pdf"
 source: "mevar"
 sermon_id: "la-predication-de-la-croix-et-le-message-du-temps-de-la-fin"
 title: "La prédication de la croix et le Message du temps de la fin"
@@ -186,4 +187,4 @@ Si ce n’est pas le cas, cela veut dire qu’on a un problème. On n’a pas en
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.pdf)
+[Télécharger le PDF](/files/mevar/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.pdf)

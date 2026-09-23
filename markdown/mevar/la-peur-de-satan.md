@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_fin_mars_2022_la_peur_de_satan.pdf"
+local_pdf: "/files/mevar/exhortation_fin_mars_2022_la_peur_de_satan.pdf"
 source: "mevar"
 sermon_id: "la-peur-de-satan"
 title: "La peur de Satan"
@@ -95,4 +96,4 @@ Soyez bénis au nom de Jésus-Christ notre Seigneur, car c’est en Lui que je v
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_fin_mars_2022_la_peur_de_satan.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_fin_mars_2022_la_peur_de_satan.pdf)

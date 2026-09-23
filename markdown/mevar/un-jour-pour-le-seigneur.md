@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/un_jour_pour_le_seigneur_29_03_2015.pdf"
+local_pdf: "/files/mevar/un_jour_pour_le_seigneur_29_03_2015.pdf"
 source: "mevar"
 sermon_id: "un-jour-pour-le-seigneur"
 title: "Un jour pour le Seigneur"
@@ -138,4 +139,4 @@ C’est comme quelqu’un qu’on voit en train de prêcher ici à Koumassi dans
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/un_jour_pour_le_seigneur_29_03_2015.pdf)
+[Télécharger le PDF](/files/mevar/un_jour_pour_le_seigneur_29_03_2015.pdf)

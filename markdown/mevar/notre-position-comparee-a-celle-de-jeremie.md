@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/notre_position-comparee_a_celle_de_jeremie_23_12_2015.pdf"
+local_pdf: "/files/mevar/notre_position-comparee_a_celle_de_jeremie_23_12_2015.pdf"
 source: "mevar"
 sermon_id: "notre-position-comparee-a-celle-de-jeremie"
 title: "Notre position comparée à celle de Jérémie"
@@ -90,4 +91,4 @@ N’ignorons pas nos droits. Nous ne devons pas ignorer ce que Dieu a fait de no
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/notre_position-comparee_a_celle_de_jeremie_23_12_2015.pdf)
+[Télécharger le PDF](/files/mevar/notre_position-comparee_a_celle_de_jeremie_23_12_2015.pdf)

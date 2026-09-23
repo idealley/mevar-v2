@@ -34,6 +34,7 @@ themes:
   - "rejet des ouvriers d'iniquité"
   - "édification de l'Église"
 pdf_url: "https://mevar.org/content/files/2022/12/3_signes_d_un_ministere_01_12_19.pdf"
+local_pdf: "/files/mevar/3_signes_d_un_ministere_01_12_19.pdf"
 llm_cleaned: true
 ---
 Les signes d’une œuvre ou d’un Ministère authentique de Dieu - 3e partie

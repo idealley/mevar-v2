@@ -51,6 +51,7 @@ themes:
   - "jugement de Dieu"
   - "discernement des esprits"
 pdf_url: "https://mevar.org/content/files/2022/12/2_signes_d_un_ministere_17_11_19.pdf"
+local_pdf: "/files/mevar/2_signes_d_un_ministere_17_11_19.pdf"
 llm_cleaned: true
 ---
 Les signes d’un Ministère ou d’une œuvre authentique de Dieu, deuxième partie –

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_mi_aout_2016_un_message_de_la_fin_des_temps_pour_une_foi_de_la_fin_des_temps.pdf"
+local_pdf: "/files/mevar/exhortation_mi_aout_2016_un_message_de_la_fin_des_temps_pour_une_foi_de_la_fin_des_temps.pdf"
 source: "mevar"
 sermon_id: "un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps"
 title: "Un message de la fin des temps pour une foi de la fin des temps"
@@ -143,4 +144,4 @@ Mes chers amis, que la grâce et la paix de notre Seigneur Jésus-Christ soient 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_mi_aout_2016_un_message_de_la_fin_des_temps_pour_une_foi_de_la_fin_des_temps.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_mi_aout_2016_un_message_de_la_fin_des_temps_pour_une_foi_de_la_fin_des_temps.pdf)

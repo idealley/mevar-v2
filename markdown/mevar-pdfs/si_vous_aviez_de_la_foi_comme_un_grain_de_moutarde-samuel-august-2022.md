@@ -30,6 +30,7 @@ themes:
   - "autorité spirituelle"
   - "discipline"
 pdf_url: "https://mevar.org/content/files/2022/12/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
+local_pdf: "/files/mevar/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
 llm_cleaned: true
 ---
 “Si vous aviez de la foi comme un grain de moutarde.”

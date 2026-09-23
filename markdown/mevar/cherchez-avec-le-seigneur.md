@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf"
+local_pdf: "/files/mevar/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf"
 source: "mevar"
 sermon_id: "cherchez-avec-le-seigneur"
 title: "Cherchez avec le Seigneur"
@@ -94,4 +95,4 @@ En effet, pour être combattant djihadiste, il faut être musulman mais pour êt
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf)

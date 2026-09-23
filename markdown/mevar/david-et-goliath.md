@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/David_et_Goliath_le_cri_de_minuit.pdf"
+local_pdf: "/files/mevar/David_et_Goliath_le_cri_de_minuit.pdf"
 source: "mevar"
 sermon_id: "david-et-goliath"
 title: "David et Goliath"
@@ -184,4 +185,4 @@ Laissons-nous corriger par Dieu, écoutons la correction, et achetons de l’or 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/David_et_Goliath_le_cri_de_minuit.pdf)
+[Télécharger le PDF](/files/mevar/David_et_Goliath_le_cri_de_minuit.pdf)

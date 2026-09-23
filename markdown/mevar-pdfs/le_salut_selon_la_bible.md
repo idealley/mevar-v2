@@ -28,6 +28,7 @@ themes:
   - "mise en garde contre les faux christs"
   - "grâce de Dieu"
 pdf_url: "https://mevar.org/content/files/2022/12/le_salut_selon_la_bible.pdf"
+local_pdf: "/files/mevar/le_salut_selon_la_bible.pdf"
 llm_cleaned: true
 ---
 Le Salut selon la Bible

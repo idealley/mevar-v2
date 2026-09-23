@@ -36,6 +36,7 @@ themes:
   - "obéissance"
   - "persévérance"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf"
+local_pdf: "/files/mevar/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.pdf"
 llm_cleaned: true
 ---
 Exhortation d’Octobre 2019

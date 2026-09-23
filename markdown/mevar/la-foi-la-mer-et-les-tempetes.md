@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/La-foi-la-mer-et-les-tempetes.pdf"
+local_pdf: "/files/mevar/La-foi-la-mer-et-les-tempetes.pdf"
 source: "mevar"
 sermon_id: "la-foi-la-mer-et-les-tempetes"
 title: "​La foi, la mer et les tempêtes"
@@ -99,4 +100,4 @@ _Chant : Anangaman ti min yôbuê…_
 
 * * *
 
-[Télécharger le PDF](https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/La-foi-la-mer-et-les-tempetes.pdf)
+[Télécharger le PDF](/files/mevar/La-foi-la-mer-et-les-tempetes.pdf)

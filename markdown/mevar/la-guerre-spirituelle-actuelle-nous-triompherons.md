@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf"
+local_pdf: "/files/mevar/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf"
 source: "mevar"
 sermon_id: "la-guerre-spirituelle-actuelle-nous-triompherons"
 title: "La guerre spirituelle actuelle - nous triompherons"
@@ -121,4 +122,4 @@ Mes bien-aimés, quel combat mena Abraham ? Il alla libérer son neveu Lot qui a
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf)
+[Télécharger le PDF](/files/mevar/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.pdf)

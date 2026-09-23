@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_de_octobre_2015_a_qui_comparerai-je_cette_generation.pdf"
+local_pdf: "/files/mevar/exhortation_de_octobre_2015_a_qui_comparerai-je_cette_generation.pdf"
 source: "mevar"
 sermon_id: "a-qui-comparerai-je-cette-generation"
 title: "A qui comparerai-je cette génération?"
@@ -140,4 +141,4 @@ Mes bien-aimés frères et sœurs, à qui est-ce que Jésus peut-Il comparer les
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_de_octobre_2015_a_qui_comparerai-je_cette_generation.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_de_octobre_2015_a_qui_comparerai-je_cette_generation.pdf)

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/des_hommes_faits_30_10_2016.pdf"
+local_pdf: "/files/mevar/des_hommes_faits_30_10_2016.pdf"
 source: "mevar"
 sermon_id: "des-hommes-faits"
 title: "Des Hommes Faits"
@@ -121,4 +122,4 @@ Donc quand tu as compris ces choses, tu sais où trouver le Seigneur, tu n’as 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/des_hommes_faits_30_10_2016.pdf)
+[Télécharger le PDF](/files/mevar/des_hommes_faits_30_10_2016.pdf)

@@ -37,6 +37,7 @@ themes:
   - "réveil"
   - "enlèvement"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_speciale_de_decembre_2021.pdf"
+local_pdf: "/files/mevar/exhortation_speciale_de_decembre_2021.pdf"
 llm_cleaned: true
 ---
 Exhortation Spéciale de Décembre 2021

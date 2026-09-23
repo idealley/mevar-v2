@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2023/01/approchez-vous_de_Dieu.pdf"
+local_pdf: "/files/mevar/approchez-vous_de_Dieu.pdf"
 source: "mevar"
 sermon_id: "untitled"
 title: "Approchez-vous de Dieu et Il s’approchera de vous"
@@ -119,4 +120,4 @@ Frères, approchons-nous de Dieu et Il s’approchera de nous ! C’est récipro
 
 * * *
 
-[Télécharger le PDF](https://mevar.org/content/files/2023/01/approchez-vous_de_Dieu.pdf)
+[Télécharger le PDF](/files/mevar/approchez-vous_de_Dieu.pdf)

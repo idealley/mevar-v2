@@ -40,6 +40,7 @@ themes:
   - "soutien financier à l'œuvre"
   - "offrande de reconnaissance"
 pdf_url: "https://mevar.org/content/files/2022/12/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
+local_pdf: "/files/mevar/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
 llm_cleaned: true
 ---
 *Pourquoi ne sommes-nous pas exaucés ? Première partie, prêché le dimanche 23 septembre 2019 à Koumassi par le frère M'BRA Parfait*

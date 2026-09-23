@@ -40,6 +40,7 @@ themes:
   - "révélation de Christ"
   - "manifestation des fils de Dieu"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf"
+local_pdf: "/files/mevar/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.pdf"
 llm_cleaned: true
 ---
 *Exhortation Fin Mai 2022*

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_septieme_sceau_premiere_partie_6_09_2019.pdf"
+local_pdf: "/files/mevar/le_septieme_sceau_premiere_partie_6_09_2019.pdf"
 source: "mevar"
 sermon_id: "le-septieme-sceau"
 title: "Le septième sceau"
@@ -244,4 +245,4 @@ Nous devons comprendre que la situation de l’Église a évolué et va continue
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_septieme_sceau_premiere_partie_6_09_2019.pdf)
+[Télécharger le PDF](/files/mevar/le_septieme_sceau_premiere_partie_6_09_2019.pdf)

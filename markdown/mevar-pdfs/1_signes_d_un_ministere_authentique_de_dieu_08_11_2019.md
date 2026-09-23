@@ -36,6 +36,7 @@ themes:
   - "discernement spirituel"
   - "parole de Dieu"
 pdf_url: "https://mevar.org/content/files/2022/12/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf"
+local_pdf: "/files/mevar/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf"
 llm_cleaned: true
 ---
 Les signes d’un Ministère ou d’une œuvre authentique de Dieu

@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/sujets_de_priere_novembre_2019.pdf"
+local_pdf: "/files/mevar/sujets_de_priere_novembre_2019.pdf"
 source: "mevar"
 sermon_id: "novembre-decembre-2019"
 title: "Novembre - Décembre 2019"
@@ -41,4 +42,4 @@ Régime de prière du **25 Novembre au 15 Décembre 2019**. Ces moments de priè
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/sujets_de_priere_novembre_2019.pdf)
+[Télécharger le PDF](/files/mevar/sujets_de_priere_novembre_2019.pdf)

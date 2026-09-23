@@ -34,6 +34,7 @@ themes:
   - "prière"
   - "témoignage"
 pdf_url: "https://mevar.org/content/files/2022/12/Exhortation_de_Juillet_2019.pdf"
+local_pdf: "/files/mevar/Exhortation_de_Juillet_2019.pdf"
 llm_cleaned: true
 ---
 *Exhortation de Juillet 2019*

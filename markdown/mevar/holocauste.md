@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_2021.pdf"
+local_pdf: "/files/mevar/holocoste-exhortation_mars_2021.pdf"
 source: "mevar"
 sermon_id: "holocauste"
 title: "Holocauste"
@@ -81,4 +82,4 @@ De plus en plus, le premier commandement prend de la place dans mes pensées et 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/holocoste-exhortation_mars_2021.pdf)
+[Télécharger le PDF](/files/mevar/holocoste-exhortation_mars_2021.pdf)

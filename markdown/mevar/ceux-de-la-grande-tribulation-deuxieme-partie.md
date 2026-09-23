@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_deuxieme_partie_30_08_2015.pdf"
+local_pdf: "/files/mevar/ceux_de_la_grande_tribulation_deuxieme_partie_30_08_2015.pdf"
 source: "mevar"
 sermon_id: "ceux-de-la-grande-tribulation-deuxieme-partie"
 title: "Ceux de la grande tribulation (2)"
@@ -219,4 +220,4 @@ En approchant du nouveau millénaire, tous les signes nous montrent que le retou
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_deuxieme_partie_30_08_2015.pdf)
+[Télécharger le PDF](/files/mevar/ceux_de_la_grande_tribulation_deuxieme_partie_30_08_2015.pdf)

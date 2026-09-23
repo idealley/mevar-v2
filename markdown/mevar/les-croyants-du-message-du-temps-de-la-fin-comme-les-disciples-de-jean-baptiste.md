@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste_31_08_2019.pdf"
+local_pdf: "/files/mevar/les_disciples_de_jean_baptiste_31_08_2019.pdf"
 source: "mevar"
 sermon_id: "les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste"
 title: "Les croyants du Message du Temps de la Fin comme les disciples de Jean-Baptiste"
@@ -148,4 +149,4 @@ C’est ce qui s’est passé à un moment donné dans le Message : des frères 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste_31_08_2019.pdf)
+[Télécharger le PDF](/files/mevar/les_disciples_de_jean_baptiste_31_08_2019.pdf)

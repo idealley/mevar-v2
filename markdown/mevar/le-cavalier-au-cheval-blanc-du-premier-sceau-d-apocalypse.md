@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/7_Sceaux_1.pdf"
+local_pdf: "/files/mevar/7_Sceaux_1.pdf"
 source: "mevar"
 sermon_id: "le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse"
 title: "Le Cavalier au Cheval Blanc d'Apocalypse"
@@ -202,4 +203,4 @@ Les enfants d’Israël ont commis cette erreur, et cette même erreur a été c
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/7_Sceaux_1.pdf)
+[Télécharger le PDF](/files/mevar/7_Sceaux_1.pdf)

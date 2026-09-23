@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
+local_pdf: "/files/mevar/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
 source: "mevar"
 sermon_id: "pourquoi-ne-sommes-nous-pas-exauces"
 title: "Pourquoi ne sommes-nous pas exaucés ?"
@@ -163,4 +164,4 @@ Que Dieu soit béni. Nous allons poursuivre une prochaine fois concernant le mar
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf)
+[Télécharger le PDF](/files/mevar/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf)

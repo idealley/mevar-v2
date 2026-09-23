@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_mission_du_st-esprit_permiere_partie_21_01_2017.pdf"
+local_pdf: "/files/mevar/la_mission_du_st-esprit_permiere_partie_21_01_2017.pdf"
 source: "mevar"
 sermon_id: "la-mission-du-saint-esprit-dans-l-eglise"
 title: "La Mission du Saint-Esprit dans l’Eglise (1)"
@@ -162,4 +163,4 @@ Des grands monts vient le secours;Suisse, espère en Dieu toujours!Garde la foi 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_mission_du_st-esprit_permiere_partie_21_01_2017.pdf)
+[Télécharger le PDF](/files/mevar/la_mission_du_st-esprit_permiere_partie_21_01_2017.pdf)

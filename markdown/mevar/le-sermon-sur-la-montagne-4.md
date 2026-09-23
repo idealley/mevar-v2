@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
+local_pdf: "/files/mevar/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf"
 source: "mevar"
 sermon_id: "le-sermon-sur-la-montagne-4"
 title: "Le Sermon sur la Montagne (4)"
@@ -158,4 +159,4 @@ Que Dieu vous bénisse, que sa grâce et sa paix soient sur vous et que le confi
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf)
+[Télécharger le PDF](/files/mevar/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.pdf)

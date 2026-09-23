@@ -39,6 +39,7 @@ themes:
   - "choix de Dieu"
   - "humilité"
 pdf_url: "https://mevar.org/content/files/2022/12/dieu_regarde_le_coeur_exhortation_de_Juillet_2020.pdf"
+local_pdf: "/files/mevar/dieu_regarde_le_coeur_exhortation_de_Juillet_2020.pdf"
 llm_cleaned: true
 ---
 Exhortation de Juillet 2020

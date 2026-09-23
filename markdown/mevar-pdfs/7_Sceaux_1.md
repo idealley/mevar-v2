@@ -39,6 +39,7 @@ themes:
   - "Guerre spirituelle"
   - "Prophétie et accomplissement"
 pdf_url: "https://mevar.org/content/files/2022/12/7_Sceaux_1.pdf"
+local_pdf: "/files/mevar/7_Sceaux_1.pdf"
 llm_cleaned: true
 ---
 Le Message des 7 Sceaux (premier sceau), prêché à Koumassi le dimanche 1ᵉʳ Juillet 2019 par le frère M’BRA Parfait

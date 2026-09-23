@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/eglise_comme_obed-edom_23_09_2014.pdf"
+local_pdf: "/files/mevar/eglise_comme_obed-edom_23_09_2014.pdf"
 source: "mevar"
 sermon_id: "l-eglise-comme-obed-edom"
 title: "L’Eglise comme Obed-Edom"
@@ -133,4 +134,4 @@ frère M’BRA Parfait
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/eglise_comme_obed-edom_23_09_2014.pdf)
+[Télécharger le PDF](/files/mevar/eglise_comme_obed-edom_23_09_2014.pdf)

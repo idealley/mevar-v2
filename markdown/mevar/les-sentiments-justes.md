@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/les-sentiments-justes-exhortation-fevrier-2020.pdf"
+local_pdf: "/files/mevar/les-sentiments-justes-exhortation-fevrier-2020.pdf"
 source: "mevar"
 sermon_id: "les-sentiments-justes"
 title: "Les sentiments justes"
@@ -138,4 +139,4 @@ Mes bien-aimés, si nous devons avoir les mêmes sentiments, cela veut dire qu�
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/les-sentiments-justes-exhortation-fevrier-2020.pdf)
+[Télécharger le PDF](/files/mevar/les-sentiments-justes-exhortation-fevrier-2020.pdf)

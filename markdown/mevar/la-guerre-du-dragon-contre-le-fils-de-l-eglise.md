@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_guerre_du_dragon_contre_le_fils_de_l_eglise_19_janvier_2012.pdf"
+local_pdf: "/files/mevar/la_guerre_du_dragon_contre_le_fils_de_l_eglise_19_janvier_2012.pdf"
 source: "mevar"
 sermon_id: "la-guerre-du-dragon-contre-le-fils-de-l-eglise"
 title: "La guerre du Dragon contre le Fils de l’Eglise"
@@ -157,4 +158,4 @@ Et il y a un temps de visitation qui est prévu. Dieu doit visiter chacun d’en
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_guerre_du_dragon_contre_le_fils_de_l_eglise_19_janvier_2012.pdf)
+[Télécharger le PDF](/files/mevar/la_guerre_du_dragon_contre_le_fils_de_l_eglise_19_janvier_2012.pdf)

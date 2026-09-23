@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation-la-fin-d-une-epoque-novembre-2022.pdf"
+local_pdf: "/files/mevar/exhortation-la-fin-d-une-epoque-novembre-2022.pdf"
 source: "mevar"
 sermon_id: "la-fin-d-une-epoque"
 title: "La fin d'une époque"
@@ -257,4 +258,4 @@ Mes chers frères et sœurs, nous sommes très avancés dans la progression de l
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation-la-fin-d-une-epoque-novembre-2022.pdf)
+[Télécharger le PDF](/files/mevar/exhortation-la-fin-d-une-epoque-novembre-2022.pdf)

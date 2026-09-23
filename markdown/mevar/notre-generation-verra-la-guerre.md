@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/notre-generation-verra-la-guerre-exhortation_fin_avril_2015.pdf"
+local_pdf: "/files/mevar/notre-generation-verra-la-guerre-exhortation_fin_avril_2015.pdf"
 source: "mevar"
 sermon_id: "notre-generation-verra-la-guerre"
 title: "Notre génération verra la guerre"
@@ -132,4 +133,4 @@ Mes chers amis, c’est ici la petite inspiration que j’ai reçue du Seigneur 
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/notre-generation-verra-la-guerre-exhortation_fin_avril_2015.pdf)
+[Télécharger le PDF](/files/mevar/notre-generation-verra-la-guerre-exhortation_fin_avril_2015.pdf)

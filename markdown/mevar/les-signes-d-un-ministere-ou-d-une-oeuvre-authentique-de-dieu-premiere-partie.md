@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf"
+local_pdf: "/files/mevar/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf"
 source: "mevar"
 sermon_id: "les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie"
 title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu (1)"
@@ -211,4 +212,4 @@ Tout cela fait que, les signes au milieu de nous, ce n’est pas facile parce qu
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf)
+[Télécharger le PDF](/files/mevar/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.pdf)

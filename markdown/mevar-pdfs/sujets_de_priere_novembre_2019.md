@@ -23,6 +23,7 @@ themes:
   - "dons spirituels"
   - "témoignage"
 pdf_url: "https://mevar.org/content/files/2022/12/sujets_de_priere_novembre_2019.pdf"
+local_pdf: "/files/mevar/sujets_de_priere_novembre_2019.pdf"
 llm_cleaned: true
 ---
 SUJETS DE PRIÈRE NOVEMBRE – DÉCEMBRE 2019

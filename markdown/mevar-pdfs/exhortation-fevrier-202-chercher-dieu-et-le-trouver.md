@@ -41,6 +41,7 @@ themes:
   - "dépouillement"
   - "autorité du croyant"
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf"
+local_pdf: "/files/mevar/exhortation-fevrier-202-chercher-dieu-et-le-trouver.pdf"
 llm_cleaned: true
 ---
 Exhortation De Février 2022

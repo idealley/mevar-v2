@@ -34,6 +34,7 @@ themes:
   - "onction royale"
   - "parole de Dieu"
 pdf_url: "https://mevar.org/content/files/2022/12/David_et_Goliath_le_cri_de_minuit.pdf"
+local_pdf: "/files/mevar/David_et_Goliath_le_cri_de_minuit.pdf"
 llm_cleaned: true
 ---
 David et Goliath - le cri de minuit

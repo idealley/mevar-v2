@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/exhortation_juin_2006_Souvenez-vous.pdf"
+local_pdf: "/files/mevar/exhortation_juin_2006_Souvenez-vous.pdf"
 source: "mevar"
 sermon_id: "souvenez-vous"
 title: "Souvenez-vous!"
@@ -139,4 +140,4 @@ Fr. M'BRA Parfait
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/exhortation_juin_2006_Souvenez-vous.pdf)
+[Télécharger le PDF](/files/mevar/exhortation_juin_2006_Souvenez-vous.pdf)

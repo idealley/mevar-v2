@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/les_jours_du_fils_de_l_home_26_11_2006.pdf"
+local_pdf: "/files/mevar/les_jours_du_fils_de_l_home_26_11_2006.pdf"
 source: "mevar"
 sermon_id: "les-jours-du-fils-de-l-homme"
 title: "Les jours du fils de l'homme"
@@ -197,4 +198,4 @@ Prière et chant : Jésus brisa mes chaînes… il me libéra… je chante allé
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/les_jours_du_fils_de_l_home_26_11_2006.pdf)
+[Télécharger le PDF](/files/mevar/les_jours_du_fils_de_l_home_26_11_2006.pdf)

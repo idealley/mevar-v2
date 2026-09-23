@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_autorite_spirituelle_24_05_2015.pdf"
+local_pdf: "/files/mevar/l_autorite_spirituelle_24_05_2015.pdf"
 source: "mevar"
 sermon_id: "l-autorite-spirituelle"
 title: "L’autorité spirituelle"
@@ -113,4 +114,4 @@ Mais si tu as un problème et que tu négliges ta position. Tu es fatigué, tu e
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_autorite_spirituelle_24_05_2015.pdf)
+[Télécharger le PDF](/files/mevar/l_autorite_spirituelle_24_05_2015.pdf)

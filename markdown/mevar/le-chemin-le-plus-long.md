@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/le_chemin_le_plus_long_02_05_2015.pdf"
+local_pdf: "/files/mevar/le_chemin_le_plus_long_02_05_2015.pdf"
 source: "mevar"
 sermon_id: "le-chemin-le-plus-long"
 title: "Le chemin le plus long"
@@ -90,4 +91,4 @@ Saül a vu la guerre avec le peuple et ils avaient peur de Goliath. Mais quand D
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/le_chemin_le_plus_long_02_05_2015.pdf)
+[Télécharger le PDF](/files/mevar/le_chemin_le_plus_long_02_05_2015.pdf)

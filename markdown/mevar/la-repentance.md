@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/la_repentance_17_07_2016.pdf"
+local_pdf: "/files/mevar/la_repentance_17_07_2016.pdf"
 source: "mevar"
 sermon_id: "la-repentance"
 title: "La repentance"
@@ -283,4 +284,4 @@ Je ne suis plus sur la terre. Je réfléchis… Quand je vais rencontrer le Seig
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/la_repentance_17_07_2016.pdf)
+[Télécharger le PDF](/files/mevar/la_repentance_17_07_2016.pdf)

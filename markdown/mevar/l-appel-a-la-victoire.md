@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/l_appel_la_victoire_06_08_2018.pdf"
+local_pdf: "/files/mevar/l_appel_la_victoire_06_08_2018.pdf"
 source: "mevar"
 sermon_id: "l-appel-a-la-victoire"
 title: "L’ Appel à la victoire"
@@ -193,4 +194,4 @@ il iront voir autre chose que les affaires de Dieu. A l’école, on ne parle pa
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/l_appel_la_victoire_06_08_2018.pdf)
+[Télécharger le PDF](/files/mevar/l_appel_la_victoire_06_08_2018.pdf)

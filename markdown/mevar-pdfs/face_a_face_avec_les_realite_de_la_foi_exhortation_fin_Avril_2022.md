@@ -38,6 +38,7 @@ themes:
   - "mystère de l'iniquité"
   - "prière et vigilance"
 pdf_url: "https://mevar.org/content/files/2022/12/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf"
+local_pdf: "/files/mevar/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.pdf"
 llm_cleaned: true
 ---
 **Exhortation Fin Avril 2022**

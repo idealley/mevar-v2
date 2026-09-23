@@ -1,5 +1,6 @@
 ---
 pdf_download: "https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_premier_partie_23_08_2015.pdf"
+local_pdf: "/files/mevar/ceux_de_la_grande_tribulation_premier_partie_23_08_2015.pdf"
 source: "mevar"
 sermon_id: "ceux-de-la-grande-tribulation"
 title: "Ceux de la grande tribulation (1)"
@@ -256,4 +257,4 @@ A la fin, je voudrais indiquer que ceux qui auront péri dans la grande tribulat
 
 ### Télécharger le document
 
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/ceux_de_la_grande_tribulation_premier_partie_23_08_2015.pdf)
+[Télécharger le PDF](/files/mevar/ceux_de_la_grande_tribulation_premier_partie_23_08_2015.pdf)
