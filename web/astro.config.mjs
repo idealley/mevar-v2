@@ -34,16 +34,25 @@ export default defineConfig({
           ],
         },
         workbox: {
-          globPatterns: ["**/*.{js,css,html,svg,png,webp,woff2}"],
-          maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
+          // The shell only. Pages and images are cached when a reader opens
+          // them, never in bulk: the full corpus is 3,000+ pages, and our
+          // readers are on metered phones.
+          globPatterns: ["_astro/*.{js,css}", "index.html", "hors-ligne/index.html", "brand/*.{svg,png}"],
+          // The plugin defaults this to "/", which would answer every
+          // navigation with the home page once pages are not precached.
+          navigateFallback: null,
           runtimeCaching: [
             {
-              // Markdown work pages — cache-first for offline reading after first visit
-              urlPattern: ({ url }) => url.pathname.startsWith("/works/"),
+              // Every page a reader opens stays readable offline. A page never
+              // opened falls back to /hors-ligne/ when the network is down.
+              urlPattern: ({ request }) => request.mode === "navigate",
               handler: "StaleWhileRevalidate",
               options: {
                 cacheName: "works-pages",
                 expiration: { maxEntries: 500, maxAgeSeconds: 30 * 24 * 60 * 60 },
+                plugins: [
+                  { handlerDidError: async () => caches.match("/hors-ligne/", { ignoreSearch: true }) },
+                ],
               },
             },
             {

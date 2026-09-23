@@ -1,0 +1,19 @@
+---
+// Served by the service worker when a page was never opened and the network
+// is down. Precached with the shell; see astro.config.mjs.
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Hors ligne · Mevar">
+  <div class="container mx-auto px-4 py-16 max-w-2xl">
+    <h1 class="text-3xl font-bold tracking-tight mb-4">Vous êtes hors ligne</h1>
+    <p class="text-lg text-muted-foreground mb-4">
+      Cette page n’a pas encore été ouverte sur cet appareil, elle n’est donc
+      pas disponible sans connexion.
+    </p>
+    <p class="text-lg text-muted-foreground">
+      Les pages que vous avez déjà lues restent lisibles hors ligne.
+      <a href="/" class="text-primary underline">Retour à l’accueil</a>
+    </p>
+  </div>
+</Layout>
