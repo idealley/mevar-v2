@@ -100,7 +100,7 @@ Those 3 are the place to start, because the right sermon is already known: `5306
 
 **Symptom**: `ERESOLVE`: `@vite-pwa/astro@1.2.0` peers `astro@^1 || … || ^5`, the project is on `astro@6.2.2`.
 
-**Fix**: upgrade or drop `@vite-pwa/astro`. Since goal 05, `web/.npmrc` sets `legacy-peer-deps=true`, so `npm ci` works on the Mac and in CI; remove it when a release supports astro 6.
+**Fix**: upgrade or drop `@vite-pwa/astro`. Since goal 05, `overrides` in `web/package.json` lets `@vite-pwa/astro` take the project's astro, so `npm ci` works on the Mac and in CI (npm 10 and 11); remove it when a release supports astro 6.
 
 ## Two stubborn embedding failures
 
@@ -131,7 +131,7 @@ See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + 
 
 ## The same preacher under several names
 
-**Status**: `preacher` has "William Branham" (2,123 works) and "William Marrion Branham" (81); "M'BRA Parfait" (116), "Fr M'BRA Parfait" (48) and "Frère M'BRA Parfait" (12). Since goal 05 the search filter by preacher lists each spelling as a separate preacher.
+**Status**: `preacher` has "William Branham" (2,123 works) and "William Marrion Branham" (81); "M'BRA Parfait" (116), "Fr M'BRA Parfait" (48) and "Frère M'BRA Parfait" (12), and the Ghost posts, which have no `preacher`, "Parfait M'bra" in `authors` (298). Since goal 05 the search filter by preacher lists each spelling as a separate preacher.
 
 **Fix**: normalise `preacher` in the pipeline stage that writes it (a frontmatter field, not the wording of a work), then rebuild.
 

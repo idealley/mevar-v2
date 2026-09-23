@@ -28,7 +28,6 @@ import Layout from "../layouts/Layout.astro";
   const start = document.getElementById("search-start") as HTMLInputElement;
 
   function load() {
-    start.removeEventListener("focus", load);
     const css = document.createElement("link");
     css.rel = "stylesheet";
     css.href = "/pagefind/pagefind-ui.css";
@@ -49,5 +48,5 @@ import Layout from "../layouts/Layout.astro";
     document.head.append(js);
   }
 
-  start.addEventListener("focus", load);
+  start.addEventListener("focus", load, { once: true });
 </script>

@@ -19,7 +19,7 @@ for (const name of readdirSync("dist", { recursive: true })) {
 
 const mib = (b) => (b / 1024 / 1024).toFixed(2);
 console.log(`files: ${count} (limit ${MAX_FILES})`);
-console.log(`largest: ${largest.path}, ${mib(largest.size)} MiB (limit 25 MiB)`);
+console.log(`largest: ${largest.path}, ${mib(largest.size)} MiB (limit ${mib(MAX_BYTES)} MiB)`);
 if (count >= MAX_FILES || largest.size > MAX_BYTES) {
   console.error("dist/ is over a Cloudflare Pages limit");
   process.exit(1);

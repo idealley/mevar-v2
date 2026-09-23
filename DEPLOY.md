@@ -140,7 +140,8 @@ In order. Each step is done by Samuel.
 5. **Spot check**, in a private window:
    - ten old URLs from a Google search `site:mevar.org`;
    - the links in the two most recent newsletter emails;
-   - `https://mevar.org/rss/`;
+   - `https://mevar.org/rss/` (the feed readers subscribe to; goal 03
+     creates it, so check it is on the preview in step 1);
    - one PDF link.
    Every one opens the right page, not a 404 and not the home page.
 6. **Ghost stays up, unlinked, for 30 days**, then is cancelled. Do not start
