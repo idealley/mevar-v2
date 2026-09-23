@@ -69,13 +69,13 @@ bible_refs:
 ---
 ### Introduction
 
+(Jérémie 1:11-12) :
+
 > _**11**La parole de l’Éternel me fut adressée, en ces mots : Que vois-tu, Jérémie ? Je répondis : Je vois une branche d’amandier. **12**Et l’Éternel me dit : Tu as bien vu ; car je veille sur ma parole, pour l’exécuter._
 
-(Jérémie 1:11-12)
+(2 Corinthiens 12:6-7) :
 
 > _**6**Si je voulais me glorifier, je ne serais pas un insensé, car je dirais la vérité ; mais je m’en abstiens, afin que personne n’ait à mon sujet une opinion supérieure à ce qu’il voit en moi ou à ce qu’il entend de moi. **7**Et pour que je ne sois pas enflé d’orgueil, à cause de l’excellence de ces révélations, il m’a été mis une écharde dans la chair, un ange de Satan pour me souffleter et m’empêcher de m’enorgueillir._
-
-(2 Corinthiens 12:6-7)
 
 J’ai entrepris d’écrire brièvement au sujet de l’appel que j’ai reçu du Seigneur parce que plusieurs frères me le demandent, mais surtout parce que je crois que le temps est venu de le faire, afin que nous comprenions tous que personne n’est autorisé à agir de lui-même dans la Maison de Dieu. Je crois fermement que tous les serviteurs de Dieu dont le Ministère interpelle le Corps de Christ dans son ensemble ont une obligation devant les enfants de Dieu – notamment celle de leur présenter en des termes très clairs, la commission qu’ils ont reçue. Je fais partie de ceux qui croient qu’il n’est pas juste de servir Dieu dans le doute. Tout homme qui sert Dieu doit connaître le contenu de son mandat divin.
 
@@ -236,9 +236,9 @@ La première remarque que je voudrais faire est que cette vision du frère Frank
 
 ### Interprétation de la parabole de Jésus
 
-> _**37**Il répondit : Celui qui sème la bonne semence, c’est le Fils de l’homme ; **38**le champ, c’est le monde ; la bonne semence, ce sont les fils du royaume ; l’ivraie, ce sont les fils du malin ; **39**l’ennemi qui l’a semée, c’est le diable ; la moisson, c’est la fin du monde ; les moissonneurs, ce sont les anges. **40**Or, comme on arrache l’ivraie et qu’on la jette au feu, il en sera de même à la fin du monde. **41**Le Fils de l’homme enverra ses anges, qui arracheront de son royaume tous les scandales et ceux qui commettent l’iniquité : **42**et ils les jetteront dans la fournaise ardente, où il y aura des pleurs et des grincements de dents. **43**Alors les justes resplendiront comme le soleil dans le royaume de leur Père. Que celui qui a des oreilles pour entendre entende._
+(Matthieu 13:37-43) :
 
-(Matthieu 13:37-43)
+> _**37**Il répondit : Celui qui sème la bonne semence, c’est le Fils de l’homme ; **38**le champ, c’est le monde ; la bonne semence, ce sont les fils du royaume ; l’ivraie, ce sont les fils du malin ; **39**l’ennemi qui l’a semée, c’est le diable ; la moisson, c’est la fin du monde ; les moissonneurs, ce sont les anges. **40**Or, comme on arrache l’ivraie et qu’on la jette au feu, il en sera de même à la fin du monde. **41**Le Fils de l’homme enverra ses anges, qui arracheront de son royaume tous les scandales et ceux qui commettent l’iniquité : **42**et ils les jetteront dans la fournaise ardente, où il y aura des pleurs et des grincements de dents. **43**Alors les justes resplendiront comme le soleil dans le royaume de leur Père. Que celui qui a des oreilles pour entendre entende._
 
 ### Interprétation de la vision de la Moissonneuse-batteuse
 
@@ -258,9 +258,9 @@ Ici je parlerai seulement des ouvriers que nous sommes. Dieu a prévu pour la Mo
 
 > _**1**Demandez à l’Éternel la pluie, la pluie du printemps ! L’Éternel produira des éclairs, Et il vous enverra une abondante pluie, Il donnera à chacun de l’herbe dans son champ._
 
-> _**24**Ils ne disent pas dans leur cœur : Craignons l’Éternel, notre Dieu, Qui donne la pluie en son temps, La pluie de la première et de l’arrière saison, Et qui nous réserve les semaines destinées à la moisson. **25**C’est à cause de vos iniquités que ces dispensations n’ont pas lieu, Ce sont vos péchés qui vous privent de ces biens. **26**Car il se trouve parmi mon peuple des méchants ; Ils épient comme l’oiseleur qui dresse des pièges, Ils tendent des filets, et prennent des hommes._
+(Jérémie 5:24-26) :
 
-(Jérémie 5:24-26)
+> _**24**Ils ne disent pas dans leur cœur : Craignons l’Éternel, notre Dieu, Qui donne la pluie en son temps, La pluie de la première et de l’arrière saison, Et qui nous réserve les semaines destinées à la moisson. **25**C’est à cause de vos iniquités que ces dispensations n’ont pas lieu, Ce sont vos péchés qui vous privent de ces biens. **26**Car il se trouve parmi mon peuple des méchants ; Ils épient comme l’oiseleur qui dresse des pièges, Ils tendent des filets, et prennent des hommes._
 
 Les prophéties bibliques disent qu’une pluie est attendue par l’Église avant la Moisson. C’est la première chose qui est attendue avant la moisson. Je souhaite que les lecteurs sachent bien mettre les différents événements à leurs places tels que la Bible les présente. En ce qui concerne la pluie de la Moisson, la Bible dit qu’elle ne vient pas à cause des péchés du peuple. En effet, il se trouve des méchants dans l’Église – lesquels se sont infiltrés dans l’Assemblée de Jésus-Christ pendant les temps de sommeil et d’assoupissement comme cela est écrit : « Alors que les gens dormaient, son ennemi vint, sema de l’ivraie parmi le blé, et s’en alla. »
 
@@ -270,9 +270,9 @@ La deuxième phase du réveil est l’éclat particulier du Soleil qui brille su
 
 « La lumière de la lune (Épouse) sera comme la lumière du soleil (Époux), Et la lumière du soleil sera sept fois plus grande comme la lumière de sept jours, Lorsque l’Éternel bandera la blessure de son peuple, Et qu’il guérira la plaie de ses coups. » (Ésaïe 30:26)
 
-> _**1**Car voici, le jour vient, Ardent comme une fournaise. Tous les hautains et tous les méchants seront comme du chaume ; Le jour qui vient les embrasera, Dit l’Éternel des armées, Il ne leur laissera ni racine ni rameau. **2**Mais pour vous qui craignez mon nom, se lèvera Le soleil de la justice, Et la guérison sera sous ses ailes ; Vous sortirez, et vous sauterez comme les veaux d’une étable, **3**Et vous foulerez les méchants, Car ils seront comme de la cendre Sous la plante de vos pieds, Au jour que je prépare, Dit l’Éternel des armées._
+(Malachie 4:1-3) :
 
-(Malachie 4:1-3)
+> _**1**Car voici, le jour vient, Ardent comme une fournaise. Tous les hautains et tous les méchants seront comme du chaume ; Le jour qui vient les embrasera, Dit l’Éternel des armées, Il ne leur laissera ni racine ni rameau. **2**Mais pour vous qui craignez mon nom, se lèvera Le soleil de la justice, Et la guérison sera sous ses ailes ; Vous sortirez, et vous sauterez comme les veaux d’une étable, **3**Et vous foulerez les méchants, Car ils seront comme de la cendre Sous la plante de vos pieds, Au jour que je prépare, Dit l’Éternel des armées._
 
 C’est dans cette phase qu’aura lieu la moisson, c’est-à-dire le témoignage de l’Épouse – en ce moment, Elle sera revêtue d’une autorité particulière pour conquérir le monde. La Moissonneuse-batteuse dont le frère Branham parle et que le frère Frank a vue et utilisée dans cette vision est le symbole de cette Puissance particulière dont sera revêtue l’Épouse. C’est pour cette raison que dans la vision, le frère Frank a seulement vu le blé. L’ivraie avait déjà été ôtée du champ – et le rayonnement puissant du soleil est le déversement de la Puissance de l’Époux dans son Épouse. C’est cela qui est présenté dans la prophétie d’Ésaïe. Premièrement, la lumière de la Lune qui symbolise l’Épouse est comme la lumière du soleil qui symbolise l’Époux. Puis, il est dit dans une autre phase que la lumière du soleil brillera sept fois plus comme la lumière de sept jours en vue d’une totale restauration de l’Épouse.
 
@@ -288,9 +288,9 @@ Mes bien-aimés frères et sœurs, si vous avez compris cette vision, je suppose
 
 Dans le processus du réveil, la sentinelle de Minuit travaille pour que la pluie tombe. À cette heure, il n’est ni question de moisson, ni question de Moissonneuse-batteuse, ni question du Ministère de l’Épouse. Alors je ne comprends pas pourquoi certains frères disent que je veux accomplir une tâche qui revient au frère Frank. La voix de minuit travaille dans les temps de sommeil et d’assoupissement. Son rôle est d’attirer l’attention des vierges sur leurs conditions de détresse. C’est pourquoi mes écrits dépeignent la situation dégradante de l’Église et encouragent les frères et sœurs à entrer dans la repentance, par des jeûnes, des prières et des supplications, parce que notre condition actuelle est une condition de péché – ce qui est le fait des œuvres de l’ivraie semée parmi nous dans les temps de sommeil et d’assoupissement.
 
-> _**12**Maintenant encore, dit l’Éternel, Revenez à moi de tout votre cœur, Avec des jeûnes, avec des pleurs et des lamentations ! **13**Déchirez vos cœurs et non vos vêtements, Et revenez à l’Éternel, votre Dieu ; Car il est compatissant et miséricordieux, Lent à la colère et riche en bonté, Et il se repent des maux qu’il envoie._
+(Joël 2:12-13) :
 
-(Joël 2:12-13)
+> _**12**Maintenant encore, dit l’Éternel, Revenez à moi de tout votre cœur, Avec des jeûnes, avec des pleurs et des lamentations ! **13**Déchirez vos cœurs et non vos vêtements, Et revenez à l’Éternel, votre Dieu ; Car il est compatissant et miséricordieux, Lent à la colère et riche en bonté, Et il se repent des maux qu’il envoie._
 
 C’est de cette manière que nous devrons tous revenir au Seigneur, par des jeûnes, des prières et des lamentations. C’est Lui qui le demande, et c’est ainsi que nous devrons le faire. Nous devrons revenir au Seigneur pour qu’Il nous envoie la pluie. Celui qui lit l’histoire des réveils verra que les choses se sont toujours passées ainsi. Quand les temps de réveil arrivent, le Seigneur se choisit des hommes dans les cœurs desquels Il plante le vif désir du réveil au moment où la condition générale de l’Église est une condition d’assoupissement. Ceux-ci entreprennent des actions en faveur de tout le Corps pour susciter le réveil. C’est ce que nous faisons. C’est la raison de l’édition des brochures telles que les Trois Grandes Visions du Message du Temps de la Fin – le Réveil Promis – Sommeil et Assoupissement Spirituels. L’Esprit de Dieu qui parle depuis le commencement est en train d’adresser un Message particulier au Corps de Christ en ce qui concerne le réveil. Mais qui a des oreilles pour écouter maintenant ce que dit l’Esprit ? C’est aussi la raison de l’existence de la chaîne de prière et d’intercession positionnée sur notre site Web. (www.mevar.org) Le temps du combat spirituel est là pour nous tous – c’est pourquoi nous devrons mettre de côté les incompréhensions et les suspicions dangereuses et inutiles pour descendre dans l’arène en vue du combat des titans. Car, le dernier combat contre Babylone est le combat des titans. C’est le combat des hommes spirituellement violents.
 
@@ -310,9 +310,9 @@ Dans le Nouveau Testament, le seul Tuteur des Fils de Dieu demeure le Saint-Espr
 
 Vous êtes des tueurs de prophètes.
 
-> _**18**Et ils ont dit : Venez, complotons contre Jérémie ! Car la loi ne périra pas faute de sacrificateurs, Ni le conseil faute de sages, ni la parole faute de prophètes. Venez, tuons-le avec la langue ; Ne prenons pas garde à tous ses discours ! **19**Écoute-moi, Éternel ! Et entends la voix de mes adversaires !_
+(Jérémie 18:18-19) :
 
-(Jérémie 18:18-19)
+> _**18**Et ils ont dit : Venez, complotons contre Jérémie ! Car la loi ne périra pas faute de sacrificateurs, Ni le conseil faute de sages, ni la parole faute de prophètes. Venez, tuons-le avec la langue ; Ne prenons pas garde à tous ses discours ! **19**Écoute-moi, Éternel ! Et entends la voix de mes adversaires !_
 
 Pour ces comploteurs, ils n’ont pas vénéré Jérémie, mais l’ont certainement calomnié auprès du peuple pour annuler son service, comme plusieurs le font sur mon compte aujourd’hui. Mais vous, vous avez dit : « Il est le serviteur fidèle et prudent, en conséquence, il ne peut se tromper. Il vaut mieux croire en ce qu’il dit que d’écouter le frère Barilier ou le frère M’BRA. Oh mais le frère Frank, Dieu lui parle directement ! Dieu lui parle à voix audible… ». Frère Frank est devenu pour vous l’Absolu, avec ce qui sort de sa bouche. Mais vous êtes des tueurs de prophètes.
 
@@ -322,9 +322,9 @@ Comme je l’ai déjà dit dans l’éclaircissement apporté sur Matthieu 25:6,
 
 Le rôle de Dieu est de donner la vision à la sentinelle. Le rôle de la sentinelle est de proclamer la vision pour avertir le Peuple de Dieu. Le rôle du Peuple de Dieu est de se laisser avertir par la sentinelle en suivant la vision. Celui qui n’accepte pas de se laisser avertir court à sa propre perte. Ce n’est plus l’affaire de Dieu ni de la sentinelle.
 
-> _**16**Ainsi parle l’Éternel : Placez-vous sur les chemins, regardez, Et demandez quels sont les anciens sentiers, Quelle est la bonne voie ; marchez-y, Et vous trouverez le repos de vos âmes ! Mais ils répondent : Nous n’y marcherons pas. **17**J’ai mis près de vous des sentinelles : Soyez attentifs au son de la trompette ! Mais ils répondent : Nous n’y serons pas attentifs._
+(Jérémie 6:16-17) :
 
-(Jérémie 6:16-17)
+> _**16**Ainsi parle l’Éternel : Placez-vous sur les chemins, regardez, Et demandez quels sont les anciens sentiers, Quelle est la bonne voie ; marchez-y, Et vous trouverez le repos de vos âmes ! Mais ils répondent : Nous n’y marcherons pas. **17**J’ai mis près de vous des sentinelles : Soyez attentifs au son de la trompette ! Mais ils répondent : Nous n’y serons pas attentifs._
 
 Pourquoi vouloir ramener tout le Royaume de Dieu au seul Ministère de Matthieu 24:45 ? Comment peut-on penser un instant que toutes les révélations doivent sortir du seul canal de Matthieu 24:45 ? Quel profit tire-t-on de cela ? Que protège-t-on ? Dans quel Royaume sommes-nous ? Si c’est dans le Royaume de Dieu que moi je connais, là-bas, l’œuvre de Dieu n’est pas ramenée à un seul Ministère. Je voudrais d’ailleurs rappeler à ceux qui l’ont oublié que la Parole de Dieu n’est pas sortie de Jeffersonville, ni de Krefeld. J’ai beaucoup de respect pour le frère Branham et aussi pour le frère Frank. Mais je m’attaque seulement à un démon qui est en train de détruire la vie des frères et sœurs dans le Message du Temps de la Fin. Je ne peux pas accepter que des frères qui ont perdu l’habitude de la communion avec Dieu bâtissent une religion autour du Ministère du frère Frank. Je vous accuse devant le Seigneur Jésus : Vous êtes des tueurs de prophètes, vous qui agissez de cette manière. C’est ici la religion et ses signes. Mais nous ne sommes pas des religieux et nous ne pouvons pas accepter la religion au sein du Message du Temps de la Fin. Nous sommes pour la ligne originelle du Message du Temps de la Fin.
 
@@ -338,9 +338,9 @@ Tous ne sont pas autorisés à parler au sujet des prophéties bibliques. Celui 
 
 Tous les docteurs et tous les prophètes peuvent avoir des révélations qui concernent les prophéties en rapport avec le monde, Israël et l’Église dans sa marche. Mais en ce qui concerne les prophéties reliées à des Ministères promis à l’Église, leur révélation vient uniquement aux hommes directement concernés par cela – à eux d’informer l’Église pour attirer son attention sur le Message qui lui est adressé. Là-dessus je voudrais donner des exemples clairs dans la Bible et dans l’histoire.
 
-> _**3**Une voix crie : Préparez au désert le chemin de l’Éternel, Aplanissez dans les lieux arides Une route pour notre Dieu. **4**Que toute vallée soit exhaussée, Que toute montagne et toute colline soient abaissées ! Que les coteaux se changent en plaines, Et les défilés étroits en vallons ! **5**Alors la gloire de l’Éternel sera révélée, Et au même instant toute chair la verra ; Car la bouche de l’Éternel a parlé._
+(Ésaïe 40:3-5) :
 
-(Ésaïe 40:3-5)
+> _**3**Une voix crie : Préparez au désert le chemin de l’Éternel, Aplanissez dans les lieux arides Une route pour notre Dieu. **4**Que toute vallée soit exhaussée, Que toute montagne et toute colline soient abaissées ! Que les coteaux se changent en plaines, Et les défilés étroits en vallons ! **5**Alors la gloire de l’Éternel sera révélée, Et au même instant toute chair la verra ; Car la bouche de l’Éternel a parlé._
 
 Voici un exemple de prophétie qui concerne directement un homme envoyé de Dieu. Lorsque le temps d’accomplissement de cette prophétie fut arrivé, le concerné fut interné dans le désert jusqu’au jour de sa manifestation : « Or, l’enfant croissait, et se fortifiait en esprit. Et il demeura dans les déserts, jusqu’au jour où il se présenta devant Israël. » (Luc 1:80) Lorsqu’il se présenta à Israël dans la prédication, les guides religieux furent troublés avec le peuple. Alors ils envoyèrent un émissaire vers lui pour le questionner au sujet de sa mission. Ils lui dirent alors : « Qui es-tu ? Afin que nous donnions une réponse à ceux qui nous ont envoyés. Que dis-tu de toi-même ? » Alors Jean répondit : « Moi, dit-il, je suis la voix de celui qui crie dans le désert : Aplanissez le chemin du Seigneur, comme a dit Ésaïe, le prophète. » Comment Jean pouvait-il savoir que cette écriture concernait son Ministère ? Ce fut Dieu qui le lui révéla. Dieu révéla à Jean-Baptiste les écritures qui parlaient de son Ministère. Quand il rendit public cela, alors les auteurs des évangiles, notamment Matthieu 3:3, Marc 1:3, Luc 3:4 et Jean 1:22-23 pouvaient en rendre témoignage pour nous. Jésus-Christ lui-même savait les écritures qui parlaient de Lui. Il en donna la démonstration aux disciples d’Emmaüs (Luc 24:25-27).
 
