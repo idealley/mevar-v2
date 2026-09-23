@@ -9,7 +9,7 @@ status: "published"
 url: "https://mevar.org/le-jour-du-seigneur-1/"
 featured: true
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/05/aditya-vyas-D2-WoBKQfPo-unsplash.jpg"
-local_image: "images/mevar/le-jour-du-seigneur-1.jpg"
+local_image: "images/mevar/le-jour-du-seigneur-1.webp"
 tags:
   - "Prédications"
   - "2023"

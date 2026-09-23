@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/holocauste/"
 feature_image: "https://mevar.org/content/images/2022/12/holocauste-elijah.jpg"
-local_image: "images/mevar/holocauste.jpg"
+local_image: "images/mevar/holocauste.webp"
 tags:
   - "Exhortations"
   - "2021"

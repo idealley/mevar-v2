@@ -21,7 +21,7 @@ bible_refs:
 19 mai 2023:  
 nouvelle fonctionalité: pdf download.
 
-![](/images/mevar/content/Screenshot-2023-05-19-at-12.25.31.png)
+![](/images/mevar/content/Screenshot-2023-05-19-at-12.25.31.webp)
 
 * * *
 
@@ -47,7 +47,7 @@ Effacer les données de navigation.
 
 Vous pouvez filtrer les sites pour n’effacer que les données concernant [mevar.org](mevar.org)
 
-![](/images/mevar/content/Settings-All-cookies-and-site-data.png)
+![](/images/mevar/content/Settings-All-cookies-and-site-data.webp)
 
 [Sur mobile il faudra faire de même](https://support.google.com/accounts/answer/32050?hl=fr&co=GENIE.Platform%3DAndroid).
 

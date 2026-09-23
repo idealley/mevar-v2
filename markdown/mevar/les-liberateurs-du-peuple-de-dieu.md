@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-liberateurs-du-peuple-de-dieu/"
 feature_image: "https://mevar.org/content/images/2022/12/schamgar_fils_d_anath.jpg"
-local_image: "images/mevar/les-liberateurs-du-peuple-de-dieu.jpg"
+local_image: "images/mevar/les-liberateurs-du-peuple-de-dieu.webp"
 tags:
   - "Prédications"
   - "2014"

@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-epreuve-de-moise/"
 feature_image: "https://mevar.org/content/images/2022/12/moses-with-tables.jpg"
-local_image: "images/mevar/l-epreuve-de-moise.jpg"
+local_image: "images/mevar/l-epreuve-de-moise.webp"
 tags:
   - "Prédications"
   - "2018"

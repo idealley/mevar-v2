@@ -11,7 +11,7 @@ status: "published"
 url: "https://mevar.org/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere/"
 featured: true
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/billy-huynh-v9bnfMCyKbg-unsplash.jpg"
-local_image: "images/mevar/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere.jpg"
+local_image: "images/mevar/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere.webp"
 tags:
   - "Publications"
   - "Exhortations"

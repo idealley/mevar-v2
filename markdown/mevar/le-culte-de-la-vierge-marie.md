@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-culte-de-la-vierge-marie/"
 feature_image: "https://mevar.org/content/images/2022/12/marie-with-text.png"
-local_image: "images/mevar/le-culte-de-la-vierge-marie.png"
+local_image: "images/mevar/le-culte-de-la-vierge-marie.webp"
 tags:
   - "Exhortations"
   - "2017"
@@ -117,13 +117,13 @@ La question qu’on peut poser aux frères catholiques est-celle-ci : **_Qui hab
 
 Au temps des enfants d’Israël, dans leur déviation, ils bâtissaient des hauts lieux où ils allaient brûler de l’encens à d’autres dieux et sacrifiaient des victimes pour des dieux païens. Aujourd’hui les hauts lieux, ce sont les grottes mariales, les lieux de pèlerinage et maintenant des sanctuaires de la vierge qu’on érige çà et là en bordure des grandes voies de telle manière que tous ceux qui passent voient. En Christ, il n’existe pas de hauts lieux. La Bible relate les abominations des rois d’Israël.
 
-![](/images/mevar/content/statue-of-marie-in-a-grotte-with-cardianal.png)
+![](/images/mevar/content/statue-of-marie-in-a-grotte-with-cardianal.webp)
 
 > Les enfants d’Israël firent en secret contre l’Eternel, leur Dieu, des choses qui ne sont pas bien. Ils se bâtirent des hauts lieux dans toutes leurs villes, depuis les tours des gardes jusqu’aux villes fortes. **Ils se dressèrent des statues et des idoles sur toute colline élevée et sous tout arbre vert. Et là ils brûlèrent des parfums sur tous les hauts lieux, comme les nations que l’Eternel avait chassées devant eux, et ils firent des choses mauvaises, par lesquelles ils irritèrent l’Eternel.** (2 Rois 17:9-11)
 
 > 18 **A quoi sert une image taillée, pour qu’un ouvrier la taille**? A quoi sert une image en fonte et qui enseigne le mensonge, Pour que l’ouvrier qui l’a faite place en elle sa confiance, Tandis qu’il fabrique des idoles muettes ? **19 Malheur à celui qui dit au bois : Lève-toi ! A une pierre muette : Réveille-toi ! Donnera-t-elle instruction**? Voici, elle est garnie d’or et d’argent, Mais il n’y a point en elle un esprit qui l’anime. 20 **L’Eternel est dans son saint temple. Que toute la terre fasse silence devant lui !** (Habacuc 2:18-20)
 
-![](/images/mevar/content/procession-of-marie.png)
+![](/images/mevar/content/procession-of-marie.webp)
 
 Nul ne peut transporter Dieu, mais une idole comme la Vierge Marie des catholiques peut être transportée par ses adorateurs. En Christ, l’adoration ne se passe pas de cette manière. Les premiers chrétiens et les apôtres ne se promenaient pas dans les rues de Jérusalem avec des statues de Jésus et de Marie, mais ils étaient remplis du Saint-Esprit. (Actes 2) Ce que nous voyons sur cette image est du fétichisme converti en catholicisme.
 
@@ -131,7 +131,7 @@ Nul ne peut transporter Dieu, mais une idole comme la Vierge Marie des catholiqu
 
 > Mais l’heure vient, et elle est déjà venue, où les vrais adorateurs adoreront le Père en esprit et en vérité ; car ce sont là les adorateurs que le Père demande. Dieu est Esprit, et **il faut que ceux qui l’adorent, l’adorent en esprit et en vérité.** (Jean 4:23-24)
 
-![](/images/mevar/content/grotte-notre-dame-des-graces-du-voyageur.png)
+![](/images/mevar/content/grotte-notre-dame-des-graces-du-voyageur.webp)
 
 Grotte Notre Dame des grâces du voyageur.
 
@@ -325,7 +325,7 @@ En février 1858, Bernadette Soubirous (14 ans), jeune fille simple et de santé
 
 Plusieurs milliers de personnes vont chaque année en pèlerinage à Lourdes pour rechercher la protection de la vierge Marie. Et tout cela tient sur le témoignage d’une jeune fille de 14 ans qui ne savait pas faire la différence entre les anges et les démons. La bible nous recommande d’éprouver les esprits pour savoir s’ils viennent de Dieu. (1 Jean 4)
 
-![](/images/mevar/content/Our_Lady_of_Lourdes_-_Grotto_of_Lourdes_-_Lourdes_2014.jpeg)
+![](/images/mevar/content/Our_Lady_of_Lourdes_-_Grotto_of_Lourdes_-_Lourdes_2014.webp)
 
 Le Message de Lourdes délivré par la vierge ne pouvait qu’être faux. Le démon appelé "la reine du ciel" ne pouvait que confirmer les faux enseignements qui lui donnent de la force pour posséder les fidèles catholiques. « L’immaculée conception » ne peut pas être vraie. Le mystère de la naissance de Jésus n’est pas lié au fait que Marie ait été conçue sans péché. En effet, il ne pouvait pas exister d’être humain conçu sans péché, sinon Jésus ne serait pas venu dans le monde. Si Marie avait été conçue sans péché, elle aurait accompli la Mission pour laquelle Jésus est venu dans le monde. Mais c’est justement parce qu’il n’y avait personne pour sauver l’humanité parmi les hommes que Jésus est venu. C’est lui qui avait été conçu sans péché. C’est lui qui avait été miraculeusement conçu par la vertu du Saint-Esprit et non par le fait de l’homme.
 
@@ -457,7 +457,7 @@ Dieu dit qu'il a un nom (Yahweh). Si nous voulons lui rendre gloire, il est mieu
 
 En Côte d’Ivoire, comme dans beaucoup d’autres endroits, une statue de la Vierge a pleuré du sang. Dans la Bible, nulle part, une statue n’a été animée par Dieu ou par un ange. Seuls les démons vivent dans les statues, dans les montagnes, dans les animaux, et dans les bois. C'est pour cette raison que le Seigneur a mis les croyants en garde contre les représentations des choses célestes parce que les représentations constituent des nids de démons. L'homme sans Christ constitue également un nid de démon. **Une église ou une congrégation religieuse qui associe des statues à l'adoration ou au culte, que ce soit celles de Jésus-Christ, de Marie ou des Saints, entretient des démons d'idolâtrie et égare tous ses fidèles loin de la face de Dieu.**
 
-![](/images/mevar/content/craying-mary.jpg)
+![](/images/mevar/content/craying-mary.webp)
 
 Une statue de la vierge qui a pleuré du sang.
 
@@ -485,7 +485,7 @@ Le peuple de Juda ne se rendait pas compte qu’il était en déportation parce 
 
 \### La Côte d’Ivoire et la reine du ciel
 
-![](/images/mevar/content/sanctuaire-marial-d-adjame.jpeg)
+![](/images/mevar/content/sanctuaire-marial-d-adjame.webp)
 
 Sanctuaire marial d’Adjamé
 
@@ -527,9 +527,9 @@ En conclusion, je voudrais vous laisser avec cette parole de Josué au peuple d�
 
 > Vous ne vous ferez point d’idoles, vous ne vous élèverez ni image taillée ni statue, et **vous ne placerez dans votre pays aucune pierre ornée de figures, pour vous prosterner devant elle ; car je suis l’Eternel, votre Dieu.** (Lévitique 26:1)
 
-![](/images/mevar/content/boudha.png)
+![](/images/mevar/content/boudha.webp)
 
-![](/images/mevar/content/tara-verte-and-boudha.png)
+![](/images/mevar/content/tara-verte-and-boudha.webp)
 
 * * *
 

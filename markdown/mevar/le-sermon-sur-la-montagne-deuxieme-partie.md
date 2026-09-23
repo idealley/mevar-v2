@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-sermon-sur-la-montagne-deuxieme-partie/"
 feature_image: "https://mevar.org/content/images/2022/12/the-sermon-on-the-mount1.jpg"
-local_image: "images/mevar/le-sermon-sur-la-montagne-deuxieme-partie.jpg"
+local_image: "images/mevar/le-sermon-sur-la-montagne-deuxieme-partie.webp"
 tags:
   - "Prédications"
   - "Etudes Bibliques"

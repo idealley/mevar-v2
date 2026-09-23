@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/a-qui-comparerai-je-cette-generation/"
 feature_image: "https://mevar.org/content/images/2022/12/John_Martin_-_Sodom_and_Gomorrah.jpg"
-local_image: "images/mevar/a-qui-comparerai-je-cette-generation.jpg"
+local_image: "images/mevar/a-qui-comparerai-je-cette-generation.webp"
 tags:
   - "Exhortations"
   - "2015"

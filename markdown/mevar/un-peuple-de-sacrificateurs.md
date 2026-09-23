@@ -9,7 +9,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/un-peuple-de-sacrificateurs/"
 feature_image: "https://mevar.org/content/images/2022/12/sacrificateur.jpg"
-local_image: "images/mevar/un-peuple-de-sacrificateurs.jpg"
+local_image: "images/mevar/un-peuple-de-sacrificateurs.webp"
 tags:
   - "Etudes Bibliques"
   - "2019"
@@ -94,7 +94,7 @@ La promesse faite à Israël est donc d’être un peuple mis à part (saint) po
 
 La traduction française du mot _כֹּהֵן (kôhên)_ semble aller plus loin que la traduction anglaise. Car elle inclut cette notion de “faire”, de “rendre” alors que la traduction anglaise se limite à la notion de sacerdoce. Regardons l’hébreu ancien. L’origine de ce mot se trouve dans les pictographes suivant:
 
-![](/images/mevar/content/hebrew-old-new-examples.png)
+![](/images/mevar/content/hebrew-old-new-examples.webp)
 
 C’est là que nous voyons les limitations des traductions. Le pictographe _Kaph_ représente une paume ouverte. _Nun_ représente une semence, la combinaison des deux “l'ouverture de la semence”. Quand la semence s’ouvre les racines commencent à se former de la base de la plante en descendant dans le sol. La plante peut ensuite se développer et sortir du sol. Les arbres ne peuvent tenir que si les racines sont fortes. Entre _Kaph_ et _Nun_ il y a encore _Hey_ le “h” de Cohen. La traduction dans ce cas est “la base qui supporte le peuple”.
 

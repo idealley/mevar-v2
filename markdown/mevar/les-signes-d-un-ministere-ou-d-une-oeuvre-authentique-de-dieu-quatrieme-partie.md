@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie/"
 feature_image: "https://mevar.org/content/images/2022/12/sheep-wolf.jpg"
-local_image: "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie.jpg"
+local_image: "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie.webp"
 tags:
   - "Les signes d’un Ministère ou d’une œuvre authentique de Dieu"
   - "Prédications"

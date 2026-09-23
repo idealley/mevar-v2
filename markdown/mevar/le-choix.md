@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-choix/"
 feature_image: "https://mevar.org/content/images/2022/12/veau-d-or.jpg"
-local_image: "images/mevar/le-choix.jpg"
+local_image: "images/mevar/le-choix.webp"
 tags:
   - "Prédications"
   - "2017"

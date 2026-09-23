@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-guerre-spirituelle-actuelle-nous-triompherons/"
 feature_image: "https://mevar.org/content/images/2022/12/nebuchadnezzars-statue-daniel.jpg"
-local_image: "images/mevar/la-guerre-spirituelle-actuelle-nous-triompherons.jpg"
+local_image: "images/mevar/la-guerre-spirituelle-actuelle-nous-triompherons.webp"
 tags:
   - "Exhortations"
   - "2020"

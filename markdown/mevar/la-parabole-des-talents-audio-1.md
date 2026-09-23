@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-parabole-des-talents-audio-1/"
 feature_image: "https://mevar.org/content/images/2022/12/talents-parabole.jpg"
-local_image: "images/mevar/la-parabole-des-talents-audio-1.jpg"
+local_image: "images/mevar/la-parabole-des-talents-audio-1.webp"
 tags:
   - "Prédications"
   - "audio"

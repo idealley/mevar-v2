@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie/"
 feature_image: "https://mevar.org/content/images/2022/12/moses-aaron-snake-pharaoh-vaera.jpg"
-local_image: "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie.jpg"
+local_image: "images/mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie.webp"
 tags:
   - "Les signes d’un Ministère ou d’une œuvre authentique de Dieu"
   - "Prédications"

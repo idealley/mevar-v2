@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-sermon-sur-la-montagne-matthieu-5-1-12/"
 feature_image: "https://mevar.org/content/images/2022/12/the-sermon-on-the-mount1.jpg"
-local_image: "images/mevar/le-sermon-sur-la-montagne-matthieu-5-1-12.jpg"
+local_image: "images/mevar/le-sermon-sur-la-montagne-matthieu-5-1-12.webp"
 tags:
   - "Prédications"
   - "Etudes Bibliques"

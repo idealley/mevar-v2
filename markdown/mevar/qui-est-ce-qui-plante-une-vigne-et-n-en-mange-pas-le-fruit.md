@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit/"
 feature_image: "https://mevar.org/content/images/2022/12/vignes-sun.jpg"
-local_image: "images/mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit.jpg"
+local_image: "images/mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit.webp"
 tags:
   - "Exhortations"
   - "2015"

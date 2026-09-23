@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-prisonniers-de-la-religion/"
 feature_image: "https://mevar.org/content/images/2022/12/paul-in-chains.jpg"
-local_image: "images/mevar/les-prisonniers-de-la-religion.jpg"
+local_image: "images/mevar/les-prisonniers-de-la-religion.webp"
 tags:
   - "Prédications"
   - "2007"

@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-doctrine-de-balaam/"
 feature_image: "https://mevar.org/content/images/2022/12/Balaam.jpg"
-local_image: "images/mevar/la-doctrine-de-balaam.jpg"
+local_image: "images/mevar/la-doctrine-de-balaam.webp"
 tags:
   - "Exhortations"
   - "2017"

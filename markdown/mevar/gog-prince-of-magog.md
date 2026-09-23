@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/gog-prince-of-magog/"
 feature_image: "https://mevar.org/content/images/2022/12/Noahsworld_map.jpg"
-local_image: "images/mevar/gog-prince-of-magog.jpg"
+local_image: "images/mevar/gog-prince-of-magog.webp"
 tags:
   - "Etudes Bibliques"
   - "2019"
@@ -44,8 +44,8 @@ Le monde de Noé
 
 Russie avec Meshchera.
 
-![](/images/mevar/content/Muromian-map.png)
+![](/images/mevar/content/Muromian-map.webp)
 
 Fleuves
 
-![](/images/mevar/content/Okarivermap.png)
+![](/images/mevar/content/Okarivermap.webp)

@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/rester-eveille/"
 feature_image: "https://mevar.org/content/images/2022/12/ascension-2-signs-symptoms-suzanne-wrothley-blog.jpg"
-local_image: "images/mevar/rester-eveille.jpg"
+local_image: "images/mevar/rester-eveille.webp"
 tags:
   - "Exhortations"
   - "Prédications"

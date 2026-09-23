@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-cavalier-au-cheval-pale-la-mort/"
 feature_image: "https://mevar.org/content/images/2022/12/eagle-snake.jpg"
-local_image: "images/mevar/le-cavalier-au-cheval-pale-la-mort.jpg"
+local_image: "images/mevar/le-cavalier-au-cheval-pale-la-mort.webp"
 tags:
   - "Le Message des Sept Sceaux"
   - "Prédications"

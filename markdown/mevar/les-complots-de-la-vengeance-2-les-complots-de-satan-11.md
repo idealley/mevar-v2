@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-complots-de-la-vengeance-2-les-complots-de-satan-11/"
 feature_image: "https://mevar.org/content/images/2022/12/david-avec-la-lance-de-saul.jpeg"
-local_image: "images/mevar/les-complots-de-la-vengeance-2-les-complots-de-satan-11.jpeg"
+local_image: "images/mevar/les-complots-de-la-vengeance-2-les-complots-de-satan-11.webp"
 tags:
   - "Prédications"
   - "Etudes Bibliques"

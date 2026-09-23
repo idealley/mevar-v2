@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde/"
 feature_image: "https://mevar.org/content/images/2022/12/graine_de_moutarde.jpg"
-local_image: "images/mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde.jpg"
+local_image: "images/mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde.webp"
 tags:
   - "Exhortations"
   - "La foi"

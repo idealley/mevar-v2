@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/otons-nos-vetements/"
 feature_image: "https://mevar.org/content/images/2022/12/lavage-des-pieds.jpg"
-local_image: "images/mevar/otons-nos-vetements.jpg"
+local_image: "images/mevar/otons-nos-vetements.webp"
 tags:
   - "Prédications"
   - "2020"

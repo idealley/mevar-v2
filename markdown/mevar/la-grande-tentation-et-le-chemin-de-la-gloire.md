@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-grande-tentation-et-le-chemin-de-la-gloire/"
 feature_image: "https://mevar.org/content/images/2023/01/Christ_in_the_Wilderness_-_Ivan_Kramskoy_-_Google_Cultural_Institute-1024x898.jpg"
-local_image: "images/mevar/la-grande-tentation-et-le-chemin-de-la-gloire.jpg"
+local_image: "images/mevar/la-grande-tentation-et-le-chemin-de-la-gloire.webp"
 tags:
   - "Exhortations"
   - "2008"

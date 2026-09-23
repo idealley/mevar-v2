@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-sources-de-la-foi/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/06/Parable_of_the_Lost_Drachma_by_Fetti.jpg"
-local_image: "images/mevar/les-sources-de-la-foi.jpg"
+local_image: "images/mevar/les-sources-de-la-foi.webp"
 tags:
   - "Exhortations"
   - "2023"

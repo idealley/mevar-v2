@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-porteurs-du-royaume-de-dieu/"
 feature_image: "https://mevar.org/content/images/2023/01/roof.jpg"
-local_image: "images/mevar/les-porteurs-du-royaume-de-dieu.jpg"
+local_image: "images/mevar/les-porteurs-du-royaume-de-dieu.webp"
 tags:
   - "Exhortations"
   - "2012"

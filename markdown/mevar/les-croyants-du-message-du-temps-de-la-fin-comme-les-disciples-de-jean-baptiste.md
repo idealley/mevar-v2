@@ -11,7 +11,7 @@ status: "published"
 url: "https://mevar.org/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste/"
 featured: true
 feature_image: "https://mevar.org/content/images/2022/12/john-disciples-follow-Jesus.jpg"
-local_image: "images/mevar/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste.jpg"
+local_image: "images/mevar/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste.webp"
 tags:
   - "Prédications"
   - "2019"

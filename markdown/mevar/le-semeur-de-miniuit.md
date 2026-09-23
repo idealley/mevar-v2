@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-semeur-de-miniuit/"
 feature_image: "https://mevar.org/content/images/2023/01/seumeur.jpeg"
-local_image: "images/mevar/le-semeur-de-miniuit.jpeg"
+local_image: "images/mevar/le-semeur-de-miniuit.webp"
 tags:
   - "Exhortations"
   - "2010"

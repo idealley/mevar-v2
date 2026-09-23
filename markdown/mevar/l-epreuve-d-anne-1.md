@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-epreuve-d-anne-1/"
 feature_image: "https://mevar.org/content/images/2022/12/hannah-praying.jpg"
-local_image: "images/mevar/l-epreuve-d-anne-1.jpg"
+local_image: "images/mevar/l-epreuve-d-anne-1.webp"
 tags:
   - "Prédications"
   - "Y a-t-il quelque chose d'impossible à Dieu?"

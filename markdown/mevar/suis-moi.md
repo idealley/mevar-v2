@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/suis-moi/"
 feature_image: "https://mevar.org/content/images/2022/12/follow-me.jpg"
-local_image: "images/mevar/suis-moi.jpg"
+local_image: "images/mevar/suis-moi.webp"
 tags:
   - "Etudes Bibliques"
   - "Exhortations"

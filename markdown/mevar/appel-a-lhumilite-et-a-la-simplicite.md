@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/appel-a-lhumilite-et-a-la-simplicite/"
 feature_image: "https://mevar.org/content/images/2023/01/Tissot-The-Death-of-Absalom2.png"
-local_image: "images/mevar/appel-a-lhumilite-et-a-la-simplicite.png"
+local_image: "images/mevar/appel-a-lhumilite-et-a-la-simplicite.webp"
 tags:
   - "Exhortations"
   - "2008"

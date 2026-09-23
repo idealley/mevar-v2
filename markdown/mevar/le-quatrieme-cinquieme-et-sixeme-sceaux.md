@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-quatrieme-cinquieme-et-sixeme-sceaux/"
 feature_image: "https://mevar.org/content/images/2022/12/death-pale-horse.png"
-local_image: "images/mevar/le-quatrieme-cinquieme-et-sixeme-sceaux.png"
+local_image: "images/mevar/le-quatrieme-cinquieme-et-sixeme-sceaux.webp"
 tags:
   - "Le Message des Sept Sceaux"
   - "Prédications"

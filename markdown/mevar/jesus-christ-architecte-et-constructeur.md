@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/jesus-christ-architecte-et-constructeur/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/houseonrock.jpg"
-local_image: "images/mevar/jesus-christ-architecte-et-constructeur.jpg"
+local_image: "images/mevar/jesus-christ-architecte-et-constructeur.webp"
 tags:
   - "Exhortations"
   - "2009"

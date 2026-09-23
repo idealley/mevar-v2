@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-bataille-de-jericho-la-conquete-du-pays-de-canaan/"
 feature_image: "https://mevar.org/content/images/2022/12/011-joshua-jericho.jpg"
-local_image: "images/mevar/la-bataille-de-jericho-la-conquete-du-pays-de-canaan.jpg"
+local_image: "images/mevar/la-bataille-de-jericho-la-conquete-du-pays-de-canaan.webp"
 tags:
   - "Prédications"
   - "vidéo"

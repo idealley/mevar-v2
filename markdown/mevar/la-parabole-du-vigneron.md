@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-parabole-du-vigneron/"
 feature_image: "https://mevar.org/content/images/2022/12/vineyard.jpg"
-local_image: "images/mevar/la-parabole-du-vigneron.jpg"
+local_image: "images/mevar/la-parabole-du-vigneron.webp"
 tags:
   - "Prédications"
   - "audio"

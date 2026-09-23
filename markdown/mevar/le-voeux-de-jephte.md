@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-voeux-de-jephte/"
 feature_image: "https://mevar.org/content/images/2022/12/jephthahs-vow-by-edwin-long.jpg"
-local_image: "images/mevar/le-voeux-de-jephte.jpg"
+local_image: "images/mevar/le-voeux-de-jephte.webp"
 tags:
   - "Prédications"
   - "2013"

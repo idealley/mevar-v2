@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-enjeu-du-combat-contre-goliath-1/"
 feature_image: "https://mevar.org/content/images/2022/12/david-goliath.jpeg"
-local_image: "images/mevar/l-enjeu-du-combat-contre-goliath-1.jpeg"
+local_image: "images/mevar/l-enjeu-du-combat-contre-goliath-1.webp"
 tags:
   - "Prédications"
   - "2021"

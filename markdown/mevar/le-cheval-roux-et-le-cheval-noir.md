@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-cheval-roux-et-le-cheval-noir/"
 feature_image: "https://mevar.org/content/images/2022/12/blackhorse.jpg"
-local_image: "images/mevar/le-cheval-roux-et-le-cheval-noir.jpg"
+local_image: "images/mevar/le-cheval-roux-et-le-cheval-noir.webp"
 tags:
   - "Prédications"
   - "Le Message des Sept Sceaux"
@@ -183,23 +183,23 @@ La stratégie d’aujourd’hui, c’est la femme assise sur la bête, Donc Jéz
 
 En résumé, les sceaux décrivent la stratégie de Satan contre l’Église pour fermer la bouche aux chrétiens, pour les empêcher de réussir leur marche avec Dieu. Amen ! Dans le dernier sceau on verra la stratégie de Satan dans notre génération. Il n’y a rien de nouveau, car ce qu’il a développé précédemment, il le réutilise aujourd’hui, aussi, celui qui a compris ce que le diable a fait avant peut comprendre ce qu’il est en train de faire maintenant. Celui qui a compris ce que Dieu a fait avant aussi peut comprendre ce qu’il est en train de faire maintenant, parce que ce sont deux esprits qui se combattent. Donc une fois qu’on est fixé et qu’on a compris la doctrine de Balaam et la doctrine des Nicolaïtes, je pense que chacun peut se positionner par rapport à cela. Que Dieu vous bénisse.
 
-![](/images/mevar/content/12-stars.png)
+![](/images/mevar/content/12-stars.webp)
 
 Les 12 étoiles de l’empire (12 apôtres)
 
-![](/images/mevar/content/babel-tower.png)
+![](/images/mevar/content/babel-tower.webp)
 
 La nouvelle tour de Babel
 
-![](/images/mevar/content/the-beast-ridden-by-the-woman.png)
+![](/images/mevar/content/the-beast-ridden-by-the-woman.webp)
 
 La femme chevauchant la bête devant le parlement
 
-![](/images/mevar/content/euro.png)
+![](/images/mevar/content/euro.webp)
 
 La monnaie de la femme
 
-![](/images/mevar/content/other-beast-picture.png)
+![](/images/mevar/content/other-beast-picture.webp)
 
 Autre représentation de la femme chevauchant la bête
 

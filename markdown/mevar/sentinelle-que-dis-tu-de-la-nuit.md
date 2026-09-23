@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/sentinelle-que-dis-tu-de-la-nuit/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/01/soldier-watching-the-night.jpeg"
-local_image: "images/mevar/sentinelle-que-dis-tu-de-la-nuit.jpeg"
+local_image: "images/mevar/sentinelle-que-dis-tu-de-la-nuit.webp"
 tags:
   - "Exhortations"
   - "2024"

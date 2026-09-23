@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/on-l-appellera-samuel/"
 feature_image: "https://mevar.org/content/images/2022/12/samuel.jpg"
-local_image: "images/mevar/on-l-appellera-samuel.jpg"
+local_image: "images/mevar/on-l-appellera-samuel.webp"
 tags:
   - "Exhortations"
   - "Etudes Bibliques"

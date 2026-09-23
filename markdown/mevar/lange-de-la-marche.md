@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/lange-de-la-marche/"
 feature_image: "https://mevar.org/content/images/2023/01/ange-josu-.jpeg"
-local_image: "images/mevar/lange-de-la-marche.jpeg"
+local_image: "images/mevar/lange-de-la-marche.webp"
 tags:
   - "Prédications"
   - "2007"

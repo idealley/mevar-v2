@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-liens-spirituels-deuxieme-partie/"
 feature_image: "https://mevar.org/content/images/2022/12/bound-with-chains-of-the-spirit-and-of-men11.jpg"
-local_image: "images/mevar/les-liens-spirituels-deuxieme-partie.jpg"
+local_image: "images/mevar/les-liens-spirituels-deuxieme-partie.webp"
 tags:
   - "Etudes Bibliques"
   - "Prédications"

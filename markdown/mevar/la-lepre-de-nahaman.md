@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-lepre-de-nahaman/"
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/05/naaman.jpeg"
-local_image: "images/mevar/la-lepre-de-nahaman.jpeg"
+local_image: "images/mevar/la-lepre-de-nahaman.webp"
 tags:
   - "Prédications"
   - "2007"

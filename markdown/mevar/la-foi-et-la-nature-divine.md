@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-foi-et-la-nature-divine/"
 feature_image: "https://mevar.org/content/images/2022/12/Joshua_commands_the_sun_and_moon_to_stand_still.jpg"
-local_image: "images/mevar/la-foi-et-la-nature-divine.jpg"
+local_image: "images/mevar/la-foi-et-la-nature-divine.webp"
 tags:
   - "Prédications"
   - "2015"

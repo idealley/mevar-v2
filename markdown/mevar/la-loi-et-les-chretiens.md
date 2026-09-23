@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-loi-et-les-chretiens/"
 feature_image: "https://mevar.org/content/images/2022/12/peters-vision.jpg"
-local_image: "images/mevar/la-loi-et-les-chretiens.jpg"
+local_image: "images/mevar/la-loi-et-les-chretiens.webp"
 tags:
   - "Exhortations"
   - "Etudes Bibliques"

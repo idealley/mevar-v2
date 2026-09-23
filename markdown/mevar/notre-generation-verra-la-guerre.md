@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/notre-generation-verra-la-guerre/"
 feature_image: "https://mevar.org/content/images/2022/12/war.jpg"
-local_image: "images/mevar/notre-generation-verra-la-guerre.jpg"
+local_image: "images/mevar/notre-generation-verra-la-guerre.webp"
 tags:
   - "Exhortations"
   - "2015"

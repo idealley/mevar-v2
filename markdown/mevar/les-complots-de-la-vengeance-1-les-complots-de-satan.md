@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/les-complots-de-la-vengeance-1-les-complots-de-satan/"
 feature_image: "https://mevar.org/content/images/2022/12/david-coupe-le-manteau-de-saul.jpg"
-local_image: "images/mevar/les-complots-de-la-vengeance-1-les-complots-de-satan.jpg"
+local_image: "images/mevar/les-complots-de-la-vengeance-1-les-complots-de-satan.webp"
 tags:
   - "Prédications"
   - "Etudes Bibliques"

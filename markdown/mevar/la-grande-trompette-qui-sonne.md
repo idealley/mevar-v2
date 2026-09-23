@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-grande-trompette-qui-sonne/"
 feature_image: "https://mevar.org/content/images/2022/12/011-joshua-jericho.jpg"
-local_image: "images/mevar/la-grande-trompette-qui-sonne.jpg"
+local_image: "images/mevar/la-grande-trompette-qui-sonne.webp"
 tags:
   - "Prédications"
   - "2020"

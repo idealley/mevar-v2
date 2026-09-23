@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-deguisement-de-la-femme-de-jeroboam/"
 feature_image: "https://mevar.org/content/images/2022/12/the-wife-of-jeroboam.jpg"
-local_image: "images/mevar/le-deguisement-de-la-femme-de-jeroboam.jpg"
+local_image: "images/mevar/le-deguisement-de-la-femme-de-jeroboam.webp"
 tags:
   - "Exhortations"
   - "2017"

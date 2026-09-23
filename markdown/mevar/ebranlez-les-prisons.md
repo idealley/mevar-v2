@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/ebranlez-les-prisons/"
 feature_image: "https://mevar.org/content/images/2023/01/paul.jpeg"
-local_image: "images/mevar/ebranlez-les-prisons.jpeg"
+local_image: "images/mevar/ebranlez-les-prisons.webp"
 tags:
   - "Prédications"
   - "2007"

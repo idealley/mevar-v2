@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-maison-construite-sur-le-roc/"
 feature_image: "https://mevar.org/content/images/2022/12/lighthouse-storm.jpg"
-local_image: "images/mevar/la-maison-construite-sur-le-roc.jpg"
+local_image: "images/mevar/la-maison-construite-sur-le-roc.webp"
 tags:
   - "Exhortations"
   - "2021"

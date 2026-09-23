@@ -9,7 +9,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-sermon-sur-la-montagne-audio-5/"
 feature_image: "https://mevar.org/content/images/2022/12/the-sermon-on-the-mount1.jpg"
-local_image: "images/mevar/le-sermon-sur-la-montagne-audio-5.jpg"
+local_image: "images/mevar/le-sermon-sur-la-montagne-audio-5.webp"
 tags:
   - "Prédications"
   - "Etudes Bibliques"

@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-appel-a-sortir-de-babylone/"
 feature_image: "https://mevar.org/content/images/2022/12/tour-babel-pieter-brueghel.jpg"
-local_image: "images/mevar/l-appel-a-sortir-de-babylone.jpg"
+local_image: "images/mevar/l-appel-a-sortir-de-babylone.webp"
 tags:
   - "Prédications"
   - "Le Message des Sept Sceaux"

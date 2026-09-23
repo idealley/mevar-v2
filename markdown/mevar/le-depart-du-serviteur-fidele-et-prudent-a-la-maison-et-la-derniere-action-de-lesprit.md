@@ -11,7 +11,7 @@ status: "published"
 url: "https://mevar.org/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit/"
 featured: true
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2024/07/chant-du-coq.jpg"
-local_image: "images/mevar/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit.jpg"
+local_image: "images/mevar/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit.webp"
 tags:
   - "Exhortations"
   - "2024"

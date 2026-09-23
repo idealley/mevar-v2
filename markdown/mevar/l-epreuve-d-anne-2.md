@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/l-epreuve-d-anne-2/"
 feature_image: "https://mevar.org/content/images/2022/12/anne-samuel-eli.jpg"
-local_image: "images/mevar/l-epreuve-d-anne-2.jpg"
+local_image: "images/mevar/l-epreuve-d-anne-2.webp"
 tags:
   - "Prédications"
   - "Y a-t-il quelque chose d'impossible à Dieu?"

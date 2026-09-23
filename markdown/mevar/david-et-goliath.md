@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/david-et-goliath/"
 feature_image: "https://mevar.org/content/images/2022/12/david-and-goliath.jpg"
-local_image: "images/mevar/david-et-goliath.jpg"
+local_image: "images/mevar/david-et-goliath.webp"
 tags:
   - "Etudes Bibliques"
   - "2017"

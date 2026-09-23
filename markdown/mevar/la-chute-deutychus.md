@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/la-chute-deutychus/"
 feature_image: "https://mevar.org/content/images/2023/01/Eutychus.jpg"
-local_image: "images/mevar/la-chute-deutychus.jpg"
+local_image: "images/mevar/la-chute-deutychus.webp"
 tags:
   - "Exhortations"
   - "2011"

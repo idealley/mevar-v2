@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/ne-donnez-pas-acces-au-diable/"
 feature_image: "https://mevar.org/content/images/2022/12/dooropen.jpg"
-local_image: "images/mevar/ne-donnez-pas-acces-au-diable.jpg"
+local_image: "images/mevar/ne-donnez-pas-acces-au-diable.webp"
 tags:
   - "Prédications"
   - "2020"

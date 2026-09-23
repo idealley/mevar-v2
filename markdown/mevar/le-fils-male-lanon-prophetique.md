@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-fils-male-lanon-prophetique/"
 feature_image: "https://mevar.org/content/images/2023/01/43e5091cf515e391c29d37f33a380cf5-502212573.jpeg"
-local_image: "images/mevar/le-fils-male-lanon-prophetique.jpeg"
+local_image: "images/mevar/le-fils-male-lanon-prophetique.webp"
 tags:
   - "Exhortations"
   - "2014"

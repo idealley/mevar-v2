@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/covid-19-ou-la-mort-dans-les-nations/"
 feature_image: "https://mevar.org/content/images/2022/12/Coronavirus-COVID-19.jpg"
-local_image: "images/mevar/covid-19-ou-la-mort-dans-les-nations.jpg"
+local_image: "images/mevar/covid-19-ou-la-mort-dans-les-nations.webp"
 tags:
   - "Exhortations"
   - "2020"

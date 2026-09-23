@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/manger-le-sacrifice/"
 feature_image: "https://mevar.org/content/images/2022/12/Sainte-Cene-1.png"
-local_image: "images/mevar/manger-le-sacrifice.png"
+local_image: "images/mevar/manger-le-sacrifice.webp"
 tags:
   - "Exhortations"
   - "Etudes Bibliques"

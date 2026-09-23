@@ -9,7 +9,7 @@ status: "published"
 url: "https://mevar.org/le-nouveau-ministere/"
 featured: true
 feature_image: "https://digitalpress.fra1.cdn.digitaloceanspaces.com/geldui8/2023/10/Je-suis-l-alpha-et-l-ome-ga--dit-le-Seigneur-Dieu--celui-qui-est--qui-e-tait--et-qui-vient--le-Tout-Puissant..gif"
-local_image: "images/mevar/le-nouveau-ministere.gif"
+local_image: "images/mevar/le-nouveau-ministere.webp"
 tags:
   - "Prédications"
   - "Koumassi"

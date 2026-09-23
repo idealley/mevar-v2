@@ -8,7 +8,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-juste-jugement-de-dieu-laffaire-durie-contre-david/"
 feature_image: "https://mevar.org/content/images/2023/01/2014-02-02.jpg"
-local_image: "images/mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david.jpg"
+local_image: "images/mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david.webp"
 tags:
   - "Exhortations"
   - "2011"

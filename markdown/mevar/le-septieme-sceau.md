@@ -10,7 +10,7 @@ type: "post"
 status: "published"
 url: "https://mevar.org/le-septieme-sceau/"
 feature_image: "https://mevar.org/content/images/2022/12/seventh-seal.jpg"
-local_image: "images/mevar/le-septieme-sceau.jpg"
+local_image: "images/mevar/le-septieme-sceau.webp"
 tags:
   - "Prédications"
   - "Le Message des Sept Sceaux"
