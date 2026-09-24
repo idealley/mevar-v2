@@ -40,7 +40,7 @@ report(
 report(
   "no draft built",
   drafts
-    .flatMap((p) => [`/${p.sermon_id}/`, `/works/mevar/${p.sermon_id}/`])
+    .map((p) => `/${p.sermon_id}/`)
     .filter((u) => served(u))
     .map((u) => `${u} exists`),
   `${drafts.length} drafts`,

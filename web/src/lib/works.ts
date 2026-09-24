@@ -79,8 +79,8 @@ export async function corpusCounts() {
 const CATEGORIES = new Set(["predications", "exhortations", "etudes-bibliques", "publications"]);
 /** Place tags: they have a page, but the /themes/ list leaves them out. */
 const PLACES = new Set([
-  "abidjan", "arrah", "benin", "biasso", "bouake", "burkina-fasso", "congo-brazzaville",
-  "cote-divoire", "cotonou", "dabou", "duekoue", "guiberoua", "hounde", "kouassikro",
+  "abidjan", "benin", "biasso", "bouake", "burkina-fasso", "congo-brazzaville",
+  "cote-divoire", "cotonou", "dabou", "guiberoua", "hounde", "kouassikro",
   "koukloubo", "koumassi", "krakro", "lagos", "lausanne", "morofe", "mougnondzi", "muraz",
   "ndouffou", "nigeria", "pointe-noire", "sinfra", "so-tchanwe", "soubre", "suisse",
 ]);
