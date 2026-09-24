@@ -41,7 +41,10 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
     <header class="mb-8 pb-8 border-b">
       <div class="flex flex-wrap gap-1 mb-3">
         <Badge>{kind}</Badge>
-        {(fm.tags ?? []).slice(0, 5).map((t) => <Badge href={tags.get(t)?.url} variant="secondary">{t}</Badge>)}
+        {/* Ghost tags on a Ghost post link to their page; other sources' tags are their own. */}
+        {(fm.tags ?? []).slice(0, 5).map((t) => (
+          <Badge href={fm.source === "mevar" ? tags.get(t)?.url : undefined} variant="secondary">{t}</Badge>
+        ))}
       </div>
       <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-2">{fm.title ?? entry.id}</h1>
       {fm.subtitle && <p class="text-xl text-muted-foreground italic mb-4">{fm.subtitle}</p>}
