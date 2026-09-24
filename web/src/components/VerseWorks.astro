@@ -18,7 +18,7 @@ const groups = [works.filter(isMevar), works.filter((e) => !isMevar(e))];
       {list.map((e) => (
         <li>
           <a href={workUrl(e)} class="underline underline-offset-4">{e.data.title ?? e.id}</a>
-          <span class="text-sm text-muted-foreground">
+          <span class="ml-2 text-sm text-muted-foreground">
             {[e.data.preacher ?? e.data.authors?.[0], e.data.year].filter(Boolean).join(", ")}
           </span>
         </li>
