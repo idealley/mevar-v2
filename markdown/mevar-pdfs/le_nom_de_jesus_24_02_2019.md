@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "le_nom_de_jesus_24_02_2019"
+duplicate_of: "mevar/le-nom-de-jesus"
 title: "Le nom de Jésus"
 date: "2019-02-24"
 year: 2019

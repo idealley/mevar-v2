@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "question_sans_reponse_25_octobre_2020"
+duplicate_of: "mevar/une-question-sans-reponse"
 title: "Une question sans réponse"
 date: "2020-10-25"
 year: 2020

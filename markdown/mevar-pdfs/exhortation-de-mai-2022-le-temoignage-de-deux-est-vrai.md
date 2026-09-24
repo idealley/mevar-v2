@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "exhortation_de_mai_2022_le_temoignage_de_deux_est_vrai"
+duplicate_of: "mevar/le-temoignage-de-deux-est-vrai"
 title: "Le Témoignage de Deux Est Vrai"
 date: "2022-05-31"
 year: 2022

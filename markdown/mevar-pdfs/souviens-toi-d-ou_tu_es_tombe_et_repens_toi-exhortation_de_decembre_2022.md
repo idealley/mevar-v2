@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "souviens_toi_d_ou_tu_es_tombe_et_repens_toi_exhortation_de_decembre_2022"
+duplicate_of: "mevar/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi"
 title: "Souviens-toi donc d'où tu es tombé et repens-toi"
 subtitle: "Exhortation de Fin d’Année 2022"
 date: "2022-12-31"

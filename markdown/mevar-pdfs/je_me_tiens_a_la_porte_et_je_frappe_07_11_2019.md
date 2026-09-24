@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "je_me_tiens_a_la_porte_et_je_frappe_07_11_2019"
+duplicate_of: "mevar/voici-je-me-tiens-a-la-porte-et-je-frappe"
 title: "Voici, je me tiens à la porte, et je frappe"
 date: "2019-11-07"
 year: 2019

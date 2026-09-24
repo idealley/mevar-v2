@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "sujets_de_priere_fin_mai_juin_2019"
+duplicate_of: "mevar/mai-juin-2019"
 title: "SUJETS DE PRIERE FIN MAI - JUIN"
 date: "2019-05-27"
 year: 2019

@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019"
+duplicate_of: "mevar/pourquoi-ne-sommes-nous-pas-exauces"
 title: "Pourquoi ne sommes-nous pas exaucés ?"
 subtitle: "Première partie"
 date: "2019-09-23"

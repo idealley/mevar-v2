@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021"
+duplicate_of: "mevar/l-ancien-testament-et-le-royaume-de-dieu"
 title: "L’Ancien Testament et le Royaume de Dieu"
 date: "2021-02-28"
 year: 2021

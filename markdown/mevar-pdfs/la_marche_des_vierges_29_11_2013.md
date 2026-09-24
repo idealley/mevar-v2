@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "la_marche_des_vierges_29_11_2013"
+duplicate_of: "mevar/la-marche-prophetique-des-dix-vierges"
 title: "La marche prophétique des dix vierges"
 date: "2013-10-29"
 year: 2013

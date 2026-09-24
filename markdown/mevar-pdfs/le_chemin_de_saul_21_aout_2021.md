@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "le_chemin_de_saul_21_aout_2021"
+duplicate_of: "mevar/le-chemin-de-saul"
 title: "Le chemin de Saül"
 date: "2021-08-20"
 year: 2021

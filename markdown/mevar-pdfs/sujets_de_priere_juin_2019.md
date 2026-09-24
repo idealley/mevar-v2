@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "sujets_de_priere_juin_2019"
+duplicate_of: "mevar/juin-2019"
 title: "Sujets de Prière de Juin"
 date: "2019-06-24"
 year: 2019

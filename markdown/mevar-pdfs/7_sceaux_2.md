@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "7_sceaux_2"
+duplicate_of: "mevar/le-cheval-roux-et-le-cheval-noir"
 title: "Le Message des 7 sceaux (Deuxième et troisième sceau)"
 date: "2019-07-08"
 year: 2019

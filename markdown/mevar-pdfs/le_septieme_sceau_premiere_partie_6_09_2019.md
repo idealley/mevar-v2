@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "le_septieme_sceau_premiere_partie_6_09_2019"
+duplicate_of: "mevar/le-septieme-sceau"
 title: "Le Message des 7 sceaux, le 7e sceau (première partie)"
 date: "2019-09-06"
 year: 2019

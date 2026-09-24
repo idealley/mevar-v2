@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "3_signes_d_un_ministere_01_12_19"
+duplicate_of: "mevar/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie"
 title: "Les signes d’une œuvre ou d’un Ministère authentique de Dieu - 3e partie"
 date: "2019-12-01"
 year: 2019

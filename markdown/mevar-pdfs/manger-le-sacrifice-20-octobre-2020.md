@@ -1,6 +1,7 @@
 ---
 source: "mevar-pdfs"
 sermon_id: "manger_le_sacrifice_20_octobre_2020"
+duplicate_of: "mevar/manger-le-sacrifice"
 title: "Manger le Sacrifice"
 date: "2020-10-20"
 year: 2020
