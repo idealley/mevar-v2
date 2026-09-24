@@ -1,7 +1,8 @@
 # GOAL 07: The Branham text says what branham.org says, and every citation is found
 
-**Status:** in progress (dispatched 2026-09-22 by Samuel, on PR #1: "we can
-restore it using branham.org", "we can do one PR")
+**Status:** done (dispatched 2026-09-22 by Samuel, on PR #1: "we can
+restore it using branham.org", "we can do one PR"; merged as PR #2,
+2026-09-22; landing check on `main` 2026-09-24)
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, `markdown/branham/`, `docs/`)
 **Depends on:** 02 (merged as PR #1, 2026-09-23)
 **Rules:** [README.md](README.md)
@@ -87,3 +88,19 @@ preacher's word and map it to the correct canonical ref. Items 1 and 4.
 - Branham files with `bible_refs`: before and after. Spoken refs added: count,
   and twenty random ones checked by hand.
 - For every script touched: a second run is a no-op.
+
+## Follow-up
+
+Landing check against `main`, 2026-09-24:
+
+- No French book name followed by a number in `markdown/branham/` outside
+  the unaligned manifest: 39 in the text, 39 in
+  `manifests/branham-restore-unaligned.json`.
+- 65b on `main` restores 0 words: the Branham text is as merged.
+- Branham files with `bible_refs`: 1,133, as in PR #2.
+- The chain (65, 65b, 66, 47, 49, 50) was not a no-op on `main`: goal 03's
+  relinks removed Ghost bookmark-card excerpts from 14 mevar posts without a
+  rerun, so their refs were stale. Regenerated; a second run is a no-op.
+- What stays open is in `docs/follow-ups.md` ("Branham text the restoration
+  could not reach", "Running headers are recorded as refs", "The French
+  sources still carry 65's canonical rewrites").
