@@ -108,6 +108,19 @@ Decided by Samuel (2026-09-24):
    same display names. Delete the follow-up « The same preacher under
    several names » (added by goal 05) from `docs/follow-ups.md`.
 
+## Added by Samuel on the PR (2026-09-24)
+
+- **Categories as on mevar.org.** A Ghost post is listed under every
+  category tag it carries (32 are both « Prédications » and « Etudes
+  Bibliques »), not under one derived kind; Études bibliques showed 8
+  works where mevar.org shows 47.
+- **The follow-up « Markdown files with no frontmatter » is done here.**
+  The ten works (5 Le Scribe, 3 CMPP, the 2 local volumes) get their
+  frontmatter from their title pages (`scripts/76-add-missing-frontmatter.mjs`),
+  then 47, 49 and 50 run. So `markdown/` also gains those ten frontmatter
+  blocks and what 47 and 49 derive from them, besides the `preacher:` lines
+  and the "Unknown" fields.
+
 ## Scope out
 
 - Deduplication (goal 09), the editorial pass and promotion (goal 10).
