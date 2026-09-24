@@ -82,7 +82,7 @@ export const CATEGORIES: Record<string, { title: string; tag: string; kinds: str
 };
 
 /**
- * A work tagged with categories is in each of them, as on Ghost (32 posts are
+ * A work tagged with categories is in each of them, as on Ghost (33 posts are
  * both « Prédications » and « Etudes Bibliques »); any other is in the
  * category of its kind.
  */

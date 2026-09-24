@@ -111,7 +111,7 @@ Decided by Samuel (2026-09-24):
 ## Added by Samuel on the PR (2026-09-24)
 
 - **Categories as on mevar.org.** A Ghost post is listed under every
-  category tag it carries (32 are both « Prédications » and « Etudes
+  category tag it carries (33 are both « Prédications » and « Etudes
   Bibliques »), not under one derived kind; Études bibliques showed 8
   works where mevar.org shows 47.
 - **The follow-up « Markdown files with no frontmatter » is done here.**
@@ -120,6 +120,9 @@ Decided by Samuel (2026-09-24):
   then 47, 49 and 50 run. So `markdown/` also gains those ten frontmatter
   blocks and what 47 and 49 derive from them, besides the `preacher:` lines
   and the "Unknown" fields.
+- **The PDF texts on the verse pages** (from Codex's second opinion, which
+  read design item 4 as every built work): 65 scans `mevar-pdfs` too, and 47
+  adds a `bible_refs` block to 61 of the 69 PDF texts' frontmatter.
 
 ## Scope out
 
