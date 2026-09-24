@@ -13,8 +13,9 @@
 // A shingle held by more than 20 works is a formula ("au nom de jesus christ")
 // and is not counted as shared.
 //
-// In each group the Ghost post stays (a group kept by a Ghost draft waits); else the text with more of the sermon
-// (more shingles, by more than 5 %); else the one with fewer OCR-like tokens.
+// In each group the Ghost post stays; else the text with more of the sermon
+// (more shingles); else the one with fewer OCR-like tokens. A group kept by a
+// Ghost draft, or holding an uncertain pair not called "same", waits.
 // The others get duplicate_of: "<source>/<sermon_id>". Nothing is deleted.
 //
 // Writes manifests/mevar-duplicates.json and the duplicate_of lines of
@@ -48,9 +49,6 @@ function words(s) {
 // replacement or ligature glyph, a word cut by a hyphen at a line end. Digits
 // glued to letters are not counted: they are verse references ("1Pie", "V12").
 const OCR = /\p{Ll}\p{Lu}|[\uFFFD\uFB00-\uFB06]|\p{L}-$/u;
-function ocrTokens(body) {
-  return body.split(/\s+/).filter((t) => OCR.test(t)).length;
-}
 
 const works = [];
 for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
@@ -67,7 +65,7 @@ for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
       id: `${source}/${field(fm, "sermon_id")}`, source, file, fm, body,
       title: field(fm, "title"), draft: field(fm, "status") === "draft",
       excerpt: body.split(/\s+/).filter(Boolean).slice(0, 300).join(" "),
-      ocr: ocrTokens(body), shingles,
+      ocr: body.split(/\s+/).filter((t) => OCR.test(t)).length, shingles,
     });
   }
 }
@@ -160,11 +158,10 @@ for (const w of grouped) {
 function keeper(group) {
   const ghost = group.filter((w) => w.source === "mevar");
   if (ghost.length) return { keep: ghost[0], rule: ghost.length > 1 ? "ghost post (several, first by id)" : "ghost post" };
-  const bySize = [...group].sort((x, y) => y.shingles.size - x.shingles.size || x.id.localeCompare(y.id));
-  if (bySize[0].shingles.size > bySize[1].shingles.size * 1.05) return { keep: bySize[0], rule: "more of the sermon" };
-  const close = bySize.filter((w) => w.shingles.size * 1.05 >= bySize[0].shingles.size);
-  close.sort((x, y) => x.ocr - y.ocr || x.id.localeCompare(y.id));
-  return { keep: close[0], rule: close[0].ocr < close[1].ocr ? "cleaner" : "as long and as clean, first by id" };
+  const [first, second] = [...group].sort((x, y) => y.shingles.size - x.shingles.size || x.ocr - y.ocr || x.id.localeCompare(y.id));
+  const rule = first.shingles.size > second.shingles.size ? "more of the sermon"
+    : first.ocr < second.ocr ? "cleaner" : "as long and as clean, first by id";
+  return { keep: first, rule };
 }
 
 const duplicateOf = new Map();
@@ -172,12 +169,15 @@ const groups = [];
 for (const group of members.values()) {
   group.sort((x, y) => x.id.localeCompare(y.id));
   const { keep, rule } = keeper(group);
-  // A draft is never built, so nothing may redirect to it yet; a rerun after
-  // Samuel publishes it applies the group.
-  if (!keep.draft) for (const w of group) if (w !== keep && w.source !== "mevar") duplicateOf.set(w.id, keep.id);
   const ids = new Set(group.map((w) => w.id));
+  // Held: a draft is never built, so nothing may redirect to it yet (a rerun
+  // after Samuel publishes it applies the group); and a group that holds an
+  // uncertain pair Samuel has not called "same" waits for that answer.
+  const open = pairs.filter((p) => p.band === "uncertain" && p.decision !== "same" && ids.has(p.a.id) && ids.has(p.b.id));
+  const held = keep.draft ? "kept by a Ghost draft" : open.length ? `holds ${open.map((p) => `${p.a.id} | ${p.b.id}`).join(", ")}` : null;
+  if (!held) for (const w of group) if (w !== keep && w.source !== "mevar") duplicateOf.set(w.id, keep.id);
   groups.push({
-    keep: keep.id, rule, keep_is_draft: keep.draft,
+    keep: keep.id, rule, held,
     members: group.map((w) => ({ id: w.id, title: w.title, shingles: w.shingles.size, ocr_tokens: w.ocr })),
     pairs: applied.filter((p) => ids.has(p.a.id)).map((p) => ({
       a: p.a.id, b: p.b.id, band: p.band, decision: p.decision, in_a: p.in_a, in_b: p.in_b, title: p.title,
@@ -216,11 +216,11 @@ console.log("pairs per band:", count(pairs, (p) => p.band));
 console.log("pairs per band and source pair:", count(pairs, (p) => `${p.band}: ${p.a.source} x ${p.b.source}`));
 console.log("uncertain decided:", count(uncertain, (u) => u.decision || "open"));
 console.log(`groups: ${groups.length}; keeper rules:`, count(groups, (g) => g.rule));
-console.log("groups kept by a Ghost draft, not applied until it is published:", groups.filter((g) => g.keep_is_draft).map((g) => g.keep));
+console.log("groups held, not applied:", groups.filter((g) => g.held).map((g) => `${g.keep}: ${g.held}`));
 console.log("duplicate_of per source:", count([...duplicateOf.keys()], (id) => id.split("/")[0]));
 const ghostPosts = works.filter((w) => w.source === "mevar" && !w.draft).length;
-const waiting = new Set(groups.filter((g) => g.keep_is_draft).flatMap((g) => g.members.map((m) => m.id)));
-const others = works.filter((w) => w.source !== "mevar" && !duplicateOf.has(w.id) && !waiting.has(w.id)).length;
-console.log(`Mevar set: ${ghostPosts} published Ghost posts + ${others} PDF and OneDrive texts = ${ghostPosts + others}` +
-  ` (plus ${waiting.size} works in groups kept by a Ghost draft, one each once it is published)`);
+const others = works.filter((w) => w.source !== "mevar" && !duplicateOf.has(w.id)).length;
+const waiting = groups.filter((g) => g.held).flatMap((g) => g.members.filter((m) => m.id !== g.keep && !m.id.startsWith("mevar/"))).length;
+console.log(`Mevar set: ${ghostPosts} published Ghost posts + ${others} PDF and OneDrive texts without duplicate_of = ${ghostPosts + others}` +
+  ` (${waiting} of those are in held groups and get duplicate_of once released)`);
 console.log(`frontmatter files changed: ${changed}`);
