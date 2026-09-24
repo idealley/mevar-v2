@@ -20,7 +20,7 @@ ghost_id: "6448fa86db90770001518f32"
 uuid: "567d2209-86da-4ec0-8750-f6c5592a1232"
 stream_url: "https://mevar.org/jesus-et-marie/"
 bible_refs:
-  - "Actes 1"
+  - "Actes 1:12-14"
   - "Jean 19"
   - "Jean 2"
   - "Luc 1"
