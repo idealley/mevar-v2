@@ -8,8 +8,6 @@ import ghostAuthors from "../../../manifests/mevar-authors.json";
 
 export type WorkEntry = Awaited<ReturnType<typeof getCollection<"works">>>[number];
 
-const IMPORT_TAG = /^#?Import\b/i;
-
 /** Cards per list page: no list page ships more than this many. */
 export const PAGE_SIZE = 60;
 
@@ -18,15 +16,11 @@ export function entryDate(e: WorkEntry): string {
   return (e.data.published_at as string) ?? (e.data.date as string) ?? "";
 }
 
-/** Cleaned tag list (drops Ghost auto-import tags) */
-export function visibleTags(e: WorkEntry): string[] {
-  return (e.data.tags ?? []).filter((t: string) => !IMPORT_TAG.test(t));
-}
-
 /**
  * Every work, deterministic sort: most recent first, ties broken by title.
- * A draft is never built, listed, counted or indexed: this filter is the only
- * place that decides it. Ghost pages (a-propos, newsletter…) are pages of the
+ * A draft is never built, listed, counted or indexed: every route and list
+ * goes through this filter. (The one exception is bookmarks.mjs, a rehype
+ * plugin, which cannot read the collection and reads the frontmatter.) Ghost pages (a-propos, newsletter…) are pages of the
  * site with their own route, not works.
  */
 export async function allWorks(): Promise<WorkEntry[]> {
@@ -92,10 +86,8 @@ const PLACES = new Set([
 ]);
 const MONTHS = new Set(["janvier", "novembre", "aout"]);
 
-export type Tag = { name: string; slug: string; url: string; theme: boolean };
-
 /** Public Ghost tags, by name. */
-export const tags = new Map<string, Tag>(
+export const tags = new Map<string, { name: string; slug: string; url: string; theme: boolean }>(
   ghostTags
     .filter((t) => t.visibility === "public")
     .map(({ name, slug }) => {
@@ -106,6 +98,7 @@ export const tags = new Map<string, Tag>(
     }),
 );
 
+// Name and slug only: the manifest also holds the authors' email addresses.
 export const authors = ghostAuthors.map(({ name, slug }) => ({ name, slug }));
 
 /** Published Ghost posts carrying a tag, newest first. */

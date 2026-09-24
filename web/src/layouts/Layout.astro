@@ -35,7 +35,6 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonical} />
     {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
 
     <!-- Sober system-font reading stack — works offline, free, lighter than Google Fonts -->
