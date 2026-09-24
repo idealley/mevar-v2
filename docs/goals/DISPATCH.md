@@ -147,6 +147,50 @@ with `wrangler pages dev`, not `astro dev`. Stop at the stop points; every
 real send is Samuel's.
 ```
 
+## 8. Goal 08: Mevar first
+
+After goal 05 is merged. Parallel with goal 09 (different files).
+
+```
+<preamble>
+Goal file: docs/goals/goal-08-mevar-first.md. Branch: goal-08-mevar-first.
+
+isMevar reads editorial_pass and duplicate_of, which goals 09 and 10 will
+write; until then no OneDrive or PDF text has them, so Mevar is the Ghost
+posts. Build and test the archive lists with that. The verse pages add
+about 1,400 files: run check:limits before and after and report both.
+```
+
+## 9. Goal 09: Mevar duplicates
+
+Any time; parallel with goal 08.
+
+```
+<preamble>
+Goal file: docs/goals/goal-09-mevar-duplicates.md. Branch:
+goal-09-mevar-duplicates.
+
+Print the score distribution before choosing thresholds. The uncertain band
+is Samuel's: list it in the PR with excerpts and stop; do not apply a guess.
+Frontmatter only, never a body.
+```
+
+## 10. Goal 10: Mevar editorial, per batch
+
+After goal 09 is merged. One session can run several batches; each batch
+is its own branch and PR.
+
+```
+<preamble>
+Goal file: docs/goals/goal-10-mevar-editorial.md. Also read
+docs/goals/goal-04-drafts-editorial.md: its rules are this goal's rules.
+Branch: goal-10-batch-01 (then -02, …).
+
+First deliverable, before any paid run: the cost estimate for the whole
+goal and per batch, the PDF text-quality measure, and the LlamaParse /
+LiteParse comparison on five bad PDFs. Stop there for Samuel. Then batch 01.
+```
+
 ---
 
 ## Merge ritual, by Samuel, after each PR
