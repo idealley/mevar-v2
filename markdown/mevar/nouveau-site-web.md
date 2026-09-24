@@ -45,7 +45,7 @@ Effacer les données de navigation.
 2.  Cochez les cases face à "Cookies et données de site" et "Images et fichiers en cache".
 3.  Cliquez sur Effacer les données.
 
-Vous pouvez filtrer les sites pour n’effacer que les données concernant [mevar.org](mevar.org)
+Vous pouvez filtrer les sites pour n’effacer que les données concernant [mevar.org](/)
 
 ![](/images/mevar/content/Settings-All-cookies-and-site-data.webp)
 
