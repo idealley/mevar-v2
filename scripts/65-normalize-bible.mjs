@@ -138,7 +138,8 @@ const FULL_ALT = variantsSorted // "II Rois" is "2 Rois" in full
   .join("|");
 const BOOK_END = "(?![\\p{L}\\-'’])"; // not "Jean-Baptiste"
 // "Pierre", "Cor", …: after "et 2" they start the next citation ("verset 16 et
-// 1 Jean chapitre 4"). New Ghost posts are still read by this script.
+// 1 Jean chapitre 4"), not after "et 14". New Ghost posts are still read by
+// this script.
 const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().filter((v) => / /.test(v)).map((v) => v.replace(/^\S+ /, "")))]
   .sort((a, b) => b.length - a.length)
   .map(escRe)
@@ -146,29 +147,29 @@ const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().f
 const RANGE = "\\s*(?:[\\-\\u2013\\u2014]|à)\\s*";
 // Not "à 19:3", a chapter. Tight: in "versets 35 : 35 A moi", the colon opens
 // the quote.
-const NOT_NEXT = "(?![\\d:.]\\d|\\d)";
+const NOT_NEXT = "(?![:.]\\d|\\d)";
 // After a start verse: its last ("à 14", "au verset 14", "jusqu'au verset 14")
 // and a second verse or range after "et" or a comma ("versets 12 et 15",
 // "11.25,26").
 const TAIL =
   `(?:${RANGE}(?<end>\\d{1,3})|\\s+(?:au|jusqu['’]au)\\s+verset\\s+(?<endSaid>\\d{1,3}))?${NOT_NEXT}` +
-  `(?:(?:\\s+et\\s+|,)(?<more>\\d{1,3}(?:${RANGE}\\d{1,3})?)${NOT_NEXT}(?!\\s+(?:${NUMBERED})(?!\\p{L})))?`;
+  `(?:(?:\\s+et\\s+|,)(?<more>\\d{1,3}(?:${RANGE}\\d{1,3})?)${NOT_NEXT}(?!(?<=(?<!\\d)[1-3])\\s+(?:${NUMBERED})(?!\\p{L})))?`;
 // The verse after the chapter: "chapitre 3:14", "chapitre 11.1-3" (CMPP),
 // "verset 9", "le verset 38", "(versets 13-14", "à partir du premier verset",
 // "depuis le verset 25", "et au verset 18", "du verset 1 au verset 6".
 const VERSES =
-  "(?:(?:(?:\\s*:\\s*|\\.)(?<num>\\d{1,3})|[\\s,(]+(?:(?:à\\s+partir\\s+)?d[ue]s?\\s+|(?:depuis|dès)\\s+le\\s+|(?:et\\s+)?aux?\\s+|les?\\s+)?" +
+  "(?:(?:(?:\\s*:\\s*|\\.)(?<num>\\d{1,3})|[\\s,(]*(?:(?:à\\s+partir\\s+)?d[ue]s?\\s+|(?:depuis|dès)\\s+le\\s+|(?:et\\s+)?aux?\\s+|les?\\s+)?" +
   "(?:versets?\\s+(?<said>\\d{1,3})|(?<first>premier)\\s+verset|verset\\s+(?<firstAfter>premier)))" + TAIL + ")?";
 // The verse before the chapter, in the reverse form: "le verset 15 du chapitre
 // 3", "le premier verset du chapitre 6", "le 3ème verset du", "les versets 15
 // à 27 du", "verset 10 et 11 du".
 const BEFORE =
-  "(?:(?:(?:le|au|du|les|aux)\\s+)?(?:(?<bFirst>premier)\\s+verset|(?<bOrd>\\d{1,3})(?:e|ème|eme)\\s+verset|" +
+  "(?:(?:(?:le|au|du|les|aux)\\s+)?(?:(?<bFirst>premier)\\s+verset|(?<!\\d)(?<bOrd>\\d{1,3})(?:e|ème|eme)\\s+verset|" +
   `versets?\\s+(?<bSaid>\\d{1,3})(?:${RANGE}(?<bEnd>\\d{1,3}))?(?:\\s+et\\s+(?<bMore>\\d{1,3}))?)\\s+du\\s+)?`;
 const SPOKEN = [
   new RegExp(`(?<![\\p{L}\\d])(?<book>${FULL_ALT}),?\\s+(?:au\\s+|le\\s+)?chapitre\\s+(?<chapter>\\d{1,3})(?!\\d)${VERSES}`, "giu"),
   new RegExp(
-    `${BEFORE}chapitre\\s+(?<chapter>\\d{1,3})(?!\\d)${VERSES}\\s+` +
+    `${BEFORE}chapitre\\s+(?<chapter>\\d{1,3})${VERSES}\\s+` +
     "(?:du\\s+livre\\s+|de\\s+l['’]\\s*(?:[ée]p[iî]tre|[ée]vangile)\\s+)?" +
     `(?:de\\s+la\\s+|de\\s+l['’]\\s*|des\\s+|de\\s+|d['’]\\s*|aux\\s+|selon\\s+)(?<book>${FULL_ALT})${BOOK_END}` +
     VERSES.replace(/\(\?<(\w+)>/g, "(?<a$1>"), // the same groups, prefixed "a"
