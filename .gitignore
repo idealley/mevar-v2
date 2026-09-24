@@ -33,3 +33,7 @@ db/
 
 # Stray
 history.txt
+
+# wrangler pages dev: local secrets and state
+web/.dev.vars
+web/.wrangler/

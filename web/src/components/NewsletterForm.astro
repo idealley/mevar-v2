@@ -1,0 +1,50 @@
+---
+// The "Publications" signup, posted to functions/api/subscribe.ts. `origin`
+// tells the two forms apart in Resend.
+interface Props {
+  origin: "newsletter-footer" | "newsletter-page";
+}
+const { origin } = Astro.props;
+---
+
+<form class="newsletter-form flex flex-col sm:flex-row gap-2 max-w-md" data-origin={origin}>
+  <label class="sr-only" for={`email-${origin}`}>Adresse e-mail</label>
+  <input
+    id={`email-${origin}`}
+    name="email"
+    type="email"
+    required
+    autocomplete="email"
+    placeholder="Votre adresse e-mail"
+    class="flex-1 rounded-md border bg-background px-3 py-2 text-sm"
+  />
+  <button type="submit" class="rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground">
+    S'inscrire
+  </button>
+  <p class="text-sm sm:basis-full" role="status"></p>
+</form>
+
+<script>
+  for (const form of document.querySelectorAll<HTMLFormElement>(".newsletter-form")) {
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const status = form.querySelector("[role=status]")!;
+      const button = form.querySelector("button")!;
+      button.disabled = true;
+      const res = await fetch("/api/subscribe", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ email: new FormData(form).get("email"), origin: form.dataset.origin }),
+      }).catch(() => null);
+      button.disabled = false;
+      if (res?.ok) {
+        form.reset();
+        status.textContent = "Merci, votre inscription est enregistrée.";
+      } else if (res?.status === 400) {
+        status.textContent = "Cette adresse e-mail ne semble pas valide.";
+      } else {
+        status.textContent = "L'inscription n'a pas abouti. Réessayez dans un instant.";
+      }
+    });
+  }
+</script>
