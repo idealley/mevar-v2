@@ -13,6 +13,7 @@ const {
   description = "Bibliothèque numérique de prédications, exhortations, études bibliques et livres autour du message du temps de la fin.",
   image,
 } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
@@ -20,19 +21,22 @@ const {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
     <link rel="icon" type="image/svg+xml" href="/brand/logo.svg" />
-    <link rel="apple-touch-icon" href="/brand/icon-192.png" />
+    <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
     <meta name="theme-color" content="#1c1917" />
     <meta name="generator" content={Astro.generator} />
 
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    {image && <meta property="og:image" content={image} />}
+    <meta property="og:url" content={canonical} />
+    {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
 
     <!-- Sober system-font reading stack — works offline, free, lighter than Google Fonts -->
     <style is:global>
