@@ -43,6 +43,9 @@ jobs:
       # astro build, then pagefind --site dist
       - run: npm run build
 
+      # Goal 03's check: every Ghost URL resolves, no broken internal link.
+      - run: npm run check:dist
+
       - run: npm run check:limits
 
       - name: Deploy

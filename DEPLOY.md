@@ -33,8 +33,11 @@ npx wrangler@4 login                  # opens the browser, approve access
 npx wrangler@4 pages project create mevar --production-branch=main
 ```
 
-Or in the dashboard: **Workers & Pages** → **Create** → **Pages** tab →
-**Use direct upload** → Project name `mevar` → **Create project**. Leave the
+Or in the dashboard: **Workers & Pages** → **Create**. On the "Make
+something new" screen, pick none of the tiles ("Connect GitHub" builds on
+Cloudflare, "Upload your static files" makes a Worker): click **Continue
+to Pages** under them → **Use direct upload** → Project name `mevar` →
+**Create project**. Leave the
 upload empty and close the page; the first deploy (step 4) fills it.
 
 Do not connect the project to GitHub in the dashboard ("Connect to Git"):
@@ -99,15 +102,19 @@ Pagefind's settings.
 
 Steps 1 to 3 come before merging to `main`: the merge runs the workflow,
 which fails without the secrets. Merge to `main`. The push deploys
-production at `https://mevar.pages.dev`. mevar.org still points to Ghost; nothing public changes yet.
+production at `https://mevar.pages.dev`. mevar.org still points to Ghost;
+nothing public changes yet.
 
 ## Cutover checklist
 
 In order. Each step is done by Samuel.
 
 1. **The preview is green.** `https://mevar.pages.dev` opens, a sermon page
-   opens, `/recherche/` finds a phrase. Run the link check from goal 03
-   against the live URL and get zero broken links.
+   opens, `/recherche/` finds a phrase, `/rss/` lists the newest posts.
+   Goal 03's link check (`npm run check:dist`: every Ghost post at its old
+   URL, every redirect target, every internal link) runs on the exact
+   `dist/` each deploy uploads, and the deploy stops if it fails: a green
+   deploy has passed it.
 2. **Final Ghost content is in.** Export from Ghost (**Settings** →
    **Advanced** → **Import/Export** → **Export**), import it with the
    additive script from goal 02, download the assets (goal 01), commit,
@@ -140,8 +147,7 @@ In order. Each step is done by Samuel.
 5. **Spot check**, in a private window:
    - ten old URLs from a Google search `site:mevar.org`;
    - the links in the two most recent newsletter emails;
-   - `https://mevar.org/rss/` (the feed readers subscribe to; goal 03
-     creates it, so check it is on the preview in step 1);
+   - `https://mevar.org/rss/` (the feed readers subscribe to);
    - one PDF link.
    Every one opens the right page, not a 404 and not the home page.
 6. **Ghost stays up, unlinked, for 30 days**, then is cancelled. Do not start
