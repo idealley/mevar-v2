@@ -4,7 +4,8 @@
 // hand from each text's title page. The id is the date where the summary's
 // own heading contradicts it: "620714Son-confus" says « 14 Juillet 1963 », the
 // sermon is 62-0714. The same fields go into the manifest entry, when there is
-// one (le-scribe, cmpp; the two local volumes have none), so 50 agrees.
+// one (le-scribe, cmpp; the two local volumes have none), so 50 agrees; a
+// month with no day is no date, as in the frontmatter.
 // A file that already has frontmatter is left alone: idempotent. Run 47, 49
 // and 50 after it.
 //
@@ -31,12 +32,12 @@ const WORKS = {
   // « Mars 1950, date inconnue »
   "le-scribe/undated/5003xxDon&appel": {
     title: "Les dons et les appels sont sans repentance", subtitle: "Gifts and Callings Are Without Repentance",
-    year: 1950, location: "Carlsbad (New Mexico)", preacher: "William Branham",
+    date: null, year: 1950, location: "Carlsbad (New Mexico)", preacher: "William Branham",
   },
   // « Février 1956 »
   "le-scribe/undated/5602Combat-foi": {
     title: "Combattre pour la foi", subtitle: "Contending for the Faith",
-    year: 1956, location: "Georgetown (Indiana)", preacher: "William Branham",
+    date: null, year: 1956, location: "Georgetown (Indiana)", preacher: "William Branham",
   },
   "cmpp/undated/lc56": {
     title: "Lettre Circulaire 56", subtitle: "Janvier 2005",
@@ -71,6 +72,7 @@ for (const [rel, fields] of Object.entries(WORKS)) {
   const text = fs.readFileSync(p, "utf8");
   if (!text.startsWith("---\n")) {
     const fm = Object.entries({ source, sermon_id, ...fields })
+      .filter(([, v]) => v !== null)
       .map(([k, v]) => `${k}: ${typeof v === "number" ? v : JSON.stringify(v)}`);
     fs.writeFileSync(p, `---\n${fm.join("\n")}\n---\n${text}`);
     written++;
