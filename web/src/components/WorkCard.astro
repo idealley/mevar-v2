@@ -6,16 +6,15 @@
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "$lib/components/ui/card";
 import { Badge } from "$lib/components/ui/badge";
 import { formatDateFr, deriveKind } from "$lib/utils";
+import { workUrl, type WorkEntry } from "$lib/works";
 
 interface Props {
-  entry: {
-    id: string;
-    data: Record<string, any>;
-  };
+  entry: WorkEntry;
 }
 
 const { entry } = Astro.props;
 const fm = entry.data;
+const href = workUrl(entry);
 const kind = deriveKind(fm);
 const date = formatDateFr(fm.date ?? fm.published_at ?? null);
 const image = fm.local_image ?? fm.feature_image ?? null;
@@ -52,7 +51,7 @@ const KIND_LABEL: Record<string, string> = {
 
 <Card class="flex flex-col overflow-hidden h-full transition hover:shadow-md">
   {image ? (
-    <a href={`/works/${entry.id}`} class="block aspect-[16/9] overflow-hidden bg-muted">
+    <a href={href} class="block aspect-[16/9] overflow-hidden bg-muted">
       <img
         src={image.startsWith("http") ? image : `/${image}`}
         alt={fm.title ?? entry.id}
@@ -61,7 +60,7 @@ const KIND_LABEL: Record<string, string> = {
       />
     </a>
   ) : (
-    <a href={`/works/${entry.id}`} class={`block aspect-[16/9] bg-gradient-to-br ${gradient} flex items-center justify-center p-6`}>
+    <a href={href} class={`block aspect-[16/9] bg-gradient-to-br ${gradient} flex items-center justify-center p-6`}>
       <span class="text-xs uppercase tracking-widest text-muted-foreground/70 font-medium">
         {KIND_LABEL[kind] ?? kind}
       </span>
@@ -73,7 +72,7 @@ const KIND_LABEL: Record<string, string> = {
       {visibleTags.map((t: string) => <Badge variant="secondary" class="text-[10px] uppercase tracking-wide font-normal">{t}</Badge>)}
     </div>
     <CardTitle class="text-lg leading-snug">
-      <a href={`/works/${entry.id}`} class="hover:underline decoration-2 underline-offset-4">{fm.title ?? entry.id}</a>
+      <a href={href} class="hover:underline decoration-2 underline-offset-4">{fm.title ?? entry.id}</a>
     </CardTitle>
     {date && <CardDescription class="text-xs">{date}</CardDescription>}
   </CardHeader>
@@ -85,6 +84,6 @@ const KIND_LABEL: Record<string, string> = {
   )}
 
   <CardFooter class="mt-auto pt-2 text-sm">
-    <a href={`/works/${entry.id}`} class="font-medium text-primary hover:underline">Lire →</a>
+    <a href={href} class="font-medium text-primary hover:underline">Lire →</a>
   </CardFooter>
 </Card>

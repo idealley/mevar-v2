@@ -1,0 +1,18 @@
+---
+// Ghost posts keep the URL they had on Ghost: mevar.org/<slug>/. Ghost pages
+// (a-propos, courage-soldat-de-christ, newsletter) have their own file;
+// about and authors are redirects.
+import WorkPage from "../components/WorkPage.astro";
+import { allWorks } from "$lib/works";
+
+export async function getStaticPaths() {
+  const works = await allWorks();
+  return works
+    .filter((entry) => entry.data.source === "mevar")
+    .map((entry) => ({ params: { slug: entry.id.slice("mevar/".length) }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+---
+
+<WorkPage entry={entry} />
