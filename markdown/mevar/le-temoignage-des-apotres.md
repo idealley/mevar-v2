@@ -122,7 +122,7 @@ Frères et sœurs, que Dieu nous fortifie, que Dieu nous encourage et que, vraim
 
 ### Sur le même sujet
 
--   [Le témoignage de Dieu](https://mevar.org/le-temoignage-de-dieu)
+-   [Le témoignage de Dieu](/le-temoignage-de-dieu/)
 
 * * *
 

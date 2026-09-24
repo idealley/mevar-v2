@@ -61,7 +61,7 @@ C’est ainsi. **Il ya un temps pour être choisi roi – un temps pour apprendr
 
 **À la fin, David a été un bon roi parce qu’il a mené beaucoup de guerres pendant son errement –** Dieu lui a appris à compter sur Lui dans toutes ses conquêtes – David a vécu sa vie dans l’adversité de ses frères et des ennemis philistins. C’est là qu’il a été forgé et c’est là qu’il a acquis son assurance avec Dieu – c’était sa voie.
 
-**Mes bien-aimés, comme David et aussi comme le Christ, ne craignons pas l’adversité, parce que c’est là-dedans qu’il y a l’expérience du combat spirituel. C’est de la victoire dans l’adversité que vient l’élévation**. David a mené des combats personnels, seul contre les lions et les ours, [avant de se retrouver publiquement devant Goliath, pour défendre Israël.](https://mevar.org/l-enjeu-du-combat-contre-goliath-1/) C’est de la victoire sur Goliath que partit la renommée de David.
+**Mes bien-aimés, comme David et aussi comme le Christ, ne craignons pas l’adversité, parce que c’est là-dedans qu’il y a l’expérience du combat spirituel. C’est de la victoire dans l’adversité que vient l’élévation**. David a mené des combats personnels, seul contre les lions et les ours, [avant de se retrouver publiquement devant Goliath, pour défendre Israël.](/l-enjeu-du-combat-contre-goliath-1/) C’est de la victoire sur Goliath que partit la renommée de David.
 
 Mais Dieu ne l’avait pas encore élevé. **Mes chers amis, notre voie se trouve dans l’adversité – notre victoire se trouve dans l’adversité – notre élévation en tant qu’Épouse de Christ se trouve dans l’adversité et le combat spirituel. Il ne peut en être autrement. C’est pourquoi je vous exhorte à prendre courage dans l’adversité.**
 

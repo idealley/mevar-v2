@@ -24,9 +24,9 @@ stream_url: "https://mevar.org/le-renseignement-militaire-audio/"
 
 ### Sur le même sujet
 
--   [Le bouclier de la foi \[audio\]](https://mevar.org/le-bouclier-de-la-foi)
--   [L' Armée et la position de combat \[audio\]](https://mevar.org/l-armee-et-la-position-de-combat)
--   [Le renseignement militaire \[audio\] (2)](https://mevar.org/le-renseignement-militaire-audio-2)
--   [La Position de la femme \[audio\] (2)](https://mevar.org/la-position-de-la-femme-deuxieme-partie)
--   [La position de la femme \[audio\] (3)](https://mevar.org/la-position-de-la-femme-troisieme-partie)
--   [La position de la femme \[audio\]](https://mevar.org/la-position-de-la-femme-premiere-partie)
+-   [Le bouclier de la foi \[audio\]](/le-bouclier-de-la-foi/)
+-   [L' Armée et la position de combat \[audio\]](/l-armee-et-la-position-de-combat/)
+-   [Le renseignement militaire \[audio\] (2)](/le-renseignement-militaire-audio-2/)
+-   [La Position de la femme \[audio\] (2)](/la-position-de-la-femme-deuxieme-partie/)
+-   [La position de la femme \[audio\] (3)](/la-position-de-la-femme-troisieme-partie/)
+-   [La position de la femme \[audio\]](/la-position-de-la-femme-premiere-partie/)

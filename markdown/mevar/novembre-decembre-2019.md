@@ -34,9 +34,9 @@ Régime de prière du **25 Novembre au 15 Décembre 2019**. Ces moments de priè
 
 ### Sur le même sujet
 
--   [Mai - Juin 2019](https://mevar.org/mai-juin-2019)
--   [Juin 2019](https://mevar.org/juin-2019)
--   [Juillet 2019](https://mevar.org/juillet-2019)
+-   [Mai - Juin 2019](/mai-juin-2019/)
+-   [Juin 2019](/juin-2019/)
+-   [Juillet 2019](/juillet-2019/)
 
 * * *
 

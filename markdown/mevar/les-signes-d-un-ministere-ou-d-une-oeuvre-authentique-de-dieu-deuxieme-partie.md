@@ -202,9 +202,9 @@ Nos affaires ne resteront pas avec le diable. Nous sommes dans le même combat q
 
 ### Sur le même sujet
 
--   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie)
--   [Les signes d’une œuvre ou d’un Ministère authentique de Dieu](https://mevar.org/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie)
--   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie)
+-   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie/)
+-   [Les signes d’une œuvre ou d’un Ministère authentique de Dieu](/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie/)
+-   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie/)
 
 * * *
 

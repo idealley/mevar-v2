@@ -138,9 +138,9 @@ Que Dieu nous bénisse ! Nous allons nous remettre entre les mains de Dieu…
 
 ### Sur le même sujet
 
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine-deuxieme-partie)
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine)
--   [La Foi d'Enoch](https://mevar.org/la-foi-d-enoch)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine-deuxieme-partie/)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine/)
+-   [La Foi d'Enoch](/la-foi-d-enoch/)
 
 * * *
 

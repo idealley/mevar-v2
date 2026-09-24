@@ -34,4 +34,4 @@ Mes bien-aimés frères et sœurs, c’est un appel pressant à fuir Babylone, e
 
 Mes bien-aimés, savez-vous que certains parmi nous qui ne savent pas ce que c’est que Babylone ! **Plusieurs n’arrivent pas à se représenter les œuvres de Babylone parmi nous**. C’est pourquoi j’ai jugé utile de vous proposer une prédication que j’ai apportée dans une localité proche d’Abidjan, traitant de ce sujet. Mon souhait est que vous soyez éclairés par cette Parole.
 
-[L’esprit babylonienMes frères et sœurs, que le nom du Seigneur soit béni ! Nous sommes reconnaissants au Seigneur qui permet encore ce rassemblement. Toutes les occasions sont bonnes pour écouter la Parole de Dieu – toutes les occasions sont bonnes pour nous approcher du Seigneur dans la connaissance de Sa Parole et d…MEVARParfait M’bra](https://mevar.org/lesprit-babylonien/)
+[L'esprit babylonien](/lesprit-babylonien/)

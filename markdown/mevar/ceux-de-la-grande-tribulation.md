@@ -62,7 +62,7 @@ Maintenant au niveau de l’Eglise, je l’ai dit plusieurs fois et je le répè
 
 Comme je le dis souvent, Satan est entré dans l’Eglise pour changer les doctrines, pour changer les pratiques spirituelles, en vue d’amener le peuple de Dieu dans une voie d’égarement qui n’est pas la voie de la vérité. Donc Dieu en ramenant Israël dans sa patrie a aussi apporté un Message dans les Nations qui nous ramène à l’origine de la parole de Dieu telle qu’elle a été donnée par les apôtres. Quand Jésus a créé l’Eglise, Il a laissé une doctrine, un enseignement et à son retour, Il doit retrouver les mêmes enseignements, les mêmes doctrines, les mêmes pratiques parmi Son peuple. Amen ! Il ne doit pas retrouver autre chose. Ce qui a été semé au commencement comme Jésus l’a dit, le grain de blé qui a été jeté en terre, c’est le même grain de blé qui doit pousser et donner des fruits à la fin des temps. Ce n’est pas autre chose, parce que si l’Eglise épouse une doctrine qui n’est pas la doctrine de Christ, avec le temps, elle évolue certes, mais c’est une église qui ne peut pas ressembler à Jésus. Amen ! C’est comme ça. Si l’Eglise épouse une autre doctrine ; un autre enseignement que Jésus n’a pas déposé au commencement, c’est une église qui sera défigurée. Donc le message avait pour but de ramener les chrétiens sur la voie de la vérité dans notre génération.
 
-Dans notre âge, la vérité n’est plus à sa place. Donc aujourd’hui pour celui qui veut se préparer de la bonne manière pour ne pas passer par la grande tribulation, il faut qu’il comprenne le Message qui a été donné. Ce n’est pas le Message d’un homme ou un Message adressé à une église. Non ! C’est un Message qui est adressé à tous les croyants, toutes dénominations confondues, quel que soit le lieu où ils se trouvent ; quel que soit leur confession de foi. C’est un Message spirituel. C’est un appel. J’ai prêché ça avant de voyager,[l’appel de 1933](https://mevar.org/articles/l-appel-de-1933). Amen !
+Dans notre âge, la vérité n’est plus à sa place. Donc aujourd’hui pour celui qui veut se préparer de la bonne manière pour ne pas passer par la grande tribulation, il faut qu’il comprenne le Message qui a été donné. Ce n’est pas le Message d’un homme ou un Message adressé à une église. Non ! C’est un Message qui est adressé à tous les croyants, toutes dénominations confondues, quel que soit le lieu où ils se trouvent ; quel que soit leur confession de foi. C’est un Message spirituel. C’est un appel. J’ai prêché ça avant de voyager,[l’appel de 1933](/l-appel-de-1933/). Amen !
 
 ### Être corporellement Habité par Jésus-Christ
 
@@ -250,8 +250,8 @@ A la fin, je voudrais indiquer que ceux qui auront péri dans la grande tribulat
 
 ### Sur le même sujet
 
--   [Le septième sceau](https://mevar.org/le-septieme-sceau)
--   [L' Appel de 1933](https://mevar.org/l-appel-de-1933)
+-   [Le septième sceau](/le-septieme-sceau/)
+-   [L' Appel de 1933](/l-appel-de-1933/)
 
 * * *
 

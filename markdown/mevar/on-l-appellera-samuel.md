@@ -374,8 +374,8 @@ A vous tous qui êtes près et au loin, je dis Maranatha ! Jésus-Christ revient
 
 ### Sur le même sujet
 
--   [La guerre du Dragon contre le Fils de l’Eglise](https://mevar.org/la-guerre-du-dragon-contre-le-fils-de-l-eglise)
--   [L'épreuve d'Anne](https://mevar.org/l-epreuve-d-anne-1)
+-   [La guerre du Dragon contre le Fils de l’Eglise](/la-guerre-du-dragon-contre-le-fils-de-l-eglise/)
+-   [L'épreuve d'Anne](/l-epreuve-d-anne-1/)
 
 * * *
 

@@ -233,4 +233,6 @@ Quelqu'un dirait qu'il est devenu un criminel ce jour-là. Ce n’est pas une af
 
 * * *
 
-[Le fruit de l’Esprit - L’amourOn va commencer une série d’enseignements sur le fruit de l’Esprit. C’est un enseignement de façon générale sur le fruit de l’Esprit mais, je vais mettre des particularités à chaque fois. Aujourd’hui, on mettra l’accent sur l’amour. Puis, on va prendre les autres fruits qu’on va mettre en exergueMEVARParfait M’bra](https://mevar.org/le-fruit-de-lesprit-lamour/)[Le fruit de l’Esprit – La paixGloire à Dieu. Que Dieu nous bénisse. Nous allons continuer ce qu’on a commencé il y a déjà quelques temps. Et je pense qu’on va se laisser conduire par l’Esprit de Dieu et nous allons lire quelques Écritures. Le passage de base que nous connaissons déjà, c’est Galates chapitreMEVARParfait M’bra](https://mevar.org/le-fruit-de-lesprit-la-paix/)
+[Le fruit de l’Esprit - L'amour](/le-fruit-de-lesprit-lamour/)
+
+[Le fruit de l’Esprit – La paix](/le-fruit-de-lesprit-la-paix/)

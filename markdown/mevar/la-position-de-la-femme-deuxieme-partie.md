@@ -25,9 +25,9 @@ stream_url: "https://mevar.org/la-position-de-la-femme-deuxieme-partie/"
 
 ### Sur le même sujet
 
--   [Le bouclier de la foi \[audio\]](https://mevar.org/le-bouclier-de-la-foi)
--   [Le renseignement militaire \[audio\]](https://mevar.org/le-renseignement-militaire-audio)
--   [Le renseignement militaire \[audio\] (2)](https://mevar.org/le-renseignement-militaire-audio-2)
--   [L' Armée et la position de combat \[audio\]](https://mevar.org/l-armee-et-la-position-de-combat)
--   [La position de la femme \[audio\]](https://mevar.org/la-position-de-la-femme-premiere-partie)
--   [La position de la femme \[audio\] (3)](https://mevar.org/la-position-de-la-femme-troisieme-partie)
+-   [Le bouclier de la foi \[audio\]](/le-bouclier-de-la-foi/)
+-   [Le renseignement militaire \[audio\]](/le-renseignement-militaire-audio/)
+-   [Le renseignement militaire \[audio\] (2)](/le-renseignement-militaire-audio-2/)
+-   [L' Armée et la position de combat \[audio\]](/l-armee-et-la-position-de-combat/)
+-   [La position de la femme \[audio\]](/la-position-de-la-femme-premiere-partie/)
+-   [La position de la femme \[audio\] (3)](/la-position-de-la-femme-troisieme-partie/)

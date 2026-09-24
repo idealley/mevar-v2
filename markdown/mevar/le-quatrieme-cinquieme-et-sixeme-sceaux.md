@@ -133,7 +133,7 @@ Donc l’onction du temps de la fin dans notre génération a pour mission aussi
 
 Et c’est le message qu’on a reçu, parce que je vous ai dit qu’on est dans l’âge de l’aigle. **Le message qu’on a reçu de l’aigle, l’esprit prophétique met une église en mouvement pour faire ce travail : c’est une VISION, c’est la finalité**. Que Dieu soit béni ! Donc les passages par exemple concernant le message du temps de la fin, vous les connaissez déjà : C’est Malachie 4:1-6. Voici ce qui est écrit au verset 5 : _**« voici moi-même je vous enverrai le prophète Elie, avant la venue du jour de l’Eternel, jour grand et redoutable ».**_ Vous devez savoir qu’on est dans un temps de jugement. Actuellement, le monde est dans un temps de jugement. Nous sommes dans un temps comme au temps de Noé. Au temps de Noé, il y avait un jugement qui était suspendu sur la terre. Donc Dieu a suscité l’arche pour sauver ceux qui devaient être sauvés. Dans notre génération aussi il y a un jugement qui est suspendu. Le jour du jugement, c’est ce que l’écriture appelle le jour de l’Eternel. Dans le jour de l’Éternel, on a plusieurs périodes. **C’est un jour de jugement pour certains et un jour de vengeance pour Dieu**. C’est un jour dans lequel Dieu va se révéler comme le Juge. Amen ! Il va détruire le monde et ses méchants. Sa colère va se manifester, se révéler dans les nations mais ce côté de Jugement a été mis en veilleuse et il a fait venir un message pour nous faire sortir avant. Amen !
 
-**Je vous enverrai Elie le prophète avant la venue du jour de l’Eternel, jour grand et redoutable. Il ramènera le cœur des pères à leurs enfants.** Jean-Baptiste a fait le travail d’Eli en ce qui concerne l’avènement du Messie, le Christ. Et dans notre génération comme je l’ai dit souvent, c’est le prophète _**William Branham**_ qui pendant le réveil des _**États-Unis**_ a été visité en 1933\*\*. \*\*\*J’ai prêché ici dans cette église [l’appel de 1933](https://mevar.org/articles/l-appel-de-1933). Vous vous en souvenez ! Voilà l’appel de 1933. C’est là qu’il lui a été dit : _**« de la même manière que Jean-Baptiste a été envoyé comme précurseur de ma première venue**_ (ou bien annonciateur de ma première venue) _**tu es envoyé avec un message qui va préparer ma seconde venue ».**_
+**Je vous enverrai Elie le prophète avant la venue du jour de l’Eternel, jour grand et redoutable. Il ramènera le cœur des pères à leurs enfants.** Jean-Baptiste a fait le travail d’Eli en ce qui concerne l’avènement du Messie, le Christ. Et dans notre génération comme je l’ai dit souvent, c’est le prophète _**William Branham**_ qui pendant le réveil des _**États-Unis**_ a été visité en 1933\*\*. \*\*\*J’ai prêché ici dans cette église [l’appel de 1933](/l-appel-de-1933/). Vous vous en souvenez ! Voilà l’appel de 1933. C’est là qu’il lui a été dit : _**« de la même manière que Jean-Baptiste a été envoyé comme précurseur de ma première venue**_ (ou bien annonciateur de ma première venue) _**tu es envoyé avec un message qui va préparer ma seconde venue ».**_
 
 C’était en 1933, précisément le 11 Juin. C’est à partir de cette parole qui a été adressée publiquement devant plusieurs personnes au cours d’une séance de baptême que nous tirons l’appel de William Branham, dans sa relation avec Malachie 4:5. Amen ! **Et le Ministère de ce prophète avait pour BUT de ramener le cœur des chrétiens à Jésus-Christ dans notre génération, parce que Dieu savait que nos cœurs seraient mariés à l’esprit dont on parle maintenant : L’esprit religieux, l’esprit de l’organisation qui associe le monde, la mondanité à la foi chrétienne**. Amen ! Dieu savait le plan de Satan, Il savait qu’il y aurait une déviation. **Il savait qu’il y aurait le mystère de l’iniquité établi dans le lieu saint.** Dieu savait cela. Donc pour aider l’Église, Il a envoyé un message pour ramener nos cœurs à Christ, et celui qui a son cœur ramené à Christ est sorti de Babylone. Il sort du péché. Amen ! Il sort de la mondanité parce que qu’il est écrit que : _**celui qui est ami du monde est ennemi de Dieu.**_ Or dans notre génération, l’esprit de l’iniquité a fait en sorte que les chrétiens soient devenus amis du monde. C’est cela qu’on voit. On trouve les pantalons chez les femmes dans le monde, on les retrouve dans l’Église. On trouve l’impudicité, l’adultère dans le monde, on les retrouve dans l’Église. C’est pour cela qu’il y a des divorces dans l’Église.
 
@@ -203,12 +203,12 @@ L’esprit religieux est au milieu. Quand vous voyez Jésus d’un côté et Sat
 
 ### Sur le même sujet
 
--   [Le Cavalier au Cheval Pâle: La Mort](https://mevar.org/le-cavalier-au-cheval-pale-la-mort)
--   [Le Cheval Roux et le Cheval Noir](https://mevar.org/le-cheval-roux-et-le-cheval-noir)
--   [Le Cavalier au Cheval Blanc d'Apocalypse](https://mevar.org/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse)
--   [L’ Appel à sortir de Babylone](https://mevar.org/l-appel-a-sortir-de-babylone)
--   [Le septième sceau](https://mevar.org/le-septieme-sceau)
--   [L' Appel de 1933](https://mevar.org/l-appel-de-1933)
+-   [Le Cavalier au Cheval Pâle: La Mort](/le-cavalier-au-cheval-pale-la-mort/)
+-   [Le Cheval Roux et le Cheval Noir](/le-cheval-roux-et-le-cheval-noir/)
+-   [Le Cavalier au Cheval Blanc d'Apocalypse](/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse/)
+-   [L’ Appel à sortir de Babylone](/l-appel-a-sortir-de-babylone/)
+-   [Le septième sceau](/le-septieme-sceau/)
+-   [L' Appel de 1933](/l-appel-de-1933/)
 
 * * *
 

@@ -25,5 +25,5 @@ stream_url: "https://mevar.org/la-parabole-des-talents-audio-1/"
 
 ### Sur le même sujet
 
--   [La parabole des talents \[audio\] (2)](https://mevar.org/la-parabole-des-talents-2)
--   [La parabole des talents](https://mevar.org/la-parabole-des-talents)
+-   [La parabole des talents \[audio\] (2)](/la-parabole-des-talents-2/)
+-   [La parabole des talents](/la-parabole-des-talents/)

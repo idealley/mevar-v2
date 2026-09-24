@@ -291,4 +291,10 @@ On va lui rendre Grâce. Prions ensemble**.**
 
 * * *
 
-[Le jour du Seigneur (1)Prêché à koumassi, le 29 octobre 2023 On va lire plusieurs écritures juste pour nous donner l’idée essentielle. On peut lire dans 2 Thessaloniciens chapitre 2 à partir du 1er verset : 1Pour ce qui concerne l’avènement de notre Seigneur Jésus-Christ et notre réunion avec lui, nous vous prions, frères,MEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-1/)[Le jour du Seigneur (2) - Il viendra comme un voleurPrêché à Koumassi, le 29 octobre 2023 On va commencer la lecture dans Mathieu au chapitre 24 à partir du verset 36. C’est Jésus qui parle à ses disciples et à nous tous : 36 Pour ce qui est du jour et de l’heure, personne ne le sait, ni lesMEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-il-viendra-comme-un-voleur/)[Le jour du Seigneur (4) - Et les tribulationsGloire à Dieu. On va commencer dans Mathieu 24 à partir du verset 15 : 15 C’est pourquoi, lorsque vous verrez l’abomination de la désolation, dont a parlé le prophète Daniel, établie en lieu saint, -que celui qui lit fasse attention ! -16 alors, que ceux qui seront en Judée fuient dansMEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-4-et-les-tribulations)[La position de l’archange Michel au jour du Seigneur (Partie 5)On va aborder le sujet sur le jour de l’archange Michel. On va lire d’abord dans Daniel 12. Vous allez voir combien de fois la bible, la Parole de Dieu, est claire. Comme je le disais la dernière fois, la différence entre la bible et les autres livres,MEVARParfait M’bra](https://mevar.org/la-position-de-larchange-michel-au-jour-du-seigneur-partie-5/)
+[Le jour du Seigneur  (1)](/le-jour-du-seigneur-1/)
+
+[Le jour du Seigneur (2) - Il viendra comme un voleur](/le-jour-du-seigneur-il-viendra-comme-un-voleur/)
+
+[Le jour du Seigneur (4) - Et les tribulations](/le-jour-du-seigneur-4-et-les-tribulations/)
+
+[La position de l’archange Michel au jour du Seigneur (Partie 5)](/la-position-de-larchange-michel-au-jour-du-seigneur-partie-5/)

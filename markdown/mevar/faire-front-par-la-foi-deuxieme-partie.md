@@ -33,7 +33,7 @@ series: "Faire front par la Foi"
 series_part: 2
 series_total: 2
 ---
-Nous allons continuer et achever ce que nous avions commencé, parlant de la foi. C’est le deuxième point : _La foi et la bénédiction_. Cela rentre dans [le cadre de la première prédication](https://mevar.org/faire-front-par-la-foi-premiere-partie/) et aussi d’[une série de prédications que nous sommes en train de donner ces temps-ci](https://mevar.org/la-foi/). Après nous allons mettre tout cela dans un document et le relier pour le peuple de Dieu.
+Nous allons continuer et achever ce que nous avions commencé, parlant de la foi. C’est le deuxième point : _La foi et la bénédiction_. Cela rentre dans [le cadre de la première prédication](/faire-front-par-la-foi-premiere-partie/) et aussi d’[une série de prédications que nous sommes en train de donner ces temps-ci](/themes/la-foi/). Après nous allons mettre tout cela dans un document et le relier pour le peuple de Dieu.
 
 Ce que nous devons savoir frères et sœurs, c’est qu’actuellement, le Seigneur est en train de mener un combat spirituel dans l’Église. Je l’ai déjà dit, je le répète pour nous tous : **l’Esprit de Dieu est en train de mener un combat spirituel dans la vie des frères et sœurs, pour nous amener tous à être délivrés du doute et de l’incrédulité, afin d’avoir une confiance totale dans le Seigneur et être une même personne avec lui.** Il ne faudrait pas que pour nous, Dieu soit loin. Nous devons comprendre que Dieu est avec nous, qu’il marche avec nous, que nous sommes à lui et qu’il est à nous. Jésus a dit « je suis dans le Père et le Père est en moi ». Et il a dit qu’il prie pour que nous aussi, les disciples, nous soyons en lui comme lui, il est dans le Père.
 
@@ -159,4 +159,8 @@ _Chant : Je suis dans la joie lorsqu’on me dit allons à la maison de l’Ét
 
 * * *
 
-[Faire front par la Foi - première partie« Faire front par la foi » est un sujet que je vais aborder en deux temps. Certainement qu’on ne pourra pas finir aujourd’hui. On aura le temps de revenir là-dessus. Mais on va déjà commencer. Nous lisons Marc 11 à partir du verset 22 : 22Jésus prit la parole, etMEVARParfait M’bra](https://mevar.org/faire-front-par-la-foi-premiere-partie/)[Faire multiplier notre foiLe Seigneur dit dans Luc 19:30…Allez au village qui est en face; quand vous y serez entrés, vous trouverez un ânon attaché, sur lequel aucun homme ne s’est jamais assis; détachez-le, et amenez-le. 31Si quelqu’un vous demande : Pourquoi le détachez-vous ? vous lui répondrez : Le Seigneur en a besoin.MEVARParfait M’bra](https://mevar.org/faire-multiplier-notre-foi/)[Vivre la prière de la Foi« Vivre la prière » est une parole d’exhortation sur la foi. Nous devons la vivre. La prière ne doit pas être séparée de notre attitude. Quand nous prions, nous devons avoir un comportement qui l’accompagne. Nous lisons dans Marc 11 à partir du verset 12 : 12Le lendemain, après qu’ilsMEVARParfait M’bra](https://mevar.org/vivre-la-priere-de-la-foi/)
+[Faire front par la Foi - première partie](/faire-front-par-la-foi-premiere-partie/)
+
+[Faire multiplier notre foi](/faire-multiplier-notre-foi/)
+
+[Vivre la prière de la Foi](/vivre-la-priere-de-la-foi/)

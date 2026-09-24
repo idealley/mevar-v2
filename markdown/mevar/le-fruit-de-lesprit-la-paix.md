@@ -280,4 +280,6 @@ Christ achève en nous son œuvre. Et ça implique la souffrance, ça implique l
 
 * * *
 
-[Le fruit de l’Esprit - L’amourOn va commencer une série d’enseignements sur le fruit de l’Esprit. C’est un enseignement de façon générale sur le fruit de l’Esprit mais, je vais mettre des particularités à chaque fois. Aujourd’hui, on mettra l’accent sur l’amour. Puis, on va prendre les autres fruits qu’on va mettre en exergueMEVARParfait M’bra](https://mevar.org/le-fruit-de-lesprit-lamour/)[Le fruit de l’Esprit – La joieGloire à Dieu ! L’ancien évangile, c’est l’évangile qui a été prêché par Jésus et qui continue d’être prêché par le Saint-Esprit. Ce n’est pas l’évangile de la prospérité qu’on voit dans le monde aujourd’hui, dans le monde des religieux dans les églises fondées parMEVARParfait M’bra](https://mevar.org/le-fruit-de-lesprit-la-joie/)
+[Le fruit de l’Esprit - L'amour](/le-fruit-de-lesprit-lamour/)
+
+[Le fruit de l’Esprit – La joie](/le-fruit-de-lesprit-la-joie/)

@@ -213,8 +213,8 @@ En approchant du nouveau millénaire, tous les signes nous montrent que le retou
 
 ### Sur le même sujet
 
--   [Ceux de la grande tribulation](https://mevar.org/ceux-de-la-grande-tribulation)
--   [Le septième sceau](https://mevar.org/le-septieme-sceau)
+-   [Ceux de la grande tribulation](/ceux-de-la-grande-tribulation/)
+-   [Le septième sceau](/le-septieme-sceau/)
 
 * * *
 

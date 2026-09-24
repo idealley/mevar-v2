@@ -151,8 +151,8 @@ Et il y a un temps de visitation qui est prévu. Dieu doit visiter chacun d’en
 
 ### Sur le même sujet
 
--   [L'épreuve d'Anne](https://mevar.org/l-epreuve-d-anne-1)
--   [On l’appellera Samuel](https://mevar.org/on-l-appellera-samuel)
+-   [L'épreuve d'Anne](/l-epreuve-d-anne-1/)
+-   [On l’appellera Samuel](/on-l-appellera-samuel/)
 
 * * *
 

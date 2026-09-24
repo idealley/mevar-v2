@@ -90,4 +90,8 @@ _Chant : Je suis vainqueur, alléluia_
 
 * * *
 
-[Les sources de la foiMes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous. Comme vous le savez, nous sommes engagés avec le Seigneur dans une œuvre de restauration et de restitution des attributs de l’Église de la fin des temps. L’adversaireMEVARParfait M’bra](https://mevar.org/les-sources-de-la-foi/)[​La foi, la mer et les tempêtesQue la grâce et la paix du Seigneur soient sur nous. Nous allons lire dans Marc : 35 Ce même jour, sur le soir, Jésus leur dit: Passons à l’autre bord. 36 Après avoir renvoyé la foule, ils l’emmenèrent dans la barque où il se trouvait; il y avait aussi d’autresMEVARParfait M’bra](https://mevar.org/la-foi-la-mer-et-les-tempetes/)[Face à face avec les réalités de la foiExhortation de fin Avril 2022 Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous tous dans Son précieux nom qu’Il nous a donné, par lequel nous avons la victoire sur tous nos ennemis. Je suis particulièrement heureux d’MEVARParfait M’bra](https://mevar.org/face-a-face-avec-les-realites-de-la-foi/)
+[Les sources de la foi](/les-sources-de-la-foi/)
+
+[​La foi, la mer et les tempêtes](/la-foi-la-mer-et-les-tempetes/)
+
+[Face à face avec les réalités de la foi](/face-a-face-avec-les-realites-de-la-foi/)

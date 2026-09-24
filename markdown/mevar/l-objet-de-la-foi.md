@@ -182,12 +182,12 @@ C’est comme les rois d’avant, pour peu, ils peuvent ordonner qu’on te coup
 
 ### Sur le même sujet
 
--   [La Foi voit l’invisible](https://mevar.org/la-foi-voit-l-invisible)
--   [La Foi d'Enoch](https://mevar.org/la-foi-d-enoch)
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine-deuxieme-partie)
--   [La foi pour manger le lait et le miel](https://mevar.org/la-foi-pour-manger-le-lait-et-le-miel)
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine)
--   [Un message de la fin des temps pour une foi de la fin des temps](https://mevar.org/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps)
+-   [La Foi voit l’invisible](/la-foi-voit-l-invisible/)
+-   [La Foi d'Enoch](/la-foi-d-enoch/)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine-deuxieme-partie/)
+-   [La foi pour manger le lait et le miel](/la-foi-pour-manger-le-lait-et-le-miel/)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine/)
+-   [Un message de la fin des temps pour une foi de la fin des temps](/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps/)
 
 * * *
 

@@ -224,4 +224,4 @@ Que Dieu nous bénisse. Je vais m’arrêter là. J’ai beaucoup parlé. Je vai
 
 [Télécharger le PDF](/files/mevar/ministere-de-l-Esprit-1_17-12-23.pdf)
 
-[Le Ministère de l’Esprit (2)On va revenir dans le texte qu’on a lu dimanche passé. C’était 2 Corinthiens 3 : Commençons-nous de nouveau à nous recommander nous-mêmes ? Ou avons-nous besoin, comme quelques-uns, de lettres de recommandation auprès de vous, ou de votre part ? 2 C’est vous qui êtes notre lettre, écrite dans nosMEVARParfait M’bra](https://mevar.org/le-ministere-de-lesprit-2/)
+[Le Ministère de l'Esprit (2)](/le-ministere-de-lesprit-2/)

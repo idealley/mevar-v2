@@ -157,15 +157,15 @@ Que Dieu nous bénisse. J’ai été un peu long, mais je voulais quand même ê
 
 ### Sur le même sujet
 
--   [Le Sermon sur la Montagne \[audio\] (1)](https://mevar.org/le-sermon-sur-la-montagne-matthieu-5-1-12)
--   [Le Sermon sur la Montagne \[audio\] (2)](https://mevar.org/le-sermon-sur-la-montagne-deuxieme-partie)
--   [La femme de Sunem \[audio\]](https://mevar.org/la-femme-de-sunem)
--   [Le sermon sur la montagne \[audio\] (3)](https://mevar.org/le-sermon-sur-la-montagne-matthieu-5-17-24)
--   [Le Sermon sur la Montagne \[audio\] (4)](https://mevar.org/le-sermon-sur-la-montagne-4)
--   [Les liens spirituels \[audio\] (1)](https://mevar.org/les-liens-spirituels)
--   [Les liens spirituels \[audio\] (3)](https://mevar.org/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels)
--   [La chute de Sédécias \[audio\]](https://mevar.org/la-chute-de-sedecias)
--   [Le Sermon sur la Montagne \[audio\] (5)](https://mevar.org/le-sermon-sur-la-montagne-audio-5)
+-   [Le Sermon sur la Montagne \[audio\] (1)](/le-sermon-sur-la-montagne-matthieu-5-1-12/)
+-   [Le Sermon sur la Montagne \[audio\] (2)](/le-sermon-sur-la-montagne-deuxieme-partie/)
+-   [La femme de Sunem \[audio\]](/la-femme-de-sunem/)
+-   [Le sermon sur la montagne \[audio\] (3)](/le-sermon-sur-la-montagne-matthieu-5-17-24/)
+-   [Le Sermon sur la Montagne \[audio\] (4)](/le-sermon-sur-la-montagne-4/)
+-   [Les liens spirituels \[audio\] (1)](/les-liens-spirituels/)
+-   [Les liens spirituels \[audio\] (3)](/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels/)
+-   [La chute de Sédécias \[audio\]](/la-chute-de-sedecias/)
+-   [Le Sermon sur la Montagne \[audio\] (5)](/le-sermon-sur-la-montagne-audio-5/)
 
 * * *
 

@@ -259,4 +259,4 @@ Le frère Salomon va nous congédier.
 
 [Télécharger le PDF](/files/mevar/ministere-de-l-Esprit-2_24-12-23.pdf)
 
-[Le ministère de l’Esprit (1)Nous allons lire dans 2 Corinthiens, chapitre 3. On commence au premier verset : 1 Commençons-nous de nouveau à nous recommander nous-mêmes ? Ou avons-nous besoin, comme quelques-uns, de lettres de recommandation auprès de vous, ou de votre part ? 2 C’est vous qui êtes notre lettre, écrite dans nos cœurs, connue etMEVARParfait M’bra](https://mevar.org/le-ministere-de-lesprit/)
+[Le ministère de l’Esprit (1)](/le-ministere-de-lesprit/)

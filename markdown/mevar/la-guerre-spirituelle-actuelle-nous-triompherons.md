@@ -116,7 +116,7 @@ Mes bien-aimés, quel combat mena Abraham ? Il alla libérer son neveu Lot qui a
 
 ### Sur le même sujet
 
--   [Le chemin le plus long](https://mevar.org/le-chemin-le-plus-long)
+-   [Le chemin le plus long](/le-chemin-le-plus-long/)
 
 * * *
 

@@ -29,7 +29,7 @@ nouvelle fonctionalité: pdf download.
 
 Chers frères et sœurs,
 
-Nous commençons l’année 2023 avec un nouveau site web. Le but est de mieux vous servir et de faciliter la lecture [des prédications](https://mevar.org/predications/), [exhortations](https://mevar.org/exhortations/) et autres [publications](https://mevar.org/publications/).
+Nous commençons l’année 2023 avec un nouveau site web. Le but est de mieux vous servir et de faciliter la lecture [des prédications](/predications/), [exhortations](/exhortations/) et autres [publications](/publications/).
 
 Nous apprécions vos commentaires. Si vous avez le moindre problème ou demande, faites-le nous savoir!
 
@@ -59,4 +59,8 @@ Samuel
 
 ### Articles récents:
 
-[Souviens-toi donc d’où tu es tombé et repens-toiQue notre Seigneur et Sauveur Jésus-Christ soient avec vous. Nous rendons grâce au Seigneur notre Dieu et nous lui sommes reconnaissant pour tout ce qu’Il fait pour nous.MEVARParfait M’bra](https://mevar.org/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi/)[La fin d’une époqueExhortation Spéciale de Novembre 2022 Mes bien-aimés frères et sœurs, que la grâce et la paix de notre Seigneur et Sauveur Jésus-Christ soient avec vous. Nous rendons grâce à Dieu pour son œuvre à la fin des temps – œuvre à laquelle nous avons été pleinement associés pour notre propre bonheurMEVARParfait M’bra](https://mevar.org/la-fin-d-une-epoque/)[Le royaume de DieuComprendre ses principes et son fonctionnement Le Royaume de Dieu ou encore le Royaume des cieux est un projet essentiel du Seigneur Jésus-Christ qu’il a accompli en venant sur la terre. Il est venu avec le salut pour les hommes, mais ce salut n’est pas en dehors duMEVARAndré Kadjany](https://mevar.org/le-royaume-de-dieu/)
+[Souviens-toi donc d'où tu es tombé et repens-toi](/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi/)
+
+[La fin d'une époque](/la-fin-d-une-epoque/)
+
+[Le royaume de Dieu](/le-royaume-de-dieu/)

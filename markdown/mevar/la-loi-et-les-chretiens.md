@@ -202,4 +202,4 @@ Quand est le sabbat ? Aujourd’hui. Quand nous nous sommes mis en règle devant
 
 ### Sur le même sujet
 
--   [Qu’est-ce qu’un type dans la Bible?](https://mevar.org/qu-est-ce-qu-un-type-dans-la-bible)
+-   [Qu’est-ce qu’un type dans la Bible?](/qu-est-ce-qu-un-type-dans-la-bible/)

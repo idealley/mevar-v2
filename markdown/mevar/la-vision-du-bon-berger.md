@@ -132,8 +132,8 @@ Si tu ignores les autres Ministères, ton Assemblée ne sera pas arrosée. Allé
 
 ### Sur le même sujet
 
--   [Convention Nationale de Réveil](https://mevar.org/convention-nationale-de-reveil)
--   [Seigneur, Je te suivrai, partout ou tu iras](https://mevar.org/seigneur-je-te-suivrai--partout-ou-tu-iras)
+-   [Convention Nationale de Réveil](/convention-nationale-de-reveil/)
+-   [Seigneur, Je te suivrai, partout ou tu iras](/seigneur-je-te-suivrai-partout-ou-tu-iras/)
 
 * * *
 

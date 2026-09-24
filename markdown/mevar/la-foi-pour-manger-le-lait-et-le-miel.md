@@ -210,7 +210,7 @@ Ma prière est que chacun de nous comprenne ce qui se passe réellement dans l�
 
 ### Sur le même sujet
 
--   [L' Appel de 1933](https://mevar.org/l-appel-de-1933)
+-   [L' Appel de 1933](/l-appel-de-1933/)
 
 * * *
 

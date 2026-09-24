@@ -141,7 +141,7 @@ Que Dieu nous bénisse et que vraiment sa grâce soit avec nous. Je pense que j�
 
 ### Sur le même sujet
 
--   [La Mission du Saint-Esprit dans l’Eglise](https://mevar.org/la-mission-du-saint-esprit-dans-l-eglise)
+-   [La Mission du Saint-Esprit dans l’Eglise](/la-mission-du-saint-esprit-dans-l-eglise/)
 
 * * *
 

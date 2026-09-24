@@ -207,11 +207,11 @@ Autre représentation de la femme chevauchant la bête
 
 ### Sur le même sujet
 
--   [L’ Appel à sortir de Babylone](https://mevar.org/l-appel-a-sortir-de-babylone)
--   [Le Cavalier au Cheval Blanc d'Apocalypse](https://mevar.org/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse)
--   [Le quatrième, cinquième et sixème sceaux](https://mevar.org/le-quatrieme-cinquieme-et-sixeme-sceaux)
--   [Le Cavalier au Cheval Pâle: La Mort](https://mevar.org/le-cavalier-au-cheval-pale-la-mort)
--   [Le septième sceau](https://mevar.org/le-septieme-sceau)
+-   [L’ Appel à sortir de Babylone](/l-appel-a-sortir-de-babylone/)
+-   [Le Cavalier au Cheval Blanc d'Apocalypse](/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse/)
+-   [Le quatrième, cinquième et sixème sceaux](/le-quatrieme-cinquieme-et-sixeme-sceaux/)
+-   [Le Cavalier au Cheval Pâle: La Mort](/le-cavalier-au-cheval-pale-la-mort/)
+-   [Le septième sceau](/le-septieme-sceau/)
 
 * * *
 

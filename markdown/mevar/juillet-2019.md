@@ -37,8 +37,8 @@ Par les écritures, nous savons que c’est Jésus-Christ qui est Le Sauveur. Si
 
 ### Sur le même sujet
 
--   [Juin 2019](https://mevar.org/juin-2019)
--   [Mai - Juin 2019](https://mevar.org/mai-juin-2019)
+-   [Juin 2019](/juin-2019/)
+-   [Mai - Juin 2019](/mai-juin-2019/)
 
 * * *
 

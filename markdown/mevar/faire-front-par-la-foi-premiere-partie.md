@@ -179,4 +179,8 @@ On n’a pas à lutter contre la chair et le sang. Celui qui a la foi, il en a f
 
 * * *
 
-[Vivre la prière de la Foi« Vivre la prière » est une parole d’exhortation sur la foi. Nous devons la vivre. La prière ne doit pas être séparée de notre attitude. Quand nous prions, nous devons avoir un comportement qui l’accompagne. Nous lisons dans Marc 11 à partir du verset 12 : 12Le lendemain, après qu’ilsMEVARParfait M’bra](https://mevar.org/vivre-la-priere-de-la-foi/)[L’élection par les oeuvres de la foiEtude basée sur Romains 8, Matthieu 22 et Matthieu 24. Que Signifie être appelé ou élu dans la Bible?MEVARParfait M’bra](https://mevar.org/l-election-par-les-oeuvres-de-la-foi/)[La foi et la nature divine (1)Première partie Frères et sœurs que le Seigneur vous bénisse. Nous remercions notre Dieu pour l’occasion qu’il nous donne encore ce soir d’écouter Sa Parole. L’essentiel, c’est que nous puissions encore travailler chacun sur ce que nous entendons. Le Seigneur a dit que ceux quiMEVARParfait M’bra](https://mevar.org/la-foi-et-la-nature-divine/)
+[Vivre la prière de la Foi](/vivre-la-priere-de-la-foi/)
+
+[L'élection par les oeuvres de la foi](/l-election-par-les-oeuvres-de-la-foi/)
+
+[La foi et la nature divine (1)](/la-foi-et-la-nature-divine/)

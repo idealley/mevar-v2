@@ -25,6 +25,6 @@ Série de vidéos sur la signification spirituelle de la conquête de Canaan pou
 
 ### Sur le même sujet
 
--   [La Circoncision](https://mevar.org/la-circoncision-conquete-du-pays-de-canaan)
--   [La bataille de Jéricho](https://mevar.org/la-bataille-de-jericho-la-conquete-du-pays-de-canaan)
--   [La Ruse des Gabaonites](https://mevar.org/la-ruse-des-gabaonites-la-conquete-du-pays-de-canaan)
+-   [La Circoncision](/la-circoncision-conquete-du-pays-de-canaan/)
+-   [La bataille de Jéricho](/la-bataille-de-jericho-la-conquete-du-pays-de-canaan/)
+-   [La Ruse des Gabaonites](/la-ruse-des-gabaonites-la-conquete-du-pays-de-canaan/)

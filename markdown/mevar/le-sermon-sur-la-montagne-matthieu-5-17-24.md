@@ -115,18 +115,18 @@ Que Dieu nous bénisse, que sa paix et sa grâce soient sur nous et qu’il nous
 
 ### Sur le même sujet
 
--   [Le Sermon sur la Montagne \[audio\] (1)](https://mevar.org/le-sermon-sur-la-montagne-matthieu-5-1-12)
--   [Le Sermon sur la Montagne \[audio\] (2)](https://mevar.org/le-sermon-sur-la-montagne-deuxieme-partie)
--   [La femme de Sunem \[audio\]](https://mevar.org/la-femme-de-sunem)
--   [Le Sermon sur la Montagne \[audio\] (4)](https://mevar.org/le-sermon-sur-la-montagne-4)
--   [La loi et les chrétiens.](https://mevar.org/la-loi-et-les-chretiens)
--   [Les liens spirituels \[audio\] (1)](https://mevar.org/les-liens-spirituels)
--   [Les liens spirituels \[audio\] (2)](https://mevar.org/les-liens-spirituels-deuxieme-partie)
--   [Les liens spirituels \[audio\] (3)](https://mevar.org/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels)
--   [La chute de Sédécias \[audio\]](https://mevar.org/la-chute-de-sedecias)
--   [Le Sermon sur la Montagne \[audio\] (5)](https://mevar.org/le-sermon-sur-la-montagne-audio-5)
--   [L'aumône selon Jésus Christ \[audio\] (6)](https://mevar.org/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6)
--   [La prière selon Jésus \[audio\] (7)](https://mevar.org/la-priere-selon-jesus-le-sermon-sur-la-montagne-7)
+-   [Le Sermon sur la Montagne \[audio\] (1)](/le-sermon-sur-la-montagne-matthieu-5-1-12/)
+-   [Le Sermon sur la Montagne \[audio\] (2)](/le-sermon-sur-la-montagne-deuxieme-partie/)
+-   [La femme de Sunem \[audio\]](/la-femme-de-sunem/)
+-   [Le Sermon sur la Montagne \[audio\] (4)](/le-sermon-sur-la-montagne-4/)
+-   [La loi et les chrétiens.](/la-loi-et-les-chretiens/)
+-   [Les liens spirituels \[audio\] (1)](/les-liens-spirituels/)
+-   [Les liens spirituels \[audio\] (2)](/les-liens-spirituels-deuxieme-partie/)
+-   [Les liens spirituels \[audio\] (3)](/les-liens-spirituels-3-comment-etre-delivre-des-liens-spirituels/)
+-   [La chute de Sédécias \[audio\]](/la-chute-de-sedecias/)
+-   [Le Sermon sur la Montagne \[audio\] (5)](/le-sermon-sur-la-montagne-audio-5/)
+-   [L'aumône selon Jésus Christ \[audio\] (6)](/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6/)
+-   [La prière selon Jésus \[audio\] (7)](/la-priere-selon-jesus-le-sermon-sur-la-montagne-7/)
 
 * * *
 

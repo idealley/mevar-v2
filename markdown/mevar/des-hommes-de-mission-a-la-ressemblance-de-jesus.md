@@ -67,7 +67,7 @@ bible_refs:
   - "Exode 40:34"
   - "Galates 1:15"
 ---
-Je vous salue tous mes bien-aimés frères et sœurs, en Christ notre Seigneur. Que Sa grâce et Sa paix soient avec vous tous. Pour ce mois de juillet, je voudrais vous adresser une exhortation écrite par notre frère [Kouadio Pierre](https://mevar.org/authors/pierre-kouadio/), qui travaille avec nous à la Mission d’Évangélisation et de Réveil. Je vous souhaite une bonne lecture.
+Je vous salue tous mes bien-aimés frères et sœurs, en Christ notre Seigneur. Que Sa grâce et Sa paix soient avec vous tous. Pour ce mois de juillet, je voudrais vous adresser une exhortation écrite par notre frère [Kouadio Pierre](/auteurs/pierre-kouadio/), qui travaille avec nous à la Mission d’Évangélisation et de Réveil. Je vous souhaite une bonne lecture.
 
 Je voudrais aussi vous rappeler que notre moment de jeûne commence déjà le lundi 06  juillet. Nous prions sur le même sujet, demandant au Seigneur de nous envoyer ce qu’Il nous a promis à cette heure  –  notre Pentecôte, la grande visitation que nous attendons. Que Dieu vous bénisse et vous soutienne dans le combat.  
 

@@ -25,6 +25,6 @@ Que signifie pour les chrétiens de la fin des temps la ruse des Gabaonites?
 
 ### Sur le même sujet
 
--   [La bataille de Jéricho](https://mevar.org/la-bataille-de-jericho-la-conquete-du-pays-de-canaan)
--   [Le Passage du Jourdain](https://mevar.org/le-passage-du-jourdain-laconquete-du-pays-de-canaan)
--   [La Circoncision](https://mevar.org/la-circoncision-conquete-du-pays-de-canaan)
+-   [La bataille de Jéricho](/la-bataille-de-jericho-la-conquete-du-pays-de-canaan/)
+-   [Le Passage du Jourdain](/le-passage-du-jourdain-laconquete-du-pays-de-canaan/)
+-   [La Circoncision](/la-circoncision-conquete-du-pays-de-canaan/)

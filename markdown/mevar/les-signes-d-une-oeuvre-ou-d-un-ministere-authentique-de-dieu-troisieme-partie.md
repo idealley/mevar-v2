@@ -174,9 +174,9 @@ Donc les signes d’un ministère ou d’une œuvre authentique, nous les avons 
 
 ### Sur le même sujet
 
--   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie)
--   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie)
--   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie)
+-   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie/)
+-   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie/)
+-   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie/)
 
 * * *
 

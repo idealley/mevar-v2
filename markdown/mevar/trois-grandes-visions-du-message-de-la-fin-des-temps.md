@@ -66,9 +66,9 @@ bible_refs:
   - "Néhémie 8:1-3"
   - "Proverbes 29:18"
 ---
-Ce texte est extrait du livre [Les 5 ministères de la parole](https://mevar.org/les-5-ministeres-de-la-parole/).
+Ce texte est extrait du livre [Les 5 ministères de la parole](/les-5-ministeres-de-la-parole/).
 
-[Les 5 ministères de la ParoleLa question de l’exercice des cinq Ministères de la Parole dans l’Église est l’un des thèmes les plus importants pour notre époque. Comme le précise Éphésiens 4 dans les versets 10 à 13, le but des cinq Ministères est d’amener à la perfection les enfants deMEVARParfait M’bra](https://mevar.org/les-5-ministeres-de-la-parole/)
+[Les 5 ministères de la Parole](/les-5-ministeres-de-la-parole/)
 
 ## Le prophète et la vision
 

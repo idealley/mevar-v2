@@ -67,4 +67,8 @@ Que Dieu nous bénisse et que sa grâce et sa paix soient sur nous.
 
 * * *
 
-[Vivre la prière de la Foi« Vivre la prière » est une parole d’exhortation sur la foi. Nous devons la vivre. La prière ne doit pas être séparée de notre attitude. Quand nous prions, nous devons avoir un comportement qui l’accompagne. Nous lisons dans Marc 11 à partir du verset 12 : 12Le lendemain, après qu’ilsMEVARParfait M’bra](https://mevar.org/vivre-la-priere-de-la-foi/)[Faire front par la Foi - première partie« Faire front par la foi » est un sujet que je vais aborder en deux temps. Certainement qu’on ne pourra pas finir aujourd’hui. On aura le temps de revenir là-dessus. Mais on va déjà commencer. Nous lisons Marc 11 à partir du verset 22 : 22Jésus prit la parole, etMEVARParfait M’bra](https://mevar.org/faire-front-par-la-foi-premiere-partie/)[La foi et la nature divine (1)Première partie Frères et sœurs que le Seigneur vous bénisse. Nous remercions notre Dieu pour l’occasion qu’il nous donne encore ce soir d’écouter Sa Parole. L’essentiel, c’est que nous puissions encore travailler chacun sur ce que nous entendons. Le Seigneur a dit que ceux quiMEVARParfait M’bra](https://mevar.org/la-foi-et-la-nature-divine/)
+[Vivre la prière de la Foi](/vivre-la-priere-de-la-foi/)
+
+[Faire front par la Foi - première partie](/faire-front-par-la-foi-premiere-partie/)
+
+[La foi et la nature divine (1)](/la-foi-et-la-nature-divine/)

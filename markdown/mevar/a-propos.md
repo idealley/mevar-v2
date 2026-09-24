@@ -18,7 +18,7 @@ Nous vivons à une époque dans laquelle les chrétiens se sont endormis et ne m
 
 Comme annoncé dans les prophéties, Jésus Christ est en train de se préparer une épouse, sans ride et sans tâches marchant dans Sa volonté pour que le monde puisse voir Sa gloire avant l’enlèvement. L’Epouse de Christ va évangéliser la terre une dernière fois, comme lorsque Jésus marchait sur la terre, alors la fin viendra.
 
-Le but de MEVAR est de **réveiller les chrétiens et d’évangéliser le monde**, nous avons entendu [l’appel adressé au monde en 1933](https://mevar.org/l-appel-de-1933). Comme toutes les vierges nous nous sommes endormis, mais le temps du réveil a sonné. Il est l’heure pour les chrétiens de se mettre en ordre avec Dieu et nous travaillons pour cela.
+Le but de MEVAR est de **réveiller les chrétiens et d’évangéliser le monde**, nous avons entendu [l’appel adressé au monde en 1933](/l-appel-de-1933/). Comme toutes les vierges nous nous sommes endormis, mais le temps du réveil a sonné. Il est l’heure pour les chrétiens de se mettre en ordre avec Dieu et nous travaillons pour cela.
 
 L’autre aspect de la mission de MEVAR est l’évangélisation: faire connaître Jésus Christ et son plan de salut pour le monde, pour que l’humanité qui périt puisse être sauvée.
 
