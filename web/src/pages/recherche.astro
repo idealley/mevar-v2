@@ -28,6 +28,13 @@ import Layout from "../layouts/Layout.astro";
   </div>
 </Layout>
 
+<style is:global>
+  /* The checkbox above is the one control for Mevar or the archive. */
+  #search fieldset:has(input[name="collection"]) {
+    display: none;
+  }
+</style>
+
 <script>
   const start = document.getElementById("search-start") as HTMLInputElement;
   const archives = document.getElementById("archives") as HTMLInputElement;
@@ -45,8 +52,15 @@ import Layout from "../layouts/Layout.astro";
         element: "#search",
         showImages: false,
       });
-      // Mevar by default; the archive when the reader asks for it.
-      const collection = () => ui.triggerFilters(archives.checked ? {} : { collection: ["Mevar"] });
+      // Mevar by default; the archive when the reader asks for it. triggerFilters
+      // replaces the selection: keep the preacher, year and source ticked.
+      const collection = () => {
+        const filters: Record<string, string[]> = archives.checked ? {} : { collection: ["Mevar"] };
+        for (const box of document.querySelectorAll<HTMLInputElement>("#search .pagefind-ui__filter-checkbox:checked")) {
+          if (box.name !== "collection") (filters[box.name] ??= []).push(box.value);
+        }
+        ui.triggerFilters(filters);
+      };
       collection();
       archives.addEventListener("change", collection);
       start.remove();
