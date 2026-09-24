@@ -163,7 +163,7 @@ function normalize(md) {
 
 // ─── Driver ──────────────────────────────────────────────────────────────────
 // Only when run, not when the site imports citations().
-if (import.meta.main) {
+if (process.argv[1] === import.meta.filename) {
   function* walk(target) {
     if (fs.statSync(target).isFile()) {
       if (target.endsWith(".md")) yield target;
