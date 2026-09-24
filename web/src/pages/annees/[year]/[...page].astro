@@ -19,6 +19,6 @@ const { page } = Astro.props;
 const { year } = Astro.params;
 ---
 
-<Layout title={`${year} — Mevar`} description={`${page.total} publications de ${year}`}>
+<Layout title={`${year} · Mevar`} description={`${page.total} publications de ${year}`}>
   <CategoryGrid title={year} page={page} />
 </Layout>

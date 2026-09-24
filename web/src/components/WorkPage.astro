@@ -32,7 +32,7 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
 ---
 
 <Layout
-  title={`${fm.title ?? entry.id} — Mevar`}
+  title={`${fm.title ?? entry.id} · Mevar`}
   description={fm.summary ?? undefined}
   image={fm.local_image ? `/${fm.local_image}` : undefined}
 >
@@ -62,12 +62,12 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
 
       {original && (
         <p class="mt-4 text-sm">
-          Résumé de la prédication <a href={workUrl(original)} class="underline underline-offset-4">« {original.data.title} »</a> (texte original en anglais).
+          Résumé de la prédication <a href={workUrl(original)} class="underline underline-offset-4">« {original.data.title} »</a> (texte original en anglais).
         </p>
       )}
       {summaryFr && (
         <p class="mt-4 text-sm">
-          Résumé en français : <a href={workUrl(summaryFr)} class="underline underline-offset-4">« {summaryFr.data.title} »</a>.
+          Résumé en français : <a href={workUrl(summaryFr)} class="underline underline-offset-4">« {summaryFr.data.title} »</a>.
         </p>
       )}
 
@@ -91,7 +91,7 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
 
     {series.length > 1 && (
       <nav class="mb-8 rounded-lg border bg-muted/30 p-4 text-sm" aria-label={`Série ${fm.series}`}>
-        <p class="font-semibold mb-2">Série : {fm.series}</p>
+        <p class="font-semibold mb-2">Série : {fm.series}</p>
         <ol class="list-decimal pl-5 space-y-1">
           {series.map((e) => (
             <li>

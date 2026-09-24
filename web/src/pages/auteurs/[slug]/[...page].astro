@@ -16,6 +16,6 @@ export const getStaticPaths = (async ({ paginate }) => {
 const { page, author } = Astro.props;
 ---
 
-<Layout title={`${author.name} — Mevar`} description={`${page.total} publications de ${author.name}`}>
+<Layout title={`${author.name} · Mevar`} description={`${page.total} publications de ${author.name}`}>
   <CategoryGrid title={author.name} page={page} />
 </Layout>
