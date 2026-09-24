@@ -43,7 +43,11 @@ for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true 
   const text = fs.readFileSync(p, "utf8");
   const end = text.indexOf("\n---\n", 4) + 1;
   const fm = text.slice(0, end)
-    .replace(/^preacher: (".*")$/m, (_, v) => `preacher: ${JSON.stringify(display(JSON.parse(v)))}`)
+    // Our writers quote it; YAML also reads it bare or in single quotes.
+    .replace(/^preacher: (.+)$/m, (_, v) => {
+      const spelling = v.startsWith('"') ? JSON.parse(v) : v.replace(/^'(.*)'$/, "$1");
+      return `preacher: ${JSON.stringify(display(spelling))}`;
+    })
     .replace(/^authors:\n((?: {2}- .*\n)+)/m, (block, list) => {
       for (const a of list.match(/".*"/g)) author(JSON.parse(a));
       return block;
