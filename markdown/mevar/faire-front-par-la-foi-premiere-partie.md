@@ -27,9 +27,6 @@ bible_refs:
   - "Hébreux 11:1-2"
   - "Marc 11"
   - "Marc 11:22-24"
-  - "Matthieu 22"
-  - "Matthieu 24"
-  - "Romains 8"
 series_id: "faire-front-par-la-foi"
 series: "Faire front par la Foi"
 series_part: 1

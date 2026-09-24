@@ -26,7 +26,6 @@ bible_refs:
   - "Apocalypse 6"
   - "Luc 1:15"
   - "Luc 21"
-  - "Luc 4:23"
   - "Marc 13"
   - "Marc 13:35"
   - "Matthieu 25"

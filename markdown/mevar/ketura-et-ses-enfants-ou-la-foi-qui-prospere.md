@@ -21,8 +21,6 @@ authors:
 ghost_id: "686834d6c4b0450001ca2337"
 uuid: "e6a56cab-3714-4030-a3d3-7f06ca1c0870"
 stream_url: "https://mevar.org/ketura-et-ses-enfants-ou-la-foi-qui-prospere/"
-bible_refs:
-  - "Marc 11"
 ---
 Nous allons lire dans Genèse chapitre 25 :
 

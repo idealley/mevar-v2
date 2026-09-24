@@ -40,7 +40,6 @@ bible_refs:
   - "Daniel 12"
   - "Daniel 12:1"
   - "Daniel 12:1-4"
-  - "Malachie 4"
   - "Romains 2"
   - "Romains 2:12-16"
 series_id: "le-jour-du-seigneur"

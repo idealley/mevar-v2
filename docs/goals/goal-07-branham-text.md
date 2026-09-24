@@ -1,7 +1,8 @@
 # GOAL 07: The Branham text says what branham.org says, and every citation is found
 
-**Status:** in progress (dispatched 2026-09-22 by Samuel, on PR #1: "we can
-restore it using branham.org", "we can do one PR")
+**Status:** done (dispatched 2026-09-22 by Samuel, on PR #1: "we can
+restore it using branham.org", "we can do one PR"; merged as PR #2,
+2026-09-23; landing check on `main` 2026-09-24)
 **Repo:** `mevar-v2` (`scripts/`, `manifests/`, `markdown/branham/`, `docs/`)
 **Depends on:** 02 (merged as PR #1, 2026-09-23)
 **Rules:** [README.md](README.md)
@@ -87,3 +88,10 @@ preacher's word and map it to the correct canonical ref. Items 1 and 4.
 - Branham files with `bible_refs`: before and after. Spoken refs added: count,
   and twenty random ones checked by hand.
 - For every script touched: a second run is a no-op.
+
+## Follow-up
+
+Landing check against `main`, 2026-09-24: the chain (65, 65b, 66, 47, 49,
+50) was not a no-op. Goal 03's relinks removed Ghost bookmark-card excerpts
+from 14 mevar posts without a rerun, so their refs were stale. Regenerated;
+a second run is a no-op.

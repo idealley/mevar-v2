@@ -32,7 +32,6 @@ bible_refs:
   - "Apocalypse 6:9-17"
   - "Apocalypse 7:1-2"
   - "Apocalypse 7:3"
-  - "Daniel 12"
   - "Jean 17"
   - "Luc 21"
   - "Luc 21:23"
