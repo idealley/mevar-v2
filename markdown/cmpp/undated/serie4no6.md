@@ -2,9 +2,9 @@
 source: "cmpp"
 sermon_id: "serie4no6"
 title: "L’original"
-subtitle: "29 décembre 1963, soir"
-date: "1963-12-29"
-year: 1963
+subtitle: "14 juin 1964, soir"
+date: "1964-06-14"
+year: 1964
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
 preacher: "William Branham"
 pdf_url: "http://cmpp.ch/serie4no6.pdf"
