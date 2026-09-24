@@ -54,8 +54,10 @@ The rest of this goal assumes the first option.
    create a shared package between the two repos. One form component, in the
    footer and on `/newsletter/` (the Ghost page of that name already exists
    in the corpus, so the old URL keeps working). French copy: "Newsletter",
-   not "infolettre". Remember that `astro dev` does not run Pages Functions;
-   test with `wrangler pages dev`.
+   not "infolettre". `astro dev` does not run Pages Functions; test with
+   `wrangler pages dev`. The deploy step must run wrangler from `web/`, or
+   `functions/` does not ship and `/api/*` answers 405 (see the comment in
+   firstprinciple's `deploy.yml`).
 4. **Member import.** `scripts/150-import-ghost-members.mjs <csv path>`:
    reads the Ghost CSV, keeps only members subscribed to an active
    newsletter, upserts each into Resend with
