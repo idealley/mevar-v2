@@ -17,6 +17,7 @@ export function excerpt(markdown) {
   if (!para) return undefined;
   const text = para
     .replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1")
+    .replace(/^>\s*/gm, "")
     .replace(/[*_`\\]/g, "")
     .replace(/\s+/g, " ");
   return text.length <= 200 ? text : `${text.slice(0, text.lastIndexOf(" ", 200))}…`;
