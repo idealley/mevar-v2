@@ -132,27 +132,20 @@ function renderRef({ book, chapter, verseStart, verseEnd, extra }) {
 // name: the abbreviations are words ("on a lu le chapitre 11", "c'est au
 // chapitre 17", "le texte hébreu, au chapitre 18"). Any case: the transcripts
 // write "dans apocalypse chapitre 12".
-const romanToDigit = (s) => s.replace(/^(i{1,3}) /, (m, i) => `${i.length} `);
-const FULL_ALT = variantsSorted
-  .filter((v) => romanToDigit(normForMatch(v)).startsWith(normForMatch(VARIANT_TO_CANONICAL.get(normForMatch(v)))))
+const FULL_ALT = variantsSorted // "II Rois" is "2 Rois" in full
+  .filter((v) => normForMatch(v).replace(/^(i{1,3}) /, (m, i) => `${i.length} `).startsWith(normForMatch(VARIANT_TO_CANONICAL.get(normForMatch(v)))))
   .map(escRe)
   .join("|");
 const BOOK_END = "(?![\\p{L}\\-'’])"; // not "Jean-Baptiste"
-// "Pierre", "Cor", …: after "et 2" they start the next citation.
-const NUMBERED = [...new Set(BOOKS.filter((row) => /^\d /.test(row[0])).flat().filter((v) => / /.test(v)).map((v) => v.replace(/^\S+ /, "")))]
-  .sort((a, b) => b.length - a.length)
-  .map(escRe)
-  .join("|");
 // "verset 9", "le verset 38", "(versets 13-14", "versets 19 à 33", "à partir du
 // premier verset", "du verset 1 au verset 6", "depuis le verset 25 jusqu'au
 // verset 35", "et au verset 18", "versets 12 et 15". The reading's first
-// verse, its last when it is said, and a second verse or range after "et" (not
-// "et 2 Pierre", the next citation).
+// verse, its last when it is said, and a second verse or range after "et".
 const VERSES =
   "(?:[\\s,(]+(?:(?:à\\s+partir\\s+)?d[ue]s?\\s+|(?:depuis|dès)\\s+le\\s+|(?:et\\s+)?aux?\\s+|les?\\s+)?" +
   "(?:versets?\\s+(\\d{1,3})|(premier)\\s+verset|verset\\s+(premier))" +
   "(?:\\s*(?:[\\-\\u2013\\u2014]|à)\\s*(\\d{1,3})|\\s+(?:au|jusqu['’]au)\\s+verset\\s+(\\d{1,3}))?(?!\\d)" +
-  "(?:\\s+et\\s+(\\d{1,3}(?:\\s*(?:[\\-\\u2013\\u2014]|à)\\s*\\d{1,3})?)(?!\\d|\\s*:\\s*\\d|\\s+(?:" + NUMBERED + ")(?!\\p{L})))?)?";
+  "(?:\\s+et\\s+(\\d{1,3}(?:\\s*(?:[\\-\\u2013\\u2014]|à)\\s*\\d{1,3})?)(?!\\d|\\s*:\\s*\\d))?)?";
 const SPOKEN = [
   new RegExp(`(?<![\\p{L}\\d])(${FULL_ALT})${BOOK_END},?\\s+(?:au\\s+|le\\s+)?chapitre\\s+(\\d{1,3})(?!\\d)${VERSES}`, "giu"),
   new RegExp(
@@ -163,15 +156,16 @@ const SPOKEN = [
   ),
 ];
 
-let spokenRefs = 0;
 function spoken(bookVariant, chapter, [verse, first, firstAfter, end, endSaid, more]) {
   const book = VARIANT_TO_CANONICAL.get(normForMatch(bookVariant));
   const verseStart = first || firstAfter ? "1" : verse;
   const verseEnd = Number(end ?? endSaid) > Number(verseStart) ? end ?? endSaid : undefined;
   const extra = more?.replace(/\s*à\s*/, "-");
-  if (!isPossible(book, chapter, [verseStart, verseEnd, ...(extra ?? "").split(/\D+/)].filter(Boolean))) return null;
-  spokenRefs++;
-  return renderRef({ book, chapter, verseStart: verseStart ?? null, verseEnd: verseEnd ?? null, extra: extra ?? null });
+  if (!isPossible(book, chapter, [verseStart, verseEnd, ...(extra ?? "").split(/\D+/)].filter(Boolean))) {
+    dropped++;
+    return null;
+  }
+  return renderRef({ book, chapter, verseStart, verseEnd, extra });
 }
 
 function normalize(md) {
@@ -258,7 +252,6 @@ console.log(`bible refs normalized:`);
 console.log(`  files scanned: ${totalFiles}`);
 console.log(`  total ref instances: ${totalRefs}`);
 console.log(`  impossible refs dropped: ${dropped}`);
-console.log(`  spoken citations recorded: ${spokenRefs}`);
 console.log(`  by source:`);
 for (const [src, s] of Object.entries(refsBySource)) {
   console.log(`    ${src}: ${s.files} files, ${s.refs} refs (${s.unique.size} unique)`);
