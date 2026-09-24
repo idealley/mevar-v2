@@ -15143,7 +15143,7 @@
     "subtitle": "55-0109",
     "date": "1955-01-09",
     "year": 1955,
-    "location": "Unknown",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=50-0714",
@@ -15201,8 +15201,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1950/50-0714.md",
-    "size_bytes": 42473,
-    "line_count": 372
+    "size_bytes": 42453,
+    "line_count": 371
   },
   {
     "source": "branham",
@@ -16336,7 +16336,7 @@
     "subtitle": "55-0116",
     "date": "1955-01-16",
     "year": 1955,
-    "location": "unknown",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=56-0225",
@@ -16386,8 +16386,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1956/56-0225.md",
-    "size_bytes": 104121,
-    "line_count": 766
+    "size_bytes": 104101,
+    "line_count": 765
   },
   {
     "source": "branham",
@@ -16767,7 +16767,7 @@
     "subtitle": "55-0117",
     "date": "1955-01-17",
     "year": 1955,
-    "location": "Unknown",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=51-0508",
@@ -16817,8 +16817,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1951/51-0508.md",
-    "size_bytes": 60731,
-    "line_count": 377
+    "size_bytes": 60711,
+    "line_count": 376
   },
   {
     "source": "branham",
@@ -17834,7 +17834,7 @@
     "subtitle": "55-0119",
     "date": "1955-01-19",
     "year": 1955,
-    "location": "unknown",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=58-0108",
@@ -17885,8 +17885,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1958/58-0108.md",
-    "size_bytes": 54302,
-    "line_count": 434
+    "size_bytes": 54282,
+    "line_count": 433
   },
   {
     "source": "branham",
@@ -68382,7 +68382,7 @@
     "subtitle": "65-0117",
     "date": "1965-01-17",
     "year": 1965,
-    "location": "Unknown",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=58-0315",
@@ -68435,8 +68435,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1958/58-0315.md",
-    "size_bytes": 65212,
-    "line_count": 399
+    "size_bytes": 65192,
+    "line_count": 398
   },
   {
     "source": "branham",
@@ -68773,7 +68773,7 @@
     "subtitle": "65-0117",
     "date": "1965-01-17",
     "year": 1965,
-    "location": "Unknown (likely Florida or southern US)",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=58-0619B",
@@ -68819,8 +68819,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1958/58-0619B.md",
-    "size_bytes": 52485,
-    "line_count": 370
+    "size_bytes": 52433,
+    "line_count": 369
   },
   {
     "source": "branham",
@@ -70612,7 +70612,7 @@
     "subtitle": "65-0117",
     "date": "1965-01-17",
     "year": 1965,
-    "location": "Unknown",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=61-0311",
@@ -70661,8 +70661,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1961/61-0311.md",
-    "size_bytes": 123090,
-    "line_count": 924
+    "size_bytes": 123070,
+    "line_count": 923
   },
   {
     "source": "branham",
@@ -71897,7 +71897,7 @@
     "subtitle": "65-0117",
     "date": "1965-01-17",
     "year": 1965,
-    "location": "Unknown",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=62-0705",
@@ -71945,8 +71945,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1962/62-0705.md",
-    "size_bytes": 96781,
-    "line_count": 659
+    "size_bytes": 96761,
+    "line_count": 658
   },
   {
     "source": "branham",
@@ -72108,7 +72108,7 @@
     "subtitle": "65-0117",
     "date": "1965-01-17",
     "year": 1965,
-    "location": "Unknown",
+    "location": null,
     "preacher": "William Branham",
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=62-0715",
@@ -72157,8 +72157,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1962/62-0715.md",
-    "size_bytes": 114707,
-    "line_count": 639
+    "size_bytes": 114687,
+    "line_count": 638
   },
   {
     "source": "branham",
@@ -77167,7 +77167,7 @@
     "sermon_id": "55-1001",
     "title": "Expectation",
     "subtitle": null,
-    "date": "Unknown",
+    "date": null,
     "year": 1955,
     "location": "Shawano, Wisconsin",
     "preacher": null,
@@ -77190,17 +77190,17 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1955/55-1001.md",
-    "size_bytes": 98035,
-    "line_count": 1359
+    "size_bytes": 98019,
+    "line_count": 1358
   },
   {
     "source": "branham",
     "sermon_id": "63-1229M",
     "title": "There Is A Man Here That Can Turn On The Light",
     "subtitle": null,
-    "date": "Unknown",
+    "date": null,
     "year": 1963,
-    "location": "Unknown",
+    "location": null,
     "preacher": null,
     "duration": null,
     "source_url": "https://branham.org/en/messagestream/ENG=63-1229M",
@@ -77221,8 +77221,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/branham/1963/63-1229M.md",
-    "size_bytes": 120155,
-    "line_count": 2035
+    "size_bytes": 120119,
+    "line_count": 2033
   },
   {
     "source": "cmpp",
