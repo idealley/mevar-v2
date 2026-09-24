@@ -22,8 +22,7 @@ interface Env {
   RESEND_SEGMENT_ID: string;
 }
 
-const isEmail = (s: unknown): s is string =>
-  typeof s === "string" && s.length <= 254 && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(s);
+const isEmail = (s: string) => s.length <= 254 && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(s);
 
 const json = (data: unknown, status = 200) =>
   new Response(JSON.stringify(data), {

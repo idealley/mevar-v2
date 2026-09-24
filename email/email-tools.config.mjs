@@ -4,7 +4,6 @@
   RESEND_SEGMENT_ID), the same names as on the Pages project.
 */
 export default {
-  envKey: "RESEND_API_KEY",
   // Most readers are in West Africa (UTC+0, no daylight saving).
   timezone: "Africa/Abidjan",
   product: {

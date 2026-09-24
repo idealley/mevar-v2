@@ -278,11 +278,13 @@ then delete the CSV.
 ```bash
 npm run email:build -- markdown/mevar/<slug>.md       # email/dist/<slug>.html, .txt, sizes
 npm run email:test -- email/dist/<slug>.html --to <you>
-npm run email:send                                    # wizard: segment, time, type "send"
+npm run email:send                                    # wizard: time, then type "send"
 git add email/receipts/<slug>.json && git commit -m "data(email): <slug> sent"
 ```
 
-The wizard stops if `email/receipts/<slug>.json` exists or Resend already has
+The broadcast is always scheduled (never "send now") to `RESEND_SEGMENT_ID`;
+"dry" instead creates it unscheduled, to review or test from the Resend
+dashboard. The wizard stops if `email/receipts/<slug>.json` exists or Resend already has
 a broadcast named `Publications <slug>`: a work is never announced twice.
 Default time: tomorrow 07:00 Abidjan time. A draft is never built.
 

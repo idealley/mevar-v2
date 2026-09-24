@@ -39,6 +39,7 @@ const field = (k) => {
 
 if (field("status") !== "published") throw new Error(`${rel} is not published: a draft is never emailed`);
 const title = field("title");
+// `preacher` is the one display name goal 08 writes; until then, the first author.
 const preacher = field("preacher") ?? front.match(/^authors:\n {2}- (.*)$/m)?.[1]?.replace(/^"|"$/g, "");
 const date = new Date(`${field("published_at")}T00:00:00Z`).toLocaleDateString("fr-FR", {
   day: "numeric",
@@ -110,6 +111,9 @@ Vous recevez cet e-mail car votre adresse est inscrite à la newsletter de mevar
 Se désinscrire\u00a0: {{{RESEND_UNSUBSCRIBE_URL}}}
 `;
 
+const kb = (n) => `${(n / 1024).toFixed(1)} KB`;
+if (Buffer.byteLength(html) > MAX_HTML) throw new Error(`HTML is ${kb(Buffer.byteLength(html))}, over ${kb(MAX_HTML)}`);
+
 const slug = path.basename(rel);
 const out = path.join(import.meta.dirname, "dist");
 fs.mkdirSync(out, { recursive: true });
@@ -117,8 +121,6 @@ fs.writeFileSync(path.join(out, `${slug}.html`), html);
 fs.writeFileSync(path.join(out, `${slug}.txt`), text);
 fs.writeFileSync(path.join(out, `${slug}.subject.txt`), `${title}\n`);
 
-const kb = (n) => `${(n / 1024).toFixed(1)} KB`;
 console.log(`email/dist/${slug}.html  ${kb(Buffer.byteLength(html))}`);
 console.log(`email/dist/${slug}.txt   ${kb(Buffer.byteLength(text))}`);
 if (image) console.log(`image ${image}  ${kb(fs.statSync(path.join(root, image)).size)}`);
-if (Buffer.byteLength(html) > MAX_HTML) throw new Error(`HTML over ${kb(MAX_HTML)}`);
