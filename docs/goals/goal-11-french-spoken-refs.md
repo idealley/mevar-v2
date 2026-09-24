@@ -29,10 +29,11 @@ Measured on 2026-09-24 in `mevar`, `onedrive`, `le-scribe`, `cmpp` and
    - `(le verset M du )?chapitre N (du livre |de l'épître |de l'Évangile )?(de la |de l'|des |de |d'|aux |selon )<Livre>`
 
    Each can be followed by its verse, in the forms the texts use: "verset M",
-   "le verset M", "au verset M", "(versets M-P", "versets M à P",
-   "à partir du verset M", "à partir du premier verset", "du verset M au
-   verset P", "jusqu'au verset P". "À partir du verset M" is recorded as
-   `N:M`, the verse where the reading starts.
+   "le verset M", "au verset M", "et au verset M", "(versets M-P", "versets M
+   à P", "à partir du verset M", "depuis le verset M", "dès le verset M",
+   "à partir du premier verset", "du verset M au verset P", "jusqu'au verset
+   P", and a second verse or range after "et" ("versets 12 et 15"). "À partir
+   du verset M" is recorded as `N:M`, the verse where the reading starts.
 2. **Only a full book name.** The spoken form is never abbreviated, and the
    abbreviations are words: "on a **lu** le chapitre 11", "c'**est** au
    chapitre 17", "le texte **hébreu**, au chapitre 18". Case does not matter:
@@ -57,7 +58,9 @@ Measured on 2026-09-24 in `mevar`, `onedrive`, `le-scribe`, `cmpp` and
 
 - `le-ministere-de-lesprit` has `2 Corinthiens 3` again.
 - French refs before and after: count, and files with refs. Every added
-  ref comes from a spoken pattern; no ref disappears.
+  ref comes from a spoken pattern; no ref disappears from `bible-refs.json`.
+  (The frontmatter keeps 50 refs a file, alphabetically: a new ref can push
+  an old one out. Counted and listed, not fixed here; see `docs/follow-ups.md`.)
 - Twenty random added refs, each shown with its sentence and checked by hand.
 - Every distinct book word the patterns matched in lowercase, listed and
   checked by hand.

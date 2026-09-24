@@ -47,7 +47,7 @@ Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well
 
 | Script                          | Languages          | Output                                   |
 | ------------------------------- | ------------------ | ---------------------------------------- |
-| `65-normalize-bible.mjs`        | French — LSG style | records refs as `Matthieu 24:6`; not `branham/` |
+| `65-normalize-bible.mjs`        | French — LSG style | records refs as `Matthieu 24:6`, spoken ones ("Luc chapitre 18 verset 9", "le chapitre 24 de Matthieu") included; not `branham/` |
 | `65b-restore-branham-from-source.mjs` | English | puts the branham.org wording back where old runs rewrote it |
 | `66-normalize-bible-en.mjs`     | English — KJV style | records refs as `Matthew 24:6`, spoken ones ("Saint John the 4th chapter") included |
 
