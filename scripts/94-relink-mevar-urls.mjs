@@ -5,6 +5,7 @@
 //
 //   [Titre](https://mevar.org/<slug>/)         -> [Titre](/<slug>/)
 //   https://mevar.org/articles/<slug>          -> /<slug>/   (the site before Ghost)
+//   [mevar.org](mevar.org), (articles/<slug>)  -> /, /<slug>/
 //   https://mevar.org/<tag>/, /authors/<slug>/ -> the target in web/public/_redirects
 //
 // A Ghost bookmark card was flattened by the import into one link whose text
@@ -59,7 +60,9 @@ function resolve(p) {
 
 // The excerpt may hold brackets of its own ("[l’assemblée répond Amen]").
 const CARD = /\[\u200b?((?:[^[\]\n]|\[[^[\]\n]*\])*MEVAR[^[\]\n]*)\]\(https?:\/\/(?:www\.)?mevar\.org\/([^)\s/]+)\/?\)/g;
-const LINK = /\]\((https?:\/\/(?:www\.)?mevar\.org(\/[^)\s]*)?)\)/g;
+// Also typed without the scheme ("mevar.org") or relative ("articles/<slug>"),
+// which a browser resolves against the page's own URL.
+const LINK = /\]\(((?:(?:https?:\/\/)?(?:www\.)?mevar\.org)(\/[^)\s]*)?|(articles\/[^)\s]+))\)/g;
 
 let files = 0, bookmarks = 0, links = 0;
 const left = [];
@@ -80,7 +83,8 @@ for (const f of fs.readdirSync(dir)) {
       return cards.map(([, , slug]) => `[${titles.get(slug)}](/${slug}/)`).join("\n\n");
     })
     .join("\n");
-  body = body.replace(LINK, (link, url, p = "/") => {
+  body = body.replace(LINK, (link, url, abs = "/", rel) => {
+    const p = rel ? `/${rel}` : abs;
     const to = p.startsWith("/content/") ? null : resolve(p);
     if (!to) {
       left.push(`${f.slice(0, -3)}: ${url}`);
