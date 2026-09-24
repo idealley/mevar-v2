@@ -70,23 +70,30 @@ export async function workAt(p: string): Promise<WorkEntry | undefined> {
   return works.find((e) => e.filePath === `../markdown/${p}.md`);
 }
 
-/** The four lists, by URL, with the kinds of work each holds. */
-export const CATEGORIES: Record<string, { title: string; kinds: string[] }> = {
-  predications: { title: "Prédications", kinds: ["sermon"] },
-  exhortations: { title: "Exhortations", kinds: ["exhortation"] },
-  "etudes-bibliques": { title: "Études bibliques", kinds: ["bible_study"] },
-  publications: { title: "Publications", kinds: ["book", "article", "chapter"] },
+/** The four lists, by URL: the Ghost tag and the kinds of work each holds. */
+export const CATEGORIES: Record<string, { title: string; tag: string; kinds: string[] }> = {
+  predications: { title: "Prédications", tag: "Prédications", kinds: ["sermon"] },
+  exhortations: { title: "Exhortations", tag: "Exhortations", kinds: ["exhortation"] },
+  "etudes-bibliques": { title: "Études bibliques", tag: "Etudes Bibliques", kinds: ["bible_study"] },
+  publications: { title: "Publications", tag: "Publications", kinds: ["book", "article", "chapter"] },
 };
 
 /**
- * A category's works: the Mevar ones, and the archive's by source. The source
- * is the work's directory: ten works have no frontmatter to name it.
+ * A work tagged with categories is in each of them, as on Ghost (32 posts are
+ * both « Prédications » and « Etudes Bibliques »); any other is in the
+ * category of its kind.
  */
+function inCategory(e: WorkEntry, category: string): boolean {
+  const tags = Object.values(CATEGORIES).map((c) => c.tag).filter((t) => e.data.tags?.includes(t));
+  return tags.length ? tags.includes(CATEGORIES[category].tag) : CATEGORIES[category].kinds.includes(deriveKind(e.data));
+}
+
+/** A category's works: the Mevar ones, and the archive's by source. */
 export async function categoryWorks(category: string) {
   const all = await allWorks();
-  const works = all.filter((e) => CATEGORIES[category].kinds.includes(deriveKind(e.data)));
+  const works = all.filter((e) => inCategory(e, category));
   const archive = Object.keys(ARCHIVE_SOURCES)
-    .map((source) => ({ source, works: works.filter((e) => !isMevar(e) && e.id.startsWith(`${source}/`)) }))
+    .map((source) => ({ source, works: works.filter((e) => !isMevar(e) && e.data.source === source) }))
     .filter((a) => a.works.length);
   return { mevar: works.filter(isMevar), archive };
 }
@@ -97,18 +104,11 @@ export async function recentMevar(limit = 6): Promise<WorkEntry[]> {
   return all.filter(isMevar).slice(0, limit);
 }
 
-/** Stats for the home page: Mevar only. */
+/** Stats for the home page: Mevar only, a count per category and the total. */
 export async function corpusCounts() {
   const all = (await allWorks()).filter(isMevar);
-  const c = { total: all.length, sermons: 0, books: 0, studies: 0, exhortations: 0, articles: 0 };
-  for (const e of all) {
-    const k = deriveKind(e.data);
-    if (k === "sermon") c.sermons++;
-    else if (k === "book") c.books++;
-    else if (k === "bible_study") c.studies++;
-    else if (k === "exhortation") c.exhortations++;
-    else if (k === "article") c.articles++;
-  }
+  const c: Record<string, number> = { total: all.length };
+  for (const category of Object.keys(CATEGORIES)) c[category] = all.filter((e) => inCategory(e, category)).length;
   return c;
 }
 
