@@ -34,6 +34,9 @@ db/
 # Stray
 history.txt
 
+# Built emails (email/build.mjs); the receipts under email/receipts/ are committed
+email/dist/
+
 # wrangler pages dev: local secrets and state
 web/.dev.vars
 web/.wrangler/

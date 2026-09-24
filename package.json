@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test tests/import-ghost-members.test.mjs email/tools/lib.test.mjs web/tests/subscribe.test.ts",
+    "email:build": "node email/build.mjs",
+    "email:test": "node --env-file=.env email/tools/send-test.mjs",
+    "email:send": "node --env-file=.env email/tools/wizard.mjs"
   },
   "keywords": [],
   "author": "",
