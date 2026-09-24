@@ -9,7 +9,7 @@
   Usage (repo root):
     npm run email:test -- email/dist/<slug>.html --to you@example.org
 */
-import { requireEnv, loadConfig, readIssue } from "./lib.mjs";
+import { requireEnv, loadConfig, readIssue, resendClient } from "./lib.mjs";
 
 async function main() {
   const args = process.argv.slice(2);
@@ -26,23 +26,14 @@ async function main() {
   html = html.split("{{{RESEND_UNSUBSCRIBE_URL}}}").join(placeholder);
   text = text.split("{{{RESEND_UNSUBSCRIBE_URL}}}").join(placeholder);
 
-  const res = await fetch("https://api.resend.com/emails", {
-    method: "POST",
-    headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
-    body: JSON.stringify({
-      from: product.from,
-      to: [to],
-      subject: `${subject} (TEST)`,
-      html,
-      text,
-      reply_to: product.replyTo,
-    }),
+  const body = await resendClient(apiKey).api("/emails", {
+    from: product.from,
+    to: [to],
+    subject: `${subject} (TEST)`,
+    html,
+    text,
+    reply_to: product.replyTo,
   });
-  const body = await res.json().catch(() => ({}));
-  if (!res.ok) {
-    console.error(`Resend API error ${res.status}:`, body);
-    process.exit(1);
-  }
   console.log(`Sent test to ${to}, id ${body.id}`);
   console.log("The unsubscribe link is a placeholder in a test send.");
 }

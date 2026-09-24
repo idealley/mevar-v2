@@ -9,7 +9,7 @@
   the segment id stay in the root .env (loaded via node --env-file).
 */
 import { createHash } from "node:crypto";
-import { readFile, writeFile, readdir, stat, mkdir, rename } from "node:fs/promises";
+import { readFile, writeFile, readdir, stat, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 
@@ -35,8 +35,7 @@ export function resendClient(apiKey) {
     if (!res.ok) throw new Error(`Resend ${path} -> ${res.status}: ${JSON.stringify(json)}`);
     return json;
   };
-  // Read-only, and never fatal: a failure here must degrade the receipt, not
-  // re-raise past a broadcast that is already scheduled.
+  // Read-only, and never fatal: the caller decides what a null means.
   const get = async (path) => {
     try {
       const res = await fetch(`https://api.resend.com${path}`, {
@@ -71,12 +70,12 @@ export async function readIssue(htmlPath) {
   return { html: await read(".html"), text: await read(".txt"), subject: (await read(".subject.txt")).trim() };
 }
 
-export async function newestBuilds(distDir, limit = 5) {
+export async function newestBuilds(distDir) {
   const files = (await readdir(distDir).catch(() => [])).filter((f) => f.endsWith(".html"));
   const rows = await Promise.all(
     files.map(async (file) => ({ file, path: join(distDir, file), mtimeMs: (await stat(join(distDir, file))).mtimeMs }))
   );
-  return rows.sort((a, b) => b.mtimeMs - a.mtimeMs).slice(0, limit);
+  return rows.sort((a, b) => b.mtimeMs - a.mtimeMs).slice(0, 5);
 }
 
 /** "YYYY-MM-DD" at "HH:mm" in the zone, as ISO-8601 with the zone's offset at that time. */
@@ -95,71 +94,12 @@ export function scheduleTomorrow(timeZone, hhmm) {
   return scheduleOn(timeZone, next.toISOString().slice(0, 10), hhmm);
 }
 
-async function segmentCounts(client, id) {
-  const contacts = await client.get(`/audiences/${id}/contacts`);
-  const rows = contacts?.data;
-  if (!Array.isArray(rows)) {
-    return {
-      recipient_count: null,
-      recipient_count_note:
-        "the segment contact listing could not be read at send time; Resend's broadcast " +
-        "object carries no recipient count, so it is not recoverable later",
-    };
-  }
-  // Resend returns every contact in one response when no `limit` is passed.
-  // If it ever reports more pages, this count is partial: state the gap
-  // rather than record an understated number.
-  if (contacts.has_more === true) {
-    return {
-      recipient_count: null,
-      recipient_count_note:
-        `the segment contact listing was paginated (has_more after ${rows.length} contacts), so the ` +
-        "count read at send time is partial; Resend's broadcast object carries no recipient count",
-    };
-  }
-  const subscribed = rows.filter((row) => !row.unsubscribed).length;
-  return {
-    recipient_count: subscribed,
-    recipient_count_note:
-      `subscribed contacts in the segment at send time (${rows.length} total, ` +
-      `${rows.length - subscribed} unsubscribed); Resend reports no per-broadcast recipient count`,
-  };
-}
-
-// The first receipt is written before the segment lookup; if the process
-// stops there, this is the stated gap.
-const COUNT_NOT_READ = {
-  recipient_count: null,
-  recipient_count_note:
-    "not read: the process stopped after scheduling, before the segment contact listing was " +
-    "read; Resend's broadcast object carries no recipient count",
-};
-
-/** Replace the receipt atomically: a reader never sees a half-written file. */
-async function writeReceipt(recordPath, receipt) {
-  await mkdir(dirname(recordPath), { recursive: true });
-  await writeFile(`${recordPath}.tmp`, `${JSON.stringify(receipt, null, 2)}\n`);
-  await rename(`${recordPath}.tmp`, recordPath);
-}
-
 /*
   Create a Resend Broadcast from a built email and schedule it, then write the
   receipt (committed under email/receipts/). `dryRun` creates it without
   scheduling, to review or test-send from the dashboard; no receipt then.
 */
-export async function sendBroadcast({
-  apiKey,
-  htmlPath,
-  segmentId,
-  from,
-  name,
-  schedule,
-  replyTo,
-  dryRun,
-  recordPath,
-  log = console.log,
-  client = resendClient(apiKey),
-}) {
+export async function sendBroadcast({ client, htmlPath, segmentId, from, name, schedule, replyTo, dryRun, recordPath, log = console.log }) {
   const { html, text, subject } = await readIssue(htmlPath);
 
   const created = await client.api("/broadcasts", {
@@ -175,40 +115,28 @@ export async function sendBroadcast({
 
   if (dryRun) {
     log("dry: not scheduled. Review, test and send it from the Resend dashboard.");
-    return { id: created.id, sent: false };
+    return;
   }
 
   await client.api(`/broadcasts/${created.id}/send`, { scheduled_at: schedule });
-  log(`scheduled for ${schedule}, broadcast id ${created.id}`);
-
-  const receiptFor = (readBack, counts) => ({
-    id: created.id,
-    from,
-    subject,
-    name,
-    segment_id: segmentId,
-    scheduled_at: readBack?.scheduled_at ?? schedule,
-    status: readBack?.status ?? null,
-    ...counts,
-    html_bytes: Buffer.byteLength(html),
-    text_bytes: Buffer.byteLength(text),
-    html_sha256: createHash("sha256").update(html).digest("hex"),
-    text_sha256: createHash("sha256").update(text).digest("hex"),
-    recorded_at: new Date().toISOString(),
-  });
-  // The broadcast is already scheduled: persist its id and digests NOW, before
-  // any further request, so an interruption still leaves the evidence and the
-  // duplicate guard sees it. Then add the count, then Resend's read-back.
-  await writeReceipt(recordPath, receiptFor(null, COUNT_NOT_READ));
-  const counts = await segmentCounts(client, segmentId);
-  await writeReceipt(recordPath, receiptFor(null, counts));
-  const readBack = await client.get(`/broadcasts/${created.id}`);
-  await writeReceipt(recordPath, receiptFor(readBack, counts));
-  log(`receipt -> ${recordPath}`);
-  // A broadcast Resend reports failed or cancelled will never go out: fail,
-  // after keeping the receipt as the evidence.
-  if (["failed", "canceled", "cancelled"].includes(readBack?.status)) {
-    throw new Error(`broadcast ${created.id} is "${readBack.status}" at Resend. Receipt kept at ${recordPath}.`);
-  }
-  return { id: created.id, sent: true };
+  await mkdir(dirname(recordPath), { recursive: true });
+  await writeFile(
+    recordPath,
+    `${JSON.stringify(
+      {
+        id: created.id,
+        name,
+        subject,
+        from,
+        segment_id: segmentId,
+        scheduled_at: schedule,
+        html_sha256: createHash("sha256").update(html).digest("hex"),
+        text_sha256: createHash("sha256").update(text).digest("hex"),
+        recorded_at: new Date().toISOString(),
+      },
+      null,
+      2
+    )}\n`
+  );
+  log(`scheduled for ${schedule}, receipt -> ${recordPath}`);
 }

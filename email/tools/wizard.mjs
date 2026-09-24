@@ -33,12 +33,12 @@ const ask = async (q, def) => {
   return a || (def !== undefined ? String(def) : "");
 };
 
-async function pick(title, rows, render, defIndex = 0) {
+async function pick(title, rows, render) {
   console.log(`\n${title}`);
   rows.forEach((r, i) =>
-    console.log(`  ${i + 1}. ${render(r)}${i === defIndex ? "   <- default" : ""}`)
+    console.log(`  ${i + 1}. ${render(r)}${i === 0 ? "   <- default" : ""}`)
   );
-  const a = await ask("Pick a number:", defIndex + 1);
+  const a = await ask("Pick a number:", 1);
   const i = Number(a) - 1;
   if (!Number.isInteger(i) || i < 0 || i >= rows.length) throw new Error("Invalid choice.");
   return rows[i];
@@ -57,7 +57,7 @@ async function main() {
   if (builds.length === 0) throw new Error(`No built .html in ${distDir}. Run email/build.mjs first.`);
   const fmt = (b) =>
     `${b.file}  (built ${new Date(b.mtimeMs).toLocaleString("fr-FR", { timeZone: tz })})`;
-  const build = await pick("Which email?", builds, fmt, 0);
+  const build = await pick("Which email?", builds, fmt);
   const { subject } = await readIssue(build.path);
   const slug = basename(build.file, ".html");
   const name = `${product.label} ${slug}`;
@@ -77,8 +77,7 @@ async function main() {
       { key: "tomorrow", label: `Tomorrow at ${hhmm} (${tz})  ->  ${tomorrow}` },
       { key: "custom", label: `Custom date + time (${tz})` },
     ],
-    (m) => m.label,
-    0
+    (m) => m.label
   );
   let schedule = tomorrow;
   if (mode.key === "custom") {
@@ -106,7 +105,7 @@ async function main() {
   }
 
   await sendBroadcast({
-    apiKey,
+    client,
     htmlPath: build.path,
     segmentId,
     from: product.from,
