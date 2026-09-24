@@ -3,7 +3,8 @@
 // frontmatter in markdown/ and the manifests (50 builds index.json from them,
 // and 73 writes the frontmatter from them). A spelling the registry does not
 // know fails the step, nothing is written: add it to preachers.mjs. The Ghost
-// `authors` are checked, not rewritten: Ghost holds the display names already.
+// `authors` are checked, not rewritten: Ghost holds the display names, and the
+// site matches them exactly, so any other spelling fails too.
 // Idempotent. Run 50-build-index.mjs after it.
 //
 //   node scripts/67-normalize-preachers.mjs
@@ -19,6 +20,7 @@ for (const p of PREACHERS) for (const s of [p.name, ...p.variants]) NAME.set(key
 
 const unknown = new Set();
 const display = (s) => NAME.get(key(s)) ?? (unknown.add(s), s);
+const author = (s) => display(s) === s || unknown.add(s);
 
 const writes = [];
 
@@ -28,8 +30,8 @@ for (const f of fs.readdirSync(path.join(root, "manifests"))) {
   const entries = JSON.parse(text);
   if (!Array.isArray(entries)) continue;
   for (const e of entries) {
-    if (typeof e?.preacher === "string") e.preacher = display(e.preacher);
-    for (const a of e?.authors ?? []) display(a);
+    if (typeof e.preacher === "string") e.preacher = display(e.preacher);
+    for (const a of e.authors ?? []) author(a);
   }
   const out = JSON.stringify(entries, null, 2);
   if (out !== text) writes.push([p, out]);
@@ -43,7 +45,7 @@ for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true 
   const fm = text.slice(0, end)
     .replace(/^preacher: (".*")$/m, (_, v) => `preacher: ${JSON.stringify(display(JSON.parse(v)))}`)
     .replace(/^authors:\n((?: {2}- .*\n)+)/m, (block, list) => {
-      for (const a of list.match(/".*"/g)) display(JSON.parse(a));
+      for (const a of list.match(/".*"/g)) author(JSON.parse(a));
       return block;
     });
   if (fm !== text.slice(0, end)) writes.push([p, fm + text.slice(end)]);

@@ -23,7 +23,7 @@ for (const f of fs.readdirSync(path.join(root, "manifests"))) {
   let changed = false;
   for (const e of entries) {
     for (const k of FIELDS) {
-      if (typeof e?.[k] !== "string" || !UNKNOWN.test(e[k])) continue;
+      if (typeof e[k] !== "string" || !UNKNOWN.test(e[k])) continue;
       console.log(`manifests/${f}: ${e.sermon_id} ${k}: ${JSON.stringify(e[k])}`);
       delete e[k];
       changed = true;
