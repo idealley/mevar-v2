@@ -45,6 +45,7 @@ mevar_match:
   similarity: 0.61
 llm_cleaned: true
 bible_refs:
+  - "Galates 4"
   - "Galates 4:1"
   - "Hébreux 10:7"
   - "Hébreux 3"

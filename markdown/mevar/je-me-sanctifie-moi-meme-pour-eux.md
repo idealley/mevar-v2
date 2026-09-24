@@ -19,6 +19,9 @@ stream_url: "https://mevar.org/je-me-sanctifie-moi-meme-pour-eux/"
 bible_refs:
   - "2 Corinthiens 6"
   - "Apocalypse 22:10-12"
+  - "Colossiens 1:21"
+  - "Hébreux 5:7-9"
+  - "Jean 17:14"
   - "Ésaïe 53"
 ---
 Que notre Dieu soit béni. Je vous salue dans le nom de notre Seigneur Jésus-Christ. Il faut dire que ce matin je ne me porte pas assez bien et j’espère que ma voix sera perceptible. Je compte sur la grâce de Dieu.

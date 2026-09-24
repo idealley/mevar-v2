@@ -40,10 +40,12 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Jean 15"
+  - "Jean 15:12"
   - "Jean 21"
   - "Jean 3:16"
   - "Luc 17"
   - "Matthieu 24"
+  - "Matthieu 24:11"
   - "Ésaïe 42:19"
 ---
 *Ami, m’aimes tu ? , prêché le 15 mars 2009 à Koumassi par le frère M’BRA Parfait*

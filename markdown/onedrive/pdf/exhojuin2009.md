@@ -59,6 +59,7 @@ bible_refs:
   - "2 Timothée 4:10"
   - "Aggée 2:4"
   - "Exode 29:40"
+  - "Jean 6"
   - "Jean 6:27"
   - "Luc 12:16-21"
   - "Luc 12:22-34"

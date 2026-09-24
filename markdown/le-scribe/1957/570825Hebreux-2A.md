@@ -51,6 +51,7 @@ bible_refs:
   - "Actes 4:13"
   - "Actes 9"
   - "Hébreux 13:8"
+  - "Hébreux 2"
   - "Hébreux 2:1"
   - "Hébreux 2:3-4"
   - "Jacques 5:14-15"

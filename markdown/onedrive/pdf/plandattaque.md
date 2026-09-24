@@ -47,6 +47,7 @@ bible_refs:
   - "Matthieu 5:45"
   - "Matthieu 9:18"
   - "Romains 10"
+  - "Ésaïe 42:1-6"
 ---
 PLANS D'ATTAQUE III,
 

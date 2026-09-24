@@ -43,11 +43,14 @@ llm_cleaned: true
 bible_refs:
   - "1 Jean 3"
   - "Actes 2"
+  - "Hébreux 11"
+  - "Hébreux 4"
   - "Jacques 5"
   - "Jean 10"
   - "Jean 14"
   - "Jean 15"
   - "Marc 11"
+  - "Marc 11:22"
   - "Marc 16"
   - "Romains 10"
 ---

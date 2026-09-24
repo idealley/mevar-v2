@@ -27,6 +27,7 @@ bible_refs:
   - "Apocalypse 3:21"
   - "Exode 2:11-12"
   - "Galates 4:22-31"
+  - "Galates 5"
   - "Galates 5:1"
   - "Genèse 17:16-22"
   - "Jacques 5:7-8"

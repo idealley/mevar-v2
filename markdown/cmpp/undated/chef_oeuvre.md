@@ -68,6 +68,7 @@ bible_refs:
   - "Malachie 4"
   - "Marc 9"
   - "Matthieu 24"
+  - "Ésaïe 53"
 ---
 LA PAROLE PARLEE
 

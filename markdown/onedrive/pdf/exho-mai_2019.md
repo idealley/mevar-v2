@@ -49,7 +49,9 @@ bible_refs:
   - "Apocalypse 3"
   - "Genèse 12"
   - "Genèse 26:1-5"
+  - "Joël 2:18"
   - "Luc 4:1-2"
+  - "Malachie 3"
   - "Matthieu 25"
   - "Ruth 1"
 ---

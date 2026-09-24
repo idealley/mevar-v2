@@ -39,6 +39,7 @@ bible_refs:
   - "Galates 5:1"
   - "Galates 6:15"
   - "Jacques 2:12-13"
+  - "Jacques 5"
   - "Jacques 5:11"
   - "Job 1:6-9"
   - "Job 27:5-6"

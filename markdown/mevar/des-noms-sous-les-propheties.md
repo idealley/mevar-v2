@@ -18,6 +18,7 @@ ghost_id: "6448fa86db90770001518fad"
 uuid: "fcbebb9e-b2e3-443e-ad1c-5ea7d1b594fa"
 stream_url: "https://mevar.org/des-noms-sous-les-propheties/"
 bible_refs:
+  - "Actes 2"
   - "Genèse 3"
   - "Genèse 3:14-15"
   - "Genèse 3:15"

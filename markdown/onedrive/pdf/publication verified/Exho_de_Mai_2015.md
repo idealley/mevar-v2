@@ -79,6 +79,7 @@ bible_refs:
   - "Philippiens 4:10-18"
   - "Philippiens 4:17"
   - "Philippiens 4:19"
+  - "Tite 3"
 ---
 ## QUI EST-CE QUI PLANTE UNE VIGNE ET N’EN MANGE PAS LE FRUIT ?
 

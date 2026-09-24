@@ -45,6 +45,8 @@ bible_refs:
   - "1 Corinthiens 12"
   - "1 Corinthiens 14"
   - "1 Jean 4"
+  - "Daniel 2"
+  - "Joël 2:28-31"
 ---
 # L’Univers de la révélation 1
 

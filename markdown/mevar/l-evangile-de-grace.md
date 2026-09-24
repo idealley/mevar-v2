@@ -26,6 +26,7 @@ bible_refs:
   - "Hébreux 4:15"
   - "Jean 12"
   - "Jean 13"
+  - "Jean 3"
   - "Jean 3:14-16"
   - "Jean 3:16"
 ---

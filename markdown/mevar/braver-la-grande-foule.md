@@ -26,6 +26,7 @@ bible_refs:
   - "Marc 5"
   - "Marc 5:27-28"
   - "Matthieu 15"
+  - "Matthieu 9"
   - "Matthieu 9:18-26"
   - "Psaumes 42:1"
 ---

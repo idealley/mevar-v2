@@ -47,6 +47,7 @@ themes:
 pdf_url: "http://le-scribe.org/pdfiles/640726Citernes.pdf"
 llm_cleaned: true
 bible_refs:
+  - "Apocalypse 13"
   - "Exode 17:6"
   - "Genèse 21:19"
   - "Jean 14:26"

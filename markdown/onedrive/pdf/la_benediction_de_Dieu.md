@@ -47,8 +47,14 @@ themes:
   - "Laodicée"
 llm_cleaned: true
 bible_refs:
+  - "2 Samuel 5:17"
   - "Deutéronome 28"
   - "Esther 2"
+  - "Genèse 12"
+  - "Genèse 17"
+  - "Josué 1"
+  - "Josué 1:1"
+  - "Proverbes 10:22"
 ---
 ## La bénédiction de Dieu
 

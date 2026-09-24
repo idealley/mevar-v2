@@ -20,6 +20,10 @@ ghost_id: "6448fa86db90770001518f60"
 uuid: "af551933-65c9-4ed2-ba2c-79d0a2acf937"
 stream_url: "https://mevar.org/otons-nos-vetements/"
 bible_refs:
+  - "Jean 13"
+  - "Marc 16"
+  - "Philippiens 2:3"
+  - "Romains 14:1"
   - "Romains 15"
 ---
 Nous allons lire dans Jean chapitre 13 à partir du 1er verset :

@@ -38,6 +38,11 @@ themes:
   - "Persévérance dans la guerre"
   - "Ne pas lutter contre la chair et le sang"
 llm_cleaned: true
+bible_refs:
+  - "Josué 6:1-5"
+  - "Josué 8:1-2"
+  - "Josué 8:14-17"
+  - "Josué 9:3-16"
 ---
 Plans d'attaque I, prêché à Koumassi le Dimanche 08 Novembre 2009,
 par le frère M'BRA Parfait

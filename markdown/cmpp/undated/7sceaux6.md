@@ -53,6 +53,7 @@ bible_refs:
   - "Genèse 1"
   - "Jean 1"
   - "Jean 11"
+  - "Jean 6:63"
   - "Joël 2"
   - "Luc 24"
   - "Malachie 4"

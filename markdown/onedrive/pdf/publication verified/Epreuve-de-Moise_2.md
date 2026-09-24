@@ -42,6 +42,9 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 10"
   - "Ecclésiaste 9"
+  - "Jacques 1:19"
+  - "Proverbes 14:29"
+  - "Proverbes 19:11"
 ---
 L'épreuve de Moïse 2, prêché le 7 Janvier 2019 à Koumassi par le frère M'BRA Parfait
 

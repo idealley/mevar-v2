@@ -73,6 +73,7 @@ bible_refs:
   - "Jacques 1:18"
   - "Jean 12"
   - "Jean 12:46"
+  - "Jean 14"
   - "Jean 14:27"
   - "Jean 14:5-6"
   - "Jean 1:14"
@@ -92,7 +93,6 @@ bible_refs:
   - "Luc 23:34"
   - "Luc 6:26-28"
   - "Luc 6:32-33"
-  - "Luc 6:35-36"
 ---
 ## ON L’APPELLERA SAMUEL
 

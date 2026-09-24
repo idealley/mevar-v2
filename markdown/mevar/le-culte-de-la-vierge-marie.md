@@ -38,6 +38,7 @@ bible_refs:
   - "Actes 1:3"
   - "Actes 2"
   - "Actes 23:11"
+  - "Actes 7"
   - "Actes 7:47-49"
   - "Actes 7:48-50"
   - "Actes 9:10"
@@ -69,7 +70,6 @@ bible_refs:
   - "Hébreux 7:19-20"
   - "Hébreux 9:7-11"
   - "Jean 14:12-14"
-  - "Jean 14:19"
 ---
 ## L'abomination des ivoiriens
 

@@ -25,6 +25,7 @@ bible_refs:
   - "Matthieu 24"
   - "Éphésiens 5:26-27"
   - "Ésaïe 27"
+  - "Ésaïe 27:12"
   - "Ésaïe 27:12-13"
 ---
 Alors la vision prophétique fait la différence est un sujet que je voudrais aborder ce matin. Il y a longtemps que je l’ai. Depuis l’année passée, mais je n’ai pas eu le temps d’en parler. Ce matin on va en parler. Amen ! **La vision prophétique fait la différence. Il y en a qui se demandent qu’est-ce qui fait la différence entre nous et les autres églises.** Il y en a qui se posent cette question. Quelle est la différence entre nous et les autres églises. Ici, on parle de réveil, du Message du temps de la fin. Quelle est la différence entre nous et les catholiques, les Assemblées de Dieu, les pentecôtistes et toutes ces églises que vous connaissez ? Amen ! N’est-ce pas ? Il y a beaucoup qui viennent et qui ne savent pas beaucoup de choses. Amen ! **Mais c’est la vision prophétique qui fait la différence.**

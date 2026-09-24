@@ -66,6 +66,7 @@ bible_refs:
   - "Apocalypse 17:14"
   - "Daniel 7"
   - "Galates 1:11-12"
+  - "Galates 3"
   - "Galates 3:1-3"
   - "Galates 5:16"
   - "Galates 5:22"

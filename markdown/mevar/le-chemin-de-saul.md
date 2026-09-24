@@ -17,6 +17,9 @@ authors:
 ghost_id: "6448fa86db90770001518fb1"
 uuid: "260bca62-77b3-4d9e-9921-5b4970fab08a"
 stream_url: "https://mevar.org/le-chemin-de-saul/"
+bible_refs:
+  - "1 Samuel 9:1-24"
+  - "Marc 6"
 ---
 Nous allons lire dans 1 Samuel chapitre 9, versets 1 à 24 :
 

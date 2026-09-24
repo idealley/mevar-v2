@@ -48,9 +48,11 @@ bible_refs:
   - "Daniel 12"
   - "Exode 10"
   - "Jean 6"
+  - "Marc 11"
   - "Matthieu 24"
   - "Matthieu 27"
   - "Romains 11"
+  - "Ésaïe 13"
 ---
 BROCHURE N° 8
 

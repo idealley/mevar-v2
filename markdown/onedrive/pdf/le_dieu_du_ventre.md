@@ -44,6 +44,8 @@ bible_refs:
   - "1 Corinthiens 15"
   - "2 Chroniques 1"
   - "Jacques 1"
+  - "Philippiens 3:17"
+  - "Romains 14:17"
   - "Ésaïe 22"
 ---
 ## Le dieu du ventre

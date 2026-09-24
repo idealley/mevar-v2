@@ -77,6 +77,7 @@ bible_refs:
   - "Luc 10:19"
   - "Luc 11:21-22"
   - "Luc 9:1"
+  - "Marc 16"
   - "Matthieu 7"
   - "Matthieu 7:21-23"
   - "Nombres 18"

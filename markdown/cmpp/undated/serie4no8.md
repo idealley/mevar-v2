@@ -49,6 +49,7 @@ bible_refs:
   - "Actes 19"
   - "Apocalypse 3"
   - "Hébreux 13"
+  - "Jean 11"
   - "Matthieu 17"
 ---
 SERIE 4 N° 8

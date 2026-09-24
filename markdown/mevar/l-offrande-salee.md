@@ -20,6 +20,8 @@ stream_url: "https://mevar.org/l-offrande-salee/"
 bible_refs:
   - "1 Corinthiens 13"
   - "Jean 3"
+  - "Lévitique 2:13"
+  - "Marc 9"
   - "Matthieu 24:14"
 ---
 Nous lisons Lévitique chapitre 2, le verset 13.

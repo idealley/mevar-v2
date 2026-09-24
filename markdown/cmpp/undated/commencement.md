@@ -79,6 +79,7 @@ bible_refs:
   - "Actes 11"
   - "Actes 13"
   - "Actes 17"
+  - "Actes 19"
   - "Actes 2"
   - "Actes 20"
   - "Actes 3"
@@ -88,8 +89,7 @@ bible_refs:
   - "Amos 6"
   - "Amos 8"
   - "Apocalypse 1"
-  - "Apocalypse 14"
-  - "Apocalypse 17"
+  - "Apocalypse 10"
 ---
 AU COMMENCEMENT ETAIT LA PAROLE — PAS L’INTERPRETATION
 

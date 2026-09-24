@@ -21,8 +21,12 @@ ghost_id: "6448fa86db90770001518fd3"
 uuid: "f4a6cf13-246e-4635-a23c-ca46138b1ea3"
 stream_url: "https://mevar.org/babylone-la-grande-ville/"
 bible_refs:
+  - "Apocalypse 16"
+  - "Apocalypse 16:13"
   - "Apocalypse 17"
   - "Apocalypse 18"
+  - "Apocalypse 3"
+  - "Apocalypse 6"
   - "Matthieu 24"
   - "Ésaïe 58"
 ---

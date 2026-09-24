@@ -51,6 +51,7 @@ pdf_url: "http://cmpp.ch/rev07.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 12"
+  - "1 Rois 19:18"
   - "Actes 19"
   - "Apocalypse 13"
   - "Apocalypse 17"

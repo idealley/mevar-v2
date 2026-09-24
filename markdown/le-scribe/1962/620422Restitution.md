@@ -78,6 +78,7 @@ bible_refs:
   - "Actes 2:17-19"
   - "Actes 2:27"
   - "Actes 2:38"
+  - "Apocalypse 13"
   - "Galates 3:13"
   - "Galates 4:30"
   - "Genèse 20:6-7"

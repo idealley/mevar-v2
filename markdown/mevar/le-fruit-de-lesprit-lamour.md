@@ -29,6 +29,7 @@ bible_refs:
   - "1 Jean 3:18"
   - "1 Jean 4"
   - "1 Jean 4:1"
+  - "Galates 5"
   - "Galates 5:22"
   - "Galates 5:22-26"
   - "Jean 13"

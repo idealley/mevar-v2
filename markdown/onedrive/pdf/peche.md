@@ -56,9 +56,11 @@ bible_refs:
   - "Amos 4:12"
   - "Apocalypse 17"
   - "Apocalypse 3:14"
+  - "Daniel 4:10"
   - "Genèse 11"
   - "Jacques 3"
   - "Jérémie 1"
+  - "Jérémie 27:5"
   - "Matthieu 25"
 ---
 ## Exhortation du Mois de Décembre 2006

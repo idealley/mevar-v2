@@ -42,6 +42,7 @@ bible_refs:
   - "Apocalypse 21"
   - "Apocalypse 22"
   - "Genèse 19"
+  - "Genèse 19:1"
   - "Juges 19"
   - "Juges 20"
   - "Luc 17"

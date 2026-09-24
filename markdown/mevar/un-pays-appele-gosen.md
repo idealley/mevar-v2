@@ -20,7 +20,12 @@ stream_url: "https://mevar.org/un-pays-appele-gosen/"
 bible_refs:
   - "1 Corinthiens 15"
   - "Exode 8"
+  - "Exode 8:16"
+  - "Exode 8:19"
+  - "Genèse 47"
   - "Jean 14"
+  - "Luc 1:13"
+  - "Malachie 4"
   - "Ésaïe 40"
 ---
 Nous lisons dans Genèse chapitre 47.

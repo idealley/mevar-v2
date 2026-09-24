@@ -41,6 +41,7 @@ bible_refs:
   - "Actes 2"
   - "Apocalypse 10"
   - "Apocalypse 17"
+  - "Apocalypse 22"
   - "Apocalypse 3"
   - "Daniel 5"
   - "Genèse 4"

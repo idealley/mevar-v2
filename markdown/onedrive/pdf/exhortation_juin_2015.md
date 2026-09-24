@@ -53,6 +53,7 @@ bible_refs:
   - "2 Rois 4:8"
   - "2 Samuel 12:8-9"
   - "2 Samuel 23:8"
+  - "Actes 10"
   - "Actes 10:1-4"
   - "Actes 10:42-44"
   - "Actes 20:34"

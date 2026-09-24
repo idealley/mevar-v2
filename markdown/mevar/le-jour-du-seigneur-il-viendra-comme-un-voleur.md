@@ -21,6 +21,7 @@ bible_refs:
   - "1 Rois 22:19-21"
   - "2 Thessaloniciens 2"
   - "Apocalypse 16"
+  - "Apocalypse 16:15"
 series_id: "le-jour-du-seigneur"
 series: "Le jour du Seigneur"
 series_part: 2

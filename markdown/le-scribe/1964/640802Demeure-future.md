@@ -65,6 +65,7 @@ bible_refs:
   - "Actes 3:38"
   - "Actes 3:4"
   - "Apocalypse 11"
+  - "Apocalypse 12"
   - "Apocalypse 20:11-12"
   - "Apocalypse 21:1-2"
   - "Apocalypse 21:1-7"

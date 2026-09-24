@@ -55,6 +55,7 @@ bible_refs:
   - "Nombres 18:19-24"
   - "Nombres 3:12-13"
   - "Philippiens 4:19"
+  - "Tite 3"
 ---
 ## Exhortation fin mai 2015
 

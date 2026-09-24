@@ -58,6 +58,7 @@ bible_refs:
   - "Apocalypse 18:1-6"
   - "Apocalypse 18:6"
   - "Apocalypse 18:6-7"
+  - "Apocalypse 19"
   - "Apocalypse 1:13"
   - "Apocalypse 1:20"
   - "Apocalypse 2"
@@ -84,7 +85,6 @@ bible_refs:
   - "Genèse 6"
   - "Genèse 6:8-9"
   - "Jean 10:37-38"
-  - "Jean 1:23"
 ---
 ## Introduction
 

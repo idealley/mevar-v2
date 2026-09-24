@@ -49,6 +49,8 @@ bible_refs:
   - "2 Chroniques 20:20"
   - "Apocalypse 3:15"
   - "Deutéronome 28"
+  - "Galates 4:1"
+  - "Jérémie 17:5"
   - "Marc 13"
   - "Psaumes 146"
 ---

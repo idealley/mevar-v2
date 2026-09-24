@@ -18,6 +18,7 @@ ghost_id: "6448fa86db90770001518f17"
 uuid: "c960dee2-378a-47db-a01f-5dd7929b5562"
 stream_url: "https://mevar.org/demas-ou-l-esprit-de-la-mondanite/"
 bible_refs:
+  - "2 Timothée 4:6-10"
   - "Ecclésiaste 1"
   - "Luc 11:31"
 ---

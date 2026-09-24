@@ -22,7 +22,9 @@ bible_refs:
   - "Genèse 18"
   - "Genèse 19"
   - "Juges 19"
+  - "Juges 20:14"
   - "Juges 20:14-48"
+  - "Luc 17:28"
   - "Luc 17:28-37"
 ---
 Que le nom du Seigneur soit béni ! Je vous salue au nom du Seigneur Jésus. Nous allons lire dans Juges, le chapitre 20 à partir du verset 14, parce que le temps est déjà avancé…Le texte est long et on ne peut pas tout lire. Donc je voudrais brièvement raconter l’histoire avant qu’on ne lise quelques portions. C’est une histoire qui s’est passée après la mort de Josué. Les enfants d’Israël n’avaient plus de chefs, ils n’avaient plus de rois ; donc le peuple était livré à lui-même. Chacun faisait ce qu’il voulait…le mal était répandu dans tout le pays. Alors Juges les chapitres 19 et 20 racontent une histoire épouvantable.

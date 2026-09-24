@@ -46,8 +46,10 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 1"
   - "2 Corinthiens 4"
+  - "Apocalypse 11"
   - "Hébreux 12:4"
   - "Hébreux 4"
+  - "Hébreux 4:1"
   - "Luc 21"
 ---
 *Le repos en Christ, prêché le dimanche 20 octobre 2013 à Koumassi par le frère M'BRA Parfait*

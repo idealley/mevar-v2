@@ -85,6 +85,8 @@ bible_refs:
   - "Colossiens 2"
   - "Daniel 10"
   - "Daniel 11"
+  - "Daniel 11:36"
+  - "Daniel 12:4"
   - "Daniel 2"
   - "Daniel 7"
   - "Daniel 8"
@@ -92,8 +94,6 @@ bible_refs:
   - "Deutéronome 18"
   - "Deutéronome 6"
   - "Exode 20"
-  - "Galates 1"
-  - "Galates 6"
 ---
 # L'ANTICHRIST
 

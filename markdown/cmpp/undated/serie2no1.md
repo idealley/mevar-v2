@@ -47,6 +47,7 @@ bible_refs:
   - "1 Corinthiens 15"
   - "Actes 16"
   - "Actes 19"
+  - "Exode 12:12,13"
   - "Genèse 4"
   - "Hébreux 10"
   - "Hébreux 11"
@@ -55,6 +56,7 @@ bible_refs:
   - "Hébreux 6"
   - "Hébreux 9"
   - "Jean 14"
+  - "Josué 2"
   - "Romains 8"
 ---
 SERIE 2 N° 1

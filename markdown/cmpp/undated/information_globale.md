@@ -52,11 +52,13 @@ bible_refs:
   - "2 Corinthiens 11"
   - "2 Corinthiens 5"
   - "2 Corinthiens 6"
+  - "2 Thessaloniciens 2"
   - "Actes 1"
   - "Actes 11"
   - "Actes 13"
   - "Actes 15"
   - "Actes 16"
+  - "Actes 18"
   - "Actes 2"
   - "Actes 20"
   - "Actes 22"
@@ -87,8 +89,6 @@ bible_refs:
   - "Jean 19"
   - "Jean 2"
   - "Jean 3"
-  - "Jean 5"
-  - "Jean 8"
 ---
 INFORMATION GLOBALE — ECLAIRCISSEMENT D’EN-HAUT
 

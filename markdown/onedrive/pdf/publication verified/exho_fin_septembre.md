@@ -52,6 +52,7 @@ bible_refs:
   - "Marc 11"
   - "Marc 9:23"
   - "Matthieu 26:41"
+  - "Matthieu 28"
   - "Romains 8:28"
   - "Tite 3:5"
 ---

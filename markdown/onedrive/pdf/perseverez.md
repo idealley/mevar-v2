@@ -32,6 +32,7 @@ themes:
   - "Pentecôte"
 llm_cleaned: true
 bible_refs:
+  - "Actes 3"
   - "Actes 3:19-21"
   - "Michée 2:10"
   - "Ésaïe 62"

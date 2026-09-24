@@ -39,6 +39,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 9:24"
   - "Apocalypse 11"
+  - "Jacques 4"
   - "Luc 16:15"
   - "Luc 17"
   - "Luc 17:7-10"

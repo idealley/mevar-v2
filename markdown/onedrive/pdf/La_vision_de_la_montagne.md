@@ -37,6 +37,8 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "1 Chroniques 28"
+  - "Apocalypse 1"
+  - "Exode 24:12"
   - "Matthieu 24"
 ---
 ## La vision de la montagne

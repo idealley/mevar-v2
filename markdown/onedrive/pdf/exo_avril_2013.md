@@ -56,11 +56,13 @@ bible_refs:
   - "Apocalypse 20:1-2"
   - "Exode 8:22"
   - "Exode 9:26"
+  - "Genèse 15"
   - "Genèse 1:26-28"
   - "Genèse 47:27"
   - "Genèse 47:4"
   - "Luc 17"
   - "Proverbes 30:11-14"
+  - "Romains 1"
   - "Romains 16:20"
 ---
 ## LA PARABOLE DES DEUX FILS

@@ -55,6 +55,7 @@ bible_refs:
   - "Luc 24:16"
   - "Luc 24:36"
   - "Luc 24:52"
+  - "Lévitique 26:11"
   - "Matthieu 12:18"
   - "Matthieu 14:33"
   - "Matthieu 1:21"
@@ -66,8 +67,7 @@ bible_refs:
   - "Philippiens 2:9"
   - "Psaumes 148:13"
   - "Romains 8:16"
-  - "Zacharie 12:1"
-  - "Zacharie 12:10"
+  - "Zacharie 12"
 ---
 Le premier des dix commandements est très clair : « Tu craindras l’Eternel, ton Dieu, tu le serviras, et tu jureras par son nom » (Deutéronome 6:13). Quel est Son nom ?“Jésus-Christ est le même hier, aujourd’hui, et éternellement” (NEG 1979. Hébreux 13:8). L’Apocalypse ou la révélation de Jésus Christ, la révélation de qui Jésus Christ est, nous confirme les paroles de Jean:
 

@@ -44,6 +44,7 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "Genèse 6:5"
+  - "Luc 17"
   - "Romains 12:21"
 ---
 ## Les temps de Noé

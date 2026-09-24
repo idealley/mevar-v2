@@ -28,6 +28,7 @@ bible_refs:
   - "2 Pierre 1:16"
   - "2 Pierre 1:17-18"
   - "2 Timothée 4:1-4"
+  - "Actes 13"
   - "Actes 13:9"
   - "Apocalypse 12:5"
   - "Apocalypse 13:16-17"
@@ -71,7 +72,6 @@ bible_refs:
   - "Sophonie 1:14-16"
   - "Ésaïe 40:1"
   - "Ésaïe 8:7-9"
-  - "Ézéchiel 47"
 ---
 ## Exhortation spéciale d'août 2026
 

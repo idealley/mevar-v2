@@ -20,6 +20,7 @@ stream_url: "https://mevar.org/la-restitution/"
 bible_refs:
   - "Apocalypse 6"
   - "Joël 1:1-15"
+  - "Joël 2:25-27"
 ---
 Nous allons lire dans le livre de Joël, au premier chapitre. _La parole de l’Eternel qui fut adressée à Joël, fils de Pethuel. 2 Ecoutez ceci, vieillards ! Prêtez l’oreille, vous tous, habitants du pays ! Rien de pareil est-il arrivé de votre temps, Ou du temps de vos pères ? 3 Racontez-le à vos enfants, Et que vos enfants le racontent à leurs enfants, Et leurs enfants à la génération qui suivra ! 4 Ce qu’a laissé le gazam, la sauterelle l’a dévoré ; Ce qu’a laissé la sauterelle, le jélek l’a dévoré ; Ce qu’a laissé le jélek, le hasil l’a dévoré._
 

@@ -27,6 +27,7 @@ bible_refs:
   - "Exode 12:11"
   - "Genèse 11"
   - "Jean 3:19-21"
+  - "Luc 12"
   - "Luc 12:35"
   - "Luc 12:51"
   - "Luc 21:29-32"

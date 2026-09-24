@@ -18,7 +18,10 @@ ghost_id: "6448fa86db90770001518eef"
 uuid: "e43aecc2-1a63-4797-83fa-778a8ea0ccdd"
 stream_url: "https://mevar.org/le-fils-prodigue/"
 bible_refs:
+  - "1 Jean 5:19"
   - "1 Pierre 2"
+  - "2 Thessaloniciens 2"
+  - "Luc 15:11"
   - "Luc 17"
 ---
 Que Dieu nous bénisse! Nous remercions le Seigneur pour ce moment. Je garde un bon souvenir de mon passage ici l'année passée. Nous avons été bien reçus et nous avons gardé un bon souvenir de votre communauté. Ma prière c'est qu'on puisse se voir plus régulièrement, mais pour le moment, Dieu ne le permet pas, comme je suis très loin d'ici. Et généralement, je fais des tournées et je viens en Suisse une fois par année et ça fait maintenant un an que je suis passé par ici. Que Dieu soit béni! Et comme mon frère l'a dit, nous sommes heureux de rencontrer d'autres frères parce que le royaume de Dieu est grand. Amen. Le royaume de Dieu est très grand. Partout sur la terre, il y a des enfants de Dieu et il est toujours bien de nous rencontrer dans le Seigneur, surtout pour partager Sa Parole.

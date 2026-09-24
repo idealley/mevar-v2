@@ -33,8 +33,11 @@ themes:
   - "Réveil"
 llm_cleaned: true
 bible_refs:
+  - "1 Jean 1:5"
   - "Apocalypse 19"
   - "Deutéronome 28"
+  - "Luc 13:6-9"
+  - "Marc 11:11-14"
   - "Matthieu 22"
   - "Ésaïe 53"
 ---

@@ -18,6 +18,11 @@ ghost_id: "6448fa86db90770001518f13"
 uuid: "f7ac7fd3-70aa-4d98-9bd7-24b0fff3bb71"
 stream_url: "https://mevar.org/et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez/"
 bible_refs:
+  - "Actes 7"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14"
+  - "Malachie 3"
+  - "Malachie 3:1"
   - "Matthieu 24"
   - "Matthieu 25"
 ---

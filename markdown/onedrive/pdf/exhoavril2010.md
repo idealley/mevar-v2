@@ -41,6 +41,7 @@ bible_refs:
   - "Apocalypse 3:14-17"
   - "Apocalypse 3:18-19"
   - "Daniel 2:44-46"
+  - "Daniel 5"
   - "Daniel 5:1-7"
   - "Daniel 5:25-30"
   - "Jérémie 50:28"

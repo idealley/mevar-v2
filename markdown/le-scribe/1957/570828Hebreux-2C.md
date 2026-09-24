@@ -41,6 +41,7 @@ bible_refs:
   - "Genèse 1:26"
   - "Genèse 2:5"
   - "Hébreux 13:8"
+  - "Hébreux 2"
   - "Hébreux 2:1-3"
   - "Hébreux 2:15-16"
   - "Hébreux 2:17-18"

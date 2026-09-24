@@ -36,6 +36,7 @@ llm_cleaned: true
 bible_refs:
   - "Hébreux 12"
   - "Luc 6:43-45"
+  - "Proverbes 4:23"
 ---
 ## Les trésors du cœur
 

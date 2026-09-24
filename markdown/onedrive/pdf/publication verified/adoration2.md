@@ -54,13 +54,18 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "2 Timothée 4:9"
+  - "Actes 8:1"
   - "Actes 9"
   - "Galates 1:11-12"
+  - "Genèse 12:6"
   - "Genèse 22"
+  - "Genèse 26:12"
   - "Genèse 28"
   - "Genèse 35"
+  - "Job 38"
   - "Juges 13"
   - "Juges 6:11-24"
+  - "Matthieu 16"
   - "Matthieu 24:45"
   - "Éphésiens 1:15-18"
 ---

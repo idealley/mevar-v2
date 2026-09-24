@@ -18,6 +18,7 @@ ghost_id: "6448fa86db90770001518f27"
 uuid: "2909ca35-3155-4e22-8607-81dad4082d47"
 stream_url: "https://mevar.org/le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu/"
 bible_refs:
+  - "Galates 4"
   - "Galates 4:1"
   - "Hébreux 10:7"
   - "Hébreux 3"

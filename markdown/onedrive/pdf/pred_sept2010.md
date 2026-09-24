@@ -54,6 +54,7 @@ bible_refs:
   - "Matthieu 28"
   - "Nombres 16"
   - "Romains 13"
+  - "Romains 13:1"
 ---
 L'autorité spirituelle, prêché par le frère M'BRA Parfait
 

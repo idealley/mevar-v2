@@ -61,6 +61,7 @@ bible_refs:
   - "Galates 2:11-14"
   - "Genèse 9:20-23"
   - "Jean 18:10"
+  - "Joël 1"
   - "Luc 17"
   - "Luc 18"
   - "Luc 18:8"
@@ -70,6 +71,7 @@ bible_refs:
   - "Matthieu 16"
   - "Matthieu 19:21"
   - "Matthieu 24"
+  - "Matthieu 25"
   - "Romains 10:16-17"
   - "Ésaïe 55"
 ---

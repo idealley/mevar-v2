@@ -29,6 +29,7 @@ bible_refs:
   - "Jean 2:5"
   - "Luc 5:15"
   - "Luc 9"
+  - "Malachie 1"
   - "Malachie 3:17-18"
 ---
 ## Exhortation de mars 2018

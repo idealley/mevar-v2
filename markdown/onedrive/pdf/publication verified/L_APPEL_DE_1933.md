@@ -41,10 +41,12 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "2 Thessaloniciens 2"
+  - "Amos 3"
   - "Apocalypse 12"
   - "Apocalypse 19"
   - "Apocalypse 3"
   - "Apocalypse 6"
+  - "Apocalypse 7"
   - "Luc 1"
   - "Luc 21"
   - "Marc 13"

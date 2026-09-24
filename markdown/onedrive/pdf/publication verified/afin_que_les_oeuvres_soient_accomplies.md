@@ -50,7 +50,12 @@ mevar_match:
 llm_cleaned: true
 bible_refs:
   - "Jean 11"
+  - "Jean 11:1"
+  - "Jean 4"
+  - "Jean 9"
+  - "Job 42:1"
   - "Luc 1"
+  - "Luc 7:11"
   - "Malachie 4"
 ---
 # Afin que les œuvres de Dieu soient accomplies

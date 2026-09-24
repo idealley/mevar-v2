@@ -53,6 +53,7 @@ bible_refs:
   - "Matthieu 24:45-47"
   - "Matthieu 25:6"
   - "Nombres 14:27-29"
+  - "Nombres 17"
   - "Nombres 17:1-5"
   - "Nombres 17:7-10"
   - "Ésaïe 41:17-20"

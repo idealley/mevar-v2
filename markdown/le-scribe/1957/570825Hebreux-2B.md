@@ -59,6 +59,7 @@ bible_refs:
   - "Hébreux 11:10"
   - "Hébreux 1:1"
   - "Hébreux 1:13"
+  - "Hébreux 2"
   - "Hébreux 2:10"
   - "Hébreux 2:17"
   - "Hébreux 2:18"

@@ -43,6 +43,7 @@ bible_refs:
   - "Luc 10:19"
   - "Luc 11:21-22"
   - "Luc 9:1"
+  - "Marc 16"
   - "Marc 16:15-18"
   - "Matthieu 7"
   - "Matthieu 7:21-23"

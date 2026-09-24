@@ -18,10 +18,16 @@ ghost_id: "6448fa86db90770001518fa4"
 uuid: "d51d8326-b777-45dd-96fd-3cac0910495d"
 stream_url: "https://mevar.org/la-predication-de-la-croix-et-le-message-du-temps-de-la-fin/"
 bible_refs:
+  - "1 Corinthiens 1:17"
+  - "2 Pierre 1"
+  - "Galates 2:20"
   - "Galates 3:3"
   - "Marc 10"
   - "Marc 10:7-9"
+  - "Matthieu 13"
   - "Matthieu 24"
+  - "Matthieu 25"
+  - "Matthieu 27"
 ---
 Alors ce matin, je vais expliquer certaines choses. Il n’y a rien de nouveau, ce sont les mêmes choses que nous disons, mais on le dit de plusieurs manières pour que chacun de nous puisse comprendre. On se répète aussi parce que c’est important, c’est même le plus important. Que Dieu nous bénisse. Priez pour notre sœur Adrienne, la femme de notre frère Germain pour qu’elle soit vraiment consolée. Pour nous-mêmes, ce n’est pas facile car comme je vous l’ai dit, Germain est mon fils, donc c’est très difficile, on pleure en cachette. Donc priez pour que Dieu nous console. Moi j’en ai besoin, je vous le dis honnêtement parce que, quand je regarde l’œuvre de Dieu, c’est une grosse perte, c’est un grand vide. Le zèle et l’amour que le frère avait pour l’œuvre de Dieu et les frères sont irremplaçables. On ne sait pas comment les choses vont se passer, mais c’est Dieu qui sait. Vous savez dans l’œuvre de Dieu, l’amour pour les frères est très fort et c’est cela qui fait l’œuvre de Dieu. Ce n’est pas facile de trouver des gens qui aiment le Seigneur, qui aiment son œuvre, qui aiment les enfants de Dieu au point de se livrer et de se battre pour eux, comme David l’a fait pour les brebis de son père.
 

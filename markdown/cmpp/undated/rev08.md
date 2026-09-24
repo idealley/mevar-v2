@@ -57,9 +57,11 @@ bible_refs:
   - "Apocalypse 2"
   - "Apocalypse 21"
   - "Apocalypse 3"
+  - "Apocalypse 7"
   - "Daniel 12"
   - "Galates 1"
   - "Jean 10"
+  - "Jean 10:7"
   - "Jean 17"
   - "Jean 5"
   - "Marc 16"
@@ -67,6 +69,7 @@ bible_refs:
   - "Matthieu 16"
   - "Matthieu 28"
   - "Romains 2"
+  - "Romains 2:29"
   - "Romains 5"
 ---
 WILLIAM MARRION BRANHAM

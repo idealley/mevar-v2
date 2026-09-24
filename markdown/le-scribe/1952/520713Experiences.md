@@ -48,6 +48,7 @@ bible_refs:
   - "Actes 19"
   - "Actes 24:14"
   - "Actes 27:21"
+  - "Josué 1"
   - "Josué 1:5-6"
   - "Jérémie 1:4-5"
   - "Nombres 16:3"

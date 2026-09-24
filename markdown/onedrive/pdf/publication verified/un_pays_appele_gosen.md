@@ -44,6 +44,11 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 15"
   - "Exode 8"
+  - "Exode 8:16"
+  - "Exode 8:19"
+  - "Genèse 47"
+  - "Luc 1:13"
+  - "Malachie 4"
   - "Ésaïe 40"
 ---
 ## Un pays appelé Gosen

@@ -21,6 +21,7 @@ bible_refs:
   - "1 Corinthiens 15"
   - "2 Pierre 2"
   - "2 Pierre 2:9"
+  - "Actes 10"
   - "Actes 10:1-6"
   - "Actes 10:21-22"
   - "Apocalypse 14:13"
@@ -48,6 +49,7 @@ bible_refs:
   - "Matthieu 24"
   - "Matthieu 24:6-7"
   - "Matthieu 25:10"
+  - "Romains 1"
   - "Romains 8:13"
   - "Ésaïe 40:1-4"
 ---

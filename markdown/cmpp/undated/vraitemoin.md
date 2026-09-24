@@ -43,6 +43,7 @@ pdf_url: "http://cmpp.ch/vraitemoin.pdf"
 llm_cleaned: true
 bible_refs:
   - "1 Thessaloniciens 5"
+  - "2 Pierre 1"
   - "2 Pierre 3"
   - "Actes 1"
   - "Actes 2"
@@ -50,6 +51,7 @@ bible_refs:
   - "Apocalypse 11"
   - "Apocalypse 22"
   - "Genèse 18"
+  - "Genèse 19"
   - "Hébreux 13"
   - "Jean 14"
   - "Jean 5"
@@ -63,6 +65,7 @@ bible_refs:
   - "Matthieu 24"
   - "Ésaïe 13"
   - "Ésaïe 40"
+  - "Ésaïe 40:3"
   - "Ésaïe 43"
 ---
 JE SUIS UN VRAI TEMOIN

@@ -18,8 +18,10 @@ ghost_id: "6448fa86db90770001518eeb"
 uuid: "0007f7dd-cdcf-448e-99cb-2c8a4c1f864d"
 stream_url: "https://mevar.org/le-fruit-de-la-repentance/"
 bible_refs:
+  - "Actes 2:38"
   - "Apocalypse 6"
   - "Luc 17"
+  - "Luc 3:1"
   - "Matthieu 24"
 ---
 La question de la repentance est devenue un sujet de prière ces derniers temps en cellule et ce matin je voudrais qu’on en parle un peu plus. Normalement cela devrait être un sujet de révision pour nous tous. Amen ! Cela devrait être une révision, mais ce n’est pas une révision. Normalement, on est supposé savoir ce que c’est que la repentance. Mais quand je vais commencer à parler, que celui qui se sent indexé dans son cœur par l’Esprit ait le courage d’aller plus en avant devant Dieu pour se repentir. Amen !

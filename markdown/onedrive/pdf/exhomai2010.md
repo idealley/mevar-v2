@@ -60,6 +60,7 @@ bible_refs:
   - "Jean 15:18"
   - "Jean 16:33"
   - "Jean 19:5"
+  - "Jean 3"
   - "Jean 3:16"
   - "Jean 3:19"
   - "Jean 3:20-21"
