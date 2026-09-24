@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Checks web/dist/ after a full build: nothing that works on Ghost today
-// breaks (goal 03). Exits 1 on the first failed section's end.
+// breaks (goal 03). Runs every section, exits 1 if one failed.
 //
 //   node scripts/check-dist.mjs
 
@@ -82,9 +82,11 @@ for (const page of pages) {
   const html = fs.readFileSync(page, "utf8");
   for (const [, raw] of html.matchAll(/\shref="([^"]*)"/g)) {
     const href = raw.replaceAll("&amp;", "&");
-    if (!href.startsWith("/") || href.startsWith("//")) continue;
+    // Another scheme or host, or a fragment of the same page: not a file here.
+    if (/^([a-z][a-z0-9+.-]*:|\/\/|#|$)/i.test(href)) continue;
     hrefs++;
-    const p = href.replace(/[?#].*$/, "") || "/";
+    // A relative href resolves against the page's own URL, as a browser does.
+    const p = new URL(href, `https://mevar.org/${path.relative(dist, path.dirname(page))}/`).pathname;
     if (!known.has(p)) known.set(p, served(p) !== null);
     if (!known.get(p)) broken.push(`${path.relative(dist, page)} -> ${href}`);
   }
