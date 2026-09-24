@@ -4,7 +4,7 @@
 import { getCollection } from "astro:content";
 import { deriveKind } from "./utils";
 import ghostTags from "../../../manifests/mevar-tags.json";
-import ghostAuthors from "../../../manifests/mevar-authors.json";
+import { PREACHERS } from "../../../scripts/preachers.mjs";
 
 export type WorkEntry = Awaited<ReturnType<typeof getCollection<"works">>>[number];
 
@@ -140,11 +140,19 @@ export async function worksTagged(name: string): Promise<WorkEntry[]> {
   return all.filter((e) => isMevar(e) && e.data.tags?.includes(name));
 }
 
-// Name and slug only: the manifest also holds the authors' email addresses.
-export const authors = ghostAuthors.map(({ name, slug }) => ({ name, slug }));
+// ─── Preachers ───────────────────────────────────────────────────────────────
 
-/** Mevar works by a Ghost author, newest first. */
-export async function worksBy(name: string): Promise<WorkEntry[]> {
+export type Preacher = (typeof PREACHERS)[number];
+export { PREACHERS };
+
+/**
+ * A preacher's works, newest first: the Mevar ones, all of them for an
+ * archive preacher. Ghost posts name theirs in `authors`, the rest in `preacher`.
+ */
+export async function worksBy(p: Preacher): Promise<WorkEntry[]> {
   const all = await allWorks();
-  return all.filter((e) => isMevar(e) && e.data.authors?.includes(name));
+  return all.filter(
+    (e) => (p.archive || isMevar(e)) && (e.data.preacher === p.name || e.data.authors?.includes(p.name)),
+  );
 }
+
