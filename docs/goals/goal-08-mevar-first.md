@@ -64,11 +64,42 @@ Decided by Samuel (2026-09-24):
    stage that writes the frontmatter copies it. That stage omits the field
    instead; regenerate. The template needs no change.
 
+6. **One name per preacher.** The `preacher` field and the Ghost `authors`
+   hold 43 spellings of 13 people today (619 works for the founder alone,
+   13 spellings). The field is metadata, not the preacher's words: it is
+   rewritten; the bodies are not touched. `manifests/preachers.json`,
+   committed and edited by hand, gives each person a display name, a slug
+   and the variants seen; a pipeline step rewrites `preacher` from it
+   (idempotent, and a new import's variants are caught on the next run;
+   an unknown spelling fails the step instead of passing through). Titles
+   ("Fr", "Fr.", "Frère", "Pasteur") are not part of a name. Decided by
+   Samuel: given name first, as on the Ghost author pages.
+
+   | Display name | Variants seen (examples) |
+   | ------------ | ------------------------ |
+   | Parfait M'bra | M'BRA Parfait, Fr M'BRA Parfait, Frère M'BRA Parfait, Parfait M’BRA, Pasteur M'BRA Parfait, Parfait MBRA, M'Bra Parfait |
+   | William Branham | William Marrion Branham (81, CMPP) |
+   | André Kadjany | Fr. KADJANY André, Kadjany André, KADJANY YOBOUET ANDRE |
+   | Irié Anderson | IRIE ANDERSON, Frère IRIE Anderson, Anderson Irié |
+   | Pierre Kouadio | KOUADIO Pierre |
+   | Samuel Pouyt | Pouyt Samuel |
+   | Richard Schwéry | Richard SCHWERY, Fr. Richard SCHWERY |
+   | Ewald Frank, Alexis Barilier, Stéphane Pouyt, Christian Kayenga Kalubi, Nandy Noël Gbaha | unchanged |
+
+   Ask Samuel, do not guess: « frère KADJANY » (2 texts, is it André?),
+   « Frère DOUBBIN » and « Rigobert de Cotonou » (full names?).
+
+   **Author pages.** `/auteurs/` lists the Mevar preachers first, then under
+   « Archives » William Branham, Ewald Frank and Alexis Barilier, each with
+   `/auteurs/<slug>/` paginated at 60. The Ghost authors keep their slugs
+   (goal 03's redirects land on them). The search `preacher` filter reads the
+   same display names. Delete the follow-up « The same preacher under
+   several names » (added by goal 05) from `docs/follow-ups.md`.
+
 ## Scope out
 
 - Deduplication (goal 09), the editorial pass and promotion (goal 10).
-- The verse text, Strong's, cross-references. Normalising preacher names
-  (`docs/follow-ups.md`).
+- The verse text, Strong's, cross-references.
 
 ## Acceptance evidence
 
@@ -83,6 +114,12 @@ Decided by Samuel (2026-09-24):
   Samuel reported, 2026-09-24), the reference links to
   `/bible/ephesiens/4/#v13`. `/bible/jean/5/19/` exists and is
   paginated. The number of body references linked, and not linked, reported.
+- Every `preacher` value in `markdown/` is a display name of
+  `manifests/preachers.json` (a one-liner prints the distinct values: 13
+  or fewer, plus any Samuel adds); bodies untouched (`git diff` on
+  `markdown/` changes only `preacher:` lines and the "Unknown" fields).
+  The search filter lists the same names. `/auteurs/` shows the archive
+  preachers; `/auteurs/william-branham/` is paginated.
 - `grep -rl '"Unknown"' markdown/branham` is empty after regeneration, the
   script's second run is a no-op.
 - Goal 05's checks on the full build: `check:dist`, `check:limits` (file

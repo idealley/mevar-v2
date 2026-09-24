@@ -44,6 +44,10 @@ before Ghost is cancelled, not before the site goes live.
   the pass promotes it. Samuel approves each batch by reading a sample.
 - **Verse pages** list the works citing a verse; no Bible text on the site.
 - **PDF parsing:** LlamaParse or LiteParse where the extracted text is poor.
+- **Preacher names:** one display name per person, given name first
+  ("Parfait M'bra", "André Kadjany"), written into the `preacher` field
+  from a committed registry; the bodies keep what the transcript says.
+  The archive preachers (Branham, Frank, Barilier) get author pages.
 
 ## Rules for every goal
 
