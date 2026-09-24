@@ -6,18 +6,21 @@ import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
 import AstroPWA from "@vite-pwa/astro";
 import { rehypeBookmarks } from "./src/lib/bookmarks.mjs";
+import { rehypeBodyImages } from "./src/lib/body-images.mjs";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://mevar.org",
   trailingSlash: "always",
-  markdown: { rehypePlugins: [rehypeBookmarks] },
+  markdown: { rehypePlugins: [rehypeBookmarks, rehypeBodyImages] },
   integrations: [
     svelte(),
     sitemap(),
     AstroPWA({
       registerType: "autoUpdate",
-      includeAssets: ["favicon.svg", "favicon.ico", "brand/logo.svg", "brand/icon-192.png", "brand/icon-512.png"],
+      // What every page shows. The manifest icons are fetched by the browser
+      // when a reader installs the app, not precached (icon-512 is 85 KB).
+      includeAssets: ["favicon.svg", "favicon.ico", "brand/logo.svg"],
         manifest: {
           name: "Mevar",
           short_name: "Mevar",
@@ -34,16 +37,27 @@ export default defineConfig({
           ],
         },
         workbox: {
-          globPatterns: ["**/*.{js,css,html,svg,png,webp,woff2}"],
-          maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
+          // The shell only, and no JS: no page loads an island today, and an
+          // island's JS comes with the page that uses it. Pages and images
+          // are cached when a reader opens
+          // them, never in bulk: the full corpus is 3,000+ pages, and our
+          // readers are on metered phones.
+          globPatterns: ["_astro/*.css", "index.html", "hors-ligne/index.html"],
+          // The plugin defaults this to "/", which would answer every
+          // navigation with the home page once pages are not precached.
+          navigateFallback: null,
           runtimeCaching: [
             {
-              // Markdown work pages — cache-first for offline reading after first visit
-              urlPattern: ({ url }) => url.pathname.startsWith("/works/"),
+              // Every page a reader opens stays readable offline. A page never
+              // opened falls back to /hors-ligne/ when the network is down.
+              urlPattern: ({ request }) => request.mode === "navigate",
               handler: "StaleWhileRevalidate",
               options: {
                 cacheName: "works-pages",
                 expiration: { maxEntries: 500, maxAgeSeconds: 30 * 24 * 60 * 60 },
+                plugins: [
+                  { handlerDidError: async () => caches.match("/hors-ligne/", { ignoreSearch: true }) },
+                ],
               },
             },
             {

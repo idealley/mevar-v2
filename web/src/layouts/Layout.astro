@@ -6,24 +6,28 @@ interface Props {
   title?: string;
   description?: string;
   image?: string;
+  lang?: "fr" | "en";
 }
 
 const {
   title = "Mevar — Étude de la Parole pour le temps de la fin",
   description = "Bibliothèque numérique de prédications, exhortations, études bibliques et livres autour du message du temps de la fin.",
   image,
+  lang = "fr",
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
-<html lang="fr" class="h-full">
+<html lang={lang} class="h-full">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="icon" type="image/svg+xml" href="/brand/logo.svg" />
     <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <script is:inline defer src="/registerSW.js"></script>
     <meta name="theme-color" content="#1c1917" />
     <meta name="generator" content={Astro.generator} />
 
@@ -58,7 +62,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div class="md:col-span-2">
             <a href="/" class="flex items-center gap-2 mb-3">
-              <img src="/brand/logo.svg" alt="Mevar" class="h-8 w-auto" />
+              <img src="/brand/logo.svg" alt="Mevar" width="32" height="32" class="h-8 w-auto" />
               <span class="font-semibold text-lg tracking-tight">Mevar</span>
             </a>
             <p class="text-sm text-muted-foreground max-w-md">

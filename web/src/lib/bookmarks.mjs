@@ -51,13 +51,14 @@ export function rehypeBookmarks() {
       const slug = kids.length === 1 && a.tagName === "a" && String(a.properties.href).match(/^\/([a-z0-9-]+)\/$/)?.[1];
       const post = slug && posts.get(slug);
       if (!post) return node;
+      // Another post's title and summary: not this page's text for search.
       return el("aside", ["my-6"], [
         el("a", ["block", "rounded-lg", "border", "bg-card", "p-4", "hover:border-primary/50", "transition"], [
           el("span", ["block", "text-xs", "uppercase", "tracking-wide", "text-muted-foreground", "font-sans"], [txt("À lire aussi")]),
           el("span", ["block", "font-semibold", "mt-1"], [txt(post.title)]),
           ...(post.summary ? [el("span", ["block", "text-sm", "text-muted-foreground", "mt-1"], [txt(post.summary)])] : []),
         ], { href: `/${slug}/` }),
-      ]);
+      ], { dataPagefindIgnore: "" });
     });
   };
 }

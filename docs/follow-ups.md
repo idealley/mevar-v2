@@ -100,7 +100,7 @@ Those 3 are the place to start, because the right sermon is already known: `5306
 
 **Symptom**: `ERESOLVE`: `@vite-pwa/astro@1.2.0` peers `astro@^1 || … || ^5`, the project is on `astro@6.2.2`.
 
-**Fix**: upgrade or drop `@vite-pwa/astro`. Until then `npm install --legacy-peer-deps`.
+**Fix**: upgrade or drop `@vite-pwa/astro`. Since goal 05, `overrides` in `web/package.json` lets `@vite-pwa/astro` take the project's astro, so `npm ci` works on the Mac and in CI (npm 10 and 11); remove it when a release supports astro 6.
 
 ## Two stubborn embedding failures
 
@@ -129,15 +129,23 @@ node scripts/130-seed-strongs.mjs          # parses TAGNT + TAHOT, merges Strong
 
 See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + the 7 steps documented there.
 
-## No production deployment
+## The same preacher under several names
 
-Local-only today. Production checklist:
+**Status**: `preacher` has "William Branham" (2,123 works) and "William Marrion Branham" (81); "M'BRA Parfait" (116), "Fr M'BRA Parfait" (48) and "Frère M'BRA Parfait" (12), and the Ghost posts, which have no `preacher`, "Parfait M'bra" in `authors` (298). Since goal 05 the search filter by preacher lists each spelling as a separate preacher.
 
-- SurrealDB hosting (Fly.io single binary, or self-host VPS, or SurrealDB Cloud)
-- HTTPS termination
-- CORS configuration (Surreal v3 needs `--web-cors '*'` or specific origins for browser clients)
-- Backups schedule (export → S3 / B2 nightly)
-- Monitoring (logs, query performance, embedding API budget)
+**Fix**: normalise `preacher` in the pipeline stage that writes it (a frontmatter field, not the wording of a work), then rebuild.
+
+## Long search queries download megabytes
+
+**Status**: Pagefind loads one index chunk per word. Measured on the full build (goal 05): "Zachée sycomore" costs 226 KiB; a 13-word English sentence full of common words costs 2.7 MB. The chunks are already compressed. Quoting the phrase does not help.
+
+**Fix**: none obvious in Pagefind 1.5 (no stop words). Watch it once there is traffic; the search page is opt-in.
+
+## The first page a reader opens is not kept offline
+
+**Status**: the service worker installs during the first visit, after that page has loaded, so only the pages opened after it are kept in `works-pages`.
+
+**Fix**: if it matters, have the page ask the worker to cache `location.href` once it is active (a few lines in the registration).
 
 ## Cross-language linking
 
