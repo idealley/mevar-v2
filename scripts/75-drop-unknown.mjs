@@ -11,7 +11,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 const root = path.resolve(import.meta.dirname, "..");
-const UNKNOWN = /^unknown\b/i;
+const UNKNOWN = /^\s*unknown\b/i;
 const FIELDS = ["date", "location"];
 
 let values = 0;
@@ -32,7 +32,7 @@ for (const f of fs.readdirSync(path.join(root, "manifests")).filter((f) => /^bra
   if (changed) fs.writeFileSync(p, JSON.stringify(entries, null, 2));
 }
 
-const line = new RegExp(`^(?:${FIELDS.join("|")}): "unknown\\b.*\\n`, "gim");
+const line = new RegExp(`^(?:${FIELDS.join("|")}): "\\s*unknown\\b.*\\n`, "gim");
 for (const rel of fs.readdirSync(path.join(root, "markdown/branham"), { recursive: true })) {
   if (!rel.endsWith(".md")) continue;
   const p = path.join(root, "markdown/branham", rel);

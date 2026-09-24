@@ -21,6 +21,8 @@ for (const p of PREACHERS) for (const s of [p.name, ...p.variants]) NAME.set(key
 const unknown = new Set();
 const display = (s) => NAME.get(key(s)) ?? (unknown.add(s), s);
 const author = (s) => display(s) === s || unknown.add(s);
+// Our writers quote a value; YAML also reads it bare or in single quotes.
+const scalar = (v) => (v.startsWith('"') ? JSON.parse(v) : v.replace(/^'(.*)'$/, "$1"));
 
 const writes = [];
 
@@ -43,13 +45,9 @@ for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true 
   const text = fs.readFileSync(p, "utf8");
   const end = text.indexOf("\n---\n", 4) + 1;
   const fm = text.slice(0, end)
-    // Our writers quote it; YAML also reads it bare or in single quotes.
-    .replace(/^preacher: (.+)$/m, (_, v) => {
-      const spelling = v.startsWith('"') ? JSON.parse(v) : v.replace(/^'(.*)'$/, "$1");
-      return `preacher: ${JSON.stringify(display(spelling))}`;
-    })
+    .replace(/^preacher: (.+)$/m, (_, v) => `preacher: ${JSON.stringify(display(scalar(v)))}`)
     .replace(/^authors:\n((?: {2}- .*\n)+)/m, (block, list) => {
-      for (const a of list.match(/".*"/g)) author(JSON.parse(a));
+      for (const [, a] of list.matchAll(/^ {2}- (.+)$/gm)) author(scalar(a));
       return block;
     });
   if (fm !== text.slice(0, end)) writes.push([p, fm + text.slice(end)]);
