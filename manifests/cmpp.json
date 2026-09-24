@@ -6088,11 +6088,14 @@
   {
     "source": "cmpp",
     "sermon_id": "lc56",
-    "year": null,
-    "date": null,
-    "title": "lc56",
+    "year": 2005,
+    "date": "2005-01-01",
+    "title": "Lettre Circulaire 56",
     "pdf_url": "http://cmpp.ch/lc56.pdf",
-    "stream_url": null
+    "stream_url": null,
+    "subtitle": "Janvier 2005",
+    "location": "Krefeld",
+    "preacher": "Ewald Frank"
   },
   {
     "source": "cmpp",
@@ -9084,11 +9087,14 @@
   {
     "source": "cmpp",
     "sermon_id": "serie1no8",
-    "year": null,
-    "date": null,
-    "title": "serie1no8",
+    "year": 1965,
+    "date": "1965-01-24",
+    "title": "Les douleurs de l’enfantement",
     "pdf_url": "http://cmpp.ch/serie1no8.pdf",
-    "stream_url": null
+    "stream_url": null,
+    "subtitle": "24 janvier 1965, après-midi",
+    "location": "Ramada Inn, Phoenix, Arizona, U.S.A.",
+    "preacher": "William Branham"
   },
   {
     "source": "cmpp",
@@ -10748,11 +10754,14 @@
   {
     "source": "cmpp",
     "sermon_id": "serie4no6",
-    "year": null,
-    "date": null,
-    "title": "serie4no6",
+    "year": 1963,
+    "date": "1963-12-29",
+    "title": "L’original",
     "pdf_url": "http://cmpp.ch/serie4no6.pdf",
-    "stream_url": null
+    "stream_url": null,
+    "subtitle": "29 décembre 1963, soir",
+    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "preacher": "William Branham"
   },
   {
     "source": "cmpp",

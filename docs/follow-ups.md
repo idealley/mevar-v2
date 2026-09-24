@@ -94,12 +94,6 @@ Those 3 are the place to start, because the right sermon is already known: `5306
 
 **Fix**: a human pass over the 97, or model the summary→sermon relation as many-to-one on both sides.
 
-## Markdown files with no frontmatter
-
-**Status**: 10 files — `markdown/local/*.md` (2), 5 Le-Scribe files (`1950/500115Crois-tu`, `1962/620714Son-confus`, `1962/620623Perseverant`, `undated/5003xxDon&appel`, `undated/5602Combat-foi`) and 3 CMPP files (`undated/lc56`, `undated/serie1no8`, `undated/serie4no6`). Every script that patches frontmatter skips them, so they carry no metadata and no bible refs. With no `source`, the site takes them for articles: since goal 08 they are in the archive of `/publications/`, under their directory's source.
-
-**Fix**: run them through `64-add-frontmatter.mjs`, or drop them.
-
 ## Branham `date` frontmatter does not match the sermon id
 
 **Symptom**: `markdown/branham/1958/58-0501.md` has `date: "1955-01-29"` and `subtitle: "55-0129"`; `62-0704` has `date: "1965-01-17"`.

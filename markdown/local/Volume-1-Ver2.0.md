@@ -1,3 +1,37 @@
+---
+source: "local"
+sermon_id: "Volume-1-Ver2.0"
+title: "Surnaturelle : la vie de William Branham, volume I"
+subtitle: "Livre 1 : Le garçon et sa privation (1909-1933)"
+bible_refs:
+  - "1 Corinthiens 14"
+  - "1 Rois 18"
+  - "1 Timothée 2"
+  - "2 Chroniques 7"
+  - "2 Timothée 4"
+  - "Actes 9"
+  - "Apocalypse 1"
+  - "Daniel 10"
+  - "Deutéronome 4"
+  - "Exode 14"
+  - "Exode 3"
+  - "Genèse 15"
+  - "Jacques 5"
+  - "Jean 14"
+  - "Jean 15"
+  - "Jean 5"
+  - "Job 38"
+  - "Juges 13"
+  - "Luc 1"
+  - "Lévitique 9"
+  - "Marc 9"
+  - "Matthieu 11"
+  - "Matthieu 21"
+  - "Matthieu 28"
+  - "Psaumes 18"
+  - "Romains 13"
+  - "Ézéchiel 1"
+---
 
 
             Surnaturelle

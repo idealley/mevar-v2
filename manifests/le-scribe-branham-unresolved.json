@@ -7,18 +7,6 @@
     "candidates": []
   },
   {
-    "le_scribe": "le-scribe/1950/500115Crois-tu",
-    "title": null,
-    "subtitle": null,
-    "reason": "no frontmatter in the Le-Scribe file",
-    "candidates": [
-      {
-        "branham": "branham/1950/50-0115",
-        "title": "Believest Thou This?"
-      }
-    ]
-  },
-  {
     "le_scribe": "le-scribe/1952/520720Vie",
     "title": "Histoire de ma vie",
     "subtitle": "20.07.1952",
@@ -874,18 +862,6 @@
     ]
   },
   {
-    "le_scribe": "le-scribe/1962/620623Perseverant",
-    "title": null,
-    "subtitle": null,
-    "reason": "no frontmatter in the Le-Scribe file",
-    "candidates": [
-      {
-        "branham": "branham/1962/62-0623",
-        "title": "Perseverant"
-      }
-    ]
-  },
-  {
     "le_scribe": "le-scribe/1962/620630Pas-ainsi-au-debut",
     "title": "Au commencement, il n’en était pas ainsi",
     "subtitle": "65-0117",
@@ -898,18 +874,6 @@
       {
         "branham": "branham/1962/62-0630E",
         "title": "The Meanest Man In Santa Maria"
-      }
-    ]
-  },
-  {
-    "le_scribe": "le-scribe/1962/620714Son-confus",
-    "title": null,
-    "subtitle": null,
-    "reason": "no frontmatter in the Le-Scribe file",
-    "candidates": [
-      {
-        "branham": "branham/1962/62-0714",
-        "title": "The Uncertain Sound"
       }
     ]
   },
@@ -1249,16 +1213,16 @@
   },
   {
     "le_scribe": "le-scribe/undated/5003xxDon&appel",
-    "title": null,
-    "subtitle": null,
-    "reason": "no frontmatter in the Le-Scribe file",
+    "title": "Les dons et les appels sont sans repentance",
+    "subtitle": "Gifts and Callings Are Without Repentance",
+    "reason": "no date in the Le-Scribe id",
     "candidates": []
   },
   {
     "le_scribe": "le-scribe/undated/5602Combat-foi",
-    "title": null,
-    "subtitle": null,
-    "reason": "no frontmatter in the Le-Scribe file",
+    "title": "Combattre pour la foi",
+    "subtitle": "Contending for the Faith",
+    "reason": "no date in the Le-Scribe id",
     "candidates": []
   },
   {

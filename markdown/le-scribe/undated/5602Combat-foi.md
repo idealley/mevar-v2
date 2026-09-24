@@ -1,3 +1,18 @@
+---
+source: "le-scribe"
+sermon_id: "5602Combat-foi"
+title: "Combattre pour la foi"
+subtitle: "Contending for the Faith"
+year: 1956
+location: "Georgetown (Indiana)"
+preacher: "William Branham"
+pdf_url: "http://le-scribe.org/pdfiles/5602Combat-foi.pdf"
+bible_refs:
+  - "Actes 2"
+  - "Apocalypse 22:18"
+  - "Hébreux 13:8"
+  - "Jude 1:3"
+---
  Résumé de : “Combattre pour la foi” (février 1956)
  __________________________________
  COMBATTRE POUR LA FOI

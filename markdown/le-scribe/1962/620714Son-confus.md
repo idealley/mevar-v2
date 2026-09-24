@@ -1,3 +1,40 @@
+---
+source: "le-scribe"
+sermon_id: "620714Son-confus"
+title: "Un son confus"
+subtitle: "An Uncertain Sound"
+date: "1962-07-14"
+year: 1962
+location: "Spokane (Washington)"
+preacher: "William Branham"
+pdf_url: "http://le-scribe.org/pdfiles/620714Son-confus.pdf"
+bible_refs:
+  - "1 Corinthiens 11:27,29"
+  - "1 Corinthiens 14:8"
+  - "1 Pierre 3:20"
+  - "1 Rois 18:16-40"
+  - "1 Rois 18:36"
+  - "1 Timothée 4"
+  - "2 Rois 4"
+  - "Actes 13:2"
+  - "Actes 2:38"
+  - "Esther 1"
+  - "Genèse 22:15-18"
+  - "Hébreux 12:28"
+  - "Jean 10:4"
+  - "Jean 11:25-26"
+  - "Jean 14:12"
+  - "Jean 15:7"
+  - "Jean 5:19"
+  - "Jean 5:39"
+  - "Jean 6:54"
+  - "Jean 8:44"
+  - "Luc 17:28,30"
+  - "Marc 16:15,17-18"
+  - "Psaumes 1:3"
+  - "Zacharie 14:7"
+original: "branham/1962/62-0714"
+---
    _____________________________________________________
 
    UN SON CONFUS
