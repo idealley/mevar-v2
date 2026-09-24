@@ -44,9 +44,11 @@ The rest of this goal assumes the first option.
    published on the site. The two Ghost newsletters merge into it. No weekly
    letter, no segments by topic. Unlock event for a second list: Samuel
    writes a second kind of email.
-2. **Sending domain.** A subdomain (`lettre.mevar.org`), so its SPF and DKIM
-   records never collide with whatever serves `mevar.org` mail today. From:
-   `MEVAR <publications@lettre.mevar.org>`, reply-to a mailbox a human reads.
+2. **Sending domain.** A subdomain (`updates.mevar.org`, the one Samuel
+   created in the Resend account; decided 2026-09-24 over the planned
+   `lettre.mevar.org`), so its SPF and DKIM records never collide with
+   whatever serves `mevar.org` mail today. From:
+   `MEVAR <publications@updates.mevar.org>`, reply-to `contact@mevar.org`.
 3. **Signup.** `web/functions/api/subscribe.ts`, a Cloudflare Pages Function:
    validate the email, upsert the Resend contact with
    `{ origin, source: "site", consented_at }`, join the segment. Copy the
