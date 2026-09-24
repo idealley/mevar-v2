@@ -49,6 +49,9 @@ export function isMevar(e: WorkEntry): boolean {
   return source === "mevar" || ((source === "mevar-pdfs" || source === "onedrive") && !!editorial_pass);
 }
 
+/** Mevar first, then the archive, keeping the order within each (sort is stable). */
+const mevarFirst = (list: WorkEntry[]) => list.sort((a, b) => Number(isMevar(b)) - Number(isMevar(a)));
+
 /** The archive's sources, in the order the « Archives » block lists them. */
 export const ARCHIVE_SOURCES: Record<string, string> = {
   "mevar-pdfs": "PDF de la mission, non relus",
@@ -148,14 +151,15 @@ export type Preacher = (typeof PREACHERS)[number];
 export { PREACHERS };
 
 /**
- * A preacher's works, newest first: the Mevar ones, all of them for an
- * archive preacher. Ghost posts name theirs in `authors`, the rest in `preacher`.
+ * A preacher's works: the Mevar ones, all of them for an archive preacher,
+ * Mevar first, newest first. Ghost posts name theirs in `authors`, the rest in
+ * `preacher`.
  */
 export async function worksBy(p: Preacher): Promise<WorkEntry[]> {
   const all = await allWorks();
-  return all.filter(
+  return mevarFirst(all.filter(
     (e) => (p.archive || isMevar(e)) && (e.data.preacher === p.name || e.data.authors?.includes(p.name)),
-  );
+  ));
 }
 
 // ─── Verse pages ─────────────────────────────────────────────────────────────
@@ -192,7 +196,6 @@ export async function bibleChapters(): Promise<Map<string, Chapter>> {
       for (const list of lists) if (list.at(-1) !== e) list.push(e);
     }
   }
-  const mevarFirst = (list: WorkEntry[]) => list.sort((a, b) => Number(isMevar(b)) - Number(isMevar(a)));
   for (const c of map.values()) {
     mevarFirst(c.whole);
     c.verses.forEach(mevarFirst);

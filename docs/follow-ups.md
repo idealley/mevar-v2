@@ -54,11 +54,11 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Fix**: strip the furniture at the extraction stage, then rerun 66. Doing it in the normalizer would clean the manifest and leave the visible text broken.
 
-## The PDF texts have no recorded Bible refs
+## Footnote links to anchors that do not exist
 
-**Status**: 65 scans `mevar`, `onedrive`, `le-scribe`, `cmpp` and `local`, not `mevar-pdfs`. The 69 PDF texts are on no verse page and their references are not links (goal 08).
+**Status**: `check:dist` checks a link's page, not its `#fragment`. Codex's review of goal 08 found 32 fragments with no anchor, all from Ghost: 14 in `/qui-sera-enleve/` and 18 footnote links in `/le-jour-du-seigneur-4-et-les-tribulations/`. They predate goal 08.
 
-**Fix**: add `mevar-pdfs` to 65's sources and rerun 65 and 47 (a frontmatter change to 69 files).
+**Fix**: check fragments in `check:dist` against the target page's ids, then repair the two posts' footnote anchors (the text stays).
 
 ## `47` truncates `bible_refs` alphabetically at 50
 

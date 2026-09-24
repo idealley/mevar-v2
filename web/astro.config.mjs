@@ -25,7 +25,9 @@ const duplicateRedirects = {
       const rules = [];
       for (const rel of fs.readdirSync("../markdown", { recursive: true })) {
         if (!rel.endsWith(".md")) continue;
-        const target = fs.readFileSync(`../markdown/${rel}`, "utf8").match(/^duplicate_of: "(.+)"$/m)?.[1];
+        const text = fs.readFileSync(`../markdown/${rel}`, "utf8");
+        const frontmatter = text.slice(0, text.indexOf("\n---\n", 4));
+        const target = frontmatter.match(/^duplicate_of: ["']?([^"'\n]+)["']?$/m)?.[1];
         if (target) rules.push(`${workUrl(rel.slice(0, -".md".length))}  ${workUrl(target)}  301`);
       }
       fs.appendFileSync(new URL("_redirects", dir), `\n# ─── Duplicates (goal 09), generated at build ───\n${rules.join("\n")}\n`);

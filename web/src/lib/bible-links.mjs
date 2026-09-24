@@ -3,7 +3,8 @@
 // and 66 (English, Branham) recognise and record for this work in
 // manifests/bible-refs.json, so every link has its page and its anchor; the
 // text does not change, and a reference they do not recognise stays plain.
-// Runs on every work's body at build time.
+// Runs on every work's body at build time; not on a site page (a-propos…),
+// which is on no verse page.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -22,16 +23,19 @@ function href(ref) {
 
 export function rehypeBibleLinks() {
   return (tree, file) => {
+    if (file.data.astro.frontmatter.type === "page") return;
     const rel = path.relative(root, file.path);
     const refs = new Set(recorded[rel]);
     if (!refs.size) return;
     const citations = rel.startsWith("markdown/branham/") ? english : french;
 
-    // A text node becomes text and links. Citations in order, none inside another.
+    // A text node becomes text and links. Citations in order, none inside
+    // another; of two at the same place, the longer ("Luke 11th chapter and
+    // 24th verse" is Luke 11:24, not Luke 11).
     function link(text) {
       const nodes = [];
       let at = 0;
-      const found = [...citations(text)].filter((c) => refs.has(c.ref)).sort((a, b) => a.index - b.index);
+      const found = [...citations(text)].filter((c) => refs.has(c.ref)).sort((a, b) => a.index - b.index || b.text.length - a.text.length);
       for (const c of found) {
         if (c.index < at) continue;
         if (c.index > at) nodes.push({ type: "text", value: text.slice(at, c.index) });
@@ -47,10 +51,16 @@ export function rehypeBibleLinks() {
       return nodes;
     }
 
+    // Not inside a link the text already has: an <a> element, or inline HTML,
+    // where "<a href=…>" and "</a>" are raw nodes around the text.
     (function walk(node) {
+      let inRawLink = false;
       node.children = node.children.flatMap((child) => {
-        if (child.type === "text") return link(child.value);
-        // Not inside a link the text already has.
+        if (child.type === "raw") {
+          const tags = child.value.match(/<\/?a[\s>]/gi);
+          if (tags) inRawLink = !tags.at(-1).startsWith("</");
+        }
+        if (child.type === "text" && !inRawLink) return link(child.value);
         if (child.type === "element" && child.tagName !== "a") walk(child);
         return [child];
       });
