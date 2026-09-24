@@ -1,0 +1,161 @@
+---
+// The page of one work, whatever its source: /<slug>/ for a Ghost post,
+// /works/<source>/<path>/ for the rest.
+import Layout from "../layouts/Layout.astro";
+import { render } from "astro:content";
+import { Badge } from "$lib/components/ui/badge";
+import { formatDateFr, deriveKind } from "$lib/utils";
+import { allWorks, tags, workAt, workUrl, type WorkEntry } from "$lib/works";
+
+interface Props {
+  entry: WorkEntry;
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const fm = entry.data;
+const kind = deriveKind(fm);
+const date = formatDateFr((fm.date as string | null) ?? (fm.published_at as string | null));
+const pdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
+
+const series = fm.series
+  ? (await allWorks())
+      .filter((e) => e.data.series === fm.series)
+      .sort((a, b) => (a.data.series_part as number) - (b.data.series_part as number))
+  : [];
+const at = series.findIndex((e) => e.id === entry.id);
+const [previous, next] = [series[at - 1], series[at + 1]];
+
+// A Le-Scribe summary and the Branham sermon it summarizes.
+const original = fm.original ? await workAt(fm.original as string) : undefined;
+const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefined;
+---
+
+<Layout
+  title={`${fm.title ?? entry.id} · Mevar`}
+  description={fm.summary ?? undefined}
+  image={fm.local_image ? `/${fm.local_image}` : undefined}
+>
+  <article class="container mx-auto px-4 py-8 md:py-12 max-w-3xl">
+    <!-- Header -->
+    <header class="mb-8 pb-8 border-b">
+      <div class="flex flex-wrap gap-1 mb-3">
+        <Badge>{kind}</Badge>
+        {/* Ghost tags on a Ghost post link to their page; other sources' tags are their own. */}
+        {(fm.tags ?? []).slice(0, 5).map((t) => (
+          <Badge href={fm.source === "mevar" ? tags.get(t)?.url : undefined} variant="secondary">{t}</Badge>
+        ))}
+      </div>
+      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-2">{fm.title ?? entry.id}</h1>
+      {fm.subtitle && <p class="text-xl text-muted-foreground italic mb-4">{fm.subtitle}</p>}
+
+      <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-muted-foreground">
+        {fm.preacher && <span>par <strong class="text-foreground font-medium">{fm.preacher}</strong></span>}
+        {fm.location && <span>à {fm.location}</span>}
+        {date && <span>{date}</span>}
+        {fm.duration && <span>{fm.duration}</span>}
+      </div>
+
+      {fm.summary && (
+        <p class="mt-4 text-muted-foreground italic">{fm.summary}</p>
+      )}
+
+      {original && (
+        <p class="mt-4 text-sm">
+          Résumé de la prédication <a href={workUrl(original)} class="underline underline-offset-4">« {original.data.title} »</a> (texte original en anglais).
+        </p>
+      )}
+      {summaryFr && (
+        <p class="mt-4 text-sm">
+          Résumé en français : <a href={workUrl(summaryFr)} class="underline underline-offset-4">« {summaryFr.data.title} »</a>.
+        </p>
+      )}
+
+      {(pdf || fm.audio_url) && (
+        <div class="mt-4 flex flex-wrap gap-2">
+          {pdf && (
+            <a href={pdf} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              PDF
+            </a>
+          )}
+          {fm.audio_url && (
+            <a href={fm.audio_url} class="inline-flex items-center gap-2 text-sm font-medium border rounded-md px-3 py-1.5 hover:bg-accent transition">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+              Audio
+            </a>
+          )}
+        </div>
+      )}
+    </header>
+
+    {series.length > 1 && (
+      <nav class="mb-8 rounded-lg border bg-muted/30 p-4 text-sm" aria-label={`Série ${fm.series}`}>
+        <p class="font-semibold mb-2">Série : {fm.series}</p>
+        <ol class="list-decimal pl-5 space-y-1">
+          {series.map((e) => (
+            <li>
+              {e.id === entry.id
+                ? <strong aria-current="page">{e.data.title}</strong>
+                : <a href={workUrl(e)} class="underline underline-offset-4">{e.data.title}</a>}
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )}
+
+    <!-- Body -->
+    <div class="prose-reader text-lg leading-relaxed [&_p]:mb-4 [&_h2]:text-2xl [&_h2]:font-semibold [&_h2]:mt-8 [&_h2]:mb-4 [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3 [&_blockquote]:border-l-4 [&_blockquote]:border-primary [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-muted-foreground [&_blockquote]:my-4 [&_em]:italic [&_strong]:font-semibold">
+      <Content />
+    </div>
+
+    {(previous || next) && (
+      <nav class="mt-12 pt-8 border-t grid grid-cols-2 gap-4 text-sm" aria-label="Série">
+        <div>
+          {previous && (
+            <a href={workUrl(previous)} class="block hover:underline underline-offset-4">
+              <span class="text-muted-foreground">← Partie précédente</span><br />{previous.data.title}
+            </a>
+          )}
+        </div>
+        <div class="text-right">
+          {next && (
+            <a href={workUrl(next)} class="block hover:underline underline-offset-4">
+              <span class="text-muted-foreground">Partie suivante →</span><br />{next.data.title}
+            </a>
+          )}
+        </div>
+      </nav>
+    )}
+
+    <!-- Persons / places / themes -->
+    {(fm.persons?.length || fm.places?.length || fm.themes?.length) && (
+      <aside class="mt-12 pt-8 border-t space-y-4 text-sm">
+        {fm.persons?.length && (
+          <div>
+            <strong class="text-muted-foreground uppercase tracking-wide text-xs block mb-2">Personnes</strong>
+            <div class="flex flex-wrap gap-1">
+              {fm.persons.map((p) => <Badge variant="outline">{p}</Badge>)}
+            </div>
+          </div>
+        )}
+        {fm.places?.length && (
+          <div>
+            <strong class="text-muted-foreground uppercase tracking-wide text-xs block mb-2">Lieux</strong>
+            <div class="flex flex-wrap gap-1">
+              {fm.places.map((p) => <Badge variant="outline">{p}</Badge>)}
+            </div>
+          </div>
+        )}
+        {fm.themes?.length && (
+          <div>
+            <strong class="text-muted-foreground uppercase tracking-wide text-xs block mb-2">Thèmes</strong>
+            <div class="flex flex-wrap gap-1">
+              {fm.themes.map((t) => <Badge variant="outline">{t}</Badge>)}
+            </div>
+          </div>
+        )}
+      </aside>
+    )}
+  </article>
+</Layout>

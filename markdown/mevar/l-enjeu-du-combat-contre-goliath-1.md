@@ -98,7 +98,7 @@ Vraiment, vraiment
 
 ### Sur le même sujet
 
--   [David et Goliath](https://mevar.org/david-et-goliath)
+-   [David et Goliath](/david-et-goliath/)
 
 * * *
 

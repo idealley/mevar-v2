@@ -24,9 +24,9 @@ stream_url: "https://mevar.org/la-gloire-de-la-derniere-maison-2/"
 
 ### Sur le même sujet
 
--   [La grande trompette qui sonne](https://mevar.org/la-grande-trompette-qui-sonne)
--   [L'épreuve d'Anne](https://mevar.org/l-epreuve-d-anne-1)
--   [L'épreuve d'Anne](https://mevar.org/l-epreuve-d-anne-2)
--   [Les jugements de Dieu](https://mevar.org/les-jugements-de-dieu)
--   [Y a-t-il quelque chose d'Impossible à Dieu?](https://mevar.org/y-a-t-il-quelque-chose-d-impossible-a-dieu)
--   [Manger le Sacrifice](https://mevar.org/manger-le-sacrifice)
+-   [La grande trompette qui sonne](/la-grande-trompette-qui-sonne/)
+-   [L'épreuve d'Anne](/l-epreuve-d-anne-1/)
+-   [L'épreuve d'Anne](/l-epreuve-d-anne-2/)
+-   [Les jugements de Dieu](/les-jugements-de-dieu/)
+-   [Y a-t-il quelque chose d'Impossible à Dieu?](/y-a-t-il-quelque-chose-d-impossible-a-dieu/)
+-   [Manger le Sacrifice](/manger-le-sacrifice/)

@@ -216,7 +216,7 @@ Mon âme est à Jésus Bis
 
 ### Sur le même sujet
 
--   [L’ Univers de la révélation](https://mevar.org/l-univers-de-la-revelation-deuxieme-partie) - deuxième partie
+-   [L’ Univers de la révélation](/l-univers-de-la-revelation-deuxieme-partie/) - deuxième partie
 
 * * *
 

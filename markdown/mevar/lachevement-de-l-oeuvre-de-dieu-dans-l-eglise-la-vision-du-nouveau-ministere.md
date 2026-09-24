@@ -125,7 +125,7 @@ Ne prendra pas part à cette nouvelle œuvre, qui le voudra, mais bien ceux et c
 
 ### Souvenons-nous des paroles du commencement
 
-Bien-aimés, n’oublions pas ce que nous avons entendu dès le départ par la prédication prophétique. Nous avons entendu parler de la [Lèpre de Nahaman](https://mevar.org/la-lepre-de-nahaman/), des Fils du désert, de [Préparez la guerre](https://mevar.org/reveillez-vous-et-preparez-la-guerre/), [Des jours du Saint-Esprit](https://mevar.org/aux-jours-du-saint-esprit/) et de beaucoup d’autres prédications prophétiques qui s’accomplissent maintenant au milieu de nous. **Nous devons savoir faire la part des choses et comprendre que Dieu ne nous traitera pas d’une autre manière que de la façon dont Il nous a parlé**. C’est le temps de la séparation d’avec le monde et le péché. **C’est le temps de chercher à gagner le cœur de Dieu par les décisions que nous prenons**. Que Sa grâce et Sa paix soient sur nous, et en avant pour le nouveau Ministère, en avant pour la nouvelle œuvre de Dieu.
+Bien-aimés, n’oublions pas ce que nous avons entendu dès le départ par la prédication prophétique. Nous avons entendu parler de la [Lèpre de Nahaman](/la-lepre-de-nahaman/), des Fils du désert, de [Préparez la guerre](/reveillez-vous-et-preparez-la-guerre/), [Des jours du Saint-Esprit](/aux-jours-du-saint-esprit/) et de beaucoup d’autres prédications prophétiques qui s’accomplissent maintenant au milieu de nous. **Nous devons savoir faire la part des choses et comprendre que Dieu ne nous traitera pas d’une autre manière que de la façon dont Il nous a parlé**. C’est le temps de la séparation d’avec le monde et le péché. **C’est le temps de chercher à gagner le cœur de Dieu par les décisions que nous prenons**. Que Sa grâce et Sa paix soient sur nous, et en avant pour le nouveau Ministère, en avant pour la nouvelle œuvre de Dieu.
 
 **En Christ, notre Seigneur**
 
@@ -141,4 +141,8 @@ Bien-aimés, n’oublions pas ce que nous avons entendu dès le départ par la 
 
 ### Prédications individuelles :
 
-[Le nouveau ministèreGloire à Dieu. Gloire au Seigneur Jésus-Christ. Que Dieu nous bénisse. Ce matin, je voudrais dire certaines choses concernant l’avenir de l’œuvre de Dieu. Ce sont des déclarations qu’on a eu à faire çà et là mais, ce matin, je vais être plus précis et plus clairMEVARParfait M’bra](https://mevar.org/le-nouveau-ministere/)[Le nouveau ministère — deuxième partieGloire à Dieu. On va lire Ézéchiel 47. Dimanche passé, j’étais sous l’onction de la prophétie donc j’ai dû parler directement. En venant à l’Église, j’avais pris des notes et quand j’étais assis là, cette onction est venue donc j’ai dû parler directementMEVARParfait M’bra](https://mevar.org/le-nouveau-ministere-deuxieme-partie/)[La terre est menacéeQue Dieu soit béni. Nous allons lire dans Ésaïe chapitre 65 à partir du verset 17 : 17 Car je vais créer de nouveaux cieux Et une nouvelle terre ; On ne se rappellera plus les choses passées, Elles ne reviendront plus à l’esprit.18 Réjouissez-vous plutôt et soyez à toujours dansMEVARParfait M’bra](https://mevar.org/la-terre-est-menacee/)
+[Le nouveau ministère](/le-nouveau-ministere/)
+
+[Le nouveau ministère — deuxième partie](/le-nouveau-ministere-deuxieme-partie/)
+
+[La terre est menacée](/la-terre-est-menacee/)

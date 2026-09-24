@@ -1,28 +1,39 @@
 ---
+import type { Page } from "astro";
 import WorkCard from "./WorkCard.astro";
 import type { WorkEntry } from "$lib/works";
 
 interface Props {
-  entries: WorkEntry[];
+  page: Page<WorkEntry>;
   title: string;
   description?: string;
 }
 
-const { entries, title, description } = Astro.props;
+const { page, title, description } = Astro.props;
 ---
 
 <section class="container mx-auto px-4 py-10">
   <header class="mb-8 max-w-2xl">
     <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-2">{title}</h1>
     {description && <p class="text-muted-foreground">{description}</p>}
-    <p class="text-sm text-muted-foreground mt-2">{entries.length.toLocaleString("fr-FR")} document{entries.length > 1 ? "s" : ""}</p>
+    <p class="text-sm text-muted-foreground mt-2">
+      {page.total.toLocaleString("fr-FR")} document{page.total > 1 ? "s" : ""}
+      {page.lastPage > 1 && <span>, page {page.currentPage} sur {page.lastPage}</span>}
+    </p>
   </header>
 
-  {entries.length === 0 ? (
+  {page.total === 0 ? (
     <p class="text-muted-foreground">Aucun document pour le moment.</p>
   ) : (
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {entries.map((entry) => <WorkCard entry={entry} />)}
+      {page.data.map((entry) => <WorkCard entry={entry} />)}
     </div>
+  )}
+
+  {page.lastPage > 1 && (
+    <nav class="flex justify-between mt-10 text-sm font-medium" aria-label="Pagination">
+      {page.url.prev ? <a href={page.url.prev} class="text-primary hover:underline">← Page précédente</a> : <span />}
+      {page.url.next ? <a href={page.url.next} class="text-primary hover:underline">Page suivante →</a> : <span />}
+    </nav>
   )}
 </section>

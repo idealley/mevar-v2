@@ -27,6 +27,6 @@ Suite de la série sur la conquête de Canaan: La prise de Jéricho et ensuite c
 
 ### Sur le même sujet
 
--   [Le Passage du Jourdain](https://mevar.org/le-passage-du-jourdain-laconquete-du-pays-de-canaan)
--   [La Circoncision](https://mevar.org/la-circoncision-conquete-du-pays-de-canaan)
--   [La Ruse des Gabaonites](https://mevar.org/la-ruse-des-gabaonites-la-conquete-du-pays-de-canaan)
+-   [Le Passage du Jourdain](/le-passage-du-jourdain-laconquete-du-pays-de-canaan/)
+-   [La Circoncision](/la-circoncision-conquete-du-pays-de-canaan/)
+-   [La Ruse des Gabaonites](/la-ruse-des-gabaonites-la-conquete-du-pays-de-canaan/)

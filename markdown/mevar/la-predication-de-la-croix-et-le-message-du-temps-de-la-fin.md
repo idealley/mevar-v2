@@ -177,11 +177,11 @@ Si ce n’est pas le cas, cela veut dire qu’on a un problème. On n’a pas en
 
 ### Sur le même sujet
 
--   [Le réveil de la Fin des Temps selon William Branham](https://mevar.org/le-reveil-de-la-fin-des-temps-selon-william-branham)
--   [Le petit troupeau de la fin des temps](https://mevar.org/le-petit-troupeau-de-la-fin-des-temps)
--   [Les croyants du Message du Temps de la Fin comme les disciples de Jean-Baptiste](https://mevar.org/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste)
--   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (1)](https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-1)
--   [Un message de la fin des temps pour une foi de la fin des temps](https://mevar.org/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps)
+-   [Le réveil de la Fin des Temps selon William Branham](/le-reveil-de-la-fin-des-temps-selon-william-branham/)
+-   [Le petit troupeau de la fin des temps](/le-petit-troupeau-de-la-fin-des-temps/)
+-   [Les croyants du Message du Temps de la Fin comme les disciples de Jean-Baptiste](/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste/)
+-   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (1)](/les-freres-jumeaux-du-message-du-temps-de-la-fin-1/)
+-   [Un message de la fin des temps pour une foi de la fin des temps](/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps/)
 
 * * *
 

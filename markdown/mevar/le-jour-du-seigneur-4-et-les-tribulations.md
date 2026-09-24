@@ -341,17 +341,17 @@ Que Dieu soit béni. Le jour du Seigneur c’est aussi notre jour donc on doit s
 
 * * *
 
-[\[1\]](#_ftnref1) [Ceux de la grande tribulatio- première partie](https://mevar.org/ceux-de-la-grande-tribulation/) / [Ceux de la grande tribulation - deuxième partie](https://mevar.org/ceux-de-la-grande-tribulation-deuxieme-partie/)
+[\[1\]](#_ftnref1) [Ceux de la grande tribulatio- première partie](/ceux-de-la-grande-tribulation/) / [Ceux de la grande tribulation - deuxième partie](/ceux-de-la-grande-tribulation-deuxieme-partie/)
 
-[\[2\]](#_ftnref2) [Jour du Seigneur 1](https://mevar.org/le-jour-du-seigneur-1/)
+[\[2\]](#_ftnref2) [Jour du Seigneur 1](/le-jour-du-seigneur-1/)
 
-[\[3\]](#_ftnref3) [Jour du Seigneur 2](https://mevar.org/le-jour-du-seigneur-il-viendra-comme-un-voleur/)
+[\[3\]](#_ftnref3) [Jour du Seigneur 2](/le-jour-du-seigneur-il-viendra-comme-un-voleur/)
 
-[\[4\]](#_ftnref4) [Jour du Seigneur 3](https://mevar.org/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin/)
+[\[4\]](#_ftnref4) [Jour du Seigneur 3](/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin/)
 
-[\[5\]](#_ftnref5) [Et soudain entrera dans son temple le seigneur que vous cherchez](https://mevar.org/et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez/)
+[\[5\]](#_ftnref5) [Et soudain entrera dans son temple le seigneur que vous cherchez](/et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez/)
 
-[\[6\]](#_ftnref6) [Notre génération verra la guerre](https://mevar.org/notre-generation-verra-la-guerre/)
+[\[6\]](#_ftnref6) [Notre génération verra la guerre](/notre-generation-verra-la-guerre/)
 
 [\[7\]](#_ftnref7) 7 octobre 2023
 
@@ -361,4 +361,10 @@ Que Dieu soit béni. Le jour du Seigneur c’est aussi notre jour donc on doit s
 
 * * *
 
-[Le jour du Seigneur (1)Prêché à koumassi, le 29 octobre 2023 On va lire plusieurs écritures juste pour nous donner l’idée essentielle. On peut lire dans 2 Thessaloniciens chapitre 2 à partir du 1er verset : 1Pour ce qui concerne l’avènement de notre Seigneur Jésus-Christ et notre réunion avec lui, nous vous prions, frères,MEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-1/)[Le jour du Seigneur (2) - Il viendra comme un voleurPrêché à Koumassi, le 29 octobre 2023 On va commencer la lecture dans Mathieu au chapitre 24 à partir du verset 36. C’est Jésus qui parle à ses disciples et à nous tous : 36 Pour ce qui est du jour et de l’heure, personne ne le sait, ni lesMEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-il-viendra-comme-un-voleur/)[Le jour du Seigneur (3) - Et le Message du Temps de la FinPrêché à Koumassi, le 12 novembre 2023 Nous allons lire dans Malachie 4, le texte qu’on a déjà lu. Ce matin, c’est la troisième étape mais c’est pour parler du jour et du message, essayer de réexpliquer ce que le message fait par rapport au jour duMEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin/)[La position de l’archange Michel au jour du Seigneur (Partie 5)On va aborder le sujet sur le jour de l’archange Michel. On va lire d’abord dans Daniel 12. Vous allez voir combien de fois la bible, la Parole de Dieu, est claire. Comme je le disais la dernière fois, la différence entre la bible et les autres livres,MEVARParfait M’bra](https://mevar.org/la-position-de-larchange-michel-au-jour-du-seigneur-partie-5/)
+[Le jour du Seigneur  (1)](/le-jour-du-seigneur-1/)
+
+[Le jour du Seigneur (2) - Il viendra comme un voleur](/le-jour-du-seigneur-il-viendra-comme-un-voleur/)
+
+[Le jour du Seigneur (3) - Et le Message du Temps de la Fin](/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin/)
+
+[La position de l’archange Michel au jour du Seigneur (Partie 5)](/la-position-de-larchange-michel-au-jour-du-seigneur-partie-5/)

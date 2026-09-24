@@ -215,7 +215,7 @@ Je vais m’arrêter là. S’il y a d’autres notions, nous aurons le temps de
 
 ### Sur le même sujet
 
--   [La prédication de la croix et le Message du temps de la fin](https://mevar.org/la-predication-de-la-croix-et-le-message-du-temps-de-la-fin)
+-   [La prédication de la croix et le Message du temps de la fin](/la-predication-de-la-croix-et-le-message-du-temps-de-la-fin/)
 
 * * *
 

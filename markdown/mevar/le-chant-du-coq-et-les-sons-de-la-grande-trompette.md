@@ -333,4 +333,4 @@ Missionnaire**
 
 * * *
 
-[Le départ du serviteur fidèle et prudent à la maison et la dernière action de l’EspritExhortation de Frère M’BRA Parfait : un appel à la sérénité et à la foi après le décès d’Ewald Frank, en honorant les ministères de William Branham et Alexis Barilier.MEVARParfait M’bra](https://mevar.org/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit/)
+[Le départ du serviteur fidèle et prudent à la maison et la dernière action de l'Esprit](/le-depart-du-serviteur-fidele-et-prudent-a-la-maison-et-la-derniere-action-de-lesprit/)

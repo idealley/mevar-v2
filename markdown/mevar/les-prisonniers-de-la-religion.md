@@ -165,7 +165,7 @@ C’est un symbole. C’est pour nous exhorter à la délivrance ; nous exhorter
 
 ### Sur le même sujet
 
--   [Les libérateurs du peuple de Dieu](https://mevar.org/les-liberateurs-du-peuple-de-dieu)
+-   [Les libérateurs du peuple de Dieu](/les-liberateurs-du-peuple-de-dieu/)
 
 * * *
 

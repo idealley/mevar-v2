@@ -128,12 +128,12 @@ Après la parabole du juge inique Jésus se demande s’il trouvera la foi sur l
 
 ### Sur le même sujet
 
--   [La Foi d'Enoch](https://mevar.org/la-foi-d-enoch)
--   [Un message de la fin des temps pour une foi de la fin des temps](https://mevar.org/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps)
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine)
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine-deuxieme-partie)
--   [L'objet de la foi](https://mevar.org/l-objet-de-la-foi)
--   [L'élection par les oeuvres de la foi \[audio\]](https://mevar.org/l-election-par-les-oeuvres-de-la-foi)
+-   [La Foi d'Enoch](/la-foi-d-enoch/)
+-   [Un message de la fin des temps pour une foi de la fin des temps](/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps/)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine/)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine-deuxieme-partie/)
+-   [L'objet de la foi](/l-objet-de-la-foi/)
+-   [L'élection par les oeuvres de la foi \[audio\]](/l-election-par-les-oeuvres-de-la-foi/)
 
 * * *
 

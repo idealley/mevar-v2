@@ -21,4 +21,4 @@ stream_url: "https://mevar.org/appel-a-la-victoire-audio/"
 
 ### Sur le même sujet
 
--   [L’ Appel à la victoire](https://mevar.org/l-appel-a-la-victoire)
+-   [L’ Appel à la victoire](/l-appel-a-la-victoire/)

@@ -185,8 +185,8 @@ Vous êtes de puissants vainqueurs, vous êtes vainqueurs. Alléluia ! Vous ête
 
 ### Sur le même sujet
 
--   [La vision du bon Berger](https://mevar.org/la-vision-du-bon-berger)
--   [Seigneur, Je te suivrai, partout ou tu iras](https://mevar.org/seigneur-je-te-suivrai--partout-ou-tu-iras)
+-   [La vision du bon Berger](/la-vision-du-bon-berger/)
+-   [Seigneur, Je te suivrai, partout ou tu iras](/seigneur-je-te-suivrai-partout-ou-tu-iras/)
 
 * * *
 

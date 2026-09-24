@@ -134,9 +134,9 @@ Prions ensemble.
 
 ### Sur le même sujet
 
--   [La Foi voit l’invisible](https://mevar.org/la-foi-voit-l-invisible)
--   [La Foi d'Enoch](https://mevar.org/la-foi-d-enoch)
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine-deuxieme-partie)
+-   [La Foi voit l’invisible](/la-foi-voit-l-invisible/)
+-   [La Foi d'Enoch](/la-foi-d-enoch/)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine-deuxieme-partie/)
 
 * * *
 

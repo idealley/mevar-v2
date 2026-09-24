@@ -174,11 +174,5 @@ Que Dieu nous bénisse.
 
 ### Sur le même sujet
 
--   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (2)](https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-2)
--   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (3)](https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-3)
-
-* * *
-
-### Télécharger le document
-
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/JUMEAUX1%20.pdf)
+-   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (2)](/les-freres-jumeaux-du-message-du-temps-de-la-fin-2/)
+-   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (3)](/les-freres-jumeaux-du-message-du-temps-de-la-fin-3/)

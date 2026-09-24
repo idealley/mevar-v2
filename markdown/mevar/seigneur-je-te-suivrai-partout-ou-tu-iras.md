@@ -131,8 +131,8 @@ Mes bien-aimés frères et sœurs, serviteurs de Jésus-Christ, voulons-nous sui
 
 ### Sur le même sujet
 
--   [La vision du bon Berger](https://mevar.org/la-vision-du-bon-berger)
--   [Convention Nationale de Réveil](https://mevar.org/convention-nationale-de-reveil)
+-   [La vision du bon Berger](/la-vision-du-bon-berger/)
+-   [Convention Nationale de Réveil](/convention-nationale-de-reveil/)
 
 * * *
 

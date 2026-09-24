@@ -119,7 +119,7 @@ J’espère qu’on peut entrer dans la nouvelle année avec ces paroles. **L’
 
 ### Sur le même sujet
 
--   [L’épreuve de Moïse](https://mevar.org/l-epreuve-de-moise)
+-   [L’épreuve de Moïse](/l-epreuve-de-moise/)
 
 * * *
 

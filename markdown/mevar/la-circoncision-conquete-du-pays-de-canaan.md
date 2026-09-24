@@ -25,6 +25,6 @@ Première vidéo d'une petite série sur la conquête du pays de Canaan. Cette s
 
 ### Sur le même sujet
 
--   [La Ruse des Gabaonites](https://mevar.org/la-ruse-des-gabaonites-la-conquete-du-pays-de-canaan)
--   [La bataille de Jéricho](https://mevar.org/la-bataille-de-jericho-la-conquete-du-pays-de-canaan)
--   [Le Passage du Jourdain](https://mevar.org/le-passage-du-jourdain-laconquete-du-pays-de-canaan)
+-   [La Ruse des Gabaonites](/la-ruse-des-gabaonites-la-conquete-du-pays-de-canaan/)
+-   [La bataille de Jéricho](/la-bataille-de-jericho-la-conquete-du-pays-de-canaan/)
+-   [Le Passage du Jourdain](/le-passage-du-jourdain-laconquete-du-pays-de-canaan/)

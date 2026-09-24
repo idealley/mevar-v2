@@ -282,4 +282,4 @@ Abidjan, le 08 Février 2009
 
 Pasteur **KADJANY Yobouët**
 
-[Le royaume de DieuComprendre ses principes et son fonctionnement Le Royaume de Dieu ou encore le Royaume des cieux est un projet essentiel du Seigneur Jésus-Christ qu’il a accompli en venant sur la terre. Il est venu avec le salut pour les hommes, mais ce salut n’est pas en dehors duMEVARAndré Kadjany](https://mevar.org/le-royaume-de-dieu/)
+[Le royaume de Dieu](/le-royaume-de-dieu/)

@@ -26,10 +26,10 @@ stream_url: "https://mevar.org/l-epreuve-d-anne-1/"
 
 ### Sur le même sujet
 
--   [L'épreuve d'Anne](https://mevar.org/l-epreuve-d-anne-2)
--   [On l’appellera Samuel](https://mevar.org/on-l-appellera-samuel)
--   [La guerre du Dragon contre le Fils de l’Eglise](https://mevar.org/la-guerre-du-dragon-contre-le-fils-de-l-eglise)
--   [La gloire de la dernière maison](https://mevar.org/la-gloire-de-la-derniere-maison-2)
--   [La gloire de la dernière maison](https://mevar.org/la-gloire-de-la-derniere-maison-1)
--   [Les jugements de Dieu](https://mevar.org/les-jugements-de-dieu)
--   [Y a-t-il quelque chose d'Impossible à Dieu?](https://mevar.org/y-a-t-il-quelque-chose-d-impossible-a-dieu)
+-   [L'épreuve d'Anne](/l-epreuve-d-anne-2/)
+-   [On l’appellera Samuel](/on-l-appellera-samuel/)
+-   [La guerre du Dragon contre le Fils de l’Eglise](/la-guerre-du-dragon-contre-le-fils-de-l-eglise/)
+-   [La gloire de la dernière maison](/la-gloire-de-la-derniere-maison-2/)
+-   [La gloire de la dernière maison](/la-gloire-de-la-derniere-maison-1/)
+-   [Les jugements de Dieu](/les-jugements-de-dieu/)
+-   [Y a-t-il quelque chose d'Impossible à Dieu?](/y-a-t-il-quelque-chose-d-impossible-a-dieu/)

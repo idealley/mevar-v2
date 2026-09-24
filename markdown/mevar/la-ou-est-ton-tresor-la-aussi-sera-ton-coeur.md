@@ -138,8 +138,8 @@ Que Dieu nous bénisse. J’ai voulu compléter ce matin pour que cela reste dan
 
 ### Sur le même sujet
 
--   [Néhuschtan : le serpent d'airain](https://mevar.org/nehuschtan-le-serpent-d-airain)
--   [Là où est ton trésor, là aussi sera ton cœur](https://mevar.org/la-ou-est-ton-tresor-la-aussi-sera-ton-c%C5%93ur)
+-   [Néhuschtan : le serpent d'airain](/nehuschtan-le-serpent-d-airain/)
+-   [Là où est ton trésor, là aussi sera ton cœur](/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur/)
 
 * * *
 

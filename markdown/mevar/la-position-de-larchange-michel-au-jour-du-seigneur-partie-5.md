@@ -266,4 +266,10 @@ Que Dieu nous bénisse.
 
 * * *
 
-[Le jour du Seigneur (4) - Et les tribulationsGloire à Dieu. On va commencer dans Mathieu 24 à partir du verset 15 : 15 C’est pourquoi, lorsque vous verrez l’abomination de la désolation, dont a parlé le prophète Daniel, établie en lieu saint, -que celui qui lit fasse attention ! -16 alors, que ceux qui seront en Judée fuient dansMEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-4-et-les-tribulations/)[Le jour du Seigneur (3) - Et le Message du Temps de la FinPrêché à Koumassi, le 12 novembre 2023 Nous allons lire dans Malachie 4, le texte qu’on a déjà lu. Ce matin, c’est la troisième étape mais c’est pour parler du jour et du message, essayer de réexpliquer ce que le message fait par rapport au jour duMEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin/)[Le jour du Seigneur (2) - Il viendra comme un voleurPrêché à Koumassi, le 29 octobre 2023 On va commencer la lecture dans Mathieu au chapitre 24 à partir du verset 36. C’est Jésus qui parle à ses disciples et à nous tous : 36 Pour ce qui est du jour et de l’heure, personne ne le sait, ni lesMEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-il-viendra-comme-un-voleur/)[Le jour du Seigneur (1)Prêché à koumassi, le 29 octobre 2023 On va lire plusieurs écritures juste pour nous donner l’idée essentielle. On peut lire dans 2 Thessaloniciens chapitre 2 à partir du 1er verset : 1Pour ce qui concerne l’avènement de notre Seigneur Jésus-Christ et notre réunion avec lui, nous vous prions, frères,MEVARParfait M’bra](https://mevar.org/le-jour-du-seigneur-1/)
+[Le jour du Seigneur (4) - Et les tribulations](/le-jour-du-seigneur-4-et-les-tribulations/)
+
+[Le jour du Seigneur (3) - Et le Message du Temps de la Fin](/le-jour-du-seigneur-3-et-le-message-du-temps-de-la-fin/)
+
+[Le jour du Seigneur (2) - Il viendra comme un voleur](/le-jour-du-seigneur-il-viendra-comme-un-voleur/)
+
+[Le jour du Seigneur  (1)](/le-jour-du-seigneur-1/)

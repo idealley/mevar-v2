@@ -22,6 +22,6 @@ stream_url: "https://mevar.org/la-victoire-sur-babylone/"
 
 ### Sur le même sujet
 
--   [L’ Appel à sortir de Babylone](https://mevar.org/l-appel-a-sortir-de-babylone)
--   [Appel à la victoire\[Audio\]](https://mevar.org/appel-a-la-victoire-audio)
--   [L’ Appel à la victoire](https://mevar.org/l-appel-a-la-victoire)
+-   [L’ Appel à sortir de Babylone](/l-appel-a-sortir-de-babylone/)
+-   [Appel à la victoire\[Audio\]](/appel-a-la-victoire-audio/)
+-   [L’ Appel à la victoire](/l-appel-a-la-victoire/)

@@ -14,7 +14,9 @@ Living list of stuff we know about and have decided to defer, with enough contex
   - `Un%20peuple%20de%20sacrificateurs.pdf` in `un-peuple-de-sacrificateurs`
   - `LES%20PLEURS%20ET%20LES%20GRINCEMENTS%20DE%20DENTS.pdf` in `des-pleurs-et-des-grincements-de-dents`
 
-**Fix**: Samuel finds the files (OneDrive, Ghost admin), drops them in `images/mevar/` and `files/mevar/`, and points the links at them; or the links go.
+Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le document" heading above them): they pointed at a file that no longer exists. `pdf_download` still records each URL.
+
+**Fix**: Samuel finds the files (OneDrive, Ghost admin) and drops them in `images/mevar/` and `files/mevar/`; the PDFs then get `local_pdf` next to `pdf_download`, and the work page shows the PDF button.
 
 ## Branham text the restoration could not reach
 

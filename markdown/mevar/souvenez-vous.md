@@ -134,7 +134,7 @@ Fr. M'BRA Parfait
 
 ### Sur le même sujet
 
--   [L' Appel de 1933](https://mevar.org/l-appel-de-1933)
+-   [L' Appel de 1933](/l-appel-de-1933/)
 
 * * *
 

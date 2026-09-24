@@ -139,11 +139,5 @@ Que Dieu nous bénisse, que sa grâce et sa paix soient sur nous. Je vous donne 
 
 ### Sur le même sujet
 
--   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (1)](https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-1)
--   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (3)](https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-3)
-
-* * *
-
-### Télécharger le document
-
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/JUMEAUX%202.pdf)
+-   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (1)](/les-freres-jumeaux-du-message-du-temps-de-la-fin-1/)
+-   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (3)](/les-freres-jumeaux-du-message-du-temps-de-la-fin-3/)

@@ -177,4 +177,8 @@ Voyez, quand le Seigneur a dû entrer en scène, comme je l’ai dit tout à l�
 
 * * *
 
-[Le nouveau ministèreGloire à Dieu. Gloire au Seigneur Jésus-Christ. Que Dieu nous bénisse. Ce matin, je voudrais dire certaines choses concernant l’avenir de l’œuvre de Dieu. Ce sont des déclarations qu’on a eu à faire çà et là mais, ce matin, je vais être plus précis et plus clairMEVARParfait M’bra](https://mevar.org/le-nouveau-ministere/)[Le nouveau ministère — deuxième partieGloire à Dieu. On va lire Ézéchiel 47. Dimanche passé, j’étais sous l’onction de la prophétie donc j’ai dû parler directement. En venant à l’Église, j’avais pris des notes et quand j’étais assis là, cette onction est venue donc j’ai dû parler directementMEVARParfait M’bra](https://mevar.org/le-nouveau-ministere-deuxieme-partie/)[L’achèvement de l’œuvre de Dieu dans l’ÉgliseLa vision du nouveau ministère Je suis l’Éternel, ton Dieu, Qui soulève la mer et fais mugir ses flots. L’Éternel des armées est son nom. Je mets mes paroles dans ta bouche, Et je te couvre de l’ombre de ma main, Pour étendre de nouveaux cieux et fonder une nouvelleMEVARParfait M’bra](https://mevar.org/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere/)
+[Le nouveau ministère](/le-nouveau-ministere/)
+
+[Le nouveau ministère — deuxième partie](/le-nouveau-ministere-deuxieme-partie/)
+
+[L’achèvement de l'œuvre de Dieu dans l'Église](/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere/)

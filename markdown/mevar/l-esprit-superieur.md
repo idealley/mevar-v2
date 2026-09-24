@@ -74,4 +74,4 @@ Fr M’BRA Parfait
 
 * * *
 
-[L’Arche et les adorateursQue Dieu nous bénisse ! On va écouter la parole de Dieu. Amen ! Et on remercie aussi le Seigneur pour ce temps d’adoration. Amen ! Il faut adorer le Seigneur, lui être reconnaissant pour tout ce qu’Il fait pour nous. Est-ce qu’il y a des gens qui sont làMEVARParfait M’bra](https://mevar.org/larche-et-les-adorateurs/)
+[L’Arche et les adorateurs](/larche-et-les-adorateurs/)

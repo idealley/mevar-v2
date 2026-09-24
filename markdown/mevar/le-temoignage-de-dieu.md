@@ -123,8 +123,8 @@ Le cri de Minuit est venu pour que nous sortions de ce lot de gens séduits qui 
 
 ### Sur le même sujet
 
--   [Le témoignage des apôtres \[audio\]](https://mevar.org/le-temoignage-des-apotres)
--   [Le témoignage de deux est vrai](https://mevar.org/le-temoignage-de-deux-est-vrai)
+-   [Le témoignage des apôtres \[audio\]](/le-temoignage-des-apotres/)
+-   [Le témoignage de deux est vrai](/le-temoignage-de-deux-est-vrai/)
 
 * * *
 

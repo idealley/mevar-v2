@@ -333,9 +333,3 @@ La consécration à notre époque est très importante et elle n’est pas à la
 Nous sommes ce peuple de sacrificateurs, ce peuple de lévites choisis par et pour Dieu. C’est nous qui allons témoigner pour Dieu sur cette terre et c’est nous qui allons bénéficier de la préparation de l’Eglise durant ces sept âges. Nous avons une grande responsabilité et une grande mission qui nous attendent. Comme nous l’avons vu, ces grandes responsabilité et mission viennent avec une grande consécration. Nous avons vu celle de Moïse et celle de Jésus. Nous allons manifester Jésus sur cette terre, comment serait-il possible que nous échappions à la préparation qu’ils ont vécue? Que Dieu nous aide et nous conduise.
 
 Pouyt Samuel
-
-* * *
-
-### Télécharger le document
-
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Un%20peuple%20de%20sacrificateurs.pdf)

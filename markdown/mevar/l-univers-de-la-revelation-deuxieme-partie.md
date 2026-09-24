@@ -148,7 +148,7 @@ On est dans une onction frères, n’oubliez pas cela. Et cette onction dans laq
 
 ### Sur le même sujet
 
--   [L’Univers de la révélation](https://mevar.org/l-univers-de-la-revelation)
+-   [L’Univers de la révélation](/l-univers-de-la-revelation/)
 
 * * *
 

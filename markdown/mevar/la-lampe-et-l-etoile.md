@@ -21,4 +21,4 @@ stream_url: "https://mevar.org/la-lampe-et-l-etoile/"
 
 ### Sur le même sujet
 
--   [Avoir l'intelligence éveillée](https://mevar.org/avoir-l-intelligence-eveillee)
+-   [Avoir l'intelligence éveillée](/avoir-l-intelligence-eveillee/)

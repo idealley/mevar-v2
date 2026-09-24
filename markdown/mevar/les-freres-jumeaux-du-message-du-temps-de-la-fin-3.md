@@ -141,11 +141,5 @@ Je vous donne rendez-vous pour une quatrième séance parce que le Saint-Esprit 
 
 ### Sur le même sujet
 
--   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (1)](https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-1)
--   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (2)](https://mevar.org/les-freres-jumeaux-du-message-du-temps-de-la-fin-2)
-
-* * *
-
-### Télécharger le document
-
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/JUMEAUX%203.pdf)
+-   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (1)](/les-freres-jumeaux-du-message-du-temps-de-la-fin-1/)
+-   [Les frères jumeaux du Message du Temps de la Fin \[audio\] (2)](/les-freres-jumeaux-du-message-du-temps-de-la-fin-2/)

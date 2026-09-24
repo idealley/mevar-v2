@@ -25,8 +25,8 @@ stream_url: "https://mevar.org/l-oeuvre-de-la-femme-dans-l-eglise-2/"
 
 ### Sur le même sujet
 
--   [La position de la femme \[audio\]](https://mevar.org/la-position-de-la-femme-premiere-partie)
--   [La Position de la femme \[audio\] (2)](https://mevar.org/la-position-de-la-femme-deuxieme-partie)
--   [La position de la femme \[audio\] (3)](https://mevar.org/la-position-de-la-femme-troisieme-partie)
--   [L'oeuvre de la femme dans l'église \[audio\] (1)](https://mevar.org/l-oeuvre-de-la-femme-dans-l-eglise-1)
--   [La femme de Sunem \[audio\]](https://mevar.org/la-femme-de-sunem)
+-   [La position de la femme \[audio\]](/la-position-de-la-femme-premiere-partie/)
+-   [La Position de la femme \[audio\] (2)](/la-position-de-la-femme-deuxieme-partie/)
+-   [La position de la femme \[audio\] (3)](/la-position-de-la-femme-troisieme-partie/)
+-   [L'oeuvre de la femme dans l'église \[audio\] (1)](/l-oeuvre-de-la-femme-dans-l-eglise-1/)
+-   [La femme de Sunem \[audio\]](/la-femme-de-sunem/)

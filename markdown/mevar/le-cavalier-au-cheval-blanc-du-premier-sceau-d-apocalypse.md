@@ -28,7 +28,7 @@ bible_refs:
 ---
 ## Premier Sceau
 
-[J’ai annoncé une série d’enseignements](https://mevar.org/articles/l-appel-a-sortir-de-babylone) que nous allons commencer ce matin, sur le message des 7 sceaux. C’est en relation avec le combat spirituel que nous menons et aussi avec l’œuvre de Dieu dans notre génération. Ce sont des enseignements très importants et pour vous en montrer l’importance, j’ai tiré une prophétie qui a été donnée en 1916, avant l’ouverture des 7 sceaux. C’est un document que nous avons lu il y a déjà quelques années en arrière. Pour certains c’est une révision. J’ai aussi partagé deux documents qui parlent de la prophétie de Charles Price et du message que j’ai reçu ici à la chaire quand on priait à la veillée. Après il y a également une sœur qui a été visitée et qui a reçu un message dans le même sens. Les documents sont disponibles pour ceux qui n’en ont pas eu.
+[J’ai annoncé une série d’enseignements](/l-appel-a-sortir-de-babylone/) que nous allons commencer ce matin, sur le message des 7 sceaux. C’est en relation avec le combat spirituel que nous menons et aussi avec l’œuvre de Dieu dans notre génération. Ce sont des enseignements très importants et pour vous en montrer l’importance, j’ai tiré une prophétie qui a été donnée en 1916, avant l’ouverture des 7 sceaux. C’est un document que nous avons lu il y a déjà quelques années en arrière. Pour certains c’est une révision. J’ai aussi partagé deux documents qui parlent de la prophétie de Charles Price et du message que j’ai reçu ici à la chaire quand on priait à la veillée. Après il y a également une sœur qui a été visitée et qui a reçu un message dans le même sens. Les documents sont disponibles pour ceux qui n’en ont pas eu.
 
 Quand on priait ici lors de la veillée, j’ai reçu un message et je vous ai dit que **le Seigneur ne veut plus que nous soyons de simples hommes dans nos familles, mais qu’on prenne la position de sauveur**. Que nous ne soyons plus des accusateurs, des gens qui sont toujours en train de chercher la petite bête, dévoiler des sorciers ou sorcières, ceux qui sont à la base de nos problèmes. Ça c’est une position d’accusation, ce n’est pas juste. Il faut prendre la position de prière, d’intercesseur, de sauveur dans sa famille, car nous sommes arrivés à la fin des temps, et il faut sauver ceux qu’on peut sauver. Si vous savez que Dieu vous a délivrés de l’enfer et des ténèbres, vous ne pouvez pas souhaiter que l’un de vos parents se retrouve là-bas ! Ce serait vraiment difficile. Donc l’amour du Seigneur nous commande de sauver nos parents des liens démoniaques, des alliances qui ont été tissées, des adorations ou des cultes païens qu’ils ont eus avant, dans les temps d’ignorance. Une fois que ces alliances sont contractées, les esprits jouent là-dessus.C’est la tromperie de Satan.
 
@@ -193,11 +193,11 @@ Les enfants d’Israël ont commis cette erreur, et cette même erreur a été c
 
 ### Sur le même sujet
 
--   [L’ Appel à sortir de Babylone](https://mevar.org/l-appel-a-sortir-de-babylone)
--   [Le Cheval Roux et le Cheval Noir](https://mevar.org/le-cheval-roux-et-le-cheval-noir)
--   [Le Cavalier au Cheval Pâle: La Mort](https://mevar.org/le-cavalier-au-cheval-pale-la-mort)
--   [Le quatrième, cinquième et sixème sceaux](https://mevar.org/le-quatrieme-cinquieme-et-sixeme-sceaux)
--   [Le septième sceau](https://mevar.org/le-septieme-sceau)
+-   [L’ Appel à sortir de Babylone](/l-appel-a-sortir-de-babylone/)
+-   [Le Cheval Roux et le Cheval Noir](/le-cheval-roux-et-le-cheval-noir/)
+-   [Le Cavalier au Cheval Pâle: La Mort](/le-cavalier-au-cheval-pale-la-mort/)
+-   [Le quatrième, cinquième et sixème sceaux](/le-quatrieme-cinquieme-et-sixeme-sceaux/)
+-   [Le septième sceau](/le-septieme-sceau/)
 
 * * *
 

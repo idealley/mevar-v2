@@ -7,7 +7,11 @@
 /authors/              /auteurs/                 301
 /authors               /auteurs/                 301
 /authors/:slug/        /auteurs/:slug/           301
-/sitemap/              /sitemap.xml              301
+/sitemap/              /sitemap-index.xml        301
+/sitemap.xml           /sitemap-index.xml        301
+
+# Ghost's feed URL; readers are subscribed to it. Served, not redirected.
+/rss/                  /rss/index.xml            200
 
 # ─── Tag pages now grouped under /themes/ ───────────────────────────────────
 # Geographic / location tags (Ghost stored at root /<slug>/)
@@ -15,7 +19,7 @@
 /benin/                /themes/benin/            301
 /biasso/               /themes/biasso/           301
 /bouake/               /themes/bouake/           301
-/burkina-fasso/        /themes/burkina-faso/     301
+/burkina-fasso/        /themes/burkina-fasso/    301
 /cote-divoire/         /themes/cote-divoire/     301
 /congo-brazzaville/    /themes/congo-brazzaville/ 301
 /cotonou/              /themes/cotonou/          301
@@ -48,9 +52,9 @@
 /le-combat-spirituel/  /themes/le-combat-spirituel/ 301
 /le-message-des-sept-sceaux/ /themes/le-message-des-sept-sceaux/ 301
 /les-complots-de-satan/ /themes/les-complots-de-satan/ 301
-/les-signes-dun-ministere-ou-dune-oeuvre-authentique-de-dieu/ /themes/les-signes-d-un-ministere-authentique/ 301
+/les-signes-dun-ministere-ou-dune-oeuvre-authentique-de-dieu/ /themes/les-signes-dun-ministere-ou-dune-oeuvre-authentique-de-dieu/ 301
 /video/                /themes/video/            301
-/y-a-t-il-quelque-chose-dimpossible-a-dieu/ /themes/y-a-t-il-quelque-chose-d-impossible-a-dieu/ 301
+/y-a-t-il-quelque-chose-dimpossible-a-dieu/ /themes/y-a-t-il-quelque-chose-dimpossible-a-dieu/ 301
 
 # Year tags
 /2004/                 /annees/2004/             301
@@ -73,11 +77,12 @@
 /2022/                 /annees/2022/             301
 /2023/                 /annees/2023/             301
 /2024/                 /annees/2024/             301
+/2026/                 /annees/2026/             301
 
 # Month tags
 /janvier/              /themes/janvier/          301
+/aout/                 /themes/aout/             301
 /novembre/             /themes/novembre/         301
 
-# ─── Posts: KEEP at root URLs (no redirect; serve directly via [slug].astro)
-# 325 mevar post slugs continue to resolve at https://mevar.org/<slug>/
-# Implemented via /src/pages/[mevarslug].astro (TODO).
+# ─── Posts keep their root URL (no redirect): mevar.org/<slug>/ is served by
+# src/pages/[slug].astro. scripts/check-dist.mjs checks every target above.

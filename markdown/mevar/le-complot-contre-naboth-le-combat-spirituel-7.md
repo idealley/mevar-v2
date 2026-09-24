@@ -25,10 +25,10 @@ stream_url: "https://mevar.org/le-complot-contre-naboth-le-combat-spirituel-7/"
 
 ### Sur le même sujet
 
--   [Complots contre Jérémie \[audio\] (8)](https://mevar.org/complots-contre-jeremie-les-complots-de-satan-8)
--   [Complots contre l'église de Corinthe \[audio\] (6)](https://mevar.org/complots-contre-corinthe-les-complots-de-satain-6)
--   [Le complot de procès \[audio\] (5)](https://mevar.org/le-complot-de-proces)
--   [Le complot contre le nom de Jésus \[audio\] (3)](https://mevar.org/le-complot-contre-le-nom-de-jesus-3)
--   [Le complot contre les apôtres à Jérusalem \[audio\] (4)](https://mevar.org/le-complot-contre-les-apotres-a-jerusalem)
--   [Les complots de Satan \[audio\] (2)](https://mevar.org/les-complots-de-satan-2)
--   [Les complots de Satan \[audio\] (1)](https://mevar.org/les-complots-de-satan-1)
+-   [Complots contre Jérémie \[audio\] (8)](/complots-contre-jeremie-les-complots-de-satan-8/)
+-   [Complots contre l'église de Corinthe \[audio\] (6)](/complots-contre-corinthe-les-complots-de-satain-6/)
+-   [Le complot de procès \[audio\] (5)](/le-complot-de-proces/)
+-   [Le complot contre le nom de Jésus \[audio\] (3)](/le-complot-contre-le-nom-de-jesus-3/)
+-   [Le complot contre les apôtres à Jérusalem \[audio\] (4)](/le-complot-contre-les-apotres-a-jerusalem/)
+-   [Les complots de Satan \[audio\] (2)](/les-complots-de-satan-2/)
+-   [Les complots de Satan \[audio\] (1)](/les-complots-de-satan-1/)

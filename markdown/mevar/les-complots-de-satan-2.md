@@ -25,12 +25,12 @@ stream_url: "https://mevar.org/les-complots-de-satan-2/"
 
 ### Sur le même sujet
 
--   [La position de la femme \[audio\]](https://mevar.org/la-position-de-la-femme-premiere-partie)
--   [La Position de la femme \[audio\] (2)](https://mevar.org/la-position-de-la-femme-deuxieme-partie)
--   [La position de la femme \[audio\] (3)](https://mevar.org/la-position-de-la-femme-troisieme-partie)
--   [L'oeuvre de la femme dans l'église \[audio\] (1)](https://mevar.org/l-oeuvre-de-la-femme-dans-l-eglise-1)
--   [L'oeuvre de la femme dans l'église \[audio\] (2)](https://mevar.org/l-oeuvre-de-la-femme-dans-l-eglise-2)
--   [La position du mari \[audio\] (1)](https://mevar.org/la-position-du-mari-1)
--   [La position du mari \[audio\] (2)](https://mevar.org/la-position-du-mari-2)
--   [Les serviteurs et maîtres \[audio\]](https://mevar.org/les-serviteurs-et-maitres)
--   [Les complots de Satan \[audio\] (1)](https://mevar.org/les-complots-de-satan-1)
+-   [La position de la femme \[audio\]](/la-position-de-la-femme-premiere-partie/)
+-   [La Position de la femme \[audio\] (2)](/la-position-de-la-femme-deuxieme-partie/)
+-   [La position de la femme \[audio\] (3)](/la-position-de-la-femme-troisieme-partie/)
+-   [L'oeuvre de la femme dans l'église \[audio\] (1)](/l-oeuvre-de-la-femme-dans-l-eglise-1/)
+-   [L'oeuvre de la femme dans l'église \[audio\] (2)](/l-oeuvre-de-la-femme-dans-l-eglise-2/)
+-   [La position du mari \[audio\] (1)](/la-position-du-mari-1/)
+-   [La position du mari \[audio\] (2)](/la-position-du-mari-2/)
+-   [Les serviteurs et maîtres \[audio\]](/les-serviteurs-et-maitres/)
+-   [Les complots de Satan \[audio\] (1)](/les-complots-de-satan-1/)

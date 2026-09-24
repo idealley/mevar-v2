@@ -207,10 +207,10 @@ Quand tu lis et comprend mieux les versets de la Bible qui parlent de toi, je pe
 
 ### Sur le même sujet
 
--   [Une porte ouverte](https://mevar.org/une-porte-ouverte)
--   [Le Processus de la maturation du fils de l’Église](https://mevar.org/le-processus-de-la-maturation-du-fils-de-l-eglise)
--   [Ceux de la grande tribulation](https://mevar.org/ceux-de-la-grande-tribulation)
--   [Ceux de la grande tribulation](https://mevar.org/ceux-de-la-grande-tribulation-deuxieme-partie)
+-   [Une porte ouverte](/une-porte-ouverte/)
+-   [Le Processus de la maturation du fils de l’Église](/le-processus-de-la-maturation-du-fils-de-l-eglise/)
+-   [Ceux de la grande tribulation](/ceux-de-la-grande-tribulation/)
+-   [Ceux de la grande tribulation](/ceux-de-la-grande-tribulation-deuxieme-partie/)
 
 * * *
 

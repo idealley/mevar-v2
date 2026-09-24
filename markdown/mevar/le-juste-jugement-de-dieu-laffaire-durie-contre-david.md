@@ -196,4 +196,4 @@ Notre souhait et notre vœu est que Dieu rassemble Son peuple. Mais Il ne le fer
 
 * * *
 
-[Le Soldat UrieExhortation d’avril 2014 Mes bien-aimés frères et sœurs, je voudrais vous saluer dans le précieux nom de notre Seigneur et Sauveur Jésus-Christ qui est mort pour nous à la croix. Nous sommes reconnaissants au Seigneur pour Son amour qu’Il manifeste tous les jours dans notre vie et dans laMEVARParfait M’bra](https://mevar.org/le-soldat-urie/)
+[Le Soldat Urie](/le-soldat-urie/)

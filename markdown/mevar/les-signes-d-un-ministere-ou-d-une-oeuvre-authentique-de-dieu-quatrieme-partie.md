@@ -198,9 +198,9 @@ Il y a des frères du message qui ne l’ont pas encore compris. Ils se disent q
 
 ### Sur le même sujet
 
--   [Les signes d’une œuvre ou d’un Ministère authentique de Dieu](https://mevar.org/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie)
--   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie)
--   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](https://mevar.org/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie)
+-   [Les signes d’une œuvre ou d’un Ministère authentique de Dieu](/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie/)
+-   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie/)
+-   [Les signes d’un Ministère ou d’une œuvre authentique de Dieu](/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie/)
 
 * * *
 

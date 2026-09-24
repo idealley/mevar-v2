@@ -10,9 +10,12 @@
     "dev:all": "astro dev",
     "build": "NODE_OPTIONS='--max-old-space-size=8192' astro build",
     "preview": "astro preview",
+    "check:dist": "node scripts/check-dist.mjs",
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
     "@astrojs/svelte": "^8.1.0",
     "@tailwindcss/vite": "^4.2.4",
     "@vite-pwa/astro": "^1.2.0",

@@ -169,12 +169,12 @@ Vous voyez ! Dieu a fait pousser ce ricin en un jour, en une nuit. C’est du ja
 
 ### Sur le même sujet
 
--   [Y a-t-il quelque chose d'Impossible à Dieu?](https://mevar.org/y-a-t-il-quelque-chose-d-impossible-a-dieu)
--   [L'épreuve d'Anne](https://mevar.org/l-epreuve-d-anne-1)
--   [L'épreuve d'Anne](https://mevar.org/l-epreuve-d-anne-2)
--   [La gloire de la dernière maison](https://mevar.org/la-gloire-de-la-derniere-maison-2)
--   [La gloire de la dernière maison](https://mevar.org/la-gloire-de-la-derniere-maison-1)
--   [Les animaux, instruments dans les mains de Dieu](https://mevar.org/les-animaux-instruments-dans-les-mains-de-dieu)
+-   [Y a-t-il quelque chose d'Impossible à Dieu?](/y-a-t-il-quelque-chose-d-impossible-a-dieu/)
+-   [L'épreuve d'Anne](/l-epreuve-d-anne-1/)
+-   [L'épreuve d'Anne](/l-epreuve-d-anne-2/)
+-   [La gloire de la dernière maison](/la-gloire-de-la-derniere-maison-2/)
+-   [La gloire de la dernière maison](/la-gloire-de-la-derniere-maison-1/)
+-   [Les animaux, instruments dans les mains de Dieu](/les-animaux-instruments-dans-les-mains-de-dieu/)
 
 * * *
 

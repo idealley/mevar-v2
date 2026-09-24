@@ -26,7 +26,7 @@ bible_refs:
   - "Apocalypse 7"
   - "Jérémie 51"
 ---
-J’ai déjà donné quelques enseignements concernant Babylone, mais il y a longtemps de cela. L’église aussi se renouvelle, donc il est bon que nous revenions là-dessus. **L’appel à sortir de Babylone** est le sujet sur lequel nous allons nous entretenir ce matin, parce que c’est en lien avec le message que nous avons reçu. Il y a beaucoup qui viennent ici, qui ne comprennent pas. Souvent je reviens là-dessus pour amener les uns et les autres à bien comprendre, à bien saisir les choses. Donc de temps en temps, il est bien de revenir sur ce sujet. Il y a aussi d’autres prédications concernant ce sujet qui sont disponibles sur le site : [www.mevar.org](http://www.mevar.org).
+J’ai déjà donné quelques enseignements concernant Babylone, mais il y a longtemps de cela. L’église aussi se renouvelle, donc il est bon que nous revenions là-dessus. **L’appel à sortir de Babylone** est le sujet sur lequel nous allons nous entretenir ce matin, parce que c’est en lien avec le message que nous avons reçu. Il y a beaucoup qui viennent ici, qui ne comprennent pas. Souvent je reviens là-dessus pour amener les uns et les autres à bien comprendre, à bien saisir les choses. Donc de temps en temps, il est bien de revenir sur ce sujet. Il y a aussi d’autres prédications concernant ce sujet qui sont disponibles sur le site : [www.mevar.org](/).
 
 Alors je souhaite que nous puissions continuer à prier sur le sujet que nous avions évoqué pendant la veillée, parlant de l’héritage démoniaque. Donc le prochain moment de prière sera relié à cela. Les sujets seront donnés par rapport à cela pour qu’on approfondisse la prière là-dessus et que chacun consolide les acquis. Donc le dimanche prochain, nous aurons les sujets de prière. Maintenant en semaine, le jeudi, il y a des serviteurs de Dieu qui viennent nous rendre visite. Deux prédicateurs, le pasteur Jérémie et le pasteur Faustin. Il est prévu une réunion chez le frère Ebrottié, donc je demande à tout le monde d’être là, parce que nous aurons une réunion chez là-bas le jeudi soir à 20 heures. Le vendredi également pour permettre à tout le monde d’être là. Quand les prédicateurs viennent, il faut les écouter, ils viennent et ils parlent de la part de Christ donc il faut les écouter. L’un des prédicateurs viendra à la réunion du soir à Koumassi le vendredi à 19h. Que Dieu soit béni.
 
@@ -197,11 +197,11 @@ Les réseaux sociaux, comme je l’ai dit tout à l’heure, Facebook, Twitter ;
 
 ### Sur le même sujet
 
--   [Le Cavalier au Cheval Blanc d'Apocalypse](https://mevar.org/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse)
--   [Le Cheval Roux et le Cheval Noir](https://mevar.org/le-cheval-roux-et-le-cheval-noir)
--   [Le Cavalier au Cheval Pâle: La Mort](https://mevar.org/le-cavalier-au-cheval-pale-la-mort)
--   [Le quatrième, cinquième et sixème sceaux](https://mevar.org/le-quatrieme-cinquieme-et-sixeme-sceaux)
--   [Le septième sceau](https://mevar.org/le-septieme-sceau)
+-   [Le Cavalier au Cheval Blanc d'Apocalypse](/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse/)
+-   [Le Cheval Roux et le Cheval Noir](/le-cheval-roux-et-le-cheval-noir/)
+-   [Le Cavalier au Cheval Pâle: La Mort](/le-cavalier-au-cheval-pale-la-mort/)
+-   [Le quatrième, cinquième et sixème sceaux](/le-quatrieme-cinquieme-et-sixeme-sceaux/)
+-   [Le septième sceau](/le-septieme-sceau/)
 
 * * *
 

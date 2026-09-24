@@ -56,9 +56,9 @@ Cette déclaration de notre Seigneur est tellement vraie qu’elle se vérifie a
 
 Comme je vous l’ai annoncé, nous aurons des moments particuliers de prière pour la fin de l’année. C’est en relation avec ces moments que nous avons mis à votre disposition les prédications à l’ordre du jour :
 
--   ****[La lèpre de Nahaman](https://mevar.org/la-lepre-de-nahaman/)****
--   **[Qui enverrai-je ?](https://mevar.org/qui-enverrai-je/)**
--   ****[Ébranlez les prisons](https://mevar.org/ebranlez-les-prisons/)****
+-   ****[La lèpre de Nahaman](/la-lepre-de-nahaman/)****
+-   **[Qui enverrai-je ?](/qui-enverrai-je/)**
+-   ****[Ébranlez les prisons](/ebranlez-les-prisons/)****
 
 Je vous demande de les lire et de les méditer sérieusement parce que nous pouvons encore dire que Dieu s’adresse à nous par Son Esprit. Et c’est vraiment le moment d’écouter Dieu nous parler parce que la préparation pour l’enlèvement a sérieusement évolué. La toilette continue toujours, avec la commission reçue contre Babylone. En lisant ces prédications, vous comprendrez mieux l’orientation spirituelle actuelle.
 

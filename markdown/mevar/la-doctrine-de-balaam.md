@@ -190,7 +190,7 @@ Soyons donc prudent et écoutons ce que Dieu nous dit et surtout mettons le en p
 
 ### Sur le même sujet
 
--   [Faire Dieu menteur](https://mevar.org/faire-dieu-menteur)
+-   [Faire Dieu menteur](/faire-dieu-menteur/)
 
 * * *
 

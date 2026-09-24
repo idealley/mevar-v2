@@ -108,6 +108,6 @@ Prions le Seigneur.
 
 ### Sur le même sujet
 
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine-deuxieme-partie)
--   [La foi et la nature divine](https://mevar.org/la-foi-et-la-nature-divine)
--   [La Foi voit l’invisible](https://mevar.org/la-foi-voit-l-invisible)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine-deuxieme-partie/)
+-   [La foi et la nature divine](/la-foi-et-la-nature-divine/)
+-   [La Foi voit l’invisible](/la-foi-voit-l-invisible/)

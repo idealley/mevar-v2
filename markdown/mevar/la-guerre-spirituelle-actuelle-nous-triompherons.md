@@ -50,7 +50,7 @@ bible_refs:
 ---
 ## Exhortation fin avril 2020
 
-**Mes bien-aimés frères et sœurs en Christ notre Seigneur, que la grâce et la paix de notre Seigneur et sauveur Jésus-Christ soient avec chacun de vous. Je voudrais vous rappeler cette Parole d’Exode 13, au sujet des enfants d’Israël. J’avais prêché [le chemin le plus long](articles/le-chemin-le-plus-long), en m’appuyant sur ce passage, pour vous montrer que notre Seigneur nous a fait passer par des épreuves dans le désert pour nous former spirituellement à affronter les combats qui sont devant l’Église de la fin des temps. En effet, à la sortie des enfants d’Israël, le Seigneur était obligé de leur faire faire un détour dans le désert pour les éprouver et les préparer à la guerre, car ils allaient dans le pays de Canaan où ils devraient se battre contre leurs ennemis pour prendre possession de leur héritage. Si Dieu ne formait pas le peuple à la guerre, une fois entré en Canaan, il aurait fui la guerre, au contact de l’ennemi ; ce qui aurait été une situation dramatique.**
+**Mes bien-aimés frères et sœurs en Christ notre Seigneur, que la grâce et la paix de notre Seigneur et sauveur Jésus-Christ soient avec chacun de vous. Je voudrais vous rappeler cette Parole d’Exode 13, au sujet des enfants d’Israël. J’avais prêché [le chemin le plus long](/le-chemin-le-plus-long/), en m’appuyant sur ce passage, pour vous montrer que notre Seigneur nous a fait passer par des épreuves dans le désert pour nous former spirituellement à affronter les combats qui sont devant l’Église de la fin des temps. En effet, à la sortie des enfants d’Israël, le Seigneur était obligé de leur faire faire un détour dans le désert pour les éprouver et les préparer à la guerre, car ils allaient dans le pays de Canaan où ils devraient se battre contre leurs ennemis pour prendre possession de leur héritage. Si Dieu ne formait pas le peuple à la guerre, une fois entré en Canaan, il aurait fui la guerre, au contact de l’ennemi ; ce qui aurait été une situation dramatique.**
 
 **En passant par le détour, le peuple a appris à faire la guerre, en affrontant quelques peuples dans le désert, comme Amalek (Exode 17). Voyez que malgré le détour qui fut fait, une bonne partie d’Israël pleura lorsqu’il écouta le compte rendu des espions qui fit état de la présence de géants dans la terre promise. Le peuple parlait de lapider Josué et Caleb qui l’encourageait à aller au front. (Nombres 13:14) Cette situation mit Dieu en colère, au point qu’Il décida de faire errer Israël pendant quarante ans dans le désert pour faire périr les incrédules.**
 
@@ -116,7 +116,7 @@ Mes bien-aimés, quel combat mena Abraham ? Il alla libérer son neveu Lot qui a
 
 ### Sur le même sujet
 
--   [Le chemin le plus long](https://mevar.org/le-chemin-le-plus-long)
+-   [Le chemin le plus long](/le-chemin-le-plus-long/)
 
 * * *
 

@@ -169,4 +169,8 @@ La semaine passée, je suis venu à la réunion avec des notes pour une exhortat
 
 * * *
 
-[La terre est menacéeQue Dieu soit béni. Nous allons lire dans Ésaïe chapitre 65 à partir du verset 17 : 17 Car je vais créer de nouveaux cieux Et une nouvelle terre ; On ne se rappellera plus les choses passées, Elles ne reviendront plus à l’esprit.18 Réjouissez-vous plutôt et soyez à toujours dansMEVARParfait M’bra](https://mevar.org/la-terre-est-menacee/)[Le nouveau ministèreGloire à Dieu. Gloire au Seigneur Jésus-Christ. Que Dieu nous bénisse. Ce matin, je voudrais dire certaines choses concernant l’avenir de l’œuvre de Dieu. Ce sont des déclarations qu’on a eu à faire çà et là mais, ce matin, je vais être plus précis et plus clairMEVARParfait M’bra](https://mevar.org/le-nouveau-ministere/)[L’achèvement de l’œuvre de Dieu dans l’ÉgliseLa vision du nouveau ministère Je suis l’Éternel, ton Dieu, Qui soulève la mer et fais mugir ses flots. L’Éternel des armées est son nom. Je mets mes paroles dans ta bouche, Et je te couvre de l’ombre de ma main, Pour étendre de nouveaux cieux et fonder une nouvelleMEVARParfait M’bra](https://mevar.org/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere/)
+[La terre est menacée](/la-terre-est-menacee/)
+
+[Le nouveau ministère](/le-nouveau-ministere/)
+
+[L’achèvement de l'œuvre de Dieu dans l'Église](/lachevement-de-l-oeuvre-de-dieu-dans-l-eglise-la-vision-du-nouveau-ministere/)

@@ -122,7 +122,7 @@ Mes chers amis, notre devoir vis-à-vis de Celui qui nous a aimés et qui nous a
 
 ### Sur le même sujet
 
--   [L' Appel de 1933](https://mevar.org/l-appel-de-1933)
+-   [L' Appel de 1933](/l-appel-de-1933/)
 
 * * *
 

@@ -122,7 +122,7 @@ La pluie dévoile beaucoup de choses et cela m’a fait réfléchir. J’ai comp
 
 ### Sur le même sujet
 
--   [Les prisonniers de la religion](https://mevar.org/les-prisonniers-de-la-religion)
+-   [Les prisonniers de la religion](/les-prisonniers-de-la-religion/)
 
 * * *
 

@@ -157,7 +157,7 @@ Des grands monts vient le secours;Suisse, espère en Dieu toujours!Garde la foi 
 
 ### Sur le même sujet
 
--   [La mission du Saint-Esprit dans l’Eglise](https://mevar.org/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie)
+-   [La mission du Saint-Esprit dans l’Eglise](/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie/)
 
 * * *
 

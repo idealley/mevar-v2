@@ -98,4 +98,8 @@ Que le Nom du Seigneur soit béni. Nous allons nous remettre entre les mains du 
 
 * * *
 
-[Faire front par la foi — deuxième partieNous allons continuer et achever ce que nous avions commencé, parlant de la foi. C’est le deuxième point : La foi et la bénédiction. Cela rentre dans le cadre de la première prédication et aussi d’une série de prédications que nous sommes en train de donner ces temps-ci. AprèsMEVARParfait M’bra](https://mevar.org/faire-front-par-la-foi-deuxieme-partie/)[Faire front par la Foi - première partie« Faire front par la foi » est un sujet que je vais aborder en deux temps. Certainement qu’on ne pourra pas finir aujourd’hui. On aura le temps de revenir là-dessus. Mais on va déjà commencer. Nous lisons Marc 11 à partir du verset 22 : 22Jésus prit la parole, etMEVARParfait M’bra](https://mevar.org/faire-front-par-la-foi-premiere-partie/)[Vivre la prière de la Foi« Vivre la prière » est une parole d’exhortation sur la foi. Nous devons la vivre. La prière ne doit pas être séparée de notre attitude. Quand nous prions, nous devons avoir un comportement qui l’accompagne. Nous lisons dans Marc 11 à partir du verset 12 : 12Le lendemain, après qu’ilsMEVARParfait M’bra](https://mevar.org/vivre-la-priere-de-la-foi/)
+[Faire front par la foi  — deuxième partie](/faire-front-par-la-foi-deuxieme-partie/)
+
+[Faire front par la Foi - première partie](/faire-front-par-la-foi-premiere-partie/)
+
+[Vivre la prière de la Foi](/vivre-la-priere-de-la-foi/)
