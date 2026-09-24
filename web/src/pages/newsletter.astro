@@ -1,4 +1,11 @@
 ---
 import MevarPage from "../components/MevarPage.astro";
+import NewsletterForm from "../components/NewsletterForm.astro";
 ---
-<MevarPage slug="newsletter" fallbackTitle="Newsletter" />
+<MevarPage slug="newsletter" fallbackTitle="Newsletter">
+  <p class="text-lg mb-6">
+    Recevez un e-mail à chaque nouvelle publication sur mevar.org. Vous pouvez vous
+    désinscrire à tout moment, par le lien en bas de chaque e-mail.
+  </p>
+  <NewsletterForm origin="newsletter-page" />
+</MevarPage>

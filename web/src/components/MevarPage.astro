@@ -26,5 +26,6 @@ const title = fm.title ?? fallbackTitle ?? slug;
     <div class="prose-reader text-lg leading-relaxed [&_p]:mb-4 [&_h2]:text-2xl [&_h2]:font-semibold [&_h2]:mt-8 [&_h2]:mb-4 [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:mt-6 [&_h3]:mb-3 [&_blockquote]:border-l-4 [&_blockquote]:border-primary [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-muted-foreground [&_blockquote]:my-4 [&_a]:text-primary [&_a]:underline [&_a]:decoration-2 [&_a]:underline-offset-4 hover:[&_a]:decoration-primary/50">
       <Content />
     </div>
+    <slot />
   </article>
 </Layout>

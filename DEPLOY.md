@@ -174,3 +174,130 @@ In order. Each step is done by Samuel.
 
 This works as long as Ghost is not cancelled, which is why step 6 waits 30
 days.
+
+## Email: the "Publications" newsletter on Resend
+
+Goal 06. The newsletter leaves Ghost for MEVAR's own Resend account (not the
+firstprinciple one). One list, "Publications": an email when a new work is
+published, sent by hand. Everything in this section is done by Samuel; the
+agent built the code and stops here.
+
+What the code expects:
+
+| Where | Name | Value |
+| ----- | ---- | ----- |
+| Pages project `mevar`, and the root `.env` | `RESEND_API_KEY` | a **Full access** key (a "Sending access" key answers 401 on contacts) |
+| Pages project `mevar`, and the root `.env` | `RESEND_SEGMENT_ID` | the id of the segment readers join |
+| `email/email-tools.config.mjs` | `from` | `MEVAR <publications@updates.mevar.org>` |
+| `email/email-tools.config.mjs` | `replyTo` | `contact@mevar.org` (Cloudflare Email Routing: check it forwards to a mailbox you read) |
+
+### 1. Account and plan
+
+Before the first broadcast, compare the member count from Ghost (**Members**,
+filter "Subscribed") with the plan: the free plan sends 100 emails a day and
+3,000 a month. Over 100 members, one broadcast needs the paid plan.
+
+### 2. Sending domain `updates.mevar.org`
+
+Resend → **Domains** → `updates.mevar.org` lists its DNS records (MX and SPF
+TXT on `send.updates`, DKIM TXT on `resend._domainkey.updates`). On
+2026-09-24 the domain showed **partially failed**: open it, see which line is
+not green, and add or fix that record in Cloudflare → **mevar.org** zone →
+**DNS** → **Records**, **DNS only** (grey cloud). Then **Verify DNS Records**.
+Leave the `mevar.org` MX and TXT records alone: they carry mevar.org's own
+mail.
+
+Same page → **Configuration**: turn **Open tracking** and **Click tracking**
+off. Readers are not tracked beyond what Resend needs to deliver.
+
+### 3. Contact properties
+
+Resend silently drops a property that is not defined. These three exist
+(created 2026-09-24, type Text; a key cannot be renamed later). Check under
+**Audience** → **Properties**:
+
+| Key | Written by |
+| --- | ---------- |
+| `origin` | `newsletter-footer`, `newsletter-page` (the site) or `ghost-import` |
+| `source` | `site` or `ghost` |
+| `consented_at` | ISO date of the signup, or the Ghost member's `created_at` |
+
+### 4. Segment, key, env vars
+
+1. **Audience** → **Segments**: use `General` or create `Publications`; copy
+   its id.
+2. **API Keys** → **Create API Key**, name `mevar pages`, permission **Full
+   access**, domain `updates.mevar.org`. Copy it; Resend shows it once.
+3. Cloudflare → **Workers & Pages** → `mevar` → **Settings** → **Variables
+   and Secrets** → **Add**: `RESEND_API_KEY` (type **Secret**) and
+   `RESEND_SEGMENT_ID` (type **Text**), for Production and for Preview.
+   Redeploy (a variable reaches the function only with the next deploy).
+4. The same two lines in the root `.env` on the Mac, for the import and the
+   sends.
+
+The deploy runs wrangler from `web/` (workflow and `npm run deploy`), so
+`web/functions/` ships with the site and `/api/subscribe` answers. Run from
+anywhere else, `functions/` is left behind and `/api/*` answers 405.
+
+### 5. Check the form before the cutover
+
+On the Mac, with the two variables in `web/.dev.vars` (gitignored, same
+`NAME=value` lines as `.env`):
+
+```bash
+cd web && CONTENT_SOURCES=mevar npx astro build
+npx wrangler@4 pages dev dist --compatibility-date=2026-06-24
+```
+
+(`astro dev` does not run Pages Functions; the date is the newest the local
+runtime knows.) Open `http://localhost:8788/newsletter/`, sign up with your
+own address: "Merci, votre inscription est enregistrée." and the contact is
+in the segment with `origin`, `source`, `consented_at`. Sign up again with
+the same address: still one contact, same properties. An invalid address
+shows "Cette adresse e-mail ne semble pas valide." Then delete the test
+contact in Resend.
+
+### 6. Import the Ghost members
+
+Ghost Admin → **Members** → **⋯** → **Export all members**. Keep the CSV
+outside the repository (it is readers' personal data) and pass its path:
+
+```bash
+node scripts/150-import-ghost-members.mjs ~/Downloads/<export>.csv          # dry run, counts only
+node --env-file=.env scripts/150-import-ghost-members.mjs ~/Downloads/<export>.csv --send
+```
+
+It keeps members with `subscribed_to_emails` true, prints counts, never an
+address, and leaves alone a contact already in Resend, so a rerun writes 0
+and a reader who unsubscribed stays unsubscribed. At 2 requests a second,
+count about a second per member. Compare "subscribed" with Ghost's count,
+then delete the CSV.
+
+### 7. Sending a publication
+
+```bash
+npm run email:build -- markdown/mevar/<slug>.md       # email/dist/<slug>.html, .txt, sizes
+npm run email:test -- email/dist/<slug>.html --to <you>
+npm run email:send                                    # wizard: time, then type "send"
+git add email/receipts/<slug>.json && git commit -m "data(email): <slug> sent"
+```
+
+The broadcast is always scheduled (never "send now") to `RESEND_SEGMENT_ID`;
+"dry" instead creates it unscheduled, to review or test from the Resend
+dashboard. The wizard stops if `email/receipts/<slug>.json` exists or Resend already has
+a broadcast named `Publications <slug>`: a work is never announced twice.
+Default time: tomorrow 07:00 Abidjan time. A draft is never built.
+
+### Cutover order
+
+Added to the cutover checklist above; its step 6 waits for this.
+
+1. Resend account, domain verified, env vars set on the Pages project.
+2. New site live with the working form. Ghost signup switched off the same
+   day (Ghost Admin → **Settings** → **Membership** → **Subscription
+   access**: **Nobody**) so no member lands in the old list.
+3. Export the members CSV, run the import, compare counts with Ghost.
+4. First broadcast from Resend: the newest publication, with one sentence
+   saying the letter has a new sender so readers can whitelist it:
+   `npm run email:build -- markdown/mevar/<slug>.md --note "…"`.
+5. Only then does the 30 day countdown to cancelling Ghost start.

@@ -1,0 +1,5 @@
+id,email,name,note,subscribed_to_emails,complimentary_plan,stripe_customer_id,created_at,deleted_at,labels,tiers
+6448fa86db90770001518f01,marie@example.org,"Kouassi, Marie","Inscrite après la convention
+de 2021",true,,,2021-03-04T10:00:00.000Z,,,
+6448fa86db90770001518f02,Jean@Example.org,Jean,,true,,,2022-12-29T08:15:00.000Z,,"Import, 2023",
+6448fa86db90770001518f03,paul@example.org,Paul,,false,,,2023-06-01T19:30:00.000Z,,,

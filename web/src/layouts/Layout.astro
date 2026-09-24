@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import Header from "../components/Header.astro";
+import NewsletterForm from "../components/NewsletterForm.astro";
 
 interface Props {
   title?: string;
@@ -69,6 +70,9 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
               Mission d'Évangélisation et de Réveil. Bibliothèque numérique pour
               l'étude de la Parole et la marche dans l'Esprit en ce temps de la fin.
             </p>
+            <h3 class="text-sm font-semibold mt-6 mb-2 tracking-wide uppercase">Newsletter</h3>
+            <p class="text-sm text-muted-foreground mb-3">Un e-mail à chaque nouvelle publication.</p>
+            <NewsletterForm origin="newsletter-footer" />
           </div>
           <nav>
             <h3 class="text-sm font-semibold mb-3 tracking-wide uppercase">Bibliothèque</h3>
