@@ -81076,37 +81076,6 @@
   },
   {
     "source": "cmpp",
-    "sermon_id": "serie4no6",
-    "title": "L’original",
-    "subtitle": "29 décembre 1963, soir",
-    "date": "1963-12-29",
-    "year": 1963,
-    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
-    "preacher": "William Branham",
-    "duration": null,
-    "source_url": null,
-    "pdf_url": "http://cmpp.ch/serie4no6.pdf",
-    "audio_url": null,
-    "mevar_match": null,
-    "aliases": null,
-    "tags": null,
-    "authors": null,
-    "type": null,
-    "status": null,
-    "summary": null,
-    "persons": null,
-    "places": null,
-    "themes": null,
-    "feature_image": null,
-    "local_image": null,
-    "llm_cleaned": false,
-    "original": null,
-    "local_md": "markdown/cmpp/undated/serie4no6.md",
-    "size_bytes": 81264,
-    "line_count": 1018
-  },
-  {
-    "source": "cmpp",
     "sermon_id": "serie6no5",
     "title": "Le Patriarche Abraham",
     "subtitle": "7 février 1964, soir",
@@ -81291,6 +81260,37 @@
     "local_md": "markdown/cmpp/undated/serie1no6.md",
     "size_bytes": 150086,
     "line_count": 1627
+  },
+  {
+    "source": "cmpp",
+    "sermon_id": "serie4no6",
+    "title": "L’original",
+    "subtitle": "14 juin 1964, soir",
+    "date": "1964-06-14",
+    "year": 1964,
+    "location": "Branham Tabernacle, Jeffersonville, Indiana, U.S.A.",
+    "preacher": "William Branham",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": "http://cmpp.ch/serie4no6.pdf",
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": null,
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": null,
+    "persons": null,
+    "places": null,
+    "themes": null,
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": false,
+    "original": null,
+    "local_md": "markdown/cmpp/undated/serie4no6.md",
+    "size_bytes": 81259,
+    "line_count": 1018
   },
   {
     "source": "cmpp",
@@ -89073,37 +89073,6 @@
   },
   {
     "source": "cmpp",
-    "sermon_id": "lc56",
-    "title": "Lettre Circulaire 56",
-    "subtitle": "Janvier 2005",
-    "date": "2005-01-01",
-    "year": 2005,
-    "location": "Krefeld",
-    "preacher": "Ewald Frank",
-    "duration": null,
-    "source_url": null,
-    "pdf_url": "http://cmpp.ch/lc56.pdf",
-    "audio_url": null,
-    "mevar_match": null,
-    "aliases": null,
-    "tags": null,
-    "authors": null,
-    "type": null,
-    "status": null,
-    "summary": null,
-    "persons": null,
-    "places": null,
-    "themes": null,
-    "feature_image": null,
-    "local_image": null,
-    "llm_cleaned": false,
-    "original": null,
-    "local_md": "markdown/cmpp/undated/lc56.md",
-    "size_bytes": 117955,
-    "line_count": 1525
-  },
-  {
-    "source": "cmpp",
     "sermon_id": "lc57",
     "title": "LETTRE CIRCULAIRE 57",
     "subtitle": "PRINTEMPS 2005",
@@ -91098,6 +91067,37 @@
     "local_md": "markdown/cmpp/undated/impact.md",
     "size_bytes": 84007,
     "line_count": 1046
+  },
+  {
+    "source": "cmpp",
+    "sermon_id": "lc56",
+    "title": "Lettre Circulaire 56",
+    "subtitle": "Janvier 2005",
+    "date": null,
+    "year": 2005,
+    "location": "Krefeld",
+    "preacher": "Ewald Frank",
+    "duration": null,
+    "source_url": null,
+    "pdf_url": "http://cmpp.ch/lc56.pdf",
+    "audio_url": null,
+    "mevar_match": null,
+    "aliases": null,
+    "tags": null,
+    "authors": null,
+    "type": null,
+    "status": null,
+    "summary": null,
+    "persons": null,
+    "places": null,
+    "themes": null,
+    "feature_image": null,
+    "local_image": null,
+    "llm_cleaned": false,
+    "original": null,
+    "local_md": "markdown/cmpp/undated/lc56.md",
+    "size_bytes": 117936,
+    "line_count": 1524
   },
   {
     "source": "cmpp",
@@ -149091,8 +149091,8 @@
   {
     "source": "local",
     "sermon_id": "Volume-1-Ver2.0",
-    "title": "Volume-1-Ver2.0",
-    "subtitle": null,
+    "title": "Surnaturelle : la vie de William Branham, volume I",
+    "subtitle": "Livre 1 : Le garçon et sa privation (1909-1933)",
     "date": null,
     "year": null,
     "location": null,
@@ -149122,8 +149122,8 @@
   {
     "source": "local",
     "sermon_id": "Volume-2-Ver2.0",
-    "title": "Volume-2-Ver2.0",
-    "subtitle": null,
+    "title": "Surnaturelle : la vie de William Branham, volume II",
+    "subtitle": "Livre 2 : Le jeune homme et son désespoir (1933-1946). Livre 3 : L’homme et sa commission (1946-1950)",
     "date": null,
     "year": null,
     "location": null,
@@ -161651,8 +161651,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_speciale_aout_2006_le_baton_de_dieu.md",
-    "size_bytes": 43902,
-    "line_count": 199
+    "size_bytes": 44125,
+    "line_count": 211
   },
   {
     "source": "mevar-pdfs",
@@ -161707,8 +161707,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/la_marche_des_vierges_29_11_2013.md",
-    "size_bytes": 65945,
-    "line_count": 398
+    "size_bytes": 66230,
+    "line_count": 413
   },
   {
     "source": "mevar-pdfs",
@@ -161761,8 +161761,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/le_reflet_11_10_2015.md",
-    "size_bytes": 34737,
-    "line_count": 90
+    "size_bytes": 34764,
+    "line_count": 92
   },
   {
     "source": "mevar-pdfs",
@@ -161820,8 +161820,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015.md",
-    "size_bytes": 39614,
-    "line_count": 101
+    "size_bytes": 39662,
+    "line_count": 104
   },
   {
     "source": "mevar-pdfs",
@@ -161879,8 +161879,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.md",
-    "size_bytes": 49104,
-    "line_count": 115
+    "size_bytes": 49250,
+    "line_count": 123
   },
   {
     "source": "mevar-pdfs",
@@ -161937,8 +161937,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/des_hommes_faits_30_10_2016.md",
-    "size_bytes": 46427,
-    "line_count": 132
+    "size_bytes": 46541,
+    "line_count": 138
   },
   {
     "source": "mevar-pdfs",
@@ -161992,8 +161992,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/la_maison_construite_sur_le_roc_stephane.md",
-    "size_bytes": 12889,
-    "line_count": 88
+    "size_bytes": 13103,
+    "line_count": 98
   },
   {
     "source": "mevar-pdfs",
@@ -162162,8 +162162,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/Appel_a_sortir_de_Babylone.md",
-    "size_bytes": 69221,
-    "line_count": 429
+    "size_bytes": 69291,
+    "line_count": 433
   },
   {
     "source": "mevar-pdfs",
@@ -162215,8 +162215,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/sujets_de_priere_juin_2019.md",
-    "size_bytes": 4652,
-    "line_count": 49
+    "size_bytes": 4704,
+    "line_count": 52
   },
   {
     "source": "mevar-pdfs",
@@ -162275,8 +162275,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/Exhortation_de_Juillet_2019.md",
-    "size_bytes": 37882,
-    "line_count": 135
+    "size_bytes": 38445,
+    "line_count": 163
   },
   {
     "source": "mevar-pdfs",
@@ -162339,8 +162339,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/7_Sceaux_1.md",
-    "size_bytes": 77940,
-    "line_count": 212
+    "size_bytes": 78045,
+    "line_count": 218
   },
   {
     "source": "mevar-pdfs",
@@ -162391,8 +162391,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/sujets_de_priere_juillet_2019.md",
-    "size_bytes": 4331,
-    "line_count": 48
+    "size_bytes": 4398,
+    "line_count": 52
   },
   {
     "source": "mevar-pdfs",
@@ -162454,8 +162454,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/7_sceaux_2.md",
-    "size_bytes": 64742,
-    "line_count": 226
+    "size_bytes": 64900,
+    "line_count": 234
   },
   {
     "source": "mevar-pdfs",
@@ -162530,8 +162530,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/7_sceaux_3.md",
-    "size_bytes": 61061,
-    "line_count": 325
+    "size_bytes": 61270,
+    "line_count": 336
   },
   {
     "source": "mevar-pdfs",
@@ -162597,8 +162597,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/7_sceaux_4.md",
-    "size_bytes": 75816,
-    "line_count": 186
+    "size_bytes": 76231,
+    "line_count": 206
   },
   {
     "source": "mevar-pdfs",
@@ -162670,8 +162670,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/les_disciples_de_jean_baptiste_31_08_2019.md",
-    "size_bytes": 56588,
-    "line_count": 171
+    "size_bytes": 56681,
+    "line_count": 177
   },
   {
     "source": "mevar-pdfs",
@@ -162734,8 +162734,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_septembre_2019_braver_la_grande_foule.md",
-    "size_bytes": 34447,
-    "line_count": 113
+    "size_bytes": 34644,
+    "line_count": 124
   },
   {
     "source": "mevar-pdfs",
@@ -162801,8 +162801,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/le_septieme_sceau_premiere_partie_6_09_2019.md",
-    "size_bytes": 78009,
-    "line_count": 228
+    "size_bytes": 78662,
+    "line_count": 261
   },
   {
     "source": "mevar-pdfs",
@@ -162865,8 +162865,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.md",
-    "size_bytes": 56199,
-    "line_count": 273
+    "size_bytes": 56388,
+    "line_count": 283
   },
   {
     "source": "mevar-pdfs",
@@ -162927,8 +162927,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur.md",
-    "size_bytes": 28986,
-    "line_count": 105
+    "size_bytes": 29246,
+    "line_count": 120
   },
   {
     "source": "mevar-pdfs",
@@ -162987,8 +162987,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel.md",
-    "size_bytes": 43078,
-    "line_count": 139
+    "size_bytes": 44135,
+    "line_count": 190
   },
   {
     "source": "mevar-pdfs",
@@ -163051,8 +163051,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019.md",
-    "size_bytes": 37800,
-    "line_count": 208
+    "size_bytes": 38031,
+    "line_count": 220
   },
   {
     "source": "mevar-pdfs",
@@ -163111,8 +163111,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019.md",
-    "size_bytes": 79527,
-    "line_count": 203
+    "size_bytes": 79877,
+    "line_count": 221
   },
   {
     "source": "mevar-pdfs",
@@ -163187,8 +163187,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/2_signes_d_un_ministere_17_11_19.md",
-    "size_bytes": 63735,
-    "line_count": 361
+    "size_bytes": 64036,
+    "line_count": 378
   },
   {
     "source": "mevar-pdfs",
@@ -163296,8 +163296,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/3_signes_d_un_ministere_01_12_19.md",
-    "size_bytes": 65772,
-    "line_count": 187
+    "size_bytes": 65988,
+    "line_count": 199
   },
   {
     "source": "mevar-pdfs",
@@ -163350,8 +163350,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles.md",
-    "size_bytes": 34406,
-    "line_count": 116
+    "size_bytes": 35160,
+    "line_count": 151
   },
   {
     "source": "mevar-pdfs",
@@ -163412,8 +163412,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/4_eprouvez_les_signes_05_01_20.md",
-    "size_bytes": 68394,
-    "line_count": 415
+    "size_bytes": 68543,
+    "line_count": 423
   },
   {
     "source": "mevar-pdfs",
@@ -163471,8 +163471,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/Le_lavage_des_pieds_17_fevrier_2020_Lausanne.md",
-    "size_bytes": 46241,
-    "line_count": 148
+    "size_bytes": 46270,
+    "line_count": 150
   },
   {
     "source": "mevar-pdfs",
@@ -163536,8 +163536,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/dieu_regarde_le_coeur_exhortation_de_Juillet_2020.md",
-    "size_bytes": 35544,
-    "line_count": 160
+    "size_bytes": 36110,
+    "line_count": 188
   },
   {
     "source": "mevar-pdfs",
@@ -163603,8 +163603,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/jugements_de_dieu_22_aout_2020.md",
-    "size_bytes": 61958,
-    "line_count": 347
+    "size_bytes": 62067,
+    "line_count": 353
   },
   {
     "source": "mevar-pdfs",
@@ -163736,8 +163736,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.md",
-    "size_bytes": 60195,
-    "line_count": 217
+    "size_bytes": 60666,
+    "line_count": 244
   },
   {
     "source": "mevar-pdfs",
@@ -163802,8 +163802,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021.md",
-    "size_bytes": 58353,
-    "line_count": 102
+    "size_bytes": 58440,
+    "line_count": 107
   },
   {
     "source": "mevar-pdfs",
@@ -163875,8 +163875,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/des_noms_sous_les_propheties_06.06.2021.md",
-    "size_bytes": 64811,
-    "line_count": 201
+    "size_bytes": 65126,
+    "line_count": 218
   },
   {
     "source": "mevar-pdfs",
@@ -163996,8 +163996,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_speciale_de_decembre_2021.md",
-    "size_bytes": 44567,
-    "line_count": 191
+    "size_bytes": 45054,
+    "line_count": 215
   },
   {
     "source": "mevar-pdfs",
@@ -164051,8 +164051,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.md",
-    "size_bytes": 24095,
-    "line_count": 86
+    "size_bytes": 24303,
+    "line_count": 98
   },
   {
     "source": "mevar-pdfs",
@@ -164173,8 +164173,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/Le_temoignage_de_Dieu_15_janvier_2022.md",
-    "size_bytes": 42286,
-    "line_count": 135
+    "size_bytes": 42332,
+    "line_count": 138
   },
   {
     "source": "mevar-pdfs",
@@ -164236,8 +164236,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.md",
-    "size_bytes": 21966,
-    "line_count": 114
+    "size_bytes": 22174,
+    "line_count": 124
   },
   {
     "source": "mevar-pdfs",
@@ -164299,8 +164299,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation_fin_mars_2022_la_peur_de_satan.md",
-    "size_bytes": 27479,
-    "line_count": 133
+    "size_bytes": 27969,
+    "line_count": 157
   },
   {
     "source": "mevar-pdfs",
@@ -164363,8 +164363,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022.md",
-    "size_bytes": 34494,
-    "line_count": 124
+    "size_bytes": 35148,
+    "line_count": 155
   },
   {
     "source": "mevar-pdfs",
@@ -164425,8 +164425,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/COVID-19_ou_la_mort_dans_les_nations-exhortation-mars-2020.md",
-    "size_bytes": 19506,
-    "line_count": 102
+    "size_bytes": 19814,
+    "line_count": 117
   },
   {
     "source": "mevar-pdfs",
@@ -164487,8 +164487,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/David_et_Goliath_le_cri_de_minuit.md",
-    "size_bytes": 28430,
-    "line_count": 139
+    "size_bytes": 28975,
+    "line_count": 164
   },
   {
     "source": "mevar-pdfs",
@@ -164518,8 +164518,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/etude_biblique_le_sermon_sur_la_montagne_3_et_4-3_avril_2020.md",
-    "size_bytes": 66887,
-    "line_count": 206
+    "size_bytes": 67135,
+    "line_count": 221
   },
   {
     "source": "mevar-pdfs",
@@ -164549,8 +164549,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation-de-mai-2022-le-temoignage-de-deux-est-vrai.md",
-    "size_bytes": 18739,
-    "line_count": 89
+    "size_bytes": 19074,
+    "line_count": 106
   },
   {
     "source": "mevar-pdfs",
@@ -164580,8 +164580,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation-fevrier-202-chercher-dieu-et-le-trouver.md",
-    "size_bytes": 35231,
-    "line_count": 175
+    "size_bytes": 35767,
+    "line_count": 200
   },
   {
     "source": "mevar-pdfs",
@@ -164611,8 +164611,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/exhortation-la-fin-d-une-epoque-novembre-2022.md",
-    "size_bytes": 68214,
-    "line_count": 272
+    "size_bytes": 68873,
+    "line_count": 304
   },
   {
     "source": "mevar-pdfs",
@@ -164642,8 +164642,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/holocoste-exhortation_mars_2021.md",
-    "size_bytes": 18683,
-    "line_count": 97
+    "size_bytes": 18935,
+    "line_count": 110
   },
   {
     "source": "mevar-pdfs",
@@ -164726,8 +164726,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/la_crainte_de_l_eternel_samuel.md",
-    "size_bytes": 12669,
-    "line_count": 88
+    "size_bytes": 13041,
+    "line_count": 107
   },
   {
     "source": "mevar-pdfs",
@@ -164786,8 +164786,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/la_doctrine_de_Balaam.md",
-    "size_bytes": 18883,
-    "line_count": 163
+    "size_bytes": 19337,
+    "line_count": 185
   },
   {
     "source": "mevar-pdfs",
@@ -164817,8 +164817,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/La_guerre_spirituelle_actuelle_nous_triompherons-exhortation_fin_avril_2020.md",
-    "size_bytes": 25895,
-    "line_count": 113
+    "size_bytes": 26456,
+    "line_count": 141
   },
   {
     "source": "mevar-pdfs",
@@ -164876,8 +164876,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/le_royaume_de_dieu_kadjani.md",
-    "size_bytes": 526452,
-    "line_count": 6119
+    "size_bytes": 527583,
+    "line_count": 6170
   },
   {
     "source": "mevar-pdfs",
@@ -164932,8 +164932,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/mevar-pdfs/le_salut_selon_la_bible.md",
-    "size_bytes": 22364,
-    "line_count": 201
+    "size_bytes": 22997,
+    "line_count": 233
   },
   {
     "source": "mevar-pdfs",
@@ -164963,8 +164963,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/les_liens_spirituels_1_et_2-6_avril_2020.md",
-    "size_bytes": 82477,
-    "line_count": 231
+    "size_bytes": 82754,
+    "line_count": 247
   },
   {
     "source": "mevar-pdfs",
@@ -164994,8 +164994,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.md",
-    "size_bytes": 47750,
-    "line_count": 162
+    "size_bytes": 47884,
+    "line_count": 169
   },
   {
     "source": "mevar-pdfs",
@@ -165025,8 +165025,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/les-sentiments-justes-exhortation-fevrier-2020.md",
-    "size_bytes": 29758,
-    "line_count": 149
+    "size_bytes": 30262,
+    "line_count": 174
   },
   {
     "source": "mevar-pdfs",
@@ -165056,8 +165056,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/manger-le-sacrifice-20-octobre-2020.md",
-    "size_bytes": 38510,
-    "line_count": 210
+    "size_bytes": 39087,
+    "line_count": 237
   },
   {
     "source": "mevar-pdfs",
@@ -165087,8 +165087,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/medecin_gueris-toi_toi-meme_15_02_2015.md",
-    "size_bytes": 51487,
-    "line_count": 131
+    "size_bytes": 51537,
+    "line_count": 134
   },
   {
     "source": "mevar-pdfs",
@@ -165118,8 +165118,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.md",
-    "size_bytes": 56497,
-    "line_count": 187
+    "size_bytes": 56577,
+    "line_count": 192
   },
   {
     "source": "mevar-pdfs",
@@ -165149,8 +165149,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/Quelque_chose_d_impossible_a_Dieu-11-10-2020.md",
-    "size_bytes": 53623,
-    "line_count": 234
+    "size_bytes": 53669,
+    "line_count": 237
   },
   {
     "source": "mevar-pdfs",
@@ -165180,8 +165180,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.md",
-    "size_bytes": 20057,
-    "line_count": 126
+    "size_bytes": 20296,
+    "line_count": 138
   },
   {
     "source": "mevar-pdfs",
@@ -165211,8 +165211,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.md",
-    "size_bytes": 17414,
-    "line_count": 84
+    "size_bytes": 17545,
+    "line_count": 91
   },
   {
     "source": "mevar-pdfs",
@@ -165242,8 +165242,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar-pdfs/suis-moi-samuel.md",
-    "size_bytes": 44130,
-    "line_count": 223
+    "size_bytes": 45133,
+    "line_count": 274
   },
   {
     "source": "onedrive",

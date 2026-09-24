@@ -37,6 +37,13 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf"
 local_pdf: "/files/mevar/souviens-toi-d-ou_tu_es_tombe_et_repens_toi-exhortation_de_decembre_2022.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Pierre 2:25"
+  - "Apocalypse 2:4-5"
+  - "Hébreux 13:5-6"
+  - "Jean 8:12"
+  - "Matthieu 24:12"
+  - "Psaumes 23"
 ---
 *Exhortation de Fin d’Année 2022*
 

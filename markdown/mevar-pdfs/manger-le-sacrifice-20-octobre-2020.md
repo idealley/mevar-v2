@@ -41,6 +41,33 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/manger-le-sacrifice-20-octobre-2020.pdf"
 local_pdf: "/files/mevar/manger-le-sacrifice-20-octobre-2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 11:26-30"
+  - "Aggée 2:11-14"
+  - "Apocalypse 1:4-6"
+  - "Apocalypse 5:12"
+  - "Apocalypse 5:5-13"
+  - "Jean 12:26"
+  - "Jean 20:17"
+  - "Luc 17:37"
+  - "Lévitique 1:3-4"
+  - "Lévitique 1:6"
+  - "Lévitique 1:9"
+  - "Lévitique 6"
+  - "Lévitique 6:11"
+  - "Lévitique 6:11-22"
+  - "Lévitique 6:18-20"
+  - "Lévitique 6:19"
+  - "Lévitique 6:21"
+  - "Lévitique 6:22"
+  - "Lévitique 7:19"
+  - "Lévitique 7:19-21"
+  - "Marc 10:38-39"
+  - "Matthieu 24:28"
+  - "Matthieu 26:26"
+  - "Nombres 9:17-18"
+  - "Éphésiens 2:22"
+  - "Ésaïe 53:12"
 ---
 *Pouyt Samuel - Muraz - Suisse - 20.10.2020*
 

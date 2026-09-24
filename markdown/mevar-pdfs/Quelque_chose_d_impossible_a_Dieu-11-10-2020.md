@@ -36,6 +36,9 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Quelque_chose_d_impossible_a_Dieu-11-10-2020.pdf"
 local_pdf: "/files/mevar/Quelque_chose_d_impossible_a_Dieu-11-10-2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 15"
+  - "Genèse 17"
 ---
 Y a-t-il quelque chose d’impossible à Dieu ?
 

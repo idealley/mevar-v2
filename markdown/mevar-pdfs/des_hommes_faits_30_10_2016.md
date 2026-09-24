@@ -35,6 +35,12 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/des_hommes_faits_30_10_2016.pdf"
 local_pdf: "/files/mevar/des_hommes_faits_30_10_2016.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Thessaloniciens 2"
+  - "Apocalypse 6"
+  - "Hébreux 5"
+  - "Philippiens 3"
+  - "Éphésiens 4"
 ---
 *Des hommes faits, Prêché à Koumassi par frère M'BRA Parfait le 30 Octobre 2016*
 

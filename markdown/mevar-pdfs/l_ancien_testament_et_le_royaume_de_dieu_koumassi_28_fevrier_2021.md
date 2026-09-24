@@ -46,6 +46,33 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf"
 local_pdf: "/files/mevar/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 7"
+  - "1 Rois 20:35-38"
+  - "Actes 19"
+  - "Actes 20"
+  - "Actes 28"
+  - "Apocalypse 5"
+  - "Genèse 20"
+  - "Jean 3"
+  - "Lévitique 18"
+  - "Marc 10"
+  - "Marc 10:6-9"
+  - "Matthieu 10"
+  - "Matthieu 11"
+  - "Matthieu 13"
+  - "Matthieu 25"
+  - "Matthieu 3"
+  - "Matthieu 4"
+  - "Michée 5"
+  - "Osée 1"
+  - "Romains 14"
+  - "Éphésiens 1"
+  - "Éphésiens 4"
+  - "Éphésiens 4:11"
+  - "Ésaïe 40"
+  - "Ésaïe 8"
+  - "Ézéchiel 36"
 ---
 L’Ancien Testament et le Royaume de Dieu
 

@@ -174,10 +174,6 @@ export function* citations(md) {
   }
 }
 
-function normalize(md) {
-  return [...new Set([...citations(md)].map((c) => c.ref))].sort();
-}
-
 // Only when run, not when the site imports citations().
 if (process.argv[1] === import.meta.filename) {
   function* walk(target) {
@@ -214,7 +210,7 @@ if (process.argv[1] === import.meta.filename) {
       refsBySource[sourceName].files++;
       const text = fs.readFileSync(file, "utf8");
       const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
-      const refs = normalize(body);
+      const refs = [...new Set([...citations(body)].map((c) => c.ref))].sort();
       if (refs.length) {
         totalRefs += refs.length;
         refsBySource[sourceName].refs += refs.length;

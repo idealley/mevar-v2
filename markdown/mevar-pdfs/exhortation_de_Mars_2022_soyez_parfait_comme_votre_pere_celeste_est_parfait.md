@@ -39,6 +39,16 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
 local_pdf: "/files/mevar/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 14:20"
+  - "1 Jean 3:14-15"
+  - "Hébreux 11"
+  - "Hébreux 5:12-14"
+  - "Matthieu 19"
+  - "Matthieu 19:21"
+  - "Matthieu 5:31-32"
+  - "Matthieu 5:48"
+  - "Ézéchiel 14:14,20"
 ---
 *Exhortation de Mars 2022*
 

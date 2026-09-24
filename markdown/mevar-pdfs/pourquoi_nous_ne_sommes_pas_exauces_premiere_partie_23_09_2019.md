@@ -42,6 +42,16 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
 local_pdf: "/files/mevar/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019.pdf"
 llm_cleaned: true
+bible_refs:
+  - "2 Corinthiens 11"
+  - "2 Rois 8:9"
+  - "Deutéronome 16:16"
+  - "Jacques 4"
+  - "Luc 8:1-3"
+  - "Lévitique 7:11-13"
+  - "Proverbes 16"
+  - "Proverbes 21"
+  - "Ésaïe 55"
 ---
 *Pourquoi ne sommes-nous pas exaucés ? Première partie, prêché le dimanche 23 septembre 2019 à Koumassi par le frère M'BRA Parfait*
 

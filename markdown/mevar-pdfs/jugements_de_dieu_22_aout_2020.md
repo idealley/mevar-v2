@@ -44,6 +44,12 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/jugements_de_dieu_22_aout_2020.pdf"
 local_pdf: "/files/mevar/jugements_de_dieu_22_aout_2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 18"
+  - "Apocalypse 19"
+  - "Psaumes 68"
+  - "Ésaïe 27"
+  - "Ézéchiel 26:27"
 ---
 *Les jugements de Dieu, prêché le 22 Août 2020 à Abidjan par le frère M’BRA Parfait*
 

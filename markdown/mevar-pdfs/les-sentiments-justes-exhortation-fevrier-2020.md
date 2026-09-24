@@ -38,6 +38,31 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/les-sentiments-justes-exhortation-fevrier-2020.pdf"
 local_pdf: "/files/mevar/les-sentiments-justes-exhortation-fevrier-2020.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 6:15-17"
+  - "1 Corinthiens 6:19"
+  - "Actes 8"
+  - "Exode 34:5-7"
+  - "Jacques 4:8"
+  - "Jean 8:12"
+  - "Luc 24:1-7"
+  - "Luc 7:11-15"
+  - "Matthieu 10:16"
+  - "Matthieu 14:14"
+  - "Matthieu 15:29-31"
+  - "Matthieu 15:32-33"
+  - "Matthieu 18:25-28"
+  - "Matthieu 5:12-16"
+  - "Matthieu 8:14-17"
+  - "Matthieu 9"
+  - "Matthieu 9:36-38"
+  - "Psaumes 103"
+  - "Psaumes 86:16"
+  - "Romains 12"
+  - "Romains 12:1-2"
+  - "Romains 12:3-5"
+  - "Romains 12:5"
+  - "Romains 12:6-8"
 ---
 Exhortation de Février 2020
 

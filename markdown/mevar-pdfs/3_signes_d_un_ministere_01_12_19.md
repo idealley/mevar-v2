@@ -36,6 +36,18 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/3_signes_d_un_ministere_01_12_19.pdf"
 local_pdf: "/files/mevar/3_signes_d_un_ministere_01_12_19.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "1 Timothée 4:14"
+  - "2 Pierre 1"
+  - "Esther 1"
+  - "Galates 5:22"
+  - "Jean 14"
+  - "Jérémie 1:17"
+  - "Marc 11"
+  - "Matthieu 14"
+  - "Matthieu 7"
 ---
 Les signes d’une œuvre ou d’un Ministère authentique de Dieu - 3e partie
 

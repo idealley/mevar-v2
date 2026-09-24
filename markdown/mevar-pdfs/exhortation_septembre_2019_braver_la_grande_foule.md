@@ -40,6 +40,17 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_septembre_2019_braver_la_grande_foule.pdf"
 local_pdf: "/files/mevar/exhortation_septembre_2019_braver_la_grande_foule.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 10:29"
+  - "2 Timothée 3:4"
+  - "Jean 16:33"
+  - "Luc 18:35"
+  - "Luc 5"
+  - "Marc 5"
+  - "Marc 5:27-28"
+  - "Matthieu 15"
+  - "Matthieu 9:18-26"
+  - "Psaumes 42:1"
 ---
 Exhortation de Septembre 2019
 

@@ -46,6 +46,11 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.pdf"
 local_pdf: "/files/mevar/predication_de_la_croix_et_le_message_du_temps_de_la_fin-koumassi.21.02.2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Galates 3:3"
+  - "Marc 10"
+  - "Marc 10:7-9"
+  - "Matthieu 24"
 ---
 La prédication de la croix et le Message du temps de la fin
 

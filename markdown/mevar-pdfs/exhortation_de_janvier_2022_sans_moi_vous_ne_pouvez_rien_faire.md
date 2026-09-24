@@ -31,6 +31,18 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.pdf"
 local_pdf: "/files/mevar/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 6:19-20"
+  - "1 Rois 3"
+  - "Apocalypse 3"
+  - "Apocalypse 3:20"
+  - "Jean 15"
+  - "Jean 15:5"
+  - "Jean 15:6"
+  - "Jean 15:8"
+  - "Luc 12"
+  - "Luc 12:35-38"
+  - "Matthieu 25"
 ---
 Exhortation de Janvier 2022
 

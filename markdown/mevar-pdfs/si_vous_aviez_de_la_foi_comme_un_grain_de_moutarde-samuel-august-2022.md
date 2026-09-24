@@ -32,6 +32,18 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
 local_pdf: "/files/mevar/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde-samuel-august-2022.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Genèse 3:15"
+  - "Hébreux 11:5-6"
+  - "Jean 12:23-24"
+  - "Luc 18:7-8"
+  - "Matthieu 13:31-32"
+  - "Matthieu 17:14-21"
+  - "Matthieu 17:5"
+  - "Matthieu 3:17"
+  - "Michée 5:1-4"
+  - "Romains 10:17"
+  - "Ésaïe 53:1-3"
 ---
 “Si vous aviez de la foi comme un grain de moutarde.”
 

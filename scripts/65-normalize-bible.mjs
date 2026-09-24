@@ -15,7 +15,7 @@
 //   3) Collect found refs per file into manifests.
 //
 // CLI:
-//   node scripts/65-normalize-bible.mjs               # process all 5 French sources
+//   node scripts/65-normalize-bible.mjs               # process all 6 French sources
 //   node scripts/65-normalize-bible.mjs <glob>        # process matched files only
 //   node scripts/65-normalize-bible.mjs --dry         # report only, don't write
 
@@ -157,10 +157,6 @@ export function* citations(md) {
   }
 }
 
-function normalize(md) {
-  return [...new Set([...citations(md)].map((c) => c.ref))].sort();
-}
-
 // ─── Driver ──────────────────────────────────────────────────────────────────
 // Only when run, not when the site imports citations().
 if (process.argv[1] === import.meta.filename) {
@@ -182,7 +178,7 @@ if (process.argv[1] === import.meta.filename) {
 
   const sources = targets.length > 0
     ? targets.map((t) => path.resolve(t))
-    : ["mevar", "onedrive", "le-scribe", "cmpp", "local"] // branham is English: 66 owns it
+    : ["mevar", "mevar-pdfs", "onedrive", "le-scribe", "cmpp", "local"] // branham is English: 66 owns it
         .map((s) => path.join(root, "markdown", s))
         .filter((d) => fs.existsSync(d));
 
@@ -202,7 +198,7 @@ if (process.argv[1] === import.meta.filename) {
       const text = fs.readFileSync(file, "utf8");
       const body = text.replace(/^---\n[\s\S]*?\n---\n/, "");
 
-      const refs = normalize(body);
+      const refs = [...new Set([...citations(body)].map((c) => c.ref))].sort();
       if (refs.length) {
         totalRefs += refs.length;
         refsBySource[sourceName].refs += refs.length;

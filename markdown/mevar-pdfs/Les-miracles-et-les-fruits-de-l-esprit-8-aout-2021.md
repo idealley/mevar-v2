@@ -34,6 +34,13 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
 local_pdf: "/files/mevar/Les-miracles-et-les-fruits-de-l-esprit-8-aout-2021.pdf"
 llm_cleaned: true
+bible_refs:
+  - "1 Corinthiens 12"
+  - "1 Corinthiens 13"
+  - "2 Pierre 1"
+  - "Apocalypse 3"
+  - "Exode 32:32-33"
+  - "Galates 5:22"
 ---
 *Prêché le 8 août 2021 à Koumassi par Parfait M’BRA*
 

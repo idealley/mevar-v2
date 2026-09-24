@@ -36,6 +36,14 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf"
 local_pdf: "/files/mevar/Le_processus_de_la_maturation_du_Fils_de_l_Eglise.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 12"
+  - "Apocalypse 12:1-6"
+  - "Apocalypse 3"
+  - "Apocalypse 3:14"
+  - "Luc 17"
+  - "Matthieu 24"
+  - "Matthieu 25"
 ---
 Le Processus de la maturation du fils de l’Église
 

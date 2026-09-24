@@ -42,6 +42,10 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Appel_a_sortir_de_Babylone.pdf"
 local_pdf: "/files/mevar/Appel_a_sortir_de_Babylone.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Apocalypse 18"
+  - "Apocalypse 7"
+  - "Jérémie 51"
 ---
 *Prêché à Koumassi par frère M'BRA Parfait, le dimanche 09 Juin 2019*
 

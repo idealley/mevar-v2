@@ -50,6 +50,12 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/les_disciples_de_jean_baptiste_31_08_2019.pdf"
 local_pdf: "/files/mevar/les_disciples_de_jean_baptiste_31_08_2019.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 19:1-7"
+  - "Actes 2"
+  - "Joël 2"
+  - "Luc 3:1-7"
+  - "Matthieu 25"
 ---
 Les croyants du Message du Temps de la Fin
 comme les disciples de Jean-Baptiste

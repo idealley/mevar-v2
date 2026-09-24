@@ -36,6 +36,9 @@ themes:
 pdf_url: "https://mevar.org/content/files/2022/12/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
 local_pdf: "/files/mevar/Le_temoignage_de_Dieu_15_janvier_2022.pdf"
 llm_cleaned: true
+bible_refs:
+  - "Actes 2"
+  - "Ézéchiel 14"
 ---
 *Le témoignage de Dieu*
 *Prêché le 15 janvier 2022*
