@@ -8,7 +8,8 @@
 //   same sermon    both containments >= 0.70                  applied
 //   uncertain      one containment >= 0.20, or titles alike   applied only when
 //                  and one containment >= 0.10                Samuel says "same"
-// Samuel's answers: scripts/mevar-duplicates-decided.json, keyed "<id> | <id>".
+// Samuel's answers: scripts/mevar-duplicates-decided.json, keyed "<id> | <id>",
+// "same" or "different", on any pair: "different" also cuts an applied pair.
 //
 // A shingle held by more than 20 works is a formula ("au nom de jesus christ")
 // and is not counted as shared.
@@ -134,13 +135,13 @@ bins.forEach(bin);
 console.log(`pairs below ${SAME_SERMON}, by the larger containment:`);
 below.forEach(bin);
 
-const keys = new Set(pairs.filter((p) => p.band === "uncertain").map((p) => `${p.a.id} | ${p.b.id}`));
+const keys = new Set(pairs.map((p) => `${p.a.id} | ${p.b.id}`));
 for (const [key, value] of Object.entries(decided)) {
   if (!keys.has(key) || !["same", "different"].includes(value)) console.warn(`decision ignored: "${key}": "${value}"`);
 }
 
 // Groups: union of the applied pairs and the uncertain pairs Samuel called "same".
-const applied = pairs.filter((p) => p.band !== "uncertain" || p.decision === "same");
+const applied = pairs.filter((p) => p.decision === "same" || (p.band !== "uncertain" && p.decision !== "different"));
 const parent = new Map();
 const find = (id) => (parent.has(id) ? find(parent.get(id)) : id);
 for (const p of applied) {
@@ -156,7 +157,7 @@ for (const w of grouped) {
 }
 
 function keeper(group) {
-  const ghost = group.filter((w) => w.source === "mevar");
+  const ghost = group.filter((w) => w.source === "mevar").sort((x, y) => x.draft - y.draft);
   if (ghost.length) return { keep: ghost[0], rule: ghost.length > 1 ? "ghost post (several, first by id)" : "ghost post" };
   const [first, second] = [...group].sort((x, y) => y.shingles.size - x.shingles.size || x.ocr - y.ocr || x.id.localeCompare(y.id));
   const rule = first.shingles.size > second.shingles.size ? "more of the sermon"
@@ -171,10 +172,17 @@ for (const group of members.values()) {
   const { keep, rule } = keeper(group);
   const ids = new Set(group.map((w) => w.id));
   // Held: a draft is never built, so nothing may redirect to it yet (a rerun
-  // after Samuel publishes it applies the group); and a group that holds an
-  // uncertain pair Samuel has not called "same" waits for that answer.
-  const open = pairs.filter((p) => p.band === "uncertain" && p.decision !== "same" && ids.has(p.a.id) && ids.has(p.b.id));
-  const held = keep.draft ? "kept by a Ghost draft" : open.length ? `holds ${open.map((p) => `${p.a.id} | ${p.b.id}`).join(", ")}` : null;
+  // after Samuel publishes it applies the group); a group that holds an
+  // unanswered uncertain pair waits for the answer; a group that holds a pair
+  // answered "different" waits until "different" cuts a pair that joins them.
+  const inside = pairs.filter((p) => ids.has(p.a.id) && ids.has(p.b.id));
+  const open = inside.filter((p) => p.band === "uncertain" && !p.decision);
+  const split = inside.filter((p) => p.decision === "different");
+  const key = (p) => `${p.a.id} | ${p.b.id}`;
+  const held = keep.draft ? "kept by a Ghost draft"
+    : open.length ? `waits for an answer on ${open.map(key).join(", ")}`
+    : split.length ? `joins ${split.map(key).join(", ")}, answered "different": cut a pair that joins them`
+    : null;
   if (!held) for (const w of group) if (w !== keep && w.source !== "mevar") duplicateOf.set(w.id, keep.id);
   groups.push({
     keep: keep.id, rule, held,
