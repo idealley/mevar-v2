@@ -38,6 +38,8 @@ for (const rel of fs.readdirSync(path.join(root, "markdown"), { recursive: true 
   if (!rel.endsWith(".md")) continue;
   const p = path.join(root, "markdown", rel);
   const text = fs.readFileSync(p, "utf8");
+  // Ten works have no frontmatter: nothing here is a field.
+  if (!text.startsWith("---\n")) continue;
   const end = text.indexOf("\n---\n", 4) + 1;
   const fm = text.slice(0, end);
   const cleaned = fm.replace(line, (l) => {
