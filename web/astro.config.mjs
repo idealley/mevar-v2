@@ -6,12 +6,13 @@ import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
 import AstroPWA from "@vite-pwa/astro";
 import { rehypeBookmarks } from "./src/lib/bookmarks.mjs";
+import { rehypeBodyImages } from "./src/lib/body-images.mjs";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://mevar.org",
   trailingSlash: "always",
-  markdown: { rehypePlugins: [rehypeBookmarks] },
+  markdown: { rehypePlugins: [rehypeBookmarks, rehypeBodyImages] },
   integrations: [
     svelte(),
     sitemap(),
