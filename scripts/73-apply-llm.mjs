@@ -139,9 +139,10 @@ for (const cacheFile of fs.readdirSync(cacheDir)) {
     continue;
   }
 
-  // Merge LLM fields into manifest entry (keep existing if LLM returned null)
+  // Merge LLM fields into manifest entry (keep existing if LLM returned null).
+  // "Unknown", "Unknown (likely Florida…)" is the model saying it has nothing.
   for (const key of ["title", "subtitle", "date", "location", "preacher", "summary"]) {
-    if (cache[key] != null && cache[key] !== "") entry[key] = cache[key];
+    if (cache[key] != null && cache[key] !== "" && !/^unknown\b/i.test(cache[key])) entry[key] = cache[key];
   }
   if (cache.date && /^\d{4}-\d{2}-\d{2}$/.test(cache.date)) {
     entry.year = Number(cache.date.slice(0, 4));
