@@ -4,11 +4,13 @@ import { defineConfig } from "astro/config";
 import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
 import AstroPWA from "@vite-pwa/astro";
+import { rehypeBookmarks } from "./src/lib/bookmarks.mjs";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://mevar.org",
   trailingSlash: "always",
+  markdown: { rehypePlugins: [rehypeBookmarks] },
   integrations: [
     svelte(),
     AstroPWA({
