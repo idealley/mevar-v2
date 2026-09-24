@@ -3,7 +3,7 @@
     {
       "keep": "mevar/a-moi-la-retribution-a-moi-la-vengeance",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/a-moi-la-retribution-a-moi-la-vengeance",
@@ -33,7 +33,7 @@
     {
       "keep": "mevar/a-qui-comparerai-je-cette-generation",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/a-qui-comparerai-je-cette-generation",
@@ -63,7 +63,7 @@
     {
       "keep": "mevar/afin-que-les-oeuvres-de-dieu-soient-accomplies",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/afin-que-les-oeuvres-de-dieu-soient-accomplies",
@@ -93,7 +93,7 @@
     {
       "keep": "mevar/anne-et-simeon",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/anne-et-simeon",
@@ -123,7 +123,7 @@
     {
       "keep": "mevar/appel-a-la-guerre-appel-au-combat-contre-babylone",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/appel-a-la-guerre-appel-au-combat-contre-babylone",
@@ -153,7 +153,7 @@
     {
       "keep": "mevar/appel-a-lhumilite-et-a-la-simplicite",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/appel-a-lhumilite-et-a-la-simplicite",
@@ -183,7 +183,7 @@
     {
       "keep": "mevar/argent-orgueil-et-querelles-dans-les-assemblees",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/argent-orgueil-et-querelles-dans-les-assemblees",
@@ -213,7 +213,7 @@
     {
       "keep": "mevar/aux-jours-du-saint-esprit",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/aux-jours-du-saint-esprit",
@@ -243,7 +243,7 @@
     {
       "keep": "mevar/ayez-du-zele-et-non-de-la-paresse",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/ayez-du-zele-et-non-de-la-paresse",
@@ -273,7 +273,7 @@
     {
       "keep": "mevar/babylone-la-grande-ville",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/babylone-la-grande-ville",
@@ -303,7 +303,7 @@
     {
       "keep": "mevar/braver-la-grande-foule",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_septembre_2019_braver_la_grande_foule",
@@ -333,7 +333,7 @@
     {
       "keep": "mevar/c-est-ici-votre-heure-et-la-puissance-des-tenebres",
       "rule": "ghost post (several, first by id)",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/c-est-ici-votre-heure-et-la-puissance-des-tenebres",
@@ -378,7 +378,7 @@
     {
       "keep": "mevar/ceux-de-la-grande-tribulation",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/ceux-de-la-grande-tribulation",
@@ -408,7 +408,7 @@
     {
       "keep": "mevar/ceux-de-la-grande-tribulation-deuxieme-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/ceux-de-la-grande-tribulation-deuxieme-partie",
@@ -438,7 +438,7 @@
     {
       "keep": "mevar/chercher-dieu-et-le-trouver",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_fevrier_202_chercher_dieu_et_le_trouver",
@@ -468,7 +468,7 @@
     {
       "keep": "mevar/chercheurs-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/chercheurs-de-dieu",
@@ -498,7 +498,7 @@
     {
       "keep": "mevar/cherchez-avec-le-seigneur",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_2_0ctober_2019_cherchez_avec_le_seigneur",
@@ -528,7 +528,7 @@
     {
       "keep": "mevar/combat-contre-le-peche",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/combat-contre-le-peche",
@@ -558,7 +558,7 @@
     {
       "keep": "mevar/combat-contre-lennemi",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/combat-contre-lennemi",
@@ -612,7 +612,7 @@
     {
       "keep": "mevar/commencer-et-achever-la-marche-pas-lesprit",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/commencer-et-achever-la-marche-pas-lesprit",
@@ -642,7 +642,7 @@
     {
       "keep": "mevar/convention-nationale-de-reveil",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/convention-nationale-de-reveil",
@@ -672,7 +672,7 @@
     {
       "keep": "mevar/covid-19-ou-la-mort-dans-les-nations",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/COVID_19_ou_la_mort_dans_les_nations_exhortation_mars_2020",
@@ -702,7 +702,7 @@
     {
       "keep": "mevar/david-et-goliath",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/David_et_Goliath_le_cri_de_minuit",
@@ -732,7 +732,7 @@
     {
       "keep": "mevar/dehors-les-chiens",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/dehors-les-chiens",
@@ -762,7 +762,7 @@
     {
       "keep": "mevar/demas-ou-l-esprit-de-la-mondanite",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/demas-ou-l-esprit-de-la-mondanite",
@@ -792,7 +792,7 @@
     {
       "keep": "mevar/demonstration-desprit-et-de-puissance",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/demonstration-desprit-et-de-puissance",
@@ -822,7 +822,7 @@
     {
       "keep": "mevar/des-hommes-de-mission-a-la-ressemblance-de-jesus",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/des-hommes-de-mission-a-la-ressemblance-de-jesus",
@@ -852,7 +852,7 @@
     {
       "keep": "mevar/des-hommes-faits",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/des_hommes_faits_30_10_2016",
@@ -882,7 +882,7 @@
     {
       "keep": "mevar/des-noms-sous-les-propheties",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/des_noms_sous_les_propheties_06.06.2021",
@@ -912,7 +912,7 @@
     {
       "keep": "mevar/dieu-fuyant-le-peche",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/dieu-fuyant-le-peche",
@@ -966,7 +966,7 @@
     {
       "keep": "mevar/dieu-n-est-pas-un-homme-pour-mentir",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/dieu-n-est-pas-un-homme-pour-mentir",
@@ -996,7 +996,7 @@
     {
       "keep": "mevar/dieu-regarde-au-coeur",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/dieu_regarde_le_coeur_exhortation_de_Juillet_2020",
@@ -1026,7 +1026,7 @@
     {
       "keep": "mevar/dieu-veille-sur-sa-parole-pour-lexecuter",
       "rule": "ghost post",
-      "keep_is_draft": true,
+      "held": "kept by a Ghost draft",
       "members": [
         {
           "id": "mevar/dieu-veille-sur-sa-parole-pour-lexecuter",
@@ -1056,7 +1056,7 @@
     {
       "keep": "mevar/dispensateurs-des-biens-du-christ",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/dispensateurs-des-biens-du-christ",
@@ -1086,7 +1086,7 @@
     {
       "keep": "mevar/ebranlez-les-prisons",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/ebranlez-les-prisons",
@@ -1116,7 +1116,7 @@
     {
       "keep": "mevar/et-soudain-entrera-dans-son-temple-le-seigneur-que-vous-cherchez",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/Et_soudain_entrera_dans_son_temple_le_Seigneur_que_vous_cherchez_16_12_2015",
@@ -1146,7 +1146,7 @@
     {
       "keep": "mevar/face-a-face-avec-les-realites-de-la-foi",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022",
@@ -1176,7 +1176,7 @@
     {
       "keep": "mevar/faire-dieu-menteur",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/faire-dieu-menteur",
@@ -1206,7 +1206,7 @@
     {
       "keep": "mevar/holocauste",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/holocoste_exhortation_mars_2021",
@@ -1236,7 +1236,7 @@
     {
       "keep": "mevar/je-lui-ferai-une-aide-semblable",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/je-lui-ferai-une-aide-semblable",
@@ -1290,7 +1290,7 @@
     {
       "keep": "mevar/jesus-christ-architecte-et-constructeur",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/jesus-christ-architecte-et-constructeur",
@@ -1320,7 +1320,7 @@
     {
       "keep": "mevar/jesus-christ-est-le-meme-hier-aujourd-hui-et-eternellement",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/jesus-christ-est-le-meme-hier-aujourd-hui-et-eternellement",
@@ -1350,7 +1350,7 @@
     {
       "keep": "mevar/jesus-et-marie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/jesus-et-marie",
@@ -1380,7 +1380,7 @@
     {
       "keep": "mevar/juillet-2019",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/sujets_de_priere_juillet_2019",
@@ -1410,7 +1410,7 @@
     {
       "keep": "mevar/juin-2019",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/sujets_de_priere_juin_2019",
@@ -1440,7 +1440,7 @@
     {
       "keep": "mevar/l-adoration-par-la-revelation",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-adoration-par-la-revelation",
@@ -1494,7 +1494,7 @@
     {
       "keep": "mevar/l-amour-et-la-connaissance",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-amour-et-la-connaissance",
@@ -1524,7 +1524,7 @@
     {
       "keep": "mevar/l-ancien-testament-et-le-royaume-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/l_ancien_testament_et_le_royaume_de_dieu_koumassi_28_fevrier_2021",
@@ -1554,7 +1554,7 @@
     {
       "keep": "mevar/l-appel-a-la-victoire",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-appel-a-la-victoire",
@@ -1584,7 +1584,7 @@
     {
       "keep": "mevar/l-appel-a-sortir-de-babylone",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/Appel_a_sortir_de_Babylone",
@@ -1614,7 +1614,7 @@
     {
       "keep": "mevar/l-appel-de-1933",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-appel-de-1933",
@@ -1644,7 +1644,7 @@
     {
       "keep": "mevar/l-autorite-spirituelle",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-autorite-spirituelle",
@@ -1674,7 +1674,7 @@
     {
       "keep": "mevar/l-eglise-comme-obed-edom",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-eglise-comme-obed-edom",
@@ -1704,7 +1704,7 @@
     {
       "keep": "mevar/l-enjeu-du-combat-contre-goliath-1",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/combattre_contre_les_goliath_premiere_partie_23.07.2021",
@@ -1734,7 +1734,7 @@
     {
       "keep": "mevar/l-epreuve-de-jean-baptiste",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-epreuve-de-jean-baptiste",
@@ -1764,7 +1764,7 @@
     {
       "keep": "mevar/l-epreuve-de-moise",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-epreuve-de-moise",
@@ -1794,7 +1794,7 @@
     {
       "keep": "mevar/l-epreuve-de-moise-deuxieme-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-epreuve-de-moise-deuxieme-partie",
@@ -1824,7 +1824,7 @@
     {
       "keep": "mevar/l-evangile-de-grace",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-evangile-de-grace",
@@ -1854,7 +1854,7 @@
     {
       "keep": "mevar/l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-eveil-de-l-homme-spirituel-pour-le-combat-spirituel",
@@ -1884,7 +1884,7 @@
     {
       "keep": "mevar/l-heure-cruciale-vous-pleurerez-et-vous-vous-lamenterez",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-heure-cruciale-vous-pleurerez-et-vous-vous-lamenterez",
@@ -1914,7 +1914,7 @@
     {
       "keep": "mevar/l-ile-de-patmos-l-ile-de-la-revelation",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-ile-de-patmos-l-ile-de-la-revelation",
@@ -1944,7 +1944,7 @@
     {
       "keep": "mevar/l-objet-de-la-foi",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-objet-de-la-foi",
@@ -1974,7 +1974,7 @@
     {
       "keep": "mevar/l-oeuvre-de-dieu-un-investissement",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/l_oeuvre_de_dieu_un_investissement_abidjan_12.08.2021",
@@ -2004,7 +2004,7 @@
     {
       "keep": "mevar/l-offrande-salee",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-offrande-salee",
@@ -2034,7 +2034,7 @@
     {
       "keep": "mevar/l-univers-de-la-revelation",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-univers-de-la-revelation",
@@ -2064,7 +2064,7 @@
     {
       "keep": "mevar/l-univers-de-la-revelation-deuxieme-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/l-univers-de-la-revelation-deuxieme-partie",
@@ -2094,7 +2094,7 @@
     {
       "keep": "mevar/la-chute-deutychus",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-chute-deutychus",
@@ -2124,7 +2124,7 @@
     {
       "keep": "mevar/la-crainte-de-l-eternel",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/la_crainte_de_l_eternel_samuel",
@@ -2154,7 +2154,7 @@
     {
       "keep": "mevar/la-derniere-priere-des-saints",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-derniere-priere-des-saints",
@@ -2184,7 +2184,7 @@
     {
       "keep": "mevar/la-doctrine-de-balaam",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/la_doctrine_de_Balaam",
@@ -2214,7 +2214,7 @@
     {
       "keep": "mevar/la-douleur-d-un-prophete",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-douleur-d-un-prophete",
@@ -2244,7 +2244,7 @@
     {
       "keep": "mevar/la-drachme-perdue",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-drachme-perdue",
@@ -2274,7 +2274,7 @@
     {
       "keep": "mevar/la-fin-d-une-epoque",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_la_fin_d_une_epoque_novembre_2022",
@@ -2304,7 +2304,7 @@
     {
       "keep": "mevar/la-foi-d-enoch",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-foi-d-enoch",
@@ -2334,7 +2334,7 @@
     {
       "keep": "mevar/la-foi-et-la-nature-divine",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-foi-et-la-nature-divine",
@@ -2364,7 +2364,7 @@
     {
       "keep": "mevar/la-foi-et-la-nature-divine-deuxieme-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-foi-et-la-nature-divine-deuxieme-partie",
@@ -2394,7 +2394,7 @@
     {
       "keep": "mevar/la-foi-pour-manger-le-lait-et-le-miel",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-foi-pour-manger-le-lait-et-le-miel",
@@ -2424,7 +2424,7 @@
     {
       "keep": "mevar/la-foi-voit-l-invisible",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-foi-voit-l-invisible",
@@ -2454,7 +2454,7 @@
     {
       "keep": "mevar/la-grande-tentation-et-le-chemin-de-la-gloire",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-grande-tentation-et-le-chemin-de-la-gloire",
@@ -2484,7 +2484,7 @@
     {
       "keep": "mevar/la-guerre-du-dragon-contre-le-fils-de-l-eglise",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-guerre-du-dragon-contre-le-fils-de-l-eglise",
@@ -2514,7 +2514,7 @@
     {
       "keep": "mevar/la-guerre-spirituelle-actuelle-nous-triompherons",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/La_guerre_spirituelle_actuelle_nous_triompherons_exhortation_fin_avril_2020",
@@ -2544,7 +2544,7 @@
     {
       "keep": "mevar/la-lepre-de-nahaman",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-lepre-de-nahaman",
@@ -2574,7 +2574,7 @@
     {
       "keep": "mevar/la-maison-construite-sur-le-roc",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/la_maison_construite_sur_le_roc_stephane",
@@ -2604,7 +2604,7 @@
     {
       "keep": "mevar/la-maison-du-tresor",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-maison-du-tresor",
@@ -2634,7 +2634,7 @@
     {
       "keep": "mevar/la-marche-de-l-incredulite",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-marche-de-l-incredulite",
@@ -2664,7 +2664,7 @@
     {
       "keep": "mevar/la-marche-prophetique-des-dix-vierges",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/la_marche_des_vierges_29_11_2013",
@@ -2718,7 +2718,7 @@
     {
       "keep": "mevar/la-mission-du-saint-esprit-dans-l-eglise",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-mission-du-saint-esprit-dans-l-eglise",
@@ -2748,7 +2748,7 @@
     {
       "keep": "mevar/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie",
@@ -2778,7 +2778,7 @@
     {
       "keep": "mevar/la-nuit-et-le-jour-des-esprits",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-nuit-et-le-jour-des-esprits",
@@ -2808,7 +2808,7 @@
     {
       "keep": "mevar/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur",
@@ -2838,7 +2838,7 @@
     {
       "keep": "mevar/la-parabole-des-talents",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-parabole-des-talents",
@@ -2868,7 +2868,7 @@
     {
       "keep": "mevar/la-parabole-du-pain",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-parabole-du-pain",
@@ -2898,7 +2898,7 @@
     {
       "keep": "mevar/la-peur-de-satan",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_fin_mars_2022_la_peur_de_satan",
@@ -2928,7 +2928,7 @@
     {
       "keep": "mevar/la-position-de-sauveur",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/Exhortation_de_Juillet_2019",
@@ -2958,7 +2958,7 @@
     {
       "keep": "mevar/la-predication-de-la-croix-et-le-message-du-temps-de-la-fin",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/predication_de_la_croix_et_le_message_du_temps_de_la_fin_koumassi.21.02.2021",
@@ -2988,7 +2988,7 @@
     {
       "keep": "mevar/la-repentance",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-repentance",
@@ -3018,7 +3018,7 @@
     {
       "keep": "mevar/la-restitution",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-restitution",
@@ -3048,7 +3048,7 @@
     {
       "keep": "mevar/la-revolte-de-sheba",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-revolte-de-sheba",
@@ -3078,7 +3078,7 @@
     {
       "keep": "mevar/la-solution-a-la-souffrance",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-solution-a-la-souffrance",
@@ -3108,7 +3108,7 @@
     {
       "keep": "mevar/la-toilette-du-chretien",
       "rule": "ghost post",
-      "keep_is_draft": true,
+      "held": "kept by a Ghost draft",
       "members": [
         {
           "id": "mevar/la-toilette-du-chretien",
@@ -3138,7 +3138,7 @@
     {
       "keep": "mevar/la-trompette-du-reveil",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-trompette-du-reveil",
@@ -3168,7 +3168,7 @@
     {
       "keep": "mevar/la-vision-du-bon-berger",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-vision-du-bon-berger",
@@ -3198,7 +3198,7 @@
     {
       "keep": "mevar/la-vision-prophetique-fait-la-difference",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-vision-prophetique-fait-la-difference",
@@ -3228,7 +3228,7 @@
     {
       "keep": "mevar/la-voix-de-l-offrande",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/la-voix-de-l-offrande",
@@ -3258,7 +3258,7 @@
     {
       "keep": "mevar/lange-de-la-marche",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/lange-de-la-marche",
@@ -3288,7 +3288,7 @@
     {
       "keep": "mevar/lappel-et-lexperience-du-ministere",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/lappel-et-lexperience-du-ministere",
@@ -3318,7 +3318,7 @@
     {
       "keep": "mevar/larche-et-les-adorateurs",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/larche-et-les-adorateurs",
@@ -3348,7 +3348,7 @@
     {
       "keep": "mevar/laveugle-bartimee",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/laveugle-bartimee",
@@ -3378,7 +3378,7 @@
     {
       "keep": "mevar/le-baton-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_speciale_aout_2006_le_baton_de_dieu",
@@ -3432,7 +3432,7 @@
     {
       "keep": "mevar/le-cavalier-au-cheval-blanc-du-premier-sceau-d-apocalypse",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/7_Sceaux_1",
@@ -3462,7 +3462,7 @@
     {
       "keep": "mevar/le-cavalier-au-cheval-pale-la-mort",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/7_sceaux_3",
@@ -3492,7 +3492,7 @@
     {
       "keep": "mevar/le-chemin-de-saul",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/le_chemin_de_saul_21_aout_2021",
@@ -3522,7 +3522,7 @@
     {
       "keep": "mevar/le-chemin-le-plus-long",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-chemin-le-plus-long",
@@ -3552,7 +3552,7 @@
     {
       "keep": "mevar/le-cheval-roux-et-le-cheval-noir",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/7_sceaux_2",
@@ -3582,7 +3582,7 @@
     {
       "keep": "mevar/le-choix",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-choix",
@@ -3612,7 +3612,7 @@
     {
       "keep": "mevar/le-croyant-semblable-au-marchand-de-perles",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perles",
@@ -3642,7 +3642,7 @@
     {
       "keep": "mevar/le-culte-de-la-vierge-marie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-culte-de-la-vierge-marie",
@@ -3672,7 +3672,7 @@
     {
       "keep": "mevar/le-deguisement-de-la-femme-de-jeroboam",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-deguisement-de-la-femme-de-jeroboam",
@@ -3702,7 +3702,7 @@
     {
       "keep": "mevar/le-depart-du-dioscures",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-depart-du-dioscures",
@@ -3732,7 +3732,7 @@
     {
       "keep": "mevar/le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-devoir-du-fils-la-fidelite-dans-la-maison-de-dieu",
@@ -3762,7 +3762,7 @@
     {
       "keep": "mevar/le-droit-de-rachat",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-droit-de-rachat",
@@ -3792,7 +3792,7 @@
     {
       "keep": "mevar/le-fils-male-lanon-prophetique",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-fils-male-lanon-prophetique",
@@ -3822,7 +3822,7 @@
     {
       "keep": "mevar/le-fils-prodigue",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-fils-prodigue",
@@ -3852,7 +3852,7 @@
     {
       "keep": "mevar/le-fruit-de-la-repentance",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-fruit-de-la-repentance",
@@ -3882,7 +3882,7 @@
     {
       "keep": "mevar/le-jeune-homme-riche",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-jeune-homme-riche",
@@ -3912,7 +3912,7 @@
     {
       "keep": "mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-juste-jugement-de-dieu-laffaire-durie-contre-david",
@@ -3942,7 +3942,7 @@
     {
       "keep": "mevar/le-livre-des-chroniques-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-livre-des-chroniques-de-dieu",
@@ -3972,7 +3972,7 @@
     {
       "keep": "mevar/le-ministere-de-l-esprit-dans-le-royaume-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/ministere_de_l_esprit_dans_le_royaume_de_dieu_koumassi_7_mars_2021",
@@ -4002,7 +4002,7 @@
     {
       "keep": "mevar/le-nom-de-jesus",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/le_nom_de_jesus_24_02_2019",
@@ -4032,7 +4032,7 @@
     {
       "keep": "mevar/le-petit-troupeau-de-la-fin-des-temps",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-petit-troupeau-de-la-fin-des-temps",
@@ -4062,7 +4062,7 @@
     {
       "keep": "mevar/le-processus-de-la-maturation-du-fils-de-l-eglise",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/Le_processus_de_la_maturation_du_Fils_de_l_Eglise",
@@ -4092,7 +4092,7 @@
     {
       "keep": "mevar/le-quatrieme-cinquieme-et-sixeme-sceaux",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/7_sceaux_4",
@@ -4122,7 +4122,7 @@
     {
       "keep": "mevar/le-reflet",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/le_reflet_11_10_2015",
@@ -4152,7 +4152,7 @@
     {
       "keep": "mevar/le-repos-en-christ",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-repos-en-christ",
@@ -4182,7 +4182,7 @@
     {
       "keep": "mevar/le-reveil-de-la-fin-des-temps-selon-william-branham",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-reveil-de-la-fin-des-temps-selon-william-branham",
@@ -4212,7 +4212,7 @@
     {
       "keep": "mevar/le-salut-selon-la-bible",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/le_salut_selon_la_bible",
@@ -4242,7 +4242,7 @@
     {
       "keep": "mevar/le-semeur-de-miniuit",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-semeur-de-miniuit",
@@ -4272,7 +4272,7 @@
     {
       "keep": "mevar/le-septieme-sceau",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/le_septieme_sceau_premiere_partie_6_09_2019",
@@ -4302,7 +4302,7 @@
     {
       "keep": "mevar/le-soldat-urie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-soldat-urie",
@@ -4332,7 +4332,7 @@
     {
       "keep": "mevar/le-sort-de-cain",
       "rule": "ghost post",
-      "keep_is_draft": true,
+      "held": "kept by a Ghost draft",
       "members": [
         {
           "id": "mevar/le-sort-de-cain",
@@ -4362,7 +4362,7 @@
     {
       "keep": "mevar/le-temoignage-de-deux-est-vrai",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_de_mai_2022_le_temoignage_de_deux_est_vrai",
@@ -4392,7 +4392,7 @@
     {
       "keep": "mevar/le-temoignage-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/Le_temoignage_de_Dieu_15_janvier_2022",
@@ -4422,7 +4422,7 @@
     {
       "keep": "mevar/le-temoignage-des-apotres",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/le_temoignage_des_apotres_13_janvier_2022",
@@ -4452,7 +4452,7 @@
     {
       "keep": "mevar/le-temoignage-final",
       "rule": "ghost post",
-      "keep_is_draft": true,
+      "held": "kept by a Ghost draft",
       "members": [
         {
           "id": "mevar/le-temoignage-final",
@@ -4482,7 +4482,7 @@
     {
       "keep": "mevar/le-temps-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_speciale_de_decembre_2021",
@@ -4512,7 +4512,7 @@
     {
       "keep": "mevar/le-vin-nouveau-et-le-vieux-vin",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-vin-nouveau-et-le-vieux-vin",
@@ -4542,7 +4542,7 @@
     {
       "keep": "mevar/le-voeux-de-jephte",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/le-voeux-de-jephte",
@@ -4572,7 +4572,7 @@
     {
       "keep": "mevar/lenjeu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/lenjeu",
@@ -4602,7 +4602,7 @@
     {
       "keep": "mevar/les-coeurs-durs",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/les-coeurs-durs",
@@ -4632,7 +4632,7 @@
     {
       "keep": "mevar/les-croyants-du-message-du-temps-de-la-fin-comme-les-disciples-de-jean-baptiste",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/les_disciples_de_jean_baptiste_31_08_2019",
@@ -4662,7 +4662,7 @@
     {
       "keep": "mevar/les-dons-excellents",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/les-dons-excellents",
@@ -4692,7 +4692,7 @@
     {
       "keep": "mevar/les-intercesseurs-de-minuit",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/les-intercesseurs-de-minuit",
@@ -4722,7 +4722,7 @@
     {
       "keep": "mevar/les-jours-du-fils-de-l-homme",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/les-jours-du-fils-de-l-homme",
@@ -4752,7 +4752,7 @@
     {
       "keep": "mevar/les-jugements-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/jugements_de_dieu_22_aout_2020",
@@ -4782,7 +4782,7 @@
     {
       "keep": "mevar/les-liberateurs-du-peuple-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/les-liberateurs-du-peuple-de-dieu",
@@ -4812,7 +4812,7 @@
     {
       "keep": "mevar/les-miracles-et-les-fruits-de-l-esprit",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/Les_miracles_et_les_fruits_de_l_esprit_8_aout_2021",
@@ -4842,7 +4842,7 @@
     {
       "keep": "mevar/les-porteurs-du-royaume-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/les-porteurs-du-royaume-de-dieu",
@@ -4872,7 +4872,7 @@
     {
       "keep": "mevar/les-prisonniers-de-la-religion",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/les-prisonniers-de-la-religion",
@@ -4902,7 +4902,7 @@
     {
       "keep": "mevar/les-sentiments-justes",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/les_sentiments_justes_exhortation_fevrier_2020",
@@ -4932,7 +4932,7 @@
     {
       "keep": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-deuxieme-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/2_signes_d_un_ministere_17_11_19",
@@ -4962,7 +4962,7 @@
     {
       "keep": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-premiere-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/1_signes_d_un_ministere_authentique_de_dieu_08_11_2019",
@@ -4992,7 +4992,7 @@
     {
       "keep": "mevar/les-signes-d-un-ministere-ou-d-une-oeuvre-authentique-de-dieu-quatrieme-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/4_eprouvez_les_signes_05_01_20",
@@ -5022,7 +5022,7 @@
     {
       "keep": "mevar/les-signes-d-une-oeuvre-ou-d-un-ministere-authentique-de-dieu-troisieme-partie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/3_signes_d_un_ministere_01_12_19",
@@ -5052,7 +5052,7 @@
     {
       "keep": "mevar/les-teraphims-et-la-mort-de-rachel",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel",
@@ -5082,7 +5082,7 @@
     {
       "keep": "mevar/les-visages-de-satan",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/les-visages-de-satan",
@@ -5112,7 +5112,7 @@
     {
       "keep": "mevar/lesprit-babylonien",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/lesprit-babylonien",
@@ -5142,7 +5142,7 @@
     {
       "keep": "mevar/mai-juin-2019",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/sujets_de_priere_fin_mai_juin_2019",
@@ -5172,7 +5172,7 @@
     {
       "keep": "mevar/malheures-aux-enfants-rebelles",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/malheures-aux-enfants-rebelles",
@@ -5202,7 +5202,7 @@
     {
       "keep": "mevar/manger-le-sacrifice",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/manger_le_sacrifice_20_octobre_2020",
@@ -5232,7 +5232,7 @@
     {
       "keep": "mevar/medecin-gueris-toi-toi-meme",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/medecin_gueris_toi_toi_meme_15_02_2015",
@@ -5262,7 +5262,7 @@
     {
       "keep": "mevar/nehemie-echanson-du-roi-artaxerxes",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/nehemie-echanson-du-roi-artaxerxes",
@@ -5292,7 +5292,7 @@
     {
       "keep": "mevar/nehuschtan-le-serpent-d-airain",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/nehuschtan-le-serpent-d-airain",
@@ -5322,7 +5322,7 @@
     {
       "keep": "mevar/ninive-et-tarsis",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/ninive-et-tarsis",
@@ -5352,7 +5352,7 @@
     {
       "keep": "mevar/notre-generation-verra-la-guerre",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/notre-generation-verra-la-guerre",
@@ -5382,7 +5382,7 @@
     {
       "keep": "mevar/notre-position-comparee-a-celle-de-jeremie",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/notre-position-comparee-a-celle-de-jeremie",
@@ -5412,7 +5412,7 @@
     {
       "keep": "mevar/notre-volonte",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/notre-volonte",
@@ -5442,7 +5442,7 @@
     {
       "keep": "mevar/nous-avons-vu-son-etoile",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/nous-avons-vu-son-etoile",
@@ -5472,7 +5472,7 @@
     {
       "keep": "mevar/novembre-decembre-2019",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/sujets_de_priere_novembre_2019",
@@ -5502,7 +5502,7 @@
     {
       "keep": "mevar/on-l-appellera-samuel",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/on-l-appellera-samuel",
@@ -5532,7 +5532,7 @@
     {
       "keep": "mevar/otons-nos-vetements",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/Le_lavage_des_pieds_17_fevrier_2020_Lausanne",
@@ -5562,7 +5562,7 @@
     {
       "keep": "mevar/plusieurs-me-diront-seigneur-seigneur",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/plusieurs-me-diront-seigneur-seigneur",
@@ -5592,7 +5592,7 @@
     {
       "keep": "mevar/pourquoi-ne-sommes-nous-pas-exauces",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/pourquoi_nous_ne_sommes_pas_exauces_premiere_partie_23_09_2019",
@@ -5622,7 +5622,7 @@
     {
       "keep": "mevar/prenez-courage",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/prenez-courage",
@@ -5652,7 +5652,7 @@
     {
       "keep": "mevar/prenez-garde-a-ce-que-vous-entendez",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/prenez-garde-a-ce-que-vous-entendez",
@@ -5682,7 +5682,7 @@
     {
       "keep": "mevar/presence-demoniaque-dans-les-mariages",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/presence-demoniaque-dans-les-mariages",
@@ -5712,7 +5712,7 @@
     {
       "keep": "mevar/qu-ismael-vive-devant-ta-face",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/qu-ismael-vive-devant-ta-face",
@@ -5742,7 +5742,7 @@
     {
       "keep": "mevar/que-celui-qui-a-des-oreilles-ecoute-ce-que-l-esprit-dit-aux-eglises",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/que-celui-qui-a-des-oreilles-ecoute-ce-que-l-esprit-dit-aux-eglises",
@@ -5772,7 +5772,7 @@
     {
       "keep": "mevar/qui-enverrai-je",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/qui-enverrai-je",
@@ -5826,7 +5826,7 @@
     {
       "keep": "mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit",
@@ -5856,7 +5856,7 @@
     {
       "keep": "mevar/qui-sera-enleve",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/qui-sera-enleve",
@@ -5886,7 +5886,7 @@
     {
       "keep": "mevar/reveillez-vous-et-preparez-la-guerre",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/reveillez-vous-et-preparez-la-guerre",
@@ -5916,7 +5916,7 @@
     {
       "keep": "mevar/sans-moi-vous-ne-pouvez-rien-faire",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire",
@@ -5946,7 +5946,7 @@
     {
       "keep": "mevar/se-placer-sous-la-benediction-de-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/se-placer-sous-la-benediction-de-dieu",
@@ -5976,7 +5976,7 @@
     {
       "keep": "mevar/seigneur-je-te-suivrai-partout-ou-tu-iras",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/seigneur-je-te-suivrai-partout-ou-tu-iras",
@@ -6006,7 +6006,7 @@
     {
       "keep": "mevar/si-dieu-est-avec-nous-soyons-aussi-avec-lui",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/si-dieu-est-avec-nous-soyons-aussi-avec-lui",
@@ -6036,7 +6036,7 @@
     {
       "keep": "mevar/si-vous-aviez-de-la-foi-comme-un-grain-de-moutarde",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/si_vous_aviez_de_la_foi_comme_un_grain_de_moutarde_samuel_august_2022",
@@ -6066,7 +6066,7 @@
     {
       "keep": "mevar/sors-de-ton-lit",
       "rule": "ghost post",
-      "keep_is_draft": true,
+      "held": "kept by a Ghost draft",
       "members": [
         {
           "id": "mevar/sors-de-ton-lit",
@@ -6120,7 +6120,7 @@
     {
       "keep": "mevar/souvenez-vous",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/souvenez-vous",
@@ -6150,7 +6150,7 @@
     {
       "keep": "mevar/souviens-toi-donc-d-ou-tu-es-tombe-et-repens-toi",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/souviens_toi_d_ou_tu_es_tombe_et_repens_toi_exhortation_de_decembre_2022",
@@ -6180,7 +6180,7 @@
     {
       "keep": "mevar/soyez-parfaits-comme-votre-pere-celeste-est-parfait",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/exhortation_de_Mars_2022_soyez_parfait_comme_votre_pere_celeste_est_parfait",
@@ -6210,7 +6210,7 @@
     {
       "keep": "mevar/suis-moi",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/suis_moi_samuel",
@@ -6240,7 +6240,7 @@
     {
       "keep": "mevar/suivons-le-seigneur",
       "rule": "ghost post",
-      "keep_is_draft": true,
+      "held": "kept by a Ghost draft",
       "members": [
         {
           "id": "mevar/suivons-le-seigneur",
@@ -6270,7 +6270,7 @@
     {
       "keep": "mevar/toutes-choses-s-accompliront",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/toutes-choses-s-accompliront",
@@ -6300,7 +6300,7 @@
     {
       "keep": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps",
@@ -6354,7 +6354,7 @@
     {
       "keep": "mevar/tu-demandes-une-chose-difficile",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/tu-demandes-une-chose-difficile",
@@ -6384,7 +6384,7 @@
     {
       "keep": "mevar/un-jour-pour-le-seigneur",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/un-jour-pour-le-seigneur",
@@ -6414,7 +6414,7 @@
     {
       "keep": "mevar/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps",
@@ -6444,7 +6444,7 @@
     {
       "keep": "mevar/un-nouveau-ciel-une-nouvelle-terre-un-nouveau-peuple",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/un-nouveau-ciel-une-nouvelle-terre-un-nouveau-peuple",
@@ -6474,7 +6474,7 @@
     {
       "keep": "mevar/un-pays-appele-gosen",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/un-pays-appele-gosen",
@@ -6504,7 +6504,7 @@
     {
       "keep": "mevar/un-peuple-de-sacrificateurs",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/un-peuple-de-sacrificateurs",
@@ -6534,7 +6534,7 @@
     {
       "keep": "mevar/une-porte-ouverte",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/une-porte-ouverte",
@@ -6564,7 +6564,7 @@
     {
       "keep": "mevar/une-prophetie-sur-william-branham",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/une-prophetie-sur-william-branham",
@@ -6594,7 +6594,7 @@
     {
       "keep": "mevar/une-question-sans-reponse",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/question_sans_reponse_25_octobre_2020",
@@ -6624,7 +6624,7 @@
     {
       "keep": "mevar/untitled",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/untitled",
@@ -6654,7 +6654,7 @@
     {
       "keep": "mevar/voici-je-me-tiens-a-la-porte-et-je-frappe",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/je_me_tiens_a_la_porte_et_je_frappe_07_11_2019",
@@ -6684,7 +6684,7 @@
     {
       "keep": "mevar/y-a-t-il-quelque-chose-d-impossible-a-dieu",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar-pdfs/Quelque_chose_d_impossible_a_Dieu_11_10_2020",
@@ -6714,7 +6714,7 @@
     {
       "keep": "mevar/zachee-et-le-sycomore",
       "rule": "ghost post",
-      "keep_is_draft": false,
+      "held": null,
       "members": [
         {
           "id": "mevar/zachee-et-le-sycomore",
@@ -6742,9 +6742,9 @@
       ]
     },
     {
-      "keep": "onedrive/le_mariage_et_les_peches_du_sexe",
-      "rule": "as long and as clean, first by id",
-      "keep_is_draft": false,
+      "keep": "onedrive/mariage_final_pdf",
+      "rule": "more of the sermon",
+      "held": null,
       "members": [
         {
           "id": "onedrive/le_mariage_et_les_peches_du_sexe",
