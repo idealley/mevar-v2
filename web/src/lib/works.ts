@@ -4,7 +4,9 @@
 import { getCollection } from "astro:content";
 import { deriveKind } from "./utils";
 import ghostTags from "../../../manifests/mevar-tags.json";
+import bibleRefs from "../../../manifests/bible-refs.json";
 import { PREACHERS } from "../../../scripts/preachers.mjs";
+import { parseRef } from "./bible.mjs";
 
 export type WorkEntry = Awaited<ReturnType<typeof getCollection<"works">>>[number];
 
@@ -156,3 +158,45 @@ export async function worksBy(p: Preacher): Promise<WorkEntry[]> {
   );
 }
 
+// ─── Verse pages ─────────────────────────────────────────────────────────────
+
+export interface Chapter {
+  book: number;
+  chapter: number;
+  /** Works citing the whole chapter. */
+  whole: WorkEntry[];
+  /** Works citing each verse, by verse. */
+  verses: Map<number, WorkEntry[]>;
+}
+
+let chapters: Map<string, Chapter> | undefined;
+
+/**
+ * Every chapter a built work cites, from manifests/bible-refs.json (the
+ * frontmatter keeps 50 refs a work). A range cites each of its verses. Each
+ * list is Mevar first, then the archive, newest first in each.
+ */
+export async function bibleChapters(): Promise<Map<string, Chapter>> {
+  if (chapters) return chapters;
+  const refs: Record<string, string[]> = bibleRefs;
+  const map = new Map<string, Chapter>();
+  for (const e of await allWorks()) {
+    for (const ref of refs[e.filePath!.slice("../".length)] ?? []) {
+      const { book, chapter, verses } = parseRef(ref);
+      const key = `${book}/${chapter}`;
+      if (!map.has(key)) map.set(key, { book, chapter, whole: [], verses: new Map() });
+      const c = map.get(key)!;
+      const lists = verses.length
+        ? verses.map((v) => c.verses.get(v) ?? c.verses.set(v, []).get(v)!)
+        : [c.whole];
+      for (const list of lists) if (list.at(-1) !== e) list.push(e);
+    }
+  }
+  const mevarFirst = (list: WorkEntry[]) => list.sort((a, b) => Number(isMevar(b)) - Number(isMevar(a)));
+  for (const c of map.values()) {
+    mevarFirst(c.whole);
+    c.verses.forEach(mevarFirst);
+  }
+  chapters = map;
+  return map;
+}

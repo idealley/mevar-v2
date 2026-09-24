@@ -1,0 +1,47 @@
+---
+// /bible/<livre>/<chapitre>/<verset>/ and .../tout/: a verse, or the whole
+// chapter, cited by more works than the chapter page lists, PAGE_SIZE a page.
+import type { GetStaticPaths } from "astro";
+import Layout from "../../../../../layouts/Layout.astro";
+import VerseWorks from "../../../../../components/VerseWorks.astro";
+import { PAGE_SIZE, bibleChapters } from "$lib/works";
+import { bookName, chapterUrl } from "$lib/bible.mjs";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const pages = [];
+  for (const c of (await bibleChapters()).values()) {
+    const url = chapterUrl(c.book, c.chapter);
+    const [, , livre, chapitre] = url.split("/");
+    const name = `${bookName(c.book)} ${c.chapter}`;
+    const sections = [
+      { section: "tout", title: `${name}, tout le chapitre`, anchor: "tout", works: c.whole },
+      ...[...c.verses].map(([v, works]) => ({ section: String(v), title: `${name}:${v}`, anchor: `v${v}`, works })),
+    ];
+    for (const s of sections) {
+      if (s.works.length <= PAGE_SIZE) continue;
+      const back = `${url}#${s.anchor}`;
+      pages.push(...paginate(s.works, { pageSize: PAGE_SIZE, params: { livre, chapitre, section: s.section }, props: { title: s.title, back, name } }));
+    }
+  }
+  return pages;
+}) satisfies GetStaticPaths;
+
+const { page, title, back, name } = Astro.props;
+---
+
+<Layout title={`${title} · Mevar`} description={`${page.total} textes citent ${title}`}>
+  <div class="container mx-auto px-4 py-12 md:py-16 max-w-3xl">
+    <header class="mb-8">
+      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">{title}</h1>
+      <p class="text-muted-foreground">
+        {page.total.toLocaleString("fr-FR")} textes, page {page.currentPage} sur {page.lastPage}.
+        <a href={back} class="underline underline-offset-4">{name}, verset par verset</a>
+      </p>
+    </header>
+    <VerseWorks works={page.data} />
+    <nav class="flex justify-between mt-10 text-sm font-medium" aria-label="Pagination">
+      {page.url.prev ? <a href={page.url.prev} class="text-primary hover:underline">← Page précédente</a> : <span />}
+      {page.url.next ? <a href={page.url.next} class="text-primary hover:underline">Page suivante →</a> : <span />}
+    </nav>
+  </div>
+</Layout>

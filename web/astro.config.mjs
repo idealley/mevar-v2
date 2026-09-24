@@ -7,6 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 import AstroPWA from "@vite-pwa/astro";
 import { slug } from "github-slugger";
 import fs from "node:fs";
+import { rehypeBibleLinks } from "./src/lib/bible-links.mjs";
 import { rehypeBookmarks } from "./src/lib/bookmarks.mjs";
 import { rehypeBodyImages } from "./src/lib/body-images.mjs";
 
@@ -36,7 +37,7 @@ const duplicateRedirects = {
 export default defineConfig({
   site: "https://mevar.org",
   trailingSlash: "always",
-  markdown: { rehypePlugins: [rehypeBookmarks, rehypeBodyImages] },
+  markdown: { rehypePlugins: [rehypeBookmarks, rehypeBodyImages, rehypeBibleLinks] },
   integrations: [
     duplicateRedirects,
     svelte(),
