@@ -31,9 +31,10 @@ Measured on 2026-09-24 in `mevar`, `onedrive`, `le-scribe`, `cmpp` and
    Each can be followed by its verse, in the forms the texts use: "verset M",
    "le verset M", "au verset M", "et au verset M", "(versets M-P", "versets M
    à P", "à partir du verset M", "depuis le verset M", "dès le verset M",
-   "à partir du premier verset", "du verset M au verset P", "jusqu'au verset
-   P", and a second verse or range after "et" ("versets 12 et 15"). "À partir
-   du verset M" is recorded as `N:M`, the verse where the reading starts.
+   "à partir du premier verset", "au verset premier", "du verset M au verset
+   P", "jusqu'au verset P", and a second verse or range after "et" ("versets
+   12 et 15"). "À partir du verset M" is recorded as `N:M`, the verse where
+   the reading starts.
 2. **Only a full book name.** The spoken form is never abbreviated, and the
    abbreviations are words: "on a **lu** le chapitre 11", "c'**est** au
    chapitre 17", "le texte **hébreu**, au chapitre 18". Case does not matter:
