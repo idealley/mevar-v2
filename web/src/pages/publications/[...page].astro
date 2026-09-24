@@ -2,26 +2,23 @@
 import type { GetStaticPaths } from "astro";
 import Layout from "../../layouts/Layout.astro";
 import CategoryGrid from "../../components/CategoryGrid.astro";
-import { allWorks, PAGE_SIZE } from "$lib/works";
-import { deriveKind } from "$lib/utils";
+import ArchiveBlock from "../../components/ArchiveBlock.astro";
+import { categoryWorks, PAGE_SIZE } from "$lib/works";
 
 export const getStaticPaths = (async ({ paginate }) => {
-  const all = await allWorks();
-  // Publications = books + articles + chapters
-  const entries = all.filter((e) => {
-    const k = deriveKind(e.data);
-    return k === "book" || k === "article" || k === "chapter";
-  });
-  return paginate(entries, { pageSize: PAGE_SIZE });
+  const { mevar, archive } = await categoryWorks("publications");
+  return paginate(mevar, { pageSize: PAGE_SIZE, props: { archive } });
 }) satisfies GetStaticPaths;
 
-const { page } = Astro.props;
+const { page, archive } = Astro.props;
 ---
 
-<Layout title="Publications — Mevar" description={`${page.total} publications`}>
+<Layout title="Publications · Mevar" description={`${page.total} publications de la mission MEVAR`}>
   <CategoryGrid
     title="Publications"
-    description="Livres, articles et publications de fond — œuvres de référence pour l'étude personnelle."
+    description="Livres, articles et publications de fond, œuvres de référence pour l'étude personnelle."
     page={page}
-  />
+  >
+    <ArchiveBlock category="publications" archive={archive} />
+  </CategoryGrid>
 </Layout>

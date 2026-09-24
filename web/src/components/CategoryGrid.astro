@@ -36,4 +36,6 @@ const { page, title, description } = Astro.props;
       {page.url.next ? <a href={page.url.next} class="text-primary hover:underline">Page suivante →</a> : <span />}
     </nav>
   )}
+
+  <slot />
 </section>
