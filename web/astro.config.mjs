@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 
+import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
 import AstroPWA from "@vite-pwa/astro";
@@ -13,6 +14,7 @@ export default defineConfig({
   markdown: { rehypePlugins: [rehypeBookmarks] },
   integrations: [
     svelte(),
+    sitemap(),
     AstroPWA({
       registerType: "autoUpdate",
       includeAssets: ["favicon.svg", "favicon.ico", "brand/logo.svg", "brand/icon-192.png", "brand/icon-512.png"],
