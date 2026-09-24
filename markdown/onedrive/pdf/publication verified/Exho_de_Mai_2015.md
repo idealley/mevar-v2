@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Exho_de_Mai_2015"
+duplicate_of: "mevar/qui-est-ce-qui-plante-une-vigne-et-n-en-mange-pas-le-fruit"
 title: "QUI EST-CE QUI PLANTE UNE VIGNE ET N’EN MANGE PAS LE FRUIT ?"
 subtitle: "Exhortation de Mai 2015"
 date: "2015-05-01"

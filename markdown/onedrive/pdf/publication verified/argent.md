@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "argent"
+duplicate_of: "mevar/argent-orgueil-et-querelles-dans-les-assemblees"
 title: "ARGENT – ORGUEIL ET QUERELLES DANS LES ASSEMBLEES"
 subtitle: "Exhortation du Mois d'octobre 2006"
 date: "2006-10-01"

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_mi_juillet_2009"
+duplicate_of: "mevar/jesus-christ-architecte-et-constructeur"
 title: "JESUS-CHRIST : ARCHITECTE ET CONSTRUCTEUR"
 subtitle: "Exhortation mi-Juillet 2009"
 date: "2009-07-15"

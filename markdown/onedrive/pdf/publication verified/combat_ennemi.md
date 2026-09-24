@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "combat_ennemi"
+duplicate_of: "mevar/combat-contre-lennemi"
 title: "Combat contre l'ennemi"
 subtitle: "Exhortation d'Août 2012"
 date: "2012-08-31"

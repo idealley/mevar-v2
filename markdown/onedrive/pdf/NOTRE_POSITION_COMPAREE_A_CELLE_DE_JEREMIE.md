@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "NOTRE_POSITION_COMPAREE_A_CELLE_DE_JEREMIE"
+duplicate_of: "mevar/notre-position-comparee-a-celle-de-jeremie"
 title: "Notre position comparée à celle de Jérémie"
 subtitle: "Exhortation de Décembre 2015"
 date: "2015-12-23"

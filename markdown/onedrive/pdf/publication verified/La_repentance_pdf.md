@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "La_repentance_pdf"
+duplicate_of: "mevar/la-repentance"
 title: "La repentance"
 subtitle: "Exhortation de Juillet 2016"
 date: "2016-07-17"

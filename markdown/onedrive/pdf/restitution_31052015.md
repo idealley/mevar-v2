@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "restitution_31052015"
+duplicate_of: "mevar/la-restitution"
 title: "La restitution"
 subtitle: "Exhortation de Mai 2015"
 date: "2015-05-31"

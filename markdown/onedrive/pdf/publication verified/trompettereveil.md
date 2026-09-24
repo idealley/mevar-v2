@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "trompettereveil"
+duplicate_of: "mevar/la-trompette-du-reveil"
 title: "La trompette du Réveil"
 date: "2007-01-19"
 year: 2007

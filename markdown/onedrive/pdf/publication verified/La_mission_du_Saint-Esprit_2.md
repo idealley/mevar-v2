@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "La_mission_du_Saint-Esprit_2"
+duplicate_of: "mevar/la-mission-du-saint-esprit-dans-l-eglise-deuxieme-partie"
 title: "La mission du Saint-Esprit dans l’Eglise"
 subtitle: "Exhortation de Janvier 2017"
 date: "2017-01-22"

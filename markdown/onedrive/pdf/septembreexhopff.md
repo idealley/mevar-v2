@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "septembreexhopff"
+duplicate_of: "mevar/dieu-fuyant-le-peche"
 title: "Dieu fuyant le péché"
 subtitle: "Exhortation spéciale du Mois de Septembre 2006"
 date: "2006-04-09"

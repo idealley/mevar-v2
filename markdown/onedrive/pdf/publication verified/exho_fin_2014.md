@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_fin_2014"
+duplicate_of: "mevar/nous-avons-vu-son-etoile"
 title: "NOUS AVONS VU SON ETOILE"
 subtitle: "Exhortation de Fin d'Année 2014"
 date: "2014-12-31"

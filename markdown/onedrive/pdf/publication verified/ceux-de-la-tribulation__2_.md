@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "ceux-de-la-tribulation__2_"
+duplicate_of: "mevar/ceux-de-la-grande-tribulation-deuxieme-partie"
 title: "Ceux de la grande tribulation 2"
 date: "2015-08-30"
 year: 2015

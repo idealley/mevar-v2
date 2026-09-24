@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "chap13ministere (trois grandes visions)"
+duplicate_of: "mevar/trois-grandes-visions-du-message-de-la-fin-des-temps"
 title: "Trois Grandes Visions du Message de la Fin des Temps"
 summary: "Ce document expose trois visions successives du message de la fin des temps : le ministère d'Élie (William Branham) pour restaurer la Parole, le ministère du serviteur fidèle et prudent (Ewald Frank) pour distribuer la nourriture spirituelle, et la voix de minuit pour réveiller l'Épouse endormie. Il établit des parallèles avec la reconstruction de Jérusalem par Zorobabel, Esdras et Néhémie."
 tags:

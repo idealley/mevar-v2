@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_de_fevrier_2014"
+duplicate_of: "mevar/tu-demandes-une-chose-difficile"
 title: "Tu demandes une chose difficile"
 subtitle: "Exhortation de Février 2014"
 date: "2014-02-01"

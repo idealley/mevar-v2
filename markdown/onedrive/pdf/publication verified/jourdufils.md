@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "jourdufils"
+duplicate_of: "mevar/les-jours-du-fils-de-l-homme"
 title: "LES JOURS DU FILS DE L'HOMME"
 date: "2006-11-26"
 year: 2006

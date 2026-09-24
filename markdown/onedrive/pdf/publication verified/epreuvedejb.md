@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "epreuvedejb"
+duplicate_of: "mevar/l-epreuve-de-jean-baptiste"
 title: "L'épreuve de Jean Baptiste"
 location: "Koumassi"
 preacher: "M'BRA Parfait"

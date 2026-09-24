@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Exho__Octobre_2015"
+duplicate_of: "mevar/a-qui-comparerai-je-cette-generation"
 title: "A QUI COMPARERAI-JE CETTE GENERATION ?"
 subtitle: "Exhortation d'Octobre 2015"
 date: "2015-10-01"

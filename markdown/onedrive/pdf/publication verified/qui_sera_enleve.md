@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "qui_sera_enleve"
+duplicate_of: "mevar/qui-sera-enleve"
 title: "Qui sera enlevé ?"
 preacher: "M'BRA Parfait"
 summary: "Cette brochure examine la question cruciale de l'enlèvement de l'Épouse de Christ à la fin des temps. Elle explore les origines bibliques de l'enlèvement, le mystère de l'unité absolue des croyants en Christ, le rôle des amis de l'Époux (prédicateurs de l'enlèvement) et la prédication spécifique pour notre génération, notamment à travers le ministère de William Branham et la parabole des dix vierges. L'auteur met en garde contre les illusions et les faux enseignements, et souligne la nécessité de la préparation spirituelle et de l'écoute des ministères que Dieu envoie."

@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Dieu_nest_pas_un_homme_pour__mentir"
+duplicate_of: "mevar/dieu-n-est-pas-un-homme-pour-mentir"
 title: "Dieu n'est pas un homme pour mentir"
 subtitle: "Exhortation de Septembre 2015"
 date: "2015-09-05"

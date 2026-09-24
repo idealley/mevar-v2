@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exhortation_de_Juillet_2014_1"
+duplicate_of: "mevar/le-depart-du-dioscures"
 title: "LE DEPART DU DIOSCURES"
 subtitle: "Exhortation de Juillet 2014"
 date: "2014-07-01"

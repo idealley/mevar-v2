@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Exhortation_Mi-Aout_2016"
+duplicate_of: "mevar/un-message-de-la-fin-des-temps-pour-une-foi-de-la-fin-des-temps"
 title: "Exhortation Mi-Août 2016"
 subtitle: "UN MESSAGE DE LA FIN DES TEMPS POUR UNE FOI DE LA FIN DES TEMPS"
 date: "2016-08-15"

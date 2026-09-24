@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Serpent-d-airain_2019"
+duplicate_of: "mevar/nehuschtan-le-serpent-d-airain"
 title: "Nehuschtan : Le serpent d'airain ou comment un message ou une instruction de Dieu peut devenir une idole"
 subtitle: "Exhortation de Mai 2019"
 date: "2019-05-22"

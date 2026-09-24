@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "Exhortation_Fin_Aout_2017-pdf"
+duplicate_of: "mevar/une-porte-ouverte"
 title: "UNE PORTE OUVERTE"
 subtitle: "Exhortation d'Août 2017"
 date: "2017-08-01"

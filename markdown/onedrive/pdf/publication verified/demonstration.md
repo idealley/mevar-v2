@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "demonstration"
+duplicate_of: "mevar/demonstration-desprit-et-de-puissance"
 title: "Démonstration d'Esprit et de Puissance"
 date: "2006-04-16"
 year: 2006

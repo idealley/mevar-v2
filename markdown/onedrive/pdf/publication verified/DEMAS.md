@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "DEMAS"
+duplicate_of: "mevar/demas-ou-l-esprit-de-la-mondanite"
 title: "Démas, ou l’esprit de la mondanité"
 subtitle: "Exhortation de Mars 2016"
 date: "2016-03-16"

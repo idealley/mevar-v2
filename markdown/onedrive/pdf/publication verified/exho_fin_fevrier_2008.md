@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_fin_fevrier_2008"
+duplicate_of: "mevar/appel-a-lhumilite-et-a-la-simplicite"
 title: "Appel à l'humilité et à la simplicité"
 subtitle: "Exhortation de Mars 2008"
 date: "2008-03-01"

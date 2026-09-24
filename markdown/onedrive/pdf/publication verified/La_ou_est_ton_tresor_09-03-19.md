@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "La_ou_est_ton_tresor_09-03-19"
+duplicate_of: "mevar/la-ou-est-ton-tresor-la-aussi-sera-ton-coeur"
 title: "Là où est ton trésor, là aussi sera ton cœur"
 subtitle: "Exhortation de Mars 2019"
 date: "2019-03-09"

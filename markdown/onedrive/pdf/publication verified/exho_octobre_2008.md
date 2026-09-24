@@ -1,6 +1,7 @@
 ---
 source: "onedrive"
 sermon_id: "exho_octobre_2008"
+duplicate_of: "mevar/la-grande-tentation-et-le-chemin-de-la-gloire"
 title: "La grande tentation et le chemin de la gloire"
 subtitle: "Exhortation d'Octobre 2008"
 date: "2008-10-01"
