@@ -1,0 +1,21 @@
+---
+import type { GetStaticPaths } from "astro";
+import Layout from "../../layouts/Layout.astro";
+import CategoryGrid from "../../components/CategoryGrid.astro";
+import { worksByKind, PAGE_SIZE } from "$lib/works";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const entries = await worksByKind("exhortation");
+  return paginate(entries, { pageSize: PAGE_SIZE });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+---
+
+<Layout title="Exhortations — Mevar" description={`${page.total} exhortations dans la bibliothèque Mevar`}>
+  <CategoryGrid
+    title="Exhortations"
+    description="Paroles d'exhortation publiées chaque mois pour affermir les croyants dans la foi."
+    page={page}
+  />
+</Layout>
