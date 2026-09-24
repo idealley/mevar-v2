@@ -39,7 +39,9 @@ After parse, `.txt` files are renamed to `.md` and live under `markdown/<source>
 | `71-llm-fanout.mjs`                      | onedrive: clean + structured NER via DeepSeek                              |
 | `72-llm-fanout-multi.mjs <source>`       | le-scribe / branham (English prompt) / mevar-pdfs                           |
 | `74-recover-errors.mjs <source>`         | retry with smaller chunks (default 25k chars) for stubborn fails            |
-| `73-apply-llm.mjs <source>`              | apply LLM cache → markdown body + manifest fields                            |
+| `73-apply-llm.mjs <source>`              | apply LLM cache → markdown body + manifest fields; the model's "Unknown" is no value |
+| `75-drop-unknown.mjs`                    | removes the `date` / `location` "Unknown" older 73 runs wrote (frontmatter + manifests) |
+| `67-normalize-preachers.mjs`             | every `preacher` to its display name in `scripts/preachers.mjs` (frontmatter + manifests); fails on an unknown spelling. Run after 73 |
 
 Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well below the $66 paper budget).
 
@@ -52,7 +54,9 @@ Cost across all sources: ~$15-25 actual (DeepSeek's prompt caching keeps it well
 | `66-normalize-bible-en.mjs`     | English — KJV style | records refs as `Matthew 24:6`, spoken ones ("Saint John the 4th chapter") included |
 
 Neither normalizer changes the text: the preacher's words stay as written and
-only the recorded ref is canonical.
+only the recorded ref is canonical. Both export `citations()`, which the site
+uses to link each recorded reference in a body to its verse page
+(`web/src/lib/bible-links.mjs`); the verse pages read `manifests/bible-refs.json`.
 
 The book tables live in `scripts/bible-books.mjs`. Both normalizers merge into
 `manifests/bible-refs.json`, keyed by markdown path. 65b needs the Branham PDFs

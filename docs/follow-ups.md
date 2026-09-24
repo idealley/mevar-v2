@@ -54,6 +54,12 @@ It also feeds the bible-ref normalizer false positives, because the page number 
 
 **Fix**: strip the furniture at the extraction stage, then rerun 66. Doing it in the normalizer would clean the manifest and leave the visible text broken.
 
+## The PDF texts have no recorded Bible refs
+
+**Status**: 65 scans `mevar`, `onedrive`, `le-scribe`, `cmpp` and `local`, not `mevar-pdfs`. The 69 PDF texts are on no verse page and their references are not links (goal 08).
+
+**Fix**: add `mevar-pdfs` to 65's sources and rerun 65 and 47 (a frontmatter change to 69 files).
+
 ## `47` truncates `bible_refs` alphabetically at 50
 
 **Status**: 90 files have more than 50 references and `47-lift-manifest-fields.mjs` keeps the first 50. Since the list is sorted alphabetically, that keeps `1 John` … `Genesis` and drops `Revelation` and `Zechariah` — 3,956 references in all. `manifests/bible-refs.json` and the SurrealDB `cites` edges are complete; only the frontmatter is cut.
@@ -90,7 +96,7 @@ Those 3 are the place to start, because the right sermon is already known: `5306
 
 ## Markdown files with no frontmatter
 
-**Status**: 7 files — `markdown/local/*.md` (2) and 5 Le-Scribe files (`1950/500115Crois-tu`, `1962/620714Son-confus`, `1962/620623Perseverant`, `undated/5003xxDon&appel`, `undated/5602Combat-foi`). Every script that patches frontmatter skips them, so they carry no metadata and no bible refs.
+**Status**: 10 files — `markdown/local/*.md` (2), 5 Le-Scribe files (`1950/500115Crois-tu`, `1962/620714Son-confus`, `1962/620623Perseverant`, `undated/5003xxDon&appel`, `undated/5602Combat-foi`) and 3 CMPP files (`undated/lc56`, `undated/serie1no8`, `undated/serie4no6`). Every script that patches frontmatter skips them, so they carry no metadata and no bible refs. With no `source`, the site takes them for articles: since goal 08 they are in the archive of `/publications/`, under their directory's source.
 
 **Fix**: run them through `64-add-frontmatter.mjs`, or drop them.
 
@@ -134,12 +140,6 @@ node scripts/130-seed-strongs.mjs          # parses TAGNT + TAHOT, merges Strong
 ## Auth not wired
 
 See [auth.md](auth.md). Schema + skill knowledge in place; needs Logto tenant + the 7 steps documented there.
-
-## The same preacher under several names
-
-**Status**: `preacher` has "William Branham" (2,123 works) and "William Marrion Branham" (81); "M'BRA Parfait" (116), "Fr M'BRA Parfait" (48) and "Frère M'BRA Parfait" (12), and the Ghost posts, which have no `preacher`, "Parfait M'bra" in `authors` (298). Since goal 05 the search filter by preacher lists each spelling as a separate preacher.
-
-**Fix**: normalise `preacher` in the pipeline stage that writes it (a frontmatter field, not the wording of a work), then rebuild.
 
 ## Long search queries download megabytes
 
