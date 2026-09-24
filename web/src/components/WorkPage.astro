@@ -16,6 +16,9 @@ const { Content } = await render(entry);
 const fm = entry.data;
 const kind = deriveKind(fm);
 const date = formatDateFr((fm.date as string | null) ?? (fm.published_at as string | null));
+// Branham's own text is English; everything else is French. Pagefind reads
+// <html lang> to pick the stemmer and the index.
+const lang = fm.source === "branham" ? "en" : "fr";
 const pdf = (fm.local_pdf as string | undefined) ?? fm.pdf_url;
 
 const series = fm.series
@@ -35,10 +38,14 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
   title={`${fm.title ?? entry.id} · Mevar`}
   description={fm.summary ?? undefined}
   image={fm.local_image ? `/${fm.local_image}` : undefined}
+  lang={lang}
 >
-  <article class="container mx-auto px-4 py-8 md:py-12 max-w-3xl">
-    <!-- Header -->
-    <header class="mb-8 pb-8 border-b">
+  <article class="container mx-auto px-4 py-8 md:py-12 max-w-3xl" data-pagefind-body>
+    {fm.preacher && <meta data-pagefind-filter="preacher[content]" content={fm.preacher} />}
+    {fm.year && <meta data-pagefind-filter="year[content]" content={String(fm.year)} />}
+    {fm.source && <meta data-pagefind-filter="source[content]" content={fm.source} />}
+    <!-- Header: only the title is indexed, as the result's title -->
+    <header class="mb-8 pb-8 border-b" data-pagefind-ignore>
       <div class="flex flex-wrap gap-1 mb-3">
         <Badge>{kind}</Badge>
         {/* Ghost tags on a Ghost post link to their page; other sources' tags are their own. */}
@@ -46,7 +53,7 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
           <Badge href={fm.source === "mevar" ? tags.get(t)?.url : undefined} variant="secondary">{t}</Badge>
         ))}
       </div>
-      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-2">{fm.title ?? entry.id}</h1>
+      <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-2" data-pagefind-meta="title">{fm.title ?? entry.id}</h1>
       {fm.subtitle && <p class="text-xl text-muted-foreground italic mb-4">{fm.subtitle}</p>}
 
       <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-muted-foreground">
@@ -90,7 +97,7 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
     </header>
 
     {series.length > 1 && (
-      <nav class="mb-8 rounded-lg border bg-muted/30 p-4 text-sm" aria-label={`Série ${fm.series}`}>
+      <nav class="mb-8 rounded-lg border bg-muted/30 p-4 text-sm" aria-label={`Série ${fm.series}`} data-pagefind-ignore>
         <p class="font-semibold mb-2">Série : {fm.series}</p>
         <ol class="list-decimal pl-5 space-y-1">
           {series.map((e) => (
@@ -110,7 +117,7 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
     </div>
 
     {(previous || next) && (
-      <nav class="mt-12 pt-8 border-t grid grid-cols-2 gap-4 text-sm" aria-label="Série">
+      <nav class="mt-12 pt-8 border-t grid grid-cols-2 gap-4 text-sm" aria-label="Série" data-pagefind-ignore>
         <div>
           {previous && (
             <a href={workUrl(previous)} class="block hover:underline underline-offset-4">
@@ -130,7 +137,7 @@ const summaryFr = fm.summary_fr ? await workAt(fm.summary_fr as string) : undefi
 
     <!-- Persons / places / themes -->
     {(fm.persons?.length || fm.places?.length || fm.themes?.length) && (
-      <aside class="mt-12 pt-8 border-t space-y-4 text-sm">
+      <aside class="mt-12 pt-8 border-t space-y-4 text-sm" data-pagefind-ignore>
         {fm.persons?.length && (
           <div>
             <strong class="text-muted-foreground uppercase tracking-wide text-xs block mb-2">Personnes</strong>

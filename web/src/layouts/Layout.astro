@@ -6,18 +6,20 @@ interface Props {
   title?: string;
   description?: string;
   image?: string;
+  lang?: "fr" | "en";
 }
 
 const {
   title = "Mevar — Étude de la Parole pour le temps de la fin",
   description = "Bibliothèque numérique de prédications, exhortations, études bibliques et livres autour du message du temps de la fin.",
   image,
+  lang = "fr",
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
-<html lang="fr" class="h-full">
+<html lang={lang} class="h-full">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
