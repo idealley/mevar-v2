@@ -47,7 +47,6 @@ bible_refs:
   - "Ésaïe 65:16-19"
   - "Ésaïe 66:10-14"
   - "Ésaïe 66:22"
-  - "Ézéchiel 47"
 ---
 ## La vision du nouveau ministère
 

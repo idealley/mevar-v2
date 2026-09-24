@@ -20,7 +20,6 @@ uuid: "748e3f57-c461-406f-aa05-d9cb90df427d"
 stream_url: "https://mevar.org/le-ministere-de-lesprit/"
 bible_refs:
   - "1 Timothée 4:2"
-  - "2 Corinthiens 3"
   - "2 Timothée 2"
   - "Actes 15"
 series_id: "le-ministere-de-lesprit"

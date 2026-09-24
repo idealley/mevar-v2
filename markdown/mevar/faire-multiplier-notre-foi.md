@@ -23,7 +23,6 @@ stream_url: "https://mevar.org/faire-multiplier-notre-foi/"
 bible_refs:
   - "Luc 19"
   - "Luc 19:30-31"
-  - "Marc 11"
 ---
 Le Seigneur dit dans Luc 19 :
 

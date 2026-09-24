@@ -29,7 +29,6 @@ bible_refs:
   - "Apocalypse 7:2-4"
   - "Apocalypse 7:9"
   - "Apocalypse 8"
-  - "Daniel 12"
   - "Malachie 3"
   - "Malachie 4"
 series_id: "le-jour-du-seigneur"

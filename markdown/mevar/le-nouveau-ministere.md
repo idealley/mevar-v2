@@ -25,7 +25,6 @@ bible_refs:
   - "Apocalypse 1:8"
   - "Jean 14:17"
   - "Jean 17:20-21"
-  - "Ézéchiel 47"
 series_id: "le-nouveau-ministere"
 series: "Le nouveau ministère"
 series_part: 1

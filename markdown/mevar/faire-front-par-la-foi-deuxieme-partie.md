@@ -26,8 +26,6 @@ bible_refs:
   - "Hébreux 11"
   - "Hébreux 11:31-36"
   - "Jean 15"
-  - "Luc 19:30"
-  - "Marc 11"
 series_id: "faire-front-par-la-foi"
 series: "Faire front par la Foi"
 series_part: 2

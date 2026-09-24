@@ -33,7 +33,6 @@ bible_refs:
   - "Ésaïe 65:18"
   - "Ésaïe 65:19"
   - "Ésaïe 65:20"
-  - "Ézéchiel 47"
 ---
 Que Dieu soit béni. Nous allons lire dans Ésaïe chapitre 65 à partir du verset 17 :
 
