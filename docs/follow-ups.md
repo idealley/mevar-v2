@@ -30,6 +30,12 @@ Goal 03 removed the seven PDF links from the bodies (with the "Télécharger le 
 
 **Fix**: add the glued numbered forms ("1Jean", "2Rois", …) to BOOKS_FR, then refuse a digit before a book name, and check the 47.
 
+## 65 does not read "<Livre>, chapitre N"
+
+**Status**: goal 07 taught 66 the spoken English forms ("Saint John the 4th chapter"); 65 has no French equivalent. "Nous allons lire dans 2 Corinthiens, chapitre 3" records nothing. Measured 2026-09-24: 1,560 such spots in 479 French files, about 1,000 with no matching ref. The landing check of goal 07 made one visible: `le-ministere-de-lesprit` had `2 Corinthiens 3` only because a Ghost bookmark card quoted it, and lost it when goal 03 removed the card.
+
+**Fix**: a spoken pattern in 65 (`<Livre>,? (au )?chapitre <N>(, (au )?verset <M>)?`), recorded without rewriting the text, as in 66.
+
 ## Running headers are recorded as refs
 
 **Status**: the printed page header "AN EXODUS 19" (with the page number) gives `Exodus 19, 21, 23 … 35` in `56-0615.md`; `GENESIS`, `JOB`, `EXODUS` headers elsewhere the same. 66 matches case-insensitively and its prose rule only refuses a lowercase book name. Since goal 07 the headers are back in capitals in the text, so an all-capitals rule would now catch them. Part of the page-furniture item below.
