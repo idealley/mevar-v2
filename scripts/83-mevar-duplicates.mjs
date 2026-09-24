@@ -64,7 +64,7 @@ for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
     const shingles = new Set();
     for (let i = 0; i + K <= w.length; i++) shingles.add(w.slice(i, i + K).join(" "));
     works.push({
-      id: `${source}/${field(fm, "sermon_id")}`, source, file, text,
+      id: `${source}/${field(fm, "sermon_id")}`, source, file, fm, body,
       title: field(fm, "title"), draft: field(fm, "status") === "draft",
       excerpt: body.split(/\s+/).filter(Boolean).slice(0, 300).join(" "),
       ocr: ocrTokens(body), shingles,
@@ -101,9 +101,11 @@ function titleScore(a, b) {
 }
 
 // Distribution of the smaller containment, for every pair sharing MIN_SHARED
-// shingles (the uncertain band lives in the low bins).
+// shingles, and of the larger one for the pairs below SAME_SERMON (where the
+// uncertain band is cut).
 const round = (n) => Math.round(n * 1000) / 1000;
 const bins = Array(10).fill(0);
+const below = Array(10).fill(0);
 const pairs = [];
 for (const [key, n] of shared) {
   if (n < MIN_SHARED) continue;
@@ -112,6 +114,7 @@ for (const [key, n] of shared) {
   const inB = n / b.shingles.size;
   const [lo, hi] = [Math.min(inA, inB), Math.max(inA, inB)];
   bins[Math.min(9, Math.floor(lo * 10))]++;
+  if (lo < SAME_SERMON) below[Math.min(9, Math.floor(hi * 10))]++;
   const title = titleScore(a.title, b.title);
   const band = lo >= SAME_TEXT ? "same_text"
     : lo >= SAME_SERMON ? "same_sermon"
@@ -128,7 +131,10 @@ for (const [key, n] of shared) {
 pairs.sort((p, q) => p.a.id.localeCompare(q.a.id) || p.b.id.localeCompare(q.b.id));
 
 console.log(`works: ${works.length}; pairs sharing >= ${MIN_SHARED} shingles, by the smaller containment:`);
-bins.forEach((c, i) => console.log(`  ${(i / 10).toFixed(1)}-${((i + 1) / 10).toFixed(1)}  ${c}`));
+const bin = (c, i) => console.log(`  ${(i / 10).toFixed(1)}-${((i + 1) / 10).toFixed(1)}  ${c}`);
+bins.forEach(bin);
+console.log(`pairs below ${SAME_SERMON}, by the larger containment:`);
+below.forEach(bin);
 
 const keys = new Set(pairs.filter((p) => p.band === "uncertain").map((p) => `${p.a.id} | ${p.b.id}`));
 for (const [key, value] of Object.entries(decided)) {
@@ -196,10 +202,10 @@ for (const w of works) {
   if (w.source === "mevar") continue;
   const target = duplicateOf.get(w.id);
   const line = target ? `duplicate_of: ${JSON.stringify(target)}\n` : "";
-  let text = w.text.replace(/^duplicate_of: .*\n/m, "");
-  if (line) text = text.replace(/^(sermon_id: .*\n)/m, `$1${line}`);
-  if (text !== w.text) {
-    fs.writeFileSync(w.file, text);
+  let fm = `${w.fm}\n`.replace(/^duplicate_of: .*\n/m, "");
+  if (line) fm = fm.replace(/^(sermon_id: .*\n)/m, `$1${line}`);
+  if (fm !== `${w.fm}\n`) {
+    fs.writeFileSync(w.file, `---\n${fm}---\n${w.body}`);
     changed++;
   }
 }
@@ -212,7 +218,9 @@ console.log("uncertain decided:", count(uncertain, (u) => u.decision || "open"))
 console.log(`groups: ${groups.length}; keeper rules:`, count(groups, (g) => g.rule));
 console.log("groups kept by a Ghost draft, not applied until it is published:", groups.filter((g) => g.keep_is_draft).map((g) => g.keep));
 console.log("duplicate_of per source:", count([...duplicateOf.keys()], (id) => id.split("/")[0]));
-const ghostPosts = works.filter((w) => w.source === "mevar").length;
-const others = works.filter((w) => w.source !== "mevar" && !duplicateOf.has(w.id)).length;
-console.log(`Mevar set: ${ghostPosts} Ghost posts + ${others} PDF and OneDrive texts = ${ghostPosts + others}`);
+const ghostPosts = works.filter((w) => w.source === "mevar" && !w.draft).length;
+const waiting = new Set(groups.filter((g) => g.keep_is_draft).flatMap((g) => g.members.map((m) => m.id)));
+const others = works.filter((w) => w.source !== "mevar" && !duplicateOf.has(w.id) && !waiting.has(w.id)).length;
+console.log(`Mevar set: ${ghostPosts} published Ghost posts + ${others} PDF and OneDrive texts = ${ghostPosts + others}` +
+  ` (plus ${waiting.size} works in groups kept by a Ghost draft, one each once it is published)`);
 console.log(`frontmatter files changed: ${changed}`);
