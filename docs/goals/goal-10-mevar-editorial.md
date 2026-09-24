@@ -38,12 +38,26 @@ the verification done by a script and by sampling.
 4. **The check, the gate that replaces reading every word.** A script
    compares each text before and after, word by word, and accepts only the
    kinds of change goal 04 allows: whitespace, punctuation and typography;
-   one-word corrections within a small edit distance (spelling, agreement);
    paragraph breaks; blockquote and bold markup; inserted passages that match
-   the Segond text of the announced reference exactly. Anything else is
-   listed per text. A text with an unexplained change is not promoted in
-   that batch: it goes back, or to Samuel.
-5. **Promotion.** A text that passes gets `editorial_pass: "<date>"` in its
+   the Segond text of the announced reference exactly. **Word
+   substitutions are never accepted silently**, whatever their edit
+   distance: « foi » to « loi » is one letter and changes the sermon. Every
+   substituted word goes into a table in the batch PR (before, after, the
+   sentence), in two groups: a non-word corrected to a word (a dictionary
+   says which), and a word replaced by another word (agreement, homophones:
+   « vue » to « vu »). Samuel reads the whole table, not a sample; the
+   second group line by line. Anything else is listed per text. A text
+   with an unexplained change is not promoted in that batch: it goes back,
+   or to Samuel.
+5. **References and reruns.** After the pass, each batch reruns stage 65
+   on its texts and stage 47 (goal 04's rule 5), so `bible_refs` and
+   `manifests/bible-refs.json` match the edited text, with the no-op second
+   run; goal 08's verse pages read them. Stage 73 (`73-apply-llm.mjs`)
+   rewrites bodies and frontmatter from its cache: it must skip every text
+   that has `editorial_pass`, or a rerun would undo the pass and demote the
+   text. That change to 73 lands with batch 01, with a test run showing
+   promoted texts untouched.
+6. **Promotion.** A text that passes gets `editorial_pass: "<date>"` in its
    frontmatter, which is what goal 08 reads. One branch and one PR per batch
    (`goal-10-batch-NN`). The PR names the three texts Samuel should read: two
    chosen at random, and the one with the most changes. **Merging the PR is
@@ -65,6 +79,8 @@ and CMPP sources; merging versions (goal 09 chose one).
 
 - The check's output for each text: counts per kind of change, and the
   list of anything it did not accept.
+- The word substitution table, both groups, complete.
+- Stages 65 and 47 rerun on the batch, second run a no-op.
 - `git diff --word-diff` of the three texts Samuel reads, in the PR.
 - The Segond references inserted, each with the reference it was looked up
   under.

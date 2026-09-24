@@ -43,8 +43,10 @@ What exists does not settle it:
    `duplicate_of: "<source>/<id>"` in their frontmatter. Nothing is deleted:
    the text stays in `markdown/`, goal 08 does not build it.
 4. **Idempotent.** A second run changes nothing; Samuel's decisions on the
-   uncertain band are read from a committed file
-   (`manifests/mevar-duplicates-decided.json`), so a rerun keeps them.
+   uncertain band are read from a committed file, so a rerun keeps them.
+   They are his input, not derived: they live in
+   `scripts/mevar-duplicates-decided.json`, next to the script, not in
+   `manifests/` (which only holds what scripts derive).
 
 ## Stop point
 
@@ -64,6 +66,7 @@ change to a body.
   goal (Ghost posts + PDF and OneDrive texts that are not duplicates).
 - Five *same sermon, different text* groups shown with the rule that chose
   the one that stays.
-- `git diff --stat` touches only frontmatter of `markdown/onedrive/` and
-  `markdown/mevar-pdfs/` (the `duplicate_of` lines) and the two manifests;
-  a second run is a no-op.
+- `git diff --stat` touches only the new script, the decisions file,
+  `manifests/mevar-duplicates.json`, and the frontmatter of
+  `markdown/onedrive/` and `markdown/mevar-pdfs/` (the `duplicate_of`
+  lines); a second run is a no-op.

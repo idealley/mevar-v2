@@ -31,7 +31,11 @@ Decided by Samuel (2026-09-24):
    or source `mevar-pdfs` / `onedrive` with an `editorial_pass` field (a date,
    set by goal 10) and no `duplicate_of` (set by goal 09). Until goals 09 and
    10 land, Mevar is the Ghost posts; nothing else in the design changes when
-   they do. Works with `duplicate_of` are not built (same filter as drafts).
+   they do. Works with `duplicate_of` are not built (same filter as drafts),
+   but their URL has been public since goal 05: each gets a 301 to the work
+   it duplicates, generated from `duplicate_of` at build time into
+   `_redirects` next to goal 03's rules (Pages allows 2,000 static rules;
+   there are 75 today). `check:dist` checks that every target exists.
 2. **Category pages.** `/predications/`, `/exhortations/`,
    `/etudes-bibliques/`, `/publications/` list the Mevar works, 60 cards a
    page (`PAGE_SIZE`). Below the list, on every page of it, a short block
@@ -50,25 +54,35 @@ Decided by Samuel (2026-09-24):
    in the same order, so "Jean 5:19" and "John 5:19" are the same verse; the
    slug is the French canonical name. A chapter page lists, verse by verse
    (anchor `#v19`), the works that cite the verse, Mevar first, then the
-   archive; references to the whole chapter come first. A verse cited by
-   more than 60 works gets its own page, `/bible/<livre>/<chapitre>/<verset>/`,
-   paginated at 60 (John 5:19 alone is cited by about 470: 265 as "John 5:19",
+   archive; references to the whole chapter come first. No section of the
+   page lists more than 60 works: a verse cited by more gets its own page,
+   `/bible/<livre>/<chapitre>/<verset>/`, and the whole-chapter references,
+   when there are more than 60, get `/bible/<livre>/<chapitre>/tout/`, both
+   paginated at 60; the chapter page shows the first entries and the count
+   with a link. Whole-chapter references alone exceed 60 today (Jean 5:
+   about 157, Matthieu 24: about 206) (John 5:19 alone is cited by about 470: 265 as "John 5:19",
    207 as "Jean 5:19"). No Bible text on these
    pages. In a work's body, the references that the normalizers (65, 66)
    recognise become links to the verse anchor, at build time (a rehype plugin,
    next to `bookmarks.mjs`); the text itself does not change, and a reference
    they do not recognise stays plain.
-5. **"Unknown" is not a value.** Eight Branham sermons show "Unknown"
-   (`55-1001` among them): the branham.org scrape writes `date: "Unknown"`
-   (2) or `location: "Unknown"` (8) into `manifests/branham-*.json`, and the
-   stage that writes the frontmatter copies it. That stage omits the field
-   instead; regenerate. The template needs no change.
+5. **"Unknown" is not a value.** Ten Branham sermons show "Unknown"
+   (`55-1001` among them): `date: "Unknown"` (2) or `location: "Unknown"`
+   (8). It comes from the LLM cleanup: `scripts/73-apply-llm.mjs` takes the
+   model's `date` and `location` when they are non-empty (its loop over
+   title, subtitle, date, location, preacher, summary), and the model wrote
+   "Unknown". Fix 73 to treat "Unknown" (and its variants) as empty. Do not
+   rerun 73 to clean up: it rewrites bodies from its cache, over goal 07's
+   restoration. Remove the ten values from `manifests/branham-*.json` and
+   from the frontmatter with a targeted, idempotent script, and check that
+   nothing downstream (`index.json`, stage 50) still holds them.
 
 6. **One name per preacher.** The `preacher` field and the Ghost `authors`
    hold 43 spellings of 13 people today (619 works for the founder alone,
    13 spellings). The field is metadata, not the preacher's words: it is
-   rewritten; the bodies are not touched. `manifests/preachers.json`,
-   committed and edited by hand, gives each person a display name, a slug
+   rewritten; the bodies are not touched. `scripts/preachers.mjs`, edited by
+   hand like `scripts/bible-books.mjs` (`manifests/` is only what scripts
+   derive), gives each person a display name, a slug
    and the variants seen; a pipeline step rewrites `preacher` from it
    (idempotent, and a new import's variants are caught on the next run;
    an unknown spelling fails the step instead of passing through). Titles
@@ -79,15 +93,13 @@ Decided by Samuel (2026-09-24):
    | ------------ | ------------------------ |
    | Parfait M'bra | M'BRA Parfait, Fr M'BRA Parfait, Frère M'BRA Parfait, Parfait M’BRA, Pasteur M'BRA Parfait, Parfait MBRA, M'Bra Parfait |
    | William Branham | William Marrion Branham (81, CMPP) |
-   | André Kadjany | Fr. KADJANY André, Kadjany André, KADJANY YOBOUET ANDRE |
+   | André Kadjany | Fr. KADJANY André, Kadjany André, KADJANY YOBOUET ANDRE, frère KADJANY (Samuel, 2026-09-24) |
    | Irié Anderson | IRIE ANDERSON, Frère IRIE Anderson, Anderson Irié |
    | Pierre Kouadio | KOUADIO Pierre |
    | Samuel Pouyt | Pouyt Samuel |
    | Richard Schwéry | Richard SCHWERY, Fr. Richard SCHWERY |
    | Ewald Frank, Alexis Barilier, Stéphane Pouyt, Christian Kayenga Kalubi, Nandy Noël Gbaha | unchanged |
-
-   Ask Samuel, do not guess: « frère KADJANY » (2 texts, is it André?),
-   « Frère DOUBBIN » and « Rigobert de Cotonou » (full names?).
+   | Frère Doubbin, Rigobert de Cotonou | « Frère DOUBBIN », « Rigobert de Cotonou »: full names unknown (Samuel, 2026-09-24); kept as the texts name them, casing fixed, until someone knows |
 
    **Author pages.** `/auteurs/` lists the Mevar preachers first, then under
    « Archives » William Branham, Ewald Frank and Alexis Barilier, each with
@@ -112,12 +124,14 @@ Decided by Samuel (2026-09-24):
 - `/bible/ephesiens/4/` lists the works citing Éphésiens 4:13; in a work
   whose body quotes the verse followed by « (Éphésiens 4:13) » (the case
   Samuel reported, 2026-09-24), the reference links to
-  `/bible/ephesiens/4/#v13`. `/bible/jean/5/19/` exists and is
-  paginated. The number of body references linked, and not linked, reported.
+  `/bible/ephesiens/4/#v13`. `/bible/jean/5/19/` and `/bible/jean/5/tout/`
+  exist and are paginated; no verse page section lists more than 60 works. The number of body references linked, and not linked, reported.
 - Every `preacher` value in `markdown/` is a display name of
-  `manifests/preachers.json` (a one-liner prints the distinct values: 13
+  `scripts/preachers.mjs` (a one-liner prints the distinct values: 13
   or fewer, plus any Samuel adds); bodies untouched (`git diff` on
   `markdown/` changes only `preacher:` lines and the "Unknown" fields).
+- A duplicate's old URL (once goal 09 has marked one) answers 301 to the
+  work it duplicates.
   The search filter lists the same names. `/auteurs/` shows the archive
   preachers; `/auteurs/william-branham/` is paginated.
 - `grep -rl '"Unknown"' markdown/branham` is empty after regeneration, the
