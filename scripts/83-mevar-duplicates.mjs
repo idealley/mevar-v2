@@ -10,7 +10,10 @@
 //                  and one containment >= 0.10                Samuel says "same"
 // Samuel's answers: scripts/mevar-duplicates-decided.json, keyed "<id> | <id>".
 //
-// In each group the Ghost post stays; else the text with more of the sermon
+// A shingle held by more than 20 works is a formula ("au nom de jesus christ")
+// and is not counted as shared.
+//
+// In each group the Ghost post stays (a group kept by a Ghost draft waits); else the text with more of the sermon
 // (more shingles, by more than 5 %); else the one with fewer OCR-like tokens.
 // The others get duplicate_of: "<source>/<sermon_id>". Nothing is deleted.
 //
@@ -37,20 +40,16 @@ function field(fm, name) {
 }
 
 function words(s) {
-  return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
+  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
     .replace(/[^a-z0-9]+/g, " ").split(" ").filter(Boolean);
 }
 
-// Tokens a clean transcript does not have: letters glued to digits (not "1er",
-// "3e"), a capital inside a word, a replacement or ligature glyph, a word cut
-// by a hyphen at a line end.
-const OCR = /\p{Ll}\p{Lu}|[�ﬀ-ﬆ]|\p{L}-$/u;
-const GLUED = /\p{L}\d|\d\p{L}/u;
-const ORDINAL = /^\d+(er|re|e|ème|eme|nd|nde)\b/;
-function ocrRate(body) {
-  const tokens = body.split(/\s+/).filter(Boolean);
-  const bad = tokens.filter((t) => OCR.test(t) || (GLUED.test(t) && !ORDINAL.test(t))).length;
-  return bad / tokens.length;
+// Tokens a clean transcript does not have: a capital inside a word, a
+// replacement or ligature glyph, a word cut by a hyphen at a line end. Digits
+// glued to letters are not counted: they are verse references ("1Pie", "V12").
+const OCR = /\p{Ll}\p{Lu}|[\uFFFD\uFB00-\uFB06]|\p{L}-$/u;
+function ocrTokens(body) {
+  return body.split(/\s+/).filter((t) => OCR.test(t)).length;
 }
 
 const works = [];
@@ -68,7 +67,7 @@ for (const source of ["mevar", "mevar-pdfs", "onedrive"]) {
       id: `${source}/${field(fm, "sermon_id")}`, source, file, text,
       title: field(fm, "title"), draft: field(fm, "status") === "draft",
       excerpt: body.split(/\s+/).filter(Boolean).slice(0, 300).join(" "),
-      ocr: ocrRate(body), shingles,
+      ocr: ocrTokens(body), shingles,
     });
   }
 }
@@ -84,7 +83,7 @@ works.forEach((w, i) => {
 });
 const shared = new Map();
 for (const h of holders.values()) {
-  if (h.length > 20) continue; // formulas every sermon says ("au nom de jesus christ")
+  if (h.length > 20) continue;
   for (let a = 0; a < h.length; a++) for (let b = a + 1; b < h.length; b++) {
     const [x, y] = [works[h[a]], works[h[b]]];
     if (x.source === y.source && x.source !== "onedrive") continue;
@@ -131,6 +130,11 @@ pairs.sort((p, q) => p.a.id.localeCompare(q.a.id) || p.b.id.localeCompare(q.b.id
 console.log(`works: ${works.length}; pairs sharing >= ${MIN_SHARED} shingles, by the smaller containment:`);
 bins.forEach((c, i) => console.log(`  ${(i / 10).toFixed(1)}-${((i + 1) / 10).toFixed(1)}  ${c}`));
 
+const keys = new Set(pairs.filter((p) => p.band === "uncertain").map((p) => `${p.a.id} | ${p.b.id}`));
+for (const [key, value] of Object.entries(decided)) {
+  if (!keys.has(key) || !["same", "different"].includes(value)) console.warn(`decision ignored: "${key}": "${value}"`);
+}
+
 // Groups: union of the applied pairs and the uncertain pairs Samuel called "same".
 const applied = pairs.filter((p) => p.band !== "uncertain" || p.decision === "same");
 const parent = new Map();
@@ -162,13 +166,15 @@ const groups = [];
 for (const group of members.values()) {
   group.sort((x, y) => x.id.localeCompare(y.id));
   const { keep, rule } = keeper(group);
-  for (const w of group) if (w !== keep && w.source !== "mevar") duplicateOf.set(w.id, keep.id);
+  // A draft is never built, so nothing may redirect to it yet; a rerun after
+  // Samuel publishes it applies the group.
+  if (!keep.draft) for (const w of group) if (w !== keep && w.source !== "mevar") duplicateOf.set(w.id, keep.id);
   const ids = new Set(group.map((w) => w.id));
   groups.push({
     keep: keep.id, rule, keep_is_draft: keep.draft,
-    members: group.map((w) => ({ id: w.id, title: w.title, shingles: w.shingles.size, ocr_rate: round(w.ocr) })),
+    members: group.map((w) => ({ id: w.id, title: w.title, shingles: w.shingles.size, ocr_tokens: w.ocr })),
     pairs: applied.filter((p) => ids.has(p.a.id)).map((p) => ({
-      a: p.a.id, b: p.b.id, band: p.decision ? "decided" : p.band, in_a: p.in_a, in_b: p.in_b, title: p.title,
+      a: p.a.id, b: p.b.id, band: p.band, decision: p.decision, in_a: p.in_a, in_b: p.in_b, title: p.title,
     })),
   });
 }
@@ -204,7 +210,7 @@ console.log("pairs per band:", count(pairs, (p) => p.band));
 console.log("pairs per band and source pair:", count(pairs, (p) => `${p.band}: ${p.a.source} x ${p.b.source}`));
 console.log("uncertain decided:", count(uncertain, (u) => u.decision || "open"));
 console.log(`groups: ${groups.length}; keeper rules:`, count(groups, (g) => g.rule));
-console.log("groups kept by a Ghost draft:", groups.filter((g) => g.keep_is_draft).map((g) => g.keep));
+console.log("groups kept by a Ghost draft, not applied until it is published:", groups.filter((g) => g.keep_is_draft).map((g) => g.keep));
 console.log("duplicate_of per source:", count([...duplicateOf.keys()], (id) => id.split("/")[0]));
 const ghostPosts = works.filter((w) => w.source === "mevar").length;
 const others = works.filter((w) => w.source !== "mevar" && !duplicateOf.has(w.id)).length;
