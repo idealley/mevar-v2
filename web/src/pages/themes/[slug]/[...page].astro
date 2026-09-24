@@ -1,0 +1,23 @@
+---
+import type { GetStaticPaths } from "astro";
+import Layout from "../../../layouts/Layout.astro";
+import CategoryGrid from "../../../components/CategoryGrid.astro";
+import { PAGE_SIZE, tags, worksTagged } from "$lib/works";
+
+// Every Ghost tag but the four categories and the years: themes, places, months.
+export const getStaticPaths = (async ({ paginate }) => {
+  const pages = [];
+  for (const tag of tags.values()) {
+    if (!tag.url.startsWith("/themes/")) continue;
+    const entries = await worksTagged(tag.name);
+    if (entries.length) pages.push(...paginate(entries, { pageSize: PAGE_SIZE, params: { slug: tag.slug }, props: { tag } }));
+  }
+  return pages;
+}) satisfies GetStaticPaths;
+
+const { page, tag } = Astro.props;
+---
+
+<Layout title={`${tag.name} — Mevar`} description={`${page.total} publications sur le thème « ${tag.name} »`}>
+  <CategoryGrid title={tag.name} page={page} />
+</Layout>

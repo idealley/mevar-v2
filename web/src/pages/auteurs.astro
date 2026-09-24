@@ -1,24 +1,13 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { getCollection } from "astro:content";
-import { entryDate, visibleTags } from "$lib/works";
+import { authors, worksBy } from "$lib/works";
 
-const all = await getCollection("works");
-const mevar = all.filter((e) => e.data.source === "mevar");
-
-type AuthorRow = { name: string; count: number; latest: Date };
-const map = new Map<string, AuthorRow>();
-for (const e of mevar) {
-  const authors = (e.data.authors ?? []) as string[];
-  const d = entryDate(e) ?? new Date(0);
-  for (const a of authors) {
-    const row = map.get(a) ?? { name: a, count: 0, latest: new Date(0) };
-    row.count++;
-    if (d > row.latest) row.latest = d;
-    map.set(a, row);
-  }
+const rows = [];
+for (const a of authors) {
+  const count = (await worksBy(a.name)).length;
+  if (count) rows.push({ ...a, count });
 }
-const authors = [...map.values()].sort((a, b) => b.count - a.count);
+rows.sort((a, b) => b.count - a.count);
 ---
 
 <Layout title="Auteurs — Mevar" description="Auteurs des prédications, exhortations et études bibliques de Mevar">
@@ -30,12 +19,14 @@ const authors = [...map.values()].sort((a, b) => b.count - a.count);
       </p>
     </header>
     <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {authors.map((a) => (
-        <li class="rounded-lg border bg-card p-5 hover:border-primary/50 transition">
-          <div class="font-semibold text-lg">{a.name}</div>
-          <div class="text-sm text-muted-foreground mt-1">
-            {a.count} publication{a.count > 1 ? "s" : ""}
-          </div>
+      {rows.map((a) => (
+        <li>
+          <a href={`/auteurs/${a.slug}/`} class="block rounded-lg border bg-card p-5 hover:border-primary/50 transition">
+            <div class="font-semibold text-lg">{a.name}</div>
+            <div class="text-sm text-muted-foreground mt-1">
+              {a.count} publication{a.count > 1 ? "s" : ""}
+            </div>
+          </a>
         </li>
       ))}
     </ul>

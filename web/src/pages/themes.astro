@@ -1,34 +1,31 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { allWorks, visibleTags } from "$lib/works";
+import { tags, worksTagged } from "$lib/works";
 
-const works = await allWorks();
-const tagCount = new Map<string, number>();
-for (const e of works) {
-  for (const t of visibleTags(e)) {
-    tagCount.set(t, (tagCount.get(t) ?? 0) + 1);
-  }
+// Topical Ghost tags only: years, places and months have their pages, not a place here.
+const themes = [];
+for (const tag of tags.values()) {
+  if (!tag.theme) continue;
+  const n = (await worksTagged(tag.name)).length;
+  if (n) themes.push({ ...tag, n });
 }
-// Show only thematic tags — drop year/place noise that's mostly mevar-import-auto
-const filtered = [...tagCount.entries()]
-  .filter(([t, n]) => n >= 3 && !/^(\d{4}|janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)$/i.test(t))
-  .sort((a, b) => b[1] - a[1]);
+themes.sort((a, b) => b.n - a.n);
 ---
 
-<Layout title="Thèmes — Mevar" description="Parcourir les œuvres par thème">
+<Layout title="Thèmes — Mevar" description="Parcourir les publications par thème">
   <div class="container mx-auto px-4 py-12 md:py-16">
     <header class="max-w-2xl mb-10">
       <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">Thèmes</h1>
       <p class="text-lg text-muted-foreground">
-        Parcourir la bibliothèque par sujet. {filtered.length} thèmes recensés.
+        Parcourir la bibliothèque par sujet. {themes.length} thèmes recensés.
       </p>
     </header>
     <div class="flex flex-wrap gap-2">
-      {filtered.map(([tag, n]) => (
-        <span class="inline-flex items-center gap-2 rounded-full border bg-card px-4 py-2 text-sm hover:border-primary/50 transition">
-          <span>{tag}</span>
-          <span class="text-xs text-muted-foreground">{n}</span>
-        </span>
+      {themes.map((t) => (
+        <a href={t.url} class="inline-flex items-center gap-2 rounded-full border bg-card px-4 py-2 text-sm hover:border-primary/50 transition">
+          <span>{t.name}</span>
+          <span class="text-xs text-muted-foreground">{t.n}</span>
+        </a>
       ))}
     </div>
   </div>
