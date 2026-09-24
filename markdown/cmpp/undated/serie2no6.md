@@ -6,7 +6,7 @@ subtitle: "17 décembre 1959, soir"
 date: "1959-12-17"
 year: 1959
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham explique le but de l'envoi du Saint-Esprit : permettre à Dieu d'habiter dans son Église et d'accomplir son plan de rédemption à travers elle. Il montre que le Saint-Esprit est Dieu lui-même agissant en nous, restaurant la communion perdue dans le jardin d'Éden."
 tags:
   - "Saint-Esprit"

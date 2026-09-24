@@ -6,7 +6,7 @@ subtitle: "Exhortation de Février 2009"
 date: "2009-02-15"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur la nécessité de la prière conjugale et de la communion spirituelle dans les foyers chrétiens, en prenant l'exemple du paralytique de Béthesda. Le prédicateur appelle à sortir de l'immobilisme spirituel symbolisé par le lit, à briser les blocages démoniaques et à vivre une vie chrétienne dynamique et victorieuse."
 tags:
   - "Exhortations"

@@ -6,7 +6,7 @@ subtitle: "14 juin 1964, matin"
 date: "1964-06-14"
 year: 1964
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la révélation de Dieu à travers les âges, expliquant comment Dieu s'est voilé dans une colonne de feu, puis en Jésus-Christ, et maintenant par l'Esprit dans l'homme. Il utilise des exemples bibliques et des expériences personnelles pour montrer que Dieu se dévoile à ses élus."
 tags:
   - "révélation de Dieu"

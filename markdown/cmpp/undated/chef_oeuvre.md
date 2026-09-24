@@ -6,7 +6,7 @@ subtitle: "5 juillet 1964, matin"
 date: "1964-07-05"
 year: 1964
 location: "Jeffersonville — Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham utilise la statue de Moïse par Michel-Ange comme métaphore pour décrire le plan de Dieu à travers l'histoire : la création de l'homme à Son image, sa chute, et la restauration par Jésus-Christ, le Chef-d'Œuvre parfait. Il souligne que Dieu a façonné l'humanité à travers les patriarches et les prophètes, culminant en Christ, qui est la Parole faite chair."
 tags:
   - "chef-d'œuvre"

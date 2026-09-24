@@ -6,7 +6,7 @@ subtitle: "Exhortation spéciale du Mois de Septembre 2006"
 date: "2006-04-09"
 year: 2006
 location: "Pointe-Noire"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation montre comment Dieu s'éloigne de ceux qui vivent dans le péché, en s'appuyant sur l'histoire d'Israël (Silo, le temple de Salomon) et sur le message de l'Église de Laodicée. L'auteur appelle à la repentance et à abandonner l'orgueil et les divisions pour revenir à Christ."
 tags:
   - "Exhortations"

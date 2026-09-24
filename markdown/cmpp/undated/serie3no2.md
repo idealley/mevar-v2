@@ -6,7 +6,7 @@ subtitle: "23 juin 1963, soir"
 date: "1963-06-23"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham compare les signes des derniers jours à l'époque de Noé, soulignant la multiplication des hommes, la beauté des femmes, l'immoralité sexuelle et l'adultère comme signes de la proximité du retour du Christ. Il raconte aussi une résurrection miraculeuse lors de la réunion du matin."
 tags:
   - "signe de la venue"

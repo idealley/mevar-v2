@@ -5,7 +5,7 @@ title: "LE REVEIL PROMIS"
 date: "2006-02-14"
 year: 2006
 location: "Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cet exposé biblique adressé au peuple de Dieu du temps de la fin appelle à la repentance et à la prière pour un réveil de feu, le baptême du Saint-Esprit, après le réveil des esprits apporté par le ministère de William Branham. Il dénonce la tiédeur et l'orgueil de l'Église de Laodicée, et exhorte à revenir à la Parole de Dieu pour expérimenter la puissance de Dieu comme aux jours d'Élie et de la Pentecôte."
 tags:
   - "Exhortations"

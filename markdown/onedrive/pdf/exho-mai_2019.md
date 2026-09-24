@@ -5,7 +5,7 @@ title: "MEDITONS LA PROPHETIE DE JOEL"
 subtitle: "Exhortation de Mai 2019"
 date: "2019-05-01"
 year: 2019
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation, basée sur le livre de Joël, appelle l'Église de Laodicée à se repentir, à jeûner et à prier pour retrouver l'onction perdue. Elle dénonce l'esprit de tiédeur et les fausses doctrines qui ont dépouillé l'Église de sa puissance, et insiste sur la nécessité de l'humiliation et de l'intercession pour obtenir la délivrance de Dieu."
 tags:
   - "Exhortations"

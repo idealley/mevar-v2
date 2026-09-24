@@ -5,7 +5,7 @@ title: "RELISEZ « l’EDEN DE SATAN »"
 subtitle: "Exhortation de Septembre 2008"
 date: "2008-09-01"
 year: 2008
-preacher: "Fr M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation de septembre 2008 invite les croyants à relire la prédication « L'Eden de Satan » de William Branham. L'auteur explique que Satan s'est assis dans le temple de Dieu (le Corps de Christ) et que beaucoup de croyants l'adorent sans le savoir, accomplissant ainsi la prophétie de 2 Thessaloniciens 2. Il encourage à discerner la tromperie de Satan et à rester fidèles à la Parole."
 tags:
   - "Exhortations"

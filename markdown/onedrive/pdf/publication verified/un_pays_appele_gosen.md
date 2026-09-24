@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mai 2014"
 date: "2014-05-19"
 year: 2014
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur développe la signification prophétique de Gosen, la région d'Égypte où les enfants d'Israël furent épargnés des plaies. Il établit un parallèle avec l'Église du Message du temps de la fin, présentée comme un lieu de protection et de distinction au milieu du monde. Il exhorte les croyants à rester dans cette position spirituelle pour être préservés des jugements à venir."
 tags:
   - "Exhortations"

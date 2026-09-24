@@ -4,7 +4,7 @@ sermon_id: "exhortation_2_0ctober_2019_cherchez_avec_le_seigneur"
 title: "Cherchez avec le Seigneur"
 date: "2019-10-01"
 year: 2019
-preacher: "Pasteur M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation encourage les croyants à avoir une foi authentique en Dieu, basée sur la connaissance de Lui et sur Ses promesses. Elle utilise des exemples bibliques (Josué, Zacharie, la pêche miraculeuse) pour montrer que la foi agit lorsque les choses ne fonctionnent pas normalement, et qu'il faut chercher avec le Seigneur pour obtenir des résultats. L'accent est mis sur la nécessité de rebâtir la maison de Dieu et de prendre toutes les armes spirituelles pour le combat de la foi."
 tags:
   - "foi"

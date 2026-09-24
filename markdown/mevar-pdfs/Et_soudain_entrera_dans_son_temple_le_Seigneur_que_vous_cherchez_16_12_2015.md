@@ -5,7 +5,7 @@ title: "Et soudain entrera dans son temple, le Seigneur que vous cherchez"
 date: "2015-12-16"
 year: 2015
 location: "Matadi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que le message du temps de la fin a pour but de préparer le temple de Dieu, c'est-à-dire les croyants, afin que Christ habite corporellement en eux. Il met en garde contre la tiédeur et le sommeil spirituel de Laodicée, appelant à la repentance et au réveil pour être prêts à recevoir le Seigneur."
 tags:
   - "temple de Dieu"

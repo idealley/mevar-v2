@@ -5,7 +5,7 @@ title: "Sauve-toi pour ta vie !"
 subtitle: "Exhortation de Mai 2008"
 date: "2008-05-01"
 year: 2008
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation s'appuie sur l'histoire de Loth et la destruction de Sodome pour appeler les croyants à sortir de Babylone spirituelle, à se dépouiller des œuvres du monde et à se préparer pour l'enlèvement. Le message insiste sur la nécessité d'une délivrance complète (corps, âme et esprit) et sur le combat contre l'esprit de Babylone dans l'Église."
 tags:
   - "Exhortations"

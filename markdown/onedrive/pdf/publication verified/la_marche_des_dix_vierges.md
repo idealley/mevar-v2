@@ -5,7 +5,7 @@ title: "ETUDE BIBLIQUE : LA PARABOLE DES DIX VIERGES EXPLIQUEE (Matthieu 25)"
 date: "2013-10-29"
 year: 2013
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette étude biblique approfondit la parabole des dix vierges (Matthieu 25) en la reliant au Message du temps de la fin prêché par William Branham. L'auteur explique que les vierges représentent les croyants ayant reçu la parole prophétique (la lampe), et que l'huile symbolise l'onction divine. Il distingue les vierges sages des folles parmi ceux qui croient au Message, et interprète le cri de minuit comme un réveil spirituel apporté par des serviteurs de Dieu (vases) qui renouvellent l'onction pour la marche vers l'Epoux."
 tags:
   - "Etudes Bibliques"

@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "broch_plusgrand"
 title: "QUI EST LE PLUS GRAND ?"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce document traite de la purification et du perfectionnement de l'Église à la fin des temps, en insistant sur le fait que Jésus-Christ est le seul fondement. L'auteur, M'BRA Parfait, partage son témoignage personnel sur son appel missionnaire et explique le rôle des apôtres et missionnaires dans l'œuvre de Dieu."
 tags:
   - "Exhortations"

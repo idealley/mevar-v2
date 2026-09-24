@@ -5,7 +5,7 @@ title: "Le Siège de l’adversaire"
 date: "2008-01-17"
 year: 2008
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur expose que l'Église est spirituellement assiégée par Satan avant l'enlèvement, comme décrit dans 2 Thessaloniciens 2. Il appelle les croyants à un combat spirituel pour déloger l'adversaire et restaurer la sainteté, en s'appuyant sur la vision de l'Épouse comme soldats de Christ."
 tags:
   - "Prédications"

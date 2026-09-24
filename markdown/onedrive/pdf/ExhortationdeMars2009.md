@@ -5,7 +5,7 @@ title: "LES FILS DU DESERT"
 subtitle: "Exhortation de Mars 2009"
 date: "2009-03-01"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation, basée sur Ésaïe 40, appelle le peuple de Dieu à accepter le 'désert' spirituel comme lieu de formation et de dépouillement pour préparer le retour du Seigneur. Elle compare Jean-Baptiste et William Branham comme messagers du désert, et insiste sur la nécessité de l'isolement, de la prière et du jeûne pour vaincre la chair et recevoir la puissance de Dieu."
 tags:
   - "Exhortations"

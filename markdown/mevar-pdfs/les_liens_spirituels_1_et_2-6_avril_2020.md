@@ -5,7 +5,7 @@ title: "Les liens spirituels"
 date: "2020-04-06"
 year: 2020
 location: "Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message examine l'histoire de la femme courbée dans Luc 13 pour enseigner sur les liens spirituels qui entravent les croyants. L'auteur exhorte à rechercher la délivrance de ces liens par la foi et la prière, afin d'être des temples du Saint-Esprit prêts pour l'enlèvement."
 tags:
   - "liens spirituels"

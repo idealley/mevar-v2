@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2007"
 date: "2007-01-22"
 year: 2007
 location: "Lagos, Mankoko"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation développe le thème de la récompense de prophète à partir de Matthieu 10:40-41 et de l'histoire d'Élie et de la veuve de Sarepta. L'orateur explique que recevoir un prophète en qualité de prophète apporte des récompenses telles que la révélation de la Parole, la résurrection spirituelle, la purification des péchés et le réveil. Il met en garde contre le rejet des prophètes, qui conduit aux ténèbres et à la malédiction."
 tags:
   - "Exhortations"

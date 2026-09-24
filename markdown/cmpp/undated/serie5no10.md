@@ -6,7 +6,7 @@ subtitle: "11 septembre 1965, matin"
 date: "1965-09-11"
 year: 1965
 location: "Phoenix, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le pouvoir de transformation de Dieu à partir de Romains 12:1-2. Il compare la création parfaite de Dieu à l'œuvre de déformation de Satan à travers la science et la civilisation, et exhorte les croyants à ne pas se conformer au monde mais à être transformés par le renouvellement de l'entendement."
 tags:
   - "transformation"

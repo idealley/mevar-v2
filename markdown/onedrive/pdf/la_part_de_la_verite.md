@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "la_part_de_la_verite"
 title: "La Part de la Vérité"
 subtitle: "Questions Réponses"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le frère M'BRA Parfait répond à quinze questions récurrentes sur son ministère, le huitième messager, le cri de minuit, le combat contre Babylone, et d'autres sujets doctrinaux. Il clarifie sa position sur le ministère de frère Frank, le sommeil spirituel, et les calomnies dont il est victime."
 tags:
   - "Publications"

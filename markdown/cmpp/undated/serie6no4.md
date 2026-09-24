@@ -6,7 +6,7 @@ subtitle: "4 décembre 1965, soir"
 date: "1965-12-04"
 year: 1965
 location: "Yuma, Arizona, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur l'enlèvement de l'Église, s'appuyant sur Psaumes 27 et 2 Pierre 3. Il met en garde contre les moqueurs des derniers jours et souligne que le véritable grain de blé (l'Épouse) sera rassemblé à travers les réformations successives."
 tags:
   - "enlèvement"

@@ -6,7 +6,7 @@ subtitle: "Exhortation d'Août 2009"
 date: "2009-08-01"
 year: 2009
 location: "Koumassi"
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation, basée sur le Psaume 23, invite les croyants à reconnaître le Seigneur comme leur Pasteur invisible, qui conduit, protège et pourvoit. Elle met en garde contre la confiance en l'homme et encourage une foi totale en Dieu, la prière selon Sa volonté, et la préparation pour le retour de Christ."
 tags:
   - "Exhortations"

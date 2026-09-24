@@ -6,7 +6,7 @@ subtitle: "18 mars 1962, matin et après-midi"
 date: "1962-03-18"
 year: 1962
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham enseigne que la Parole de Dieu est éternelle, infaillible et ne peut être mélangée ou hybridée avec des doctrines humaines. Il explique que chaque parole prononcée par Dieu est une semence originelle qui produit selon son espèce, et que toute tentative d'hybridation mène à la mort spirituelle. Il souligne l'importance de croire la Bible littéralement sans y ajouter ni retrancher."
 tags:
   - "Parole de Dieu"

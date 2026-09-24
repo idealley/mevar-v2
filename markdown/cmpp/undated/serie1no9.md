@@ -6,7 +6,7 @@ subtitle: "7 juillet 1963, soir"
 date: "1963-07-07"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham accuse les églises dénominationnelles et les communautés indépendantes de crucifier Jésus-Christ à nouveau de nos jours, en rejetant la Parole de Dieu et en s'organisant comme au temps de la première crucifixion. Il s'appuie sur Luc 23:33 pour démontrer que l'esprit religieux qui a crucifié Christ est le même aujourd'hui."
 tags:
   - "accusation"

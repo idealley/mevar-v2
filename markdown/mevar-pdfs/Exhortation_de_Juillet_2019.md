@@ -4,7 +4,7 @@ sermon_id: "Exhortation_de_Juillet_2019"
 title: "LA POSITION DE SAUVEUR"
 date: "2019-07"
 year: 2019
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation appelle les croyants à prendre la position de sauveur en manifestant l'amour de Dieu, à l'image de Christ qui est venu sauver le monde. Elle dénonce le refroidissement de l'amour dû à l'iniquité et la séduction des faux prophètes, et encourage à discerner les signes des temps pour participer au plan de Dieu."
 tags:
   - "amour de Dieu"

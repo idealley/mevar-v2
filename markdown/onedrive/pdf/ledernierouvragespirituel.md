@@ -5,7 +5,7 @@ title: "Le dernier ouvrage spirituel"
 date: "2008-11-02"
 year: 2008
 location: "Mankoko, Lagos, Nigéria"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'assemblée à comprendre que Dieu les a choisis pour un dernier ouvrage : la reconstruction de la muraille de Jérusalem, symbole de l'unité de la foi et de l'Esprit dans le Corps du Christ. Il insiste sur la nécessité de renoncer à soi-même, de régler les conflits entre frères, de pratiquer la justice et la transparence, et de vivre les lois bibliques dans les foyers (soumission des femmes, amour des maris, respect des enfants envers les parents) pour que le réveil soit véritable."
 tags:
   - "Prédications"

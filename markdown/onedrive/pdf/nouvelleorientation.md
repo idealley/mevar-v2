@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "nouvelleorientation"
 title: "L'intercession"
 location: "Cocotomé / Cotonou"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'Église à prendre la position d'intercession, comparée à Moïse élevant les mains sur la colline pour assurer la victoire d'Israël. Il souligne que l'intercession est un mur de protection pour l'Église, nécessaire pour manifester la puissance de Dieu et éviter le sommeil spirituel. Il appelle chaque croyant à s'engager dans la prière et le jeûne pour le réveil."
 tags:
   - "Exhortations"

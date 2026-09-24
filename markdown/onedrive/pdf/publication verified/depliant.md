@@ -5,7 +5,7 @@ title: "Comment reçoit-on l'Esprit Saint ?"
 date: "2009-07-24"
 year: 2009
 location: "Arrah (R.C.I)"
-preacher: "Frère DOUBBIN"
+preacher: "Frère Doubbin"
 summary: "Ce traité explique l'importance du signe du Saint-Esprit, la prédication de la foi comme moyen de recevoir l'Esprit, et comment purifier son cœur par la foi dans le sang de Christ pour recevoir le Saint-Esprit. Il exhorte à revenir à la prédication de la croix des apôtres."
 tags:
   - "Exhortations"

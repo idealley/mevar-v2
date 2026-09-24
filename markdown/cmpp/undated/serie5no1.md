@@ -6,7 +6,7 @@ subtitle: "20 février 1965, soir"
 date: "1965-02-20"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham enseigne que le seul lieu d'adoration choisi par Dieu est en Jésus-Christ, et non dans une église ou dénomination. Il s'appuie sur Deutéronome 16 et Exode 12 pour montrer que Dieu a mis Son Nom en Christ, l'Agneau sans tache, et que c'est là seulement que l'homme peut rencontrer Dieu et être sauvé."
 tags:
   - "adoration"

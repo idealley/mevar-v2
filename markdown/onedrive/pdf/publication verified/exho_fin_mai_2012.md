@@ -5,7 +5,7 @@ title: "LA PARABOLE DU PAIN"
 subtitle: "Exhortation de Mai 2012"
 date: "2012-05-01"
 year: 2012
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore la parabole du pain dans Ecclésiaste 11, interprétant le pain comme Jésus-Christ et la Parole de Dieu, jeté sur les eaux (les peuples). Elle souligne la distribution du pain à sept et huit personnes, symbolisant les sept âges de l'Église et le huitième messager (réveil) pour préserver l'Église du malheur des derniers temps."
 tags:
   - "Exhortations"

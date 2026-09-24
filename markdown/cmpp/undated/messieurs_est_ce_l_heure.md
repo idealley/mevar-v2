@@ -6,7 +6,7 @@ subtitle: "30 décembre 1962, soir"
 date: "1962-12-30"
 year: 1962
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème des signes de la fin des temps, en s'appuyant sur Apocalypse 10. Il partage des visions et des songes prophétiques, notamment celui de Frère Jackson, et insiste sur la nécessité de s'en tenir à la Parole de Dieu. Il évoque également la photographie de la Lumière surnaturelle et l'accomplissement des prophéties."
 tags:
   - "fin des temps"

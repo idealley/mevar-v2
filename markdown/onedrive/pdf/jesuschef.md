@@ -5,7 +5,7 @@ title: "Jésus-Christ le Chef"
 date: "2011-08-07"
 year: 2011
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur expose que Jésus-Christ est le Chef suprême de l'Église et du monde, ayant tout pouvoir, domination et autorité après sa résurrection. Il encourage les croyants à avoir la révélation de cette vérité pour ne craindre aucune autorité humaine ou démoniaque, et à servir fidèlement le Seigneur comme les vaillants hommes de David."
 tags:
   - "Prédications"

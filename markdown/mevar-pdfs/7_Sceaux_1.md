@@ -5,7 +5,7 @@ title: "Le Message des 7 Sceaux (premier sceau)"
 date: "2019-07-01"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message introduit une série sur les 7 sceaux, soulignant l'importance de la révélation des sceaux pour la fin des temps. Il exhorte les croyants à prendre une position de sauveur et d'intercesseur plutôt que d'accusateur, et explique que l'ouverture des sceaux par Christ conduit à la maturité spirituelle et à la préparation de l'Épouse pour l'enlèvement."
 tags:
   - "7 sceaux"

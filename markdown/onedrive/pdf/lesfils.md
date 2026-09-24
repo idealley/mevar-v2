@@ -5,7 +5,7 @@ title: "Les fils du désert"
 date: "2009-03-01"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur développe le thème des 'fils du désert' à partir d'Ésaïe 40, expliquant que le désert symbolise l'isolement spirituel, l'épreuve et la formation divine. Il montre que Dieu prépare son peuple dans le désert pour la guerre spirituelle, à l'image de Jean-Baptiste, Jésus, Moïse et Paul. Il exhorte les croyants à accepter leur part de désert et à se préparer au combat contre Babylone."
 tags:
   - "Prédications"

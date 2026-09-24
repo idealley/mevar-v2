@@ -6,7 +6,7 @@ subtitle: "Exhortation de Septembre 2009"
 date: "2009-09-28"
 year: 2009
 location: "Kinshasa (RDC)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur compare l'église du Message à Athènes, où les croyants sont tombés dans un culte de philosophie, de nouvelles doctrines et d'idolâtrie des serviteurs de Dieu. Il appelle à sortir de ce culte pour entrer dans la mort et la résurrection de Jésus, en recherchant la sainteté, la prière et le jeûne."
 tags:
   - "Prédications"

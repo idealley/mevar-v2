@@ -4,7 +4,7 @@ sermon_id: "exhortation_septembre_2019_braver_la_grande_foule"
 title: "Braver la grande foule"
 date: "2019-09-01"
 year: 2019
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur la nécessité de braver la 'foule' spirituelle (distractions, incrédulité, oppositions) pour vivre une foi authentique et obtenir les promesses de Dieu, en s'appuyant sur des exemples bibliques comme la femme à la perte de sang, Bartimée, Zachée, la Cananéenne et David."
 tags:
   - "foi"

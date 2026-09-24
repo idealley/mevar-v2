@@ -5,7 +5,7 @@ title: "Dispensateurs des biens du Christ"
 date: "2014-02-23"
 year: 2014
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "À partir de la parabole de l'économe infidèle (Luc 16), le prédicateur exhorte les croyants à être de bons dispensateurs des dons spirituels reçus de Dieu, en les mettant au service des autres. Il souligne que la solidarité spirituelle dans l'Église est essentielle pour l'efficacité du corps de Christ et que servir les autres, c'est se servir soi-même."
 tags:
   - "Exhortations"

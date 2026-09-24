@@ -6,7 +6,7 @@ subtitle: "24 juillet 1963, soir"
 date: "1963-07-24"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème que Dieu avertit toujours avant le jugement, en s'appuyant sur l'histoire d'Ézéchias, Jonas et Amos. Il souligne l'urgence du message de repentance pour l'Église et le monde avant la venue du Seigneur."
 tags:
   - "avertissement"

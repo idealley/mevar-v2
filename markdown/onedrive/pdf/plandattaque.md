@@ -5,7 +5,7 @@ title: "PLANS D'ATTAQUE III"
 date: "2009-11-22"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette prédication continue la série sur les plans d'attaque. Le prédicateur insiste sur la préparation spirituelle pour les temps de la fin, mettant en garde contre l'orgueil, la séduction des faux prophètes et l'importance de la justice et de la sanctification. Il souligne que l'onction ne suffit pas sans un cœur droit, et que beaucoup de ceux qui seront oints tomberont à cause de leur manque de préparation."
 tags:
   - "Prédications"

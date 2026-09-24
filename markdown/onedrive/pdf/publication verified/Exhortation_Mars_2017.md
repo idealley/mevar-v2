@@ -5,7 +5,7 @@ title: "LA FOI POUR MANGER LE LAIT ET LE MIEL"
 subtitle: "Exhortation de Mars 2017"
 date: "2017-03-01"
 year: 2017
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de mars 2017 par le frère M'BRA Parfait appelle les croyants à devenir des hommes forts et bien armés spirituellement, en s'appuyant sur la Parole de Dieu et l'intégrité. Elle met en garde contre les armes de Satan, notamment la reine Vénus (esprit de séduction, nudité, impudicité), et encourage le combat spirituel pour entrer dans le pays promis où coulent le lait et le miel, symboles des bénédictions et révélations de Dieu."
 tags:
   - "Exhortations"

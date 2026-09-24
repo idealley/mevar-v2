@@ -5,7 +5,7 @@ title: "Les jugements de Dieu"
 date: "2020-08-22"
 year: 2020
 location: "Abidjan"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette prédication insiste sur la toute-puissance de Dieu et la permanence de sa Parole, qui ne passe jamais contrairement aux hommes, aux civilisations et au monde. Elle rappelle les jugements passés (déluge, Sodome, etc.) et annonce la destruction future de Babylone et du monde actuel, appelant les croyants à se sauver et à sortir du monde."
 tags:
   - "jugements de Dieu"

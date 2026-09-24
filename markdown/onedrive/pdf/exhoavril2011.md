@@ -5,7 +5,7 @@ title: "LA BONNE PART QUI NE NOUS SERA JAMAIS OTEE"
 subtitle: "Exhortation de Avril 2011"
 date: "2011-04-01"
 year: 2011
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation développe le thème de 'la bonne part' qui ne nous sera jamais ôtée, en s'appuyant sur les exemples de Marthe et Marie, Jacob et Ésaü. L'auteur insiste sur la nécessité de recevoir de Dieu la révélation et l'instruction (la bonne part) avant de servir, et sur la patience dans l'attente de l'accomplissement des promesses divines."
 tags:
   - "Exhortations"

@@ -4,7 +4,7 @@ sermon_id: "exhortation_fin_2019_les_teraphim_et_la_mort_de_rachel"
 title: "LES TÉRAPHIM ET LA MORT DE RACHEL"
 date: "2019-11"
 year: 2020
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation met en garde contre les 'téraphim' spirituels (idoles) qui remplacent le Saint-Esprit dans la vie du croyant, en s'appuyant sur l'histoire de Rachel volant les dieux de son père Laban. Elle appelle à la vigilance, au travail et à la communion avec Dieu pour ne pas subir le même sort que Rachel, morte à cause de sa désobéissance."
 tags:
   - "téraphim"

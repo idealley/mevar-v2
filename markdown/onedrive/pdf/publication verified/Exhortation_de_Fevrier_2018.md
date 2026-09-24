@@ -5,7 +5,7 @@ title: "SEIGNEUR, JE TE SUIVRAI, PARTOUT OU TU IRAS"
 subtitle: "Exhortation de Mars 2018"
 date: "2018-03-01"
 year: 2018
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de mars 2018 insiste sur l'importance de suivre Jésus partout, en s'appuyant sur le thème de l'Alpha et l'Oméga. L'auteur rappelle que le but du Message du temps de la fin est de ramener l'Église au commencement de la foi chrétienne, et que suivre Jésus implique un engagement total, sans compromis avec le monde. Il appelle les croyants à réclamer Jésus comme Seigneur, Roi, Sauveur et Époux, pour manifester sa puissance et distinguer son peuple."
 tags:
   - "Exhortations"

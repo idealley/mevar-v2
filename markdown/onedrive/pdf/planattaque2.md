@@ -5,7 +5,7 @@ title: "Plan d'attaque II"
 date: "2009-11-15"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur poursuit l'enseignement sur le plan d'attaque de Dieu contre Satan, expliquant que la vie de sainteté des croyants est la stratégie divine pour faire tomber Babylone. Il détaille le combat spirituel, les ruses de l'ennemi, et l'importance de la compréhension et de la persévérance pour atteindre l'objectif d'une Église sans tache et d'un témoignage puissant au monde."
 tags:
   - "Prédications"

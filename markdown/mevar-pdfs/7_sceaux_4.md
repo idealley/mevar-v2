@@ -5,7 +5,7 @@ title: "Le Message des sept sceaux (Suite 4ᵉ, 5e et 6e Sceau)"
 date: "2019-07-22"
 year: 2019
 location: "Koumassi"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur poursuit l'étude du quatrième sceau (Apocalypse 6:7-8), reliant le cavalier nommé Mort à l'apostasie et à l'homme impie de 2 Thessaloniciens 2. Il explique que Satan s'est assis dans le temple de Dieu (l'Église) par l'organisation et la mondanité, provoquant la mort spirituelle. Le message de l'aigle (Élie) est envoyé pour ramener les cœurs à Christ et faire sortir de Babylone."
 tags:
   - "sept sceaux"

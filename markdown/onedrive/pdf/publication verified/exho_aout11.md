@@ -5,7 +5,7 @@ title: "Zachée et le sycomore"
 subtitle: "Exhortation d'Août 2011"
 date: "2011-08-01"
 year: 2011
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore l'histoire de Zachée et du sycomore comme symbole des ministères qui aident les croyants à surmonter les obstacles spirituels et à rencontrer Jésus. Elle insiste sur la nécessité de la foi et de l'humilité pour emprunter les ministères envoyés par Dieu, afin d'atteindre la maturité spirituelle nécessaire pour l'enlèvement."
 tags:
   - "Exhortations"

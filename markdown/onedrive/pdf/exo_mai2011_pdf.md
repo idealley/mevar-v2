@@ -5,7 +5,7 @@ title: "IL FAUT QUE TU RENDES TEMOIGNAGE DANS ROME"
 subtitle: "Exhortation Fin Mai 2011"
 date: "2011-05-01"
 year: 2011
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation explore le voyage de l'apôtre Paul à Rome comme symbole prophétique de la marche de l'Église-Épouse à la fin des temps. Elle souligne que les croyants, citoyens du Royaume de Dieu et de leurs nations, doivent rendre témoignage dans le monde (Rome) après avoir été préparés par le Cri de Minuit. Le texte détaille les étapes de la foi (navires d'Adramytte et d'Alexandrie), les épreuves (tempêtes, vents contraires) et la consolation finale (île de Malte), encourageant à persévérer malgré les obstacles."
 tags:
   - "Exhortations"

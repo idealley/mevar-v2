@@ -4,7 +4,7 @@ sermon_id: "exhortation_fevrier_202_chercher_dieu_et_le_trouver"
 title: "CHERCHER DIEU ET LE TROUVER"
 date: "2022-02-01"
 year: 2022
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation s'appuie sur 1 Chroniques 28:9 où David conseille à Salomon de connaître Dieu. Elle souligne l'importance de chercher Dieu de tout son cœur, de se dépouiller de la vie charnelle, et de rester fidèle à la mission divine malgré l'opposition. L'auteur encourage à manifester la gloire de Christ et à persévérer dans la foi."
 tags:
   - "connaissance de Dieu"

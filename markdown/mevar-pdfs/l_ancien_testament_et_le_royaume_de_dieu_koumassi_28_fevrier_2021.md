@@ -5,7 +5,7 @@ title: "L’Ancien Testament et le Royaume de Dieu"
 date: "2021-02-28"
 year: 2021
 location: "Koumassi"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message explique la différence entre l'Ancien Testament et le Royaume de Dieu, insistant sur le fait que le message du temps de la fin n'a pas fait sortir les croyants du Royaume de Dieu. Il met en garde contre l'idolâtrie des serviteurs de Dieu et souligne que Christ est le seul Chef de l'Église."
 tags:
   - "Royaume de Dieu"

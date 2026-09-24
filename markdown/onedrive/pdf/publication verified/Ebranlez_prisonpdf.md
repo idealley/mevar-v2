@@ -5,7 +5,7 @@ title: "EBRANLEZ LES PRISONS !"
 date: "2007-10-28"
 year: 2007
 location: "Pointe-Noire"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message exhorte les croyants à ébranler les prisons spirituelles de Satan dans les villes, en s'appuyant sur Actes 16 (Paul et Silas à Philippes), Actes 8 (Philippe et l'eunuque éthiopien) et Ésaïe 6 (la vision d'Ésaïe). Le prédicateur appelle les vierges sages à se lever comme une armée pour libérer les captifs de Babylone par la prière, la louange et la prédication, afin de préparer l'enlèvement."
 tags:
   - "Prédications"

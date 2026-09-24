@@ -4,7 +4,7 @@ sermon_id: "holocoste_exhortation_mars_2021"
 title: "HOLOCAUSTE"
 date: "2021-03-01"
 year: 2021
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur la nécessité de la consécration et du sacrifice de soi (holocauste) pour que Dieu approuve notre foi, à l'exemple d'Abraham, de Daniel et de ses compagnons. Elle appelle l'Église de Laodicée à offrir une foi sans défaut pour manifester la gloire de Dieu dans la génération actuelle."
 tags:
   - "holocauste"

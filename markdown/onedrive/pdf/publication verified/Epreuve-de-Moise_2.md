@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2019"
 date: "2019-01-07"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message est un complément à la prédication sur l'épreuve de Moïse. Il insiste sur l'importance d'être prompt à écouter, lent à parler et lent à se mettre en colère, en s'appuyant sur Jacques 1:19-25 et les Proverbes. L'orateur montre comment Moïse a succombé à la colère après quarante ans de murmures du peuple, et exhorte les croyants à maîtriser leur colère pour ne pas perdre leur héritage spirituel."
 tags:
   - "Prédications"

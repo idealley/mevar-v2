@@ -6,7 +6,7 @@ subtitle: "Exhortation d'Octobre 2010"
 date: "2010-10-13"
 year: 2010
 location: "Kinshasa (RDC)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que Dieu a prononcé une bonne parole sur Israël concernant la naissance du Messie, et de même, une bonne parole a été donnée à l'Église pour enfanter un Fils qui la délivrera. Il exhorte les croyants à persévérer dans les douleurs de l'enfantement, à rester attachés à la prophétie et à ne pas se laisser distraire par les problèmes humains, car la création attend la révélation des fils de Dieu."
 tags:
   - "Exhortations"

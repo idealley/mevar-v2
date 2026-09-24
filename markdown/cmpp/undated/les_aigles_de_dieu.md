@@ -6,7 +6,7 @@ subtitle: "4 mars 1960, après-midi — Tulsa, Oklahoma, U.S.A."
 date: "1960-03-04"
 year: 1960
 location: "Tulsa, Oklahoma, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham utilise l'image de l'aigle pour illustrer la vie chrétienne, la liberté en Christ et la puissance du Saint-Esprit. Il raconte des expériences personnelles dans la nature et au zoo pour montrer comment Dieu prépare son Église à s'élever au-dessus des limitations humaines et des dénominations."
 tags:
   - "aigle"

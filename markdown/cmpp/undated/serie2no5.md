@@ -6,7 +6,7 @@ subtitle: "16 décembre 1959, soir"
 date: "1959-12-16"
 year: 1959
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham enseigne sur la nature du Saint-Esprit comme signe, sceau, consolateur et avocat pour les croyants. Il explique que le Saint-Esprit est la circoncision du cœur, un sceau jusqu'au jour de la rédemption, et l'Esprit de Christ en nous, qui continue l'œuvre de Dieu."
 tags:
   - "Saint-Esprit"

@@ -6,7 +6,7 @@ subtitle: "Exhortation de Février 2013"
 date: "2013-02-13"
 year: 2013
 location: "Abidjan Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur développe le thème du sort de Caïn, qui est l'errance et le vagabondage spirituel, conséquence du refus de repentance. Il établit un parallèle entre Caïn et le monde actuel, y compris les chrétiens qui ne veulent pas se repentir, et appelle à une repentance sincère pour sortir de cette malédiction et marcher dans la voie de Dieu."
 tags:
   - "Prédications"

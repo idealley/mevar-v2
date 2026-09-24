@@ -5,7 +5,7 @@ title: "La préparation en vue d'une œuvre"
 date: "2010-09-05"
 year: 2010
 location: "Koudougou, Burkina Faso"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur utilise l'histoire de Gédéon (Juges 6-7) pour expliquer le processus de préparation et de sélection que Dieu opère dans l'Église avant d'envoyer un réveil. Il insiste sur le fait que Dieu réduit le nombre de combattants pour que la gloire lui revienne, et que seuls ceux qui boivent l'eau de la Parole avec prudence et humilité sont retenus pour le combat spirituel contre Babylone."
 tags:
   - "Prédications"

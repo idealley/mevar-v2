@@ -5,7 +5,7 @@ title: "SI DIEU EST AVEC NOUS – SOYONS AUSSI AVEC LUI"
 subtitle: "Exhortation de Septembre 2017"
 date: "2017-09-01"
 year: 2017
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur la nécessité pour les croyants d'être avec Dieu par la foi, car Dieu peut être avec nous sans que nous soyons avec Lui. À travers les exemples de Gédéon, Joas, Josué et Juda, l'auteur montre que la foi est la clé pour vaincre les épreuves et posséder les promesses de Dieu. Il distingue la foi de l'esprit des sentiments de la chair et encourage à cultiver une foi ferme et quotidienne."
 tags:
   - "Exhortations"

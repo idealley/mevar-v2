@@ -6,7 +6,7 @@ subtitle: "Exhortation de Novembre 2006"
 date: "2006-11-03"
 year: 2006
 location: "Dabou"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation traite de l'esprit babylonien qui sévit dans l'Église, appelant les croyants à fuir Babylone non seulement comme système religieux mais comme esprit de péché, d'idolâtrie et de religion. L'auteur explique que Babylone est un esprit d'organisation, de fausses doctrines et de mort spirituelle, et que le combat actuel est de sortir de cette nouvelle religion pour s'attacher à Christ. Il analyse les quatre cavaliers de l'Apocalypse et les quatre êtres vivants, montrant comment Dieu a fourni une stratégie pour chaque âge de l'Église, culminant avec l'esprit d'aigle pour l'âge de Laodicée."
 tags:
   - "Exhortations"

@@ -6,7 +6,7 @@ subtitle: "Exhortation de Février 2009"
 date: "2009-02-15"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur la nécessité de la prière conjugale et de la communion spirituelle dans les foyers chrétiens. Elle dénonce l'esprit de paralysie spirituelle qui bloque la vie chrétienne, familiale et professionnelle, et appelle à en sortir par la foi et la repentance."
 tags:
   - "Exhortations"

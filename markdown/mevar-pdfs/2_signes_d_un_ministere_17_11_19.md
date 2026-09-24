@@ -5,7 +5,7 @@ title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu, deux
 date: "2019-11-17"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message poursuit l'étude des signes d'un ministère authentique, en approfondissant les ministères de la Parole (apôtres, prophètes, évangélistes, pasteurs, docteurs) comme premiers signes, les dons spirituels dans l'église, et la distinction entre vrais et faux signes. Il insiste sur l'importance de la voix qui accompagne les signes et sur le discernement des prophéties."
 tags:
   - "signes"

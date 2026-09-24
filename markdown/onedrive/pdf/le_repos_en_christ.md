@@ -5,7 +5,7 @@ title: "Le repos en Christ"
 date: "2013-10-20"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que le repos en Christ n'est pas automatique à la conversion, mais s'obtient par le travail spirituel de libération du cœur (terre promise) des ennemis (péchés, mondanité). Il compare l'Exode d'Israël à la vie chrétienne : quitter l'Égypte (monde) ne suffit pas, il faut entrer dans le repos en combattant le vieil homme pour laisser vivre pleinement le nouvel homme."
 tags:
   - "Exhortations"

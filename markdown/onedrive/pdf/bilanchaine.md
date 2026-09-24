@@ -5,7 +5,7 @@ title: "Bref témoignage bilan de la chaîne de prière"
 subtitle: "5 mois de combat – 5 mois de victoire"
 date: "2007-01-01"
 year: 2007
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce document est un témoignage bilan de la chaîne de prière après cinq mois d'existence. L'auteur encourage les membres à persévérer dans la foi et le pardon, et annonce une nouvelle organisation en cellules d'intercession pour l'année 2007."
 tags:
   - "Exhortations"

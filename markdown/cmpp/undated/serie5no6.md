@@ -6,7 +6,7 @@ subtitle: "25 juillet 1965, soir"
 date: "1965-07-25"
 year: 1965
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur l'entrée triomphale de Jésus à Jérusalem, en soulignant l'accomplissement de la prophétie de Zacharie. Il compare l'attente des foules à l'attente actuelle du retour du Seigneur, et critique les chefs religieux qui ne reconnaissent pas l'accomplissement prophétique. Il encourage les croyants à être comme les aigles qui se rassemblent là où Dieu agit."
 tags:
   - "entrée triomphale"

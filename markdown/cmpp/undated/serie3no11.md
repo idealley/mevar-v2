@@ -6,7 +6,7 @@ subtitle: "10 novembre 1963, soir"
 date: "1963-11-10"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la puissance de Celui qui est en nous, plus grand que celui qui est dans le monde. Il partage des témoignages de guérison, des expériences personnelles et des réflexions sur les derniers temps, exhortant les croyants à rester fidèles à la Parole et à avoir foi en Dieu."
 tags:
   - "foi"

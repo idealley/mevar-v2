@@ -6,7 +6,7 @@ subtitle: "22 avril 1962, matin"
 date: "1962-04-22"
 year: 1962
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la restitution, expliquant que Dieu restitue ce que la mort et le péché ont volé. Il utilise l'analogie du printemps et du soleil pour illustrer la résurrection et la restauration de l'Église. Il encourage les croyants à faire valoir leurs droits devant Satan par la foi et le Saint-Esprit."
 tags:
   - "restitution"

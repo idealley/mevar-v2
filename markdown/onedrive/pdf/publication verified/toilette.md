@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "toilette"
 title: "La toilette du chrétien"
 location: "Arrah"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message exhorte les chrétiens à se préparer pour le mariage avec Christ par la sanctification, en utilisant la prière et le jeûne comme savon et éponge pour nettoyer l'âme. Il critique l'orgueil et l'aveuglement spirituel de l'Église de Laodicée et appelle à un réveil par le combat spirituel."
 tags:
   - "Exhortations"

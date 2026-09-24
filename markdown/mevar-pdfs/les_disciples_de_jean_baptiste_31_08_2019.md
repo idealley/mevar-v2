@@ -5,7 +5,7 @@ title: "Les croyants du Message du Temps de la Fin comme les disciples de Jean-B
 date: "2019-08-31"
 year: 2019
 location: "kpèbo (Toumodi)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message compare les croyants du Message du Temps de la Fin aux disciples de Jean-Baptiste, mettant en garde contre l'esprit sectaire qui consiste à former des groupes autour d'un serviteur de Dieu plutôt que de suivre Jésus-Christ. L'orateur insiste sur le fait que le message reçu doit conduire à l'Époux, Jésus-Christ, et non à un groupe ou à un homme."
 tags:
   - "Message du Temps de la Fin"

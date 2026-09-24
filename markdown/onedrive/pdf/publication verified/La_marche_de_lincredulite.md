@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "La_marche_de_lincredulite"
 title: "La marche de l'incrédulité"
 location: "Cotonou, Bénin"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'Église à ne pas répéter l'incrédulité des enfants d'Israël qui, après être sortis d'Égypte, ont échoué à entrer en Canaan par manque de foi. Il distingue la foi qui fait sortir du monde de celle qui permet de conquérir les promesses de Dieu, appelant à une foi de combat spirituel pour le réveil et l'enlèvement."
 tags:
   - "Exhortations"

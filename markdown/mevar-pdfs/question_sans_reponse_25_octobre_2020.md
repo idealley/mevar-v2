@@ -5,7 +5,7 @@ title: "Une question sans réponse"
 date: "2020-10-25"
 year: 2020
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "À partir de 1 Rois 18, le prédicateur montre que le peuple d'Israël, maltraité par les esprits de Baal et d'Astarté, ne pouvait répondre à la question d'Élie : 'Si l'Éternel est Dieu, allez après lui ; si c'est Baal, allez après lui !' Aujourd'hui encore, beaucoup sont envoûtés par l'esprit religieux et ne savent plus discerner le vrai Jésus. Mais quand le feu de Dieu tombe, les questions sans réponse trouvent leur solution."
 tags:
   - "question sans réponse"

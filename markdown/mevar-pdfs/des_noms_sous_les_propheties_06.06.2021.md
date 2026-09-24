@@ -5,7 +5,7 @@ title: "Des noms sous des prophéties"
 date: "2021-06-06"
 year: 2021
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message explore comment Dieu associe des noms spécifiques à l'accomplissement de ses prophéties, depuis Genèse 3 jusqu'à la fin des temps. Il montre que chaque prophétie biblique a des personnes désignées pour l'exécuter, et que les croyants d'aujourd'hui peuvent avoir leur nom inscrit dans les prophéties de la fin des temps."
 tags:
   - "prophétie"

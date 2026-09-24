@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mars 2009"
 date: "2009-03-15"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur aborde le thème de l'amour de Dieu, en s'appuyant sur Jean 15:12-17, Jean 21:15-18 et Matthieu 24:11-13. Il explique que Jésus appelle ses disciples amis et leur dévoile ses secrets, et que l'amour véritable se manifeste par l'obéissance et le sacrifice. Il exhorte les croyants à aimer Dieu sincèrement et à persévérer malgré le refroidissement de l'amour dans les derniers temps."
 tags:
   - "Prédications"

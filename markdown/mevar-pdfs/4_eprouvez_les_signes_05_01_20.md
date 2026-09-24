@@ -5,7 +5,7 @@ title: "Les signes d’un Ministère ou d’une œuvre authentique de Dieu - 4e 
 date: "2020-01-05"
 year: 2020
 location: "Koumassi"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Dans cette quatrième partie, le prédicateur explique comment éprouver les signes pour discerner s'ils viennent de Dieu. Il insiste sur l'importance de l'autorité spirituelle, de la vision prophétique et du cadre du plan de Dieu. Il met en garde contre les faux prophètes et les signes sans voix, et rappelle que les prophéties doivent édifier, exhorter, consoler et reprendre le peuple de Dieu."
 tags:
   - "signes"

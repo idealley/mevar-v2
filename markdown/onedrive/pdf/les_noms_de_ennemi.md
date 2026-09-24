@@ -5,7 +5,7 @@ title: "Les noms de l’ennemi"
 date: "2012-03-11"
 year: 2012
 location: "Koumassi, Abidjan"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur énumère les différentes appellations de Satan (grand dragon, serpent ancien, accusateur, meurtrier, menteur, voleur, brigand, adversaire, ennemi, diable, malin) et explique comment chacune se manifeste dans la vie des chrétiens et dans l'Église. Il insiste sur la nécessité de connaître son ennemi pour mener le bon combat spirituel, sans transporter ce combat contre les frères et sœurs en Christ."
 tags:
   - "Prédications"

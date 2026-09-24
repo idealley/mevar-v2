@@ -6,7 +6,7 @@ subtitle: "30 juin 1963, matin"
 date: "1963-06-30"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le troisième exode du peuple de Dieu, comparant l'exode d'Israël hors d'Égypte à l'exode spirituel de l'Église des derniers jours. Il souligne que Dieu appelle son peuple à sortir des systèmes religieux organisés pour entrer dans la promesse, avant la venue du Messie. Il aborde également la jalousie des frères de Joseph comme type du rejet du Saint-Esprit par les dénominations."
 tags:
   - "exode"

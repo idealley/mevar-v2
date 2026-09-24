@@ -4,7 +4,7 @@ sermon_id: "La_guerre_spirituelle_actuelle_nous_triompherons_exhortation_fin_avr
 title: "LA GUERRE SPIRITUELLE ACTUELLE – NOUS TRIOMPHERONS"
 date: "2020-04-30"
 year: 2020
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation rappelle que Dieu prépare son peuple à la guerre spirituelle de la fin des temps, comme Il l'a fait avec Israël dans le désert. Le combat contre Babylone est en cours, et les croyants doivent revêtir toutes les armes de Dieu, en particulier le bouclier de la foi, pour triompher des attaques de Satan. L'auteur partage des expériences personnelles de combat spirituel et encourage à être de bons soldats de Christ."
 tags:
   - "guerre spirituelle"

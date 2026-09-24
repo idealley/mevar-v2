@@ -4,7 +4,7 @@ sermon_id: "les_sentiments_justes_exhortation_fevrier_2020"
 title: "Les Sentiments Justes"
 date: "2020-02-01"
 year: 2020
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Exhortation sur l'importance d'avoir les sentiments de Christ : compassion, miséricorde, humilité. L'auteur montre comment ces sentiments doivent se manifester dans l'Église aujourd'hui, en prenant soin des malades, des affligés et en servant le Corps de Christ."
 tags:
   - "sentiments"

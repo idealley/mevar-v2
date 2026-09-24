@@ -4,7 +4,7 @@ sermon_id: "le_royaume_de_dieu_kadjani"
 title: "LE ROYAUME DE DIEU"
 subtitle: "Comprendre ses principes et son fonctionnement"
 year: 2022
-preacher: "KADJANY YOBOUET ANDRE"
+preacher: "André Kadjany"
 summary: "Ce livre explore l'origine, les principes et le fonctionnement du Royaume de Dieu, depuis la création jusqu'à l'établissement du règne de Christ. Il met en lumière la chute de l'homme, la restauration par Jésus, et les lois qui gouvernent la vie des citoyens du Royaume."
 tags:
   - "Royaume de Dieu"

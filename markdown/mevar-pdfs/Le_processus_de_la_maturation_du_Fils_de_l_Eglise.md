@@ -5,7 +5,7 @@ title: "Le Processus de la maturation du fils de l’Église"
 date: "2015-12-17"
 year: 2015
 location: "Matadi"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que l'Église de Laodicée, comme la vierge Marie, a reçu une semence spirituelle qui doit mûrir pour enfanter le Fils mâle. Ce processus implique un désert de purification, de combat spirituel et de maturation intérieure, aboutissant à la manifestation de la divinité de Christ dans les croyants. Il insiste sur la nécessité de la vie intérieure, de la prière et du jeûne pour parvenir à cette maturité."
 tags:
   - "maturation"

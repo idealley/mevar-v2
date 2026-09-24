@@ -5,7 +5,7 @@ title: "Le Sac et la Cendre"
 date: "2010-06-14"
 year: 2010
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte l'Église à retrouver l'attitude biblique du sac et de la cendre, symbole d'humiliation et de repentance face aux menaces spirituelles et au jugement imminent. Il s'appuie sur les exemples d'Ézéchias, Mardochée, Jonas et Daniel pour montrer que l'Église doit s'humilier pour retrouver la puissance de Dieu, l'amour fraternel et la foi apostolique."
 tags:
   - "Exhortations"

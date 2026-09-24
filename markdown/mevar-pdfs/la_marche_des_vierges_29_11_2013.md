@@ -5,7 +5,7 @@ title: "La marche prophétique des dix vierges"
 date: "2013-10-29"
 year: 2013
 location: "Lausanne"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Une étude détaillée de la parabole des dix vierges (Matthieu 25) expliquant que les vierges représentent les croyants du Message du temps de la fin, la lampe est la parole prophétique, l'huile est l'onction, et le cri de minuit est un réveil spirituel par des sentinelles. L'accent est mis sur la chute et le réveil de l'Église de Laodicée."
 tags:
   - "dix vierges"

@@ -6,7 +6,7 @@ subtitle: "Première partie"
 date: "2019-09-23"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique pourquoi les prières des chrétiens ne sont pas toujours exaucées, en se basant sur des textes bibliques comme Esaïe 55, Jacques 4, Proverbes 16 et Aggée 1. Il identifie des obstacles tels que la convoitise, la jalousie, les mauvaises motivations, et le fait de ne pas aligner ses projets sur les intérêts de Dieu. Il insiste sur l'importance de recommander ses œuvres à Dieu et de considérer ses activités comme un ministère au service de l'œuvre divine."
 tags:
   - "prière"

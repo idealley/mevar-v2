@@ -5,7 +5,7 @@ title: "Une prophétie sur William Branham"
 subtitle: "Exhortation de Septembre 2012"
 date: "2012-09-01"
 year: 2012
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur l'importance de la révélation de la Parole de Dieu pour éclairer et guider le peuple de Dieu. Elle compare la porte étroite à la révélation et le chemin resserré à la vie de sanctification et de consécration. L'auteur applique une prophétie donnée à William Branham en 1961 à tous ceux qui empruntent ce chemin difficile, les encourageant à persévérer dans leur décision de suivre Christ."
 tags:
   - "Exhortations"

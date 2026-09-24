@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mars 2011"
 date: "2011-03-27"
 year: 2011
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte les croyants à avoir du zèle pour le Seigneur, surtout dans les temps difficiles. Il s'appuie sur l'exemple de Jéhu qui a exécuté avec zèle la commission de Dieu en exterminant la maison d'Achab et les prophètes de Baal. Il souligne que le zèle est une arme de combat spirituel et que son absence caractérise l'Église de Laodicée. Il appelle à un renouveau du zèle pour servir Dieu et accomplir sa volonté."
 tags:
   - "Prédications"

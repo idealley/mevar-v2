@@ -5,7 +5,7 @@ title: "JESUS-CHRIST : ARCHITECTE ET CONSTRUCTEUR"
 subtitle: "Exhortation mi-Juillet 2009"
 date: "2009-07-15"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation montre que Dieu est l'Architecte et le Constructeur de la Nouvelle Jérusalem, qui est aussi l'Epouse de Christ. Le croyant doit laisser Dieu bâtir sa vie sur le Roc de la révélation de Jésus-Christ, en mettant en pratique la Parole reçue. L'obéissance aux consignes divines est essentielle pour résister aux épreuves et être prêt pour l'enlèvement."
 tags:
   - "Exhortations"

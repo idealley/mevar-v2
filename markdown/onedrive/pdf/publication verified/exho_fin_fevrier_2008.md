@@ -5,7 +5,7 @@ title: "Appel à l'humilité et à la simplicité"
 subtitle: "Exhortation de Mars 2008"
 date: "2008-03-01"
 year: 2008
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation, basée sur Psaumes 75, appelle les croyants du Message du Temps de la Fin à l'humilité et à la simplicité. Elle met en garde contre l'orgueil et l'élévation prématurée, en s'appuyant sur les exemples de David et d'Absalom, et encourage à passer par la voie du combat spirituel et de la patience dans l'épreuve."
 tags:
   - "Exhortations"

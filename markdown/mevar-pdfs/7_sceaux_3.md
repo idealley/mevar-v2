@@ -5,7 +5,7 @@ title: "Le Message des 7 Sceaux (4e sceau-1er partie)"
 date: "2019-07-22"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique le 4e sceau de l'Apocalypse, qui correspond au 7e âge de l'Église (Laodicée). Il décrit la stratégie de Satan à travers l'organisation et le mélange religion-politique, et montre que la mort spirituelle et physique règne. Il oppose l'esprit de l'aigle (prophétique) à l'esprit de Jézabel (organisation), et exhorte les croyants à imiter Noé, Job et Daniel pour échapper aux malédictions."
 tags:
   - "4e sceau"

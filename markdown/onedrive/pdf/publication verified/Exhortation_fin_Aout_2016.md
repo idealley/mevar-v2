@@ -5,7 +5,7 @@ title: "La voix de l'offrande"
 subtitle: "Exhortation de Septembre 2016"
 date: "2016-09-01"
 year: 2016
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur la nécessité d'offrir à Dieu des prières de supplication et des sacrifices de foi, à l'image de Jacob luttant avec l'ange et de Jésus à Gethsémané. Elle oppose l'offrande d'Abel, agréée par Dieu car faite avec foi, à celle de Caïn, charnelle et sans foi, qui conduit à la jalousie et au meurtre. L'auteur appelle les croyants à adopter le point de vue de la foi, comme Jésus face à la fille de Jaïrus, pour que leur sacrifice parle à Dieu."
 tags:
   - "Exhortations"

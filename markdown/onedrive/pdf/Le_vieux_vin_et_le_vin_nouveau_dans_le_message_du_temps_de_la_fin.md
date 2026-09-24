@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juin 2018"
 date: "2018-06-11"
 year: 2018
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique la différence entre le vieux vin et le vin nouveau, symbolisant les anciennes et nouvelles onctions de Dieu. Il montre que Dieu donne toujours une onction nouvelle pour une œuvre nouvelle, et que ceux qui sont attachés à l'ancienne onction (vieux vin) ne peuvent pas recevoir la nouvelle. Il applique ce principe au Message du temps de la fin, où l'onction de frère Branham est devenue un vieux vin, et une nouvelle onction est déployée pour préparer l'Épouse de Christ."
 tags:
   - "Prédications"

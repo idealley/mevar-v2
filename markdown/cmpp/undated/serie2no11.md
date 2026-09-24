@@ -6,7 +6,7 @@ subtitle: "28 novembre 1965, matin"
 date: "1965-11-28"
 year: 1965
 location: "Shreveport, Louisiane, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le seul lieu d'adoration que Dieu a établi, en s'appuyant sur Deutéronome 16. Il insiste sur l'importance de suivre exactement les directives divines, car Dieu n'a qu'une seule clé pour chaque porte. Il partage également des expériences personnelles de visions du ciel et de l'enfer, exhortant à la fidélité et à la pureté."
 tags:
   - "adoration"

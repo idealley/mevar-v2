@@ -5,7 +5,7 @@ title: "Priscille et Aquilas – Exemple d’un couple au service de Dieu"
 subtitle: "Exhortation Spécial de Février 2011"
 date: "2011-02-01"
 year: 2011
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation s'adresse aux couples chrétiens, les encourageant à réaliser le 'commun accord' dans la prière et le service de Dieu, en s'inspirant de l'exemple biblique de Priscille et Aquilas. Elle aborde les obstacles à l'unité spirituelle dans le couple, comme l'indifférence, le manque de transparence et les rancœurs, et propose des pistes pour les surmonter. L'auteur insiste sur l'importance de l'engagement commun dans l'œuvre de Dieu et donne des conseils pour gagner un conjoint non croyant."
 tags:
   - "Exhortations"

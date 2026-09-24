@@ -5,7 +5,7 @@ title: "Médecin, guéris-toi toi-même"
 date: "2015-02-15"
 year: 2015
 location: "Koumassi"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur développe le thème 'Médecin, guéris-toi toi-même' en expliquant que Jésus doit d'abord guérir son Corps (l'Église) avant de guérir les nations. Il insiste sur la nécessité de se reconnaître malade spirituellement pour recevoir la guérison divine, et appelle les croyants à devenir des disciples accomplis capables d'enseigner les autres."
 tags:
   - "guérison"

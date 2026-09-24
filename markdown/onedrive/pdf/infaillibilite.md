@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "infaillibilite"
 title: "L'Infaillibilité du Serviteur Fidèle et Prudent"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'auteur met en garde contre l'idolâtrie et le fanatisme envers les serviteurs de Dieu, en particulier envers frère Frank, considéré par certains comme infaillible. Il démontre que la fidélité et la prudence ne sont pas synonymes d'infaillibilité, en s'appuyant sur des exemples bibliques (Nathan, Pierre, Paul) et historiques (Branham, le réveil d'Azusa Street). Il exhorte à ne pas faire d'un homme un absolu, mais à se référer à la Bible seule."
 tags:
   - "Exhortations"

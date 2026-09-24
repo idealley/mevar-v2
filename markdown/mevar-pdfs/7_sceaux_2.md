@@ -5,7 +5,7 @@ title: "Le Message des 7 sceaux (Deuxième et troisième sceau)"
 date: "2019-07-08"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message explore les deuxième et troisième sceaux de l'Apocalypse, en les reliant aux âges de l'Église de Smyrne, Pergame et Thyatire. Il montre comment Satan a changé de stratégie : après la persécution (cheval roux), il a utilisé le compromis politique et religieux (cheval noir) pour dominer l'Église par le commerce des indulgences et les fausses doctrines."
 tags:
   - "sceaux"

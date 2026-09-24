@@ -4,7 +4,7 @@ sermon_id: "exhortation_de_janvier_2022_sans_moi_vous_ne_pouvez_rien_faire"
 title: "SANS MOI VOUS NE POUVEZ RIEN FAIRE"
 date: "2022-01-01"
 year: 2022
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de janvier 2022 insiste sur la nécessité de demeurer en Christ pour porter du fruit spirituel. Elle distingue être en Christ (nouvelle naissance) de demeurer en Christ (communion active), et met en garde contre les distractions du monde et de Mammon qui privent de cette communion. L'auteur appelle à la vigilance, à la prière pour la sagesse, et à la recherche première du royaume de Dieu."
 tags:
   - "communion"

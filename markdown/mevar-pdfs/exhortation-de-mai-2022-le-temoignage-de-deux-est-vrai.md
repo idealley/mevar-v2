@@ -4,7 +4,7 @@ sermon_id: "exhortation_de_mai_2022_le_temoignage_de_deux_est_vrai"
 title: "Le Témoignage de Deux Est Vrai"
 date: "2022-05-31"
 year: 2022
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation souligne l'importance du double témoignage (le nôtre et celui de Dieu) dans la vie chrétienne, et montre que l'épreuve est nécessaire pour révéler la qualité de notre foi et de notre œuvre en Christ, en vue de la gloire et de la manifestation des fils de Dieu."
 tags:
   - "témoignage"

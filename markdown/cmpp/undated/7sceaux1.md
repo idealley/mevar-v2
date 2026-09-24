@@ -6,7 +6,7 @@ subtitle: "Dieu Caché et Révélé dans la Simplicité"
 date: "1963-03-17"
 year: 1963
 location: "Jeffersonville, Indiana, USA"
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Premier message de la série sur les Sept Sceaux, prêché le 17 mars 1963 au Branham Tabernacle. Frère Branham consacre le nouveau bâtiment, rappelle l'histoire de l'église, et introduit l'étude des Sceaux en lisant Ésaïe 53. Il souligne l'importance du respect dans la maison de Dieu et annonce le programme de la semaine."
 tags:
   - "sept sceaux"

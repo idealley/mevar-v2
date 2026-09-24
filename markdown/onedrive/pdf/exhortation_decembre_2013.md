@@ -5,7 +5,7 @@ title: "LA SOLUTION A LA SOUFFRANCE"
 subtitle: "Exhortation de Décembre 2013"
 date: "2013-12-01"
 year: 2013
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de décembre 2013, basée sur Jacques 5:13, rappelle que la prière est la solution à toute souffrance (physique, morale ou spirituelle). L'auteur insiste sur l'humilité, la repentance et l'amour fraternel comme conditions pour que Dieu élève son peuple. Il met en garde contre les murmures et les divisions, et encourage à s'approcher de Dieu avec un cœur pur."
 tags:
   - "Exhortations"

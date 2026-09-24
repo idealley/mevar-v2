@@ -5,7 +5,7 @@ title: "LA VISION DE L'EPOUSE"
 subtitle: "Exhortation d'Octobre 2007"
 date: "2007-10-01"
 year: 2007
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation rappelle la vision de frère Branham sur l'Epouse et appelle les croyants à un combat spirituel contre Babylone. Elle relate des expériences de prière et de guerre spirituelle en Côte d'Ivoire et au Bénin, incluant des témoignages et une prophétie. L'accent est mis sur le jeûne, la prière et la sanctification pour la victoire finale."
 tags:
   - "Exhortations"

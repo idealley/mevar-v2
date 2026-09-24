@@ -4,7 +4,7 @@ sermon_id: "face_a_face_avec_les_realite_de_la_foi_exhortation_fin_Avril_2022"
 title: "FACE À FACE AVEC LES RÉALITÉS DE LA FOI"
 date: "2022-04-30"
 year: 2022
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation explore les réalités concrètes de la foi chrétienne à la fin des temps, en s'appuyant sur des exemples bibliques (Joseph, David, Jésus, Paul) pour montrer que l'accomplissement des prophéties implique un combat spirituel réel. Elle met en garde contre la séduction, les liens spirituels, le sommeil spirituel et le mystère de l'iniquité, et appelle à la prière et à la vigilance."
 tags:
   - "réalités de la foi"

@@ -6,7 +6,7 @@ subtitle: "24 novembre 1963, soir"
 date: "1963-11-24"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur les trois types de croyants présents dans tout rassemblement : les vrais croyants, les soi-disant croyants et les incrédules. Il utilise des exemples bibliques comme Pierre, Noé, Daniel, David, Abraham, Job, Joseph et Nathanaël pour illustrer la foi authentique qui repose sur la révélation de la Parole de Dieu."
 tags:
   - "croyants"

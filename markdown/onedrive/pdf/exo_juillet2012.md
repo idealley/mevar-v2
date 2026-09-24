@@ -5,7 +5,7 @@ title: "Le Manger et le Boire – Le Dieu du Ventre"
 subtitle: "Exhortation de Juillet 2012"
 date: "2012-07-01"
 year: 2012
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation met en garde contre l'esprit du manger et du boire qui conduit à la mondanité et à l'idolâtrie du ventre. Elle appelle les croyants à se détacher des plaisirs charnels pour se consacrer à la prière, au jeûne et à la sainteté, en vue de la formation du caractère de Christ. L'auteur insiste sur la nécessité de porter sa croix pour crucifier le vieil homme et de recevoir la révélation prophétique pour discerner la volonté de Dieu dans ce temps de la fin."
 tags:
   - "Exhortations"

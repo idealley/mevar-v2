@@ -5,7 +5,7 @@ title: "Qu'Ismaël vive devant ta face"
 subtitle: "Exhortation de Juillet 2013"
 date: "2013-07-01"
 year: 2013
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation met en garde contre l'esprit de moquerie qui pousse les croyants à douter des promesses de Dieu et à chercher des substituts (Ismaël) plutôt que d'attendre patiemment l'accomplissement divin. Elle souligne l'existence d'une Église promise qui doit enfanter le fils de la promesse (Apocalypse 12), par opposition aux églises charnelles qui produisent des Ismaël. L'auteur appelle à la persévérance, à la sainteté et à la vigilance jusqu'à l'avènement du Seigneur."
 tags:
   - "Exhortations"

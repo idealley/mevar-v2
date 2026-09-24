@@ -4,7 +4,7 @@ sermon_id: "exhortation_fin_mars_2022_la_peur_de_satan"
 title: "LA PEUR DE SATAN"
 date: "2022-03-31"
 year: 2022
-preacher: "Pasteur M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation explore l'origine de la peur dans le péché d'Adam et Ève, montrant comment la peur a gagné l'humanité. Elle affirme qu'en Christ, la peur a changé de camp : c'est désormais Satan et les démons qui tremblent devant l'Église, peuple puissant ayant reçu toute autorité. Le croyant est appelé à se débarrasser de la peur et à marcher dans la foi."
 tags:
   - "peur"

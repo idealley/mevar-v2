@@ -4,7 +4,7 @@ sermon_id: "voeux"
 title: "Mes meilleurs vœux pour l'année 2010"
 date: "2010-01-01"
 year: 2010
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'auteur adresse ses vœux de maturité spirituelle pour l'année 2010, rappelant que trois années de formation et de prière dans le réveil ont été accomplies. Il exhorte les croyants à ne plus être des enfants spirituels, mais des hommes mûrs, fermes dans la foi et remplis de la connaissance de Dieu."
 tags:
   - "Exhortations"

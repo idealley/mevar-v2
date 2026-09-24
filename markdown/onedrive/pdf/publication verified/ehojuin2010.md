@@ -5,7 +5,7 @@ title: "Plusieurs me diront : Seigneur ! Seigneur !"
 subtitle: "Exhortation de Juin 2010"
 date: "2010-06-01"
 year: 2010
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation rappelle aux croyants l'importance d'accomplir la volonté de Dieu, en particulier le ministère d'intercession et de prière. Elle met en garde contre ceux qui invoquent le Seigneur en vain et souligne la nécessité de la fidélité dans les petites choses. L'auteur partage son témoignage personnel et la révélation du Cri de Minuit, affirmant que l'œuvre de Dieu ne peut être détruite."
 tags:
   - "Exhortations"

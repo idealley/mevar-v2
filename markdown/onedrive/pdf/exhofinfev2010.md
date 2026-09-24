@@ -5,7 +5,7 @@ title: "ON L’APPELLERA SAMUEL"
 subtitle: "Exhortation de Février 2010"
 date: "2010-02-01"
 year: 2010
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de février 2010 s'appuie sur l'histoire d'Anne et Samuel pour appeler l'Église de Laodicée à sortir de la stérilité spirituelle, de l'orgueil et des divisions, en pratiquant le pardon, la réconciliation et la sainteté selon la Parole de Dieu."
 tags:
   - "Exhortations"

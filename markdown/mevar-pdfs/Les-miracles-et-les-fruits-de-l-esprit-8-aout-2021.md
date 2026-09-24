@@ -5,7 +5,7 @@ title: "Les miracles et les fruits de l’Esprit"
 date: "2021-08-08"
 year: 2021
 location: "Koumassi"
-preacher: "Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "Ce message distingue clairement les miracles (manifestations de la puissance de Dieu) des fruits de l’Esprit (manifestations de la vie et de la nature de Dieu). Il met en garde contre les faux prophètes qui peuvent opérer des miracles mais ne portent pas de bons fruits, et insiste sur la nécessité de produire les fruits de l’Esprit par la décision de laisser Christ vivre en nous, à travers les épreuves et l’humiliation."
 tags:
   - "miracles"

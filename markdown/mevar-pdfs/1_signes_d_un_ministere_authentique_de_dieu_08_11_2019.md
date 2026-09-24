@@ -6,7 +6,7 @@ subtitle: "Partie 1"
 date: "2019-11-08"
 year: 2019
 location: "Koumassi"
-preacher: "M’BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message enseigne que les signes sont des témoignages de Dieu pour attester qu'Il est à l'œuvre. Il distingue les signes intérieurs (nouvelle naissance, baptême du Saint-Esprit) et extérieurs (ministères, dons spirituels, miracles). L'accent est mis sur la nécessité de discerner ces signes selon l'Écriture, en évitant de se focaliser uniquement sur les miracles visibles."
 tags:
   - "signes"

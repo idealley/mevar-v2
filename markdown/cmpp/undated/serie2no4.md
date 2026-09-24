@@ -6,7 +6,7 @@ subtitle: "25 août 1963, matin"
 date: "1963-08-25"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville — Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème de la victoire chrétienne à partir d'Apocalypse 3.21, expliquant que la véritable victoire consiste à s'abandonner à Dieu et à laisser Christ vivre en nous. Il illustre son propos par des exemples de guérisons et de délivrances récentes, et compare l'époque actuelle à celle de Noé, où seuls huit personnes furent sauvées."
 tags:
   - "victoire"

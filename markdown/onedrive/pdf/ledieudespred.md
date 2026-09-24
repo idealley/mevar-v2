@@ -5,7 +5,7 @@ title: "Le Dieu des prédictions"
 date: "2010-10-15"
 year: 2010
 location: "Kinshasa"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que le Dieu véritable se distingue des idoles par le fait qu'Il annonce à l'avance ce qu'Il va accomplir, en citant Ésaïe 46 et 48. Il exhorte les croyants à marcher dans les anciens sentiers prophétiques, à écouter les sentinelles que Dieu envoie, et à reconnaître les temps prophétiques actuels (Minuit, chant du coq) en vue de l'enlèvement."
 tags:
   - "Prédications"

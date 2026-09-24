@@ -5,7 +5,7 @@ title: "Le processus de la fin des temps"
 date: "2009-04-12"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique le plan de Dieu pour la fin des temps à travers les saisons prophétiques de l'année de grâce : l'hiver des nations, le printemps de l'Épouse, l'été juif et l'automne du Seigneur. Il insiste sur le piège de l'esprit religieux et l'importance de comprendre les prophéties pour ne pas se perdre dans la multitude des dénominations."
 tags:
   - "Prédications"

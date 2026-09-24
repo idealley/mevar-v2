@@ -5,7 +5,7 @@ title: "Le témoignage des apôtres"
 date: "2022-01-13"
 year: 2022
 location: "Matadi, Congo"
-preacher: "Parfait M'BRA"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur l'importance d'être de vrais témoins de Christ à la fin des temps, comme les apôtres l'ont été. Le message du temps de la fin, prêché par William Branham, vise à susciter des disciples qui ont une expérience personnelle et authentique avec le Seigneur, non une foi religieuse superficielle. Le témoignage personnel, construit par la communion avec le Saint-Esprit, est essentiel pour le combat spirituel et la manifestation de la vérité."
 tags:
   - "témoignage"

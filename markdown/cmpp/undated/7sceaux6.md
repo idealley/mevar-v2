@@ -6,7 +6,7 @@ subtitle: "Quatrième Sceau"
 date: "1963-03-21"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Dans ce message, William Branham ouvre le quatrième sceau de l'Apocalypse, révélant le cavalier sur le cheval livide nommé 'la Mort'. Il explique que ce sceau représente l'aboutissement de l'œuvre de l'antichrist, et que seul l'Agneau est digne d'ouvrir le Livre de la Rédemption. Branham souligne l'importance de la révélation de la Parole et de la confirmation par le Saint-Esprit, et distingue l'Église (qui passera par la tribulation) de l'Épouse (qui sera enlevée avant)."
 tags:
   - "quatrième sceau"

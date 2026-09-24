@@ -6,7 +6,7 @@ subtitle: "Le Septième Sceau"
 date: "1963-03-24"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "Prédication sur le septième sceau de l'Apocalypse, où un silence d'une demi-heure se fait dans le ciel. Branham explique l'intervalle entre le sixième et le septième sceau, l'appel des 144 000 Juifs, et la nécessité d'un prophète pour Israël. Il souligne que le septième sceau reste un mystère parfait de Dieu."
 tags:
   - "sept sceaux"

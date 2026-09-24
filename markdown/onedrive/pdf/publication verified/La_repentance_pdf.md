@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juillet 2016"
 date: "2016-07-17"
 year: 2016
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur distingue deux sortes de repentance : la première, unique, est un changement de voie du péché à la sainteté, lié au reniement de la nature de péché et au baptême ; la seconde, pour les croyants, est un retour à Dieu après une chute. Il insiste sur la conviction du Saint-Esprit comme fondement de la repentance et met en garde contre le compromis entre la voie de Dieu et celle du diable."
 tags:
   - "Prédications"

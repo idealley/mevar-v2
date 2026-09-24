@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2007"
 date: "2007-01-21"
 year: 2007
 location: "Lagos, Mankoko"
-preacher: "frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Prédication sur le combat contre le péché, basée sur Juges 20 et Luc 17. L'orateur compare l'esprit de Sodome et Gomorrhe qui s'est infiltré en Israël à l'époque des Juges à celui qui pénètre l'Église aujourd'hui. Il insiste sur la nécessité de jeûner, prier et s'humilier pour vaincre les démons de la débauche, et appelle à ne pas tolérer le péché dans l'Église."
 tags:
   - "Prédications"

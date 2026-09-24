@@ -6,7 +6,7 @@ subtitle: "Exhortation de Janvier 2013"
 date: "2013-01-27"
 year: 2013
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur distingue deux types de bénédictions : les bénédictions terrestres (comme celles données à Ismaël) et les bénédictions spirituelles issues de l'alliance avec Dieu (comme celles données à Isaac). Il insiste sur le fait que la véritable bénédiction est la faveur de Dieu, qui donne paix, assurance et victoire sur les ennemis spirituels, et non les biens matériels."
 tags:
   - "Prédications"

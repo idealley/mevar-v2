@@ -5,7 +5,7 @@ title: "Le bâton de Dieu"
 date: "2006-04-17"
 year: 2006
 location: "Pointe Noire, République du Congo"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Exhortation sur la nécessité de se préparer au combat spirituel avec la puissance de Dieu, symbolisée par le bâton de Moïse, pour affronter les derniers temps et faire tomber Babylone."
 tags:
   - "combat spirituel"

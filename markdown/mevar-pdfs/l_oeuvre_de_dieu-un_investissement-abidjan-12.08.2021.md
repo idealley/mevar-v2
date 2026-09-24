@@ -5,7 +5,7 @@ title: "L’œuvre de Dieu – un investissement"
 date: "2021-08-12"
 year: 2021
 location: "Port-bouët - Abidjan"
-preacher: "Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "L'exhortation encourage les chrétiens à persévérer dans l'œuvre de Dieu en considérant le service comme un investissement spirituel qui rapporte des récompenses éternelles et terrestres. S'appuyant sur Matthieu 19:27-30 et Luc 22:28-30, l'orateur explique que tout acte de foi est pour notre propre bénéfice, et que Dieu récompense fidèlement ceux qui servent avec zèle."
 tags:
   - "investissement spirituel"

@@ -6,7 +6,7 @@ subtitle: "Exhortation de Décembre 2018"
 date: "2018-12-17"
 year: 2018
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation met en garde contre la colère et l'irritation, en prenant l'exemple de Moïse qui, malgré sa patience, a brisé les tables de la loi sous l'emportement et a ensuite frappé le rocher au lieu de lui parler, ce qui lui a coûté l'entrée en Terre promise. L'orateur insiste sur la nécessité de ne pas se laisser distraire par les comportements des autres et de garder la grâce reçue de Dieu."
 tags:
   - "Exhortations"

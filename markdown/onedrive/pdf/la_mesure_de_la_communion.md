@@ -5,7 +5,7 @@ title: "La Mesure de la Communion"
 date: "2008-04-06"
 year: 2008
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur expose la loi spirituelle selon laquelle Dieu mesure les chrétiens avec la mesure qu'ils utilisent dans leur communion avec Lui. Il insiste sur la nécessité de se préparer sérieusement, de se dépouiller et d'investir dans la prière et la consécration pour recevoir en proportion de son engagement, en vue du réveil et de l'enlèvement."
 tags:
   - "Exhortations"

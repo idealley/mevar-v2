@@ -6,7 +6,7 @@ subtitle: "26 juillet 1964, soir"
 date: "1964-07-26"
 year: 1964
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur Jérémie 2.12-13, comparant les systèmes religieux dénominationnels à des citernes crevassées qui ne retiennent pas l'eau vive de Dieu. Il exhorte les croyants à revenir à la source de la Parole et à fuir les systèmes humains qui mènent à l'apostasie et à la marque de la bête."
 tags:
   - "citernes crevassées"

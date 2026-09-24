@@ -5,7 +5,7 @@ title: "Manger le Sacrifice"
 date: "2020-10-20"
 year: 2020
 location: "Muraz - Suisse"
-preacher: "Pouyt Samuel"
+preacher: "Samuel Pouyt"
 summary: "À partir d'Aggée 2, l'auteur établit un parallèle entre le peuple juif revenant de Babylone et les croyants d'aujourd'hui, appelés à construire le temple spirituel de Dieu. Il explique le sens des sacrifices de l'Ancien Testament (holocauste, expiation, action de grâces) accomplis en Jésus-Christ, et insiste sur la nécessité d'être pur pour manger le sacrifice, c'est-à-dire participer à la sainte cène et se nourrir de la révélation de Dieu."
 tags:
   - "sacrifice"

@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mai 2010"
 date: "2010-05-08"
 year: 2010
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique l'importance du jeûne dans la vie chrétienne, enraciné dans la création de l'homme comme être spirituel. Il partage son expérience personnelle de réveil spirituel commencé par le jeûne et la prière, et enseigne que le jeûne est essentiel pour maîtriser la chair, développer la piété et s'humilier devant Dieu."
 tags:
   - "Prédications"

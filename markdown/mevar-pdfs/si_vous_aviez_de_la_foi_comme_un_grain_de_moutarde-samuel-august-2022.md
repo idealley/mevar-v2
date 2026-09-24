@@ -5,7 +5,7 @@ title: "La foi comme un grain de moutarde"
 date: "2022-08-17"
 year: 2022
 location: "Lausanne"
-preacher: "Pouyt Samuel"
+preacher: "Samuel Pouyt"
 summary: "Cette exhortation explore la parabole du grain de moutarde et son lien avec la foi. Le grain de moutarde représente Jésus, la semence unique plantée dans le monde, qui grandit pour devenir le royaume de Dieu. Avoir la foi comme un grain de moutarde signifie connaître son rôle, rester focalisé sur sa mission et produire des œuvres, à l'image de Jésus."
 tags:
   - "foi"

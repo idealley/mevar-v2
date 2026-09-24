@@ -2,7 +2,7 @@
 source: "onedrive"
 sermon_id: "le_mariage_et_les_peches_du_sexe"
 title: "Le Mariage et les Péchés du Sexe"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cet ouvrage examine le mariage selon la pensée originelle de Dieu, la chute et ses conséquences, et la restauration en Christ. Il aborde la procédure biblique des fiançailles, l'impudicité, l'adultère, et le rôle des anciens dans l'église pour les unions selon la volonté de Dieu."
 tags:
   - "Publications"

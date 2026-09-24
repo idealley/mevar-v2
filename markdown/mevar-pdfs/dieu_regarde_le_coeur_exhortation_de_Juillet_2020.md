@@ -4,7 +4,7 @@ sermon_id: "dieu_regarde_le_coeur_exhortation_de_Juillet_2020"
 title: "DIEU REGARDE LE CŒUR"
 date: "2020-07-01"
 year: 2020
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Dieu cherche un temple, un tabernacle dans lequel Il peut demeurer pleinement pour accomplir Son œuvre. L'exhortation insiste sur l'importance de l'obéissance à Dieu, en contraste avec l'hypocrisie et l'apparence extérieure, à travers l'histoire de Saül et David. Dieu regarde au cœur, non à l'apparence."
 tags:
   - "cœur"

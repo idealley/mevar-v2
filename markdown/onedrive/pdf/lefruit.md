@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juin 2011"
 date: "2011-06-26"
 year: 2011
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur insiste sur l'importance de produire le fruit que Dieu attend, en s'appuyant sur les paraboles de la vigne dans Esaïe 5 et Matthieu 21. Il rappelle que Dieu crée les conditions pour recueillir un fruit, et que sans fruit, les efforts sont vains. Il exhorte les croyants à rester vigilants et concentrés sur l'objectif spirituel, notamment le fruit de la fin des temps."
 tags:
   - "Exhortations"

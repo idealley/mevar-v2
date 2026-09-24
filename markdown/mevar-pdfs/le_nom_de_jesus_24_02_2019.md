@@ -5,7 +5,7 @@ title: "Le nom de Jésus"
 date: "2019-02-24"
 year: 2019
 location: "Akabroukro"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique la puissance du nom de Jésus, fondée sur le sacrifice de la croix et l'élévation de Christ. Il encourage les chrétiens à utiliser ce nom avec foi et autorité pour vaincre les démons et les difficultés."
 tags:
   - "nom de Jésus"

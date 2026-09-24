@@ -4,7 +4,7 @@ sermon_id: "exhortation_de_janvier_2020_le_croyant_semblable_au_marchand_de_perl
 title: "LE CROYANT SEMBLABLE AU MARCHAND DE PERLES"
 date: "2020-01-01"
 year: 2020
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation compare le croyant à un marchand de perles, l'incitant à rechercher et acquérir les vertus spirituelles (perles du Royaume) comme la sagesse et la maîtrise de soi, en vendant tout ce qu'il a pour posséder la perle de grand prix qu'est Christ et son Royaume."
 tags:
   - "perles"

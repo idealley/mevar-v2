@@ -6,7 +6,7 @@ subtitle: "2 août 1964, matin"
 date: "1964-08-02"
 year: 1964
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham enseigne sur la demeure future de l'Epoux céleste et de l'Epouse terrestre, basé sur 2 Pierre 3 et Apocalypse 21. Il explique que la nouvelle Jérusalem descendra sur une nouvelle terre où la justice habite, et que l'Epouse terrestre vivra avec l'Epoux céleste. Il encourage les croyants à se préparer pour cette demeure éternelle."
 tags:
   - "demeure future"

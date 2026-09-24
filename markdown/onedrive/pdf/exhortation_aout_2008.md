@@ -5,7 +5,7 @@ title: "Prenez garde à vous-mêmes"
 subtitle: "Exhortation d'Août 2008"
 date: "2008-08-01"
 year: 2008
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation attire l'attention sur les avertissements de Jésus concernant la fin des temps : séduction, guerres, calamités, et l'état tiède de l'Église. L'auteur insiste sur la nécessité de veiller et prier en tout temps pour avoir la force d'échapper à ces événements et paraître debout devant le Fils de l'homme."
 tags:
   - "Exhortations"

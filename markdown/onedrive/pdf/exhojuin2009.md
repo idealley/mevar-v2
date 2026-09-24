@@ -5,7 +5,7 @@ title: "Travaillez ! Travaillez encore !"
 subtitle: "Exhortation de Juin 2009"
 date: "2009-06-01"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Une exhortation basée sur une prophétie appelant les croyants à travailler résolument pour l'œuvre de Dieu, en prenant exemple sur les apôtres et les premiers missionnaires qui ont servi de libations pour l'avancement de l'Évangile. L'auteur met en garde contre l'amour du monde et la tiédeur, et encourage à la consécration totale et à la sainteté."
 tags:
   - "Exhortations"

@@ -6,7 +6,7 @@ subtitle: "29 décembre 1963, soir"
 date: "1963-12-29"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham parle du troisième Pull, de la guérison divine et de la puissance de la Parole. Il témoigne de miracles et exhorte à regarder à Jésus en ces temps de pression croissante."
 tags:
   - "troisième Pull"

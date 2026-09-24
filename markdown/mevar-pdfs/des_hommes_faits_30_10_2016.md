@@ -5,7 +5,7 @@ title: "Des hommes faits"
 date: "2016-10-30"
 year: 2016
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur l'objectif de Dieu de faire de chaque croyant un homme fait, un état spirituel de maturité et de perfection. Elle souligne le rôle des ministères, des épreuves et de la révélation des sceaux pour atteindre cet état, et distingue l'unité spirituelle des hommes faits des rassemblements charnels."
 tags:
   - "hommes faits"

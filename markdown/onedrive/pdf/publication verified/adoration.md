@@ -6,7 +6,7 @@ subtitle: "Exhortation de Septembre 2006"
 date: "2006-09-01"
 year: 2006
 location: "Pointe-Noire"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation insiste sur l'importance de la révélation divine pour une adoration authentique. En s'appuyant sur les exemples d'Abraham, Isaac, Jacob, Paul et d'autres, l'auteur montre que l'adoration naît de la révélation personnelle de Dieu. Il met en garde contre les obstacles à la révélation (chair, traditions, religion, points de vue humains) et appelle à une communion profonde avec Dieu pour connaître Ses desseins."
 tags:
   - "Exhortations"

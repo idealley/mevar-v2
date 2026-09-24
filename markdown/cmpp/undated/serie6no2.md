@@ -5,7 +5,7 @@ title: "D'APRÈS-VOUS, DE QUOI S'AGIT-IL?"
 date: "1964-12-27"
 year: 1964
 location: "Phoenix, Arizona, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur l'entrée de Jésus à Jérusalem et la question des foules : 'Qui est celui-ci ?' Il compare l'incrédulité religieuse de l'époque à celle d'aujourd'hui, soulignant que Dieu envoie toujours un Messie oint selon sa Parole, mais que les systèmes religieux le rejettent souvent parce qu'il ne correspond pas à leurs credo. Il exhorte à reconnaître la Parole de Dieu pour le temps présent."
 tags:
   - "messie"

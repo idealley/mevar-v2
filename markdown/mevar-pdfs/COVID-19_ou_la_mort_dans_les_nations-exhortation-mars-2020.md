@@ -4,7 +4,7 @@ sermon_id: "COVID_19_ou_la_mort_dans_les_nations_exhortation_mars_2020"
 title: "COVID-19 OU LA MORT DANS LES NATIONS"
 date: "2020-03-01"
 year: 2020
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation analyse la pandémie de COVID-19 comme l'accomplissement du quatrième sceau d'Apocalypse, où la Mort chevauche pour détruire les hommes. L'auteur explique que Satan utilise guerres, pandémies et catastrophes pour empêcher la naissance du fils de l'Église, le libérateur des nations. Il appelle les croyants à la prière et à la communion avec Dieu, rappelant que la mort n'est pas la volonté de Dieu mais la conséquence du péché."
 tags:
   - "COVID-19"

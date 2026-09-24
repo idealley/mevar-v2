@@ -5,7 +5,7 @@ title: "LE DEGUISEMENT DE LA FEMME DE JEROBOAM"
 subtitle: "Exhortation de Juin 2017"
 date: "2017-06-01"
 year: 2017
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation utilise l'histoire de la femme de Jéroboam pour mettre en garde contre le déguisement religieux et les calculs humains dans l'Église. Elle appelle à la transparence et à la fidélité à la parole prophétique pour se préparer à l'enlèvement."
 tags:
   - "Exhortations"

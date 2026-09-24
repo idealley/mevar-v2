@@ -5,7 +5,7 @@ title: "Le chemin de Saül"
 date: "2021-08-20"
 year: 2021
 location: "Koumassi"
-preacher: "Parfait M'BRA"
+preacher: "Parfait M'bra"
 summary: "L'exhortation explore comment Dieu conduit ses enfants par des chemins qu'ils ne maîtrisent pas, à l'image de Saül cherchant les ânesses de son père et se retrouvant oint roi. L'accent est mis sur la nécessité de la foi et de l'attention spirituelle pour ne pas tomber dans la routine et pour recevoir les miracles de Dieu."
 tags:
   - "chemin de Dieu"

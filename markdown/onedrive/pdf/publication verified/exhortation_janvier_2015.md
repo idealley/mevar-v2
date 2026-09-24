@@ -5,7 +5,7 @@ title: "L'HEURE CRUCIALE - VOUS PLEUREREZ ET VOUS VOUS LAMENTEREZ"
 subtitle: "Exhortation de Janvier 2015"
 date: "2015-01-01"
 year: 2015
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation de janvier 2015 compare l'épreuve des disciples à celle d'une femme enceinte, soulignant que les douleurs de l'enfantement sont nécessaires pour manifester le fruit du ministère de Christ. L'auteur encourage les croyants à persévérer dans l'intégrité et le bien, malgré l'opposition, en attendant le temps de la moisson. Il insiste sur le dépouillement total et la perfection comme but de l'appel chrétien."
 tags:
   - "Exhortations"

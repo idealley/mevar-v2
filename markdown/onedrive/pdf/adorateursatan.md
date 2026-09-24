@@ -3,7 +3,7 @@ source: "onedrive"
 sermon_id: "adorateursatan"
 title: "Les adorateurs de Satan"
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur dénonce la présence d'adorateurs de Satan au sein de l'Église, citant des exemples bibliques de Caïn, du veau d'or, des fils d'Éli, de Baal-Péor, d'Achab et Jézabel, et de la reine du ciel. Il exhorte les croyants à une adoration sincère et à se détourner des péchés qui fortifient Satan, tout en appelant à la prière pour la Côte d'Ivoire face à un plan satanique de déstabilisation."
 tags:
   - "Prédications"

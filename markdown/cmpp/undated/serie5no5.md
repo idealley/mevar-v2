@@ -5,7 +5,7 @@ title: "Rendre un service à Dieu en dehors de Sa volonté"
 date: "1965-07-18"
 year: 1965
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le danger de servir Dieu avec de bonnes intentions mais en dehors de Sa volonté, en prenant l'exemple de David qui voulut ramener l'arche sans consulter Dieu selon Sa méthode. Il souligne que Dieu révèle Sa Parole en Sa saison et à qui Il choisit, et que la sincérité ne suffit pas sans obéissance à la Parole."
 tags:
   - "volonté de Dieu"

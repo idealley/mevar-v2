@@ -6,7 +6,7 @@ subtitle: "11 novembre 1962, soir"
 date: "1962-11-11"
 year: 1962
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham explique pourquoi il s'oppose aux religions organisées, en s'appuyant sur des exemples bibliques comme la rébellion de Coré et la visite de Nicodème à Jésus. Il affirme que l'organisation ecclésiastique est contraire à l'Écriture et que le salut est une naissance divine, non une adhésion à un groupe. Il exhorte à suivre la Parole de Dieu plutôt que les traditions humaines."
 tags:
   - "religions organisées"

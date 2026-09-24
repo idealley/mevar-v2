@@ -5,7 +5,7 @@ title: "L'héritage d'Elisée"
 date: "2007-01-21"
 year: 2007
 location: "Lagos"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur compare l'Église de la fin des temps à Élisée, qui a reçu le manteau d'Élie comme héritage. Il exhorte les croyants à rechercher la puissance du Saint-Esprit, à marcher dans toutes les visions du Message du temps de la fin, et à se sanctifier pour hériter de la double portion de l'Esprit."
 tags:
   - "Prédications"

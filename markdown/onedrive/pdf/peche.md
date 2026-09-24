@@ -6,7 +6,7 @@ subtitle: "Exhortation de Décembre 2006"
 date: "2006-12-01"
 year: 2006
 location: "Koumassi (Abidjan)"
-preacher: "Frère M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation traite du péché d'orgueil de Nébukadnetsar, roi de Babylone, comme illustration de l'esprit babylonien qui sévit dans l'Église de Laodicée. L'auteur appelle les croyants à sortir de Babylone spirituellement, en se détachant de l'orgueil, de la religion formelle et de la débauche, pour vivre dans l'humilité et la possession réelle de Dieu."
 tags:
   - "Exhortations"

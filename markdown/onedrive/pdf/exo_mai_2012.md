@@ -5,7 +5,7 @@ title: "Des hommes et des actes de foi"
 subtitle: "Exhortation de Mai 2012"
 date: "2012-05-01"
 year: 2012
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "L'exhortation développe le thème du fils de l'Église, appelé à manifester la divinité du Christ à la fin des temps, en contraste avec le monde et ses convoitises. Elle insiste sur la vision de la gloire à venir et de la rémunération comme fondement de la persévérance dans les souffrances présentes, et encourage à poser des actes de foi en regardant l'invisible, à l'exemple de Moïse et de Josué."
 tags:
   - "Exhortations"

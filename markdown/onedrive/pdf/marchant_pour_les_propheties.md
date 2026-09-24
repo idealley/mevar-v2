@@ -5,7 +5,7 @@ title: "Marchant pour les prophéties"
 date: "2012-05-27"
 year: 2012
 location: "Koumassi (Abidjan)"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique que Dieu accomplit ses prophéties à travers des acteurs conscients et inconscients. En prenant l'exemple de Joseph et de Moïse, il montre que certains savent qu'ils participent à l'accomplissement des promesses divines, tandis que d'autres, comme les frères de Joseph ou Pharaon, agissent sans le savoir. Il exhorte les croyants à être des acteurs conscients, marchant avec révélation et persévérance pour voir s'accomplir les prophéties de Dieu dans leur génération."
 tags:
   - "Prédications"

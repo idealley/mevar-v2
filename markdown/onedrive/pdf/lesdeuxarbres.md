@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juillet 2010"
 date: "2010-07-25"
 year: 2010
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur explique la signification des deux arbres du jardin d'Eden (l'arbre de vie et l'arbre de la connaissance du bien et du mal) comme symboles de la vie spirituelle et charnelle. Il montre que le processus de rédemption consiste à déraciner l'arbre de la connaissance du bien et du mal, afin que l'homme, libéré du libre arbitre, reçoive un corps spirituel et vive éternellement dans la Nouvelle Jérusalem."
 tags:
   - "Prédications"

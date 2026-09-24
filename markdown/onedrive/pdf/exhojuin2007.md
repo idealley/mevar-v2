@@ -6,7 +6,7 @@ subtitle: "Exhortation spéciale de Juin 2007"
 date: "2007-06-01"
 year: 2007
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation appelle les croyants à se lever pour le combat spirituel contre Babylone, symbole de la religion sans révélation. Elle rappelle les prophéties bibliques sur la chute de Babylone et insiste sur la nécessité de sortir de la religion pour vivre dans la puissance du Saint-Esprit. L'auteur partage des expériences de réveil et des paroles prophétiques reçues dans son assemblée."
 tags:
   - "Exhortations"

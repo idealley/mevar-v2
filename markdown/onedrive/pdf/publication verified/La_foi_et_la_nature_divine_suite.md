@@ -6,7 +6,7 @@ subtitle: "Exhortation de Juillet 2015"
 date: "2015-07-26"
 year: 2015
 location: "Lausanne"
-preacher: "Parfait M'BRA"
+preacher: "Parfait M'bra"
 summary: "Ce message poursuit l'enseignement sur la foi et la nature divine. Il insiste sur la nécessité de prendre conscience de notre nature divine et de cultiver les vertus spirituelles (vertu, connaissance, maîtrise de soi, patience, piété) pour manifester une foi plus grande. L'orateur explique que tout est à nous en Christ, y compris la vie et la mort, et que la croissance spirituelle est un processus intérieur de restauration avant la manifestation des fruits."
 tags:
   - "Exhortations"

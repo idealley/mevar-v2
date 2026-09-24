@@ -5,7 +5,7 @@ title: "L'ECRITURE SUR LA MURAILLE DE BABYLONE"
 subtitle: "Exhortation Fin Avril 2010"
 date: "2010-04-30"
 year: 2010
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation traite de la chute de Babylone, à la fois spirituelle et physique, et de l'appel à en sortir. Elle explique que Babylone est un esprit religieux, celui de Laodicée, et que la véritable sortie implique une repentance, une sanctification et une vision prophétique. Le jugement de Babylone est déjà écrit, comme l'écriture sur le mur du palais de Belchatsar, et les croyants sont appelés à le proclamer."
 tags:
   - "Exhortations"

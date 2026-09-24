@@ -6,7 +6,7 @@ subtitle: "16 janvier 1963, soir"
 date: "1963-01-16"
 year: 1963
 location: "Mesa, Arizona, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le thème du messager du soir, basé sur Zacharie 14.6-7. Il explique que chaque âge de l'Église a eu son messager et son message, et que nous vivons à la fin de la dispensation de l'Église, où la lumière paraîtra vers le soir. Il souligne que Dieu envoie toujours un prophète pour ramener son peuple à la Parole, et que le même Dieu qui a agi dans le passé agit encore aujourd'hui."
 tags:
   - "messager du soir"

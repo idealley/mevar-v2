@@ -6,7 +6,7 @@ subtitle: "29 décembre 1963, matin"
 date: "1963-12-29"
 year: 1963
 location: "Branham Tabernacle, Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur la lumière de Christ, en s'appuyant sur Ésaïe 42 et Matthieu 4. Il compare David et ses vaillants hommes à l'Église des nations qui suit Christ rejeté. Il annonce un service de guérison pour le soir et évoque les sept trompettes."
 tags:
   - "lumière"

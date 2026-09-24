@@ -5,7 +5,7 @@ title: "Les pleurs de la délivrance"
 date: "2008-01-19"
 year: 2008
 location: "Lausanne, Suisse"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte à discerner les signes des temps et à se repentir de ses mauvaises œuvres, en s'appuyant sur l'exemple de la femme pécheresse qui a pleuré aux pieds de Jésus et sur le reniement de Pierre. Il met en garde contre le sommeil spirituel et la religion sans vie, et insiste sur la nécessité de la sainteté pour l'enlèvement, avertissant que ceux qui refusent la repentance subiront la grande tribulation."
 tags:
   - "Exhortations"

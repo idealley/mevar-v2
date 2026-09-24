@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mai 2009"
 date: "2009-05-03"
 year: 2009
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message explique le témoignage final comme le face-à-face entre l'esprit d'Elie et l'esprit de Jézabel (Babylone) à la fin des temps, basé sur Matthieu 24, 1 Rois 18 et Apocalypse 17. Il exhorte les croyants à se sanctifier pour porter la puissance de Dieu et participer à ce combat final qui précède l'enlèvement."
 tags:
   - "Prédications"

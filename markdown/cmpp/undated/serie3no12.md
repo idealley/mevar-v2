@@ -6,7 +6,7 @@ subtitle: "24 novembre 1963, matin"
 date: "1963-11-24"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur le choix entre Jésus et Barabbas, appliquant ce dilemme à l'époque actuelle. Il souligne que rejeter la vérité de Christ conduit à accepter le mensonge, et que la Parole de Dieu doit être accomplie dans chaque génération. Il témoigne aussi de guérisons récentes et annonce des réunions à venir."
 tags:
   - "Jésus-Christ"

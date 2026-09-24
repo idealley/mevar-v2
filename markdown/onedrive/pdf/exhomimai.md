@@ -5,7 +5,7 @@ title: "QUE TON CAMP SOIT SAINT"
 subtitle: "Exhortation de Mi-Mai 2009"
 date: "2009-05-15"
 year: 2009
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation insiste sur la nécessité de la sainteté dans le camp du peuple de Dieu, en s'appuyant sur Deutéronome 23 et l'histoire d'Acan. Elle appelle à la repentance, à la sincérité dans la prière et à la recherche de la face de Dieu, afin que le Seigneur puisse combattre pour son peuple. Le prédicateur partage également une vision reçue de Dieu confirmant son ministère de prédication."
 tags:
   - "Exhortations"

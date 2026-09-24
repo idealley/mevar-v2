@@ -5,7 +5,7 @@ title: "Le Message des 7 sceaux, le 7e sceau (première partie)"
 date: "2019-09-06"
 year: 2019
 location: "Koumassi"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Le prédicateur exhorte à comprendre profondément l'évangile, en particulier le renoncement à soi-même et l'identification à la mort et à la résurrection de Christ. Il aborde ensuite le sixième et le septième sceau de l'Apocalypse, décrivant les jugements à venir, une guerre mondiale possible, et l'importance d'être préparé pour échapper à la colère de Dieu."
 tags:
   - "7 sceaux"

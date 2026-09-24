@@ -6,7 +6,7 @@ subtitle: "Exhortation de Mars 2019"
 date: "2019-03-09"
 year: 2019
 location: "Kouassikro"
-preacher: "M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Ce message exhorte les chrétiens à faire de Jésus-Christ leur trésor suprême, en s'appuyant sur Matthieu 13:44 et Matthieu 6:19-21. Le prédicateur souligne que dans les temps difficiles de la fin, seul celui qui a tout abandonné pour le royaume de Dieu pourra tenir ferme et être enlevé. Il appelle à un amour total pour Dieu, selon le premier commandement, et à une vie de sainteté et de séparation du monde."
 tags:
   - "Exhortations"

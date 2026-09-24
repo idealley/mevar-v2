@@ -4,7 +4,7 @@ sermon_id: "exhortation_speciale_de_decembre_2021"
 title: "LE TEMPS DE DIEU"
 date: "2021-12-01"
 year: 2021
-preacher: "Fr M'BRA Parfait"
+preacher: "Parfait M'bra"
 summary: "Cette exhortation de décembre 2021 appelle l'Église à laver sa robe spirituelle par l'obéissance aux commandements de Dieu, à discerner les signes des temps face à la révolution des pervers, et à se laisser conduire par le Saint-Esprit plutôt que par les informations du monde. Elle souligne l'importance de la puissance de Dieu et des miracles dans le combat spirituel, et annonce une nouvelle période dans l'œuvre de Dieu."
 tags:
   - "temps de Dieu"

@@ -5,7 +5,7 @@ title: "Y a-t-il quelque chose d’impossible à Dieu ?"
 date: "2020-08-09"
 year: 2020
 location: "Abidjan"
-preacher: "Pasteur Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "Cette prédication inaugure une série sur la foi, partant de l'inquiétude de Jésus dans Luc 18:8 : trouvera-t-il la foi à son retour ? Le prédicateur explore la question de Genèse 18:14 : 'Y a-t-il rien qui soit étonnant de la part de l'Éternel ?' en montrant que Dieu est le Tout-Puissant pour qui rien n'est impossible, comme illustré par Abraham, Sara, Marie et Élisabeth."
 tags:
   - "foi"

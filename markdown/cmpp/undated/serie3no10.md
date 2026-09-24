@@ -6,7 +6,7 @@ subtitle: "10 novembre 1963, matin"
 date: "1963-11-10"
 year: 1963
 location: "Jeffersonville, Indiana, U.S.A."
-preacher: "William Marrion Branham"
+preacher: "William Branham"
 summary: "William Branham prêche sur les âmes emprisonnées, en se basant sur Jude 5-6, 2 Pierre 2.4-5 et 1 Pierre 3.18-20. Il partage une vision de l'enfer qu'il a eue à 14 ans et une expérience récente où il a vu des femmes maquillées ressemblant aux esprits en prison. Il s'interroge sur le temps présent et la condition spirituelle du monde."
 tags:
   - "âmes en prison"

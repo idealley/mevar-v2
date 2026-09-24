@@ -5,7 +5,7 @@ title: "Le témoignage de Dieu"
 date: "2022-01-15"
 year: 2022
 location: "Matadi, Congo"
-preacher: "Parfait M’BRA"
+preacher: "Parfait M'bra"
 summary: "L'exhortation souligne l'importance du témoignage que Dieu rend de ses serviteurs, en prenant l'exemple de Noé, Daniel et Job. Ces trois hommes ont vécu dans des temps difficiles et ont influencé Dieu par leur conduite. L'orateur encourage les croyants à avoir un cœur tourné vers le retour de Jésus et à triompher du péché et du monde pour recevoir un bon témoignage de Dieu."
 tags:
   - "témoignage"
