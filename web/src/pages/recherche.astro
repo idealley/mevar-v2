@@ -7,9 +7,9 @@ import Layout from "../layouts/Layout.astro";
     <header class="mb-8">
       <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">Recherche</h1>
       <p class="text-lg text-muted-foreground">
-        Dans le texte de toutes les prédications, exhortations, études et
-        publications, en français et en anglais. Filtres par prédicateur,
-        année et source.
+        Dans le texte des prédications, exhortations, études et publications
+        de la mission. Les archives, en français et en anglais, sur demande.
+        Filtres par prédicateur, année et source.
       </p>
     </header>
     <!-- The index and its UI load on first focus, not with the page. -->
@@ -20,12 +20,17 @@ import Layout from "../layouts/Layout.astro";
       placeholder="Un mot, une phrase, un titre"
       class="w-full rounded-md border bg-background px-4 py-3 text-lg"
     />
-    <div id="search"></div>
+    <label class="flex items-center gap-2 mt-4 text-sm">
+      <input id="archives" type="checkbox" />
+      Inclure les archives (Branham, Le Scribe, CMPP…)
+    </label>
+    <div id="search" class="mt-4"></div>
   </div>
 </Layout>
 
 <script>
   const start = document.getElementById("search-start") as HTMLInputElement;
+  const archives = document.getElementById("archives") as HTMLInputElement;
 
   function load() {
     const css = document.createElement("link");
@@ -40,6 +45,10 @@ import Layout from "../layouts/Layout.astro";
         element: "#search",
         showImages: false,
       });
+      // Mevar by default; the archive when the reader asks for it.
+      const collection = () => ui.triggerFilters(archives.checked ? {} : { collection: ["Mevar"] });
+      collection();
+      archives.addEventListener("change", collection);
       start.remove();
       const input = document.querySelector<HTMLInputElement>("#search input");
       input?.focus();
