@@ -121,9 +121,3 @@ Il faut prendre le collyre, il faut oindre tes yeux pour ôter la paille et alor
 Que Dieu vous bénisse, que sa grâce et sa paix soient sur chacun de nous. Et bonne fête de Pâque, même si nous sommes confinés. Mais le Saint-Esprit n’est pas confiné, la Parole de Dieu n’est pas confinée et notre préparation n’est pas confinée. Au contraire, le bon temps que nous avons à la maison aujourd’hui, devrait nous servir pour nous rapprocher de Dieu dans la prière, dans la méditation et dans la communion. Que Dieu garde chacun de nous, qu’Il nous garde de ces démons qui sont entrés dans le monde et qui sont en train de troubler l’humanité entière par des maladies, par des fièvres, des grippes ; ce sont des démons qui sont entrés dans le monde. Mais par la prière, ils seront tous chassés et nous auront le temps de faire ce que nous avons à faire avant que le jugement de Dieu ne vienne s’abattre sur les nations.
 
 Que Dieu vous bénisse et que sa grâce et sa paix soient sur vous.
-
-* * *
-
-### Télécharger le document
-
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/LES%20PLEURS%20ET%20LES%20GRINCEMENTS%20DE%20DENTS.pdf)

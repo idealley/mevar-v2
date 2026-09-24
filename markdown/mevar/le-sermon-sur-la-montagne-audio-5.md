@@ -141,9 +141,3 @@ Que Dieu vous bénisse et que sa grâce et sa paix soient sur vous.
 -   [La chute de Sédécias \[audio\]](/la-chute-de-sedecias/)
 -   [L'aumône selon Jésus Christ \[audio\] (6)](/l-aumone-selon-jesus-christ-le-sermon-sur-la-montagne-6/)
 -   [La prière selon Jésus \[audio\] (7)](/la-priere-selon-jesus-le-sermon-sur-la-montagne-7/)
-
-* * *
-
-### Télécharger le document
-
-[Télécharger le PDF](https://mevar.org/content/files/2022/12/Bonne%20vision%20de%20la%20sanctification.pdf)
