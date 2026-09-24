@@ -1,0 +1,69 @@
+# GOAL 09: Each Mevar text once
+
+**Status:** ready (independent of goal 08; goal 10 waits for it)
+**Repo:** `mevar-v2` (`scripts/`, `manifests/`, frontmatter of `markdown/onedrive/` and `markdown/mevar-pdfs/`)
+**Rules:** [README.md](README.md)
+
+## Problem
+
+Three sources hold the preaching of the mission: the 331 Ghost posts
+(`mevar`), 69 PDFs linked from mevar.org (`mevar-pdfs`) and 339 texts from
+OneDrive (`onedrive`). The same sermon is often in two or three of them, as
+a transcript of a different quality or a different version. Goal 08 lists
+all three as Mevar once goal 10 has promoted them: without this goal, a
+reader would see the same sermon twice or three times.
+
+What exists does not settle it:
+
+- `63-dedup-vs-mevar.mjs` compares the first 200 words of four letters or
+  more, as a set. 158 OneDrive texts have a `mevar_match`, none above 0.9
+  (18 between 0.7 and 0.9, 140 between 0.5 and 0.7), though titles like « Le
+  culte de la vierge Marie » (0.745) are plainly the same sermon.
+- `81-dedup-mevar-pdfs.mjs` triages the PDFs against OneDrive by file hash,
+  file name and a fingerprint, into definite / likely / probable / unique.
+  The result is a manifest, never applied to the frontmatter.
+
+## Design
+
+1. **One comparison, full text.** A new script compares every pair across
+   the three sources (and within OneDrive, which holds versions of the same
+   file) on the whole body: normalised words (case, accents, punctuation),
+   shingles of 5 words, containment in both directions (a short version
+   inside a long one is a duplicate). Titles are a signal, not the test.
+   Output: `manifests/mevar-duplicates.json`, one entry per group with the
+   scores.
+2. **Three bands, measured before they are fixed.** Print the score
+   distribution first and choose the thresholds from it: *same text*
+   (applied), *same sermon, different text* (applied, see 3), *uncertain*
+   (not applied, listed for Samuel with the first 300 words of each side).
+3. **Which one stays.** The Ghost post whenever there is one: its URL is the
+   one readers and Google know. Between a PDF and a OneDrive text, the one
+   with more of the sermon (containment), then the cleaner one (fewer
+   OCR-like tokens); the report says which rule chose. The others get
+   `duplicate_of: "<source>/<id>"` in their frontmatter. Nothing is deleted:
+   the text stays in `markdown/`, goal 08 does not build it.
+4. **Idempotent.** A second run changes nothing; Samuel's decisions on the
+   uncertain band are read from a committed file
+   (`manifests/mevar-duplicates-decided.json`), so a rerun keeps them.
+
+## Stop point
+
+The uncertain band goes to Samuel as a list in the PR (pairs, scores,
+excerpts). He answers per pair; the answers are committed; the script is
+rerun. Nothing in the uncertain band is applied on a guess.
+
+## Scope out
+
+Merging two versions into one text, the editorial pass (goal 10), any
+change to a body.
+
+## Acceptance evidence
+
+- The score distribution, the thresholds chosen and why.
+- Counts per band and per source pair; the size of the Mevar set after the
+  goal (Ghost posts + PDF and OneDrive texts that are not duplicates).
+- Five *same sermon, different text* groups shown with the rule that chose
+  the one that stays.
+- `git diff --stat` touches only frontmatter of `markdown/onedrive/` and
+  `markdown/mevar-pdfs/` (the `duplicate_of` lines) and the two manifests;
+  a second run is a no-op.
