@@ -44,6 +44,7 @@ bible_refs:
   - "Actes 2"
   - "Amos 3"
   - "Apocalypse 10"
+  - "Apocalypse 10:1-7"
   - "Apocalypse 12"
   - "Apocalypse 13"
   - "Apocalypse 16"

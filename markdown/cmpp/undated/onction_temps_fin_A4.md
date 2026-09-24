@@ -34,6 +34,7 @@ bible_refs:
   - "Apocalypse 22"
   - "Matthieu 3"
   - "Ésaïe 60"
+  - "Ésaïe 60:21"
   - "Ésaïe 61"
 ---
 L'ONCTION DU TEMPS DE LA FIN

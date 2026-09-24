@@ -49,12 +49,12 @@ themes:
 llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 13"
-  - "2 Rois 19"
+  - "2 Rois 19:1-4"
   - "Apocalypse 12"
   - "Daniel 9:1-4"
-  - "Esther 4"
+  - "Esther 4:1-4"
   - "Jean 3:16"
-  - "Jonas 3"
+  - "Jonas 3:1-7"
   - "Malachie 4"
   - "Matthieu 11:20-24"
   - "Matthieu 24"

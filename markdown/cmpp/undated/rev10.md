@@ -56,7 +56,7 @@ bible_refs:
   - "Matthieu 17"
   - "Matthieu 2"
   - "Osée 11"
-  - "Romains 11"
+  - "Romains 11:15-27"
 ---
 WILLIAM MARRION BRANHAM
 

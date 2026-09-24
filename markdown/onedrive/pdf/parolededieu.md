@@ -55,7 +55,7 @@ bible_refs:
   - "Apocalypse 21:27"
   - "Apocalypse 22:15"
   - "Apocalypse 3"
-  - "Jacques 1"
+  - "Jacques 1:21"
   - "Jacques 1:23-25"
   - "Jean 17:17"
   - "Jean 8:12"

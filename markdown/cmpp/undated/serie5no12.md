@@ -42,7 +42,7 @@ themes:
 pdf_url: "http://cmpp.ch/serie5no12.pdf"
 llm_cleaned: true
 bible_refs:
-  - "Hébreux 11"
+  - "Hébreux 11:1-3"
   - "Jean 14"
   - "Malachie 4"
 ---

@@ -40,6 +40,7 @@ llm_cleaned: true
 bible_refs:
   - "1 Corinthiens 12"
   - "Apocalypse 11"
+  - "Apocalypse 11:3"
   - "Apocalypse 13"
   - "Apocalypse 19"
   - "Apocalypse 22"

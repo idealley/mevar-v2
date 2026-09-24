@@ -56,6 +56,7 @@ bible_refs:
   - "Genèse 3:15"
   - "Genèse 3:20"
   - "Genèse 4"
+  - "Genèse 4:1"
   - "Genèse 5"
   - "Genèse 6"
   - "Jean 10"

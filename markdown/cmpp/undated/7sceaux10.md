@@ -58,7 +58,7 @@ bible_refs:
   - "Apocalypse 11"
   - "Apocalypse 14"
   - "Apocalypse 7"
-  - "Apocalypse 8"
+  - "Apocalypse 8:1"
   - "Deutéronome 29"
   - "Matthieu 24"
   - "Ésaïe 9"

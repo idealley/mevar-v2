@@ -34,7 +34,7 @@ bible_refs:
   - "Matthieu 5"
   - "Psaumes 1"
   - "Psaumes 1:1-3"
-  - "Éphésiens 2"
+  - "Éphésiens 2:1"
   - "Éphésiens 2:1-8"
   - "Éphésiens 2:13-18"
   - "Ésaïe 9"

@@ -44,6 +44,7 @@ bible_refs:
   - "Apocalypse 17"
   - "Genèse 6"
   - "Hébreux 2"
+  - "Hébreux 2:1-4"
   - "Hébreux 4"
   - "Jean 15"
   - "Jean 5"

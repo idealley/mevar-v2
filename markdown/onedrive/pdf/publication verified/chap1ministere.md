@@ -82,6 +82,7 @@ bible_refs:
   - "2 Timothée 4"
   - "Actes 1"
   - "Actes 13"
+  - "Actes 13:1"
   - "Actes 16"
   - "Actes 19"
   - "Actes 2"
@@ -118,7 +119,6 @@ bible_refs:
   - "Luc 1"
   - "Luc 21"
   - "Luc 22"
-  - "Luc 23"
 ---
 # Les 5 Ministères de la Parole dans la vision des temps de la fin
 

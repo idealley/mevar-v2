@@ -44,6 +44,7 @@ bible_refs:
   - "Apocalypse 12"
   - "Apocalypse 2"
   - "Apocalypse 21"
+  - "Apocalypse 21:1"
   - "Apocalypse 6"
   - "Genèse 1"
   - "Genèse 4"

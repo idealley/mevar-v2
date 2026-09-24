@@ -19,7 +19,7 @@ uuid: "e7fc7399-b2a1-485b-bf69-d293224402ea"
 stream_url: "https://mevar.org/l-appel-de-1933/"
 bible_refs:
   - "2 Thessaloniciens 2"
-  - "Amos 3"
+  - "Amos 3:3-8"
   - "Apocalypse 12"
   - "Apocalypse 19"
   - "Apocalypse 3"

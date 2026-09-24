@@ -78185,7 +78185,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/rev10.md",
-    "size_bytes": 142452,
+    "size_bytes": 142458,
     "line_count": 1304
   },
   {
@@ -79069,8 +79069,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/7sceaux1.md",
-    "size_bytes": 166169,
-    "line_count": 1484
+    "size_bytes": 166193,
+    "line_count": 1485
   },
   {
     "source": "cmpp",
@@ -79381,8 +79381,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/7sceaux6.md",
-    "size_bytes": 134243,
-    "line_count": 1023
+    "size_bytes": 134267,
+    "line_count": 1024
   },
   {
     "source": "cmpp",
@@ -79494,8 +79494,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/7sceaux8.md",
-    "size_bytes": 153991,
-    "line_count": 1601
+    "size_bytes": 154013,
+    "line_count": 1602
   },
   {
     "source": "cmpp",
@@ -79567,7 +79567,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/7sceaux10.md",
-    "size_bytes": 139973,
+    "size_bytes": 139975,
     "line_count": 1315
   },
   {
@@ -80137,8 +80137,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/serie3no6.md",
-    "size_bytes": 137486,
-    "line_count": 1220
+    "size_bytes": 137507,
+    "line_count": 1221
   },
   {
     "source": "cmpp",
@@ -80858,8 +80858,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/serie4no2.md",
-    "size_bytes": 91045,
-    "line_count": 863
+    "size_bytes": 91067,
+    "line_count": 864
   },
   {
     "source": "cmpp",
@@ -81193,7 +81193,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/serie5no12.md",
-    "size_bytes": 86095,
+    "size_bytes": 86099,
     "line_count": 458
   },
   {
@@ -81678,8 +81678,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/serie4no10.md",
-    "size_bytes": 203049,
-    "line_count": 2029
+    "size_bytes": 203071,
+    "line_count": 2030
   },
   {
     "source": "cmpp",
@@ -81806,8 +81806,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/serie6no2.md",
-    "size_bytes": 125543,
-    "line_count": 1136
+    "size_bytes": 125567,
+    "line_count": 1137
   },
   {
     "source": "cmpp",
@@ -83273,8 +83273,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/serie6no4.md",
-    "size_bytes": 121062,
-    "line_count": 964
+    "size_bytes": 121084,
+    "line_count": 965
   },
   {
     "source": "cmpp",
@@ -86931,7 +86931,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/il_est_ecrit.md",
-    "size_bytes": 76263,
+    "size_bytes": 76267,
     "line_count": 634
   },
   {
@@ -88892,7 +88892,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/lc55.md",
-    "size_bytes": 89908,
+    "size_bytes": 89914,
     "line_count": 571
   },
   {
@@ -89572,8 +89572,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/2013/video_12_2013.md",
-    "size_bytes": 9846,
-    "line_count": 75
+    "size_bytes": 9867,
+    "line_count": 76
   },
   {
     "source": "cmpp",
@@ -90884,8 +90884,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/eden.md",
-    "size_bytes": 38303,
-    "line_count": 235
+    "size_bytes": 38321,
+    "line_count": 236
   },
   {
     "source": "cmpp",
@@ -91605,8 +91605,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/cmpp/undated/onction_temps_fin_A4.md",
-    "size_bytes": 29748,
-    "line_count": 84
+    "size_bytes": 29768,
+    "line_count": 85
   },
   {
     "source": "cmpp",
@@ -149690,7 +149690,7 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/babylone-la-grande-ville.md",
-    "size_bytes": 69731,
+    "size_bytes": 69734,
     "line_count": 218
   },
   {
@@ -151682,7 +151682,7 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/l-appel-de-1933.md",
-    "size_bytes": 78158,
+    "size_bytes": 78162,
     "line_count": 207
   },
   {
@@ -156309,7 +156309,7 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/le-fruit-de-lesprit-la-paix.md",
-    "size_bytes": 74956,
+    "size_bytes": 74958,
     "line_count": 290
   },
   {
@@ -158593,7 +158593,7 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/les-liens-spirituels.md",
-    "size_bytes": 37653,
+    "size_bytes": 37655,
     "line_count": 128
   },
   {
@@ -160122,8 +160122,8 @@
     "llm_cleaned": false,
     "original": null,
     "local_md": "markdown/mevar/qu-ismael-vive-devant-ta-face.md",
-    "size_bytes": 35371,
-    "line_count": 192
+    "size_bytes": 35355,
+    "line_count": 191
   },
   {
     "source": "mevar",
@@ -165382,7 +165382,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/chap1ministere.md",
-    "size_bytes": 138671,
+    "size_bytes": 138675,
     "line_count": 757
   },
   {
@@ -166996,7 +166996,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/babyloneville.md",
-    "size_bytes": 69307,
+    "size_bytes": 69310,
     "line_count": 226
   },
   {
@@ -167203,7 +167203,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/parolededieu.md",
-    "size_bytes": 99572,
+    "size_bytes": 99575,
     "line_count": 243
   },
   {
@@ -173337,7 +173337,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/lesac.md",
-    "size_bytes": 48106,
+    "size_bytes": 48118,
     "line_count": 210
   },
   {
@@ -175632,7 +175632,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/exho_sept11.md",
-    "size_bytes": 25792,
+    "size_bytes": 25795,
     "line_count": 133
   },
   {
@@ -176716,7 +176716,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exo_juillet2012.md",
-    "size_bytes": 32851,
+    "size_bytes": 32854,
     "line_count": 159
   },
   {
@@ -177834,8 +177834,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/exo_de_ juin_2013.md",
-    "size_bytes": 27193,
-    "line_count": 125
+    "size_bytes": 27177,
+    "line_count": 124
   },
   {
     "source": "onedrive",
@@ -178032,8 +178032,8 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/exho_ juillet_2013.md",
-    "size_bytes": 34783,
-    "line_count": 167
+    "size_bytes": 34767,
+    "line_count": 166
   },
   {
     "source": "onedrive",
@@ -181899,7 +181899,7 @@
     "llm_cleaned": true,
     "original": null,
     "local_md": "markdown/onedrive/pdf/publication verified/DEMAS.md",
-    "size_bytes": 62894,
+    "size_bytes": 62898,
     "line_count": 170
   },
   {

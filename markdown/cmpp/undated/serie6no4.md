@@ -48,6 +48,7 @@ bible_refs:
   - "Apocalypse 10"
   - "Apocalypse 11"
   - "Apocalypse 3"
+  - "Apocalypse 3:20"
   - "Genèse 1"
   - "Genèse 4"
   - "Genèse 5"
